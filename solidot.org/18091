@@ -1,0 +1,12 @@
+➜伽利略导航卫星系统服务中断
+https://www.solidot.org/story?sid=61343	42590
+欧洲伽利略导航卫星项目分别在 7 月 11 日和 13 日<a href="https://www.gsc-europa.eu/system-status/user-notifications"><u>发出正式通知</u></a>，称由于服务中断信号不能使用，请客户等待进一步的通知。伽利略项目是美国 GPS 的替代导航系统，尚未完全建成，因此受影响的用户不多。根据内部消息来源，服务中断的<a href="https://insidegnss.com/update-galileo-service-degraded-on-all-satellites-precise-timing-facility-problems-cited/"><u>原因</u></a>是位于意大利的地面站 Precise Timing Facility 出现问题。该地面站用于产生伽利略系统时间，上传到卫星，使得用户定位成为可能。到目前为止服务中断已经持续了超过 70 个小时。
+➜英特尔修复了两个新安全漏洞
+https://www.solidot.org/story?sid=61344	48186
+英特尔<a href="https://www.tomshardware.com/news/intel-security-vulnerabilities-processor-diagnostic-tool-ssd,39845.html"><u>修复了两个新安全漏洞</u></a>，一个高危一个中危。第一个漏洞位于处理器的诊断工具中，编号 CVE-2019-11133，可以本地利用，允许用户通过本地访问进行提权或披露信息或拒绝服务，受影响的是 4.1.2.24 之前的版本。第二个漏洞位于用于数据中心的固态硬盘 DC S4500/S460 的固件中，SCV10150 之前的版本受到影响，漏洞利用也需要进行本地物理访问，它潜在允许未经授权的用户进行提权。英特尔过去一个月披露了其产品的多个安全漏洞，其中多数是高危漏洞。
+➜德国黑森州禁止学校使用微软 Office 365
+https://www.solidot.org/story?sid=61345	50372
+德国黑森州数据保护专员<a href="https://datenschutz.hessen.de/pressemitteilungen/stellungnahme-des-hessischen-beauftragten-f%C3%BCr-datenschutz-und"><u>做出裁决</u></a>，<a href="https://www.zdnet.com/article/microsoft-office-365-banned-in-german-schools-over-privacy-fears/"><u>禁止</u></a>学校使用微软的 Office 365。这一裁决是过去几年关于学校或其它政府机构是否应该使用微软软件展开辩论得出的结果。用户在使用微软的 Office 365 平台，除了提供个人信息外，还会将遥测数据发回美国。遥测数据除了标准的软件诊断信息外还会包含用户内容，比如文档或邮件主题中的语句。这些做法违反了欧洲的数据保护规定 GDPR。微软曾尝试解决德国对数据保护的担忧，因此一度将德国用户的数据储存在德国境内。但在 2018 年 8 月，微软关闭了德国的本地储存，因此遥测数据再次传回了美国。美国过去几年通过的法律赋予了政府更多权力，可以向科技公司索要数据。鉴于这些情况数据保护专员禁止学校使用微软的云服务。
+➜国际象棋大师被发现使用藏在卫生间里的手机作弊
+https://www.solidot.org/story?sid=61346	52674
+世界国际象棋联合会<a href="https://www.espn.com/espn/story/_/id/27182239/grandmaster-flush-chess-player-cheated-toilet"><u>宣布</u></a>，在法国进行的一场比赛中，象棋大师 Igors Rausis 被抓到作弊。他被发现在比赛期间使用藏在卫生间里的手机。Rausis 承认了自己的作弊行为，表示自己已经下完了最后一盘棋。58 岁的 Rausis 出生于苏联，他目前代表捷克共和国参赛，之前代表过拉脱维亚和孟加拉国。他在 1992 年成为国际象棋大师，目前排名第  53 位。这不是第一次发现利用手机作弊，而这位象棋大师此前已经因为个人分数过去几年大幅提高而引发怀疑。

@@ -1,0 +1,68 @@
+➜即刻搜索与盘古搜索合并
+https://www.solidot.org/story?sid=35832	6745
+<a href="mailto:nacy.cute@gmail.com">有钱一起烧</a> 写道 <i>"东方网<a target="_blank" href="http://news.eastday.com/chyauto/2013-08-01/505714.html"><u>报道</u></a>，即刻搜索和盘古搜索于8月1日上午宣布合并，新华社副社长周锡生将担任新公司CEO，而邓亚萍的去留尚不清楚。即刻搜索前身为人民搜索，由人民网于2010 年推出，当年9月，前乒乓球世界冠军邓亚萍开始担任人民搜索总经理。2011年6月，人民搜索正式启用新域名 jike，变更为即刻搜索。今年2月，邓亚萍和即刻搜索陷入舆论漩涡，坊间传闻即刻搜索两年时间烧掉20亿人民币资金，但市场份额却少得可怜。后有消息称20亿为误传，即刻搜索实际花费仅数千万元。不论实际烧掉多少资金，即刻搜索偏低的市场份额却是不争的事实。盘古搜索由新华社和中国移动共同打造，定位于国家级搜索引擎，于 2011 年 2月正式上线。两支搜索国家队走到了一起，或许能通过整合资源扭转烧钱局面。"</i>
+➜成人网站YouPorn使用Redis之经验谈
+https://www.solidot.org/story?sid=35833	7200
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "此前《在整个互联网中，成人网站有多大？》这篇<a href="http://blog.jobbole.com/12479/" target="_blank">文章</a>提到了『YouPorn 是全球第二大的色情网站，足够提供研究数据。YouPorn 有“超过 100 TB 的干货”，每天网页浏览量超过 1 亿。』另外，2012年2月份，YouPorn 的技术人员 Eric Pickup 在 Google 群组宣告他们网站改用 Redis DB 后。扛住了每天1亿PV浏览量，每秒30万请求。最近，RedisToGo 的 Justin对 Manwin 集团（YouPorn和Pornhub之类的成人网站背后的公司）的 IT 总监 Eric Pickup 做了一次<a href="http://blog.togo.io/redisphere/how-youporn-uses-redis-sfw-edition/" target="_blank">采访</a>（<a href="http://blog.jobbole.com/44629/" target="_blank">中文</a>）。在采访中，Eric 讲述他们向 Redis 的迁移过程，为什么要做这样的迁移，以及迁移后的成效。
+"</i>
+➜NSA的X-Keyscore系统能发现系统漏洞跟踪VPN会话
+https://www.solidot.org/story?sid=35834	13524
+<div align="center"><img src="http://img.solidot.com.cn/0/584/liHfvV45qX9eE.png" align="" height="249" width="320"><br>
+</div>
+<br>
+英国《卫报》发表了32页的<a target="_blank" href="http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation"><u>机密演示文件</u></a>，曝光了NSA的<a target="_blank" href="http://arstechnica.com/tech-policy/2013/08/nsas-internet-taps-can-find-systems-to-hack-track-vpns-and-word-docs/#p3"><u>XKeyscore系统</u></a>。通过部署在全球骨干网节点的Linux服务器集群，XKeyscoreX能跟踪全球网络流量分析网络行为发现网络系统漏洞，然后展开针对性的入侵。根据一张幻灯片所示（如图），XKeyscore系统可以显示目标国家所有存在漏洞可被入侵的机器。XKeyscore系统本质上是一个被动的端口扫描器，它允许NSA观察流出国家防火墙的流量搜索中国或伊朗境内的计算机系统。另一张幻灯片显示X-Keyscore系统能跟踪VPN会话，拦截和缓存加密电子邮件和Word文档元数据，由于全球互联网惊人的流量，NSA缓存通过监控节点流量的时间为三天，元数据最高为30天。
+➜维基百科决定默认启用HTTPS
+https://www.solidot.org/story?sid=35835	14234
+在NSA的XKeyscore系统<a target="_blank" href="http://www.solidot.org/story?sid=35834"><u>曝光</u></a>之后，维基媒体基金会<a target="_blank" href="https://blog.wikimedia.org/2013/08/01/future-https-wikimedia-projects/"><u>宣布</u></a>，它将对所有用户默认启用HTTPS加密。维基媒体将从8月21日开始重定向所有登录用户到HTTPS。中国从今年5月底起<a target="_blank" href="http://www.solidot.org/story?sid=34967"><u>屏蔽了</u></a>HTTPS版的维基百科，至今没有解封也没有任何解释，维基媒体的决定意味着所有中国维基百科登录用户必须使用某种翻墙工具。
+➜中国军事网游《光荣使命OL》上线
+https://www.solidot.org/story?sid=35836	15594
+<div align="center"><img src="http://img.solidot.com.cn/0/585/lit16ZlQPMGgg.jpg" align="" height="211" width="320"><br>
+</div>
+<br>
+由巨人网络和南京军区共同开发的中国军事网游《<a target="_blank" href="http://www.plagame.cn/"><u>光荣使命OL</u></a>》于周四傍晚上线，该游戏将用作中国军方的模拟训练科目。玩家将在游戏中保卫钓鱼岛，假想敌为日军。游戏官网声明称：“玩家将与解放军并肩作战，拿起手中的武器告诉日本‘领土主权不容侵犯’。”日本防务省拒绝就该游戏的发布予以置评。巨人网络发言人Richard Chiang<a target="_blank" href="http://cn.reuters.com/article/CNTechNews/idCNCNE97102X20130802"><u>表示</u></a>，解放军有兴趣开发一个基于中国军方真实武器的3D互动游戏进行模拟训练，“中国军方100%支持这个游戏。中国人不用玩(美国的)《使命召唤》，扮演美国海军陆战队士兵向俄罗斯人等射击，他们可以扮演中国军人。”
+➜摩托罗拉公布Moto X
+https://www.solidot.org/story?sid=35837	23675
+<div align="center"><img src="http://img.solidot.com.cn/0/587/liuVo3EfFbPo.jpg" align="" height="286" width="300"><br>
+</div>
+<br>
+摩托罗拉在纽约公布了Google收购之后的第一部新手机<a target="_blank" href="http://www.motorola.com/us/consumers/Moto-X/moto-x,en_US,pg.html"><u>Moto X</u></a>。配置和主要特色早已提前几周曝光——运行Android 4.2.2 Jelly Bean，1.7GHz Snapdragon S4 Pro，以及专门处理传感器信号的自然语言处理器和关联计算处理器，2GB内存，一千万像素后置摄像头，二百万像素前置摄像头，4.7英寸AMOLED 720×1280 316ppi，16GB/32GB储存空间。Moto X为美国组装，最大卖点是<a target="_blank" href="http://arstechnica.com/gadgets/2013/08/motorolas-big-move-hands-on-with-the-moto-x"><u>非接触式控制</u></a>，当手机处于休眠之中用户发出语音命令“OK Google Now”，手机会立即开始监听，准备执行下一步命令。摩托罗拉声称，手机定制响应使用者的声音，其他人发出的命令并不会引发混乱，例如一间房间内有许多部Moto X，有人走进来说，“OK, Google Now, call John”，所有人的Moto X手机并不是真的一起DDoS John。在美国，Moto X的两年合约价为199.99美元/249.99美元（32GB版）。
+➜上海声称随意发布35℃以上高温预报违法
+https://www.solidot.org/story?sid=35838	25781
+最近一段时间，上海及周边地区经历了高温的<span class="st">炙烤。</span>为何高温天气如此之多？上海气象局用了大多数人听不懂的术语解释说，“汛期季节进程提前，副热带高压位置偏北，尤其是7月副高偏北偏西，且稳定少动。东亚夏季风偏强，北方冷空气偏弱。”因为高温天气频繁，网络上开始流传未来几天的高温预报。上海市气象部门<a target="_blank" href="http://newspaper.jfdaily.com/xwwb/html/2013-08/01/content_1069473.htm"><u>表示</u></a>，35℃以上高温已属灾害性天气，随意发布预报和警报已涉嫌违法。非法向社会发布公众气象预报、灾害性天气警报的，由有关气象主管机构按照权限责令改正，给予警告，可以并处五万元以下的罚款。根据《<a target="_blank" href="http://www.gov.cn/ziliao/flfg/2005-09/27/content_70627.htm"><u>中国气象法</u></a>》和《<a target="_blank" href="http://www.mlr.gov.cn/wskt/flfg/201004/t20100419_715851.htm"><u>气象灾害防御条例</u></a>》，“国家对公众气象预报和灾害性天气警报实行统一发布制度...擅自向社会发布灾害性天气警报、气象灾害预警信号，以及传播虚假的或者通过非法渠道获取的灾害性天气信息和气象灾害灾情，可给予警告，处5万元以下的罚款；构成违反治安管理行为的，由公安机关依法给予处罚。”
+➜下一代iPad Mini可能也可能没有配备视网膜显示屏
+https://www.solidot.org/story?sid=35839	29556
+两个新闻来源几乎在同一时间报导了一则内容<a target="_blank" href="http://arstechnica.com/apple/2013/08/sources-confirm-that-next-ipad-mini-will-or-will-not-have-retina-display/"><u>截然相反</u></a>的苹果流言：9to5Mac<a target="_blank" href="http://9to5mac.com/2013/07/31/apple-has-a6-based-ipad-mini-without-retina-display-in-the-works/"><u>报导</u></a>苹果正在研发下一代iPad Mini，使用A6处理器，但没有配备视网膜显示屏；《华尔街日报》引用知情人士消息源<a target="_blank" href="http://online.wsj.com/article/SB10001424127887324635904578640954218628498.html"><u>报导（付费墙）</u></a>，苹果下一代iPad Mini配备了视网膜显示屏，该公司将从夏普、LG和三星采购显示屏，三星和苹果关系错综复杂而且正在打多个官司，苹果继续从竞争对手采购显示屏据称是为了确保显示屏供应量充足。下一代iPad Mini究竟有没有配备视网膜显示屏？《华尔街日报》“也许”更可信一点。
+➜非洲的老大哥住在北京
+https://www.solidot.org/story?sid=35840	32022
+华为在非洲十八个国家有办事处，过去二十年投入了数十亿美元建造非洲通信网络，它的廉价手机统治了多数非洲重要市场。华为自称它的使命是帮助非洲<a target="_blank" href="http://www.huawei.com/cn/about-huawei/sustainability/digital-divide/index.htm"><u>消除数字鸿沟</u></a> ，但众所周知，中国大型企业与政府关系密切，他们的对外投资都代表着政府的战略利益，而今天中国最主要的兴趣是经济方面。《外交政策》<a target="_blank" href="http://www.foreignpolicy.com/articles/2013/07/30/africas_big_brother_lives_in_beijing_huawei_china_surveillance?page=0,0"><u>报导</u></a>，美国安全专家担心当华为控制着非洲的通信网络之后，它可以利用后门或恶意程序，随心所欲的刺探非洲的商业经济秘密。华为不只是为非洲国家提供通信设备，它还常常为当地通信公司和政府运营网络。美国海军战争学院的Chris Demchak说，通信系统的大部分操作人员都是中国人，而系统的维护和未来升级决策都是由华为作出。
+➜美国执法机关在居民搜索压力锅和背包之后上门询问
+https://www.solidot.org/story?sid=35841	33734
+美国麻省居民Michele Catalano在寻找压力锅相关的在线信息，而她的丈夫在同一时间段搜索了背包（波士顿爆炸案嫌凶利用的工具就是背包和压力锅自制炸弹）。结果在周三早晨，六名反恐特勤队成员出现在他们的家门口，<a href="http://www.theatlanticwire.com/national/2013/08/government-knocking-doors-because-google-searches/67864/"><u>调查他们是否是恐怖分子</u></a>。为什么政府会知道他们在Google上搜索了什么东西？这事与NSA和FBI无干，警察之所以知道他们搜索背包和压力锅，原因是他们搜索使用的是前雇主的工作电脑，前雇主因为搜索可疑而通知了当地警方。Catalano回忆说，警方先询问了他们的工作和父母住址，然后问有没有炸弹，有没有压力锅，她的丈夫回答说没有压力锅只有电饭锅，电饭锅是用来煮<span style="cursor: pointer;">藜麦的，警察问“</span><span style="cursor: pointer;"><span style="cursor: pointer;">藜麦是什么东东</span>”....</span>
+➜USB 3.1规格完成，传输速度提高到10Gbps
+https://www.solidot.org/story?sid=35842	35814
+<img src="http://img.solidot.com.cn/0/588/lipiep9xeJe0g.png" align="left">USB 3.0最大理论传输速度5Gbps是USB 2.0 480Mbps的十倍，然而相比英特尔的Thunderbolt接口仍然有不小差距。但USB规格也不是停滞不前。USB Promoter Group刚刚<a target="_blank" href="http://www.usb.org/press/USB-IF_Press_Releases/SuperSpeedUSB_10Gbps_Available_20130731.pdf"><u>宣布</u></a>（PDF）USB 3.1规格已<a target="_blank" href="http://arstechnica.com/gadgets/2013/08/usb-3-1-spec-finalized-horns-in-on-thunderbolts-turf-with-10gbps-speeds/"><u>制定完成</u></a>，其理论最大传输速度提高到了10Gbps。USB 3.1使用了更高效的数据编码，完全兼容于现有的USB连接线和连接器，也兼容于现有的USB 3.0软件堆栈和堆栈设备级协议。USB 2.0被称为Hi-speed，USB 3.0是SuperSpeed，新的USB 3.1规格则叫SuperSpeed+。虽然Thunderbolt能提供最高 20Gbps数据传输速度，但其普及度远远不如USB，它主要应用于苹果的Mac产品线。
+➜Windows 8普及度超过Vista，Firefox继续下滑
+https://www.solidot.org/story?sid=35843	37544
+<div align="center"><img src="http://img.solidot.com.cn/0/589/ligTt6nUdGRm2.jpg" align="" height="144" width="340"><br>
+</div>
+<br>
+2013年7月，Windows 8的普及度终于超过Vista，Firefox在浏览器市场的占有率继续下滑， Firefox和Chrome之间的差距日益缩小。根据Net Market的<a target="_blank" href="http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0"><u>统计</u></a>，在操作系统市场，Windows 8占5.4%，超过了Vista的4.24%，Windows 7和XP的变化仍然很小，分别占44.49%和37.19%。在<a target="_blank" href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=0&amp;qpcustomd=0"><u>浏览器市场</u></a>，Firefox减少 0.86个百分点至18.29%，Chrome增加0.59至17.76%。Internet Explorer 增加 0.46至56.61%。IE8是最流行的浏览器占23.52%，其次是IE10 15.36%，IE6仍然有6.10%，依旧是第七大流行的浏览器。
+➜三星广告公司试图收买StackOverflow用户
+https://www.solidot.org/story?sid=35844	40057
+三星雇用的一家广告公司<a target="_blank" href="http://delyan.me/08-01-2013/samsung-agency-is-buying-off-stackoverflow-users/"><u>试图收买</u></a>一位叫Delyan Kratunov的StackOverflow用户在网站上提出有关三星公司的提问。StackOverflow是流行的社区问答网站。这家广告公司试图在StackOverflow上推广名叫Samsung Smart App Challenge（SSAC）的活动，他们希望一个月时间内在StackOverflow上出现四条与SSAC相关的提问，但不希望被视为广告垃圾信息，所以需要StackOverflow的资深成员以一种巧妙低调的方式发布，之后还要与回答者一唱一和。Kratunov最终拒绝了对方的邀请。
+➜全国科研经费只有四成用于研发
+https://www.solidot.org/story?sid=35845	41576
+《南方都市报》<a target="_blank" href="http://epaper.oeeee.com/A/html/2013-08/01/content_1906723.htm"><u>报导</u></a>，广州副市长王东表示，全国科研经费大概只有40%是真正用于科技研发的，60%都用于开会、出差等。他指出，“大学的经费，有的是通过关系(获得的)，还有一些潜规则，为什么会出事？给了多少，还要返还多少，这就是制度不完善造成的。”当然这一数据并非今天才出来，早在两年前就有报导称，中国科协调查发现科研资金用于项目本身<a target="_blank" href="http://www.solidot.org/story?sid=26826"><u>仅占40%左右</u></a>，大量科研经费流失在项目之外。2012年我国科研经费支出为<a target="_blank" href="http://www.solidot.org/story?sid=33695"><u>10240亿元</u></a>，如果该比例正确，这意味着大约六千亿元被浪费掉了。
+➜Ubuntu Edge 3200万集资难获得成功
+https://www.solidot.org/story?sid=35846	43696
+从来没有一家公司试图在大众集资平台融资超过两千万美元的，而Canonical却将Ubuntu Edge智能手机的融资目标定在了3200万美元。目前距离活动关闭还有20天，但它只达到目标的四分之一——<a target="_blank" href="http://www.indiegogo.com/projects/ubuntu-edge"><u>791万美元</u></a>，Canonical的融资活动极有可能流产，除非创始人<span class="st"><em></em>Mark Shuttleworth从他的亿万财富中拿出一部分。根据Kickstarter平台上的历史数据，大众集资通常遵循一个可预测的模式：高开低走最后出现短暂的高潮。根据这一模式，</span>Ubuntu Edge最终可能收于<a target="_blank" href="http://www.openanalytics.eu/blog/using-kickstarter-data-predict-ubuntu-edges-success"><u>1800万美元</u></a>。即便失败，这个数目也已够惊人了。此前史上集资金额<a target="_blank" href="http://www.solidot.org/story?sid=35321"><u>最高</u></a>的项目是
+《<a href="http://robertsspaceindustries.com/star-citizen/"><u>Star Citizen</u></a>》，但它之所以能创下纪录原因在于开发商一直在其网站上开放捐赠。
+➜研究发现全球变暖与暴力冲突存在相关性
+https://www.solidot.org/story?sid=35847	45986
+根据发表在《科学》上<a target="_blank" href="http://www.sciencemag.org/content/early/2013/07/31/science.1235367"><u>一篇量化分析报告</u></a>，全球变暖可能<a target="_blank" href="http://www.nature.com/news/warming-climate-drives-human-conflict-1.13464"><u>会导致暴力冲突增加</u></a>。研究人员分析了60篇有关环境变化和人类侵略活动的研究数据，显示无论是巴西、中国、德国、索马里还是美国，都呈现相似的模式。研究发现一个月内平均温度比通常升高3摄氏度，人与人之间暴力活动频率会增加4%，内战或暴动风险增加14%。洪水和干旱也会产生影响，但其影响没有温度大。研究预测，到2050年全球变暖可能会导致群体之间冲突风险增加50%。
+➜先有女人还是先有男人？
+https://www.solidot.org/story?sid=35848	46981
+人类是先有男人还是先有女人？研究表明智人最近的共同女性祖先——即线粒体“夏娃”——在地球上出现的时间比最近的共同男性祖先——Y染色体“亚当”——要早得多。但是根据发表在《科学》上的<a target="_blank" href="http://www.sciencemag.org/content/341/6145/562.abstract"><u>研究报告</u></a>，<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-08/aaft-msa072913.php"><u>两者合并的时间相近</u></a>。Y染色体是男性特有，<a target="_blank" href="http://zh.wikipedia.org/wiki/%E7%BA%BF%E7%B2%92%E4%BD%93DNA"><u>线粒体DNA</u></a>只能从母系继承，因此能被用来追踪女性的世系。研究人员对男性基因组的测序发现，Y染色体最近的共同祖先是在12万至15.6万年前在地球上出现的。对线粒体DNA用同样的分析技术，研究人员计算出线粒体及其现代母体世系起源于大约9.9万年至14.8万年前。他们认为，人类父系世系是在18万年至20万年前合并在一起的。
+➜《阿凡达》续篇将拍成三部曲
+https://www.solidot.org/story?sid=35849	59306
+<a href="mailto:nacy.cute@gmail.com">SSterminator</a> 写道<i> "影史票房纪录保持者《阿凡达》在 2009 年上映之后，其续作情况一直受人关注。而<a href="http://www.engadget.com/2013/08/01/avatar-sequels-start-in-2016/" target="_blank">根据 Engadget的消息</a>，导演卡梅隆和 20 世纪福克斯公司计划将这个吸金大作再延续三部，也就是说《阿凡达》最终会成为四部曲，当然，各种前传后传番外也是有可能的。编剧 Rick Jaffa,、Amanda Silver、 Shane Salerno 和 Josh Friedma 正在进行第&nbsp;2、3 和 4 部的剧本创作工作。其中第二部将于 2016 年 12 月上映，然后 2017 年，2018 年接力上映后面两部。担任特效制作的是 WETA 数字公司。 按照这个公布的计划和之前的传言，四部曲的后面三部很可能是连续拍摄，分期上映。而 2009 年到 2016 年的 7 年时间里，电影技术狂人詹姆斯卡梅隆将会把电影特效技术带到一个怎样的高度呢？首部《阿凡达》的票房纪录会不会由卡梅隆亲手打破呢？"</i>

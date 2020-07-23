@@ -1,0 +1,79 @@
+➜百度 VS 起点：拷问搜索引擎中立性
+https://www.solidot.org/story?sid=24045	300
+<a href="http://www.520566.net/">深圳SEO</a> 写道<i> "我们把起点小说周点击排行及月点击排行进行了一下搜索，发现几乎有一半的小说排名都被百度自家的贴吧占据第一名！<a href="http://www.520566.net/wp-content/uploads/2011/05/baidu-qidian.jpg">看图说话</a>。从图中我们可以看出，这些首发于起点的小说，一半以上的排名位置都被百度自己以及其他的盗版网站群占据。其中大部分的付费章节都在百度贴吧里第一时间被泄露。起点与百度的战争，必须要越过百度强大到可怕的公关能力以及被百度滥用当做挡箭牌“避风港”这两道槛。<a href="http://www.520566.net/baidu-dominate-qidian.html">干掉侯小强的李彦宏</a>，到底还能存活多长时间。"</i>
+➜中国概念股面临跨国审计监管
+https://www.solidot.org/story?sid=24046	2160
+<a href="http://blog.163.com/moro80@126/">慕容鱼吐的新闻泡</a> 写道 <i>"《21世纪经济报道》<a href="http://www.21cbh.com/HTML/2011-5-18/4MMDAwMDIzODg4Mg.html">报导</a>，中美两国的监管部门历经近四年磋商，最快将在数月内达成一份跨国监管协议。对中国大陆40余家会计师事务所而言，在他们参与的赴美上市公司审计业务中，存在多年的灰色地带或将消失。美国公众公司会计监督委员会（PCAOB）官员说，鉴于一年来中国概念股屡屡发生会计师辞职和明显的财务问题，两国财政部和证券监管部门商讨的解决方案将有希望在近期落定。美方直接诉求是，和中方就承担美国上市公司审计业务的事务所监管达成信息互通，联合实地检查乃至特别调查的工作机制。而中方在美国境内也享有同等权利。
+"</i>
+➜Google主席称互联网黑名单让西方中国化
+https://www.solidot.org/story?sid=24047	5760
+Google主席Eric Schmidt在英国举行的一个会议上，<a href="http://www.guardian.co.uk/technology/2011/may/18/google-eric-schmidt-piracy">对互联网黑名单表达了强烈的反对立场</a>。<i>
+他指出设立黑名单是把复杂问题简单化，政府在这方面应该谨慎从事。屏蔽网站似乎是处理打击盗版等问题的很有吸引力的解决方案，但将会树立不好的先例，因为其他国家比如中国可能会说，我不喜欢言论自由所以我屏蔽所有国际网站。</i>
+根据新浪的<a href="http://tech.sina.com.cn/t/2011-05-18/22555541485.shtml">报导</a>，Eric Schmidt还表示摩尔定律与Android的结合在未来几年内将战胜腐败和独裁统治。在谈到“尽管拥有自由言论权利但西方民众对政治越来越冷漠”时，他说，他们变得懒惰了，忘记了那些为自由而牺牲的人们。
+➜Windows 7如何知道你的网络连接受限？
+https://www.solidot.org/story?sid=24048	8640
+5月6日，如果你的电脑运行的是Windows7操作系统，你可能会注意到“网络受限”的警告，这是一种非常特别的受限：你可以访问任意国内网站，但国际网站的访问全部受限。问题是：<a href="http://tech.slashdot.org/story/11/05/17/2355256/How-Windows-7-Knows-About-Your-Internet-Connection">微软是怎么知道你的网络连接状况的呢</a>？<i>
+<a href="http://superuser.com/questions/277923/how-does-windows-know-whether-it-has-internet-access-or-if-a-wi-fi-connection-req">原来</a>，每当用户连接到网络时，Windows 7会向微软的一个域名发送访问请求，访问结果作为网络连接状况指示器（<a href="http://technet.microsoft.com/en-us/library/cc766017(WS.10).aspx">Network Connectivity Status Indicator</a>，NCSI）。Vista率先采用了该服务。NCSI首先在dns.msftncsi.com上执行一次DNS查询，然后请求访问文件http://www.msftncsi.com/ncsi.txt，这是一个明文文件只包括文字“Microsoft NCSI”。dns.msftncsi.com应该解析为131.107.255.255，如果地址不匹配，那么它会猜测网络连接工作不正常。对于NCSI的这项功能，一些用户可能会担心隐私问题，因为微软会在网站日志中记录下每次连接的IP地址。如果你不想微软知道你的网络连接状况，可以<a href="http://blog.superuser.com/2011/05/16/windows-7-network-awareness/">修改注册表禁用NCSI服务</a>，或者修改为访问自己的服务器。</i>
+➜纽约居民起诉百度和中国审查互联网
+https://www.solidot.org/story?sid=24049	10560
+路透社<a href="http://www.reuters.com/article/2011/05/18/us-baidu-censorship-lawsuit-idUSTRE74H7N120110518">报导</a>，八位纽约居民向曼哈顿联邦地区法院起诉中国最大的搜索引擎公司百度，指控其违反美国宪法侵犯言论自由。<i>
+百度被控阴谋和政府合作过滤支持民主的言论。审查影响到了美国地区，它违反了美国的宪法第一修正案，也违反了联邦和纽约的相关公民权利法。这项诉讼寻找索赔1600万美元，但不寻求百度改变其政策。百度尚未对此发表评论，该公司的股票未受到诉讼的影响。原告是八位华人：张健、杨光、雪娃、张玉红、王天成、宋书元、陈立群、傅申奇。他们表示到美国上市的中国公司应该尊重美国的法律。</i>
+➜Ubuntu 11.10的九大新变化
+https://www.solidot.org/story?sid=24050	12240
+上周举行的<a href="http://summit.ubuntu.com/">Ubuntu开发者峰会</a>透露了Ubuntu 11.10中可能发生的<a href="http://www.arnnet.com.au/article/386892/nine_features_we_may_see_ubuntu_11_10_oneiric_ocelot_/">新变化</a>：<i>
+改进Unity用户界面；GNOME经典桌面可能将不包含在Ubuntu CD中，但会包含GNOME 3；电子邮件客户端可能采用Mozilla Thunderbird；由于空间有限，默认的Ubuntu CD可能将放弃LibreOffice；默认浏览器可能用Chromium替代；放弃有太多bug的PiTiVi视频编辑器或Computer Janitor；LightDM 替代GDM；默认备份工具<a href="https://launchpad.net/deja-dup">Déjà Dup</a>；改进Ubuntu软件中心与Unity的整合，简化用户界面。</i>
+➜微软称每14次下载就有一次是恶意程序
+https://www.solidot.org/story?sid=24051	20400
+微软SmartScreen项目经理Jeb Haber在官方博客上<a href="http://blogs.msdn.com/b/ie/archive/2011/05/17/smartscreen-174-application-reputation-in-ie9.aspx">表示</a>，IE浏览器的反馈显示，用户每14次下载就有一次是恶意程序，利用社会工程技术诱骗用户运行恶意程序，比攻击安全漏洞更普遍。IE的SmartScreen技术是设计引导用户远离未知和潜在不可信的软件，然而仍然有5%的忽视警告。SmartScreen至今共屏蔽了超过15亿次恶意程序下载。
+➜方校长在武汉大学访问被学生扔鞋砸
+https://www.solidot.org/story?sid=24052	24300
+<a href="http://www.lovelucy.info/">whuhacker</a> 写道<i> "公元2011年5月19日, <a href="http://twitter.com/#!/hanunyi">@hanunyi</a> 在武大扔鸡蛋未命中后, 用鞋子<a href="http://t.sina.com.cn/k/%25E6%2596%25B9%25E6%25A0%25A1%25E9%2595%25BF?Refer=Index_header">砸中</a> GFW 的主要代表方校长, 打响了物理上 FuckGFW 的第一枪。
+<br>
+据悉，方校长在武汉大学计算机学院B座404会议室进行学术交流。此前有推特网友<a href="http://twitter.com/#!/search/%E6%96%B9%E6%A0%A1%E9%95%BF">悬赏</a>砸中方校长，至少可以得到ipad2一个，《国家囚徒》一本，香港大餐一席，新鞋子一双，上海及成都美女拥抱各一。"</i>
+➜科学家发现流浪的行星
+https://www.solidot.org/story?sid=24053	24600
+天文学家认为银河系中可能<a href="http://news.sciencemag.org/sciencenow/2011/05/homeless-planets-may-be-common.html">有大量没有母星的流浪行星</a>。<i>
+过去二十年，天文学家在太阳系外识别出了超过500颗类行星天体。其中大部分围绕恒星旋转，一小部分无法确定其质量，它们可能是流浪的行星也可能是恒星。对于恒星行星之间的区分，一般认为小于13倍木星质量的天体属于行星，13倍到60倍木星质量的天体属于褐矮星。日本大阪大学的天体物理学家Takahiro Sumi和同事在《自然》期刊上发表了一篇<a href="http://www.nature.com/nature/journal/v473/n7346/full/nature10076.html">论文</a>，基于引力透镜效应发现了10个木星大小的天体，在其15亿千米——相当于太阳到土星——范围内没有发现恒星。他们认为这些天体<a href="http://news.sciencemag.org/sciencenow/2011/05/homeless-planets-may-be-common.html">很有可能是流浪的行星</a>。Sumi表示流浪的行星在银河系中可能十分普遍。</i>
+➜D-Wave宣布商业化量子计算机
+https://www.solidot.org/story?sid=24054	25500
+<a href="http://www.dwavesys.com/en/dw_homepage.html">D-Wave</a>公司宣布<a href="http://blogs.forbes.com/alexknapp/2011/05/17/d-wave-announces-commerically-available-quantum-computer/">出售</a>第一种量子计算机系统<a href="http://www.dwavesys.com/en/products-services.html">D-Wave One</a>。<i>
+D-Wave One配置一个128量子比特的处理器。量子比特是量子信息的基本单元，类似传统计算机的比特。该公司宣称，它的计算机能处理AI应用，解决与复杂系统有关的难题，以及数论问题。</i>
+➜美国出于防御目的保留天花病毒
+https://www.solidot.org/story?sid=24055	27600
+在联合国日内瓦总部举行的一个新闻招待会上，美国卫生部长Kathleen Sebelius表示，美国承诺最终毁灭库存的天花病毒，但担心天花可能会重新爆发，以及作为生化武器有意或无意的释放出来。<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/05/17/international/i023057D74.DTL">因此科学家需要病毒研制疫苗</a>。数百年来，天花病毒杀死了三分之一的感染者，它最终在三十年前消失。最后一个已知病例于1978年发生在英国。联合国卫生组织在1996年首次同意毁灭天花病毒，但这一决议并未执行。WHO去年认为天花有益于药物开发。目前有451个病毒标本存放在亚特兰大疾病控制中心，120个病毒株存放在俄罗斯西伯利亚Vector实验室。美国政府已签订合约，花费大约30亿美元购买1400万剂天花疫苗。
+➜研究发现咖啡能降低乳腺癌的机率
+https://www.solidot.org/story?sid=24056	29100
+根据发表在牛津医学期刊JNCI上的<a href="http://jnci.oxfordjournals.org/content/early/2011/05/17/jnci.djr151.abstract?sid=a627bd2d-b499-4220-ae7d-09fcd2b2224e">报告</a>，科学家发现，饮用咖啡能<a href="http://gb.cri.cn/33160/2011/05/16/4925s3247989.htm">有效降低</a>女性罹患乳腺癌的机率。研究发现，有饮用咖啡习惯的女性要比不喝咖啡的患上这种癌症的风险低很多。他们分析了6000名处于更年期的女性的相关数据发现每天喝五杯以上咖啡的女性，要比每天饮用不到一杯的女性患上乳腺癌的机率降低了57%。
+➜日本大地震前当地大气迅速加热
+https://www.solidot.org/story?sid=24057	30420
+NASA戈达德太空飞行中心的科学家在预印本网站上发表了一篇<a href="http://arxiv.org/abs/1105.2841">论文</a>，指出日本九级大地震的断层上方的空气在地震发生前几天<a href="http://www.technologyreview.com/blog/arxiv/26773/">迅速加热</a>。<i>
+科学家发现，在地震前三天，震中上方电离层电子浓度显著增加到最高值。与此同时，卫星观测到震中上方的红外辐射也大幅增加。这些观察与地震电离层耦合机理的理论预测相一致。该理论认为，地震发生前几天，断层中的巨大压力会使大量氡气释放出来。放射性的氡气会电离周围的大气，而水分子会被空气中的离子吸引，电离引发了大规模的水凝结，凝结过程中会释放出热量，向外发射出红外线。氡气的存在也能解释为什么动物在地震前会感到不安。
+</i>
+➜魏武挥被共鸣
+https://www.solidot.org/story?sid=24058	31920
+passivity 写道<i> "根据《<a href="http://china.globaltimes.cn/society/2011-05/656234_2.html">环球时报</a>》消息，上海交大学者魏武挥对滨兴校长提出的供应商为节省费用而限制国际网站访问的说法表示了共鸣。对此魏武挥在腾讯微博上<a href="http://t.qq.com/p/t/48512124913517">表示</a>自己的确“接受过环球时报英文版的采访”，但从未“对北邮方校长的话语表示过任何共鸣”。在另一条微博中他<a href="http://t.qq.com/p/t/16102131029910">写道</a>“我的观点是三个：一为维稳考虑故而有人为干扰；二现在翻的人越多越多，中国国际出口带宽的确很窄，客观上有堵塞可能；三我特别提到了墙也是人开发的程序，是人开发的就一定会出错。三个因素综合起来形成海外网站访问不能的情况”。"</i>
+➜卡巴斯基呼吁成立互联网国际刑警
+https://www.solidot.org/story?sid=24059	33000
+卡巴斯基创始人Eugene Kaspersky称，网络犯罪如今是世界第二大犯罪活动，<a href="http://it.slashdot.org/story/11/05/18/1822208/Kaspersky-Calls-For-Internet-Interpol">未来有必要成立一个互联网国际刑警组织</a>，以在国际执法机构之间达成更好的合作。他认为我们迟早需要一个专门的互联网执法机构。他还指出，某些国家正在创造互联网护照和在线身份证，他认为也许15年后，人人都会有网络护照和ID。
+➜社交杀死大众的智慧
+https://www.solidot.org/story?sid=24060	34920
+大众的智慧已是老生常谈，并有实例证据支持。但在社交环境下，大众的智慧是否真的去芜存菁？根据《美国国家科学院院报》上发表的<a href="http://www.pnas.org/content/early/2011/05/10/1008636108.abstract?sid=1baaf087-335e-49e9-8bcb-7bde4cbd8bdf">一项研究</a>，苏黎世的研究人员发现，<a href="http://arstechnica.com/science/news/2011/05/following-the-crowd-undermines-its-wisdom.ars">社交影响力会抹杀大众的智慧</a>。<i>
+研究人员指出，大众的智慧是一种统计学现象。许多人对于任意指定的一个值只有模糊的感觉，不清楚精确的值。他们的答案会在真实值之间上下浮点，一步步调整答案，越来越接近精确值。也就是说，虽然大众犯的错误很大，但只要没有偏见，错误最终能得到修正。在有些情况下甚至能比专家做的更好。但是，大众身处社交圈，大多数决定是在社交环境中做出的，他们会互相比较答案。研究人员的实验显示，即使是最温和的社会影响力，也会破坏大众智慧。</i>
+➜Linux kernel 2.6.39发布
+https://www.solidot.org/story?sid=24061	37800
+经历65天的开发，Linus Torvalds宣布<a href="http://thread.gmane.org/gmane.linux.kernel/1142216">发布</a>Linux kernel 2.6.39。<i>
+新版的<a href="http://www.h-online.com/open/news/item/Linux-kernel-2-6-39-released-1245668.html">主要特性</a>包括：支持ipset，简化防火墙配置和部署；中断处理能处理所有内核线程；改进ext4文件系统和块设备层性能；支持AMD的Cayman系列显卡，但不支持2D和3D加速；支持Realtek RTL8192CU和RTL8188CU Wi-Fi芯片；网络后端支持Xen虚拟化；等等。</i>
+➜电子纸图像精细度提升至300 dpi
+https://www.solidot.org/story?sid=24062	38700
+电子纸的图像精细度正逼近LCD显示屏。精工爱普生和E Ink<a href="http://global.epson.com/newsroom/2011/news_20110517.html">宣布</a>联合开设一家合资企业，为电子书阅读器<a href="http://www.physorg.com/news/2011-05-dpi-epson-e-ink-epaper-resolution.html">创造精细度为300 dpi的电子纸设备</a>，融合爱普生的高速显示控制器和E Ink高分辨率ePaper显示屏。新设备的显示屏大小为9.68英寸，分辨率2,400 x 1,650，相当于396万像素。
+➜维基百科文章多来自哪个地方
+https://www.solidot.org/story?sid=24063	39240
+维基百科文章可以用<a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Geographical_coordinates">经纬度标记</a>，如今它的文章数量已经超过百万。一个有意思的问题是：哪个地方的人写了最多的文章？不同语言之间的活跃度有何不同？如果分析文章的地理标记，哪个地区密度最高？乔治亚理工学院的计算机科学博士生Mark J.Nelson分析了维基百科2011年3月份的数据库，使用OpenStreetMap、Polymaps和Perl等工具，获得了<a href="http://www.kmjn.org/notes/geographically_dense_wikipedia.html">密度最高的地区分布</a>：
+<i>方圆一公里内，意大利佛罗伦萨市中心最高有405点，其次是瑞典斯德哥尔摩旧城，奥地利维也纳市中心，英国伦敦西区，斯德哥尔摩Hötorget（靠近旧城），英国牛津市中心。方圆十公里范围内：英国伦敦最高，其次是法国巴黎，瑞典斯德哥尔摩，俄罗斯莫斯科，美国纽约，奥地利维也纳，德国柏林，挪威奥斯陆，意大利佛罗伦萨，比利时布鲁塞尔。方圆一百公里范围内：密度最高的是伦敦和西北近郊。</i>
+➜德国之声缩短中文短波广播
+https://www.solidot.org/story?sid=24064	52320
+匿名读者 写道 <i>"德国对外广播机构德国之声<a href="http://www.dw-world.de/notice.html">宣布</a>，将大幅调整对亚洲和欧洲的广播服务。德国之声在发布的新闻稿中说，从2011年11月1日开始，德国之声的中文短波广播将从每天两小时缩短到每天一小时。此前，BBC已经在今年3月底<a href="__SLASHLINK__" sect="it" sid="11/03/25/1040222" sn="article" tid="58">停止了</a>中文短波广播，美国之音也<a href="__SLASHLINK__" sect="internet" sid="11/02/16/0638232" sn="article" tid="87">计划</a>今年11月采取同样举动。"</i>
+➜用基于浏览器的Bitcoin Miner开采虚拟货币
+https://www.solidot.org/story?sid=24065	53520
+Bitcoin社区发布了基于浏览器的<a href="http://forum.bitcoin.org/index.php?topic=8780.0">Bitcoin Miner</a>，允许用户直接从浏览器上开采Bitcoin虚拟货币，无需下载，无需设置，也无需配置。云风的 BLOG介绍了<a href="http://blog.codingnow.com/2011/05/bitcoin.html">Bitcoin 货币的原理</a>：<i>
+BTC (Bitcoin 的货币简称）存在于一个庞大的 p2p 网络中。使用 Bitcoin 的群体公认了一种算法，这种算法在现今的条件下，每小时只会新产生大约 6 组新的 BTC ，目前一组是 50 个(市场价约7.3 美金一个)。也就是说，这个世界上，每个小时大约只会产生 300 个 BTC 。这个产量还会由网络自动调整难度来限制产量。你没办法通过修改所有人的 Client 的算法及参数来加快货币产量。伪造的货币会被网络丢弃。</i>

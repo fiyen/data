@@ -1,0 +1,54 @@
+➜日本用机器人为机器人建造月球基地
+https://www.solidot.org/story?sid=18114	10080
+大众科学<a href="http://www.popsci.com/technology/article/2010-05/japan-wants-moon-base-2020-built-robots-robots">报道</a>，日本宇航局JAXA计划到2020年建造一座月球基地，但不是为人类建造，而是为机器人建造，建造者同样是机器人。日本首相已经授权一个研究小组提出初步方案，人形机器人和轮式机器人将从2015年开始前往月球勘察，然后将在月球南极附近建造一座基地。机器人和基地将使用太阳能提供电力，项目总费用预计为22亿美元。<i>
+小组负责人早稻田大学校长白井克彦（Katsuhiko Shirai）称，重达660磅的机器人将能以基地为中心，在方圆60英里的范围内运作和探测，它们将配备太阳能电池板、调查月球内部结构的地震仪、高清晰摄像机等。它们还将能收集月球岩石样本，并通过火箭运回地球。</i>
+➜4KB扇区磁盘上的Linux
+https://www.solidot.org/story?sid=18115	10800
+IBM开发者园地的一篇文章介绍了<a href="http://www.ibm.com/developerworks/cn/linux/l-4kb-sector-disks/?ca=drs-tp4608">Linux如何使用4KB扇区</a>：<i>
+自2009年12月起，硬盘制造商开始引入使用4096字节扇区的磁盘，而不是常见的512字节扇区磁盘。原因是随着硬盘越来越大，越来越多的数据需要存储在磁盘的每一单位面积上，导致更多低级别错误，从而增加了固件纠错功能的负担。解决该问题的一个方法是将扇区大小从512字节增加为更大的值，以使用功能更强大的纠错算法。这些算法可使每个字节使用较少的数据，从而比使用512字节扇区能纠正更多严重问题。因此，更改为较大尺寸的扇区有两个实际好处：提高可靠性且增加磁盘容量—至少从理论上讲是这样...遗憾的是，整个软件链基本上是基于512字节扇区的假设，包括Linux在内的很多系统并没有为4096字节扇区做好准备。</i>
+➜调查发现女性更喜欢偷窥丈夫的邮件和短信
+https://www.solidot.org/story?sid=18116	11520
+英国伦敦政经学院与诺丁汉特伦特大学最近对920对平均年龄49岁婚龄约20年的夫妇<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2010/05/100528_life_wives_internet_spies.shtml">进行了一次问卷调查</a>。
+<i>
+调查显示，14%的妻子查阅过丈夫的电子邮件，13%偷看过丈夫的短信，10%检查过丈夫的网络浏览记录。而丈夫中仅有8%偷看过妻子的电子邮件，6-7%检查过妻子的短信和网络浏览记录。之所以如此，也许是因为丈夫更相信妻子，亦或是他们忙着如何逃过妻子的法眼。</i>
+➜儿童如何走出马克思主义
+https://www.solidot.org/story?sid=18117	19920
+一项新研究<a href="http://news.sciencemag.org/sciencenow/2010/05/how-children-outgrow-socialism.html">发现</a>，儿童一开始都像是一位马克思主义者，崇尚绝对平均主义；但长大后他们最终变得像国际奥委会成员，崇尚公平竞争。
+<i>
+实验经济学家Alexander Cappelen领导的研究小组让一群10岁到18岁的青少年志愿者参加名为“独裁者游戏”的经济学实验。研究人员发现，10到11岁的儿童多数是绝对平均主义者，他们不管伙伴的成绩，满足于平等地划分金钱；但18岁年龄组的受试者则倾向于分给自己更多的钱，他们认为这是根据成绩自己应该得到的。<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-05/aaft-cof052410.php">这些发现证明</a>，随着孩子年龄的增长，他们似乎对人的真实成绩（而不是他们的运气）变得越来越重视。研究人员认为青春期是塑造儿童公正概念的重要阶段。<a href="http://www.sciencemag.org/cgi/content/abstract/328/5982/1176">报告</a>发表在最新一期《科学》杂志上。</i>
+➜比工资影响满足感
+https://www.solidot.org/story?sid=18118	20880
+巴黎经济学院研究人员对欧洲24国一万九千人的调查发现，四分之三的人认为比较自己与他人的收入很重要。但比较之后，尤其是和亲友而不是同事比较之后，<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/05/100529_salary_blues.shtml">人们会感到更不满足</a>。<a href="http://www3.interscience.wiley.com/journal/123420690/abstract">报告</a>发表在《经济期刊》上。
+<i>
+研究发现，经济条件不好的人受到的影响更大。不仅贫穷国家的人更容易比较收入，富裕国家的穷人也有这个倾向。研究发现的其它现象还包括：越重视工资差别的人越觉得自己的生活标准和人生满意度不如别人，而且越容易出现抑郁。在影响程度方面，和大学同学比工资造成的痛苦比和工作同事比要高出一倍，因为和同事的差别往往被看作是公平与否的问题，而和同学的差别则更容易让人觉得自己能力不如别人。</i>
+➜STIX项目发布科学字体集V1.0版
+https://www.solidot.org/story?sid=18119	21600
+<a href="http://www.stixfonts.org/">Scientific and Technical Information Exchange</a>（STIX）字体创建项目在经历15年的开发之后终于正式发布了科学字体集<a href="http://science.slashdot.org/story/10/05/28/2222233/STIX-Project-Releases-v10-of-Its-Scientific-Fonts-Set">V1.0版</a>。<i>
+STIX项目的目标是“服务于科学和工程社区，为科学论文的手稿创作和最终出版配备一系列完备的字体，包括电子和印刷格式”。STIX曾宣布将在2005年9月发布1.0版，但正式版直到今天才发布。这些<a href="http://www.aip.org/stixfonts/font_download.jsp">字体</a>（下载）采用<a href="http://www.stixfonts.org/user_license.html">SIL Open Font</a>许可证授权，未来科学字体将有可能通过浏览器支持的数学置标语言（Mathematical Markup Language，MathML）而得到广泛应用。</i>
+➜《霍比特人》电影延期
+https://www.solidot.org/story?sid=18120	22680
+《指环王》三部曲甘道夫扮演者的Ian McKellen爵士曾<a href="__SLASHLINK__" sect="mainpage" sid="10/03/19/0345222" sn="article" tid="116">透露</a>，《指环王》前传《霍比特人》将在7月开拍。但现在导演Guillermo Del Toro确认，《霍比特人》的拍摄<a href="http://entertainment.slashdot.org/story/10/05/28/2049209/The-Hobbit-On-Hold">被无限期搁置</a>，原因是这部电影卷入了关于米高梅电影工作室的未来的一场“错综复杂的谈判”之中。不过，《指环王》的导演、《霍比特人》电影的制片人彼得杰克逊否认了电影遭遇困境的流言，坚称不是推迟，因为他们从来没有正式宣布拍摄日期。
+➜《拆弹部队》制作方起诉5000文件共享者
+https://www.solidot.org/story?sid=18121	24720
+2009年奥斯卡最佳影片《拆弹部队》的制作方<a href="http://yro.slashdot.org/story/10/05/28/2147239/The-Hurt-Locker-Producers-Sue-First-5000-File-Sharers">宣布起诉</a>5000名通过BitTorrent非法下载电影的文件共享者。<i>
+独立制片公司Voltage Pictures向华盛顿特区一家法院<a href="http://reporter.blogs.com/files/dcd-04502992578.pdf">起诉</a>（PDF）了5千名匿名网民，这些网民的身份未知，目前只知道他们的IP地址。Voltage的律师声称，如果法庭不阻止人们继续盗版《拆弹部队》，那么Voltage将会遭受到巨大而难以弥补的伤害，这种伤害无法通过金钱去补偿或衡量。Voltage要求法庭命令任何非法下载《拆弹部队》的盗版者销毁电脑或其它电子设备中储存的所有拷贝。至于经济损失，Voltage没有给出特定数目，但表示将由法庭作出实际或法定损害赔偿。</i>
+➜Tetris公司通知Google移除所有俄罗斯方块克隆
+https://www.solidot.org/story?sid=18122	25920
+Tetris公司通知Google移除Android应用程序商店中的<a href="http://games.slashdot.org/story/10/05/28/079200/Tetris-Clones-Pulled-From-Android-Market">所有俄罗斯方块克隆游戏</a>。<i>
+基于俄罗斯方块的克隆游戏开发者已经收到了应用程序暂时下线的通知，理由是违反了Android的开发内容政策（Developer Content Policy）。Google承认它收到了来自Tetris公司的<a href="http://www.scribd.com/doc/32052396/Tetris-LLC-pulled-out-Clones-from-Android-Market">DMCA（数字千年版权法）通知</a>(PDF)，要求删除所有俄罗斯方块的游戏克隆。Android Market中有36款游戏因此下线。<a href="http://zh.wikipedia.org/zh-cn/%E4%BF%84%E7%BE%85%E6%96%AF%E6%96%B9%E5%A1%8A">俄罗斯方块</a>是前苏联科学家阿列克谢·帕基特诺夫在1984年6月利用空闲时间所编写的游戏程序，风靡全世界。目前俄罗斯方块版权由Tetris公司持有，开发相关游戏需得到其授权。</i>
+➜美司法部调查苹果涉嫌操作音乐价格
+https://www.solidot.org/story?sid=18123	30000
+<a href="http://www.hi2020.com/">书评影评</a> 写道 "据<a href="http://news.cnet.com/8301-13579_3-10406155-37.html">CNET</a>报道，作为对苹果商业行为展开调查的一个组成部分，美国司法部已经接触了主要唱片公司的法律部门，寻求有关苹果在数字音乐市场可能存在的价格操纵资料。
+司法部还谈及到相关数字音乐服务问题。对苹果iTunes展开调查的消息，首先是由<a href="http://www.nytimes.com/2010/05/26/technology/26apple.html">《纽约时报》</a>报道的。该报道称，司法部对关于苹果阻止唱片公司参与亚马逊的“Daily Deal”促销活动的指控正在进行审查。亚马逊的“Daily Deal”促销活动于2008年6月份推出，不过这在去年夏天成为iTunes愤怒的主题，iTune当时向主要唱片公司抱怨亚马逊的这一促销活动。"
+➜Microsoft Tag试用手记
+https://www.solidot.org/story?sid=18124	52920
+<a href="http://www.wpmind.com/">WPMind.com</a> 写道<i> "经过一年半的漫长等待，前几天微软终于将其“<a href="http://gettag.mobi/">Microsoft Tag</a>”产品从Beta版改为了正式版本。“Microsoft Tag”就是微软自家的一种二维条形码技术，不过和我们常规看到的那些黑白的二维条形码不一样的地方在于微软用了彩色的三角形来存储数据信息。<a href="http://www.wpmind.com/news/2010/05/30/microsoft-tag.html">本文</a>则对于 Microsoft Tag系统做一简单的介绍，希望对大家有所帮助。"</i>
+➜太阳的反常行为
+https://www.solidot.org/story?sid=18125	53100
+多数人都知道太阳有个<a href="http://zh.wikipedia.org/zh-cn/%E5%A4%AA%E9%99%BD%E9%80%B1%E6%9C%9F">11年</a>的活跃周期。太阳极小期是太阳最不活跃的时期，这段时间内黑子和耀斑出现的数量极少。然后黑子数量慢慢地增多，最后进入到太阳极大期，太阳活动达到最高峰。<i>
+但恐怕很少人知道，目前的太阳极小期持续的时间长到了<a href="http://science.slashdot.org/story/10/05/29/1542214/The-Suns-Odd-Behavior">让天文学家都感到大惑不解</a>。上一个太阳周期于2008年进入到最低谷，新一轮的活跃周期应该正朝着极大期前进，然而至今太阳黑子仍旧十分罕见，<a href="__SLASHLINK__" sect="science" sid="09/04/10/0344237" sn="article" tid="102">太阳显得过于平静</a>。太阳物理学家承认这种现象十分奇怪，难以解释。</i>
+➜Gish开源
+https://www.solidot.org/story?sid=18126	55800
+作为<a href="__SLASHLINK__" sect="games" sid="10/05/12/0841201" sn="article" tid="13">Humble Indie Bundle大获成功</a>的承诺，Gish正式<a href="http://games.slashdot.org/story/10/05/30/1412236/Physics-Platformer-Gish-Goes-Open-Source">宣布开源</a>，<a href="http://www.crypticsea.com/download/gishsource153.zip">源代码</a>（zip）采用GPLv2授权。不过开发者开源的只是引擎，不包括关卡等数据。
+<i>
+<a href="http://en.wikipedia.org/wiki/Gish_(video_game)">Gish</a>是一款支持Windows、Mac OS X和Linux的2D物理游戏，讲述了一个英雄救美的故事，英雄Gish有着非同寻常的能力，他的胶状属性能使其根据需要改变形态，变得具有粘性、滑性或更沉重。</i>

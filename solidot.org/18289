@@ -1,0 +1,22 @@
+➜英特尔第三次给 Zombieload 漏洞打补丁
+https://www.solidot.org/story?sid=63361	34868
+去年 5 月，计算机科学家<a href="https://www.solidot.org/story?sid=62586"><u>披露了</u></a>起名为 ZombieLoad 的 CPU 漏洞，该漏洞影响  2011 年之后发布的几乎所有英特尔处理器。和 Meltdown、Spectre&nbsp; 等漏洞类似，ZombieLoad 利用预测执行，去实现跨线程、权限边界和超线程的数据泄露。芯片巨人先后在去年 5 月 和 11 月释出了两次补丁去修复 Zombieload 漏洞。本周一，英特尔在<a href="https://software.intel.com/security-software-guidance/software-guidance/l1d-eviction-sampling"><u>安全通知</u></a>中承认之前的修复并不充分，攻击者仍然能利用 Zombieload 泄露数据，它第三次<a href="https://it.slashdot.org/story/20/01/27/2126231/intel-is-patching-its-zombieload-cpu-security-flaw-for-the-third-time"><u>释出了补丁</u></a>。
+➜Bitcoin Gold 再次遭到 51% 攻击
+https://www.solidot.org/story?sid=63362	46071
+数字货币 Bitcoin Gold（BTG）<a href="https://thenextweb.com/hardfork/2020/01/27/bitcoin-gold-51-percent-attack-blockchain-reorg-cryptocurrency-binance-exchange/"><u>再次遭到 51% 攻击</u></a>，攻击者在控制区块链之后双花了价值约 7.2 万美元的 BTG——所谓双花是指重复使用 BTG。上一次它遭到 51% 攻击<a href="https://www.solidot.org/story?sid=56594"><u>是在 2018 年 5 月</u></a>。在最新的攻击中，攻击者在控制了 51% 的算力之后先后两次重组了区块链网络，第一次双花了 1,900 BTG (约 $19,000)，第二次 5,267 BTG ($53,000)。要控制 51% 的算力数字货币开发者 James Lovejoy 估计攻击者只需要花大约 1200 美元去租赁机器。任何实体在控制了区块链网络 51% 的算力之后可以决定网络拒绝或接受哪个区块链版本。
+➜微软表示将向所有 Windows 7 用户释出补丁修复桌面变黑 bug
+https://www.solidot.org/story?sid=63363	46648
+微软本月早些时候向 Windows 7 释出了最后一批补丁，终止了对该版本的支持，此后软件巨人将只向付费机构提供 Windows 7 补丁。然而微软的最后一批补丁被发现存在 bug，有 Windows 7 用户在安装之后遭遇了桌面变成黑色。这个 bug 究竟修不修呢？是只给付费用户修还是免费提供给所有 Windows 7 用户？微软<a href="https://betanews.com/2020/01/27/windows-7-black-desktop-fix-2/" target="_blank"><u>最终决定</u></a>它将向所有用户免费释出补丁修复 bug。补丁预计要到下个月中旬的例行更新时释出。
+➜英国宣布有限度使用华为 5G 设备
+https://www.solidot.org/story?sid=63364	46998
+英国政府<a href="https://www.bbc.com/zhongwen/simp/uk-51283556"><u>宣布</u></a>，在 5G 网络建设中“有限度”使用华为技术。核心“敏感”部分以及军事基地、核设备等附近区域都禁止使用华为设备。多方专家指出，唐宁街新主人决心脱欧后让包括电信业的英国基础设施升级换代的宏大计划，没有华为的 5G 技术，就要难很多，至少要昂贵出很多。但英国政府也知道，华为用还是不用，最终多少都是要得罪美国或中国一方，实在为难。英国如今的决定虽然没有完全顺了美国的心意，但也没有彻底得罪中国。
+➜最高法解释瘟疫时期的“谣言”
+https://www.solidot.org/story?sid=63365	47776
+最高法院在新浪微博上<a href="https://weibo.com/ttarticle/p/show?id=2309404465698775629865#_0"><u>发表文章</u></a>，谈论了最近引发争议的武汉处理 8 名网民，他们被指发表了所谓“不实消息”但最终证明是事实，其中一名医生后来还感染了新肺炎。文章称：<i>
+在武汉市公安机关处罚的 8 名发布“华南水果海鲜市场确诊 7 例 SARS”的案件中，如果机械地理解适用法律，我们的确可以认定，鉴于新型肺炎不是 SARS，说武汉出现了 SARS，属于编造不实信息，且该信息造成了社会秩序的混乱，符合法律规定的编造并传播虚假信息的行为，给予其行政处罚甚至刑事处罚，有其正当性。但是，事实证明，尽管新型肺炎并不是 SARS，但是信息发布者发布的内容，并非完全捏造。如果社会公众当时听信了这个“谣言”，并且基于对 SARS 的恐慌而采取了佩戴口罩、严格消毒、避免再去野生动物市场等措施，这对我们今天更好地防控新型肺炎，可能是一件幸事。 所以，执法机关面对虚假信息，应充分考虑信息发布者、传播者在主观上的恶性程度，及其对事物的认知能力。只要信息基本属实，发布者、传播者主观上并无恶意，行为客观上并未造成严重的危害，我们对这样的“虚假信息”理应保持宽容态度。 试图对一切不完全符合事实的信息都进行法律打击，既无法律上的必要，更无制度上的可能，甚至会让我们对谣言的打击走向法律正义价值的反面，成为削弱政府公信力的反面教材，成为削弱党的群众基础的恶性事件，成为境内外敌对势力攻击我们的无端借口。  </i>
+➜Linux 5.5 发布
+https://www.solidot.org/story?sid=63366	48027
+Linus Torvalds <a href="https://lore.kernel.org/lkml/CAHk-=wigRZ6TSJU09bMk3Df2DiOw83B7TrQUq+iXroQCK5EVAQ@mail.gmail.com/T/"><u>宣布</u></a>发布 Linux 5.5。主要新特性包括：Btrfs RAID1 支持 3 和 4 个拷贝，支持新的校验和；内核单元测试框架<a href="https://lwn.net/Articles/780985/"><u> KUnit</u></a>；<a href="https://lwn.net/Articles/705884/"><u> Airtime Queue Limits</u></a> 改进 WiFi 连接质量；CIFS 可作为 root 文件系统使用；BPF 支持<a href="https://lwn.net/Articles/803258/Type%20checking%20for%20BPF%20tracing" target="_blank"><u>类型检查和 BPF Trampoline</u></a>；AMD OverDrive 超频支持 Navi GPU；iopl()模拟；io_uring 新命令；live-patch 状态跟踪；新的 CPU 负载平衡算法，等等。更多可浏览 <a href="https://kernelnewbies.org/Linux_5.5"><u>Kernel Newbies changelog</u></a>。
+➜印度如何切断互联网
+https://www.solidot.org/story?sid=63367	49715
+印度是世界上政治断网次数最多的国家，过去五年的断网次数比其它所有国家之和还要多，2019 年超过 100 次，其中克什米尔邦自去年 8 月以来网络就被切断，至今只是有限的恢复，当地居民只能访问政府批准的 301 个网站，无法使用社交网络，移动网络的速度很慢。<a href="https://spectrum.ieee.org/tech-talk/telecom/internet/how-the-worlds-largest-democracy-shuts-down-the-internet"><u>印度是如何高频率的切断互联网的</u></a>？研究分析师 Jan Rydzak 指出印度的制度框架让政府能频繁断网。印度的法律授予官员以维护公共次序的名义切断互联网，政府不需要先进的互联网关闭开关，地方官员有法定权力能命令电信公司手动关闭网络服务。要断网时，官员只需写信和发邮件给所有在当地有办事处的 ISP，ISP 随后屏蔽所有进出数据。印度超过九成的网民主要依赖于移动网络，而移动网络由数家大型移动公司控制着，这让断网变得更加简单。

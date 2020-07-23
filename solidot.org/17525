@@ -1,0 +1,45 @@
+➜Windows 10 引入了更多 Unix 工具
+https://www.solidot.org/story?sid=54976	12959
+微软释出了计划在明年春天推出的 Windows 10 大更新的内部预览版 Build 17063，软件巨人在其操作系统中<a href="https://www.neowin.net/news/microsoft-releases-windows-10-build-17063" target="_blank"><u>引入了</u></a>更多 Unix 工具。其中包括来自 Unix shell 的两个流行命令行工具  bsdtar 和 curl，bsdtar 提供了创建或提取压缩文件的功能，而 curl 提供了数据传输功能，可以从远程位置下载文件；AF_UNIX；WSL 支持后台运行，在命令提示符窗口关闭之后能继续运行；WSL 还支持用户通过 OpenSSH、VPN、Enter-PSSession 或类似 Windows 远程访问工具建立的远程连接运行；Wslpath 允许将 Linux 路径转换到 Windows 路径，等等。
+➜Apple Lisa 操作系统将开源
+https://www.solidot.org/story?sid=54977	15615
+计算机历史博物馆的 <a href="http://www.computerhistory.org/atchm/author/akossow/" target="_blank"><u>Al Kossow</u></a> 在 Lisalist 邮件列表上<a href="https://groups.google.com/forum/#!topic/lisalist/aIo6cNu54xM" target="_blank"><u>宣布</u></a> Apple Lisa 操作系统将开源并捐赠给计算机历史博物馆。Apple Lisa 是最早提供 GUI 的个人电脑之一，但因为价格过于昂贵而销量不佳。Al Kossow 称 Lisa 的操作系统的应用的源代码已经恢复，正由苹果进行评估，在评估完成之后源代码将会公开，公布时间预计是在 2018 年。
+➜NVIDIA GeForce 驱动禁止部署到数据中心
+https://www.solidot.org/story?sid=54978	18046
+当一个市场被一家企业主导的时候会发生什么？这家企业显然会采取各种措施获取尽可能多的利润。NVIDIA 的 GPU 被广泛用于 AI 领域，被用于加速数据中心。它的消费者级显卡 GeForce 和企业级显卡如 Quadro 和 Tesla 架构相似，但价格天上地下，因此可能会有企业将消费级显卡用于 AI 应用部署到数据中心。但现在 NVIDIA 被发现更新了它的 GeForce 驱动许可证，禁止将其部署到数据中心。许可证 <a href="http://www.nvidia.com/content/DriverDownload-March2009/licence.php?lang=us&amp;type=GeForce" target="_blank"><u>2.1.3 条款</u></a>规定，“No Datacenter Deployment. The SOFTWARE is not licensed for datacenter deployment, except that blockchain processing in a datacenter is permitted.”
+➜研究发现宗教节日期间人的性欲更旺盛
+https://www.solidot.org/story?sid=54979	19474
+人类的繁殖分布在一年中并不均衡。人类的繁殖周期是由生物学还是文化方面的因素驱动的呢？生物学假说认为人类的繁殖周期是对季节性周期的一种适应。而文化假说认为假期等文化因素影响了受孕日期。发表在《Scientific Reports》的<a href="https://www.nature.com/articles/s41598-017-18262-5" target="_blank"><u>一项新研究</u></a>支持了化假说。研究人员发现，在文化和宗教期间互联网上的对性的兴趣高涨了，这与九个月后的出生记录相符合，即使在考虑了语言和假日相关的空闲时间等因素之后。研究人员注意到，即使在非英语母语的国家，Sex 这个英语单词的搜索量更高。
+➜中国最大水上飞机成功首飞
+https://www.solidot.org/story?sid=54980	24733
+中国最大的水陆两栖飞机 AG600 成功<a href="http://news.sciencenet.cn/htmlnews/2017/12/398106.shtm" target="_blank"><u>完成了首飞</u></a>。官媒称这架水陆两栖飞机具备执行 “森林灭火、水上救援” 任务的能力，但它普遍被认为可以让中国的战略触角伸展至其在南中国海宣称拥有的岛屿。AG600 拥有 4 台涡桨发动机和庞大的机身，机腹中心下面是船体。AG600 最大航程达 4500 公里，可轻松地从中国海岸飞抵西太平洋许多地区，最远可达澳大利亚北部海岸。飞机最大起飞重量 53.5 吨，报道称全机 5 万多个结构及系统零部件中 98% 由国内供应商提供。
+➜PureOS 发行版得到了 FSF 的支持
+https://www.solidot.org/story?sid=54981	26861
+笔记本电脑制造商 Purism 使用的发行版 <a href="https://pureos.net/" target="_blank"><u>PureOS</u></a> 得到了自由软件基金会（FSF）的<a href="http://www.fsf.org/news/fsf-adds-pureos-to-list-of-endorsed-gnu-linux-distributions-1" target="_blank"><u>支持</u></a>，列入了 FSF 维护的自由 GNU/Linux 发行版<a href="https://www.gnu.org/distros/free-distros.en.html" target="_blank"><u>名单</u></a>。Purism 注重隐私、安全和易于使用。获得 FSF 支持的发行版不多，只有寥寥几个，Purism 之外还有 BLAG，Dragora GNU/Linux-Libre、Dyneboli、gNewSense、Guix System Distribution、Musix、Parabola、Trisquel 和 Ututo XS 等。
+➜基于植物的肉类替代是否能取代牛肉
+https://www.solidot.org/story?sid=54982	28918
+通过饲养动物来为人类提供肉制品需要消耗惊人的资源，这里还没有考虑杀死动物的伦理问题，而以牛肉为代表的红肉也被认为会增加疾病风险。考虑到肉制品的长期影响，未来我们是否应该以基于植物的肉类替代<a href="https://www.pbs.org/newshour/show/should-plant-based-meat-replace-beef-completely" target="_blank"><u>来完全替代牛肉</u></a>？素肉创业公司的 CEO 们认为，用动物生产食物是今天地球上最具有破坏性的技术之一，他们主张自己的替代食品能提供足够的蛋白质，到 2050 年只需使用 2% 的地球土地就能满足全世界人口的蛋白质需求。相比之下，今天 45 %的土地被用于饲养动物。但牛肉生产商回应称，没有一个实验室能在将基于植物的营养转化成美味蛋白质的能力上打败阉牛，而且动物还是农作物肥料的最佳来源。
+➜中国发射了又一颗军用卫星
+https://www.solidot.org/story?sid=54983	29754
+中国上周六在酒泉卫星发射中心使用长征二号丁<a href="https://www.nasaspaceflight.com/2017/12/long-march-2d-lofts-lkw-2/" target="_blank"><u>发射了</u></a>遥感卫星陆地勘查卫星二号。官媒的说法和以前一样，声称它将被用于科学实验、土地测量、作物评估、灾难监测等民用用途，但分析师认为它是一颗军用间谍卫星，这种做法类似苏联时代用 “宇宙” 这个名字来掩盖卫星的真实性质。这是中国在一个月内发射的第二颗军用遥感卫星，陆地勘查卫星二号被认为是一颗光电观测卫星，其光电传感器分辨率在 1 到 3 米。
+➜租金而不是亚马逊杀死了纽约的商铺
+https://www.solidot.org/story?sid=54984	30822
+过去几年，纽约数以千计的小型商铺关闭，它们被全国连锁店替代。如果连锁店也维持不下去，店面就空着，地主不愿意降价出租。《Vanishing New York》一书的作者 Jeremiah Moss 说，<a href="https://www.theguardian.com/business/2017/dec/24/new-york-retail-shops-amazon-rent" target="_blank"><u>是租金而不是亚马逊杀死了这些商铺</u></a>。商家能与互联网共存，但他们需要合理的租金。这些地主不是过去的那种个人投资者，而是机构投资者和对冲基金，他们不愿意降低租金以匹配零售条件。小型商铺被赶走，替代的是全国连锁店和奢侈品店。他说，如果店面被小型商铺占据，银行会降低这些地产的价值。
+➜为什么 Linux 桌面年一直未到来
+https://www.solidot.org/story?sid=54985	35407
+Red Hat 雇员 Christian F.K. Schaller 以一位使用了 20 年 Linux 桌面用户的身份讨论为什么  Linux 桌面<a href="https://blogs.gnome.org/uraeus/2017/12/19/why-hasnt-the-year-of-the-linux-desktop-happened-yet/" target="_blank"><u>至今没有走向主流</u></a>。他认为原因不是一个或两个，而是一系列因素导致 Linux 没有获得至少 10% 的桌面市场份额。他给出的原因包括：碎片化的市场，缺乏特定应用，缺乏知名应用，API 和 ABI 缺乏稳定性，苹果桌面系统的复兴，微软积极采取措施扼杀任何 Linux 桌面占领立足之地的迹象，Windows 盗版，Red Hat 退出桌面市场，Canonical 没有解决商业模式问题，缺乏 ODM 支持等。Schaller 表示他对未来仍然持乐观态度，Linux 桌面没有获得 10% 市场份额并不意味着未来不会发生，只是目前没有达到目标，开源软件不像私有软件那样会因为企业的倒闭而停止发展。他认为 Linux 桌面已经做好了准备，它已经打磨到足够好的程度，有着更高的硬件支持，更多的软件支持。
+➜OkCupid 开始执行实名制
+https://www.solidot.org/story?sid=54986	38571
+约会网站 OkCupid 开始<a href="https://arstechnica.com/information-technology/2017/12/okcupid-begins-enforcing-real-name-rules-insists-its-a-good-idea/" target="_blank"><u>执行实名制</u></a>，它发表<a href="https://theblog.okcupid.com/an-open-letter-on-why-were-removing-usernames-addressed-to-the-worst-ones-we-ve-ever-seen-dd017c75d49a" target="_blank"><u>公开信</u></a>要求用户使用名字而不是字母数字形式的化名。OkCupid 称它只展示用户的名不展示姓，也不使用外部验证服务要确认你的名字与真实身份相匹配。它的新政策只要求用户提供最少两个单词组成的名字，不要包括数字、符号和绘文字。OkCupid 还将使用一个禁止使用的单词黑名单。实名匿名在中国已经无需争论，但在国外它仍然是一个争议性问题，执行实名制的 Facebook 因这一制度而受到严密审查。 Google+ 因为用户抗议而最终失败。
+➜中国为治理乡村污染大规模拆除猪舍
+https://www.solidot.org/story?sid=54987	39617
+一场旨在减少水污染、稳定猪肉价格的全国性整治行动<a href="http://www.ftchinese.com/story/001075619" target="_blank"><u>导致猪场大规模关闭</u></a>。养猪是中国农村文化的基本组成部分，从字面来看，汉字 “家” 就是 “屋顶” 下有“猪”。如今，中国的许多地区都已经发生了变化。两年前，全世界养殖的 8 亿头生猪中，中国占了一半左右——其中大多是在规模少于 500 头生猪的农村养殖场中。在拆除猪场行动的影响下，中国生猪养殖数现在是 3.5 亿。当局希望，减少养殖将有助于遏制污染。自 2014 年以来，中国在全国范围内划定了 63.6 万平方公里的畜禽养殖禁区，这相当于波兰面积的两倍。当局陆续关闭了数十万个养猪场和禽类养殖场。据官员介绍，仅今年上半年就关闭了逾 20 万个养殖场。小型猪场被拆除已经对猪肉价格产生了影响。
+➜法庭驳回 Grsecurity 指控 Bruce Perens 诽谤的诉讼
+https://www.solidot.org/story?sid=54988	41785
+开源促进会的联合创始人 Bruce Perens 今年 6 月底在博客上谈论了内核加固补丁集项目 Grsecurity，认为该项目违反了 Linux 内核采用的 GPL 许可证。他认为 Grsecurity 是 Linux 的一个衍生作品，它离不开内核，没有内核它无法工作。这意味着 Grsecurity 也必须采用 GPLv2 许可证或兼容 GPLv2 的许可证。Grsecurity 随后<a href="http://www.solidot.org/story?sid=53346" target="_blank"><u>起诉 Bruce Perens 诽谤</u></a>。起诉书称 Grsecurity 遵守了 GPLv2 许可证，该公司的协议只应用于未来的补丁，GPLv2 没有任何条款规定可应用于尚未开发、创造或发布的未来版本或更新。上周加州北区地方法院法官 Laurel Beeler <a href="https://www.theregister.co.uk/2017/12/22/grsecurity_defamation_perens_dismissed/" target="_blank"><u>驳回了这起诉讼</u></a>，认为 Perens 的言论不是诽谤。他的博文是有关受争议法律问题的观点，不是事实的错误断言。Perens 先生不是律师，他发表的是 Grsecurity Access Agreement 侵犯 General Public License 的观点，他的观点不是能被证明错误的事实，因此不构成诽谤行为。
+➜Ruby 2.5.0 发布
+https://www.solidot.org/story?sid=54989	43233
+Ruby 2.5 系列<a href="https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/" target="_blank"><u>第一个稳定版本</u></a>发布，新版包括了一系列新的特性和性能改进。主要变化包括：rescue/else/ensure 允许直接与 do/end 块使用，yield 增加 yield_self，Struct.new 能创建接受关键字参数的类，最高级常量查询不再可用，移除所有 trace 指令提升 5-10% 性能，SecureRandom 将更偏向使用操作系统提供的 SSL 库，等等。
+➜NASA 开始计划 2069 年星际旅行
+https://www.solidot.org/story?sid=54990	46092
+NASA 喷气推进实验室的科学家<a href="https://www.newscientist.com/article/mg23631576-000-exclusive-nasa-has-begun-plans-for-a-2069-interstellar-mission/" target="_blank"><u>提议（付费墙）</u></a>在阿波罗 11 号发射一百周年的 2069 年发射飞船<a href="https://nypost.com/2017/12/20/nasa-planning-interstellar-mission-for-2069/" target="_blank"><u>去探索</u></a> 4.3 光年外的半人马座阿尔法星。飞船将能以十分之一光速飞行，因此它所需要的大部分技术目前还不存在。如果 NASA 能在 2069 年实现这一目标，那么飞船将能在 44 年内抵达半人马座α。<a href="https://zh.wikipedia.org/wiki/%E5%8D%97%E9%96%80%E4%BA%8C" target="_blank"><u>半人马座α </u></a>或南门二是一个三合星系统，有三颗恒星，是距离太阳最近的恒星系，只有 4.37 光年，它至少有一颗行星。但星际旅行面临的最大障碍是开发出能长距离飞行的推进技术。

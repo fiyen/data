@@ -1,0 +1,9 @@
+➜微软放弃继续开发 Visual Basic
+https://www.solidot.org/story?sid=63817	22720
+微软 DevBlogs <a href="https://devblogs.microsoft.com/vbteam/visual-basic-support-planned-for-net-5-0/"><u>宣布</u></a>从 .NET 5 开始，Visual Basic 将支持  Class Library、Console、Windows Forms、WPF、Worker Service 和 ASP.NET Core Web API 等，为想要将现有应用迁移到 .NET Core 的 VB 客户提供一条路径，而 Visual Basic 语言本身将不会继续发展或引入新特性，未来将主要着重于稳定性和兼容性。当微软发布 Visual Basic .NET 和  C# 开启 .NET 时代时，两种语言是并行发展的，有着几乎相同的功能集。但随着时间的迁移，专业的开发者接受了 C# ，经典 VB 的粉丝则放弃了越来越复杂而强大的 .NET 版本。现在微软的开发文档基本上只提供 C#，而没有 VB 示例了。C#/VB 的同步发展策略在 2017 年结束，只有 C# 获得新的功能，微软事实上放弃了 VB。本周的声明只是<a href="https://www.thurrott.com/dev/232268/microsoft-plots-the-end-of-visual-basic"><u>正式承认</u></a>。
+➜比尔盖茨退出微软董事会
+https://www.solidot.org/story?sid=63818	42537
+微软联合创始人比尔盖茨<a href="https://www.linkedin.com/pulse/focusing-my-time-bill-gates/"><u>宣布</u></a>退出微软和 Berkshire Hathaway 的董事会，专注于慈善事业。盖茨表示，对于微软，他退出董事会并不意味着远离公司。微软永远是他工作生涯的重要部分，他会继续与微软的高管保持联络，对公司取得的进步他以往任何时候都要乐观。微软现任 CEO 纳德拉（Satya Nadella）对这位创始人的评价则<a href="https://slashdot.org/story/20/03/13/2132230/bill-gates-leaves-microsoft-board"><u>引发了争议</u></a>。纳德拉称，比尔盖茨是怀着软件民主化力量的信念以及解决社会最迫切挑战的热情创办微软公司的。作为世界上最大的私有软件公司，未必所有人都认同 Windows 操作系统代表着软件民主化的力量。
+➜WSL2 将成为 Windows 10 v2004 的一部分
+https://www.solidot.org/story?sid=63819	48811
+微软官方博客<a href="https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/"><u>表示</u></a>，WSL2 将成为 Windows 10 v2004 的一部分提供给用户。WSL2 代表第二代 Windows Subsystem for Linux，它使用真正的 Linux 内核，第一代 WSL 只提供了等价的 Linux API，性能比原生 API 差很多，第二代将使用 Hyper-V 创建一个轻量级虚拟机运行真正的 Linux 内核。那么这个 Linux 内核将如何更新呢？微软官方博客表示，它将通过 Windows Update 像更新显卡驱动那样更新 Linux 内核，用户将能获得更敏捷更灵活更无缝的使用体验。用户可手动去检查更新或等待自动推送。

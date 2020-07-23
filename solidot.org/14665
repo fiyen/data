@@ -1,0 +1,75 @@
+➜失去Google将重创中国科学界
+https://www.solidot.org/story?sid=16416	300
+Anti-Nature 写道 "《自然》杂志就科研对Google的依存度问题<a href="http://www.reuters.com/article/idUSTRE61N51W20100224?type=technologyNews?feedType=nl&amp;feedName=ustechnology">调查了中国科学家</a>。参加调查的700多人中超过3/4者表示Google是他们科研中的主要工具。<i>
+本周三公布的调查结果显示，84%的中国科学家认为失去Google将“在某种程度上或显著地”阻碍科研工作，78%认为国际合作将受到影响。Outsell咨询公司的David Bousfield说这一调查结果在大多数国家都具有代表性，Google和Google Schloar已成为科学家不可缺少的工具。伦敦互联网研究者David Nicholas评论调查结果时认为失去Google将显著损害科学家的效率。<br>
+一月份Google表示如果中国政府继续过滤搜索结果，将考虑是否离开中国市场。"</i>
+➜Linux 2.6.33发布
+https://www.solidot.org/story?sid=16417	3600
+<a href="http://lkml.org/lkml/2010/2/24/301">Linux 2.6.33</a>正式<a href="http://www.osnews.com/story/22919/Linux_2_6_33_released">发布</a>。<i>
+主要特性<a href="http://kernelnewbies.org/Linux_2_6_33">包括</a>：整合Nvidia显卡开源驱动Nouveau，但3D支持尚不完备；分布式储存系统DRDB；支持任天堂的Wii和Gamecube游戏机；改进了Perf（perf probe，perf bench，perf kmem，perf diff）；TCP Cookie Transactions；批处理系统调用recvmsg() 支持 Xen PV-on-HVM客户机；内存压缩交换Compcache；除Nouveau外，还改进了AMD和Intel显卡支持，等等。</i>
+➜微软成功关闭泄密网站cryptome.org
+https://www.solidot.org/story?sid=16418	4500
+henryhuang 写道 <i>"<a href="http://web.archive.org/web/*/http://cryptome.org">cryptome.org</a>(Wayback Machine)是一个公开间谍机构绝密档案的网站，始建于1996年，是和wikileaks.org 性质类似的网站。它于2月20日将一份“微软全球犯罪间谍指南”(Microsoft Global Criminal Spy Guide)的文件，放于网站上供下载。微软认为这是一份属于它版权的文件，不得公开于此，要求cryptome网站撤下。但是crytome编辑拒绝了这个要求。微软利用给crytome的ISP公司Network Solutions向它发出警告。并于今天早上成功将<a href="http://yro.slashdot.org/story/10/02/24/1939257/Cryptome-in-Hot-Water-Again">该网站关闭</a>。crytptome.org曾多次发布类似的文件。"</i>wikileaks通过twitter表示愿意<a href="http://twitter.com/wikileaks/status/9587992205">托管</a>cryptome.org。
+➜10亿欧元内核
+https://www.solidot.org/story?sid=16419	6720
+根据西班牙Oviedo大学的研究人员的<a href="http://iri.jrc.ec.europa.eu/concord-2010/posters/Garcia-Garcia.ppt">估计</a>（PPT），Linux kernel如果在欧盟内开发的话，它的开发成本预计将<a href="http://linux.slashdot.org/story/10/02/24/155214/The-Billion-Dollar-Kernel">超过10亿欧元</a>（约92.4亿人民币），需要开发者986人，用14年时间去开发。<i>
+研究人员估算的Linux kernel年度研发费用分别为：2005年8千万欧元，2006年7300万欧元，2007年9500万欧元，2008年2.28亿欧元。以2008年为例，其研发费用相当于微软产品研发费用的4%，Google的12%。开发者的平均薪水为31040欧元。</i>
+在此之前，也有一些研究人员估算了Linux发行版 <a href="http://www.dwheeler.com/sloc/redhat71-v1/redhat71sloc.html">Red Hat</a>、<a href="http://arxiv.org/pdf/cs.SE/0506067">Debian</a>，和<a href="http://www.linuxfoundation.org/publications/estimatinglinux.php">Fedora</a>的研发费用。
+➜匈牙利公司开发能一分为二的电动车
+https://www.solidot.org/story?sid=16420	8700
+《连线》<a href="http://www.wired.co.uk/news/archive/2010-02/24/hungarian-electric-car-splits-into-two-smaller-cars.aspx">报道</a>，一家匈牙利汽车公司<a href="http://www.solo-duo.hu/main.php?category=104">Antro</a>，正在开发一种能<a href="http://tech.slashdot.org/story/10/02/24/1614245/Hungarian-Electric-Car-Splits-Into-Two-Smaller-Cars">分成两辆小型汽车</a>的电动汽车，并计划到2012年推向市场，假若玛雅人的末日预言落空的话。<i>
+这家具有环保意识的公司在2002年就启动了研究，已投入150万欧元展开市场调研和开发一个可工作的原型。Antro Solo<a href="http://img.wired.co.uk.s3.amazonaws.com/674x281/a_c/antrosolo.jpg">原型</a>(图片)是一辆三座汽车，使用混合动力驱动，车顶部安装的太阳能电池板能产生行驶最多20公里所需的电力。Antro计划让两辆Antro Solo组装成一辆6座位的Antro Duo，或者一辆Antro Duo能分成两辆Antro Solo，这样老妈和老爸如果有不同的周末计划，他们可以驾驶各自的汽车，或者他们离婚的话分割财产也变得十分方便。</i>
+➜研究人员发现华人特有的II型糖尿致病基因
+https://www.solidot.org/story?sid=16421	10560
+台湾中国医药大学和中央研究院国家基因型鉴定中心的研发团队首次发现<a href="http://www.cmu.edu.tw/news_detail.php?id=732">华人特有的二型糖尿病致病基因</a>；这项研究成果增进了对第二型糖尿病致病机制的了解，有助于糖尿病新药的研发。<i>
+第二型糖尿病是一种新陈代谢异常的慢性疾病，第一型糖尿病系先天性自体免疫疾病，主要由身体对胰岛素的阻抗性不良所引起；遗传基因与环境因子(例如饮食、运动等) 皆会影响第二型糖尿病的发病年龄与病程进展。研究人员利用高密度基因型鉴定方法分析2798位第二型糖尿病患者基因，找出第二型糖尿病致病基因PTPRD与SRR。PTPRD基因可能影响身体产生胰岛素阻抗性，也就是身体细胞对胰岛素的反应不良，因而无法正常吸收代谢血糖。SRR基因变异推测可能影响胰脏的麸胺酸信号，进而改变胰脏的胰岛素与升糖素分泌。<a href="http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1000847">报告</a>发表在开放获取杂志《PLoS 遗传学》上。</i>
+➜软件问题或与丰田加速踏板失灵有关
+https://www.solidot.org/story?sid=16422	12720
+日本丰田公司因汽车加速踏板失灵问题在全世界召回多达800万辆汽车，涉及普锐斯、凌志等知名品牌。此次事件可能给丰田造成高达20亿美元的损失。丰田总裁丰田章男为此事多次公开道歉，包括<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/02/100224_toyota_us_apology.shtml">在美国国会的听证会上</a>。<i>
+但是究竟是什么导致了加速踏板突然失灵，至今却并未定论。美国国家公路交通安全局官员称，他们没有雇用电气工程师或软件工程师，因此无法分析<a href="http://yro.slashdot.org/story/10/02/23/2022204/NHTSA-Has-No-Software-Engineers-To-Analyze-Toyota">找出丰田汽车故障的真正原因</a>。现代化的豪华车通常都有近100万行代码，运行在70到100个微处理器上。代码数量在未来几年还会增加到200万到300万行。丰田和雷克萨斯汽车上控制加速踏板的软件是导致其失灵的一个可能的祸首。</i>
+➜Yahoo发起排序学习（LTR）竞赛
+https://www.solidot.org/story?sid=16423	15000
+<a href="mailto:sofoot@163.com">sofoot</a> 写道 "Yahoo发起了一项<a href="http://learningtorankchallenge.yahoo.com/index.html">学习排序竞赛(Learning to Rank Challenge)</a>作为<a href="http://www.icml2010.org/">ICML 2010</a>大会的一部分，任何人可以以个人名义或组队（最多10人）参赛。竞赛3月1日开始，至5月31日结束，6月份公布获奖名单。<i>竞赛将公布两个之前从未发布的真实数据形成的数据集。第一个数据集包括29921个请求，744692个URL地址，519个特征。第二个数据集包括6330个请求，172870个URL地址，596个特征。竞赛的任务是根据训练集中的数据构造一个排序函数，对验证集和测试集中URL地址进行排序。<br>第1至4名优胜者将分别获得8000，4000，2000，1000美元，并将被邀请参加<a href="http://www.icml2010.org/">ICML 2010</a>大会。<br>更多详细信息参见：<a href="http://learningtorankchallenge.yahoo.com/index.html">Learning to Rank Challenge</a>"</i>
+➜太空垃圾状况恶化
+https://www.solidot.org/story?sid=16433	23400
+低地球轨道上的太空垃圾已经够杂乱了。上个月来自中国反卫星武器试验的火箭碎片和欧洲航天局（ESA）的Envisat地球遥感卫星<a href="http://www.space.com/missionlaunches/space-debris-getting-messier-100223.html">几乎迎头相撞</a>，两者的最近距离仅为50米。Envisat卫星重8吨，中国废弃的火箭箭体大约有3吨重。ESA的卫星利用机载火箭机动微调轨道，从而避开了这次碰撞。去年，俄罗斯的一颗废弃军用卫星和美国的通讯卫星铱星曾发生太空相撞事故。ESA负责追踪太空垃圾的Heiner Klinkrad说，如果驻有宇航员的国际空间站与大型太空垃圾碰撞，结果将会十分可怕。
+➜App Engine意外故障，第三方应用受影响
+https://www.solidot.org/story?sid=16432	23760
+<a href="mailto:jmss160@126.com">threejek</a> 写道<i> "<a href="http://code.google.com/intl/zh-CN/appengine/">Google App Engine</a>第一次出故障，2009年7月时，该应用平台曾宕机长达6小时。自太平洋时间2月23日早上7点53分起，Google App Engine就<a href="http://news.wangmeng.cn/detailNews/1886-google-app-engine-unexpected-failure-of-the-affected-third-party-applications">意外故障</a>，影响到大量托管于该平台的应用程序。至当天早上10点左右App Engine最终恢复正常，宕机时间两小时左右。"</i>
+➜报纸通过猜测未公开的URL“攻击”澳政府网站
+https://www.solidot.org/story?sid=16434	26400
+澳大利亚新南威尔士州政府指控《悉尼先驱晨报》的记者利用黑客手段<a href="http://news.slashdot.org/story/10/02/23/157200/Newspaper-Hacks-Into-Aussie-Govt-Website-By-Guessing-URL">入侵了政府的秘密网站</a>，并叫来警察<a href="http://www.abc.net.au/news/stories/2010/02/23/2828024.htm">调查</a>这一“黑客”事件。<i>
+上周六，《悉尼先驱晨报》<a href="http://www.smh.com.au/nsw/revealed-keneallys-transport-blueprint-20100219-olzc.html">报导</a>它获得了政府的秘密文件，文件是无意上传到政府的一个新网站上，内容是关于未来交通发展蓝图计划，该计划总投资高达500亿元。交通部长David Campbell坚称文件不是无意间上传到网站上，而是网站被“黑客入侵了”。他说，一个悉尼媒体机构IP地址未经授权访问政府信息，政府的网站有3,727次未经授权的点击，他打了一个比喻，称这就像是3,727次尝试去撬开安全办公室的锁，以偷走高度机密的文档。《悉尼先驱晨报》在本周二的<a href="http://www.smh.com.au/nsw/minister-a--monkey-could-have-hacked--secret-transport-site-20100223-p085.html">报导</a>中称，所谓的黑客行为只不过是记者在浏览器地址栏输入了一个之前未公布的地址，文档的访问连密码都不需要。</i>
+➜谷歌取消Nexus One开发者活动
+https://www.solidot.org/story?sid=16435	27300
+<a href="mailto:jmss160@126.com">threejek</a> 写道<i> "谷歌已取消一场在北京向中国软件工程师推介其首款智能手机Nexus One的活动，这是谷歌宣称可能退出中国市场后，第二次<a href="http://www.theregister.co.uk/2010/02/24/google_android_china/">推迟中国区业务</a>。不过对于该消息，谷歌发言人周三给予否认，称“该报道完全失实”。该发言人称：“在最初的推介计划中， <a href="http://news.wangmeng.cn/detailNews/1884-google-mobile-phones-had-not-been-arranged-beijing-promotion">北京就没有包括在内</a>。” 该发言人接着说：“在未来几周内，谷歌将举行3场推介会，分别在新加坡、香港和台北。会议主要是针对开发人员的技术大会，本来就没有安排北京行程。"</i>
+➜“罗宾汉”黑客泄漏银行数据
+https://www.solidot.org/story?sid=16436	29400
+BBC<a href="http://news.bbc.co.uk/2/hi/technology/8533641.stm">报道</a>，一位被誉为“现代罗宾汉”的匿名黑客向拉脱维亚电视台<a href="http://it.slashdot.org/story/10/02/24/185235/Latvian-Robin-Hood-Hacker-Leaks-Bank-Details">披露了银行和国有企业的金融数据</a>。<i>
+这位用《黑客帝国》“尼奥”（Neo）名字自称的黑客表示，他要曝光在全球经济衰退中拉脱维亚银行和国企高管的贪得无厌。他是通过Twitter逐步向电视台披露信息，他没有透露是如何得到这些信息。拉脱维亚政府和警方正在调查这起安全事件。他公开的信息包括：一家得到政府救济的银行经理的支付数据，显示银行经理没有按他们所承诺的那样减薪；一家公开向政府请求帮助的国有企业秘密发布奖金。Neo自称是名叫第四觉醒人民军组织的成员，他已得到无数人的拥护。这位黑客被认为是身在英国。一位拉脱维亚电视台记者指出，一方面他犯有黑客罪行，但另一当面他对公众而言是有价值的。更多的信息披露出来，整个系统可能会变得更透明。纳税人显然很高兴他们能得到这些信息。</i>
+➜Copernicium确认为第112号元素
+https://www.solidot.org/story?sid=16437	30300
+国际纯粹与应用化学联盟（International Union of Pure and Applied Chemistry）确认Copernicium为<a href="http://science.slashdot.org/story/10/02/24/196226/Copernicium-Confirmed-As-Element-112">第112号元素</a>，它在元素周期表中的符号为Cn。<i>
+Copernicium是德国重离子研究中心Sigurd Hofmann领导的研究团队，于1996年发现的，<a href="__SLASHLINK__" sect="science" sid="09/07/20/0558248" sn="article" tid="6">2009年6月正式得到承认</a>。它有112个质子，比自然界中天然形成的最重元素铀多20个质子，是至今已知最重的元素。名字Copernicium是为了纪念天文学家哥白尼，最初选择的化学符号是Cp，但由于Cp有其它科学含义而改为Cn。</i>
+➜土星卫星可能适宜生命生存
+https://www.solidot.org/story?sid=16438	32400
+NASA表示，土星卫星Enceladus（又名土卫二）<a href="http://www.ibtimes.com/articles/20100224/saturn-moon-could-be-hospitable-life.htm">可能适宜生命生存</a>。
+<i>
+NASA在周二称，飞跃土卫二的探测器发现南半球有水喷射，绘制的红外线地图显示地表温度高于先前的预期
+红外光谱仪团队成员John Spencer认为，从地表裂缝喷出的大量热量足以融化地下的冰，这一结果让土卫二成为太阳系最令人兴奋的地方。测量显示，Baghdad沟的峰值温度超过180开尔文（零下90摄氏度），可能高于200开尔文（零下70摄氏度）。Spencer解释说，以地球标准来说这一温度仍然极其寒冷，但与周围环境50开尔文温度相比是相当温暖了。</i>
+➜调查发现经济衰退导致失眠和阳痿人数上升
+https://www.solidot.org/story?sid=16439	33480
+英国家庭医生协会和英国邮政局<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2010/02/100225_financial_worries.shtml">联合调查显示</a>，过去18个月中，表现出焦虑和忧郁症状的病人人数在增加。受访的家庭医生中，78%的医生都报告此类疾病呈上升趋势。其中，近一半的病人抱怨失眠，16%的人有饮食问题，12%的病人说出现了阳痿症状。三分之一的受访医生说，他们给30岁以下的病人开了治疗忧郁症的药方。家庭医生协会主席Peter Swinyard医生说：“为钱担忧一向是造成忧郁和焦虑病症的主要诱因之一，但毫无疑问，过去18个月来的形势加剧了这种压力。”
+➜谷歌称招聘启事是旧闻
+https://www.solidot.org/story?sid=16440	34920
+周三有报道称谷歌正在中国<a href="http://www.google.cn/jobs/positions.html">招聘</a>新员工，表明该公司对其在华前途的信心已经恢复，尽管它上个月誓言停止遵守中国政府的审查规定，即使此举将迫使其关闭在华业务。<i>《华尔街日报》<a href="http://cn.wsj.com/gb/20100225/rth111811.asp">报道</a>，事实上这些招聘启事并非最新发布，它们都是该公司1月12日在中国发表爆炸性声明之前发布的，因此不应据此认为谷歌对自己将保持目前的在华业务恢复了信心。</i>另一篇报道<a href="http://cn.wsj.com/gb/20100225/bch102930.asp">指出</a>，因前途未卜，谷歌在华员工频频被挖角。据称，微软已经聘用了谷歌的一位设计师。
+➜野蛮人还是迪克切尼？乌鸦能够区分
+https://www.solidot.org/story?sid=16441	39000
+Sciencenow报道，一项利用野蛮人和迪克切尼的伪装面具试验显示，<a href="http://news.sciencemag.org/sciencenow/2010/02/is-that-a-caveman-or-dick-cheney.html?rss=1">美洲乌鸦能从人群中识别出熟悉的脸</a>。研究证实了长期以来围绕聪明乌鸦的种种传说，提供了关于野生乌鸦与人类互动的新见解。<i>
+2006年，华盛顿大学生态学家John Marzluff的团队利用网捕捉乌鸦，研究乌鸦数量增加是如何影响当地的其它鸟类。研究人员很快发现，乌鸦不会轻易愚弄两次，它们会记住人脸，看到之后就会警惕的飞起。Marzluff于是设计了几项试验，在西雅图周围的五个地点，戴着不同面具的研究人员记录乌鸦对他们出现的反应。研究人员分别戴着野蛮人面具和迪克切尼，野蛮人对乌鸦做过恶事，切尼则是做过好事，比如给乌鸦食物。结果显示，乌鸦似乎了过滤掉了年龄、性别和身高等因素，它们只关注脸。看到野蛮人来了，有超过三分之二的乌鸦会惊慌扑腾。更令人惊奇的是，乌鸦的记忆十分牢固，在4年时间内，它们都能牢牢记住野蛮人。<a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6W9W-4Y64DJD-3&amp;_user=10&amp;_coverDate=03%2F31%2F2010&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=4d3a53de003db97c3f8a481116cc9d72">报告</a>发表在《动物行为》杂志上。</i>
+➜软件创造优美音乐，莫扎特或许并不特别
+https://www.solidot.org/story?sid=16442	41400
+加州大学Santa Cruz分校名誉教授<a href="http://artsites.ucsc.edu/faculty/cope/biography.htm">David Cope</a>开发出绰号为<a href="http://artsites.ucsc.edu/faculty/cope/experiments.htm">Emmy</a>（正式名称是Experiments in Musical Intelligence）的软件，一度被认为是世界上最先进的人工智能作曲家。Emmy创造了很多优美的原创音乐，而Cruz也得到了很多音乐家和计算机科学家的赞赏，但<a href="http://tech.slashdot.org/story/10/02/24/2315204/Triumph-of-the-Cyborg-Composer?art_pos=7">为什么许多人对此很生气呢</a>？因为Emmy提出一个令人不安的问题：如果机器能原创出一首莫扎特奏鸣曲，那么为什么莫扎特如此特别？难道真的存在没有灵魂的伟大作品，或者贝多芬等人只是编织音符的数学高手？
+➜移动手机数据预测人的行为模式
+https://www.solidot.org/story?sid=16443	43200
+根据发表在《科学》杂志上的一篇<a href="http://www.sciencemag.org/cgi/content/abstract/327/5968/1018">报告</a>，研究人员分析了运营商收集的移动用户定位数据。通过观察用户的活动，研究人员能预测人的移动和行为模式，<a href="http://science.slashdot.org/story/10/02/24/2343219/Cell-Phone-Data-Predicts-Movement-Patterns">精确度达到93%</a>。在接听电话期间，当手机连接上信号塔时移动公司就会储存用户的位置记录。利用这些数据，研究人员便能知道用户喜欢去什么地方，以及去的时间。

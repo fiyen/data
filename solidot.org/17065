@@ -1,0 +1,56 @@
+➜Firefox 49发布
+https://www.solidot.org/story?sid=49753	10460
+Mozilla<a target="_blank" href="https://www.mozilla.org/en-US/firefox/49.0/releasenotes/"><u>发布了</u></a>桌面版和移动版的Firefox 49。桌面版主要新特性包括：移除了<a href="https://support.mozilla.org/en-US/kb/hello-status">Firefox Hello</a>；更新Firefox登录管理器，允许HTTPS页面使用保存的HTTP登录数据；阅读模式允许用户调整文本的宽度、行距、字体以及主题，加入了朗读功能；改进了无硬件加速的操作系统的视频播放性能；about:memory增加了字体内存使用报告；多进程架构支持少数兼容的扩展，Mozilla是从Firefox 48开始逐步启用多进程架构，初步测试显示浏览器的总体响应提升400%；更新开发者工具，等等。
+➜PrimeGrid项目发现最大孪生素数
+https://www.solidot.org/story?sid=49754	12210
+PrimeGrid 的 Sophie Germain 素数搜索项目报告发现了<a href="https://www.primegrid.com/download/twin-1290000.pdf" target="_blank"><u>已知最大的孪生素数</u></a>（PDF）。孪生素数是指一对素数，它们之间相差2，如3和5，5和7，11和13，17和19。9月14日 04:24:46UTC，美国的 Tom Greer 发现了最大孪生素数 2996863034895*2^1290000±1，这对素数有388,342位，远大于之前的记录保持者的200,700位。9月15日，加拿大的 Don Palmer 验证了这一结果。
+➜美国为无人驾驶汽车敞开大门
+https://www.solidot.org/story?sid=49755	14210
+联邦汽车安全监管机构周一<a href="http://cn.nytstyle.com/technology/20160920/self-driving-cars-guidelines/" target="_blank"><u>正式宣布</u></a>：它们认为，美国公路上的车辆更多地由机器驾驶时将比由人驾驶更安全。自动汽车行业正蓬勃发展，在这份人们期待良久的<a href="http://www.nhtsa.gov/nhtsa/av/index.html" target="_blank"><u>行业指导意见</u></a>中，奥巴马政府承诺要进行强有力的安全监管，但也向汽车厂商发出了一个清晰的信号：面向无人驾驶汽车的大门是完全敞开的。国家经济委员会负责人Jeffrey Zients称，高度自动化的车辆“将能节省时间和金钱，挽救生命。”这是联邦监管机构迄今发出的最为积极的信号，传达出它们认为自动汽车技术有利于驾车安全。美国政府发布的无人驾驶指导意见列出了<a href="http://www.bloomberg.com/news/articles/2016-09-20/self-driving-cars-must-meet-15-benchmarks-in-new-u-s-guidance" target="_blank"><u>15个安全标准</u></a>，并鼓励对这项新兴技术制订统一规则。指导意见向驾车者发出了信号——自动汽车不会是各家公司在没有监管的情况下为所欲为的盲区——但也足够模糊，不会让汽车厂商和科技公司担心监管过度。
+➜Firefox 49加入特定前缀兼容为WebKit优化的网站
+https://www.solidot.org/story?sid=49756	15183
+<div align="center"><img src="http://img.solidot.org/0/900/li2w83wdvCoQ.png" align="" height="328" width="450"><br>
+</div>
+<br>
+当Chrome统治了浏览器市场，它在某些方面正越来越像昔日饱受批评的IE，比如使用非标准特性。因为它市场占有率最高，结果是市场占有率较低的浏览器不得不支持这些非标准特性，以兼容专为Chrome/WebKit优化的网站。在刚刚发布的Firefox 49中，Mozilla为  Gecko引擎<a href="https://hacks.mozilla.org/2016/09/firefox-49-fixes-sites-designed-with-webkit-in-mind-and-more/" target="_blank"><u>引入了一系列兼容特性</u></a>，加入特定前缀兼容为WebKit优化的网站，避免网站在Firefox上渲染时出现问题。
+➜中国被认为失去了对天宫一号的控制
+https://www.solidot.org/story?sid=49757	19329
+中国被认为<a href="http://www.popularmechanics.com/space/satellites/a22936/tiangong-falling-to-earth/" target="_blank"><u>失去了</u></a>对2011年发射的天宫一号的控制。天宫一号在轨道上飞行了五年，期间与三艘神舟载人飞船进行了对接，试验了未来的空间站技术。它预计将在明年的某个时候掉落回地球。正常情况下，退役的卫星或空间站将会在地面控制下进入大气层烧毁。大多数卫星是在海洋上空重返大气层烧毁，避免碎片危及人类。但中国航天局并不确定天宫一号将会在何时何地返回地面，暗示它失去了对这个退役空间站的控制，意味着来自空间站的碎片有可能会掉到人口密集地区。
+➜联合国成员国将合作扫除抗药性超级细菌
+https://www.solidot.org/story?sid=49758	19867
+联合国193个成员国在联合国大会召开之际<a href="http://www.bbc.com/zhongwen/simp/science/2016/09/160921_un_superbug" target="_blank"><u>签署了一份历史性宣言</u></a>，承诺合作扫除俗称“超级病菌”的抗生素抗药性病菌对人类健康的威胁。这份宣言经历六年筹备，缔约国接下来将有两年时间呈交其行动纲领。医疗专家指出，抗药性感染是当前人类面对的强大威胁之一。问题的原因被普遍认为是抗生素滥用的结果。缔结这份宣言的联合国成员承诺：针对人类与动物抗细菌药的销售与用药开发监控与监管机制；鼓励有关开发新抗生素和改善快速确诊技术的科研创新；教育医疗专业人员与公众如何避免抗药性感染。
+➜联想与微软达成协议，某些笔记本不可安装其他操作系统
+https://www.solidot.org/story?sid=49759	27237
+<div align="center"><a href="http://img.solidot.org/0/901/liGcSMxo0q0.png"><img src="http://img.solidot.org/0/901/liGcSMxo0q0.png" align="" height="281" width="500"></a><br>
+</div>
+<br>
+匿名读者 写道 <i>"
+关于联想Yoga 900-13ISK2 型号笔记本由于Bios锁定不可用AHCI模式, 而造成Linux不可见内置SSD的请愿已经持续了约半年时间. 近日, 联想官方通过回复一位购买者BestBuy评价的形式<a href="https://i.imgur.com/VJbXJAZ.png" target="_blank"><u>确认</u></a>, 联想与微软达成了协议, 确保其他操作系统不可安装在此笔记本上. 大家购买笔记本需要注意联想的是否为Microsoft Signature Edition."</i>
+➜运行 Let's Encrypt CA的成本
+https://www.solidot.org/story?sid=49760	27609
+旨在让每个网站都启用HTTPS加密的 Let's Encrypt CA公布了<a href="https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html" target="_blank"><u>它的2017年预算</u></a>，向用户解释它的各项开支，此举旨在增加透明度。Let's Encrypt 位于加州旧金山，众所周知旧金山的生活成本很高。Let's Encrypt的最大开支就是人工费用，它有八名全职雇员和两名来自Mozilla 和 EFF的全职雇员，其中包括五名运营/系统管理员，三名软件开发者，一名负责对外交流和筹款的雇员，以及一名执行董事，他们十人的开支是206万美元。其余开支包括20万美元的硬件和软件费用，30万美元的托管审计费用，35万美元的法律管理费用，合计291万美元。Let's Encrypt的绝大部分资金来自<a href="https://letsencrypt.org/sponsors/" target="_blank"><u>企业赞助</u></a>，它也接受<a href="https://letsencrypt.org/donate/" target="_blank"><u>个人捐赠</u></a>。
+➜不同语言的常用词发音相似
+https://www.solidot.org/story?sid=49761	31715
+父母的昵称<a href="http://www.solidot.org/story?sid=45772" target="_blank"><u>在各种语言中的发音极其相似</u></a>，但其它常用词呢？发表在PNAS上的<a href="http://www.pnas.org/content/early/2016/09/06/1605782113.abstract" target="_blank"><u>一项研究</u></a>认为，不同语言描述的相同概念的词的发音<a href="http://www.economist.com/news/science-and-technology/21707183-researchers-uncover-ancient-links-between-majority-worlds" target="_blank"><u>也存在相似性</u></a>。研究人员关注了100个基础概念词语，包括了人体器官如骨头和耳朵，自然现象如树叶和星星，动词如咬，代词如我、你和我们，属性名称如红色，等等。他们将这些词语在不同语言中的发音分解成辅音和元音，然后进行比较。这些词语发音之间的相似性超出他们的预计。举例来说，鼻子（nose）的发音要么含有n声要么含有oo声，圆（round）的发音多含有r声，沙（sand）的发音都含有s声。对这一现象有几种理论可以解释，其一是语音象征，读音和名称对象之间的对应；其二是感官联系，研究发现人们经常会将深色与低音、浅色与高音联系起来，这种共同的感觉可以解释发音的相似性。
+➜最高法院规定执法部门有权收集调取电子数据
+https://www.solidot.org/story?sid=49762	35379
+最高法院、最高检察院和公安部联合发布了通知《<a href="http://www.court.gov.cn/fabu-xiangqing-26431.html" target="_blank"><u>关于办理刑事案件收集提取和审查判断电子数据若干问题的规定</u></a>》，确认执法部门“有权依法向有关单位和个人收集、调取电子数据。有关单位和个人应当如实提供”。《规定》将于10月1日起执行。所谓的电子数据包括了网页、博客、微博客、朋友圈、贴吧、网盘等平台发布的信息；手机短信、电子邮件、即时通信、通讯群组等网络应用服务的通信信息；用户注册信息、身份认证信息、电子交易记录、通信记录、登录日志等信息；文档、图片、音视频、数字证书、计算机程序等电子文件。《规定》没有对加密电子数据进行说明，仅仅在《规定》的第四条模棱两可的称“电子数据涉及国家秘密、商业秘密、个人隐私的，应当保密”，而第十六条称“对扣押的原始存储介质或者提取的电子数据，可以通过恢复、破解、统计、关联、比对等方式进行检查”，但如果难以破解呢？《规定》也没有说明如果个人拒绝提供加密数据会受到什么惩罚。
+➜社交网络研究分析微博和贴吧的差异
+https://www.solidot.org/story?sid=49763	38248
+《电子与信息学报》2016年<a href="http://jeit.ie.ac.cn/CN/volumn/volumn_1455.shtml" target="_blank"><u>第九期</u></a>发表了“在线社交网络的挖掘与分析”专题论文 ，由前北邮校长方滨兴<a href="http://jeit.ie.ac.cn/CN/abstract/abstract18018.shtml" target="_blank"><u>作序</u></a>。方滨兴曾参与《<a href="http://socialysis.org/data/show/show" target="_blank"><u>在线社交网络分析关键技术及系统</u></a>》课题的研究，并因此获得国家科学技术进步奖。官方资助研究社交网络的一个目的是快速发现突发情况和对舆情进行管理，用方滨兴的话说，“社交网络的本质在于借助社交网络能够迅速形成社会舆论，进而能够影响人们的思想，影响人们的世界观、认识观、价值观和人生观。”在本期的专题论文中，北邮的两位研究人员<a href="http://jeit.ie.ac.cn/CN/abstract/abstract17987.shtml" target="_blank"><u>给新浪微博和百度贴吧的在线群体进行了分类</u></a>。研究人员称，新浪微博平台中外源性话题较多，而百度贴吧中内源性话题较多，符合两个平台不同的定位：新浪微博旨在快速地分享“即时”信息，在此兴起的话题大多借助了外源推动力，因此外源性话题较
+多；而百度贴吧是“以兴趣主题聚合志同道合者的互动平台”，具备网络趣缘群体的基本特征。对于研究的目的，研究人员称，“在线社交网络为舆论自由化提供了开放环境的同时，也带来了网络谣言、暴力的隐患，甚至部分舆论给国家稳定和社会安全带来严重的危害。因此，快速地判断社会系统响应趋势、及时地监控话题走向，有利于有效引导在线群体和积极解决潜在舆情危机，对维护社会稳定和促进国家发展具有重要的现实意义。”
+➜法官裁决通过黑客工具搜集的儿童色情证据无效
+https://www.solidot.org/story?sid=49764	40726
+美国爱荷华州联邦法官 Robert Pratt <a href="http://arstechnica.com/tech-policy/2016/09/judge-child-porn-evidence-obtained-via-fbis-tor-hack-must-be-suppressed/" target="_blank"><u>作出裁决</u></a>，FBI通过黑客工具获取的Tor儿童色情用户IP证据是无效的，因为它使用的搜查令无效。在2015年的一次受争议行动中，FBI扣押了一个运行在Tor匿名网络的儿童色情网站Playpen，但没有关闭网站，而是继续保持网站运行13天，部署恶意程序去识别用户的身份，然后利用收集的证据起诉网站的美国用户。法官认为，从第三方获取IP地址和直接从被告电脑上获取IP地址之间存在显著差异。他打了一个比喻，“如果被告在一张纸上写下IP地址，然后将纸放在家中的抽屉里，那么无疑执法部门需要搜查令访问这张纸——即使被告认可对IP地址本身没有合理的隐私期望。在本案中，被告的IP地址储存在其家中的电脑中而不是抽屉里。”
+➜Google发布IM应用Allo
+https://www.solidot.org/story?sid=49765	43197
+在Google I/O上正式宣布4个月后，Google在<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.fireball" target="_blank"><u>Android</u></a>和<a href="https://itunes.apple.com/app/id1096801294" target="_blank"><u>iOS</u></a>平台上推出了它的智能即时通讯应用Allo，Google没有提供桌面客户端。根据Play商店的数据，该应用今天的下载量不到5万次。有那么多即时通讯应用，是什么让Allo与众不同？智能。Google为Allo提供了智能回复和个人 Google助理功能：“智能回复”功能通过学习用户的语言风格，推荐文字和照片的回复内容，用户无需手动输入任何内容就能回复消息；在对话框@google，无需离开对话窗口即可搜索信息寻找答案或制定计划。Allo还有一个隐身模式，启用后会对发送的消息进行端到端加密，所有通信内容不会保存在Google服务器上，但这项功能并没有默认启用。
+➜腾讯研究员发现特斯拉汽车漏洞，特斯拉释出OTA修复
+https://www.solidot.org/story?sid=49766	43975
+腾讯科恩实验室利用安全漏洞对特斯拉Model S 进行无物理接触远程攻击，实现了对特斯拉驻车状态和行驶状态下的远程控制。腾讯<a href="http://keenlab.tencent.com/zh/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars/" target="_blank"><u>官方博客</u></a>称，这是全球范围内第一次通过安全漏洞成功无物理接触远程攻入特斯拉车电网络并实现对特斯拉进行任意的车身和行车控制。特斯拉汽车已经释出了OTA更新修复了漏洞。<a href="http://arstechnica.com/security/2016/09/tesla-patch-blocks-remote-attack-that-could-turn-on-brakes-from-miles-away/" target="_blank"><u>特斯拉发言人称</u></a>，他们估计客户面临的风险非常低，但他们还是对此快速做出了反应。漏洞的细节并没有披露。但腾讯公布的视频（中文腾讯，英文<a href="https://youtu.be/c1XyhReNcHY" target="_blank"><u>YouTube</u></a>）显示，研究人员利用了车载电脑上的浏览器。
+➜美国回收的电子垃圾四成出口了
+https://www.solidot.org/story?sid=49767	47225
+<div align="center"><img src="http://img.solidot.org/0/525/liKzqXLvcgRQ.gif" align="" height="225" width="400"><br>
+</div>
+<br>
+电子垃圾监督组织<a href="http://www.ban.org/trash-transparency" target="_blank"><u>Basel Action Network</u></a>与MIT合作，在旧的电子产品里安装GPS跟踪设备跟踪其下落，发现<a href="http://motherboard.vice.com/read/much-of-americas-e-waste-recycling-is-a-sham" target="_blank"><u>40%的电子垃圾</u></a>被出口到了香港、中国和其它亚非发展中国家的垃圾填埋场，而不是在本国内进行回收。大多数旧电子产品回收到的原材料远低于它的回收成本，回收行业支付的费用能通过地方的税收或法律强制性要求制造商预先支付的回收费用而得到抵消。然而，BAN的调查发现，回收行业通过假回收获利颇丰，做法就是通过中间人或直接将电子垃圾出口到发展中国家。法律要求回收旧机器，但对于回收过程却很少有监督或执法。结果就是，外国的垃圾场雇佣了低薪水员工从有毒的机器里挑选出有价值的成本，而剩下的有毒材料通常倾倒到附近的垃圾场。

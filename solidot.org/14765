@@ -1,0 +1,48 @@
+➜五角大楼网络每天遭黑客刺探600万次
+https://www.solidot.org/story?sid=18233	11700
+<a href="mailto:younglau@me.com">younglau</a> 写道<i> "联合早报<a href="http://www.zaobao.com/special/us/pages11/attack100605b.shtml">报道</a>，美国网军司令亚历山大指出，五角大楼网络每天遭到黑客刺探（Probe）次数多达600万；他担心美国电脑系统受到“远程敌人”的攻击会增加。他指出五角大楼系统每小时遭到25万次外来探测，一天下来就多达600万次。在担任网络司令后首次发表的公开演讲中，亚历山大指出，“国防部需要维护700多万台机器的安全，和这些机器连接的网络有1万5000个。”"</i>
+➜Google改变WebM授权
+https://www.solidot.org/story?sid=18234	14400
+Google最初宣布WebM编解码器时采用的是类BSD许可证授权，由于该许可证未获得开源促进会（OSI）批准，而且不兼容于GPLv3和 GPLv2许可证，因此在开源社区<a href="__SLASHLINK__" sect="opensource" sid="10/05/29/0814224" sn="article" tid="44">引发了质疑</a>。<i>
+现在，Google官方<a href="http://webmproject.blogspot.com/2010/06/changes-to-webm-open-source-license.html">宣布</a>改变WebM授权，<a href="https://lwn.net/Articles/391073/">新的许可证</a>不是类BSD，而是真正的BSD许可证。Google新许可证的专利语言借用了来自Apache和GPLv3的专利条款，从而在版权许可上保留了纯BSD属性。这也意味着Google不再创造新的开源版权许可证，而是利用了现有的开源许可证。</i>
+➜Oracle OpenOffice.org 3.2.1发布
+https://www.solidot.org/story?sid=18235	15600
+Lwn.net<a href="https://lwn.net/Articles/391064/">报道</a>，OpenOffice.org社区宣布发布<a href="http://download.openoffice.org/">OpenOffice.org 3.2.1</a>。这是一个小更新版本，没有加入什么新特性，主要是修正了bug和安全漏洞。新版本的最大变化是，它是Oracle接手后发布的首个OpenOffice版本，因此OpenOffice的logo中加入了Oracle的<a href="http://www.openoffice.org/trademark/brandrefresh.html">标志</a>。OpenOffice.org的下一个大更新版本3.3预计在秋季发布。
+➜Aquaria开源
+https://www.solidot.org/story?sid=18236	20160
+Wolfire<a href="http://blog.wolfire.com/2010/06/Aquaria-goes-open-source">宣布</a>了最新的开源独立游戏。继 Lugaru、Gish和Penumbra Overture之后，又一款获奖的著名独立游戏《<a href="http://www.bit-blot.com/aquaria/">Aquaria</a>》（安琪拉之歌，国内有汉化版）开源了。和之前的Gish一样，开发者只开源了引擎，图像等数据仍然是私有的。<a href="http://hg.icculus.org/icculus/aquaria/">源代码</a>采用GPLv2许可证发布。<i>
+<a href="http://en.wikipedia.org/wiki/Aquaria_(video_game)">Aquaria</a>是一款以海底为背景的2D卷轴式电脑游戏，由独立游戏工作室Bit Blot开发，Alec Holowka和Derek Yu作曲。该游戏在2007年获得了独立游戏节大奖。Aquaria是一款动作冒险游戏，展现了庞大的海底世界，注重探索和解密，游戏方式是非线性的。</i>
+➜雅虎和美联社被指操纵用户评论
+https://www.solidot.org/story?sid=18237	23760
+有人在浏览雅虎网站上由美联社提供的巴以冲突相关新闻时，注意到了一个奇怪的现象，不同日期文章的第一个帖子都是由同一位用户贴出，更不可思议的是他似乎穿越时间在3月9日发布了<a href="http://news.yahoo.com/s/ap/ml_israel_palestinians">6月3日</a>或<a href="http://news.yahoo.com/s/ap/20100506/ap_on_re_mi_ea/ml_israel_palestinians">5月6日</a>的帖子。<i>
+因此他提出了一个<a href="http://dissidentvoice.org/2010/06/yahoo-and-ap-caught-manipulating-user-comments/">阴谋论</a>：雅虎和美联社联手<a href="http://news.slashdot.org/story/10/06/04/2036232/Yahoo-Faces-Questions-After-Discovery-Of-Comment-Replication">操纵用户评论</a>，使热门话题显得讨论更热闹。像雅虎这样的巨头真的会使用这种不入流的手段？Techdirt的Mike Masnick对此进行了<a href="http://www.techdirt.com/articles/20100603/1653109680.shtml">深入挖掘和分析</a>，发现这是雅虎评论系统的技术问题，和阴谋论无关。雅虎的评论系统在处理用户留言时候只是简单的根据URL最后一段字符串复制评论，忽视了时间，比如上述地址中的URL最后字符完全相同：ml_israel_palestinians和20100506/ap_on_re_mi_ea/ml_israel_palestinians。雅虎网站上的其它URL类似的文章也出现了类似的评论复制问题。</i>
+➜谷歌承认Google App Engine表现欠佳
+https://www.solidot.org/story?sid=18238	25200
+<a href="http://www.hi2020.com/">书评影评</a> 写道<i> "据<a href="http://www.ukfast.co.uk/internet-news/google-admits-app-engine-poor-performance.html">UKFAST报道</a>，继两周前发布谷歌商业版应用程序引擎（<a href="http://codegooglecomintlzh-cnappengine/">Google App Engine</a>）之后，谷歌今日承认该产品的数据库数周来表现欠佳。谷歌本周三在博客中撰文表示，数据库问题已影响到其他应用程序引擎组件，这一问题由平台增长引起，而平台需求的增长已经超过了服务器负荷。该博客文章还表示：“过去数周里的很多原因导致了该问题，但最根本原因是需求无限制的增长。过去六个月里，我们提供的服务量每两个月增长25%。”"</i>
+➜SpaceX于6月4日成功发射Falcon 9火箭
+https://www.solidot.org/story?sid=18239	25920
+私人太空公司<a href="http://www.spacex.com/updates.php">SpaceX</a>于6月4日美国东部时间下午2:45，在卡纳维拉尔角范登堡空军基地<a href="http://www.spaceflightnow.com/falcon9/001/launch/">成功发射了Falcon 9火箭</a>（<a href="http://www.spacex.com/multimedia/videos.php?id=51">视频</a>）。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E7%8D%B5%E9%B7%B99%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD">Falcon 9</a>是一种二级火箭，第一节有九颗默林引擎；第二节则有一颗，两节皆为可回收式的。Falcon 9设计能运载8700公斤到24750公斤的货物，甚至也可能用于载人飞行。Falcon 9的第一次点火倒计时在几乎最后一秒被终止，原因是引擎参数上出现了一个问题。随后发射软件进行了调正，第二次倒计时很顺利的进行。</i>
+➜Rockbox 3.6发布
+https://www.solidot.org/story?sid=18240	28080
+Rockbox是数字音频播放器固件的自由软件替代。开发者现在<a href="https://lwn.net/Articles/391018/">宣布</a>了最新的<a href="http://www.rockbox.org/wiki/ReleaseNotes36">Rockbox 3.6</a>。<i>
+新版本增加了新的编解码器，支持FM屏幕换肤，主题增加了多种字体，支持热键等等。Rockbox目前支持的播放器包括了苹果的1代到5.5代iPod和iPod Mini，支持第一代的iPod Nano (不支持Shuffle及2代之后的Nano、Classic或Touch)，以及Archos，SanDisk，奥林巴斯，东芝，iriver等的不同型号。</i>
+➜骨灰级玩家每周玩游戏48小时
+https://www.solidot.org/story?sid=18241	44160
+你是否认为自己是一位骨灰级玩家？市场研究公司NPD Group的调查发现，骨灰级玩家平均一周<a href="http://videogames.yahoo.com/events/plugged-in/study-extreme-gamers-play-48-hours-a-week/1400467">要玩游戏48.5小时</a>，相当于每天约7小时。骨灰级玩家的平均年龄为29岁，其中三分之一是女性，他们更喜欢用游戏机而不是电脑，过去3个月平均购买了24款游戏，为游戏花费上千美元。不过骨灰级玩家仍是少数，他们只占到美国游戏玩家群体的4%。普通玩家平均一周玩13个小时。
+➜苹果的HTML5演示只支持Safari
+https://www.solidot.org/story?sid=18242	50700
+苹果在本周发布了<a href="http://www.apple.com/html5/">HTML5 Showcase</a>，演示了HTML5、CSS3等相关技术。Google和<a href="http://ie.microsoft.com/testdrive/">微软</a>都有类似的HTML5技术演示，但苹果的做法略有不同，它的演示<a href="http://www.osnews.com/story/23411/Apple_s_HTML5_Showcase_Isn_t_HTML5_Blocks_Other_Browsers">屏蔽了</a>除Safari之外的其它浏览器。
+<i>
+如果你使用的是Chrome或Firefox（Chromium 5在user agent字符串声明是基于Safari，因此能运行演示），点击演示项目将会弹出Safari下载窗口。Opera雇员Haavard<a href="http://my.opera.com/haavard/blog/2010/06/04/apple-html5">认为</a>苹果口口声声要推广HTML5和开放Web，但实际做法却是背道而驰，它屏蔽了其它浏览器，而且使用的视频编解码器是H.264。</i>
+➜WWDC与会申请遭拒，Gizmodo向网友求救
+https://www.solidot.org/story?sid=18243	54600
+<a href="mailto:younglau@me.com">younglau</a> 写道<i> "两月前泄露新一代iPhone的科技博客<a href="http://gizmodo.com/5554994">Gizmodo</a>今年照例向苹果申请参加本届WWDC，而苹果至今完全没有任何回应。其他科技网站或科技博客诸如Engadget、GDGT、Technologizer都已通过邀请并发布了直播预告。为了“给Gizmodo的伙伴们带来乐趣”，Gizmodo发表文章向网友请求援助。经过先前4代iPhone曝光事件之后，出现这样的情况其实也在料想之中了，所以这篇求救文一经发表就遭到网友的调侃和讽刺。</i>另外就是，几个小时前Gizmodo将两个月前的<a href="http://gizmodo.com/5520471">iPhone泄露专题</a>重新打包回炉。"
+➜有些网站解封，有些网站被封
+https://www.solidot.org/story?sid=18244	56100
+加拿大新闻社<a href="http://www.google.com/hostednews/canadianpress/article/ALeqM5gzlTAf_E4nV5X8nU0JenDOW2-yRg">报道</a>，曾经被封掉的网站，其中包括一个色情网站，在周五又恢复了访问。但同时Foursquare服务则被切断了访问。<i>
+重获访问的网站包括了<a href="http://www1.voanews.com/english/news/">美国之音</a>，视频分享网站Vimeo，短域名服务网站<a href="http://bit.ly/">bit.ly</a>，以及色情网站YouPorn。发生这些变化的原因尚不清楚，一位技术分析人员认为原因是系统故障，这种事情以前也发生过，一些网站突然之间能在几天内可以访问，但几天后又被重新堵上。</i>
+➜土耳其屏蔽部分Google服务
+https://www.solidot.org/story?sid=18245	57000
+土耳其的互联网审查现状<a href="http://cyberlaw.org.uk/2010/06/04/access-to-certain-google-services-blocked-from-turkey/">正走向恶化</a>：土耳其电信通讯部长要求该国ISP屏蔽访问某些与YouTube相关的IP地址。<i>
+土耳其自2008年5月就已经封杀了YouTube，最近更是采用了DNS中毒的屏蔽方法。在接到屏蔽IP地址的命令后，土耳其ISP开始向用户发出警告，屏蔽IP地址可能导致无法访问Google的部分服务。目前已知受影响的服务包括了code.google.com、pages.google.com、eo.google.com、translate.google.com.tr、docs.google.com、sites.google.com、books.google.com、chrome.google.com、sketchup.google.com、labs.google.com、mars.google.com、moon.google.com等等。上述服务并没有完全被屏蔽，用户反映出现了无法连接或连接缓慢的问题。</i>

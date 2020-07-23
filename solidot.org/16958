@@ -1,0 +1,49 @@
+➜Tor开发者Jacob Appelbaum在性虐指控后辞职
+https://www.solidot.org/story?sid=48477	13978
+Tor核心开发成员及最知名的Tor公众人物Jacob Appelbaum在性虐指控后<a target="_blank" href="https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project"><u>辞职</u></a>。Tor项目发表<a target="_blank" href="https://blog.torproject.org/blog/statement"><u>声明</u></a>承认，Tor项目成员并不是今天才知道类似的指控，他们早听说过相关的流言，但最新的指控比以前听过的要严重和具体的多，他们对此深感不安，但他们也不愿意对私人行为作出判断。Tor项目表示在听取律师建议将对特定的指控展开调查。一位前CCC（混沌计算机俱乐部，简称c3）组织者Nick Farr随后公开发表博文<a target="_blank" href="https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.gkxds4ydg"><u>抨击了Appelbaum的骚扰和滥权行为（与性无关）</u></a>。Nick Farr是混沌俱乐部会议的长期组织者，在2013年举行的30c3会议上他组织了一个 Lightning Talks，给与会者五分钟左右时间畅所欲言的谈论任何主题。有个人提交了一个话题是指控Jacob Appelbaum是美国情报人员，Nick Farr一开始认为这是无稽之谈，但在对方多次的纠缠之后同意将其放在日程表上。他很快收到了Jacob Appelbaum和c3高层的电邮，谴责他想要破坏Jacob的名誉。Jacob还修改了30c3的数据库抹掉了任何有关话题讨论的痕迹。这只是开始，Jacob一直骚扰他要求交出话题提出者的所有信息，威胁采取极端措施。
+➜华硕通过HTTP更新BIOS和UEFI固件
+https://www.solidot.org/story?sid=48478	14756
+华硕电脑预装的更新软件ASUS LiveUpdate被发现通过明文HTTP更新关键的BIOS和UEFI固件 ，而且在安装时还不对内容源进行任何的验证。LiveUpdate客户端应该存在了很长时间，它通过未加密的明文HTTP连接向更新服务器如liveupdate01.asus.com 或dlcdnet.asus.com发出请求。攻击者很容易诱骗LiveUpdate相信一个恶意程序是合法的系统更新。已有安全研究人员<a target="_blank" href="http://teletext.zaibatsutel.net/post/145370716258/deadupdate-or-how-i-learned-to-stop-worrying-and"><u>公布了针对LiveUpdate的概念验证攻击</u></a>(Tumblr博客)。
+➜卢森堡投资太空采矿
+https://www.solidot.org/story?sid=48479	17636
+欧洲小国卢森堡想要成为<a target="_blank" href="http://arstechnica.com/science/2016/06/luxembourg-wants-to-become-the-silicon-valley-of-asteroid-mining/"><u>太空采矿业的硅谷</u></a>，它向愿意将欧洲总部设在卢森堡境内的太空采矿公司提供2亿欧元的信用额度。卢森堡已经与两家美国公司Planetary Resources和Deep Space Industries达成了协议，两家公司将在卢森堡设立办事处，展开太空采矿相关的研发活动。太空资源采矿一种长远的投资，人类尚未真正访问过小行星，采取小行星上的珍贵矿藏可能需要几十年时间才能实现。采集小行星上的矿藏是否具有经济上的可行性仍然存在疑问。
+➜Mark Zuckerberg的Pinterest和Twitter账号被劫持
+https://www.solidot.org/story?sid=48480	18776
+<div align="center"><img src="http://img.solidot.org/0/552/li9aKl9agor9s.png" height="236" align="" width="450"><br>
+</div>
+<br>
+Facebook CEO Mark Zuckerberg在同行的社交网站上都有账号，但这些账号被怀疑使用了弱安全实践——比如共享密码。他的Pinterest和Twitter账号被名叫<a href="https://twitter.com/_OurMine_">OurMine Team</a>的组织<a target="_blank" href="http://venturebeat.com/2016/06/05/mark-zuckerbergs-twitter-and-pinterests-accounts-hacked-linkedin-password-dump-likely-to-blame/"><u>入侵</u></a>，该组织还声称访问了他的Instagram账号，但遭到Facebook官方的否认。Facebook发言人称，没有Facebook的系统或账号被未经授权访问。Instagram是Facebook的子公司。OurMine Team声称他们利用了前不久在网上公开的上亿LinkedIn账号和密码。
+➜中国网速世界第91
+https://www.solidot.org/story?sid=48481	25208
+官方《中国日报》<a target="_blank" href="http://www.chinadaily.com.cn/china/2016even/"><u>援引一篇报告称</u></a>，中国网速排名<a target="_blank" href="http://cn.nytimes.com/china/20160606/china-internet-speed/"><u>世界第91</u></a>，宽带平均速度9.46 Mbps。中国的网络遭到了严格过滤，而过滤系统对访问国外网站的速度造成了巨大影响，导致的一个结果是中国人越来越趋向于访问境内网站。许多在中国的人不看非中国服务器上的视频，因为那些视频下载或流播的速度太慢。互联网速度排名前五位的国家分别是韩国、瑞典、挪威、日本和荷兰。据报告，韩国的宽带平均速度是26.7 Mbps，瑞典的是19.1 Mbps。
+➜NSA公开800页Snowden文档
+https://www.solidot.org/story?sid=48482	27949
+NSA在信息自由法下解密了<a target="_blank" href="https://news.vice.com/article/edward-snowden-leaks-tried-to-tell-nsa-about-surveillance-concerns-exclusive"><u>数百份Edward Snowden相关的内部文档和电子邮件</u></a>，揭示了NSA在Snowden曝光其大规模监视行动之后的反应。NSA公开的Snowden文档总数接近800页，<a target="_blank" href="https://zh.scribd.com/doc/314796284/NSA-Emails-About-Snowden-s-Concerns"><u>这些文档</u></a>已上传到了Scribd。内部文档证实Snowden曾在CIA工作过，而NSA在Snowden泄密后曾错误指责他之前并没有在内部就监视美国公民一事提出担忧，但文档证实Snowden确实尝试对此发出警告。Snowden目前在俄罗斯避难，他拒绝对这批文档发表披露，他的律师表示Snowden仍然相信NSA在玩选择性发布的把戏，他因此选择不参与这场游戏，他不信任情报界会善意行事。
+➜农业拯救了男人
+https://www.solidot.org/story?sid=48483	30303
+复旦大学的研究人员在《中国科学：生命科学》上发表<a target="_blank" href="http://engine.scichina.com/downloadPdf/i2dp4KBGfaafQWRbC"><u>论文</u></a>称，农业驱动了男性人口扩张。研究分析了千人基因组计划提供的来自非洲、欧洲、亚洲和美洲的共526个男性个体Y染色体，根据测序结果进行系统发育树和人群增长速率的研究。女性人口扩张发生于农业出现之前，而男性人口的扩张则发生在农业出现之后。与狩猎和采集相比，农业带来的食物产量可以喂饱更多的人。研究者<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-06/scp-mws060316.php"><u>认为</u></a>，与狩猎、采集相比，农业提供了更稳定的食物供给，使男性远离危险的狩猎活动，所以狩猎相关的男性死亡率的降低可能是新石器时代性别偏向的人口扩张的主因。
+➜《圣经》故事进入语文教材引发争议
+https://www.solidot.org/story?sid=48484	31716
+《圣经》<a target="_blank" href="http://www.ftchinese.com/story/001067889"><u>成为中国反西方言论的最新目标</u></a>，一本语文教材录入《创世纪》部分章节的事情引发了强烈反对。
+据官媒《北京青年报》的采访，这本初中语文教材的编写者对自己收录《圣经》中上帝创造宇宙的故事进行了辩护，他们表示，他们将一则著名的西方故事收录到教材中，是希望学生可以从神话角度开阔视野。此事在网上引发了激烈的辩论，一些评论人士谴责西方宗教侵入中国教育。中国政协委员、已退休的经济学教授何新表示：“文科教材的编订是不能放开的。文科教材的编订关乎着政治、国家的统一和民族的团结。”《上帝创造宇宙》最初是出现在北京教育科学研究院2002年编订的课本中，但2015年底，该院做出了从未来修订版中（从2016年秋季版开始）删除该文的决定。
+➜GNU Taler 0.0.0发布
+https://www.solidot.org/story?sid=48485	33868
+自由软件电子支付系统<a target="_blank" href="https://taler.net/"><u>GNU Taler</u></a>项目<a target="_blank" href="https://lists.gnu.org/archive/html/taler/2016-06/msg00014.html"><u>发布了</u></a>第一个Alpha版本v0.0.0版。GNU Taler不同于比特币，它设计允许政府掌握消费者的总收入和征收增值税或收入所得税，但政府并不知道你的具体开支，商家也不知道你的身份。它是一种匿名但可征税的电子支付系统。GNU Taler 0.0.0功能还不完整，但主要的组件已经实现。
+➜丝绸之路2.0管理员被判8年
+https://www.solidot.org/story?sid=48486	35886
+暗网毒品市场丝绸之路2.0的管理员Brian Farrell（aka DoctorClu）上周五被判了八年徒刑。丝绸之路2.0是在丝绸之路关闭之后上线的暗网毒品市场之一，2014年11月被执法部门关闭，站长Blake Benthall aka "Defcon"遭到逮捕。Brian Farrell被认为密切参与了丝绸之路2.0的管理工作，2015年1月2日联邦特工搜索了他的家，扣押了手枪、计算机设备、银条和3.5万美元现金。根据法庭判决，银条和3.5万美元现金被政府没收。美国司法部声称，丝绸之路的榜样代表了对公众安全和健康的新威胁。但很多人认为政府的反毒品战役<a target="_blank" href="http://arstechnica.com/tech-policy/2016/06/second-in-command-at-silk-road-2-0-sentenced-to-8-years-in-prison/"><u>才是真正的威胁</u></a>。
+➜优秀的Linux IRC客户端
+https://www.solidot.org/story?sid=48487	40947
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道 <i>"IRC是一种即时文本聊天工具，最早诞生于1988年的芬兰，它现在可能没有以前那么流行，它常被用于从开发者获得技术支持等目的。IRC有助于参与到Linux社区，用户通过登录IRC可以直接接触开发者和其他用户。除了获得和给予技术支持，它还可被用于其它活动。有很多IRC客户端可供选择，其中有命令行终端和图形界面，这篇文章列举了<a target="_blank" href="http://www.linuxlinks.com/article/20160605034638726/BestIRC.html"><u>11款优秀的IRC客户端</u></a>，其中包括<a target="_blank" href="https://hexchat.github.io/"><u>HexChat</u></a>、<a target="_blank" href="http://www.weechat.org/"><u>WeeChat</u></a>和<a target="_blank" href="https://wiki.gnome.org/Apps/Polari"><u>Polari</u></a>等等。"</i>
+➜柯洁有可能在年内挑战AlphaGo
+https://www.solidot.org/story?sid=48488	41047
+国际围棋联盟秘书长在第37届世界业余围棋锦标赛的新闻发布会上<a target="_blank" href="http://english.cri.cn/12394/2016/06/05/4203s929934.htm"><u>表示</u></a>，19岁的中国九段棋手柯洁有可能在年底前与Google的围棋AI AlphaGo对垒。柯洁目前排名<a target="_blank" href="http://www.goratings.org/"><u>世界第一</u></a>，而 AlphaGo在3月举办的挑战赛上以4比1击败了韩国九段棋手李世石，目前排名世界第二。中国围棋协会已经联络了Google DeepMind，为比赛做准备。
+➜科学家尝试用猪培植移植用人体器官
+https://www.solidot.org/story?sid=48489	43632
+加州戴维斯的科学家正试图透过<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/06/160606_us_pigs_gm"><u>向猪的胚胎注入人类干细胞</u></a>，来培植出可供人体移植的器官，缓解移植器官紧缺的问题。研究人员计划让人猪“嵌合体”胚胎在母猪体内发育28天，然后终止怀孕，取出胚胎进行分析。这项技术一直备受争议，不少专家从道德层面提出质疑，担忧人类干细胞将流转到发育中的猪大脑。制造这样的胚胎合成技术牵涉两个阶段。首先研究人员须利用CRISPR基因剪辑技术，去除新受精猪胚胎中让胰脏生成的基因，以形成基因“壁龛”。然后把诱导性多功能干细胞（iPS）注射到胚胎里面。这些iPS细胞是从成年人细胞中分离出来，再“回拨”成可以发育成任何组织的干细胞。领导这项研究的UC Davis生殖生物学家巴勃罗·罗斯博士不认为基因改造过程将造成猪脑染有人细胞，但他称这正是研究项目进行得小心翼翼的原因。“我们觉得生成一个人脑是不大可能的，但我们将调查这可能。”
+➜开发者最好停止使用短密钥ID
+https://www.solidot.org/story?sid=48490	45570
+通常有三种方式指代PGP/GPG密钥：短密钥ID、长密钥ID和完整指纹。因为短密钥ID最便于使用，因此它的使用也是最广。但短密钥ID不可避免会容易发生“碰撞”。 Debian开发者Enrico Zini报告<a target="_blank" href="http://pgp.gwolf.org/pks/lookup?op=vindex&amp;search=0x9F6C6333"><u>发现了</u></a>两个密钥共享相同的短ID，在联络了其中一位密钥所有者之后对方表示对第二个密钥不知情。我们不知道幕后者是谁，或是出于什么动机，只知道看起来很邪恶。Gunnar Wolf发表了一篇<a target="_blank" href="http://gwolf.org/node/4070"><u>博文</u></a>呼吁开发者尽可能快的<a target="_blank" href="http://lwn.net/Articles/689792/#Comments"><u>停止使用短密钥ID</u></a>。
+➜Zika 病毒直接感染脑细胞
+https://www.solidot.org/story?sid=48491	46003
+得克萨斯大学西南医学中心的研究人员在《Cell Reports》期刊上发表<a target="_blank" href="dx.doi.org/10.1016/j.celrep.2016.05.075"><u>报告</u></a>称，Zika病毒直接感染大脑神经元的前驱细胞。对Zika病毒的研究<a target="_blank" href="http://sciencebulletin.org/archives/1845.html"><u>发现</u></a>，它平均感染了20%的脑细胞，能逃避免疫系统检测，持续复制数周。Zika主要听过蚊子叮咬或性接触传播，它对成年人的影响是适度的，但却会对胎儿造成严重的出生缺陷。

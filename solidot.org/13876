@@ -1,0 +1,44 @@
+➜微软Java虚拟机(MSJVM)将于2007年12月31日终止
+https://www.solidot.org/story?sid=4801	1200
+<a href="http://solidot.org/~cnw/">cnw</a> 写道 "基于3年多以前<a href="http://tech.sina.com.cn/it/2004-04-15/0611349636.shtml">与Sun达成的协议</a>，微软将在2007年年底，即2007年12月31日<a href="http://www.microsoft.com/china/mscorp/java/default.mspx">正式终止对MSJVM的支持</a>。按微软惯例，相关安全补丁也不再发布。JVM是Java虚拟机的简称，利用JVM软件，用户能够运行以Java编写的应用程序，而Java编程语言则是由<a href="http://java.sun.com/">Sun公司</a>创造的。微软与Sun曾为此打过十几年的官司，最终以微软败诉收场。"
+➜每千人中有一人可以闻到声音
+https://www.solidot.org/story?sid=4802	1500
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "人类存在一种叫做<a href="http://zh.wikipedia.org/wiki/%E9%80%9A%E6%84%9F">通感</a> 或感觉错乱（Synesthesia）的感觉。例如听音乐时产生视觉感受，阅读文字时，能看到某种颜色。西班牙格拉纳达大学的实验心理学专家Juan Lupiáñez Castillo和Alicia Callejas Sevilla 正在<a href="http://www.eurekalert.org/pub_releases/2007-12/udg-opo122107.php">研究</a> 这一现象。Callejas的博士论文可能是世界上第一篇该领域的博士论文。
+<i>研究发现，大约每1000人中有一个通感者。你认识的人当中有通感者吗？"</i>
+➜科学家研究基于量子点（quantum dots）的永久存储器
+https://www.solidot.org/story?sid=4803	1800
+常用的存储器（DRAM）需要不间断的更新内容，闪存的优势是低能耗，具有更高的灵活性，劣势是它保存数据的时间只有10年，而且访问速度比DRAM慢很多。因此一个完美的记忆存储器既要具有闪存的数据不易损失性能，访问速度还应该远超DRAM，量子点（<a href="http://en.wikipedia.org/wiki/Quantum_dot">quantum dots</a>）就能满足上述要求，它的电子属性是可调的。
+<i>
+德国的研究人员在探索合适的可自我组装排列的量子点，<a href="http://arstechnica.com/news.ars/post/20071226-the-perfect-computer-memory.html">以创造永久的存储器</a>。他们正在实现访问时间10纳秒，更新频率在0.7Hz的新随机存储器。一般的闪存记忆能力依赖二氧化硅层的无穷大势垒，当在flash单元上写入数据时电子穿越障碍需要许多能量，而能量会破坏二氧化硅层，量子点则相反，它具有可调的属性，因此障碍能始终保持在较低高度。基于目前已知的材料属性和量子点的特殊性，研究人员预测他们能够创造一个保存数据长达1百万年的存储器，到时候，你可以对现有的任何存储设备说再见了。
+</i>
+我们以前也提到过采用量子点的技术，如<a href="__SLASHLINK__" sect="science" sid="07/06/25/0612236" sn="article" tid="19">信息的心灵传输</a>。
+➜Google计划建立用风车推动的数据中心
+https://www.solidot.org/story?sid=4804	3300
+Google 正在考虑在堪萨斯州 Greensburg建立<a href="http://serverspecs.blogs.techtarget.com/2007/12/27/google-considering-wind-powered-data-center-in-kansas/">用风车推动的数据中心</a>。<i>
+早在去年Google就在Mountain View建立了一座使用巨大的太阳能电池板的数据中心，新的20兆瓦Greensburg数据中心将会帮助Google实现它的绿色目标。上个月它就宣布要让可更新能源<a href="http://www.google.com/intl/en/press/pressrel/20071127_green.html">比煤更便宜</a>。
+</i>
+题外话，中国政府宣称要<a href="http://news.yahoo.com/s/ap/20071226/ap_on_re_as/china_energy_plans">使用更多的煤</a>。
+➜域名在搜索之后消失
+https://www.solidot.org/story?sid=4805	4500
+一个完美的域名在你的脑海中形成，于是你快速在网站去检查它是否可用，你拖延了几分钟去注册那个域名，结果却发现它已经被某个人抢注了。那么在搜索和尝试注册之间间隔了多长时间？一个案例是少于90秒。Daily Domainer讲述了一个让人感兴趣的故事，宣称<a href="http://www.dailydomainer.com/2007173-who-is-monitoring-your-domain-searches-update.html">存在一个漏洞</a>可以让域名tasters在几分钟内中途截取、分析和注册域名。
+<i>
+一位内部人士表示，“每当你进行一次whois搜索，你将冒着失去你宝贵域名的危险。” ICANN下属的Security and Stability Advisory Committee (SSAC)并没有找到关于<a href="http://img.domaintools.com/blog/domain-name-front-running.pdf">Domain Name Front Running</a>(PDF)足够硬的证据，但提议用户将他们的遭遇公布出来。这里有域名搜索窃贼如何行动，及<a href="http://blog.domaintools.com/2007/03/stealing-domain-name-research/">一些如何避免成为一位受害者的技巧</a>。</i>
+➜AOL终止Netscape浏览器开发
+https://www.solidot.org/story?sid=4806	18600
+在花了许多年考虑到底该怎么做之后，AOL正式宣布<a href="http://blog.netscape.com/2007/12/28/end-of-support-for-netscape-web-browsers/">终止Netscape浏览器开发</a>。四年半前AOL拆开了开发团队，试图创造<a href="http://mozilla.org/">Mozilla基金会</a>的同时不影响原有浏览器的企图却注定要失败，AOL曾两次尝试重新改造Netscape，但除了见证了Firefox浏览器的腾飞，它并没有获得成功。他们创造出了一个怪物如 Netscape 8，同时使用了Mozilla和IE的渲染引擎，而在几个月前他们刚刚发布了Netscape 9，设法赶上流行的社交网络风潮。Netscape浏览器的技术支持将到2008年2月1日终止，之后AOL不会再发布安全补丁。为了怀旧，他们建议用户使用Firefox，安装Netscape主题。
+➜一个糟糕的里程碑：AOL不再继续Netscape
+https://www.solidot.org/story?sid=4807	20940
+<a href="http://www.toboshu.cn/">chrisqie</a> 写道 "请为Netscape浏览器默哀片刻。<a href="http://browser.netscape.com/">Netscape Navigator</a>，伴随着商业互联网诞生于1994年10月，将会死于2008年1月1日。AOL，在1998年通过42亿美元获得了Netscape，<a href="http://blog.netscape.com/2007/12/28/end-of-support-for-netscape-web-browsers/">将要在今天宣布</a>：他们不在继续开发这款最新版本是9的浏览器。<i>
+通过昨天和AOL/Netscape研发部经理Tom Drapeau的<a href="http://www.techcrunch.com/2007/12/28/a-sad-milestone-aol-to-discontinue-netscape-browser-development/">邮件交流</a>，得知只有少量AOL工程师留下来进行浏览器的更新作业。他们中的大部分在把精力用在制作一款披着《Netscape》皮肤的Firefox浏览器，让人们看起来、感觉起来像是Netscape。<br>
+该团队在和微软的Internet Explorer浏览器对抗中，已不能再获取任何有意义的市场份额。实事上，最近的调查表明Netscape当前在浏览器中只有0.6%的市场份额，IE是77.35%，Firefox是16.01%。当然，就是这个浏览器，曾经一度占据90%以上的市场，并点燃了90年代的浏览器大战以及同一时期关于微软的反托拉斯审判。"</i>
+➜PC Mag苛刻的评价Wal-Mart 200美元Linux电脑
+https://www.solidot.org/story?sid=4808	21900
+一个月前Wal-Mart开始销售199美元的Linux电脑：Everex gPC，非常受欢迎，<a href="__SLASHLINK__" sect="linux" sid="07/11/13/052210" sn="article" tid="83">一周就脱销了</a>，这个事件也被人引用证明消费者已经厌倦了昂贵的Windows，开始接受Linux。但PC Magazine杂志可没这么认为，它<a href="http://www.pcmag.com/article2/0,2704,2227792,00.asp">给予了gPC 1.5星的评价</a>（最高5星），而读者评价更是只有1星。<a href="http://linux.slashdot.org/article.pl?sid=07/12/28/1312253">gPC其实一个具有现实意义的选择</a>，并非粗鄙不堪，即使绚丽如Vista批评的声音也是不绝于耳。PC Magazine给出的一个理由是“专为Mac或Windows编写的程序将无法运行”，这不是废话么？
+➜美国医院竞购核设备治疗癌症
+https://www.solidot.org/story?sid=4809	25200
+《纽约时报》报道，美国的一些大医院正<a href="http://www.nytimes.com/2007/12/26/business/26proton.html?em&amp;ex=1198990800&amp;en=24877aabb4760097&amp;ei=5087%0A">使用粒子加速器来治疗癌症</a>。这种以前被用于高能物理研究的加速器能把质子加速到接近光速度，比常用的X射线治疗法更精确、副作用也更少，还能减少杂乱的辐射。但是购买一台重达222吨的加速器，以及建造相应的建筑物，总费用高达1亿美元。批评人士认为在更便宜的疗法有效的情况下让病人接受质子疗法，提高了医疗成本，加重了病人和国家的经济负担。但<a href="http://news.xinhuanet.com/newscenter/2007-12/29/content_7333127.htm">支持者认为</a>：
+<i>
+举例来说，质子可用于治疗眼睛内部或周围的肿瘤，而不会损伤视力或使大脑受到辐射。质子对治疗头部、颈部和脊椎肿瘤，以及儿童的肿瘤都非常有效，儿童对辐射副作用特别过敏。</i>
+➜OneNote2007的七大不足
+https://www.solidot.org/story?sid=4810	25980
+<a href="http://ashan.yo2.cn/">ashan3</a> 写道 "OneNote虽然是一个很好的工具，2007版较2003版有很大的改进，但是在使用2007的过程发现一些不足，列举如下：<i>1、笔记本分区里的页面无法自定义颜色。<br>2、图片的排列不够灵活。<br>3、对于表格的支持无法支持合并单元格。<br>4、手机端的OneNote移动版形同鸡肋，不用也罢。<br>5、没有针对分区的整体处理能力。<br>6、没有提供垃圾箱的删除回收功能（Google笔记本老早就有了这个功能了）。<br>7、没有标签功能。"</i>

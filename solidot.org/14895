@@ -1,0 +1,85 @@
+➜Linux基金会发布企业Linux使用调查
+https://www.solidot.org/story?sid=20462	4800
+Linux基金会在年度终端用户峰会上<a href="http://www.linuxfoundation.org/lp/page/download-the-free-linux-adoption-trends-report">发布了企业Linux使用调查</a>。<i>
+调查显示Linux的增长势头不减。调查发现：76.4%的企业计划在未来12个月内增加更多Linux服务器，相比下只有 41.2%的企业计划在未来一年增加Windows服务器，而同时43.6%的企业表示会在同期内减少或维持Windows服务器数量。86.5%受访者表示Linux在继续进步，38.3%的受访者表示他们觉得Linux平台的主要问题是人才短缺。</i>
+➜HelloGCC Worshop China 2010 邀请信
+https://www.solidot.org/story?sid=20461	6000
+<a href="http://hellogcc.blogbus.com/">tea_water</a> 写道 "大家好，HelloGCC Worshop China 2010将于2010年11月6日在中科院研究生院中关村教学楼S202（地址：北京市海淀区中关村南二条10号，为150人大课教室）举办。如果有兴趣，请到 <a href="http://linux.chinaunix.net/hellogcc2010/">http://linux.chinaunix.net/hellogcc2010/</a>进行注册，所有注册参会的网友均有机会在现场的抽奖活动中得到ChinaUnix电脑背包，秋季长袖T恤。           填写CU ID(此项目为可选)的注册网友将有机会获得技术书籍一本，共20本。<br> <br>此致敬礼，<br>HelloGCC小组<br> <br>下面是会议的简介：<br>【活动简介】<br>HelloGcc工作组于2007年，由自由软件爱好者成立，旨在营造一个自由，开放，共享的技术社区，讨论和学习GNU底层系统工具，包括GCC，GDB，BINUTILS等。我们每年都会举办一次这样的技术讨论会，希望通过自由，开放，共享的方式来增进大家相互的交流。<br>如果你有什么问题，可以发送邮件到：hellogcc.workgroup@gmail.com；或者在ChinaUnix论坛的CPU与编译器板块和我们联系！<br> <br>【活动地点】<br>中科院研究生院中关村教学楼S202（地址：北京市海淀区中关村南二条10号，为150人大课教室）<br> <br>【时间日程】<br>2010年11月6日（周六）下午<br>13:30 - 13:35------活动简介<br>13:35 - 14:10------话题1＋提问<br>14:10 - 14:45------话题2＋提问<br>14:45 - 15:20------话题3＋提问<br>15:20 - 15:35------休息&amp;自由讨论，抽奖环节<br>15:35 - 16:10------话题4＋提问<br>16:10 - 16:45------话题5＋提问<br>16:45 - 17:20------话题6＋提问<br>17:20 - 17:35------抽奖环节，合影<br> <br>【演讲主题】<br>1、内存管理机制与优化<br>演讲者：袁鹏，编译器爱好者，关注多核处理器和程序性能。<br>简介：爱分配，爱释放，爱泄漏<br>我不是BUG<br>我只是一个C库中的普通函数<br>看过很多程序的崩溃，所以更珍惜自身的设计<br>我是malloc<br>我只想把内存制服<br>你知道malloc的背后发生了那些故事吗？在本次报告中，我将以malloc为例，从"处理器/操作系统/编译器/运行时"的角度来探讨系统的内存管理机制，涉及到内存分配函数的设计权衡、性能评测以及错误检测等。多核已经无处不在，malloc又如何做到可扩展呢？<br> <br>2、调试器的断点机制的探讨<br>演讲者：齐尧，喜欢自由软件，对tool十分感兴趣。<br>简介：断点是调试器中十分常用和重要的功能。用最简单的方式，介绍调试器里边断点的实现方式，还有一些断点实现需要考虑的问题。有助于理解GDB或者其他调试器的代码。<br> <br>3、针对嵌入式CPU的Binutils移植<br>演讲者：袁新宇，浙江大学博士生，感兴趣的领域包括：编译优化、并行计算、大规模互联网架构等领域，喜欢开源软件。<br>简介：我们目前从事一款国产嵌入式CPU的编译器和工具链移植的课题，其中Binutils的移植是移植工作的第一步。Binutils移植涉及到新增BFD后端、汇编指令解析、重定位处理等工作。我们会介绍Binutils的总体结构，移植工作中碰到的难点以及我们是如何解决的。<br> <br>4、GCC编译器图形化实现与讨论<br>演讲者：邢明杰，GCC贡献者，喜欢自由软件，对GCC比较感兴趣。<br>简介：介绍自己写的几个小工具，用来将gcc的tree dump文件，汇编文件转换成可以图形化显示的vcg格式，从而可以在vcgview工具中图形显示控制流图。讨论如何通过gcc插件功能来实现更强大的图形化功能。<br> <br>5、How To Port GNU ToolChain<br>演讲者：刘佳 GCC/LLVM 移植/维护/优化<br>简介：通过一个虚拟的基于MIPS-based CPU的完整实例来讲解如何Port整套GNU ToolChain，希望能更好的帮助想入门的人入门，让更多的想参与的人参与到GNU ToolChain的社区里来。<br> <br>6、Linux Kernel GDB tracepoint module演示<br>演讲者：朱辉（teawater），GDB coder。<br>简介：演示如何使用GDB通过Linux Kernel GDB tracepoint module 对Linux Kernel进行调试。"
+➜Linux视频编辑工作流Linspotting为专业制作做好了准备
+https://www.solidot.org/story?sid=20463	6720
+Lwn.net<a href="http://lwn.net/Articles/409577/">报道</a>，Linux视频编辑工作流<a href="http://blog.angulosolido.pt/2010/10/linspotting-project-linux-video-editing.html">Linspotting项目已经为专业制作做好了准备</a>。<i>
+Linspotting具备了专业视频编辑软件的大部分功能，如多轨编辑，支持绝大多数格式和编解码器（mp3、mpeg2、mpeg4、DnxHD、Theora等等），支持Vimeo和Youtube等平台，支持特效和转换，支持屏幕捕获，自定义渲染，支持字幕等。Linspotting项目是基于<a href="http://kdenlive.org/">Kdenlive</a>。
+</i>
+<a href="http://vimeo.com/15474925">演示</a>（Vimeo）
+➜佳能用关键词阻止未授权的文档打印
+https://www.solidot.org/story?sid=20464	8400
+佳能的最新文档管理系统Uniflow 5拥有一项引入注目的突破性技术：<a href="http://www.itnews.com.au/News/235047,canon-blocks-copy-jobs-by-keyword.aspx">它能利用关键词阻止用户打印或复印文档</a>。
+<i>
+Uniflow5允许对打印机、复印机、扫描仪、多功能设备进行集中式管理，它的安全系统是基于关键词，利用光学字符识别技术识别文档中的关键词。当管理员配置好之后，它将阻止用户打印、复印、扫描和传真包含被禁止关键词的文档，例如客户名字或项目代号。如果用户尝试打印它，服务器会使用电子邮件向管理员发送有问题文档的PDF拷贝。当然，用户也可以通过修改关键词绕过安全系统，例如用z00替换zoo。</i>
+➜最近发现的可居住行星可能不存在
+https://www.solidot.org/story?sid=20465	9720
+两周前，美国天文学家宣布在恒星系Gliese 581发现了<a href="__SLASHLINK__" sect="science" sid="10/09/30/0530248" sn="article" tid="102">一颗可居住的行星</a>，它的大小和表面温度都适合生命生存，它是该星系发现的第五颗行星，编号为Gliese 581g。<i>
+然而在本周举行的行星系统天体物理学会议上，瑞士日内瓦天文台的天文学家Francesco Pepe报告，他和他的同事没有在Gliese 581的可居住区域内<a href="http://news.sciencemag.org/sciencenow/2010/10/recently-discovered-habitable-world.html">发现第五颗行星的任何可信信号</a>，他表示无法证实Gliese 581g的存在。</i>
+➜教皇警告新技术令人无法区分真实和虚拟
+https://www.solidot.org/story?sid=20466	11880
+教皇本笃十六世<a href="http://idle.slashdot.org/story/10/10/12/1328215/Pope-Says-Technology-Causes-Confusion-Between-Reality-and-Fiction">发出警告</a>，新技术的广泛使用把人类推入到无法区分真实和幻想的危险境地。<i>
+教皇称，新技术及其发展，将让人们无法区分真实和幻想，导致真实和虚拟现实的混淆。虚拟现实和虚拟世界会带来不同后果，其中最重要的风险是会让人对现实生活感到冷漠。教皇认为要警惕新技术的使用。</i>
+➜研究发现权力会让大多数人变成超级恶棍
+https://www.solidot.org/story?sid=20467	20400
+如果你拥有了超能力，你想成为超级英雄还是超级恶棍？虽然许多人可能会回答是超级英雄，但研究人员<a href="http://spreadsheets.google.com/viewform?formkey=dDYzSS0ycTdfODRBTWUxWXFNRzZ5NEE6MA">发现</a>，如果拥有超级力量，多数人会很乐意改变自己，<a href="http://science.slashdot.org/story/10/10/12/1249241/Study-Finds-Most-Would-Become-Supervillians-If-Given-Powers">选择成为超级恶棍</a>。<i>
+古希腊哲学家<a href="http://zh.wikipedia.org/zh-cn/%E6%9F%8F%E6%8B%89%E5%9B%BE">柏拉图</a>曾在《理想国》中用“盖吉氏的戒指”(Ring of Gyges)来说明权力会导致腐败，没人能逃脱权力的侵蚀。西北大学社会心理学家Adam Galinsky指出，权力会让人感受到某种“心理隐身”，但讽刺的是在很多方面他们却比其他人露面的机会更多。权力会塑造一个人，当一个人拥有额外的力量，他会感受到自己变得更重要，其他人可能会更尊重他，对他的行为会更宽容，这些感受混合起来很容易会让一个人滑落进腐败的深渊。</i>
+➜P2PU-开放、免费的网络大学
+https://www.solidot.org/story?sid=20468	21900
+<a href="mailto:jazzihong22@gmail.com">jazzi</a> 写道 "<a href="http://p2pu.org/">p2pu：Peer to Peer University</a>，口号是：Learn for everyone, by everyone, about almost anything。<i>
+这是一个<a href="http://www.mozilla.org/">Mozilla</a>赞助的开放学习网站，特点在于只要你有所长，人人可开课，人人可报名，而且都是免费的，站方会通过各种措施鼓励分享和学习，同时保证课程的质量。课程的种类没有限制，关于操作系统的，关于法律的，关于美食的，当然最多的还是关于网络设计的。目前开课的差不多都是各自领域比较知名和有实力的，很值得去看一看。</i>
+其中的一个课程<a href="http://p2pu.org/webcraft/introduction-drupal">《Introduction to Drupal》</a>是由<a href="http://www.acquia.com/">Acquia</a>职员Heather开设，要知道Acquia可是Drupal创始人创建的公司，曾参与建设美国白宫网站。<a href="http://p2pu.org/">p2pu</a>的信仰是努力保持网络的开放，并让每一个人都能享有受教育的权利。"
+➜iPhone 4屏幕故障率远高于3GS
+https://www.solidot.org/story?sid=20469	22800
+SquareTrade公司<a href="http://www.squaretrade.com/pages/iphone4-glass-study">分析了超过2万台iPhone 4手机的故障原因</a>，发现iPhone 4在上市4个月内的玻璃屏幕故障率<a href="http://apple.slashdot.org/story/10/10/12/211243/iPhone-4-Screens-Break-82-More-Than-3GS">比3GS同期高出82%</a>，iPhone 4的总体故障率比3GS高68%。研究估计15.5%的iPhone 4用户会在购买手机一年内遇到问题。
+➜微软专利GPU加速视频编码
+https://www.solidot.org/story?sid=20470	24840
+微软获得了一项<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/PTO/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7,813,570.PN.&amp;OS=PN/7,813,570&amp;RS=PN/7,813,570">重要专利</a>：<a href="http://yro.slashdot.org/story/10/10/12/167234/Microsoft-Patents-GPU-Accelerated-Video-Encoding">利用GPU加速视频编码</a>。<i>
+GPU通常有数百个独立处理器，能并行对视频进行编码，利用GPU的计算能力可大幅减轻CPU的工作压力。微软是在2004年10月申请了GPU加速视频编码专利，内容描述了利用GPU执行视频编码运动估值，利用GPU深度缓冲(depth buffer)在运动估值处理期间合并重复计算和搜索任务，利用GPU执行帧处理、输出数据到CPU等。</i>
+➜调查称用户对待密码粗心大意
+https://www.solidot.org/story?sid=20471	25920
+一项最新研究<a href="http://it.slashdot.org/story/10/10/12/1756249/Survey-Shows-How-Stupid-People-Are-With-Passwords">再次证明</a>，大多数网民对保护个人隐私和个人信息并不十分在意。调查发现网民在处理网上密码上十分粗心：<i>
+40%被调查者在过去一年曾与至少一个人分享密码；大多数人在不同网站使用相同密码；近半数人没有在密码中使用特殊字符如! ? &amp; #，20%的被调查者用生日或宠物名字作密码；18岁到29岁的被调查者中有12%会在短信中保留一个密码；51%的人偶尔会忘记密码；14%的人从未修改过银行账户密码...</i>
+➜Intel尝试匿名化
+https://www.solidot.org/story?sid=20472	29100
+《纽约时报》<a href="https://www.nytimes.com/2010/10/13/technology/13chip.html?_r=1&amp;src=busln">报道</a>，一台笔记本平均有1800个组件，但只有一个组件赢得了最高的品牌认识度：Intel制造的芯片。<i>
+多年来，Intel一直采用富有攻击性的且容易记住的方法去提升其在电脑市场的地位。采用Intel处理器的笔记本大都贴着显眼的“Intel Inside”贴纸，<a href="__SLASHLINK__" sect="hardware" sid="10/09/03/081212" sn="article" tid="22">这一点让AMD痛恨不已</a>。然而如今，Intel开始走进新的领域——它的芯片正被电视机等消费电子产品采用。但计算机用户熟悉的“Intel Inside”贴纸却消失不见了。Intel解释了它的匿名计划，负责品牌的经理Jim Nucci说，“我们的客户想要传递美丽优雅的工业外观设计，我们并不想成为一个突兀的元素。”</i>
+➜美国核储备库使用机器人巡逻
+https://www.solidot.org/story?sid=20473	31500
+美国<a href="https://nnsa.energy.gov/">核安全管理局</a>宣布，它开始在内华达州国家核储备库（Nevada National Security Site，缩写N2S2）周围沙漠地区<a href="http://hardware.slashdot.org/story/10/10/12/1724211/Robots-Guarding-US-Nuclear-Stockpiles-In-Nevada">使用自动驾驶汽车巡逻</a>。<i>
+<a href="http://en.wikipedia.org/wiki/Nevada_Test_Site">N2S2</a>面积大约3,500平方公里，这里曾经是美国的核弹测试地点，现在则储存了数百万吨的劣等核废料，以及冷战时期的核武器和最尖端核试验研究设施。美国开始部署“<a href="http://www.gdrs.com/robotics/programs/program.asp?UniqueID=27">移动监测评估响应系统</a>(Mobile Detection Assessment Response System，缩写MDARS)”机器人去保护珍贵的核材料。MDARS本质上一辆装备了摄像机的迷你悍马车，能在沙漠中漫游和侦测，如果发现异常情况则会向远程操作员发出警告。控制人员能实时观看机器人传输的视频，能使用扬声器和麦克风与入侵者进行通话。
+</i>
+➜索尼发布四款Google TV
+https://www.solidot.org/story?sid=20474	33120
+索尼公司发布了<a href="http://news.cnet.com/8301-17938_105-20019183-1.html">基于Google TV的系列产品</a>，公布了新款NSX-GT1 LCD电视和NSZ-GT蓝光播放器的详细资料。
+<i>
+<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20147884,00.htm">四款Google TV</a>包括了：售价599.99美元的24吋NSX-24GT1（非LCD背光），其它三款均为LED背光机种，分别是32吋NSX-32GT1（799.99美元）、40吋的NSX-40GT1（999.99美元），和46吋的NSX-46GT1（1399.99美元）。NSZ -GT1蓝光播放器售价399.99美元，内建Wi-fi，采用Intel Atom处理器。预装的应用程序包括Netflix、Pandora、Twitter、Youtube和索尼的Qriocity视频服务。</i>
+➜中国的警犬有制服
+https://www.solidot.org/story?sid=20475	34800
+中华网<a href="http://pic.news.china.com/news/html/2010-10-13/154524_1519797.htm">报道</a>，广西梧州苍梧县龙圩镇因土地纠纷引发警民冲突。土地纠纷的原因当然是征地，以及居民对补偿款不满。新闻中的一张引人注目的照片是警察牵着警犬，警犬穿着制服，上书“警犬”两字。下面似乎还有英文（<a href="http://i.imgur.com/0ZOCU.jpg">图像</a>）。
+➜美国学校摄像头监视学生案和解，律师成最大赢家
+https://www.solidot.org/story?sid=20477	37500
+费城Lower Merion学区今年初被发现利用安装在苹果笔记本电脑上的软件，<a href="__SLASHLINK__" sect="internet" sid="10/02/22/0736215" sn="article" tid="133">启动电脑上的摄像头监视学生的举动</a>。学生及其家长提起了一项集体诉讼，法庭的审讯揭示学区拍摄了数千张学生在家中活动照片，甚至还有私人IM聊天截图。现在，学区已经和两位学生<a href="http://arstechnica.com/tech-policy/news/2010/10/school-settles-laptop-spying-case-to-protect-taxpayers.ars">达成和解</a>，向他们支付61万美元赔偿。不过此案的最大赢家并非学生而是律师，主要原告Blake Robbins获得赔偿金17.5万美元，另一位学生1万美元，律师Jalil Hassan获得42.5万美元律师费。
+➜Merge: blackhat (10/13 10:10 GMT)
+https://www.solidot.org/story?sid=20476	37800
+<h3>刚听到消息终于有一个真正的中国人</h3>
+kefengzhang 写道 "刚听到消息终于有一个真正的中国人得了诺贝尔奖了,名字就是XXX<br>请查看这个地址:http://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates"
+<h3>中国刘晓波获得今年的诺贝尔和平奖</h3>
+squarefw 写道 "路透奥斯陆10月8日电---中国作家刘晓波周五获得2010年诺贝尔和平奖。<br>
+颁奖典礼将于12月10日在奥斯陆举行，诺贝尔和平奖奖金金额为1,000万瑞典克朗（约合150万美元）。<br>
+source: <a href="http://cn.reuters.com/article/CNTopGenNews/idCNCHINA-3123320101008">http://cn.reuters.com/article/CNTopGenNews/idCNCHI NA-3123320101008</a>"
+➜耳聋者是如何增强视觉的
+https://www.solidot.org/story?sid=20478	40680
+《国家地理》<a href="http://news.nationalgeographic.com/news/2010/10/101011-deaf-enhanced-vision-brain-health-science/">报道</a>，一项对猫的研究暗示，未来耳聋者可能将受益于空闲的大脑细胞，去增强感知。<i>
+加拿大西安大略大学的<a href="http://www.uwo.ca/physpharm/faculty/lomber_stephen.html">Stephen Lomber</a>和同事在行为测试中发现，天生失聪的家猫比天生听觉正常的猫有更好的余光和运动感知能力。然后，他们利用名叫“可逆失活（reversible deactivation）”的手术暂时让猫脑中的部分区域不工作，以找出大脑中哪一部分是用于增强视力的。研究人员发现，当他们关闭了与判断声音源头相关的区域后，耳聋猫在视觉运动感知的表现就不再超过正常猫。研究人员表示，需要展开更多研究才能知道人类身上是否有相同的效果。</i>
+➜百度贴吧每天删贴100万
+https://www.solidot.org/story?sid=20479	41400
+<a href="http://cnnet.us/taobao/">淘宝网首页</a> 写道 "百度贴吧事业部总经理舒迅10月13日<a href="http://tech.163.com/10/1013/16/6ISUSAOA000915BF.html">透露</a>，贴吧平均每天删除的帖子数量高达100万，他称此举是为了确保真实地体现用户观点。<i>舒迅昨日出席 “2010中国网络营销高峰论坛”演讲时表示，信息的真实是社区发展的前提，也是社区营销的基础。“但目前互联网上水军泛滥，如果用户和企业无法判断网友发布的信息是否出自消费者的真实意愿，那社区营销就不可能产生巨大的市场规模。”舒迅透露，贴吧每天删除的贴子量就高达100万，其中最大一个原因就是一些低劣的社区营销公司采用机器手段自动向贴吧发布信息。"</i>
+➜计算机打败日本象棋人类选手
+https://www.solidot.org/story?sid=20480	54000
+《新科学家》<a href="http://www.newscientist.com/blogs/shortsharpscience/2010/10/computer-makes-the-winning-mov.html">报道</a>，一台计算机首次打败了一位日本象棋人类选手。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E6%97%A5%E6%9C%AC%E5%B0%86%E6%A3%8B">日本象棋</a>，又名将棋，以文字表示棋子，走法和中国象棋及国际象棋有相当大的差别。对日本将棋而言，9*9的棋盘的状态空间复杂度可达10^71；而赛局树复杂度，亦可达10^226 ，整体的复杂度低于围棋但高于中国象棋与国际象棋。之前计算机已经战胜过复杂度略低的国际象棋人类选手。</i>

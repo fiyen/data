@@ -1,0 +1,39 @@
+➜任正非称从未且不会和中国政府共享客户信息
+https://www.solidot.org/story?sid=59618	9145
+华为创始人任正非接受 CBS News <a href="https://www.cbsnews.com/video/huawei-ceo-we-will-never-provide-chinese-government-with-any-information/"><u>采访</u></a>（视频）时声称，不会与中国政府分享任何客户信息，并表示从未这样做过。任正非<a href="https://cn.reuters.com/article/usa-china-huawei-tech-ren-cbs-0220-idCNKCS1Q82V0"><u>表示</u></a>，“过去 30 年，我们从未这样做过。未来的 30 年，我们决不会这样做。”任正非还表示，公司设备没有任何在他不知情的情况下与中国政府方面分享客户数据的后门。“这是不可能的，”他称如果真的存在这样的后门，美国应该早就发现了。
+➜菲律宾以涉嫌网络诽谤为由逮捕知名记者
+https://www.solidot.org/story?sid=59619	10427
+去年刚获选为时代杂志年度风云人物的菲律宾记者瑞萨（Maria Ressa），2 月 13 日在她所创立的新闻机构《拉普勒》（Rappler）办公室，因涉嫌网络诽谤遭国家调查局<a href="https://www.bbc.com/zhongwen/simp/world-47277472" target="_blank"><u>逮捕</u></a>，隔日获准保释。55 岁的玛丽亚 ‧ 瑞萨（Maria Ressa）曾经担任 CNN 记者，2012 年创办了菲律宾新闻网站《拉普勒》，专注于调查报道，揭露政府及官员的贪腐行为著名。该网站曾发表多篇文章，公开批评菲律宾总统杜特尔特，并质疑与 “打击毒品” 有关的相关发言，因此成为杜特尔特的眼中钉。杜特尔特更称，该网站的新闻扭曲事实，并禁止其记者进入总统办公室采访。瑞萨透露，这次支付 10 万菲律宾披索 (大约 1,900 美元) 的保释金，这也是去年 12 月以来，她的第六次交保。
+➜Google 开始开放 .dev 域名注册
+https://www.solidot.org/story?sid=59620	11708
+Google 早就持有多年的<a href="https://domains.google/tld/dev/" target="_blank"><u> .dev 顶级域名</u></a>终于开始向用户开放注册了。互联网域名管理机构 ICANN 几年前启动了 gTLD 计划，允许企业申请各种 gTLD 域名。Google 递交了 101 个 gTLD 顶级域名申请，最终获得了.dev、.app、.blog 等顶级域名的管理权。此前它已经开放了 .app 和 .page 等域名注册申请。.dev 域名主要面向开发人员，和.app 类似，它要求强制性使用 HTTPS，以阻挡广告恶意程序和 ISP 植入的跟踪代码。.dev 域名从 2 月 28 日起对所有公众开放注册，2 月 19 日到 27 日之间为 Early Access Program，允许客户在公众之前获得想要的域名，当然价格不菲，第一天需要 11,500 美元，之后价格越来越低。
+➜隐藏在 USB 线里的 WIFI
+https://www.solidot.org/story?sid=59621	12913
+你可能认为  USB 线没什么可怕的，大多数人都会随身带些   USB 线以方便给便捷式设备充电或访问设备内部资料，但如果看起来一模一样的 USB 线包含了隐藏的后门？你插上之后就容易遭到网络攻击？安全研究员 <a href="https://twitter.com/_MG_"><u>_MG_</u></a>历时一个月制作的<a href="https://mg.lol/blog/omg-cable/"><u> O.MG Cable</u></a>，将 WIFI 微控制器秘密安装在 USB 连接器内，能通过 USB 设备发送载荷，<a href="https://hackaday.com/2019/02/18/wifi-hides-inside-a-usb-cable/" target="_blank"><u>实现远程控制</u></a>。_MG_ 称他在这个项目上投入了 300 小时和 4000 美元。安全隐患无不处在，大部分人不可能会把   USB 线拆开来看看里面有没有后门。
+➜digiKam 6.0.0 发布
+https://www.solidot.org/story?sid=59622	14433
+数字图像管理工具 digiKam 项目<a href="https://www.digikam.org/news/2019-02-10-6.0.0_release_announcement/"><u>发布了</u></a>历时两年开发的大版本 digiKam 6.0.0。主要新特性包括：完整支持视频文件管理，集成所有导入/导出 Web 服务工具，Raw file decoding engine 支持新相机，相似数据存储在不同文件，使用 OAuth 协议简化 Web 服务身份验证，导出到 Pinterest、OneDrive 和 Box 等服务的新工具，手动重组图标视图内容，等等。
+➜Windows 文件资源管理器将能访问 Linux 子系统文件
+https://www.solidot.org/story?sid=59623	16501
+计划在今年 4 月释出的 Windows 10 April 2019 Update，aka Windows 10 19H1，<a href="https://www.zdnet.com/article/next-windows-update-brings-better-linux-integration/" target="_blank"><u>将允许用户直接</u></a>从 Windows 文件资源管理器访问 Linux 子系统的文件。在这之前，从 Windows 访问 Linux 文件可能会导致文件被破坏，微软还建议用户在任何情况下不要使用 Windows 应用、工具、脚本和终端等访问、创建或修改 Linux 系统中的文件。即将推出的新大更新版本解决了这个跨系统文件访问问题。
+➜微软准备淘汰 SHA-1 哈希更新
+https://www.solidot.org/story?sid=59624	27471
+Windows 7 和 Windows Server 2008 用户如果未来还想要继续获得更新，他们<a href="https://arstechnica.com/gadgets/2019/02/mandatory-update-coming-to-windows-7-2008-to-kill-off-weak-update-hashes/#p3" target="_blank"><u>必须安装一个强制性补丁</u></a>。目前微软的 Windows 更新系统使用了两种不同的哈希算法让系统能检测对更新文件的纂改或修改，这两种算法是 SHA-1 和 SHA-2。Windows 7 和 Server 2008 使用 SHA-1 补丁，而 Windows 8 之后的系统使用  SHA-2。微软计划在 3 月的例行更新中向  Windows 7 和 Windows Server 2008 R2 释出一个更新，为这两个系统提供 SHA-2 哈希支持。原因是 SHA-1 已经不再安全。从 2019 年 7 月起，Windows 10 更新将只包含 SHA-2 哈希，而 Windows 7、Server 2008、和 Server 2008 R2 补丁也不再提供 SHA-1 哈希。从 2019 年 9 月起，Windows 更新将只提供 SHA-2 版本，终止 SHA-1/SHA-2 并轨。
+➜全球昆虫数量出现下降
+https://www.solidot.org/story?sid=59625	29892
+发表在《生物保护》期刊上的<a href="https://www.sciencedirect.com/science/article/pii/S0006320718313636"><u>一项研究</u></a>，对全球 73 项有关昆虫减少的历史文献进行综述，分析了潜在的驱动因素。<a href="http://news.sciencenet.cn/htmlnews/2019/2/423076.shtm"><u>报告强调</u></a>，目前，世界上昆虫多样性正处于 “糟糕” 状态，几乎一半的物种正迅速减少，三分之一的物种正濒危灭绝。几十年后，全球 40% 的昆虫物种将灭绝。研究发现，昆虫生境变化是导致其下降的主要原因。迄今为止，昆虫是多样性最丰富、数量最多的动物，在生态系统功能服务中发挥着重要作用。但中国科学家认为我们并没有全面了解昆虫本底资料及其变化趋势，目前还很难估计它们的严重性。
+➜德国倾向于不封杀华为
+https://www.solidot.org/story?sid=59626	34550
+在英国之后，另一个主要欧洲大国德国<a href="https://www.bbc.com/zhongwen/simp/world-47303121"><u>也倾向于不封杀华为</u></a>，允许华为参加建设其当地网络基础建造工程。德国政府正计划修改法例，改善当地的网络安全保障。但这与外界对华为产品的担忧无关。德国官员也认为，相关法例不应针对华为而刻意定得过于严苛。美国官员早前走访多个欧洲国家，警告欧洲各国使用中国科技公司华为装备可能带来风险。但英国和德国都认为，华为带来的风险是可以控制的。德国信息技术安全局（BSI）早前的测试显示，没有证据证明华为产品有后门。华为早前也在德国波恩市的办公室开设网络保安中心，让德国官员检查它旗下产品的构造和源代码，确保它们的安全性。
+➜FDA 警告年轻人的血液并不能让有钱的老人免受衰老和死亡
+https://www.solidot.org/story?sid=59627	35612
+有多项动物研究显示年轻动物的血液有助于缓解衰老，因此输入年轻人的血液变成有钱人中间一种流行的抗衰老疗法。美国食品和药物管理局（FDA）对此现象<a href="https://www.fda.gov/BiologicsBloodVaccines/SafetyAvailability/ucm631374.htm"><u>发出了警告</u></a>。FDA 委员 Scott Gottlieb 和生物制剂评估和研究中心主任 Peter Marks 在声明中称，他们担心部分病人被无耻之徒吹嘘年轻血浆包治百病所骗。血浆是血液的液体部分，包含有助于凝血的蛋白质。美国多个州的企业正在销售年轻人的血浆，声称它可以治疗从正常的衰老和记忆损失到痴呆症、帕金森病、多发性硬化症、阿尔茨海默、心脏病或创伤后应激障碍等疾病。<a href="https://arstechnica.com/science/2019/02/blood-of-the-young-wont-spare-rich-old-people-from-sadness-and-death-fda-says/"><u>FDA 警告</u></a>，没有证据证明年轻人的血浆具有此类临床益处，称使用任何血浆产品都存在风险。除了有严格监管的临床试验，FDA 强烈建议消费者不要使用此类产品。
+➜微信去年最受审查的话题是贸易战
+https://www.solidot.org/story?sid=59628	39434
+香港大学新闻与传媒研究中心的一个研究项目<a href="https://globalvoices.org/2019/02/11/censored-on-wechat-a-year-of-content-removals-on-chinas-most-powerful-social-media-platform/" target="_blank"><u> WeChatscope</u></a> 通过追踪去年全年微信平台上报道每日新闻的 4000 多个公众帐户，调查了这一中国最普遍使用的社交媒体平台上话题受到审查的范围。截至 2018 年底，该团队<a href="https://www.abc.net.au/chinese/2019-02-20/wechat-most-censored-topics-in-2018/10830312"><u>发现</u></a>，该项目检查的 104 万篇微信文章中，约有 1.1 万篇被中国的审查制度删除。中贸易战、华为首席财务官孟晚舟被捕以及基因编辑婴儿，排名 2018 年微信上最受审查话题前十位。
+➜Google 称 Nest 没有披露内置麦克风不是为了保密
+https://www.solidot.org/story?sid=59629	43160
+Google 本月早些时候宣布 Nest Secure 可以用它的语音助手 Google Assistant 激活。但问题是用户此前并不知道 Nest Secure 内置了麦克风，Google 也没有在产品规格里披露。这一消息引发了隐私方面的广泛争议。本周，Google 发言人<a href="https://www.businessinsider.com/nest-microphone-was-never-supposed-to-be-a-secret-2019-2"><u>表示</u></a>他们犯了一个错误，称这从来不是为了保密。Google 称麦克风没有激活，只有用户设定了特定选项之后才会激活。Nest Guard 最初包含麦克风是为了以后加入新的安全特性，比如探测碎玻璃。
+➜DC 取消出版耶稣向超级英雄学习当人类救世主的漫画
+https://www.solidot.org/story?sid=59630	47659
+因为被批评亵渎，DC <a href="https://www.theguardian.com/books/2019/feb/19/dc-cancels-comic-where-jesus-learns-from-superhero-after-outcry" target="_blank"><u>取消了</u></a>耶稣向超级英雄学习如何当人类救世主的漫画。被称为《Second Coming》的系列漫画描述了耶稣第一次离开地球然后再返回的故事，因为上帝对他第一次在地球上的表现十分不满，于是发配耶稣去向名叫 Sun-Man 的超级英雄学习，Sun-Man 当时比耶稣更受人崇拜。但这部漫画遭到了保守派组织的抨击，被谴责是亵渎，反堕胎反同性恋保守派网站 CitizenGo 上发起的请愿获得了超过 <a href="https://www.citizengo.org/en/md/167848-dc-comics-slated-release-blasphemous-series-about-jesus" target="_blank"><u>23 万人</u></a>签名。

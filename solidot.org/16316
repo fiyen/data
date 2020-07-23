@@ -1,0 +1,66 @@
+➜内核开发者因抗议俄罗斯入侵乌克兰被拘留
+https://www.solidot.org/story?sid=40987	9133
+俄罗斯Linux内核开发者<a target="_blank" href="https://github.com/dmonakhov"><u>Dmitry Monakhov</u></a>在抗议俄罗斯入侵乌克兰的行动中因违抗一位警官而<a target="_blank" href="http://linux.slashdot.org/story/14/09/02/1240233/kernel-developer-dmitry-monakhov-arrested-for-protesting-ukraine-invasion"><u>被拘留15天</u></a>。这不是Monakhov第一次与警方发生冲突，早在2013年他就遭到警察的殴打，原因被认为是参与表达对普京人权政策的不满。被捕前他在Twitter上<a target="_blank" href="https://translate.google.com/translate?depth=1&amp;hl=en&amp;rurl=www.google.com&amp;sl=ru&amp;tl=en&amp;u=https://twitter.com/dmtrmon/status/504730358756425729"><u>留言</u></a>（Google翻译），“我是俄罗斯人，不是牲口，不是杀手，也不是占领者，我对总统普京感到羞愧。今天9点我将前往Manezh广场参加反战。”
+➜苹果声称黑客是通过社会工程技术破解名人账号
+https://www.solidot.org/story?sid=40988	11284
+苹果<a target="_blank" href="http://cn.wsj.com/gb/20140903/tec081838.asp"><u>否认</u></a>它的iCloud或Find My iPhone系统存在漏洞，声称黑客是通过<a target="_blank" href="https://www.nikcub.com/posts/notes-on-the-celebrity-data-theft/"><u>社会工程技术</u></a>针对性破解了名人账号，访问其云备份（不限于iCloud，还有Dropbox等），向外泄漏了私密照片和视频。苹果声称在泄密事件发生后立即展开了40多个小时的调查。调查显示，一些明星的账户成为黑客有针对性的攻击目标，黑客通过破解用户名、密码和安全问题登入了他们的账户。苹果表示，将继续配合执法部门的工作，帮助确认黑客身份。
+➜谁写了Windows 3.1 Ctrl+Alt+Del对话框文字？
+https://www.solidot.org/story?sid=40989	14673
+<div align="center"><img src="http://img.solidot.com.cn/0/587/liGMm3bCW7NUE.png" align=""><br>
+<br>
+</div>
+微软资深程序员、《Old New Thing》作者Raymond Chen在其博客上谈论了Windows 3.1中<a target="_blank" href="http://blogs.msdn.com/b/oldnewthing/archive/2014/09/02/10554253.aspx"><u>发生蓝屏错误后屏幕显示的文字</u></a>。Windows 3.1系统中的16位应用程序采用的是<a target="_blank" href="http://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking.2Ftime-sharing"><u>协作式多任务</u></a>方式，容易判断系统是否在响应，如果无法响应它也很容易识别是哪个应用程序导致的。系统向用户提供了选择关闭失去响应的应用程序，或重启电脑或取消。当时斯蒂夫鲍尔默是微软系统部门的主管，Windows团队向他展示了Ctrl+Alt+Del功能。他若有所思的点点头，但表示不喜欢屏幕展示的文字信息。Windows团队开发者就挑逗他去重写这段文字，“你行你来做”。鲍尔默接受了挑战。几天后他发回了邮件，他写的文字说明（如图所示）最后包含在最终产品中。
+➜Firefox 32发布
+https://www.solidot.org/story?sid=40990	15843
+Mozilla<a target="_blank" href="https://www.mozilla.org/en-US/firefox/32.0/releasenotes/"><u>发布了</u></a>桌面版和Android版的Firefox 32。主要新变化包括：<a target="_blank" href="http://www.solidot.org/story?sid=39611"><u>新的HTTP缓存后端</u></a>，改进了性能和崩溃后恢复，加快网页载入和减少内存消耗，不会在缓存时产生UI挂起或无响应；整合分代垃圾回收机制；启用Public key pinning支持；改进密码管理器和扩展管理器；开发者工具包括支持HiDPI，新的Web音频编辑器，等等。<a target="_blank" href="https://www.mozilla.org/en-US/mobile/32.0/releasenotes/"><u>移动版本</u></a>的一大变化是更容易的在不同语言之间切换，历史面板加入清空历史，支持Gamepad API，停止支持Android 2.2和 ARMv6处理器。
+➜美国太阳能企业建议提高关税打击中国黑客
+https://www.solidot.org/story?sid=40991	17303
+在抗击全球商业网络间谍活动的斗争中，美国最大的太阳能组件生产企业SolarWorld希望能动用一件强大的新武器：<a target="_blank" href="http://cn.nytimes.com/business/20140902/c02solar/"><u>高进口关税</u></a>。SolarWorld已指控中国军方人员攻入了它的计算机系统，盗取了与公司业务及其同中国之间的长期贸易纠纷有关的关键资料，它表示新的诉讼突显了中国企业报复贸易屏障时手法之老道。为了加以震慑，公司提请奥巴马政府动用关税手段来打压这种报复行径。但从中国进口廉价设备的公司担心价格上涨会影响太阳能普及，而对中国出口多晶硅的美国公司也担心，加征关税会让它们在中国的生意更难做。安全公司CrowdStrike的总裁Shawn Henry称，“中国政府和企业从这些知识产权盗窃活动中赚取的钱财数以亿计，而受到的惩罚和其中的风险几乎为零，目前完全不存在能将任何人绳之以法的机制。”
+➜毒品市场Agora取代丝绸之路成为暗网之王
+https://www.solidot.org/story?sid=40992	22513
+<span itemprop="articleBody">Dread Pirate Roberts和他的丝绸之路在</span>两年半的时间里一直统治着暗网，在FBI关闭丝绸之路逮捕DPR之后，暗网出现了许多小型替代。现在，<a target="_blank" href="http://www.wired.com/2014/09/agora-bigger-than-silk-road/"><u>Agora成为其中的佼佼者</u></a>，它甚至超过了昔日的丝绸之路。Agora这一名字原指古希腊的集会之地或市场。网站列出的销售商品超过1.6万件，它禁止销售盗窃的物品、暗杀服务、大规模杀伤性武器、毒药、儿童色情和真人暴力视频/音频/图像。除此之外，Agora的管理员也不像DPR那样喜欢宣传自由意志派的政治意识形态，如“自由的理念是不朽的”。<br>
+<br>
+➜移动操作系统LuneOS发布第一个版本
+https://www.solidot.org/story?sid=40993	26422
+<div align="center"><img src="http://img.solidot.com.cn/0/588/liIPHIZWjaWdc.png" align="" height="600" width="360"><br>
+<br>
+</div>
+Open webOS操作系统的fork LuneOS<a target="_blank" href="http://pivotce.com/2014/09/01/official-release-of-luneos-and-project-updates/"><u>发布了第一个版本</u></a>，主要面向测试者，最佳硬件测试平台是 Nexus 4手机和HP TouchPad平板。webOS及Open webOS项目现在由韩国LG公司接管。LuneOS是基于开源代码的社区版本。开发者表示，他们并不想在功能上与 Android或 iOS竞争，而只是想构建一个系统能满足移动环境的基本需求。
+➜美国军事基地发现未加密的手机塔
+https://www.solidot.org/story?sid=40994	28607
+<div align="center">
+<div align="center"><img src="http://img.solidot.com.cn/0/590/liPbUSRD5MazM.jpg" align="" height="314" width="560"><br>
+</div>
+<br>
+</div>
+在美国市场销售加密手机CryptoPhone 500 的ESD America公司称，CryptoPhone 500在美国各地检测到了<a target="_blank" href="http://www.popsci.com/article/technology/mysterious-phony-cell-towers-could-be-intercepting-your-calls"><u>17个未加密的手机塔</u></a>，这些手机塔多位于军事基地，该公司怀疑这些手机塔是移动通讯拦截设施。公司CEO  Les Goldsmith说：它们是美国政府建立的拦截设施，或者部分是外国政府如中国设立的？其他人则<a target="_blank" href="http://mobile.slashdot.org/comments.pl?sid=5620965&amp;cid=47813557"><u>怀疑</u></a>这些手机塔是军方的安全防御设施，主要是监听基地周围的通讯，预防意外袭击。<br>
+➜俄罗斯太空蜥蜴全部死亡，但苍蝇还活着
+https://www.solidot.org/story?sid=40995	30651
+俄罗斯宇航局今年7月19日发射的科学实验卫星Foton-M4一度<a target="_blank" href="http://www.solidot.org/story?sid=40480"><u>失去联系</u></a>，但俄宇航局最终恢复了控制，卫星于9月1日返回地面。卫星上进行了多项零重力动物繁殖实验，其中包括一只雄性和四只雌性五只蜥蜴，以及苍蝇、植物种子和微生物，850公斤重的科学仪器。俄宇航局证实，<a target="_blank" href="http://www.wired.co.uk/news/archive/2014-09/01/rip-space-sex-geckos"><u>所有五只蜥蜴全部死亡</u></a>。目前不清楚其死因是否与卫星失控有关。对了，苍蝇还活着，它们成功完成了零重力繁殖。
+➜科学家使用脑电波在相距8千公里的两个人之间传递信息
+https://www.solidot.org/story?sid=40996	32900
+科学家<a target="_blank" href="http://www.dailymail.co.uk/sciencetech/article-2737532/Could-soon-send-emails-telepathically-Scientist-transmits-message-mind-colleague-5-000-miles-away-using-brain-waves.html"><u>利用EEG成功将两个单词</u></a>从一位印度志愿者的脑中传送到8000公里外的法国实验人员的脑中。<a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0105225#s3"><u>论文</u></a>发表在Plos One上。在最初的测试中，一位位于印度特里凡德琅的志愿者借助脑电图记录设备将“你好（hola）”和“再见（ciao）”两个单词，发给远在法国斯特拉斯堡的实验人员。两句问候语首先被转换成为二进制进行发送，法国方面的计算机在收到这些信号后，先对其进行解码，然后再用电刺激将其输入到接收者的意识当中。在第一次实验获得成功以后，研究人员紧接着又在一个位于西班牙和一个位于法国的志愿者身上进行了类似的实验。第二次实验的总错误率为15%，其中5%来自编码端，10%来自解码端。研究人员称这是<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201409/t20140903_4196741.shtml"><u>人类首次“几乎直接”地</u></a>通过大脑收发信息，并预计在不远的将来，借助计算机人脑之间这种“直接的”交流将成为常态，人脑与计算机之间的交流也将成为现实。
+➜OneDrive支持同步大于2GB的文件
+https://www.solidot.org/story?sid=40997	34068
+微软的云储存服务OneDrive对同步的文件大小曾有限制，超过2GB的文件不会被同步。现在用户发现，微软<a target="_blank" href="http://arstechnica.com/information-technology/2014/09/onedrive-starting-to-sync-files-bigger-than-2gb/"><u>解除了这一限制</u></a>。微软发言人证实，该公司开始逐步推送大文件同步支持，将在不久后正式宣布。一些用户已经Twitter上报告，他们成功上传了4.7GB和5GB大小的文件。OneDrive的免费储存空间和 Google Drive一样，都是15GB。
+➜《无主之地2》将支持Linux
+https://www.solidot.org/story?sid=40998	35775
+<div align="center"><img src="http://img.solidot.com.cn/0/592/lihvLQCBNoCRw.jpg" align=""><br>
+<br>
+</div>
+带有RPG元素的FPS游戏《无主之地2》<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTc3OTA"><u>将支持Linux</u></a>，但目前移植工作尚未完成，SteamDB上有相关<a target="_blank" href="http://steamdb.info/app/49520/history/"><u>更新信息</u></a>。移植工作由专注于游戏移植的工作室<a target="_blank" href="http://en.wikipedia.org/wiki/Aspyr"><u>Aspyr Media</u></a>负责，《文明V》的Linux移植就是该公司负责的，该公司已证实它正在将《无主之地2》移植到Linux。《无主之地2》由Gearbox Software开发，由2K Games发行，于2012年上市，但不对中国区开放销售，它是2012年最畅销的游戏之一，销售拷贝数超过了800万份。《无主之地2》预计将是支持SteamOS平台的大作之一。
+➜社会地位不同的猴子有着不同的大脑
+https://www.solidot.org/story?sid=40999	39396
+<div align="center"><img src="http://img.solidot.com.cn/0/593/liJuYS1pNBkTY.jpg" align="" height="270" width="480"><br>
+<br>
+</div>
+英国科学家发现，社会等级不同的猴子<a target="_blank" href="http://www.bbc.com/news/science-environment-29013592"><u>有着不同的大脑</u></a>。<a target="_blank" href="http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001940"><u>报告</u></a>发表在《Plos Biology》上。占主导地位的猴子特定大脑区域的网络更大，而地位较低的猴子则是其余部分区域更大。牛津大学的神经学家用功能性核磁共振成像扫描了25只猕猴的大脑，进行对比后得到了这一出人意料的发现。这些猴子最大的不超过5岁，研究人员通过观察它们的行为判断其地位。社会地位高的猴子的杏仁核、下丘脑和中缝核趋向于更大；而社会地位低的猴子的纹状体不同核团趋向于更大；中间地位的猴子的这些大脑区域则没有上述差异。研究人员认为，要获得更高的社会地位，身体条件并不是唯一的，你还需要特定的技能，这些技能对大脑神经的这些区域有更高的要求。
+➜经济成功导致语言消失
+https://www.solidot.org/story?sid=41000	40512
+全世界大约有7000种语言正在消失，每两周就有一种语言死亡。研究人员借鉴跟踪濒危物种的技术<a target="_blank" href="http://news.sciencemag.org/brain-behavior/2014/09/languages-are-being-wiped-out-economic-growth"><u>识别出了语言多元性的一个主要威胁</u></a>：经济发展。<a target="_blank" href="http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2014.1574"><u>论文</u></a>发表在《皇家学会生物学分会学报》上。在世界上最发达的地区，<a target="_blank" href="http://www.bbc.co.uk/ukchina/simp/uk_life/2014/09/140903_life_economics_language_extinction.shtml"><u>语言消失的情况最为严重</u></a>。其中包括北美洲、欧洲和澳大利亚。研究人员发现，一个国家在经济上越成功，它的语言消失得越快。在北美洲像Upper Tanana这样的语言，目前在美国阿拉斯加州只有不到25人使用，已经面临永久灭绝的危险。在欧洲，一些语言，如斯堪的纳维亚的Ume Sami和法国的Auvergnat正迅速消失。论文主要作者、剑桥的龙谷天野博士说：“当经济发展，一种语言通常会主宰一个国家的政治和教育领域...人们被迫接受主导语言或者冒着在经济和政治方面被忽视的风险使用冷门语言。”他们发现喜马拉雅地区的语言也面临危险，如尼泊尔的Bahing，据估计这种语言只有8人使用。
+➜互联网电视内容APP全面下架
+https://www.solidot.org/story?sid=41001	42173
+在新闻出版广电总局<a target="_blank" href="http://www.solidot.org/story?sid=40056"><u>下令</u></a>互联网电视内容客户端整改后，内容供应商已按要求全部<a target="_blank" href="http://companies.caixin.com/2014-09-03/100724559.html"><u>下架了互联网电视内容APP</u></a>。乐视9月1日向第三方应用商城发出通知，要求在当天12点之前正式下架其TV版APP；爱奇艺当天宣布从第三方应用商城下架其APP产品；天猫魔盒此前强制升级，删除了迅雷看看、百度电视云、PPS爱奇艺、搜狐视频TV、泰捷视频、优酷、兔子视频、UC浏览器、当贝市场等软件。至此，包括优酷土豆、天猫、小米、腾讯、爱奇艺、PPTV以及百视通、CNTV等在内的网站和牌照商均已下架了旗下全部与互联网电视内容相关的软硬件产品。
+➜戴面具的复仇者
+https://www.solidot.org/story?sid=41002	45720
+MIT的<a target="_blank" href="http://en.wikipedia.org/wiki/Tech_Model_Railroad_Club"><u>铁路模型技术俱乐部</u></a>是黑客文化的发源地，在他们的推动之下黑客这一名称开始流行起来。当时在MIT人工智能实验室工作的计算机科学家Richard Stallman说，早期的黑客更喜欢传递《集异壁之大全》的拷贝而不是鼓动技术战争，“我们没有信条，这不是一场运动。它只是人们做一些让其他人留下印象的事情。”一些黑客的行为是出于好玩，一些则是功能性的，还有一些则是恶作剧。在1970年代帮助管理过俱乐部的Michael Patton说，早期的黑客有一个不成文的规则是“不搞破坏”。2003年，15岁的 Christopher Poole创建了讨论版网站4chan。4chan的用户推广了互联网最早的meme：LOLcats，RickRolls和巧克力雨。在4chan上发帖的用户如果没有输入网名，他们的默认名字叫“匿名（Anonymous）”。2004年，/b/图像版上的一些用户开始将匿名当作一个独立实体，某种黑客的集体。它不是一个组织，任何人都可以成为Anonymous或简称Anon的一部分。Anon的许多人认为自己是“正义的十字军”，发动了有目的的“维持治安运动”。Anon走出了4chan，他们使用IRC进行协调，向选定的目标发动DDoS攻击。抗议不仅仅发生在线上，戴着面具的匿名者还会在线下举行抗议。《纽约客》发表了一篇长文介绍<a target="_blank" href="http://www.newyorker.com/magazine/2014/09/08/masked-avengers"><u>这些戴面具的复仇者</u></a>。

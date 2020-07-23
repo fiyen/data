@@ -1,0 +1,15 @@
+➜Objective-C正在死亡？
+https://www.solidot.org/story?sid=45064	24036
+匿名读者 写道 <i>"自苹果swift语言推出以来，Objective-C在编程语言排名中就直线下降。虽然2010年到2014年间Objective-C曾以惊人的速度上升，热度从0直线上升到12.8%，成为排名第三的编程语言。但最近一年Objective-C下降的甚至比当初上升速度还快，<a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/Objective_C.html" target="_blank">短短1年时间就从12.8%下降到3%</a>。丢失的份额几乎全被java C++ C#等竞争对手夺走，而<a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/Swift.html" target="_blank">自家兄弟swift语言并未掀起太大的波澜</a>，至今只有1.18%的份额。"</i>
+➜Rust 1.2发布
+https://www.solidot.org/story?sid=45065	29675
+&nbsp;Rust编程语言<a target="_blank" href="http://blog.rust-lang.org/2015/08/06/Rust-1.2.html"><u>发布了</u></a>Rust 1.2 稳定版和1.3 beta版。Rust 1.2改进了编译性能，引入<a target="_blank" href="https://github.com/rust-lang/rust/pull/26018"><u>Parallel codege</u></a>n，显著改进Cargo性能，支持MSVC (Microsoft Visual C)工具链，动态大小类型（dynamically-sized type）等等。Rust 1.3 beta加入了一本电子书《<a target="_blank" href="https://doc.rust-lang.org/nightly/nomicon/README.html"><u>Rustonomicon</u></a>》，介绍如何正确写 Unsafe Rust程序；初步支持为Windows XP构建程序，等等。
+➜法国杀手受绝命毒师启发用酸溶解尸体
+https://www.solidot.org/story?sid=45066	39369
+法国媒体<a target="_blank" href="http://www.thelocal.fr/20150807/killers-of-french-student-inspired-by-breaking-bad"><u>报道</u></a>，四名谋杀犯受美剧《绝命毒师》的启发用酸溶解受害者尸体。23岁Eva Bourseau的残肢周一在一个塑料容器内被发现，尸体可能已被放了10天。受害者是因为欠下毒资而遭到殴打，被击中头部死亡。警方已经逮捕了四名行凶者，他们在杀人之后将残肢浸在酸溶液内。法国检方称，他们是受到了《绝命毒师》的启发，他们还使用空气清新剂去消除味道。在《绝命毒师》第一季中，高中化学教师 Walter White使用了氢氟酸溶解了受害者尸体。但《流言终结者》用试验<a target="_blank" href="http://www.thelocal.fr/20150807/killers-of-french-student-inspired-by-breaking-bad"><u>证明</u></a>，氢氟酸并不能溶解尸体，Walter White应该重返学校重新学习化学。溶解尸体也并非是这名化学教师的发明，黑手党早就干了几十年，受《绝命毒师》的启发可能只是检察官或媒体的想象。
+➜黑客积极的攻击加油站
+https://www.solidot.org/story?sid=45067	51689
+趋势科技的研究人员设立了一个模拟加油站监测系统的蜜罐——<a target="_blank" href="http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the_gaspot_experiment.pdf"><u>取名为GasPot（PDF）</u></a>，记录连接和入侵尝试。GasPott支持6个不同的指令，其中一个允许用户改变多个值，如温度、油箱名字和容量。研究人员将GasPot实例部署在美国、巴西、英国、约旦、德国、阿联酋和俄罗斯7个国家。研究人员发现，这些蜜罐在5个月内遭到了至少23次攻击，部署在美国的GasPot遭到的攻击次数最多，其次是约旦，德国的蜜罐没人攻击。攻击者尝试修改了油箱名字，比如一个攻击者将名字改为“H4CK3D by IDC-TEAM”。其它攻击方法包括了拒绝服务攻击和分布式拒绝服务攻击。研究人员认为，改变名字可能会导致输油管将错误的汽油输送到错误的加油箱内，拒绝服务攻击可能会干扰库存管理和分配。
+➜Privacy Badger 1.0发布
+https://www.solidot.org/story?sid=45068	52604
+电子前哨基金会（EFF）<a target="_blank" href="https://www.eff.org/deeplinks/2015/08/privacy-badger-10-here-stop-online-tracking"><u>宣布</u></a>发布隐私保护扩展Privacy Badger的1.0版。Privacy Badger<a target="_blank" href="https://www.eff.org/privacybadger"><u>源代码</u></a>在GPLv3许可证下发布，支持Firefox和Chrome，其中Chrome版本使用了 AdBlock Plus去管理黑名单，开发者表示下一个版本将移除ABP。Privacy Badger将会自动屏蔽跟踪用户的第三方跟踪器，如果它在3到4个网站发现有同一个第三方域名记录浏览器指纹或设置cookies，那么它将会认为该域名是跟踪程序，随后会将其连接屏蔽。

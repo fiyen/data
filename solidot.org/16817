@@ -1,0 +1,19 @@
+➜微软称只有Windows 10支持最新一代的CPU
+https://www.solidot.org/story?sid=46907	39658
+微软继续FUD Windows 7及其它旧版本桌面操作系统的用户，它正在想方设法说服用户升级。微软<a target="_blank" href="https://blogs.windows.com/windowsexperience/2016/01/15/windows-10-embracing-silicon-innovation/"><u>官方博客称</u></a>，只有Windows 10平台支持最新一代的CPU处理器。微软称，随着Windows 7进入了扩展支持期，它的重心将集中在安全性、可靠性和兼容性上，为避免引入兼容性问题微软不会在旧代码中加入新一代处理器的支持，也就是说对于英特尔即将发布的Kaby Lake架构处理器、高通的8996，AMD的Bristol Ridge，Windows 10是唯一支持的Windows平台。微软没有澄清，如果用户在这些新的CPU架构上运行Windows 7或8.1，是否将会无法运行或是其它问题。Windows 7和8.1的终止支持时间分别是在2020年和2023年。微软称，Windows的自动更新将包含强制性的 BIOS/UEFI升级。这可能<a target="_blank" href="http://tech.slashdot.org/story/16/01/16/1245231/microsoft-only-the-latest-version-of-windows-will-support-new-cpu-generations"><u>会导致问题发生</u></a>，严重的话会损坏设备。
+➜如果哈佛大学免除学生学费
+https://www.solidot.org/story?sid=46908	42661
+哈佛大学拥有庞大的捐款，它是否应该利用这笔总额高达376亿美元的捐款免除本科生的学费？如果学费免费，哈佛<a target="_blank" href="http://cn.nytimes.com/education/20160117/c17harvard/"><u>是否可以放弃备受争议的基于族裔的录取制度</u></a>？哈佛大学在录取中被指歧视亚裔，青睐白人、黑人、拉丁裔以及权贵阶层的子女。美国最高法院正在考虑族裔是否应当作为大学录取的一个要素。因为所谓的弱势少数群体——黑人、拉丁裔和美洲土著——在哈佛和其他很多大学受到了优待，而亚裔则处于声称自身的机会受到剥夺的群体之列。哈佛的管理层表示，哈佛的捐款分为数千个基金，它们各有具体用途，与本科生没有关系。“有一个普遍的误解，就是包括哈佛在内的大学收到的捐款可以像有了一个银行账户一样随取随用，只要钱没有用完就行。”哈佛的一位发言人Jeff Neal说，“事实上，哈佛在使用捐款时的灵活度受到很多限制，第一是必须是永续管理，第二是捐赠者的意愿。”
+➜LostPass：针对LastPass的钓鱼攻击
+https://www.solidot.org/story?sid=46909	46794
+<div align="center"><img src="http://img.solidot.org/0/348/liUeQAQinktWU.png" align="" height="167" width="540"><br>
+</div>
+<br>
+随着密码管理器的流行，密码管理器本身也日益成为攻击目标。安全研究人员<a target="_blank" href="https://github.com/cxxr/lostpass"><u>发现了</u></a>针对流行密码管理器LastPass的钓鱼攻击。这一攻击被命名为<a target="_blank" href="https://github.com/cxxr/lostpass"><u>LostPass</u></a>，攻击者通过伪造LastPass登录界面，试图窃取用户的电子邮件、密码、甚至二步认证码，完整访问用户储存在LastPass中的所有密码和文档。当用户浏览一个恶意网站，攻击者会在浏览器上展示一个逼真的LastPass过期通知，诱惑用户点击登录。当受害者点击通知，用户会被定向到攻击者控制的登录页面，登录页面模仿了LastPass；当受害者输入了帐号密码，递交到攻击者的服务器，攻击者的服务器通过调用LastPass的API检查凭证是否正确，如果需要二步认证，API将会通知用户。一旦获得了正确的用户名、密码以及二步认证令牌，攻击者会通过API下载所有的受害者信息。
+➜WHO称城市空气污染威胁公众健康
+https://www.solidot.org/story?sid=46910	47613
+世界卫生组织（WHO）即将发表一份有关空气污染危害的报告，该组织公共卫生负责人Maria Neira说<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/01/160117_who_air_pollution"><u>城市空气污染是“最严重的公共卫生”问题之一</u></a>。Neira说，城市空气污染目前已经达到了有毒的水平，全世界正在面临这个严重的公共卫生问题。
+她说，城市空气污染同心血管疾病和其他多种疾病的发生有关，世界各国政府有责任采取措施，对付这一致命的威胁。世界卫生组织曾在去年发布报告说，同空气污染相关的早死数字高达700万人，占整个早死人数的八分之一。根据世界卫生组织从全世界2000个城市收集到的数据，许多民众生活在低于世界卫生组织空气污染标准的环境之中。Neira说，解决这个问题需要社会决定，但是也需要个人的行动，例如不要开车。
+➜官媒称香港书店老板主动投案
+https://www.solidot.org/story?sid=46911	49213
+专卖政治禁书的香港铜锣湾书店五名股东和员工集体失踪，引发了国际社会的广泛关注。官方媒体在今晚公开了其中一名股东桂民海的认罪声明。<a target="_blank" href="https://zh.wikipedia.org/wiki/%E6%A1%82%E6%B0%91%E6%B5%B7"><u>桂民海</u></a>为瑞典籍公民，2015年10月17日于泰国芭提雅公寓被一名男子带走失踪。其后有四名男子搜索其公寓，企图带走桂的电脑，但被管理人员阻止。新华社发表文章，表示桂民海涉及2003年12月一宗发生在宁波市的车祸，并在事后潜逃。文章指桂在2015年10月<a target="_blank" href="http://news.xinhuanet.com/legal/2016-01/17/c_1117800737.htm"><u>回国自首</u></a>，同时引述桂的声明：“回国投案自首是我个人自愿的选择，和任何人无关。这是我自己应该承担的责任，我不希望任何个人和机构介入或者干预我回国的事情，甚至进行恶意炒作。”文章结尾指出，公安机关在调查中发现桂亦涉嫌其他犯罪，正在进一步调查中。

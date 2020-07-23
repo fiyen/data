@@ -1,0 +1,12 @@
+➜Metasploit 5.0 发布
+https://www.solidot.org/story?sid=59290	19314
+开源渗透测试框架 Metasploit <a href="https://blog.rapid7.com/2019/01/10/metasploit-framework-5-0-released/"><u>释出了</u></a> 5.0 版本。这是 2011 年以来释出的首个大更新版本。Metasploit 5.0 的<a href="https://github.com/rapid7/metasploit-framework/wiki/Metasploit-5.0-Release-Notes"><u>新特性</u></a>包括：使用 PostgreSQL 数据库作为 RESTful 服务，改进数据库并行处理和 msfconsole 终端操作，用户可通过  JSON-RPC API 整合其它工具和语言，加入了一个通用的 Web 服务框架，新的 Evasion 模块和库，等等。
+➜Michael Atiyah 爵士去世，享年 89 岁
+https://www.solidot.org/story?sid=59291	46206
+当代著名数学家 Michael Atiyah 爵士<a href="https://www.bbc.com/news/science-environment-46850763"><u>去世</u></a>，享年 89 岁。<a href="https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E9%98%BF%E8%92%82%E4%BA%9A"><u>Atiyah 爵士</u></a>被誉为牛顿以来英国最杰出的数学家。他的主要贡献是与弗里德里希·希策布鲁赫一起创立了拓扑K-理论。他最为著名的成果是在 1963 年与艾沙道尔·辛格合作，对椭圆算子证明了著名的阿蒂亚-辛格指标定理。此定理在微分方程、复几何、泛函分析以及理论物理学中均有深远的应用，公认为 20 世纪最重要的数学成果之一。他在 1966 年获菲尔兹奖，2004 年与辛格共同获得阿贝尔奖。去年 9 月他声称证明了黎曼猜想，但没有让其他数学家信服。
+➜个人捐赠者去年向 Tor 项目捐赠了 46 万美元
+https://www.solidot.org/story?sid=59292	52069
+Tor 项目官方博客称，2018 年个人捐赠者<a href="https://blog.torproject.org/strength-numbers-final-count" target="_blank"><u>捐赠了</u></a>超过 46 万美元，创下了新纪录。其中大约一半的个人捐赠来自于年底发起的宣传活动，而 Mozilla 慷慨的匹配了这部分捐赠，还有一位匿名人士匹配了新捐赠者的捐款。Tor 项目正致力于减少对美国政府资助的依赖。2015 年来自美国政府的资助占了&nbsp; 80-90%，但到了 2017 年这一比例<a href="https://techcrunch.com/2019/01/11/tor-lessens-reliance-us-grants/" target="_blank"><u>降至了 51.5%</u></a>，Mozilla 捐赠了 52 万美元 占12.64%，瑞典政府捐赠了 60 万美元，DuckDuckGo 捐赠了 2.5 万美元。
+➜GoDaddy 在其托管的网站植入脚本
+https://www.solidot.org/story?sid=59293	53581
+GoDaddy 被发现其在托管的网站的所有网页<a href="https://www.igorkromin.net/index.php/2019/01/13/godaddy-is-sneakily-injecting-javascript-into-your-website-and-how-to-stop-it/" target="_blank">嵌入了一个脚本</a>，而这一注入并没有经过网站管理员的同意。GoDaddy 是在改善性能的理由下植入名为 Real User Metrics 的脚本去收集用户数据，它声称绝大部分用户不会感觉到问题，但脚本本身可能会导致网站加载缓慢或破坏网页。脚本是自动加入的，网站管理员需要在托管终端找到选项退出脚本的自动加入。

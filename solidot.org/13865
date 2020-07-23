@@ -1,0 +1,49 @@
+➜Google与微软为未来而战
+https://www.solidot.org/story?sid=4702	600
+《纽约时报》的一篇报道分析了<a href="http://www.nytimes.com/2007/12/16/technology/16goog.html?ei=5088&amp;en=51443a66d6584dc2&amp;ex=1355461200&amp;partner=rssnyt&amp;emc=rss&amp;pagewanted=print">软件的未来和它们的归属</a>——web还是桌面？Google总裁Eric Schmidt认为90%的计算最终将必定是以web为基础的”云计算“。微软面临一个商业困境，它设法让Web和它现有的桌面产业链接起来——用它的公式就是”软件与互联网服务相结合“。微软将拥抱web，努力维持收入和利用桌面软件行业的优势，公司的金矿，一个剧痛般的战略或许是它难以忍受的。Google则面临与微软的竞争和其它提供Web软件产品的新生代企业，但它是否能够利用正在加速的网络化趋势这一点还是未知数。哈佛商学院教授David B. Yoffie认为Google模式正在改变所有的规则。如果Google成功了，Microsoft在今日提供的一系列价值可能会被完全抛弃，<a href="http://slashdot.org/article.pl?sid=07/12/16/2127244">微软习惯上称呼其为“切断空气供应”</a>。
+➜从Vista升级到Windows XP的诸多好处
+https://www.solidot.org/story?sid=4703	1800
+许多人希望从XP升级到Vista，但有人却体会到<a href="http://dotnet.org.za/codingsanity/archive/2007/12/14/review-windows-xp.aspx">Windows XP其实是Vista升级版</a>，<a>XP在很多方面都胜过Vista</a>。作者表示，“我最终决定冒一下险。昨晚我把Vista台式机升级到Windows XP，今天下午我打算对笔记本也这么干。”<i>
+外观：相比Vista华而不实，经常出毛病的Aero Glass界面，XP的静态界面就是卡通。<br>
+性能：XP比Vista启动更快，响应更迅速。众多任务也更方便了，如文件拷贝，没有对话框，中途取消也会立即执行。<br>
+设备支持：毫无疑问XP的设备支持非常完善。<br>
+可靠性：两者相差不大，Vista有一些优势但存在许多bug。<br>
+游戏：更多游戏。<br>
+多媒体：更好的多媒体支持。</i>
+Windows Vista刚被pcworld评为<a href="http://www.pcworld.com/article/id,140583-page,5-c,techindustrytrends/article.html">2007年最令人失望的技术产品</a>。
+➜Vista SP1新加入的随机数字生成器可能含有NSA的秘密后门
+https://www.solidot.org/story?sid=4704	6600
+微软在最新的<a href="http://technet2.microsoft.com/WindowsVista/en/library/417467e7-7845-46d4-85f1-dd471fbc0de91033.mspx?mfr=true">Vista SP1</a>中新加入了基于椭圆曲线加密技术的随机数字生成器<a href="http://msdn2.microsoft.com/en-us/library/aa375534.aspx">Dual_EC_DRBG</a>，而安全专家早就指出Dual_EC_DRBG可能存在<a href="__SLASHLINK__" sect="it" sid="07/11/16/084225" sn="article" tid="70">秘密后门</a>，这一加密技术被美国国家安全局（NSA）大力推荐，因此怀疑<a href="http://it.slashdot.org/article.pl?sid=07/12/17/1754257">NSA知道如何利用后门</a>。
+➜黑洞用巨大的冲击波毁灭了邻居星系
+https://www.solidot.org/story?sid=4705	18000
+天文学家首次目击了超大质量黑洞用致命的能量冲击波<a href="http://www.space.com/scienceastronomy/071217-death-star-galaxy.html">毁灭了它的星系邻居</a>。<i>
+被NASA天文学家称为“death star galaxy”的倒霉邻居湮没在一片星际尘埃中，但就像凤凰涅磐，在破坏性的能量束之后，新的恒星随之而诞生。很幸运，我们的银河系离“宇宙暴风”很远。
+Harvard-Smithsonian中心的天文学家Dan Evans称，“我们见到很多次黑洞能量喷射，但这是第一次目睹能量波冲入进另一个星系。”
+</i>
+<a href="http://www.space.com/php/video/player.php?video_id=071214Death-Star-Galaxy">模拟整个过程的视频</a>，<a href="http://chandra.harvard.edu/photo/2007/3c321/">太空望远镜合成图片</a>：<a href="http://chandra.harvard.edu/photo/2007/3c321/3c321.tif">Tiff</a>格式(43.4 MB)。
+➜OpenOffice Online展开beta测试
+https://www.solidot.org/story?sid=4706	19800
+<a href="http://arstechnica.com/news.ars/post/20071216-hands-on-with-the-new-online-version-of-openoffice-org.html">OpenOffice 2.3的在线版正进行beta测试</a>。Online OpenOffice.org由Mandriva Linux创始人Gael Duval创立，将“提供功能最丰富的在线办公组件”，但缺乏其它竞争对手如Google Docs或微软Office Live Workspace都具有的协同合作和文件共享功能。<i>
+为了创造出这种功能丰富的环境，Online OpenOffice.org需要用户使用新一代的浏览器，能运行JavaScript和Sun Java Runtime Environment version 1.4+插件。在线版已经在 Firefox 1.5以上版本，IE6和7，甚至Safari上进行过测试。开发者特别对Ubuntu用户提出警告，他们必须要安装Sun Java (Sun JRE)插件，否则Online OpenOffice.org将无法正常工作。</i>
+<a href="http://www.ulteo.com/home/en/ooo?autolang=en">Online OpenOffice.org</a>网址（需要注册，每个账户拥有1G储存空间）。
+➜维基媒体基金会前COO是重罪犯
+https://www.solidot.org/story?sid=4707	23700
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "Register 报导说，<a href="http://www.theregister.co.uk/2007/12/13/wikimedia_coo_convicted_felon/page2.html">维基媒体基金会 (WMF) 前 COO 至少在美国四个州是重罪犯</a>。
+<i>
+Carolyn Doran，于 2007 年1月至7月期间在 WMF 担任 COO 职务。Doran 的犯罪记录包括吸毒，两项支票诈骗和盗窃，一项肇事逃跑致人死亡，以及 1990 年被指控非法枪击前男友 Philip L. Brown 的胸部(虽然 Brown没有对她提出指控并且两人仍然继续约会)。两项吸毒罪于今年发生，其中五月份的一次，她正在为基金会工作，之后的一次则是在她离职后发生。
+</i>
+<a href="http://en.wikinews.org/wiki/Former_Chief_Operating_Officer_of_Wikimedia_Foundation_is_convicted_felon">维基新闻也报导了这一丑闻</a>。"
+➜程序员无法跟上芯片发展步伐
+https://www.solidot.org/story?sid=4708	25200
+《纽约时报》讨论了多核计算及微软等公司正试图切换到<a href="http://www.nytimes.com/2007/12/17/technology/17chip.html?_r=1&amp;oref=slogin">新的平行编程</a>方向的努力。<a href="http://developers.slashdot.org/article.pl?sid=07/12/17/1635200">多核芯片催生了平行编程</a>，但就连微软这样的巨头都承认短时间内<a href="http://www.cnetnews.com.cn/2007/1218/685379.shtml">无法发挥</a>并行处理芯片的能力。据估计到2010年将会出现有8个核心的处理器，这可能改变个人计算世界......工程师和计算机科学家承认虽然最近10年一直在前进，但计算机产业正被平行编程能力的缺乏而拖累。著名C++大师现在的微软架构师Herb Sutter 就曾经在一篇文章上写道“<a href="http://gotw.ca/publications/concurrency-ddj.htm">免费午餐已经结束——软件历史性地向并发靠拢</a> （<a href="http://blog.csdn.net/hsutter/archive/2006/08/29/1136281.aspx">译文</a>）”，Sutter作为C++标准委员会成员正<a href="http://herbsutter.spaces.live.com/blog/cns!2D4327CC297151BB!330.entry">努力</a>为C++设计多线程标准。
+➜Theo de Raadt Vs Richard Stallman
+https://www.solidot.org/story?sid=4709	29700
+开源界总是少不了吵架，但上升到人身攻击就不太好了。<a href="http://osnews.com/comment.php?news_id=19057">Theo de Raadt VS Richard Stallman</a>，这两位个性都很张扬，一位是OpenBSD创始人，一位是自由软件基金会主席，他们之间的冲突似乎是始于误解。<i>
+首先Richard Stallman向OpenBSD-Misc发送了一封邮件，解释他<a href="http://marc.info/?l=openbsd-misc&amp;m=119730630513821&amp;w=2">为何不推荐OpenBSD</a>的原因，“我听到，OpenBSD不包含非自由软件（虽然我不确定是否包含任何非自由固件）。但是它的Ports System（类似于Debian等Linux系统上的apt软件包管理系统）让我想起了非自由软件，至少当我试图寻找值得推荐的不同类型BSD系统时我的感受。因此我行使言论自由权力而没有将它包含在公开推荐的操作系统名单上。”这封邮件引起了很多<a href="http://marc.info/?t=119730647100001&amp;r=15&amp;w=2">反馈</a>，Theo de Raadt和OpenBSD 用户的怒火已经把他给吞没了。<a href="http://marc.info/?l=openbsd-misc&amp;m=119750352332512&amp;w=2">De Raadt回应</a>道，“Richard，你错了。你清楚的阐明ports tree包含非自由软件。没有，它只是程序安装的框架（Makefiles containing URLs），偶尔用来更新补丁。你完全错了，你甚至算不上一个敢于承认错误的真正男人。我有时可能不太友好，但是你的确是位滥用权力的虚伪小人，只知道攻击那些努力实现自由软件理想的项目。羞愧吧，你！ ”</i>
+➜国内众多“开源软件”许可方式有违开源精神
+https://www.solidot.org/story?sid=4710	32100
+<a href="mailto:galen@osss.cn">galen</a> 写道 "最近发现国内很多网络社区软件都开源了。但很奇怪，他们都有自己相同一套的软件版权许可协议。举个例子：
+<i>摘自<a href="http://www.discuz.com/">Discuz</a>里的许可协议：禁止在Discuz! 的整体或任何部分基础上以发展任何派生版本、修改版本或第三方版本用于重新分发（ECSHOP\DEDECMS\HKWIKI等都类似）。</i> <a href="http://blog.sina.com.cn/s/blog_465ccf8801007nrg.html">这条规定显然是违背开源精神的</a>，通过OSI认证的许可协议如GNU GPL、MPL、BSD等许可协议里面都明确规定可以修改版本或第三方版本用于重新分发的权利，但要保证你发布的系统也必须开源，包括你修改的地方都要注释清楚。基于redhat的派生版本就很多，如CentOS；著名的开源软件SUGARCRM就有几个较好的派生版本如vtigerCRM、 C3CRM。Eric Steven Raymond在其文章中提到：这些自搞一套许可协议的严格上都不能算是开源软件，开源软件不光光是软件源代码的开放，除了这些，还要说明遵守那种许可协议(OSI下)"
+➜以风筝为动力的船下水
+https://www.solidot.org/story?sid=4711	35400
+上个月曾提到一家德国公司希望在风筝的帮助下<a href="__SLASHLINK__" sect="science" sid="07/11/28/0016233" sn="article" tid="97">减少航行燃料消耗</a>，现在这艘以风筝为辅助动力的船<a href="http://www.reuters.com/article/inDepthNews/idUSL1548100520071217?sp=true">已经在汉堡正式下水</a>。路透社报道，通过使用计算机控制的风筝，估计海上航行燃料使用可减少20%。<a href="http://www.reuters.com/news/video?videoId=72795&amp;newsChannel=inDepthNews">下水视频</a>。

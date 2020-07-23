@@ -1,0 +1,58 @@
+➜图灵奖得主Peter Naur去世，享年87岁
+https://www.solidot.org/story?sid=46746	12806
+丹麦籍图灵奖得主<a target="_blank" href="https://en.wikipedia.org/wiki/Peter_Naur"><u>Peter Naur</u></a>于1月3日<a target="_blank" href="https://twitter.com/bsdphk/status/683750072841072640"><u>去世</u></a>，享年87岁。Peter Naur最早是一名天文学家，在遇见计算机后他改变了职业，从1969年到1998年长达30年里他是哥本哈根大学的计算机科学教授，他是BNF(Backus-Naur Form)范式中的N，参与开发了ALGOL 60编程语言。他发表了大量计算机科学主题的文章和论文，其中包括《<a target="_blank" href="http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding"><u>Programming as theory building</u></a>》等。
+➜安全研究人员发现了第一个使用JS的勒索软件
+https://www.solidot.org/story?sid=46747	14612
+<div align="center"><img src="http://img.solidot.org/0/328/liqd6uJko9fX.jpg" align="" height="325" width="520"><br>
+<br>
+</div>
+安全研究人员<a target="_blank" href="http://news.softpedia.com/news/ransom32-is-a-javascript-based-ransomware-that-uses-node-js-to-infect-users-498342.shtml">发现了</a>第一个使用JavaScript感染用户的勒索软件。勒索软件是基于<a target="_blank" href="http://nwjs.io/">NW.js</a>平台，NW.js允许开发者通过 Node.js模块创建桌面应用，能直接与操作系统交互，支持Windows、OSX和Linux，在理论上基于NW.js的勒索软件能用于感染三种主流的操作系统。研究人员将新的勒索软件家族称为<a target="_blank" href="http://blog.emsisoft.com/2016/01/01/meet-ransom32-the-first-javascript-ransomware/"><u>Ransom32</u></a>，感染之后它会下载一个自解压的WinRAR文档。研究人员指出，Ransom32还没有完全利用NW.js的功能，文件大小有32MB，它并非是业余者的作品，加密工作非常出色，研究人员还无法解密。Ransom32作者还在暗网上运作了一个勒索即服务的生意，允许买家定制勒索软件，从每笔被勒索者支付的比特币中收取四分之一作为报酬。
+➜希特勒的《我的奋斗》版权过期
+https://www.solidot.org/story?sid=46748	17359
+希特勒的自传《我的奋斗》在1925年出版，他在1945年自杀，盟军在德国战败后将该书版权给予了巴伐利亚州，而巴伐利亚州出于防止煽动仇恨的理由决定禁止任何人再版《我的奋斗》。根据欧洲的版权法，在版权所有人去世70年后其著作将进入公有领域。2016年1月《我的奋斗》<a target="_blank" href="http://www.bbc.com/news/world-europe-35209185"><u>正式进入公有领域</u></a>。但为了防止激起亲纳粹的情绪，德国政府官员表示将会限制公众访问书的内容。慕尼黑的当代史学会将会出版一本学术版，原始文字旁边附上大量学术注释。许多犹太人组织欢迎这个特殊版本，认为该批判性的版本有助于解释大屠杀。
+➜黑莓将继续在巴基斯坦运营
+https://www.solidot.org/story?sid=46749	18207
+黑莓公司去年11月底宣布<a target="_blank" href="http://www.solidot.org/story?sid=46355"><u>将退出巴基斯坦</u></a>，原因是巴基斯坦电信管理局以安全理由，命令移动网络运营商从11月30日起屏蔽访问黑莓的企业信息服务（BES），屏蔽日期后延期到了12月30日。黑莓公司当时称，巴基斯坦政府真正想要的是监视黑莓企业信息服务的所有流量。现在，巴基斯坦政府取消了禁令，而黑莓也决定留在巴基斯坦市场。黑莓在<a target="_blank" href="http://blogs.blackberry.com/2015/12/continuing-our-operations-in-pakistan/">声明</a>中表示，感谢巴基斯坦电信管理局和政府理解黑莓不提供客户BES流量的立场。
+➜Python将迁移到GitHub
+https://www.solidot.org/story?sid=46750	25626
+2014年12月，Python社区讨论是否迁移到GitHub以改进开发流程，当时Python使用的版本控制系统是Mercurial，而GitHub只支持Git版本控制系统，所以这也意味着Python需要迁移到Git。在长达一年的讨论之后，Python项目正式<a target="_blank" href="http://thread.gmane.org/gmane.comp.python.devel.core-workflow/320"><u>宣布迁移到GitHub</u></a>，从Mercurial<a target="_blank" href="https://www.python.org/dev/peps/pep-0481/"><u>切换到Git</u></a>。Python开发者讨论了两个Git平台：GitHub和GitLab，两者在功能上没有显著差异，但开发者更熟悉GitHub以及Python语言之父、仁慈独裁者Guido van Rossum偏爱GitHub，最终GitHub获胜。
+➜精子携带了能改变后代新陈代谢的RNA
+https://www.solidot.org/story?sid=46751	28746
+你从父亲继承的基因<a target="_blank" href="http://news.sciencemag.org/biology/2015/12/are-you-inheriting-more-genes-your-father"><u>比以前认为的多</u></a>。《科学》期刊上周发表了两篇实验鼠研究论文，显示雄性精子携带了能改变后代新陈代谢的RNA。过去几年的研究已经发现了多个表观遗传的例子，<a target="_blank" href="http://www.ebiotrade.com/newsf/read.asp?page=20151231112642266"><u>最新研究</u></a>聚焦在转移RNA（tRNA）上。在第一项研究中，麻省大学医学院的科学家揭示了tRNA片段在哺乳动物精子成熟和受精过程中的生物合成和潜在功能。在第二项研究中，中科院的研究人员将雄性小鼠分为高脂饮食和低脂饮食两组。他们发现，高脂饮食雄性小鼠的后代会出现糖耐量减低和胰岛素抵抗，而且这种糖耐量减低与tRNA有关。在高脂饮食小鼠的后代中，不少代谢基因的表达水平显著减少。
+➜IPv6普及度突破10%
+https://www.solidot.org/story?sid=46752	30649
+<div align="center"><img src="http://img.solidot.org/0/329/li98hrgJSdKd2.png" align="" height="363" width="560"><br>
+</div>
+<br>
+根据Google的<a target="_blank" href="http://www.google.com/intl/en/ipv6/statistics.html#ipv6-adoption"><u>统计</u></a>，在<a target="_blank" href="https://tools.ietf.org/html/rfc1883">IPv6协议</a>发表20年后，其部署比例终于突破了10%。在亚洲，IPv6普及度日本最高为10.9%，马来西亚8.83%，中国2.07%，韩国2.17%，台湾0.55%，美国则是25.63%。Google的数据显示，在中国，IPv6用户还面临可靠性和性能问题。IPv4地址空间已经枯竭，但无类别域间路由、网络地址转换（NAT）、运营级NAT等技术延长了IPv4的寿命。虽然如此，升级到IPv6仍然是不可避免的。从2011年起，IPv6的部署<a target="_blank" href="http://arstechnica.com/business/2016/01/ipv6-celebrates-its-20th-birthday-by-reaching-10-percent-deployment/#p3"><u>在不断提速</u></a>，普及度从0.4%快速提高到今年1月初的10.09%。<br>
+➜百度数据显示北京通勤时间最长
+https://www.solidot.org/story?sid=46753	32909
+百度地图公布的数据分析<a target="_blank" href="http://www.nanzao.com/sc/national/1520b56d254d0fe/bai-du-di-tu-2015-shu-ju-jing-tong-qin-zui-chang-zui-du-lu-zai-guang-zhou"><u>显示</u></a>，北京北京通勤最长但广州有一条路最堵。北京上班族平均每天都要花50分钟，通勤路程为18.9公里，居通勤时间和距离的首位；广州的通勤路程和时间分为为18公里，40分钟；上海为17.2公里，46分钟；杭州人上班的路程虽短8.7公里，但却要用时24分钟，也就是每小时为21公里，这让杭州成为通勤效率最低的城市。全国第一堵是广州市的中山六路，平均速度为15.5公里/小时，之后是同城同福中路19.6公里/小时；北京的前三堵为北三环东路22.6公里/小时，新街口北大街22.7公里/小时，广安门桥环岛23公里/小时；上海最堵的三条路，分别为天水路20.6公里/小时、顾太路24.5公里/小时、西藏中路27.2公里/小时。这些数据是对百度地图5亿用户、1亿车主用户全年的定位、路线规划、导航行为数据进行分析得出的。
+➜广电开始试点TVOS2.0
+https://www.solidot.org/story?sid=46754	36851
+官方新华社<a target="_blank" href="http://news.xinhuanet.com/fortune/2016-01/02/c_1117648289.htm"><u>宣布</u></a>，广电总局将在上海、江苏、湖南、陕西四个省市试点安装官方的智能电视操作系统TVOS2.0系统。目前关于<a target="_blank" href="http://www.hunancatv.com/html/yxds/jtxw/2015/12281677.html"><u>TVOS2.0</u></a>系统细节信息不多，只知道它是基于华为MediaOS和阿里巴巴YunOS，而YunOS是基于Android，MediaOS是什么，华为也没有什么信息披露，推测也是基于Android，所以TVOS2.0和TVOS1.0一样，也是在开源的Android基础上发展的定制版本。报道称，TVOS2.0内置了智慧家庭服务、媒体网关、智能人机交互、大数据采集等软件功能模块，并搭载了视频通信、电视游戏等增值业务。显然它内置媒体控制等功能，不会像Android系统那样允许用户自由安装应用。
+➜移动应用为中国股民开启美股大门
+https://www.solidot.org/story?sid=46755	38046
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20160104/mkt122432.asp">报道了</a>一批创业公司向缺乏投资渠道的中国中产阶级提供专门的炒股类应用，帮助他们投资美国市场。官方数据显示，随着中国经济放缓以及人民币在贬值压力之下走低，2015年上半年中国对外证券投资增加572亿美元。去年11月份中国的外汇储备降至两年多来的最低水平，表明资本正在外流。这些应用瞄准的目标是小型投资者，部分原因是中国对资本仍然管控得很紧，个人每年的购汇上限设定在5万美元，企业投资等其他事务可以网开一面。应用开发者说，用户以及银行仍然负有遵守政府购汇规定的责任。这些公司面临的一个风险是，如果资本外流速度迅速加快，监管部门对其业务的立场可能会发生变化。这些公司对猜测不予置评，但它们指出，中国央行已经表示，准备放松对中国人投资海外市场的限制，以推动人民币国际化。
+➜黑客私法侵犯言论自由
+https://www.solidot.org/story?sid=46756	41804
+自认为站在正义一边的匿名黑客正让互联网变得像是狂野的西部，不是充满了危险的西部，而是充满了私人维护治安者的西部。匿名者组织没有会员资格程序，任何人都可以加入，任何人都可以自称是匿名者，他们可以以任何理由战斗或反对，就像真实世界的治安维护者。匿名者是一个黑客集体和网络十字军，根据自己的需要自行执法。但正如攻击BBC所显示的，攻击可能会针对错误的人和<a target="_blank" href="http://betanews.com/2016/01/03/new-world-hackers-take-trump-offline-but-when-does-hacking-vigilantism-infringe-on-free-speech/"><u>限制言论自由</u></a>。
+➜LG展示可以卷起来的18英寸显示器
+https://www.solidot.org/story?sid=46757	42195
+<div align="center"><img src="http://img.solidot.org/0/330/liwpRgMWWZg.png" align="" height="263" width="400"><br>
+<br>
+</div>
+LG在CES上<a target="_blank" href="http://www.theverge.com/2016/1/3/10706180/lg-rollable-display-flexible-screen-announced-ces-2016"><u>展示</u></a>可以像报纸一样卷起来的18英寸显示器原型。LG去年就展示了类似的概念技术，但只是闭门展示，这次是公开展示。弯曲的柔韧性显示器可以减少空间占用，可以安装在空间更紧凑的环境中，比如汽车，LG正计划展示一款适合装在汽车内的25英寸弯曲显示屏。类似的产品要进入普通家庭或价格能被普通消费者接受可能还需要很长时间。
+➜研究人员利用酶改变蚂蚁的行为
+https://www.solidot.org/story?sid=46758	45106
+<center>
+<iframe src="https://www.youtube.com/embed/t-2BpBjId1c" allowfullscreen="" frameborder="0" height="360" width="512"></iframe><br>
+<br>
+</center>
+木蚁生活在一种等级制度中，部分成员成长为体型较大的兵蚁，部分成长为体型较小的工蚁。虽然它们共享着共同的基因和父母，但外形和行为在很多方面有着显著的差异。这些差异是在出生之后通过环境因素固定下来的。对蚂蚁等级制度着迷的研究人员想知道，是否可以让兵蚁放弃守卫的职责变得像工蚁。他们瞄准了影响兵蚁和工蚁基因活性的酶。他们在兵蚁孵化之后向其大脑注射酶，成功的改变了它们的行为。它们的体型仍然和未修改过的兵蚁相似，<a target="_blank" href="http://arstechnica.com/science/2016/01/slightly-creepy-experiment-with-ants-shows-that-drugs-can-permanently-alter-behavior/"><u>但表现出了工蚁的行为</u></a>，去寻找食物而不是保卫蚁后。<a target="_blank" href="http://www.sciencemag.org/content/351/6268/aac6633"><u>论文</u></a>发表在《科学》期刊上。
+➜SpaceX公布回收的火箭照片
+https://www.solidot.org/story?sid=46759	46970
+<div align="center"><img src="http://img.solidot.org/0/331/liij9qFEjRbY6.jpg" align="" height="333" width="500"><br>
+<br>
+</div>
+私人太空公司SpaceX在Flickr上公布了两周前首次成功回收的<a target="_blank" href="https://www.flickr.com/photos/spacexphotos/23789045829/in/photostream/"><u>Falcon 9火箭第一级照片</u></a>。回收后的火箭如果可能重复使用，将有助于大幅减少发射成本，第一级是火箭最有价值的部分。但鉴于这颗火箭的历史价值，SpaceX CEO Elon Musk宣布将在发射台进行，静态点火测试后把它作为展览品供公众观摩。不过目前还不知道这颗有历史意义的火箭将会在何处展览。

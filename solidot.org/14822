@@ -1,0 +1,60 @@
+➜Web领域那些阴魂不散的产品，技术与思想
+https://www.solidot.org/story?sid=19229	35760
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "在很多人眼里，如今的 Web是活泼，新鲜，充满生机的，然而事实上，在 Web 领域，一些阴魂不散的技术，产品或者思想仍然有它们生存的土壤，本文讲述了Web领域那些本该死去，却依然为人所用的东西，像某些版本的浏览器，某些过时的技术，某些代码，某些设计思想（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K1006.aspx">完整图文版</a>）。           引言
+<br> <br>当人们为 IE6 举办非官方葬礼的时候，很多人并不知道为什么要这样。<br> <br>
+浏览器
+<br> <br>浏览器无疑是最值得大书特书的了，所有 Web 设计师都知道<a href="http://sixrevisions.com/web-development/definitive-guide-to-taming-the-ie6-beast/">支持 IE6</a> 的痛苦却无能为力，这不是我们所能控制的事，尽管微软自己也煞费苦心地推出了 IE7 和 IE8 两个版本来替换 IE6，仍然有很多人不愿花5分钟去完成这个升级。因此，设计师分成两派，包容派和决绝派，后者对那些已经过时的浏览器不再提供支持，前者则挥汗如雨地通过 CSS hack 一类的手段缝缝补补，力求自己的设计在 IE6 一类的浏览器中仍然可以正常显示。<br> <br>
+Web 技术
+<br> <br>有一些 <a href="http://sixrevisions.com/web-technology/web-languages-decoded/">Web 技术与标准</a> （<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K991.aspx">中文翻译</a>），它们已经死亡，却仍然阻挡不住一些开发者的热情，一个很好的例子是 <a href="http://en.wikipedia.org/wiki/Wireless_Markup_Language">WML</a> （无线标记语言），智能手机的技术在飞速发展，现代的移动设备，已经能够很轻松地实现对常规 HTML 的支持，然而，像 BBC 这样的媒体网站，仍然坚持着他们对这门技术的好感，这里面包含的一个事实就是，虽然 WML 不是真正的 Web，且 W3C 已经从某种程度上宣布了它的死亡，但仍然有不少人在使用老款手机访问这些站点，最终，开发者们只好继续为他们的站点另外提供一个 WML 版本。
+<br> <br>
+代码
+<br> <br>诸如 <b>marquee</b> <b>blink</b> 一类的 HTML 标签，<b>-ms-overflow-y</b> 一类的专用 CSS 属性，已经被 W3C 列为不建议使用清单，但你仍然能从最现代的 Web 站点中找到它们的影子，虽然目前并不会带来太多问题，但其中潜伏的一个风险是，将来的某一天，一些浏览器很可能会终止对这些东西的支持。
+<br> <br>同时，我们还可以从现代 Web 站点的源代码中看到大量90年代风格的东西，结构与式样掺杂在一起，虽然这样的代码现代浏览器仍然支持，但可维护性变得很差。<br> <br>
+设计思想
+<br> <br>还记得早起的 Web，拥挤的版面，惹人烦的 JavaScript 效果，动个不停的 Gif 动画，计数器，Flash 广告，背景音乐，虽然这些设计实践如今都有了它们的新体验版本，但仍有不少设计者热衷于一些90年代的思想。设计是一个进化的过程，在不同历史阶段，有自己的价值，然而，最终都是朝着更好的用户体验发展。
+<br> <br>
+生命周期
+<br> <br>HTML5 与 CSS3 一类的新技术层出不穷，然而是技术总有过时的一天，应当始终<a href="http://sixrevisions.com/web_design/how-to-stay-ahead-of-the-curve-as-a-designer/">保持你的技术处于最新</a>。Web 的历史中充满了这样的技术，它们被新技术取代，却死而不僵，它们短期内不会带来什么害处，最终却为你带来无尽的麻烦。还有一些技术，像 <a href="http://www.zeldman.com/2009/07/02/xhtml-wtf/">XHTML 2.0</a> 则半路夭折，它们并非过时，而是生不逢时。
+<br> <br>
+<b>本文作者</b>
+<br> <br> <b>Alexander  Dawson</b> 是个自由职业 Web 设计师，擅长 Web 标准与用户体验设计，经营一个叫 <b> <a href="http://www.hitechy.com/">HiTechy</a> </b> 的设计公司，他的 Twitter 账户是 <a href="http://twitter.com/AlexDawsonUK">http://twitter.com/AlexDawsonUK</a> 。
+<br> <br>本文国际来源：Sixrevisions.com <a href="http://sixrevisions.com/web-technology/the-webs-undead/">The Web’s Undead</a>
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Slashdot走向消亡，纽约时报确认
+https://www.solidot.org/story?sid=19230	36720
+<a href="http://yi-it.com/blog/">易IT</a> 写道 "一位未具名的读者<a href="http://slashdot.org/submission/1296062/Slashdot-is-Dying-New-York-Times-Confims-It?from=rss">写到</a>："《纽约时报》发表一篇<a href="http://www.nytimes.com/external/readwriteweb/2010/07/29/29readwriteweb-slashdot-struggles-to-remain-relevant-in-th-50422.html">有关Slashdot的报道</a>，报道试图探究和其他社会化新闻网站相比，Slashdot为何不再像以往那么流行。报道中说：
+<i>为什么Slashdot和社会化网络社区越走越远？曾经它是技术类网站流量最大的来源，但现在它很难再给这些网站带来流量。我们探究和找到了一些原因，包括来自我们本身的一些数据。根据Web分析公司<a href="http://woopra.com/">Woopra</a>的统计，目前网站最大的流量推手是StumbleUpon(51%)、Digg(30%)、Hacker News(12%)和Reddit(5%)。</i>
+➜Wine 1.3.0发布
+https://www.solidot.org/story?sid=19231	37440
+<a href="http://www.osmsg.com/">nsdy</a> 写道 "<a href="http://www.winehq.org/announce/1.3.0">Wine 1.3.0</a>（开发版本）主要有以下特性：
+<i>
+开端内置一个 Internet Explorer 用户界面；支持跨进程的OLE拖放；内置新的wscript.exe（Windows脚本主机）程序；打开/保存对话框记录上次使用的目录。；更新翻译；修复 bug 错误。"</i>
+➜研究显示猪与人一样拥有喜怒哀乐
+https://www.solidot.org/story?sid=19232	38520
+<a href="http://yi-it.com/blog/">take.pig.easy</a> 写道 "<a href="http://tech.sina.com.cn/d/2010-07-31/08184491926.shtml">新浪科技</a>引用<a href="http://www.bbc.co.uk/news/uk-england-tyne-10787070">BBC报道</a>称，一项研究显示，猪也和人一样，具备进行复杂情感活动的能力。科学家们希望通过揭示这样一个事实来唤起人们改善动物福利的意识。<i>
+Catherine Douglas博士领导的一个英国纽卡斯尔大学科研小组设计了一种技术，用以“询问”猪，它们目前的生活状况是否让它们感到满意。在这项类似巴甫洛夫狗类实验(经典反射理论实验)的实验中，猪被教会将钟乐声和奖励——一个苹果，联系在一起；而将训练狗用的响声片发出的声音和一种猪们不喜欢的东西——揉搓塑料袋发出的嘈杂声，联系在一起。(随后，工作人员对这些猪们发出一个模糊的信号——和它们学会的两种声音都不一样，一种新鲜事物。然后观察它们的反应)。Douglas博士说：“生活在较好环境中的猪表现出乐观情绪，它们将这种新的嘈杂声认为是奖励性的，纷纷聚拢过来希望得到奖励。相比之下，那些关在无趣猪圈里的猪更加悲观，它们认为这种新的声音也许也表示那个袋子，结果没有猪聚拢过来。”去年，Douglas博士曾经发表论文，证明被主人起名，并且一直被以名字相称的奶牛的产奶量要比没有名字的奶牛多。"</i>
+《自然》网站也发表了一篇<a href="http://www.nature.com/news/2010/100729/full/news.2010.380.html">与动物福利相关的报道</a>：加拿大科学家研究了老鼠在不同痛苦程序下的面部表情，如把尾巴浸在热水中，截断爪子，注入毒药等。一家非盈利组织对此做法表达了质疑，但加拿大动物福利主管机构裁定科学家们遵守了实验室动物管理的规定。
+➜百年学院撤出大陆和台湾
+https://www.solidot.org/story?sid=19233	39360
+两岸携手大中华文明吓退洋鬼放异彩 写道<i> "据美国之音新闻<a href="http://www1.voanews.com/chinese/news/20100729-Rampant-Plagiarism-99573454.html">报道</a>，美国新泽西州的百年学院关闭了在台湾和大陆开设的MBA项目，进军亚洲市场的努力受挫，原因是当地学生考试作弊猖獗。不少美国高等教育专家都认为，中国学校作弊现象存在已久，百年学院绝对不是第一所有类似遭遇的美国学校。在中国举办的GMAT考试也面临作弊问题，GMAT主办机构还因而控告几个提供中国学生交换试题和答案的网站。维吉尼亚大学公共政策和经济系教授托玛斯.迪表示作弊严重可能会破坏像中国对高等教育的巨大投资。"</i>
+➜中国网络游戏正式推行实名制
+https://www.solidot.org/story?sid=19234	41100
+从8月1日起，首部针对网游管理的规章《<a href="http://www.ccnt.gov.cn/xxfb/zwxx/ggtz/201006/t20100622_80225.html">网络游戏管理暂行办法</a>》正式开始<a href="http://www.chinanews.com.cn/it/2010/08-01/2438659.shtml">实行</a>。这项规定包括了<a href="__SLASHLINK__" sect="internet" sid="10/06/23/0212258" sn="article" tid="120">禁止未成年人使用虚拟货币</a>，以及“<a href="http://games.slashdot.org/story/10/07/31/2230240/China-Pushes-Real-Name-System-For-Online-Games">网游实名制</a>”。<i>
+《暂行办法》第四章21条规定，“网友游戏运营企业应当要求网络游戏用户使用有效身份证件进行实名注册，并保存用户注册信息。”文化部表示是为了防止未成年人长时间沉溺网络成瘾。中新网引用多家网络游戏运营商称，他们没有能力对注册信息进行认证，职能判断信息的真伪，无法判断信息人的真实身份，声称“实名制”的象征意义远大于实际意义。</i>
+➜Twitter帖子超过200亿
+https://www.solidot.org/story?sid=19235	42480
+星期六，日本网民<a href="https://twitter.com/GGGGGGo_Lets_Go">GGGGGGo_Lets_Go</a>在社交网站Twitter上发出<a href="https://twitter.com/GGGGGGo_Lets_Go/status/20000000000">第200亿条短讯</a>，使Twitter达到一个<a href="http://www1.voanews.com/chinese/news/20100801-Japan-Twitter-99708214.html?refresh=1">新的里程碑</a>。<i>
+这位Twitter用户东京的一名图像设计师。他随即收到了来自全世界的潮水般的祝贺讯息。Twitter花了四年时间才在今年3月达到100亿条短讯的里程碑，但由于其世界知名度的不断提高，Twitter只用了不到五个月的时间就把这个数字翻了一番。</i>
+➜谁下载了Facebook用户数据种子？
+https://www.solidot.org/story?sid=19236	43920
+Skull Security的研究人员利用蜘蛛程序收集了<a href="__SLASHLINK__" sect="internet" sid="10/07/28/1438257" sn="article" tid="100">高达一亿未修改隐私设置的Facebook用户数据</a>，并发布了容量高达2.8GB的文件种子。有心去窥探用户隐私的人恐怕并不是很多，那么这些有心或好奇的去下载种子的人究竟来自何处？Gizmodo分析后<a href="http://gizmodo.com/5599970/major-corporations-are-downloading-those-100-million-facebook-profiles-off-bittorrent">发现</a>，下载者发出的IP地址请求中包含了好莱坞巨头，宗教组织，以及知名科技企业。当然属于各大公司的IP地址的出现并不意味着公司是出于其自身目的去收集用户数据，也有可能只是雇员的个人行为。<i>
+名单包括了苹果公司、美国电话电报公司（AT&amp;T）、BBC、波音公司，山达基教、思科公司，迪斯尼、富士通、HBO、惠普、IBM、Intel、洛克希德马丁、卢卡斯影业、Mcafee、摩托罗拉、Novell、诺思罗普格鲁曼、Nvidia、思科、百事可乐、雷神公司、希捷、世嘉、Sun、赛门铁克、育碧、联合国等等。</i>
+➜朝鲜世界杯主教练在工地劳动
+https://www.solidot.org/story?sid=19237	50400
+智擒金正勋 写道<i> "<a href="http://www.goal.com/en-gb/news/2890/world-cup-2010/2010/07/31/2049708/north-korea-squad-subjected-to-severe-world-cup-2010-post-mortem-">goal.com
+报道</a>，南非世界杯朝鲜主教练金正勋尽管带领朝鲜队（自1966年来首次）闯入世界杯，但是仍成为一次长达6小时的思想批判会的对象。<br>
+在巴西--朝鲜赛后，金正日决定直播对葡萄牙的比赛。这场比赛朝鲜队以0:7败北。因为在南非比赛的表现，金正勋被开除出朝鲜劳动党，并正在一个工地劳动。消息来源说，过去表现不佳的朝鲜运动员和教练会被送去劳改营。"</i>
+➜微软新技术能自动消除照片模糊
+https://www.solidot.org/story?sid=19238	55440
+在2010年度的SIGGRAPH图形会议上，微软研究院的研究人员<a href="http://hardware.slashdot.org/story/10/07/31/2040226/Microsoft-Tech-Can-Deblur-Images-Automatically">演示</a>了利用照相机或手机自带的“惯性测量传感器”实现<a href="http://research.microsoft.com/en-us/um/redmond/groups/ivm/imudeblurring/">图像自动去模糊</a>。<i>
+研究人员开发出一种去模糊算法，利用陀螺仪和加速计，从照相机在曝光过程中的加速度和角速度估算出一个模糊函数，使用最优方法推断出潜在的图形。这种方法可以自动的对每个像素进行处理。</i>

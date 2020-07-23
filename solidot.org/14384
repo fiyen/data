@@ -1,0 +1,59 @@
+➜Wolfram|Alpha宣称拥有搜索结果的版权
+https://www.solidot.org/story?sid=11424	11400
+Wolfram|Alpha和Google属于两类截然不同的服务，Google提供了基于网络的搜索服务，Wolfram|Alpha提供的是基于知识库的云计算服务。<i>
+因此Google的<a href="http://www.google.com/accounts/TOS">服务条款</a>只是表示，“用户同意不违反任何法律”，而Wolfram Alpha的<a href="http://www.wolframalpha.com/termsofuse.html">服务条款</a>却声明<a href="http://www.groklaw.net/article.php?story=20090518204959409">拥有搜索结果的版权</a>，引用需要署名。Wolfram|Alpha表示欢迎用户自由链接它的网站，或者引用特殊结果的深层链接。但是假如你创建了一个基于Wolfram|Alpha服务的网站，如果该网站的用户违反了服务条款，那么你必须承担起法律义务。Groklaw表示，这意味着Wolfram|Alpha永远不会替代Google。它还指出Wolfram|Alpha的部分搜索结果引用自小说或电影，如《2001太空漫游》以及《银河系漫游指南》中的42，声明拥有它们的版权过于鲁莽了。</i>
+➜Flock 2.5发布，带来加强新特性
+https://www.solidot.org/story?sid=11425	14400
+<a href="http://szlug.org/">权相龙</a> 写道<i> "
+跨平台交际浏览器<a href="http://www.flock.com/user-guide/2.5/flockcast.html">Flock 2.5</a>(基于Mozilla)<a href="http://www.downloadsquad.com/2009/05/19/flock-2-5-social-web-browser-adds-more-facebook-and-twitter-feat/">发布</a>，为Twitter和facebook带来加强特性。另外有一个新特性<a href="http://www.flock.com/user-guide/2.5/flockcast.html">FlockCast</a>，用户点击一下按钮，就可以将你在Twitter、Myspace和Flickr上的动作自动贴到Facebook上。"</i>
+➜Nokia Maemo Harmattan OS截图泄露
+https://www.solidot.org/story?sid=11426	18000
+<a href="http://szlug.org/">权相龙</a> 写道<i> "Nokia开发中的移动OS - <a href="http://wiki.maemo.org/Task:Maemo_roadmap/Harmattan">Maemo Harmattan</a>的截图<a href="http://www.electronista.com/articles/09/05/19/nokia.os.image.leaked/">泄漏到互联网上</a>，它是一个非常具有现代感和美感的操作系统，预计在2010年年底才能全部完成。Maemo Harmattan主要面向Internet tablets设备提供，支持宽屏和各种流行的触摸控制元素，并支持大量widgets，诺基亚并没有对这一图片发表看法。"</i>
+➜MS Word 2010支持OpenType
+https://www.solidot.org/story?sid=11427	19080
+前几天MS Office 2010的技术评估版<a href="__SLASHLINK__" sect="software" sid="09/05/18/1036204" sn="article" tid="32">被泄漏</a>到了P2P网络，一些在坊间流传的新特性得到了<a href="http://tech.slashdot.org/article.pl?sid=09/05/19/1556203">证实</a>：Office 2010<a href="http://www.orzeszek.org/blog/2009/05/17/how-to-enable-opentype-ligatures-in-word-2010/">加入</a>了对OpenType高级排版功能的支持，如连字fi和ffi，数形，替换等等，允许用户创建以前只有TeX或InDesign才能创建的文档。新的方程式编辑器和风格，或许使得Word 2010有机会替代LaTeX成为学术界的新选择。
+➜暴风影音导致国内DNS服务器瘫痪
+https://www.solidot.org/story?sid=11428	21000
+5月19日晚上9点左右，广州杭州等多个地方报告<a href="http://tech.sina.com.cn/t/2009-05-19/23333106999.shtml">出现网络故障</a>，导致无法上网。随后的报告显示国内大部分地区的DNS服务器似乎都集体瘫痪，有人因此而怀疑<a href="http://hi.baidu.com/neoshi/blog/item/4ccb03c27e6e473de5dd3bd5.html">是GFW搞鬼</a>，但协议及流量分析发现这件事情与号称<a href="http://selaselah.spaces.live.com/blog/cns!F8BCC85A4BB085B8!286.entry">有1.5亿用户的暴风影音播放器有关</a>：<i>
+原因是暴风影音的面向电信服务的域名服务器挂了，由于很多用户装有暴风影音，并且在后台运行，发现自己的域名服务器宕机后会不断重试，因此出现大量videodown.baofeng.com、active.baofeng.com、live.baofeng.com等失败DNS查询，查询量非常巨大并且重试时间间隔极短导致DNS服务器系统资源耗尽宕机。目前还没有看到关于此次事故的正式公告，尚无法确定此次故障的影响范围和恢复时间。</i>
+➜Google用算法判断谁可能会辞职
+https://www.solidot.org/story?sid=11429	23760
+几个月前《商业周刊》曾报道，微软、IBM、甲骨文等技术巨头的人力资源部门正<a href="__SLASHLINK__" sect="science" sid="09/03/16/0545217" sn="article" tid="41">使用数学算法去评估每位雇员的价值</a>，引起华尔街灾难的定量分析被应用到了人类身上。现在《华尔街日报》<a href="http://online.wsj.com/article/SB124269038041932531.html">报道</a>，Google的产品是基于算法，它表示数学算法可以决定20000名员工中的哪一位最有可能辞职。Google并不愿意透露仍处于测试阶段的数学公式的细节，只指出方程式中输入的信息来自调查和同事评议。Google称算法已被用于识别自己觉得能力未充分利用的雇员，该问题在那些离开Google的员工中间最为普遍。
+➜安全备份数据的方法？
+https://www.solidot.org/story?sid=11430	25500
+昨天在车站被典型的“<a href="http://solidot.org/~matrix/journal/1036">前堵后偷</a>”的方法偷走了笔记本。笔记本只不过是身外之物，不足为惜，但其中的数据已陪伴我足够长的时间，从某种意义上说与大脑建立了一种息息相关的纽带（我还清楚的记得那个文件保存在那个文件下），这是最令人伤心之事。打一个不恰当的比喻，就像是拆迁，房子可以重建或换到另一个地点，但你与此地的联系从此被割裂了。电脑中的数据有些已备份到其它地方，但还是许多并没有。各位有什么安全而迅速的备份数据方法吗？有人建议可以同步上传到<a href="http://www.getdropbox.com/">网络上</a>，也就是云中。但目前看来“云”还不是十分的可靠。
+➜“删除负面新闻”暴露法律空白
+https://www.solidot.org/story?sid=11431	26640
+《南方都市报》报道了<a href="__SLASHLINK__" sect="internet" sid="09/05/05/091209" sn="article" tid="120">网络公关专业删帖</a>的手法，并公开了不同级别网站删贴的费用。《北京商报》提到了律师对此的评论，认为<a href="http://www.bbtnews.com.cn/it/channel/political70231.shtml">“删除负面新闻”游走在法律边缘</a>。文章称：<i>
+一家专门替人删除负面新闻公司员工表示，网络专业删除非常有分寸，并不是什么内容只要给钱就可以删除。他们一般掌握的原则是：网民自行发的给钱就删；只删除几年之前的新闻报道。至于被政府部门通报、批评、处理等方面的负面新闻，给多少钱都不接。北京天如律师事务所的律师魏开新认为，删除负面新闻的行为缺乏直接的规定，暴露了我国法律的空白，但根据国家<a href="http://zh.wikisource.org/w/index.php?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E9%80%9A%E5%88%99&amp;variant=zh-cn#.E7.AC.AC.E4.B8.80.E7.AB.A0.E3.80.80.E5.9F.BA.E6.9C.AC.E5.8E.9F.E5.88.99">民法通则第七条</a>的规定，被监督企业恶意花钱“删除负面信息”，损害了社会的公共利益，让很多原本应该了解行业黑幕的人，减少了防范机会。在网络媒体日渐发达的今天，“删除负面信息”灭火的做法侵害了新闻媒体的正当权益，降低了媒体的影响力，而且也侵犯了社会公众的知情权。对于类似的情况，相关媒体和社会公众完全可以通过法律手段，追究新闻删帖人和背后指使人的法律责任。</i>
+➜Google Trike将给英国小巷拍摄街景
+https://www.solidot.org/story?sid=11432	29100
+Google发现它的传统街景车无法行使在狭窄的街道上，因此它计划<a href="http://tech.slashdot.org/article.pl?sid=09/05/19/1713254">部署人力三轮车</a>，雇人骑着安装有360度街景摄像机的三轮车飞驰在大街小巷，进入街景车无法抵达的区域。Google现已在意大利罗马的小巷中<a href="http://www.pcworld.com/article/165065-5/google_street_views_takes_to_a_tricycle.html">测试和演示</a>Google Trike。CNET的<a href="http://crave.cnet.co.uk/gadgets/0,39029552,49302292,00.htm">报道</a>称Google将于今年夏天首先在英国的公共人行道上启用Google Trike拍摄街景，该报道可能存在错误，因为英国法律不允许在公共人行道上骑车，无法想象Google会忽视这一基本事实。
+➜Google创始人Page称要每秒索引一次互联网
+https://www.solidot.org/story?sid=11433	30600
+<a href="mailto:xielingwang@gmail.com">xielingwang</a> 写道 "Google有两个创始人，SergeyBrin和LarryPage，他们组成一个互为补充的团队。据说Brin是一个天才的“谈判者”，容易兴奋，喜欢跟人打交道。而Page对技术和产品有绝对的天赋，他沉静，喜欢独立思考。
+<i>
+实际上Page是Google产品和技术的灵魂。Google的PageRank算法就是由Page发明并且以他的名字命名的。现在，Page的重要性又一次被证明了。昨天，PAGE在一个会议上说：“我一直认为我们需要每秒都对互联网索引一次，以提供<a href="http://www.yunkeji.com/?p=1440">实时的搜索服务</a>。最初，我们的团队笑话我，并不相信我。随着Twitter的成功，他们开始意识到我们必须提供实时搜索服务。是的，并非所有人都需要实时的搜索结果，但人们都会为这个功能本身而激动。”</i>
+➜首款用Google Earth作为游戏引擎的舰船模拟游戏发布
+https://www.solidot.org/story?sid=11435	33000
+<a href="http://planetinaction.com/">PlanetInAction.com</a>发布了首款基于Google Earth浏览器插件图形引擎的<a href="http://www.gearthblog.com/blog/archives/2009/05/fantastic_free_google_earth_game_sh.html">免费舰船模拟游戏</a>。<i>
+游戏名称叫“<a href="http://ships.planetinaction.com/">Ships</a>”，可直接在浏览器上试玩，但需先安装Google Earth插件。游戏允许玩家掌握船的舵，控制前进方向，驾驶货船，驳船，集装箱运货船，甚至是游轮以3D形式在世界各大洋中畅游。游戏包含有音效，物理模型，视觉特效，使用Google Earth API，Flash 8.0和Javascript开发，音效制作使用Soundmanager 2，3D模型使用<a href="http://sketchup.google.com/">SketchUp</a>创建，但开发者并没有实现所有的物理模型，比如当前版本不包括碰撞探测，它可能会出现在未来版本中。由于Google Earth插件目前只有Windows和Mac OS X，因此该浏览器游戏无法在Linux下运行。</i>
+➜战场机器人将拥有道德指南
+https://www.solidot.org/story?sid=11436	37080
+智能导弹，地面机器人和无人飞行器在人类的控制下每天都在战场上出没。但假如某一天人类取消了控制，让机器人独自去作出决定，比如决定杀死谁和轰炸什么地方，又会发生什么事情？<i>
+乔治亚理工大学计算机科学教授Ronald Arkin首次提出了<a href="http://www.msnbc.msn.com/id/30810070/">道德管理指南</a>，<a href="http://www.cc.gatech.edu/ai/robot-lab/publications.html">一套软件包和硬件</a>能告诉机器人何时和朝什么开火。Arkin教授认为，机器人不仅能被编程出在战场上具有道德的行为，它还能比人类士兵更好的作出反应。他说，“最终这些系统将能拥有更多信息，比人类作出更明智的决定。一些机器人已经比人类更强，更快，更聪明。我们想要比人类做得更好，最终能拯救更多生命。”</i>
+➜灵长类化石发现,填补人类进化缺失环
+https://www.solidot.org/story?sid=11434	38160
+<a href="http://szlug.org/">权相龙</a> 写道<i> "
+日前美国纽约公开展出了一具<a href="http://big5.chinabroadcast.cn/gate/big5/gb.cri.cn/27824/2009/05/20/2585s2514964.htm">4700万年前的类人猿骨骼化石</a>。科学家考证后认为，这个物种是人类、猿和其他灵长类动物的<a href="http://www.scientificblogging.com/news_articles/missing_link_darwinius_masillae_transitional_fossil_has_humanlike_nails_and_opposable_big_toes">共同祖先</a>，成功填补了人类进化历程中的“缺失环节”。这个物种被命名为“<a href="http://www.revealingthelink.com/">Darwinius masillae</a>”，科学家给它起了个昵称"艾达"(Ida)。虽然历经4700万年的沧桑巨变，但这具高约20厘米的骨骼化石依然保存完好，仅一条腿的一小部分和5%的的骨骼缺失。考古学家透露，这个物种可能是生活在今天马达加斯加一带的一种类人猿的祖先。从这具化石中人类进化过程中的一直缺失的重要环节证据被发现，这将有助于科学家更好地研究人类进化的轨迹。"</i>相关<a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0005723">论文</a>已经发表在开放获取杂志PLoS ONE上，连Google都在首页加入了<a href="http://www.google.com/logos/missinglink.gif">化石logo</a>以表示庆祝。但科学博客的Brian Switek<a href="http://scienceblogs.com/laelaps/2009/05/poor_poor_ida_or_overselling_a.php">批评</a>了媒体的狂欢，称该发现更像是历史频道的摇钱树。
+➜重庆“性主题公园”因低俗被拆除
+https://www.solidot.org/story?sid=11437	38400
+《纽约时报》<a href="http://www.nytimes.com/2009/05/19/world/asia/19china.html?_r=1&amp;scp=2&amp;sq=china&amp;st=cse">报道</a>(<a href="http://www.en8848.com.cn/yingyu/11/n-122311.html">中文翻译</a>)，中国与性相关的历史悠久而多变，从《金瓶梅》到近期关于毛对于性事贪得无厌的逸事，皆是明证。当中国重庆首个性主题公园即将竣工之时，当地官员却下达了禁令，责令拆除，原因是<a href="http://news.xinhuanet.com/society/2009-05/19/content_11398145.htm">低俗、露骨、不健康和恶意炒作</a>。<i>
+主题公园经理卢小庆计划在公园里展示裸体人像雕塑，巨大的阴部模型，开设性技巧“工房”和有关性历史的摄影展览。展示将包括性安全的课程和正确使用安全套的知识。他指出性在中国是禁忌，但中国人确实需要了解更多性知识。与西方人相比，中国人对于性的态度表面上正经，事实上更加开放。例如，中国政府审查对性事过度描写的电影和其它文艺作品。父母几乎从不和孩子讲起有关性的事情。而在另外一面，属于非法的娼妓却公开做生意，到处可以看见提供全套服务的“按摩院”和“发廊”。官员和商人们则把养情人当作成功的标志。</i>
+➜每天少睡1.6小时相当于每年减寿6.2天
+https://www.solidot.org/story?sid=11438	39600
+<a href="mailto:wmr89502270@gmail.com">活不长了wmr</a> 写道 "根据<a href="http://news.xinhuanet.com/tech/2009-05/20/content_11405207.htm">新华网</a>报道，调查显示，如果每人每天的睡眠时间比标准睡眠时间8小时少睡1.6小时，就相当于每年减少6.2天寿命，或者相当于每年遭受约3万欧元的经济损失。<a href="http://www.ft.com/cms/s/0/34ecb994-4331-11de-b793-00144feabdc0.html?nclick_check=1">美国人失眠比重最高达30%</a>，德国次之为27%，英国，日本和荷兰，以24％、20％和12％的失眠人群比例分别占据三、四、五位。荷兰人影响最小，只有12%的失眠人群，国民的平均睡眠时间是6小时38分。"
+➜2009年最佳视觉错觉奖宣布
+https://www.solidot.org/story?sid=11439	41520
+视觉错觉奖目的是寻找出全世界最有创造力和最巧妙的视觉错觉作品。<a href="http://illusioncontest.neuralcorrelate.com/">2009年最佳视觉错觉奖</a>已经正式宣布：第一名是美国的<a href="http://illusioncontest.neuralcorrelate.com/2009/the-break-of-the-curveball/">The break of the curveball</a>——表面绘有曲线的棒球创造出一个物理效应，迷惑了感觉；第二名是日本的<a href="http://illusioncontest.neuralcorrelate.com/2009/color-dove-illusion/">Color dove illusion</a>；
+第三名是<a href="http://illusioncontest.neuralcorrelate.com/2009/the-illusion-of-sex/">性别错觉</a>——来自同一张脸的两幅图像会被分别看作是男和女。

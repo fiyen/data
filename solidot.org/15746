@@ -1,0 +1,20 @@
+➜埃及法庭下令屏蔽YouTube一个月
+https://www.solidot.org/story?sid=33429	32814
+埃及开罗行政法院2月9日<a href="https://hatewasabi.wordpress.com/2013/02/09/cairo-administrative-court-bans-youtube-une-cour-egyptienne-veut-bloquer-youtube/"><u>作出裁决</u></a>，宣布屏蔽YouTube及所有转载反穆斯林影片《The Innocence of Muslims》的网站三十天时间。此案最初是在去年9月18日，影片预告片在中东引发骚扰期间由律师Mohamed Hamed Salem提起的，这位律师希望屏蔽YouTube直至其删除反穆斯林内容为止，但法庭的YouTube禁令没有要求删除《The Innocence of Muslims》预告片，事实上YouTube的所有者Google已经主动屏蔽埃及IP地址访问反穆斯林影片。
+➜中国骇客如何试图敲诈一位CEO
+https://www.solidot.org/story?sid=33430	38866
+Gerrity Group主席兼CEO William Gerrity在slate.com上回顾了<a href="http://www.slate.com/articles/technology/future_tense/2013/02/new_york_times_security_breech_how_a_chinese_hacker_tried_to_blackmail_me.single.html"><u>他被中国骇客敲诈一百万的经历</u></a>。<br>
+<p><i>入侵《纽约时报》计算机系统窃取记者密码的中国骇客，每天活动时间从北京时间8点左右开始，8小时后下班，因此被认为是政府雇佣的黑客。Gerrity的遭遇类似，2007年他收到了一封电子邮件，附件包含了敏感的商业文档，发信者要求他支付100万人民币，否则就将敏感文件转发给商业合作伙伴和竞争对手。当时他正在上海，他的公司正与中国国企以及美国银行合资建造商业中心。他们办公的互联网连接一直受到监视。他咨询的专家认为是某位政府监控者试图赚些外快。Gerrity拒绝了敲诈，结果这位骇客也没继续威胁，而是回了一封“友好”的邮件，称只是生意而已，与私人无关。Gerrity对此发出警告，称数百万中国网民根本没有隐私意识，不知道他们的通信乃至一举一动都遭到广泛的窃听和跟踪，他们也许习以为常了。随着中国与外界的网络联系日益紧密，外国人不能天真的以为他们的隐私会被尊重。</i><br>
+</p>
+➜三星笔记本变砖bug不只Linux独有
+https://www.solidot.org/story?sid=33431	56273
+Linux内核开发者Matthew Garrett正调查在三星笔记本启动Linux导致笔记本变砖bug，结果发现在Windows下<a href="http://mjg59.dreamwidth.org/22855.html"><u>三星笔记本也会变砖</u></a>。变砖bug最初被认为是支持笔记本某些特定功能的三星驱动导致的，它需要在特定内存区搜寻三星的签名，但打上补丁在UEFI中禁用它后问题并未真正得以解决。Garrett在Windows上用一个用户空间测试程序让笔记本<a href="http://hardware.slashdot.org/story/13/02/09/2146207/samsung-laptop-bug-is-not-linux-specific"><u>停止工作</u></a>。他发现，如果UEFI变量储存空间占用过多笔记本就会启动失败。Garrett发布了一个可以让三星笔记本变砖的<a href="http://www.codon.org.uk/~mjg59/scratch/brick_samsung.txt"><u>测试代码</u></a>。
+➜Windows 3.0包含三个内核
+https://www.solidot.org/story?sid=33432	57369
+微软Windows开发团队资深程序员、《<a href="http://www.amazon.com/Old-New-Thing-Development-ebook/dp/B004YWCL5W/ref=tmm_kin_title_0"><u>Old New Thing</u></a>》作者Raymond Chen在其博客上介绍了古老的<a href="http://blogs.msdn.com/b/oldnewthing/archive/2013/02/08/10392028.aspx"><u>Windows 3.0</u></a>。1990年发布的Windows 3.0其实含有三个内核，一个针对的是8086处理器，另一个是80286处理器，第三个是80386处理器。其中8086内核完全独立，80286和80386内核则共享大量通用代码， 80286和80386内核的主要区别是内存管理，80286的描述符表格式不同于80386，80386的内存管理器能利用新的32位寄存器。
+➜好奇号首次获取火星岩石样本
+https://www.solidot.org/story?sid=33433	58933
+<div align="center"><img src="http://img.solidot.com.cn/0/154/linABBAGGUCRU.jpg" align="" height="179" width="400"><br>
+<br>
+<div align="left">好奇号火星漫游车利用机械臂末端的钻头<a href="http://www.nasa.gov/mission_pages/msl/news/msl20130209.html"><u>钻取了</u></a>火星表面一块基岩的样品，这是<a href="http://www.voachinese.com/content/us-20130210/1600716.html"><u>首次</u></a>通过钻探获取火星岩石样本。NASA称这是好奇号自去年八月抵达火星以来所取得的最大的具有里程碑意义的成就。今后几天内，地面控制人员将指示好奇号利用携带的科学设备分析样品，分析其矿物和化学成分，以确定火星上是否有水，是否在过去及现在有适合生命存在的环境。 </div>
+</div>

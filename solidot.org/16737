@@ -1,0 +1,50 @@
+➜苹果软件是美国Windows用户的最大安全风险
+https://www.solidot.org/story?sid=45969	10884
+对美国的Windows PC用户来说，甲骨文的Java不再是他们面临的最大安全风险，苹果的Windows应用<a target="_blank" href="http://www.theregister.co.uk/2015/10/27/apple_leapfrogs_java_secunia_patching/"><u>取代了Java</u></a>，这不是因为甲骨文改进Java安全的结果，而是因为旧的Java 7被强制淘汰了，它于2015年4月终止支持。监视安全漏洞的机构Secunia公布了最新的<a target="_blank" href="https://secunia.com/resources/country-reports/introduction/"><u>报告</u></a>，显示大部分用户没有将苹果的QuickTime 7.x 和 iTunes 12.x更新到最新版本去修复已知的漏洞：QuickTime 有18个已知漏洞，61%的用户没有更新；iTunes有106个已知漏洞，47%的用户没有更新。其它进入前10的软件还有 Adobe Reader和 Mozilla Firefox<br>
+<br>
+➜Android 6.0发现时钟漂移bug
+https://www.solidot.org/story?sid=45970	13261
+很多Nexus 5用户报告了一个<a target="_blank" href="https://code.google.com/p/android/issues/detail?id=189789"><u>严重bug</u></a>：他们的手机在升级到Android 6.0 Marshmallow后，时钟同步出现了问题，该问题可通过重启手机暂时修复，但并没有从根本上解决。时钟漂移的bug都发生在升级到Marshmallow之后，主要发生在晚上，Nexus 5用户反应一个晚上之后时钟慢了5分钟、10分钟、甚至30分钟。有用户留言说，老板警告如果再迟到就要开除他。
+➜中国的油画工厂
+https://www.solidot.org/story?sid=45971	15266
+创业公司Iinstapainting推出了一个<a target="_blank" href="https://instapainting.com/"><u>应用</u></a>，可以将用户拍摄的照片转变成油画。但如果用户想要真实的油画而不只是数字油画？Iinstapainting发现了一个巨大的商业机会，但面临的一大障碍是它需要大量的制作油画，可能需要一个月制作数百幅、数千幅甚至上万幅油画。经过媒体报道之后，深圳<a target="_blank" href="http://www.solidot.org/story?sid=5920"><u>大芬油画村</u></a>的商人联络了Iinstapainting，他们随后去<a target="_blank" href="https://www.instapainting.com/blog/company/2015/10/28/how-to-paint-10000-paintings/"><u>参观了这个知名的油画工厂</u></a>。大芬制作了世界60%的油画，这里聚集了8000多名画师，每年生产300万到500万幅油画。Iinstapainting说，客户想要的是可以负担得起的油画，它提供的大部分作品报价<a target="_blank" href="https://www.instapainting.com/products/order"><u>不到100美元</u></a>，而美国或其它西方国家的画家的作品太昂贵了。
+➜因签发假的证书Google惩罚赛门铁克
+https://www.solidot.org/story?sid=45972	18152
+Google本月早些时候报告，赛门铁克旗下的Thawte CA在Google不知情下为Google域名颁发了有效期一天的预签证书。赛门铁克随后表示，它<a target="_blank" href="http://www.symantec.com/connect/blogs/tough-day-leaders"><u>解雇了相关雇员</u></a>，并展开了内部审查，发现了其雇员还为5个域名颁发了23个测试证书，其中包括Google和Opera。Google认为，赛门铁克内部审计并不彻底，它花了几分钟就从 Certificate Transparency日志里发现了更多有问题的证书。赛门铁克随后证实，它发现了76个域名的164个问题证书，以及2456个未注册域名的证书。Google<a target="_blank" href="https://googleonlinesecurity.blogspot.com/2015/10/sustaining-digital-certificate-security.html"><u>批评赛门铁克连内部审计都做不好</u></a>。它要求从2016年6月1日起，赛门铁克颁发的所有证书都必须支持Certificate Transparency，不支持的赛门铁克新颁发证书可能会在使用Google产品时出现问题。Google要求赛门铁克更新他们的报告，详细解释如何采取措施阻止类似事件发生。
+➜俄罗斯宣布将在2030年前载人登月
+https://www.solidot.org/story?sid=45973	19059
+在周二莫斯科召开的空间技术大会上，俄罗斯航天局<a target="_blank" href="http://www.businessinsider.com/russia-announces-first-manned-mission-to-moon-2015-10"><u>宣布了登月计划</u></a>：2029年将载人飞船送上月球。俄罗斯和欧洲都表达了想在月球建设一个永久基地的想法，他们已经开始讨论如何朝此目标迈向第一步。上个月，俄罗斯联邦航天局宣布，将在2024年将着陆舱Luna 25送上月球南极。这个着陆舱将会探测月球表面，将为建立永久基地做准备。另有<a target="_blank" href="http://www.nanzao.com/sc/international/150b195e113555f/e-tai-kong-ji-hua-2029-song-ren-shang-yue-qiu-2017-song-hou-zi-shang-huo-xing"><u>报道称</u></a>，登陆宇宙飞船已经开始建造。
+➜Novena：没有秘密的笔记本电脑
+https://www.solidot.org/story?sid=45974	26853
+黄欣国(Andrew“bunnie”Huang)和Sean Cross发表文章<a target="_blank" href="http://spectrum.ieee.org/consumer-electronics/portable-devices/novena-a-laptop-with-no-secrets"><u>谈论了他们从零创造笔记本电脑Novena的经历</u></a>：由于摩尔定律放慢速度，如今车库发明家也能花几年时间开发出没有过时的高科技电子产品。Novena处理器采用的是40纳米工艺，而至今40纳米工艺仍然处于成本性能的中间位置。以前硬件制造商可能不愿意接受小批量产品的订单，但如今他们愿意接受小批量订单，以便于瞄准硬件创业这一成长中的市场。Novena采用的是开源设计，从硬件到软件，从驱动到固件全都开源，因为开源的要求，Novena不能使用英特尔私有固件的 x86处理器，而选择了基于ARM的Freescale i.MX6 SoC。黄欣国和Sean Cross已经向所有Novena众筹支持者交付了产品。Novena是一款没有先例的产品，它的电路图、电路板布局、机械设计文件、内核、驱动和应用程序都是开源的，任何人都可以下载，而他们的团队只有两个人。他们鼓励其他工程师也这么做。
+➜Mozilla正在整合Firefox开发者工具和Firebug
+https://www.solidot.org/story?sid=45975	29206
+领导Firebug项目开发的Jan Odvarko发表<a target="_blank" href="https://hacks.mozilla.org/2015/10/firebug-devtools-integration/"><u>文章</u></a>称，他们正在统一Firefox开发者工具和Firebug，他们正在将所有的Firebug功能移植到Firefox开发者工具。当Firebug 3发布时，它不再是另一个开发者工具，而是基于开发者工具的Firebug主题，让开发者工具看起来像Firebug。Firebug 3刚刚发布了<a target="_blank" href="https://github.com/firebug/firebug.next/releases"><u>第一个beta版本</u></a>，感兴趣的用户可以下载，但注意你的浏览器版本必须是<a target="_blank" href="https://developer.mozilla.org/en-US/Firefox/Releases/44"><u>Firefox 44</u></a>，而目前的Firefox正式版是41，Firefox 44预计将2016年1月正式发布。
+➜国际空间站上有潜在有害细菌
+https://www.solidot.org/story?sid=45976	31577
+鲜为人知的是：国际空间站（ISS）里<a target="_blank" href="http://news.sciencemag.org/biology/2015/10/international-space-station-home-potentially-dangerous-bacteria"><u>充斥着各种细菌和真菌</u></a>。一项<a target="_blank" href="http://www.microbiomejournal.com/content/3/1/50"><u>新研究</u></a>发现的令人信服的证据表明，来自人类皮肤的微生物遍及整个空间站，而其中一些细菌或许会对宇航员造成严重的危害。NASA与合作机构采用了一些特别措施减少微生物进入ISS的可能性，包括要求有效载荷通过“洁净室”，后者配备了高性能空气过滤系统并用消毒剂进行彻底清理。然而ISS本身却是6名“装满”了微生物的人类在地球轨道上的家。宇航员要在空间站上待足6个月，其间他们健身、梳头以及进行其他活动时例行脱落的皮肤细胞都可能污染隔离环境。JPL研究人员对这一问题展开了评估，<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/10/329594.shtm"><u>研究显示</u></a>，空间站尘埃样本中最常见的是源自宇航员皮肤的放线菌，这是一类机会致病菌，平时对人体无害，但在人体免疫功能下降时会引发炎症或皮肤不适。而地面洁净室的尘埃样本最常见的是变形菌。这说明，地面洁净室不是研究空间站环境的合适模型。
+➜任天堂透露第一个手游Miitomo
+https://www.solidot.org/story?sid=45977	32821
+任天堂<a target="_blank" href="http://blogs.wsj.com/japanrealtime/2015/10/29/nintendo-unveils-first-smartphone-game-live-blog/"><u>透露了</u></a>它的第一个移动游戏Miitomo，将在2016年3月发布，将是一款免费游戏，它是任天堂计划在2017年3月前发布的5款手游中的第一款。Miitomo允许玩家创建的Mii虚拟人物自动的互相沟通，帮助害羞的人社交。任天堂说后续发布的几款手游将需要付费才能游戏。任天堂<a target="_blank" href="http://arstechnica.com/gaming/2015/10/nintendos-first-mobile-app-will-let-mii-avatars-talk-to-themselves/#p3"><u>还谈论了</u></a>统一任天堂账号服务，允许游戏存档在主机或移动设备之间转移。
+➜使用无线信号识别墙另一侧的人
+https://www.solidot.org/story?sid=45978	34557
+<center>
+<iframe src="https://www.youtube.com/embed/7LTr02cJkiA" allowfullscreen="" frameborder="0" height="360" width="512"></iframe><br>
+<br>
+</center>
+MIT计算机科学和人工智能实验室的研究人员<a target="_blank" href="http://www.csail.mit.edu/RF_capture"><u>正在开发一种设备</u></a>，利用无线信号识别隔着墙壁的人。名为<a href="http://rfcapture.csail.mit.edu/">RF-Capture</a>（<a target="_blank" href="http://rfcapture.csail.mit.edu/RFcapture-paper.pdf"><u>论文</u></a>）的技术能跟踪人的手，能以90%的精确度区分墙壁另一边的15个人。这项技术可用于虚拟现实游戏，或在不需要演员穿戴传感器的情况下辅助动作捕捉，以及用于灾难救援等。RF-Capture利用20根天线发射无线信号，然后根据信号反射重组人物形象。无线信号的工作频率在5.46GHz和7.24GHz之间，能穿透墙壁。
+➜1300万000Webhost用户明文密码曝光
+https://www.solidot.org/story?sid=45979	36236
+提供<a target="_blank" href="http://error.000webhost.com/"><u>免费Web托管服务</u></a>的000Webhost被黑客在5个月前利用旧版PHP的漏洞入侵系统，窃取了1300多万用户的明文密码、电子邮件和登录IP地址。000Webhost免费版用户抱怨说，该公司屡次拒绝用户升级PHP语言的请求。如今被窃取的用户数据<a target="_blank" href="http://arstechnica.com/security/2015/10/13-million-plaintext-passwords-belonging-to-webhost-users-leaked-online/"><u>开始在网上流传</u></a>。000Webhost证实了此事，但对明文密码避而不谈，它只是建议用户修改密码。
+➜中国被怀疑入侵了海牙国际法院
+https://www.solidot.org/story?sid=45980	39178
+今年7月，设在荷兰海牙的常设仲裁法庭举行了中国和菲律宾南海领土纠纷的听证会。在听证会的第三天，法庭的网站突然下线。彭博社报道称，<a target="_blank" href="http://thediplomat.com/2015/10/did-china-just-hack-the-international-court-adjudicating-its-south-china-sea-territorial-claims/"><u>对网站的攻击源于中国</u></a>。攻击者在网页内植入了恶意程序，利用其感染访客的电脑。通过感染记者、外交官、律师或其他参与此事或对此事感兴趣的人的电脑，中国的黑客组织可能借此了解各方的反应。举例来说，如果越南或日本外交官访问了网页，他们的电脑感染了恶意程序后，中国有可能获得访问内部文件的权限，了解这些国家接下来会这么做。
+➜中国允许每对夫妻生两个孩子
+https://www.solidot.org/story?sid=45981	40133
+官方新华社报道，中共十八届五中全会通过全面实施二胎政策，以扭转中国人口老化趋势。中国在2013年放松了计划生育政策，允许一方为独生子女的夫妻生二胎。按照这一规定，在13.6亿人口中有1100万夫妇有资格生二胎。但根据计划生育委员会的数据，申请生二胎的夫妻远远低于预期。而与此同时，中国劳动适龄人口<a target="_blank" href="http://www.solidot.org/story?sid=42762"><u>已经连续三年出现下降</u></a>。适龄人口的减少推高了劳动力成本，削弱了制造业和出口竞争力。加上人口老龄化，许多人口政策专家一直建议重新审查人口政策，全面放开二胎。
+➜抗癌病毒疗法获得FDA的批准
+https://www.solidot.org/story?sid=45982	43183
+美国食品和药品管理局（FDA）<a target="_blank" href="http://www.nature.com/news/cancer-fighting-viruses-win-approval-1.18651?WT.mc_id=SFB_NNEWS_1508_RHBox"><u>批准了</u></a>第一种激活免疫系统去对抗癌症的基因改造病毒，它批准使用talimogene laherparepvec (T-VEC) 病毒去治疗晚期黑色素瘤。癌症研究人员希望FDA批准后能推动这种抗癌方法的研究。许多病毒偏爱感染癌细胞，因为癌细胞能压制抗病毒反应，这有利于肿瘤的生长但也让它容易感染病毒。因此病毒感染能破坏癌细胞同时又不影响相邻的健康细胞。
+➜多达1.8万中国Android应用会窃取短信
+https://www.solidot.org/story?sid=45983	46321
+安全公司Palo Alto Networks发表<a target="_blank" href="http://researchcenter.paloaltonetworks.com/2015/10/chinese-taomike-monetization-library-steals-sms-messages/"><u>博客</u></a>称，超过1.8万的中国Android应用会窃取用户的短信。这些应用都使用了淘米客的SDK，而淘米客的SDK被发现开始拷贝和上传用户的所有短信。淘米客是中国最大的移动广告平台服务商，它此前没有发现恶意行为，但最近却加入了短信窃取功能。不是所有使用淘米客SDK的应用会窃取短信，样本分析显示包含hxxp://112.126.69.51/2c.php网址的应用有短信窃取功能。有6.3万</span>Android应用使用的淘米客SDK，但只有1.8万会窃取短信。研究人员建议用户从官方Google Play商店下载应用。<br>

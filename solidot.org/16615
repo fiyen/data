@@ -1,0 +1,47 @@
+➜基于OpenCV的裸体检测
+https://www.solidot.org/story?sid=44594	6537
+<a href="/~HighRise">HighRise</a> 写道<i> "AI（人工智能）被用来处理一些奇怪的任务。算法网站Algorithmia搞出了一个“<a href="http://www.i-programmer.info/news/105-artificial-intelligence/8731-detecting-nudity-with-ai-and-opencv.html"><u>裸体检测器</u></a>”，当然这不是能通过图灵测试的超级AI，也不是《终结者》中“天网”级别的机器人。 据称，原理如下: 首先，利用OpenCV的人脸检测器及鼻子检测器，去检测鼻子。 然后，从鼻子处采样，得到肤色的样本。 最后，对全图进行检测，与鼻子处颜色相近的，都认为是肤色。 如果肤色占比高于一定值，则会认为，图片是裸体。 Algorithmia提供<a target="_blank" href="https://isitnude.com/"><u>在线Demo</u></a>，允许你上传照片。然后给出结果： R(Rude) 或者G(Good)。并给出置信度(0~1). &nbsp;测试中，奥巴马光膀子在海边的图片是GOOD的，但图像处理领域的经典女郎Lena，则被认为是裸体的(Rude)。 笔者认为：不要相信简报。基于肤色(无论RGB/HSV)来进行检测或过滤的准确度，结果总是令人失望的。
+"</i>
+➜SpaceX的Falcon 9火箭升空后爆炸
+https://www.solidot.org/story?sid=44595	10748
+<center>
+<iframe src="https://www.youtube.com/embed/ZeiBFtkrZEw" allowfullscreen="" width="480" frameborder="0" height="260"></iframe><br>
+<br>
+</center>
+美国时间6月28日，私人太空公司SpaceX执行它的第七次国际空间站补给任务（<a target="_blank" href="http://www.spacex.com/webcast/"><u>SpaceX CRS-7</u></a>），Falcon 9火箭带着Dragon货运飞船从佛罗里达州的卡纳维拉尔角发射升空，但升空后不久爆炸（<a target="_blank" href="http://www.floridatoday.com/videos/tech/science/space/spacex/2015/06/28/29423515/"><u>NASATV视频</u></a>）。消息人士<a target="_blank" href="https://www.reddit.com/r/spacex/comments/3beu7w/rspacex_crs7_official_postlaunch_conference_thread/cslid6b"><u>透露</u></a>，SpaceX创始人Elon Musk对发射失败非常生气，在公司总部对着工程师们咆哮。SpaceX共执行了19次商业飞行任务，这是第一次发生事故。Dragon除了携带补给外，还给空间站运去了一个观看流星雨的<a target="_blank" href="http://www.engadget.com/2015/06/27/meteor-camera-iss/"><u>照相机</u></a>，它是去年Orbital Sciences发射的流星照相机的备份，但那一次发射失败了，结果这一次也失败了。SpaceX设计的Dragon V2能在飞行出现意外时与火箭分离，但Dragon V2尚未进行过正式测试。
+➜希腊关闭银行实行资本管制并将再次举行全民公投
+https://www.solidot.org/story?sid=44596	12640
+在与国际债权人的纾困谈判破裂后，希腊关闭了该国的银行，<a target="_blank" href="http://www.ftchinese.com/story/001062742#adchannelID=1500"><u>实行了资本管制</u></a>，以防止出现金融混乱。希腊商业银行将关闭至7月6日，自动取款机每日取款限额为60欧元，支票兑现将被停止，定期存款将被锁定。雅典证券交易所也将关闭。希腊总理齐普拉斯(Alexis Tsipras)在宣布实行资本管制的时候向希腊人保证，他们的存款是安全的。希腊政府上周五晚间再次宣布将针对国际债权人提出的新纾困条件举行全民公投，此举引发雅典方面与欧元区伙伴国摊牌，把希腊进一步推向“退欧”的终局。与希腊资本管制相关联的是，比特币币值<a target="_blank" href="https://www.cryptocoinsnews.com/bitcoin-price-holding-ground-outlook-week/"><u>开始上涨</u></a>。
+➜日本测试暴雨到来前10分钟群发短信警告
+https://www.solidot.org/story?sid=44597	13119
+日本防灾科学技术研究所近日在关东地区进行通过短信方式发送“马上有强降雨”信息的社会实验。系统通过高性能雷达捕捉4000至5000米高空中漂浮的雨滴，并在其到达地面之前发送，使用者最快可在降雨前10分钟收到短信。系统根据雨滴的数量及形状进行观测的，对降雨量进行预测，若每小时超过30毫米，则发送名为“降雨马上将增强”的短信。以雨滴每秒降落速度最快可达10米计算，雨水将在收到短信后的几分钟至10分钟左右开始下降。实验将持续到10月底。
+➜迪士尼乐园禁止自拍棒
+https://www.solidot.org/story?sid=44598	14751
+迪士尼乐园<a target="_blank" href="http://www.orlandosentinel.com/travel/attractions/theme-park-rangers-blog/os-disney-world-ban-selfie-sticks-from-parks-2015-post.html"><u>开始禁止自拍棒</u></a>，这一规定将率先在奥兰多的迪士尼世界开始执行，然后逐步扩大到加州、巴黎和香港的乐园。禁止自拍棒的原因是它威胁到某些游乐设施的游客的安全。迪士尼乐园此前已经在某些游乐设施禁止自拍棒，但没有多少人遵守，工作人员给予口头警告也没有什么用。上周在迪士尼的加州冒险乐园，一名乘坐过山车的游客拿出了自拍棒，导致过山车停止和关闭一小时。
+➜美国制造的成本正逼近中国
+https://www.solidot.org/story?sid=44599	18032
+美国制造的成本<a target="_blank" href="https://fortune.com/2015/06/26/fracking-manufacturing-costs/"><u>正日益逼近中国</u></a>，原因是水力压裂法引起的原油价格下降、中国劳动力成本的上升以及美国公司的生产力提升，其中最大的因素是水力压裂。波士顿咨询公司BCG估计美国制造的平均成本仅仅比中国高5%，比欧洲经济体低10%到20%。BCG预测到2018年美国制造的成本将比中国低2%到3%。美国在水力压裂上优势能持续多久？哈佛商学院的Michael Porter预测能领先15年，美国有 101,117个水力压裂井，中国只有258个。
+➜NoScript也有白名单，但有个域名输错了
+https://www.solidot.org/story?sid=44600	26497
+AdBlock Plus有白名单，NoScript也有白名单。AdBlock Plus的白名单涉及到金钱交易，因此受到了指责。而NoScript的白名单则是为了避免让网站出错，今天的网站嵌入了大量JS，屏蔽JS会导致网站功能或样式出现问题。NoScript的白名单包括了常用的网站如Google、微软、雅虎、Mozilla、Paypal、以及CDN服务如cdnjs.cloudflare.com等。<a target="_blank" href="http://thehackerblog.com/the-noscript-misnomer-why-should-i-trust-vjs-zendcdn-net/"><u>其中一个CDN域名引起了注意</u></a>：vjs.zendcdn.net (VideoJS CDN)。zendcdn.net的域名被人发现可以花10美元购买到（已经被重定向到上面的网站），如果有恶意攻击者使用这个域名托管恶意JS脚本，那么NoScript将不会屏蔽它。进一步调查<a target="_blank" href="https://forums.informaction.com/viewtopic.php?f=10&amp;t=17066"><u>发现</u></a>，根本原因是有人输错了，VideoJS CDN的真正域名是vjs.zencdn.net，多输了一个d。如果你不信任官方的白名单，可以在使用时清空白名单。
+➜吴修铭认为Google确有滥用垄断之嫌
+https://www.solidot.org/story?sid=44602	30616
+哥伦比亚法学院教授、“网络中立”一词的作者吴修铭曾经是Google的拥护者，但在最新的一项的研究中，<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-06-29/high-profile-study-turns-up-the-antitrust-heat-on-google"><u>他走到了Google的对立面</u></a>。他参与的<a target="_blank" href="http://www.slideshare.net/lutherlowe/wu-l"><u>这项研究</u></a>得到了Google竞争对手Yelp的资助。在欧盟针对Google的反垄断诉讼中，搜索巨人为在搜索结果中整合自家内容辩护，称这是为了更好的用户体验。在 Yelp资助的研究报告中，吴修铭和同事承认在许多情况下，Google这么做确实对用户有利，但在另一些情况下Google是伤害了消费者。吴修铭称，研究结果使他相信Google确实做错了。他说，如果伤害了竞争对手但帮助了消费者，此行为是合法的；但如果伤害竞争对手又伤害了消费者，此行为则没有正当理由。他不认为应该免除Google的罪行。
+➜明天午夜一分钟将有61秒
+https://www.solidot.org/story?sid=44603	35959
+6月30日午夜增加一秒，协调世界时23:59:59（北京时间7月1日7:59:59）的下一秒将记为23:59:60（7:59:60）。增加闰秒是为了与太阳时保持一致，地球的自传受到了月球引力的牵引而在减慢，数百万年前地球一天只有22小时。自1972年以来，闰秒已经发生了25次，上一次是在2012年。增加一闰秒听起来简单，<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-06-28/with-61-seconds-in-a-minute-markets-brace-for-trouble"><u>但在实际中并不简单</u></a>。Google采用的是闰秒弥补的方法；美国洲际交易所将<a target="_blank" href="https://www.theice.com/leap-second"><u>延期</u></a>所有的市场转换时间；这是高频交易时代活跃交易时间首次增加闰秒，东京、韩国和澳大利亚的交易所都计划采用闰秒弥补方法，即将一闰秒切割成7200份，分散在2小时内。东京、韩国和澳大利亚的交易所平均一秒有37亿股票换手。
+➜万里长城三成城墙消失
+https://www.solidot.org/story?sid=44604	37327
+官方媒体<a target="_blank" href="http://www.nanzao.com/sc/national/14e3d828ff1de35/wan-li-chang-cheng-zhuang-tai-kan-you-san-cheng-cheng-qiang-yi-xiao-shi"><u>报道</u></a>，因自然损耗、人为破坏以及文物保育措施不到位，万里长城近三成城墙被毁。历代长城总长度为21196.18千米，现今的万里长城多指明代修建的长城。按照此前测量的数据，明长城全长8851.8千米，包含2000多千米的天然险作为天然墙体，以及长度为6259.6千米的人工墙体。而在这6200多千米的人工墙体中，目前只有513.5千米保存较好，保存一般的有1104.4千米，较差的有1494.7千米，差的则有1185.4千米，已消失的则达1961.6千米，约长城总长的3成。
+➜我们应该信任小米路由器？
+https://www.solidot.org/story?sid=44605	39677
+路由器是决定网络数据传输路径的计算机设备，它通常是家庭网络或企业网络的第一道网络关口，是内部网络和外部网络的交界处。你的数据将经过路由器一路传输到目的地。在所谓的智能时代，一些人认为我们应该给路由器增加更多功能。但这些功能是相当可疑的。以用户的名义收集转发数据和劫持页面，这就是小米路由器<a target="_blank" href="http://www.solidot.org/story?sid=44500"><u>被发现正在做的事情</u></a>，该公司还发表了<a target="_blank" href="http://bbs.xiaomi.cn/thread/index/tid/11491748">一份声明</a>，宣称对它的指责都是“借机炒作恶意煽动”，“一些别有用心的恶意夸大”，“利用'劫持'、'代码注入'等专业术语制造恐慌、煽动用户。”看起来，小米在学习外交部发言人语言风格上已经做到了青出于蓝。小米路由器目前虽然移除了插入广告，<a target="_blank" href="http://drops.wooyun.org/tips/6820"><u>但JS文件仍然在那里</u></a>，它可以随时更新规则执行任何任务——在你不那么注意的时候。
+➜用消除重复的加密工具备份数据
+https://www.solidot.org/story?sid=44606	43345
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "数据的容量和价值日益增长，备份以及快速可靠的恢复数据也日益变得重要。随着数据在容量上的快速增长，改进储存利用率也愈加重要。消除重复是一种特殊的数据压缩技术，用于消除重复数据的多重拷贝，从而改进储存利用率。数据不仅仅对于创造者重要，政府、竞争对手、罪犯、窥探者都热衷于访问你的数据，甚至可能想要窃取你的数据，因此加密对于保护数据也是必不可少的。所以<a target="_blank" href="http://www.linuxlinks.com/article/20150628060000607/BackupTools.html"><u>你需要能消除重复的加密工具去备份数据</u></a>。有许多开源工具提供了消除重复和加密和备份的功能，这些工具包括<a target="_blank" href="https://attic-backup.org/"><u>Attic</u></a>、<a target="_blank" href="https://borgbackup.github.io/borgbackup/"><u>Borg</u></a>、<a target="_blank" href="http://obnam.org/"><u>Obnam</u></a>、<a target="_blank" href="http://duplicity.nongnu.org/"><u>Duplicity</u></a>等。"</i>
+➜地球上的大型陨石坑只有128个
+https://www.solidot.org/story?sid=44607	44618
+火星上有超过30万个陨石坑，月球大概有数百万个，但地球表面至今只发现128个确认的大型陨石坑。发表在《Earth and Planetary Science Letters》期刊上的<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0012821X15003659"><u>研究</u></a>认为，地球上的大型陨石坑就这么多，<a target="_blank" href="http://news.sciencemag.org/earth/2015/06/earths-colossal-crater-count-complete?rss=1"><u>不可能再发现了</u></a>。研究人员综合考虑了小行星撞击率和地球风雨造成的侵蚀率。对于已经发现的70个直径大于6公里的陨石坑，研究人员认为记录已经完整了，不可能再发现了。
+➜SpaceX发射失败被指与火箭上一级液氧罐有关
+https://www.solidot.org/story?sid=44608	47254
+SpaceX的火箭发射失败，官网更新了一份<a target="_blank" href="http://www.spacex.com/news/2015/06/28/crs-7-launch-update"><u>初步分析报告</u></a>，称事故与上一级液氧罐有关。报告称，火箭飞行大约139秒时，在第一级关闭前，火箭上一级液氧罐经历了一次增压事件。遥测数据显示火箭第一级是正常的，Dragon飞船在分离后的一段时间内也保持完整。SpaceX称它的团队正在研究数据寻找导致失败的根本原因。Dragon是过去八个月损失的第三艘空间站货运飞船。国际空间站的项目经理Mike Suffredini说，货运飞船的损失他们都有心理准备，但没预计到的是一年内损失了三艘。空间站还有足够的补给可支持6名宇航员到今年10月，下一次补给任务由俄罗斯负责，计划于7月发射，日本的 HTV飞船将在今年8月发射，目前空间站上<a target="_blank" href="http://arstechnica.com/science/2015/06/spacex-launch-failure-blamed-on-upper-stage-oxygen-tank/"><u>只有3名宇航员</u></a>。

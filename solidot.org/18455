@@ -1,0 +1,12 @@
+➜Linux 内核批准采用中性的术语
+https://www.solidot.org/story?sid=64919	30598
+Linus Torvalds 批准了 Linux 内核代码和文档采用中性术语的 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=49decddd39e5f6132ccd7d9fdc3d7c470b0061bb" target="_blank"><u>pull request</u></a>。从现在开始，内核开发者<a href="https://www.zdnet.com/article/linux-team-approves-new-terminology-bans-terms-like-blacklist-and-slave/" target="_blank"><u>被要求使用</u></a>新的术语去替换 master/slave 和 blacklist/whitelist。拟议的 master/slave 替代包括：primary/secondary，main/replica 或 subordinate，initiator/target，requester/responder，controller/device，host/worker 或 proxy，leader/follower，director/performer；blacklist/whitelist 的替代包括：denylist/allowlist 和blocklist/passlist。 Linux 团队还没有推荐特定的替代术语，而是建议开发者选择合适的。新的术语将用于新的内核代码和文档，而旧的术语则被用于维护旧的代码和文档。Linux 内核是最新一个从代码中移除带种族色彩术语的项目。
+➜Android 10 的普及率最快
+https://www.solidot.org/story?sid=64920	46018
+Android 版本的碎片化一直 Android 生态系统面临的大问题，而 Google 刚刚<a href="https://www.theverge.com/2020/7/9/21319238/android-10-fastest-adoption-rate-google-software-update" target="_blank"><u>宣布了一个好消息</u></a>：去年 9 月发布的 Android 10 是所有 Android 版本中普及率最快的，发布五个月设备安装量已经达到了一亿。但搜索巨人没有提供安装百分比等数据，它已经完全停止更新不同 Android 版本的占有率数据。相比下，苹果的数据很清晰：它的  iOS 13 安装比例为 81%。苹果完全控制了它的软件和硬件，而 Google 只控制软件。
+➜Youtube《浮生一日》征集用户7月25日生活片段
+https://www.solidot.org/story?sid=64921	46099
+<a href="/~cutpigsrollaroundint">cutpigsrollaroundint</a> 写道 <i>"2010年，Youtube在五周年活动中邀请用户上传在2010年7月24日星期六拍摄的自己生活故事片段，这些近4500小时的原始视频片段最后被剪辑成一个半小时的纪录片<a href="https://www.youtube.com/watch?v=JaFVr_cJJIY" target="_blank">《浮生一日》</a>（Life in a Day，<a href="https://en.wikipedia.org/wiki/Life_in_a_Day_(2011_film)">维基百科</a>，<a href="https://movie.douban.com/subject/5387041/">豆瓣</a>），在次年的圣丹斯电影节中展出。十年后的今天，Youtube Origins再度邀请用户<a href="https://lifeinaday.youtube/">参与《浮生一日2020》活动</a>，日期定在2020年7月25日，视频提交窗口将在当日开放，并于8月2号截止。2020年已经发生了太多的事情，澳大利亚森林火灾、新冠疫情爆发，遍及世界各地的“黑人的命很重要”抗议活动，因此今年的主题是爱、恐惧和希望。<a href="https://lifeinaday.youtube/take-part/" target="_blank">参赛要求</a>没有太多的限制：讲故事、拍摄稳定、语言不限、高画质24帧、尽力收音和无滤镜。"</i>
+➜西非马里屏蔽社交网络和消息应用
+https://www.solidot.org/story?sid=64922	46177
+西非马里共和国发生了大规模民众抗议，抗议者占领了首都巴马科的国家广播公司，要求总统 Ibrahim Boubacar Keïta 下台，呼吁进行政治改革。7 月 10 日，在抗议声中政府<a href="https://netblocks.org/reports/social-media-restricted-in-mali-amid-protests-against-president-QyKpdX8D" target="_blank"><u>部分屏蔽了</u></a>社交网络和消息应用，这一限制没有影响到全部网民。马里主要移动运营商 Orange 屏蔽了社交网络 Twitter 和 Facebook 以及消息应用 WhatsApp。这不是第一次马里限制社交网络，2018 年的总统选举期间政府就曾屏蔽社交媒体。

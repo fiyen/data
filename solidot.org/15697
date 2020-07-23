@@ -1,0 +1,32 @@
+➜传感器+大数据：GE打造工业互联网
+https://www.solidot.org/story?sid=32807	9461
+<a href="/~c2oo7">c2oo7</a> 写道 <i>"GE（通用电气）为未来业务起了一个响亮的名字——<a href="http://www.ctocio.com/ccnews/9954.html">工业互联网。</a>这是GE的研发部门杜撰出来的名词，GE希望通过在其产品中增加更多的传感器来获取海量数据，并最终帮助公司提高其机车飞机引擎、核磁共振仪器等设备的能源效率。
+GE计划未来三年在“工业互联网”项目上投入15亿美元，其中一部分预算将用于支持在加州圣拉蒙市新成立的软件研发中心的研究项目。例如，该研究中心的机器学习专家Anil Varma正在实验如何筛选GE生产的2万台喷气引擎中的不易察觉的警报信号，以此来预测哪些设备需要进行维护。对于某些型号的引擎，Varma的算法能够提前一个月预测其维护需求，预测准确率达到70%，这可以极大减少飞行延误。"</i>
+➜GNU sed维护者因反对FSF决定辞职
+https://www.solidot.org/story?sid=32808	34876
+在GnuTLS（SSL、TLS和DTLS协议实现）<a href="http://thread.gmane.org/gmane.network.gnutls.general/3026">宣布</a>退出GNU项目之后，另一位长期的GNU项目维护者因为反对自由软件基金会（FSF）的决议而<a href="http://lwn.net/Articles/530460/">宣布辞职</a>。
+<br>
+<i>9月29日，FSF主席RMS（Richard Stallman）<a href="http://www.fsf.org/blogs/rms/assigning-copyright">讨论了自</a>由软件中的代码版权归属问题，指出如果一个自由软件项目的版权支配权掌握在一个人或一家公司手中，那么这个人或这家公司可以轻而易举的改变所有权，将自由软件变为私有软件，把志愿者的代码变成私有代码。然而在另一方面，自由软件基金会（FSF）自己也是如此做的，虽然出发点和意图也许是千差万别，它<a href="http://www.gnu.org/help/evaluation.html">要求</a>支配所有冠以GNU前缀的项目的代码版权，以便于当有人侵犯GPL之后可以更好的执行版权。GnuTLS项目主要由两位开发者维护，他们不同意FSF的版权要求，<a href="http://lwn.net/SubscriberLink/529522/854aed3fb6398b79/">因此宣布退出GPL项目</a>。RMS<a href="http://lwn.net/Articles/529560/">回应</a>称，GnuTLS不属于个人，他们可以自由创建分支，但无权直接将GnuTLS移出Gnu项目。GNU sed和 GNU grep项目的维护者Paolo声援GnuTLS项目，认为FSF对Gnu项目没有起任何作用，给一个项目冠名Gnu也不再有任何吸引力。</i>
+➜LLVM 3.2发布
+https://www.solidot.org/story?sid=32809	35910
+LLVM编译器套件和Clang C编译器发布了<a href="http://llvm.org/releases/3.2/docs/ReleaseNotes.html">3.2版</a>。尽管自3.1发布之后只经历6个多月时间的开发，但新的版本仍是一次巨大分享，提供了大量的改进和新特性。Clang C/C++/Objective-C前端提供了行业领先的C++'11支持，改进诊断，改进C11和Objective-C，Clang 静态分析器现在支持跨过程分析。LLVM 3.2初步加入了自动向量器，支持多种新的ARM处理器，改进 X86 CPU的AVX支持，代码生成支持NVIDIA PTX virtual ISA，等等，详细可见发布公告。
+➜2011 AG5不会在2040年与地球相撞
+https://www.solidot.org/story?sid=32810	37598
+小行星2011 AG5被认为有极高的可能性<a href="http://science.solidot.org/article.pl?sid=12/03/07/0331247&amp;from=rss">与地球相撞</a>，它的直径有140米，相当于足球场大小（相比较下，通古斯事件被认为可能是一颗直径60米的天体造成的）。今年上半年科学家称它在2040年有1:625的几率撞上地球，表示需要更多的观察才能判断最终的相撞几率。本周五，NASA喷气推进实验室近地天体项目在分析夏威夷双子北座望远镜的最新观察数据后，<a href="http://edition.cnn.com/2012/12/21/us/space-asteroid-threat/index.html?hpt=hp_c1">宣布</a>小行星2011 AG5与地球相撞的风险已经降低到几近于无。
+➜物质有超过五百种相态
+https://www.solidot.org/story?sid=32811	43797
+<p>忘记固态液态和气态吧，<a href="http://phys.org/news/2012-12-phases-phase.html">物质有超过五百种相态</a>。MIT凝聚态物理学家<span lang="zh-Hans"><a href="http://dao.mit.edu/~wen/">文小刚</a>教授（即将加盟加拿大圆周理论物理研究所）等人在《科学》上发表了一篇<a href="http://www.sciencemag.org/content/338/6114/1604.abstract?sid=0ab704e5-85d5-4372-9b03-75739a243e77">论文</a>（<a href="http://dao.mit.edu/~wen/pub/dDSPT.pdf">PDF</a>），介绍了一种新的分类系统能成功为对称性保护（symmetry-protected）物质相态分类。MIT研究人员本周还在《自然》上发表论文<a href="http://www.solidot.org/story?sid=32795">宣布</a>发现了新的磁性状态quantum spin liquid(QSL)，QSL即是文小刚和同事在理论上作出预言的新相态。</span></p>
+<p><span lang="zh-Hans"><i>凝聚态物理学是一门发现和描述多数物质相态的物理学分支，而物质相态分类通常是根据原子排列，其中的关键是对称性。例如液态即是高度对称的，而冰晶体却是缺少对称。其实，冰在许多方面还是对称的，但从高对称液态水的角度看它的对称性破缺了。通过描绘对称性和对称性在何处如何破缺而对物质进行分类的理论被称为朗道范式。</i><br>
+</span></p>
+➜Minecraft纪录片通过海盗湾免费发布
+https://www.solidot.org/story?sid=32812	45065
+<p>流行游戏Minecraft纪录片《<a href="http://www.2playerproductions.com/projects/minecraft">Minecraft: The Story of Mojang</a>》的制片商<a href="http://www.2playerproductions.com/">2 Player Productions</a>，本周六将纪录片<a href="https://thepiratebay.se/torrent/7946763/Minecraft__The_Story_of_Mojang">种子文件</a>上传到海盗湾，让任何人都可以免费合法下载。电影文件的大小为2.52GB，提供了英文字幕。2 Player Productions在上传说明中称，他们知道视频终有一天会出现的BT网站上，盗版已经是一种生活方式，人们有许多理由去下载盗版视频，其中一些人可能认同 Gabe Newell的盗版“是一种服务问题”的说法，2 Player Productions指出他们提供<a href="http://redux.com/minecraft-movie">8美元</a>的无DRM数字下载和 <a href="http://www.fangamer.net/">20美元的 DVD</a>两种付费方式。 <br>
+</p>
+<p>
+</p>
+<p></p>
+<!--more-->
+<div align="center"><iframe src="http://www.youtube.com/embed/SXEdspVDMxw?feature=player_embedded" allowfullscreen="" frameborder="0" height="360" width="640"></iframe>
+<br>
+<br>
+Youtube预告片</div>

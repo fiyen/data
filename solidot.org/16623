@@ -1,0 +1,52 @@
+➜奇虎360和Go语言
+https://www.solidot.org/story?sid=44660	9828
+奇虎360的软件工程师在Go语言官方博客上发表文章<a target="_blank" href="http://blog.golang.org/qihoo"><u>介绍该公司使用Go语言的经验</u></a>。尽管Google被封杀，但该公司主导开发的Go语言在中国非常受欢迎，而让很多人<a target="_blank" href="https://news.ycombinator.com/item?id=9840824"><u>感到不可思议的是</u></a>，奇虎是一家受争议的公司，同时还是封杀Google的帮凶。在Go博客文章中，奇虎的工程师称他们从2012年开始使用Go，被用于旗下产品的推送服务。奇虎的产品多为免费，它的收入来源与推送关系密切。奇虎工程师称，基于Go的推送系统最初运行在20台服务器上，有2000万的实时连接，一天发送200万条信息。今天，这套系统运行在了400台服务器上，支持2亿+的实时连接，每天发送超过100亿条信息。
+➜巴西福音派设立无罪版的Facebook
+https://www.solidot.org/story?sid=44661	11818
+一群巴西福音派的基督徒筹集到1.6万美元的资金<a target="_blank" href="http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/11718235/Brazilian-Evangelicals-set-up-a-sin-free-version-of-Facebook.html"><u>创建了</u></a>福音派的Facebook—— <a target="_blank" href="http://facegloria.com/index.php?r=user/auth/login"><u>Facegloria.com</u></a>。任何人都可以在这个福音派社交网络上注册，但你的行为将会受到许多限制，如禁止咒骂，网站有600个关键词；禁止暴力或色情内容，禁止刻画同性恋行为的照片或视频；这里不能点赞（liking），你只能点阿门（Amen）。网站上线一个月吸引了10万用户注册。网站的一位创始人Atilla Barros告诉媒体，在Facebook上你会看到大量的暴力和色情，这促使他们去创建一个谈论上帝、爱和传播上帝福音的社交平台。他希望所有的巴西福音派基督徒都能转移到Facegloria上。除了技术层面的限制，Facegloria还有20名志愿者在幕后清除有伤风化的内容。
+➜Mozilla考虑从Firefox剥离XUL和XBL
+https://www.solidot.org/story?sid=44662	14448
+在Mozilla的邮件列表上，Firefox工程总监<a target="_blank" href="https://www.linkedin.com/pub/dave-camp/2/418/218"><u>Dave Camp</u></a>宣布他们正考虑对Firefox进行一次大的改变——<a target="_blank" href="https://mail.mozilla.org/pipermail/firefox-dev/2015-July/003063.html"><u>移除XUL和XBL</u></a>。Dave Camp称，这项计划的讨论尚处于早期阶段，还有许多问题需要讨论，如应该采用什么技术作为替代，对扩展开发者的影响，花费的时间以及质量问题，等等。之所以考虑移除XUL和XBL是出于几个方面的原因：Web和Web开发演化出了一套新的标准和技术，Mozilla应该跟谁； XUL和XBL不是Web技术，没有获得HTML那样程度的关注，它的性能问题没有修正，在 Gecko渲染引擎中创造了许多不必要的复杂度，即使是有经验的Web开发者也很难快速进入状况。Mozilla正在用Rust语言开发一个<a target="_blank" href="https://lwn.net/Articles/647969/"><u>新的渲染引擎Servo</u></a>，计划在今年底发布一个 alpha版。
+➜微软计划本周完成Windows 10 RTM候选版
+https://www.solidot.org/story?sid=44663	16810
+The Verge援引知情人士的消息<a href="http://www.theverge.com/2015/7/6/8899919/microsoft-windows-10-rtm"><u>报道</u></a>，微软计划最早在7月9日完成Windows 10 RTM（release to manufacturing）版。RTM的版本号已被发现是<a target="_blank" href="https://buildfeed.net/build/5440"><u>build 10176</u></a>。微软计划在7月29日正式发布Windows 10，一旦RTM版准备就绪，拷贝将会发送给它的PC合作伙伴。对于过去的Windows系统而言，RTM是一个重要的里程碑，但如今微软已经采用了Windows即服务的定期更新模式，RTM不再像以前那么重要了。
+➜中国的机器人需求大增
+https://www.solidot.org/story?sid=44664	17518
+中国开始将工作交给机器人来做，它已经成为全球最大的机器人市场。国际机器人学联合会预计到明年底，中国安装的工业机器人数量<a target="_blank" href="http://cn.wsj.com/gb/20150706/cec163023.asp"><u>将居世界之首</u></a>。华盛顿信息科技与创新基金会经济研究分析师Adams Nager称，我们会认为中国主要是生产廉价的电子产品，但这并不是中国现在关注的重点。他表示，中国正在把那些高度依赖手工劳动的行业（如服装和鞋子生产）的生产转到国外去，专注于发展钢铁、电子等资本密集型行业，而自动化是这些行业的一大驱动力。国际机器人学联合会称，中国的机器人需求将继续迅猛增长的一个原因是中国的机器人密度仍相对较低。在中国，每1万名工厂工人仅拥有约30个机器人，德国是中国的10倍。中国政府2013年提出到2020年每万名工人使用100台机器人。 <br>
+➜最新照片确认冥王星表面呈红色
+https://www.solidot.org/story?sid=44665	25966
+<div align="center"><img src="http://img.solidot.com.cn/0/829/liit2ZucTGR6U.png" align="" width="480" height="333"><br>
+<br>
+</div>
+新地平线号飞行器即将于7月14日近距离飞越冥王星，NASA公布了飞行器进入安全模式前拍摄的<a target="_blank" href="http://www.nasa.gov/feature/latest-images-of-pluto-from-new-horizons"><u>最新高清照片</u></a>，照片显示冥王星表面并非是我们以前认为的蓝灰色，而是呈现红色，是太阳系中的又一颗<a target="_blank" href="http://www.nasa.gov/nh/pluto-the-other-red-planet"><u>红色星球</u></a>。NASA认为，红色极有可能是宇宙射线和太阳紫外线与冥王星大气层和表面的甲烷发生作用形成的烃分子导致的。这是<a target="_blank" href="http://motherboard.vice.com/read/new-horizons-is-finally-close-enough-to-confirm-that-pluto-is-red"><u>首次直接观察到</u></a>冥王星表面是偏向红色。
+➜中国的iPhone越狱产业链
+https://www.solidot.org/story?sid=44666	29007
+今年3月，中国的<a target="_blank" href="http://www.taig.com/mss"><u>太极越狱团队</u></a>邀请了国外知名的iPhone黑客到中国来介绍越狱技巧。越狱是绕过苹果iOS限制安装第三方应用商店和应用的一种说法。Google的Android允许你安装第三方应用商店，但iOS则有着严格的限制，越狱者通常是利用了系统的漏洞去安装第三方应用，而苹果通常会通过更新系统去堵上越狱的漏洞，这是一个猫与鼠的游戏。在中国，iPhone非常受欢迎，但付费购买应用还没有成为每个人的习惯，越狱下载破解软件因此就流行起来，<a target="_blank" href="http://www.forbeschina.com/review/201507/0043749.shtml"><u>因为流行它也逐渐的产业化了</u></a>，中国的互联网巨头甚至公开支持这一做法，不在乎会惹恼苹果。而发现iOS 0day漏洞的黑客能以数千美元到数十万美元的价格将其出售给中国公司。目前中国最流行的第三方iOS应用商店是阿里巴巴的PP助手，它不需要越狱就能安装在iOS设备上，但PP助手利用了其它方法绕过了苹果的安全政策，它利用企业证书，而企业证书本应该用于企业在内网分发定制应用，它们被严禁用于商业用途。苹果可以撤销这份证书，但PP助手也能轻易获得一份新的证书。
+➜Google的自主驾驶汽车上月两次被追尾
+https://www.solidot.org/story?sid=44667	30318
+Google公布了<a target="_blank" href="http://static.googleusercontent.com/media/www.google.com/en/us/selfdrivingcar/files/reports/report-0615.pdf"><u>六月份的自主驾驶汽车（简称AV）月报</u></a>。AV分别于6月4日和6月18日两次被停在后面的汽车追尾，撞到了后保险杠。两次都是因为后面汽车中的人类司机的过错，两次事故中都没有人受伤，汽车也没有受到破坏，只是表面被刮了下。Google从前不久开始每月报告其自主驾驶汽车的安全行驶情况，至今它的AV自主驾驶总里程数超过了105万英里，遭遇的大部分事故都属于追尾，人工智能基本没犯错误。
+➜恶意程序更新Flash防止它被其它恶意程序利用
+https://www.solidot.org/story?sid=44668	31947
+这是一次罕见的恶意程序帮助被感染的电脑更新Flash播放器的事件：被称为Kovter的恶意程序是一种广告点击欺诈软件，它利用浏览器或流行插件如Flash Player、Adobe Reader、Java和Silverlight的漏洞感染电脑，一旦安装之后，它会劫持浏览器进程模拟用户点击广告从而产生收入。它通常利用的是已知的漏洞而不是0day漏洞，针对的是那些没有及时更新漏洞软件的计算机。为了防止其它恶意程序利用Flash漏洞感染电脑，Kovter帮助被感染的电脑<a target="_blank" href="http://www.itworld.com/article/2944275/ad-fraud-trojan-updates-flash-player-so-that-other-malware-cant-get-in.html"><u>将Flash更新到最新版本</u></a>。
+➜中国将加快水电建设
+https://www.solidot.org/story?sid=44669	33559
+中国上周承诺到2030年让非化石能源发电量占总发电量的20%，这一承诺意味着中国将会加快建设水电站、核电站、以及风力和太阳能发电站。根据十三五计划，到2020年水电装机容量将从目前的290GW增加到350GW。这一计划<a target="_blank" href="http://www.ftchinese.com/story/001062880"><u>引发了河流保护组织的担忧</u></a>。国际河流的发言人Stephanie Jensen-Cormier说：“到十三五规划结束时，中国西南的河流会基本消失。”中国过去20年大举建设大坝已经耗尽了一些河流的生命力，其中包括黄河及其支流，这些河流如今已变成“阶梯状的”连串水库。为了给水库让路，数百万人被迫搬迁，鱼类和江豚大量灭绝。
+➜前高盛程序员的有罪判决再次被推翻
+https://www.solidot.org/story?sid=44670	34886
+前高盛程序员Sergey Aleynikov的有罪判决<a target="_blank" href="http://www.nytimes.com/2015/07/07/business/dealbook/conviction-of-former-goldman-programmer-is-overturned.html"><u>再次被推翻</u></a>，法官表示找不到充分的法律依据去支持陪审团的定罪。<br>
+<i>Sergey
+Aleynikov于2009年辞职加盟了一家高频交易创业公司，他因为在公司内将一个软件的源代码下载到家用电脑和上传到一个软件库内而遭到逮捕，被控偷窃公司机密。2010年被定罪，2012年上诉法院推翻了有罪判决。但在2012年，他又再次被逮捕。今年5月，陪审团<a target="_blank" href="http://www.solidot.org/story?sid=43925"><u>再次裁决他有罪</u></a>，他的罪名是非法使用秘密的科学材料。但法官认为，Aleynikov被定罪的罪名需要检方提供证据证明他制作了所下载文件的有形复制品。但截至本周一，检方没有提供任何证据证明Aleynikov下载的源代码能被接触或有物理形式。纽约州的此项犯罪法律需要现代化。</i>
+➜新西兰新法律将网络欺凌定为犯罪
+https://www.solidot.org/story?sid=44671	37654
+新西兰议会上周批准的新法律《Harmful Digital Communications Bill》于本周一生效，新的法律将<a target="_blank" href="http://www.bbc.co.uk/newsbeat/article/33409220/new-zealand-is-making-trolling-illegal"><u>网络欺凌定为特定犯罪行为</u></a>，人们将会因为在网络上使用伤害性的、威胁性的和冒犯性的语言而遭到罚款或被送入监狱。科技公司预计将会要求帖子作者删贴，如果24小时内没有遵守的话它们会自己去删贴。批评者认为新的法律过于宽泛，可能会限制言论自由，而其他人则认为起诉将会有很高的门槛。
+➜男性比女性更容易患心脏病
+https://www.solidot.org/story?sid=44672	39313
+在所有国家女性的预期寿命都高于男性，发表在PNAS上的<a target="_blank" href="http://www.pnas.org/content/early/2015/07/01/1421942112"><u>一篇论文</u></a>认为，最主要原因是心脏疾病，其它因素还包括吸烟行为。<br>
+<i>根据WHO的统计，男性平均寿命比女性短5到10年，中国的男女平均寿命差为4.99岁（77.37岁对72.38岁）。这种性别差异已被广泛接受。但科学家发现，这种情况其实是在近代发生的。研究显示，进入二十世纪的时候，男性和女性的平均寿命才出现了显著差异。十九世纪到二十世纪初，人类开始预防传染病和改善饮食，采取了一系列有益健康的措施。这些努力大大降低了人类的死亡率，但女性的获利明显更多。研究人员发现。<a target="_blank" href="http://www.ebiotrade.com/newsf/read.asp?page=201577140559720"><u>心脏病是导致男性寿命较短的罪魁祸首</u></a>。
+</i>
+➜在埃塞俄比亚，狒狒与狼结盟
+https://www.solidot.org/story?sid=44673	42741
+灵长类动物学家在东非埃塞俄比亚考察时<a target="_blank" href="http://www.newscientist.com/article/dn27675-monkeys-cosy-alliance-with-wolves-looks-like-domestication.html"><u>观察到狒狒与狼和平相处</u></a>，狒狒群容忍狼在它们中间游荡，而狼则忽略了潜在的美餐——狒狒幼儿——而专心搜寻更容易捕捉的啮齿动物。这一不同寻常的约定可能会让人想起人类驯服狗。灵长类动物学家注意到，狼可以走到相距狒狒不到一米的地方，它们没有恐慌，反而像是熟视无睹。狼通常是在啮齿动物最活跃的中午走到狒狒群中间。研究人员跟踪了个别狼17天，发现如果狼只是依靠自己捕捉啮齿动物其成功率只有25%，而在狒狒存在的情况下成功率提高到了67%。一种可能的解释是体型和颜色与狼相近的狒狒会让啮齿动物分心，狼能更容易在没有被发现的情况下接近这些小动物。
+➜《Inside Out》背后的科学
+https://www.solidot.org/story?sid=44674	45644
+加州大学的两位心理学教授在《纽约时报》上阐述了<a target="_blank" href="http://www.nytimes.com/2015/07/05/opinion/sunday/the-science-of-inside-out.html?_r=0"><u>皮克斯最新动画片《Inside Out》背后的科学理论</u></a>。两位教授透露，早在五年前本片的导演Pete Docter就联络他们，讨论一个人大脑中的情绪是如何工作的，而情绪又是如何塑造人的外在生活的。教授说，作为研究了几十年人类情绪的科学家，很高兴有人询问他们，他们最终担任了这部动画片的科学顾问。情绪如何控制意识流，11岁女孩的情绪生活如何等等问题都是这部动画片的核心。《Inside Out》是关于五种情绪：快乐、悲伤、恐惧、厌恶和愤怒。他们向导演提议完整刻画人的一系列情绪，但<a target="_blank" href="http://www.npr.org/2015/06/10/413273007/its-all-in-your-head-director-pete-docter-gets-emotional-in-inside-out"><u>遭到了拒绝</u></a>，理由是故事只能处理5到6个角色。11岁女孩的主控情绪是快乐，这符合我们已知的科学，研究还显示随着年龄的增长，正面的情绪体验会快速的下降。在动画片中，悲伤逐步控制了女孩的思维过程。

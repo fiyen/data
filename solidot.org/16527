@@ -1,0 +1,46 @@
+➜中国整顿电子商务行业
+https://www.solidot.org/story?sid=43557	11765
+中国正在<u><a target="_blank" href="http://cn.wsj.com/gb/20150402/tec090735.asp">加强对监管宽松的电子商务行业的控制</a></u>。繁荣的电子商务缔造了阿里巴巴集团等巨头，但也因为未充分监管假冒伪劣产品和可疑商业行为而受到指责。中国商务部周二表示，希望打击通过伪造交易纪录和买家评价的手段虚构商家信用评级的做法，也就是通常说的“刷信用”。官员还表示，年底前中国政府可能出台电子商务法草案。分析师们称，新规不大可能使天猫摆脱假货或者水货。纽约数据提供商L2 Inc.的研究员Emma Li称，天猫上水货卖家的规模和数量庞大，不易监督。
+➜美国将制裁发动网络攻击的幕后组织或个人
+https://www.solidot.org/story?sid=43558	12873
+美国总统奥巴马<a target="_blank" href="http://www.ftchinese.com/story/001061364">将宣布来自国外的网络威胁是“国家紧急状态</a>”，采取行动对发动网络攻击、危及美国国家安全或经济健康的海外行为主体实施制裁。美国官员不愿指明新制裁的可能目标，但表示举例来说，该行政命令可被用于打击受公司或国家雇佣的个体黑客。美国今年1月向朝鲜的机构和官员施加额外制裁，指责他们要对去年索尼影视娱乐受到的网络攻击负责。2014年5月，美国对5名中国军人提出刑事罪名，称其非法侵入6家美国公司的计算机系统。目前还不清楚这项新的权力会不会被用于可能引发政治紧张的情况，比如对中国官员施加制裁。
+➜Google的ARC现在能在Chrome OS、Windows、Mac和Linux上运行Android应用
+https://www.solidot.org/story?sid=43559	17203
+Google去年九月<a target="_blank" href="http://www.solidot.org/story?sid=41096"><u>发布</u></a>了<a href="http://chrome.blogspot.com/2014/09/first-set-of-android-apps-coming-to.html"><u>App Runtime for Chrome(ARC)</u></a>，允许桌面系统Chrome OS运行移动版的Android应用，但当时只有少数挑选出来的Android应用能运行在Chrome OS上。发布数天后，开发者Vladikoff<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=flat&amp;sid=41220"><u>开始致力于</u></a>解除ARC的限制发挥它的全部潜力，让任何Android应用都能运行在桌面操作系统如Windows、Linux和OS X上。如今，Google决定由自己来<a target="_blank" href="https://developer.chrome.com/apps/getstarted_arc"><u>实现</u></a>跨桌面操作系统运行了。搜索巨人允许开发者通过新的Chrome应用包装器在ARC上运行他们的应用，同时允许ARC<a target="_blank" href="http://arstechnica.com/gadgets/2015/04/googles-arc-opens-up-to-developers-runs-android-apps-on-most-desktop-oses/"><u>运行在任何有Chrome浏览器的桌面操作系统上</u></a>。ARC是通过Google开发的Native Client（NaCL） 运行在Windows、Mac、Linux和Chrome OS上的，NaCL沙盒技术允许Chrome应用和插件以接近原生的速度运行。许多Chrome应用都依赖于Google Play服务，而最新版的ARC已经包含了六种Google Play服务——OAuth2、Google Cloud Messaging、 Google+登录、地图、位置和广告。
+➜如何防御链路(Man-on-the-side)劫持？
+https://www.solidot.org/story?sid=43560	19313
+在GitHub遭受的大规模DDoS攻击中，攻击者创造性的劫持了百度的JS数据包发动链路(Man-on-the-side)攻击。但这一攻击手段事实上并不新颖，在中国可能已经普遍存在。在腾讯安全博客上，一位研究人员<a target="_blank" href="http://security.tencent.com/index.php/blog/msg/81"><u>报告</u></a>京东商城(以及易迅)遭到了相同的链路攻击，攻击者发送的伪造数据包的TTL值也与京东的不同。研究人员推测，“流量劫持的目的是将电商网站流量导给返利联盟，通过返利联盟获得当前用户成交金额的返利。”此次攻击被认为与ISP（即电信运营商）有关，因为只有ISP拥有旁路设备可侦听所有的数据包，能针对特定请求注入伪造的响应包。如何应对链路劫持？最简单的方法是使用加密，当然腾讯也有自己的特殊方法——私有协议。GitHub是默认启用加密，所以攻击者无法屏蔽特定的页面，这可能是它遭受大规模DDoS攻击的原因。而中国的网站流量容易劫持的原因是很少使用加密。
+➜CNNIC发表声明谴责Google
+https://www.solidot.org/story?sid=43561	20001
+在Google<a target="_blank" href="http://www.solidot.org/story?sid=43556"><u>宣布</u></a>旗下产品删除CNNIC根证书之后，CNNIC发表<a target="_blank" href="http://www1.cnnic.cn/AU/MediaC/Announcement/201504/t20150402_52049.htm"><u>中英文声明</u></a>（<a target="_blank" href="http://www.cnnic.cn/gywm/xwzx/xwzxtzgg/201504/t20150402_52050.htm"><u>中文</u></a>）谴责Google。声明称，Google的决定是“难以接受的”和“难以理解的”，CNNIC督促Google充分考虑和保障用户的权利和利益。CNNIC称将保障已发行的证书不受此次事件的影响。Google的Chrome浏览器在中国相当流行。
+➜为何中国有如此多的假论文？
+https://www.solidot.org/story?sid=43562	24991
+BioMed Central(BMC)出版集团3月26日宣布<a target="_blank" href="http://blogs.biomedcentral.com/bmcblog/2015/03/26/manipulation-peer-review/"><u>撤销43篇学术论文</u></a>，其中41篇出自中国作者之手，占95.35%，作者单位涉及38家国内知名医科院校及三甲医院。BMC发现，这些论文“伪造范围从作者推荐朋友使其获得积极的同行评价，发展到精心打造同行评审圈，在这个圈子里，作者相互评审，甚至假冒其他人的名义。”如此高比例的造假论文并非第一次，似乎让国际学术界见多不怪了。官方《中国青年报》问道，“<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/4/316231.shtm"><u>为何中国的假论文会有这么多</u></a>？”对此历来解释有两种。一种是人的品行不好，朽木不可雕也；另一种是环境和机制使然，即环境决定论。相关人员认为，促使研究人员造假的重要原因是经费和名誉。在尤其是世界一流学术刊物上刊登论文是研究人员能得到资金或者好工作的保证。国内研究人员的造假原因更具中国特色，即评职称。有了职称，则可以获得晋级、增加工资和奖金，并且能够获得巨额研究经费。当然，中国研究人员论文造假也有其他一些原因，如自身的修养和诚信，以及受整个社会诚信下降的影响等。
+➜中国警方称破获最大网络赌博案
+https://www.solidot.org/story?sid=43563	29108
+广东警方宣布<a target="_blank" href="http://www.cac.gov.cn/2015-04/02/c_1114846562.htm"><u>破获最大网络赌博案</u></a>，抓获犯罪嫌疑人1071名，冻结赌资3.3亿。赌徒的总投注额高达4000亿，但投注额不等于实际投注，因为会员一般有10万的信用额度，赢了可以一直累加，但输了则必须支付真金白银。警方声称，2014年12月，一家赌博公司的40万参赌会员输掉90亿，另一家的15万参赌会员输掉60亿。被逮捕的犯罪嫌疑人包括了网站核心运营人员15人，核心人员6名，在广州、泰国分别抓获技术人员2名和7名，缴获服务器及电脑40余台，冻结银行资金2000多万。技术团队一般在汕头总部跟泰国之间进行轮换工作，去泰国两个月后回来放假20天，然后再进行轮换。在国内时，工资4000元/月，去泰国时，每天400元补贴，月收入过万。
+➜英国强迫微软采用开放文档标准
+https://www.solidot.org/story?sid=43564	31808
+微软<a target="_blank" href="http://www.itproportal.com/2015/03/30/microsoft-will-adopt-open-document-standards-following-government-battle/"><u>证实</u></a>，办公软件Office 365的下一次更新将加入Open Documents Format (ODF) 支持。2014年，微软反对英国政府的ODF支持要求，宣称它自己的XML格式普及度更高。英国政府驳斥了这一声明，称ODF允许用户不被困在一个生态系统中。迫使微软支持ODF是英国政府的一次胜利，这将允许非Office 365订阅用户打开和编辑Office 365文档。
+➜莆田系和百度的对决
+https://www.solidot.org/story?sid=43565	34875
+3月25日，奇虎360的一名高管在微博上透露了莆田健康总会下令停止所有百度竞价推广的通知。莆田系占了中国民营医院80%市场份额，是百度最大的客户，占百度收入的14%。这一消息立即引发了热议，百度股价也应声下跌。百度在26日回应称，莆田系此番对百度公开叫板，原因是百度近期加大整治并下线违规医院，引起莆田系不满，并提供数据称，在2014年累计拒绝的1.3万家违规医疗机构客户中，六成以上是莆田系医院。<a target="_blank" href="http://www.infzm.com/content/108650"><u>双方矛盾之所以在此时爆发</u></a>，是因为每年此时，百度会和广告推广客户签订一个年度框架合作协议，约定在百度的消费额度，以及消费达到一定额度后的返点比例。一位莆田内部人士称，莆田系和百度合作始于十几年前互联网刚刚兴起的时候，大家发现网上宣传的导流能力比传统方式要好，双方便开始了密切合作，当时竞争者不多，点击一次的费用也不高，最初也就几毛钱，每年投入两到三千块。但如今，竞争的激烈让某些热门关键词点击一次的费用甚至高达999元。一家中型医院，每月投给百度的费用就要上百万，加上雇用水军恶意点击竞争对手、技术维护等投入，每年花在网络维护上的费用也有一两百万。在百度引流一个患者的平均成本高达3000元，这就意味着到这家医院的患者如果平均消费没有超过3000元，医院就亏本。
+➜Redis 3.0.0发布
+https://www.solidot.org/story?sid=43566	36129
+开源键值对存储数据库Redis在4月1日<a target="_blank" href="https://groups.google.com/forum/#!msg/redis-db/dO0bFyD_THQ/Uoo2GjIx6qgJ"><u>发布</u></a>了<a target="_blank" href="https://raw.githubusercontent.com/antirez/redis/3.0/00-RELEASENOTES"><u>3.0.0版</u></a>。主要新特性包括：Redis Cluster，Redis子集的分布式实现；新的“嵌套字符串”对象编码减少缓存遗漏，大幅提高某些工作负荷的速度；等等。开发者Salvatore Sanfilippo表示，Redis 3.0.0是第一个原生支持集群的稳定版本，可能需要1到2年才能成熟，它对Redis生态系统具有重要意义，Redis Cluster将向用户提供某种程度的自动伸缩和容错能力，将改变用户看待Redis的方式。
+➜网易百度陌陌因涉黄被查处
+https://www.solidot.org/story?sid=43567	39817
+扫黄打非办公布了净网2015专项行动的<a target="_blank" href="http://www.shdf.gov.cn/shdf/contents/767/247966.html"><u>第一个成果</u></a>：网易云阅读、百度手机客户端小说栏目和手机通信工具陌陌被指传播淫秽色情信息。新闻稿称，网易云阅读栏目中的《蜜蜂妖纪》等17部小说涉嫌含有淫秽色情内容，这些作品在60天内被点击超过130万次，网易相关运营部门已被公安机关查处；百度手机客户端有21种小说内容属淫秽色情互联网出版信息，被罚款210177.2元；陌陌的“陌陌群组”、“陌陌吧”栏目中存在大量淫秽色情信息，被罚款人民币60000元，要求关闭传播淫秽色情信息的群组和吧。
+➜Uber司机试图闯入乘客家中行窃
+https://www.solidot.org/story?sid=43568	41489
+51岁的Uber司机 Gerald Montgomery周二因涉嫌闯入一名女乘客家中盗窃<a target="_blank" href="http://arstechnica.com/tech-policy/2015/04/uber-driver-arrested-for-trying-to-burglarize-passengers-house/"><u>而被捕</u></a>。警方称他使用“盗窃工具”试图打开房屋后门，受害人的室友恰好在家中，并与Montgomery当面对质。Uber发表声明称已从其平台移除了 Montgomery的访问权限。法庭听证会定在周五举行，他的保释金为1万美元。这不是第一次Uber司机卷入了非法活动，在美国至少有三名Uber司机被控性侵犯乘客。
+➜寻找DDoS攻击GitHub的幕后组织
+https://www.solidot.org/story?sid=43569	43697
+<div align="center"><img src="http://img.solidot.com.cn/0/143/li6jf5BdBUehU.png" align="" height="230" width="560"><br>
+</div>
+<br>
+为了防止数据在网络中无限循环，名为<a target="_blank" href="http://en.wikipedia.org/wiki/Time_to_live"><u>存活时间（Time to live，TTL）</u></a>或跳数限制（hop limit）的机制限定了数据包的寿命。当TTL=0，数据包将被丢弃。大多数系统发送IP包时都是从TTL=64开始，如果该数据包抵达你时TTL=46，那么你和发送者之间经过了18跳（64-18=46）。在对GitHub发动大规模DDoS攻击时，攻击者劫持了百度的JS文件。如图所示，百度服务器所发送数据包的TTL=64，第一次抵达用户浏览器时TTL=42（不同位置这一数字会有所不同），经过了22跳，用户发回的请求包的TTL值也是64，但接下来的响应包的TTL值非常怪异，显然有个中间人设备注入了伪造包。如何识别这个中间人设备的IP？你可以借助Traceroute工具。利用该工具发送TTL=1，2，3....的请求包，因为TTL的值很小，在到达目的地前跳数就会变为零被沿路的路由器抛弃，而此时路由器会使用其IP地址发回时间超时的报文，如果某两跳之间发现了伪造包，那么注入设备应该就藏在其中。一位研究人员用定制Traceroute工具测试发现，注入设备位于第11跳和第12跳之间，通过查询第12跳设备的IP地址，作者发现它<a target="_blank" href="http://blog.erratasec.com/2015/04/pin-pointing-chinas-attack-against.html"><u>位于中国联通骨干网</u></a>，因此得出了中国政府与此有关的结论。
+➜中国首款习近平重要讲话 APP 上线，学完能提高民族自信
+https://www.solidot.org/story?sid=43570	57012
+<a href="http://buta.moe/">反竹川</a> 写道 <i>"据<a href="http://www.bjnews.com.cn/news/2015/04/02/358711.html" target="_blank">新京报</a>及<a href="http://news.xinhuanet.com/politics/2015-04/02/c_1114855741.htm" target="_blank">多家官媒</a>报道，由中共中央党校主办，中央党校中国干部学习网研发，并联合中央国家机关工委信息中心和新华社中国新华手机电视台共同承办的学习习近平同志系列重要讲话专用 APP ——《<a href="http://www.ccln.gov.cn/phone/studyClient.html" target="_blank">学习中国</a>》在<a href="http://www.chinatimes.com/realtimenews/20150402004330-260409" target="_blank">经过了</a><a href="http://www.chinatimes.com/realtimenews/20150402004330-260409" target="_blank">三个月的筹</a><a href="http://www.chinatimes.com/realtimenews/20150402004330-260409" target="_blank">备</a>后正式上线。该应用的主打内容是习近平系列讲话内容，读者更可在这款 APP 上免费阅读习近平从政路上的多本著作，并将随着习近平的讲话不断更新权威解读。此外，应用内的“实景地图和知识地图”功能可以按时间、地点和关键字查询习近平在何时、何地的讲话；还可以利用手机的自动定位功能，自动弹出习近平在某个地点有哪些讲话。中央党校中国干部学习网常务副总编陈建才表示，希望借助移动互联网技术把中国特色社会主义理论以网民喜爱的方式呈现出来，激发民众的理论学习热情，增强全民族的理论自信。该应用暂不支持 Windows Phone 平台。
+"</i>

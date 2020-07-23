@@ -1,0 +1,96 @@
+➜guile-1.9.10发布了
+https://www.solidot.org/story?sid=17363	9360
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "GNU Guile 1.9.10已经发布,这可能是2.0前的最后一个预发行版(pre-release).新版本有很多值得关注的特性特别是增加了一个编译器和虚拟即.我们建议您可以对guile的这些特性进行测试也可以给我们一些反馈：guile-devel@gnu.org。<a href="http://gnu.org/software/guile/">Guile的官方网站在这里</a>，还可以在里面找到FAQ和邮件列表。<i>
+Guile是一个Scheme编程语言的实现,而Scheme是著名的Lisp的方言之一,现在业界几乎除了Common Lisp用的最多的Lisp方言就是Scheme.Guile实现了R5RS标准.也包括一个模块加载系统,完整的POSIX系统调用,网络支持,多线程,动态链接,混合编程的接口和强大的字符串处理.Guile可以作为脚本解释器运行,也可以作为编译成虚拟即bytecode运行.库可以很容易的和Scheme解释器/虚拟即协作.应用程序可以使用Guile作为一个强大的可配置的扩展语言或者直接用Guile实现您所想要的一切.应用程序可以在Guile里增加自己想要的函数,数据类型,控制结构,甚至语法都行,可以作为专业领域的定制语言.</i>
+<a href="ftp://alpha.gnu.org/gnu/guile/guile-1.9.10.tar.gz">在这里可以下载guile-1.9.10.tar.bz2</a> (4.9MB)"
+➜基于草泥马的编程语言
+https://www.solidot.org/story?sid=17364	9900
+<a href="mailto:a2159670@163.com">ThuYgs</a> 写道 "<i>
+《<a href="http://code.google.com/p/grass-mud-horse/"> 草泥马语</a>》是一个基于堆和栈的编程语言，该语言的最大特点在于：所有操作全部由“草”“泥”“马”“河蟹”这4个命令完成，文件内的其他字符都作为注释而不参与程序执行。
+有人抱怨说不会用，这不是就凑合了一个简易草泥马语学习指南（好像差不多完了）
+另外，由于草泥马语言形式过于震撼，所以为了调试，编写了草泥马语逆编译器：gmhd（但是没有正向编译，囧，谁贡献一个？）可以吧草泥马语言代码反编译成比较好懂的伪代码。
+第二个工具是whitespace程序转换器：ws2gmh,简单的replace而已。"</i>
+➜影响恶劣，苹果请求漫画家重新递交应用程序
+https://www.solidot.org/story?sid=17365	12960
+苹果<a href="__SLASHLINK__" sect="internet" sid="10/04/16/1040201" sn="article" tid="120">拒绝</a>政治漫画家、普利策奖得主Mark Fiore的iPhone应用程序的做法遭到了媒体的炮轰，苹果审查媒体内容的做法让新闻界感到愤怒，甚至有人呼吁新闻机构展开抵制，拒绝为iPad/iPhone创造应用程序，当然这是不可能的事情。<i>
+外界的压力和恶劣的影响，迫使苹果重新考虑之前的行为，<a href="http://apple.slashdot.org/story/10/04/16/2327219/Bad-PR-Forces-Apple-To-Reconsider-Banning-Mark-Fiores-App">它已经请求漫画家Mark Fiore重新递交他的应用程序</a>。而Mark Fiore本人对此则感到几分愕然，他说自己有点内疚，<a href="http://www.wired.com/epicenter/2010/04/apple-reconsiders-satire-ban">因为这好像他受到了特别优待</a>。苹果CEO乔布斯（Steve Jobs）在一封电子邮件中表示他们正在改正这一错误。</i>
+➜字体的故事之：Helvetica 设计灵感
+https://www.solidot.org/story?sid=17366	14400
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "设计师，不管是 Web 设计师，还是平面设计师都有字体情结，字体会改变一个设计的感觉，设计师总有无数的字体可以使用，而 <b>Helvetica</b> 常常是他们最安全的选择。这款由 Max Miedinger 于 1957 年设计的字体已经成为设计界的杰作。本文搜集了一些基于 Helvetica 字体的设计作品（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K947.aspx">完整图文版</a>）。           该字体的拥有者，德国 Linotype 公司主管经理 Frank  Wildenberg 如此评价该字体，它是一种很正规的字体，拥有清晰的线条，它并不是在刻意表达时尚，它浑然天成，经受住了时间的考验。
+<br> <br> <a href="http://cyrilblack.deviantart.com/art/Helvetica-130379375">1 </a>
+<br> <br> <a href="http://www.aisleone.net/2007/wallpapers/helvetica-wallpaper/">2 </a>
+<br> <br> <a href="http://aksumka.deviantart.com/art/Helvetica-Hell-132184863">3 </a>
+<br> <br> <a href="http://rattattart.deviantart.com/art/design-98459013"> 4</a>
+<br> <br> <a href="http://typenuts.com/2008/12/26/helvetica-neue/">5 </a>
+<br> <br> <a href="http://howsy.deviantart.com/art/But-Helvetica-152554321">6 </a>
+<br> <br> <a href="http://b-82.deviantart.com/art/Helvetica-Wallpaper-139795060">7 </a>
+<br> <br> <a href="http://smilersmiles.deviantart.com/art/Love-Helvetica-79873198">8 </a>
+<br> <br> <a href="http://elevatorhappyfun.deviantart.com/art/Helvetica-pfffft-136381278">9 </a>
+<br> <br> <a href="http://richworks.in/wp-content/uploads/2010/03/10_Helvetica_by_toothpik.jpg"> 10</a>
+<br> <br> <a href="http://www.pulsarmedia.eu/r_minimal_style_wallpapers_69_the_letter_a_helvetica_51601.html"> 11</a>
+<br> <br> <a href="http://aisleone.net/wp-content/wallpapers/grids_hel_1920x1200.jpg">12 </a>
+<br> <br> <a href="http://www.paper-leaf.com/blog/wp-content/uploads/2009/09/helvetica_wallpaper1280.png">13 </a>
+<br> <br> <a href="http://wido12.deviantart.com/art/helvetica-wallpaper-145140141">14 </a>
+<br> <br> <a href="http://willgt09.deviantart.com/art/do-what-you-love-145734601"> 15</a>
+<br> <br> <a href="http://ibrc.deviantart.com/art/2010-Wallpaper-150986305">16 </a>
+<br> <br> <a href="http://osrek.deviantart.com/art/Simplicity-143253399"> 17</a>
+<br> <br> <a href="http://www.deviantart.com/download/102257182/HelveticART_by_Hutchington.jpg">18 </a>
+<br> <br> <a href="http://lurino.deviantart.com/art/blah-blah-blah-in-black-108488389"> 19</a>
+<br> <br> <a href="http://lauardelean.deviantart.com/art/Helvetica-how-I-love-thee-65837687">20 </a>
+<br> <br> <a href="http://allonlim.deviantart.com/art/Helvetica-with-Love-123425001"> 21</a>
+<br> <br> <a href="http://www.flickr.com/photos/guilhermewk/4051269196/sizes/l/"> 22</a>
+<br> <br> <a href="http://www.flickr.com/photos/eltotox/424342285/sizes/l/">23 </a>
+<br> <br> <a href="http://www.flickr.com/photos/nategonz/3272280422/sizes/o/"> 24</a>
+<br> <br> <a href="http://www.flickr.com/photos/holyfrancis/3873556009/sizes/l/">25 </a>
+<br> <br> <a href="http://kylebolton.deviantart.com/art/Helvetica-Typography-Wallpaper-117908178">26 </a>
+<br> <br> <a href="http://blarnee.com/wp/wp-content/uploads/wp-helvetica1.jpg">27 </a>
+<br> <br> <a href="http://codenamecueball.deviantart.com/art/Typography-Wallpaper-106236713">28 </a>
+<br> <br> <a href="http://epicart.deviantart.com/art/Helvetica-118021360">29 </a>
+<br> <br> <a href="http://m4t7.deviantart.com/art/Helvetica-Wallpapers-111668383">30 </a>
+<br> <br>  <a href="http://richworks.deviantart.com/art/I-am-a-designer-Helvetica-158587207"> 31</a> <br> <br>
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K941.aspx">字体的故事之：衬线体的前世今生</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K892.aspx">字体的故 事：简单为美的 Helvetica</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K786.aspx">字体的故 事之：爱恨交加的 Comic Sans</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K786.aspx">字体的故 事之：Museo 字体设计者访谈录</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K868.aspx">字体的故 事之：Comic Sans</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K768.aspx">字 体的故事之：Arial 无处不在</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K883.aspx">字 体的故事：&amp; 的简史与它在设计中应用</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K757.aspx">最  适合用于Logo设计的字体及40个著名案例</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K743.aspx">德国网站  评选100个最佳字体</a> </li>
+</ul>
+本文素材来源：richworks.in <a href="http://richworks.in/2010/03/30-minimalistic-wallpapers-inspired-by-helvetica/">30+ minimalistic wallpapers inspired by Helvetica</a>
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜国内最受欢迎的5款网络硬盘
+https://www.solidot.org/story?sid=17367	14880
+排名不分先后 写道 "据最新的对网络硬盘用户的调查显示，目前国内最受欢迎的网络硬盘是：<a href="http://wp.163.com/">网易网盘</a>，<a href="http://disk.qq.com/">QQ网盘</a>，<a href="http://www.namipan.com/">纳米盘</a>，<a href="http://www.rayfile.com/">飞速网</a>，<a href="http://u.115.com/">115网盘</a>（排名不分先后）。
+可以看到，除了网易网盘和QQ网盘依托其大量用户外，纳米盘和飞速网均是不限单文件大小，不限上传空间，而雨林木风推出的115网盘也因其高速稳定和大容量空间赢得了大量用户。
+<br>
+同时调查显示受广大用户欢迎的网盘资源搜索引擎有3个：<a href="http://wpsoso.com/">网盘搜搜</a>，<a href="http://www.files2me.com/">网盘精灵</a>，<a href="http://www.hihisoso.com/">海海搜搜</a>（排名不分先后）。"
+➜甲骨文要社区证明开源能盈利
+https://www.solidot.org/story?sid=17368	23520
+当甲骨文（Oracle）收购了最大的开源企业太阳微系统公司（Sun）之后，Sun资助的、现在由甲骨文接手的所有开源项目都对它们的未来忧心忡忡，FUD（恐惧、不确定、怀疑）在社区内迅速传播。而甲骨文的高管至今未作出多少公开声明，尤其是关于OpenSolaris的未来。甲骨文推迟发布OpenSolaris最新版本的决定也让社区感到失望，社区正在辩论，如果大多数OpenSolaris（如果不是所有）的开发者都被甲骨文公司雇用，那么fork一个新分支的难度可能将是非常大。<a href="http://mail.opensolaris.org/pipermail/ogb-discuss/2010-April/007767.html">现在甲骨文要求社区证明开源能够盈利</a>。
+➜超大质量黑洞能终止恒星的形成
+https://www.solidot.org/story?sid=17370	29880
+吃饭时狼吞虎咽对健康不利，但你也许不知道这一原则同样适用于宇宙。天体物理学家发现，当一个超大质量黑洞快速吞噬周围的气体和尘埃时，<a href="http://news.sciencemag.org/sciencenow/2010/04/supermassive-black-holes-can-kil.html">它所释放出的足够多的辐射能终止周围星系中胚胎恒星的形成</a>。研究人员认为这一进程可能决定了宇宙中许多大型星系的命运。<i>
+英国诺丁汉大学天体物理学家Asa Bluck领导的团队选择了100个含有活跃超大质量黑洞的星系。过去5年，他们使用太空和地面上的望远镜，在可见光、近红外线和X-射线波长上进行观察。他们发现，最活跃的超大质量黑洞在其数百万年的活跃期间内向外释放出了巨大的能量，清除了周围星系内的气体和星尘，而这些物质是形成新的恒星所不可缺少的。他们研究的100个星系中，三分之一已经失去了形成新恒星的能力，而在不活跃超大质量黑洞星系中，恒星形成的进程十分明显。没有新恒星的形成，这个星系便可能死去，最终将会变得暗淡无光。</i>
+➜微软推出“Fix It 中心”-Windows自诊断工具
+https://www.solidot.org/story?sid=17371	34320
+<a href="http://livesino.net/">匿名读者</a> 写道 "<a href="http://livesino.net/archives/2616.live">微软低调推出了 Fix It 中心</a>，一款适用于 Windows 操作系统自诊断、修复工具，包括客户端软件和在线服务。这一工具类似 Windows 7 操作中心，并且是支持 Windows XP 和 Windows Vista 的。
+<i>
+微软对此工具的描述为：<a href="http://fixitcenter.support.microsoft.com/Portal/GetStarted">Fix It 中心</a>可自动发现并修复常见的 PC 和设备问题，它同样也会主动检查已知问题并安装更新。Fix It 中心是将若干某个故障或问题的诊断、修复步骤合并为一个自动处理的工具。比如：自动开启 Aero 透明效果、检查网卡配置。"</i>
+➜澳大利亚电讯公司称遭中国黑客攻击
+https://www.solidot.org/story?sid=17372	47280
+<a href="http://liduan.cn/">0_o</a> 写道<i> "澳大利亚第二大电讯公司<a href="http://optus.com.au/">奥普特斯</a>称<a href="http://www.smh.com.au/technology/security/chinese-cyber-attackers-hit-optus-20100415-sgm8.html">遭中国黑客攻击使其网路服务一度陷入停顿</a>。这次攻击在专业上被称作“屏闭服务攻击” ，是指用大量电脑同时联接和登陆。据<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/04/100415_australian_tele_hacking.shtml">奥普特斯的女发言人证实</a>，星期三下午约1点10分，该电讯公司的一家公司客户受到“屏闭服务攻击”，但她以保护商业机密为理由，拒绝透露受攻击的公司。这一攻击导致一些使用该线路的奥普特斯的公司客户连带受到影响，它们互联网的网速下降和电子邮件的发送被耽误。到下午3点25分，奥普特斯与一家国际电讯公司联手，在该线路的中转处切断了攻击来源。 <br>
+不过据当地媒体报道，受攻击的是一家金融公司。攻击的来源地为中国，使奥普特斯的一条国际线路阻塞，该线路经中国中转通到美国。受影响的澳大利亚公司有股票交易所和一些银行，澳大利亚通讯社，以及默多克的新闻集团的新闻网站，另外，奥普特斯声称占有澳大利亚70%的销售点电子转帐系统，但尚不知这些电子转帐有否受到影响。"</i>
+➜Bitdefender扫描Linux平台上的病毒
+https://www.solidot.org/story?sid=17373	48240
+DNA24 写道 "
+<i>
+Bitdefender是罗马尼亚出品的一款老牌杀毒软件，超过453万超大病毒库，可实时更新，具有反病毒引擎功能以及互联网过滤技术。老Linux的用户应该知道它开始的时候是Linux下的软件，后来获得Microsoft的投资，成为Windows的杀毒软件。不知道什么时候开始Bitdefender<a href="http://www.ghacks.net/2010/03/23/bitdefender-linux-antivirus-made-simple/">又回归Linux了</a>，偶然在http://www.ghacks.net上看到介绍。最新版的<a href="http://download.bitdefender.com/SMB/Workstation_Security_and_Management/BitDefender_Antivirus_Scanner_for_Unices/Unix/Beta/JP/Linux/">Bitdefender Antivirus Scanner For Linux</a>是去年7月10号发布的7.6-5，有rpm和deb包，支持32bit和64bit系统。到<a href="http://www.bitdefender.com/business/antivirus-for-unices.html">Bitdefender官方网站</a>注册，可免费获得一年的许可证。"</i>
+➜世博会官方承认《2010等你来》抄袭
+https://www.solidot.org/story?sid=17374	49200
+上海世博会事务协调局新闻发言人<a href="http://www.expo2010.cn/a/20100417/000018.htm">承认</a>，世博会倒计时30天推广歌曲《2010等你来》涉嫌抄袭，已暂停使用。<i>
+《<a href="http://zh.wikipedia.org/zh-cn/2010%E7%AD%89%E4%BD%A0%E6%9D%A5">2010等你来</a>》在2010年3月30日被定为世博会倒计时30天的推广歌曲，该歌曲由缪森作曲、张鹏作词。据说从创作到最终定型总共花费了6年的时间。然而网友很快指出，该曲与1996年日本TBS电视播放的电视剧《回来的第二次机会》中的插曲《そのままの君でいて（不变的你就好）》极为相似。新加坡音乐人颜毓添<a href="http://www.zaobao.com/expo2010/pages/expo2010100415c.shtml">称</a>，整首歌每一段落的第一个音符和最后一个音符都几乎一样。从主歌、衔接段落和副歌旋律，甚至连曲速（Tempo）和行进方式都有97%的相似度。剩下的3%，留给在2：04和3：25的副歌升调，为配合歌词音符略作修改的小部分，以及编曲节奏。</i>
+《<a href="http://v.youku.com/v_show/id_XMTYxNTQxNDcy.html">2010等你来</a>》(Youku)，《<a href="http://v.youku.com/v_show/id_XMTY1Nzg2Mjgw.html">不变的你就好</a>》(Youku)

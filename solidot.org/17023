@@ -1,0 +1,51 @@
+➜谷歌助力斯坦福展开基因服务
+https://www.solidot.org/story?sid=49260	6589
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "斯坦福正致力于将基因测试转变为日常医疗的一部分，他们准备与谷歌合作促进事件发生。<i>
+斯坦福大学医学院宣布<a href="https://www.engadget.com/2016/08/09/google-genomics-stanford/" target="_blank">今秋</a>将利用谷歌基因平台，展开临床基因服务，并在其云上存储病人的DNA。医生为病人做基因测序后，会得到大量数据，他们将利用谷歌云来对数据进行分析比较，以获得和疾病相关的信息。这将帮助医生有针对性地对待不同种类的癌症以及诊断其他各种疑难杂症。斯坦福医学院主任Lloyd Minor称:”在过去的几年里，和病人健康疾病相关的可用数据可以用大爆炸来形容，研究者正在学习如何综合利用大数据，但要让数据实时地为病人服务，却是一个很大的挑战。我们寻求与谷歌合作，将帮助我们达成目标”。据悉</a>，斯坦福存放在谷歌云上的DNA数据，只有他们自己可以访问，而且系统会将数据加密并存放在美国境内以确保安全。"</i>
+➜微软的 IE11 和 Edge 浏览器停止支持RC4
+https://www.solidot.org/story?sid=49261	12668
+微软在本周二的例行更新中释出了一个补丁 <a target="_blank" href="https://support.microsoft.com/en-us/kb/3151631"><u>KB3151631</u></a>，在 IE11 和 Edge 浏览器中禁用了 RC4 加密算法。微软<a target="_blank" href="https://blogs.windows.com/msedgedev/2016/08/09/rc4-now-deprecated/"><u>官方博客</u></a>称，RC4是一种流密码算法，第一次描述是在1987年，它得到了浏览器和在线服务的广泛支持。现代攻击显示RC4加密能在数小时或数天内破解。典型的攻击利用了 RC4 密钥流的偏差去恢复多次加密的明文。2015年2月，这些新的攻击促使互联网工程任务组禁止使用 RC4。Microsoft Edge 和 Internet Explorer 11 此前允许在从TLS 1.2 或 1.1 降级到 1.0 时使用RC4，现在开始将完全禁止RC4。在微软之前其他主流浏览器都已经停止支持 RC4。
+➜德国法庭驳回了对 VMware 的 GPL 侵权诉讼
+https://www.solidot.org/story?sid=49262	14611
+内核开发者 Christoph Hellwig 去年向德国汉堡地区法庭<a target="_blank" href="http://www.solidot.org/story?sid=43214"><u>起诉</u></a> VMware 侵犯了 GPL 许可证，涉嫌侵权产品是 vSphere ESXi 5.5.0 中名叫 vmkernel 的私有组件。Hellwig 主张  vmkernel 是内核衍生产品，需要遵循 GPL 许可证。但这起 GPL 诉讼<a target="_blank" href="http://bombadil.infradead.org/~hch/vmware/Judgment_2016-07-08.pdf"><u>被法庭驳回</u></a>。法庭的裁决不是围绕着侵权指控而是基于 Hellwig 所持代码版权的不确定性。Hellwig对裁决表示失望，宣布<a target="_blank" href="http://bombadil.infradead.org/~hch/vmware/2016-08-09.html"><u>将提起上诉</u></a>。
+➜Chrome 将进一步削弱 Flash 内容
+https://www.solidot.org/story?sid=49263	18398
+Google Chrome 博客<a target="_blank" href="https://chrome.googleblog.com/2016/08/flash-and-chrome.html"><u>宣布了</u></a>进一步削弱 Flash 突出 HTML5 的<a target="_blank" href="https://groups.google.com/a/chromium.org/forum/#!msg/chromium-dev/QL2K4yFVg_U/vj44YWOaAwAJ"><u>计划</u></a>。Chrome 是从2015年9月发布的 Chrome 42 开始默认不播放宽度小于400px或高度小于300px的 Flash广告，从下个月发布的Chrome 53 开始将禁止后台加载 Flash 内容，从12月发布的 Chrome 55 开始将默认使用 HTML5，只支持 Flash 的网站除外。Google称，后台加载的 Flash 内容超过九成是提供网页分析之类的服务，此类的 Flash 降低了页面加载速度，相比之下 HTML5 要精简快速得多，有助于加快页面加载和延长电池使用时间。
+➜科学家发明可溶解电池
+https://www.solidot.org/story?sid=49264	18824
+爱荷华州立大学科学家研制出一种<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/08/160809_dissolving_battery"><u>能自我毁灭的电池</u></a>，这种电池具有在热或液体的作用下溶解的特性。<a target="_blank" href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0488"><u>论文</u></a>发表在《Journal of Polymer Science》期刊上。研究人员研制出的锂离子电池有2.5伏电压，能驱动一个桌面计算器15分钟。这种电池可能用于保护军事机密的目的，也可以用于环境监控装置。制成的电池长5毫米，宽6毫米，厚1毫米，从组成元件、结构和电化学反应的角度来看，类似于普通的商业电池。这个电池有阳极、阴极、电解质分离器，外层是以聚乙烯醇为基体的聚合物。如果把电池投入水中，其聚合物外壳将会膨胀，电极将会破裂，从而发生溶解，整个过程大约需要半个小时。但电池中的纳米颗粒将不会溶解，这也意味着电池不会完全溶解。
+➜TCP协议漏洞影响大量Linux设备
+https://www.solidot.org/story?sid=49265	29781
+<center>
+<iframe src="https://www.youtube.com/embed/S4Ns5wla9DY" allowfullscreen="" frameborder="0" height="288" width="512"></iframe>
+</center>
+本周三在得州奥斯丁举行的 <a target="_blank" href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cao"><u>USENIX 安全研讨会</u></a>上，加州大学河滨分校研究生 Yue Cao 将报告一个严重的<a href="http://www.cs.ucr.edu/~zhiyunq/pub/sec16_TCP_pure_offpath.pdf"><u>TCP协议边信道漏洞</u></a>（PDF），该漏洞允许攻击者远程劫持任意两主机之间的会话。该漏洞影响Linux 3.6+ 内核，根据邮件列表的讨论内核已经在一个月前<a target="_blank" href="https://www.mail-archive.com/netdev@vger.kernel.org/msg118677.html"><u>修复了漏洞</u></a>。<br>
+<i>互联网工程任务组在2010年发布了规格 <a target="_blank" href="https://tools.ietf.org/html/rfc5961"><u>RFC 5961</u></a>，旨在解决TCP的盲窗攻击，但它同时引入了新的漏洞。漏洞的根源在于RFC 5961引入的 challenge ACK 响应和 TCP 控制封包的速率限制，该漏洞允许盲旁接攻击者推断出互联网上任意两主机之间是否使用TCP连接进行通信；如果连接存在，攻击者能推断出连接双方使用的TCP序列号，这允许攻击者让连接终止和执行数据注入攻击。研究人员认为这种攻击能破坏匿名网络Tor的隐私保护。2012年发布的Linux 3.6实现了RFC 5961，该漏洞影响广泛的设备和主机。
+</i>
+➜Denuvo DRM被破解
+https://www.solidot.org/story?sid=49266	31479
+Denuvo DRM 曾让中国的盗版网站站长声称未来游戏将无法破解，但过去几天针对 Denuvo 的破解进展出现了戏剧性的发展。Denuvo 的工作原理是根据硬件为合法购买者的游戏创建一个唯一的key，如果游戏文件被使用不同硬件的另一位玩家分享，Denuvo的保护将检测出硬件差异，确保游戏不会正常运行。上周，一位叫 Voksi 的保加利亚黑客找到了方法<a target="_blank" href="http://www.solidot.org/story?sid=49239"><u>绕过Denuvo保护</u></a>，他利用定制的加载器，让盗版游戏的Steam AppID与合法的DEMO交换，使得Steam和Denuvo误以为盗版游戏是合法的DEMO，因此允许游戏正常加载。在短短3天之内，有大约65万人利用了Voksi的绕过方法。Denuvo很快修复了漏洞。<a target="_blank" href="http://arstechnica.com/gaming/2016/08/first-cracks-form-in-denuvos-previously-impervious-drm-armor/#p3"><u>随后的发展出乎意料</u></a>，另一位叫 CONSPIR4CY (aka&nbsp;CPY)的黑客释出了使用Denuvo v3的游戏《Rise of the Tomb Raider》的<a target="_blank" href="https://www.reddit.com/r/CrackStatus/comments/4wqoqj/riseofthetombraiderreadnfoconspir4cy/"><u>完整破解版</u></a>，目前还不清楚 CPY是如何破解的。
+➜SpaceX 准备测试下一代引擎 Raptor
+https://www.solidot.org/story?sid=49267	32431
+私人太空公司 SpaceX <a target="_blank" href="http://arstechnica.com/science/2016/08/spacex-has-shipped-its-mars-engine-to-texas-for-tests/#p3"><u>正准备测试它的下一代火箭引擎</u></a>。名叫 Raptor 的引擎已运送至该公司位于得州 MacGrego 的测试地点。Raptor 据称将比目前使用的 Merlin 引擎强大3倍。Merlin 是Falcon 9 及 Falcon Heavy 使用的引擎，其中 Falcon Heavy 计划在今年晚些时候首次试射。Raptor 将被用于驱动 Falcon Heavy之后的下一代火箭和火星殖民飞船。目前有关Raptor的细节没有多披露，公司创始人Elon Musk暗示它的推力达到了50万磅，与航天飞机的主引擎推力相同。SpaceX 早些时候宣布将最快在2018年向火星发射无人飞船。<br>
+➜韩春雨公布修改过的NgAgo基因编辑过程
+https://www.solidot.org/story?sid=49268	34873
+过去几年，CRISPR–Cas9基因编辑技术的流行改变了生物学。它也促使科学家去寻找其它方法去扩展基因编辑工具。韩春雨团队今年5月提出的NgAgo基因编辑技术就是提议中替代技术之一。但过去几个月，多位科学家表示无法重复韩春雨团队的实验，引发了<a target="_blank" href="http://www.solidot.org/story?sid=49151"><u>对这项技术的质疑</u></a>。科学打假的专业人士方是民则<a target="_blank" href="http://www.nature.com/news/replications-ridicule-and-a-recluse-the-controversy-over-ngago-gene-editing-intensifies-1.20387"><u>断言论文无法复制</u></a>。韩春雨<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/8/353355.shtm"><u>回应质疑</u></a>，公布了修改过的<a target="_blank" href="https://www.addgene.org/78253/"><u>NgAgo实验方法</u></a>，一些实验细节与其之前在《自然—生物技术》中发表的论文有所不同。
+➜Chrome 53 将支持与蓝牙设备交互
+https://www.solidot.org/story?sid=49269	37845
+你的浏览器不久之后<a target="_blank" href="https://apple.slashdot.org/story/16/08/09/1939232/chrome-is-nearly-ready-to-talk-to-your-bluetooth-devices"><u>将能感知周围的蓝牙设备了</u></a>。Google Chrome 浏览器正在测试<a target="_blank" href="https://webbluetoothcg.github.io/web-bluetooth/"><u>Web蓝牙API</u></a>——顾名思义，就是允许网站利用该API发现附近的蓝牙设备，与之配对并进行通信，举例来说直接发送心跳速率给健身教练。Web蓝牙API的规格尚未定稿，但<a target="_blank" href="https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#available-for-origin-trials"><u>实现已经部分完成</u></a>，已提供给了Chrome OS，Chrome for Android M、Linux 和Mac版。Google计划在下个月发布的 Chrome 53 中加入这项功能，现在在预发布版上输入 chrome://flags/#enable-web-bluetooth，可以启用这项功能去扫描和连接蓝牙设备。<br>
+➜启用自动驾驶的特斯拉汽车在中国发生车祸
+https://www.solidot.org/story?sid=49270	39856
+特斯拉周三称，一辆在“自动巡航”模式下行驶的汽车在北京撞车，车主称特斯拉销售人员把这个功能说成是“自动驾驶”，夸大了实际功能。特斯拉表示，已经检查了汽车数据，证实当时确实是在“自动巡航”模式。在这个模式下，由汽车系统在某些条件下控制转向和刹车。特斯拉称，操控汽车是司机的责任。在本案中，未发现司机的手在掌控方向盘。这是特斯拉在中国已知的首例事故。33岁的车主罗先生是一名程序员，他<a target="_blank" href="http://cn.reuters.com/article/tesla-china-crash-idCNKCS10L0YC?sp=true"><u>在接受路透专访时称</u></a>，当时正开车上班，他启用了“自动巡航”功能，就像经常在北京的道路上那样使用。罗先生的车蹭上了停在路边的一辆车，使对方车辆的后视镜移位，两辆车都有剐伤，但没有人受伤。
+➜研究揭示皮尔当人恶作剧背后的祸首
+https://www.solidot.org/story?sid=49271	40135
+1912年，律师兼业余化石爱好者 Charles Dawson“发现”了皮尔当人的化石，被当时的考古学专家宣称为某种前所未见的早期人类遗骸化石，但到1953年牛津大学的科学家运用新技术发现它其实是由一只猿猴的下颚骨与一颗完全发育的中世纪现代人颅骨拼凑而成的赝品。皮尔当人成为科学史上最著名的恶作剧之一。<a target="_blank" href="http://www.sciencemag.org/news/2016/08/study-reveals-culprit-behind-piltdown-man-one-science-s-most-famous-hoaxes"><u>谁是这个恶作剧的首脑</u></a>？是“发现者” Charles Dawson，还是与他共同发掘化石的古生物学家 Arthur Smith Woodward 爵士，以及帮助发掘的法国神父Pierre Teilhard de Chardin，或其他卷入此事的人？我们不可能找他们来询问，许多人已经去世了将近一个世纪了。对所谓皮尔当人骨骼的分析也无法揭示出多少秘密。利物浦约翰摩尔斯大学的古人类学家Isabelle De Groote 注意到所有骨骼的表面都有一层灰白的油灰，在头盖骨和牙齿空腔内的微小卵石也用相同的油灰填塞。 De Groote认为恶作剧者显然知道化石骨骼比近期的骨骼要重，推断出恶作剧者就是一直试图加入皇家学会但无果的化石猎人Charles Dawson。<a target="_blank" href="http://rsos.royalsocietypublishing.org/lookup/doi/10.1098/rsos.160328"><u>研究报告</u></a>发表在《Royal Society Open Science》期刊上。
+➜输钱的快感
+https://www.solidot.org/story?sid=49272	42145
+人们不只是为了赢钱去赌博的。研究成瘾症的心理学家Mark Griffith 指出，赌徒会出于一系列动机去赌博。对5,500名赌徒所做的一项调查发现，想“挣大钱”是赌徒最大的赌博动机，接下来的动机分别为“赌博很有趣”和“赌博让人情绪亢奋”。“赌博时，即便你在赔钱，你的身体也会不断生成肾上腺素和内啡肽，”他说。“这其实是在花钱买快感。”斯坦福大学研究者2009年进行的<a target="_blank" href="https://www.gsb.stanford.edu/insights/most-gamblers-are-just-out-fun"><u>一项研究</u></a>发现，有高达92%的人为自己设定了“损失阈值”，如果损失没有超过此限度，他们就不会离开赌桌。然而他们在赌场赔钱却不一定会影响到在赌场体会到的快乐。实际上赔钱能够激发<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/08/160810_vert_fut_the-buzz-that-keeps-people-gambling"><u>对于赢钱的良性反应</u></a>，至少在短时间内如此。这是由于长时间不断赔钱会改变赌徒对于赢钱的期望。
+➜熔盐反应堆在中国复活
+https://www.solidot.org/story?sid=49273	46021
+《MIT技术评论》报道了<a target="_blank" href="https://www.technologyreview.com/s/602051/fail-safe-nuclear-power/"><u>上海应用物理研究所建造的熔盐反应堆</u></a>。熔盐堆几乎不存在堆芯熔化风险，产生的长半衰期核废料较少。它最初是美国研究的技术，但在30多年前半途而废。美国上个世纪建造了104个反应堆，技术仍然停留在1970年代，这些反应堆造价昂贵，需要外部冷却系统确保固体燃料核心不会过热和导致堆芯熔化。中国的熔盐反应堆是中国和发明熔盐反应堆的橡树岭国家实验室<a target="_blank" href="http://www.solidot.org/story?mode=nested&amp;sid=42977"><u>合作的成果</u></a>，中国过去五年在这个项目上投入了20亿元，建造一座真正使用熔盐堆的核电站还需要投入数百亿元。中国政府希望未来15年内能实现熔盐堆的商业化。熔盐堆项目的负责人说，以前中国缺乏必要的知识和技能，现在中国有了资源有了技术也有了专门知识能将其变为现实。
+➜中国黑客入侵南海争端相关组织
+https://www.solidot.org/story?sid=49274	47144
+根据安全公司 F-Secure的报告，来自中国的黑客<a target="_blank" href="http://www.japantimes.co.jp/news/2016/08/09/asia-pacific/china-suspected-hacking-organizations-involved-south-china-sea-dispute-security-firm-says/#.V6nYJpN95cx"><u>入侵了</u></a>与南海争端相关政府机构和私营组织。黑客攻击的目标包括了菲律宾司法部、亚太经合组织峰会主办方、以及一家与海牙仲裁法庭南海裁决相关的国际律所。黑客向目标发送钓鱼邮件诱骗受害者打开附件悄悄安装远程访问工具去收集窃取情报，比如菲律宾司法部雇员的邮件附件宣称包含了奖金相关的信息。

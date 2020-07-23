@@ -1,0 +1,52 @@
+➜WoT 下架不是因为销售收集到的用户浏览历史
+https://www.solidot.org/story?sid=50282	5708
+<a href="/~还有希望">还有希望</a> 写道<i> "虽然上周末谋智从 AMO 中<a href="http://www.solidot.org/story?sid=50255" target="_blank">移除</a>了 WOT 扩展，但并未给出理由。周一 <a href="http://www.faz.net/aktuell/politik/skandal-um-datenschnueffler-mozilla-loescht-web-of-trust-erweiterung-14511304.html" target="_blank">FAZ</a> 从谋智基金会得知，WOT 被移除的原因是违反了 AMO 的<a href="https://developer.mozilla.org/en-US/Add-ons/AMO/Policy/Reviews" target="_blank">政策</a>——扩展需要明确公开如何使用用户数据。FAZ 也联络了芬兰的 WOT Services 公司，被告知 AMO 页面上的 WOT 隐私政策是过时的，和公司网站上的<a href="https://www.mywot.com/en/privacy/privacy_policy" target="_blank">最新版</a>——写明会收集大量用户浏览信息——不同，他们将尽快修复这个问题。目前已经安装了 WOT 扩展的 Firefox 用户并未受到下架影响。WOT Services 更新 AMO 上的隐私政策后，WOT 扩展很可能会<a href="http://www.ghacks.net/2016/11/05/mozilla-and-google-remove-wot-extension/" target="_blank">重新</a>在 AMO 上架。"</i>
+➜网络安全法引发外企不安
+https://www.solidot.org/story?sid=50283	8623
+中国本周一通过了受争议的《网络安全法》，意在收紧并集中政府对信息流和技术设备的控制，这引发了<a href="http://cn.wsj.com/gb/20161108/tec075056.asp" target="_blank"><u>在中国开展业务的外国公司的担忧</u></a>。行业组织美中贸易全国委员会中国区事务副会长彭捷宁(Jacob Parker)表示，新网络安全法中规定的安全评估引发美国公司的担忧，美国企业担心将不得不向中国政府披露它们的源代码和其它公司秘密以证明设备的安全。新网络安全法没有说明安全评估将包含的内容。去年中国的几项规定草案中提到了要求披露源代码的想法，但在遭到美国等国的强烈反对后移除了相关条款。但从许多方面来看，新法规不大可能对怎样做生意产生重大影响。大多数规则已经在实施，只是尚未成文。其他的规则足够模糊，需要政府在执行过程中确定它们的含义。然而这项法律是北京就互联网应该如何运行<a href="http://cn.nytimes.com/china/20161108/china-cyber-security-regulations/" target="_blank"><u>发布的重要声明</u></a>：政府要对公司进行更严格的控制，对公民个人进行更好的跟踪。多年来，中国政府一直想方设法把人们的真实姓名与他们的在线活动联系起来。
+➜乐视CEO贾跃亭承认正在烧光现金
+https://www.solidot.org/story?sid=50284	11999
+乐视CEO贾跃亭在给公司雇员的内部信中<a href="https://www.bloomberg.com/news/articles/2016-11-07/troubled-chinese-billionaire-confesses-to-cash-crunch-at-leeco" target="_blank"><u>承认扩张过快资金有压力</u></a>。乐视的产品线从视频服务到硬件如智能手机、智能电视和电动汽车，该公司还在积极开拓海外市场如印度和美国。贾跃亭为此向股东道歉，并承诺将个人薪水降至1元，贾跃亭反思乐视节奏问题，一方面乐视汽车前期投入巨大，陆续花掉100多亿的自有资金，直接导致对LeEco的资金支持不足；另一方面乐视的融资能力不强，方式单一、资本结构不合理，外部融资规模难以满足快速放大的资金需求。贾跃亭称，未来乐视要告别烧钱扩张，聚焦现有生态。<a href="https://www.bloomberg.com/news/articles/2016-11-07/troubled-chinese-billionaire-confesses-to-cash-crunch-at-leeco" target="_blank"><u>在围绕乐视的话题中</u></a>，一张雷军的微信对话截图成为最大热点，在截图中，雷军称“几大供应商和我说，乐视欠款总额在150亿以上，四五家供应商欠款在10亿以上”。此截图被疯狂转发，后被小米证实为伪造，但小米官方对此流传颇广的伪造截图公开回应称：“请乐视正视自己供应链欠款问题”，“请告知股民和用户到底欠了供应链多少钱。”小米是乐视的竞争对手。
+➜深圳公司推出20美元64位单板电脑
+https://www.solidot.org/story?sid=50285	14455
+深圳讯龙公司<a href="http://hackerboards.com/first-64-bit-orange-pi-slips-in-under-20/" target="_blank"><u>推出了</u></a>第一款64位四核ARM单板电脑<a href="http://www.orangepi.cn/orangepipc2/index_cn.html" target="_blank"><u>Orange Pi PC 2</u></a>，售价仅为19.98美元。Orange Pi PC 2配备了全志的H5 SoC，包含了一个四核Cortex-A53 CPU和一个Mali-450 GPU，内存1GB DDR3，可插64 GB TF卡，兼容树莓派，支持运行Android4.4、Ubuntu、Debian等操作系统。Orange Pi PC 2的一个开源的平台，该公司在GitHub账号上发布了修改的<a href="https://github.com/orangepi-xunlong/orangepi_h3_linux" target="_blank"><u>内核代码</u></a>。
+➜Nvidia在其最新驱动中加入遥测
+https://www.solidot.org/story?sid=50286	17903
+遥测或者叫跟踪如今已经无处不在，从企业角度看，它也许可以帮助发现和识别问题；但从用户角度看，它并不受欢迎。问题在于企业没有披露它收集的用户数据，以及它将会如何储存和处理收集的数据。现在，最大的显卡制造商Nvidia在其最新驱动中<a href="https://yro.slashdot.org/story/16/11/07/1427257/nvidia-adds-telemetry-to-latest-drivers" target="_blank"><u>加入了遥测功能</u></a>，该公司没有向用户提供关闭遥测的选项。如果要关闭这项功能，最简单的方法是下载 <a href="http://www.majorgeeks.com/files/details/microsoft_autoruns.html">Microsoft Autoruns</a>，运行该软件，在过滤器输入框输入 nvidia，然后<a href="http://www.majorgeeks.com/news/story/nvidia_adds_telemetry_to_latest_drivers_heres_how_to_disable_it.html" target="_blank"><u>去掉遥测相关的选项</u></a>，重启。
+➜吃辣椒对人体有害吗
+https://www.solidot.org/story?sid=50287	25509
+辣椒是一种安全食品。红辣椒中的辣味来源–辣椒素分子通过刺激口腔内的痛觉神经元受而产生辣感，它并没有对人体产生危害。几分钟过后口腔中的灼烧感就会消失。一天以后再吃辣就能再一次体会这种感觉，好像是一场游戏。但吃辣椒吃出问题身体吃出严重不适反应的也大有人在。如果辣椒只不过是通过在你口腔中引发灼痛而欺骗你的身体，那么它为什么会引发如此剧烈的躯体反应？ 辣椒素分子最初是由植物的抗真菌成分演化而成。人类却由于它对痛觉神经元受体的刺激作用而对它产生了喜好、迷恋或恐惧。无论受到火焰灼烧还是辣椒素的刺激，痛觉神经元都会向大脑发出同样的受热信号。神经元本身无法分辨二者。吃辣椒后的身体反应可以看作是人体自认为遭到烧伤后的应激措施。受到激发的痛觉神经元会释放导致血管扩张的物质，从而引发炎症反应，向受损部位输送更多血液及急救物质。分布在你口腔、胃和其他部位的痛觉神经元会促使你摄入大量碱性物质以中和体内的大量辣椒素。生物学家已经发现，如果长期以辣椒素喂养幼年哺乳动物，会造成痛觉神经元的死亡。不断激发神经元会造成其出现疲劳受损情况，并且受损的神经元不会再生。 辣椒这种植物进化出辣椒素分子的目的就在于避免让哺乳动物吞下它的种子。辣椒现在却不幸遇到了以追逐辣感而取乐的人类，<a href="http://www.bbc.com/ukchina/simp/vert_fut/2016/11/161107_vert_fut_can-you-hurt-yourself-eating-chilli-peppers" target="_blank"><u>这种追逐已经超出了理性的范畴</u></a>。
+➜世嘉游戏机 Mega Drive 恢复生产
+https://www.solidot.org/story?sid=50288	28155
+日本世嘉公司在1980年代推出的16-bit家用游戏机Mega Drive或Sega Genesis在时隔30年后<a href="http://www.dailydot.com/debug/sega-genesis-preorder-details/?fb=dd" target="_blank"><u>恢复了生产</u></a>，因为玩家仍然在购买它，尤其是巴西的玩家，它在巴西十分受欢迎。电子设备和玩具生产商TecToy已经发起了全新Mega Drive游戏机的<a href="http://www.tectoy.com.br/pre-venda-mega-drive-edicao-limitada/p/995040461825" target="_blank"><u>预购</u></a>。TecToy的生产得到了世嘉的认可，新的游戏机支持原版的游戏和手柄，加入了SD卡插槽，支持 A/V线缆，但不支持HDMI。游戏机加上一个包含22款游戏的SD卡售价125美元，内置的游戏包括索尼克、战斧等。
+➜印度新德里是污染最严重的城市
+https://www.solidot.org/story?sid=50289	30477
+本周一的印度新德里<a href="http://edition.cnn.com/2016/11/07/asia/india-new-delhi-smog-pollution/index.html" target="_blank"><u>笼罩在一层烟雾中</u></a>，根据美国驻印大使馆测量的空气质量指数，其PM2.5值达到了999，15倍于安全限制，超出了500这个PM2.5的有害级别。新德里的PM2.5指数当天没有降至400以下。相比之下，曾因为严重空气污染而受到关注的中国，污染最严重的保定市周一的PM2.5指数是298，北京是30。印度第二污染严重的城市Chandrapur的PM2.5指数是824。世界卫生组织曾<a href="http://www.who.int/bulletin/volumes/94/7/16-020716/zh/" target="_blank"><u>指出</u></a>，印度需要动员政府各部门的力量，有系统地处理该国空气污染问题，减轻不良健康造成的沉重负担。
+➜EA透露《质量效应：仙女座》新细节
+https://www.solidot.org/story?sid=50290	33758
+<center>
+<iframe src="https://www.youtube.com/embed/pyZw_oqk7Q8" allowfullscreen="" height="288" frameborder="0" width="512"></iframe>
+</center>
+<br>
+EA/BioWare在11月7日（又称N7日）公布了《<a href="https://www.masseffect.com/" target="_blank"><u>质量效应：仙女座</u></a>》的<a href="https://www.youtube.com/watch?v=pyZw_oqk7Q8" target="_blank"><u>新预告片</u></a>和游戏的<a href="http://www.gameinformer.com/p/andromeda.aspx" target="_blank"><u>新细节</u></a>。《仙女座》发生在《质量效应3》收割者入侵地球前夕的2185年，人类及多个外星种族建造了4艘方舟飞往距离银河最近的仙女座星系。这项被称为Andromeda Initiative的计划始于2176年，这是一次单程旅行，银河系的多个文明试图在仙女座建立永久性基地，创建一条连接银河系和仙女座的可靠路线。殖民者并不知道即将到来的入侵及最终大结局，他们是探险家，是进入仙女座的“外星人”。每一艘方舟由一名探路者率领，人类方舟的探路者叫Alec Ryder ，是游戏主角Scott Ryder和Sara Ryder的父亲，故事的一个主要方面将是探索未知的仙女座。《仙女座》将在明年春天发布，EA已经开放了游戏的<a href="https://www.origin.com/usa/en-us/store/mass-effect/mass-effect-andromeda/standard-edition" target="_blank"><u>预售</u></a>，标准版60美元，豪华版70美元，超级豪华版100美元，主要是多了些多人游戏方面的奖励。
+➜粒子在绝对零度附近表现出量子本性
+https://www.solidot.org/story?sid=50291	36054
+想象一下电流不再流动，而是慢慢的移动？普朗克固体研究所的研究人员将扫描隧道显微镜冷却到绝对零度附近，在如此低的温度下电子<a href="http://sciencebulletin.org/archives/7440.html" target="_blank"><u>表现出了量子本性</u></a>，电流变成了粒状介质，由一个个个体构成，像沙漏中的沙子一样通过导体。<a href="http://www.nature.com/articles/ncomms13009" target="_blank"><u>研究报告</u></a>发表在《 Nature Communications》期刊上。电流原本和水流一样是均质介质，无法区分其中的个体。当研究人员将温度冷却到 15 mK或零下273.135°C，他们看到了组成电流的个别电子，电流不再均质而是变成了粒状。研究人员认为这项突破有助于更好的理解超导性和轻物质相互作用。
+➜Android 11月安全更新没有修复Dirty Cow漏洞
+https://www.solidot.org/story?sid=50292	37874
+Android用户<a href="http://arstechnica.com/security/2016/11/fix-for-critical-android-rooting-bug-is-a-no-show-in-november-patch-release/" target="_blank"><u>还需要等待</u></a>一个月才能修复上个月披露的Dirty Cow提权漏洞。Dirty Cow内核漏洞被认为是内核至今曝出的最严重提权漏洞，影响所有Android版本，它非常容易被利用，可被<a href="http://www.solidot.org/story?sid=50122" target="_blank"><u>用于Root任何Android 设备</u></a>。但刚刚发布的<a href="https://source.android.com/security/bulletin/2016-11-01.html" target="_blank"><u>11月安全更新</u></a>没有包含修复Dirty Cow漏洞的补丁。该漏洞已被用于恶意的攻击Linux服务器，让不受信任的用户获得root权限。而Dirty Cow也正被Android用户用于root设备。
+➜Soylent认为海藻是导致人生病的罪魁祸首
+https://www.solidot.org/story?sid=50293	38431
+Soylent 1.6版的代餐粉和能量棒被发现会导致部分用户出现不同程度的呕吐和腹泻等肠胃不适反应，Soylent的开发商Rosa Labs因此<a href="http://www.solidot.org/story?sid=50189" target="_blank"><u>停售了</u></a>两款产品。1.6版配方与1.5版配方的主要变化是用黑米蛋白替换为大豆蛋白，加入了海藻粉和海藻油作为辅助碳水化合物和脂肪来源。该公司现在相信海藻成分是<a href="https://www.bloomberg.com/news/articles/2016-11-07/soylent-thinks-it-found-what-was-making-people-sick-algae" target="_blank"><u>导致人生病的罪魁祸首</u></a>，公司联合创始人兼CEO Rob Rhinehart表示将在明年推出采用新配方的代餐粉，不再包含海藻粉。向Soylent提供海藻粉成分的TerraVia Holdings Inc.则声称海藻粉是安全的，认为Soylent包含的刺激物如大豆分离蛋白和甘油能导致客户报告的不良反应症状。TerraVia 的股价下跌了 8.1%，失去Soylent这个客户动摇了部分投资者的信心。
+➜中国网民认为字幕组是英雄
+https://www.solidot.org/story?sid=50294	41598
+字幕组帮助将日漫日剧引入到中国，许许多多的中国网民因此迷上了日本文化，而不管官方对日本是什么态度。因为用户有需求，中国的众多视频网站也从日本引入了正版的日漫日剧。然而由于中国特殊而严厉的监管环境，不是所有用户感兴趣的内容都能引入到中国，字幕组的存在帮助解决了内容问题，虽然毫无疑问字幕组的所作所为是违反版权法的，而日本的内容版权方没有从中得到多少收入。从促进文化交流看，主要以自愿为主的字幕组是中国网民心中的英雄。对于日经的字幕组非英雄论，一位中国网民<a href="http://cn.nikkei.com/columnviewpoint/column/22201-20161107.html" target="_blank"><u>指出</u></a>，“正常国家确实不能这样，但非常状态下……举个不恰当的例子，正常情况下组织偷渡绝对是犯罪，但把犹太人偷渡出纳粹德国的绝对是英雄...字幕组被当成英雄并不是因为他们突破了版权，而是中国国情所决定的看的到和看不到的问题，不是肯不肯出钱的关系，而是能不能合法引进的问题”。
+➜新研究报告智商与瞳孔大小相关
+https://www.solidot.org/story?sid=50295	41772
+<a href="/~这又是什么">这又是什么</a> 写道 <i>"发表在《Cognitive Psychology》上的<a href="http://dx.doi.org/10.1016/j.cogpsych.2016.10.001">一篇文章</a>报告，高认知能力个体与低认知能力个体的在基线水平下的瞳孔大小有肉眼可见的差别。文章中报告了三个子研究。第一个子研究说明这种差别不能被心理负荷解释。第二个实验子研究即便是考虑到对环境的熟悉程度的影响，差别仍然存在。第三个子研究说明瞳孔大小与流体智力有关，但与工作记忆的容量无关。文章据此推测：流体智力蓝斑核-去肾上腺素系统（LC-NE System）对静息状态下的大脑的调节相关——之所以高认知能力个体的基线瞳孔大小比较大，是因为此类个体上受 LC-NE 系统调节的默认模式网络与执行控制网络间的功能性联结更强。"</i>
+➜美国最新战舰的火炮没有炮弹，因为炮弹太贵了
+https://www.solidot.org/story?sid=50296	44503
+上个月服役的DDG-1000 Zumwalt号驱逐舰装备了两门能攻击100英里外目标的火炮，<a href="http://www.defensenews.com/articles/new-warships-big-guns-have-no-bullets" target="_blank"><u>但火炮没有炮弹</u></a>，因为每一枚炮弹的费用高达80万美元，美国海军因此取消了订单。被称为远程对地攻击弹（<a href="https://en.wikipedia.org/wiki/Long_Range_Land_Attack_Projectile" target="_blank"><u>LRLAP</u></a>）的炮弹由洛克希德马丁公司研发，使用火箭助推，利用GPS精确导航，能以50米的精度远距离攻击目标。DDG-1000的先进火炮系统每分钟射出10枚LRLAP。在最初的计划中，LRLAP因为高精度而被认为能减少费用，但Zumwalt级驱逐舰的生产数量减少到三艘，LRLAP的生产成本飙升到了每枚80万美元，相比之下能携带核弹头的战斧巡航导弹的费用也不过100万美元，155毫米激光制导和GPS制导炮弹的费用不到7万美元。
+➜非法象牙主要来自近期被猎杀的大象
+https://www.solidot.org/story?sid=50297	46207
+研究人员利用碳定年法测量了执法部门扣押的数百象牙，发现绝大部分非法交易的象牙<a href="http://www.nature.com/news/illegal-ivory-mostly-from-recent-elephant-killings-1.20953" target="_blank"><u>都来自近期被猎杀的大象</u></a>。这一发现让有关腐败政府通过慢慢销售库存象牙参与非法交易的猜测划上休止符，生态保护者现在需要将所有资源集中到防止大象偷猎而不是对抗政府腐败上面。研究人员测量了321个在2002年到2014年扣押的象牙的碳-14同位素，判断大象死亡的时间，发现只有4个样本的时间超过扣押时间5年。

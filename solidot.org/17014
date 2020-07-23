@@ -1,0 +1,48 @@
+➜Mozilla 将在 Firefox 49 中 移除 Hello
+https://www.solidot.org/story?sid=49141	8397
+Mozilla 的 bug 跟踪系统 bugzilla <a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1287827"><u>显示</u></a>，工程师正计划在 Firefox 49 中移除 WebRTC 视频聊天客户端Firefox Hello。Hello 是Mozilla在2014年12月1日发布 Firefox 34 时整合到浏览器中的，当时Hello是核心代码库的一部分，但在2015年12月，Mozilla 将 Hello 转变成一个独立的扩展，预装在 Firefox 上，是浏览器的第一个系统扩展。Firefox 49 计划在9月13日发布，工程师将在8月1日从 Firefox 49 beta 版中移除 Hello 。Mozilla工程师没有解释为什么要移除 Hello，但推测是其使用率很低，<a target="_blank" href="http://news.softpedia.com/news/mozilla-plans-to-remove-hello-in-firefox-49-506795.shtml"><u>移除它有助于节省空间</u></a>，而Mozilla正致力于重构 Firefox 代码，赶上竞争对手 Chrome、Opera 和 Vivaldi。
+➜中国财团44亿美元收购赌博游戏开发商
+https://www.solidot.org/story?sid=49142	9722
+《金融时报》<a href="http://www.ftchinese.com/story/001068716"><u>报道</u></a>，巨人网络牵头的一个中国财团同意以44亿美元现金收购美国凯撒互动娱乐旗下在线博彩类游戏开发商Playtika。Playtika总部设在以色列，成立于2010年，2011年被凯撒以8000万到9000万美元的估值<a target="_blank" href="https://en.wikipedia.org/wiki/Caesars_Entertainment_Corporation#Playtika_Company_acquisition">收购</a>。这一全现金交易是中国一系列大型并购的最新一例，这个财团希望利用中国以及其他新兴市场对于移动游戏迅速增长的需求。根据汤森路透的数据，今年上半年，中国公司达成了总计1211亿美元的跨境交易，超过了去年全年1115亿美元的境外收购纪录。
+➜滴滴出行将收购优步中国
+https://www.solidot.org/story?sid=49143	17999
+<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-08-01/uber-said-to-merge-china-business-with-didi-in-35-billion-deal"><u>彭博社</u></a>和《华尔街日报》援引知情人士的消息<a target="_blank" href="http://www.wsj.com/articles/china-s-didi-chuxing-to-acquire-rival-uber-s-chinese-operations-1470024403"><u>报道</u></a>（付费墙），滴滴出行就收购竞争对手优步( Uber）中国业务达成协议，从而结束这两家公司在网约车市场上的激烈竞争局面。知情人士表示，交易最早在周一宣布。优步及其投资者将拥有合并后的公司的20%的股权，而滴滴出行将向优步的全球业务投资10亿美元以交换对其中国业务的运营。这不是中国网约车市场第一次大型合并，在这之前滴滴出行就是在去年由滴滴打车和快的打车合并而来。
+➜所有Windows 10内核模式驱动都必须由微软签名
+https://www.solidot.org/story?sid=49144	18889
+微软<a target="_blank" href="https://blogs.msdn.microsoft.com/windows_hardware_certification/2016/07/26/driver-signing-changes-in-windows-10-version-1607/"><u>宣布</u></a>，所有的新Windows 10 内核模式驱动都必须递交到 Windows Hardware Developer Center Dashboard入口去获得微软的数字签名。没有微软签名的新内核模式驱动将不会被系统加载。微软称，从Windows 10发布之初它就宣布了这一政策，但由于技术和生态系统准备方面的问题，这一政策并没有执行。但从全新安装的 Windows 10 v1607（一周年更新)开始，驱动签名政策<a target="_blank" href="https://tech.slashdot.org/story/16/07/31/2146234/all-windows-10-kernel-mode-drivers-must-be-digitally-signed-by-microsoft"><u>将开始执行</u></a>。如果你的Windows 10系统是从旧版升级而来，那么系统会接受现有的驱动。但如果你未来准备全新安装，那么现在的驱动可能会被操作系统拒绝。
+➜GIMP 的未来
+https://www.solidot.org/story?sid=49145	24701
+GIMP 开发者 Jehan Pagès 发布了<a target="_blank" href="http://girinstud.io/news/2016/07/gimp-2-9-4-and-our-vision-for-gimp-future/"><u>一篇受到广泛关注的博客</u></a>，谈论了刚刚发布的开发版 GIMP 2.9.4 和 GIMP 项目的未来。Pagès 认为，非破坏性图形处理核心 <a target="_blank" href="http://gegl.org/"><u>GEGL</u></a> 项目将是自由开源图形处理的未来，他想象了一个绝大多数大型图形程序整合GEGL的未来，比如3D软件 <a target="_blank" href="http://blender.org/"><u>Blender </u></a>使用 GEGL 实现 nodes编辑器，处理的图像能在两个程序之间交换；而照片编辑软件 <a href="http://darktable.org">darktable</a> 能与  GIMP 共享缓存，在一个程序里编辑的图像能实时在另一个程序中更新 。根据 GIMP 的计划，尚未发布的 <a target="_blank" href="http://wiki.gimp.org/wiki/Release:2.10_changelog"><u>GIMP 2.10 </u></a>将完整支持 GEGL，而上个大的稳定版本2.8还是在2012年发布的。
+➜微软的开源JS引擎 ChakraCore 支持Linux和OSX
+https://www.solidot.org/story?sid=49146	28258
+微软已经认识到 Linux 是一个值得支持的平台，它正将旗下的应用和软件<a target="_blank" href="http://www.cio.com/article/3101966/linux/with-chakracore-on-linux-microsoft-doesnt-discriminate.html"><u>移植到 Linux</u></a>。在上周的 Node 峰会上，微软<a target="_blank" href="https://blogs.windows.com/msedgedev/2016/07/27/chakracore-on-linux-osx/#hL3KdkrhkHkwX3oz.99"><u>宣布</u></a>它的开源 JavaScript 引擎 ChakraCore 支持 Linux 和 OS X。<a target="_blank" href="https://github.com/Microsoft/ChakraCore"><u>ChakraCore</u></a> 是微软 Edge 浏览器和 Universal Windows Platform 所使用JS引擎 Chakra 的开源版本，是一个独立的JS虚拟机，可嵌入到衍生产品中。微软称，非Windows 平台版本支持的JavaScript特性集与Windows版本相同。微软使用了 Ubuntu 作为作为演示的主要Linux发行版，它表示很容易转换到其它Linux现代发行版。
+➜Onion Debian服务上线
+https://www.solidot.org/story?sid=49147	29449
+Debian 系统管理员 <a target="_blank" href="https://dsa.debian.org//dsablog/2016/Onion_Services/">Peter "weasel" Palfrader</a> 利用 Tor 隐藏服务<a target="_blank" href="https://onion.debian.org/"><u>设立了</u></a>一系列 Debian 静态网站，用户可以通过Tor浏览器访问这些 Debian子网站，比如FTP服务器<a target="_blank" href="http://vwakviie2ienjx6t.onion/"><u>vwakviie2ienjx6t.onion</u></a>，安全团队网站<a href="http://ynvs3km32u33agwq.onion/">ynvs3km32u33agwq.onion</a>，其它浏览器无法访问.onion域名。使用Tor浏览器的一个好处是网站不会知道你的真正IP地址，但 Tor 在中国的访问非常不稳定。
+➜研究称中国学生的批判性思维能力在大学停滞
+https://www.solidot.org/story?sid=49148	32290
+中国的中小学教育常被人批评培养出来只会死记硬背的学生，但<a target="_blank" href="http://cn.nytimes.com/china/20160801/china-college-education-quality/"><u>一项新的研究暗示</u></a>，中国培养出了世界上一些批判性思维能力最强的学生。这项斯坦福大学研究人员做的新研究还发现，中国学生的批判性思维能力在大学期间失去优势。这表明，中国迅速扩张的高等教育系统中存在问题。这项将在明年发表的研究发现，中国计算机科学和工程专业的新生入学时，其批判性思维能力比美国和俄罗斯的同类新生的水平高两到三年。这些能力包括识别假定、验证假设，以及找到变量之间的关系。然而中国学生的批判性思维能力在读了两年大学后几乎没有改进，而他们在美国和俄罗斯的同龄人则取得了显著的进步。学生在进入大学之前压力很大，但一旦进入大学，压力就消失了。斯坦福大学的研究人员推测，许多中国大学低质量的教学是出现这种结果的一个最重要的因素。官方统计数据显示，几乎所有的大学生都可以在四年后顺利毕业，这降低了他们努力学习的动力。
+➜新西兰计划到2050年消灭所有老鼠
+https://www.solidot.org/story?sid=49149	34634
+新西兰是一个孤立的群岛，由于缺乏天敌，岛上生活的一些独特鸟类如鹬鸵已经失去了飞行能力。但最近引入的物种如老鼠、负鼠和白鼬，每年杀死了2500万只这些本土鸟。新西兰总理 John Key 宣布设立2500万美元的种子基金成立 Predator Free New Zealand Ltd.，计划到2050年<a target="_blank" href="https://www.sciencemag.org/news/2016/07/new-zealand-s-mind-blowing-goal-rat-free-2050"><u>消灭上述三种动物及其它五种外来捕食者</u></a>。奥克兰大学生物保护学家 James Russell认为，最新的目标相当于人类登上火星，取得成功需要新的技术和投入数以十亿美元。
+➜外遇催生“小三劝退师”的新职业
+https://www.solidot.org/story?sid=49150	35855
+一位妻子通过手机发现丈夫有外遇，她没有和丈夫直接对峙，<a target="_blank" href="http://cn.nytimes.com/china/20160801/china-marriage-affair-mistress/"><u>而是在百度上搜索“小三劝退师”</u></a>，雇佣了一家评价颇高的公司。劝退师最终成功劝退小三接受另一个城市的更高薪水的职务。一位“劝退师”称，劝退小三要从研究目标女子开始。一个调查团队——通常包括一名情感治疗师，为了安全起见，还会包括一名律师——在派出一名“顾问”之前，会分析她的家庭、朋友、教育经历和工作状况，“只要我们分析出了她是哪一种类型的情妇，是为了钱，为了爱，还是为了性的，我们就可以找到应对的方案。”这类服务并不便宜，一家提供该服务的公司基本收费标准是30万人民币，不包括额外开支如租赁昂贵公寓或汽车。一家公司称其客户数量从前年的8000名增加到了去年的1万名。
+➜中国科学家提出的NgAgo基因编辑技术遭遇质疑
+https://www.solidot.org/story?sid=49151	38375
+河北科技大学韩春雨团队今年五月在《自然·生物技术》发表论文《<a target="_blank" href="http://www.nature.com/nbt/journal/v34/n7/full/nbt.3547.html"><u>NgAgo DNA单链引导的基因编辑工具</u></a>》，提出了 CRISPR/Cas9基因编辑技术的替代方法。但其他科学家的重复实验并未获得成功，许多人对实验结果是否可重复<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/8/352657.shtm"><u>提出了质疑</u></a>。 澳大利亚国立大学的基因学家Gaetan Burgio发表重复实验结果称<a target="_blank" href="http://www.ipscell.com/2016/07/gaetan-burgio-new-data-theory-on-ngago-versus-crispr/"><u>没有发现NgAgo能进行基因组编辑的证据</u></a>。韩春雨对实验的可重复性则充满信心，但同时也表示，目前来说，实验的操作确实不那么容易，未来让实验实现起来更容易也是他努力的方向之一。 他此前在网上表示新系统刚出来都会“不好使”，目前 NgAgo 系统不够稳定，等2.0版本出来会找专门机构免费发放。
+➜戴尔告诉EMC雇员扔掉Mac
+https://www.solidot.org/story?sid=49152	41100
+戴尔去年宣布以670亿美元（最后成交是624亿美元）收购企业存储设备供应商EMC。在合并过程中，这家PC制造商告诉EMC雇员 <a target="_blank" href="http://www.theregister.co.uk/2016/07/29/ditch_your_macs_dell_emc/"><u>扔掉他们的Apple Mac</u></a>。一份内部公告称，戴尔的客户在会议和咨询期间必须只能看到戴尔的笔记本电脑。合并完成之后，EMC的雇员将会在工作中全部使用运行Windows的戴尔PC。<a target="_blank" href="http://www.theregister.co.uk/2016/07/20/dell_emc_email_address_lappies/"><u>报道称</u></a>，从8月2日起所有EMC雇员将获得@dell.com的电邮，他们将使用Dell XPS电脑。
+➜Windows 10占了五分之一的桌面市场
+https://www.solidot.org/story?sid=49153	43056
+<div align="center"><img src="http://img.solidot.org/0/777/lic4FsU6cLhc.png" align=""><br>
+</div>
+<br>
+根据Net Applications的最新<a href="http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0" target="_blank"><u>数据</u></a>，微软向Windows 7/8.1用户提供一年免费升级的Windows 10占据了21.13%的桌面市场份额，而Windows 7市场份额最高占47.01%，早已停止支持的Windows XP仍然有10.34%的份额。<a target="_blank" href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2&amp;qpcustomd=0"><u>在桌面浏览器市场</u></a>，Windows 10预装的Microsoft Edge使用率并不高，其市场份额落在竞争对手Firefox 和Google Chrome后面，Edge市场份额5.09%，Chrome最高50.95%，IE次之29.6%，Firefox 8.12%。
+➜白矮星用相对论电子轰击伴星
+https://www.solidot.org/story?sid=49154	44836
+在1970年代，研究人员观察了恒星 AR Scorpii 在3.5小时周期内的亮度变化，将其标记为“周期变星”，然后就不再关注它了。现在，一个国际团队对 AR Scorpii 进行了更仔细的观察，发现AR Scorpii的亮度变化比以前认为的要剧烈的多：它的亮度在30秒内就变化了400%。他们发现，AR Scorpii实际上是一个双星系统，其中一颗向另一颗<a target="_blank" href="http://arstechnica.com/science/2016/07/white-dwarf-bombards-its-companion-with-relativistic-electrons/"><u>发射了相对论电子轰击</u></a>。<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18620.html"><u>研究报告</u></a>发表在《自然》期刊上。
+➜宽带“卡带”现象
+https://www.solidot.org/story?sid=49155	46077
+工信部公布的数据称，截至2016年5月底，中国固定宽带平均接入速率提升至29.5Mbps；光纤到户的用户数达到1.8亿，占宽带用户比例的66.4%。但数据无法表现出用户对网速的真实体验，很多城市小区的用户抱怨网速慢得打不开网页。<span id="Main_Content_Val">宽带“卡带”现象的主要原因被认为是<a target="_blank" href="http://opinion.caixin.com/2016-08-01/100973068.html#gocomment"><u>垄断和缺乏市场竞争</u></a>：运营商垄断上游宽带资源，民营公司需要从运营商处批发带宽。由于带宽批发价格未形成良好的市场机制，有时甚至与市场严重倒挂，民营公司成本压力大，要么利用运营商管理漏洞购买黑市带宽，要么用有限的带宽供给用户。

@@ -1,0 +1,43 @@
+➜叙利亚异议者遭到新一波国家资助的网络攻击
+https://www.solidot.org/story?sid=30165	1200
+叙利亚反政府活跃分子<a href="https://threatpost.com/en_us/blogs/syrian-dissidents-hit-another-wave-targeted-attacks-062012">正遭遇新一波网络攻击</a>，攻击者这次使用的是远程访问工具BlackShades RAT，能记录按键和截屏，而<a href="__SLASHLINK__" sect="it" sid="12/05/05/0152212" sn="article" tid="100">上次攻击</a>使用的是有类似功能的Xtreme RAT。新一轮攻击也是通过Skype传播恶意链接，当受害者点击链接后，他会被定向到一个网站下载文件new_new .pif，该文件然后下载安装多个文件，其中包括按键记录器和确保永久感染机器的恶意程序。<a href="https://www.eff.org/deeplinks/2012/06/darkshades-rat-and-syrian-malware">EFF</a>和Citizen Lab<a href="https://citizenlab.org/2012/06/syrian-activists-targeted-with-blackshades-spy-software/">分析后认为</a>，有证据显示攻击者是支持叙利亚政府的黑客。
+➜美国工程师创造10亿像素超级照相机
+https://www.solidot.org/story?sid=30166	12000
+美国研究人员<a href="http://news.sciencemag.org/sciencenow/2012/06/scienceshot-get-ready-for-giga.html">创造了</a>能拍摄10亿像素照片的照相机原型，其分辨率足以辨别1公里外3.8厘米宽的目标。<a href="http://www.nature.com/nature/journal/v486/n7403/full/nature11150.html">报告</a>发表在《自然》期刊上。这项研究获得了美国国防部高级研究计划署（DARPA）的资助，可应用于军用和太空领域。<i>
+名叫AWARE-2的照相机重93千克，大小为0.75米 x 0.75米 x 0.5米，它组合使用了98个微型照相机，每个配备1400万像素镜头，系统能将同时拍摄的98副照片无缝拼接成9.6亿像素的图片。照相机的视场宽120度，高50度。研究人员<a href="http://phys.org/news/2012-06-gigapixel-camera.html">预计</a>，通过增加更多微型照相机，其分辨率有可能达到500亿像素。
+</i>
+➜Google法定赔偿为零，甲骨文准备上诉
+https://www.solidot.org/story?sid=30167	14400
+甲骨文同意接受零美元价值的赔偿，<a href="http://arstechnica.com/tech-policy/2012/06/oracle-accepts-0-in-damages-from-google-moves-toward-appeal/">但表示将提起上诉</a>。甲骨文起诉Google的专利和版权侵权案在经历一次“部分胜利”后不断败退，Java API被裁定不受版权保护，因此最后只剩下rangeCheck中的9行代码和8个反编译测试文件侵犯了甲骨文的版权。根据甲骨文和Google向William Alsup法官递交的约定和提议，甲骨文同意接受零美元的法定赔偿，但它同时表示将向联邦地区上诉法院提起上诉。当Alsup法官问何时能再在法庭上与双方会面，甲骨文律师Michael Jacobs回答，“我希望在上诉后再见你一面。”
+➜黑龙江气象局称气候资源归属国家来自宪法
+https://www.solidot.org/story?sid=30168	14700
+6月15日，黑龙江省政府网站发布<a href="http://www.hljfz.gov.cn/data/xwxx/news/20120615173450100.html">公告</a>，宣布《黑龙江省气候资源探测和保护条例》已在2012年6月14日的人大会议上通过，将于2012年8月1日起正式施行。按照《条例》规定，企业探测开发风能及太阳能资源必须经过气象部门批准，而且探测出来的资源属国家所有。黑龙江省气象局办公室副主任马绪清对此<a href="http://www.infzm.com/content/77145">表示</a>，《宪法》第9条规定，自然资源属国家所有，气候资源属于自然资源，应归全民所有。他表示《条例》中没有设立任何使用权，也没有规定任何收费项目，所以谈不上扩权、寻租、收费，称是为了进行科学管理，有助于对产业奠定良好科学和规范的基础，有利于产业的健康发展。
+➜Windows Phone 8宣布，现有手机不支持升级
+https://www.solidot.org/story?sid=30169	26100
+微软<a href="http://arstechnica.com/gadgets/2012/06/beyond-the-kernel-windows-phone-8s-siri-like-speech-voip-integration-nfc-wallet/">正式宣布了</a>Windows Phone 8移动操作系统，支持最多64个核心，分辨率从800x480提高到1280x768；支持基于BitLocker的全设备加密，进军企业级市场；支持多任务和原生应用程序，集成VoIP软件，提供类似Siri的语音助手，改进NFC支持；个性化启动屏幕。Windows Phone 8是基于与Windows 8相同的核心组件，而目前的Windows Phone 7.5是基于嵌入式系统Windows CE，上面运行的应用程序是用C#或Visual Basic .NET开发，新内核让Windows Phone 8<a href="http://arstechnica.com/gadgets/2012/06/windows-nt-coming-to-phones-with-windows-phone-8/">可以运行C++开发的原生应用程序</a>，游戏开发商将能更容易的将游戏移植到手机平台。但代价是现有的WP 7.5平台<a href="http://arstechnica.com/gadgets/2012/06/no-windows-phone-8-upgrade-for-current-phones/">将不能升级到WP8</a>，而此类手机不过才上市几个月。WP 7.5将能升级到WP7.8，微软证实它将包含个性化启动屏幕，但其它新功能尚未公开。
+➜中国黑客通过木马内置聊天功能和研究人员聊天
+https://www.solidot.org/story?sid=30170	27900
+AVG安全研究人员与一位中国黑客通过木马内置聊天功能<a href="http://blogs.avg.com/news-threats/chatted-hacker-virus/">展开了“友好”的交流</a>。<i>
+这位黑客通过《暗黑III》游戏论坛散播恶意程序，他声称提供一个与BOSS对战的视频文件，但实际上是按键记录工具，能窃取受害者的battle.net帐号。安全研究人员在研究恶意程序的关键日志代码时发生了一件不可思议的事情：一个聊天窗口突然弹出，黑客输入了中文询问“你研究我的木马干什么”，“想研究出什么来”。聊天功能整合在木马中，他接着说，“我都不知道还能看到屏幕”，“你没有摄像头，有摄像头我就能看看你长什么样了”。研究人员继续与他聊天，表示要从他手中购买木马，但黑客并不蠢，他随后远程关闭了系统。</i>
+➜联合国无意控制互联网，但想帮助电信公司牟利
+https://www.solidot.org/story?sid=30171	31500
+国际电信联盟（ITU）秘书长Hamadoun Touré周三<a href="http://arstechnica.com/tech-policy/2012/06/un-doesnt-want-to-take-over-internet-does-want-to-help-telcos-profit/">表示</a>，联合国没有兴趣控制互联网，但有意帮助电信运营商牟利。<i>
+今年12月迪拜举行的国际电信联盟世界会议（WCIT）将讨论修订国际电信条约，美国政府和新闻机构警告联合国可能将通过国际电信联盟控制互联网。Hamadoun Touré在日内瓦总部说，ITU认识到所有成员国都试图对言论自由施加不同类型的限制。限制名单包括版权侵犯、色情、诽谤和政治言论。他说，此类限制是ITU章程所允许的，成员国可依据本国法律，保留切断通信的权力。他不认为WCIT会议将会对信息的自由流动设置障碍。换句话说，成员国本质上可以对互联网为所欲为。他证实WCIT会议讨论的一个重要问题是电信运营商收入因为数据流量增加而面临风险，一种解决方案是对内容供应商收费。
+</i>
+➜双龟交尾时死去，被保存千万年
+https://www.solidot.org/story?sid=30172	33480
+比交配时死去更为尴尬的是，“作案现场”被保存上千万年后为一个高等种族发掘了出来，目瞪口呆的看着你们，然后写了一篇论文讲述你们的浪漫故事。对一种古代水龟而言，<a href="http://news.sciencemag.org/sciencenow/2012/06/turtle-sexpreserved-for-the-ages.html">这一噩梦刚刚变成了现实</a>。古生物学家在《Biology Letters》上发表<a href="http://rsbl.royalsocietypublishing.org/lookup/doi/10.1098/rsbl.2012.0361">论文</a>，他们发现了9对在交尾时死亡的水龟，它们死于在4700万年前。9对水龟中有7对龟沿着壳边直接接触，其中两对的雄性尾巴已经深入到了雌性壳下的交配位置。这些龟死亡的原因未知。
+➜天文学家拍摄下近地小行星与地球错身而过的视频
+https://www.solidot.org/story?sid=30173	35280
+天文学家公布了夏威夷红外望远镜装置（InfraRed Telescope Facility，IRTF）拍摄的<a href="http://www.nature.com/news/astronomers-catch-asteroid-in-near-miss-video-1.10873">近地小行星飞过地球的实时视频</a>。小行星2012 KT42大约7米直径，5月29日飞过地球轨道，它距离地球最近时只有三倍地球半径，在已知近距离接触的小行星中排在第六位。视频中的小行星是一个明亮白点，看起来固定在中央，但事实上背景中的恒星在飞速闪过，小行星的实际飞行速度为每秒17公里。天文学家说，每年都有多颗类似大小的小行星与地球轨道交叉。
+➜海南强制三亚餐厅用iPad点菜
+https://www.solidot.org/story?sid=30174	37200
+海南省政府要求位于三亚的海鲜餐厅<a href="http://www.fortunechina.com/column/c/2012-06/20/content_104315.htm">使用iPad点餐</a>，菜品的价格一旦超出政府定价电脑<a href="http://newspaper.jfdaily.com/xwwb/html/2012-06/21/content_828727.htm">将会自动报警</a>。三亚是海南的一个沿海度假城市，每年都能吸引几十万游客。今年春节期间三亚出现的宰客事件使得该地区备受民众抨击。当地政府期冀通过采用更易监控的iPad点餐来解决当地旅游业面临的困境。
+➜美国法官裁决俄罗斯方块克隆游戏侵犯了版权
+https://www.solidot.org/story?sid=30175	39900
+美国联邦地区法院法院<a href="http://www.wired.co.uk/news/archive/2012-06/20/tetris-clone-ruling" rel="nofollow">作出裁决</a>，俄罗斯方块克隆游戏 <a href="http://toucharcade.com/2009/07/31/mino/" rel="nofollow">Mino</a>侵犯了版权持有者<a href="http://en.wikipedia.org/wiki/The_Tetris_Company" rel="nofollow">Tetris公司</a>的版权。侵权原因包括游戏方式和游戏设计元素。<i>
+Mino开发商Xio Interactive的律师没有否认复制了俄罗斯方块游戏的基本元素，但辩解称方块的形状和颜色，以及方块在游戏区中旋转的方式等等，都是游戏规则紧密不可分的一部分，因此是不能受版权保护的。换句话说，俄罗斯方块的每一部分都可以被合法拷贝。<a href="http://arstechnica.com/gaming/2012/06/defining-tetris-how-courts-judge-gaming-clones/">法官首先定义俄罗斯方块</a>，认为如下落的方块和旋转等简单元素确实没有版权，但其它如游戏区的形状，方块展示和消失方式和游戏结束自动展示得分等元素是受到版权保护的。
+</i>
+➜计算机有没有言论自由？
+https://www.solidot.org/story?sid=30176	42600
+哥伦比亚大学法学院教授吴修铭（Tim Wu)在《纽约时报》上<a href="https://www.nytimes.com/2012/06/20/opinion/free-speech-for-computers.html">发表评论</a>，问：如果计算机能说话，它们有没有宪法（美国）所赋予的言论自由权利？吴说，问题听来奇怪，似乎是一个哲学问题或与科幻相关，但问题的后果很严重，因为我们每天有许多决定是靠计算机作出的，如开车时GPS设备提供最佳行驶路线，打字时Microsoft Word给出拼写错误提示，上网时Facebook向你推荐朋友。UCLA法学教授Eugene Volokh此前在一篇论文（Google委托研究）中<a href="__SLASHLINK__" sect="it" sid="12/05/11/110212" sn="article" tid="26">宣称</a>，搜索引擎展示结果受宪法第一修正案言论自由保护。吴修铭显然对此有不同看法，他说弗兰肯斯坦的怪物能说话和走路，但这并不能使他有资格投票。宪法第一修正案不完全保护非人类或自动选择。将人类的权利赋予计算机是将机器提升到比人类更高的位置。

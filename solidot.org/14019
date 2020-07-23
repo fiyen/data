@@ -1,0 +1,75 @@
+➜Linux平台下"最糟糕"的硬件
+https://www.solidot.org/story?sid=6264	1800
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 "长期以来人们在安装Linux之前对所搭配的硬件平台和即将安装的发行版本的兼容问题总是考虑慎之又慎 - 每个Linux发行版的发布文档中总能发现"硬件兼容列表", 对于经常上"黑名单"的设备我们需要留意。<i>
+1. <a href="http://zh-cn.broadcom.com/">Broadcom无线设备</a> 这是一款高度成熟的产品线，甚至对于某些笔记本电脑生产商（HP，Compaq）都把它作为确省的无线网络设备。不仅仅基于它相对造价低廉的芯片组（某些C2C网站上最便宜的网卡都有可能是Broadcom的产品）相对出色的灵敏度。但是这一切都不能掩饰Broadcom在Linux下极其拙劣的表现：对于它的拳头产品BCP43XX有且仅有的Windows驱动，致使Linux用户们只有采用Alpha版本驱动，因此硬件驱动专有化是它最大的问题<br>
+<br>
+2. ATI显卡 在Windows品台下游戏上的杰出表现成功掩盖了各大Linux发行商的抱怨：首当其冲的就是Mark Shuttleworth的Ubuntu Linux；Solidot上不少机子安装ATI显卡的朋友对此怨声载道，其最主要的原因就是ATI采取了比Broadcom更为严格的驱动专有协定<br>
+<br>
+3. 希捷硬盘 如此一来"三剑客"就组成了；同样廉价，Seagate的问题不仅仅是专有驱动的问题，自去年年底Seagate所推出的"Free Agent"于Linux的<a href="http://hardware.slashdot.org/article.pl?sid=07/12/09/0651200">不兼容</a>，造成了硬盘数据读取不畅，以及有可能对硬盘造成的潜在破坏使Seagate的财务部门承受了极大的压力<br>
+<br>
+4. <a href="http://en.wikipedia.org/wiki/Softmodem">Win Modem</a>（软猫）可能一些Geeks甚至没有听说过（在宽带没有像现在这么铺天盖地的时候，"软猫"可是非常流行的）猜想可能是不屑使用。不管怎么说，有这么一个<a href="http://www.linmodems.org/">项目</a>重新部署和优化了Win Modem在Linux下的延续，热衷于DSP的Geeks可以尝试着参与进去"</i>
+➜RMS认为Google Docs剥夺了人们的自由
+https://www.solidot.org/story?sid=6265	3600
+<a href="http://tuxfans.com/">windrose</a> 写道 "自由软件之父Richard Stallman上周访问了台湾，分别在淡江和清华大学发表了两场演说。此后，他在接受当地媒体的采访时，谈到当前流行的在线应用程序，他认为这种这种服务<a href="http://www.zdnet.com.tw/print/?id=20129420">剥夺了使用者的自由</a>。
+<i>我去年才开始思索这个问题，像Google Docs这种透过Google的伺服器来处理个人资料与运算的服务。
+它有两个坏处，一是它会下载大量的专属程式码到你的浏览器，这不是件小事(non-trivial)，专属软体的坏处不会因为他透过浏览器执行或安装在电脑上执行而有什么不同。
+Google Docs的第二个坏处是，如果Google今天把Docs释出成自由软体，让你能够在完全自由软体的环境中去执行它，从传统自由软体的观点来看是OK的，但事实上，由于你可能必须透过他人的伺服器才能执行Google Docs这一类的网路型应用软体，你便丧失了对个人资料、个人运算的掌控权，其不自由的结果与专属软体并无不同，虽然造成不自由的方式相当不同。
+这很特别，因为就算Google把所有线上服务的软体都自由化了，却还是无法改变不自由的结果。</i>
+➜SMplayer: 更好的 Mplayer 前端图形影音播
+https://www.solidot.org/story?sid=6266	7200
+<a href="http://www.aolinux.cn/">jsonic</a> 写道 "对于 Mplayer 官方的 GMPlayer操作介面不太方便，有人做了更好的图形介面出来。<a href="http://www.aolinux.cn/2008/05/smplayer-mplayer.html"> <b>SMPlayer 的操作介面相当简单、直观，相当推荐使用。</b> </a>
+<i>
+特色:可快转前进、后退，快转时可照常同步播音：截至2008年5月仍少有软体具有可快转播放影片档案的能力。能够记忆您对所有播放档案的设定：所以当您已经开始播放影片但有事必需离开座位时，别担心，当您再次开始播放影片，播放程式会记住您先前看到的段落，并还原您对该影片的设定，例如：音轨、字幕或音量等。<a href="http://www.aolinux.cn/2008/05/smplayer-mplayer.html"> <b>查看全文 &gt;&gt; </b> </a>"</i>
+➜Intel与阿里巴巴联合开发电子商务PC
+https://www.solidot.org/story?sid=6267	7980
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.alibaba.com/">阿里巴巴</a>本周宣布，他们将与 <a href="http://www.intel.com/">Intel </a>联合开发<a href="http://www.pcworld.com/businesscenter/article/145922/intel_to_develop_ecommerce_pc_with_chinas_alibaba.html">一款用于中小企业上网的电脑</a>，该计划是两家公司深度合作的第一步，他们在一份<a href="http://www.intel.com/cd/corporate/pressroom/apac/zho/391719.htm">联合声明</a>中说，该电脑将使用 Intel 部件并预装阿里巴巴电子商务应用。 <br> <br>声明中未透露所谓的 Intel 部件是什么，但极可能是 Intel 即将与下月发布的 Atom 处理器。Atom 为低功耗笔记本电脑设计，但也可以用于低功耗的 PC  机，这种被 Intel 称作 nettops 的 PC 机成本低廉，主要面向于 Internet 应用。 <br> <br>在问及该电脑价格等问题时，阿里巴巴并没透露过多细节。有40%的股份被 Yahoo 拥有的阿里巴巴是中国的电子商务巨头，它的旗舰站 <a href="http://www.alibaba.com/">Alibaba.com</a> 为国外买家和中国的出口商牵线搭桥，对中国的众多小生产商而言，<a href="http://www.alibaba.com/">Alibaba.com</a> 是将他们的产品打入国际市场的最简单途径。 <br> <br>阿里巴巴同时拥有<a href="http://www.taobao.com/">淘宝网</a>，淘宝网是中国最受欢迎的拍卖网站，除了拍卖，中国的小公司还可以在过<a href="http://www.taobao.com/">淘宝网</a>开店，将他们的产品卖向国内市场。
+➜(视频)windows 7 已经不远了
+https://www.solidot.org/story?sid=6268	8100
+<a href="http://liduan.com/">inputx</a> 写道 "可以肯定的<a href="http://www.liduan.cn/post/198.htm">windows 7</a>已经不远了，我们已经可以看到一些清晰的身影。<a href="http://www.liduan.cn/post/289.htm">这里收集了两个windows 7的视频。</a>从视频上来看功能和操作界面上都有改进。可惜的是简短的视频无法看出稳定稳定性和安全性。"
+➜奥运圣火19日起停传3天
+https://www.solidot.org/story?sid=6269	8100
+<a href="http://www.zuixindy.org.cn/">最新电影</a> 写道 "据北京奥运会官方网站消息，5月12日，四川汶川等地发生大地震造成重大人员伤亡，为表达对在地震中遇难同胞的深切哀悼。北京奥组委决定，5月19日至21日，奥运圣火在境内的传递活动暂停三天。"
+➜连线杂志10大黑白照片
+https://www.solidot.org/story?sid=6270	8880
+<a href="http://www.comsharp.com/">35公里</a> 写道 "Wired连线杂志的黑白照片大赛已经结束，<a href="http://www.wired.com/culture/art/multimedia/2008/05/gallery_top_10_black_white?slide=1&amp;slideView=4">共评选出10幅获奖作品</a> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K362.aspx">(中文翻译)</a>，一个叫 Whiffleboy 的读者的作品 &quot;A Bit Spotty&quot; 最终获得一等奖。时值国难，黑白也许更贴近我们的内心。说明文字属随口敷衍，并无意义。
+➜Fedora 10 开发日程表公布
+https://www.solidot.org/story?sid=6271	10800
+<a href="http://www.ownlinux.cn/">OwnLinux</a> 写道 <i>"也许你还没有从 Fedora 8 升级到 Fedora 9，但 Fedora 社区的开发者们就已经拟定了 Fedora 10 的开发计划，并且也已经将 Fedora 10 开发日程表公布在了官方的WIKI上。不出意外的话我们在7月底就能用上 Fedora 10 的Alpha版，但这一期间出现跳票也是极有可能的，或许大家也知道 Fedora 9 是在经过了几次跳票后才正式发布的。<a href="http://www.ownlinux.cn/2008/05/20/fedora-10-release-schedule/">以下为一个简要的 Fedora 10 开发日程表:</a>"</i>
+➜Blender 2.46发布
+https://www.solidot.org/story?sid=6272	16920
+开源图像编辑软件Blender发布了<a href="http://www.blender.org/development/release-logs/blender-246/">最新的2.46版</a>。经过半年的努力，随同开源电影《<a href="http://peach.blender.org/">Big Buck Bunny</a>》的开发，新版本有了巨大的飞跃，新增了许多新功能。新的特性包括：<i>新的<a href="http://www.blender.org/development/current-projects/changes-since-245/hair-and-fur/">毛发组合工具</a>，重写了粒子系统，快速和优化过的毛皮渲染，新网格变形系统，新的图像浏览器，衣服模拟，近似全局环境光处理（Approximate AO），游戏引擎改进，软阴影....更多可见发布公告。</i> <a href="http://www.blender.org/download/get-blender/">下载</a>相应平台的软件包
+➜在Windows上运行的Linux虚拟桌面
+https://www.solidot.org/story?sid=6273	20400
+Ulteo昨日向外透露了它的<a href="http://www.ulteo.com/home/virtualdesktop">虚拟桌面</a>（<a href="http://www.ulteo.com/home/en/screenshots">屏幕截图</a>，<a href="http://www.ulteo.com/home/download">下载</a>）。它是一个免费的Linux桌面，可以无缝的运行在Windows上。与众不同的是，它并非运行在 Xen或VMWare虚拟机上，而是使用了<a href="http://www.colinux.org/">coLinux</a>，据称能让系统实现“良好的执行性能，相当于本地安装”。用户不需要经过重启，就可以从Windows 换到Linux。用户可以在单一的桌面上运行Windows和Linux上的应用程序，它支持<a href="http://www.ulteo.com/home/en/siriuslangs?autolang=en">中文</a>在内的数十种语言。
+<a href="http://tech.slashdot.org/article.pl?sid=08/05/19/2223258">/.</a>读者提到这种技术早就存在，<a href="http://www.andlinux.org/">andlinux</a>和<a href="http://phatlinux.com/">phatlinux</a>都可以实现类似的功能。
+➜新Linux发行版Exherbo宣布
+https://www.solidot.org/story?sid=6274	22800
+前Gentoo开发者Bryan Østergaard宣布了一个<a href="http://kloeri.livejournal.com/5016.html">新的Linux发行版</a>，命名为<a href="http://www.exherbo.org/">Exherbo</a>。<i>
+Bryan Østergaard已为此秘密努力了几个月，新发行版从很多方面都受到了他之前为Gentoo工作经历的影响。主要特性是新的软件包格式和其它几个子项目，包括重新设计init系统。Exherbo设计目标是为那些了解Linux的用户准备的，它不能算Gentoo的分支，大多数代码都是从零开始重写的。Exherbo不是用户导向，目前还没有提供安装媒介，但源码已经公开。开发者建议普通用户还是去使用Gentoo 或Ubuntu。</i>
+➜更多的决策者，更低的效率
+https://www.solidot.org/story?sid=6275	25200
+英国历史学家帕金森（<a href="http://en.wikipedia.org/wiki/Cyril_Northcote_Parkinson">Cyril Northcote Parkinson</a>）在上个世纪50年代发现了帕金森法则(<a href="http://en.wikipedia.org/wiki/Parkinson's_Law">Parkinson's Law</a>)，揭示了机构或公司管理人员持续膨胀的规律，指出管理层的人数超过20，就会严重削弱决策效率。现在物理学家<a href="http://www.sciencenews.org/view/generic/id/31927/title/The_undeciders_">发现</a>国家行政内阁的人数与整个国家的效率也存在相似的联系（<a href="http://arxiv.org/abs/0804.2202">arxiv预印本</a>），他们还给出了背后的数学解释。<i>
+维也纳医科大学的Stefan Thurner和他的团队评估了世界各国政府及联合国、世界银行的综合效率，考虑了文化、平均寿命、健康等因素。常识认为内阁越小就越容量达成一致意见，但是在世界其它国家，内阁必须大到足以代表最广泛的选民，Thurner说，“每位内阁部长背后，都有一群说客、利益集团和庞大的官僚机构。”研究发现国家的发展约束了行政内阁的人数。冰岛是世界最发达国家，它的内阁成员有12名。美国有17名，而缅甸有高达35名强力内阁，人数最多的是斯里兰卡，有54名。</i>研究人员的模拟结果显示人数在10名或以下（但8除外），能高效的达成一致。人数越多，达成一致的几率就会下降，超过20下降速度就会加快。
+➜Google帮助逮捕一位印度居民
+https://www.solidot.org/story?sid=6276	29700
+22岁的IT专业人士Rahul Krishnakumar Vaid因为在社交网络Orkut上写下“我恨索尼娅甘地（I hate Sonia Gandhi）”而遭逮捕，<a href="http://www.techcrunch.com/2008/05/18/hit-pause-on-the-evil-button-google-assists-in-arrest-of-indian-man/">Google向印度警方提供了电子邮件信息</a>。Vaid被起诉了违反了印度刑法第292条和信息技术法第67条，在网上社区发布辱骂印度国大党领袖索尼娅甘地的内容。如果被判有罪，他将可能要入狱5年，罚款10万卢比。这是第二起印度政府在Google帮助下逮捕其居民的事件，去年11月也有一位 Google用户在Orkut上张贴了一张亵渎印度教圣人<a href="http://en.wikipedia.org/wiki/Shivaji">Shivaji</a>的图像，印度官方联系Google要求提供他的IP地址， Google屈服，这位用户<a href="http://www.techgoss.com/fullstory.aspx?storyid=c22113522220011508011508%205:12:14%20AMS14347">随后被逮捕</a>，并被殴打，被强迫用同一个碗吃饭和撒尿。
+➜Google推出Google Health
+https://www.solidot.org/story?sid=6277	32400
+<a href="mailto:cuthead@live.cn">cuthead</a> 写道 <i>"Google似乎在昨天推出了筹备已久的<a href="http://www.google.com/Top/Health/">Google Health</a>。<a href="http://googleblog.blogspot.com/2008/02/google-health-first-look.html"> Google官方Blog</a>曾在2月报道过，Google似乎想要把这个平台做成一个可随身携带注重隐私观众关注用户的电子病历，目前暂时不知道能不能存CT和核磁共振片子。如果能让中国的医院把资料给Google，让更多的医学专家在网上诊断，说不定对病人会有所帮助。虽然这项服务很难引进到中国，比起美国中国的医疗保健行业电子化太落后，但我相信很多人会对此服务充满期待。"</i>
+➜费米实验室密码信已被破译
+https://www.solidot.org/story?sid=6278	33480
+不知有没有人真去研究前几天我们报道的<a href="__SLASHLINK__" sect="it" sid="08/05/17/0717226" sn="article" tid="70">费米实验室加密信件</a>？仅仅过了两天，这封天书就被两个人<a href="http://www.jgc.org/blog/2008/05/breaking-fermilab-code.html">各自</a>独立的<a href="http://www.gmilburn.ca/2008/05/17/fermilabs-strange-letter-progress/">破译</a>了，但同时又产生了新的疑问。两个专家破译结果相同，也可能是受/.一位读者<a href="http://it.slashdot.org/comments.pl?sid=555280&amp;cid=23440962">留言</a>（仅仅花了不到7小时就解决）的启发，答案是“frank shoemaker would call noise”，那么谁又是Frank Shoemaker？用Google<a href="http://www.google.cn/search?hl=zh-CN&amp;q=Frank+Shoemaker+site%3Awww.fnal.gov&amp;lr=&amp;btnG=Google+%E6%90%9C%E7%B4%A2">网站搜索</a>。
+➜微软CEO巴尔默被鸡蛋攻击
+https://www.solidot.org/story?sid=6279	45960
+近日微软CEO史蒂夫·鲍尔默在匈牙利布达佩斯的Corvinus大学发表演讲，开场不久就有激进反对者的<a href="http://www.itwire.com/content/view/18325/1103/">以鸡蛋袭击</a>[<a href="http://www.youtube.com/watch?v=I78el4OodGI">视频</a>]。
+<i>巴尔默：“I have one key question for the audiences before we start, how many of you still have examinations to take?”<br>
+胖男：“#￥%…*Hungary people…give the money back, right now!”
+</i>
+他的T-shirt背部写的是“Microsoft = Corruption”，在我国也是<a href="__SLASHLINK__" sect="mainpage" sid="07/04/20/0424238" sn="article" tid="32">不缺</a>这样的人这样的事的，该胖男的举动可能是由于匈牙利政府选择了MS的产品而不是其他，最后他自愿的(被带走)离开会场。<br>           相对盖茨<a href="http://youtube.com/watch?v=CD7uZAU2gmU">被蛋糕攻击</a>那是很幸运的了。
+➜召集Firefox 3在线文档翻译与修订
+https://www.solidot.org/story?sid=6280	47520
+mozine 上的<a href="http://log.mozine.cn/events/firefox-3-translations2">消息</a>：Firefox2 升级到 Firefox3 之后，有很多改进，因此文档也发生了相应的变化，这次的修订工作就是在已有的原先 Firefox2 的简体中文在线文档的基础上，对比 Firefox3 的英文在线文档进行修订。
+<br>
+文档以wiki的模式存放，需要讨论的地方，大家可以在 WIKI 左上角的讨论页中发言，和别的译者一起交流，翻译完成之后我们会组织人手进行校对。
+<br> <br>
+有兴趣的同学请猛击：<a href="http://wiki.sociz.com/@Firefox3%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3">Firefox3 在线文档</a> @ Sociz 文库

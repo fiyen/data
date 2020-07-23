@@ -1,0 +1,77 @@
+➜Google宣布1116位学生参加本年度的Summer of Code
+https://www.solidot.org/story?sid=23677	3240
+Google<a href="http://google-opensource.blogspot.com/2011/04/students-announced-for-2011-google.html">宣布</a>共有<a href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2011">1116位学生</a>参加2011年度<a href="http://code.google.com/soc/">Google Summer of Code</a>，参与开发<a href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2011">175个</a>开源项目。Google将为这项活动资助超过600万美元的奖学金。入选的开源项目包括了KDE、NetBSD、Mono、openSUSE、SETI、Mozilla、GNOME、Tor等等。今年没有学生参与开发Fedora或Ubuntu的项目。
+➜“天河一号”将在本周联网
+https://www.solidot.org/story?sid=23678	5040
+《联合早报》<a href="http://realtime.zaobao.com/2011/04/110426_31.shtml">报导</a>，GPU加速的全球最快超级电脑“天河一号”，将在本周联网，全球用户可远程登录使用。<i>
+国家超级计算天津中心副主任朱小谦表示，“天河一号”系统目前处于离线服务阶段，正在进行上网前的最后调试。本周内，“天河一号”全系统将实现联网，正式对外提供服务。“天河一号”超级电脑由140个机柜组成，占地约700平方米，总重量约160吨。自去年8月小系统投入使用至今，已在石油勘探、生物医药、动漫设计、工程设计与仿真分析、气象预报、遥感数据处理、金融风险分析、云计算等方面获得应用，为70多家用户单位提供了高性能计算服务，系统繁忙时使用率在90%以上。根据TOP500的<a href="http://top500.org/system/performance/10587">最新排名</a>，“天河一号A”以峰值4701000GFlops、持续2566000GFlops浮点运算，排名世界第一。</i>
+➜五款优秀的Linux缓存系统
+https://www.solidot.org/story?sid=23679	7200
+<a href="mailto:nandjjames@hotmail.com">Naomi James</a> 写道<i> "1897年，意大利经济学家帕累托（Vilfredo Pareto）发现，国家80%的财富是掌握在20%的人口手中。这一现象被称为<a href="http://zh.wikipedia.org/wiki/%E5%B8%95%E9%9B%B7%E6%89%98%E6%B3%95%E5%88%99">帕累托法则</a>或80-20法则。80-20法则不仅仅适用于经济领域，它同样可以推广到计算机系统缓存上面——80%的时间用户只访问20%的数据。缓存是一个未来访问的临时数据集，能被快速的检索到。缓存的优势是快速响应数据请求，但如果缓存中没有所请求的数据，将可能会消耗更多系统资源寻找数据，降低访问速度。通过让用户更快的访问常用的20%数据，可以提高系统总体性能。系统以多种不同的方式运用缓存，它可能是储存在内存、硬盘、数据库中。缓存也常被用于处理DNS请求。Linuxlinks收集了<a href="http://www.linuxlinks.com/article/20110422164756253/CachingSystems.html">五款优秀的开源或免费的Linux缓存系统</a>，供需要降低延迟和提高吞吐量的用户参考。包括：<a href="http://memcached.org/">memcached</a>，<a href="http://redis.io/">Redis</a>，<a href="http://www.membase.org/">Membase</a>，<a href="http://ehcache.org/">Ehcache</a>（免费下载），等等。</i>
+➜世界最后一家打字机工厂关门
+https://www.solidot.org/story?sid=23680	8640
+诞生于19世纪的<a href="http://en.wikipedia.org/wiki/Typewriter">打字机</a>在20世纪80年代起逐渐被计算机的字处理软件取代，慢慢退出了历史舞台。世界最后一家打字机制造商Godrej and Boyce本周宣布<a href="http://www.theatlantic.com/technology/archive/2011/04/last-typewriter-factory-in-the-world-shuts-its-doors/237838/">关闭位于印度孟买的工厂</a>。<i>
+虽然打字机在西方早已过时，但在印度依然很常见。然而过去十年，打字机的需求日渐稀少，消费者转向了电脑。该公司总经理Milind Dukle表示，他们的机器订单所获无多，计算机自2000年起占据了统治地位。直到2009年，该公司一年还能生产1万到1.2万台打字机。现在他们的市场主要面向国防机构、法院和政府部门。</i>
+➜雌狗不易被愚弄
+https://www.solidot.org/story?sid=23681	10440
+性别之争渗透到了动物领域。一项新研究发现，当一个球在狗眼前神奇的改变大小，<a href="http://news.sciencemag.org/sciencenow/2011/04/female-dogs-arent-easily-fooled.html?rss=1">雌狗能注意到异常</a>(视频)，但雄狗没有。研究人员不清楚背后的原因。专家认为，可能是因为雄狗信任它们的鼻子，而雌狗信任它们的眼睛。研究发布在《生物学快报》上。<i>
+研究人员最初没有设想去发现动物认知的性别差异，而只是想了解狗的大小常性能力——注意到一个物体在短暂消失一段时间后的大小变化的能力。他们招募了25只雄狗和25只雌狗。在实验中，狗和它的主人独自呆在房间内，主人蒙上眼睛，避免对球大小变化作出反应，从而影响狗的判断。有两个不同大小的球（网球大小和香瓜大小），它们在屏幕前不定时出现。研究发现，当球的大小发生变化时，雌狗盯着球看的时间更长——几乎相当于雄狗的两倍，平均有36秒。研究人员认为，雌狗和雄狗的视觉能力差异不太可能是进化方面的原因。但心理学家和狗研究专家Stanley Coren相信，背后肯定存在进化原因。</i>
+➜谷歌高管表示不应区别对待中国互联网市场
+https://www.solidot.org/story?sid=23682	12720
+路透社<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-4206420110427">报导</a>，谷歌大中华区销售与运营副总裁刘允表示，不应把中国互联网市场单独划出，与世界其他互联网市场区别对待。
+<i>
+自去年其搜索业务退出中国市场后，谷歌在华市场份额就在不断流失。刘允表示：“中国应该是全球市场的一部分，我们不应把它单独划出，区别对待。”刘允对中国市场的前景表示乐观，称谷歌联合创始人拉里・佩奇今年早些时候出任CEO后，公司对于中国市场态度没有改变。</i>
+➜WebM项目设立专利池
+https://www.solidot.org/story?sid=23683	16800
+开放多媒体编解码格式WebM项目<a href="http://blog.webmproject.org/2011/04/introducing-webm-community-cross.html">宣布</a>了<a href="http://www.webm-ccl.org/">WebM Community Cross-License Initiative</a>，面向WebM社区的专利许可协议，持有WebM专利的社区成员可以将其专利放到一个专利池中，授权其它社区成员使用。作为浏览器厂商采用的两种主要HTML5视频编解码器之一，WebM曾被H.264专利持有者MPEG LA指侵犯专利。WebM专利池将有助于推动WebM在HTML5视频上的应用。目前共有17家成员加入了WebM CCL，包括AMD、Google、Opera、Mozilla、思科、LG、三星、德州仪器、Xiph.Org基金会等。
+➜清朝瓷瓶中国买主“拒付款”
+https://www.solidot.org/story?sid=23684	19500
+一位中国买主去年11月在英国以5300万英镑总价拍下一个清乾隆时期瓷瓶，但<a href="http://www.bbc.co.uk/ukchina/simp/entertainment/2011/04/110426_ent_vase_sale.shtml">中国买主至今尚未付款</a>。<i>
+近年来，中国艺术品在海外拍卖市场上屡创惊人高价，而且往往是中国收藏家出价买下，但也有中国买家故意推高价格，买下物件之后“流标”。2009年，佳士得以3149万欧元的价格拍出两个圆明园的青铜兽首，买家是<a href="http://baike.baidu.com/view/2242748.htm">蔡铭超</a>，他拒绝付款，理由是：“作为一个中国人，在这种时刻都应该站出来，我只是尽到了自己的责任，发出我们的声音。但是，这个款我不能付。”这个清乾隆古董瓷瓶在拍卖前的预估价为80万至120万英镑，最终的成交价却高达4300万英镑，加上佣金和加值税总金额高达5310万英镑。根据《每日电讯报》<a href="http://www.telegraph.co.uk/culture/art/artsales/8472315/Chinese-buyer-of-53-million-Qing-dynasty-vase-has-nothing-to-do-with-sale.html">报导称</a>，幕后买主被认为是大连万达集团老板王健林，但其发言人否认参与拍卖。</i>
+➜SkyEye-1.3.3_rc1发布
+https://www.solidot.org/story?sid=23685	21840
+<a href="mailto:blackfin.kang@gmail.com">Michael.Kang</a> 写道 "经过五个月的开发，<a href="https://sourceforge.net/projects/skyeye/files/skyeye/skyeye-1.3.3_rc1">Skyeye-1.3.3_rc1正式发布</a>。相对于上一个版本，我们的主要修改为：<br>* 添加了多核并行模拟多核的框架，即可以利用两个主机处理器运行两个虚拟核心。MPC8572的linux内核可以启动，但是不稳定，ksh,lzj参与。<br>* 添加了动态编译的框架，以llvm的中间语言为中间指令进行动态编译。目前powerpc的性能接近于Qemu，ksh,lzj,du完成。<br>* 添加了用户态程序的模拟，可以运行简单的hello和EEMBC测试套件中的测试用例，lzj和du完成。<br>* 添加了vhub的模拟，可以把两个以上的SkyEye互联在一个虚拟局域网中，mhao,xq完成。<br>* 去掉了readline的第三方库，使用python重新实现了SkyEye的命令行接口，增加了可移植性和灵活性，yz完成。           一些小的修改有：<br>* 添加了-Werror-implicit-function-declaration检查未声明的函数调用。<br>* 添加了对运行时刻函数流的记录功能。<br>* 对arm的模拟代码进行了整理。<br>* 添加了mpc8641d的vxworks测试用例<br>* 添加了一些EEMBC的测试用例
+<br> <br>
+下载地址：<br>
+&nbsp; &nbsp; https://sourceforge.net/projects/skyeye/files /skyeye/skyeye-1.3.3_rc1/<br> <br>测试和报告bug<br>skyeye-1.3.3_testsuite的测试套件可以在以下地址下载：<br>
+&nbsp; &nbsp; https://sourceforge.net/projects/skyeye/files /skyeye-testsuits/skyeye-testsuite-1..3.3/<br>报告bug的地址如下：<br>
+&nbsp; &nbsp; https://sourceforge.net/tracker/?group_id=855 54&amp;atid=576533<br> <br>文档：<br>一共有四个pdf格式文档：中文的skyeye user manual, skyeye API, skyeye internals 和英文的skyeye user manual<br> <br>Wiki:<br>
+&nbsp; &nbsp; https://sourceforge.net/apps/trac/skyeye/wiki <br> <br>已知问题：<br>mips的解释执行有些问题，blackfin, sparc, coldfire在新的框架下运行会有问题。<br>Windows平台下的MingW环境不能直接编译SkyEye，预计下个版本解决。<br> <br>感谢所有参与Skyeye-1.3.3_rc1版本开发的人。<br> <br>- Thanks<br>- MK"
+➜南京老人发明反偷窥键盘
+https://www.solidot.org/story?sid=23686	22320
+<a href="http://solidot.org/~lot">lot</a> 写道 "据《<a href="http://cq.cqwb.com.cn/NewsFiles/201104/27/460453.shtml">重庆晚报</a>》报道，十朝都会老人李布尔发明出反偷窥键盘。<i>李布尔设计的密码键盘后部藏有一个小按钮，能控制号码键的电源。当左手悄悄按下小按钮时，右手的按键输入实际无效，只有左手松开小按钮时，输入才有效。这样，在左手悄悄配合下，输入的数字就会变得真真假假，即使别人盯着键盘输入，也不可能知道你输入的有效密码。<br>李布尔表示愿意无偿将该专利赠与陪都人民，但亦有人认为该技术或只有银行方<a href="http://cnbeta.com/articles/141209.htm">受益</a>。<br>另经查实，此老人并非<a href="http://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%B8%83%E5%B0%94">爱尔兰</a>人。"</i>
+➜雅虎考虑剥离Hadoop
+https://www.solidot.org/story?sid=23687	23100
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424052748704729304576287343518337646.html">报导</a>，雅虎正考虑剥离旗下知名的Hadoop工程部门，成立一家独立的公司，预计其价值将在10亿美元左右。<i>
+从2005年起，雅虎开始开发数据分析软件和分布式文件系统<a href="http://en.wikipedia.org/wiki/Apache_Hadoop">Hadoop</a>。今天，已经有数千家公司使用Hadoop分析大容量数据，其中包括了雅虎、eBay、Facebook、Twitter，以及Visa和IBM等。IBM的Watson问答系统便是使用Hadoop处理数据。WSJ引用熟悉雅虎事务的消息人士的话称，雅虎考虑将Hadoop工程团队剥离出去，成立一家技术公司，继续开发开源软件Hadoop，以及为企业客户提供付费服务。雅虎发言人拒绝对此发表评论。</i>
+➜索尼PSN用户信息失窃，黑客宣布对此负责
+https://www.solidot.org/story?sid=23688	25800
+<a href="http://xykol.com/">信用卡</a> 写道 <i>"索尼的<a href="http://us.playstation.com/psn/">PSN（PlayStation Network）</a>游戏网络遭到黑客袭击，7,700万在线游戏用户的资料被盗。被盗信息包括姓名、出生日期，<a href="http://xykol.com/psn-hacked-creditcard-info-may-leak.html">信用卡号可能也在其中</a>。这可能是史上最严重的黑客入侵窃取数据事件。索尼周二对外披露，4月17日至4月19日期间，公司游戏网络遭到非法入侵，大量客户信息被盗。 <a href="http://blog.us.playstation.com/2011/04/26/update-on-playstation-network-and-qriocity/">索尼在公司博客上表示</a>，尽管目前还无法证明信用卡数据被盗，但不能排除这种可能性。"</i>
+PSX-Scene.com论坛的一位版主<a href="http://www.reddit.com/comments/gx6o4/im_a_moderator_over_at_psxscenecom_the_real/">透露</a>，PSN下线的原因与最近发布的自制固件有关。被称为<a href="http://rebug.me/">Rebug</a>的自制固件于3/31发布，它本质上是把零售的主机变成开发主机，从而允许用户从开发者网络访问PSN网络，索尼对开发者网络管理不严，因此用户可以提供虚假信息，合乎逻辑的下一步是盗版PSN内容。这就是索尼关闭PSN网络并重建系统的真正原因，它正设法阻止自制固件用户匿名访问PSN网络。这位版主承认他没有确凿证据，而是基于Rebug流行及用户发现盗版PSN内容方法的时间进行推测的。
+➜马来西亚政府向所有公民提供免费电子邮件
+https://www.solidot.org/story?sid=23689	27720
+数字化政府面临的一大难题是：政府是为所有公民服务的，而不是所有有电子邮件的用户服务的。现在，马来西亚提出了一种解决方法：<a href="http://yro.slashdot.org/story/11/04/26/1329225/Malaysian-Government-Offers-Free-E-mail-To-All-Citizens">为每一位马来西亚成年人提供免费电子邮件</a>，确保他们能接收到纳税申报、法庭文件和其它政府通知。马来西亚的目标是在2015年前为所有18岁以上成年人提供后缀为@myemail.my的电子邮件地址，公民可以向读卡器插入政府发行的全国身份证去打开帐号。问题是：你是相信政府还是相信邮件服务商？
+➜亚马逊自动定价算法将教科书价格设为2300万美元
+https://www.solidot.org/story?sid=23690	30060
+亚马逊提供的自动定价算法允许图书零售商根据其它零售商的价格设定价格，结果这却导致了生物学教科书《<a href="http://www.amazon.com/dp/0632030488/ref=nosim/?tag=slashdot0c-20">The Making of a Fly</a>》的售价进入了<a href="http://idle.slashdot.org/story/11/04/26/141247/Amazon-Automatic-Pricing-Lists-Book-At-23M">正反馈循环</a>，两位零售商的定价根据对方的价格<a href="http://camelcamelcamel.com/Making-Fly-Genetics-Animal-Design/product/0632030488">互相攀升</a>，在段时间内价格增加到了“<a href="http://www.michaeleisen.org/blog/">23,698,655.93美元</a>”。目前图书售价已经重置，但仍高达976.98美元。<i>
+《The Making of a Fly》出版于1992年，已经绝版，亚马逊网站上列出17本其它零售商提供的二手书和新书，其中2本新书分别由bordeebook和profnath提供。旧书的价格只售35.54美元，但新书的价格却超过百万美元。原因是bordeebook利用自动定价算法设定，它的价格是profnath的1.270589倍，而profnath设定它的价格是bordeebook的0.9983倍。自动算法数小时检查一次对方的定价，然后决定是否上浮价格。正反馈导致价格火箭般上升。</i>
+➜纽约公共图书馆允许浏览色情
+https://www.solidot.org/story?sid=23691	31800
+感谢美国宪法第一修正案，<a href="http://www.foxnews.com/scitech/2011/04/25/watching-internet-porn-nyc-libraries-protected-amendment-officials-say/?test=faces">纽约人民现在可以自由的在公共图书馆里浏览色情</a>。<i>
+然而，宗教领袖和图书馆读者都对此决定大为不满。天主教联盟主席Bill Donohue指责这是公开鼓励最庸俗的嗜好。六十岁的读者Daisy Nazario表示发现身旁坐着一位老年色情用户而反感不已，虽然屏幕被遮住了，但仍然会传来声音。根据美国法律，联邦资助的图书馆必须安装过滤器屏蔽非法的淫秽和儿童色情。但纽约图书馆官员和民间自由主义者认为，这是言论自由问题，是受宪法第一修正案保护的。</i>
+➜罗贤哲是被策反间谍出卖
+https://www.solidot.org/story?sid=23692	35760
+bonnae1982 写道 "据<a href="http://www.libertytimes.com.tw/2011/new/apr/27/today-p2.htm">《自由时报》</a>引述香港《前哨》杂志的报道，今年初，在台海两岸闹得沸沸扬扬的<a href="http://www.bbc.co.uk/zhongwen/trad/china/2011/02/110209_taiwan_china_espionage.shtml">罗贤哲间谍案</a>，罗贤哲是被美方策反的中方间谍出卖。
+<i>担任台湾陆军司令部通信电子信息处长的罗贤哲在2002年至2005年派驻海外，并在2008年获升少将。据指出，其是在驻海外期间被中方美女色诱吸收。台国防部说他们2010年掌握了罗贤哲涉嫌泄漏军事机密。而据台湾媒体引述不具名办案人员指出，这起间谍案是被美国方面的情报网发现，并通报台湾军方及调查局等相关单位调查。台调查局在罗贤哲办公室与住家进行搜索后，发现了陆军战术区域通信与战场影象图资管理系统，及陆军地下化光纤网络分布图，与军方由美军售取得的”博胜案”等机密文件。罗贤哲曾负责台湾军方的国际情报交流以及同美军合作的“博胜案”，博胜案是台湾军方近年取得的美国军售项目之一，这套系统是集成台湾三军指挥管制与通信情报并协调同友军作战。台湾此前亦爆发的台湾军事情报局官员与总统府官员担任中方间谍。
+</i>据自由时报的报道，罗贤哲是被一位色艺双绝美女(此美女也是双料间谍，既是美国中央情报局的特工，又是台湾军情局的间谍)策反的中方情报人员出卖。"
+➜马来西亚首相表示不会审查互联网
+https://www.solidot.org/story?sid=23693	36000
+马来西亚首相纳吉布承诺，<a href="http://www.todayonline.com/World/EDC110425-0000267/Najib-promises-Malaysia-will-not-censor-Internet">他的政府不会审查互联网</a>。<i>
+最近几年，马来西亚执政联盟国民阵线两次考虑引入类似中国“绿坝花季护航”的过滤软件，声称是打击儿童色情的必要措施。自2007年以来，政府至少指控了两位博客犯有煽动罪。纳吉布在首届马来西亚东盟地区博客会议上表示，马来西亚是最自由的地方之一，政府欢迎富有建设性的批评，愿意与博客们合作。</i>
+➜数学、软件专利和言论自由
+https://www.solidot.org/story?sid=23694	37800
+专利钓鱼公司Bedrock Computer Technologies成功的在Linux服务器技术专利诉讼案中挑落了搜索巨人。此事再次引发了软件专利有效性的争论，以及引起了Linux客户的担忧。为安抚客户，Red Hat采取了先发制人的行动，起诉Bedrock公司，声辩这项专利是无效的，而Red Hat的产品并没有侵权。但是，此类诉讼层出不穷的原因是软件专利系统的性质决定的，不进行大刀阔斧的改革，<a href="http://lwn.net/SubscriberLink/440090/489f626ab63f83f0/">专利钓鱼带来的恐惧不会消失</a>。在Groklaw的<a href="http://www.groklaw.net/article.php?story=20110426051819346">一篇长文</a>中，作者PolR解释了为什么软件和专利需要分家。他认为软件其实是数学，不属于专利范畴，被授予专利的软件方法根本上是一种数学算法，而数学是一种语言，应该遵循言论自由。
+➜Accenture接收三千Symbian开发者
+https://www.solidot.org/story?sid=23695	41100
+根据今天诺基亚和Accenture宣布的合作协议，Accenture将接纳诺基亚<a href="http://www.computerworlduk.com/news/mobile-wireless/3276482/accenture-picks-up-symbian-development-from-nokia/">三千名Symbian操作系统开发团队和支持服务团队雇员</a>。<i>
+诺基亚表示到2012年底，将进一步裁掉4000名雇员，主要是在英国、丹麦和芬兰三地。而Accenture将与诺基亚合作，为Windows Phone平台提供移动软件和运营服务。Accenture集团总裁Marty Cole表示，移动是关键领域，他对来自诺基亚的Symbian开发者表示了欢迎。</i>

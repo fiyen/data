@@ -1,0 +1,56 @@
+➜吴敬琏认为威权发展模式已陷入困境
+https://www.solidot.org/story?sid=31764	6000
+经济学家吴敬琏<a href="http://economy.caixin.com/2012-10-12/100446198.html">认为</a>，被短期效益掩盖的问题逐渐呈现，用“权威(Authority，也叫<a href="http://zh.wikipedia.org/wiki/%E5%A8%81%E6%AC%8A">威权</a>)发展模式”管理社会和发展经济的“样板”造成的破坏和后果正在暴露出来。具体表现在，微观经济面临资源短缺、环境破坏、效率降低、产能过剩各种难题；宏观经济政策选择上陷入既不能松，又不能紧的两难处境；社会矛盾加剧，腐败蔓延，贫富差距拉大，官民关系紧张。吴敬琏称，只有推进改革，才能消除转变经济发展方式的的体制性障碍，才能遏止腐败，清明政治，保证人民的基本权利不受侵犯。他认为，关键在于能否通过改革建立完善的市场经济制度。
+➜西安砸车伤人事件主角的生活
+https://www.solidot.org/story?sid=31765	8100
+上月的反日游行示威一度演变为暴力活动，日系汽车遭到打砸，一位叫李建利的西安车主被一位示威者砸穿颅骨。《南方周末》详细<a href="http://www.infzm.com/content/81726">报道了砸车伤人事件主角蔡洋的生活</a>。文章描述了一位普通民工的人生旅程：小学辍学，外出打工，娱乐主要是游戏和聊天。文章称，蔡洋喜欢玩一个叫《穿越火线》的FPS网游。这个游戏口号是“三亿鼠标的枪战梦想”，界面上大大的字迹跳动“兄弟们！战起来！”游戏里蔡洋的“军衔”是一名下士，总共杀敌4824次，自己也被击毙了7997次。《<a href="http://zh.wikipedia.org/wiki/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF">穿越火线</a>》类似CS，由韩国SmileGate开发，中国大陆由腾讯经营，是中国最流行的FPS网游之一。
+➜Firefox16隐私漏洞攻击代码公布，Mozilla发布更新
+https://www.solidot.org/story?sid=31766	10080
+Mozilla因为隐私安全漏洞而从官方浏览器下载页面<a href="__SLASHLINK__" sect="it" sid="12/10/11/0224252" sn="article" tid="53">临时移除了</a>最新的Firefox 16。利用该漏洞的攻击概念验证代码<a href="http://www.mozilla.org/en-US/firefox/new/">已在网上传播开来</a>，Mozilla刚刚发布了修正漏洞的<a href="http://www.mozilla.org/en-US/firefox/new/">Firefox 16.0.1</a>，希望能在恶意网站利用代码前及时堵上漏洞。Aspect Security CEO、安全专家Jeff Williams分析了Firefox 16的漏洞：漏洞允许恶意网站使用JavaScript代码访问用户浏览器窗口的本地地址栏，攻击者可以使用JS代码打开原本受保护的网站窗口，访问URL发送给攻击者，利用该漏洞攻击者可以窃取浏览历史，提取个人信息，访问包含敏感信息如Twitter用户名的URL。
+➜Alan Cox称NVIDIA私有驱动不能使用GPL代码
+https://www.solidot.org/story?sid=31767	12600
+Linus曾因为Nvidia Optimu技术的Linux支持抨击过Nvidia，Optimu技术可以让独显和集显根据需要在不同任务之间切换。实际上，内核和X.org Server 1.13已能初步支持类似Optimu的技术。<a href="http://lwn.net/Articles/489703/">DMA-BUF</a>是最近加入内核的一项功能，允许多显卡之间快速复制数据到彼此的帧缓存中。以NVIDIA Optimus为例，当NVIDIA显卡激活的时它可以写入数据到英特尔集显的帧缓存中。然而，除非在GPL下开源图形驱动代码，NVIDIA<a href="http://linux.slashdot.org/story/12/10/11/1918251/alan-cox-to-nvidia-you-cant-use-dma-buf">将不能使用GPL授权的DMA-BUF</a>。在邮件列表上，内核开发者Alan Cox<a href="http://lists.freedesktop.org/archives/dri-devel/2012-October/028846.html">告诉</a>NVIDIA工程师，非GPL私有代码需要得到所有版权持有者（主要的图形系统贡献者）的同意重授权后，才能在私有代码中整合GPL代码。
+➜拆解iPhone 4S高仿低仿山寨机
+https://www.solidot.org/story?sid=31768	16560
+Fomalhaut Technology Solutions的柏尾南壮拆解了两款中国造的iPhone 4S的低仿和高仿山寨机，<a href="http://china.nikkeibp.com.cn/news/mobi/63065-20121009.html?ref=ML">一探山寨机的内部结构</a>。<i>
+低仿机售价低于500元，高仿机售价大约1200元。拆解发现，除了外形外，高仿山寨机甚至内部都试图模仿iPhone 4S，连固定用螺丝孔的位置等也尽量相似。低仿机则比较随意。两者都大量采用了联发科的部件。联发科与山寨机关系密切众所周知。两者的价格差别主要在于液晶面板，低仿机采用廉价的电阻膜方式，高仿机采用静电容量式。作者语重心长的总结说，“为无视知识产权的产业提供产品和技术的行为从短期来看也许是一项利润丰厚的业务，但造假的成果绝不会得到好评，这种行为弊大于利”。</i>
+➜GreatFire发布无审查版新浪微博搜索
+https://www.solidot.org/story?sid=31769	18480
+<a href="https://greatfire.org/">GreatFire</a>发布了无审查版新浪微博搜索<a href="https://freeweibo.com/">Free Weibo</a>，利用香港大学新闻及传媒研究中心<a href="http://research.jmsc.hku.hk/social/obs.py/sinaweibo/">WeiboScope</a>项目收录的被删微博数据库，让用户可以搜索数千个被新浪屏蔽的关键词，其中许多内容本身并没有任何敏感性，但因为曾经的群体性事件而连坐屏蔽，如<a href="https://freeweibo.com/weibo/%E6%95%A3%E6%AD%A5">散步</a>。
+➜施密特不应该低估微软的影响力
+https://www.solidot.org/story?sid=31770	21000
+Google执行主席埃里克·施密特（Eric Schmidt）相信科技行业有四大领导者或者叫“四人帮”，它们分别是Google、苹果、亚马逊和Facebook——微软不在其中。<a href="http://allthingsd.com/20121010/eric-schmidt-android-apple-is-the-defining-fight-in-the-industry-today/">他认为</a>，如今苹果Google在移动领域的竞争规模史无前例。他对于专利战颇有微词，称软件总是会有重叠，然而今天的软件行业有20万专利，小公司是无法像Google和三星那样能够保护自己的技术。Rodney<a href="http://www.androidanalyse.com/why-eric-schmidt-is-wrong-about-apple-android-being-the-defining-fight/">认为</a>，施密特对微软的轻视反而可能暴露了Google的弱点。微软的移动之路磕磕绊绊，这不是什么秘密，它的Windows Phone 7市场占有率仅仅只有5%。在人们的影响中，微软没有Google和苹果酷，它的Windows 8用户界面似乎也不受欢迎，但你不能因此<a href="http://slashdot.org/story/12/10/11/217251/why-eric-schmidt-is-wrong-about-microsoft-not-mattering-anymore">低估微软的影响力</a>。微软仍然是桌面操作系统的统治者，你购买的多数是Windows电脑运行的主要是Windows应用程序，而绝大多数消费者和企业关心的仍然是Windows平台。
+➜新浪疑似伪造诺贝尔奖得主微博
+https://www.solidot.org/story?sid=31771	21840
+如果你在新浪微博搜索新晋诺贝尔文学奖得主莫言，你会找到一个带V自我介绍是“作家莫言，2012诺贝尔文学奖获得者”的<a href="http://weibo.com/moyanblog?from=otherprofile&amp;wvr=3.6&amp;loc=infweihao">微博</a>。对比下莫言的<a href="http://t.qq.com/zuojiamoyan">腾讯微博帐号</a>和新浪微博，会发现两者内容相差很多，新浪的内容最近才更新，最新的发言使用的是HTC 新渴望VC手机，而莫言的相识者称其不使用HTC的手机，新浪被指<a href="http://news.mydrivers.com/1/243/243595.htm">伪造了莫言的微博帐号</a>。
+➜诺基亚MeeGo发展史
+https://www.solidot.org/story?sid=31772	24600
+2011年2月11日，平台在燃烧的诺基亚公布了新战略，宣布与微软合作发布Windows Phone手机。诺基亚的战略转移事实上决定了MeeGo操作系统的命运，MeeGo手机最终只发布了一款(N9)，而MeeGo团队当时只剩下一个明确目标：完成一款在2011年出货的产品。团队在发布数个更新后也最终跟随了手机的命运。TaskoMuro回顾了<a href="http://taskumuro.com/artikkelit/the-story-of-nokia-meego">Maemo和MeeGo的发展史</a>。MeeGo原本的策略类似苹果，每年向市场发布一款旗舰手机：第一款手机代号 Columbus，但最终被取消；第二款代号 Dali，还是被取消；第三款是我们今天所知的 N9，代号 Lankku；N9之后诺基亚计划发布带侧滑键盘的Lauta，基于英特尔Atom 处理器的Soiro和放大版的平板Senna，但在战略转移后都无疾而终。
+➜Office 2013完成进入RTM
+https://www.solidot.org/story?sid=31773	26100
+微软Office团队<a href="http://blogs.office.com/b/office-news/archive/2012/10/11/office-reaches-rtm.aspx">宣布</a>，Office 2013已发布给工厂压盘，这意味着开发和测试的<a href="http://arstechnica.com/information-technology/2012/10/office-2013-reaches-rtm-general-availability-planned-for-q1-2013/">结束</a>。微软将在11月中旬向Office 365企业版用户、TechNet和MSDN订户提供最新版办公软件，而零售版本则要等到2013年第一季度，任何在10月19日之后购买Office 2010的用户将能有资格获得免费升级。Windows RT用户将能更快获得软件，10月26日发布的Windows RT预装了预览版Wor、Excel、PowerPoint和OneNote，他们将能从11月开始更新到RTM版。
+➜WikiLeaks竖起“付费墙”，匿名组织宣布要对其开战
+https://www.solidot.org/story?sid=31774	27900
+从10月10日开始，WikiLeaks竖起了一个“付费墙”，点击任何一个泄密文件都会先弹出一个视频广告窗口（可以在AdBlock Plus中添加过滤规则wikileaks.org###boost和wikileaks.org###entry绕过），呼吁浏览者“Vote WikiLeaks”和向WikiLeaks捐钱，捐赠或在社交网站上分享视频后叠加的广告才会消失，不做任何动作广告也会在一段时间后自动消失。WikiLeaks创始人Julian Assange<a href="http://www.wikileaks.org/Press-Statement-In-this-election.html">声称</a>，为了支持网站运作和未来的法律诉讼，筹集资金是必不可少的。WikiLeaks的资金主要来自捐赠。匿名组织认为此举<a href="http://arstechnica.com/tech-policy/2012/10/anonymous-declares-war-on-wikileaks-in-retaliation-for-paywall/">形同背叛</a>，它表示该组织有许多活动分子因积极支持WikiLeaks而被捕入狱，而WikiLeaks没有一个人受到指控或入狱，表示未来不会冒风险为Assange辩护，泄密信息将只发布在自己的泄密网站。
+➜丹尼斯·里奇逝世一周年
+https://www.solidot.org/story?sid=31775	30600
+10月12日，C语言和Unix共同作者丹尼斯·里奇（Dennis Ritchie）<a href="http://www.h-online.com/open/news/item/Hello-World-Commemorating-the-first-anniversary-of-the-death-of-Dennis-Ritchie-1728023.html">逝世一周年</a>。对于里奇的贡献，著名计算机科学家Brian Kernighan说，牛顿说他是站在巨人的肩膀上，而“我们都是在站在丹尼斯的肩膀上”。上个月，贝尔实验室主办了纪念里奇的<a href="http://lucent.com/events/2012/dennis-ritchie/index.html">活动</a>“丹尼斯·里奇的永久遗产：软件对社会的影响”。前贝尔实验室研究员Al Aho教授在纪念活动中<a href="http://www.youtube.com/watch?v=GfoSbffSIQ4&amp;feature=youtu.be">阐述</a>（YouTube视频）C语言的重要性，他说C的变种控制了从 iPhone到火星好奇号的各种机器。
+➜Linus Torvalds谈软件版权、微内核和一公斤笔记本
+https://www.solidot.org/story?sid=31776	33360
+Linux作者Linus Torvalds回答了/.读者<a href="http://meta.slashdot.org/story/12/10/11/0030249/linus-torvalds-answers-your-questions">提出的十几个问题</a>，这些问题包括专利版权、微内核、碎片化、git，以及阅读的书籍和使用的笔记本等。<i>
+Linus表示，他喜欢版权，不认为专利是“彻头彻尾的邪恶”，他所厌恶的是“过度”和糟糕的政策，他说互联网上的白痴太多了，专利有问题并不意味着应该抛弃专利，版权本身并不邪恶。Linus认为微内核是愚蠢的，微内核解决了小问题但留下了大问题，导致了额外的复杂度，Hurd就是一个典型例子。他从一位软件工程师的角度指出，任何时候你有一个高于一切的想法，并作为一个更卓越的意识形态推动你的想法，你会走到错误一边。现实是复杂的，不服从一剂良药解万愁的问题解决模式，现实的问题解决需要大量艰苦工作，以在细节上做到正确无误。Linus称，GPLv2授权内核将可以确保良性分支，不会过于碎片化，表示选择许可证是一种个人选择，不存在错误选择之说，对于他关心的项目，他会采用GPLv2授权，而对于不怎么在意的代码他会采用类BSD许可证。Linus说，对于读书，他一般是读后即忘，他在kindle上读过许多烂书也读过许多好书，印象比较深的书是海因莱因的《异乡异客（Stranger in a strange land）》和道金斯的《自私基因》，《指环王》也印象很深，这是他读过的第一本英语书，边看边查字典，读完前已不用查字典了，还有一些经典书会重读如《基督山伯爵》和《三个火枪手》。Linus的台式机是配备Intel SSD的四核Westmere电脑，笔记本是运行Linux的11英寸Macbook Air，他无法理解那些使用15英寸或17英寸庞然大物笔记本的人，认为笔记本的恰当重量是1公斤。
+</i>
+➜摩托罗拉发布新Droid Razr手机，亮点是超大电池
+https://www.solidot.org/story?sid=31777	34080
+Google子公司摩托罗拉发布了Droid Razr和Droid Razr Maxx的升级版手机（后面添加了HD），配备双核Krait处理器，1GB内存，800万像素摄像头，可拍摄1080p视频，4.7英寸显示屏，720p分辨率。<a href="http://arstechnica.com/gadgets/2012/10/motorola-droid-razr-reboots-october-18-with-4g-lte-crazy-battery-life/">最大的亮度</a>是电池：Razr HD采用2530mAh电池，支持最长16小时通话时间；Razr Maxx HD采用3300mAh电池，21小时通话时间。手机运行的是 Android 4.0 Ice Cream Sandwich系统，摩托罗拉承诺将在年内更新到4.1。手机将于10月18日上市，两年合约价分别为199美元和299美元。
+➜科技行业需要更多女性
+https://www.solidot.org/story?sid=31778	36300
+走进大多数科技企业，你会发现男性员工占绝对多数。事实上，你几乎可以闻到雄性荷尔蒙气味。根据美国政府的一份<a href="http://www.esa.doc.gov/sites/default/files/reports/documents/womeninstemagaptoinnovation8311.pdf">报告</a>（PDF），美国科技行业中的女性低于25%。英国的这个数字更低，女性员工只占17%。两国的数字都在逐年下降。但与此同时，女性比以往任何时候购买了更多科技产品，40%的产品买家是女性。为了让消费者愿意掏钱购买产品，显然必须关注现实中的性别差异。根据《哈佛商业评论》的计算，女性营销代表的商业机遇比中国和印度加起来还要大。另一项统计发现，一家有更多女性高管的科技企业，它的投资回报率比其它公司高出34%。不是因为女性比男性效率更高，<a href="http://www.bbc.co.uk/news/business-19884720">而是因为她们提供了不同视角</a>。
+➜为什么网民对中国意义深远？
+https://www.solidot.org/story?sid=31779	38400
+在西方语境中，网民（Netizen）不是一个受欢迎的词，即使在中国它也日益招人烦。但作为一种口号，<a href="http://www.theatlantic.com/international/archive/2012/10/netizen-why-is-this-goofy-sounding-word-so-important-in-china/263245/">它对中国却具有深远的影响</a>。<i>
+西方典律中的公民权有两种观点：被动的享受权利，和最低限度的主动参与担负起责任。在美国，主动参与被视为一种美德，因此政治互动可以在线也可以离线发生。但在中国，被动占主导，主动参与只能退避三舍。自1980年代以来，中国政府和人民之间的基本社会契约是：你同意服从我们的政治利益，我们提供两位数的年均增长。在一个物理世界政治话语被限制的国家里，互联网被视为公民主动参与的虚拟公共广场。网民不代表人口的绝大部分——他们大多是年轻、富有、受过良好教育的城市人——因此更有理由为他们分配一个名字。</i>
+➜阅读他人的Web邮件没有违反美国联邦法律
+https://www.solidot.org/story?sid=31780	39600
+美国南卡罗莱纳州最高法院<a href="http://www.volokh.com/2012/10/10/sourth-carolina-supreme-court-deepens-split-on-privacy-in-stored-e-mails-and-divides-2-2-1-on-the-rationale/?ModPagespeed=noscript">作出裁决</a>，未经许可访问某个人的在线电子邮件没有违反1986年的《存储通信保护法》。法官认为，储存在云里的电子邮件不符合联邦法律中的电子储存定义。<i>
+此案是<a href="http://arstechnica.com/tech-policy/2012/10/reading-someones-gmail-doesnt-violate-federal-statute-court-finds/">一起婚外恋案件</a>：Gail Jennings怀疑其丈夫Lee Jennings有外遇，她的女婿Holly Broome通过猜对Lee设的安全问题成功访问他的电子邮件，截获了丈人和情人的信息。Broome将信息告诉了Gail的离婚律师和私人调查侦探。Lee起诉了他的妻子、律师和私人侦探，指控他们违反了多项法律，其中包括《存储通信保护法》。</i>

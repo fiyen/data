@@ -1,0 +1,53 @@
+➜比特币转帐的乌龙操作事件：手续费高达 15.68 BTC 的交易
+https://www.solidot.org/story?sid=47364	7246
+<a href="http://www.xiaohui.com/">XiaoHui</a> 写道 <i>"
+北京时间 2016-03-03 07:14:55，<a href="http://www.xiaohui.com/weekly/btc-large-fees.htm" target="_blank">比特币 BTC 网络里发生了一起超级乌龙的转帐事件</a>：有个人在发送 6.6953 BTC 时，支付了 15.68 BTC 的手续费。按当时的 BTC 市场价格 2900 CNY， 这笔手续费 4.5 万人民币(约 7000 美元）。比特币转帐是不可逆的，这笔手续费是没法讨回来了。这应该算是 BTC 网络有史以来的最贵手续费了。交易详情可以在 <a href="https://blockchain.info/tx/6fe69404e6c12b25b60fcd56cc6dc9fb169b24608943def6dbe1eb0a9388ed08" target="_blank">BlockChain</a> 看到。这个事件在 <a href="https://www.reddit.com/r/Bitcoin/comments/48p1bk/somebody_sent_a_transaction_with_a_15btc_fee/" target="_blank">Reddit</a> 上亦引起了激烈的讨论。"</i>
+➜美国科技公司递交陈述联合声援苹果
+https://www.solidot.org/story?sid=47365	13639
+在苹果抗拒FBI要求开发特定固件解锁手机的案件中，基本上整个美国科技行业都<a target="_blank" href="http://www.theverge.com/2016/3/3/11156704/apple-fbi-amicus-briefs-iphone-encryption-fight"><u>站在了苹果一边</u></a>：Google、微软、Facebook、Evernote、雅虎、Mozilla、思科、Dropbox、Box等在周四递交了<a target="_blank" href="https://cdn3.vox-cdn.com/uploads/chorus_asset/file/6141865/appleBriefasfiled__1___1_.0.pdf"><u>非当事人意见陈述</u></a>（PDF），声援苹果；Twitter、Reddit、Github、Ebay和 CloudFlare等在联合署名的另一份<a target="_blank" href="https://www.scribd.com/doc/302014025/Apple-Brief-Of-Twitter-And-Other-Web-Companies"><u>非当事人意见陈述</u></a>（PDF）中表达对苹果的支持；<a target="_blank" href="https://cloudup.com/c4y_efBbuCk"><u>WordPress和Automattic</u></a>以及<a target="_blank" href="https://www.apple.com/pr/pdf/Intel.pdf"><u>英特尔</u></a>（PDF）也都递交了各自的支持苹果的意见陈述；此外递交非当事人意见陈述的还有安全专家和<a target="_blank" href="https://www.apple.com/pr/pdf/BSA_The_Software_Alliance_the_Consumer_Technology_Association_the_Information_Technology_Industry_Council_and_TechNet.pdf"><u>行业组织
+如BSA（PDF）</u></a>， 非赢利组织如<a target="_blank" href="https://www.apple.com/pr/pdf/american_civil_liberties_foundation.pdf"><u>ACLU</u></a>和<a target="_blank" href="https://www.apple.com/pr/pdf/Electronic_Frontier_Foundation_and_46_technologists_researchers_and_cryptographers.pdf"><u>EFF</u></a>，隐私保护组织隐私国际，等等。不是所有的意见陈述都支持苹果，与执法机构相关的组织如联邦执法人员协会、检察官协会等在意见陈述中站在了FBI一边，AT&amp;T<a target="_blank" href="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6140781/att-amicus.0.pdf"><u>认为</u></a>应该将此案交给议会裁决。
+➜Rust 1.7发布
+https://www.solidot.org/story?sid=47366	15516
+Mozilla主导开发的系统编程语言<a target="_blank" href="http://blog.rust-lang.org/2016/03/02/Rust-1.7.html"><u>Rust发布了v 1.7</u></a>。Rust采用了类似浏览器的快速发布周期。Rust 1.7的新变化主要与库特性有关，但也为准备在未来发布的语言特性做好了准备。在Rust 1.7中，有约40个库函数和方法稳定了，其中一个是标准库函数HashMap<k, v="">支持定制哈希算法，以前是默认只使用SipHash，但SipHash在某些条件下速度并不快。
+➜亚马逊从Fire OS 5中移除设备加密
+https://www.solidot.org/story?sid=47367	16209
+在各大科技公司加固安全的时候，亚马逊却削弱了它的Fire OS 5的安全功能。<span style="line-height: 1.5">Fire OS是基于开源</span><span style="line-height: 1.5">Android Open Source Project代码的</span><span style="line-height: 1.5"><span style="line-height: 1.5">Android分支，</span>整合了亚马逊的服务，移除了Google的服务。但在旧版的</span><span style="line-height: 1.5">Fire OS中，用户可以选择设备加密，而在最近释出的</span><span style="line-height: 1.5">Fire OS 5版本中，<a target="_blank" href="http://arstechnica.com/gadgets/2016/03/amazon-removed-device-encryption-from-fire-os-5-because-no-one-was-using-it/"><u>该功能被移除了</u></a>。亚马逊官方的回应是消费者不使用本地设备加密功能，所以它就在更新中移除了。</span>Fire OS 5运行在亚马逊开发的<span style="line-height: 1.5">Fire</span>平板和智能手机上。
+➜苹果与FBI僵局中的中国阴影
+https://www.solidot.org/story?sid=47368	18615
+苹果拒绝帮助FBI开发特定固件解锁iPhone的做法<a target="_blank" href="http://cn.wsj.com/gb/20160303/llw102430.asp"><u>在中国也引起了热议</u></a>，部分人认为苹果此举是出于营销，另一部分人表示支持，但认为苹果可能不敢与中国政府较真对抗。乐博律师事务所驻北京的合伙人裘伯纯说，如果苹果在与FBI的交锋中失败，中国政府将有足够的理由提出类似要求。他称，和中国政府相比，FBI只能算是个软柿子。中国科技公司一向对中国政府的要求言听计从。公司高管们说，无论政府要什么样的用户信息，他们都只能给。某中国互联网公司的一位高管说：政府说往东，我们不敢往西。
+➜Mozilla封杀纂改安全设置的流行Firefox扩展
+https://www.solidot.org/story?sid=47369	26355
+上周日，Firefox用户向bugzilla<a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1251911"><u>报告了</u></a>流行扩展YouTube Unblocker的可疑行为——安装之后，杀毒软件立即报警有第三方下载，并将下载的程序归类为恶意程序。这位用户在研究了YouTube Unblocker的代码发现它会安装一个新的user.js配置文件改变用户的默认设置，关闭内置的扩展签名功能，允许安装非签名扩展。在扩展签名功能关闭之后，YouTube Unblocker会从第三方网站下载了一个被杀毒软件归类恶意程序的扩展Adblock Converter。YouTube Unblocker是一个流行的扩展，有超过25万安装量，它允许用户绕过地理区域限制浏览YouTube视频。接到报告后，Mozilla<a target="_blank" href="http://news.softpedia.com/news/mozilla-bans-firefox-add-on-that-tampered-with-security-settings-501315.shtml"><u>随后将其封杀</u></a>。
+➜鸟粪便让印第安角核电站自动关闭
+https://www.solidot.org/story?sid=47370	27831
+去年12月14日，纽约州印第安角核电站自动关闭了几个小时。受纽约州委托的调查报告称，此次事故是<a target="_blank" href="http://nypost.com/2016/03/03/bird-poop-shut-down-indian-point-nuclear-plant/"><u>大鸟留下的粪便引发的</u></a>。报告称，鸟儿从栖木上飞起时经常会拉屎，而当时一只大鸟掉下的粪便恰好落在了核电站的电力设备上，导致了反应堆自动关闭切断装置。报告称，这起事故没有对公众构成任何威胁。<a target="_blank" href="https://en.wikipedia.org/wiki/Indian_Point_Energy_Center"><u>印第安角核电站反应堆</u></a>建成于1970年代，至今已运行了40多年，12月的非计划关闭是自2012年以来的第13次。
+➜法国新立法要将拒绝解密数据的企业雇员关押五年
+https://www.solidot.org/story?sid=47371	31100
+根据法国保守派议员提出的新立法，拒绝帮助警方解密数据的法国企业雇员<a target="_blank" href="https://www.dailydot.com/politics/france-encryption-decryption-law-punish/"><u>将面临五年徒刑</u></a>。新的法案呼应了今年1月提出的另一项强制性加密后门法案。对拒绝解密数据的惩罚除了五年徒刑外还有38万美元罚款。法国共和党的政客M. Pierre Lellouche说，讽刺的是加密系统通常来自美国军方（如Tor）和美国人的公司，他们故意使用公众自由的论点为自己赚钱辩护，他们完全明白加密被用于毒品走私，被犯罪分子尤其是恐怖分子使用。国家失去对加密的控制是不可接受的。他声称加密相关主题的讨论遭到了美国跨国公司的操纵。
+➜FREAK、Logjam和DROWN等加密弱点都可以归咎于美国政府的要求
+https://www.solidot.org/story?sid=47372	33209
+过去的一年里，加密系统和流行的加密库曝出了多个高危漏洞——<a target="_blank" href="http://www.solidot.org/story?sid=43185"><u>FREAK</u></a>、<a target="_blank" href="http://www.solidot.org/story?sid=45819"><u>Logjam</u></a>和<a target="_blank" href="http://www.solidot.org/story?sid=47332"><u>DROWN</u></a>等等——所有这些加密弱点都与美国政府的一项法律有关：为了控制加密产品的出口，政府限制了产品使用的密钥长度（即512位），以便于NSA能轻松破解外国的通信。被称为出口级的加密算法整合在加密产品中，<a target="_blank" href="http://it.slashdot.org/story/16/03/03/1545236/freak-logjam-drown-all-a-result-of-weaknesses-demanded-by-us-govt"><u>一直在今天仍然被使用</u></a>。
+➜中国的量子卫星可能将永久改变加密学
+https://www.solidot.org/story?sid=47373	35404
+中国计划在今年7月发射量子科学实验卫星，<a target="_blank" href="http://www.popsci.com/chinas-quantum-satellite-could-change-cryptography-forever"><u>要将量子通信从理论变成现实</u></a>，量子加密在理论上被认为是无法破解的。卫星的发射将标志着中国量子通信网络的完成，该网络还<a target="_blank" href="http://www.solidot.org/story?sid=45318"><u>包含了</u></a>2000公里长的北京至上海量子光纤线路。500公斤重的量子卫星将测试量子纠缠现象，它由量子密钥通信器、量子纠缠发射器、纠缠源、处理单元和激光通信器构成。卫星将在中国和欧洲的两个地面站之间中继传输量子密钥。项目的首席科学家是中科院院士潘建伟。他指出距离对于测试光子的量子遥传是非常理想的。如果卫星成功了，中国将到2020年建造一条连接亚洲和欧洲的量子密钥分配网络，到2030年建造一条全球量子通信网络。
+➜马里兰的公交车记录乘客对话
+https://www.solidot.org/story?sid=47374	35909
+美国马里兰运输管理局自2012年起<a target="_blank" href="https://www.washingtonpost.com/local/md-politics/devices-on-public-buses-in-maryland-are-listening-to-private-conversations/2016/02/29/325e1d1e-df36-11e5-8d98-4b3d9215ade1_story.html"><u>就开始记录公交车里乘客的对话</u></a>，而阻止这一做法的立法努力失败了四次。运输管理局并没有在每个座位下都放一个麦克风或音频记录设备，而是安装在司机座位附近，一旦发生公共安全事件司机可以激活该设备。持反对立场的马里兰参议员Robert A. Zirkin认为运输管理局的做法是大规模监视，他指出了一个科技发展带来的问题：随着技术的进步，对公民自由权利的侵犯就变得日益容易。但支持者认为录音是国家安全的一个必要工具。
+➜研究人员利用旁路攻击窃取Android和iOS上的密钥
+https://www.solidot.org/story?sid=47375	39957
+以色列特拉维夫大学的研究人员<a target="_blank" href="https://www.cs.tau.ac.il/~tromer/mobilesc/mobilesc.pdf"><u>利用旁路攻击</u></a>（PDF），成功从Android和iOS设备上<a target="_blank" href="http://arstechnica.com/security/2016/03/new-attack-steals-secret-crypto-keys-from-android-and-ios-phones/"><u>窃取到用于加密比特币钱包、Apple Pay账号和其他高价值资产的密钥</u></a>。研究人员攻击的是常用的椭圆曲线数字签名加密算法，利用目标设备旁边的磁探针去测量设备在执行加密操作时泄露的电磁辐射，从中提取出加密重要数据的密钥。研究人员称他们能完整提取出运行在iOS设备上的OpenSSL和 CoreBitcoin签名密钥，部分提取出Android设备上的 OpenSSL密钥。受影响的iOS系统主要是旧版本—— 7.1.2 到8.3，较新的9.x不受影响； 1.0.x 和1.1.x 版本的OpenSSL都受到影响。研究人员已经通知了OpenSSL维护者，维护者表示硬件旁路攻击不包含在他们的威胁模型中。
+➜三星发布15.36TB容量的固态硬盘
+https://www.solidot.org/story?sid=47376	42831
+三星<a target="_blank" href="http://www.computerworld.com/article/3040208/data-storage/samsung-ships-the-worlds-highest-capacity-ssd-with-15tb-of-storage.html?nsdr=true"><u>发布了</u></a>容量高达15.36TB的固态硬盘PM1633a。PM1633a为2.5英寸大小，但比通常的笔记本SSD大，基于企业存储系统使用的12Gbps Serial Attached SCSI(SAS)接口，随机读取和写入速度分别达到了每秒200,000 和32,000 I/O(IOPS)，读写速度高达1200MBps。PM1633a采用的是 V-NAND或3D NAND技术，像微观摩天大楼那样将一个个NAND单元堆叠起来，它组合了512个256Gbit V-NAND记忆单元。
+➜量子计算机将能分解任意大数
+https://www.solidot.org/story?sid=47377	44956
+MIT和 Innsbruck大学的计算机科学家组装了一台5量子比特的量子计算机，<a target="_blank" href="http://spectrum.ieee.org/tech-talk/computing/hardware/encryptionbusting-quantum-computer-practices-factoring-in-scalable-fiveatom-experiment"><u>它有朝一日将能分解任意大数</u></a>，破解常用的RSA公钥加密算法。量子计算机的超叠加态特性使它在并行计算上远胜于传统计算机。MIT数学教授<a href="http://www-math.mit.edu/%7Eshor/">Peter Shor</a>在1994年提出了用量子计算机分解大数的 Shor算法，但他没有办法测试它。2001年MIT的物理学家和电机工程师<a href="http://web.mit.edu/physics/people/faculty/chuang_isaac.html">Isaac Chuang</a>设法使用这个算法去分解15。但他使用的量子系统不具有按比例放大的能力，无法分解更复杂的数。在最新研究中，Chuang和他的团队想要创造一台分解大于15的数的量子计算机，这种量子计算机能稳定储存量子比特。他们的量子计算机原型使用了一系列离子，用电场固定离子的位置，用激光脉冲进行操作。他们用4个量子比特去执行Shor算法去分解数字，1个量子比特用于输出。Chuang称他们的原型能放大去分解任意大数。<a target="_blank" href="http://science.sciencemag.org/cgi/doi/10.1126/science.aad9840"><u>研究报告</u></a>发表在《科学》期刊上。
+➜可拉伸会发光的软体机器人
+https://www.solidot.org/story?sid=47378	46011
+<div align="center"><img src="http://img.solidot.org/0/417/li2EFxzog7vA.png" align="" height="394" width="500"><br>
+</div>
+<br>
+研究人员在《科学》期刊上<a target="_blank" href="http://science.sciencemag.org/content/351/6277/1071"><u>描述了</u></a>（Abstract）一种<a target="_blank" href="http://arstechnica.com/science/2016/03/stretchable-glowing-capacitors-used-to-make-a-touch-sensitive-robot/"><u>可拉伸会发光的软体机器人</u></a>。研究人员使用的材料是电致发光磷光体，在不同的电场下会发光，磷光体可以嵌入在硅凝胶中，使其具有可拉伸性和可弯曲性。而磷光体中不同的渗染剂使其能发出不同颜色的光。研究人员再组合使用了水凝胶，创造出一种极其可拉伸性的材料，能拉伸到原始长度的4.8倍。
+➜解读中国的军事改革
+https://www.solidot.org/story?sid=47379	47115
+彭博社发表了一篇长文<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-03-03/inside-china-s-plan-for-a-military-that-can-counter-u-s-muscle"><u>分析了中国的军事改革</u></a>：去年中国宣布到2017年裁军30万，被裁的大多是非作战人员，比如歌舞团，主要是在陆军；为了实现军事现代化的目标，中国将需要更多的飞行员、水兵、特种部队和无人机操作人员；空军、海军和火箭军将负责核武库和常规导弹，战略支援部队负责网络战和保护中国的金融系统；这次大规模军事改革也被认为是进一步巩固权力，四总部被分成15个更小的单位，直接向中央军事委员会报告。今天召开的人大新闻发布会上，中国前外交部副部长傅莹<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/03/160304_china_two_sessions_defence_budget"><u>表示</u></a>，中国今年的军费预算将保持增长，但是增长的幅度比前几年要低，在7%-8%之间。

@@ -1,0 +1,51 @@
+➜WhatsApp 被屏蔽
+https://www.solidot.org/story?sid=53967	7504
+流行移动消息应用 WhatsApp <a href="https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html" target="_blank"><u>遭到屏蔽</u></a>，它曾经是 Facebook 旗下唯一能在中国访问的服务。在 7 月中旬，WhatsApp 的视频语音聊天和照片服务<a href="http://www.solidot.org/story?sid=53135" target="_blank"><u>遭到屏蔽</u></a>，但文字消息服务还能工作，数周后又短暂解除了对视频语音聊天和照片共享服务的封锁，如今包括文字消息在内的所有服务都遭到屏蔽。服务中断从上周三就开始出现，周一基本上全方面封锁，香港中文大学的互联网通信专家 Lokman Tsui 称，可能有少数用户仍然能使用这项服务。Facebook 拒绝置评，公司 CEO 此前曾多次努力重新进行中国。
+➜微信、微博和百度贴吧被罚款
+https://www.solidot.org/story?sid=53968	9135
+今年 8 月，中国互联网最高审查机构网信办发表一份简短声明，称中国最流行的三个社交网络腾讯微信、新浪微博和百度贴吧因为涉嫌违反《网络安全法》而<a href="http://www.solidot.org/story?sid=53430" target="_blank"><u>被立案调查</u></a>。现在，虽然调查结果没有公布（至少官网上找不到），但惩罚结果已经宣布。网信办对腾讯微信、新浪微博和百度贴吧处以新网络安全法规定的<a href="http://cn.wsj.com/gb/20170926/tec071843.asp" target="_blank"><u>最高金额罚款</u></a>，因平台上有虚假新闻、淫秽色情等违规信息发布。网络安全法称，如果未能阻止违规内容传播，网络运营商最高可被处以人民币 50 万元罚款，并责令暂停相关业务或吊销业务许可。除非有其它惩罚措施，否则 50 万的罚款对这些巨头来说是微不足道的。
+➜Showtime 网站正利用浏览者的 CPU 挖门罗币
+https://www.solidot.org/story?sid=53969	12935
+在海盗湾之后，CBS 旗下的有线电视网 Showtime <a href="https://www.bleepingcomputer.com/news/security/showtime-websites-used-to-mine-monero-unclear-if-hack-or-an-experiment/" target="_blank"><u>被发现</u></a>也在利用浏览者的 CPU 挖掘门罗币。Showtime 的两个域名 showtime.com 和 showtimeanytime.com 都嵌入了 JS 挖矿脚本 Coinhive。Showtime 尚未对此发表评论。目前不清楚加入挖矿程序是否是和海盗湾一样是一种代替广告的实验，或者是网站遭到黑客入侵了。由于越来越多的网站、恶意程序、Chrome 扩展开始整合门罗币挖矿脚本，流行的广告屏蔽工具如 <a href="https://adblockplus.org/blog/kicking-out-cryptojack" target="_blank"><u>AdBlock Plus</u></a> 和  <a href="https://blog.adguard.com/en/adguard_vs_mining/" target="_blank"><u>AdGuard</u></a> 加入了对 Coinhive 的屏蔽支持，一些 Chrome 扩展如 <a href="https://chrome.google.com/webstore/detail/antiminer-block-coin-mine/abgnbkcdbiafipllamhhmikhgjolhdaf" target="_blank"><u>AntiMiner</u></a>、<a href="https://chrome.google.com/webstore/detail/no-coin/gojamcfopckidlocpkbelmpjcgmbgjcl?hl=en" target="_blank"><u>No Coin</u></a> 和 <a href="https://chrome.google.com/webstore/detail/minerblock/emikbbbebcdfohonlaifafnoanocnebl" target="_blank"><u>minerBlock</u></a> 也能阻止类似 Coinhive 的挖矿脚本。
+➜苹果用 Google 取代 Bing 成为 Siri 默认搜索引擎
+https://www.solidot.org/story?sid=53970	14053
+苹果用 Google <a href="https://www.geekwire.com/2017/apple-replaces-bing-google-search-engine-siri-spotlight/" target="_blank"><u>取代 Bing</u></a> 成为 Siri、iOS 搜索和 Spotlight on Mac 的默认搜索引擎。苹果用户在使用这些工具时将会看到搜索结果来自 Google 而不是微软的 Bing。举例来说，如果用户向 Siri 询问了一个需要使用到搜索引擎结果的问题，苹果的语音助手将会从 Google 而不是 Bing 获取信息，苹果仍然会将 Bing 用于 Siri 或 Spotlight on Mac 的图像搜索查询。苹果在一份声明中称，它与 Google 和微软有着牢固的关系，继续致力于向用户提供最佳的用户体验。此前有报道称，为了继续成为苹果的默认搜索引擎，Google 今年支付了 30 亿美元。
+➜CCleaner 攻击者至少入侵了 40 台知名科技公司的 PC
+https://www.solidot.org/story?sid=53971	19310
+安全公司 Avast 旗下的免费软件 CCleaner 最近被攻击者植入了后门，227 万 PC 下载了包含后门的恶意版本，其中至少 40 台隶属于知名科技公司的 PC <a href="https://blog.avast.com/additional-information-regarding-the-recent-ccleaner-apt-security-incident" target="_blank"><u>被植入了后续恶意代码</u></a>。Avast 官方博客称，这是一次 APT 攻击，攻击针对的是特定的高科技和电信公司。虽然 CCleaner 是一款消费者级产品，但攻击的意图不是消费者及其数据，而是那些能访问特定公司企业网络的 CCleaner 用户。攻击分两个阶段，第一阶段是利用后门版 CCleaner 感染用户，然后利用收集到的感染信息选择性的发动第二阶段攻击。Avast 称，攻击者使用的 CC 服务器在曝光前发生了崩溃事故，原因是硬盘空间不足，因此 CC 服务器只保留了 3.5 天的数据库。但在崩溃前攻击者在另一台服务器上备份了数据库。在托管商和执法机关的帮助下，他们分析了崩溃后的数据库和备份数据库（有 40 小时的数据丢失），发现与 CC 服务器的总连接数是 5,686,677，唯一 MAC 地址数是 1,646,536，有 40 台 PC 遭到了第二阶段的攻击。这些 PC 分别属于台湾中华电信（13 台）、日本电气（10）、韩国三星（5）、台湾华硕（2）、日本富士通（2）、日本索尼（2）、美国的 Dvrdns、英国的 O2、德国的 Gauselmann、新加坡电信、英特尔和 VMware。从 227 万中选择 40 台入侵，这显然是一次针对性的攻击。Avast 称，多个线索显示攻击源头来自中国，但攻击者的活跃时间并非是 UTC + 8，目前还无法确认攻击者身份。
+➜研究建议恢复大熊猫的濒危保护等级
+https://www.solidot.org/story?sid=53972	27391
+2016 年 9 月，国际自然保护联盟<a href="http://www.solidot.org/story?sid=49570" target="_blank"><u>宣布</u></a>不再将大熊猫列入濒危物种红名单，它的受威胁等级从 “濒危” 降为“易危”。国际自然保护联盟称，来自一系列全国调查的证据显示大熊猫的数量不再下降而是开始增加了。现在，中科院的研究人员在开放获取期刊《Nature Ecology &amp; Evolution》上发表<a href="https://www.nature.com/articles/s41559-017-0317-1" target="_blank"><u>论文</u></a>，建议恢复大熊猫的濒危保护等级。对过去 40 年的卫星数据的分析发现，目前中国大熊猫面临栖息地破碎化及种群隔离的风险，栖息地状况不容乐观。研究<a href="http://china.caixin.com/2017-09-26/101150313.html" target="_blank"><u>发现</u></a>，基础设施建设、旅游和气候变化等因素，导致大熊猫栖息地被不断分割为越来越小的区域。栖息地破碎化和种群隔离一直是重要的威胁。目前，现有大熊猫种群仅有存在于 6 座山脉中的 30 个孤立种群，其中 18 个种群所含大熊猫数量不超过 10 只，并面临灭绝的高风险。
+➜前澳门黑帮老大卷入澳门赌场 ICO 计划
+https://www.solidot.org/story?sid=53973	27933
+澳门龙集团和泰国 Wi 控股有限公司的 ICO 计划得到了澳门最臭名昭著黑帮老大之一的“崩牙”尹国驹的支持。这次 ICO 计划将在下个月启动，预计融资 5 亿美元， 准备将区块链技术引入到这个世界著名赌城。《南华早报》获得的照片<a href="http://www.scmp.com/news/hong-kong/law-crime/article/2112789/former-macau-gangland-boss-enters-multibillion-dollar" target="_blank"><u>显示</u></a>，尹国驹出席了两家公司的签字仪式。这一计划中的 ICO 恰逢一个敏感时期，中国在本月初宣布 ICO 非法，下令关闭 ICO 和数字货币的人民币交易。Wi 的 CEO Chakrit Ahmad 认为，ICO 令牌是香港发行的，应该会免受中国对 ICO 的打击。他表示，交易的数字属性将允许大陆当局跟踪通过赌场的非法流出。
+➜微软首次同时发布 Windows 和 Linux 版的 SQL Server
+https://www.solidot.org/story?sid=53974	29768
+微软<a href="https://arstechnica.com/gadgets/2017/09/microsoft-ignite-2017-azure-sql/#p3" target="_blank"><u>发布</u></a>了 <a href="https://www.microsoft.com/zh-CN/sql-server/sql-server-2017-linux" target="_blank"><u>SQL Server 2017</u></a>。这是 SQL Server 历史上首次同时发布 Windows 和 Linux 版，微软还同时发布了能使用  Docker 部署的容器版本。微软是在去年 3 月<a href="http://www.solidot.org/story?sid=47405" target="_blank"><u>首次对外宣布了</u></a> Linux 版的 SQL Server。将 SQL Server 带到 Linux 平台潜在会影响 Windows Server 市场份额，但微软云端和企业业务执行副总裁 Scott Guthrie 认为，机遇大于风险，许多客户都对 SQL Server 表达过浓厚兴趣，但他们使用的是 Linux 或容器，只支持 Windows 将使得 SQL Server 无法提供给这些客户。SQL Server 2017 的核心功能在 Windows 和 Linux 上保持一致，但有少部分依赖于 Windows 功能的特性没有提供给 Linux。
+➜研究人员恢复 15 年植物病人的部分意识
+https://www.solidot.org/story?sid=53975	31542
+研究人员在《Current Biology》期刊上发表<a href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)30964-8?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982217309648%3Fshowall%3Dtrue" target="_blank"><u>论文</u></a>，报告通过多个月的迷走神经刺激术<a href="https://www.newscientist.com/article/2148350-electric-zap-wakes-man-after-15-years-in-a-vegetative-state/?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Twitter#link_time=1506356486" target="_blank"><u>恢复了一位躺了 15 年的法国植物病人的部分意识</u></a>。这位 35 岁的男子在 2001 年的一次车祸中大脑严重受损，处于无意识状态长达 15 年。法国国家科学研究中心的研究人员通过手术在其颈部迷走神经周围植入了电极去刺激他的迷走神经。<a href="https://zh.wikipedia.org/wiki/%E8%BF%B7%E8%B5%B0%E7%A5%9E%E7%BB%8F" target="_blank">迷走神经</a>支配呼吸系统、消化系统的绝大部分和心脏等器官的感觉、运动和腺体的分泌。研究人员认为，刺激迷走神经能增加他的大脑活动，有助于他恢复意识。研究人员逐步增加电流强度，从 0.25 mA 开始，每周提高 0.25 mA 直至 1.5 mA。在治疗过程中，这位患者开始更频繁的张开眼睛，能用眼睛跟踪房间内的人，甚至能响应移动头部方向的请求，尝试根据指示微笑。这位男子仍然处于瘫痪状态，研究人员谨慎的表示这只是个案，治疗方法未必能适用所有病人。
+➜数据结构思维 翻译完成
+https://www.solidot.org/story?sid=53976	32524
+<a href="mailto:admin@flygon.net">wizardforcel</a> 写道 "<i>
+原文：<a href="http://greenteapress.com/thinkdast/html/index.html" rel="nofollow" target="_blank" style="outline: 0px; text-decoration-line: none; color: rgb(66, 133, 244);">http://greenteapress.com/thinkdast/html/index.html</a>
+<p></p>
+译文：<a href="https://github.com/wizardforcel/think-dast-zh" rel="nofollow" target="_blank" style="outline: 0px; text-decoration-line: none; color: rgb(66, 133, 244);">https://github.com/wizardforcel/think-dast-zh</a>
+<p></p>
+这是我这个月翻译的东西，也是今年翻译的最后一本书了。这本书可以看做《像计算机科学家一样思考 Java》的续集，主要关于 Java 集合框架的使用、常见数据结构的实现、简单爬虫和检索器的实现。
+"</i>
+➜如果数据是新时代的石油，我们就白白的被科技公司抢劫？
+https://www.solidot.org/story?sid=53977	38720
+如果数据是新时代的宝贵石油，为什么我们仅仅是用它换取表面上免费的电子邮件服务？数据创造了一个价值数十亿美元的生意，即使企业亏损但如果它拥有大量用户的数据它也拥有令人羡慕的价值。我们在免费提供数据的同时，事实上还免费帮助训练数据，比如通过解决 CAPTCHA 问题改进和完善 AI 系统，我们所得到不过是表面上免费的服务，而更先进的 AI 却可能导致我们在未来失业。我们应该得到更多补偿，而不是<a href="https://www.digitaltrends.com/cool-tech/data-ownership-question/" target="_blank"><u>白白的被科技公司抢劫</u></a>。Jaron Lanier 在其新书《<a href="https://www.goodreads.com/book/show/15802693-who-owns-the-future" target="_blank"><u>Who Owns the Future?</u></a>》中提出的建议是：每当企业从我们的数据中获得收入我们都有资格得到一笔小额补偿。
+➜迪拜测试飞行出租车
+https://www.solidot.org/story?sid=53978	42409
+迪拜本周起在世界上<a href="http://www.reuters.com/article/us-emirates-dubai-drones/dubai-starts-tests-in-bid-to-become-first-city-with-flying-taxis-idUSKCN1C0232" target="_blank"><u>率先测试</u></a>无人机送客服务。飞行出租车由德国无人机制造商  Volocopter 制造，有两个座位和 18 个螺旋桨。阿联酋王储 Sheikh Hamdan bin Mohammed 参与了首飞。无人机的飞行距离只有 30 分钟，为避免意外配备了大量保护措施，包括备用电池和旋翼，以及在最糟糕情况下使用的两个降落伞。Volocopter 是众多研究飞行出租车的企业之一，其它企业包括空客、Google 联合创始人 Larry Page 创办的 Kitty Hawk，打车软件巨头 Uber。
+➜英特尔发布 16 核和 18 核 Core i9 处理器挑战 AMD Threadripper
+https://www.solidot.org/story?sid=53979	44408
+英特尔发布了面向发烧友的 16 核的 Core i9-7960X 和 18 核的 Core i9-7980XE 桌面处理器。过去英特尔的高端处理器可能会迎来一片赞声，但如今有了对比物，在 AMD Threadripper 的冲击之下，评测者们认为，英特尔的最高端处理器虽然略快于 AMD，然而完全<a href="https://www.anandtech.com/show/11839/intel-core-i9-7980xe-and-core-i9-7960x-review/16" target="_blank"><u>不具有性价比</u></a>。 i9-7960X 售价 1699 美元，i9-7980XE 售价 1999 美元，而 Threadripper 1950X 售价 999 美元。Ars 的 <a href="https://arstechnica.com/gadgets/2017/09/intel-core-i9-7960x-review/2/" target="_blank"><u>Core i9 7960 评测</u></a>就推荐用户购买 Threadripper 1950X。Core i9 的优点是具有更好的游戏性能，速度也最快， 但并不比 Threadripper 1950X 快多少，PCIe 通道数也比 Threadripper 少，功耗更高，散热更糟糕，用的还是硅脂而不像 AMD 用钎焊。
+➜罗斯高认为应该加大对农村儿童的早期投入
+https://www.solidot.org/story?sid=53980	46100
+斯坦福大学发展经济学教授罗斯高领导的研究<a href="http://www.solidot.org/story?sid=50617" target="_blank"><u>发现</u></a>，中国贫困地区学生的 IQ 普遍较低，这或能解释这些地区较高的辍学率。而 IQ 较低并非归结于先天因素，而更多与早期养育和营养缺失相关，是没有发育好。他认为中国在大学上的投资浪费了很多钱，应该将部分投资<a href="http://china.caixin.com/2017-09-26/101150604.html" target="_blank"><u>转入早期养育</u></a>。他建议在农村试点养育中心，然后看情况推广开来。如果在 30 万个村建立养育中心，每个村花 5 万、6 万，差不多是 80 亿，相比于大学投资的浪费并不高。他的一些建议中国政府不太可能会采用，他的第一条建议是取消户口，称户口是特别有中国特色的东西。
+➜中国消费信贷激增
+https://www.solidot.org/story?sid=53981	47375
+在国企和地方政府大举借债推动发展之际，中国消费者<a href="https://cn.nytimes.com/business/20170926/china-debt-consumers/" target="_blank"><u>也在快速借贷</u></a>，比如买房买车通常都需要贷款。央行的数据显示，自去年初政府开始鼓励向家庭发放更多贷款以来，消费信贷增长了将近 50%。其规模可能还会大幅增加：国际货币基金组织称其预计，到 2022 年，中国的家庭债务占经济总产值的比例将比 10 年前高一倍。就数额而言，住房抵押贷款占中国新增家庭贷款的绝大部分，从而为房价的飙升推波助澜。从百分比来看，汽车贷款增长得更快。此外，在这个崇尚现金交易或线上交易的国家，信用卡债务规模日益增大。但中国的家庭债务规模低于美国，美国家庭债务规模相当于年度经济总产值的四分之三。在中国则是不到一半。

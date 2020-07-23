@@ -1,0 +1,45 @@
+➜中兴事件与中国企业文化
+https://www.solidot.org/story?sid=56248	11870
+上周，美国商务部以中兴违反和解协议为由对其实施长达七年的<a href="https://www.commerce.gov/sites/commerce.gov/files/zte_denial_order.pdf" target="_blank">贸易禁令（PDF）</a>，此事在中国引发了广泛讨论。因为向伊朗古巴等国出售使用美国零部件的产品，2012 年中兴开始受到美国监管部门的调查，到 2016 正式起诉，2017 年的认罪和解，“七年之禁” 原本就是和解协议的一则条款，有三年缓刑期。如果当时立即生效，禁令有效期便会到 2024 年。现在由于美国商务部指称中兴违反协议条款而被激活。中兴与美国政府的 “过节” 不能以 “政治迫害” 视之。它<a href="http://www.ftchinese.com/story/001077256?full=y" target="_blank"><u>暴露了中企的短板</u></a>：缺乏法治精神和内部监管机制。中国企业对于地主国的法律规范和应用缺乏了解，特别是对于美国法规执行的程度感到惊讶，这呼应了传统上对于中国企业的印象——来自缺乏法治的社会。在企业权力的配置上，领导比法律规章重要，也就是由上到下的指令，比客观地遵守法律，更为重要。中兴内部文件充分显示其领导带头触犯法网。
+➜僵尸网络正在积极利用 Drupal 的漏洞
+https://www.solidot.org/story?sid=56249	12775
+上个月，开源内容管理系统 Drupal 发布了<a href="https://www.solidot.org/story?sid=55981" target="_blank"><u>一则高危漏洞警告</u></a>，基本上影响到所有的 Drupal 网站或超过 100 万网站。公告称，Drupal 7.x 和 8.x 的多个子系统内发现了一个远程代码执行漏洞，可能导致网站被完全入侵。奇虎 360 的研究人员<a href="https://blog.netlab.360.com/botnet-muhstik-is-actively-exploiting-drupal-cve-2018-7600-in-a-worm-style/" target="_blank"><u>报告</u></a>，多个恶意程序正在利用该漏洞。其中一组恶意软件有蠕虫传播行为，感染量显著比其他的恶意软件更多。研究人员将该僵尸网络命名为 muhstik，因为其二进制文件名和通信协议中多处包含了这个字符串。Muhstik 僵尸网络相当复杂，硬编码了 11 个 C2 域名 / IP，获利方式包括挖取 XMR 数字代币，挖取 BTC 数字代币，以及 DDoS 攻击。
+➜外卖信息大量泄漏
+https://www.solidot.org/story?sid=56250	13322
+用户每订一次外卖，就意味着要将自己的信息上传一次。但这些隐私信息是否足够安全？新京报记者卧底多个 “电话销售” 群<a href="http://www.bjnews.com.cn/inside/2018/04/23/484211.html" target="_blank"><u>发现</u></a>，有卖家专门出售外卖订餐客户的信息。包括电话姓名、订餐地址在内，每条信息的售价不到一毛钱。还有网络运营公司借助软件搜集用户的订餐信息，打包后倒卖给电话销售公司，甚至还有一些外卖骑手也做起了客户信息倒卖的“生意”。记者随机在网上调查发现，在一些 QQ 群里，有人叫卖饿了么、百度外卖、美团等外卖平台的客户信息。美团一位客服人员表示，美团内部对于信息的管理非常严格，但用户订单信息涉及商家、骑手等多个环节，不排除有其它因素导致信息泄露。卖家则声称是内部人士泄漏的。
+➜微软和 Google 都拥有你的大量信息
+https://www.solidot.org/story?sid=56251	18158
+Facebook 的用户数据泄漏丑闻是过去几周的热点，然而在用户数据收集的规模上，微软和 Google 相比 Facebook 有过之无不及。搜索巨人统治了搜索，软件巨人统治了桌面操作系统，它们都知道我们的大量私人信息，其中微软通过遥测知道的信息你可能无法直观的掌握。Google 的 Google Analytics 是最受欢迎的分析服务，网站的使用 Google Analytics 的比例远高于 Facebook Analytics。和 Facebook 一样，无论你有没有 Google 账号，无论你有没有<a href="https://www.google.com/ads/preferences/" target="_blank"><u>退出</u></a>定向广告，Google <a href="https://yro.slashdot.org/story/18/04/22/1828213/who-has-more-of-your-personal-data-than-facebook-try-google" target="_blank"><u>都会继续收集你的信息</u></a>。对于数据收集，微软似乎一直在人们的视野外，然而通过强推 Windows 10 ，通过将 Windows 变成一种服务，微软也以各种名义大规模的收集用户的信息。两家巨人对你的了解可能比你以为的深入得多。
+➜360 发现新 Windows 0day 漏洞
+https://www.solidot.org/story?sid=56252	19288
+奇虎 360 <a href="https://weibo.com/ttarticle/p/show?id=2309404230886689265523" target="_blank"><u>发现了</u></a>新 Windows 0day 漏洞，正被利用发动 APT 攻击。漏洞已经报告给了微软，奇虎没有披露细节。安全研究人员将该漏洞命名为 “双杀” 漏洞，影响最新版本的 IE 浏览器及使用 IE 内核的应用程序。攻击是通过投递内嵌恶意网页的 Office 文档的形式实施，中招者打开文档后，所有的漏洞利用代码和恶意荷载都通过远程的服务器加载。攻击的后期利用阶段使用了公开的 UAC 绕过技术，并利用了文件隐写技术和内存反射加载的方式来避免流量监测和实现无文件落地加载。360 建议用户不要随意打开未知来路的 office 文档。
+➜Google 证实部分服务被俄罗斯屏蔽
+https://www.solidot.org/story?sid=56253	24970
+在封杀消息应用 Telegram 的名义下，俄罗斯屏蔽了约 1800 万亚马逊和 Google 的 IP 段。如此规模的屏蔽显然会造成严重的“附带损害”。Google <a href="https://techcrunch.com/2018/04/22/google-confirms-some-of-its-own-services-are-now-getting-blocked-in-russia-over-the-telegram-ban/" target="_blank"><u>已经证实</u></a>它的部分服务受到影响被俄罗斯屏蔽。受影响的产品包括搜索、Gmail 和 Android 应用的通知推送。Google 发言人称他们已经了解到部分俄罗斯用户无法访问它的部分产品，它正对此展开调查。俄罗斯监管机构刚刚宣布它已经将 Google 服务的 IP 段加入到屏蔽名单之列，然而尴尬的是 Telegram 的服务仍然可以在俄罗斯境内正常使用。
+➜巴瑶族人为潜水演化出更大的脾脏
+https://www.solidot.org/story?sid=56254	27308
+根据发表在《Cell》期刊上的<a href="http://www.cell.com/cell/fulltext/S0092-8674(18)30386-6" target="_blank"><u>一项研究</u></a>，生活在东南亚的巴瑶族人（Bajau）为更好的适应潜水<a href="http://www.bbc.co.uk/news/science-environment-43823885" target="_blank"><u>演化出</u></a>了更大的脾脏。更大的脾脏能在血液中保留更多的氧气，更有利于潜水。巴瑶族人以潜海捕鱼为生，被认为是最后一支海洋游牧民族，能潜入到 70 米以下。脾脏在延长自由潜水时间方面扮演着重要角色，因为它构成了所谓的人体潜水反应的一部分。当人体被冷水淹没时，即使是短暂的时间，也会引发这种反应，即协助身体在缺氧环境中生存的一种方法，会出现心率减慢，四肢血管萎缩，为重要器官保存血液，脾脏收缩。脾脏的这种收缩通过将充氧的红细胞喷射到循环系统中，能令氧气增加了 9%，从而延长了潜水时间。 研究人员<a href="http://www.ebiotrade.com/newsf/2018-4/2018420165238541.htm" target="_blank"><u>发现</u></a>巴瑶族的脾脏比邻居撒利族人（Saluan）大 50%。他们发现巴瑶族人有一个叫做 PDE10A 的基因，而撒利族人没有。
+➜要求北大公开沈阳调查结果的学生遭到校方施压
+https://www.solidot.org/story?sid=56255	28526
+自 4 月 5 日开始，北大 95 级校友李悠悠的指控让一桩 20 年前的旧事暴露在聚光灯下，并在中国互联网上引发一波对于校园两性伦理与法律问题的讨论。李悠悠举报曾在北大中文系任教、目前的 “长江学者” 沈阳教授曾性侵其同学高岩，导致高岩自杀。在 4 月 9 日之后国内媒体基本上停止<a href="https://www.google.com/search?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6+%E6%B2%88%E9%98%B3&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=0ahUKEwizgMnz8c_aAhXLCcAKHWGbCBEQ_AUIDCgD&amp;biw=1600&amp;bih=786" target="_blank"><u>跟踪报道</u></a>这起事件。而参与“沈阳性侵案信息公开” 事件的北京大学外国语学院学生通过微信披露她<a href="https://info-cn.github.io/Terminus/archive/2018/04/23/pku-YueXin-gongkaixin.html" target="_blank"><u>遭到了校方的施压</u></a>，此事再次在社交媒体上引发了激烈的讨论。而腾讯和新浪微博开始大规模的审查了相关讨论，<a class="a_topic W_linkb" href="https://huati.weibo.com/k/%E5%8C%97%E5%A4%A7%E5%B2%B3%E6%98%95?from=526" target="_blank">#北大岳昕</a>的标签遭到删除，学生的控诉文章也在微信上遭到删除。
+➜细胞需要多少基因？也许是全部
+https://www.solidot.org/story?sid=56256	30396
+通过一次剔除出三个基因，加拿大多伦多大学的科学家努力推断出保持细胞存活的<a href="https://www.solidot.org/story?sid=50143" target="_blank"><u>基因关联性网络</u></a>。科学家以前已经发现了酵母细胞没有就无法活下去的关键基因。但最新研究显示，非关键基因随着其它基因的消失变得重要起来。这一结果显示酵母——或其他更复杂的生物体——所需要生存和繁殖的基因数量可能惊人的多。<a href="http://science.sciencemag.org/content/360/6386/eaao1729" target="_blank"><u>研究报告</u></a>发表在《科学》期刊上。科学家在 20 年前发现，酵母基因组中的 6000 个基因有大约 1000 个是关键基因，也就是缺少任意一个酵母就无法存活下去。但是剔除掉非必要基因中的一对，有时候也会导致死亡。多伦多大学的生物学家 Charles Boone 和 Brenda Andrews 从 19 年前开始培育了 2300 万酵母菌株，每个都失去了一对基因，观察酵母是活着，还是死去，或者是生病，从而获取到有关基因之间存在关联性的数据。他们发现了 55 万对有关联的基因，移除它们会导致死亡或生病。他们随后开始尝试剔除掉三个基因，利用了之前的结果，而不是穷尽所有三个基因的组合。他们发现三分之二的组合显示出了额外的关联性，还有三分之一的交互则是全新的。
+➜20 岁创业是一种神话
+https://www.solidot.org/story?sid=56257	33158
+创业者只有在拥有足够的经验之后才能创造出成功的创业故事，鼓励 20 岁的人去创业是在坑人。当然，我们这个时代最为人所津津乐道的创业故事是在 20 多岁时创办了自己公司，比如苹果、微软、Google 和 Facebook 或腾讯，但这些是极端的个案，并不具有普遍性。根据 MIT 斯隆商学院教授 Pierre Azoulay 和博士生 Daniel Kim 的一项研究，<a href="http://mitsloan.mit.edu/newsroom/articles/the-20-year-old-entrepreneur-is-a-lie/" target="_blank"><u>创业者的平均年龄是 42 岁</u></a>。在纽约，得到风投的“年轻”创业者的平均年龄是 39 岁。为什么创业者年龄重要？研究者认为可能是个人经验、社会资源、金融资本或这几样组合的结果。
+➜中国寻求加速发展国内芯片业
+https://www.solidot.org/story?sid=56258	34949
+随着中美两国贸易冲突加剧，中国政府决定加速发展国内芯片产业。路透社援引两位知情业内人士<a href="https://cn.reuters.com/article/usa-trade-china-chips-0423-idCNKBS1HU0DR" target="_blank"><u>报道</u></a>，中国高级官员愈发担心提升国内芯片设计的努力停滞。中国政府希望到 2020 年国内芯片自产率至少达到 40%。但业内人士称，中国芯片生产商难以达到关键目标。一系列与芯片相关的海外并购交易遇阻，这令国内芯片生产商陷入困境。他们在吸引人才以及克服开发高端国内芯片的技术障碍方面也面临困难。访问六位来自中国芯片供应商、企业组织、投资者及分析师等人士的结果显示，尽管投资庞大且信誓旦旦，但中国在发展高端芯片或 IC 方面仍是进度落后。他们说中国在较低阶芯片的进展比较多。知情人士说，中国领导层现在准备加码投资，积极开发国内自行设计芯片。中国政府的芯片业”大基金”(Big Fund)在上月结束的最新一轮融资估计筹集 320 亿美元资金，这些新融资约四分之一将用于集成电路设计。
+➜Twitter 封杀卡巴斯基广告
+https://www.solidot.org/story?sid=56259	42456
+俄罗斯安全公司卡巴斯基的创始人 Eugene Kaspersky在官方<a href="https://www.kaspersky.com/blog/ek-on-twitter-ads/22106/" target="_blank"><u>博客</u></a>引用了提利昂·兰尼斯特的名言说，你割掉一个人的舌头，你没有证明他是一个骗子，你只是告诉世界你害怕他可能说的话。他谈论了该公司的遭遇：今年一月底从 Twitter 收到了封杀卡巴斯基广告的通知，理由是卡巴斯基的商业模式与 Twitter 的广告商业规范之间存在无法解决的冲突。卡巴斯基此前曾被指控与俄罗斯政府有合作，美国国土安全部因此下令联邦机构停用任何卡巴斯基软件，但它并没有要求私人公司封杀卡巴斯基的广告，这应该只是  Twitter 自己做出的决定。 Twitter 发言人则称其决定<a href="https://motherboard.vice.com/en_us/article/xw73zj/twitter-bans-kaspersky-ads" target="_blank"><u>是基于国土安全部的通知</u></a>。
+➜Google 开始在全球推出 Chat 消息服务
+https://www.solidot.org/story?sid=56260	44820
+Google 开始在全球<a href="http://www.bbc.co.uk/news/technology-43836504" target="_blank"><u>推出</u></a>取代短信的 Chat 消息服务。Chat 支持群聊、视频等现有短信不支持的功能，它不是独立的服务，而是整合在 Android 默认的消息应用中，而且由移动运营商决定是否启用，它也不支持加密。Google 已经多次尝试推出消息应用，但都未能吸引大量用户使用。它的竞争对手苹果的 iPhones 内置了一个功能类似的 iMessage 消息服务。Chat 整合在 Android 中，移动运营商、手机厂商以及应用开发者都可以使用 Chat 开发出彼此兼容的消息应用。Google 使用的标准就是 Universal Profile for Rich Communication Services (RCS)，但它提出了一个对消费者更友好的名字叫 Chat。为了开发 Chat，Google 与超过 50 家移动运营商和三星、华为和 LG 展开了合作。
+➜中国黑客被指攻击日本国防承包商
+https://www.solidot.org/story?sid=56261	47171
+安全公司 FireEye 称，中国黑客过去几个月<a href="http://www.scmp.com/news/china/diplomacy-defence/article/2142863/china-hackers-accused-attacking-japanese-defence-firms" target="_blank"><u>以日本国防承包商为目标</u></a>，目的可能是获取东京解决朝鲜核僵局的政策相关的情报。攻击者被怀疑来自 APT 10，使用的一种攻击方法是钓鱼邮件。两次攻击发生在去年 9 月到 10 月之间。当时恰逢朝鲜核计划引发的地区紧张形势升级。朝鲜测试了氢弹，而特朗普则威胁全面毁灭朝鲜。随着两韩开始和谈，紧急形势已经缓解。FireEye 称， APT 10 主要收集与区域性地缘政治变化相关的情报。
+➜雄性布朗寡妇蜘蛛偏爱年长雌性，即使代价是被吃掉
+https://www.solidot.org/story?sid=56262	47843
+对于布朗寡妇蜘蛛（brown widow spiders）来说，性攸关生死。如果一只雄性选择一只成年雌性交配，那么有 50/50 的机会雌性会吃掉雄性。如果雄性选择与年轻的接近成年的雌性交配，那么有很大的可能性雌性会让雄性活着看到新的一天。然而奇怪的事情是，虽然有死亡的危险，以及无视年轻雌性能产下更多蜘蛛宝宝的事实，雄性仍然偏爱与年长雌性交配。研究人员<a href="http://www.sciencemag.org/news/2018/03/male-brown-widow-spiders-fancy-older-females-even-though-they-re-likely-get-eaten" target="_blank"><u>无法解释</u></a>这种奇怪的行为。可能的解释是年长雌性能释放出引诱雄性的信息素。

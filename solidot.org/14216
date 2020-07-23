@@ -1,0 +1,94 @@
+➜Google Chrome 的扩展开发计划
+https://www.solidot.org/story?sid=8910	1200
+aaaa007cn 写道 "虽然 Google 到现在都还没有推出 Linux 和 Mac 平台的 <a href="http://www.google.com/chrome">Chrome</a>，但是 Windows 版的 <a href="http://code.google.com/chromium/">Chromium</a> 确实在一步步地前进。在<a href="http://dev.chromium.org/developers/design-documents/greasemonkey">初步实现</a>了 <a href="http://www.greasespot.net/">Greasemonkey</a> 之后，Aaron Boodman 和他的同事们第一次公开了 Chromium 的<a href="http://www.aaronboodman.com/2008/11/extensions-in-chromium.html">扩展计划</a>。
+<i>根据 Lifehacker 早先的一次<a href="http://lifehacker.com/5052460/is-google-chrome-with-extensions-your-tipping-point">调查</a>，有 22% 的投票表示“没有 Ad-Block 就永远不让 Google Chrome 进入他们的硬盘”。现在，他们可以静静地等待了。<a href="http://dev.chromium.org/developers/design-documents/extensions">这份设计文档</a>明确表明了 Chromium 的开发者们很乐意通过扩展实现 <a href="https://addons.mozilla.org/en-US/firefox/addon/10">Adblock</a>、<a href="https://addons.mozilla.org/en-US/firefox/addon/433">Flashblock</a>、Privacy control、<a href="http://en.wikipedia.org/wiki/Parental_controls">Parental control</a> 这样的内容过滤功能。除此以外，<a href="http://code.google.com/p/delicious-toolbar/">Delicious Toolbar</a>、<a href="https://addons.mozilla.org/en-US/firefox/addon/201">DownThemAll</a>、<a href="https://addons.mozilla.org/en-US/firefox/addon/220">FlashGot</a>、<a href="https://addons.mozilla.org/en-US/firefox/addon/219">FoxyTunes</a> 等也被列在用例中。
+</i>[via <a href="http://lifehacker.com/5100500/chrome-extensions-on-the-way-adblock-imminent">Lifehacker</a> | <a href="http://news.cnet.com/8301-17939_109-10110247-2.html">CNET</a>]"
+➜升级必要性神话已然死去
+https://www.solidot.org/story?sid=8911	4800
+虽然微软时不时宣传Vista的销量，但实际数字和真实使用率绝对是相差甚远。微软想要逐步淘汰XP，然而它的忠实用户们并不买账，他们并不想“被迫”升级到新一代的操作系统，甚至他们宁愿<a href="http://www.theinquirer.net/feeds/rss/generic/en/GB/inq/latest/gb/inquirer/gb/inquirer/news/2008/11/27/punters-buying-old-second-hand">买旧电脑也要避开Vista</a>。
+<i>
+Gartner和IDC的一项研究发现，由于旧软件与Vista不兼容，许多消费者选择默认安装XP的旧电脑，而不是购买昂贵的预装Vista的新电脑，然后降级。大企业买主，人们通常认为它们愿意在新电脑上投资，但也对Vista感到苦恼。甚至Intel这样的公司都认为，在可预计的未来，XP仍然是它们的主流操作系统。Vista失败背后重要的隐藏含义也许就是，<a href="http://www.computerworlduk.com/community/blogs/index.cfm?entryid=1573&amp;blogid=14">升级必要性神话已然死去</a>。企业认识到他们有选择——他们能明了的说“不”。从这一点上，他们向完全离开Windows迈出了一小步，如果替代品能提供足够的数据兼容性，离开是完全可实现的。</i>
+➜2008年10大语义Web产品
+https://www.solidot.org/story?sid=8912	6840
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "这是 <a href="http://www.readwriteweb.com/archives/top_10_semantic_web_products_2008.php">ReadWriteWeb编选的2008年10大语义Web产品</a> 。RWW曾发表过语义Web系列文章，比较有影响的包括2007年的<a href="http://www.readwriteweb.com/archives/10_semantic_apps_to_watch.php">值得关注的10大语义Web</a>，以及最近连续发表的<a href="http://www.readwriteweb.com/archives/10_semantic_apps_to_watch_one_year_later.php">值得关注的10大语义Web续</a>，以及<a href="http://www.readwriteweb.com/archives/10_more_semantic_apps_to_watch.php">更多值得关注的语义Web</a>。
+"            1. Yahoo! SearchMonkey
+<br> <br>今年5月，<a href="http://www.readwriteweb.com/archives/yahoo_searchmonkey_launches.php">Yahoo!为开发者推出一个开放的搜索平台</a>，<a href="http://developer.yahoo.com/searchmonkey/">SearchMonkey</a>。Yahoo!今年厄运连连，但他们对搜索的创新与努力值得称道。4月份的 <a href="http://www.readwriteweb.com/archives/yahoo_apps_platform.php">Web 2.0 展</a>，RWW 曾对 SearchMonkey 做过报道，指出 SearchMonkey 是 Yahoo! 的一个重要部件，允许开发者在 Yahoo! 搜索的上层创建应用，允许站点所有者共享 Yahoo! 的结构数据，使用语义置标语言（microformats, RDF）以及标准 XML feeds, APIs (OpenSearch or other web services)，以及页面抽象。<br> <br>
+2. Powerset (08年被微软收购)
+<br> <br> <a href="http://www.powerset.com/">Powerset</a> 是一个自然语言搜索引擎，可以说，PowerSet 在 2008年风光无限，最值得一提的是，它<a href="http://www.readwriteweb.com/archives/microsoft_acquires_powerset.php">7月份被微软收购</a>。被收购伊时，Powerset 表示他们需要一个大一点的合作伙伴，让他们的产品走出 Wikipedia 的圈子。而微软则表示，Powerset 对他们自己的搜索技术非常有帮助，可以让微软的搜索技术上一个台阶。
+<br> <br> <strong>更多阅读</strong>
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K403.aspx">微软一亿美金收购语义搜索引擎Powerset</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K356.aspx">全面了解 Powerset</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K382.aspx">Powerset vs Cognition: 语义搜索对决</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K418.aspx">Freebase 文章数量超过英文维基百科达400万篇</a> </li>
+</ul>
+3. Open Calais (Thomson Reuters)
+<br> <br>2007年末，刚被 <a href="http://www.clearforest.com/whatsnew/PRs.asp?year=2007&amp;id=109">Reuters 收购</a>的 ClearForest 推出一个 Web Service 以及一个 Firefox 扩展。现在，ClearForest 又准备推出 <a href="http://www.opencalais.com/">Calais</a>，一个允许用户在他们的博客，内容管理系统（CMS），网站与程序中加入语义功能的技术。
+<br> <br>自今年初<a href="http://www.readwriteweb.com/archives/reuters_calais.php">发布 Open Calais API </a>之后，他们已经拥有超过6000个注册开发者，每天处理100万个请求。本月初已经<a href="http://www.opencalais.com/node/8823">推出 3.0 版</a>，4.0版将于09年1月推出。<br> <br>
+4. Dapper MashupAds
+<br> <br>RWW 曾在11月份<a href="http://www.readwriteweb.com/archives/dapper_mashupads_a_new_lease_o.php">报道</a>过 <a href="http://www.dapper.net/mashupads/">Dapper MashupAds</a> 的最新功能改进，而最早在<a href="http://www.readwriteweb.com/archives/dapper_ads.php">一年前</a>，RWW 就发现了 Dapper。内容发行商可以告诉 Dapper，我网站的这个部位将显示电影的名字，请在这里给我显示一个 Banner 广告，这个广告必须和这里显示的任何电影有密切的关系。Dapper 认为，他们会为内容发行商在网站上实现语义功能。<br> <br>
+5. Hakia
+<br> <br> <a href="http://www.hakia.com/">Hakia</a> 是一个自然语言搜索引擎。Hakia 对搜索，尤其是对句子进行分析。过去的一年，Hakia 有不少的动作，3月份，他们向其它公司<a href="http://www.readwriteweb.com/archives/hakia_licenses_semantic_search.php">签发 OntoSem 技术许可</a>，6月<a href="http://www.readwriteweb.com/archives/hakia_announces_semantic_api.php">宣布语义 API</a>。他们还是第一个<a href="http://www.readwriteweb.com/archives/yahoo_opens_its_search_engine.php">使用 Yahoo! BOSS </a>的公司，将他们的语义分析技术同 Yahoo 的索引结合。<br> <br>
+6. TripIt
+<br> <br> <a href="http://www.tripit.com/">Tripit</a> 是一个旅行安排程序，你只需要将你定的票转发给 <a href="mailto:plans@tripit.com">plans@tripit.com</a> ，TripIt 会帮你安排余下的一切。过去的一年，TripIt 的功能不断改进，同 LinkedIn 集成，更好的移动功能，更多社会网络功能。<br> <br>
+7. BooRah
+<br> <br> <a href="http://boorah.com/">BooRah</a> 是一个饭店测评网站，RWW 本年初曾有过<a href="http://www.readwriteweb.com/archives/boorah_semantic_restaurant_reviews.php">报道</a>。BooRah 使用语义分析与自然语言处理技术对一些相关博客中发表的外出就餐方面的文章进行分析，它能理解其中的赞扬和批评并因此对相关饭店进行评测。BooRah 还从 Citysearch, Tripadvisor 以及其它大型评测网站搜索评论。
+<br> <br>BooRah <a href="http://www.readwriteweb.com/archives/boorah_launches_api.php">上月宣布</a>推出一个 <a href="http://boorah.com/api.html">API</a>，允许别的网站和饭店将 BooRah 的评测结果提供给他们的客人。<br> <br>
+8. AdaptiveBlue
+<br> <br> <a href="http://www.adaptiveblue.com/">AdaptiveBlue</a> 是一个叫做 <a href="http://www.readwriteweb.com/archives/blueorganizer_semantic_web.php">BlueOrganizer</a> 的 Firefox 插件的作者。RWW 曾对 <a href="http://www.readwriteweb.com/archives/adaptive_blue_indigo.php">BlueOrganizer </a>做过介绍，BlueOrganizer 会根据你目前访问的网页的内容主题，提供一些相关资料和链接。
+<br> <br>过去的一年，这个公司忙于另外一个叫做 <a href="http://www.readwriteweb.com/archives/put_the_social_web_in_context_with_glue.php">Glue</a> 的产品，上月已经发布。Glue 是一个社会网络化的 BlueOrganizer，它会就书籍，音乐，电影，明星，艺术家，股票，葡萄酒，饭店等话题将你和你的朋友联系起来。<br> <br>
+9. Zemanta
+<br> <br> <a href="http://www.zemanta.com/">Zemanta</a> 是一个<a href="http://www.readwriteweb.com/archives/zementa_brings_a_semantic_layer_to_blogs.php">驾御了语义技术</a>的博客工具，为你的博客文章提够相关内容，9月，<a href="http://www.readwriteweb.com/archives/zemanta_releases_major_upgrade.php">Zemanta 的服务进行了重要升级</a>，允许用户指定 Zemanta 提供的相关内容的来源，用户可以在他们的博客文章中结合他们自己的社会网络，RSS Feed，相册等。Zemanta 的 API 也被一些创业公司运用到他们的产品中，如 Faviki 的语义书签服务。<br> <br>
+10. UpTake
+<br> <br> <a href="http://www.uptake.com/">UpTake</a> 是一个语义搜索公司，曾名 Kango，它的目标是让在线订票更容易。<a href="http://www.readwriteweb.com/archives/semantic_travel_search_uptake.php">RWW 5月曾做过报道</a> 并指出，UpTake 是一个垂直搜索引擎，拥有一个庞大的相关数据库，包括40万家美国的酒店，资料来自1000家不同网站。基于这些资源，UpTake 从超过 2000万条关于酒店的评论，建议，描述中，语义地抽取有用的信息。
+➜前OSDL CEO称——FOSS商业模式不牢靠
+https://www.solidot.org/story?sid=8913	7200
+前开源开发实验室（OSDL）CEO Stuart Cohen在《商业周刊》上写了一篇社评<a href="http://www.businessweek.com/technology/content/nov2008/tc20081130_276152.htm">《Open Source: The Model Is Broken》</a>，声称传统的开源商业模式，即只依靠提供支持和服务去维护现金流，是无法满足投资者的预期。他表示：<i>
+“对那些近来不怎么关注软件业的人，我有个坏消息告诉你们。开源商业模式是有缺陷的。开源代码一般来说都非常好的代码，不需要太多的支持。因此想只依靠服务生存的开源公司是活不长的。”他指出Sun用10亿美元收购的数据库软件MySQL不可能为它带来多少收入。他认为开源的价值在于合作，而不是开源本身。</i>
+➜研究证实手机会让司机分心
+https://www.solidot.org/story?sid=8914	12000
+根据发表在《<a href="http://www.apa.org/journals/xap/">实验心理学：应用</a>》杂志上的一项研究，手机在让司机分心方面<a href="http://networks.silicon.com/mobile/0,39024665,39357393,00.htm?r=1">远胜于最唠叨的乘客</a>，它可能导致汽车靠得太近和错失出口。<i>
+使用掌上设备不会让事情做得更好，研究人员相信他们知道原因——从某种意义上说乘客可当作第二双眼，他们会提醒司机注意驾驶。研究人员用实验证明，在手机上聊天会让司机的反应时间降低到老年人的水平，手机造成的危害堪比酗酒。</i>
+➜教师在试卷上出售广告
+https://www.solidot.org/story?sid=8915	15360
+Tom Farber要让学生做很多测试，毕竟他是名微积分教师。但是当所在的圣迭哥中学学区宣布减少三分之一的日常教学补助后，他遇到问题了。每页3美分，他的测试一年开销超过500美元，而复印预算只有316美元，其余费用需他自己掏腰包。不过他仍然希望给予学生们足够的测试，他们将在春天面临升级考试。Farber称，“艰难的时刻需要艰难的行动”，因此他决定<a href="http://www.usatoday.com/news/education/2008-12-01-test-ads_N.htm">在试卷上出售广告</a>：小测试10美元，章节测试20美元，期终测试30美元。<i>
+在当地杂志和报纸刊登了他的计划之后，短短几天他就收到了75封要求登广告的电子邮件，到目前为止他已收到350美元，期终测试广告位已卖光。大部分广告来自孩子的父母，但大约有三分之一来自当地企业，例如两家结构工程公司和一名牙医的鼓励，“靠自己进入大学（Brace Yourself for a Great Semester）”。校长Paul Robinson称反应是“混杂”的，他表示广告并不是说“本测试由麦当劳或耐克提供”。</i>
+➜Nokia宣布完成对Symbian的收购
+https://www.solidot.org/story?sid=8916	18000
+<a href="http://joyloft.net/">匿名宝宝</a> 写道<i> "Nokia于2008年12月2日<a href="http://www.joyloft.net/?p=1029">宣布</a>完成对Symbian的收购。所有的Symbian现任员工计划将于2009年2月1日成为nokia的员工。
+Nokia完成对Symbian的收购后，下一步将把所有Symbian OS的源代码捐献给新的开源社区：<a href="http://www.symbianfoundation.org/">Symbian Foundation</a>"</i>
+➜真实的疯狂科学家
+https://www.solidot.org/story?sid=8917	24600
+有些事情，只因为其古怪你就应该知道。Marc Roth，<a href="http://www.esquire.com/features/best-and-brightest-2008/bringing-back-the-dead-1208">一位疯狂的DNA科学家</a>，他在2007年获得了麦克阿瑟天才奖，是一位货真价实的已认证过的天才。当目睹自己一岁大的生下来就有唐氏综合征的女儿去世之后，他似乎就变得无所顾忌。受NOVA的鼓舞和DARPA的资助，Roth开发出一种血清，成功通过了“假死”——模拟濒临死亡，然后再复活。
+<i>
+“我们不知道生命究竟为何物，我们只知道生命本身——它燃烧氧气。我们都是缓慢燃烧的蜡烛，依靠分配到宝贵的氧气前行，直到它变成毒素，直到烧尽，直到变老和死亡。但是我们生活在含氧量21%和摄氏37度下，它们是有联系的。降低氧气至5%，我们就会死亡。但是通过周身毛细血管的血液中的氧气浓度只有2%到3%。我们已经濒临死亡。那么要是我们减少蜡烛对氧气的需求会怎样？要是我们让蜡烛变暗到我们甚至没有能量去死又怎样？”</i>
+➜Linux需要改进的领域
+https://www.solidot.org/story?sid=8918	27000
+尽管从1991年诞生至今已有17年历史，但Linux离完美还有很长一段距离，开源操作系统仍然有<a href="http://www.informationweek.com/news/software/linux/showArticle.jhtml?articleID=212100714">许多问题需要立即改进</a>。当然何处需要改进是有争议的：因为对某些人重要并不意味着对其他人也至关紧要。但在Linux所缺乏或者说有缺陷的一些重要领域是毫无争议的。<i>
+它们包括：包管理系统：Red Hat用RPM系统，Debian使用DEB格式，这套软件发行系统确实方便用户，但却阻碍了商业软件开发商的进驻。目前Linux Standards Base正试图改进该问题。作者列出的其它需修正问题包括配置文件；Kernel应用二进制代码接口（ABI）；原生文件版本（Native File Versioning），音频API，X11与应用程序的接口等。</i>
+➜能进行光合作用的海蜗牛
+https://www.solidot.org/story?sid=8919	28440
+美国研究人员发现了一种名叫<a href="http://en.wikipedia.org/wiki/Elysia_chlorotica">Elysia chlorotica</a>的海蜗牛，它能以海藻为食并将海藻色素<a href="http://www.sciencenet.cn/htmlpaper/2008122931262224298.html">吸收到自身细胞中</a>。<i>
+研究人员发现，这种海蜗牛在生命初期以海藻为食，但却并不完全消化海藻，而是将其中的绿色素吸收进自己的细胞。它们吃的海藻越多，其颜色就变得越绿。它不仅能借此进行伪装，甚至还会从一种活性生命状态过渡到一种大体上的植物状态。这种海蜗牛能在没有任何食物的情况下生存数月之久，只靠水和自身体内绿色素通过光合作用制造的能量生存。</i>
+论文发表在《<a href="http://www.pnas.org/content/105/46/17867.abstract?sid=1e4d95fe-75b8-457c-ab86-572f4b482fd3">美国科学院学报</a>》上，<a href="http://www.newscientist.com/article/dn16124-solarpowered-sea-slug-harnesses-stolen-plant-genes-.html">《新科学家》的报道</a>（包括视频）
+➜Window市场份额首次低于90%
+https://www.solidot.org/story?sid=8920	31320
+根据调研公司发布的<a href="http://marketshare.hitslink.com/os-market-share.aspx?qprid=9">一份报告</a>：上个月，微软的<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9121938">Window操作系统市场份额在过去两年中首次低于90%</a>。<i>
+11月，大约有89.6%的用户访问Net Applications公司监控的网站时所运行的操作系统是Windows，比10月下降了0.84个百分点，其中Vista首次突破20%，达到20.45%；Windows 2000下降至1.56%，Windows XP失去1.81个百分点。苹果公司的Mac OS X系统增长到了8.9%，11月也是苹果第三个月市场份额在8%以上。开源操作系统Linux从10月份的0.71%增长到0.83%。8月和9月，Linux曾经一度达到0.9%。</i>
+➜富士通让你每三年换一台新笔记本
+https://www.solidot.org/story?sid=8921	33000
+从富士通-西门子公司购买任一台<a href="http://www.fujitsu-siemens.co.uk/lifebook4life/">LifeBook</a>笔记本，<a href="http://www.physorg.com/news147361763.html">每隔三年你都可以换一台新的</a>（<a href="http://only-perception.blogspot.com/2008/12/laptop4life.html">中文</a>），直到你去世为止。<i>
+唯一的几个要求是：你必须购买延长保证期（extended warranty），只能使用富士通零件升级，三年后你必须在笔记本良好的情况下归还旧电脑，同时包含原有的收据。满足条件之后，富士通将提供消费者一台新笔记本，价格和原先购买的一样，同时还增加10%以对抗通货膨胀。最重要的是，新电脑包含更新过的硬件和软件。若要参与，消费者必须在购买后的21天之内将笔记本登记注册。之后消费者这一辈子就将是此计划的一部份，他们无法随意转让交易。富士通亦限制每个人或每家公司只能购买10台。虽然看起来好像是这家公司在赠送笔记本，但富士通表示，它将借由销售其它商品、服务与配件给终身客户而赚钱。</i>
+➜好到不能忽视：6款替代浏览器
+https://www.solidot.org/story?sid=8922	41400
+Computerworld介绍了<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9121009">6款不怎么为人熟知的浏览器</a>，其中包括在中国用户群比较大的傲游(Maxthon)。<i>
+当微软、Mozilla或苹果推出Internet Explorer、Firefox或Safari的新版时，它是新闻——因为我们中的多数人使用其中一款或多款浏览器。事实上，除了Google的Chrome外（它能吸引眼球，主要是因为它出自Google），大多数替代浏览器似乎在混乱中迷失了。这很糟，其中一些鲜为人知的浏览器真的很不错，甚至可能比用户们正在使用的更好。6款候选浏览器包括：<a href="http://caminobrowser.org/">Camino</a>(Mac，基于Gecko引擎)，<a href="http://www.maxthon.com/">Maxthon</a>(PC)，<a href="http://www.omnigroup.com/applications/omniWeb/">OmniWeb</a>(Mac)，<a href="http://www.opera.com/">Opera</a>(包括Mac和PC版)及<a href="http://shiira.jp/en.php%20/">Shiira</a>(Mac，基于WebKit)。</i>
+➜吉他手希望借助仿生手重新弹吉他
+https://www.solidot.org/story?sid=8923	44160
+Dorian Cox，27岁的独立乐队The Long Blonde的吉他手，在遭遇中风后其吉他生涯被认为已经结束，<i>
+中风让他的身体右侧瘫痪。现在这位音乐家正在接受神经物理疗法——包括训练使用一个<a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/3537352/Long-Blondes-guitarist-uses-bionic-hand-after-stroke.html">“革命性”的机械手套</a>——对让右手恢复运动他非常乐观。名叫<a href="http://www.saebo.com/seaboflex.html">SaeboFlex</a>的设备通过支撑腕关节而让患者受益，帮助他们抓住和释放物体。Cox认为，这种设备给予他和其他人创造奇迹的机遇，他表示将尝试恢复弹吉他。</i>
+➜购买正版或下载盗版都是你的选择
+https://www.solidot.org/story?sid=8924	48300
+世界上最大的在线商品零售商亚马逊，现在正面临盗版的袭击。一名叫<a href="http://pirates-of-the-amazon.com/">Pirates of the Amazon</a>的Firefox浏览器插件，允许你在亚马逊购物时<a href="http://torrentfreak.com/firefox-pirates-take-over-amazon-081203/">留有盗版的余地</a>。<i>
+当安装插件后，亚马逊的商品页将整合一个“download 4 free”按钮，按钮提供了海盗湾的BT链接，它覆盖了CD、DVD、游戏和图书，以及所有可转换为数字格式的商品。开发者称通过聚合最大的在线零售商和最大的BT Tracker，让“现有的媒体发行方式进行互补”和“重新分配财富”。由于海盗湾被封了，因此中国用户在使用中无法出现下载按钮，但可以通过<a href="https://addons.mozilla.org/en-US/firefox/addon/748">Greasemonkey</a>扩展定制化<a href="http://userscripts.org/tags/torrent">BT来源</a>。</i>
+<a href="http://vimeo.com/2380513">视频简介</a>

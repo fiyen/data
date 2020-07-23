@@ -1,0 +1,12 @@
+➜如何彻底的卸载Superfish
+https://www.solidot.org/story?sid=43101	34694
+联想笔记本预装恶意程序VisualDiscovery Superfish引发了媒体的<a target="_blank" href="http://www.solidot.org/story?sid=43097"><u>广泛关注和争议</u></a>，Superfish会安装自签名证书，能对用户发动中间人攻击，甚至它使用了相同的私钥（<a target="_blank" href="http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html"><u>证书密码komodia已被破解</u></a>），完全可以被恶意攻击者利用。联想已在其英文网站上公布了一个详细的<a target="_blank" href="http://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series/Removal-Instructions-for-VisualDiscovery-Superfish-application/ta-p/2029206"><u>卸载Superfish指南</u></a>，其中包括删除Superfish的根证书，从注册表中清理掉相关条目，声明它的笔记本电脑未来不会再预装Superfish。《华尔街日报》<a target="_blank" href="http://blogs.wsj.com/digits/2015/02/19/lenovo-cto-were-working-to-wipe-superfish-app-off-of-pcs/"><u>采访了</u></a>联想的CTO Peter Hortensius，他表示该公司的程序员正在开发一个Superfish清理工具，预计将会在一两天内发布，工具将会清理掉Superfish的所有痕迹。Ars<a target="_blank" href="http://arstechnica.com/security/2015/02/how-to-remove-the-superfish-malware-what-lenovo-doesnt-tell-you/"><u>指出</u></a>，联想的卸载指南对于Internet Explorer、Chrome和 Opera用户已经足够了，因为它们都使用了系统的证书库，但Firefox和Thunderbird使用自带的证书库，用户还需要打开这些软件的选项——&gt;高级——&gt;证书——&gt;查看证书，然后选择删除Superfish的根证书。在Mozilla的bugzilla上，已有人递交了bug报告<a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1134506"><u>要求</u></a>将 "Superfish, Inc." 的根CA证书标记为不可信任。
+➜索尼的SD卡号称能减少电噪音
+https://www.solidot.org/story?sid=43102	50066
+<div align="center"><img src="http://img.solidot.com.cn/0/993/lixoKxpDAEfTw.jpg" height="213" width="560" align=""><br>
+<br>
+</div>
+还记得AudioQuest推出的售价1万美元的噪声消除网线？昔日的消费巨头索尼公司也有一种减少噪声的SD卡，售价没有AudioQuest的网线那么夸张——64GB容量仅售160美元，是普通SD卡的五倍。这款产品将从下月起<a target="_blank" href="http://blogs.wsj.com/digits/2015/02/19/sony-to-offer-premium-sound-memory-card/?mod=WSJBlog"><u>在日本上市</u></a>，其表面刻有Premium Sound的文字，据说能在读取数据减少电噪声。你读取SD卡听到<a target="_blank" href="http://hardware.slashdot.org/story/15/02/19/2344253/sony-offers-a-premium-sound-sd-card-for-a-premium-price"><u>过噪音没</u></a>？水电、核电或火电有什么区别？
+➜苹果最快将于2020年生产电动汽车
+https://www.solidot.org/story?sid=43103	52415
+彭博社援引知情人士的消息<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-02-19/apple-said-to-be-targeting-car-production-as-soon-as-2020?hootPostID=d26765eb2e9c8487106bc7893bdb9bbb"><u>报道</u></a>，苹果最快将于2020年生产电动汽车。汽车制造商通常需要5到7年时间开发一款新产品，这一时间表意味着苹果将与特斯拉和通用汽车竞争消费者，特斯拉和通用汽车预计将会在2017年推出单次充电行驶里程超过200英里售价低于4万美元的电动车。苹果手中有1780亿美元现金等待花费。如果执行官对进度不满意的话，苹果汽车的上市时间还会推迟。苹果的汽车研发团队有约200人，过去几个月正在积极招聘专长电池和机器人的技术专家。

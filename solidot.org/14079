@@ -1,0 +1,46 @@
+➜开源排版软件 Scribus 1.3.3.12发布
+https://www.solidot.org/story?sid=7084	10800
+<a href="http://www.ownlinux.cn/2008/07/18/scribus-13312-re">OwnLinux.cn</a> 写道 "<a href="http://www.scribus.net/">Scribus</a>是一个开源的排版软件，支持Linux/Unix，MacOS X，OS/2和Windows操作系统。它可以用于制作各种出版物，并且有着良好的版面输出能力。当然，它也有着友好的用户界面。Scribus可以满足各种专业出版物的需求，例如支持CMYK色彩、ICC颜色管理和创建PDF文档。<a href="http://www.ownlinux.cn/2008/07/18/scribus-13312-released/">最新稳定版Scribus1.3.3.12已经发布。</a>"
+➜杨致远动用终极武器对抗伊坎
+https://www.solidot.org/story?sid=7085	11400
+<a href="http://webabie.com/">blacktulip</a> 写道 "<a href="http://webabie.com/yahoo-uses-its-homepage-to-battle-carl-icahn/">据techcrunch新闻报导</a>: 面对伊坎要求炒掉杨致远，清洗管理层步步进逼，雅虎现CEO杨致远在幕后折冲樽俎的同时，不惜亮出了他手上的终极武器 — 雅虎本身。确切的说，是至今仍雄踞互联网访问量排名首位的页面 — <a href="http://www.yahoo.com/">雅虎主页</a>。在雅虎主页右侧，出现了一个醒目的大型紫色按钮，这个按钮会把访问者带到一个专门描述雅虎现董事会<a href="http://proxyfacts.yahoo.com/">与伊坎的争论的页面</a>。页面顶部是伊坎的一句“名言”
+<i>
+“这些搞技术的公司真是太令人费解了” — 卡尔.伊坎
+</i>
+接着是一个表格，列出了伊坎的投资记录，我这个外行看起来，这个记录是够失败的。
+这篇文章的主旨是希望号召的尽可能多的雅虎股东联合起来对抗伊坎。杨致远为了造势，不惜出动了雅虎主页这个终极武器，声势不可谓不大，只是效果如何，实所难言。股东是不会管网上有多少人支持杨致远的，他们真金白银的投下去，要的也是真金白银的回报。如果杨致远不能说服这些股东雅虎改革后还有良好的盈利前景，就算在Google主页放这条消息也没用。
+另外，据最新消息，雅虎现管理层已经<a href="http://www.bloomberg.com/apps/news?pid=20601087&amp;sid=aV6vZ8_3Z7f0&amp;refer=home">得到了大股东之一Legg Mason的支持</a>，Legg Mason持有4.4%的雅虎股份。假如他们能再说服雅虎最大股东Gordon Crawford(6%)的话，伊坎就可以暂时休息了。"
+➜CentOS 5.2 i386 LiveCD 发布
+https://www.solidot.org/story?sid=7086	15660
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "<a href="http://www.ownlinux.cn/2008/07/19/centos-52-i386-livecd-released/">CentOS 开发团队发布了 5.2 i386 LiveCD</a> ，它基于之前发布的 CentOS 5.2 i386 发行版。<a href="http://mirrors.kernel.org/centos/5.2/isos/i386/CentOS-5.2-i386-LiveCD.iso">CentOS 5.2 i386 LiveCD</a> 主要包含了OpenOffice.org 2.3.0, Firefox 3.0, Pidgin 2.3.1, Scribus 1.3.3.2, K3b 0.12.17, Gimp 2.2.13 等应用软件。不过据了解之前已知的一些Bug在这次发布的 LiveCD 中并没有得到及时的修正。比如，SATA 光驱时常不能引导的问题。"
+➜戴尔开始销售预装 Ubuntu 8.04的电脑
+https://www.solidot.org/story?sid=7087	15900
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "Ubuntu 8.04 LTS (Hardy Heron) 在今年的4月24号正式发布，由于戴尔在预装 Ubuntu 8.04之前，要对其进行兼容性和稳定性方面的测试，所以并没有在 Ubuntu 8.04 发布之后就开始销售预装了 Ubuntu 8.04 的计算机。<a href="http://www.ownlinux.cn/2008/07/19/dell-pre-installed-ubuntu-804/">现在戴尔已经开始在销售预装 Ubuntu 8.04 的计算机了</a>。据了解戴尔还加入一些额外支持，比如对 指纹识别系统，蓝牙，HDMI输出等等。更详细内容可见<a href="http://www.dell.com/content/topics/segtopic.aspx/linux_3x?c=us&amp;cs=19&amp;l=">官方网页</a>。"
+➜研究人员测试BitTorrent实时视频流技术
+https://www.solidot.org/story?sid=7088	21600
+<a href="http://trial.p2p-next.org/">Swarmplayer</a>，P2P-Next研究组织开发的真正第四代P2P技术，不使用任何服务器，<a href="http://torrentfreak.com/p2p-next-introduces-live-bittorrent-streaming-080718/">能传输实时视频流</a>。欧盟和合作伙伴提供了2200万美元的项目预算，P2P-Next研究组织试图重新定义互联网视频观看方式。<i>
+这项突破性的技术允许每一位用户播放一个流视频节目。使用Swarmplayer，用户只要简单的单击“live”.torrent文件，就可以选择任意一个实时BitTorrent频道，P2P-Next研究组织为此创造了新的.tstream格式，专指具有实时功能的BitTorrent种子。目前研究人员正在进行流视频测试，你可以浏览位于阿姆斯特丹的一个网络摄像头(需要先下载软件，支持Windows和Linux)，或者观看一段BBC的5分钟天气预告（非实时）。更多关于如何设置你自己的BitTorrent实时视频流的细节已经公布<a href="https://www.tribler.org/StreamingExperiment">在网站上</a>。</i>
+➜《星球大战旧共和国武士》MMORPG确认
+https://www.solidot.org/story?sid=7089	23400
+<a href="http://www.gamespot.com/news/6194664.html?action=convert&amp;om_clk=latestnews&amp;tag=latestnews;title;1">Gamespot报道</a>，在E3 2008上，EA CEO John Riccitello宣布了被外界讨论了很久的BioWare经典角色扮演游戏《星球大战之旧共和国武士（<a href="http://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic">Knights of the Old Republic</a>）》的网络版。EA在去年用8.6亿美元收购了 BioWare/Pandemic，KOTOR预计将在2009年推出，还不清楚这对LucasArts当前运营的Star Wars Galaxies网络游戏意味着什么。<i>
+2003年，BioWare和LucasArts合作在Xbox和PC平台发布了第一代的《旧共和国武士》，好评如潮，被GameSpot评为当年的最佳RPG游戏。之后的续篇并非是BioWare开发，Obsidian Entertainment在2004年和2005年分别在Xbox和PC平台上发布了KOTOR2。游戏的背景是在《星球大战》电影故事发生的数千年前，玩家扮演一位被杰迪议会洗脑的前西斯首领，最终经历重重考验成为强大的杰迪武士。</i>
+➜量子物理学家延伸微机电设备的摩尔定律
+https://www.solidot.org/story?sid=7090	27600
+<a href="http://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B">摩尔定律</a>是指集成电路上可容纳的晶体管数目，约每隔18个月便会增加一倍，性能也将提升一倍。但是当工艺技术到达纳米尺寸下时，它受到的挑战也越来越大。其中一个阻力就是<a href="http://zh.wikipedia.org/w/index.php?title=%E5%96%80%E5%B8%8C%E7%B1%B3%E7%88%BE%E6%95%88%E6%87%89&amp;variant=zh-hans">喀希米尔效应</a>（Casimir force），两个非常小、靠得非常近的物体会互相吸引，这就是微机电系统（MEMS）工程师所谓的粘附问题。
+<i>
+佛罗里达大学物理学助理教授Ho Bun Chan称，“喀希米尔效应是许多可能让微机电设备中的微型、可移动元件粘在一起的原因之一。当元件之间间隔非常小时喀希米尔效应会快速增加，当间距低于400纳米时，它将非常明显。”Chan和他的研究小组已经验证了<a href="http://itnews.com.au/News/80645,quantum-physicists-extend-moore%E2%80%99s-law-for-micromechanical-devices.aspx">如何有效的减少该效应</a>，他们的方法是使金属表面呈波纹状，而不是光滑如冰。但研究结果发现吸引力减少的程度比他们估计要少。</i>
+➜从ET的角度看地球和月球
+https://www.solidot.org/story?sid=7091	30720
+NASA的深度撞击（Deep Impact）宇宙飞船已经完成了撞击和探测彗星Tempel 1的使命，目前已经调整方向飞往另一颗彗星Hartley 2 ，预计交会日期是2010年11月4日。在漫长的飞行过程中，深空还将执行一项额外的任务：寻找太阳系外外星人居住的行星。怎么寻找？那就先从地月系统开始。Deep Impact在3100万英里外拍摄了<a href="http://www.nasa.gov/topics/solarsystem/features/epoxi_transit.html">月球绕地球运动的视频</a>。科学家正在用这个视频去开发新技术研究外星世界。<i>
+NASA的Goddard太空飞行中心的Drake Deming表示，“视频显示了一些与众不同的特征，这对观察其它恒星周围的类地行星非常重要。影像中能观察到‘太阳在闪耀’，这是由于地球海洋反射光引起的，如果从外星球上观察到类似的闪光，也许就说明存在海洋。我们还可以用红外线代替常用红光制作彩色合成图像，使大块陆地更明显。”</i>
+两个视频：<a href="http://www.nasa.gov/mov/260503main_red_green_blue2.mov">红绿蓝光</a>，<a href="http://www.nasa.gov/mov/260502main_nir_green_blue2.mov">红外线绿蓝光</a>。
+➜Radiohead乐队开源音乐视频
+https://www.solidot.org/story?sid=7092	42000
+之前有过“<a href="__SLASHLINK__" sect="internet" sid="07/10/02/1139212" sn="article" tid="89">让消费者定价唱片</a>”这一惊人之举的Radiohead乐队，现在又开始拥抱开源。<i>
+Radiohead的新唱片House of Cards，包括了一个宣传性的视频，没有使用常见的摄像机拍摄技术，而是使用两种先进的可视化技术实时渲染出计算机图像。Radiohead采用叫Geometric Informatics的扫描系统，产生可构造激光去产生相关的3D图像；使用Velodyne Lidar系统产生多重激光创造3D环境。有意思的是Radiohead<a href="http://www.guardian.co.uk/technology/2008/jul/17/opensource.google?gusrc=rss&amp;feed=networkfront">决定将其开源</a>，<a href="http://ostatic.com/168755-blog/radiohead-open-sources-a-music-video">它与Google合作</a>，采用创作共用许可证将可视化数据和相关技术说明公布在<a href="http://code.google.com/creative/radiohead">Google Code</a>网站上，供用户下载修改或创建自己的计算机生成音乐视频，有专门的<a href="http://www.youtube.com/group/houseofcards">YouTube小组</a>分享此种形式的视频。</i> <a href="http://www.youtube.com/watch?v=cyQoTGdQywY&amp;hl">演示视频</a>（YouTube）
+➜育碧偷“免光盘补丁”去修复《彩虹六号：维加斯2》
+https://www.solidot.org/story?sid=7093	43800
+游戏厂商一般都讨厌免光盘补丁，因为它显然会推动盗版。育碧也不例外，如果你在它的论坛上讨论免光盘补丁，肯定会被警告或封掉帐号。但是现在，在育碧刚刚发布的《彩虹六号：维加斯2（Rainbow 6: Vegas 2）》官方补丁R6Vegas2_fix.zip中，如果你用16进制编辑器打开的话，会清楚的识别出补丁<a href="http://torrentfreak.com/ubisofts-no-cd-answer-to-drm-080718/">是来自于破解组织RELOADED</a>（里面的RELOADED字都没去除），而不是出自育碧程序员之手。一份16进制编辑器分析报告已经公布在育碧的<a href="http://forums.ubi.com/eve/forums/a/tpc/f/1991064316/m/1381029176/p/1">论坛</a>上，被逮个正着了！这件事情告诉我们盗版并不坏，它甚至能帮助我们修复游戏代码。
+➜新蠕虫转换MP3文件代码，试图感染Windows用户
+https://www.solidot.org/story?sid=7094	51480
+卡巴斯基实验室发现了新恶意程序在ASF多媒体文件中<a href="http://www.infoworld.com/article/08/07/18/New_worm_transcodes_MP3s_to_try_to_infect_PCs_1.html">嵌入恶意网站链接</a>，威胁到通过P2P下载音乐文件的Windows用户。如果用户播放被感染的文件，它会打开IE，载入一个页面，询问要不要下载解码器。实际上下载的是木马，它会在电脑上安装一个代理程序，允许黑客远程监控被感染电脑的网络通讯。这个木马程序具有蠕虫的特征，电脑一旦被感染，它会寻找MP3或MP2音频文件，将其转换成微软的Windows Media Audio格式，包裹于一个ASF容器内，加入更多的恶意程序拷贝，伪装成解码器，另一家安全公司<a href="http://www.trustedsource.org/blog/132/Trojan-infecting-multimedia-files">Secure Computing</a>报告。卡巴斯基称音乐文件的.mp3扩展名不会改变，因此受害者不会立即发现这一变化。

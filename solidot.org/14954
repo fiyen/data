@@ -1,0 +1,41 @@
+➜Java SE 6 Update 23 发布
+https://www.solidot.org/story?sid=21479	13680
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道<i> "<a href="http://www.java.com/zh_CN/">Java</a>社区宣布Java SE 6 Update 23发布，内部版本号为1.6.0_23-b05。<a href="http://www.osmsg.com/2010/12/java-se-6-update-23/">Java SE 6 Update 23</a>改进性能和稳定性，增强对right-to-left语言模式的支持。"</i>
+➜甲骨文请求Apache重新考虑退出Java委员会的决定
+https://www.solidot.org/story?sid=21480	15120
+甲骨文请求Apache软件基金会（ASF）<a href="http://developers.slashdot.org/story/10/12/10/1949212/Oracle-Asks-Apache-To-Rethink-Java-Committee-Exit">重新考虑退出Java SE/EE执行委员会的决定</a>，承认ASF对Java的未来至关重要。<i>
+在<a href="http://blogs.oracle.com/henrik/2010/12/oracle_response_to_apache_departure_from_jcp.html">官方博客</a>上，甲骨文的一位高管向Apache伸出了橄榄枝，然而至少目前看来，ASF并无热情重新加入执行委员会。ASF主席Jim Jagielski在Twitter上<a href="http://twitter.com/jimjag/status/13013975717380096">回应</a>说，给个理由先。他<a href="http://www.jimjag.com/imo/index.php?/archives/242-The-JCP-Is-Dead.html">认为</a>，Java社区的批准流程已经死亡，留下的只是僵尸，行走在Java生态系统的街道上，寻找失去的大脑。</i>
+➜SHA-3决赛者名单公布
+https://www.solidot.org/story?sid=21481	19500
+美国国家标准技术研究协会（NIST）公布了新一代Hash算法<a href="http://en.wikipedia.org/wiki/NIST_hash_function_competition">SHA-3</a>竞赛的<a href="http://www.h-online.com/security/news/item/NIST-s-search-for-the-super-hash-just-five-candidates-left-in-SHA-3-final-1151325.html">最后一轮决赛候选名单</a>。NIST于2007年<a href="__SLASHLINK__" sect="it" sid="07/11/10/1218210" sn="article" tid="70">宣布</a>了Hash算法竞赛，寻找SHA-2的替代，之前它公布了<a href="__SLASHLINK__" sect="it" sid="08/12/22/0812223" sn="article" tid="70">第一轮</a>和<a href="__SLASHLINK__" sect="it" sid="09/07/26/1415242" sn="article" tid="70">第二轮</a>的候选名单。<i>
+最后一轮五名候选者的名单是：源自瑞士的<a href="http://131002.net/blake/">BLAKE</a>，Graz理工大学和丹麦理工大学合作的<a href="http://www.groestl.info/">Grøstl</a>，新加坡华裔信息安全专家<a href="http://icsd.i2r.a-star.edu.sg/staff/hongjun/">伍宏军</a>的<a href="http://icsd.i2r.a-star.edu.sg/staff/hongjun/jh/index.html">JH</a>，Joan Daemen为主要成员的<a href="http://keccak.noekeon.org/">Keccak</a>，以及Bruce Schneier为负责人的<a href="http://www.skein-hash.info/">Skein</a>。最终的获胜者将在2012年宣布。 </i>
+➜前高盛程序员被判有罪
+https://www.solidot.org/story?sid=21482	20880
+前高盛程序员Sergey Aleynikov于<a href="__SLASHLINK__" sect="developers" sid="09/07/07/1012236" sn="article" tid="54">去年被捕</a>，他被控从高盛计算机系统窃取了高度机密的高频交易系统源代码。<i>
+根据《纽约时报》的<a href="http://dealbook.nytimes.com/2010/12/10/ex-goldman-programmer-is-convicted/">报导</a>，Sergey Aleynikov<a href="http://news.slashdot.org/story/10/12/10/2058210/Ex-Goldman-Sachs-Programmer-Found-Guilty">被判有罪</a>。由于涉及到高盛的高频交易系统，因此为保密起见审判未对外公开。Sergey Aleynikov承认拷贝了源代码，以加入一家高频自动交易创业公司。在经过三个小时的讨论后，陪审团宣布他有罪。他将面临10年监禁。</i>
+➜科学家培育出有两个父亲的老鼠
+https://www.solidot.org/story?sid=21483	25920
+M.D. Anderson癌症中心Richard R. Berhringer博士领导的生殖学家团队，利用干细胞技术<a href="http://science.slashdot.org/story/10/12/09/0345214/Scientists-Create-Mice-From-2-Fathers">培育出有两个父亲的雄性和雌性老鼠</a>。这项研究有助于保护濒危物种，改良牲畜品种，改进人类辅助生殖技术。研究人员指出，该研究也开启了同性夫妇拥有自己遗传学后代之可能性的大门。<i>
+研究人员修改了一只雄性（XY）老鼠胚胎的纤维母细胞，制造出诱导多功能干细胞（iPS）。1%的iPS细胞生来会丢失一个Y染色体，其结果是创造出了XO细胞。研究人员将XO iPS细胞注入雌鼠的囊胚，然后将囊胚移植入代孕雌鼠，产下了XO/XX嵌合体的雌鼠，它的X染色体来自原雄鼠纤维母细胞。这只雌鼠再与正常雄鼠交配，产下的部分后代有两个遗传学父亲。</i>
+➜Ubuntu考虑用LightDM取代GDM
+https://www.solidot.org/story?sid=21484	31680
+Ubuntu可能将再次改变核心组件：<a href="http://www.osnews.com/story/24123/Ubuntu_May_Replace_GDM_with_LightDM">它正考虑用LightDM取代GDM</a>。<i>
+LightDM是一个轻量级的显示管理器。采用它的好处在于：更快，欢迎界面更快出现，无需运行完整个GNOME会话；更灵活，支持多种欢迎界面，这将允许Ubuntu衍生发行版如Kubuntu、Lubuntu能用相同的显示管理器；代码更简单，只有5000行代码，相比之下GDM有50000行代码；支持更多使用实例，如XDMCP和多线程。</i>
+➜EA执行官称单机游戏模式已死
+https://www.solidot.org/story?sid=21485	33120
+EA总裁Frank Gibeau在谈论该公司未来长期的游戏发展方向时称，<a href="http://games.slashdot.org/story/10/12/10/057223/Single-Player-Game-Model-Finished-Says-EA-Exec">没有多人模式的大型游戏只会昙花一现</a>。<i>
+他说，不只是关于多人，而是关于“正在连线”。他确信玩家想要联网对战的产品。单机模式，玩几十小时就会丢到一边。在线将是创新和活力的所在。很多玩家不予苟同，认为游戏发行商热衷的多人模式更多是为了对付盗版，经典的单机游戏层出不穷，远的如《博得之门》、《星球大战旧共和国的武士》，近的有《辐射3：新维加斯》，销售数量的火爆与单机死亡说相去甚远。</i>
+➜PHP 5.3.4 发布
+https://www.solidot.org/story?sid=21486	36000
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道<i> "<a href="http://www.php.net/">PHP</a>开发团队宣布PHP 5.3.4发布。新版增加对zip流的统计支持。新增follow_location(默认启用)支持。增加一个3rd parameter to get_html_translation_table。Multiple improvements to the FPM SAPI。修复100多出bug。"</i>
+此前一天，PHP发布了<a href="http://www.php.net/archive/2010.php#id2010-12-09-1">5.2.15版</a>，表示5.2.15代表对PHP 5.2分支支持的结束，它鼓励所有PHP 5.2用户升级到PHP 5.3.
+➜最新研究显示吸烟并不能振奋情绪
+https://www.solidot.org/story?sid=21487	40680
+<a href="http://horflu.com/">horf</a> 写道 <i>"新研究发现吸烟可能对另一个重要器官——人的大脑有影响。在一项研究中，吸烟被发现可以使得大脑皮质中跟上瘾有关的区域变薄，这意味着长期吸烟者更上瘾。另一项研究则显示，戒烟者在戒烟过程中会获得巨大的幸福感，而吸烟则可能带来情绪沮丧的后果。这也意味着之前普遍认为的吸烟可以提神和改善情绪的认识和事实是恰恰相反的。
+<a href="http://www.gizmag.com/smoking-found-to-affect-brain/17240/">来源</a>"</i>
+➜CIA设立维基解密镜像来“钓鱼”？
+https://www.solidot.org/story?sid=21488	46440
+<a href="http://horflu.com/">horf</a> 写道 <i>"CIA被<a href="http://twitter.com/lensassaman">lensassaman</a>发现在wikileaks.psytek.net这个地址为维基解密创建了一处镜像站点，目的似乎在于引诱人们过去下载，然后记录是哪些人下载了这些内容，也就是俗话说的“钓鱼”。现在<a href="http://www.boingboing.net/2010/12/10/cias-honeypot-wikile.html">boingboing</a>上的文章已经被删除。
+这个<a href="https://encrypted.google.com/search?q=psytek.net">谷歌搜索页面</a>显示了谁是psytek.net的主人。
+<a href="http://horflu.com/?p=1564">来源</a>。 </i>
+Breaking the Calm博客<a href="http://breakingthecalm.blogspot.com/2010/12/musing-on-misinformation-morons.html">认为</a>，这纯粹是谣言，没有任何证据证明<a href="http://toolbar.netcraft.com/site_report?url=http://wikileaks.psytek.net">psytek.net</a>是CIA的网站，Google搜索结果被广泛流传的谣言混淆了。对阴谋论热衷的wikileak的发言人Jacob Appelbaum也在未经调查下传播了这条消息。

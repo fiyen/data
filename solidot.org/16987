@@ -1,0 +1,58 @@
+➜中国广告公司使用恶意程序获得更多点击
+https://www.solidot.org/story?sid=48818	13295
+网络安全公司Check Point发表报告《<a target="_blank" href="http://blog.checkpoint.com/wp-content/uploads/2016/07/HummingBad-Research-report_FINAL-62916.pdf"><u>From HummingBad to Worse</u></a>》(PDF)称，中国移动广告公司<a target="_blank" href="http://www.yingmob.com/aboutUs.html"><u>微赢互动（Yingmob）</u></a>使用恶意程序利用系统的多个漏洞尝试获取Android设备的Root权限或利用虚假升级通知获取系统权限，模拟点击去产生虚假广告流量，此外还会悄悄安装欺骗性应用。Check Point将该公司开发的Android恶意程序命名为HummingBad，称该公司的25名程序员团队分成四组开发恶意程序的不同组件。Check Point认为HummingBad和早先发现的iOS恶意程序Yispecter存在联系，Yispecter很可能也是HummingBad背后的团队开发的：Yispecter使用微赢互动的企业证书安装到iOS设备上，HummingBad和Yispecter共享C&amp;C服务器地址，HummingBad的库里包含了 QVOD 文档——后者是Yispecter针对的一个iOS色情播放器。HummingBad代码显示它会向友盟发送通知，对微赢互动的友盟账号分析发现，该公司注册了大约200个应用，累积安装量高达8500万，其中25%的应用被认为是恶意的。研究人员估计，可能有大约1000万用户使用了这些恶意应用，这些用户主要分布在中国和印度，受影响的Android设备运行的操作系统主要是Jelly Bean和Kitkat。应用每天展示2000万次广告，微赢互动利用模拟点击方法使得点击率达到12.5%，单次点击的平均费用是$0.00125，也就是该公司每天的广告点击费用超过3000美元，再加上欺骗性应用安装量，每个应用$0.15，每天产生7500美元的收入，该公司的月均收入大约30万美元。
+➜联想匆忙去修正一个高危BIOS漏洞
+https://www.solidot.org/story?sid=48819	15053
+独立研究员Dmytro Oleksiuk在GitHub上<a target="_blank" href="https://github.com/Cr4sh/ThinkPwn"><u>公开了</u></a>联想ThinkPad的一个BIOS漏洞（或后门），该漏洞允许攻击者关闭固件的写保护，感染固件，关闭 Secure Boot，绕过Windows 10企业版的Virtual Secure Mode。联想已经发表<a target="_blank" href="https://support.lenovo.com/us/zh/solutions/LEN-8324"><u>安全通知</u></a>，证实了这一高危漏洞，声称在Oleksiuk公开漏洞前他们尝试联络过他但没有成功。Oleksiuk相信其它PC制造商可能也存在该漏洞，因为有bug的代码源自英特尔，联想固件的SystemSmmRuntimeRt UEFI驱动代码是直接拷贝自英特尔的参考代码。联想声称，存在漏洞的代码是上游 BIOS供应商提供的。联想表示正与BIOS供应商和英特尔合作判断漏洞代码的最初目的（是否是后门？），以及是否还存在其他漏洞。
+➜保加利亚通过软件开源法律
+https://www.solidot.org/story?sid=48820	17590
+根据一项刚刚生效的法律修正案，所有为保加利亚政府开发的软件<a target="_blank" href="https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a#.bdse7wtjh"><u>都必须开源</u></a>。新的法律并不意味着政府将全部使用开源软件如Linux和LibreOffice，也不意味着政府要求微软和甲骨文公司提供其软件产品的源代码，而是指政府获得的定制软件必须让任何人都能访问。毕竟这些定制软件的开发费用是纳税人支付的，他们必须能看到这些软件并从中受益。就安全而言，隐蔽式的安全方法证明并不有效，政府网站发现的很多漏洞在很多年里都没有得到修正，原因不过是合同已经过期。保加利亚希望公开源代码能减少这些事件，在开发进程中发现不正确的安全实践，而不是等到为时已晚。
+➜朱诺号探测器进入木星轨道
+https://www.solidot.org/story?sid=48821	18695
+<div align="center"><img src="http://img.solidot.org/0/671/liwTn4tjQdTz6.jpg" height="253" align="" width="450"><br>
+</div>
+<br>
+NASA<a target="_blank" href="http://www.nasa.gov/feature/juno-enters-orbit-around-jupiter"><u>宣布</u></a>，朱诺号探测器成功进入木星轨道。朱诺号于2011年8月5日发射，其任务是更深入了解太阳系的最大行星。朱诺号目前进入的轨道绕木星一周需要53.5天，选择这一轨道主要是为了节省燃料，当开始执行对木星的科学数据收集任务时，它将点燃引擎转移到一个14天一周的轨道上，这一转轨将发生在10月19日。
+➜华为用佳能单反为P9拍摄照片
+https://www.solidot.org/story?sid=48822	19375
+<div align="center"><img src="http://img.solidot.org/0/672/li68so7tOH6k.jpg" height="263" align="" width="500"><br>
+</div>
+<br>
+华为通过其Google+账号<a target="_blank" href="https://plus.google.com/u/0/+HuaweiMobile/posts/joTnYPSmEb2"><u>公布了一张照片</u></a>（已经删除），明确声明（英文是这么说的“The Huawei P9's dual Leica cameras makes taking photos in low light conditions like this a pleasure”）这幅令人啧啧称奇的照片是用该公司的照相手机P9拍摄的。这幅照片已经公布了一段时间，但最近被人发现其EXIF数据显示照片实际上是用佳能的单反相机EOS 5D Mark III拍摄的。相机加上镜头的价格加起来高达4500美元。华为在删贴后发表<a target="_blank" href="http://9to5google.com/2016/07/04/huawei-dslr-p9-photo-misleading/"><u>声明</u></a>，称他们并不是有意要误导公众的，对此表示道歉。其他人则认为这明显是虚假广告。
+➜暴雪起诉作弊工具开发商侵犯版权
+https://www.solidot.org/story?sid=48823	27944
+暴雪向加州的一家法院<a target="_blank" href="https://torrentfreak.com/blizzard-sues-overwatch-cheat-maker-for-copyright-infringement-160704/">起诉了</a>《守望先锋》作弊工具<a href="http://www.watchover-tyrant.com/">Watchover Tyrant</a>的德国开发商Bossland GMBH，指控对方侵犯版权、不公平竞争和违反了DMCA反规避条款。Bossland还为暴雪的其它游戏开发过作弊工具，其中包括《魔兽世界》、《暗黑破坏神》和《风暴英雄》。《守望先锋》是暴雪最近发布的第一人称多人射击游戏，至今已经售出了超过一千万份拷贝。暴雪声称作弊工具导致其损失了数百万美元的收入，因为它毁掉了合法玩家的游戏乐趣。暴雪称，Bossland在游戏发布数天之后就释出作弊工具，是试图在游戏有机会全面繁荣前对其进行毁灭或无可挽回的破坏。《守望先锋》已为暴雪创造了数亿美元的收入。
+➜最后一个月的Windows 10免费升级通知将是全屏的
+https://www.solidot.org/story?sid=48824	30476
+<div align="center"><img src="http://img.solidot.org/0/674/liwD51LQg9ysA.png" height="247" align="" width="450"><br>
+</div>
+<br>
+微软向Windows 7和8.1用户提供的Windows 10免费升级即将于7月29日结束，但在恼人的升级通知消失之前，微软并不打算放弃骚扰用户。事实上，软件巨人<a target="_blank" href="http://arstechnica.co.uk/information-technology/2016/07/the-final-windows-10-free-upgrade-nag-will-be-full-screen/"><u>要用全屏广告</u></a>通知用户免费升级要结束了，以后用户必须花钱才能购买Windows 10了：家庭版119美元，专业版更贵。不是所有用户会看到全屏通知，如果你已经选择退出升级，或使用注册表或其它工具移除了升级通知，你不会看到微软最后一个月的全屏通知。<br>
+<br>
+➜电刺激大脑能短暂增强视力
+https://www.solidot.org/story?sid=48825	31149
+用适度电流刺激大脑视觉皮层20分钟<a target="_blank" href="https://www.sciencedaily.com/releases/2016/06/160630140900.htm"><u>能增强视力2小时左右</u></a>，视力最差的人改善情况最明显。<a target="_blank" href="http://www.cell.com/current-biology/abstract/S0960-9822(16)30477-8?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982216304778%3Fshowall%3Dtrue"><u>研究报告</u></a>发表在《Current Biology》期刊上。研究人员称，他们的想法很简单，电刺激已经发现能改善其它大脑区域的认知处理，那么如果刺激视觉系统是否能改善视觉处理？研究人员招募了20个人进行实验，电刺激前后测试了他们的视觉处理能力，在进行20分钟的适度电力刺激后，75%的被试表现出了可测量的视力改进。
+➜百度街景有意抹掉了部分建筑物
+https://www.solidot.org/story?sid=48826	33178
+<div align="center"><img src="http://img.solidot.org/0/675/lihdaZ745Mxkw.jpg" height="598" align="" width="450"><br>
+</div>
+<br>
+在上海生活了近十年的英国摄影师Jonathan Browning在浏览百度街景和实地调查发现，百度街景中的部分建筑物<a target="_blank" href="http://www.wired.co.uk/article/china-street-view-baidu-total-view"><u>被有意抹掉了</u></a>。这些被涂掉了建筑物包括了政府建筑、监狱、消防站和冷却塔（如图所示）。他认为可能是出于安全方面的理由。百度地图是中国最流行的地图服务之一，百度街景是在2013年推出的，覆盖了中国372个城市，该公司声称每月活跃用户超过3亿。斯德哥尔摩大学的中国语言文化教授Johan Lagerkvist认为这种做法有点像是欲盖弥彰，仿佛是大声告诉别人这里有秘密。Lagerkvist认为除国家安全方面的原因外，不排除可能还有保护工业或商业机密的理由。
+➜印度的Android手机有点怪
+https://www.solidot.org/story?sid=48827	35691
+印度有一个蓬勃发展的智能手机市场，Peter-Paul Koch对印度公司制造的手机进行研究发现，<a target="_blank" href="http://www.quirksmode.org/blog/archives/2016/07/indian_phones_a.html"><u>在某些方面印度的Android手机比中国还奇怪</u></a>。以默认浏览器为例：Lava V2的默认浏览器是Google Chrome 51（最新版），Micromax Canvas Nitro 3的默认浏览器是Chromium 39，Intex Agua Super是Opera Mini 11（最新版是17）。对Micromax使用的Chromium 39进一步分析发现，它实际上使用的是 WebView/Chromium 39。而Lava和Intex的手机实际上也安装了Chromium 39。他发现，应用菜单中隐藏的默认浏览器也是Chromium 39。手机制造商提供基于Chrome的默认浏览器很正常，但不把Home屏中的默认浏览器设置为自己提供的浏览器，那么提供定制浏览器还有什么意义？
+➜亚马逊开始悄悄移除标价
+https://www.solidot.org/story?sid=48828	38535
+在亚马逊上，商品的价格通常由标价（或称为厂商建议零售价）和折扣后价格（即售价）组成。但现在，亚马逊开始悄悄<a target="_blank" href="http://www.nytimes.com/2016/07/04/business/amazon-is-quietly-eliminating-list-prices.html?_r=0"><u>从许多商品条目上移除标价</u></a>，只保留售价。厂商建议零售价实际上是某种市场营销策略——让售价看起来打了很大折扣，从而吸引消费者购买——这种策略被证明是有效的，虽然厂商自己也不会按照建议零售价出售产品。举例来说，<a target="_blank" href="http://www.brevilleusa.com/the-infuser-bes840xl.html"><u>Breville榨汁机</u></a>的标价是800美元，Breville自己是以500美元价格出售的，和亚马逊的售价相同。因为不实的标价和折扣，亚马逊曾面临起诉，但消费者选择了仲裁而不是上法庭。
+➜中国企业在8品类全球市场份额居首
+https://www.solidot.org/story?sid=48829	41118
+日经报道<a target="_blank" href="http://cn.nikkei.com/china/ccompany/20355-20160705.html"><u>称中国企业在8品类全球市场份额居首</u></a>，而美国企业在18品类占据第一，日本是11品类，韩国也是8类。中国占据首位的产品包括：风力发电机，光伏电池，烟草，家用空调，洗衣机，冰箱，PC，监控摄像头。中国最大的监控探头供应商是海康威视。根据南都在2011年的<a target="_blank" href="http://www.nbweekly.com/news/special/201111/28095.aspx"><u>一篇报道</u></a>，海康威视当时有31家分公司，工厂的摄像头产量每天可以达到5000台，包括模拟和高清摄像头；而记录视频的DVR设备一天的产量则在2500台左右。报道援引一位内部人士的话称，虽然海康威视的产品比较贵，但政府不差钱，看重的是案例和品牌。
+➜阿里巴巴收购豌豆荚
+https://www.solidot.org/story?sid=48830	42499
+豌豆荚<a target="_blank" href="http://cn.wsj.com/gb/20160705/tec152834.asp"><u>宣布</u></a>其应用分发业务将并入阿里巴巴移动事业群。豌豆荚和阿里巴巴未透露此次交易的具体金额。业界传闻是2亿美元价格。豌豆荚是中国最早的第三方安卓应用市场之一，市场占有率曾经位居前列，但如今已经落后于腾讯的应用宝、360手机助手、小米应用商店、百度手机助手等第三方应用市场。豌豆荚CEO王俊煜向雇员发表公开信称是<a target="_blank" href="http://tech.sina.com.cn/i/2016-07-05/doc-ifxtsatn8144977.shtml"><u>主动选择投奔阿里巴巴</u></a>。
+➜火星卫星的起源解释
+https://www.solidot.org/story?sid=48831	44312
+火星有两颗小卫星：Phobos和 Deimos，其中Phobos直径只有22公里，正在引力作用下缓慢落向火星，它将在2000万年内抵达洛希极限——即行星的潮汐力超过了卫星自身的引力，导致卫星分解。轨道更遥远的Deimos将在未来<a target="_blank" href="http://arstechnica.com/science/2016/07/mars-may-have-once-had-a-giant-moon-that-crashed-into-the-red-planet/"><u>成为火星唯一的卫星</u></a>。两颗卫星的起源有两种解释，一种是认为火星利用其自身引力从小行星带捕捉了它们；第二种解释是火星早期曾遭到撞击，这些卫星是从撞击后留下的碎片形成的。根据《Nature Geoscience》上发表的<a target="_blank" href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2742.html"><u>最新研究</u></a>，计算机模拟支持了<a target="_blank" href="https://news.cnrs.fr/articles/solved-the-mystery-of-the-martian-moons"><u>第二种假说</u></a>——火星在40到45亿年前遭到过一颗巨大原始行星的撞击。
+➜MIT工程师开发出可编程RNA疫苗
+https://www.solidot.org/story?sid=48832	46152
+MIT工程师<a target="_blank" href="http://phys.org/news/2016-07-programmable-rna-vaccines-mice-ebola.html"><u>开发出一种容易定制的疫苗</u></a>，能在一周内生产，能对疫情爆发快速做出反应。对小鼠的实验显示，可编程信使RNA疫苗对埃博拉、H1N1和刚地弓形虫具有100%效力。信使RNA能将携带的遗传信息转译给蛋白质，它能针对病毒、细菌或寄生虫蛋白质进行编码，将信息转译给蛋白质去激发宿主的免疫反应。除了针对传染病外，研究人员正使用这种方法去创造癌症疫苗，训练免疫系统识别和摧毁癌细胞。<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1600299113"><u>研究报告</u></a>发表在本周出版的PNAS期刊上。

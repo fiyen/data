@@ -1,0 +1,60 @@
+➜OpenBSD 5.1发布
+https://www.solidot.org/story?sid=29407	5100
+<a href="http://atyu30.tumblr.com/">atyu30</a> 写道 <i>"OpenBSD 5.1<a href="http://www.openbsd.org/51.html">发布</a>。主要新特性包括：改进硬件支持，改进通用网络栈，改进本地支持，OpenSSH 6.0，GNOME 3.2.1，KDE 3.5.10，Xfce 4.8.3，MySQL 5.1.60，PostgreSQL 9.1.2，Firefox 3.5.19、3.6.25和9.0.1，Thunderbird 9.0.1，GHC 7.0.4，LibreOffice 3.4.5.2，Emacs 21.4、22.3和 23.4，Vim 7.3.154，PHP 5.2.17和5.3.10，Python 2.5.4、2.7.1和3.2.2，Tcl/Tk 8.5.11，Jdk 1.7，Mono 2.10.6，等等。详细可查看<a href="http://www.openbsd.org/plus51.html">changelog</a>。<a href="http://www.openbsd.org/ftp.html">下载</a>.
+"</i>
+➜Google开源街景非线性最小二乘解决方案
+https://www.solidot.org/story?sid=29408	6300
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "在科学和工程的广大领域，从统计学中复杂的曲线拟合 ，到计算机视觉中从照片构建 3D 模型，都存在<a href="http://en.wikipedia.org/wiki/Non-linear_least_squares">非线性最小二乘问题（non-linear least squares）</a>。Google GEO 软件工程师 Sameer Agarwal 和 Keir Mierle在 Google开源博客发表<a href="http://google-opensource.blogspot.com/2012/05/introducing-ceres-solver-nonlinear.html">文章</a>，分享了Google所使用的解决方案：<a href="http://code.google.com/p/ceres-solver/">Ceres Solver</a>。文中还有一个<a href="http://www.youtube.com/watch?v=z00ORu4bU-A">视频</a>，展示了Ceres Solver 融合从安装在街景车上的传感器发送的数据，估测街景车自身在地球表面的正确位置和方向。"</i>
+➜中国微博暂时未受实名制影响
+https://www.solidot.org/story?sid=29409	7200
+中国微博实名制3月16日<a href="__SLASHLINK__" sect="internet" sid="12/03/16/0234206" sn="article" tid="120">开始生效</a>，按照规定未进行实名认证的微博用户，将不能发言、转发，只能浏览。但至今，没有验证身份的用户仍然能发帖，一切依旧，曾禁止留言三天的新浪微博和腾讯微博<a href="http://cn.wsj.com/gb/20120501/rlw110616.asp">仍在正常服务</a>。但新浪的财报提前预警称，实名制是微博未来面临的重大威胁。新浪称，“由于没有遵守规定，我们可能会受到中国政府的严厉惩罚。”
+➜地质灾害再次迫使三峡移民
+https://www.solidot.org/story?sid=29410	8880
+《新世纪》周刊<a href="http://magazine.caixin.com/2012-04-27/100384962_all.html#page2">报导</a>，鉴于三峡水库蓄水后引发的地质灾害问题，中国政府决定在现有工程移民113万人之外，再进行11万余人的地质灾害避让搬迁。新增移民工作将于2012年年内启动。目前规划人数为11.47万人。这可能只是后三峡移民的开始，官方未来还可能在三峡库区实施生态移民搬迁，同时实施移民安置方式再调整，有可能再涉及移民18万人。长江水利委员会的一份报告称，三峡水库在2008年175米试验性蓄水结束水位回落后，库水与库岸关系急剧改变，在当年就引发254处库岸坍塌、235处崩滑体变形，导致数千间迁移线以上房舍受损，涉及居民1.38万名。地质专家认为，三峡水库库岸在蓄水前受夏季烈日长期暴晒，在蓄水后受高水位的长期浸泡。几年间两种情形一再交替，加剧了库岸边坡不稳定，极易出现滑坡、崩塌和危岩坠落等情况。
+➜Tizen 1.0发布
+https://www.solidot.org/story?sid=29411	11280
+英特尔的后MeeGo时代移动操作系统Tizen推出了<a href="https://www.tizen.org/blogs/tsg/2012/tizen-1.0-larkspur">首个稳定版本</a>，公布了<a href="https://developer.tizen.org/sdk/tizen-sdk-1.0-larkspur-release-notes">源代码</a>和<a href="https://developer.tizen.org/sdk/tizen-sdk-1.0-larkspur-release-notes">SDK</a>。主要新特性<a href="http://www.h-online.com/open/news/item/Tizen-reaches-1-0-ready-for-mobile-device-makers-1564412.html">包括</a>：支持W3C/HTML5规格特性，整合Web实时通信协议<a href="http://www.webrtc.org/">WebRTC</a>，可访问摄像头和振动传感器的API，Location支持兴趣点(Point of Interest)和路径检索，Wi-Fi Direct支持等。Tizen的图形是基于X11，窗口管理器是基于Enlightenment Foundation Libraries(EFL)，支持OpenGL ES 1.1和2.0，2D图形是基于Cairo，多媒体框架是基于GStreamer。首届<a href="https://www.tizen.org/conference">Tizen开发者大会</a>将于5月7日到9日在旧金山举行，三星将展示Tizen手机。
+➜Firefox占有率下降，IE和Chrome增加
+https://www.solidot.org/story?sid=29412	13320
+2012年4月，微软的IE和Google的Chrome浏览器市场占有率继续增长，而Mozilla Firefox和苹果的Safari则相应下滑。对Firefox用户来说，更糟糕的消息是有三分之一用户<a href="http://arstechnica.com/business/news/2012/05/one-third-of-firefox-users-vulnerable-to-known-flaws-ie-and-chrome-continue-to-gain.ars">仍然使用未打补丁、存在已知安全漏洞的旧版本</a>。IE增加0.26个百分点至54.09%，Chrome增加0.28个百分点增至18.85%，Firefox减少0.35%至20.2%，Safari下降0.26个百分点至4.81%，Opera基本没有没变，占有率为1.63%。其中IE6和IE7分别减少0.44和0.48个百分点，IE9和IE8分别增长0.71和0.49个百分点。
+➜Android应用绕过运营商的WLAN加密
+https://www.solidot.org/story?sid=29413	19200
+<a href="http://www.unitedcloud.net/">上海云联计算机系统有限公司</a>开发的Android应用<a href="http://www.wlanplus.com/">畅无线</a>可以绕过中国移动运营商的<a href="http://www.cctime.com/html/2012-5-2/2012511820571630.htm">WLAN加密</a>，该公司正在招募IOS开发者，可能将在不久后推出相应的IOS版本。Android用户安装该应用后可以搜索附近的WLAN热点，不用输入用户名密码就可以直接连接热点（俗话说就是蹭网）。目前尚无看到中移动方面的回应。
+➜民间智库网站被关闭
+https://www.solidot.org/story?sid=29414	21600
+香港《南华早报》<a href="http://www.scmp.com/portal/site/SCMP/menuitem.2c913216495213d5df646910cba0a0a0/?vgnextoid=92408943ca307310VgnVCM100000360a0a0aRCRD&amp;vgnextfmt=teaser&amp;ss=China&amp;s=News">报道</a>（付费墙，<a href="http://blog.qq.com/qzone/622007948/1335877597.htm">转载</a>），民间智库<a href="http://www.unirule.org.cn/">天则经济研究所</a>(<a href="http://webcache.googleusercontent.com/search?q=cache:vA0NcVgERf4J:www.unirule.org.cn/&amp;hl=zh-CN&amp;client=firefox-a&amp;prmd=imvns&amp;strip=0">快照</a>)上周六接到了关闭整顿的通知。天则经济研究所学术委员会副主席姚中秋表示倍感震惊，因为之前没有收到任何警告，也没有给出关闭理由。他们不知道关闭将会持续多久。天则经济研究所由经济学家茅于轼和一群自由派学者在1993年创建。在其关闭之前，一些记者和学者的微博帐号也遭封杀，如中国政法大学教授何兵的三个微博帐号。
+➜2011年底全球宽带降速
+https://www.solidot.org/story?sid=29415	23400
+根据CDN供应商Akamai发布的2011年第四季度<a href="http://www.akamai.com/html/about/press/releases/2012/press_043012.html">互联网现状报告</a>，去年底全球互联网发生了奇怪的事情：平均宽带网速下降了2.3Mbps，与上一季度相比下降14%。网速最快的10个国家或地区中8个出现降速，只有排在前两位的韩国和日本增速，平均带宽分别为17.5Mbps和9.1Mbps，原排在第二位的香港降速14%至9.1Mbps。网速最快的三个城市是韩国的大邱（21.8Mbps）、大田和金泉，香港排在第48位，在Top 100城市中日本占61，韩国占6，北美占24，欧洲占7。中国产生的攻击流量占全球的13%，美国占10%，印尼占7.6%。
+➜金星将于6月5日和6日凌日
+https://www.solidot.org/story?sid=29416	25500
+今年的6月5日和6日，我们中的许多人将<a href="http://eclipse.gsfc.nasa.gov/OH/tran/TOV2012-Fig01.pdf">目睹到</a>(NASA的可见区域图)金星从太阳的前方掠过，这将是<a href="http://www.sciencedaily.com/releases/2012/05/120501085556.htm">一生中仅有一次</a>的体验。下一次<a href="http://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5">金星凌日</a>要到2117年才会发生。当凌日时，从地球可以看见金星是在太阳盘面上移动的一个黑色小圆盘。凌日类似于月球造成的日食，但比日食或月食罕见得多，它以243年的周期重复相同的模式，在121.5年和105.5年的间隔之间，插入了一对间隔8年的事件。最近的一对金星凌日是2004年6月8日和2012年6月5日和6日。之前的一对是1874年12月和1882年12月，下一对发生在2117年和2125年的12月。观察金星凌日需采取佩戴墨镜等安全保护措施，除非你是火眼金睛，否则直视会对眼睛造成伤害。
+➜MIT黑客公开建筑物变俄罗斯方块的源代码
+https://www.solidot.org/story?sid=29417	27120
+一周多前，MIT黑客将麻省剑桥最高的建筑物Green Building<a href="__SLASHLINK__" sect="games" sid="12/04/23/0253226" sn="article" tid="71">变成了</a>一个巨大的可玩的彩色俄罗斯方块游戏。现在，三位黑客透露了他们<a href="http://tech.mit.edu/V132/N22/tetris.html">完成这一壮举的技术细节</a>：每个窗户都镶嵌了一个无线控制的定制LED板，在确定最终版前黑客们造了五个不同的原型，他们花了两个月时间安装，每晚从10点工作到凌晨5点。黑客最初展示的爱国标志如911和国旗，结果被人以为是圣诞树灯，于是他们实现了一个更引人注目的俄罗斯方块游戏，并在GitHub上<a href="https://github.com/mitrisdev/d54">公开了源代码</a>。
+➜Android 移植到 C#
+https://www.solidot.org/story?sid=29418	28200
+Xamarin宣布它利用机器翻译将Android中的JAVA部分<a href="http://blog.xamarin.com/2012/05/01/android-in-c-sharp/">移植到了C#</a>，创造出<a href="https://github.com/xamarin/XobotOS">XobotOS</a>。开发者声称，运行在Mono上的Android的性能远胜于运行在Dalvik上的Android。Mono是微软.NET开源实现，Xamarin是Mono创始人Miguel de Icaza成立的公司。开发者表示，XobotOS只是一个实验性的研究项目，但结果令人鼓舞，他们计划将部分技术应用于Mono for Android。
+➜中国和加拿大位列美国盗版重点观察国家名单
+https://www.solidot.org/story?sid=29419	29700
+美国贸易代表办公室公布了<a href="http://www.ustr.gov/sites/default/files/2012%20Special%20301%20Report.pdf">年度特别301报告</a>(PDF)，中国和加拿大依旧位列“重点观察国家”名单。报告<a href="http://www.michaelgeist.ca/content/view/6456/125/">被认为缺乏客观分析</a>，并且总是针对一些穷国，它被认为只会引发反感而解决不了任何问题。<a href="http://www.voanews.com/chinese/news/20120501-copyrights-149644715.html">报告称</a>，中国在过去一年中侵犯美国知识产权现象仍然十分严重，中国未能有效保护知识产权，未能有效执行与保护知识产权有关的法律法规。报告认为，中国很多政府机构不正当地把市场准入和投资审批作为手段，强迫外国企业将其持有的版权、专利授权或出售给中国机构。同时被列入“重点观察国家名单”的国家还包括俄罗斯、阿根廷、印度、印度尼西亚、以色列等13个国家。
+➜德国发现基地组织在色情视频中嵌入密文
+https://www.solidot.org/story?sid=29420	31800
+2011年5月16日，22岁的奥地利男子Maqsood Lodin在柏林接受警方的询问，他最近刚借道匈牙利从巴基斯坦回国，随后经陆路到德国旅行。调查人员惊讶的从他的内衣中搜出了数字存储设备和U盘。他们从其中发现了成人视频如“Kick Ass”和“Sexy Tanja”。这些视频被通过隐写技术<a href="http://edition.cnn.com/2012/04/30/world/al-qaeda-documents-future/?hpt=hp_c1">嵌入了机密文档</a>。经过数周努力，德国密码专家从视频中发掘出了100多个文件，其中包括了基地组织最雄心勃勃的阴谋和未来的行动路线，如袭击游轮，在欧洲展开类似印度孟买袭击的恐怖行动，以及德语、英语和阿拉伯文版的恐怖分子训练手册。
+➜中国要求美就陈光诚事件道歉
+https://www.solidot.org/story?sid=29421	32400
+美国去死 写道 <i>"中国外交部发言人刘为民<a href="http://www.fmprc.gov.cn/chn/gxh/tyb/fyrbt/t928125.htm">5月2日在记者招待会上说</a>，美国驻华使馆将中国公民陈光诚带入美使馆是“对中国内政的干涉”，中方“强烈不满”、“绝不接受”。中方要求美国就此事道歉，彻查当事人，并保证不再犯。发言人强调中国是法治国家。据<a href="http://www.bloomberg.com/news/2012-05-02/chen-guangcheng-quits-u-s-s-beijing-embassy-xinhua-says.html">新华社</a>的消息，中国山东盲人维权律师陈光诚在美国使馆住了六天后离开使馆。5月2日下午3点30分左右，《华盛顿邮报》和美国驻华大使骆家辉通电话后表示陈在骆陪伴下去医院就诊，陈表示自己一切都好。"</i>
+➜Red Hat发布OpenShift Origin
+https://www.solidot.org/story?sid=29422	34320
+Red Hat<a href="https://openshift.redhat.com/community/blogs/announcing-openshift-origin-the-open-source-platform-as-a-service-paas">宣布</a>了开源平台即服务（PaaS）产品<a href="https://openshift.redhat.com/community/open-source">OpenShift Origin</a>。OpenShift是一个云计算应用程序平台，开发者可在上面构建、测试、部署和运行应用程序，它支持Node.js和MongoDB等语言环境和框架。Red Hat称，IaaS（基础设施即服务）和PaaS的特定实现既不应该是供应商锁定，也不应该受控于供应商。为了让云计算保持开放和活力，云端的实现应该走向真正的开放，不仅仅是在许可证上，而是也应该在管理方式上。OpenShift Origin将在这方面起一个标杆作用。
+➜暴雪将对《暗黑3》虚拟物品交易征收最高15%的“税”
+https://www.solidot.org/story?sid=29423	37920
+暴雪<a href="http://us.battle.net/d3/en/services/auction-house/how-to">公布</a>了《暗黑3》虚拟物品交易细则——它将<a href="http://arstechnica.com/gaming/news/2012/05/blizzard-to-take-up-to-15-percent-of-diablo-iii-real-money-auction-house-sales.ars">收取最高15%</a>的交易税。<i>
+《暗黑3》引入了一个颇受争议的交易市场（auction house），允许玩家公开拍卖虚拟道具和虚拟商品。根据暴雪的规定，它将对盔甲，武器和配件等虚拟道具收取大约1美元的固定费用，或者对游戏中可累积商品如宝石，材料和金子收取最高15%的交易提成。如果玩家是通过PayPal等第三方支付方式交易，那么每次交易PayPal也将收取15%的手续费，因此暴雪建议玩家通过<a href="http://us.battle.net/support/en/article/battle-net-balance-frequently-asked-questions-faq">Battle.net钱包</a>交易。虚拟商品的拍卖时间持续48小时，如果无人竞拍那么它将回到原出售方手中（不需要付费），每位玩家每次只能竞拍10次。暴雪解释说，这是为了让玩家更关注高质量的和有更高几率购买到的虚拟物品。国际玩家被分到三个不同地区的服务器：美国、东南亚和欧洲。东南亚服务器覆盖了韩国，台湾，澳门和香港。玩家可通过Global Play选项联系其它区的玩家，但只能与本地区玩家进行现金交易，而亚洲区的玩家目前无法进行现金交易。
+</i>
+➜Mozilla试图统一Firefox桌面和移动版用户体验
+https://www.solidot.org/story?sid=29424	39600
+Mozilla最近合并了Firefox桌面版和移动版设计团队，<a href="http://arstechnica.com/business/news/2012/05/new-firefox-design-will-offer-uniform-look-across-desktop-and-mobile.ars">试图统一Firefox用户体验</a>。Mozilla的Madhava Enros公布了一个幻灯片文件阐述了它如何在不同平台和不同大小设备上实现相同的视觉体验，如通过独具特色的弧线形状让Firefox在不同大小设备上展现相统一的轮廓。幻灯片展示了新的主题设计<a href="https://wiki.mozilla.org/Firefox/Features/Theme_Refinement_and_Evolution_(Australis)">Australis</a>和<a href="https://wiki.mozilla.org/Kilimanjaro">Kilimanjaro</a>计划。
+➜微软托管Linux服务器充当Skype超级节点
+https://www.solidot.org/story?sid=29425	41400
+<a href="http://zh.wikipedia.org/wiki/Skype">Skype</a>是基于P2P技术的VOIP网络电话服务，在P2P网络中，如果一位用户的电脑其他人都能连上，那么它就能充当了Skype的超级节点。但完全依靠用户充当超级节点可能会遇到性能瓶颈和安全问题。因此从2个月前开始，微软在不同数据中心托管了数以千计的Linux服务器去<a href="http://arstechnica.com/business/news/2012/05/skype-replaces-p2p-supernodes-with-linux-boxes-hosted-by-microsoft.ars">充当Skype的超级节点</a>。专门的超级节点服务器理论上可同时处理10万用户，而旧的系统只能处理800用户。安全专家是通过Skype嗅探技术发现这些Linux超级节点的存在。Skype似乎正从去中心化走向中心化，但微软发言人否认Skype架构在发生巨大改变，称数亿用户将受益于这些专门的服务器所带来的在性能、可伸缩性和可用性方面的好处。

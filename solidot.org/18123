@@ -1,0 +1,45 @@
+➜亚马逊公布《时光之轮》的主演
+https://www.solidot.org/story?sid=61724	12708
+罗伯特・乔丹的知名奇幻小说系列《时光之轮》终于要开拍了。《时光之轮》系列长达 14 部，其中前 11 部由乔丹完成，后三部在乔丹去世之后由  Brandon Sanderson 根据他留下的笔记完成。亚马逊<a href="https://variety.com/2019/tv/news/wheel-of-time-series-amazon-rand-althor-josha-stadowski-perrin-marcus-rutherford-1203302153/"><u>宣布了</u></a>电视版《时光之轮》的主要卡司：Josha Stradowski&nbsp; 扮演  Rand al’Thor，aka 转世真龙； Rosamund Pike 扮演  Aes Sedai（中国译者将其翻译为两仪师）成员 Moiraine；Marcus Rutherford 扮演铁匠学徒 Perrin Aybara，Zoe Robins 扮演治疗者 Nynaeve al'Meara；Madeleine Madden 扮演 Egwene al'Vere；Barney Harris 扮演 Matrim Cauthon。《时光之轮》被认为与《冰与火之歌》齐名，但后者的故事发生在一个低魔世界，而前者的故事发生在一个高魔世界，更接近《魔戒》系列。
+➜货币贬值推动中国比特币需求大增
+https://www.solidot.org/story?sid=61725	14004
+过去几天中国对比特币的需求大增。来自 P2P 交易平台  LocalBitcoins 的数据显示，中国的交易者愿意多花 30 美元购入比特币令牌。这一情况类似前几天阿根廷比索兑换率暴跌后阿根廷人对比特币的需求。阿根廷比特币交易所 Buenbit 的数据显示，它的比特币价格比平均价高出 450 到 1000 美元。<a href="https://insidebitcoins.com/news/the-bitcoin-demand-in-china-is-skyrocketing/235267"><u>经济因素被认为推动了比特币的需求</u></a>。前几天，中美贸易战加剧美国宣布将对剩余 3000 亿美元的中国商品加征 10% 的关税，之后中国人民币兑换美元的价格跌破了 1 比 7，中国用货币贬值的方法对抗美国的关税武器。美国则刚宣布推迟征收部分热门商品的关税。
+➜第一资本银行的黑客还窃取了另外 30 家公司的数据
+https://www.solidot.org/story?sid=61726	15764
+前亚马逊 AWS 雇员 Paige A. Thompson 上个月底遭到逮捕，被控从第一资本银行窃取了一亿多用户的数据。本周递交到法庭的诉状显示她<a href="https://arstechnica.com/tech-policy/2019/08/woman-accused-of-capital-one-hack-had-stolen-data-from-30-companies-authorities-say/" target="_blank"><u>还窃取了另外 30 家公司的数据</u></a>。检察官  Brian Moran 在诉状中没有披露这些公司的名字，只是表示目前对数据的分析显示不包含个人信息。他称正在根据数据识别受害者，在受害者识别和通知之后他们预计会增加对 Thompson 的指控。据信 Thompson 没有分享或出售她窃取的数据。执法机构在搜查她的家时找到了数据拷贝。
+➜Mail.Ru 与华为协商预装其软件
+https://www.solidot.org/story?sid=61727	16747
+俄罗斯互联网巨头 Mail.Ru 正与华为<a href="https://www.reuters.com/article/us-mail-ru-huawei-partnership/russias-mail-ru-eyes-pre-installing-software-on-huawei-devices-idUSKCN1V413U" target="_blank"><u>磋商</u></a>在该公司的设备上预装它的软件。Mail.Ru 旗下有社交网络 Vkontakte 和 Odnoklassniki，还有电子邮件和浏览器服务，正在开发多个消息服务。Mail.Ru 证实双方在谈判但没有提供任何细节。另外据 WSJ <a href="https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017"><u>报道</u></a>，华为的技术人员帮助非洲国家政府监视政治对手，包括拦截加密通讯和使用手机数据跟踪其行踪。
+➜WebKit 公布反跟踪政策
+https://www.solidot.org/story?sid=61728	18635
+WebKit <a href="https://webkit.org/blog/9507/announcing-the-webkit-tracking-prevention-policy/"><u>公布</u></a>了它的<a href="https://webkit.org/tracking-prevention-policy/"><u>反跟踪政策</u></a>，称这一政策制定受到了 Mozilla 的反跟踪政策的启发。WebKit 称浏览器将会默认屏蔽所有的秘密跟踪、跨站跟踪和指纹辨析跟踪技术等。如果一种跟踪技术无法完全在不损害用户的情况下阻止，它将会采取行动限制使用该技术的能力。如果限制也无效，那么 WebKit 将会通知用户潜在的跟踪并征询用户的同意。
+➜DDoS 攻击 Tor 的成本分析
+https://www.solidot.org/story?sid=61729	26944
+Tor 是最流行的匿名通信系统，它被普通公民、记者和活动人士用于绕过审查和保护隐私，也被网络罪犯用于非法活动隐藏个人身份。它也日益成为破坏、审查和攻击的目标。有许多方法可以阻止用户使用 Tor，如流量过滤、流量指纹、流量关联等等。在今天举行的 USENIX 安全会议上，美国海军研究实验室和乔治城大学的研究人员<a href="https://www.usenix.org/system/files/sec19fall_jansen_prepub.pdf"><u>发表论文（PDF）</u></a>，探讨了利用 DDoS 攻击 Tor 降低其性能和可靠性的方法和成本。研究人员称，DDoS 攻击比其它阻止用户使用 Tor 的方法更为简单和有效，可以很容易租赁第三方服务器完成，无需像网络大炮那样动用整个国家的出口流量去发动攻击。研究人员称，对网桥发动洪水攻击每个月的费用只需要 1.7 万美元，攻击 TorFlow 带宽测量系统每个月只需要 2800 美元，对所有中继节点发动拥堵攻击每个月只需 1600 美元。
+➜科学家逆转鼠脑干细胞的衰老过程
+https://www.solidot.org/story?sid=61730	28369
+根据发表在《自然》期刊上的<a href="https://www.nature.com/articles/s41586-019-1404-z"><u>研究</u></a>，研究人员<a href="http://www.ebiotrade.com/newsf/2019-8/2019814151931588.htm"><u>发现了</u></a>一种将老年干细胞转变为年轻干细胞，恢复健康状态的新方法。Wellcome-MRC 剑桥干细胞研究所（剑桥大学）的多学科研究团队为此深入研究了年轻和衰老的大鼠大脑，希望能了解年龄相关的脑硬化对少突胶质细胞祖细胞（OPCs）功能的影响。这是一种脑干细胞，对于维持正常的大脑功能和髓鞘的再生至关重要，髓鞘是围绕我们神经的脂肪鞘，在多发性硬化症（MS）中出现损伤。年龄对这些细胞的影响有助于 MS，但它们的功能在健康人中也随着年龄增长而下降。为了确定老年 OPCs 的功能丧失是否可逆，研究人员将老年大鼠的 OPCs 移植到年轻大鼠的海绵状大脑中。结果发现老年脑细胞恢复了活力，开始表现得更有活力，像是年轻的细胞。
+➜科学家发现增强稻瘟病菌免疫力的基因
+https://www.solidot.org/story?sid=61731	30775
+稻瘟病是水稻生产上的毁灭性病害，严重时颗粒无收。该病害在阴雨连绵、光照不足时常常会大爆发，但是其机制至今仍不清楚。南京农业大学的研究人员在 PNAS 期刊上<a href="https://www.pnas.org/content/early/2019/08/09/1905123116.abstract"><u>报告</u></a>，这与水稻体内一种名为 LHCB5 的基因<a href="http://news.sciencenet.cn/htmlnews/2019/8/429315.shtm"><u>有关</u></a>。在光照条件下，LHCB5 响应稻瘟病菌的侵染，发生磷酸化，加速向叶绿体中积累，形成三聚体，不再与电子转运相关蛋白 PsbS 结合，导致电子转运速率下降。大量的电子在叶绿体中积累，与氧气结合，诱发叶绿体中活性氧的迸发，激活抗病相关基因的表达，从而调控水稻对稻瘟病菌的抗性。
+➜北京将放宽 VPN 的外资准入
+https://www.solidot.org/story?sid=61732	32871
+官媒<a href="http://www.bjnews.com.cn/news/2019/08/15/615706.html"><u>报道</u></a>，北京市公布服务业扩大开放综合试点重点领域开放改革三年行动计划，将推动开放互联网游戏、视频和图书等互联网内容运营业务外资准入条件，探索在北京试点开放区域，突破现有政策，允许外资在满足内容监管和数据安全的前提下，提供网络游戏下载和网络视听节目服务。在增值电信业务中，争取更加开放的政策措施落地北京。推动工信部在示范园区放宽国内互联网虚拟专用网业务（VPN）外资准入条件，外资企业开展 VPN 业务，试点开放外资股比不超过 50%，吸引海外电信运营商为在京外资企业提供专属互联网虚拟专用网落地服务。
+➜AI 创业公司被指其 AI 开发就是外包
+https://www.solidot.org/story?sid=61733	35401
+日本软银投资的 AI 创业公司 Engineer.ai 提供人工辅助的 AI 去实现移动 APP 的自动化开发，但现雇员和前雇员<a href="https://news.slashdot.org/story/19/08/14/1345247/ai-startup-boom-raises-questions-of-exaggerated-tech-savvy"><u>披露</u></a>该公司夸大 AI 的能力去吸引客户和投资者，所谓 AI 其实就是找印度等地的廉价外包完成大部分 APP 开发。《华尔街日报》<a href="https://www.wsj.com/articles/ai-startup-boom-raises-questions-of-exaggerated-tech-savvy-11565775004"><u>报道</u></a>（付费墙），Engineer.ai 总部位于伦敦和洛杉矶，去年从软银子公司 Deepcore 在内的投资者筹集到 2950 万美元。该公司表示，它的人工辅助 AI 允许任何人通过点击网站菜单去创建移动 APP，用户可选择与自己的想法相似的应用如  Uber 或 Facebook 的 APP，最后 Engineer.ai 会利用 AI 为你自动化创建 APP，它声称这种方法比传统开发模式更快更便宜。但熟悉该公司的现雇员和前雇员称，Engineer.ai 开发的移动 APP 不是利用 AI 而是利用印度等地的软件工程师去完成大部分的工作。
+➜Dropbox 工程师解释为什么放弃共享代码而是使用各自平台的原生语言
+https://www.solidot.org/story?sid=61734	42443
+Dropbox 工程师通过官方博客<a href="https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/"><u>解释了</u></a>为什么该公司放弃在 iOS 和 Android 上共享代码的策略转而使用各自平台的原生语言。Dropbox 一开始在开发 iOS 和 Android 移动应用时选择了 C++，背后的想法就是用 C++ 写一次代码而不是分别用 Java 和 Objective C 写两次代码。但现在 Dropbox 放弃了这个策略，改为使用各自平台的语言  Swift 和 Kotlin。做出这一决定的原因是共享代码的隐藏开销<a href="https://developers.slashdot.org/story/19/08/14/1842203/dropbox-engineer-explains-why-the-company-stopped-sharing-code-between-ios-and-android-and-started-using-native-languages-on-each-platform"><u>其实很高</u></a>，最终比写两次代码更昂贵。Dropbox 称，共享代码你需要维护自己的框架、库和开发环境，解决不同平台之间的差异，加上招募和保留有经验的 C++ 开发者也日益困难，这些开销最终导致共享代码还不如用各自平台的 IDE 开发更为简单和便宜。
+➜科学家找到了抗药结核病的新治疗方法
+https://www.solidot.org/story?sid=61735	42630
+曾经确诊抗药结核病意味着死亡。Tsholofelo Msimango 参加结核病新药物实验时她濒临死亡体重只剩下 57 磅，如今她已经治愈，体重恢复到了 103 磅，还有了一个儿子。虽然这次实验的规模不大，但专家称初步结果具有突破性，<a href="https://www.nytimes.com/2019/08/14/health/tuberculosis-xdr-tb-cure.html" target="_blank"><u>治愈成功率达到了 90%</u></a>。抗药结核病目前已经超过艾滋病成为世界最主要的传染性疾病死因。被称为 XDR 的菌株死亡率最高，能抵抗四类用于治疗结核病的抗生素。虽然感染这种抗药结核病的人数不多，但没多少人能幸存下来，治愈率只有 34%。旧的疗法需要每天服用 40 片药丸连续服用 2 年，但最新的疗法只需要每天服用五片药丸服用六个月。它由三种药物构成： pretomanid、bedaquiline 和 linezolid。
+➜百度不再是中国市值最高的五家互联网企业之一
+https://www.solidot.org/story?sid=61736	44241
+最大的中文搜索引擎百度<a href="https://www.bloomberg.com/news/articles/2019-08-15/baidu-s-66-billion-dive-knocks-it-out-of-china-s-internet-top-5"><u>不再位居</u></a>中国市值最高的五家互联网企业行列。中国第二大游戏公司网易在公布了超出预期的财报之后市值超过了百度。百度市值下跌了 40% ，而网易同期上涨了 11%。百度曾经是与阿里巴巴和腾讯合称为中国互联网三大巨头，三家公司的首字母连起来叫 BAT，如今百度被甩在了后面，B 现在被认为代表了字节跳动。百度在今年五月报告了 2005 年上市至今的首次季度亏损。中国市值最高的五家公司现在是阿里巴巴、腾讯、京东、美团和网易。
+➜爱国的硅谷
+https://www.solidot.org/story?sid=61737	45292
+硅谷的一些公司<a href="https://cn.nytimes.com/technology/20190815/the-phony-patriots-of-silicon-valley/" target="_blank"><u>正在举起爱国的大旗</u></a>。硅谷知名风投人彼得・蒂尔 (Peter Thiel)最近批评谷歌在北京开设一家人工智能实验室，而同时取消一份争议性的五角大楼合同的做法，他指责这家公司试图 “逃避对国家利益的责任”。由他来进行爱国主义说教显得很荒谬。他是 “海上家园”(Seasteading) 的首批主要支持者之一，还是新西兰公民。谷歌也在守护国旗。3 月，公司首席执行官桑达尔・皮查伊 (Sundar Pichai) 前往白宫拜访特朗普总统，讨论政府合同，并且向总统保证，谷歌不会歧视保守派。亚马逊和苹果这两大巨头如此之热爱美国，以至于他们极尽能事，就为了避免向财政部交税。它们也将自己宣传成 “国家骄傲”。
+➜卡巴斯基杀毒软件会泄漏用户 ID
+https://www.solidot.org/story?sid=61738	47035
+德国安全研究人员在测试卡巴斯基杀毒软件时<a href="https://www.heise.de/ct/artikel/Kasper-Spy-Kaspersky-Anti-Virus-puts-users-at-risk-4496138.html" target="_blank"><u>发现</u></a>它会以安全的名义在用户访问的每一个网页注入它的脚本，而这个脚本还带有唯一&nbsp; ID，这个 ID 在不同计算机上是不同的，也就是说它可以作为跟踪代码使用。研究人员将这一发现报告给了卡巴斯基。卡巴斯基承认了数据泄漏，它释出了补丁修复了编号为 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-8286" rel="external noopener" target="_blank">CVE-2019-8286</a> 的问题。这个补丁去除了唯一 ID，留下了相同的 ID，也就是说网站仍然会知道有安装了卡巴斯基软件的用户访问了。

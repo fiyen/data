@@ -1,0 +1,46 @@
+➜“Back To My Mac”逮住了小偷
+https://www.solidot.org/story?sid=6174	720
+“Back To My Mac”是苹果提供的付费在线服务，年费99美元，可以让用户在任何Leopard系统的电脑上访问自己的电脑。<a href="http://www.nytimes.com/2008/05/10/nyregion/10laptop.html">《纽约时报》报道</a>了一个与此有关的趣闻：小偷偷走了苹果笔记本（当然还有一大堆其它东西，如iPods、DVD、平板电视机和电脑游戏等等），然后用它上网，电脑主人的朋友看见它上线，通知了失主（以为找回了失窃的电脑），这位使用了“Back To My Mac”功能的苹果商店的工作人员于是启用了PhotoBooth程序，当贼兄坐在摄像头前时，卡嚓一声把他的头像拍摄了下来，对方反应过来要遮住摄像头已为时已晚。警察顺藤摸瓜，抓住了23岁的Edmon Shahikian和20岁的Ian Frias，所有脏物悉数追还。
+➜Microsoft IM屏蔽YouTube链接
+https://www.solidot.org/story?sid=6175	1500
+众多博客和微博客社区都报告，微软的即时通讯工具<a href="http://www.betadaily.com/2008/05/10/microsoft-starts-blocking-youtube-links-from-being-shared-on-msn-and-windows-live-messenger/">屏蔽了YouTube的网址</a>，MSN Messenger和Windows Live Messenger都被发现存在上述情况。一位博客<a href="http://www.istartedsomething.com/20080510/windows-live-messenger-blocks-wwwyoutubecom/">监控了网络</a>，发现发送类似的信息会收到微软服务器发出的NAK（无应答）信息。微软很早就开始屏蔽关键词，将其作为反钓鱼的措施，但*.youtube.com显然与反钓鱼毫无关系。有推测认为“这次屏蔽似乎与微软在20个国家发布Messenger TV 有关，它允许在微软IM上分享来自MSN Video的视频”。这就是<a href="http://yro.slashdot.org/article.pl?sid=08/05/10/166204">我们为什么痛恨垄断</a>的原因。
+➜作家因“Hate speech”而被告上加拿大法庭
+https://www.solidot.org/story?sid=6176	2100
+British Columbia 人权法庭将审判 Mark Steyn，因为他的新书《America Alone》惹恼了加拿大穆斯林。Steyn是
+加拿大杂志Maclean的专栏作家。根据<a href="http://seattletimes.nwsource.com/html/editorialsopinion/2004404067_steyned10.html">《西雅图时报》的社论</a>，British Columbia禁止任何文字和图像“可能使得一个人.....因为宗教、种族、残疾、性、婚姻状况和性取向原因感到愤怒或受到侮辱。”但Steyn不把“<a href="http://en.wikipedia.org/wiki/Hate_speech">Hate speech</a>”当回事，还以“加拿大人不喜欢罪犯”登广告宣传他的书，表示不在乎陪审团“宣判他罪孽深重”。
+➜微软更爱Flash
+https://www.solidot.org/story?sid=6177	4320
+微软自己都没有<a href="http://blog.searchenginewatch.com/blog/080509-105719">采用Silverlight</a>，它的所有网站几乎都使用Flash。<i>
+“尽管在用Silverlight取代Adobe Flash上存在的很多争论，软件巨人自己似乎连尝试的心都没有。事实上，绝大多数微软网站都使用Flash，而不是Silverlight。目前使用Silverligh的只有<a href="http://www.microsoft.com/en/us/default.aspx">微软官方主页</a>和<a href="http://msdn.microsoft.com/en-us/default.aspx">Microsoft Developer Network</a>。”</i>
+➜环球将制作游戏《生化震荡（BioShock）》的电影版
+https://www.solidot.org/story?sid=6178	7800
+<a href="http://www.gamasutra.com/php-bin/news_index.php?story=18577">Gamasutra报道</a>，环球影业宣布完成拍摄电影版《生化震荡（<a href="http://www.2kgames.com/bioshock/">BioShock</a>）》的许可谈判。BioShock受到非常高的评价，它讲述一个位于海底的类似于乌托邦的“极乐世界”中发生的悲剧，游戏中的许多名字都来源于著名反乌托邦小说《<a href="http://www.douban.com/subject/2302217/">阿特拉斯耸耸肩</a>》。电影版《生化震荡》的导演将是Gore Verbinski，他已通过《加勒比海盗》三部曲证明了自己的实力；电影剧本的剧作家将是John Logan，他最近作品中最为著名是《理发师陶德（<a href="http://www.imdb.com/title/tt0408236/">Sweeny Todd</a>）》。
+➜在 Ubuntu 上使用更好看的鼠标主题
+https://www.solidot.org/story?sid=6179	18000
+<a href="http://aolinux.simnovel.com/">jsonic</a> 写道 "对ubuntu默认的白色鼠标主题厌倦了？<a href="http://aolinux.simnovel.com/2008/05/ubuntu_11.html">一起来改变一下单调的鼠标指针吧！</a>
+1. 我们需要去 gnome-look.org站点下载一个新的鼠标主题包:ComixCursors，gnome-look.org是一个著名的gnome桌面主题，桌布，鼠标主题的网站，提供海量的gnome主题，桌布，登录界面主题，鼠标主题，xmms主题，甚至系统声音主题。
+s”中按照最多下载的排序方式找到了“ComixCursors”主题(目前的版本是0.5)并下载，主题包文件为ComixCursors-0.5.0.tar.bz2。"
+➜Processing可视化语言移植至Javascript
+https://www.solidot.org/story?sid=6180	18900
+在他的生日这天，jQuery的创造者John Resig颠倒过来，向开发者们赠送了一个礼物，公开了自己刚完成的一个项目：<a href="http://ejohn.org/blog/processingjs/">Processing.js</a>，也就是将Processing可视化语言(<a href="http://processing.org/">Processing Visualization Language</a>)移植至Javascript。这是Javascript成为Flash竞争对手的第一步。作者的blog提供了许多非常棒的<a href="http://ejohn.org/apps/processing.js/examples/basic/">演示</a>。
+➜Google股东否决人权提案
+https://www.solidot.org/story?sid=6181	21600
+Google的年度股东大会，人权政策再次成为最受争议的话题。在董事会的建议下，<a href="http://www.computerworld.com.au/index.php/id;1767888348;fp;;fpid;;pf;1">Google股东否决</a>了两项要求搜索巨人执行更严格人权政策的提案。<i>
+Google创始人Sergey Brin弃权，表示“我赞同这些提案的精神”，但并不完全支持其内容，因此不想投票支持。多家美国科技公司一直批评Google在中国的行为。为适应中国互联网管理政策之要求，Google特别推出了本地化的谷歌搜索引擎。Google辩护称，留在中国并为中国人民提供有用的信息比完全退出中国市场的好处更多。一些股东和人权团体包括国际特赦组织，持续向Google在施压，要求改进在某些众所周知的人权滥用和限制言论自由国家的政策。
+</i>
+同样的事情去年也<a href="__SLASHLINK__" sect="internet" sid="07/05/12/051227" sn="article" tid="26">上演</a>了。
+➜四川汶川县发生7.9级地震
+https://www.solidot.org/story?sid=6182	25200
+2008年05月12日14时28分04.0秒，<a href="http://news.163.com/special/00012MS5/sichuan0512.html">四川汶川县发生M7.8级地震</a>，震中位于北纬31.0度，东经103.4度，距离成都西北90公里，根据最新报告地震已造成近万人死亡。目前<a href="http://www.cea.gov.cn/">中国地震局网站</a>已无法访问。根据<a href="http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008ryan.php">美国地震局</a>的报告：震级7.9级，<a href="http://www.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=31.084%C2%B0N,+103.267%C2%B0E&amp;ie=UTF8&amp;ll=30.890441,103.197327&amp;spn=1.117198,1.867676&amp;t=h&amp;z=9">震中</a>31.084°N, 103.267°E，深度为10公里，为浅层地震。
+➜为防意外发生，NASA将会人为毁掉航天飞机
+https://www.solidot.org/story?sid=6183	27900
+<a href="http://www.popularmechanics.com/science/air_space/4262479.html">《大众机械》报道</a>，每次航天飞机从佛罗里达卡纳维拉尔角（<a href="http://en.wikipedia.org/wiki/Cape_Canaveral">Cape Canaveral</a>）起飞升空，总有一位空军官员在某处焦急的等候2分钟，等待它安全飞离。如果航天飞机出现失控的迹象，危及有人口居住的区域。这位安全官员将不得不肩负起可怕的责任，打开“飞行终止”面板，按下两个开关，第一个开关分离固体火箭加速器，第二个开关引爆火箭，摧毁航天飞机及其成员。文章提供了该设备的<a href="http://media.popularmechanics.com/images/shuttle-flight-termination-.jpg">图片</a>。
+➜VIA发布16,434行framebuffer源代码
+https://www.solidot.org/story?sid=6184	30600
+VIA已经公布了<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NjQ2Nw">16,434行framebuffer（帧缓存器）源代码</a>。一个月前 VIA 宣布将在专门的<a href="http://linux.via.com.tw/support/downloadFiles.action">linux网站</a>上提供<a href="__SLASHLINK__" sect="opensource" sid="08/04/10/0133233" sn="article" tid="7">开源驱动和文档</a>。
+现在VIA遵守承诺公开了第一波源代码，以GNU GPLv2许可证发布，支持VIA的Unichrome CLE266，K400，K800，PM800，CN700，CX700，K8M890，P4M890，P4M900，和VX800 IGP，支持数字连接如HDMI，这似乎比当初的RadeonHD驱动更进一步。但这还远不能算结束，Unichrome和OpenChrome项目的开发者还有许多工作要做，如3D和视频回放功能。
+➜美国国家安全局如何提升Linux的安全性
+https://www.solidot.org/story?sid=6185	34560
+IBM开发者园地的一篇文章<a href="http://www.ibm.com/developerworks/linux/library/l-selinux/?ca=dgr-lnxw01SELinux">剖析了美国国家安全局开发的安全增强版Linux</a>（<a href="http://www.nsa.gov/selinux/">SELinux</a>）。其实只要你运行的是2.6 kernel ，你已在使用SELinux了。发行版Fedora、Red Hat Enterprise Linux (RHEL)、Debian 或 Gentoo等都已在内核中<a href="http://www.ibm.com/developerworks/cn/linux/l-selinux.html">启用了SELinux</a>。这篇文章展示了相应的kernel 架构，并与其它安全框架进行了对比，如SUSE和Ubuntu中使用的AppArmor，TrustedBSD，操作系统虚拟机等。<i>
+如果你有一个程序响应socket请求，它不需要访问文件系统，那就应该接收到一个无权访问文件系统的socket。如果这个程序利用某种漏洞，系统必须将<a href="http://www.ibm.com/developerworks/cn/linux/l-sppriv/">访问特权最小化</a>。此类控制被称为强制访问控制（MAC），另一种控制方法是<a href="http://www.ibm.com/developerworks/cn/linux/l-rbac-selinux/">基于角色的访问控制</a>（RBAC）。在RBAC中，可以通过把角色分配给用户然后把权限分配给这些角色来简化管理。SELinux为GNU/Linux操作系统加入了MAC和RBAC。
+</i>

@@ -1,0 +1,21 @@
+➜Firefox将屏蔽第三方Cookies
+https://www.solidot.org/story?sid=33569	23753
+斯坦福大学研究员<a href="https://www.stanford.edu/%7Ejmayer/">Jonathan Mayer</a>向Firefox浏览器贡献了<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=818340"><u>一个补丁</u></a>，补丁的功能是<a href="http://webpolicy.org/2013/02/22/the-new-firefox-cookie-policy/"><u>默认屏蔽</u></a>第三方Cookies，即只有你访问的网站才能使用Cookies跟踪你的浏览行为。Firefox用户将能从v22版开始使用这项功能。苹果的Safari也对第三方Cookies有限制，而Chrome和IE则基本允许所有Cookies。在线广告业对此举的<a href="http://yro.slashdot.org/story/13/02/23/2126246/firefox-will-soon-block-third-party-cookies"><u>初步反应</u></a>是敌意和愤怒，称之为是“第一波核攻击”。
+➜Ruby 2.0.0发布
+https://www.solidot.org/story?sid=33570	48892
+Ruby 2系列第一个稳定版本<a href="http://www.ruby-lang.org/en/news/2013/02/24/ruby-2-0-0-p0-is-released/"><u>发布</u></a>。新版的核心功能变化包括：关键字参数，增加API设计的灵活性；扩展类的新方法Module#prepend；%i帮助更容易的创建一系列字符；__dir__返回正在运行的文件目录名称； UTF-8 默认编码。其它的功能包括：异步异常处理API；DTrace 支持；虚拟机优化和浮点运算优化，性能改进，实验性功能Refinements等等。
+➜Minix 3.2.1发布
+https://www.solidot.org/story?sid=33571	50131
+原本设计用于教授操作系统理论的微内核操作系统Minix<a href="http://www.minix3.org/releasenotes-321.html"><u>发布了3.2.1版</u></a>。Minix激励Linus开发了Linux操作系统，也曾在早期引发了一场微内核和宏内核的辩论。Minix 3.2.1的功能包括：完整支持共享库，改进USB设备如鼠标、键盘和大容量储存设备的支持。新版改进了性能，移植了来自 NetBSD的多个用户层（userland）工具。
+➜土星北极有一个至今不解的六角形结构
+https://www.solidot.org/story?sid=33572	50814
+<div align="center"><img src="http://img.solidot.com.cn/0/173/likLxGnshM49.jpg" align="" height="291" width="360"><br>
+<div align="left">为什么土星云层会形成六角形呢？<a href="http://www.phys.ncku.edu.tw/~astrolab/mirrors/apod/ap130220.html"><u>无人能确定原因</u></a>。这个六角形结构最早是在1980年代航海家号经过土星时所发现的，在那之前太阳系内从来没有发现过这样的系统。如果您认为土星南极的气旋不够怪的话，那么现在的这个土星北极肯定更诡异。上图中奇异的云层纹路是绕着土星运行的卡西尼号最近利用红外光波段所拍摄的。这张图像代表着从航海家观测之后，六角形结构稳定存在了至少20年。土星北极的影片显示出六角形云层的结构在土星旋转的时候也不会散掉。和地球上个别形成的六角形云不同，土星上的云层纹路有着六条明显等长的边界。这个六角形云层约有四个地球大。
+</div>
+</div>
+➜尼康为智能相机向微软支付Android税
+https://www.solidot.org/story?sid=33573	52090
+Android是一种可免费使用的开源操作系统，但微软从中找到了一条生财之路：专利授权。日本数码相机制造商尼康公司成为<a href="http://www.dailytech.com/Nikon+Agrees+to+Pay+Microsoft+Android+Tax+on+Smart+Cameras/article29965.htm"><u>最新一家</u></a>为使用Android向微软支付<a href="http://www.microsoft.com/en-us/news/Press/2013/Feb13/02-21NikonPR.aspx"><u>专利授权费</u></a>的公司。尼康公司的Coolpix S800c等智能数码相机使用了Android系统。在此之前，许多主要Android智能手机制造商如HTC和三星都与微软达成了专利授权协议，为每台设备支付10到15美元的专利使用费。
+➜Ubuntu Touch只是另一个Android皮肤？
+https://www.solidot.org/story?sid=33574	54314
+Canonical发布了Ubuntu Touch开发者预览版。xda-developer发表了一篇文章<a href="http://www.xda-developers.com/android/ubuntu-touch-next-generation-os-or-just-another-skin/"><u>质疑</u></a>Ubuntu Touch究竟是下一代操作系统还是另一个Android皮肤（即Android核心组件+Unity）？Canonical早在宣布智能手机项目时就明确表示它的系统将基于Android和社区MOD Cyanogenmod，但它剥离了Dalvik虚拟机和所有能支持运行Android应用的必要组件，采用Qt/QML开发原生应用，Canonical认为它比Java应用更高效。目前发布的Ubuntu Touch是基于Cyanogenmod 10.1，使用Android内核和设备驱动，显示管理器是Android的Display Flinger。

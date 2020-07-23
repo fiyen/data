@@ -1,0 +1,51 @@
+➜Canyon Bridge 收购 Imagination
+https://www.solidot.org/story?sid=53952	11627
+中资基金  Canyon Bridge Capital 达成了以 5.5 亿英镑<a href="http://cn.wsj.com/gb/20170925/biz102328.asp" target="_blank"><u>收购</u></a> Imagination Technologies 的协议。本月初 Canyon Bridge 曾试图收购美国半导体公司 Lattice 半导体，但被美国总统特朗普<a href="http://www.solidot.org/story?sid=53829" target="_blank"><u>否决</u></a>，收购失败。Imagination 曾是苹果移动 GPU 技术的主要供应商，但苹果的新一代手机开始采用自己设计的 GPU 核心。Imagination 在今年上半年透露苹果将停止使用其技术后股价下跌，它随后宣布挂牌出售。为减轻英国有关部门对该交易的可能担忧，Canyon Bridge 称，将保留 Imagination 的英国总部，并表示没有裁员或调整 Imagination 管理层的计划。Canyon Bridge 与 Imagination 的潜在交易不包括后者的美国嵌入式处理器业务。把这一美国业务排除在此次收购之外有助于避开美国监管机构的详细审查。
+➜民营科技巨头崛起给北京带来新的问题
+https://www.solidot.org/story?sid=53953	13386
+中国的科技巨头腾讯和阿里巴巴正变得过于强大，对经济越来越重要。过去几个月中国政府对它们发出了多次警告。<a href="http://www.ftchinese.com/story/001074431?full=y" target="_blank"><u>政府面临一个两难局面</u></a>。一方面，民营科技巨头的崛起符合推动中国经济转向消费和尖端科技的大方向。另一方面，这一趋势难免具有颠覆性，危及数以万计的就业岗位，并扩大了与笨拙臃肿的国企之间的差距。分析师表示，在对科技巨头们发出警告的同时，政府还要求科技巨头帮助国企进入数字时代。上个月，阿里巴巴 、腾讯、百度、京东和滴滴出行在内的 14 家中国大型科技和互联网集团<a href="http://www.solidot.org/story?sid=53494" target="_blank"><u>宣布</u></a>向中国第二大移动通信运营商中国联通投资 117 亿美元。一位该交易的参与者将投资方名单描述为中国 “互联网界的名人录””。一位参与者说，这更像一个相关企业无法拒绝的报价。“你不能说‘不’，但你能限制自己不得不说‘是’的次数吗？” 他们问。此外科技企业开始直接与政府合作开展项目。“他们始终掌握着审查权，” 一名科技行业的律师表示，“如今我们正在迈向互联网完全由政府控制和监视的时代。”
+➜AWS 从下周开始将按秒收费
+https://www.solidot.org/story?sid=53954	14129
+亚马逊云服务 AWS<a href="https://amazonaws-china.com/cn/blogs/aws/new-per-second-billing-for-ec2-instances-and-ebs-volumes/?nc1=f_ls" target="_blank"><u> 宣布</u></a>，从下周一（10 月 2 日）开始按秒收费。AWS 称，过去如果你想要访问计算资源你需要购买或租赁一台服务器， 2006 年亚马逊发布 EC2 时，向用户提供了按小时使用和按小时付费的功能，在这当时是个大新闻。按需付费的模式启发了客户思考新的方式去开发、测试和运行各种类型的应用。但按小时付费对许多计算密集任务来说也太长了，客户可能不到一小时就完成了任务，甚至几分钟就够了。AWS 因此宣布了按秒收费模式，最短为一分钟。
+➜美国陆军直升机与民用无人机相撞
+https://www.solidot.org/story?sid=53955	16844
+美国陆军直升机上周<a href="http://nypost.com/2017/09/22/army-helicopter-hit-by-drone/" target="_blank"><u>发生了</u></a>与民用无人机相撞的事故。事故发生时，一架 UA60 直升机和一架黑鹰正沿着米德兰滩在 500 英尺高度飞行，民用无人机的撞击导致了其旋翼受损，飞行员设法操纵直升机安全降落在附近的新泽西机场。NYPD 和军方正对此展开调查，目前还没有逮捕任何人。根据 FAA 的监管规定，无人机被限制在建筑物或桥梁附近飞行，也不允许飞到 400 英尺高度以上。
+➜利用电源管理入侵 ARM TrustZone
+https://www.solidot.org/story?sid=53956	19583
+研究人员演示了利用电源管理入侵 ARM TrustZone，把 TrustZone 变得不那么能受到信任。今天的大多数 CPU 都支持动态电压频率调整，根据 CPU 是空闲或忙碌来动态的调整 CPU 的电压和频率。研究人员发现，他们可以通过调大调小一个线程的电压来翻转另一个线程的比特。当第二个线程正被 TrustZone 密钥的时候翻转比特，研究人员就获得了权限。他们将这种新型硬件故障攻击称为 <a href="https://blog.acolyer.org/2017/09/21/clkscrew-exposing-the-perils-of-security-oblivious-energy-management/" target="_blank"><u>CLKSCREW 攻击</u></a>，称它是硬件 bug，而不是软件 bug，很难简单的修复，存在于电源管理设计的基础部分。
+➜微软下注 AI
+https://www.solidot.org/story?sid=53957	26122
+微软<a href="https://www.geekwire.com/2017/one-year-later-microsoft-ai-research-grows-8k-people-massive-bet-artificial-intelligence/" target="_blank"><u>正在 AI 上下注 </u></a>。去年九月，微软组建了 AI 和研发集团，一年之后通过收购和招聘，该集团的人数从 5 千增加到 8 千，增长了 60%。但微软的竞争对手同样积极进取。独立研究公司 Directions on Microsoft 的研究副总裁 Rob Sanfilippo 指出，微软取得了进步，但 IBM、Apple、Amazon、Google 和 Facebook 等公司也是如此。可以认为亚马逊在 AI 领域处于领先，人们更熟悉  Alexa 而不是 Cortana，微软正努力避免在移动和社交网络之后错过另一个大的机遇，向 AI 投入了更多资源和关注。微软有优势也有劣势，它的 Windows Phone 业务几乎停滞，因此在流行的智能手机平台，它的数字助手 Cortana 处于第三方应用的状态，但在 Windows 桌面上 Cortana 则是第一方。
+➜每周锻炼 2.5 小时就能帮助你延年益寿
+https://www.solidot.org/story?sid=53958	27516
+根据发表在《柳叶刀》期刊上的一项<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31634-3/fulltext?elsca1=tlpr" target="_blank"><u>大型研究</u></a>，每周锻炼或任何形式的身体活动 2.5 小时<a href="https://www.vox.com/science-and-health/2017/9/22/16343458/exercise-2-hours-per-week-live-longer" target="_blank"><u>就能降低</u></a>心血管疾病和死亡的风险。研究人员跟踪了来自低中高收入国家（包括中国）的 13 万成人的锻炼水平，以及心血管疾病和死因，发现每周身体活动超过 150 分钟的人更健康，更少发生心脏病、中风和其它心血管疾病。每周锻炼 2.5 小时与降低 28% 的过早死亡和降低 20% 的心脏病相关。任何形式的锻炼都有助于降低死亡和心脏病风险， 无论是在体育课上大汗淋漓，还是做家务或走路。你并不需要额外的时间或花钱才能获得锻炼的好处，如尽可能的用脚而不是乘交通工具或电梯前往目的地。
+➜High Sierra 每周会自动检查 EFI 固件
+https://www.solidot.org/story?sid=53959	29250
+<div align="center"><img src="http://img.solidot.org/0/424/liO1GdTPWG82.jpg" width="450" align="" height="131"><br>
+</div>
+<br>
+苹果工程师 Xeno Kovah 在 Twitter 上<a href="https://twitter.com/XenoKovah/status/912011064304267264" target="_blank"><u>透露</u></a>（已删，<a href="https://web.archive.org/web/20170924203636/https:/twitter.com/XenoKovah/status/912011064304267264" target="_blank"><u>时光机器</u></a>），High Sierra <a href="https://eclecticlight.co/2017/09/24/high-sierra-automatically-checks-efi-firmware-each-week/" target="_blank"><u>每周</u></a>会自动检查 EFI 固件。Xeno 在已删除的帖子里介绍了该功能是如何实现的：新工具叫  eficheck，位于 /usr/libexec/firmwarecheckers/eficheck，每周自动运行一次，它会核对 Mac 固件与苹果数据库，如果没问题，那么用户不会看到任何信息，如果发现问题则会弹出一个对话框。如果用户决定向苹果递交报告，那么苹果随后将会根据报告判断固件是否被恶意程序修改的。
+➜中国黑客攻击引起德国警觉
+https://www.solidot.org/story?sid=53960	30904
+《华尔街日报》<a href="http://cn.wsj.com/gb/20170925/BIZ114215.asp"><u>报道</u></a>，中国和美国在 2015 年 9 月签署协议同意减少经济间谍活动，此后中国对美国企业的黑客攻击活动确实<a href="http://www.solidot.org/story?sid=47881" target="_blank"><u>出现了下降</u></a>，但德国成为了重点目标。德国情报官员警告说，一些帮助德国成为出口大国的中小型公司已成为外国黑客的目标，这些公司对自己宝贵的知识产权疏于防护。中国外交部回应称不清楚德国的指控，重申中国坚决反对任何形式的网络攻击。德国国内情报机构 5 月份称，他们手上有中国黑客团体 APT-10 近期对德国一些高科技公司进行黑客攻击的证据。
+➜碳纳米管线从血流中产生电
+https://www.solidot.org/story?sid=53961	33500
+为了给可穿戴设备供电，工程师思考了各种利用人体产生电的方法。现在，复旦大学的一个研究团队<a href="https://spectrum.ieee.org/the-human-os/biomedical/devices/carbon-nanotube-yarns-could-generate-electricity-from-the-bloodstream" target="_blank"><u>提出了一种方法</u></a>利用碳纳米管纤维从血流中产生电。<a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201706620/abstract" target="_blank"><u>研究报告</u></a>发表在《Angewandte Chemie》期刊上。他们尚未在动物身上测试这一新发电技术。研究人员将他们的系统称为迷你版的水力发电，但两者的原理不同。碳纳米管纤维与盐溶液接触，浸入的纳米管和溶液之间的界面将会形成双电层，纳米管表面带负电荷，溶液的薄层带正电荷。当溶液流动，溶液里的负离子和纳米管的电子将会尝试平衡双电层，但不怎么成功，流体的前部产生了更多电荷，使得纳米管纤维的两端形成了电位差，能产生电压和电流。
+➜百度代理商被指强推信息流广告
+https://www.solidot.org/story?sid=53962	37477
+全国各地的百度广告代理商被指<a href="http://companies.caixin.com/2017-09-25/101149914.html" target="_blank"><u>正向客户强推信息流广告</u></a>，而百度则声称它从未向代理商提出、下达对搜索广告和信息流广告捆绑销售的策略和要求。信息流广告指的是出现在新闻客户端或社交媒体好友动态中的广告。新浪微博和今日头条是国内最早做信息流广告的平台，百度去年开始跟进，并成为财报中的亮点。业内人士称，“百度现在压力比较大，因为它是做内容分发，今日头条也是内容分发，考虑到百度现有的广告主有很大的量级，按照代理商这么做，在短时间内，将信息流业务与今日头条持平是没有问题的，只不过最终的受害者都是商家。”百度内部人士透露百度在内部为信息流业务制定了全年目标，要在 2017 年实现与今日头条和腾讯三分国内信息流市场。
+➜RMS 谈 Windows Subsystem for Linux
+https://www.solidot.org/story?sid=53963	41757
+如果你相信 Satya Nadella，那么“微软爱 Linux”。在 Nadella 的领导下，微软拥抱了开源软件，加入了 Linux 基金会，甚至让 Linux 发行版能直接运行在 Windows 10 上。微软开发了支持 Linux 发行版和软件的子系统 Windows Subsystem for Linux (WSL)。自由软件基金会主席 Richard Stallman（RMS） <a href="http://www.techrepublic.com/article/will-microsoft-love-linux-to-death-shuttleworth-and-stallman-on-whether-windows-10-is-free-softwares/" target="_blank"><u>认为</u></a>微软此举企图压制用户能自由运行、拷贝、发行、研究、改变和改进的软件。RMS 认为，微软没那么容易压制我们，因为我们使用自由软件的理由不只是因为实用方便。他说，我们想要自由，想要自由的使用计算机，Windows 没有机会成功。相比之下，微软合作伙伴 Canonical 创始人 Mark Shuttleworth 则对微软此举赞不绝口。
+➜互联网上的黑暗角落
+https://www.solidot.org/story?sid=53964	43481
+在互联网诞生之初，人们普遍相信它会把世界变成一个更美好的地方。苹果联合创始人 Steve Wozniak 说过，他曾认为互联网是自由的灯塔。今天的人们知道，互联网有“光明”的地方，也有<u><a href="https://spectrum.ieee.org/telecom/internet/the-language-of-the-dark-web" target="_blank">“黑暗” 的 “角</a>落”</u>。这个“黑暗”的“角落”事实上比光明的地方更为庞大。Google 搜索索引的内容只是互联网的很小一部分，据估计这个“可见 Web”只占 4%，其余 96% 是搜索引擎看不见的 Web。这部分“看不见”是因为它所在的数据库搜索爬虫无法访问或无访问权限，其中一个看不见的部分是需要特定软件才能访问的暗网，最著名的暗网是基于 Tor 隐藏服务，必须借助 Tor&nbsp; 软件才能访问。
+➜培育低排牛降低甲烷排放
+https://www.solidot.org/story?sid=53965	45467
+全球暖化有一部分与人类的饮食相关，我们对牛肉的需求推动了养殖业的快速发展，而这些养殖的牛通过打嗝和放屁排放出大量的甲烷。甲烷的温室效应是二氧化碳的二十倍。据忧思科学家联盟（Union of Concerned Scientists）的估计，美国牛肉生产过程中排放的甲烷相当于 2400 万辆汽车的排放量。与其呼吁人类改变饮食习惯放弃牛肉，研究人员认为他们有更好的方法<a href="http://www.popsci.com/climate-cow-fart" target="_blank"><u>：培育出低排放的牛</u></a>。他们的目标是培育出减少甲烷排放的消化系统，新的牛品种将会对家畜的甲烷排放产生重大影响。
+➜将低分辨率图像合成高清逼真图像
+https://www.solidot.org/story?sid=53966	47286
+<div align="center"><a href="http://img.solidot.org/0/425/liYYy41SzSSg.png"><img src="http://img.solidot.org/0/425/liYYy41SzSSg.png" width="500" align="" height="223"></a><br>
+<br>
+</div>
+在影视剧中，我们经常会看到警察或调查人员在计算机上对着一张低分辨率的模糊照片操作一番，比如缩放，照片就从低分辨率变成高清了。这种技术在现实中还不存在，但正离我们越来越近。卡内基梅隆大学的研究人员在预印本网站发表了一篇<a href="https://arxiv.org/pdf/1708.05349.pdf" target="_blank"><u>论文</u></a>（PDF），介绍了名为 <a href="http://www.cs.cmu.edu/~aayushb/pixelNN/" target="_blank"><u>PixelNN</u></a> 的最近邻方法，从不完整的低分辨率照片，表面法线贴图和草图等合成出高分辨率的逼真图像。上图就是他们的测试效果。

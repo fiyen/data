@@ -1,0 +1,65 @@
+➜Google 认为沃通系统不符合发放证书的基本要求
+https://www.solidot.org/story?sid=53071	8014
+匿名读者 写道 <i>"之前沃通<a href="http://www.solidot.org/story?sid=52967" target="_blank">宣布</a>其通过了 Cure 53 白盒子安全测试。但沃通只公布了报告的总结版。Google <a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/19M3L2vbCZY/mKJ3_uJCBAAJ" target="_blank">在阅读报告的完整版之后认为</a> “根据完整版的安全测试报告，沃通新系统不符合 (BR non-compliance) 发放证书的基本要求。现有的系统并不能通过审计，沃通现有系统需要相当多的修改才能通过审计。” 欢迎大家在论坛上<a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/19M3L2vbCZY/mKJ3_uJCBAAJ" target="_blank">围观沃通王高华和 Google 的正面冲突</a>。"</i>
+➜A 站、B 站和凤凰关闭部分视频节目
+https://www.solidot.org/story?sid=53072	11468
+广电总局上个月下发通知，<a href="http://www.solidot.org/story?sid=52834" target="_blank"><u>要求</u></a>新浪微博、ACFUN 站和凤凰网关停视听服务和全面整改。随后，新浪微博<a href="http://www.solidot.org/story?sid=52908" target="_blank"><u>宣布</u></a>关闭超过 15 分钟以上的长视频上传。现在，A 站、B 站和凤凰也采取了措施，关闭了大量视频节目。ACFUN 关闭了影视频道（也就是 www.acfun.cn/v/list68/index.htm，返回 404 错误），保留了番剧和动画等频道，但暂时还不清楚这些频道是否有内容删除。B 站大量<a href="http://www.bilibili.com/video/movie_west_1.html" target="_blank"><u>影视剧</u></a>同样遭到删除，视频加载时显示错误信息。凤凰网下架了凤凰卫视的著名谈话节目<a href="http://v.ifeng.com/vlist/tv/qqsrx/all/0/7/detail.shtml" target="_blank"><u>锵锵三人行</u></a>。
+➜苹果在中国建造数据中心
+https://www.solidot.org/story?sid=53073	12428
+苹果已按照网络安全法的要求在中国<a href="https://cn.nytimes.com/business/20170713/apple-china-data-center-cybersecurity/" target="_blank"><u>设立了首个数据中心</u></a>。数据中心设在贵州，苹果将与当地企业云上贵州大数据产业发展有限公司一起运营。苹果在周三的声明中表示，新中心将保留“原有的强有力的数据隐私和安全保护措施”，称其系统中不会留有后门。 苹果说：“增设这个数据中心将使我们能够提高产品和服务的速度和可靠性，同时也让公司遵守新近实施的法规。”这些法规的内容还包括要求对公司进行安全评估，以及要求实名注册。国外商业组织已表示，该法律不公平地歧视非本国公司。<br>
+➜Google 无需向法国支付 11.1 亿欧元的欠税
+https://www.solidot.org/story?sid=53074	14195
+<a href="https://www.bloomberg.com/news/articles/2017-07-12/google-wins-french-court-fight-over-1-3-billion-tax-bill" target="_blank"><u>彭博社</u></a>和<a href="http://cn.wsj.com/gb/20170713/tec085932.asp" target="_blank"><u>华尔街日报</u></a>等媒体报道，Google 在法国赢得了 11.1 亿欧元的欠税诉讼。巴黎行政法庭在裁决中称，Google 利润丰厚的广告销售业务在法国并无课税基础，因此无须为来自法国客户的广告收入缴纳所得税或销售税。这个裁决涵盖 Google  2005 年至 2010 年的税款，为 Google 长达六年多的税务纠纷提供法律支持，同时可能对 Google 在欧洲和其他地方的税务纠纷带来影响。Google 在一份声明中称，巴黎行政法庭的裁决证实 Google 遵守了法国的税法和国际标准。
+➜SpaceVim - 让你的 vim 更高效和强大
+https://www.solidot.org/story?sid=53075	15052
+<a href="mailto:wsdjeg@163.com">SpaceVim</a> 写道<i> "<a href="https://github.com/SpaceVim/SpaceVim" target="_blank"><u>SpaceVim</u></a> 是一个模块化配置集合，包含针对各种语言开发的插件和相应的优化配置。目前支持多种语言的自动补全、语法检测、代码格式化，而且启动速度飞快。SpaceVim 的另一核心理念就是按序延迟加载，目前 90% 的插件都是滞后加载。SpaceVim 模块化的思想来源于 spacemacs 的 layer（模块），将各种功能包装好封装成一个 layer，用户根据自己的需要载入相应的 layer，实现自定义 SpaceVim。
+<br>
+SpaceVim 对于新手有着非常友好的界面，界面格局和大多数 IDE 也比较类似。不过为了更好的体验 SpaceVim，建议对于 vim 需要有一定的了解，如果有一定的英语基础建议阅读这篇关于 vim 的教程 vim-galore. 使用过程中遇到问题在 github 提交 issue 将更容易被关注和修复。我们也欢迎喜欢 vim 的用户加入我们的 QQ 群，一起讨论 vim 相关的技巧，<pangu> </pangu><a style="margin: 0px; padding: 0px; color: black; text-decoration: underline;" href="https://jq.qq.com/?_wv=1027&amp;k=43zWPlT">点击加入 Vim/SpaceVim 用户群</a>。"</i>
+➜台湾故宫免费提供中低分辨率图像
+https://www.solidot.org/story?sid=53076	19305
+台湾故宫博物院的官方 Facebook 账号<a href="https://www.facebook.com/npmgov/photos/a.258328107584314.62907.109503509133442/1400588246691622/?type=3&amp;theater" target="_blank"><u>宣布</u></a>(或官网<a href="https://www.npm.gov.tw/zh-TW/Article.aspx?sNo=04009470" target="_blank"><u>新闻稿</u></a>)，即日起博物馆的<a href="http://theme.npm.edu.tw/opendata" target="_blank"><u> Open Data 专区</u></a>提供中低分辨率的书画和典藏文物图像的自由使用，也就是这些图像可以商业性使用，无需向博物馆付费。新闻稿称，可供下载的图像数量将多达 7 万张，表示“这是首次免费释出典藏文物的图像供商业使用，也是故宫成立以来的最大创举。此次开放故宫典藏所有书画及器物的文物图像，其中故宫三宝：翠玉白菜、肉形石及毛公鼎亦有中阶图像可供下载，另还有王羲之的快雪时晴帖、怀素的自叙帖，甚至前阵子出名的莲花温碗等，欢迎民众与故宫一起享有这些国宝的图像。”
+➜南极巨型冰山断裂
+https://www.solidot.org/story?sid=53077	29547
+<div align="center"><img src="http://img.solidot.org/0/375/lii4nqQnSGvYY.jpg" height="300" width="450" align=""><br>
+</div>
+<br>
+一块重量超过 1 万亿吨的巨大浮冰<a href="https://cn.nytstyle.com/science/20170713/antarctica-rift-update/" target="_blank"><u>从南极半岛断裂</u></a>，形成了有记录以来的最大冰山之一，也为南极冰架最终也许会怎样崩解提供了一瞥。名为“拉森 C”的冰架在几年的时间里已经逐渐现出一条长达 120 英里的大裂缝，一直在监测这条裂缝的科学家周三证实，巨大的冰山终于从冰架断裂出来。全球变暖是否是这次断裂的罪魁祸首，目前科学上尚无共识。拉森C冰架的崩解预计不会对海平面的上升产生多大影响。但科学家担心，其它地区的类似冰架的未来崩解可能会将足够多的冰倾入海洋，从而导致海平面上升 1 米以上。这种情况可能多么快地发生目前尚不清楚。一些气候科学家认为，该地区的变暖至少部分是人为气候变化的结果，但也有一些气候科学家对这种观点持异议，认为自然的多变性在其中起着更大的作用，他们指出，冰山从冰架上脱离的事情在数百万年间时有发生。但是，这两个阵营的人都一致认为，半岛地区冰架的断裂，可能预示了等待着南极主体的未来，因为地球由于人类活动在不断升温。
+➜青年人晚睡老年人早起可能出于生存需要
+https://www.solidot.org/story?sid=53078	30660
+杜克大学的研究人员在《皇家学会学报 B》发表<a href="http://rspb.royalsocietypublishing.org/content/284/1858/20170967" target="_blank"><u>论文</u></a>认为，青少年人晚睡晚起而老年人早睡早起可能是出于人类早期的<a href="https://today.duke.edu/2017/07/live-grandparents-helped-human-ancestors-get-safer-night%E2%80%99s-sleep" target="_blank"><u>生存需要</u></a>。心理学家 Frederick Snyder 在50 年前提出，成群生活的动物会让一些成员保持清醒并让其他成员休息，从而在睡眠期间保持警惕。保持这种持续警觉的一种方法可能是不同睡眠类型的进化——当人们入睡时，个体差异便会呈现出来。随着年龄渐长，这会发生变化，即青少年向较晚的就寝时间转变，而老年人转向较早的就寝时间。杜克的 David Samson 和同事研究了生活在坦桑尼亚北部的一个狩猎—采集部落哈扎人。他们召集了 33 名成年人，让他们在手腕上佩戴运动传感器以监测睡眠。研究人员连续监测了 22 天，<a href="http://news.sciencenet.cn/htmlnews/2017/7/382174.shtm" target="_blank"><u>发现</u></a>在采集到的 99.8% 的睡眠时间段中，至少会有一人要么清醒，要么睡得很浅，因此很容易被叫醒。同时在任何特定时间，平均而言都会有 8 名成年人醒着。
+➜朱诺号发回木星大红斑近照
+https://www.solidot.org/story?sid=53079	31691
+<div align="center"><img src="http://img.solidot.org/0/376/liNzJzImrLRM.jpg" height="400" width="400" align=""><br>
+</div>
+<br>
+朱诺号本周早些时候<a href="https://www.nasa.gov/feature/jpl/nasas-juno-spacecraft-completes-flyby-over-jupiter-s-great-red-spot" target="_blank"><u>成功的近距离飞越了</u></a>木星及其著名特征大红斑，下一次近距飞越预计将会是在 9 月 1 日。飞越期间拍摄的照片和获取的数据正在陆续发回地球，NASA 已经公布了<a href="https://www.missionjuno.swri.edu/junocam/processing/" target="_blank"><u>多张原始照片</u></a>，其中包括最新的<a href="https://www.missionjuno.swri.edu/junocam/processing?id=1675" target="_blank"><u>大红斑照片</u></a>。朱诺首席调查员 Scott Bolton 称，全世界各行各业的数代人都对大红斑感到惊奇不已，现在我们终于有机会近距离观看这个大风暴的样子了。大红斑是一个宽 1 万公里的超级风暴，人类自 1830 年以来就对它进行持续的观察。<br>
+➜科学家在细菌 DNA 中储存视频数据
+https://www.solidot.org/story?sid=53080	33092
+<div align="center"><img src="http://img.solidot.org/0/377/liwQfJiNJ4DBQ.gif" height="300" width="400" align=""><br>
+</div>
+<br>
+大肠杆菌有时会让我们生病，但在科学界它却是任劳任怨的劳模。现在，它甚至增加了一项新技能：储存人类的数字数据。哈佛大学的研究人员在《自然》期刊上发表<a href="https://www.nature.com/articles/doi:10.1038/nature23017" target="_blank"><u>论文</u></a>，<a href="http://spectrum.ieee.org/the-human-os/biomedical/devices/scientists-store-video-data-in-the-dna-of-living-organisms" target="_blank"><u>报告</u></a>他们利用基因编辑技术 CRISPR 在大肠杆菌中的 DNA 中储存了一个短视频（如图所示）。 视频为一个 36 x 26 像素的 GIF，内容为最早记录的活动图像之一。现在的问题是我们是否真的想要在活生命体内储存数据？想象一下这样一种对话：妈妈，我的色情视频在哪里？亲爱的，它们在芥末后面的大肠杆菌内。
+➜中国的精子问题创造出一个十亿美元市场
+https://www.solidot.org/story?sid=53081	36337
+38 岁的张和他的妻子以前一直为事业打拼，现在他们想要一个孩子，但发现困难重重，因此他们和中国百万家庭一起求助于辅助生殖市场。高需求让辅助生殖<a href="https://www.bloomberg.com/news/articles/2017-07-12/as-sperm-counts-drop-in-china-the-fertility-market-cashes-in" target="_blank"><u>有望成为一个价值 150 亿美元的市场</u></a>。张到北京的家圆医院做体外受精，每轮费用 10 万人民币。他将自己的精子问题归因于多年来的抽烟、饮酒和应酬。对外关系委员会的健康专家 Yanzhong Huang 称，中国男性的精子数过去几十年出现了显著下降，从 1970 年的每毫升 1 亿减少到 2012 年的 2000 万。他认为，经济发展伴随的压力、污染、抽烟饮酒，晚婚晚育等，都可能是造成这一现象的因素。早先的一项研究显示，中国测试的合格精子捐赠者的比例也出现了显著下降，从 2001 年的 56% 减少到 2015 年的 18%。
+➜惠普重新成为最大 PC 制造商
+https://www.solidot.org/story?sid=53082	38968
+根据<a href="https://www.idc.com/getdoc.jsp?containerId=prUS42882717" target="_blank"><u> IDC</u></a> 和 <a href="http://www.gartner.com/newsroom/id/3759964" target="_blank"><u>Gartner</u></a> 的数据，惠普超过联想<a href="http://cn.wsj.com/gb/20170713/tec092843.asp" target="_blank"><u>重新成为</u></a>全球最大的 PC 制造商。联想是在 2013 年击败惠普成为全球最大 PC 制造商，现屈居第二，之后是戴尔、苹果和华硕。全球的 PC 销量再次同比下降，Gartner 报告下降 4.3%，IDC 报告下降 3.3%，IDC 的统计包括 Chromebook 和一些其它设备。Gartner 称，这是 PC 行业连续第 11 个季度同比销量下降，总销量为 2007 年以来最低的一个季度。IDC 表示，Chromebook 在教育市场需求强劲。
+➜贫困如何影响大脑
+https://www.solidot.org/story?sid=53083	43233
+1960 年代，一个研究小组在危地马拉农村家庭开展了补充营养的实验，测试一项假说：生命早期提供足够的蛋白质能降低发育不良。实验成功了。得到补充营养的儿童比对照组高 1 到 2 厘米。2000 年代初研究人员的后续跟踪调查发现，得到营养补充的儿童进入青少年时期后其阅读和知识测试的得分更高。获得营养补充的女性完成了更长时间的教育，男性获得了更高的收入。危地马拉研究之后，世界其它地方的研究也都显示，贫困或发育不良与较差的认知测试得分和学校表现相关联。<a href="https://www.nature.com/news/how-poverty-affects-the-brain-1.22280" target="_blank"><u>更多的研究提供了更多的相关证据</u></a>：例如一项对 2 到 3 个月大的儿童大脑的磁共振成像显示，发育迟缓的儿童的脑区域更小。
+➜AI 创造假的奥巴马
+https://www.solidot.org/story?sid=53084	45239
+<div align="center"><img src="http://img.solidot.org/0/378/liWNUZi7pn9MQ.jpg" height="300" width="400" align=""><br>
+</div>
+<br>
+华盛顿大学的计算机科学家使用 AI 软件利用现有的音频和视频<a href="http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-creates-fake-obama" target="_blank"><u>创造出了美国前总统奥巴马逼真的假视频</u></a>。研究人员称，<a href="http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf" target="_blank"><u>这项工作</u></a>（PDF）未来可用于为虚拟现实或增强现实生成人的数字模型。科学家此前已经证明他们可以根据互联网上收集的照片创造出任何人的数字分身，在最新研究选择奥巴马是因为在公共领域有大量奥巴马的高清视频可供分析。研究团队的神经网络分析了数百万帧的奥巴马视频，判断奥巴马在说话时其脸部元素是如何运动的，如嘴唇、牙齿，嘴唇和下巴周围的皱纹。神经网络根据海量的数据掌握了与不同声音相关联的嘴形。研究人员承认他们生成的视频和模型都还不够完美。<br>
+<br>
+<center>
+<iframe src="https://www.youtube.com/embed/MVBe6_o4cMI?ecver=2" allowfullscreen="" height="288" frameborder="0" width="512"></iframe></center>
+➜研究发现中国人最“勤快”
+https://www.solidot.org/story?sid=53085	46531
+<div align="center"><img src="http://img.solidot.org/0/379/liD5m1Q4a3QA.png" height="225" width="450" align=""><br>
+</div>
+<br>
+斯坦福大学的研究人员分析了使用 <a href="http://www.azumio.com/s/argus/index.html" target="_blank"><u>Argus</u></a> 活动跟踪应用的 70 多万用户的匿名步行数据，获得了世界不同地区用户的活动量概况。结果显示，平均而言中国用户的活动量最大，印尼最低。<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature23018.html" target="_blank"><u>研究报告</u></a>发表在《自然》期刊上。<a href="http://www.bbc.com/zhongwen/simp/science-40585999" target="_blank"><u>数据显示</u></a>香港用户活动量最大，每日平均步行数高达 6880，而全球平均步行数是 4961，印度尼西亚用户的每日平均步行数为 3513。研究发现，从步伐的差距得出的"活动量不平等"可用于判断肥胖率，一个地区活动量不平等数据越大，肥胖症的比率就越大。比如美国和墨西哥的每日平均步行数大致相等，但美国活动量的不平等数据要大得多，肥胖症率也更高。研究人员还发现，方便步行有助于降低肥胖症率。

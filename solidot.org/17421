@@ -1,0 +1,45 @@
+➜Google 公布 Chrome 不信任赛门铁克证书的时间表
+https://www.solidot.org/story?sid=53799	10281
+因为发现赛门铁克签发了大量有问题的证书，Google 官方博客<a href="https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html" target="_blank"><u>公布了</u></a> Chrome 浏览器不信任赛门铁克证书的时间表：<i>2017 年 10 月发布的 Chrome 62 将在 DevTools 中加入对即将不受信任的赛门铁克证书的警告；2017 年 12 月 1 日，DigiCert 将接手赛门铁克的证书签发业务；2018 年 4 月 17 日发布的 Chrome 66 将不信任 2016 年 6 月 1 日之前签发的证书；2018 年 10 月 23 日发布的 Chrome 70 将停止信任赛门铁克的旧证书。受影响的赛门铁克 CA 品牌包括 Thawte、VeriSign、Equifax、GeoTrust 和 RapidSSL，几个独立运作密钥不受赛门铁克控制的次级 CA 得到了<a href="https://chromium.googlesource.com/chromium/src/+/master/net/data/ssl/symantec/README.md" target="_blank"><u>豁免</u></a>，其中包括了苹果和 Google。Google 建议使用赛门铁克证书的网站及时更新到受信任证书。</i>
+➜美国借助私企加快开发太空
+https://www.solidot.org/story?sid=53800	11848
+美国私营企业<a href="http://cn.nikkei.com/industry/scienceatechnology/26791-2017-09-11-04-51-10.html" target="_blank"><u>正在加速推进太空开发</u></a>。继发射火箭和小行星探测等业务之后，美国企业着眼于商业化太空旅行，民间的技术和资金也开始在空间站开发领域活跃。与冷战时期前苏联一样不计成本的开发不同，美国希望通过民间力量提高开发投资效率，甩开中国等竞争对手。NASA 近期决定延长 Bigelow Aerospace 为国际空间站安装的伸缩式模块的耐久度试验。国际空间站预计将在 2028 年结束运营，民间的开发竞争会更加激烈。民营企业加速参与太空开发的背景是火箭发射价格的降低。主导了 “价格跳水” 的是初创企业 Space X。
+➜学者指控 Google 试图专利公有领域技术
+https://www.solidot.org/story?sid=53801	14199
+一名波兰学者<a href="https://yro.slashdot.org/story/17/09/11/1953251/google-accused-of-trying-to-patent-public-domain-technology" target="_blank"><u>指控</u></a> Google 试图专利名为“非对称数字系统（ANS）”的公有领域技术。波兰助理教授 Jarosław (Jarek) Duda 在 2006 年到 2013 年之间开发了这项技术，早在 2007 年他就在 arXiv 上发表了<a href="https://arxiv.org/abs/0710.3861" target="_blank"><u>一篇为 ANS 奠定基础的论文</u></a>，2009 年他正式发表了 <a href="https://arxiv.org/abs/0902.0271" target="_blank"><u>ANS 论文</u></a>，2013 年他发表了在压缩算法中运用 ANS 的<a href="https://arxiv.org/abs/1311.2540" target="_blank"><u>论文</u></a>。如今， Duda 的 ANS 技术已被多种数据压缩系统采用，包括苹果的 LZFSE、Facebook 的 Zstandard 和 Google 的 Draco 3D。ANS 技术以最小化数据损失提供了更快的解压缩速度。由于 ANS 的潜力，多家企业试图专利这项技术，其中之一就是搜索巨人。Google 在一百多个国家申请了 ANS 相关专利。Duda 称他在公有领域发表所有的 ANS 论文就是为了防止它变成法律雷区。他指出，Google 知道他的工作，他<a href="https://groups.google.com/a/webmproject.org/forum/#!topic/codec-devel/idezdUoV1yY" target="_blank"><u>甚至帮助</u></a> Google 雇员为视频文件压缩实现 ANS。他请求 USPTO 和 WIPO 拒绝 Google 的专利申请。Google 尚未对此发表评论。<br>
+➜iOS 11 将禁止政府在没有密码的情况下镜像设备
+https://www.solidot.org/story?sid=53802	16736
+评估 iOS 11 早期版本的安全专家称，<a href="https://arstechnica.com/tech-policy/2017/09/its-about-to-get-tougher-for-cops-border-agents-to-get-at-your-iphones-data/" target="_blank"><u>苹果加强了隐私保护功能</u></a>，禁止执法机构在没有密码的情况下镜像设备。iOS 11 的另一个隐私保护功能是按电源键五次后可选择关闭 Touch ID。当 iOS 设备连接到电脑时，它会弹出是否信任这台计算机的提示，然后还要求输入密码。这意味着执法部门和边检将无法像以前那样访问被扣押设备的完整镜像。乔治华盛顿大学法学教授 Orin Kerr 认为，政府仍然能手动搜索手机，但将会更困难。
+➜VoIP 为什么至今仍属于灰色地带
+https://www.solidot.org/story?sid=53803	19784
+上周 WePhone 创始人苏享茂遭前妻勒索或者有说法是骗婚再勒索而自杀一事引爆了社交媒体，无数人都在争论程序员太天真连明显的骗局都看不出来。根据苏享茂发表在 Google+ 上的<a href="https://plus.google.com/105466345106369942933/posts/EyGTws89Rzu" target="_blank"><u>遗言</u></a>，前妻发出了两大威胁：其一是他偷税——中国的高税负使得偷税漏税是个极其普遍的现象；以及 <a href="http://wephoneapp.com/download.jsp" target="_blank"><u>WePhone</u></a> 这个 VoIP 服务是灰色运营——这确实是一个令人感到不解的问题：VoIP 为什么至今仍属于灰色地带？WePhone 服务本质上和 Skype 一样，Skype 在中国的落地<a href="https://zh.wikipedia.org/wiki/Skype#.E4.B8.AD.E5.9B.BD.E6.9C.8D.E5.8A.A1" target="_blank"><u>依赖于</u></a>国有运营商，最早是 TOM-Skype 如今则是光明方正。在一个语音甚至视频信息可以随时发送的时代，中国监管机构限制发展 VoIP 的理由已经完全站不住脚了。媒体几年前就呼吁<a href="http://tech.ifeng.com/telecom/special/voip/" target="_blank"><u>解禁</u></a> VoIP，但攸关垄断性国企的利益使得它至今没有动机去改变现状。另外，WePhone 的开发商写的是“创新工场（Innovation Works）”，但不清楚究竟和创新工场有什么关系，这家公司还开发过<a href="https://itunes.apple.com/us/app/vpn-dash-fast-stable-vpn/id1046342310?mt=8" target="_blank"><u>一款 VPN 服务</u></a>。
+➜Yelp 指控 Google 违反了 2012 年反垄断和解
+https://www.solidot.org/story?sid=53804	27388
+Google 在 2012 年与 FTC 达成了和解，承诺不抓取选择退出的第三方网站的照片和用户评价。Yelp 目前是 Google 的主要批评者，该公司<a href="https://www.wsj.com/articles/google-rival-yelp-claims-search-giant-broke-promise-made-to-regulators-1505167498" target="_blank"><u>指控 Google 违反了承诺</u></a>，抓取了其网站上的内容，并将其应用于多种旗下产品，包括搜索结果中的本地企业名录。Yelp 就此致函了 FTC 主席、欧盟竞争负责人、国会议员和各州首席检察官。Yelp 称它已经退出了 Google 爬虫的抓取，但最近它的调查发现，Google 爬虫在一小时内 386,000 次从其服务器上抓取图像，并将其作为搜索结果中的企业照片。FTC 曾表示将会惩罚违反和解的企业。
+➜PETA 放弃了给予动物知识产权的诉讼
+https://www.solidot.org/story?sid=53805	28546
+<div align="center"><img src="http://img.solidot.org/0/498/liVcs9Hm1ZiCU.jpg" width="300" height="415" align=""><br>
+<br>
+</div>
+2011 年，印度尼西亚国家公园的猴子  Naruto 在玩耍摄影师 David Slater 的相机时按动相机快门拍了多张著名的自拍照。David Slater 声称拥有这些自拍照的版权，未经许可不能擅自使用。善待动物组织 PETA 代表 Naruto 起诉摄影师，认为他才是版权侵犯者。2016 年，旧金山地区法官驳回了诉讼，<a href="http://www.solidot.org/story?sid=46800" target="_blank"><u>认为</u></a>猴子不拥有它的自拍照版权。PETA 随后提起上诉，认为  Naruto 有权拥有知识产权。本周一，PETA 与 Slater <a href="https://arstechnica.com/tech-policy/2017/09/well-likely-never-know-if-monkeys-may-copyright-their-selfies/#p3" target="_blank"><u>达成了和解</u></a>，放弃了诉讼。作为和解的一部分，Slater 同意将四分之一的自拍照销售收入捐赠给 Naruto 的栖息地。
+➜锵锵三人行宣布停播
+https://www.solidot.org/story?sid=53806	29659
+凤凰卫视中文台的著名谈话节目锵锵三人行通过其官方微博发表了<a href="http://weibo.com/1683936900/FlrWMpTBk?from=page_1002061683936900_profile&amp;wvr=6&amp;mod=weibotime" target="_blank"><u>一份简短声明</u></a>，“因公司节目调整，锵锵暂时停播，感谢大家多年厚爱，后会有期。”今年 6 月，广电总局曾下发通知，要求新浪微博、ACFUN 站和凤凰网关停视听服务和全面整改，凤凰网<a href="http://www.solidot.org/story?sid=53072" target="_blank"><u>随后</u></a>从其网站下架了锵锵三人行。这应该是该节目最终停播的前兆。<a href="https://zh.wikipedia.org/wiki/%E9%94%B5%E9%94%B5%E4%B8%89%E4%BA%BA%E8%A1%8C" target="_blank"><u>锵锵三人行</u></a>开播于 1998 年 4 月，主持人为窦文涛，至今已有 19 年历史。
+➜研究人员将二氧化碳变成酒精
+https://www.solidot.org/story?sid=53807	31341
+荷兰代尔夫特理工大学的博士生 Ming Ma 找到了方法利用二氧化碳去<a href="https://phys.org/news/2017-09-alcohol-thin-air.html" target="_blank"><u>产生出各种有用的产品</u></a>，其中包括酒精。Ming Ma 将在本周进行博士答辩。他的方法是在二氧化碳的电还原过程使用不同的金属纳米线，如使用铜纳米线产生碳氢化合物，用纳米多孔银产生一氧化碳。他发现，通过改变纳米线的长度和电势，能够对这一过程进行精确控制。通过调整这些条件，他能产生出任何碳基产品。
+➜Linus Torvalds 想要攻击者在转向黑暗面前加入 Linux
+https://www.solidot.org/story?sid=53808	33841
+在洛杉矶举行的开源峰会上，Linus Torvalds <a href="http://www.eweek.com/enterprise-apps/linus-torvalds-wants-attackers-to-join-linux-kernel-development" target="_blank"><u>谈论了</u></a> Linux 的安全、开发和协作。最近开源项目  Struts 的漏洞被指是  Equifax 数据泄露事件的根源，Linux 基金会执行董事 Jim Zemlin 请 Torvalds 谈谈 Linux 安全现状。Torvalds 称不存在绝对安全的概念，即使工作做到尽善尽美，也总是会有 bug 存在。他表示，Linux kernel 有多种安全检查去帮助识别漏洞，包括静态分析和模糊测试。他称在安全上已经取得了很多进步。Torvalds 同时表示对攻击 Linux 代码的人的才能留下了深刻印象。他希望这些聪明的人能站在他们这一边，在他们走向黑暗面前为 Linux 内核工作，帮助改进安全。
+➜小鼠在睡眠时大脑重放恐怖记忆
+https://www.solidot.org/story?sid=53809	38212
+根据发表在《Nature Neuroscience》期刊上的<a href="http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4637.html?foxtrotcallback=true" target="_blank"><u>一篇论文</u></a>，小鼠在睡眠时大脑<a href="https://www.newscientist.com/article/2146881-rat-brains-seen-replaying-scary-memories-as-they-sleep/" target="_blank"><u>会重放</u></a>清醒时的恐怖记忆。研究人员认为这或许能解释为何有过受惊吓经历的人通常会在随后做噩梦。对小鼠大脑神经活动的记录显示，它们在睡眠重放记忆，在回忆到受惊吓地点时神经活动会变得更活跃。研究人员<a href="http://news.sciencenet.cn/htmlnews/2017/9/387896.shtm" target="_blank"><u>表示</u></a>，目前尚不明确小鼠是否以做梦的形式经历这种情绪的回放。他认为，如果相同的事情发生在人类身上，可能也会带来噩梦。
+➜洋葱如何让你流泪
+https://www.solidot.org/story?sid=53810	40329
+洋葱让我们流泪是因为<a href="https://cn.nytstyle.com/science/20170912/onions-crying-chemicals/" target="_blank"><u>它会释放一种叫催泪因子的化学物质</u></a>，刺激我们的眼睛。单纯只是剥开一个洋葱并不会让我们流泪。但是如果你去剁、切、捣或压它，洋葱的细胞会裂开，让两种通常分开的物质混合起来，成为一种类似催泪瓦斯的强大化学武器。催泪因子是作为一种防御机制演化而来的，它能让洋葱抵抗微生物和我们这样的动物的侵袭。破坏一个洋葱实际上就是导致它开始防御：随着细胞破裂，化学反应被激活。在一个完好的洋葱细胞内，一种被称为次磺酸前体的分子在填充液里漂着。在细胞质里还漂着一种叫“液泡”的囊，里面装着一种叫蒜酶的蛋白质。两者本来是分开的，但破坏细胞将两者混合起来变成了化学武器。
+➜cURL 作者谈后门
+https://www.solidot.org/story?sid=53811	42396
+Daniel Stenberg 开发的 cURL 是一个用于文件传输的开源库和命令行工具，被广泛应用于各种计算平台。想象一下，这样一个广泛使用的工具如果被加入后门？Stenberg <a href="https://daniel.haxx.se/blog/2017/09/12/the-backdoor-threat/" target="_blank"><u>称他被经常被问到这个问题</u></a>，他表示从未观察到蓄意试着加入漏洞或后门的情况，有补丁会在几年后发现引入了安全问题，但不存在蓄意之说。当然他的话你可以不相信，但 cURL 是一个开源软件，如果你不相信可以检查你下载的代码，或从已经检查过代码的可信来源获得代码。Stenberg 称每一个正式版本他都用 GPG 签名，即便提供下载的服务器遭到了入侵，攻击者也不可能复制签名。风险在于用户从非官方来源下载了已预先构建好的 cURL。他个人保证 cURL 没有后门，他是瑞典人，住在瑞典，美国的机构没有合法权力强迫他加入后门，而瑞典的类似机构也没有合法权力施压他加入后门。cURL 项目诞生近二十年来只发现约 70 个安全漏洞，大部分都是编程错误引发的，他确定这些问题都不是有意引入的。
+➜墨西哥致命大地震发生在板块内部
+https://www.solidot.org/story?sid=53813	46312
+9 月 7 日，墨西哥南部海岸发生了 <a href="https://en.wikipedia.org/wiki/2017_Chiapas_earthquake" target="_blank"><u>M8.2 级地震</u></a>，至今已造成 96 人死亡，数百人受伤。如此规模的大地震通常发生在板块之间的俯冲带。但这一次墨西哥大地震不同寻常之处是<a href="http://www.nature.com/news/deadly-mexico-earthquake-had-unusual-cause-1.22586" target="_blank"><u>它发生在科科斯板块（Cocos Plate）内部</u></a>，美国地质勘探局称，地震原因是板块内部的弯曲而不是发生在与北美洲板块的交界处。地震学家 Jascha Polet 称板块内部的断裂一般不会产生如此等级的地震，她表示现在对地震规模如此大的原因下结论为时过早。

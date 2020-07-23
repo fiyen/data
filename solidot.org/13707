@@ -1,0 +1,37 @@
+➜ubuntu 社区正式推出 Goubuntu
+https://www.solidot.org/story?sid=3284	4680
+<a href="mailto:Minhao.Dong@gmail.com">Minhao.Dong</a> 写道 "盛传已久的 <a href="http://www.markshuttleworth.com/archives/130">Goubuntu</a> 终于正式登场了，与网上流传的 google 版 ubuntu 不同， Goubuntu 其实是 Gnu 版。它和 ubuntu 的主要区别是，不包含商业硬件驱动。这个版本将会在 Gutsy Gibon 发布同期发布。现在您可以在<a href="http://cdimage.ubuntu.com/gobuntu/daily/current/">这里</a>下载。"
+➜Linux平台下的英文写作工具
+https://www.solidot.org/story?sid=3285	19380
+英语是我国的第二语言（ESL，English as Second language），很多人都比较畏惧英语写作。在Windows平台我们可以借助M$ Word和大名鼎鼎的金山词霸来检查拼写和语法错误。Linux平台则只有AbiWord 或Openoffice，但都并不完美。<a href="http://blog.youxu.info/2007/07/11/some-useful-tools-for-you-to-write-english-articles-on-linux/#comments">这里搜集了几个开源辅助工具来帮助大家提高英文写作和程序编写</a>。<i>
+1.<a href="http://aspell.net/">GNU Aspel</a>：开源拼写检查工具，支持对源代码、脚本注解、TeX文件和html语言的拼写检查。<br>
+2.<a href="http://www.gnu.org/software/diction/diction.html">GNU diction</a>：源自AT&amp;T UNIX，是一个基于规则的检查程序。<br>
+3.GNU Style：包含在GNU diction软件包中，能根据一些众所周知的指标评价文章的可读性，是提高英文写作能力的极好工具。<br>
+4.<a href="http://www.languagetool.org/">LanguageTool</a>：基于Java的开源工具，支持包括英语在内的多种语言。"</i>
+最后一句话，学习英语没有捷径，多写多读多实践。
+➜索尼起诉Rootkit软件制作公司
+https://www.solidot.org/story?sid=3286	21120
+Sony BMG音乐娱乐公司正在起诉<a href="http://www.hollywoodreporter.com/hr/content_display/business/news/e3i214c26acb62c59b679bbbc3594def806">为它们的CD光盘开发反盗版程序的制作公司</a>。索尼声称软件存在缺陷，引发了公众的强烈不满，为了平息用户的抱怨和随之而来政府调查，公司花去了数百万美元。这个有问题的软件就是MediaMax CD保护系统，被指责为是植入系统底层的恶意程序（rootkit）。Sony BMG要求这家Phoenix技术公司支付1200万美元的赔偿金。
+➜苹果收购CUPS
+https://www.solidot.org/story?sid=3287	26940
+著名的多平台（BSD，Unix，OS X，Linux）开源打印程序<a href="http://www.cups.org/">CUPS</a>已被苹果收购。苹果公司<a href="http://www.cups.org/articles.php?L475">在今年2月获得了源代码的所有权</a>，并雇佣了主要开发者Michael R. Sweet。Sweet表示：“CUPS仍然会在现有的GPL2/LGPL2许可协议下发布，我会在苹果公司继续开发和为CUPS提供支持。”Sweet没有透露收购细节，甚至没有提及商标的转让。
+➜开源软件发现者（Discovery）
+https://www.solidot.org/story?sid=3288	27060
+许多人安装软件都是随潮流，并不清楚自己使用了哪类软件。信息安全公司OpenLogic开发了一款叫“发现者”（Discovery）的应用程序，能扫描Windows，Linux，和Solaris平台上的各种软件，并<a href="http://www.technewsworld.com/story/Ii1JS8M09VIsnm/Scan-Spots-Open-Source-Installations.xhtml">识别出哪些属于开源软件</a>。Discovery程序号称能鉴别900种最流行的开源程序及其的5000多种变种。扫描引擎能确定开源程序是直接安装还是被捆绑在另一个程序中，OpenLogic的销售副总裁Kim Weins说“我们开发它的目的是为了让顾客了解他们使用了多少开源软件”。必须提供私人信息（姓名、email、地址）才能<a href="http://www.openlogic.com/discovery/new_download_register.php?ls=">下载</a>。
+➜世界上最快的家用宽带——40 Gbps
+https://www.solidot.org/story?sid=3289	29940
+住在瑞典中部城市Karlstad的一位75岁的老奶奶<a href="http://www.thelocal.se/7869/20070712/">正在使用令人羡慕的40Gbps网络连接</a>——世界上最快的家用宽带。Sigbritt Löthberg是瑞典互联网传奇人物Peter L thberg的老妈，儿子用他老妈来证明光纤网络可以在考虑成本的基础上提供尽可能快的宽带连接。以前从没拥有过电脑的Sigbritt，现在能够同时收看1500个高清HDTV电视频道或者在两秒内下载一部高清晰度电影。Sigbritt能拥有如此高速的互联网连接的秘密在于使用了新的调制技术，能允许数据在相距2000公里的两个路由器之间直接传输，无需中继设备。思科公司参与了这一项目，而整个项目最困难的部分是“在老奶奶的电脑上安装Windows操作系统”。
+➜E3游戏展: Konami之《寂静岭5》
+https://www.solidot.org/story?sid=3290	51420
+Konami的新闻发布会<a href="http://blog.wired.com/games/2007/07/liveblogging--3.html">简短但充满惊喜</a>，首次<a href="http://blogs.mercurynews.com/aei/2007/07/konami_unveils_silent_hill_5.html">揭开了《寂静岭5》神秘面纱</a>。游戏相关内容并没有泄露多少，主要是公开了一个<a href="http://www.gametrailers.com/player/21611.html">忽悠人的视频</a>。<i>
+《寂静岭5》(Silent Hill 5）仍然延续以往的游戏氛围，将带给玩家新的恐怖体验。玩家将在Silent Hill和Shepherds Glen再次遭遇众多噩梦般的生物和邪恶的化身。游戏的战斗系统得到了加强，在黑暗的世界里，玩家需要解决一系列谜题，根据线索揭开寂静岭背后的秘密。这个世界仍一如既往的黑暗，游戏的音效和音乐延续之前的风格，依旧由著名的设计师Akira Yamaoka打造。"</i>
+➜帮助天文学家对星系进行分类
+https://www.solidot.org/story?sid=3291	70260
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "天文学家现在正在邀请公众共同参与一项旨在对一百万个星系进行分类的计划. 访问 <a href="http://www.galaxyzoo.org/">www.galaxyzoo.org</a> 即可在欣赏这些美丽星系照片的同时帮助天文学家对这些星系进行分类. 这些照片中的大部分从未被人眼检视过, 你可能成为第一个看见这些照片的人.
+<i>为什么需要你的帮助?
+简单来说就是人脑在图形识别方面要比电脑好得多。电脑算得比你快，但是识别这些图形就做得很烂，结果可能很搞笑。 为了救救这些有趣的系统，有你的帮助会很好。</i>
+先<a href="http://www.galaxyzoo.org/Register.aspx">注册</a>,然后开始你的分类吧。
+"
+➜再见了PHP4
+https://www.solidot.org/story?sid=3292	74220
+kempson 写道 "php.net宣布<a href="http://www.php.net/archive/2007.php">PHP4的支持将于今年年末结束</a>。<br>自PHP5发布以来的三年里PHP有了很大的提升，快速而且稳定。PHP6的开发已经提上日程，而PHP4则将会停止。在2008-08-08之前还是会有一些基本的bug修复的。PHP的团队提醒用户在跟着的一年里把应用迁移到PHP5上去，并且提供了一些<a href="http://www.php.net/manual/en/migration5.php">迁移指导</a>。"

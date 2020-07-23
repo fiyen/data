@@ -1,0 +1,54 @@
+➜三星折叠式手机起售价 1980 美元
+https://www.solidot.org/story?sid=59631	10281
+<div align="center"><img src="//img.solidot.org/0/823/liRYtXwn6QVYg.png" width="500" height="259" align=""><br>
+</div>
+<br>
+在旧金山举行的新闻发布会上，三星宣布了新一代旗舰手机 Galaxy S10、Galaxy S10 Plus 和 Galaxy S10E，起售价分别为 $899.99、$999.99 和 $750。但发布会最亮眼明星<a href="https://arstechnica.com/gadgets/2019/02/samsungs-foldable-phone-is-finally-official-meet-the-galaxy-fold/" target="_blank"><u>则是</u></a>三星的首款折叠式手机 Galaxy Fold，北美起售价 1980 美元，将于 4 月 26 日发售，中国版价格和上市日期未知，<a href="https://www.samsung.com/cn/smartphones/galaxy-fold"><u>三星官网</u></a>没有提供任何信息。Galaxy Fold 折叠时显示屏幕为 4.6 英寸 21:9 分辨率1960x840，展开时则为 7.3 英寸 4.2:3 分辨率 2152x1536，它配备了高通 Snapdragon 855 处理器，7 纳米工艺，12GB 内存，512GB UFS 3.0 固态存储，电池容量 4380mAh，6 个摄像头分辨率从 8MP 到 16MP，其中自拍镜头分辨率 10MP，还有一个  8MP RGB 深度镜头。这款产品支持显然是一款奢侈品。
+➜WinRAR 曝出有 14 年历史的代码执行漏洞
+https://www.solidot.org/story?sid=59632	14235
+如果你还在使用解压缩软件 WinRAR，那么现在是时候更新它了。WinRAR <a href="https://arstechnica.com/information-technology/2019/02/nasty-code-execution-bug-in-winrar-threatened-millions-of-users-for-14-years/" target="_blank"><u>曝出了</u></a>一个有 14 年历史的代码执行漏洞，存在于第三方库 UNACEV2.DLL 中，它从 2005 年起就没有再更新过了。WinRAR 开发者无法访问该库的源代码，因此<a href="https://www.win-rar.com/singlenewsview.html?&amp;tx_ttnews%5Btt_news%5D=111&amp;cHash=f03654bc7001a6bfae3a5204c153ba4e" target="_blank"><u>修复方法</u></a>是移除它，停止对 ACE 文档格式的支持。安全公司 Check Point Software 的研究人员在 UNACEV2.DLL 的过滤函数中<a href="https://research.checkpoint.com/extracting-code-execution-from-winrar/" target="_blank"><u>发现了一个漏洞</u></a>，允许将代码提取到 Windows 启动文件夹，在 Windows 重启之后执行。这个代码执行漏洞在 UNACEV2 创建之后就已经存在，至今已有 14 年历史。
+➜中国再次暂停游戏版号申请
+https://www.solidot.org/story?sid=59633	16647
+负责游戏版号审批的监管机构国家新闻出版广电总局<a href="http://www.ftchinese.com/story/001081554" target="_blank"><u>再次暂停了版号申请</u></a>，去年由于机构重组版号审批搁置了 9 个月，积压了数千款有待审批的游戏，这次暂停预计又将会影响中国这个最大游戏市场的增长。官媒援引监管机构的话表示申请程序正在 “调整”。中国游戏行业高管表示，他们预计未来会有更严格的游戏审查程序。去年，北京方面批评孩子们花在游戏上的时间太多，促使企业推出限制玩游戏时间的系统。根据行业组织伽马数据 (CNG) 的数据，即便如此，中国的视频游戏市场去年继续增长，其中移动游戏营收增长 15%，至 1340 亿元人民币。
+➜Microsoft Edge 浏览器允许 Facebook 运行 Flash 代码
+https://www.solidot.org/story?sid=59634	18703
+Microsoft Edge 浏览器包含了一个<a href="https://www.zdnet.com/article/microsoft-edge-lets-facebook-run-flash-code-behind-users-backs/"><u>秘密的白名单</u></a>，允许 Facebook 运行 Adobe Flash 代码。白名单允许  Facebook 的 Flash 内容绕过 Edge 的安全功能，比如点击后才激活。白名单已经存在了一段时间，在 2018 年 2 月前，它包含了<a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1722"><u> 58 个条目</u></a>，其中包括微软主站子站域名，MSN，音乐流媒体 Deezer，雅虎，以及腾讯的 QQ、华数 TV、斗鱼、4433、PPTV、bilibili 等。在 Google 安全研究人员 报告白名单机制存在安全问题之后，白名单中的条目数量缩小到 2 个：facebook.com 和 apps.facebook.com。
+➜湖南官员因购买和传播禁书等行为被双开
+https://www.solidot.org/story?sid=59635	18841
+<a href="/~读者">读者</a> 写道 "湖南省纪委监委微信公众号三湘风纪2月21日发表<a href="https://mp.weixin.qq.com/s?__biz=MzI5ODEzODkyMw==&amp;mid=2651030827&amp;idx=1&amp;sn=087893fd4cc851b9e95a2a9a86e45a5c&amp;chksm=f75d496fc02ac079f8fbd487555a8b90323a47c64ec0d714aa2e0548db1a0c0f934b5432da17&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;pass_ticket=hhJCygxwchAnzB1aP7Eya1SLQExoTUZx6k5K1xGA%2FJ4%3D#rd" target="_blank">文章</a>，称长沙市天心区原区长谢进因购买污蔑党内容书刊等行为被双开。
+<i>
+“经查，谢进违反政治纪律，指使他人为其从境外购买诋毁、污蔑党和国家领导人等内容的书刊并向外传播，与他人串供和转移、隐匿涉案财物，对抗组织审查；违反中央八项规定精神，接受他人安排的旅游活动；违反组织纪律，不如实填报个人档案资料；违反廉洁纪律，收受礼金，利用职权为亲属谋取利益；违反群众纪律，纵容涉黑涉恶活动，为黑恶势力充当“保护伞”；违反生活纪律；利用职务上的便利为他人谋取利益并收受财物，数额特别巨大，涉嫌受贿犯罪。依据《中国共产党纪律处分条例》《中华人民共和国监察法》等有关规定，经省纪委常委会会议研究并报省委批准，决定给予谢进开除党籍、开除公职处分；将其涉嫌受贿犯罪问题移送检察机关依法审查起诉，所涉财物随案移送。”
+"</i>
+➜基于 Git 的社交网络原型 gitgeist
+https://www.solidot.org/story?sid=59636	25341
+gitgeist 是基于 Git 的<a href="https://www.karimyaghmour.com/blog/2019/02/gitgeist-a-git-based-social-network-proof-of-concept.html"><u>实验性社交网络原型</u></a>，使用 Git 作为存储后端和传输协议，帖子和评论都储存在一个 Git 库内。项目的<a href="https://github.com/opersys/gitgeist-poc" target="_blank"><u>源代码</u></a>托管在 GitHub 上，采用 Apache License 2.0 许可证。开发者希望能听取反馈，然后决定如何推进。开发者称，他们发现 Git 几乎拥有社交网络存储和协议所需要的一切东西，Git 作为一个版本控制协议已被广泛使用，可以很好的扩展，作为社交网络它缺少的东西处理起来也不难。
+➜中国之后马来西亚成为最大塑料垃圾进口国
+https://www.solidot.org/story?sid=59637	27139
+中国拒绝再进口洋垃圾，结果是马来西亚成为塑料垃圾的<a href="https://www.bbc.com/zhongwen/simp/world-47243267"><u>最大进口国</u></a>。仅仅从 2018 年 1 月到 7 月，就有 75.4 万吨塑料垃圾进口到马来西亚。最简单的垃圾处理方法是焚烧，但不经处理的焚烧会产生有害物质，焚烧垃圾带来的健康危害也越来越多的影响当地居民。这种问题中国存在过，现在马来西亚也体验到了。当地人认为，非法塑料回收业很难杜绝，除非全面禁止进口塑料垃圾。然而，在马来西亚政府考虑到塑料垃圾进口和回收带来的潜在经济利益，全面禁止塑料垃圾进口似乎是不太可能的。
+➜英国网络安全主管认为华为风险可控
+https://www.solidot.org/story?sid=59638	27647
+英国网络安全主管马丁(Ciaran Martin）在布鲁塞尔举行的 CyberSec 会议<a href="http://www.ftchinese.com/story/001081553"><u>表示</u></a>，他有信心认为，如果部长级官员们决定让华为参与未来的 5G 网络，英国网络安全部门可以管控这家中国电信设备制造商构成的任何风险。马丁列出了所有电信供应商都需要实施的三个先决条件，以确保未来的 5G 网络在网络攻击面前安全。这些条件包括 “5G 供应商市场的可持续多元化”，这意味着英国不应该只依赖一家供应商。但他也重申了英国向华为发出的警告：如果该公司未来要继续被允许向英国的电信运营商供应设备，它需要改进其网络安全标准和软件工程。他说，“我们的工作是确保政府能够有信心认为，无论它做出什么决定，都会有一套行之有效的技术框架和一个知道自己在做什么的有力国家主管当局。”
+➜计算机生成的人脸越来越逼真
+https://www.solidot.org/story?sid=59639	33866
+计算机生成的虚假人脸越来越逼真，越来越<a href="https://techcrunch.cn/2019/02/21/can-you-guess-which-face-is-real-and-which-is-computer-generated/"><u>难以区分真假</u></a>。<a href="https://thispersondoesnotexist.com/" target="_blank"><u>ThisPersonDoesNotExist </u></a>本周又火了一把，该网站后端的机器可以每隔几秒钟生成一张新人脸。此外，网络上还有一个生成虚假猫咪的网站：<a href="https://thiscatdoesnotexist.com/" target="_blank"><u>ThisCatDoesNotExist</u></a>。现在，这被做成了<a href="http://www.whichfaceisreal.com/" target="_blank"><u>一款游戏</u></a>，让你判断面前的人脸是真人的还是由计算机生成的。这些网站和游戏全都建立在同一项研究成果的基础上，即由英伟达公司一支团队最近开源的 StyleGAN 算法。这个算法让两个神经网络相互对抗：一个试图生成虚假人脸图像，同时另一个试图将虚假图像标记出来。现阶段辨别人脸图像的真假还是有可能做到的。
+➜海王星第 14 颗卫星获得确认
+https://www.solidot.org/story?sid=59640	36002
+根据发表在《自然》期刊上的<a href="https://www.nature.com/articles/s41586-019-0909-9.epdf?referrer_access_token=bbJ2mFCZvqiguyQLLgleX9RgN0jAjWel9jnR3ZoTv0MSCEqYPEDwAfdF-kCjp0pTOBaWoocarH7iQ4YrhCNek_hbfxNXaWOz7Oods3dIviaIenR7VoBgdbH6gNp3DmU3XJ1IyyYyFmEzQMe6b4d_5QNzwfBOELnojIEH7JCybYBTqJfdnETtxRY1dRCXhvHQZ-An9H5IXEGN5nsKREV9M6k41uAviqAmrtAC2o1fVZCIwHBVha7NWmBAcWM_QTUS7ndRN0yd6iu3XKBV4vQdnH1gFbXbth7C63CGZqYYVCCBXGkJ9dtCsNdHElt7s5wc-nhGlSfE_GXNpiQdacYKXg%3D%3D&amp;tracking_referrer=www.usatoday.com"><u>一项研究</u></a>，科学家<a href="https://www.usatoday.com/story/news/nation/2019/02/20/neptune-new-moon-hippocamp-discovered-using-hubble-space-telescope/2926292002/" target="_blank"><u>确认了</u></a>海王星的第 14 颗卫星。这颗卫星以希腊神话中的神兽海马 Hippocamp 的名字命名，是海王星最小的卫星，直径只有 34 公里。Hippocamp 的轨道接近海王星最大的内圈卫星 Proteus，海王星最大卫星 Triton 在外圈。研究认为，海王星的七颗内圈卫星都是与彗星碰撞后形成的，Hippocamp 也不例外。Hippocamp 因为太小直到最近才被发现。
+➜小米否认其手机将推行 APP 白名单
+https://www.solidot.org/story?sid=59641	41005
+中国社交网络最近的一个传言称，小米手机将进入 App 白名单时代，称有小米内部人员透露今后国行版的小米手机的系统将不开放 root 权限和刷机，并且在 App 白名单制度之下，用户将无法安装任何未经过认证的 App。消息称，目前小米已经在内部测试相关机制，并预计 3 月上线，并且通过系列手段强制用户升级。小米集团公关总经理徐洁云<a href="https://tech.sina.com.cn/mobile/n/n/2019-02-21/doc-ihrfqzka7826646.shtml"><u>对此予以否认</u></a>，但没有明确澄清，比如是全部为谣言还是一部分是谣言。
+➜全球智能手机销售停滞
+https://www.solidot.org/story?sid=59642	42267
+<div align="center"><img src="//img.solidot.org/0/824/lium96yzsMkbg.png" width="500" height="249" align=""><br>
+</div>
+<br>
+Gartner 发布的<a href="https://www.gartner.com/en/newsroom/press-releases/gartner-says-global-smartphone-sales-stalled-in-the-fourth-quart"><u>数据</u></a>显示，全球智能手机销量在 2018 年第四季<a href="https://cn.reuters.com/article/gartner-2018-q4-phone-sales-0221-idCNKCS1QA1AM?il=0"><u>停滞不前</u></a>，按年仅增长 0.1%。其中苹果手机销量按年跌 11.8%，为自 2016 年首季以来最大季度跌幅，而华为手机销量则在全球五大智能手机厂商中实现最强的增长，全年计其市占率增至 13%，逼近苹果的 13.4%。Gartner 的数据显示，去年第四季全球智能手机销量为 4.08 亿，三星电子市占率 17.3% 继续排行全球第一，第二位及第三位分别为苹果及华为，市占率分别 15.8% 及 14.8%。
+➜CERN 重新构建 1990 年的浏览器
+https://www.solidot.org/story?sid=59643	45083
+为了纪念 WorldWideWeb 三十周年，CERN 的一组研究人员<a href="https://www.zdnet.com/article/cerns-world-first-browser-reborn-now-you-can-browse-like-its-1990/"><u>重建</u></a>了 <a href="https://worldwideweb.cern.ch/browser/" target="_blank"><u>WorldWideWeb 浏览器</u></a>(模拟器)，让你可以像 1990 年那样上网浏览。WorldWideWeb 浏览器是 Tim Berners-Lee 爵士在 1990 年构建的，他在 1989 年 3 月写下了初步构想，提议为 CERN 创建一个 Mesh 或全球超文本系统，后来这一系统被称为 World Wide Web。系统旨在解决 CERN 高流失率和技术变换所带来的信息丢失问题。Berners-Lee 预言未来十年全世界也将面临同样的问题。除了浏览器，Berners-Lee 还设计了第一个网页服务器 httpd。
+➜基因疗法逆转小鼠的先天耳聋
+https://www.solidot.org/story?sid=59644	45960
+根据发表在 PNAS 期刊上的<a href="https://www.pnas.org/content/early/2019/02/14/1817537116"><u>一项研究</u></a>，一个国际团队利用基因疗法<a href="https://medicalxpress.com/news/2019-02-gene-therapy-durably-reverses-congenital.html" target="_blank"><u>逆转了</u></a>小鼠的先天耳聋。DFNB9 耳聋是一种常见的先天性遗传性耳聋，因为缺乏编码耳畸蛋白（otoferlin）的基因，患有 DFNB9 耳聋的人严重失聪。该蛋白是听觉感觉细胞突触传递声音信息所必要的蛋白质。通过对成年 DFNB9 小鼠模型耳蜗内注射该基因，科学家<a href="http://www.ebiotrade.com/newsf/2019-2/2019220184625808.htm" target="_blank"><u>成功地</u></a>将听觉突触功能和听觉阈值恢复到了接近正常水平，为将来耳聋基因治疗试验开辟了新道路。
+➜Steam 独自推动 Linux 游戏前进
+https://www.solidot.org/story?sid=59645	48042
+游戏开发商很少会专门为 Linux 平台开发 Linux 游戏，因为他们都认识到 Linux 并不是一个有利可图的平台，销售收入少之又少。Super Meat Boy Forever 作者 Tommy Refenes 称他的游戏在不同平台的销售收入从高到低排序分别是：Windows、Xbox、Playstation 4、Switch、Mac、Playstation Vita、WiiU、商品销售、NVidia Shield、银行利息，最后才轮到 Linux。去年推出的游戏商店 Epic Games 就完全略过了 Linux 平台。过去几年 Linux 游戏之所以出现了大幅增长，事实上主要是最大 PC 数字游戏平台<a href="https://www.engadget.com/2019/02/19/linux-gaming-steam-valve-epic-games-store/"><u> Steam 及其社区推动的</u></a>。游戏行业尚未对此作出反应，如果 Linux 兼容游戏数量的增长最终能促使更多 Linux 原生版本的出现，那么无疑所有人将能从中受益。

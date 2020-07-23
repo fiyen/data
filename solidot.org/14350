@@ -1,0 +1,112 @@
+➜Intel将合作开发GCC
+https://www.solidot.org/story?sid=10834	60
+三位Intel开发者开始参与<a href="http://www.h-online.com/open/Intel-wants-to-co-develop-the-GCC--/news/113065">GCC编译器的开发</a>。到目前为止，加入<a href="http://gcc.gnu.org/">GCC</a>开发队伍的芯片制造商有AMD等，Intel之前主要专注于自家的<a href="http://software.intel.com/en-us/intel-compilers/">Intel Compiler Collection</a>编译器。<i>
+大企业参加开源项目开发并不稀奇，IBM有多位雇员全职参与Linux kernel和硬件驱动的编程工作。Intel也已经向X.org项目捐赠代码，并维护着基于Atom平台的<a href="http://moblin.org/">Moblin</a> Linux发行版。三位开发者之一的Melanie Blower已经<a href="http://gcc.gnu.org/ml/gcc/2009-04/msg00336.html">发送邮件</a>给自由软件基金会(FSF)要求相关的版权转让格式。除了GCC之外，Melanie还计划参与binutils，gdb(GNU debugger)和glibc(GNU C library)的开发，她的编程经历可上溯到ADA语言。</i>
+➜万年时钟的工作进展
+https://www.solidot.org/story?sid=10836	6300
+<a href="http://en.wikipedia.org/wiki/Long_Now_Foundation">Long Now Foundation</a>（今日永存基金会）成立于1996年，其目的是传承人类文明，创造“更慢/更好”的思想体系应对今日流行的“更快/更廉价”的心态，它的主要项目包括建造能保证1万年时间精确度的机械时钟，和保存人类文化的<a href="__SLASHLINK__" sect="science" sid="08/08/26/105229" sn="article" tid="62">现代罗塞塔石碑计划</a>。万年时钟正在内华达州建造，它被认为是艺术、科学和工程的杰出试验，CNET公布了一些时钟组成部分的<a href="http://news.cnet.com/2300-11386_3-10000718.html">精彩图片</a>，非常值得一看。以下引用Delcam网站对万年时钟的<a href="http://www.delcam.com.cn/news/mar3_06.htm">介绍</a>：<i>
+“万年钟的二进制数字-机械计时器系统，通过将正午的太阳“相位锁定”来进行自动纠正时间误差，能够在一万年内保持精确的时间不变。但是，由于地球转轴的倾斜，围绕太阳公转的轨道为椭圆形，以及月球和其他行星的影响，因此太阳日的长短一直在不断地变化。工程师兼基金会董事Danny Hillis先生设计出了时钟与真实太阳时的自动调校机构，该机构是通过等时机械凸轮的作用，对当地正午、日出和日落之间关系的时间等差的精确记录，自动调校不同日期所反应的时间等差。最终的万年钟整体高度达到30英尺，完成后将会被放置在美国内华达州的一个石灰悬崖峭壁上，其内部的等时凸轮大约有5英尺高。
+”</i>
+➜IE6死后即将大快人心的10件事
+https://www.solidot.org/story?sid=10837	7320
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "很多人以为IE6已经死了，也许只有设计师这样认为，现实世界中IE6的使用者大有人在，不过不会维持很久，IE8已经推出，微软对IE8的推广不遗余力，同时，<a href="http://arstechnica.com/open-source/news/2009/03/firefox-3-marketshare-exceeds-internet-explorer-7-in-europe.ars">不少人从IE转到别的浏览器</a>，总有一天，IE6会被弃之如敝履，没有人愿意再提起，那时，有10件事会大快人心。           <strong>1、使用 CSS 2  的 child 选择器</strong>
+<br> <br>不必再写一大堆规则在某个对象的子对象中筛选，CSS2 的子选择器（<a href="http://www.w3.org/TR/CSS21/selector.html#child-selectors">child selectors</a>）可以选择某个对象下直接的子对象。
+<br> <br> <strong>2、放心使用 24 位 PNG 图片（透明不再是问题）</strong>
+<br> <br>不必象以前那样在不同背景方案下设计不同的图片边缘反锯齿方案，使用 PNG 的  Alpha 通道，我们可以用图片实现阴影，眩光以及透明效果。
+<br> <br> <strong>3、使用属性选择器</strong>
+<br> <br>不必再写类似 input class="text" /&gt; 一类的代码，告诉浏览器当前输入框使用什么式样类，<a href="http://www.w3.org/TR/CSS21/selector.html#attribute-selectors">CSS2可以直接选择 HTML 对象的属性</a>，如 input[type="text"]，我们甚至可以使用 <a href="http://www.w3.org/TR/css3-selectors/#attribute-substrings">CSS3 的子字符串匹配属性选择器</a>，匹配我们希望选取的对象，可以在那些使用类似 CSS 类的地方大大减少代码量。
+<br> <br> <strong>4、可以使用更多 display 类型</strong>
+<br> <br>可以使用类似 display:inline-block 的代码，这样就不会再出现嵌套的 float:left 一类的混乱，也不必再举棋不定地使用 overflow:hidden 一类的定义。（不过要等到 Firefox 3  出来）
+<br> <br> <strong>5、使用 min-width 和 max-width </strong>
+<br> <br>尽管 IE6 对 width 的实现很接近正确的 <a href="http://www.w3.org/TR/CSS21/visudet.html#min-max-widths">min-width</a>，但总是不一样。而且没有涉及到 max-width，随着 IE6 的消失，一种新的基于 block 的布局方式将复兴，这种布局将更加灵活。
+<br> <br> <strong>6、扔掉90%的 CSS Hack</strong>
+<br> <br>不必再担心诸如<a href="http://www.positioniseverything.net/explorer/dup-characters.html">幽灵字符</a>，<a href="http://www.positioniseverything.net/explorer/peekaboo.html">神秘消失的 block</a>，以及<a href="http://www.positioniseverything.net/explorer/doubled-margin.html">令人沮丧的双 margin</a> 一类的 BUG，也不必再为这些 BUG 写专门的 Hack。
+<br> <br> <strong>7、大胆使用缩写(abbr&gt;)标签</strong>
+<br> <br>尽管不是人人用得着这个标签。
+<br> <br> <strong>8、可以大胆相信 z-index 了</strong>
+<br> <br>不必再为层间错误的堆叠次序抓耳挠腮，我们并没做错什么，这是<a href="http://therealcrisp.xs4all.nl/meuk/IE-zindexbug.html">IE6堆叠BUG</a>引起的。
+<br> <br> <strong>9、省钱省时间</strong>
+<br> <br>那些 IE6 Hack 花了我们不少时间和成本。
+<br> <br> <strong>10、再次找回 Web  设计的快乐。</strong>
+<br> <br>写 CSS 将是一种快乐，因为浏览器会按照你想的样子来，不过 IE7 什么时候消失？
+<br> <br>
+有三件事，我们还得等等（直到IE7消失）
+<br> <br> <strong>1、使用  CSS 计数器</strong>
+<br> <br>我们不必再使用那个不被推荐的 start 属性。
+<br> <br>
+<strong>2、使用 <tt>box-sizing</tt> 属性</strong>
+<br> <br>CSS3 的 <a href="http://www.w3.org/TR/css3-ui/#box-sizing">box-sizing</a> 在 IE8和其他浏览器都可以使用，最终，我们可以自行选择使用哪种 box 模型。
+<br> <br> <strong>3、改进的 JavaScript </strong>
+<br> <br>对 javaScript 我们还有很多改进的空间，一个简单的事件监听机制，对合并后的 CSS 属性的获取（可靠的获取），这些 IE7 还有很多缺陷。IE8 对 JavaScript 引擎做了较大的改进。
+<br> <br>IE6 具体消失的日子还很难讲，尤其国内，至少要留出时间让我们的几大银行重新编写 ActiveX 吧 - 译者。
+<br> <br> <strong>延伸阅读</strong>
+<p> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K703.aspx">别了，亲爱的 IE6</a>
+</p> <p> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K673.aspx">DIV + CSS 神话</a>
+</p> <p> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K297.aspx">2002年以来的浏览器市场演义</a>
+<br> <br>本文国际来源：<a href="http://www.sitepoint.com/blogs/2009/04/14/10-cool-things-well-be-able-to-do-once-ie6-is-dead/">http://www.sitepoint.com/blogs/2009/04/14/10-cool-things-well-be-able-to-do-once-ie6-is-dead/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"</p>
+➜世界PC出货量下滑7.1%
+https://www.solidot.org/story?sid=10838	9600
+由于反复无常的经济，PC用户们也捂紧口袋减少消费，推迟购买新电脑。<i>
+IDC刚刚公布了2009年第一季度<a href="http://www.osnews.com/story/21316/Worldwide_PC_Shipments_Decline_But_Less_Than_Anticipated">全世界的PC出货量</a>：6350万台，下降7.1%，但低于之前预期的8.2%。IDC认为该结果是一个“好迹象”，因为上网本而引发的电脑价格下降和新涌现PC买家。Intel CEO Paul Otellini声称他相信2009年第一季度是PC市场的最低潮，之后销量将会恢复到正常水平。但由于不确定的经济，该公司拒绝作出财政方面的预言。IDC的数据显示全世界五大PC制造商位置基本维持不变：惠普占据20.5%的份额，紧随其后的是戴尔的13.6%，宏基的11.6%，联想的7%和东芝的5.4%。在美国市场苹果占7.6%。</i>
+➜男子建造能Tweet放屁的椅子
+https://www.solidot.org/story?sid=10839	11400
+有人喜欢在Twitter上分享各种趣闻和小道消息，也有人喜欢分享个人生活的点点滴滴，事无巨细，包括放屁。<i>
+Randy Sarafan建造了<a href="http://i.gizmodo.com/5211135/man-builds-chair-that-tweets-his-farts-single+handedly-justifies-twitters-existence">能Tweet放屁的椅子</a>，他决定让办公椅帮助“精确记录和分享生活中发生的事”，办公椅上安装的设备包括：一个气体传感器，一个Arduino微型控制器，一个Squidbee无线模块，可以与Twitter通信。如果你想知道他何时放屁，可以follow他的<a href="http://twitter.com/officechair">tweet</a>(follow数已经接近2900)。如果你也想DIY一个类似的椅子，Sarafan把该项目开源了，<a href="http://www.instructables.com/id/The-Twittering-Office-Chair/">详细指南</a>已经公布在网上。</i>
+➜老人因被禁止使用投石机而遭窃
+https://www.solidot.org/story?sid=10840	13320
+古怪商人Joe Weston-Webb建造了一台<a href="http://www.telegraph.co.uk/news/newstopics/politics/lawandorder/5153343/Businessman-burgled-after-being-banned-from-using-giant-catapult.html">巨大的30英尺长的投石机</a>，发射的武器不是石头而是动物粪便如鸡屎，他造投石机的原因是家中屡次遭窃，所以他打算用投石机去捍卫个人财产。<i>
+然而当地警方认为投石机不是“正当防卫”武器，禁止他使用，结果这位71岁老人的工作间又一次成为小偷光顾的目标：切割设备、等离子电视、笔记本电脑和其它货物被一扫而空。损失估计有1万英镑，Weston-Webb先生称他的私人闭路电视记录到有人闯入，但投石机由于被禁止使用而没有准备妥当。他说“太荒谬了，在这种情况下我们却无法保卫自己”，他威胁要打破禁令，启用鸡屎投石机。当地警方发言人称当面临外来威胁时，法律允许公民正当防卫，但是正当武力必须与威胁成比例。设置陷阱不在法律可许范围内。</i>
+➜新数据中心将向周围住宅供热
+https://www.solidot.org/story?sid=10841	16560
+伦敦新的Telehouse West数据中心内的数千服务器产生的废热不久之后将用于<a href="http://www.datacenterknowledge.com/archives/2009/04/15/telehouse-to-heat-homes-at-docklands/">向附近的住宅和商店供热</a>。大伦敦市政府已经批准了这项计划，服务器等设备的废热将在当地的供热网络中循环利用。该项目预计将为当地社区提供9百万瓦能量，并能减少Telehouse West二氧化碳排放1110吨。数据中心投资达1.8亿美元。
+➜你的情绪由生活环境决定？
+https://www.solidot.org/story?sid=10842	21600
+美国疾病控制中心在6月份的《美国预防医学杂志》上发表了一份<a href="http://www.ajpm-online.net/webfiles/images/journals/amepre/AMEPRE_2473.pdf">研究报告</a>（PDF），指出地理环境<a href="http://science.slashdot.org/article.pl?sid=09/04/15/2220210&amp;from=rss">对人的情绪有重要影响</a>。<i>
+研究人员首先定义频繁精神损害（ Frequent Mental Distress，简称FMD）为一个月内有压力，沮丧等坏情绪的天数超过14天，他们综合了1993-2001和2003-2006之间疾病控制和预防中心的两次全国性调查数据，总共240万被调查者遍及全美50个州的3100多个县。研究人员发现总体而言有9.4%人面临FMD苦恼，最快乐的地方是夏威夷，FMD是6.6%；最痛苦的地方是肯塔基州，FMD为14.4%。其它坏情绪的地方是西弗吉尼亚州（第一次调查9.6%，第二次14.9%），密西西比（9.4%，13.7%）。</i>
+➜百度竞价排名让养猪大户遭遇竞价无底洞
+https://www.solidot.org/story?sid=10843	23280
+百度说要送<a href="http://blog.donews.com/keso/archive/2009/03/13/1476912.aspx">互联网下乡</a>，结果送的是它颇受争议的竞价排名，让种田大户，养猪大户们体验到过山车式的竞价和金钱之间的比拼。
+<i>
+《21世纪经济报道》的<a href="http://www.21cbh.com/HTML/2009-4-16/HTML_6AMVX885CQRI.html">一篇文章</a>（更新：该文已被删除）称，猪市的竞价排名关键字价格如过山车般起伏，苦了那些养猪大户。观察人士称，一群江苏宿迁的猪场老板们正在百度的竞价排名广告业务中上演着惨烈的价格战。“每次点击最高价格达100元，每次点击就会把半只猪仔的钱转移给百度。”这并不是赚到钱后的广告投资，而是初涉网络营销的不成熟举动....记者采访的几家猪场老板中，所有的人在声称别人赚到了钱的同时，却都在表示搜索广告对自己无效。那么，谁真的赚到钱了？</i>
+➜如何建造开源SSL加速器
+https://www.solidot.org/story?sid=10844	25680
+<a href="http://zh.wikipedia.org/wiki/SSL">SSL</a>是提供安全保密的互联网通讯协议，对HTTP请求的敏感数据等传输进行加密。如果会话、加密和解密过程都由Web Server处理的话，会给服务器造成极大的负担，因此SSL加速器硬件就应运而生，采用额外的硬件去执行SSL通讯，减少CPU负荷。但目前一些公司提供的SSL加速器非常昂贵，如F5 Networks的Big-IP 6900售价高达5万美元。<i>
+John Buswell介绍了如何创建<a href="http://www.o3magazine.com/4/a/0/2.html">开源SSL加速器</a>，软件方面是Linux，发行版可以选择Ubuntu Server、CentOS或Fedora Core，主要的应用程序是开源web server Nginx(Engine-X)。硬件方式是2个AMD Opteron 2380 2.5GHz四核处理器，Intel Server Gigabit NIC，32GB内存，价格只需5千美元。它能处理超过26,590次TPS，而Big-IP 6900最大只能处理25,000次TPS。</i>
+➜宇宙也许并没有特意为生命而调整
+https://www.solidot.org/story?sid=10845	28200
+<a href="http://zh.wikipedia.org/wiki/%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86">人择原理</a>认为我们宇宙中的物理法则恰好能允许复杂的生命如人类能诞生。科学家们都惊讶于物理法则的均衡，声称任何微小的改变都可能导致生命不可能存在。但问题是为什么宇宙特意为生命而调整？没有人能提出一个合理的答案，直到现在特拉华大学的科学家James MacDonald和Dermott Mullan提出的一个<a href="http://www.technologyreview.com/blog/arxiv/23377/">值得关注的论点</a>：<i>
+他们的论点是围绕<a href="http://zh.wikipedia.org/wiki/%E5%BC%B7%E6%A0%B8%E5%8A%9B">强核力</a>（或强力）。有些科学家指出如果强力略微再强一点，那么质子就能更容易的结合在一块。这意味着大爆炸之后，会有更多的质子结合形成双质子，只剩下很小的单质子去形成氢。因此如人类这般的碳化合物将不复存在。但这个推理未能考虑其它几点因素。其中最大的因素是质子和中子的结合比质子和质子的结合更牢固，不管强力究竟有多强，双质子最终会衰减为氘核。所以在一个强核力更强的宇宙中氢化合物最后可能与我们的宇宙相似。MacDonald和Mullan认为其实我们的宇宙并不特殊，它并没有特别的为生命定制打造。</i>
+<a href="http://arxiv.org/abs/0904.1807">预印本</a>
+➜世界上最大规模的民主选举开始
+https://www.solidot.org/story?sid=10846	30000
+《卫报》<a href="http://www.guardian.co.uk/world/2009/apr/16/indian-election-congress-polling">报道</a>（<a href="http://news.xinhuanet.com/world/2009-04/16/content_11192064.htm">新华网</a>）：
+<i>从4月16日到5月13日这28天内，印度7.14亿选民在25万警察的维护下将展开历史上最大规模的民主投票。选举相关的数字如下：610万选举服务人员，828000个投票站——任何选民距离投票箱距离都在2公里之内，136.8万电子投票机，200万瓶墨水——用于在选民手指上做标记，防止重复投票。21世纪网评论说——<a href="http://www.21cbh.com/HTML/2009-4-13/HTML_N2RB62FLQ86M.html">选举不意味着民主</a>，声称印度重要人物都不相信民主。</i>
+➜Cinder移动操作系统允许用户控制电力
+https://www.solidot.org/story?sid=10847	32700
+斯坦福大学研究人员<a href="http://www.networkworld.com/news/2009/041409-stanfords-cinder-os-tightens-mobile.html">正在设计一种全新的操作系统</a>，能控制移动设备的电力和满足安全方面的需求。助理教授Philip Levis称，Cinder操作系统已运行在Arm芯片上，研究人员正设法让它能在HTC G1手机上工作。<i>
+Levis称，以Linux为例，它不是为移动平台而是为更大的桌面平台设计的，移动和桌面是完全不同的。Cinder专门为移动平台打造，不用考虑向后兼容，拥有许多独特的特性。如果一个应用程序的运行速度满足不了用户需求，基于Cinder的手机包括了一个按钮，让用户能向该应用程序分配更多电能。Cinder操作系统还能允许用户下载任何代码，在沙盒模式下安全的运行它们。</i>
+➜Twitter/Home页面的边栏链接：广告否？
+https://www.solidot.org/story?sid=10848	34200
+<a href="http://www.iwanyo.cn/">Sheik</a> 写道 "昨天登录<a href="http://twitter.com/">Twitter</a>的时候，发现在Home页面上的头像下多了一个Tweet Deck的链接，还有介绍“<em>n.</em> a powerful dashboard for Twitter and more.”。当时好奇点了这个链接，但是并没仔细查看，权当是Twitter在推广Apps（<a href="http://www.iwanyo.cn/post/413.html">截图请点此处</a>）。今天看了Read/WriteWeb的<a href="http://www.readwriteweb.com/archives/ads_come_to_twitter.php">Ads Come to Twitter (Updated)</a> 这篇文章之后，忽的想起Twitter要打广告的传闻也不是一两天的事呢！虽然<a href="http://twitter.com/twitter/status/1529726961">Twitter方面表示</a>“Sponsored definition”的出现只是一个bug，他们是不会在边栏放置proms的。这就有点此地无银三百两了。           优秀的<a href="http://www.iwanyo.cn/catalog.asp?tags=Twitter+Apps">Twitter Apps</a>那么多，为什么偏偏推荐这几个？就是雷锋叔叔，他也不会免费帮人做推广的吧~
+<br> <br>不过这种“广告”（只能加引号了，人家毕竟没有正名）还是挺有意思的，有点wikipedia的味道。
+<br> <br>还有就是它只在用户登陆后，才显示在Home页面的边栏，其他时候是见不到的。这个就有点点奇怪了，要是打广告的话当然是希望越多的人看到咯，囧ing…
+<br> <br>偶小小的留意了下，目前出现Tweet Deck这个位置的twitter应用还有：Stock Twits、Widg·et、Twit·ter·rif·ic（没考证过这些应用是否付费，有闲情逸致的童鞋可以取探探）。"
+➜美国能源部长支持“清洁煤”
+https://www.solidot.org/story?sid=10849	36000
+《华尔街日报》<a href="http://online.wsj.com/article/SB123913664020498157.html">报道</a>（<a href="http://www.chinanews.com.cn/hr/mzhrxw/news/2009/04-09/1637859.shtml">中文</a>），美国能源部长朱棣文<a href="http://hardware.slashdot.org/article.pl?sid=09/04/15/1859241">支持清洁煤技术和研究</a>，在煤炭这一能源供应来源上他采取了务实的做法。然而几个月前朱部长却站在了完全相反的立场上，声称煤炭是“<a href="http://blogs.wsj.com/environmentalcapital/2008/12/11/steven-chu-coal-is-my-worst-nightmare/">我最大的噩梦</a>”。
+<i>
+朱棣文称，美国对进一步开发洁净碳减少碳排放量非常有必要，因为“我们并不是生活在一个真空的环境中”。他说，“坦率地说，我对美国是否真的能够停止大规模使用煤炭还有疑问，因为煤炭发电占美国电力资源的一半以上”，“即使美国和欧洲停止使用煤炭，印度和中国也不会停止。”美国拥有世界上<a href="http://en.wikipedia.org/wiki/Coal#World_coal_reserves">最大的煤炭储存量</a>（俄罗斯其次，中国第三，印度第四）。</i>
+➜中国妇女突然死亡，俄罗斯隔离火车乘客
+https://www.solidot.org/story?sid=10850	38520
+法新社<a href="http://www.physorg.com/news159039415.html">报道</a>，当一位中国妇女突然因一神秘疾病在火车上死亡之后，俄罗斯官方隔离了53位乘客，封锁了火车。女子死亡的原因目前并不清楚。<i>
+当地政府发表声明，与这位女子接触的乘客都已经疏散到医院感染病房内，声明称考虑到中华人民共和国的流行病情况，他们将采取一切可能措施避免传播感染。一些报道称这位妇女可能死于SARS，但当地卫生部门称这一判断为时过早。“女孩的猝死原因尚不清楚，她可能死于心脏病，或其它疾病。”当地政府确认女子是中国公民，生于1985年。中国驻莫斯科大使馆表示它没有批准尸检。</i>
+➜Cooliris更新支持Linux令Firefox变媒体中心
+https://www.solidot.org/story?sid=10851	49800
+<a href="http://szlug.org/">权相龙</a> 写道 <i>"
+浏览图片和视频的浏览器扩展Cooliris<a href="http://www.readwriteweb.com/archives/cooliris_comes_to_linux_becomes_more_awesome.php">带来一系列更新</a>，包括支持浏览本地媒体文件，文件特殊元数据，和显示用户标签的Facebook图片浏览。更大的变化是，<a href="http://www.cooliris.com/">Cooliris</a>第一次支持Linux。
+Cooliris原名PicLens，是用在浏览器上的一个免费插件。使用它在浏览有大量图片的网站(如Picasa, flickr, Google图片搜索等)时，让你的浏览器能变成漂亮的full screen slideshow。
+现在，不论是Windows，Mac OS还是Linux用户，都可以在Cooliris的3D媒体墙上浏览本地的图片和视频。"</i>
+➜摩尔多瓦Twitter革命者躲避政府搜捕
+https://www.solidot.org/story?sid=10852	51360
+Natalia Morar，摩尔多瓦激进分子，她使用Twitter和短消息组织了一场声势浩大的<a href="__SLASHLINK__" sect="internet" sid="09/04/08/1046203" sn="article" tid="48">反政府游行示威</a>，在政府控告她犯有“组织大规模骚乱”罪行之后<a href="http://blog.wired.com/defense/2009/04/moldovas-twitte.html">开始四处躲藏</a>。<i>
+Morar告诉《卫报》，为了躲避逮捕，她每隔几天就换一个地方，称政府正在监视她的家和她母亲的家，“他们没有搜查证就进入我的房间，如果他们找到我就会逮捕我——之后会发生什么没人知道。由于担心被追踪，我不再使用手机，已经两天没有上线。”她的<a href="http://natmorar.livejournal.com/">livejournal博客</a>已经停止更新，最新一篇是她丈夫执笔的。</i>

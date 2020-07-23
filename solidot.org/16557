@@ -1,0 +1,23 @@
+➜微软“牛津项目”给你的软件插上4个翅膀
+https://www.solidot.org/story?sid=43919	8504
+<a href="/~mtjs">mtjs</a> 写道 "微软在美国时间4月29日推出了“<a href="https://www.projectoxford.ai/" target="_blank">牛津项目</a>” - 基于<a href="https://en.wikipedia.org/wiki/Representational_state_transfer#Example" target="_blank">REST架构</a>的API和SDK扩展包
+，这些扩展包将帮助开发者创建智能应用程序，主要表现在四个方面：<i>
+<p>&nbsp;1，面部识别，能够对图像中的人进行性别年龄判断和在不同图片中对人脸匹配判
+断是否是同一人。&nbsp;</p>
+<p>2，图像视觉，能够对图像中的内容进行判断、归类（男人、女人、花草、动物等
+）能够智能对图像中主要内容形成各种规格概略图像，还具有自动OCR功能。&nbsp;</p>
+<p>3，语音交流，包括语音形成文字，和文字转换为语音，语音形成文字支持中文（
+普通话）、英文等语言，文字转化为语音这个就比较普通了，中文支持中、港、台三方。&nbsp;</p>
+<p>4，语意理解，让软件明白用户提出的要求是什么，该功能使用了LUIS
+（Language Understanding Intelligent Service ），目前只支持邀请注册使用，在注册时你还要给出三个你希望软件明白的命令作为附加。&nbsp;</p>
+<p>以上1、2、3项都可以<a href="https://www.projectoxford.ai/sdk" target="_blank">直接下载</a>相关的SDK和文档。微软推出该项目是希望开发者能够利用这些工具包较轻松的开发出具有高智能表现的应用程序，我试用了一下
+网站的DEMO，效果还是不错的，要玩这个你要有Visual Studio 2013开发环境、.NET4.5平台和C#语言能力，操作系统要求是Windows 8 (Windows Server 2012)及更高版本。"</i>
+➜OpenBSD 5.7发布
+https://www.solidot.org/story?sid=43920	46140
+<a target="_blank" href="http://www.openbsd.org/57.html"><u>OpenBSD 5.7</u></a>于5月1日释出，发布主题曲是《<a target="_blank" href="http://www.openbsd.org/lyrics.html#57"><u>Source Fish</u></a>》。 主要新变化包括：用自己开发的httpd server替代nginx httpd server，新的管理守护进程/服务的控制工具rcctl(8)，USB 3.0支持，等等。软件方面的变化包括：OpenSMTPD 5.4.4，OpenSSH，6.8，LibreSSL，mandoc 1.13.3，Chromium 40.0.2214.115/Mozilla Firefox 31.4.0esr 和35.0.1  ，Node.js 0.10.35 ，Emacs 21.4和24.4 ，GCC 4.8.4和4.9.2 ，等等。详细变化可查看<a target="_blank" href="http://www.openbsd.org/plus57.html"><u>changelog</u></a>。
+➜微软将Clang带到Windows
+https://www.solidot.org/story?sid=43921	50106
+微软的集成开发工具现在支持使用Clang构建Android和iOS应用。Clang是LLVM的编译器前端。微软的Jim Radigan在Build大会上<a target="_blank" href="http://channel9.msdn.com/events/Build/2015/3-610"><u>演示了这一功能</u></a>：Clang作为前端，微软的编译器C2作为后端替代LLVM。微软认为，C++开发者将会受益于Visual Studio的新功能，大量代码将可以在多平台上共用，而Visual Studio有望成为C++开发者跨平台开发的单一编译器。
+➜因为作者是女性PLoS One拒绝了一篇研究性别偏见的论文
+https://www.solidot.org/story?sid=43922	52131
+彭博社<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-04-30/academic-journal-tells-female-scientists-work-with-a-man-if-you-want-to-get-published"><u>报道</u></a>，PLoS One拒绝了一篇研究性别偏见的论文，一个理由是两位女作者没有向男性研究人员寻求帮忙。<a target="_blank" href="http://www.sussex.ac.uk/profiles/317225"><u>Fiona Ingleby</u></a>和<a target="_blank" href="http://meganlhead.weebly.com/"><u>Megan Head</u></a>博士向PLoS One递交了一篇研究博士后工作机会中的性别差异问题。一位男性论文评审人员给出了拒绝的建议，认为她们应该找一个男性合著者以避免“假定的意识形态偏见”。这位评审者还阐述了他对于男女研究人员的看法，他认为女性论文发表的比较少的原因是——平均而言男性的论文质量确实更好，而这一现象背后的一个简单解释是男性每周工作的时间更长，因为他们在健康和体力上略好于女性，就像男博士生比女博士生平均跑步速度更快。两位女研究人员对男评审者的看法表达了震惊，她们向PLoS One提出了上诉。PLoS One昨天<a target="_blank" href="http://blogs.plos.org/everyone/2015/05/01/plos-one-update-peer-review-investigation/"><u>发表声明</u></a>，宣布论文手稿已发给新的编辑重新进行评审，要求处理这篇论文的编辑辞职。

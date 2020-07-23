@@ -1,0 +1,29 @@
+➜维基媒体基金会项目更改授权方式
+https://www.solidot.org/story?sid=4564	1740
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "由<a href="wikimediafoundation.org">维基媒体基金会</a> (WMF) 所负责的大部分工程，包括 Wikipedia，Wikibooks，Wikisource，Wiktionary，Wikispecies 和 Wikiversity，之前通常使用的版权协议是 <a href="http://www.gnu.org/licenses/fdl.html">GNU 自由文档许可证。</a>
+<i>
+GNU 自由文档许可证之前一直是 Wikipedia 使用的版权许可协议。然而 WMF 认为 GNU FDL 并非最适用的许可协议，因为其并非为 WMF 工程的目的所设计。
+<br>
+一个替代方案是采用创作共用协议。由于目前 GNU FDL 与 CC 协议不兼容，因此 WMF 发布了一项决议声明，声明指出维基媒体基金会与<a href="http://www.fsf.org/">自由软件基金会</a>以及<a href="http://creativecommons.org/">创作共用组织</a>一起寻找解决方案。WMF 工程的版权将改变为 ``<a href="http://creativecommons.org/licenses/by-sa/2.0/deed.zh">创造共用署名-相同方式共享 (CC-BY-SA)</a>''。
+</i>
+<a href="https://groups.google.com/group/zh_wikipedia/msg/8e30fb265ba1d67b">更详细的内容</a>。"
+➜BBC创造'Perl on Rails'
+https://www.solidot.org/story?sid=4565	3900
+长期以来BBC网站是由静态页面构成，即在内部编写HTML，然后用FTP上传到服务器，额外的互动及其它功能用Perl脚本创建。BBC的流量非常大，这套系统有很多优点，也有许多不利之处。开发者在寻找一个动态页面方案，用Perl搭建一个MVC（Model-View-Controller，模型—视图—控制器模式）框架。他们采用了Ruby on Rail，一个高效的开发工具。他们将两者综合在一起，创造了<a href="http://www.bbc.co.uk/blogs/radiolabs/2007/11/perl_on_rails.shtml">Perl on Rails</a>。这里有一个使用这项技术的<a href="http://www.bbc.co.uk/programmes/">示范网站</a>，最终它将被用来创建备受争议的视频播放网站iPlayer。
+➜MTV提供《南方公园》免费下载
+https://www.solidot.org/story?sid=4566	7500
+维亚康姆((Viacom)旗下最大的公司MTV Networks，宣布计划让每一部《南方公园》系列<a href="http://tech.blorge.com/Structure:%20/2007/11/30/mtv-to-cut-down-on-p2p-piracy-by-offering-free-south-park-downloads/">成人动画免费观看和下载</a>，以吸引更多的受众。MTV的决定是基于“The Daily Show with Jon Stewart”的成功。从10月份开始“Daily Show”提供在线观看后，电视观众不降反升。目前计划中的《南方公园》网站<a href="http://www.southparkstudios.com/">SouthParkStudios.com</a>，还没有开始上传完整剧集。不知道提供在线观看<a href="http://www.southparkzone.com/">southparkzone.com</a>与MTV有什么关系？
+➜超小型节能Linux PC
+https://www.solidot.org/story?sid=4567	13800
+<a href="mailto:digitalpiglee@gmail.com">DigitalPig</a> 写道 "<a href="http://www.gadgettastic.com/2007/11/29/tiny-linux-pc-uses-just-18-watts-power-can-be-solar-powered-the-aleutia-e1/">这里</a>是最新的Aleutia E1迷你Linux计算机。
+它的一些基本的配置是200MHz x86 CPU, 128MB内存，2GB闪存卡，三个USB2.0接口，一个以太网接口，一个VGA显示器接口（分辨率可以达到1280*1024)，尺寸11.5cm(宽）×11.5cm（长）×3.5cm（高），预装Puppy Linux操作系统值得注意的是它的小巧体型和极低的能耗(8瓦)
+此种计算机可以从Aleutia网站购买 价格是199镑 (约合 400美元)."
+➜天才儿童的秘密是努力
+https://www.solidot.org/story?sid=4568	18000
+《科学美国人》上的一篇文章描述了一项长达30多年的<a href="http://www.sciam.com/article.cfm?id=the-secret-to-raising-smart-kids&amp;print=true">儿童智能相关研究</a>，指出过分强调智力或才能会让人们更容易面临失败，畏惧挑战，或不愿意改正缺点。“我们的社会崇拜天才，猜想许多人获得成功的原因就是他们超常的智力和对能力的信心。事实上，当孩子通过简单问题的考验，受到父母赞扬时候，一个危险的观念正在他们大脑中形成。孩子会得到暗示，智力是天生的或固定的，他们会认为努力不会让他们变得更聪明。因此当他们遭遇挑战、错误，需要努力解决问题时就可能会退缩。他们会失去信心，甚至未来的工作上也会如此。尤其是当把成绩差归因于无能而非不努力，这种做法应该受到谴责。”<a href="http://science.slashdot.org/article.pl?sid=07/11/29/0631258">心理学家研究人类动机</a>，将学生分成两组做了实验，一组学生犯下的错误被批评为“没有努力”，另一组则是“智力缺乏”。“智力缺乏”的学生容易被错误打击信心，觉得没有能力改变现状。“没有努力”的学生相信智力能够靠学习和努力来扩展，挑战是压力而非威胁，提供了学习的机遇。教育学生相信成长型思维，能帮助他们在学习和生活中取得更高的成就。
+➜Firefox3更新URL列表？
+https://www.solidot.org/story?sid=4569	34320
+<a href="http://zhcn.blogspot.com/">afa</a> 写道 "昨天的Firefox 3b2pre(nightly build 2007120105)更新了Firefox的URL列表的显示方式。列表的每个项目分为两行，分别显示标题和URL，使用的字体也更大更容易辨认了，<a href="http://zhcn.blogspot.com/2007/12/firefox-3-beta2preurl.html">如图</a>。"
+➜环保大PK！用2000比xp，2003等更节省电
+https://www.solidot.org/story?sid=4570	34380
+<a href="mailto:shajunxing@163.com">沉思者</a> 写道 "<a href="http://bbs.deepin.org/read.php?tid=460246">http://bbs.deepin.org/read.php?tid=460246</a> <br> <br>环保大PK！用2000比xp，2003等更节省电费更环保！！<br> <br>俺今天上午用了非常准确的计算方法计算出了同一台电脑上比较了三种win系统和ubuntu的耗电量，结果证明2000是最省电的系统，证明2000是高效而节电环保的系统，在能源成本急涨的今天，如果pc使用2000为操作系统每个月能为你节省不少电费，下面给出测试过程：<a href="http://bbs.deepin.org/attachment/Mon_0711/125_161280_97441cab9a85395.jpg">图片</a> <a href="http://bbs.deepin.org/attachment/Mon_0711/125_161280_6b0f13f7d24a999.jpg">图片</a>测试过程和方法如图，在进入桌面后打开hdtune启动硬盘，打开superpi执行3200万位计算！确保cpu百分百使用！由于四核的6700q只能使用单核运行superpi,所以只计算单核电力！！三个系统的比较都一样！！2000最省电力！！"

@@ -1,0 +1,59 @@
+➜Ubuntu 14.04聚焦长期服务
+https://www.solidot.org/story?sid=39412	6324
+<a href="http://linux.cn">linux</a> 写道<i>"IDG的消息称，因为各机构将本地系统移动到了云端，Canonical公司希望他们同时考虑更换一下操作系统到Ubuntu上（<a href="http://www.computerworld.com/s/article/9247694/Canonical_39_s_Ubuntu_14.04_focuses_on_the_long_haul?taxonomyId=122&amp;pageNumber=1" target="_blank">原文</a>|<a href="http://linux.cn/article-2971-1.html" target="_blank">译文</a>）。前不久发布的服务器版的Ubuntu 14.04中，Canonical公司强调了在宿主环境中，机构是如何运用它来作为运行大型关键任务应用程序的基础。这个版本带有长期支持和许多云方面的软件程序，如Docker，最新版本的OpenStack。这也是Ubuntu 14.04第一次包含Docker ——<a href="http://www.infoworld.com/d/virtualization/docker-challenges-virtualization-market-containers-235897">一个开源的Linux应用容器引擎，支持轻量级运行完整的虚拟机</a>。还包括了XFS第一版，一个最初由SGI(硅图形)公司开发的高性能的64位日志文件系统。Canonical公司的竞争对手Red Hat<a href="http://www.infoworld.com/t/linux/red-hat-enterprise-linux-7-beta-now-available-232520">计划使用XFS</a>作为小红帽Linux企业版(RHEL)的默认文件系统。小红帽Linux企业版中同样包含Docker和OpenStack。同样，Canonical公司的Ubuntu也将更有效的支持固态硬盘(SSD)。Ubuntu 14.04配备了<a href="http://kernelnewbies.org/Linux_3.13">一月份发布的</a>Linux 3.13 内核。Linux 3.13包括一个称为多队列块层的新技术，通过将作业分发到多核提高了SSD磁盘读写性能。"</i>
+➜AMD准备向消费者提供ARM芯片
+https://www.solidot.org/story?sid=39413	11154
+<div align="center"><img src="http://img.solidot.com.cn/0/260/li8E3tijrd0iE.jpg" align="" height="314" width="560"><br>
+<br>
+</div>
+AMD最早推出的ARM架构处理器针对的是服务器市场，但在刚刚透露的2015年和2016年<a target="_blank" href="http://www.amd.com/en-us/press-releases/Pages/ambidextrous-computing-2014may05.aspx"><u>路线图</u></a>中，AMD已着手准备提供<a target="_blank" href="http://arstechnica.com/gadgets/2014/05/upcoming-amd-platform-uses-interchangeable-arm-and-x86-chips/"><u>消费者导向的ARM芯片</u></a>。AMD计划在2015年推出Project Skybridge芯片，它包含了x86 和ARM 两种CPU核心，20纳米制造工艺，基于 Graphics Core Next (GCN)架构的GPU核心，CPU核心和GPU核心的统一内存池。ARM和x86芯片是Pin兼容，也就是说OEM厂商可以直接在相同的主板上交换x86芯片和ARM芯片，无需调整任何设计。它们制造的x86架构 Windows 8.1平板，可以交换芯片变成基于ARM的Android平板。AMD计划在2016年推出代号为K12的64位定制 ARMv8架构处理器，K12和Project Skybridge都是设计针对低功耗客户端系统。
+➜OpenMandriva­ Lx 2014.0发布
+https://www.solidot.org/story?sid=39414	13719
+社区发行版OpenMandriva­<a target="_blank" href="https://blog.openmandriva.org/en/2014/05/a-breath-of-fresh-air-with-a-kde-soul-openmandriva%C2%AD-lx-2014-is-burning-free/"><u>发布</u></a>了OpenMandriva­ Lx 2014.0 Phosphorus。名字Phosphorus是希腊语，意思是光明使者，开发者希望重新点燃Mandriva发行版的精神气。新版的变化<a target="_blank" href="https://wiki.openmandriva.org/en/2014.0/Release_Notes"><u>包括</u></a>：为桌面性能和响应优化的内核3.13.11 nrjQL，增强了CPU加载和磁盘I/O调度器，改进了内存管理器以及挂起和休眠； Xorg升级到1.15.1，Mesa更新到10.1.1；KDE 4.12.4；LibreOffice 4.2.3；Firefox 29；Java 7；改进打印支持，支持EFI启动；等等。
+➜俄罗斯加强言论管制，窒息博客
+https://www.solidot.org/story?sid=39415	15632
+俄罗斯总统普京5日<a target="_blank" href="http://tech.sina.com.cn/i/2014-05-06/11019361657.shtml"><u>签署</u></a>了议会上个月通过的<a target="_blank" href="http://www.zdnet.com/russias-free-speech-crackdown-aims-to-stifle-bloggers-censor-putins-political-rivals-7000028935/"><u>一项加强言论管制法律</u></a>，对日均访问量超过3000的博客和网站施加更多限制。法律要求博主、公民记者和活动人员登记为媒体成员，遵守相关媒体监管法律，如果未能及时登记他们将面临最高900美元的罚款，而未能遵守媒体监管法律的博主还会面临进一步罚款。记者无国界组织称，这项法律是设计增加对在线内容的控制，一位知名俄罗斯博主说，中国现在都比俄罗斯自由。
+➜Oculus否认ZeniMax偷窃VR技术的指控
+https://www.solidot.org/story?sid=39416	18011
+ZeniMax上周<a target="_blank" href="http://www.solidot.org/story?sid=39382"><u>指控</u></a>前雇员、现Oculus VR的首席技术官卡马克（John Carmack）偷窃了它拥有的虚拟现实技术。Oculus<a target="_blank" href="http://time.com/87675/oculus-calls-zenimaxs-allegations-of-theft-false-disappointing-and-not-surprising/"><u>否认了ZeniMax的指控</u></a>，称它的产品中没有使用一行ZeniMax的代码或技术；卡马克没有从ZeniMax带来任何知识产权；卡马克在2013年8月离开的原因是ZeniMax停止投资虚拟现实游戏，阻止卡马克研究虚拟现实技术；ZeniMax要求从Oculus VR获得非稀释的股权以换取它在 Doom 3 BFG 中加入VR支持，遭拒后取消了游戏的VR支持；Zenimax从没有向Oculus贡献任何知识产权或技术，它只是在Facebook收购Oculus后突然提出偷窃技术的声明；Oculus SDK的完整源代码是公开的，但ZeniMax没有识别出任何偷窃的代码或技术。<br>
+<br>
+➜赛门铁克想要重新发明杀毒软件
+https://www.solidot.org/story?sid=39417	24169
+利用0day漏洞的恶意程序日益增多，杀毒软件赶不上漏洞发现的速度，无法阻止黑客入侵，虽然这就是它们存在的目的。既然无力阻止恶意程序感染用户的电脑，杀毒软件开发商使用的策略显然有问题，赛门铁克为此表示<a target="_blank" href="http://cn.wsj.com/gb/20140506/tec115533.asp"><u>要重塑安全行业</u></a>：不是防止黑客侵入，而是假定黑客已侵入，如何将用户数据损失降至最小。赛门铁克准备从防止黑客入侵转变为对黑客攻击进行侦测和响应，告诉客户是否被攻击，以及为何会被攻击。
+➜Twitter用户可以直接用推文购买亚马逊商品
+https://www.solidot.org/story?sid=39418	25508
+亚马逊与Twitter合作，允许用户以Twitter消息的形式<a target="_blank" href="http://www.ftchinese.com/story/001056083"><u>将商品发送到购物车中</u></a>。这一功能旨在将Twitter转变成亚马逊新的购物窗口。Twitter用户在看到一条带有亚马逊商品链接的推文后，将可以把该商品直接加入他们在亚马逊网站上的购物车中，他们如果是在美国，只需要在回复时带上#amazoncart标签，如果是在英国则是#amazonbasket。尽管Twitter并不能从亚马逊的销售中直接获利，该公司希望能鼓励电子商务网站及其他企业加大对Twitter的广告投入。分析师苏Sucharita Mulpuru认为意义不大：“问题在于Twitter提供的实际上是一种新闻和信息流，并不是一种商务流。迄今为止在Twitter上开展的购物试验都不是太成功。”这种合作关系还引发了其他问题：人们希望在社交媒体上多大程度地披露自己的生活，他们分享个人爱好及生活习惯的意愿是否会扩展至购物方面。
+➜CyanogenMod不再释出稳定版，计划每两周发布一个M版
+https://www.solidot.org/story?sid=39419	28131
+流行的Android社区Mod CyanogenMod宣布发布<a target="_blank" href="http://www.cyanogenmod.org/blog/cyanogenmod-11-0-m6-release"><u>11.0 M6</u></a>，同时宣布改变发布方案，不再释出所谓的稳定版本，它计划每个月发布两个可靠的M版更新。CyanogenMod解释说，时间间隔较长的稳定版本不再适合他们，目前的M版发布周期满足需要，能更快的向用户释出修正。M版是基于CM稳定分支，它与稳定版的区别是释出更频繁，标记不同而已，他们完全可以将M改为stable（稳定），稳定本身是一个误称，它不是没有bug或者功能完整，只是因为名称而让用户产生这些错误印象。
+➜虎母现象或能解释为何亚裔学生成绩出色
+https://www.solidot.org/story?sid=39420	28932
+根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/content/early/2014/04/30/1406402111.abstract"><u>一项研究</u></a>，美国亚裔学生比白人学生成绩出色的原因<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-05/aaft-paa050214.php"><u>是学习努力</u></a>，而不是智商高。研究发现，亚裔学生报告父母对他们在学业上的成功期望很高，更专制也更少宽容，鼓励他们的子女努力学习，亚裔学生较少拥有积极的自我印象，与朋友相处的时间更少，而且面临与父母更多的冲突。<a target="_blank" href="http://www.news.com.au/lifestyle/parenting/tiger-mums-key-to-why-asian-children-smarter-than-white-classmates/story-fnet085v-1226906702529"><u>虎母效应</u></a>显著。研究人员分析了两组关于亚裔和白人学生的调查数据，最后的结论认为亚裔学生相对于白人的教育优势可能与学业努力而非认知能力有相关性。父母的期望、文化更看重努力而非能力、以及由学生和母亲是否在国外出生定义的移民状态，可能解释亚裔学生相对较好的学业努力情况。
+➜部分切尔诺贝利鸟类产生更多抗氧化剂抵抗辐射的基因损伤
+https://www.solidot.org/story?sid=39421	32053
+南卡大学生物学家 Timothy Mousseau博士从1999年开始在切尔诺贝利核事故的污染区研究核辐射对当地的鸟类、昆虫和动物的影响。他和同事发表了数十篇论文报告了核污染的后果：肿瘤和身体异常较高的发现率，高辐射区的昆虫和蜘蛛数量下降。上个月发表在《Functional Ecology》上的<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12283/pdf"><u>一项研究</u></a>（PDF）发现，切尔诺贝利地区的部分鸟类已经适应了辐射环境，它们体内<a target="_blank" href="http://www.nytimes.com/2014/05/06/science/nature-adapts-to-chernobyl.html?smid=re-share&amp;_r=0"><u>生成了更高水平的保护性抗氧化剂</u></a>。Mousseau博士认为，长期接触核辐射似乎变成了某种驱动演化的非自然选择。
+<p><br>
+</p>
+➜XBMC 13.0 Gotham发布
+https://www.solidot.org/story?sid=39422	34374
+<div align="center"><img src="http://img.solidot.com.cn/0/262/liXe8tAuBfCx2.png" align="" height="269" width="480"><br>
+<br>
+</div>
+媒体中心软件XBMC发布<a target="_blank" href="http://xbmc.org/xbmc-13-0-gotham-rises/"><u>13.0 Gotham</u></a>。Gotham来了，等待的漫漫长夜终于结束了。新版的主要特性包括：改善Android版的硬件解码，改进Raspberry Pi和Android版的速度，支持三维立体渲染，改进触控屏支持，增强UPnP支持，改进设置的可用性，改善字幕的搜索、下载和选择；停止支持Windows XP，等等。<a target="_blank" href="http://xbmc.org/download/"><u>下载</u></a>：支持Windows、Linux、OSX、Android（ARM和 x86两种架构）、Raspberry Pi、iOS、Apple TV和XBMCbuntu。
+➜RSS没有死
+https://www.solidot.org/story?sid=39423	36626
+<span class="comment"><font color="#000000">RSS阅读器服务商The Old Reader博客发表<a target="_blank" href="http://blog.theoldreader.com/post/84826194914/what-not-dying-looks-like"><u>文章</u></a>认为，Google Reader关闭没有杀死RSS，</font></span><span class="comment"><font color="#000000">RSS比以前更强大。RSS是互联网上最成功的隐形而</font></span><span class="comment"><font color="#000000"><span class="comment"><font color="#000000">叛逆的</font></span>技术，它无处不在，无数用户靠它连接自己喜欢的内容。不管企业对它有何兴趣，RSS已经证明了它的适应性和持久性。RSS是一种技术和服务，它不是产品，即使Google认为抛弃这项技术会将用户吸引到它的社交网络，但没有人能阻止任何人发表和阅读RSS源。</font></span><span class="comment"><font color="#000000">RSS的强大之处是用户可以控制，没有人能强行跟踪你，没有人能强迫你看广告，没有任何安全问题，没有人必须知道你订阅了哪些源。Google Reader曾是这个反垄断性技术的垄断性产品，它已经消失。RSS再次成为一个全民的游戏。</font></span>
+➜计算机游戏揭示眼睛中的时空神经元
+https://www.solidot.org/story?sid=39424	39264
+<center><iframe width="480" height="270" src="//www.youtube.com/embed/cWBK0PkVtbk?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+</center>
+你打开拥挤的厨柜，一个水杯滚了出来。凭借着类似忍者的反应能力，在地板上打碎前你抓住了它，好像杯子的运动在信息抵达大脑前就被跟踪了。研究人员几十年前就知道，眼睛的作用不仅仅限于探测光，在将视觉信息发送到大脑前视网膜上的致密神经元会预处理场景信息。科学家在1964年发现，视网膜中的某些神经元只在对运动作出反应时激活。这些“时空”神经元还有方向选择性，每个只对朝不同方向运动的物体敏感。但视网膜神经元信息处理如何发生仍然是一个不解之谜。利用名叫<a target="_blank" href="https://plus.google.com/photos/+EyewireOrg/albums/5862119614724765073"><u>EyeWire项目</u></a>的在线游戏，研究人员招募了志愿者绘制实验鼠视网膜神经元连接地图，在12万玩家的帮助下，研究人员<a target="_blank" href="http://news.sciencemag.org/brain-behavior/2014/05/computer-game-reveals-space-time-neurons-eye"><u>发现了</u></a>某些能解释神经元探测运动物体移动方向的机制。<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13240.html"><u>报告</u></a>发表在《自然》期刊上。
+➜五角大楼调查比特币是否是潜在的恐怖威胁
+https://www.solidot.org/story?sid=39425	40690
+五角大楼<a target="_blank" href="http://www.techspot.com/news/56643-us-government-to-study-bitcoin-as-possible-terrorist-threat.html"><u>正在调查</u></a>比特币和其它数字货币是否是潜在的恐怖威胁。五角大楼的反恐技术支持办公室已经将比特币<a target="_blank" href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=dde16c3287e01f9c4e23cef3e1593b83&amp;tab=core&amp;_cview=1"><u>列为</u></a>研究主题。今年1月，比特币杂志曾报道了反恐技术支持办公室某些项目的非机密备忘录，其中提到数字货币将可能构成威胁，因为它增加了交易速度和不透明，增加了恐怖袭击的总体效率。比特币等数字货币的一大特点是匿名、去中心化。
+➜在纸上记课堂笔记效果好于笔记本电脑
+https://www.solidot.org/story?sid=39426	43557
+越来越多的学生在课堂上使用笔记本电脑，除了电脑可能分心外，在电脑上记笔记与用笔在纸上记笔记效果孰优孰劣？一项研究发现，<a target="_blank" href="http://news.slashdot.org/story/14/05/06/0049217/students-remember-lectures-better-taking-notes-longhand-than-using-laptops"><u>用笔记笔记的课堂效果更好</u></a>。研究表明，即使笔记本电脑只是单纯用于记笔记，它仍然对学习是有害的：因为电脑上的笔记通常倾向于逐字记录课堂上讲的内容，而不是处理信息，用自己的话将内容重写一遍。领导这项研究的普林斯顿大学心理学家 Pam Mueller说，用笔记录笔记不可能记下每一个字，而如果你打字速度足够快，逐字抄写是可能的。<a target="_blank" href="http://pss.sagepub.com/content/early/2014/04/22/0956797614524581.abstract"><u>研究</u></a>发表在《心理学》期刊上。
+➜杨元庆和Elon Musk获得爱迪生奖
+https://www.solidot.org/story?sid=39427	44142
+《财富》<a target="_blank" href="http://www.fortunechina.com/business/c/2014-05/06/content_204135.htm"><u>报道</u></a>，上周三联想CEO杨元庆在旧金山领取了以表彰创新著称的爱迪生成就奖，另一位获奖者是特斯拉电动汽车和Space X公司创始人Elon Musk。这个奖项的昔日得主包括苹乔布斯、高通的保罗•雅各布、福特的艾伦•穆拉利和Ideo的大卫•凯利。爱迪生成就奖由致力于推动创新的非营利机构爱迪生国际颁发。杨元庆说，“我们正在从事大量的创新工作。”但创新和市场成功必须齐头并进，杨元庆说。“创新不只是为了得奖，它必须影响每一个人。” 杨元庆的野心是，就像联想在PC领域超越戴尔和惠普，在移动设备领域，这家公司最终要超越三星和苹果。收购谷歌旗下的摩托罗拉移动有助于联想进一步接近这个目标。杨元庆对投资者许诺称，收购完成4到6个季度后，联想将帮助年亏损额约10亿美元的摩托罗拉扭亏为盈。

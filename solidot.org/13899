@@ -1,0 +1,48 @@
+➜《魔兽世界》的金币也有类似32位整数的限制
+https://www.solidot.org/story?sid=5031	2700
+暴雪显然也在《魔兽世界》游戏金币上使用了符号整数，<a href="http://www.wowinsider.com/2008/01/16/apparently-you-can-have-too-much-gold/">一些玩家报道游戏携带的金币有限制</a>：214748金币，36银币，48铜币。玩家到达这个数字后，就不能在游戏中再获得金钱。目前还没有报道玩家能够通过合法途径达到这个数目，可能暴雪自己预测不会有人达到这个数目。图<a href="http://www.wowinsider.com/media/2008/01/691k3knjwh.jpg">1</a>，<a href="http://www.wowinsider.com/media/2008/01/avaezf4bx3kpl2lrrjwh.jpg">2</a>显示的就是玩家与GM就此事的交谈截图。
+➜奇怪的自杀性棕榈树
+https://www.solidot.org/story?sid=5032	7200
+植物学家在马达加斯加岛上发现了<a href="http://news.bbc.co.uk/1/hi/sci/tech/7193161.stm">一种自我毁灭的巨大棕榈树</a>。这种棕榈树在开花上耗费了太多的能量，从而令它走向死亡。
+<i>
+一棵20米高的棕榈树，树叶伸张开来有5米长，是岛上此类树种中最高的一棵，但是它生命的大部分时间——大约100年里，它不引人注目。但是一旦开花，它就耗尽全部能量开出令人难忘的花纹，最终会慢慢崩溃直至死亡。植物学家发现这种树与生长在亚洲的一种棕榈树相似，它们之间相距6000公里。科学家认为自8000万年前马达加斯加从印度大陆脱离后，棕榈树发生了显著的进化。马达加斯加岛上有超过1万种植物，90%不存在世界其它地方。这种棕榈树本来在岛上很常见，但是现在只剩下100多棵。</i>
+➜谁来保护未成年？
+https://www.solidot.org/story?sid=5033	8700
+thinkgeeker 写道 "我希望大家呼吁6.cn删除这个视频，我无法想像这些花朵长大后是什么东西。那个女孩怎么以后做人？
+<a href="http://6.cn/watch/3511099.html">视频</a>"
+➜solidot的日志太监了？
+https://www.solidot.org/story?sid=5034	8700
+lielei 写道 "大哥，我准备在solidot的日志里面贴一个关于hujia的消息，可是怎么也贴不上去，难道solidot也被太监了？"
+➜Skype 惊现跨区域(Cross-Zone Scripting)脚本
+https://www.solidot.org/story?sid=5035	9120
+<a href="http://www.comsharp.com/">35公里</a> 写道 "Aviv Raff 在他的<a href="http://aviv.raffon.net/">个人网站</a>中公布了一个<a href="http://aviv.raffon.net/2008/01/17/SkypeCrosszoneScriptingVulnerability.aspx">最新发现的脚本漏洞</a>，在点击了 Skype 上的链接后恶意代码就会执行，以下为他的文章：“
+<i>
+Skype 使用 IE 控件显示其 HTML 页面内容，最典型的例子是，“Send money via Paypal” 对话，或者 “Add video to chat” 对话。最近，我发现，Skype 竟然以本地区域（Local Zone）运行其 IE 控件，更大问题是，Skype 将 HTML 页面运行在非锁定状态的本地区域，和 <a href="http://aviv.raffon.net/ct.ashx?id=e9122b6b-2848-4db9-b821-e413267b8f1d&amp;url=http%3A%2F%2Faviv.raffon.net%2F2007%2F09%2F25%2FReadyAIMFire.aspx">AOL 即时通讯曾经犯的错误</a>一样。
+这意味着，如果向这些页面注入一段脚本，将有可能在用户的机器上执行这段代码，<a href="http://www.gnucitizen.org/">GNUCITIZEN</a> 的 <a href="http://www.gnucitizen.org/about/pdp">PDP</a> 说，可以使用 <a href="http://airpwn.sourceforge.net/Airpwn.html">Airpwn Wifi 数据包注入漏洞</a>套用到该机制，我完全同意。”</i>           今天，<a href="http://www.critical.lt/">CriticalSecurity</a> 的 <a href="http://www.critical.lt/?opinions/show/1470">Miroslav Lučinskij</a> 向著名的安全组织 <a href="http://seclists.org/">seclists.org</a> （即著名的 <a href="http://insecure.org/">insecure.org</a> ，译者注）发布了一个消息，说，他可以在 “Add video to chat” 对话中注入一个含跨站点脚本的 DailyMotion 网站的视频链接，<a href="http://www.critical.lt/?opinions/show/1470">这里</a>可以看到该过程的演示，他同时称，事实上，该脚本应该叫做跨区域脚本，因为该脚本运行在 IE 的本地区域，而不是 Internet 区域。
+<br> <br>
+凭借该机制，黑客可以上载一段视频，并起一个诱惑人的名字（比如帕丽斯希尔顿），让一些搜索希尔顿色情视频的人上当。我已经在 Skype 最新版本，V3.6.0.244上测试过该漏洞，以前的版本应该也有该漏洞。在 Skype 发布安全补丁之前，建议不要在 Skype 上搜索视频。
+➜Google向科学家提供免费数据储存
+https://www.solidot.org/story?sid=5036	16200
+Google透露了一个<a href="http://blog.wired.com/wiredscience/2008/01/google-to-provi.html">新的针对科学社区的项目</a>：Palimpsest，网址是<a href="http://research.google.com/">research.google.com</a>，用于储存数以TB计（一开始是3TB，可能会进一步扩充到20T）的开放性科学数据。科学家可免费储存数据，任何人都可以自由访问，网站已经在去年8月被科学家预先测试过。Palimpsest将以Google去年收购的数据分析公司<a href="http://googleblog.blogspot.com/2007/03/world-in-motion.html">Trendalyzer</a>研究的数据可视化技术为基础，加上自己开发的信息检查和查询算法。新网站将提供YouTube风格的注释和评论功能。这里有一位参与测试的生物学家在去年<a href="http://pimm.wordpress.com/2007/09/25/googles-palimpsest-project-promiscuous-distribution-of-all-science-data-sets/">写下的评述及幻灯片</a>。
+➜把手机变成3D鼠标
+https://www.solidot.org/story?sid=5037	19200
+手机从一开始的呼叫或信息交流工具，变成可以拍照、阅读电子邮件，听音乐和看电视的多面手。现在《新科学家》又报道，英国的研究人员开发出一款原型软件，<a href="http://technology.newscientist.com/channel/tech/dn13187-cameraphone-used-to-control-computers-in-3d.html">能把有照相功能的手机变成一个3D鼠标</a>。<i>
+手机通过蓝牙连接到电脑上，依靠晃动和移动手机控制屏幕上图像。控制原理是首先手机把拍摄到实时图片发送到计算机，软件在显示器上建立坐标，将其反馈到手机，图像处理技术识别坐标后电脑就知道手机的动作和移动位置。这项技术可能将首先应用在大型购物中心，购买电影票或者与广告显示屏幕互动。</i> <a href="http://www-users.cs.york.ac.uk/~nep/research/dispreg/">研究主页</a>：<a href="http://www-users.cs.york.ac.uk/~nep/research/dispreg/MVI_2569.AVI">图像操作演示</a>，<a href="http://www-users.cs.york.ac.uk/~nep/research/dispreg/MVI_2570.AVI">绘图演示</a>（AVI格式）。
+➜试用Ranger (巡游者) 超级计算机
+https://www.solidot.org/story?sid=5038	22500
+<a href="http://www.tacc.utexas.edu/resources/hpcsystems/">德克萨斯大学奥斯汀分校</a>（UT Austin）和Sun公司合作搭建了一台有62976个核的超级计算机 Ranger(巡游者)，理论峰值为每秒504万亿浮点运算，按照理论峰值排序，仅次于美国核武器安全局在LLNL的IBM蓝色基因L超级计算机（理论峰值每秒593万亿浮点运算）。在UT工作的huichen作为首批用户试用了Ranger，零距离接触了这台世界第二的大家伙。以下<a href="http://huichen.org/66">摘自他的blog</a>：<i>Ranger共有3936个计算节点(node)，每个节点的主板上有4个socket，每个socket上插着一个AMD的4核barcelona处理器，每个处理器有8G内存，这样Ranger总计有3936×4x4=62976个核心(每个核心的主频是1.994G)和8Gx4×3936= 125TB的内存。系统使用的是CentOS Linux系统，编译器主要是Intel compiler(c/c++/fortran)和portland group的c/c++/fortran编译器，使用openmp和MPI(mvapich2)进行并行编程，函数库包括MKL, ACML等。作业调度(batch system)使用的是SGE和NUMA control。</i>
+➜Parrot 0.5.2发布
+https://www.solidot.org/story?sid=5039	26400
+传说Perl 6.0.0将在圣诞节降临，虽然没人知道是那一年的圣诞节，不过现在它的分支Parrot倒是每月<a href="http://developers.slashdot.org/article.pl?sid=08/01/21/044255">发布一个新版本</a>。Bob Rogers刚刚宣布发布<a href="http://www.parrotcode.org/news/2008/Parrot-0.5.2.html">Parrot 0.5.2</a>，新版增加了两个值得注意的新功能。<i>“
+其一是捆绑了Patrick Michaud的<a href="http://use.perl.org/~pmichaud/journal/35400">Rakudo</a>（在Parrot上执行 Perl 6），这样你就可以在Unix系平台上输入 make perl6或在Windows平台上make perl6.exe，得到一个可工作的Perl 6 binary（perl6离最终完成还早着呢）。这是试验性的，我们希望能到下个月版本发布时清除一些安装和部署问题，但它同样具有重要意义，证明我们一直在前进。<br>
+其二是一个工具包，让你启动自己的编译器。Max Mohun在几个月前编译一个原型，我们加入了一个精简版，你们可以使用Parrot Compiler Tools建立一个编译器范例。我曾经<a href="http://www.oreillynet.com/onlamp/blog/2008/01/what_the_perl_6_and_parrot_hac.html">What the Perl 6 and Parrot Hackers Did on Their Christmas Vacation</a>这篇文章提到的<a href="http://lolcode.com/">LOLCODE</a>编译器，现在你就可以用上了。”
+</i>
+➜什么是web2.1?
+https://www.solidot.org/story?sid=5040	28200
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "什么是<a href="http://cheese.blartwendo.com/web21-demo.html">web2.1</a>？其实就是服务器端的<a href="http://www.blink182.com/">blink</a> tag。
+<i>
+通过一个定时激发的 AJAX 请求, 让一个Web 2.1兼容的服务器更新客户端的文档，把闪烁的文本变成 隐形。这个请求也触发另一个定时的 AJAX 请求, 然后这个请求让服务器在延时后再把文本显示出来。
+</i>这里是<a href="http://www.yining.org/web21-demo/">中文版</a>。"
+➜“信使号”探测器发回水星照片
+https://www.solidot.org/story?sid=5041	31800
+NASA的<a href="http://messenger.jhuapl.edu/">“信使号”探测器</a>（2004年8月升空）在2008年1月14日从125英里的距离上飞越水星表面。它向地球发回了<a href="http://www.nasa.gov/mission_pages/messenger/multimedia/index.html">数百幅照片</a>，这是自30年前<a href="http://en.wikipedia.org/wiki/Mariner_10">水手10号探测器</a>飞掠水星后获得的<a href="http://blog.wired.com/wiredscience/2008/01/new-photos-show.html">第二批照片</a>。造价4.46亿美元的信使号将最终于<a href="http://www.ibtimes.com/articles/20080119/nasa-messenger-mercury.htm">2011年固定在水星轨道</a>，它担负着探测水星表面、宇宙环境、行星化学、搜索测距等重要使命。上周六发回的在水星近距离点拍摄的照片中，科学家们观察到了行星表面以前未曾发现的陨星坑。在本周一，信使号将再次能在最近的距离点上观察水星表面，希望能够获得更多发现。它的目标是在水星两极地区寻找可能存在的冰水和绘制行星表面完整地图。与此同时，欧盟和日本宣布将于<a href="http://www.sciencedaily.com/releases/2008/01/080118101918.htm">2013年发射等离子推进的水星探测器</a>。

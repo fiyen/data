@@ -1,0 +1,13 @@
+➜Fedora 25将默认使用Wayland
+https://www.solidot.org/story?sid=49392	49486
+Fedora 将成为第一个默认使用 Wayland 显示服务器的 Linux 发行版。Fedora 指导委员会在8月19日的会议上<a target="_blank" href="https://fedorahosted.org/fesco/ticket/1615"><u>同意</u></a>即将发布的 Fedora 25 将用 Wayland 取代 X.Org Server 作为默认显示管理器。如果不延期，Fedora 25 将于11月8日发布。X.Org Server 将继续保留在系统中，以在需要的时候<a target="_blank" href="https://fedoraproject.org/wiki/Changes/WaylandByDefault"><u>自动切换</u></a>到X.Org，比如 NVIDIA 的<a target="_blank" href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Wayland-Discussion"><u>Linux驱动</u></a>还不完整支持 Wayland 。
+➜台湾国防大学遭中国大陆黑客入侵
+https://www.solidot.org/story?sid=49393	51333
+台湾国防大学的解放军研究硕士班计算机系统<a target="_blank" href="http://news.ltn.com.tw/news/focus/paper/1023749"><u>遭黑客入侵</u></a>，攻击者被认为是来自中国大陆。国防大学承认有此事，但否认有机密信息泄露，称黑客窃取的都是一般学术网络公开资料。台湾资安专家丛培侃<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/08/160820_taiwan_hacker"><u>认为</u></a>，窃取国家军事的黑客，绝对是有国家级力量支持，“不论文件的机密是高或低，结论是对方拿到想拿的资料了”。
+丛培侃也大胆假设，对方应该也锁定了其他较弱的漏洞准备再攻击，因此现在的灾害控管，以及后续资料的保护也将重新推演，“甚至人事时地物可能都要重新调整”。
+➜政客如何应付睡眠不足
+https://www.solidot.org/story?sid=49394	52323
+总统候选人注定没有办法拥有正常的睡眠，<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/08/160818_vert_fut_how-do-politicians-get-by-on-so-little-sleep"><u>当选后情况也不会有改观</u></a>。奥巴马总统说自己一般安排六小时睡眠时间，但经常做不到，比尔·克林顿说自己一般只睡五至六个小时。那么政治领袖每天到底需要满足多长时间的睡眠才能保证精力充沛？ 睡眠时间会影响他们的判断力么？缺眠会导致失误吗？ 美国睡眠医学院和睡眠研究学会建议成年人每晚至少要保持七小时以上睡眠以达到最佳健康状态，每晚睡不足六个小时“有损健康”。睡眠有不同周期性阶段，包括快速眼动（REM）睡眠和非快速眼动（NREM）睡眠。快速眼动睡眠通常发生在我们做各种生动的梦的睡眠阶段。非快速眼动睡眠被进一步描述为浅睡眠和深慢波睡眠。慢波睡眠在细胞的维护和恢复中起到重要作用，因此对物理恢复和身体健康至关重要。我们需要REM和NREM睡眠的正常运转，确保良好的记忆。快速眼动睡眠是记忆巩固的重要阶段，特别是对程序和空间的记忆。NREM慢波睡眠促进信息的处理和记忆的巩固，特别促进对事实和事件的陈述性记忆。过去几年新的科研成果表明睡眠对于减少与年龄有关的记忆丧失和轻度认知障碍和老年痴呆症都有重要的改善作用。动物研究表明，睡眠可以清除大脑中的废物，如淀粉样蛋白。
+➜NSA的代码遭到教授的嘲笑
+https://www.solidot.org/story?sid=49395	54730
+自称Shadow Brokers的黑客组织窃取并公布部分NSA开发的入侵工具。伊利诺伊大学计算机科学助理教授Stephen Checkoway<a target="_blank" href="https://www.cs.uic.edu/~s/musings/equation-group/"><u>分析了</u></a>攻击Fortinet防火墙的漏洞利用代码BANANAGLEE，认为NSA的代码水平不高。NAS顶级黑客的代码质量没有给他留下深刻影响。但这一结果是<a target="_blank" href="https://it.slashdot.org/story/16/08/20/0526234/computer-science-professor-mocks-the-nsas-buggy-code"><u>可以理解的</u></a>：NSA的代码是进攻性的不是防御性的，利用的是不知道什么时候会修补的0day漏洞，攻击者需要在较短时间内开发出利用漏洞的代码，他们不太可能同时去兼顾代码质量，他们关心的是代码的可用性。

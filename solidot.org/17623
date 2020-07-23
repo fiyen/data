@@ -1,0 +1,47 @@
+➜天宫一号坠落在南太平洋
+https://www.solidot.org/story?sid=56009	10491
+天宫一号于北京时间周一 08:16 <a href="http://www.bbc.co.uk/news/science-environment-43614408" target="_blank"><u>重返大气层</u></a>，<a href="http://www.aerospace.org/cords/reentry-predictions/tiangong-1-reentry/" target="_blank"><u>位置</u></a>是在南太平洋上空。天宫一号是中国发射的第一个实验性空间站，2011 年发射，长 10 米重 8.5 吨，在轨道运行期间它完成了两次载人飞行任务，分别是 2012 年的神舟九号和 2013 年神舟十号。天宫一号原计划将会作为 2022 年建成的空间站的一部分，但它在 2016 年 3 月停止工作，中国之后宣布与空间站的通信中断，它的重返是不受控的，一度引发了碎片会砸到人的担忧，但它可能的重返区域都是海洋，最后坠落的南太平洋区域更是人烟稀少，是<a href="https://www.solidot.org/story?sid=54218" target="_blank"><u>飞行器的公墓</u></a>。
+➜Linux 4.16 释出
+https://www.solidot.org/story?sid=56010	14077
+Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2018/4/1/175" target="_blank"><u>宣布</u></a>释出 Linux 4.16，同时宣布 4.17 合并窗口开放。4.16 的主要特性包括：x86-64 架构初步支持 <a href="https://github.com/siemens/jailhouse" target="_blank"><u>Jailhouse hypervisor</u></a>；改进死线调度器，支持 CPU 频率和电压调节；<a href="https://lwn.net/Articles/727322/" target="_blank"><u>usercopy whitelisting</u></a> 加固补丁；大量与文件系统和驱动相关的更新，以及与 Meltdown 和 Spectre 漏洞相关的补丁，等等。
+➜VPN 监管规定生效
+https://www.solidot.org/story?sid=56011	15995
+中国的 VPN 监管规定于 3 月 31 日<a href="https://www.wsj.com/articles/chinas-new-cyber-rules-add-to-cost-of-doing-business-there-1522397885" target="_blank"><u>正式生效</u></a>（付费墙）。中国工信部去年发布通知，从 3 月 31 日起禁止使用未经批准的 VPN。分析人士<a href="https://www.solidot.org/story?sid=55261" target="_blank"><u>认为</u></a>，这将迫使公司和其他机构在获得批准的、数量有限的 VPN 供应商中进行选择，包括由中国国有电信公司运营的 VPN，这会让政府更容易瞄准和监控 VPN 通信。意大利 IT 公司 Exprivia Group 的大中华区负责人 Marco Gasparroni 称，从去年 10 月起它的客户就抱怨访问中国境外网站的连接缓慢且不可靠。去年 10 月中国一度大规模限制了对境外网站的访问，这一限制后来解除了。Gasparroni 称他建议客户从 VPN 切换到专线，但专线的费用比 VPN 贵得多，切换到专线后一家中型企业的通信费用将从一年 5000 美元左右增加到最多 7 万美元。
+➜超过半数中国网贷公司未遵守数据隐私规定
+https://www.solidot.org/story?sid=56012	17299
+中国人民大学和智库南都个人信息保护研究中心 对 200 个金融应用进行的调查<a href="http://www.ftchinese.com/story/001076985" target="_blank"><u>显示</u></a>，111 个应用的合规水平为“低”。调查发现，几乎有一半——95 个应用——试图读取用户的短信，而 97 个应用试图访问用户的通信录，尽管此类访问对于这些应用的正常运行并不必要。应用提供商要求用户提供此类信息，违反了中国即将于 5 月 1 日实施的《个人信息安全规范》。这一新标准规定，企业只能收集使其应用正常运行所需的最少信息。报告中得分最低的公司包括两家全球大型银行——中国银行和中国建设银行。其他违规公司包括宜贷网和趣店。许多应用在用户注册时，没有提供解释哪些用户数据将会受到保护的隐私协议。如果用户的详细信息被泄露或被滥用，他们几乎没有任何追索权。
+➜V2EX 站长被指非法公开用户隐私信息
+https://www.solidot.org/story?sid=56013	17464
+<a href="http://https://t.me/karuizawa">恵恵</a> 写道 <i>"曾以「用户发言和帐号数据是网站资产」「对这个世界有任何意义吗」为由拒绝用户在网站 ToS 变更后删除帐号的 V2EX 站长刘昕（网名：Livid）近期又因为公开用户隐私信息陷入争议。在 4 月 1 日发布的一篇用户处罚<a href="https://www.v2ex.com/t/443087" target="_blank">公告</a>中，刘昕公布了 5 名被处罚用户的手机号码和邮箱地址，尽管 V2EX 在其<a href="web.archive.org/web/20180201194343/https://www.v2ex.com/signup " target="_blank">注册</a>页面清楚注明「我们不会将你的邮箱地址分享给任何人」。V2EX 在&nbsp;<a href="http://web.archive.org/web/20180201200049/https://www.v2ex.com/about" target="_blank">ToS </a>中承诺「遵守中国的法律」，而根据<a href="http://www.miit.gov.cn/n1146295/n1146557/n1146619/c4700513/content.html" target="_blank">有关法律法规</a>，「网络服务提供者和其他企业事业单位及其工作人员对在业务活动中收集的公民个人电子信息必须严格保密，不得泄露、篡改、毁损，不得出售或者非法向他人提供」。该处罚公告激起<a href="https://www.zhihu.com/question/270687757/answer/355878537" target="_blank">用户抗议</a>，但数个在公告下反对非法公开用户隐私信息的账户被刘昕以「用威胁站点运营和存在的方式说话」为由封禁，并回应称「你总有一天会因为自己的中二病而后悔的」「你开心就好」。
+</i>
+<p><i>据工信部域名备案信息，V2EX 由寂智信息科技（上海）有限公司运营，并于 2015 年 4 月 20 日于国内备案。同年 6 月 17 日，该公司收到了北京天使汇投资管理中心的 1.1 万元人民币的天使轮投资，占股 9.91%。"</i></p>
+➜俄罗斯想要通过封杀 1350 万亚马逊 IP 地址来封杀一个应用
+https://www.solidot.org/story?sid=56014	19592
+Torrentfreak <a href="https://torrentfreak.com/russia-asked-isps-to-block-13-5-million-amazon-ip-addresses-to-silence-one-app-180331/" target="_blank"><u>报道</u></a>称，俄罗斯想要通过屏蔽 1350 万亚马逊 IP 地址来封杀一个应用。这个应用名字叫 <a href="https://play.google.com/store/apps/details?id=com.loudtalks" target="_blank"><u>Zello</u></a>。Zello 是一款即时对讲机应用，可以和友人进行私人聊天，或加入开放频道进行群组开聊，群组支持最高 2500 人。它在 2017 年 8 月因为被哈维飓风的救援志愿者用于协调救援工作而闻名，但俄罗斯政府想要封杀这款应用，因为它被认为挑战了政府的权威。根据最近生效的法律，Zello 之类的服务需要向政府登记，要求将俄罗斯用户数据储存在俄罗斯境内，以及储存用户通信内容六个月和元数据三年，加密服务还要求与执法机构共享密钥。报道称，为了彻底封杀 Zello 俄罗斯监管机构要求 ISP 准备屏蔽 1500 万个 IP 地址，其中大约 1350 万属于云巨头亚马逊。如果是真的，这一要求堪称非常极端了。
+➜阿里巴巴全资收购饿了么
+https://www.solidot.org/story?sid=56015	24817
+阿里巴巴宣布以 95 亿美元估值，<a href="https://cn.reuters.com/article/alibaba-elemebuy-0401-sunday-idCNKCS1H909Y?il=0" target="_blank"><u>全资收购</u></a>国内网上送餐平台饿了么。据阿里巴巴<a href="https://weibo.com/1897953162/Gacx3zFpb?from=page_1006061897953162_profile&amp;wvr=6&amp;mod=weibotime" target="_blank"><u>新闻稿</u></a>，阿里巴巴与其关联公司浙江蚂蚁小微金融服务集团股份有限公司目前持有饿了么约 43% 有表决权的股票。本次收购标志着饿了么全面汇入阿里巴巴推进的新零售战略，为阿里生态拓展全新的本地生活服务领域，完成从新零售走向新消费的重要一步。未来饿了么将保持独立品牌、独立运营，公司创始人兼 CEO 张旭豪将出任饿了么董事长，兼任阿里巴巴集团 CEO 张勇的新零售战略特别助，阿里巴巴集团副总裁王磊将担任 CEO。
+➜是时候复兴 RSS 了
+https://www.solidot.org/story?sid=56016	28974
+在一个算法支配的世界，在一个跟踪无不处在的世界，你是否厌倦了一切都被监视着，是否厌倦了 Twitter 和 Facebook 信息流？<a href="https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/" target="_blank"><u>现在是时候复兴 RSS </u></a>了。RSS 阅读器是一个出色的替代，你可以避免被跟踪，避免让算法决定你消费的内容。从 RSS 阅读器获取新闻与 Facebook或 Twitter 或 Apple News 获取新闻的区别就像选择自助餐与选择单点菜单的区别。你都可以决定想要消费的内容。但自助餐给你的选择远远超过单点菜单。目前市场上最受欢迎的 RSS 阅读器是 Feedly，它有 1400 万用户；另一个阅读器 Old Reader 也有百万级的用户。
+➜中国尝试通过社会信用系统改变社会行为
+https://www.solidot.org/story?sid=56017	31192
+中国正雄心勃勃的尝试在 2020 年创建社会信用体系，<a href="http://www.abc.net.au/news/2018-03-31/chinas-social-credit-system-punishes-untrustworthy-citizens/9596204" target="_blank"><u>根据行为给 14 亿人打分</u></a>，奖励可信赖的人，惩罚失信人。官方声称有超过 700 万人列入了失信人名单，被禁止搭乘民航和高铁。虽然国家级的社会信用体系尚未建成，但中国各级的省级市级地方政府已在进行数十个社会信用方面的实验。以苏州为例，该市给每个居民分配了分数，起点是 100，有加有减，捐血或从事志愿工作可以加分，违反法律、法规和社会规范则会扣分。该市表示信用体系的下一步将是惩罚犯过错的人，比如逃票、在游戏中作弊以及订了餐却没有去。公安建设的一体化联合作战系统则从多个来源或传感器收集信息，其中一个来源是 CCTV 探头，部分探头已经具备了面部识别和红外夜视功能；另一个来源是 wifi 嗅探器。国家社会信用体系面临的一大挑战是整合多个数据库，帮助建造国家国家社会信用体系的上海财经大学教授 Hu Naihong 说，顶层设计、制度框架和关键文件都到位了，但仍然有很多问题需要解决。多个案例显示算法错误的将无辜的人加入到黑名单中。
+➜年轻科研人员心理健康不佳
+https://www.solidot.org/story?sid=56018	31820
+《自然》期刊讨论了<a href="https://www.nature.com/articles/d41586-018-04023-5" target="_blank"><u>年轻科研人员的心理问题</u></a>。有研究发现，研究生的抑郁和焦虑比例比普通人群高出六倍。自然旗下的 Twitter 账号 @NatureNews 转发的这则新闻引发了热议。有人列出了研究生们面临的各种挑战，如经济负担、敌意的学界、繁文缛章、严峻的就业市场，没有恰当的职业指导等等。除此之外，研究生们需要一天工作超过 10 小时，一周工作六到七天。只是观察显然不够，学界被建议就此问题展开真正的对话，也许 PhD 和博士后系统需要改革或彻底废除。
+➜南华早报变成外宣工具？
+https://www.solidot.org/story?sid=56019	35134
+《南华早报》最近庆祝了公司的转机。读者人数一直在飙升。这家报纸推出了新的电子产品，聘请了数十名新记者加入。这场复兴开始于两年前阿里巴巴的收购。但如果说阿里巴巴给这家报社注入了新的生命，它也向其赋予了一个新的使命：改善中国在海外的形象，与它认为外媒所持有的反华偏见进行对抗。每天，《南华早报》生产大量关于中国的文章，其中很多试图呈现该国更正面的形象。因此，批评者称，该报社正在背离独立新闻，<a href="https://cn.nytimes.com/china/20180402/south-china-morning-post-hong-kong-alibaba/" target="_blank"><u>开创一种新形式的政治宣传</u></a>。自从被出售以来，《南华早报》至少有一个明显的变化：关于阿里巴巴及其领导人马云的报道大量增加。根据档案搜索的结果，去年，该报平均每天 3.5 次在自己的网站和纸质媒体上提到阿里巴巴，这个数字大约是 2016 年的两倍。
+➜黄仁勋认为应更多在 VR 里面做自动驾驶测试
+https://www.solidot.org/story?sid=56020	40583
+Uber 自动驾驶汽车造成的致命车祸促使该公司暂停测试，但另一些公司也紧跟着停止了自动驾驶测试，其中一家公司是英伟达。公司 CEO 黄仁勋说，这次事故代表着一个新的数据点，作为优秀的工程师，我们应该等等看是否能从那些经历中学到什么。我们不知道我们是否会做得不同，但至少我们应该给自己时间观察，是否能从事故中吸取教训，这用不了多长时间。黄仁勋称，确保自动驾驶汽车安全行驶是很困难的，<a href="https://spectrum.ieee.org/view-from-the-valley/transportation/self-driving/jensen-huang-on-the-uber-tragedy-and-why-nvidia-suspended-testing" target="_blank"><u>更多测试应该在虚拟现实环境（VR）中进行</u></a>。仅仅靠模拟不能让自动驾驶汽车更安全。他认为自动驾驶汽车安全性问题是可能是世界面临的最困难的计算问题。他称，英伟达的自动驾驶汽车收集了 PB 量级的数据，有 1500 人标记图像。
+➜撒哈拉沙漠百年来面积扩大十分之一
+https://www.solidot.org/story?sid=56021	44738
+世界最大的沙漠撒哈拉 1920 年至今面积<a href="https://scienceblog.com/500093/new-study-finds-worlds-largest-desert-the-sahara-has-grown-by-10-percent-since-1920/" target="_blank"><u>扩大了 10%</u></a>。这项研究是首次评估世界最大沙漠百年来的界线变化，其它沙漠可能发生了类似的扩张。研究人员认为非洲夏季越来越炎热雨季越来越干燥的趋势与大气中温室气体和气凝胶增加有关联，这些趋势对依赖于农业的非洲居民产生了严重影响。研究人员分析了 1920 年到 2013 年的非洲年度降雨数据，发现了撒哈拉沙漠扩大了 10%，最显著的扩张发生在夏季。
+➜对比公共 DNS 服务的性能
+https://www.solidot.org/story?sid=56022	45808
+Google 的 8.8.8.8，CloudFlare 的 1.1.1.1，Quad9 的 9.9.9.9，OpenDNS 的 208.67.222.222...越来越多的企业和机构提供了免费的公共 DNS 解析服务，但它们的性能究竟谁更胜一筹，解析速度究竟有多快？有研究者利用了全球 18 个位置（不包括中国）<a href="https://medium.com/@nykolas.z/dns-resolvers-performance-compared-cloudflare-x-google-x-quad9-x-opendns-149e803734e5" target="_blank"><u>测试了这些 DNS 服务的性能</u></a>。除了 Yandex 的 77.88.8.7，所有 DNS 服务在北美和欧洲的响应速度都在 15ms 以内，也就是说如果你生活在这些地区，你可以选择任意的公共 DNS 服务。CloudFlare 的服务平均速度最快，全球平均响应速度仅仅为 4.98 ms，Google 和 Quad9 位居第二和第三，Quad9 在北美和欧洲比 Google 快，但在亚洲和南美比较慢；Yandex 只在俄罗斯比较快，其它地方都很慢。
+➜帮助你绕过审查的机器人
+https://www.solidot.org/story?sid=56023	46477
+土耳其屏蔽了维基百科，使用 DNS 屏蔽了 VPN 服务，如果直接的审查规避方案无效（或总有一天会失效），那么是否可以利用间接的方法？比如我们日常使用的通信渠道，像电子邮件或者是移动消息应用？一位土耳其开发者开发了机器人程序 <a href="https://cecibot.com/index.html"><u>cecibot</u></a>，你通过电子邮件或 Telegram 发送被屏蔽的网址给它，它会在几分钟内抓取内容返回给你。<a href="https://github.com/boramalper/cecibot" target="_blank"><u>程序源代码</u></a>托管在 GitHub 上。该工具显然不存在隐私，开发者称所有请求会至少记录和保存一个月，他承诺不会将数据分享给第三方，并拒绝儿童色情。

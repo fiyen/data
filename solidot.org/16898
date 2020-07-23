@@ -1,0 +1,78 @@
+➜Ubuntu 16.04 将 Noto CJK 作为默认中文字体
+https://www.solidot.org/story?sid=47761	5746
+<a href="mailto:arthur200126@gmail.com">Arthur2e5</a> 写道 <i>"八个月前，Ubuntu 用户 tomoe_musashi 做了一个报告，<a href="https://bugs.launchpad.net/ubuntu/+source/language-selector/+bug/1468027" title="请求 Ubuntu 将默认 CJK 字体改为 Noto Sans CJK" target="_blank">请求 Ubuntu 将默认 CJK 字体改为 Noto Sans CJK</a>。时至今日，这个 bug 已经大部分完成，也就是说 Ubuntu 16.04 "xenial" 将使用与“思源黑体”同源的 Noto Sans CJK 替代 Droid Sans Fallback 作为默认中文字体。可能让报告者感到遗憾的是，日语和韩语都被推迟讨论，原因是 Ubuntu“<a href="https://bugs.launchpad.net/ubuntu/+source/language-selector/+bug/1468027/comments/61" target="_blank">对这两个语言已有默认字体</a>”。
+<p></p>
+</i>
+<p><i>有趣的是，Noto CJK 触发了<a href="https://bugs.launchpad.net/bugs/1556457" title=" fontconfig 的一个字重识别问题" target="_blank"> fontconfig 的一个字重识别问题</a>。在发现 Arthur2e5 移植回来的上游修复<a href="https://bugs.launchpad.net/bugs/1566651" target="_blank">引发了位图模糊的问题</a>（忘记移植上游后来的修复）后，Ubuntu 决定在 16.04 中使用 2.12 RC4 (2.11.94) 版本。"</i></p>
+➜听CTO们讲如何挑选适合自己的公有云
+https://www.solidot.org/story?sid=47762	8859
+<div align="center"><img src="http://img.solidot.org/0/461/liEgQBIFSvI7U.png" align="" width="500" height="173"><br>
+<br>
+</div>
+“创业技术联盟”是ZD至顶网发起的针对创业人群的服务组织。旨在为创业者提供在创业路上的IT咨询和服务对接。帮助创业者借助IT手段实现事业初始阶段的成本节约、效率提升、业务拓展，紧抓互联网大潮带来的机遇。
+<br>
+<br>
+在云的时代，无论你身处在O2O、社交、在线教育，还是游戏、云服务、电子商务等行业，挑选适合自己的公有云，对企业来说都是非常重要，又令企业难以抉择的头等大事。
+<br>
+<br>
+4月9日，14:00-17:00，<a target="_blank" href="https://www.google.com/maps/dir/''/bingo+cafe+beijing/@39.9775789,116.3420601,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x35f054b14837cea3:0x1ed267ca50fc7ff4!2m2!1d116.4121!2d39.9776"><u>Binggo Cafe</u></a>，创业技术联盟准备了一场“公有云实践”的饕餮盛宴。爱大厨、tutu、家居在线的CTO将亲临现场，分享他们在公有云选型和使用方面的经验与心得。纯干货的技术交流，不容错过。
+<br>
+<br>
+活动日程&nbsp;
+13:30-14:00&nbsp;&nbsp;&nbsp;&nbsp;嘉宾签到&nbsp;<br>
+14:00-14:15&nbsp;&nbsp;&nbsp;&nbsp;主持人开场+创业技术联盟揭幕仪式&nbsp;<br>
+14:15-14:45&nbsp;&nbsp;&nbsp;&nbsp;O2O创业如何选择云主机<br>
+14:45-15:15&nbsp;&nbsp;&nbsp;&nbsp;社交平台用什么样的云主机最适合&nbsp;<br>
+15:15-15:45&nbsp;&nbsp;&nbsp;&nbsp;家居在线实践应用案例分享<br>
+15:45-16:15&nbsp;&nbsp;&nbsp;&nbsp;选择云主机的几个注意事项&nbsp;<br>
+16:15-17:00&nbsp;&nbsp;&nbsp;&nbsp;QA互动<br>
+<br>
+*最终日程以现场日程为准<br>
+<br>
+本次技术沙龙采用报名制，全程免费，还有咖啡可以享用，前30名签到者可获得精美礼品。<br>
+<br>
+心动不如行动。参会请立即报名：<br>
+<a target="_blank" href="http://server.zdnet.com.cn/techzone/zhuanti/2016/innovation/reg.html?source=zdnet"><u>http://server.zdnet.com.cn/techzone/zhuanti/2016/innovation/reg.html?source=zdnet</u></a><br>
+<br>
+➜《南华早报》网络版移动版免费
+https://www.solidot.org/story?sid=47763	11538
+完成《南华早报》收购之后，阿里巴巴的第一项改革措施是<a target="_blank" href="http://cn.wsj.com/gb/20160407/tec095941.asp"><u>取消了对网络版和移动版的收费</u></a>，此举旨在吸引更多读者。阿里巴巴称，取消网络版收费举措的目的是让读者看到对中国更多样化的报道。《南华早报》网站及中国社交媒体账号（如新浪微博<a target="_blank" href="http://weibo.com/scmpchinese"><u>@scmpchinese</u></a>）上个月被全面封杀。分析人士称，此次收购也表明了阿里巴巴希望利用外围媒体资产获得更多广告、提高其电商平台访问量并扩大其娱乐行业市场份额的愿望。收购《南华早报》的同时，阿里巴巴还收购了一系列香港杂志。
+➜黑客利用Mossack Fonseca运行的旧版软件漏洞入侵其服务器
+https://www.solidot.org/story?sid=47764	13803
+匿名人士泄漏了巴拿马律师事务所Mossack Fonseca超过1100万份机密文件。Mossack Fonseca声称它遭到了外部黑客的攻击。《纽约时报》<a target="_blank" href="http://cn.nytimes.com/world/20160407/c07panamamedia/"><u>报道称</u></a>，这位匿名人士从去年开始向《南德意志报》源源不断的提供了从服务器上盗取的电子邮件、信件扫描、照片，以及客户数据，总容量达到了2.6TB。这位匿名黑客<a target="_blank" href="https://news.slashdot.org/story/16/04/07/008230/outdated-and-vulnerable-wordpress-drupal-versions-contributed-to-panama-papers-breach"><u>被认为</u></a>是利用了Mossack Fonseca服务器上运行的旧版本软件漏洞<a target="_blank" href="http://wptavern.com/outdated-and-vulnerable-wordpress-and-drupal-versions-may-have-contributed-to-the-panama-papers-breach"><u>成功实施入侵的</u></a>。这家为全世界的权贵设立大量离岸公司的律所在Web安全管理上非常松懈，邮件没有加密，邮件服务器是2009年版的Microsoft Outlook Web Access，使用的开源内容管理系统是旧版本WordPress和 Drupal。根据<a target="_blank" href="http://mossfon.com/wp-includes/js/autosave.js"><u>autosave.js文件</u></a>，该公司的 WordPress网站被发现运行的是2014年发布的v4.1版，主站还加载了很多过时的脚本和插件，网站主题是3年前<a target="_blank" href="http://www.mossfon.com/wp-content/themes/twentyten/css/style.css"><u>的Twenty Eleven (1.5)</u></a>，客户端入口的<a target="_blank" href="https://portal.mossfon.com/CHANGELOG.txt"><u>changelog.txt 文件</u></a>是公开的，它安装的Drupal内容管理系统已经3年没有更新，该版本包含了<a target="_blank" href="https://www.drupal.org/PSA-2014-003"><u>已知的高危漏洞</u></a>。
+➜原生支持Bash的Windows 10预览版释出
+https://www.solidot.org/story?sid=47765	16901
+微软在上周的开发者大会Build 2016上宣布与Canonical合作为Windows 10加入原生支持Bash的功能。现在，支持Bash和Cortana跨设备功能Windows 10预览版<a target="_blank" href="https://blogs.windows.com/windowsexperience/2016/04/06/announcing-windows-10-insider-preview-build-14316/"><u>正式释出</u></a>，版本号是Windows 10 Insider Preview Build 14316 。感兴趣的用户可以启用开发者模式Developer Mode——方法是设置&gt; 更新与安全 &gt;开发者，然后搜索Windows Features和选择Turn Windows features on or off”，点击启用 Windows Subsystem for Linux (Beta)。最后打开命令行提示符，输入bash，系统就会开始安装bash。
+➜Google开发运行IBM OpenPower芯片的服务器
+https://www.solidot.org/story?sid=47766	18702
+Google宣布与云计算公司Rackspace Hosting合作开发数据中心服务器，<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-04-06/google-taps-ibm-rackspace-to-dent-intel-s-hold-on-server-chips"><u>运行IBM的OpenPower 芯片Power9</u></a>。搜索巨人已经构建了能运行在OpenPower芯片上的软件。Google是世界上最大的服务器运营商之一，而英特尔是最大的服务器芯片供应商。Google此举显示它希望改用非英特尔的服务器芯片，或增加与芯片巨人讨价还价的资本。Google还与高通公司合作评估在数据中心使用ARM服务器，目前Google的数据中心还没有换到运行 OpenPower或ARM芯片的服务器。
+➜苹果用户不久将能卸载iOS预装的软件
+https://www.solidot.org/story?sid=47767	26925
+苹果CEO Tim Cook<a target="_blank" href="http://www.solidot.org/story?sid=45530"><u>去年表示</u></a>，该公司正在考虑为用户提供方法卸载预装的但用户并不需要的应用。现在，这一功能有望在不久之后<a target="_blank" href="http://appadvice.com/post/not-just-a-rumor-users-will-soon-be-able-to-remove-apples-stock-ios-apps/709986"><u>提供给用户</u></a>。苹果过去几周在iTunes元数据中加入了两个值——“isFirstParty”和“isFirstPartyHideableApp”，这些值暗示部分第一方应用（也就是预装的应用）可以被隐藏或移除。Tim Cook去年曾说过，“不是我们想要占着你们的地盘，我们没有动机这么做，我们想要你们快乐。”
+➜德国法律禁止诽谤外国领导人
+https://www.solidot.org/story?sid=47768	30188
+一位德国喜剧演员讽刺或者故意诽谤土耳其总统埃尔多安的诗歌提醒人们<a target="_blank" href="http://www.thelocal.de/20160406/german-comedian-could-face-jail-for-insulting-erdogan"><u>德国有一项禁止诽谤外国领导人的法律</u></a>。讽刺诗招致了<a target="_blank" href="http://www.solidot.org/story?sid=47678"><u>土耳其的外交抗议</u></a>，但它可能不会正式投诉。在这首歌曲中，德国喜剧演员Jan Böhmermann对埃尔多安进行了多次人身攻击，他知道自己的行为在德国是禁止的。根据德国刑法第103节，侮辱外国领导人将面临三年徒刑，而如果是故意诽谤则会使得刑期延长至五年。在土耳其表达严重不满之后，德国外交部的内部法律评估认为，Böhmermann很有可能违法了。因为总理默克尔的调停，土耳其不太可能正式投诉 Böhmermann，它目前只要求不要再重播侮辱该国总统的视频。
+➜白宫挪用部分对抗埃博拉病毒资金用于对抗Zika
+https://www.solidot.org/story?sid=47769	31465
+埃博拉疫情<a target="_blank" href="http://who.int/mediacentre/news/statements/2016/ihr-emergency-committee-ebola/zh/"><u>基本结束</u></a>，但Zika病毒正成为新的健康威胁。Zika病毒被认为可能会影响胎儿的大脑发育，它主要通过蚊子传播，而夏天即将来临，Zika可能会迎来传播的高峰。为了防止可能的Zika疫情，美国白宫宣布从27亿美元的对抗埃博拉病毒资金中<a target="_blank" href="http://arstechnica.com/science/2016/04/after-stand-off-with-congress-white-house-robs-ebola-fund-to-pay-for-zika/"><u>挪用5.1亿美元用于对抗Zika病毒</u></a>。此外，白宫还另外重新分配了7900万美元总共5.89亿美元资金。但卫生官员和政府仍然表示需要投入更多的资金。Zika病毒已经传播到了世界许多国家，其中包括美国和中国，但尚未形成疫情。
+➜Let's Encrypt签发了第100万证书
+https://www.solidot.org/story?sid=47770	32134
+2016年4月8日GMT时间9:04am，Let's Encrypt CA<a target="_blank" href="https://www.eff.org/deeplinks/2016/03/lets-encrypt-has-issued-million-certificates"><u>签发了</u></a>第100万个证书，对该非营利CA来说这是一个新的里程碑，距离它开放beta测试仅仅相距3个月零5天。一个证书可以被多个域名使用，Let's Encrypt签发的<a target="_blank" href="https://crt.sh/?Identity=%25&amp;iCAID=7395"><u>100万证书</u></a>被250万个完全限定域名所使用，其中超过90%以前从来没有获得浏览器认可的证书。Let's Encrypt项目由EFF、 Mozilla、Akamai、密歇根大学和思科等组织发起，其使命是让每个网站都能使用HTTPS加密，而中国网站使用HTTPS的数量极少。
+➜美国众议员怪罪儿子花竞选资金购买Steam游戏
+https://www.solidot.org/story?sid=47771	34848
+加州众议员Duncan Hunter在2015年的竞选资金财务披露上报告花了1302美元去购买Steam游戏，并标注将会偿还这笔个人消费开支。购买游戏的时间发生在去年10月13日到12月16日之间。这笔开支引起了联邦选举委员会的注意。联邦选举委员会不允许将竞选资金用于个人使用。Hunter的<a target="_blank" href="http://www.sandiegouniontribune.com/news/2016/apr/05/hunter-video-games/"><u>发言人称</u></a>，议员的年轻儿子使用了父亲的信用卡购买了一款游戏，随后又有多次未经授权的刷卡。联邦选举委员会没有对他的花费展开正式调查，但要求他对未经授权的个人花费<a target="_blank" href="http://www.sandiegouniontribune.com/documents/2016/apr/05/fec-letter-hunters-campaign/"><u>提供更多信息</u></a>。Duncan Hunter不反对暴力游戏，认为不应该将游戏作为真实世界暴力的替罪羊。
+➜中国发射返回式卫星实践十号
+https://www.solidot.org/story?sid=47772	38795
+中国昨天凌晨使用长征二号丁运载火箭在酒泉卫星发射中心<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/4/342651.shtm"><u>发射了</u></a>返回式微重力科学试验卫星实践十号，距离上一颗返回式卫星实践八号的发射相隔了十年。实践十号是中国第24颗返回式卫星，它将在地球低轨道工作二周。卫星搭载了19个实验载荷，将完成28项科学实验任务，其中6项实验涉及流体物理，3项氧化，8项材料学，3项辐射生物学，3项微重力生物学，4项生命科学。上一颗返回式卫星实践八号是在2006年9月发射的，而实践十号项目最初由中国国家航天局负责，相关科学实验早在2004年和2005年就已经挑选出来了，相关微重力实验还进行了演示。<a target="_blank" href="https://www.nasaspaceflight.com/2016/04/long-march-2d-shijian-10/"><u>但演示很快被中止</u></a>，原因是中国政府对国家航天局进行了改革，将科学卫星的管理工作转交给中科院。直到2012年实验演示阶段才重启。
+➜法国想要特斯拉将它的旧核电站变成汽车工厂
+https://www.solidot.org/story?sid=47773	40000
+法国政府能源和环境部部长Ségolène Royal<a target="_blank" href="http://arstechnica.com/cars/2016/04/france-wants-tesla-to-transform-its-old-nuclear-plant-into-an-auto-factory/"><u>想说服特斯拉电动汽车公司</u></a>，试图让该国的一座旧核电站变成特斯拉汽车工厂。特斯拉发言人则表示它们目前没有在欧洲开设工厂的计划。旧核电站 Fessenheim坐落于法德边界，从1978年开始运行，是法国目前年龄最长的仍然在运转的核电站。但在2011年福岛核事故之后，法国政府出于安全考虑决定在2017年关闭这座核电站。许多人反对关闭核电站，因为它支持了大约2000个工作岗位。Royal说她最近见过特斯拉的CEO Elon Musk，告诉他有一个地方可以办汽车厂， Elon Musk没有拒绝，她说，“不冒险无所得。”她将在本月晚些时候再次与Musk和其他商界领导人见面。
+➜研究人员破解 Google和Facebook的CAPTCHA系统
+https://www.solidot.org/story?sid=47774	41562
+哥伦比亚大学的研究人员利用技巧和机器学习以高成功率<a target="_blank" href="http://news.softpedia.com/news/google-recaptcha-cracked-in-new-automated-attack-502677.shtml"><u>破解了Google和Facebook的基于图像的CAPTCHA系统</u></a>。对于Google的reCAPTCHA系统，研究人员的成功率达到了 70.78%，解决一个CAPTCHA问题平均花费的时间为19.2秒。对于 Facebook的系统，成功率则高达83.5%，原因是 Facebook使用了高分辨率图像，而Google的系统使用了低分辨率照片，增加了图像识别的难度。研究人员在Black Hat Asia 2016大会上报告了他们的<a target="_blank" href="http://www.cs.columbia.edu/~polakis/papers/sivakorn_eurosp16.pdf"><u>论文</u></a>（PDF）。
+➜石墨烯能让雨发电
+https://www.solidot.org/story?sid=47775	42769
+在石墨烯的帮助下，太阳能电池板有一天<a target="_blank" href="http://spectrum.ieee.org/energywise/green-tech/solar/graphene-could-help-generate-power-from-rain"><u>将能在雨天发电</u></a>。青岛海洋大学的研究人员在《Angewandte Chemie International Edition》上发表<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201602114/abstract;jsessionid=76C840743FD13D0EA1D78E7050356D71.f03t03"><u>论文</u></a>，报告创造全天候太阳能电池的可能方法。雨滴并不是纯净水，它含有盐，能分离成正负离子。石墨烯是一种单原子厚度的碳二维材料，它的电子能吸引正电荷离子，正负离子的分离层能像电容器那样储存能量。研究人员在太阳能电池上添加石墨烯，它能在模拟雨水的环境下产生数百微伏的电力。论文主要作者、材料科学家Qunwei Tang称，未来的太阳能电池将能在任何天气条件下产生电力。
+➜《深度学习》教科书电子版发布
+https://www.solidot.org/story?sid=47776	44879
+由Ian Goodfellow 、Yoshua Bengio和Aaron Courville花了2年半时间完成的《<a target="_blank" href="http://www.deeplearningbook.org/"><u>深度学习</u></a>》教科书<a target="_blank" href="https://www.facebook.com/ia3n.goodfellow/posts/10102223910143043"><u>发布</u></a>了免费的电子版，印刷版还没有发布，应出版商MIT出版社要求，电子书只提供了HTML版本，没有提供PDF版本，以免读者太容易获取到电子版。HTML版是从PDF转换过来的，不是很完美，作者解释说，出版商不想让读者太容易的拷贝粘贴文本。<a target="_blank" href="http://research.google.com/pubs/IanGoodfellow.html"><u>Ian Goodfellow </u></a>是Google Brain团队的资深研究科学家，<a target="_blank" href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html"><u>Yoshua Bengio</u></a>是蒙特利尔大学的计算机科学教授，<a target="_blank" href="https://aaroncourville.wordpress.com/"><u>Aaron Courville</u></a>是蒙特利尔大学的计算机科学助理教授。

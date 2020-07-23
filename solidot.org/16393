@@ -1,0 +1,58 @@
+➜美国运营商测试激光宽带
+https://www.solidot.org/story?sid=41931	9119
+<div align="center"><img src="http://img.solidot.com.cn/0/749/li6MJO3h9F17k.jpg" height="320" width="480" align=""><br>
+<br>
+</div>
+匿名读者 写道 "MIT科技评论<a target="_blank" href="http://www.technologyreview.com/news/532346/laser-radio-links-upgrade-the-internet/"><u>报道</u></a>，美国三家电信运营商正在测试一种新的高速无线宽带方案，使用激光和毫米波技术取代传统的光纤，实现人口稀少地区的宽带覆盖。新技术在10公里范围内能实现 2Gbps网速。这项技术由<a target="_blank" href="http://www.aoptix.com/"><u>AOptix</u></a>公司研发，该公司认为，激光通信技术将成为光纤的理想替代品。公司的一位高层指出，激光宽带技术对于移动运营商来说意义尤其重大。如今的手机用户通过移动基站上网的需求十分旺盛，面对市场增长，移动运营商纷纷将连接手机基站的电话铜线升级为光纤，从而提高基站后续的网速。<br>
+➜Chrome 39发布，64位版支持Mac OS X
+https://www.solidot.org/story?sid=41932	10221
+Google<a target="_blank" href="http://googlechromereleases.blogspot.com/2014/11/stable-channel-update_18.html"><u>发布</u></a>了Chrome 39稳定版本，主要变化是正式推出Mac OS X的64位版本，Google此前推出64位Windows版本时保留了32位版本，而这次Google将只为OS X用户提供64位版本。Google<a target="_blank" href="http://www.solidot.org/story?sid=41122"><u>解释说</u></a>64位版本更快更稳定更安全，不推出32位Chrome For Mac只会影响少数使用Intel Core Duo处理器的Mac用户。Chrome 39的其它变化是一系列安全修正，引入了新的开发者功能。
+➜Mozilla、思科和EFF将为网站免费提供SSL证书
+https://www.solidot.org/story?sid=41933	12352
+<div align="center"><img src="http://img.solidot.com.cn/0/750/liv1oNHXc0lNM.png" height="246" width="480" align=""><br>
+<br>
+</div>
+Mozilla、思科、Akamai、IdenTrust、EFF和密歇根大学研究人员<a target="_blank" href="https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web"><u>宣布</u></a>了 <a target="_blank" href="https://letsencrypt.org/"><u>Let’s Encrypt CA</u></a>项目，计划为网站提供免费SSL证书，加速将Web从HTTP过渡到HTTPS。Let’s Encrypt CA项目计划从2015年夏天开始向任何需要加密证书的网站自动发行和管理免费证书。部署HTTPS的最大障碍是HTTPS所需证书的复杂性、官僚主义和费用，Let’s Encrypt项目的目标是解决这些问题，将证书安装的时间减少到20到30秒。Let’s Encrypt CA将由非赢利组织Internet Security Research Group (ISRG)运营。
+➜WhatsApp与Open WhisperSystems合作实现端对端强加密
+https://www.solidot.org/story?sid=41934	13916
+WhatsApp<a target="_blank" href="https://whispersystems.org/blog/whatsapp/"><u>宣布</u></a>与Open Whisper Systems合作实现端对端的强加密，连Mark Zuckerberg也无法知道你的聊天内容。双方合作在WhatsApp客户端中整合TextSecure协议，默认提供端对端加密。最新发布的WhatsApp Android应用已经包含了TextSecure加密协议支持，但目前它还不支持加密群聊或多媒体信息。
+➜诺基亚考虑重返手机市场
+https://www.solidot.org/story?sid=41935	15509
+诺基亚与富士康合作推出了一款低价Android平板N1，将于明年2月率先在中国市场上市。平板只是诺基亚重新进入消费者市场的第一步，这家昔日的手机巨头还在<a target="_blank" href="http://www.ftchinese.com/story/001059198#adchannelID=1500"><u>考虑重返手机市场</u></a>。根据将手机业务出售给微软时达成的协议，诺基亚在2016年之前不得制造智能手机。但诺基亚首席技术官Ramzi Haidamus表示：“在微软的权利条款失效后，我们将考虑开展手机许可业务。”诺基亚仍然是一个获得广泛认可的消费者品牌，但在诺基亚将硬件制造工厂一并出售给微软后，它以后的战略模式很可能是和N1一样的品牌许可。<br>
+➜Russ Allbery和Colin Watson退出Debian技术委员会
+https://www.solidot.org/story?sid=41936	23865
+围绕Debian选择初始化系统systemd所引发的争论让两名资深成员先后宣布从Debian技术委员会辞职。<a target="_blank" href="https://lists.debian.org/debian-ctte/2014/11/msg00071.html"><u>Russ Allbery</u></a>和<a target="_blank" href="https://lists.debian.org/debian-ctte/2014/11/msg00052.html"><u>Colin Watson</u></a>在Debian邮件列表上宣布了辞职声明。选择systemd的决定最早是由技术委员会作出的，Russ Allbery说，委员会几乎每一个决策的决定都受到巨大的压力，他感到没有精力能处理这些事情，他也觉得自己在技术委员会的工作对整个项目没什么帮助。之前另一位Debian的systemd维护团队成员也宣布了辞职。systemd项目看起来让Debian社区<a target="_blank" href="http://lwn.net/Articles/620879/#Comments"><u>产生了分裂</u></a>。技术委员会主席Bdale Garbee<a target="_blank" href="https://lists.debian.org/debian-ctte/2014/11/msg00078.html"><u>宣布</u></a>启动寻找新成员的工作。
+➜寻找大脑中“失去”的语言
+https://www.solidot.org/story?sid=41937	26768
+婴儿的母语会在大脑中留下神经模式，即使在完全停止说母语——比如被跨国领养——之后<a target="_blank" href="http://www.mcgill.ca/channels-contribute/channels/news/finding-lost-languages-brain-240174"><u>也会保留数年</u></a>。根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/content/early/2014/11/12/1409411111.abstract"><u>一篇论文</u></a>，加拿大科学家用核磁共振成像扫描了48名年龄在9岁到17岁的女孩。她们分成三组：第一组，出生在法语家庭只会说法语；第二组，出生在中国但被法语家庭领养后只会说法语，已经忘记了汉语；第三组能流利的说法语和汉语。研究人员在这些女孩听相同的汉语录音时扫描了她们的大脑，分析后惊讶的发现，不会说汉语的被领养中国女孩的大脑活动模式与仍然能说汉语的女孩大脑活动模式相匹配。结果<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-11/aaft-brt111414.php"><u>显示</u></a>，大脑在儿童期早期建立的语言表示可能在失去说这种语言的能力的情况下持续存在。
+➜研究人员宣布图像识别软件突破
+https://www.solidot.org/story?sid=41938	30007
+两组独立工作的研究人员<a target="_blank" href="http://www.nytimes.com/2014/11/18/science/researchers-announce-breakthrough-in-content-recognition-software.html?_r=1"><u>开发出人工智能软件</u></a>，能以前所未有的精度描述照片和视频中的内容，有时甚至能模仿人类的理解水平。Google研究人员的<a target="_blank" href="http://arxiv.org/abs/1411.4555"><u>论文</u></a> <a target="_blank" href="googleresearch.blogspot.com/2014/11/a-picture-is-worth-thousand-coherent.html"><u>发表</u></a>在预印本网站arXiv.org上，而斯坦福大学人工智能实验室的Fei-Fei Li和Andrej Karpathy的论文发表在大学的<a target="_blank" href="http://cs.stanford.edu/people/karpathy/deepimagesent/"><u>技术报告</u></a>上。两支团队都是利用神经网络处理图像识别的难题。神经网络能训练自己从数据中发现相似点和模式。他们都是用以相对少的图片集去训练软件，在软件学会识别图像模式和进行描述后，再用其测试去新的图像。专家认为，未来监控探头的软件不仅能通过面部识别技术识别特定人，还能识别特定行为，并自动警告当局。
+➜科学家希望网络管制对科研网开一面
+https://www.solidot.org/story?sid=41939	32261
+上月底，电子科技大学的一位研究人员在其博客上<a target="_blank" href="http://www.solidot.org/story?sid=41704"><u>抱怨</u></a>工信部关闭了他们没有备案的纯英文科学数据库网站。此事引发了广泛的讨论。《中国科学报》报道了后续情况，在目前网络监管日益严厉的形势下，部分科学家<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2014/11/307565.shtm"><u>希望网监对他们网开一面</u></a>。报道称：<i>这位研究人员告诉记者，断网后，他们曾一度考虑是否要将服务器从学校里搬出来。“现在很多服务器都放在国外，但是，这又会面临另一个问题——国内会屏蔽这些网站：国内用户可能无法访问这个数据库，或者是需要‘翻墙’才能访问。”近年来，随着网络监管更加严密，“翻墙”对于科研工作者来说早已是家常便饭。中科院大学管理学院教授柳卸林认为网络管制对于科研界来说是个“沉重的话题”。 柳卸林表示，当下科学发展快，全球化趋势明显，但我国的网络监管水平相对滞后，这在一定程度上拖了科学进步的后腿。柳卸林建议，应当对科研网站进行特殊化的分类管理。“网络安全监管与科学研究的开放同样是为了公共利益，二者不应该是对立的。”</i>
+➜IBM宣布免费版企业电邮服务Verse
+https://www.solidot.org/story?sid=41940	33685
+在蓝色巨人看来，Google和微软目前的电子邮件服务难当重任。它<a target="_blank" href="http://www.pcworld.com/article/2849472/ibms-new-enterprise-email-aims-to-organize-your-day.html"><u>宣布</u></a>了一个面向企业的免费Web电邮服务<a target="_blank" href="https://www.ibm.com/social-business/us/en/newway/sign-up/index.html"><u>Verse</u></a>，在电子邮件中整合社交媒体和分析，能理解用户工作的优先顺序。<span class="itemprop=&quot;articleBody">Verse 将于明年第一季度作为一个托管服务上线，IBM还将提供</span><span class="itemprop=&quot;articleBody">iOS和Android版本</span>。<span class="itemprop=&quot;articleBody">Verse类似</span><span class="itemprop=&quot;articleBody">IBM Notes 邮件客户端，但</span>工作在Web上。微软和Google最近都各自发布了改进电子邮件的服务：<span class="itemprop=&quot;articleBody">Office365的<a href="http://blogs.office.com/2014/11/11/de-clutter-inbox-office-365/"><u>Clutter</u></a></span>，Google的<span class="itemprop=&quot;articleBody"><a target="_blank" href="http://www.google.com/inbox/"><u>Inbox</u></a>。</span>
+➜机器学习算法认为艾略特是1965年去世的最著名作家
+https://www.solidot.org/story?sid=41941	36340
+1月1日是公有领域日，这一天会有大量受版权保护的作家作品进入到公有领域，这些作品可自由的印刷、数字化、修改或重新使用。名叫<a target="_blank" href="http://publicdomainrank.org/1965.html"><u>publicdomainrank.org</u></a>的网站会给这些作家进行排名，帮助像古滕堡项目之类的组织将精力集中在数字化最有影响力的作家作品上。但<a target="_blank" href="http://www.technologyreview.com/view/532591/machine-learning-algorithm-ranks-the-worlds-most-notable-authors/"><u>如何给这些作家排名</u></a>？ 美国新罕布什尔 Dartmouth学院的Allen Riddell开发出算法能自动的生成任意年份的著名作家排行榜。他的机器学习算法挖掘了两个数据库：一个是宾夕法尼亚大学维护的<a target="_blank" href="http://onlinebooks.library.upenn.edu/"><u>公有领域作品数据库</u></a>，另一个是维基百科英文版。1965年去世的作家作品将在明年1月1日进入到公有领域（版权保护有效期是50年的地方），
+根据Riddell算法，T·S·艾略特是该年世界最著名作家，之后是Eleanor Farjeon、Shirley Jackson、E. E. Smith和Monica Shannon。
+➜用GPS卫星探测暗物质
+https://www.solidot.org/story?sid=41942	37480
+两位科学家<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201411/t20141119_4255142.shtml"><u>认为</u></a>，GPS卫星网络中的时间差异可用于探测和测量暗物质。<a target="_blank" href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3137.html"><u>研究报告</u></a>发表在《自然·物理学》杂志上。 研究人员说，“我们的研究旨在实验一种探测暗物质的想法，暗物质的组织形式可能是类似气体的拓扑缺陷大集合，或能量破缺。我们认为，当暗物质扫过时，用高灵敏原子钟网络来探测这些缺陷，就可能探测到暗物质。哪里的钟出现了不同步，就知道可能有暗物质、拓扑缺陷经过这里。我们的设想是把GPS卫星坐标群作为人类建造的最大暗物质探测仪...地球在星系中运转，会经过这种气体。对我们来说，就像暗物质构成的星系风吹过地球系及其卫星。当暗物质吹过时，可能会让GPS系统的钟变得不同步，这一指标大约持续3分钟。如果暗物质让原子钟的时差超过10亿分之一秒，我们就能很轻易地探测到。”
+➜中国解除国际互联网大会举办地的网络封锁
+https://www.solidot.org/story?sid=41943	39814
+本周在中国，有一个地方你可以自由的访问Twitter、Facebook和YouTube，但<a target="_blank" href="http://www.bloomberg.com/news/2014-11-18/china-lifts-web-censorship-at-the-world-internet-conference.html"><u>期限只有三天</u></a>。中国正在浙江乌镇举办为期三天的国际互联网大会，与会者包括了中国互联网巨头阿里巴巴和腾讯的负责人，以及来自LinkedIn和SoftBank等全球科技公司的高管。中国短暂解除大会举办地的网络封锁并不意味着它将对网络审查政策三思。中国经常会对出席有影响力国际会议和论坛的与会者解除网络封锁，比如上周的亚太经合组织峰会。在一个实行互联网审查的国家举办所谓的国际互联网大会，即使是中国官员也肯定会意识到其中的荒谬。中国举办这个会议可能是为了在互联网的治理上展示更大的声音。
+➜美国参议院未通过改革NSA法案
+https://www.solidot.org/story?sid=41944	41125
+《纽约时报》<a target="_blank" href="http://cn.nytimes.com/usa/20141119/c19fisa/"><u>报道</u></a>，参议院共和党议员周二阻止了全面改革国家安全局(NSA)的一个电话项目的立法。这一项目曾属机密，作用是批量搜集美国民众的通话记录。提案发起人将其称为《美国自由法案》。支持它的民主党人及少数共和党人以2票之差未能获得过关所需的60票。提案获得了奥巴马政府的支持，以及由苹果、谷歌、微软和雅虎等公司组成的科技业联盟的拥护。这项提案源于情报领域的前承包商雇员斯诺登(Edward J. Snowden)于2013年6月曝光的内容。斯诺登揭露出，国家安全局从美国各大电话公司那里系统性地搜集通话元数据。奥巴马政府一开始不愿推动国会限制国家安全局的项目，不过后来强烈敦促参议院对提案予以支持。
+➜美国国家运输安全委员会裁决遥控飞机需要受到法律约束
+https://www.solidot.org/story?sid=41945	43043
+今年早些时候，法官<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=38650"><u>裁决</u></a>联邦航空局（FAA）无权监管遥控飞机，因为没有法规规定模型飞机属于无人机。但美国国家运输安全委员会刚刚推翻了这项裁决，认为遥控飞机和无人机一样都<a target="_blank" href="http://arstechnica.com/tech-policy/2014/11/govt-board-like-a-drone-your-rc-aircraft-is-regulated-by-law-so-pay-up/#p3"><u>需要受到法律监管</u></a>，因此在2011年遥控飞机近距离飞过直升机和人群拥挤的街道的Raphael Pirker需要支付1万美元罚款。FAA对这一决定表示欢迎，但Pirker的律师表达了反对意见，表示正考虑接下来的行动。华盛顿大学的无人机法律专家认为，FAA需要解释为什么有些人允许飞另一些人不允许飞。
+➜微软紧急发布补丁修复正被利用的安全漏洞
+https://www.solidot.org/story?sid=41946	44253
+微软<a target="_blank" href="http://blogs.technet.com/b/srd/archive/2014/11/18/additional-information-about-cve-2014-6324.aspx"><u>紧急发布了</u></a>一个计划外的补丁，<a target="_blank" href="http://arstechnica.com/security/2014/11/unscheduled-windows-update-kills-critical-security-bug-under-active-attack/"><u>修复</u></a>正被攻击者利用入侵Windows服务器的一个危险的安全漏洞。漏洞存在于Windows的<a target="_blank" href="http://en.wikipedia.org/wiki/Kerberos_(protocol)"><u>Kerberos验证协议</u></a>实现中，允许拥有低权限账号的攻击者远程劫持敏感的Windows域控制器，在企业或政府的网络中，域控制器被用于分配权限。这个权限提升漏洞已被攻击者利用控制存在弱点的网络。受漏洞影响最大的是Windows Server  2008 R2及早期版本，Windows Server 2012及更新版本影响不大。
+➜美国女子在Facebook向ISIS示爱被控支持恐怖主义
+https://www.solidot.org/story?sid=41947	45731
+29岁的维吉尼亚女子Heather Coffman因为在Facebook发表支持ISIS（伊斯兰国）的帖子而<a target="_blank" href="http://arstechnica.com/tech-policy/2014/11/woman-posts-love-of-isis-on-facebook-charged-with-promoting-terrorism/"><u>被控支持恐怖主义</u></a>，将在周三出席法庭听证会。Coffman有一个7岁大的孩子，与父母住在一起，主要通过互联网与外界联系。联邦执法机构通过搜查令获得了她的身份信息，派了卧底花了几个月时间去调查她。她曾在Facebook上回应为什么要张贴支持ISIS的照片，她写道，“I love ISIS。”她还发表了仇恨男同性恋和犹太复国主义者的帖子，称“他们都应该死”。FBI在声明中称，Coffman和卧底讨论了支持ISIS和其它恐怖主义组织。

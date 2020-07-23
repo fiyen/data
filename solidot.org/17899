@@ -1,0 +1,66 @@
+➜Enclosure-PUF：硬件/固件物理攻击防御的起点
+https://www.solidot.org/story?sid=59168	8314
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "斯诺登揭露了老大哥在<a href="http://www.spiegel.de/media/media-35669.pdf" target="_blank">2010年的供应链攻击</a>后不少人开始关注供应链攻击，2018年10月的Bloomberg关于<a href="https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies" target="_blank">硬件/固件供应链后门植入事件</a>的曝光再次让供应链安全问题进入公众视野，不论此次事件是否属实但从技术的角度问题的确存在。特别在<a href="https://hardenedlinux.github.io/system-security/2018/10/03/platform_firmware_security_defense.html" target="_blank">EVIL MAID（注：俗称“黑心保姆攻击”）的场景（Section 3.3.4.2中有具体描述）</a>中，从后门植入（或者是post-exploitation）的角度，固件（<a href="https://github.com/hardenedlinux/firmware-anatomy/blob/master/hack_ME/firmware_security.md" target="_blank">BIOS/UEFI</a>/SMM，<a href="https://hardenedlinux.github.io/system-security/2018/07/04/story_hunting_the_shadow.html" target="_blank">Intel ME/SPS</a>，<a href="http://syssec.rub.de/media/emma/veroeffentlichungen/2017/08/16/usenix17-microcode.pdf" target="_blank">microcode</a>）后门无论是成本以及持久化的便捷性都比硬件有着无法比拟的优势，但从防御的角度，软件/固件在具有可审计的前提下（闭源除外），reproducible builds，针对固件供应链的场景化加固（MRC/SPD信息和固件以及Linux内核的联动防御至少能做到tamper evidence/detection）以及一些<a href="https://hardenedlinux.github.io/system-security/2018/12/12/NIST-SP-800-193.html" target="_blank">合规指南</a>的实现都可以防御绝大部分常规攻击。但在嵌入式IoT领域，针对信任根(Root of Trust)物理攻击的防护会更难，在近日的35C3上由<a href="https://www.physec.de/" target="_blank">德国安全咨询公司PHYSEC</a>的研究人员在演讲<a href="https://media.ccc.de/v/35c3-9611-enclosure-puf" target="_blank">Enclosure-PUF Tamper Proofing Commodity Hardware and other Applications</a>中谈到了当前物理安全的一些问题，比如PCB级别的防篡改电路因为成本问题只能局部覆盖，FIPS-140-2 Level 4认证（开源的软件实现一般是基于OpenSSL的<a href="https://www.openssl.org/docs/fips.html" target="_blank">FIPS模块</a>）非常难以达到（目前全世界14个达到FIPS-140-2 Level 4的密码模块中只有3个是HSM）以及现有方案难以适配到已经大规模部署的嵌入式设备上，而PHYSEC给出了被称为<a href="https://www.emsec.ruhr-uni-bochum.de/media/attachments/files/2017/03/dissertation-zenger.pdf" target="_blank">Enclosure-PUF</a>的方案，使用固定的电磁波频段和功率（传输距离&lt;100cm）在Enclosure中搜集的信号作为随机和唯一的deviation，另外和基于RISC-V的MIT Sanctum使用了类似的<a href="https://www.solidot.org/story?sid=58873" target="_blank">fuzzy extraction</a>获得密钥过程，演示中使用了两组硬件分别是：Raspberry Pi + PHYSEC防御模块（两个窄带无线电，已经建立的1*1的spatial channel[ user vs. base station]，2MHZ带宽和868MHZ工作频率），APU + PHYSEC防御模块（两个宽带无线电各带两个天线，2*2 spatial channels，40MHZ带宽和5.5GHZ工作频率。Enclosure都是使用廉价的饭盒和铝箔纸模拟的。这个<a href="https://pdfs.semanticscholar.org/9c7f/d8cad243654cbcc29b62d721d5c8929ecdb8.pdf" target="_blank">方案</a>一方面可以扩展到PCB/IC领域，另外一方面为现有的嵌入式设备是陪PUF成为可能，关键是，它是一个非常低成本的解决方案。"</i>
+➜日本新年号于4月1日公布，新天皇5月1日即位
+https://www.solidot.org/story?sid=59169	8913
+<a href="/~千年虫">千年虫</a> 写道<i> "2019年5月1日，日本天皇明仁让位，皇太子德仁即位并改元。为了给各方面系统留下一定的修改时间，尽量避免影响民众生活，内阁决定打破即位时公布年号的惯例，并提前一个月于4月1日公布新年号。此项决议由安倍晋三<a href="https://www.nikkei.com/article/DGXMZO39595920R00C19A1000000/" target="_blank">发表</a>。新年号选取标准是“拥有美好的含义，适合代表国民理想”、“两个汉字”、“易读易写”等。"</i>
+➜MD RAID 子系统维护者 Shaohua Li 去世
+https://www.solidot.org/story?sid=59170	11609
+内核开发者、MD RAID 子系统维护者 Shaohua Li <a href="https://lkml.org/lkml/2019/1/2/292"><u>因癌症去世</u></a>。Shaohua Li 从 2003 年起参与内核开发，他的贡献覆盖了从 x86、<span class="caps">IOMMU</span>、存储到内存管理等不同的子系统，他就职于 Facebook，2016 年接替长期的 MD 维护者 Neil Brown 成为<a href="https://lkml.org/lkml/2016/1/4/455"><u>新的维护者</u></a>，过去一年他一直与癌症作斗争，他去世之后，Jens Axboe 暂时充当临时维护者。
+➜内容审查外包工厂
+https://www.solidot.org/story?sid=59171	13502
+和很多工作一样，<a href="https://cn.nytimes.com/technology/20190102/china-internet-censor/"><u>内容审查也有专门的外包工厂</u></a>。总部位于北京的博彦科技的业务就包括为其他公司承担审查工作。博彦科技在其内容审查工厂雇佣了 4000 多名员工，日夜浏览和审查网络内容。2016 年，这样的员工只有 200 名左右。许多网络媒体公司都有自己的内部内容审查团队，有时可以多达数千人。他们正在探索让人工智能来做这项工作。一家大型网络媒体公司的人工智能实验室负责人说，该公司有 120 种机器学习模型。但成果是不稳定的。用户可以很容易地欺骗算法，因此审查还是主要靠人工。
+➜苹果大中华区销售下滑
+https://www.solidot.org/story?sid=59172	14146
+苹果自 2007 年推出 iPhone 以来，首次在即将公布季报之前发布营收预警，CEO 库克(Tim Cook) 将之归咎于中国市场的 iPhone <a href="https://cn.reuters.com/article/apple-revenue-forecast-0102-wedn-idCNKCS1OX033"><u>销售放缓</u></a>。中国经济受到中美贸易关系的不确定性所拖累。苹果调降营收预估引发外界质疑该公司是否遭到中国官员或消费者的惩罚，以帮助华为等中国国内企业的产品。库克称，中国政府并未针对苹果产品采取行动，但部分消费者可能会因为苹果是一家美国公司而选择不再购买 iPhone 或其他苹果设备。“更大的问题是 (中国) 经济放缓，以及令经济进一步承压的贸易紧张局势，”库克说。“虽然我们预期到主要新兴市场会面临一些挑战，但没想到经济减速的程度这么高，尤其是大中华区，” 他在给投资者的信件中称。库克称，实际上，该公司营收不及预期的主要原因、以及全球营收同比下滑，就是由于大中华区的 iPhone、Mac 和 iPad 的销售欠佳。
+➜嫦娥四号登陆月球背面
+https://www.solidot.org/story?sid=59173	17655
+官方新华社<a href="http://www.xinhuanet.com/2019-01/03/c_1123942277.htm"><u>报道</u></a>，嫦娥四号探测器于 1 月 3 日 10 时 26 分成功登陆月球背面，地点是南极艾特肯盆地内的冯 • 卡门撞击坑，实现人类探测器首次在月球背面软着陆。嫦娥四号于 12 月 8 日<a href="https://www.solidot.org/story?sid=58878"><u>发射</u></a>，12 月 12 日进入月球轨道，30 日变轨进入预定的月球背面着陆准备轨道。嫦娥四号探测器包含了登陆器和漫游车，其中登陆器重 1.2 吨，漫游车重 140 公斤。登陆器配备了放射性同位素热电机，将在三个月的任务期间为其搭载的科学仪器供电，它的一个重要设备是低频射电光谱仪。漫游车配备了太阳能电池板，它将探索月球背面，挖掘和分析土壤样本，它搭载了全景摄像机获取月球表面的三维图像，月球探测雷达以及可见光和近红外成像光谱仪，探测月球背面地形和矿物组份。嫦娥四号探测器通过五月发射的中继卫星鹊桥号与地球通信。
+➜Scratch 3.0 发布
+https://www.solidot.org/story?sid=59177	17850
+MIT 为儿童编程开发的 Scratch 语言<a href="https://scratch.mit.edu/discuss/topic/326861/"><u>发布了 3.0 版</u></a>。主要变化包括：几十个新的小精灵，新的声音编辑器，新的编程块，支持平板（需要 Chrome 或 Safari 浏览器）等等。<a href="https://zh.wikipedia.org/wiki/Scratch"><u>Scratch</u></a> 的编程风格类似 Lego，建立的程序是用鲜艳的代码块拼接起来，其特别定制的界面允许儿童将图形和声音组合，创造简易动画。所有基本程序结构，如循环和 if 语句，都为不同的块类所支持和组合。Scratch 可以在浏览器上直接编辑，支持作品共享。
+➜中国论文数量在 10 年间大幅增加
+https://www.solidot.org/story?sid=59174	18936
+在对研究开发实力进行国际比较之际，相关研究论文篇数是一个代表性指标。从 2014～2016 年各国发表的论文篇数占整体的比例来看，美国为 25.1％，中国为 19.9％。均大幅超过居第 3 位的英国（7.1％）。中国 2004～2006 年仅占 8.0％，但在 10 年里<a href="http://cn.nikkei.com/industry/scienceatechnology/33753-2019-01-03-05-00-20.html" target="_blank"><u>迅速增加了论文数</u></a>。中美从论文的质量来看也力压其他国家。观察引用次数多、被评为优秀的论文数的各国论文占比来看，2014～2016 年美国为 37.9％，中国也达到 21.6％。中美的研究人才也在明显增加。中国 2016 年的研究人员数量达到 169 万人，多于欧盟 15 个主要国家的研究人员总和（165 万人）。与 5 年前的 2011 年相比增加了近 40 万人。
+➜NASA 公布天涯海角的首批照片
+https://www.solidot.org/story?sid=59175	27305
+<div align="center"><img src="//img.solidot.org/0/777/liGh4WsZMsHtw.png" width="450" height="494" align=""><br>
+</div>
+<br>
+NASA 公布了新视野号探测器近距离飞越柯伊伯带天体“Ultima Thule（天涯海角，正式编号 2014 MU69）”后发回的<a href="http://pluto.jhuapl.edu/News-Center/News-Article.php?page=20190102"><u>首批照片</u></a>，显示其外形<a href="https://arstechnica.com/science/2019/01/nasa-probe-finds-a-snowman-shaped-relic-of-the-early-solar-system/#p3" target="_blank"><u>类似雪人</u></a>。组成雪人的两部分都近似球体，最新的照片提供了太阳系早期行星和卫星如何形成的证据。天文学家认为他们发现了一个原始的星子（planetesimal）——它们充当了太阳系大天体的构件。在大约 45 亿年前，较大型的星子聚集起来形成了我们今天所知的内太阳系行星和卫星。但在遥远的柯伊伯带，星子数量较少，Ultima Thule 可能是太阳系最初几百万年的遗物，是太阳系内最古老的天体之一，也是人造探测器发现的最古老天体。
+➜复兴号将实现时速 350 公里自动驾驶
+https://www.solidot.org/story?sid=59176	28531
+官媒<a href="http://news.sciencenet.cn/htmlnews/2019/1/421689.shtm"><u>报道</u></a>，连接北京市与河北省张家口市的京张高铁将首次实现时速 350 公里自动驾驶。目前中国的高铁由司机驾驶，但自动驾驶将是未来的趋势。中国铁路总公司已在珠三角的莞惠、佛肇两条时速 200 公里的城际铁路使用了 ATO（高铁列车自动驾驶）。ATO 是一个大系统，包括车站里安装的地面设备，动车组上安装的车载设备，还有在这些设备之间传递信息的通信系统，“采用 ATO 以后，司机只要按一个启动按钮，就可以实现列车从车站自动发车、在站间自动运行、运行时间按计划自动调整、到达车站精确停车、停车后自动开门等功能。” 铁科院专家说。
+➜百度搜狐多个频道被要求整改暂停更新
+https://www.solidot.org/story?sid=59178	30676
+中国互联网最高审查机构网信办分别约谈了<a href="https://www.yicai.com/news/100091457.html"><u>搜狐</u></a>和<a href="http://tech.sina.com.cn/i/2019-01-03/doc-ihqfskcn3717943.shtml"><u>百度</u></a>相关负责人，以传播低俗信息和破坏舆论生态为由勒令其进行整改，并要求在整改期间暂停多个频道的更新：搜狐 WAP 网 “新闻频道”、搜狐新闻客户端“新闻频道” 自 2019 年 1 月 3 日 15 时起暂停更新一周；百度手机网页版、百度新闻客户端 “推荐频道”、百度 App“女人频道”“搞笑频道”“情感频道” 自 1 月 3 日 15 时起暂停更新一周。 搜狐和百度表示会严格执行。
+➜网信办启动为期半年的网络生态治理专项行动
+https://www.solidot.org/story?sid=59179	31575
+网信办<a href="http://www.cac.gov.cn/2019-01/03/c_1123942483.htm"><u>宣布</u></a>启动为期半年的网络生态治理专项行动，“对各类网站、移动客户端、论坛贴吧、即时通信工具、直播平台等重点环节中的淫秽色情、低俗庸俗、暴力血腥、恐怖惊悚、赌博诈骗、网络谣言、封建迷信、谩骂恶搞、威胁恐吓、标题党、仇恨煽动、传播不良生活方式和不良流行文化等 12 类负面有害信息进行整治，集中解决网络生态重点环节突出问题，充分运用现有行政执法手段，严厉查处关闭一批违法违规网站和账号，有效遏制有害信息反弹、反复势头，促进网络生态空间更加清朗。”此外，教育部<a href="http://www.cac.gov.cn/2019-01/03/c_1123939159.htm"><u>发出通知</u></a>，严禁有害 APP 进入中小学校园，要求各地建立学习类 APP 进校园备案审查制度，“凡发现包含色情暴力、网络游戏、商业广告等内容及链接，或利用抄作业、搞题海、公布成绩排名等应试教育手段增加学生课业负担的 APP，要立即停止使用，退订相关业务，卸载 APP，取消关注有关微信公众号。”
+➜伊朗准备封杀 Instagram
+https://www.solidot.org/story?sid=59180	35537
+伊朗当局<a href="https://www.bloomberg.com/news/articles/2019-01-02/iran-extends-social-media-crackdown-with-move-to-bar-instagram?srnd=technology-vp" target="_blank"><u>准备屏蔽</u></a>流行社交网络 Instagram，最后一个该国网民仍然能自由访问的大型平台。在得到伊朗国家网络空间理事会（National Cyberspace Council）批准之后，检察官将可以下令屏蔽该服务，虽然官员们尚未对屏蔽达成共识。Instagram 将与 Twitter、Facebook、YouTube 和 Telegram 一起成为另一个以国家安全理由屏蔽的社交服务。虽然有限制，包括精神领袖哈梅内伊(Ali Khamenei)，总统鲁哈尼（Hassan Rouhani）和外交部长扎里夫(Mohammad Javad Zarif)在内的政客仍然在继续使用这些服务，鲁哈尼的 Twitter 认证账号有超过 80 万粉丝。
+➜贩卖 12306 用户信息者被抓获
+https://www.solidot.org/story?sid=59181	36865
+<a href="/~来自没有了">来自没有了</a> 写道 <i>"北京市公安局网络安全保卫总队与西城分局于 2018 年 12 月 29 日<a href="https://media.weibo.cn/article?id=2309404323416281902332" target="_blank">抓获</a>网名为 deepscorpions <a href="https://www.solidot.org/story?sid=59122" target="_blank">贩卖</a> 12306 铁路订票网站用户数据的陈某。供述 <a href="https://www.solidot.org/story?sid=59124" target="_blank">60 余万条</a>用户注册信息为网上非法购买所得。其余 410 余万条铁路乘客信息，系其利用上述用户注册信息，通过第三方网络订票平台非法获取。
+值得一提的是，贩卖者使用的新浪微博图片网址其实<a href="https://m.weibo.cn/detail/4322335572612563" target="_blank" style="">隐含 UID</a>（User ID）。"</i>
+➜GIMP 开发者透露 2019 年计划
+https://www.solidot.org/story?sid=59182	39118
+开源图像编辑器项目 GIMP 的开发者通过官方博客回顾了 2018 年<a href="https://www.gimp.org/news/2019/01/02/gimp-and-gegl-in-2018/" target="_blank"><u>谈论了 2019 年的发布计划</u></a>。开发者称，在去年发布 v2.10 之后，距离下一个大更新 v3.0 的释出还有一段时间，为了避免用户需要等待几年时间才能使用到新特性，开发者陆续在 v2.10.x 的小更新中加入了新特性。他们将每 1 到 2 个月释出小的更新。2019 年 1/2 月将发布 2.10.10 版本，该版本将会采用更快的图层组渲染，Bucket Fill 工具的智能着色，以及其它可用性方面的改进。他们还计划发布不稳定版本 2.99.2，它将最终导向 v3.0 版本。GIMP 3.0 将会基于 GTK3，精简代码库支持非破坏性编辑，他们有很多工作要做。
+➜Nokia 9 泄照展示五个后置摄像头
+https://www.solidot.org/story?sid=59183	46719
+<div align="center"><img src="//img.solidot.org/0/778/lizd47FNlM9t2.jpg" width="450" height="253" align=""><br>
+</div>
+<br>
+HMD 的下一代诺基亚品牌旗舰手机 Nokia 9 或 Nokia 9 Pureview <a href="https://arstechnica.com/gadgets/2019/01/nokia-9-leak-shows-off-all-five-rear-cameras/" target="_blank"><u>将有五个后置摄像头</u></a>，最新的泄漏照片和视频展示了五个摄像头的布局和特色功能。视频称，五个摄像头能同时拍照，比普通的摄像头能捕捉到 10 倍的光，此外手机还配备了 2K  5.99 英寸显示屏，Snapdragon 845 SoC，6GB 内存，128GB 存储、屏幕指纹传感器、 Qi 无线充电， Android 9 Pie 和两年更新。这部手机目前还不知道会何时发布。
+➜公共社保支出低可能是低生育率的一个原因
+https://www.solidot.org/story?sid=59184	46917
+据最新地方公布数据加总，今年中国新生儿出生数或会低于 1500 万，这意味着今年人口出生率仅为 10‰，是 1949 年以来的最低点。统计中上一次新出生人口不足 1500 万的年份是 1961 年，那一年中国还处在大饥荒的尾部。即便考虑到随着经济水平提高人口增长率自然降低，那么按照 1500 万新生人口估算的中国总生育率刚能达到 1，约为一对夫妇一生仅要一个孩子，这个数字已经远低于日本 1.4 的水平，比之人口结构稳定更替的 2.1 的水平更是差了一倍。一个流行的论断是高房价和还贷压力是挤出人们生育意愿的罪魁。但生育率与房价之间基本不存在相关性，反而<a href="http://www.ftchinese.com/story/001080917?adchannelID=&amp;full=y"><u>是与公共社保支出相关</u></a>。政府在养老、医疗及社会救济方面所做的转移支付所占比例不到 GDP 的 2%，公共社保支出过低，不仅使得居民只能实施更多的自我保障从而对生育谨慎，另一方面也意味着公共福利和社会救济产品的供给过少，造成公共资源或者分配不平等，或者价格高昂。两方面共同起作用，居民即便有较强的生育意愿也不敢采取行动。
+➜Mozilla Thunderbird 概述 2019 年计划
+https://www.solidot.org/story?sid=59185	48078
+Mozilla 正重新投入资金和人力去开发曾被它放弃的开源邮件客户端 Thunderbird，它在去年组建了 8 人团队专职开发 Thunderbird。官方博客<a href="https://blog.mozilla.org/thunderbird/2019/01/thunderbird-in-2019/" target="_blank"><u>介绍了它的 2019 年计划</u></a>，其中包括：解决 UI 响应和性能问题，利用新技术去重写部分程序，实现多进程支持。其它可用性方面的改进包括改进 Gmail 支持，Gmail 是最大的邮件服务商之一，改进对它的支持是有意义的。开发者计划解决 Gmail 标签支持，改进通知，更好的整合操作系统内置的通知系统，改进加密的可用性，它已经雇佣了一名专注于安全和隐私的工程师。
+➜数字化的彩色《几何原本》
+https://www.solidot.org/story?sid=59186	48168
+匿名读者 写道<i> "<a href="https://www.c82.net/euclid/" target="_blank">BYRNE’S EUCLID</a> 是 <a href="https://en.wikipedia.org/wiki/Oliver_Byrne_(mathematician)" target="_blank">Oliver Byrne</a> 版本的《几何原本（<a href="https://en.wikipedia.org/wiki/Euclid's_Elements" target="_blank">Euclid's Elements</a>）》—— The First Six Books of the Elements of Euclid（前六卷几何原本，1847 年版）的复制。使用彩色插图演示证明从而避免使用字母标注边，角以及图形。添加了交互式图表（证明中的图形可点击），交叉引用。设计者 Nicholas Rougeux 在其<a href="https://www.c82.net/blog/?id=79" target="_blank">博客文章</a>介绍了制作过程。</i>
+<p></p>
+"

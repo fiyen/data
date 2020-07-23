@@ -1,0 +1,48 @@
+➜Google 开始屏蔽未认证设备运行 GApps
+https://www.solidot.org/story?sid=55942	12771
+XDA Developers <a href="https://www.xda-developers.com/google-blocks-gapps-uncertified-devices-custom-rom-whitelist/" target="_blank"><u>报告</u></a>，Google 开始屏蔽未认证的设备运行它的 GApps 应用。用户在设置阶段 登录 Google 失败，应用弹出了警告信息，“设备未被 Google 认证”。Android 基础系统是开源的，但运行在 Android 之上的 GApps 是闭源的，而且并非免费，要在设备上安装 GApps 厂商需要从 Google 获得授权并需要满足一定条件。现在使用定制 Android ROM 的用户将会看到警告信息，幸运的是 Google 并没有完全屏蔽定制 ROM，它允许用户前往 <a href="http://g.co/androiddeviceregistration">g.co/AndroidDeviceRegistration</a> 注册他们的设备，输入设备的 ID，而设备 ID 需要将设备插到电脑上然后安装开发者工具后才能查看。这一政策对中国用户<a href="https://arstechnica.com/gadgets/2018/03/google-starts-blocking-uncertified-android-devices-from-logging-in/" target="_blank"><u>意味着什么</u></a>？Google Play 及相关应用在中国都被屏蔽了，而中国销售的 Android 设备基本上没有预装 GApps，如果中国 Android 用户想要安装 GApps，他们现在在登录 Google 时是否会弹出警告信息？
+➜李彦宏表示中国人多愿意用隐私换便利
+https://www.solidot.org/story?sid=55943	13880
+百度董事长兼 CEO 李彦宏出席中国高层发展论坛“创新引领未来” 专场论坛。在回答如何使用数据这一问题时，李彦宏<a href="http://www.bjnews.com.cn/finance/2018/03/26/480626.html" target="_blank"><u>表示</u></a>， “当你把不同数据汇聚在一起，力量就会更强大。我们也非常了解隐私问题或者说如何保护隐私。我认为在过去的几年里，中国已经越来越意识到这个问题的重要性，而且执法力度也加强了许多。同时我也认为，中国人对隐私问题的态度更加开放，也相对来说没那么敏感。如果他们可以用隐私换取便利、安全或者效率。在很多情况下，他们就愿意这么做。当然我们也要遵循一些原则，如果这个数据能让用户受益，他们又愿意给我们用，我们就会去使用它的。我想这就是我们能做什么和不能做什么的基本标准。”
+➜网络名人接受统战学习
+https://www.solidot.org/story?sid=55944	14457
+官媒<a href="http://www.thepaper.cn/newsDetail_forward_2043049" target="_blank"><u>报道</u></a>，3 月 18 日，52 名网络名人在北京参加中央统战部第二期网络人士理论研讨班。学员包括了搜狗 CEO 王小川、知乎 CEO 周源、网络作家 “跳舞”、“天蚕土豆”、微博博主 “@陆琪”、公众号负责人 “咪蒙”等。报道内容是标准的党宣，学员还前往临近的党的旧址基地接受红色教育。
+➜宏碁和 Google 发布 Chrome OS 平板
+https://www.solidot.org/story?sid=55945	17452
+宏碁和 Google 合作<a href="https://arstechnica.com/gadgets/2018/03/chrome-os-tablets-are-official-meet-the-acer-chromebook-tab-10/" target="_blank"><u>发布了</u></a>运行 Chrome OS 系统的平板 Chromebook Tab 10，这是第一款针对教育市场的 Chrome OS 平板。显示屏大小 9.7 英寸，分辨率 2048x1536，264 ppi，0.39 英寸厚，Wacom 触控笔，处理器是 Rockchip OP1，内存 4GB，32GB 储存空间，2 百万前置 5 百万像素后置摄像头，下个月上市，售价 329 美元。Chrome OS 支持运行 Android 应用。Google 的 Android 平板看起来已经死亡，它的最后一款 Android 平板产品是 Pixel C，2017 年停售。
+➜天宫一号预计在复活节前后坠落
+https://www.solidot.org/story?sid=55946	19908
+根据欧洲航天局的最新<a href="http://blogs.esa.int/rocketscience/2018/03/26/tiangong-1-reentry-updates/" target="_blank"><u>估计</u></a>，天宫一号空间站预计将在 3 月 30 日到 4 月 2 日之间也就是复活节前后重返大气层，具体时间和坠落地点还无法精确预测。天宫一号的大部分组件会在大气层中焚烧掉，但会有少量碎片落在地面，砸到人的几率非常非常低。Virtual Telescope Project 和 Tenagra 天文台<a href="https://www.cnet.com/news/chinese-space-station-tiangong-1-live-virtual-telescope-project/" target="_blank"><u>将从</u></a> 3 月 28 日 5 a.m. PT 开始<a href="https://www.virtualtelescope.eu/2018/03/24/farewell-tiangong-1-online-observation-of-the-chinese-space-station-28-mar-2018/" target="_blank">直播天宫一号</a>。
+➜Valve 使用深度学习识别 CSGO 的作弊者
+https://www.solidot.org/story?sid=55947	26517
+反作弊是流行网游面临的最大问题之一。在游戏开发者大会上，Valve 程序员 John McDonald 介绍了该公司<a href="https://www.pcgamer.com/vacnet-csgo/" target="_blank"><u>如何使用深度学习方法</u></a>去解决 CSGO（反恐精英全球攻势） 的作弊问题。CSGO 是 Steam 平台上最受欢迎的 FPS 游戏之一，去年游戏拷贝销售收入就超过一亿美元（不包括微交易）。深度学习是如此有效，以至于 Valve 将其应用于多种问题，并积极寻找其他游戏工作室合作在其游戏中实现深度学习反作弊方案。Valve 使用的深度学习系统叫 VACnet，VACnet 不是新版的 VAC，而是额外的一个系统，使用深度学习分析玩家的游戏内行为，掌握作弊的形式，根据动态标准识别和封掉作弊者。VACnet 最近还使用玩家的数据重新训练去识别新的作弊，在短期内其定罪率一度接近 100%。为了处理 CSGO 的数百万玩家行为，Valve 为 VACnet 搭建了服务器农场，使用了 64 个刀片服务器，每个有 54 个 CPU 核心共 3456 个 核心，每个服务器内存 128GB。Valve 在硬件上花了数百万美元，但相比游戏拷贝的销售收入，这笔费用是微不足道的。
+➜富士康收购贝尔金
+https://www.solidot.org/story?sid=55948	27864
+世界最大的 IT 代工企业富士康以 8.86 亿美元现金<a href="http://www.belkin.com/us/pressreleases/8805137941564/" target="_blank"><u>收购了</u></a>贝尔金。贝尔金旗下包括了 Linksys、Phyn 和 Wemo 品牌，它将作为富士康的一家子公司运作。贝尔金的产品包括外设、无线充电设备、Wi-Fi 设备和智能家庭相关产品。富士康还将<a href="https://www.bloomberg.com/news/articles/2018-03-27/foxconn-unit-buys-belkin-for-886-million-in-push-into-brands" target="_blank"><u>获得</u></a>贝尔金超过 700 项专利组合。富士康总部在台湾，而贝尔金总部在加州，因此这笔交易还需要获得美国海外投资委员会的批准，它最近否决了博通对高通的并购交易。
+➜研究人员发现新的分支预测攻击
+https://www.solidot.org/story?sid=55949	28583
+威廉玛丽学院、卡内基梅隆大学、加州大学河滨分校和宾厄姆顿大学的研究人员<a href="http://www.cs.ucr.edu/~nael/pubs/asplos18.pdf" target="_blank"><u>报告了（PDF）</u></a>一种新的<a href="https://arstechnica.com/gadgets/2018/03/its-not-just-spectre-researchers-reveal-more-branch-prediction-attacks/#p3" target="_blank"><u>分支预测攻击</u></a>，利用现代处理器的预测执行功能去泄漏敏感信息，破坏操作系统和软件为保护重要数据建立的安全边界。这听起来似曾相识。今年初披露的 Spectre 攻击利用的就是处理器的预测执行功能泄漏敏感信息。新的攻击被命名为 BranchScope，与 Spectre v2 攻击有相似之处，都是利用处理器的分支预测行为。Spectre 2 依赖于分支目标缓冲区 (Branch Target Buffer)，而 BranchScope 则是模式历史表 (Pattern History Table)。研究人员针对的是英特尔处理器，他们使用该攻击去泄漏英特尔 SGX (Software Guard Extensions)保护的信息。
+➜FTC 调查 Facebook
+https://www.solidot.org/story?sid=55950	30277
+美国联邦贸易委员会 (FTC) <a href="http://www.ftchinese.com/story/001076907" target="_blank"><u>证实</u></a>对 Facebook 的隐私保护实践展开调查，而 Facebook 过去十天市值<a href="http://business.financialpost.com/technology/u-s-ftc-investigating-facebooks-privacy-practices" target="_blank"><u>跌去了</u></a> 1000 亿美元。FTC 消费者保护局代理局长汤姆 • 帕尔 (Tom Pahl) 表示，该局 “严肃对待近期相关新闻报道，这些报道引发了对 Facebook 隐私保护实践的严重关切”，并警告称，该局将对“那些未能履行其隐私保护承诺的公司” 采取行动。这项调查可能导致 Facebook 面临罚款。该公司曾于 2011 年与联邦贸易委员会签署同意令，该同意令要求 Facebook 明确告知用户：他们的数据正如何被与第三方分享。如果被发现违反这一同意令，该公司的每项违规操作可能面临每天高达 4 万美元的罚款.
+➜李开复称没有多少国家能受益于 AI 革命
+https://www.solidot.org/story?sid=55951	34275
+前 Google 大中华区总裁现在的著名风险投资人李开复<a href="https://qz.com/1237457/kai-fu-lee-says-the-list-of-countries-that-will-benefit-from-the-ai-revolution-is-exceedingly-short/" target="_blank"><u>表示</u></a>，没有多少国家能受益于 AI 革命，绝大部分国家将会面临麻烦。很多人并不赞同他的<a href="https://news.slashdot.org/story/18/03/26/2126253/few-countries-will-benefit-from-the-ai-revolution" target="_blank"><u>观点</u></a>。李开复称，能受益于 AI 革命的国家只有美国和中国，两个国家人口庞大，同时也拥有技术，而其他大国有人口但没技术，也没有 Google、腾讯、百度、阿里巴巴、Facebook或亚马逊。他举例说，如果一个非洲国家主要使用 Facebook 和 Google，那么他们将提供数据给 Facebook 和 Google，帮助对方赚更多钱，而他们的工作仍然会被取代。
+➜报告称四分之三的土地功能退化
+https://www.solidot.org/story?sid=55952	36748
+联合国框架下致力于保护生物多样性的机构 “生物多样性和生态系统服务政府间科学－政策平台”（<a href="https://www.ipbes.net/" target="_blank"><u>IPBES</u></a>）发表报告说，人类活动导致超过四分之三的土地退化，<a href="https://motherboard.vice.com/en_us/article/ne9nkq/how-will-we-produce-food-in-the-future-soil-degradation-climate-change-pollution" target="_blank"><u>威胁着</u></a>全球约五分之二人口（32 亿）的生计。报告说，土地退化的直接原因是农田和牧场等快速扩张和管理不可持续，深层原因则包括发达经济体的高消费生活方式等。报告<a href="http://news.sciencenet.cn/htmlnews/2018/3/407103.shtm" target="_blank"><u>认为</u></a>土地退化会导致生物多样性严重退化，并给人类生存所需的食品、饮水和能源供给造成威胁。报告说，截至 2014 年，全球有超过15 亿公顷本来有自然生态系统的土地被开垦，全球未受人类活动影响的地表面积已不足四分之一，而这个比例预计到 2050 年将下降到不足 10%。
+➜字幕网站创始人输掉了上诉
+https://www.solidot.org/story?sid=55953	43132
+字幕是绝大多数世界各地的人欣赏其它国家制作的影视剧的主要途径，然而字幕也是有版权的，未经许可提供字幕属于灰色地带，中国的字幕共享网站射手网被认为就是因为字幕版权侵权而最终宣布关闭，但此后需求又推动了新的字幕分享网站的诞生。2013 年，瑞典警方<a href="https://www.solidot.org/story?sid=35548" target="_blank"><u>突击搜查了</u></a>该国的字幕组网站 undertexter.se；2017 年 Undertexter 的创始人 Eugen Archy 被起诉传播侵犯版权的字幕。去年 Attunda 地区法院判决他有罪，判处其缓刑和缴纳 217,000 瑞典克朗罚款。Eugen 提起来上诉，但他<a href="https://torrentfreak.com/founder-of-fan-made-subtitle-site-lose-copyright-infringement-appeal-180318/" target="_blank"><u>输掉了上诉</u></a>，法庭维持了原判。
+➜看不见的红外光能愚弄脸部识别软件
+https://www.solidot.org/story?sid=55954	45334
+<div align="center"><img src="//img.solidot.org/0/580/lin9Dvy2QTtKM.jpg" width="450" height="355" align=""><br>
+</div>
+<br>
+复旦大学和阿里巴巴的研究人员在预印本网站 arxiv 发表<a href="https://arxiv.org/pdf/1803.04683.pdf" target="_blank"><u>论文</u></a>（PDF），描述了一种能愚弄脸部识别软件的“攻击方法”，他们利用安装在帽檐的红外 LED 灯照亮脸部，投影 CCTV 摄像头能看见但人眼看不见的形状去愚弄识别软件。使用这种方法研究人员欺骗脸部识别软件将任意人的脸识别为音乐家 Moby，韩国政客李会昌等（如图所示）。根据论文摘要，这项研究是为了揭示红外对抗对面部识别构成的严重威胁。研究人员称，利用这种方法，攻击者不仅能躲避监控探头，如果能获得受害者的照片攻击者还能冒充受害者通过脸部识别认证。研究人员称，今天的脸部识别技术远称不上安全和可靠。中国有着最庞大的监控探头集群，并正在广泛应用脸部识别。
+➜AI 在分析心脏扫描任务上战胜人类心脏病专家
+https://www.solidot.org/story?sid=55955	46156
+加州旧金山的 <a href="http://profiles.ucsf.edu/rima.arnaout">Rima Arnaout</a> 和她的同事在《Digital Medicine》期刊上发表<a href="https://www.nature.com/articles/s41746-017-0013-1" target="_blank"><u>研究报告</u></a>，使用卷积神经网络训练 AI 系统去分类超声心动图。超声心动图是人类心脏病专家检查心脏图像的第一步，心脏是个复杂的器官，超声波心动仪需要从多个不同角度拍摄视频，当医生准备分析视频时，他们首先需要确定图像的角度和器官的解剖特性。在实验中，AI 分类的准确率达到了 92%，而人类只有 79%。Arnaout <a href="https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/ai-cardiologist-aces-its-first-medical-exam" target="_blank"><u>强调</u></a>这个 AI 系统还没有准备好取代人类的心脏病专家，最好的技术仍然掌握在人类心脏病专家的大脑中。
+➜GIMP 2.10.0 RC1 释出
+https://www.solidot.org/story?sid=55956	46901
+开源图像编辑软件 GIMP 项目<a href="https://www.gimp.org/news/2018/03/26/gimp-2-10-0-rc1-released/" target="_blank"><u>释出了</u></a> 2.10.0 稳定分支的首个预发布版本。GIMP 上一个稳定版本 2.8 还是在 2012 年发布的，两大版本之间相隔长达六年。GIMP 2.10.0 主要特性包括：新的 Dashboard dock 帮助监视软件的资源使用，收集崩溃信息的调试系统，崩溃后图像恢复，新的调整阴影和高光的过滤器，OpenJPEG，图像处理全部使用 GEGL（Generic Graphics Library，支持非破坏性编辑和高位深度图像的图形处理框架），繁体中文翻译，等等。

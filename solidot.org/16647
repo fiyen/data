@@ -1,0 +1,63 @@
+➜证监会警告媒体不要扰乱市场
+https://www.solidot.org/story?sid=44962	11174
+中国证监会在举行最新一次新闻发布会时，向多数为国内记者参加的媒体<a target="_blank" href="http://www.ftchinese.com/story/001063266"><u>发出明确指示</u></a>。“我们对推测性报道是有规定的，”证监会表示，为了防止不实信息的扩散和市场动荡，它们首先必须要与证监会核实。这番警告提醒人们，在基本上由国有实体组成的“国家队”正努力提振中国不断下跌的股市之际，中国政府正组织同样重要的包括大量国有媒体机构的“拉拉队”。投资者也被敦促通过官方热线举报这类“恶意”做空活动，这让人想起文化大革命以及其他政治运动，当时中国共产党鼓励人们监视并举报自己的邻居。
+➜Silent Circle的Blackphone 2支持Android for Work
+https://www.solidot.org/story?sid=44963	11630
+隐私手机制造商Silent Circle<a target="_blank" href="http://www.cnet.com/news/silent-circles-blackphone-2-phone-to-support-android-for-work/"><u>宣布</u></a>，它的Blackphone 2安全手机将支持Android for Work。Blackphone 2将于今年秋天发布，运行该公司基于Android开发的 Silent OS系统，支持加密电话和短信以及其它数据，硬件配置是64位8核处理器， 5.5英寸1920x1080分辨率显示屏， 3GB内存。Silent Circle与Google合作是为了增加<a target="_blank" href="http://cn.wsj.com/gb/20150731/tec092254.asp"><u>其手机对企业用户的吸引力</u></a>。Android for Work配备有Google的一系列工具，包括Gmail、联络人、日历、文档、表格以及幻灯片应用。
+➜Tor出口节点将运行在图书馆的电脑上
+https://www.solidot.org/story?sid=44964	13074
+Tor匿名网络项目<a target="_blank" href="https://blog.torproject.org/blog/tor-exit-nodes-libraries-pilot-phase-one"><u>宣布</u></a>与 <a target="_blank" href="https://libraryfreedomproject.org/"><u>Library Freedom Project</u></a>合作，在图书馆的电脑上运行Tor出口节点。在Tor匿名网络中，出口节点是Tor用户访问目标网站的最后一个中继，也是法律风险最高的一个中继，经常会有出口节点维护者因为被发现有违法信息（比如在大部分国家儿童色情都是非法的）经过他们的节点而遭到执法机构的调查。为什么要在图书馆运行Tor出口节点？因为图书馆是主要的民主公共空间，保护着我们自由访问信息的能力，它豁免于出口节点维护者面临的某些法律难题，也受到了DMCA安全港条款的保护。首批运行Tor出口节点的图书馆是新罕布什尔 Lebanon的<a target="_blank" href="https://www.leblibrary.com/"><u>Kilton图书馆</u></a>。Tor项目希望有更多图书馆能加入这一计划。
+➜赛门铁克披露攻击Anthem背后的黑客组织Black Vine
+https://www.solidot.org/story?sid=44965	17740
+2014年1月26日，美国第二大健康保险公司Anthem的一名系统管理员发现他们的账号被人盗用，被用于访问了内部数据库中的敏感数据。对Anthem的网络攻击被认为是至今健康保险行业最大的一次数据泄露事件，超过8000万投保人的记录遭到窃取。赛门铁克发布了<a target="_blank" href="http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf"><u>研究报告</u></a>（PDF），称攻击Anthem的黑客组织是Black Vine，该组织可能与中国IT安全公司天融信（Topsec）有联系。Black Vine至少从2012年开始展开网络间谍行动，采用的方法是利用0day漏洞发动水坑攻击和钓鱼攻击，在受害者电脑植入后门程序窃取数据。Black Vine的主要目标是能源、航空航天和健康保险行业，82%的攻击目标是美国公司。Black Vine使用了一个恶意程序家族的三个变种：Hurix、Sakurel和 Mivast，它们都出自相同的开发者之手——举例来说，Hurix和Sakure使用了相同的变量参数，Hurix的cookie=iztkctcebtgbbyf-2135928347中，cookie是参数， iztkctcebtgbbyf是加密的计算机名，-2135928347是硬盘序列号；Sakurel的imageid=iztkctcebtgbbyf-2135928347中，imageid是参数，iztkctcebtgbbyf是加密的计算机名，-2135928347是硬盘序列。恶意程序使用的C&amp;C服务器被发现与天融信有关：恶意程序样本硬编码了一个域名sharepoint-vaeit.com，该域名使用的IP地址192.199.254.126在同一时间段内被天融信的topsec2014.com所使用。感兴趣的可浏览<a target="_blank" href="http://www.threatconnect.com/the-anthem-hack-all-roads-lead-to-china/"><u>这篇文章</u></a>的分析。
+➜Mozilla致函微软CEO：不要剥夺用户的控制权
+https://www.solidot.org/story?sid=44966	22392
+Mozilla CEO Chris Beard致函微软CEO Satya Nadella，<a target="_blank" href="https://blog.mozilla.org/blog/2015/07/30/an-open-letter-to-microsofts-ceo-dont-roll-back-the-clock-on-choice-and-control/"><u>对微软在Windows 10中表现出来的趋势表达了不安</u></a>。Windows 10改变了默认设置API，让修改设置变得更加困难，以前需要点击一次的操作现在需要点击多次，而且隐藏得非常深。举例来说，Windows 10的默认浏览器是Edge，以前修改默认浏览器只需要点击一次，现在需要点击11次。Chris Beard对微软的做法表示困惑，他称Mozilla的存在就是为了向每一个人带去选择和控制，Mozilla对微软剥夺用户的控制的倒退做法感到失望，呼吁微软改变策略尊重用户选择的权利。
+➜夏普宣布直流电空调和其它电器
+https://www.solidot.org/story?sid=44967	26917
+夏普<a target="_blank" href="http://techon.nikkeibp.co.jp/english/NEWS_EN/20150728/429665/"><u>宣布</u></a>将在年内发布使用直流电的空调。直流电空调是该公司直流电电器系列的首款产品。家庭电器绝大部分都是使用交流电，夏普开发直流电电器是因为太阳能电池板在家庭中日益普及，太阳能产生的是直流电，需要经过直流交流的转换才能被电器使用，而在这一转换过程中会有5%到10%的损失。直流电电器可以消除这一转换损失。
+➜平板市场继续萎缩
+https://www.solidot.org/story?sid=44968	28786
+从2014年开始，平板市场<a target="_blank" href="http://www.solidot.org/story?sid=40621"><u>就出现了萎缩迹象</u></a>。平板用户不像大部分智能手机用户那样年年更新换代。市场分析公司IDC的第二季度数据<a target="_blank" href="http://www.idc.com/getdoc.jsp?containerId=prUS25811115"><u>显示</u></a>，平板市场继续萎缩，苹果的iPad仍然是最畅销的平板产品：平板出货量同比下跌7.0%至4470万， iPad出货量1090万，占24.5%，同比下降17.9%。三星占据第二位，之后是联想、华为和LG。苹果和三星都下跌，但联想、华为和LG的平板出货量都在增长。
+➜研究人员利用移动应用远程解锁通用汽车
+https://www.solidot.org/story?sid=44969	30981
+<center>
+<iframe src="https://www.youtube.com/embed/3olXUbS-prU" allowfullscreen="" frameborder="0" height="349" width="620"></iframe><br>
+<br>
+</center>
+安全研究员Samy Kamkar发布了一则视频（YouTube），演示了使用OwnStar设备拦截通用汽车RemoteLink移动应用和OnStar云服务之间的通信。OnStar是通用汽车车载娱乐通讯系统的供应商。他表示攻击者可利用软件的漏洞定位、远程解锁汽车并启动发动机。Kamkar计划下周在拉斯维加斯举行的Def Con黑客大会上提供技术细节。通用汽车发言人<a target="_blank" href="http://cn.reuters.com/article/2015/07/31/hack-auto-idCNKCS0Q50J120150731"><u>表示</u></a>，公司正在准备更新RemoteLink应用，修复这个漏洞。
+➜1400万PC发布第一天升级到Windows 10
+https://www.solidot.org/story?sid=44970	31802
+微软<a target="_blank" href="http://blogs.windows.com/bloggingwindows/2015/07/30/windows-10-the-first-24-hours/"><u>官方博客</u></a>称，发布第一天有1400万台PC升级到Windows 10。运行Windows 7和Windows 8/8.1的PC可在第一年免费升级到10，微软采用了推送的方法向预定升级的用户推送新一代的操作系统，未来几天应该会有更多电脑升级。但Windows 10隐私方面的问题再次<a target="_blank" href="https://jonathan.porta.codes/2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults/"><u>引起了用户的关注</u></a>，在Windows 10中，以个性化搜索和输入的名义，微软将大规模收集用户的数据，而向微软发送数据是默认启用而不是用户选择启用。<br>
+➜证监会调查程序交易员
+https://www.solidot.org/story?sid=44971	35127
+彭博社<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-07-31/china-targets-spoofing-in-latest-crackdown-on-stock-manipulation"><u>报道</u></a>，在股市暴跌市值蒸发数万亿之后中国证监会将程序交易员作为最新的打击目标。证监会<a target="_blank" href="http://weibo.com/3802136340/CtCse17lh?from=page_1001063802136340_profile&amp;wvr=6&amp;mod=weibotime"><u>官方微博称</u></a>，沪深交易所已对频繁申报或频繁撤销申报、产生助涨助跌作用，涉嫌影响证券交易价格的24个账户采取了限制交易措施。证监会称，相关派出机构和沪深交易所正在对部分具有程序化交易特征的机构和个人进行核查。上海金矿投资管理的 Zhang Haidong称，程序交易可能对股市下跌有一定的作用，但最主要的因素是杠杆投资者的撤退。
+➜未来Web的去中心化
+https://www.solidot.org/story?sid=44972	36490
+PyPy项目的联合创始人Holger Krekel在EuroPython 2015大会上谈论了<a target="_blank" href="http://lwn.net/SubscriberLink/652580/ddb64b1eb568fe87/"><u>Web的去中心化</u></a>。他说，今天基于IP的网络类似电话网络，网络中有许多我们连接的端点。企业意识到，如果能成为人人都访问的端口，他们将能掌握所有流量，通过广告等带来巨大的收益，而用户越多所需要支付的成本越低。这是中心化的线上优先网络模式。但未来的互联网，尤其是当我们从地球走向其它星球，线上优先模式并不可行，延迟会杀死中心端点。我们需要其他通信方式——比如线下优先，本地同步和通信的机制。名叫<a target="_blank" href="http://offlinefirst.org/"><u>Offline First</u></a>的组织已经认识到，端点太强大，而我们身边有大量的本地可连接，我们并不需要遥远的中心服务器建立通信连接。还有一个值得关注的项目是点对点协议<a target="_blank" href="http://ipfs.io/"><u>InterPlanetary File System</u></a>(缩写IPFS，<a target="_blank" href="https://github.com/ipfs/ipfs"><u>代码</u></a>托管在GitHub上）。它用基于内容的地址替代了基于域名的地址，也就是我们寻找的不是某个地址而是储存在某个地方的内容，我们不需要验证发送者的身份，而只需要验证内容的哈希。
+➜北京赢得2022年冬奥会主办权
+https://www.solidot.org/story?sid=44973	36965
+<div align="center"><img src="http://img.solidot.com.cn/0/875/lig9BTkNH821s.png" align=""><br>
+<br>
+</div>
+国际奥林匹克委员会<a target="_blank" href="http://www.olympic.org/128th-ioc-session"><u>宣布</u></a>，2022年冬季奥运会主办城市是北京。与北京竞争2022年冬季奥运会主办权的是哈萨克城市阿拉木图。北京赢得2022年冬奥会主办权后，成为迄今唯一同时承办夏季与冬季奥运会的城市。<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/07/150731_winter_olympics_city"><u>一些分析人士指出</u></a>，北京申办2022年冬奥面对着与2008年主办夏季奥运会相同的问题，这包括了空气污染。针对外间担心北京一带冬雪不足的说法，中国国家体育总局局长刘鹏称，预订作为滑雪等比赛场地的张家口滑雪场已经运行了20年，人工造雪比例不高，不会对环境造成影响。这次申奥过程引起人权组织的关注，这些组织指出，中国与哈萨克的人权纪录均欠佳。
+➜中国汽车制造商测试车际通信技术
+https://www.solidot.org/story?sid=44974	39435
+中国汽车制造商长安<a target="_blank" href="http://www.technologyreview.com/news/539831/chinese-carmaker-is-testing-car-to-car-communications/"><u>正在测试</u></a>车辆之间的无线通信技术，以防止交通事故和缓解交通拥堵。该公司计划在2018年在汽车中加入这项技术。长安正在它的美国研发中心测试它所称的 vehicle-to-vehicle (V2V) 和vehicle-to-infrastructure (V2I)技术。该公司没有进入美国市场，也没有进入美国市场的计划。美国交通部预计将会在今年晚些时候发布相关技术的标准，中国政府的计划尚不清楚。
+➜Kim Dotcom称Mega被一名中国通缉犯恶意收购
+https://www.solidot.org/story?sid=44975	41113
+Kim Dotcom<a target="_blank" href="http://yro.slashdot.org/story/15/07/27/200204/interviews-kim-dotcom-answers-your-questions"><u>回答了/.读者的提问</u></a>，一位读者询问是否能信任文件共享网站Mega，Dotcom回答说他已经不再参与Mega，不再具有Mega的股东或管理能力，Mega遭遇了恶意收购，一名因欺诈罪被中国通缉的投资者（这名投资者推测是<a target="_blank" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=11340600"><u>刘阳</u></a>，使用过名字William Yan、Yong Ming Yan和 Bill Liu）利用空壳公司积累了大量Mega股份。最近这名中国投资者的股份被新西兰政府扣押，意味着现在是新西兰政府控制着Mega。Dotcom说，他现在也不信任Mega，不认为Mega能安全保护用户的数据。Dotcom称他与Mega之间的非竞争协议将在年底到期，他将会再次创造一个与Mega竞争的文件共享服务，但这一次将是完全开源和非营利性的，类似维基百科，向每一个人提供免费的、容量无限的和加密的云储存服务，它将主要靠社区捐款运营。对于Kim Dotcom的说法，Mega<a target="_blank" href="http://www.zdnet.com/article/mega-denies-claims-by-kim-dotcom-of-nz-government-control-of-company/"><u>否认</u></a>遭到了恶意收购，但证实确实有部分股份被扣押。
+➜西班牙出版商称Google税代价昂贵
+https://www.solidot.org/story?sid=44976	43783
+在西班牙一项要求搜索引擎为新闻简讯服务支付费用的新法律生效前，Google关闭了Google News西班牙版。根据西班牙出版商的<a target="_blank" href="http://www.aeepp.com/pdf/InformeNera.pdf"><u>一项研究</u></a>，这项法律在短期内给出版商<a target="_blank" href="http://arstechnica.com/tech-policy/2015/07/new-study-shows-spains-google-tax-has-been-a-disaster-for-publishers/"><u>造成了1千万欧元的损失</u></a>。这项被称为“Google税”的法律对违法者收取最高75.8万美元的罚款，Google随即在去年12月关闭了西班牙版Google News。研究证实，Google News能为西班牙出版商带去大量流量。
+➜第一个能在水上跳跃的机器人
+https://www.solidot.org/story?sid=44977	45681
+<center>
+<iframe src="https://www.youtube.com/embed/QjtI8WAUFDs" allowfullscreen="" frameborder="0" height="275" width="490"></iframe><br>
+<br>
+</center>
+韩国首尔大学的一个研究团队通过研究水黾<a target="_blank" href="http://arstechnica.com/science/2015/07/the-first-machine-that-can-jump-on-water/"><u>创造出了</u></a>能在水面上跳到空中的机器人。<a target="_blank" href="http://www.sciencemag.org/content/349/6247/517"><u>研究论文</u></a>发表在《科学》期刊上。研究小组用高速摄像机观察水黾在水面跳跃时，他们注意到，水黾的长腿是逐渐加速的，这样水的表面不会过快地后退并失去与其腿的接触。他们在机器人身上运用了类似的扭矩反转弹射机制，<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-07/aaft-brj072715.php"><u>帮助实现水面上的跳跃</u></a>。
+➜FFmpeg项目负责人Michael Niedermayer宣布辞职
+https://www.solidot.org/story?sid=44978	57133
+FFmpeg社区再次发生了一件“戏剧性”的事件：担任FFmpeg项目负责人长达11年的Michael Niedermayer<a target="_blank" href="http://ffmpeg.org/pipermail/ffmpeg-devel/2015-July/176489.html"><u>宣布辞职</u></a>。<br>
+<i>Michael的辞职与Libav分支有关。Debian项目上个月宣布用FFmpeg取代Libav，一个主要理由是Libav的安全更新没有FFmpeg及时。Debian抛弃Libav<a target="_blank" href="https://lwn.net/Articles/650816/"><u>对其打击非常大</u></a>。Libav是在2011年“起义”脱离FFmpeg创建的一个分支，一度吸引了包括Debian在内的发行版采用。但过去几年FFmpeg在Michael的领导下比Libav发展更快更活跃，因此许多发行版回到了FFmpeg的怀抱，Debian是仅剩的一个继续使用Libav的主流发行版，它抛弃Libav项目意味着Libav可能会死亡。Libav项目开发者则指责Michael<a target="_blank" href="https://blogs.gentoo.org/lu_zero/2015/02/20/demotivation-fud-and-why-i-still-contribute-to-libav/"><u>盗用了他们的成果</u></a>。Michael将Libav的代码合并到FFmpeg，让他成为了FFmpeg最大的贡献者，他递交代码一度占了新增代码的80%。但Michael的支持者则持相反意见。Michael在辞职信中称，他希望两个社区最终能合并，Libav能重新加入FFmpeg。但即使Debian准备移除Libav，仍然没有迹象显示Libav考虑加入FFmpeg。双方的分歧显然非常大。他希望他的辞职能让双方坐下来，避免彻底的分裂。</i>

@@ -1,0 +1,97 @@
+➜《经济学人》推荐安装Linux的Netbook
+https://www.solidot.org/story?sid=9074	300
+如何选择一台Netbook？《经济学人》建议用户<a href="http://www.economist.com/science/tq/displaystory.cfm?story_id=12673233">避开Windows版Netbook的诱惑</a>，而是只把Netbook视作是一个运行常用应用软件的简单的迷你笔记本。<i>
+《经济学人》称，增加Netbook的硬件规格只对Windows版Netbook和Windows下的应用程序有意义。额外的硬件和软件费用让Netbook的费用接近标准笔记本，但拥有更优秀处理器和显卡的标准笔记本在性能上肯定是远胜不止一筹。对多数用户，预装了基本的、免费软件的Netbook已经绰绰有余。《经济学人》建议，最佳选择是一台瘦身的安装Linux的Netbook，它已经预装了一些常用软件，如OpenOffice，它和微软的MS Word一样容易使用，而且不存在兼容性问题。此外照片处理软件和其它软件都很容易使用。</i>
+➜Google 的浏览器安全手册
+https://www.solidot.org/story?sid=9075	1800
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "上周，在 <a href="http://www.readwriteweb.com/archives/google_takes_chrome_out_of_beta.php">Google宣布Chrome结束Beta期</a>之前，Google发表了一份<a href="http://code.google.com/p/browsersec/wiki/Main">浏览器安全手册</a>，这份面向Web 开发者的文档讲述了<a href="http://www.readwriteweb.com/archives/google_releases_browser_securi.php">各大主流Web浏览器的安全功能</a>，并对IE6，IE7，Firefox2，Firefox3，Safari，Opera，Chrome以及Andriod内嵌浏览器的安全性能做了对比。文档基于<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons 3.0 license</a>。
+"           该手册的作者 <a href="http://lcamtuf.coredump.cx/">Michal Zalewski</a> 在文中表示，对浏览器特性的不了解是导致各种安全问题的根源，该手册希望为 Web 世界提供一份关于浏览器安全问题的全面参考。
+<br> <br>浏览器安全是多年来持续的问题，也是上周  <a href="http://addoncon.com/">Add-on conference</a> 大会的 <a href="http://www.readwriteweb.com/archives/firefox_chrome_and_ie_talk_add.php">browser wars panel</a> 单元的首要话题。今年初，<a href="http://www.sectheory.com/">Robert Hansen</a> 与 <a href="http://jeremiahgrossman.blogspot.com/">Jeremiah Grossman</a> 发现了一种叫做 <a href="http://ha.ckers.org/blog/20080915/clickjacking/">clickjacking</a> 的攻击，攻击者可以欺骗用户点击他们设下的陷阱，<a href="http://www.computerworld.com/">Computerworld</a> 对此有过很详细的讨论，他们有一个关于 <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9115818&amp;source=NLT_SEC&amp;nlid=38">clickjacking 的 FAQ</a>：
+<br> <br>简单说，clickjacking 让攻击者在一个合法的网站的合法内容后面隐藏了恶意代码，就像劫匪劫持了车辆那样。
+<br> <br>手册分为三个部分：
+<ol>
+<li> <a href="http://code.google.com/p/browsersec/wiki/Part1">Web 浏览器的基本概念</a>，现代浏览器的核心标准与技术，以及它们的安全属性。</li>
+<li> <a href="http://code.google.com/p/browsersec/wiki/Part2">标准浏览器安全功能</a>，安全机制与限制</li>
+<li> <a href="http://code.google.com/p/browsersec/wiki/Part3">实验性与旧的安全机制</a>，讲述那些要么已经弃用，要么还未来得及用的安全机制。</li>
+</ol>
+Google 的浏览器安全手册访问地址：<a href="http://googleonlinesecurity.blogspot.com/2008/12/announcing-browser-security-handbook.html">http://googleonlinesecurity.blogspot.com/2008/12/announcing-browser-security-handbook.html</a>
+➜Intel开发者在Linux上演示USB 3.0
+https://www.solidot.org/story?sid=9076	2700
+Intel的<a href="http://software.intel.com/sites/oss/">开源技术中心</a>正致力于研究<a href="http://www.usb.org/developers/docs/">USB 3.0</a>支持Linux。<i>
+USB 3.0的传输速度最高能达到5Gbps，承诺比USB 2.0快10倍。最新的<a href="http://sarah.thesharps.us/2008-12-07-13-35.cherry">视频演示</a>显示，实际速度比USB 2.0快3.5倍。当可扩展主控制器接口(<a href="http://www.intel.com/technology/usb/xhcispec.htm">Extensible Host Controller Interface</a>，xHCI)规格1.0版发布后，USB 3.0驱动将递交到的Linux Mainline Kernel。</i>
+➜Wine64—64位的Wine
+https://www.solidot.org/story?sid=9077	5100
+<a href="http://zh.wikipedia.org/wiki/Wine">Wine</a>（Wine不是模拟器）是一个受欢迎的在Linux平台运行Windows程序的软件。<i>
+它<a href="http://appdb.winehq.org/votestats.php">兼容</a>了许多流行的游戏和软件，如《星际争霸》、《模拟人生》系列、《辐射3》、《NBA Live 07》、Steam所有版本、Photoshop CS3和CS2等等。Wine的开发用了15年时间才在几个月前达到1.0版。现在Wine开发者Maarten Lankhorst成功的在64位Linux系统上原生<a href="http://www.winehq.org/pipermail/wine-devel/2008-December/070941.html">运行了“Hello World”</a>。Wine的64位变种叫Wine64。</i>
+➜Vista升级到XP的费用提高至3倍达150美元
+https://www.solidot.org/story?sid=9078	14700
+Dell宣布，如果<a href="http://www.dell.com/content/products/productdetails.aspx/inspnnb_1525?c=us&amp;cs=19&amp;l=en&amp;s=dhs">Inspiron 1525笔记本和530台式机</a>的消费者要将预装的Windows Vista系统替换成陈旧的Windows XP Professional，那么他需要额外多支付150美元。<i>
+根据当前的“降级”许可授权，系统制造商可以安装XP Pro而不是Vista Business或Vista Ultimate。<a href="http://www.pcworld.com/printable/article/id,155473/printable.html">150美元的费用</a>是去年夏天的3倍，微软本希望用“降级费”阻止消费者购买更受欢迎的XP，但显然没有起到效果。行业分析师Rob Enderle认为，微软的降级费最终可能伤害到微软自己，他表示微软应将注意力集中在用户对Vista的需要上，而不是挑衅性的商业惩罚。通过提高价格，强迫消费者更换某种他们不需要的系统，是给苹果和其它Linux生产商的圣诞礼物。</i>
+➜康奈尔大学FPGA课程2008上线了
+https://www.solidot.org/story?sid=9079	18000
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "康奈尔大学新的课程<a href="http://instruct1.cit.cornell.edu/courses/ece576/FinalProjects/">ECE 5760 projects</a>已经上线，ECE 5760是电子与计算机工程系Bruce Land讲师的一门关于SoC和嵌入式控制电路设计的<a href="http://www.freescaleic.org/myspace/blog/show.php?id=161961">课程</a>，里面有很多非常酷的东西，许多学生做的项目。他们用芯片制造商捐赠的芯片，如Altera/Terasic DE2/CycloneII FPGA，制作了数字信号示波器，USB鼠标控制的<a href="http://instruct1.cit.cornell.edu/courses/ece576/FinalProjects/f2007/ms882_yc292/ms882_yc292/index.htm">视频游戏BBQ stick</a>，数字<a href="http://instruct1.cit.cornell.edu/courses/ece576/FinalProjects/f2008/tor2/main.html">FPGA扩音器</a>等，每个项目都提供了图纸，硬件设计，软件程序源代码。</i>
+➜Web设计之道
+https://www.solidot.org/story?sid=9080	19800
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "道之于90年代恰如禅之于70年代。事无巨细，皆可受之道，或推之道。Web 设计之事，虽小技，然而通览道德经，我们仍然会发现其中包含深刻的道理。道是哲学，象佛，是一种生活与处世的方式，来自古老的《道德经》，这部拥有81个章节的晦涩经文涵盖了人类的经验，但它始终讲述一个主题，和谐。过去几年，或好或坏，我的生活与 Style Sheet 有关，我为之编写软件，教程与指南；回答了数不清的问题，通过新闻组或电子邮件；通过 <a href="http://www.webstandards.org/">The Web Standards Project</a> 推而广之。慢慢的，我对 Web 设计有了完全不同的理解，并看到设计与道之间的关联。我所看见的是一种紧张关系，在现实的 Web 与理想的 Web 之间；在现有的媒体，印刷媒体与 Web 之间。而现在正是需要对二者进行一次梳理的时间，也是让 Web 放手走自己的路的时间。
+"           守旧的新媒体？
+<br> <br>“上德不德， 是以有德。 下德不失德， 是以无德。”<br> <em>《道德经》第38章</em>
+<br> <br>你是否见过早期的电视节目，它们是讲解式的画面，那时的电视被贴切地称为“有画面的广播”。很多电视节目是借用热门广播节目的形式。而现在随处可见的晚间访谈，或新闻，仍然带着早期电视节目的旧媒体的影子。
+<br> <br>早期的音乐电视也是这样，乐队仅仅是在镜头前模拟自己表演时的样子。
+<br> <br>但一个新媒体从旧媒体发展起来，它对旧媒体的某些借鉴可以理解，但不能全盘借鉴，否则对新媒体是一种限制，所谓“下德不失德”。时过境迁，新媒体将拥有自己的形式，而将那些不合理的东西丢弃。
+<br> <br>如果你曾看过早期的的电视剧，它们也是这样，广播剧需要有人讲解听众所看不到的画面，早期的电视剧也经常有人讲解，讲解那些观众自己能看到的东西，这就是旧媒体演变成新媒体时容易出现的问题。
+<br> <br>Web 是新媒体，尽管它来自印刷，印刷的技巧，设计及惯例对 Web 影响巨大。然而 Web 和印刷过于肖似，那些“杀手级网站”常常是那些对 Web 的野性加以驯服，让页面中规中矩就象它们也是纸张一样的网站，也就是桌面印刷版的 Web。这种风尚很自然，“下德不失德”，但我们需要前进，让 Web 成为它自己的媒体，我们需要抛弃印刷媒体的“德”，让 Web 拥有自己的天性。
+<br> <br>我们并不是说要抛弃几百年来的印刷，与几千年来的书写的智慧。但我们需要明白这些东西哪些是对 Web 有利的，那些仅仅是束缚 Web 的 “德”。
+不要主宰你的网页
+<br> <br>圣人“... 万物作而不辞， 生而不有， 为而不恃”<br> <em>《得到经》第2章</em>
+<br> <br>抽时间到那些 Web 设计新闻组或邮件列表看一下，你会发现被一遍一遍说了很多次的话，问了很多遍的问题，比如，“我该如何让我的网页在所有平台都上去一致？”，“如何让我的字体在 Mac 和 Windows 上一模一样？”，或者“如何控制用户的浏览器？”，控制一词的出现频率非常高。
+<br> <br>所有这些的背后，是这样一种信念，设计者是控制者（想想像素师（pixel mechanic）这个称呼的意味）。设计者希望驾御用户的意识，希望用他们的视觉经验驾御用户的选择（比如使用固定的字号）。设计者不考虑因逻辑分辨率不同而导致的平台差别（如 Mac 的 72dpi 与 Windows 的 96dpi），他们无所不知，他们不能容忍在不同浏览器上有哪怕一个像素的差别。
+<br> <br>当然这有些夸张，但基本事实。一个最好的例子是，当 Web 开发者们明白 CSS 并非 Web 上的桌面印刷工具时所表现出的失望。如果你是 Mac 用户，你会发现有很多非常大的网站为了防止页面字体模糊而拒绝使用 CSS，他们很可能使用 px 作为字体尺寸，而这种选择所隐含的思想就是“设计者也是主宰者”。
+<br> <br>这种思想的根由在哪里？我觉得来自印刷。对印刷而言，设计者就是上帝，印刷是一个基于 WYSIWYG （所见即所得）的庞大行业，而众多 Web 设计者也扎根于此并对这个行业的“德”深信不疑。作为 Web 设计者，我们需要对此重新思考，放弃控制欲，并寻求与网页之间的全新关系。
+为什么要这样？
+<br> <br>“人生之柔弱， 其死坚强。万物草木生之柔脆，其死枯槁。故坚强者死之徒，柔弱者生之徒。”<br> <em>《道德经》第76章</em>
+<br> <br>不能控制网页看似一种局限，或缺陷，而来自 WYSIWYG 世界的我们初期都有这种想法，我承认最初我也这样想。但如今我不再认为那是一种局限，而是新媒体的力量所在。
+<br> <br>事实上，我们对纸张媒体的控制才是真正的局限。想想看，我们能固定文字的尺寸，或者说，文字大小不可改变，或者，你可以说，纸张的尺寸也在控制中。
+<br> <br>然而这未必是好事，尤其对读者。如果某个读者视力不好，你的那些固定的小字体不借助放大镜就很难看清；如果读者身处一个局促的空间，比如火车或飞机，那些宽幅的报纸就太大了，而针对这些问题，用户几乎无能为力。
+<br> <br>我们在印刷中获得的控制力事实上是一种缺陷，不应再继承到 Web 设计中。我们知道，Web 没有这样的局限，因此应基于弹性而设计，爱这之前我们需要“万物作而不辞”。
+可适应性就是可访问性
+<br> <br>“上善若水， 水善利万物，又不争。处众人之所恶，故几于道。”<br> <em>《道德经》第8章</em>
+<br> <br>有人认为道是宿命，浅读会觉得人应当无为，静待事情的降临而被动反应。我认为，我们不应为久远的目标预设将来，相反，应该有适应力，而不是胶柱鼓瑟。
+<div> <br> <br>“见小曰明，守柔曰强。用其光，复归其明，无遗身殃，是谓习常。”<br> <em>《道德经》第52章</em> </div>
+<br> <br>我迄今所谈到的所谓弹性即“适应性”。前面所言总结起来就是：让你的网页具有适应性。让你的网页具有可访问性，不拘何种浏览器，何种平台亦或何种屏幕。这意味着在任何屏幕尺寸，任何屏幕颜色数下，网页都合法可用（同时还要记住，人们可能会打印这些网页，或者使用读屏软件以及盲文浏览器进行访问）。这意味着网页要适应它的访问者，它的访问者可能视力不佳，希望使用比较大的字体。
+<br> <br>设计适应性网页就是设计可访问性网页，而这是 Web 设计中远未实现的目标，也是 <a href="http://www.w3.org/">W3C</a> 的一个重要思想，对 Web 设计来说，这是一个迫切的使命，将来的网页也许要求实现通用访问。
+<br> <br>这听上去不太可能，通用访问，在当今并不灵光的浏览器面前，在各种可以访问 Web 的不成熟的移动设备面前，只是一种理想。但我们仍有很多东西可以努力，并为今后适应性网页设计打好基础。
+译后记
+<br> <br> <a href="http://www.alistapart.com/">A List Apart</a> 是被所有 Web 设计者尊为圣典的一份杂志，John Allsopp 的 “A Dao of Web Design” 是被该杂志推荐阅读的一篇 Web 设计随笔，已被译为多种文字发表，然而并未见中文版。既然《道德经》来自中国，就没有理由让国内的众多 Web 设计者去啃并不怎么好懂的英文原文。当然，还是老话，这是技术随笔，并不是可以传世的人文作品，翻译也就只求信，而惘顾雅与达了。这是本文的第一部分，第二部分将于近期译出。
+<div>
+关于作者
+<br>John Allsopp 是 <a href="http://westciv.com/">CSS Editor Style Master</a> 的主要开发人员，<a href="http://we05.com/">Web Essentials conference series</a> 的合伙创始人。他是 WaSP CSS 的捍卫者，也是老学院派式的守旧者，从某种意义上讲。
+<br> <br>本文国际来源：<a href="http://www.alistapart.com/articles/dao">http://www.alistapart.com/articles/dao</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> （35公里翻译）</div>
+➜Larry Wall谈Perl、文化和社区
+https://www.solidot.org/story?sid=9081	21900
+Computerworld的程序语言A-Z系列的最新一篇是关于<a href="http://www.computerworld.com.au/index.php?q=article/270267/-z_programming_languages_perl&amp;fp=&amp;fpid=">Perl语言</a>：<i>
+<a href="http://en.wikipedia.org/wiki/Patch_(Unix)">Patch</a>和<a href="http://www.perl.org/">Perl</a>语言的作者Larry Wall把开发Perl原因称作是“抓痒”，他想写一份基于文本文件的报告，但Unix上没有满意的工具，于是就动手编写了一个更好的。Larry Wall还谈论了Perl名字的由来，Perl 5.10.0的新元素，Perl 6.0的发布日期（众所周知是在圣诞节，但年份不知）。据Computerworld的另一篇报道，Perl 6.0将<a href="http://www.computerworld.com.au/article/269758/perl_6_break_compatibility_support_other_interpreters">不兼容先前的版本</a>，但将更开放，将支持其它的解释程序。</i>
+➜《地球停转之日》向太空发射电影
+https://www.solidot.org/story?sid=9082	26700
+在Fx3中输入“about:robots”，你会进入一个叫“<a href="http://en.wikipedia.org/wiki/Klaatu_barada_nikto">Klaatu barada nikto</a>”的页面，它出自于1951年的经典科幻电影《地球停转之日》，这句话没有正式的翻译，大意是不要炸飞地球。Klaatu是一位外星人，它和机器人Gort一同来到地球，警告人类不要自我毁灭。<i>
+现在同名翻拍电影的制作商20世纪福克斯雇用了深空通信网络（<a href="http://www.deepspacecom.net/">Deep Space Communications Network</a>），在12月12日电影开幕当天中午朝半人马座Alpha星方向<a href="http://www.nytimes.com/2008/12/12/science/space/12earth.html?_r=1&amp;partner=permalink&amp;exprod=permalink">实时播放这部电影</a>，根据该公司网站，播放5分钟太空信号的价格为299美元。从地球传输到Alpha星需要花4年时间，所以他们有足够时间去拿爆米花或者其它什么。如果他们要回复，则要花更长时间，我们仅希望他们比Klaatu更友好，也希望他们喜欢这部电影，虽然人类看起来不太<a href="http://www.imdb.com/title/tt0970416/">喜欢</a>。</i>
+➜珠穆朗玛峰登山者因何遇难
+https://www.solidot.org/story?sid=9083	30600
+<a href="http://www.sciencedaily.com/releases/2008/12/081209221709.htm">Science Daily报道</a>，我们都知道攀登珠穆朗玛峰是一件非常危险的事情，但遇难者是如何和为何而死的却从未有过系统研究。一般常识认为遇难者死因可能多数是由于雪崩和坠冰，以及高原肺水肿。但麻萨诸塞总医院（MGH）领导的一个国际研究小组的结果却与猜测相去甚远。<i>
+研究发现，从1921到2006之间，数千名登山者中总共报告有212位遇难者，绝大多数死亡例子都发生在从顶峰下撤、8000米高度上方的所谓“死亡区域”。研究人员识别出最主要的死因是高纬度脑水肿。多数遇难者在接近顶峰时已精疲力竭，他们担心落在其他登山者后面到达最高点，此种情况下他们极易产生高原脑水肿症状——失去意识、失去身体协调能力和意识错乱。</i>
+➜U2主唱Bono获得诺贝尔和平大使
+https://www.solidot.org/story?sid=9084	34200
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "U2的主唱<a href="http://zh.wikipedia.org/wiki/%E5%8D%9A%E8%AF%BA">Bono</a>于2008年12月12日被授予<a href="http://www.contactmusic.com/news.nsf/article/bono%20awarded%20nobel%20man%20of%20peace%20prize_1089431">诺贝尔和平大使（MAN OF PEACE）</a>。
+<a href="http://zh.wikipedia.org/wiki/U2%E6%A8%82%E5%9C%98">U2</a>创立于1977年，Bono应该是1980年皈依基督信仰，之后的歌词里到处都是圣经的隐喻，U2可以说是现代朋克摇滚的一个代表，但和其他乐队不同的是U2的Bono和Switchfoot是两只仅有的受北美大众欢迎的基督徒乐队。
+"           Bono为了非洲穷国的问题做出的不懈努力,非洲国家从欧洲和北美发达国家贷款搞经济基础,但他们经济目前还是很糟糕，所以无法偿还造成了利息成倍增加,Bono去找了欧美很多国家领导人(包括布什和教皇)谈关于能否减免部分的债务,理由是以旧约摩西律法:如果1个人因为欠债无法偿还就去给债主当奴隶,但到了第7年奴隶就可以自由,还有就是每50年就必须放了所有的奴隶,而非洲国家的债务大多超过7年.不管怎么样Shawn the R0ck对他们表示敬意.
+➜各国政府援助DRAM制造商
+https://www.solidot.org/story?sid=9085	39600
+DRAM制造商正面临历史上最糟的经济局面，世界各国政府也都等侯着帮助它们摆脱困境。台湾、德国和韩国都准备着手<a href="http://pcworld.idg.com.au/article/270799">帮助各自的DRAM芯片制造商</a>。<i>
+DRAM厂商的问题是全球经济危机的象征。容易获得的贷款条件和未来的光明前景，促使它们建设了过多的新DRAM工厂。大部分新工厂的目的是针对微软的Windows Vista，它比XP有更高的内存要求。</i>
+➜策略游戏能改进老年人的认知功能
+https://www.solidot.org/story?sid=9086	42120
+伊利诺斯大学的研究人员完成了一项使用视频游戏刺激60岁以上<a href="http://news.illinois.edu/news/08/1211gamers.html">老年人认知功能的研究</a>。研究人员选择了一款策略游戏《国家的崛起》——因为它的范围和涉及到多种不同任务——并训练一组测试者如何玩。老年玩家们随后在多项认知测试中战胜了对比组。<i>
+测试包括在任务之间切换的能力，短期视觉记忆，推理能力和工作记忆——指在记忆中同时处理两个或更多信息，按需要使用信息。研究人员还测试了参与者的口头回忆，抑制某种反应的能力和识别一个物体从原始位置旋转一定角度的能力。研究人员发现，视频游戏改进了参与者在许多项测试中的表现。与对照组相比，游戏者一组在任务切换上更快、更好。他们的工作记忆也有了显著改进，他们的推理能力得到了增强，基于视觉线索的短期记忆也优于同年人，他们还有能力识别旋转物体。</i>
+➜微软发布第一款iPhone程序
+https://www.solidot.org/story?sid=9087	46200
+是否iPhone的吸引力比微软自家的Windows Mobile平台还要大？<i>
+微软Live Labs在刚刚发布Google Notebook竞争对手<a href="http://livelabs.com/thumbtack/">Thumbtack</a>（支持IE7和Firefox3）后，又<a href="http://tech.yahoo.com/news/cnet/20081214/tc_cnet/83011357931012275137">发布了</a>第一款iPhone应用程序<a href="http://livelabs.com/seadragon/">Seadragon Mobile</a>，目前已加入到Apple的<a href="http://www.itunes.com/app/Seadragonmobile">App Store</a>，这是一款免费的图像缩放程序。Seadragon是基于微软的Photosynth技术，它允许用户将一组照片组合成3D环境。据报道微软正在开发其它iPhone应用程序。</i>

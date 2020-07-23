@@ -1,0 +1,12 @@
+➜10 亿用户信息泄露
+https://www.solidot.org/story?sid=62715	44482
+安全研究人员<a href="https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"><u>报告</u></a>，他们在 10 月 16 日发现了一个托管在 Google Cloud 上的无密码保护的可公开访问的 Elasticsearc 服务器，储存了 4 TB 数据，包含了多达 40 亿用户账号，其中非重复账号数超过 12 亿。这是至今来自单个组织的最大规模数据泄露。泄露的数据包含了名字、电子邮件地址、电话号码、LinkedIN 和 Facebook 账号信息。这些信息被认为来自于两家数据聚合和浓缩公司 People Data Labs 和 OxyData.io，不包含敏感数据如密码和信用卡。安全研究人员联络了 PDL 被告知服务器不属于他们，PDL 使用的是 AWS 云服务。研究人员猜测这些数据来自 PDL 的客户或其它收集多个数据源的数据聚合服务。
+➜一加公司再次发生数据泄露事故
+https://www.solidot.org/story?sid=62717	50585
+深圳手机制造商一加在官方论坛发布了<a href="https://forums.oneplus.com/threads/security-notification.1144088/"><u>安全警告</u></a>，称未经授权的第三方访问了部分客户的订单信息，表示支付信息、密码和账号都安全，但部分用户的名字、联系电话和运货地址都可能暴露，可能导致用户收到广告和钓鱼邮件。一加称它立即采取措施阻止了入侵者并加强了安全，通知了受影响的用户，表示将竭尽所能防止类似的事故再次发生。这不是一加第一次发生安全事故，因此用户在论坛上回应说，一加并没有吸取上一次事故的教训。<a href="https://www.solidot.org/story?sid=55280"><u>上一次事故</u></a>发生在 2017 年 11 月中旬到 2018 年 1 月 11 日，它的网站支付页面被植入脚本窃取用户的信用卡信息。
+➜FCC 投票禁止使用政府资金购买中兴华为设备
+https://www.solidot.org/story?sid=62716	51089
+美国联邦通信委员会(FCC)周五以五票赞成、零票反对的结果，将华为和中兴通讯认定为国家安全风险企业，<a href="https://cn.reuters.com/article/us-fcc-ban-admin-purchase-huawei-zte-112-idCNKBS1XX01Z" target="_blank"><u>禁止</u></a>美国乡村运电信营商客户动用 85 亿美元的政府资金购买这两家公司的设备或服务。FCC 还投票建议要求这些运营商移除和替换现有网络中使用的华为和中兴设备。这是美国政府禁止美国公司购买华为和中兴设备的最新举措。华为和中兴将有 30 天的时间来对这一禁令进行抗辩，而强制移除设备的最终命令最早也要到明年才会出台。华为称该禁令是“非法的”，并要求 FCC“重新考虑其严重错误的指令”。它认为 FCC 的决定“只不过是基于非理性的猜测和影射”。
+➜Alphabet 的 Loon 高空气球将为亚马逊雨林偏远地区提供互联网服务
+https://www.solidot.org/story?sid=62718	52299
+Alphabet 旗下的互联网气球项目 Loon <a href="https://medium.com/loon-for-all/loon-signs-deal-to-bring-balloon-powered-internet-to-amazon-rainforest-region-in-peru-34696714976c"><u>宣布</u></a>与 Internet Para Todos Peru 签署商业协议，将从 2020 年开始为秘鲁的亚马逊雨林地区提供移动互联网服务。Loon 使用高纬度气球向选定的区域提供来自 Telefonica 的移动互联网接入服务。Loon  称，该项目在初始阶段将向生活有约 20 万人的地区提供网络服务，秘鲁将成为拉美第一个使用高纬度气球提供互联网接入服务的国家。

@@ -1,0 +1,59 @@
+➜彻底简化IT
+https://www.solidot.org/story?sid=6035	1500
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>
+"企业IT项目--无论定制还是集成"一个能适用于大多数"的系统--一直是企业领导者的一个很大的烦恼。这些系统的根本问题在于它们大部分都被构建在，一个被程序员或者开源斗士Eric Raymond 3"大教堂"的方式之上的。像中世纪的欧洲的代表性巨大建筑一样，企业IT项目通常代价巨大，耗时，而且直至最终交付才会生效。最终，产生了一个并不灵活，但把公司的业务固化成在这个系统里，虽然这已经是几年前项目刚开始时的业务状况了。不论后来在软件包灵活性上的如何改进，公司总是发现非常困难而且代价巨大，来改进系统以<a href="http://www.yeeyan.com/articles/view/26945/6738">适应新的商业变化</a>。"</i>
+➜Google Maps街道地图加入行驶方向指示功能
+https://www.solidot.org/story?sid=6036	2400
+<a href="mailto:blacktulip@gmail.com">blacktulip</a> 写道 "<i>
+Google星期二宣布他们在google地图中加入了<a href="http://www.webware.com/8301-1_109-9931506-2.html?part=rss&amp;tag=feed&amp;subj=Webware">行驶方向指示的功能</a>。此功能中，一个小摄像头图标会出现在地图的十字路口处，点击图标可以看到十字路口的街景，指引行驶的方向。此功能已经于美国44个地区开通，而且有很强的兆头显示Google会在欧洲开通此功能。"</i>
+➜微软收益下降危机对雅虎的收购
+https://www.solidot.org/story?sid=6037	3300
+微软刚刚公布了最新一季度的财政收入报告，它比去年同期下降了6%，Windows产品的收入更是下降了24%，这份报告已经导致微软股票下滑，向雅虎提出的股票加现金收购方案价值也<a href="http://news.yahoo.com/s/usatoday/20080425/tc_usatoday/microsoftquarterlyincomefallsitmayaffectyahoobid;_ylt=AnkFE5Qo10hThOTChbwupBis0NUE">从最初的440亿美元下降到400亿美元</a>。雅虎，仍然自始至终坚称原始出价过低。一位专家分析道，“微软建造的天平在过去几天里慢慢失去了平衡”。
+➜尼葛洛庞帝 vs 开源忠实信徒
+https://www.solidot.org/story?sid=6038	3900
+尼葛洛庞帝（Nicholas Negroponte）希望OLPC应该让尽可能多的笔记本送到尽可能多的孩子手中，即便是要和微软上床也在所不惜，微软当然也不想让发展中国家的下一代接触Linux，两方一拍即合，<a href="http://tech.slashdot.org/article.pl?sid=08/04/28/1529201">但却惹恼了开源信徒</a>。<i>
+尼葛洛庞帝和开源信徒都设想Sugar未来将运行在多个平台，但痛恨微软的后者是<a href="http://backofthebook.ca/technology/2008/04/negroponte-vs-open-source.html">完全不想让Windows</a>（或任何闭源软件）成为未来的一部分，尽管促进Linux并非是OLPC的使命之一。对OLPC来说，Linux只不过是底层操作系统的一个极好的选择。XO选择了Linux，参与了OLPC项目的成员也有许多Linux信徒，因此Negroponte和微软的调情让他们感觉到的是真正的侮辱，OLPC基金会负责内容和软件的总裁Walter Bender的辞职就可略见一斑。</i>
+➜如何制作 Windows XP 的 USB 启动盘
+https://www.solidot.org/story?sid=6039	6000
+<a href="http://www.comsharp.com/">35公里</a> 写道 "TechRepublic 的 Bill Detwiler <a href="http://blogs.zdnet.com/BTL/?p=8649">制作了一个视频教程</a>，关于如何制作 Windows XP 下的 USB 启动盘，你需要一个可启动的U盘，你的电脑的 BIOS 要支持 USB 启动，同时，你需要下载一个叫做  <a href="http://www.nu2.nu/pebuilder">PE Builder</a> 的免费程序，最后，我们需要 <a href="http://support.microsoft.com/kb/889100/">Windows Server 2003 Service Pack 1</a> 以便从中取两个文件，当然，你还需要拥有 Windows XP 的安装光盘。            <strong>以下为简要步骤</strong>  <ol> <li>下载 <a href="http://www.nu2.nu/pebuilder">PE Builder</a> 并安装，在 PE Builder 的安装目录下建一个 SRSP1 子文件夹，这是从 Windows Server 2003 SP1 抽取的那两个文件的存储位置。</li> <li>你下载的 Windows Server 2003 SP1 包的名字一般为 WindowsServer2003-KB889101-SP1-ENU.exe，使用命令符运行以下命令，将该升级包中的文件解开到一个临时文件夹：WindowsServer2003-KB889101-SP1-ENU.exe -x</li> <li>然后从你解开的 Windows Server 2003 SP 安装包的文件中，将以下两个文件复制到第一步中创建的 SRSP1 文件夹： <ul> <li>setupldr.bin </li> <li>ramdisk.sy_</li> </ul> </li> <li>运行 PE Builder 以创建压缩版的 Windows XP，你只需要在 PE Builder 的运行界面中提供你的 Windows XP 光盘所在的盘符，其他按按默认即可。按“Build”开始创建过程。</li> <li>最后，将 U 盘插入电脑，在命令符中进入 PE Builder 的安装目录，运行以下命令：pe2usb -f e: （e: 是你的 U 盘在你的系统中分配的盘符，如果你的 U 盘使用别的盘符，请该成别的，如 g:）</li> </ol> 至此，你已经成功的制作了一个能启动的 U 盘，你可以使用该盘在支持 USB 启动的机器上启动系统了。
+➜史密斯学会博物馆展出军用无人机
+https://www.solidot.org/story?sid=6040	9000
+史密斯学会下属的<a href="http://spacefellowship.com/News/?p=5154">航空与航天博物馆</a> <a href="http://www.networkworld.com/community/node/27259">展出</a>了美国军方先进的无人飞行器（UAV），各类飞行器的辅助技术也在<a href="http://www.nasm.si.edu/events/pressroom/releaseDetail.cfm?releaseID=191">展示</a>之列。<i>
+无人机广泛用于美国和其它国家，美军的四大军种都有各自的监控、侦查和攻击无人机。博物馆展出UAV包括：MQ-1L<a href="http://www.airforce-technology.com/projects/predator/">掠夺者</a>，洛克希德马丁/波音制造的<a href="http://www.unrealaircraft.com/qbranch/darkstar.php">暗星</a>，波音公司的<a href="http://www.boeing.com/ids/news/2005/q1/nr_050214s.html">X-45A</a> ，<a href="http://www.aaicorp.com/New/UAS/html/shadowr_200.html">Shadow 200</a>，RQ-14<a href="http://www.designation-systems.net/dusrm/app2/q-14.html">龙眼</a>（海军陆战队），RQ-2B <a href="http://www.deagel.com/Tactical-Unmanned-Air-Vehicles/RQ-2B-Pioneer_a000634001.aspx">先锋</a>(海军)。</i>
+➜香港杂志社剽窃网友PSP 攻略后耍无赖
+https://www.solidot.org/story?sid=6041	14040
+近日香港一家名为“Pi Publication Ltd.” 的杂志社对Moztw.org 网友 Kyte的<a href="http://inxtyle.com/kakeru/pi/index.htm">关于 PSP 攻略的原创作品进行了剽窃</a>，Kyte 常年活跃于 MozTW 社区，同时也是 Mozbackup 正体中文的维护者。
+<i>
+在纠纷双方谈判的过程中出版社的态度由最初的 “赏几个小钱摆平你” ，演变成了现在完全漠视原作者发出的律师信。由于高昂诉讼费 Kyte 无力对出版商直接起诉。具体事件的经过请看这里（也许大陆地区需要代理）。在这里 Mozine 社区也恳请各位在香港有能力的朋友帮助 Kyte，也为广大的网络原创者讨回一个公道。
+</i>
+➜Unihan (汉统输入系统)采用开源开发模式
+https://www.solidot.org/story?sid=6042	19500
+来自<a href="http://blog.linux.org.tw/~jserv/archives/002017.html">Jserv的blog</a>：早在半年前，<a href="http://www.sw-linux.com/">新华科技</a>(中文官网无法访问)将用于该公司华镭<a href="http://wiki.openrays.org/index.php?title=%E9%A6%96%E9%A1%B5">RAYS LX</a> - Linux桌面系统的<a href="http://www.sw-linux.com/en/scripts/main/viewitem.php?itemid=2158511108981584&amp;showid=products&amp;catid=platforms">Unihan2中文输入法系统</a>，公布其大部分源代码，授权条款为GNU LGPL，并架设于Google Code的<a href="http://code.google.com/p/unihan/">Unihan</a>专案上，维护者就是知名的Debian开发者<a href="http://spacehunt.info/">Roger So</a>。
+<i>过去，推动<a href="http://www.openi18n.org/subgroups/im/IIIMF/">IIIMF</a>最积极的两家公司是Sun Microsystems (Hideki Hiura的老东家)与新华科技(Roger So担任该公司CTO一职)，Unihan2 (汉统)即后者最知名的、以IIIMF为基础的中文输入法平台，内含紫光拼音、智能ABC、五笔等十三种输入法，允许使用者添加删除输入法模组，并作简繁转换输入。<br>
+值得注意的是，Roger So的blog文章<a href="http://spacehunt.info/2008/01/25/input-method-api-now-nearly-standardised-on-linux">Input Method API Now (nearly) Standardised on Linux</a>提及在今年一月份，由中、日、韩等国政府资助的Northeast Asia OSS Promotion Forum( NEAOSS)的IMSWG (输入法标准工作小组)会议中，苏哲(SCIM)与Hideki Hiura (IIIMF/XIM)出席共同制定下一代的输入法架构，可望让现有UNIX的输入法架构分歧更加收敛，目前呼声颇高的<a href="http://code.google.com/p/imbus/">IMBus</a>标榜"The next generation input method framework for Linux"，很可能成为汇整包含Unicon在内的输入法开发资源，期待种种开放原始码的系统，得以有新的发展。
+</i>
+➜用女友测试Ubuntu 8.04的易用性
+https://www.solidot.org/story?sid=6043	21600
+评测最新版Ubuntu 8.04性能的文章多数都出自于熟悉Linux的高手之手，Ubuntu的雄心是让任何人都能轻松上手Linux，<a href="HardyHeron">找一位电脑菜鸟来测试</a>或许才能真正知道Ubuntu离它的目标究竟有多远。某位Geek的女朋友是哲学系的大学生，略懂一点点电脑知识，他让她坐下来用Hardy Heron<a href="http://contentconsumer.wordpress.com/2008/04/27/is-ubuntu-useable-enough-for-my-girlfriend/">完成一些基本任务</a>（Ubuntu中文论坛网友<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=119305&amp;sid=e65b07666781757a4fb33e9f6e3fee0b">翻译了全文</a>），这些任务包括：<i>
+任务一：告诉我波黑的首都在哪里 <br>
+任务二：在YouTube上看视频 <br>
+任务三：下载一部辣妹的专辑 <br>
+任务四：画一副图，并保存为3种不同的格式 <br>
+任务七：改变电脑的主题  <br>
+......</i>
+这些任务有的完成很轻松，有的要花点时间尝试，有的则完全失败（比如观看YouTube视频）。通过Windows用户之眼可见Linux桌面确实还存在不少易用性问题。
+➜Reiser判决对文件系统的影响
+https://www.solidot.org/story?sid=6044	24300
+星期一的判决显然在开源社区造成了不小的波动，Hans Reiser被判谋杀了他失踪的妻子Nina，面临25年的牢狱之灾。以他名字命名的文件系统<a href="http://en.wikipedia.org/wiki/ReiserFS">ReiserFS</a>因为稳定性和高性能而曾被作为第二大发行版SuSE Linux Enterprise Server (SLES)的默认文件系统，ReiserFS采用GPL2许可，在基于Debian的发行版中也很受欢迎。SuSE和Debian使用的都是ReiserFS 3，在入狱之前Hans Reiser和他的小型团队正在忙于开发Reiser4，该项目已经处于停滞并可能因为有罪判决而走向死亡。那么问题是用哪种文件系统来<a href="http://hardware.slashdot.org/article.pl?sid=08/04/29/165242">取代ReiserFS？</a> <i>
+<a href="http://en.wikipedia.org/wiki/Ext4">ext4</a>仍在开发中；IBM的<a href="http://jfs.sourceforge.net/">JFS2</a>，IBM至今没有表态是否会为Linux发展JFS2；Sun的<a href="http://en.wikipedia.org/wiki/ZFS">ZFS</a>由于采用CDDL开源许可，与Linux kernel使用的GPLv2不兼容，除非Sun打破僵局，换用其它兼容的许可否则还是没戏；微软的<a href="http://en.wikipedia.org/wiki/Ntfs">NTFS</a>文件系统也是选择在列，不过没人信任微软。</i>
+➜台湾中研院开发的汉字构形资料库开源
+https://www.solidot.org/story?sid=6045	26400
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "由台湾中央研究院资讯科学研究所文献处理实验室开发的<a href="http://www.sinica.edu.tw/~cdp/cdphanzi/">汉字构形资料库</a>软件日前以GPL3.0协议<a href="http://www.sinica.edu.tw/~cdp/cdphanzi/declare.htm">开放源代码</a>。而汉字字型部分则以GFDL1.2和cc-by-sa2.5双协议模式释出。
+<i>该软件包括《说文解字诂林》的小篆及重文共11,100个；《金文编》中的20,091个金文；《楚系简帛文字编》中的19,138个楚系简帛文字；《殷墟甲骨刻辞类纂》中的2,197个甲骨文等。以及各种异体字等大量目前没有编码的汉字。软件可以检索无法输入的缺字，并生成图片用于各种文档里。
+</i>这个软件是该研究单位<a href="http://www.sinica.edu.tw/~cdp/service/">缺字处理计划</a>的一部分。"
+➜胡须决定编程语言运势之续篇
+https://www.solidot.org/story?sid=6046	27900
+4年前，以色列软件工程师及八卦大师Tamir Khason写了篇文章论述<a href="http://www.alenz.org/mirror/khason/why-microsoft-can-blow-off-with-c.html">胡须与编程语言成功的直接联系</a>（<a href="http://www.kuqin.com/language/20070823/594.html">中文版</a>），认为胡须茂盛代表语言流行。现在他又重新检验了这套理论，瞧瞧是否在四年后还应验，于是<a href="http://blogs.microsoft.co.il/blogs/tamir/archive/2008/04/28/computer-languages-and-facial-hair-take-two.aspx">动手写了篇续集</a>，内容其实和上篇差不多，补充了上次没有写的PHP之父Rasmus Lerdorf（小胡子）。四年一轮回，物是人非，Fortran，Ada和Simula的创始人都已经去世了，此外Ruby语言之父松本行弘已经长出了大胡子。
+➜NYTimes.com网站手动编写所有的HTML和CSS代码
+https://www.solidot.org/story?sid=6047	30000
+NYTimes.com网站的设计主管、2年前加入NYT的越南裔设计师Khoi Vinh在《纽约时报》的不定时栏目“Ask the Times”上回答了读者的提问。在被问到为什么不管任何平台用什么浏览器或显示分辨率，《纽约时报》网站看起来始终如一的漂亮和舒服时，他回答：“我们喜欢用文字编辑器如HomeSite，TextPad或者TextMate，去<a href="http://www.nytimes.com/2008/04/21/business/media/21askthetimes.html">手动编写所有的HTML和CSS代码</a>，而不是使用所见即所得（wysiwyg）的HTML和CSS的编辑工具如 Dreamweaver。我们只是发现这能产生更好和更快的效果。”

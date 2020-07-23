@@ -1,0 +1,12 @@
+➜俄罗斯准备屏蔽 Telegram
+https://www.solidot.org/story?sid=56062	48554
+在 Telegram 拒绝交出加密密钥后，俄罗斯通信监管机构 Roskomnadzor 提起诉讼，准备在俄罗斯境内<a href="https://politics.slashdot.org/story/18/04/06/1426215/russia-files-lawsuit-to-block-telegram-messaging-app" target="_blank"><u>屏蔽</u></a> Telegram。Telegram 是流行的移动消息应用之一，月活跃用户已经突破 2 亿，在前苏联和中东国家被广泛使用，在中国则已经被屏蔽。Telegram 允许用户通过加密的消息交流，但它默认并没有使用端对端加密。俄罗斯联邦安全局去年要求该公司交出加密密钥，Telegram 提起了上诉，但上个月俄罗斯最高法院<a href="https://www.solidot.org/story?sid=55875" target="_blank"><u>驳回</u></a>了它的上诉，它被勒令交出加密密钥，但该公司以尊重用户隐私为由拒绝交出密钥。
+➜Facebook 从接收者的收件箱撤回扎克伯格的邮件
+https://www.solidot.org/story?sid=56063	50277
+你不能从接收者的收件箱删除 Facebook 信息，但扎克伯格和其他 Facebook 高管能。三个消息来源证实他们从扎克伯格收到的信息从他们的 Facebook 收件箱里消失了，而他们的回复则仍然保留着。这些信息既没有保留在聊天日志里也没有保存在 Facebook 的 Download Your Information 工具下载的文件里。Facebook 回应称此举<a href="https://techcrunch.com/2018/04/05/zuckerberg-deleted-messages/" target="_blank"><u>是为了保护公司安全</u></a>。在索尼影业的电子邮件遭黑客窃取后，Facebook 做出了一系列改变保护高管的通信，其中一个措施就是限制扎克伯格的消息在 Messenger 中保存的时间。但社交巨人此前并没有公开披露这些改动。Facebook 随后<a href="https://techcrunch.com/2018/04/06/facebook-unsend-messages/" target="_blank"><u>宣布</u></a>将向所有用户提供撤回消息的选项，其中一个选项是用户可以设定过期时间。在该功能提供给用户前 CEO 将暂停使用该功能。
+➜赛门铁克路由器被发现违反了 GPLv2 许可证
+https://www.solidot.org/story?sid=56064	51941
+Linux 使用了 GPLv2 许可证，而基于 Linux 的项目也都要遵守许可证要求。其中一个要求是出售的设备需要披露源代码。多年来嵌入式厂商经常被发现不提供源代码。现在，知名安全公司赛门铁克成为最新一个被发现不遵守许可证要求的企业。Google 工程师和 Linux 安全专家 Matthew Garrett 分析了他的高端路由器 Norton Core Router，赛门铁克声称将使用最新的安全机制定期更新路由器。Garrett 对其进行挖掘之后发现赛门铁克的软件系统是基于开源的 QCA Software Development Kit (QSDK)和 OpenWrt，OpenWrt 提供了一个包管理的完全可写入文件系统，允许赛门铁克使用更新的安全特性定制路由器。开源软件采用的  GPLv2 许可证，而根据许可证衍生项目也就是 Norton Core Router<a href="https://www.zdnet.com/article/symantec-may-violate-linux-gpl-in-norton-core-router/" target="_blank"><u> 需要披露其源代码</u></a>。
+➜SpaceX 不能直播地球图像因为 NOAA 要求获得授权
+https://www.solidot.org/story?sid=56065	53173
+上周五，SpaceX 使用 Falcon 9 发射了 10 颗铱星，和往常一样它进行了网上直播，但直播没有提供火箭释放卫星进入地球轨道的画面。该公司的工程师将此事归罪于美国国家海洋和大气管理局（NOAA）。NOAA 最近开始执行有数十年历史的法律，要求 SpaceX 和其它商业卫星公司<a href="https://science.slashdot.org/story/18/04/06/1751257/spacex-cant-broadcast-earth-images-because-of-a-murky-license" target="_blank"><u>获得许可</u></a>才能从轨道直播视频。NOAA 在声明中称 The National and Commercial Space Program Act 要求能从轨道上拍摄地球图像的公司获得商业遥感许可证，SpaceX 将摄像机安装在抵达轨道的火箭第二级上，此类的发射都需要遵守法律要求获得许可证。

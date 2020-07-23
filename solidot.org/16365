@@ -1,0 +1,48 @@
+➜苹果证实iCloud受到攻击
+https://www.solidot.org/story?sid=41556	9331
+苹果在其支持网站上发表<a target="_blank" href="http://support.apple.com/kb/HT6550?viewlocale=zh_CN&amp;locale=en_US"><u>声明</u></a>证实iCloud服务受到了攻击，声明称“我们已经注意到一系列有组织的网络攻击，利用不安全证书来窃取用户信息。我们对此给予了高度重视。事实上，这些攻击并未侵入 iCloud 服务器，也不影响在 iOS 设备或在运行 OS X Yosemite 的 Mac 上使用 Safari 浏览器来登录 iCloud。iCloud 网站受到数字证书的保护。如果用户在访问 www.icloud.com 时收到了证书无效的警告，则应引起注意并停止继续访问。同时，用户不应在收到证书无效警告的网站上输入自己的 Apple ID 或密码。此外，用户还可以通过检查浏览器的数字证书内容，来确认自己是否连接到了真正的 iCloud 网站。”苹果在声明中没有提到中国。它已修改了iCloud服务的DNS，被中间人攻击的IP地址不再使用。这次攻击被认为是中国政府发起或资助发起，但安全分析人士<a target="_blank" href="http://cn.wsj.com/gb/20141022/tec071917.asp"><u>质疑</u></a>，拥有相当规模资源可供支配的北京是否会下令进行如此容易就被侦测到的攻击。<br>
+➜辽宁号曾在试航中失去动力
+https://www.solidot.org/story?sid=41557	11890
+官方媒体在一篇典型的高大上英雄人物介绍中<a target="_blank" href="http://mil.news.sina.com.cn/2014-10-14/1416805507.html"><u>透露</u></a>，中国第一艘航空母舰辽宁号曾在一次试航中发生机炉舱给水管泄露水汽充满机舱动力丧失的事故。中国政府一般不会承认军事装备有问题，即便承认通常会在问题发生几个月甚至几年之后。辽宁号是前苏联瓦良格号航母改装的，前苏联的航母被报告发生过<a target="_blank" href="https://medium.com/war-is-boring/chinas-aircraft-carrier-trouble-spewing-steam-and-losing-power-29dae6cd9fdf"><u>多次引擎故障问题</u></a>，如印度购买的基辅级航母Vikramaditya号两年前因锅炉过热而在海上短暂失去动力；俄罗斯的库兹涅佐夫号航母也因为引擎问题而难以像美国的核动力航母那样长期执行任务。
+➜中国想向加州出售高铁
+https://www.solidot.org/story?sid=41558	12347
+中国北车正在向美国加州<a target="_blank" href="http://cn.reuters.com/article/companyNews/idCNL3S0SG3ZT20141021"><u>推销其高铁列车</u></a>。中国在七年内建设了世界上最长的高铁网络。这是中国尝试向海外出售高铁列车的首个具体行动，也表明中国企业成为德国西门子 、加拿大庞巴迪以及日本川崎重工的竞争对手。 北车、其旗下的唐山轨道客车及SunGroup将向加州价值680亿美元的高铁项目提交意向书，希望获得向该项目提供多达95辆高铁列车的合同。高铁列车制造商预计将在10月22日前向加州高速铁路管理局提交意向书。
+➜三星承认固态硬盘有bug发布固件更新
+https://www.solidot.org/story?sid=41559	15879
+三星上周向其受欢迎的840 EVO固态硬盘产品发布了<a target="_blank" href="https://www.samsung.com/global/business/semiconductor/minisite/SSD/us/html/support/downloads.html"><u>固件更新</u></a>，修正了导致旧数据读取性能下降的bug。三星称，2.5英寸840 EVO SSD和 840 EVO mSATA硬盘出现读取性能下降是因为 flash管理软件算法中的一个错误导致的。但许多用户和科技博主认为，读取性能下降不只是存在于三星的EVO固态硬盘产品，其它非EVO产品<a target="_blank" href="http://hardware.slashdot.org/story/14/10/21/1914208/samsung-acknowledges-and-fixes-bug-on-840-evo-ssds"><u>也存在相同问题</u></a>。他们还质疑固件更新是否真正解决了问题，还是通过移动数据掩盖了这个bug。
+➜将Android恶意应用隐藏在图像中
+https://www.solidot.org/story?sid=41560	18328
+两名研究人员<a target="_blank" href="http://www.net-security.org/malware_news.php?id=2887"><u>找到了</u></a>一种新方法将恶意程序安装到Android用户的设备上：<a target="_blank" href="https://www.blackhat.com/docs/eu-14/materials/eu-14-Apvrille-Hide-Android-Applications-In-Images-wp.pdf"><u>将其隐藏在图像中</u></a>（论文PDF）。恶意程序研究人员Axelle Apvrille和逆向工程师Ange Albertin开发了一种定制的工具<a target="_blank" href="http://corkami.googlecode.com/svn/trunk/src/angecryption/angecrypt.py"><u>AngeCryption</u></a>（ Python脚本）加密恶意程序的APK文件（Android application package），使其伪装成一个图像文件，他们之后又创建了另一个APK文件，能解密和安装加密的图像文件。恶意程序因为加了密，所以杀毒和安全工具无法检测出。在测试中，他们的合法墙纸应用在试图安装恶意应用时会弹出权限请求。研究人员声称可以通过使用DexClassLoader防止权限请求窗口出现。
+➜八十年代的广告或是女性程序员缺乏的罪魁祸首
+https://www.solidot.org/story?sid=41561	25222
+现代计算机科学被男性统治，但情况并不从一开始就是如此。许多计算机的先驱其实都是女性。在数十年里，女性学习计算机科学的数量比男性增长更快。但到了1984年，情况发生了转变。女性学习计算机科学的比例开始下降。到底发生了什么？<a target="_blank" href="http://www.npr.org/blogs/money/2014/10/21/357629765/when-women-stopped-coding"><u>NPR认为是广告和流行文化</u></a>。计算机被宣传是男孩的玩具。流行文化如电影和畅销书也向人们灌输了计算机是给男性的概念。1990年代曾有女性研究人员调查发现，男孩的家庭比女孩的家庭更可能购买计算机，即使女孩也对计算机感兴趣。
+➜优秀的开源图像浏览器
+https://www.solidot.org/story?sid=41562	27779
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "我最喜欢的格言是“一张图片胜过千言万语”，指的是静止图像可以传达复杂思想。图像比文字更有效的快速描绘大量信息。它们捕捉记忆，永远不会让你忘记你想要记住的事情。Linux上有大量的图像浏览器，多到令你无从选择。这篇文章介绍了13款<a target="_blank" href="http://www.linuxlinks.com/article/20141018070111434/ImageViewers.html"><u>优秀的开源图像浏览器</u></a>，包括<a target="_blank" href="https://projects.gnome.org/eog/"><u>Eye of Gnome</u></a>、<a target="_blank" href="https://wiki.gnome.org/Apps/gthumb"><u>gThumb</u></a>、<a target="_blank" href="https://wiki.gnome.org/Apps/Shotwell/"><u>Shotwell</u></a>、<a target="_blank" href="http://gwenview.sourceforge.net/"><u>Gwenview</u></a>、<a target="_blank" href="http://imgv.sourceforge.net/"><u>Imgv</u></a>，以及ACDSee替代<a target="_blank" href="http://wxglade.sourceforge.net/extra/cornice.html"><u>Cornice</u></a>等。"</i>
+➜芝加哥超速摄像机创造的罚款低于预期
+https://www.solidot.org/story?sid=41563	28834
+遵守交通规则的芝加哥人<a target="_blank" href="http://yro.slashdot.org/story/14/10/21/1322253/speed-cameras-in-chicago-earn-50m-less-than-expected"><u>大大影响了</u></a>政府的预算。根据市长Rahm Emanuel的2015年预算总况，违反交通超速行驶的比率低于预期。安装的超速摄像机没逮住多少超速行驶者。政府曾估计能收到9千万美元的罚款去平衡预算，结果只收到4千万美元，差额高达5千万美元，给下一年度的支出计划造成了压力。<br>
+➜微软用Microsoft Lumia替代诺基亚品牌
+https://www.solidot.org/story?sid=41564	30272
+微软正式<a target="_blank" href="http://www.theverge.com/2014/10/21/7026427/microsoft-lumia-nokia-brand-replacement"><u>采取行动</u></a>用Microsoft Lumia取代诺基亚作为其WP手机的品牌。诺基亚法国率先在其Facebook、Twitter和其它社交媒体账号上启用了Microsoft Lumia品牌，微软证实其它国家将会在未来几周更换品牌名。诺基亚作为手机品牌名将会消失，而诺基亚本身则专注于地图和网络基础设施服务。<br>
+➜《光晕：士官长收藏版》零售版需要下载20GB内容
+https://www.solidot.org/story?sid=41565	31853
+越来越多的游戏容量向50GB以上看齐。即将在下个月发布《光晕：士官长收藏版》的容量为65GB，远大于蓝光光盘的50GB标准容量。微软没有将零售版的游戏内容储存在两张光盘上，而是用一张光盘包含45GB内容，<a target="_blank" href="http://arstechnica.com/gaming/2014/10/a-huge-halo-master-chief-collection-clocks-in-at-65gb/"><u>再加20GB下载内容</u></a>。微软声称，20GB的下载内容主要是部分特性和多人内容，表示玩家可以一边玩单人游戏一边下载。343工作室的开发总监 Frank O'Connor承认，如此大容量的下载会给部分用户带来不便和苦恼，他对此表示歉意。
+➜计算机博物馆公布PARC软件源代码
+https://www.solidot.org/story?sid=41566	34590
+施乐帕洛阿尔托研究中心（PARC）是现代个人计算机的发源地，今天广泛使用的技术许多都可追溯到PARC研究人员所开发的原型。计算机历史博物馆<a target="_blank" href="http://www.computerhistory.org/_static/atchm/xerox-alto-source-code/"><u>获得洛阿尔托研究中心的许可</u></a>，在非商业使用条款下公布了<a target="_blank" href="http://xeroxalto.computerhistory.org/index.html"><u>Alto文件系统存档</u></a>，包括了1975年到1987年之间的Alto 源代码、可执行文件，字体和其它文件。Alto 软件包括了第一种可见即可的的字处理器Bravo，基于像素的绘图编辑器Markup，基于矢量的绘图编辑器Draw，邮件程序Laurel，网络软件Pup（代表PARC Universal Packet）等。
+➜捷克海盗党在地方选举中获胜
+https://www.solidot.org/story?sid=41567	36303
+一位海盗有望成为Mariánské lázně的市长。捷克海盗党出人意料的在多个地方的选举中<a target="_blank" href="http://torrentfreak.com/pirates-become-biggest-political-party-in-local-czech-election-141015/#main"><u>取得不俗的战果</u></a>。在首都布拉格，海盗党获得了5.3%的投票率；在Mariánské lázně，海盗党获得21%的投票率，成为当地最大的政党。海盗党在其政治竞选中宣传增加政府透明度，增加公民参与，减少版权垄断和推广使用自由软件。它在首都的地方议会中获得了4个席位。海盗党的Markéta Gregorová说，他们通常反对联盟，但可能会在部分地区与其它政党和成员合作。
+➜LinkedIn称中国人更爱跳槽
+https://www.solidot.org/story?sid=41568	38562
+职业社交网站LinkedIn在进入中国半年多之后发布了一份调查报告，称<a target="_blank" href="http://companies.caixin.com/2014-10-22/100741700.html"><u>中国人比美国人更爱跳槽</u></a>。一半以上的中国职场人士平均在职时间为34个月，相比美国的56个月，几乎短了两年。在中国，商业服务如律师事务所、会计师事务所、咨询公司、金融保险和互联网是在职时间最短、跳槽频次最高、员工流动性最大的三个行业。互联网人士爱跳槽在全球都一样，但中国的互联网人仍属冠中之冠。在中国互联网行业，员工平均在职时间为31个月，比美国的45个月短了一年多。而在被认为最稳定的工业生产制造业，中国人在职时间仅为39个月，几乎相当于美国同行业平均在职时间——71个月——的一半。报告认为，中国飞速发展的经济和不断进行的产业结构调整是主要诱因，企业出于发展需要往往更愿意挖人而没有时间精力来培养员工，这都成为了加速员工跳槽的温床。
+➜苹果CEO与中国副总理讨论保护用户数据
+https://www.solidot.org/story?sid=41569	39934
+在苹果iCloud服务遭到中间人攻击数天之后，苹果CEO Tim Cook与国务院副总理马凯见面<a target="_blank" href="http://www.bloomberg.com/news/2014-10-22/apple-s-cook-discusses-user-data-with-china-vice-premier.html"><u>讨论了保护用户数据</u></a>。官方新华社的报道没有披露任何细节，苹果中国发言人称新华社的报道是准确的。苹果美国发言人 Trudy Muller则表示，苹果已经知道iCloud服务遭到了一系列有组织的网络攻击，但拒绝评论攻击是否是中国政府支持的黑客发起的。
+➜IBM如何振兴？
+https://www.solidot.org/story?sid=41570	41442
+IBM的股价在两天内下跌了10%，蓝色巨人的第三财政季度净利润大幅下滑，同时宣布放弃2015年营业利润目标。IBM的困境<a target="_blank" href="http://cn.reuters.com/article/columnistNews/idCNKCS0IA0PP20141021?feedType=nl&amp;feedName=investingUpdate&amp;sp=true"><u>被认为是它采用的企业策略造成的</u></a>，它的企业策略是金融工程优先于投资，对每个季度的表现最为重视而缺乏长远考虑。结果就是，IBM成为一家投资匮乏而核心产品业务已经被掏空的企业，而债务负担还加大了。从2000年到2013年，IBM在股票回购中花了超过1080亿美元，还支付了300亿美元的股息，而资本支出仅仅为590亿美元。这样的结果就是同期税前利润率翻番，但是无疑是牺牲了核心业务的价值——导致这些业务的防御性越来越差。<a target="_blank" href="http://www.bloomberg.com/news/2014-10-21/ibm-ceo-under-pressure-to-revive-tech-giant-after-plunge.html"><u>IBM如何振兴</u></a>？分析师的建议是像eBay那样分拆，或者如甲骨文那样斥资大笔收购。但CEO罗睿兰(Ginni Rometty)已经断然拒绝了分拆的建议。IBM在170个国家有超过43万名雇员，这艘船过于庞大。
+➜匈牙利计划对网络流量征税
+https://www.solidot.org/story?sid=41571	43515
+匈牙利政府周二向议会递交了2015年税法草案。根据草案，政府计划<a target="_blank" href="http://uk.reuters.com/article/2014/10/22/uk-hungary-internet-tax-idUKKCN0IB0RI20141022"><u>对网络流量征税</u></a>，ISP需要为每GB数据缴纳约60美分的税。有匈牙利人<a target="_blank" href="https://news.ycombinator.com/item?id=8491882"><u>声称</u></a>，政府此举是障眼法，是为了将公众注意力转移到这个奇特的互联网税上，掩盖与俄罗斯的核电交易。互联网税确实已经引发了消费者的愤怒，他们担心ISP会将成本转嫁到消费者身上。匈牙利经济部表示，互联网税预计将能每年为政府带来约8300万美元的收入。但匈牙利的网络流量在2013年就超过了10亿GB，这些流量创造的税收将会超过7亿美元。

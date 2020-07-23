@@ -1,0 +1,69 @@
+➜新OpenSSL中间人漏洞影响所有版本
+https://www.solidot.org/story?sid=39826	10954
+OpenSSL项目披露了<a target="_blank" href="https://www.openssl.org/news/secadv_20140605.txt"><u>多个新安全漏洞</u></a>，包括允许中间人攻击的漏洞和允许执行代码的漏洞。其中中间人攻击漏洞与ChangeCipherSpec(CCS)实现不正确有关，它在OpenSSL 1998年发布的早期版本中就已经存在，至今已有16年历史，影响目前的所有版本，但严重程度并不高，因为攻击者拦截和解密加密流量需要客户端和服务器端都运行存在漏洞的OpenSSL，而浏览器并不包含OpenSSL。该漏洞的发现者是日本研究员Masashi Kikuchi，他在博客上<a target="_blank" href="http://ccsinjection.lepidum.co.jp/blog/2014-06-05/CCS-Injection-en/index.html"><u>介绍了发现经过</u></a>，认为OpenSSL项目存在一个超过16年的漏洞的最主要原因是代码审查不充分，缺乏有经验的TLS/SSL专家。
+➜Snowden曝光NSA监视一周年，FSF发布电邮保护指南
+https://www.solidot.org/story?sid=39827	14638
+<center>
+<iframe src="https://www.youtube.com/embed/qKk8MHFLNNE?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+一年前，前NSA合同工Edward Snowden通过《卫报》泄露了第一份NSA大规模监视活动的文档，随后曝光的<a target="_blank" href="http://www.solidot.org/story?sid=35078"><u>PRISM计划</u></a>则将对NSA监控的关注迅速推到了高潮。Snowden提供的机密文件显示，NSA的目标是收集一切，它的触手几乎无所不包，拦截Google、雅虎和微软数据中心之间的非加密流量，在加密算法中嵌入后门，大规模收集通信元数据，等等。6月5日，在Snowden泄密一周年之间，Google、Twitter、Mozilla等发起了<a target="_blank" href="https://www.resetthenet.org/"><u>Reset The Net</u></a>活动，认为阻止大规模监视的一种方法是建立更安全的互联网。自由软件基金会（FSF）发布了一个<a target="_blank" href="http://www.fsf.org/news/reset-the-net"><u>电子邮件保护指南</u></a>，推荐用户使用GnuPG或Enigmail等加密工具保护电子邮件通讯。
+➜天文学家拍到索伦之眼
+https://www.solidot.org/story?sid=39828	16689
+<div align="center"><img src="http://img.solidot.com.cn/0/337/li5rRJ36NPic.jpg" height="196" width="480"><br>
+<br>
+</div>
+欧洲南方天文台的甚大望远镜利用安装的分光偏振高对比度系外行星研究仪（Spectro-Polarimetric High-contrast Exoplanet Research，SPHERE）<a target="_blank" href="http://www.eso.org/public/news/eso1417/"><u>拍摄到了</u></a>半人马座恒星HR 4796A的照片，其形状非常类似电影《魔戒》中的索伦之眼。恒星HR 4796A被一个尘埃环环绕，SPHERE过滤掉恒星的光芒，清晰的突出恒星的尘埃环。这幅照片是为了演示SPHERE抑制恒星明亮眩光的能力。
+➜科学家测序盲鼹鼠基因组
+https://www.solidot.org/story?sid=39829	16971
+生活在地下的盲鼹鼠有一项动物乃至人类都非常羡慕的特性——不会得癌症。现在，科学家<a target="_blank" href="http://www.bbc.com/news/science-environment-27684001"><u>测序了</u></a>盲鼹鼠的基因序列，解开盲鼹鼠不会得癌症的秘密。<a target="_blank" href="http://dx.doi.org/10.1038/ncomms4966"><u>研究报告</u></a>发表在《Nature Communications》上。<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201406/t20140605_4132157.shtml"><u>研究显示</u></a>，高水平的RNA/DNA编辑，减少了染色体重排，短散核重复序列（SINEs）的过分表达可能增强了该物种的缺氧耐力。研究人员发现一些基因受到了正向选择，可能演化出了一套强化细胞凋亡和免疫炎症反应的机制，很可能正是这些基因构成了盲鼹鼠的某些基础——如不得癌症及抗衰老的特征。
+➜香港居民因空气污染搬家
+https://www.solidot.org/story?sid=39830	18735
+香港中产阶级也因为本地的空气污染日益严重而<a target="_blank" href="http://www.nanzaozhinan.com/sc/zhuan-ti-bao-dao/3217/gang-ren-ju-jia-wai-qian-bi-wu-ran"><u>举家迁移</u></a>。香港大学公共卫生学院助理教授黎克勤研究空气污染对健康的影响，他认为现在的香港儿童预期寿命缩短毋庸置疑。“我们的研究发现，10毫克的颗粒物就等于预期寿命减少两年。而香港的颗粒物是40到50毫克。理论上来说，这就意味着减寿10年。空气污染物对健康的负面影响很多，但绝大多数医学文献中的发现都认为，它们主要影响的是心血管和呼吸系统的健康。某些研究还指出，长期生活在这种环境中可能引发癌症。”
+这些影响对儿童的危害甚于成人。因为其器官小，正处于发育阶段。心血管、呼吸系统和肺都需要发育成熟才能满足机体未来的需要。若接触到有害物质，未成熟器官所受影响会远大于成熟器官。对儿童来说，有害物质可能造成的影响要更为严重，且会影响一生。香港曾经是一个空气清新的芳香之港，如今却被货船废气、车辆尾气，以及广东省的燃煤发电厂和工厂的排出物团团包围。这座城市的多山地形和高楼大厦导致屏风效应，令有毒气体难以散去。
+➜吸烟可能是为了杀死寄生虫
+https://www.solidot.org/story?sid=39831	25218
+<a href="http://wmrblog.blogspot.com/">wmr</a> 写道 <i>"人类会把药物当作日常饮食，在食物中添加调味料对抗肉生细菌。研究人员猜测，<a target="_blank" href="http://www.ehbonline.org/article/S1090-5138%2814%2900056-7/abstract">人类也会使用神经毒素防治寄生虫</a>。就像调味料一样，人类可能主观因“娱乐”而使用，却没有察觉到其药用作用。每天收入0.5美元的中非共和国Aka族男性，会用一半的收入购买烟草。研究发现，尼古丁暴露水平更高，蠕虫负担更低。在服用抗蠕虫药后，体内尼古丁含量减少。文章猜测，免疫和神经系统间存在反馈机制。儿童的神经系统还在发展之中，使用神经毒素弊大于利，因此对其进化出了抗性。女性要怀孩子、养孩子，也进化出了抗性。"</i>
+➜欧洲出版商认为Web浏览侵犯版权
+https://www.solidot.org/story?sid=39832	26656
+欧盟最高法院作出裁决，欧洲网民用浏览器浏览在线内容<a target="_blank" href="http://arstechnica.com/tech-policy/2014/06/web-browsing-is-copyright-infringement-publishers-argue/"><u>不需要担心是否侵犯了出版商的版权</u></a>。代表八家新闻报纸的Newspaper Licensing Agency's (NLA)声称，Web冲浪的技术基础相当于侵权。欧盟法院<a target="_blank" href="http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:62013CJ0360&amp;qid=1401959911292&amp;from=EN"><u>裁决</u></a>认为，终端用户浏览网站过程中在屏幕上留下的副本和缓存的副本都满足于欧盟版权指令列出的侵权例外条件。NLA在本案的对手Public Relations Consultants Association (PRCA)对裁决表示欢迎。PRCA认为，NLA对浏览互联网内容收费的尝试影响了所有欧盟网民的上网基本权利。
+➜捐赠2万美元可获得《冰与火之歌》小说角色冠名权
+https://www.solidot.org/story?sid=39833	27900
+<div align="center"><img src="http://img.solidot.com.cn/0/338/liV9iomxPfwnY.png" align="" height="355" width="560"><br>
+</div>
+<br>
+乔治·R·R·马丁的下一部《冰与火之歌》小说有两个角色要杀，一个男的一个女的，他决定给粉丝们一个机会，捐出2万美元的人将可获得<a target="_blank" href="http://www.theverge.com/2014/6/6/5784962/game-of-thrones-author-grr-martin-will-kill-you-for-20000"><u>角色冠名权</u></a>。马丁还允许你选择角色的身份，如贵族、骑士、农民、妓女、淑女、学士、主教等等。马丁的这一活动主要是为了 Wild Spirit Wolf Sanctuary 和The Food Depot of Santa Fe筹款，<a target="_blank" href="http://www.prizeo.com/prizes/georgerrmartin/a-wolf-sanctuary-tour-and-helicopter-ride?utm_content=grrm&amp;utm_campaign=georgerrmartin&amp;"><u>目标是20万美元</u></a>，目前已筹集到超过12.1万美元。和众筹宣传一样，不同的捐款等级有不同的回报，其中包括与马丁共进早餐，马丁的帽子，T恤，亲笔写的感谢信等等。
+➜GOG宣布DRM-free游戏平台Galaxy
+https://www.solidot.org/story?sid=39834	29745
+<center>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/HtVdAasjOgU?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+</center>
+Good Old Games (GOG)宣布了DRM-free游戏平台<a target="_blank" href="http://www.gog.com/galaxy"><u>Galaxy</u></a>，它还宣布了《<a target="_blank" href="http://www.gog.com/thewitcher3/en"><u>The Witcher 3: Wild Hunt</u></a>》开放预售。GOG Galaxy为DRM-free游戏提供了一个集中化的启动器，支持自动更新，玩家之间的聊天，不需要Steam、UPlay和Origin之类的DRM服务，不需要在线激活，单机游戏不需要联网，用户甚至不需要创建GOG Galaxy账号，除非你想要和朋友共享成就。GOG称这个平台为“可选客户端”，表示它相信玩家不需要第三方客户端或创建账号就能自由的与朋友共同游戏。GOG还开始预售明年2月上市的开放世界RPG游戏《The Witcher 3: Wild Hunt》，如果之前购买了《The Witcher》系列的一代和二代，那么你将可获得20%的折扣，以及大量的预购奖励，如《无冬之夜》。
+➜微软预售Kinect v2 for Windows
+https://www.solidot.org/story?sid=39835	33172
+微软官方商店开始预售<a target="_blank" href="http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.298810500"><u>Kinect v2 for Windows</u></a>体感设备，售价199美元，7月15日上市。Kinect v2 for Windows针对的是开发者而非消费者市场，产品的描述称设备可用于“开发识别人的自然动作、姿势和语音命令的交互式应用”。微软去年发布的Xbox One主机整合了Kinect v2，但由于销量低于竞争对手索尼的PS4，微软不久前宣布Xbox One主机将不再捆绑Kinect v2，Kinect v2将分开销售。PC版Kinect v2与主机版基本相同，包括了四个麦克风和两个视觉传感器。
+➜IBM与中国难说分手
+https://www.solidot.org/story?sid=39836	35448
+IBM周四宣布和上海机场有限公司联合开发一个软件系统，用于管理上海虹桥机场的运营。这一消息获得了广泛报道，原因大概与IBM在中国遭遇的困境有关。上月底曾有消息称政府要求国有银行抛弃IBM的高端服务器，用国产品牌替代（最热门的替代是浪潮）。《华尔街日报》称，IBM和中国国企的合作表明，对于IBM来说，中国市场非常重要，反过来也显示出<a target="_blank" href="http://cn.wsj.com/gb/20140606/rth073359.asp"><u>IBM提供的服务已经深深渗透于中国的各类行业</u></a>。尽管中国和美国就网络间谍刺探活动的争吵越发激烈，但IBM仍然能够继续赢得中国的合同。IBM软件团队副总裁Ernie Hu说，最近有越来越多的中国客户问及流经IBM系统的数据的安全问题。他否认IBM搞后门。
+➜Google以1024美元价格出售Project Tango开发平板
+https://www.solidot.org/story?sid=39837	36628
+<div align="center"><img src="http://img.solidot.com.cn/0/339/lizcQjMT2DTAU.png" align="" height="482" width="560"><br>
+<br>
+</div>
+Google<a target="_blank" href="http://arstechnica.com/gadgets/2014/06/google-to-sell-project-tango-tablet-dev-kits-for-1024/"><u>公开</u></a>了7英寸<a target="_blank" href="https://www.google.com/atap/projecttango/#devices"><u>Project Tango</u></a>开发平板，预计在今年晚些时候上市，售价1024美元。Project Tango平板是一个类似Kinect的3D感应平台，配备了NVIDIA Tegra K1处理器，4GB RAM、128GB ROM，动作跟踪摄像头、深度感应传感器、集成WiFi、BTLE和4G LTE。Project Tang平板不是一款消费者设备，而是面向开发计算机视觉类应用的开发人员。3D测绘和转换是一个计算密集过程，平板本身也是一个庞然大物（如图）。开发者现在可以注册邮件收取平板上市的通知。
+➜科学家发现月球起源大碰撞说证据
+https://www.solidot.org/story?sid=39838	38723
+月球起源的一种假说是大碰撞：在45亿年前，地球与一颗火星大小的行星Theia相撞产生了月球。这一假说最符合计算机模拟，也是目前最广为接受的月球起源理论。然而对阿波罗宇航员带回地球的月球岩石的同位素分析发现，月球岩石<a target="_blank" href="http://www.solidot.org/story?sid=28896"><u>完全源自于地球</u></a>，而计算机模拟认为岩石应该主要来自Theia。根据发表在最新一期《科学》上的报告，研究人员声称发现了月球起源于大碰撞的<a target="_blank" href="http://www.bbc.com/news/science-environment-27688511"><u>明确证据</u></a>。领导这项研究的哥廷根大学Daniel Herwartz博士称，他们发现了月球和地球岩石之间的微小差异，证实了大碰撞说。地球和月球岩石的氧同位素比例存在差异。
+➜FBI线民Sabu指挥匿名组织攻击巴西
+https://www.solidot.org/story?sid=39839	40906
+2012年初，松散的黑客团体匿名组织对巴西政府及企业网站发动了一系列网络攻击。他们是在Hector Xavier Monsegur（aka Sabu）的指挥下展开对巴西的网络攻击，而当时的Sabu已经是FBI的线民，处于FBI的监管之下。Motherboard和<a target="_blank" href="http://www.dailydot.com/politics/hammond-sabu-fbi-stratfor-hack/"><u>Daily Dot</u></a>的记者根据获得了未公开聊天日志<a target="_blank" href="http://motherboard.vice.com/read/exclusive-how-an-fbi-informant-helped-anonymous-hack-brazil"><u>独家披露了这次事件</u></a>，质疑FBI在其中扮演的角色。Sabu在2011年中期被捕，之后立即与FBI密切合作，成为一名极具价值的线民。文档显示，Sabu将漏洞情报和目标发送给匿名黑客，黑客利用这些信息破坏巴西政府和企业的服务器。
+➜Phinergy演示3000公里电动汽车电池
+https://www.solidot.org/story?sid=39840	43652
+<center>
+<iframe src="https://www.youtube.com/embed/k6kIJlgqezE?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+锂离子电池驱动的电动汽车的最大局限是行驶里程有限。现在，美铝加拿大和以色列公司Phinergy在蒙特利尔<a target="_blank" href="http://www.cbc.ca/news/technology/electric-car-with-massive-range-in-demo-by-phinergy-alcoa-1.2664653">演示了</a>最长行驶距离3000公里的铝空气电池。Phinergy CEO Aviv Tzidon称，新电池将驱散电动汽车用户的“里程焦虑”，有助于电动汽车的普及。目前的电动汽车行驶里程最长只有几百公里，除非大量安装快速充电站，电动汽车不适合远途驾驶。Tzido说，购买汽车是为了获得自由，而不是受限于里程和充电站设施。Tzido称，100公斤的铝空气电池储存了行驶3000公里的足够电量。相比之下特斯拉Model S的电池超过500公斤，而行驶里程不到500公里。铝空气电池是利用铝、水和空气中的氧气的化学反应释放能量。美铝称，铝空气电池一年只需要充电一次（所谓的充电其实是高温下熔化铝）。
+➜Chrome、IE和Firefox再次被发现容易被嗅探浏览历史
+https://www.solidot.org/story?sid=39841	46233
+几年前，各大浏览器被发现容易被恶意网站嗅探浏览历史。网站只需要利用JavaScript和CSS样式表就能探测浏览者的浏览器，检查浏览者以前访问了哪些网站。2010年，YouPorn.com等46个网站<a target="_blank" href="http://www.solidot.org/story?sid=21410"><u>被发现</u></a>利用这项技术检测用户访问了哪些成人网站。为了解决这个问题，浏览器开发商限制了能用于检查已访问链接的样式和JavaScript交互。现在，比利时Hasselt大学的学生Aäron Thijs证实，Chrome、IE和Firefox<a target="_blank" href="http://arstechnica.com/security/2014/06/theyre-ba-ack-browser-sniffing-ghosts-return-to-haunt-chrome-ie-firefox/"><u>仍然容易被嗅探浏览历史</u></a>。他开发出代码能迫使浏览器泄露浏览历史。他只测试了上述三种浏览器，推测Safari和Opera可能存在同样的问题。他的脚本在后台悄悄检查用户访问了哪些网站，一次一个，每秒大约能检查20个网址。<br>

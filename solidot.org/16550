@@ -1,0 +1,23 @@
+➜Google眼里的网络大炮
+https://www.solidot.org/story?sid=43839	15818
+<div align="center"><img src="http://img.solidot.com.cn/0/207/liMy20azlDaSI.png" align="" height="359" width="560"><br>
+<br>
+</div>
+代码托管网站GitHub上个月底遭到了DDoS攻击，攻击者劫持百度脚本替换恶意代码利用访问中国网站的海外用户对GitHub发动大规模分布式拒绝服务攻击。这一切当然没有躲过Google的监视，Google安全博客<a target="_blank" href="http://googleonlinesecurity.blogspot.ae/2015/04/a-javascript-based-ddos-attack-as-seen.html"><u>发表文章</u></a>指出，JS劫持攻击最早发生在三月初而不是我们以为三月中下旬。Google的Safe Browsing系统在虚拟机里扫描网站寻找恶意内容，它每天分析数百万网页。<i>Google工程师分析了3月1日到4月15日之间的数据，发现Safe Browsing第一次探测到百度域名的内容劫持是发生在3月3日，最后一次是在4月7日。攻击的执行分为多个阶段，第一阶段是测试，时间是在3月3日到3月6日，测试目标IP  114.113.156.119:56789（北京电信通），请求次数被人为设限；3月4日到6日，请求限制被移除。第二阶段是在3月10日到13日，最早的目标IP 是203.90.242.126（香港），请求一开始是通过HTTP，之后升级到HTTPS。3月14日开始同时通过HTTP和HTTPS攻击d3rkfw22xppori.cloudfront.net（greatfire.org利用亚马逊cloudfront搭建的一个屏蔽网站镜像），3月17日攻击停止。3月18日，更多cloudfront镜像域名成为攻击目标。JS内容替换在3月20日完全停止，但HTTP注入在继续。JS内容替换会破坏原内容功能，但HTTP注入不会。对cloudfront主机的攻击在3月25日停止，Github成为新的攻击目标。3月26日，百度的明文脚本被拦截替换了一个恶意JS代码，攻击github.com/greatfire/和github.com/cn-nytimes/，4月7日攻击停止。Google称，有8个百度域名遭到劫持，被注入不同大小的JS代码。Google认为，全面启用HTTPS加密将能防御此类攻击。</i>
+➜五角大楼宣布新网络战争战略
+https://www.solidot.org/story?sid=43840	16686
+五角大楼迈出了向潜在网络对手灌输恐惧感的重要一步。它发布了一项新的战略，首次明确讨论了美国在何种情况下，<a target="_blank" href="http://cn.nytimes.com/usa/20150424/c24cyber/"><u>可以使用网络武器来对付攻击者</u></a>，并且还列出了它认为威胁最大的国家：中国、俄罗斯、伊朗和朝鲜。根据五角大楼的新战略，常规攻击由公司负责抵御，国土安全部负责检测更复杂的攻击，并帮助私营部门抵御它们。总统或国防部长可以决定让美军开展网络行动，以扰乱对手那些与军事相关的网络或基础设施，让美军能够在开展行动的区域保护美国利益。
+➜尼泊尔发生M7.8级地震
+https://www.solidot.org/story?sid=43841	37638
+尼泊尔当地时间中午12:11（北京时间14:11）发生了<a target="_blank" href="http://earthquake.usgs.gov/earthquakes/eventpage/us20002926#general_summary">M7.8级</a>（美国地质勘探局的数据，中国地震网的数据是<a target="_blank" href="http://news.ceic.ac.cn/CC20150425141126.html"><u>里氏8.1级</u></a>）强地震，西藏地区有强烈震感，中国境内的部分区域发生房屋倒塌，暂无伤亡情况报告。尼泊尔内政部<a target="_blank" href="http://edition.cnn.com/2015/04/25/asia/nepal-earthquake-7-5-magnitude/index.html">表示</a>，地震死亡人数超过了3600人。此次地震被认为是印度板块和欧亚板块碰撞的结果，震中位于Lamjung东南偏东34公里，震源深度20千米，是一次浅源地震。在大约半个小时后，尼泊尔再次发生了<a target="_blank" href="http://earthquake.usgs.gov/earthquakes/eventpage/us2000292y#general_summary"><u>M6.6级余震</u></a>，震中位于Lamjung以东49公里，震源深度30千米。
+➜爱尔兰考虑将网上惹恼他人定为犯罪行为
+https://www.solidot.org/story?sid=43842	50485
+爱尔兰准备再次修订1951年的邮政法，加入新的修正案将互联网包含在内。根据<a target="_blank" href="http://www.irishstatutebook.ie/1951/en/act/pub/0017/sec0013.html#sec13"><u>邮政法第13条</u></a>的规定，通过传统邮件、电话或电信发送骚扰、惹恼人或让人产生不必要的忧虑的行为是违法的。新的修正提议要将电子邮件、社交网络和其它与互联网相关的信息传输包含在内。违反这项法律将面临1到5年徒刑，以及最高7.5万欧元的罚款。这一提议被批评将窒息言论，潜在会带来大量无法预料的结果，比如你通过电子邮件向朋友送了一个电子书，结果书的虚构内容惹恼了对方，如果这是违法的<a target="_blank" href="https://www.techdirt.com/articles/20150419/11285630721/irish-legislator-proposes-law-that-would-make-annoying-people-online-criminal-act.shtml"><u>那么法律也太荒唐了</u></a>。
+➜Stuxnet的低级bug导致它意外曝光
+https://www.solidot.org/story?sid=43843	52345
+在RSA 2015会议上，安全研究人员称Stuxnet蠕虫的一个低级的bug<a target="_blank" href="http://www.theregister.co.uk/2015/04/24/rsa_malware_fail/"><u>导致它意外曝光</u></a>。Stuxnet蠕虫设计破坏伊朗核工厂铀浓缩离心机，其开发者被认为是美国和以色列。Stuxnet是设计尽可能长的潜伏在伊朗的计算机控制系统中，但一个编程错误使蠕虫扩散到了 Windows 95和Windows 98等不支持的操作系统上，导致电脑蓝屏死机，从而引起了怀疑，使它曝光于世界。研究人员称，Stuxnet的开发者错误的将and和or字符交换，导致蠕虫安装在任何Windows操作系统上，其中包括它不支持的Windows 95和98。
+➜Valve的付费Mod计划引发争议
+https://www.solidot.org/story?sid=43844	58641
+<div align="center"><img src="http://img.solidot.com.cn/0/208/liaGraP0XI1c.png" align="" height="375" width="500"><br>
+</div>
+玩家为喜爱的游戏创建和开发Mod主要是出于热情而不是为了金钱，支持者可以捐款资助继续开发，令Mod创作者兴奋的是得到他人的认可。但Valve认为加入一个付费机制是一个好主意，它的创意工坊正式引入了<a target="_blank" href="http://steamcommunity.com/workshop/aboutpaidcontent/"><u>Mod付费功能</u></a>——不过Mod作者的收益只有25%，第一个支持该模式的游戏是《上古卷轴V：天际》。此事在Mod社区引发了激烈争议，一位Mod作者在官方论坛上<a target="_blank" href="https://steamcommunity.com/app/72850/discussions/0/611704730313709437/"><u>发帖</u></a>指出这是一个糟糕的主意，认为Valve此举污名化了Modder，创造了一个微交易地狱——因为大部分Mod是没什么意义的但它们的价格比游戏本体还贵了，不可避免的导致一些人为了牟利而剽窃他人的作品。就《上古卷轴V：天际》的Mod而言，Valve的创意工坊没有Nexus Mods社区受欢迎。但通过付费，Valve正让部分Nexus Mods上的流行项目迁移出Nexus成为Steam独占，其中就包括了非常受欢迎的下载量900万次的<a target="_blank" href="http://www.nexusmods.com/skyrim/mods/3863/?tab=4&amp;&amp;navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fcomments%2F%3Fmod_id%3D3863%26page%3D1%26sort%3DDESC%26pid%3D0%26thread_id%3D499516&amp;pUp=1"><u>SkyUI</u></a>。已有人创建了一个<a target="_blank" href="http://steamcommunity.com/groups/BoycottSteamWorkshop"><u>Steam小组</u></a>抵制购买Mod作品。还有人创作了<a target="_blank" href="http://i.imgur.com/CijD06m.png"><u>Meme画</u></a>讽刺Valve的贪婪。Valve CEO正在Reddit上与网友<a target="_blank" href="http://www.reddit.com/r/gaming/comments/33uplp/mods_and_steam/"><u>论战</u></a>。<br>

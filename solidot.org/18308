@@ -1,0 +1,12 @@
+➜微软移除发现严重 bug 的 Windows 10 最新更新，建议受影响用户卸载
+https://www.solidot.org/story?sid=63537	25498
+软件巨人的软件质量每况愈下。微软本周释出的 Windows 10 例行更新 <a href="https://support.microsoft.com/en-us/help/4524244/security-update-for-windows-10-february-11-2020" target="_blank"><u>KB4532693</u></a> 被发现存在严重 bug，会导致用户桌面重置为默认。部分用户可通过 C:\Users 中后缀为 .000 或 .bak 的临时文件夹恢复丢失的桌面文件，但还有部分用户<a href="https://www.windowslatest.com/2020/02/14/windows-10-kb4532693-issues/"><u>无法恢复</u></a>。微软已经从 Windows 更新服务器移除了 KB4532693，如果用户在安装该更新后出现问题微软建议将其卸载（搜索更新历史选择 KB4524244）。如果没有出现问题，用户无需采取任何行动。根据用户的<a href="https://answers.microsoft.com/en-us/windows/forum/all/2020-02-updates-kb4524244-locks-up-my-computer-and/b3cb2162-79aa-4870-a645-ac8a2e5a7ef6"><u>报告</u></a>，许多受影响的用户使用的是惠普的 AMD 电脑，启用了惠普的 Sure Start Secure Boot Key Protection 保护。其它公司的 AMD 电脑不受影响。
+➜扎克伯格称 Facebook 介于电信和报纸之间
+https://www.solidot.org/story?sid=63539	35353
+扎克伯格（Mark Zuckerberg）在德国慕尼黑安全会议上称，社交媒体应被视为电信公司和报纸的中间物。扎克伯格说，有害内容需要得到监管，问题是使用哪一种框架。目前有两种框架，一种用于新闻媒体，另一种用于电信公司。如果有人通过电话线说了有害的东西电信公司不需要承担责任。新闻媒体则需要为其刊登的内容承担责任。扎克伯格认为，<a href="https://www.reuters.com/article/us-germany-security-facebook/treat-us-like-something-between-a-telco-and-a-newspaper-says-facebooks-zuckerberg-idUSKBN2090MA" target="_blank"><u>Facebook 介于两者之间</u></a>。他称 Facebook 雇佣了 3.5 万人审查在线内容和部署安全措施。这个团队和自动技术每天关闭了超过 100 万假账号，绝大部分是在注册的数分钟内检测出来的。
+➜欧盟法官提议对 Google 增加罚款
+https://www.solidot.org/story?sid=63540	44470
+2017 年欧盟以 Google 存在反竞争行为为由对其开出了 24 亿欧元的罚款，并要求 Google 改变反竞争行为。Google 提起了上诉，试图摆脱罚款并尽可能少的做出改变。在本周举行的听证会上，五位法官之一的 Mac Eochaidh 法官<a href="https://www.reuters.com/article/us-eu-alphabet-antitrust/google-criticizes-eu-over-eye-catching-2-6-billion-antitrust-fine-idUSKBN2081JB"><u>认为</u></a>，如果 Google 不愿意改变法院应该考虑增加罚款。法官认为，24 亿欧元是一大笔钱，但相比 Google 的年收入而言是微不足道的。而如此水平的罚款如果不能阻止 Google 继续反竞争行为，<a href="https://tech.slashdot.org/story/20/02/14/2242232/eu-judge-raises-prospect-of-increasing-multibillion-fine-against-google" target="_blank"><u>那么也许要考虑增加罚款</u></a>。
+➜计算机科学家设计手镯去干扰智能音箱
+https://www.solidot.org/story?sid=63541	47308
+你可以自己不购买或不使用任何语音助手，但在其它场所你可能无法避开无处不在的监听，你说的话可能就被记录在亚马逊、Google、微软或苹果的服务器上了。芝加哥大学的计算机科学教授 Ben Zhao 和他的妻子 Heather Zheng <a href="https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html" target="_blank"><u>设计了一种手镯</u></a>，能干扰附近的 Echo 音箱或其它麦克风，使它们无法监听佩戴者的谈话。手镯有 24 个扬声器，当佩戴者打开之后它会发射出超声信号，这种信号人耳听不到，但麦克风将会检测到高频的声音。这种手镯还是原型，研究人员表示其制造成本可以降至 20 美元，已有投资者希望将其变成商品。这不是两人发明的第一种设计堵住语音助手耳朵的设备，他们在 2018 年创造了放置在智能音箱上的 Project Alias。但这种设备不具有便捷性。 Heather Zheng 认为干扰器应该随身携带，因为你不知道周围有没有麦克风。

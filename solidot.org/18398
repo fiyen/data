@@ -1,0 +1,21 @@
+➜德国慕尼黑再次拥抱开源
+https://www.solidot.org/story?sid=64381	13367
+新当选的德国慕尼黑市执政联盟<a href="https://www.zdnet.com/article/linux-not-windows-why-munich-is-shifting-back-from-microsoft-to-open-source-again/"><u>再次拥抱开源</u></a>，<a href="https://www.gruene-muenchen.de/wp-content/uploads/2020/04/Druckfassung_Koalitionsvertrag-2020_2026.pdf"><u>宣布</u></a>将坚持“'public money, public code”的原则，只要不涉及保密或个人数据，市政机构使用的软件源代码必须公开。2003 年，受微软终止支持 Windows NT 4.0 的刺激，慕尼黑市决定从私有软件迁移到开源软件。2013 年，市政机构八成的桌面运行了 LiMux 系统（其名字是 Linux 和 Munich 的组合），但因为兼容性的问题它还保留了部分 Windows 系统。2017 年，慕尼黑市政府决定重新使用私有软件，该计划估计花费了 8610 万欧元。对于市政府的最新决定，一些人抱怨这是政治性而不是理性的决定。
+➜美国对华为实施更严厉的禁令
+https://www.solidot.org/story?sid=64382	18414
+特朗普政府周五<a href="https://cn.reuters.com/article/us-huawei-chip-china-response-0515-idCNKBS22S019"><u>采取行动</u></a>，在全球范围内阻止向此前被列入贸易黑名单的华为供应芯片，这引发人们对中国进行报复的担忧，并重创美国芯片设备制造商股价。根据规则调整，使用美国芯片制造设备的外国公司将需获得美国许可，才能向华为或像海思半导体这样的华为关联公司提供某些种类的芯片。商务部一名高级官员在周五的电话简报会上告诉记者：“此举是美国优先，美国企业优先，和美国国家安全优先的体现。”中国迅速做出反映，《环球时报》周五报导，如果美国对华为进一步“卡脖子”，阻止台积电等向华为供应芯片，中方将予以强力反击，包括将美国有关企业纳入“不可靠实体清单”。报导援引消息人士称，措施包括依法依规对高通、思科、苹果等美企进行限制或调查，暂停采购波音飞机等等。台积电周五表示，正在“密切关注美国出口规则的变化”，并与外部法律顾问合作，“进行法律分析，并确保全面评估和解读这些规则。”
+➜Swift 5.3 将支持 Windows 和 Linux 发行版
+https://www.solidot.org/story?sid=64383	21214
+Swift 5.3 进入到了开发的最后阶段，它的一大目标是<a href="https://www.infoq.com/news/2020/05/swift-5-3-windows-linux/" target="_blank"><u>扩大支持平台</u></a>，包括 Windows 和更多的 Linux 发行版。Swift 已经支持的 Linux 发行版包括 Ubuntu 16.04 和 Ubuntu 18.04，新增的发行版包括 Ubuntu 20.04、CentOS 8 和 Amazon Linux 2。移植到 CentOS 和 Amazon Linux 需要做出大量小的改编，如 FoundationNetworking 需要切换到不同的 libcurl 版本，Swift 包管理器需要适应 Fedora 包系统，不再依赖 libatomic 等等。 Swift 项目为每一个支持的平台提供了可下载的工具链和 Docker 镜像。
+➜勒索软件攻击者向纽约律所勒索 4200 万美元
+https://www.solidot.org/story?sid=64384	35281
+纽约律所 <a href="http://gsmlaw.com/" target="_blank" rel="noopener noreferrer nofollow" data-component="externalLink">Grubman Shire Meiselas &amp; Sacks</a> (GSMS) 上周遭到了勒索软件 REvil (Sodinokibi) 的攻击，在加密计算机系统中的文件前勒索软件先窃取了其内部文件。窃取到的文件包含了律所客户的法律文书，它的客户中有名人和知名企业，如  Lady Gaga、Madonna、Mariah Carey、Nicki Minaj、Bruce Springsteen、Bette Midler、U2、Outkast、Jessica Simpson、Cam Newton 和 Facebook。攻击者 5 月 7 日在暗网发布信息，公布了一些窃取到的文件截图，给律所一周时间协商和支付赎金。14 日是截止日期，REvil 背后的运营者发布了第二则信息，称律所只愿意支付 36.5 万美元，而他们的要求是 2100万美元，因此现在他们把赎金增加了一倍<a href="https://www.zdnet.com/article/ransomware-gang-asks-42m-from-ny-law-firm-threatens-to-leak-dirt-on-trump/" target="_blank"><u>至 4200 万美元</u></a>。作为惩罚，REvil 黑客发布了  2.4 GB 大小的文档，其中包含了 Lady Gaga 的法律文书，大部分是演出合同。黑客还威胁释出对美国总统特朗普不利的文件。但有娱乐网站称特朗普从未成为 GSMS 的客户，因此这可能只是虚张声势。
+➜科技公司雇员考虑离开房租高昂的硅谷
+https://www.solidot.org/story?sid=64385	38817
+在大型科技公司纷纷推迟复工，大部分员工在年内都可以远程办公之后，许多人<a href="https://www.bloomberg.com/news/articles/2020-05-14/tech-workers-consider-escaping-silicon-valley-s-sky-high-rents" target="_blank"><u>开始重新计算居住在办公地点附近的生活成本</u></a>。湾区是美国租金最昂贵的地方，多年来一直面临住房可负担的问题。根据彭博社的数据，从 2011 -2017 年湾区新建单位住房与新增工作岗位的比例是 1 比 5.4。房价的中位数超过 60 万美元，是美国全国水平的两倍多。硅谷的大部分员工主要是租房，这也意味着他们可以随时搬家。最近 Google 和 Facebook 都宣布大部分员工年内无需前往办公室办公，而 Twitter 则进一步宣布员工可以长期在家办公。有孩子的父母现在意识到他们的薪水可以负担得起在硅谷之外购买较大的住房，而且选择很多，Google 和 Facebook 的工程师薪水都有六位数。
+➜美国第一季度游戏销售额创下记录
+https://www.solidot.org/story?sid=64386	50934
+因为疫情爆发导致的居家隔离，美国消费者投入了更多的时间玩游戏，第一季度的游戏销售额<a href="https://techcrunch.com/2020/05/15/us-video-game-sales-have-record-quarter-as-consumers-stay-at-home/" target="_blank"><u>创下了记录</u></a>，达到 108.6 亿美元，同比增长 9%。分析师称，人们不仅在游戏中消遣和逃避，而且还把游戏作为一种与家人朋友保持接触的方法。任天堂 Switch 主机的生活模拟游戏《<a href="https://zh.wikipedia.org/zh/%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83" target="_blank"><u>动物森友会（Animal Crossing: New Horizons</u></a>）》更是创下了销售记录，销量超过了 1300 万套，还推动了 Switch 主机的销量增长，但这款热门游戏上个月在中国电商平台突然下架。
+➜黑客通过多个交易所尝试洗掉窃取的以太坊
+https://www.solidot.org/story?sid=64387	52797
+去年 11 月 27 日，Upbit 交易所遭入侵，34.2 万以太坊被盗走。黑客之后在 12 月和 1 月通过多个数字货币交易所洗掉了超过 23.6 万以太坊。剩余的以太坊一直留在黑客的钱包里。跟踪数字货币交易的 Clain <a href="https://blog.clain.io/upbit-stolen-ethereum-being-laundring-through-binance-huobi-and-okex/"><u>报告</u></a>，黑客最近开始尝试通过多个交易所洗掉剩余的以太坊。黑客利用了多个知名的交易所，其中包括币安（Binance）、火币和 OKex。对窃取 Upbit 以太坊交易的跟踪显示，币安是利用率最高的交易所。币安官方表示它已经阻止了黑客的交易，数据显示黑客使用的钱包地址活跃了很长时间，直到最近才被屏蔽。

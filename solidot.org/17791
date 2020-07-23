@@ -1,0 +1,46 @@
+➜Linus Torvalds 宣布休息，为过去的行为道歉
+https://www.solidot.org/story?sid=57959	7803
+在内核邮件列表上，Linus Torvalds <a href="https://lore.kernel.org/lkml/CA+55aFy+Hv9O5citAawS+mVZO+ywCKd9NQ2wxUmGsz9ZJzqgJQ@mail.gmail.com/" target="_blank"><u>宣布</u></a>释出 Linux 4.19-rc4，同时宣布了一个重大消息：他将抽身离开反思一段时间，为过去的言行向社区道歉，他已经要求稳定版内核维护者 Greg Kroah-Hartman 接替他完成 4.19 的工作。Torvalds 因为弄错了内核维护者峰会的日期而在社区引发了热烈的讨论，而这一讨论最终促使 Torvalds 认为自己应该反省下，需要“照照镜子”。Linus Torvalds 从来不是一个言语温和的人，他<a href="https://www.solidot.org/story?sid=42721" target="_blank"><u>喜欢对抗性的讨论</u></a>，但这种对抗性讨论有时会被认为是人身攻击。Torvalds 承认这是不专业的也是没有必要的，他对此真诚的道歉，他需要改变自己的行为，想要向被他言语伤害的人道歉。他需要离开一段时间，需要帮助来更恰当的理解一个人的情绪和反应。他的离开并不是“心力交瘁”式的退出，他仍然想要继续维护 Linux，即使他已经在这个项目上工作了将近 30 年，他仍然强烈的想要继续做这项工作。这次休息更像是当年他短暂离开去开发一个叫“git”的小工具，只不过这次他想要做的是修正自己的行为。
+➜量子实验证实因果是模糊的
+https://www.solidot.org/story?sid=57960	13570
+一项量子实验证实量子力学<a href="https://physicsworld.com/a/quantum-mechanics-defies-causal-order-experiment-confirms/" target="_blank"><u>允许没有明确因果序的事件发生</u></a>。<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.090503" target="_blank"><u>研究报告</u></a>发表在《Physical Review Letters》期刊上。研究人员表示，更好的理解这种无明确因果序可能提供一种途径创造出结合爱因斯坦广义相对论和量子力学的新理论。经典物理和日常生活对连续发生的事件有着严格的因果关系。如果事件 B 在事件 A 之后发生，那么 B 不能影响 A 的结果。但这种关系在量子力学里失效了，因为一个波函数的时间展宽能够大于 A 和 B 之间的时间分隔。这意味着 A 和 B 的因果序不总会被一个量子区分。在实验中，澳大利亚昆士兰大学的研究人员创造了一种量子开关，光子可以走两条路径。一条路径涉及到在 B 操作之前进行 A 操作，而另一条路径则是 A 之前进行 B。A B 操作执行的次序由光子进入量子开关的初始极化确定。研究团队在做了多次实验后发现，在所有情况下，输出光子测量的极化与它们在 A 和 B 之间无明确因果序是一致的。测量结果支持无明确因果，统计显著性高达 18，远远超过 5 这个标志着物理学发现的门槛。
+➜谷歌不小心从远程更改了部分 Android 手机的电力设定
+https://www.solidot.org/story?sid=57961	13813
+匿名读者 写道 <i>" 你最近是否有发现自己的 Android 手机有点怪怪的呢？像是关闭屏幕后，位置服务就自动停止运作了，或是明明有通知，却没有即时显示，而且即使将手机完全充满电，形况也无法改善。然而这些状况，很可能是因为谷歌日前不小心将一项测试中的省电功能，套用到了内部以外一票运行 Android Pie 的手机之上<a href="https://cn.engadget.com/2018/09/16/google-android-pie-battery-saver-setting-remote-update/" target="_blank"><u>所导致</u></a>。谷歌的 Pixel 团队上周四在 Reddit 上<a href="https://www.reddit.com/r/GooglePixel/comments/9fkrvw/is_anyone_elses_power_saving_mode_turning_itself/e5xl907/" target="_blank"><u>证实</u></a>了这个意外，目前则已经将受影响的设备恢复到原先的设定。"</i>
+➜亚马逊调查员工受贿泄露数据
+https://www.solidot.org/story?sid=57962	16253
+《华尔街日报》<a href="https://www.wsj.com/articles/amazon-investigates-employees-leaking-data-for-bribes-1537106401?mod=hp_lead_pos4" target="_blank"><u>报道</u></a>（付费墙），亚马逊正在调查员工受贿和内部泄密事件。这在中国尤为明显。在中国的亚马逊员工工资相对较低，这使得他们甘愿冒险。知情人士称，亚马逊深圳员工的中间人提供内部销售数据和评价者的电子邮箱地址，以及删除差评和恢复被封亚马逊账户，以此换取约 80 美元到逾 2,000 美元不等的付款。报道称，部分亚马逊中国的中层雇员有权删除差评，或访问购买特定商品的客户电子邮件和他们写的评论。而中间人通常是通过微信搜索亚马逊雇员，询问他们是否愿意提供删差评或访问内部数据的付费服务。删除一条差评付费大约 300 美元，而中间人通常要求每次最少删除五条差评，买家每次至少需要支付 1500 美元。
+➜AMD 向内核贡献的代码行数 8.5 倍于 NVIDIA
+https://www.solidot.org/story?sid=57963	17151
+对 Linux kernel 代码的统计<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-NVIDIA-Intel-Kernel-Contrib" target="_blank"><u>显示</u></a>，AMD 向内核贡献的代码行数 8.5 倍于 NVIDIA。AMD 开发者向内核贡献了 2,168,104 行代码，移除了 414,761 行代码，净增加 1,753,343 行代码；而 NVIDIA 的开发者贡献了 303,180 行代码移除了 97,197 行代码，净增 205,983 行代码。AMD 开发者贡献的领域包括 CPU/芯片组，AMDKFD/AMDGPU/Radeon 显示驱动以及与 TTM 内存管理和核心 DRM 相关的工作。NVIDIA 开发者的工作主要是维护该公司的 Tegra SoC 和开发板，对开源的 NVIDIA DRM (Nouveau) 驱动贡献极少。
+➜印度 5G 测试排除华为中兴
+https://www.solidot.org/story?sid=57964	25146
+印度的 5G 测试邀请了电信设备供应商诺基亚、爱立信、思科和三星，但没有邀请华为和中兴。印度据报道是出于安全理由<a href="https://www.zdnet.com/article/huawei-and-zte-excluded-from-5g-trials-in-india-report/" target="_blank"><u>而将华为和中兴排除在外</u></a>。这将是继美国、英国和澳大利亚等之后，又一个大型 5G 市场对中国电信设备供应商关闭。中国电信公司被认为与政府关系密切，因此澳大利亚等担心这它们可能会在中国政府的指示下，使得使用它们的电信设备的网络更容易被未经授权访问。对于澳大利亚禁止华为参与其 5G 网络建设，华为有过非常激烈的反应，称澳大利亚的行动违背了竞争和非歧视的公平贸易原则。
+➜Linux Kernel 今年净增 22.5 万行代码
+https://www.solidot.org/story?sid=57965	29638
+Linux Kernel 今年至今增加了  2,229,836 行代码，同时移除了 2,004,759 行代码，<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-September-2018-Stats" target="_blank"><u>净增 225,077 行代码</u></a>。移除的代码许多是旧的 CPU 架构，所以内核今年实际上上增加了很多新功能。相比之下，今年的内核比去年要干净了很多，去年内核增加了 3,911,061 行代码，删除了 1,385,507 行代码，净增超过 250 万行。Linus Torvalds 仍然是 committer 数最高的内核贡献者，其他顶级贡献者包括  David S. Miller、Arnd Bergmann、Colin Ian King、Chris Wilson 和 Christoph Hellwig。
+➜部分工厂通过日托留住员工
+https://www.solidot.org/story?sid=57966	30137
+为减轻“留守儿童”及其父母受到的伤害，广东的部分工厂开展了<a href="http://www.ftchinese.com/story/001079433" target="_blank"><u>日托试点计划</u></a>，让农民工把子女从老家接出来。这一儿童保育倡议是 2016 年由国际玩具业协会（ICTI）《玩具制造业道德规范项目》发起的，ICTI 是一个由工厂、玩具品牌及零售商资助的国际非盈利机构，负责审核劳工和安全标准。对企业来说，目标之一是帮助它们吸引并留住员工。在中国，由于劳动人口萎缩和就业偏好的转变，这一目标正变得越发难以实现。联合国儿童基金会 2015 年对人口普查数据进行的分析发现，由于父母一方或双方出外打工，约有 6900 万儿童被留在小城镇和村庄。留守儿童有许多由祖父母看护，很多孩子缺乏足够的照料，导致“他们的身体、教育、心理发展与健康都受到负面影响”。
+➜日本 70 岁以上人口超过两成
+https://www.solidot.org/story?sid=57967	30734
+日本总务省 9 月 16 日发布了人口推算数据，结果显示，70 岁以上人口比上年增加 100 万人，达到 2618 万人，占总人口的比例达到 20.7％，<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/32260-2018-09-17-10-00-56.html" target="_blank"><u>首次突破两成</u></a>。65 岁以上老年人也增加 44 万人，达到 3557 万人，占整体的 28.1％，创历史新高。数据再次显示出日本需要积极应对超老龄化社会的现状。日本企业面临严重的劳动力短缺，在劳动力市场，老年人发挥的作用也在相对扩大。2017 年老年人就业人数达到 807 万人，创历史最多，连续 14 年增加。
+➜时代杂志以 1.9 亿美元被出售
+https://www.solidot.org/story?sid=57970	33819
+Salesforce.com 联合创始人 Marc Benioff 及其妻子同意以 1.9 亿美元现金 <a href="https://www.bloomberg.com/news/articles/2018-09-17/salesforce-s-benioff-to-buy-time-magazine-boosting-influence?srnd=premium" target="_blank"><u>收购 </u></a>有百年历史的著名新闻杂志《时代》。这笔交易令人想起亚马逊 CEO Jeff Bezos 在 2013 年以 2.5 亿美元收购著名的《华盛顿邮报》。Benioff 夫妇表示他们不会参与杂志的日常运营，计划保留现有的管理团队。Benioff 的净资产约有 65 亿美元，担任 Salesforce.com 联席 CEO，但这笔收购与这家科技公司无关。
+➜YouTube 和 Netflix 测试 AV1 编码视频
+https://www.solidot.org/story?sid=57971	39281
+YouTube <a href="https://www.anandtech.com/show/13365/youtube-publishes-first-videos-transcoded-using-av1" target="_blank"><u>上传了</u></a>十多个用 AV1 编码器转码的<a href="https://www.youtube.com/playlist?list=PLyqf6gJt7KuHBmeVzZteZUlNUQAVLwrZS" target="_blank"><u>视频</u></a>。AV1 是 AOMedia 释出的开源的免专利费编解码器，其 4K UHD 视频压缩率高于竞争的编码器。AOMedia 由亚马逊、ARM、思科、Facebook、Google、英特尔、英伟达、Mozilla、Netflix、微软、Adobe、AMD、苹果等著名科技公司组建。Netflix 也发布了<a href="http://download.opencontent.netflix.com/?prefix=AV1/Chimera/" target="_blank"><u>一则视频</u></a>测试 AV1 编码器。到目前为止，只有 Chrome 70 和 9 月 12 日前构建的 Firefox Nightly 支持 AV1 编解码器。目前 YouTube 和 Netflix 上传的视频分辨率都比较低，这些视频都是出于测试目的，还未涉及优化和更高的分辨率。在 Chrome 中启用 AV1 支持需要设置 chrome://flags/#enable-av1-decoder。
+➜引力波未提供额外维证据
+https://www.solidot.org/story?sid=57972	42039
+根据现有的引力波观测数据，天文学家<a href="https://phys.org/news/2018-09-gravitational-dose-reality-extra-dimensions.html" target="_blank"><u>没有发现额外维的证据</u></a>。2015 年，天文学家首次探测到引力波。去年，科学家首次观察到了两颗中子星合并产生的引力波。这一次，天文学家还用传统望远镜观察了合并后的余波。这次观察让天文学家获得了两种数据：一种是引力波，另一种则是光电磁波。这次观察让科学家有机会检测额外维理论。但结果显示，宇宙仍然只有我们所熟悉的三维空间和一维时间。
+➜华尔街无力阻止贸易战
+https://www.solidot.org/story?sid=57973	43065
+在比尔·克林顿、乔治·W·布什和贝拉克·奥巴马总统时代，华尔街曾帮北京说话并取得了成功。但在特朗普总统加大与北京的贸易战力度之际，<a href="https://cn.nytimes.com/business/20180917/china-wall-street-trade/" target="_blank"><u>华尔街的话被置若罔闻</u></a>。特朗普政府的贸易鹰派人物目前来看战胜了对华尔街友好的贸易温和派的声音。这在一定程度上是因为贸易战还未给特朗普总统带来太多负面影响。他的立场在两党都赢得了支持。美国经济几乎没有显示出被贸易战破坏的迹象，市场继续上涨。美国前贸易代表佐利克(Robert B. Zoellick)说，即使共和党在 11 月的选举中输掉国会，贸易战也可能会继续下去。只有市场暴跌可能会让他重新考虑。
+➜一个断裂的基因可能帮助我们的祖先成为马拉松运动员
+https://www.solidot.org/story?sid=57974	45173
+虽然今天的人类习惯了沙发土豆式的生活方式，但<a href="http://www.sciencemag.org/news/2018/09/broken-gene-may-have-turned-our-ancestors-marathoners-and-helped-humans-conquer-world" target="_blank"><u>长跑的能力就在我们的基因里</u></a>。通过长跑基因，我们的祖先能征服更多土地，躲避掠食者，并最终成为地球的统治者。
+<i>大约 20 年前，UCSD 的 Ajit Varki 和同事发现了人类和黑猩猩之间存在差异的一个基因：CMP-Neu5Ac Hydroxylase (CMAH)基因被用于制造名叫唾液酸的糖分子，人类携带的 CMAH 版本是破裂的，不能制造糖分子。在最新研究中，Varki 的团队探索了 CMAH 基因对肌肉和奔跑能力是否有影响。研究人员让携带正常版本和破裂版本的小鼠在跑步机上跑步。结果显示，携带人类版本 CMAH 基因小鼠比其它小鼠跑步速度快 12% 跑步距离长 20%。研究团队发现，携带人类版本基因的小鼠腿部肌肉有更多毛细血管，能更有效的利用氧气。但研究人员仍然不清楚糖分子是如何影响耐力的。</i>
+➜Google 搜索引擎停止支持 Windows Phone
+https://www.solidot.org/story?sid=57975	47010
+Windows Phone 手机在移动市场上的竞争失利并没有让所有用户立即放弃这个平台，但放弃这个平台的应用越来越多。Google 的搜索应用是最新一个<a href="https://news.softpedia.com/news/google-finally-abandons-microsoft-s-windows-phone-522732.shtml" target="_blank"><u>停止支持 Windows Phone 的主流应用</u></a>。当 Windows Phone 用户尝试使用 Google 搜索应用时会返回“连接失败，稍后再试一次”的错误提示。用户至今没有发现任何能绕过错误的权宜方法。作为  Android 的开发商，Google 从来不是 Windows Phone 的热情支持者，它的流行应用  Gmail 和 Google Maps从未在 Windows Phone 上发布。

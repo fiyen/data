@@ -1,0 +1,63 @@
+➜为什么Android使用弱加密算法？
+https://www.solidot.org/story?sid=36811	10431
+<div align="center"><a href="http://img.solidot.com.cn/0/721/liZ20nrKjXs.jpg"><img src="http://img.solidot.com.cn/0/721/liZ20nrKjXs.jpg" height="198" align="" width="280"></a><br>
+<br>
+</div>
+Android 2.2.1默认使用的加密算法是AES 256-SHA1，但从2010年发布的Android 2.3开始，它默认使用的是一种更弱的加密算法 RC4-MD5。当Android应用建立SSL加密连接，如果没有指定的话它将默认使用RC4-MD5进行加密。有人可能会怀疑美国国家安全局（NSA）收买了Android开发者以降低破解加密连接监视Android用户的难度。但Georg Lukas在分析了Android源代码之后<a target="_blank" href="http://op-co.de/blog/posts/android_ssl_downgrade/"><u>发现</u></a>，默认加密算法的次序是Sun/甲骨文的Java定义的，Java规格定义的TLS安全传输协议加密算法列表中前两种为RC4和MD5，2011年发布的Java 7加入椭圆曲线加密算法改进了加密列表，但Android是基于 JDK 6，仍然沿用十年前定义的默认加密算法列表。
+➜韩国互联网受到严重限制
+https://www.solidot.org/story?sid=36812	11070
+韩国是世界上数字基础设施最发达的国家之一，平均网速世界最快，但该国的互联网同时<a target="_blank" href="http://cn.nytimes.com/business/20131015/c15skoreaweb/"><u>又受到严格的限制</u></a>。韩国不允许学龄儿童晚上玩网游；成年人想在晚上玩游戏，则需要提供常住登记号码，以证明自己已经成年。直到去年，人们在网上发表评论还必须使用实名。在网上搜索资料可能会一无所获，因为很多韩国网站，包括一些政府部门网站，都禁止搜索爬虫。在线地图也受到严格限制，它禁止地图数据出口国外，以免落入敌国朝鲜之手。监管机构韩国通信标准委员会会封禁它认为有问题的信息，比如色情内容。从理论上说，在韩国制作色情内容是违法的。包括Google在内的外国互联网公司抱怨韩国的限制政策，比如Google地图的许多功能都需要在其服务器上进行处理，而这会构成地图数据出口行为。韩国政府已经表示将取消部分互联网监管法规。
+➜上海摩天大楼用风力发电
+https://www.solidot.org/story?sid=36813	12360
+世界第二高楼上海塔（上海中心大厦）位于浦东陆家嘴金融区，它螺旋式的楼体代表着中国作为一个经济超级大国的崛起。然而，这座优美的建筑还具有一层更加实际的意义：<a target="_blank" href="https://www.chinadialogue.net/article/show/single/ch/6413-Is-the-Shanghai-Tower-the-world-s-first-eco-friendly-skyscraper-"><u>它用风力进行发电</u></a>。上海塔被垂直划分为9个区，每个区有12到15层。这座“城中之城”将容纳办公、居住、文化设施和商业区。建筑顶部利用了多种最新技术，包括每年可产生5.4万度可再生电力的风力发电机，为外部照明供电。上海塔有两层玻璃幕墙，形成一个类似暖水瓶隔热层效应的气穴，从而实现冬暖夏凉。负责设计的建筑公司晋思称，与同样规模的一般结构建筑相比，上海塔的总碳足迹每年将减少3.4万吨。晋思公司认为，对中国来说垂直发展是一个可持续的战略。作为繁荣的象征，中国对超高层建筑的偏爱丝毫不令人吃惊。目前全世界在建的10座最高建筑中，有7座都在中国。其中202层高的长沙“天空城市”旨在创造一个“双纪录”：建成后不仅世界最高，而且建设速度最快。
+➜研究发现社交网络用户容易戒烟
+https://www.solidot.org/story?sid=36814	15256
+吸烟是一个重大公共卫生问题，但戒烟并非易事，最近就有研究<a target="_blank" href="http://www.solidot.org/story?sid=36677"><u>发现</u></a>，神经元可能通过在戒烟期间增加对尼古丁的响应破坏戒烟的努力。发表在《Communication》期刊上的一项研究发现，积极参与健康主题社交网络的用户<a target="_blank" href="http://www.itechpost.com/articles/11646/20131014/quitting-smoking-easier-social-media-users.htm"><u>更容易戒烟</u></a>。乔治亚大学的一位研究人员分析了多家专注于戒烟的社交网站，注意到建立起强社交纽带、获得更多社会支持的用户的戒烟难度大大降低。这些社交媒体用户增加了克制烟诱惑的能力，能在较长时间内不接触烟。<br>
+➜HTC发布了集成指纹传感器的One Max
+https://www.solidot.org/story?sid=36815	16754
+<div align="center"><img src="http://img.solidot.com.cn/0/722/litGYYiXQEnNc.jpg" height="227" align="" width="280"><br>
+<br>
+</div>
+HTC<a target="_blank" href="http://arstechnica.com/gadgets/2013/10/htc-gets-big-with-the-one-max-coming-to-sprint-and-verizon/"><u>发布了</u></a>5.9英寸平板手机One Max，如之前报导所言，其背面摄像头下方整合了一个指纹传感器。但除此之外，手机的其它方面与HTC One相同，如四核Snapdragon 600 1.7GHz处理器，4百万像素UltraPixel后置摄像头，基于 Android 4.3的HTC BlinkFeed，手机后壳可拆下，但 3300 mAh容量电池仍旧固定。在几个月 HTC One的硬件配置和工业设计尚属惊艳，但几个月后，最新的SoC已经变成了 Snapdragon 800，而HTC还是在啃老本，无怪乎深陷困境。
+➜黄河是北方沙尘黄土的主要来源
+https://www.solidot.org/story?sid=36816	24896
+发表在《Quaternary Science Reviews》期刊上的研究报告首次<a target="_blank" href="http://phys.org/news/2013-10-evidence-sand-deposits-china-rivers.html"><u>给出了黄河影响北方</u><u>黄土沙尘的证据</u></a>。黄土是一种粉尘状沉积物，中国北方黄土沙尘的起源及其与沙地的关系一直受到激烈争议。皇家霍洛威大学的研究人员分析了过去250万年中沉积的黄土颗粒，同时调查了内蒙古毛乌素沙漠沙地和黄河，确定黄土与附近沙漠河流之间的关系。结果发现，黄河将大量泥沙从西藏北部输送到毛乌素沙漠和更远的地方，显示黄河为黄土高原贡献了大量的沉积物。黄河是中国北方最大的河流，流经青藏高原西北部，青藏高原的隆起和黄河流域的演变支配着中国北方黄土高原和沙地的形成。<br>
+➜4600万年的蚊子化石体内吸满了血
+https://www.solidot.org/story?sid=36817	26161
+<div align="center"><img src="http://img.solidot.com.cn/0/723/liEXWP5M0yJZo.jpg" height="135" align="" width="200"><br>
+<br>
+</div>
+在科幻小说《侏罗纪公园》中，研究人员利用琥珀蚊子体内的恐龙血液克隆出了恐龙。这一描述本被认为纯属虚构，但如今却变成了活生生的真实故事。研究人员首次从一个雌性蚊子化石的腹部跟踪<a target="_blank" href="http://www.nature.com/news/blood-filled-mosquito-is-a-fossil-first-1.13946"><u>发现了血液</u></a>。<a target="_blank" href="http://www.pnas.org/content/early/2013/10/08/1310885110"><u>研究报告</u></a>发表在PNAS上。该蚊子化石距今有4600万年，研究人员表示很幸运，因为吸满血的蚊子腹部就像一个准备爆裂的气球，非常非常脆弱。吸血昆虫化石是在蒙大拿州页岩沉积物中发现的，不是《侏罗纪公园》所描述的琥珀。4600万年之后，任何DNA都不可能会留下，但其它分子仍然可能会存在。研究人员跟踪到了大量铁和有机分子卟啉的痕迹——铁和卟啉都是血红蛋白的组成部分。
+➜Broadcom收购LTE竞争对手，裁掉自家的LTE团队
+https://www.solidot.org/story?sid=36818	28841
+在完成1.64亿美元收购日本Renesas Electronics公司LTE相关资产的交易数天之后，Broadcom公司<a target="_blank" href="http://news.dice.com/2013/10/14/broadcom-begins-layoffs-lte-modem-design-001/"><u>裁掉了</u></a>自家的LTE和解调器设计团队。裁员从上周开始，预计将持续到本周甚至可能更长。裁员将影响至少数百名IT工作人员，覆盖范围包含美国和海外，其中印度就有大约220人遭解雇，加州Sunnyvale市的LTE和解调器设计团队成员收到了解雇通知。Broadcom雇员表示裁员并不出意料，因为Broadcom从Renesas得到了大约2000名工程师。该公司已经宣布要在未来12个月削减4500万美元的经常性支出，裁员人数可能会大幅增加。
+➜Twitter帖子长度越来越短
+https://www.solidot.org/story?sid=36819	31513
+2007年，Twitter用户每季度只发了大约20万帖子。2010年6月，每天的发帖量达到了6500万。今天的日均发帖量则达到了4亿。然而在帖子数量暴涨的同时，研究人员注意到<a target="_blank" href="http://www.technologyreview.com/view/520311/tweets-have-become-shorter-since-2009-say-computer-scientists/"><u>帖子的长度越来越短了</u></a>。菲律宾大学的Christian Alis和May Lim测量了2009年9月到2012年12月之间帖子长度的变化，发现Twitter帖子长度随时间而出现了显著的收缩。用户正用越来越少的单词进行交流。研究人员分析了2.29亿帖子，发现帖子的长度分布有两个峰值，一个峰值在140个字附近——140个字是每条帖子的最大长度。第二个峰值则随着时间而发生变化，从2009年9月到2012年12月，每条帖子的字中位数长度从8个字减少到5个字。这是一种全球性趋势，从另一方面可以解释Twtter用户建立起了一个个团体，彼此之间互相熟悉。
+➜LG将在下月发布曲面智能手机G Flex
+https://www.solidot.org/story?sid=36820	33390
+<div align="center"><img src="http://img.solidot.com.cn/0/724/lioUk5cQ9RVoc.jpg" height="136" align="" width="420"><br>
+<br>
+</div>
+韩国的两大智能手机制造商正竞相向世界展示曲面智能手机，除了曲面这一亮点外，它们与其它智能手机没有本质区别。虽然曲面不具有革命性，但它们终究是展现了柔性设备的第一道曙光。在三星<a target="_blank" href="http://www.solidot.org/story?sid=36734"><u>宣布</u></a>曲面手机Galaxy Round之后，LG也传出将在下月<a target="_blank" href="http://www.engadget.com/2013/10/13/lg-g-flex-revealed/"><u>发布</u></a>曲面智能手机G Flex，采用6英寸显示屏，它的从上往下的弯曲方式不同于Galaxy Round的从左往右弯曲。Galaxy Round的零售价超过1000美元，而G Flex的价格和确切上市时间尚不清楚。
+➜澳大利亚计划用无人机向学生快递课本
+https://www.solidot.org/story?sid=36821	35334
+<center>
+<iframe src="http://www.theage.com.au/action/externalEmbeddedPlayer?id=d-2vjgn" height="236" scrolling="no" width="420"></iframe>
+</center><br>
+一家澳大利亚公司计划利用四旋翼无人机<a target="_blank" href="http://www.theage.com.au/technology/sci-tech/push-for-liftoff-on-drone-deliveries-in-australia-20131014-2vixx.html"><u>向购书的学生快递课本</u></a>。从明年3月开始，在获得监管机构批准之后，学生将可以使用Android手机应用向图书零售商Zookal购书，图书将通过Zookal合作伙伴<a target="_blank" href="http://flirtey.com/"><u>Flirtey</u></a>的无人机快速，学生将能通过Google地图实时跟踪位置。在澳大利亚，快递公司的同日交付服务最高需要$29.95。而Flirtey的无人机仅仅收费$2.99。无人机能运送最多2公斤重量的书籍，将通过GPS定位直接飞到客户手机所在位置，然后丢到你手上。
+➜RMS：民主能容忍多少监视？
+https://www.solidot.org/story?sid=36822	37860
+自由软件基金会主席Richard Stallman（RMS）在《连线》上发表文章，谈论<a target="_blank" href="http://www.wired.com/opinion/2013/10/a-necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/"><u>减少监视的必要性</u></a>。RMS认为，社会目前的监控水平不兼容于人权，为了恢复自由和民主，必须减少监控到至少告密者和记者交谈不会被发现。为了做到这一点，我们必须减少我们所使用的系统的监控能力。RMS指出，现在的监控几乎无所不包，数据只要收集就有滥用的可能。为了保护记者和捍卫民主，我们必须限制国家能访问的数据的积累。没有人想生活在一个监视无处不在的社会里，监视是一种社会污染，限制数字系统的监控影响和限制物理结构的环境冲击没什么区别。我们必须减少任何组织的数据收集，不仅仅限于国家。我们必须重新设计数字系统，使它们不能积累用户使用数据。如果他们需要我们的交易数据，可以，但不能保留超出他们需要的时间。
+➜科学家识别阿尔卑斯冰人的活亲戚
+https://www.solidot.org/story?sid=36823	40346
+根据一项<a target="_blank" href="http://news.discovery.com/history/living-relatives-of-iceman-mummy-found-131014.htm#mkcpgn=rssnws1"><u>遗传学研究</u></a>，阿尔卑斯山冰人Ötzi至少有19个男亲戚目前生活在奥地利。<a target="_blank" href="http://www.solidot.org/story?sid=24615"><u>冰人Ötzi</u></a>的遗体是在1991年发现的，他成为研究新石器时代人生活的信息宝库，去年科学家发表了他的完整基因组测序结果。研究人员分析了奥地利 Tyrol 地区3700名献血者的DNA样本，发现其中19人与Ötzi共享特定的遗传突变。他们与冰人有着共同的祖先。男性的Y染色体和女性的线粒体如果发生变异，后代会未作任何改变的继承这些变异。
+➜奥巴马健保门户网站宣称用户没有隐私
+https://www.solidot.org/story?sid=36824	41429
+数亿美元开发的奥巴马健保门户网站HealthCare.gov受困于拙劣的设计和糟糕的代码，消息人士<a target="_blank" href="http://arstechnica.com/information-technology/2013/10/obamacare-website-fixes-could-take-two-weeks-or-up-to-two-months/"><u>透露</u></a>修正HealthCare.gov网站问题最少需要二周时间最多可能需要二个月。与此同时，对网站源代码的<a target="_blank" href="http://www.weeklystandard.com/blogs/obamacare-website-source-code-no-reasonable-expectation-privacy_762489.html#"><u>分析显示</u></a>，HealthCare服务条款宣称用户没有任何隐私。服务条款称，用户不应该对隐私有合理期望，系统储存的任何信息或交换的数据或通信都可能会被政府使用，政府可以出于合法目的监控、拦截、搜查和扣押这些数据。
+➜利用加速计创建智能手机指纹
+https://www.solidot.org/story?sid=36825	43319
+斯坦福大学计算机科学研发出一项技术，有朝一日可能会被广告商或执法机构<a target="_blank" href="http://arstechnica.com/security/2013/10/stealthy-technique-fingerprints-smartphones-by-measuring-users-movements/"><u>秘密创建智能手机的独特指纹</u></a>，它利用了所有智能手机都配备的加速计传感器。研究人员发布了一个<a target="_blank" href="http://sensor-id.com/"><u>概念验证网站</u></a>（不支持桌面电脑，只支持移动设备）——要求平放手机（比如说正面平放在桌面上），然后几秒钟之后翻转手机，再经过几秒钟之后就能创建唯一ID。这项技术不需要安装应用，不需要特别权限，只需要默认设置的浏览器，运行JavaScript代码去查询加速计方位，它不会在设备上留下cookies或其它文件，因此很难被安全软件检测出。
+➜卡内基梅隆开发新的验证码技术GOTCHA
+https://www.solidot.org/story?sid=36826	45524
+卡内基梅隆大学研究人员开发的验证技术CAPTCHA（自动区分计算机和人类的图灵测试）取得了巨大成功，但道高一尺魔高一丈，攻击者总是能找到方法破解CAPTCHA，最简单的方法是以血汗工厂的模式雇廉价劳工去人工破解CAPTCHA。现在，卡内基梅隆大学的计算机科学家<a target="_blank" href="http://www.technologyreview.com/view/520306/will-gotchas-replace-captchas/"><u>提出了</u></a>另一套验证码技术GOTCHA（代表Generating panOptic Turing Tests to Tell Computers and Humans Apart），<a target="_blank" href="http://arxiv.org/abs/1310.1137"><u>论文</u></a>发表在预印本网站上。GOTCHA要比CAPTCHA更复杂，新的方法是基于墨迹的模式，注册网站的用户需要回答一系列问题。它首先生成一套简单的墨迹图，随机点缀不同色彩的墨点，请用户用不同的短语去形容这些墨迹模式。然后当用户重新访问网站，他们会被展示这些墨迹图和短语，用户需要为每个模式分配正确的短语。人类的记忆真的能正确匹配图像和文字？研究人员利用亚马逊的Mechanical Turk招募志愿者测试GOTCHA，结果不太理想，70名测试者只要17人正确匹配所有图像。

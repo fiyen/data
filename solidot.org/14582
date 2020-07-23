@@ -1,0 +1,160 @@
+➜为什么民族主义有害
+https://www.solidot.org/story?sid=14999	1920
+瘦瘦的欧罗巴挡不住天朝的金戈铁马 写道 "George Mason University法学院的Ilya Somin在<a href="http://volokh.com/2009/12/01/against-nationalism/">自己的blog上</a>阐述了民族主义问题，对民族主义的危害做了梳理。<i>
+Somin认为民族主义是现代政治中最邪恶的理念之一。首先民族主义是大规模屠杀和镇压的主要肇因。民族主义者主导的政府以民族主义为合法性来源去推行保护主义、歧视少数族群或者压制异议人士。民族主义者一般把国际政治和经济当做一种<a href="http://zh.wikipedia.org/wiki/%E9%9B%B6%E5%92%8C%E5%8D%9A%E5%BC%88">0和游戏</a>。而0和游戏正是民族社会主义(纳粹主义)和法西斯主义思维的灵魂。(这两者是民族主义的极端表现形式)。理论上一个民族主义分子不一定非要信仰0和，但经验上这两者总是配合得很好。<br>
+民族主义甚至会使一些宽容的自由派人士产生排外情绪。比如Charles Schumer议员提出NBA不应该购买泰国产球服。这种“美国体育买美国货”的思维只有民族分子才能理解。Schumer不会指责纽约尼克斯队购买德克萨斯产的球服，否则会立刻成为笑料。实际上左翼和右翼中的贸易保护主义分子经常发表和Schumer类似的言论。</i>
+更多内容见内：           民族主义还会让人拒绝一些好的主张－－仅仅因为主张者的外国背景。为此Somin引述了<a href="http://www.tianyabook.com/zhexue/ziyoucx/027.htm">海耶克</a>的一段话:"观念的丰富和增进，乃是一个国际过程，而且只有那些充分参与这些观念讨论的人，才能对此一进程施以重大的影响。仅仅宣称一种观念是非美国的，非英国的或是非德国的，就不予接受，这显然不是一种真正的论辩；同样，仅仅因为一种错误的或邪恶的理想出自于本国一位爱国者的构设，就将它说得比其他理想都好，当然也不是真正的论辩。"<br>
+民族主义经常被用来作为提升合法性的借口。东欧的哈维尔和萨哈罗夫就遭到民族分子的指责，因为他们行事依照普遍的原则，而不是以民族主义证明自己的合理。<br>
+民族主义并非人类本能。在19世纪欧洲一些政府灌输民族主义意识形态之前，只有很少民族分子。<br>
+有些民族分子并不支持民族社会主义或者法西斯主义这类极端形态。但是历史证明，把民族主义控制在某个范围是极端困难的。民族主义一旦成形，会迅速发展为沙文主义、保护主义甚至更坏的东西。这种现象部分源于民族主义的内在逻辑：它认为我们的道义责任是建立在某个民族、某个种族或者某种文化上。Somin警告说，操控民族主义如同玩火，烧到自己的风险极大。"
+➜Google发布免费DNS解析服务
+https://www.solidot.org/story?sid=15000	6000
+Google<a href="http://googlecode.blogspot.com/2009/12/introducing-google-public-dns-new-dns.html">宣布</a> <a href="http://tech.slashdot.org/story/09/12/03/1814238/Google-Launches-Public-DNS-Resolver">推出</a>免费的DNS解析服务<a href="http://code.google.com/speed/public-dns/">Google Public DNS</a>。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8B%99%E5%99%A8">DNS协议</a>是Web的重要组成部分，它就如同是互联网的“电话簿”。每次访问一个网站，计算机都须执行一次DNS查询。复杂的网页在载入之前需执行多次DNS查询，其结果是普通网民每天必须执行数百次DNS查询，这会降低用户的浏览体验。Google推出Public DNS便是试图改进浏览体验，让互联网变得更快(在TTL记录过期之前执行prefetching，更新缓存)，更安全（支持新的DNS安全扩展<a href="http://www.dnssec.net/">DNSSEC</a>）。Google Public DNS托管在Google分布在全世界的数据中心，它使用选播路由算法（Anycast Routing）把用户的DNS解析请求发送到地理位置最近的数据中心。Google Public DNS遵循DNS标准，向用户的计算机提供正确的响应，不会有任何屏蔽、过滤，或重新定向等妨碍用户浏览体验的行为。Google Public DNS的IP地址为：8.8.8.8以及8.8.4.4。</i>           修改TCP/IP的DNS服务器地址：
+<h4>Microsoft Windows</h4>
+<p>DNS settings are specified in the&nbsp;<b>TCP/IP Properties</b> window for the selected network
+connection.&nbsp;</p>
+<p> <b>Example: Changing DNS server settings on Microsoft Windows Vista</b> </p>
+<ol>
+<li>Go the <b>Control Panel</b>.</li>
+<li>Click <b>Network and Internet</b>, then <b>Network and Sharing Center</b>, then <b>Manage network
+connections</b>.</li>
+<li>Select the connection for which you want to configure Google Public DNS. For example:
+<ul>
+<li>To change the settings for an Ethernet connection, right-click <b>Local Area Connection</b>, and
+click <b>Properties</b>. </li>
+<li>To change the settings for a wireless connection, right-click<b> Wireless Network Connection</b>, and click <b>Properties</b>.
+</li>
+</ul>
+If you are prompted for an administrator password or confirmation, type the password or provide
+confirmation.</li>
+<li>Select the <b>Networking</b> tab. Under <b>This connection uses the following items</b>, click <b>Internet
+Protocol Version 4 (TCP/IPv4)</b>, and then click <b>Properties</b>.</li>
+<li>Click <b>Advanced</b> and select the <b>DNS</b> tab. If there are any DNS server IP addresses listed there, write them
+down for future reference, and remove them from this window.</li>
+<li>Click <b>OK</b>. </li>
+<li>Select <b>Use the following DNS server addresses</b>. If there are any IP
+addresses listed in the <b>Preferred DNS server</b> or <b>Alternate DNS server</b>, write them down for future reference.</li>
+<li>Replace those addresses with the IP addresses of the Google DNS
+servers:&nbsp;8.8.8.8 and 8.8.4.4.</li>
+<li>Restart the connection you selected in step 3.</li>
+<li>Test that your setup is working correctly; see <a href="%23testing">Testing your new settings</a>
+below.</li>
+<li>Repeat the procedure for additional network connections you want to change.</li>
+</ol>
+<h4>Mac OS X</h4>
+<p>DNS settings are specified in the&nbsp;<b>Network</b> window.&nbsp;</p>
+<p> <b>Example: Changing DNS server settings on Mac OS 10.5</b> </p>
+<ol>
+<li>From the <b>Apple</b> menu, click <b>System Preferences</b>, then click <b>Network</b>. If you
+are prompted for an administrator password or confirmation, type the password or provide confirmation.</li>
+<li>Select the connection for which you want to configure Google Public DNS. For example:
+<ul>
+<li>To change the settings for an Ethernet connection, select <b>Built-In Ethernet</b>, and
+click <b>Advanced</b>. </li>
+<li>To change the settings for a wireless connection, select <b>Airport</b>, and click <b>Advanced</b>.</li>
+</ul>
+</li>
+<li>Select the <b>DNS</b> tab.</li>
+<li>Click + to replace any listed addresses with, or add, the Google IP
+addresses at the top of the list:&nbsp;8.8.8.8 and&nbsp;8.8.4.4. </li>
+<li>Click <b>Apply</b> and <b>OK</b>.</li>
+<li>Test that your setup is working correctly; see <a href="%23testing">Testing your new settings</a>
+below.</li>
+<li>Repeat the procedure for additional network connections you want to change.</li>
+</ol>
+<h4>Linux</h4>
+<p>DNS settings are specified in /etc/resolv.conf in most distributions.&nbsp;</p>
+<p> <b>Example: Changing DNS server settings on Ubuntu</b> </p>
+<ol>
+<li>Edit&nbsp;/etc/resolv.conf:
+<pre>sudo vi /etc/resolv.conf</pre>
+</li>
+<li>If any <code>nameserver</code> lines appear, write down the IP addresses for future reference.</li>
+<li>Replace the <code>nameserver</code> lines with, or add, the following lines:
+<pre>nameserver 8.8.8.8<br>nameserver 8.8.4.4</pre>
+</li>
+<li>Save and exit.</li>
+<li>Restart any Internet clients you are using.</li>
+<li>Test that your setup is working correctly; see <a href="%23testing">Testing your new settings</a>
+below.</li> </ol>
+➜台湾玩家“打败”《魔兽世界》
+https://www.solidot.org/story?sid=15001	8100
+台湾“神样”公会的玩家“<a href="http://tw.wowarmory.com/character-achievements.xml?r=Wrathbringer&amp;cn=%E5%B0%8F%E7%81%B0&amp;gn=%E7%A5%9E%E6%A8%A3">小灰</a>”成为“打败”《魔兽世界》的<a href="http://games.slashdot.org/story/09/12/03/1456243/Man-Beats-World-of-Warcraft">史上第一人</a>。他获得了所有的986个成就，完成了5906个剧情任务（平均每天完成14个任务），杀死了390,895个生物，造成了7,255,538,878点破坏。他共完成391个地下城和团队任务，拥抱了11种不同种族和职业的玩家。
+➜Linux Kernel 2.6.32发布
+https://www.solidot.org/story?sid=15002	10560
+Linus Torvalds正式<a href="http://linux.slashdot.org/story/09/12/03/1415206/Linux-Kernel-2632-Released">发布</a>了<a href="http://lkml.org/lkml/2009/12/3/11">Linux Kernel 2.6.32</a>。新的特性<a href="http://kernelnewbies.org/Linux_2_6_32">包括</a>：<i>
+虚拟化内存de-duplicacion；重写的writeback更快和更具有扩展性；Btrfs文件系统有众多重要改进；支持ATI R600/R700 3D和KMS，改进图形性能；增加了一个CFQ低延迟模式；perf timechart工具吸引了更多关注，perfcounters子系统更名为Performance Events，能执行更广泛的任务；内存控制器支持soft limits；简化本地内核配置；支持Run-time 电源管理；支持 S+Core 架构；支持Intel Moorestown 、SFI (Simple Firmware Interface)和ACPI 4.0；以及大量新驱动等。</i>
+➜研究称手机与脑瘤之间没有关系
+https://www.solidot.org/story?sid=15005	12000
+路透社报道，丹麦研究人员表示，<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-1260920091204">使用手机和得脑瘤之间没有关系</a>。<i>
+根据发表在《美国国家癌症研究院期刊》上的一篇研究<a href="http://jnci.oxfordjournals.org/cgi/content/abstract/djp415">报告</a>(摘要)，虽然上世纪90年代起手机使用人数大幅攀升，但同期脑瘤发病率并没有变得更高。研究人员称，在1998到2003年间的任何人群里，脑瘤发病率的长期趋势没有出现任何变化。研究人员分析了在1974年到2003年间，丹麦、芬兰、挪威、瑞典四国20岁到79岁人群罹患神经胶质瘤和脑膜瘤这两种脑瘤的年发病率。这些国家均有较完善的癌症患者登记记录。全部1,600万成年人在这30年中哟偶将近6万人被诊断出脑瘤。</i>
+➜其实我们都不知道“3D立体电影”！
+https://www.solidot.org/story?sid=15003	12420
+<a href="http://www.6-friends.cn/">老友记中国站</a> 写道 "关于立体电影，互联网上的信息很杂很乱。什么红蓝红绿立体电影、偏振立体电影、3D数字立体电影、甚至4D立体电影。戴不同的眼镜看不同类型的立体电影。立体眼镜有5毛的塑料片，也有价值700元的产品，你到底选什么！在自己家的电脑上能看立体电影吗？有不戴眼镜就能看的立体电影吗？如果你也有这么多疑问，一定要看这篇文章——<a href="http://www.6-friends.cn/archives/927">其实你不知道“3D立体电影”</a>你的疑问一一都会揭开。-来自<a href="http://www.6-friends.cn/">老友记中国站</a>"
+➜Chrome Dev版发布紧急更新
+https://www.solidot.org/story?sid=15004	12540
+<a href="http://www.6-friends.cn/">老友记中国站</a> 写道 "Google昨天才刚刚将Chrome Dev分支更新到4.0.249.22，今天又推送了4.0.249.25版更新，不过这次更新仅仅面向Windows用户，修复了Windows平台两个严重的崩溃问题。 <a href="http://dl.google.com/chrome/install/249.25/chrome_installer.exe">离线下载地址</a>"
+➜伊朗的镇压行动伸向全球
+https://www.solidot.org/story?sid=15006	14400
+《华尔街日报(WSJ)》报道，一位伊朗裔美国人最近收到了一封恐吓邮件，要他注意自己的言辞，不要在Facebook上批评伊朗政府，否则他在伊朗的亲人会有麻烦。对此他一笑了之，不以为然。然而，两天后他的母亲被传呼，父亲在德黑兰家中遭逮捕。他这才意识到邮件并非恶作剧。伊朗政府目前正面临自1979年政变以来最严重的危机，除了镇压国内的反对声音之外，<a href="http://online.wsj.com/article/SB125978649644673331.html">它的触手开始伸到了国境之外</a>。<i>
+根据伊朗革命卫队前成员透露的信息，最近几个月，伊朗政府一直在骚扰和恐吓散居世界各地——不仅仅限于知名的持不同政见者——任何批评政府的人，其中便包括追踪Facebook、Twitter和YouTube等社交网站上伊朗人的活动，找出反政府的积极分子。WSJ询问了90多位身在国外的普通伊朗人，在网上批评政府以及参与公开示威的人受到了要求保持缄默的威胁。</i>
+➜新网DNS遭受攻击
+https://www.solidot.org/story?sid=15007	18000
+<a href="mailto:casper2008@gmail.com">xcat</a> 写道<i> "今天上午突发部分网站不能访问的情况，均为<a href="http://www.xinnet.com/index.html">新网</a>用户，经过与新网客服人员（010-58022233 现在基本打不进去了）证实，今天早晨9点左右接到内部实时消息通知，新网的NS SERVER 遭受攻击，导致在部分地区新网解析生效，现在正在紧急处理，恢复时间另行通知。在此之前，<a href="http://tech.sina.com.cn/i/2006-09-22/07391153494.shtml"> 新网曾在2006年遭受“互联网恐怖袭击”</a>。"</i>
+➜中国公布《侵权法》草案，公开征求意见
+https://www.solidot.org/story?sid=15008	20040
+《<a href="http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2009-11/06/content_1525914.htm">中华人民共和国侵权责任法（草案）</a>》日前公布，向社会公开征集意见。
+<i>这个草案中的侵权是指对生命权、健康权、姓名权、名誉权、肖像权、隐私权、监护权、所有权、用益物权、担保物权、著作权、专利权、商标专用权、股权、继承权等人身、财产权益的侵犯。其中被称为互联网专条的第三十六条规定：“网络服务提供者知道网络用户利用其网络服务侵害他人民事权益，未采取必要措施的，与该网络用户承担连带责任。网络用户利用网络服务实施侵权行为的，被侵权人有权通知网络服务提供者采取删除、屏蔽、断开链接等必要措施。网络服务提供者接到通知后未及时采取必要措施的，对损害的扩大部分与该网络用户承担连带责任。”<br>
+<a href="http://gcontent.nddaily.com/8/01/801272ee79cfde7f/Blog/8cc/656242.html">《南方都市报》载文</a>认为，在“互联网专条”通过以后，刚有网友在论坛上发帖举报官员腐败，马上就会有人出来向网站提出异议:你侵害了我的隐私，或者，你的举报失实，损害了我的名誉，这时网站为避免承担连带责任的风险，兼之它也没有能力证实帖子的真假，其最好的做法就变成，顺从此人的意见，把帖子赶紧予以删除、屏蔽等。这样，还会有周老虎、周至尊……等一系列事件吗？笼统规定网络表达者、尤其是网络服务商的侵权责任，无疑会使刚刚兴起的网络监督夭折，危害公民的言论自由和舆论监督空间。</i>
+➜《侵权法草案》要求ISP自我审查
+https://www.solidot.org/story?sid=15009	22020
+全国人大常委会于11月16日公布了《<a href="http://www.npc.gov.cn/npc/xinwen/lfgz/flca/2009-11/06/content_1525914.htm">中华人民共和国侵权责任法（草案）</a>》，向社会征求意见，截至日期为12月5日（明天）。《侵权责任法》规定了诸如产品、环境污染、医疗等损害的责任，“关于责任主体的特殊规定”章节中的第36条提及了互联网，草案规定：“网络服务提供者知道网络用户利用其网络服务侵害他人民事权益，未采取必要措施的，与该网络用户承担连带责任。网络用户利用网络服务实施侵权行为的，被侵权人有权通知网络服务提供者采取删除、屏蔽、断开链接等必要措施。网络服务提供者接到通知后未及时采取必要措施的，对损害的扩大部分与该网络用户承担连带责任。”这一看似简单的条款暗藏着重重陷阱。《南方都市报》<a href="http://gcontent.nddaily.com/8/01/801272ee79cfde7f/Blog/8cc/656242.html">认为</a>，如果条款获得通过，将会深刻影响中国互联网上的内容传播。因为它加大了网络服务商的审查义务与法律风险，也触及了公众对公共信息的知情权、对国家机关和国家工作人员的监督权和公民的言论自由等宪法权利与自由。"
+➜结婚不忘Twitter和Facebook
+https://www.solidot.org/story?sid=15010	23040
+一对热爱社交网站的新郎新娘在婚礼宣誓期间，<a href="http://tw.news.yahoo.com/article/url/d/a/091204/19/1w8gh.html">拿出手机上Twitter</a>，并更新了Facebook状态。
+<i>
+来自马里兰州的新郎<a href="http://74.125.153.132/search?q=cache:Nt6driheVO0J:en.wikipedia.org/wiki/Dana_Hanna+Dana+Hanna&amp;cd=2&amp;hl=zh-CN&amp;ct=clnk&amp;client=firefox-a">Dana Hanna</a>（一位软件开发者）从西装中拿出手机，打断牧师证词，随后拿出第2个手机给新娘。<a href="http://twitter.com/TheSoftwareJedi">Hanna</a>发出的消息是“我正跟@TracyPage（后改名为<a href="http://twitter.com/TracyMarieHanna">@TracyMarieHanna</a>）站在圣坛，一秒前她刚成为我的妻子！该离线了，要去亲吻新娘了。”他也在Facebook上<a href="http://www.huffingtonpost.com/2009/12/02/groom-facebook-altar-man_n_376697.html">更新了自己的婚姻状态</a>。牧师也开玩笑的说，夫妻关系已得到了Facebook和圣经的正式承认。</i>
+<a href="http://www.youtube.com/watch?v=QWoiuXCE9Xo">视频</a>（Youtube）
+➜萨达姆曾计划袭击布拉格
+https://www.solidot.org/story?sid=15011	24480
+短波干扰 写道 "捷克情报机关上周日透露，前伊拉克独裁者萨达姆曾经指令特工武装<a href="http://ca.reuters.com/article/topNews/idCATRE5AS26720091129">袭击位于布拉格的自由欧洲电台</a>，因为伊拉克境内可以收听到该电台的阿拉伯语节目。
+<i>袭击命令于2000年下达。计划使用的武器有火箭推进榴弹、AK-47突击步枪和冲锋枪。这些武器被伊拉克外交人员带入捷克境内。捷克情报部门2003年觉察到袭击计划以及伊拉克政权向捷克境内运输武器的行为。伊拉克特工以一个伪造的公司的名义租赁了一间电台附近的办公室，计划从该办公室的窗口向电台建筑物发动攻击。"</i>
+➜两个Google Wave的iPhone客户端
+https://www.solidot.org/story?sid=15012	24660
+<a href="http://www.waveforum.cn/">Wave论坛</a> 写道 "Google Wave还没有正式发布，但是很多开发者或公司已经在做相关的开发了,据我所知现在已经有两个关于Google Wave的iPhone客户端。
+<i> <a href="http://www.getwaveboard.com/">Waveboard</a>是关于Google Wave的第一个iPhone客户端，目前它的官方已经把提交到Apple的App Store里，并可以购买使用了(已经有一段时间了)。它提供两个版本:Mac版和iPhone版。Mac版最新版为Mac Version 0.11。而iPhone版本已经到了Waveboard iPhone 2.0 了，但是由于Google方面的一个<a href="http://code.google.com/p/google-wave-resources/issues/detail?id=158">Bug</a>,导致他们推迟了提交，进而延长了Apple对于这个程序的审查期限，所以严格来说这个版本还不是有效的。
+<br>
+<a href="http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&amp;offeringid=16581&amp;marketplaceid=1">Waver</a>则是关于Google Wave的第二个iPhone客户端，是Adobe公司的作品，基于Adobe AIR技术制作，可以运行在Windows/Mac/Linux平台下，并且是免费软件。如<a href="http://www.adobe.com/cfusion/marketplace/index.cfm?event=marketplace.offering&amp;offeringid=16581&amp;marketplaceid=1">官方</a>所述，这个Google Wave客户端是适用于iPhone的，在普通机器运行上可能会出现问题，比如按钮或其他UI元素不正常显示之类。安装此Google Wave客户端需要Adobe AIR 1.5支持，想尝试的朋友不妨到以上网站下载一番。<a href="http://www.waveforum.cn/viewthread.php?tid=142">原文</a>"</i>
+➜英国法官下令维基百科公开用户身份
+https://www.solidot.org/story?sid=15013	25500
+一位英国女子收到了两封匿名恐吓信，指控她错报业务津贴。这位妇女相信威胁者是熟悉她的某个人，并相信此人可能编辑了维基百科她的条目下的内容，公开了关于她及其子女的敏感信息。她通过法庭要求维基百科<a href="http://yro.slashdot.org/story/09/12/03/2354215/UK-Judge-Orders-Wikipedia-To-Reveal-Users-Identity">公布这位编辑者的IP地址</a>。英国法官已经同意了她的请求。这是此类案件中的首例，维基媒体基金会已经移除了这位未透露姓名的女性的相关条目。
+➜恶意程序能从iPhone中获取个人数据
+https://www.solidot.org/story?sid=15014	27360
+瑞士iPhone开发者Nicolas Seriot在日内瓦举行的一个关于iPhone隐私的讨论会上，<a href="http://seriot.ch/resources/talks_papers/iPhonePrivacy.pdf">演示</a>了一个恶意的应用程序如何从非破解版的iPhone手机上<a href="http://it.slashdot.org/story/09/12/04/0413235/Malware-Could-Grab-Data-From-Stock-iPhones">访问到用户的个人信息</a>，包括电子邮件帐户、键盘缓存内容、WiFi连接日志等等。他甚至在github上建立一个项目<a href="http://github.com/nst/spyphone/">SpyPhone</a>。
+➜不同的迁徙路线让鸟儿从此天涯陌路
+https://www.solidot.org/story?sid=15015	31320
+每年冬天，不列颠的爱鸟者为了让长途迁徙越冬的鸟儿歇歇脚，补充体力，他们会在迁徙路线上撒上草子和燕麦种子。研究人员发现，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1203/2">这种做法可能人为的将同一种鸟一分为二</a>。<i>
+欧洲黑顶林莺(European blackcaps)生活在德国南部和奥地利，每到冬天，它们会一同沿着西南方向飞到西班牙，沐浴在地中海的气候环境中，以果实如橄榄为食。但1960年代，观测者注意到一些黑顶林莺飞往联合王国过冬，它们离开同伴，沿着西北方向迁徙到英国，以善良的英国人留下的种子为食。大约30代之后，10%的黑顶林莺冬季不再飞到西班牙，而是迁徙到英国。2005年《科学》杂志上的一篇<a href="http://www.sciencemag.org/cgi/content/summary/sci;310/5747/419a">报告</a>称，不同的目的地导致了黑顶林莺交配对象出现差异。因为英国比西班牙到欧洲中部更近，沿着西北方向迁徙的黑顶林莺早10天回到家乡，它们只会与同伴交配繁殖。<br>
+德国进化生物学家H. Martin Schaefer和同事想知道繁殖的差异是否会产生进化上的不同。他们捕捉了春天飞回德国的黑顶林莺，比较它们的基因序列差异，如果用0（完全相同）到1（完全不同）打分的话，不同路线的鸟儿之间的差异是0.008。他们还比较了鸟儿的身体特征，西北迁徙的鸟儿翅膀更圆滑，嘴更窄；西南方向迁徙的鸟儿翅膀更尖，嘴更宽，尖翅膀可以让它们以更快的速度飞过更远的距离，而宽嘴可更好的吞食水果。<a href="http://www.cell.com/current-biology/abstract/S0960-9822(09)01925-3">报告</a>发表在《当代生物学》杂志上。</i>
+➜研究称网瘾少年更易自虐
+https://www.solidot.org/story?sid=15016	33000
+澳大利亚与中国的<a href="http://www.smh.com.au/technology/technology-news/internet-addiction-linked-to-selfharming-among-teens-20091203-k7a5.html">一项联合调查</a>发现，<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-1263020091204">有网瘾的青少年更可能出现自虐行为</a>。
+<i>
+悉尼大学和圣母大学的研究人员对中国广东省1,618名年龄在13-18岁的青少年进行了调查，调查内容包括受访者是否有打自己、扯自己头发、掐或烧自己等行为，并通过测验来评估他们的网瘾程度。测验发现约有10%的受访学生有适度网瘾，而不足1%的人严重成瘾。圣母大学的Lawrence Lam博士表示，有适度网瘾的学生过去六个月中存在一到五次自虐行为的机率是无网瘾学生的2.4倍。报告称，适度有瘾与严重成瘾之间的学生过去六个月中发生六次及以上自虐行为的机率是无网瘾学生的近五倍。"</i>
+➜中国不是唯一实行网络审查的国家
+https://www.solidot.org/story?sid=15017	34560
+《中国日报》报道，上个月美国总统奥巴马在访问中国期间，呼吁中国放弃所谓的“互联网审查”，允许自由表达。然而<a href="http://www.chinadaily.com.cn/opinion/2009-12/03/content_9111690.htm#">互联网审查远非黑与白的问题</a>，即使在美国，是否审查互联网也面临激烈争论。<i>
+《中国日报》称，自1996年以来，纽约州、新墨西哥州、密歇根州和弗吉尼亚州通过了法律审查/禁止“对未成年人有害”的材料，虽然这些法律因违宪最后被最高法院推翻，但这说明美国人在此问题也有很大的分歧。事实上，还有一些国家也试图过滤有害的内容，其中包括了韩国和德国。韩国总统李明博表示要阻止虚假信息如传染病一样传播，从而引发社会动荡。《中国日报》表示，政府有责任去更好地管理互联网，让有害的信息远离公众视野。总之，互联网应作为公共产品提供服务，而不是成为非法活动的工具。</i>
+➜90年代你最爱的科幻电影有哪些
+https://www.solidot.org/story?sid=15018	37680
+《连线》网站上在一系列文章中回归了过去几十年里让人回味无穷的经典科幻电影，有些是如雷贯耳，有些却鲜为人知（至少是中国），有兴趣的人可设法在周末观摩一下。最新一篇是<a href="http://www.wired.com/underwire/2009/12/fave-90s-sci-fi-flicks/all/1">90年代的科幻电影</a>，包括：<i>施瓦辛格的《<a href="http://www.imdb.com/title/tt0100802/">全面回忆</a>》（Total Recall，1990）；《<a href="http://www.imdb.com/title/tt0107290/">侏罗纪公园</a>》（1993）；《<a href="http://www.imdb.com/title/tt0111282/">星际之门</a>》（1994）；《<a href="http://www.imdb.com/title/tt0113568/">攻壳机动队</a>》（Ghost in the Shell，1995）；《<a href="http://www.imdb.com/title/tt0117731/">星际迷航：第一次接触</a>》（1996）；《<a href="http://www.imdb.com/title/tt0119116/">第五元素</a>》（1997）；《<a href="http://www.imdb.com/title/tt0119654/">黑衣人</a>》（1997）；《<a href="http://www.imdb.com/title/tt0118884/">接触</a>》（1997）；《<a href="http://www.imdb.com/title/tt0119081/">黑洞表面</a>》（Event Horizon，1997）；《<a href="http://www.imdb.com/title/tt0118929/">移魂都市</a>》（Dark City，1998）；《<a href="http://www.imdb.com/title/tt0120907/">感官游戏</a>》（eXistenZ，1999）；《<a href="http://www.imdb.com/title/tt0177789/">惊爆银河系</a>》（Galaxy Quest，1999）。</i>           <a href="http://www.wired.com/underwire/2009/11/overlooked-80s-sci-fi-flicks-recalled-by-wired-readers/all/1">80年代最佳科幻片包括</a>：The Lathe of Heaven；Looker；《电子争霸战》（Tron，1982）；《怪形》（The Thing，1982)；《星球大战：绝地武士归来》；《终结者1》；The Ice Pirates ；The Brother From Another Planet；《星空战士》（The Last Starfighter）；《沙丘》（Dune）；《巴西》(Brazil)；Trancers；Enemy Mine；《回到未来》；《异形》；《飞碟领航员》（Flight of the Navigator）；《天空之城》（Castle in the Sky）；《阿基拉》（Akira）；Miracle Mile；《比尔和泰德历险记》；《深渊》（The Abyss）。<br> <br>
+<a href="http://www.wired.com/underwire/2009/11/gallery-reader-sci-fi-2/all/1">60、70年代的最佳科幻片</a>：《发条橙》（Clockwork Orange）；Dark Star；Flesh Gordon等。<br> <br>
+<a href="http://www.wired.com/underwire/2009/11/reader-sci-fi-flicks/all/1">50年代的最佳科幻片</a>：如《地球停转之日》；《惑星历险》（Forbidden Planet）等。<br> <br>
+此外还有《星球大战》<a href="http://www.wired.com/underwire/2009/08/sci-fi-flicks/all/1">之前的经典科幻片</a>（Logan’s Run；A Boy and His Dog；Zardoz；Soylent Green；Silent Running；Planet of the Apes；2001: A Space Odyssey ；Fahrenheit 451等），<a href="http://www.wired.com/underwire/2009/09/scifi-flicks-2/all/1">之后的科幻片</a>。
+➜科学家发现丙型肝炎的基因疗法
+https://www.solidot.org/story?sid=15019	42480
+目前全世界有1.7亿<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%99%E5%9E%8B%E8%82%9D%E7%82%8E">丙型肝炎</a>病毒（Hepatitis C virus，简写HCV）携带者或患病者，因此寻找新的治疗药物刻不容缓。HCV的传播途径为肠胃道外传播，最主要传播途径是受污染的血液。病毒会缓慢损害肝脏，导致肝功能衰竭，有时甚至是肝癌。丙型肝炎的标准治疗方法是用两种抗病毒药物组合，聚乙二醇干扰素α和利巴韦林，疗程需要24周至48周，只能完全消除50%到80%患者的病毒。现在，研究人员提出了一种全新的方法去遏制HCV：<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1203/1">追逐宿主，而非杀死病毒</a>。研究人员通过基因沉默（Genetically silencing）黑猩猩体内的一个RNA片段miR-122（它与病毒的关系目前尚不十分清楚，HCV可能需要它去加快复制），使其失去活性，从而有效的抑制了HCV。但专家谨慎的表示需要仔细检查此种方法的副作用。
+➜百度百科加入广告
+https://www.solidot.org/story?sid=15020	57900
+stranger 写道<i> "百度百科加入了“<a href="http://baike.baidu.com/view/2394.htm?fr=ala0">推广链接</a>（<a href="http://hi.baidu.com/ljq513/album/item/bb116acf41495b12f8dc618e.html">截图</a>）”。当用户发现拷贝来的内容被拿来赚钱或怎么想呢？我想大多数还是会理解百度并继续贡献内容。"</i>百度在<a href="http://baike.baidu.com/view/2394.htm?fr=ala0">权利说明</a>中称“用户在百度百科上发布的内容引用自CC协议”，并自称“在用于商业、盈利、广告性目的时需征得作者同意”，目前并不清楚百度在发布广告时候有无通知作者。           stranger建议：在维基百科翻译英文到中文则是伟大的行为，可以让不懂英文的中文互联网用户扩充知识。是<a href="http://www.yeeyan.com/">救国之道</a>。

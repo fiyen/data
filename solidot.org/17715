@@ -1,0 +1,46 @@
+➜SiFive 决定公开发布 HiFive Unleashed 固件源代码
+https://www.solidot.org/story?sid=57053	6918
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道 <i>"SiFive公司的<a href="https://www.sifive.com/products/hifive-unleashed/" target="_blank">HiFive Unleashed</a>是世界上第一款能运行GNU/Linux的搭载RISC-V处理器的硬件，2018年4月发货时绝大部分的代码都是开源的，但负责内存初始化的FSBL(&nbsp;First stage bootloader)是一个例外，当时SiFive只提供了二进制文件，这为自由固件项目coreboot对HiFive Unleashed的<a href="https://mail.coreboot.org/pipermail/coreboot/2018-June/086967.html" target="_blank">支持造</a>成了一些影响，在coreboot移植工作维护者Jonathan Neuschäfer询问SiFive后得知内存作为其他厂商的IP可能无法公开其固件的源代码后，HardenedLinux社区发起了<a href="https://github.com/hardenedlinux/firmware-anatomy/tree/master/bin_blobs/hifive_unleashed" target="_blank">Call the reverse-engineering the "evil" blobs的活动</a>，并且在RISC-V Shanghai Day的演讲"<a href="https://github.com/hardenedlinux/hardenedlinux_profiles/raw/master/slide/Firmware_Freedom-coreboot_for_RISC-V.pdf" target="_blank">固件自由之路：coreboot for RISC-V</a>"上号召社区一起来参与逆向二进制固件，幸运的是SiFive已经决定不久的将来会<a href="https://forums.sifive.com/t/ddr-controller-configuration-register-values-for-hifive-unleashed/1334/8" target="_blank">开放所有HiFive Unleashed的源代码</a>，这一点自由固件社区都应该给SiFive手工点赞。"</i>
+➜NASA 卫星数据揭示中国污染排放变化
+https://www.solidot.org/story?sid=57054	10888
+NASA 的卫星数据<a href="http://www.ftchinese.com/story/001078287" target="_blank"><u>提供了</u></a>自 2005 年 1 月至 2018 年 5 月期间中国上空的二氧化氮浓度。数据显示从 2013 年夏季到 2016 年夏季，整个华北平原的污染都有所缓解。部分原因可能是由于污染控制得到改善。但这也反映了那段时期经济增长急剧下滑。从 2016-17 年那个冬季开始，随着经济复苏，污染水平也开始再度攀升。
+最糟糕时期是 2012-13 年那个冬季。那时是北京方面财政刺激努力的高峰，目的是在 2008 年全球金融危机后提振国内经济。山西省，以及河北省沿华北平原西侧的燃煤电厂的二氧化氮排放量激增，令整个华中和华东地区被笼罩在大量污染气体中。严重污染天气被称为 “末日之雾”。2013 年至 2016 年工业活动低迷的同时，中国也实施了更严格的排放法规。二氧化氮浓度从 2013 年高峰到过去 12 个月（2017 年 5 月至 2018 年 5 月）有所下降，而过去 12 个月与之前一年相比有所上升。
+➜SUSE Linux 以 25 亿美元出售给 EQT Partners
+https://www.solidot.org/story?sid=57055	12655
+企业级 Linux 发行版 SUSE 的母公司 Micro Focus 同意以 25.35 亿美元的价格将其出售给瑞典私募股权投资机构殷拓集团（EQT Partners）。这笔交易预计将会在 2019 年初完成。SUSE Linux 被世界各地的银行、大学和政府机构使用，公司 CEO Nils Brauckmann 对交易<a href="https://www.suse.com/c/news/suse-partners-with-growth-investor-eqt-to-continue-momentum-strategy-execution-and-product-expansion/" target="_blank"><u>表示兴奋</u></a>，称 SUSE 将再次成为一个完全独立的公司。官方博客<a href="https://www.suse.com/c/further-independence-for-suse/" target="_blank"><u>发表声明</u></a>称，SUSE Linux 将会继续采用开源开发和开源商业模式，将会继续积极参与社区和社区项目，现有合作和商业交易将会保持不变。
+➜三星手机默认短消息应用将用户照片发送给随机联络人
+https://www.solidot.org/story?sid=57056	13751
+三星手机用户<a href="https://gizmodo.com/a-bug-in-samsungs-default-texting-app-is-sending-random-1827291759" target="_blank"><u>报告</u></a>，默认短消息应用  Samsung Messages 在用户不知情下将手机上的照片发送给随机联络人。其中一个案例声称，Samsung Messages 在午夜将手机相册里的全部照片发送给一个联络人，幸运的是这个联络人是其伴侣。但如果接收方是非亲密的联络人，那么你的私密生活可能就一览无遗了，如果你经常用手机拍照的话。三星发表声明称它已知情，正对此展开调查。问题被认为可能与 Samsung Messages 和运营商推送的 RCS (Rich Communication Services)更新有关。目前有两种方法暂时解决这个问题：撤销 Samsung Messages 的存储访问权限，或改用其它短消息应用。
+➜乌鸦学会用自动售货机
+https://www.solidot.org/story?sid=57057	16399
+根据发表在《Nature Scientific Reports》期刊上的<a href="https://www.nature.com/articles/s41598-018-27405-1" target="_blank"><u>一项研究</u></a>，剑桥大学的科学家设计了自动售货机<a href="http://www.bbc.com/zhongwen/simp/science-44686294" target="_blank"><u>来测试乌鸦的智力</u></a>。这个试验的想法是创造一个任何乌鸦在自然环境中不会遇到的任务，然后看乌鸦如何完成这个任务。研究人员把石头或纸片放在箱子的顶部，乌鸦将石头或纸张推入边上的洞里，或者说是投币口，这样自动售货机就会放出一个奖励。为了增加测试的复杂度，研究人员给 8 只乌鸦中的每一只都提供了一台自动售货机。只有在投入特定尺寸的纸币时机器才会吐出一种食物。结果显示所有乌鸦都能投入正确的纸币。乌鸦的能力继续让研究人员感到惊讶，不仅是它们在工具制作和解决问题方面的创造性，也因为它们揭示出乌鸦的智能与人类智能的演进可能有巨大不同。
+➜天文学家首次拍摄到正在形成中的行星照片
+https://www.solidot.org/story?sid=57058	17578
+天文学家首次<a href="https://www.bbc.com/news/science-environment-44661979" target="_blank"><u>拍摄到</u></a>了一颗行星正在围绕恒星的尘埃和气体圆盘中形成的照片。年轻的矮星 PDS 70 年龄不到一千万年，其类行星伴星 PDS 70b 年龄大约在 500 到 600 万年之间。这颗形成中的行星大小是木星的数倍，可能有云状大气层。这颗行星的轨道距离与母星较远，类似太阳系中的天王星与太阳，它环绕矮星一周需要 118 年，其表面温度超过一千度，比太阳系中的任何行星的温度都高。对 PDS 70b 的观察有助于更好的理解行星的形成过程。
+➜被困在洞穴内 10 天的 12 名泰国男孩被发现还活着
+https://www.solidot.org/story?sid=57059	24653
+12 个男孩和他们的足球教练被困在泰国北部一个被水淹没的大型洞穴中长达 10 天，经过震惊整个泰国的大规模搜救努力，<a href="https://cn.nytimes.com/asia-pacific/20180703/thailand-boys-rescued/" target="_blank"><u>他们终于被找到了</u></a>。两名英国潜水员拍摄的简短视频发布在泰国海豹突击队的 <a href="https://www.facebook.com/ThaiSEAL/videos/1631228493667210/" target="_blank"><u>Facebook 页面</u></a>上，视频中男孩们和教练状态之好令人吃惊。有些男孩坐着，有些人站在那里，和救援人员交谈。自 6 月 23 日男孩们和教练在这座大型洞穴中失踪并被上涨的洪水困住以来，泰国海豹突击队一直是搜救行动的焦点。接下来的挑战是如何把这群人从被洪水淹没的洞穴中救出去，他们已经处于虚弱状态，并且没有受过水肺潜水的训练。男孩们的年龄从 11 岁到 16 岁不等，他们的教练 25 岁。
+➜软件开发者能扫描或浏览用户电邮
+https://www.solidot.org/story?sid=57060	26722
+新闻集团旗下的华尔街日报再次将矛头对准了搜索巨人，它发表<a href="https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442" target="_blank"><u>文章</u></a>（付费墙，<a href="http://archive.is/CZFiG" target="_blank"><u>存档</u></a>）称 Google 允许数以百计的外部软件开发者扫描大量 Gmail 用户收件箱，这些用户注册了基于电邮的各类服务，包括提供购物价格比较、自动旅行日程安排或其他工具。这些软件开发者对计算机进行训练，学习如何阅读用户的电子邮件，有时候开发者还会直接阅读邮件，而 Google 几乎没有采取行动加以监督。其中一家软件开发公司是 Return Path，该公司扫描 200 多万人的收件箱为营销人员收集数据，这些用户均使用 Gmail、微软和雅虎的电邮账号注册其服务。计算机通常一天能扫描一亿封邮件，而两年前该公司的雇员阅读了 8000 封未编辑邮件来帮助训练公司的软件。另一家 Gmail 开发商 Edison Software 的雇员也阅读了数百用户的电邮去构建新功能。阅读用户邮件是基于 OAuth 的<a href="https://news.ycombinator.com/item?id=17443056" target="_blank"><u>授权</u></a>，用户在使用电邮注册时候会看到明确的 OAuth 访问授权，但很多人可能没有留意其真正意义。
+➜戴尔三星召回部分笔记本电脑电池
+https://www.solidot.org/story?sid=57061	27908
+戴尔和三星因可能存在短路或过热起火风险宣布在中国召回数万个笔记本电脑电池。根据刊登在国家市场监督管理总局缺陷产品管理中心网站上的公告，戴尔<a href="http://www.dpac.gov.cn/xfpzh/xfpgnzh/201807/t20180702_77559.html" target="_blank"><u>宣布</u></a>将自 2018 年 7 月 31 日起，召回部分 2012 年 11 月到 2014 年 4 月期间制造的戴尔笔记本电脑电池（涉及到的笔记本型号见附件）。本次共召回 Dell 911MD 和 Dell 4YRJH 两种型号电池，中国大陆地区受影响的电池数量为 28268 个。三星<a href="http://www.dpac.gov.cn/xfpzh/xfpgnzh/201807/t20180702_77560.html" target="_blank"><u>宣布</u></a>将自 2018 年 7 月 5 日起，召回部分 2012 年 12 月至 2013 年 7 月期间制造的三星笔记本电脑配备的松下电池，中国大陆地区受影响的电池数量为 9066 个。具体笔记本电脑型号可参考公告。
+➜Netflix 将关闭用户评论功能
+https://www.solidot.org/story?sid=57062	29929
+Netflix 去年用赞和踩的投票系统取代了一到五星的用户评分系统。现在，该公司<a href="https://twitter.com/Satorical/status/1013835650838102016" target="_blank"><u>宣布了</u></a>另一个让用户评分和评价变得无关紧要的举措：关闭用户评论。Netflix 通知用户，将于 7 月 30 日关闭用户评论，旧的评论将被存档。Netflix 给出的理由是评论活跃度下降。但其他人对此有不同的观点：Netflix 现在也是内容的制作方了，它的原创内容有相当出色的也有非常烂的，与此同时它还在失去更多的第三方内容。在这种情况下一个平衡的评分和评论系统对它的帮助越来越小了。
+➜Tim Berners-Lee 的拯救互联网计划：重新去中心化
+https://www.solidot.org/story?sid=57063	34918
+万维网之父 Tim Berners-Lee 爵士从未从其发明上获利，他对从假新闻到大规模监视的状况非常不满。他想要拯救互联网，他的想法非常简单：<a href="https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets" target="_blank"><u>重新去中心化</u></a>。他与一小群开发者正在开发名为 Solid 的新平台，设计给予个人而不是企业去控制他们自己的数据。Berners-Lee 称他们正构建一个全新的生态系统。 Solid 技术尚未为大众使用做好准备。但其愿景如果能成功运作的话，将能极大的改变 Web 现有的权力动力。该系统设计让用户能控制访问他们在 Web 上产生的数据和内容，用户能选择数据如何被使用，而不是让 Facebook 和 Google 想怎么做就怎么做。Solid 的代码和技术开放给所有人。Berners-Lee 不是这场革命的领导者，根据定义，去中心化 Web 不应该有领袖，但他是一个强有力的武器。他认识到去中心比最早发明万维网还要困难。他说，万维网发明之初，那里根本没有人，因此没有利益攸关方会抵制。但现在有数以亿计的美元在那里。
+➜菲亚特克莱斯勒因软件缺陷被起诉
+https://www.solidot.org/story?sid=57064	42810
+加州的一名法官允许针对菲亚特克莱斯勒的集体诉讼<a href="https://spectrum.ieee.org/riskfactor/computing/software/court-allows-lawsuit-to-proceed-against-fiat-chrysler-over-software-flaw" target="_blank"><u>继续进行</u></a>。这起因软件缺陷提起的起诉针对的是菲亚特的 Pacifica&nbsp; 面包车。原告指责菲亚特在多起用户投诉失速问题之后隐瞒 Pacifica 汽车传动系统控制模组（PCM）缺陷的信息，以让客户继续购买该型号汽车。菲亚特试图驳回诉讼，称投诉并不意味着证明汽车存在缺陷，或表明公司知道缺陷并进行隐瞒。法官同意菲亚特的理由，裁决原告不能单独将消费者的投诉作为缺陷的证据，但法官同时指出在原告购买汽车前菲亚特公布了两个与 Pacifica PCM 软件相关的技术服务公告，之后又发布了两个。法官认为有足够的证据相信菲亚特可能已经知道 Pacifica 汽车的失速问题。
+➜知名浏览器扩展 Stylish 窃取用户浏览历史
+https://www.solidot.org/story?sid=57065	43559
+用户样式管理器 Stylish 曾是一个非常受欢迎的浏览器扩展，允许用户为网站创建自定义样式，安装主题和皮肤，它支持多种浏览器，有数百万用户，其中仅 Chrome 浏览器就有超过 <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/reviews" target="_blank"><u>186 万</u></a>用户。Stylish 已经多次被转手，扩展原作者在 2016 年 8 月将其出售，而最新拥有者是 SimilarWeb。SimilarWeb 声称它只收集 Stylish 的匿名用户数据。软件工程师 Robert Heaton 对其进行分析后指出，<a href="https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/" target="_blank"><u>Stylish 窃取了用户所有的浏览历史</u></a>。
+➜科学家首次跟踪到狼离开切尔诺贝利隔离区
+https://www.solidot.org/story?sid=57066	45202
+切尔诺贝利核事故留下了一块巨大的有毒区域，30 年来我们已经观察到了该区域自然恢复的迹象。最新的证据是一只年轻的野狼<a href="https://www.sciencealert.com/first-grey-wolf-leaves-chernobyl-exclusion-zone" target="_blank"><u>走出了切尔诺贝利隔离区</u></a>。隔离区面积大约 4300 平方公里，今天仍然被认为高度污染而不能居住，在没有人类活动的干扰下部分野生动物看起来到能茁壮成长，并且开始突破隔离区的界限。一只雄性野灰狼被发现走到了离家大约 369 公里的地方。这项发现可能是野生动物数量未来会进一步扩大的迹象，其携带的变异基因也可能会扩散开来。<a href="https://link.springer.com/article/10.1007/s10344-018-1201-2" target="_blank"><u>研究报告</u></a>发表在《European Journal of Wildlife Research》期刊上。
+➜数字货币热降温显卡价格接近正常
+https://www.solidot.org/story?sid=57067	47391
+过去几个月，从比特币到以太坊的主流数字货币的币值都出现大幅下跌。币值的下跌导致了普通矿工的利润率下滑，用显卡挖矿的吸引力也越来越小，因此去年一度有价无市的显卡市场也降温了，一度被矿工支配的显卡市场开始恢复正常，<a href="https://tech.slashdot.org/story/18/07/03/0758213/as-cryptocurrency-values-plummet-graphics-card-pricing-improves-dramatically" target="_blank"><u>价格也趋于正常</u></a>。EVGA、华硕、微星、技嘉等显卡品牌的定价基本恢复到厂商建议零售价水平。有报道称，NVIDIA 即将推出新游戏显卡，因此现有显卡的价格还会进一步下降。对于游戏玩家和 PC  用户而言这是一个好消息。不过目前价格下降的主要是 NVIDIA 的显卡，AMD 的显卡价格仍然高于厂商建议零售价。

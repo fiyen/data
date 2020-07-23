@@ -1,0 +1,77 @@
+➜IE9被发现可能在SunSpider测试中作弊
+https://www.solidot.org/story?sid=21066	4200
+Mozilla工程师发现<a href="http://tech.slashdot.org/story/10/11/17/1324218/Internet-Explorer-9-Caught-Cheating-In-SunSpider">IE9在SunSpider基准测试中作弊</a>。SunSpider虽由苹果开发，但现已成为十分流行的浏览器JavaScript引擎测试工具。
+<i>
+Rob Sayre在对Firefox 4和其它浏览器进行基准测试时，注意到IE9在SunSpider的math-cordic测试速度是其它浏览器的十倍。在测试中，Chrome和Opera的得分在10ms左右，但IE9只需1ms。Sayre改动了测试代码中的两个影响不大的变量，结果IE9完成测试所需时间是原来的20倍（20ms），而Opera和Chrome在新测试中速度保持不变。Hacker News的<a href="http://news.ycombinator.com/item?id=1913102">评论</a>认为它可能是SunSpider中的一个bug。</i>
+➜LHC创造并捕捉到反物质
+https://www.solidot.org/story?sid=21067	6720
+欧洲粒子物理研究所（CERN）<a href="http://press.web.cern.ch/press/PressReleases/Releases2010/PR22.10E.html">宣布</a>，大强子对撞机（LHC）创造并捕捉到反氢原子，这一突破将有助于破解宇宙的神秘难题：即物质和反物质之间的差异。<i>
+LHC的<a href="http://cdsweb.cern.ch/record/1307522">ALPHA实验</a>用六分之一秒在磁场中一共捕捉到38个反氢原子，利用这一瞬间研究了反氢原子的结构。由于物质与反物质接触时会相互毁灭，因此研究反物质非常困难。参与研究的一位科学家说，能够捕捉到反物质的稳定原子<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/11/101117_brie_antimatter.shtml">让人欣奋不已</a>。</i>
+➜世界最小的可读字体
+https://www.solidot.org/story?sid=21068	8280
+《MAKE》杂志<a href="http://blog.makezine.com/archive/2010/11/designing_the_smallest_legible_scre.html">报道</a>，纽约大学计算机科学教授Ken Perlin设计了<a href="http://mrl.nyu.edu/~perlin/homepage2006/tinyfont/index.html">世界上最小的可读字体</a>，能在320 x 240像素矩阵（如苹果iPod的QVGA显示屏）内填满500个字。他发现微软的最小屏幕字体是不可读的。利用自己设计的字体，他成功的在分辨率为320 x 240的显示屏中放上了《美国独立宣言》的一页内容。
+➜Live Spaces中国用户可迁移到新浪博客
+https://www.solidot.org/story?sid=21069	9120
+Windows Live中国团队<a href="http://help.cn.msn.com/spaces.html">发布公告</a>，宣布与新浪达成战略合作，用户可以把Spaces博文无缝迁移至新浪博客。<i>
+Windows Live Spaces正式关闭的时间是2011年3月份。用户可以<a href="__SLASHLINK__" sect="internet" sid="10/09/28/0110245" sn="article" tid="32">选择迁移至WordPress.com</a>或新浪博客，但目前WordPress.com的二级域名<a href="__SLASHLINK__" sect="ask" sid="10/11/09/0250221" sn="article" tid="120">已经遭到屏蔽</a>，而新浪博客对用户的内容实行着<a href="http://en.wikipedia.org/wiki/Sina.com#Local_content">严格审查</a>，著名博客<a href="http://blog.sina.com.cn/twocold">韩寒</a>的文章就屡遭删除。</i>
+➜女友是机器人
+https://www.solidot.org/story?sid=21070	11700
+英国《太阳报》<a href="http://www.thesun.co.uk/sol/homepage/features/3231673/My-girlfriend-is-a-robot.html">报道</a>（台湾苹果日报<a href="http://tw.nextmedia.com/applenews/article/art_id/32970077/IssueID/20101118">视频报道</a>），功能完整的性爱机器人即将上市。<i>
+美国建筑工人Scott Maclean从2004年起开始研制性爱机器人，目前推出男女两款，分别取名为“Harry Harddrive”和“Suzie Software”。Maclean称，来自欧洲、俄罗斯和韩国等地顾客询问要定制外表似Angelina Jolie、Pamela Anderson和Michael Jackson的机器人，但需要先得到肖像权许可。他的机器人尚未正式上市，而且无法说话。另一款性爱机器人Roxxxy由Douglas Hines发明，它能说话，而且能模拟高潮。</i>
+➜IE 9第七版平台预览版发布
+https://www.solidot.org/story?sid=21071	16680
+<a href="http://livesino.net/">Picturepan2</a> 写道 <i>"IE 9 团队<a href="http://livesino.net/archives/3063.live">发布</a>了 IE 9 <a href="http://ie.microsoft.com/testdrive/">第七版平台预览版</a>（Platform Preview 7，简称 PP7），IE 9 PP7 主要是针对互联网真实站点的性能改进，并且 IE 9 PP7 版的 JavaScript 引擎也比一年前 PDC 09 上演示的 IE 9 版本的快 345%。最主要的改进是新JavaScript引擎，代号Chakra，微软声称PP7的JavaScript性能超过了Chrome 8 beta、Opera 11 alpha和Firefox 4 beta 7。</i>
+➜美中经济安全委员会发布年度报告
+https://www.solidot.org/story?sid=21072	18600
+美中经济安全审议委员会11月17号<a href="http://www.uscc.gov/annual_report/2010/10_annual_report.php">发布</a>了<a href="http://www.uscc.gov/annual_report/2010/annual_report_full_10.pdf">2010年度报告</a>（PDF）。<i>
+报告共316页，涉及到美中经济和贸易、国家安全、外交、新能源技术、互联网以及新闻检查。<a href="http://www.voanews.com/chinese/news/20101117-US-China-Economic-and-Security-Review-Commission-report-108779334.html">报告指出</a>中国在许多方面没有履行九年前加入世贸组织时做出的承诺，采取了高度歧视性政策；美国认为中国在操纵人民币汇率。在国家安全方面，报告称今年4月美国的互联网流量被中国电信劫持了18分钟，美国参议院、国防部长办公室、NASA和商务部网站及电邮系统都受到影响，委员会成员Larry Wortzel认为这不可能是上海的某个研究生干的。在《<a href="http://www.uscc.gov/annual_report/2010/Chapter5_Section_1(page221).pdf">中国与互联网</a>》一章（PDF），报告特别以百度公司为例，称中国最大的搜索引擎作为内容仲裁者在互联网审查方面担负重要的角色，已经成为政府控制互联网密不可分的一部分。</i>
+➜香港神父称房地产商是魔鬼
+https://www.solidot.org/story?sid=21073	21600
+天主教神父罗国辉在万圣节聚会后称，魔鬼都不能和贪婪的地产开发商相提并论，并说李嘉诚是“杀人不眨眼的真正恶魔”。此番言论令香港首富感到不快，随后天主教香港教区在其教会刊物上发表了一份声明，以“感到遗憾”委婉道歉，罗国辉则为教区表示遗憾而感到痛苦，他在Facebook上留言：“这一刻，我必须做一座沉默的驱魔十字架。”Facebook网友发起了支持活动，表示要为<a href="http://www.facebook.com/pages/qu-mo-ren-luo-guo-hui-shen-fu-da-qi-qu/118322491563542?v=wall">驱魔人罗国辉打气</a>。<a href="http://cn.wsj.com/gb/20101118/rcu111024.asp">罗国辉称</a>：教会是上帝真言的喉舌，不应向权贵或名人屈服，亦不应为接受持续捐赠之物而“违背”自己的信仰和原则。
+➜华纳兄弟发誓起诉《哈利波特7》泄密者
+https://www.solidot.org/story?sid=21074	22800
+16日，标题为“<a href="http://thepiratebay.org/torrent/5959534/Harry_Potter_and_the_Deathly_Hallows_Part_1_DVDSCR_XViD-iNK_Tam.">Harry Potter and the Deathly Hallows Part 1</a>”的文件出现在BT网站如海盗湾和isoHunt上，发布者声称其质量上佳，虽然有水印，而且长度仅仅只有36分钟。<i>
+《哈利波特7（上）》将在本周五上市，电影发行商华纳兄弟表示<a href="http://cn.wsj.com/gb/20101118/flm140342.asp">正在进行调查</a>，发誓<a href="http://arstechnica.com/tech-policy/news/2010/11/warner-bros-vows-to-prosecute-deathly-hallows-leaker.ars">要起诉泄密者</a>。华纳兄弟发言人说，影片提早外泄并非为宣传造势，称外泄片段构成了严重的侵犯版权和盗窃华纳兄弟财产的行为，表示将在法律允许的最大范围内对涉案人员进行起诉。</i>
+➜Facebook和Myspace可能宣布合作
+https://www.solidot.org/story?sid=21075	27060
+<a href="http://apphu.com/">apphu.com</a> 写道<i> "Mashable刚刚收到<a href="http://mashable.com/2010/11/18/facebook-myspace/">一封活动邀请邮件</a>，上面注明了活动时间是太平洋时间星期四中午，而活动的邀请方为Facebook和Myspace。邀请涵上面写着出席活动的嘉宾将会是Myspace的首席执行官Mike Jones和Facebook平台营销业务副总裁Dan Rose。这个感觉，应该像我们收到了QQ和360的共同邀请一样。Mashable猜测，Myspace可能宣布使用Facebook平台或Facebook Connect。</i>
+➜日本科学家用大肠杆菌解决数独问题
+https://www.solidot.org/story?sid=21076	27600
+日本东京大学的科学家利用大肠杆菌<a href="http://science.slashdot.org/story/10/11/17/2229223/Problem-Solving-Bacteria-Crack-Sudoku">解决了简单的4x4数独问题</a>。<i>
+数独是一种数字解密游戏，需要在9x9的网格内填上1～9数字，并确保每一行、每一列，以及每一方块（3x3）没有重复数字。<a href="http://2010.igem.org/Team:UT-Tokyo/Sudoku_abstract">研究人员使用的大肠杆菌</a>，每个细菌有两种状态，他们指定其为“differentiated”或“undifferentiated”，1到4四个数字用4种不同的重组酶代表，细菌之间是通过转移RNA编码的重组酶进行通信。一开始，4x4网格中给出4个值，然后细菌通过交互通知彼此之间的值，最终解决问题，在16个格子中填上正确的数。</i>
+➜荷兰推出“反智能”的手机
+https://www.solidot.org/story?sid=21077	28200
+一家荷兰公司推出了号称“世界最简单的手机”，目标客户是那些<a href="http://mobile.slashdot.org/story/10/11/17/1922208/Anti-Smartphone-Phone-Launched-For-Technophobes">讨厌智能手机的使用者</a>。<i>
+<a href="http://www.johnsphones.com/">John’s Phone</a>只能打电话和接电话，它没有移动应用程序，不能连接互联网，没有摄像头，也不能发送短信，因为它连显示屏都没有，只有鲜艳的数字拨号键。尽管功能如此简单，但它的价格绝不便宜——售价60到80欧元，电池1200 mAh，待机时间三周，重95克。</i>
+➜手机也将能收到紧急广播
+https://www.solidot.org/story?sid=21078	29400
+在科幻电视或电影中，我们常常会看到正常的电视节目被突然打断，然后一位表情沉重的人宣布了一条重大新闻，地球末日之类的。这就是紧急广播系统。现在手机<a href="http://yro.slashdot.org/story/10/11/17/186213/Emergency-Broadcast-System-Coming-To-Cell-Phones">也将能收到紧急广播</a>。<i>
+通信巨头阿尔卡特朗讯宣布，它正在建立“广播信息中心（Broadcast Message Center）”，将允许政府机构在当地、州或国家发生紧急事件时向手机用户发送消息。例如美国发生恐怖主义袭击或严重自然灾害时，所有手机用户将会直接收到来自政府的警告信息，用户可以选择拒绝接收诸如当地恶劣气候、交通事故或寻人启事之类的警告。</i>
+➜机场安检搜3岁女童的身
+https://www.solidot.org/story?sid=21079	32160
+自911后，美国开始实行严格且繁琐的机场安检，一直延续到现在，丝毫没有放弃不必要检查的迹象。现在，发生在一位三岁女童身上的遭遇<a href="http://it.slashdot.org/story/10/11/17/1620203/TSA-Pats-Down-3-Year-Old">再次在美国引发激烈争议</a>。<i>
+3岁大的Mandy Simon随父母一同通过田纳西州Chattanooga的机场安检，当她被要求将手中的泰迪熊放到X光机器中后，她很不开心，在走过金属探测器时让警报响起了两次，于是警卫按照规定对其进行搜身，Mandy开始尖叫并踢腿。她的父亲用手机拍摄下了17秒的<a href="http://www.newser.com/story/105351/tsa-pats-down-3-year-old.html">争执过程</a>（<a href="http://www.dailymail.co.uk/news/article-1330569/Airport-security-staff-caught-camera-body-searching-crying-3-year-old-girl.html">图片</a>）。</i>
+➜大脑如何对狼蛛作出反应
+https://www.solidot.org/story?sid=21080	35100
+人类喜欢猫狗之类的可爱动物，对蜘蛛之类的爬虫类动物皆是唯恐避之不及。根据发表在《美国国家科学家学报》上的<a href="http://www.pnas.org/content/early/2010/11/03/1009076107">报告</a>(OPEN ACCESS)，研究人员利用功能性核磁共振成像（fMRI）扫描了<a href="http://arstechnica.com/science/news/2010/11/tarantulas-in-an-mri-how-the-brain-responds-to-creepy-crawlies.ars">志愿者大脑在狼蛛逼近时的活动</a>。<i>
+在实验中，20位勇敢的志愿者进入fMRI机器，然后将脚放到盒子内，盒子内有5个小隔间，最近的距离脚只有1厘米，最远的有90厘米，志愿者在机器中观看了8.7英寸长的巴西狼蛛视频，狼蛛会随机的出现在盒子的隔间中。整个视频是预先录制的，志愿者并不知道实际上没有蜘蛛接近脚。扫描结果显示，根据蜘蛛与脚的距离远近，志愿者大脑活动区域也有极大差异。当蜘蛛靠近脚，杏仁核、中脑导水管周围灰质（periaqueductal gray），以及前扣带皮层的大脑区域十分活跃；当蜘蛛远离脚时，眶内侧前额叶皮层最活跃。</i>
+➜中国联通将推出基于Linux的“uphone”
+https://www.solidot.org/story?sid=21081	36300
+苹果iPhone 4的中国运营商中国联通宣布，<a href="http://news.yahoo.com/s/pcworld/20101118/tc_pcworld/chinasiphonecarriertolaunchownlinuxbasedsmartphone">将在年底前推出基于Linux的智能手机“uphone”</a>。<i>
+“uphone”是临时代号，将由华为、中兴和英华达开发。手机的售价、配置、系统目前尚不清楚。中国联通已经推出了自己的应用程序商店，以与中国移动和中国电信展开竞争。此前，中移动也推出了自有品牌的手机、采用Android系统的Ophone。</i>
+➜“我爸是李刚”：审查失败案例
+https://www.solidot.org/story?sid=21082	37920
+《纽约时报》<a href="https://www.nytimes.com/2010/11/18/world/asia/18li.html?_r=1&amp;hp">评论</a>了最近中国互联网上最受关注的社会现象：“<a href="__SLASHLINK__" sect="internet" sid="10/10/25/1320241" sn="article" tid="6">我爸是李刚</a>”。<i>
+文章称，在悲剧发生后，宣传部门试图确保该事件不会引起关注，但遭到了失败。一个月后，大多数中国人都了解了这起事件，“我爸是李刚”成了一个众所周知、苦中作乐的“内部玩笑（inside joke）”，一个推卸责任的代名词。</i>
+➜移动应用重塑汽车租赁业
+https://www.solidot.org/story?sid=21083	40200
+《MIT技术评论》<a href="http://www.technologyreview.com/business/26644/">报道</a>，智能手机正在重塑汽车租赁业。
+<i>
+10多年前成立的按时租赁汽车公司Zipcar生意一直很惨淡，但两年前发布的手机应用程序让该公司迅速崛起。Zipcar的iPhone应用程序已被40万人下载，他们可用它寻找到最近的可租用汽车，甚至还能让汽车的喇叭鸣响。该公司已经将生意扩大到美国、加拿大和英国的55座城市和225所大学校区。利用智能手机应用程序，顾客可以便捷的随时用手机租赁车辆，Zipcar则能更容易的管理汽车的流动和维护，跟踪需求变化。其它汽车租赁公司通常每天的租赁费用是在30美元到80美元之间，在每个城市还面临地点限制，Zipcars却能在数百个地方以每小时10美元租赁汽车，这个费用还包含了保险费和加油费。</i>
+➜Woz说Android将统治智能手机平台
+https://www.solidot.org/story?sid=21085	53400
+苹果联合创始人Woz(Steve Wozniak)说，Android而不是iPhone手机，<a href="http://tech.slashdot.org/story/10/11/18/1433244/Woz-Says-Android-Will-Dominate">将在未来统治智能手机平台</a>，他认为Google OS很可能以类似于Windows最终统治PC平台的方式赢得智能手机大战。
+➜FBI与Google和Facebook等公司高管密谈信息窃听
+https://www.solidot.org/story?sid=21084	54000
+squarefw 写道 "《纽约时报》<a href="https://www.nytimes.com/2010/11/17/technology/17wiretap.html?_r=1">报导</a>说，FBI主管Robert S. Mueller于这周会见了多家科技公司高管，包括Google和Facebook，目的只有一个：<a href="http://www.guao.hk/posts/report-fbi-talks-to-google-facebook-about-wiretapping.html">让互联网窃听变得更容易些</a>。<i>
+据说美国政府正打算扩充互联网到1994年颁布的《通信协助执法法案》里。目前该法案只能要求在得到法院的窃听令之后，对电话和有线通讯公司里的信息进行窃听。FBI现在想让该法案也能覆盖到互联网公司，以增加在线信息窃听的渠道。政府机构在给奥巴马政府施压，以视图推进扩充立法，希望明年能将该法案提交给国会。Facebook确认了与Mueller的会晤，而Google方面则拒绝做出回应。<br> </i>

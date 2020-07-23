@@ -1,0 +1,49 @@
+➜亚马逊推出无需结帐的实体店
+https://www.solidot.org/story?sid=50622	9283
+排队等待结帐不是一个令人愉快的过程，电商巨头亚马逊认为是时候消灭了这一恼人的过程，它开张了无需排队无需结帐的实体店<a href="https://www.amazon.com/b?node=16008589011#" target="_blank"><u>Amazon Go</u></a>。用户在店内需要使用 Amazon Go应用，亚马逊将利用计算机视觉、传感器融合和机器学习技术来判断用户从货架上拿起或放回的商品，在一个虚拟购物车内跟踪商品的变化。用户完成购物之后只需要走出商店就行，亚马逊将在随后向用户的亚马逊账号收费和开出发票。《华尔街日报》援引知情人士的消息<a href="http://cn.wsj.com/gb/20161206/tec075452.asp" target="_blank"><u>报道</u></a>，亚马逊计划开张三类实体店，根据测试的成功与否计划开张逾2,000家实体店。
+➜Google准备推出不需要用户互动的ReCAPTCHA系统
+https://www.solidot.org/story?sid=50623	12838
+Google工程师<a href="https://tech.slashdot.org/story/16/12/05/2153236/google-preparing-invisible-recaptcha-system-for-no-user-interaction" target="_blank"><u>正在开发</u></a>改进版的ReCAPTCHA验证系统，利用算法区分机器人程序和人类，而验证过程不需要用户互动。新的系统被称“<a href="https://www.google.com/recaptcha/intro/comingsoon/index.html" target="_blank"><u>Invisible reCAPTCHA</u></a>”，仍然在开发之中，但服务已经开放注册，网站管理员可选择帮助Google测试这一新的验证技术。Google在过去几年推出了多个版本的ReCAPTCHA系统，最早是识别模糊扭曲的字符，然后是<a href="http://www.solidot.org/story?sid=42152" target="_blank"><u>No CAPTCHA reCAPTCHA</u></a>，通过分析用户与验证码的交互过程来区分真人和机器人。
+➜工程师解释为什么三星Galaxy Note 7容易起火
+https://www.solidot.org/story?sid=50624	17421
+制造技术公司 Instrumenta 的工程师拆解了一部三星Galaxy Note 7，分析导致其容易起火的原因。Galaxy Note 7因为起火隐患被召回最终停产停售。工程师<a href="https://www.instrumental.ai/blog/2016/12/1/aggressive-design-caused-samsung-galaxy-note-7-battery-explosions" target="_blank"><u>发现</u></a>，起火是因为<a href="https://tech.slashdot.org/story/16/12/05/2032203/engineers-explain-why-the-galaxy-note-7-caught-fire" target="_blank"><u>电池过度紧密的封装在机身内部</u></a>。电池膨胀产生的压力，或者机身上的压力，都可能导致电池内部被认为永远都不应该接触的层挤压在一起，结果是导致爆炸。工程师认为电池内部的阴极层和阳极层有可能会在挤压下接触，导致短路和过热，在某些情况会导致手机起火。三星追求极致的产品以挑战竞争对手的产品可能是出现这一问题的根源。三星在设计Galaxy Note 7时试图尽可能的轻薄和圆滑，同时最大化电池容量以长时间使用。
+➜硅谷文化风行中国
+https://www.solidot.org/story?sid=50625	18867
+中国游客在旧金山的观光地点除了金门大桥和恶魔岛外，还有科技巨头的总部。<a href="http://cn.nytimes.com/china/20161205/china-silicon-valley-culture/" target="_blank"><u>硅谷的文化在中国风行一时</u></a>，吸引了无数的中国年轻企业家和投资者。中国科技界仿效硅谷，建立了由孵化器、加速器和风险投资者组成的创新和投资网络。初创公司员工和领导者积极质疑权威，跳出固有思维模式——这两种品质在中国企业普遍遭到遏制。硅谷在中国的软实力不大可能帮助Facebook或谷歌返回中国。但它反映出中国想要的那种影响力。尽管出现了很多创新，但中国的网络复兴大多发生在国内。到目前为止，该国创造出具有全球影响力的公司的远大计划基本都不成功。“在中国，硅谷已经成了一座文化变革的灯塔，”风投公司DCM的合伙人赵克仁说。“好莱坞也许能影响一位中国女士对手袋的选择，但这种影响的程度跟硅谷影响企业文化无法相提并论。”
+➜Opera 43开发者版引入了地址栏网页预载功能
+https://www.solidot.org/story?sid=50626	19008
+Opera官方博客<a href="http://www.opera.com/blogs/desktop/2016/12/opera-developer-43-0-2431-0-update/" target="_blank"><u>介绍了Opera 43开发者版的一项新功能</u></a>：Address bar speculative prerenderer，预加载用户准备访问的网页。Opera称，通过监视用户的当前行为预测用户想要访问的页面，然后在后台预加载页面，能在预测正确时将页面加载的时间平均减少整整一秒钟。Opera表示，用户在使用浏览器时有大量的时间浪费在等待页面加载上，认为与其费时费力的优化页面加载不如提前加载更有效。
+➜Chrome 55 没有默认屏蔽Flash
+https://www.solidot.org/story?sid=50627	29048
+Google 软件工程师<a href="https://plus.google.com/+PeterKasting/posts/5ioK3cbucKz" target="_blank"><u>澄清了</u></a>有关 Chrome 55 默认使用 HTML5 完全屏蔽 Flash 的报道。Google 在Chrome 55 上采用了类似 Mozilla 实验浏览器多进程架构的测试方法：只选择一小部分（1%）用户默认启用HTML5，如果一切进展顺利，再在下一个版本Chrome 56中推送给更多的用户。对于不支持HTML5只支持Flash的网站，Chrome只在用户第一次访问该网站时弹出启用Flash的提示。Google称，此举旨在最小化对用户的影响，避免弹出过多的提示，同时给予网站时间去做出改变。Google将在2017年逐步的扩大提示范围。
+➜以色列公司成功移植实验室培育的骨骼
+https://www.solidot.org/story?sid=50628	30043
+<div align="center"><img src="http://img.solidot.org/0/34/liegydE47nYwo.png" height="233" width="450" align=""><br>
+</div>
+<br>
+以色列生物技术公司Bonus Biogroup<a href="http://www.reuters.com/article/us-bonus-biogroup-transplant-idUSKBN13U1R2" target="_blank"><u>宣布</u></a>在临床试验中将实验室培育的半流质植骨成功注入到11个人的颌骨去修复骨质流失。植骨的材料是利用病人自己的脂肪细胞培育的， 它被注入进和填满有问题骨骼内的空洞，再经过几个月时间变硬，与现有骨骼结合在一起。公司CEO称这是世界上首次利用在实验室培育的植骨去成功修复受损的骨组织。
+➜枪手持枪调查“披萨门阴谋论”的披萨店
+https://www.solidot.org/story?sid=50629	31491
+28岁的北卡男子 Edgar Maddison Welch 周日下午3点左右持枪进入被卷入披萨门阴谋论的华盛顿特区披萨店 Comet Ping Pong，指着店员挥舞着枪。这起事故没有造成人身伤害，<a href="http://arstechnica.com/tech-policy/2016/12/armed-man-arrested-claimed-he-was-investigating-pizzagate-conspiracy/" target="_blank"><u>他随后遭到逮捕</u></a>，这位男子声称他是来调查“披萨门”。披萨门阴谋论发酵于美国总统选举期间，与希拉里克林顿竞选主席John Podesta被Wikileaks曝光的邮件有关，有一封邮件曾提到华盛顿特区的披萨店 Comet Ping Pong，于是网民虚构出了与该披萨店相关的儿童贩卖团伙，Reddit上随后出现了一个子论坛 <a href="https://www.reddit.com/r/pizzagate">r/pizzagate</a> 专门围绕该阴谋论进行讨论，许多牵涉进去的人的私人信息遭到曝光，披萨店雇员还面临了死亡威胁，Reddit后来关闭了该论坛。对于最新的这起事故，披萨店店主 James Alefantis 称没有根据的假新闻是真的会造成严重后果的，他请人们三思。Welch被发现携带了两把枪，另一把留在车里。
+➜美国互联网公司联手打击恐怖主义内容
+https://www.solidot.org/story?sid=50630	33877
+《华尔街日报》<a href="http://cn.wsj.com/gb/20161206/tec104118.asp" target="_blank"><u>报道</u></a>，YouTube、Facebook、Twitter和微软周一宣布，将建立一个标识网上恐怖分子图像和视频的共享数据库，以加快取缔网上帮助恐怖分子招募追随者并传播激进思想的内容。声明表示，同意为其在全球取缔的暴力内容创建一个Hash，用计算机可以读取的代码标出图像或视频的独有特征。之后这些公司将共享Hash数据库，其他公司可以更迅速地确定他们是否也需要从其平台上移除该信息。这四家公司表示，他们将在明年初开始共享此类标识，首先要给予其时间实施一些技术细节。
+➜美国海军濒海战斗舰被起诉侵犯设计专利
+https://www.solidot.org/story?sid=50631	35478
+英国工程师David Giles<a href="http://arstechnica.com/tech-policy/2016/12/ship-designer-claims-navy-stole-design-for-problem-plagued-lcs-from-him/" target="_blank"><u>起诉美国海军侵犯他的专利</u></a>，称美国海军的自由级濒海战斗舰盗窃了他的公司 Fastships的设计专利。设计专利已在2010年过期，他的公司也已经破产。自由级濒海战斗舰由洛克希德马丁公司制造，在美国海军启动濒海战斗舰设计时，洛马在2002年与Fastships结成“战略合作关系”，Fastships的高速舰船设计机密在这之前已经与美国海军分享。洛马后来与Fastships分道扬镳，但在自由级濒海战斗舰舰体的设计中整合了大量来自Fastships的设计元素。这不是美国海军面临的唯一一起盗版知识产权的案件，德国公司 Bitmanagement Software 起诉它盗版了55.8万份软件拷贝。
+➜Google推出分享实时位置信息的Trusted Contacts服务
+https://www.solidot.org/story?sid=50632	37642
+Google推出了名叫<a href="https://blog.google/products/maps/let-your-loved-ones-know-youre-safe-our-new-personal-safety-app/" target="_blank"><u>Trusted Contacts</u></a>的应用，目的是告诉你的家人和朋友你很安全。Trusted Contacts目前只发布了<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.emergencyassist" target="_blank"><u>Android版本</u></a>，开发者以后会推出iOS版本。Google称，当你孤身远行或夜行，你总是希望有人是你的后盾，Trusted Contacts服务就是为了让用户感到安全让亲朋好友感到安心。Trusted Contacts将与你信任的朋友和家人分享实时位置信息，位置信息是双向的，你可以分享，而你信任的朋友和家人可以发出位置请求。你将能看到位置请求消息，如果你无法在短时间内回复，位置信息将会自动发送给你的朋友，他们将可以判断你是否需要帮助。
+➜DeepMind开源3D学习环境DeepMind Lab
+https://www.solidot.org/story?sid=50633	41657
+Google旗下的DeepMind<a href="https://deepmind.com/blog/open-sourcing-deepmind-lab/" target="_blank"><u>宣布了</u></a>一个基于 id Software Quake III Arena的3D 学习环境<a href="https://github.com/deepmind/lab" target="_blank"><u>DeepMind Lab</u></a>，代码托管在GitHub上。DeepMind Lab主要用途是作为AI研究的试验台，AI研究者可以从第一人称视角，从模拟AI的眼睛观察虚拟3D环境。DeepMind Lab提供了一组3D导航和解密任务，让AI学习如何应对不熟悉的环境。
+➜uBlock Origin 发布 Safari 版
+https://www.solidot.org/story?sid=50634	41787
+开发者释出了流行广告屏蔽扩展 uBlock Origin 的 <a href="https://github.com/el1t/uBlock-Safari" target="_blank"><u>Safari 版本</u></a>，源代码发布在 GitHub 上。uBlock Origin
+for Safari 不是 uBlock Origin 作者 Raymond Hill 开发的，而是由另一名开发者Ellis Tsung 将其移植到 Safari 浏览器，目前发布的是 <a href="https://github.com/el1t/uBlock-Safari/releases" target="_blank"><u>alpha 版本</u></a>。Raymond Hill 主导开发的 <a href="https://github.com/gorhill/uBlock" target="_blank"><u>uBlock Origin</u></a> 支持 Chrome 和 Firefox，有超过800万的活跃用户。uBlock Origin的分支uBlock曾支持 Safari，但开发者在2015年10月宣布<a href="https://en.wikipedia.org/wiki/UBlock_Origin#uBlock_.28ublock.org.29" target="_blank"><u>终止开发</u></a>。
+➜科学家解释为什么植物是绿色的
+https://www.solidot.org/story?sid=50635	45734
+下一波太阳能电池也许是绿的——字面意义上的绿色。加州河滨分校的物理学家<a href="http://www.physics.ucr.edu/people/faculty/gabor.html">Nathan Gabor</a>认为量子力学可以解释<a href="https://www.newscientist.com/article/2115224-quantum-solar-cells-could-explain-why-plants-are-green/" target="_blank"><u>为什么植物是绿色的</u></a>。当太阳能电池中的分子吸收太阳光，其部分电子会跳到更高能级，但分子无法维持这一能量，所以它会将电子转移到其它分子，形成电流。不同的材料对不同的波长敏感，调整太阳能电池去响应不同颜色的光是可能的。如果太阳能电池或植物只是想简单的获取最可能多的能量，那么最为明显的选择是吸收绿光。因为太阳产生的绿光多于其它颜色的光。这可能就是植物是绿色的原因。其他科学家对这一解释持怀疑态度。<a href="http://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b03136" target="_blank"><u>研究报告</u></a>发表在《Nano Letters》期刊上。
+➜绝大部分CEO相信技术将淘汰人类
+https://www.solidot.org/story?sid=50636	47432
+人工智能、机器人技术和其它新兴技术将重塑我们所知的世界。根据管理咨询公司 Korn Ferry 的一项研究，绝大部分 CEO 在思考未来业务的时候认为<a href="https://it.slashdot.org/story/16/12/05/1619223/many-ceos-believe-technology-will-make-people-largely-irrelevant" target="_blank"><u>技术的价值高于人类</u></a>。Korn Ferry调查了800名商界领袖，44%的CEO相信机器人、自动化和AI技术将重塑未来的许多工作场所，人类在很大程度上将变得多余。Korn Ferry全球董事总经理Jean-Marc Laouchez认为有形性偏差（tangibility bias）可以解释为什么如此多的CEO采用这一受争议的想法，面临不确定性时CEO们在思考、规划和执行时将可以看到、触摸和测量的有形性如技术工具作为优先考虑的事。

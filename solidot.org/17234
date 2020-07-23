@@ -1,0 +1,55 @@
+➜中国比特币交易平台延长暂停比特币提现
+https://www.solidot.org/story?sid=51623	10990
+上个月，中国两大比特币交易平台火币和 OKCoin 同时宣布<a href="http://www.solidot.org/story?sid=51305" target="_blank"><u>暂停比特币提现</u></a>一个月时间，另一家交易平台比特币中国则宣布比特币和莱特币提现需要 72 小时的审核时间。现在，一个月期限要到了，<a href="https://www.huobi.com/p/content/notice/getNotice?id=606" target="_blank"><u>火币</u></a>、<a href="https://www.okcoin.cn/t-2505918.html" target="_blank"><u>OKCoin </u></a>和<a href="https://www.btcchina.com/" target="_blank"><u>比特币中国</u></a>再次发表声明，宣布延长暂停比特币提现。这一次没有公布期限，似乎像是无限期了。在三大比特币交易平台暂停取现期间，比特币币值没有下降反而上升到了新的高度。最新的声明导致了比特币币值出现了<a href="https://blockchain.info/markets" target="_blank"><u>显著波动</u></a>。中国央行正在<a href="http://www.solidot.org/story?sid=51293" target="_blank"><u>调查</u></a>比特币交易平台，担心有人会利用比特币向外转移资金。
+➜从性教育教材争议谈中国的性教育
+https://www.solidot.org/story?sid=51624	12253
+如何对孩子谈 “性”？一套实验多年的教材采用了最直白的方式。然而书中的内容却<a href="http://china.caixin.com/2017-03-09/101063952.html" target="_blank"><u>引发了部分父母的担忧</u></a>。引发争议的教材名叫《珍爱生命—小学生性健康教育读本》，由北师大出版，是国内首个根据 2009 年联合国教科文组织发布的《国际性教育技术指导纲要》研发的性教育教材，目前的版本已经经过了多次修改。自 2007 年开始，已经在部分学校进行了 9 年的教学实验。因书中 “敏感词” 而接连不断涌现的争议，成为此套教材难以全面推行的重要原因。“性教育教材普及的困难来自很多方面，主要是大众对性的避而不谈、对性教育的不了解。”一位知情人士说。根据一项对全国 31 个省份的 9151 位家长进行的问卷调查显示，近七成的家长没有对孩子进行过系统的防性侵教育。北师大儿童性教育课题组撰文称，性教育难以推行，究其本质，是因为在中国长期以来 “性” 都是一个禁忌话题。
+➜Notepad++ 修复被 CIA 利用的 DLL 劫持
+https://www.solidot.org/story?sid=51625	14029
+开源编辑器 Notepad++ <a href="https://notepad-plus-plus.org/news/notepad-7.3.3-fix-cia-hacking-issue.html" target="_blank"><u>释出了 v 7.3.3</u></a>，修复了被 CIA 利用的 DLL 劫持问题。Wikileaks 最近曝光了 CIA 的黑客工具，其中就包括针对 Notepad++ 的 <a href="https://wikileaks.org/ciav7p1/cms/page_26968090.html" target="_blank"><u>DLL 劫持</u></a>。Notepad++ 的运行需要加载一个名叫 scilexer.dll 的代码编辑组件，当计算机被 CIA 入侵之后，它能用一个修改版的 scilexer.dll 去取代原版，当 Notepad++ 启动时它将会加载这个修改过的版本。开发者称，这并不意味着 CIA 对你的编程能力或你写的黄段子感兴趣，而是为了防止 DLL 在后台收集数据时引起用户的怀疑。v 7.3.3 加入了验证 scilexer.dll 的功能，在加载之前验证该 DLL 是否是原版，如果不是，编辑器将无法启动。这只是为了防止加载 CIA 开发的 DLL，并不能防止 CIA 在入侵计算机后用一个修改版的 notepad++.exe 去替代原始版本。
+➜Windows Server 加入对 ARM 处理器的支持
+https://www.solidot.org/story?sid=51626	17511
+微软的服务器操作系统 Windows Server <a href="https://www.bloomberg.com/news/articles/2017-03-08/microsoft-pledges-to-use-arm-server-chips-threatening-intel-s-dominance" target="_blank">加入了对 ARM 架构处理器的支持</a>。此举对微软而言是一次<a href="http://cn.wsj.com/gb/20170309/tec084509.asp" target="_blank"><u>显著转变</u></a>，多年来，微软一直与英特尔保持稳定的合作关系，Windows Server 一直运行基于英特尔技术设计的芯片。微软称它已与高通公司和硅谷芯片生产商 Cavium 合作，使 Windows Server 适配其 ARM 服务器芯片。微软还表示，已与多家 ARM 供应商合作对其芯片进行最优化处理，以适应该公司数据中心的需求微软表示，通过测试发现 ARM 服务器芯片能够为搜索和机器学习等一些云任务创造最大价值。
+➜算盘能提高数学能力
+https://www.solidot.org/story?sid=51627	19030
+<a href="https://zh.wikipedia.org/wiki/%E7%AE%97%E7%9B%98" target="_blank"><u>算盘</u></a>作为一种计算设备已有数千年的历史，过去一个世纪它逐渐被计算器和计算机所取代。但众多研究显示，使用算盘<a href="http://kottke.org/17/03/abacus-use-can-boost-math-skills-and-other-lessons-on-learning" target="_blank"><u>能影响一个人的数学能力</u></a>。从哈佛到中国的研究人员发现，使用算盘的学生比使用现代工具的学生能学到更多，加州圣迭戈的心理学家  David Barner 领导的一项研究认为，算盘训练能显著提升数学能力，其影响能持续数十年。 Barner 预言，接受算盘训练的学生在以后的人生中将会获得更高的数学成绩。心理学家对此现象的一种解释说，学习是一种创成式活动。
+➜利用机器学习 Google 能识别视频中的物体
+https://www.solidot.org/story?sid=51628	27427
+<div align="center"><img src="http://img.solidot.org/0/201/liXccN9U47Kr.png" width="450" height="205" align=""><br>
+</div>
+<br>
+Google Cloud 人工智能和机器学习部门首席科学家李飞飞（Fei-Fei Li） <a href="https://cloud.google.com/blog/big-data/2017/03/announcing-google-cloud-video-intelligence-api-and-more-cloud-machine-learning-updates" target="_blank"><u>宣布了</u></a> Video Intelligence API，能识别视频中物体的深度学习应用。<a href="http://cloud.google.com/video-intelligence/" target="_blank"><u>Cloud Video Intelligence API </u></a>目前处于 Private Beta，使用 TensorFlow 等深度学习框架构建，能识别视频中的物体和理解视频中的上下文背景。在一个演示中，API 识别出视频中的腊肠犬并理解这则视频是广告。在另一个演示中，搜索“海滩”返回了所有包含海滩场景的视频。在这之前，如果没有人手动打上标签计算机是无法直接识别视频中的内容的。<a href="http://www.theverge.com/2017/3/8/14857126/google-cloud-video-api-ai-machine-learning" target="_blank"><u>李飞飞说</u></a>，“我们开始照亮数字宇宙中的暗物质。”
+➜中国封杀韩国游戏
+https://www.solidot.org/story?sid=51629	28873
+作为对韩国部署反导弹防御系统萨德的报复行动的一部分，<a href="http://www.pocketgamer.biz/asia/news/65242/china-bans-korean-developed-games/" target="_blank"><u>中国封杀了韩国游戏开发商的新作品</u></a>，冻结了所有韩国新游戏的许可证颁发。进入中国市场需要从监管部门获得许可证，停止颁发许可证意味着它们无法在中国游戏市场运营。这一禁令影响所有尚未在中国发布的韩国游戏。韩国游戏开发商 Netmarble 因这一消息股价下跌了 7%，禁令将影响到该公司正在中国本地化的网游《天堂2：革命》。《天堂2：革命》由腾讯运营，尚未获得许可证。
+➜美国情报机构对黑客工具泄露展开刑事调查
+https://www.solidot.org/story?sid=51630	31694
+FBI 和 CIA 官员对媒体表示，在 Wikileaks 新近发表数千份展示美国涉嫌在网络上从事间谍活动的文件后，他们正联合对事件<a href="http://www.bbc.com/zhongwen/simp/world-39215205" target="_blank"><u>展开调查</u></a>。FBI、CIA 和白宫拒绝评论所披露文件的真伪。CIA 发言人表示，Wikileaks 公开相关文件，旨在破坏情报机构保护人们免受恐怖分子和其他敌人袭击的能力，美国公众对此应深感忧虑。该发言人说，这样的披露不仅危害美国情报人员及其行动，而且为敌人提供了伤害美国的工具和信息。在 Wikileaks 曝光 CIA 的黑客工具后，美国科技公司开始对文件所造成的损失<a href="http://cn.wsj.com/gb/20170309/tec134546.asp" target="_blank"><u>展开评估</u></a>。苹果的发言人表示，虽然该公司的初步分析显示，今天泄漏的问题中有很多已在最新的 iOS 版本中打了补丁，但该公司将继续努力，以快速处理任何已被识别的漏洞。Google 表示，已看过相关文件，相信 Chrome 和 Android 系统的安全更新和保护措施已让用户可以防范很多上述文件宣称的漏洞，它表示仍在进行分析。
+➜丝绸之路的起源
+https://www.solidot.org/story?sid=51631	33393
+<div align="center"><img src="http://img.solidot.org/0/202/li7x4l4EWOpA.gif" align=""><br>
+</div>
+<br>
+根据发表在《自然》期刊上的<a href="http://www.nature.com/nature/journal/v543/n7644/full/nature21696.html" target="_blank"><u>一项研究</u></a>，早在 5 千年前，丝绸之路贸易路线的基础<a href="https://phys.org/news/2017-03-silk-road-evolved-grass-routes-movement.html" target="_blank"><u>就已经打好了</u></a>。丝绸之路的名字由德国冒险家  Baron von Richthofen 在 100 多年前发明，被认为是世界最复杂的陆地贸易路线，它吸引了很多历史学家和考古学家去思考和寻找它的起源。常规模型通常会从推断已知是贸易网络一部分的地点间最便利的路径出发。这种方法带来了循环推理的问题，会使结果偏向已知的路线。华盛顿大学的 Michael Frachetti 和同事<a href="http://www.natureasia.com/zh-cn/nature/highlights/83808" target="_blank"><u>采用了一种不同的方法</u></a>，表明贸易路线网络是从游牧民数百年来的活动中产生的：游牧民需要在高海拔和低海拔地区间迁移牲畜，以应对这一普遍多山的地区的季节变化。他们据此提出，丝绸之路网络是从游牧民早已建立的地方性迁移模式中缓慢成形的。这一发现或许能启发考古学家为古代贸易连接路线的演变寻找更细致的解释。
+➜《自然》发表两篇时间晶体论文
+https://www.solidot.org/story?sid=51632	34729
+今年 1 月，两个科学家团队<a href="http://www.solidot.org/story?sid=51211" target="_blank"><u>报告</u></a>创造出了时间晶体。现在，他们的论文正式<a href="http://www.natureasia.com/zh-cn/nature/highlights/83794" target="_blank"><u>发表在了</u></a>同行审议的知名期刊《自然》上。<i>
+与普通晶体一样，时间晶体的结构高度有序，但普通晶体的周期性来源于空间元素的规律重复，而时间晶体则是一种同一结构在时间上重复的奇异物质态。研究者在几年前预言了时间晶体的存在，但它直到最近仍未得到实验证明。现在，两支团队为这种难以捉摸的物质形式提供了实验观测证据。Mikhail Lukin 及同事以金刚石氮 - 空位系统为实验平台，制备出了一种离散时间晶体。在另一篇论文中，张颉颃及同事利用囚禁离子实现了类似的结果。这样的时间晶体或许能应用于构建稳健的量子内存。</i>
+➜五人帮统治着美国消费科技行业
+https://www.solidot.org/story?sid=51633	39548
+2011 年，Google 执行主席 Eric Schmidt 在一次行业会议上称，四人帮——Google、Apple、Amazon 和 Facebook——支配着美国的消费科技行业，他没有将微软包含在内，认为微软主要面向企业级市场。四人帮这个词源自中国的文化大革命，Schmidt 借用该词来形容四家公司的规模史无前例。知名科技专栏作家 Walt Mossberg 在六年后认为，今天的美国消费科技业<a href="http://www.theverge.com/2017/3/8/14848642/walt-mossberg-tech-gang-of-five-apple-google-microsoft-amazon-facebook" target="_blank"><u>实际上由五人帮统治着</u></a>，他如今将微软包含在内。消费科技业出现了一个寡头垄断的局面，至少它从表面上类似旧工业时代曾主导关键行业的美国大型企业。这五家企业日益增长的力量对硅谷的传奇投下了一个阴影，很多有可潜力成长为类似五人帮的创业公司，很可能会落到五人帮成员之一的手中，或其创意成为五人帮产品的一项功能。即使这一切没有发生，成功的创业公司往往是在五人帮控制的平台上取得成功。举例来说，Facebook 曾在 2013 年向上周上市的 Snapchat 开出 30 亿美元的收购要约，它的服务依托于 Google 的云平台，依赖于 Apple 和 Google 控制的移动平台。今天的一部分创业公司其主要的目的就是被五人帮收购。
+➜CIA 眼里的杀毒软件
+https://www.solidot.org/story?sid=51634	40712
+在 WikiLeaks 曝光的 8000多份 CIA 文件中，这家情报机构的黑客评价了多款流行杀毒软件的漏洞利用，其中包括 COMODO、卡巴斯基、AVIRA、AVG、F-Secure 和 Bitdefender。对于 COMODO，CIA 黑客说，它的 6.X 版本包含着一个“<a href="https://wikileaks.org/ciav7p1/cms/page_7995653.html" target="_blank"><u>噩梦般的大洞（Gaping Hole of DOOM）</u></a>”，COMODO CEO 在一份声明中称 CIA 描述的漏洞早已修复；对于卡巴斯基的<a href="https://wikileaks.org/ciav7p1/cms/page_3375328.html" target="_blank"><u>漏洞</u></a>，公司创始人 Eugene Kaspersky 称也已经修复；AVIRA 在一份声明中称，CIA 发现的漏洞是一个小漏洞，没有证据显示有用户受到该 bug 的影响；Bitdefender 发表声明称它正在检测 CIA 的工具。
+➜古巴准备拥抱互联网革命，只差钱了
+https://www.solidot.org/story?sid=51635	43758
+古巴人民已经做好了当网民的准备，<a href="http://www.bbc.com/zhongwen/simp/fooc-39217766" target="_blank"><u>现在就看钱包鼓不鼓</u></a>。今天，在古巴上网也比从前更容易也更便宜了。现在国内共有 240 多个开放 Wi-fi 热点，上网一小时的费用用国际标准来衡量还是很贵，但比从前已降低了一半还多：每小时 1.5 美元。最近，国有电信公司 Etecsa 在首都的前殖民区老哈瓦那"给大约 2000 户家庭安了网，这是为期两个月的试点项目的一部分。运行期间联网免费，结束后，政府将公布价格，用户可以自行选择是保留还是放弃。现在还没有确认数字，但据信，收费标准将是：最慢的网（每秒 128kb）30 小时收费 15 美元，最快的网（每秒 2mb）可能高达 110 美元。考虑到古巴人月平均工资只有 25 美元，这样的价位许多人恐怕承受不起。
+➜Pinterest 遭到屏蔽
+https://www.solidot.org/story?sid=51636	44781
+<div align="center"><a href="http://img.solidot.org/0/203/li99ysYIECEA.png"><img src="http://img.solidot.org/0/203/li99ysYIECEA.png" width="500" height="243" align=""></a><br>
+</div>
+<br>
+受欢迎的社交平台 <a href="https://en.wikipedia.org/wiki/Pinterest" target="_blank"><u>Pinterest</u></a> (域名 www.pinterest.com) 今天遭到屏蔽，方法是 DNS 污染，不清楚屏蔽是暂时性的还是长期性的，也不清楚遭到屏蔽的原因，如果不是意外，通常屏蔽的时间将会无限期。Greatfire.org 的测试<a href="https://zh.greatfire.org/www.pinterest.com" target="_blank"><u>显示</u></a>，中国绝大部分地区都返回了错误的 IP 地址。 Pinterest 是一个非常受欢迎的照片分享平台，Alexa 排名 55 名左右。
+➜DARPA 的卫星修复计划
+https://www.solidot.org/story?sid=51637	46134
+想象一下你的通信设备价值 5 亿美元，但你却没有办法维护它？今天的卫星就是如此，软件也许可以远程更新，但硬件在发射之后就无法替换了。在航天飞机还没有退役的时候，美国曾利用它修理和升级卫星，其中最著名的是哈勃太空望远镜。但能修理的卫星和飞行器只限于地球低轨道，运行在地球同步轨道上的卫星根本无法触及。如果我们能维修卫星，延长其服役寿命，那么卫星运营商就可以推迟昂贵的替换卫星的建造和发射，降低运营成本。美国国防部高级研究计划署（DARPA）<a href="http://spectrum.ieee.org/aerospace/satellites/inside-darpas-mission-to-send-a-repair-robot-to-geosynchronous-orbit" target="_blank"><u>正在研发</u></a>维修同步轨道卫星的机器人飞船。这项计划名为<a href="http://www.darpa.mil/program/robotic-servicing-of-geosynchronous-satellites">Robotic Servicing of Geosynchronous Satellites</a>，计划在 2020 年代发射，设计利用其搭载的机械臂修复卫星的太阳能电池板等部件。而 NASA 也计划发射卫星 <a href="https://ssco.gsfc.nasa.gov/restore-L.html">Restore-L</a>，为低轨道的卫星补充燃料和转移轨道。

@@ -1,0 +1,99 @@
+➜Google App Engine SDK 1.1.9发布
+https://www.solidot.org/story?sid=9843	60
+<a href="http://www.kangye.org/">康爷</a> 写道<i>"<a href="http://www.kangye.org/tag/app-engine/">Google App Engine</a> Team 在前天推出了App Engine SDK 1.1.9（<a href="http://code.google.com/appengine/downloads.html">下载地址</a>）。下面来看看新的SDK带来了一些<a href="http://www.kangye.org/gae-sdk-119/">什么内容</a>：GAE可使用urllib；数据上传变得简单；GQL语言更新；修正bug。"</i>
+➜Firefox在Wine中的运行速度快过原生
+https://www.solidot.org/story?sid=9844	1440
+Tuxradar比较了<a href="http://www.tuxradar.com/content/benchmarked-firefox-javascript-linux-and-windows-and-its-not-pretty">Firefox在Windows和Linux平台的JavaScript性能</a>。系统分别是Windows XP SP3和Fedora 10，使用了三组测试工具SunSpider、V8 Benchmark 3和Dromaeo，结果显示Firefox在Linux上的表现落后于Windows，三组测试Linux都略为逊色。<i>
+随后，Tuxradar<a href="http://www.tuxradar.com/content/browser-benchmarks-2-even-wine-beats-linux-firefox">又测试了Wine</a>，结果却让他们惊讶。他们分别对比了Firefox Windows（Win平台原生），Firefox Fedora（Linux原生），Firefox Mozilla（Fedora平台上的Mozilla版），Firefox Wine（Win原生版，在Fedora上运行Wine 1.1.12），结果Firefox Windows表现最优异，其次是Firefox Wine。有人<a href="http://tech.slashdot.org/comments.pl?sid=1126335&amp;cid=26841669">指出</a>原因是Windows版FF有PGO（<a href="http://en.wikipedia.org/wiki/Profile-guided_optimization">Profile Guided Optimisation</a>）优化，而linux版没有。</i>
+➜Techmeme女编辑Megan McCarthy访谈录
+https://www.solidot.org/story?sid=9845	24600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "知名媒体 <a href="http://techmeme.com/">Techmeme</a> 是一个半自动化 IT 新闻聚合网站，它每隔5分钟更新一次，是当今最具创新的新闻聚合媒体。08年12月，<a href="http://www.readwriteweb.com/jobwire/2008/12/techmeme-hires-megan-mccarthy.php">Techmeme 首次迎来了一位真正的编辑</a>，自由女作家 Megan McCarthy。McCarthy 的职责是保证 Techmeme 上的内容质量，并保证那些最新的重要消息没被错过。这看上去是一个很有趣的职业，一个半人半机器的新闻聚合工具。以下是 ReadWriteWeb 对 Megan McCarthy 的访谈（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K725.aspx">图文版</a>）。"           Techmeme 编辑的日常工作
+<br> <br> <strong>Marshall Kirkpatrick:</strong> 你每天都做什么？我猜想你站在那些很厉害的新闻聚合机器的旁边，照看它们，保证它们正常运行，还要自己找一些未被发现的新闻，是不是这样？
+<br> <br> <strong>Megan McCarthy:</strong> 基本是。我要保证 Techmeme 上的新闻是当前技术界的真实写照，有时是去掉一些不相关的新闻，有时是加入一些应该关注的。
+<br> <br> <strong>Marshall:</strong> 能不能告诉我们一点你的个人背景。
+<br> <br> <strong>Megan:</strong> 我的个人背景有点乱。在给 Valleywag 写文章之前，我在不同的地方，不同的职业之间东奔西走，在夏威夷住了几年，从事过几种乏味的办公室工作和自由职业，但我喜欢关注技术，喜欢看一些硅谷的新闻，我从小就对新闻上瘾。
+新闻筛选
+<br> <br> <br> <br> <strong>Marshall:</strong> 你的加入有没有影响到 Techmeme 新闻的客观性？
+<br> <br> <strong>Megan:</strong> Techmeme 是有自己倾向的，而且一直这样，如果你看一下 <a href="http://news.techmeme.com/081203/automated">Gabe 关于我加入 Techmeme 的一篇文章</a>，就会明白这个。不过你怎么看，我加入之后你看到了什么变化？
+<br> <br>
+<br> <br> <strong>Marshall:</strong> 在新闻的甄选上，我并没有看到任何改变，也许新闻不像以前那么飘忽不定了。我一直把 Techmeme 当成可靠的新闻来源，觉得你在保持这个传统方面做得很好。但总会有人对此有微词，认为认为编辑介入了新闻。
+<br> <br> <strong>Megan:</strong> 我觉得有些人什么都抱怨。
+<br> <br> <strong>Marshall:</strong> 新的博客站点如何才能被 Techmeme 索引？
+<br> <br> <strong>Megan:</strong> 我们<a href="http://news.techmeme.com/090128/twitter-tips">刚引入一个程序</a>，人们可以通过 Twitter 向我们提交新闻。任何人都可以将他们任何合适的任何文章投递给我们。
+<br> <br> <strong>Marshall:</strong> 这个程序工作得怎么样？我们看到很多新闻通过 Twitter 发布过来，这是否改变了 Techmeme 的样貌，改变了它的内容？
+<br> <br>我看到很多人的新闻得以发表，我猜想现在参与人数有限，你如何判断该上谁都新闻，不上谁的新闻？
+<br> <br>还有很多人发布他们自己的新闻，这是否妥当？
+<br> <br> <strong>Megan:</strong> 我不认为这改变了总体内容。很多提交的新闻都值得发表，但并不是所有提交的新闻都会发表。这个提交程序在影响 Techmeme 的内容方面有两种情形，首先它会让一些突发新闻迅速上线，其次，当有多个新闻来源提供同一个新闻的时候，如果有人通过这个程序提交并表示关注，这会影响到最终哪一个会上 Techmeme。
+<br> <br>至于人们提交自己的新闻，我个人并不完全反对。如果有人发现了突发性新闻想让我们知道，那是很好的方式。不过他们应当记住，他们的 Twitter 提交帐号会积累信用，一个人如果有很多新闻被发表会得到人们的尊敬。不过在我看来，Twitter 帐号本身并不能决定他们的提交是否回被发表，是内容本身决定是否会被发表。
+<br> <br> <strong>Marshall:</strong> 如果有人在提交中说脏话，是否会...（原文此处省略-译者）
+<br> <br> <strong>Marshall:</strong> Techmeme是否重视新闻的准确性?
+<br> <br> <strong>Megan:</strong> 准确性绝对重要，那是我的目标之一，如果一条热门新闻最终证实是假的...
+<br> <br> <strong>Marshall:</strong> 什么样的新闻算假新闻？如果有人说，错，Steven Jobs 还没离开苹果，我不相信这个报道，你是否高兴？
+<br> <br> <strong>Megan:</strong> 或者在后面紧跟一条，“Steve Jobs 还没离开苹果”。
+<br> <br> <strong>Marshall:</strong> 你会拿掉那条假的？
+<br> <br> <strong>Megan:</strong> 或者拿掉，或者在后面放一些新闻更正。有时候假消息自己也是新闻，生硬地删掉也不妥。我们要让读者们知道当前技术界正发生一些什么事，知道哪些人正在说什么话。那些早期的谣传可能会被后来的更正替换，但不和读者打招呼，直接删掉是不妥当的。
+<br> <br> <strong>Marshall:</strong> 看来你每天要读很多新闻，你每天什么时间开始和结束工作。
+<br> <br> <strong>Megan:</strong> 我7点半开始工作，结束的时间还要晚。新闻永远不会停息。
+Techmeme 的未来以及其它新闻聚合服务
+<br> <br> <strong>Marshall:</strong> 如今每个人都想做新闻聚合，你认为新闻发现和内容聚合的关键是什么？
+<br> <br> <strong>Megan:</strong> 我认为可靠的实时的 Web 会对聚合服务带来巨大冲击，我希望在新闻一发表的时间就能看到，没有延迟。我希望质量，准确性，速度这些因素得到重视。同时事，希望出来一些新的声音让这个群体更饱满强大。
+<br> <br> <strong>Marshall:</strong> 你是否算半个机器人？
+<br> <br> <strong>Megan:</strong> 要看我的情绪。
+<br> <br> <strong>Marshall:</strong> 至少在朝7晚7之间是这样，是吗？
+<br> <br> <strong>Megan:</strong> 好像是。这很讨厌，但每天都读大堆新闻对我是种享受。
+<br> <br> <em>本文国际来源：<a href="http://www.readwriteweb.com/archives/techmemes_new_editor.php">http://www.readwriteweb.com/archives/techmemes_new_editor.php</a>，原文作者：Marshall Kirkpatrick，中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站。</em>
+➜科学家绘制尼安德特人基因图
+https://www.solidot.org/story?sid=9846	28800
+<a href="http://zh.wikipedia.org/w/index.php?title=%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA&amp;variant=zh-cn">尼安德特人</a>（有时也被称作穴居人）曾一度和现代人的祖先并存在地球上，但大约3万年前，他们消失了。现在科学家绘制了<a href="http://news.yahoo.com/s/afp/scienceusgermanygenomeanthropology;_ylt=AlerCTJbQ0GP0FH7cpRd4ATZn414">第一幅穴居人基因草图</a>，或许能揭开现代人类和他们的史前远亲之间的联系。研究人员从三个克罗地亚人化石中提取DNA碎片，通过对30亿个DNA碱基排序绘制了尼安德特人60%多的基因图。
+➜进入中国工厂内部
+https://www.solidot.org/story?sid=9847	36000
+中国不想仅仅成为世界工厂，而是想创造产品，去占领<a href="__SLASHLINK__" sect="society" sid="09/02/11/0212238" sn="article" tid="54">产品链高端市场</a>。也许我们可以通过中国现有的产品设计和制造流程去一窥其未来的进展。<a href="__SLASHLINK__" sect="hardware" sid="06/12/10/0428201" sn="article" tid="77">Xbox黑客</a>、MIT博士Andrew'bunnie'Huang让中国的工厂代工制造了<a href="http://www.chumby.com/">Chumby</a>——一种互联网电子设备，在接受O'Reilly Radar的采访时他谈论了<a href="http://radar.oreilly.com/2009/02/etech-preview-inside-factory-c.html">中国制造业的众多问题</a>。他说在中国制造产品的最大挑战是交流问题，以及对最后成品的期望。他还回答了一个西方消费者极为关注的问题——工人的工作和生活环境（如国内媒体近来纷纷报道的美国劳工委员会曝光中国<a href="http://news.google.com/news?q=%E8%A1%80%E6%B1%97%E5%B7%A5%E5%8E%82&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;hl=zh-CN&amp;tab=wn">血汗工厂</a>事件）：<i>
+“中国有无数工厂，其中肯定有环境恶劣的、你不想与之共事的工厂...我要确保与我们合作的工厂所有员工有良好的待遇。所以我住在工厂的宿舍，吃食堂的饭菜。因此那帮家伙愚弄不了我....就像在一个特殊日子里，他们得知我来参观，就为员工准备特殊的食物或其它东西。这以前发生过。”Huang承认中国的生活水平非常低。</i>
+➜中国著名博客被刺
+https://www.solidot.org/story?sid=9848	36960
+《<a href="http://blog.ifeng.com/1738385.html">钱烈宪要发言</a>》的博主、《<a href="http://www.douban.com/subject/3253866/">想象中的动物</a>》一书作者徐来先生，在2月14日下午参加单向街书店活动时，遭两名男子持刀<a href="http://www.hecaitou.net/?p=4664">袭击受伤</a>。目前，他已经被送往朝阳医院紧急救治。根据网友通过Twitter的实时<a href="https://twitter.com/doubleaf">报告</a>，医院拍过片，由于腹腔或积水，因此可能需动手术打开腹腔检查。伤势有点严重，但是没有生命危险。
+➜玩Google Earth找到宝藏
+https://www.solidot.org/story?sid=9849	38640
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "
+洛杉矶音乐工作者Nathan Smith宣称，有一天他用Google Earth漫不经心地查看德州Aransas Pass一带的卫星照片，突然眼睛一亮，发现在“三桅船溪”(Barketine Creek)<a href="http://news.cnet.com/8301-17852_3-10161265-71.html">附近出现一个鞋印形状的轮廓</a>。他不禁起疑，并根据历史知识推断，那可能是一艘西班牙三桅船(barquentine)的残骸，而1822年的确有艘西班牙三桅帆船在德州Refugio南方搁浅后沉船。Smith请教一些专家后，断定这艘船及船上载的财宝价值30亿美元。他于是抓起金属探测器，驾车直奔当地。问题是：那个地区似乎是私人牧场的一部分，牧场主人是已故的Morgan Dunn O'Connor的家人。
+"           但Smith的律师认为，那块地的下方是船的沉没处，应属商业航道。若是如此，依照美国法律，最先发现无主宝藏的人，就可主张所有权。
+<br> <br>
+不过，如果法院判定那是一块地，那么O'Connor的家人就有权挖掘底下可能埋藏的金银财宝。
+<br> <br>
+O'Connor家人聘任的律师Ron Walker直截了当告诉ABC News：“有人上Google Earth四下看看，瞧见他们以为的地底宝藏，就上门来说，我要来你家开挖。这未免太离谱。更何况，他们没有证据可证明船真的在此处，而且也缺乏经验。”
+<br> <br>
+的确是如此，但Smith曾有“相关经验”：他看过尼古拉斯·凯奇(Nicolas Cage)主演的电影《国家宝藏》(National Treasure)。
+<br> <br>
+附带一提，德州的律师一口断定，当地并没有商业航道；就算船是在水域中，也是归德州的水域。因此，德州也向法院申请主张所有权。
+<br> <br>
+下个月，美国地方法官David Hittner将裁决。两个月后，也许会有人请西恩·潘(Sean Penn)饰演Nathan Smith，比利·鲍伯·松顿(Billy Bob Thornton)来演Ron Walker，乔什·布洛林(Josh Brolin)来演扞卫德州利益的律师。
+<br> <br>
+总之，这出融合冒险、贪婪和讼争的精采好戏还有续集可瞧。谁会料到Google Earth会引出这么一出充满悬疑、紧张刺激的抢宝大戏呢?
+<br> <br>
+目前，三桅船确切的地点已被列入机密。诸位Google Earth迷，若有人知道地点何在，请告诉我，或许我们也可以分一杯羹。
+➜会打结的无线电波
+https://www.solidot.org/story?sid=9851	43200
+无线通信使用的无线波谱变得越来越拥挤，可用的频段正面临短缺。现在瑞典物理学家称以螺旋形状发射的<a href="http://www.newscientist.com/article/dn16591-twisted-radio-beams-could-untangle-the-airwaves.html">扭曲无线电波或能消除拥挤问题</a>。<i>
+<a href="http://zh.wikipedia.org/w/index.php?title=%E6%97%A0%E7%BA%BF%E7%94%B5%E6%B3%A2&amp;variant=zh-hans">无线电波</a>是频率介于3赫兹和约300吉赫之间的电磁波，目前无线电视、无线网络和手机正在争抢30GHz以下的波段。瑞典<a href="http://www.irf.se/">太空物理学院</a>的物理学家Thomas Leyser提出了一种新奇的解决方法。他与一个国际团队合作，演示了一种可能性，在发射的无线电波中放入一个旋转（spin），从而产生一个打结的波束。从理论上讲，海量数据能以扭曲的强度传送出去，这有别于无线电波的振幅和频率——目前传送信息所用的特性。</i>
+➜Linux Silverlight正式推出
+https://www.solidot.org/story?sid=9850	44040
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "
+Moonlight 1.0，<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20136145,00.htm">微软Silverlight媒体技术的第一个开放原始码版本</a>，终于推出了。
+<i>
+Moonlight是Novell领军的Mono计划的一部份，首席开发者是Miguel de Icaza。De Icaza 11日用部落格宣布，去年12月开放公众beta的Moonlight 1.0，已经正式发布。不过，根据de Icaza同日的Twitter贴文：「Moonlight 1.0其实早在1月20日欧巴马就职当天就推出，（但Novell的）公关/行销（人员）没有被通知。」
+"</i>           Silverlight是微软与Adobe Flash竞争的产品，能让高阶的网路内容，如动画和多媒体，透过浏览器播放。Moonlight基本上能让使用Silverlight制作的内容，在Unix或Linux系统上播放（Flash内容早就有这种能力）。
+<br> <br>
+De Icaza写道：「我们有完整功能，我们通过所有微软回归测试软体，我们也支援微软对x86和x86-64架构的Media Pack。」他说Moonlight 1.0可以Firefox 2或3外挂元件的方式取得，利用X11 windowing窗口管理系统，在Unix或Linux系统中执行。
+<br> <br>
+Silverlight目前进入2.0版，但de Icaza的计划已有Moonlight 2.0的测试版，确保彼此相容。de Icaza表示，新版Silverlight是一次「重大升级」，「更完整也更洗炼」。他对于微软为Mono计划（制作与.NET相容的开放原始码程式编写工具）提供的合作和协助满口赞扬。
+<br> <br>
+本月稍早才拜访过微软园区的de Icaza写道：「微软持续协助我们制作Silverlight的开放原始码版。他们依据OSI核准的MS-PL许可证，释出Microsoft DLR、Microsoft MEF架构，和最重要的：Microsoft Silverlight Control Library和Control Toolkit的原始码。没有这项协助，我们要花很多年才赶得上。」
+<br> <br>
+同样在11日，开发者Aaron Bockover宣布另一个相关的计划，名为Moonshine（前名Pornilus）。Bockover在部落格写道，必须先安装Moonlight 才能执行的Moonshine，使用Moonlight内建的Windows Media功能，「以完全合法的方式，将Windows Media播放功能带入Linux系统，终端使用者无须担心程式码的来源。」
+<br> <br>
+Moonshine现在有Linux Firefox 3的安装模组，Bockover说，OpenSuse和其他版本的模组也会很快发布。
+➜Half-Life粉丝制作真人短片《逃离17号城》
+https://www.solidot.org/story?sid=9852	47520
+《逃离17号城》系列电影短片改编自经典游戏《<a href="http://zh.wikipedia.org/w/index.php?title=%E6%88%B0%E6%85%84%E6%99%82%E7%A9%BA2&amp;variant=zh-cn">半条命2</a>》，由David和Ian Purchase兄弟导演。两兄弟的职业是商业导演，曾拍摄过短片《<a href="http://www.imdb.com/title/tt0776709/">The 5th Rangers</a>》，被誉为是未来之星。<i>
+这两兄弟是半条命系列游戏的狂热粉丝，他们在业余时间、没有正式员工、没有剧本的情况下仅花500美元预算制作出了系列电影短片的前两集。目前他们在Youtube放出了<a href="http://www.youtube.com/watch?v=q1UPMEmCqZo">第一部分</a>(推荐观看高清版)。《Half-Life》系列主角是沉默寡言的Gordon Freeman，短片与之无关。短片的品质令人惊讶的高。他们的官方网站<a href="http://www.purchasebrothers.com/">purchasebrothers.com</a>由于访问人数过多而宕机。</i>
+更新：<a href="http://www.youtube.com/watch?v=4lyUNs7eNhs">第二部分</a>

@@ -1,0 +1,52 @@
+➜Google宣布Android 4.3，第二代Nexus 7和Q继任者Chromecast
+https://www.solidot.org/story?sid=35731	10165
+<div align="center"><img src="http://img.solidot.com.cn/0/570/litaDucjdj8xw.png" align="" height="277" width="300"><br>
+<br>
+<div align="left">Google在24日举行的新闻发布会上宣布了<a target="_blank" href="http://android-developers.blogspot.com/2013/07/android-43-and-updated-developer-tools.html"><u>Android 4.3</u></a>，新款Nexus 7和Q继任者<a target="_blank" href="http://www.google.com/intl/en/chrome/devices/chromecast/#netflix"><u>Chromecast</u></a>。Android 4.3与4.1和4.2一样，是一次小的更新，仍然沿用Jelly Bean的代号，主要<a target="_blank" href="http://arstechnica.com/gadgets/2013/07/google-announces-android-4-3-the-latest-incremental-jelly-bean-update/"><u>新特性</u></a>包括：改进了蓝牙支持，包括支持Bluetooth Low Energy和蓝牙4.0；支持OpenGL ES 3.0，Google声称Android是第一个支持OpenGL ES 3.0的移动平台；增强国际化、DRM和多用户支持。其中多用户支持将允许用户创建一个不允许应用内购买的帐号。好消息是Android将不会出现儿童拿着父母手机不知不觉消费数千美元的现象；但坏消息是Google增强DRM将会锁住你的电子书和视频。Android 4.3将会首先提供给Google Nexus系列设备的用户。Google的第二代7英寸平板虽然价格比第一代贵了30美元，但<a target="_blank" href="http://arstechnica.com/gadgets/2013/07/the-2013-nexus-7-performance-preview-a-huge-speed-upgrade-in-every-way/"><u>性能有了巨大飞跃</u></a>。它配备了1.5GHz高通四核Snapdragon S4 Pro处理器，GPU是高通的Adreno 320，虽然处理器不是最新产品，但比上一代使用的Tegra 3要强许多，能支持1920×1200分辨率和1080p渲染。Google宣布的Nexus Q廉价替代Chromecast颇吸引眼球，35美元的USB接收器能连接HDMI端口，发现 Wi-Fi网络和传递流视频，通过它你可以在电视上观看Youtube和Netflix 流视频。在亚马逊上<a target="_blank" href="http://www.amazon.com/Google-Chromecast-Streaming-Media-Player/dp/B00DR0PDNE/"><u>这款产品</u></a>已经售光。<br>
+</div>
+</div>
+➜广东计划五年内实现公共场所全面监控
+https://www.solidot.org/story?sid=35732	12420
+《南方都市报》<a target="_blank" href="http://epaper.oeeee.com/A/html/2013-07/25/content_1902414.htm"><u>报导</u></a>，广东计划在五年内实现公共场所监控视频全面接入警方的视频报警监控中心，社会视频监控实现全覆盖，公共场所等网络运用实现全监控。并计划在2022年监控技术实现人脸识别，公共网络身份识别与安全监控实现100%覆盖。警方官员称，广东已经有一类、二类视频监控探头180万个。广东并不是唯一一个试图100%监控公共场所的省份，<a target="_blank" href="http://news.changsha.cn/hn/1/201112/t20111226_1316388.htm"><u>湖南</u></a>等省份也有类似计划。
+➜中国Android市场出现利用Android主密钥漏洞的攻击案例
+https://www.solidot.org/story?sid=35733	14423
+<div align="center"><img src="http://img.solidot.com.cn/0/571/liQmRsmUyBb4w.png" align="" height="242" width="150">&nbsp; <img src="http://img.solidot.com.cn/0/572/lidvAm6KHWtDY.png" height="242" width="150"><br>
+</div>
+<br>
+本月早些时候，移动安全公司Bluebox Security研究员<a target="_blank" href="http://www.solidot.org/story?sid=35460"><u>报告</u></a>发现了一个严重的Android主密钥漏洞，该漏洞允许修改应用程序代码而不会改变其加密签名，意味着攻击者可以将恶意程序伪装成合法应用。Bluebox发布了一个<a target="_blank" href="https://play.google.com/store/apps/details?id=com.bluebox.labs.onerootscanner"><u>应用</u></a>（Google Play）可以扫描系统检查是否存在该漏洞。Duo Security发布了叫<a target="_blank" href="http://www.rekey.io/"><u>ReKey</u></a>的工具可以帮助修复漏洞（需要Root权限）。现在，赛门铁克<a target="_blank" href="http://www.symantec.com/connect/blogs/first-malicious-use-master-key-android-vulnerability-discovered"><u>报告</u></a>在中国应用市场发现了首批利用Android主密钥漏洞的攻击案例。恶意程序作者修改了两个合法应用“医生预约”和“我的工作站”，加入了代码以实现远程控制，窃取敏感数据如IMEI和手机号码，发送增值 SMS信息，以及用root命令关闭中国移动安全应用。赛门铁克还发现了同一作者修改的其它四款在第三方市场传播的合法应用，发现恶意程序会向所有联系人发短信，短信内容是一个游戏网址 hldc.com，该网站已下线。
+➜如何成功登陆火星和返回地球？
+https://www.solidot.org/story?sid=35734	16336
+伦敦帝国学院科学家<a target="_blank" href="http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_23-7-2013-16-51-29"><u>设计了</u></a>人类登陆火星和返回地球的概念方案。三名宇航员将乘坐一艘特制的能产生人造重力的宇宙飞船，飞船被分成两部分，用系链相连，通过旋转产生重力，用挡热板抵御太阳耀斑。宇航员在登陆后将搭载一艘事先送到火星表面的飞行器重返火星轨道。该飞行器将利用火星表面下的冰作燃料。帝国学院的课题小组负责人<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/uk/2013/07/130724_mars_mission.shtml"><u>派克教授说</u></a>，他们设计的登陆火星计划并不是关于什么新发现，更重要的是关于工程技术上的挑战。美国、俄国、欧盟和中国都有火星登陆计划。
+➜Linux在车载信息娱乐系统市场崛起
+https://www.solidot.org/story?sid=35735	18613
+Linux基金会官员透露，2014年款<a target="_blank" href="http://www.lexus.com/IS-2014/"><u>丰田雷克萨斯 IS</u></a>将成为第二个提供基于Linux的车载信息娱乐（IVI）系统的重要汽车品牌。去年凯迪拉克的XTS和SRX型号汽车<a target="_blank" href="http://www.solidot.org/story?sid=29797"><u>提供了</u></a>基于Debian的车载信息娱乐系统<a target="_blank" href="http://www.cadillac.com/cadillac_cue.html"><u>Cadillac User Experience</u></a>。ABI Research项目预测到2018年，Linux在车载信息娱乐系统的市场份额将增长到20%，仅次于微软的Windows Embedded Automotive和行业主导者QNX。
+➜比尔盖茨开始放眼钍燃料和熔盐堆
+https://www.solidot.org/story?sid=35736	24432
+比尔盖茨资助的核能技术公司TerraPower<a target="_blank" href="http://www.the-weinberg-foundation.org/2013/07/23/bill-gates-nuclear-company-explores-molten-salt-reactors-thorium/"><u>正在调查其它替代反应堆技术</u></a>，该公司最大的赌注仍然是名叫行波反应堆的快堆技术，行波反应堆可以最大程度的充分利用核燃料，减少核废料的产生。但该公司仍然在探索能在安全、核废料和经济方面有所改进的新反应堆技术。TerraPower最感兴趣的设计就是使用钍燃料的熔盐反应堆，这种反应堆被认为更安全，效率更高，废料少，在大气压力而不是有潜在危险性的高压下运作。
+➜Android 4.3加入SELinux
+https://www.solidot.org/story?sid=35737	25674
+Android 4.3在安全方面的最大变化是<a target="_blank" href="http://arstechnica.com/security/2013/07/google-strengthens-android-security-muscle-with-nsa-developed-protection/"><u>加入了被称为SELinux的安全扩展</u></a>。Android上的应用都在沙盒中运行，限制其访问数据，防止恶意程序窃取敏感数据。最早由NSA程序员开发的SELinux则为系统引入了细粒度的强制访问控制，它可以为每个应用设定不同的信任级别，并能在其限定域内指定应用能访问哪些数据。第二个安全增强是改进加密证书的储存方式，在4.3中，一个应用可以创建或储存一个不被其它应用看见或使用的私钥。第三个增强是创建能实行细粒度限制的二级用户配置资料，用户可决定哪些应用可以启用，并默认关闭用户帐号访问。
+➜美国国会在NSA监听计划上分歧严重
+https://www.solidot.org/story?sid=35738	27983
+33岁的美国共和党自由派议员Justin Amash提出了一项修正案，试图停止资助美国国家安全局（NSA）的大规模监听计划。众议院于24日进行了投票，最终以205票支持217票反对<a target="_blank" href="http://arstechnica.com/tech-policy/2013/07/congress-nearly-shuts-down-nsa-phone-dragnet-in-sudden-217-205-vote/"><u>未能通过</u></a>，但结果显示了美国国会在此事件上分歧严重，反对者中只要有7个人改变主意，NSA将必须停止其行动。《爱国者法案》原作者Jim Sensenbrenner支持了这项修正案，声称NSA的大规模监听超出了他的设想。
+➜好奇号在火星上一天走了一百米
+https://www.solidot.org/story?sid=35739	30186
+机器人一天行走一百米可以被视为机器蜗牛了，人类最优秀的短跑选手可以在不到10秒内完成这段距离。但对火星漫游车好奇号而言，<a target="_blank" href="http://spectrum.ieee.org/tech-talk/aerospace/robotic-exploration/nasas-mars-rover-makes-longest-oneday-trek"><u>一百米已经是创纪录</u></a>。7月21日，好奇号行驶了 100.3米，是此前最长行驶记录49米的两倍。截至7月23日好奇号已经行驶了1.23公里，它登陆红色星球表面的时间正接近一地球年，它已经完成了主要使命，证明火星曾经适宜生命居住。NASA正计划让好奇号搜索其它可能存在生命的区域。
+➜富士康数百工人罢工，要求加薪
+https://www.solidot.org/story?sid=35740	31493
+最大代工厂富士康的深圳工厂23日发生工人<a target="_blank" href="http://news.xinhuanet.com/fortune/2013-07/25/c_116685033.htm"><u>罢工事件</u></a>，罢工工人要求加薪。大约200多位深圳龙华园区白班员工参与了罢工。罢工原因包括：富士康只给技术工作人员涨了20%的工资，而周边部门和生产部门人员工资未动；加班时间缩短，2010年11月前，深圳龙华富士康一个普通工人的平均底薪是1200元，平均每月加班80～90个小时；此后，富士康将工人的平均底薪上调制2000元，而平均每月加班小时数下降到了60个小时；2012年，底薪再次调整至2100元，平均加班小时数控制在48个小时左右，意味着工人最终收入在下降。富士康母公司鸿海周三<a target="_blank" href="http://cn.wsj.com/gb/20130725/tec082104.asp"><u>表示</u></a>，周二与深圳一些员工就加班薪资及补贴问题进行了商讨，相关讨论未对公司运营造成影响。鸿海精密在公告中称，员工在会后立即恢复了工作。
+➜苹果公司净利润下降但iPhone销量上升
+https://www.solidot.org/story?sid=35741	31541
+<a href="http://www.igghh.com/books/18/page/0/%E9%9D%92%E6%98%A5%E5%B0%8F%E8%AF%B4.html">www.igghh.com</a> 写道 <i>"苹果公司<a href="http://www.apple.com/pr/library/2013/07/23Apple-Reports-Third-Quarter-Results.html" target="_blank">第三季度财报</a>显示，苹果营收353亿美元，与去年基本持平，但净利润仅为69亿美元，比去年同期降低20亿美元。这一数据略高于<a href="http://money.cnn.com/news/newsfeeds/gigaom/articles/2013_07_23_apples_q3_profits_ipad_sales_dip_while_iphone_sales_reach_over_31m.html" target="_blank">市场预期</a>。Mac 销量与去年持平， iPad销量降低但iPhone销量上升。财报公布后苹果公司股价上涨近4%。"</i>
+➜NSA和FBI向互联网公司索要主密钥
+https://www.solidot.org/story?sid=35742	33785
+CNET引用匿名人士的话<a target="_blank" href="http://news.cnet.com/8301-13578_3-57595202-38/feds-put-heat-on-web-firms-for-master-encryption-keys/"><u>报道</u></a>，NSA和FBI向大型互联网公司索要主密钥，但遭到了这些公司的抵制，认为这一要求超出了法律允许的范围。如果获得主密钥，NSA可以用它解密收集的相关加密通信流量，匿名人士称大型互联网公司以非法为由抵制了这一要求，但小型互联网公司也许没有财力和精力进行抗争。微软发言人没有回答是否会收到此类要求，但表示它不会交出主密钥。Google的说法相同，称它从来没有将密钥交给政府。Facebook则表示它没有从美国政府或其它政府收到索要密钥的要求。
+➜英特尔的Xeon Phi协同处理器对未来的超算意味着什么？
+https://www.solidot.org/story?sid=35743	37026
+在今年上半年公布的Top500超级计算机名单中，有7台超算系统使用英特尔的Xeon Phi协同处理器，其中包括排名第一的中国天河二号。协同处理器类似AMD和Nvidia 的GPGPU，是为了加速浮点运算。有了天河二号的宣传作用，<a target="_blank" href="http://spectrum.ieee.org/semiconductors/processors/what-intels-xeon-phi-coprocessor-means-for-the-future-of-supercomputing"><u>协同处理器将会对未来的超算产生什么影响</u></a>？Xeon Phi有61个核心，采用20纳米制造工艺，英特尔声称协同处理器对性能的提升超过了GPU。相对于GPGPU，其操作独立于CPU，不需要特定代码编程。虽然超算中采用纯CPU模式（如IBM的蓝色基因）的系统数量仍然占多数，但加速器加CPU模式正日益流行。CPU整合专用核心是未来的趋势。
+➜挪威小镇创造人工太阳照亮冬天的天空
+https://www.solidot.org/story?sid=35744	38534
+<div align="center"><img src="http://img.solidot.com.cn/0/573/lii1te3jjsPpw.jpg" align="" height="200" width="300"><br>
+</div>
+<br>
+在整个漫长而寒冷的冬季中，人口3386的挪威小镇Rjukan并不能享受到多少阳光，他们因此决定<a target="_blank" href="http://gizmodo.com/a-norse-town-has-built-an-artificial-sun-to-light-up-it-870153616?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29"><u>通过人造太阳满足自己需要</u></a>。工程师正在完成<a target="_blank" href="http://www.visitnorway.com/en/Product/?pid=30978"><u>The Mirror项目</u></a>——安装三个300平方英尺的定日镜，将冬天的阳光转射到山谷，将城镇广场变成日光浴场。镜子能在计算机的控制下跟踪太阳运动。Rjukan的大镜子并不是欧洲第一个人造太阳，意大利小镇Viganella和Rjukan一样坐落在山谷底部，每年有82天接收不到太阳的直射光，2006年他们在山顶上设置了一个26英尺宽的大镜子转射阳光。

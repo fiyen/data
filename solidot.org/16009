@@ -1,0 +1,54 @@
+➜SARS可能起源于中华菊头蝠
+https://www.solidot.org/story?sid=37036	9537
+根据发表在《自然》上的<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12711.html"><u>报告</u></a>，研究人员发现了强有力的证据显示SARS病毒<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2013/10/131030_china_sars_bat.shtml"><u>起源于蝙蝠</u></a>。他们在名叫“中华菊头蝠”的蝙蝠身上发现了两种类似SARS的冠状病毒。SARS属于冠状病毒家族。这两种冠状病毒与感染人类的病原体密切相关，它们与一种ACE2受体结合后，以同样的方式感染人体细胞。这表明冠状病毒可能直接从蝙蝠传染给人类，而不是通过过去认为的果子狸这样的中间物种。研究显示，这种类似SARS的冠状病毒的基因95%与人类SARS病毒相似。研究人员说，可以利用这种病毒来开发新的疫苗和药物来抵抗SARS病原体。
+➜NSA拦截Google和雅虎数据中心之间通信
+https://www.solidot.org/story?sid=37037	13268
+<div align="center"><a href="http://img.solidot.com.cn/0/758/livZWKYafylEA.jpg"><img src="http://img.solidot.com.cn/0/758/livZWKYafylEA.jpg" height="210" align="" width="280"></a><br>
+<br>
+</div>
+《华盛顿邮报》根据Edward Snowden泄漏的NSA机密文件<a target="_blank" href="http://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html"><u>报导</u></a>，NSA拦截和记录了Google和雅虎数据中心之间的海量通信数据。Google和雅虎等互联网巨头在全世界建立了许多数据中心，数据中心之间通过数千上万公里的光缆连接。为了高效提供服务，互联网巨人会在数据中心之间同步大量用户信息。用户和数据中心之间是通过SSL建立加密连接。然而根据NSA绘制的直白易懂的漫画（如图所示），数据中心之间的同步却是非加密的，明文内容在各个数据中心高速传输。NSA不需要获得授权去访问Google或雅虎的服务器，它只需要直接在数据中心之间发动类似中间人攻击的拦截行动。根据一份日期为2013年1月9日的机密文件， NSA每天从雅虎和Google的数据中心网络收集数百万记录，在进行筛选之后，30天内它的数据库增加了181,280,466条新纪录，其中包括元数据——即电子邮件发送方和接收方的信息，以及文字、音频和视频内容。
+➜联想雇佣明星艾什顿·库奇为产品工程师
+https://www.solidot.org/story?sid=37038	13451
+联想的招聘人员可能是追星族：他们<a target="_blank" href="http://cn.wsj.com/gb/20131031/tec105245.asp"><u>雇佣了</u></a>《乔布斯传》中乔布斯扮演者艾什顿·库奇，库奇还出演过情景喜剧《好汉两个半》。联想称，库彻将与联想的全球工程师团队一同参与Yoga系列平板电脑的开发和营销，他将为产品设计、规格、软件和使用场景提供意见和参与决策。这并不是联想首次聘用美国名人。该公司曾聘请NBA球星布莱恩特代言。但联想强调，库彻的角色完全不同于该公司以往以宣传为目的聘请的任何其他名人。联想发言人说，库彻实际上将进入我们的实验室并参与工程师会议。
+➜黑客作弊将垃圾音乐送进排行榜
+https://www.solidot.org/story?sid=37039	19271
+澳大利亚墨尔本的安全研究员Peter Filimore从未玩过乐器，但他制作的音乐每月点播量<a target="_blank" href="http://www.scmagazine.com.au/News/362462,hacker-spoofs-track-plays-to-top-music-charts.aspx"><u>数以十万计</u></a>，累计超过100万，挤入了在线音乐排行榜前列，并获得了1000美元的版税。他的方法很简单，使用Wolfram Alpha算法编辑公有领域的曲子，创建了名叫Kim Jong Christmas的专辑，然后租赁了三台亚马逊云服务实例，写一个脚本模拟三位用户在一个月内24小时连续播放他的歌曲。他的音乐被真实听众形容为可怕，认为只有嗑药之后才能欣赏。这项研究旨在调查在线音乐播放服务如 Spotify、Pandora和CDBaby是否有欺骗检测机制。他的帐号目前已经被冻结。
+➜当操作系统控制CPU高速缓存
+https://www.solidot.org/story?sid=37040	25875
+<a target="_blank" href="http://zh.wikipedia.org/zh/CPU%E7%BC%93%E5%AD%98#.E7.A1.AC.E4.BB.B6.E5.AE.9E.E7.8E.B0"><u>CPU高速缓存</u></a>的用途相当于数字暂存区域，它是CPU的工作台，储存了需要随时访问的指令或处理的数据，其控制是直接硬连线到CPU的电路之中。随着CPU的核心越来越多，内存越来越大，仍然完全由CPU管理缓存似乎不再有意义。MIT计算机科学和人工智能实验室的助理教授<a href="http://people.csail.mit.edu/sanchez/">Daniel Sanchez</a>和研究生Nathan Beckmann 提出，可以<a target="_blank" href="http://spectrum.ieee.org/semiconductors/memory/software-controls-cache-memory-to-speed-cpus"><u>让操作系统分担高速缓存管理的负担</u></a>。他们的研究发现，CPU缓存管理交给软件之后，速度最多能提升一倍，能耗下降最多72%。这项新的技术被称为<a target="_blank" href="http://people.csail.mit.edu/sanchez/papers/2013.jigsaw.pact.pdf"><u>Jigsaw</u></a>（PDF）。索尼PS3使用的IBM Cell处理器就允许软件管理CPU缓存，游戏开发商曾对此有所抱怨。分析师谨慎的指出，他们的技术可能不具有普适性，不同的硬件可能会有不同效果，处理器发生改变软件需要跟着改。<br>
+➜思科宣布将发布H.264开源编解码器
+https://www.solidot.org/story?sid=37041	27359
+思科<a target="_blank" href="http://blogs.cisco.com/collaboration/open-source-h-264-removes-barriers-webrtc"><u>宣布</u></a>它计划在BSD下发布H.264视频编解码器源码，将在网上发布了一个二进制模块供免费下载使用。专利授权费由思科支付，第三方可免费下载和使用该二进制模块。根据思科和MPEG LA达成的专利授权，<span>WebRTC可以免费使用</span><span>H.264编解码器。Mozilla<a target="_blank" href="https://blog.mozilla.org/blog/2013/10/30/video-interoperability-on-the-web-gets-a-boost-from-ciscos-h-264-codec/"><u>宣布</u></a>将在Firefox中整合思科的二进制模块，同时表示会继续支持VP8编解码器。BSD许可证允许自由的修改和重发行代码，但思科强调二进制</span><span><span>H.264</span>库意味着，它与</span>MPEG LA达成的协议<a target="_blank" href="http://lwn.net/Articles/572205/"><u>可能只覆盖二进制版本</u></a>。
+➜HealthCare.gov的七宗罪
+https://www.solidot.org/story?sid=37042	29804
+奥巴马健保网站HealthCare.gov的问题严重到迫使总统本人<a target="_blank" href="http://www.voachinese.com/content/us-health-care-20131030/1780431.html"><u>表示</u></a>要全面承担整修网站的责任。但网站的问题究竟是什么原因造成的？Ars列出了HealthCare.gov的<a target="_blank" href="http://arstechnica.com/information-technology/2013/10/the-seven-deadly-sins-of-healthcare-gov/"><u>七宗罪</u></a>：项目由三大承包商(网站、中间件和数据中心托管)负责建设，每个承包商又有自己的承包商和交付计划，结构过度复杂；整个项目都依赖于Experian提供的数据，而无论是政府还是承包商都对数据质量没有发言权，数据出现问题会导致整个网站遭遇问题；从未经过时间检验的全新结构；需求不断变化，设计不断改变；由于需求直到上线最后一分钟还在改，导致网站根本无法进行全面的测试；不是逐步增加新特性，网站将全部功能一下子推出，由于没有办法在高负荷下测试网站的性能，政府无法根据测试结果扩建基础设施；网站没有有效的方法在多层组件中管理bug跟踪，没有方法识别问题的根源。
+➜天文学家发现酷似地球的热行星
+https://www.solidot.org/story?sid=37043	32359
+天文学家<a target="_blank" href="http://www.nature.com/news/exoplanet-is-built-like-earth-but-much-much-hotter-1.14058"><u>首次发现了</u></a>一颗大小和质量几乎与地球相同的太阳系外行星Kepler-78b，但它不位于宜居区，其表面温度可能高达3100K。Kepler-78b位于世家星座，距离地球400光年，其密度和地球相似，可能有着和地球一样的岩石表面和铁质核心。Kepler-78b质量大约为地球的1.69至1.86倍（两个不同团队根据不同数据的计算结果），它距离母星非常近，公转一周仅8.5小时，其表面温度大约为2300–3100K。<br>
+<br>
+➜台湾抗议苹果地图将其划入中国
+https://www.solidot.org/story?sid=37044	32605
+台湾外交部发言人高安31日<a target="_blank" href="http://www.scmpchinese.com/sc/china/15446/tai-wan-kang-yi-bei-ping-guo-di-tu-hua-ru-zhong-guo"><u>表示</u></a>，苹果已把其地图程序中的简体字“中国台湾省”修正为繁体字“台湾”。苹果台湾用户早前发现，即使把iOS 7的语言设置为繁体中文，苹果地图中的台湾依然是中国的一个省——而且还是用的简体字。高安表示，苹果软件出现不当称呼一事，外交部获知后已在第一时间令驻美旧金山市单位联络苹果公司，表达“严重关切与不满”，要求尽速更正。此事在台湾本地网络论坛里也饱受争议，台湾网友们猛烈抨击苹果给台湾贴上“中国省份”标签的行为是“统战 ​​​​”的一部分。许多台湾果粉表示被苹果误认成中国人而不是台湾人让他们很伤心，其中一部分则干脆声称不会再使用苹果提供的地图服务。
+➜Project Einstein项目试图发现天才的基因
+https://www.solidot.org/story?sid=37045	34691
+企业家Jonathan Rothberg和MIT物理学家Max Tegmark<a target="_blank" href="http://www.nature.com/news/root-of-maths-genius-sought-1.14050"><u>发起了Project Einstein项目</u></a>，从美国一流大学征募了400名数学家和理论物理学家，试图通过测序基因找到天才的秘密。中国深圳的华大基因也提出过类似的项目。但此类的研究都遭到了批评，一些人认为样本量太小而不可能产生任何有意义的结果。另一些人则会对研究的伦理问题表示了忧虑，担心会导致选择性流产或根据测序筛选体外受精胚胎。菲尔茨奖得主 Curtis McMullen受邀参与该项目，他予以了拒绝并提出了批评。Rothberg引用了爱因斯坦的话，“宇宙最难以理解之处就是它可以理解”，他说，“我很想找到能理解宇宙的基因。”
+➜LUX地下实验没有发现暗物质信号
+https://www.solidot.org/story?sid=37046	36256
+暗物质可能是最令人感到挫折的物质，宇宙85%的物质是暗物质，而我们只能通过引力效应到探测它们的存在，至今为止我们只知道它不是普通物质也不是中微子。现在，科学家再次报导了令人失望的消息：大型地下氙探测器（LUX）实验的美国物理学家称，首批探测数据<a target="_blank" href="http://www.nature.com/news/no-sign-of-dark-matter-in-underground-experiment-1.14057"><u>没有发现任何暗物质的信号</u></a>。LUX是目前建造的最灵敏暗物质探测器，利用超过300公斤液氙在1400米的地下深处，探测穿过地球偶然与氙核碰撞的暗物质粒子信号。
+➜中国姓氏的区域差异仍旧显著
+https://www.solidot.org/story?sid=37047	38751
+<div align="center"><img src="http://img.solidot.com.cn/0/762/liXyUP4F0HEYs.jpg" height="258" align="" width="280"><br>
+</div>
+在<a target="_blank" href="http://www.solidot.org/story?threshold=1&amp;mode=flat&amp;sid=36934"><u>制作了</u></a>百家姓的地理分布图之后，Andrew Stokols<a target="_blank" href="http://www.theatlantic.com/china/archive/2013/10/how-maps-unlock-the-mysteries-of-chinese-names/280983/"><u>注意到</u></a>中国姓氏在某些地方比其它地方更流行，而姓“高”是否真的身材更高？他发现，最流行的几大姓氏主要统治中国北方；孔姓在孔夫子的故乡山东最流行；黑龙江人的平均身高比贵州人高出6厘米——一个原因是北方人以麦为食而南方人以米为食，北方人多高于南方人；你可能会认为国内间的移民会推动姓氏的多元化，但分析显示，三大城市北京、上海和广州的移民主要来自附近省份，而不是全国各地。中国的地理界限和区域差异仍然非常明显，也许应了一句古话：一方水土养一方人。
+➜NSA局长否认非法，Google表示愤怒
+https://www.solidot.org/story?sid=37048	40747
+在《华盛顿邮报》<a target="_blank" href="http://www.solidot.org/story?sid=37037"><u>报告</u></a>NSA拦截Google和雅虎的数据中心之间的非加密数据链之后。Google对此表达了愤怒。而NSA局长Keith Alexander将军<a target="_blank" href="http://www.bbc.co.uk/news/world-us-canada-24751821"><u>对此评论称</u></a>，他们没有获得授权访问美国公司的服务器和获取数据，但他并没有对最新指控直接否认。《华盛顿邮报》引用Edward Snowden泄漏的文档称，NSA是通过其合作伙伴如英国情报总局（GCHQ），在美国之外拦截了数据中心之间的数据链，所以Alexander将军的回应不算说谎，但也称不上彻底清除嫌疑。Google法务总监 David Drummond表示，Google正逐步加密数据链。雅虎发言人则重申他们严格保护数据中心。
+➜Facebook测试屏幕跟踪软件
+https://www.solidot.org/story?sid=37049	42323
+《华尔街日报》<a target="_blank" href="http://blogs.wsj.com/digits/2013/10/30/facebook-considers-vast-increase-in-data-collection/"><u>报导</u></a>，Facebook正在测试能跟踪用户鼠标光标运动的软件，监视用户在手机上看新闻源（newsfeed）的频率。Facebook收集的数据如用户与内容互动的时间长度，光标在页面某一部分徘徊的时间长度，将可以作为筹码提高广告价格。这些数据可用于从产品开发到更精确的针对性广告。为了分析额外的数据，Facebook将利用一个定制版本的Hadoop。Facebook 不是第一家这么做的公司，营销公司Shutterstock也是利用Hadoop分布式文件系统分析用户在网站上的光标移动数据。
+➜黑客破解验钞机，能将纸验证为真钞
+https://www.solidot.org/story?sid=37050	44091
+如果间谍是世界上第二古老的职业，那么伪造将可以排在第三位。伪造货币和防伪之间的竞争已经持续了很长时间，今天的防伪技术依赖的是计算机和软件，和所有软件一样，它肯定存在缺陷。IOActive的研究人员逆向工程了一款流行的欧元纸币验钞机的固件，发现他们可以嵌入自己开发的固件，迫使机器将任何纸识别为真钞。<a target="_blank" href="http://it.slashdot.org/story/13/10/30/1645241/hackers-break-currency-validator-to-pass-any-paper-as-valid-euro"><u>这项研究意味着</u></a>，如果攻击者能物理接触验钞机并安装定制固件，将可以诱使该设备接受假钞。考虑到验钞机通常部署的地方，这种方法完全可行。
+➜Edward Snowden找到了工作：技术支持
+https://www.solidot.org/story?sid=37051	44951
+美联社<a target="_blank" href="http://www.scmp.com/news/hong-kong/article/1344649/report-snowden-gets-tech-support-job-russia"><u>报道</u></a>，目前在俄罗斯避难的前NSA合同工Edward Snowden已经在一家俄罗斯网站找到了技术支持的工作。Snowden的律师 Anatoly Kucherena透露，他的客户将从周五开始上班。他拒绝透露公司的名字，但表示它是一家大型俄罗斯网站。Snowden因为泄漏NSA的机密而遭到美国的间谍指控，俄罗斯在8月接受了他的临时避难申请。

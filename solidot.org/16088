@@ -1,0 +1,36 @@
+➜虚假来电：HTML5振动API的恶意使用
+https://www.solidot.org/story?sid=38067	11436
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "HTML5 将支持用户设备振动。这会是很有趣的事情，比如可以用户触发提醒，提升游戏体验，以及其他各种好玩的事情，例如通过振动发送摩斯代码。到目前为止，Chrome（以及其他Android浏览器）要使用位置信息、摄像头、地址簿等资源必须申请权限。这是一种安全措施，以防止个人信息未授权而泄露。不过现在使用HTML5振动API并不会在屏幕上触发警告。因为一般认为用这个功能几乎没有危害，毕竟在现实中它能干的坏事无非是持续消耗电量。事实就是这样简单吗？Terence Eden 最近在一篇<a href="http://shkspr.mobi/blog/2014/01/malicious-use-of-the-html5-vibrate-api/" target="_blank">文章</a>（<a href="http://blog.jobbole.com/55499/" target="_blank">中文</a>）展示通过振动API来伪造虚假来电。"</i>
+➜微软修复Windows XP更新进程资源占用问题
+https://www.solidot.org/story?sid=38068	18344
+微软<a target="_blank" href="http://redmondmag.com/articles/2014/01/16/windows-xp-resource-hog.aspx"><u>修复了</u></a>处理更新的svchost.exe进程资源占用问题。此前Windows XP用户发现，在操作系统启动之后svchost.exe进程占用了大量系统资源，导致系统在15分钟到1个小时之内无法使用。问题与更新进程检查历史补丁的算法有关，该算法处理时间会随着历史补丁数的积累而<a target="_blank" href="http://www.solidot.org/story?sid=37660"><u>呈指数级增长</u></a>。问题已经困扰了XP用户数年，微软的更新团队上个月发誓，将利用休假的时间去解决此问题。新发布的修正将关闭系统对IE更新的持续检查。
+➜科学家用卫星绘制中国空气污染图
+https://www.solidot.org/story?sid=38069	20664
+法国和比利时大气科学家在《<a target="_blank" href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291944-8007"><u>地球物理研究通讯</u></a>》上发表报告说，他们首次从太空<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2014/01/140117_china_pollution_space.shtml"><u>绘制了</u></a>中国北部的地面污染图。科学家使用安装在欧洲气象卫星上的红外线探测器，在2013年1月绘制了华北平原上空覆盖北京、天津和河北的二氧化碳、二氧化硫以及氨气的粒子流动图。法国国家太空研究中心（CNRS）说，科学家对这项技术的成功应用感到惊讶，但是这项成功测绘需要两个条件。首先，天气状况必须是“稳定的”，污染才能聚集在地表。其次，地表空气与高层空气之间要有较大温差，以便能够显现污染的热辐射。报告说，这项技术可能会为中国对付严重的雾霾提供帮助。
+➜中移动版iPhone首发日反响平淡
+https://www.solidot.org/story?sid=38070	21295
+世界最大的移动运营商本周五正式开始出售iPhone，尽管中国其它两大运营商联通和电信的iPhone 5s/5c已出售了几个月，移动版的iPhone价格基本没有补贴，消费者的热情不高并没有出乎人们的意料。与过去苹果产品在中国和其他国家开卖时人们沿街排长队的盛况不同，<a target="_blank" href="http://cn.nytimes.com/technology/20140118/c18apple/"><u>这次只有十几个消费者来到北京一家新开张的商店买iPhone</u></a>，尽管有一位特殊的客人、苹果CEO库克(Timothy D. Cook)来到了现场。库克这次来北京，是苹果对将iPhone引入拥有超过7.5亿用户的移动网络很重视的一种证明。通过中国移动销售iPhone5S和5C的协议是去年12月宣布的，谈判花了几年的时间。分析人士称，中国消费者在购买手机时很可能更看重手机的价格和功能、以及通话费用。苹果依然拥有粉丝，包括那些周五来北京这家商店的人。
+➜中国为什么要推出“中国操作系统COS”
+https://www.solidot.org/story?sid=38071	23182
+中科院软件研究所与上海联彤网络通讯技术有限公司联合发布了基于Linux的闭源操作系统<a target="_blank" href="http://www.china-cos.com/news/detail/news_id/18.html"><u>COS（China Operating System）</u></a>，闭源的理由是安全，按照Linux采用的GPL许可证要求，COS违反了条款，当然没人相信中国政府会严肃认真的对待软件许可证。在发布会上，中科院软件研究所所长李明树将这款新操作系统上升到国家安全的层面，他说，“棱镜门、Windows XP停止支持等事件的发生，操作系统已经上升到了关系国家安全的战略高度。此次发布的COS，意在打破国外在基础软件领域的垄断地位，引领并且开发具有中国自主知识产权和中国特色的操作系统。目前基于开源的操作系统在安全性上存在很多问题，无论是Ubuntu还是Android，都已经出现很多公开的安全缺陷，更有很多隐蔽的安全漏洞，随时可以控制个人设备，引发大面积的安全问题。此外，在强调人机交互的智能时代，基于开源的或者国外公司主导的操作系统普遍存在水土不服的情况，比如操作界面、输入法、语言识别、云服务稳定性、防骚扰、应用下载和支持等等方面，问题层出不穷。COS的出现试图同时解决安全性和易用性两方面的问题。 ”有推测<a target="_blank" href="http://tech.slashdot.org/story/14/01/17/194245/chinas-government-unveils-china-operating-system-to-great-skepticism"><u>认为</u></a>，中国只是利用NSA丑闻，推广自家的操作系统，而政府则可利用它能掌控的后门从事大规模监听活动。
+➜中国科学家首次拍摄到水分子内部结构
+https://www.solidot.org/story?sid=38072	25045
+<div align="center"><img src="http://img.solidot.com.cn/0/995/liL89KkLY83HI.jpg" align=""><br>
+<br>
+</div>
+中国科学家在水科学领域取得重大突破，在国际上<a target="_blank" href="http://www.nanzao.com/sc/features/19931/zhong-guo-shou-ci-pai-she-dao-shui-fen-zi-nei-bu-jie-gou"><u>首次实现了</u></a>水分子的亚分子级分辨成像，使在实空间中直接解析水的氢键网络构型成为可能。研究人员成功地把亚分子级分辨成像和操控技术应用到水科学领域，开创性地把扫描隧道显微镜的针尖作为顶栅极（top gate），以皮米的精度控制针尖与水分子的距离和耦合强度，调控水分子的轨道态密度在费米能级附近的分布，从而在NaCl(001)薄膜表面上获得了单个水分子和水团簇迄今为止最高分辨的轨道图像。
+➜Google宣布为糖尿病患者开发智能隐形眼镜
+https://www.solidot.org/story?sid=38073	32934
+Google官方博客<a target="_blank" href="http://googleblog.blogspot.com/2014/01/introducing-our-smart-contact-lens.html"><u>宣布</u></a>它正在为糖尿病患者开发监视血糖的产品：一款智能隐形眼镜。治疗糖尿病的一大难点是血糖水平会随着人的活动和食物摄入而发生变化，而目前的血糖检测方法会对给人造成不小的痛苦。Google指出，多年来科学家一直在寻找更简单的血糖检测方法，像测量体液如泪液，但眼泪的收集和研究也非易事。Google X实验室的智能隐形眼镜有望能帮助简化这个过程。隐形眼镜的两层软性材料中间，嵌入了一个无线芯片和一个微型葡萄糖检测仪，能用来检测泪液当中的葡萄糖水平。接受测试的产品原型可每秒生成一次数据。Google已经与美国食品和药品管理局(FDA)<a target="_blank" href="http://cn.wsj.com/gb/20140117/tec143729.asp"><u>进行了商谈</u></a>，表示要将这项技术发展成人们可以使用的系统，还有很多工作尚待完成。
+➜日本下月测试清扫太空垃圾的磁力网
+https://www.solidot.org/story?sid=38074	33908
+日本宇宙航空研究开发机构（JAXA）与渔具生产商日东制网株式会社（Nitto Seimo）合作制造磁力网，以清扫围绕地球轨道的太空垃圾。设备将搭载于日本香川大学研发的一个卫星上，计划2月下旬由火箭发射升空，<a target="_blank" href="http://www.nanzao.com/sc/lifestyle/19982/ri-ben-ce-shi-ci-li-wang-lao-tai-kong-la-ji"><u>进行首次测试</u></a>。卫星入轨后，将释放一张长约300米的金属网。金属网将产生磁场，理论上将能吸引一些漂浮在地球大气层外的太空垃圾。外太空需要彻底清理。有专家估计，围绕地球的太空垃圾碎片已多达1亿个。其中大约2.2万个碎片直径为10厘米或以上，被认为具有危险性。如果与卫星或国际空间站相撞，都可能导致灾难性后果。该公司开发团队总工程师尾崎浩司接受采访时表示，公司大约五年前开始这一项目。金属网展开后仅宽30厘米，由三根坚固柔韧的金属纤维制成。在太空停留约一年后，金属网及其收集的太空垃圾将逐渐向地面降落，到达大气层时将因大气摩擦生热而燃烧。
+➜美国政府准备拍卖扣押的丝绸之路比特币
+https://www.solidot.org/story?sid=38075	42775
+纽约南区检察长办公室发表<a target="_blank" href="http://www.justice.gov/usao/nys/pressreleases/January14/SilkRoadForfeiture.php"><u>声明</u></a>，宣布没收去年10月扣押的29,655丝绸之路比特币，这意味着政府可以自由处理这笔被扣押的比特币。根据目前的比特币汇率，该比特币钱包价值约为2500万美元，而扣押时价值不过400万美元。声明表示，丝绸之路网站和其拥有的比特币一起被没收。检察长办公室官员表示，政府<a target="_blank" href="http://www.forbes.com/sites/kashmirhill/2014/01/16/the-feds-are-ready-to-sell-the-silk-road-bitcoin-kind-of/"><u>将拍卖没收的比特币</u></a>，但拍卖时间尚未确定。目前FBI还扣押着丝绸之路站长Ross Ulbricht（aka Dread Pirate Roberts）超过14.4万的比特币。曼哈顿检察官Preet Bharara称，没收这些比特币不是因为它们是比特币，而是因为它们属于赃款；所有丝绸之路资产被没收是因为它们被用于洗钱。<br>
+➜中国建造第二艘航空母舰
+https://www.solidot.org/story?sid=38076	48132
+亲北京的香港《大公报》<a target="_blank" href="http://news.takungpao.com/military/exclusive/2014-01/2189584.html"><u>报道</u></a>(已经被删除)，辽宁省委书记王瑉在辽宁省人大会议上<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2014/01/140118_china_aircraft_carrier.shtml"><u>透露</u></a>，中国第二艘国产航空母舰正在大连造船厂建造；未来中国将有至少四艘航母。王瑉称这艘航母的工期预计为六年。王瑉还表示大连造船厂将负责建造两艘052D型导弹驱逐舰——该型号被称为“中华神盾级”驱逐舰，军事专家认为将成为中国海军舰队以后的主力。去年9月，中国国防部新闻发言人杨宇军上校称，海外媒体有关上海正在建造第二航母的报道不准确。12月底发言人耿雁生大校被再次问及此消息，他回答称没有新的信息提供。
+➜维基媒体考虑支持H.264，引发争议
+https://www.solidot.org/story?sid=38077	49435
+为了增加免费教育视频的数量，维基媒体基金会<a target="_blank" href="http://arstechnica.com/information-technology/2014/01/wikimedia-considers-supporting-h-264-to-boost-accessibility-content/"><u>考虑使用H.264</u></a>。<a target="_blank" href="http://zh.wikipedia.org/zh-cn/%E7%BB%B4%E5%9F%BA%E5%AA%92%E4%BD%93%E5%9F%BA%E9%87%91%E4%BC%9A"><u>维基媒体基金会</u></a>的使命是收集和开发全世界的知识，并将全部这些知识以维基方式免费提供给公众任意使用。根据基金会的指导原则，免费有两层意思，一层是零费用一层是无许可证限制。但最广泛使用的视频编解码器H.264虽然免费，但却有许可证和专利限制。维基媒体基金会的维基共享项目拥有超过1900万多媒体文件，但只有3.8万视频文件，这些视频文件使用Ogg Theora或WebM免专利编解码器压缩。相比之下，YouTube的教育视频超过650万。维基媒体基金会的多媒体团队<a target="_blank" href="https://commons.wikimedia.org/wiki/Commons:Requests_for_comment/MP4_Video"><u>认为</u></a>，不能使用H.264是教育视频匮乏的重要原因。今天的摄像机和智能手机产生的多数是H.264编码的视频，需要额外的工具才能将H.264视频转换到 WebM和Theora编解码的格式。多媒体团队还担心，使用WebM和Theora限制了视频的访问，因为大部分智能手机和平板浏览器不能播放WebM和Theora视频，而H.264则不存在这个问题。对于维基媒体基金会的计划，一半人表示反对，理由是H.264不是自由编解码器；另一半人表示支持，理由是H.264视频更容易制作和播放。

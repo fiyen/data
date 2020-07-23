@@ -1,0 +1,71 @@
+➜《建党伟业》票房折戟
+https://www.solidot.org/story?sid=25269	720
+三平不平 写道<i> "<a href="http://news.163.com/11/0730/23/7A8EG1GK00011229.html">《北京晨报》消息</a>，《建党伟业》上映一个半月后，票房未达到4亿，低于《建国大业》的4.2亿，更远低于导演韩三平预期的8亿。不过因为此片成本低廉，因此不到4亿的票房也“绝对赚钱了”。该电影<a href="http://www.imdb.com/title/tt1699513/">在IMDB的评分</a>仅为2.1分。暑期电影中，《功夫熊猫2》、《变形金刚3》展现了强劲的挖金实力。"</i>
+➜知名Python Web框架Django被墙
+https://www.solidot.org/story?sid=25270	3000
+xuby 写道 <i>"今天发现，知名Python Web框架Django的<a href="http://www.djangoproject.com/">官方网站</a>被墙。<br>
+目前尚不清楚是迎八一暂时屏蔽，还是永久屏蔽。"</i>
+北京联通ISP可以访问<a href="https://www.djangoproject.com/">Https版</a>
+➜Windows XP PC感染更多rootkit病毒
+https://www.solidot.org/story?sid=25271	3900
+杀毒软件公司Avast Software调查了超过60万Windows PC，发现在感染rootkit病毒的PC中，<a href="http://www.computerworld.com/s/article/9218722/Windows_XP_PCs_breed_rootkit_infections">Windows XP PC的比例与其市场份额不相称</a>。<i>
+十年历史的Windows XP在所有Windows PC中的使用比例为58%，但在所有感染rootkit病毒的PC中占了74%。Windows 7的使用比例为31%，而感染比例仅为12%。Avast称，在他们的调查中，三分之一的XP用户仍旧运行SP2或者早期版本，微软已在一年前停止支持XP SP2，不再更新安全补丁，唯一支持的XP版本是SP3。</i>
+➜黑客能打开监狱牢房门
+https://www.solidot.org/story?sid=25272	6120
+《连线》<a href="http://www.wired.com/threatlevel/2011/07/prison-plc-vulnerabilities/">报导</a>，研究人员发现，控制监狱牢门的PLC（可编程控制器）中的安全漏洞可让黑客释放出囚犯。<i>
+破坏伊朗核电站离心机的Stuxnet蠕虫是利用了工业控制系统中PLC的漏洞，而控制牢门的PLC存在类似的漏洞。安全顾问和工程师<a href="http://www.strauchs-llc.com/">John Strauchs</a>将在本周举行的DefCon 黑客会议上讨论和演示他的发现。Strauchs称，监狱使用PLC控制牢门和其它设施上的锁和门。他指出，许多人并不知道监狱是如何设计的，因此这个问题以前很少有人关注，他们不知道监狱使用了与离心机相同的PLC。PLC并不连接到互联网上，但控制PLC的电脑则可能联网。因此黑客可以通过感染病毒的U盘或对监狱工作人员的邮箱发送钓鱼攻击，控制电脑并进而控制PLC。Strauchs说，监狱的电子安全系统不仅仅控制门，还控制着对讲机、灯光控制、视频监控、水和淋浴，等等。<a href="http://www.wired.com/images_blogs/threatlevel/2011/07/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf">一旦控制了PLC</a>(PDF)后黑客可以为所欲为，他们可以破坏整个系统。</i>
+➜华尔街程序员如何得到高薪
+https://www.solidot.org/story?sid=25273	8700
+前高盛C++程序员Sergey Aleynikov跳槽到了高频交易系统（HFT）公司Teza Technologies，薪水从40万美元涨至120万美元。虽然他因为私自下载高盛HFT代码而被捕，但这次事件提供了罕见的机会去了解<a href="http://developers.slashdot.org/story/11/07/31/003239/How-and-Why-Wall-Street-Programmers-Earn-Top-Salaries">华尔街的高薪程序员</a>。<i>
+在华尔街金融交易市场，时间就是金钱。高频交易强调低延时和以纳秒毫秒计的高速交易，程序员们<a href="http://adtmag.com/articles/2011/07/29/why-hft-programmers-earn-top-salaries.aspx">需要什么样的技能</a>？HFT专家Matt Davey表示，低延时的要求凸显出了C/C++的重要性。一位HFT程序员称，大部分情况下他是用C++，但也用到Java、Lisp、Matlab、R、Fortran和JavaScript。另一位HFT程序员说，他们使用的工具和语言因企业而呈现差异，有的使用微软的.NET和C#，有的使用Java或C++，还有的使用<a href="http://caml.inria.fr/ocaml/">Ocaml</a>，或者是<a href="http://www.smalltalk.org/main/">Smalltalk</a>和函数语言<a href="http://www.haskell.org/haskellwiki/Haskell">Haskell</a>。至于操作系统，默认情况下是Linux。为了提高性能和加快交易，硬件加速和GPU编程如<a href="http://www.nvidia.com/object/cuda_home_new.html">Cuda</a>也日益流行。</i>
+➜加拿大鱼专家被政府封口
+https://www.solidot.org/story?sid=25274	12000
+一项鱼基因研究将加拿大政府鲜为人知的一面<a href="http://news.sciencemag.org/scienceinsider/2011/07/canadian-fish-scientist-muzzled-.html">暴露在聚光灯下</a>：加拿大渔业和海洋部禁止鱼专家Kristi Miller与媒体谈论她的红鲑鱼基因分析。<i>
+Miller的<a href="http://www.sciencemag.org/content/331/6014/214.full">论文</a>发表在《科学》期刊上，旨在找出加拿大西部弗雷泽河中红鲑创纪录死亡的原因。这是一个极富争议的政治话题。红鲑死亡的原因并不清楚，但Miller的基因研究在患病鱼体内识别出了一组异常高浓度的基因表达。她推测死亡原因可能是病毒感染。论文引起了关注，媒体希望采访Miller。作为政府的一位科学家，Miller在接受采访前需要得到渔业和海洋部（DFO）新闻媒体部门的允许。DFO拒绝了媒体采访，理由是她是调查红鲑死亡原因的专家组成员，将在8月出席调查委员会的听证会。其他科学家认为，政府此举形同封口。Miller在一封电子邮件中称，DFO科学主管不希望她参加任何非政府的红鲑会议，以防止疾病问题通过媒体的诠释后失控。
+</i>
+➜MPEG LA声称12家公司持有VP8专利
+https://www.solidot.org/story?sid=25275	18000
+管理H.264专利池的MPEG LA声称<a href="http://arstechnica.com/web/news/2011/07/mpeg-la-12-companies-own-patents-essential-to-googles-vp8-codec.ars">有12家公司</a>持有Google VP8编解码器的专利。该组织在2月发出了寻找VP8专利的<a href="__SLASHLINK__" sect="it" sid="11/02/12/0937252" sn="article" tid="26">公开呼吁</a>，6月与这些公司会面商讨组建一个VP8专利池，不过尚未作出决定。<i>
+MPEG LA没有披露这12家公司总共持有了多少专利，以及有多少专利递交到该组织进行评估。VP8编解码器是WebM的一部分，WebM是Google大力推广的免专利费视频格式，它被认为是H.264竞争对手。H.264的专利使用授权性质使其无法整合进HTML5的原生视频支持规格中。负责HTML5规格的W3C的政策规定不接受需要收取专利使用费的技术。
+</i>
+➜维基百科出现访问故障
+https://www.solidot.org/story?sid=25276	19920
+wmr 写道<i> "今日访问维基百科，遇到困难。使用代理后访问无碍。发现维基ip 208.80.152.2无法访问，而*.wikipedia.org域名未遭封锁。因此，可将hosts文件（windows为%SystemRoot%\System32\drivers\etc\hosts）加入91.198.174.232 en.wikipedia.org<br>91.198.174.232 zh.wikipedia.org访问维基。以后可能这些ip失效，删除这两行即可。"</i>
+有用户<a href="http://twitter.com/#!/msxcms/status/97888822418870273">称</a>，北方地区联通访问大量国外网站，直接从国际出口路由断开（<a href="http://ww4.sinaimg.cn/large/61b2e86djw1djpxz55ormj.jpg">图片</a>），目前原因尚不明确。已知受影响的美国机房包括 FDC、The Planet ，服务商 Dreamhost、Linode、DirectSpace。
+➜中国社交媒体的发展趋势
+https://www.solidot.org/story?sid=25277	21840
+如果政府阻止传播某些信息，社交媒体的行为会受到怎样的影响？惠普的计算机科学家<a href="http://www.technologyreview.com/blog/arxiv/27014/">认为</a>，新浪微博提供了了解中国社交媒体发展趋势的一个渠道。<a href="http://arxiv.org/abs/1107.3522">论文预印本</a>发表在arXiv.org上。<i>
+Twitter于2009年7月被屏蔽，一个月后新浪微博上线。今天的新浪微博已有1.4亿用户。惠普实验室对新浪微博和Twitter的内容进行了对比分析，<a href="http://blog.sina.com.cn/s/blog_5e13f6110102dqr3.html">研究发现</a>，政府对网络的控制使得中国和西方的微博用户行为存在相当大的差异。新浪微博的热门话题较多来自于娱乐类内容，而Twitter的热门话题则较多来自与时事相关的新闻类内容，而新浪微博的转发频次总体上要远远高于Twitter。排名前列的意见领袖中，新浪微博的意见领袖发表包含图片、视频和链接的微博内容所占比例非常大，而且这类微博很多都嵌入了视频或者提供视频链接；但Twitter意见领袖使用链接的微博数仅占17.6%，该对比再次说明了两个平台的热门话题在内容上的差异。新浪微博对热门话题的整体转发量约占62%，而Twitter转发仅占31%。新浪微博有两类用户，认证和未认证，新浪微博的Top 20只有3人是认证的，令人怀疑这些有重要影响力的用户的真实身份。</i>
+➜中国如何仿制国外技术
+https://www.solidot.org/story?sid=25278	23280
+技术在线的一篇文章评论了<a href="http://china.nikkeibp.com.cn/news/sino/57398-20110729.html?ref=ML">中国是如何仿制国外产品</a>。<i>
+中国温州动车事故引发了日本媒体一片中国高铁仿制品指责。日本的作者指出，中国的仿制品多只模仿了外表，而不了解技术依据。为了找到相关依据，企业需要反复讨论、假设、计算、试制、失败、检查、验证等。这些都是珍贵的技术情报。中国企业制造仿制品的基本方法是拆解日本厂商的产品，按照所看到的外观进行模仿。最近中国开始采取将部分部件换成新部件的“自主创新”做法，但此种做法导致了技术依据丧失，损害产品的可靠性及品质。他举例说，有家中国厂商将日本厂商使用的老式链条换成安静的正时皮带，然而日本厂商的技术人员是通过经验及试验结果充分掌握优缺点后才选择链条的，正时皮带虽然声音低，却经常会发生磨损和断裂的情况。
+</i>
+➜计算机为新婚夫妻主持婚礼
+https://www.solidot.org/story?sid=25279	24960
+<a href="http://miguelhanson.com/about/">Miguel Hanson</a>和未婚妻Diana Wesley由于找不到主持婚礼的牧师，因此决定自己创造一个牧师出来。上周六的婚礼是由<a href="http://www.nbcdfw.com/news/weird/Computer-to-Marry-Texas-Couple-126414383.html">一台计算机主持</a>，确切的说是Hanson编写的一个牧师程序主持。婚礼在Hanson父母家的后院举行，新婚夫妻站在一台30英寸的显示器前，计算机用机器人的声音欢迎来宾，然后按部就班的主持婚礼仪式。
+➜数学能预测反叛武装袭击
+https://www.solidot.org/story?sid=25280	27360
+残酷的战争似乎经常是随机发生的，但迈阿密大学的物理学家<a href="http://www.physics.miami.edu/~njohnson/">Neil Johnson</a>认为，阿富汗和伊拉克发生的武装袭击并非是随机的，而是可以预测的。他的团队已经开发出方程式预测战争<a href="http://www.npr.org/2011/07/31/138639711/math-can-predict-insurgent-attacks-physicist-says">将会在何时发生</a>。<i>
+Johnson和他的团队收集了公开的伊拉克和阿富汗军事伤亡数据。在用图表绘制出来后，他们发现数据遵循了某种特定数学模式。这种数学模式可以转译成可计算的方程式。例如，同一地区的两次袭击，将两次袭击的时间间隔输入到方程式中，它可以计算出下一次袭击将在多少天后发生。Johnson承认这只是猜测，但总比两眼一抹黑要强。方程式是基于反叛武装组织执行袭击的学习曲线，比如恐怖分子要埋炸弹，他需要多长时间才能从新手变成熟手。
+</i>
+➜Reddit的MS office皮肤
+https://www.solidot.org/story?sid=25281	28800
+星期一一般而言总比较难熬，休息两天后的办公室职员经常会出现注意力涣散。现在，有个工具可以帮助你集中注意力，不是工作而是上网冲浪，但不会被人发现，因为你在用MS office办公。一位Reddit用户使用javascript<a href="http://www.reddit.com/r/reddit.com/comments/j4xtk/for_all_you_redditors_going_to_work_tomorrow_i/">创建</a>了<a href="http://msworddit.com/">Reddit的MS office皮肤</a>(<a href="http://i.imgur.com/JcLQx.png">截图</a>)，界面类似MS office 2007，内容在文本区展示，可以直接打开图像和视频。
+➜空气污染影响香港招募人才
+https://www.solidot.org/story?sid=25282	29520
+香港的一项对200多家国际及本地公司的调查<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/08/110801_hk_pollution.shtml">显示</a>，有四分之三的被访者认为，空气污染问题令他们难以吸引及招募海外人才。另一份民意调查指出，四分之一的香港人曾经因为空气污染问题考虑移民。空气污染通常认为主要来自中国南方燃煤电厂，但香港本地的路边空气污染也是主要来源之一。香港空气污染指数今年一至三月有34%时间处于“甚高”，而去年同期则仅为11%。香港空气污染指数比伦敦及纽约超出三倍，甚至比世卫标准超出二至四倍。据香港大学分析<a href="http://hedleyindex.sph.hku.hk/tracker.php">卫星数据</a>，香港是全球空气质量排名第四差城市，仅次于广州、澳门与曼谷。
+➜LHC@Home 2.0创造虚拟粒子加速器
+https://www.solidot.org/story?sid=25283	34800
+Isgtw<a href="http://www.isgtw.org/feature/virtual-atom-smasher-lhchome-20">介绍</a>了CERN开发的网格项目<a href="http://lhcathome.web.cern.ch/LHCathome/Physics/">LHC@Home 2.0</a>，这个项目将让志愿者有机会参与搜索希格斯玻色子。<i>
+LHC@Home 2.0将用于多个研究项目，第一个项目<a href="http://mcplots-dev.cern.ch/?query=test4theory">Test4Theory</a>正处于alpha测试阶段，现有超过100名志愿者，提供了CERN理论物理学家需要的10%的计算资源。物理学家Peter Skands说，如果有1万人以上志愿者参与Test4Theory，将能真正产生实质性的效果。如果有4万人同时运行模拟器，那么将能创造出虚拟粒子加速器。</i>
+➜揭开水的秘密
+https://www.solidot.org/story?sid=25284	37920
+水是地球生命不可缺少的物质，人类身体大部分由水组成。然而，虽然我们天天喝水，但水还有许多秘密尚未揭开。例如，其它物质受冷会收缩，而水受冷变冰会膨胀。现在，MIT博士生<a href="https://sites.google.com/site/zhangyang324/">Yang Zhang</a>和他的团队在PNAS上发表了一篇论文，<a href="http://web.mit.edu/newsoffice/2011/heavy-water-0801.html">揭示了部分水的秘密</a>。<i>
+在一个<a href="http://www.youtube.com/watch?v=Bm0usEP8A10&amp;feature=player_embedded">视频</a>(Youtube)中，Yang Zhang演示了超冷水。一瓶普通的水在冰点以下存放一整夜，由于它一直保持静止，因此并没有冻结，原因是它缺乏形成结晶的成核中心。然后，猛烈摇动瓶子，水会在瞬间冻结起来。Yang Zhang说，水可能是地球上最怪异的物质，它的行为与其它物质大相径庭。二十年前提出的一项理论认为，水的奇特行为源于两种不同液体状态之间的转换，水分子排列的变化导致两种状态下水的密度出现差异。Yang Zhang和他的导师Sow-Hsin Chen教授合作的实验，观察了水在不同压力和温度下的分子结构，支持了液体到液体的转换理论。</i>
+➜代码审查中应该做的事
+https://www.solidot.org/story?sid=25285	39600
+<a href="http://www.vastwork.com/zh">威客</a> 写道 "Mark Chu-Carroll从Google离职后，虽然已经收到了很多offer，但还没有决定去哪里。他在其博客中分享了<a href="http://scientopia.org/blogs/goodmath/2011/07/06/things-everyone-should-do-code-review/">一些关于代码审查的趣事</a>(<a href="http://www.jobbole.com/entry.php/1171">中文</a>)。<i>Google确实是一家很酷的公司。不论是在公司内部或是外部，Google都做了很多让人赞叹的的事情。这里我想介绍一些不涉及商业机密，但鲜为外人所知的事情。Google的代码之所以优秀原因其实很简单：他们非常重视代码审查。代码审查并不是Google独有的，它被公认为是一个很好的（提高代码质量的）手段，很多人已经在日常开发中采用代码审查。但我还没有看到哪一家大公司（像Google这样）应用得如此广泛。在Google，任何的产品或者项目代码在检入（代码仓库）之前都需要进行有效的审查。每个人都要参与代码审查，而且这里我指的不是非正式的审查：它是软件开发环节中非常重要而且通用的规则。不仅是产品代码，所有的代码都需要进行审查。审查代码不需要投入很多的精力，但是（与不做审查相比）产生的效果却是天壤之别。"</i>
+➜智能手机冲击掌机，3DS降价
+https://www.solidot.org/story?sid=25286	40320
+任天堂上周<a href="http://games.slashdot.org/story/11/07/29/0443238/Nintendo-Slashes-Profit-Forecast-and-3DS-Price">表示</a>，截至6月30日的第一财季亏损377亿日元（3.28亿美元），宣布大幅下调盈利预期80%，从1100亿日元（14亿美元）降至200亿日元（2.57亿美元）；同时宣布下调3DS掌机价格，从250美元降至170美元，以前高价购买3DS的用户将获赠免费软件：10款NES游戏和10款GBA游戏。任天堂披露，该公司在三个月内只售出71万台3DS，低于前一季度360万台的销量。<a href="http://www.cn.wsj.com/gb/20110801/tec085851.asp">目前传统游戏产业正经历痛苦转型</a>。消费者更加青睐苹果的产品以及可以在线玩的廉价游戏，或是可以通过智能手机轻松获取并与朋友一同玩乐的游戏。

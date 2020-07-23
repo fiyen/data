@@ -1,0 +1,47 @@
+➜Linode继续受到攻击，重置所有用户密码
+https://www.solidot.org/story?sid=46776	10437
+虚拟主机托管商Linode自圣诞节以来一直<a target="_blank" href="http://status.linode.com/"><u>受到DDoS攻击</u></a>，在发现有用户登录凭证泄露之后，该公司<a target="_blank" href="https://blog.linode.com/2016/01/05/security-notification-and-linode-manager-password-reset/"><u>宣布重置所有用户密码</u></a>。Linode在中国无法访问，疑似是Linode屏蔽了中国IP。官方博客称，该公司对3个账号的未授权登录展开了安全调查，发现在一台外部机器上有两名用户的登录凭证，暗示攻击者可能入侵了它的数据库，访问了用户凭证。它的数据库包含了用户名、电子邮件地址、哈希加密密码和加密的二步认证seed。
+➜ACGSH：去中心化的资源发布方式
+https://www.solidot.org/story?sid=46777	11261
+<a href="http://buta.moe/">反竹川</a> 写道 <i>"去年12月25日，轻小说论坛“<a href="https://www.lightnovel.cn/forum.php" target="_blank">轻之国度</a>”<a href="http://www.chinanews.com/cul/2015/12-24/7685854.shtml" target="_blank">4名管理人员被逮捕</a>，随之动漫（Anime&nbsp;&amp;&nbsp;Manga）相关资源发布站点“<a href="http://share.popgo.org/" target="_blank">漫游BT</a>”宣布<a href="http://games.sina.com.cn/g/g/2015-12-24/fxmxxsp6849455.shtml" target="_blank">永久关闭</a>，“<a href="https://share.dmhy.org/" target="_blank">动漫花园</a>”屏蔽了来自中国大陆地区IP地址的访问，而此前圈内最大的“<a href="http://bt.ktxp.com/" target="_blank">极影KTXP</a>”已<a href="http://tech.sina.com.cn/i/2014-12-04/22499852540.shtml" target="_blank">中断服务达一年时间</a>，运营者拒绝透露详情。在版权代理商和审查的双重打压之下，过往集中式的资源发布站点已难以维系。<a href="https://plus.google.com/101726698049084671136/" target="_blank">iiiiuuuu</a>&nbsp;正在测试一种开源的去中心化的资源发布方式：ACGSH，该方案基于<a href="http://www.solidot.org/story?sid=37947" target="_blank">完全去中心化的点对点微博平台 Twister</a>，通过抓取符合一定格式的包含资源链接的推文来生成一个类似于传统BT发布页的网页。感兴趣的读者可以前往 <a href="https://bgm.tv/group/topic/312792" target="_blank">bangumi 原帖查看具体内容</a>。目前源代码已发布于<a href="https://github.com/acgshare/acgsh" target="_blank">Github</a>（<a href="https://acgsh.tk/" target="_blank">Demo页面</a>）。"</i>
+➜Twitter考虑放宽140字的限制
+https://www.solidot.org/story?sid=46778	11817
+科技媒体援引多个消息来源<a target="_blank" href="https://recode.net/2016/01/05/twitter-considering-10000-character-limit-for-tweets/"><u>报道</u></a>，Twitter正考虑放宽每个帖子140个字符的限制，将最大允许字数提高到1万个字符。微博客要变成博客了。在这之前，Twitter已经放宽了Direct Messages的字数限制，所以该公司此举并非出人意料。消息来源称，Twitter可能在第一季度末推出这项功能。Twitter将保留现有的140个字的展示方式，只有当用户点击某个tweet时才会展示更多内容。新的设计还没有最终敲定。
+➜朝鲜宣布成功进行氢弹试验
+https://www.solidot.org/story?sid=46779	13777
+<div align="center"><img src="http://img.solidot.org/0/335/li1tUSVdD14lQ.png" align=""><br>
+<br>
+</div>
+多个地震监测机构报告，北京时间上午9时30分01秒（UTC时间01:30），朝鲜咸镜北道吉州郡以北49公里处发生4.3级地震，震中靠近丰溪里核设施。USGS数据是<a target="_blank" href="http://earthquake.usgs.gov/earthquakes/eventpage/us10004bnm#general_summary"><u>M5.1</u></a>，中国地震台网测定为4.9级，震源深度为0公里。韩国气象厅认为可能是朝鲜进行核试验引发的。朝鲜刚刚证实它成功进行了地下氢弹试验。韩国政府<a target="_blank" href="http://chinese.yonhapnews.co.kr/allheadlines/2016/01/06/0200000000ACK20160106004300881.HTML"><u>已经启动</u></a>紧急工作机制。朝鲜已经进行过三次核试验，<a target="_blank" href="http://security.solidot.org/story?sid=33441&amp;threshold=0"><u>上一次</u></a>是在2012年2月12日。
+➜Windows纸牌作者回忆开发经历
+https://www.solidot.org/story?sid=46780	18470
+Windows操作系统自带的<a target="_blank" href="https://en.wikipedia.org/wiki/Microsoft_Solitaire?Wes%20Cherry">纸牌游戏</a>是历史上最常用的Windows程序之一，它的开发者Wes Cherry是微软的实习生，他没有从这款游戏上获得任何版税。<a target="_blank" href="https://www.reddit.com/r/todayilearned/comments/3zfadv/til_that_microsoft_solitaire_was_developed_by_a/"><u>他回忆说</u></a>，1988年夏天他在微软实习，用自己的空闲时间为Windows 2.1开发了纸牌游戏，他在Mac电脑上玩过类似的纸牌游戏，称自己的代码并不出色，做的比较好的地方是牌的流畅拖曳。Windows团队的一名项目经理看到他的作品后决定将其加入到Windows 3中。微软除了提供一台 IBM XT外什么钱也没付，他至今对此并不感到后悔。他现在不做程序员，<a target="_blank" href="http://www.dragonsheadcider.com/"><u>而是酿苹果酒为生</u></a>，除了给苹果酒酿造设备的嵌入式控制器写一些 C/C++代码外他不再写程序了。
+➜减肥能逆转脂肪肝
+https://www.solidot.org/story?sid=46781	25391
+体检时很多人都被检查出有轻度中度的脂肪肝，这种疾病与肥胖的流行密切相关。目前尚没有治疗的药物，因此大多数医师建议患者改变生活方式，譬如通过节食和锻炼来减轻体重，以改善预后。脂肪肝如果不能得到控制，就会导致肝脏衰竭。去年8月发表的<a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25865049">一项研究</a>中，科学家招募了293名患者，研究了他们在执行锻炼和节食方案一年后的变化。所有患者均患有晚期脂肪肝，肝脏伤痕累累，还存在炎症，这种情况称为非酒精性脂肪性肝炎(NASH)。研究人员报告，在体重至少减轻10%的患者中，“90%出现NASH缓解，45%出现肝纤维化逆转”或瘢痕形成。科学家的结论是：<a target="_blank" href="http://cn.nytstyle.com/living/20160104/t04twell-liver/"><u>减肥越多改善越大</u></a>。<br>
+➜Debian项目长文悼念Ian Murdock
+https://www.solidot.org/story?sid=46782	26998
+Debian项目发表了<a target="_blank" href="https://www.debian.org/News/2016/20160105"><u>一篇长文</u></a>，悼念去年12月去世的创始人Ian Murdock，称Debian项目不是Ian唯一的遗产，但可能是他最为人熟悉的遗产。文章回顾了Ian Murdock创建Debian的历史，以及他为项目设定的原则。Debian在软件自由上的坚定立场，至今仍然是自由开源软件世界的黄金标准。Ian在1993年8月发起Debian项目，他一直领导该项目至1996年3月，当时他任命 Bruce
+Perens作为项目的下一任领导人。他的家人要求隐私，Debian尊重他们的要求，所有想要哀悼他的人可以发邮件到 <a href="mailto:in-memoriam-ian@debian.org">in-memoriam-ian@debian.org</a>，到一月底Debian会将邮件存档寄给他的家人，如果他的家人同意邮件内容将会公开。
+➜华为手机2015年发货量突破1亿
+https://www.solidot.org/story?sid=46783	29123
+华为周三<a target="_blank" href="http://cn.reuters.com/article/huawei-mobile-shipment-idCNKBS0UK0CC20160106"><u>宣布</u></a>，2015年全年的智能手机发货量同比升44%，成为中国第一个年发货量过亿的智能手机厂商。去年全年，华为智能手机发货量达到1.08亿部，即每秒钟就发货三部手机。以销售量计，华为为全球第三大手机制造商，次于三星和苹果。GFK于2015年9月的资料报告显示，华为的全球智能手机市场份额为9.7%。在部分西欧发达国家，华为在400-500欧元档次的高端智能手机市场份额有了重大突破，在西班牙、意大利、比利时、瑞士、葡萄牙等多个国家和地区市场份额排名前三；在拉美、东北欧、中东、非洲等地2015年智能手机销售业绩表现优异，部分地区发货量突破千万台，同比增长迅猛。
+➜Syfy的《无垠的太空》是近年来最出色的科幻剧
+https://www.solidot.org/story?sid=46784	31084
+在几百年后的遥远未来，人类殖民了太阳系。地球的居民生活在高重力环境下，而火星尤其是小行星谷神星的居民则生活在低重力环境下，他们已经难以适应高重力环境，很多人认为他们已经与地球上的人类不同。地球、火星，以及火星和谷神星之间都存在紧张关系。在这一背景下，一名警察被派去调查一富有家庭的失踪女孩Julie Mao，发现她消失前在飞船Scopuli上；而货船坎特伯雷号的一名官员/代理大副带领一支小队回应来自飞船Scopuli的求救信号，结果目睹了一艘隐形飞船突然现身，发射核弹摧毁了坎特伯雷号。这是《<a target="_blank" href="http://www.syfy.com/theexpanse/episodes"><u>无垠的太空</u></a>》故事的开场，从已经上映的四集来看，它是近年来<a target="_blank" href="http://arstechnica.com/the-multiverse/2016/01/the-expanse-is-the-best-new-science-fiction-series-in-years/"><u>最出色的科幻剧</u></a>。令人想起经典的科幻剧如
+《太空堡垒卡拉狄加》和《萤火虫》。Syfy已经订购了第二季，至少它不会像《萤火虫》那样夭折了。
+➜MIT和Adobe创建算法优化旧代码利用现代硬件的新功能
+https://www.solidot.org/story?sid=46785	33357
+大型商业闭源软件Photoshop的开发商Adobe发现，随着源代码日益庞大，优化软件特性以利用CPU和GPU的最新功能变得日益困难。它开始寻找优化代码的<a target="_blank" href="http://news.softpedia.com/news/adobe-and-mit-create-algorithm-to-optimizes-old-source-code-for-modern-hardware-specs-498391.shtml"><u>替代方案</u></a>。Adobe和MIT启动了<a target="_blank" href="http://projects.csail.mit.edu/helium/"><u>Project Helium</u></a>，一种源代码分析的工具，能根据规则集，为新的硬件规格和功能优化代码，甚至可以重写和重编译代码。目前Project Helium处于概念验证阶段，只被用于测试。在Adobe的测试中，Project Helium将图像过滤器的处理速度提高了75%。Adobe和 MIT的研究人员称，在理论上Project Helium可用于任何类型的代码。
+➜丰田拥有1400项自主驾驶汽车专利，超过其它公司
+https://www.solidot.org/story?sid=46786	34694
+根据汤姆森路透的<a target="_blank" href="http://stateofinnovation.thomsonreuters.com/self-driving-innovation-2016#"><u>自主驾驶汽车创新报告</u></a>（需要注册），日本丰田汽车公司过去几年申请了大量自主驾驶汽车专利，它的1400项自主驾驶汽车专利是其它汽车制造商的两倍。Google母公司Alphabet持有的自主驾驶汽车专利相对来说非常少，在汤姆森路透的名单上<a target="_blank" href="http://www.reuters.com/article/us-tech-ces-autos-idUSKBN0UJ1UD20160105?feedType=RSS&amp;feedName=technologyNews"><u>排在第26位</u></a>。名单最前列的除了丰田，还有德国的博世公司（Robert Bosch GmbH），日本电装公司，韩国现代汽车，以及美国通用汽车。报告说，专利的质量也很重要，数量并不代表质量。
+➜郑州补贴富士康8千万
+https://www.solidot.org/story?sid=46787	35783
+郑州市政府向世界最大的代工厂富士康/鸿海补贴了8190万失业保险稳岗金。政府发表的公告称，该补贴项目旨在帮助企业在新常态下稳定职工队伍。富士康在中国有超过100万工人，其中郑州工厂有约20万，主要生产iPhone。失业保险稳岗补贴是为了避免公司大规模裁员。富士康在声明中称，郑州政府提供补贴是对富士康郑州厂区在2015年保住大量就业岗位贡献的认可。新款iPhone销量不如预期，《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20160106/tec122322.asp"><u>援引知情人士的消息报道</u></a>，政府提供补贴之前，富士康在春节前开始提前让一些工人放假。
+➜为什么隐私重要
+https://www.solidot.org/story?sid=46789	41789
+政府正在侵犯你的隐私，但一些人对此不以为然，理由是“我没有什么好隐藏”的。但你是否“没有什么好隐藏”是无关紧要的。<a target="_blank" href="http://www.robindoherty.com/2016/01/06/nothing-to-hide.html"><u>隐私是个人的一种权利</u></a>，是言论自由、结社自由和集会自由的基础，而它们对于一个自由民主社会是必不可少的。失去隐私将会导致失去自由。你的言论自由受到对互联网使用的监视的威胁，知道自己正在被监视或会使你减少对特定主题的关注，你会失去别的观点，你的思想会被推到一个方向。如果你的在线发言和私下聊天都受到监视，你会进行自我审查。导致的结果是其他人将会不知道你的观点，进一步发展观点的想法也就被扼杀了。你的结社自由和集会自由也都受到对在线通信和电话通信的监视的威胁，这些自由正受到侵蚀，其影响将会日益恶化，越来越多的人将会感受到寒蝉效应。
+➜微软对部分IE版本发出将终止支持的警告
+https://www.solidot.org/story?sid=46790	44198
+微软对IE 8、9和10发出了即将<a target="_blank" href="https://support.microsoft.com/en-us/kb/3123303?sd=rss&amp;spid=14019"><u>终止支持</u></a>的通知，这意味着这些版本在过了终止支持期后将不会再得到安全更新。当然终止支持并不阻止用户继续使用不再安全的旧版本浏览器，比如Windows XP用户可能还在用IE6。微软将在1月12日向IE 8、9和10用户推送补丁，<a target="_blank" href="http://thenextweb.com/microsoft/2016/01/05/web-developers-rejoice-internet-explorer-8-9-and-10-die-on-tuesday/"><u>提醒</u></a>他们升级到新版浏览器，不想看到升级通知的用户可以修改注册表关闭通知。

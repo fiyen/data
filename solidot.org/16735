@@ -1,0 +1,69 @@
+➜如何真正关闭 Google 的“安全搜索”功能
+https://www.solidot.org/story?sid=45938	5625
+<a href="http://buta.moe/">反竹川</a> 写道 "一直以来，Google 的安全搜索（SafeSearch）被很多学校和公司的管理人员用作提升成员生产力的手段，可以有效避免搜索结果中出现冒犯特定族群、伤害特定年龄层心理健康的相关内容。原本的安全搜索提供了三个级别的选项：Strict（严格）、Moderate（适中）和 Off（关闭）。然而，<a href="https://googlesystem.blogspot.com.au/2012/12/new-safesearch-settings-for-google.html" target="_blank">在2012年底的一次首页改版后</a>，原本的三级选项变成了一个“Filter explicit results”（过滤过于露骨的搜索结果）的单选框，而即便取消该选项也仅会呈现出过往“适中”程度的过滤内容。这一更改仅会影响图像搜索的结果。近期于 reddit/Google&nbsp;讨论板上的<a href="https://www.reddit.com/r/google/comments/3q08r9/google_has_a_hidden_safe_search_filter_which_you/" target="_blank">一篇文章</a>给出了这一长期困扰特定性别人士问题的解决方法。<i>
+</i>
+<p><i>一般而言，在搜索结果呈现页面的网址后加入“&amp;safe=off”可以暂时关闭 SafeSearch 功能，但 Google 也预留将其固定于账户设置之中的后门。在（非中国大陆版）Google 下打开&nbsp;Search Settings（搜索设置），定位到 Turn on/off SafeSearch 单选框后打开浏览器的&nbsp;Inspect Element （检查元素，现代浏览器都含有这一功能），可以看到在单选框底下有一个隐藏的“safeui”元素，将其中的 value="images" 或 “on” 这一项改为 off 即可。最后保存。
+"</i></p>
+➜扎克伯格明确入华目标
+https://www.solidot.org/story?sid=45939	9982
+扎克伯格(Mark Zuckerberg)知道怎样取悦中国用户：他上周周末<a target="_blank" href="https://www.facebook.com/zuck/videos/10102438940151181/"><u>在北京清华大学的演讲</u></a>中，充满了对中国历史的颂扬之词。扎克伯格对他的清华听众说，他的公司已经克服了有关公司国际扩展能力的怀疑。“有人说：可能它在美国有用，但它不会在其他国家有用，可是我们还是继续。扩大到世界其他国家。”包括Facebook、Twitter和YouTube在内的互联网公司自2009年起在中国被屏蔽。这些公司都渴望能进入中国，尽管中国有无所不及的审查制度，但这里的互联网用户一直在大幅增长。<a target="_blank" href="http://cn.nytimes.com/technology/20151027/c27zuckerberg/"><u>扎克伯格表示</u></a>，公司的真正目标是连接世界上的每个人。在这个20分钟演讲的中间，扎克伯格引用了一句中国老话来暗示，Facebook将在挑战面前继续努力。“中国有一句话我觉得很好：‘只要功夫深，铁杵磨成针’，”他说，“（只要你）一直努力，你会改变世界。”把公司的产品和服务引入中国，几乎可以肯定地意味着，Facebook将不得不以某种方式与中国政府或一个中国企业伙伴合作，来审查其中国用户在网站上发的东西。
+➜中法太空望远镜项目选择了一个模仿龙虾的光学镜片
+https://www.solidot.org/story?sid=45940	13673
+<div align="center"><img src="http://img.solidot.com.cn/0/119/liUCsLMrPvyGs.jpg" align="" height="240" width="400"><br>
+<br>
+</div>
+中法合作的太空望远镜项目Space Variable Objects Monitor（简写SVOM）挑选了一家承包商CNES去<a target="_blank" href="http://phys.org/news/2015-10-lobster-inspired-38m-super-lightweight-mirror.html"><u>制造一种新型的X射线聚焦光学镜片</u></a>。SVOM计划在2021年发射，主要任务是定位巨型恒星死亡产生的伽玛射线暴。镜片由英国莱斯特大学科学家研制，其设计受到了龙虾和其它类似动物的启发，龙虾的眼睛使用了反射镜去聚焦光。传统的望远镜X射线镜片由固态玻璃和金属构成，重达数十公斤，新型的“龙虾”X射线镜片仅仅重1公斤，更容易发射到太空轨道。
+➜中国商品印度制造出口美国
+https://www.solidot.org/story?sid=45941	15918
+大红色的填充玩具Elmo堆的到处都是。有些还在缝制，有些电池需要检查，有些正在被打包装入整整齐齐的小盒子。Elmo是中国公司制造、用于出口美国市场的。不寻常的是，这家工厂并不在中国，<a target="_blank" href="http://www.bbc.com/ukchina/simp/fooc/2015/10/151026_fooc_chinese_firms_in_india"><u>而是位于印度南部的安得拉邦</u></a>。斯里城（Sri City）工业区内共有100多家公司，其中许多来自中国，生产Elmo的只是其中之一。他们受“印度制造”宣传攻势的诱惑、到安得拉邦投资办厂。印度总理莫迪一年前发起声势浩大的“印度制造”运动，力争将印度打造为全球制造业基地。其中一项举措就是，印度政将用物质奖励吸引外国公司来设厂。工业区虽然位于偏远的农村，但是招工却并不难。附近村子至少有20万可雇用的年轻人。制造业巨头富士康以生产苹果手机著名、目前在中国雇员超过100万人。印度各个方面的吸引力已经说服富士康向印度投资200亿美元、建立至少10家工厂。不到一年前，富士康开始在这里为一些中国品牌组装产品，其中包括小米。过去一年间，除了小米以外，一加、联想、金立、华硕也相继宣布，计划在“印度制造”。尽管大批廉价劳动力吸引着中国公司到印度来，一些中国公司也表示，印度政府需要简化官僚繁文缛节。
+➜工作在-70 °C的超导材料
+https://www.solidot.org/story?sid=45942	19130
+Max Planck化学研究所的Mikhail Eremets及其同事去年宣布，他们发现硫化氢（ H2S）在-70 °C时会变成超导（需要<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=45213"><u>额外条件</u></a>），这是至今最高超导温度记录。他们的论文发表在今年8月的《自然》期刊上。10月18日，意大利的两位研究人员在预印本网站发表<a target="_blank" href="http://arxiv.org/abs/1510.05264"><u>论文</u></a>，评估了 Eremets等人的工作，并尝试从理论上对其工作原理进行解释。<span>Eremets的研究再度激发了新的超导研究热，科学家正在竞争发现<a target="_blank" href="http://www.technologyreview.com/view/542856/the-superconductor-that-works-at-earth-temperature/"><u>能工作在更高温度下的超导材料</u></a>，其中一个候选是 H3S。 </span>
+➜利用HSTS和CSP嗅探浏览器历史
+https://www.solidot.org/story?sid=45943	27309
+HTTPS Everywhere和Let's Encrypt项目的开发者Yan Zhu在上周末举行的 ToorCon 2015大会上介绍了一种滥用HSTS（HTTP Strict Transport Security）和内容安全策略（CSP）嗅探浏览器历史的时序攻击方法Sniffly（<a target="_blank" href="https://zyan.scripts.mit.edu/presentations/toorcon2015.pdf"><u>幻灯片</u></a>、<a target="_blank" href="http://zyan.scripts.mit.edu/sniffly/"><u>演示</u></a>、<a target="_blank" href="https://github.com/diracdeltas/sniffly"><u>源代码</u></a>）。Sniffly允许任意网站嗅探浏览器历史：<i>当用户访问一个嵌入Sniffly代码的网页，它会试图通过HTTP加载来自HSTS域名的图像，Sniffly将一个CSP策略设置为限制图像通过HTTP，这意味着在重定向到HTTPS前图像源被封锁了。当图像被CSP屏蔽，它会调用处理程序onerror，onerror会先尝试计算图像从HTTP重定向到HTTPS所需的时间。如果时间是在毫秒内，那么这意味着浏览器不需要发出网络请求，也就是用户以前访问过目标域名。如果时间是100毫秒左右，那么这意味着浏览器需要发出网络请求，也就是用户以前没有访问过目标域名。她的演示适用于Firefox和Chrome。</i>
+➜穷人的反监听设备
+https://www.solidot.org/story?sid=45944	29407
+最近的一则新闻是，有人在装修时发现电源插座内安装了监听设备。你也许好奇，你住的地方有没有这类的东西？显然，如果你不是什么重要目标，应该不会发现。而要发现专业的间谍工具，一种方法是使用非线性结型探测器。国内有很多公司出售（可以搜索淘宝），但价格不菲，几千可能有，多数需要几万几十万，穷人买不起。NCC group NA的安全顾问Ryan Gibson在 ToorCon 2015大会上介绍了一种<a target="_blank" href="http://sandiego.toorcon.net/conference/#19"><u>穷人的反监听设备</u></a>，将廉价的软件定义无线电、过滤器、放大器和定制天线变成穷人的非线性结型探测器。
+➜新顶级域名是为了敛财，ICANN被指已腐化
+https://www.solidot.org/story?sid=45946	33592
+流行DNS软件BIND的设计者Paul Vixie博士<a target="_blank" href="http://www.zdnet.com/article/new-top-level-domains-a-money-grab-and-a-mistake-paul-vixie/"><u>抨击了互联网域名管理机构ICANN</u></a>。
+他认为，ICANN推出数百个新的通用顶级域名（gTLD）是敛财和错误之举。他说，ICANN在功能上说是监管者，但它却被监管的对象控制了。他认为终端用户并不需要gTLD。新域名的要求来自于那些有钱能派人参加ICANN会议的域名注册机构。它们想要出售更多的域名，赚更多的钱。ICANN是一家注册在加州的501(c)(3)非赢利机构，它的工作是服务于大众，而不是企业。他认为迹象显示ICANN被腐化了。
+➜传广电总局再次下令整顿互联网电视
+https://www.solidot.org/story?sid=45947	35272
+社交媒体（国有媒体没有报道）上<a target="_blank" href="http://chinadigitaltimes.net/chinese/2015/10/%E6%B3%95%E6%B2%BB%E4%BC%A0%E5%AA%92-%E5%85%AC%E5%AE%89%E9%83%A8%E3%80%81%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E7%AD%89%E5%9B%9B%E9%83%A8%E9%97%A8%E8%81%94%E5%90%88%E6%89%93%E5%87%BB%E8%BF%9D/"><u>流传</u></a>，最高法院、最高检察院、公安部和广电总局联合下发通知，再次下令整顿互联网电视。运行Android系统的电视盒子允许用户安装各种视频应用在电视上浏览网络视频，其中可能包含允许用户浏览不受政府控制的内容。通知称，“<i>生产、销售、安装非法电视网络接收设备违法犯罪活动，特别是利用非法电视网络接收设备实施传播淫秽色情节目、危害国家安全等违法犯罪活动，严重扰乱社会治安秩序，严重危害国家安全。各级公安、检察、审判机关和新闻出版广电行政主管部门要从维护国家安全和社会治安秩序的大局出发，充分认识非法电视网络接收设备违法犯罪活动的严重危害性，增强工作的责任感和紧迫感，加强组织领导，充分发挥职能作用，依法严厉打击非法电视网络接收设备违法犯罪活动，坚决遏制非法电视网络接收设备违法犯罪活动上升、蔓延的势头，确保社会治安秩序良好。”</i>
+浪潮的一篇<a target="_blank" href="http://server.it168.com/a2015/1026/1771/000001771663.shtml"><u>新闻稿</u></a>描述了广电总局是如何监管互联网电视的（不清楚是否为真）：广电总局的一项重要工作是对全国电视节目、互联网等信息网络视听节目、新媒体视听节目、全国无线广播节目进行监听、监看，其技术手段是通过通过网络爬虫搜索技术对各大网站、论坛、微博、APP等传播平台进行搜索，通过内容比对判断违规信息。
+➜研究称每年有18.4万人死于含糖饮料
+https://www.solidot.org/story?sid=45948	38569
+发表在《Circulation》上的一项分析<a target="_blank" href="http://circ.ahajournals.org/content/early/2015/06/25/CIRCULATIONAHA.114.010636.abstract"><u>发现</u></a>，全球每年因饮用含糖饮料而导致的死亡约达<a target="_blank" href="http://cn.nytstyle.com/health/20151026/t26sugary/"><u>18.4万例</u></a>。科学家检索了关于摄入含糖饮料对身体质量指数(B.M.I.)和II型糖尿病的影响，以及B.M.I.对心血管疾病、糖尿病和癌症的影响的数十项膳食调查和大规模前瞻性研究，汇总了其中的数据。他们使用的有关含糖饮料消费的数据来自62项全国性膳食调查，涉及在1980年至2010年间接受调查的51个国家的超过60万人。他们估计，在世界范围内，含糖饮料导致13.3万人死于糖尿病，4.5万人死于心血管疾病，6450人死于癌症。论文作者称，人们完全没必要喝含糖饮料。
+➜简道云创业者FAQ问答
+https://www.solidot.org/story?sid=45949	42149
+这是我们的第一个创业者FAQ问答，很高兴邀请到<a target="_blank" href="https://www.jiandaoyun.com"><u>简道云公司</u></a>。简道云从事的是软件即服务（SaaS），为企业提供自定义数据搜集与管理协作的工具。对于他们创业的经历和挑战，你可以自由提问，但请勿离题，我们将会精选出几个问题请他们回答。
+<p></p>
+<!--more-->
+<p></p>
+简道云简介：
+<br>
+<br>
+<div><b>一句话说明我们是做什么的？</b></div>
+<div>为企业提供自定义数据搜集与管理协作的工具。</div>
+<div><b>产品目前是什么样的？</b></div>
+<div>SAAS的形式。 在线表单+在线报表。表单是用来搜集数据的，报表用来把搜集到是数据做展示与管理（运算，分析，协作）。</div>
+<div><b>为什么我们能够做成这件事？（虽然现在还没盈利）</b></div>
+<div>1）在SAAS不火的时候，我们做了十年的私有云数据分析软件。（www.finereport.com www.finebi.com)</div>
+<div>有非常深厚的数据软件开发经验，这个是一般的公司无法企及的；</div>
+<div>2）公司现在年营业额七八千万；现金流很好；简道云与那些需要靠融资来活着的SAAS不同，我们花自己的钱，并且现金流很稳定；</div>
+<div><b>公司叫什么？公司是什么样的？</b></div>
+<div>帆软软件-国内最大的报表软件厂商。</div>
+<div><b>简道云有什么给力的合作伙伴？</b></div>
+<div>微信企业号（腾讯）+钉钉（阿里）</div>
+<div>我们是微信企业号三十家核心合伙伙伴之一。钉钉邀请我们把简道云集成到钉钉中。</div>
+➜八家中国企业试点社会信用系统
+https://www.solidot.org/story?sid=45950	42525
+BBC<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2015/10/151027_china_social_credit"><u>报道了</u></a>正在筹建中社会信用体系。中国政府正组建一套全能的“社会信用”系统来评估个人信用。这个信用数据库将在2020年建成，它将涵盖个人财政和政府信息，其中甚至包括小型的交通事故信息。现在中国政府正让8家信用评级公司做试点的“社会信用”评分。其中最知名的当属中国阿里巴巴公司旗下的芝麻信用。但芝麻信用却不愿透露其信用评估方法，只说它的计算方法“很复杂”。芝麻信用也拒绝了BBC的采访，称如果跟外媒“过从甚密”，政府可能会拒绝给芝麻信用颁发永久的信用评估许可。
+➜美国法官称人们有权击落侵犯隐私的无人机
+https://www.solidot.org/story?sid=45951	43990
+今年7月，肯塔基州的William H. Meridet用枪击落了一架配有摄像头的无人机，他称开枪是为了捍卫自己的隐私权，<a target="_blank" href="http://www.solidot.org/story?sid=44948"><u>他遭到了警方的逮捕</u></a>。逮捕的主要原因不是破坏无人机，而是违反了禁止在市内开枪的规定。本周一下午的法庭听证会上，地区法院法官<a target="_blank" href="http://www.wdrb.com/story/30354128/judge-dismisses-charges-for-man-who-shot-down-drone"><u>驳回了</u></a>所有对William Merideth的指控。法官Rebecca Ward说，至少有两位证人作证看到无人机飞行高度低于树木线，这是对隐私的侵犯，他有权击落这架无人机。
+➜研究称无证据显示一夫多妻有害
+https://www.solidot.org/story?sid=45952	45424
+根据PNAS上发表的一项<a target="_blank" href="http://www.pnas.org/content/early/2015/10/21/1507151112"><u>最新研究</u></a>，研究人员称无证据显示一夫多妻对女性和儿童有害。他们比较了坦桑尼亚北部56个村庄的一夫多妻和一夫一妻制家庭。当比较单个村庄内的家庭的时候，一夫多妻的家庭，至少是那些由男性领导的家庭，常常有更高的食物保障度和更好的子女健康。一夫多妻的家庭比一夫一妻的家庭还拥有更多的牲畜，种植的土地也更多。这些发现符合理论模型，即当女性依赖于男性获取资源的时候，一夫多妻可能出于女性的战略利益。研究人员<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-10/aaft-pfs102315.php"><u>提出</u></a>，在男性财富有大的差异的地方，禁止一夫多妻制可能通过限制女性的婚姻选项而对女性不利。

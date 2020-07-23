@@ -1,0 +1,54 @@
+➜《PHD漫画大电影》上线
+https://www.solidot.org/story?sid=29278	5040
+改编自华裔漫画家Jorge Cham的网络漫画“<a href="http://www.phdcomics.com/">Piled Higher and Deeper (PHD) Comics</a>”的电影《<a href="http://phdmovie.com/">PHD漫画大电影</a>》正式上线，付费浏览，10美元可不限次数在线播放，15美元包含数字版下载，DVD价格17美元。<a href="http://en.wikipedia.org/wiki/Jorge_Cham">Jorge Cham</a>是1997年在斯坦福读研究生时开始连载PHD漫画。漫画的主角是研究生，如“无名英雄”、Cecilia 、Michael Slackenerny和Tajel，在电影改编中他们由真正的研究生扮演，探讨了研究院学生<a href="http://www.comicsalliance.com/2012/04/19/phd-comics-the-movie-video/#ixzz1sc9nHRsi">生活的方方面面</a>——研究，交友、爱情，研究和...研究。
+➜真实版旅行商挑战
+https://www.solidot.org/story?sid=29279	6600
+你可能听说过计算机科学中经典的<a href="http://zh.wikipedia.org/wiki/%E6%97%85%E8%A1%8C%E5%95%86%E9%97%AE%E9%A2%98">旅行商问题</a>，它是一个关于最优化的问题：有多个城市，一位旅行商从其中某一个城市出发，他走遍所有的城市再回到出发的城市最短路线是哪一条？现在，真实版旅行商挑战<a href="http://www.ptsp-game.net./index.php">Physical Travelling Salesman Problem Competition</a>要求你用最优路线访问每个城市，你必须用一辆有惯性和摩擦的汽车在十幅城市地图中旅行，<a href="http://www.ptsp-game.net./human_rankings.php#rankingMaps">最后的结果</a>既要考虑最短路径还要考虑时间。参与者可递交bot机器人或亲自驾驶。
+➜Debian GNU/Hurd开发近况
+https://www.solidot.org/story?sid=29280	9120
+30岁的法国程序员Samuel Thibault是Debian GNU/Hurd项目开发者之一，他最近<a href="http://raphaelhertzog.com/2012/04/19/people-behind-debian-samuel-thibault-working-on-accessibility-and-the-hurd/">接受采访</a>透露了GNU/Hurd的开发进展。GNU/Hurd是自由软件基金会开发的基于GNU Mach的自由软件内核，至今已开发了二十多年，Debian GNU/Hurd项目目标是将Debian GNU/Linux的软件包移植运行在GNU/Hurd内核上。
+<i>
+他说，软件包移植工作已经完成了76%。用户可以使用标准Debian安装程序从官方镜像<a href="http://wiki.debian.org/Debian_GNU/Hurd">安装Debian GNU/Hurd</a>，它能启动一个图形桌面，运行办公软件如gnumeric，图形浏览器iceweasel，KDE和GNOME应用程序，开发工具gcc/make/gdb等。存在的问题包括网络板驱动支持情况不佳，GNU Mach内核仍然使用Linux 2.2或更早的2.0驱动的粘合层(glue layer)，通过Google Summer of Code编程活动Zheng Da的工作，DDE层现在能在用户空间翻译器中使用Linux 2.6.32驱动。
+</i>
+➜MIT黑客将建筑物变成巨大的俄罗斯方块游戏
+https://www.solidot.org/story?sid=29281	10440
+MIT黑客将麻省剑桥最高的建筑物Green Building<a href="http://hacks.mit.edu/Hacks/by_year/2012/tetris/">变成了一个巨大的可玩的彩色俄罗斯方块游戏</a>。游戏一开始是滚动展示俄罗斯方块的英文单词TETRIS，然后开始第一关（<a href="http://bostinno.com/2012/04/21/mit-completes-the-holy-grail-of-hacks-turning-the-green-building-into-a-game-of-tetris-slideshow/#ss__139833_1_9__ss">视频</a>），据称MTI黑客长期以来将在Green Building上玩俄罗斯方块视为hack的“圣杯”，因为建筑物的外形是与游戏相同的网格状。类似的建筑物变俄罗斯方块以前发生过多次，最早可能<a href="http://retro.nrc.nl/W2/Nieuws/1998/02/27/Med/06.html">是在1995年</a>。
+➜伊朗军方声称正在仿制美国无人机
+https://www.solidot.org/story?sid=29282	12000
+伊朗革命卫队航空部门指挥官Amir Ali Hajizadeh将军<a href="http://www.voanews.com/chinese/news/20120422-IRAN-US-DRONE-148424875.html">声称</a>，伊朗正在仿制去年缴获的一架美国无人侦察机。他表示专家从这架去年12月在伊朗东部缴获的RQ-170无人侦察机中恢复了数据。他说，这架无人机上有很多密码，但他暗示这些密码已被破译，并表示这架侦察机已经不存在秘密。Hajizadeh说，已经发现的有关这架无人机的准确信息显示，在本拉登被杀死的两星期前，这架无人机曾经飞越他在巴基斯坦的藏身地。一位伊朗国防部官员<a href="http://www.reuters.com/article/2012/04/22/us-iran-military-drone-idUSBRE83L02I20120422">最近表示</a>，中国和俄罗斯对这架隐形无人机表现出了极大的兴趣。
+➜Linus Torvalds谈安静的电脑和内核开发
+https://www.solidot.org/story?sid=29283	20880
+2012年度千禧年科技奖将Linus Torvalds和山中伸弥列入“决赛者”名单，最终获奖者将于6月13日公布。Techcrunch采访了Linus，讨论了<a href="http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/">安静的笔记本和内核开发</a>。<i>
+因为需要静静的工作，Linus偏爱小巧而安静的笔记本，因此他选择了苹果的11英寸Macbook Air，称其它厂商的笔记本又大又笨拙，虽然有些厂商试图模仿苹果但通常不很成功。他指出超薄笔记本概念在苹果之前已经存在，苹果只是产品更成功而已。Linus表示，当在电脑前工作时，他的孩子都知道不能打搅。当他和内核开发者交流时，冲突难免。虽然孩子偶会也会惹他生气，但最终都以拥抱和睡前吻结束，而内核开发者不会有这种待遇。他家中的电脑都运行Linux，而孩子们的电脑也是运行Linux，学校里也有人运行Linux，所以他们并不显得与众不同。他再次批评了Gnome 3的巨大改变，称内核开发的一个重要原则是平稳升级，但Gnome 3的升级却让人们感到痛苦。Linux kernel支持的系统和架构日益庞大，如何去评估改动的质量和功能？Linus表示他并不去评估质量，因为内核开发的整个模型是基于信任的网络，他不可能去测试每个平台的支持，不可能逐一核查每次补丁递交，开源和分布式开发的要旨是一起做事，信任子系统的维护者，而这些维护者转而信任其他合作者。
+</i>
+➜年长妇女最关心女儿
+https://www.solidot.org/story?sid=29284	22680
+绅士注意了，如果有天尊夫人突然冷淡下来，你觉得仿佛被什么取代了。你的怀疑可能是对的，有个人出现在她的生活里，不是男人而很可能是女人，<a href="http://www.latimes.com/news/science/la-sci-best-friends-20120420,0,2244358.story">而且最很有可能是你的女儿</a>。男性在成年生活中一般会将女性一直视为其最亲近密友，而女性的注意力会随着年龄从配偶转移到女儿。研究人员调查了某欧洲国家的320万移动用户，分析了7个月内19.5亿次呼叫和4.89亿短信的模式，注意到了年龄和性别差异。每位用户打电话和短信最多的两个人被认为第一和第二“密友”。他们发现，在成年初期，男女注意力集中在异性对象上，女性从18岁开始，而男性是22岁，女性到27岁时达到关系的顶峰，能持续14年，而男性是32岁，只能持续7年。换句话说，女性在异性关系上的投入更多。然而，进入40岁之后，女性的注意力从同龄男性转移到年轻女性，多为其成年女儿身上，她与女儿的联系紧密度能持续15年或更久，配偶被置于第二位。
+➜天文学家未在太阳系周围发现暗物质的迹象
+https://www.solidot.org/story?sid=29285	25920
+天文学家在至今最大规模的调查中，在太阳系周围寻找暗物质的信号，<a href="http://www.nature.com/news/survey-finds-no-hint-of-dark-matter-near-solar-system-1.10494">但一无所获</a>。<a href="http://zh.wikipedia.org/wiki/%E6%9A%97%E7%89%A9%E8%B4%A8">暗物质</a>是一种假设的物质，它占到了宇宙质量的80%以上，不发射光，无法通过电磁波观察，但能对周围空间施加引力效应。<i>
+智利天文学家Christian Moni Bidin和同事利用欧洲南方天文台的4架望远镜给太阳周围的空间称重量，虽然无法直接测量，但可以通过它对附近恒星运动施加的影响进行推断。研究人员测量了太阳方圆13000光年球形中一15度锥形范围内的400颗恒星的速率。他们发现，在其调查的空间内，最多只可能存在十分之一的暗物质。其他天文学家认为需要更多观察才能确认他们的结论。
+</i>
+➜Adobe宣布CS6和订阅服务Creative Cloud
+https://www.solidot.org/story?sid=29286	28560
+Adobe正式<a href="http://techcrunch.com/2012/04/22/adobe-officially-unveils-cs6-and-its-49month-all-inclusive-creative-cloud-subscription-service/">宣布</a>了其旗舰产品<a href="http://www.adobe.com/products/creativesuite.html?promoid=JOLIS">CS6</a>和订阅服务<a href="http://www.adobe.com/products/creativecloud.html">Creative Cloud</a>。<i>
+Creative Cloud服务包括了全套CS6应用程序如Photoshop、InDesign、Illustrator、Premiere Pro 和AfterEffects，以及HTML5设计开发工具<a href="http://muse.adobe.com/">Muse</a>和<a href="http://labs.adobe.com/technologies/edge/">Edge</a>，并深度整合该公司的平板应用。用户可选择以月费49.99美元订购一年，或单月79.99美元，学生和教师版本为29.99美元/月。用户也可选择只订阅Photoshop，每月19.99美元（一年），单月29.99美元。Creative Pro产品高级营销总监Scott Morris称，该公司预计大多数用户将会逐渐迁移到订阅服务。在Adobe看来，订阅服务将会让客户弹性使用其需要的软件，公司计划向订阅客户持续提供新工具和更新，一些新工具如Lightroom 4，标准版用户可能要到下个版本才能使用到，但订阅用户可以提前使用。Morris否认订阅服务是为了打击盗版而推出的，但承认它潜在可以帮助对付盗版问题。
+</i>
+➜法国总统候选人奥朗德反对“三振出局”法律
+https://www.solidot.org/story?sid=29287	30000
+在周日的法国总统大选第一轮投票中，社会党候选人奥朗德（François Hollande）获得了27.65%的选票，领先现任总统萨科齐，萨科齐统获得了26.57%的选票。这一差距比此前民意调查机构的预测值略低。尽管如此，舆论猜测<a href="http://www.dw.de/dw/article/0,,15903808,00.html">奥朗德在第二轮中胜出的希望最大</a>。萨科齐是受争议的法国反盗版法律Hadopi（又名“三振出局”）的拥护者，但奥朗德则明确站在Hadopi的对立面。他指出，Hadopi已显示了它的无效和非正义，同时表示盗版不是一个小问题，但简单粗暴的Hadopi没有解决任何问题，他称需要发明新的模式，例如向ISP和Google等从盗版活动中盈利的网站征税。听起来<a href="http://arstechnica.com/tech-policy/news/2012/04/french-presidential-candidate-against-three-strikes-law-kinda-sorta.ars">比三振出局更可怕</a>。
+➜博讯及其托管商遭DDoS攻击威胁
+https://www.solidot.org/story?sid=29288	31500
+连续报道政治丑闻的博讯网因域名托管商面临DDoS攻击威胁而不得不<a href="http://arstechnica.com/business/news/2012/04/chinese-human-rights-website-and-host-threatened-by-ddos-attacks.ars">迁移到新托管商</a>。上周五，域名托管商Name.com <a href="http//blog.name.com/2012/04/free-speech-and-ddos-attacks/">发明声明</a>，称它收到了一封要求让博讯下线否则面临DDoS攻击的电子邮件，周四早晨网络运营团队就发现主网站和域名服务器遭受了规模惊人的DDoS攻击，它认为此举伤害了互联网的言论自由表达。Name.com无奈下联系博讯，称它不能保护博讯和其它150万域名同时在线。博讯网站经理韦石<a href="http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20120422&amp;sec_id=15335&amp;subsec_id=15336&amp;art_id=16270663">声称</a>，域名从Name.com迁移到另一家不到4小时，又被要求迁移，他们现在找到了第三家。
+➜Windows 8商店目前只有99个应用
+https://www.solidot.org/story?sid=29289	33480
+Windows 8开发者预览版至今已发布半年，但<a href="http://www.forbes.com/sites/patrickmoorhead/2012/04/13/windows-8-store-with-99-metro-apps-is-it-behind-schedule/">官方商店的Metro应用程序不到百款</a>：在99款应用中，微软自家产品占14款。没有社交类应用，没有生产力工具，没有商业视频点播服务类应用如Netflix、Hulu或Amazon Instant Video。相比之下，iPad的宣布和正式发布间隔3个月，苹果声称发布时将有超过1000款应用，今天的iPad平板应用超过18万。Android 3.0平板系统发布和第一款平板产品XOOM出货间隔也不到3个月，当时可用的Android平板应用不超过50款，今天则达到了3.2万。看起来微软的情况介于苹果和Google之间，但考虑到Windows下的程序多达400万，99款应用偏少。
+➜麦克斯韦方程让光自我弯曲
+https://www.solidot.org/story?sid=29290	37080
+人人都知道光沿着直线传播，它可以借助外部手段如镜子和导光管沿着迂回路线前进。一些科学家想知道光束是否能在不依靠外因的情况下自我弯曲。以色列工程技术学院的研究人员在Physical Review Letters上发表<a href="http://prl.aps.org/abstract/PRL/v108/i16/e163901">论文</a>，称光沿着弧线前进<a href="http://news.sciencemag.org/sciencenow/2012/04/light-bends-by-itself.html">是可能的</a>。通过仔细控制波峰的初始状态，麦克斯韦方程式的特解指出了弯曲的可能性。研究人员<a href="http://phys.org/news/2012-04-physicists-maxwells-equations-self-bending.html">表示</a>，他们计算出如何让光弯向任何角度，甚至可以是一个完整的圆形。
+➜佛罗里达大学取消计算机科学系，增加体育预算
+https://www.solidot.org/story?sid=29291	38700
+佛罗里达大学宣布<a href="http://www.forbes.com/sites/stevensalzberg/2012/04/22/university-of-florida-eliminates-computer-science-department-increases-athletic-budgets-hmm/">取消计算机科学系</a>，以节省170万美元。该校取消了计算机科学系教师助理的所有资助，完全关闭了研究生和研究项目，将剩余人等分配到其它系。与此同时，该校今年的体育预算为9900万美元，比上一年增加了200万美元。佛罗里达大学生建立了一个“<a href="http://saveufcise.wordpress.com/">拯救计算机科学系</a>”的网站，乔治亚理工学院计算机科学系主任Zvi Galil教授<a href="http://saveufcise.wordpress.com/letter-from-dean-of-college-of-computing-at-georgia-tech-and-division-director-of-nsf/">致函佛罗里达大学校长Bernard Machen</a>，称感到“惊讶，震惊和愤怒”。许多知名的计算机科学家对此都表达了担忧。
+➜温室气体加热海洋
+https://www.solidot.org/story?sid=29292	40680
+世界最大的热能储存库不是大气而是海洋，因温室气体增加而产生的热量有93%被海洋吸收。美国国家海洋和大气局（NOAA）的科学家公布的最新报告称，过去二十年中，海洋储存的热量<a href="http://news.sciencemag.org/sciencenow/2012/04/scienceshot-no-letup-in-worlds.html?rss=1">稳定增加了0-2000米深度的水温</a>。NOAA称，自1990年以来海洋热含量增加了1.4(+/-0.1)x10^23 焦耳，0-2000米深度平均水温大约增加了0.2 (+/- 0.014)摄氏度。这项研究存在争议，因为不可能真正测量0-2000米深度平均水温。

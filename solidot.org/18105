@@ -1,0 +1,9 @@
+➜Google 要求 Chrome 扩展最小化数据收集
+https://www.solidot.org/story?sid=61512	52221
+Google 要求 Chrome 扩展在浏览器会话期间<a href="https://www.pcmag.com/news/369714/google-to-minimize-the-data-collected-by-chrome-extensions" target="_blank"><u>最小化数据收集</u></a>，否则将会面临从扩展商店 Chrome Web Store 驱逐出去。扩展开发者必须在 10 月 15 日前也就是 80 天内遵守这一规定。这一规定旨在解决扩展正常工作所索要权限可能带来的隐私问题，扩展索要的部分权限可能会非常强大，比如截取桌面屏幕截图，捕捉麦克风音频，从本地文件系统收集数据。这些权限潜在有可能会遭到滥用。Google 通过官方博客表示，它将要求扩展只访问最少量的数据。以前这一规定只是鼓励开发者采用，现在则要求所有扩展遵守。
+➜BitLord 被发现捆绑间谍软件
+https://www.solidot.org/story?sid=61513	53303
+BitTorrent 客户端 BitLord <a href="https://www.airoav.com/mitm-voicefive/" target="_blank"><u>被发现</u></a>捆绑了名叫 PremierOpinion 的间谍软件，该间谍软件会利用中间人攻击的方法捕捉机器的 SSL/TLS 流量。它会安装一个代理在端口 8888、8443 和 8254，安装一个本地系统证书，该证书会被所有应用程序自动信任。当所有流量都经过它的代理，它会解密所有加密流量，监视用户的在线活动。PremierOpinion 主要通过捆绑在其它软件进行传播，其中之一是 BitLord。<a href="https://en.wikipedia.org/wiki/BitLord"><u>BitLord</u></a> 最早是基于比特彗星源代码的一个 BitTorrent 客户端，能利用 VLC 串流视频。
+➜华裔数学家用两页纸证明了一个重要的计算机科学猜想
+https://www.solidot.org/story?sid=61514	54577
+华裔数学家黄皓用<a href="https://arxiv.org/abs/1907.00847"><u>两页纸（预印本）</u></a>证明了一个近 30 年的<a href="https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/" target="_blank"><u>计算机科学猜想</u></a>——布尔函数敏感度猜想（Boolean Sensitivity ）。证明是如此简洁甚至可以用一条<a href="https://twitter.com/BooleanAnalysis/status/1145837576487612416"><u>推文</u></a>概况。敏感度是一种衡量布尔函数复杂度的方法，它被定义为导致布尔函数翻转的最大比特数。Quantamagazine 就此问题<a href="https://zhuanlan.zhihu.com/p/75390268" target="_blank"><u>举例说</u></a>：你向银行申请贷款，需要填一系列答案为是或否的问题，银行根据你的答案进行评分做出决定。这个过程就是一个布尔函数，你的答案就是输入比特，银行的决定就是输出比特。如果你改变某个问题的答案会导致结果翻转，这个比特/答案就被定义为敏感了，如果有 7 个问题任意一个翻转会导致结果翻转，那么其敏感度就是 7。

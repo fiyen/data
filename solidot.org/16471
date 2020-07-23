@@ -1,0 +1,64 @@
+➜BadIRET漏洞利用
+https://www.solidot.org/story?sid=42951	5675
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 <i>"Linux内核代码文件arch/x86/kernel/entry_64.S在3.17.5之前的版本都没有正确
+的处理跟SS（堆栈区）段寄存器相关的错误，这可以让本地用户通过触发一个
+IRET指令从错误的地址空间去访问GS基地址来提权。这个编号为<a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-9322" target="_blank">CVE-2014-9322</a>,漏洞于2014年11月23日被Linux内核社区<a href="http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=6f442be2fb22be02cafa606f1769fa1e6f894441" target="_blank">修复</a>，之后的几个礼拜里没有出现公开的利用代码甚至相关的讨论。当人们快要遗忘这个威胁的时候，Rafal Wojtczuk的分析文章<a href="http://labs.bromium.com/2015/02/02/exploiting-badiret-vulnerability-cve-2014-9322-linux-kernel-privilege-escalation/" target="_blank">Exploiting “BadIRET” vulnerability</a>（<a href="https://raw.githubusercontent.com/citypw/citypw-SCFE/master/security/Documentation/exp_badiret_CVE-2014-9322.txt" target="_blank">未完成的翻译版</a>）似乎在提醒我们：别忘了斯拉夫兵工厂。Rafal在Fedora 20 64-bit GNU/Linux发行版上完成了研究和测试工作，内核是3.11.10-301，甚至SMEP和SMAP也有办法绕过。也提醒那些平时不重视安全运维的企业和个人，修复已知漏洞是必须的工作，因为你永远不知道你的敌人在哪里买卖什么样的数字军火。"</i>
+➜Ross Ulbricht被定罪，面临终身监禁
+https://www.solidot.org/story?sid=42952	10311
+丝绸之路创始人Ross Ulbricht案件的审理已经结束，12人陪审团周三做出了裁决：检方指控Ulbricht的7项罪名<a target="_blank" href="http://arstechnica.com/tech-policy/2015/02/ulbricht-guilty-in-silk-road-online-drug-trafficking-trial/"><u>全部成立</u></a>。他将面临终身监禁。他的罪名包括协助贩毒，协助通过互联网贩毒，串谋违反毒品法，串谋运营一个连续犯罪实体，计算机入侵，销售虚假身份和洗钱。判决宣布之后，Ulbricht被带出了庭审室，他的父母都参加了庭审，母亲Lyn Ulbricht说这不是结局。他的律师Joshua Dratel表示会上诉。
+➜阿里巴巴测试无人机送货
+https://www.solidot.org/story?sid=42953	12658
+<div align="center"><img src="http://img.solidot.com.cn/0/974/liv03xTsX7R5I.jpg" align="" height="250" width="450"><br>
+<br>
+</div>
+阿里巴巴旗下的淘宝网开始测试<a target="_blank" href="http://bbs.taobao.com/catalog/thread/508895-314816348.htm"><u>无人机送货</u></a>，承诺1小时送达。北京上海广州特定区域的450个人将有机会参与这次无人机快递实验。淘宝这次是与上海圆通速递合作，利用四轴无人机预先设定位置自动送货。除了技术上的挑战和可靠性问题未解决外，中国的商用无人机<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-02-04/alibaba-drones-fly-over-beijing-as-amazon-pleads-for-u-s-tests"><u>还面临监管难题</u></a>。中国军方控制了整个空域，只留下五分之一给予民用。北京蓝鹏律师事务所的律师Zhang Qihuai说，中国仍然处于制定无人机商用规则的起步阶段，大量区域完全空白，飞行高度和事故责任等重要监管规定还没有制定，商用无人机还有很长的路要走。
+➜微软开源.NET执行引擎CoreCLR
+https://www.solidot.org/story?sid=42954	15077
+继.NET Core之后，微软在MIT许可证下<a target="_blank" href="http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx"><u>开源了</u></a>.NET Core的执行引擎CoreCLR。<a target="_blank" href="https://github.com/dotnet/coreclr"><u>源代码</u></a>已发布在GitHub上。CoreCLR执行垃圾收集、编译到机器码、IL字节码加载等功能。.NET框架官方博客称， 今天的.NET Core只能在Windows上构建和运行，未来几个月他们将会加入Linux 和Mac特定平台组件的实现。.NET Core中已有部分Linux特定代码，但Linux版本仍然处于起步阶段。CoreCLR库包含了大约260万行代码，加上.NET Core，微软公开了500万行.NET框架代码。
+➜盖茨再次向其基金会捐赠15亿美元
+https://www.solidot.org/story?sid=42955	17003
+根据1月30日递交到美国证券交易委员会的文件，世界首富再次向其盖茨信托基金会捐赠了价值<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-02-04/gates-gives-1-5-billion-of-microsoft-stock-reduces-stake-to-3-"><u>15亿美元</u></a>的3100万微软股票，比尔盖茨持有的微软股份降至了3%，他仍然有829亿美元资产。盖茨基金会还有423亿美元资产，它最近向为发展中国家开发疫苗的疫苗联盟Gavi捐赠了15.5亿美元。鲍尔默持有的微软股份去年<a target="_blank" href="http://www.solidot.org/story?sid=39377"><u>超过了</u></a>比尔盖茨。
+➜人工智能将会加速集中化趋势
+https://www.solidot.org/story?sid=42956	18692
+人工智能也许不会威胁到人类的生存，但更现实的预测是它将会加快集中化的趋势。Kevin Kelly去年在《连线》的一篇<a target="_blank" href="http://www.wired.com/2014/10/future-of-artificial-intelligence/"><u>文章</u></a>中指出，人工智能的突破是由廉价的并行计算技术、大数据收集和更好的算法推动的。结果已经很清晰，<a target="_blank" href="http://cn.nytimes.com/opinion/20150204/c04brooks/en-us/"><u>
+这会产生两种巨大的影响</u></a>。如果说知识就是力量，那么我们将看到一股比以往更加集中的力量。2001年排名前10网站占了全美31%的PV，但到2010年这个比例达到75%。互联网创造了长尾，但几乎所有的收入和力量都掌握在头部为数不多的精英手上。人工智能的进步会加速中心化的趋势。因为人工智能公司能从网络效应中获益。网络越大，收集的数据越多，就越有效率，越能吸引人。这导致的<a target="_blank" href="http://www.ediscoveryreadingroom.com/?p=3466"><u>一个后果</u></a>是未来的人工智能将由2到3个寡头统治。而大公司的工程师对于数据的收集和引导我们的选择上拥有巨大的隐藏权力，如果你认为这种权力将会是良性的，那么你肯定没读过历史书。
+➜英国通过“三父母婴儿”法案
+https://www.solidot.org/story?sid=42957	19580
+英国下议院通过的新法案允许所谓的<a target="_blank" href="http://www.dw.de/%E8%8B%B1%E5%9B%BD%E9%80%9A%E8%BF%87%E4%B8%89%E7%88%B6%E6%AF%8D%E5%A9%B4%E5%84%BF%E6%B3%95%E6%A1%88/a-18233666"><u>“三亲育子”</u></a>技术，胎儿的基因经过改造，将拥有父亲、母亲及一名女性捐赠者的DNA。使用“三父母”体外受精技术的目的是预防母亲将线粒体疾病遗传给孩子。<a target="_blank" href="http://zh.wikipedia.org/wiki/%E7%BA%BF%E7%B2%92%E4%BD%93"><u>线粒体</u></a>是细胞的能量工厂，线粒体缺陷可能导致慢性疾病如致命心脏问题、失明或智能不足。新技术将母亲卵子中的细胞核DNA取出，植入已移除细胞核DNA的捐赠者卵子中。生成的胚胎将带有父母的细胞核DNA，以及女性捐赠者的线粒体DNA。捐赠者卵子的基因占胚胎基因中的比例不到1%。人类基因警报组织的David
+King警告，这将为"优生学设计婴儿"开路。英格兰教会上周也表达担忧，认为相关的科学研究或技术咨询仍不足够。
+➜Twitter允许Google直接访问其数据
+https://www.solidot.org/story?sid=42958	26504
+<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-02-05/twitter-said-to-reach-deal-for-tweets-in-google-search-results"><u>彭博社</u></a>和《<a target="_blank" href="http://cn.wsj.com/gb/20150205/tec135847.asp"><u>华尔街日报</u></a>》都援引知情人士的消息报道，Twitter已与Google达成协议允许搜索巨人直接访问其数据流在搜索结果中实时展示Twitter用户的帖子，不需要像以前那样抓取Twitter用户信息。Twitter达成该交易是希望推文更多出现在Google的搜索结果中可以为Twitter带来更多流量，未来也可以向浏览者出售广告，更重要的是吸引更多人注册。Twitter和微软Bing以及雅虎也签有类似协议。Twitter和Google在 2009年到2011年达成过类似的协议，但后来没有更新协议，原因是Twitter希望自己更多的控制内容。
+➜Google Inbox如何做到在Android、iOS和Web上共享70%的代码
+https://www.solidot.org/story?sid=42959	29447
+开发一个移动应用如果你想要面向尽可能广的用户，你需要为Android开发一个，iOS开发一个，Web开发一个。为每个平台开发一个版本意味着三倍的工作量，三倍的bug处理量。令整个事件变得更复杂的是，三个平台必须使用不同的语言开发：iOS是Objective-C/Swift、Android是 Java，而Web是JavaScript/CSS/HTML5。在开发Google Inbox时，Google采用了一组工具让它能在三个不同平台之间<a target="_blank" href="http://arstechnica.com/information-technology/2014/11/how-google-inbox-shares-70-of-its-code-across-android-ios-and-the-web/"><u>共享70%</u></a>的代码。它的工具就是开源的<a target="_blank" href="https://github.com/google/j2objc"><u>J2ObjC</u></a>，顾名思义它将Android的Java代码翻译成iOS的Objective-C代码。Google Sheets就用了J2ObjC，但Inbox是至今使用J2ObjC的最大项目。J2ObjC没有翻译UI部分，除了翻译底层的相同功能，为了更好的用户体验每个平台仍然使用了原生的UI。
+➜研究人员用二维硅原子构建晶体管
+https://www.solidot.org/story?sid=42960	32201
+自碳单原子层材料石墨烯发明以来，研究人员已经研发出了多种其它单原子层材料，其中就包括了碳的同族材料硅，但硅烯（即硅的单原子层）面临的一个难题是它会与空气中的氧气迅速发生反应而瓦解。本周一，研究人员宣布他们成功的用硅烯<a target="_blank" href="http://arstechnica.com/science/2015/02/first-transistor-built-using-two-dimensional-silicon/"><u>构建出场效应晶体管</u></a>。<a target="_blank" href="http://www.nature.com/nnano/journal/vaop/ncurrent/full/nnano.2014.325.html"><u>报告</u></a>发表在《Nature Nanotechnology》上。他们在银的表面制造出一大片硅烯，然后覆盖氧化铝充当保护层，蚀刻掉部分铝，将剩余部分金属作为源漏接触，通过在二氧化硅表面沉淀铝，他们得到了一个可用作场效应晶体管的设备。
+➜Android 5.1悄悄到来
+https://www.solidot.org/story?sid=42961	34295
+<div align="center"><img src="http://img.solidot.com.cn/0/975/liuvKGxIjccDU.jpg" align="" height="298" width="480"><br>
+<br>
+</div>
+Google官方博客<a target="_blank" href="http://googleasiapacific.blogspot.hk/2015/02/selamat-datang-android-one-high-quality.html"><u>宣布</u></a>Android One将在本月晚些时候通过线上线下渠道在印度尼西亚发售。Android One是面向发展中国家发布的入门级智能手机，由Google负责推送系统更新。Google称，这款手机将运行最新版本的Android (Lollipop)系统。但Google没有透露的是，这个Lollipop的版本号是Android 5.1。Lollipop的最新版本是5.0.2，目前完全不清楚Android 5.1相比5.0.2<a target="_blank" href="http://www.androidpolice.com/2015/02/04/the-next-android-revision-is-indeed-android-5-1-lollipop-already-shipping-on-android-one-phones-coming-soon-to-nexus-devices/"><u>会有什么变化</u></a>，Google尚未公开谈论5.1。
+➜野生中华鲟面临灭绝
+https://www.solidot.org/story?sid=42962	36689
+继<a target="_blank" href="http://www.solidot.org/story?sid=41128"><u>2013年</u></a>之后，2014年的联合监测活动仍然没能发现野生中华鲟自然产卵的任何证据。野生中华鲟面临灭绝。中华鲟有1.4亿年历史，寿命可达百岁，在上世纪末被列为濒危物种，已被人工养殖。野生中华鲟的消亡被认为与<a target="_blank" href="http://www.infzm.com/content/107528"><u>葛洲坝</u></a>有关。中国工程院2013年的综合评估报告显示，1981年葛洲坝截流前，每年洄游到长江上游产卵的中华鲟超过3500尾，1985年下降至2000尾，2005年已不足500尾。2013年首次未监测到中华鲟自然繁殖。长江中的濒危水生生物，除了中华鲟外，还有江豚。
+➜iOS间谍软件针对西方政府和记者
+https://www.solidot.org/story?sid=42963	39597
+趋势科技研究人员<a target="_blank" href="http://arstechnica.com/security/2015/02/spyware-aimed-at-western-governments-journalists-hits-ios-devices/"><u>报告了</u></a>一个设计渗透进iOS设备的间谍软件。被称为Operation Pawn Storm的网络间谍行动针对的是西方政府、军方、国防企业和媒体记者，被认为与俄罗斯政府有关。研究人员发现了两个与Operation Pawn Storm相关的iOS间谍软件： XAgent（IOS_XAGENT.A）和 MadCap(IOS_ XAGENT.B)。XAgent是功能完整的iOS恶意程序，不要求iPhone是否越狱，但需要引诱目标受害者安装应用，安装之后它会隐藏图标立即在后台运行，进程被杀死之后会立即恢复。XAgent针对的是iOS 7设备，而不是2014年9月发布的iOS 8，它的功能在iOS 8上会受到限制，图标不会隐藏，不会即时运行。XAgent会收集短信、联系人、图像、地理位置数据、应用列表和进程列表，以及WiFi状态，上传到指令控制中心，它还能拍照、屏幕截图，记录语音。
+➜Facebook不久将能识别出照片中的你
+https://www.solidot.org/story?sid=42964	41580
+你的朋友有可能在拍摄的游行示威、同性恋酒吧和堕胎诊所照片上将你认出来，机器至少现在还办不到。除非电脑能仔细分析你的几十张高清脸部照片，你的匿名性仍然是安全的。但在围墙花园Facebook中，<a target="_blank" href="http://news.sciencemag.org/social-sciences/2015/02/facebook-will-soon-be-able-id-you-any-photo"><u>你不久后将会无处可躲藏</u></a>。Facebook拥有至今为止规模最庞大的个人照片库，它的DeepFace系统在多个人脸识别任务中的表现和人类一样出色。领导Facebook人工智能研究的纽约大学计算机科学家Yann LeCun坚称研究目的不是为了侵犯用户隐私，而是为了保护用户。他解释说，一旦DeepFace系统从每天上传到Facebook的4亿新照片中发现了一张你的脸部照片，你将会收到警告，可以选择模糊脸部以保护你的隐私。
+➜暴雪为《星际争霸2》Mod开发者免费提供《魔兽争霸3》内容
+https://www.solidot.org/story?sid=42965	42640
+《星际争霸2》Mod开发者将可以在游戏中重新创造出十多年前的《魔兽争霸3》了。暴雪官方博客<a target="_blank" href="http://eu.battle.net/arcade/en/blog/17796669"><u>宣布</u></a>向Mod开发者提供《魔兽争霸3》的音频、艺术和其它游戏素材。这些素材将首先提供给测试者，测试之后将向公众开放。2002年发布的《魔兽争霸3》有一个活跃的Mod社区，并催生出了如DotA这样的多人竞技游戏，最终由Valve收购创造出了大受欢迎的电子竞技网游DotA2。《星际争霸2》发布之后，就有社区开发者尝试用新游戏的引擎再现《魔兽争霸3》地图。
+➜Google Play官方市场恶意应用被下载了数百万次
+https://www.solidot.org/story?sid=42966	44494
+Avast的安全研究人员再次在Google Play官方市场<a href="http://arstechnica.com/security/2015/02/malicious-google-play-apps-may-have-hosed-millions-of-android-handsets/"><u>发现了恶意应用</u></a>，而且这些应用被Android用户下载了多达1500万次。其中之一是卡类游戏Durak。安装Durak之后它会像一个合法的游戏一样正常工作，但一旦你重启设备和等待几天之后，你会开始察觉设备有什么地方不对劲。每次解锁手机你会看到广告，警告感染了病毒或色情等，鼓励你采取行动，点击之后你会被定向到恶意网页。在被曝光之后，Google下架了安全研究人员提到的三个应用。这不是第一次官方市场被发现恶意程序，Google早在3年前就引入了基于云的扫描程序识别Google Play中的恶意应用。
+➜中国与美国商讨输出高铁
+https://www.solidot.org/story?sid=42967	45613
+中国商务部外贸司副司长支陆逊就中国输出高铁的话题对法新社表示，中国的高铁公司正在和美国<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2015/02/150205_china_us_high_speed_trains"><u>讨论输出高铁的计划</u></a>，
+“目前正在和美国谈。”
+他没有透露更多细节。
+由中国兴建美国的高铁基础建设，或供应高铁车厢和其他机件设备，可能引起潜在的政治争议。支陆逊说，中国铁路已经成为外贸出口新的增长点。中国领导人一直利用和外国政治人物会面的机会推广中国的高铁技术，试图将中国的出口转型为高价值导向产业。中国公司正在土耳其和委内瑞拉建造高铁网络，并且和俄罗斯，老挝和泰国商谈高铁兴建计划。但是前不久墨西哥政府无限期搁置该国高速铁路兴建计划，让投标墨西哥高铁工程的多家中国企业感到错愕。

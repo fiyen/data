@@ -1,0 +1,58 @@
+➜中国防火墙漏风
+https://www.solidot.org/story?sid=37282	9888
+匿名读者 写道 <i>"
+<a target="_blank" href="http://www.theguardian.com/world/2013/nov/18/activists-chinese-internet-censorship-mirror-sites">卫报报导</a>，路透社和华尔街日报上周五被封锁。为回击网络审查，GreatFire.org为路透社制作了无法被屏蔽的镜像网站<a target="_blank" class="ext" href="https://s3.amazonaws.com/cn.reuters/index.html">https://s3.amazonaws.com/cn.reuters/index.html</a>。 镜像网站使用亚马逊以及谷歌搭建<a target="_blank" class="ext" href="https://s3.amazonaws.com/cn.reuters/index.html"></a><span class="ext"></span>，若封锁，在中国的企业可能会因此遭受非常严重的经济损失。其也用同样方法为旗下自由微博搭建了镜像 <a target="_blank" href="https://s3.amazonaws.com/freeweibo/index.html">https://commondatastorage.googleapis.com/freeweibo/index.html</a>。以上镜像目前在中国大陆均能正常访问。
+"</i>
+➜Canonical开发者警告Linux Mint不安全
+https://www.solidot.org/story?sid=37283	12284
+<div align="center"><img src="http://img.solidot.com.cn/0/821/lilq0kTjNriI.png" align="" height="195" width="420"><br>
+<br>
+</div>
+Canonical开发者Oliver Grawert警告Linux Mint<a target="_blank" href="http://news.slashdot.org/story/13/11/18/2046208/canonical-developer-warns-about-banking-with-linux-mint"><u>不安全</u></a>。Linux Mint是Ubuntu衍生版本，但使用了不同的桌面环境，最近几年颇受用户欢迎。Grawert在Ubuntu邮件列表上<a target="_blank" href="https://lists.ubuntu.com/archives/ubuntu-devel-discuss/2013-November/014770.html"><u>指出</u></a>，Linux Mint的许多核心组件从不更新，因此是一个不安全的操作系统，他个人是不会在Linux Mint上访问网上银行的。Linux Mint创始人Clement Lefebvre对此<a target="_blank" href="http://segfault.linuxmint.com/2013/11/answering-controversy-stability-vs-security-is-something-you-configure/"><u>发表声明</u></a>予以澄清，指出Linux Mint的更新频率和Ubuntu一样，但出于系统稳定性和安全性的考虑，它默认关闭了可能导致系统不稳定的更新（即level 4和5），其中浏览器 Firefox属于level 2，默认自动更新，用户通过Firefox访问网上银行不会面临安全风险。Lefebvre认为Grawert的观点非常武端。
+➜2025年中国众筹规模将能达到500亿美元
+https://www.solidot.org/story?sid=37284	14975
+中国的众筹网络融资规模非常小：动画电影《大鱼·海棠》募集到<a target="_blank" href="http://www.demohour.com/projects/320144"><u>158万元</u></a>，《十万个冷笑话》剧场版募集到<a target="_blank" href="http://www.demohour.com/projects/317125"><u>137万元</u></a>， 它们属于融资规模最高的项目。相比之下，仅仅Kickstarter上就出现过多个<a target="_blank" href="http://www.solidot.org/story?sid=37023"><u>千万美元级别的融资</u></a>。然而，世界银行非常看好中国的众筹融资，<a target="_blank" href="http://www.infodev.org/infodev-files/wb_crowdfundingreport-v12.pdf"><u>预测</u></a>（PDF）到2025年，中国众筹规模将能达到<a target="_blank" href="http://qz.com/148119/crowdfunding-in-china-could-be-50-billion-business-by-2025/"><u>460亿到500亿美元</u></a>，而全球的众筹投资将能达到960亿美元。目前，中国大陆只有一家众筹网站，相比之下美国有344家，巴西有17家。报告认为，薄弱的知识产权法律和不鼓励创业活动的文化可能是中国众筹的最大障碍。而中国的创意无论是数量还是质量都远远落后于美国。
+➜Google支付1700万美元和解隐私纠纷
+https://www.solidot.org/story?sid=37285	17168
+Google与美国37个州和哥伦比亚特区就绕过Safari隐私设置<a target="_blank" href="http://www.nytimes.com/2013/11/19/technology/google-to-pay-17-million-to-settle-privacy-case.html?_r=0"><u>达成了1700万美元的和解协议</u></a>。2012年，Google被发现绕过了苹果Safari浏览器的隐私设置，利用cookie跟踪用户展示针对性广告。在媒体曝光之后，Google终止了这一行为，停止跟踪Safari用户和展示个性化广告。Google去年因同一问题已与联邦贸易委员会<a target="_blank" href="http://cn.wsj.com/gb/20131119/bog082222.asp"><u>达成2250万美元和解协议</u></a>。上个月特拉华州一位法官则驳回了苹果用户的一项集体诉讼请求。
+➜雅虎加密数据中心内部数据流
+https://www.solidot.org/story?sid=37286	18119
+在《华盛顿邮报》曝光了NSA和GCHQ监视Google和雅虎海外数据中心内部未加密数据流之后，Google表示已<a target="_blank" href="http://www.solidot.org/story?threshold=1&amp;mode=thread&amp;sid=37133"><u>采取行动</u></a>加密内部服务器之间的通信。现在雅虎<a target="_blank" href="http://yahoo.tumblr.com/post/67373852814/our-commitment-to-protecting-your-information"><u>宣布</u></a>，它也开始加密数据中心内部数据流。雅虎CEO Marissa Mayer在官方博客上同时强调，雅虎从未允许NSA或其它政府机构访问其数据中心。Mayer表示，为了改进安全，Yahoo Mail将采用2048位密钥，新的安全措施将在2014年1月部署，而加密数据中心内部信息流则将计划在2014年第一季度展开。
+➜中国为何独领新一轮比特币上涨
+https://www.solidot.org/story?sid=37287	25853
+比特币币值在今天短时间内冲到了一千美元，而在<a target="_blank" href="https://vip.btcchina.com/"><u>BTCChina</u></a>，币值最高接近7000元人民币，24小时成交量达到<a target="_blank" href="http://bitcoinity.org/markets/list?currency=ALL&amp;span=24h"><u>14万BTC</u></a>——按6000/BTC计算，交易额达到8.4亿人民币。BTCChina是一家怎样的企业？CEO Bobby Lee是美国公民，毕业于斯坦福大学，2013年4月加盟BTC China，今年9月<a target="_blank" href="http://www.forbeschina.com/review/201311/0029305.shtml"><u>为了增加交易量</u></a>而宣布取消内部交易费用，它只支持人民币与比特币之间的兑换，而进入和退出交易平台并不免费。为什么中国<a target="_blank" href="http://www.coindesk.com/china-leading-global-rise-bitcoin/"><u>会对比特币如此狂热</u></a>？住在上海的加拿大比特币爱好者Zennon Kapron给出了他的解释：中国的资本控制非常严厉，将钱带到中国很容易，带出中国去投资或消费很难。富裕的中国居民希望能自由的将资金转移到国外，比如资助自己的孩子留学。中国国内的投资选择只有股票和房地产。Kapronasia本人深有体会，他发现比特币确实方便资金流通，他在美国购买了10BTC，发送到 BTC China，然后以人民币结算撤回资金，整个过程只需20分钟，而且还能增值。比特币在中国和在其它地方一样面临同样的障碍：政府干预的风险。
+➜清网清到微信，腾讯开始净化行动
+https://www.solidot.org/story?sid=37288	27603
+微博之后，腾讯的微信成为<a target="_blank" href="http://www.scmpchinese.com/sc/china/16522/guan-fang-xu-qing-wang-yang-shi-jie-wei-xin-cun-zhao-piao-xin-xi"><u>新的清网目标</u></a>。官媒CCTV昨天播出节目“微信色情调查”，讲述性服务者如何利用微信招嫖。她们主要通过微信“附近的人”发布信息，尤其在人口聚集地多的地方。报道称，记者对北京的多所高中调查发现，一些招嫖者在微信上发布的色情信息已经侵蚀到校园，学生对此并不陌生。报道表示，有专家和家长们呼吁，政府监管部门应当加强对以微信为代表的新型网络社交平台的监管和查处力度，强制推行实名制，并有针对性地推出相关的法律法规和部门规章，重典治乱。深圳特区报称，腾讯表示它已针对性推出系列举措，<a target="_blank" href="http://tx.southcn.com/mobile/content/2013-11/18/content_84827142.htm"><u>开展信息净化行动</u></a>。
+➜6500万年前的天地大碰撞将生命种子撒遍太阳系
+https://www.solidot.org/story?sid=37289	30083
+6500万年前，一颗小城市大小的小行星撞击了地球，在今天的墨西哥尤卡坦半岛留下了<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%B8%8C%E5%85%8B%E8%98%87%E9%AD%AF%E4%BC%AF%E9%9A%95%E7%9F%B3%E5%9D%91">Chicxulub陨石坑</a>。这起事件对地球造成了巨大破坏，导致了恐龙灭绝，同时将700亿公斤的地球岩石溅射到了太空。宾州州立大学伯克分校的科学家认为，这起撞击事件对整个太阳系同样有深远影响：它<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/56e227224a25"><u>将生命种子撒遍了太阳系</u></a>。大量的地球岩石落到了火星和金星，还有部分抵达了木星和土星，其中包括木星的卫星欧罗巴、泰坦和卡利斯托。岩石中的生命要在漫长的太空旅行中生存下来，必须要经受超过100度的高温，还必须有至少3米厚的岩石抵御太空辐射。根据他们的计算，大约有2万公斤的岩石会到达欧罗巴，其中可能会有1到2颗岩石携带了生命。科学家认为，如果我们在木星和土星卫星上发现生命，它们很可能来自恐龙时代。<a target="_blank" href="http://arxiv.org/abs/1311.2558"><u>论文</u></a>发表在预印本网站上。
+➜比特币暗杀市场众筹悬赏刺杀对象
+https://www.solidot.org/story?sid=37290	31970
+有人想要政府尽快行动封杀比特币。一位化名Kuwabatake Sanjuro的人<a target="_blank" href="http://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/"><u>创建了暗杀市场（Assassination Market）</u></a>——一个类似Kickstarter的众筹平台，运行在Tor匿名网络，允许匿名用户匿名捐赠赏金，悬赏刺杀对象。目前刺杀目标的赏金都很小，似乎不足以吸引和鼓励真正的杀手行动起来：比如NSA局长Keith Alexander的赏金是10比特币，美国总统奥巴马（Barack Obama）40比特币，美联储主席伯南克（Ben Bernanke）最高 124.14比特币。Sanjuro说，他的意图是摧毁各国政府，认为这会将世界变得更美好。
+➜多看与亚马逊Kindle之争
+https://www.solidot.org/story?sid=37291	34634
+《环球企业家》的一篇<a target="_blank" href="http://cn.reuters.com/article/CNTechNews/idCNCNE9AI01R20131119?sp=true"><u>文章</u></a>（<a target="_blank" href="https://s3.amazonaws.com/cn.reuters/index.html?u=article/CNTechNews/idCNCNE9AI01R20131119"><u>正常访问地址</u></a>）分析了中国本地化的多看系统与亚马逊中国Kindle电子书阅读系统之间的竞争。“中信出版社新媒体总经理许洋惊奇地发现，自从Kindle入华后，在短短三个月里，亚马逊电子书销售额增长40%，已经占到了中信出版社全部销量的60%到70%。然而，这个梦想着成为数字阅读产业iPod的国际巨头亚马逊，在中国却被一家创业公司‘多看’扼住咽喉...亚马逊一位内部员工这样比较多看与Kindle的关系：‘多看是寄生在Kindle的操作系统上的，是用我们的设备卖它的内容，相当于是个寄生体，类似于一个螃蟹跑到贝壳里，Kindle入华之前贝壳里面没住人没问题，现在贝壳里住着人就不能这么干了。'”
+➜欧盟对Tor暗网发出警告
+https://www.solidot.org/story?sid=37292	35239
+根据欧盟网络犯罪中心的<a target="_blank" href="https://www.europol.europa.eu/content/new-cybercrime-report-examines-disturbing-trends-commercial-online-child-sex-abuse"><u>报告</u></a>，大部分儿童色情材料通过Tor暗网自由的传播，增加了执法机构识别犯罪分子和制作传播儿童色情材料网络的难度。Tor最早由美国海军赞助开发，设计隐藏网络痕迹，后逐渐演变为一个匿名代理网络，是专制国家持不同政见者安全通信的工具，但也被人滥用，传播儿童色情就是其中之一。儿童保护组织 Child Exploitation and Online Protection Centre称，在1.5万名每天使用Tor的英国人中，<a target="_blank" href="http://www.independent.co.uk/news/media/online/the-tor-system-welcome-to-the-dark-internet-where-you-can-search-in-secret-8651364.html"><u>有5000人是出于犯罪理由</u></a>。
+➜古埃及人制作供木乃伊食用的“肉木乃伊”
+https://www.solidot.org/story?sid=37293	36756
+一个永恒的木乃伊在永恒的时间长河中吃什么呢？<a target="_blank" href="http://news.sciencemag.org/archaeology/2013/11/how-feed-your-mummy"><u>答案是肉木乃伊</u></a>。根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1315160110"><u>一项研究</u></a>，考古学家在法老Tutankhamun的墓穴中发现了48箱牛肉，经过了特殊的防腐处理——即木乃伊化。研究人员发现，肉木乃伊是利用有机防腐处理制备，其方式类似于处理人类和动物的木乃伊。肉木乃伊是动物的一部分，似是为食用目的而制备。研究人员在山羊腿木乃伊化组织中发现了类似的来源于动物脂肪的化合物，但没有在木乃伊化的鸭组织样本中发现。来自一个木乃伊化牛肋骨的绷带含有脂肪或油、蜂蜡和阿月浑子树脂的混合物，后者在古埃及被认为是一种奢侈品。这些发现显<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-11/aaft-aep111513.php"><u>示</u></a>，古埃及人对与人类和动物木乃伊一起下葬的食用肉类使用了有机防腐处理方式。
+➜超过1%的Google Play应用是恶意拷贝
+https://www.solidot.org/story?sid=37294	38478
+安全研究人员<a target="_blank" href="http://www.hotforsecurity.com/blog/1-2-percent-of-google-play-store-is-thief-ware-study-shows-7340.html"><u>发现</u></a>，超过1%的Google Play应用是未经授权拷贝同类应用，并打包了监视用户浏览历史和个人习惯的<a target="_blank" href="http://arstechnica.com/security/2013/11/study-more-than-1-percent-of-google-play-apps-are-aggressive-copycats/"><u>恶意功能</u></a>。杀毒软件公司Bitdefender分析了Google Play商店中的 420,646款Android应用，发现其中 5,077款是直接拷贝Facebook、Twitter等官方应用的代码，修改了广告库，加入了跟踪用户，修改权限访问短信、呼叫历史和其他个人信息等功能。这些冒牌应用的下载量多达5万次。Google Play上线的应用并无专人审查，Google只是用扫描软件寻找恶意代码的痕迹。
+➜专家警告2025年肺癌患者将有百万
+https://www.solidot.org/story?sid=37295	39610
+肺癌已成为中国第一癌症死因，其发病率和死亡率的迅速上升在近十年尤为明显。专家预计，到2025年，我国肺癌病人<a target="_blank" href="http://www.scmpchinese.com/sc/china/16532/zhong-guo-2025nian-bai-mo-ren-fei-yan-zhuan-jia-hu-xu-kong-yan"><u>将达到100万</u></a>，成为世界第一肺癌大国。中国肺癌南北高峰论坛昨天在京召开，与会专家作出上述悲观预计，并指出控烟是预防肺癌的重要措施。目前中国每年生产1兆7000亿支香烟，居全球之冠，产量是第二名美国的2.5倍。目前全球共有11亿烟民，中国占了3.5亿。中国也是全球最大的烟草受害国，每年约有100万人死于与烟草相关的疾病。除吸烟外，空气污染也被指是肺癌发病率增加的原因
+过去30年内，中国肺癌死亡率攀升了465%。
+世界卫生组织旗下的国际肿瘤研究所称，有令人信服的证据显示，空气污染引发肺癌。
+➜温度会影响肿瘤生长
+https://www.solidot.org/story?sid=37296	41445
+人体在不同温度下会有不同的反应，比如低温会导致血管收缩代谢增加。根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1304291110"><u>一篇论文</u></a>，美国Roswell Park癌症研究院的科学家<a target="_blank" href="http://arstechnica.com/science/2013/11/chilly-temperatures-foster-cancer-growth-in-mice/"><u>发现</u></a>，温度也会影响肿瘤生长，如低温会改变癌细胞生长和扩散的方式，至少对实验鼠是如此。他们发现，在22°C左右的环境中，癌细胞比30°C左右的环境生长更快更富侵略性。较冷的环境能促进多种不同癌症的增长，如乳腺癌、皮肤癌，结肠癌和胰腺癌。研究人员认为，较冷环境产生的冷压力抑制了免疫反应。研究结果可能也适用于人类，有可能改变癌症治疗方法。
+➜寻找成吉思汗失落的墓穴
+https://www.solidot.org/story?sid=37297	43464
+蒙古暴君成吉思汗一手缔造了横跨欧亚大陆的世界最强大帝国，但无人知道他的墓穴究竟藏身何处，考古学家已经为此追寻了许多年。现在，有一个人<a target="_blank" href="http://www.foxnews.com/science/2013/11/18/explorer-plans-hunt-for-genghis-khans-long-lost-tomb/"><u>相信他知道墓穴在哪里</u></a>。去年秋天，探险家俱乐部主席Alan Nichols绘制出了成吉思汗墓穴所有可能的位置，他推测可汗皇帝的墓穴应该是在位于中国宁夏的六盘山。Nichols计划明年秋天能确定成吉思汗正确的安息地。Nichols表示他一直着迷于成吉思汗的墓穴，一刻也无法停止。
+➜中国聚变反应堆等离子约束时间增加十倍
+https://www.solidot.org/story?sid=37298	45709
+可控聚变被认为能为人类带来无限的清洁能源，但过去几十年，在投入了无数资金之后，科学家取得的成就非常有限。然而，很多人仍然认为，继续投资带来的潜在回报是巨大的。现在，位于合肥的中科院等离子体物理研究院的超导托卡马克实验装置<a target="_blank" href="http://www.ipp.cas.cn/dakexuegongcheng/east/"><u>EAST</u></a>报告等离子约束时间取得了重大进步：等离子脉冲<a target="_blank" href="http://arstechnica.com/science/2013/11/fusion-reactor-achieves-tenfold-increase-in-plasma-confinement-time/"><u>持续了超过30秒</u></a>，是此前记录的10到20倍。30秒听起来不多，但你要知道等离子体温度超过一亿度，是太阳核心温度的五倍多。<a target="_blank" href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2795.html"><u>论文</u></a>发表在最新一期的《Nature Physics》上。

@@ -1,0 +1,160 @@
+➜中国转变科技行业战略？
+https://www.solidot.org/story?sid=44901	12143
+国企清华紫光对内存芯片制造商美光的收购要约可能代表着中国科技战略的<a target="_blank" href="http://www.ftchinese.com/story/001063192"><u>一次转变</u></a>。中国企业在国际上常被指责抄袭别国技术。美国科技分析师Mark Anderson称，中国加入自由市场收购大战，并为获得美光之类公司的战略性技术支付合理的价钱，标志着一种受欢迎的转向。中国现有芯片产业的缓慢发展或许可以解释清华紫光此举的胆略。中国获得更尖端技术的能力可能正在增强。例如IBM在高端服务器领域已经改变了在中国的商业模式：现在，它为中国制造商提供技术许可，而非试图销售基于其Power芯片技术的机器。但是，全面收购类似美光这样的国际芯片巨头，代表着中国芯片行业更加雄心勃勃的扩张。
+➜Windows 10自动更新NVidia驱动导致系统出现问题
+https://www.solidot.org/story?sid=44902	12985
+Windows 10引入了一项贴心的功能：自动更新驱动。用户不用再担心电脑上的驱动不是最新版本。但图形驱动和其它设备的驱动有着相当大的区别，它们的更新频率更高，目的是优化新上市游戏的性能，但同时它们也有很大的几率会导致旧的应用出现问题。大部分用户不会经常更新图形驱动，而是选择性的几个月更新到一个稳定版本。根据用户在论坛上的抱怨，Windows 10推送最新的NVidia驱动导致系统<a target="_blank" href="http://betanews.com/2015/07/26/windows-10s-automatic-updates-for-nvidia-drivers-could-break-your-computer/"><u>出现问题</u></a>，甚至导致电脑无法启动。Windows 10将在本周三正式发布。<br>
+➜HORNET：更快的Tor匿名网络
+https://www.solidot.org/story?sid=44903	17283
+苏黎世联邦理工和伦敦大学学院的研究员<a target="_blank" href="https://users.ece.cmu.edu/~chenche1/"><u>Chen Chen</u></a>（本科读的是清华）、Daniele Enrico Asoni、David Barrera和Adrian Perrig在预印本网站发表了一篇<a target="_blank" href="http://arxiv.org/pdf/1507.05724v1.pdf"><u>论文</u></a>（PDF），介绍了他们的高速匿名网络HORNET——网络层的高速洋葱路由。HORNET试图在性能、可伸缩性和匿名上取得平衡，同时解决Tor匿名网络当前面临的各种安全风险，它有可能成为下一代的Tor。HORNET的节点设计能以超过93 Gb/s的速度处理匿名流量，它使用 Diffie-Helman算法加密转发数据段，在每一跳之间混淆数据包防止监视者根据位模式关联两跳之间的数据包。<a target="_blank" href="http://arstechnica.com/information-technology/2015/07/researchers-claim-theyve-developed-a-better-faster-tor/"><u>研究人员也承认</u></a>，HORNET不能免于“确认攻击”——如果政府或执法机构能控制一个HORNET通信信道上的多个节点，他们可通过时序分析、流分析和包标签等方法去匿名化目标用户。
+➜中国风投将筹50亿美元基金收购海外技术资产
+https://www.solidot.org/story?sid=44904	17629
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/20150727/tec092141.asp"><u>报道</u></a>，中国风投公司金沙江创业投资将筹建50亿美元基金收购海外资产。消息人士称，基金针对的是全球技术、互联网、生物技术领域的收购交易，中国市场对于这些领域的增长非常关键。在中国决策者的鼓励下，中资企业纷纷跨出国门收购中国进口技术，这是金沙江创业投资上述50亿美元融资的大背景。对于其中许多进口技术（比如半导体和高级自动化技术）来说，中国是其终端产品（比如智能手机和汽车）的最大消费市场。
+➜WordPress今年上半年拒绝了43%的删除要求
+https://www.solidot.org/story?sid=44905	25194
+<div align="center"><img src="http://img.solidot.com.cn/0/867/lirtxV2f5XlRw.jpg" align=""><br>
+<br>
+</div>
+博客平台WordPress发布了它的<a target="_blank" href="http://transparency.automattic.com/"><u>上半年透明度报告</u></a>。报告披露，从1月1日到6月30日，它总共收到4,679次DMCA删除通知，它<a target="_blank" href="http://transparency.automattic.com/intellectual-property/intellectual-property-2015-h1/"><u>拒绝了其中43%的要求</u></a>。WordPress称，其中12%的删除通知被认为是滥用DMCA。版权所有者雇佣第三方机构，利用机器人程序识别版权侵犯内容，然后自动发出删除通知。WordPress设立了一个<a target="_blank" href="http://transparency.automattic.com/tag/hall-of-shame/"><u>Hall of Shame</u></a>，公开了一些涉嫌滥用DMCA的例子。上图所示的是一幅Tim Howard的meme，其中使用歌星Janet Jackson的肖像，Janet Jackson以版权侵犯为由要求删除，但WordPress认为是合理使用拒绝了要求。透明度报告显示，俄罗斯政府是发出删除请求最多的政府，原因可能与普京政府对Meme的打击有关。
+➜Debian去除SPARC支持
+https://www.solidot.org/story?sid=44906	25291
+匿名读者 写道<i> "Debian支持很多CPU体系结构，他们<a href="http://phoronix.com/scan.php?page=news_item&amp;px=Debian-Dropping-SPARC" target="_blank">正在去除</a>（<a target="_blank" href="http://www.chiphell.com/thread-1339602-1-1.html"><u>中文</u></a>）Sun/Oracle SPARC体系结构的支持。到这周周末，Debian已经从他们的unstable,experimental和jessie-updates仓库(archive)去掉了SPARC.
+Debian开发者Joerg Jaspert在几天前写到：“由于SPARC不再是最有活力的架构，在Jessie和以后的版本都不会是(not in jessie and unlikely to be in stretch)，我将要在这周末从仓库中去掉它。(这并不阻碍它以SPARC64的方式回归！)更准确一点，我会让它从：unstable,experimental,jessie-updates手工去除。”Debian SPARC支持会在操作系统的已发布版本中继续存在。
+Jaspert说到做到，并在本周末完成了SPARC的移除。"</i>
+➜被女子杀死的攻击者被认为是一名连环杀手
+https://www.solidot.org/story?sid=44907	30995
+在分类广告网站Backpage上，性工作者是在“伴游（escort）”栏目发布广告寻找买春者。7月18日，一名男子根据伴游广告找到了一名性工作者，他一手拿着枪一手试图掐死她，<a target="_blank" href="https://www.washingtonpost.com/news/morning-mix/wp/2015/07/25/women-who-shot-alleged-attacker-may-have-slain-a-serial-killer-police-say/"><u>但这名女子抢过了枪杀死了他</u></a>。警方对他的汽车调查发现，他很可能是一名连环杀手，他列出了一个未来受害者名单，上面全是性工作者。警方在他的车内找到了多幅手铐，一整套的武器和工具，其中包括铲、刀、防弹背心、弯刀、漂白剂，垃圾袋，铁锤和斧头。调查人员正在检查他的DNA，判断他是否是一系列针对性工作者的连环命案的凶手。
+➜Valve修复账号重置漏洞
+https://www.solidot.org/story?sid=44908	32565
+<center>
+<iframe src="https://www.youtube.com/embed/QPl_BJoBaVA" allowfullscreen="" frameborder="0" height="260" width="480"></iframe><br>
+<br>
+</center>
+Valve的Steam是最大的PC数字游戏发行平台，同时在线用户多达数百万。对用户而言，账号的重要性毋庸置疑，没有账号他们无法访问所购买/租赁的数字游戏。但Steam的账号重置功能<a target="_blank" href="http://masterherald.com/steam-hit-by-major-security-breach-many-accounts-hacked/23239/"><u>被爆出了一个严重漏洞</u></a>（Youtube<a target="_blank" href="https://www.youtube.com/watch?v=QPl_BJoBaVA"><u>视频演示</u></a>），很容易被黑客利用——原因是Steam密码重置过程接受空白的恢复代码，黑客可以不访问接受重置密码链接的邮件就能改变密码。Valve已经修复了该漏洞，但已有许多用户受到影响。对受到影响的用户，Valve开始实施5天的“禁令”，对其逐个进行调查。
+➜RMS向开源硬件众筹网站送去祝福
+https://www.solidot.org/story?sid=44909	35759
+自由软件基金会(FSF)主席Richard Stallman(RMS)很少支持一个产品，现在RMS和FSF正式向一家支持自由软件和开源硬件的众筹平台<a target="_blank" href="https://www.crowdsupply.com/"><u>Crowd Supply</u></a>送去了<a target="_blank" href="http://arstechnica.com/information-technology/2015/07/founder-of-gnu-bestows-blessing-upon-open-source-crowdfunding-site/"><u>祝福</u></a>。Crowd Supply上最为知名的众筹项目可能是黄欣国和 Sean Cross的开源笔记本项目<a target="_blank" href="https://www.crowdsupply.com/sutajio-kosagi/novena"><u>Novena</u></a>。该公司由毕业于MTI的Joshua Lifton博士创办，除了作为开放硬件的众筹平台外，它还提供长期的销售和市场推广等服务。Lifton在一份声明中指出，软件和硬件之间界限日益模糊，它们只有联合起来才有意义。作为两个机构合作的一部分， Crowd Supply修改了网站，以遵循自由软件基金会Free Javascript Campaign运动之要求。
+➜陶哲轩的杰出大脑
+https://www.solidot.org/story?sid=44910	38738
+《纽约时报》周末杂志报道了<a target="_blank" href="http://www.nytimes.com/2015/07/26/magazine/the-singular-mind-of-terry-tao.html"><u>当代最杰出数学家之一的陶哲轩</u></a>。陶哲轩2岁学会阅读，7岁就上高中，9岁上大学，10岁时成为最年轻的国际奥林匹克数学竞赛奖牌得主，2006年获得菲尔茨奖——被视为是数学领域的诺贝尔奖。天才通常被认为都有点怪僻：牛顿，脾气暴躁；纳什（John Nash），妄想狂；佩雷尔曼（Grigory Perelman），喜欢留长指甲。然而，陶哲轩却是“超级正常”，以至于他的学生开玩笑的说，在许多方面陶哲轩违背了好莱坞的疯狂天才定义，好莱坞不会拍任何陶的电影。8岁时，他的父母曾带他去见霍普金斯大学天才少年中心的创始人Julian Stanley，陶是他测试过的最聪明的数学学生之一，在SAT的数学部分测试中得到了760分。Stanley建议陶的父母放慢速度，给他时间发展出社交和情感技能。即使放慢了速度，陶哲轩在17岁时完成了硕士论文，到普林斯顿读博士，他的博士申请书中有著名数学家Paul Erdos的推荐信，“我相信他会成为第一流的数学家，甚至可能挤入最伟大数学家行列。”陶哲轩曾着迷于《文明》游戏，但现在则避开游戏，因为“完美主义的倾向”会让他玩得停不下来。
+➜Linux加密工具Tomb发布v2.1
+https://www.solidot.org/story?sid=44911	41168
+Linux加密工具Tomb<a target="_blank" href="http://freshcode.club/projects/tomb"><u>发布了v2.1版</u></a>。Tomb由一个ZShell脚本和一个桌面整合应用构成，使用标准的GNU工具如gpg，设计以易于使用的方式为系统提供强加密功能。它支持密钥分离，一个密钥可以保存在U盘上；支持隐写，二维码纸面备份，离线搜索，等等。在TrueCrypt被开发者放弃之后，它是众多的<a target="_blank" href="http://it.slashdot.org/story/15/07/25/0043206/tomb-a-successor-to-truecrypt-for-linux-geeks"><u>接替者之一</u></a>。
+➜当Google雇员披露他们的薪水
+https://www.solidot.org/story?sid=44912	42928
+想象一下，你公司的几名员工创建了一个电子表格，列出了他们的薪水，然后在内网中分享，其他员工随后加入，在表格中加入了他们的薪水。该项目迅速传遍了整个公司，其他员工不仅仅列出了薪水，还添加了奖金和其它相关薪酬。这是Googles<a target="_blank" href="http://tech.slashdot.org/story/15/07/23/207251/google-staffers-share-salary-info-with-each-other-management-freaks"><u>上周发生的事情</u></a>。多年来，雇主和雇员一直在争论公开薪水的优缺点。绝大部分公司都对雇员薪酬严加保密，但有少数公司开始表现出某种程度的透明度。有研究显示，更高程度的薪酬公开能转变成工人更高的快乐。但不是所有类似研究都得出相同的结论，许多研究显示公开薪酬会带来负面影响。对Google雇员的这次实验，部分高管非常生气，而部分雇员则对有机会看到其他人是否报酬过低而感到高兴，另一些人则因此提出了抗议。
+➜电竞选手将需要接受兴奋剂测试
+https://www.solidot.org/story?sid=44913	44942
+电竞选手将需要像他们的线下同行一样接受兴奋剂检测了。电子竞技联盟（Electronic Sports League）是最大的视频游戏竞技组织，主办有《反恐精英之全球攻势》和《英雄联盟》等游戏的赛事。该联盟已发表声明，<a target="_blank" href="http://www.ign.com/articles/2015/07/23/drug-tests-mandated-by-pro-gaming-league"><u>宣布</u></a>将检测职业电竞选手是否服用兴奋剂去提高成绩。电子竞技联盟将在今年8月22-23日的科隆Lanxess赛的《反恐精英之全球攻势》比赛中首次对选手进行兴奋剂皮肤测试。
+➜0.16%的网站暴露了他们的.git文件夹
+https://www.solidot.org/story?sid=44914	46061
+对Web开发者来说，向世界暴露你的.git文件夹（通常位于http://www.yourdomain.com/.git/）是新手才会犯的错误。因为这将让任何人都可以下载你的整个源代码库，而源代码库经常会包含数据库密码、盐、哈希、第三方API key或用户名和密码。研究人员调查了150万域名，发现有2402个网站暴露了可下载的.git文件夹，<a target="_blank" href="http://www.jamiembrown.com/blog/one-in-every-600-websites-has-git-exposed/"><u>比率为0.16%</u></a>。
+➜opmsg: GPG的替代品
+https://www.solidot.org/story?sid=44915	58355
+<a href="http://hardenedlinux.org/">Shawn the R0ck</a> 写道 "<a target="_blank" href="https://en.opensuse.org/openSUSE:Security_team">SuSE Linux安全组</a>，也是自由软件社区著名0ld sch00l黑客<a target="_blank" href="https://www.exploit-db.com/author/?a=4182">Sebastian Krahmer</a>认为在<a target="_blank" href="http://c-skills.blogspot.com/2015/05/opmsg-trickery.html">大规模监控的后棱镜时代</a>应该做点什么，在经过一系列的讨论后于2015年5月公布了<a target="_blank" href="https://github.com/stealth/opmsg">一个新的自由软件项目：opmsg</a>。opmsg是一个可以加密，签名，验签邮件或者本地文件的GPG替代品，虽然opmsg看起来比较类似GPG，但从整个设计思路还是很不同。personas是opmsg里的关键概念，personas是一个和EC或者RSA密钥绑定的身份，两个personas之间的通信可以靠EC/RSA密钥的hashsum作为唯一的标示，如果是RSA personas，<a target="_blank" href="https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange">密钥交换则用DH</a>，如果是EC personas，<a target="_blank" href="https://en.wikipedia.org/wiki/Elliptic_curve_Diffie%E2%80%93Hellman">密钥交换使用ECDH</a>。<i>
+<p>
+</p>
+<p>opmsg还有一个很有趣的feature是PFS( Perfect Forward Secrecy)，opmsg的消息总是会被发送端签名，当Peer A发送一个opmsg信息给对端Peer B的persona时会生成一组(EC)DH密钥并且attach到信息里，而Peer B的opmsg会验证它的完整性后保存到自己的密钥列表，如果Peer B这时发消息给Peer A，Peer B可以选择之前拿到的(EC)DH。如果(EC)DH密钥消耗完了，opmsg会根据persona的类型回退到本地的RSA或者EC加密，删除已经使用过的(EC)DH公钥以保证不能再次使用.....
+<p></p>
+<!--more-->
+<p></p>
+</p>
+<p>
+</p>
+<p>创建以及验证密钥和签名的例子:</p>
+<p>----------------------------------------------------------------------------
+</p>
+<p>Peer A:
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --newp --name shawn
+</p>
+<p>
+opmsg: Successfully generated persona with id
+</p>
+<p>opmsg: cac78af4f7f1b8ce f0ea2bd4612d5ba2 0f9e2dd7c361e820 0337432985b706f9
+</p>
+<p>opmsg: Tell your remote peer to add the following
+</p>
+<p>pubkey like this:
+</p>
+<p>opmsg: opmsg --import --phash sha256 --name shawn
+</p>
+<p>
+-----BEGIN PUBLIC KEY-----
+</p>
+<p>MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArBM7YiBFmB5UlgtUR8z3
+ZrLCk5g/zHwct0MVFTbf/5IXwHom3FnrLpTI027W2wZY/BlsWIABAEFoFgsBOYrb
+nVrJf7S8/vkCy1VII5hADNT24cOdnK79yelrmib0pp2bZAU31LOtAW6SWVPUMhBZ
+ycvKBmUuvWKkWBi9MWjR276nuHmHfNV7w0HUj4AzqSs499p+UezclkaJSp5F7Et/
+2QAvqr51Dg7WvNHL8g5fJW1/w9CgqiHAboKTYiboI0c3uBq+41FewWcWNSa2LqDV
+BjZSUow+1GTpWubv3LOuMtFbGIWfjb+Qpph3YrYNieOpGFQOO4Dukc9KtBfFGrNR
+n3DLYOfvZzoifNFyJJBL82onbww+PRbCvSrGF6x6UtFJLL2pALC4g8tkDI+xuuan
+AOa1Iezqj/EhUhV/eTHpqWK3BA2hqQ3kOPJ6jQT/6M7WB7FtwDrFPDaSWWkiqAhR
+rzWpI7/ftdRxOWSK8VntHFMaSEz2AFVBO4rgExWvGCzRtcIAJOo1PVj2RG9T7Xhd
+DGP3Tt32QuUhnwbSIEFnzS8sOL1+5+7DiFvSLsVVg6HrWoOgJnKECkIARuiJRoV6
+jUsGZEf9wRJEsKSokwoLC7iI9fWlh6H4yAmC63T1GZM+dSZhLXj1Js5sJV5yWdg8
+qC39q2/nkrw38z8lFTgLqr0CAwEAAQ==
+</p>
+<p>-----END PUBLIC KEY-----
+</p>
+<p>
+Peer B:
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --newp --name john
+</p>
+<p>opmsg: Successfully generated persona with id
+</p>
+<p>opmsg: a70719fbf6392c02 6ef034e49db509f7 52ccea9475977af2 c4c5f23ae956744f
+</p>
+<p>opmsg: Tell your remote peer to add the following
+</p>
+<p>pubkey like this:
+</p>
+<p>opmsg: opmsg --import --phash sha256 --name john
+</p>
+<p>----BEGIN PUBLIC KEY----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAn+kEKZR31KZn8j4boe/T
+bHxtCUjCclAmyweOjt4vjdmX4NrgBOJu6dgk/gEifk3nfhK9pWhTAxkjtWGVYTsm
+7vBmfEpGdRCkdUT4FgsfWZILxayjSKoOuYU6wCJ1kOnk1p2iJ9HGFs3zougdhL8O
+M2wUoOIlQEgqaHZZjih3wIjWBukIemVlVNRaWvSfyr5/Kvj5DFsBjcD0xo9sswBW
+3Lx5brSEkYBBF46C9PLCmy6zw5Myecdjxjyb6FV+Y/d5Nsq/XCUoy9fKyxKJokLB
+u92BD7eU5TM830CedBHz9LVgjnfRbNp0RNnhdUArZmTjFs5CvfjGWIi/MpIRDynf
+P5dbuUggnsOszKZzUyCfPZX3GzcJDxL2otgRy0Xs0oW7LKsnH+eGXbkzGMxPWXM9
+UBCr9/Bhx5yqqrGd2SREhn8LBmwFI2AJgnaPhEQUtqhqAOUOLSrCvKlMlVA0rsjG
+7rifRVvGbEEy5MrvdKK4NC2r5JxdcxTGEt51iNkoM4SaxQq8t3xIsSl4O5KKWy8S
+GMQ/uklb/GoSUelbe5RRwWmLW0lGkStJZ/fbwF+/nmk4zOsvFz4bGNxU7s/AWvbF
+V2vPHKxiqJbR/4MtjSqNQzKm+/lCJw1sDkuW8Bxtx+pjaMJLHp5mc6kzcCmWG5SD
+hewiYRjh4Tjhr8yeRcUfRsMCAwEAAQ==
+</p>
+<p>----END PUBLIC KEY----
+</p>
+<p>
+<a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --import --phash sha256 --name shawn
+</p>
+<p>
+Peer A:
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --import --phash sha256 --name john
+<a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --list --short
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> -S -i 1.png -o 1.pgp -P cac78af4f7f1b8ce
+把1.*发给Peer B.........
+Peer B
+</p>
+<p>验证签名:
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> -V 1.png -i 1.pgp
+</p>
+<p>
+</p>
+<p>加密/解密的例子:
+</p>
+<p>-----------------------------------------------------------------------
+</p>
+<p>Peer A
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --encrypt a70719fbf6392c02 -i 1.png -P cac78af4f7f1b8ce -o 2.enc
+Peer B
+</p>
+<p><a rel="nofollow" class="ot-hashtag aaTEdf" href="https://plus.google.com/s/%23opmsg">#opmsg</a> --decrypt -i 2.enc -o 1.png﻿</p>
+</i>"

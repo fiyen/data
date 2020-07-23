@@ -1,0 +1,3 @@
+➜为遏制僵尸网络微软远程删除Tor
+https://www.solidot.org/story?sid=38066	1123
+微软<a target="_blank" href="http://it.slashdot.org/story/14/01/16/2132253/microsoft-remotely-deleted-tor-from-windows-machines-to-stop-botnet"><u>远程删除了</u></a>Windows机器上安装的旧版Tor匿名软件，防止它们被僵尸网络Sefnit利用。去年，Tor的使用量在短时间内暴涨，原因就与通过Tor传播的Sefnit有关。目前不清楚有多少机器感染了Sefnit，但根据Tor网络的统计，在Sefnit传播高峰连接Tor网络的机器总数从100万暴增到550万。而随着Sefnit客户端遭到封杀，连接Tor网络的机器总数降至了200万。微软在一篇<a target="_blank" href="http://blogs.technet.com/b/mmpc/archive/2014/01/09/tackling-the-sefnit-botnet-tor-hazard.aspx"><u>博文</u></a>上表示，Tor是一个好的应用程序，但保留它会严重危及受感染的机器。

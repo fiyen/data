@@ -1,0 +1,48 @@
+➜微软开源它使用的 UEFI 核心 Project Mu
+https://www.solidot.org/story?sid=59015	11702
+微软<a href="https://blogs.windows.com/buildingapps/2018/12/19/%e2%80%afintroducing-project-mu/"><u>宣布</u></a>开源它在 Surface 设备和最新版 Hyper-V 中使用的 UEFI 核心 <a href="https://github.com/Microsoft/mu_basecore"><u>Project Mu</u></a>，源代码发布在它旗下的 GitHub 上，<a href="https://github.com/Microsoft/mu_basecore/blob/release/201808/License.txt"><u>采用</u></a> BSD 2-Clause 和 BSD 3-Clause 许可证。固件是在启动进程中初始化硬件的系统软件，用户设备上安装的固件一般不会有后续更新，但固件也存在安全漏洞，需要更新去堵上漏洞。通过 Project Mu，微软提出了所谓的“固件即服务”来确保硬件使用的固件保持在最新状态。通过开源 Project Mu，微软想要建立一个生态系统，希望其它硬件厂商能采用它的方案。
+➜Google 否认修改 YouTube 代码去破坏 Microsoft Edge
+https://www.solidot.org/story?sid=59016	13563
+本周早些时候，前微软 Edge 团队软件工程实习生 Joshua Bakita <a href="https://www.solidot.org/story?sid=58993" target="_blank"><u>声称</u></a>，Google 在 YouTube 中加入一个隐藏 div 破坏了 Edge 的 YouTube 视频播放优化方法，他认为 Google 是故意这么做的，旨在破坏 Edge 用户的体验。Google 现在<a href="https://www.theverge.com/2018/12/19/18148736/google-youtube-microsoft-edge-intern-claims"><u>否认了 Bakita 的说法</u></a>，称空 div 参数是 bug，它在收到报告之后已经修复。YouTube 发言人在一份声明中称，YouTube 没有加入代码旨在破坏其它浏览器的优化方法，bug 在发现之后他们就迅速修复了。他们定期通过标准组织、Web Platform Tests 项目、开源 Chromium 项目等与其它浏览器开发商合作去改进互操作性。已经宣布切换到 Chromium 的微软发表声明称，Google 是一个乐于帮助的合作伙伴，他们期盼未来的进一步合作。
+➜欧盟数千封外交电报泄露
+https://www.solidot.org/story?sid=59017	16865
+美国网络安全公司 Area 1 发表报告《<a href="https://cdn.area1security.com/reports/Area-1-Security-PhishingDiplomacy.pdf"><u>PHISHING DIPLOMACY</u></a>》(PDF)，称疑似中国黑客以塞浦路斯外交部为切入点，对整个欧盟进行了长达数年的<a href="http://www.ftchinese.com/story/001080763"><u>网络间谍活动</u></a>。攻击至少可追溯至 2015 年，黑客侵入了 100 多个组织，包括欧盟的 COREU 电子通信网络。其他目标包括联合国部分机构以及美国劳工联合会 - 产业工会联合会 (AFL-CIO)，后者参与贸易谈判，因此可能引起中方的兴趣。Area 1 表示，这些黑客最初使用简单的网络钓鱼方法侵入系统，即向塞浦路斯外交部人员发送带有恶意链接或附件的电子邮件。这些黑客访问过的外交电文涉及各种地缘政治事务，包括恐怖主义、跨大西洋关系、中东和平、军备控制、南中国海，以及亚洲和大洋洲工作组。
+➜廊坊发布圣诞装饰禁令
+https://www.solidot.org/story?sid=59018	17284
+河北廊坊市发布<a href="https://cn.nytimes.com/china/20181220/china-christmas-display-ban/"><u>禁令</u></a>，禁止在街头和商店里进行圣诞布置。圣诞节也许是一个西方节日，但它已被中国许多城市的购物中心当作一个季节性营销机会加以利用。不过廊坊的市政当局已发誓要清除该市街道、商店和学校里的所有圣诞彩灯和装饰。通知要求政府人员在 12 月 23 日、24 日和 25 日检查全市的商场和街道，确保不出现圣诞装饰。“全面管控利用公园广场等公共区域开展宗教宣传活动，” 该禁令说，它还指示市民：“如有发现，要密切监控，及时上报。” 贩卖圣诞树或糖果的街头小贩将被 “清理取缔”。《环球时报》称，廊坊这样做不是要禁止圣诞节，而是为了在中共宣传部组织的每年一次的 “全国文明城市” 评选中得分。
+➜BAT 面临更大的监管压力
+https://www.solidot.org/story?sid=59019	19571
+中国三大科技巨头腾讯、阿里巴巴和百度（BAT）正面临更大的监管压力，金融时报援引传闻<a href="http://www.ftchinese.com/story/001080759"><u>报道</u></a>，腾讯和阿里巴巴可能会分拆，这两家公司市值之和最高时超过 1 万亿美元，现在仍高达 7300 亿美元。助燃这一传闻的是阿里巴巴对旗下支付企业蚂蚁金服进行关系重组的申请在审批上遭到漫长拖延。目前两家公司是独立实体，虽然股东重叠。阿里巴巴曾在 2 月宣布将终止利润分享协议，以换取蚂蚁金服 33% 的股份，此后北京方面一直保持沉默。
+➜微软释出紧急更新修复正被利用的 IE 漏洞
+https://www.solidot.org/story?sid=59020	25966
+微软释出了<a href="https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8653"><u>一个紧急更新</u></a>去修复正被利用的 IE 漏洞。漏洞编号 CVE-2018-8653，影响所有 Windows 支持版本，与脚本引擎处理 IE 内存对象有关。<a href="https://arstechnica.com/information-technology/2018/12/microsoft-issues-emergency-update-to-fix-critical-ie-flaw-under-active-exploit/"><u>微软称</u></a>该漏洞正被用于发动针对性的攻击，但未披露进一步的信息。漏洞的发现者是 Google Threat Analysis Group 的 Clement Lecigne，目前漏洞以及漏洞利用的细节都没有披露，Windows 用户建议尽可能快的安装更新。
+➜马云称美国浪费了数万亿美元在战争而不是基础设施上
+https://www.solidot.org/story?sid=59021	28048
+马云在瑞士达沃斯世界经济论坛接受了 CNBC 的采访，回答了特朗普对中国产品征收关税的提问。马云说，把美国国内的经济问题归罪于中国是错误的。如果美国想要指责某个人，那么这个人应该是它自己。不是其它国家从美国抢走工作，而这就是美国的策略，以恰当的方式分配钱和物。过去 30 年美国在战争中浪费了<a href="https://news.slashdot.org/story/18/12/19/1930236/chinese-billionaire-jack-ma-says-the-us-wasted-trillions-on-warfare-instead-of-investing-in-infrastructure"><u>超过 14 万亿美元</u></a>，它本来可以用这些钱去投资本国的基础设施。马云认为不是中国偷走了美国的工作而导致美国经济增长放缓，他认为美国采用的外包策略实际上很高明。美国的跨国公司从全球化上赚了无数钱，IBM、思科和微软的利润比中国的四大银行多得多，但这些钱去了哪里？
+➜中国网约车平台纷纷采用人脸识别技术
+https://www.solidot.org/story?sid=59022	29259
+中国主要网约车平台<a href="http://www.bjnews.com.cn/finance/2018/12/20/532186.html"><u>纷纷采用人脸识别技术</u></a>：滴滴表示，与管理部门展开合作，动态核查平台司机和车辆信息，定期核查人车资质状况，加强风险防控；通过人脸识别、客服回访及线下核验等手段，加强线上线下人车一致性审查。首汽约车上线试运行车联网 CI 系统，实现行车途中实时监控，检测车内外状态、司机仪容仪表、是否酒驾、疲劳驾驶、超速、急停急加速等危险驾驶行为。易到方案显示，部分城市车主端已上线人脸识别功能，这一功能陆续将在其他业务城市上线。神州专车进一步加强人脸识别检查力度。目前已实现全体驾驶员每日上线接单前进行人脸识别，未通过者不予上线。
+➜德国收紧外资收购审核
+https://www.solidot.org/story?sid=59023	30689
+德国联邦内阁周三<a href="https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%AD%A3%E5%BC%8F%E6%94%B6%E7%B4%A7%E5%A4%96%E8%B5%84%E6%94%B6%E8%B4%AD%E5%AE%A1%E6%A0%B8/a-46803728"><u>讨论并批准了</u></a>《〈对外经贸法〉执行条例》修订案，旨在加强对敏感领域外资收购的审核。由于这是行政法规修订，因此无须议会的批准，即可在新年伊始生效。根据该法规，对德国的国防以及重要基础设施具有 "关键影响" 的 "安全相关" 企业，其被欧盟外资本收购时，将受到德国政府更为严格的审核。以往，只有在这些企业被收购股份比例超过 25% 时，才会启动审核机制；今后，收购股比只要达到 10%，联邦政府就能进行审核，并且在必要时动用否决权。尽管负责修订该法规的联邦经济部强调，这并非针对中国，但是分析人士依旧认为，这一举措主要就是针对近年来大举收购德国企业的中国资本。后者的重点收购目标往往是掌握高科技的企业以及在能源等基础设施领域扮演关键角色的企业，引发了德国社会各界的担忧。
+➜苹果调整 iOS 动画避开中国销售禁令
+https://www.solidot.org/story?sid=59024	34813
+苹果本周向 iOS 用户推送了更新，<a href="https://www.theverge.com/2018/12/19/18148645/apple-iphone-ios-12-1-2-china-sales-ban-qualcomm"><u>调整了</u></a>强制应用关闭的动画，试图避开旧型号 iPhone 在中国的销售禁令。福州中级法院上周一针对苹果部分旧款 iPhone 机型<a href="https://www.solidot.org/story?sid=58901" target="_blank"><u>颁布禁令</u></a>，这些产品被指涉及侵犯高通的两项有关图片尺寸重新编辑以及触控屏幕应用程序管理功能方面的专利。但旧型号 iPhone 并没有下架，苹果声称自己满足合规要求，但仍将更新软件描述为“解决可能存在的法律合规问题”。中国这项裁决是高通与苹果在全球专利战的一部分，两家公司在全球数十个司法管辖区内提起大量专利诉讼。对于苹果的软件更新，高通总法律顾问<a href="https://cn.reuters.com/article/qualcomm-china-apple-1218-tues-idCNKBS1OH0AC"><u>表示</u></a>，“尽管苹果公司努力淡化该指令的重要性，并以各种方式声称将解决侵权问题，但苹果显然仍然违反禁令、藐视法院指令。”
+➜ofo 没有未来？
+https://www.solidot.org/story?sid=59025	41766
+曾经火热的共享单车创始人 ofo 创始人戴威<a href="http://www.ftchinese.com/story/001080768"><u>承认</u></a>该公司面临 “巨大的现金流压力” 并处于破产边缘，目前有超过一千万人申请退还他们 99 元人民币的押金，而戴威也<a href="http://www.bjnews.com.cn/news/2018/12/20/532268.html"><u>被列入了失信名单</u></a>，失信是中国为社会信用系统制定的一种惩罚制度，进入黑名单的人将面临种种限制，如无法乘坐飞机和购买列车软卧。ofo 的最主要竞争对手摩拜已经被美团收购，它因为股权结构复杂而找不到人接手。ofo 可能没有了未来，但共享单车的模式呢？
+➜实验证明量子通信比传统通信更快
+https://www.solidot.org/story?sid=59026	42364
+量子计算机离我们仍然很遥远，而量子通信已近在咫尺。量子计算机的进展缓慢，关键是科学家还没有证明量子计算机肯定比经典计算机更快。但在通信领域，法国巴黎的科学家通过实验演示了<a href="https://www.quantamagazine.org/milestone-experiment-proves-quantum-communication-really-is-faster-20181219/" target="_blank"><u>量子通信确实比传统通信更快</u></a>。研究人员建造了一个量子通信系统，证明它快于任何可能的经典系统。在实验中，如果 Alice 需要向 Bob 发送 100 经典比特以确保他能回答他的问题，她完成同样的目标只需要 10 量子比特。
+➜VirtualBox 6.0.0 发布
+https://www.solidot.org/story?sid=59027	43825
+甲骨文的开源虚拟机软件VirtualBox 释出了<a href="https://www.virtualbox.org/wiki/Changelog-6.0#v0" target="_blank"><u>最新的 6.0.0 版</u></a>。上一个大版本 5.0 版还是在 2015 年<a href="https://www.solidot.org/story?sid=44716" target="_blank"><u>发布的</u></a>。最新版本的新特性包括：实现支持导出虚拟机到 Oracle Cloud Infrastructure；改进 HiDPI 和缩放支持；重做了 UI，简化了应用程序和虚拟机设置；新的文件管理器能控制客户机文件系统，实现主机和客户机之间的文件拷贝；改进了 Windows 客户机的 3D 图形支持，Linux 和 Solaris 的 VMSVGA 3D 图形设备支持；支持环绕扬声器设置；Windows 主机支持使用  Hyper-V 作为回退执行核心；以及大量 bug 修复等等。
+➜新发现两栖动物被命名为 “特朗普”
+https://www.solidot.org/story?sid=59028	44877
+<div align="center"><img src="//img.solidot.org/0/771/limW8JtaOztJM.png" width="450" height="270" align=""><br>
+</div>
+<br>
+一种新发现的将头埋在沙子里的穴居两栖动物（头发是人为添加上去的）将以特朗普的名字<a href="https://www.theguardian.com/us-news/2018/dec/18/blind-amphibian-named-after-trumps-climate-change-stance"><u>命名</u></a>。该物种在巴拿马被发现，它被一家公司在拍卖会上以 25,000 美元价格<a href="https://www.bbc.com/zhongwen/simp/science-46615684" target="_blank"><u>夺得命名权</u></a>。随后，它被命名为 “Dermophis donaldtrumpi”。环保建材公司 EnviroBuild 表示，他们希望借此提高人们对气候变化的认识。该公司联合创始人 Aidan Bell 在一份声明中称：“Dermophis donaldtrumpi 尤其容易受到气候变化的影响，因此，在与它同名的人做出的气候政策下，它有灭绝的危险。”这种体型较小、眼睛看不见的生物是一种长居地下的蚓螈的一种。Bell 形容说，把头埋在沙里有助于特朗普抵抗人们在气候改变上所达成的科学共识。
+➜研究人员创造转基因室内植物移除空气中的有害成分
+https://www.solidot.org/story?sid=59029	47653
+华盛顿大学的研究人员<a href="https://www.genengnews.com/news/gmo-houseplant-purifies-air-of-hazardous-compounds/"><u>基因改造了</u></a>一种常见的室内植物<a href="https://zh.wikipedia.org/wiki/%E7%BB%BF%E8%90%9D"><u>绿萝</u></a>(或叫魔鬼常春藤、黄金葛、万年青)，能从周围的空气里移除有害成分氯仿和苯。<a href="https://pubs.acs.org/doi/10.1021/acs.est.8b04811?_ga=2.28769980.1834491037.1545261826-2119066101.1545261826"><u>研究报告</u></a>发表在《Environmental Science &amp; Technology》期刊上。转基因绿萝表达了名叫 2E1 的哺乳动物蛋白，能将空气中的这些成分转变成有助于其生长的分子。氯仿和苯存在我们的日常生活里，它们太小而无法被高效空气过滤器（HEPA）的空气过滤器捕获，它们都与癌症相关联。

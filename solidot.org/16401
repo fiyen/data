@@ -1,0 +1,63 @@
+➜如何编写无法维护的代码
+https://www.solidot.org/story?sid=42048	6469
+<a href="http://top.jobbole.com/">伯乐头条</a> 写道<i> "为了造福大众，在编程领域创造就业机会，兄弟我在此传授大师们的秘籍。这些大师写的代码极其难以维护，后继者就是想对它做最简单的修改都需要花上数年时间。而且，如果你能对照秘籍潜心修炼，你甚至可以给自己弄个铁饭碗，因为除了你之外，没人能维护你写的代码。再而且，如果你能练就秘籍中的全部招式，那么连你自己都无法维护你的代码了！
+（这是&nbsp;Roedy Green 的一篇经典<a href="https://www.thc.org/root/phun/unmaintain.html" target="_blank">反讽文章</a>，<a href="http://blog.jobbole.com/80241/" target="_blank">中文翻译</a>）"</i>
+➜卢布贬值iPhone 6涨价
+https://www.solidot.org/story?sid=42049	10058
+俄罗斯的卢布贬值使得在俄销售的iPhone价格为欧洲地区最低，促使其它国家的游客纷纷到莫斯科购买iPhone。苹果注意到了这一趋势，于是在一天之内俄罗斯的iPhone价格<a target="_blank" href="http://www.bloomberg.com/news/2014-11-26/apple-raises-russia-iphone-price-25-after-ruble-drops.html"><u>上涨了25%</u></a>，16GB版的iPhone 6从大约700美元一下子涨到了847美元（39900卢布）。而与此同时，三星则削减了旗舰产品Galaxy S5的价格，如今iPhone 6的价格比Galaxy S5（24990卢布）高出了60%。分析师认为苹果此举将冒着丢失市场份额的风险。根据IDC的数据，今年前9个月苹果的智能手机在俄罗斯销售收入为13.2亿美元，高于三星的11.9亿美元。
+➜DragonFly BSD 4.0发布
+https://www.solidot.org/story?sid=42050	11429
+FreeBSD分支DragonFly BSD发布了<a target="_blank" href="http://www.dragonflybsd.org/release40/"><u>4.0版本</u></a>。主要性变化包括：加入 Haswell图形支持、3D加速、改进高流量网络性能、支持最多 256个CPU、Haswell 集显(i915)，并发操作，等等。DragonFly BSD现在不再支持32位i386 架构，只提供64位版本。更多变化可浏览发布公告。
+➜Twitter将跟踪用户安装在设备上的应用信息
+https://www.solidot.org/story?sid=42051	12391
+Twitter<a target="_blank" href="http://www.bloomberg.com/news/2014-11-26/twitter-starting-to-track-list-of-users-apps-on-mobile-devices.html"><u>宣布</u></a>它将开始收集用户设备上安装的应用列表，以更好的向用户时间线推送广告和建议。这项功能被称为app grap，Twitter声称此举旨在帮助用户构建更具个性化的Twitter使用体验——一个几乎所有公司都会使用的借口。这项新功能无疑会让用户担心隐私，Twitter声称使用苹果iPhone手机或Google Android手机的用户可以在应用设置中关闭跟踪功能。
+➜欧盟隐私保护机构要求Google在全球推广“被遗忘权”
+https://www.solidot.org/story?sid=42052	14370
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001059350"><u>报道</u></a>，Google在欧洲陷入腹背受敌境地：隐私保护机构要求其在全球范围内遵守“被遗忘权”，而多名德国部长大力推动旨在让Google搜索引擎变成一个“中立平台”的立法。欧洲的隐私保护机构<a target="_blank" href="http://ec.europa.eu/justice/data-protection/article-29/press-material/press-release/art29_press_material/20141126_wp29_press_release_ecj_de-listing.pdf"><u>批评了</u></a>（PDF）Google对欧盟的在线“被遗忘权”法律的执行情况，要求这家互联网公司从其搜索引擎的全球所有站点删除敏感链接。
+代表28个欧盟成员国的数据保护监管机构声称，法庭裁决公民有权要求删除含有个人姓名的敏感搜索结果，而Google没有完全执行这一裁决。Google勉强遵守了上述裁决，从欧洲域名删除了链接。但欧盟的新规定实际上还要求Google在欧洲以外站点删除敏感链接。法国数据保护机构的IT主管Gwendal Le Grand表示，如果Google对欧盟规定置之不理，可能会对其采取法律措施。
+➜攻击索尼影业的黑客公开窃取的文件清单
+https://www.solidot.org/story?sid=42053	18463
+<div align="center"><img src="http://img.solidot.com.cn/0/776/likn74HbCMM.jpg" height="375" width="500" align=""><br>
+<br>
+</div>
+自称GOP（代表Guardians of
+Peace）的黑客组织入侵了索尼影业的计算机网络，在索尼雇员的电脑屏幕上展开了上述信息。索尼至今没有承认它遭到黑客勒索，只是声明正在调查一个“IT问题”。而知情人士称，索尼影业<a target="_blank" href="http://www.solidot.org/story?sid=42031"><u>关闭了计算机系统</u></a>，整个系统恢复工作可能需要数周的时间。GOP已经释出了一个217.6MB大小的压缩文件，其中包含了3个文件（LIST1、LIST2以及Readme），LIST1和LIST2列出了黑客从索尼网络窃取到的<a target="_blank" href="http://arstechnica.com/security/2014/11/sony-pictures-hackers-release-list-of-stolen-corporate-files/"><u>文件清单</u></a>，其中<a target="_blank" href="https://www.reddit.com/r/hacking/comments/2n9zhv/i_used_to_work_for_sony_pictures_my_friend_still"><u>包含了多个</u></a>与公司财务报告相关的PDF、DOC和 Excel 文件。PDF文件包含了密码、签证、以及出演索尼电影的演员身份证件，其中包括迪亚兹（ Cameron Diaz）和朱莉（Angelina Jolie）。从公布的清单看，黑客访问了个人的备份、 SharePoint服务器和文件服务器。
+➜Fabrice Bellard被遗忘的LTE基站软件
+https://www.solidot.org/story?sid=42054	23969
+<a href="http://imlibra.org">imlibra925</a> 写道<i> "很多人知道Fabrice Bellard，不过多数人好像只听说过他的QEMU、FFMPEG等知名的开源项目，却很少有人知道他的<a href="http://bellard.org/lte/" target="_blank">闭源LTE基站软件</a>。这个软件模拟了LTE基站（被称为eNodeB）及其核心网部分，可以与通用无线电设备<a href="https://www.ettus.com" target="_blank">USRP</a>配合，<a href="http://www.amarisoft.com/" target="_blank">用于架设私人的LTE网络</a>。至于被遗忘的原因，可能与获得该软件需要与该软件的商业代理Amarisoft公司<a href="http://www.amarisoft.com/?p=contact" target="_blank">联系</a>有关。在中国，<a href="http://www.geeflex.com/" target="_blank">Geeflex公司</a>代理该软件的销售，并开放参观。"</i>
+➜范艾伦带包含了一个超高速电子难以逾越的屏障
+https://www.solidot.org/story?sid=42055	25948
+<div align="center"><img src="http://img.solidot.com.cn/0/787/li66kk5MRC5AQ.gif" height="180" width="320" align=""><br>
+<br>
+</div>
+地磁场聚集的带电粒子在地球周围形成了一个被称为<a target="_blank" href="http://zh.wikipedia.org/wiki/%E8%8C%83%E8%89%BE%E4%BC%A6%E8%BE%90%E5%B0%84%E5%B8%A6"><u>范艾伦带</u></a>的辐射带。NASA的<a target="_blank" href="http://www.nasa.gov/vanallenprobes"><u>范艾伦探测器</u></a>发现它包含了一个超高速电子<a target="_blank" href="http://www.nasa.gov/content/goddard/van-allen-probes-spot-impenetrable-barrier-in-space/"><u>几乎难以逾越的屏障</u></a>。研究报告发表在今天出版的《自然》期刊上。范艾伦带有内外两层，内层从地球表面1000公里的高度延伸到6000公里，外层从1.3万公里延伸到6万公里。两颗范艾伦探测器发现，在通常情况下，范艾伦外层内边缘是高速高能电子难以渗透的边界，原因被认为是范艾伦带等离子层的散射作用。但在极端情况下如太阳风暴的冲击之下，外层的电子会被推进入内外层之间的区域。
+➜NSA将开源数据分析工具Nifi
+https://www.solidot.org/story?sid=42056	27457
+<div align="center"><img src="http://img.solidot.com.cn/0/788/li8xf7ayGkLJM.jpg" align=""><br>
+</div>
+NSA和开源软件并非水火不容。NSA本周<a target="_blank" href="https://www.nsa.gov/public_info/press_room/2014/nifi_announcement.shtml"><u>宣布</u></a>与Apache软件基金会合作，在Apache许可证下<a target="_blank" href="http://www.zdnet.com/nsa-partners-with-apache-to-release-open-source-data-traffic-program-7000036154/"><u>开源</u></a>数据分析工具Niagarafiles (Nifi)。NSA称Nifi能在多个计算机网络中自动化数据流，即使数据格式和协议存在差异。目前关于Nifi的细节透露的不多。Nifi首席开发者Joseph L Witt称，软件提供了一种方法更有效的区分数据流优先级，移除识别和传输关键信息的人为延迟。NSA技术转移项目负责人Linda L Burger说，他们使用开源的方法将技术从实验室转移到市场，使得最先进的技术能获得广泛使用，加速美国经济增长。NSA开源的项目最著名是Security-Enhanced Linux (SELinux)。
+➜Kim Dotcom宣布他破产了
+https://www.solidot.org/story?sid=42057	29907
+文件共享网站Megaupload创始人Kim Dotcom宣布<a target="_blank" href="http://www.bbc.com/news/technology-30209067"><u>他破产了</u></a>，称在2012年因盗版指控被捕后他已经花了1000万美元的律师费。他的律师团队已在两周前终止了工作，Dotcom表示将在法庭的保释听证会上代表自己辩护，他否认了洗钱、敲诈和合谋版权侵犯的指控。他说，律师辞职是因为他没有了钱。Kim Dotcom创办了一个政党——互联网党（ Internet Party）角逐今年的新西兰大选，但没有获得成功。他说，在卷入政治活动后新西兰现任总理及其政党就对其发动恶毒的攻击，给他打上了纳粹的标记，“今天我是贱民。”他表示政府的政治迫害取得了成功，现在人人都想看他被烧死。
+➜詹姆斯·沃森拍卖诺贝尔奖章
+https://www.solidot.org/story?sid=42058	32642
+CNN<a target="_blank" href="http://edition.cnn.com/2014/11/25/world/james-watson-to-sell-nobel-prize"><u>报道</u></a>，DNA双螺旋结构发现者之一的沃森（James Watson）将于12月4日在克里斯蒂拍卖行拍卖其诺贝尔奖章，预计拍卖价最高将达到350万美元。这是首次一位仍在世的诺贝尔奖得主拍卖其诺贝尔奖章。拍卖所得的一部分将捐出去。现年85岁的沃森<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2014/11/308114.shtm"><u>在声明中称</u></a>：“我希望能为冷泉港实验室、芝加哥大学和剑桥大学克莱尔学院多做些慈善贡献。这项拍卖意味着我也为保持思想火花与正义永存于学术环境做了我能做的事情。”与他共同发现DNA双螺旋结构的同事克里克已经去世，他给儿子的书信《Secret of Life》去年拍卖时以606万美元拍出。
+➜亚洲科技公司创办人难找接班人
+https://www.solidot.org/story?sid=42059	33496
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20141127/tec104420.asp"><u>报道</u></a>，亚洲高科技公司的创始人多已年迈，他们多数都面临着寻找合适接班人的难题。台积电创始人张忠谋在退休后又不得不重新复出，他现年83岁；三星和鸿海也都存在相同的问题。这一问题不仅仅为亚洲独有，但亚洲最为紧迫。标普资本排名前十大的亚洲上市科技企业中，有五家的CEO都不小于60岁：三星、鸿海科技、台积电、佳能和日立。其中鸿海与台积电目前都是由创始人领导。三星公司的实权则掌握在创始人之子、72岁的董事长李健熙手中。相比之下，美国前十大上市科技公司中只有一家的掌门人年龄超过60岁。哈佛商学院教授史兆威认为，亚洲企业普遍存在的一个问题是，很多企业由强有力的创始人掌舵，其运营方式更像是家族企业，即使在企业已经成长为大型跨国公司之后依然如此。
+➜广电总局禁止使用人艰不拆
+https://www.solidot.org/story?sid=42060	35028
+广电总局公布了《<a target="_blank" href="http://www.sarft.gov.cn/articles/2014/11/27/20141127143826180126.html"><u>关于广播电视节目和广告中规范使用国家通用语言文字的通知</u></a>》，禁止篡改乱用成语，以及使用网络流行词。通知要求严格规范通用语言文字使用，不得随意更换文字、变动结构或曲解内涵（例如把“尽善尽美”改为“晋善晋美”，把“刻不容缓”改为“咳不容缓”），不得在成语中随意插入网络语言或外国语言文字，不得使用或介绍根据网络语言、仿照成语形式生造的词语，如“十动然拒”“人艰不拆”，等等。通知要求对于不规范使用通用语言文字的节目坚决停播处理。
+➜用蓝光光盘改进太阳能电池效率
+https://www.solidot.org/story?sid=42061	38445
+蓝光是在光储存媒介时代的末期出现的，它虽然好于DVD，但只是一种渐进式改进，不具有DVD替代录像带的革命性，而云计算和高速互联网也让蓝光的未来日益黯淡。西北大学的研究人员给予了蓝光第二次机会：<a target="_blank" href="http://spectrum.ieee.org/energywise/energy/renewables/bluray-discs-find-useful-application-in-increasing-solar-cell-efficiency"><u>帮助改进太阳能电池效率</u></a>。太阳能电池的效率依赖于它能吸收的光子数量，印在太阳能电池板上的亚波长尺度准随机纳米结构（Quasi-random nanostructures）能增加捕获的光子数量，但制造生产所需的模具非常昂贵。美国西北大学的研究人员（其中多人是华裔）利用《警察故事3：超级警察》的蓝光光盘制造出了模具，其吸收光的效率增加了21.8%，使太阳能电池的能量转换效率达到了约12%。研究人员指出，蓝光光盘的内容无关紧要，只要通过数据压缩和错误控制调整能准随机化就行。
+➜埃博拉疫苗通过首轮临床测试
+https://www.solidot.org/story?sid=42062	39409
+根据发表在《新英格兰医学杂志》上的<a target="_blank" href="http://www.nejm.org/doi/full/10.1056/NEJMoa1410863"><u>研究报告</u></a>，对20位健康成年人的测试显示疫苗安全有效，<a target="_blank" href="http://news.sciencemag.org/health/2014/11/first-new-ebola-vaccine-moves-closer-real-world-test"><u>没有发现严重副作用</u></a>。根据世界卫生组织公布的最新统计数字，此轮埃博拉疫情已经造成1万5935人感染病毒，其中5689人死亡。美国国家卫生研究院的研究人员在20人身上注射不同剂量的疫苗，其中10名注射较高剂量的人体内产生较多埃博拉抗体。在部份人身上甚至发展出另一种可抵抗埃博拉的免疫细胞。有两人注射后曾发烧，但在服用退烧药后24小时内退烧。疫苗将于明年年初在塞拉利昂和利比里亚的医护人员身上<a target="_blank" href="http://www.nanzao.com/sc/international/43310/ai-bo-la-yi-miao-ce-shi-jie-guo-li-xiang-wei-jian-yan-zhong-fu-zuo-yong"><u>展开下一轮测试</u></a>。
+➜防火墙是科学家的敌人
+https://www.solidot.org/story?sid=42063	42652
+在一个数据驱动的世界里，共享数据是必不可少的。因为复现的需要，科学家对数据共享尤为重视。但在中国，你不能确信自己肯定能正常访问到数据或其他人能正常访问到你共享的数据。在审查日益收紧的情况下，你不知道数据存放的网站是否会在某一天突然无法访问。互联网本来是连通世界的伟大发明，但防火长城赋予了“越过长城走向世界”真正的含义，防火长城是科学的敌人，是中国科学家的敌人。<a href="http://https://paopao3.azurewebsites.net/">paopao</a> 写道 "如同济大学教授朱大可在微博上<a target="_blank" href="https://paopao3.azurewebsites.net/article/282"><u>所说</u></a>：“此举将摧毁中国跟世界的学术纽带，导致中国学术研究环境急剧恶化。
+"
+➜泰国研究生如何在美最高法院打败出版巨头
+https://www.solidot.org/story?sid=42064	45411
+1978年以来，美国教科书的价格上涨了7倍。但教科书的定价在全世界并不统一，出版商采用所谓的“市场细分”策略按地区制定价格，比如一本在美国之外销售的教科书售价50美元，而在美国要100美元。到美国留学的泰国研究生Supap Kirtsaeng注意到了这一明显的价格差异，为了挣学费，他让家人在曼谷的书店购买《 Organic Chemistry》和《Fundamentals of Physics》等教科书寄到他在洛杉矶的公寓，然后摆到eBay上出售。在两年时间里，他进口了大约500种教科书，销售收入百万美元，盈利10万美元，支付了在学校的开支。他没想到自己的小作坊生意会被年收入逾10亿美元的学术出版巨头John Wiley &amp; Sons注意到。Wiley提起了诉讼，指控他侵犯版权。如果出版商胜诉——出版商有权控制商品的转售，<u>那么</u><a target="_blank" href="http://arstechnica.com/tech-policy/2014/11/how-an-ebay-bookseller-defeated-a-publishing-giant-at-the-supreme-court/1/"><u>其影响无疑将是巨大的</u></a>，因为这意味着其它公司也可以控制转售，二手生意将会彻底被扼杀。幸好，美国最高法院<a target="_blank" href="http://www.solidot.org/story?sid=33925"><u>站在了Kirtsaeng一边</u></a>。

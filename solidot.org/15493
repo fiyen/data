@@ -1,0 +1,25 @@
+➜现金的最后荣光
+https://www.solidot.org/story?sid=29885	27720
+货币是人类至今创造的最重要抽象概念。从古至今，货币意味着贝壳，一块金片或一张纸。货币电子化数十年来，人类依旧依赖现金。但情况正在悄然改变，收入、储蓄和开支只需要改变数据库中的一些数据，所有的交易将通过虚拟完成，<a href="http://spectrum.ieee.org/static/future-of-money">技术将消除现金的必要性</a>。<i>
+<a href="http://spectrum.ieee.org/at-work/innovation/the-beginning-of-the-end-of-cash">我们为什么需要现金</a>？无政府主义者，毒贩，妓女和政客等等都有理由喜欢现金，台面下的交易在整个社会经济中占有重要一环。美国经济学家估计，18%到19%的美国可报告收入没有报告或没有正确报告。即使我们没有什么秘密好隐瞒，现金仍然是生活必不可少的一部分，你总不会买个水果都刷信用卡吧？生活中免不了小额现金交易。但小额的额度正变得越来越小。现金的最大挑战来自于移动支付，近场通信技术可以让你用手机购买商品，水果之类的交易不需要信用卡，但移动支付系统能让手机变成信用卡，应用于小额支付。</i>
+➜人民日报认为胡拉大屠杀叙利亚政府嫌疑最小
+https://www.solidot.org/story?sid=29886	28800
+<a href="http://www.lovelucy.info/">whuhacker</a> 写道 <i>"《人民日报》海外版近日发表<a href="http://news.cntv.cn/china/20120531/106678.shtml">评论员文章</a>，称西方一直喜欢干涉他国内政，胡拉事件为西方借机干涉叙内政提供了绝佳借口。屠杀事件发生时正值安南到访叙利亚，此时叙政府没必要滋事。所以，叙政府嫌疑最小。<br>文章认为，没有真相，就没有正义，当务之急是查清真相。所有热爱和平的政治力量都应该坚定信念，推动叙利亚政局“软着陆”。"</i>
+➜Obnam 1.0发布
+https://www.solidot.org/story?sid=29887	30600
+备份工具Obnam正式发布了<a href="http://blog.liw.fi/posts/obnam-1.0/">1.0稳定版</a>。<i>
+作者Lars Wirzenius在邮件列表上<a href="http://lwn.net/Articles/499846/">讲述了他的开发经历</a>：2004年他花了大约一天时间将文件刻录备份到光盘上，觉得作为一个懒人这么干不行，因此开始寻找备份程序，但没找到令他满意的，决定自己动手。2006年他开始开发Obnam，2007年他与Richard Braakman创建了一家备份业务的创业公司，但2007年资金耗尽公司关闭，他随后加入了 Canonical，2009年离职后加快了Obnam开发，并根据Odah Rodeh的写入时拷贝（COW）B-tree论文在 Python下实现了B-tree库。Obnam 1.0主要特性包括：类似btrfs的快照式备份；重复数据删除以节省空间，如果备份库已包括部分相同数据，那么这部分数据可被重复使用，即使它是在另一个不同文件内；使用GnuPG加密备份。
+</i>
+➜委内瑞拉新法律禁止私人拥有枪支
+https://www.solidot.org/story?sid=29888	41760
+委内瑞拉刚刚生效的新法律<a href="http://www.bbc.co.uk/news/world-latin-america-18288430">禁止向私人出售枪支和弹药</a>，此举据称是为了遏制暴力犯罪，因为78%凶杀案与火器有关。在此之前，拥有持枪执照的公民可以购买到枪支，但根据新的法律，只有警察、军队和保安公司才能从国有军火制造商和进口商购买枪支弹药。查韦斯政府表示，他们的目标是最终解除公民武装。委内瑞拉已发出了大赦令，要求公民上缴他们非法持有的枪支弹药，至今已有80.5000万子弹被收回。
+➜调查称46%的美国人持创造论观点
+https://www.solidot.org/story?sid=29889	43500
+最新的盖洛普民意调查<a href="http://www.gallup.com/poll/155003/Hold-Creationist-View-Human-Origins.aspx">结果</a>，<a href="http://science.slashdot.org/story/12/06/01/189220/in-america-46-of-people-hold-a-creationist-view-of-human-origins">46%的美国人认同</a>上帝在几千年前创造人类的创造论观点。持这种观点的人数占总人口的比例过去三十年未发生变化。根据调查，三分之一的美国人相信有上帝引导的人类演化论，15%的人相信人类的演化并无任何超自然的干预。调查显示，演化论信徒有每周参加教会礼拜的，而创造论信徒也有从不参加宗教活动的。共和党人中持有创造论的人数比例多于民主党和无党派人，调查中共和党人有58%信仰创造论，无党派是39%，民主党是41%。
+➜IE10默认启用Do Not Track
+https://www.solidot.org/story?sid=29890	54720
+Windows 8 Release Preview包含了<a href="http://arstechnica.com/information-technology/2012/06/internet-explorer-10-embedded-flash-do-not-track-and-stable-standards/">第六个IE10预览版</a>。新版IE整合了Adobe Flash插件，默认启用Do Not Track ，进一步改进了Web标准支持。IE10内置的Flash插件支持x86/x64，以及ARM，连微软自己的Silverlight都没有如此好的待遇。微软和Adobe合作改进了Flash播放器的电池寿命和安全性。在整合到浏览器中后，微软将通过Windows Update更新Flash，它的版本号是11.3，而其它平台目前使用的还是11.2。至于Do Not Track，微软官方博客<a href="http://blogs.msdn.com/b/ie/archive/2012/05/31/windows-release-preview-the-sixth-ie10-platform-preview.aspx">表示</a>，IE10将成为第一个默认启用Do Not Track的浏览器，表示作出这一决定是为了在在线隐私信息收集的时代改进隐私保护。
+➜Humble Indie Bundle V销售额达250万美元
+https://www.solidot.org/story?sid=29891	56160
+玩家可自由定价的独立游戏软件包<a href="https://www.humblebundle.com/">Humble Indie Bundle V</a>推出两天，其销售额即达到250万美元。<i>
+HIB5包括了五款高评价的独立游戏，包括动作游戏<a href="http://www.psychonauts.com/">《精神世界（Psychonauts）》</a>（Metascore评分<a href="http://www.metacritic.com/game/pc/psychonauts">87/100</a>）、恐怖冒险游戏《<a href="http://www.amnesiagame.com/">失忆症：黑暗后裔</a>》(<a href="http://www.metacritic.com/game/pc/amnesia-the-dark-descent">85/100</a>)，刚刚发布的冒险游戏《<a href="http://www.amnesiagame.com/">Superbrothers: Sword &amp; Sworcery EP</a>》(<a href="http://www.metacritic.com/game/pc/superbrothers-sword-sworcery-ep">85/100</a>)，2D卷轴类冒险游戏《<a href="http://limbogame.org/">地狱边境(LIMBO)</a>》(<a href="http://www.metacritic.com/game/pc/limbo">88/100</a>)，以及动作角色扮演游戏《<a href="http://supergiantgames.com/?page_id=242">堡垒（Bastion）</a>》（<a href="http://www.metacritic.com/game/pc/bastion">86/100</a>）(Bonus，需要出价超过均价才可解锁)。这些游戏都支持Windows、OSX和Linux平台，可在Steam上激活，也支持<a href="http://blog.canonical.com/2012/05/31/humble-indie-bundle-5-comes-to-the-ubuntu-software-centre/">Ubuntu Software Centre</a>。</i>

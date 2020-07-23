@@ -1,0 +1,103 @@
+➜SourceForge屏蔽伊朗、朝鲜、叙利亚、苏丹和古巴访问网站
+https://www.solidot.org/story?sid=15953	60
+此举无疑与自由软件运动的核心精神相违背：开源软件托管网站SourceForge<a href="http://www.downloadsquad.com/2010/01/25/sourceforge-blocks-iran-north-korea-syria-sudan-and-cuba/">屏蔽</a>伊朗、朝鲜、叙利亚、苏丹和古巴五国访问网站——这些国家都列了美国的外国资产管制制裁黑名单上。这并非是一个故事的开始。早在2008年，上述国家就只允许浏览网站，而不允许深入接触源代码仓库——可以下载，但无法捐赠代码。现在SourceForge则更进一步的屏蔽了这些国家的访问。
+➜Visual Studio 2010强制制表符缩进
+https://www.solidot.org/story?sid=15954	1200
+多年来，微软允许Visual Studio用户定义任意长的制表符宽度，然而这却常让代码在其它编辑器中的浏览变得十分混乱。在Visual Studio 2010中，微软似乎采取了措施修正错误，<a href="http://developers.slashdot.org/story/10/01/25/038209/Visual-Studio-2010-Forces-Tab-Indenting">强制制表符宽度</a>与代码中缩进大小相同的值。
+➜盖茨谈论Google事件
+https://www.solidot.org/story?sid=15955	1680
+依法审查 写道<i> "美国广播公司(ABC)的"Good Morning America"节目就最近Google事件<a href="http://www.reuters.com/article/idUSTRE60O33O20100125?feedType=RSS&amp;feedName=internetNews&amp;rpc=69">对比尔.盖茨进行采访</a>，盖茨表示当你在某国时你必须决定自己是不是要遵守当地法律。如果不，你的结局可能就是做不成生意。盖茨认为中国的网络审查成效非常有限，很容易绕过去。他认为重要的是保持中国互联网市场的兴旺。"</i>
+➜Oracle源代码中发现Radiohead经典歌词
+https://www.solidot.org/story?sid=15956	1920
+<a href="http://www.mubear.com/">airy</a> 写道 <i>"一个名为Dennis Yurichev的用户在google group 里面发帖（<a href="http://groups.google.com/group/comp.databases.oracle.server/browse_thread/thread/bfb6bb7e27cfd35a#">链接</a>）说他在 Oracle.exe 的文件代码里面发现了著名乐队 Radiohead 经典曲目《creep》的歌词。
+$ strings oracle.exe | grep radiohead
+I'm a creep, I'm a winner, what the hell am I doing here.
+I don't belong here - radiohead
+有条件的Geek可以验证下，上文是否属实。《creep》的歌词原文中的“I'm a creep”被改成了“I'm a winner”。这位老兄难道是在发泄对他们总裁的花边新闻不满吗？（甲骨文总裁刚在公司总部附近被人贴了大字报，详见<a href="http://news.ccidnet.com/art/1032/20100125/1986245_1.html">链接</a>）"</i>
+➜人权组织网站遭DDoS
+https://www.solidot.org/story?sid=15957	4560
+/.<a href="http://it.slashdot.org/story/10/01/25/167208/Chinese-Human-Rights-Orgs-Hit-By-DDoS">报道</a>，有多个人权组织的网站遭DDoS攻击。其中一个人权组织在周一<a href="http://www.pcworld.com/businesscenter/article/187597/chinese_human_rights_sites_hit_by_ddos_attack.html">发表声明</a>称，从上周六下午开始，他们的网站受到了长达16个小时的拒绝访问攻击（DDoS），该组织声称他们无法确认攻击来源，但怀疑是最近颇引入关注的某国政府。另一家人权组织通过电子邮件发表声明表示，在攻击的高峰期，带宽消耗达到了每秒2GB。
+➜Mozilla尝试新的“Lorentz”开发模式
+https://www.solidot.org/story?sid=15958	7200
+随着Firefox 3.6的发布，Mozilla已经决定<a href="http://developers.slashdot.org/story/10/01/25/1648218/Mozilla-Tries-New-Lorentz-Dev-Model">尝试新的开发和发布模式</a>，以尽可能快的向用户传递新的特性，同时维持向后兼容性，安全性和整体代码质量。<i>
+新开发模式代号为“Lorentz”，融合了Agile和更传统的waterfall开发模式。在Firefox 3.6之前，Mozilla主要是向Firefox稳定版Firefox 3.5提供安全和稳定性方面的更新（最新版本是Firefox 3.5.7），只有大的更新如从Firefox 3.5到Firefox 3.6，浏览器才会增加新特性。Mozilla现在认为这种开发和发布模式太过于缓慢，Lorentz模式将让Firefox 3.6.x在增加新特性的同时不会破坏API或导致扩展的兼容性问题。这种方法类似Linux内核2.6.x的发布模式，2.6.x每隔3个月更新一次，每次更新都会加入新的特性。新的开发模式是否真的有效？有评论认为Mozilla正步入一种传统的陷阱，通过增加新特性去扩大用户基础，而不是通过改善质量去维持现有的用户基础。</i>
+➜SETI创始人德雷克博士构想更雄心勃勃的计划
+https://www.solidot.org/story?sid=15959	8400
+SETI（搜寻地外文明）的创始人德雷克博士（Frank Drake，德雷克方程式的提出者）在英国皇家学会的会议上表示，他确信宇宙其它地方中有智能生命。虽然在SETI创建50年后，仍然没有一丝证据证明他的论点。但德雷克博士并未为此感到气馁，<a href="http://www.wired.co.uk/news/archive/2010-01/25/seti-founder-outlines-ambitious-plans-for-future.aspx">他反而提出了更激进的计划</a>，以表明过去50年并不是浪费时间——在月球背面建立一座射电天文台。德雷克博士博士认为月球是建造射电望远镜的理想之地，但承认要花很多很多钱。他还建议比太阳和地球距离远500倍的地方部署一台探测器，利用太阳作为放大镜的透镜，去发现外星世界。
+➜黑客声称破解PS3
+https://www.solidot.org/story?sid=15960	11400
+20岁的黑客George Hotz(a.k.a.<a href="http://twitter.com/geohot">geohot</a>)最为所知的事迹是解锁了苹果的iPhone手机，现在他<a href="http://games.slashdot.org/story/10/01/25/0654253/PS3-Hacked">宣称</a> <a href="http://geohotps3.blogspot.com/2010/01/hello-hypervisor-im-geohot.html">破解了索尼的主机PlayStation 3</a>。<i>
+他在博客上写到：“我已经能读/写访问整个系统内存，在HV level上访问处理器。换句话说，我已经破解了PS3。剩下的只是软件和逆向工程。”Hotz感慨PS3是一个非常安全的系统，从发布到破解共花了3年，2个月，11天，Hotz称他暂时不会透露破解的秘密。他用了5周时间，利用修改主机硬件和软件的组合方法才完成这一成就。PS3是目前三大主机中唯一没有被破解的。</i>
+➜Linux 2.6完全公平调度器内幕
+https://www.solidot.org/story?sid=15961	12000
+IBM开发者园地的一篇文章详细解释了<a href="http://www.ibm.com/developerworks/cn/linux/l-completely-fair-scheduler/index.html?ca=drs-cn-0125">Linux 2.6完全公平调度器（Completely Fair Scheduler）内幕</a>；<i>
+“任务调度器是任何操作系统的关键部分，Linux 在此领域中不断发展和创新。在内核 2.6.23 中，推出了<a href="http://en.wikipedia.org/wiki/Completely_Fair_Scheduler">Completely Fair Scheduler</a>(CFS)。这款调度器不依赖于运行队列而是使用红黑树 (red-black tree) 实现任务管理...CFS背后的主要想法是维护为任务提供处理器时间方面的平衡（公平性）。这意味着应给进程分配相当数量的处理器。分给某个任务的时间失去平衡时（意味着一个或多个任务相对于其他任务而言未被给予相当数量的时间），应给失去平衡的任务分配时间，让其执行。要实现平衡，CFS 在叫做虚拟运行时 的地方维持提供给某个任务的时间量。任务的虚拟运行时越小， 意味着任务被允许访问服务器的时间越短 — 其对处理器的需求越高。CFS 还包含睡眠公平概念以便确保那些目前没有运行的任务（例如，等待 I/O）在其最终需要时获得相当份额的处理器。 ”</i>
+➜Chrome 4.0发布，引入扩展和书签同步
+https://www.solidot.org/story?sid=15962	13320
+Google正式<a href="http://chrome.blogspot.com/2010/01/over-1500-new-features-for-google.html">发布</a>了<a href="http://google.com/chrome?brand=CHMP">Chrome for Windows  4.0版</a>。<i>
+新版本最受人期待的功能是<a href="http://www.osnews.com/story/22794/Chrome_4_0_Brings_Extensions_Bookmark_Sync">扩展系统和书签同步</a>。Chrome目前提供的<a href="https://chrome.google.com/extensions">扩展数量</a>已经超过1500款，其中包括屏蔽广告的扩展。书签同步功能则允许在不同机器上同步书签，用户不需要在每一台机器上手动创建或管理书签，当然这需要用户有Google帐号。此外，新版本支持HTML5特性如LocalStorage、Database API、WebSockets等，以及通知API——它对未来的Chrome OS显然十分重要。Chrome 4.0正式版只有Windows版，Linux仍然是beta。</i>
+➜美国回应中国的评论
+https://www.solidot.org/story?sid=15963	14400
+《华尔街日报》<a href="http://cn.wsj.com/gb/20100126/bch105232.asp">报道</a>，在一段时间的沉寂后，中国开始发动了<a href="__SLASHLINK__" sect="internet" sid="10/01/25/037259" sn="article" tid="120">密集反击</a>。<i>周一，中国各主要国有媒体连续第二天发表和播出十余篇评论文章，称美国国务卿希拉里•克林顿和谷歌公司中国互联网政策的指责是虚伪之举，并说谷歌变成了美国“意识形态战”的马前卒。《华尔街日报》认为，“中国以地毯轰炸式手段引导公众舆论之举也是在含蓄地承认政府在控制中国互联网的能力上是有限的，中国网民数量增长迅速，目前已达3.84亿，这使得信息的传播越来越难以控制。”</i>对于中国方面的评论，美国国务院发言人<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/01/100126_us_china_diplomacy.shtml">回应称</a>，美国不会放弃宣扬网络信息自由等价值。助理国务卿克劳利说，美国意识到中国在信息管制方面有着“不同立场”，而美方认为这样“与信息环境和21世纪的大前提不相符”。
+➜IBM_DB gem 2.0.0正式版发布
+https://www.solidot.org/story?sid=15964	17400
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "IBM_DB gem (adapter &amp; driver) 2.0.0<a href="http://news.wangmeng.cn/detailNews/1703-ibm_db-gem-2-0-0-final-version-released">正式版发布了</a>。此版本添加了ActiveRecord使用DB2进行参数SQL查询的支持，有了这些支持就可以获取更多Rails中的性能优势。<i>
+随着 IBM_DB adapter &amp; driver的引入，Rails 应用程序可以无缝地与 IBM 数据进行交互。IBM_DB adapter &amp; driver是一个由 IBM 官方开发并维护的用于 Ruby 的 DB2 驱动。实际上，它的开发人员就是 DB2 的开发人员。因此，在性能和对 DB2 的兼容性上，与社区开发的驱动相比，它具有先天的优势。也因此，它总能与 DB2 同步更新以支持 DB2 中的那些令人艳羡的新功能。通过 IBM_DB 项目的活跃，也可以看出来，IBM 对 ROR 社区的重视。并且 IBM_DB 本身现在也是 rubyforge 中的一个开源项目，它为使用 ROR 和 DB2 的开发人员和那些想为其他数据库提供驱动程序的开发人员提供了良好的参考。
+</i>
+<a href="http://rubyforge.org/frs/?group_id=2361">下载IBM_DB gem 2.0.0</a>"
+➜Windows Live Hotmail Wave 4新特性
+https://www.solidot.org/story?sid=15965	19500
+匿名读者 写道<i> "LiveSino<a href="http://livesino.net/archives/2426.live">获得爆料</a>：Windows Live Hotmail Wave 4 将支持对话视图模式，邮件标记，快速查看（Quick Views），并且 Hotmail Today 的页面已被 Windows Live Home 代替。尤其是最后一点，暗示了 Windows Live Home 发展的新方向。"</i>
+➜方舟子称无法向国内邮箱发送邮件
+https://www.solidot.org/story?sid=15966	33000
+新语丝网站创始人方舟子在博客上<a href="http://xysblogs.org/fangzhouzi/archives/6846">声称</a>：“从三天前开始，凡是我从yahoo.com发给使用163.com，188.com邮箱的网友的信都被退回。”他在调查后发现网易邮箱将他列入了拒收邮件的黑名单。国内邮箱无法接收到国外邮箱邮件的情况<a href="http://www.google.cn/search?hl=zh-CN&amp;source=hp&amp;q=%E5%9B%BD%E5%86%85%E9%82%AE%E7%AE%B1+%E6%97%A0%E6%B3%95%E6%8E%A5%E6%94%B6+%E9%82%AE%E4%BB%B6&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;aq=f&amp;oq=">屡有发生</a>。
+➜深圳富士康又有员工猝死
+https://www.solidot.org/story?sid=15967	34200
+富士康深圳观澜分厂的19岁员工马向前上周六（1月23日）凌晨被发现死于宿舍楼下，法医初步<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/01/100126_china_foxconn_death.shtml">确定为猝死</a>。此事在互联网上再次引发争议，天涯社区发表的一篇名为“<a href="http://www.tianya.cn/publicforum/content/free/1/1795637.shtml">又一具打工者尸体从富士康深圳生产线上被拖出</a>”的帖子声称死者身上伤痕累累，并指称富士康管理方曾阻挠死者家属前往现场。<i>
+富士康于周一紧急召开新闻发布会，声明和死亡事件无关以及并未阻挠家属见死者尸体，同时悬赏50万元人民币征集马向前死因的有关线索。富士康是苹果iPhone(以及即将发布的平板电脑)的主要代工厂。2009年7月，富士康深圳观澜分厂曾发生25岁员工孙丹勇跳楼自杀事件。富士康为此向死者家属一次性支付5万多美元抚恤金，并在死者父母有生之年向他们每年支付4400美元。</i>
+财富杂志公布了<a href="http://money.cnn.com/magazines/fortune/bestcompanies/2010/full_list/">最新雇主排行榜</a>：<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20143979,00.htm">榜首</a>是商业软件公司SAS，搜索巨人Google排第四，思科公司(Cisco)名列第16，Adobe第42名，微软排名51。这份榜单根据薪酬、福利、工作机会增幅等项目评分。
+➜开源RTOS Atomthreads 1.0版发布
+https://www.solidot.org/story?sid=15968	36960
+<a href="http://atomthreads.com/">Atomthreads</a>是一款自由、轻量级、便携式、实时调度的<a href="http://www.osnews.com/story/22792/Atomthreads_Open_Source_RTOS_Released">嵌入式操作系统</a>。它采用BSD许可证发布源代码，无论是出于商业还是教育目的都可以不受限制的免费使用。Atomthreads针对的是只需要调度器和基本RTOS功能的系统，它不包含文件系统、IP堆栈或设备驱动程序。但开发者可以按需添加。Atomthreads是一个小的C文件，很容易移植到其它平台。
+➜长时间玩游戏导致佝偻病卷土重来
+https://www.solidot.org/story?sid=15969	38520
+根据医生的<a href="http://games.slashdot.org/story/10/01/22/174240/Prolonged-Gaming-Blamed-For-Rickets-Rise">一项新研究</a>，长时间在室内玩游戏导致了佝偻病卷土重来。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E4%BD%9D%E5%83%82%E7%97%85">佝偻病</a>是一种会在儿童时期发生的人类疾病，原因是维生素D的摄取不足。维生素D是产生促进钙质吸收的酶的必须原料，而维生素D缺乏则导致成长中的骨骼中沉积的钙质不足。佝偻病常出现于穷困地区，然而现在一些医生发现，由于发达国家儿童花太长时间在室内玩视频游戏，不再像过去一样到室外活动，导致他们体内的维生素D缺乏，结果是佝偻病病例上升。英国的Simon Pearce教授称，仅仅在纽卡斯尔一地，每年新增的佝偻病病例达20起。英国国家卫生局的数据显示每年有大约100名孩子接受佝偻病症治疗。</i>
+➜Google:用任何阅读器订阅任何页面
+https://www.solidot.org/story?sid=15971	39240
+<a href="http://3seconds.cn/">3秒</a> 写道<i> "Google刚刚宣布了Google Reader的<a href="http://googlereader.blogspot.com/2010/01/follow-changes-to-any-website.html">一项重要功能更新</a>，使用该功能，你可以跟踪任何页面的变化（要有访问权限），即使那个站点不提供RSS Feed，你也可以”订阅”它。Google会创建它自己的RSS Feed，然后把更新推送给订阅用户。Google Reader将显示在页面变化的摘要。3秒就尝试了一下，订阅了http://www.google.cn/这个页面。Google会为页面变化创建非常简单的Feed，但是Google计划多久去Ping一次你订阅的站点（页面）还不得而知。</i>其实以上就让3秒觉得不可思议了，因为就我所接触的东西来说，这东西又有点打破概念，无所不能的意思。但其实更不可思议的是：你不使用Google Reader(使用鲜果等阅读器)也可以订阅任何页面的变化，操作在<a href="http://3seconds.cn/2010/01/26/google-reader-track-changes.html">这里</a>(注：目前Google Reader中文版好像还不能使用此功能，英文版测试正常)。"
+➜少将认为网络防火墙应该铜墙铁壁化
+https://www.solidot.org/story?sid=15970	40200
+Stranger 写道<i> "中央社报道，<a href="http://dailynews.sina.com/gb/chn/chnoverseamedia/cna/20100125/23181145273.html">解放军少将张斌建议</a>：中国应加快网络安全建设，发展自有操作系统及可靠芯片，把网络防火墙打造成“铜墙铁壁”。有关互联网的管理，关系到中国国家安全和社会稳定。中国对互联网的发展，有自己的方式与思维模式。美国不应将自己的价值观与意识形态强加于中国，更不应将“谷歌事件”上纲至政治高度。中国还需重视自身的网络安全，加强网路防火墙建设。他举例说，近日中国电信CDMA网路发生状况，涉及绝大多数省份，影响多个基地台的正常运行，原因是来自美国对GPS系统升级。由于CDMA在实现网络同步等方面仰赖GPS系统，采用CDMA技术的通讯基地台在工作的切换、漫游等方面都需要GPS精确的时间控制。因此，当GPS系统进行升级时，CDMA网路自然就受到影响。张斌表示，从此事就能看出，中国在IT领域的某些技术还掌握在别人手里。张斌指出，最近发生的一系列事件，从另一层面来说，也给予中国足够警示--只能加快网络安全的建设，打造拥有自主知识产权的操作系统、可信的核心芯片，彻底摆脱对Windows操作系统、GPS系统的依赖。张斌强调：“中国军队的网络应犹如一个坚实的堡垒，不可能让别国钻空子，也不可能给他们机会。”"</i>
+➜签署《公共领域宣言》
+https://www.solidot.org/story?sid=15974	42600
+<a href="http://www.blawgdog.com/article/BLawg/Public_Domain_Manifesto.htm">法豆上的一篇文章</a>呼吁签署《<a href="http://www.publicdomainmanifesto.org/node/8">公共领域宣言</a>》。这个宣言由欧洲的一个致力于推动数字时代的公共领域建设的组织<a href="http://communia-project.eu/">COMMUNIA</a>起草。
+<i>“<a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E6%9C%89%E9%A2%86%E5%9F%9F">公共领域</a>”（Public Domain，又称公有领域）通常指不在著作权法保护范围内的作品及知识内容。人们已经习惯于一个对信息的传播和利用进行限制的世界。因此，这种描述是以“版权法保护下的作品”为参照系，但无论在逻辑上还是历史上，公共领域在先，版权等其它限制公共领域的制度在后。“公共领域”并不依赖于版权法而存在，相反，版权法只是在公共领域中划走一块蛋糕而已。<br>
+《公共领域宣言》明确说明，所谓公共领域内的信息，不仅包括法律未限制其传播的信息，而且还包括尽管法律限制了其传播，但相关权利人放弃了权利的信息。其次，《公共领域宣言》列举了一系列总的观念上的基本原则。例如：公共领域是常态，版权保护是例外。宣言提出了九项主张：</i>           　　第一，版权保护期应当被缩短；<br>
+第二，在考虑对版权保护范围做出任何改变（包括任何新定义的专有权利范围）之前，必须将公共领域的保持考虑在内。<br>
+第三，如果一个作品在其起源地的版权法制度中已经被认为是在公共领域中，则这个作品应当在世界其它地方也被归入公共领域。<br>
+第四，法律应惩罚独占或企图独占公共领域资料的行为。<br>
+第五，不应使用任何别的知识产权制度限制公共领域的资料的利用。<br>
+第六，必须寻找能使孤儿作品和脱销作品得到充分利用的机制。<br>
+第七，文化遗产组织应当在标明和保护公共领域资料的工作中发挥特殊作用。<br>
+第八，对主动将自己作品奉献到公共领域中的行为，不应当设置任何法律上的障碍。<br>
+第九，个人非商业性使用任何作品的权利应当得到保护，同时应当寻找可以为作者提供替代性报酬的机制。<br>
+➜谷歌创始人出售价值55亿美元的股票
+https://www.solidot.org/story?sid=15972	43620
+<a href="mailto:weakfox@gmail.com">weakfox</a> 写道 "<a href="http://news.bbc.co.uk/2/hi/business/8477521.stm">1月24日的消息称</a>，Google的两位创始人Larry Page和Sergey Brin卖出了他们持有的1000万股股票，价值为55亿美元。这次交易之后，两位创始人的持有股票数量将不足总量的半数，交易结束后他们的表决权将由原本的59％降低至48％。这次交易将在未来五年内逐渐完成。这次的出售股票有一定的放权意义。但尽管进行了此次出售交易，他们仍然占有对Google主要的控制权。"
+➜SourceForge屏蔽来自5个国家的访问
+https://www.solidot.org/story?sid=15973	43740
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "SourceForge已经<a href="http://news.wangmeng.cn/detailNews/1706-sourceforge-shielded-from-five-countries-access-to">屏蔽了所有来自美国</a>“投资制裁国家名单”中的国家：包括伊朗，北韩，叙利亚，苏丹和古巴。此举无疑会引起开放源代码阵营，以及GNU的十字军战士如Stallman先生的强烈不满。这并不是故事的开始，早在2008年在这些国家也只允许浏览SourceForge，不能与代码库进行接触---不能下载，也不能贡献代码。现在终于圆满 了，如果你居住在伊朗，北韩，叙利亚，苏丹或者古巴，你压根就不能访问了。
+<i>按照OSI（开放源码协会）的定义：<br>
+5. 不能歧视任何人或者群体<br>
+6. 不能歧视任何领域的贡献者<br>
+许可证必须不能限制任何人在特定领域对程序的使用，比如说，不能限制程序不能应用于商业，或者不能用于一般性的研究。<br>
+<br>在今天，开源精神遭到了践踏，SourceForge会因为他们被要求屏蔽流氓国家而去美国国会抗议么？</i>
+这是个棘手的问题，难道仅仅因为这几个国家的极少数的一部分人的极端行为，就要整个国家遭到惩罚么？开源软件为这些受到压迫和发展中的国家提供了重要的基础设施。希望美国政府能够看到对这些国家基础设施和羽翼未丰的产业带来的打击。"
+➜comScore发布搜索增长报告，百度全球第三
+https://www.solidot.org/story?sid=15975	54000
+&gt; <a href="http://semwatch.org/">搜索引擎营销观察</a> 写道<i> "comScore 近日发布了<a href="http://www.comscore.com/Press_Events/Press_Releases/2010/1/Global_Search_Market_Grows_46_Percent_in_2009">搜索增长报告</a>，全球搜索量增长了46%。美国搜索量自 2008 年 12 月到 2009 年 12 月增长 22%，达 227 亿次；中国达 133 亿次，年增长比率为 13%。其中在 Google 发生的搜索占全球的 66.8%，有 878 亿次，增长率为 58%；雅虎为94.44亿次，增长率为13%；百度为 85 亿次，增长率为 7%；阿里巴巴不升反降。<a href="http://semwatch.org/2010/01/search-continues-to-grow">点击查看详细数据</a>。"</i>
+➜蝙蝠和鲸类有相同的声纳蛋白质
+https://www.solidot.org/story?sid=15976	56880
+蝙蝠和海豚是两种完全不同的哺乳动物，但是它们都使用回声定位法发射声波和探测猎物。一项令人惊讶的新研究显示，这两种极为疏远的动物有着不同的进化道路，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2010/125/3?rss=1">却殊途同归的进化出相同的蛋白质以实现回声定位</a>。<i>
+这种蛋白质名叫纯合子（prestin），存在于所有哺乳动物身上，它帮助内耳中的“外毛细胞”放大传入的声波。由于人类的纯合子基因上有变异，因此无法接收高频声波。华东师范大学生命科学学院生态学家<a href="http://faculty.ecnu.edu.cn/zhangshuyi/Info_cn.html">张树义教授</a>想知道prestin是否已进化到让高频听觉能力成为可能，而蝙蝠便是利用高频声波进行回声定位。张教授与研究生Liu Yang、英国伦敦大学Stephen Rossiter博士和James Cotton博士等人合作分析关系疏远的不同种类蝙蝠的prestin基因序列。2008年他们发现独自进化的蝙蝠之间有看起来相同的prestin。研究人员决定扩大范围，观察海豚和齿鲸类的prestin是否有类似的现象，因为它们也使用回声定位方法。他们测序了多种海豚的prestin基因。结果令人吃惊的发现基因中有14个位置和蝙蝠完全相同，其中6种证明可能是源于趋同进化。<a href="http://www.cell.com/current-biology/abstract/S0960-9822(09)02073-9">报告</a>发表在26日出版的《当代生物学》杂志上。研究人员随后用计算机模拟prestin基因是如何随时间变化的。他们最后认为自然选择可能推动产生出同样的基因突变。多数研究人员推测，不同环境生物之间的相似性可能是不同基因演化导致的，或至少是相同基因的不同突变。因此，英国Bristol大学的进化生物学家Gareth Jones说，新发现是“非常出人意料”。</i>

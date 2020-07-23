@@ -1,0 +1,12 @@
+➜北京法庭裁决浏览器视频广告过滤功能构成不正当竞争
+https://www.solidot.org/story?sid=59205	40552
+官媒新华社<a href="http://www.xinhuanet.com/2019-01/06/c_1123953294.htm"><u>报道</u></a>，北京知识产权法院终审裁定世界之窗浏览器过滤广告功能构成不正当竞争，判决其开发商世界星辉赔偿腾讯经济损失及合理支出 189 万余元。腾讯一审诉称，世界之窗浏览器设置有广告过滤功能，用户可有效过滤“腾讯视频”网站在播放影片时的片头广告和暂停广告，使腾讯公司不能从该业务中获取直接收益。一审法院认为，广告过滤功能属于行业惯例，驳回了腾讯全部诉讼请求。腾讯提起上诉。二审中，腾讯公司提交了有关过滤广告功能对网络视频行业影响的经济学分析报告。北京知识产权法院经二审审理后认定，《互联网广告管理暂行办法》明确禁止被诉行为，说明主管机关已将此类行为认定为违反公认的商业道德。被诉行为虽看似有利于消费者，但其将对视频网站的商业模式及生存空间造成严重影响，最终成本仍需消费者承担。世界之窗浏览器已经停止开发，其最后一个版本还是在 2016 年 4 月<a href="http://www.theworld.cn/v7/notes.html"><u>释出的</u></a>。腾讯视频网站会检测用户的浏览器是否启用广告过滤器，如果启用则会将视频分辨率强制设定为最低。
+➜Chromium 将 Nouveau 驱动加入到黑名单
+https://www.solidot.org/story?sid=59206	50460
+逆向工程 Nvidia 闭源驱动的开源驱动项目 Nouveau 长期以来一直没有获得 Nvidia 的支持，也一直在稳定性上存在问题。因为稳定性问题，Chromium 71 将 Nouveau 驱动<a href="https://lists.freedesktop.org/archives/nouveau/2019-January/031798.html"><u>加入到黑名单</u></a>，意味着浏览器在安装 Nouveau 驱动的  Linux 操作系统不会启用 GPU 加速。Google 开发者的<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=876523"><u>理由</u></a>是他们没有资源在 Linux 上测试每一种 GPU/驱动组合的变种。Google 这种让所有 Nouveau 用户都无法使用 GPU 加速的做法让用户<a href="https://news.ycombinator.com/item?id=18834715"><u>颇感不满</u></a>。
+➜科学家称困扰美国驻古巴外交官的声音是蛐蛐叫声
+https://www.solidot.org/story?sid=59207	52932
+美国<a href="https://www.solidot.org/story?sid=54111"><u>指责</u></a>古巴在 2016 年对其外交官发动了声波攻击，导致部分外交官及其家属出现头晕恶心等症状。美国当时下令撤回了五分之三的外交官。古巴则对此坚决予以否认。去年 5 月，美国驻广州总领事馆报告出现了类似的症状。现在，两名科学家<a href="https://www.nytimes.com/2019/01/04/science/sonic-attack-cuba-crickets.html"><u>公布证据称</u></a>，神秘声音并不神秘，它们实际上是雄性蛐蛐的叫声，是失恋的雄蛐蛐在痛苦的叫。这并不是断言外交官没有遭到攻击，而是美联社公布的录音不是声波武器。加州伯克利 Alexander Stubbs 和英格兰  Lincoln 大学 Fernando Montealegre-Z 的<a href="https://www.biorxiv.org/content/early/2019/01/04/510834"><u>论文</u></a>发表在预印本网站上。<br>
+➜Windows 10 最新测试版关闭 Cortana 语音指导，支持无密码登陆
+https://www.solidot.org/story?sid=59208	56380
+Windows 10 最新测试版 18309 <a href="https://arstechnica.com/gadgets/2019/01/latest-windows-10-build-makes-setup-quieter-passwords-optional/" target="_blank"><u>引入了无密码账号</u></a>，用户将可以通过一次性短信代码创建微软账号。短信代码并不安全，微软可能认为它总体上好于不安全的密码。在用短信代码登陆之后，系统将会提示用户创建生物识别认证或 PIN 验证。指纹、脸和 PIN 码之后可以用于登陆系统。此外，微软还修改了 Windows 10 专业版、企业版和教育版用户的安装流程，关闭了恼人的 Cortana 语音指导，让管理员安装多台 Windows 10 系统时不再需要一遍遍听 Cortana 的语音。

@@ -1,0 +1,45 @@
+➜WebAssembly 草案 1.0 诞生
+https://www.solidot.org/story?sid=57602	11795
+匿名读者 写道 <i>"2018 年 7 月，<a href="https://zh.wikipedia.org/wiki/WebAssembly" target="_blank">WebAssembly</a> 的第一份<a href="https://webassembly.github.io/spec/core/bikeshed/index.html" target="_blank">标准草案</a>终于诞生。WebAssembly 也叫 wasm，是最新的 Web 汇编语言标准，同时涵盖了一个虚拟机标准，可以用于浏览器或者其它嵌入式环境。WebAssembly 被刻意设计为便携式的抽象语法树结构，用于提供比 JavaScript 更快速的编译和运行。2018 年，Firefox、Chrome、Microsoft Edge、Safari 等主流的浏览器已经充分支持 WebAssembly 特性。已经有人模仿 JavaScript 的 Atwood 定律创作了一个<a href="https://zh.wikipedia.org/wiki/WebAssembly#Ending%E5%AE%9A%E5%BE%8B" target="_blank" style="font-size: 14px; white-space: pre;"> Ending 定律</a>：所有可以用 WebAssembly 实现的终将会用 WebAssembly 实现。看来 Web 世界又要掀起一场技术变革了。"</i>
+➜红芯浏览器承认过度宣传，但该公司被发现问题很多
+https://www.solidot.org/story?sid=57603	14255
+红芯浏览器官网发表<a href="https://www.redcore.cn/index.html" target="_blank"><u>声明</u></a>承认<a href="http://www.bjnews.com.cn/finance/2018/08/17/499920.html" target="_blank"><u>过度宣传</u></a>，承认其浏览器是基于 Chromium，浏览器核心并非自主研发。但这家最近成为热点的公司被发现问题不限于产品本身。公司创始人陈本峰号称是知名公司科大讯飞的联合创始人，但科大讯飞<a href="http://www.bjnews.com.cn/finance/2018/08/17/499860.html" target="_blank"><u>澄清</u></a>他只是科大讯飞实验室的一名实习生。红芯浏览器使用了最后一个支持 XP 系统的 Chrome 49，它自称在 Chrome 基础上加入了企业安全功能，但有程序员对代码的分析<a href="http://news.sina.com.cn/o/2018-08-17/doc-ihhvciiw4689121.shtml" target="_blank"><u>发现</u></a>，红芯的密码管家插件中所存储的密码仅存储于本地并且没有加密，即用户可知道使用同一台计算机的其他人的密码。这种程度的安全只会增加更多安全隐患。
+➜因政府机构重组游戏审批暂停
+https://www.solidot.org/story?sid=57604	14540
+中国最大的游戏公司腾讯报告它的游戏收入<a href="https://www.solidot.org/story?sid=57591" target="_blank"><u>出现大幅下降</u></a>，原因是旗下的新热门游戏至今未通过审批，而《怪物猎人：世界》一度获得的资质文件也被收回。彭博社援引知情人士的消息<a href="https://www.bloomberg.com/news/articles/2018-08-15/china-is-said-to-freeze-game-approvals-amid-agency-shakeup" target="_blank"><u>报道</u></a>，由于游戏审批主管机构的重组，游戏版号审批已经暂时冻结，结果是世界最大的游戏市场陷入了混乱。一位知情人士称，监管机构也对部分游戏中的暴力和赌博元素表达了担忧。游戏审批的冻结影响网游、手游和主机游戏。从大公司如腾讯到小公司都在等待监管方批准他们的游戏。腾讯的市值自今年 1 月以来已经蒸发了超过 1600 亿美元，小公司则抱怨没有新作品上市它们的生存困难重重。根据官媒的<a href="http://www.bjnews.com.cn/finance/2018/08/17/499861.html" target="_blank"><u>报道</u></a>，截止到目前，已经有 5 个月没有下发新的版号。
+➜Debian 项目诞生二十五年
+https://www.solidot.org/story?sid=57605	17190
+Debian 项目庆祝其<a href="https://bits.debian.org/2018/08/debian-is-25.html"><u>二十五岁生日</u></a>。1993 年 8 月 16 日，当时在普渡大学就读的 Ian Murdock 通过 comp.os.linux.development 宣布发布 Debian，当时没有人预料到 Debian 会成长为最大也最有影响力的自由软件项目之一。今天的 Debian 项目是一个庞大而繁荣的组织，包含无数志愿者构成的自组织。从外面看很混乱，但项目主要以两个重要文件维持：<a href="https://www.debian.org/social_contract#guidelines" target="_blank"><u>Debian 社会契约</u></a>和 <a href="https://www.debian.org/social_contract#guidelines" target="_blank"><u>Debian 自由软件指南</u></a>。社会契约提供了改善社会的愿景，而指南提供了软件可用的指示。项目的<a href="https://www.debian.org/devel/constitution" target="_blank"><u>组织章程</u></a>和<a href="https://www.debian.org/code_of_conduct" target="_blank"><u>行为准则</u></a>则充当了重要的补充。
+➜Google CEO 告诉雇员中国计划是试探性的
+https://www.solidot.org/story?sid=57606	20068
+Google 的审查版搜索引擎计划遭到了<a href="https://www.nytimes.com/2018/08/16/technology/google-employees-protest-search-censored-china.html" target="_blank"><u>千名雇员的联署抗议</u></a>。彭博社援引知情人士的消息<a href="https://www.bloomberg.com/news/articles/2018-08-17/google-ceo-is-said-to-tell-staff-china-plans-are-exploratory" target="_blank"><u>报道</u></a>，Google CEO Sundar Pichai 告诉雇员，重返中国的计划是试探性的，处于早期阶段。Google 联合创始人 Sergey Brin 则在全体会议上告诉雇员，Google 不会在公司原则上妥协。这是公司高管在受争议的审查版搜索引擎计划 Dragonfly 曝光之后首次谈论此事。Sundar Pichai 表示公司未接近在中国推出搜索产品，一切还是未知数。
+➜美国 CEO 的薪水是雇员平均薪水的 312 倍
+https://www.solidot.org/story?sid=57607	27391
+根据美国经济政策研究所的<a href="https://www.epi.org/publication/ceo-compensation-surged-in-2017/" target="_blank"><u>数据</u></a>，去年美国排名前 350 家公司 CEO 的薪水<a href="https://www.theguardian.com/business/2018/aug/16/ceo-versus-worker-wage-american-companies-pay-gap-study-2018" target="_blank"><u>是雇员平均薪水的 312 倍</u></a>。这些公司 CEO 的薪水在 2017 年平均上涨了 17.6%，他们的平均激励报酬 $18.9m。相比之下，雇员的薪水基本停滞，只增长约 0.3%。CEO 与雇员的薪水差距在显著提升：在 1965 年，CEO 与雇员的薪水比是 20 比 1； 1989 年是 58 比 1；2000 年是 344 比 1。经济衰退使得 21 世纪初的 CEO 薪水出现下降。但从 2009 年起 CEO 薪水又开始快速上涨。亚马逊 CEO Jeff Bezos 可能是少数的例外，作为世界第一富豪，他的薪水只有 $82,000，加上其它报酬收入只有 $1.7m，而亚马逊雇员的平均薪水是 $28,446，CEO 与雇员的薪水比为 59 比 1。Bezos 的财富主要来自他持有的亚马逊股票。
+➜ARM 准备在 PC 领域挑战英特尔
+https://www.solidot.org/story?sid=57608	28449
+ARM 公开了其 CPU 路线图，准备到 2020 年<a href="https://www.anandtech.com/show/13226/arm-unveils-client-cpu-performance-roadmap" target="_blank"><u>在 PC 市场挑战英特尔</u></a>。ARM 公布了为 PC 开发的新处理器，声称其芯片有潜力在单线程性能上与英特尔处理器相当甚至更高。英特尔处理器现阶段的主要优势是单线程性能，其处理器多线程性能已被竞争对手 AMD 超过。ARM 的新处理器包括计划在 2019 年发布的 7 纳米设计 Deimos，以及计划在 2020 年推出的 5 纳米设计 Hercules。芯片名字都来自罗马神话。目前绝大多数流行的 Windows 应用仍然是为 x86 架构编译的，需要通过模拟才能运行在 ARM 架构上，而这无疑会带来性能损失。ARM 处理器的一个优势是电池续航力更高。
+➜澳大利亚少年多次入侵苹果计算机网络
+https://www.solidot.org/story?sid=57609	29910
+一名澳大利亚少年<a href="https://www.theage.com.au/national/victoria/melbourne-teen-hacked-into-apple-s-secure-computer-network-court-told-20180816-p4zxwu.html" target="_blank"><u>被指控多次入侵苹果的计算机网络</u></a>，他从苹果公司下载了 90gb 的文件并访问了客户账户。他的律师称其客户是苹果的忠实粉丝，而他告诉警方他做梦也想到苹果工作。辩护律师称他的客户在国际黑客圈非常有名，透露案件细节会让其客户身处险境。苹果在遭到入侵之后通知了 FBI ，而澳大利亚警方去年搜索他的家，扣押了两台苹果笔记本电脑，他的电脑被发现安装了黑客软件，他利用了隧道和在线代理隐藏身份，其黑客文件和指令保存在名为 hacky hack hack 的文件夹里。
+➜德国儿童溺水被认为与父母沉迷手机有关
+https://www.solidot.org/story?sid=57610	33117
+德国救生员协会(The German Lifeguard Association)将儿童溺水<a href="https://www.theguardian.com/lifeandstyle/2018/aug/15/parents-fixated-by-phones-linked-to-child-drownings-in-germany" target="_blank"><u>与父母沉迷手机关联起</u></a>来。今年至今德国有 300 多人溺水身亡。德国救生员协会是世界最大的救生员组织，有四万名志愿者。该协会向父母和祖父母发出警告，当孩子或孙辈在水中玩耍时，放下手机。协会发言人称，父母们将游泳池视为游乐园，对安全完全不关心。德国游泳池管理员联合会称，过去父母和祖父母会在游泳池里和孩子一起玩，但今天越来越多的父母沉迷于智能手机，他们甚至不向左右看，对孩子也毫不关注。
+➜印度物理学家声称实现室温超导，但受到质疑
+https://www.solidot.org/story?sid=57611	40641
+印度科学研究院的 Dev Thapa 和 Anshu Pandey 上个月在 arXiv 上发表<a href="https://arxiv.org/abs/1807.08572" target="_blank"><u>预印本</u></a>，声称在室温和常压条件下实现了超导，他们使用的材料是金银颗粒。金银此前从未表现出超导性，即使是在极冷条件下。当物理学界开始仔细检查数据，<a href="https://motherboard.vice.com/en_us/article/gy33dx/either-this-data-is-incorrect-or-these-physicists-just-changed-the-world" target="_blank"><u>他们发现了异常</u></a>。MIT 博士后 Brian Skinner 注意到两次独立测量之间存在奇怪的关联性。两次独立测量的噪音数据本应该是随机的，但它们却存在完全相同的随机变量模式。Thapa 和 Pandey 回应称他们之前没有注意到这一关联，但认为这并没有推翻他们观察到常温超导。
+➜纽约大学宣布对所有医学院学生免除学费
+https://www.solidot.org/story?sid=57612	41974
+纽约大学周四宣布对所有医学院学生<a href="https://news.slashdot.org/story/18/08/16/1548228/nyu-offers-full-tuition-scholarships-for-all-medical-students" target="_blank"><u>免除学费</u></a>，不管他们的经济状况如何。在美国重点医学院中纽约大学是第一个免除学费的，它试图让毕业生避免承担巨额债务，扩大职业选择。免学费背后的动机是学校官员担心学费上涨和贷款的增加会将医生推向高薪领域，导致研究人员和初级护理医生的短缺。纽约大学估计如果要永久性的免除学费，它需要筹集大约 6 亿美元，目前它已经筹集到 4.5 亿美元，其中包括 Home Depot 创始人 Kenneth Langone 及其妻子 Elaine 捐赠的 1 亿美元。
+➜流行 Firefox 扩展被发现收集用户浏览历史
+https://www.solidot.org/story?sid=57613	43004
+uBlock Origin 作者 Raymond Hill 和德国安全隐私博主 Mike Kuketz <a href="https://www.bleepingcomputer.com/news/security/firefox-add-on-with-220-000-installs-caught-collecting-users-browsing-history/" target="_blank"><u>报告</u></a>，一个流行的 Firefox 扩展会悄悄收集用户浏览历史。该扩展叫 <a href="https://addons.mozilla.org/en-US/firefox/addon/web-security/" target="_blank"><u>Web Security</u></a>，安装量超过 22 万，甚至得到 Firefox 官方博客的推荐（已移除）。但 Hill 很快注意到扩展表现出奇怪的行为：安装之后，每当用户浏览器加载一个网页，它都会向 http://136.243.163.73/ 发去一个 POST。POST 数据被混淆了，有用户对数据进行了破译，发现是用户访问的网址。数据显示，该扩展会通过一个 ID 跟踪用户，跟踪用户的浏览模式。该扩展目前已经从 addons.mozilla.org 移除。
+➜古埃及人制作木乃伊的时间早于预期
+https://www.solidot.org/story?sid=57614	43830
+古埃及人制作木乃伊的时间比考古学家<a href="https://arstechnica.com/science/2018/08/ancient-egyptians-had-been-making-mummies-longer-than-anyone-thought/" target="_blank"><u>以前以为的早 1500 年</u></a>。根据发表在《Journal of Archaeological Science》期刊上的<a href="https://www.sciencedirect.com/science/article/pii/S0305440318304114?via%3Dihub" target="_blank"><u>一项研究</u></a>，考古学家化学分析了一位死于公元前 3600 年左右的年轻男子遗体包裹用的布条，识别出其中的防腐残留物。放射性测年确认木乃伊死于公元前 3700 年到 3500 年之间。当时距离埃及成为一个统一的国家还需 500 年。直到公元前 3100 年，上游南部的统治者 Narmer 才征服了下游北部地区，将两者合并为一个统一王国。对尸体进行防腐处理被认为始于古埃及前王朝时期或更早。研究的木乃伊收藏在意大利都灵的埃及博物馆，购于  1901 年，考古学家本以为它是自然干燥环境的产物，但化学分析显示他在埋葬前已经经过了防腐化合物的处理，其配方与法老以后使用的防腐配方相似。
+➜科学家完成小麦基因组测序
+https://www.solidot.org/story?sid=57615	46543
+国际小麦基因组测序协会在《科学》期刊上发表<a href="http://science.sciencemag.org/content/361/6403/eaar7191" target="_blank"><u>论文</u></a>，以一种叫做“中国春”的小麦遗传研究模式品种为材料，整合了 21 条小麦染色体参考序列,获得 107891 个基因的精确位置、超过 400 万个分子标记以及影响基因表达的序列信息。小麦是全球约 30% 人口的主要粮食，提供了 20% 的人类热能和蛋白质消耗。小麦与水稻和玉米并称全球三大粮食作物，但后两者的基因组图谱绘制工作已完成多年。小麦的“基因密码”<a href="http://news.sciencenet.cn/htmlnews/2018/8/416671.shtm" target="_blank">之所以破译困难</a>，是因为其基因组庞大而复杂，包含约 160 亿个碱基对，是人类基因组的 5 倍多。另外，小麦有 3 套亚基因组，其重复序列含量达  85% ，基因相似度高，给区分和排序带来挑战。&nbsp;
+➜中国离婚率增加，婚姻维持时间减少
+https://www.solidot.org/story?sid=57616	47951
+根据民政部等的<a target="_blank" href="http://www.bjnews.com.cn/graphic/2018/08/17/499944.htmlhttp://www.bjnews.com.cn/graphic/2018/08/17/499944.html"><u>数据</u></a>，1990 年全国只有 80 万对夫妻离婚，2017 年这个数据是 437.4 万对，为 1990 年的 5.5 倍=。以年度离婚数与总人口之比计算的粗离婚率，自 2003 年以来就一直没有再下降过。中国目前的粗离婚率已经高于日本和韩国。中国人的平均婚姻寿命也在降低。研究显示，2005 年，国人的平均婚姻预期寿命为 10.29 年；2010 年，平均婚姻预期寿命为 9.59 年，减少了 0.7 年。其中东三省的离婚率一直很突出，2016 年，黑龙江省的粗离婚率高达 4.91‰，排在全国第一，紧随其后的是北京、吉林、重庆和天津，当地的粗离婚率都超过 4‰。为了应对离婚率不断上涨的问题，从 2016 年开始，最高法陆陆续续开始在全国 118 个中级和基层法院开展离婚冷静期试点。

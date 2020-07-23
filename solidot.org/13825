@@ -1,0 +1,66 @@
+➜最流行的程序设计语言
+https://www.solidot.org/story?sid=4351	1200
+想要知道<a href="http://www.langpop.com/">哪一种程序设计语言最受欢迎</a>吗？虽然收集各类数据来统计流行度意义不大，也有点难度，结果未必科学，但也许很有趣，这么做纯粹是“just for fun”。而多数有经验的程序员是可以在一周内了解新语言的基础，几周内可以上手开发，精通则需要多点时间。由于Google反对用户利用它的API，因此作者采用了雅虎的搜索API，搜索关键词“language programming”。未经过处理的搜索结果显示（从高到低排列）：C最多，其次是java，PHP，C++，visual basic，perl，c#，python，shell....<i>
+细化搜索，专业网站如求职网站<a href="http://sfbay.craigslist.org/">craigslist.org</a>，可以了解计算机行业对程序语言的需求，结果是：SQL，C，PHP，Java，JavaScript，C#，C++，perl，visual basic，Ruby，python，shell，Cobol....
+<br>
+搜索亚马逊程序语言类书籍，结果是：C，java，visual basic，C++，SQL，Pascal，Fortron，c#，Assembly，perl，JavaScript...<br>
+已经发布实体的开源项目，反映了程序员的兴趣（数据来自<a href="http://freshmeat.net/browse/160/">Freshmeat</a>）：C，java，C#，PHP，perl，python，JavaScript，shell，SQL，Tcl....<br>
+Del.icio.us，反映了开发者关注的或对他有用的资料：JavaScript，PHP，Java，C，Python，Ruby，C#，Perl，C++，Lisp....
+<br>
+综合标准化对比结果：C，Java，PHP，C++，JavaScript，SQL，Perl，Python，C#，visual basic，Ruby....
+</i>
+作者还统计了哪一种语言人们谈论的最多，收集了来自<a href="http://programming.reddit.com/">programming.reddit.com</a>，<a href="http://slashdot.org/">Slashdot</a>等科技新闻社区的数据。
+➜凝视产生美
+https://www.solidot.org/story?sid=4352	2700
+time 写道 "<a href="http://www.royalsoc.ac.uk/news.asp?id=7244">盯着对方看使
+你更具魅力</a>，这是11月7日发表在《皇家学会会议录B:生物科学》(<a href="http://www.journals.royalsoc.ac.uk/content/77h20261k231672h/">Proceedings
+of the Royal Society B: Biological Sciences</a>)上的最新研究成果。
+<i>
+以前的面孔偏好（Face
+Preference）研究着重于身体的吸引力，而新的研究则研究了人注视的方向、性别。英国阿伯丁大学（University of
+Aberdeen）的Claire
+Conway是这篇研究结果的作者之一。她说，当被要求描绘富有魅力的面孔特征时，人们往往会想到一些身体上的特点，比如健康的皮肤、对称的面容或者
+强壮的下颚。现在他们发现人注视的方向也很重要。测试表明正在凝视受测试者的面孔比看着别的方向的面孔更有魅力--尤其当这张面孔来自一个微笑的异性。这
+表明人们更倾向于那些喜欢自己的面孔，魅力并不仅仅来自于人体美。可能我们的大脑让我们对这样的异性更感兴趣：富有魅力并且最情愿接受我们对他/她的注
+意。"</i>
+➜天文学家首次发现了五行星星系
+https://www.solidot.org/story?sid=4353	7200
+天文学家在55 Cancri（巨蟹座第55号恒星）周围发现了刷新纪录的<a href="http://www.sciencedaily.com/releases/2007/11/071106133058.htm">第五颗行星</a>，55 Cancri距离我们地球41光年，这是天文学家首次发现拥有五大行星的星系。新发现的第五行星的轨道位于“可居住区域内”，科学家猜测可能有液体水存在，但它的体积更像是一颗类似土星的气体行星（质量是地球的45倍），那么液体水有可能存在于它的卫星上。这颗行星是该星系的第四远行星，与最远的行星之间存在巨大的间隙，天文学家推测其中可能还有未观察到的岩石类行星。研究小组的成员、加利福尼亚大学伯克利分校的天文学教授Geoffrey Marcy乐观的表示，进一步观察将有可能在5年内找到一颗类似地球的行星。
+➜Gphone - Google + Ubuntu?
+https://www.solidot.org/story?sid=4354	16500
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 "之前在Solidot听闻一则消息：Google大张旗鼓推出了<a href="http://googlechinablog.com/2007/11/g-phone.html">Gphone</a>开发平台，旨在推出下一代手机操作系统。“项庄舞剑，意在沛公“ 到底Google剑指何方？我们知道一款手机开发平台要兼顾到硬件和软件，难道Google真的打算在桌面软件市场尚立足未稳的情况下，大举进军完全陌生的硬件市场？可以肯定的是这个计划会给我们这些开源爱好者巨大惊喜一切源于另外一个Linux发行巨人的参与。 <i>Gphone的OS肯定是基于Linux的，市面上各种版本的Linux层出不穷，就连Google自己的实验室也有自己Custom版本的Linux，而Mark Shuttleworth的个人网站上一则<a href="http://www.markshuttleworth.com/archives/20">Rumor</a>引起了我的注意：隐隐约约之中，Ubuntu成为了Google内部非常受欢迎的Linux发行版。我们猜想是否Gphone的OS就可能是Goobuntu？<br> <br>可以想象一旦当今两家最具人气公司的"联姻"对双方都是互利的，对于Google来说选择Ubuntu必然比选择乏人问津的Gentoo，Debian在商业上高明得多，而Google收购了一家嵌入式Linux手机平台<a href="http://www.openhandsetalliance.com/developers.html">Android</a>公司就是为了"联姻"搭桥引线。Ubuntu也会因为与Google的合作而使自己的产品的知名度进一步扩展到移动设备平台，真正意义上实现最终的构想"以人为本"。"</i>
+➜厨师变身为化学家
+https://www.solidot.org/story?sid=4355	19440
+烹饪其实就属于化学，目前一些专业的厨师正通过不同化学配料<a href="http://www.nytimes.com/2007/11/06/science/06food.html?ex=1352091600&amp;en=4aef8967a58288fb&amp;ei=5124&amp;partner=permalink&amp;exprod=permalink">让食物变幻出各种魔术</a>。早在多年前，西班牙的Ferran Adrià和英国的Heston Blumenthal两位大厨就把他们的厨房变成了化学实验室，美国曼哈顿下东区的WD-50餐馆现在也跟上了这股潮流。黄原胶（Xanthan Gum），琼脂（agar-agar），和其它水状胶体为你的食物带来了神奇的变化——黄油不会融化，蛋黄酱可以油炸，鹅肝可以打造成各种形状。水状胶质的应用是一次少见的食物化学与烹饪艺术的完美结合。
+查看更多<a href="http://www.nytimes.com/slideshow/2007/11/05/science/20071106_FOOD_SLIDESHOW_index.html">图片</a>。
+➜苹果时光机器登陆Linux
+https://www.solidot.org/story?sid=4356	21900
+苹果最新的操作系统Leopard中增加一个大受好评的新功能：时光机器（Time Machine），用户能轻松备份电脑上的所有数据、寻找丢失的文件，恢复整个系统，Linux也需要一个类似的工具。<a href="http://code.google.com/p/flyback/">flyback</a>的目的就是让时光机器进入Linux，目前已经发布了V0.2.1版，基于<a href="http://en.wikipedia.org/wiki/Rsync">rsync</a>。开发者声称他并没亲自在Mac OS X上体验时光机器，仅仅是为Linux用户提供一个功能类似的执行工具。<a href="http://flyback.googlecode.com/files/flyback_v0.2.1.tar.gz">下载</a>(使用说明，需要先通过apt-get下载安装部分软件包)。
+➜OLPC开始大规模生产
+https://www.solidot.org/story?sid=4357	24120
+XO笔记本正式<a href="http://www.news.com/8301-10784_3-9812297-7.html">开始大规模生产</a>，位于常熟的广达电脑工厂生产车间的流水线已经启动，这意味着发展中国家的儿童将可以在本月拿到历经波折的开源笔记本。OLPC项目目前获得了乌干达和蒙古的订单（美国和加拿大的居民预计可以从12月起参与买一捐一（<a href="http://www.news.com/Negroponte-Windows-key-to-OLPC-philosophy/2100-1016_3-6215837.html">Give 1 Get 1 program</a>）的活动，自己购买一台，向发展中国家的儿童捐赠一台）。
+➜学校杀手用YouTube视频发出屠杀警告
+https://www.solidot.org/story?sid=4358	27300
+CNN报道了一起造成8人死亡的<a href="http://www.cnn.com/2007/WORLD/europe/11/07/school.shooting/index.html?iref=topnews">芬兰校园枪击事件</a>，一名18岁荷兰学生在自己所读高中里枪杀了8个人后自杀，而整个事件显然是预先计划好的，这是芬兰自1989年以来第一起，也是至今<a href="http://slashdot.org/article.pl?sid=07/11/07/2110256">最严重的校园暴力事件</a>。<i>
+几周前杀手将警告视频上传到YouTube，标题是“Jokela High School Massacre - 11/7/2007”（Jokela高中大屠杀--11/7/2007），他的注册名是“Sturmgeist89”，目前YouTube已经删除帐号上的所有89（？）个视频。“Sturmgeist89”的真名叫Auvinen，他声称选择Sturmgeist这一名字是因为它在德语中的意思是风暴之魂（storm spirit）。</i>
+杀手在个人网站(<a href="http://zami.pp.fi/jokela/">zami.pp.fi/jokela</a>)留下了许多文档，照片，音乐，和一个在森林中练习射击的<a href="http://zami.pp.fi/jokela/Shooting.wmv">视频</a>。
+➜星际译王-3.0.1完美版发布。
+https://www.solidot.org/story?sid=4359	31200
+<a href="mailto:huzheng001@gmail.com">huzheng</a> 写道 "经过近五年的开发，星际译王词典软件终于渐趋完善了！<br>
+请访问 <a href="http://stardict.sourceforge.net/">http://stardict.sourceforge.net/</a> 进行下载：<br>
+<a href="http://downloads.sourceforge.net/stardict/stardict-3.0.1-1.fc8.i386.rpm">Fedora 8 RPM包</a> <a href="http://downloads.sourceforge.net/stardict/stardict_3.0.1-1_i386.deb">Ubuntu Deb包</a> <a href="http://downloads.sourceforge.net/stardict/stardict-3.0.1.exe">Windows版</a> <a href="http://downloads.sourceforge.net/stardict/stardict-3.0.1-zh_CN.exe">Windows中文特别版</a> <a href="http://downloads.sourceforge.net/stardict/stardict-3.0.1.tar.bz2">源码包</a>。
+新特性：<i>
+* Debian支持。<br>
+* Dict.cn插件。<br>
+* vs2005编译支持。<br>
+* Windows TTS引擎单词朗读插件。<br>
+* WordNet插件。<br>
+* 正则表达式查询支持。<br>
+* IP地址查询插件。<br>
+* 大量其他改进。</i>
+Enjoy! :)"
+➜gOS Dev Board，运行Linux和Google应用程序
+https://www.solidot.org/story?sid=4360	33480
+gOS Dev Board是售价$200的Everex TC2502 Linux的<a href="http://www.linuxdevices.com/news/NS5305482907.html">低价电脑的核心</a>，价格仅为60美元。这款小巧紧凑，高效的，兼容X86的主板自带了轻量级的基于Linux的操作系统，主要使用Google Apps。gOS Dev Board可以<a href="http://www.clubit.com/product_detail.cfm?itemno=A4842001#">单独购买</a>，采用威盛C7-D处理器，主频1.5GHz，Via CN700芯片组，支持最高2GB DDRII内存，10/100 Base-T Ethernet....
+<i>gOS基于Ubuntu 7.10，除了一些本地应用程序如OpenOffice.org外，其余主要由Google应用程序组成，它使用轻便的Enlightenment窗口管理器代替复杂的Gnome/KDE桌面，Google程序则是界面的统治者。
+gOS发行版已经提供 <a href="http://www.thinkgos.com/downloads.html">下载</a>。</i>

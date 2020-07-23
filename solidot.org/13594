@@ -1,0 +1,61 @@
+➜微软开源Visual FoxPro Sedna
+https://www.solidot.org/story?sid=2235	12060
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"微软宣布将把它的数据库管理软件Visual FoxPro DBMS的扩展组件<a href="http://www.eweek.com/article2/0,1759,2105307,00.asp">Sedna开源</a>（不是VFP本身）。代码将公布在微软建立的开源项目开发社区网站<a href="http://www.codeplex.com/">CodePlex</a>上。同时微软还宣布不会再有Visual FoxPro DBMS的新版本了。Sedna并非VFP的核心部分，只是用VB.NET做的一个扩展，并不能取代VFP。微软坚持不开源其核心产品，不开源VFP的理由是代码库里包含了很多<a href="http://slashdot.org/articles/07/03/21/1548202.shtml">微软的知识产权</a>。"</i>
+➜SurfControl：钓鱼网站附身“联众世界”
+https://www.solidot.org/story?sid=2236	12600
+<a href="mailto:anquan11@gmail.com">Rui</a> 写道 "日前，全球领先的网络安全服务提供商 <a href="http://www.surfcontrol.cn/">SurfControl</a>（伦敦：SRF）首个捕获了借助国内最大在线游戏网站“<a href="http://www.ourgame.com/">联众世界</a>”进行诈骗的<a href="http://zh.wikipedia.org/w/index.php?title=%E7%BD%91%E7%BB%9C%E9%92%93%E9%B1%BC&amp;variant=zh-cn">网络钓鱼活动</a>。钓鱼者制作了一个冒充“联众世界”的假网站，通过冒充“联众世界”的名义广泛发布中奖信息，以骗取广大游戏玩家的个人资料和钱款。“联众世界”作为国内最大的在线游戏网站，每天拥有50多万的在线玩家，因此该钓鱼活动的破坏性之大、影响之坏都超出了人们的想象。<a href="http://www.surfcontrol.com/">SurfControl</a>提醒广大网民一定要擦亮眼睛，及时识破钓鱼者的伎俩儿，避受上当受骗。<br>
+“联众世界”的真实网址是 <b> <a href="http://www.ourgame.com/">www.ourgame.com</a> </b>，冒充“联众世界”的假网站是 <b>hxxp: //ourgamm.0055.cn</b>。游戏玩家一旦点击了该仿冒网站，就会看到以“黄金三月第首次‘幸运玩家’活动，欢迎您的参与”为标题的活动说明内容以及脚本提示，该提示要求游戏玩家输入一个系统发送的验证号码，如果游戏玩家按照它的要求进行操作，就会收到一个恭喜中奖的信息提示，游戏玩家将获得由 “联众世界”送出的2.6万人民币奖金和一台豪华笔记本，而事实是任何输入验证号码的人都会收到该中奖信息。如果游戏玩家同意领奖并愿意支付850元的手续费并愿意提供个人的账户信息的话，那么游戏玩家就已经上当受骗了。详细报道见<a href="http://www.enet.com.cn/article/2007/0321/A20070321493883.shtml">这里</a>。 <br>
+最新更新！还有两个仿冒联众的钓鱼网站是：<b>hxxp://www.ourgame2.com/</b> 和 <b>hxxp://ourgaame.0055.cn/</b> 请网友小心注意!"
+➜一个本土博客评述Windows
+https://www.solidot.org/story?sid=2237	13200
+<a href="http://reversethis-moc.liamgtadaeryb.lyrrah/">kcome</a> 写道<i> "<a href="http://blog.joycode.com/demonfox/archive/2007/03/21/98381.aspx">一个用ASPX写的（应该是）中国MVP朋友的博客</a>这样子评述windows/ms的东西：
+<br>Vista历时5年，千呼万唤，始见真身。但本来有的很多前端理念最后都只能割爱，比如最为可惜的就是提出transaction based filesystem的WinFX。关于各种内幕，人们问的最多的就是：5年的开发过程究竟发生了什么，为什么需要那么久，而又为什么最后还是砍掉了如此多的功能。我不想信口开河，只是个人认为，整个Windows系统长期积累的复杂性已经让很多有意义有魄力有革命性的创新无法在上面自由发挥。人们经常发现，你要这样做，就会影响到这个，然后会牵连到那个，最后这里有那么一个潜伏的bug就引爆了。在这样一个不是磐石一块而如迷宫一般的地基上建造出来的只能是脆弱不稳定臭虫满天飞的系统，微软的同事们也许会明白我在说什么，Vista开发到2年半后的那次Reset就是最好的证明。"</i>
+➜屏保与100瓦的电灯泡功耗相同
+https://www.solidot.org/story?sid=2238	14520
+收电费的 写道<i> "据微软Windows内核团队主管迪安发表的一份声明称，与处于休眠状态的PC相比，运行屏保的计算机的能耗更高。事实上，<a href="http://news.com.com/Microsoft+Let+PCs+nap/2110-1003_3-6169247.html">运行屏保的PC消耗的电能与一只100瓦的灯泡相当</a>，一年消耗的电能价格约为80美元，约相当于向大气中排放了1350磅二氧化碳。微软从英国的PC Pro Labs获得了这些数字。PC ProLabs对Windows Vista和Windows XP
+PC在工作环境下的能耗情况进行了研究。与苹果电脑一样，Vista包含有一种“休眠”功能，使PC能够进入节约能耗的“休眠”状态，但使用户能够立即“唤醒”显示器和PC。微软表示，这一新功能对于要求员工保持计算机一直处于运行状态的大公司非常有用，这样，系统管理员可以在非工作时间安装补丁软件和升级包。"</i>
+➜时尚IT人士看'魔镜'
+https://www.solidot.org/story?sid=2239	15060
+我爱臭美 写道 <br>
+"你在独自逛街时是否为没有朋友帮你提建议、把关而感到郁闷呢，现在不用担心这个问题了，现在诞生了<a href="http://news.com.com/If+the+mirror+could+talk+it+can/2100-1041_3-6168375.html?tag=st_lh">一种“魔镜”</a>，顾客在试装时可以看到镜子当中的自己，而朋友们则可以通过互联网观看她的打扮，还不断传来即时消息，大家叽叽喳喳的提出各种各样的建议，分享彼此的血拚乐趣。”<br> <br>
+当你站在由高清晰数字电视屏幕构成的试衣镜前，镜子当中出现一件新装，她后退几步，将衣服“穿”在了身上。
+摄像机拍摄下现场，传到网站上，让上网的朋友可以看到你的样子，如果他们发表了什么意见，这些信息立即会在“魔镜”左边跳出来，让Noah看到。他们帮忙选择配饰，让你尝试，你的影像会跟选好的虚拟服饰进行合成。<br> <br>
+这种结合了多种元素的零售方式可能将大大改变未来的购物方式。<br> <br>但一些顾客认为，魔镜还相当的笨拙，因此还有改善余地，她们不敢肯定自己购物时是否愿意使用这种新系统。"
+➜中文.tw台湾域名首度向大陆开放
+https://www.solidot.org/story?sid=2240	20520
+<a href="http://hi.baidu.com/jinxiaozhi">jinxiaozhi</a> 写道 <br>
+"07年3月21日起,<a href="http://www.now.cn/news/MessView.net?IDMessage=130884">中文.TW首度向大陆用户开放注册</a>.TWNIC及其大陆地区唯一合作伙伴时代互联,已经为开通工作做了充分的技术准备,用户可直接在时代互联网站进行查询和注册.<br>
+在此之前,.TW英文域名已经在大陆地区开放注册,众多用户注册了他们的.TW域名,并将之运用到企业网站建设、品牌保护、产品推广等各方面,收到了很好的效果..TW域名对注册人没有任何限制,因此.TW域名具有极大的市场潜力.此次开放的中文.TW为广大大陆的台资企业、与台湾有重要业务联系的大陆企业提供了一个非常好的选择."           "据了解,中文.TW是台湾地区专属的中文域名,有“.TW”、“.网路.tw”、“.组织.TW”、“.商业.TW”等四种后缀可选.该域名具有鲜明的台湾特征,可彰显使用者的宝岛身份,大大方便了众多与台湾有关的企业开展业务.同时,由于中文是华人的母语,中文域名更符合华人的语言及思维习惯,中文域名逐渐成为华人上网的首选域名.使用中文域名不但可以有效保护企业品牌,还能使其推广活动事半功倍.所以,对于中文.TW的推出,广大用户也是期盼已久.<br>
+近年来,越来越多的台湾企业到祖国大陆投资、内地企业与台湾的经贸联系日益密切.国台办的数据显示,截至06年底,大陆实际利用台资累计达438.9亿美元,贸易总额达6036亿美元.仅在苏州,就有台资企业超过七千家.而这些数字背后,是数量更为巨大的与台湾有关的公司.此次中文.TW面向大陆首度开放,为这些企业提供了一个良好的契机.<br>
+作为TWNIC的大陆唯一合作伙伴,“金牌注册机构”时代互联(<a href="http://www.now.cn/">www.now.cn</a>) 为这次开放注册做了大量准备.其负责人表示,两岸交流日益紧密,为两岸企业的发展创造了条件,中文.TW面向大陆开放是广大涉台企业品牌保护推广的大好时机.同时她也提醒广大用户,由于TWNIC只接受繁体中文注册服务,注册时尽量提交繁体中文的申请,时代互联也提供了繁简转换的工具.与内地及香港中文域名一样,注册繁体域名后,用户也将同时拥有对应的简体中文域名.<br>
+中文.TW紧随中文.HK在大陆推出,为大陆域名用户有多了两种不错的选择,域名投资者也十分看好其投资价值,品牌保护专家提醒广大企业,应及时注册中文.TW、中文.HK两种域名,提前保护好企业网络资源."
+➜懒人比做事有秩序爱整洁的的人更有效率
+https://www.solidot.org/story?sid=2241	23100
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"你是个懒人吗？是不是经常在自己办公桌上堆上一大堆东西，把所到之处都搞得乱七八糟？有一件事情是那些连肛门都擦得干干净净的人无法想象的，你比他做事更有效率更有才。<a href="http://www.extremetech.com/article2/0,1697,2105584,00.asp">这个结论出自一本书</a>，书名叫“完美的混乱：隐藏在混沌中的好处”，作者是Eric Abrahamson和David Freedman，这本书指出人们对整洁的好处估计过高，整洁更费钱，浪费了更多时间，降低了创造力。"</i>
+➜Novell BrainShare大会开幕
+https://www.solidot.org/story?sid=2242	23520
+<a href="http://gmail.com/" title="kingliyou">kingliyou</a> 写道:&nbsp; 美国当地时间2007年3月17日，每年一度的<a href="http://www.novell.com/brainshare/virtualbrainshare/" title="Novell BrainShare">Novell BrainShare</a> 展会在美国犹他州盐湖城召开，在发布开幕致辞的时候，Novell CEO <a href="http://www.novell.com/company/bios/rhovsepian.html" title="Ron Hovsepian">Ron Hovsepian</a> 就不停的强调Novell公司和微软公司的合作，称这将改变Novell公司的生存和发展。 <p><p>  在发言中，他还强调，Novell的这一切变化都是从客户的角度出发的，所有这一切都是客户利益驱动的，为的使客户的IT生活更加轻松，客户才是重点。 </p> <p><p>  在接下来的发言中，Novell公司的客户至上论调一直都不停的被重复，虽说有自由软件用户抗议Novell和微软的合作，但是Hovsepian并不表示关心，他所关心的是Novell公司的合作伙伴和客户。 </p> <p>   在整个上午的发言致辞中，Novell公司和微软公司合作有害无弊的思想一直都在流露。其中有一个问答场景的活动是有Novell腹中和CTO Jeff Jaffe和微软首席研发官员Craig Mundie共同完成的，他们通过问答的方式来强调他们发言的主题，那就是，企业IT环境中互操作性和虚拟化技术将对两家公司产生深远影响，并且 Novell公司和微软公司将通过合作，将Linux和windows的整合做的更好。 </p> <p><p>  在Jaffe的眼里，未来世界的操作系统将只有两个，那就是Linux和Windows，Linux将是通用平台，在Linux平台上 (SUSE Enterprise Server)和Windows平台上，将运行其他虚拟操作系统，比如其他版本的Linux或者Netware。用户可不需要太多的操作系统，他们只需要 开源软件来构建通用的代码平台。 </p>
+➜Apple TV 开始出货
+https://www.solidot.org/story?sid=2233	25860
+<a href="http://hi.baidu.com/jinxiaozhi">jinxiaozhi</a> 写道 <br>
+"刚刚<a href="http://www.betanews.com/article/Apple_TV_Begins_Shipping/1174487621">Apple 宣布开始其互联网机顶盒产品Apple TV的出货工作</a>,称其为苹果巩固数码娱乐产品市场的经典之作,也是苹果的产品第一次进入用户的起居卧室.<br>
+Apple TV曾一度计划在下个月发布,但可能是开发顺利的原因,公司将发布日期调回了今天.<br>
+此设备专门用于用户大屏幕电视,它可以通过WiFi网络(802.11n技术)与计算机上的iTunes建立连接交换内容,并自带40GB的硬盘,并不需要下载内容就可以实时观看."
+➜CeBit大会 - UMPC的终极进化
+https://www.solidot.org/story?sid=2244	26040
+<a href="http://gmail.com/" title="kingliyou">kingliyou</a> 写道:<i> 在刚刚结束的<a href="http://www.cebit.de/homepage_e" title="CeBit大会">CeBit大会</a>上, UMPC成为了最出风头的一类展品, 而其中的焦点就是今天要谈的<a href="http://www.oqo.com/" title="OQO2">OQO2</a> 和<a href="http://www.flipstart.com/" title="Flipstart">Flipstart</a>. 作为前一代OQO1+的完美升级，OQO2有着超强的硬件配置，全新的操作系统，还有其经典的极具亲和力的外观设计，反观Flipstart，作为Paul Allen 离开微软20年的<a href="http://seattlepi.nwsource.com/business/306254_flipstart06.html" title="纪念杰作">纪念杰作</a>它全方位地展现了传统与时尚相结合的笔记本的应有形态。具体的评测还要到太平洋笔记本电脑区去看一看我写的一篇<a href="http://www.pconline.com.cn/notebook/news/sudi/0703/982276.html" title="评测">评测</a> 。</i> 最后，很遗憾告诉大家， 这两台UMPC的精品目前还没有在国内上市的消息。
+➜MIT生物学家揭开维他命之谜
+https://www.solidot.org/story?sid=2243	26160
+<a href="http://hi.baidu.com/jinxiaozhi">jinxiaozhi</a> 写道 "为了揭开一个困扰科学家数十年的秘密,<a href="http://web.mit.edu/newsoffice/2007/b12.html">麻省理工(MIT)和哈佛大学的研究者已经发现了维他命B12的最终合成路径</a>.B12是唯一一个由微生物合成的Vitamin(the only vitamin synthesized exclusively by microorganisms).
+在所有Vitamins中B12的化学结构最为复杂,它也是人身体所必须的.目前已有四位诺贝尔奖得主的获奖研究与B12有关,但直到现在还有一个分子片断的结构仍然是个迷.
+研究者称那是一个单酶的合成片断,它们设计了一种新奇的反应机制这需要让其它的Vitamin分解.
+这项研究被确立在一个MIT的本科教学实验室完成.Graham Walker说道:"这是在完成一项让我们了解生命最基本进程的工作".Graham Walker作为MIT的生物学教授和这项研究的论文起草者将出现在3月22日的&gt;杂志电子版."
+➜道德——属于生物还是属于哲学范畴
+https://www.solidot.org/story?sid=2245	29160
+《纽约时报》报道生物学家认为<a href="http://www.nytimes.com/2007/03/20/science/20moral.html?ex=1332043200&amp;en=84f902cc81da9173&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">道德起源于动物行为</a>。<i>"
+Marc Hauser，哈佛大学的进化生物学家，去年在他写的书“Moral Minds”中指出大脑中存在获得道德规则的遗传发展机制，而道德普遍法则的产生与学习知识的神经机制相似。而最近出版的另一本书“Primates and Philosophers”，作者灵长类生物学家Frans de Waal博士坚决反驳哲学家对他观点的批评，这本书阐述了从群居动物猴子和猿的行为中可观察到道德的根源。"</i>
+➜生物体经历了一亿年无性历程
+https://www.solidot.org/story?sid=2246	33240
+<a href="http://hi.baidu.com/jinxiaozhi">jinxiaozhi</a> 写道<i> "来自泰晤士时报的一篇有趣的文章提到:科学家<a href="http://www.timesonline.co.uk/tol/news/uk/science/article1539281.ece">发现了一种在无性状态下经历了一亿年生命历程的微生物</a>.
+引自文章
+"一种在1亿年里无性的微小动物已经打破了动物需要交配才能产生多样性的学说.蛭形轮虫类下颚形态的进化结合遗传数据揭示了动物在自然选择中所呈现的多样性.研究者称它们的发现"打破了性在进化种类多样性中是必须的观念"."</i>

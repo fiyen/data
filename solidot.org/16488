@@ -1,0 +1,15 @@
+➜暗物质杀死了恐龙？
+https://www.solidot.org/story?sid=43108	30144
+化石记录显示，大约每隔2600万到3000万年，地球都会发生大规模的生命灭绝事件。这一时间间隔与太阳系穿越银河平面的周期相同，有研究人员因此提出，银河平面中的气体云和尘埃云可能会干扰遥远彗星的轨道，诱发彗星行星相撞事件。发表在《Monthly Notices of the Royal Astronomical Society》上的一项<a target="_blank" href="http://mnras.oxfordjournals.org/content/448/2/1816"><u>新研究</u></a>则给出了另一种解释：<a target="_blank" href="http://news.sciencemag.org/earth/2015/02/did-dark-matter-kill-dinosaurs"><u>暗物质</u></a>。研究人员估计，在银河平面上，每一平方光年包含1个太阳质量的暗物质，暗物质云也会和气体尘埃云那样扰乱遥远彗星的轨道，导致它们进入到可能与地球相撞的太阳系内围。此外，暗物质云还会直接影响地球。当太阳系穿越暗物质云所在的银河平面，地球引力可能会捕获部分暗物质粒子，这些粒子最终会落在地球上，与地球上的物质发生反应，释放出巨大能量。研究人员认为，暗物质会让地核温度提高数百摄氏度，可能改变地球气候或地理状况，导致无数物种无法生存。
+➜NSA和GCHQ窃取SIM卡密钥
+https://www.solidot.org/story?sid=43109	33623
+The Intercept根据前NSA合同工Edward Snowden泄露的机密文件<a target="_blank" href="https://firstlook.org/theintercept/2015/02/19/great-sim-heist/"><u>报道</u></a>，NSA和它的英国同行GCHQ联手从SIM卡制造商和移动运营商窃取了未知数量的SIM卡加密密钥。SIM卡最初被用于验证计费，后来添加了烧录在卡上的硬加密密钥，用于保护用户的语音、文字和数据通讯，增加窃听的难度。当你使用手机时，手机会与移动网络进行一次秘密握手，验证SIM卡的密钥和移动公司持有的密钥是否匹配，之后手机和移动网络之间的通讯都将是加密的。硬加密密钥长期不变，一次窃取就可以长期使用。NSA和GCHQ的一个目标是Gemalto，世界最大的SIM卡制造商之一，一年生产20亿SIM卡，在全世界广泛使用。NSA和GCHQ是从SIM卡制造商商业路线的最薄弱的环节去窃取密钥——这个薄弱环节就是制造商的雇员通过电子邮件或FTP向移动公司交付硬加密密钥。NSA和GCHQ的团队从其收集的数据中挖掘SIM制造商和大型电信公司工程师的电子邮件地址和Facebook账户，识别目标发动针对性攻击，渗透内网然后将使用加密的雇员作为优先目标。机密文件显示，GCHQ会根据雇员使用特定技术术语的频率为其打分，获得高分的用户账户将作为优先入侵目标。中国电信公司华为的一位雇员的电子邮件账户获得了最高的得分。
+➜哪些书可被用于重建文明
+https://www.solidot.org/story?sid=43110	35263
+如果人类遭遇了灾难性事件导致了文明的毁灭，哪些文学作品可被用于重建文明？致力于在上万年的时间跨度上保存人类文明的非盈利组织 Long Now Foundation正在编辑一个包含约3500本书的重建文明著作。该基金会三名董事会成员、未来学家 Brian Eno、Stewart Brand和Kevin Kelly公布了他们的<a target="_blank" href="http://www.openculture.com/2015/02/what-books-could-be-used-to-rebuild-civilization-lists-by-brian-eno-stewart-brand-kevin-kelly-other-forward-thinking-minds.html"><u>Top10书单</u></a>。他们列出的著作包括了：《国家的视角》（seeing like a state）、《群众与权力》(Crowds and Power)、荷马史诗《奥德赛》、《A History of the World in 100 Objects》等。
+➜FreeBSD开发分支的随机数生成器已坏了几个月
+https://www.solidot.org/story?sid=43111	48361
+FreeBSD项目维护着两个内核分支：开发分支-CURRENT，稳定分支-STABLE。-CURRENT内核包含了最新的功能，新功能在成熟稳定之后将会移植到-STABLE分支。开发者John-Mark Gurney在 freebsd-current邮件列表上<a target="_blank" href="https://lists.freebsd.org/pipermail/freebsd-current/2015-February/054580.html"><u>报告</u></a>，该版本使用的随机数生成器过去四个月一直工作不正确，使用它生成的密钥是可预测和可重新生成，包括但不限于openssl生成的ssh 密钥。他建议运行current kernel r273872或之后版本的用户立即升级到 r278907。
+➜成功在线约会的方法论
+https://www.solidot.org/story?sid=43112	51842
+研究人员分析了86篇在线约会研究论文，总结出了<a target="_blank" href="http://www.sciencedaily.com/releases/2015/02/150212212100.htm"><u>成功约会之法</u></a>。<a target="_blank" href="http://ebm.bmj.com/content/early/2015/02/09/ebmed-2014-110101"><u>研究</u></a>发表在《Evidence Based Medicine》期刊上。成功始于用户起的网名，研究人员发现男性喜欢与身体特征相关的名字（比如Cutie），而女性则偏爱与智慧有关的名字（比如Cultured），男女都对幽默名字有好感，都会远离负面含义的名字。名字首字母位于字母表前半部分要好于后半部分。最成功的个人资料页是将个人信息和理想约会对象的描述比例七三开。个人简介没有夸大其词或使用过于华丽的词藻，笔调幽默但真诚，不要把自己描述的过于完美。个人照片要面带笑容，不一定要使用自拍照片，群体照也行但最好站在画面中间。女性身穿红色衣服能增强对男性的吸引力，其他女性对着男性微笑能加强他对女性的吸引力。最后，不要等太长时间安排线下面对面约会。

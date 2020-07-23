@@ -1,0 +1,56 @@
+➜商务部公开微软持有的Android技术专利
+https://www.solidot.org/story?sid=39945	10219
+微软与众多Android厂商签署了专利授权协议，但从来没有公开它持有多少项Android技术专利。<a target="_blank" href="http://arstechnica.com/tech-policy/2014/06/chinese-govt-reveals-microsofts-secret-list-of-android-killer-patents/"><u>出人意料的是</u></a>，为了收购诺基亚手机业务，微软今年4月递交到中国商务部的文件中<a target="_blank" href="http://www.mofcom.gov.cn/article/difang/henan/201404/20140400547823.shtml"><u>完整公开了</u></a>它的Android专利。微软称，微软Android项目许可包括了微软与智能手机相关的多项技术专利，主要涵盖三个部分：Android操作系统各层级使用的微软技术专利；ex-FAT、RDP、EAS等技术专利；以及与WiFi、3G/4G有关的技术专利。这些技术专利绝大部分是非标准必要专利。微软在附件中列出了<a target="_blank" href="http://images.mofcom.gov.cn/pep/201404/20140408143130296.docx"><u>310项专利</u></a>（docx文档）：其中73项是标准必要专利；127项是Android中实现的专利，包括“用于多媒体对象储存、检索及传输的数据格式”，“远程获取和显示含画面的文本”，“浏览器导航设备输入系统”，“搜索和浏览URL和URL历史”，“通讯录更新功能”，“同步信道选择方法”，等等。这些专利为微软带来了10多亿美元的收入。
+➜Tor项目弃用obfs2，开发obfs4
+https://www.solidot.org/story?sid=39946	12252
+Tor项目<a target="_blank" href="https://blog.torproject.org/blog/recent-and-upcoming-developments-pluggable-transports"><u>宣布弃用obfs2</u></a>。obfs2插件被用于混淆流量避开包检测，但由于中国利用主动探测技术成功屏蔽了obfs2，Tor项目决定抛弃obfs2，而obfs3也可以通过主动探测技术屏蔽，但中国目前尚未实现。Tor项目刚刚发布的<a target="_blank" href="https://www.torproject.org/download/download-easy.html.en"><u>Tor Browser Bundle 3.6</u></a>就默认使用obfs3。开发者称，如果中国屏蔽了内置的网桥，用户可尝试通过分布式数据库<a target="_blank" href="https://bridges.torproject.org/?transport=obfs2"><u>BridgeDB</u></a>获取更多网桥地址。开发者表示，他们目前正在开发新的插件<a target="_blank" href="https://github.com/Yawning/obfs4"><u>obfs4</u></a>。obfs4类似<a target="_blank" href="https://lists.torproject.org/pipermail/tor-relays/2014-February/003886.html"><u>scramblesuit</u></a>，网桥将使用随机密码保护。另一个新的流量混淆插件<a target="_blank" href="https://trac.torproject.org/projects/tor/wiki/doc/meek"><u>Meek</u></a>将会模拟 Firefox浏览行为，使用第三方服务GAE作为代理，不需要输入网桥。
+➜空间站的宇航员将能喝上热咖啡
+https://www.solidot.org/story?sid=39947	15843
+国际空间站的宇航员最怀念的东西之一是毫不起眼的咖啡。在意大利咖啡巨人Lavazza的帮助下，今年晚些时候，<a target="_blank" href="http://www.wired.co.uk/news/archive/2014-06/14/isspresso"><u>一台咖啡机将会安装在空间站上</u></a>，满足宇航员的愿望。咖啡机被称为ISSpresso，由Lavazza在Argotec和意大利航天局帮助下制造，重约20公斤，将在今年11月随意大利首位女宇航员Samantha Cristoforetti空军上尉一同飞往空间站。为了适合微重力条件下煮咖啡的要求，咖啡机需要进行一系列修改，如用能承受高压的钢管替代普通咖啡机的塑料管。液体如果没有引力束缚会四处逃逸，所以宇航员只能通过吸管享受咖啡。
+➜中国留学生被控向中国走私军用传感器
+https://www.solidot.org/story?sid=39948	18045
+<div align="center"><img src="http://img.solidot.com.cn/0/356/liTOrwdu22l2.jpg" align="" height="415" width="360"><br>
+<br>
+</div>
+美国<a target="_blank" href="http://www.nbcnews.com/news/investigations/breaking-bad-fan-arrested-trying-smuggle-military-gear-china-n130826"><u>逮捕了两名中国男子</u></a>，其中一人是爱荷华州立大学的博士生及兽医微生物学和预防医学研究助理，他们被控向中国走私军用传感器。Wentong Cai 和Bo Cai在新墨西哥州被捕，他们当时试图从一名卧底特工购买ARS-14军用级传感器。Wentong Cai称他需要传感器用于在大学的研究。法庭文档显示，卧底特工伪装成传感器的经销商，Wentong Cai是在去年10月与特工建立初步联系。他曾向特工透露自己只是一名中介，买家是Bo Cai。Bo Cai则表示他打算将传感器密封在Xbox游戏机中，运送到中国。<a target="_blank" href="http://www.nanzao.com/sc/international/29662/she-xian-zou-si-jun-yong-gan-ying-qi-liang-zhong-guo-nan-zi-mei-guo-bei-bu"><u>起诉书显示</u></a>，Wentong Cai是美剧《绝命毒师》的粉丝，这部美剧的拍摄地就在阿尔伯克基。与他们会面的卧底表示，他带Wentong Cai游览了《绝命毒师》中出现的阿尔伯克基景点，还用手机给Wentong Cai拍了照。两人将面临最高20年监禁和高达100万美元罚款。
+➜中国发起剑网行动2014
+https://www.solidot.org/story?sid=39949	18749
+国家版权局、国家互联网信息办公室、工业和信息化部和公安部四部门<a target="_blank" href="http://www.ncac.gov.cn/chinacopyright/contents/518/206450.html"><u>发起了剑网2014专项行动</u></a>，重点是将打击网站未经授权大量转载传统媒体作品，规范网络转载行为，净化网络传播环境。剑网2014专项行动将从今年6月一直持续至11月。《人民日报》<a target="_blank" href="http://news.xinhuanet.com/2014-06/15/c_133408215.htm"><u>报道</u></a>称，剑网专项行动将加强对新闻网站、音视频网站、文学网站、游戏网站的监管力度，严厉打击未经许可转载、非法传播他人作品的侵权盗版活动；严厉打击故意为侵权盗版提供搜索链接、广告联盟接入、信息存储空间以及服务器托管、互联网接入等违法网络服务行为。报道称，各地电信主管部门将对版权行政执法部门和公安机关移送的“三无”网站坚决予以关闭。
+➜矿池GHash算力超过整个比特币网络的50%
+https://www.solidot.org/story?sid=39950	24654
+比特币五年历史上第一次，一个矿池的运算能力<a target="_blank" href="http://arstechnica.com/security/2014/06/bitcoin-security-guarantee-shattered-by-anonymous-miner-with-51-network-power/"><u>超过了整个比特币网络算力的50%</u></a>。如果这一情况持续下去，这将标志着比特币去中心化结构的终结。康奈尔大学的研究人员注意到，最大矿池<a target="_blank" href="https://ghash.io/"><u>ghash.io</u></a>贡献的算力多次在短时间内<a target="_blank" href="https://blockchain.info/pools?timespan=24hrs"><u>超过整个网络的51%</u></a>（目前只有32%）。由于时间比较短，注意到的人并不多，但6月12日长达12个小时内，GHash算力占到了整个网络的一半以上。研究人员此前曾发生警告，如果一个恶意矿池算力超过整个比特币网络的51%，它可以发动<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=thread&amp;sid=37989"><u>51%攻击</u></a>，包括两次消费同一枚比特币，拒绝其他矿工的交易，或者发动拒绝服务攻击。GHash背后的匿名矿工曾承诺不会发动51%攻击。GHash总算力的四分之一来自云挖矿服务Cex.io，该公司首席信息官 Jeffrey Smith回应社区的担忧时<a target="_blank" href="http://www.cryptocoinsnews.com/news/bitcoin-mining-pool-ghash-io-is-unapologetic-risk-theoretical-51-attack"><u>表示</u></a>，他们从未做过任何有害于比特币经济的事情，称他们将所有的精力、时间和金钱投入到比特币社区的开发中，他们也认同去中心化的挖矿，但不应该因为GHash是头号矿池而予以谴责。
+➜Android的历史是一个无止尽迭代的历史
+https://www.solidot.org/story?sid=39951	28117
+微软的桌面系统每三到五年升级一次，苹果的OS X和iOS每年更新一次，iOS在其七年历史中只进行过一次大的设计界面修改，最新版Windows Phone 8的外观和Windows Phone 7几乎相差无几。只有Android，两个相近的版本之间就可能面目全非。官方商店Play Store五年内经历了五次大的重新设计，对Android而言，这已经是家常便饭。在Android的六年历史中，它的早期并不十分受欢迎，直到Android 4.0之后它才成为移动市场的统治性操作系统，每天有150万部设备激活。Ars的一篇26页的文章回顾了<a target="_blank" href="http://arstechnica.com/gadgets/2014/06/building-android-a-40000-word-history-of-googles-mobile-os/"><u>Android的历史</u></a>，认为Android可以被认为是第一种基于云的操作系统，许多功能都严重依赖于Google的服务，而当越来越少的人使用旧版本，Google会关闭这些服务，结果是Android的旧版本也“死亡了”。你可以在电脑上安装几十年前的Windows 1.0，里面的功能仍然能运行，但安装Android 1.0，许多功能都无法正常使用了。<br>
+➜互联网同行评审发现重大研究的错误
+https://www.solidot.org/story?sid=39952	30993
+科学家发表的论文在出版前都经过同行的匿名审查。同行审议机制被认为能发现错误，确保研究的真实性。然而这一机制存在缺陷，原因是匿名审查者人数有限，工作繁忙，没有报酬，而且通常与被审查论文作者存在竞争关系。但现在，互联网正在改变同行审查机制，在互联网上人人都可以充当审查者，对论文的批评和讨论都是公开的。《经济学人》的一篇<a target="_blank" href="http://www.economist.com/news/science-and-technology/21604089-two-big-recent-scientific-results-are-looking-shakyand-it-open-peer-review"><u>文章</u></a>以最近的两项研究突破被发现错误为例，认为公开的同行审查有助于发现错误，确保研究可靠。两项研究分别是：小保方晴子发表在《自然》上的<a target="_blank" href="http://www.solidot.org/story?sid=38710"><u>两篇新型万能细胞Stap研究论文</u></a>；南极BICEP探测器团队从宇宙微波背景辐射中找到了原初磁场型极化模式，这种模式被认为只能是暴涨产生的引力波创造的，研究人员<a target="_blank" href="http://www.solidot.org/story?sid=39531"><u>被发现</u></a>使用了不精确的前景辐射数据。
+➜Tim Cook如何在苹果留下自己的印记
+https://www.solidot.org/story?sid=39953	33539
+曾经，乔布斯就是苹果，苹果就是乔布斯。《纽约时报》发表<a target="_blank" href="http://www.nytimes.com/2014/06/15/technology/tim-cook-making-apple-his-own.html?_r=1"><u>文章</u></a>（<a target="_blank" href="http://tech.sina.com.cn/it/2014-06-16/11509439224.shtml"><u>中文</u></a>），评价了库克（Tim Cook）如何在后乔布斯时代留下自己的印记。文章称：<br>
+<i>级别较低的苹果员工盛赞库克的平易近人和智慧。但有人认为，他对产品开发的参与度不及乔布斯。例如，匿名知情人士透露，尽管iWatch智能手表被业界寄予厚望，但库克很少参与这款产品的细节开发，而是将这一职责委派给其他高管。知情人士表示，库克似乎对智能手表—的宏观影响更感兴趣—例如，该手表可能会具备心率监测和其他重要功能，从而改善用户的健康状况，减少去医院的次数。知情人士称，iWatch智能手表有望于今年第四季度发布。库克还在招揽外部人才。他招募了多个行业的高管，包括让Burberry前CEO Angela Ahrendts负责该公司的实体和在线零售业务，以及让 Yves Saint Laurent前CEO Paul Deneve负责特殊项目。他还邀请Adobe前CTO Kevin Lynch和医疗监控设备开发商Masimo Corporation高管Michael O’Reilly加盟。当然，还包括Beats的两位联合创始人。与乔布斯私交甚笃的U2乐队主唱Bono表示，库克并不准备靠自己来取代乔布斯，而是希望用一个团队来取代他，“这完全可以解释苹果为何要收购Beats。”</i>
+➜SteamBoy Machine透露Steam掌机项目
+https://www.solidot.org/story?sid=39954	35769
+<center><iframe src="https://www.youtube.com/embed/UM63RuEhgHU?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+Valve的Steam主机设计将PC游戏带到客厅，用手柄取代键盘和鼠标。但有了主机怎么能少了掌机？
+SteamBoy Machine团队在上周的E3上透露了他们<a target="_blank" href="http://www.escapistmagazine.com/news/view/135381-SteamBoy-Aims-To-Be-The-Handheld-Steam-Machine-Update"><u>正在研发的掌机项目</u></a>。SteamBoy掌机外观看起来是结合了Steams手柄和索尼的PlayStation Vita掌机，两个触摸板、八个按钮、四个触发器，背面还有两个按钮。硬件规格是四核CPU，4GB内存，32GB记忆卡，5英寸16:9显示屏。SteamBoy标准版计划在2015年发布，支持 WiFi和3G。
+➜研究发现面试官青睐自恋的应聘者
+https://www.solidot.org/story?sid=39955	38210
+不列颠哥伦比亚大学的一项研究<a target="_blank" href="http://phys.org/news/2014-06-job-reward-narcissists-applicants-modest.html"><u>发现</u></a>，自恋应聘者在面试时比同等资格但温和的应聘者更成功。部分亚洲地区的文化强调谦虚，研究发现意味着这些地区的应聘者在北美寻找工作面临许多难度。心理学教授Del Paulhus说，工作面试是少数吹嘘能产生正面印象的社会情境。通常在多次接触后，人们会摆脱对自恋者的正面印象。自恋者在面试中会更多的谈论自己，直接接触面试官的目光，爱开玩笑，向面试官问更多的问题。研究人员发现，中日韩的面试者表现出了较低的自恋，他们获得“肯定雇佣”的评价更少。
+➜计算机能否变成化石记录？
+https://www.solidot.org/story?sid=39956	40845
+本月初，科学家在夏威夷海滩发现了<a target="_blank" href="http://news.sciencemag.org/earth/2014/06/rocks-made-plastic-found-hawaiian-beach"><u>由塑料构成的石头</u></a>。有研究人员由此产生联想：塑料石头和其它人造物体可以变成化石记录的一部分，用于描述人类统治地球的人类世（Anthropocene）。古生物学家Jan Zalasiewicz说，人类不擅长回收利用人造的物体，许多人造物体都具有长期保存的潜力，都有可能成为化石。它们可能在岩石层中保存数千、数百万，甚至数十亿年。由聚合物或棉花做成的衣服，在恰当的条件下，可以保存数百万年，但衣服会褪色。由塑料、钛和橡胶构成的计算机，如果被埋在地层中，<a target="_blank" href="http://news.sciencemag.org/archaeology/2014/06/qa-will-fossil-record-preserve-your-computer"><u>它们至少会留下形状的细节</u></a>，但内部信息会丢失，就像可以将唱歌的鸟变成化石，但无法将它唱的歌变成化石，
+➜上传警车追逐的摩托车手被判四年
+https://www.solidot.org/story?sid=39957	42303
+<center><iframe src="https://www.youtube.com/embed/FOYYUOFEYF8?feature=player_detailpage" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+2012年10月的一天，一辆警车发出信号要求骑着摩托车的Hamza Ali Ben Ali将车停在加油站前，他在加油站前降低了车速，然后立即加速逃离，成功逃脱了警车的追逐。两周之后，他向YouTube上传了7分31秒的未剪辑视频。Ali因为其它犯罪行为而被法庭命令佩戴GPS脚链。视频和GPS脚链的信息将警方<a target="_blank" href="http://arstechnica.com/tech-policy/2014/06/motorcyclist-who-shot-uploaded-police-flight-video-to-serve-hard-time/"><u>引到了他的家门口</u></a>。GPS脚链不仅仅发送了他的位置信息，还发送了速度信息，显示他的车速一度达到时速115英里。法官认为 Ali 的情况不值得同情，判他入狱四年。
+➜儿童血铅超标，镇长称可能原因是咬铅笔
+https://www.solidot.org/story?sid=39958	44321
+《京华时报》<a target="_blank" href="http://www.chinanews.com/gn/2014/06-15/6280962.shtml"><u>报道</u></a>，湖南省衡东县大浦镇的300多名儿童被查出血铅含量超标，村民怀疑与村口一家生产电锌的化工厂美伦有关。铅超标会影响智力发育。村民发现，离化工厂越近血铅值越高。衡东县环保局声称，美伦化工厂各项环保指标都达标。那么，周边那么多儿童血铅超标究竟是什么原因造成的呢？衡东县环保局局长肖丰岚说：“不能确认厂子是(铅)唯一来源，我们没有(认定)资质。”大浦镇镇长则称：“小孩在学校读书，那个圆珠笔、铅笔，用铅笔的时候在嘴里咬，也可以形成超铅。 ”此言一出，立刻引发民众强烈抨击。 北京大学公共卫生学院教授潘小川表示，工厂排放污染物的重金属比例，或者说重金属的污染水平，和附近居民家窗台上重金属污染比例完全一致，说明家庭里面的重金属污染，来源于工厂排污。另外，家庭里面这么重的铅污染，可以断定会对生活在周边的居民，特别是儿童，产生相应的健康影响，二者有明显的相关关系。
+➜LinkedIn如何在中国取得成功
+https://www.solidot.org/story?sid=39959	46939
+路透社<a target="_blank" href="http://in.reuters.com/article/2014/06/16/uk-linkedin-china-idINKBN0ER0F720140616"><u>报道</u></a>，职业社交网络LinkedIn在中国面临的最大障碍不是审查，而是本地竞争对手和特有的屌丝职业文化。中国职业社交平台大街、若邻和天际用户总数超过6千万，今年2月发布中文版本的LinkedIn还只有500多万用户。在LinkedIn增加100万用户的同时，大街网增加了200万用户。中国国内竞争对手不确信LinkedIn的西方企业形象是否会吸引以屌丝自称的中国职业人士。大街网CEO王秀娟在一封电子邮件中表示，大街与LinkedIn的模式类似，但产品和运营则截然不同。她表示，他们的工作是努力满足80后90后屌丝一代用户的需求。审查仍然十分敏感的问题，硅谷巨人Google和Yahoo分别因为同意中国的审查和交出异见者的电子邮件而名誉受损。2007年，当时的众议院外交事务委员会主席Tom Lantos告诉雅虎执行官，“在技术和金融上你是巨人，但在道德上你是侏儒。”中国LinkedIn用户对审查的观点反映他们使用网站的方式，一位用户写道，“我不知道是否有人在LinkedIn发表敏感内容，我不明白为什么。对我来说，它是一个寻找更好工作的平台。”

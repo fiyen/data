@@ -1,0 +1,51 @@
+➜《互联网广告管理暂行办法》意味着广告屏蔽非法？
+https://www.solidot.org/story?sid=48888	13201
+工商总局上周公布了《<a target="_blank" href="http://www.saic.gov.cn/zwgk/zyfb/zjl/xxzx/201607/t20160708_169638.html">互联网广告管理暂行办法</a>》，其中一个重要方面是将付费搜索推广认定为互联网广告，要求搜索引擎服务商对广告内容进行审核。但细读《暂行办法》，会发现工商总局还加入了令广大互联网用户正常行为变成非法的条款。《暂行办法》第十六条规定：互联网广告活动中不得有下列行为：（一）提供或者利用应用程序、硬件等对他人正当经营的广告采取拦截、过滤、覆盖、快进等限制措施；（二）利用网络通路、网络设备、应用程序等破坏正常广告数据传输，篡改或者遮挡他人正当经营的广告，擅自加载广告；（三）利用虚假的统计数据、传播效果或者互联网媒介价值，诱导错误报价，谋取不正当利益或者损害他人利益。这意味着：1）使用广告屏蔽工具屏蔽广告是非法的；2）ISP拦截HTTP流量植入广告是非法的；3）欺骗性点击是非法的。这三类活动都是中国互联网上的普遍现象，《暂行办法》让大多数人都陷入了普遍违法的处境之中。工商总局可能自己也认识到该条款的普遍性，它没有规定违反第十六条将面临什么惩罚。
+➜在Windows中运行Ubuntu的Unity桌面
+https://www.solidot.org/story?sid=48889	14380
+<div align="center"><img src="http://img.solidot.org/0/705/liM9GrpXrjb6.png" height="280" align="" width="450"><br>
+</div>
+<br>
+即将在8月释出的Windows 10一周年内更新将引入了名叫Windows Subsystem for Linux(WSL)的功能。WSL实现了Linux系统调用的子集，允许Windows用户使用Bash不用修改直接运行原生Linux程序。该功能是微软和Canonica合作的成果，其预览版早在4月已经发布。这项功能有一个限制是只能通过命令行环境执行Linux程序，但在预览版推出之后开发者已经找到了方法通过图形用户环境执行Linux程序，现在他们甚至能执行桌面环境：<a target="_blank" href="https://github.com/Microsoft/BashOnWindows/issues/637"><u>运行Ubuntu的Unity桌面 </u></a>。
+➜科学统治的理性国家是一个糟糕的主意
+https://www.solidot.org/story?sid=48890	17731
+想象一下未来社会的一切都基于完美的逻辑，还有什么地方会出错呢？科学教徒相信我们能通过科学或理性思维去解决世界的难题。抛弃宗教和其它偏见，我们能用逻辑修正一切。美国的天体物理学家Neil deGrasse Tyson上周提出了理性国家的想法，在这个国家所有的政策都基于证据的效力。<a target="_blank" href="https://www.newscientist.com/article/2096315-a-rational-nation-ruled-by-science-would-be-a-terrible-idea/"><u>这不是一个聪明的想法</u></a>，我们甚至可以说它是不合理的，缺乏充足的证据。科学是有缺陷的，专家懂的东西并没有他们以为的多，他们经常会犯错，过度的自信、天生非理性的大脑，他们经常会误导我们，错误诠释信息。而理性也是一种主观的观念。所有的人类都有偏见，我们忘记科学家和专家也是人类。科学家在很多方面和我们是一样的。
+➜阿波罗11号源代码上传到 GitHub
+https://www.solidot.org/story?sid=48891	19482
+当 MIT Instrumentation Laboratory的程序员在1960年代为阿波罗11号任务开发飞行软件时，必要的技术还不存在，他们需要自己去发明。他们提出了新的储存计算机程序的方法——线存储器（rope memory），创造了特定版本的汇编语言。他们为阿波罗制导计算机（AGC）开发了数千行的汇编代码。前NASA实习生 Chris Garry上周将AGC代码<a target="_blank" href="https://github.com/chrislgarry/Apollo-11"><u>上传到了 GitHub</u></a>。这些代码已经存在一段时间，它是在2003年由Ron Burkey从扫描图像转录而来。代码注解里<a target="_blank" href="http://qz.com/726338/the-code-that-took-america-to-the-moon-was-just-published-to-github-and-its-like-a-1960s-time-capsule/"><u>很快发现了</u></a>程序员留下的玩笑和1960年代事件的参照。
+➜洪水再度考验中国
+https://www.solidot.org/story?sid=48892	26845
+暴雨和洪水席卷半个中国，围困了南部一些城镇一段时日。截至上周五，逾160人死于溺水、山体滑坡和房屋倒塌，其中有35人在西部边陲的一起滑坡灾害中丧生。河流和湖泊水位上涨，令堤坝不堪重负，近200万人被转移到更安全的地带。对中国领导人来说，<a target="_blank" href="http://cn.nytimes.com/china/20160711/china-floods/"><u>今年的洪水是一次考验</u></a>：他们是否有能力兑现保障公民安全的承诺。在过去，对防洪工程的忽视和腐败行为削弱了中国的洪水防御能力。包括李克强总理在内的一些领导人宣称，今年，政府的准备工作要比以往任何时候都更加充分。然而，专家和受暴雨影响地区的居民却表示，当地政府对排水很不重视，填湖造地，导致城市容易遭受大型洪水的冲击。虽然堤防可能起到了效果，但城内缺乏有效的排水设施成为了公众的一块心病。武汉的一些居民抱怨，官员在改善排水方面几乎无所作为，而且允许填湖进行城市开发。
+➜文艺复兴科技公司想要用原子钟打败高频交易员
+https://www.solidot.org/story?sid=48893	29980
+华尔街公司广泛使用高频交易，能快速对波动巨大的股市做出反应。然而当大部分交易员都使用高频交易，要出其不意就变得非常困难。现在，传奇的对冲基金文艺复兴科技公司通过一项专利申请，透露了该公司打败其它高频交易员的新技术——<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-07-07/jim-simons-has-a-killer-flash-boy-app-and-you-can-t-have-it"><u>使用原子钟同步交易</u></a>。专利申请号<a href="http://pdfaiw.uspto.gov/.aiw?PageNum=0&amp;docid=20160035027&amp;IDKey=972BB3F569B0&amp;HomeUrl=http%3A%2F%2Fappft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526co1%3DAND%2526d%3DPG01%2526s1%3Drenaissance%2526s2%3Dmercer%2526OS%3Drenaissance%252BAND%252Bmercer%2526RS%3Drenaissance%252BAND%252Bmercer"><u>14/451,356</u></a>描述了在多个交易所同步执行大量订单的方法和系统：首先将大量订单发送到一个中央服务器，然后将这些订单分解成更小规模的订单，这些订单发送到尽可能靠近交易所的服务器上，同时发送过去的还有执行订单的精确时间。服务器同步执行的交易将使得其它高频交易公司没有足够的时间做出反应。这项技术的发明人是公司联席CEO Robert Mercer和Peter Brown，系统的关键部分是使用光学、原子钟或GPS时钟同步交易。文艺复兴科技公司称GPS时钟的精度达到纳秒级，高频交易公司无法感知到纳秒级的时间差异。
+➜Pokémon GO的活跃用户有望超过Twitter
+https://www.solidot.org/story?sid=48894	32910
+手游Pokémon GO正在风靡世界——它还没有向全球发布，由于服务器压力Niantic Labs 只向美国等地开放了游戏。从一个侧面可以一窥它的流行：在大热天让玩家跑到公园里去找精灵。在短短48小时内，它就安装在了美国5.6%的 Android设备上，在 Android平台的安装量超过了约会应用 Tinder。用户花在Pokémon GO上的平均时间是Snapchat的两倍。SimilarWeb的统计数据显示，它在Android上日均活跃用户<a target="_blank" href="http://www.forbes.com/sites/jasonevangelho/2016/07/10/pokemon-go-about-to-surpass-twitter-in-daily-active-users/#73afa44c5174"><u>将超过Twitter</u></a>。
+➜Stuxnet纪录片《Zero Days》
+https://www.solidot.org/story?sid=48895	34180
+Stuxnet蠕虫纪录片《<a target="_blank" href="http://www.imdb.com/title/tt5446858/?ref_=nv_sr_1"><u>Zero Days</u></a>》于上周在北美上映，讲述了针对伊朗基础设施和核设施发动网络攻击的Nitro Zeus计划。纪录片援引NSA和CIA内部匿名消息来源称，Nitro Zeus计划旨在渗透进入伊朗控制通信、电网、交通和金融的系统，一旦与伊朗发动战争时破坏、弱化和摧毁其基础设施。美国制定Nitro Zeus计划是以防万一阻止伊朗发展核计划的外交努力失败之后，美国被卷入以色列和伊朗之间的战争。而Stuxnet蠕虫被认为是美国和以色列合作开发的，但美国至今并没有承认。前NSA和CIA局长Michael Hayden<a target="_blank" href="http://www.networkworld.com/article/3093470/security/stuxnet-the-movie-the-u-s-has-pwned-iran.html"><u>认为</u></a>网络战武器必须以成熟的方式公开讨论，以避免使用可能造成广泛的灾难。
+➜甲骨文公司承诺继续支持Java EE
+https://www.solidot.org/story?sid=48896	34502
+从去年秋天开始，随着甲骨文将开发资源转移到其它项目，服务端 Java应用企业框架Java EE的开发事实上停止了。甲骨文发言人Mike Moeller发表声明称该公司<a target="_blank" href="http://arstechnica.com/information-technology/2016/07/not-dead-yet-oracle-promises-big-plans-for-java-ee/"><u>承诺会继续支持Java和Java EE</u></a>。甲骨文正在与Java社区的关键合作伙伴密切合作，敲定Java EE下一个版本Java EE 8的建议，将在今年9月的JavaOne会议上与Java社区分享完整细节。对于甲骨文的回应，Java社区开发者的反应混杂了惊讶和怀疑。
+➜没有性欲的人
+https://www.solidot.org/story?sid=48897	39374
+Michael J Dore长到14岁时才第一次意识到，自己与男校中的其他同学不大一样。他们要么热心讨论周末想亲吻的姑娘，要么围在一起翻阅色情杂志，但是多尔从未有过类似的青春期冲动。一年后，Dore发现用“<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/07/160707_vert_fut_i-have-never-felt-sexual-desire"><u>无性恋（asexual）</u></a>”这个词来形容自己再合适不过了。现在33岁的Dore已成为一位数学家。2004年，加拿大学者Anthony Bogaert发表了论文《<a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/15497056"><u>无性人群：无性人群的分布以及相关因素的一个国家样本调查</u></a>》后，人群中有一部分比例的人可能对性没有吸引力的观点才开始流行起来。该论文以英国1990年代18000人为研究样本，声称大约1%的人口属于无性恋人群，其中70%为女性。 “关于无性恋的产生，仍有大量工作要做，”他说，“有研究表明，无性恋可能受到早期生物学因素影响，比如特殊基因、影响大脑早期发育的产前荷尔蒙等等。和其他性取向者一样，无性恋是早期生物学因素，或者早期生物学体质的产物。”还有一种假定认为，缺乏性欲，或性冲动，可能跟某种荷尔蒙缺陷有关。2001年旧金山正视无性恋和教育网络的研究发现，近七成无性恋者声称自己还是处，11%无性恋者表示自已非处，但眼下没有任何欲望；7%无性恋者强调他们性欲旺盛，另有17%无性恋者则认为，性让他们感到“极其反感”。不过，也有38%无性恋者表示，性让他们觉得“有点反感”，27%无性恋者则说，他们对性无所谓。甚至有4%无性恋透露，他们很享受性爱。
+➜Google准备测试能抵抗量子计算机破解的加密算法
+https://www.solidot.org/story?sid=48898	40804
+HTTPS加密使用的常用算法都能在有限时间内破解，区别在于时间长短。如果能利用量子计算机的并行计算能力，破解速度还能提升许多个数量级。Google<a target="_blank" href="https://security.googleblog.com/2016/07/experimenting-with-post-quantum.html"><u>透露</u></a>，它的服务器将在未来几个月引入一种实验性的加密算法<a target="_blank" href="https://eprint.iacr.org/2015/1092.pdf"><u>Ring Learning With Errors（Ring-LWE）</u></a>，不同于Diffie-Hellman密钥交换方法，或RSA和椭圆曲线加密，Ring-LWE能对抗量子计算机的破解。Google计划结合现有的算法，观察Ring-LWE在现实世界环境中的表现。Ring-LWE将以一种方法与现有密钥交换方法的混合起来：攻击者如果想要解密加密流量将需要先破解两种加密算法。
+➜病毒肝炎是全球主要杀手
+https://www.solidot.org/story?sid=48899	42081
+《柳叶刀》发布的<a target="_blank" href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30579-7/fulltext"><u>研究报告</u></a>显示，病毒性肝炎成了<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/07/160707_hepatitis_kills"><u>全球主要杀手之一</u></a>，致死人数堪比艾滋病或肺结核。尽管有疫苗和治疗，但研究估计肝炎感染及其引发病症在2013年导致了145万人死亡。世界卫生组织的数据显示，2014年同艾滋病相关的死亡人数是120万人，而同年肺结核导致的死亡人数是150万人。病毒性肝炎指5种不同的病毒 (即甲、乙、丙、丁、戊型肝炎病毒)，有些通过体液传染，其他（甲、戊）通过被污染的食品和饮料传染。在世界肝炎致死的患者大多是乙肝和丙肝的患者，这两种肝炎能够严重损坏肝脏，使患者容易发展成肝癌。但是因为患者通常对传染初期的症状没有感觉，因此他们不会意识到这两种肝炎的严重危害，等他们意识到了，已经为时已晚。研究表明，东亚地区面临病毒性肝炎问题最严重。
+➜30米直径光学望远镜考虑在其它地方建造
+https://www.solidot.org/story?sid=48900	42577
+<div align="center"><img src="http://img.solidot.com.cn/0/158/liTIwccDQrs.jpg" height="338" align="" width="450"><br>
+</div>
+<br>
+原计划建造在夏威夷Mauna Kea山上的30米直径光学望远镜项目因为原居民的抗议而搁置，官员表示<a target="_blank" href="http://physicsworld.com/cws/article/news/2016/jul/08/thirty-meter-telescope-may-not-be-built-in-hawaii-say-astronomers"><u>正在考虑替代位置</u></a>，将在明年初做出决定。夏威夷原居民反对的理由是望远镜玷污圣地。考虑的新地点包括墨西哥的加利福尼亚半岛，加那利群岛，智利，印度和中国。选定地点后，30米直径光学望远镜计划在2018年4月开始建造，2022年完工。项目副经理Fengchuan Liu称，虽然暂停了建造，但团队并没有坐在那里无所事事，他们在望远镜的设计及相关问题上取得了进展，确保花掉的每一美元都是明智的。
+➜如果重要的物理学理论是错误的？
+https://www.solidot.org/story?sid=48901	45058
+物理学家在过去几十年发展的宇宙学和物理学理论如多元宇宙和弦论都是难以验证的，我们无法观察到另一个宇宙，也难以发现隐藏的额外维。物理学家 Lee Smolin和哲学家Roberto Unger上个月底组织了<a target="_blank" href="https://perimeterinstitute.ca/conferences/time-cosmology"><u>一个研讨会</u></a>，他们相信物理学存在真正的危机，认为当科学放弃了实验验证或不确认原则它就崩坏了。他们认为后退一大步也许能发现新的有希望的方向。<a target="_blank" href=" Gotten Something Really Important Really Wrong"><u>他们提出了三大主张</u></a>：只有一个宇宙；时间是真实的；数学是部分真实的，数学不能取代科学发现和科学想象，自然科学中的数学效力是有限制的有选择性的。
+➜富裕国家某些重大疾病发病率显著下降
+https://www.solidot.org/story?sid=48902	47138
+医学界的<a target="_blank" href="http://www.nytimes.com/2016/07/10/upshot/a-medical-mystery-of-the-best-kind-major-diseases-are-in-decline.html?_r=0"><u>难解之谜</u></a>：富裕国家部分重大疾病如结肠癌、痴呆和心脏病的发病率出现显著下降，改进的诊断和治疗无法完全解释这一现象。<a target="_blank" href="http://www.nejm.org/doi/full/10.1056/NEJMp1514434"><u>研究报告</u></a>发表在《新英格兰医学期刊》上。哈佛医学历史学者David S. Jones认为，提出一种令人信服的解释容易，挑战在于如何证明假说是正确的。在美国和其它富裕国家，三大杀手仍然是癌症、心脏病和中风，但这些疾病主要发生在生命的后期，人们通常寿命更长更健康。研究人员认为可能和细胞衰老过程有关，细胞衰老过程可能发生了有利于人类的改变。

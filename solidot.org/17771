@@ -1,0 +1,46 @@
+➜空气污染导致人类智力显著下降
+https://www.solidot.org/story?sid=57725	7560
+匿名读者 写道<i> "卫报的<a href="https://www.theguardian.com/environment/2018/aug/27/air-pollution-causes-huge-reduction-in-intelligence-study-reveals" target="_blank" title="Air pollution causes ‘huge’ reduction in intelligence, study reveals">一篇报道</a>称，最近发表在《美国国家科学院院刊》上的一篇以中国为对象的研究表明，空气污染能够导致人类语言能力与计算能力的显著下降，其负面影响相当于一年的教育水平。该调查研究了 20000 个中国居民 2011-2014 年间语言与计算能力的变化，并将结果与与空气中二氧化氮和二氧化硫浓度的记录相比对。研究表明，在空气中暴露的时间越多，智力的损伤越严重，且语言能力比计算能力受影响更严重，男性受影响程度高于女性。空气污染对认知能力的影响在早先的研究中已经得到证明，而这一研究则首次涉及全年龄段，并对男女受影响水平做出详尽探讨。世界上 95% 的人口都处于受污染的空气中，这一研究结果因而具有普遍意义。"</i>
+➜GlobalFoundries 终止 7 纳米工艺研发，AMD 将 7 纳米芯片订单全部交给台积电
+https://www.solidot.org/story?sid=57726	9537
+仅次于台积电的第二大芯片代工厂 GlobalFoundries 做出了一项重大的战略转变，宣布<a href="https://www.anandtech.com/show/13277/globalfoundries-stops-all-7nm-development" target="_blank"><u>终止 7 纳米制造工艺研发</u></a>，专注于现有的 14 纳米/12 纳米工艺（14LPP/12LP）。GF/台积电/三星的 7 纳米工艺相当于英特尔的 10 纳米工艺，因为技术方面的挑战，芯片巨人已经卡住 10 纳米工艺上很久了，至今难以大规模量产 10 纳米芯片。GlobalFoundries CTO Gary Patton 坚称该公司做出这一决定不是因为技术问题，而是在谨慎考虑了
+7 纳米工艺的商业机会和财务问题后做出的。看起来更像是 GF 发现 7 纳米工艺面临的挑战太大， 短时间内可能在商业上难以取得成功。因为放弃 7 纳米技术，GF 将裁员 5% ，并与 AMD 和 IBM 重新协商相关交易。AMD 已经发表<a href="http://ir.amd.com/news-releases/news-release-details/expanding-our-high-performance-leadership-focused-7nm" target="_blank"><u>声明</u></a>，宣布其 7 纳米 CPU 和 GPU 订单全部交给台积电。此事预计将会影响 AMD 与台积电的议价能力，因为它可以选择的代工厂越来越少了。
+➜富士通透露基于 ARM 架构的新超算细节
+https://www.solidot.org/story?sid=57727	14518
+富士通<a href="https://www.top500.org/news/fujitsu-reveals-details-of-processor-that-will-power-post-k-supercomputer/" target="_blank"><u>公布了</u></a>下一代超算的 CPU 细节。被临时命名为 Post-K 的超算运算速度预计将是 K（京）的 100 倍，将突破 exascale，预计于 2021 年投入使用。K（京）超算使用的是原 Sun 的 SPARC64 处理器，而 Post-K 切换到 ARM 架构的 A64FX，使用 7 纳米工艺制造，包含 87.86 亿个晶体管，它将是第一款实现为高性能计算设计的 Scalable Vector Extension(SVX) 指令的 ARM 处理器。富士通已经生产出处理器原型，开始了初步测试。A64FX 由 64 个计算核心和 4 个辅助核心构成，512 位宽矢量运算，FP64 浮点性能超过 2.7 teraflops，FP32 浮点性能超过  5.4 teraflops，FP16 浮点运算性能超过 10.8 teraflops。
+➜Steam 上的 Linux 游戏数量一周增加一千
+https://www.solidot.org/story?sid=57728	15462
+很多人保留 Windows 的一个主要目的是玩游戏，而现在你有理由完全抛弃 Windows 了。Valve 上周释出了  Steam Play 更新，推出了在 Linux 上玩 Windows 游戏的兼容工具。几乎在一夜之间，在 Linux 平台可以玩的游戏数量<a href="https://www.forbes.com/sites/jasonevangelho/2018/08/27/steam-for-linux-adds-1000-perfectly-playable-windows-games-in-under-a-week/#7bbcded455ae" target="_blank"><u>增加了 1000 款</u></a>。虽然 Valve 只将 27 款 Windows&nbsp; 游戏加入到白名单，但用户随后测试了 2134 款 Windows 游戏，其中  971 款被标记为完全稳定，通过兼容工具可以在 Linux 上完美运行。
+➜流动儿童教育问题为何难解决
+https://www.solidot.org/story?sid=57729	16904
+90 年代初，北京大概有 1100 万人口，上海有 1300 万人口。根据 2016 年的<a href="http://tjj.beijing.gov.cn/nj/qxnj/2016/zk/indexch.htm" target="_blank"><u>北京统计年鉴</u></a>，全市小学生人数为 85.03 万。当时都能安排一百多万孩子在小学读书，现在在校的学生比九十年代初还要少，学位却总是不够，为什么呢？如果要在城市里建更多的学校，无非是要有地、要钱。最近这几年，绝大多数学校关闭都不是直接被“关”，而是因为拆迁。我们有土地建高尔夫球场、马术场，建城市森林公园，真的没有土地建学校吗？我们只是不愿意付出代价去给这些孩子建学校。钱的问题也不是难解决。现在的人口总数比那个时候多，税收收入也多得多。因此钱本质上也只是一个借口。解决流动儿童教育问题实际上<a href="http://www.ftchinese.com/story/001079106?adchannelID=&amp;full=y" target="_blank"><u>是一个愿不愿意的问题</u></a>。
+➜黑客在暗网出售华住酒店记录
+https://www.solidot.org/story?sid=57730	26087
+有黑客正在“<a href="http://lei6ezsexd4iq2tm.onion/index.php?sid=0c79271423d16b5ea2ab2fe40369abef" target="_blank"><u>中文暗网市场交易网站</u></a>（需注册，需 Tor 浏览器）”出售华住集团旗下酒店的数据库。华住酒店集团旗下拥有“禧玥酒店”、“全季酒店”、“星程酒店”、“汉庭酒店”、“海友酒店”等品牌，泄漏的数据多达 5 亿条，包括姓名、身份证信息、手机号、卡号等信息。<a href="http://finance.sina.com.cn/chanjing/gsnews/2018-08-28/doc-ihiixzkm1772181.shtml" target="_blank"><u>报道称</u></a>，数据可能是公司程序员将数据库连接方式上传至 GitHub 而导致其泄漏出去的，根据公布的截图，该公司的数据库密码是 123456。华住发表声明<a href="https://weibo.com/1887867717/GwJn6jXIG?from=page_1006061887867717_profile&amp;wvr=6&amp;mod=weibotime" target="_blank"><u>称已经报警</u></a>，并聘请专业技术公司对网上兜售的“相关个人信息”是否来源于华住集团进行核实。华住要求黑客向公安机关投案自首，并要求“请相关网络用户、网络平台立即删除并停止传播上述信息”。
+➜中国拒绝向美国提供 H7N9 禽流感病毒样本
+https://www.solidot.org/story?sid=57731	26880
+一年多来，尽管美国政府官员和研究机构反复提出请求，中国政府<a href="https://www.nytimes.com/2018/08/27/health/china-flu-virus-samples.html" target="_blank"><u>拒绝向美国提供 H7N9 禽流感病毒样本</u></a>。美国需要样本来研发疫苗和治疗方法。而根据 WHO 的规定，此类的病毒样本交换是例行程序。随着中美贸易摩擦的加剧，科学家担忧两国间重要的医疗产品供应及信息交换可能放慢脚步，阻碍对下一次生物威胁的防范。专家们认为下一次全球的流行疫情很可能来自于流感，而 H7N9 病毒是候选之一。自 2013 年以来，H7N9 病毒通过农业养殖场传播，演化成能感染人类的高致病性菌株，它杀死了 40% 的感染者。美国人对这种病毒目前没有任何免疫力。
+➜华为加强对用户解锁手机的限制
+https://www.solidot.org/story?sid=57732	28463
+今年 5 月，华为以用户体验和防止刷机问题为<a href="https://www.solidot.org/story?sid=56647" target="_blank"><u>停止提供</u></a> bootloader 解锁码。华为手机以前很容易解锁，因此备受 ROM 社区的欢迎。但从 5 月 24 日起销售的华为手机将无法解锁，而之前销售的手机则有 60 天的时间获得解锁码，之后将停止解锁。华为现在不仅禁止用户解锁而且还采取行动迫使解锁的用户<a href="https://developers.slashdot.org/story/18/08/28/0215225/chinese-phone-maker-huawei-risks-alienating-its-loyal-customer-base-by-taking-a-strong-stand-against-unlocking-of-its-handsets-users-say" target="_blank"><u>恢复到未解锁状态</u></a>。Magisk 是一个流行的 Root 方案，它的开发者称收到通知，一个新的华为 OTA 更新将让安装 Magisk 的设备无法启动。华为是仅次于三星的第二大智能手机制造商。
+➜Facebook、苹果和微软向 OpenStreetMap 贡献数据
+https://www.solidot.org/story?sid=57733	31327
+Google Maps 统治了数字地图市场，Google 的竞争对手目前<a href="https://theodi.org/article/how-are-facebook-apple-and-microsoft-contributing-to-openstreetmap/" target="_blank"><u>正联手帮助</u></a>一个替代的开放地图项目 OpenStreetMap。微软必应地图向 OpenStreetMap <a href="https://www.solidot.org/story?sid=57036" target="_blank"><u>捐赠了</u></a> 1.25 亿美国建筑物轮廓图。微软还向 OpenStreetMap 提供了卫星图像和<a href="https://blogs.bing.com/maps/2018-06/bing-maps-streetside-imagery-now-integrated-into-openstreetmap-id-editor" target="_blank"><u>街景</u></a>。苹果向  OpenStreetMap 提供了法国和丹麦的建筑物<a href="https://github.com/osmlab/appledata/blob/master/BUILDINGS.md" target="_blank"><u>数据</u></a>。Facebook 则在探索利用人工智能辅助的描图来改进 OpenStreetMap 在泰国的地图数据质量。DigitalGlobe 允许 OpenStreetMap 社区使用它的卫星图像，Telenav 发布了 OpenStreetCam 帮助收集开放授权的街景。OpenStreetMap 是否真的能挑战 Google Maps？只有时间才知道答案。
+➜Ubuntu 和 CentOS 禁用 GNOME 安全沙盒功能
+https://www.solidot.org/story?sid=57734	33598
+Ubuntu 和 CentOS <a href="https://www.bleepingcomputer.com/news/security/ubuntu-and-centos-are-undoing-a-gnome-security-feature/" target="_blank"><u>禁用</u></a>了 GNOME 桌面的一项安全沙盒功能。名为 <a href="https://bugzilla.gnome.org/show_bug.cgi?id=774497" target="_blank"><u>Bubblewrap</u></a> 的功能是在去年 7 月发布的 GNOME 3.26 中引入的，它是一个沙盒环境，用于保护缩略图解析器。缩略图解析器是一个读取目录内文件来创建缩略图的脚本，过去几年，安全研究人员证明缩略图解析器可以成为一种攻击矢量，被黑客用于诱骗用户下载恶意文件再通过缩略图解析器执行。GNOME 团队因此加入了 Bubblewrap 来沙盒化所有缩略图解析器脚本。但 CentOS 和 Ubuntu 被发现默认禁用了 Bubblewrap。Ubuntu 安全负责人 Alex Murray 给出的解释是他们没有时间和资源评估 Bubblewrap，他将问题归罪于 CPU bug 如 Spectre 和 Meltdown 让他的团队忙碌到没时间审核新安全特性。
+➜Y 孵化器准备明年开始研究无条件的基本收入
+https://www.solidot.org/story?sid=57735	40707
+硅谷风投公司 Y 孵化器的研究部门 YC Research 准备从明年<a href="https://www.wired.com/story/y-combinator-learns-basic-income-is-not-so-basic-after-all/" target="_blank"><u>开始研究</u></a>没有任何条件的基本收入，它将向 3000 名参与者无条件发放现金。实验由密歇根大学的 Survey Research Center 负责，地点尚未确定，3000 名参与者中的 1000 人每个月将收到 1000 美元，对照组的 2000 人每个月将收到 50 美元。部分参与者能有三年收到现金，另一部人则有五年，该项目被称为“Making Ends Meet”。Y 孵化器 CEO Sam Altman 早在 2016 年就通过博文表示他相信随着技术消除传统工作，在自动化取代人工的同时创造出大量财富，基本收入会在全国范围内实现。目前的基本收入实验<a href="https://news.slashdot.org/story/18/08/27/2212253/y-combinator-plans-to-start-doling-out-60-million-next-year-to-study-universal-basic-income" target="_blank"><u>都显然存在局限性</u></a>，基本收入概念的一个前提是普通人不用再担心生活费用，但 1000 美元的月收入在美国尤其是硅谷未必能让参与者不用担心生活开支。
+➜Google 披露 Fortnite Android 版安全漏洞，Epic 抨击 Google 不负责任
+https://www.solidot.org/story?sid=57736	42480
+Epic 的热门大逃杀游戏 Fortnite 已发布了 Android 的 Beta 版本，但它没有通过 Google 控制的应用商店发布，避免向搜索巨人缴纳昂贵的“税”（30%）。上周五，Google 披露了 Fortnite 的<a href="https://issuetracker.google.com/issues/112630336" target="_blank"><u>安全漏洞</u></a>，称黑客能劫持 Fortnite 的安装程序加载恶意程序。Epic CEO Tim Sweeney 谴责 Google 提前披露漏洞的做法<a href="https://www.bbc.com/news/technology-45320672" target="_blank"><u>不负责任</u></a>。根据 Google 制定的规则，它会在漏洞向相关厂商报告 90 天后或漏洞补丁发布之后公开漏洞。Epic 在漏洞报告两天之后就释出了补丁，但该公司的安全研究人员请求 Google 给予标准的 90 天披露，因为它的客户需要时间更新。Google 拒绝了，它在补丁发布 7 天之后公开了漏洞。Tim Sweeney 认为 Google 这么做就是为了羞辱他们，给 Epic 的 Android 的用户造成不必要的风险。Google 对此拒绝置评。
+➜锂离子电池受到撞击会变成惰性固体
+https://www.solidot.org/story?sid=57737	45833
+美国田纳西州橡树岭国家实验室的研究人员<a href="https://www.eurekalert.org/pub_releases/2018-08/acs-tlb071618.php" target="_blank"><u>发明了</u></a>一种不会着火的锂离子电池，它内部易燃的液体会在撞击时变为<a href="http://news.sciencenet.cn/htmlnews/2018/8/416992.shtm" target="_blank"><u>惰性固体</u></a>。传统的锂离子电池使用塑料薄片分离两个电极，如果受到撞击或挤压，薄片会断裂并导致短路，引燃锂电解液。研究人员研究出一种新型黏性物质，电解液不仅能在受到冲击时变成固态，比之前测试过的产品更容易制造、更坚固。而且它在被撞击后几秒钟又会变回液体，并且仍然可以在电极之间产生炽热的反应。
+➜微软宣布了游戏机订阅服务 Xbox All Access
+https://www.solidot.org/story?sid=57738	46326
+微软<a href="https://www.thurrott.com/xbox/xbox-one/166532/microsoft-announces-xbox-access" target="_blank"><u>宣布了</u></a>一种捆绑游戏机和游戏库的订阅服务 Xbox All Access，将移动运营商的运营模式应用到主机游戏领域。美国玩家可以每月 $22 或 $35 的费用获得 Xbox One S 或 Xbox One X，通过 Xbox Game Pass 服务获得 100 多款游戏，以及通过 Xbox Live Gold 获得联网服务。玩家需要承诺订阅两年，也就是最后你需要支付 528 美元或 840 美元。在两年订阅结束之后，你可以保留游戏机，但继续使用其余服务则需要再付费。
+➜互联网真的让我们变蠢吗？
+https://www.solidot.org/story?sid=57739	47884
+有关互联网让人们变蠢的理论<a href="https://tech.slashdot.org/story/18/08/27/1522254/does-google-actually-make-us-dumber" target="_blank"><u>受到了质疑</u></a>，因为相关研究无法复制或重现。这些论文被大量引用，被媒体广泛报道。五个实验室尝试重现了 21 项有影响力的研究，其中 8 项完全无法重现。无法重新并不能证明某个发现是错误的。但科学界正面临无法重现的危机，从人工智能到癌症研究等领域都存在大量实验无法重现的问题，其中心理学领域问题可能最严重。

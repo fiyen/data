@@ -1,0 +1,60 @@
+➜Chromium 45默认关闭语音识别模块下载
+https://www.solidot.org/story?sid=44555	9060
+Google Chrome浏览器的开源版本Chromium<a target="_blank" href="http://www.solidot.org/story?sid=44512"><u>被发现</u></a>会在启动时自动下载一个二进制文件——Chrome Hotword Shared Module。该模块没提供源代码，功能没有默认激活，它的功能是监听用户电脑的麦克风，如果用户发说了“OK, Google”，它会试图去理解用户随后发出的指令。虽然功能未激活，但由于其闭源属性，用户无法检查源代码，它正在做什么没人知道，此事引发了监视方面的担忧。Google开发者<a target="_blank" href="https://code.google.com/p/chromium/issues/detail?id=500922#c39"><u>宣布</u></a>，未来发布的Chromium 45将会<a target="_blank" href="http://arstechnica.com/security/2015/06/not-ok-google-chromium-voice-extension-pulled-after-spying-concerns/"><u>默认关闭</u></a>该模块的下载。此事不会影响Chrome用户，因为Chrome本来就包含了闭源的Google服务代码，使用Chrome意味着用户至少部分信任Google。
+➜雷克萨斯制造出悬浮滑板原型
+https://www.solidot.org/story?sid=44556	11796
+<center>
+<iframe src="https://www.youtube.com/embed/7zTCgMPZRuo" allowfullscreen="" width="427" frameborder="0" height="209"></iframe><br>
+<br>
+</center>
+丰田旗下的奢侈品牌雷克萨斯周三公布了<a target="_blank" href="http://www.lexus-int.com/amazinginmotion/slide/"><u>一款悬浮滑板原型</u></a>。原型主要用于演示目的不会真的出售，它利用磁悬浮原理悬浮在地面上几厘米的高度，组合了液氮冷却的超导体和永磁体。它的使用<a target="_blank" href="http://slashdot.org/?source=autorefresh"><u>受到很大限制</u></a>，必须有铁才能悬浮，而且用于冷却的液氮也是有限的。<br>
+➜开源容器工程及其意义
+https://www.solidot.org/story?sid=44557	13201
+<a href="/~HighRise">HighRise</a> 写道 "周一看到开源容器工程(Open Container Project)在圣佛朗西斯科的声明。这是一个Linux基金会的工程，旨在提供使用软件容器的规范，并提供基本的运行时软件。参与名单上的公司签署声明，将提供对实现容器应有之意的支持，<a target="_blank" href="http://news.slashdot.org/story/15/06/24/1918220/the-open-container-project-and-what-it-means"><u>这是一件大好事</u></a>。参与公司包括：
+Amazon Web Services, Apcera, Cisco, CoreOS, Docker, EMC, Fujitsu Limited, Goldman Sachs, Google, HP, Huawei, IBM, Intel, Joyent, the Linux Foundation, Mesosphere, Microsoft, Pivotal, Rancher Labs, Red Hat和VMware.&nbsp;
+Stephen R. Walli 在这篇文章里阐述了<a target="_blank" href="http://opensource.com/business/15/6/announcing-open-container-project"><u>这一事件对开源界的意义</u></a><u>：</u>
+<ul>
+<li>Goolge，CoreOS，Cloud Foundry等巨头各自发展，投入巨资。整合将减少开销。</li></ul>
+<ul>
+<li>统一标准并提供样本软件，将推进容器投入使用的进程。是虚拟化方案的进步。</li></ul>
+<ul>
+<li>合作将专利权放到了“可依赖、非盈利的组织”，避免以后巨头挟专利以令诸候。</li></ul>
+<ul>
+<li>Linux基金会是协调各方进行该工作的理想组织。</li></ul>
+➜香港立法会建制派议员用WhatsApp交流但沟通混乱
+https://www.solidot.org/story?sid=44558	14809
+香港立法会于6月18日对北京提出的政改方案进行<a target="_blank" href="https://zh.wikipedia.org/zh/2016%E5%B9%B4%E5%8F%8A2017%E5%B9%B4%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9#.E8.A1.A8.E6.B1.BA"><u>投票表决</u></a>，但原本计划投赞成票的亲北京建制派阵营却在表决前出现混乱，大部分人突然离席没有参加投票，亲民主的泛民阵营一致投下了反对票，政改方案遭到否决。香港东方报业称，建制派阵营是通过一个WhatsApp群组互相沟通的，它公布了<a target="_blank" href="http://hk.on.cc/hk/bkn/cnt/news/20150624/bkn-20150624233038224-0624_00822_001.html"><u>通话内容</u></a>，通话内容显示建制派议员之间沟通有问题，多次出现<a target="_blank" href="http://hk.on.cc/hk/bkn/cnt/news/20150624/bkn-20150624233019643-0624_00822_001.html"><u>互相矛盾</u></a>的指令，而立法会主席曾钰成也在其中发挥了指挥的作用，他本来<a target="_blank" href="http://hk.on.cc/hk/bkn/cnt/news/20150625/bkn-20150625093106437-0625_00822_001.html"><u>应该保持中立</u></a>。
+➜Facebook在中国招聘的员工有三分之一无法入职
+https://www.solidot.org/story?sid=44559	15999
+<a href="mailto:anchor89@126.com">被FB坑的人</a> 写道<i> "Facebook去年在大陆通过校招招聘了24位应届生，其中8人幸运的抽到了H1b工作签证，剩下的16人中，Facebook称只有能力安排其中8人。另外8人的offer被延迟到明年，并且如果抽不中签证话即刻取消offer，同时声称即便抽不到H1b签证，也不会再安排到London或者其他办公室。今年H1b的中签率为30%，按照近几年的经验来看，明年的中签率会小于30%，也就是说，<a target="_blank" href="http://zhi.hu/my99"><u>这几乎相当于这8人在入职前就被裁员。</u></a>
+"</i>
+➜美国将调整加班工资规定
+https://www.solidot.org/story?sid=44560	19340
+美国劳工部下个月将会宣布对《公平劳动标准法》<a target="_blank" href="http://cn.nytimes.com/opinion/20150625/c25overtime/"><u>进行调整</u></a>，提高雇主必须支付加班费的员工薪资门槛。按照目前的规定，假如员工年收入少于2万3660美元，那么在周工作时长超过40个小时后就适用于1.5倍的加班工资。而符合这一标准的雇员只占8%。劳工部很可能会把标准提高到至少两倍的水平，将会有更多雇员可以获得1.5倍的加班工资。商界反对这一调整，称其扼杀工作机会。支持者则认为，此举将会对就业创造、收入差距及薪资停滞问题起到正面作用。
+➜美国联邦人事局估计有多达1800万政府雇员信息被窃取
+https://www.solidot.org/story?sid=44561	27247
+这可能是美国历史上最严重的雇员信息盗窃案：联邦人事局估计有多达1800万雇员的信息被窃取。中国政府官员否认发动了这次攻击，声称美国要<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/06/150625_us_china_cyber_concern"><u>“尊重事实”</u></a>。人事局局长Katherine Archuleta在出席参议院听证会前说，“对于此事的发生我和你们一样愤怒。”她坚称联邦人事局没有人应该受到谴责，“如果谁应该受到谴责，那么这个人应该是肇事者。”联邦人事局有两个系统遭到入侵，其一是Electronic Official Personnel Folder (eOPF)系统，其二是背景调查系统EPIC的核心数据库。EPIC系统以前是运行在大型机上，2010年人事局启动了EPIC的现代化，但在试运行时遇到了严重问题，2014年推倒重来。CAST Software的产品销售总监John Chang说，工作良好的旧系统在引入新的技术后<a target="_blank" href="http://arstechnica.com/information-technology/2015/06/opm-director-on-security-issues-were-trying-very-hard/"><u>常常会出现问题</u></a>。
+➜上诉法庭推翻了激光照射当事人的14年徒刑
+https://www.solidot.org/story?sid=44562	28321
+今年早些时候，加州Fresno市的 Sergio Rodriguez因为多次用激光指示器照射直升机而<a target="_blank" href="http://www.solidot.org/story?sid=38986"><u>被判处了14年徒刑</u></a>，这一判决据信是此类案件中最为严厉的。美国第九巡回上诉法院<a target="_blank" href="https://www.documentcloud.org/documents/2110671-laser-9th-circ.html"><u>认为</u></a>，当事人不应该受到如此长的刑期，法庭<a href="http://arstechnica.com/tech-policy/2015/06/appeals-court-overturns-harsh-14-year-prison-sentence-in-laser-strike-case/"><u>推翻了下级法院的判决</u></a>。上诉法院的法官称，有足够的证据显示Rodriguez用激光指示器照射了直升机，但没有足够的证据显示他是有意干扰直升机的飞行安全，他只是想知道激光指示器能照射多远。
+➜方校长再次入选国家科学技术奖评选
+https://www.solidot.org/story?sid=44563	30689
+透明计算获得了2014年度的国家自然科学奖一等奖，这一结果备受争议，所以今年官方<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/6/321472.shtm"><u>表示</u></a>要加强透明度和规范流程。国家科学技术奖励工作办公室公布了<a target="_blank" href="http://www.nosta.gov.cn/web/detail1.aspx?menuID=25&amp;contentID=1111"><u>入选名单</u></a>和<a target="_blank" href="http://www.nosta.gov.cn/web/detail1.aspx?menuID=25&amp;contentID=1112"><u>初评专家名单</u></a>。入选名单包含了前北邮校长方滨兴参与的课题《<a target="_blank" href="http://www.nosta.gov.cn/upload/2015slgb/jb_220/118-4003.html"><u>在线社交网络分析关键技术及系统</u></a>》。根据项目介绍，该项目获得了863重点课题“舆情综合态势分析技术”和信息安全专项基金的支持，经费超过5000万元，其成果在保障“十八大网络信息安全”和“香港占中事件”等国家重大专项任务中发挥了重要作用。整个项目共发表206篇论文，核心技术论文被引用了超过一千次。但相关论文没有列出。方滨兴此前还获得了2011年和2014年的科技奖。
+➜荷兰法院命令政府减少四分之一的温室气体排放
+https://www.solidot.org/story?sid=44564	32807
+在一起可能成为重要先例的标志性案件中，荷兰法院<a target="_blank" href="http://arstechnica.com/tech-policy/2015/06/netherlands-loses-landmark-global-warming-case-ordered-to-cut-emissions/"><u>命令政府</u></a>减少四分之一的温室气体排放。Urgenda基金会和900名荷兰公民在2012年向法庭<a target="_blank" href="http://www.urgenda.nl/en/climate-case/"><u>联合起诉政府</u></a>，声称全球变暖超过2摄氏度将会在全世界范围内构成对基本人权的侵犯，而荷兰政府如果不按照比例作出贡献去阻止全球暖化超过2摄氏度，它将违反了法律。根据荷兰政府的计划，到2020年它将在1990年排放量的水平上减少17%。荷兰海牙法庭裁决，这项计划是违法的，政府必须到2020年在1990年排放量的水平上减少25%。
+➜研究称太阳活动减弱或减缓变暖进程
+https://www.solidot.org/story?sid=44565	34038
+英国科学家在《Nature Communications》期刊上发表<a target="_blank" href="http://nature.com/articles/doi:10.1038/ncomms8535"><u>研究报告</u></a>称，太阳活动减弱或有助于减缓变暖进程。科学家相信未来40年，太阳有有15-20%的几率重返1645-1715年“蒙德极小期”（Maunder Minimum）水平，当时是小冰期的低谷期，伦敦整个泰晤士河都结冰了。科学家估计，太阳活动减弱将导致全球气温平均降低0.1摄氏度。而气候变化最坏的情况是，全球气温到2100年或上升6.6摄氏度，0.1摄氏度的下滑不值一提。“很不幸的是，太阳救不了我们，”报告共同作者斯凯Adam Scaife表示。<a target="_blank" href="http://cn.reuters.com/article/2015/06/25/climatechange-sun-idCNKBS0P50KC20150625"><u>报告称</u></a>，太阳活动减弱对欧美的影响相当大，因此在制定长期基础设施规划譬如城市排水设施或河流防汛设施时，应考虑到这点。
+➜法国一边批评监视，一边通过新的监视法律
+https://www.solidot.org/story?sid=44566	35495
+Wikileaks曝光了NSA对法国总统及内阁官员的监听，现任总统奥朗德(François Hollande)随后召开了紧急会议，并向美国提出了抗议，而美国总统奥巴马则承诺不会再监听盟国。但与此同时，法国国民议会却<a target="_blank" href="https://firstlook.org/theintercept/2015/06/24/france-protests-nsa-spying-passes-new-surveillance-law/"><u>通过了新的大规模监视法律</u></a>，允许法国情报机构扩大他们的监视活动。该法律的批评者嘲笑政府一边大力抗议被盟国监视，一边却赋予自己的情报机构更大的权力。
+➜iOS 9将会临时删除应用腾出升级空间
+https://www.solidot.org/story?sid=44567	38996
+iOS 9的一个新特性直到用户从beta1升级到beta2后<a target="_blank" href="http://9to5mac.com/2015/06/23/ios-9-delete-apps-free-space/"><u>才被人注意到</u></a>：如果空间不够，iOS 9会暂时删除应用腾出空间，一旦升级完成，系统会自动下载和重新安装被删除应用，你的数据将仍然会保持完整。操作系统通常是新版本比旧版本容量大，所以每次升级都需要更大的可用空间，对于空间有限的设备来说，每次升级用户需要先删除掉一些数据。苹果的新特性相当贴心，升级 iOS 9所需空间因此<a target="_blank" href="http://arstechnica.com/apple/2015/06/ios-9-can-delete-and-automatically-re-download-apps-to-make-room-for-updates/"><u>反而比 iOS 8更少</u></a>：  iOS 9只需要1.9GB，而iOS 8需要 4.6GB。
+➜Google的强大武器：Google Play Services
+https://www.solidot.org/story?sid=44568	41760
+如果你密切注意，你可能会注意到设备上的Google Play Services频繁更新。如果你紧跟 Android的技术发展，你会知道Google几年前宣布了一种引入新的API和特性但不需要固件更新的方法：Google Play Services在Android上扮演着越来越重要的角色，成为搜索巨人对抗碎片化和fork的强大武器。Google Play Services<a target="_blank" href="http://www.androidcentral.com/genius-google-play-services"><u>是祝福也是诅咒</u></a>。祝福是因为它绕过了运营商和OEM厂商，让开发者的生活更简单，能为用户提供大部分的更新。诅咒是因为它是闭源的，你不可能研究其代码。你的设备会越来越不像是你的设备。根据Google的数据，Android 5的占有率只有 12.4%，但Google Android负责人Sundar Pichai说，93%的设备安装了最新版的Play Services。中国的大部分Android设备都没有安装Play Services，应该不在Google的统计范围之内。
+➜女科学家为Tim Hunt辩护
+https://www.solidot.org/story?sid=44569	42967
+诺贝尔奖得主Tim Hunt爵士因为在一次演讲中开女性研究员的玩笑而被指歧视女性，他说实验室里的女研究人员挨批评后会哭鼻子，结果不得不为这一政治不正确的言论公开道歉，并为此辞去了在伦敦大学学院的名誉教授职位。曾在他的实验室工作过的一名女科学家在《自然》上发表评论<a target="_blank" href="http://www.nature.com/news/judge-by-actions-not-words-1.17823"><u>为Tim Hunt辩护</u></a>，她指出应该根据行为而不是其言论去判断一个人，她认为Tim Hunt是一位会激励人和帮助人的导师。因为不当的言论而导致他的职业生涯受到影响，这一结果与他犯的错误相比是不相称的。

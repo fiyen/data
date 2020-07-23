@@ -1,0 +1,103 @@
+➜用3D打印机更换生锈的旧零件
+https://www.solidot.org/story?sid=12322	60
+Jay Leno有多辆老爷车，很多部件都生锈不可用了。当他试图更换零件时，他没有采用传统的机械修理方法，而是<a href="http://www.popularmechanics.com/automotive/jay_leno_garage/4320759.html?page=1">用快速原型3D打印机</a>，扫描、打印，然后更换。
+<i>
+Jay Leno首先用<a href="https://www.nextengine.com/indexSecure.htm">NextEngine 3D扫描仪</a>创造出高细节度的数字模型，随后用<a href="http://www.dimensionprinting.com/applications/popular-mechanics.aspx">Dimension 3D打印机</a>，用塑料制造出精确的零件复制品，它可以送出去建造模具。有些3D打印机甚至能直接用钴铬合金制造可更换零件。以凸缘螺母为例，扫描和反推模型花了20分钟，塑料打印花了3小时。NextEngine扫描仪价格为2995美元，Dimension打印机售价不到15000美元，它们并不便宜，它们也并不适合大规模生产，但对于制造快速原型相当有用。</i>
+➜Chrome OS上网本最早将在今年露面
+https://www.solidot.org/story?sid=12323	1200
+Google首席执行官Eric Schmidt在最近的一个会议上称，惠普和Acer正在开发基于Chrome OS的上网本，<a href="http://www.osnews.com/story/21816/Schmidt_Chrome_OS_Netbooks_As_Early_As_this_Year">它们最早将在今年上市</a>。<i>
+通过Chrome OS，Google直接向微软和苹果发起了挑战，然而Eric Schmidt却仍然是苹果董事会的成员之一。对此，Schmidt表示他正与苹果协商，讨论是否放弃董事会席位。Schmidt拒绝发表关于与微软竞争的评论。值得注意的是，在Chrome OS中，<a href="http://code.google.com/p/nativeclient/">Native Client</a>将扮演举足轻重的角色。Native Client允许用户在浏览器上直接运行原生x86代码，这意味着Chrome OS不只是运行web应用程序。Google已明确表明Native Client未来将能处理x86-64和ARM代码。</i>
+➜依靠电源插座偷取数据
+https://www.solidot.org/story?sid=12325	1800
+安全研究员Andrea Barisani和Daniele Bianco计划在Black Hat USA黑客会议上透露<a href="http://it.slashdot.org/story/09/07/12/0259246/Stealing-Data-Via-Electrical-Outlet">偷取电脑键盘输入信息的方法</a>，他们所需要仅仅是电脑连接的电源插座。<i>
+其原理是：当你在标准的计算机键盘上输入信息，电信号通过电缆到达PC，这些电缆没有被屏蔽，因此电信号会向通过地线向外泄漏。攻击者只要将探测器和附近的电源插座连接起来，探测地线的泄漏，<a href="http://tech.yahoo.com/blogs/null/146238">然后将电信号转回到原来的字母数字字符</a>。到目前为止，在15米范围内依靠电源插座偷取数据被证明很成功。实施电源线攻击所需设备费用不到500美元，研究人员承认他们的黑客工具还很原始，他们相信用少许时间、精力和资助可以改进这些工具。研究人员指出专门的团队或<a href="http://en.wikipedia.org/wiki/TEMPEST">政府机构</a>需要更昂贵的设备和更多努力，才能完成他们依托廉价硬件、短短一周时间所达成的成果。</i>
+➜Ubuntu6.06 LTS支持结束
+https://www.solidot.org/story?sid=12326	5100
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道<i> "亲爱的ubuntu爱好者们，世界上最流行的开源操作系统<a href="http://www.ownlinux.cn/2009/07/12/ubuntu6-06lts.html">ubuntu6.06 LTS（Long Term Support）桌面版将要和我们说再见了</a>，从7月14日起，Canonical将停止对<a href="https://wiki.ubuntu.com/Artwork/Archives/6.06">ubuntu6.06 LTS</a>(Dapper Drake)的安全/关键补丁以及软件的更新。如果你想继续使用Dapper Drake并且升级，你不得不选择其他LTS发行版，比如现在仍然在维护的ubuntu8.04.3 LTS。另一方面，服务器版的 6.06 LTS (Dapper Drake)——现在是6.06.2版，将支持到2011年6月。"</i>
+➜solidot邮件乱码
+https://www.solidot.org/story?sid=12327	6120
+<a href="http://blog.zhangsen.org/">zhangsen</a> 写道 "<i>solidot发的提醒新回复的邮件，是什么编码？在gmail的web端里显示成"[Solidot] Reply to "่งๆ" by m****e"。在我的邮件客户端(evolution)里是“[Solidot] Reply to "???" by m****e“，而且邮件正文里面的汉字都显示不出来。</i>           另外，如果发错了地方，非常抱歉。我找遍了主页没看到一个类似“提交文章”的按钮，恕我眼拙。我是从“常见问题” <a href="http://ask.solidot.org/faq/">http://ask.solidot.org/faq/</a> 里面找到这个链接的。
+<br> <br>
+再另外，faq好像大部分都没有修改，还是从/.拷贝过来的。"
+➜加速Windows版Firefox 3.5的权宜之计
+https://www.solidot.org/story?sid=12328	7200
+Firefox 3.5读取Windows临时文件夹生成随机数的方法导致启动极为缓慢，这一问题已被用户作为bug递交到<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=501605">bugzilla</a>。Mozilla Links推荐的<a href="http://mozillalinks.org/wp/2009/07/workaround-for-firefox-3-5-slow-startups-on-windows/">权宜之计</a>是清理下列文件夹（XP）：<i>
+C:\Documents and Settings\*user*\Local Settings\History<br>
+C:\Documents and Settings\*user*\Local Settings\Temporary Internet Files<br>
+C:\Documents and Settings\*user*\My Recent Documents<br>
+C:\Documents and Settings\*user*\Temp\
+</i>
+Windows Vista/7系统则是：<i>
+%USERPROFILE%\AppData\Local\Microsoft\Windows\History<br>
+%USERPROFILE%\AppData\Local\Microsoft\Windows\Temporary Internet Files<br>
+%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Recent
+%TEMP%
+</i>
+同时设置Firefox在浏览之后清空临时文件夹。Mozilla Links称包含该bug修正补丁的FIrefox 3.5.1预计将在数周内发布。est's blog也提供了一些<a href="http://initiative.yo2.cn/archives/641195">优化启动速度</a>的方法，如“删除Firefox用户配置文件内的urlclassifier2.sqlite， urlclassifier3.sqlite
+3。新建2个文件夹，名字叫 urlclassifier2.sqlite，urlclassifier3.sqlite”。
+➜“奋进”号航天飞机发射再次推迟
+https://www.solidot.org/story?sid=12329	9120
+由于积云、闪电等恶劣天气因素的原因，NASA<a href="http://science.slashdot.org/story/09/07/13/028203/Endeavours-Launch-Once-More-Delayed">又一次推迟了</a>“奋进”号航天飞机的发射。<i>
+上周五，位于卡纳维拉尔角的奋进号发射台被闪电击中11次。原定于7月11日（周六）发射升空的计划，被<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8140000/newsid_8146900/8146945.stm">推迟</a>到7月12日（周日）美国东部时间19:13（格林尼治标准时间23:13）。星期六，工程人员全面检查了航天飞机的关键系统，航天飞机本身以及电路系统都没有受到破坏。根据NASA<a href="http://www.nasa.gov/mission_pages/shuttle/main/index.html">发布的最新消息</a>，佛罗里达州肯尼迪航天中心的官员已经取消了周日的发射计划，原因是恶劣的天气。奋进号的下一次发射尝试是美国东部时间周一下午18:51（标准时间22:51）。<a href="http://www.nasa.gov/multimedia/nasatv/index.html">NASA TV</a>直播报道将从下午1:30开始。</i>
+➜Windows 7Build 7600泄露(可能为RTM版)
+https://www.solidot.org/story?sid=12330	10800
+Ars Technica<a href="http://arstechnica.com/microsoft/news/2009/07/first-screenshots-of-windows-7-build-7600-leak.ars">报道</a>，Windows 7 build 7600和Windows Server 2008 R2 build 7600的屏幕截图已出现在互联网上。<i>
+引人瞩目的是两者相同的版本号，这暗示该版本<a href="http://tech.slashdot.org/story/09/07/12/2324216/Windows-7-Hits-Build-7600-Possible-RTM">可能是RTM(Release to Manufacturing)版</a>。微软预计将在本月晚些时间将RTM版提供给合作伙伴，正式版则于10月22日发布。最新泄露的版本序列号是“7600.16384.090710-1945”，暗示它可能是于2009年7月10日下午7:45编译完成的。微软只有在达成一个重要目标时才会增加版本号，而目前唯一留下的重要里程碑是RTM。</i>
+➜Chrome：让网页保存成PDF格式
+https://www.solidot.org/story?sid=12331	12900
+<a href="mailto:zhangqin04@gmail.com">erinzhang</a> 写道 "Firefox有很多插件，英文叫addon, plugin或者extension。其中有很好用的一个插件可以把网页<a href="https://addons.mozilla.org/zh-CN/firefox/addon/5971">print to PDF</a>。Chrome出来之后，比较少用firefox，现在正在挖掘各种可能的扩展中。今天突然想到或许Chrome中也有能实现print to PDF功能的方式，Google了一番，果然有。大家可以看<a href="http://www.google.com/support/forum/p/Chrome/thread?tid=1ea1c4f26190754c&amp;hl=en&amp;fid=1ea1c4f26190754c00046e8d638ac993">这个链接</a>：
+<i>
+简单翻译一下，
+1. 单击星形图标（bookmark this page）。
+2. 单击edit。
+3. 在Name后面填入一个类似“save page as PDF"的名字。
+4. 在地址栏里面输入下面的javascript，起作用的就是它啦：
+javascript:void(window.open('http://www.pdfdownload.org/web2pdf/Default.aspx?left=0&amp;right=0&amp;top=0&amp;bo ttom=0&amp;page=0&amp;cURL='+document.location.href));
+</i>
+完成上面的工作我们就可以将任何一个网页保存成PDF格式了。打开一个你想要存成PDF的网页，然后单击刚刚的那个书签（save page as PDF），这时候chrome会开一个新的tab，进入一个专门的网站，这个网站即会把刚刚我们要存的网页转换成PDF格式。下面要做的就是保存这个PDF文档，相信这步就不用我在这里罗嗦了。"
+➜猪流感重症患者多偏肥
+https://www.solidot.org/story?sid=12332	13500
+世界卫生组织（WHO）从猪流感重症患者身上发现一种令人惊讶的共通特征：<a href="http://science.slashdot.org/story/09/07/12/216240/Swine-Flu-Kills-Obese-People-Disproportionally">体重超标</a>。
+<i>
+根据苏格兰、澳洲和纽约等地的<a href="http://hk.news.yahoo.com/article/090710/3/d4ri.html">医院报告显示</a>，体重指数 （BMI）超过四十的超级肥胖猪流感患者，患上呼吸道并发症后均较难治疗，也较容易致命。以加拿大曼尼托巴省为例，每五名接受深切治疗的猪流感重症患者，便有三人过胖。苏格兰是欧洲肥胖率最高的地区，欧洲首两宗死亡病例就是来自苏格兰，而秘鲁首两名猪流感死者均为过胖人士。相反，肥胖率只有1.6%的日本，至今有逾两千多人确诊，却未有死亡或重症病例。世界卫生组织病患追踪小组召集人Nikki Shindo说，过度肥胖是猪流感重症患者的一个主要共通点。世卫正搜集各地资料，希望找到更多肥胖与猪流感重病的关连。制造疫苗的罗氏药厂亦正研究，肥胖猪流感患者是否需要更多剂量的特敏福。WHO慢性疾病部门工作的医生Tim Armstrong分析，脂肪细胞隐藏的化学物质，可令身体长期和轻微发炎，会影响免疫系统反应和令气道收窄，脂肪组织亦会压着胸口和影响胸壁，令肺功能减弱。</i>
+➜咸海东部三年内面积缩小80%
+https://www.solidot.org/story?sid=12333	19680
+ESA<a href="http://www.esa.int/esaEO/SEMGVT6CTWF_index_0.html">称</a>，卫星照片显示<a href="http://only-perception.blogspot.com/2009/07/2006-80.html">咸海东部三年内面积缩小80%</a>
+<i>
+<a href="http://zh.wikipedia.org/w/index.php?title=%E9%B9%B9%E6%B5%B7&amp;variant=zh-hans">咸海</a>在1960年曾为世界第四大湖，面积达68,000平方公里、总水量1,100立方公里。从1960年到1998年，咸海面积减少了近60%，总水量减少了80%，变成了世界第八大湖，丢失的水量相当于伊利湖和安大略湖的总和。1987年，咸海分成南、北两部份，称为南咸海和北咸海（或大咸海和小咸海）。2003年，南咸海分为东、西两边。同年，世界银行和哈萨克政府开始了一项拯救北咸海的项目，耗资2.6亿美元建造人工堤坝将南北咸海完全分离。目前北咸海的面积在扩大，蓄水深度也在增加，但更大的南咸海由于乌兹别克政府财政紧张，情况则继续恶化。从2006年7月1日到2009年7月6日拍摄的卫星照片显示，南咸海的东部面积大幅减少。ESA预测到2020年南咸海将干涸。专家认为这将是有史以来最恶劣的人为生态灾难。</i>
+➜《魔兽世界》下一个资料片可能叫Cataclysm
+https://www.solidot.org/story?sid=12334	21840
+虽然没有正式宣布，但种种迹象显示暴雪《魔兽世界》的下一个资料片<a href="http://games.slashdot.org/story/09/07/12/1631246/Is-Cataclysm-the-Next-World-of-Warcraft-Expansion">可能叫《Cataclysm》</a>。<i>
+首先是暴雪最近向美国商标和专利局(USPTO)申请<a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=77769006">注册了Cataclysm商标</a>，其次是玩家发现了一个短暂出现的名叫Maelstrom的测试用服务器。如果推测是正确的，那么暴雪很可能会在8月举行的暴雪嘉年华上宣布新的资料片。Cataclysm是“<a href="http://www.wowwiki.com/Great_Sundering">Great Sundering</a>”的另一个名称，它发生距今约一万年前，由于上层精灵无节制的使用着永恒之井的魔法能量，导致了燃烧军团的第一次入侵。上层精灵女王和大德鲁的激战导致永恒之井的爆炸，永恒之井所在的地方变成了巨大的能量漩涡，这一事件改变了艾泽拉斯大陆格局，80%的陆地被毁坏，留下了主大陆与一些分散的群岛。</i>
+➜应用程序商店每年为苹果创造1.5亿美元收入
+https://www.solidot.org/story?sid=12335	25680
+《华尔街日报》报道，分析师称iPhone的应用程序商店每年<a href="http://chinese.wsj.com/gb/20090713/hrd123141.asp?source=UpFeature">为苹果创造1.5亿美元收入</a>。虽然这与苹果的硬件销售收入相比并不突出，截至3月份的6个月硬件销售收入为28亿美元，但应用程序带来的价值是无形的。苹果只需承担运营App Store的成本，创造应用软件的成本由外面的开发商承担。<i>
+iPhone的应用软件逾5万种，而黑莓应用软件仅为2,000种。另一方面，苹果不仅能从软件收入中分成，控制应用软件在iPhone上使用，同时还能节省研发费用。苹果2008财年收入的3.4%投入研发，相比之下RIM是6.2%，微软、谷歌、摩托罗拉和Palm为12%-15%。</i>
+➜退休的大型机管理员被引诱重返工作岗位
+https://www.solidot.org/story?sid=12336	28440
+为了降低成本，企业管理人员将经验丰富的大型机管理员裁掉或迫使他们提早退休，他们本以为能很容易找到便宜的替代，结果却发现大型机无可代替，最终不得不以高薪和提供更好工作条件引诱<a href="http://it.slashdot.org/story/09/07/10/200204/Retired-Mainframe-Pros-Lured-Back-Into-Workforce">退休的大型机管理员重返工作岗位</a>。<i>
+CA公司的大型机业务执行副总裁Chris O'Malley称，企业预计大型机不久就会退出市场，被其它廉价平台替代，保留大型机管理员便显得多余。然而他们没有预想到的的是，大型机虽然昂贵，但如果将大型机上的软件迁移到更廉价的平台，那么间接的费用远远超过了新平台节省的开支。精于计算的人显然会看出其中的利弊。根据求职搜索引擎<a href="http://www.simplyhired.com.au/">Simply Hired</a>的统计，虽然经济衰退，但大型机相关的工作自2007年11月以来增加了15%。</i>
+➜印度官员称夜间电视节目有助于减少出生率
+https://www.solidot.org/story?sid=12337	30300
+《泰晤士报》<a href="http://www.timesonline.co.uk/tol/news/world/asia/article6695338.ece">报道</a>，印度健康与家庭福利部长Ghulam Nabi Azad呼吁政府加倍努力，确保大部分农村地区通电。他认为，<a href="http://news.163.com/09/0713/14/5E40M1080001121M.html">广大农村地区普及电灯和电视机对控制人口增长率十分重要</a>。<i>
+他表示：“如果每个村庄都可用到电，那么人们就可以看电视看到深夜，然后便会倒头大睡。他们将不会拥有生产婴儿的机会。但是如果没有电的话，人们除了生产婴儿以外再无事可做。请不要认为我是在说笑。我是很认真的。电视将对人们产生巨大影响，而这也是减缓人口增长的一个重要媒介。”此外，他还呼吁印度国内电视台应提供高质量的服务，以便观众可以在夜间收看到吸引人的电视节目频道。目前印度人口超过11.7亿，如果保持这种增长速度不变，到2030年，印度人口将达到14.8亿，超过中国的14.6亿，成为世界上人口最多的国家。</i>
+➜中国卫生事业面临挑战
+https://www.solidot.org/story?sid=12338	31800
+人大常委会副委员长、九三学社中央主席<a href="http://zh.wikipedia.org/w/index.php?title=%E9%9F%A9%E5%90%AF%E5%BE%B7&amp;variant=zh-hans">韩启德</a>院士在7月12日召开的世界卫生经济大会上坦诚了<a href="http://www.caijing.com.cn/2009-07-13/110196639.html">中国卫生事业现状和困难</a>。<i>
+他指出：传染病尚未得到完全控制，慢性病已严重威胁国民健康，因慢性病死亡的人数已占全国因病死亡人数的80%以上；工业化、城市化、生活方式的改变带来了环境污染、生活压力大、吸烟、肥胖等新挑战；经济发展不平衡导致了健康不公平，如农村婴儿死亡率、5岁以下儿童死亡率和孕产妇死亡率分别比城市高142%、142%和64%；经济尚不发达背景下出现快速老龄化....韩启德认为居民健康改善应该纳入政府官员的政绩考核中。韩启德称医疗服务体系的价格、补偿、分配、监督等机制存在很多不合理之处，如20年前的一个化疗疗程仅需100元，今天则需1.5万元，而同时疗效却却非常有限。</i>
+➜布莱切利园解密专家终得政府承认
+https://www.solidot.org/story?sid=12339	34320
+<a href="http://zh.wikipedia.org/w/index.php?title=%E5%B8%83%E8%90%8A%E5%88%87%E5%88%A9%E5%9C%92&amp;variant=zh-hans">布莱切利园</a>，又称X电台，是二次大战期间英国政府进行密码破译的主要地方。在解密行动的高峰期，曾有多达9,000人在布莱切利园工作。这些解密专家包括了国际象棋冠军、填字游戏专家、精通数国语言的人或数学界权威。二战结束后，布莱切利园内大部份器材与蓝图都被销毁。鉴于政府机密法的要求，所有布莱切利园成员被禁止讨论他们解密工作的地点。直到1970年代，布莱切利园的作用才被公开，现在它已成为一所面向公众开放的博物馆。<i>
+如今，70年过去了，依然健在的解密成员<a href="http://news.slashdot.org/story/09/07/10/2318252/Bletchley-Park-WWII-Staff-Finally-Recognized">终于得到了英国政府的公开褒奖</a>，作为政府承认他们工作重要性的一部分，每一位军事和文职工作人员将收到一个特别的纪念徽章。布莱切利园的著名人士包括了<a href="http://en.wikipedia.org/wiki/Tommy_Flowers">Tommy Flowers</a>，他设计出了世界第一台可编程计算机巨像（<a href="http://www.codesandciphers.org.uk/lorenz/colossus.htm">Colossus</a>）；著名的计算机科学奠基人、数学家、哲学家和同性恋<a href="http://zh.wikipedia.org/w/index.php?title=%E8%89%BE%E5%80%AB%C2%B7%E5%9C%96%E9%9D%88&amp;variant=zh-hans">艾伦·图灵</a>（<a href="http://www.turing.org.uk/turing/">Alan Mathison Turing</a>），他设计了<a href="http://en.wikipedia.org/wiki/Bombe">Bombe</a>密码分析机器。</i>
+➜研究凸显公众和科学家之间的隔阂
+https://www.solidot.org/story?sid=12340	38160
+皮尤研究中心调查了<a href="http://science.slashdot.org/story/09/07/11/1155220/Study-Highlights-Gap-Between-Views-of-Scientists-and-the-Public">美国公众眼里的科学</a>，并与真正科学家的观点进行比较。<i>
+研究显示，10个科学家中大约有9个接受自然选择的进化思想，但公众中<a href="http://people-press.org/report/?pageid=1550">只有三分之一接受</a>。84%的科学家相信，由于人类活动，地球正在变暖；只有不到一半的公众同意该观点。27%的受访者认为美国在科学领域的进步是它最大的成就，比10年前的44%相比下降了很多；相比较下科学家对美国科学的看法要乐观得多，76%的科学家相信现在是科学的黄金时期，94%的科学家认为美国科学成就领先于世界，同时56%的科学家认为签证和移民问题对外国科学家和学生的学习研究构成了严重阻碍。另外调查还透露，科学家谴责<a href="http://people-press.org/report/?pageid=1547">媒体留给科学的报道太少</a>，研究资金对研究结果<a href="http://people-press.org/report/?pageid=1548">施加了过多的影响</a>。32%的科学家自称是无党派，<a href="http://people-press.org/report/?pageid=1549">55%表示他们是民主党</a>，只有6%的人是共和党。</i>
+➜Google CEO用黑莓
+https://www.solidot.org/story?sid=12341	42600
+Google开发了手机操作系统Android，一般人或许会认为Google的员工尤其是老板应该用基于Android的手机。<i>
+最近Google CEO Eric Schmidt在Allen &amp; Come媒体峰会上用手机时被人偷拍了一张照片，<a href="http://www.businessinsider.com/billionaires-millionaires-and-hangers-on-swarm-sun-valley-2009-7#billionaires-millionaires-and-hangers-on-swarm-sun-valley-2">照片显示他用的是黑莓手机</a>。于是有人便怀疑他是否对自家的产品没信心。但问题是Google CEO怎么可能只有一款手机呢？用其它公司的产品并不稀奇，他也可借此评估其它产品的长处。</i>
+➜使用Dropbox同步你的便笺
+https://www.solidot.org/story?sid=12342	44700
+<a href="http://szlug.org/">权相龙</a> 写道 "<a href="http://www.starryhope.com/linux/2009/synchronize-tomboy-notes-with-dropbox/">用Dropbox同步你的便笺</a>：<i>
+安装Dropbox，然后在/home/username/Dropbox建立文件夹tomboy。打开便笺首选项，设置同步&gt;服务为本地文件夹，文件夹路径设为/home/username/Dropbox/tomboy；打开便笺工具，执行同步便笺，这样你的便笺就保存到你的Dropbox里了；在你其他电脑上重复相同的步骤，既实现便笺的同步，有趣 :-)"</i>

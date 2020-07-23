@@ -1,0 +1,40 @@
+➜腾讯WebQQ年底停用
+https://www.solidot.org/story?sid=41310	3639
+<div align="center"><img src="http://img.solidot.com.cn/0/661/li8HWgC0moJW.jpg" align="" height="276" width="480"><br>
+<br>
+</div>
+<a href="http://scinart.github.io">scinart</a> 写道<i> "腾讯WebQQ的官网<a href="http://web2.qq.com/" target="_blank"><u>web.qq.com</u></a>发布公告，宣布将在年底关闭。webqq一旦停用，那么基于webqq协议的库(如<a href="https://github.com/xiehuc/lwqq" target="_blank">lwqq</a>)和软件(如<a href="https://github.com/xiehuc/pidgin-lwqq" target="_blank">pidgin-lwqq</a>)很可能也随之不能用。这意味着Linux用户再也无法在电脑上使用任何形式的QQ服务。webqq网站已经很长时间没有维护，目前页面源代码中依然有2013年9月份左右加入的"前端特工"的广告。</i>
+➜Firefox可能在考虑整合Tor
+https://www.solidot.org/story?sid=41311	11577
+Tor匿名网络也许会在不久的未来增加数以亿计的新用户。Tor执行董事Andrew Lewman<a target="_blank" href="http://www.dailydot.com/politics/tor-mozilla-firefox/"><u>透露</u></a>，多家大型科技公司正与Tor协商将Tor整合到他们的产品中，其中一家公司是浏览器开发商，这家公司考虑将Tor用于隐私浏览模式，允许用户连上Tor网络，类似基于Firefox的Tor Browser。Lewman称，这家公司的浏览器占据了全球10%到20%的市场份额。虽然他拒绝透露公司的名字，但显然满足条件的浏览器只有Mozilla的Firefox。根据Net Market Share的<a target="_blank" href="http://www.solidot.org/story?sid=40960"><u>数据</u></a>，Firefox是目前第三流行的浏览器，占有率15.23%。
+➜iPhone 6于10月17日上市
+https://www.solidot.org/story?sid=41312	23413
+在工信部<a target="_blank" href="http://www.miit.gov.cn/n11293472/n11293832/n11293907/n11368223/16152690.html"><u>发放</u></a>iPhone6手机进网许可之后，苹果<a target="_blank" href="http://www.bloomberg.com/news/2014-09-30/apple-gets-china-approval-to-start-iphone-6-sales.html"><u>宣布</u></a>iPhone 6和 iPhone 6 Plus将于10月17日在中国上市。工信部解释了直到现在才批准iPhone6进网的原因：委托安全检测机构的检测发现iOS三个后台服务程序存在被利用的可能性，苹果回应称这三个后台服务程序为诊断工具，“不允许苹果公司在没有用户同意的前提下介入任何信息，已经在iOS8中采取了措施，允许用户清除已授信电脑的名单列表，从而使恶意使用诊断工具变得更加困难”，“进一步提升用户的安全性和隐私保护”，承诺“从未与任何国家的任何政府机构就任何产品或服务建立过所谓的‘后门’”，并且“永远不会”。分析人士说，苹果正面临来自政府日益增大的审查压力。苹果称，16GB版的 iPhone 6售价5288元（860美元），16GB版的 iPhone 6 Plus售价6088元。
+➜网状网，无法控制的未来
+https://www.solidot.org/story?sid=41313	24145
+<a href="/~mtjs">mtjs</a> 写道<i> "正在进行中的香港中环抗议行动造成了全球影响，昨日台湾和伦敦特拉法家广场都举行了声援活动，作为现代群众运动的一个特点，网状网(Mesh Networks)的使用日益普遍，我记得几年前的阿拉伯之春进入埃及后开罗自由广场上的人们就使用了该技术。作为手机联系，目前在网状网应用中最主要的是 FireChat （Open Garden）,MN是一种非常具有弹性的联接形式，<a href="http://www.npr.org/blogs/alltechconsidered/2014/09/29/352476454/how-hong-kong-protesters-are-connecting-without-cell-or-wi-fi-networks" target="_blank">任何组织都无法关闭和控制</a>，除非关掉所有的手机信号接入点，它就像干燥原野上的一点火星，只要一处有就会迅速蔓延，不过由于其使用蓝牙连接，距离是个问题，必须人群十分密集才能流畅工作，据<a href="http://www.technologyreview.com/news/530996/future-smartphones-wont-need-cell-towers-to-connect/" target="_blank">MIT技术评论29日文章</a>，新一代的超远程无线网状连接特性已经加入到了LTE（Long-Term Evolution）通讯协议中，它允许手机用户直接互相通讯无需经过基站转达，手机直连半径为500米，远超WIFI和蓝牙的工作范围，能够实现这一功能的设备最早将在2015年出现，这种技术的特点必将让它彻底融入人类生活之中，而作为信标的商业运用前景也无可限量，届时个人数据通讯终端会成为其主人的雷达和“第六感”，让你更舒适的参与到生活和工作活动之中。"</i>
+➜CloudFlare宣布向所有客户提供免费的SSL支持
+https://www.solidot.org/story?sid=41314	27655
+提供CDN、防DDos攻击等云计算服务的CloudFlare<a target="_blank" href="https://blog.cloudflare.com/introducing-universal-ssl/"><u>宣布</u></a>向包括免费用户在内的所有客户提供免费SSL支持。CloudFlare将为大约200万不受保护的网站加入SSL支持，以前SSL支持只提供给每月至少支付20美元的客户。浏览器先连接到CloudFlare的服务器接收CloudFlare提供的证书，然后CloudFlare连接目标网站服务器获取内容，它充当了某种反向代理的功能。这项被称为Universal SSL的服务对免费用户有限制，CloudFlare只支持扩展支持Server Name Indication(SNI)协议的现代浏览器，这意味着它不支持IE6及之前版本、运行Android 2.2或更旧版本的Android浏览器。
+➜为什么要害怕Google？
+https://www.solidot.org/story?sid=41315	28206
+《金融时报》的一篇评论认为，欧盟委员会对Google的反垄断调查，将检验其是否有能力扭转自身权力受到无形侵犯的情况。让欧盟委员会不满的核心问题是Google的“延伸搜索”功能，它让我们省去几次点击，减少几个中间人。搜索“天气”时，Google现在将直接显示天气预报，而不是引导我们去别的网站。Google表示，这么做是有益的。但这家搜索引擎公司还想要进一步掌握我们的习惯、日程和社交圈，预知我们的需求。执行主席Eric Schmidt曾将其称为“巧遇引擎，声称这就是搜索的未来。Google把广告与“巧遇引擎”先知先觉的种种可能结合起来，<a target="_blank" href="http://www.ftchinese.com/story/001058435"><u>就可能把公民变成机器人</u></a>——他们将一方面沉浸在自由意志的幻觉中，另一方面却生活在一个由选项、推送和建议组成的世界里，而这些选项、推送和建议是由仅为盈利目的而优化的自主算法生成的。迄今为止，仅在中国和俄罗斯出现了类似Google的公司——动因是担心来自外国的间谍活动——尽管其业务模式几乎毫不尊重个人隐私。
+➜Yahoo在中国大陆疑似遭到SSL中间人攻击
+https://www.solidot.org/story?sid=41316	44838
+<a href="mailto:oshirisu.red@gmail.com">陈少举</a> 写道 "去年一月份，<a href="http://www.solidot.org/story?sid=33284">GitHub遭受到的国家级的SSL中间人攻击</a>，在今年八月份，<a href="http://www.solidot.org/story?sid=40970">教育网的</a><a href="http://www.solidot.org/story?sid=40970">Google IPv6访问也遭受到了同样的SSL中间人攻击</a>。而在今天，Yahoo也遭受到了SSL中间人攻击。<i>今天(2014-09-30)下午四点左右，<a href="https://twitter.com/GreatFireChina/status/516872770270269440">GreatFireChina观察到Yahoo在中国大陆遭受到了SSL中间人攻击</a>，浏览器发出了证书错误的警告。
+<p></p>
+</i>
+<p><i>可能由于流量过大导致SSL劫持设备资源消耗过于厉害，<a href="https://twitter.com/chenshaoju/status/516894765334282240">一些地区间歇性无法通过HTTPS访问Yahoo</a>。在使用其他地区的VPS进行访问后，<a href="http://www.mediafire.com/download/p4zlqczkla58xnl/fakeyahoocert.zip">通过分析伪造的SSL证书</a>，与之前Google IPv6所遭受的SSL攻击所使用的<a href="http://www.mediafire.com/download/x7pj4wjuexm1r4i/fakegooglecert.zip">证书</a>有<a href="https://twitter.com/chenshaoju/status/516901028365492224/photo/1">多处相似</a>：使用相同的签名算法和签名哈希算法、颁发者均以 C=cn 结尾，有效期均为一年，公钥均为RSA 1024 Bits，并且 Netscape Comment 同为“example comment extension”。</i></p>
+<p><i>而根据<a href="https://www.cloudshark.org/captures/67cd701719d0">抓包结果</a>，在遭受SSL中间人攻击时，使用的是TLSv1协议，但是<a href="http://ww1.sinaimg.cn/large/61e316efgw1ekur4hjp69j20aw0axjsd.jpg">未被SSL中间人攻击的情况下</a>，应为TLSv1.2，这一点也和Google在教育网的IPv6地址遭受SSL中间人攻击的现象<a href="http://www.solidot.org/story?sid=40970">一致</a>。</i></p>
+<i>
+</i>
+<p><i>截至到目前，此次SSL中间人攻击仅影响<a href="https://twitter.com/GreatFireChina/status/516888537049088000">各个国家的Yahoo主站</a>，<a href="https://twitter.com/GreatFireChina/status/516895073863475200">并未影响到</a>包括登录（login.yahoo.com）、邮箱（mail.yahoo.com）等网址。"</i></p>
+➜芝加哥大学暂停孔子学院续约谈判
+https://www.solidot.org/story?sid=41317	51534
+《纽约时报》<a target="_blank" href="http://cn.nytimes.com/china/20140929/c29confucius/"><u>报道</u></a>，芝加哥大学暂停了与中国汉办续签备受争议的孔子学院协议的谈判。美国和欧洲有越来越多的学者认为，全球各地的孔子学院紧密反映了中共的意识形态，他们对此表示关注，称在重视学术自由的大学里，孔子学院不能在核心教育中占有一席之地。汉办表示，在过去十年中，它已在123个国家和地区建立了465所孔子学院和713所孔子课堂——这样的大规模运作，已经引起了一些人对其意图的怀疑。
+➜微信屏蔽香港用户发送的图片和信息
+https://www.solidot.org/story?sid=41318	53779
+<a href="http://https://edgecastcdn.net/00107ED/paopao/">paopao</a> 写道 <i>"<span style="color: rgb(85, 85, 85); font-family: Arial, Tahoma, Helvetica, 'Microsoft Yahei', 微软雅黑, STXihei, 华文细黑, sans-serif; font-size: 14px; line-height: 22.3999996185303px; background-color: rgb(255, 255, 255);">自从9月28日戴耀廷等人宣布“占中启动”的几乎同时，中国大陆开始明显<a href="https://edgecastcdn.net/00107ED/paopao/?u=/article/192" target="_blank">加强了力度屏蔽来自香港的讯息</a>。</span><span style="border: 0px none; font-family: Arial,Tahoma,Helvetica,&quot;Microsoft Yahei&quot;,微软雅黑,STXihei,华文细黑,sans-serif; font-size: 14px; margin: 0px; outline: 0px none; padding: 0px; vertical-align: baseline; color: rgb(85, 85, 85); line-height: 22.4px; background-color: rgb(255, 255, 255);">以微信为例，身处香港的用户发现已无法发送占中现场图片和讯息在微信朋友圈──本人账号可见，互相关注的朋友们却看不见</span><span style="color: rgb(85, 85, 85); font-family: Arial, Tahoma, Helvetica, 'Microsoft Yahei', 微软雅黑, STXihei, 华文细黑, sans-serif; font-size: 14px; line-height: 22.3999996185303px; background-color: rgb(255, 255, 255);">。</span>"</i>
+➜Google将要求合作伙伴在设备上预装多达20款应用
+https://www.solidot.org/story?sid=41319	54328
+Google对Android合作伙伴如三星和华为<a target="_blank" href="http://tech.slashdot.org/story/14/09/29/1827207/google-to-require-as-many-as-20-of-its-apps-preinstalled-on-android-devices"><u>提出了新的要求</u></a>。The Information浏览的机密文件<a target="_blank" href="https://www.theinformation.com/Google-s-Confidential-Android-Contracts-Show-Rising-Requirements"><u>显示</u></a>（付费墙），Google要求合作伙伴将Android设备上预装多达20款Google应用，在主屏上放置更多的Google应用图标，突出Google搜索。这些Google应用大部分推测<a target="_blank" href="http://www.solidot.org/story?sid=38297"><u>应该属于</u></a>闭源的Google Mobile Services (GMS)应用，为了减少Android的碎片化，Google正将越来越多的核心功能迁移到GMS，Android厂商使用GMS需要遵守一定的条件。

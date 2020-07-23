@@ -1,0 +1,9 @@
+➜Chrome隐藏 SSL 证书信息，禁止禁用DRM
+https://www.solidot.org/story?sid=51212	50534
+Google Chrome浏览器最近做出了多项并不招人喜欢的改变：1）<a href="https://tech.slashdot.org/story/17/01/29/1820232/heres-where-google-hid-chromes-ssl-certificate-information" target="_blank"><u>隐藏 SSL 证书信息</u></a>，用户无法从地址栏的HTTPS连接状态获取到相关的证书信息，而在这之前，用户点击HTTPS连接的绿色锁图标就能查看证书细节，如发行机构、验证者和过期日期。但突然之间，证书细节信息就消失了。完整的证书细节迁移到了开发者工具的安全标签下。2）<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=686430" target="_blank"><u>禁止禁用DRM</u></a>，用户现在无法禁用Widevine/EME DRM插件。
+➜四星级酒店遭勒索软件攻击
+https://www.solidot.org/story?sid=51213	53765
+勒索软件攻击了学校、攻击了医院，如今也攻击了酒店。奥地利阿尔卑斯山的一家四星级酒店本月早些时候<a href="https://www.bleepingcomputer.com/news/security/ransomware-infects-electronic-door-locking-system-at-austrian-hotel/" target="_blank"><u>遭勒索软件攻击</u></a>。媒体最初报道称，勒索软件影响了电子锁系统、预订系统和付款系统，导致部分酒店顾客被锁在外面或锁在里面。酒店最终向勒索者缴纳了2BTC约1600美元的赎金，但酒店的总经理随后澄清，电子锁系统能在停电的情况下正常使用，此次黑客攻击没有影响到任何顾客，事实上他们可能没有一个人注意到这次事故。勒索软件攻击只是影响了酒店签发新的钥匙卡，因为计算机被加密了。
+➜猫为何不是群居动物
+https://www.solidot.org/story?sid=51214	55457
+猫被广泛认为不是群居动物，养猫的人都深有体会，猫不愿意配合。为什么绝大多数动物都愿意群居，食肉动物也常常一起捕猎，连家猫的近亲狮子也是群居动物，<a href="http://www.bbc.com/ukchina/simp/vert-earth-38757738" target="_blank"><u>为什么猫是例外</u></a>？群居虽然有好处，但也有缺点——分享食物。猫科动物的食量很大。以豹为例，一只豹每隔几天就要吃掉23公斤的肉。通常，野生猫科动物之间对食物的竞争非常激烈，所以豹独自生活，独自捕猎。狮子群居的习惯是一种地盘交易，大草原中有一些地方是伏击猎物的绝佳位置，所以控制这些有利位置能够带来很大的生存优势。猫的处境就不一样了，因为它们捕猎小动物。食物会吃完，不足以分享。这种经济学思维潜藏在猫的行为中。甚至畜养的过程也未能改变这种独居的基本倾向。另外一个证据就是人类并没有驯化猫，实际上是猫驯化了它们自己。

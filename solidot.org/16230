@@ -1,0 +1,48 @@
+➜计算机程序“通过”图灵测试
+https://www.solidot.org/story?sid=39851	11114
+Eugene Goostman成为第一个<a target="_blank" href="http://www.independent.co.uk/life-style/gadgets-and-tech/computer-becomes-first-to-pass-turing-test-in-artificial-intelligence-milestone-but-academics-warn-of-dangerous-future-9508370.html"><u>通过图灵测试的程序</u></a>。在伦敦皇家学会举行的测试中，它成功欺骗三分之一的裁判相信它是一名13岁的乌克兰男孩。图灵测试是计算机科学先驱艾伦·图灵提出的判断机器是否能够思考的试验。图灵曾预言到2000年计算机程序能在5分钟的文字交流中欺骗30%的人类裁判。Eugene Goostman由一组俄罗斯研究人员开发， Reading大学的访问教授Kevin Warwick指出，如果计算机程序能欺骗我们相信它是人类或某个我们信任的人，认为这将敲响网络犯罪的警钟。
+➜Linux 3.15 kernel发布
+https://www.solidot.org/story?sid=39852	13539
+Linus Torvalds在邮件列表上<a target="_blank" href="https://lkml.org/lkml/2014/6/8/70"><u>宣布发布</u></a>Linux 3.15。主要<a target="_blank" href="http://kernelnewbies.org/Linux_3.15"><u>新特性</u></a>包括：<a target="_blank" href="http://lwn.net/Articles/495543/"><u>显著改进内存管理</u></a>； <a target="_blank" href="http://lwn.net/Articles/569134/"><u>renameat2()系统调用</u></a>防止一个重命名操作替换现有文件；文件私有<a target="_blank" href="http://lwn.net/Articles/586904/"><u>POSIX锁</u></a>；新的设备映射对象dm-era；从睡眠中快速恢复；支持大量新的硬件；等等。Torvalds称，Linux 3.16的合并窗口提前开始，运作良好，但不打算将这作为一种常规做法，除非有非常特殊的理由他不会每次都这么做。
+➜墨西哥运营商不准在广告中使用iPhone名字
+https://www.solidot.org/story?sid=39853	14615
+如何在不提及名字的情况下宣传一款智能手机？这是苹果墨西电信运营商合作伙伴面临的难题。墨西哥工业产权研究院上周就苹果和墨西哥通讯方案供应商iFone之间的商标权争议<a target="_blank" href="http://www.ibtimes.com/mexican-carriers-barred-using-apple-iphone-name-advertising-marketing-materials-1595443"><u>作出裁决</u></a>，苹果不存在非法行为，因为它出售的是智能手机而不是电信服务，但苹果在墨西哥的电信合作伙伴提供电信服务，所以法官裁决电信运营商必须在15天内从营销材料中删除所有提及iPhone的词。iFone在2003年申请了iPhone商标，远早于苹果。
+➜沃达丰称政府监听其用户的电话内容
+https://www.solidot.org/story?sid=39854	16110
+沃达丰上周在官网上发布了<a target="_blank" href="http://www.vodafone.com/content/sustainabilityreport/2014/index/operating_responsibly/privacy_and_security/law_enforcement.html"><u>执法信息披露报告</u></a>，称多个国家的政府机构通过秘密线路监听了该公司用户在其全球网络中的电话交谈内容。沃达丰在29个国家中经营通讯服务，<a target="_blank" href="http://en.wikipedia.org/wiki/Vodafone#Operations"><u>这些国家</u></a>包括英国、法国、德国、希腊、土耳其等。在监听活动中，政府将线路直接连到沃达丰的网络中，对电话交谈内容进行实时监听和记录。在一些情况中，政府甚至可以不需要提交监听请求。沃达丰称，在阿尔巴尼亚、埃及、匈牙利、印度、马尔他、卡塔尔、罗马尼亚、南非以及土耳其，公布有关监听或窃听电话交谈与短信内容的相关信息是非法的。由于担心受到当地政府制裁和报复，<a target="_blank" href="http://cn.wsj.com/gb/20140606/tec174528.asp"><u>它没有透露国家名字</u></a>。
+➜Cloudflare推出伪IPv4服务
+https://www.solidot.org/story?sid=39855	18722
+IPv4空间告急，但IPv6的普及度还是不到5%，ISP和网站没有动力升级的一个原因是它们常用的软件只能处理IPv4，这些处理重要任务的软件假设互联网仍然是一个IPv4的世界，升级到IPv6需要重写软件。为了解决这个问题，云服务供应商Cloudflare推出了<a target="_blank" href="http://blog.cloudflare.com/eliminating-the-last-reasons-to-not-enable-ipv6"><u>伪IPv4服务</u></a>，也就是将IPv6地址伪装成IPv4地址——IPv6连接使用伪IPv4地址发出请求。Cloudflare将保留用于测试的IPv4 E类地址(240.0.0.0 - 255.255.255.255)用于伪IPv4服务，268,435,456个地址应该足够使用了。
+➜奔驰新车能在转弯时倾斜车身
+https://www.solidot.org/story?sid=39856	26201
+摩托车在转弯时会倾斜车身，有时候车手的膝盖甚至会贴到地面。现在，奔驰在其2015年款S级Coupe汽车上<a target="_blank" href="http://www.motorauthority.com/news/1092532_mercedes-details-2015-s-class-coupes-curve-tilting-function"><u>复制了这一感觉</u></a>。这项技术被称为动态曲线（Dynamic Curve） ，是主动车身控制悬挂系统的一部分。在转弯时，特定的柱塞缸会根据弯道的方向提升悬挂支撑杆，降低反方向的支撑杆，使得车身向弯道内侧轻微倾斜。奔驰称，这项技术不是为了增加转弯速度，而是为了增加司机和乘客的愉悦度：转弯过程中的侧向力部分被转变为了垂直力，乘坐者不会随汽车的转弯而倾斜。
+➜用病毒治疗细菌感染的疗法获得新生
+https://www.solidot.org/story?sid=39857	28126
+在冷战时代，西方的抗生素穿不过高树的铁幕，苏联的医生只能想方设法利用病毒（噬菌体）杀死导致感染的细菌。而在抵抗抗生素的超级细菌困扰医生的今天，<a target="_blank" href="http://www.nature.com/news/phage-therapy-gets-revitalized-1.15348"><u>噬菌体疗法获得了新生</u></a>，西方政府和研究人员开始认真看待噬菌体。俄罗斯、格鲁吉亚和波兰等国仍然广泛使用噬菌体疗法，但它从未在其它地方流行起来。Mzia Kutateladze指出，噬菌体是病毒，而人类害怕病毒。德州农工大学的病毒学家Ryland Young称，西方以前对噬菌体缺乏兴趣是因为医生偏好用广谱抗生素治疗未知的感染，广谱抗生素会杀死许多种细菌。相比之下，噬菌体只杀死一种细菌或菌株。现在，研究人员已经认识到，他们需要更精确的方式针对病原菌。南加州医科大学的 Michael Schmidt说，抗生素是一个大铁锤，而你需要的定向导弹。
+➜吴敬琏称目前的大气防治是“末端治理”
+https://www.solidot.org/story?sid=39858	30286
+著名经济学家吴敬琏6月8日指出，迄今为止，中国各地提出的大气污染防治措施，比如采取提高燃油质量、提高汽车排放标准等技术手段，在经济学上称为<a target="_blank" href="http://www.nanzao.com/sc/china/29078/wu-jing-lian-nei-di-da-qi-fang-zhi-shi-mo-duan-zhi-li-mei-gen-zhi-yuan-tou"><u>“末端治理”</u></a>，因为没有消除污染物排放的源头，所以事倍功半。吴敬琏认为，污染物排放过量的源头在于靠投资驱动实现GDP高速增长的粗放经济增长模式，它造成了产业结构、能源结构、城市结构扭曲，最终导致污染物的过量排放。 “只有实现经济发展方式转型，才能消除污染物过量排放的源头。”在谈到更加深层的原因时，吴敬琏表示，政府对于微观经济干预过多，监管不力；政府越位干预，鼓励了高污染产业和超大城市的过度发展；政府缺位，意味着纠正负外部性的作用缺失。吴认为，必须实现政府职能转变，让政府从微观经营活动中退出，专注于加强和优化公共服务，弥补市场失灵，推动可持续发展和环境保护。
+➜智能电视容易受到“红色按钮攻击”
+https://www.solidot.org/story?sid=39859	31511
+哥伦比亚大学网络安全实验室的研究人员在智能电视标准HbbTV发现了漏洞，可能会有数百万台兼容HbbTV的智能电视受到影响。<a target="_blank" href="http://iss.oy.ne.ro/Aether"><u>研究报告</u></a>将在今年8月举行的USENIX安全会议上公开。这一漏洞被称为<a target="_blank" href="http://www.forbes.com/sites/bruceupbin/2014/06/06/red-button-flaw-exposes-major-vulnerability-in-millions-of-smart-tvs/"><u>“红色按钮攻击”</u></a>，原因是遥控器上的红色按钮被用于控制电视的交互式内容。研究人员去年12月将他们的发现报告给了HbbTV标准组织，但被告知此类的攻击没有严重到需要去修改标准，认为攻击者需要花费的成本过高。但研究人员对此有不同看法，指出攻击者利用250美元的无线电放大器就可以控制1.4平方公里内的智能电视。
+➜克鲁格曼的让中国减排建议
+https://www.solidot.org/story?sid=39860	34604
+诺贝尔经济学奖得主保罗·克鲁格曼在其《纽约时报》专栏上<a target="_blank" href="http://www.nytimes.com/2014/06/06/opinion/krugman-the-climate-domino.html?_r=0"><u>发表文章</u></a>指出，如果没有中国的合作，美国的<a target="_blank" href="http://cn.nytimes.com/usa/20140603/c03climate/"><u>大规模碳减排计划</u></a>意义不大：因为美国的二氧化碳排放只占全球总排放量的17%，而中国占27%，并且还在快速增长。如何让中国有动力减排呢？利他主义？克鲁格曼指出，中国经济很大程度依赖于发达市场，中国燃烧的大量煤炭是直接或间接服务于出口业务。中国也知道拒绝减排会面临风险。如果富国采取行动限制温室气体排放，它们很可能会开征“碳关税”——在现有贸易法则下碳关税会是合法的。中国会发现有很强烈的理由去限制排放。
+➜中国Twitter用户因发布伪基站文章被拘留
+https://www.solidot.org/story?sid=39861	35409
+官方媒体在一篇<a target="_blank" href="http://www.chinanews.com/fz/2014/06-09/6260228.shtml"><u>报道</u></a>中称，一名22岁女子（<a target="_blank" href="https://twitter.com/RFITB"><u>@RFITB</u></a>）因为在Twitter上传授利用伪基站传播发送非法信息的文章而被刑事拘留。报道没有定义“非法信息”，只透露是北京网安总队发现有人传播非法信息。报道称，这位女子表示为了增加粉丝量，<a target="_blank" href="https://twitter.com/RFITB/status/470205154130554880"><u> 撰写了</u></a>向网民传授到重点繁华地区利用伪基站技术传播发送相关违法犯罪信息的文档。所谓“违法犯罪信息”也没有任何进一步说明。
+➜64位Chrome for Windows接近发布
+https://www.solidot.org/story?sid=39862	37962
+Google官方博客<a target="_blank" href="http://blog.chromium.org/2014/06/try-out-new-64-bit-windows-canary-and.html"><u>表示</u></a>，64位Chrome for Windows已经进入<a target="_blank" href="https://www.google.com/intl/en/chrome/browser/canary.html"><u> Canary</u></a>和 <a target="_blank" href="https://www.google.com/chrome/browser/index.html?extra=devchannel"><u>Dev Channel</u></a>，接近正式发布。Google称，对64位Windows 8和Windows 8用户而言，64位Chrome将会更快更安全。它进一步解释说：可以利用最新的处理器和编译器优化，更现代的指令集，称64位浏览器的速度提升了25%；利用最新的操作系统安全功能如High Entropy ASLR；64位比32位更稳定，渲染进程崩溃率减少了一半。64位Linux版Chrome早在2009年就发布了。
+➜美国科技公司开发加密技术抵挡政府间谍
+https://www.solidot.org/story?sid=39863	39373
+美国科技公司如Google、雅虎和微软<a target="_blank" href="http://cn.nytimes.com/technology/20140609/c09surveil/"><u>正展开加密军备竞赛</u></a>，以挫败华盛顿、以及北京和莫斯科的监视努力，保住在巴西、德国等国的海外业务，这些国家已经发出威胁，称只会把数据委托给当地的供应商。Google正铺设自己的海底光纤，确保该公司在客户数据传输方面拥有更大的控制权。斯诺登泄密事件发生一年之后，默默与政府合作的时代已告结束。电信公司说，它们会拒绝现行法律没有硬性规定它们提交的、政府却要求它们自愿提交的资料。Google首席安全官Eric Grosse在接受采访时表示，NSA自己的做法引发了这轮新的军备竞赛。华盛顿的美国官员承认，情报活动现在开展起来比以前困难多了，因为美国科技公司害怕失去国际业务，从而加强了对自身网络的保护，并且拒绝提供以前曾经默默提供过的那些帮助。
+➜MPAA称转售在线视频将会杀死创新
+https://www.solidot.org/story?sid=39864	42344
+美国众议院知识产权和互联网委员会举办了数字转售的听证会，讨论消费者是否有权转售他们以前购买的数字视频、音乐和软件。支持者想要将首次销售原则（First Sale Doctrine）应用于数字领域，但遭到了娱乐行业的抵制。代表好莱坞电影工作室的MPAA称，<a target="_blank" href="https://torrentfreak.com/mpaa-consumer-right-resell-online-videos-kill-innovation-140608/"><u>数字转售权将会束缚创新</u></a>，提高价格，减少在线电影的可得性。允许转售数字电影将会创造巨大的二手市场，消费者将能更廉价的获取在线内容，但也会导致内容创作者谨慎的提供在线内容，它们可能选择提高价格或者不愿意提供数字版本。
+➜日本用山羊为住宅区除草
+https://www.solidot.org/story?sid=39865	42912
+共同社<a target="_blank" href="http://china.kyodonews.jp/news/2014/06/76603.html"><u>报道</u></a>，日本管理各地集体住宅的都市再生机构（UR）正在推广用山羊为住宅小区的绿地除草。去年首次进行了实证实验，确认了山羊不仅能够有效除草，而且对居民具有“治愈”效果。5月末在东京都町田市郊外的町田山崎住宅小区内，4头山羊被放入116栋住宅林立的绿地，山羊开始啃食数十厘米高的杂草。这是继去年以来的第二次实证实验。当天众多居民前来观看，孩子们在绳栏外喂山羊吃草，并大呼“可爱”。用山羊除草的优点是不使用割草机，能够削减二氧化碳排放量，且不需人手。同时通过与动物接触给居民带来愉悦的“动物疗法效果”也令人期待。 <br>
+➜索尼主机销量八年来首次超过任天堂
+https://www.solidot.org/story?sid=39866	43711
+索尼公司过去八年来首次在主机销量上<a target="_blank" href="http://www.bbc.com/news/technology-27758215"><u>超过了竞争对手任天堂</u></a>。上一个财政年度，索尼共销售了1870万台主机，而任天堂只有1630万。这一结果并不意外，索尼的PS4是最畅销的下世代主机，而任天堂带触摸屏手柄的Wii U销量远远落后于上一代的Wii。任天堂上周宣布关闭了位于德国的欧洲总部，计划裁掉130名雇员。任天堂上个财年净亏损2.29亿美元。

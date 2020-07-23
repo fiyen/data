@@ -1,0 +1,71 @@
+➜硅烯材料制取取得突破
+https://www.solidot.org/story?sid=49172	7046
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "人们对于二维材料的兴趣，恐怕没有哪种可以跟硅的二维版本—“硅烯”相提并论。硅烯的吸引力显而易见：50多年来，硅材料承载了计算机技术的蓬勃发展，而它在元素周期表上性质与之相近的碳的二维版本石墨烯所表现出的性能又那么神奇，这些都足以让科学家摩拳擦掌，跃跃欲试。硅烯与石墨烯不同，其内禀的阻带特性，使得它更适合应用于需要电流通断的数字电路中。另外，硅作为半导体材料所具有的诸如超导性等特性使得硅烯更加引人注目—当然，这取决于人们是否能解决制造方面的难题—硅烯是出了名的难以制造。
+<i>
+近日澳大利亚卧龙岗大学(<span style="color:windowtext;
+text-decoration:none;text-underline:none">University of Wollongong</span>)的研究者在《<a href="http://advances.sciencemag.org/content/2/7/e1600067.full" target="_blank">科学进展</a>》期刊上撰文宣称<a href="http://spectrum.ieee.org/nanoclast/semiconductors/materials/breakthrough-in-silicene-production-promises-a-future-of-silicenebased-electronics" target="_blank">成功的解决了其中一项难题</a>：如何从基质上将硅烯快速剥下来。硅烯牢固地生长在金属基质上，又非常薄，使用机械方法很难剥离。新技术的关键是将氧分子掺杂到硅烯的下层中，有效地将上层的硅烯和金属基质分离。
+<p></p>
+<p>研究者利用了扫描隧道显微镜所提供的超真空环境，氧分子流在其中不受阻碍，可以精确地控制其注入所需的位置。</p>
+<p>研究者认为这项技术有助于将来设计和制作基于硅烯的纳米电子器件和自旋电子器件。"</i>
+➜Firefox 48 发布，支持多进程架构
+https://www.solidot.org/story?sid=49173	10357
+Mozilla发布了“至今最重要更新”的 <a target="_blank" href="https://www.mozilla.org/en-US/firefox/48.0/releasenotes/"><u>Firefox 48 </u></a>，开始正式支持多进程架构E10S（Electrolysis），分离浏览器的UI进程和Web内容进程。E10S没有对所有用户启用，Mozilla 称一开始只对测试工作良好的 1% 合格用户启用 E10S，它将观察其稳定性和数据交互，确保不会出现大问题，然后它会逐步对更多合格用户启用，最终达到100%的合格用户——这些用户大约占所有 Firefox 48 用户的半数。根据Mozilla官方博客公布的<a target="_blank" href="https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/"><u>路线图</u></a>：如果一切进展顺利，Firefox 49将开始测试分离扩展进程，Firefox 50扩大扩展测试范围。 Firefox 48 的其它特性包括：强制性扩展签名，浏览器将不会加载没有签名的扩展；整合了第一个Rust语言开发的组件“<a href="https://github.com/mozilla/mp4parse-rust" target="_blank"><u>媒体解析器</u></a>”；WebExtensions支持稳定；OS X版停止支持10.6、10.7 和10.8；bug修正等等。
+➜MIT发明出“互动动态视频”技术
+https://www.solidot.org/story?sid=49174	11126
+<center>
+<iframe src="https://www.youtube.com/embed/4f09VdXex3A" allowfullscreen="" frameborder="0" height="288" width="512"></iframe>
+</center>
+<br>
+<a href="mailto:wt.robotmocha@gmail.com">antisocial</a> 写道<i> "MIT的计算机科学与人工智能实验室(CSAIL)刚刚展示了他们在“<a href="http://news.mit.edu/2016/touching-objects-in-videos-with-interactive-dynamic-video-0802" target="_blank">互动动态视频</a>”(Interactive Dynamic Video，简称IDV)上的成果。IDV可以学习一段几秒钟的含有动态物体的视频（比如被风吹动的树叶、被拨动的琴弦等等），分析出物体的示例震动模式(example vibration mode)，之后通过算法推断出物体在其他条件下的震动模式。接着，人们就可以在画面上与该物体进行互动，比如<a href="https://youtu.be/4f09VdXex3A" target="_blank">用鼠标拖拽让物体变形</a>（YouTube）。这项研究的重要性在于，人们今后不必再对特定物体进行复杂的3D建模，只利用IDV就能够对物体做出模拟。CSAIL表示，这项技术今后可用于建筑安全性预测、电影特效及AR/VR领域。将来人们在玩Pokemon GO的时候就可以借助于IDV来和小精灵们互动。"</i>
+➜免疫疗法：治疗癌症的新希望
+https://www.solidot.org/story?sid=49175	12693
+Steve Cara 在2014年被诊断有肺癌，癌细胞已经开始扩散，不适宜动手术。医生以前会建议他做化疗，但他的主治医生 Matthew D. Hellmann 当时推荐了尚在实验中的免疫疗法，这种疗法利用患者自身的免疫系统来打击癌细胞。利用免疫系统来抗击癌症是医学界长久以来的梦想，如今它正在变为现实。有几百起和免疫疗法有关的临床试验正在进行中，有的患者单独接受免疫疗法，有的患者还同时接受其他疗法，范围几乎涉及了癌症的所有种类。<a target="_blank" href="http://cn.nytstyle.com/health/20160802/harnessing-the-immune-system-to-fight-cancer/"><u>但免疫疗法目前只对一小部分病人生效</u></a>。为什么会这样，研究者还在努力寻找答案。他们知道，他们找到了一种非常强大的工具，但他们尚不能充分理解和掌握它。Cara 的治疗成功了。今年春天，他通过手术切除了三分之一的右肺，发现癌细胞完全消失了。
+➜新加坡将试运营无人驾驶出租车
+https://www.solidot.org/story?sid=49176	15558
+<div align="center"><img src="http://img.solidot.org/0/780/liWyLjFq6y622.jpg" align=""><br>
+</div>
+<br>
+新加坡与英国 Delphi 汽车公司合作，在全世界首先<a target="_blank" href="http://investor.delphi.com/investors/press-releases/press-release-details/2016/Delphi-Selected-by-Singapore-Land-Transport-Authority-for-Autonomous-Vehicle-Mobility-on-Demand-Program/default.aspx?utm_source=Triggermail&amp;utm_medium=email&amp;utm_campaign=Post%20Blast%20%28bii-iot%29:%20Uber%20to%20sell%20Chinese%20business%20to%20Didi%20Chuxing%20%E2%80%94%20Verizon%20acquires%20Fleetmatics%20%E2%80%94%20Delphi%20testing%20self-driving%20taxis%20in%20Singapore&amp;utm_term=BII%20List%20IoT%20ALL"><u>试运营无人驾驶出租车</u></a>。新加坡此前曾同<a target="_blank" href="http://www.nutonomy.com/"><u>nuTonomy</u></a>公司签署协议，今年3月份完成无人驾驶汽车的<a target="_blank" href="http://spectrum.ieee.org/cars-that-think/transportation/self-driving/nutonomy-to-launch-worlds-first-fully-autonomous-taxi-service-in-singapore-this-year"><u>初步测试</u></a>。现在 Delphi 将提供6辆无人驾驶出租汽车，在新加坡一个商业园区试运营。Delphi 表示，无人驾驶出租车将把原来每英里3美元的车费降低到90美分。 实验的初期出租车将配备司机，司机将逐步退出实验，直至到2019年完全退出。到2019年，出租车将完全实现自动化，方向盘将不复存在。<a href="http://www.bbc.com/zhongwen/simp/world/2016/08/160802_driverless_taxis_singapore"><u>实验将在2020年结束</u></a>。
+➜Xbox One S的APU由台积电制造，使用16纳米工艺
+https://www.solidot.org/story?sid=49177	18233
+微软轻薄版主机 <a target="_blank" href="http://www.xbox.com/en-US/xbox-one-s"><u>Xbox One S</u></a> 与 Windows 10 一周年更新同一天发布，但国行版发布时间未知。它的主要特色是比原版小40%，支持4K视频和HDR。微软产品营销和规划高级总监 Albert Penello 透露了<a target="_blank" href="http://www.eurogamer.net/articles/digitalfoundry-2016-inside-xbox-one-s-tech-interview"><u>新主机内部架构相关的变化</u></a>。
+Xbox One的处理器使用是28纳米工艺，Xbox One S的处理器工艺升级到了16纳米 Fin FET，由台积电制造，其大小比原处理器小33%，耗电量也更少。为了解码4K分辨率的视频，微软在SoC中加入了一个4K HEVC解码器，视频输出接口更新到HDMI 2.0 和 HDCP 2.2， GPU的频率也从853 MHz 增加到 914 MHz，因此ESRAM带宽从 204 GB/s 提升到 219GB/s。但除此之外，新主机SoC的CPU、GPU和内存都与原版相同，CPU的时钟频率仍然是 1.75GHz。微软计划明年底推出支持4K游戏的升级版主机 Project Scorpio 。
+➜比特币交易所Bitfinex 声称被黑，6千万美元比特币失窃
+https://www.solidot.org/story?sid=49178	19582
+位于香港的比特币交易所 Bitfinex 周二在发现黑客入侵之后<a target="_blank" href="https://www.bitfinex.com/"><u>暂停了所有交易和</u>比特币的存取</a>，比特币币值<a target="_blank" href="https://blockchain.info/zh-cn/charts/market-price"><u>应声下跌</u></a>。Bitfinex 称它已经将这次事件报告给了警方。Bitfinex 社区主管 Zane Tackett 在reddit上<a target="_blank" href="https://www.reddit.com/r/Bitcoin/comments/4vupa6/p2shinfo_shows_movement_out_of_multisig_wallets/d61oe33"><u>证实</u></a>，失窃的比特币总数为119,756BTC，价值超过6000万美元。在失窃事件曝光之后，比特币的美元币值出现了大幅波动：当天的最高币值是607.37美元，19:30 UTC 跌至 $560.16，23:30跌至 $530，最低时只有 $480。
+➜三星发布支持虹膜扫描的 Galaxy Note 7
+https://www.solidot.org/story?sid=49179	27972
+三星<a target="_blank" href="http://cn.wsj.com/gb/20160803/tec093656.asp"><u>发布了</u></a>支持虹膜识别的新旗舰手机Galaxy Note 7，它本质上是 Galaxy S7的放大版。Galaxy Note 系列的上一个版本是2015年的 Galaxy Note 5，三星跳过Galaxy Note 6是为了与Galaxy S系列产品保持同步。它最吸引人眼球的地方是将科幻电影里的虹膜扫描大众化，三星称用户眨一下眼就能解锁设备或访问较为敏感的内容，整个过程虽然快但在方便上<a target="_blank" href="http://arstechnica.com/gadgets/2016/08/galaxy-note-7-hands-on-samsung-goes-full-sci-fi-with-an-iris-scanner/?comments=1"><u>不如指纹识别</u></a>——你需要启动手机滑动屏幕对准眼睛。在经历了持续两年的利润下滑和市场份额流失的困难时期后，三星寻求重振其手机业务。通过在8月初向消费者推出Galaxy Note 7，三星电子较竞争对手苹果获得了比以往更大的先发优势。Galaxy Note 7配备了 5.7 英寸 2560x1440 AMOLED 显示屏， 4GB内存——低于中国公司一加OnePlus 3的6GB，Snapdragon 820 处理器，1200万像素摄像头，64GB ROM， 3500mAh不可移除电池，将于8月19日开始发售，零售价可能高达880美元。
+➜硅谷公司学习中国的移动支付模式
+https://www.solidot.org/story?sid=49180	29685
+中国独特的互联网环境催生了独特的移动文化。没有经历信用卡时代的中国网民如今广泛的使用了移动支付，如腾讯的微信支付和阿里巴巴的支付宝。《纽约时报》发表了一篇文章，<a target="_blank" href="http://cn.nytstyle.com/technology/20160803/china-mobile-tech-innovation-silicon-valley/"><u>称赞了这一现象</u></a>。
+<i>
+微信和支付宝这两个中国应用很早就开始利用二维码，让人们方便地支付购物款项或转账。两者的用户都无须切换到其他应用，就可以叫一辆出租车或者一份披萨。硅谷是长期以来的世界科技之都：它孕育了了社交网络和iPhone，并让这些科技产品在全球范围内流行开来。中国则一向遭到指责：它总是对硅谷亦步亦趋，在政府审查推波助澜之下，中国版谷歌、YouTube和Twitter纷纷崛起.但中国的科技行业——尤其是移动业务——在某些方面已经领先于美国。一些西方科技公司，甚至包括某些大公司，正从中国企业那里寻求创意。许多分析师表示，中国最大的优势在于，它基本上是在1976年文化大革命结束后从零开始发展出许多行业。与银行和零售商已经对消费者有很强掌控力的美国不同，中国国有放贷机构效率低下，零售商的扩张始终跟不上规模迅速增大的中产阶级的需求。
+</i>
+➜伊朗黑客入侵 Telegram账号，识别1500万伊朗用户的电话号码
+https://www.solidot.org/story?sid=49181	31328
+路透社援引网络安全研究人员的消息<a target="_blank" href="http://www.reuters.com/article/us-iran-cyber-telegram-exclusive-idUSKCN10D1AM?sp=alcms"><u>报道</u></a>，伊朗黑客入侵了数十个 Telegram 用户账号，识别出1500万伊朗用户的电话号码。Telegram 发表<a target="_blank" href="https://telegram.org/blog/15million-reuters"><u>官方博客</u></a>否认它的平台遭到入侵，称攻击者利用的是消息应用的检查机制，该机制允许任何人检查一个电话号码是否在系统中注册了，其它基于联系人的应用如 WhatsApp 和 Messenger都存在该问题。路透社报道称，Telegram 在伊朗大约有2000万用户，这次攻击发生在今年，此前没有报道过，可能会危及到伊朗活动人士、记者和其他敏感人士的通信。Telegram 称这些被识别出的用户账号并没有被攻击者访问过，表示它已经在API中设限阻止大规模的检查注册电话号码。
+➜中国开始测试高架巴士
+https://www.solidot.org/story?sid=49182	33064
+<div align="center"><img src="http://img.solidot.org/0/781/liKSPuUnGxgg.jpg" height="301" align="" width="450"><br>
+<br>
+</div>
+官方新华社<a target="_blank" href="http://www.tebtech.com.cn/html/2016/tebmedia_0803/84.html"><u>报道了</u></a>开始在秦皇岛北戴河路试的高架巴士巴铁1号。这种高架巴士旨在利用城市主干道的上层空间，以减少城市常见的交通拥堵情况，它的上层可以载客，下层镂空，2米以下高度的小型汽车可以正常行驶。巴铁1号由北京巴铁科技发展有限公司设计，试验车为一节车厢，车长22米，宽7.8米，高4.8米，额定载客数为300人。该公司声称，由多列车厢组成的高架巴士最高时速可以达到60公里，能容纳1200到1400名乘客。
+➜SpaceX HR主管否认雇员长时间加班
+https://www.solidot.org/story?sid=49183	35269
+SpaceX 的部分前雇员指责这家私人太空公司提供的薪水不高还强迫他们加班。一些人还起诉SpaceX 违反了加州的劳动法。SpaceX 的 HR 主管 Brian Bjelde 本周二参加了 Reddit r/SpaceX频道的<a target="_blank" href="https://www.reddit.com/r/spacex/comments/4vt74k/i_am_spacex_employee_14_aerospace_engineer_and_vp/"><u>IAMA活动</u></a>，接受网友的提问，<a target="_blank" href="http://arstechnica.com/science/2016/08/spacex-hr-chief-its-a-myth-that-our-employees-are-overworked/"><u>公开否认雇员长时间加班</u></a>。Bjeld e称，大部分 SpaceX 雇员经常性的每周工作80小时甚至100小时的说法是一种神话，但有时候为了发射火箭工作安排确实非常紧张。Bjelde 表示，SpaceX 的离职率低于行业平均水平，但没有给出具体数字。他说，包括他在内很多雇员已经为 SpaceX 工作了十年以上，“前往火星是一个长期的使命，因此我们寻求吸引雇员，长时间的留住他们。”
+➜日本NHK率先开始试播8K节目
+https://www.solidot.org/story?sid=49184	37831
+日本NHK电视台<a target="_blank" href="http://china.kyodonews.jp/news/2016/08/124785.html"><u>在全世界率先开始试播4K与8K节目</u></a>。此举旨在验证相关技术并促进普及。8K是指分辨率7680×4320，它的像素数是2K分辨率的16倍。由于目前的电视机及调频设备都无法接收4K与8K信号，NHK在全国各电视台安装了8K电视以观看节目。根据计划，NHK将以8K画质直播8月5日开幕的巴西里约奥运会开闭幕仪式，转播游泳、田径等比赛。NHK计划从2018年开始实播8K节目，到2020年东京奥运会实现对普通家庭的普及。夏普目前出售的85英寸8K电视售价约16万美元。
+➜英国酒吧用法拉第笼屏蔽手机信号
+https://www.solidot.org/story?sid=49185	39744
+英国东萨塞克斯郡一家鸡尾酒吧的老板在墙壁上<a target="_blank" href="http://www.telegraph.co.uk/science/2016/08/02/landlord-installs-faraday-cage-to-block-phone-signals-because-so/"><u>安装法拉第笼</u></a>，阻止手机信号进入建筑物。Gin Tub酒吧的Steve Tyler 表示他希望此举能鼓励顾客互相交谈，而不是盯着他们的手机屏幕。<a target="_blank" href="https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89%E7%AC%AC%E7%AC%BC"><u>法拉第笼</u></a>是科学家Michael Faraday 在1836年发现的，是一个由金属或者良导体形成的笼子，由于金属的静电等势性，可以有效的屏蔽外电场的干扰。法拉第笼通常在发电厂或其它高带电环境中使用，防止电击或电子设备受到干扰。Tyler在墙壁和天花板上布置金属网，吸收和重分配来自手机和其它无线设备的信号，阻止它们进入建筑物内部。他希望强迫顾客在真实世界互动，记住如何搞好社交，不受手机的干扰。
+➜运营商不满百度贴吧停止商业化
+https://www.solidot.org/story?sid=49186	40558
+百度从2014年开始售卖贴吧运营权，一部分是与华为、魅族、招商银行等公司合作，建立企业“官方贴吧”。另有一部分是出售上百个类似于“北京吧”的地区吧。要获得贴吧运营权，运营商需向百度缴纳从20万到100多万不等费用，根据贴吧粉丝数量而定。2016年1月，百度售卖包括血友病吧等在内的病种类贴吧引发强烈舆论。百度随后叫停病种类贴吧的商业合作。7月7日，百度告诉地区吧运营商，将停止地区吧的代运营业务，对已签署合同的企业，百度将在合同到期后关闭吧内推广功能。70多名百度地区贴吧代运营商齐聚北京与百度进行谈判，<a target="_blank" href="http://companies.caixin.com/2016-08-03/100973757.html"><u>但目前谈判陷入了僵局</u></a>。
+➜Pokemon Go 开发商面临非法侵入诉讼
+https://www.solidot.org/story?sid=49187	42347
+因为玩家涉嫌未经许可侵犯私家领地，Pokemon Go的开发商 Niantic、以及任天堂和 Pokemon Company <a target="_blank" href="http://www.bbc.com/news/business-36961201"><u>在美国面临法律诉讼</u></a>。一名美国男子称，有陌生人在他家附近徘徊，然后至少有五个人敲门。起诉者寻找其他有相似遭遇的人发起集体诉讼。起诉方称，被告方“未经业主允许在真实世界里制造人流，并对可以预见的后果故意视而不见”。 Pokemon Go是一款增强现实游戏，玩家拿着手机在真实世界的不同地点捕捉和训练精灵。
+➜牙医忘记研究牙线，但仍然推荐它
+https://www.solidot.org/story?sid=49188	47138
+牙医长期以来推荐使用<a target="_blank" href="https://zh.wikipedia.org/wiki/%E7%89%99%E7%B7%9A"><u>牙线</u></a>去清洁牙齿，认为它有助于减少牙周病、口臭、蛀牙等疾病。但问题是他们已经有一百多年没有对牙线进行深入研究，提供充分的证据去支持这一建议。去年美联社根据信息自由法案要求联邦机构提供支持推荐使用牙线的证据。结果政府发现没有足够的数据支持这一建议，美国农业以及卫生与人类服务部<a target="_blank" href="http://arstechnica.com/science/2016/08/dentists-forgot-to-study-flossing-for-a-century-recommended-it-anyway/"><u>因此悄然撤下了这一建议</u></a>。尽管如此，许多牙医继续建议使用牙线清洁牙齿，认为它低成本低风险。

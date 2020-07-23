@@ -1,0 +1,60 @@
+➜KDE 4.1发布
+https://www.solidot.org/story?sid=7217	600
+<a href="mailto:seth.hg@gmail.com">seth.hg</a> 写道 "经过数月的开发和争论，<a href="http://www.kde.org/">KDE项目</a>终于在今天<a href="http://www.kde.org/announcements/4.1/">发布</a>了KDE 4.1。Linux.com<a href="http://www.linux.com/feature/142661">查看</a>了新的代码，评论家Jeremy LaCroix说：KDE 4.1让人惊讶。 <a href="http://itmanagement.earthweb.com/features/article.php/3761781/KDE+4.1+Review:+The+Rocky+Road+of+the+New+KDE.htm">Bruce Byfield的评论</a>也同样很积极。
+KDE 4.1的关键改进在于：<i>
+1. KDE-PIM套件又回来了<br>
+2. Plasma更加成熟<br>
+3. 很多新的改进过的应用程序和框架"</i>
+➜新的大学教育模式
+https://www.solidot.org/story?sid=7218	1500
+<a href="http://en.wikipedia.org/wiki/Carl_Wieman">Carl Wieman</a>是2001年诺贝尔物理奖得主，目前则热衷于促进<a href="http://www.livescience.com/technology/080725-sb-education-future.html">大学科学教育改革</a>。他表示：<i>
+“大学需要让更多学生在技术科目上拥有复杂理解和问题解决技能，令他们成为现代社会的负责任的和成功的公民。但现在大学和学院都没有实现这个目标，因此应该采用新的大学教育模式去改进。当前教育模式类似于师傅带学徒，师傅给学徒分配任务，进行必要的指导以使其完成任务，或提供工作上的反馈。一开始，学徒数目不多，这种模式行之有效。但随着知识和人口增长，每位师傅的学徒越来越多，演讲式的模式渐渐占据了主导。但过去几十年社会和技术发生了巨大变革，这种方式是否对科学教育还真正有效并不清楚。”</i>           众所周知，我们的教育模式更像是工厂中的流水线，判断优劣的准则只有一个标准，完全跟不上建立和谐社会的目标（它有8个标准）。大学教育问题更为严重，改革已是迫在眉睫。
+➜Web 字体的未来
+https://www.solidot.org/story?sid=7220	6300
+<a href="http://www.comsharp.com/">35公里</a> 写道 "一直以来，Web 字体背着单调的恶名，因为想在网页上显示一种字体，该字体文件本身必须存在于用户的电脑中，由于这个限制，加上 Web 用户可能分散于各种操作系统，只有那些在各种环境都普遍存在的字体才会被用于网页。<a href="http://www.webmonkey.com/blog/The_Future_of_Web_Fonts_Looking_Brighter">CSS 可能为这个问题带来一线曙光</a>，CSS 包含一个 @font-face 定义，你可以指定一种位于某个 Web 服务器上的 TrueType 或 OpenType 字体。 Safari, Firefox 3.1 目前均支持 @font-face，Opera 也计划在未来的版本中支持该定义。这三种浏览器目前覆盖了30%~50%的用户，对 Web 设计者来说，这个数字已经足够大。至于 IE 用户，我们可以为他们提供单独的 StyleSheet。           然而值得疑虑的是，那些字体的设计者可能未必愿意将自己的字体放到 Web 服务器，那会使字体盗用变得更容易。Web 设计师 Richard Rutter 提出了一个<a href="http://www.clagnut.com/blog/2166/">解决方法</a>，他发现了一个让字体嵌套到网站的方法，字体设计者可以将字体同网站域名绑定，只有指定的网站才能使用。 <br> <br>除了 Rutter 的方案，微软的 <a href="http://blogs.msdn.com/ie/archive/2008/07/21/font-embedding-on-the-web.aspx">EOT 技术</a>也企图推动 Web 字体的发展，但 EOT 内置了一种类似 DRM 的技术，可能会导致问题重重（使用了 DRM 技术的 WMA 就是一个例子，任何曾尝试播放包含 DRM 的 WMA 文件的人都不愿再见到这个词，译者曾喜爱至极的<a href="http://www.bookast.com/">博客思听</a>自改用 DRM 以来，我再也没成功地收听过任何一段书摘 - 译者） <br> <br>关于中文 Web 字体问题，可能要复杂得多，因为中文字体动辄几个MB大小，用户在访问一个网页之前，先下载一个几MB的字体是不现实的。另外，中文字体的字号的选择也要十分谨慎，12px 的宋体在屏幕上可以正常显示，然而 12px 的黑体却很难看，黑体至少要 13px 或 14px 才可以平滑地显示。 -  译者
+➜谷歌的奥运OneBox
+https://www.solidot.org/story?sid=7223	6360
+谷歌的搜索 (<a href="http://g.cn/">Google.cn</a>) 新增一个奥运项目的OneBox 功能，现在搜索 <a href="http://www.google.cn/search?q=%E5%A5%A5%E8%BF%90+%E4%B8%BE%E9%87%8D">奥运+举重</a> 或其他类似的“奥运+[项目名字]”即可查询到这个OneBox 提供的信息。演示：<a href="http://www.google.cn/search?q=%E5%A5%A5%E8%BF%90+%E6%B8%B8%E6%B3%B3">奥运+游泳</a> <a href="http://www.google.cn/search?hl=zh-CN&amp;q=%E5%A5%A5%E8%BF%90%E4%BC%9A+%E9%A9%AC%E6%9C%AF">奥运会+马术</a> <br> <br>
+这个Onebox 提供的是从beijing2008.cn 获得的项目比赛时间的信息。使用Google.com 的话需要使用相应的英文才会<a href="http://www.google.com/search?&amp;q=olympics+ping+pong">有效果</a>。
+➜WWW.17LAMP.NET向广大高校学生免费提供中文LiveCD
+https://www.solidot.org/story?sid=7221	7200
+<a href="mailto:17lamp@gmail.com">17lamp</a> 写道 <i>"为了在高校同学中普及Linux和开源技术，
+WWW.17LAMP.NET以Fedora 8 为基础制作了中文LiveCD。
+向广大同学免费发放。
+同时优先供应高校的开源社团的需求。
+请需要的同学，<a href="http://www.17lamp.net/image/screenshot_wildswarm_f8/20080729133922">注册后申请</a>。"</i>
+➜现在的玩家没有耐性解谜题
+https://www.solidot.org/story?sid=7222	7800
+现在的玩家似乎更喜欢快餐游戏，更热衷于战斗，没有耐心解决复杂的难题。旧式的解谜游戏似乎已是死去的艺术形式。<a href="http://www.brainygamer.com/the_brainy_gamer/2008/07/puzzles-are-for.html">Brainy Gamer的一篇文章</a>提到：<i>
+“尽管我的爱好是昔日的冒险游戏。看起来情节推动的游戏中解谜已成往事。解谜——尤其是在一系列开放性的旧卢卡斯游戏中——似乎成为过去时代的遗物。他们曾经提供了一种必要的游戏元素——巧妙而复杂的故事——设计用来增加挑战性和迫使玩家通过故事前进——现代玩家极少有耐心进行此类的挑战。</i>
+➜戴尔被Lenovo带坏了
+https://www.solidot.org/story?sid=7224	10800
+中国的用户常常抱怨同样的产品在中国和美国的价格简直是天上地下，其实这主要与税有关(不排除有其它因素)，前不久不是有新闻报道，<a href="http://money.163.com/08/0723/05/4HGVJSPE00252G50.html">全国税收上半年增加30%</a>。<i>
+<a href="http://jzhang918atgmaildotcom/">canopy</a> 写道 "戴尔推出了一款新的台式机<a href="http://www1.ap.dell.com/content/products/productdetails.aspx/desktop-studio-hybrid?c=cn&amp;cs=cndhs1&amp;l=zh&amp;s=dhs">Studio Hybrid</a>，样子小巧，非常有吸引力，但是它的价格对中国用户就没有吸引力了，最低配置（不含显示器）需要6999人民币，但是同样的甚至更好一点点的配置在戴尔美国网站上只要<a href="http://www.dell.com/content/products/productdetails.aspx/desktop-studio-hybrid?c=us&amp;cs=19&amp;l=en&amp;s=dhs">499美元</a>，按照现在的汇率不到3500人民币。以前这种事情只有Lenovo才做得出来，现在戴尔也被带坏了。"</i>
+➜W3C 推出移动 Web 标准
+https://www.solidot.org/story?sid=7225	18540
+<a href="http://www.comsharp.com/">35公里</a> 写道
+<i> "2008年7月29日，W3C<a href="http://www.w3.org/News/2008#item129">发布</a>了移动 Web 标准 <a href="http://www.w3.org/TR/2008/REC-mobile-bp-20080729">移动 Web 最佳实践 1.0</a>，该标准可以让用户更容易使用移动设备访问 Web。 <a href="http://www.w3.org/TR/2008/REC-mobile-bp-20080729">移动 Web 最佳实践 1.0</a> 由 W3C 的 <a href="http://www.w3.org/2005/MWI/BPWG/">移动 Web 最佳实践工作组</a> 提出，该最佳实践集众多移动 Web 实际经验，旨在指导移动 Web 运营者创作移动设备友好的内容 （mobile-friendly content），以便让用户在使用各种手持设备访问网站的时候改善浏览体验。 W3C同一天还发布了另外一个标准，<a href="http://www.w3.org/TR/2008/REC-xhtml-basic-20080729/">XHTML Basic 1.1 Recommendation</a>，该标准，连同 Open Mobile Alliance (OMA) 使移动置标语言（mobile markup languages）有了一个完整的集合。工作组同时还发表了 <a href="http://www.w3.org/TR/2008/WD-mwabp-20080729/">移动 Web 程序最佳实践</a> 第一草案，该草案针对的是移动 Web 程序。</i>W3C 移动 Web 验证 （mobileOK） 地址：<a href="http://validator.w3.org/mobile/">http://validator.w3.org/mobile/</a>
+➜维珍银河公开完工的白骑士二号飞船
+https://www.solidot.org/story?sid=7226	20400
+维珍银河（<a href="http://www.virgingalactic.com/">Virgin Galactic</a>）<a href="http://spacefellowship.com/News/?p=6155">公开</a>了为太空旅游设计的白骑士二号（WhiteKnight Two，WK2）母船，其设计目的是携带小型的太空船二号（SpaceShip Two）飞往太空，它的名字叫做EVE。<i>
+维珍银河向小部分记者和嘉宾展示了WK2，它有两个机身，机翼长43米，机翼中部下方携带“太空船2号”，当飞行高度达约15249米时，太空飞船将被释放，取名EVE是为了纪念Richard Branson（维珍总裁）的母亲。WK2将在今年末试飞，首次太空游将在2010年或2011年展开。WK2同时也是航空技术上的一大突破——它是世界上最大的全碳纤维复合材料飞行器，它的许多零件都是首次使用复合材料建造。它的长达43米的翼展是有史以来建造的最长的碳复合航空部件。
+</i>
+更多图片可见官网的<a href="http://www.virgingalactic.com/pressftp/">Press Ftp</a>。
+➜《纽约客》之愤怒的青年
+https://www.solidot.org/story?sid=7227	25800
+还记得曾在Youtub上受到极为关注的反驳西方媒体“偏见”，宣称“中国站立起来”的视频吗（亦有人<a href="http://my.opera.com/dahema/blog/n24">指出</a>报道本身是客观的，只是某些人解读有错）？你想知道它的制作者是谁吗？现在《纽约客》找到了视频背后的神秘男子，<a href="http://www.newyorker.com/reporting/2008/07/28/080728fa_fact_osnos?currentPage=1">记录了这位28岁研究生的人生和哲学</a>。<i>
+这位Youtube用户名CTGZ，真实名字叫唐杰（Tang Jie）的男子是复旦大学的研究生，他相信美国试图遏制中国，发动“新冷战”。唐杰主修西方哲学，专攻德国哲学家<a href="http://en.wikipedia.org/wiki/Edmund_Husserl">Edmund Husserl</a>创立的现象学（phenomenology），懂德语和英语，但很少说。唐从未加入共产党，担心这会影响他作为一位学者的客观性。受争议的视频是使用Movie Maker制作的，对此他表示“我们必须感谢比尔盖茨”。他常常浏览西方的新闻网站，使用代理服务器绕开网络限制。</i>《纽约客》的文章非常长，详细描述了唐杰因为西方媒体“偏见”报道而震动的思想过程，复旦BBS上的骚动，促使其动手寻找资料制作视频进行反驳。此外还谈及了他的出生（家中4个孩子中最小的一个，也是文化最高的一个，父母为此缴纳了高昂的罚款），爱好（喜欢科幻小说，崇拜周星驰），思想（相信中国强大，站立起来了）等等。           文章的结尾很有意思：<i>Police blocked the road. A frisson swept through the crowd. People surged toward the curb, straining to see over one another’s heads. But Tang hung back. He is a patient man.</i>
+➜欧洲和美国之间的软件价格黑洞
+https://www.solidot.org/story?sid=7228	28320
+不同国家硬件的价格有出入，其实软件也有类似的情况。在比较之后，你会发现美国总是最便宜的。刚才有人提到了<a href="__SLASHLINK__" sect="hardware" sid="08/07/30/0252234" sn="article" tid="14">戴尔的产品</a>，/.上也比较了<a href="http://tech.slashdot.org/article.pl?sid=08/07/29/1244259">欧美不同国家软件的价格</a>：<i>
+以Adobe的Dreamweaver CS3为例，如果在美国购买价格是399美元；但是如果你在德国购买，价格为570欧元，根据当前的汇率换算大约等于900美元。同样的故事还可以从微软最新产品上找到：Expression Web 2——美国售价仅299美元，但在意大利价格不会低于366欧元（约576美元）。为何价格上会出现如此大鸿沟？税也许是一个理由。</i>
+➜Wikileaks“零时间”发布《反仿冒贸易协定》谈判
+https://www.solidot.org/story?sid=7229	31200
+《<a href="__SLASHLINK__" sect="internet" sid="08/05/28/0015217" sn="article" tid="48">反仿冒贸易协定</a>（ACTA）》贸易谈判按计划将于7月29日到31日在华盛顿特区举行。<a href="http://wikileaks.org/wiki/ACTA_negotiations_brief_on_Border_Measures_and_Civil_Enforcement_2008">Wikileaks几乎是“零时间”公开了谈判的简要摘要</a>。<i>新泄漏出的3页备忘录可能使ACTA的争论火上加油。标题为<a href="http://file.sunshinepress.org:54445/acta-brief-enforcement-2008.pdf">Business Perspectives on Border Measures and Civil Enforcement</a>（PDF）的文档列出了一系列的提议。这些提案包括：增加货物检查；海关完全配合版权持有者的私人调查；消灭收缴的假冒产品或按照版权所有者的意见行事；版权所有者有权获得侵权者的信息，包括身份、生产或发行和第三方资料，关于侵权的损失版权所有者掌握更大话语权。这个文档值得关注，它可能意味着未来的执行。</i>
+➜Mandriva Linux 2009 Beta 1发布
+https://www.solidot.org/story?sid=7230	32700
+Mandriva宣布发布<a href="http://wiki.mandriva.com/en/2009.0_Beta_1">Mandriva Linux 2009 Beta 1</a>“thornicrofti”。该Beta 测试版包括了KDE 4，KDE 4.1正式版，GNOME 2.23.5，Firefox 3，和kernel 2.6.26。新版使用splashy而不是bootsplash作为启动和关机画面，增加了Windows Mobile 2003设备的同步支持。Mandriva提醒这仍然是一个测试版，最好在测试系统或分区或虚拟机上安装。<a href="http://wiki.mandriva.com/en/2009.0_Errata">勘误表</a>，<a href="http://wiki.mandriva.com/en/2009.0_Notes">发布公告</a>。
+➜NASA成立50周年
+https://www.solidot.org/story?sid=7231	36000
+1958年7月29日，艾森豪威尔总统签署了United States Public Law 85-568《<a href="http://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%AE%B6%E8%88%AA%E7%A9%BA%E6%9A%A8%E5%A4%AA%E7%A9%BA%E6%B3%95%E6%A1%88">美国国家航空暨太空法案</a>》，宣告了<a href="http://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%B1%80">NASA</a>的成立。<i>在走过的50年里，NASA创造了很多伟大的成就，<a href="http://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%97%E8%AE%A1%E5%88%92">阿波罗登月计划</a>让人类首次登上另一个星球；发射了环绕地球轨道的<a href="http://www-pao.ksc.nasa.gov/history/skylab/skylab.htm">天空实验室</a>；向月球、火星、太阳系和更远的地方发射了<a href="http://en.wikipedia.org/wiki/List_of_NASA_missions#Unmanned_missions">许多艘无人太空飞行器</a>；建造了可重复使用的<a href="http://www.nasa.gov/mission_pages/shuttle/main/index.html">航天飞机</a>。当然NASA也经历过失败，两架航天飞机失事，使14名宇航员丧生；训练中<a href="http://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%971%E5%8F%B7">阿波罗1号突然发生的大火杀死了3名宇航员</a>。虽然公众还在讨论<a href="http://www.usatoday.com/tech/science/space/2006-06-29-shuttle-nasa-future_x.htm">NASA的未来</a>，但它未来的计划已经在筹备之中，包括<a href="http://www.nasa.gov/mission_pages/constellation/main/cev.html">重返月球</a>，和<a href="http://en.wikipedia.org/wiki/Manned_mission_to_Mars">载人火星飞行</a>。</i>

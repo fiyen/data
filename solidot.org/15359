@@ -1,0 +1,28 @@
+➜匿名黑客攻下美司法部、RIAA、MPA和环球唱片网站
+https://www.solidot.org/story?sid=27971	6480
+维吉尼亚联邦检察官<a href="http://abcnews.go.com/Technology/wireStory/apnewsbreak-feds-shut-file-sharing-website-15396093#.TxjUqPkiJhZ">关闭了</a>著名的文件共享网站Megaupload，该网站是建在香港，但内容是托管在维吉尼亚的服务器上，37岁的创始人<a href="http://en.wikipedia.org/wiki/Kim_Dotcom">Kim Dotcom</a>和其他三名雇员应美国政府要求在新西兰被逮捕，版权持有人指控Megaupload.com导致他们损失超过5亿美元。在Megaupload.com关闭之后，黑客与匿名组织合作，<a href="http://yro.slashdot.org/story/12/01/19/2238202/anonymous-takes-down-doj-riaa-mpa-and-universal-music">攻下了</a>美国司法部、唱片工业协会、环球唱片和美国电影协会的网站。目前司法部已恢复上线，但联邦调查局fbi.gov、riaa.com等仍然下线。
+➜Google声称有九千万Google+用户
+https://www.solidot.org/story?sid=27972	8400
+Google CEO Larry Pag称，旗下社交服务Google+的注册用户<a href="http://arstechnica.com/gadgets/news/2012/01/google-claims-90-million-google-users-60-active-daily.ars">已经超过九千万</a>，其中六成用户每天访问，八成用户每周访问。搜索巨人正不遗余力的宣传Google+，将其整合到搜索结果、Google Apps、Gmail和Picasa中。虽然增长迅猛，但仍远远落后于Facebook的八亿活跃用户，以及Twitter的一亿活跃用户。
+➜Mozilla演示MediaStream Processing
+https://www.solidot.org/story?sid=27973	20160
+Mozilla提出新的Web标准“<a href="https://dvcs.w3.org/hg/audio/raw-file/tip/streams/StreamProcessing.html">MediaStream Processing</a>”，通过JavaScript API实时处理音频和视频流。虽然开发尚处于起步阶段，但出于测试目的Mozilla已经发布了一个<a href="https://ftp.mozilla.org/pub/mozilla.org/firefox/try-builds/rocallahan@mozilla.com-6ac1418daa2e/">实验性的Firefox版本</a>，并推出了一系列<a href="http://people.mozilla.org/~roc/stream-demos/">Demo</a>(需运行实验版本)。<a href="http://arstechnica.com/business/news/2012/01/mozilla-demos-mediastream-processing-audio-mixing-in-firefox.ars">演示显示</a>MediaStream Processing API 可用于可视化渲染视频音轨，混频如两个音频流之间的交错淡变，动态调整视频音量等。API作者Robert O'Callahan称，未来将支持视频处理，对于Web应用中的二维码识别和增强实境大有帮助。
+➜发现绕过X.org屏幕锁定的方法
+https://www.solidot.org/story?sid=27974	22080
+X.org server 1.11 引入的调试功能可让任何物理接触系统的人<a href="https://lwn.net/Articles/476134/">绕过屏幕保护程序和屏幕锁定</a>。Gu1在<a href="http://gu1.aeroxteam.fr/2012/01/19/bypass-screensaver-locker-program-xorg-111-and-up/">博客</a>上和<a href="http://openwall.com/lists/oss-security/2012/01/19/1">邮件列表</a>上公布了他的发现：按顺序键入 Ctrl+Alt+Keypad-Multiply（小键盘*）就能绕过任何屏保。Michael Gilbert已经发布了解决该安全隐患的<a href="http://openwall.com/lists/oss-security/2012/01/19/7">临时方案</a>。
+➜美国网站反SOPA抗议在中国赢得赞美
+https://www.solidot.org/story?sid=27975	41760
+美国大小网站本周“罢工”抗议反盗版法案，赢得了太平洋另一边的<a href="http://www.latimes.com/business/la-fi-china-internet-20120120,0,31035.story">中国网民的赞美</a>。<i>
+包括维基百科在内的网站临时关闭，数百万美国人向议员抱怨政府可能的审查，中国网民对此甚为羡慕，因为类似的行动在中国是不可能的。中国正一步步收紧网上自由言论空间，要求微博实名注册，并拘留了几十名被控传播有害信息的网民。但颇让人感到讽刺的是，美国反盗版法案如SOPA（阻止线上盗版法案）和PIPA（保护知识产权法案）所针对的目标在中国却几乎能畅行无阻，因为盗版材料不是防火墙的目标。</i>
+➜行星在恒星高温下蒸发
+https://www.solidot.org/story?sid=27976	44280
+天文学家发现了一颗<a href="http://blogs.discovermagazine.com/badastronomy/2012/01/19/a-planet-boils-away-under-its-blow-torch-star/">正在恒星高温下加热气化的行星</a>(<a href="http://arxiv.org/PS_cache/arxiv/pdf/1201/1201.2662v1.pdf">预印本</a>)。<i>
+行星KIC 12557548距离地球1500光年，是开普勒望远镜发现的系外行星之一。开普勒是通过行星凌日现象，通过行星遮住恒星产生的周期性亮度变化识别候选行星。KIC 12557548 的周期是15.685小时，它的母星大约是太阳质量的0.7倍，行星距离恒星表面仅150万公里，不到地月距离的4倍。它的表面温度可能高达2000°C。天文学家观察到每一次凌日的光度变化都存在差异，原因极有可能是行星的岩石正在高温下气化蒸发。这颗行星比水星略大，每秒失去的质量相当于10万吨，按此速度大约几亿年后它会完全蒸发掉。
+</i>
+➜陶哲轩等四人获2012年度克拉福德奖
+https://www.solidot.org/story?sid=27977	48480
+瑞典皇家科学院<a href="http://news.sciencemag.org/scienceinsider/2012/01/crafoord-prizes-announced.html">宣布了</a>2012年度克拉福德奖（Crafoord Prize）获奖者，该奖项轮流授予数学、天文学、地球科学和生物科学学科领域的杰出贡献者，今年是数学和天文学。<i>
+今年的数学学科获奖者是：普林斯顿高等研究院的比利时数学家Jean Bourgain，加州洛杉矶分校（UCLA）的澳大利亚华裔数学家陶哲轩，两人都获得过菲尔茨奖（分别是在1994年和2006年）。陶哲轩最为知名的成就是在2004年与本·格林发表的Green-Tao Theorem，证明存在任意长的素数等差数列；以及压缩感知方面的创新研究。Bourgain的成就是证明了多个非线性偏微分方程的适定性结论，如量子力学薛定谔方程式和波动柯氏方程。天文学科获奖者为德国马克斯·普朗克外星生物物理研究院的Reinhard Genze和UCLA的Andrea Ghez，两人在超大质量黑洞研究上可谓一时瑜亮。</i>
+➜赛门铁克承认其网络在2006年被入侵
+https://www.solidot.org/story?sid=27978	51840
+世界最大的安全产品开发商赛门铁克推翻了之前网络未遭入侵的说法，承认黑客在2006年<a href="http://www.reuters.com/article/2012/01/17/us-symantec-hackers-idUSTRE80G1DX20120117">入侵了它的系统</a>，获取了Norton Antivirus Corporate Edition、Norton Internet Security、Norton Utilities、Norton GoBack和pcAnywhere的源代码。黑客上周公布了Norton Utilities 2006的源代码，计划本周公布Norton Antivirus的源代码，<a href="http://www.net-security.org/secworld.php?id=12241">但已经推迟</a>。暂时不清楚为什么黑客过了六年才公开。赛门铁克发言人称，除了仍然使用pcAnywhere的用户外，其他客户并不太担心。但分析师对此表示质疑，认为赛门铁克不可能重写所有代码。黑客Yama Tough<a href="https://twitter.com/#!/YamaTough/status/158995885727031297">声称</a>向安全社区公布pcAnywhere源代码，而赛门铁克表示正在通知和联系pcAnywhere客户。

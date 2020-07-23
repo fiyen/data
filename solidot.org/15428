@@ -1,0 +1,60 @@
+➜程序员应该了解的安全知识
+https://www.solidot.org/story?sid=28933	3600
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道 <i>"StackOverflow 网友 M.H是一名IT专业的大三学生，最近才开始有计算机相关课程，他想接触学习计算机安全方面的知识，<a href="http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security/2794089">故而发帖提问</a>(<a href="http://blog.jobbole.com/16240">中文</a>)：我很确信没有人可以知晓所有安全知识，但我确信，肯定有一定的“最低限度”知识，是每个程序员或IT学生应当了解的。我的问题是，那些“最低限度”知识包括了哪些？希望您能给我建议一些电子书，或课程，或任何有助于我探索这条路的东西。bignum 提供的回答得分最高，编写安全程序的一些原则（比如：不要信任用户的输入信息；保持简单；从一开始就要策划安全； 权限分离；坚持最小特权原则 等），还有一些书籍和资料。"</i>
+➜华人超市出售活海鲜引发争议
+https://www.solidot.org/story?sid=28934	5400
+《华盛顿邮报》<a href="http://www.washingtonpost.com/local/crime/food-fight-develops-in-va-over-sale-of-live-animals/2012/03/20/gIQAw481cS_story.html">报导</a>，弗吉尼亚一家名叫Great Wall的华人超市因为出售活海鲜引起了广泛争议，去年官方扣押了大部分海鲜柜台，并向两位商店经理发出了重罪逮捕令。商店经理认为亚洲的饮食传统因为过时的法律受到了攻击，被非法化。为了防止盗猎野生动物作为食物或其它用途，弗吉尼亚法律对出售野生动物进行了限制。Great Wall超市出售的动物并非是濒危动物，但许多因归类为野生动物而被禁止销售。超市的一位经理Kai Wei Jin说，所有活动物都是人工饲养的。他们的律师Shaoming Cheng说，中国喜欢吃黄鳝就和俄罗斯人喜欢吃鱼子一样，是传统饮食习惯的一部分，这些鳝鱼都是人工饲养，也不是濒危物种，为什么不能出售呢？
+➜Ruby作者和GNU Health获2011年自由软件奖
+https://www.solidot.org/story?sid=28935	6720
+自由软件基金会宣布了<a href="http://www.fsf.org/news/2011-free-software-awards-announced">2011年度的自由软件奖得主</a>。<i>
+自由软件奖共颁发两个奖项：自由软件推动奖和社会公益项目奖，前者颁给对促进自由软件发展有卓越贡献的个人，后者是颁给项目。今年推动奖得主是Ruby语言作者松本行弘，他参与GNU和Ruby等自由软件项目的时间超过20年。社区公益项目奖得主是GNU Health，该项目与全世界的医疗专业人士合作改善底层人士的生活，它被联合国大学采用，作为健康和医院信息系统使用。
+</i>
+➜慕尼黑换用Linux后节省4百万欧元
+https://www.solidot.org/story?sid=28936	7920
+慕尼黑市长乌德（Christian Ude）称，该市的IT设施自从Windows NT和Office迁移到Linux和OpenOffice后<a href="http://linux.slashdot.org/story/12/03/29/0025239/munich-has-saved-4m-so-far-after-switch-to-linux">节省了400万欧元</a>，与此同时每月的故障单数量从70减少到46。慕尼黑节省280万欧元的软件授权费，由于Linux与Windows 7相比硬件需求较低，因此又节省了120万欧元的硬件升级费用。
+➜Go Version 1发布
+https://www.solidot.org/story?sid=28937	10800
+Go语言的第一个版本<a href="http://golang.org/doc/go1.html">正式发布</a>。<i>
+Go Version 1，简写Go 1，定义了一种语言和一套核心库，为创造可靠的产品和项目提供了稳定基础。<a href="http://golang.org/doc/install">Go 1</a>支持Linux、FreeBSD、Mac OS X和Windows。发布公告称，除了极少的例外外，在Go 1版本的整个生命周期内编译的代码应能继续编译和运行，升级和bug修正如Go version 1.1和1.2不会构成影响。</i>
+➜GNOME 3.4发布
+https://www.solidot.org/story?sid=28938	11760
+GNOME桌面环境<a href="http://library.gnome.org/misc/release-notes/3.4/">发布了v3.4版</a>。GNOME每六个月发布一个版本。从上个版本3.2 版发布以来，有大约1275位贡献者的约41000项更改被合并到新版中，GNOME 3.6计划在9月发布。主要新变化包括：<i>
+新外观和新界面，浏览器Epiphany更名为 Web；改进联系人列表，更新密码和密钥工具；文档搜索，应用程序菜单，重新设计界面元素，平滑滚动，新的动画背景，改进系统设置，改进硬件支持；聊天程序Empathy支持视频呼叫和Live Messenger；等等。软件方面的其它更新包括：GLib 2.32，GTK+ 3.4，Clutter 1.10，DConf，等。</i>
+➜机器人能跳十米高
+https://www.solidot.org/story?sid=28939	16800
+波士顿动力（Boston Dynamics）<a href="http://spectrum.ieee.org/automaton/robotics/military-robots/boston-dynamics-sand-flea-demonstrates-astonishing-jumping-skills">开发出跳跃机器人</a>Sand Flea，该公司公开了一则<a href="http://www.youtube.com/watch?v=6b4ZZQkcNEo">视频</a>(YouTube)展示了小机器人惊人的跳跃和平衡能力。Sand Flea能毫无困难的跳过10米障碍物，如从地面跳到10米高的楼顶或山顶上。机器人设计用于阿富汗战场，跳过墙壁，然后跳回来，同时从空中拍摄和发送回视频。
+➜运行新《模拟城市》将需要联网
+https://www.solidot.org/story?sid=28940	18000
+将于2013年发布的新一代《模拟城市》将首次在该系列引入了在线游戏模拟，多位玩家可以共同创造一个彼此互相影响的城市群。EA<a href="http://pc.gamespy.com/pc/sim-city-5/1221798p1.html">证实</a>，游戏可通过不同的数字游戏商店下载，不限于Origin。但玩家必须注册Origin帐号，游戏启动时候必须联网，但之后如果网络连接断开玩家不会被踢出。之前媒体称要始终联网的说法并不正确。
+➜Eclipse准备发布基于浏览器的IDE
+https://www.solidot.org/story?sid=28941	19500
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "据Infoworld<a href="http://www.infoworld.com/d/application-development/eclipse-readies-browser-based-ide-189400">报道</a>（<a href="http://blog.jobbole.com/16318/">中文</a>），Eclipse基金会将在今年7月发布Orion 1.0 版，Orion 是用于开发Web应用的基于浏览器的集成开发环境（IDE）。在本周于弗吉尼亚州雷斯顿举办的 EclipseCon 2012 大会上也将讨论这个话题。另外，今年6月份的Eclipse年度发布上将推出代号为Kemper的Eclipse新版本。与桌面版不同的是，Orion 主要设计用于HTML和JavaScript开发。"</i>
+➜Red Hat年收入超过11亿美元
+https://www.solidot.org/story?sid=28942	19920
+Red Hat<a href="http://www.businesswire.com/news/home/20120328006414/en/Red-Hat-Reports-Fourth-Quarter-Fiscal-Year">宣布</a>，截至2月29日的2011财年收入<a href="http://arstechnica.com/business/news/2012/03/red-hat-hits-a-billion-dollars-in-revenue-a-milestone-for-open-source.ars">跨过10亿美元大关</a>，达到11.3亿美元。它成为第一家突破10亿美元的开源软件供应商。它的第四季度收入为2.97亿美元，与上一年相比增长21%。2011年Red Hat的软件付费收入9.656亿美元，培训和服务收入1.466亿美元。
+➜利用Google和进取心寻找明星未公开的裸照
+https://www.solidot.org/story?sid=28943	24600
+2010年11月13日，34岁的佛罗里达居民Christopher Chaney<a href="http://arstechnica.com/tech-policy/news/2012/03/hacking-scarlett-johanssonand-50-other-celebsusing-google-and-gumption.ars">想搜寻明星未公开的裸照</a>。他从一个法庭文档上知道了好莱坞著名手包设计师西蒙娜·哈露什 (Simone Harouche)的电邮帐号，但不知道密码。他利用从网上搜索到的邮箱安全问题答案，联系苹果的电邮服务，重置了密码。他将哈露什收件箱的邮件全部转发到专门为此目的建立的雅虎邮箱。在哈露什恢复帐号控制后，她并没有立即注意到帐号设置被人动了手脚。哈露什在好莱坞交友甚广，通过她的联系人列表，他找到了克里斯蒂娜·阿奎莱拉(Christina Aguilera)的邮件地址，在尝试获得密码失败后，他模仿哈露什向阿奎莱拉索要穿衣很少的照片，结果阿奎莱拉真的给了他照片，随后立即被上传到网上。利用类似方法，他入侵了50多名明星的电邮，其中包括米娜·古妮丝和斯嘉丽·约翰逊，他登录斯嘉丽的帐号，要朋友发回私照的副本，他收到了多幅裸照，这些照片都在互联网上传播。当事情越闹越大，他才注意要隐藏IP地址，但为时已晚。当FBI拿着搜查令搜查时，他承认了所有罪行。他受到了多项罪行指控，面临最高60年徒刑。
+➜S+M Vs.SPDY：微软Google竞争HTTP 2.0
+https://www.solidot.org/story?sid=28944	30000
+WWW文件基本传输协议HTTP在经过13年的停滞后终于要从1.1跨越到2.0了。长期以来，Google的SPDY协议被认为是HTTP 2.0唯一可行选择，但软件巨人<a href="http://tech.slashdot.org/story/12/03/29/0246202/sm-vs-spdy-microsoft-and-google-battle-over-http-20">提出了一项竞争性协议</a>。微软提议的名字听起来可能会产生歧义——它提出了<a href="http://blogs.msdn.com/b/interoperability/archive/2012/03/26/speed-and-mobility-an-approach-for-http-2-0-to-make-mobile-apps-and-the-web-faster.aspx">HTTP Speed+Mobility</a>，缩写HTTP S+M。MS的S+M类似SPDY，但增加了额外功能去迎合应用程序和移动设备。微软的S+M相当于非暴力版的SPDY，在SPDY协议下，服务器将推送、加密和压缩全都内置于SPDY中，但微软以低功率设备为例，称应该让它们成为一种可选的扩展。微软说，HTTP 2.0应该对移动友好，帮助减少移动电力消耗。
+➜Google推出个性化分析报告“帐户活动”
+https://www.solidot.org/story?sid=28945	31320
+Google官方博客<a href="http://googleblog.blogspot.com/2012/03/giving-you-more-insight-into-your.html">宣布</a>了“<a href="https://www.google.com/settings/activity/signup/?hl=zh-CN">帐户活动</a>”服务，向用户提供在多个 Google产品上的每月活动摘要。例如，发送和接收了多少封电子邮件、在 Google 上进行搜索的频率、在哪些国家/地区登录过以及其他用户观看您的YouTube视频的频率，等等。帐户活动报告会按月收集并汇总数据，从数据源（如网络历史记录）中删除数据不会影响已发布的报告，用户可以随时删除报告。Google称，这项服务可以帮助用户加强帐号安全，发现异常活动。
+➜中国人买纸iPad祭祖
+https://www.solidot.org/story?sid=28946	31920
+法新社<a href="http://www.physorg.com/news/2012-03-chinese-paper-ipads-ancestor-worship.html">报导</a>（<a href="http://www.google.com/hostednews/afp/article/ALeqM5hGeTJEljV2LBQFBtyalNuqOry8WQ?docId=int0009.120329012005">中文</a>），清明节脚步已近，家家户户正准备祭祖，没想到祭品也与时俱进，纸扎的iPhone和iPad，在中国大陆成了热销商品。根据传统，纸扎物品可让祖先在另一个世界享用。因此，在大陆广受欢迎的iPhone和iPad，其纸扎品也十分流行。出售相关商品的商家表示，包括运费在内，1台纸扎iPad要价538元人民币，而1台纸扎iPhone则是大约22元人民币。
+➜银河系可能有千亿颗地球大小的行星
+https://www.solidot.org/story?sid=28947	33840
+欧洲南方天文台（ESO）的天文学家<a href="http://www.eso.org/sci/facilities/lasilla/instruments/harps/index.html">估计</a>，银河系40%的红矮星有地球大小的行星。红矮星比太阳小，温度也比太阳低，是最常见的恒星，80%的银河系恒星属于红矮星。这项研究意味着银河系可能有<a href="http://www.wired.com/wiredscience/2012/03/ten-billion-earths/">千亿颗地球大小的行星</a>。ESO的HARPS行星搜寻望远镜在六年时间内调查了102颗临近的红矮星，他们发现了<a href="http://arxiv.org/abs/1111.5019">9颗1倍到10倍质量的行星</a>，其中两颗位于适宜居住地区，其表面温度可能适合液态水存在。研究还发现，木星大小的行星比岩石行星更罕见。
+➜至今最全面的面部移植手术
+https://www.solidot.org/story?sid=28948	35400
+马里兰大学医学院<a href="http://www.sciencedaily.com/releases/2012/03/120327124904.htm">完成了至今最全面的面部移植手术</a>，包括了下颌、牙齿和舌头。超过150名医生和护士参与了这次长达36小时的手术。<i>
+匿名捐赠者除了捐赠面部外，还向另外五人捐赠器官，医生们在两天内完成了4次移植手术。面部移植的接受者是37岁的Richard Lee Norris，他于1997年在一次枪击事故中受伤。自此以后，他接受了多次攸关生命的整形手术。枪击事故让Norris失去了嘴唇和鼻子，嘴巴的移动能力也受损。
+</i>
+➜盲人测试Google的自主驾驶汽车
+https://www.solidot.org/story?sid=28949	37800
+一月底的某一天，Steve Mahan坐在方向盘后驾驶汽车在加州小镇Morgan Hill<a href="http://www.youtube.com/watch?v=peDy2st2XpQ&amp;feature=youtu.be">附近兜风</a>(YouTube)，期间甚至购物消费了一番。不同寻常之处，他的眼睛95%失明，他的座骑是Google的丰田普锐斯自主驾驶汽车。Mahan是圣克拉拉谷（Santa Clara Valley）盲人中心的负责人，他表示这段驾驶经历美妙无比。Google<a href="https://plus.google.com/u/0/116899029375914044550/posts/MVZBmrnzDio">表示</a>，该公司的自主驾驶汽车测试里程已经超过20万英里，它对驾驶系统有足够的信心，相信盲人如Mahan也能安全掌舵。
+➜美国政府问责局从中国购买到山寨潜艇零件
+https://www.solidot.org/story?sid=28950	39240
+参议院军事委员会去年发现美国军方的武器系统包含了大量<a href="__SLASHLINK__" sect="hardware" sid="11/11/08/0558244" sn="article" tid="121">来自中国的劣质山寨品</a>。为了调查中国政府有没有采取行动打击假冒伪劣产品，美国议员要求政府问责局(GAO)尝试从中国公司购买武器零部件。GAO设立的影子公司发出了购买F-15鹰式战斗机、MV-22鱼鹰和两艘核潜艇全新零部件的请求，<a href="http://defensetech.org/2012/03/28/gao-buys-fake-submarine-parts-from-china/">结果可想而知</a>，396家供应商中有334家来自中国，最终购买的16个零件有13个来自中国的供应商，独立实验室测试显示所有零件全是假冒。自2009年以来，美国共发现了超过一百万来自中国的假冒武器零部件。最新的调查显示，中国尚未对此采取行动。

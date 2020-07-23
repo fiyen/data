@@ -1,0 +1,83 @@
+➜Ubuntu 10.04 LTS (Lucid Lynx)正式发布
+https://www.solidot.org/story?sid=17600	1500
+<a href="mailto:ekeyme@gmail.com">ekeyme</a> 写道 "虽然之前有听说ubuntu 10.04 因为<a href="http://www.h-online.com/open/news/item/Ubuntu-10-04-LTS-delayed-by-last-minute-GRUB-bug-990277.html">GRUB bug</a>的问题，推延的正式发布的时间。今早起来，终于在<a href="http://www.apple.com/hotnews/thoughts-on-flash/">官网</a>上看到了Ubuntu正式版的发布。最终ubuntu 10.04 没有由于时差问题变成 10.05。"
+<i>
+<a href="http://www.linuxidc.com/Linux/2010-04/25805.htm">LinuxIDC.com</a> 写道 "Ubuntu 10.04是Ubuntu系列最新的LTS版本，Ubuntu每隔2年会发布一个长周期支持的版本，也就是LTS版本，该版本的桌面版本的支持周期是2年，而服务器版本的支持会有此年之久。者对于服务器应用来说是至关重要的，因为享受 Ubuntu提供的安全和服务更新对于各种安全漏洞和问题都有很好的解决。而Ubuntu 10.04本身也做了很大的改动，包括更快的启动速度，更炫的桌面系统等等，Ubuntu 10.04绝对是Ubuntu用的首选。如果您准备使用Linux操作系统或者准备使用Ubuntu,那建议您下载最新的Ubuntu 10.04。原来发现的重大问题：当新用户第一次安装了Ubuntu，然后突然发现Windows XP 就不见了（指程序加载器 GRUB2 里面没有 XP 入口，毫无疑问，这是 GRUB2 程序加载器的一个大 Bug ）。请见： 4 月 29 日 Michael Larabel 文章“<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=ODE5Ng">Ubuntu 10.04 Hit By Major Bug; ISOs Now Being Re-Spun</a>（重新打包）”。 ”4月30日凌晨发现：Ubuntu 官方网站发布公告，Ubuntu 10.04 仍然按时发布，启动 Bug 解决了。公告说：“ It's time for a change. Your computer can be better – It can be faster, fun and easier to use.” 其实，这句话就是我现在所想说的心里话，尤其是“ It's time for a change” （现在是发生改变的时间了）这句话。
+</i>
+Ubuntu 10.04正式版官方<a href="http://releases.ubuntu.com/lucid/">下载地址</a>。"
+➜人体的12个极限
+https://www.solidot.org/story?sid=17601	3600
+<a href="http://yi-it.com/blog/">man.vs.superman</a> 写道 "据英国<a href="http://www.newscientist.com/special/maxed-out-testing-humans-to-destruction">《新科学家》</a>杂志我们拥有向人类极限挑战并创造纪录的无法抑制的渴望。然而，我们在心理和生理上距离最终极限又有多远呢？<a href="http://tech.sina.com.cn/d/2010-04-30/08074132267.shtml">这篇文章</a>回答了下面一系列问题：           <ul>
+<li>1. 人类的速度极限是多少？</li>
+<li>2.人类的注意力能坚持多长时间？</li>
+<li>3.人在真空状态下能活多久？</li>
+<li>4.人类究竟能记住多少东西？</li>
+<li>5.人类能忍受多低的温度？　　</li>
+<li>6.不吃不喝能活多久？</li>
+<li>7.人类不睡觉能坚持多久？</li>
+<li>8.普通人能承受多大重力加速度？</li>
+<li>9.人类究竟可以登上多高的地方？</li>
+<li>10.人类最多能够举起多大的重量？</li>
+<li>11.人体最多能够承受多强的辐射？</li>
+<li>12.人类闭气最长能闭多长时间？</li>
+</ul>
+➜24款最热门免费Linux游戏
+https://www.solidot.org/story?sid=17602	5100
+<a href="mailto:janraven12@o2.com">Jan Raven</a> 写道 "如果Linux要进一步拓展桌面市场份额，它需要在所有领域能与Windows竞争。普通电脑用户通常只需要一个简单操作系统完成他们的工作，上网，与家人和朋友联系，以及找乐。尽管电脑游戏面临来自游戏主机的愈来愈大的挑战，但电脑游戏永远不会消失。.linuxlinks的这篇文章列出了<a href="http://www.linuxlinks.com/article/20100425112203997/ExtraHotGames.html">24款热门免费的Linux游戏</a>，第一部分列出了8款，包括：<i>
+基于浏览器的射击游戏<a href="http://www.quakelive.com/">Quake Live</a>；2D即时战略模拟游戏<a href="http://www.unknown-horizons.org/">Unknown Horizons</a>；类似《创世纪》的在线冒险游戏<a href="http://stendhalgame.org/">Stendhal</a>；摩托车体育竞技游戏<a href="http://speed-dreams.sourceforge.net/">Speed Dreams</a>；以斯大林统治的苏联为背景的即时战略游戏<a href="http://commanderstalin.sourceforge.net/">Commander Stalin</a>；基于Marathon 2的第一人称射击游戏<a href="http://source.bungie.org/">Marathon: Aleph One</a>等"</i>
+➜Facebook发布新开源项目Flashcache
+https://www.solidot.org/story?sid=17603	7920
+Facebook<a href="http://www.facebook.com/note.php?note_id=388112370932">发布</a>了通过将数据缓存在SSD硬盘加速MySQL的 <a href="http://lwn.net/Articles/385442/">内核模块Flashcache</a>。<a href="http://github.com/facebook/flashcache">代码</a>已经放到Github上，目前只测试了Linux kernel版本2.6.18和2.6.20。<i>
+Facebook称，Flashcache是其内部开发用于帮助扩展InnoDB/MySQL数据库，但同时Flashcache也是作为一个通用的缓存模块设计的，因此能用在任何搭建在块设备之上的应用程序。对于InnoDB，当工作集不与InnoDB缓冲池一致，由于更多的工作集缓存在快速的媒介如固态硬盘上，将能显著的改进读取延迟。</i>
+➜印度bangalore自由软件年会II
+https://www.solidot.org/story?sid=17604	9360
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "继续上次的报道：<a href="__SLASHLINK__" sect="opensource" sid="10/03/27/0153254" sn="article" tid="44">印度bangalore自由软件年会</a>后，<a href="http://my-monde.blogspot.com/">Mythreya Goparaju</a>开始谈到如何在教育平台上更好的使用自由软件对年轻人进行教育，Mythreya认为我们必须使用自由软件建立一种教育平台，这可以为小朋友提供一种更接近于社区的选择，他认为有几件很重要的事情需要去做：<i>
+- 整合现有的自由软件资源<br>
+- 通过发起适合学生难度的自由软件项目从而提升学生的编程能力<br>
+- 在学校努力推行无纸化教学模式</i>
+现有的教学中的资源里，<a href="http://itschool.gov.in/initiatives.php">itschool</a>目前已经尝试在物理，化学和数学等学科上使用计算机软件和web来进行学习，当然还有<a href="http://www.sugarlabs.org/">sugarlabs</a>专门为<a href="http://laptop.org/">OPLC</a>(为每个第3世界地区的小朋友提供一台laptop)提供的教育平台。
+btw:建立开放教育系统已经迫在眉睫，如果您问一个犹太人：家庭教育，社会教育，学校教育，如果您只能选择一项您会选什么？他的回答肯定是家庭教育。而目前我们的情况是学校教育非常糟糕，社会教育没有，家庭教育是唯一可以为下一代提供良好教育的领域。开放教育系统可以在一定程度上支持家庭教育，前提是父母重视这一块。"
+➜干净的天空加速全球变暖
+https://www.solidot.org/story?sid=17605	11280
+科学家估计，自1980年以来，美国清洁空气法减少了30%到50%的主要空气污染物硫酸盐气溶胶，大幅减少了哮喘和其它呼吸系统疾病的病例。但也有人指出清洁的空气<a href="http://www.npr.org/templates/story/story.php?storyId=126226938&amp;ft=1&amp;f=1007">实际上会加速全球变暖</a>。<i>
+释放到空气中的污染颗粒如硫酸盐气溶胶对维持地球的温度具有深远影响。气溶胶污染物与温室气体对全球气候的作用正好相反，温室气体会增加全球的温度，因为它们能从地面吸收热量；而气溶胶则能反射阳光，实际上能冷却气温。问题是人类清洁空气时清除的是起冷却作用的污染物。如果没有气溶胶的抵消作用，研究人员相信人类排放出的二氧化碳等温室气体能让地球温度上升4度（华氏），但实际上全球温度自1940年代以来只上升了一点点。</i>
+➜Google香港地图用音译翻译地名
+https://www.solidot.org/story?sid=17606	19200
+听说过“萨恩亚特锡恩纪念公园”、“切克拉普科克艾尔波特”、“考论蔡.或柴公园”、“北珀里米特尔路”、“塞伊班德孔西康特利帕尔克”吗？它们都在香港，但香港人恐怕对这些简体中文地名摸不着头脑。<i>
+在<a href="http://ditu.google.cn/maps">谷歌地图</a>中点击香港地图时你会在看到上面这些千奇百怪的名字。Google请mapabc.com代它完成香港地图的简体本地化工作，结果这家公司却令人惊讶的用音译翻译所有英文地名，<a href="http://yuuji.wordpress.com/2010/04/24/googlemaptranscrip/">把你带入了一个魔幻王国</a>。切克拉普科克艾尔波特其实就是香港国际机场——Chap = 切克+ Lap = 拉普+ Kok =科克+ Airport = 艾尔波特。北珀里米特尔路=North Perimeter Road，是机场岛北部边缘走的北环路；塞伊班德孔西康特利帕尔克(湾蔡，或柴伊克斯腾申)=Kung West Country Park(Wan Tsai Extension)，是西贡西郊野公园(湾仔扩展部分)...</i>
+➜中国官方网站指责百度传播色情
+https://www.solidot.org/story?sid=17607	20520
+中国官方网站人民网再次指责百度传播色情，<a href="http://it.people.com.cn/GB/42891/42894/11491723.html">称百度空间、贴吧仍存在大量日本色情漫画</a>，图片搜索也很容易查找到色情信息。文章提到的<a href="http://image.baidu.com/i?ct=201326592&amp;cl=2&amp;lm=-1&amp;tn=baiduimage&amp;pv=&amp;z=0&amp;word=%C8%D5%B1%BEbl%CD%AC%C8%CB%C2%FE%BB%ADh&amp;s=0">部分搜索关键词</a>已被百度自行净化。
+➜暴雪发布《星际争霸2》测试版的Mac客户端
+https://www.solidot.org/story?sid=17608	22560
+暴雪发布了即时战略游戏《星际争霸2》测试版的<a href="http://www.giantbomb.com/news/the-starcraft-ii-beta-is-out-for-mac/1972/">Mac版客户端</a>。如果你已经参与了beta测试，进入<a href="http://battle.net/">Battle.net</a>帐号就可以找到客户端下载页。测试显示，08年之后的iMac或MacBook新苹果电脑应该都能正常游戏。
+➜澳大利亚政府推迟互联网过滤立法
+https://www.solidot.org/story?sid=17609	24120
+澳大利亚政府看来已经推迟了<a href="http://yro.slashdot.org/story/10/04/30/0048257/Australian-Government-Delays-Internet-Filter-Legislation">备受争议的互联网过滤立法</a>。这项法律将不会在未来两个月的议会开庭期间提出，意味着它的立法将延期到下一次澳大利亚政府选举之后。<i>
+澳大利亚工党政府在上次选举之前曾经承诺，将强制性的要求ISP屏蔽访问非法内容，如儿童色情或X分级图像。但美国政府、搜索巨人Google和言论自由的支持者认为审查互联网的任何措施都会减慢网速，阻碍信息的自由流通，而且并没有什么效力。澳大利亚通讯部的发言人称，政府并没有因这些批评而退步。</i>
+➜Opera紧急推出修复漏洞的10.53版
+https://www.solidot.org/story?sid=17610	26100
+<a href="http://bbs.operachina.com/">Opera</a> 写道 "Opera 是世界上最安全的浏览器之一，始终将安全性作为首要考量，在 Opera 10.52 正式版发布仅三天后我们又发布了 Opera 10.53，正式为了修复一个最初在 webkit 中发现的安全漏洞，强烈建议所有用户更新至最新版，以避免受到安全漏洞的影响（<a href="http://bbs.operachina.com/download/file.php?id=37200">立刻下载 Opera 10.53 中国版</a>，<a href="http://www.opera.com/download/?os=mac&amp;ver=10.53">下载 Opera 10.53 for Mac</a>）。重要更新：修复多个异步页面修改操作可能被用于执行任意代码的问题，查看<a href="http://www.opera.com/support/search/view/953/">我们的建议</a>。           关注我们：<br> <ul> <li> <a href="http://t.163.com/Opera">网易微博</a> </li> <li> <a href="http://t.sina.com.cn/operachina/">新浪微博</a> </li> <li> <a href="http://t.qq.com/operabrowser">腾讯微博</a> </li> <li> <a href="http://twitter.com/opera">Twitter</a> </li> <li> <a href="http://u.youku.com/OperaChina">优酷视频</a> </li> </ul>"
+➜NASA太空气球在澳大利亚撞上汽车
+https://www.solidot.org/story?sid=17611	28800
+一个价值数百万美元的科学探空气球<a href="http://www.abc.net.au/news/stories/2010/04/29/2885563.htm?section=justin">在澳大利亚Alice Springs机场释放时坠毁</a>，搭载的科学仪器完全破坏，期间还掀翻了一辆汽车，让一群仰望太空的观察者落荒而逃。<i>
+气球计划在上午8点升空，当时的天气情况良好，但不幸的事情发生了，气球所携带的一个很重的科学仪器载荷未能被拉上天，而是掉在地上，并被气球拖着向一方滚动，正好有一辆汽车停在滚动的路线上，结果被掀倒在一边，最后设备舱重重的摔在地上，碎成了数千块。被掀翻的汽车里坐着一对前来观看气球升空的老年夫妇，他们后来回忆说当时以为自己死定了。项目负责人Ravi Sood教授称没有人在这一事件中受伤。</i>
+<a href="http://www.abc.net.au/news/video/2010/04/29/2885724.htm">视频</a>
+➜IE9的HTML5视频只支持H264编码
+https://www.solidot.org/story?sid=17612	32160
+微软官方的IEBlog<a href="http://blogs.msdn.com/ie/archive/2010/04/29/html5-video.aspx">宣布</a>，下一代IE浏览器的HTML5视频实现<a href="http://www.osnews.com/story/23229/IE9_HTML5_Video_Will_Be_H264_Only">将只支持H264编码</a>。<i>
+微软表示HTML5是Web的未来，H.264是一个极好的视频格式，是行业标准，硬件支持广泛。因为标准化，消费者可以很容易将摄像机拍摄的视频传到互联网上，在任何支持H.264的操作系统或设备的浏览器上播放。因此出于上述种种理由，微软决定IE9的HTML5视频将支持H264。微软也提到了其它的开源视频格式，并说了一句有点绕口的话：源代码可用性和现成源代码的知识产权拥有者之间存在重大差异。开源视频格式的所有权者不明确，而H264视频格式的所有权却很清晰。Osnews认为这是FUD（恐惧、不确定、怀疑）言论。</i>
+➜免费派发Ubuntu 10.04光盘计划
+https://www.solidot.org/story?sid=17613	33480
+<a href="mailto:chinakr@gmail.com">chinakr</a> 写道 "Ubuntu的长期支持版本<a href="__SLASHLINK__" sect="linux" sid="10/04/30/0029212" sn="article" tid="111">Ubuntu 10.04 LTS</a>于2010年4月30日正式发布。Ubuntu 10.04是继Ubuntu 6.06和Ubuntu 8.04之后的第三个LTS版本。Ubuntu官方为LTS的桌面版本提供长达3年的支持，为服务器版本提供长达5年的支持。Ubuntu LTS是将Linux大规模应用于生产力环境的不错选择。           清北Linux光盘计划<br> <br>清北DIY俱乐部成立于2002年，由清华北大在校学生创立，致力于提供高品质的电脑产品和相关服务。为了推动开源软件事业在中国的普及和发展，清北从 2006年开始向北京高校派发免费的Linux系统光盘，目前已经进行了Ubuntu 6.06、Ubuntu 7.10、Ubuntu 8.04、Ubuntu 8.10、Ubuntu 9.04和Ubuntu 9.10六次大规模的光盘派发活动。<br> <br>我们的Ubuntu光盘免费派发活动将不间断地持续下去，希望更多的朋友能够借由这个活动认识、了解和使用Ubuntu，进而开始喜爱和热爱开源、自由、免费、强大、易用的Linux桌面操作系统。大家的参与，将使得社区更为强大，发展更为迅速，我们的明天会更好！<br> <br>本次发放以Ubuntu 10.04 Desktop i386 CD为主，同时也将根据大家的需求，提供一定数量的：<br>Ubuntu 10.04 Desktop AMD64 CD<br>Ubuntu 10.04 Server i386 CD<br>Ubuntu 10.04 Server AMD64 CD<br> <br>清北Linux光盘计划志愿者总负责人：<br>北京清北创业科技有限公司 叶炜<br>Gtalk: chinakr@gmail.com<br> <br>清北Linux光盘计划华北地区志愿者负责人：<br>清华大学 工程物理系 王康<br>Gtalk: scateu@gmail.com<br> <br>清北Linux光盘计划华东地区志愿者负责人：<br>南京信息工程大学 雷电防护科学与技术专业 潘以周<br>Gtalk: william112113005@gmail.com<br> <br>清北Linux光盘计划西北地区志愿者负责人：<br>西安市边家村友谊西路  百湖<br>Gtalk: lvsheat@gmail.com<br> <br>清北Linux光盘计划中南地区志愿者负责人：<br>深圳市南山区桃源村  苏文<br>Gtalk: wangfengyinglong@gmail.com<br> <br>其它地区志愿者负责人的联系方式稍候将陆续更新。<br> <br>请您在网上提前预约，在得到志愿者确认后即可线下领取。每个爱好者可以领取1～2套光盘(预约时请注明)。请您在预约后的一周内领取光盘，过期我们将取消预约，以保证派发工作的有序进行，减少无谓的浪费。<br> <br>如果您需要快递服务，并且愿意支付快递费用，可以直接和所在地区或附近地区的志愿者联系光盘快递事宜。<br> <br>在您拿到并且用上Ubuntu免费光盘之后，希望您能够把您的使用经历和感受用快活的文字写下来，把它们发表在您的博客上，或者发表在清北Linux光盘计划的讨论区里。这种切身的体会和真情流露的文字，会具有特别的感染力，也是开源软件普及和发展必不可少的人文要素。希望您也能够做出您力所能及的贡献！<br> <br>Ubuntu免费光盘预约登记：<br> <a href="http://shop.quickbest.com.cn/category-358-b0.html">http://shop.quickbest.com.cn/category-358-b0.html</a> <br>注：我们将在5月15日后正式开始光盘发放，请您耐心等待。<br> <br>地区志愿者负责人和地区志愿者申请请回复本帖，并请注明你所在的单位：<br> <a href="http://bbs.quickbest.com.cn/thread-93390-1-1.html">http://bbs.quickbest.com.cn/thread-93390-1-1.html</a> <br>注：如果您准备申请地区志愿者负责人，请您联系华北地区和华东地区志愿者负责人，这次地区志愿者负责人的审核工作将由他们共同负责。如果有愿意赞助清北 Linux光盘计划的朋友，也请和他们联系。地区志愿者负责人需要负责本地区志愿者的招募、联系和协调，本地区Ubuntu光盘的刻录和发放工作也是由地区志愿者负责人负责的。清北DIY俱乐部将为地区志愿者负责人提供刻录光驱和刻录光盘。虽然数量有限，但我们希望开源的星星之火，可以燎原！<br> <br>在国内推广Linux和开源软件是一件困难但是意义深远的事情，它可以帮助我们的国家、我们的同胞更好地分享信息化带来的成果，自立自强，从而过上更好的生活。而你的参与将是这一历史壮举的最好见证！让我们一起来努力！<br> <br>附：<br>“清北Linux光盘计划”讨论区<br> <a href="http://quickbest.com.cn/discuz/forum-53-1.html">http://quickbest.com.cn/discuz/forum-53-1.html</a> <br> <br>Ubuntu中文维基<br> <a href="http://wiki.ubuntu.org.cn/">http://wiki.ubuntu.org.cn/</a> <br> <br>Ubuntu中文论坛<br> <a href="http://forum.ubuntu.org.cn/">http://forum.ubuntu.org.cn/</a> <br> <br>Ubuntu Tweak(Ubuntu中文软件安装和系统快速设置)<br> <a href="http://ubuntu-tweak.com/">http://ubuntu-tweak.com/</a> <br> <br>文泉驿计划(开源免费高质量的中文字体)<br> <a href="http://wenq.org/">http://wenq.org/</a> <br> <br>iBus 中文输入法(智能拼音、五笔，Linux上最先进中文输入法平台)<br> <a href="http://code.google.com/p/ibus/">http://code.google.com/p/ibus/</a> <br> <br>Ubuntu 之外的优秀的Linux桌面操作系统还有很多，比如Gentoo、Arch Linux、Fedora<br> <a href="http://www.gentoo.org/">http://www.gentoo.org/</a> <br> <a href="http://wiki.archlinux.org/">http://wiki.archlinux.org/</a> <br> <a href="http://fedoraproject.org/">http://fedoraproject.org/</a> <br> <br>重要提示：<br>清北Linux光盘计划提供的Ubuntu光盘均是由清北DIY俱乐部、地区志愿者负责人和地区志愿者出资购买空白光盘，自己下载ISO镜像文件，自行刻录，而不是Ubuntu官方光盘发放计划提供的光盘。清北Linux光盘计划的Ubuntu光盘均无偿提供，您可以直接联系当地志愿者领取。请大家珍惜有限的资源，让每一张光盘、每一分钱、每一个志愿者的努力都能发挥出应有的价值，谢谢！"
+➜Tor不宜Bittorrent
+https://www.solidot.org/story?sid=17614	34800
+由于某些国家禁止居民通过P2P下载版权内容，因此这些国家的用户设置Bittorrent客户端，通过Tor代理接收和发送tracker流量。Tor官方就此作出说明，称<a href="https://blog.torproject.org/bittorrent-over-tor">这不是一个好主意</a>。<i>
+原因之一是这种方法不能隐藏个人IP，流行的BT客户端如uTorrent会忽略代理设置，现在的tracker是设计使用UDP协议通讯，而Tor只支持TCP协议。更糟的是，uTorrent、BitSpirit、libTorrent在一些情况下会将用户的IP地址直接写入信息发送到tracker或其他P2P用户。利用Tor进行BT下载会更容易暴露自己的真实IP，Bittorrent应用程序所实现的Bittorrent协议，会随机选择一个端口进行监听，因此tracker和其他P2P用户会收到你的随机端口和真实IP（基于上面的解释）。还有一个原因是Tor无法处理如此高的负载。Tor官方建议不要在Tor上运行Bittorrent。</i>
+➜中国要求设备源代码，印度禁止进口中国产电信设备
+https://www.solidot.org/story?sid=17615	38160
+The Register<a href="http://www.theregister.co.uk/2010/04/29/china_security_know_how_rules/">报道</a>，北京将迫使向中国政府出售设备的供应商提供加密算法的源代码。这项政策将适用于六种设备，包括智能卡、防火墙和路由器。欧盟官员形容这一行动是保护主义和商业冒险。<i>
+《金融时报》<a href="http://www.ftchinese.com/story/001032430">报道</a>，印度电信部本周致总理办公室的信函中写道，“出于安全考虑，我们不建议从中国电信设备制造商采购设备。因此，电信服务提供商提交的采购中国产设备的提案将被拒绝。”由于担心中国政府会在网络中植入间谍设备，印度政府一直被指阻碍部分中国电信设备的进口。另据《华尔街日报》<a href="http://www.ftchinese.com/story/001032430">报道</a>，印度电信部驳斥了相关的媒体报导，表示印度并未正式禁止从中国进口电信设备。不过，一位电信委员会技术委员透露，所有电信运营商从中国进口的电信设备必须接受印度相关部门的安全审查。</i>
+➜Opera停止支持Solaris
+https://www.solidot.org/story?sid=17616	39600
+Opera<a href="http://my.opera.com/desktopteam/blog/2010/04/29/the-setting-sun">宣布</a>，为了保证Opera浏览器在最流行桌面平台上的品质，他们决定放弃支持Solaris，让UNIX开发团队集中精力在Opera for Linux和FreeBSD上，这意味着10.5x系列的Linux和FreeBSD版本的发布将加快速度并保证质量。

@@ -1,0 +1,133 @@
+➜Kernel 2.6.31将给Linux桌面提速
+https://www.solidot.org/story?sid=13483	60
+8月27日，Linux 2.6.31-rc8<a href="http://lkml.org/lkml/2009/8/27/386">发布</a>（Linus称这应该是最后一个rc版，但9月5日他又发布了<a href="http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=summary">rc9</a>），Linux社区正在等待新kernel版本的发布。<i>
+在2.6.31中，内核黑客们改进了内存管理功能，高内存压力下的<a href="http://linux.slashdot.org/story/09/09/05/161230/Kernel-2631-To-Speed-Up-Linux-Desktop?from=rss">X桌面响应速度翻了一番</a>，因此大大改进了桌面体验。对小内存桌面的基准测试显示，时钟时间和重要故障减少了50%，pswpin数字（从硬盘读入内存的数据量）减少了三分之一。2.6.31带来的<a href="http://kernelnewbies.org/Linux_2_6_31">另一个改进</a>是kernel mode-setting支持ATI Radeon显卡，实现了更快的用户切换和无缝的启动体验。改善Linux桌面体验的其它方面还包括支持新的USB 3.0规范，支持新的Firewire栈。即使是最微小的内核发布都带来许多让人称赞的新特性。</i>
+➜Uzbl——符合Unix哲学的浏览器
+https://www.solidot.org/story?sid=13484	1500
+所谓<a href="http://zh.wikipedia.org/wiki/Unix%E5%93%B2%E5%AD%A6">Unix哲学</a>是指“程序应该只关注一个目标，并尽可能把它做好。让程序能够互相协同工作。应该让程序处理文本数据流，因为这是一个通用的接口。”简而言之就是让程序专注于做好一件事，举例来说就是浏览器要完美的完成浏览的任务。但是有哪个<a href="http://linux.slashdot.org/story/09/09/05/2142235/Meet-Uzbl-mdash-a-Web-Browser-With-the-Unix-Philosophy?from=rss">浏览器符合Unix哲学呢</a>？<i>
+基于<a href="http://webkit.org/">WebKit</a>引擎的浏览器<a href="http://www.uzbl.org/">Uzbl</a>，WebKit已经百分之百通过了Acid3测试。Uzbl浏览器从开发伊始就以Unix哲学为宗旨，它的控制（默认）方式是类似vim的按键设置，与Firefox使用的<a href="http://vimperator.org/">Vimperator</a>区别不是很大。任务如 URL改变，加载/保存书签，保存历史和下载，处理外部脚本（虽然Uzbl还没有什么好的脚本可供使用）。它在平铺窗口管理器中工作良好，动态菜单dmenu的处理也几近完美。Uzbl的学习曲线有些高，但习惯之后就会得心应手。目前它只有alpha测试版，由Arch Linux社区开发者开发，也能<a href="http://blog.duwanis.com/past/2009/5/17/installing_uzbl_on_ubuntubased_distros/">在Ubuntu上工作</a>。</i>
+➜与老年痴呆症相关的新基因
+https://www.solidot.org/story?sid=13485	5760
+英法研究人员发现了<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8240000/newsid_8240900/8240905.stm">可能与阿尔茨海默症有关的三个基因</a>。过去唯一找到的和一年痴呆症有关的基因是APOE4。研究发表在最新出版的《<a href="http://www.nature.com/ng/journal/v41/n9/index.html">自然遗传学</a>》杂志上。
+<i>
+在最新的研究中，英法科学家对两万人的染色体样本进行了分析，发现了CR1、CLU和PICALM三个基因与阿尔茨海默症之间的关系。CLU和PICALM基因都有保护大脑的功能。研究人员说，如果基因有变异，不仅可能失去保护大脑的功能，甚至保护者还有可能成为"攻击者"。</i>
+➜Avastin悖论
+https://www.solidot.org/story?sid=13486	6900
+《MIT技术评论》上的一篇文章提到，现在的基因技术药物治疗效果因人而异，<a href="http://www.technologyreview.com/biomedicine/22979/">在一些病人身上的疗效要好于其他病人</a>(<a href="http://www.mittrchinese.com/zh/2009/0902/article_456.html">中文</a>)。<i>
+以Genentech公司开发的抗癌药物阿瓦斯丁（Avastin）为例，此种药物被用于治疗结肠癌、乳腺癌、肺癌和脑癌。对一些病人来说，阿瓦斯丁可以大大的延长他们的寿命，但在另外的病人身上它一点作用也不起。而阿瓦斯丁单个疗程的治疗费高达55000美元。肿瘤学家Eric P. Winer说：“问题是我们不知道怎么去鉴别阿瓦斯丁会对哪些病人有效。所以我们不得不在大样本的人群中测试阿瓦斯丁的效果。阿瓦斯丁通常与其它的化疗药物混合在一起配成鸡尾酒使用，配制过程中各成分比例的确定是基于科学、经验和实验的知识。社会要解决的最困难问题可能就是，我们愿意花费多大的代价去研究只对少数病人起作用的治疗方案。</i>
+➜李开复开办“创新工场”
+https://www.solidot.org/story?sid=13487	7500
+前微软、谷歌全球副总裁李开复与美国中经合集团、联想控股总裁柳传志、鸿海精密集团董事长郭台铭、新东方教育集团董事长俞敏洪、YouTube创始人陈士骏等人合作，创立了一家名为“<a href="http://www.innovation-works.com/">创新工场（innovation-works）</a>”的风险投资和顾问公司，培育并投资国内高科技领域的创业项目。<i>
+据《财经网》的<a href="http://www.caijing.com.cn/2009-09-07/110241335.html">报道</a>，李开复表示“创新工场”将在未来四到五年内投入8亿元，以扶持国内高科技领域的创业项目。目前前两年的资金已经到位。李开复称，他构想中的“创新工场”与风险投资最大的区别在于，在创业初期，他会全面参与，评估并培育项目成长，采用“教练加媒人”的办法，让创业团队能尽快成型，并迅速在市场上取得成功。李开复表示，不会投入搜索领域，他更看好国内移动互联网和电子商务的发展。根据“创新工场”网站介绍，“创新工场”关注的领域将包括互联网、移动互联网和信息技术行业。</i>
+➜绿坝与教育软件有冲突
+https://www.solidot.org/story?sid=13488	8700
+借着保护花季少年名义开发的<a href="http://www.google.com/search?query=%E7%BB%BF%E5%9D%9D&amp;as_sitesearch=solidot.org">绿坝花季护航软件</a>被使用者发现与教育软件存在冲突。<i>
+北京市第五十中学官方博客<a href="http://www.bj50.com/blog/?p=760">声称</a>，“由于“绿坝”软件与市教委要求使用的学籍管理、评价等软件存在严重冲突，为了保证学校日常教育、教学工作的顺利进行，近期我校内所有联网计算机终端将逐步卸载“绿坝”软件。”由于该软件是工业和信息化部投入4千多万巨资购买的，那么软件的缺陷到底该追究谁的责任？
+</i>
+另有未经证实的流言称，中国的数十所高校正在联手开发<a href="https://docs.google.com/View?id=dfs68nzf_171ctvnvwgr">新一代舆论控制系统</a>。
+➜新语言实现点对点手机数据传输
+https://www.solidot.org/story?sid=13489	12960
+《MIT技术评论》报道，移动通信一般都要经过手机发射塔、基站，偶尔还会通过无线网络，<a href="http://www.technologyreview.com/communications/23330/?a=f">现在研究人员希望能在手机之间实现P2P数据传输</a>，绕过移动运营商的网络。
+<i>
+P2P移动手机网络的正式名称是“pocket-switched networks”，它允许在手机发射塔因自然灾难而被毁的情况下，让受灾者通过手机向其他人传输信息；或者一群朋友可以在不使用网络的情况下组建饭局。计算机科学家相信这将开启新应用的大门。pocket-switched之类的技术与“星际间互联网”相似，属于可容忍延迟网络，其信息的传输是不连续的。pocket-switched网络由一群分散的设备组成，它们多数时间处于断开的状况。通信使用蓝牙或无线连接，通过手机持有者内容参数上的发布和订阅技术实现彼此互联。Intel伯克利研究实验室工程师Kevin Fall称，这项技术是基础设施不足情况下的方法。然而说来简单但技术上实现起来却相对困难，剑桥大学计算机科学教授<a href="http://www.cl.cam.ac.uk/~jac22/">Jon Crowcroft</a>领导的团队开发出名叫Data-Driven Declarative Networking (D3N) 的新语言，去简化程序开发工作。D3N允许程序去利用pocket-switched网络的固有特性，如异步通信和易于表达的查询。</i>
+➜IT市场上的10对冤家
+https://www.solidot.org/story?sid=13490	15060
+<a href="http://yi-it.com/blog/">yi-it</a> 写道<i> "<a href="http://uk.news.yahoo.com/16/20090905/ttc-top-10-technology-tussles-6315470.html">英国IT网站V3</a>日前评出了“<a href="http://tech.163.com/09/0907/08/5IJH901600093ARC.html">IT市场10对生死冤家</a>”：1. 微软和Netscape；2. 英特尔(博客)和AMD；3. Commodore和竞争对手；4. Salesforce和Seibel；5. IBM与政府管理者；6. SCO与Novell和IBM；7. 乔布斯和斯卡利；8. MacOS和Windows；9. IBM和Control Data Corporation(CDC)；10. 微软和谷歌。"</i>
+➜区别生命无需视觉经验
+https://www.solidot.org/story?sid=13492	20160
+盲人摸象的寓言表现出了没有视觉经验的人在建立生物概念时所面临的困境，但一个有意思的问题是：先天盲人是否能区分有生命与无生命的概念？最新的研究发现，<a href="http://www.sciscape.org/news_detail.php?news_id=2459">有、无生命的物体概念似乎不需要视觉经验</a>。<i>
+先前科学家推测，视觉经验的有无，以及在成长过程中利用图画或照片这些视觉信息作为学习材料的多寡，会影响到我们如何习得有生命和无生命的物体概念。然而，Caramazza的研究小组认为大脑皮质处理有、无生命的物体概念不一定需要视觉经验的形塑。他们验证这项假设的方法，是测试那些从来都没有看过颜色、线条和大小的先天盲人对于这两种类别物体的区辨能力。21位视力正常以及3位出生是盲人的义意大利成人受试者被找来进行功能核磁共振成像。正常人分别进行听觉与视觉的区辨任务：按键判断听到的物体名称和看到的图片有无生命，而盲人则进行听觉的区辨任务.....令人惊讶的是，盲人在听觉区辨任务和正常人的视觉区辨结果一样....盲人虽然无法实际经验到世界的色彩，但是借由听觉、触觉和嗅觉的感官经验，大脑神经元的可塑性仍然帮助他们学习到相同的物体概念和丰富的语意知识。</i>
+➜开复的"创新工场"遭到攻击
+https://www.solidot.org/story?sid=13491	21300
+<a href="mailto:yalewhd@gmail.com">yalewhd</a> 写道 "今天早上看到开复的“创新工场”(http://www.innovation-works.com/)上线，习惯性的尝试用nmap扫描一下主机。突然发现所有端口大开。发现很蹊跷，然后赶紧想重新扫描重定向至文件，第二次扫描，发现主机已经端口全关.....
+<i>Starting Nmap 4.11 ( <a href="http://www.insecure.org/nmap/">http://www.insecure.org/nmap/</a> ) at 2009-09-07 12:05 CST<br>Warning:  OS detection will be MUCH less reliable because we did not find at least 1$<br>All 1680 scanned ports on 222.35.142.85 are filtered<br>Too many fingerprints match this host to give specific OS details<br> <br>Nmap finished: 1 IP address (1 host up) scanned in 52.681 seconds</i>
+截至到现在，网站还没有恢复。"           <br>下面是部分扫描结果： ...<br>9100/tcp  open  jetdirect<br>9152/tcp  open  ms-sql2000<br>9876/tcp  open  sd<br>9991/tcp  open  issa<br>9992/tcp  open  issc<br>10082/tcp open  amandaidx<br>10083/tcp open  amidxtape<br>11371/tcp open  pksd<br>12000/tcp open  cce4x<br>12345/tcp open  NetBus<br>12346/tcp open  NetBus<br>13705/tcp open  VeritasNetbackup<br>13708/tcp open  VeritasNetbackup<br>13709/tcp open  VeritasNetbackup<br>13710/tcp open  VeritasNetbackup<br>13711/tcp open  VeritasNetbackup<br>13716/tcp open  VeritasNetbackup<br>13717/tcp open  VeritasNetbackup<br>13718/tcp open  VeritasNetbackup<br>13721/tcp open  VeritasNetbackup<br>13722/tcp open  VeritasNetbackup<br>13782/tcp open  VeritasNetbackup<br>15126/tcp open  swgps<br>16444/tcp open  overnet<br>17007/tcp open  isode-dua<br>17300/tcp open  kuang2<br>18185/tcp open  opsec_omi<br>20005/tcp open  btx<br>22273/tcp open  wnn6<br>22289/tcp open  wnn6_Cn<br>26208/tcp open  wnn6_DS<br>27000/tcp open  flexlm0<br>27002/tcp open  flexlm2<br>27004/tcp open  flexlm4<br>27005/tcp open  flexlm5<br>27006/tcp open  flexlm6<br>27007/tcp open  flexlm7<br>27009/tcp open  flexlm9<br>27374/tcp open  subseven<br>27665/tcp open  Trinoo_Master<br>31337/tcp open  Elite<br>31416/tcp open  boinc-client<br>32771/tcp open  sometimes-rpc5<br>32772/tcp open  sometimes-rpc7<br>32777/tcp open  sometimes-rpc17<br>32780/tcp open  sometimes-rpc23<br>32787/tcp open  sometimes-rpc27<br>38292/tcp open  landesk-cba<br>44443/tcp open  coldfusion-auth<br>50002/tcp open  iiimsf<br>54320/tcp open  bo2k<br>61440/tcp open  netprowler-manager2<br>65301/tcp open  pcanywhere<br>Too many fingerprints match this host to give specific OS details<br> <br>Nmap finished: 1 IP address (1 host up) scanned in 400.823 seconds<br> <br>
+➜谷歌的皇历
+https://www.solidot.org/story?sid=13493	21840
+在谷歌上搜索查询某个关键词时常会碰到“据当地法律法规.....”，有趣的是当你试图查询某个日期的时候，偶尔也会碰到“据当地...”，问题是一年365天（闰年366天）到底有多少天会遇到这种情况？<a href="http://n-p.me/">N-P</a>写了一个脚本把一年366天都google(.cn)了一遍，做成了一个现代版皇历。
+更多内容见内：           <a href="http://n-p.me/">N-P</a>写道 "有时候在google.cn看到那句别具地方特色的&quot;<a href="http://www.google.cn/search?q=%E6%8D%AE%E5%BD%93%E5%9C%B0%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%92%8C%E6%94%BF%E7%AD%96%20%E9%83%A8%E5%88%86%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E6%9C%AA%E4%BA%88%E6%98%BE%E7%A4%BA">据当地......</a>&quot;，心里会想：&quot;啊？这个词也有特色？！&quot;。(也许，这正体现了这一机制的功效......囧)
+<br> <br>
+今天写脚本把一年366天都google(.cn)了一遍，做个现代版皇历：
+<blockquote>
+<div> <a href="http://www.google.cn/search?q=1%E6%9C%8813%E6%97%A5">1月13日</a>
+<br>
+<a href="http://www.google.cn/search?q=5%E6%9C%8831%E6%97%A5">5月31日</a>
+<br>
+<a href="http://www.google.cn/search?q=6%E6%9C%884%E6%97%A5">6月4日</a>
+<br>
+<a href="http://www.google.cn/search?q=6%E6%9C%8813%E6%97%A5">6月13日</a>
+<br>
+<a href="http://www.google.cn/search?q=6%E6%9C%8820%E6%97%A5">6月20日</a>
+<br>
+<a href="http://www.google.cn/search?q=6%E6%9C%8825%E6%97%A5">6月25日</a>
+<br>
+<a href="http://www.google.cn/search?q=6%E6%9C%8830%E6%97%A5">6月30日</a>
+<br>
+<a href="http://www.google.cn/search?q=7%E6%9C%885%E6%97%A5">7月5日</a>
+<br>
+<a href="http://www.google.cn/search?q=9%E6%9C%8819%E6%97%A5">9月19日</a>
+<br>
+<a href="http://www.google.cn/search?q=10%E6%9C%8813%E6%97%A5">10月13日</a>
+<br>
+<a href="http://www.google.cn/search?q=12%E6%9C%8818%E6%97%A5">12月18日</a> </div>
+</blockquote>
+一年(365.25天)中有3.01%的日子不宜多嘴...囧<br>
+(测试完成于2009-09-07 12:47，并且此数据不随google的变动而更新)
+<br>
+概述：控制netcat发送类似：
+<br>
+GET /search?q=1月1日 HTTP/1.1
+<br>
+HOST:www.google.cn
+<br>
+的请求以获取页面html代码，然后搜索出包含特色语句的页面。"
+➜水蒸汽在大气环流中起着重要作用
+https://www.solidot.org/story?sid=13494	25500
+水蒸汽是大气中最重要的温室气体，但同时对大气动力学起着举足轻重的作用。<a href="http://www.technologyreview.com/blog/arxiv/24079/">研究人员试图理解水蒸汽凝结释放能量对全球大气的影响</a>。<i>
+一般来说，当液态水变成水蒸汽时它会冷却周围的环境，当水蒸汽凝结成液态水时它又会释放出热量，加热周围的环境。但大规模的热效应对全球大气动力学至关重要，因为大气中的水蒸汽比液态水多250倍。加州理工学院的Tapio Schneider和同事建立了一个模型，探索温度变化对大气层的影响。他们的结果令人惊讶并且与直觉相反。以热带<a href="http://zh.wikipedia.org/zh-cn/%E5%93%88%E5%BE%B7%E5%88%A9%E7%8E%AF%E6%B5%81">哈德里环流</a>为例，哈德里环流是因为赤道地区的水蒸发作用和亚热带地区的水蒸汽凝结导致的。传统观点认为哈德里环流在温度下降时强度会被削弱，在目前全球变暖的情况下，它会变得更强。但是Schneider研究结果与之相悖，部分由于水蒸汽的动态效应，全球表面的平均温度出现非单一变化（nonmonotonic change，在更热的气候和更冷的气候下哈德里环流强度都很弱）。这种非单一变化在未来的气候模型中将会成为重要组成。</i>
+➜中国网站正禁止匿名用户发表评论
+https://www.solidot.org/story?sid=13495	27120
+《纽约时报》报道，中国的网站<a href="http://www.nytimes.com/2009/09/06/world/asia/06chinanet.html?_r=1&amp;scp=2&amp;sq=china&amp;st=cse">正在禁止匿名用户发表评论</a>。<i>
+直到最近，主要新闻门户网站仍允许用户匿名发表评论，虽然所有的评论可以通过IP地址追踪。但从8月初开始，在没有任何通知的情况下，新浪、网易、搜狐和其它大量网站都要求未注册用户用真实姓名和身份证注册。一位新浪的雇员向纽约时报证实了此事。北京邮电大学校长方滨兴不久前曾公开表示<a href="__SLASHLINK__" sect="internet" sid="09/08/14/0453212" sn="article" tid="133">网络实名制时机已经成熟</a>。但为什么未经宣布就开始实行实名制？一位网站编辑认为，这是因为“网络民意影响力还是很强大”。</i>
+➜意大利人因亲吻女儿被巴西拘留
+https://www.solidot.org/story?sid=13496	29400
+BBC报道，48岁的意大利商人于9月2日在巴西东北部港口城市Fortaleza被捕，当时他正与他的巴西妻子和女儿在此度假。<i>
+目击者声称他<a href="http://news.bbc.co.uk/2/hi/americas/8240989.stm">以一种不恰当的方式接触一位年幼的女孩</a>，他在其他游客的众目睽睽之下，在游泳池内亲吻8岁女儿。目击者表示他们不知道两人是父女。最近巴西政府通过了一项打击儿童色情的严厉法律，如果这位意大利人被判有罪的话他将面临8到15年徒刑。这位意大利人的巴西妻子表示，目击者可能是因为看到一位白人接触一位深色肤色的女孩而产生了误解。</i>
+➜香港中文大学开发卫星“快闪”技术
+https://www.solidot.org/story?sid=13497	30300
+权相龙 写道 "文汇报<a href="http://paper.wenweipo.com/2009/09/07/ED0909070007.htm">报道</a>，香港中文大学<a href="http://www.iseis.cuhk.edu.hk/gb/">太空与地球信息科学研究所</a>研发出一种自动识别算法，可追踪太空碎片。林珲称，“中国有越来越多的东西要送往太空，了解太空碎片的踪迹，可以减少利用外国技术而引起的各种纠纷和经济损失”。<i>
+香港中大有关研究是根据<a href="http://www.pmo.ac.cn/">南京紫金山天文台</a>提供的图像进行研究，并设计出可追踪太空碎片的自动识别算法。他们先是利用计算机对太空图像中的物体进行识别，即将物体之间的对比度增强，并进行二值化处理，令图像呈现黑、白两色，以助将目标物(太空碎片)标识出来；锁定目标后便开展跟踪监测，凭借不同时段的图片来判断其走向、速度等特点，最后将这些资料存入数据库中进行管理。林珲说，“这是一个实时更新的图像库，采取的是动态追踪的管理方式”。"</i>
+➜让隐形眼镜拥有视觉增强功能
+https://www.solidot.org/story?sid=13498	34080
+在《终结者》系列影片中，施瓦辛格扮演的角色能在其视界中叠加一个数据层，增强他对眼睛所扫描范围的感知能力。在科幻小说作家弗诺文奇的作品中，他笔下的角色多依赖于电子隐形眼镜，无缝的接入网络获取信息并展现在他们的眼睛前面。
+<i>
+这些想象或许有点牵强，但<a href="http://spectrum.ieee.org/biomedical/bionics/augmented-reality-in-a-contact-lens/0">内置简单电路和LED的隐形眼镜已成为现实</a>。虽然目前的技术还很原始，远没有达到弗诺文奇在《<a href="http://en.wikipedia.org/wiki/Rainbows_End">彩虹的尽头</a>》中所描述的复杂人机界面，但研究人员认为未来是可以实现的。隐形眼镜<a href="http://science.slashdot.org/story/09/09/01/1619248/Augmented-Reality-In-a-Contact-Lens?from=rss">视觉增强功能</a>无需太复杂就能很有用，比如很少的像素可以提供指示功能，小显示屏可以显示文字，实时翻译。镜片还可以从眼睛里读取生物信息，提供各种医疗信息，如监测糖尿病人的血糖水平。</i>
+➜lg是什么
+https://www.solidot.org/story?sid=13499	34800
+fenglanchi 写道<i> "在google中输入 <a href="http://www.google.com/search?hl=zh-CN&amp;source=hp&amp;q=lg10&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;lr=&amp;aq=0&amp;oq=">lg10</a> 返回 lg(10) = 3.32192809。在bing中输入 lg10 返回<a href="http://cn.bing.com/search?q=lg+10&amp;go=&amp;form=QBLH&amp;filt=all">lg(10) = 1</a>。"</i>
+wolframalpha给出的<a href="http://www.wolframalpha.com/input/?i=lg10+">log<sub>10</sub>(10)=1</a>
+➜reader2twitter―同步你的Google Reader Share
+https://www.solidot.org/story?sid=13500	36240
+<a href="http://blog.kangye.org/">康爷</a> 写道<i> "<a href="http://reader2twitter.appspot.com/cn">reader2twitter</a>是一个将Google Reader里面分享的文章同步到Twitter的应用，使用了<a href="http://code.google.com/p/pubsubhubbub/">pubsubhubbub</a>协议，基本实现实时同步。并且，你的评论也会被<a href="http://blog.kangye.org/reader2twitter-google-reader-shared-itemstwit">发送到Twitter</a>。"</i>
+➜令人类成为人类的基因
+https://www.solidot.org/story?sid=13501	38880
+从人类的30亿个碱基对中寻找进化出人类的基因不是一件容易的事。现在一组研究人员从非编码DNA中找到了3个基因，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/901/2?rss=1">它们可能帮助人类成为一个独一无二的种族</a>。<i>
+绝大多数基因都是源远流长，历史悠久，它们可以上溯到人类祖先还生活在树上的时期，甚至追溯到许久以前的微生物。从微生物的几千个基因增加到人类的几万个基因，主要是通过基因组复制和基因复制事件实现的，复制创造出另外的一组基因，然后自由发展出新序列和新功能。大多数复制发生在人类诞生之前，只有少数发生在人类世系中。2006年，遗传学家首次从果蝇的非编码DNA中识别出一个真正的新基因，与此同时其他研究人员也开始从非编码DNA中寻找人类的独特基因。根据发表在《基因研究》上的报告，研究人员在分析了人类基因组的一个子集后推测，人类至少进化出了18个新基因，与基因总数24000相比这个数目几乎微不足道，但却是至关重要。他们确认了其中三个年轻基因，这些基因帮助人类成为一个独特的种族。</i>
+➜各大门户网站开始实名评论
+https://www.solidot.org/story?sid=13503	41220
+来自<a href="http://www.chinagfw.org/2009/09/blog-post_06.html">这里的截图</a>显示，包括网易、新浪、搜狐、腾讯、凤凰网，tom在内的各大门户网站，最近都不约而同取消了新闻后的匿名评论功能，要求注册用户才能发表评论。而且注册时真实姓名、身份证号、居住地址等实名信息都为必填项，有的还要求填写联系电话。
+➜爱尔兰天文学家调查发生在空中的爆炸
+https://www.solidot.org/story?sid=13502	41400
+上周四晚上，爱尔兰整个国家的许多居民<a href="http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8239188.stm">都目睹了一次神秘的空中爆炸</a>。爱尔兰天文学家协会正在调查爆炸来源，一位发言人表示爆炸最有可能为陨石或人造卫星在大气层中爆炸。天文学家呼吁目睹事件的居民帮助他们跟踪来源，将他们所了解的信息填写到www.astronomy.ie上。爱尔兰天文学会主席David Moore称，过去20年里，爱尔兰共发生两起大的空中爆炸事件。
+➜日本将发射无人宇宙货船
+https://www.solidot.org/story?sid=13504	44700
+time 写道 "9月10日，日本将从种子岛宇航中心向国际空间站(ISS)<a href="http://www.space.com/missionlaunches/090904-japan-htv-ready.html">发射无人宇宙货船HTV-1</a>。HTV-1将在9月17日抵达目的地。
+<i>HTV-1由日本宇宙航空研究开发机构(JAXA)研制，搭载火箭为<a href="http://www.space.com/common/media/video/player.php?videoRef=SP_090903_h-2b">新式H-2B火箭</a>。<a href="http://www.space.com/common/media/video/player.php?videoRef=SP_090903_htv">HTV-1货船</a>是一个太阳能驱动的柱体，长10m，宽4.4m，可载货6吨，但首次飞行将载重3.5吨。和欧洲及俄国制造的无人货船不同的是，HTV-1会自动和国际空间站对接。停靠1个月后，货船将脱离空间站并在地球大气层烧毁。</i>
+日本1997年起斥资六亿八千万美元设计此飞船，其中飞船自身价值二亿二千万美元。"
+➜《辞海》网络版需收费
+https://www.solidot.org/story?sid=13505	45120
+<a href="http://yi-it.com/blog/index.php">知识无价</a> 写道 "<a href="http://kids.youth.cn/xzbb/jskx/200909/t20090904_1014186.htm">《辞海》常务副主编巢峰和《辞海》编委、上海辞书出版社社长彭卫国</a>在一次采访中谈到，第六版《辞海》网络版要收费。
+<i> <a href="http://kids.youth.cn/xzbb/jskx/200909/t20090904_1014186_2.htm">彭卫国说</a>，网络查询虽然很快，但因为网上的词条是谁都可以撰写，其权威性、科学性以及准确率都会大打折扣。《辞海》最大的特点就是科学、准确、权威，它的所有词条都凝聚着几代人的智慧，可以说是千锤百炼。而且《辞海》每十年修订一次，这也是它的生命力所在。网络将会学习《大英百科全书》的模式收费。至于到底怎么收，则还在进行研究。"</i>
+➜J.mp 简单方便优化URL的“腰围”
+https://www.solidot.org/story?sid=13506	52440
+<a href="http://www.androidres.com/">EdgarSun</a> 写道 "无论多么冗长繁琐的URL都可以通过<a href="http://j.mp/">J.mp</a>优化为<a href="http://www.androidres.com/?p=640">10个字符</a>的字符串，而且无需注册便可直接使用。优化后的网址可以方便手机用户与朋友共享信息。"

@@ -1,0 +1,67 @@
+➜我们要机器人干什么？
+https://www.solidot.org/story?sid=9876	120
+机器人将是老年人和残疾人潜在的优秀助手，但是如果你要开发此类设备，你的起点是什么？你需要集中提供哪些功能？<i>乔治亚理工学院医疗保健机器人技术实验室Young Sang Choi和他的同事调查了一组肌萎缩性侧索硬化患者（霍金的病状与之相同），列出了他们<a href="http://arxivblog.com/?p=1216">最想要机器人帮助他们做的事情</a>。这些要求包括：1：电视遥控器；2：药丸；3：开药瓶；4：眼镜；5：无绳电话；6：牙刷；7：餐叉；8：汤匙；....14：手机；21：钥匙；36：钱包；38：喝（饮料或酒精）。作为正常人的你，最想要机器人做什么呢？</i>
+<a href="http://arxiv.org/abs/0902.2186">预印本</a>
+➜改进Linux GPU电源管理
+https://www.solidot.org/story?sid=9877	1800
+Red Hat的Matthew Garrett正积极通过参与多种开源X.Org驱动，<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NzA2Mw">去改进Linux GPU的电源管理</a>。电源管理涉及的工作很多，但在FOSDEM X.Org会议上，Garrett透露了他的进展。他正试图节省GPU、显存、输出和显示的能耗。为节省GPU核心的功率，他试图去实现支持不同驱动程序的门控时钟（<a href="http://en.wikipedia.org/wiki/Clock_gating">clock-gating</a>）和重新计时（re-clocking），同时在帧缓冲器压缩和重新计时上减少显存的能耗。
+➜Facebook的新服务条款
+https://www.solidot.org/story?sid=9878	2700
+Facebook的服务条款过去是这么写的——如果你关闭帐户，那么他们所宣称的对你上传的原始内容的所有权利都将过期。但现在不是这样了，任何你上传到Facebook的东西，<a href="http://consumerist.com/5150175/facebooks-new-terms-of-service-we-can-do-anything-we-want-with-your-content-forever">Facebook都可以按他们想要的方式使用</a>，不管你之后做什么。你想关闭帐户么？但是Facebook仍可任意处置你的旧内容，他们甚至可以进行转让。
+➜诺基亚正式公布应用程序商店
+https://www.solidot.org/story?sid=9879	3120
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道<i> "手机巨头诺基亚今天在巴塞罗那召开的世界移动大会上正式<a href="http://it.hexun.com/2009-02-16/114514997.html">公布</a>手机应用程序商店<a href="http://store.ovi.com/">OviStore</a>，预计在今年春季上线。分成模式为诺基亚占30%的利润，开发者占70%的利润，和苹果基本相同。目前，开发人员可在<a href="https://publish.ovi.com/">这里</a>注册并获取开发工具，下个月开始就可以上传软件。"</i>
+➜移动Firefox (Fennec) 怎么了？
+https://www.solidot.org/story?sid=9880	3900
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "上周，Mozilla自<a href="http://blog.mozilla.com/blassey/2009/02/10/fennec-milestone-release-for-windows-mobile/">豪地宣布</a>了移动版Firefox - Fennec的一个里程碑版本的发布，这个备受期待的工具可以 pre-alpha的形式，供运行Windows Mobile的HTC Touch Pro手机下载了。全世界的移动web爱好者们纷纷<a href="http://www.pcmag.com/article2/0,2817,2340864,00.asp">开始测试</a>这个新浏览器。然而怪事发生了，屏幕上并没有显示要浏览的网页，而是一堆棋子方块。           启动失败
+<br> <br>在 <a href="http://www.pcmag.com/article2/0,2817,2340864,00.asp">PCMag 的测试</a> 中，Fennec 被安装到两个移动设备上，在任何一个设备上，Fennec 都启动了两次才开始运行，然而启动之后，屏幕上只显示一堆棋子方块而不是 Fennec 的欢迎画面。通过向左上方滚动，可以看到地址条，然而输入 URL 后却返回错误，通过 Opera 启动 Modem 之后，可以看到不同网页的标题条，但仍不见页面显示。<a href="http://www.appscout.com/2009/02/handson_fail_with_firefox_mobi.php">别的 Fennec 测试者</a>经历了同样的问题。
+<br> <br>PCMag.com 的专栏作者 Sascha Segan 揶揄到，这也算里程碑？祝 Mozilla 的人下次好运吧。
+<br> <br>
+到底怎么了？
+<br> <br>Mobile 团队成员 <a href="http://starkravingfinkle.org/blog/about/">Mark Finkle</a> 表示，问题似乎与内存有关，他说，Windows Mobile 设备在内存的使用上有限制，这是他们目前正在解决的一个问题。不过，他们似乎仍没找到引起这一 BUG 的真正问题。他在博客中写道，我们一旦找到问题所在会立即在博客中将细节告诉大家。
+<br> <br>Fennece BUG 状态中，这一 BUG 仍然写着尚未分配给具体解决人员。但愿这意味着整个 Fennec 团队都在解决这个 BUG。
+<br> <br>Bugzilla 的一个评论者表示，这个错误紧跟着一个 <a href="http://mxr.mozilla.org/mozilla-central/source/gfx/thebes/src/gfxImageSurface.cpp#80">gfxImageSurface</a> 错误，但并没有得到他人确认。
+<br> <br>
+移动Web 是下一轮浏览器争夺的战场
+<br> <br>有趣的是，在 Mozillia 遭遇着额挫折的同时，另一个移动浏览器 <a href="http://www.skyfire.com/">Skyfire</a> 正推出他们的一个重要版本，面向 Windows Mobile 和 Symbian 的 Skyfire 0.9 推出了新的社会化版本，该浏览器目前已经支持 Flash 10, Silverlight 以及 Ajax （Skyfire 是基于服务器中转的移动浏览器，类似 Opera Mini，理论上讲，这种浏览器应该支持任何桌面浏览器功能，真正本地支持 Flash 的浏览器目前还不存在 - 译者）。
+<br> <br>在最新的升级中，Skyfire 提供了一个类似 Friendfeed 的入口，可以通过 RSS, <a href="http://www.facebook.com/">Facebook</a> 与 <a href="http://www.twitter.com/">Twitter</a> 获得最新新闻。它预设的 Feeds 来源包括 Digg, ESPN, Google News, Hulu, YouTube and Yahoo! News，也可以自己定制。
+<br> <br>除了较新的 Skyfire，移动 Web 领域还有一个备受欢迎的重量级选手 <a href="http://www.opera.com/mobile/">Opera Mobile</a>，该浏览器目前已经被安装到全球数百万台移动设备上。
+<br> <br>尽管 Skyfire 和 Opera 并没有获得 Mozilla 那样的关注，然而在移动 Web 领域，创新可能来自任何公司，桌面上的主导地位并不意味着一切，这对移动 Web 用户来说是一件好事。
+<br> <br>本文来源：<a href="http://www.readwriteweb.com/archives/what_went_wrong_with_fennec.php">http://www.readwriteweb.com/archives/what_went_wrong_with_fennec.php</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+"
+➜药物可以删除可怕记忆
+https://www.solidot.org/story?sid=9881	9720
+《MIT技术评论》报道，一种常见的抗血压药物被发现<a href="http://www.technologyreview.com/biomedicine/22187/">能选择性的删除与可怕经历相关的痛苦记忆</a>。埃默里大学神经科学家完成的实验显示，一种常用于治疗高血压的药物心得安（propranolol），能压制可怕记忆的情感部分。研究结果发表在2月16日出版的《<a href="http://www.nature.com/neuro/index.html">自然神经科学</a>》杂志上。新的发现暗示了一种治疗焦虑症的新方式。<i>
+近年来，科学家发现，简单回忆过去经历的行为的意愿，会使记忆再次巩固（将短期记忆移向长期记忆储存区的过程被称为巩固）。动物研究和部分人类研究显示，在重新巩固长期性记忆期间——曾被认为十分稳固——实际上非常容易被干扰。过去数十年里的动物研究显示，杏仁体在保存情感记忆方面占据了中心角色，而心得安能阻滞杏仁体中的某种分子，通过阻止记忆所需蛋白质的合成去干扰巩固过程。</i>
+➜Opera加入LiMo基金会 力推Linux移动产品
+https://www.solidot.org/story?sid=9882	11400
+<a href="mailto:slevin.van@gmail.com">DNA24</a> 写道 "Opera宣布加入推动Linux移动平台的<a href="http://www.limofoundation.org/">LiMo基金会</a>。通过与LiMo基金会的紧密合作，<a href="http://news.networkmagazine.com.tw/web/2009/02/17/10685/">Opera能确保其移动版浏览器产品与Linux移动版平台之间的完美兼容</a>，使得Linux开发变得更加简便，产品上市更加快捷。Opera与LiMo基金会共同携手，双方在坚持基于开放标准的产品开发原则上，未来将推出内容更加丰富的多项服务，为用户带来更加舒适的应用体验，并为其提供更多更实惠的移动设备及产品。<i>
+Opera公司全球首席执行官Jon S.von Tetzchner先生表示：“一直以来都令我们引以为豪的是，我们开发了一款基于标准并能运行于任何平台的浏览器。而在我们所提出的以建立标准化为行业导向的移动网络理想中，作为一个不断发展、不断进化的系统平台，Mobile Linux是最好的缩影与集中体现。我们希望通过与LiMo基金会其他成员的共同协作，一起推动移动技术的不断发展。”"</i>
+➜海盗湾，何去何从？
+https://www.solidot.org/story?sid=9883	12300
+<a href="http://hibloghz.blogspot.com/">Frank</a> 写道 "来自路透社消息说，全球最大的文件共享网站---海盗湾，周一在瑞典斯德哥尔摩被<a href="http://tech.yahoo.com/news/nm/20090216/wr_nm/us_sweden_piratebay">起诉侵犯知识产权</a>，该案目前尚在审理阶段。<i>海盗湾网站及其4名管理员去年初由瑞典检察官和众多娱乐公司共同指控侵犯知识产权等相关罪行，这些公司包括米高扬，哥伦比亚电影，20世纪福克斯影业，索尼BMG，环球和百代，他们要求被告赔偿超过1亿克郎的经济损失。因为该网站允许所有的网民自由的下载电影，音乐，书籍和游戏，而无须支付任何的版权使用费。所以原告代理律师在起诉书中如此说，“这不是一个政治审判，也不是剥夺人民享受知识的权利，更不是审判禁止共享技术的发展，而是指控他们为盗版行为提供方便并从中获利。”4名被告Fredrik Neij、Peter Sunde Kolmisoppi、Gottfrid Svartholm Warg、Carl Lundstroem否认了这些指控，他们认为，该网站是一个供用户彼此共享内容的网络，但是他们并不知道这些内容是否侵犯版权，而追究他们的责任是不恰当的。检察机关却不这么认为，因为该网站从筹集资金，规划和管理网站上看，已经为盗版行为提供便利。</i>
+整个审判大约需要3周时间，如果罪名成立的话，他们可能面临2年的监禁。"
+➜未来曼哈顿的螺旋摩天农场
+https://www.solidot.org/story?sid=9884	13800
+<a href="http://evolo-arch.com/">Evolo Skyscraper Competition</a>是一项寻求新摩天大楼组织形式和空间形式的概念性比赛，本年度进入决赛的共有三位选手。其中一位Eric Vergne设计了一个
+<a href="http://www.evolo-arch.com/dskyc.html">反乌托邦农场计划</a>，构思未来以<a href="http://www.inhabitat.com/2009/02/16/dystopian-farm-by-eric-vergne/">螺旋形生物结构摩天农场</a>点缀的纽约市区，用最先进的技术为大苹果城提供自我供应的食物来源。<i>
+据估计，到2050年世界有80%的人口将居住在城市中，提供食物将是城市规划设计者面临的难题。Eric Vergne的反乌托邦农场创造了一种动态的社会空间，让生产和消费结合起来。生物形态的摩天大楼能提供农业区、居民区和消费区，能消耗城市中的大量二氧化碳，能动态的改变城市生活结构。</i>
+➜后天习得特性或能遗传给后代
+https://www.solidot.org/story?sid=9885	19800
+两项新的研究得出了令人惊讶的结论：<a href="http://zh.wikipedia.org/w/index.php?title=%E8%AE%A9-%E5%B7%B4%E6%99%AE%E8%92%82%E6%96%AF%E7%89%B9%C2%B7%E6%8B%89%E9%A9%AC%E5%85%8B&amp;variant=zh-hans">让-巴普蒂斯特·拉马克</a>（Jean-Baptiste Lamarck）也许是正确的——<a href="http://www.technologyreview.com/biomedicine/22061/">后天习得特性能遗传给后代</a>，至少啮齿类动物身上有体现。拉马克在两百年前提出了有争议的进化理论：用进废退与获得性遗传。但主流科学家普遍不被接受<a href="http://zh.wikipedia.org/w/index.php?title=%E8%8E%B7%E5%BE%97%E6%80%A7%E9%81%97%E4%BC%A0&amp;variant=zh-hans">获得性遗传</a>。<i>
+Tufts大学医学院神经科学家<a href="http://www.tufts.edu/med/biochemistry/faculty/feig/feig.html">Larry Feig</a>研究了实验老鼠的环境影响。在Feig的研究中，被基因改造成有记忆问题的老鼠在一种丰富的学习环境下成长——有玩具，锻炼和社会活动——处于发育期的老鼠在这种环境下生活两周，然后回到正常环境，继续生活和生育。下一代老鼠会有更好的记忆能力，而不管基因缺陷和从未生活在丰富的环境下。</i>
+➜海绵的秘密武器——恢复抗生素的效力
+https://www.solidot.org/story?sid=9886	24120
+Science News报道，研究人员从某种特殊的海绵身上发现了一种特殊的化学物质，<a href="http://www.sciencenews.org/view/generic/id/40894/title/Sponge's_secret_weapon_restores_antibiotics'_power">能对抗生素呈抗药性的细菌重新编程</a>，从而恢复抗生素的效力。这项研究具有潜在的重大意义，抗生素的广泛应用使得细菌进化出抗药性，削弱了效力，并为未来的治疗带来困难。海绵的化学物质本身对细菌并不致命或有伤害力，从而令人类在抗生素—细菌战役中占据先机。<i>
+对海绵秘密化学武器的化学分析指出了一种名叫algeferin的化合物。细菌抵御抗生素的护甲——生物膜，在与algeferin分子片段相遇后就会被溶解。就像是没有形成生物膜。在实验室中，到目前为止，algeferin分子已经成功治疗了引起百日咳、耳部感染、败血病、食物中毒的细菌。该化合物同样适用于在医院造成重大破坏性的葡萄球菌（MRSA）感染。一位研究人员表示，还没有它无效的细菌。</i>
+➜NetBSD启动桌面项目
+https://www.solidot.org/story?sid=9887	26100
+Andrew Doran和Jared D.McNeill在<a href="http://mail-index.netbsd.org/current-users/2009/02/07/msg007841.html">邮件列表</a>上宣布，他们正<a href="http://osnews.com/comments/20990">启动NetBSD桌面项目</a>。他们承认NetBSD的用户体验较差，安装程序询问了太多的问题，一点不直观，风格还是1980年代的，用户的学习曲线过于陡峭。因此他们的目标是“给你一张NetBSD CD和一台相当的x86机器，让在15分钟内安装完系统成为可能，整个过程只提示几个问题”。他们已经建立了项目<a href="http://wiki.netbsd.se/Desktop_Project">WIKI</a>。
+➜今日流行“躲猫猫”
+https://www.solidot.org/story?sid=9888	28080
+如果你今天查看谷歌热榜的“<a href="http://www.google.cn/rebang/detail?bid=12000000">上升最快关键词</a>”，会看到一个莫名其妙的词“躲猫猫”(比较下<a href="http://top.baidu.com/">百度风云榜</a>丝毫未见猫的踪迹)。类似去年的“俯卧撑”，<a href="http://news.xinhuanet.com/comments/2009-02/17/content_10831383.htm">“躲猫猫”</a>也来自一起莫名死亡案件——据<a href="http://www.ynxxb.com/content/2009-2/13/N87893497417.aspx">《云南信息报》</a>报道：<i>
+24岁的玉溪北城镇男子李乔明因盗伐林木被刑拘，在看守所度过11天后却因重伤入院，“连感冒都没有”的他却因“重度颅脑损伤”于12日凌晨6时57分不治身亡。警方称李乔明受伤是由于其在放风时间，与同监室的狱友在看守所天井中玩“躲猫猫”游戏时，由于眼部被蒙而不慎撞到墙壁受伤。一位外科医生认为，尽管人类的颅骨十分脆弱，然而要对一名成年男子造成如此大如此致命的伤害，一定要有巨大外力才可能导致，而“一般的不小心摔倒或撞击中，人有自我保护意识，很难造成这样大的伤害”。据李家人打听，李乔明所关的“那个监室关了好几个偷窃和抢劫的人，还有几个‘黑社会’”。</i>
+➜基于维基百科的英汉字典
+https://www.solidot.org/story?sid=9889	32400
+虽然中文维基条目数量远不及英文维基，但多数常用的英文条目都有对应中文条目，虽然在内容丰富度上仍有所欠缺。作为一位经常使用维基百科的用户，当看到一个“不明意思”的英文词语，我通常会去Google搜索（关键词后添加WIKI），然后点击英文维基条目，查看一下有没有中文链接，当有中文链接时，就能直接使用中文翻译。<i>
+现在一位开放获取研究者<a href="http://twitter.com/houshuang">houshuang</a>基于相同原理，发布了<a href="http://reganmian.net/blog/2009/02/16/release-early-release-often-english-chinese-dictionary-based-on-wikipedia/">基于维基百科的在线英汉字典</a>，查询形式是http://reganmian.net/en-zh/searchword，支持中文和英文，比如<a href="http://reganmian.net/en-zh/%E5%8C%97%E4%BA%AC">北京</a>，<a href="http://reganmian.net/en-zh/sex">sex</a>，<a href="http://reganmian.net/en-zh/%E5%A4%A9%E5%AE%89%E9%97%A8">天安门</a>，<a href="http://reganmian.net/en-zh/open%20access">Open access</a>等。</i>

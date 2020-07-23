@@ -1,0 +1,48 @@
+➜戴尔开始提供关闭英特尔 ME 的笔记本电脑
+https://www.solidot.org/story?sid=54718	3948
+PC 市场上的两家小公司 Purism 和 System76 先后宣布关闭其产品中的 Intel Management Engine（ME）。ME 是内置于英特尔处理器平台的低功耗子系统，有自己的操作系统和程序，能访问主机系统，过去几个月引发了很多争议，安全研究人员已经找到了方法关闭 ME。现在，最大 PC 制造商之一的戴尔公司也开始<a href="https://liliputing.com/2017/12/dell-also-sells-laptops-intel-management-engine-disabled.html" target="_blank"><u>提供选项</u></a>关闭英特尔 ME，不同于 Purism 和 System76 的免费提供，戴尔将会收费。戴尔向大部分 Latitude 系列笔记本电脑——其中包括 7480、5480、5580 和 Latitude 14 5000 系列——提供了一个关闭 ME 的配置选项“Intel vPro -- ME Inoperable, Custom Order”，收费 20.92 到 40 美元。
+➜中国捍卫 “网络主权” 概念
+https://www.solidot.org/story?sid=54719	4916
+中国在浙江乌镇举办的互联网大会上<a href="http://www.ftchinese.com/story/001075330" target="_blank"><u>捍卫</u></a>其 “网络主权”概念。北京方面辩称，互联网主权赋予每个国家监管本国互联网的权利——中国已实现这一愿景，运行一个对与境外连接实行严格限制的系统。它正在帮助其他国家发展类似的网络架构。政治局常委王沪宁在开幕式上表示，中国愿意发展互联网治理的新规则和体系，使其为各方服务，反制当前的不平衡。当前许多国家的政府对民粹组织的政治冲击力感到紧张；中国的这个概念对这些政府颇具吸引力，但与硅谷关于互联网是开放平台的观念存在抵触。 中宣部部长黄坤明在大会上宣读了国家主席习近平的贺信。贺信称：“中国数字经济发展将进入快车道…… 中国对外开放的大门不会关闭，只会越开越大。”
+➜Django 2.0 发布
+https://www.solidot.org/story?sid=54720	7571
+流行 Python Web 开发框架 Django <a href="https://docs.djangoproject.com/en/2.0/releases/2.0/" target="_blank"><u>释出了</u></a> 2.0 版本。主要变化包括：停止支持 Python 2 系列，Django 1.11.x 是支持 Python 2.7 的最后版本，Django 2.0 支持 Python 3.4、3.5 和 3.6，其中 Python 3.4 将于 2019 年 3 月结束支持，因此 Django 2.0 也将是最后一个支持 Python 3.4 的版本。开发者还建议第三方库开发者停止支持 1.11 之前的版本。Django 2.0 的主要新特性包括：简化 URL 路由语法，移动友好的 contrib.admin，等等。
+➜美国监管机构批准比特币期货
+https://www.solidot.org/story?sid=54721	10913
+美国商品期货交易委员会(CFTC) <a href="http://cn.wsj.com/gb/20171204/fin074729.asp" target="_blank"><u>允许</u></a>两家主要芝加哥交易所芝商所和  Cboe 推出比特币期货。芝商所表示，将于 12 月 18 日推出比特币期货。Cboe 则称，将很快宣布自家比特币期货的推出日期。CFTC 表示，在经过近几周的大量讨论后，这两家交易所均在监管部门的要求下对其推出比特币期货的提案进行了重大修改。CFTC 称，预计芝商所和 Cboe 将密切监控与之合作的比特币交易所的交易情况，并协助 CFTC 监督市场。
+➜HDMI 规格 2.1 发布
+https://www.solidot.org/story?sid=54722	12729
+行业组织 HDMI Forum 上周<a href="http://hdmiforum.org/hdmi-forum-releases-version-2-1-hdmi-specification/" target="_blank"><u>公布了</u></a> HDMI 规格 2.1 版，主要<a href="http://hdmiforum.org/wp-content/uploads/2017/11/HDMI-Forum-2.1-November-Release-Presentation-%E8%A7%84%E6%A0%BC%E5%8F%91%E5%B8%83-ZH-CN.pdf" target="_blank"><u>新特性</u></a>（PDF）包括支持 4K@120Hz 刷新率，最高 10K 分辨率，支持多静态和动态 HDR，支持未压缩和压缩带宽，BT.2020 色彩空间，超高速 HDMI 线缆支持最高 48Gbps 带宽（相比之下 HDMI 2.0 是 18Gbps，HDMI 1.4 是 10.2Gbps），支持 eARC（增强型音频回传讯道），可变刷新频率(VRR)，快速媒体切换(QMS)，快速帧传输(QFT)，自动低延迟模式(ALLM) ，等等。线缆向后兼容，可用于现有的 HDMI 设备。HDMI 2.1 符合性测试规范 (CTS) 将于 2018 年一至三季度分阶段发布。
+➜研究声称空气污染影响认知能力
+https://www.solidot.org/story?sid=54723	13093
+针对中国空气污染影响的一项研究<a href="http://www.ftchinese.com/story/001075322" target="_blank"><u>显示</u></a>，除了更明显的身体伤害，空气污染还可能给心理健康和认知能力带来严重负面影响，从而显著降低人们的幸福感以及他们在语文和数学测试中的得分。研究人员发现，中国不断恶化的空气质量造成的当日幸福感下降程度，相当于遭遇离婚等负面人生大事的 10% 左右。这可能有助于解释为什么有多项调查发现，自 2004 年以来中国的幸福感出现停滞或下降。空气污染还显著抑制了认知表现。研究人员发现，在接受测试时处于空气污染环境的个人在语文和数学测试中的得分，低于他们在晴朗天空下接受测试的结果。污染对于测试得分的累积影响甚至比即时影响还要明显。如果在测试之前的 3 年期间平均空气污染指数已然提高，其对得分的负面影响，是空气污染水平仅仅在测试当天较高的 7 倍。累积影响更严重似乎表明，在需要较强智力时采取短期措施减少污染，基本上无助于解决暴露于有害空气的较长期影响。
+➜天然气短缺影响中国北方和中部地区
+https://www.solidot.org/story?sid=54724	15134
+为了遏制环境问题，中国正在大力推动煤改气，用液化天然气替代高污染的煤炭，但天然气供应短缺<a href="https://www.ft.com/content/21cb4ed2-d7f9-11e7-a039-c64b1c09b482" target="_blank"><u>重创了北方和中部地区</u></a>。天然气短缺使得很多贫困居民和农民工在寒冷的冬季没有了供暖。短缺也导致液化气的价格比去年同期增长了超过 40%。国家发改委已经对各地天然气公司发出警告，要求它们规范价格行为。中国官方媒体过去几天也对短缺问题发表了大量文章。中国通过中亚的管道和液化形式进口了半数使用的天然气。
+➜中国发射军用遥感卫星
+https://www.solidot.org/story?sid=54725	27571
+中国在酒泉卫星发射中心使用长征二号丁火箭<a href="https://www.nasaspaceflight.com/2017/12/long-march-2d-lofts-latest-yaogan-weixing/" target="_blank"><u>成功发射了</u></a>遥感卫星 31 号 ——aka 陆地勘查卫星一号。官方声称它将被用于科学实验、土地测量、作物评估等民用用途，但分析师认为它是军用间谍卫星。这种做法就像苏联时代用“宇宙”这个名字来掩盖卫星的真实性质。遥感 31 号被认为是基于军用尖兵-6 系列的光电观测卫星，其携带的光电传感器被认为分辨率在 1 到 3 米。
+➜美国科技公司高管大谈对华合作
+https://www.solidot.org/story?sid=54726	27924
+中国收紧互联网管控已迫使美国公司调整在华策略，但在乌镇世界互联网大会召开期间，美国公司高管<a href="http://cn.wsj.com/gb/20171204/tec120859.asp" target="_blank"><u>大力宣传</u></a>的是其对中国这一重要市场的承诺，基本没有表现出公开的摩擦迹象。苹果 CEO 库克(Tim Cook)及思科 CEO Chuck Robbins与 其他高管一起传达了“发展数字经济，促进开放共享”的大会主题。虽然声称要促进开放，但中国的互联网被防火墙隔离。谷歌搜索引擎和 Facebook 以及其它公司的平台均被禁止访问。库克和 Robbins 的讲话都吸引了很多观众。而前来聆听谷歌 CEO Sundar Pichai 演讲的观众人数不多。
+➜俄罗斯的 HIV 感染率出现增长，同时 HIV 又被称为是神话和西方阴谋
+https://www.solidot.org/story?sid=54727	29516
+过去几年，俄罗斯的 HIV/AIDS <a href="https://arstechnica.com/science/2017/12/russian-sites-call-hiv-a-myth-western-conspiracy-an-epidemic-is-now-exploding/" target="_blank"><u>疫情迅速蔓延</u></a>，部分被认为与反西方宣传有关。在俄罗斯的网上论坛、群组和聊天室，否定 HIV 和 AIDS 之说蔚然成风，HIV 和 AIDS 被称为是 20 世纪最大的神话和西方的阴谋，旨在让制药公司发财和试图控制世界人口。但与此同时，自 2006 年以来，俄罗斯的 HIV 感染新增病例增长了至少 146%，每年增长率在 10% 到 15%。今天有超过 90 万俄罗斯人携带了 HIV，每小时报告 10 个新病例，每天有大约 80 人死于 HIV 相关问题。不到半数的携带者得到了治疗，许多宗教家庭拒绝让受到感染的孩子接受治疗，由此导致的死亡激怒了医疗专家和医生。 HIV 在今天已经能得到控制，儿童还因此死亡被认为是不可接受的。
+➜Google 将屏蔽向浏览器注入代码的第三方软件
+https://www.solidot.org/story?sid=54728	30789
+Google <a href="http://blog.chromium.org/2017/11/reducing-chrome-crashes-caused-by-third.html" target="_blank"><u>宣布</u></a>将屏蔽向浏览器注入代码的第三方软件，理由是这些软件影响了 Chrome 的稳定性，会导致浏览器崩溃。第三方软件如杀毒软件通常会向运行的浏览器进程注入代码来检查流量，恶意程序也会采用类似的策略去窃取用户登录凭证等信息。Google 的统计显示，被注入代码的浏览器有 15% 的几率更可能崩溃。所以 Google 宣布将分阶段屏蔽注入代码的软件：2018 年 4 月发布的 Chrome 66 将在浏览器崩溃后警告用户，引导更新或移除注入代码的软件；2018 年 7 月发布的 Chrome 68 将屏蔽向浏览器进程注入代码的第三方软件，如果屏蔽导致浏览器无法启动，Chrome 将重启并允许注入，同时弹出警告引导用户移除软件；2019 年 1 月发布的 Chrome 72 将彻底屏蔽代码注入。
+➜美国司法部想要没收 Martin Shkreli 的武当派专辑
+https://www.solidot.org/story?sid=54729	33173
+Turing Pharmaceuticals 制药公司前 CEO Martin Shkreli 因为大幅提高艾滋病治疗药物达拉匹林（Daraprim）的价格而成为美国互联网上的头号公敌。他在 2015 年 12 月因欺诈罪被捕，2017 年 8 月被定罪，9 月终止保释，原因之一是他尝试在互联网上拍卖纽约饶舌乐队“武当派”的未公开发行专辑“Once Upon a Time in Shaolin”。上周，美国联邦检方递交正式通知，计划民事财产没收 Shkreli 的诸多资产，其中之一<a href="https://arstechnica.com/tech-policy/2017/12/feds-seek-forfeiture-of-shkrelis-stuff-wu-tang-album-a-picasso-and-more/?comments=1" target="_blank"><u>就是这张专辑</u></a>，此外检方还想扣押 500 万美元资产，Turing Pharmaceuticals 公司股份，一张 Lil Wayne 专辑，一幅毕加索画作，以及一台 Enigma 机器。
+➜Google AI 创造的 AI 超过人类创造的 AI
+https://www.solidot.org/story?sid=54730	42384
+Google AI 已经能<a href="http://www.solidot.org/story?sid=50176" target="_blank"><u>发明</u></a>自己的加密算法，现在它还能创造自己的 AI 了。Google Brain 团队今年早些时候公布了 <a href="https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html" target="_blank"><u>AutoML</u></a>，能自己生成 AI 的 AI。研究人员尝试用 AutoML 创造出<a href="https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/" target="_blank"><u>性能打败人类 AI 的子 AI</u></a>。他们使用了强化学习的方法自动化机器学习模型的设计，AutoML 作为一个控制器神经网络创造一个执行特定任务的子 AI 网络。这个被称为 NASNet 的 子 AI 的任务是从视频里实时识别目标如人、汽车、交通灯、手提包和背包。AutoML 会评估 NASNet 的表现，然后使用获得的信息开发改进版本，重复这一过程数千次。研究人员用 NASNet 测试了  ImageNet 图像分类和 COCO 目标识别两大数据集，在 ImageNet 的测试中 NASNet 的正确率达到了 82.7%，比人类的最新结果高 1.2%，效率高 4%，计算需求也更少。
+➜研究发现转移注意力时你的大脑会眨眼
+https://www.solidot.org/story?sid=54731	44079
+根据发表在《Cerebral Cortex》期刊上的<a href="https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhx305/4653733?guestAccessKey=5e7603d6-4fed-44b4-aa1d-867c89850d2e" target="_blank"><u>一项研究</u></a>，我们的注意力从一个目标转向另一个目标时大脑<a href="https://news.vanderbilt.edu/2017/11/21/discovery-minds-eye-blink/" target="_blank"><u>会“眨眼</u></a>”——一种短暂的无意识盲区现象。研究人员用狝猴做了实验，训练狝猴在屏幕上的不同目标之间转移注意力，同时监测它们的大脑神经元活动模式。研究人员发现，当游戏要求狝猴转移注意力的时候，其视觉皮质中的神经元活动出现了短暂中断。他们跟踪到中断的来源是引导注意力的大脑区域而不是眼睛。
+➜中国称研制出最快的量子随机数生成器
+https://www.solidot.org/story?sid=54732	46045
+官媒新华社<a href="http://news.sciencenet.cn/htmlnews/2017/12/396150.shtm" target="_blank"><u>报道</u></a>，国防承包商中国电子科技集团发布了一款新型高速量子随机数发生器，量子随机数实时产生速率大于 5.4 Gbps，极限值突破 117 Gbps，成为目前世界上产生速率最高的量子随机数发生器。中国电子科技集团网络安全公司总工程师饶志宏介绍，密钥是密码安全性的根基，而密钥产生的质量如何、效率高低，则取决于随机数产生的技术，即随机数发生器的性能的好坏。“通俗来讲，随机数产生的速率越高，就意味着在单位时间内能够产生更多的钥匙、做到真正意义上的‘随机发钥’，令企图窃密的人眼花缭乱、无‘钥’可用，难以在保密通信中迅速找到破解密码的钥匙并窃密，具备理论上的完美安全性。” 饶志宏说。
+➜Netflix拿下中国网剧《白夜追凶》大陆以外的全球发行权
+https://www.solidot.org/story?sid=54733	50645
+<a href="mailto:gongzhubuzai@gmail.com">Netflix买大陆影视剧</a> 写道<i> "近日，Netflix获得中国网络侦探剧《白夜追凶》(Day and Night)大陆以外的<a href="https://www.hollywoodreporter.com/news/netflix-acquires-chinese-detective-drama-series-night-day-1062954" target="_blank">全球发行权</a>。自8月30日大陆首播起，该剧取得巨大商业成功并在优酷上的播放量达40亿次。Netflix计划在其全球190多个国家和地区市场上线该剧。因为对外媒的限制，Netflix一直没能在大陆这个庞大的娱乐市场推出自己的服务。他们已转向为通过获取双向许可来拓展市场。去年四月，Netflix将旗下一系列原创剧集的大陆在线播放权卖给了爱奇艺，如今他们又引进国产网剧继续扩大其再全球的竞争力。"</i>

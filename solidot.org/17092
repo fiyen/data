@@ -1,0 +1,57 @@
+➜Netflix考虑授权其内容而不是进入中国
+https://www.solidot.org/story?sid=50030	10408
+Netflix<a href="https://www.yahoo.com/news/netflix-reassures-growth-hits-pause-china-231020508.html?ref=gs" target="_blank"><u>公布了超出分析师预期的第三季度财报</u></a>，表示计划向中国公司授权其内容。Netflix的视频点播服务已经遍布全世界100多个国家，但第一人口大国除外（另外几个没有Netflix服务的国家包括朝鲜和叙利亚）。Netflix在给股东的信中称，中国对外国数字内容服务的监管环境正日益具有挑战性，它暂时不再寻求让其服务在中国落地，而是向中国现有的在线内容服务商授权其内容。Netflix称，内容授权带来的收入不会太多，它的长期目标仍然是寻求直接向中国客户提供其服务。
+➜VeraCrypt审计报告公布，发现多个高危漏洞
+https://www.solidot.org/story?sid=50031	11231
+在 DuckDuckGo 和 VikingVPN 的资助下，QuarksLab 对开源加密软件 VeraCrypt 进行了安全审计。VeraCrypt 是 TrueCrypt 的分支，主要开发者是法国的 Mounir Idrassi，他在 TrueCrypt 基础上强化了防暴力破解功能。QuarksLab 刚刚<a href="https://ostif.org/the-veracrypt-audit-results/" target="_blank"><u>公布了审计报告</u></a>，发现了8个高危漏洞和十多个中低威胁级别漏洞。VeraCrypt 发布了<a href="https://veracrypt.codeplex.com/releases/view/629329" target="_blank"><u>1.19版本</u></a>，修复了报告披露的部分漏洞，但还有部分漏洞因为其复杂性而尚未修复。已经修复的漏洞包括：VeraCrypt 使用了旧版本的zlib库，1.19版移除了旧版本用新版本替换；移除GOST 28147-89加密选项，原因是其实现不安全；修复了多个UEFI支持问题，等等。
+➜日本科学家用iPS细胞培育老鼠卵子
+https://www.solidot.org/story?sid=50032	14119
+<div align="center"><img src="http://img.solidot.org/0/925/liW2AoEojTNOk.jpg" align="" height="297" width="450"><br>
+</div>
+<br>
+日本科学家在实验室中将老鼠的皮肤细胞转变成卵子，然后用卵子<a href="http://www.nature.com/news/mouse-eggs-made-from-skin-cells-in-a-dish-1.20817" target="_blank"><u>培育出具有繁殖能力的幼鼠</u></a>。<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20104.html" target="_blank"><u>研究报告</u></a>发表在《自然》期刊上。这项突破或有助培育出人类卵子。
+由九州大学和京都大学等组成的研究团队，利用10周大老鼠尾巴所培育的iPS细胞，来培育卵子及精子的“原始生殖细胞”
+团队再使用各种试剂作培养，最后制造出约4000个卵子。该些卵子与普通精子作体外受精后，产生约1300个受精卵，结果生出8只老鼠。参与研究的九州大学教授林克彦称，“如果利用不孕女性的iPS细胞培育卵子，将有助找出不孕原因。而且这次研究或可应用在保护濒危物种的层面上。”
+<a href="http://www.bbc.com/zhongwen/simp/science/2016/10/161017_japan_skin_cell_eggs" target="_blank"><u>研究团队表示</u></a>，过去使用普通卵子的体外受精成功率约60%至70%，但使用新方式的受精率却不高，而且老鼠出生率也不足1%，因此日后研究重心将放在如何提升卵子质量之上。
+➜抗议Peter Thiel的捐款 Project Include 终止与 Y Combinator 的合作
+https://www.solidot.org/story?sid=50033	17452
+著名风投家 Peter Thiel 向共和党总统候选人特朗普（Donald Trump） 竞选活动捐款125万美元的消息在硅谷引发了阵阵回响，旨在促进科技公司员工多元化的非营利组织<a target="_blank" href="http://projectinclude.org/"><u>“容纳计划”(Project Include)</u></a>宣布终止与 Peter Thiel 担任顾问的创业孵化器 Y Combinator 的合作。Y Combinator（YC）成立于2005年，孵化了过去十年科技行业一些最知名的公司，其中包括 Airbnb、Dropbox和Stripe。Project Include 的联合创始人鲍康如<a href="https://medium.com/projectinclude/peter-thiel-yc-and-hard-decisions-2b91bab83764#.85utz9c9k" target="_blank"><u>称</u></a>，Thiel 的行动与 Project Include 的价值观直接冲突，因为他与YC的关系，她们只能被迫终止与 YC 的关系。YC 的总裁 Sam Altman 则通过Twitter上的<a href="https://twitter.com/sama/status/787834522180079616" target="_blank"><u>一系列帖子</u></a>力挺Peter Thiel，他指出切割反对观点只会导致极端主义，不会创造一个我们想要的国家。观点的多元化对于一个民主社会的健康是痛苦但至关重要的，我们不能因为一个人的政治支持而清除掉他们。鲍康如否定Peter Thiel的捐款能被视为政治言论的说法，她说，我们一致同意不能因为一个人的政治观点而解雇他们，但这件事不是对纳税政策的异议，而是鼓吹仇恨和暴力。她指出特朗普对黑人、墨西哥人、亚裔、穆斯林、犹太人和女性的攻击不是政治言论，而是点燃了仇恨和鼓励暴力，让每个人都感觉不到安全。
+➜中国发表的AI论文数量超过美国
+https://www.solidot.org/story?sid=50034	19689
+<div align="center"><img src="http://img.solidot.org/0/926/lilDK7ck4Akc6.jpg" align="" height="282" width="450"><br>
+</div>
+<br>
+AI是目前最热门的研究领域之一，世界各国都竞相投入资金研究AI，而衡量研究规模的一个标准是论文发表数量。根据美国白宫公布的一幅图表，在2014年和2015年中国在深度学习领域——AI研究的一个分支——发表的论文数量<a href="https://www.washingtonpost.com/news/the-switch/wp/2016/10/13/china-has-now-eclipsed-us-in-ai-research/" target="_blank"><u>都超过了美国</u></a>，而且数量差距正在扩大。虽然我们都知道数量不等于质量，但根据论文引用次数这一衡量质量的标准，中国的论文质量也是引人注目的。
+➜游走在法律边缘的字幕组
+https://www.solidot.org/story?sid=50035	28392
+9月28日，日本京都警方<a href="http://www.solidot.org/story?sid=49856" target="_blank"><u>逮捕了</u></a>两名<a href="https://bbs.sumisora.org/index.php" target="_blank"><u>澄空学园</u></a>字幕组成员（实际上是片源提供者而不是真正的字幕翻译者）：30岁的王亮，20岁的留学生杨王轶。字幕组的法律争议再次引起了关注。在中国，由于政府对内容的控制和审查，虽然主流视频网站开始纷纷采购正版视频内容，但一则这些版权内容从审查完毕到上线有一个时间不确定的滞后期，二则内容会遭到删减。因此仍然有大量人群通过P2P下载和网盘分享的方式观看最新的动漫、电视和电影等视频节目。很多人缺乏理解视频内容的语言能力，对字幕的需求推动了字幕组的出现。字幕组的成员多数是出于热情去翻译，正版化后一些字幕组受雇于服务方，完成了合法化的转变，但还有许多<a href="https://theinitium.com/article/20161018-international-Fansub/" target="_blank"><u>游走在法律边缘</u></a>。一位字幕组成员说，“我爱看日剧、美剧，偶尔看看英剧、韩剧，很少看国内的电视剧。周围人差不多也这样。因为好看啊，不然看电视里抗日神剧和婆媳狗血剧吗？”对于被捕的两个同行，“我们组的片源暂时没有影响，虽然我也不知道片源具体是谁。他们太不小心了，P2P肯定不行，很容易追查到源头，得加密，分包，点对点传。”
+➜三星宣布量产10纳米工艺芯片
+https://www.solidot.org/story?sid=50036	29911
+三星发表<a href="https://news.samsung.com/global/samsung-starts-industrys-first-mass-production-of-system-on-chip-with-10-nanometer-finfet-technology" target="_blank"><u>新闻稿</u></a>，<a href="http://www.anandtech.com/show/10765/samsung-10nm-massproduction" target="_blank"><u>宣布</u></a>开始使用它的第三代10纳米LPE工艺量产一款SoC芯片。今年一月，三星才宣布使用14纳米LPP工艺量产芯片。三星没有说明是哪款SoC，但推测可能是三星自己的下一代 Exynos或高通Snapdragon 820的下一代产品。三星称，10纳米芯片可以在14纳米芯片同等物理面积上增加30%的晶体管，芯片设计师可以设计出速度提升最高27%或者是能耗减少40%的芯片。这款10纳米芯片预计将在明年初被相关产品使用。
+➜埃塞俄比亚紧急状态将在Facebook发帖变成犯罪
+https://www.solidot.org/story?sid=50037	30953
+在抗议活动加剧之后，埃塞俄比亚上周宣布国家进入紧急状态，为期六个月。点燃民众抗议的导火索是去年11月的首都扩建计划，引发了当地奥罗莫农民的担忧。这项计划最后被放弃了，但抗议仍然继续，焦点问题转向了边缘化和人权。根据紧急状态法，观看报道抗议的Oromia Media Network（OMN）和Ethiopian Satellite Television and Radio（ESTR）将是违法，OMN和ESTR是两家设在美国的媒体。国防部长Siraj Fegessa称，<a href="http://qz.com/810955/as-oromo-crisis-grows-ethiopia-bans-posting-on-facebook/" target="_blank"><u>看社交媒体的帖子和发表有关该国状况的帖子都是犯罪行为</u></a>。违反紧急状态的人将面临3到5年徒刑。
+➜百事可乐将在2025年略减添加糖
+https://www.solidot.org/story?sid=50038	33148
+美国人正在议论肥胖在过去三十年快速上升的现象，而高卡路里的含糖饮料被认为是肥胖流行的<a href="http://www.solidot.org/story?sid=49983" target="_blank"><u>罪魁祸首</u></a>之一。现在，两大软饮料生产商之一的百事可乐宣布将到2025年<a href="http://arstechnica.com/science/2016/10/to-address-urgent-obesity-crisis-pepsico-plans-slight-sugar-cut-by-2025/" target="_blank"><u>略微减少添加糖</u></a>。添加糖是在食品生产处理过程中加入的非天然糖分。今天60%的百事可乐饮料包含了热量超过100卡路里的添加糖，该公司的目标是未来九年将这一比例减少到33%。美国70%的成年人超重，其中38%的人肥胖。超过2900万美国人有糖尿病，8600万人有前期糖尿病。百事可乐表示将会生产更多零或低卡路里的饮料。
+➜不使用抗生素杀死抵抗抗生素的超级细菌
+https://www.solidot.org/story?sid=50039	35810
+研究人员正与病菌展开一场军备竞赛，当病菌发展出抗生素抵抗能力之后，他们就接着开发新的抗生素。现在，墨尔本大学的一位大马博士生Shu Lam开发出了一种<a href="http://edgylabs.com/2016/10/17/kill-antibiotic-resistant-superbugs-without-antibiotics/" target="_blank"><u>不使用抗生素杀死抵抗抗生素的超级细菌的新技术</u></a>。Shu Lam研发出一种星形聚合物，能瞄准、渗透和破坏细菌的细胞膜。被称为 Structurally Nano-engineered Antimicrobial Peptide Polymers（SNAPP）的聚合物能在不伤害健康细胞的情况下导致细菌在经历生物物理压力后自杀。<a href="http://www.nature.com/articles/nmicrobiol2016162" target="_blank"><u>研究报告</u></a>发表在《Nature Microbiology》期刊上。这项技术在实验鼠身上测试了六种抗生素抵抗的菌株，超级细菌在多代之后没有发展出抵抗SNAPP的能力。在人体试验前这项技术还需要接受更广泛的测试。
+➜Wikileaks 称厄瓜多尔切断了 Assange 的网络连接
+https://www.solidot.org/story?sid=50040	36806
+匿名读者 写道 <i>"
+Wikileaks 的 twitter 账号于 2016年10月16日发<a href="https://twitter.com/wikileaks/status/787889195507417088" target="_blank">推文</a>称"Julian Assange 的网络连接被某国故意切断。我们已经启动了应急预案"。翌日又发<a href="https://twitter.com/wikileaks/status/788099178832420865" target="_blank">推文</a>称"我们确定厄瓜多尔切断了 Assange 的网络连接，时间是GMT时间周六下午5点，就在我们公布了希拉里在高盛的演讲之后"。Wikileaks 创始人 Julian Assange 已在厄瓜多尔驻英国大使馆避难将近四年时间，互联网几乎是其唯一与外界保持联系的方式。厄瓜多尔外交部随后<a href="http://www.bbc.com/news/technology-37680411" target="_blank">发表声明</a>称 Assange 的"政治避难依旧有效"，但未对断网事件做出评论。据 Wikileaks 披露的邮件，为了让 Wikileaks 闭嘴，Hillary Clinton <a href="https://www.rt.com/usa/361459-secretary-clinton-drone-assange/" target="_blank">曾考虑</a>用无人机杀死 Julian Assange。
+"
+</i>
+➜匹兹堡AI交通信号让司机不感到无聊
+https://www.solidot.org/story?sid=50041	37904
+交通拥挤会造成昂贵的生产力经济损失。而在交通高峰期间，司机有40%的时间无所事事。造成这种现象的原因之一是交通信号灯系统太蠢。卡内基梅隆大学的教授 Stephen Smith 正在开发一种人工智能交通信号系统，能根据交通状况调整信号。<a href="http://spectrum.ieee.org/cars-that-think/robotics/artificial-intelligence/pittsburgh-smart-traffic-signals-will-make-driving-less-boring" target="_blank"><u>匹兹堡市正在试运行这套系统</u></a>，结果令人印象深刻：智能交通信号减少了25%的出行时间，减少了40%的汽车空转的时间。当地居民也表示交通状况确实好转。研究人员估计这套系统能减少21%的尾气排放。它还可能节省城市的公路拓宽费用或消除路边停车。Smith称他开发的智能交通灯管理系统是去中心化的，每个交通灯自己决定信号时间，它是真正的智能系统。
+➜没人想收购Twitter
+https://www.solidot.org/story?sid=50042	42114
+彭博社援引匿名知情人士的消息<a href="https://www.bloomberg.com/news/articles/2016-10-17/disney-said-to-have-dropped-twitter-pursuit-partly-over-image" target="_blank"><u>报道</u></a>，迪士尼公司决定不对Twitter提出报价，部分原因是担心Twitter上的欺凌和其它不文明的交流形式会玷污公司的快乐家庭形象。迪士尼雇佣了两家投行去评估对Twitter的报价。迪士尼放弃收购的Twitter其它原因是该公司虽然在亏损但市场价值仍然有120亿美元，对迪士尼来说这是一大笔钱。迪士尼的市值大约12倍于Twitter，多个大股东表达了不赞成收购的意见。在这之前，Salesforce也部分因为类似的公司形象问题而<a href="http://www.businessinsider.com/twitter-trolls-caused-salesforce-to-walk-away-from-deal-2016-10" target="_blank"><u>放弃收购</u></a>。Google也无意收购，看起来真的<a href="https://apple.slashdot.org/story/16/10/15/1124213/no-one-wants-to-buy-twitter" target="_blank"><u>没人想购买Twitter</u></a>。而与此同时，中国的Twitter——新浪微博——的市值<a href="http://www.bloomberg.com/news/articles/2016-10-13/china-s-weibo-has-nearly-eclipsed-twitter-by-market-value-chart" target="_blank"><u>正在超过</u></a>股价不断下跌的Twitter。
+➜苏联的互联网项目为什么失败了
+https://www.solidot.org/story?sid=50043	44543
+1970年10月1日早晨，计算机科学家 Viktor Glushkov 走进克里姆林宫拜见政治局。苏联正面临一个严重的问题。一年前，美国发布了阿帕网——世界第一个封包交换分布式计算机网络。阿帕网设计让美国科学家和领导人能在遭受核攻击的情况下继续通信。苏联必须对此做出回应。Glushkov的创意将开启一个电子化社会主义的新时代。他雄心勃勃的All-State Automated System（OGAS）项目寻求对整个计划经济进行技术升级，试图成为一个实时的远程访问的国家计算机网络。他所需要的是得到政治局的拨款。有一个人挡住了Glushkov 的路：财政部长 Vasily Garbuzov。他不想要任何实时的计算机网络管理或传递国家经济的信息。Garbuzov说服了政治局OGAS项目盲目而匆忙。得不到国家资助之后，OGAS项目变成了数以百计的孤立的非交互区域化控制系统。苏联互联网的命运让我们能一窥全球互联网的可怕未来：今天的互联网正走向一个个孤岛，有无数的围墙花园，也有类似防火长城的内向性网络。<a href="https://aeon.co/essays/how-the-soviets-invented-the-internet-and-why-it-didn-t-work" target="_blank"><u>未来与过去无比相像。</u></a>
+➜李彦宏称人工智能不会毁灭人类
+https://www.solidot.org/story?sid=50044	47357
+在中国科学技术大学遭到学生<a href="http://tech.sina.com.cn/i/2016-10-18/doc-ifxwvpar8351291.shtml" target="_blank"><u>留言抗议</u></a>的百度CEO李彦宏谈论了广泛的话题，其中包括了人工智能。李彦宏透露11月份会在乌镇的世界互联网大会期间试运行最新版的百度无人车。对于娱乐化的人工智能毁灭人类情节，李彦宏认为，<a href="http://news.sciencenet.cn/htmlnews/2016/10/358589.shtm" target="_blank"><u>人工智能不会超越人类</u></a>，虽然其在计算、识别等某些智能专业领域超越了人类，但人工智能在创造力方面距离超越人类还非常远，而且人工智能并没有感情。“感情是最没有逻辑的，目前的人工智能并没有方法模拟人的行为。人工智能做的，绝大多数都是在帮助人类，所以它可以被控制，“至少在我的有生之年人类可以控制它。”

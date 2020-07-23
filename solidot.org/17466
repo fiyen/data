@@ -1,0 +1,45 @@
+➜超音速汽车Bloodhound SSC 准备挑战 1000 英里时速记录
+https://www.solidot.org/story?sid=54274	11628
+挑战速度世界纪录的超音速汽车 Bloodhound SSC 本周二在英格兰 Newquay 的一条跑道上<a href="https://arstechnica.com/cars/2017/10/bloodhound-ssc-finally-runs-breaks-210mph-in-first-runway-test/" target="_blank"><u>完成了它的首次公开测试</u></a>。汽车装备了 EJ200 喷气发动机和 Nammo 火箭，本周的测试只使用了发动机，驾驶员、英国皇家空军中校 Andy Green 在 8 秒钟内加速将汽车到时速 210 英里。Bloodhound SSC 的目标是突破时速 1000 英里，210 英里离这个目标还很遥远，但这次测试本来就只是一次热身。Bloodhound 项目因为资金缺乏而一度停滞，去年浙江吉利公司<a href="http://technology.solidot.org/story?sid=49828/" target="_blank"><u>成为了</u></a>主要赞助商和合作伙伴，项目团队预计要到 2018 年在南非的 Hakskeen 沙漠挑战时速 1000 英里的目标。
+➜AMD 发布面向超薄本市场的 APU
+https://www.solidot.org/story?sid=54275	14210
+继桌面处理器和服务器处理器之后，AMD 在超薄本市场向英特尔正式发起了挑战。<a href="https://www.anandtech.com/show/11964/ryzen-mobile-is-launched-amd-apus-for-laptops-with-vega-and-updated-zen" target="_blank"><u>它宣布了两款新 APU</u></a>—— Ryzen 7 2700U 和 Ryzen 5 2500U，集成了 4 核 8 线的 Zen 架构 CPU 核心和 Vega 图形核心，功耗 15 瓦。惠普、联想和宏碁预计都会在近期推出采用 AMD 新 APU 的笔记本电脑产品。2700U 和 2500U 主要区别在于频率的差异：2700U 基频 2.2GHz，Turbo 频 3.8GHz，显示核心为 10 CUs (640 SPs) 频率最高 1300 MHz；2500U 基频 2.0GHz，Turbo 频 3.8GHz，显示核心为 8 CUs (512 SPs) 频率最高 1100 MHz。AMD 称新 APU 的 CPU 性能比上一代产品提升 200%，GPU 提升 128%。它还公布了一些基准测试结果：英特尔的  Kaby Lake-R 在单线程测试中仍然略微领先 2700U 和 2500U，但在多线程和显示性能测试中全面落后。AMD 的 APU 性能略微超过了 Kaby Lake 处理器加 GeForce 950M 独显的性能。
+➜肯尼迪遇刺文件部分解密
+https://www.solidot.org/story?sid=54276	16467
+美国国家档案馆<a href="https://www.archives.gov/research/jfk/2017-release" target="_blank"><u>解密了</u></a> 2800 份肯尼迪遇刺文件，但还有更多文件仍然保密。美国总统特朗普表示，出于国家安全考虑，他只能公布编辑后的版本。一位政府官员<a href="http://cn.wsj.com/gb/20171027/bgh094114.asp" target="_blank"><u>表示</u></a>，一些仍然保密的文档已经做了编辑，这是因为以 CIA 和 FBI 为主的几个政府部门对其中包含的敏感内容表达了关切。根据特朗普的命令，这些机构将在明年 4 月 26 日前评估是否能公布这些文档，并将仍然保密的文档数量降到最低水平。
+➜迈克菲不再允许政府检查其软件源代码
+https://www.solidot.org/story?sid=54277	17316
+在<a href="http://www.solidot.org/story?sid=54076" target="_blank"><u>赛门铁克</u></a>之后，另一家美国安全公司迈克菲<a href="https://www.reuters.com/article/us-usa-cyber-russia-mcafee/mcafee-says-it-no-longer-will-permit-government-source-code-reviews-idUSKBN1CV2MP" target="_blank"><u>宣布</u></a>不再允许外国政府检查其软件源代码。美国科技公司为了在俄罗斯和中国等国获得产品出售许可证而允许政府检查产品源代码。赛门铁克也曾是其中一员，允许相关政府检查其软件的源代码。但随着国家支持的黑客攻击活动的增加，允许外国政府检查源代码增加了安全风险。迈克菲发言人在一份声明中称，它是在今年 4 月脱离英特尔独立之后终止了源代码检查，但没有提供更精确的时间表。
+➜Wayland 开发者抨击 Nvidia
+https://www.solidot.org/story?sid=54278	19117
+你可能还记得 Linus Torvalds 曾对 Nvidia 竖中指，现在一位 Wayland 开发者发表文章用更激烈的言辞<a href="https://drewdevault.com/2017/10/26/Fuck-you-nvidia.html" target="_blank"><u>抨击 Nvidia</u></a>。开发者 Drew DeVault 宣布兼容 i3 的 Wayland 合成器 <a href="https://github.com/swaywm/sway" target="_blank"><u>Sway 1.0</u></a> 将不支持 Nvidia 的私有驱动 EGLStreams。他解释说，Sway 及其它 Wayland 合成器使用 Linux kernel API 如 Kernel Mode Setting（KMS）、Direct Rendering Manager（DRM） 和 Generic Buffer Management（GBM） 来支持不同的显卡，但 GPU 供应商中只有 Nvidia 不支持这些 API，AMD 和 英特尔都有合并到主线的开源驱动支持这些 API，其中 AMD 甚至用开源驱动取代了它的私有驱动。但在另一方面 Nvidia 却是一个不折不扣的混蛋，一年前它宣布将支持 Wayland，这包括  KMS 和 DRM 支持，但不包括 GBM 支持。不支持 GBM 意味着 Nvidia 的私有驱动不支持 Wayland。Sway 用户向他抱怨合成器不支持 Nvidia，但这个问题不是他的问题而是 Nvidia 的问题。他说，即使混蛋如 Broadcom 也提供对相应内核 API 的支持。他建议 Linux 用户购买 AMD 的显卡。
+➜AI 打败 CAPTCHA
+https://www.solidot.org/story?sid=54279	25388
+研究发现，通过模仿人类视觉工作的原理，AI 软件<a href="https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/artificial-intelligence-beats-captcha" target="_blank"><u>能打败</u></a>最广泛使用的区分计算机和人类的图灵测试——Google 的 reCAPTCHA。如果算法能以 1% 的成功率通过测试，那么这种 CAPTCHA 就被认为无效了。湾区创业公司 <pangu> </pangu><a href="https://www.vicarious.com">Vicarious</a> 的 AI 软件能以 66.6% 的正确率通过 reCAPTCHA 测试，以 64.4% 的精度通过 BotDetect， Yahoo 是 57.4%，PayPal 为 57.1%。Vicarious 使用了名叫递归皮层网络（RCN）的神经网络，而且不需要多少训练数据。他们的<a href="http://science.sciencemag.org/lookup/doi/10.1126/science.aag2612" target="_blank"><u>研究论文</u></a>发表在《科学》期刊上，公司创始人、论文主要作者 Dileep George 表示，他们的系统能用相对少的例子学习，就像人脑一样。Vicarious 称他们用人类的视觉系统建模了 RCN。他们的发现显示基于文本的验证码正逐渐过时。
+➜法国批准生物眼人体试验
+https://www.solidot.org/story?sid=54280	27900
+五名患有严重视力丧失症状的患者将在眼睛里植入一种实验性的芯片来帮助他们恢复视力。法国监管机构上周<a href="https://spectrum.ieee.org/the-human-os/biomedical/bionics/french-regulators-approve-human-trial-of-a-bionic-eye" target="_blank"><u>批准了生物眼人体试验</u></a>，通过植入芯片治疗萎缩性增龄性黄斑变性，这种疾病会导致年龄超过 50 岁的患者丧失视力。植入的芯片将通过电刺激来充当眼睛和大脑之间的通信管道。这次人体试验将是首次尝试用芯片来治疗萎缩性增龄性黄斑变性。
+➜未来五年的中国互联网
+https://www.solidot.org/story?sid=54281	29220
+《华尔街日报》前主编发表了一篇文章<a href="http://cn.wsj.com/gb/20171027/LLW144241.asp" target="_blank"><u>讨论了未来五年的中国互联网</u></a>：更强大的防火墙。访问外网可能越来越难。云计算和人工智能的进步意味着审查网络内容的 “防火墙” 将更加令人生畏，网络审查将覆盖细微的网络活动并追踪到每个网民的上网足迹。防火墙内，互联网繁荣依旧。科技公司必须向习近平证明自己。阿里巴巴、腾讯和其他大型科技公司将面临更多与政府加强合作的压力。研发支出大幅增长。
+➜新镀金时代
+https://www.solidot.org/story?sid=54282	30420
+世界再次进入到了镀金时代以来<a href="https://www.theguardian.com/business/2017/oct/26/worlds-witnessing-a-new-gilded-age-as-billionaires-wealth-swells-to-6tn" target="_blank"><u>财富最为集中的时代</u></a>。从 1870 年代到 1900 年的<a href="https://zh.wikipedia.org/wiki/%E9%95%80%E9%87%91%E6%97%B6%E4%BB%A3" target="_blank"><u>镀金时代</u></a>，财富大量集中在卡内基、洛克菲勒和范德比尔特等家族的手中。根据 UBS 的<a href="https://www.ubs.com/microsites/billionaires-report/en/new-value.html" target="_blank"><u>报告</u></a>，全球亿万富翁（超过 10 亿美元）的财富过去一年增长了 17%，总和达到了创纪录的 6 万亿美元，比英国 GDP 的两倍还要多。亚洲的亿万富翁总数首次超过了美国。按照目前的财富增长速度，亚洲亿万富翁的财富也将在四年内超过美国。报告主要作者 Josef Stadler 说，我们正处于一个转折点，全球的财富集中度和 1905 年一样高，部分亿万富翁也为此感到担忧。他认为我们正进入第二个镀金时代，社会会对此作出什么反应？是时代终结还是继续？
+➜艾伦脑科学研究所公布活人脑细胞数据库
+https://www.solidot.org/story?sid=54283	31355
+艾伦脑科学研究所<a href="http://www.sciencemag.org/news/2017/10/fresh-human-brains-yield-delicious-data" target="_blank"><u>公布</u></a>了首个活人脑细胞<a href="http://celltypes.brain-map.org/" target="_blank"><u>开放获取数据库</u></a>。它包含了 36 名患者的 300 个皮层神经元电属性数据和其中 100 个细胞的 3D 重建，以及来自另外 3 名患者的 1.6 万神经元的基因表达数据。艾伦脑科学研究所是从正在接受大脑手术的患者那里获取到健康的皮层细胞。这些活脑组织细胞数据有助于科学家更好的理解人脑。以前的大脑研究使用的是取自于死人的脑细胞。
+➜海航洽谈收购当当
+https://www.solidot.org/story?sid=54284	33716
+路透社援引匿名知情人士的消息<a href="http://cn.reuters.com/article/china-hna-dangdang-ma-valuatiion-idCNKBS1CW0Y9" target="_blank"><u>报道</u></a>，海航正在洽谈收购当当网的控股股权。当当网也在与其他潜在投资人洽谈。当当网则表示公司尚未接受任何收购提议。海航过去两年进行了价值达500亿美元的并购活动，公司持股结构及财务杠杆情况引发关注，促使海航最近几个月放缓收购步伐。最新交易对当当网的估值有可能在 80-100 亿元人民币。
+➜美国的补习班文化
+https://www.solidot.org/story?sid=54285	36128
+补习班文化随亚洲移民的涌入<a href="https://cn.nytstyle.com/education-career/20171027/asian-test-prep-centers-offer-parents-exactly-what-they-want-results/" target="_blank"><u>而在美国日益兴盛</u></a>，而很多上补习班的学生并不是来自富裕移民家庭，补习的学生希望通过教育改变自身阶层。纽约市立大学皇后区学院的社会学教授平甲敏（Pyong Gap Min）表示，在中国和韩国等国的多次移民浪潮之后，亚洲辅导行业的痕迹就出现在了美国。平甲敏称，它们是在 1960 年代废除长期的排外移民法后出现的，不过在 1980 年代，中国、韩国和南亚移民大量涌入之后，纽约等城市才第一次明显注意到补充教育中心的存在。平甲敏认为法拉盛的备考中心是那些移民祖国严格的“填鸭式学校”的衍生物——在中国叫“补习班”，在韩国叫“补习学校”。这种严格的要求被认为是与中国等国以考试为基础的全国教育体系相一致的必要做法——在中国，一次考试决定能上什么大学。“是儒家在强调孩子的教育，”平甲敏说。“你去中国、韩国和台湾看看，都有课后班，它们被传到了这里。”
+➜挥金如土背后的心理学
+https://www.solidot.org/story?sid=54286	42793
+你购买了一千美元的 iPhone X，数万美元的森海塞尔，百万美元的法拉利，为什么人们会热衷于购买奢侈品？哈佛商学院工商管理教授兼心理学家迈克尔 · 诺顿（Michael Norton）的研究表明，我们之所以愿意挥霍金钱，<a href="http://www.bbc.com/ukchina/simp/vert-cap-41738448" target="_blank"><u>是为了寻找极致体验</u></a>。"当你享受到高品质的体验时，愉悦感可能会得到额外的提升。所以一万美元一瓶的威士忌带来的愉悦感，可能比 5,000 美元一瓶的威士忌高出两倍多，因为它可以提供最极致的体验...我们在消费时会存在与人攀比的心理。如果我的红酒比你的好，那我就赢了，这样就能显示出我的身份有多么高贵。"诺顿表示，你通过花钱获得的快乐取决于你花钱的方式，未必与花钱的数量有关。诺顿表示，挥金如土地给自己买东西都有局限，不会随着时间的推移提升幸福感。相反，他建议把钱花在体验上，而不是用来购买有形的东西。
+➜联想整合富士通 PC 业务的谈判即将结束
+https://www.solidot.org/story?sid=54287	43250
+去年十月，富士通<a href="http://www.solidot.org/story?sid=49898" target="_blank"><u>透露</u></a>联想将整合它的 PC 业务，两家公司正在磋商成立合资企业，其中联想将持股 51%，拥有控股权。富士通认为靠自己很难在竞争激烈的 PC 市场生存下去，通过与联想合资削减零部件采购和制造成本，以提升收益性。一年之后，两家公司的谈判还没有结束，富士康现在表示<a href="http://cn.nikkei.com/china/ccompany/27624-2017-10-27-11-12-51.html" target="_blank"><u>有望在下个月完成谈判</u></a>。富士通的岛根工厂有约 900 名员工在 PC 业务部门工作，确保这些人不被裁员是富士通的底线。富士通高层表示，“维持就业和品牌等大体框架已经确定”，达成最终协议似乎已经没有太大障碍。在日本国内的生产基地方面，双方也被认为同意保留富士通的岛根工厂。但从市场的未来预期来看，很难保证将来也会这样。
+➜研究认为网游成瘾并不是真的
+https://www.solidot.org/story?sid=54288	46028
+对数千网游玩家的跟踪研究发现，所谓的网游成瘾<a href="https://www.newscientist.com/article/2151515-gaming-addiction-probably-isnt-a-real-condition-study-suggests/" target="_blank"><u>可能并不真的存在</u></a>，人们长时间的玩网游并不是因为他们真的被游戏迷住了，而是因为他们对生命中的其他部分感到不快乐。网游成瘾症状被美国精神病学会的精神疾病诊断和统计手册认为是需要进一步研究的精神状况。手册认为需要满足九种条件中的至少五种才能被怀疑有网络游戏成瘾 。英国的研究人员调查了 2316 名 18 岁以上的网游玩家，没有发现多少人存在临床问题。进一步分析显示，长时间玩网游的人更多是对生命中的其它领域感到不快乐，比如关系或职业。研究认为，长时间玩游戏可能是处于不快乐情况下的人的替换活动，而不是真的成瘾。他们的<a href="https://peerj.com/articles/3838/" target="_blank"><u>研究报告</u></a>发表在《PeerJ》上。

@@ -1,0 +1,30 @@
+➜将数据与应用分离
+https://www.solidot.org/story?sid=58141	3001
+匿名读者 写道<i> "<a href="https://github.com/solid/solid" target="_blank">Solid</a>（Social Linked Data 社交关联数据）是 Web 之父 Tim Berners-Lee 爵士所领导 <a href="https://solid.mit.edu/" target="_blank">MIT 团队</a>的 Web 重新去中心化项目，基于 <a href="https://www.w3.org/DesignIssues/LinkedData.html" target="_blank">Linked Data</a>（关联数据）原则以构建去中心化 Web 应用。将数据与应用分离，数据存储在 POD（Personal Online Data 个人在线数据） 上，应用访问数据需被授权。
+</i><i>
+</i>
+<p><i>Tim Berners-Lee 爵士和 John Bruce 创办 <a href="https://www.inrupt.com/" target="_blank">Inrupt</a> 公司推进 Solid 项目，支持 <a href="https://solid.inrupt.com/" target="_blank">Solid 社区</a>。
+</i></p>
+<i>
+</i>
+<p><i><a href="https://github.com/solid/node-solid-server" target="_blank">Node Solid Server</a> 是 <a href="https://github.com/solid/solid-spec" target="_blank">Solid 规范</a>的实现。除了自建服务器也可选择信任的 PODS（Personal Online Data Stores 个人在线数据商）<a href="https://solid.inrupt.com/get-a-solid-pod" target="_blank">获取 Solid POD</a>，注册并生成 WebID。（原型，<a href="https://github.com/solid/solid/issues?q=label%3Abug" target="_blank">一堆 bug</a>）</i></p>
+<i>
+</i>
+<p><i><a href="https://github.com/solid/profile-viewer-tutorial" target="_blank">配置文件查看器</a>演示了应用如何登录登出并从 Solid POD 读取数据，需运行于 Web 服务器（例如 npm install -g <a href="https://www.npmjs.com/package/local-web-server" target="_blank">local-web-server</a> 或参照 MDN 文档<a href="https://developer.mozilla.org/zh-CN/docs/Learn/Common_questions/set_up_a_local_testing_server" target="_blank">建立简单的本地测试服务器</a>），文档提供了用于测试的 <a href="https://ruben.verborgh.org/profile/#me" target="_blank">Profile</a>。
+</i></p>
+<i>
+</i>
+<p><i>在 yourpod 的照片与在 mypod 上对照片的评论需要关联数据。关联数据以 RDF（Resource Description Framework 资源描述框架）表示，<a href="https://solid.inrupt.com/docs/expressing-ld-with-turtle" target="_blank">使用 RDF 语法中的 Turtle</a>（Terse RDF Triple Language 简洁 RDF 三元语言），重用了 <a href="https://www.w3.org/TR/annotation-vocab/#web-annotation-ontology" target="_blank">Web Annotation Ontology</a>（Web <a href="https://www.w3.org/annotation/" target="_blank">注释</a>本体）。提供了 rdflib.js 关连数据常规工具箱以存储，解析，序列化为各格式并跟踪应用或服务器的数据变更。
+</i></p>
+<i>
+</i>
+<p><i>Ruben Verborgh 是 Solid 项目的开发者，于去年的<a href="https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/" target="_blank">博客文章</a>谈论了数据和应用的分离。以社交网络为例，Twitter 和 Facebook 已经是以百万或数十亿用户单一数据中心的极端，而像电子邮件系统一样联邦式的去中心化微博网络 Mastodon（乳齿象）则大约 150 万用户分布在 2400 邦。Solid 则更进一步设想每人一个甚至多个 POD，一个 POD 用于办公，一个 POD 用于家用，一个 POD 用于学习等。数据和应用的分离将提高竞争力，以更快的速度激发创新，提供服务的能力不再取决于数据的所有。应用将以服务质量取胜，因为人们随时可以更换更合适的应用。"</i></p>
+➜PaX/Grsecurity发布Respectre编译器插件
+https://www.solidot.org/story?sid=58142	25200
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "近日，美国开源安全厂商Open Source Security Inc.<a href="http://www.prweb.com/releases/open_source_security_inc_announces_respectre_the_state_of_the_art_in_spectre_defenses/prweb15814906.htm" target="_blank">公布了PaX/Grsecurity最新的基于GCC编译器插件Respectre</a>，目前Respectre主要是针对<a href="https://hardenedlinux.github.io/system-security/2018/08/16/meltdown_spectre_l1tf.html" target="_blank">Spectre v1</a>漏洞的防御，当前的版本能覆盖大部分<a href="https://www.paulkocher.com/doc/MicrosoftCompilerSpectreMitigation.html" target="_blank">Spectre v1的场景</a>，支持ARMv7, AArch64, PPC64, x86以及x86_64多个硬件架构，由于支持大于等于GCC v4.5的几乎所有版本，所以并不会<a href="https://cyber.wtf/2018/02/13/in-debt-to-retpoline/" target="_blank">影响生产环境</a>中运行的GNU/Linux发行版现有的部署，Respectre作为编译器插件可以灵活的处理各种场景包括防护Linux内核以外的代码，其Linux内核运行时性能损耗大致在0.3%，未来会<a href="https://grsecurity.net/respectre_announce.php" target="_blank">持续改进</a>静态分析模块适配更多的Spectre场景。"</i>
+➜Firefox 和 Edger 加入对 Google WebP 图像格式的支持
+https://www.solidot.org/story?sid=58143	37300
+在 Google WebP 图像格式发布八年之后，两大浏览器开发商 Mozilla 和微软终于加入了对 WebP 的支持。WebP 是基于 VP8 的有损和无损图像压缩格式，2010 年发布首个版本。Mozilla 现在<a href="https://www.cnet.com/news/firefox-to-support-googles-webp-image-format-for-a-faster-web/" target="_blank">表示</a>它正在实现对 WebP 格式的支持，但只有桌面版和 Android 版本会支持  WebP，iOS 版本不会，因为 Firefox for iOS 使用的是 Safari 的 WebKit 引擎，而不是 Mozilla 自己的 Gecko 引擎，WebKit 目前不支持 WebP。本周开始推送（后暂停推送）的 Windows 10 October 2018 Update 包含了最新版本的 Edge 浏览器，已经加入了对 WebP 的<a href="https://blogs.windows.com/msedgedev/2018/10/04/edgehtml-18-october-2018-update/" target="_blank"><u>完整支持</u></a>。
+➜Greg Kroah-Hartman 称鲜有手机供应商更新内核
+https://www.solidot.org/story?sid=58144	55757
+Linux 内核维护者 Greg Kroah-Hartman 接受<a href="https://www.youtube.com/watch?v=jkGVabyMh1I&amp;feature=youtu.be" target="_blank"><u>视频采访</u></a>（YouTube）时被问到什么 bug 最让他们恼火，他回答称是整个  Spectre/Meltdown 问题。让他们生气的是，他们从事的是软件开发，但却要去修复硬件层面的 bug。CPU 黑盒的复杂度比过去更大了，因为 CPU 供应商试图竭尽所能去利用所有的性能，其中需要利用到特殊技巧，而这些特殊技巧有时候会引火烧身。 Spectre/Meltdown 问题就是如此。除了修 bug 外，Linux 社区也在不停的加固内核。但加固内核本身不足以改进安全，还需要硬件供应商去启用新引入的安全加固功能，而这通常不会发生。以 Android 平台为例，除了 Google 自家的 Pixel 智能手机，绝大部分 Android 手机都不包含额外的加固功能，这意味着所有这些手机都容易受到攻击。Kroah-Hartman 曾经购买了所有基于 kernel 4.4 内核的一线品牌 Android 手机，观察哪些公司的手机更新了内核，结果只有一家更新了。他正尝试与整个供应链合作去解决这个难题，让手机更新内核成为可能。相比消费者级的电子产品，企业级 Linux 系统供应商通常会及时更新内核。

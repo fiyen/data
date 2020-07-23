@@ -1,0 +1,12 @@
+➜慕尼黑市 IT 负责人对回归 Windows 感到惊讶
+https://www.solidot.org/story?sid=51657	42074
+慕尼黑市计划到 2021 年重新投入微软软件的怀抱，该市的 IT 负责人 Karl-Heinz Schneider 对此决定表示惊讶，称没有令人信服的技术理由<a href="http://www.techrepublic.com/article/linux-in-munich-no-compelling-technical-reason-to-return-to-windows-says-citys-it-chief/" target="_blank"><u>抛弃 Linux 和 LibreOffice 重新使用 Windows 和 Microsoft Office</u></a>。Schneider 称，慕尼黑已经解决了 Linux 上运行业务线软件和与外界交换文档的兼容性问题。这些兼容性理由是该市政客决定重新使用微软软件的关键理由。他指出他们已经解决了兼容性和互操作问题，使用  LiMux 和 LibreOffice 不再存在大的技术问题。他的说法呼应了慕尼黑绿党和自由软件欧洲基金会对于抛弃  LiMux 的批评，两个组织认为   LiMux 是慕尼黑 IT结构性和组织问题的替罪羔羊。<br>
+➜英特尔向 FreeBSD 基金会捐赠 25 万美元
+https://www.solidot.org/story?sid=51658	50352
+英特尔向 FreeBSD 基金会<a href="https://twitter.com/michaeldexter/status/840423816249589760" target="_blank"><u>捐赠了</u></a> 25 万美元，是今年向 FreeBSD 基金会<a href="https://www.freebsdfoundation.org/donors/" target="_blank">捐款</a>最多的企业。芯片巨人以客户需求为由，<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Better-FreeBSD" target="_blank"><u>宣布</u></a>将更积极的参与 FreeBSD 项目，改进其平台对  FreeBSD 的支持。英特尔没有透露什么客户对 FreeBSD 产生浓厚兴趣。索尼的 PS 4 运行的操作系统是基于 FreeBSD，但它使用的 CPU 和 GPU 是英特尔竞争对手 AMD 提供的。
+➜中国供应商通过邮寄向美国人提供致命毒品
+https://www.solidot.org/story?sid=51659	50486
+卡芬太尼（Carfentanil）是一种比吗啡强一万倍的麻醉剂。从去年夏天开始，美国各地报告了多起因过量注射卡芬太尼死亡的案件。卡芬太尼从来不是设计用于人类消费的，它被用于杀死或瘫痪人类，有报道称它曾被用于暗杀，以及被俄罗斯特种部队使用过。比如在解救人质时将其作为气雾剂喷出去迷倒劫持者。但悲剧的是，这种气体杀死了超过 100 名人质。卡芬太尼的合法用途主要是用于麻醉大型动物如大象和河马。美国缉毒署称，去年 7 月俄亥俄州亚克朗市的医务人员记录下了超过 230 起过量注射报告，其中 14 起致命。佛罗里达、新泽西等州也有类似的毒品过量注射报告。调查发现，这些毒品主要是通过美国邮政邮寄，通<a href="http://www.npr.org/2017/03/11/519649096/can-china-ban-on-deadly-opioid-save-lives-in-the-u-s" target="_blank"><u>常是在中国的实验室里制造出来的</u></a>。报道称，中国政府已经采取了行动，上个月宣布禁止出口卡芬太尼和其他三种麻醉剂。
+➜补充 JavaScript 的 WebAssembly 正逐渐走向主流
+https://www.solidot.org/story?sid=51660	56000
+本周发布的 Firefox 52 加入了对 <a href="https://github.com/WebAssembly" target="_blank"><u>WebAssembly</u></a> 的支持，成为第一个支持 WebAssembly 标准的浏览器，而其它浏览器如 Chrome 57、Safari 和 Edge 也都会陆续<a href="http://www.solidot.org/story?sid=44480" target="_blank"><u>支持</u></a> WebAssembly。WebAssembly 源于Mozilla 发起的 Asm.js 项目，设计补充而非取代 JavaScript， 它是一个二进制格式，容易翻译到原生代码，本地解码速度比 JS 解析快得多，让高性能的 Web 应用在浏览器上运行成为可能，比如视频游戏、计算机辅助设计、视频和图像编辑、科学可视化等等。未来，现有的生产力应用和  JavaScript 框架都有可能使用 WebAssembly，<a href="https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb" target="_blank"><u>能显著降低加载时间</u></a>，同时改进运行性能。开发者可以将针对 CPU 密集计算的 WebAssembly 库整合到现有的 Web 应用中。

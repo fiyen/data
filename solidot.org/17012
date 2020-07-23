@@ -1,0 +1,15 @@
+➜Google 域名支持 HSTS
+https://www.solidot.org/story?sid=49133	35290
+Google 官方博客宣布<a target="_blank" href="https://security.googleblog.com/2016/07/bringing-hsts-to-wwwgooglecom.html"><u>其域名 Google.com 支持 HSTS</u></a> 。HSTS代表 HTTP Strict Transport Security ，是一种帮助网站将用户从不安全的HTTP版本重定向到安全的HTTPS版本的机制。如果你访问的网站启用了HSTS，那么浏览器将会记住这一标记，确保未来每次访问该网站都会自动定向到HTTPS，不会在无意中访问不安全的HTTP。Google称在传输中加密数据有助于保护用户及其数据的安全。主流浏览器都支持 HSTS 机制。
+➜消失的博客
+https://www.solidot.org/story?sid=49134	40877
+在云时代，许多人想当然的认为互联网巨头会为替我们保留所有的数据，不会无缘无故的删除数据，因此可以放心的将数据控制权交给它们。但总是有人会成为例外。普渡大学副教授 Roxane Gay 在《纽约时报》上<a target="_blank" href="http://www.nytimes.com/2016/07/30/opinion/sunday/the-blog-that-disappeared.html?_r=0"><u>发表评论</u></a>，讨论了过去一个月备受关注的一件事：<a target="_blank" href="http://denniscooper-theweaklings.blogspot.com/"><u>Dennis Cooper</u></a> 托管在Google博客平台的账号被删除，14年的博客存档全部消失，连带删除的还有他的 Gmail 账号，Google 只给出了违反服务条款的模糊措施。Cooper 的博客谈论了很多色情方面的内容，比如男妓，有人还提到儿童色情，但 Google 至今没有给出任何实质性的说法，没有解释为什么要删除他的Gmail，究竟违反了哪条条款，没有向用户提供数据下载。而它的<a target="_blank" href="https://www.google.com/policies/terms/"><u>服务条款</u></a>明确表示会提供合理的提前通知。它并没有遵守自己制定的游戏规则。
+➜Snowden 质疑 WikiLeaks 发布泄密材料的方法
+https://www.solidot.org/story?sid=49135	43887
+前NSA合同工 Edward Snowden 与 WikiLeaks 创始人 Julian Assange 在泄密上持有不同的立场。Snowden 没有全部披露他收集的 NSA 机密文件，而是与记者合作有选择性的披露信息，避免在信息披露过程中伤害到无关的人。而 Julian Assange 则更迫切的想要打到某些政府、机构或精英，他选择恰当的时机不经筛选的披露了对美国民主党最不利的内部通信记录。 Snowden <a target="_blank" href="https://yro.slashdot.org/story/16/07/29/2110252/snowden-questions-wikileaks-methods-of-releasing-leaks"><u>质疑了</u></a>WikiLeaks 的信息披露方法，他在Twitter上发帖<a target="_blank" href="https://twitter.com/Snowden/status/758759203037151232"><u>认为</u></a>WikiLeaks 将敌意置于适度编辑之上的做法是错误的。WikiLeaks 则在回帖中抨击他是机会主义者（Opportunism），试图得到希拉里克林顿的特赦。
+➜揭秘 Patchwork 网络间谍小组
+https://www.solidot.org/story?sid=49136	51251
+<div align="center"><img src="http://img.solidot.org/0/775/liCtaeEZxeAFs.png" height="261" align="" width="400"><br>
+</div>
+<br>
+赛门铁克等安全公司<a target="_blank" href="http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries"><u>报告了</u></a>一个针对政府机构和行业组织的间谍团队 Patchwork ，aka Dropping Elephant。 Patchwork 最初主要针对政府和政府相关机构，但最近扩大了攻击范围，覆盖了航空、广播、能源、金融、非政府组织(NGO)、医药、公共部门、出版和软件等广泛的行业。美国是主要攻击目标，Patchwork 的攻击方法是向目标发送钓鱼邮件，内容多与中国有关（如图所示），其中包含恶意网站链接，这些恶意网站都是特制的，托管了两类恶意文件：一个 .pps PowerPoint 文件和一个 .doc 富文本文件，利用微软软件的两个已经修复的漏洞CVE-2014-4114和CVE-2015-1641入侵计算机悄悄安装后门Enfourks。

@@ -1,0 +1,38 @@
+➜文本压缩技术离极限还差1%
+https://www.solidot.org/story?sid=3266	4680
+Alexander Ratushnyak将100,000,000字节的维基百科文档压缩到创纪录的16,481,655字节（包括解压软件），不仅使他<a href="http://groups.google.com/group/Hutter-Prize/browse_frm/thread/3f3f80c76dd14513/">第二次获得</a>了人类知识压缩技术竞赛的Hutter奖奖金（<a href="__SLASHLINK__" sect="science" sid="06/10/30/0849209" sn="article" tid="48">The Hutter Prize for Compression of Human Knowledge</a>），而且使得文本压缩技术离极限还只差了1%。Alexander成功达到每字节只占据1.319比特空间，这可能意味着下一位Hutter Prize奖奖金获得者必须达到极限——数据压缩技术的极限是一字节（8比特）0.6到1.3比特——这个结论是由信息论创始人Claude Shannon预测的（Shannon认为每个符号（数字、字母或单词）排除信息冗余后的平均信息量（entropy）为每字节0.6到1.3比特之间），<a href="http://cs.fit.edu/~mmahoney/dissertation/entropy1.html">Cover和King在1978年运用文本预测游戏（text prediction gambling）进行了证明</a>，无损压缩不可能再比这更小了。Hutter Prize正式开始颁布还不到一年，之前最好的压缩记录是每字节1.466比特。Alexander Ratushnyak的开源GPL程序名为<a href="http://www.binet.com.ua/~artest/HKCC/paq8hp12any.rar">paq8hp12</a>。
+➜Groklaw谈微软与GPLv3
+https://www.solidot.org/story?sid=3267	5820
+微软说GPLv3不会对它产生任何限制，也不能应用到它身上，这种态度肯定让很多人感到反感。Groklaw登了一篇文章说明了<a href="http://www.groklaw.net/article.php?story=20070709101318827">GPLv3为何、如何应用于微软</a>。文章首先对GPLv3中的一些定义进行了解释：如propagate和convey。在与Novell达成的协议中，微软涉及到了GPLv3软件的转让（convey），它获得了SLES的销售优惠券，但是操作系统的升级、bug修复、性能增强都会涉及到无数代码修改，如果其中的软件再换成GPLV3许可，到时候微软即便想放弃代理SLES，它还是必须要为之前销售出的软件承担责任，否则就破坏了协议。Novell自己都承认GPLv3确实会影响专利交易，<a href="http://www.heise.de/english/newsticker/news/92416">也表明会发行GPLv3软件</a>。微软最好理智一点，虽然雇用了很多高明的律师，但他们并不是GPL专家。更何况GPL软件是不存在产品有效期这一概念的。
+➜专家说蓝光DVD的DRM技术10年内不会被破解
+https://www.solidot.org/story?sid=3268	16680
+AVS论坛的一个帖子引用了最新一期的HMM杂志上刊登的专家语录：Envisioneering Group的分析专家Richard Doherty狂吹捧蓝光DVD上使用的DRM技术BD+，Doherty说BD+绝对不会像AACS那样轻而易举的就被黑客破解，<a href="http://www.avsforum.com/avs-vb/showthread.php?t=871371">断言在十年内它都难以被攻破</a>。并指出如果BD+遭到破坏，光盘上的电影和蓝光播放器都会连带受损。后面的评论说他正等待Doom9的黑客来称称这番话的份量。
+➜不该指责别人编码设计风格的10个原因
+https://www.solidot.org/story?sid=3269	19800
+<a href="mailto:youxu@wustl.edu">You XU</a> 写道 "小企鹅的开发者决定终止项目, 据说原因是另一个所谓的高手对小企鹅项目的编码风格进行了批评. 那么, 我们有理由批评开源项目的编码风格么? <i>
+这里给出了<a href="http://blog.youxu.info/2007/07/10/10-reasons/">10个不该批评别人编码风格的原因</a>:<br> 1. 开源的代码是为了满足需求和兴趣, 不是为了美观.<br>2. 代码风格可能受制于开发者使用的语言, 或者最熟悉的语言. <br>3. 因为思考问题方法不一样, 代码和设计风格也可能不一样. <br>4. 没有一个绝对的标准.  <br>5. 开源代码编写者应该保持谦虚, 对别人工作保持尊重. <br>6. 不能以代码取人. <br>7. 重构很有效, 但不是为重构而重构. <br>8. 让程序正常工作比让程序可读更加重要. <br>9. 即使在工业开发的代码审阅中, 代码风格也不是最重要的. <br>10. 与其指摘别人, 不如自己动手."</i>
+➜GPLv3非官方中文简体版
+https://www.solidot.org/story?sid=3270	21600
+<a href="http://bergwolf.googlepages.com/gplv3_zh">GPLv3（GNU通用公共授权第三版）简体中文翻译版</a>已经上线，用意是帮助中文读者更好的理解GPL授权。以下内容引用自翻译版：
+<i>
+当我们谈论自由软件时，我们指的是行为的自由，而非价格免费。GNU通用公共授权被设计为确保您拥有发布自由软件副本(以及为此收费，如果您希望的话)的自由,确保您能收到源代码或者在您需要时能获取源代码，确保您能修改软件或者将它的一部分用于新的自由软件，并且确保您知道您能做这些事情。
+<br>
+为了保护您的权利，我们需要做出要求，禁止任何人否认您的这些权利或者要求您放弃这些权利。因此，如果您发布此软件的副本或者修改它，您就需要肩负起尊重他人自由的责任。
+<br>
+例如，如果您发布自由软件的副本，无论以免费还是以收费的模式，您都必须把您获得的自由同样的给予副本的接收者。您必须确保他们也能收到或者得到源代码。而且您必须向他们展示这些条款，以使他们知道自己享有这样的权利。</i>
+➜橄榄果油渣中的化合物能抑制艾滋病扩散
+https://www.solidot.org/story?sid=3271	30060
+西班牙马德里的研究人员在橄榄果皮中发现的天然油<a href="http://www.sciencedaily.com/releases/2007/07/070709111536.htm">能够延缓艾滋病病毒的扩散</a>。<i>
+研究显示：从橄榄果油渣中提取出的一种天然成分——山楂酸（maslinic acid）——能抑制丝氨酸蛋白酶（serin-protease），艾滋病病毒就是利用它使自身从受感染的细胞向外扩散，并缓慢蔓延到全身。Granada大学的科学家相信使用橄榄果油能使艾滋病病毒扩散速度降低80%。</i>
+➜天涯社区筹划上市 首选国内A股市场
+https://www.solidot.org/story?sid=3272	31740
+outdoor 写道 "据<a href="http://tech.sina.com.cn/i/2007-07-04/22591598721.shtml">新浪网</a>消息，天涯社区已经启动上市计划，上市的地点重点考虑国内，而不是纳斯达克。天涯总裁邢明透露认为2009年上市的时机将会成熟，但<a href="http://tech.sina.com.cn/i/2007-07-04/19031598652.shtml">社区商业化不能操之过急</a>。天涯的员工们则早就对Google的员工待遇眼红不已，抑制不住兴奋的心情，迫不及待地就<a href="http://www7.tianyablog.com/blogger/post_show.asp?BlogID=296689&amp;PostID=9434588&amp;idWriter=0&amp;Key=0">等天涯上市了</a>。拥有纳斯达克血统的搜狐社区有篇文章：<a href="http://club.it.sohu.com/itmain.php?c=69&amp;b=it&amp;a=271911">天涯说它要上市了，地球人都笑了</a>。天涯社区的网民则忧心忡忡，<a href="http://www.tianya.cn/new/Publicforum/Content.asp?idWriter=0&amp;Key=0&amp;strItem=free&amp;idArticle=950050&amp;flag=1">天涯要上市了，我们该何去何从？</a>"
+➜神药尼古丁
+https://www.solidot.org/story?sid=3273	35160
+烟草被用来当药使已有很长历史了，这确实是有科学根据的。《连线》杂志报道研究人员在尼古丁的基础上开发出一种新药，<a href="http://www.wired.com/science/discoveries/news/2007/06/nicotine">对大脑、肠、血管、免疫系统都有益</a>。<i>
+尼古丁作用于大脑中的乙酰胆碱受体（<a href="http://en.wikipedia.org/wiki/Acetylcholine_receptor">acetylcholine receptors</a>），能刺激和调节大脑中的多种化合物质，如色拉托宁（Seratonin），多巴胺（dopamine），去甲肾上腺素（norepinephrine）。目前衍生自尼古丁的新药和尼古丁受体上的研究正在接受大规模的临床试验，范围包括了伤口治愈，抗忧郁症，精神分裂症，老年性痴呆，多发性抽动综合症，多动症，易怒和焦虑症。<a href="http://news.yahoo.com/s/nm/20070709/hl_nm/smoking_parkinsons_dc">甚至还有帕金森症</a>。</i>
+➜Firefox2严重安全漏洞，Firefox3延期
+https://www.solidot.org/story?sid=3274	43800
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "Firefox 2.0和Internet Explorer<a href="http://news.com.com/8301-10784_3-9741435-7.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5">暴露出一个相关的严重安全漏洞</a>，恶意攻击者能因此获得用户电脑的控制权。问题源自于火狐的<a href="http://secunia.com/advisories/25984/">firefoxurl://" URI handler</a>（<a href="http://it.slashdot.org/it/07/07/10/2221214.shtml">/.</a>读者提供了一个例子：<a href="firefoxurl:test">Cmd.exe</a>，火狐会弹出对话框警告要调用外部程序）。
+<br>
+<a href="http://www.pcworld.com/article/id,134282-c,mozilla/article.html">Firefox 3 beta</a>将会延期6周发布，目前预定日期为9月18日。一些人推测最后的正式版可能要拖延到2008年才会发布。"

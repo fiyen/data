@@ -1,0 +1,94 @@
+➜BlackBerry 6.1泄漏，BlackBerry App World向多国开放
+https://www.solidot.org/story?sid=23261	1200
+黑莓的新版操作系统BlackBerry 6.1<a href="http://blackberryrocks.com/2011/03/31/blackberry-os-6-1-leaked-blackberry-app-world-podcasts-radio-news-facebook-visual-voicemail-extracted/">已经泄漏</a>，而与此同时RIM的应用程序商店BlackBerry App World正向多国开放，中东地区的阿拉伯联合酋长国<a href="http://stuffmideast.com/2011/03/30/112364/blackberry-app-world-goes-live-in-the-uae/">已经能访问 App World</a>，官方声明目前只是测试，不久后会关闭访问。<i>
+<a href="https://twitter.com/photobluer">Pb</a> 写道 "3月31日上午，中国大陆的黑莓手机用户<a href="http://www.bjxiaoc.cn/index.php/archives/27018">发现</a>可直接登录 BlackBerry App World，并可以浏览下载软件。此前，中国大陆一直无法登陆 App World。
+"</i>
+➜Google正与中国谈判谷歌地图服务
+https://www.solidot.org/story?sid=23262	3360
+3月31日是中国政府制定的在线地图服务申请截止日期，Google Maps迟迟未递交申请令人担心<a href="http://news.cnet.com/8301-13578_3-20048759-38.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20">它将被中国以非法为由屏蔽</a>。中国国家测绘局30日表示称它没有收到Google的申请，如果Google没有取得地图服务的经营许可证，测绘局将在7月1日对其采取“行政行动”。3月31日，Google<a href="http://www.news.com.au/business/google-losing-ground-in-china/story-fn7mjon9-1226031725270?from=public_rss">表示</a>它正与中国政府谈判继续运营谷歌地图服务，但未对谈判的可能结果发表评论。Google在华企业最近还被中国<a href="http://www.google.com.hk/search?q=%E8%B0%B7%E6%AD%8C++%E5%81%B7%E7%A8%8E&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:zh-CN:official&amp;client=firefox-a">指控偷税</a>，并被媒体广泛报道。
+➜谷歌中国推出穿越搜索
+https://www.solidot.org/story?sid=23263	4500
+谷歌中国推出了<a href="http://www.google.cn/intl/zh-CN/landing/teleport/">穿越搜索</a>，在搜索框内输入任何关键词，不会返回相关结果，而是先生成一段最近流行的<a href="http://zh.wikipedia.org/wiki/%E5%92%86%E5%93%AE%E4%BD%93">咆哮体</a>，然而再跳到另一个关键词，多是什么“春秋战国”，“长城”等。<i>
+用Firebug查看得知，谷歌中国的开发者比较偷懒，他们只设定了几十个“穿越关键词”，包括：春秋战国，丝绸之路，赤壁之战，魏晋南北朝，开元盛世，大明宫，清明上河图，诺亚方舟，阿波罗11号，罗马帝国，玛雅文明，印加文明，古代埃及，巴比伦空中花园，文艺复兴时期，诺曼底登陆战，宇宙起源，火星，敦煌，金字塔，阿房宫，紫禁城，长城，霓裳羽衣曲，大明宫，大航海时代，等等。换句话说，你在穿越搜索中搜索的关键词只会返回上面列出的一个结果。</i>
+➜Oracle通过法律迫使Javaeye更名
+https://www.solidot.org/story?sid=23264	6480
+<a href="mailto:simsicon@gmail.com">simsicon</a> 写道 "<i>原Javaeye.com的站长robbin发表了通告：
+<a href="http://www.iteye.com/news/20605">http://www.iteye.com/news/20605</a>
+今天，也就是2011年4月1日愚人节，我们不得不在这样一个特殊含义的节日，向JavaEye会员宣布这样一个富有讽刺性和纪念意义的网站公告：由于Oracle公司通过授权的律师事务所，对JavaEye网站提出了我们无法接受的苛刻条件，在经过我们长期努力的交涉无效之后，Oracle授权的律师事务所 以强硬的姿态要求我们服从，并且以停用javaeye.com的域名作为威胁，因此，我们只能被迫放弃已经运营了7年的JavaEye的域名和JavaEye品牌，更名为ItEye。"</i>
+➜三星笔记本键盘记录程序是虚惊一场
+https://www.solidot.org/story?sid=23265	6720
+昨天有报导称，一位三星笔记本用户在两台机器上<a href="__SLASHLINK__" sect="hardware" sid="11/03/31/0124208" sn="article" tid="34">发现了键盘记录程序</a>。安全研究人员和三星公司的调查发现，是商业杀毒软件的<a href="https://threatpost.com/en_us/blogs/samsung-keylogger-case-turns-out-be-false-positive-033111">虚假警报</a>引发了恐慌。<i>
+三星发表声明称，没有一台笔记本预装了键盘记录程序。造成虚惊一场的是名为VIPRE的安全软件，它在扫描中错误将微软Live Application多语言支持的一个空文件夹识别为恶意程序，该文件夹名字为SL，代表斯洛文尼亚语，VIPRE将SL识别为恶意程序StarLogger。Mohamed Hassan是一家安全咨询公司的创始人，他声称过去6年一直用VIPRE杀毒，<a href="http://it.slashdot.org/story/11/03/31/132234/Samsung-Keylogger-Stories-a-False-Alarm">此前未出错过</a>。
+</i>
+➜欧盟议会在遭攻击后禁止Webmail访问
+https://www.solidot.org/story?sid=23266	9120
+欧洲议会的计算机系统<a href="http://www.eweek.com/c/a/Security/European-Parliament-Disables-Webmail-After-CyberAttack-456092/">遭到了网络攻击</a>，迫使其关闭了远程邮件服务访问，要求雇员修改密码。<i>
+攻击始于3月24日，持续了五天。到30日攻击才停止。欧盟议会的IT团队关闭了通过浏览器远程访问邮件服务器，要求雇员修改登录密码。此前欧盟委员会的计算机系统也遭到了网络攻击。安全专家怀疑攻击者是匿名组织，是报复欧洲国家和美国空袭利比亚。目前不清楚对欧盟的攻击是否与上个月法国财政部计算机系统的攻击有关联，黑客在那次攻击中获取了G20峰会相关文件，并转发到中国的一个IP地址。虽然有人怀疑中国政府支持了这次攻击，但安全专家认为不可能，因为中国是G20成员国，可以自由访问相关文件。黑客使用中国IP地址是因为中国的计算机太容易入侵。</i>
+➜开发者推出Do Not Fool扩展
+https://www.solidot.org/story?sid=23267	10560
+4月1日是愚人节，但有些人不想推测哪些是恶搞，不想在网站上看新闻时要保持警惕别被忽悠了。一位开发者推出了<a href="https://addons.mozilla.org/zh-CN/firefox/addon/do-not-fool/">Do Not Fool插件</a>，正告网站你不想被愚弄。它的特性是允许用户设置Firefox 4浏览器属性，当点击任意一个网页时向网站服务器广播Do Not Fool HTTP头文件，要求退出愚人节恶搞。
+➜Ubuntu 11.04 Beta 1 发布
+https://www.solidot.org/story?sid=23268	12240
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 <i>"今年四月即将发布的最新一代 Ubuntu 11.04 ，推出了它的<a href="http://www.ubuntu.com/testing/natty/beta">第一个beta版本</a>，<a href="http://www.ownlinux.cn/2011/04/01/ubuntu-11-04-natty-narwhal-beta-1.html">Ubuntu 11.04 (Natty Narwhal) Beta 1正式发布</a>。Ubuntu 11.04 放弃了传统的 GNOME 界面，而采用了在 Ubuntu 10.10 上网本版本中首次采用的 Unity 界面，这也是 Ubuntu 打破 Gnome 桌面环境的一次大胆的尝试。Ubuntu 11.04 Beta 1 主要包含 LibreOffice 3.3.2, Mozilla Firefox 4.0, Banshee 1.9.5, GCC 4.5, Python 2.7, dpkg 1.16.0 和 Upstart 0.9。"</i>
+➜李刚涉嫌刑讯逼供及构陷他人
+https://www.solidot.org/story?sid=23269	17400
+bonnae1982 写道 <i>"据<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20110329-%E6%9D%8E%E5%88%9A%E6%A1%88%E4%B8%BB%E8%A7%92%E8%BA%AB%E9%99%B7%E5%88%91%E8%AE%AF%E6%A1%88%E6%8C%87%E6%8E%A7">RFI</a>引述
+<a href="http://news.bjnews.com.cn/2011/0328/113536.shtml">《新京报》</a>的报道，去年在国内闹的沸沸扬扬的<a href="__SLASHLINK__" sect="internet" sid="10/10/25/1320241" sn="article" tid="6">河北大学汽车撞人事件</a>中，高喊“你知道我爸是谁吗？我爸是李刚”的主角李启明的父亲，保定市北市区公安局副局长李刚，在其负责侦破的一起入户抢劫案中，不仅涉嫌亲自刑讯犯罪嫌疑人，整个案情更是疑点重重。报道暗示，警员利益掺杂其中，或为当地警员内外勾连，设局而成。</i>           2006年8月11日，保定市华电小区发生一起入室抢劫案。2个多月后，嫌犯王朝被捕。2007年12月，北市区人民法院一审以抢劫罪判其有期徒刑13年，上诉后，保定市中级人民法院2008年1月14日终审维持原判。2006年11月2日王朝被送到保定市看守所，因被打得遍体鳞伤，他又被送到医院抢救，11月13日送回看守所。直到检察院的起诉书发到手时，他才知道自己是因抢劫罪被提起公诉。警方将王朝入罪的依据是在现场的手机基站中，认定了出现了王手机“139××××1190”通话记录。但警方出具的这份通话清单上，只标明“该话单系我单位从石家庄市移动公司调取，与原件无异”既没有出具人的签名，也没有出具单位的公章，此外，现场出现的手机序列号却与实际位数出现了出入。对此疑点，王案的庭审中，其主管法官曹云廷本计划前往石家庄，询问移动公司出具话单的情形等。在曹动身之前，王朝案的主审法官发生变动，曹不再参与此案。此外，警方在案发现场的一只酒瓶上取到一枚指纹，发现与王的指纹吻合。但王朝指，2006年9月28日，曾与被介绍与保定一“歌厅老板”见面，现场有一瓶XO酒，王朝用手将酒推开，表示自己请客。此后，王受审时才发现，“歌厅老板”是北市区刑侦大队干警王小龙。王某自称，案发前一个小时，他正在150公里外的石家庄市处理交通事故，并无作案时间。2007年9月3日，王朝案进行第三次庭审。当天，李刚进入法庭呈上一份新证言。但这份证言的出具者后来自称，在警方“诱导性”问话下，证词和当初提供的截然相反。王朝一方指，他入狱的原因在于一笔数百万元的工程款，他的生意伙伴与李刚联手将其陷害，抢劫案发地正属李刚辖区。2007年12月14日，一审宣判的当天，王朝的母亲杨惠贤收到北市区公安局三名干警当面交给她的一封举报信，信中称，李刚是为帮助朋友，而将王朝投入监狱。王朝在石家庄鹿泉监狱接受采访时说，2006年10月31日19时前后，李刚带领民警在石家庄逮捕了他。几名警员对他刑讯，“第一个动手的就是李刚，他给我的左手上了夹棍。当绳子抽紧时，我大叫：‘手断了！’”
+<br> <br>2010年11月，河北省高级人民法院以事实不清、证据不足为依据，一次性撤销了下属两级法院的三次判决，发回北市区法院重新审判。3月27日，主管刑侦的保定北市区公安局副局长李刚对媒体表示：“我保证这案子不存在造假。"
+➜土星木星的环留下彗星撞击产生的波纹回声
+https://www.solidot.org/story?sid=23270	17700
+2009年8月，卡西尼号飞船抵达了一个极佳的观察位置，土星环在太阳照耀下一览无余。它拍下的C环照片显示出明暗相间的规则条纹。此前土星D环也观察到类似的条纹，但早期的照片并没有发现条纹。现在，研究人员提出一种解释：<a href="http://arstechnica.com/science/news/2011/03/jupiter-and-saturns-rings-show-echoes-of-comet-collisions.ars">天体撞击环留下的涟漪条纹</a>。<a href="http://www.sciencemag.org/content/early/2011/03/30/science.1202241">报告</a>发表在最新一期的《科学》杂志上。<i>
+在著名的<a href="http://zh.wikipedia.org/wiki/%E8%8B%8F%E6%A2%85%E5%85%8B-%E5%88%97%E7%BB%B49%E5%8F%B7%E5%BD%97%E6%98%9F">苏梅克-列维9号彗星</a>撞击木星后，天文学家也在木星环上观察到类似的图纹。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-04/aaft-aro032811.php">研究人员认为</a>，土星的条纹是1983年一颗彗星在未被看见的情况下撞上土星环留下的。撞击使两颗行星的环都略微失去平衡。</i>
+➜百万蜘蛛用网包住整棵大树
+https://www.solidot.org/story?sid=23271	19440
+2010年7月，巴基斯坦西北部地区遭遇了<a href="http://en.wikipedia.org/wiki/2010_Pakistan_floods">严重洪灾</a>，近五分之一的国土被洪水淹没，死亡人数接近2千，2千万人流离失所。但人类并非是唯一受影响的群体，动物如蜘蛛也不得不逃往高出躲避洪水。数百万蜘蛛爬上大树，由于洪水迟迟没有减退，于是大树就成了蜘蛛之家，由此而产生出奇妙的结果：<a href="http://www.wired.com/wiredscience/2011/03/pakistan-tree-spiders/">整棵大树被厚厚的蜘蛛网所覆盖</a>。因祸得福的是，英国国际开发部报告说，蜘蛛上树地区的传播疟疾的蚊子数量低于预期，洪水本来会助长疟疾传播。
+➜Google推出身体控制版Gmail
+https://www.solidot.org/story?sid=23272	21240
+Google推出了<a href="https://mail.google.com/mail/help/motion.html">Gmail Motion</a>，让用户可以用身体控制邮件操作。Google质量控制团队招聘<a href="http://www.google.com/intl/en/jobs/uslocations/mountain-view/autocompleter/index.html">自动完成工（Autocompleter）</a>，用人工手动方式预测用户想要搜索的关键词。XKCD请求用户用手帮助制作<a href="http://www.google.com/intl/en/jobs/uslocations/mountain-view/autocompleter/index.html">3D版漫画</a>。Notepad++项目将用户捐款<a href="http://notepad-plus-plus.org/news/redirect-donation-to-scientology">赠送给山达基</a>。CCTV设置一个<a href="http://my.cntv.cn/html/index.html">后台页面</a>供用户删除文章或主持人（实际删除不了）。网易推出幸福时报，但据说<a href="http://candylulu007.blog.163.com/blog/static/1361752642011310357790/">真的被删除了</a>。<a href="http://gezhi.org/blog/2279">隐身衣被窃</a>。AdBlock推出<a href="http://chromeadblock.com/freedom/">AdBlock Freedom</a>增强现实眼镜，戴上眼镜，现实中所有的广告全部被空白替代。           Debian、Gentoo、Grml、openSUSE和Arch Linux联手推出<a href="http://www.debian.org/">Canterbury发行版</a>。新西兰航空公司将要乘客<a href="http://promos.airnz.co.nz/payweigh/">根据体重支付飞机票</a>。<a href="http://www.youtube.com/">Youtube 1911</a>....
+➜Debain/ArchLinux/Gentoo 等将合并为超级Linux
+https://www.solidot.org/story?sid=23273	24000
+<a href="http://wowubuntu.com/">riku</a> 写道 "Debian, Gentoo, Grml, openSUSE 和 Arch Linux 五大发行版正式宣布合并为一个新的 Linux 发行版，这个超级发行版的代号为 Canterbury 。是的，确实没 Ubuntu 什么事。该发行版目标是创建一个真正统一的操作系统，将具备的特点有：<i>
+像 Archlinux 一样简单易用，
+像 Debian 一样稳定，
+像 Gentoo 一样有超强的扩展性，
+像 Grml 一样的 Live 功能，
+像 OpenSUSE 一样开放。</i>
+<a href="http://www.debian.org/News/2011/20110401">官方通告</a>/<a href="http://wowubuntu.com/canterbury.html">详细介绍</a>"
+➜曾祖父虽逝但基因影响长存
+https://www.solidot.org/story?sid=23274	25200
+遗传突变如何影响后裔的基因表现？<a href="http://www.sciencenews.org/view/generic/id/72029/title/Great-grandpa%E2%80%99s_genes_gone%2C_effects_stay">一项针对老鼠的新研究也许能给出答案</a>。<i>
+在实验中，研究人员让两组有近亲关系的老鼠不加限制的食用高脂肪食物，一组出现肥胖和并发症，如胰岛素抵抗、高血压和心血管疾病等。另一组没有变得肥胖，即使它们吃的更多锻炼更少。然而即便交换与葡萄糖相关的基因，瘦老鼠还是能保持体形。整件事最奇妙的地方是，瘦老鼠的曾祖父拥有抵抗肥胖基因，但变异基因没有遗传给后裔，而它的后裔却依旧能连续四代保持瘦体形。研究作者认为，这一发现改变了人们关于遗传疾病的思考。此前研究人员已经发现了癌症的跨代遗传证据。科学家认为，原因是变异基因留下的生化标记没有随基因的消失而消失。
+</i>
+➜Zodiac Island指控ISP前雇员删除整季节目
+https://www.solidot.org/story?sid=23275	27000
+儿童电视节目<a href="http://www.zodiacisland.com/home.html">Zodiac Island</a>的制片商WER1称，一位被开除的数据托管商雇员<a href="http://it.slashdot.org/story/11/04/01/0354232/Zodiac-Island-Makers-Say-ISP-Worker-Wiped-an-Entire-Season">删除了它的整季节目</a>。<i>
+ISP和数据托管商CyberLynk开除了雇员Michael Scott Jewson，他在父母家中访问了CyberLynk服务器，恶意删除了超过300GB的视频文件。Jewson已经承认了罪行。删除的文件中包括了14集的Zodiac Island，WER1表示已经不可能恢复或重新制作。它宣布起诉CyberLynk和Jewson违反合同和犯有计算机欺诈罪，指责CyberLynk没有兑现数据安全的承诺。</i>
+➜Google从Android Market移除PSone模拟器
+https://www.solidot.org/story?sid=23276	28800
+Google从Android Market<a href="http://arstechnica.com/gaming/news/2011/03/google-yanks-psone-emulator-developer-blames-xperia-play-launch.ars">移除了</a>PSone模拟器PSX4DROID v2，理由是违反了<a href="http://market.android.com/support/bin/answer.py?answer=113474&amp;&amp;hl=en">开发者内容政策</a>。模拟器开发者认为，主要原因是支持PS游戏的索尼爱立信Xperia Play即将上市，他抱怨此举是Google让索尼去统治它的开放市场，并指出另一款<a href="https://market.android.com/details?id=com.emulator.fpse">PSOne模拟器FPSE</a>没有被移除。模拟器本质上只是提供一种游戏工具，它并不知道用户使用的是盗版还是正版镜像。
+➜Google平板的原生应用只有50款
+https://www.solidot.org/story?sid=23277	31680
+Google直到2月底才<a href="__SLASHLINK__" sect="it" sid="11/02/23/0212238" sn="article" tid="26">发布</a>Android 3.0 Honeycomb SDK，结果到摩托罗拉的XOOM平板在当月正式上市时，为Honeycomb优化的原生应用只有15款。一个月之后，这个数字<a href="http://arstechnica.com/gadgets/news/2011/03/one-month-later-honeycomb-has-just-50-native-apps.ars">增加到了50款</a>。相比之下，苹果iPad在上市之时已有大约1000款原生应用，因为苹果提前数个月就发布了平板用系统的SDK。Google留给开发者的时间实在是短的不能再短了。随着Honeycomb平板数量的增加，如三星的新版Galaxy Tab 10.1，相应的原生应用应该会越来越多。
+➜韦诺之战 Wesnoth 1.9.5 发布
+https://www.solidot.org/story?sid=23278	33600
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "<a href="http://www.wesnoth.org/">Battle for Wesnoth</a>(韦诺之战)是一款六边形战场的回合战略游戏，游戏规则简单，兵种多样，技能简单，更强调整体策略而不是单兵力量，而且此游戏鼓励适当时候牺牲士兵换取胜利。
+<i>
+<a href="http://www.osmsg.com/2011/04/wesnoth-1-9-5/">Wesnoth 1.9.5</a> 使用新的Drake Enforcer/Thrasher形象；沙漠城堡的核心搬到废墟；改进地形环境，包括：新的沼泽村庄、新的热带村庄、新的沙漠废墟、改进新营地；新的石头和沙子飘逸点缀；更新精灵标志；修正用户界面，很大的提高了视觉效果；取消对TinyGUI的支持，最小分辨率为800×480；更新语言翻译，包括简体中文和繁体中文。"</i>
+Battle for Wesnoth是Google Summer of Code 2011项目之一。
+➜恐怖分子用单字母加密法加密通信
+https://www.solidot.org/story?sid=23279	34920
+英国航空公司IT雇员Rajib Karim因阴谋发动恐怖袭击<a href="http://www.theregister.co.uk/2011/03/22/ba_jihadist_trial_sentencing/">而被判30年徒刑</a>。他利用有两千多年历史的加密方法和孟加拉国伊斯兰激进分子进行通信。<i>
+法庭被告知，与Karim联络的孟加拉国激进分子拒绝使用更先进的PGP或TrueCrypt加密技术，而宁愿使用自己发明的Excel换位表单字母替换加密法。这种方法最早是古希腊人发明，曾被尤利乌斯·恺撒在公元前55年使用，又被称为<a href="http://zh.wikipedia.org/wiki/%E5%87%B1%E6%92%92%E5%AF%86%E7%A2%BC">凯撒密码</a>，它是一种十分简单的加密技术，明文中所有字母在字母表上向后（或向前）按照一个固定数目进行偏移后被替换成密文。作为IT专家，Karim使用PGP加密，但只用于储存。虽然位于也门的基地组织领导人Anwar Al Anlaki督促使用名叫Mujhaddin Secrets的基于AES标准的先进加密程序，但Karim拒绝使用，因为他认为非伊斯兰教信徒听说过Mujhaddin Secrets，因此肯定不太安全。</i>
+➜Mozilla的Do Not Track获行业支持
+https://www.solidot.org/story?sid=23280	36600
+Mozilla在Firefox 4中引入了Do Not Track隐私功能，用户可以在“选项”-“高级”-“常规”中启用这项功能，它会向网站服务器发送一个定制的HTTP头文件，表示你不希望被跟踪。但这项功能需要服务器端配合客户端才能起作用。美联社AP News Registry现在宣布<a href="http://arstechnica.com/tech-policy/news/2011/03/mozillas-do-not-track-header-gaining-ad-industry-support.ars">支持Firefox 4和IE9的Do Not Track（DNT）功能</a>，它旗下的800个新闻网站，每月独立访问用户1.75亿。Firefox用户访问这些网站可以选择不被跟踪。Mozilla和Digital Advertising Alliance(DAA)正在谈判，探讨支持DNT的可能性。DAA代表了超过5000家互联网媒体和营销公司。
+➜折纸工程师设计可折叠钢袋
+https://www.solidot.org/story?sid=23281	38700
+古老的中国纸艺术估计不会被联想到杂货袋，现在工程师在折纸灵感下设计出使用钢材料<a href="http://news.sciencemag.org/sciencenow/2011/03/paper-plastic-or-steel.html?rss=1">折叠出的食品袋</a>。这项技术未来或可用于变形建筑物，只需按一个按钮就可改变房子形状。<i>
+牛津大学的Zhong You和Weina Wu提出了一种新的折线模式，在纸包装袋使用的传统折线模式中加入一系列额外的折线。他们成功的使用不锈钢板建造了<a href="http://news.sciencemag.org/sciencenow/2010/06/video-programmable-origami.html?ref=hp">一个原型</a>(视频)。<a href="http://rspa.royalsocietypublishing.org/content/early/2011/03/25/rspa.2011.0120">报告</a>发表在《英国皇家学会学报A》上。</i>
+➜报道称十分之一的耕地重金属污染
+https://www.solidot.org/story?sid=23282	39600
+《南方日报》<a href="http://nf.nfdaily.cn/nfrb/content/2011-04/01/content_22168648.htm">报导</a>，环保专家根据国土资源部公布的数据估算，全国每年因被重金属污染的粮食高达1200万吨，相当于广东一年的粮食总产量，可以养活常住珠三角的4000万人口。中国科学院地理科学与资源研究所环境修复研究中心主任陈同斌研究员表示，中国的重金属污染在北方只是零星分布，而在南方则比较密集。他根据调查估算，重金属污染中国耕地10%左右的可能性较大。其中，受镉污染和砷污染的比例最大，约分别占受污染耕地的40%左右。2008年发布的《广东省海洋环境质量公报》显示，珠江、深圳河等河流携带入海的重金属和类金属砷超过1.2万吨。
+➜德国启动国家网络防卫中心
+https://www.solidot.org/story?sid=23283	39720
+-_- 写道 <i>"定址在波恩的德国<a href="http://www.dw-world.de/dw/article/0,,6490547,00.html">国家网络防卫中心</a>开始运转。该中心隶属联邦信息技术安全局，由联邦警察、宪法保护局、联邦情报局以及联邦国防军四方面合作建立。中心将在发生网络攻击时查明情况，并向相关机构和企业提出应对建议。去年德国内政部<a href="__SLASHLINK__" sect="internet" sid="10/12/28/0017211" sn="article" tid="100">曾表示</a>一些国家致力于通过网络攻击偷盗德国关键技术。"</i>

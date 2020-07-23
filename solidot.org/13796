@@ -1,0 +1,70 @@
+➜巨磁电阻效应发现者获得2007年诺贝尔物理学奖
+https://www.solidot.org/story?sid=4078	900
+bladerunner 写道 <i>"<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2007">2007年度诺贝尔物理学奖</a>授予了法国物理学家Albert Fert和德国物理学家Peter Grünberg。原因是他们于1986年各自独立发现了<a href="http://en.wikipedia.org/wiki/Giant_magnetoresistive_effect">巨磁电阻（GMR）效应</a>，GMR效应在现代硬盘制造中获得了广泛的应用。<br> <br>
+Fert教授出生于1938年，1962年毕业于法国巴黎高等师范学校，1970年在巴黎第十一大学获得博士学位，现任该校教授。Grünberg教授生于1939年，23岁时进入法兰克福的约翰·沃尔夫冈·歌德大学学习，1969年在达姆施塔特工业大学获得博士学位，1972年起就职于位于德国科隆的雨里希（Jülich）研究中心。"</i>
+➜一名女性Linux安全顾问受到生命威胁
+https://www.solidot.org/story?sid=4079	1620
+<a href="http://linuxren.org/">LinuxRen</a> 写道 <i>"<a href="http://www.oreillynet.com/pub/au/2654">Caitlyn Martin</a>，一名资深的Linux安全顾问，俗话就是Linux geek，居然受到了Puppy Linux拥护者的<a href="http://www.oreillynet.com/linux/blog/2007/10/a_death_threat_from_a_puppy_li.html?CMP=OTC-0O724Z062301&amp;ATT=A+Death+Threat+From+A+Puppy+Linux+Supporter">死亡威胁</a>，原因仅仅是Caitlyn Martin的笔记本电脑怎么也无法正常运行Puppy Linux，导致其无法对Puppy Linux做出拥护者们所期望的<a href="http://www.oreillynet.com/linux/blog/2007/09/why_i_havent_reviewed_puppy_li.html">测评</a>。"</i>
+➜寻解方程程序
+https://www.solidot.org/story?sid=4080	3000
+wubooy 写道 "我想找一个能解复杂多元方程式的程序，类似这样：
+输入：<br>
+a+b+c=100
+a=b+c
+b=c<br>
+然后它能计算出a、b、c的值并显示，如果条件不够最好能得到提示，功能越强越好，最好能解复杂的方程式。而且最好是开源的，我想看源代码。
+我找了好久了，Google不到，不知道是不是我关键词没选好。
+希望能能得到线索，或者给我提供中英文关键词也行。"
+➜网格计算：寻找禽流感的治疗药物
+https://www.solidot.org/story?sid=4081	12780
+matrix 写道 "一个拥有41000多台计算机的国际性网格为寻找致命性的<a href="http://www.itnews.com.au/News/62713,41000-pcs-seek-bird-flu-cure.aspx">禽流感的治疗方法提供了新的希望</a>。The Enabling Grids for E-science (EGEE)网格连接了50多个国家的数万台普通计算机，形成一个巨大的单一超级计算机，拥有超过500万G的硬盘和存储空间。
+台湾中央研究院<a href="http://www.genomics.sinica.edu.tw/">基因研究中心</a>的生物学家Ying-Ta Wu博士解释到，计算机网格是寻找有希望的可能战胜病毒的新药物的一个最快捷和最便宜的方法。
+通过快速的让数量庞大的可能有用的药物与病毒发生作用，网格计算和统计出特定药物分子对病毒关键部分的封锁和抑制作用，最终筛选出其中最有效的。"
+➜Google和IBM向学生提供云计算（Cloud Computing）
+https://www.solidot.org/story?sid=4082	15900
+云计算是一种依托网络的计算模式，鉴于各种互联网服务需要的计算能力和数据储存都越来越复杂和庞大，一所学校和一个研究中心无法独自提供此类资源。IBM和Google决定共同向与之合作的大学学生<a href="http://www.nytimes.com/2007/10/08/technology/08cloud.html?ex=1349496000&amp;en=92627f0f65ea0d75&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">提供云计算资源</a>——一个大型数据中心。<i>
+云计算领域的大多数创新主要来自企业，但企业主管和计算机科学家都有各自的不足，包括技能和才能上的，未来的发展将会受到限制。
+卡耐基梅隆大学计算机科学院院长Randal E. Bryant表示，“学术界和政府实验室已经跟不上时代了，大学确实需要与时俱进。”
+起始阶段有6所大学参与这一计划，它们是卡耐基梅隆大学，MIT，斯坦福大学，加利福尼亚大学伯克利分校，马里兰大学和华盛顿大学。</i>
+➜Linux Kernel 2.6.23发布
+https://www.solidot.org/story?sid=4083	18600
+相隔3个月，Linus发布了<a href="http://lkml.org/lkml/2007/10/9/241">Linux 2.6.23</a>。新版包括了新的受争议的CFS进程调度程序，一个简单的Read-ahead（预读）机制，lguest'Linux-on-Linux' 半虚拟化系统管理程序，XEN guest支持，KVM smp guest支持，SLUB现在成为默认的slab分配器，XFS和ext4文件系统改进，支持PPP over L2TP，一个userspace驱动程序框架，改进了O_CLOEXEC文件描述标记，新的fallocate() syscall，lock statistics，支持多队列网络设备。还有许多细微的变动和修正。详细内容可看<a href="http://kernelnewbies.org/Linux_2_6_23">变动日志</a>。
+➜.asia亚洲域名启用
+https://www.solidot.org/story?sid=4084	21480
+kempson 写道 "位于香港的<a href="http://www.registry.asia/">DotAsia</a>组织获得ICANN许可<a href="http://www.physorg.com/news111129961.html">开始.asia域名的运营</a>。一名DotAsia的代表说asia是搜索最多的关键字之一，有一个.asia域名将使网站在Google和yahoo你排名更高。<br>
+商业用户和政府可以从10月9号开始注册，个人用户可以在下一年2月开始注册。费用只需10美元到几百美元。"
+➜土卫八Iapetus黑白双煞之谜解开
+https://www.solidot.org/story?sid=4087	23040
+土星卫星LAPETUS表现出来的外观只有纯粹的黑色和白色，没有灰色区域，这个现象长久以来一直困惑着天文学家们。
+NASA气体推进实验室刚发表一个报告。
+http://science.slashdot.org/article.pl?sid=07/10/09/023221
+➜KOffice 2.0：OpenOffice的竞争对手
+https://www.solidot.org/story?sid=4085	23400
+正当微软和OpenOffice.org在文档格式上打得不可开交之时，<a href="http://www.kde.org/">KDE project</a>却在静静的开发<a href="http://www.computerworld.com.au/index.php/id;1596080362">下一代的跨平台办公组件</a>。KOffice 2.0预计将于明年上半年某个时候发布，KDE项目的发言人Sebastian Kugler在接受Computerworld的采访中宣称KOffice 2.0将比OpenOffice体积更小，启动更快，代码更清晰。KOffice 2.0将包含更多的办公组件，类似MS Office Access的数据库程序，流程图制作工具，图像处理工具。目前最新版的KOffice还不能完美兼容ODF格式，但Kugler声称2.0将会。
+➜鲍尔默暗示Linux发行版将被迫支付版权
+https://www.solidot.org/story?sid=4086	27600
+微软CEOSteve Ballmer在上周英国举行的会议上<a href="http://www.vnunet.com/vnunet/news/2200717/microsoft-sharpens-aims-patent">再次恐吓没有与它达成专利交易的Linux发行版</a>。他说：“那些使用Red Hat的用户，至少应该尊重我们的知识产权，从某种意义上他们有义务赔偿我们的损失。”期间Ballme还赞扬了Novell对知识产权的重视，他暗示开源软件开发商未来将被迫与其它专利拥有者达成类似的交易。Ballme预测Eolas这样的公司很快会来找开源开发商或用户的麻烦。今年8月
+微软为了解决与Eolas公司之间的专利纠纷而<a href="http://linux.slashdot.org/linux/07/10/09/1221223.shtml">支付了5.21亿美元</a>。
+➜10个让开源软件更人性化的方法
+https://www.solidot.org/story?sid=4088	30600
+关于开源软件不人性化，易用性差的争论由来已久，作为一位专业的开源软件开发者，作者提出了<a href="http://humanized.com/weblog/2007/10/05/make_oss_humane/">10个让开源软件更人性化的方法</a>。<i>
+要做到；<br>
+1.需要一位慈善的独裁者，一位排斥争论的决策者；<br>
+2.程序在默认设置下就很好用，不要让用户自己去配置；<br>
+3.围绕任务设计，用户使用更上手；<br>
+4.开发一个插件系统，便于扩展功能；<br>
+5.用户参与测试，测试....
+</i>           需要注意的；<br>
+1.不能靠想象设计；<br>
+2.模仿成功者的界面；<br>
+3.让最终用户参与UI设计；<br>
+4.将UI设计作为第一位；<br>
+5.UI设计不是看护婴儿的不需动脑筋的保姆。<br>
+成功例子：1，Firefox；2.Emacs；3.Python。
+➜Mark Shuttleworth为开源软件发行找到一条新路
+https://www.solidot.org/story?sid=4089	32700
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 <i>"近来春风得意的Mark做出了一项出乎意料的决定：一个崭新的计划
+"<a href="http://www.freedomtoaster.org/home">Freedomtoaster</a>"浮出水面，并且已经在他的祖国南非，和加拿大等国开始<a href="http://ftwiki.rivera.za.net/wiki/Main_Page">实施</a>。
+解释一下这个计划的大概：首先是命名，"toaster"顾名思义就是烤面包机，每当我们早上匆忙上班，没有时间打理自己的早餐，这时我们就会从冰箱里拿出两块土司，放入机器，等待数十秒后取出并食用，仅仅是Push &amp; Pop这么简单。想象在现实生活中，当一个"Free Software Fan"非常需要一款OSS，但是他翻遍网上每一处角落都没有发现，这时候他有两个选择:&nbsp; 1.继续在网上"浪费"时间&nbsp;2.利用"Freedomtoaster"，确切的说利用其他Open source fans的帮助来获取最新，甚至是之前的旧版本的集合。
+在那些场所可以实现呢？学校的计算机系机房，你的家中，甚至是网吧都可以成为这一项目的载体。"</i>
+据Mark私下透露，这项计划年内将在中国启动；有理由期待充满企业家气质Mark会成功把这一商业模式引入开源软件的发展中来。

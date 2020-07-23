@@ -1,0 +1,98 @@
+➜选举获胜要靠朋友
+https://www.solidot.org/story?sid=4140	1200
+time 写道 "通过对5例开放名单比例代表制选举的结果进行分析，两名意大利物理学家得出结论：人们更倾向于选择拥有口碑的候选人，而不是选择提供最吸引人的政策的候选人。<br> <br>
+在实行开放名单比例代表制选举的国家，参选政党为每个选区的选民提供选择候选人的可能。在选举日，选民既投票选择政党，也投票选择该政党中自己喜欢的候选人。选区的议席按所获票数分给各家政党，各家政党按本党候选人所获票数分配本党获得的这些议席。获得票数最多的政党获得总体性胜利。<br> <br>
+科学交流基金会(Institute for Scientific Interchange Foundation)的Santo Fortunato和罗马大学的Claudio Castellano分析了1958年、1972年、1987年的意大利大选，以及2003年的芬兰大选和2005年的波兰大选(这三个国家大选均使用开放名单比例代表制)。他们绘制了候选人获得的选票(v)分布，发现此分布依赖于两个数据的比例：每个政党的候选人人数以及每个政党获得的总票数--更简单地说，就是每个政党的候选人获得的平均票数(v0)。
+"           这一结论常理也可以预料。但是进一步分析发现，v或者v0并不能独立影响选票分布，唯一有效的影响因素是v/v0--一个度量某候选人与其所属党派其他候选人成绩之比较的量。<br> <br>
+对五次大选的分析获得了同样的结果，比如：两个政党见政策的差异度对选票分布没有影响。为了解释这一现象，Fortunato和Castellano假设一个候选人颇有口碑，他/她是一个树状结构的顶端，说服一些亲朋近友去投票，这些人又向更多的人推荐这位候选人，如此继续。每个人宣传此候选人所联系到的人数也有一个自己的分布(α)。Fortunato和Castellano使用了不同的说服概率、个人最少联系人数以及α值进行模拟，发现这种模拟完全符合之前得到的选票分布曲线。由此他们认为自己的模型证明了比例选举中口碑(而不是政策)是获得选票的最重要因素。<br> <br>
+<a href="http://physicsworld.com/cws/article/news/31462;jsessionid=1AA0B55D84705AD7E66FF6FA0AAD7C77">新
+闻来源</a> <br>
+<a href="http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=PRLTAO000099000013138701000001&amp;idtype=cvips&amp;gifs=yes">Phys.
+Rev. Lett. 上的论文</a>
+➜国产开源嵌入式操作系统QingYangOS
+https://www.solidot.org/story?sid=4141	3000
+<a href="mailto:faifcn@gmail.com">faif</a> 写道 <i>"今天发现<a href="http://skyeye.wiki.sourceforge.net/">skyeye的wiki</a>
+上静静的添加了一条关于在skyeye模拟器上运行一个名叫<a href="http://www.qingyangos.org/">QingYangOS</a>
+的操作系统。其网站上说QingYangOS是一个基于事件驱动的，面向嵌入式的，抢占式操作系统内核，采用微内核的设计方式。采用GPL协议发布程序。目前，仅支持ARM7TDMI
+CPU。目前，内核可以基本运行了。不由想起当年linus发布linux的情景。"</i>
+➜新型塑料可分离CO2、净化水
+https://www.solidot.org/story?sid=4142	7800
+研究人员有着无穷的想像力。他们开发出了<a href="__SLASHLINK__" sect="science" sid="07/10/06/0918215" sn="article" tid="50">和钢铁一样坚硬的塑料</a>，现在据《科学》杂志报道，由澳大利亚、韩国和美国的科学家组成的团队开发出一种新型塑料<a href="http://www.csiro.au/news/FantasticPlastic.html">可分离CO2并且能净化水</a>。这种新型材料设计上模仿了植物表面的气孔，可高效的分离各类小分子。一位主要的研究人员称“它能从天然气中分离出二氧化碳，效率是目前使用的塑料薄膜的几百倍，分离后的气体纯度是以前的4倍。”气孔是这种塑料的秘密武器。至今还不清楚是否有商业公司对其感兴趣，它的未来用途包括海水脱盐，天然气处理。<a href="http://www.scienceimage.csiro.au/mediarelease/mr07-200.html">图片</a>，<a href="http://www.publish.csiro.au/video_clips/polymer_membranes_big.wmv">视频</a>。
+➜OpenBSD:和开源社区中的独裁作斗争
+https://www.solidot.org/story?sid=4143	9960
+<a href="mailto:darcsis@gmail.com">dhg</a> 写道 "<a href="http://www.openbsd.org/">OpenBSD 项目</a> 的 <a href="http://zeus.theos.com/deraadt/">Theo de Raadt</a> 和 <a href="http://www.drijf.net/">Otto Moerbeek</a> 接受了一次<a href="http://www.thejemreport.com/mambo/content/view/369/">关于 OpenBSD 引进 PCC (Portable C Compiler) 的采访</a>。席间 Theo de Raadt 被问到：“还有什么事情阻止了 OpenBSD 替换自己系统中所包含的 GPL 授权的程序？”
+<br> <br>Theo de Raadt 回答到："我们不是要拉旗子搞宣传，对吧。有些人说我们讨厌 GNU 代码，但事实是我们讨厌大的，虫子多的代码，而且是代码维护者自己还不去捉虫子的代码。这个才是问题所在......。每次 gcc 释出新版本，都要比前一个版本慢 5% - 6% 左右，增加了新的虫子，而且编译出质量不好的目标码，让我们都傻眼了。我们这么作是要看看能不能有新的改变。“
+<br>”我们只是在和开源社区中的独裁作斗争。“"
+➜没有rss与feed的岁月
+https://www.solidot.org/story?sid=4144	10440
+yellowbug 写道 "不知各位还有谁能访问<a href="http://rss.slashdot.org/Slashdot/slashdot">Slashdot</a> <a href="http://rss.cnn.com/rss/cnn_world.rss">CNN</a> <a href="http://feeds.engadget.com/weblogsinc/engadget">Engadget</a> 和 <a href="http://feeds.feedburner.com/solidot">Solidot</a> 的RSS Feeds。请各位不惮以最坏的恶意帮我给RSS Feeds加一个听起来像那么回事的罪名。？           用Google Reader是个不错的选择。
+➜单身戒来到中国
+https://www.solidot.org/story?sid=4145	11040
+<a href="http://www.isk.kth.se/~jifeng">zjfroot</a> 写道 "来自瑞典的<a href="http://www.fadesky.com/cool-design/do-you-need-a-singelringen/">单身戒</a>（<a href="http://www.singelringen.cn/ring/origin">由来及使用说明</a>）来到了中国，这年头找一个名花(名草)无主的另一半比较困难，也许单身戒可以使大家有的放矢？
+<br>
+不过其<a href="http://www.singelringen.cn/purchase/guige">398RMB</a>的单价说明这仍然是一个昂贵的创意。"
+➜终结者来袭
+https://www.solidot.org/story?sid=4146	11340
+<a href="mailto:mudbuilder@gmail.com">sshnuke</a> 写道 "<a href="http://news.sina.com.cn/s/p/2007-10-15/083814087796.shtml">仿真机器人</a>惊现上海泛雕塑艺术展，外形与真人无异。不过就是有点老了，皮肤不泛油光～～"
+➜诺基亚S60触控界面发布
+https://www.solidot.org/story?sid=4147	11400
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道<i> "四年前，我刚刚接触<a href="http://www.s60.com/">S60平台</a>的时候(那时叫Series60，更技术化，内部化)，它的UI设计文档中写到：S60面向具有数字键盘的手机，是主要针对单手操作的用户界面。今天，在iPHONE大行其道的今天，S60用户界面与时俱进，在近日在伦敦举行的<a href="http://www.symbiansmartphoneshow.com/newt/l/symbiansmartphoneshow/event/index.html?p=home">Symbian Smartphone Show</a>上发布了S60触控用户界面。作为第一大手机生产商巨无霸，它的行动可谓是受到关注。也因为S60平台普及，第三方应用程序众多，所以底层界面的升级和改动，影响之大，是福是祸，还要拭目以待。但是可以肯定的是，未来科技，一定是最贴近用户，回归人性的科技。</i>
+<a href="http://www.youtube.com/watch?v=f3uPxep2OIk">发布会视频</a>。"
+➜软件专利的批评者赢得了诺贝尔经济学奖
+https://www.solidot.org/story?sid=4148	12000
+三位美国经济学家由于在“社会机制设计理论”上的贡献而<a href="http://www.nytimes.com/2007/10/16/business/16nobel.html?_r=1&amp;oref=slogin&amp;ref=business&amp;pagewanted=print">分享了诺贝尔经济学奖</a>，这条新闻很多人应该都注意到了，但有一个细节可能被忽略了。其中一位获奖者，普林斯顿大学的Maskin教授最近一段时间深入研究的主题是软件专利，他对其价值进行了评估。他认定，软件是一种创新趋势连续性市场，软件开发者的工作主要是以前一个版本为基础，创新者能以许多不同的途径实现相同的目标。在这样一个市场上，他说，专利就如一堵墙，抑制创新而非刺激创新。详细可阅读Maskin教授的论文，标题是“<a href="http://www.researchoninnovation.org/patent.pdf">连续性创新、专利、局限性</a>(PDF)。
+➜使用电脑真的会导致腕关节损伤？
+https://www.solidot.org/story?sid=4149	12600
+重复性运动伤害（Repetitive motion injury）IT工人对这一术语应该并不陌生，长时间的敲击键盘和使用鼠标对你的关节来说是可能可怕的。但这是真的吗？腕关节损伤综合症与电脑使用之间真的存在联系吗？<a href="http://science.slashdot.org/science/07/10/15/1640244.shtml">一位Geek医生重新对此进行了一番评估</a>，他的结论与我们的常识相矛盾，“最新的研究显示长时间使用电脑在腕关节损伤方面只扮演小角色”。看起来<a href="http://www.news.harvard.edu/gazette/daily/2006/01/31-carpal.html">哈佛大学</a>和<a href="http://jama.ama-assn.org/cgi/content/abstract/289/22/2963?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;fulltext=carpal&amp;searchid=1&amp;FIRSTINDEX=0&amp;resourcetype=HWCIT">美国医学协会</a>都同意他的结论。
+➜家庭成员一同用餐比关了电视更有用
+https://www.solidot.org/story?sid=4150	18000
+<a href="http://www.yeeyan.com/space/show/modo">modo</a> 写道 "<a href="http://www.nytimes.com/2007/10/16/health/16well.html">纽约时报的一篇报道</a>称：
+根据明尼苏达大学的一项研究，家庭成员一起吃饭有益于培养青少年的健康饮食习惯。而吃饭期间是否看电视，却对青少年的饮食习惯影响不大，这和人们实现的预想有很大出入。
+明尼苏达大学、哈佛大学和新泽西州 Rutger 大学联合进行了这项研究，他们调查了4万名中学生和青少年在家时的饮食习惯。研究结果表明：经常和家人一同用餐的青少年食用了更多的水果和蔬菜，摄入了更多钙质、维生素和营养物质，较少食用垃圾食品。其他相似的研究也表明，经常和家人一同用餐的青少年更少沾染诸如抽烟、酗酒、吸毒等恶习。
+反之，在一项调查电视影响的研究中，研究者调查了明尼阿波利斯和圣保罗的5千名初高中学生的饮食习惯，他们发现，吃饭时看电视确实会对青少年的饮食习惯产生不好的影响，但是，这种影响不像人们想象的那样显著。
+<br>
+明尼苏达大学领导这项研究的 Dianne Neumark-Sztainer 博士说：“问题的关键是家庭成员是否有机会在一起，而不是时间问题。如果家庭成员不能聚齐一道吃晚饭，那么一道吃早饭也是可以的。甚至一个星期只安排一两次共同进餐也比什么都没有要好。我想重点仅仅在于，你的家庭成员现在在那儿？你能够做些什么使情况好转？” 她说，“我认为许多人还没有意识到家庭成员共同进餐的重要性。”"
+➜LOGO语言诞生40周年
+https://www.solidot.org/story?sid=4151	19800
+40年前，出于教育目的，<a href="http://blog.wired.com/wiredscience/2007/10/forward-40-wher.html">LOGO程序设计语言诞生了</a>，LOGO源自LISP，属于解释型语言。在之后的几年里，它渐渐成为了教育软件的基石，能够同时向学生传授几何学知识及如何像程序员那样思考。Logo的命令非常简单，图形也很简陋，在现在这个多媒体教育软件过剩，视觉系泛滥的时代，那只可爱的小海龟可能有点过时了。但开源和免费让<a href="http://el.media.mit.edu/Logo-foundation/products/software.html">LOGO语言</a>在网络上生根，3D设计环境如<a href="http://www.alice.org/">Alice</a>也能让它更好的迎接未来的挑战。
+➜微软想要阅读你的大脑
+https://www.solidot.org/story?sid=4152	21600
+微软正从电脑迈向人脑，从桌面互动到分析大脑，它试图申请一项专利——为脑电图仪（EEG）记录的<a href="http://www.newscientist.com/blog/invention/2007/10/microsoft-mind-reading.html">大脑状态信号分门别类</a>。<a href="http://tinyurl.com/3ct98k">专利的申请说明</a>中称，“人类很少报告他们自己的动作（多做少说）”，所以直接阅读大脑是第一选择。
+➜Vista 内存溢出（Out of Memory）bug
+https://www.solidot.org/story?sid=4153	25200
+在拷贝大量文件时Vista经常会报内存不足错误。ZDNet的Adrian Kingsley-Hughes为此进行了试验，发现在拷贝文件的数目大于16400时，<a href="http://blogs.zdnet.com/hardware/?p=829">Vista会弹出“Out of Memory”错误对话框</a>，随后可能还会在Windows环境下出现菜单和标签丢失。除了内存占用过大外，用户在拷贝文件时，时不时的还遭遇到拷贝不完整（<a href="http://blogs.zdnet.com/hardware/images/after-copy.jpg">图片</a>），原始文件和转移后文件数目不等同。这个bug原计划包含在Vista SP1预计修复的问题之中，但却根本没有发布。如果你是位Vista用户，这里推荐一个<a href="http://support.microsoft.com/kb/942435">hotfix</a>。
+➜让GDB支持反向执行调试
+https://www.solidot.org/story?sid=4154	29040
+<a href="mailto:teawater@gmail.com">冒充另类</a> 写道 "GDB 项目一直在寻找可以令其支持<a href="http://www.gnu.org/software/gdb/news/reversible.html">反向执行调试</a>的开发者。<br>
+这里介绍了一个将被调试程序执行信息记录下来来<a href="http://sourceware.org/ml/gdb/2007-10/msg00122.html">支持反向调试功能的GDB PATCH</a>，<a href="http://www.linuxforum.net/forum/showthreaded.php?Cat=&amp;Board=program&amp;Number=661442">中文连接</a> 。<br>
+这个功能现在还只支持MIPS，实际测试只调过QEMU上的LINUX KERNEL，也许其在龙梦电脑上是可用的。希望将来能支持更多的芯片，比如I386。"
+➜Nerd Test 2.0：你到底有多呆？
+https://www.solidot.org/story?sid=4155	30240
+欢迎来到这里玩<a href="http://www.nerdtests.com/ft_nt2.php">升级版的Nerd测试</a>！
+<br> <br>
+基于大众的要求，这个测试会提问一些严肃的或无厘头的问题来确定你到底属于那一类Nerd、趋向于在哪一个领域中成为奇客。计算机奇客？帝王Nerd？Mega-Dork，还是其他类型～～
+<br>
+你会得到一张显示你有多Nerd的奖状图片,而且你还可以自定义一下这张图片！
+<br> <br>
+祝你测试愉快！
+➜Nerd Test 2.0：你到底有多呆？
+https://www.solidot.org/story?sid=4156	30240
+欢迎来到这里玩<a href="http://www.nerdtests.com/ft_nt2.php">升级版的Nerd测试</a>！
+<br> <br>
+基于大众的要求，这个测试会提问一些严肃的或无厘头的问题来确定你到底属于那一类Nerd、趋向于在哪一个领域中成为奇客。计算机奇客？帝王Nerd？Mega-Dork，还是其他类型～～
+<br>
+你会得到一张显示你有多Nerd的奖状图片,而且你还可以自定义一下这张图片！
+<br> <br>
+祝你测试愉快！
+➜Nerd Test 2.0：你到底有多呆？
+https://www.solidot.org/story?sid=4158	30240
+欢迎来到这里玩<a href="http://www.nerdtests.com/ft_nt2.php">升级版的Nerd测试</a>！
+<br> <br>
+基于大众的要求，这个测试会提问一些严肃的或无厘头的问题来确定你到底属于那一类Nerd、趋向于在哪一个领域中成为奇客。计算机奇客？帝王Nerd？Mega-Dork，还是其他类型～～
+<br>
+你会得到一张显示你有多Nerd的奖状图片,而且你还可以自定义一下这张图片！
+<br> <br>
+祝你测试愉快！
+➜OSI批准了微软的开源协议
+https://www.solidot.org/story?sid=4157	30900
+开放源代码促进会（Open Source Initiative）在10月10日召开的董事会上<a href="http://opensource.org/node/207">批准了微软的两项软件许可协议</a>：微软互惠许可（<a href="http://opensource.org/licenses/ms-rl.html">Microsoft Reciprocal License</a>）和微软公共许可（<a href="http://opensource.org/licenses/ms-pl.html">Microsoft Public License</a>）。与GPLv3和 Sun的CDDL许可证相比，微软的许可都出奇的简短和干净。两项专利的相同之处是都包含了一个专利和解（patent peace）条款，一个非商标许可条款，不同之处仅在基本的互换条款上。毫无疑问，开源世界并不信任微软，在批准讨论会议上，微软的动机受到了广泛质疑。微软如何能一边攻击开源项目，另一边却寻求利用开源，甚至还有打上开源的标志？除了微软没有人清楚其中原因。但是如果你确信开源是开发软件的最佳模式，那么你会了解为何微软一边打击开源一边却要利用它，因为在微软眼里开源既是敌人又是救星。

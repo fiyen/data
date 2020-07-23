@@ -1,0 +1,38 @@
+➜王的非正常死亡率
+https://www.solidot.org/story?sid=22292	1200
+靔王 写道 <i>"为王称帝会不会给你带来幸福的余生？<a href="http://www.dailymail.co.uk/sciencetech/article-1351502/Study-finds-royal-dangerous-fighting-frontline.html?ito=feeds-newsxml">最近的一项研究</a>显示至少在欧洲很可能不是这样，因为欧洲君主们和现代战场上的士兵相比还属于高危人群。<br>
+1月31日《英国犯罪学杂志》（British Journal of Criminology）将发表英国剑桥大学犯罪学家Manuel Eisner的论文《杀王》（Killing Kings），文章研究了公元600到1800年的1513个欧洲君主。其中22%死于暴力事件。所有死亡事件中的15%源于谋杀，Eisner表示这个比率高于现代战场上主力战斗中的死亡率。"</i>
+➜马来西亚科学家释放6000只转基因蚊子
+https://www.solidot.org/story?sid=22293	6960
+尽管有环保和非政府组织的抗议，马来西亚科学家将6000只基因改造的雄性蚊子<a href="http://science.slashdot.org/story/11/01/28/2151207/Malaysia-Releases-Genetically-Modified-Mosquitoes">释放到野外</a>，希望能减少蚊子携带的登革热病毒传播。登革热在热带和亚热带气候下十分常见，它会引起恶心、肌肉和关节疼痛、发烧、头痛等症状，如果不及时治疗有时甚至会导致死亡，去年马来西亚有134人死于登革热。这些基因改造的蚊子寿命较短，因此它们繁衍的后代将没有多少时间能传播疾病。
+➜一位资深IT自由职业者的2010年回顾
+https://www.solidot.org/story?sid=22294	10440
+<a href="http://www.jobbole.com/">伯乐在线</a> 写道 "Matt Raible是一位资深的UI架构师，从事IT行业咨询的自由职业者。他同时也是AppFuse的作者，著有《SpringLive》。Matt选择从事自由咨询是因为他认为自由咨询可以带来更高的收入，同时也比全职工作更自由。Matt提到的更高收入会有多高？编者根据Matt博客中一篇文章的描述，推断雇用Matt的费用每小时至少需要数百美元。<i> <a href="http://raibledesigns.com/rd/entry/2010_a_year_in_review">Matt在回顾中写道</a>(<a href="http://www.jobbole.com/entry.php/477">中文</a>)：“2010年是一个heckuva年，可能是我所有特别喜欢的事情之一。它以很多早有预料的开心的事情开始，以诸如旅行、滑雪和放松活动结束。我现在只能抽时间来写这篇文章。在2010年伊始，我有很多目标，头一个就是：快乐/幸福。其他目标有：跑步、滑雪、山地骑车和完成The Bus。我同样也有一些职业目标，包括开源、会议、发表文章和学习新技术。我大约完成了75%的个人目标和50%的职业目标。因为在过去一年中有着很多愉快的经历，因此，对于这两个百分比，我感到很满意。”</i>           在开发流程中，Matt非常受用的组合是：<br> <br>　　源码控制：SVN<br>　　源码查看器：FishEye<br>　　Wiki: Confluence<br>　　Bug追踪器：JIRA<br>　　持续集成: Hudson"
+➜没有互联网，埃及寻找新的方式上网
+https://www.solidot.org/story?sid=22295	27360
+埃及<a href="__SLASHLINK__" sect="society" sid="11/01/28/0022217" sn="article" tid="100">关闭了互联网</a>，留下了许多疑问：难道穆巴拉克的官邸有个“关闭”开关？它是如何做到的？其它国家是否可能复制？有什么绕过限制的权宜之计？<i>
+Ars technica<a href="http://arstechnica.com/tech-policy/news/2011/01/how-egypt-or-how-your-government-could-shut-down-the-internet.ars">解释说</a>，埃及在周四午夜时分关闭了互联网，但穆巴拉克无疑不是在床上下达的命令，命令在当天早些时候就发出了，执行则花了数个小时。埃及有多条海底光缆过境，如穿越地中海连接意大利的光缆，或穿越红海连接印度和东非的光缆，周围国家的网络没有受到影响，显然它没去切断光缆。但Renesys<a href="http://www.renesys.com/blog/2011/01/egypt-leaves-the-internet.shtml">注意到</a>埃及几乎所有的IP地址段都不见了，应该是边界网关协议前缀（BGP prefixes）消失所致。<a href="http://zh.wikipedia.org/zh-cn/%E8%BE%B9%E7%95%8C%E7%BD%91%E5%85%B3%E5%8D%8F%E8%AE%AE">BGP</a>是互联网的核心路由协议，用于在两个ISP的路由器之间建立TCP会话。以192.0.2.0-192.0.2.255为例，它的前缀是192.0.2/24，/24表示它是一个C类地址。埃及的ISP不再向外公告其大约3500个前缀，这意味着全世界的BGP路由器的路由表没有了相关信息，也就无从向埃及的某一地址发送数据包，即使网络本身是正常的。埃及的ISP不太可能是从路由器配置中删除前缀，简单的方法是用过滤器过滤掉，也可能是关闭边界路由或交换机。这种关闭互联网的方法适用于只有几家ISP的小国，埃及有四大ISP，目前只有一家占市场8%的小型ISP Noor Group能正常运转，埃及居民上网通信的方法<a href="http://www.computerworld.com/s/article/9207058/Without_Internet_Egyptians_find_new_ways_to_get_online">仅剩几种</a>：使用 Noor Group的服务，或者用有线电话呼叫他人，或者是拨号，无线电和传真机也能用于通信。</i>
+➜Fedora 15将采用新的网络设备命名系统
+https://www.solidot.org/story?sid=22296	32160
+<a href="http://domsch.com/blog/?p=455">Matt Domsch</a>正在为Fedora 15<a href="http://lwn.net/Articles/424859/">开发</a>新的网络设备命名系统<a href="https://fedoraproject.org/wiki/Features/ConsistentNetworkDeviceNaming">Consistent Network Device Naming（CNDN）</a>。<i>
+Linux系统过去常用ethX命名以太网设备，桌面电脑一般只有一个以太网端口，命名为eth0。但服务器则一般有多个以太网端口，例如有4个端口的话将分别命名为eth0、eth1、eth2、eth3。这种命名方法的缺点是，网络设备无法在每次启动时得到相同的名字，它们可能会根据任意次序赋名；在PCI插槽插入新网卡后名字会愈加混乱。新的命名方法CNDN将采用不同的方式命名网络设备，PCI插槽的网卡和主板整合的网卡将有一套不同的前缀。</i>
+➜中国微博审查“埃及”
+https://www.solidot.org/story?sid=22297	39360
+法新社<a href="http://news.yahoo.com/s/afp/20110129/tc_afp/chinaegyptunrestpoliticsinternetcensor">报道</a>，中国微博客服务商已经屏蔽了“埃及”一词。<i>
+在新浪、搜狐、网易和腾讯的微博搜索“埃及”，会返回“根据相关法律，部分搜索结果未予查询”。官方媒体如<a href="http://www.news.cn/">新华社</a>和<a href="http://www.cntv.cn/index.shtml">CCTV</a>则将埃及骚乱放到次要位置，首页未看到相关新闻(新华网在即时新闻里提及“<a href="http://i.imgur.com/m3eiB.png">埃及政府辞职</a>”)。而世界其他主要媒体，无论是<a href="http://news.yahoo.com/">雅虎</a>还是《<a href="https://www.nytimes.com/">纽约时报</a>》埃及反政府抗议都是头版头条。</i>
+➜科学家开发出没有漏洞的安全软件
+https://www.solidot.org/story?sid=22298	41040
+科学家声称开发出世界上<a href="http://www.hindustantimes.com/World-s-first-hack-free-software-developed/H1-Article1-655632.aspx">第一种没有漏洞的软件</a>，它能防止系统崩溃或恶意攻击。<i>
+澳大利亚<a href="http://www.ok-labs.com/">Open Kernel Labs</a>领导开发了seL4微内核，其独一无二的功能是在数学上精确验证软件是否正确运行，能将不受信任的软件和可信的软件分离开，保护关键的服务，防止系统崩溃或恶意攻击。领导开发的科学家Gerwin Klein称，seL4微内核是目前唯一一种操作系统内核，其源代码已经在数学上证明能正确执行规范。</i>
+➜埃及切断网络，网络展开反击
+https://www.solidot.org/story?sid=22299	46080
+埃及<a href="__SLASHLINK__" sect="society" sid="11/01/28/0022217" sn="article" tid="100">切断了互联网</a>，但并没有也不可能完全切断所有通讯。一家法国非营利ISP <a href="http://blog.fdn.fr/post/2011/01/28/Censure-de-l-internet-en-%C3%89gypte-%3A-une-humble-action-de-FDN">French Data Network</a>设置了一个<a href="http://yro.slashdot.org/story/11/01/29/0025210/Egypt-Cuts-the-Net-Net-Fights-Back#comments">拨号互联网连接</a>，任何能接触模拟电话线的埃及居民可以呼叫法国，使用+33 1 72 89 01 50 (login: toto，password: toto)登录网络。Readwriteweb则介绍了<a href="http://www.readwriteweb.com/cloud/2011/01/3-projects-to-create-a-government-less-internet.php">三个创建不受政府控制的互联网项目</a>。<i>
+<a href="https://sites.google.com/a/opensailing.net/www/labs/openet">Openet</a>：利用<a href="http://en.wikipedia.org/wiki/Wireless_mesh_network">无线网际网</a>创建本地乃至全球的网际网。网际网是利用无线节点组建的通信网络，基于802.11或蜂窝技术，客户端通常是笔记本、手机或其它无线设备。<a href="http://netsukuku.freaknet.org/">Netsukuku</a>：同样是利用网际网技术建立的分布式匿名网络。<a href="http://www.open-mesh.com/">OPENMESH</a>，由风险投诉家Shervin Pishevar发起的网际网络。</i>
+➜前德国银行董事盛赞中国教育制度
+https://www.solidot.org/story?sid=22300	49200
+@wmrofficial 写道 <i>"社民党籍的前德国联邦银行董事扎拉青（Thilo Sarrazin）<a href="http://www.dw-world.de/dw/article/0,,6421740,00.html">对中国严格的教育制度表示赞赏</a>，建议仔细研究该教育制度的积极效果。扎拉青说，让一个孩子在家里因看电视而愚蠢，不如让孩子全天上学，业余活动有安排，家庭作业有人管。扎拉青同时批评了柏林州的教育改革，称他根本看不到这一改革给学校带来了任何实质性的改变或改善。"</i>
+Thilo Sarrazin是一位<a href="http://en.wikipedia.org/wiki/Thilo_Sarrazin#Controversy">有争议的人</a>，他支持限制移民。
+➜卡巴斯基2009源代码泄露
+https://www.solidot.org/story?sid=22301	49500
+Softpedia<a href="http://news.softpedia.com/news/Former-Kaspersky-Employee-Responsible-for-Leaked-Source-Code-181367.shtml">报导</a>，知名杀毒软件卡巴斯基的软件源代码已经被人泄露到<a href="http://unremote.org/?p=317">网上</a>（<a href="http://www.opensc.ws/attachments/c-c/5053d1296301011-kaspersky-8-source-code-leak-torrent-kav8_src.zip">BT种子</a>，压缩后300MB，推荐用Visual Studio C++ 2008编译）。<i>
+源代码涉及的版本是Kaspersky Internet Security 8.0/2009的一个测试版。据俄罗斯媒体称，源代码是被一位前雇员窃取，被拿到黑市出售。这位雇员随后被捕，判三年徒刑。卡巴斯基强调它目前的版本不受影响，因为泄露代码中只有很小一部分应用到新产品中，不涉及重要的保护机制。卡巴斯基警告，源代码仍然是其知识财产，下载、分发或使用是非法的。</i>

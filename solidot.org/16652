@@ -1,0 +1,48 @@
+➜公安部在重点网站和互联网企业设立“网安警务室”
+https://www.solidot.org/story?sid=45018	9800
+公安部官网刊登了<a target="_blank" href="http://www.mps.gov.cn/n16/n1237/n1342/n803715/4621937.html"><u>一篇新闻稿</u></a>，公安部副部长陈智敏在一个会议上提到要在重点网站和互联网企业设立“网安警务室”，声称此举是为了“第一时间掌握网上涉嫌违法犯罪情况”。陈智敏说，“要全面推行网警网上公开巡查执法”。与会者包括了100余家重点网站和互联网企业，其中中国移动、阿里巴巴、腾讯和奇虎360等公司在会上发了言。这篇新闻稿得到了主管互联网的最高机构网信办的<a target="_blank" href="http://www.mps.gov.cn/n16/n1237/n1342/n803715/4621937.html"><u>转载</u></a>，这应该只是一系列加强网络监管的吹风会，网信办在另一篇文章中<a target="_blank" href="http://www.cac.gov.cn/2015-08/04/c_1116142381.htm"><u>声称</u></a>“网络安全法的出台是势在必行”。
+➜日本电信公司开始淘汰ADSL
+https://www.solidot.org/story?sid=45019	11882
+世界第三大电信公司日本电报电话公司(NTT)<a target="_blank" href="http://internet.watch.impress.co.jp/docs/news/20150731_714512.html"><u>开始淘汰</u></a>ADSL宽带接入方式。NTT停止接受新的ADSL宽带安装申请，也将停止生产相关设备，该公司推荐客户选择光纤宽带接入服务FLET'S HIKARI。该公司的光纤宽带月费约40美元，网速1Gb/sec。NTT表示会继续向现有的ADSL客户提供服务。从2005年起日本的光纤宽带用户增速超过ADSL用户，截至2015年3月光纤用户2660万，ADSL用户375万。
+➜Io.js v3.0.0发布
+https://www.solidot.org/story?sid=45020	12488
+Node.js分支io.js<a target="_blank" href="https://github.com/nodejs/io.js/blob/master/CHANGELOG.md"><u>发布了v3.0.0</u></a>。io.js去年底脱离了Node.js，但今年5月Node.js和io.js又宣布了合并，3.0版将会是io.js发布的最后一个大版本，合并后的版本预计将在10月发布，版本号将是4.0，但没有了io.js的名字，而是冠名为<a target="_blank" href="https://medium.com/@nodesource/essential-steps-long-term-support-for-node-js-8ecf7514dbd"><u>Node.js 4.0</u></a>，它将是一个长期支持版本。<br>
+➜盗车贼破解无钥进入系统偷车
+https://www.solidot.org/story?sid=45021	15802
+越来越多的盗车贼通过破解无钥进入系统盗取车辆。去年仅伦敦一地就有大约6000辆汽车被通过这种方式盗走，占到了失窃汽车总量的42%。随着汽车引入愈来愈多的高科技技术，如无线连接，自动泊车，自动刹车和路障检测，<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-08-04/hackers-force-carmakers-to-boost-security-for-driverless-era"><u>它们也愈来愈容易遭到网络黑客攻击</u></a>。上个月克莱斯勒就因为软件漏洞召回了140万辆吉普车。日立公司预测，2020年销售的汽车中有9成将会联网。而任何联网的设备都可能被黑客入侵，汽车只是其中之一。豪车如宝马、奔驰、奥迪、路虎和萨博都将是黑客的重点目标。Warwick大学网络安全中心主任Tim Watson说，黑客可能会通过制造交通堵塞找乐子，而恐怖主义组织则可能会将目标汽车引导到伏击或绑架的地点。
+➜Facebook允许土耳其政府设定审查规则
+https://www.solidot.org/story?sid=45022	18313
+Facebook<a target="_blank" href="http://tech.slashdot.org/story/15/08/04/1624215/facebook-allows-turkish-government-to-set-the-censorship-rules"><u>禁止用户</u></a>张贴库尔德人（正与土耳其交战）和反土耳其的材料。在社交网站上，你可以按照个人喜好侮辱任意的历史人物，但有一个人除外，他就是土耳其的国父凯末尔（Mustafa Kemal）。为了能让土耳其人正常访问其网站，Facebook允许土耳其政府设定审查规则去审查它的十多亿用户。它代表土耳其政府去审查库尔德人。这是Web日益中心化面临的一个问题，中国的用户早有切身体会。<br>
+➜中国黑客组织利用网游加速器隐藏身份
+https://www.solidot.org/story?sid=45023	26173
+由于防火墙的原因，中国的玩家一般很难正常访问外国网络游戏（或多人游戏）的服务器，因此名为“网游加速器”的商业VPN服务也就应运而生。网游加速器相当便宜，大部分玩家能承受得起。可是，为什么中国会允许以加速网游之名行VPN之实的商业服务存在？为什么这些VPN服务如此廉价？RSA的最新研究<a target="_blank" href="https://blogs.rsa.com/terracotta-vpn-enabler-of-advanced-threat-anonymity/?lang=en"><u>回答了这些问题</u></a>。安全研究人员将一个有1500多个节点的中国VPN服务称之为“秦俑”。许多秦俑的节点其实是黑客入侵的外国公司Windows服务器，选择Windows服务器可能是因为它容易配置VPN服务。秦俑的控制者在不同名义下（比如网游加速器）将这些节点出售给中国的玩家。而与此同时，中国的APT组织如Deep Panda和Shell_Crew也利用秦俑的网络发动攻击。VPN服务可以隐藏攻击者身份模糊攻击位置。研究人员注意到，黑客使用的一个C&amp;C域名是8800free.info，该域名最早注册者使用的邮箱是xnt50@163.com，该邮箱也被用于注册了其它域名，其中一个叫<a target="_blank" href="http://www.173jiasu.cn/"><u>173网游加速器</u></a>（<a target="_blank" href="http://web.archive.org/web/20140701085926/http://www.173jiasu.cn/"><u>互联网档案馆</u></a>）。2013年，8800free.info的注册邮箱变更为jzbb@foxmail.com，这个邮箱被用于注册了至少39个域名，域名相对应的网站基本上<a target="_blank" href="https://krebsonsecurity.com/2015/08/chinese-vpn-service-as-attack-platform/"><u>都是提供网游加速器服务</u></a>，如168vpn.cn、173jiasu.net，517jiasu.net、99vpn.cn和517vpn等等。
+➜中国的实验将首次进入国际空间站
+https://www.solidot.org/story?sid=45024	28960
+美国国会禁止NASA与共产党中国在太空项目上展开合作，但中国找到了绕过禁令的方法。上周中国与休斯顿公司NanoRacks<a href="http://www.houstonchronicle.com/news/houston-texas/houston/article/For-the-first-time-Chinese-research-to-fly-on-6422696.php"><u>达成了一项历史性的协议</u></a>，明年国际空间站将在太空首次为中国做一个DNA实验。NanoRack的CEO  Jeff Manber说，这一协议具有象征性，意义深远。北京理工大学的科学家将为此向NanoRack支付20万美元。费用涵盖了将实验材料送到美国，搭乘 SpaceX的火箭和Dragon飞船，停泊在NanoRack的轨道实验舱，该公司最后会将研究数据发送给中国科学家。Manber说这次交易是纯商业性的，得到了NASA的同意。
+➜印度将解封非儿童色情的网站
+https://www.solidot.org/story?sid=45025	30152
+印度电信部上周末以道德和体统为由<a target="_blank" href="http://cis-india.org/internet-governance/resources/dot-morality-block-order-2015-07-31/view"><u>下令ISP屏蔽</u></a>了857个色情网站，禁令在社交网络上引发了广泛争议，而印度政府也真的倾听了用户的批评。电信部部长<span style="line-height: 1.5">Ravi Shankar Prasad <a target="_blank" href="http://arstechnica.com/tech-policy/2015/08/india-nixes-online-porn-ban-following-intense-public-outrage-on-social-media/"><u>表示</u></a>，被屏蔽的色情网站，只要不展示或宣传儿童色情，将能解除屏蔽恢复访问。儿童色情在大部分国家都是非法的。印度有3.5亿网民，是色情网站</span>Pornhub的第四大流量来源国。<span style="line-height: 1.5"></span>Pornhub在屏蔽名单之中。
+➜研究人员称写字楼的空调有性别歧视
+https://www.solidot.org/story?sid=45026	33429
+如果你所在写字楼的空调迫使你裹上厚衣，<a target="_blank" href="http://news.sciencemag.org/biology/2015/08/thermostat-your-office-may-be-sexist"><u>你应该谴责丹麦科学家Povl Ole Fanger</u></a>。他在1960年代开发出一个今天仍然使用的模型，预测了办公室雇员感觉舒适的室内温度。问题是，当时的办公室雇员是平均年龄40岁左右的男子。Fanger的模型认为21°C 是最舒适的温度，它并没有考虑女性。男性的新陈代谢通常比女性更快，因此产生了更多的热。而女性对于冷比男性有更强烈的反应。除了身体机能，还有着装习惯。目前的模型并不总能准确地为穿裙子和凉鞋的女士们调校温度。“很多男士穿西装打领带，而女士们则穿着展露乳沟的衣服，”<a target="_blank" href="http://cn.nytstyle.com/living/20150804/t04cold/"><u>凡·胡夫博士说道</u></a>，他就上述研究撰写了一则评论。“乳沟更靠近身体核心，所以周围温度低的时候，那里气温和体温的温差会更大。我不想过度夸大乳沟的影响，但它确实存在。”在考虑更多因素后，研究人员更新了模型，他们建议办公室温度应该设在24°C。<a target="_blank" href="http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2741.html"><u>论文</u></a>发表在《Nature Climate Change》期刊上。
+➜爱普生想要永久杀死墨盒
+https://www.solidot.org/story?sid=45027	35501
+<div align="center"><img src="http://img.solidot.com.cn/0/882/liGoU5YJwr4c.png" height="347" align="" width="560"><br>
+<br>
+</div>
+打印机巨头爱普生周二宣布了一款昂贵的打印机<a target="_blank" href="http://www.epson.com/cgi-bin/Store/jsp/Product.do?UseCookie=yes&amp;sku=C11CE91201"><u>EcoTank</u></a>，它试图改变打印机行业<a target="_blank" href="http://arstechnica.com/business/2015/08/epson-wants-us-to-abandon-those-pesky-inkjet-cartridges-forever/"><u>普遍采用的商业模式</u></a>：廉价打印机和高利润的频繁更换墨盒。EcoTank起售价400美元，它抛弃了墨盒设计，改用了一个墨水储存箱，其储量可使用两年。如果墨水用光了，更换一组墨水箱只需要52美元，同样容量的墨盒将需要花费十倍以上的费用。
+➜EFF等联合宣布新的“请勿跟踪”标准
+https://www.solidot.org/story?sid=45028	38359
+电子前哨基金会（EFF）、隐私保护公司Disconnect 、匿名搜索引擎DuckDuckGo等<a target="_blank" href="https://www.eff.org/press/releases/coalition-announces-new-do-not-track-standard-web-browsing"><u>联合宣布了</u></a>一个新版的“请勿跟踪（DNT）”标准，以更好的保护在线冲浪用户的隐私。但和上一个版本的“请勿跟踪”一样，新的DNT也是自愿遵守的，没有广告行业的参与这意味它会被忽视、无视、根本得不到执行。它很可能会遭遇上个版本DNT相同的命运，最后变得悄无声息。
+➜专家预言与机器人做爱在五十年内将变成常态
+https://www.solidot.org/story?sid=45029	39854
+研究性心理学的Helen Driscoll博士<a target="_blank" href="http://www.mirror.co.uk/news/uk-news/sex-robots-the-norm-50-6190575"><u>认为</u></a>，人类在不久以后将会与机器人建立性关系。五十年内这变成一种常态。她说，性技术正在快速进步，到2070年人与人之间的身体关系将会看起来很原始。她指出，回顾过去100年，有关性的社会准则发生了翻天覆地的变化。随着虚拟现实变得日益逼真和身临其境，它将能模拟甚至改善人类伴侣的性体验。人们甚至可能会爱上他们的虚拟现实伴侣。<br>
+➜微软利用P2P技术更新Windows 10应用
+https://www.solidot.org/story?sid=45030	41134
+微软将使用类似BitTorren的P2P技术，利用客户的上传带宽<a target="_blank" href="http://www.computerworld.com/article/2955288/microsoft-windows/windows-10-commandeers-users-upload-bandwidth.html"><u>为其它设备提供Windows 10更新和应用</u></a>。该功能被取名为"Windows Update Delivery Optimization" (WUDO)，在所有Windows 10版本中都默认启用。但只有Windows 10 Home和 Windows 10 Pro被设定连上公网后会向其它设备上传更新和应用。而企业版Windows 10 Enterprise和Windows 10 Education被默认设定只在本地网络之间共享更新和应用。微软称，它不会使用WUDO去减轻Windows 10升级负担。Windows 10的升级包仍然是通过Windows更新程序提供给客户。用户可选择关闭WUDO（设置——更新和安全——高级设置——Windows Update）。
+➜中国版路虎开售，路虎高管不满
+https://www.solidot.org/story?sid=45031	42973
+中国版路虎——陆风X7即将周四在中国上市，其价格是路虎的三分之一：陆风X7起售价135,000元，而路虎最畅销的型号揽胜零售价398,000元。<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-08-04/this-21-700-land-rover-lookalike-to-go-on-sale-in-china"><u>两款产品极其相似</u></a>。捷豹路虎的CEO Ralf Speth已在今年早些时候的上海汽车展上抨击了中国的拷贝粘贴工作，当时陆风X7也在汽车展上公开展示。路虎称它正在调查陆风是否抄袭了揽胜的设计元素。宁海陆风专卖店的一名销售经理说，客户称赞汽车外形漂亮，和揽胜一样，而且价格也更有吸引力。中国一首冬奥会申办歌曲《冰雪舞动》也被指<a target="_blank" href="http://cn.nytimes.com/china/20150804/c04song/"><u>拷贝了</u></a>迪士尼《冰雪奇缘》的《Let It Go》。
+➜如何修正Windows 10的隐私问题
+https://www.solidot.org/story?sid=45032	44133
+在默认设置下，Windows 10被允许向微软发送大量数据，其中包括联系人、日历细节、文本和触控输入、位置数据，等等。微软将这些数据用于个性化和针对性广告。然而，你并不是只能忍受接受这一切。你可以保留大部分的隐私，将大部分的个人数据留在PC上，Windows 10可以配置不向微软发送数据，一个代价是你的个人助手Cortana将不能工作。<a target="_blank" href="http://arstechnica.com/information-technology/2015/08/windows-10-doesnt-offer-much-privacy-by-default-heres-how-to-fix-it/"><u>改变配置的方法包括</u></a>：在安装界面时系统想要你使用快速设置，但你可以选择点击一个较小的定制设置按钮，然后将所有默认启用的功能全部禁用。

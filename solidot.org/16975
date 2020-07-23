@@ -1,0 +1,55 @@
+➜Mozilla向开源项目捐赠38.5万美元
+https://www.solidot.org/story?sid=48681	9363
+Mozilla公布了第二批开源支持计划的捐款对象：<a target="_blank" href="https://blog.mozilla.org/blog/2016/06/22/mozilla-awards-385000-to-open-source-projects-as-part-of-moss-mission-partners-program/"><u>总金额38.5万美元</u></a>，其中最大的受益者是Tor项目。<a target="_blank" href="https://www.torproject.org/"><u>Tor</u></a>匿名项目获得15.25万美元，默认使用Tor的Live操作系统<a target="_blank" href="https://tails.boum.org/"><u>Tails</u></a>获得7.7万美元，自动启用HTTPS和默认通过Let's Encrypt获取证书的HTTP/2 web server <a target="_blank" href="https://caddyserver.com/"><u>Caddy</u></a>获得5万美元，用Rust开发的异步I/O库<a target="_blank" href="https://github.com/carllerche/mio"><u>Mio</u></a>获得3万美元，序列化DNSSEC记录集传输扩展<a target="_blank" href="https://www.getdnsapi.net/"><u>DNSSEC/DANE Chain Stapling</u></a>获得2.5万美元，能以HTML5部署的高性能跨平台游戏引擎<a target="_blank" href="http://www.godotengine.org/"><u>Godot</u></a>获得2万美元，工作在浏览器上的p2p分布式搜索引擎<a target="_blank" href="http://pearsearch.org/"><u>PeARS</u></a>获得1.55万美元，屏幕阅读器<a target="_blank" href="http://www.nvaccess.org/"><u>NonVisual Desktop Access (NVDA)</u></a>获得1.5万美元。
+➜起诉苹果侵犯设计专利的中国公司已经破产
+https://www.solidot.org/story?sid=48682	10206
+名不见经传的中国公司深圳佰利意外赢得了针对苹果iPhone 6和iPhone 6 Plus的销售禁令。然而深圳佰利及其母公司深圳百分之百数码科技都已经破产，网站也早已下线。据百分之百数码科技的前雇员和投资者称，在监管机构今年作出上述裁决时，该公司已经倒闭，主要受产品存在缺陷、管理不当和竞争激烈的拖累。《华尔街日报》援引知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/index.asp"><u>报道</u></a>，百度在2013年大举投资百分之百数码科技，以开发移动操作系统。知情人士透露，百度此前曾预计百分之百数码科技会将百度的投资用于开发一款移动操作系统，从而与阿里巴巴的系统展开竞争，但公司创始人徐国祥却将这笔钱投在了智能手机和其他风投项目上。百度在2014年发现百分之百数码科技并未如其所期望的那样使用所投资金，便对后者提起仲裁。百度在2015年赢得了仲裁，但尚未收回资金。
+➜Mark Zuckerberg用胶条封住笔记本摄像头，你也应该这么做
+https://www.solidot.org/story?sid=48683	13343
+<div align="center"><img src="http://img.solidot.org/0/594/liD9lK5CpFQc.jpg" height="360" align="" width="360"><br>
+</div>
+<br>
+Mark Zuckerberg公布了<a target="_blank" href="https://www.facebook.com/photo.php?fbid=10102910644965951&amp;set=a.612287952871.2204760.4&amp;type=3&amp;theater"><u>一张照片</u></a>，庆祝Facebook旗下子公司Instagram的用户数超过5亿。这张照片中，他所用苹果笔记本电脑的摄像头和麦克风都被胶条封住了。这一做法可以阻止攻击者利用摄像头和麦克风监听使用者。FBI局长James Comey前不久说过，他使用胶条封住了摄像头，因为比他聪明的人都这么做了。Zuckerberg是一位亿万富翁，Facebook的创始人，他的计算机显然是一个高价值的攻击目标，但<a target="_blank" href="https://www.theguardian.com/technology/2016/jun/22/mark-zuckerberg-tape-webcam-microphone-facebook"><u>这并不意味着普通人不需要担心</u></a>，入侵计算机的攻击者安装的后门多包含了利用摄像头监视的功能，他们可以利用拍摄的照片去敲诈受害者。Zuckerberg公布的照片还显示，他可能使用了 Mozilla邮件客户端Thunderbird。
+➜iOS 10预览版内核没有加密
+https://www.solidot.org/story?sid=48684	14088
+你是相信一个隐藏内部秘密的内核还是一个没有加密公开内部工作的内核？安全专家惊讶的<a target="_blank" href="https://www.technologyreview.com/s/601748/apple-opens-up-iphone-code-in-what-could-be-savvy-strategy-or-security-screwup/"><u>发现</u></a>，苹果最近释出的iOS 10预览版内核没有使用加密隐藏内部工作秘密。此举将允许任何人检查苹果软件的安全弱点。苹果以保守秘密著称，但如今它可能会变得更透明，可能采取新策略去鼓励用户报告软件bug。苹果发言人在一份<a target="_blank" href="https://techcrunch.com/2016/06/22/apple-unencrypted-kernel/"><u>声明</u></a>中称，内核缓存不包含任何用户信息，不加密内核允许苹果在不危及安全的情况下优化操作系统性能。
+➜国际空间站测试太阳系互联网技术
+https://www.solidot.org/story?sid=48686	26247
+NASA朝着<a target="_blank" href="https://www.nasa.gov/feature/new-solar-system-internet-technology-debuts-on-the-international-space-station"><u>创建星际互联网迈出了一大步</u></a>，它开始在国际空间站上测试可容忍延迟网络（delay-tolerant networking，DTN）服务。<a target="_blank" href="https://sourceforge.net/projects/dtn"><u>DTN</u></a>网络采用储存转发机制去发送数据包，数据包在能被转发前会在通信路径的节点上储存一部分，然后在最终目的地重新组装，这个目的地可以是地面站或深空飞行器或人类生活的外星球。DTN的工作机制与传统互联网协议不同，数据传输在传统协议下需要所有节点同时可用。NASA与TCP/IP合作者Vinton G. Cerf紧密合作开发DTN。Vint Cerf认为DTN对于物联网也有用，比如设备因为电力不足的原因必须停止通信，在充电之后才能再次进行通信。<br>
+➜德国政府无限期禁止水力压裂技术
+https://www.solidot.org/story?sid=48687	29032
+德国政府同意<a target="_blank" href="http://www.reuters.com/article/us-germany-fracking-idUSKCN0Z71YY"><u>无限期的禁止</u></a>使用水力压裂技术。测试钻井仍然是允许的，但必须事先得到各州政府的批准。水力压裂技术通过向地下灌入大量水和化学试剂去开采天然气和页岩油气，过去几年它引发了广泛争议，原因是它可能造成地下水污染问题，以及可能会诱发地震。水力压裂技术大幅提高了页岩油气的产量，是过去几年石油价格大幅下降的主要原因。德国工业界认为水力压裂有助于降低能源开支，但环保组织的反对声音比它更大。虽然禁令是不限期的，但妥协法案呼吁议会在2021年重新评估这一决定是否仍然有效。
+➜C-SPAN用Periscope和Facebook Live直播民主党议员静坐
+https://www.solidot.org/story?sid=48688	29741
+美国国会两党关于枪支管控立法的对立立场在周三晚间演变成众议院会议大厅里的<a target="_blank" href="http://cn.nytstyle.com/international/20160623/house-democrats-stage-sit-in-to-push-for-action-on-gun-control/"><u>一场混乱的对抗</u></a>。民主党议员席地而坐，高呼口号，要求就新法案开始投票。共和党人宣布休会，并切断了会场的C-SPAN电视直播。C-SPAN随后使用Twitter视频直播服务Periscope和Facebook Live<a target="_blank" href="http://www.c-span.org/video/?411624-1/watch-democrats-continue-house-sitin-gun-violence&amp;live"><u>恢复了直播</u></a>。民主党要求在国会休会一周庆祝7月4日国庆日之前就一系列控枪措施进行投票表决。但他们的要求遭到了拒绝。控枪立法的努力在参众两院均告失败，作为少数党的民主党于是采取了极端行动，表达他们对国会在一连串枪支暴力事件（包括奥兰多枪击案）之后无所作为的愤怒。
+➜吸烟可能影响精子质量
+https://www.solidot.org/story?sid=48689	30973
+巴西研究人员分析了20位吸烟者和20位不吸烟者的精子，发现吸烟者的精子<a target="_blank" href="http://cn.nytstyle.com/health/20160623/t23well-smoking/"><u>受到了损伤</u></a>，这可能降低卵子成功受精的几率，还可能为婴儿带来健康问题。吸烟者精子中的DNA出现了断裂，究其原因或许是香烟烟雾中的镉和尼古丁诱导了氧化应激。发表在《英国国际泌尿学期刊》上的<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/bju.13539/abstract"><u>研究报告</u></a>还显示，吸烟者精子顶体——位于精子头部，会释放让精子穿透卵子外壳的酶——的完整率也更低一些。此外，研究人员发现，吸烟者精浆中的蛋白质出现了可能会影响受精的变化。 <br>
+➜欧洲要把机器人当成“电子人”
+https://www.solidot.org/story?sid=48690	33498
+越来越多的机器人在干人类的工作，然而问题是它们不纳税。现在，欧洲想要改变这一状况：欧盟议会一份草案建议<a target="_blank" href="https://www.yahoo.com/tech/europes-robots-become-electronic-persons-under-draft-plan-170708335--sector.html"><u>将机器人归类为电子人</u></a>，重新思考它们的税务和法律责任，如它们的主人有责任为它们支付社保。草案呼吁至少将最先进的自主机器人视为电子人，拥有特殊的权利和义务。它还建议为智能自主机器人设立登记制度。批评者认为，真正意义上的电子人不会在10年内发生，至少需要50年，为电子人创建法律框架只会制造繁文缛节，阻碍机器人技术的发展。
+➜亚马逊更新入门级Kindle，售价80美元/588元
+https://www.solidot.org/story?sid=48691	34859
+<div align="center"><img src="http://img.solidot.org/0/596/lihAuRZ7mBx3w.png" height="414" align="" width="400"><br>
+</div>
+<br>
+嫌290美元/2399元的Kindle Oasis太贵？亚马逊刚刚更新了它的Kindle产品线，更新了入门级Kindle，仅售80美元（美国）/<a target="_blank" href="https://www.amazon.cn/kindle-store/dp/B0186FESGW?ie=UTF8&amp;ref_=asw1_108498192_1_1082_KINDLE"><u>558元（中国）</u></a>，产品将在7月20日发售。入门级Kindle没有背光，显示屏分辨率维持在167 ppi，300 ppi显示屏则主要由Kindle Paperwhite以上产品使用，它的内部储存空间则从2GB增加到4GB，内存也从 256MB增加到512MB。新Kindle重161克，比
+Paperwhite轻。<a target="_blank" href="http://arstechnica.com/gadgets/2016/06/amazon-debuts-new-entry-level-kindle-with-more-memory-for-just-80/"><u>有报道称</u></a>，入门级Kindle引入了蓝牙支持，允许戴着蓝牙耳机听有声书；新的笔记发送功能可以发送你的信息和高亮段落。
+➜笨办法学C 翻译完成
+https://www.solidot.org/story?sid=48693	36341
+<a href="mailto:admin@flygon.net">wizardforcel</a> 写道 <i>"我看见2012年就有人说要开坑翻译这本书，当时这本书还只写了一半，那个译者也没坚持翻译完，甚至连已经翻译的部分都找不到了。于是我自己从头开始弄，三个月翻译完了。
+</i>
+<p><i>作者的行文风格比较朴素和直白，但正是没有使用各种专业术语，使得它废话比较多也比较绕，各种代词更是不明所以。我在翻译过来之后也没有做整体的润色，但会尽量忠实于作者的意图，并用更清晰的表述转述出来。
+</i>
+此外，作者的“笨办法学JS”已经开始筹备，具体完成时间未知，应该需要等个几年。
+链接：<a href="https://github.com/wizardforcel/lcthw-zh" target="_blank">https://github.com/wizardforcel/lcthw-zh</a></p>
+➜最安全的消息应用：Signal
+https://www.solidot.org/story?sid=48694	40429
+越来越多的消息应用加入了端对端加密支持，使得应用运营商本身也不知道通信内容，但这并不意味着它不知道你的通信元数据，对情报收集和执法调查来说，元数据足够了。The Intercept<a target="_blank" href="https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/"><u>对比了三种支持端对端加密的消息应用WhatsApp、Signal和 Google Allo</u></a>。三种消息应用都整合了Signal协议。<br>
+<i>WhatsApp是世界上最流行的消息应用，它当然知道用户的通信元数据，甚至还收集了用户的通讯录，如果政府提出要求，WhatsApp能交出这些有重要价值的数据。Google Allo默认并没有启用端对端加密，在默认情况下Google能阅读你的所有通信内容，Google需要通信内容去确保机器学习能工作。Signal应用与WhatsApp和Allo最大不同是它是开源的，它的商业模式也不同于Google和Facebook，运营该应用的<a target="_blank" href="https://whispersystems.org/"><u>Open Whisper Systems</u></a>完全依靠捐款，尽可能少的储存用户数据，它不储存元数据。另一个流行的消息应用Telegram在隐私方面表现更遭，它默认在未加密的服务器上储存用户消息。</i>
+➜工程院院士谈太湖之光的编译器和操作系统
+https://www.solidot.org/story?sid=48695	41558
+中国工程院院士陈左宁接受采访<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/6/349405.shtm"><u>谈论了神威太湖之光</u></a>，具体细节并没有超过昨天发表的<a target="_blank" href="http://www.solidot.org/story?sid=48665"><u>论文</u></a>，但给出了论文没有给出的神威超算的操作系统和编译器中文名字。陈左宁称，申威26010采用全自主指令系统（也就是申威64），基于申威指令系统开发的神威睿智编译器及其工具链，形成了完备的国产自主指令系统技术体系。神威睿思操作系统（即RaiseOS 2.0.5）是基于Linux开源代码开发，已有10多年历史，主要面向高性能领域和通用计算领域。她表示，“在通用计算领域，神威睿思操作系统的主要优势在于自主可控度高和安全性强等方面。我们对Linux系统内核进行了全面的剖析，进行了安全性增强和特殊改造，结合申威处理器自主指令系统特点和国产处理器新增安全特性，极大提升了基础硬件平台和核心软件系统的安全性...神威睿思操作系统主要应用于高性能计算与安全两个领域。产品含括超级计算机和各种集群计算机系统；桌面、服务器类通用操作系统，以及网络安全防护、主机安全防护、数据安全防护、安全管理等网络安全类的定制操作系统。”
+➜开源库Libarchive发现严重漏洞
+https://www.solidot.org/story?sid=48697	46079
+思科安全研究员在广泛使用的开源库Libarchive<a target="_blank" href="http://blog.talosintel.com/2016/06/the-poisoned-archives.html"><u>发现三个内存崩溃错误</u></a>，会导致任意代码执行，能通过特制文件利用。Libarchive被众多Linux和BSD系统的文件和包管理器使用，以及被OS X 和Chrome OS的组件和工具使用。开发者可以在其应用中整合Libarchive的代码，研究人员表示，很难知道有多少应用程序或固件包含了Libarchive。维护者已经释出了三个补丁修正漏洞（<a target="_blank" href="https://github.com/libarchive/libarchive/commit/e79ef306afe332faf22e9b442a2c6b59cb175573"><u>一</u></a>，<a target="_blank" href="https://github.com/libarchive/libarchive/commit/ecdac4d50db0cf5a0c630ba077729aaa6c5a2dd2"><u>二</u></a>，<a target="_blank" href="https://github.com/libarchive/libarchive/commit/05caadc7eedbef471ac9610809ba683f0c698700"><u>三</u></a>），但受影响的项目何时能修复就不得而知了。

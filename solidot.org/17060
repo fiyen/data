@@ -1,0 +1,12 @@
+➜利用后门小米能在你的手机上安装任意应用
+https://www.solidot.org/story?sid=49701	43667
+荷兰的一位小米4用户发现手机预装了一个叫 AnalyticsCore.apk（com.miui.analytics）的应用，会自动在后台运行，他不喜欢未经许可收集用户信息的应用，<a target="_blank" href="https://www.thijsbroenink.com/2016/09/xiaomis-analytics-app-reverse-engineered/"><u>因此对它进行了逆向工程</u></a>。他发现该应用每24小时会访问小米官方服务器检查更新，在发送请求时它会同时发送设备的识别信息，包括手机的IMEI、型号、MAC地址、Nonce、包名字和签名。如果服务器上有名叫Analytics.apk的更新应用，它会自动下载和安装，整个过程无需用户干预。应用安装时没有任何验证，也就是说该漏洞能被黑客利用，或者小米只需要将想要安装的应用重命名为Analytics.apk就可以将其推送给用户。不出乎任何人意料的是，设备是通过HTTP发送请求和接收更新，这意味着用户很容易遭到中间人攻击。
+➜阿里巴巴解雇利用程序抢月饼的工程师
+https://www.solidot.org/story?sid=49702	52883
+<a target="_blank" href="http://news.cctv.com/2016/09/13/ARTI8kipP1qyCXUn6RX1wVC5160913.shtml"><u>CCTV</u></a>、<a target="_blank" href="http://blogs.wsj.com/chinarealtime/2016/09/14/over-the-moon-alibaba-engineers-fired-for-mooncake-hacking/"><u>华尔街日报</u></a>、<a target="_blank" href="https://yro.slashdot.org/story/16/09/15/167258/alibaba-engineers-fired-for-mooncake-hacking"><u>/.</u></a>、以及无数的<a target="_blank" href="https://www.zhihu.com/question/50600301"><u>社交媒体</u></a>报道了阿里巴巴解雇利用程序抢购内售月饼的四名工程师的事件。中秋节送月饼（昂贵的那种）是中国的传统，阿里巴巴内部定制了一批月饼，每位员工分到一盒，然后将多余的拿出来出售给员工，每盒包含四只月饼，售价59元，每位员工限购3盒。阿里巴巴采用了定点抢购的销售模式，由于手动抢购太难，四位程序员写了脚本去抢购月饼，可能是程序不完善的问题，程序员的脚本抢购了超过限额数量的月饼，他们被发现之后当天就遭到解雇。阿里巴巴声称这是为了警告员工需要遵守游戏规则。对于被解雇的程序员，阿里巴巴的竞争对手奇虎360和京东表示有意雇佣。
+➜英国在线盗版将面临最高十年刑期
+https://www.solidot.org/story?sid=49703	54276
+英国政府的数字经济法案在通过议会的二读之后<a target="_blank" href="https://torrentfreak.com/10-years-in-prison-for-online-pirates-a-step-closer-in-the-uk-160914/"><u>正接近成为法律</u></a>，这项受争议的法案将在线盗版的刑期从最高两年增加到最高十年。英国现有法律对线下实体盗版如盗版光盘的最长刑期是十年，过去几年版权组织一直游说政府将这一惩罚同时应用于线上和线下盗版，认为两年的刑期太短没有威慑力。于是英国政府去年宣布了延长在线盗版刑期至最高十年的方案。
+➜18岁少女因Facebook上的童年囧照起诉父母
+https://www.solidot.org/story?sid=49704	54448
+一名18岁的奥地利少女因父母未经许可将数百幅童年囧照上传到Facebook上以及不认真对待她的删除要求而<a target="_blank" href="http://nymag.com/thecut/2016/09/woman-sues-her-parents-for-posting-childhood-photos.html"><u>提起诉讼</u></a>。她告诉当地媒体说，她的父母一点也不感到羞耻，不在乎照片是否是她坐在马桶上或裸体躺在床上。她厌倦了父母一点也不把她的删除要求当真的态度。她的父母拒绝删除照片，她的父亲认为他有权发布照片因为照片是他拍摄的。她的律师认为如果能证明照片侵犯了她的隐私权，那么她的父母将需要支付赔偿和诉讼费用。

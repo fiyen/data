@@ -1,0 +1,50 @@
+➜Google 向 KaiOS 投资 2200 万美元
+https://www.solidot.org/story?sid=57016	12504
+开发 KaiOS 移动操作系统的 KaiOS Technologies <a href="https://www.kaiostech.com/google-leads-seriesa-investment-round-kaios-connect-next-billion-users/" target="_blank"><u>宣布</u></a>获得了 Google 的 2200 万美元 A 轮投资。KaiOS 是基于 Firefox OS 的修改版本，能运行 HTML5 应用，它被多种功能机使用，其中包括 HMD Global Oy 最近推出的香蕉手机诺基亚 8110。HMD 从诺基亚得到了其品牌的独家使用授权。除了投资，KaiOS 还将与 Google 合作将 Google Assistant、Google Maps、YouTube 和 Google Search 提供给 KaiOS 用户，这些应用都是基于 Web，使用开放标准如 HTML5、JavaScript 和 CSS。
+➜Gentoo 的 Github 账号遭到入侵
+https://www.solidot.org/story?sid=57017	13411
+Gentoo Linux 项目警告其 Github 账号遭到入侵，托管在 Github 的内容被修改。Gentoo Linux 在官网发表<a href="https://www.gentoo.org/news/2018/06/28/Github-gentoo-org-hacked.html" target="_blank"><u>声明</u></a>称：<i>6 月 28 日大约 20:20 UTC，未知人士控制了 Github Gentoo 账号，修改了仓库内容和页面，他们正在判断受影响的程度，恢复对账号和仓库的控制。目前所有托管在 Github 上的 Gentoo 代码都可以被视为遭到纂改。这起事件没有影响到托管在 Gentoo 自有基础设施上的任何代码，Gentoo ebuild 库都托管在自己的基础设施，而 Github 账号只是一个镜像，只要用户是使用  rsync 或 webrsync 从 gentoo.org 同步内容，那么他们就没有受到影响。所有 Gentoo commits 都有签名，用户在使用 git 时应该验证下签名。</i>
+➜2012 年之后的所有 Android 设备受到 RAMpage 漏洞的影响
+https://www.solidot.org/story?sid=57018	13551
+一群国际学者发表了一份研究报告《<a href="https://vvdveen.com/publications/dimva2018.pdf" target="_blank"><u>GuardION: Practical Mitigation of DMA-based
+Rowhammer Attacks on ARM</u></a>》（PDF），披露一个 Rowhammer 攻击变种 RAMpage，该漏洞影响 2012 年之后发布的几乎所有 Android 设备，也可能影响苹果 iOS 设备、PC 和虚拟机。Rowhammer 攻击是指利用临近内存单元之间电子的互相影响，在足够多的访问次数后让某个单元的值从 1 变成 0，反之亦然。这种现象被称为比特翻转（bitflipping），可被利用获取更高的权限，过去几年研究人员报告了多种 Rowhammer 攻击变种。最新的漏洞编号为 CVE-2018-9442。研究人员称，RAMpage 破坏了用户应用和操作系统之间最基础的隔离。
+➜ProtonMail 遭到 DDoS 攻击
+https://www.solidot.org/story?sid=57019	17029
+加密电邮服务 ProtonMail 过去几天<a href="https://www.bleepingcomputer.com/news/security/protonmail-ddos-attacks-are-a-case-study-of-what-happens-when-you-mock-attackers/" target="_blank"><u>遭到了 DDoS 攻击</u></a>，因攻击频繁短时间下线。ProtonMail 声称它跟踪攻击到一个据称与俄罗斯有关联的组织。现在，攻击者现身否认他们是俄罗斯人，该黑客组织自称叫 Apophis Squad，他们正在开发一个  DDoS 攻击服务，随机选择 ProtonMail 为目标来测试其服务的 Beta 版本。他们对 ProtonMail&nbsp; 发动了流量达到 200 Gbps 的 SSDP 洪水攻击，第一次攻击成功让 ProtonMail下线了 60 秒。攻击者声称他们一开始并没有打算通过攻击持续干扰 ProtonMail 的服务，但 ProtonMail CTO Bart Butler 的言论惹恼了他们。Bart Butler 在 Twitter 上称这个组织是小丑。Apophis Squad 随后加大了攻击流量，采用了更多 DDoS 攻击方法，峰值流量达到 500 Gbps。
+➜电子商务法和个税法草案公布
+https://www.solidot.org/story?sid=57020	19016
+全国人大常委会在其官网 NPC 公开两个备受瞩目的法律草案<a href="http://www.npc.gov.cn/npc/flcazqyj/2018-06/29/content_2057030.htm" target="_blank"><u>电子商务法（草案三次审议稿）</u></a>和<a href="http://www.npc.gov.cn/npc/flcazqyj/2018-06/29/content_2057033.htm" target="_blank"><u>个人所得税法修正案（草案）</u></a>（注：目前网站显示 Service Unavailable，访问非常缓慢），征求公众意见，截止日期为 2018 年 7 月 28 日。
+电子商务法草案将要求京东和阿里巴巴等运营的电商平台对卖家在其网站上出售的假冒商品负责，而零星小额交易可免于工商登记；个人所得税法草案规定个税起征点由每月 3500 元提高至每月 5000 元 (每年 6 万元)。此系个税法自 1980 年出台以来第七次大修，包括起征点在内，本次个税法修改拟作部分劳动性所得综合征税、增加专项附加扣除等六大修改。
+➜星际天体 'Oumuamua 是一颗彗星
+https://www.solidot.org/story?sid=57021	26234
+<div align="center"><img src="http://img.solidot.org/0/475/liPISKXI3EpcE.jpg" width="450" height="281" align=""><br>
+</div>
+<br>
+去年 10 月，天文学家利用夏威夷的巡天望远镜 Pan-STARRS1 发现了一颗奇怪的天体 `Oumuamua。`Oumuamua 在夏威夷语中的意思是 “第一信使”，它被认为是人类已知的第一颗星际天体。访问太阳系的星际天体肯定很多，而它是第一颗被人类密切观察并确认的星际天体。`Oumuamua 有着雪茄外形，与我们在太阳系观察到的天体存在显著差异，它正在加速远离太阳系。但它究竟是小行星还是彗星？天文学家本周在《自然》期刊上发表<a href="https://www.nature.com/articles/s41586-018-0254-4" target="_blank"><u>研究报告</u></a>，根据多个望远镜对'Oumuamua 轨道的测量，发现它除了受到来自太阳和行星的引力作用外，它的加速还受到了非引力的作用力，这种非引力的力是气体和尘埃释出导致的，而这正是彗星的特征。`Oumuamua 是<a href="https://www.nytimes.com/2018/06/27/science/oumuamua-comet-asteroid.html" target="_blank"><u>一颗彗星</u></a>。
+➜消费者无法解决的塑料回收问题
+https://www.solidot.org/story?sid=57022	27849
+美国人在回收塑料上很不成功。早在中国停止进口塑料垃圾前，美国的 91% 潜在可回收塑料最终到了垃圾场，或更糟糕的是进入了海洋。欧洲比美国在回收垃圾上做得好一点。为什么回收率是如此糟糕？乔治亚大学工程教授 Jenna Jambeck <a href="https://www.bloomberg.com/view/articles/2018-06-27/plastic-recycling-is-a-problem-consumers-can-t-solve" target="_blank"><u>认为</u></a>，中国拒绝处理美国和欧洲塑料的部分原因是很多人将垃圾扔进了错误的垃圾箱，使得塑料垃圾几乎不可能回收。根据发表在《Science Advances》期刊上的<a href="http://advances.sciencemag.org/content/4/6/eaat0131" target="_blank"><u>论文</u></a>，她和同事计算，从现在到 2030 年，将有 1.11 亿吨潜在可回收塑料从中国工厂转移到垃圾场。Jambeck 说，中国过去进口洋垃圾从中回收有用材料来获取利润，但随着其它国家尝试简化垃圾处理，将各种各样的垃圾混在一起，使得到达中国的洋垃圾几乎不可能分类处理。
+➜美国行业组织反对特朗普的关税政策
+https://www.solidot.org/story?sid=57023	28601
+美国国际钢铁协会<a href="http://www.ftchinese.com/story/001078229?adchannelID=&amp;full=y" target="_blank"><u>表示</u></a>，它已向美国国际贸易法院提起诉讼，状告特朗普对钢铝加征关税所依据的 1962 年法律违宪。这是目前为止对特朗普关税政策最大的法律挑战。特朗普去年根据这项法律的 “第 232 条” 对钢铝进口是否对美国国家安全构成威胁展开调查。他于上月对美国去年从全球进口的总价超过 3300 亿美元的汽车和汽车零部件发起类似调查。美国国际钢铁协会发起这一挑战，正值美国国会内部的 “亲贸易派” 共和党人士在美国商会和其他商业团体的支持下，设法限制这项法律的适用范围、约束总统进一步加征关税的能力。他们指出，他们认为关税会给经济带来潜在损害，而且企业对美国与中国和欧盟贸易战升级感到担忧。根据美国宪法第一条，国会有责任监管美国的国际贸易。但数十年来，立法机构逐步将越来越多的贸易权力下放，包括特朗普征收钢铝关税援引的 1962 年法律。
+➜美国阻击中国对硅谷的渗透
+https://www.solidot.org/story?sid=57024	30167
+丹华资本投资于硅谷一些最有前景的初创企业，像是无人机、人工智能以及网络安全等领域的公司。丹华资本就位于美国科技创新创业的发源地 -- 斯坦福大学的外边。不过丹华资本也是在中国政府的帮助下建立并获得资金的。这样的风投公司不只丹华一家。根据对风投界消息人士的采访和公开信息，有超过 20 家硅谷风投公司与中国政府的基金或国有实体有着密切联系。虽然美国政府对中国收购美国上市公司日益采取强硬路线，但基本没有理会中国对美国初创企业的投资，即便投资方是具有政府背景的实体。但这种情况很可能要变了。美国国会将完成立法，给予政府更大权力<a href="https://cn.reuters.com/article/cdepth-eu-merge-acquisition-1h-0629-idCNKBS1JP0E0?il=0" target="_blank"><u>阻止外资投资美国公司</u></a>，包括风险投资。新法规将赋予美国外资审议委员会较大自由度来决定审查。
+➜区块链有了自己的教会
+https://www.solidot.org/story?sid=57025	34034
+区块链被认为一种宗教，现在它<a href="http://www.wired.co.uk/article/blockchain-religion-church-bitcoin" target="_blank"><u>有了自己的教会</u></a>。在上个月纽约举行的 Seven on Seven 会议上，加密货币创业者 Matt Liston 和艺术家 Avery Singer 宣布了区块链教会 0xΩ。这个教会事实上是以太坊区块链的一个共识协议。Liston 和 Singer 表示，通过捐赠，教会成员可以投票选出最能代表他们宗教身份的象征。基本上，它可以帮助更民主的管理捐赠，达成共识，识别诚实领袖。与会者被允许成为首批加入教会的人。为了让氛围更隆重，两人还发放了 40 本精装版的圣言文本《Flame Paper》。Liston 称这本教会圣书永远不会上线。加密数字货币拥有宗教性的所有特征：神秘的创始人中本聪，自称比特币耶稣的 Bitcoin Cash 推手 Roger Ver，太坊区创始人 Vitalik Buterin 的贴纸有着光芒四射的光环，匿名货币 Zcash 有着五名匿名见证者。
+➜Windows 用户感染无法卸载的恶意程序 All-Radio 4.27 Portable
+https://www.solidot.org/story?sid=57026	37388
+从周三开始，很多 Windows 用户报告<a href="https://www.bleepingcomputer.com/news/security/all-radio-427-portable-cant-be-removed-then-your-pc-is-severely-infected/" target="_blank"><u>感染了</u></a>一种无法卸载的恶意程序 All-Radio 4.27 Portable。All-Radio 4.27 Portable 是俄罗斯的一个合法在线视频和音乐程序，恶意程序作者只是拿它来充当门面。一旦感染该程序，用户也许最好重装下系统。它会在系统中安装 rootkit，挖矿程序，监视剪切板在发现比特币地址之后用自己控制的地址替代，窃取信息的木马，还能发送垃圾信息。大多数用户报告他们是在下载和安装游戏破解程序和 Windows 激活工具后感染了该恶意程序。
+➜科幻作家哈兰 · 艾里森去世，享年 84 岁
+https://www.solidot.org/story?sid=57027	37840
+美国科幻作家哈兰·艾里森（Harlan Ellison）在睡眠中<a href="https://twitter.com/mcvalada/status/1012406845758062592?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1012406845758062592&amp;ref_url=https%3A%2F%2Fvariety.com%2F2018%2Ftv%2Fnews%2Fharlan-ellison-dead-dies-star-trek-1202861048%2F" target="_blank"><u>去世</u></a>，享年 84 岁。<a href="https://en.wikipedia.org/wiki/Harlan_Ellison" target="_blank"><u>艾里森</u></a>一生中创作了超过 1700 篇短篇故事、小说、剧本和漫画脚本等，其最知名的作品包括《星际奇航》系列之《The City on the Edge of Forever》，《男孩和他的狗》，《无声狂啸（I Have No Mouth, and I Must Scream）》等。艾里森八次赢得了雨果奖（《男孩和他的狗》剧本获奖被算作半次），四次星云奖，是唯一一位三次赢得星云奖最佳短篇小说的科幻作家，他在 2006 年被美国科幻协会授予科幻大师的称呼。
+➜印度央行要求该国银行淘汰 Windows  XP
+https://www.solidot.org/story?sid=57028	43212
+印度央行要求该国银行部门在 2019 年 6 月前从 ATM 机器<a href="https://www.theregister.co.uk/2018/06/25/indian_banks_on_notice_windows_xp_must_die/" target="_blank"><u>淘汰 Windows&nbsp; XP</u></a>。微软早在 2014 年 5 月就终止支持 XP。印度央行是出于安全理由下达了淘汰 XP 的最终通知。除了淘汰 XP 外，印度央行还要求用 BIOS 密码，禁用 USB 接口和自动运行，给系统打补丁等措施来保护 ATM 机器的安全。根据央行的时间表，银行需要在 2018 年 9 月前淘汰四分之一的 XP，12 月前淘汰一半，明年 3 月淘汰四分之三。
+➜大学如何教毛泽东思想课
+https://www.solidot.org/story?sid=57029	45369
+毛泽东思想等意识形态课程仍然是大学的必修课。但今天的大学生是如何上课的，而教师又是如何授课的？大多数学生通常都只是应付这些课程，通常不会认真听课，因此授课老师<a href="https://cn.nytimes.com/china/20180629/chinese-classrooms-education-communists/" target="_blank"><u>也在采取新的方法</u></a>。2015 年冯务中开始在哈佛大学和麻省理工学院创办的在线教育平台 edX 上提供关于毛泽东思想的课程，他是中国首批利用互联网传授意识形态课程的教授之一。他指定的阅读材料不仅包括毛泽东的作品，还有托克维尔 (Alexis de Tocqueville) 和美国政治学家亨廷顿 (Samuel P. Huntington) 等西方作者的著作。在现场讲座中，他讨论毛泽东喜欢的书籍等话题，要求学生评价中国领导人的政策，通过微信向最积极的参与者发红包，试图以这些方式使教材生动起来。
+➜AI 是否有灵魂
+https://www.solidot.org/story?sid=57030	46660
+一些未来学学者和技术专家预言了一个并不遥远的未来，AI 将变得和人类几无差别，成为真正的智能。他们声称，到那时，AI 很可能按照我们人类的方式，从情感、智力和精神层面，来体验这个世界。但<a href="http://www.bbc.com/ukchina/simp/vert-fut-44641617" target="_blank"><u>它们有灵魂吗</u></a>？当我们听到或使用“灵魂”这个词时，大部分人本能地知道我们所指的灵魂为何意，但要深究灵魂是什么却有些困难。关于灵魂究竟为何物的争论有一个根本的问题，即人类是纯粹的肉体存在，还是肉体和某样东西的混合体。富勒神学院的心理学教授布朗（Warren S Brown）一直在思考这个问题。对他而言，灵魂不是身体自我（physical self）之外的本质，而是血肉之躯的个体之人与上帝（精神上的），或是人类彼此之间的交往和沟通这些经历的总和。布朗和许多哲学家都用“非还原物理主义”这一术语来探讨人类的演生属性，他们认为人类的精神世界“是不可还原为人类躯体基本的组成部分，比如分子、细胞、神经元、神经系统、大脑”。基于人类是灵性行为存在的定义，是时候把我们原本的问题从“AI 可能有灵魂吗？”改“AI 可能像我们一样成为灵性行为体吗？”人工智能先驱、MIT 的明斯基（Marvin Minsky）认为是可以的。明斯基假设，机器很有可能进化出一种世界上特殊的存在，这种存在以探索自我身份和目的为基础，而且这种存在方法和人类自己的存在形式可能很相似。

@@ -1,0 +1,76 @@
+➜不要将手放到LHC里面
+https://www.solidot.org/story?sid=20212	3900
+好奇者向科学家询问如下问题：如果把手放到LHC（大强子对撞机）的质子束中，<a href="http://www.youtube.com/watch?v=_NMqPT6oKJ8">手会发生什么</a>(YouTube)？<i>
+显然科学家们从没想过有人会提出如此怪异的问题，他们发现<a href="http://blogs.discovermagazine.com/badastronomy/2010/09/21/dont-cross-the-lhc-stream/">这个问题确实很复杂</a>：1）质子束被加速到光速的99.9999%，但考虑质子的大小，它们未必能和手上的物质发生交互作用，类似朝着渔网射击，子弹通常会从网孔中飞过。2）质子束所在的管道是真空的，并存在高强度磁场，手难以置身于这样的环境。3）质子束相向而行，如果它们在手附近发生对撞，产生的巨大能量就像是朝你扔炸弹，质子束的总能量为300兆焦耳，相当于75公斤TNT炸药，大约相当于300颗炸弹。</i>
+➜Facebook公布下线原因
+https://www.solidot.org/story?sid=20213	6120
+9月23日流行社交网站Facebook遭遇了建站以来最严重的下线事故，持续时间大约有2.5小时。Facebook发表<a href="http://www.bbc.co.uk/zhongwen/simp/">声明</a>公布了技术细节，称下线最主要原因是数据库控制机制<a href="http://tech.slashdot.org/story/10/09/25/1526234/Facebook-Unveils-Details-of-Downtime">陷入了死循环</a>，由于太多的错误信息和修复请求，验证配置值的自动系统无法处理，最后他们不得不让网站下线以阻止涌向数据库的流量。只有当数据库恢复后，故障的根本原因解决后，Facebook才能逐渐允许更多用户访问网站。
+➜中国可能在2033年放开生二胎
+https://www.solidot.org/story?sid=20214	7200
+《南方都市报》<a href="http://nf.nfdaily.cn/nfdsb/content/2010-09/24/content_16145931.htm">报道</a>，广东省计生委主任张枫称，到2033年，中国人口将达到16.5亿人，在到达人口总量高峰、劳动年龄人口高峰、老龄人口高峰这3大高峰后，之后人口总量缓慢下降，那么就可以放开二胎政策了。此外媒体也报道，中国考虑修改政策，允许夫妇双方其中一方是独生子女的“单独”家庭生育二胎。《财经》杂志<a href="http://magazine.caijing.com.cn/2010-03-28/110404803.html">报道</a>(需注册)，“一个拟从2011年开始，以黑龙江、吉林、辽宁、江苏、浙江五省首批先行，总计分三批，逐步在全国开放‘夫妻一方为独生子女可生育二胎’的修改意见，正在完善中。”
+➜调查称中国半数中年人自认“老人”
+https://www.solidot.org/story?sid=20215	8400
+英国Bupa最新发布的<a href="http://www.bupa.com/jahia/webdav/site/bupacom/shared/Documents/PDFs/media-centre/health-pulse/ageing-societies-challenges-and-opportunities.pdf">国际健康医疗研究报告</a>(PDF)说，28%的中国人在想到自己变老时会心情沮丧，26%对变老有恐惧感。54%的45岁至54岁人群<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/09/100924_bupa_health_survey.shtml">已把自己看成是老人</a>，30%的中国人对晚年生活表示担忧；65%的受访者相信，他们在60岁以前就会变老。91%的中国被调查者认为，政府应当提高对老年人的关怀。调查显示，法国是心理最年轻的国家，32%的受被调查者认为超过80岁才是老年；17%的巴西人非常盼望进入老年。在中国，65%的被调查者认为自己在60岁前就已经老了，其中33%的人已经为养老而存款。
+➜Marvell三核ARM芯片图形能力接近PS3
+https://www.solidot.org/story?sid=20216	10560
+Marvell宣布了其新一代高端处理器<a href="http://www.marvell.com/company/news/press_detail.html?releaseID=1440">ARMADA 628</a>，拥有三个A9级芯片，同时整合了GPU，每秒能处理2亿个三角形，相比下索尼PS3主机的图形能力是每秒处理2.5亿个三角形图像，这意味着你将能在掌上电脑上<a href="http://arstechnica.com/gadgets/news/2010/09/marvells-tri-core-chip-has-near-ps3-level-graphics.ars">实现主机级的游戏表现</a>，播放1080p视频。ARMADA 628还支持DirectX、Open GL ES 2.0和Open VG 1.1，支持的移动操作系统包括RIM OS、Android、Linux、Windows Mobile，以及Adobe Flash。<i>
+ARMADA 628芯片中只有两个能运行在最高1.5GHz下，第三个降频到624MHz，从本质上，它是2.5核系统级芯片。相对于其它的移动芯片，如NVIDIA Tegra 2的GPU能力是每秒处理9000万个三角形图像，苹果的A4处理器据称每秒处理2800万个三角形。ARMADA 628的卓越性能显示它有可能用于平板电脑，甚至是笔记本。</i>
+➜反盗版公司邮件泄漏
+https://www.solidot.org/story?sid=20217	17400
+4chan匿名黑客继上周对MPAA、RIAA和反盗版公司AiPlex Software发动DDoS攻击之后，<a href="http://torrentfreak.com/acslaw-anti-piracy-law-firm-torn-apart-by-leaked-emails-100925/">本周又将攻击目标对准了英国反盗版公司ACS:Law</a>。<i>
+除了午夜给该公司老板Andrew Crossley打骚扰电话外，他们用DDoS拖垮了公司网站，并且把在网站恢复时无意泄露的公司邮件存档下载下来<a href="http://thepiratebay.org/torrent/5850493/ACS-Law_leaked_emails">上传到海盗湾</a>。这个<a href="magnet:xturnbtihf3e0383f99512ba8fb533be8f3a593b747021f6adnACS-Lawleakedemailstrhttp3A2F2Ftrackeropenbittorrentcom2Fannounce">365MB大小的存档</a>包括了数千封邮件，透露了ACS:Law的公司运作情况，其中还有大量的隐私通信内容，比如Crossley骂自己前妻的邮件。Andrew Crossley的邮件基本上承认他的工作是欺骗和敲诈。他们向数千家网站发送了立即付款的威胁：“给我们五千美元要不准备上法庭”。</i>
+➜催产素有助于社交
+https://www.solidot.org/story?sid=20218	19200
+哥伦比亚大学与以色列研究人员<a href="http://www.physorg.com/news204289578.html">发现</a>，催产素（oxytocin）确实有助于克服社交障碍，<a href="http://tw.news.yahoo.com/article/url/d/a/100926/4/2drj3.html">但它只对害羞一族有效</a>，对天生自信的人没什么帮助。<i>
+研究人员寻找了27名健康成年人，先请他们进行“自闭商数”（autism spectrum quotient，简称AQ）测试，以了解实验对象的社交技巧。接着实验对象分别使用含有催产素和安慰剂的鼻腔喷剂，然后进行“同理心测验”，观看其他人讲述自己伤心事的视频，评估其感动程度。结果发现，社交技巧差但使用催产素喷剂的人，在“同理心测验”中得分较高，社交技巧差但使用安慰剂的人得分较低。但对社交技巧本来就高的实验对象而言，不管使用催产素或是安慰剂，得分都差不多。</i>
+➜Chrome超过Firefox成为高级用户的选择
+https://www.solidot.org/story?sid=20219	21600
+Lifehacker的<a href="http://lifehacker.com/5645038/how-and-why-chrome-is-overtaking-firefox-among-power-users">一篇文章</a>声称，Chrome正超过Firefox成为高级用户的浏览器选择。<i>
+理由是：在不被注意的情况下解决问题，如安装扩展无需重启，每个标签独立进程，一个标签崩溃不会影响其它标签；更新频繁，每六周便有一个稳定版释出；用户体验上佳，在一系列测试中领先于其它竞争对手；浏览器同步；整合Google服务。Firefox的优势越来越少，主要是开发工具Firebug和屏蔽广告的扩展Adblock Plus等。</i>
+➜嫦娥二号最早10月1日发射
+https://www.solidot.org/story?sid=20220	22500
+官方媒体<a href="http://scitech.people.com.cn/GB/12815338.html">报道</a>，西昌卫星发射中心于25日完成了嫦娥二号探月卫星探月前的第三次合成演练。这意味着嫦娥二号发射进入倒计时，嫦娥二号有望在10月1日国庆节之际开始奔月之旅。<i>
+<a href="__SLASHLINK__" sect="science" sid="10/09/10/1118255" sn="article" tid="88">“嫦娥二号”</a>主要任务是对未来“嫦娥三号”月球着陆点探测地形地貌，试验全新的着陆相机，以及验证数据传输能力（试验12MB/s传输），对嫦娥三号卫星预选着陆区进行高分辨率成像试验。</i>
+➜有按键的可编程智能信用卡
+https://www.solidot.org/story?sid=20221	23700
+《MIT技术评论》<a href="http://www.technologyreview.com/computing/26303/?a=f">报道</a>（<a href="http://www.mittrchinese.com/article.jsp?id=2929">中文版</a>），匹兹堡新创企业<a href="http://www.poweredcards.com/">Dynamics</a>在<a href="http://www.demo.com/">DEMO大会</a>上透露了两款可编程信用卡。可编程信用卡可以显示有用的信息，提供额外安全功能，甚至可通过重写磁条实现一卡多户。<i>
+其中一款名为“多账户”的信用卡正面设有两个按钮，按下后指示灯亮，可将信息写到磁条内。“按下这个按钮卡是你的，按下另一个就是别人的。”Dynamics公司Jeff Mullen说，“这种卡与普通信用卡在尺寸、厚度上完全一样，即便是在高使用频度下，内置的锂离子聚合物电池也可使用四年。这种卡完全防水，丢到洗衣机里也不会损坏。”另一款“隐藏信息”的信用卡拥有一个键盘和一个六位黑白显示器，用来显示卡的特征码。用户在卡上的四个按钮输入正确的 PIN码后，卡号将完整显示，同时磁条内会写入用户信息。卡号和磁条内的信息在短暂时间后将过期。Dynamics公司正在研究在信用卡上应用E-ink显示屏，用以延长显示时间。</i>
+➜俄罗斯等国希望禁止“信息武器”
+https://www.solidot.org/story?sid=20222	26400
+世界各国政府和军方领导人警告下一次世界大战部分将会在“赛博空间（cyberspace）”内展开，联合国过去十多年也一直在讨论网络“裁军”。问题在于不同国家政府对于“网络武器”构成和“网络战”有着截然不同的看法。工业化民主家认为网络战就是对电力、通信、交通和金融系统等基础设施的袭击，而大多数发展中国家则把网络战视作是政治术语。<i>
+鼓吹“网络军备控制协议”的俄罗斯政府则更喜欢用“信息战”这一术语，<a href="http://www.npr.org/templates/story/story.php?storyId=130052701">把网络冲突说成意识形态之争</a>。<a href="http://www.unidir.org/audio/2008/Information_Security/en.htm">2008年的联合国裁军会议上</a>，俄罗斯国防部长Sergei Korotkov争辩说，任何时候一个政府在互联网上鼓吹意识形态——即使是以民主改革的名义，都应该被认为是意图颠覆另一个国家的政权——应该被等同为“侵略”。因此，根据联合国宪章，此类行为是非法的。Korotkov称，一个国家或多个国家对另一国家的信息战应该被认为等同于对该国内部事务的干涉，促进民主等借口不能作为此类行动的正当理由。 俄罗斯、中国和伊朗等国家，<a href="http://yro.slashdot.org/story/10/09/23/1430240/Some-Countries-Want-To-Ban-Information-Weapons">显然认为信息的自由交流是信息技术的一种威胁</a>，必须用条约加以控制。</i>
+➜官方手柄被用于破解PS3
+https://www.solidot.org/story?sid=20223	27600
+前不久黑客们借到USB破解了PS3，随后破解方法的开源版本<a href="__SLASHLINK__" sect="games" sid="10/09/02/071254" sn="article" tid="28">PSGroove发布</a>，很快被<a href="__SLASHLINK__" sect="games" sid="10/09/07/0523205" sn="article" tid="28">移植到</a>Nokia N900、Palm Pre和Android智能手机上，索尼更新了固件屏蔽了USB设备。然而PS3破解大战<a href="http://hardware.slashdot.org/story/10/09/25/1922244/PS3-Hacked-Using-Official-Controller">仍在延续</a>，黑客现在已成功的将PSGroove<a href="http://www.elotrolado.net/hilo_informacion-sobre-psgroove-con-sixaxis_1480972_s200#p1721862017">移植到</a>官方的 Sixaxis/DualShock 3游戏手柄上，索尼想屏蔽自家手柄吗？
+➜中国公布人权白皮书
+https://www.solidot.org/story?sid=20224	28800
+中国国务院新闻办发表了《<a href="http://www.gov.cn/zwgk/2010-09/26/content_1709942.htm">2009年中国人权事业的进展</a>》白皮书，称中国的人权状况取得了很大进展，关于互联网的部分仍然是靠数量衬托进步，内容与上半年发表的《<a href="__SLASHLINK__" sect="internet" sid="10/06/08/047219" sn="article" tid="17">中国互联网状况</a>》白皮书基本一致：<i>
+“中国公民在互联网上的言论自由受法律保护，可以通过各种形式在网上发表言论。互联网得到广泛普及和运用，已成为人们获取各类信息和发表言论的重要途径。截至2009年底，中国网民人数达到3.84亿，互联网普及率达到28.9%，超过世界平均水平。中国境内网站达323 万个。网站十分注重为网民提供发表言论的服务，约80%的网站提供电子公告服务。中国现有上百万个论坛，2.2亿个博客用户。据抽样统计，每天人们通过论坛、新闻评论、博客等渠道发表的言论达300多万条，超过66%的中国网民经常在网上发表言论，就各种话题进行讨论，充分表达思想观点和利益诉求。”
+</i>
+➜为什么有人志愿为维基百科编辑文章
+https://www.solidot.org/story?sid=20225	31200
+《金融时报》的经济学专栏作家讨论了一个问题：<a href="http://www.ftchinese.com/story/001034791">为何有人愿为维基百科撰文</a>？作者引用了香港科技大学助理教授<a href="http://mikezhang.com/">张晓泉</a>和南加州大学商学院经济学家朱峰的<a href="http://blog.mikezhang.com/files/chinesewikipedia.pdf">中文维基百科研究报告</a>(PDF)。<i>
+两位经济学家研究的时间段是2005年10月，当时中文维基百科被屏蔽了，两位研究者费心挑选出了1707名能够在封锁期内访问维基百科的撰写者。大多数情况下，判断的依据是，在中国内地用户无法访问时，这些撰写者至少在网站上做了一次改动。他们发现，封锁生效期间，这些未封锁的用户的编辑量下降了40%以上。显示中文维基百科的撰写者们在无人观看时失去了兴致。大量潜在读者因为被拦截而无法访问网站时，许多本可以继续撰写的人不愿再费心编辑条目。最喜欢交际的编辑者，也就是用户页面最活跃的那些人，最容易意兴阑珊。</i>
+➜Intel把解锁变成一门生意
+https://www.solidot.org/story?sid=20226	33120
+Ars Technica详细报道了<a href="http://arstechnica.com/hardware/news/2010/09/intels-upgradable-processor-good-sense-or-utter-catastrophe.ars">Intel试水通过软件付费解锁CPU</a>：
+<i>
+通过Pentium G6951 CPU，Intel在大众市场试验新的商业概念：可升级性。Pentium G6951是一款低端型号的处理器，售价90美元，双核，2.8GHz、3 MB缓存，规格上和Pentium G6950相同。特别之处是购买50美元的<a href="https://retailupgrades.intel.com/Page.aspx?Name=Upgrade">解锁代码</a>后，你可以增加1 MB缓存，以及支持超线程的功能，解锁后的G6951摇身变为G6952，规格上接近最低端的Core i3处理器2.93 GHz Core i3-530。作为试点计划的一部分，这种处理器将在第四季度由特选零售商在美国、加拿大、荷兰和西班牙的市场上销售。G6951必须搭配两款特殊的Intel主板DH55TC和DH55PJ，拥有可升级的BIOS和互联网接入，Intel在解锁前需要对解锁代码和OEM的ID进行认证。解锁后的系统性能有可能能提高25%。除Intel外，Asus和苹果也都做过付费软件解锁硬件之类的事情。</i>
+➜科学家证实放射性元素衰变率是稳定的
+https://www.solidot.org/story?sid=20227	36720
+上月科学家报道称，<a href="http://news.stanford.edu/news/2010/august/sun-082310.html">太阳中微子同地球放射性元素衰变率存在奇特联系</a>。美国国家标准与技术研究院和普渡大学的科学家在最新研究中<a href="http://science.slashdot.org/story/10/09/25/0254219/Scientists-Confirm-Nuclear-Decay-Rate-Constancy">排除了中微子导致衰变率波动的原因</a>。<i>
+研究人员测试了两种不同形状的放射性元素金-198——球体和薄箔——质量和活跃性相同。金-198在衰变时会释放出中微子。研究人员的推理是如果中微子影响衰变率，那么球形的金-198原子应该比薄箔中的原子衰变要慢，因为球形中原子释放出的中微子更有可能与邻近的原子发生相互作用。实验样本的中微子通量是太阳中微子通量的数倍，但研究人员没有观察到衰变率发生变化。</i>
+➜将维基百科“伊拉克战争”条目历史编辑成书
+https://www.solidot.org/story?sid=20228	37920
+stranger ( @wmrofficial ) 写道 <i>"<a href="http://en.wikipedia.org/wiki/Iraq_War">Iraq War</a>是几乎是维基百科最受争议的条目，这个条目的受人关注、前所未有的争议性看似也推动了中立方针政策的发展。除此之外，这个条目还经常被人破坏，比如用自己观点的句子替换整个条目。所以，这个条目的历史记录尤为精彩。
+<a href="http://www.theatlantic.com/technology/archive/2010/09/a-book-made-from-wikipedia-edits-to-the-the-iraq-war-entry/63175/">James Bridle创建了12册图书，记录2004年12月到2009年11月这个条目的更改</a>。由于维基百科反破坏的方法越来越多，有以后事件条目的有趣的破坏历史的可能不大。"</i>
+➜Google Percolator替代MapReduce
+https://www.solidot.org/story?sid=20229	39120
+Google在新一代内容索引系统中放弃了<a href="http://zh.wikipedia.org/zh-cn/MapReduce">MapReduce</a>，替代者是尚不为人知的分布式数据处理系统Percolator。
+<i>
+The Register<a href="http://www.theregister.co.uk/2010/09/24/google_percolator/">报道</a>，Percolator是一种增量处理平台，它能持续更新索引系统，无需从头重新处理一遍整个系统。Google的工程师计划在下个月举行的年度USENIX Symposium 会议上公布Percolator相关论文。为了提高效率，MapReduce和其它批量处理系统创造了大数据批量，因此无法处理单个小规模的数据更新。Percolator系统便是为了解决这一问题，它能对一个大数据集增量处理更新。用Percolator替代MapReduce，每天处理相同数量的文档，能在搜索结果中将文档平均年龄（average age）减少50%。</i>
+➜联合国将任命代表地球与ET接触的第一人
+https://www.solidot.org/story?sid=20230	40500
+联合国计划今天任命一位不知名的马来西亚天体物理学家作为<a href="http://www.news.com.au/breaking-news/un-to-appoint-earth-contact-for-aliens/story-e6frfku0-1225929498742">代表地球与ET接触的第一人</a>，如果ET访问地球的话。
+<i>
+鲜为人知的联合国外太空事务办公室主任Mazlan Othman计划于下周在皇家学会的科学会议上讲述她的新角色。她准备告诉与会代表，最近发现的数百颗行星使得发现外星生命的可能性比以往任何时候都高，这意味着联合国需要为与外星人接触做好准备。</i>

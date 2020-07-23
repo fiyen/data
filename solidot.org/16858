@@ -1,0 +1,14 @@
+➜苹果在 iOS 最新测试版中锁定浏览器搜索引擎
+https://www.solidot.org/story?sid=47294	11006
+匿名用户 写道 "<i>最近在 Twitter 上有网友<a href="https://twitter.com/gongziheng1995/status/702129697132400642" target="_blank">发现</a>，iOS 最新的开发者测试版当中，无论设置当中的是如何选择的，在 Safari 中的搜索引擎都会被重定向到百度。该问题<a href="https://docs.google.com/spreadsheets/d/1-q11qenNef6KkVvmQ5b0UaLcbofGBiy2qLfVi4j8lv4/edit?usp=sharing" target="_blank">看起来</a>只会发生在物理位置位于中国的 iOS 设备上。
+</i>
+<p><i>目前尚不清楚此现象是什么原因导致。"</i>
+➜Tor项目指责CloudFlare大规模监视和破坏Tor流量
+https://www.solidot.org/story?sid=47295	52442
+和很多工具一样，Tor也遭到恶意的滥用，合法用户也许只是用Tor匿名上网或绕过审查系统的屏蔽，但恶意的攻击者也可能利用Tor隐藏攻击源头。对服务器管理员来说，来自于中国、俄罗斯以及Tor网络的攻击流量占据了很大一块。CloudFlare是一家云计算服务公司，提供了CDN和DDoS攻击防御服务。因为Tor遭到了滥用，所以CloudFlar部署了基于CAPTCHA的反DDoS系统，要求Tor用户反复的输入验证码验证是他们机器人还是人类。对Tor合法用户来说，这是一项相当恼人的功能，而Tor项目维护者<a target="_blank" href="http://news.softpedia.com/news/tor-project-accuses-cloudflare-of-mass-surveillance-sabotaging-tor-traffic-501035.shtml"><u>最近指责</u></a>CloudFlare强迫Tor用户反复输入验证码，以及在Tor的流量会话加入cookies 跟踪用户。另外的一项<a target="_blank" href="https://www.internetsociety.org/sites/default/files/blogs-media/do-you-see-what-i-see-differential-treatment-anonymous-users.pdf"><u>研究发现（PDF）</u></a>超过130万个网站会屏蔽Tor网络的连接。<br>
+➜到2050年地球半数人口将会是近视
+https://www.solidot.org/story?sid=47296	54219
+电脑、智能手机、平板、虚拟现实显示器...人类越来越多的时间都花在凝视着眼前的显示屏上。一项研究对这一趋势<a target="_blank" href="http://www.dailymail.co.uk/health/article-3452600/Half-world-s-population-short-sighted-30-years-one-five-risk-BLINDNESS-experts-blame-lack-daylight-screen-time.html"><u>发出了警告</u></a>，认为到2050年地球半数人口都会是近视，其中五分之一的人有失明的风险。专家建议父母让孩子多去室外活动和定期检查眼睛。根据Brien Holden Vision Institute的估计，目前全世界有20亿人口近视，到2050年这一数字将会增长到50亿，高度近视的人数也在快速增长。
+➜俄罗斯开始批量生产自主研发的PC处理器
+https://www.solidot.org/story?sid=47297	55308
+俄罗斯计算机公司T-Platforms<a target="_blank" href="http://www.t-platforms.ru/about-company/press-releases/625--25022016.html"><u>开始批量</u></a>生产本国自主研发的第一种PC处理器Baikal-T1。<a target="_blank" href="http://blog.imgtec.com/mips-processors/baikal-t1-communications-processor-features-high-performance-mips-p5600-cpu"><u>Baikal-T1</u></a>基于MIPS架构，使用了2个MIPS P5600 CPU核心，主频1.2 GHz，封装大小 25 x 25 mm，制造工艺28纳米，功耗不到 5 W。这个处理器显然不能运行Windows，它运行的是一个基于 Debian的Linux发行版，可以使用的软件包括了办公软件 LibreOffice、浏览器Firefox等等。它被认为主要用作瘦客户机。

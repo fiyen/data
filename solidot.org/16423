@@ -1,0 +1,53 @@
+➜Grinch“圣诞怪杰”攻击方式曝光
+https://www.solidot.org/story?sid=42346	745
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "安全研究团队Alert Logic在2014年12月16日<a target="_blank" href="https://www.alertlogic.com/blog/dont-let-grinch-steal-christmas/">公布了名为Grinch攻击的方式</a>，此种攻击方式可以利用系统运维配置的失误来进行利用，wheel组具有接近root的权限，虽然sudo因为缺乏权限和密码在这个利用场景中无法使用，yum也因为需要root权限无法使用，dnf因为文件系统的权限检查也无法使用，但是。。。（故事总会有个“但是”才会变得精彩，）pkcon工具集可以配合wheel使用，wheel组的本地用户可以在不验证密码的情况下安装包，这是为了方便运维，但却造成了Grinch攻击的可能，因为在wheel+pkcon组合利用的情况下只要找到任何一个GNU/Linux发行版的repo里包的漏洞，就有可能达到提权的效果。幸运的是，Debian已经很长很长时间不使用wheel组了，而<a target="_blank" href="https://access.redhat.com/articles/1298913">RHEL/CentOS也没有类似的问题</a>，所以目前自由软件社区和攻击方式的披露团队并不打算为此申请CVE。"</i>
+➜当硅谷挺进古巴
+https://www.solidot.org/story?sid=42347	8960
+<a href="http://https://paopao3.azurewebsites.net/">paopao</a> 写道<i> "古巴人一夜醒来后，发现昨天（12月17日）<a target="_blank" href="https://paopao3.azurewebsites.net/article/307">美国提出与古巴关系正常化的消息，并非一场梦</a>。古巴记者Sergio Acosta表示，这是古巴50多年来外交上最重大的事件之一。古巴人将此视为一个“大胜利”。奥巴马<a target="_blank" href="http://www.whitehouse.gov/issues/foreign-policy/cuba"><u>宣布</u></a>的几项开放的双边贸易项目中，包括了增强古巴的互联网接入。Google执行董事长Eric Schmidt今年早些时候对古巴进行了“历史性的访问”，表示硅谷可帮助古巴政府创造更多的网络连接和商机。有分析指出，美国很可能会继续限制向古巴出售高端的电脑技术，以防止被古巴当局用来进行黑客活动、或进行网络审查。美国此前已特许Google在古巴进行一定的运营，今年8月份，Google Chrome浏览器进入古巴，11月Google分析的免费版、以及安卓商店Google Play在古巴开通。"</i>
+➜《微软飞行模拟X：Steam版》发布
+https://www.solidot.org/story?sid=42348	11152
+<div align="center"><img src="http://img.solidot.com.cn/0/427/liJqYUAZvwVc.jpg" align="" height="351" width="480"><br>
+<br>
+</div>
+飞行模拟游戏《<a target="_blank" href="http://store.steampowered.com/app/314160/"><u>微软飞行模拟X</u></a>》正式登陆数字游戏发行平台Steam，售价24.99美元，假日特价4.99美元，持续2天。《微软飞行模拟X：Steam版》由模拟火车系列（Train Simulator）游戏工作室Dovetail Games发行，包括了豪华版和Acceleration扩展包以及所有SP补丁。Dovetail Games今年7月与微软<a href="http://www.solidot.org/story?sid=40278"><u>达成了协议</u></a>，授权发行微软飞行模拟X的Steam版，Steam版<a target="_blank" href="http://steamcommunity.com/app/314160/discussions/1/626329820729615790/">使用</a>VS2013编译器构建，改进了性能和优化，为维持向后兼容性仍然使用了VS2005的库，但目前所知它不兼容于PMDG和FS Labs的插件。《微软飞行模拟X》有大量的第三方插件。Steam版支持多人模式。开发《微软飞行模拟X》的工作室Aces Studio早在2009年就已被关闭，Dovetail Games同时获得了开发新作的授权。
+➜没有《刺杀金正恩》也没有《美国战队：世界警察》
+https://www.solidot.org/story?sid=42349	13712
+在四大院线——Regal Entertainment、AMC、Cinemark、Carmike Cinemas——表示不上映《刺杀金正恩（The Interview）》后，索尼决定取消电影的上映，而且没有以其它方式上映这部电影的计划。此事开启了一个危险的先例。过去几年，好莱坞为了避免得罪中国而越来越多的将朝鲜<a target="_blank" href="https://news.yahoo.com/interview-jeopardizes-overseas-movie-villains-002204020.html"><u>作为电影中的反面角色</u></a>，如《赤色黎明》重拍片用朝鲜替代了中国，《择日再死》和《奥林匹斯陷落》等电影的反面角色都是朝鲜。但现在，使用朝鲜作为反角已经不再“安全”了。好莱坞可选择的流氓国家越来越少了。在索尼取消《刺杀金正恩》上映后，三家电影院（Alamo Drafthouse影院，Plaza Atlanta影院和Ohio's Capitol 影院）决定放映另一部嘲讽金正恩之父金正日的喜剧片《美国战队：世界警察》，这部电影由派拉蒙影业发行。但三家电影院随后又发表声明<a target="_blank" href="http://edition.cnn.com/2014/12/18/showbiz/movies/feat-texas-theater-the-interview-team-america/index.html"><u>取消了</u></a>《美国战队》的上映，称情况超出了控制，表示派拉蒙取消了电影上映。
+➜Google指控好莱坞试图审查互联网
+https://www.solidot.org/story?sid=42350	16071
+Google<a target="_blank" href="http://www.cnet.com/news/google-accuses-hollywood-of-trying-to-censor-the-internet/"><u>指控</u></a>MPAA和密西西比州总检察长Jim Hood试图阴谋实现互联网审查限制言论自由。Google总法律顾问Kent Walker在<a target="_blank" href="http://googlepublicpolicy.blogspot.com/2014/12/the-mpaas-attempt-to-revive-sopa.html"><u>官方博客</u></a>上说，MPAA将它的枪对准了Google。他引用了黑客泄露的索尼高管电子邮件，邮件透露了MPAA及六大好莱坞电影工作室试图通过立法要求IPS屏蔽被指侵犯版权的网站。Hood承认与MPAA有合作，但否认了Google的断言，表示他们只是在讨论如果一个网站90%的内容是非法侵权材料，那么在搜索结果中不应该包含这个网站。Hood说，Google对这个问题完全知情。
+➜BBC调查称苹果未能保护代工厂工人
+https://www.solidot.org/story?sid=42351	17652
+BBC播出的<a target="_blank" href="http://www.bbc.co.uk/news/business-30532463"><u>调查节目</u></a>(<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2014/12/141218_apple_shanghai_conditions"><u>中文</u></a>)显示，苹果公司中国代工厂并没有善待工人。节目指出，在位于上海郊区的和硕工厂，有关工人工时、身份卡、宿舍、工作会议以及未成年工人的标准都被违背。苹果公司对节目得出的结论表示强烈的反对。画面显示，工作时间长达12小时的工人疲惫不堪，发生打瞌睡现象。在生产苹果计算机部件的一家工厂工作的一位隐蔽记者尽管屡次提出休息一天的要求，但是仍然不得不连续工作了18天。还有一名隐蔽记者的最长连续工作时间是16个小时。他说，“我每次回到宿舍之后，就一动都不想动了。”
+“我既便是饿了，也不想起来吃东西。我只想躺下来休息。由于紧张，我晚上也无法入睡。”
+苹果发表声明，“据我们所知，没有公司能够像苹果一样努力保证公平和安全的工作条件。”苹果指出，工人在工间休息的时候打瞌睡是常见的事情，但是公司将调查任何有人在工作当中打瞌睡的指称。
+➜工人是否有罢工权由全国人大决定
+https://www.solidot.org/story?sid=42352	24712
+广东省人大常委会法工委曾向全国人大常委会法工委请示，《广东省企业集体合同条例》是否可以提及工人停工权（罢工权的中国新名词，因为中国是工人阶级领导的人民民主专政的国家，工人不能罢自己的工）。但最终的答复是，“不要去涉及这个事”。广东省人大常委会法工委副主任李焕新首次对外披露了这一细节。他提到，劳工界普遍对该条例中最终未能出现“停工”、“罢工”的词而感到遗憾，但这涉及到公民的基本权利，是宪法规定的范畴，是国家立法的使命，<a target="_blank" href="http://china.caixin.com/2014-11-22/100754441.html"><u>地方立法没有这个权利</u></a>。
+➜Git客户端发现漏洞，影响Windows和OS X版本
+https://www.solidot.org/story?sid=42353	25343
+Git项目发布了Git v2.2.1，<a target="_blank" href="https://github.com/blog/1938-git-client-vulnerability-announced"><u>修正了</u></a>一个影响Windows和Mac OS X客户端的安全漏洞。Linux虽然不受影响，但如果Linux主机服务有Windows和OS X使用者，那么为保护用户最好还是升级到最新版本。问题涉及到大小写不敏感的文件系统，以Windows的NTFS系统为例，文件名Xxxx.txt与xxxx.txt是相同的，xxx.git和xxx.Git也是相等的。在大小写不敏感的文件系统上运行Git客户端，该漏洞可能引起如.Git/config覆盖.git/config，以及导致任意命令执行。
+➜中国需要反思TD决策错误的制度根源
+https://www.solidot.org/story?sid=42354	28787
+北京邮电大学教授阚凯力认为<a target="_blank" href="http://www.ftchinese.com/story/001059676?full=y"><u>中国需要反思TD决策错误的制度根源</u></a>。TD-SCDMA技术主要来自西门子，并非中国自主创新的技术，也没有多少自主知识产权。而推行TD技术的整个过程完全是依靠强制性的行政命令，几乎所有持不同意见的声音都被封杀。对于TD的争论，绝不仅仅是一场技术争论，而关系到中国基本的决策机制。如何才能够使决策科学化、民主化？阚凯力认为，唯一的办法就是把决策权交给市场、交给企业。在市场中，消费者自然会选择最物美价廉的产品和服务，通过“用脚投票”，在竞争中优胜劣汰。这就迫使企业选择最适合的技术和设备。
+➜地质学者认为西藏不宜大搞水电建设
+https://www.solidot.org/story?sid=42355	29684
+11月23日，西藏首个大型水电站藏木水电站投产发电，引起印媒的极大不安。事实上，该水电站的建设，标志着西藏大水电时代的开始。中国“十三五”期间将在金沙江、澜沧江、怒江和雅鲁藏布江上展开一系列大型水电站，将形成世界上海拨最高的大水电群。地质学者杨勇指出，<a target="_blank" href="http://www.ftchinese.com/story/001059738#adchannelID=1100"><u>西藏并不适合建大水电站</u></a>。第一，青藏高原是亚洲大河发原地，河流补给主要是冰川融水，降水补给能力弱，水文季节性差异大，不稳定，电站出力保障低，发电质量不高，冬季受冻害和封河导致电力系统性危害严重；第二，西藏河流因河谷土地价值和地质条件所限，难以建设调节性水库，电站调节性能降低，影响其补偿能力。以上两点降低了电站技术经济指标。青藏高原是地球上地质和地震活动最活跃的地区，地壳还在隆升过程中，地震频发，切割强烈。河流地质生态复杂而敏感，气候多变，生物多样，生态环境脆弱。气候演变进程将给水电站的水文情势和地质稳定性带来很大变数。
+➜揭开小米的神秘面纱
+https://www.solidot.org/story?sid=42356	33026
+《华尔街日报》根据机密文件揭开了中国最大智能手机制造商<a target="_blank" href="http://cn.wsj.com/gb/20141219/tec152332.asp"><u>组织结构的神秘面纱</u></a>。小米在开曼群岛注册，持有小米香港100%的股权。这种公司结构对于有海外投资者支持的中国科技企业来说司空见惯，因为中国限制海外资本投资国内科技和互联网等行业。阿里巴巴、百度和腾讯都是在开曼群岛注册。小米集团包含一个由离岸和中国国内实体组成的网络，其中一个是位于北京生产智能手机的子公司小米公司。小米香港的一家子公司通过合同控股北京的小米公司。本周早些时候，小米投资的一家家电制造商提交的公司文件显示，小米公司2013年的利润为人民币3.47亿元。这里的小米公司不包含整个集团。
+➜跟踪国际新闻网站的屏蔽
+https://www.solidot.org/story?sid=42357	35472
+<div align="center"><a href="https://projects.propublica.org/firewall/"><img src="http://img.solidot.com.cn/0/854/libIcXzNB3XH6.png" height="173" align="" width="560"></a><br>
+<br>
+</div>
+从11月17日开始，ProPublica测试了18个国际知名新闻网站主？页在中国的可访问性情况，<a target="_blank" href="https://projects.propublica.org/firewall/"><u>绘制了一幅交互式图像</u></a>。它测试的网站包括了BBC（中英文），《纽约时报》（中英文），CNN，彭博社，赫芬顿邮报，路透社，《南华早报》（中英文），《卫报》，《华尔街日报》（中英文）和《华盛顿邮报》。18家测试的新闻网站中有12家目前被屏蔽。ProPublica是利用了GreatFire.org在中国大陆八个不同地点的服务器测试网站的可访问下，它给每个网站首页都截了一个图，可了解当天有什么新闻。
+➜乔治 R.R.马丁愿意放映《刺杀金正恩》
+https://www.solidot.org/story?sid=42358	37378
+索尼影业取消了喜剧电影《刺杀金正恩（The Interview）》在美国以及全世界的上映，此次黑客攻击可能给索尼影业造成高达<a target="_blank" href="http://www.bloomberg.com/news/2014-12-18/sony-s-costs-from-the-interview-seen-near-200-million.html"><u>2亿美元</u></a>的损失：其中包括大约8000万美元的《刺杀金正恩》制作和营销费用，以及可能超过1亿美元的更换软件和硬件、事故调查和雇员生产力损失等费用。索尼上一次遭受类似规模的损失是黑客在2011年对PlayStation Network的攻击。在电影上映前取消放映虽然不是前所未有，但也是几十年未见。上一次是库布里克（Stanley Kubrick）因民众示威<a target="_blank" href="http://www.bbc.com/news/entertainment-arts-30528772"><u>取消了</u></a>暴力电影《发条橙》在英国电影院的上映。电影院线以及索尼的决定招致了广泛的批评，被指责是懦夫行为，设立了可怕的先例。有人建议索尼通过非合法渠道公开这部电影。在IMDB上，《刺杀金正恩》虽然没有上映但获得了惊人的<a target="_blank" href="http://www.imdb.com/title/tt2788710/"><u>9.9/10分</u></a>(<b>更新</b>：已达到史无前例的最高分10/10)。曾在好莱坞呆过的著名作家乔治马丁（George R.R. Martin）也在其博客上对好莱坞大公司的懦夫行为<a target="_blank" href="http://grrm.livejournal.com/396855.html">表达了不满</a>，他在圣达菲市拥有一家独立小影院<span> Jean Cocteau Cinema</span>，表示乐意放映《刺杀金正恩》。<span>Jean Cocteau Cinema也计划放映《美国战队：世界警察》，但又遭到了派拉蒙的阻止。</span>马丁说，也许应该去问问新的朝鲜主子，我们允许放什么电影。“一个金正恩就把他们吓坏了，那么希特勒还不要把他们吓的将*拉在裤裆里。”卓别林曾拍摄过讽刺希特勒的喜剧电影《大独裁者》。
+➜新漏洞允许任何人监听你的手机通话
+https://www.solidot.org/story?sid=42359	43416
+德国研究人员在蜂窝通信网络上广泛使用的<a target="_blank" href="https://en.wikipedia.org/wiki/Signalling_System_No._7"><u>七号信令系统（SS7，Signaling System Number 7）</u></a>上发现安全漏洞，允许间谍、黑客和犯罪分<a target="_blank" href="http://www.washingtonpost.com/blogs/the-switch/wp/2014/12/18/german-researchers-discover-a-flaw-that-could-let-anyone-listen-to-your-cell-calls-and-read-your-texts/"><u>子潜在大规模</u></a>的监听私人手机通话和拦截短信。漏洞细节将在本月德国汉堡的一个黑客会议上公开，这是设计于1980年代的SS7日益变得不安全的最新证据。这些漏洞允许定位在世界任何地方的呼叫者，比如非洲刚果的一个移动运营商可被用于入侵美国的蜂窝网络。Sternraute的创始人Tobias Engel和 Security Research Labs的首席科学家Karsten Nohl过去几个月在研究SS7时各自独立的发现了这些安全弱点。研究人员发现了两种途径监听使用SS7技术的呼叫：其一是劫持电话的转发功能，黑客能将电话呼叫重定向到他们，然后记录或监听，随后发送给目标接收者；其二需要物理接近，使用天线收集所有通过天空的呼叫和短信，即使用户是通过安全的3G连接建立呼叫或发送短信，黑客也可以要求通过SS7建立通信，让运营商释出解密密钥。
+➜小保方辞职
+https://www.solidot.org/story?sid=42360	44831
+日本理化学研究所12月19日在东京召开发布会，<a target="_blank" href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/12382-20141219.html"><u>正式承认</u></a>在验证STAP细胞是否存在的试验中未能发现STAP细胞。原本预定持续到明年3月的实验也就此提前结束。文部科学相下村博文在内阁会议后的记者会上表示“已经可以确定STAP细胞不存在”。今后的焦点将转移到弄清违规行为是怎样发生的。理化学研究所同时宣布小保方晴子将于21日辞职。随着STAP细胞验证试验的结束，小保方于15日提出辞呈，并获得批准。理研理事长野依良治表示“考虑到小保方的身体状况，决定尊重她本人的意愿”。小保方以身体状况不佳为由没有出席记者会。她发表了<a target="_blank" href="http://news.sciencemag.org/asiapacific/2014/12/riken-team-gives-stap-cells"><u>一份措辞模糊的书面声明</u></a>，谴责了自己的不成熟，“我没有要说道歉的话”。

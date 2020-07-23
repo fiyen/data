@@ -1,0 +1,58 @@
+➜关于 CSS我们是不是已经走得太远？
+https://www.solidot.org/story?sid=19609	7920
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "CSS 是了不起的技术，我第一次用到的时候，觉得这是我做梦都想不到的东西，随着 CSS3 的引入，圆角，阴影，旋转等等技术更将 CSS 带到前所未有的高度。然而，关于 CSS，我们是不是已经走得太远，本文以一个 Web 设计师的角度对 CSS 的一些实验性应用做了另一种思考（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K1011.aspx">完整图文版</a>）。           那些有关 CSS 的前卫实验
+<br> <br>几个月前，作者在 <a href="http://m.sixrevisions.com/web-development/5-good-habits-that-will-make-you-a-better-coder/">Six   Revisions</a> 发表了一篇文章，介绍了 5 个有趣的 CSS 实验：
+<ul>
+<li> <a href="http://neography.com/journal/css-transforms-font-face-experiment/">CSS3   Transforms &amp; @font-face Experiment</a> </li>
+<li> <a href="http://designinformer.com/css-posters/">CSS Posters</a> </li>
+<li> <a href="http://cssglobe.com/post/4175/pure-css-line-graph">Pure CSS   Line Graph</a> </li>
+<li> <a href="http://gordonbrander.com/lab/css3-stacks/">CSS3  Leopard-style  Stacks</a> </li>
+<li> <a href="http://www.subcide.com/articles/pure-css-twitter-fail-whale/">Pure   CSS Twitter Fail Whale</a> </li>
+</ul>
+每个实验都是用了不同的方法，其中一些，如 CSS 线图，在现实中可以找到实际的应用，其它的，如 <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K990.aspx">CSS 实现的 Twitter Fail Whale 图画</a>，则纯属实验，这些实验的目的仅仅为了说明 CSS 能够实现的效果，并不意味着应当这样来做。<br> <br>
+让我们实际一点
+<a href="http://nicolasgallagher.com/experimental-pure-css-social-media-icons/"> </a>
+<br> <br>上图是用纯 CSS 实现的社会媒体网络标志，很神奇不是？
+<br> <br>我最近读了 Faruk Ateş 的文章，<a href="http://farukat.es/journal/2010/08/469-pure-css-icons-make-madness-stop">Pure   CSS Icons: Make The Madness Stop</a>，文中对这一做法提出了质疑，作者表示，一些人开始尝试将 CSS 当作设计工具并迅速引发大量效仿，然而，这种做法有多少易用性可言？它并不容易集成到你的设计与开发当中，也不容易调整。
+<br> <br>就像上面的完全基于 CSS 的社会网络标志，无非是一堆各式各样的线条的组合，固然令人印象深刻，也算有创意，但并不实用，因为创作这样一个标志可能需要几个小时的艰辛劳动，在 Photoshop 中画一个同样的图根本不费任何力气，而且效果更好（更细腻）。
+<br> <br>Ateş 认为，这种方式生成的图标的可维护性也很成问题，调整一个图标原本只需要调整像素，现在却需要修改 CSS 定义，同时，上述 CSS 标志的设计者 Nicolas Gallagher 也表示，做这类事情，CSS 并非最适合。<br> <br>
+降低 HTTP 请求？
+<a href="http://lucianmarin.com/peculiar/"> </a>
+<br> <br>上面这幅图中的图标全部用 CSS 生成，而且作者将它们拿出来卖，40个图标卖25美金。不得不承认，这些图标设计得非常漂亮，作者设计这些 CSS 的初衷是为那些使用的网站降低 HTTP 请求数，因为这些图标不需要额外的图片文件请求。然而，一个小小的图标文件带来的 HTTP 请求真的很值得一提吗，何况，使用 CSS Sprite 技术，这些图标完全可以放在同一个图片中，靠 CSS 定位显示，这样，只需要一个 HTTP 请求就够了。而且，我实在怀疑，这些 CSS 版的图标到底能减少多少带宽。<br> <br>
+本着语义化的精神
+<br> <br>必须承认，我有时候会为了实现某种视觉上的需要，而额外使用 DIV 或 SPAN 等标签，这很不语义。然而 CSS 绘图是更不语义的事，CSS 的真实使命是对网页中的内容进行修饰，而不是创建内容本身。网页中的图形本身属于内容的范畴，不应该由 CSS 创建。
+<br> <br>本文原文来源：<a href="http://blog.echoenduring.com/">blog.echoenduring.com</a> <a href="http://blog.echoenduring.com/2010/08/14/are-we-taking-css-too-far/">Are We Taking CSS Too Far? </a>（原文作者：<a href="http://twitter.com/echoenduring/">Matt Ward</a>）
+<br> <br>中文节译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜科学家发现月球在缩小
+https://www.solidot.org/story?sid=19610	9900
+科学家<a href="http://tw.news.yahoo.com/article/url/d/a/100821/78/2biku.html">发现</a>，<a href="http://science.slashdot.org/story/10/08/20/1547232/The-Moon-Is-Shrinking-Like-a-Wrinkled-Apple?from=rss">月球在缩小</a>。<i>
+根据NASA“月球侦察轨道飞行器”（<a href="http://lunar.gsfc.nasa.gov/">LRO</a>）拍摄到的月球地表裂痕照片，科学家推断出月球正在逐渐缩小。随着月球核心冷却与收缩，月球外壳便断裂成为断层与山脊，相同的冷却与收缩情况广见于所有天体。LRO在月球地表观察到的罕见裂痕，被称为“瓣状陡坡（或裂谷）”；最大的月球山脊高约九十一米，绵延数英里长，其中有些早在阿波罗登月任务时就被发现；但大部分山脊都很小与短，约仅数米高，以致外界始终没能注意到，直到去年被LRO镜头捕捉下来。LRO共发现十四道新裂痕，而且是在月球各地均匀分布，不仅限于最早发现裂痕的赤道地区，这为收缩论提供了强力的证据。数亿年来，直径只有地球四分之一，约三千四百七十六公里的月球，也仅缩小约一百米。</i>
+➜广州亚运期间将要求实名购买菜刀
+https://www.solidot.org/story?sid=19611	10800
+今年三月，上海公安局决定在世博会期间要求<a href="__SLASHLINK__" sect="ask" sid="10" sn="article" tid="59">实名购买菜刀</a>，现在广州公安局有意模仿上海公安局的做法。《联合早报》<a href="http://www.zaobao.com/wencui/2010/08/hongkong100821g.shtml">报道</a>，距离广州亚运开幕仅剩80多天，基于安全考量，由广州市公安局起草的“关于加强刀具安全管理的通告 （征求意见稿）”规定，对菜刀、大型水果刀、工艺品刀等危险性刀具实行实名购买和销售登记制度；刀具销售定点单位名录由当局指定，不得向行为异常或者精神异常人员以及未成年人出售菜刀、大水果刀；带刀搭车不包裹（包装），可罚100元人民币等。
+➜澳门禁止Google在调查结束前重启“街景”
+https://www.solidot.org/story?sid=19612	12300
+<a href="http://cnnet.us/taobao/">淘宝网首页</a> 写道<i> "澳门个人资料保护办公室(Office for Personal Data Protection)<a href="http://www.cn.wsj.com/gb/20100820/BCH004479.asp">周四称</a>，在调查清楚谷歌(Google Inc.)过去的数据收集行为是否违反隐私法之前，不允许谷歌在澳门重新为其“街景”地图服务收集影像数据。该办公室发表声明称，谷歌之前曾在澳门收集行人和车牌号码等影像数据，并搜集了附近通过Wi-Fi无线网络传送的未加密数据，目前办公室正对此事展开调查。该声明称，谷歌向办公室表示，计划今年9月份重新动用“街景”服务专车在澳门收集影像数据，为期四至六周，但不会再收集Wi-Fi网络的数据。谷歌发言人Caroline Hsu称，谷歌正在与相关部门进行合作，以期回答这些部门可能存在的疑问和顾虑。"</i>
+➜朝鲜政府加入了Facebook
+https://www.solidot.org/story?sid=19613	42480
+美联社<a href="http://hosted.ap.org/dynamic/stories/A/AS_NKOREA_FACEBOOK?SITE=INLAF&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT">说</a>，朝鲜政府<a href="__SLASHLINK__" sect="internet" sid="10/08/16/0422252" sn="article" tid="87">在建立了Twitter帐号@uriminzok后</a>，又创建了一个Facebook主页。<i>
+朝鲜注册的帐号用户名和Twitter一样，都是“<a href="http://www.facebook.com/uriminzok">uriminzok</a>”，在朝鲜语中意思是“祖国（our nation）”。韩国电信监管机构通信标准委员会刚刚以国家安全法的名义屏蔽了朝鲜的Twitter帐号，几个小时后朝鲜的Facebook帐号就突然出现了。朝鲜Twitter帐号的跟随者已经超过了一万，它主要发表了一些反韩及反美文章链接。它的Facebook帐号目前只有几十名朋友，它在上面分享了朝鲜官方的宣传内容，如表现统一和国家繁荣的集体舞蹈。</i>
+➜NCsoft因《天堂2》让玩家沉迷而遭起诉
+https://www.solidot.org/story?sid=19614	45000
+韩国网络游戏发行商NCsoft被人告上了法庭，这次是因为它的网游《天堂2》<a href="http://games.slashdot.org/story/10/08/20/1615211/NCsoft-Sued-For-Making-Lineage-II-Too-Addictive">太让人上瘾了</a>。<i>
+美国的游戏玩家Craig Smallwood要NCsoft赔偿300万美元的损失，因为他发现自己过去5年在这个游戏上花了超过20,000个小时，平均每天的游戏持续时间长达11小时。长时间的游戏毁坏了他的生活和身体功能，由于过度沉迷他现在无法独自完成起床、穿衣、洗澡，以及与亲友交流等活动。他说，早知道游戏如此让人上瘾，他当初就不会去玩。联邦地区法院法官已经允许继续<a href="http://www.wired.com/images_blogs/threatlevel/2010/08/smallwoodallegations.pdf">受理此案</a>(PDF)，驳回了原告的部分控诉，同意以重大疏忽罪向NCsoft索赔。</i>
+➜澳大利亚考虑审查iPhone App
+https://www.solidot.org/story?sid=19615	47880
+无比关怀儿童的澳大利亚工党政府最近忧心<a href="http://games.slashdot.org/story/10/08/19/0259253/Australia-Considering-iPhone-App-Censorship">移动手机上的游戏分级问题</a>，并考虑着手解决之。<i>
+根据目前的澳大利亚法律，在澳大利亚销售的视频游戏必须支付470美元到2040美元以获得监管部门的分级，由于澳大利亚缺乏18+分级，因此如果游戏被认为不适合15岁青少年玩，那么它将被禁止销售，如《Left 4 Dead 2》和《Fallout 3》便因为这个原因被禁。iPhone上的应用程序现在已经超过了20万，其中大部分是游戏，游戏开发者由于高昂的分级成本而考虑放弃在澳洲销售他们的应用程序。</i>
+➜Red Hat Enterprise Linux延长生命周期支持
+https://www.solidot.org/story?sid=19616	50880
+Red Hat<a href="http://www.redhat.com/rhel/server/extended_lifecycle_support/">宣布</a>了Red Hat Enterprise Linux的生命周期支持(ELS)<a href="http://lwn.net/Articles/401170/">延长计划</a>，让RHEL 3客户能继续获得安全更新。<i>
+RHEL的生命支持周期原本是7年，2003年10月发布的RHEL 3将于2010年10月31日结束支持。Red Hat现在提出延长支持时间，用户可以选择从7年延长至10年，Red Hat将提供重要的bug修正和重要的安全更新。延长生命周期计划适用于RHEL 3、RHEL 4和未来的RHEL 5。RHEL 3是基于Linux 2.4内核。</i>
+➜Julian Assange面临强奸指控
+https://www.solidot.org/story?sid=19617	51840
+BBC<a href="http://www.bbc.co.uk/news/world-11047025">报道</a>（<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/08/100821_wikileak_founder_rape_accusation.shtml">中文</a>），Wikileaks创始人Julian Assange因被控强奸和性骚扰而受到瑞典首都斯德哥尔摩检察官调查。瑞典政府已经签发逮捕令。瑞典警方一直试图联系Assange，但是至今还没有结果。一名检察官表示被指称的案件发生在瑞典境内。Wikileaks则<a href="http://blog.wikileaks.org/">强烈否认</a>Julian Assange犯罪，并形容指称是“恶毒的阴险花招”，表示将全力支持Julian。关于强奸和性骚扰两起指控，瑞典没有透露更多详情。
+➜硬件黑客公布PSJailbreak
+https://www.solidot.org/story?sid=19618	54000
+一群硬件黑客<a href="http://www.bbc.co.uk/news/technology-11035928">正式发布</a>了索尼PS3主机的破解方法<a href="http://psjailbreak.com/">PSJailbreak</a>，它将允许玩家运行盗版游戏或自制游戏。之前PSX-SCENE已经证实<a href="__SLASHLINK__" sect="games" sid="10/08/20/0822241" sn="article" tid="28">破解确实有效</a>。<i>
+USB加密狗的零售商表示它对所有PS3主机都有效，并表示hack是好事，因为它将允许玩家玩上自制游戏，这对索尼来说也是一件好事。索尼目前拒绝发表评论。Lwn.net的<a href="http://lwn.net/Articles/401156/">报道</a>称，破解将让用户在PS3上重新运行Linux成为可能。</i>

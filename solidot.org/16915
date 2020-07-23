@@ -1,0 +1,12 @@
+➜孟加拉国央行窃案反思：未装防火墙以及使用二手路由器等
+https://www.solidot.org/story?sid=47969	19403
+二手路由say怪我咯</a> 写道<i> "孟加拉国央行成为黑客攻击的目标仅仅只是因为<a href="https://www.hackread.com/bank-loses-81mil-poor-security/" target="_blank" title="没有足够安全的软硬件">没有足够安全的软硬件</a>。据路透社报道,孟加拉国央行网络并没有使用任何防火墙就连路由器也是二手的，其购买成本可能只有10美元。路透社记者引用了调查团队一位官员的话：如果银行使用了更好的安全措施和可靠的硬件,攻击者根本无法顺利实施入侵。事实上,黑客想窃取至少10亿美元,但由于拼写错误最终只转走了8100万美元。截至目前为止，孟加拉国央行安全措施不足的问题遭到了全世界安全专家的批评：很难想象一个已获得数十亿美元的国家银行却连哪怕是最基本的安全防范都没有。"</i>
+➜Opera的VPN只是代理服务器
+https://www.solidot.org/story?sid=47970	34193
+Opera的VPN实际上不是真正的VPN，而只是预配置的HTTP/S代理服务器，只保护 Opera和代理服务器之间的流量，而真正的VPN则会加密所有通信流量。这项功能在中国基本上已无法使用。开发者<a target="_blank" href="https://github.com/spaze"><u>Michal Špaček</u></a>在Github上发表文章分析<a target="_blank" href="https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10"><u>了Opera VPN的工作原理</u></a>，发现在启用VPN功能后浏览器会使用Proxy-Authorization请求头向https://api.surfeasy.com发送API请求，获取代理IP。即使不安装 Opera浏览器，使用相同的请求头也能得到相同的代理服务器IP地址。在中国，api.surfeasy.com这个域名已经被DNS污染。
+➜圣战者更可能主修科学而非伊斯兰法
+https://www.solidot.org/story?sid=47971	53696
+宗教和地缘政治中心分析了过去三十年<a target="_blank" href="http://tonyblairfaithfoundation.org/religion-geopolitics/reports-analysis/report/milestones-militancy"><u>100位最著名的圣战领导人的生活背景和教育水平</u></a>，发现虽然这些领导人自称唯一的兴趣是伊斯兰教法，但他们实际上很少经过伊斯兰教法的训练。这100人中，大约半数的人接受过大学教育，其中57%的人主修的科学相关专业(科学、技术、工程、数学和医学)，只有28%的人学习的伊斯兰相关专业。以本拉登为例，他在大学里学的是经济学和商学。2009年试图炸毁飞机的Omar Farouk Abdulmutallab在大学主修的是机械工程。这一现象早已被人注意过，<a target="_blank" href="https://tech.slashdot.org/story/16/04/23/1617200/jihadis-twice-as-likely-to-be-students-of-science-than-of-sharia"><u>一种解释</u></a>是学理科的人掌握了学文科的人所不具有的技能，因此能成为更好的恐怖分子，其根本原因不是因为他们学的是理科。研究发现，大部分人一开始是被非暴力伊斯兰组织招募的，之后逐渐变得激进，他们很多人都曾进入过监狱。
+➜将维基百科带到月球
+https://www.solidot.org/story?sid=47972	56258
+Google月球X大奖要求参赛团队向月球发射漫游车，着陆和行驶500米，并向地球发回照片。德国柏林的Part-Time Scientists是最后的五支参赛团队之一，他们计划在2017年将自制的探测车送上月球。探测车可以带的东西不多，有限的载荷都被用来进行科学试验，Part-Time Scientists正在制造的月球车的一大部分空间也是要干这个的。但维基媒体德国分会——Wikimedia Deutschland——提供了一张数据碟盘，可以让维基百科也一道登上月球。因为数据碟盘的存储空间只有20GB，因此无法收录全部维基百科存档，所以他们邀请<a target="_blank" href="https://meta.wikimedia.org/wiki/Wikipedia_to_the_Moon/zh"><u>社区筛选维基百科内容</u></a>，2016年12月5日国际志愿者日前完成社区讨论，筛选决策和内容整理工作。

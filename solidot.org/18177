@@ -1,0 +1,36 @@
+➜Adobe 取消所有委内瑞拉账号的订阅
+https://www.solidot.org/story?sid=62169	4063
+在云服务时代，你是一名可以随时赶走的租客，即便你提前付足了钱。为遵守美国政府的行政命令，Adobe 将<a href="https://helpx.adobe.com/la/x-productkb/policy-pricing/executive-order-venezuela.html" target="_blank"><u>撤销所有委内瑞拉账号的服务订阅</u></a>。特朗普政府在 8 月 5 日发布了 <a href="https://www.treasury.gov/resource-center/sanctions/Programs/Documents/13884.pdf" target="_blank">13884 号</a>行政命令，冻结委内瑞拉政府的资产，并禁止美国公司和公民与其开展任何业务。Adobe 称行政命令没有设定过期日期，受其限制它无法向客户退款，委内瑞拉用户将无法使用它的任何服务和软件，即使是免费服务。委内瑞拉用户必须在 10 月 28 日前下载账号里的内容，之后账号将会被关闭。
+➜RMS 和 GNU 项目
+https://www.solidot.org/story?sid=62170	9774
+RMS 因为相关言论引发的争议而在前不久辞去了自由软件基金会主席一职，他通过邮件声明表示会继续担任 GNU 项目的领导者。但这个职位也有可能会发生变动。自由软件基金会发表<a href="https://www.fsf.org/news/fsf-and-gnu"><u>声明</u></a>，称它正在与 GNU 项目的领导层合作探讨双方未来的关系，询问社区的意见。随后，GNU 项目的维护者和开发者发表<a href="http://guix.gnu.org/blog/2019/joint-statement-on-the-gnu-project/"><u>联合声明</u></a>，对 RMS 多年来的贡献表示感谢，但同时指出 RMS 过去多年的行为破坏了 GNU 项目的核心价值：赋权所有计算机用户。当领导人的行为疏远了大部分想要接触的用户，GNU 项目无法履行其使命。他们认为 RMS 不代表所有 GNU 项目，现在是时候由维护者集体决定项目的组织，建立一个人人都信任去捍卫自由的组织。
+➜Linus Torvalds 批准了内核锁定功能
+https://www.solidot.org/story?sid=62171	12007
+在多年的评估、讨论和重写之后，Linus Torvalds <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=aefcf2f4b58155d27340ba5f9ddbe9513da8286d"><u>批准了</u></a>内核锁定功能。新功能 LSM (Linux Security Module) 将随 Linux kernel 5.4 <a href="https://www.zdnet.com/article/linux-to-get-kernel-lockdown-feature/" target="_blank"><u>提供给用户</u></a>。它将限制用户空间对内核的访问或修改，对 root 修改运行时内核施加了额外的限制，防止遭到入侵的 root 账号危及到系统的其它部分。LSM 一开始将是默认关闭，用户可选择启用，因为该功能有可能会破坏现有的系统。kernel 5.4 的其它<a href="https://lwn.net/Articles/799425/"><u>变化</u></a>包括：Arm64 架构将能使用 52 位地址；移除英特尔的 MPX 功能；移除对 SGI SN2 架构的支持；"haltpoll" CPU 空闲调控器；支持联想 ThinkPad "PrivacyGuard" 功能，等等。
+➜日本 2019 年出生人数可能低于 90 万
+https://www.solidot.org/story?sid=62172	12462
+日本的出生人数<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/37590-2019-10-08-10-43-54.html"><u>正在快速减少</u></a>。日本厚生劳动省公布的人口动态统计数据显示，1～7 月的出生人数同比减少 5.9% 至 51.859 万人，连续 4 年出现减少。5.9% 的减幅创 30 年以来的纪录。2016 年日本的出生人数跌破 100 万人，仅仅过了 3 年，2019 年的出生人数很可能跌破 90 万人。超出政府预期的少子化将对社会保障制度和经济增长产生影响。打造良好的生产与育儿环境成为日本的当务之急。
+➜Linus Torvalds 不担心微软控制 Linux
+https://www.solidot.org/story?sid=62173	16630
+出于商业考虑微软现在高调对 Linux 示爱，开源社区的人则有点担心微软是否会想要控制 Linux。在 2019 年  Linux Plumbers 大会上，Linus Torvalds 等主要内核开发者接受采访时都普遍同意微软有控制 Linux 的想法，<a href="https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/"><u>但他们对此并不感到担心</u></a>。Torvalds 称，反微软有时候就像个恶作剧，非真有其事。微软已经变得友好，他在各种会议上与微软的工程师谈笑甚欢，工程师们都很乐意在 Linux 上工作，他本人对有关反微软的一切都不以为然。微软在 Linux 世界的工作主要是为了云服务 Azure，致力于让 Linux 运作良好。微软已经成为社区的一部分。
+➜海康威视等被列入出口实体清单
+https://www.solidot.org/story?sid=62174	16949
+美国商务部周一以新疆人权问题为由把海康威视等企业和政府组织<a href="https://cn.reuters.com/article/us-china-hikvision-sanction-1008-idCNKBS1WN0A0?il=0"><u>加入到贸易黑名单</u></a>。 被列入名单的企业包括旷视科技、海康威视、浙江大华、深圳科大讯飞、厦门美亚柏科和深圳易信科技。美国官员表示，宣布这一举措与本周将恢复的中美贸易磋商无关。但它为美方在与中方磋商时可能采取更加咄咄逼人的立场定下了基调。被列入“实体清单”中的企业和其他实体，将被禁止在未获得美国政府批准的情况下从美国企业购买零部件。海康威视的一名发言人士周一晚间表示，该公司“强烈反对美国政府今日的决定”，并称公司在 1 月聘请了人权事务专家和前任美国大使，就人权合规问题向公司提供咨询服务。
+➜中国新手机入网引入人脸识别
+https://www.solidot.org/story?sid=62175	26027
+工信部上月底发布了通知《<a href="http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c7448683/content.html" target="_blank">关于进一步做好电话用户实名登记管理有关工作的通知</a>》，从 12 月 1 日起对新手机入网引入<a href="https://qz.com/1720832/china-introduces-facial-recognition-step-to-get-new-mobile-number/"><u>人脸识别</u></a>。通知称：“一是为确保电话入网环节人证一致，创新运用人工智能等技术手段，要求电信企业自 2019 年 12 月 1 日起在实体渠道全面实施人像比对技术措施，人像比对一致后方可办理入网手续。二是深入防范治理二次倒卖电话卡，各电信企业应于 2019 年 11 月底前，完善电信服务协议条款，明确用户不得二次转售、倒卖电话卡，并充分运用海报、广告、短信等多种方式积极开展宣传提醒，引导用户至正规营业场所购买电话卡。三是积极防范用户名下不知情办卡，要求电信企业自 2019 年 12 月 1 日起通过自有营业厅向用户提供查询名下手机号码的服务，对用户提出存在异议的手机号码应立即组织核查和处理，切实维护群众合法权。”
+➜三名科学家因氧气感知机制而获得诺贝尔医学奖
+https://www.solidot.org/story?sid=62176	29294
+2019 年诺贝尔生理学或医学奖<a href="https://www.nobelprize.org/prizes/medicine/2019/summary/"><u>授予了</u></a>哈佛医学院教授 William G. Kaelin, Jr.、牛津大学教授 Peter J. Ratcliffe 和约翰霍普金斯大学医学院教授 Gregg L. Semenza，以表彰他们在细胞感知和适应氧气变化机制中的发现。占地球空气 21% 的氧气对动物的生命维持至关重要，为了将食物转化为有用的能量，几乎所有动物细胞中的线粒体都会利用氧气。氧气的重要性人人皆知，但细胞到底怎样去感知和适应氧气含量变化，<a href="http://news.sciencenet.cn/htmlnews/2019/10/431186.shtm">却一直是个谜题</a>。1992 年，Semenza 发现了低氧诱导因子（HIF）；此后，Ratcliffe 和 Kaelin 发现了低氧诱导因子的降解机制。低氧诱导因子的水平受氧气含量影响。高氧状态下，低氧诱导因子被修饰，从而被降解；低氧状态下，低氧诱导因子不被修饰，不会被降解。
+➜俄罗斯黑客修改浏览器植入流量指纹
+https://www.solidot.org/story?sid=62177	32653
+俄罗斯安全公司卡巴斯基<a href="https://securelist.com/compfun-successor-reductor/93633/"><u>报告</u></a>，一个从事网络间谍活动的黑客组织通过修改浏览器为 TLS 加密流量加入了可跟踪的指纹。黑客利用远程访问木马 Reductor 感染受害者，修改了系统上的浏览器 Chrome 或 Firefox。这一过程涉及到两步：黑客首先为被感染的主机安装了数字证书，使其能拦截来自主机的任何 TLS 加密流量；其次，他们为系统上安装的  Chrome 或 Firefox 打上了自己的伪随机数生成器。随机数生成器被用于在建立安全连接时产生随机数。黑客利用被修改的随机数生成器为每一个 TLS 连接加入了指纹。被称为 Turla 的组织被认为与俄罗斯政府有关联。
+➜乌兹别克斯坦黑客组织在有卡巴斯基的机器上测试病毒
+https://www.solidot.org/story?sid=62178	34958
+卡巴斯基研究人员<a href="https://www.vice.com/en_us/article/3kx5y3/uzbekistan-hacking-operations-uncovered-due-to-spectacularly-bad-opsec">曝光了</a>一个与乌兹别克斯坦国家安全局有关联的黑客组织，原因是该黑客组织在安装有卡巴斯基杀毒软件的机器上测试恶意程序。乌兹别克斯坦不以网络间谍能力著称，但它的国安局有足够的钱去购买商业间谍软件。卡巴斯基称，乌兹别克斯坦购买了以色列公司 NSO Group 和 Candiru 开发的间谍软件。然而除了有钱外，乌兹别克斯坦的黑客组织看起来缺乏基本的常识。黑客组织不停的购买各种 0day 漏洞，但拿到了储存恶意程序的 U 盘之后他们就将其插到了安装卡巴斯基的机器上，卡巴斯基自动将恶意程序样本上传到了它的服务器上，而上传的域名关联到了国安局。
+➜埃及使用 Google Play 传播间谍应用
+https://www.solidot.org/story?sid=62179	39738
+很可能与埃及政府有关联的黑客组织使用官方应用商店 Google Play 去传播间谍应用，他们针对的目标包括记者、律师和反对派政客。安全公司  Check Point Technologies <a href="https://arstechnica.com/information-technology/2019/10/egypt-used-google-play-in-spy-campaign-targeting-its-own-citizens-researchers-say/">披露</a>，黑客组织使用的一个间谍应用叫 IndexY，主要功能是查询电话号码，它需要的一个权限是访问呼叫历史和联络人，虽然权限敏感，就其功能而言似乎是合理的。然而在背后它记录了每一次呼入呼出的电话，以及日期和时间。应用硬编码了域名  indexy[.]org，该域名上的文件显示开发者积极的收集和分析呼叫信息。在被下架之前它的安装量大约 5000 次。Check Point&nbsp; 认为黑客组织使用了至少三种间谍应用，另外两种是  iLoud 200% 和 v1.apk。
+➜三名物理学家因宇宙学发现获诺贝尔物理学奖
+https://www.solidot.org/story?sid=62180	46011
+瑞典皇家科学院<a href="https://www.nobelprize.org/prizes/physics/2019/press-release/"><u>宣布了</u></a>三名 2019 年诺贝尔物理学奖得主：普林斯顿大学 James Peebles 教授，以表彰他“在宇宙学理论方面的发现”，瑞士日内瓦大学的 Michel Mayor 教授和 Didier Queloz 教授，以表彰他们“发现一颗围绕类太阳恒星运行的系外行星”。Peebles 教授获一半奖金，Mayor 教授和 Queloz 教授分享另外一半奖金。瑞典皇家科学院称，他们的发现有助于更好的理解宇宙的演化和地球在宇宙中的位置。

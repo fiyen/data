@@ -1,0 +1,37 @@
+➜Debian GNU/kFreeBSd进入发布状态
+https://www.solidot.org/story?sid=14025	12300
+Debian支持多种处理器架构，但很多人<a href="http://www.osnews.com/story/22306/Debian_GNU_kFreeBSd_Gets_Release_Status">有所不知的是</a>它还支持除Linux之外的多种内核，其中<a href="http://bsd.slashdot.org/story/09/10/07/1946211/Debian-Elevates-KFreeBSD-Port-to-First-Class-Status">FreeBSD kernel已经进入发布状态</a>。从<a href="http://wiki.debian.org/DebianSqueeze">Debian 6.0(代号Squeeze)开始</a>，将Debian系统移植到FreeBSD内核的计划便被赋予了与其它版本相等的地位。<i>
+Debian支持i386、amd64、PowerPC、SPARC、DEC Alpha、ARM、MIPS、HPPA、S390和IA-64 (Itanium)架构，所有的版本都是使用Linux kernel。此外Debian还支持使用不同内核的版本，如Debian GNU/Hurd、Debian GNU/NetBSD和<a href="http://www.debian.org/ports/kfreebsd-gnu/">Debian GNU/kFreeBSD</a>。Debian发布团队表示，Debian Squeeze将是第一个同时支持Linux和FreeBSD内核的Debian发行版。GNU/kFreeBSD将支持i386和amd64架构，kFreeBSD中的“k”指的是系统设计的方式；它只使用FreeBSD kernel，保留了GNU和Debian工具，同时包含了内核支持的特性如jails、OpenBSD Packet Filter和NDIS驱动。</i>
+➜De Icaza回应Stallman的指责
+https://www.solidot.org/story?sid=14026	14700
+10月5日，自由软件基金会主席Richard Stallman<a href="http://www.fsf.org/blogs/rms/microsoft-codeplex-foundation">在博客上</a>再次给.NET技术开源实现Mono项目负责人、Novell公司副总裁<a href="__SLASHLINK__" sect="linux" sid="09/09/25/0544229" sn="article" tid="44">Miguel de Icaza</a>增加了一个外号，指责对方是微软教徒（Microsoft apologist），De Icaza<a href="http://news.slashdot.org/story/09/10/06/132231/De-Icaza-Responds-To-Stallman?from=rss">回应了Stallman的指责</a>，<a href="http://tirania.org/blog/archive/2009/Oct-05.html">认为</a>RMS只会人身攻击，他为自己辩护，表示他对微软的看法与他人有异，并举了一个众所周知的非洲土著和鞋子的故事（两位鞋子推销人员到非洲进行市场调查，一位认为鞋子没有市场，因为非洲人不穿鞋子；另一位认为市场潜力巨大，因为这里的人还没有鞋子）进行描述。De Icaza认为微软正走向开放，Stallman只是在散播恐惧，而没有从中发现机遇。
+➜埋藏的银币或能解开古罗马之谜
+https://www.solidot.org/story?sid=14027	27600
+历史学家长期以来一直在争论罗马在公元前1世纪的人口总数。这是一个动荡不安的时期，独裁官<a href="http://zh.wikipedia.org/wiki/%E5%B0%A4%E5%88%A9%E4%B9%8C%E6%96%AF%C2%B7%E6%81%BA%E6%92%92">尤利乌斯·恺撒</a>（Julius Caesar）遇刺，<a href="http://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E5%85%B1%E5%92%8C%E5%9B%BD">罗马共和国</a>内部发生了内战，走向了衰落。但是在公元前28年<a href="http://zh.wikipedia.org/zh-hans/%E7%BE%85%E9%A6%AC%E5%B8%9D%E5%9C%8B">罗马帝国</a>第一任君主屋大维（奥古斯都）开始统治时，意大利半岛的人口达到了500万，是世纪初人口的10倍。虽然其中三分之一的人口可以用罗马盟国的公民加以解释，但其余的人又来自何处？有些历史学家认为是人口爆炸，但另一些人认为战争让帝国士兵的规模缩小，人口不可能增加。他们认为这一统计包含了妇女和儿童，而罗马共和国只计算成年男性。<i>
+为了解决这一争议，Connecticut大学的社会科学家Peter Turchin和斯坦福大学的同事Walter Scheidel<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1005/3?rss=1">求助于当时埋藏的银币</a>。当罗马共和国内战爆发，居民逃离城市，他们会将值钱的东西掩埋起来，以免被掠夺走。如果他们未能回家，那么钱币便永远的埋藏在地底下。业余考古爱好者利用金属探测器已发现了数百瓦罐，里面塞满了能追溯到罗马帝国时期的银币，当时它被称为“得拿利（denarii）”。Turchin和Scheidel将公元前250年到公元前100年埋藏的钱币数目与罗马共和国的人口统计进行组合。例如，公元前218-201年间的第二次腓尼基战役(Second Punic War)，人口下降到了5万，这与当时掩藏银币数量的上升是一致的。他们的<a href="http://www.pnas.org/cgi/doi/10.1073/pnas.0904576106">报告</a>发表在《美国科学院学报》上。基于埋藏的银币数量，他们推测罗马共和国内战至少导致10万人死亡。</i>
+➜宇宙的熵是先前所认为的100倍
+https://www.solidot.org/story?sid=14028	30480
+从表面看宇宙混乱无序——新星爆发、星系碰撞、坍塌成黑洞——但令人惊讶的是，宇宙其实是有序的。<a href="http://zh.wikipedia.org/zh-hans/%E7%86%B5">熵</a>便是用于计算宇宙失序现象的值，之前的估算认为宇宙熵的值很小，但新的计算却发现它较原来的估计<a href="http://science.slashdot.org/story/09/10/06/1641232/Universe-Has-100x-More-Entropy-Than-We-Thought">高出两个数量级</a>，而超大质量黑洞是<a href="http://arxiv.org/abs/0909.3983">熵的最主要贡献者</a>(预印本)。宇宙熵的值从最高10^102到10^104增加到10^122，意味着我们离<a href="http://zh.wikipedia.org/zh-cn/%E7%83%AD%E5%AF%82">热寂</a>更了一步。
+➜中国关闭45款违规网络游戏
+https://www.solidot.org/story?sid=14029	31800
+BBC<a href="http://www.bbc.co.uk/zhongwen/simp/china/2009/10/091008_online_games.shtml">报道</a>，中国新闻出版总署对境内出版运营的两百多款网络游戏进行集中整治清理，严查有违规内容的网络游戏和违规网络游戏出版运营商。经审查发现，有三家网站擅自出版运营网络游戏，或为境外网络游戏提供运营推广服务。<i>
+<a href="http://news.xinhuanet.com/it/2009-10/08/content_12193332.htm">官方新华社称</a>，45款国产网页、网络游戏要么在审批后添加暴力色情内容，要么未按规定履行出版备案手续，有的则没有安装类似“三小时强制下线无法登陆”的防沉迷系统，有些网络游戏还在游戏任务中鼓励玩家进行“贩毒”、“卖淫”等违法犯罪活动，或者游戏画面带有血腥暴力和色情内容，有的游戏甚至以“抢人、抢钱、抢天下”的口号进行宣传推广。到目前为止，中国新闻出版总署已责令45款未经审批的境外网络游戏关闭，停止运营服务，并查处26款存在低俗内容的网络游戏。</i>
+➜申请入学MIT，500字即可
+https://www.solidot.org/story?sid=14030	34200
+麻省理工学院（MIT）也爱上了Tweet：不久以后向MIT递交的入学申请书<a href="http://news.slashdot.org/story/09/10/07/0015204/MIT-Axes-the-500-Word-Application-Essay">只要500个字即可</a>。MIT的招生负责人Stuart Schmill声称将剔除长篇大论，而更偏爱短小精悍的申请书。Schmill也表示，他们并不是说让学生发送短消息进行申请。一位MIT学生在自己博客上给出了一篇<a href="http://clarebayley.com/?p=648">申请书样本</a>，文字总数仅仅为447个。
+➜Google发现DRAM出错远超以前的估计
+https://www.solidot.org/story?sid=14031	43200
+通过从各地数据中心数十万台电脑上收集的数据，<a href="http://hardware.slashdot.org/story/09/10/06/1732211/Google-Finds-DRAM-Errors-More-Common-Than-Believed?from=rss">Google发现内存出错的比率远高于之前的估计</a>。由多伦多大学教授Bianca Schroeder与两位Google雇员完成的<a href="http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf">报告</a>(PDF)指出，<a href="http://www.zdnet.com.tw/news/hardware/0,2000085676,20141826,00.htm">内存出错并非是罕见的情况</a>。<i>
+平均来说，Google服务器每年约有三分之一会发生可恢复性的内存错误，无法复原的错误发生率约为百分之一，这种情况通常会导致当机。每个内存模组，平均每年发生近4000次可复原性错误。Google服务器使用了错误检查和纠正（ECC）和chipkill技术，可准确找出那些错误，但普通电脑内存并没有ECC，因此Google的可复原性错误，在普通电脑上可能是无法复原的错误。Google发现内存模组的可复原性错误率每10亿小时2.5万次至7.5万次。报告还发现温度对内存出错没有太大影响，而硬件错误比软件错误更常见，新造的大容量内存不比旧内存质量差。</i>
+➜GNU Debugger 7.0发布
+https://www.solidot.org/story?sid=14032	46800
+GNU软件除错器GNU Debugger（GDB）正式发布了<a href="http://www.gnu.org/software/gdb/download/ANNOUNCEMENT">7.0版</a>。
+GDB能为多种不同处理器架构上运行的软件进行除错，支持的语言有Ada、C、C++、Objective-C、Pascal等。新的版本增加了更多新平台支持、新特性，增强和bug修正。新特性包括Python脚本支持；反向调试，过程记录和回放；non-stop调试；多架构调试；多进程调试等。
+<a href="http://www.gnu.org/softwarhttp://solidot.org/submit.pl?op=viewsub&amp;subid=52088&amp;title=GNU+Debugger+7.0%E5%8F%91%E5%B8%83e/gdb/download/">下载</a>。
+➜德国作家Herta Mueller获诺贝尔文学奖
+https://www.solidot.org/story?sid=14033	48720
+time 写道 "罗马尼亚裔德籍作家Herta Mueller获得今年的<a href="http://world.people.com.cn/GB/57507/10157297.html">诺贝尔文学奖</a>。瑞典文学院常务秘书恩格伦德说，Mueller获奖的原因主要是她以特别犀利的语言描述了在独裁统治时期的生活。<i>
+<a href="http://www.cna.com.tw/ReadNews/FirstNews_Read.aspx?magNo=4&amp;magNum=11013&amp;pageNo=1">Mueller出生在罗马尼亚</a>，因拒绝和情治单位合作而被迫失业，在罗马尼亚政府一再刁难和审查后，Mueller全家于1987年迁往西德。Mueller作品最震撼人心之处，在于对罗共最后一任总统Nicolae Ceausescu极权统治时期，人民在秘密警察监视下痛苦生活的描写。罗政府至今仍旧跟踪监视Mueller。"</i>
+➜10月9日NASA火箭撞月球
+https://www.solidot.org/story?sid=14034	50400
+NASA的月球坑观测与传感卫星（LCROSS）预计于美国东部时间10月9日上午7时31分(北京时间19时31分)<a href="http://www.nasa.gov/mission_pages/LCROSS/main/index.html">撞击月球</a>，<a href="http://www.nasa.gov/multimedia/nasatv/index.html">NASA TV</a>将从6时15分（北京时间18时15分）开始直播1个半小时。LCROSS将进行两次撞击，首先是“半人马座”火箭最上一级实施撞击，接着LCROSS用携带的光谱仪分析撞击产生的尘埃，之后LCROSS执行第二次撞击，并用照相机拍摄整个过程。根据月球侦察轨道器（Reconnaissance Orbiter），印度月船-1号，和日本的辉夜姬飞船收集的数据，月球表面存在水的证明<a href="__SLASHLINK__" sect="science" sid="09/09/24/1441249" sn="article" tid="88">已经确认无疑</a>。NASA这次撞月球的目的是<a href="http://gizmodo.com/5376774/how-watch-the-moon-bombing-in-real-time">测量水所占的比例</a>。

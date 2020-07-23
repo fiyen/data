@@ -1,0 +1,34 @@
+➜苹果默认邮件应用发现安全漏洞
+https://www.solidot.org/story?sid=64194	16619
+安全公司 ZecOps 发表<a href="https://blog.zecops.com/vulnerabilities/unassisted-ios-attacks-via-mobilemail-maild-in-the-wild/">报告</a>称，苹果设备的默认 iOS 邮件应用存在严重漏洞，已被黑客利用发动攻击。ZecOps CEO Zuk Avraham <a href="https://cn.reuters.com/article/apple-devices-risk-0422-wedn-idCNKCS22502A" target="_blank">表示</a>，他发现证据显示，这一漏洞至少在六起网络入侵事件中被利用。苹果发言人承认，iOS 邮件应用存在漏洞，该公司已经开发了一个修复程序，将在即将发布的更新中推出。研究显示，漏洞可以远程触发，在对高端用户的黑客攻击中已经被利用。Avraham 表示，黑客需要先通过邮件应用程序向受害者发送一封表面看空白的电子邮件，强制设备崩溃并重置。这样的崩溃就为黑客窃取设备上照片和联系人详细信息等其他数据打开了大门。
+➜宇航员面临的新冠疫情
+https://www.solidot.org/story?sid=64195	17209
+新冠肺炎全球蔓延之际，在国际空间站工作的三名宇航员任务完成准备回家，<a href="https://www.bbc.com/ukchina/simp/52362359" target="_blank">结果发现地球跟他们出发前已经大不相同</a>。这前后也就几个月时间。4 月17 日他们的着陆舱返回地面。打开舱门，外面等候的人都戴着口罩。他们事先已经经过严格隔离，出发搜寻返航着陆舱之前刚刚做了病毒检测，确保没有感染风险。正常情况下，返回地球的宇航员会被地面迎接团队送到最近的机场，从那里乘飞机回家。但现在哈萨克斯坦全国处于紧急状况，大部分机场都已关闭。俄罗斯宇航员被送到仍正常运作的拜科努尔航天发射场，从那里返回俄国。美国宇航员则被汽车送到发射场东南方向的克孜勒奥尔达州，从那里被 NASA 的飞机接回美国。接替他们的团队，两名俄罗斯宇航员和一名美国宇航员，4 月 9 日从地球飞往国际空间站，出发前曾隔离一个半月，接受最严格的防疫，以免把病毒带进空间站。
+➜Valve 证实 CSGO 和 TF2 源代码泄露
+https://www.solidot.org/story?sid=64196	17497
+Valve 的两大团队竞技游戏《全球攻势（CSGO）》 和《团队要塞2（ TF2）》 的源代码被人<a href="https://twitter.com/SteamDB/status/1252961862058205184">泄露</a>到 BT 网站上。泄露的源代码将允许黑客发现和利用远程代码执行漏洞。Valve 在 Twitter 上的 CSGO 官方账号发表<a href="https://twitter.com/CSGO/status/1253075594901774336">声明</a>证实了源代码泄露，但表示不是当前版本。Valve 称，他们评估后确认 CSGO 的源代码是在 2017 年下半年提供给合作伙伴的，2018 年泄露。玩家没有任何理由需要避免使用当前版本。TF2 在 Twitter 的官方账号刚刚<a href="https://twitter.com/TeamFortress/status/1253186403900420098"><u>发表了</u></a>与 CSGO 相似的声明，表示正继续对此展开调查。TF2 账号上一次发帖还是在 2019 年。
+➜纽约宠物猫确诊感染新冠
+https://www.solidot.org/story?sid=64197	20726
+在<a href="https://www.solidot.org/story?sid=64040"><u>动物园老虎</u></a>之后，纽约的两只宠物猫在出现轻微的呼吸道感染症状后，被检测出新冠病毒呈阳性。美国农业部和 CDC <a href="https://www.nytimes.com/2020/04/22/health/cats-pets-coronavirus.html">强调</a>，“没有证据表明宠物在病毒传播中发挥了作用”，检测结果不意味着猫会将病毒传染给人类。此前中国研究人员对猫狗等宠物家禽的测试显示，猫确实更容易感染新冠病毒。WHO 建议限制已生病的人接触宠物。
+➜华为的笔记本重装系统后自动安装驱动
+https://www.solidot.org/story?sid=64198	21333
+匿名读者 写道<i> "华为的笔记本重装系统后<a href="https://www.v2ex.com/t/665111">自动安装驱动</a>。无网安装完成。PSI Service 已经存在。publisher: huawei technologies co., ltd.控制面版里唯一存在的安装好的程序 。 可以删除。但是重启后又有。可以确定是 EFI 注入的了。
+"</i>
+➜Wave Computing 申请破产保护，MIPS 落幕？
+https://www.solidot.org/story?sid=64199	26488
+2018 年，Wave Computing 从 Imagination Technologies 收购 MIPS Technologies，<a href="http://hdardware.solidot.org/story?sid=58985"><u>宣布</u></a>将在 2019 年第一季度发布 core R6 时开源。2019 年初它发起了 MIPS Open Initiative 倡议，但在 2019 年 11 月它终止了这一倡议。接着 Linux kernel MIPS 子系统的三位维护者中的两位 Paul Burton 和 Ralf Baechle 宣布辞职，只剩下 Thomas Bogendoerfer 成为唯一的维护者。本月，Wave Computing 申请破产保护，解雇了所有雇员。MIPS <a href="https://www.cnx-software.com/2020/04/22/is-mips-dead-lawsuit-bankruptcy-maintainers-leaving-and-more/">将何去何从</a>？2019 年从 Wave Computing 获得中国地区 MIPS 独家专营权的上海芯联芯智能科技有限公司<a href="https://mp.weixin.qq.com/s/v202oGYgNoWzd8WFzEMrVg">表示</a>不受影响。
+➜SpaceX  完成第七次 Starlink 卫星发射
+https://www.solidot.org/story?sid=64200	27507
+SpaceX <a href="https://www.nasaspaceflight.com/2020/04/falcon-9-us-leader-starlink/"><u>完成了</u></a>第七次 60 颗 Starlink 宽带卫星的发射，并在海上无人驳船上成功回收了火箭第一级，而它的 Starlink 星座的总卫星数量达到了 422 颗（其中 2 颗测试）。与此同时，它的 Falcon 9 火箭发射次数达到了 84 次，超过了联合发射联盟 Atlas V 火箭的 83 次，成为目前美国现役发射次数最多的火箭。Atlas V 在 2002 年 8 月 21 日首飞，18 年中平均每年发射 4.6 次。Falcon 9 在 2010 年 6 月 4 日首飞，10 年内平均每年发射 8.4 次。在 Falcon 9 服役的前 3 年，它只发射了 5 次，但之后发射数量快速增加，2014 年到 2015 年发射了 14 次，之后 5 年发射了 65 次平均每年 13 次。Atlas V 的发射频率远不如 Falcon 9，它不太有机会再次超过 SpaceX 的火箭。SpaceX 的 Starlink 宽带卫星服务目前开始转向地面。
+➜档案学者发现陨石致命的已知最早证据
+https://www.solidot.org/story?sid=64201	32493
+人类遭陨石撞击致死的传说可上溯到圣经时代，但真正有记录还是最近几十年的事情。现在，土耳其研究人员在《Meteoritics &amp; Planetary Science》期刊上发表研究，<a href="https://www.sciencemag.org/news/2020/04/archivists-uncover-earliest-evidence-person-being-killed-meteorite" target="_blank"><u>报告了已知最早的陨石致命证据</u></a>：1888 年 8 月一颗陨石撞击位于现在伊拉克境内的一个山顶，造成一人死亡一人瘫痪。这起事故记录在地方当局递交的一个档案中，致命陨石是以大约 10 分钟间隔掉落的数颗陨石中的一颗，附近城市还看到了火球。除了人员伤亡外，陨石还导致了农田遭到破坏。
+➜Ubuntu 20.04 LTS (Focal Fossa)发布
+https://www.solidot.org/story?sid=64202	34063
+Ubuntu 20.04 LTS (Focal Fossa)<a href="https://wiki.ubuntu.com/FocalFossa/ReleaseNotes"><u>于 4 月 23 日正式发布</u></a>。主要新特性包括：Linux 内核 5.4，支持新的硬件如英特尔 Comet Lake CPU 和 AMD  Navi 12 和 14 GPU；支持 exFAT 文件系统，支持 Wireguard VPN，完整性模式<a href="https://mjg59.dreamwidth.org/55105.html">启用锁定</a>；为 RISC-V 硬件提供了 riscv64 内核。其它包括：GNOME 3.36，Mesa 20.0 OpenGL stack，BlueZ 5.53，PulseAudio 14.0，Firefox 75.0 和 Thunderbird 68.7.0，LibreOffice 6.4 等。与 Ubuntu 20.04 同时发布的还有多个衍生版本如 Kubuntu 和 Lubuntu，优麒麟。<a href=" UKUI 3.0 桌面环境预" target="_blank"><u>优麒麟</u></a>由工信部、Canonica 和国防科技大学联合开发，整合了多个中国本土流行 Linux 应用。
+➜NordVPN 推出 WireGuard VPN 服务
+https://www.solidot.org/story?sid=64203	39230
+NordVPN 成为<a href="https://nordvpn.com/blog/one-very-strong-reason-to-be-excited-about-nordlynx/"><u>率先推出</u></a> WireGuard VPN 协议服务 NordLynx 的主流 VPN 公司。Linux 客户端提供给了所有客户，Windows、iOS 和 Android 客户端还在推广阶段，只提供给部分客户。相比 OpenVPN 和 IPSec，WireGuard 代码更简单，它只有 4000 行代码，而 OpenVPN 超过 10 万行，它还支持最新的加密算法和协议。上个月底释出的 Linux 5.6 整合了 WireGuard  VPN 实现。NordVPN 称，测试显示 NordLynx 的性能远胜于 IKEv2/IPsec 和 OpenVPN 等协议。256,886 次速度测试显示，WireGuard 有望将下载和上传速度提升一倍（距离越近效果越显著）。
+➜人类携带的尼安德特人 DNA 对外表和疾病基本无影响
+https://www.solidot.org/story?sid=64204	49355
+你可能会将雀斑、红发甚至嗜睡等归因为基因里的尼安德特人 DNA。但对冰岛居民的研究发现，尼安德特人 DNA 对大部分身体特征或疾病风险<a href="https://www.sciencemag.org/news/2020/04/neanderthal-dna-you-carry-may-have-surprisingly-little-impact-your-looks-moods"><u>基本无影响</u></a>。<a href="https://www.nature.com/articles/s41586-020-2225-9"><u>研究报告</u></a>发表在《自然》期刊上。绝大多数欧洲和亚洲居民继承了 1% 到 2% 的尼安德特人基因，美拉尼西亚人和澳大利亚原住民则继承了另一位近亲丹尼索瓦人 3% 到 6% 的基因。此前的研究认为，这些现代人类近亲的基因可能会增加患抑郁症等疾病的风险，但也增强了现代人的免疫系统，影响眼睛和头发的颜色，以及对太阳的敏感度。但对冰岛居民的基因分析对这些观点提出了挑战。丹麦 Aarhus 大学的研究人员扫描了 27,566 名冰岛人的完整基因组，寻找不寻常的古代基因变异。他们发现，冰岛人继承了 3.3% 的丹尼索瓦人的基因，12.2% 未知来源（84.5% 来源于尼安德特人近亲）。研究人员计算了尼安德特人和丹尼索瓦人 DNA 与 271 种性状的关系。他们发现大多数性状都可以用现代基因变异解释，只有 5 个性状受到了古代基因的显著影响。尼安德特人和丹尼索瓦人 DNA 与各种身体特征和疾病之间的关系不具有统计学上的显著性。尼安德特人 DNA 对身高或抑郁的影响甚微。

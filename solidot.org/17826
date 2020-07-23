@@ -1,0 +1,48 @@
+➜甲醛是中国发生雾霾的重要因素
+https://www.solidot.org/story?sid=58294	10397
+根据发表在《Geophysical Research Letters》期刊上的<a href="https://agupubs.onlinelibrary.wiley.com/journal/19448007" target="_blank"><u>一项研究</u></a>，科学家发现了造成中国臭名昭著的冬季雾霾的<a href="https://cn.nytimes.com/china/20181019/china-pollution-formaldehyde-sulfur/" target="_blank"><u>一个新元凶</u></a>。来自哈佛和两所中国大学的科学家报告称，甲醛的释放——主要来自汽车、化工和炼油厂——在产生厚重且有毒的污染中发挥的作用，比人们从前的认知更大。每个冬天，污染让这个国家的大部分地区令人窒息。科学家认为，雾霾中“很大一部分”的硫都是燃煤释放的甲醛和二氧化硫的化学作用下的产物。中国减少雾霾的努力最近集中在降低二氧化硫的排放量上。尽管这些努力已经展示了一些成效，去年冬天，污染记录大幅下降，但研究表明，要提升空气质量，中国可以通过更为直接的努力进一步减少车辆和工业精炼释放的甲醛。
+➜美国宣布将退出《中程导弹条约》
+https://www.solidot.org/story?sid=58295	12379
+美国总统特朗普(Donald Trump)上周<a href="https://edition.cnn.com/2018/10/21/politics/trump-russia-inf-treaty-decision/index.html" target="_blank"><u>宣布</u></a>他计划退出 1987 年达成的《中程导弹条约》，称俄罗斯多年来违反了协议，而美国却一直遵守协议。《<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9%E6%9D%A1%E7%BA%A6" target="_blank"><u>中程导弹条约</u></a>》旨在销毁俄罗斯和美国的中程导弹，降低核冲突风险。美国和北约长期以来一直指责俄罗斯部署了违反条约的巡航导弹。退出条约意味着美国也可以开发和部署类似的武器。中国不是条约签署国，如果中国加入了条约，这将意味着中国现有大约 2000 枚弹道导弹和巡航导弹中有 95% 违反了条约。俄罗斯对此<a href="http://www.ftchinese.com/story/001079876" target="_blank"><u>发出警告称</u></a>，美国退出条约的计划可能导致军事升级，并将对全球安全造成重大打击。分析人士警告说，由于中国不是目前条约的签署国，美国将面临北京方面可能增加导弹能力的风险。特朗普表示，如果美国能与俄罗斯和中国达成新协议，美国将考虑限制其核武器发展。“但是，如果俄罗斯在这么做，中国也在这么做，而我们在恪守协议，那是不能接受的，”他说。
+➜Cairo 1.16.0 释出
+https://www.solidot.org/story?sid=58296	14004
+在 1.14 发布四年之后，2D 图形库 Cairo 释出了<a href="https://www.cairographics.org/news/cairo-1.16.0/" target="_blank"><u> 1.16.0 版</u></a>。Cairo 1.16.0 包含了开发者  Adrian Johnson 在 PDF 功能增强上的大量工作，其中包括恢复对 MacOSX 10.4 的支持，元数据、超链等；字体方面的改进包括彩色 emoji 字形支持，可变字体，修复了多个字体的特质；GLESv3 支持，SVG 单位跟踪，OpenGL ES 3.0 支持，Windows 使用 UTF-8 文件名，等等。更多可浏览发布公告。
+➜流行 jQuery 插件 0day 漏洞被利用至少三年
+https://www.solidot.org/story?sid=58297	17170
+黑客在至少三年时间里<a href="https://www.zdnet.com/article/zero-day-in-popular-jquery-plugin-actively-exploited-for-at-least-three-years/" target="_blank"><u>利用</u></a>一个流行 jQuery 插件的 0day 漏洞植入 Web shells 控制存在漏洞的 Web 服务器。这个插件是<a href="https://github.com/blueimp/jQuery-File-Upload" target="_blank"> jQuery File Upload</a>，其作者为德国开发者 Sebastian Tschan aka Blueimp，它是 GitHub 平台上仅次于 jQuery 框架本身第二受欢迎的 jQuery 项目，被整合到数以百计的项目中。Akama 的安全研究员 Larry Cashdollar  今年早些时候在插件处理文件上传的源代码里发现了漏洞，该漏洞允许攻击者向服务器上传恶意文件，如后门和 Web shells。Cashdollar 称这个漏洞已被广泛利用，至少从 2016 年就开始了。开发者已经释出了  9.22.1 修复了漏洞。Blueimp <a href="https://news.ycombinator.com/item?id=18262790" target="_blank"><u>解释了</u></a>这个漏洞存在的原因：Apache v.2.3.9 的默认设置是不读取 .htaccess 文件，而他犯下的错误在于依赖于 .htaccess 去执行安全控制。他测试的 Apache 服务器启用了 .htaccess，所以他从来没有去检查服务器的默认设置，而 Apache 服务器从 v.2.3.9 起默认不启用 .htaccess。
+➜Mozilla 测试商业 VPN 服务
+https://www.solidot.org/story?sid=58298	18235
+<div align="center"><img src="//img.solidot.org/0/714/licF0YMZbXhg.png" width="450" height="232" align=""><br>
+</div>
+<br>
+Mozilla 将从 10 月 22 日起开始对部分美国用户<a href="https://www.ghacks.net/2018/10/21/mozilla-tests-premium-vpn-service/" target="_blank"><u>测试商业 VPN 服务</u></a>。只有运行  Firefox 62 的美国用户才会收到邀请参与测试。Mozilla 的合作伙伴是  ProtonVPN，它是基于安全保障以及零日志储存等方面的因素挑选 ProtonVPN 作为合作伙伴的。Mozilla 推广 VPN 可能是出于两个方面的理由，其一是改进隐私和安全，其二是创造新的收入来源，避免过于依赖于 Google 这个依赖于收集用户隐私获利的搜索巨头。
+➜日本为什么很少有二手手机
+https://www.solidot.org/story?sid=58299	24794
+日本市场流通的二手手机很少，<a href="http://cn.nikkei.com/industry/itelectric-appliance/32559-2018-10-22-05-00-00.html?start=1" target="_blank"><u>这与日本特殊的商业环境相关</u></a>。日本移动市场占有率最高的手机品牌是苹果的 iPhone。苹果对运营商有奖励销售奖励制度，达到一定的销量就能享有折扣价，因此运营商有更高的动机优先销售新手机，它们还使用了 SIM 锁等机制阻止二手手机流通。但为了避免用户流失，移动运营商会以高价回收手机。这些高价回收的手机并不会流入二手市场，而是流向了中国等市场。在日本市场上流通的二手手机主要是通过二手手机商店如 BOOKOFF 回收的，数量不多，因此二手手机经销商经常抱怨货源太少。
+➜NASA 探索金星载人飞行计划
+https://www.solidot.org/story?sid=58300	28802
+NASA <a href="https://www.newsweek.com/forget-mars-venus-should-be-nasas-next-space-destination-opinion-1171683" target="_blank"><u>最近制定了</u></a>金星的载人飞行计划。<a href="https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F#%E5%A4%A7%E6%B0%A3%E5%B1%A4%E5%92%8C%E6%B0%A3%E5%80%99" target="_blank"><u>金星</u></a>有着太阳系最恶劣的环境，表面覆盖硫酸云雾，地表温度接近500 摄氏度，大气压为地球的 90 倍，铅、锌和锡都以液态存在。尽管如此，金星的大气层上层在太阳系中与地球最为相似。在大气层 30 英里到 40 英里之间，大气压约为地球海平面大气压的一半，在这种条件下你无需穿压力服，也无需隔离，因为这里的温度在华氏 68 度到 86 度，更高的大气层也能抵挡太空电离辐射。NASA 发发表<a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20030067857.pdf" target="_blank"><u>论文</u></a>探讨了金星大气层存在微生物的可能性，NASA 的 Langley 研究中心还发布了<a href="https://youtu.be/0az7DEwG68A" target="_blank"><u>视频</u></a>演示了名为 <a href="https://sacd.larc.nasa.gov/smab/havoc/" target="_blank">HAVOC</a>（代表 High Altitude Venus Operational Concept）的金星大气层探索方法，该项目目前被描述为不再活跃，但随着技术的发展，金星大气层的载人探索计划还是有可能的。
+➜MPlayer 和 VLC 使用的一个库曝出高危漏洞
+https://www.solidot.org/story?sid=58301	29558
+MPlayer 和 VLC 等流行播放器使用的一个媒体串流库 LIVE555 <a href="https://it.slashdot.org/story/18/10/21/1714238/mplayer-vlc-media-player-hit-by-critical-vulnerability" target="_blank"><u>曝出了</u></a>远程代码执行的高危漏洞。LIVE555 支持 RTP/RTCP、RTSP 或 SIP 协议，能处理 MPEG、H.265、H.264、H.263 +、VP8、DV、JPEG、MPEG、AAC、AMR、AC-3 和 Vorbis 等各式的视频和音频，漏洞存在于它的 HTTP 包解析功能中。LIVE555 作者称，该漏洞只影响库的 RTSP 服务器端实现，不影响 RTSP 客户端实现。新版 LIVE555 已经释出修复了漏洞。
+➜Linux 4.19 释出
+https://www.solidot.org/story?sid=58302	33530
+Greg Kroah-Hartman 在内核邮件列表上<a href="https://lkml.org/lkml/2018/10/22/184" target="_blank"><u>宣布</u></a>释出 Linux 4.19。Linux 作者 Linus Torvalds 最近在<a href="https://www.solidot.org/story?sid=57959" target="_blank"><u>休假反省</u></a>，Linux 的开发现在由稳定版内核维护者 Kroah-Hartman 接手。Linux 4.19 的主要新特性包括：基于异步 I/O 的轮训接口，<a href="https://lwn.net/Articles/762570/" target="_blank"><u>L1TF 漏洞补丁</u></a>，<a href="https://lwn.net/Articles/758963/" target="_blank"><u>块 I/O 延迟控制器</u></a>，<a href="https://lwn.net/Articles/758353/" target="_blank"><u>Common Applications Kept Enhanced (CAKE)</u></a>队列管理算法，Wi-Fi 6 (802.11ax) 初步支持，实验性文件系统 EROFS，Intel Cache Pseudo-locking，<a href="https://lwn.net/Articles/748879/" target="_blank"><u>基于时间的包传输</u></a>，改进 RISC-V 架构处理器的支持，其它还有文件系统、硬件、安全、驱动等方面的改进和更新。更多可浏览 kernelnewbies.org 上的<a href="https://kernelnewbies.org/Linux_4.19" target="_blank"><u>介绍</u></a>。
+➜研究称不锻炼对健康的危害甚于吸烟、糖尿病和心脏病
+https://www.solidot.org/story?sid=58303	37199
+运动有助于延年益寿，而不运动则有害健康。现在，发表在《JAMA Network Open》期刊上的一项<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428?resultClick=3" target="_blank"><u>研究</u></a>显示，久坐不动的生活方式对健康的危害<a href="https://edition.cnn.com/2018/10/19/health/study-not-exercising-worse-than-smoking/index.html" target="_blank"><u>甚于</u></a>吸烟、糖尿病和心脏病。克利夫兰诊所（Cleveland Clinic）的研究人员回顾性分析了 1991 年 1 月 1 日到 2014 年 12 月 31 日之间在该机构接受跑步机运动试验的 122,007 名患者，测量了与运动和健身相关的全死因死亡率，参与者中有 12% 的人运动率最低。研究人员称，表现不佳的人的死亡风险比其他人更高，久坐不动的人的死亡风险是表现最出色的人的五倍以上，是吸烟的三倍以上。不锻炼的人的死亡风险比经常锻炼的人高 390%。
+➜马蜂窝被发现大量抓取竞争对手的数据
+https://www.solidot.org/story?sid=58304	38911
+咨询公司乎睿数据<a href="https://people.pedaily.cn/201810/436786.shtml" target="_blank"><u>分析了</u></a>独角兽公司马蜂窝上的 2100 万条评论，与点评、携程等竞争对手上的评论进行对比，发现有 1800 万条是通过程序抓取来的，马蜂窝上至少发现了 7454 个抄袭账号，平均每个账号从携程、艺龙、美团、Agoda、Yelp 上抄袭搬运了数千条点评，合计抄袭 572 万条餐饮点评，1221 万条酒店点评，占到马蜂窝官网声称总点评数的 85%。除此之外，它的许多活跃账号活跃时间一致，怀疑也是假账号。马蜂窝对此回应称，这与事实和第三方机构数据<a href="http://tech.sina.com.cn/zt_d/mafengwo/" target="_blank"><u>都严重不符</u></a>。
+➜高脂肪饮食增加小鼠体重
+https://www.solidot.org/story?sid=58305	41085
+对小鼠的研究<a href="https://cn.nytimes.com/health/20181022/which-kinds-of-foods-make-us-fat/" target="_blank"><u>发现</u></a>，最有可能导致其体重增加的饮食是高脂肪饮食。<a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30392-9" target="_blank"><u>研究报告</u></a>发表在《Cell Metabolism》上，研究结论未必适用于人类。在实验中，研究人员随机将 29 种不同饮食中的一种分配给数百只成年雄性小鼠。有些食物以饱和及不饱和脂肪的形式提供最多达 80% 的卡路里；另一些则脂肪很少，大部分是碳水化合物；或含有极高或极低百分比的蛋白质。这些小鼠保持相同的饮食三个月同时允许它们随意进食和在笼子里走动。然后研究人员测量小鼠的体重和身体组成，并检查其脑组织是否存在基因活动被改变的证据。研究人员发现，变得肥胖的小鼠吃得基本上都是高脂肪饮食。这些小鼠在与处理奖励相关的大脑区域中也显示出基因活动被改变的迹象；显然肥的食物让它们开心。
+➜八个成人网站用户数据泄露
+https://www.solidot.org/story?sid=58306	45562
+wifelovers.com、asiansex4u.com、bbwsex4u.com、indiansex4u.com、nudeafrica.com、nudelatins.com、nudemen.com 和 wifeposter.com 等八个成人网站的<a href="https://arstechnica.com/information-technology/2018/10/hack-on-8-adult-websites-exposes-oodles-of-intimate-user-data/" target="_blank"><u>用户私密信息泄露</u></a>，这些网站允许用户上传配偶的私密照片，至于配偶是否同意就不得而知了。泄露的信息包括了 IP 地址、简单加密的用户密码、120 万电子邮件地址。这些私人电邮地址很容易通过搜索指向用户在其他大型网站如亚马逊和 Instagram 上的账号。Have I Been Pwned 创始人 Troy Hunt 认为这次信息泄露可能会影响到用户的真实生活。泄露的密码使用的加密非常简单，意味着明文密码很容易破解出来，如果用户在其它网站上重复使用密码，那么他们最好赶快修改密码。
+➜蓝色药丸大幅减少艾滋病新病例
+https://www.solidot.org/story?sid=58307	47023
+对 Gilead Sciences 公司蓝色药丸 Truvada 对高危人群如同性恋和双性恋男性中间展开的大规模测试显示，这种抗病毒药物<a href="https://www.bloomberg.com/news/articles/2018-10-17/a-blue-pill-is-stopping-hiv-world-first-study-shows" target="_blank"><u>大幅减少了</u></a>艾滋病新感染病例，新病例下降了大约三分之一。<a href="https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(18)30215-7/fulltext" target="_blank"><u>研究报告</u></a>发表在《Lancet HIV》医学期刊上。研究结果可能为暴露前预防的治疗方法去阻止病毒扩散铺平道路。
+➜Linus Torvalds 重新负责内核开发
+https://www.solidot.org/story?sid=58308	47813
+在休假反省一个多月之后，Linus Torvalds <a href="https://www.zdnet.com/article/linus-torvalds-is-back-in-charge-of-linux/"><u>又回来了</u></a>。10 月 22 日爱丁堡举行的欧洲开源峰会上，Linus Torvalds 将与内核维护者们碰头，这是他重新接管内核开发的第一步。一个多月前，他在内核邮件上对自己过去的行为表示反悔，对因为他的言行而受到伤害的人表示道歉，他表示需要离开一段时间，需要帮助来更恰当的理解一个人的情绪和反应。他的离开并不是“心力交瘁”式的退出，他仍然想要继续维护 Linux，即使他已经在这个项目上工作了将近 30 年，他仍然强烈的想要继续做这项工作。现在，反省结束了，临时接手 Linux 4.19 开发的稳定版维护者 Greg Kroah-Hartman <a href="https://lwn.net/Articles/769110/" target="_blank"><u>宣布</u></a>下一个版本由  Torvalds 负责。在 Linux 4.19 发布之后，下一个版本的合并窗口启动，至于下个版本叫 4.20 还是 5.0 都将由 Torvalds 决定。

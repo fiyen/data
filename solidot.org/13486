@@ -1,0 +1,40 @@
+➜源自Quake3的快速求InvSqrt()函数
+https://www.solidot.org/story?sid=1376	8760
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"人们很早就在Quake3源代码中发现了如下的C代码，它可以快速的求1/sqrt(x)，在3D图形向量计算方面应用很广。<br>
+float InvSqrt(float x){<br>
+&nbsp;&nbsp;&nbsp;  float xhalf=0.5f*x;<br>
+&nbsp;&nbsp;&nbsp;    long i=*(long*)&x;<br>
+&nbsp;&nbsp;&nbsp;    i=0x5f3759df - (i&gt;&gt;1);<br>
+&nbsp;&nbsp;&nbsp;     x=*(float *)&i;<br>
+&nbsp;&nbsp;&nbsp;     x=x*(1.5f-xhalf*x*x);<br>
+&nbsp;&nbsp;&nbsp;     return x;<br>
+}<br>
+<a href="http://www.beyond3d.com/articles/fastinvsqrt/">Beyond3D.com的Ryszard Sommefeldt</a>一直在想到底是哪个家伙写了这些神奇的代码？2003年Chris Lomont还写了一篇<a href="http://www.lomont.org/Math/Papers/2003/InvSqrt.pdf">文章</a>（PDF)对这些代码进行了分析。毫无疑问写出这些代码的人绝对是天才。"</i>
+是John Carmack？Michael Abrash？John Carmack在邮件回复中明确表示不是他，也不是Michael，可能是Terje Matheson。于是侦探Ryszard又向Terje Mathisen寻求答案。Terje说他写过类似的高效代码，但上面的不是。他猜测可能在MIT的旧文档中可以找到。Ryszard的求证之路显然无止境。
+➜另一位侵入NASA的黑客被控诉
+https://www.solidot.org/story?sid=1377	18300
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"在今年上半年英国黑客<a href="http://it.slashdot.org/it/06/12/03/2059236.shtml">Gary McKinnon被引渡到美国</a>，他曾经侵入NASA等美国政府部门的电脑目的是寻找外星人的踪迹。而现在<a href="http://news.zdnet.com/2100-1009_22-6140001.html">另一位黑客因为侵入了超过150台美国政府的电脑而受到指控</a>。罗马尼亚人26岁的Victor Faur，被指控领导“white hat team”对美国政府的电脑进行的攻击。"</i>
+看起来当我在玩游戏的时候有一些人正忙着侵入政府系统。<i>"
+那些被侵入的电脑被用来收集和处理来自太空飞船的数据。因为被非法侵入系统不得不重建，科学家不得不自己动手与太空飞船进行联系。NASA因此损失了136万美元，能源部和海军也损失了近10万美元。另外几个涉嫌侵入NASA的黑客也正受到法律指控。"</i>
+➜中国没有伪科学？
+https://www.solidot.org/story?sid=1378	21780
+<a href="mailto:nings360@gmail.com">nings</a> 写道 <i>"中国科学院自然科学史所研究员宋正海发起“废除伪科学”学者<a href="http://news.163.com/06/1204/04/31FKKB3A0001124J.html">签名活动</a>，称“伪科学”被人滥用，打击了我国的传统文化和民间科学。该活动征集到150名学者的签名支持，宋正海称将尽快把这些签名的文件送到科技部有关领导。何祚庥等院士则认为这场签名活动“非常荒唐”。<br>
+有网友评论说，向倡导科学的部门提出废除伪科学的建议，太荒诞的想法了，应该征求成立玄学部的建议直接递交国务院。"</i>
+➜Democracy Player推出0.9.2版
+https://www.solidot.org/story?sid=1379	21900
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"<a href="http://getdemocracy.com/">Democracy Player</a>，一个开源的RSS视频和播放器，现在已在Windows，Mac和Linux各个平台上发布了 0.9.2.1版。如果你还没有试过，现在可就不能错过。这款软件反应更快也更稳定，内存占用也不多，甚至还集成了BT下载。Democracy可以寻找和播放你最喜欢的视频。他的市场占有也在快速增加。"</i>
+下载<a href="http://www.getdemocracy.com/downloads/windows_front.php">Windows</a>，<a href="http://www.getdemocracy.com/downloads/osx_front.php">Mac OS X</a>，<a href="ftp://ftp.osuosl.org/pub/pculture.org/democracy/src/">Linux Source</a>。
+➜公司无视Vista
+https://www.solidot.org/story?sid=1380	24000
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"那些希望Vista的发布能够引发一阵巨大潮流的人可能将非常失望。当Vista向企业用户提供的时候，<a href="http://www.businessweek.com/technology/content/nov2006/tc20061129_739121.htm?campaign_id=bier_tcd.g3a.rss1130n">他们却并不关心</a>。Office 2007的情况也是如此。为什么？理由并不仅是认为适用新功能有困难。"</i>
+商业周刊报道<i>"
+Office 2007完全是新的面貌，保存Word和Excel也采用了新的文档格式。新的外观需要花些时间才能熟悉，而对于新的文件格式，通用的格式本意是为了让用户使用更容易，但是这也意味着那些使用旧版本Office的用户在打开使用新技术的文档和电子表格时将不得不下载一个程序。"</i>
+➜金字塔是用混凝土而不是石头建成
+https://www.solidot.org/story?sid=1381	27960
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"泰晤士报报道法国和美国的研究人员发现埃及大金字塔的上部石头是<a href="http://www.timesonline.co.uk/article/0,,13509-2480751,00.html">用混凝土浇灌而成</a>，底部则是天然石灰石。即便到现在地质学家还是很难分辨自然的石灰石和那些用液体石灰重新组成的石头。科学家们表示他们在表面发现了剧烈化学反应的痕迹而不是自然结晶。但这种反应仍然无法解释比如石头挖掘出来，但很完美。混凝土专家称他们还不能最后确认，除非埃及政府同意他们取样。"</i>
+研究报告将发表在12月的<a href="http://www.ceramics.org/">American Ceramic Society</a>上。
+➜用来预测谁会杀人的软件
+https://www.solidot.org/story?sid=1382	32520
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 中国山东某法院曾推出量刑软件，而大洋彼岸的美国则要用软件来判断谁会杀人。<i>"
+<a href="http://www.crim.upenn.edu/faculty_berk.htm">Richard Berk</a>，宾夕法尼亚大学的犯罪学家，正在开发一种<a href="http://www.kansascity.com/mld/kansascity/news/breaking_news/16155226.htm">软件来预测谁会犯杀人罪</a>。这个工具使用30到40个变量进行计算，然后产生一个与未来命运相关的分数。Berk说“想象一下这个指示器可能会指出某个人会有暴力行为：年轻，早些年曾经犯过一系列罪，男性而不是女性，等等。各自分开来也许不能判断一个人会成为罪犯。但是综合起来你能够感觉到一场可怕的暴力之风将席卷而来。”当被问道指示器作为可靠的杀人预测突出什么方面。Berk指出一个流行的看法是：年轻人更有暴力倾向。"</i>
+这个软件明年春天将开始在费城缓刑审查部门进行试验。它的目的是首先作为一个鉴别方法提供服务，哪些从前的罪犯会可能再次成为威胁。

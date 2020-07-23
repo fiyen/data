@@ -1,0 +1,51 @@
+➜任天堂考虑业务核心从游戏机转移
+https://www.solidot.org/story?sid=59067	12610
+任天堂曾打开了全球的游戏市场，但与硬纸板联动的“任天堂 Labo” 销售低迷，在智能手机游戏方面也慢人一步。任天堂曾经的创新力衰退了吗？社长谷川俊太郎接受采访时<a href="http://cn.nikkei.com/industry/itelectric-appliance/33643-2018-12-25-09-54-34.html"><u>表示</u></a>，从长远来看，业务的核心可能从家用游戏机发生转变。他说，正在思考减少业绩波动幅度的方法。希望扩大可持续获得收入的智能手游业务。此外为了让消费者在日常生活中更多地接触游戏和游戏角色，还开始涉足主题公园和电影等业务。希望能与游戏业务产生很好的乘积效果。
+➜harbian-audit v0.2发布：云主机镜像
+https://www.solidot.org/story?sid=59068	13322
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "<a href="https://github.com/hardenedlinux/harbian-audit" target="_blank">harbian-audit</a>是两个安全部署合规参考实现STIG和CIS的合集，在<a href="https://www.solidot.org/story?sid=58819" target="_blank">发布了v0.1</a>之后，社区用户测试给予了一些反馈后修复了一些bug，HardenedLinux于2018圣诞节<a href="https://github.com/hardenedlinux/harbian-audit/tree/v0.2.0" target="_blank">正式发布harbian-audit v0.2版本</a>，我们制作了满足harbian-audit安全部署的AMI云主机镜像，目前AWS的三个区（EU(Frankfurt), Asia Pacific(Tokyo), US East(Ohio)）的用户都可以免费使用，对于那些不愿意使用"<a href="https://www.gnu.org/philosophy/can-you-trust.html" target="_blank">Someone else's computer</a>"的私有云用户我们也提供了<a href="https://drive.google.com/file/d/1osqL0REFisSedOhL04dupC1aDM6jVpdm/view?usp=sharing" target="_blank">QEMU镜像</a>，至于那些无法信任HardenedLinux社区制作镜像的用户也没关系（毕竟镜像签名密钥的周期只有一年-_-），HardenedLinux社区已经公开了<a href="https://github.com/hardenedlinux/harbian-audit/tree/v0.2.0/docs/complianced_image" target="_blank">如何制作AWS和QEMU镜像以及如何把harbian-audit应用到云主机镜像的文档</a>。
+<br>
+<br>
+Btw：介于AWS的CIS镜像<a href="https://aws.amazon.com/marketplace/pp/B078TPXMH2#pdp-pricing" target="_blank">收费0.02刀每小时</a>，harbian-audit v0.2应该可以算是HardenedLinux分发给社区的圣诞礼物吧，Merry Christmas! May the L0rd's hacking spirit guides us in 2019!"</i>
+➜.tk 仍然是最流行的国家顶级域名
+https://www.solidot.org/story?sid=59069	13618
+中国是人口最多的国家，但 .cn 并不是注册数量最多的国家顶级域名，鲜为人知的太平洋岛国托克劳（Tokelau）的 .tk 却<a href="https://www.zdnet.com/article/why-a-tiny-island-is-still-a-domain-name-giant/"><u>成为了最受欢迎的国家顶级域名</u></a>。你可能想知道为什么，其实很简单，因为免费。.tk 的域名数量曾在 2016 年达到 3100 万，2018 年还有 2120 万，仍然高于 .cn 的 2080 万。 .cn 的域名数量过去两年 1700 万增长到 2080 万。
+➜为什么年轻夫妇不想要多个孩子
+https://www.solidot.org/story?sid=59070	18029
+中国的计划生育政策已经转向了鼓励生育，但即使生育限制完全放开，年轻一代的生育欲望依旧非常低，年轻夫妇接受采访时<a href="https://www.nbcnews.com/news/world/beijing-eyes-two-child-policy-u-turn-lonely-generation-has-n949291" target="_blank"><u>谈论了他们不想要孩子或多个孩子的理由</u></a>：高昂的教育、医疗保健和住房成本。27 岁的 Wu Shuai 在与妻子讨论后决定至少三年不要孩子，他的妻子则响应国家政策想要生两个孩子；42 岁的 Zhang Haijian 说，一个孩子都让他们喘不过气了，他们已经不堪教育、医疗、住房、照顾年长父母的重负了，养育一个孩子的负担就让他们感到压力太大，Zhang 说一个孩子会感到孤独，但如果不孤独的话父母就要过劳死了。一些女性认为，鼓励生育的政策是一种侮辱。以前女性被告知不要生孩子，现在她们又被告知要生更多的孩子，国家从来不尊重女性。
+➜更多证据支持老年痴呆会传染
+https://www.solidot.org/story?sid=59071	19261
+神经科学家<a href="http://news.sciencenet.cn/htmlnews/2018/12/421401.shtm"><u>已经收集了更多的证据支持这一假说</u></a>，即作为神经退行性疾病标志的黏性蛋白质，可以在特定条件下在人与人之间传递，并对接受者的大脑造成新的损害。“我们发现β淀粉样蛋白病理可以通过医源性方式进行人际传播。” 领衔该研究的英国伦敦大学学院神经病学家 John Collinge 在电话新闻发布会上表示，“虽然这种风险可能性很小，但我们迫切需要对此进行研究。”Collinge 表示，他们的研究并没有表明阿尔茨海默氏症等疾病具有传染性，但它确实引发了担忧，即某些医疗手段和外科手术可能会在人类之间传递这种蛋白质，而这种蛋白质可能在几十年后导致脑部疾病。
+➜贵州出现全方位监控学生的“智能校服”
+https://www.solidot.org/story?sid=59072	24857
+<a href="/~pu">pu</a> 写道 <i>"<a href="https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx1f1e6138438b16bb&amp;redirect_uri=http%3A%2F%2Fm.qbitai.com%2Fwechat%2Farticle%2Fdetail%2F37830%3F_url%3D%252Fwechat%252Farticle%252Fdetail%252F37830%26_url%3D%252Fwechat%252Farticle%252Fdetail%252F37830%26from%3Dgroupmessage%26topicId%3D10176&amp;response_type=code&amp;scope=snsapi_userinfo&amp;state=1#wechat_redirect" target="_blank">智能校服</a>（微信，<a href="https://t.cj.sina.com.cn/articles/view/6105753431/16bee675702000ehk2"><u>替代地址</u></a>）亮相中国西南一所中学，内置芯片精准、及时记录学生的进出时间和具体位置，一时间讨论热烈。只要身着这套校服，学生进出校门的准确时间就会自动发送给学校老师和家长。如果未经许可出校门，那也会激活自动语音报警器。而且校服还会配合校门口的智能摄像头一起使用，假如学生互换校服，警报也会响起。总之，人脸、校服和摄像头，三合一确保学生身份。"</i>
+➜支付宝开源前端加入圣诞节彩蛋，被紧急撤回
+https://www.solidot.org/story?sid=59073	25245
+蚂蚁金服开源前端框架 Ant Design 的开发者在代码中加入了圣诞节彩蛋，于 12 月 25 日生效，该彩蛋会给所有按钮添加积雪效果，并增加 Ho Ho Ho! 的浏览器默认提示信息。彩蛋无法被关闭，使用该框架的开发者纷纷在 GitHub 上<a href="https://github.com/ant-design/ant-design/issues/13830"><u>抱怨</u></a>彩蛋的问题，有开发者上传<a href="https://user-images.githubusercontent.com/16831715/50410538-8b4e5900-0834-11e9-97b8-f9f3af08b016.jpg"><u>截图</u></a>称共产党思想理论数字传播中心的登录按钮出现了积雪效果。蚂蚁金服的开发者<a href="https://github.com/ant-design/ant-design/issues/13848"><u>紧急撤回了该变更</u></a>，这位开发者称整件事是个人所为，影响版本 3.9.3、3.10.0 ~ 3.10.9、3.11.0 ~ 3.11.5，他们已经回滚了相关代码并发布了修订版本：3.9.4、3.10.10、3.11.6。圣诞节虽然是全球性节日，但不是所有人都过圣诞节。
+➜美国政府向量子计算研究投资 12 亿美元
+https://www.solidot.org/story?sid=59074	27926
+美国总统特朗普签署了法案 The National Quantum Initiative Act (H.R. 6227)，将在未来五年向量子计算研究<a href="https://science.slashdot.org/story/18/12/24/1756214/trump-signs-legislation-to-boost-quantum-computing-research-with-12-billion" target="_blank"><u>投资 12 亿美元</u></a>。量子计算虽然离我们还有些距离，但它被认为是下一次技术革命，白宫总统科技政策副助理 Michael Kratsios 在一份声明中称，量子计算将会对就业、经济增长和国家安全产生深远影响。量子计算被认为将会更容易的破解现有的加密技术，美国国家科学院在一份报告中认为为了保护商业和国家安全需要尽快开发“后量子”加密协议。量子信息科学研究被认为能带来新型的量子处理器、传感器，导航工具和安全系统。
+➜2018 年 Google 搜索量最高的电视剧是延禧攻略
+https://www.solidot.org/story?sid=59075	28979
+尽管谷歌在中国基本被屏蔽，但电视剧《延禧攻略》（Yanxi Palace）成为 2018 年全世界在谷歌上<a href="https://trends.google.com/trends/yis/2018/GLOBAL/"><u>搜索量</u></a>最多的电视剧。谷歌的分析<a href="https://www.bbc.com/zhongwen/simp/chinese-news-46671070"><u>显示</u></a>，对该剧兴趣最大的人群来自新加坡、马来西亚、文莱和香港等亚洲地区，但这部连续剧在中国内地的人气也势不可挡。在视频网站爱奇艺上，《延禧攻略》的播放量已超过 150 亿次。今年 7 月，该剧在爱奇艺首播，随后才进入中国国内电视频道和 70 多个海外市场。它蝉联今年夏天中国观看人数最多的网络剧 39 天。《延禧攻略》共 70 集，它改编自 18 世纪清代乾隆皇帝的妃子之间权力斗争的故事。
+➜美国地质勘探局因政府关门无法提供印尼海啸数据
+https://www.solidot.org/story?sid=59076	30878
+上周六发生的<a href="https://en.wikipedia.org/wiki/2018_Sunda_Strait_tsunami" target="_blank"><u>印尼巽他海峡海啸</u></a>造成至少 429 人死亡 1,459 人受伤。通常<a href="https://www.usgs.gov/" target="_blank"><u>美国地质勘探局（USGS）</u></a>会及时向公众提供必要的灾难数据，但由于周六美国总统特朗普拒绝签署不包含南部边境围墙建造资金的支出法案，美国政府部分机构因此关闭。USGS 是受政府关门严重影响的机构之一。根据政府关闭应急计划，USGS 将只保留它 8032 名雇员中的 75 人，即占雇员总数的 0.9%，<a href="https://news.slashdot.org/story/18/12/25/0628251/us-geological-survey-unable-to-provide-indonesia-tsunami-data-due-to-government-shutdown"><u>它将暂停其大部分活动</u></a>。
+➜东日本铁路呼吁旅客站在自动扶梯的两侧
+https://www.solidot.org/story?sid=59077	34322
+旅客使用地铁或火车站的自动扶梯时，通常是站在一侧，空出另一侧给着急的旅客快速前行。但一侧完全留空显然存在安全隐患，步行者可能会跌倒，由于没有遮挡，可能会跌很远。出于安全考虑部分城市正试图改变这种习惯性做法。东日本铁路公司就发起倡议呼吁旅客<a href="https://tech.slashdot.org/story/18/12/24/1241234/tokyo-wants-people-to-stand-on-both-sides-of-the-escalator" target="_blank"><u>站在自动扶梯的两侧</u></a>。东日本铁路贴出的警告称，在自动扶梯上步行可能会发生碰撞或行李导致的事故，如果旅客真的很着急，他们可以使用楼梯上下行。到目前为止，有部分人改变了做法，但大部分上班族还是会在自动扶梯上行走。
+➜北京加强视听节目的内容监管
+https://www.solidot.org/story?sid=59078	43738
+作为国内多个重要网站的所在地，北京公布了《<a href="http://xwgdj.beijing.gov.cn/zwxx/tzgg/201812/t20181224_5386.html"><u>北京市广播电视局关于进一步加强广播电视和网络视听文艺节目管理的实施细则</u></a>》，进一步加强了网络视听内容的监管，要求网络节目与电视台播出的内容标准相同。通知要求：“严格执行总局相关规定要求，加强节目题材把关，严控偶像养成类节目、影视明星子女参与的综艺娱乐和真人秀节目，进一步减少明星参与的娱乐游戏、真人秀、歌唱选拔类节目。鼓励扩大新闻、经济、文化、科教、生活服务、动画和少儿、纪录片、对农等公益节目播出量，支持制作播出更多优质原创节目”，“严格执行总局综艺节目提前报备规定，每个节目全部嘉宾总片酬不得超过节目总成本的 40%，主要嘉宾片酬不得超过嘉宾总片酬的 70%。严格执行电视剧网络剧（含网络电影）成本配置比例行业自律规定，每部电视剧网络剧（含网络电影）全部演员片酬不超过制作总成本的 40%，其中主要演员不超过总片酬的 70%...切实执行'四个坚决不用'的标准”。所谓的四个坚决不用是指“对党离心离德、品德不高尚的演员坚决不用；低俗、恶俗、媚俗的演员坚决不用；思想境界、格调不高的演员坚决不用；有污点有绯闻、有道德问题的演员坚决不用”，这无疑是一个模糊的标准。
+➜火星北极附近发现充满冰的陨石坑
+https://www.solidot.org/story?sid=59079	45218
+<div align="center"><img src="//img.solidot.org/0/773/liK4HXTwmoQCU.jpg" width="450" height="253" align=""><br>
+</div>
+<br>
+ESA 的火星快车号探测器在北极附近<a href="https://www.nbcnews.com/mach/science/ice-filled-crater-mars-looks-huge-alien-skating-rink-ncna950681"><u>发现了</u></a>一个充满冰的陨石坑（如图所示）。照片显示的是 Korolev 陨石坑，是一个蝶形的盆地，有 51 英里宽，超过 1 英里深。它包含了大约 530 立方英里的冻冰。照片由火星快车号拍摄的五张照片拼接而成。科学家称，这个陨石坑靠近极地冰盖，内部海拔更低阴影更多，因此创造了一个冰能稳定起来的冷阱。今年早些时候火星快车号上的仪器还在火星南极表面之下发现了含有大量液态水的储层。
+➜中国 2018 年完成 23 次发射
+https://www.solidot.org/story?sid=59080	46328
+12 月 25 日，中国在西昌卫星发射中心使用长征三号丙运载火箭<a href="https://www.nasaspaceflight.com/2018/12/long-march-3c-secretive-tjsw-spacecraft/" target="_blank"><u>完成了</u></a>今年的第 23 次也是最后一次发射。火箭将通信技术试验卫星三号送入轨道。通信技术试验卫星一号是在 2015 年 9 月 12 日发射的，中国官方称它是测试通信技术的卫星，运行在地球静止轨道，但外界普遍认为它是一颗导弹防御预警卫星，用于探测弹道导弹攻击。通信技术试验卫星二号是在 2017 年 1 月 5 日发射，同样充满神秘。通信技术试验卫星三号的性质也所知不多。
+➜IBM 将使用三星的 7 纳米工艺制造 Power 和 z CPU
+https://www.solidot.org/story?sid=59081	47598
+IBM 与三星晶圆厂签署协议，将使用三星的 7 纳米 EUVL 工艺<a href="https://www.anandtech.com/show/13740/ibm-samsungs-7nm-euv-power-z-cpu" target="_blank"><u>制造它的下一代处理器</u></a>，处理器将用于  IBM Power Systems、IBM z 和 LinuxONE Systems。IBM 此前的合作伙伴是 GlobalFoundries，在今年早些时候 GlobalFoundries 出人意料的宣布将放弃发展 7 纳米工艺。这一决定影响到了它的长期合作伙伴 AMD 和 IBM，AMD 随后宣布将使用台积电的 7 纳米工艺制造它的下一代处理器，现在 IBM 宣布使用三星的 7 纳米工艺。

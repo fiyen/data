@@ -1,0 +1,70 @@
+➜伊朗封锁所有VPN端口
+https://www.solidot.org/story?sid=26345	4320
+<a href="http://opennet.net/research/profiles/iran">伊朗</a>是互联网封锁最广泛和最严密的国家之一，社交网站如Facebook、Youtube、Orkut、MySpace和Twitter皆遭到屏蔽，迫使伊朗网民使用VPN等工具绕过<a href="http://en.wikipedia.org/wiki/Censorship_in_Iran">审查</a>。然而现在，伊朗的互联网封锁<a href="http://yro.slashdot.org/story/11/10/06/1328211/Iran-Blocks-VPN-Ports">深入到了新的地步</a>：从2011年9月30日起，所有VPN端口<a href="http://www.stopfundamentalism.com/index.php?option=com_content&amp;task=view&amp;id=1207&amp;Itemid=">都被封锁</a>，伊朗正朝着建立“清真局域网”大步前进。<a href="http://zh.wikipedia.org/wiki/TCP/UDP%E7%AB%AF%E5%8F%A3%E5%88%97%E8%A1%A8">TCP/UDP端口</a>共有65535个，目前不清楚伊朗是否真的把几万个端口全部屏蔽，只留下HTTP服务80端口等少数。有伊朗网民<a href="http://yro.slashdot.org/comments.pl?sid=2463106&amp;cid=37625358">报导</a>，国家媒体称用于创建VPN连接的PPTP、IpSec和L2TP协议被屏蔽，他的VPN已经无法连接。不过，VPN连接也可以使用80端口。
+➜Google Android Market疑遭屏蔽
+https://www.solidot.org/story?sid=26346	5100
+中国的Android移动用户报告<a href="http://www.blockedinchina.net/?siteurl=market.android.com">无法访问</a>Google官方的应用程序商店<a href="https://market.android.com/">Android Market</a>。Android Market此前也被临时屏蔽过，目前不清楚这次屏蔽<a href="http://techrice.com/2011/10/09/android-market-is-currently-blocked-in-china-here-are-your-alternatives/">是否是长期性的</a>。Google的移动产品如Gmail等也同时被屏蔽。中国的Android用户暂时可以使用第三方应用商店替代，但安全性无法保证，许多<a href="__SLASHLINK__" sect="software" sid="11/10/06/1047252" sn="article" tid="100">Android恶意程序</a>都是在第三方应用商店传播。中国移动和中国联通等运营商出售的Android智能手机没有预装官方的Android Market，而是自家的应用程序商店。
+➜黑客组织逆向工程德国警方使用的恶意程序
+https://www.solidot.org/story?sid=26347	7800
+欧洲黑客组织“混沌计算机俱乐部（CCC）”<a href="http://ccc.de/en/updates/2011/staatstrojaner">逆向工程和分析了</a>德国警方用于合法监听的恶意程序。恶意程序是被人匿名交给CCC的。它的分析发现，警方的间谍程序不仅能获取数据，还具有远程控制或后门功能，可以上传和执行任意的程序。间谍程序被称为Quellen-TKÜ，在目标电脑被感染之后，它能激活电脑上的麦克风和摄像头，给浏览器截图，获得电子邮件等信息。CCC在分析后认为，政府机构对IT系统的秘密渗透必须停止。
+➜Chrome扩展为用户带来远程桌面功能
+https://www.solidot.org/story?sid=26348	9360
+Google发布了<a href="https://chrome.google.com/webstore/detail/gbchcmhmhahfdphkhkmpfmihenigjmpp">Chrome 远程桌面 BETA</a>，基于浏览器的远程桌面扩展。这个扩展可以让用户在一台电脑上控制网络中的另一台电脑，只要它们都运行Chrome浏览器。<i>
+Chrome 远程桌面 BETA支持包括中文在内的数十种语言，支持Windows、Linux、 Mac和Chromebooks，只要输入一个一次性的认证码，用户就可以通过Chrome连接任意两台电脑。Google称，建立的远程桌面会话<a href="http://news.cnet.com/8301-30685_3-20117619-264/chrome-extension-enables-remote-computer-control/">经过了加密</a>。</i>
+➜浏览器启动Linux现在支持永久储存
+https://www.solidot.org/story?sid=26349	11760
+QEMU模拟器项目创始人Fabrice Bellard开发了在JavaScript中运行的模拟器，允许用户在浏览器上<a href="__SLASHLINK__" sect="linux" sid="11/05/17/111231" sn="article" tid="7">启动Linux</a>。现在，另一位开发者<a href="http://linux.slashdot.org/story/11/10/08/1340253/linux-in-javascript-with-persistent-storage">修改了</a>Fabrice Bellard的JS/Linux，允许模拟器启动较新的内核版本linux kernel 3.0.4，同时支持永久储存。开发者创建了一个虚拟块设备，它能在HTML5本地储存中储存数据，块设备可以分区和格式化。修改版<a href="http://stud.hro.nl/0814604/jslinuxdemo/">地址</a>，运行方法是点击<a href="http://stud.hro.nl/0814604/jslinuxdemo/emulator.html">emulator.html</a>，登录名为root。
+➜华西村铸价值三亿金牛庆建村50周年
+https://www.solidot.org/story?sid=26350	18000
+bonnae1982 写道 <i>"据<a href="http://udn.com/NEWS/MAINLAND/MAI2/6641163.shtml">联合新闻网</a>(图文)报道，有“天下第一村”之称的江苏<a href="http://zh.wikipedia.org/zh-hant/%E5%8D%8E%E8%A5%BF%E6%9D%91">华西村</a>8日举行建村50周年庆祝，并同时为楼高328<a href="http://zh.wikipedia.org/zh-hant/%E7%B1%B3_(%E5%8D%95%E4%BD%8D)">公尺</a>的村办事业“华西龙希国际酒店”进行开幕典礼。酒店60楼金汇所内一头由纯金打造的金牛，重达1吨、价值高达3亿多元。
+</i>           由华西村村民每户出资一千万元人民币，筹资卅亿元人民币建起高“黄金酒店”—龙希国际大酒店是全中国第八、全世界第十五最高的大楼，造价高达30多亿元，成为农村第一家超五星级的酒店。建于一九六一年的华西村，位于长江下游南岸，距离大陆最繁华的商业城市上海，约一百五十公里。被华西村村民昵称为“老书记”的吴仁宝表示，华西村的发展经历的5个年代，同时亦为5代的村民带来了幸福的生活，华西村的村办企业销售收入超过500亿元，人均缴税85万元，华西有老村民1855人，就业的不到1000人，人均收入达到8.5万元。在吴仁宝的领导下，华西村趁着邓小平改革开放政策，规划了新农村计划，开办了多项村办企业，包括五金制造业、农业、发电、化纤、酒店、地产和旅游以及到了最近，还经办航空企业和远洋航运等企业。据华西村发言人表示，华西村接近2000个老村民，每户最低存款不低于600万元，子女考上外国大学留洋，可获得教育补贴获甚至全部资助。老村民每户可以低于市价购买三层高的别墅，付款甚至可以从每年的奖金扣除，几乎等于免费入住欧式别墅。村内还有医疗设备先进的诊所，村民每年的体检，更从奖金中扣除，几乎可说是免费。
+<br> <br>但也批评<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111008-%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%9D%9150%E5%91%A8%E5%B9%B4%E5%BA%86%E8%BA%AB%E4%BB%B7300%E4%B8%87%E6%AC%A7%E5%85%83%E9%87%91%E7%89%9B%E6%9D%A5%E8%B4%BA">指出</a>，华西村所谓的村办企业，其实只是挂着村办企业的社会主义外衣，实行资本家剥削之实，因为村企的所有利益，绝大部分都只有老村民可以享受得到，其他来自外地的劳工民工，只能得到微薄的工资。不只如此，目前华西村的领导层，几乎都由吴仁宝家人包办，从而被批评是土皇帝，2003年，吴仁宝的儿子吴协恩<a href="http://ent.sina.com.cn/2003-07-25/0903176386.html">接任</a>村党委书记。中国的另一个共产主义新农村是<a href="http://zh.wikipedia.org/zh-hant/%E5%8D%97%E8%A1%97%E6%9D%91">南街村</a>，不过南街村已被认为是个<a href="http://view.news.qq.com/zt/2008/nanjiecun/index.htm">破灭的神话</a>。"
+➜Windows 8将减少内存使用
+https://www.solidot.org/story?sid=26351	19440
+微软官方博客<a href="https://blogs.msdn.com/themes/blogs/generic/post.aspx?WeblogApp=b8&amp;y=2011&amp;m=10&amp;d=07&amp;WeblogPostName=reducing-runtime-memory-in-windows-8&amp;GroupKeys=">宣布</a>，Windows 8<a href="http://tech.slashdot.org/story/11/10/08/1259218/windows-8-to-reduce-memory-footprint">改进了内存管理</a>，减少了运行时内存使用。<i>
+微软首先在1GB内存机器上比较了Windows 8和Windows 7内存使用：在系统空闲情况下，Windows 7的CPU使用率5%，内存占用404MB；Windows 8的CPU使用率1%，内存占用281MB。随后，微软介绍了Win8内存管理上改进，例如Memory combining技术，高效评估系统正常活动中的内存内容，定位重复内容，释放重复的内容，只保留单一副本。如果以后应用程序要写入内存，系统会给它一个专有副本。其它方面的改进包括；重构旧代码；提供细颗粒度内存管理的新API；用触发器启动和停止服务，而不是让服务一直运行。
+</i>
+➜雄蟋蟀是位“绅士”
+https://www.solidot.org/story?sid=26352	21600
+为了雌性的“名誉”，昆虫也会“以死相搏”。一项新研究发现雄性蟋蟀会冒着生命危险<a href="http://news.sciencemag.org/sciencenow/2011/10/scienceshot-crickets-risk-their.html?ref=hp">保护它们的配偶</a>。<i>
+野蟋蟀一般都是成双或单独生活在洞穴内，如果与配偶一同外出，雄性会呆在距离洞穴较远的地方，而雌性则位于距离洞穴较近的地方。因此一旦遭遇猎食者如喜鹊，雌性会比较容易躲避，而雄性则比较容易被抓住吃掉。当然，雄性紧紧跟着雌性可以赶走其它潜在追逐者，获得更多交配机会，它们也为自己的“绅士”行为赢得了报酬。<a href="http://www.cell.com/current-biology/abstract/S0960-9822(11)00959-6">报告</a>发表在《当代生物学》上。</i>
+➜斯坦福大学免费在线课程10月10日开课
+https://www.solidot.org/story?sid=26353	23280
+斯坦福大学的三门计算机免费线上课程即将于下周一（10月10日）开课---Sebastian Thrun教授和Google研究主管Peter Norvig主讲的<a href="http://www.ai-class.com/">人工智能导论</a>，<a href="http://www.cs.stanford.edu/people/ang/">Andrew Ng</a>教授的<a href="http://www.ml-class.com/">机器学习导论</a>和<a href="http://infolab.stanford.edu/~widom/">Jennifer Widom</a>教授的<a href="http://www.db-class.com/">数据库导论</a>。<i>
+每门课上课时间为期两个月，注册的学生需要在规定时间内单独完成作业（一周）和考试（24小时），没有及时完成的学生将得不到分数。最后成绩达标的学生将会得到斯坦福的证书。目前，人工智能导论的注册人数超过了14.5万，机器学习导论和数据库导论也有数万，这两门课程仍然<a href="http://www.ml-class.org/course/auth/index#register_box">开放</a> <a href="http://www.db-class.org/course/auth/welcome#register_box">注册</a>。教授们鼓励在线上学习的学生组成小组互助学习，如<a href="http://www.reddit.com/r/aiclass">reddit</a>。</i>
+➜新系统自动判断软件对象的交互
+https://www.solidot.org/story?sid=26354	27600
+过去四十年，软件工程中的一大创新是面向对象的编程语言。“对象”实际上是程序的软件库，让程序员从计算细节上转移注意力到更重要的编程任务上。一个复杂的程序有数百万行代码，如果程序员从头开始参与项目，他可以方便对面向对象的程序增添功能；但如果程序员是中途进来参与大项目，了解现有对象的互动可能有些难度，需要颇费一段时间。MIT的计算机科学和人工智能实验室的研究人员，将在美国计算机协会的SPLASH会议上介绍一套<a href="http://people.csail.mit.edu/kuat/papers/oopsla11-matchmaker.pdf">新系统</a>(PDF)，能<a href="http://web.mit.edu/newsoffice/2011/object-oriented-oracle-1007.html">自动判断软件中的对象是如何互动的</a>。
+➜亚马逊或将Kindle Fire业务独立出去
+https://www.solidot.org/story?sid=26355	28440
+亚马逊似乎将其Kindle Fire业务<a href="http://fusible.com/2011/10/amazon-spins-off-kindle-fire-products-into-separate-company-called-seesaw/">剥离了出去</a>，创建了一家名叫Seesaw的子公司。<i>
+根据最近向美国专利和商标局申请的<a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=85434021">Kindle Fire</a>和<a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=85435365">Amazon Silk</a>商标，申请者的名字不是亚马逊，而是“Seesaw LLC”。亚马逊还没有对此发表公开声明，不过CNN的科技作者Mark Milian<a href="https://twitter.com/#!/markmilian/status/122715371470991360">表示</a>，以控股公司名义注册商标并不表示Kindle Fire会被分割出去。
+</i>
+➜物理学家首次局域化三维物质波
+https://www.solidot.org/story?sid=26356	30240
+伊利诺斯大学的物理学家首次用实验演示了三维传导是如何受到材料缺陷影响的。理解这些影响对电应用至关重要。<a href="http://physics.illinois.edu/people/profile.asp?bdemarco">Brian DeMarco</a>教授领导的团队首次实现了完全局域化三维量子<a href="http://zh.wikipedia.org/wiki/%E7%89%A9%E8%B3%AA%E6%B3%A2">物质波</a>。<a href="http://news.illinois.edu/news/11/1007waves_BrianDeMarco.html">报告</a>发表在最新一期《科学》杂志上。
+<i>
+材料不可避免会存在缺陷和杂质，但科学家对它们的影响却所知不多。<a href="http://en.wikipedia.org/wiki/Anderson_localization">安德森局域化</a>理论<a href="http://www.hudong.com/wiki/Anderson%E5%B1%80%E5%9F%9F">认为</a>，电子在传导时会被这些杂质散射，多重散射波则发生互相干扰，结果能导致电子的运动停止，金属的导电性消失，呈现出绝缘体的性质。强干扰能让物质波陷入在一个地方，但这一理论推测从未观察到。DeMarco的团队利用超冷原子和激光模拟安德森局域化，演示激光能完全局域化原子，这是首次直接观察到物质的三维安德森局域化。
+</i>
+➜山寨手机衰落
+https://www.solidot.org/story?sid=26357	31320
+《金融时报》报道称，深圳山寨手机制造商面临更为激烈的竞争，<a href="http://www.ftchinese.com/story/001041030">它们的胜景已难再现</a>。<i>
+深圳华强北市场衰落的部分原因，在于更大范围的行业衰落。国内一家行业组织半导体应用联盟副秘书长潘九堂对《每日经济新闻》表示，自今年年初开始，中国近四分之一的山寨手机制造商已放弃了此项业务。另一个重要因素是：今年以来，中国政府加大了对仿冒手机厂商的打击力度。据 iSuppli分析师王阳估算，山寨手机发货量从明年将开始下降，到2015年将降至约1.5亿部。一些山寨手机制造商已经转移到了智能手机领域，但是否能重现往日辉煌还有待市场检验。</i>
+➜中国纪念辛亥革命百年
+https://www.solidot.org/story?sid=26358	33120
+kevin.van 写道 "<a href="http://zh.wikipedia.org/zh-hant/%E8%BE%9B%E4%BA%A5%E9%9D%A9%E5%91%BD">辛亥革命</a>100周年纪念大会今天上午10时许在北京人民大会堂<a href="http://news.inewsweek.cn/news_detail.php?id=14825">举行</a>。胡锦涛、江泽民、吴邦国、温家宝、贾庆林、李长春、习近平、李克强、贺国强、周永康等出席纪念大会。"<i>
+1911年10月10日武昌起义到今天，时间正好过了一百年。这期间，中国发生的变化可谓翻天覆地，但有学者指出，“辛亥革命”仍是一场没走出的革命，在当前世界最大的华人人口群体中，当年的先进者追求的民主、宪政理想，依然任重道远。中国近代史专家、社科院近代史研究员雷颐<a href="http://www.zaobao.com/special/xh100/pages/xh100111009d.shtml">强调</a>“辛亥革命没有死去”，“辛亥革命在大陆，在两岸，在华人社会，直到现在都是很敏感的，我们没有走出辛亥革命。”对于胡锦涛在讲话中称“中国共产党人是孙中山先生开创的革命事业最坚定的支持者、最亲密的合作者、最忠实的继承者”，台湾中央社评论<a href="http://tw.news.yahoo.com/article/url/d/a/111009/5/307p7.html">反驳</a>说，是中华民国政府完成北伐、统一国家；领导抗日、取消不平等条约；还建立民主制度、自由社会；实现均富、繁荣经济，可以说是真正具体落实了孙中山先生提出的民族、民权、民生的三民主义，而这些都与共产党无涉。
+</i>
+➜作家是否应该寻找“资助人模式”
+https://www.solidot.org/story?sid=26359	36000
+电子书的整体价格在下降，即使降至99美分，有些读者也不愿意为此掏钱。因此，一些作家开始考虑新的生活和收入模式，例如文艺复兴时代的“<a href="http://news.slashdot.org/story/11/10/08/1724232/should-book-authors-pursue-a-patronage-model">资助人模式</a>”。<i>
+在文艺复兴时代，作家从其著作销售中得不到一分钱，他们的收入全部来自于富有的资助人，资助人就是他们为之工作的主顾。这套系统运作十分稳定，直到18世纪版权发明后才逐渐被取代。然而如今，版权面临的最大威胁来自于数字复制，数字化让盗版变得愈加容易。在粘贴拷贝之下版权面临死亡。如果这一切发生的话，作家将一无所获，写作将变成业余爱好而不可能是职业。优胜劣汰之后，优秀的作家将会脱颍而出，一些富有的粉丝可以提供资助，让他们专注于写作。
+</i>
+➜Windows Azure在速度测试中战胜Amazon EC2和Google App Engine
+https://www.solidot.org/story?sid=26360	38160
+微软的云计算服务Windows Azure，在为期一年的<a href="http://arstechnica.com/business/news/2011/10/windows-azure-faster-than-amazon-ec2-and-google-app-engine-in-yearlong-cloud-speed-test.ars">云速度测试中战胜了</a>Amazon EC2、Google App Engine和Rackspace等竞争对手。<i>
+这次测试由应用性能管理供应商Compuware利用其测试工具CloudSleuth独立完成，以地图形式实时公布在<a href="https://www.cloudsleuth.net/web/guest/global-provider-view">CloudSleuth网站</a>上，浏览者可以免费查询过去30天的结果，了解各大云计算供应商的响应时间和可用性。它采用的测试方法是模拟请求载入一个电子商务网站，网站包含有两个网页，其中一个网页是容量为1.75MB的大图片。比较有意思的结果是，过去6个小时，从印度孟买骨干网访问位于不同地点数据中心的速度要明显快于北京骨干网。例如：从北京访问Amazon EC2北维吉尼亚数据中心完成网站载入平均需要87秒，超时惊人，Google App Engine无法访问；而从孟买访问同一地点为18秒，可以正常访问Google App Engine。
+</i>
+➜意大利城市周日禁车
+https://www.solidot.org/story?sid=26361	49200
+wmr 写道 <i>"为了减少烟雾污染，意大利北部城市米兰周日白天<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/10/111009_milan_car_ban.shtml">全面禁止汽车行驶10小时</a>。米兰是欧洲污染最为严重的城市之一，当局规定，只要每立方米空气中的污染指数超过50毫克并持续12天，禁令将开始启动。上一次实行禁令的日期是今年2月份。"</i>

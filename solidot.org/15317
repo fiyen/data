@@ -1,0 +1,75 @@
+➜美国议员重推《全球互联网自由法案》
+https://www.solidot.org/story?sid=27362	3900
+从2006年起，美国众议院外交委员会人权小组主席<a href="http://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)">史密斯（Chris Smith）</a>向议会提出了《<a href="http://www.govtrack.us/congress/bill.xpd?bill=h111-2271&amp;tab=summary">全球互联网自由法案（Global Online Freedom Act）</a>》，阻止美国公司向专制政权出售监控其国民的互联网和信息监控技术。<i>
+现在，史密斯称<a href="http://www.dw-world.de/dw/article/0,,15585946,00.html">将重新推动《全球互联网自由法案》</a>，他表示所有在美国证券交易所上市的公司，不管是美国本地的公司或外国公司，都必须坦白说明他们在人权方面是否给予应有的重视；所有在美国的大型企业，包括在美国上市的中国公司，都必须确立最基本的行事准则，不能参与专制政权的网络控制。根据他的提议，在美国上市的17个中国公司，包括百度，必须向美国证券交易委员会提交报告。在外国经营的美国企业如果接获当地政权要求协助搜集或取得相关信息以干预网络，在配合这样的政权之前，美国企业应该先向美国国务院全球互联网办公室及美国司法部报告，美国司法部有权禁止美国企业与这样的政权配合，这样可以使美国企业有理由拒绝当地政府的不当要求。</i>
+➜另一家荷兰CA遭黑客入侵
+https://www.solidot.org/story?sid=27363	4800
+<a href="__SLASHLINK__" sect="internet" sid="11/09/21/0135214" sn="article" tid="54">在DigiNotar之后</a>，另一家荷兰CA Gemnet<a href="http://it.slashdot.org/story/11/12/08/1341224/another-dutch-ca-hacked">遭入侵</a>，黑客还访问了其数据库。Gemnet网站是用PHP-MyAdmin管理，它允许不使用密码就能访问数据库，这可能是就是它被黑的原因。Gemnet网站已经下线，正在进行安全检查。
+➜Cnet就自由软件捆绑广告程序表示道歉
+https://www.solidot.org/story?sid=27364	6120
+网络连接端扫描自由软件Nmap的作者Fyodor<a href="http://insecure.org/news/download-com-fiasco.html">注意到</a>，Cnet旗下的下载网站Download.Com在软件中<a href="__SLASHLINK__" sect="opensource" sid="11/12/07/061227" sn="article" tid="15">捆绑了广告程序</a>，此行为为许可证所不容许。Cnet在网站发表声明对此<a href="http://download.cnet.com/8301-2007_4-57338809-12/a-note-from-sean-regarding-the-download.com-installer/">表达歉意</a>，称捆绑广告是他们的错误，因此向用户和开发社区道歉，表示已经从下载管理器中移除了Nmap，并正在评估所有的开源软件，以确保在开源软件中捆绑广告的事故不再发生。
+➜IBM发布开源EGL语言开发工具
+https://www.solidot.org/story?sid=27365	7800
+IBM<a href="https://www.ibm.com/developerworks/mydeveloperworks/blogs/3e2b35ae-d3b1-4008-adee-2b31d4be5c92/entry/the_open_era_for_egl_begins_today?lang=en">宣布发布</a>新的开源<a href="http://www.eclipse.org/edt/">EGL程序语言开发工具</a>。<i>
+<a href="http://en.wikipedia.org/wiki/EGL_(programming_language)">EGL</a>是IBM设计的面向企业的平台无关高级程序语言，语法类似其它常见语言，EGL程序可以编译成COBOL、Java或 JavaScript代码，以运行在不同平台和浏览器上。它是一种通用的应用程序开发语言。</i>
+➜Rockbox 3.10发布
+https://www.solidot.org/story?sid=27366	8640
+音乐播放器替代固件Rockbox<a href="http://forums.rockbox.org/index.php/topic,29481.0.html">发布了v3.1版</a>。<a href="http://www.rockbox.org/wiki/ReleaseNotes310">新的特性</a>包括：改进目录处理和主题，功能完整的混音器，支持多种游戏音频格式（AY、GBS、HES、KSS、SGC、VGM和VGZ），支持嵌入式专辑标签，改进Ogg Vorbis解码性能，等。Rockbox支持的播放器包括：苹果iPod 1代到5.5代，ipod Mini和ipod Nano 1代和2代；爱可视的Jukebox，爱欧迪的iAudio、艾利和及奥林巴斯的播放器产品。
+➜Twitter Bot淹没反克里姆林宫的声音
+https://www.solidot.org/story?sid=27367	12000
+俄罗斯<a href="http://www.voanews.com/chinese/news/20111206-russia-election-135084283.html">爆发了</a>近几年来规模最大的针对议会选举舞弊的抗议示威，当局对聚集在莫斯科胜利广场的抗议者<a href="http://www.npr.org/2011/12/08/143356663/kremlin-cracks-down-arrests-prominent-critic">展开镇压</a>，拘捕了上千人。和阿拉伯之春类似，抗议者也广泛使用了网络通信手段，例如抗议领袖、反腐败博客Alexei Navalny在Twitter上有超过10万跟随者，他已在周一被逮捕。安全公司趋势科技<a href="http://blog.trendmicro.com/the-dark-side-of-social-media/">发现</a>，俄罗斯政府可能创建了数以千计的Twitter Bot机器人，自动发送信息淹没博客和活动分子发布的Tweet。Brian Krebs<a href="http://krebsonsecurity.com/2011/12/twitter-bots-drown-out-anti-kremlin-tweets/">展示了更多证据</a>，抗议者最初在Twitter上使用标签#триумфальная (胜利广场)，但随后有无数Twitter bot使用相同标签发布了大量支持克里姆林宫的tweet，淹没抗议者的声音。其中许多帐号是在2011年中期自动注册的，都互相跟随，可能有一个主帐号在控制这个Twitter僵尸网络。
+➜人类最早的床在南非发现
+https://www.solidot.org/story?sid=27368	18480
+富兰克林（Benjamin Franklin）的名言“早睡早起让人健康，富有和睿智”，它可能对几百年前的人是适用的，但对于生活在几千几万年前的古代祖先我们就不清楚了，因为根本不知道先祖们睡在哪里，什么时候睡觉。现在，南非的一个研究团队声称<a href="http://news.sciencemag.org/sciencenow/2011/12/earliest-human-beds-found-in-sou.html?ref=hp">发现了最早的睡席</a>，用植物材料制成，时间距今7.7万年。<a href="http://www.sciencemag.org/cgi/content/abstract/334/6061/1388">报告</a>发表在《科学》杂志上。<i>
+威特沃特斯兰德大学Lyn Wadley领导的团队在早期人类生活过的Sibudu洞穴内发现了最早的弓和箭，以及许多覆盖三平米大小的植物残余。他们推测这些是睡席残余。此前发现的最早睡席距今2万到3万年，而居住在Sibudu洞穴的现代人类生活在7.7万年前。睡席可以帮助早期人类抵抗蚊子和其它昆虫。</i>
+➜大陆偷渡客偷渡金门观摩台湾选举
+https://www.solidot.org/story?sid=27369	19680
+台湾总统大选<a href="http://www.tvbs.com.tw/news/news_list.asp?no=betty0045520111208112133">吸引了来自大陆的偷渡客</a>。一位名叫郭智勇的新疆偷渡客，用废弃的保丽龙加竹竿做成船筏，从厦门划了7个小时抵达金门，但立即被海巡署人员逮住。他声称想感受台湾总统大选满街旗海飘扬的感觉。这位偷渡客还声称发明了人权联合制，要帮助台湾推翻来自美国的民主共和制。他还理直气壮认为跨海来自己的国家，哪算是偷渡，“台湾和大陆是不是都属于中华民国，既然是一个国家，那我这样算是偷渡吗，请问你们台湾有人权吗？”<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/12/111208_xinjangtaiwansmuggling_byjames.shtml">警方表示</a>，偷渡客是从互联网上得知台湾正在举行总统选举，除了想观摩选举外，另一目的是宣扬他的人权联合制。
+➜北极熊同类相残
+https://www.solidot.org/story?sid=27370	21840
+2008年8月24日，一位摄影师观察到一只大的北极熊杀死了另一只2到3岁的幼年北极熊。同类相残在动物界并不罕见，格陵兰岛和加拿大的因纽特猎人早就知道成年北极熊会把幼熊杀死为食。这些事件通常发生在陆地上而不是海冰上，但摄影师Jenny Ross称她此后又观察到了二起<a href="http://news.sciencemag.org/sciencenow/2011/12/scienceshotpolar-bear-cannibalis.html?rss=1">发生在海冰上的同类相残</a>，她认为可能是海冰面积越来越小，北极熊找不到食物才会杀死幼熊，并认为这种现象会发生的日益频繁。但也有人认为可能北极熊数量增加所致，根据2009年的<a href="http://pbsg.npolar.no/en/meetings/press-releases/15-Copenhagen.html">数据</a>，北极熊的总数大约在2万到2.5万头之间。
+➜微软可远程移除用户的应用程序
+https://www.solidot.org/story?sid=27371	23400
+微软Windows应用程序商店的<a href="http://windows.microsoft.com/en-US/windows/store-terms-of-use">服务条款</a>允许它出于安全或法律上的原因，<a href="http://yro.slashdot.org/story/11/12/09/0046230/microsoft-can-remotely-kill-purchased-apps">远程移除用户的应用程序</a>。微软还表示，用户需要自己主动备份储存在Windows Store应用程序中的个人数据，包括上传的内容。如果应用程序或内容发生变动或终止，用户的个人数据可能会被删除或无法再取回存储的数据。
+➜仅仅捕食者的声音就能把歌雀吓死
+https://www.solidot.org/story?sid=27372	24840
+罗斯福（Franklin D. Roosevelt）说过，“除了恐惧本身，我们无所畏惧。” 一项研究发现，仅仅听到捕食者的声音<a href="http://news.sciencemag.org/sciencenow/2011/12/songbirds-scared-to-death.html?rss=1">就能减少歌雀后代的数量和成活率</a>。<a href="http://www.sciencemag.org/lookup/doi/10.1126/science.1210908">报告</a>发表在《科学》上。<i>
+西安大略大学生态学家Liana Zanette和同事研究了北美歌雀。他们用网和电栅栏围住鸟巢，防止它们受到捕食者的伤害，然后安装扬声器播放不同动物的声音。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-12/aaft-mfo120511.php">研究人员发现</a>，听到捕食动物声音的歌雀会选择更为隐蔽的筑巢场所，并会减少其觅食活动，使得它们的后代处于不利的地位。结果发现，仅仅是捕食动物的声音会令其每年出生的后代数减少40%。 </i>
+➜17岁高中生因发明灭癌纳米系统获10万美元大奖
+https://www.solidot.org/story?sid=27373	26280
+2011年度西门子数学、科学和技术竞赛<a href="http://www.siemens-foundation.org/en/competition/2011_winners.htm">公布了结果</a>，加州Monta Vista高中的17岁学生Angela Zhang因为“癌症干细胞治疗设计的图像引导、光热控制的药物释放多功能纳米系统”而<a href="http://www.geek.com/articles/geek-cetera/17-year-old-wins-100k-for-creating-cancer-killing-nanoparticle-2011128/">赢得10万美元大奖</a>，此前她还赢得了英特尔的ISEF 2011和2010大奖。她的发明被认为是癌症治疗的瑞士军刀。Angela希望能成为一名专业研究人员。
+➜伊朗公开隐形无人机RQ-170视频
+https://www.solidot.org/story?sid=27374	27600
+前几天伊朗宣称<a href="__SLASHLINK__" sect="mainpage" sid="11/12/08/0722219" sn="article" tid="105">捕获了</a>一架隐形无人机RQ-170 Sentinel，表示无人机的受损程度很低。伊朗官方电视台现在公布了<a href="http://www.youtube.com/watch?v=vorWHmk38yE">视频</a>(YouTube)，显示RQ-170确实<a href="http://www.wired.com/dangerroom/2011/12/iran-drone-video/">接近完好无损</a>。<i>
+伊朗媒体还引用军方消息来源说，俄罗斯和中国都要求观摩美国的RQ-170的残骸。周四公布的视频主要展示了无人机的正面，尾部没有多少展示。中国和俄罗斯对美国的隐形飞机感兴趣并不让人感到意外，两国在隐形技术上都落后于美国，而且都在最近透露了各自的第五代战斗机。巴基斯坦据报让中国调查了突袭本拉登行动中坠毁的隐形直升机的残骸。另据伊朗媒体报道，伊朗军方表示他们没兴趣逆向工程美国的飞机，因为他们自己有更先进的无人机。</i>
+➜《奠边府7554》，越南人的FPS游戏
+https://www.solidot.org/story?sid=27375	29520
+1954年5月7日，法军向越南人民军和游击队投降。越南游戏工作室<a href="http://www.emobigames.vn/">Emobi Game</a>开发的《7554》就是以<a href="http://zh.wikipedia.org/wiki/%E5%A5%A0%E8%BE%B9%E5%BA%9C%E6%88%98%E5%BD%B9">奠边府战役</a>为背景。<i>一次伟大胜
+游戏工作室主管Huy Nguyen Tua称，选择奠边府战役是因为它是越南的利，5月7日象征着越南的强大。他声称越南有1200万玩家，大部分玩网游，但对合法单机游戏的接受度也越来越高，尽管盗版仍然是一大问题。这款游戏将在明年二月登陆美国和法国，售价12美元。他表示，<a href="http://arstechnica.com/gaming/news/2011/12/7554-puts-gamers-in-the-shoes-of-vietnamese-soldier-during-historic-battle.ars">越南的游戏产业处于发展初期</a>，只有四个游戏工作室，主要开发网游，没多少人从事游戏开发。大学也没有游戏开发专业，从业人员主要依靠自学，从失败中吸取教训。 </i>
+➜Windows Store特殊对待开源应用
+https://www.solidot.org/story?sid=27376	31320
+<a href="http://our4.org/weibo/4251.html">冬天来了</a> 写道 <i>"微软在最近对外宣布了 Windows Store 计划，希望 <a href="http://our4.org/701.html">Windows Store成为</a>即将到来的 Windows 8 应用软件的主要供应源，其战略重要性可见一斑。值得一提的是，<a href="http://msdn.microsoft.com/en-us/library/windows/apps/hh694058">Windows Store 的应用开发者协议</a>表明微软将特别对待开源应用：至少在 Windows Store 预览版中，在开源促进会认可的开源协议下发布的开源软件，在开源协议的要求的范围内，可以在与微软标准应用程序许可条款第3部分发生冲突的情况下发布。"</i>
+➜NBA球员误解手热乱投三分
+https://www.solidot.org/story?sid=27377	32040
+观看篮球比赛的人都会注意到，当一名球员命中了一次远距离的三分球后，如果有机会，他接着会再次尝试三分，然而他很有可能会投不中。对三百多名NBA和WNBA职业篮球运动员投篮的统计分析显示，射手的“手热”现象确实存在，<a href="http://arstechnica.com/science/news/2011/12/nba-players-wrong-about-hot-hands-from-three-point-land.ars">但球员并不能确定自己手热</a>，也不能相应调整投篮。<i>
+研究人员跟踪了第一次三分球投篮结果，以及接下来一次三分投篮结果，他们发现球员手气可能会变冷。当投中一球后第二次投篮的命中率比投失一球后第二次投篮的命中率低6%。话句话说，投失一球后接下来一球很可能会投中。二分球投篮结果没多少差异。研究人员还调查了球员如何调整投篮行为：投中一次三分球后球员有41%的可能性会再尝试三分，投失后可能性降至30%。他们并没有意识到投失后下次投中的成功率会更高。</i>
+➜法官裁决博主不是记者
+https://www.solidot.org/story?sid=27378	34560
+一位俄勒冈州法官裁决蒙大纳州的一位博主<a href="http://arstechnica.com/tech-policy/news/2011/12/judge-blogger-not-eligible-for-oregon-media-shield-law.ars">没有资格获得记者所拥有的法律保护</a>。她面临250万美元的诽谤罚款。<i>
+Crystal Cox自称是一名调查博客，她指控Obsidian Finance Group公司在处理破产案件时有非法行为，并建立了众多网站obsidianfinancesucks.com、bankruptcytrusteefraud.com和oregonshyster.com。该公司在今年一月起诉Crystal Cox诽谤，索赔千万美元。上个月陪审团裁决Cox有罪，要求她赔偿250万美元。俄勒冈州的法律对卷入诽谤案的传统媒体记者有特别的保护，他们可免受诽谤诉讼。法官裁决她不是记者，Cox既没有接受过新闻专业培训，也不符合新闻行业标准。</i>
+➜OpenDNS发布DNS加密工具
+https://www.solidot.org/story?sid=27379	35400
+连接客户和ISP的DNS协议安全薄弱已是人人皆知的秘密。为了增强DNS的安全性，OpenDNS发布了一个预览版本的<a href="http://www.opendns.com/technology/dnscrypt/">DNSCrypt</a>，加密DNS流量，类似加密HTTP流量的SSL。DNSCrypt能阻止DNS重放攻击、观察攻击、时序攻击、中间人攻击，以及解析伪造攻击。DNSCrypt支持OS X、OpenBSD、NetBSD、Dragonfly BSD、FreeBSD和Linux，但还没有Windows版本。
+➜老鼠能感受到彼此之间的痛苦
+https://www.solidot.org/story?sid=27380	37440
+移情能让我们感受到他人的痛苦，促使我们帮助他人缓解痛苦。但移情是否是人类独有的特征呢？研究人员为此争论了几十年。现在<a href="http://news.sciencemag.org/sciencenow/2011/12/rats-feel-each-others-pain.html?rss=1">一项新研究显示老鼠也能移情</a>，无私的帮助同类逃离陷阱。<a href="http://www.sciencemag.org/cgi/content/abstract/334/6061/1427">报告</a>发表在《科学》上。<i>
+芝加哥大学的Jean Decety和同事将一些以前不认识的老鼠关在一起，熟悉之后将其中一只放进玻璃容器内。利用商业蝙蝠探测器，他们发现受困陷阱的老鼠发出高频的吱吱叫声，显示它感到很痛苦。容器有扇门可以将它从痛苦中解救出来。经过数期的培训，四分之三的老鼠学会快速打开关押同类容器门。实验中，有些容器关押了老鼠，还有些是空的。老鼠不会打开空的或是含有其它物体的容器，但它们会释放真正关押的老鼠。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-12/aaft-har120511.php">研究人员还发现</a>，雌性比雄性会有更高的比例成为打开笼门者，这与雌性比雄性更富同情心的说法是一致的。</i>
+➜Java企业应用问题代码最多
+https://www.solidot.org/story?sid=27381	38880
+Cast Software使用工具自动<a href="http://www.castsoftware.com/resources/resource/email-campaigns/cast-report-on-application-software-health?gad=HPH">分析了</a>Java-EE、.NET、ABAP、C、C++、Cobol、Oracle Forms和 Visual Basic编写的企业应用程序，总共检查745款企业级程序的3.65亿行代码，寻找影响安全、性能和正常运行的错误编程做法，<a href="http://arstechnica.com/business/news/2011/12/bad-code-plagues-it-applications-especially-java-ones.ars">发现Java-EE程序的问题代码最多</a>。在745款程序中，用Java-EE编程的应用程序最多，占到46%，平均来说问题最多，Cobol和ABAP程序问题最少。.NET程序在安全方面的得分最差，Java 程序主要是在性能上最差。
+➜孔子和平奖颁发，获奖者再次缺席
+https://www.solidot.org/story?sid=27382	39600
+中国一家民间机构主办的孔子和平奖今年授予俄罗斯总理普京。去年该奖颁发给了中国国民党名誉主席连战。两次颁奖仪式上获奖者不仅没有到场，甚至没有听到他们送来的连片言只语，<a href="http://www.voanews.com/chinese/news/20111209-Peace-Prize-Putin-135310893.html">只有一评委发表了充满火药味的批美言论</a>。孔子和平奖评委、北京大学教授孔庆东宣读了普京获奖的理由。他说，普京在担任俄罗斯总统和总理期间，政绩斐然，给俄罗斯人民带来了福祉。特别是，他在2011年春夏之交，坚决反对北约轰炸利比亚，为维护世界和平做出了杰出贡献。他接着抨击了美国:“美国是流氓国家、强盗国家。美国破坏了这个世界上所有人的和平。这个世界上有美国就没有我们的和平。所以需要全世界各国人民起来，跟这个流氓进行斗争。”
+➜德法庭判决苹果侵犯摩托罗拉专利
+https://www.solidot.org/story?sid=27383	56400
+wmr@我是传奇 写道<i> "摩托罗拉起诉苹果的iPhone和3G iPad侵犯了其拥有的一项无线技术专利，德国一家法院判决苹果<a href="http://www.bbc.co.uk/news/technology-16112259">侵权事实成立</a>。摩托罗拉现在可以要求苹果公司去除产品相关功能或在德国停止销售。苹果公司表示将提起上诉。报道说这项专利牵涉到分组无线系统移动台发起传输中倒计数功能的实现。<br>此外，澳大利亚高等法院周五<a href="http://www.usatoday.com/tech/news/story/2011-12-09/australia-apple-samsung/51762094/1">驳回</a>了苹果公司要求在澳禁售Samsung Galaxy Tab 10.1的上诉，这款平板电脑将出现在澳大利亚的圣诞采购市场上。"</i>

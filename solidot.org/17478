@@ -1,0 +1,59 @@
+➜dragonite: 一个针对高丢包网络大幅优化速度的开源双边加速工具与加密SOCKS5代理
+https://www.solidot.org/story?sid=54413	9920
+<a href="http://https://github.com/dragonite-network/dragonite-java/wiki/%E4%B8%BB%E9%A1%B5">dragonite-dev</a> 写道<i> "
+<a href="https://github.com/dragonite-network/dragonite-java" target="_blank">dragonite</a> 是一个在被广泛使用的 finalspeed 停止维护后受其启发而重新开发的新一代双边加速开源项目。项目由一个封装为类似 socket 接口的 dragonite 协议库与多个基于此开发的上层应用组成。
+<p></p>
+<p>
+</p>
+<p>目前包含了：可用于加速任何 TCP 程序的 forwarder 与 一个带有规则系统的加密代理 proxy。</p>
+<p>golang 版本也已经在开发中，欢迎大家部署测试，反馈意见与贡献代码！</p>
+</i>
+<p><i><a href="https://github.com/dragonite-network/dragonite-java" target="_blank">https://github.com/dragonite-network/dragonite-java</a>
+"</i></p>
+➜Twitter 正式将字符数限制放宽到 280 个字符
+https://www.solidot.org/story?sid=54414	12758
+在数周的测试之后，Twitter <a href="https://blog.twitter.com/official/en_us/topics/product/2017/tweetingmadeeasier.html" target="_blank"><u>正式宣布</u></a>将字符数限制放宽到 280 个字符，为原先 140 个字符数的两倍。但这一政策不适用于中文、日文和韩文，这些语言仍然有 140 个字符数的限制，Twitter 给出的理由是这些语言能用更少的字数表达意思，不需要更多的字符数。Twitter 产品经理 Aliza Rosen 在官方声明中指出，放宽到 280 个字符并没有导致用户发表大量填满 280 个字符的帖子，测试一开始确实如此，因为毕竟比较新颖，但很快行为就恢复了正常。他们观察到当用户需要使用到 140 个以上字符时，他们的发推更简单了，也更频繁了。绝大多数用户所发布帖子的字符数<a href="https://blog.twitter.com/engineering/en_us/topics/insights/2017/Our-Discovery-of-Cramming.html" target="_blank"><u>仍然在 140 个以内</u></a>。
+➜中国打击比特币的效果有限
+https://www.solidot.org/story?sid=54415	13053
+中国投资者依然在交易比特币和买入 ICO 销售的代币，这似乎表明，在宣布要关闭比特币交易所数周后，北京方面打击加密货币的努力<a href="http://www.ftchinese.com/story/001074975" target="_blank"><u>难以奏效</u></a>。
+观察人士曾担心，关闭中国境内比特币交易所将导致对比特币的需求急剧下降，因为中国是比特币需求的一大来源。
+结果更多的加密货币买卖转向私人场外交易市场。根据政府背景的研究机构国家互联网金融安全技术专家委员会的一份报告援引的数据，比特币场外交易中人民币交易的份额已从 9 月初比特币交易所被关闭前的 5%，升至一个月后的大约 20%。很多比特币场外交易最初使用腾讯的微信完成，但对监视的担忧促使很多交易者转向安全性更高的加密平台 Telegram。
+➜中国发布监察法草案
+https://www.solidot.org/story?sid=54416	14297
+NPC 官网公布了<a href="http://www.npc.gov.cn/npc/flcazqyj/2017-11/06/content_2032087.htm" target="_blank"><u>《监察法》草案</u></a>（<a href="https://www.chinalawtranslate.com/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9B%91%E5%AF%9F%E6%B3%95%EF%BC%88%E8%8D%89%E6%A1%88%EF%BC%89/" target="_blank"><u>全文</u></a>），意见截止日期为 12 月 6 日。这份草案勾勒出了中国新的、扩大版的国家反腐监察机关的轮廓。与中共掌管下的现有反腐监察机关不同，拟议中的国家监察委员会将对所有政府工作人员和政府机构（而非只是中共党员）都有管辖权。现有反腐机关将在这个新委员会之下进行整合。该委员会将负责监察所有政府部门、国有企业、以及执政的中共内部的组织。除了其他被赋予的权力，这个新委员会还将负责对涉嫌腐败者进行财务方面的监察。这份规章草案还详细介绍了一项旨在取代法外“双规”制度的新留置制度。
+➜新浪调整股权结构
+https://www.solidot.org/story?sid=54417	18811
+新浪上周赢得了与美国对冲基金 Aristeia 之间的代理权之争，周二它<a href="https://cn.nytimes.com/business/20171108/sina-proxy-activists/" target="_blank"><u>调整了股权结构</u></a>，试图避免维权投资者发起进一步的挑战。新浪实际上是把过半数控制权交给了其董事长兼首席执行官曹国伟。新浪面向曹国伟控制的一家控股公司发行了一类新股票，这类股票拥有更高的投票权。这些调整将让曹国伟对新浪拥有 55.5% 的投票权，可以防止未来有人试图引入新的董事会成员，或强迫就商业战略举行投票。新浪在一份新闻稿中说，因为与 Aristeia 的代理权之争，它“不得不从繁忙的日常企业经营和战略规划中分配出大量时间和精力”。“公司相信未来任何的代理权之争都将代价高昂、耗费时日且扰乱公司的日常经营活动，”新浪接着写道，并称其采取相关措施是为了“防止公司未来陷入遭受破坏和价值受损的可能境况”。
+➜欧洲发现大熊猫化石
+https://www.solidot.org/story?sid=54418	27102
+加拿大和法国研究人员在《Geobios》期刊上发表<a href="https://www.sciencedirect.com/science/article/pii/S0016699517300086" target="_blank"><u>论文</u></a>，报告在匈牙利发现了大熊猫牙齿化石，引发了大熊猫起源之争。中科院的研究人员<a href="http://www.bjnews.com.cn/inside/2017/11/08/463325.html" target="_blank"><u>声称</u></a>，仅仅通过新发现化石不能决定大熊猫起源在何处。大熊猫被誉为“中国国宝”。然，大熊猫的祖先究竟来自哪里一直是备受争议的话题。1980 年代中国云南禄丰发现地质年代约为 800 万年前中新世晚期的熊猫化石，并将其定名为 “始熊猫”。这一发现为大熊猫的起源与分类地位提供了直接证据，认为大熊猫起源于云南。但最近发表的论文让大熊猫的起源再生疑团。在欧洲发现的化石形成于 1000 万年前的晚中新世，早于中国 1980 年代分别在云南禄丰盆地和元谋盆地发现的禄丰始熊猫和元谋始熊猫化石。研究人员认为，亚洲熊猫与欧洲熊猫可能存在互相迁移的现象，方向不定。有可能从欧洲迁移到亚洲，也有可能从亚洲迁移到欧洲。对此，中科院动物研究所高级工程师张劲硕认为，仅通过一两处发现的化石，并不能解决大熊猫到底起源于哪的问题。
+➜Waymo 在公路上测试真正的无人驾驶
+https://www.solidot.org/story?sid=54419	28697
+<div align="center"><img src="http://img.solidot.org/0/467/liemWgNx9FPJM.gif" align=""><br>
+</div>
+<br>
+前 Google 自主驾驶子公司 Waymo <a href="https://techcrunch.com/2017/11/07/waymo-now-testing-its-self-driving-cars-on-public-roads-with-no-one-at-the-wheel/" target="_blank"><u>正在公路上测试真正的无人驾驶</u></a>，也就是汽车方向盘后没有坐着人。Waymo 正在亚利桑那州的 Chandler 地区测试无人驾驶，测试不限于一条或两条线路。Waymo <a href="http://www.ftchinese.com/story/001074974" target="_blank"><u>试图率先</u></a>实现 L4 级的自动驾驶，这意味着其汽车能在预先设定的区域实现完全自动驾驶，这些区域都经过了仔细的地图绘制与测试。该公司计划将这一测试扩展到整个凤凰城，但并未给出时间表。竞争对手们承认，Google 在技术上仍然领先，尽管怀疑者质疑，人工智能技术是否已完善到足以应对道路上可能发生的许多无法预见的情况。
+➜海外上市的中国科技公司或借壳回归 A 股
+https://www.solidot.org/story?sid=54420	29474
+奇虎 360 正通过借壳上市的方式回归 A 股，中国证券会在 2016 年中开始严控借壳上市行为，因为担心那些被视为潜在壳资源的小型股被热炒。但对奇虎的借壳上市，证监会<a href="http://www.solidot.org/story?sid=54368" target="_blank"><u>表示</u></a>“将重点支持符合国家产业战略发展方向、掌握核心技术、具有一定规模的优质境外上市中资企业参与 A 股公司并购重组”。分析师认为，奇虎回归 A 股可能会<a href="http://cn.wsj.com/gb/20171108/tec112852.asp" target="_blank"><u>掀起</u></a>海外上市中国科技公司的回归潮。公司创始人周鸿祎称，网络安全行业很特殊，任何网络安全公司做大了，都需要和国家利益保持一致。他还表示，作为美国上市公司时，奇虎在收购新技术时面临着严格审查。
+➜以太坊再次发生严重事故，价值 2.8 亿美元的货币被冻结
+https://www.solidot.org/story?sid=54421	31799
+以太坊（Ethereum）是比特币之后最热门的数字货币，但过去一年多时间里，它发生了多起因为软件 bug 而导致的严重事故：2016 年 6 月中旬，攻击者<a href="http://www.solidot.org/story?sid=52778" target="_blank"><u>利用了</u></a> DAO 的递归调用漏洞创建子 DAO，窃取了价值 5500 万美元以太坊；2017 年 7 月 中旬，攻击者<a href="http://www.solidot.org/story?sid=53179" target="_blank"><u>利用</u></a>漏洞从多签名钱包窃取了价值超过三千万美元的以太坊。现在，Parity 的钱包再次被触发了一个 bug ，导致了价值 2.8 亿美元的以太坊被冻结在钱包，其中 9000 万美元属于 Parity 创始人 Gavin Woods 的 Polkadot ICO。<a href="https://etherscan.io/address/0x863df6bfa4469f3ead0be8f9f2aae51c91a907b4#code" target="_blank"><u>该 bug </u></a>主要影响在 7 月 20 日之后创建的多签名钱包。通过调用钱包库中的一个函数，钱包拥有者可以将一个普通的 Parity 单用户钱包转变成多签名钱包，接管钱包的所有权。一位自称是以太坊新用户的人无意中触发了该 bug，使得 bug 引入之后创建的所有多签名钱包全部锁定。以太坊社区再次讨论是否需要创建硬分支来解决这个问题。
+➜中国生产的机械键盘被发现会发送数据
+https://www.solidot.org/story?sid=54422	36734
+中国公司生产的一款机械键盘 MantisTek GK2 <a href="http://www.tomshardware.com/news/mantistek-gk2-collects-typed-keys,35850.html"><u> </u></a><a href="http://www.tomshardware.com/news/mantistek-gk2-collects-typed-keys,35850.html" target="_blank"><u>被发现</u></a>会收集用户的按键频率信息并发送到阿里巴巴的服务器。收集按键信息的是这款键盘搭配的 Cloud Driver 软件，该公司收集这些信息也许并无恶意，可能是为了观察各个按键的耐用性。但未经用户同意跟踪用户的做法侵犯了隐私方面的法律。要阻止键盘收集和发送用户信息只需要阻止 Cloud Driver 在后台运行，用户还可以在防火墙屏蔽 CMS.exe 可执行文件。
+➜WHO 建议养殖家畜的农民停止使用抗生素
+https://www.solidot.org/story?sid=54423	39814
+WHO 建议养殖家畜的农民<a href="https://www.theguardian.com/environment/2017/nov/07/farmers-must-stop-antibiotics-use-in-animals-due-to-human-health-risk-warns-who" target="_blank"><u>停止使用抗生素</u></a>，因为抗生素滥用导致的抗生素抵抗严重威胁到了人类健康。农民经常在饲养家畜过程中添加抗生素以促进生长和预防疾病。WHO <a href="http://www.who.int/mediacentre/news/releases/2017/antibiotics-animals-effectiveness/zh/" target="_blank"><u>建议</u></a>，通过减少不必要地在动物中使用人类医学上重要的抗生素，协助维护抗生素的有效性。它称在一些国家，大约 80% 的医学上重要抗生素被用于畜牧业，主要用于促进健康动物的生长。对动物和人类滥用和误用抗生素加剧了抗生素耐药性日益严重的威胁。引起人类严重感染的一些细菌已对大多数或所有可用治疗药物产生耐药性，而目前研发中的药物看来很少有能够有效治疗这些感染的药物。
+➜绵羊能认识人脸
+https://www.solidot.org/story?sid=54424	42480
+根据发表在《Open Biology》上的<a href="http://rsos.royalsocietypublishing.org/lookup/doi/10.1098/rsos.171228" target="_blank"><u>一项研究</u></a>，绵羊<a href="http://www.bbc.com/news/science-environment-41905652" target="_blank"><u>能认出熟悉的人脸</u></a>。剑桥大学的研究人员训练了八只威尔斯山地绵羊去识别演员 Jake Gyllenhaal 和 Emma Watson，以及前美国总统奥巴马和 BBC 播音员 Fiona Bruce 的脸。训练结束之后，绵羊更多的选择了熟悉的人脸，显示它们具有类似灵长类——如猴子、猩猩和人类——的脸部识别能力。研究人员表示未来也许可以进一步调查绵羊是否能识别人脸的不同表情。
+➜AMD 被指帮助中国研发芯片
+https://www.solidot.org/story?sid=54425	44246
+中国正谋求成为科技行业的领导者，它采用的是一种方法或策略是用资金和市场准入吸引外国巨头，从而获取制造高端科技产品的能力。AMD 与国企曙光在成都<a href="https://cn.nytimes.com/business/20171108/made-in-china-technology-trade/" target="_blank"><u>成立了合资企业生产服务器芯片</u></a>。通过一笔价值近 3 亿美元的交易，AMD 将芯片技术授权给它与曙光的中国合资企业。该合资企业由 AMD 控制，因此这项技术被认为仍在美国人手中。但是 AMD 与曙光达成了由后者控制的第二个合作伙伴关系。该合资企业开发的应用软件能将芯片与服务器集成在一起。两家企业位于同一栋大厦。专家说，这种双重合作关系可以帮助中国发展新一代强大的超级计算机。中国已经制造出世界上速度最快的计算机，但是它们依靠国产芯片运行，无法运行超级计算机常用的软件。专家说，在 AMD 的帮助下，曙光公司开发出的芯片可以令中国的超级计算机更全面、兼容性更好，从而取代外国厂商的芯片。
+➜Google 再次被指推广得州枪手的虚假信息
+https://www.solidot.org/story?sid=54426	45978
+Google 再次被发现在搜索结果中<a href="http://www.bbc.com/news/technology-41915065" target="_blank"><u>传播得州枪手的虚假信息</u></a>。26 岁的 Devin Patrick Kelley 周日在一座乡村教堂内<a href="https://en.wikipedia.org/wiki/Sutherland_Springs_church_shooting" target="_blank"><u>杀死了 26 人</u></a>。执法部门<a href="https://cn.nytimes.com/usa/20171107/devin-patrick-kelley-texas/" target="_blank"><u>认为</u></a>这起枪击事件可能是因“家庭问题”引发的，与他分居的妻子及其家人有关。他的第二任妻子及其家人有时候会去该教堂礼拜。但 Google 在搜索结果里展示了 Twitter 上流传的枪手假信息，声称他是穆斯林，或者是左翼极端分子。这些信息宣称 Kelley 曾是支持 Bernie Sanders 的组织成员，已经转变成穆斯林，是极左活动分子。Google 对此表示称将会改善网站排名算法，称错误信息只展示了很短时间。
+➜一次比特币交易使用的电量相当于一周的家庭用电
+https://www.solidot.org/story?sid=54427	47609
+在比特币币值突破 <a href="https://blockchain.info/markets" target="_blank"><u>7000</u></a> 美元的同时，比特币挖矿的耗电量也日益引起关注。分析师 Alex de Vries 估计，矿工一年的耗电量将超过 24 太瓦时，这相当于尼日利亚一年的耗电量， 而尼日利亚有 1.86 亿人口。比特币网络的平均每次交易耗电量约 215 千瓦时，相<a href="https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change" target="_blank"><u>当于普通美国家庭约一周的用电量</u></a>。比特币矿工在任何时候的用电足以满足 226 万美国家庭的需要。如此高的耗电量让比特币成为碳排放的一大源头。

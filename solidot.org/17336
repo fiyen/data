@@ -1,0 +1,45 @@
+➜Linux Kernel 4.14 将是下一个长期支持版
+https://www.solidot.org/story?sid=52779	12118
+稳定版内核维护者 Greg Kroah-Hartman <a href="http://news.softpedia.com/news/linux-4-14-to-be-the-next-lts-kernel-series-supported-for-at-least-2-years-516520.shtml" target="_blank"><u>宣布</u></a>，Linux Kernel 4.14 将是下一个长期支持版。Linux 4.14 尚未发布和启动开发，目前最新的稳定版内核是 Linux 4.11，下个版本 Linux 4.12 预计将在下月初释出，在 4.12 发布两周之后，4.13 的开发将全面启动，4.14 预计将在 9 月中旬启动开发，正式发布预计将在 11 月初。长期支持版将提供为期两年的支持，也就是从 2017 年 11 月支持到 2019 年 11 月。目前最新的长期支持版是 Linux 4.9。
+➜微软将在下次更新 Windows 10 时禁用 SMBv1 协议
+https://www.solidot.org/story?sid=52780	13859
+微软计划在今年秋季释出 Windows 10 的下一次重大更新，这次更新代号为 Redstone 3。在该版本中，微软<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-smbv1-in-windows-starting-this-fall/" target="_blank"><u>计划禁用</u></a>有三十年历史的 SMBv1 文件共享协议。因为兼容性的原因，微软至今仍然在所有版本的 Windows操作系统中默认启用 SMBv1，但 SMBv1 协议实现的漏洞导致了勒索软件 WannaCry 在存在漏洞的系统中广泛传播，然而受影响的系统主要是 Windows 7 而不是微软计划更新的 Windows 10。微软证实，用户在全新安装系统时候将不会包含 SMBv1，但从现有系统升级时 SMBv1 仍然会留在系统中。微软的这一决定不会影响现有的系统。
+➜中国发起学术打假
+https://www.solidot.org/story?sid=52781	14195
+中国当局<a href="http://www.ftchinese.com/story/001073058" target="_blank"><u>正在打击学术欺诈</u></a>，此前医学期刊《肿瘤生物学》撤回了中国作者在过去五年里发表的 107 篇论文，构成史上最大的同行评议造假案例。中国科技部上周表示，这起事件 “严重损害了我国科技界的国际声誉和广大科技人员的尊严”。该部誓言对学术造假 “零容忍”。政府承诺对撤稿论文逐一彻查，有些涉事论文作者可能被剥夺学术职务。他们承担或正在申请经费的科研项目已被暂停。中国英文科技论文编辑联盟 (ASEC) 理事长夏华向表示，自 2010 年以来，中国和美国的撤稿数量都继续偏高，但考虑到论文的绝对数量，中国的撤稿率与全球平均水平大致相符。夏华向补充说，不同点在于，中国的撤稿更有可能涉及学术不端行为。追踪学术撤稿的非政府组织 “撤稿观察”的数据显示，就同行评议造假导致论文被撤稿而言，中国领先世界。
+➜社区将 Visual Studio Code 移植到 Chromebooks 和 Raspberry Pi
+https://www.solidot.org/story?sid=52782	17564
+Jay Rodgers 领导的一个社区构建项目正将微软的轻量级源码编辑器 Visual Studio Code <a href="http://www.infoworld.com/article/3200645/application-development/visual-studio-code-comes-to-chromebooks-raspberry-pi.html" target="_blank"><u>移植到 </u></a>Chromebooks、Raspberry Pi 以及其它基于 32 位和 64 位 ARM 处理器的设备上。这项努力将让专注于 ARM 设备——尤其是 Raspberry Pi——的 IoT 开发者受益。这些移植版本将支持扩展，Rodgers 称，除非扩展使用的是原生组件，而这些原生组件不支持 ARM，那么它们应该像在其它平台上一样正常工作。
+➜物理学新发现暗示标准模型可能存在缺陷
+https://www.solidot.org/story?sid=52783	20098
+<a href="https://zh.wikipedia.org/zh-cn/%E6%A0%87%E5%87%86%E6%A8%A1%E5%9E%8B" target="_blank"><u>标准模型</u></a>已经支配了粒子物理学数十年，但最近的一系列实验表明，标准模型<a href="https://www.nature.com/nature/journal/v546/n7657/full/nature22346.html" target="_blank"><u>是不完备的</u></a>，需要更进一步的研究去理解新的物理学。根据发表在《自然》期刊上的<a href="https://www.nature.com/nature/journal/v546/n7657/full/nature22346.html" target="_blank"><u>研究</u></a>，欧洲 CERN 的 LHCb 实验、美国 SLAC 国家加速器实验室的 BaBaR 探测器，以及日本的 Belle 实验数据显示，τ子的衰变速度比标准模型预测的快。数据置信度是四个标准偏差，也就是 有99.95% 的确定性数据是精确的。
+➜SpaceX 准备再次用回收的火箭发射卫星
+https://www.solidot.org/story?sid=52784	27108
+私人太空公司 SpaceX <a href="https://www.nasaspaceflight.com/2017/06/spacex-static-fire-next-falcon-9-flight-proven-booster/" target="_blank"><u>计划于</u></a>美国时间周一 14:10 在肯尼迪太空中心用  Falcon 9 火箭发射卫星 BulgariaSat-1，发射窗口两小时，如果因故推迟，那么下一个发射窗口将在周二。这枚火箭将再次使用回收的第一级/推进级，这将是 SpaceX 第二次使用回收的火箭发射卫星，<a href="http://www.solidot.org/story?sid=51889" target="_blank"><u>第一次</u></a>是在 3 月 30 日。火箭的推进级编号为 1029.2，顾名思义，这将是它的第二次发射。SpaceX 还计划在本周内发射第二枚火箭，将一颗铱星 Iridium NEXT 发射到轨道上，时间定在 6 月 25 日，发射场为范登堡空军基地。
+➜DNA 复制富有随机性
+https://www.solidot.org/story?sid=52785	29855
+科学家第一次在单 DNA 分子尺度观察到了它们的复制，<a href="http://www.ebiotrade.com/newsf/2017-6/2017616112522617.htm" target="_blank"><u>发现 DNA 复制富有随机性</u></a>。研究人员利用先进成像技术观察了大肠杆菌 DNA 复制，并测量了每股链上酶机器（复制复合体）的运行速度。观察单个 DNA 链，研究人员发现，复制的停止并不可预知，并且当它再次启动时会改变速度。有时，后随链合成停止了，但先导链仍然继续生长。看似协调步调，实际上是一系列启动、停止、变速的随机过程。延长时间后发现，任意条链都在匀速前进，研究人员同时观察了很多条 DNA，发现它们的平均速度相同。<a href="http://www.cell.com/cell/abstract/S0092-8674(17)30634-7" target="_blank"><u>研究报告</u></a>发表在《细胞》期刊上。
+➜研究发现名字能影响蔬菜的受欢迎度
+https://www.solidot.org/story?sid=52786	31337
+根据发表在《<span id="article-text">JAMA Internal Medicine </span>》期刊上的<a href="http://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2630753" target="_blank"><u>一项研究</u></a>，斯坦福大学研究人员拿到校内自助餐厅用餐的学生做试验，<a href="https://www.reuters.com/article/us-health-vegetables-name-appeal-idUSKBN1932C4" target="_blank"><u>发现</u></a>在把蔬菜的名字起得诱人之后，其销量攀升了25%。在试验中，研究人员弃用以往常用的比如百分百健康之类的标牌，但这些蔬菜类菜肴与平时做的没有任何不同。试验在斯坦福校园做了一个秋季学期。<a href="http://www.bbc.com/zhongwen/simp/science-40322646" target="_blank"><u>结果发现</u></a>，一旦素菜用了诱人的名字就卖得最好，比如麻花橘釉胡萝卜，麻花姜蒜甜南瓜块和麻辣超爽酸溜溜甜菜根，吃的人比平铺直叙的胡萝卜或南瓜多 25%，比声称蔬菜健康的多 41% 或 35%。研究人员认为，菜的名字会在潜意识里影响食欲，号称健康的菜会降低食欲。
+➜蚂蚁金服利用 AI 推动增长
+https://www.solidot.org/story?sid=52787	33591
+MIT 技术评论<a href="https://www.technologyreview.com/s/608103/ant-financial-chinas-giant-of-mobile-payments-is-rethinking-finance-with-ai/" target="_blank"><u>报道</u></a>，阿里巴巴旗下的支付宝运营商蚂蚁金服正使用计算机视觉、自然语言处理和大数据重新定义银行和保险。<a href="http://tech.sina.com.cn/it/2017-06-19/doc-ifyhfnrf9326434.shtml?cre=tianyi&amp;mod=pctech&amp;loc=10&amp;r=25&amp;doct=0&amp;rfunc=76&amp;tj=none&amp;s=0&amp;tr=25" target="_blank"><u>报道称</u></a>，在中国如果发生交通事故，你只需要掏出智能手机，拍一张照片，就可以用 AI 系统申请索赔。系统是蚂蚁金服开发的，它能判断事故的严重性，根据保险公司的要求处理索赔。蚂蚁金服首席数据科学家、副总裁漆远（Yuan Qi）说，AI 研究正在促进增长。他说：“在蚂蚁金服业务的每一个部分几乎都有 AI 的踪影。我们用 AI 优化业务，形成新产品。”漆远称，AI 可以颠覆现有系统，事故处理系统就是一个好例子。最近几年，一种叫 “深度学习” 的机器学习技术飞速发展，图像处理可以自动完成。将大量的样本图片输入大型神经网络，就可以训练网络识别图像中的对象，有时连人类都无法分辨。
+➜商朝人祭者的饮食
+https://www.solidot.org/story?sid=52788	37754
+在商朝的最后两百年间，数以千计的人在殷墟遭到献祭。但献祭的牺牲品并非是一视同仁的，有的还有奢华的墓葬品，有的则遭到了残忍的对待。根据发表在《Journal of Anthropological Archaeology》期刊上的<a href="http://www.sciencedirect.com/science/article/pii/S0278416517300041" target="_blank"><u>一项研究</u></a>，加拿大 Simon Frasier 大学生物考古学家  Christina Cheung 和同事根据献祭者骨骼上留下的化学信号，<a href="https://arstechnica.com/science/2017/06/the-human-sacrifice-diet/" target="_blank"><u>重组了献祭者的生活</u></a>。研究人员称商朝有两种献祭，一种叫人牲，另一种人殉，人殉待遇高于人牲，他们甚至有自己的人牲。研究人员分析了数十名人祭的骨骼，并与当地人的骨骼进行对比，他们发现所有被献祭的人都是男性，大部分很年轻，他们不是当地人，但在殷墟至少生活了几年时间，在被杀死前适应了当地的饮食。他们的饮食并不怎么好，其食物中只有很少的动物蛋白。考古学家长期以来一直争论人祭是否是囚犯或战俘，这项研究并没有给出确切的答案。
+➜Top 500 公布最新榜单，美国无缘三甲
+https://www.solidot.org/story?sid=52789	41844
+在法兰克福举行的世界超算年会上，Top 500 <a href="https://www.top500.org/news/top500-list-refreshed-us-edged-out-of-third-place/" target="_blank"><u>公布了最新榜单</u></a>：中国的超算占据了前两名，而美国自 1996 年以来首次无缘三甲。中国的神威太湖之光以 93 petaflop/s 继续称霸，天河二号以 33.9 petaflop/s 排名第二，排名第三的是瑞士的 Piz Daint，运算速度 19.6 petaflop/s，之后是美国橡树岭国家实验室超算泰坦的 17.59 petaflop/s，Sequoia 的 17.17 petaflop/s、Cori 的 14 petaflop/s，日本 Oakforest-PACS 的 13.55 petaflop/s，K computer 的 10.51 petaflop/s。前十的主要变化是瑞士超算从去年 12 月的第八跃升到第三，其余超算基本不变。神威太湖之光采用了中国自行研发的申威 SW26010 260C 1.45GHz 处理器，每个处理器 260 个核心，总共 10,649,600 个核心，内存 1280 TB，操作系统是基于 Linux 的 RaiseOS 2.0.5。Top 500 中，美国 有 169 台，中国有 160 台，之后是日本 33 台，德国 28 台，法国和英国各有 17 台。464  台超算使用了英特尔的处理器，21 台超算使用了 IBM Power 处理器，使用 AMD 处理器的只有 6 台。惠普企业(HPE)制造的超算最多共 143 台，其次是联想的 85 台，克雷的 57 台，曙光的 46 台，IBM 的 27 台。
+➜硅谷巨人开启第一代科技外交时代
+https://www.solidot.org/story?sid=52790	43179
+在全球舞台上，硅谷巨人的重要性已经超过了许多国家，与硅谷巨人<a href="https://www.reuters.com/article/us-denmark-tech-idUSKBN19A17A" target="_blank"><u>建立外交关系变得日益重要</u></a>。丹麦大使 Casper Klynge 正致力于在他的国家和硅谷巨头如 Facebook、Apple 和 Alphabet 的 Google 之间建立直接联系。Klynge 说，丹麦继续与国家和组织建立传统的外交关系，但也开始着眼于与大型科技公司建立关系。他说这些公司的影响力比许多国家还要大。新的合作伙伴在经济规模上不逊色于国家：丹麦在 2016 年的 GDP 是 3100 亿美元，介于 Facebook 市值 4370 亿美元和甲骨文 1850 亿美元之间。他说，科技巨人对人类的影响力举足轻重。
+➜互联网工程师想要防止 BGP 路由泄漏
+https://www.solidot.org/story?sid=52791	46077
+边界网关协议 BGP 是互联网核心基础设施的组成部分，但过去几年 BGP 发生过许多次严重的路由泄漏，导致一国的审查波及到其它国家，或者一个网络的流量被重定向路由经过其它网络。BGP 的问题在于它过于信任收到的路由广播。一项新的<a href="https://tools.ietf.org/html/draft-ietf-idr-bgp-open-policy-00" target="_blank"><u>互联网草案</u></a>试图<a href="https://www.theregister.co.uk/2017/06/19/bgp_route_leak_prevention_draft_policy/" target="_blank"><u>解决这个问题</u></a>，草案要求 BGP 广播者提供更详细的信息，让 BGP 系统能更好的理解广播范围，让路由泄漏变得更困难。
+➜OpenBSD 用随机化地址链接加固内核
+https://www.solidot.org/story?sid=52792	47595
+OpenBSD <a href="https://www.theregister.co.uk/2017/06/19/thats_random_openbsd_adds_more_kernel_security/" target="_blank"><u>引入了</u></a>内核随机化地址链接（kernel address randomised link 或 KARL）去<a href="https://marc.info/?l=openbsd-tech&amp;m=149732026405941" target="_blank"><u>加固</u></a>内核，防止内核级的缓冲溢出。类似地址空间布局随机化 (ASLR) 应用于随机应用程序的内存地址，KARL 随机化了内核加载，使得攻击者无法预测出一个内核缓冲溢出的内存分配地址。OpenBSD 创始人 Theo de Raadt 称，以前的内核二进制总是在相同的物理内存和相同的虚拟地址空间。
+➜中国泡沫风险增大
+https://www.solidot.org/story?sid=52793	48078
+距离中国以股票市场的崩盘、货币的骤然贬值以及债务不断增长引发的担忧向世界各地的投资者敲响警钟已过去两年，很多投资者都把担忧之情抛到了脑后。随着投资者拥抱中国欣欣向荣的科技行业和消费市场，在香港以及中国大陆以外其他地方上市的中国公司的股票价格，已经飙升至股灾以来的最高水平，令其他发展中国家的市场相形见绌。“绝大多数人一致认为中国没问题，”总部位于丹佛、不看好对中国的投资的资产管理公司 Crescat Capital 创始人兼首席执行官史密斯(Kevin Smith)说。他广泛提及了中国的债务以及其他金融问题，并补充道：“人们真的忽略了潜在的泡沫。<a href="https://cn.nytimes.com/business/20170619/china-investor-debt-worries-msci/" target="_blank"><u>泡沫正变得越来越大</u></a>。”国际清算银行的数据显示，截至 2016 年底，中国的债务占 GDP 的比重为 257%，略高于美国，大大高于新兴经济体 184% 的总体水平。但让经济学家最担忧的是其债务的增长速度。2007 年底，中国的债务只占 GDP 的 152%。

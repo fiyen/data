@@ -1,0 +1,12 @@
+➜在数字货币狂热下 SETI 抱怨买不到显卡
+https://www.solidot.org/story?sid=55561	50533
+比特币用专用矿机挖矿最划算，而许多替代数字货币或山寨币仍然可以用 GPU 高效挖掘。比特币的火热也带动了山寨币的热潮，以至于市场上能高效挖掘数字货币的显卡都售罄了，甚至二手显卡都能以比原价更高的价格出售，而其它对 GPU 有高需求的客户则找不到商品可购买。搜寻地外文明的 <a href="http://breakthroughinitiatives.org/initiative/1" target="_blank"><u>SETI 项目</u></a>就是其中一位受害者。SETI 运作了一个志愿者贡献算力的分布式网格项目 <a href="http://breakthroughinitiatives.org/initiative/1" target="_blank"><u>SETI@home</u></a>，分析来自望远镜收集的数据需要计算机拥有高计算能力，最好能使用最新的显卡，然后他们根本买不到最新的显卡。SETI 项目的首席科学家 Dan Werthimer <a href="https://motherboard.vice.com/en_us/article/59kdwn/cryptocurrency-miners-are-limiting-the-search-for-alien-life-now-gpu-seti" target="_blank"><u>抱怨</u></a>，数字货币的狂热限制了他们搜寻地外生命的能力。Werthimer 说，他们有钱，还联络了供应商，但供应商回答就是没货。
+➜AMD 向客户提供免费处理器解决主板刷新固件问题
+https://www.solidot.org/story?sid=55562	52163
+AMD 本周开始发售集成 Vega GPU 的 Ryzen 处理器 Ryzen 5 2400G 和 Ryzen 3 2200G，然而一大问题是主板需要刷最新的固件才能支持集成显卡的新 Ryzen G 系列处理器，如果没有刷最新固件，客户完成安装之后系统将无法点亮。部分主板支持在没有 GPU 的情况下刷固件，但大部分主板并不支持该功能，如果用户手中没有主板支持的闲置 CPU，那么他们购买的产品将无法使用。为了解决这个问题，AMD 的做法是向客户<a href="https://arstechnica.com/gadgets/2018/02/amd-sending-out-free-processors-to-solve-firmware-flashing-catch-22/" target="_blank"><u>免费提供一个点亮系统刷固件的旧处理器</u></a>——双核 A6-9500，它可能是 AMD 手中目前最廉价的集成显卡处理器。一旦你刷好固件安装上Ryzen 处理器后，AMD 希望你能寄回该处理器，不过散热器就不用寄了，你可以保留。
+➜React 和 Yoga 切换到 MIT 授权
+https://www.solidot.org/story?sid=55563	55964
+Facebook 开发的流行 JS 库 React Native 以及 Yoga 都<a href="https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88" target="_blank"><u>切换到</u></a>了 MIT 许可证授权。MIT 许可证是相对宽松的开源许可证，对使用的限制很少，兼容 GPL。此前  React 等 Facebook 旗下的开源项目使用的是 BSD + 专利的许可证授权，在开源社区引发了广泛争议，这些争议最终促使 Facebook 决定将它的主要开源项目都切换到了宽松的 MIT 授权。
+➜新研究认为免疫系统功能下降与癌症率上升相关
+https://www.solidot.org/story?sid=55564	57149
+Alfred Knudson 在 1970 年代提出的二次突变假说（two hit hypothesis）是目前肿瘤发生猜想中的一种主导性理论——即一个细胞发生了两次突变，使得细胞内抑制肿瘤的功能失效。但发表在 PNAS 上的一项新研究挑战了这一猜想，新的理论将重心转移到了<a href="https://arstechnica.com/science/2018/02/as-we-age-cancer-rates-go-up-as-immune-system-winds-down/#p3" target="_blank"><u>免疫系统抑制肿瘤的功能上</u></a>，有可能导向新的治疗方法。随着年龄的增长，人体的免疫系统逐渐衰弱。新的分析发现，癌症发生率的上升并不是因为伴随年龄增长的二次突变增加导致的，事实上细胞的二次突变在一生中都维持相同的比率，但监视和保护人体的免疫系统功能则会随年龄的增长而下降。

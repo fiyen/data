@@ -1,0 +1,12 @@
+➜VPN协议漏洞暴露用户真实IP
+https://www.solidot.org/story?sid=46334	41164
+Perfect Privacy的研究人员发现一个安全漏洞<a target="_blank" href="https://www.perfect-privacy.com/blog/2015/11/26/ip-leak-vulnerability-affecting-vpn-providers-with-port-forwarding/"><u>会暴露VPN用户的真实IP</u></a>。但利用这个漏洞需要结合社工，漏洞虽然影响所有VPN协议，但严重性可能并不高。研究人员称，问题与VPN的端口转发有关，攻击者首先需要利用社工获知受害者使用的VPN服务器，然后登陆相同的服务器激活端口转发，诱骗受害者访问某个网址将流量重定向到其控制的端口，暴露真实IP。Perfect Privacy称，即使受害者禁用了端口转发也没有用，问题影响IPSec、OpenVP、PPTP等所有VPN协议。Perfect Privacy调查了9个知名VPN供应商，发现其中5个容易受到该漏洞的攻击。
+➜法国利用紧急状态禁止气候变化抗议
+https://www.solidot.org/story?sid=46335	41843
+巴黎遭遇恐怖袭击之后，法国宣布全国进入紧急状态。在紧急状态下，大规模集会受到了限制。下周一，巴黎将举行全球气候变化会议，全世界一百多个国家的元首将出席会议。如此规格的会议也吸引了气候变化活动人士，他们计划在会议期间进行抗议。但至少24名活动人士<a target="_blank" href="http://www.theguardian.com/environment/2015/nov/27/paris-climate-activists-put-under-house-arrest-using-emergency-laws"><u>已经遭到了警方的软禁</u></a>。活动人士的法律顾问称，警方突袭了他的公寓，占据了三层楼和一个楼梯。组织者指责法国当局滥用权力。一些抗议者担心法国政府借此机会压制异议。
+➜硅谷流行服用微量迷幻药
+https://www.solidot.org/story?sid=46336	51506
+25岁的肯拥有斯坦福的硕士学位，目前就职于旧金山的一家创业公司，他什么都要做一点：从硬件和软件设计到销售和商业拓展。他最近发现了一种可以增强他的生产力和创造力的方法：<a target="_blank" href="http://www.rollingstone.com/culture/features/how-lsd-microdosing-became-the-hot-new-business-trip-20151120"><u>服用精神类迷幻药</u></a>。肯成为了硅谷科技公司中日益增长的微剂量迷幻药服用者群体中的一员。微剂量大约为普通剂量的十分之一——10微克的LSD，或0.2-0.5克的迷幻蘑菇。服用者自我报告称可以改进问题解决能力和提高生产力，甚至能减轻焦虑和头疼。但这些好处<a target="_blank" href="http://news.slashdot.org/story/15/11/27/1343243/lsd-microdosing-gaining-popularity-for-silicon-valley-professionals#comments"><u>尚未获得</u></a>科学研究的确认。<br>
+➜日本批准动力外骨骼HAL为医疗设备
+https://www.solidot.org/story?sid=46337	51938
+Cyberdyne公司称，日本政府<a target="_blank" href="http://www.japantimes.co.jp/news/2015/11/26/business/tech/homegrown-robotic-suit-gets-recognized-medical-device-japan/"><u>已批准</u></a>该公司的动力外骨骼Hybrid Assistive Limb（HAL）为脊髓性肌萎缩和萎缩性侧索硬化等疾病的医疗设备。HAL此前已被欧洲批准为医疗设备，它可以帮助残疾人或肌肉功能受限的人移动，还具有潜力可被老年人使用。公司创始人兼CEO山海嘉之在1997年开发出了HAL的第一个原型。

@@ -1,0 +1,27 @@
+➜新冠抗体可能持续时间比较短
+https://www.solidot.org/story?sid=64989	11990
+伦敦国王学院的一项尚待同行评审的研究<a href="http://www.ftchinese.com/story/001088586"><u>显示</u></a>，新冠康复患者的抗体在感染后的数月内出现了显著下降，这引发了一个关键问题，即疫苗能让人们对这种疾病免疫多久。新冠病毒抗体比中东呼吸综合征(MERS)等其他冠状病毒的抗体消失得更快，后者的免疫反应至少持续了几年。这意味着疫苗在研发出之后可能需要反复接种。接种疫苗后抗体含量有所下降是正常现象，如果人体随后能在再次接触病毒时更快地产生抗体，那疫苗仍是有效的。重要的是，人体对疫苗的反应并不总是与对感染的反应一致。
+➜阿联酋成功发射火星探测器
+https://www.solidot.org/story?sid=64990	13220
+阿联酋<a href="https://www.nasaspaceflight.com/2020/07/uae-ready-for-first-mars-mission/"><u>成功发射了</u></a>它的第一颗火星探测器。被称为“希望（阿拉伯文 Al Amal）”的探测器于周日 21:58:14 UTC 搭乘日本的 H-IIA 火箭从种子岛太空中心发射升空，开始 7 个月的火星之旅。探测器由三菱重工与阿联酋合作研制，将于 2021 年 2 月抵达火星，恰逢阿联酋成立 50 周年。为了利用地球和火星之间的轨道会合，今年夏天有三次火星发射任务，阿联酋的希望号是第一个，之后中国将在 7 月下旬到 8 月上旬择机发射行星探测工程天问一号任务，NASA 计划发射毅力号（Perseverance）火星漫游车。
+➜英国将 NEC 和富士通列为 5G 设备替代供应方
+https://www.solidot.org/story?sid=64991	16091
+日经<a href="https://cn.reuters.com/article/britain-5g-alternatives-5g-0719-sun-idCNKCS24L015"><u>报导称</u></a>，英国政府要求日本帮助建设其没有华为参与的 5G 移动网络。这标志着美国与中国之间的全球科技与安全战又向前迈进一步。英国将日本电气(NEC)和富士通(列为可能取代华为的替代供应商。随着英国脱离欧盟，有关华为设备安全性的担忧迫使英国首相约翰逊在美国和中国之间选边站。这一最新举措反映出英国正努力引入新的设备供应商，以促进竞争，并帮助该国无线运营商降低成本。
+➜OpenAI 的 GPT-3 引发广泛关注
+https://www.solidot.org/story?sid=64992	26075
+AI 研究机构 OpenAI 于 5 月 29 日公布了其下一代文本生成神经网络 <a href="https://github.com/openai/gpt-3"><u>GPT-3</u></a> 的<a href="https://arxiv.org/abs/2005.14165"><u>研究论文</u></a>。GPT-3 的训练规模是上一代 GPT-2 的 117 倍，它是<a href="https://news.developer.nvidia.com/openai-presents-gpt-3-a-175-billion-parameters-language-model/" target="_blank"><u>如此之大</u></a>，以至于无法运行在传统计算机上，目前主要通过邀请测试的方法提供 API 供测试者使用。<a href="https://minimaxir.com/2020/07/gpt3-expectations/" target="_blank"><u>测试者最近发布了多篇文章</u></a>，演示了 GPT-3 出色的文本生成效果，如<a href="http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html"><u>图灵测试</u></a>，一篇还算通顺的<a href="https://maraoz.com/2020/07/18/openai-gpt3/"><u>文章</u></a>读到结尾你才知道前面都是 AI 生成的。Sharif Shameem 利用 GPT-3 <a href="https://twitter.com/sharifshameem/status/1282676454690451457" target="_blank"><u>开发了一个布局生成器</u></a>，能根据你描述的任何布局生成 JSX 代码。尽管如此，它的成功率可能还是不适合生产应用使用。
+➜因影响 CPU 性能 Chrome 85 默认关闭 Segment Heap API
+https://www.solidot.org/story?sid=64993	27953
+Windows 10 2004（Windows May 2020）提供了 Segment Heap API 来帮助非常吃内存的应用如 Chrome <a href="https://www.solidot.org/story?sid=64723" target="_blank"><u>减少内存占用</u></a>。但 Google Chrome 即将发布的下一个版本 v85 <a href="https://tech.slashdot.org/story/20/06/19/1758236/chrome-might-not-eat-all-your-ram-after-adopting-this-windows-feature" target="_blank"><u>将默认禁用</u></a>该 API，原因是该功能被发现会对 CPU 性能有负面影响。CPU 问题是一位英特尔工程师<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1102281"><u>发现的</u></a>，这位工程师发现 Chrome 启用 Segment Heap 后在使用 Core i9-9900K 处理器的 PC 上执行基准测试表现出显著的性能下降。微软工程师对内存和 CPU 之间的权衡进行辩护，称用一种资源交换另一种资源是很常见的策略，但承认可以实现更好的版本以减少对 CPU 的影响。在测试中，启用 Segment Heap 导致了在 Speedometer 2.0 中 CPU 性能下降 10%，CPU/功耗增加 13%。Chromium 开发者认为这影响太大了。
+➜强大的 AI 能在单台计算机上训练
+https://www.solidot.org/story?sid=64994	29418
+训练最新 AI 系统需要惊人的计算资源，这意味着囊中羞涩的学术界实验室很难赶上富有的科技公司。但一种新的方法可以让科学家在单台计算机上训练先进的 AI。2018 年 OpenAI 报告每 3.4 个月训练最强大 AI 所需的处理能力会翻一番，其中深度强化学习对处理尤为苛刻。现在，南加州大学和英特尔实验室的研究人员找到了一种方法，在实验室使用的高端计算机上<a href="https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/powerful-ai-can-now-be-trained-on-a-single-computer" target="_blank"><u>训练深度强化学习</u></a>。他们的<a href="https://arxiv.org/abs/2006.11751"><u>论文</u></a>（预印本）发表在上周的机器学习国际会议上。需求是发明之母，论文主要作者  Aleksei Petrenko 是南加州的研究生，英特尔的实习生。在实习结束之际他无法再访问芯片巨人的超级计算机，继续未完成的深度强化学习项目。因此他和同事决定寻找方法在简单系统上继续工作。
+➜中国年轻女性 1990 至 2015 年的婚育变化趋势
+https://www.solidot.org/story?sid=64995	45252
+中国研究人员使用 1990、2000 和 2010 年的人口普查数据和 1995、2005 和 2015 年的抽样调查数据，分析了 15 到 24 岁的年轻女性在此期间的已婚率和生育率趋势。<a href="https://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(20)30130-3.pdf"><u>研究报告</u></a>（PDF）发表在《柳叶刀》期刊上。结果显示，15-19 岁的女性已婚率从 1990 年的 4.9% 减少到了 2000 年的 1.2%，但在 2015 年又反弹回了&nbsp; 2.4%；该年龄段的生育率从 1990 年每千人生育 22 个孩子减少到了 2000 年的每千人生 6 个孩子，2015 年反弹到每千人生 9.2。20-24 岁女性的已婚率从 1990 年的 58.6% 减少到了 2015 年的 25.5%；该年龄段的生育率从 1990 年的每千人生 198.8 个孩子减少到了 2015 年的每千人 55 个。2015 年，15-19 岁的农村女性的已婚率和生育率是城市女性的三倍以上。西部省份的 15-19 岁女性更可能结婚和生孩子，她们更可能没有接受高中以上的教育。虽然中国的生育率远低于替代率，研究人员指出早婚和青少年生育的反弹意味着性教育需要更深入，需要确保女孩能继续接受教育。
+➜TikTok 在美国大举游说
+https://www.solidot.org/story?sid=64996	48258
+TikTok 一年前在华盛顿几乎没有游说活动，而现在则请来一个至少 35 名游说者组成的团队为其效力，其中包括一名与特朗普总统有密切联系的人士。<a href="https://cn.nytimes.com/technology/20200716/tiktok-washington-lobbyist/" target="_blank"><u>招兵买马的背后</u></a>，是 TikTok 最重要的市场之一所面临的日益严重的威胁。多名特朗普政府高官扬言要禁止将 TikTok 等来自中国的应用下载到手机上，原因是担心它们可能被中国政府用于监控目的。过去的三个月里，代表 TikTok 的游说者与国会工作人员和议员举行了至少 50 次会议，其中包括商业、司法和情报等高层委员会的成员。会议包括一份精美的演示文稿，内含该公司的组织结构图，表明 TikTok 并不在中国运营，企业的大部分高层是生活在美国的美国公民。
+➜GoldenSpy 之前有 GoldenHelper
+https://www.solidot.org/story?sid=64997	50202
+上月底，安全公司 Trustwave <a href="https://science.solidot.org/story?sid=64772"><u>披露了</u></a>藏身于航天信息股份有限公司智慧税务软件中的恶意后门 GoldenSpy。在这一报道公布之后，智慧税务软件下载了一个卸载程序，抹掉了所有 GoldenSpy 存在证据。Trustwave 在后续调查中发现了另一个与金税发票软件相关的恶意程序，它也与航天信息有关联。虽然功能上与 GoldenSpy 差别很大，但两者有很多相似之处。研究人员根据其指令控制域名 help.tax-helper.ltd 将其命名为 <a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/goldenspy-chapter-4-goldenhelper-malware-embedded-in-official-golden-tax-software/"><u>GoldenHelper</u></a>。GoldenHelper 活跃时间是在 2018 年 1 月到 2019 年 7 月，位于 GoldenSpy 之前，利用了多种技巧隐藏其恶意行为和逃避检测，包括随机生成文件名，用假的文件扩展如 .gif、.jpg 和.zip 下载可执行文件，随机文件系统位置和时间戳，使用基于 IP 的域名生成算法去改变指令服务器位置，等等。GoldenHelper 使用了浙江诺诺网络科技有限公司的证书签名，该公司是航天信息的子公司。包含 GoldenHelper 的税务软件由<a href="http://www.baiwang.com/mainsite-new/about" target="_blank"><u>百望云</u></a>开发。百望云和航天信息是金税发票系统的两家官方供应商。Trustwave 猜测，GoldenHelper突然终止活动的原因可能是很多安全软件将其样本识别为恶意程序。

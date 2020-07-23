@@ -1,0 +1,64 @@
+➜VMware证实产品源代码泄漏
+https://www.solidot.org/story?sid=29328	5040
+本月初，匿名黑客Hardcore Charlie<a href="__SLASHLINK__" sect="internet" sid="12/04/08/008253" sn="article" tid="100">透露</a>他成功入侵了中国电子进出口总公司(CEIEC)网站，获取数千份防务档案，同时还窃取到了<a href="http://pastebin.com/JGxdK6vw">VMware产品的源代码</a>。现在，VMware<a href="http://blogs.vmware.com/security/2012/04/vmware-security-note.html">证实</a>ESX hypervisor的源代码泄漏，不过源代码的时间要上溯至2003年到2004年，尽管VMware ESX 仍然被广泛使用，但VMware正将客户转移到新管理程序ESXi上。VMware说，虽然源代码可能会被公开分享，但并不意味着VMware客户的风险增加。它表示正继续调查此事，如有新消息将会及时披露。
+➜香港电影业指责YouTube盗版
+https://www.solidot.org/story?sid=29329	6480
+香港电影业周三<a href="http://phys.org/news/2012-04-hong-kong-industry-furious-youtube.html">督促YouTube做更多努力去保护版权</a>，声称香港电影业因为上传到YouTube的盗版视频片段而损失了3.08亿美元。香港影业协会的调查显示，在YouTube上能找到超过200部香港电影片段，包括部分正在香港影院上映的新片。香港影业协会执行总干事钟伟雄说，上述影片中，超过一半能在YouTube上找到完整版本。剩下那些影片也被分成了连续的片段，有一部影片甚至被分成100多个片段。在YouTube上能找到的热门影片包括获香港电影金像奖最佳影片的《桃姐》以及浪漫爱情喜剧《春娇与志明》。这些视频片段的观看次数超过4000万。钟伟雄说，<a href="http://cn.wsj.com/gb/20120425/rlw123833.asp">YouTube上的每次观看都可能是票房的损失</a>。《春娇与志明》制作方法律部官员说，他们点击了无数次YouTube上的侵权图标，但到YouTube删除视频时它已被观看了超过18万。他们抱怨YouTube反应迟钝，还要版权所有者拿出证据。最近德国法院裁决要求YouTube过滤版权视频，否则就要负起法律责任。
+➜PSTZINE---唯一的中文安全电子杂志
+https://www.solidot.org/story?sid=29330	8880
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"pstzine是国内地下安全唯一的电子杂志，由<a href="http://groups.google.com/group/ph4nt0m">Ph4nt0m安全小组</a>发起，目的是创造一个更好的中文安全分享平台，在一个较好的安全技术讨论氛围中产生的web zine，内容包括各种类型的安全技术讨论，Webzine的主题将关注于于漏洞分析、加密解密、协议安全分析、后门与rootkit技术、web应用安全、系统底层分析、操作系统安全性、企业安全防护方案等等，Webzine致力于提高国内安全技术水平，虽然<a href="http://pstgroup.blogspot.com/">官方blog已经几年没有更新了</a>，但杂志还在继续(这里<a href="http://hfg-resources.googlecode.com/files/pstzine.tar.bz2">下载前6期的文章</a>)，如果大家有兴趣投稿可以看<a href="http://www.80sec.com/pst-webzine">这里</a>。</i>
+pstzine继承了phrack的精神，所有的杂志都是免费的，正所谓"By community, for community"。"
+➜不幸的童年会留下基因伤疤
+https://www.solidot.org/story?sid=29331	9120
+童年时候的惨痛经历会留下精神创伤，一项新研究暗示<a href="http://news.sciencemag.org/sciencenow/2012/04/childhood-stress-leaves-genetic.html">它还会留下基因伤疤</a>。研究人员发现，遭到虐待和欺负的儿童有较短的端粒。端粒是染色体末端结构，与细胞老化有关，每次细胞分裂端粒都会变短。当它们变得过短，细胞就会失去再生和分裂的能力。研究发现压力会加速端粒损失，而短的端粒与健康问题如糖尿病、老年痴呆症和疲劳有关联。不过这种关联性仍然存在争议。<i>
+研究人员选择了236名儿童，其中一半儿童经历过至少一种形式的暴力。利用5岁和10岁时收集的DNA样本，他们测量了端粒长度，发现有不幸童年的儿童平均有较短的端粒。研究还发现，5岁前遭到虐待但之后没有经历暴力的儿童的端粒反而增长了，而5岁到10岁之间遭到多次虐待的儿童能观察到明显的端粒损失模式。
+</i>
+➜Google编程之夏入围项目公布
+https://www.solidot.org/story?sid=29332	10800
+<a href="https://twitter.com/#!/calvinkevins">kevin.van</a> 写道<i> "Google编程之夏（Google Summer of Code），是由Google公司所主办的年度程式设计比赛，第一届从2005年开始。“Summer of Code”之名取自1967年的“夏日之爱”（Summer of Love）风潮。比赛的主要目的是鼓励学生参与开放源代码的程式设计活动。今年的
+<a href="http://www.google-melange.com/gsoc/projects/list/google/gsoc2012">Google编程之夏围入围项目</a>来自KDE、GNU、Blender基金会、Debian、<a href="https://www.torproject.org/getinvolved/volunteer.html.en#vidalia-hidden-service-panel">Tor</a>(实现隐藏服务器配置和带宽调度插件)、Mozilla等著名的开源和自由软件项目。
+"</i>
+➜洋葱开源浏览器进入苹果App Store
+https://www.solidot.org/story?sid=29333	12480
+基于Tor匿名网络的开源浏览器<a href="http://v3.mike.tig.as/onionbrowser/">Onion Browser</a>已被苹果接受，以<a href="http://itunes.apple.com/us/app/onion-browser/id519296448?mt=8">0.99美元</a>的价格在App Store中销售，软件10%的销售收入将捐赠给Tor Project和电子前哨基金会。Onion Browser将通过洋葱路由加密互联网通信，隐藏冲浪痕迹，保护用户不被ISP或WiFi网络中的用户监听，能伪装HTTP User-Agent header。源代码发布在<a href="https://github.com/mtigas/iOS-OnionBrowser">GitHub</a>上。
+➜32亿像素数码相机获美国能源部批准
+https://www.solidot.org/story?sid=29334	20400
+斯坦福线性加速器中心设计的32亿像素数码相机<a href="https://news.slac.stanford.edu/features/worlds-largest-digital-camera-project-passes-critical-review">获美国能源部批准</a>，正逐渐变为现实。大型综合巡天望远镜(Large Synoptic Survey Telescope)照相机能每周巡视一遍全部的可见天空，能捕捉到最广、最快和最深的夜空景象，每年能创造出600万GB数据，相当于用标准的8百万像素镜头每晚拍摄80万张照片，但具有更高的质量和科学价值。它将能帮助解答一些关键问题，如暗物质和暗能量的属性，帮助研究近地小行星，柯伊伯带天体，银河的结构等。如果计划一切顺利，望远镜将于2014年开始建造，其主镜直径为8.4米，将安装在智利Cerro Pachon山顶。
+➜Google宣布托管Linux内核镜像
+https://www.solidot.org/story?sid=29335	20880
+Google官方博客<a href="http://google-opensource.blogspot.com/2012/04/worldwide-mirrors-of-gitkernelorg.html">宣布</a>它将托管一个git.kernel.org的镜像。Google说，Git版本控制系统在Linux内核及相关工具开发中起着巨大的作用，来自全世界的开发者需要能快速访问git.kernel.org托管的代码库，Google将通过<a href="https://kernel.googlesource.com/.">kernel.googlesource.com</a>为git.kernel.org提供公共镜像服务（只读），kernel.googlesource.com的服务器分布在亚洲、美国和欧洲的多个数据中心，世界任何地方的人都能快速访问。
+➜CERT发布Linux安全工具Triage Tools 1.0
+https://www.solidot.org/story?sid=29337	25920
+CERT的开发者<a href="https://www.cert.org/blogs/certcc/2012/04/cert_triage_tools_10.html">发布了</a>一个GNU Debugger (GDB)扩展exploitable，能根据重要性分类Linux应用程序的bug。<a href="http://www.cert.org/vuls/discovery/triage.html">CERT Triage Tools</a>包括了扩展exploitable和一个包装器脚本。开发者称，微软在2009年发布了Windows debugger的<a href="http://msecdbg.codeplex.com/">一个安全扩展</a>，其中包括了命令!exploitable，能提供Windows平台软件的自动化崩溃分析和安全分析评估，苹果随后发布了在OSX平台上执行相同任务的工具<a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20390">CrashWrangler</a>，他们注意到Linux平台缺乏类似的工具，Triage Tools就是为了填补这一空缺。
+➜报道声称淘宝腐败严重
+https://www.solidot.org/story?sid=29338	27360
+《IT时代周刊》的一篇调查报道<a href="http://www.ittime.com.cn/index.php?m=content&amp;c=index&amp;a=show&amp;catid=29&amp;id=2006">声称</a>，淘宝小二——即淘宝工作人员——手中权力的增大为利益寻租腐败打开了大门。报道称诚信经营、公平竞争等一系列正常的商业规被腐败产业链控制，“从以前的个人索贿发展到目前的涉及到淘宝从技术人员、活动策划人员到客服人员全方位跨部门、跨专业的团伙性作案，淘宝小二的腐败猖獗已经成为整个淘宝系员工的常态。而这种常态已经成为影响淘宝平台公平商业交易的巨大黑洞。”目前尚未看到淘宝官方的回应。
+➜盖亚假说提出者承认错误预测气候变化速度
+https://www.solidot.org/story?sid=29339	30720
+<a href="http://zh.wikipedia.org/wiki/%E8%93%8B%E4%BA%9E%E5%81%87%E8%AA%AA">盖亚假说</a>（Gaia Hypothesis）提出者、英国科学家詹姆斯·洛夫洛克(James Lovelock)曾经预言了全球气候变化引发的灾难，他在《独立报》上<a href="http://www.independent.co.uk/opinion/commentators/james-lovelock-the-earth-is-about-to-catch-a-morbid-fever-that-may-last-as-long-as-100000-years-523161.html">写道</a>，“在本世纪中，温带地区的温度将会升高8摄氏度，热带升高5摄氏度”，结果是“到本世纪结束前，将会有数十亿人死亡，幸存下来的人将生活在北极地区，因为那里的气候还能让人忍受下去。”现在洛夫洛克收回了他的预言，承认他及其他著名的全球变暖支持者的话危言耸听。<a href="http://news.slashdot.org/story/12/04/25/1325241/gaia-scientist-admits-mispredicting-rate-of-climate-change">他表示</a>，“问题是我们不知道气候如何发展。20年前我们以为自己知道，因而出现了一些危言警示的书籍——包括我的——因为事实看起来显而易见。但灾难并没有发生。”他说，千禧年以来世界的温度并没有升高多快，十二年是一个合理的时间，但温度几乎保持不变，尽管二氧化碳浓度一直在上升。他认为气候确实在变化，但变化速度十分缓慢。
+➜新浪关闭四位被指传播谣言的微博帐号
+https://www.solidot.org/story?sid=29340	32040
+《金融时报》<a href="http://www.ft.com/intl/cms/s/0/23c9d58c-8ec1-11e1-ac13-00144feab49a.html#axzz1t8gH8Z00">报道</a>，中国政府正进一步<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/04/120425_sina_weibo_control.shtml">加强管制社交网站</a>，试图阻止互联网谣言传播。新浪微博关闭了4个微博帐户，声称这些微博帐户传播谣言，并呼吁用户“遵守法律法规，不传谣，不信谣，发现谣言及时举报，共同维护健康的网络环境和良好的社会秩序。”其中一位被关闭帐号的用户是《证券市场周刊》的财经记者李德林，另一位是广州商人巫冠聪，另外两位是阳光的元士和龙逸天-94。据称他们已被“依法予以处理”——也就是拘留的意思。
+➜香港限制内地产妇赴港产子
+https://www.solidot.org/story?sid=29341	33300
+香港政府<a href="http://www.ftchinese.com/story/001044290">周三宣布</a>，当地私立医院明年将停止接收为使即将出世的宝宝获得香港居留权而赴港产子的内地产妇。在政治和法律制度有别于中国内地的香港，内地产妇赴港产子已成为一个越来越情绪化的问题。许多香港人讨厌内地人利用这一途径为子女获得教育权和居留权。大量产妇的涌入还给香港的医院带来了压力。2010年，在香港出生的近9万婴儿中，逾三分之一为内地产妇所生，而2001年时内地产妇在港所生的婴儿只有620个。新当选香港下届行政长官梁振英表示，他的政府将寻求确保配偶非香港人的内地产妇产下的子女不再拥有香港永久居民身份。
+➜法庭裁决银行不需要为钓鱼欺诈受害者的损失负责
+https://www.solidot.org/story?sid=29342	35400
+一位银行客户被钓鱼网站欺骗，导致损失5000欧元，他要求银行为钓鱼攻击负责，但德国法庭裁决<a href="http://arstechnica.com/business/news/2012/04/clients-not-banks-liable-for-losses-in-phishing-scams-court-rules.ars">受害者应该为自己的粗心大意负责</a>。这位客户在一个看起来像银行官网的钓鱼网站输入了10位交易码，他指控银行应保护客户抵御此类的攻击，但法庭认为银行并没有责任，它已经警告过客户，因此客户需要为金钱的损失负责。银行称，众所周知，要求多次输入交易码是钓鱼的明确信号。
+➜发光的太阳能电池有更高的光电转换效率
+https://www.solidot.org/story?sid=29343	37920
+加州伯克利的研究人员找到了一种反直觉的方法提高太阳能电池的光电转换效率——<a href="http://www.osa.org/about_osa/newsroom/news_releases/releases/04.2012/solar-cell-that-also-shines.aspx">让它们发光</a>。研究显示，太阳能电池产生光子的能力越强，它们的光电效率越高。<i>
+自1961年以来，科学家发现，在理想情况下，太阳能电池可收集到的太阳光能量比率有33.5%的绝对限制，意味着至多33.5%的入射光能被吸收和转换成电力。但至今传统单藕合太阳能电池最高光电效率还只达到26%左右。Eli Yablonovitch教授的团队发现，关键是让电池既能吸收光子又能发射光子。他们研制的原型电池板效率从26%增加到28.3%。 </i>
+➜为什么不和表亲结婚？数百万人都这么做
+https://www.solidot.org/story?sid=29344	41040
+即将出版的一本新书称，表亲结婚的健康风险<a href="http://phys.org/news/2012-04-cousin-millions.html">被严重夸大了</a>。作者、医学遗传专家Alan H. Bittles从法律、文化、宗教和医学角度调查了表亲婚姻相关的常见误解。<i>
+表亲之间结婚在西方世界中是禁忌，美国50个州有31个州宣布嫡亲表兄妹结婚非法，但在世界其它地方表亲婚姻的做法却是容忍甚而是鼓励的。南非和中东国家20-50%的婚姻是在嫡亲表兄妹甚至是更亲近的亲戚之间结婚。世界10%的人是与远房堂亲甚至更亲近亲戚之间结婚，或父母是表亲。达尔文的妻子是他的表姐，祖父母也是表亲。表亲婚姻被认为会增加畸形后代的风险，Bittles认为风险被过于夸大了，超过90%的表亲婚姻产生畸形后代的风险与普通人口一样。此外表亲婚姻还具有一些非遗传因素方面的优势。
+</i>
+➜中国微博改变中国了？
+https://www.solidot.org/story?sid=29345	42300
+美国芝加哥大学社会学系教授赵鼎新认为，中国的微博公共空间<a href="http://www.dfdaily.com/html/150/2012/4/26/782916.shtml">争论难以取得共识</a>，因为都是鸡对鸭讲，自说自话。<i>
+他指出了Twitter与微博差异：Twitter一条只能显示140个字符，评论只能显示5 条，转发次数最多也只能显示出“50+”，没有长微博，没有替代博客功能，许多讨论仍然是在博客空间进行；而微博可以无限制被评论，显示很精确的转发数，还带有长微博功能，正在替代博客，水军的影响力巨大，使微博更容易形成强势意见领袖和网络红人，而网民也有了更大的被操纵的危险。他认为，“当前出现的不少打擦边球行为实际上只是在消费大众思潮。说实话，这也就是为什么当前中国政治骗子不少，在中国有消费国家体制的，消费自由主义的，消费民族主义的，消费左倾思潮的，消费民粹的，应有尽有。这市场实在是太大了。可以预见，一有风吹草动，微博就会成为传播信息和谣言的阵地。”</i>
+➜Ubuntu 12.04 Precise Pangolin发布
+https://www.solidot.org/story?sid=29346	53400
+Ubuntu<a href="http://www.ubuntu.com/ubuntu/whats-new">发布</a>了<a href="http://releases.ubuntu.com/precise/">Ubuntu 12.04 Precise Pangolin</a>长期支持版。主要新特性<a href="https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuDesktop">包括</a>：<i>
+桌面版：Unity桌面引入了抬头显示（HUD）搜索功能，替代传统的菜单；Video Lens视频搜索，可搜索本地和互联网；默认音乐播放器改为Rhythmbox；3.2.14 kernel，LibreOffice 3.5.2，GNOME 3.4.1，新远程桌面客户端Remmina；从Software Center安装软件后会自动安装相应的语言包；其它软件更新包括Upstart 1.5，GCC 4.6.3，Python 2.7.3和Python 3.2.3等。<a href="https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuServer">服务器版</a>：最新的OpenStack，正式支持Xen，Metal as a Service，Java，ARM支持等等。 </i>

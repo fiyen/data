@@ -1,0 +1,24 @@
+➜Linux内核 2.6.19 发布
+https://www.solidot.org/story?sid=1368	12840
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"在上次发布两个月后，<a href="http://lkml.org/lkml/2006/11/29/249">Linux 2.6.19</a>已经放出。新的功能包括了GFS2 文件系统，<a href="http://lwn.net/Articles/156921">Ecryptfs</a>，EXT4的第一个开发版本，对Atmel AVR32结构的支持，<a href="http://lwn.net/Articles/202847">Sleepable RCU</a>,基于NUMA系统的改进，在x86-64PC上提供一个“-o flush”选择可支持FAT系统多媒体播放器如mp3的热插拔，物理CPU和内存的热插等等。可在此阅读所有的<a href="http://kernelnewbies.org/LinuxChanges">内核变化报告</a>。<a href="http://kernel.org/">下载</a>。"</i>
+➜实名制最多只能满足权力的管理幻觉
+https://www.solidot.org/story?sid=1369	15900
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"<a href="http://zqb.cyol.com/content/2006-12/01/content_1594351.htm">中国青年报报道</a>，中国互联网协会一官员透露，准备尝试在网络实行有限实名制即后台实名，以平衡个人隐私和公众利益。其实无论从实施成本和实施效果来看，保障公众的表达权利，是让他们为自己言行负责的最好途径，外在管制是最蹩脚的手段。即使非要实行实名制，也首先要防止公权力滥用实名制限制公民表达。防止权力的腐败，要永远先于防公民的不负责任。"</i>
+➜为什么中文维基百科与英文版不同
+https://www.solidot.org/story?sid=1370	18780
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"News.com上的一篇文章对维基百科上相同条目的内容进行对比发现<a href="http://news.com.com/Wikipedia+lays+bare+two+versions+of+Chinas+past/2100-1032_3-6139963.html">英文版的与中文版的有很大不同</a>。文章讨论了为什么这些看起来被过滤过的信息在中文维基里面是如此盛行，因为中国的教育里面那就是“真相”。"</i>
+比如说Mao Zedong是谁？
+<i>"英文版里提到了他的功绩，也提到他可能造成了数百万人的死亡。中文版则对五六十年代的整肃运动没怎么提，如大跃进。一些人认为现在中文维基百科应该提供正确的信息。实际上自我审查没什么用，政府仍然时不时的进行封锁。知名博客Isaac Mao表示：现在在保持中立立场或者与政府妥协上有很多争论。维基百科的本地化，首先应该是要让中国人知道，然后一步步让他们理解维基百科的原则。"</i>
+另一个中国百科全书百度百科被认为很多内容拷贝自中文维基百科，对用户的统计信息也不肯透露，该公司一位女发言人表示他们的指导方针是“不超越现有的国家体制”。至于这句话的意思，“中国人都知道”。
+➜微软是一个创新者还是模仿者？
+https://www.solidot.org/story?sid=1371	41700
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"博客Robert Scoble（前微软传道士）和Dave Winer（微软的批评家）开始争论微软是否<a href="http://online.wsj.com/public/article/SB116490323676636989-HnHPKLzkyy9xKy2wnokbd2bc_bE_20071130.html?mod=blogs">推动了创新还是仅仅扮演跟随的角色</a>。他们之间email的交流发表在了华尔街日报（WSJ.com）上。"</i>
+Winer写道<i>"
+微软不是一个创新者，从来都不是。他们总是跟在后面进行设计，这是他们的M.O。他们的发展方针可以描述为跟屁虫（chasing tail lights），只有当一个市场价值数十亿的时候他们才会感兴趣。微软先让别人去开发，接着跟随在后面进来。"</i>
+Scoble回答<i>"
+微软的创新可以从小处看到。比如你收到的IE浏览器错误提示信息上的一步步改进，或对ClearType字体的改进等。他们在很多细小的事情上改善了我们的体验，这些东西是如此的微小以至于我们经常没有注意到。但是微软仅仅只能在小的方面进小创新吗？绝对不是。Office 2007就可以让我在几秒钟完成一些以前要花上几分钟或其他人要用几个小时才能完成的事情。
+"</i>
+➜Psiphon已经可以下载
+https://www.solidot.org/story?sid=1372	44400
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"<a href="http://psiphon.civisec.org/">Project Psiphon</a>已提供公开下载，基于GPL许可。加拿大人研究的这个软件第一次允许一个没有互联网内容审查的国家（或者防火墙）如加拿大为其他进行审查的国家（典型中国）的人<a href="http://www.cnn.com/2006/TECH/internet/11/30/internet.firewalls.reut/index.html">设置一个用户名和密码</a>，然后那个人就可以自由的上色情暴力或其他网站。这个想法不是什么新鲜的东西，但它成为现实确实非常有趣。网站上还提供了一个<a href="http://psiphon.civisec.org/PsiphonAug232006.html">Flash动画</a>说明它是如何工作的。
+这里<a href="http://psiphon.ca/download.php">下载</a>（一个人似乎没用）。"</i>

@@ -1,0 +1,48 @@
+➜IESG批准发表HTTP错误码451
+https://www.solidot.org/story?sid=46594	13181
+互联网工程指导委员会（IESG）上周批准<a target="_blank" href="https://www.mnot.net/blog/2015/12/18/451">发表了</a>HTTP错误码451“<a target="_blank" href="https://datatracker.ietf.org/doc/draft-ietf-httpbis-legally-restricted-status/"><u>An HTTP Status Code to Report Legal Obstacles</u></a>”，它还需要经过一系列程序才能成为正式标准，但现在你已经可以使用它了。4xx类状态码是为了说明用户遭遇的错误，如404 Not Found是计算机能访问网站服务器，但无法返回所请求的信息；403 Forbidden是计算机能访问服务器，但服务器拒绝请求。但如果一位用户试图访问一个被审查的网站或网页，访问被拒绝后他并不知道是服务器的原因还是政府的原因。Tim Bray为此提出了451状态码，451这一数字源自雷·布莱伯利的反乌托邦小说《华氏451》，书中描绘了一个压制自由焚烧书籍的未来世界。451状态码对中国没什么用，因为对网站或网页的审查几乎从未经过法律程序，用户最多只能看到连接重置的错误信息，或者某个网页被删除后返回找不到文件的出错信息。
+➜新加坡博主“诽谤总理”被罚15万
+https://www.solidot.org/story?sid=46595	14577
+新加坡博主<a target="_blank" href="http://thehearttruths.com/"><u>鄞义林</u></a>去年发表的一篇博文，影射身兼新加坡政府投资公司主席的总理李显龙，涉嫌滥用了新加坡人公积金账户中的款项。<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=thread&amp;sid=39744"><u>他被控诽谤总理</u></a>，新加坡高等法院法官李兆坚上周宣布裁决，<a target="_blank" href="http://www.nanzao.com/sc/international/151b42c82edbbba/fei-bang-li-xian-long-zui-cheng-xing-guo-bo-zhu-bei-fa-chao-68-"><u>诽谤罪名成立</u></a>，他必须赔偿15万新加坡元。法官在裁量的时候考虑了5个因素，包括：诽谤内容和严重性；双方身份地位；博客的浏览人数和鄞义林的自我定位；博文被传播的程度；鄞义林在案发之后的表现。法官认为，这起诽谤案牵涉一个由国家管理、公民付款的养老基金，而且是针对政府领导人的指控，会严重打击个人诚信和信誉；而由于领导人担任要职，声誉对他们领导的能力和获得人民委托执政至关重要；而且鄞义林在向李显龙道歉之后，仍继续发表其他博文，并发电邮给媒体，说明他没有悔意，他还指李显龙提告是为了打压异见，或避免任何有关公积金的调查，加重了诽谤的严重性。鄞义林表示，在惹上官非之后失业近一年，家境不佳，最多只可以赔偿1万美元。
+➜挪威人想向芬兰赠送一座山
+https://www.solidot.org/story?sid=46596	17273
+为纪念芬兰独立一百周年（1917年到2017年），它的挪威邻居发起一个运动，呼吁将两国边境处的一座山Halti<a target="_blank" href="https://www.facebook.com/Haltijubileum/"><u>作为礼物送给芬兰</u></a>，挪威测绘部门的负责人对此表示支持。芬兰境内无高山，而Halti在挪威算不上非常高的山，如果将Halti送给芬兰，它将成为芬兰最高的山。Halti山高1365米，而芬兰海拔最高的地方（不是山）是1324米。将Halti山送给芬兰，挪威的领土只损失 0.015 平方公里。挪威支持者认为，这个礼物将让芬兰人铭记几千年。
+➜HIV在中国男同性恋中扩散
+https://www.solidot.org/story?sid=46597	19717
+在大部分国家，一般成年人口的HIV-1感染率很低或在处于下降趋势中。但男同性恋是一个例外，其人群有着 不同比例的高感染率。其中尤以亚洲男同性恋为最：亚洲的男同感染HIV-1的可能性是其它国家的19倍。在中国最近诊断的HIV感染病例中，男同感染的比例从2005年前的 0.3%增加到2011年的29.4%，最流行的几大省市是贵州、四川、广东、江苏、河南、辽宁和北京。发表在《Scientific Reports》的论文<a target="_blank" href="http://www.nature.com/articles/srep18147">发现</a>，在中国9大城市三种HIV-1毒株占了超过四分之三的男同感染。研究人员认为，需要针对中国男同人口推行有效的预防措施。
+➜Juniper ScreenOS绕过身份验证的后门
+https://www.solidot.org/story?sid=46598	25351
+Juniper防火墙产品运行的系统ScreenOS上周爆出了两个后门，一个后门与椭圆曲线伪随机数生成器有关，允许攻击者解密VPN流量；第二个后门允许攻击者绕过 SSH和Telnet 的身份验证。<a target="_blank" href="https://community.rapid7.com/community/infosec/blog/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor">该后门密码是</a>“is &lt;&lt;&lt; %s”(un='%s') = %u，它没有在旧的版本中发现，只影响ScreenOS 6.3.0r17和6.3.0r19，根据受影响版本发布的时间，后门密码最早是在2013年加入的。Juniper <a target="_blank" href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA10713&amp;cat=SIRT_1&amp;actp=LIST"><u>提供了</u></a>在日志中发现攻击者利用后门密码登录的方法。
+➜中国保险公司用无人机评估天津港爆炸的损失
+https://www.solidot.org/story?sid=46599	26113
+天津港8月发生爆炸事故后，中国人保财险<a target="_blank" href="http://cn.reuters.com/article/tianjin-ins-idCNKBS0U40HE20151221?sp=true"><u>使用无人机</u></a>帮助分析废墟和评估损失。通过将无人机拍摄的高清图片与事故前的卫星图片进行对比，中国人保得以确定多少辆车遭损毁以及德国汽车厂商大众在爆炸事故中的总计损失情况。该公司的一位副总经理林长青称，“地面上除了一个大坑什么都没有。”他表示，由于政府不允许进入爆炸地点周围1公里，没有无人机的话根本无法精确评估损失。中国无人机厂商正在满足越来越多的需求，包括警察巡逻、农业测绘和交通管制等。中国已经在世界无人机生产中处于领先地位，正在逐渐成为世界级的创新者，而不是仅复制外国的设计。研究公司Taibo Intelligence预计，今年中国无人机行业营收将增长超过一倍至25亿元，到2020年营收将增至200亿元。
+➜委内瑞拉央行起诉公开黑市兑换率的网站创建人
+https://www.solidot.org/story?sid=46600	28200
+一家建在美国的网站<a href="https://dolartoday.com/"> </a><u><a target="_blank" href="https://dolartoday.com/">DolarToday</a></u>每天公布非官方的委内瑞拉博利瓦和美元兑换率，结果被委内瑞拉央行在美国<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/to-halt-venezuelan-currency-news-site-central-bank-sues-in-us-court/"><u>提起诉讼</u></a>。代表委内瑞拉央行的美国律师称，三名委内瑞拉裔美国人参与了“网络恐怖主义”，"创造了央行和共和国不能管理委内瑞拉经济的错误印象。"委内瑞拉央行指控DolarToday违反了反勒索法、犯罪阴谋法、虚假广告、不当得利、以及与造成伤害有关的委内瑞拉民法。委内瑞拉经济过去几年一团糟，该国被认为处于政治危机的边缘。委内瑞拉从2003年起就对货币进行严格控制，居民很难在公开市场兑换货币。DolarToday是通过委内瑞拉和哥伦比亚边境的货币交易商了解非官方的货币兑换率，它公开的黑市兑换率（1美元兑换865博利瓦）远高于官方兑换率（1美元兑换6.35博利瓦），因此大大激怒了委内瑞拉政府。
+➜Facebook视频播放器用HTML5替换Flash
+https://www.solidot.org/story?sid=46601	28967
+Facebook<a target="_blank" href="https://code.facebook.com/posts/159906447698921"><u>宣布</u></a>网站使用的视频播放器从Flash替代到HTML5。Facebook是出于安全理由放弃Flash，但切换到HTML5也带来许多好处，比如服务器端的变动不需要每次都重编译播放器的swf文件。Facebook称，在切换到HTML5视频播放器后，用户的视频体验改进了，视频启动更快、点赞和评论也更活跃。HTML5视频不需要安装插件，能工作在任何支持HTML5的浏览器上。
+➜印度将在网上公开中等教育教科书和学习材料
+https://www.solidot.org/story?sid=46602	31673
+印度人力资源发展部部长Smriti Irani<a target="_blank" href="http://economictimes.indiatimes.com/news/politics-and-nation/good-governance-cbse-books-to-be-made-available-online-for-free-says-smriti-irani/articleshow/50245429.cms?from=mdr"><u>宣布</u></a>，中等教育中心委员会（CBSE）制定的所有教科书和学习材料将在网上免费公开。在这之前，印度已经宣布国家教育和培训委员会（NCERT）的所有教科书以电子书和移动应用的方式在网上免费发布。这项计划书改善中央政府治理措施的一部分。
+➜夏威夷巨型望远镜建造地点的建筑设备已经撤除
+https://www.solidot.org/story?sid=46603	34686
+<div align="center"><img src="http://img.solidot.com.cn/0/158/liTIwccDQrs.jpg" align="" height="338" width="450"><br>
+<br>
+</div>
+夏威夷媒体<a target="_blank" href="http://www.hawaiitribune-herald.com/news/local-news/tmt-equipment-removed-protesters-praise-decision-express-joy-and-gratitude"><u>报道</u></a>，Mauna Kea火山上巨型望远镜Thirty Meter Telescope建造地点的重型机械设备已经移除。这标志着原住民的又一大胜利，他们认为建造望远镜是在玷污神圣的土地。原住民对最新的事态发展表示高兴。本月早些时候，夏威夷最高法院判决州土地和自然资源委员会签发的土地使用许可无效。天文学家仍然希望最终能建造 Thirty Meter Telescope，因为它将是北半球最大的陆地光学望远镜，类似大小的两个光学望远镜正在南半球的智利建造。
+➜《火星救援》作者的下一部小说以月球为背景
+https://www.solidot.org/story?sid=46604	38168
+改编自Andy Weir同名科幻小说的电影《火星救援（The Martian）》讲述了一位孤立在火星上等待救援的NASA宇航员求生的经历，这部电影票房大卖影评也是一片叫好。粉丝们可能也想知道作者的下一部作品是关于什么。Huffington Post<a target="_blank" href="http://www.huffingtonpost.com/entry/andy-weir-new-book_56731588e4b0648fe302a63c"><u>报道</u></a>，Andy Weir的新小说以月球为背景，主角是一位住在月球城市里的女性，预计将在2016年底或2017年初出版。Andy Weir在写作前会进行大量研究，他前不久在Reddit AMA 上<a target="_blank" href="https://www.reddit.com/r/books/comments/3m34oc/i_am_andy_weir_author_of_the_martian_ama/"><u>回答说</u></a>，他放弃了月球基地的故事，但出版商喜欢这个背景，但不喜欢故事，所以除非他想出了更好的故事，否则他不会动笔写。以月球为背景的科幻小说不少，其中比较著名的包括海因莱因的人工智能和月球起义小说《严厉的月亮》，20世纪福克斯正<a target="_blank" href="https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress#Film_adaptation">在改编这部小</a>说，电影名字被改为《起义》。<br>
+➜伊朗黑客曾入侵美国的水坝系统
+https://www.solidot.org/story?sid=46605	38705
+《华尔街日报》援引前任以及现任美国官员和专家的消息<a target="_blank" href="http://cn.wsj.com/gb/20151221/bgh142350.asp"><u>报道</u></a>，伊朗黑客两年前入侵了距离纽约市不到20英里处一个小型水坝的控制系统，引发的担忧蔓延至白宫。这一事件此前并未公开披露。随着美国进入一个数字化的国与国冲突时代，仍为机密等级的水坝系统遭入侵事件说明了美国官员的一个头等担忧。美国的电网、工厂、管道、桥梁和水坝系统都是数字部队的主要目标，它们正在基本未受保护的情况下暴露在互联网上。而且，不同于传统战争，有时很难知道一个系统是否已遭到入侵或哪里遭到入侵。就水坝计算机系统遭入侵来说，联邦调查人员最初认为黑客的目标可能是俄勒冈州的一个更大规模的水坝。
+➜台湾反对党成为大陆骇客的目标
+https://www.solidot.org/story?sid=46606	40896
+安全公司FireEye<a target="_blank" href="https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html"><u>报告</u></a>，从11月25日到12月1日，中国的APT组织对台湾和日本的目标发动了多波钓鱼攻击，利用微软在11月10日修复的Microsoft Word漏洞和Windows本地提权漏洞感染目标机器。研究人员特别关注了一个以台湾媒体机构为目标的APT16组织，该组织以“民进党联系人信息更新”为主题发送钓鱼邮件。彭博社<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-12-20/taiwan-opposition-hacked-as-china-s-cyberspies-step-up-attacks-iif2vmh1">报道称</a>，民进党国际事务部副主任陈婉宜表示，民进党已经受到攻击好几个月，但过去几周，攻击的频率有所上升，她本人的电子邮箱也受到攻击。陈婉宜是50个被锁定目标的民进党成员之一，她留意到一名同事的内部电邮的写作出现不一致，因此格外警惕。陈婉宜说：“有假邮件，但看起来就像是她写的。我读的时候，觉得风格不像是她，所以我打电话去问她是否曾发过这些邮件，她说没有。”陈婉宜收到据称来自蔡英文的演讲撰写人的邮件，还收到一名民进党两岸关系政策团队成员的邮件。在这些邮件中，写信人都叫收信人打开一个附件，指里面是一份文件草稿。陈婉宜的Gmail账号<a target="_blank" href="http://www.nanzao.com/sc/national/151c33afda1dd9b/wai-mei-mei-gong-si-fa-xian-lu-hei-ke-gong-tai-ji-gou-min-jin-dang-nei-bu-xian-jia-dian-you"><u>曾被入侵</u></a>，黑客删除了电话号码关闭了二步认证，并将电子邮件转发到另一个地址。
+➜火星殖民者应该独立吗？
+https://www.solidot.org/story?sid=46607	45274
+雄心勃勃的亿万富翁和各国宇航机构都试图在未来几十年内登陆火星。当宇航员在火星上着陆，他们将代表各自的企业和国家。当他们建立起殖民地、研究站和生活设施，他们将需要向各自的国家报告。1967年的《外层空间条约》禁止通过提出主权要求，将包括月球和其它天体在内的外层空间占为己有。但条约的约束对于私人企业是模糊的。虽然国家不能将火星占为己有，理论上它们可以使用任意的火星的资源。研究员Jacob Haqq-Misra对此提出了一种不同的观点，<a target="_blank" href="http://www.bbc.com/future/story/20151215-why-mars-should-be-independent-from-earth"><u>他认为应该给予殖民者完全的独立</u></a>。他提出了五种确保殖民在独立的自由：登陆火星的人类放弃他们的地球公民身份，他们现在是火星人...这一观点听起来有些奇怪，因为私人企业或政府投入了数十上百亿美元登陆火星，结果他们的宇航员却独立了，不再受他们的控制。Haqq-Misra指出这并非不可思议，这将会吸引地球人参加危险的太空旅行前往火星殖民。他同时指出这有先例：美国曾是英国的殖民地，它最后独立了。如果下一代火星殖民者都没有去过地球，他们还称得上地球公民？
+➜XDA再访中国，再次体验长城
+https://www.solidot.org/story?sid=46608	46648
+XDA的社交媒体经理Mathew Brack今年8月应邀出席了深圳的一个发布会，<a target="_blank" href="http://www.solidot.org/story?sid=45262"><u>体验了</u></a>下防火长城。他前不久第二次访问中国前做好充分准备，结果他发现他错了，他发表了《<a target="_blank" href="http://www.xda-developers.com/walking-the-great-firewall-of-china-part-ii/"><u>体验防火长城之Part II</u></a>》。他发现华为提供的一个付费VPN被封了，他测试了多个VPN只有一个<a target="_blank" href="https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity&amp;hl=en_GB"><u>免费的</u></a>可以翻墙，他注意到如果你愿意付昂贵的漫游费（1MB就要6英镑），你可以使用本国的手机卡上网，这个网没有墙。

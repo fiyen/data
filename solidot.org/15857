@@ -1,0 +1,24 @@
+➜芦山地震如何发生
+https://www.solidot.org/story?sid=34971	31409
+根据发表在《中国科学：地球科学》上的<a target="_blank" href="http://earth.scichina.com:8080/sciD/CN/abstract/abstract510945.shtml"><u>论文</u></a>，研究人员利用地震波等数据反演了4月20日发生的芦山<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-06/scp-rpo052913.php"><u>地震震源破裂过程</u></a>。震源破裂过程显示，芦山地震破裂面长度主要集中在震中附近28 km左右的区域，矩震级大小为Mw6.6，最大滑移量1.5
+m左右，位错滑动量基本以逆冲为主，且破裂主要集中在13 km深度附近，地震能量主要释放在前10s。在20s和30s左右有两个小的能量释放阶段，此时滑移量主要集中在断层深部区域，并使得破裂面南北向展布达到40
+km左右。地表滑移量很小，因此此次地震可能地表破裂不明显，滑移量主要在深部释放。这也解释了为什么受灾区域比主要破裂滑移区域大的原因。2008年汶川地震也位于芦山地震的龙门山断裂上，两个地震的破裂带之间存在着50
+km左右的区域还没有地震的破裂，该空白区存在着较高的地震危险性。
+➜1%的人控制着39%的世界财富
+https://www.solidot.org/story?sid=34972	41772
+根据Boston Consulting Group的《<a target="_blank" href="http://www.bcg.com/expertise_impact/PublicationDetails.aspx?id=tcm:12-135357&amp;mid=tcm:12-135356"><u>Global Wealth 2013</u></a>》报告，1%的富人控制着<a href="http://www.cnbc.com/id/100780163"><u>全世界39%的财富</u></a>——约52.8万亿美元。报告称，未来五年百万富翁的年均财富增长率将会是全球财富年增长率4.8%的近两倍。资产超过五百万美元的人的财产年增长率将达到8%，亿万富翁将达到 9.2%。到2017年，亿万富翁占全球财富的份额将从今天的5.5%增加到6.8%。发达国家富豪的财富增长主要来自股市，发展中国家则是经济增长和储蓄。
+➜Linux平台上类似CPU-Z的开源工具
+https://www.solidot.org/story?sid=34973	43512
+<a href="mailto:jglovandandy@gmail.com">Jane Glover</a> 写道<i> "系统硬件信息可以帮助技术支持诊断问题，或者帮助你评估系统是否支持某些软件或硬件。CPU-Z是Windows平台上一款大受欢迎的收集系统主要硬件信息的免费工具，它能将粗犷的技术数据转变成易于阅读的图表。Linux平台上有<a target="_blank" href="http://www.linuxlinks.com/article/20130527041031209/SystemProfilers.html"><u>许多类似CPU-Z的系统分析工具</u></a>，能以类似的方式呈现硬件信息，例如：基于Python的CPU-Z替代<a target="_blank" href="http://sourceforge.net/projects/cpug/"><u>CPU-G</u></a>，基于Gambas的CPU-Z替代<a target="_blank" href="https://launchpad.net/i-nex"><u>I-Nex</u></a>，依据SMBDIOS/DMI 标准报告系统硬件信息的<a target="_blank" href="http://www.nongnu.org/dmidecode/"><u>dmidecode</u></a>，i7、i5和i3 CPU报告工具<a target="_blank" href="http://code.google.com/p/i7z/"><u>i7z</u></a>等。"</i>
+➜三星S3手机浏览器发现罕见吞流量bug
+https://www.solidot.org/story?sid=34974	45904
+不要在移动3G网络上用三星S3智能手机访问维基百科，除非你的移动流量没有限额。麻省大学阿默斯特分校的研究人员<a target="_blank" href="http://lass.cs.umass.edu/papers/pdf/mbenchlab_iwqos13.pdf"><u>发现</u></a>（PDF）S3手机浏览器<a target="_blank" href="http://mobile.slashdot.org/story/13/05/31/2312239/bug-in-samsung-s3-grabs-too-many-images-ups-data-use"><u>存在一个bug</u></a>，不能正确处理<a target="_blank" href="http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/"><u>srcset HTML标签</u></a>。维基百科使用srcset标签列出一系列不同大小的图像，根据设备的分辨率调用图像。三星S3浏览器有bug，它会同时下载所有的srcset图像而不是根据需要选择一个，这会导致延迟增加下载大小从百k增加到数MB左右。研究人员在最新版本 Android 4.2.2 for S3 GT-I9300上重复了这个结果。<br>
+➜4K电脑显示屏即将到来，只要五千美元
+https://www.solidot.org/story?sid=34975	48361
+<div align="center"><img src="http://img.solidot.com.cn/0/449/lilSpTPvE1X2A.jpg" align="" height="302" width="320"><br>
+</div>
+<br>
+电视机制造商已开始向普通消费者供应4K/8K分辨率的电视机，而电脑显示器仍然停留在1080P时代。这一局面正在发生改变，华硕宣布了31.5英寸<a target="_blank" href="http://www.asus.com/News/L9xTPmmMwTlPMq5l"><u>PQ321</u></a>显示器，第一款面向消费者的4K桌面显示器。目前华硕没有公开价格，但推测价格约在<a target="_blank" href="http://www.extremetech.com/computing/157058-asus-launches-the-first-consumer-oriented-4k-monitor-yours-for-around-5000"><u>五千美元左右</u></a>，比当前市场上动辄数万美元的4K显示器廉价得多。华硕的PQ321采用铟镓锌氧化物材料制造，不同于硅基的LCD，其分辨率为3840×2160，140PPI（每平方英寸像素），8ms灰阶响应时间，176度视角，350cd/m2明亮度。PQ321将于6月在美国上市。夏普在早些时候的CES2013展会上宣布了六千美元的4K显示器，但还不知何时发布。
+➜真实版钢铁侠太空盔甲正在开发之中
+https://www.solidot.org/story?sid=34976	52399
+去年10月奥地利极限运动员Felix Baumgartner穿着保护衣从39公里高度的热气球上跳下，在不打开降落伞的自由落体过程中<a target="_blank" href="http://www.solidot.org/story?sid=31795"><u>创下了</u></a>时速1342公里的世界纪录。未来有一天，你也可以像极限运动员那样在太空边缘跳向地球，但你的保护衣会更酷，因为它将装备类似钢铁侠动力盔甲的喷气背囊。Solar System Express (Sol-X)和Juxtopia LLC (JLLC) 正在联合开发<a target="_blank" href="http://www.gizmag.com/space-diving-iron-man-suit/27659/"><u>真实版钢铁侠盔甲</u></a>，计划在2016年发布生产型号，它能让宇航员或极限跳伞选手从距地面100公里高度上跳下。为了实现目标，研究团队需要克服许多困难，如真空、低温、缺氧、低压，以及承受高超音速冲击波的热量，解决压力相关身体症状。

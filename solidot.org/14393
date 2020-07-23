@@ -1,0 +1,161 @@
+➜SATA 3.0发布，传输速度达6Gb/s
+https://www.solidot.org/story?sid=11569	60
+串行ATA国际组织（SATA-IO）发布了<a href="http://techfragments.com/news/823/Hardware/SATA_3-0_Released_Paving_The_Way_To_6Gbsec_SATA_Devices.html">新的Serial ATA Revision 3.0规格</a>。新版规格的传输速度达到了 6Gb/s，是SATA 2.0的2倍，支持多种应用。与其它SATA规格类似，SATA 3.0向后兼容早期的SATA产品和设备，因此更容易被主板制造商接受采用，无需担心消费者手中的旧SATA设备会出现问题。SATA 3.0的主要特性包括：新的原生指令排序（NCQ）串流命令，同步需大量带宽的音频视频应用的数据传输；NCQ管理功能，通过主机处理和管理未完成的NCQ命令优化性能；改进了电源管理功能等等。
+➜Windows下22个实用的代码编辑器
+https://www.solidot.org/story?sid=11572	7920
+<a href="mailto:catch229@gmail.com">indigo90</a> 写道 "虽然 Windows 下的代码编辑器有很多，但只有少数值得一用，而毕竟需要一段时间才能够找到最适合自己的那一个，那么，来挑一个你最喜欢的吧！<a href="http://ineu.org.cn/blog/index.php/archives/429">[完整图文版]</a>。需要指出的是，我所提到的仅仅是每个编辑器最为突出的特点，显然还有很多其他的选择。此外，虽然我只提到了一个编辑器的特性之一，但这并不意味着其他的编辑器就不具备这样的功能。           1.Notepad++<br>
+官方网站 <a href="http://notepad-plus.sourceforge.net/">http://notepad-plus.sourceforge.net/</a> <br>
+最新版本 v 5.3.2 | 免费版<br>
+这可能是 Windows 里最好的免费文本编辑器了，具有简单的功能，从语法高亮、代码折叠到 FTP，Notepad++ 可以应付绝大多数情况，我最喜欢的功能是文件状态自动检测：当 Notepad++ 运行时，它会自动检查所有当前打开文件的变动，让你知道是否有文件被更新或删除。Notepad++ 基于 Scintilla 编辑引擎。<br> <br>
+2.JEdit<br>
+官方网站 <a href="http://jedit.org/">http://jedit.org/</a> <br>
+最新版本 v 4.20 | 免费版<br>
+在我看来，JEdit 是相当丑陋的，但它有一个大方的功能集合，作为一个 Java 程序，它是多平台的，它对超过 130 种语言提供了语法高亮功能。虽然官方网站声称它支持折叠，但我却找不到这个功能。JEdit 还有一个插件库，这可以实现更多的功能。<br> <br>
+3.Notepad2<br>
+官方网站 <a href="http://www.flos-freeware.ch/notepad2.html">http://www.flos-freeware.ch/notepad2.html</a> <br>
+最新版本 v 3.0.20 | 免费版<br>
+Notepad2 也是基于 Scintilla 编辑引擎的，但是它要比 Notepad++ 简单得多了，它标榜自己快速，轻量并与记事本相似，它提供多种语言的代码高亮。Notepad2 不需要安装，解压后就可以直接运行。还有一些修改后的版本（更多功能和语言支持）。<br> <br>
+4.Programmer’s Notepad<br>
+官方网站 <a href="http://pnotepad.org/">http://pnotepad.org/</a> <br>
+最新版本 v 2 0.9.926 | 免费版<br>
+Programmer’s Notepad 与 Notepad2 有着相似的用户界面，它支持多文件同时开启，还有书签、折叠和代码高亮的功能，但除此之外，也没什么了。<br> <br>
+5.Crimson Editor<br>
+官方网站 <a href="http://www.crimsoneditor.com/">http://www.crimsoneditor.com/</a> <br>
+最新版本 v 3.7 | 免费版<br>
+CrimsonEditor 提供宏支持并能够运行外部程序。它能够通过内置的 FTP 客户端编辑远程文件，还能够进行拼写检查，此外，它还有一个简洁的“列选择”模式。<br> <br>
+6.ConTEXT<br>
+官方网站 <a href="http://www.contexteditor.org/">http://www.contexteditor.org/</a> <br>
+最新版本 v 0.98.5 | 免费版<br>
+ConTEXT 支持许多种语言，不论是人类语言还是机器语言；而且还可以让你定义自己的自定义语言。它可以进行文件比较并将结果导出为 HTML，还包括其他一些有趣的功能。实用功能之一：ConTEXT 能够记忆你关闭文件时的光标位置，并且当再次打开该文件的时候将光标还原。<br> <br>
+7.SciTE<br>
+官方网站 <a href="http://gisdeveloper.tripod.com/scite.html">http://gisdeveloper.tripod.com/scite.html</a> <br>
+最新版本 v 1.77 | 免费版<br>
+SciTE 是一个非常简单的文本编辑器，同样基于 Scintilla。它非常简单，但支持大约 30 种语言的语法高亮和正则表达式的搜索与替换。<br> <br>
+8.Editra<br>
+官方网站 <a href="http://editra.org/">http://editra.org/</a> <br>
+最新版本 v 0.4.88 | 免费版<br>
+Editra 声称还在初级开发阶段，但已经提供了一大堆功能：用户配置文件，自动完成，会话保存和六十多种语言的语法高亮。可通过插件扩展的功能集，提供了综合的 Python 控制台，FTP 客户端，文件浏览器，计算器等等。<br> <br>
+9.PSPad
+<br>
+官方网站 <a href="http://www.pspad.com/en/">http://www.pspad.com/en/</a> <br>
+最新版本 v 4.5.3 | 免费版<br>
+PSPad 提供了模板，一个有趣的内置网页浏览器，一个宏记录表。它也支持十六进制编辑和某种程度的代码编译。PSPad 同时集成了 TopStyle Lite，假如用它来编辑 CSS 代码的话会派上用场。<br> <br>
+10.RJ TextEd<br>
+官方网站 <a href="http://www.rj-texted.se/">http://www.rj-texted.se/</a> <br>
+最新版本 v 5.10 | 免费版<br>
+RJ TextEd 同样集成了 TopStyle Lite，可以进行 HTML 的验证与格式化。它具有 FTP 客户端，文件浏览器和一个代码浏览器，还有一个字符映射表并支持 E-mail。<br> <br>
+11.SourceEdit<br>
+官方网站 <a href="http://www.brixoft.net/prodinfo.asp?id=1">http://www.brixoft.net/prodinfo.asp?id=1</a> <br>
+最新版本 v 4 | 免费版<br>
+SourceEdit 具有的功能包括剪贴板历史，语法高亮和一大套语言的自动完成，十六进制编辑器和 FTP 客户端，同样支持宏。<br> <br>
+12.TotalEdit<br>
+官方网站 <a href="http://www.codertools.com/totaledit.aspx">http://www.codertools.com/totaledit.aspx</a> <br>
+最新版本 v 5.2 | 免费版<br>
+TotalEdit 可以进行文件比较，正则表达式搜索与替换，并具有多种方案用于文件备份/版本控制。还能够对 (x)HTML 和 XML 进行自定义格式化，还具有一个拼写检查器。如果需要，可以将其安装在 USB 驱动器上，以随身携带。此外，还能将正在编辑的文件通过 E-mail 发送。<br> <br>
+13.Emacs<br>
+官方网站 <a href="http://www.gnu.org/software/emacs/">http://www.gnu.org/software/emacs/</a> <br>
+最新版本 v 22.3 | 免费版<br>
+不只是可以编辑纯文本文件，Emacs 具有特殊的功能帮助你在许多不同的程序里编写并标记语言。Emacs 可以比较并高亮显示两个文件间的异同。Emacs 还是个文件管理器。Emacs 能够阅读新闻，邮件和 RSS 更新。你甚至能在 Emacs 上玩俄罗斯方块。你可能会发现人们不只把 Emacs 看做是文本编辑器，Emacs 几乎是一个完整的操作系统。而有些用户还发现他们可以通过 Emacs 完成绝大部分的工作。<br> <br>
+14.Vim
+<br>
+官方网站 <a href="http://www.vim.org/">http://www.vim.org/</a> <br>
+最新版本 v 7.2 | 免费版<br>
+Vim 是一个难以置信的复杂的编辑器，在这个编辑器列表上它是与 Emacs 最为相似的了（虽然 Vim 和 Emacs 的用户之间似乎<a href="http://en.wikipedia.org/wiki/Editor_war">有点儿矛盾</a>）。考虑到有大量的关于它的文章（更不用说我对 Vim 只有粗略的了解了），我不认为短短的几段话能把它表述清楚。我只想说，Vim 具有这篇文章里所提到的所有功能，并且还有几百个以上。对于初学者，看看这个<a href="http://www.vim.org/6k/features.en.txt">“Vim in 6k”</a>吧。<br> <br>
+15.Bespin<br>
+官方网站 <a href="http://bespin.mozilla.com/">http://bespin.mozilla.com/</a> <br>
+最新版本 v 0.2.2 | Free<br>
+我知道 Bespin 不是一个通常意义上的 Windows 文本编辑器，而且它几乎没有其他编辑器的那些功能集，但我把它放入这个列表中，因为我真的喜欢在线编辑器的这个概念，并且它有一项其他编辑器都不具有的功能：云存取你的代码。Bespin 还提供了面向 HTML，CSS 和 JavaScript 的语法高亮功能。<br> <br>
+16.Textpad<br>
+官方网站 <a href="http://www.textpad.com/products/textpad/index.html">http://www.textpad.com/products/textpad/index.html </a> <br>
+最新版本 v 5.2.0 | 售价 $24.70<br>
+TextPad 是一个相当简单的编辑器：它拥有列选择，文件间文本拖放功能，还支持超级链接。它也支持大型文件（取决于你的虚拟内存设置）。就这么多？哦，功能列表还提到了右键菜单的支持。<br> <br>
+17.E-Text Editor<br>
+官方网站 <a href="http://www.e-texteditor.com/">http://www.e-texteditor.com/</a> <br>
+最新版本 v 1.0.30 | 售价 $34.96<br>
+这是最有趣的编辑器之一，主要得益于它为 Windows 带来的“外来化”功能。<br>
+与 Cygwin【Windows 下的类 Linux 环境】的紧密结合使你可以使用全部的 Unix Shelll 工具，还可以通过你所选择的语言——例如 Ruby、Perl、Python 等等——扩展功能。<br> <br>
+18.In-Type
+<br>
+官方网站 <a href="http://intype.info/">http://intype.info/</a> <br>
+最新版本 v 03.x (alpha) | 目前免费，预计售价 $25-$45<br>
+Intype 是一个仍在开发中的相当简洁的小型编辑器。目前它还没有很多的功能（甚至不能拖放文本），但看起来它将会变得相当出色。它所提供的代码片段很不错，并且已经提供了非常广泛的选择，支持 20 多种语言（支持添加额外的语言）。关注它吧，它是大有前途的。<br> <br>
+19.EditPlus<br>
+官方网站 <a href="http://www.editplus.com/">http://www.editplus.com/</a> <br>
+最新版本 v 3.10 | 售价 $35.00<br>
+EditPlus 没有什么独特的功能，但也有值得一提的细节：高亮显示 URL 和 E-mail 地址，Ctrl 键+双击激活它们。它还有一个用来预览 HTML 的内置浏览器，并提供了 FTP 和 SFTP 支持。同样还支持宏和正则表达式查找与替换功能。<br> <br>
+20.HippoEDIT<br>
+官方网站 <a href="http://www.hippoedit.com/">http://www.hippoedit.com/</a> <br>
+最新版本 v 1.42 | 售价 $39.95<br>
+针对自动完成 HippoEdit 提供了一些独特的功能：当你输入的时候有“小提示”在光标上以气泡的形式出现，显示对已输入内容的自动完成建议。它能够对 20 多种语言语法高亮，还提供这些语言的代码模板。HippoEdit 还支持自定义键盘快捷键和工作区布局。
+<br> <br>
+21.UltraEdit<br>
+官方网站 <a href="http://www.ultraedit.com/products/ultraedit.html">http://www.ultraedit.com/products/ultraedit.html</a> <br>
+最新版本 v 15. | 售价 $49.95<br>
+与文本编辑器相比 UltraEdit 更像是一个 IDE；有成百上千种功能融为一体。UltraEdit 是超级可定制的，不仅仅面向 Web 开发者，它有不同的“使用环境”供用户选择，这主要取决于你具体要做什么。看上去“几乎所有编辑任务”都是可自动化完成的。UltraEdit 还支持 FTP 并拥有内置的 SSH/telnet 控制台用于访问你的服务器。<br> <br>
+22.Sublime Text<br>
+官方网站 <a href="http://www.sublimetext.com/">http://www.sublimetext.com/</a>
+<br>
+最新版本 v 1.05 | 售价 $59.00<br>
+SublimeText 可能是我所见过的最有趣的编辑器了，主要是因为它具有超酷的“放大镜”功能，能够自由查看放大了的文件。它有一个缺点：选项界面就是一堆文字，这可能会使用户找不到他所要寻找的，对更改设置造成困难。我喜欢 SublimeText 的右键点击链接打开本地文件的选项，它还有一些自动化的功能。总之，它是一个不能错过的文本编辑器。<br> <br>
+在调研这篇文章的时候，我发现了其他一些相关的东西。文本编辑器并不只是用于编写代码，它们也为写东西提供了一个良好的环境，出于这种目的，可以看看 <a href="http://www.writemonkey.com/">WriteMonkey</a>，<a href="http://www.baara.com/q10/">Q10</a> 或是 <a href="http://they.misled.us/dark-room">DarkRoom</a>。这几种编辑器不是很擅于编写代码，但能够使人在写作时不再容易分心。<br>
+如果想要找一些文本编辑方面的有趣提示，点击如下链接欣赏由 Vim 的作者所制作的视频：<a href="http://video.google.com/videoplay?docid=2538831956647446078">“Seven Habits for effective Text Editing 2.0”</a>。<br> <br>
+本文来源 <a href="http://net.tutsplus.com/articles/web-roundups/22-neat-code-editors-for-windows/">http://net.tutsplus.com/articles/web-roundups/22-n eat-code-editors-for-windows/</a> <br> <br>
+中文翻译来源 <a href="http://ineu.org.cn/blog/">Just不咯个</a>"
+➜维基百科公开新移动界面，寻求开源帮助
+https://www.solidot.org/story?sid=11573	11400
+维基媒体基金会<a href="http://news.slashdot.org/article.pl?sid=09/05/27/196251">公开</a>了面向高端手机的<a href="http://m.wikipedia.org/">新移动入口网站界面</a>（会自动跳转到中文语言版，但中文版似乎尚未就备）——例如英文版的<a href="http://en.m.wikipedia.org/wiki?search=mona+lisa">蒙娜丽莎</a>。<i>
+新界面的重点是让在手机上阅读维基百科的体验更清爽和更简单。现在只支持iPhone和Android手机，新网站用Ruby(Merb 框架)编写，通过<a href="http://github.com/hcatlin/wikimedia-mobile/tree/master">Git发布代码</a>。维基媒体正在寻求开源开发者的帮助，以支持更多手机型号，开发更多特性，翻译到更多语言。目前移动网站支持8种语言，但未来将扩大支持所有维基百科的语言。</i>
+➜朝鲜为高层和外国人开通3G手机上网服务
+https://www.solidot.org/story?sid=11574	14700
+<a href="mailto:wmr89502270@gmail.com">wmr</a> 写道 "根据<a href="https://wmr-proxy.appspot.com/news.bbc.co.uk/chinese/simp/hi/newsid_8060000/newsid_8062800/8062804.stm">BBC</a>援引朝鲜<a href="http://translate.google.cn/translate?u=http%3A%2F%2Fwww.uriminzokkiri.com%2F&amp;sl=auto&amp;tl=zh-CN">我们民族自己</a>网站报道，在5年前<a href="http://news.xinhuanet.com/world/2004-04/27/content_1442498.htm">朝鲜火车爆炸桉炸死200人而没炸死金正日</a>朝鲜禁用手机之后，3G服务去年底在平壤正式开通。 此网络由朝鲜当局与埃及奥拉斯科姆电信公司共同建设。"
+➜照片自动备份程序帮助逮捕小偷
+https://www.solidot.org/story?sid=11575	15840
+小偷打破汽车车窗，偷走了放在后座的笔记本，随后在暂住的汽车旅馆内用偷来的笔记本上网，使用内置的摄像头给自己拍照，但是他不知道的是，笔记本内安装了一个备份程序，拍下的照片被自动备份到照片储存网站上。受害人看到后立即将其转交给警察，警察很快认出这位小偷年初刚刚被释放出去，并顺藤摸瓜，通过照片提供的室内信息和上网所用的IP地址找到他居住的汽车旅馆，<a href="http://perens.com/works/articles/Burglar/">逮捕了小偷及其女友</a>。
+➜时代华纳拆分AOL
+https://www.solidot.org/story?sid=11576	18000
+DNA24 写道 "
+《华盛顿邮报》<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/05/28/AR2009052800895.html?hpid=sec-tech">报道</a>，根据时代华纳公司向美国证券交易委员会提交的报告，公司计划<a href="http://news.mydrivers.com/1/133/133687.htm">拆分旗下互联网业务AOL</a>。根据时代华纳公司提交的报告，公司第一季度利润下滑14%。AOL和其他电视、杂志业务广告收入的下降是出现这种状况的主要原因。
+时代华纳公司表示，尽管公司董事会还未做出最终决定，但按目前计划将通过各种交易手段，年底将AOL的整体或部分从时代华纳集团中拆分出去。公司也已经启动和Google公司的谈判，欲将其持有的5% AOL股份回购，方便整体拆分。"
+➜瑞士法庭下令暂停给予微软的非公开招标合约
+https://www.solidot.org/story?sid=11577	18300
+瑞士联邦建筑和后勤部没有经过公开招标流程就<a href="__SLASHLINK__" sect="linux" sid="09/05/26/083247" sn="article" tid="99">给予微软3年合同</a>，每年的合约费用高达1400万瑞士法郎（折合人民币约8800万）。而根据瑞士政府政策，任何超过5万瑞士法郎的合同都需要经过公开招标，建筑和后勤部以“没有替代”作为借口是不可接受的，因此Linux供应商Red Hat和其它17家供应商联合向瑞士联邦法院提起诉讼，希望能推翻该决定。现在瑞士联邦法院下达命令，<a href="http://yro.slashdot.org/article.pl?sid=09/05/28/1938216">要求暂停给予微软的非公开招标合约</a>。
+➜Google Wave模糊聊天，Email和协同软件的界线
+https://www.solidot.org/story?sid=11578	20520
+Google在Google I/O上<a href="http://www.techcrunch.com/2009/05/28/google-wave-drips-with-ambition-can-it-fulfill-googles-grand-web-vision/">透露</a>了一个分布式的，基于P2P的协作和交流软件平台<a href="http://wave.google.com/">Google Wave</a>，开发者可以通过<a href="http://code.google.com/apis/wave">Google Wave API</a>将其嵌入到自己的网站，或者创建能整合到客户端的多媒体机器人和小工具。Wave是基于开放协议Google Wave Federation Protocol，Google正盛情<a href="http://tech.slashdot.org/article.pl?sid=09/05/28/1912226">邀请开发者加入这一开源项目</a>，共同打造该协议，它表示任何人都能创造一波Wave。从本质上说，Wave是将实时聊天对话，照片，视频，地图，文档和其它信息综合成单一的，共享的通信空间。
+➜KOffice 2.0.0发布，提供类似Firefox的扩展
+https://www.solidot.org/story?sid=11579	22560
+轻量级，跨平台办公软件KOffice 历经超过3年的开发之后，正式发布了<a href="http://www.koffice.org/wordpress/2009/05/koffice-200-released/">2.0.0版本</a>。KOffice 2.0.0充分利用了Qt4和KDE4带来的进步，打磨和改进了界面，为宽屏进行了优化，支持第三方应用程序和<a href="http://tech.slashdot.org/article.pl?sid=09/05/28/1330226">扩展</a>。<i>
+开发者不需要精通C++，他们可以用Python，Java等程序语言开发扩展，用户则能以类似Firefox扩展的方式一键安装。软件组件共包括：KWord—字处理，KSpread —电子表格，KPresenter—演示，KPlato - 项目管理软件，Karbon -矢量图编辑器，Krita -位图编辑器。KOffice团队称，当前的版本不是面向终端用户，而是开发者和测试中，他们也不推荐发行版将其打包，作为默认的办公软件。</i>
+➜维基百科封杀山达基教
+https://www.solidot.org/story?sid=11580	25680
+这是一次前所未有的打击自我粉刷编辑行为的行动，维基媒体仲裁委员会以10票赞同，0票反对，1票弃权的<a href="http://en.wikipedia.org/wiki/Wikipedia:Requests_for_arbitration/Scientology">投票结果</a>，一致同意<a href="http://www.theregister.co.uk/2009/05/29/wikipedia_bans_scientology/">封杀</a>来自山达基教及相关组织维护和操作的所有IP地址。<i>
+世界上最大在线百科全书一贯的政策是任何人都可编辑，但却因此出现了无数弄虚作假，漂白和粉刷维基条目的行为。维基百科不赞成“自利”的编辑，因为网站的政策是“观点中立”，诸如广告，宣传，意识形态和宗教传播等行为都是明令禁止的。通过WikiScanner扫描发现，山达基教的IP地址参与编辑了很多与该教相关的文章。维基媒体仲裁委员会最初考虑禁止山达基教IP地址编辑山达基教相关文章，但太繁琐而不可行，最后决定全面<a href="http://news.slashdot.org/article.pl?sid=09/05/29/0114236">封杀山达基教IP</a>。</i>
+➜Google打算去除Gmail的beta标记
+https://www.solidot.org/story?sid=11581	27120
+Google正在考虑<a href="http://tech.slashdot.org/article.pl?sid=09/05/28/1236240">移除Gmail和其它在线服务上的beta标记</a>。<i>
+从首次揭开面纱以来，beta标记已经跟随Gmail达5年之久。搜索巨人从某种意义上也被人视为是“无限测试周期”的代名词，Google的多数著名服务，包括Gmail，Docs和Calendar都带有beta标记，相比之下，Chrome浏览器则早早甩掉了beta。Google承认“无限测试周期”可能会损害消费者和企业对其在线服务的信心，负责企业产品的产品经理主管Matt Glotzbach说，这个小问题将在不远的未来解决。</i>
+➜Linux兼容内核0.2.4发布
+https://www.solidot.org/story?sid=11582	28800
+<a href="http://szlug.org/">权相龙</a> 写道 "<a href="http://sourceforge.net/projects/longene/">Linux兼容内核（Longene）0.2.4版</a>正式发布。<i>
+<a href="http://zh.wikipedia.org/w/index.php?title=%E5%85%BC%E5%AE%B9%E5%86%85%E6%A0%B8&amp;variant=zh-cn">兼容内核</a>（Linux Unified Kernel），是一个二进制兼容Windows和Linux应用软件和设备驱动程序的计算机操作系统内核。它试图在Linux内核的基础上利用Linux内核材料构建MS Windows内核功能模块，包括进程管理、线程管理、对象管理、虚拟内存管理、同步、系统调用、系统注册机制和设备驱动程序框架等Windows系统内核机制，从而扩充Linux内核的支持能力使之同时支持Linux和Windows的应用程序和设备驱动。<a href="http://www.osnews.com/story/21573/Linux_Unified_Kernel_Aims_to_Combine_Linux_NT_Kernel">新版本的Linux兼容内核</a>在0.2.3版的基础上，整体移植了Wine的文件系统管理机制，使得应用程序在Linux兼容内核上的运行效率有了明显的提高。同时，该版本还修正了上一版本中注册表管理、进程/线程管理中的一些bug。
+</i>
+新版本提供了针对主流Linux发行版的二进制安装包，目前支持的发行版包括：红旗6、Fedora、Ubuntu（暂不支持ext4文件系统）。二进制安装包将大大缩短安装时间和空间，并且使安装过程更加简便。"
+➜google.cn开始自我屏蔽
+https://www.solidot.org/story?sid=11583	34080
+<a href="mailto:wmr89502270@gmail.com">wmr</a> 写道<i> "Google.cn特别使用中国的服务器，每一次搜索请求都是经由美国-自我过滤-北京（为防止GFW过滤）-全国。现在，自我过滤那一关没有去掉，将数据先传到北京那一关到去掉了。这样导致了Google.cn的不稳定。"</i>           一般来说，网页搜索只有搜索被gfw过滤的关键词汇才会被屏蔽，但图片搜索往往一些词很普通，但图片网址中带有外国被屏蔽网址（虽然这些网站的内容中可能只有1%是反党或色情内容）。联想前日的<a href="__SLASHLINK__" sect="internet" sid="09/05/23/0627254" sn="article" tid="110">北京各高校百度贴吧被整顿</a>，不难想象<a href="http://wmr2011.googlepages.com/s1.html">怎么了</a>。
+➜每日电讯报律师关闭议员博客
+https://www.solidot.org/story?sid=11584	38280
+某位知名人士的<a href="http://blog.sina.com.cn/u/1195348141">新浪</a>、<a href="http://sohuaiweiwei.blog.sohu.com/">搜狐</a>和<a href="http://sammycheung.blogbus.com/logs/aiweiwei1957.blog.163.com">网易</a>的博客在非自愿的情况下被关闭了，他的代理律师<a href="http://blog.sina.com.cn/s/blog_49daf0ea0100djkr.html">有意起诉上述三家博客服务供应商</a>。因非法关闭网站或博客而提起诉讼并不是没有先例，北京理工大学教授<a href="__SLASHLINK__" sect="internet" sid="09/05/22/0226203" sn="article" tid="48">胡星斗就因此而起诉新网公司</a>，法庭已经宣判他获胜，但这也是唯一获胜的案例。暂却不讨论博客被关闭的原因。<i>
+这几天英国也发生了一件关闭知名人士博客的新闻：保守党下院议员Nadine Dorries在博客上严厉的抨击了《每日电讯报》及其老板——亿万富翁Barclay兄弟，后者通过律师使其禁言。最近《每日电讯报》曝光了英国议员<a href="http://finance.jrj.com.cn/2009/05/2708395101852.shtml">滥用政府报销支付个人消费的丑闻</a>，直接导致下议院议长辞职，Dorries称《每日电讯报》的做法几乎是迫害。受丑闻牵连，英国下议院646名议员中有325名可能将不得不退出或者被罢免。她在<a href="http://blog.dorries.org/Default.aspx">博客</a>上暗示《每日电讯报》的后台老板Barclay兄弟为了个人利益而阴谋利用报销丑闻颠覆国家的议会。《电讯报》律师以诽谤罪为由成功<a href="http://gawker.com/5271552/the-reclusive-billionaire-twins-who-shut-down-a-member-of-parliaments-blog">迫使ISP关闭了她的博客</a>。</i>
+➜Fedora 11 Final延迟至6月9日发布
+https://www.solidot.org/story?sid=11585	41520
+<a href="mailto:fedoracc@126.com">Fedora中文爱好者</a> 写道 "根据Fedora官方原先的Fedora 11发布进程，本应在5月26日发布的Fedora 11<a href="http://www.fedora.cc/index.php/2009/05/fedora-11-final-6-9-published/">延迟二周至6月9日发布</a>。据报道Fedora即将发布的Fedora 11被推迟是因为24个重大错误。虽然只有二个星期的时间，但预计将有足够的时间可以解决这24个错误。Fedora官网首页的counter由昨天的8又变回了今天的12。Key Milestones里面原来的5月26日也被划了一道横杠，<a href="http://fedoraproject.org/wiki/Releases/11/Schedule">新的发布日期是6月9日</a>，整整迟了二个星期，看来众多Fedora忠实的fans们只有再耐心等待了。除此之外Fedora 11 RC版本还没有发布。"
+➜老鼠基因图谱公布
+https://www.solidot.org/story?sid=11586	48600
+美国，英国和瑞典的研究人员完成了老鼠的基因组测序，在人类和老鼠的基因对比中，他们发现两者的差异比人们预想的要大得多。人类和老鼠基因中有80%相同，另外20%不同的基因是老鼠过去9千万年里演化而来的。老鼠是继人类之后<a href="http://www.physorg.com/news162622136.html">第二个完整测序的哺乳类动物</a>(<a href="http://only-perception.blogspot.com/2009/05/blog-post_9409.html">only-perception翻译</a>)。
+<i>
+老鼠被广泛用于研究人类疾病，因此完成老鼠基因组排序将能帮助科学家更深入的理解老鼠和人类的生物学差异，找出与人类疾病最匹配的老鼠基因，强化研究能力。领导该项计划的美国国家卫生研究所生物技术信息中心的Deanna Church博士称，“有了这种后见之明的优势，我们现在看见我们老鼠基因组的初步总结有多么的不完整。完成这种煞费苦心的工作相当值得。这些新发现将让我们抛弃某些经常持有的误解，而且更重要的是，揭露许多先前被隐匿的老鼠生物学秘密。”</i>
+<a href="http://dx.doi.org/10.1371/journal.pbio.1000112">研究论文</a>发表在最新一期的开放获取杂志《PLOS Biology》上
+➜Smart Q7全面观
+https://www.solidot.org/story?sid=11590	59400
+<a href="http://szlug.org/">权相龙</a> 写道 <i>"智器在推出<a href="http://www.smartdevices.com.cn/">Smart Q5</a>之后，再度发力，推出7寸MID之SmartQ 7，配置7寸WVGA分辨率的LCD显示屏（800×480，1600万色），采用全触摸屏操作，系统还是和SmartQ 5一样的Ubuntu Linux，因此在后续固件上有一定保证；内置4500毫安锂聚合物电池，音乐播放可达48小时，处理器是ARM11架构主频667MHz，支持WIFI。更多详细参数和使用截图点击<a href="http://cn.engadget.com/2009/05/19/engadget-smart-q7-ui-and-soft-hands-on/">这里</a>。(BTW，我们SZLUG有人已经入手了，1200块)"</i>

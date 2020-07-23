@@ -1,0 +1,58 @@
+➜黑客公布iCloud暴力破解工具，苹果修复漏洞
+https://www.solidot.org/story?sid=40971	11561
+匿名黑客在4chan的/b/上<a target="_blank" href="http://www.solidot.org/story?sid=40955"><u>公布了</u></a>多位好莱坞知名女星的裸照和私密视频，引发了热议。根据目前的信息，黑客并没有利用苹果云服务的0day漏洞，而是<a target="_blank" href="http://arstechnica.com/security/2014/09/what-jennifer-lawrence-can-teach-you-about-cloud-security/"><u>借助社交工程技术和低技术方法</u></a>窃取到明星的私密自拍照片。苹果Find My iPhone API存在设计漏洞，允许不受限制的尝试用户账号和密码，在多次试错后不会被锁定。黑客于8月30日在GitHub上上传了所谓的概念验证工具<a target="_blank" href="https://github.com/hackappcom/ibrute"><u>ibrute</u></a>，设计对Find My iPhone账号发动暴力破解攻击。苹果于9月1日修复了该漏洞。暴力破解工具会不断尝试电子邮件和密码组合。要入侵目标明星的账号，攻击者必须很好的猜出其使用的电子邮件地址，一旦成功破解，攻击者就可以访问 iCloud账号 ，获取储存的备份。苹果的iOS会默认将照片储存到iCloud。Google的Android、 Google Plus和Yahoo Flickr等都采用类似的自动备份机制。在云时代，明星应该知道如果将私密照片储存在公有云里，有很大的可能性它们最终会出现在互联网上。
+➜美国合法化医用大麻的州有更少的止痛药死亡病例
+https://www.solidot.org/story?sid=40972	13528
+过量服用麻醉性止痛药会导致死亡。在美国，每年有超过1.5万人的死因被认为与此有关，有数十万人因过量服用被送到急诊室。现在，一项研究发现，允许合法使用医用大麻的州<a target="_blank" href="http://www.vice.com/en_uk/read/leading-anti-marijuana-academics-are-paid-by-painkiller-drug-companies"><u>有更少的鸦片类止痛药过量服用死亡病例</u></a>。<a target="_blank" href="http://archinte.jamanetwork.com/article.aspx?articleid=1898878"><u>研究报告</u></a>发表在《JAMA Intern Med》期刊上。为什么大麻可能有助于减少对鸦片类止痛药的依赖？有研究认为，尼古丁、鸦片制剂和大麻等可能被滥用的药物都会提升大脑的多巴胺水平，诱发愉悦感觉。大麻不具有鸦片类止痛药的镇痛效果，但有助于分散痛苦。
+➜Google向旧浏览器用户展示旧版搜索页
+https://www.solidot.org/story?sid=40973	14705
+Google开始向旧版本浏览器的使用者<a target="_blank" href="http://www.bbc.com/news/technology-29012038"><u>展示旧版本的搜索页面</u></a>。上周末，许多用户在Google论坛上<a target="_blank" href="https://productforums.google.com/forum/#!category-topic/websearch/hEVDmDw8ccU"><u>报告</u></a>他们使用旧版本的浏览器时看到了2013年版的Google搜索和图像搜索主页。他们使用的旧版浏览器主要是Safari 5.1和 Opera 12。Google工程师发布的一则信息称，这一变化是为了鼓励用户升级他们的浏览器，表示这不是出现bug的结果，而是有意为之。
+➜阿里巴巴商家的刷销量现象
+https://www.solidot.org/story?sid=40974	15623
+《金融时报》报道了<a target="_blank" href="http://www.ftchinese.com/story/001058005?full=y"><u>阿里巴巴电商平台上的刷销量现象</u></a>：陈千在宁波市经营了4年的私人快递公司，这让他练就了一项新本领：不用拿起来，就知道哪些包裹是“假包裹”。有些假包裹是空盒子，有些里面装了一块糖或一个钥匙链。他说，发假包裹的商家最近开始用卫生卷纸来凑分量。陈千表示，他公司每天处理的4000个包裹中，约四分之一是假包裹。随着电商行业在中国蓬勃发展、特别是“刷销量”这种做法逐渐兴起，上面这种现象在整个中国都很普遍。网上的卖家招募自己的亲朋好友甚至专业造假者下虚假订单，原因是在淘宝网等网站上，发货量越大，综合排名就越前，获得更多真实订单的概率也越高。在一些商品类别中，虚假销量或可占到所有线上销量的十分之一至四分之一。这么高的比例让人们对阿里巴巴在上市前发布的关键运营数据产生怀疑。
+➜Tox：隐私优先的Skype替代
+https://www.solidot.org/story?sid=40975	18757
+被微软收购的Skype在安全隐私方面一直受到争议。《连线》<a target="_blank" href="http://www.wired.com/2014/09/tox/"><u>报道</u></a>，一群开发者发起了自由软件项目<a target="_blank" href="http://tox.im/"><u>Tox</u></a>，试图打造一个隐私优先的Skype替代。Tox的<a target="_blank" href="https://github.com/irungentoo/toxcore/commit/dcc3921682c8bededfac7d76f4976fd56b051c72"><u>源代码</u></a>发布在GitHub上，采用GPLv3许可证。除了提供加密通迅功能外，Tox团队的主要目标是创建一个不需要任何中心服务器的工具，它依靠BitTorrent用于在用户之间建立直连的相同技术，没有中心枢纽能被偷窥或扣押。有许多开发者也在开发类似的P2P安全通迅系统，如<a target="_blank" href="http://www.wired.com/2014/05/briar/"><u>Bria</u></a>、<a target="_blank" href="http://invisible.im/"><u>Invisible.im</u></a>、<a target="_blank" href="http://www.wired.com/2014/07/free-encrypted-calling-finally-comes-to-the-iphone/"><u>Whisper Systems</u></a>等。
+➜伊朗宗教领袖称3G互联网是不道德不人道的
+https://www.solidot.org/story?sid=40976	24877
+在伊朗最大的移动运营商Irancell宣布将在大学和政府机关测试3G服务，以及伊朗总统哈桑·鲁哈尼早些时候表示要升级互联网服务之后，伊朗什叶派大阿亚图拉Makarem Shirazi发表评论，批评3G和高速网络<a target="_blank" href="http://www.jpost.com/Middle-East/Iranian-Ayatollah-rules-broadband-internet-is-unethical-inhumane-372388"><u>是不道德的是违反人性的</u></a>，认为需要标准保护用户远离不道德不人道的视频、照片、谣言和间谍活动，“某些人不应该假设我们反对这些技术，但西方的技术就像是<a target="_blank" href="http://www.tehrantimes.com/politics/118089-grand-ayatollah-says-not-opposed-to-new-technologies"><u>不健康的污浊的水</u></a>。水是生命的命脉，但当它变得污浊和不健康，它就必须被净化。”哈桑·鲁哈尼总统<a target="_blank" href="http://www.bbc.com/news/world-middle-east-29017729"><u>坚持认为</u></a>，互联网对连接科学的世界至关重要，“我们不能对年轻一代关闭世界的大门。如果我们今天抵制它而不朝新一代的移动技术前进，那么我们就改到明天。如果明天也不行，那么就后天。”伊朗政府曾在2009年的大规模抗议活动之后封锁了流行的西方社交网站Facebook，Twitter和YouTube，伊朗网民此后就学会了用VPN和其它代理工具绕过审查。
+➜3D打印的“撞匙”能打开几乎所有的锁
+https://www.solidot.org/story?sid=40977	27314
+廉价3D打印的一个意想不到的后果是，任何人都可以复制钥匙。Jos Weyers和Christian Holler将DIY钥匙制造技巧推进了一大步：<a target="_blank" href="http://www.wired.com/2014/08/3d-printed-bump-keys/"><u>他们的3D打印“撞匙”能打开几乎所有的锁</u></a>，甚至不需要看到原始钥匙。“<a target="_blank" href="http://zh.wikipedia.org/wiki/%E6%92%9E%E5%8C%99"><u>撞匙</u></a>”外表看起来像普通的锁，但使用锤子精巧的敲打其上部，你将可以用它打开成千上万把锁。两位工程师创造了名叫Photobump的软件，根据钥匙孔的照片就可以创造出能打开许多锁的钥匙。你不需要高质量的3D打印机，普通的3D打印服务就能满足要求。<br>
+<br>
+➜美国国税局认为免费餐属于应税福利
+https://www.solidot.org/story?sid=40978	28460
+谷歌、Facebook和Twitter等科技企业向员工提供的免费美食引起了美国国税局的关注，认为员工<a target="_blank" href="http://cn.wsj.com/gb/20140902/tec143656.asp"><u>免费餐点属于应税福利</u></a>。由于企业没有代扣与员工免费餐点相关的税款，国税局试图加大力度追回税款，其数额可相当于餐点公平市价的30%。美国国税局和美国财政部上周将“雇主提供餐点”的征税列入2014-2015财年（截至明年6月份）最高优先征税项目名单。税务律师预计，部分雇主将就这一问题与国税局抗争，且此事可能将经由法院解决。若国税局采取强制措施则可能会引发人们抱怨，吝啬的政府致使一个关键产业的文化受到干扰。但批评人士称，若允许免费餐点不交税，则会给经济造成扭曲并给一些雇主提供不公平的优势。
+➜尼安德特人的抽象艺术
+https://www.solidot.org/story?sid=40979	31350
+<div align="center"><img src="http://img.solidot.com.cn/0/585/li1Q3hptcM7Eg.jpg" align="" height="432" width="540"><br>
+<br>
+</div>
+尼安德特人不是我们以前认为的那种野蛮人，曾被视为人类独有的抽象思维艺术他们也有。根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1411529111"><u>论文</u></a>，一个国际团队在直布罗陀的Gorham洞穴中发现了尼安德特人<a target="_blank" href="http://www.bbc.com/news/science-environment-28967746"><u>留下的几何图像</u></a>（如图）。有充分的证据显示，我们可能<a target="_blank" href="http://www.solidot.org/story?sid=40138"><u>低估了</u></a>尼安德特人的智力。尼安德特人在现代人类祖先抵达欧洲不久后灭绝。研究人员对图案的分析<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-09/aaft-nre082914.php"><u>发现</u></a>，抽象图案很可能是有意制造出来的，不是无意之间切割造成的结果。
+➜含有放射性残余的野猪在德国森林继续游荡
+https://www.solidot.org/story?sid=40980	33133
+切尔诺贝利核事故已过去28年，但其影响德国至今仍然能感受到——<a target="_blank" href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11068298/Radioactive-wild-boar-roaming-the-forests-of-Germany.html"><u>以放射性野猪的形式</u></a>。放射性野猪仍然在德国森林里游荡。萨克森州政府的测试发现，超过三分之一的野猪含有高剂量的辐射，不宜食用。萨克森州距离切尔诺贝利700英里，风雨将放射性微粒携带到西欧各地，核污染的土壤最远能在法国被发现。自2012年以来，萨克森州强制要求对猎人杀死的野猪测试放射性，每公斤放射量超过600贝克勒尔（becquerels）的野猪尸体必须被销毁。
+➜尼日利亚的身份证同时是万事达预付卡
+https://www.solidot.org/story?sid=40981	35308
+<div align="center"><img src="http://img.solidot.com.cn/0/591/li8FloXAvJfn2.jpg" align="" height="290" width="480"><br>
+<br>
+</div>
+尼日利亚开始试发行新的国家身份管理系统（NIMS），试图统一来自不同政府机构的数据，包括出生死亡记录，医疗保险，税务信息和汽车驾照。新的NIMS卡包含了持卡人的两张照片，上面的芯片储存有个人的生物识别信息，包括10个指头的指纹和扫描的虹膜。隐私国际对尼日利亚政府整合数据的野心表达了担忧，认为是对隐私的极端侵犯。卡不仅仅是身份证明，而且还能充当支付功能，卡的背面有万事达的logo，它可以<a target="_blank" href="http://www.zdnet.com/nigeria-launches-new-biometric-id-card-brought-to-you-by-mastercard-7000033133/"><u>作为万事达预付费卡使用</u></a>，支付功能获得了当地银行的支持。尼日利亚官员声称新的国家身份管理系统有助于实现更有效的治理，创造无现金的经济，刺激经济增长，投资和贸易。
+➜德国法院命令Uber停止提供打车服务
+https://www.solidot.org/story?sid=40982	37019
+法兰克福法院作出<a target="_blank" href="http://docs.dpaq.de/7814-beschluss-landgericht-ffm_uber-taxi-deutschland_2014-09-01.pdf"><u>裁决</u></a>（德文），打车软件Uber允许没有出租车许可证的司机提供搭乘服务，违反了德国法律。法<a target="_blank" href="http://www.dw.de/smartphone-app-uber-ordered-to-halt-transportation-services-in-germany/a-17894286"><u>院命令Uber停止在德国提供打车服务</u></a>，每违反一次禁令Uber将面临25万欧元的罚款。Uber表示将会提起上诉，在最终裁决作出前会继续提供打车服务。Uber的打车费用比出租车便宜，颇受用户欢迎，但因为抢生意遭到了出租车行业的不满，出租车司机曾为此游行示威。
+➜唐僧母校复课，中国捐款百万美元
+https://www.solidot.org/story?sid=40983	37833
+<a target="_blank" href="http://zh.wikipedia.org/wiki/%E9%82%A3%E7%83%82%E9%99%80%E5%AF%BA"><u>那烂陀寺</u></a>是古代中印度佛教最高学府和学术中心，位于今天的印度比哈尔邦中部都会巴特那东南90公里，唐僧西天取经时曾在此攻读佛学，它在突厥人1197–1203年入侵期间被摧毁。9月1日，那烂陀大学在时隔800年后<a target="_blank" href="http://www.nanzao.com/sc/lifestyle/36917/tang-seng-yin-du-mu-xiao-shi-ge-800nian-fu-ke-zhong-guo-juan-zi-bai-mo"><u>复课</u></a>，首批15名学生进入这所古老学府深造。那烂陀大学重建源于印度和18个亚太国家的共同倡议，其中中国提供100万美元资金。那烂陀只招收研究生和博士生，开设科学、哲学、精神和社会科学课程。
+➜中国留学生和美国价值观
+https://www.solidot.org/story?sid=40984	41040
+美国大学理事会今年初宣布了重新设计SAT考试的计划，为阅读部分加入了美国历史文献相关内容。大学理事会在声明中称，与这些文献相关的自由公正人类尊严等价值激励了美国和全世界的无数人。但这些美国价值被中国共产党认为会威胁到它的统治，宣传这些价值的人被禁声或关进监狱。《中国青年报》在一篇<a target="_blank" href="http://epaper.ynet.com/html/2014-08/29/content_82333.htm?div=-1"><u>报道</u></a>称，中国的一些人<a target="_blank" href="http://www.latimes.com/world/asia/la-fg-sat-exam-american-values-chinese-students-20140829-story.html"><u>抱怨美国输出价值观</u></a>。报道引用《南华早报》的文章称，这是继美国通过影视作品以及美式快餐来向世界推销美国文化之后，通过考试的方式进行意识形态的输出。报道还引用网友的评论说，新版SAT考试“可能会改变整整一代中国青年的思想倾向和世界观。”一位准备到美国留学的北京高中生则认为，学习这些价值将帮助他成为一个真正的世界公民。
+➜土星F环宽度三倍于三十年前
+https://www.solidot.org/story?sid=40985	43530
+<div align="center"><img src="http://img.solidot.com.cn/0/586/lioN4eVARSItY.gif" align=""><br>
+<br>
+</div>
+旅行者1号和2号在1980年和1981年飞过土星时发回了壮观的环状结构图像，当时最外层的<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F%E7%92%B0#F.E7.92.B0"><u>F环</u></a>宽度是大约200千米。但令人不解的是，卡西尼号最近发回的图像显示F环的宽度达到了580公里，亮度也比三十年前增加了一倍。天文学家现在认为他们<a target="_blank" href="https://medium.com/p/the-mystery-of-saturns-brightening-f-ring-5d97a6594a2c"><u>找到了F环宽度扩大的原因</u></a>。<a target="_blank" href="http://arxiv.org/abs/1408.2536"><u>论文</u></a>发表在预印本网站上。F环由土星的多个小卫星维系着，其中最著名的一颗叫普罗米修斯（如图所示）。这些卫星与环的引力相互作用创造了环的纠结和节点等结构。研究人员认为，卫星的轨道与环发生了共振，推动尘埃和冰的云远离土星，使得环变宽。但尘埃的轨道远离到一定距离后会变得不稳定，它们会飞回土星，与环的其余部分发生碰撞，引发了颗粒的连锁反应，显著增加了颗粒的数量和亮度。他们的理论还预测，目前的共振已经达到极大值，未来几年会逐渐降低。如果和预测的一样，到2018年F环会恢复到30年前的宽度。
+➜黑客扰乱新西兰选举
+https://www.solidot.org/story?sid=40986	45776
+新西兰内阁司法部长Judith Collins上月底辞职，<a target="_blank" href="http://www.zdnet.com/hacker-rawshark-disrupts-nz-election-campaign-7000033148/"><u>原因</u></a>与自称Rawshark的黑客泄露一位受争议的博主<a target="_blank" href="http://en.wikipedia.org/wiki/Cameron_Slater"><u>Cameron Slater</u></a>（aka Whale Oil Beef Hooked）的电邮资料有关。Slater是执政的国家党前主席 John Slater的儿子。黑客正慢慢的公开更多的电子邮件和其它通迅信息，这些邮件是通过DoS Slater的博客网站窃取到的。根据泄露邮件内容完成的新书《Dirty Politics》透露，国家党通过向Slater提供敏感信息，让他为他们做一些脏活，如抹黑对手。司法部长本人就参与了抹黑行动。

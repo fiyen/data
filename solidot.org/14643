@@ -1,0 +1,156 @@
+➜Facebook宣布PHP runtime项目HipHop
+https://www.solidot.org/story?sid=16102	4800
+Facebook如期待的那样宣布了<a href="__SLASHLINK__" sect="developers" sid="10/01/31/1510248" sn="article" tid="23">新的PHP runtime</a>开源项目<a href="http://developers.facebook.com/news.php?blog=1&amp;story=358">HipHop for PHP</a>。事实上HipHop并不是一个新项目，Facebook已经使用它有数个月之久，目前Facebook 90%的服务器都运行着HipHop。Facebook声称它让Web server的CPU占用下降了大约50%，更少的CPU意味着更少的服务器和更少的系统开销。<i>
+运行HipHop for PHP并不需要重新编译PHP源代码，它是通过程序转换将PHP代码转变成高度优化过的C++代码，然后用GCC编译它。HipHop以语义等价的方式执行源代码，牺牲一些不常用的功能——如eval()——以之交换改进性能。它不仅仅是一个runtime，它还是一个新的webserver。Facebook开发者David Recordan<a href="http://www.developer.com/lang/php/article.php/3862461/Facebooks-HipHop-Goes-Public-With-a-New-PHP-Runtime.htm">说</a>，Apache在总体上是一个很棒的Web server，但他们不需要使用到Apache提供的所有功能。"</i>
+➜Windows 7的市场份额接近10%
+https://www.solidot.org/story?sid=16103	6600
+NetApplications公布的2010年1月操作系统市场份额数据显示，虽然Windows 7的平均份额为7.51%，但在一月份的<a href="http://www.netmarketshare.com/operating-system-market-share.aspx?qprid=42&amp;qptimeframe=D&amp;qpcustom=Windows+7&amp;qpsp=3955&amp;qpnp=94">最后几天</a>，Windows 7的份额<a href="http://www.osnews.com/story/22823/Windows_7_Market_Share_Reaches_10_">已经接近10%</a>——距离其正式上市仅仅只有三个多月。<i>
+这是软件巨人的一大成就，相比之下Windows Vista在发布三年后份额只有20%。Windows 7在一个月内份额就达到了4%，而达到相同数字Windows Vista用了7个月。从操作系统份额的变化，可以瞧出，Windows的竞争对手就是Windows，而Mac OS X或Linux并不受新版Windows发布的影响。</i>
+➜研究揭示儿童被欺负和排斥的原因
+https://www.solidot.org/story?sid=16104	8700
+过去有研究显示，被同龄人欺负和排斥的儿童更有可能在生活中存在其它问题。一项新研究显示，<a href="http://science.slashdot.org/story/10/02/02/2124203/Studies-Reveal-Why-Kids-Get-Bullied-and-Rejected">儿童行为中至少有三个因素会导致社会排斥</a>。这些因素包括儿童阅读和对同龄人非语言线索作出反应的能力。<i>
+在美国，有10%-13%的学龄儿童会有某种被同学孤立的体验。芝加哥Rush神经中心Clark McKown和同事让284名4到16岁的学生观看视频片段和照片，然后根据面部表情，声调高低和身体姿势判断演员的情感。判断结果再与教师和父母对参与者友谊和社会行为的判断进行对比。有社交问题的儿童至少在非语言交流的三个不同领域中的一个上面有问题。</i>
+➜WordPress for Android 1.0发布
+https://www.solidot.org/story?sid=16105	9600
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "是否想过通过Android手机来管理你的WordPress博客，现在一切都很简单了，今天，由WordPress.org资助的<a href="http://android.wordpress.org/2010/02/02/wordpress-for-android-1-0/">WordPress for Android发布1.0版本</a>。该软件让用户可以通过Android管理WordPress.com或者其他运行WordPress的博客，目前功能包括发布和修改博客文章，审核和发表评论，而且，当你的博客获得他人的评论是，你会获得一个通知。
+<i>
+根据<a href="http://android.wordpress.org/2010/02/02/wordpress-for-android-1-0//">WordPress for Android</a>的官方消息，之前有类似功能的<a href="http://danroundhill.com/wptogo/">wpTogo</a>将不再继续开发，但是因为WordPress for Android的开发基于wpTogo，用户会获得几乎完全一样的体验。
+</i>
+<a href="http://www.morgancheng.com/">译者</a>简评: WordPress.org没有资助一个基于PC的WordPress管理软件，却资助了一个基于Android平台的WordPress管理软件，这部分说明了基于移动平台的博客将是趋势。"
+➜微软调查Windows 7损害笔记本电池寿命的原因
+https://www.solidot.org/story?sid=16106	10800
+Ars Technica<a href="http://arstechnica.com/microsoft/news/2010/02/microsoft-looking-into-windows-7-battery-life-failures.ars">报道</a>，微软表示它正在调查Windows 7损害笔记本电池寿命的问题。<i>
+<a href="http://social.technet.microsoft.com/Forums/en/w7itprohardware/thread/c6c043e6-eeb1-4e61-870d-896ca2f865d6">有许多用户在Microsoft TechNet上报告说</a>，他们的电池在Windows XP或Windows Vista下工作良好，但在微软最新的Windows 7上却存在问题，因为Windows 7会跳出一个警告信息：“考虑替换电池，你的电池存在问题会导致突然关机。”许多用户指出在用了Windows 7笔记本数周之后，电池寿命明显的下降了。让问题变得更糟的是，用户报告他们将系统降级到旧版操作系统后，问题并没有应刃而解。电池问题可上溯到2009年6月，在beta和Release Candidate版中这就已经存在，但当时没有引起微软质量控制团队的重视。</i>
+➜IPad的替代品─Foxconn tablet
+https://www.solidot.org/story?sid=16107	12000
+<a href="http://www.goozo.net/">Rinick</a> 写道<i> "Apple的产品，基本都是由Foxconn生产的，这其中当然也包括了iPad和iPhone。而现在，<a href="http://newnetbookreviews.net/2010/foxconn-tablet-with-nvidia-tegra-2-graphics/">Foxconn要发布自己的手持平板电脑</a>。配有Nvidia Tegra2，电池将支持连续播放高清视频16小时，支持Adobe Air，售价也会比iPad便宜，不知道Apple对此是何感想。此外，Foxconn tablet的默认搜索引擎将会是<a href="http://www.bing.com/">Bing</a>。"</i>
+➜Microsoft Office 2010已抵达RC版
+https://www.solidot.org/story?sid=16108	12720
+雷德蒙软件巨人向挑选的测试人员<a href="http://arstechnica.com/microsoft/news/2010/02/microsoft-office-2010-hits-release-candidate-status.ars">提供了Microsoft Office 2010的RC版</a>。<i>
+一位微软发言人证实RC版已提供给Technology Adoption Program(TAP)成员。三个月前微软向外公开测试Office 2010 beta版，版本号是14.0.4536.1000，目前下载量已超过200万次。最新泄漏的版本号是14.0.4734.1000。Office 2010正式发布日期是在2010年6月。</i>
+➜RMS用的Netbook是龙芯的
+https://www.solidot.org/story?sid=16109	18000
+<a href="http://www.asia-sd.com/">guitarpoet</a> 写道 "也许我Out了，不过我确实很震惊。RMS用的是龙芯Netbook！！！
+<div> <i>I am using a Lemote Yeelong, a netbook with a Loongson chip and a 9-inch display. This is my only computer, and I use it all the time. I chose it because I can run it with 100% free software even at the BIOS level.我用的是逸龙，一个使用龙芯并且有9寸显示器的netbook。这是我唯一的计算机，我一直在用它。我选择它的原因是我可以使用100％的Free Software（甚至在BIOS级）来运行它。</i>
+Richard Stallman采访<a href="http://richard.stallman.usesthis.com/">链接</a>：<a href="http://www.lemote.com/list.php?fid=135">逸龙笔记本</a>。这应该算是国人的自豪吧？RMS拿着龙芯去四处传道。-_-!!!"</div>
+➜OpenOffice占据了德国21%的办公软件市场
+https://www.solidot.org/story?sid=16110	19500
+根据一项<a href="http://tech.slashdot.org/story/10/02/02/2148201/OpenOffice-Tops-21-Market-Share-In-Germany">对德国PC用户安装不同办公软件的研究分析</a>(德文原始<a href="http://www.webmasterpro.de/portal/news/2010/01/25/verbreitung-von-office-programmen-openoffice-ueber-21.html">链接</a>)：Microsoft Office占72%，开源办公软件OpenOffice占21.5%，并且呈现持续增长势头。研究人员使用了一种巧妙的方法去判断数百万Web冲浪者电脑上安装了哪办公软件：随办公软件一同发布的字体属性。他们还令人惊讶的发现，商业用户和家庭用户之间不存在什么差异。
+➜调查称中国网瘾人数大幅增加
+https://www.solidot.org/story?sid=16111	21600
+<a href="http://news.yahoo.com/s/afp/20100203/tc_afp/lifestylechinainternetaddiction">最新公开的一项调查</a>称，中国网瘾青少年人数超过<a href="http://tech.sina.com.cn/i/2010-02-03/07283829612.shtml">2400万</a>(SINA)。<i>
+中国青少年网络协会于2月3日在官网公布了《<a href="http://www.zqwx.youth.cn/web/zuizhong.jsp?id=907">中国青少年网瘾报告（2009）</a>》。据《中国日报》的报道，来自30个省市的超过7000名年龄在6到29岁的青少年参加了调查问卷，回答了有关互联网习惯的问题。中国网民人数已超过了3.84亿，“互联网上瘾”正越来越受到父母们的关注。网瘾的定义十分模糊，但如果你学习成绩下降，工作不顺利，或者与父母关系搞僵，而同时又经常上网冲浪的话，那么你通常会被认为有“网瘾”了。根据《中国青少年网瘾报告》：年龄在18-23岁的青少年网瘾比例最高，其次是24-29岁；近一半网瘾青少年（47.9%）把“玩网络游戏”作为其上网的主要目的并且花费的时间最长，属于“网络游戏成瘾”；13.2%的网瘾青少年在“聊天或交友”上花费的时间最长，属于 “网络关系成瘾”....</i>
+➜美国参议员要求在华美企披露运作和人权信息
+https://www.solidot.org/story?sid=16112	23400
+美联社报道，参议院民主党第二号人物、伊利诺伊州参议员<a href="http://en.wikipedia.org/wiki/Dick_Durbin">Dick Durbin</a>要求30家领先的技术、互联网和通信企业<a href="http://news.yahoo.com/s/ap/20100203/ap_on_hi_te/us_tec_congress_china_tech_firms">提供在华运作和人权政策的详细信息</a>。<i>
+收到询问信函的科技企业包括了苹果、Facebook、Twitter、亚马逊、eBay、AT&amp;T和Verizon，要求它们提供在线业务的信息，以及它们保护人权、言论自由和隐私的计划。AT&amp;T和Facebook表示它们将会在2月19日最后期限回复询问。Twitter在中国没有办事处，但表示很乐意分享它对于审查问题的观点。苹果没有发表评论。Durbin表示他收集信息是为了准备有关Google在中国所采取行动的听证会。</i>
+➜苹果要求Lexcycle废掉USB同步功能
+https://www.solidot.org/story?sid=16113	25800
+iPhone用户可能将享受不到USB应用程序同步了，但这未必是世界末日。<a href="http://arstechnica.com/apple/news/2010/02/apple-kills-usb-syncing-for-apps-but-alternative-is-coming.ars">苹果最近要求Lexcycle移除其电子书阅读程序Stanza的USB同步功能</a>——因为USB同步违反了苹果的iPhone 开发者协议，此举引发了许多用户的不满。好消息是苹果已提出方法解决同步问题。<i>
+苹果目前没有提供任何API去启用USB同步，而应用程序访问其存储文件沙盒时也受到很大限制。为绕过限制，应用程序使用iPhone的数码相机图像管理（Digital Camera Image Management）文件夹和私有的API，实现应用程序之间的同步和共享文件。beta SDK for iPhone OS 3.2已提供了API去访问共享文件夹。目前iPad上运行的就是iPhone OS 3.2，它预计在3月底上市，届时更新到iPhone OS 3.2的iPhone 手机将能获得同步功能。</i>
+➜中国五分之一耕地遭重金属污染
+https://www.solidot.org/story?sid=16114	27720
+与水变黑、天变灰一般肉眼可见的污染相比，土壤污染有着一定的隐蔽性，<a href="http://tw.news.yahoo.com/article/url/d/a/100203/5/1zy1s.html">统计显示中国五分之一的耕地遭重金属污染</a>。<i>
+中新网引述数据说，1980年代末期，污染面积还只有几百万公顷，目前却已超过1000万公顷。据研究，中国受镉、砷、铬、铅等重金属污染的耕地面积近2000万公顷，约占耕地总面积的1/5，全国每年因重金属污染而减产粮食1000多万吨，农药、抗生素、病原菌等也成为土地污染的来源。目前中国正酝酿制定土壤污染防治法，不久将出炉，提交给全国人大审议。</i>
+➜张朝阳称中国不完全市场经济在妨碍竞争
+https://www.solidot.org/story?sid=16115	28620
+搜狐CEO张朝阳在今天举办的中国新视角高峰论坛上，发言称<a href="http://office.tj.focus.cn/news/2010-02-03/854665.html">中国目前的不完全市场经济正在妨碍竞争</a>。他认为，只有矢志不渝地继续进行市场化改革。没有充分的，公平的市场竞争，就没有品质，没有优秀，没有就业机会，没有稳定，没有中国真正的崛起。
+<i>张朝阳说，品质与优秀来自于全方位的竞争，创新来自于公平的竞争，而不完全的市场经济在无时无刻地妨碍竞争，而妨碍公平的竞争这件事情好像在中国不是什么大不了的事情，而在大洋彼岸，美国政府的大多数时间都在研究如何保护竞争，保护竞争也就是保护创新。在媒体领域，中国的体制内的报纸，电视台缺乏完全意义上的竞争，并没有形成具有独立人格和媒体理想的组织，所以没有权威和尊重。<br>
+解决的办法是对政府权力的限制和对公平性的追根问底，只有公平的最大限度的实现，才能让有才能的个人和组织脱颖而出，社会才能充满活力和创造性，否则我们发展的将不会是完全的市场经济，而可能是权贵资本主义，政府应该放下很多亲自参与竞争与民争利的举动，把主要精力用在保护公平竞争上来。</i>
+➜找乐和逐利的中国地下黑客
+https://www.solidot.org/story?sid=16116	29100
+《纽约时报》<a href="http://www.nytimes.com/2010/02/02/business/global/02hacker.html?pagewanted=1&amp;hp">报道</a>了<a href="http://news.slashdot.org/story/10/02/02/186238/A-Look-Into-the-Chinese-Hacker-Underworld">一位自称Majia（马甲？）的中国黑客</a>：<i>
+未透露真实姓名的马甲，是一位年轻的黑客，同意让NYT的一位记者访问他在长沙郊外一个贫穷城镇的简陋住宅。和很多黑客一样，他希望自己的技能得到公允。他向记者展示了自己种下木马取得的成果，并演示了如何入侵一家中国公司的网站，在这个网站页面上写上“hacked”标记。马甲称他是在大学里爱上了hacking，在大一时朋友向他展示了如何突破一个计算机系统。他声称多数中国黑客都懒惰的，只会用现成的病毒木马程序，他属于少数自己写代码的黑客。黑客行为在中国是非法的，马甲承认自己也是为了钱去写恶意程序。他没有透露通过出售恶意程序获得了多少钱。他在网上干活的时间是6:30 p.m到12:30 a.m，通常会首先打开IT技术网站如CNBETA。他对最近的Google受攻击事件发表了评论，称攻击Google的木马程序是外国黑客写的，然后被中国黑客修改。马甲的父母并不知道儿子秘密从事的活动，在他解释计算机黑客行为和窃取数据时，他的母亲在旁静静的听着，不时的向客人提供橘子和糖果。</i>
+➜谁是社交网络中信息的最佳传播源
+https://www.solidot.org/story?sid=16117	32160
+由于社交网站的兴起，社交网络研究过去几年也有许多令人惊讶的发现。与1980年代的“小世界网络”不同（多数节点彼此不连接，但可在几步内实现接触），现代网络中的个人是随机的、不受任何规则管制的连接形成网络。在一项新的研究中，波士顿大学的研究人员分析了<a href="http://www.technologyreview.com/blog/arxiv/24748/?a=f">谁才是社交网络中最佳的信息传播源</a>（<a href="http://arxiv.org/abs/1001.5285">预印本</a>）。
+<i>
+他们观察网络中谁起着枢纽作用，即他比其他人获得更多连接，因此在传播信息或病毒中起着重要的推波助澜作用。他们的发现与常识并不一致。也许你会认为社交网络中的名人显然受到最大的关注，那么他或她在信息传播中的影响力显然也更大。其实不然，信息的最重要传播者不是受人簇拥的骄子，而是网络中的边缘人物。</i>
+➜当你变老，为什么会感到时光如梭？
+https://www.solidot.org/story?sid=16118	35280
+杜克大学的心理学教授Warren Meck说，当人们逐渐变老，他们会感觉到时间也越来越快。此种感觉来自何处？<i>
+<a href="http://www.wbur.org/npr/122322542">科学家给出了一些理论</a>，其中一种理论认为：当你首次有某种体验时，比如第一次亲吻，会在你的记忆中会留下更多细节信息，如嘴唇的接触，兴奋，味道，气味等等——此时此刻的各种细节对你来说都是全新的，年轻时我们有许多第一次需要记住。大脑记忆编码的清单是如此密集，当我们回忆过去的美好时刻时候，总会觉得它们仿佛发生在很遥远的过去，发出时间过得真快的感慨。这其实是一种错觉，与大脑的结构有关，因为第一次记忆的细节丰富，而之后发生的相同事情留下的细节很少。过去和现在的时间流逝其实是一样的。</i>
+➜22个所见即所得在线Web编辑器
+https://www.solidot.org/story?sid=16119	37800
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "我们曾介绍过 <a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K792.aspx">10 个基于 JavaScript 的 WYSIWYG（所见即所得） 编辑器</a>，这些 Web 编辑器可以在线编辑和处理富 Web 内容，包括格式文本，表格，图片，媒体，链接等等，非常适合集成到 CMS 网站内容管理系统中使用。本文又搜集了 22 个 Web 在线编辑器，它们基本代表了当前 Web 编辑器的现状（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K897.aspx">完整图文版</a>）。           <a href="http://sixrevisions.com/user-interface/rich-text-editors-for-2010-and-beyond/"> </a>
+1. <a href="http://tinymce.moxiecode.com/">TinyMCE</a>
+<br> <br>免费，开源，轻量，基于 JavaScript，高度可定制，跨平台。<br> <br>
+2. <a href="http://www.fckeditor.net/">FCKEditor</a>
+<br> <br>免费，开源，用户量庞大，有良好的社区支持。<br> <br>
+3. <a href="http://developer.yahoo.com/yui/editor/">YUI Editor</a>
+<br> <br>属于 Yahoo! YUI 的一部分，能输出纯净 XHTML 代码。<br> <br>
+4. <a href="http://nicedit.com/">NicEdit</a>
+<br> <br>简单，易用，轻量，外观漂亮。<br> <br>
+5. <a href="http://kupu.oscom.org/">Kupu</a>
+<a href="http://en.wikipedia.org/wiki/Kupu"> </a>
+<br> <br>开源，支持 Ajax 保存，跨平台，易于集成，由 OSCOM 推出。<br> <br>
+6. <a href="http://www.freerichtexteditor.com/">Free Rich Text  Editor</a>
+<a href="http://www.freerichtexteditor.com/"> </a>
+<br> <br>非常容易部署，输出 XHTML 代码，功能丰富。<br> <br>
+7. <a href="http://www.webwizguide.com/webwizrichtexteditor/">WebWiz  RichTextEditor</a>
+<br> <br>这是一个商业产品，并不免费，但功能非常丰富，基于 ASP，JavaScript 和 DHTML。<br> <br>
+8. <a href="http://xstandard.com/">XStandard</a>
+<br> <br>故名思意，这个编辑器会生成符合标准的纯净 XHTML 代码。<br> <br>
+9. <a href="http://avidansoft.com/dsrte/">Damn Small Rich Text  Editor</a>
+<br> <br>基于 jQuery 和 PHP 后台，非常小巧（~18K），但功能丰富。<br> <br>
+10. <a href="http://www.themaninblue.com/experiment/widgEditor/">WidgEditor</a>
+<br> <br>简单，易用，开源，即使浏览器不支持 JavaScript，仍能很好地工作。<br> <br>
+11. <a href="http://www.kevinroth.com/rte/">Kevin Roth’s Cross  Browser Rich Text Editor</a>
+<br> <br>一个不错的编辑器，支持皮肤，符合 XHTML 标准，跨浏览器兼容，分免费版和收费版两个版本。<br> <br>
+12. <a href="http://www.openwebware.com/">OpenWYSIWYG</a>
+<br> <br>拥有许多出色的功能，容易部署，速度极快。<br> <br>
+13. <a href="http://www.codeplex.com/rte">CodePlex Rich Text Editor</a>
+<br> <br>基于 ASP.NET，目前只支持 IE 和 Firefox。<br> <br>
+14. <a href="http://freetextbox.com/">FreeTextBox</a>
+<br> <br>集成了相册，拼写检查等功能，尤其适合 ASP.NET 项目。<br> <br>
+15. <a href="http://www.codeplex.com/richtextedit">Silverlight Rich  Text Editor</a>
+<br> <br>适合与微软的 Silverlight 一起使用，功能丰富，不过，似乎原作者已经不再更新这个项目了。<br> <br>
+16. <a href="http://www.bitfluxeditor.org/">BXE (Bitflux Editor)</a>
+<br> <br>从 2002 年以来一直开源，拥有一批非常忠实的用户和社区，据称是目前最好的 WYSIWYG 编辑器之一。<br> <br>
+17. <a href="http://markitup.jaysalvat.com/home/">MarkItUp!</a>
+<br> <br>基于 jQuery，轻量，支持键盘快捷键，支持多种代码，包括 HTML, Textile, Wiki  Syntax, Markdown, BBcode。<br> <br>
+18. <a href="http://dojotoolkit.org/book/dojo-book-0-9/part-2-dijit/advanced-editing-and-display/editor-rich-text">Dijit  Editor for Dojo</a>
+<br> <br>基于 Dojo JavaScript 框架，输出干净 HTML 代码，支持插件，拥有清新的按钮。<br> <br>
+19. <a href="http://www.cdolivet.com/editarea/editarea/docs/">EditArea</a>
+<br> <br>易于集成，干净代码，实时语法加亮，自动缩进，多语种支持，多实例支持，全屏模式等功能。<br> <br>
+20. <a href="http://www.wymeditor.org/">WYMeditor</a>
+<br> <br>输出干净的 XHTML + SCTRICT 代码，注重结构与语义，在输出结构化 XHTML 代码方面是最佳方案。<br> <br>
+21. <a href="http://www.unverse.net/whizzywig-cross-browser-html-editor.html">Whizzywig</a>
+<br> <br>多浏览器支持，Web 安全色选择器，支持表格，图片，Word 代码清洁，拼写检查等功能。<br> <br>
+22. <a href="http://xinha.webfactional.com/">Xinha</a>
+<br> <br>基于<a href="http://www.opensource.org/licenses/bsd-license.html"> </a> <a href="http://www.opensource.org/licenses/bsd-license.html">BSD协议</a>，易于部署与扩展，拥有很好的社区支持。
+<br> <br>本文来源：<a href="http://sixrevisions.com/user-interface/rich-text-editors-for-2010-and-beyond/">http://sixrevisions.com/user-interface/rich-text-editors-for-2010-and-beyond/</a> <br>中文编译：<b> <a href="http://www.comsharp.com/">锐商企业CMS</a> </b> <a href="http://www.comsharp.com/">网站内容管理系统官方站</a>"
+➜16岁少年DIY出地下短信息通信系统
+https://www.solidot.org/story?sid=16120	38400
+16岁的Alexander Kendrick因发明了<a href="http://www.npr.org/templates/story/story.php?storyId=123116417&amp;ft=1&amp;f=1001">洞穴短信息通信系统</a>而赢得了2009年的国际科学博览会大奖，奖品是一台新电脑、瑞士免费游和12000美元。
+<i>
+洞穴是少数还在等待人类去探险的未知之地，虽然深入洞穴相对来说是安全的，但如果在其中迷失，营救将十分困难，因为手机和对讲机在地下都无法工作。 Kendrick发明的设备能允许在几乎1000英尺的地底下发送文本和其它数据。他的设备使用低频无线电波传输数据，低频电波比高频电波更容易穿透岩石。</i>
+➜发现比钻石更硬的天然碳晶体
+https://www.solidot.org/story?sid=16121	41280
+科学家在一颗陨石中发现了<a href="http://science.slashdot.org/story/10/02/02/2251252/Harder-Than-Diamond-Natural-Carbon-Crystals-Found">比钻石更坚硬的天然碳晶体</a>。
+<i>
+这颗富含碳的Havero陨石于1971年掉落在芬兰。研究人员用钻石抛光陨石的一块切片，结果惊人的发现有碳晶体无法被钻石磨掉，这意味这种晶体的硬度高于钻石。在仔细研究后他们发现了两种全新的天然碳晶体结构。报告将发表在2月15日一期的《地球和行星科学学报》上。Nevada大学的钻石研究员Changfeng Chen说，Havero陨石的石墨层经受了巨大的冲击和高温加热，足以让不同层之间粘在一起——这正是人类制造钻石的方法。研究人员计划下一步用高精密仪器观察晶体的结构，了解其原子排列，以证实他们是否真的发现了一种新类型的碳晶体。</i>
+➜Gmail Lab让你在邮件插入随机签名
+https://www.solidot.org/story?sid=16122	50400
+<a href="http://xiaomao101.blogspot.com/">xiaomao101</a> 写道 "Gmail lab的“随机签名”功能大家应该都知道把，但是他只能从网上的<a href="http://www.brainyquote.com/link/quotefu.rss">RSS</a>[brainyquote.com]读取内容，而无法自定义内容。
+<p>近来很喜欢solidot每页底部的名言，比如：</p> <p><p> <i>“如果我们过于爽快地承认失败，就可能使自己发觉不了我们非常接近于正确。——卡尔·波普尔”</i>
+</p> <p>希望solidot能够将这些名言作成rss，供大家订阅为gmail的随机签名。谢谢"</p>
+➜jQuery.org 正式上线
+https://www.solidot.org/story?sid=16124	51000
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "为了庆祝jQuery的4周年纪念，jquery团队不久前发布了<a href="http://news.wangmeng.cn/detailNews/1702-jquery-org-zhengshishangxian">jQuery的新版本1.4</a>，还举办了14 Days of jQuery 的活动。
+就在活动的第8天，jQuery之父John Resig发布了jQuery project的官方网站—<a href="http://jquery.org/">jQuery.org</a>，jQuery核心库以及相关的几个项目jQuery UI、QUit 、Sizzle 联合组成jQuery Project，作为自由软件组织Software Freedom Conservancy的一部分。"
+➜qooxdoo 1.0.1发布
+https://www.solidot.org/story?sid=16125	51300
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "qooxdoo是一个通过JavaScript/<a href="http://news.wangmeng.cn/detailNews/1736-qooxdoo-1-0-1-released">Ajax技术开发GUI框架</a>，通过使用qooxdoo开发者可以开发出类似window桌面程序样式的web应用程序。具有客户端浏览器检测功能，具有浏览器抽象层，可以无差别的创建跨浏览器的Web应用程序，它提供方便的调试接口，具有事件管理、聚焦管理、定时器、边框和对象属性等特征。它提供一组窗体组件并扩展了布局，它还提供跨平台的png图形透明支持功能。此外，qooxdoo提供一个原子组件，你可以在其基础上开发你自己的组件。
+Qooxdoo开发团队发布了qooxdoo 1.0.1。完全兼容qooxdoo 1.0的所有功能，主要是对bug的修复和性能的提高。
+bug的修复：
+Firefox 3.6中出现的一个问题。在Firefox3.6中，点击本地滚动条后没有响应的bug；
+在IE下使用SSL时候出现的关键问题；
+在IE下使用AlphaImageLoader导致IE黑屏的问题
+<a href="http://qooxdoo.org/download">下载qooxdoo 1.0.1</a>"
+➜Vimeo:视频播放不需Adobe Flash
+https://www.solidot.org/story?sid=16123	52020
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "自上周四起，Vimeo的网站将提供使用者一个选项，<a href="http://news.wangmeng.cn/detailNews/1695-vimeo-video-player-without-adobe-flash">即播视频不需Adobe Flash</a>--先前用该公司在线播放器观赏视频必备的外挂程序。选择新的选项，HTML5播放器就会以链接形式出现在视频的下方，网站会记忆使用者每次看片的偏好。支持的浏览器包括最新版的苹果Safari、Chrome以及安装Chrome Frame的Internet Explorer。其他浏览器目前还无法显示HTML5链接"
+➜因为苹果争论，Engadget被迫关闭评论
+https://www.solidot.org/story?sid=16126	52920
+科技网站<a href="http://www.engadget.com/">Engadget</a>的基调无疑是偏向苹果，但是在根据各种流言蜚语贴出了海量的关于苹果产品的文章，贴出Windows 7在平板电脑上表现丑陋的评测之后，Engadget的偏见<a href="http://www.reddit.com/r/technology/comments/ax7aq/engadget_is_forced_to_turn_off_comments_after/">激发了反作用</a>，用户发表了大量评论进行抨击，Engadget先是在1月30日<a href="http://www.engadget.com/2010/01/30/do-you-hate-apple-news/">宣布</a>推出<a href="http://engadget.com/exclude/apple/">Apple-free Engadget</a>，让痛恨苹果的读者不看任何关于苹果的新闻报道；接着在2月2日宣布<a href="http://www.engadget.com/2010/02/02/were-turning-comments-off-for-a-bit/">关闭评论</a>，因为读者的尖锐评论和争论已经失控了。

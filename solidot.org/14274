@@ -1,0 +1,71 @@
+➜Google和盟友发布网络中立测量工具
+https://www.solidot.org/story?sid=9657	60
+Google及其盟友发布了一套工具，设计目的是帮助宽带用户和研究人员<a href="http://www.goodgearguide.com.au/article/274715/google_partners_release_net_neutrality_tools">测试网络连接性能</a>。<i>
+工具发布在<a href="http://measurementlab.net/">MeasurementLab.net</a>上，包括网络诊断工具，网络通道诊断工具，测试宽带供应商是否有意减慢P2P通信速度的工具。即将发布的M-Lab应用有：判断宽带供应商是否将某类通信优先权置于其它通信之下的工具，判断供应商是否降级某些用户或软件的工具。Google副总裁和TCP/IP协议开发者之一的Vint Cerf表示，“透明是我们的目标，我们的意图是向感兴趣的用户提供更多可见的信息。”</i>
+测试工具是Java程序，因此运行之前你需要安装插件和<a href="http://java.com/zh_CN/">JAVA安装程序</a>。目前整个测试工具运行都很缓慢。
+➜错误计算令LHC的安全担保无效
+https://www.solidot.org/story?sid=9658	1800
+牛津大学的物理学家发现，数量可观的计算错误让大强子对撞机（LHC）的<a href="http://arxivblog.com/?p=1150">安全担保几乎无效</a>。<i>
+他们研究的焦点并非是LHC本身的不安全性，而是论点本身是否错误。当物理学家进行风险评估时，他们的数字只有在论点有效的情况下才正确。因此一个重要问题是：推理有缺陷的几率有多大？研究小组称在1千篇论文中会有一篇因为错误而撤回，但在粒子物理学中，这一比率是1：10000。根据这项研究，在一个严重的错误被发现之前，对撞机被认为是安全的，并运行了五年（结果是实际风险接近10^-12，但重点是有错误)。这并不意味着LHC是危险的，仅仅是指<a href="http://www.newscientist.com/article/mg20126926.800-how-do-we-know-the-lhc-really-is-safe.html">安全没有保证</a>。</i>
+<a href="http://arxiv.org/abs/0810.5515">预印本</a>
+➜给母牛起名，可提高产量
+https://www.solidot.org/story?sid=9659	9720
+Newcastle大学的科学家发现，一头有名字的乳牛比其它默默无名的乳牛能产出更多牛奶。 Catherine Douglas以及Peter Rowlinson博士证明，<a href="http://www.physorg.com/news152379845.html">赋予一头牛名字</a>（<a href="http://only-perception.blogspot.com/2009/01/blog-post_30.html">中文翻译</a>），而且把她当个体对待，农场主可增加牛奶年产量500品脱（约237公升）。
+<i>
+这项发表于Anthrozoos杂志的论文发现，每头母牛均以其名称呼的农场，整体牛奶产量高于其它成群放牧的农场。“正如同人们对于私人接触回应更好，如果每头母牛被赋予更多一对一的注意力，她们会觉得更愉快也更放松，”Douglas博士说，他在Newcastle大学食品与农业系任职。“我们的研究证明了许多优秀、有爱心的农场主长久以来相信的事。”这项研究观察了农人对他们乳牛的态度是如何影响牛奶产量。半数农场主同意正面接触更可能产生出具有“良好挤奶气质”（milking temperament）的母牛。</i>
+➜斯坦福大学的量子全息图创造储存记录
+https://www.solidot.org/story?sid=9660	17400
+斯坦福大学的研究人员创造了<a href="http://news-service.stanford.edu/news/2009/january28/small-012809.html">世界上最小的书法</a>，在量子电波干涉模式下他们在铜箔片表面编码了字母S和U（代表斯坦福大学Stanford University），大小只有0.3纳米。波模式（wave patterns）甚至能投影出数据的微细全息图，但需要用强大的显微镜才能观看。<i>
+早在1959年，著名物理学家<a href="http://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC">理查德费曼</a>（Richard Phillips Feynman）提出奖励1000美元给任何一位能将《大英百科全书》全文缩小25000倍，复制到一枚针尖上的人。直到1985年，斯坦福大学学生Tom Newman和电子工程教授Fabian Pease合作使用电子束光刻技术成功将狄更斯的《双城记》缩小到只能用显微镜阅读。1990年这项记录被IBM研究人员打破，他们用35个氙原子拼出了字母“IBM”。现在新的记录比IBM的还小4倍。论文发表在周日出版的《自然纳米技术》杂志上。</i>
+➜Google联合Plaxo对OpenID进行改进
+https://www.solidot.org/story?sid=9661	18900
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "作为一个概念， <a href="http://openid.net/">OpenID</a> 表现出巨大的潜力，然而这种潜力却因 OpenID 需要用户从当前登录网站进行跳转而遭遇障碍，当 <a href="http://www.readwriteweb.com/archives/facebook_connect_will_be_gamec.php">Facebook Connect</a> 也加入竞争，OpenID 的易用性问题便突出起来。鉴于此，<a href="http://google.com/">Google</a> 与 <a href="http://plaxo.com/">Plaxo</a> 合作设计一个<a href="http://blog.plaxo.com/archives/2009/01/introducing_two_1.html">新的 OpenID 登录工作流</a>以简化操作，他们同时<a href="http://googledataapis.blogspot.com/2009/01/bringing-openid-and-oauth-together.html">在 OpenID 中加入 OAuth 以及 Google Contact API</a>。
+<br> <br>很多人知道 OpenID，却未必听说过 <a href="http://oauth.net/">OAuth</a>，然而 OAuth 有自己忠实的用户群，OAuth 被应用到诸如 <a href="http://2008.xtech.org/public/schedule/detail/645">Flickr</a>，<a href="http://www.readwriteweb.com/archives/netflix_api_launches_tomorrow.php">Netflix</a> 一类的应用中，<a href="http://www.readwriteweb.com/archives/why_twitters_new_oauth_matters.php">Twitter 也承诺支持 OAuth</a>。吧 OAuth 与 OpenID 结合到一起可以改善用户体验，让这两种技术各尽其能，作为演示，你可以使用自己的 Google 账户注册 Plaxo 账户。
+"           工作原理
+<br> <br>这种 Google 与 Plaxo 运用的混合模式的工作原理是，首先使用 OpenID 登录，接着启动 OAuth 代理验证，最后，调用 Google Contacts API 访问联系人信息，而这一切对最终用户来说都是透明的。
+<br> <br>在第一步中，用户通过 Gmail 对别的用户发起邀请，邀请中包含一个“使用 Google Account 注册”的按钮。
+<a href="http://www.flickr.com/photos/56624456@N00/3237416706/"> </a>
+<br> <br>点击该按钮之后，新用户被定向到 Google 账户页以确定自己 的身份，系统还会给用户提供一个选项，让 Plaxo 记住该用户。
+<a href="http://www.flickr.com/photos/56624456@N00/3237416710/"> </a>
+<br> <br>接受注册请求后，Plaxo 就会访问用户的 Google 账户并同该账户关联。最终，用户将拥有一个现成的 Plaxo 账户，而不必重新经历一次注册过程，也不必再记住一套用户名和密码。<br> <br>
+重要意义
+<br> <br>在早期的 Web 中，在每个网站拥有一套独立的账户并不奇怪，然而，一遍一遍地注册新账户，添加联系人，并记住这些账户显得很可笑，尤其当对密码的复杂度要求越来越严格的时候。
+<br> <br>随着 <a href="http://www.readwriteweb.com/archives/facebook_connect_coming_soon_t.php">Facebook Connect 的发布</a>，这种可以从一个网站漫游到另一个网站的数字身份变得越来越受欢迎，Facebook Connect 的易用性给 <a href="http://readwritetalk.com/2009/01/20/rww-live-openid/">OpenID 阵营</a>带来压力，并带来简化操作的呼声。
+<br> <br>Plaxo 和 Google 的努力可以为改善所有 OpenID 易用性的工作带来示范，以降低用户的挫败感，不过，VentureBeat 的  Eric Eldon 认为<a href="http://venturebeat.com/2009/01/29/google-plaxo-offer-simplified-version-of-friend-connect/">需要做的事还有很多</a>：
+“那些公司所宣称的多站点登录，应该拥有更好的集成性，并在一次或零次点击中实现登录，这是一个正确的方向。”
+<br> <br>
+所有人都将是赢家
+<br> <br>目前的局面并非盈者通吃，或你死我活，事实上，我们的 Web 环境是 <a href="http://factoryjoe.com/blog/2009/01/28/inaugural-jelly-talk-this-friday-openid-vs-facebook-connect/">Facebook Connect 和 OpenID 可以并存</a>。因为我们有不同的应用可以让二者均变得可靠与实用。
+<br> <br>从个人角度，用户不会将 Facebook 账户用于自己的银行或信用卡账户，而是用作社会站点中的人脉沟通，同样，OpenID 也有自己应用范畴。
+<br> <br>Facebook 拥有大量用户基础，<a href="http://www.readwriteweb.com/archives/paypal_joins_openid_foundation.php">OpenID 背后有重量级的大公司撑腰</a>，这两个阵营谁也不会轻易退出，它们的特点是，一个是专用的，但非常好用；一个是开放的但有点复杂。这两种技术会共存并相得益彰，从这个角度来说，我们都是赢家。
+<br> <br>本文国际来源：<a href="http://www.readwriteweb.com/archives/google_plaxo_openid_oauth_usability.php">http://www.readwriteweb.com/archives/google_plaxo_openid_oauth_usability.php</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K585.aspx">用 Google 帐户登陆其它网站</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K309.aspx">OpenID资源大全</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K608.aspx">OpenID 来了，但我们不会用</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K590.aspx">Google 澄清其 OpenID 策略</a> </li>
+</ul>
+➜google发布网络中立性工具
+https://www.solidot.org/story?sid=9662	19200
+<a href="http://reversethis-moc.liamgtaoahzihs/">shizhao</a> 写道 "google和新美国基金会，PlanetLab联盟<a href="http://www.techcrunch.com/2009/01/28/google-introduces-a-new-weapon-in-the-fight-for-net-neutrality-measurement-labs/">联合发布</a>了几个检测ISP的网络中立性的工具。这套工具发布在<a href="http://www.measurementlab.net/">M-lab</a>网站上，用于检测ISP对互联网访问的限制。包括BT软件是否被封杀，特定软件或用户是否被阻挠访问互联网等。"
+➜OLPC 2.0：一次重新启动
+https://www.solidot.org/story?sid=9663	20160
+1月初，每个孩子一台笔记本（OLPC）基金会<a href="__SLASHLINK__" sect="hardware" sid="09/01/08/0214255" sn="article" tid="68">裁去半数员工</a>，同时终止参与Sugar图形界面的开发。现在，OLPC创始人尼葛洛庞帝(Nicholas Negroponte)和董事长Chuck Kane首次详细披露了基金会的新计划：<a href="http://www.xconomy.com/boston/2009/01/29/olpc-20-after-layoffs-one-laptop-foundation-reboots-with-new-focus-and-big-plans/">OLPC 2.0</a>。<i>
+两人都很乐观，他们指出到2月份XO笔记本出货量将达到1百万。尼葛洛庞帝比较了XO和上网本的区别，他认为XO笔记本尽管配置上次于上网本，但具有对方难以匹敌的优势——低能耗、网格（mesh）网络、阳光下可读的显示器。他们表示愿意与Sugar Labs和去年离开OLPC的Sugar开发者Walter Bender继续合作。</i>
+➜摩尔定律的另一面
+https://www.solidot.org/story?sid=9664	25200
+《经济学人》报道，多年来，计算机行业在摩尔定律的指导下稳步前进——<a href="http://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B">摩尔定律</a>源自Gordon Moore在1965年提出的结论：处理器性能每隔18个月将提升一倍，而价格下降一半。然而随着经济危机的到来，更多的公司宁愿价格下降而不是更高的性能，或者说是运用<a href="http://www.economist.com/opinion/displaystory.cfm?story_id=12932356">摩尔定律的另一面</a>，性能相同但价格减半。<i>
+一个例子是虚拟化技术：软件将一台服务器分割成几部分，分别执行不同的任务，降低运行费用。另一个例子是“软件即服务”的云计算，正如Salesforce.com、NetSuite和Google所做的，去除传统软件的花哨和浮华，而传统的软件是无法让人随时随地使用的。甚至微软也紧跟这一潮流：下一代的Windows操作系统功能与最新版的Vista相同，但运行更快，使用更少资源。如果这样的话，7将是第一种能让电脑比前一代运行更快的Windows版本。对于电脑制造商而言，这不是好消息，因为消费者将不太需要花钱升级。摩尔定律没有废除，但是更多的用户将能从中获得现金红利，而非处理器循环。</i>
+➜教师需要接受开源教育
+https://www.solidot.org/story?sid=9665	34200
+还记得2008年发生的教师<a href="__SLASHLINK__" sect="linux" sid="08/12/11/0843250" sn="article" tid="68">没收学生Linux光盘之事</a>（由于消息来源全部出于一个博客，因此也有人对真实性表示质疑）？这位教师认为学生免费分发的LiveCD肯定属于某种非法行为，因为“没有软件是免费的”。<i>
+这种现象显而易见不是孤立的，包括教师在内的一大群人<a href="http://itmanagement.earthweb.com/osrc/article.php/3798721/Teachers-Need-An-Open-Source-Education.htm">对开源软件十分的无知</a>，主流媒体“软件盗版”威胁论的大肆报道远多于开源自由软件（FOSS）替代的关注。他们也分不清免费软件（freeware）和自由软件（free soft）。在很多人眼里，Linux用户简直是微软所统治世界的异议分子。这些被错误思想指导的教师本身也需要得到再教育。</i>
+➜测谎仪公司威胁起诉批评它的科学家
+https://www.solidot.org/story?sid=9666	44160
+瑞典报纸DN<a href="http://www.dn.se/DNet/jsp/polopoly.jsp?d=1298&amp;a=877743">报道</a>（当地语言），以色列测谎仪制造商Nemesysco向斯德哥尔摩大学的研究人员寄去一封恐吓信，声称如果他们继续出版研究结果的话，<a href="http://www.su.se/english/about/news_and_events/scientists_threatened_with_legal_action">将会提起法律诉讼</a>。标题为“<a href="http://www.scribd.com/doc/9673590/Eriksson-Lacerda-2007">法医语言科学中的欺骗行为：一个需要严肃对待的问题</a>（全文）”的研究论文已被出版方摘除。<i>
+事情的经过是：一年前，斯德哥尔摩大学的语言学教授Francisco Lacerda和哥德堡大学的语音学教授Anders Eriksson在国际刊物《言语、语言与法律》上发表了一篇报告，综述了过去50年里测谎仪领域的研究，结论是没有科学证据去展示测谎仪的实际工作。在Nemesysco公司的要求下，杂志社撤回了该文，在线版本也只保留摘要。Lacerda教授告诉DN，这件事骇人听闻，他们试图压制异议声音，“我们显然损害了他们的生意”。两位教授的文章直接将枪口对准了Nemesysco公司的测谎仪专利，认为它是一项无效的发明。</i>
+➜AMD在显卡驱动中加入OpenGL 3.0
+https://www.solidot.org/story?sid=9667	46440
+几个月前，Khronos组织向外透露了<a href="http://www.khronos.org/opengl/">OpenGL 3.0规格</a>。现在AMD在2009年第一个通过WHQL的驱动——Catalyst 9.1中<a href="http://www.custompc.co.uk/news/605402/ati-adds-opengl-30-support-in-catalyst-91.html">提供了对新API的完整支持</a>。<i>
+OpenGL 3.0需要DirectX 10级别的硬件，如AMD的Radeon HD系列显卡。但不同于Direct3D 10的是，OpenGL 3.0的特性可以在Windows XP和Vista，以及Linux和Mac OS下启用，因此游戏开发者可以收获更广阔的消费者基础。Khronos组织声称，OpenGL 3.0功能几乎与Direct3D 10同等，支持Shader Model 4.0和Geometry Shader等。Khronos组织还指出，新API可以与GPGPU API OpenCL互操作，从而允许OpenGL 3.0能与微软承诺的DirectX 11 API特性Compute Shader相抗衡。</i>

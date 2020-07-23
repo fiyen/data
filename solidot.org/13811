@@ -1,0 +1,42 @@
+➜ATI发布支持AIGLX的Linux驱动
+https://www.solidot.org/story?sid=4228	900
+上个月AMD/ATI做出了多项让Linux消费者兴奋的举措：公开显卡规格，发布了性能大幅提升的<a href="__SLASHLINK__" sect="hardware" sid="07/09/06/0722226" sn="article" tid="22">8.41.7 Linux驱动</a>。8.41支持R300到R500系列的上一代显卡及最新的R600系列。但实际效果并没有太令人满意，AMD似乎主要针对的是R600消费群，旧显卡的用户更新驱动后的经历并不全然愉快。但天空上的阴霾已然被8.42.3 Linux驱动驱散了，<a href="http://www.phoronix.com/vr.php?view=11287">最新支持AIGLX技术的驱动</a>是另一个重大时刻。ATI显卡用户更新驱动后无需使用XGL就可运行Compiz，Beryl，或是Compiz Fusion，虽然这比NVIDIA发布支持AIGLX的驱动晚了13个月。以前只能用开源驱动的旧显卡用户可以从中获得许多好处，特别是在Ubuntu 7.10 Gutsy Gibbon刚发布不久。除了支持AIGLX外，fglrx 8.42.3还提供了对X.Org server 1.4的支持，视频回放功能改进，执行性能进一步提升，Rialto AGP错误修正。虽然8.42.3驱动支持X.Org 7.3/X server 1.4，但Linux 2.6.23 kernel并没有包含在内，它还不支持FireGL系列显卡（工作站用专业显卡），预计11月发布的下一版fglrx 8.43将支持Linux 2.6.23 kernel和工作站。<a href="https://a248.e.akamai.net/f/674/9206/0/www2.ati.com/drivers/linux/ati-driver-installer-8.42.3-x86.x86_64.run">下载</a>。
+➜Firefox2.0.0.8版将要再度升级
+https://www.solidot.org/story?sid=4227	1200
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "Firefox2.0.0.8版修补了二百多个隐患,但是却意外的让一些部分退化了.大多数用户看不到任何不同,或者发现不了任何问题,但是我们要说2.0.0.8升级中的这二百多个修补是颇具价值的,因为你永远不能让功能<a href="http://www.yeeyan.com/articles/view/Angelo/2698">凌驾于安全之上</a>.我们会以最快的速度查明并修复这些问题,之后就会立即释放2.0.0.9版加以修正."
+➜美众议院外交事务委员通过《全球在线自由议案》
+https://www.solidot.org/story?sid=4229	6000
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "美国国会众议院外交事务委员会日前通过了由两党议员提出的“<a href="http://www.govtrack.us/congress/bill.xpd?bill=h110-275">全球在线自由议案</a>”。这项法案由共和党众议员克里斯托弗.史密斯在<a href="http://www.govtrack.us/congress/bill.xpd?tab=main&amp;bill=h109-4780">2006年2月起草</a>，目的是禁止美国因特网行业的公司与当地监管机构合作。如果提案一旦成为生效的法律，就将对任何有<a href="http://zh.wikipedia.org/wiki/%E5%B8%88%E6%B6%9B">类似这样做法</a>的美国因特网公司实行高达200万美元的罚款。
+<br> <br> <a href="http://www.voanews.com/chinese/w2007-10-24-voa54.cfm?rss=human%20rights%20and%20law">评论</a>认为，目前一些美国互联网公司的做法已经违反了美国价值观，需要以美国的法律尺度来规范美国公司在海外的商业活动。目前被指责的公司包括了google、微软、雅虎和思科等多家美国互联网公司巨头。"
+➜红帽为EnterpriseLinux5漏洞发布9个补丁
+https://www.solidot.org/story?sid=4230	6120
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "<a href="http://www.yeeyan.com/articles/view/6559/2695">红帽为EnterpriseLinux5内核的漏洞发布9个补丁</a>，红帽表示,这些漏洞会导致服务拒绝,而且黑客可以利用漏洞进行系统访问。<br>红帽称，在出现的漏洞中，有三个属于重要级(important)，五个中等级(moderate)和一个微弱级(low)漏洞，而所有这些漏洞都事关操作系统的基本功能。红帽安全相应组(Red Hat Security Response Team)将这次的升级补丁评估为"重要"(important)，而安全监控网站Secunia则定义为"中等危急"(moderately critical)。"
+➜GIMP 2.4正式版发布
+https://www.solidot.org/story?sid=4231	7200
+上一个正式版GIMP 2.2还是3年前，在漫长的等待后<a href="http://www.gimp.org/">GIMP开发者</a>宣布发布2.4正式版。<a href="http://gimp.org/release-notes/gimp-2.4.html">发布通告</a>列举了新增功能和各项改进：升级了位图画笔，重新设计了矩形/椭圆形选择工具，重新设计裁剪工具，新的前景色选择工具，新的排列对齐工具，重新规划了菜单布局，改进了图像放大/缩小的质量，改进了打印和色彩管理支持和一个新的透视克隆工具。<a href="http://www.gimp.org/screenshots/">屏幕截图</a>，<a href="ftp://ftp.gimp.org/pub/gimp/v2.4/">下载</a>。linuxtoy对新功能的<a href="http://linuxtoy.org/archives/gimp-240-new-features.html">详细介绍</a>。"
+➜Vista Vs Gutsy Gibbon
+https://www.solidot.org/story?sid=4232	15540
+matrix 写道 "<a href="http://community.zdnet.co.uk/blog/0,1000000567,10006217o-2000331777b,00.htm">这又是一篇讨伐Vista的文章</a>。Rupert Goodwins有7台电脑（不包括一台卧室装饰品Mac OS 8），三台XP，一台Ubuntu 6.06笔记本，两台Ubuntu 7.10，还有一台Vista。他解释了为什么选择Gutsy Gibbon作为工作使用而不是Vista。
+“有趣的事情是，我从1.0版时就开始使用Windows ，有过Windows/386和ME的糟糕经历，NT 3.51和2K上的愉快时光。如果XP不向后支持，那么它也需要一定的时间的熟悉精通。
+为什么我在家里更多使用Ubuntu而非Vista呢？可归结为一个长期以来的印象，Ubuntu走它的路但也不挡你的路，即使它不是始终能获得成功；<a href="http://linux.slashdot.org/article.pl?sid=07/10/23/1929249">Vista则强迫你走一条它制定好的路</a>。 ”"
+➜古登堡计划为被迫关闭的IMSLP提供免费主机服务
+https://www.solidot.org/story?sid=4233	20100
+古登堡计划(<a href="http://www.gutenberg.org/wiki/Main_Page">Project Gutenberg</a>)——发布版权过期图书的电子版——将向遭奥地利乐谱出版商法律威胁而被迫关闭的<a href="http://imslp.org/">IMSLP</a>（国际乐谱图书馆计划）免费提供主机服务。在Book People的邮件列表上，古登堡计划的创始人<a href="http://onlinebooks.library.upenn.edu/webbin/bparchive?year=2007&amp;post=2007-10-23,2">Michael Hart</a>写道：“古登堡计划自愿维持IMSLP项目中合法部分，包括一系列生僻的条目。当法律问题解决之后，再提供网站的完整备份。”
+➜两分钟内讲解弦论
+https://www.solidot.org/story?sid=4234	24300
+许多人都听说过<a href="http://en.wikipedia.org/wiki/String_theory">弦论</a>，一些科学家们在上面花了很多很多时间，那么研究者是否能清晰而简单向我们描述这个高深的理论呢？<a href="http://discovermagazine.com/twominutesorless">《探索》频道</a>最近完成了一次竞赛，要求参与者用一个两分钟以内的视频，来讲解弦论。官方宣布的获胜者视频是“<a href="http://discovermagazine.com/twominutesorless?bcpid=716091875&amp;bclid=686943766&amp;bctid=687029421">弦论鸭</a>（String Ducky）”，读者评选出的则是“<a href="http://link.brightcove.com/services/link/bcpid716091875/bclid686943766/bctid686997877">The Problem with Math</a>”。
+➜爆发的彗星
+https://www.solidot.org/story?sid=4235	28200
+<a href="http://solidot.org/~moses">Moses</a> 写道 <i>"来自日本和欧洲的天文学家报告说，<a href="http://cfa-www.harvard.edu/iau/Ephemerides/Comets/0017P.html">彗星 17P/Holmes 正在经历一场壮观的爆发过程</a>。这颗原先星等 17 的彗星在过去 24 小时内的亮度突然增强五百万倍，在黄昏用裸眼可见。这可能是由于彗星的核心崩溃，或是因为彗星上的冰层突然暴露在阳光下--没人知道确切原因。现在这颗星等 2.5 的黄色星体在夜幕降临后可以在英仙座看见("2.5 等" 意味着比北斗暗一点)。现在用肉眼看这颗彗星会感觉更像是一颗恒星：它没有通常彗星可识别的慧尾 - 不过随着爆发的持续可能会长出一条来。
+</i>
+<a href="http://spaceweather.com/comets/gallery_holmes.html?PHPSESSID=11erqlc8klta7j5csgjb4dvo55">图库</a>。
+➜谷歌拼音输入法正式从实验室毕业
+https://www.solidot.org/story?sid=4236	28800
+<a href="mailto:anquan11@gmail.com">Rui</a> 写道 "在前段时间闹得轰轰烈烈的<a href="__SLASHLINK__" sect="mainpage" sid="07/04/08/0739252" sn="article" tid="26">盗用词库事件</a>后，谷歌拼音输入法终于<a href="http://googlechinablog.com/2007/10/google.html">告别实验室</a>，成为谷歌正式<a href="http://www.google.cn/intl/zh-CN/options/">产品之一</a>。另外两个毕业生是谷歌网站导航和热榜。"
+➜Wolfram的2,3 图灵机是普适的
+https://www.solidot.org/story?sid=4237	30000
+<a href="http://solidot.org/~moses">Moses</a> 写道 <i>"Wolframscience.com 宣布来自英国伯明翰的一名 20 岁大学生 Alex Smith 已经证明 <a href="http://www.wolframscience.com/prizes/tm23/solution_news.html">Wolfram 的 2,3 图灵机是通用的</a>。" 他因此独得了 Wolfram 图灵机研究奖的 25000美元奖金。你可以在<a href="http://www.wolframscience.com/prizes/tm23/TM23Proof.pdf">这里</a>阅读证明的 PDF 版本，以及其他<a href="http://science.slashdot.org/article.pl?sid=07/10/24/1429229">相关报导</a>。"</i>
+数学软件Mathematica的创始人Stephen Wolfram在2002年出版了一本新书《<a href="http://shc2000.sjtu.edu.cn/030301/wolfram.htm">一种新科学</a>》（<a href="http://www.wolframscience.com/nksonline/toc.html">A New Kind of Science</a>，英文电子版），书中他设定了一种特殊的图灵机：反复运用最简单的法则，最后会发展成为一个可解释宇宙现象的复杂模型。2007年5月，Wolfram 2,3 图灵机研究奖设立，奖励给证明它是普适的或不是普适的人。现在我们可以确定地球就是一台超级电脑。
+➜科学家首次确认土星光环内有小卫星
+https://www.solidot.org/story?sid=4238	32100
+科罗拉多大学(University of Colorado)的科学家宣布通过研究卡西尼号宇宙飞船拍摄的图片，<a href="http://www.colorado.edu/news/releases/2007/411.html">他们发现了嵌入在土星光环边缘的小卫星</a>。之前科学家也曾经猜测土星光环内可能有小卫星，这次则是首次确认。在土星的A-环（最外部的光环）中观测到多个与足球场一般大小的小卫星，科学家认为它们是另一颗较大的卫星分解后的残留物，后者曾经绕土星环运行，这颗卫星后来被外来的小行星或彗星撞碎。论文发表在最新一期的<a href="http://www.nature.com/nature/journal/v449/n7165/index.html">《自然》</a>杂志上。

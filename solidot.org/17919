@@ -1,0 +1,55 @@
+➜为什么英特尔 CPU 设计存在严重缺陷？
+https://www.solidot.org/story?sid=59396	21761
+前言：这是一个新频道，因为夹杂观点的新闻会被有洁癖的人视为夹带私货，因此决定创建一个专门的观点频道，这些观点称不上真知灼见，只是发出小小的声音罢了，故取名为声音。披露：我是 AMD 的用户，因此早期的文章可能是大量倾向于 AMD，因为这是我感兴趣的声音，可真称为私货。<br>
+一年前，安全研究人员<a href="https://www.solidot.org/story?sid=55097"><u>披露了</u></a>英特尔 CPU 的硬件设计漏洞 Meltdown 和 Spectre、之后又爆出了更多类似的漏洞如 L1 Terminal Fault。为什么英特尔 CPU 出现如此多的硬件级漏洞，而 AMD 的情况则要好得多？一位 /. 匿名用户<a href="https://hardware.slashdot.org/comments.pl?sid=13046218&amp;cid=57792828" target="_blank"><u>写道</u></a>：<br>
+AMD 发明了 64 位 x86 芯片，发明了第一个真正的双核 x64 芯片，而当时英特尔和科技新闻网站则在吹它的 <a href="https://en.wikipedia.org/wiki/NetBurst_(microarchitecture)"><u>NetBurst 微架构</u></a>，号称能冲击 10GHz。NetBurst 失败了。英特尔回到了奔腾 3，利用与 AMD 签署的交叉专利授权协议使用 AMD 的创意推出了 Core 2 架构。但在此过程中，英特尔做出了让 NSA 开心（削弱安全）以及有利于提升性能的决定，它破坏了 CPU 的多线程设计。正确的 CPU 多线程设计需要有锁和钥匙。每个线程需要有独一的 ID，ID 充当了钥匙去打开线程需要访问的内存资源的锁。英特尔没有实现这一设计，而 AMD 实现了。英特尔的作弊方法所具有的优势包括：1）极大的改进内存延迟，因为实现锁的硬件机制对访问速度有影响；2）极大的改进了功耗，因为内存访问的钥匙和锁都有功耗；3）以上两点让它的频速更高。英特尔 Core 2 架构相对于 AMD 的优势实际上是英特尔破坏 CPU 正确设计实现的。
+➜AMD 驱动烂 Vs AMD 驱动不烂
+https://www.solidot.org/story?sid=59397	25290
+这里讨论的驱动是开源驱动或 Linux、BSD 上的驱动，与 Windows 不太相干，不涉及 Windows 下驱动使用体验。很多人对于 AMD 驱动都有基于个人使用经验产生的观点。<a href="https://news.ycombinator.com/item?id=18971044" target="_blank"><u>AMD 驱动究竟烂还是不烂</u></a>？
+<i>
+zanny：很多人都会这么说，AMD 不错然而...还是英伟达的香。现在是 2019 年，AMD 支持 OpenGL 4.5 和 Vulkan，它在每一个发行版都有开箱即用的驱动，而英伟达从不尊重用户自由，CUDA、RTX、Gsync、Physx、Nvidia Gameworks 诸如此类的私有技术锁定和利用用户...不要再给英伟达钱了，英伟达应该像甲骨文那样成为最受谴责的公司之一。
+dragontamer：公平的说，AMD 的 OpenCL 2.0 支持向来很差，举例来说 Windows OpenCL 2.0 没有调试器。最主要的问题是 AMD 驱动落后于英伟达。
+tombert：我支持 AMD 买了 AMD APU 笔记本电脑，但遭遇了一些图像方面的问题，不清楚是不是驱动的错，以前用英伟达显卡或英特尔集显就从未遇到类似问题。
+tatref：几年前我支持 AMD 买了它的产品，但在厌倦了 AMD 低质量开源闭源驱动后回到了英伟达，它的闭源驱动非常出色。
+AsyncAwait：我的经历正好相反，因为厌倦了应付英伟达私有驱动问题而购买了 AMD 笔记本电脑。切换到 AMD 之后一切都非常顺利。
+Thaxll：驱动开源并不意味着质量就好，而要看有多少人工作在上面，英伟达的驱动开发者要多得多。
+briffle：英伟达某个闭源驱动可能工作良好，一旦升级你会遭遇各种问题。
+shmerl 如果你使用 Linux，Nvidia Optimus 是一则恐怖故事。
+mrweasel：经常听人为 Linux 和 FreeBSD 推荐英伟达，因为它的驱动更好。
+floatboth：AMD 在 FreeBSD 上工作明显更好，都 2019 年了没有人应该再去推荐伟达。
+BlackLotus89 ：Nouveau 开发者都推荐 AMD（Nouveau 逆向工程了英伟达闭源驱动）....</i>
+➜Wine 4.0 发布
+https://www.solidot.org/story?sid=59398	26468
+Wine (Wine Is Not an Emulator) 项目释出了一个重大更新版本<a href="https://www.winehq.org/news/2019012201" target="_blank"><u> Wine 4.0</u></a>，上一个大版本是在去年 1 月发布的。新版代表了一年的努力和超过 6000 个变化。主要变化包括：Vulkan 支持，Direct3D 12 支持，游戏手柄支持，Android 支持 High-DPI，改进 OpenGL，多重采样 D3D  纹理支持，64 位改进，等等。
+➜Google 提议修改 Chromium 让部分广告屏蔽器无法屏蔽广告
+https://www.solidot.org/story?sid=59399	28619
+以改进安全和性能的名义，Google 提议限制 WebRequest API 的功能，用 declarativeNetRequest 替代之，使用 WebRequest 的广告屏蔽扩展将会受到影响。uBlock Origin 和 uMatrix 的开发者 Raymond Hill 在 Chromium 的 Bug 跟踪报告上<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=896897&amp;desc=2#c23"><u>指出</u></a>，他的扩展将会无法工作，用户将会失去更多控制。Google 称它的提议能改进安全、隐私和性能，增强用户控制。它实现上述目标的方法是用 declarativeNetRequest 取代 webRequest。 WebRequest API 允许扩展拦截网络请求，扩展因此能屏蔽、修改或重定向请求。这可能会导致网页加载的延迟，因为浏览器必须先等待扩展。但未来 WebRequest 将只有读取网络请求而没有修改的能力。declarativeNetRequest 将允许 Chrome 如何处理网络请求，从而移除一个可能的性能瓶颈远。Adblock Plus <a href="https://tech.slashdot.org/story/19/01/23/0048202/google-proposes-changes-to-chromium-browser-that-will-break-content-blocking-extensions-including-various-ad-blockers"><u>不会受到这些改变的影响</u></a>。
+➜美国将寻求从加拿大引渡孟晚舟
+https://www.solidot.org/story?sid=59400	29161
+美国司法部表示<a href="https://cn.reuters.com/article/usa-seeking-extradition-meng-huawei-0122-idCNKCS1PH007" target="_blank"><u>将寻求引渡</u></a>华为首席财务官 (CFO) 孟晚舟。去年 12 月孟晚舟在加拿大被捕。美国指控孟晚舟对华为与一家无视美国制裁试图向伊朗出售设备的公司的关系有不实叙述。孟晚舟被捕导致加拿大与中国关系恶化，中国随后逮捕了两名加拿大公民，并对另一名加拿大人判处死刑。美国必须在 1 月 30 日前提交正式的引渡申请。收到正式申请后，加拿大法院有 30 天时间来决定是否有足够证据支持引渡，且加拿大司法部长必须正式下令。
+➜当亚马逊和 Google 成为基础设施的一部分
+https://www.solidot.org/story?sid=59401	31300
+一位记者尝试在生活中完全避开亚马逊的服务，但发现无法做到<a href="https://yro.slashdot.org/story/19/01/22/215240/i-tried-to-block-amazon-from-my-life-it-was-impossible" target="_blank"><u>也不可能做到</u></a>，主要原因是亚马逊的云计算服务 AWS 已经成为现代生活基础设施的一部分。AWS 控制了数千万 IP 地址，美国政府机构也大量使用 AWS 的服务，你的常用应用也可能会依赖于 AWS，如果想避开 AWS， 你会发现寸步难行，你的应用会停止工作，你经常访问的网站无法浏览，你无法再获得某些政府机构的服务。Google 的情况类似，虽然中国屏蔽了 Google 绝大部分的服务，但中国流行的浏览器都是基于 Google 的 Chrome，Google 的 AI 技术和语言如 Go 也都获得广泛使用。当亚马逊和 Google 成为基础设施的一部分，你不再可能避开它们。
+➜Google 考虑在欧洲停止新闻服务
+https://www.solidot.org/story?sid=59402	34271
+因为受争议的版权法，Google <a href="https://www.bloomberg.com/news/articles/2019-01-22/google-says-it-s-considering-pulling-news-service-from-europe" target="_blank"><u>考虑在欧洲停止新闻服务</u></a>。欧盟的新版权指令将给予出版商权利去要求互联网巨头如 Google 和 Facebook 等在搜索结果中展示其新闻片段的公司支付费用。Google 欧洲、非洲和中东区公共政策经理 Jennifer Bernal 表示，Google News 可能会因此退出欧洲大陆。她称 Google 在考虑多种选项，退出的决定是基于对规则的理解，它并不情愿采取这一决定。因为欧盟成员国之间的分歧新版权指令尚未达成一致决定。
+➜网信办命令花瓣网和天天快报等整改
+https://www.solidot.org/story?sid=59403	38946
+国家网信办发布<a href="http://www.cac.gov.cn/2019-01/23/c_1124032637.htm"><u>新闻稿</u></a>，它自 1 月 3 日启动了网络生态治理专项行动，截至 1 月 21 日，累计清理涉网络生态问题的有害信息 709.7 万余条，注销违法违规账号 30.8 万余个，关闭、取消备案网站 733 家，清理移动应用程序 9382 款，受理相关举报 5.3 万条。“花瓣网存在严重生态问题，天天快报传播低俗庸俗负面有害信息，破坏网络生态，社会反响强烈。国家网信办按照属地管理原则，指导浙江、北京等地网信办约谈和依法处置相关网站，责令其进行全面深入整改，切实履行企业主体责任，加强网站生态治理。”<a href="http://www.bjnews.com.cn/news/2019/01/23/542252.html"><u>整改期间</u></a>，天天快报客户端 “推荐” 频道自 2019 年 1 月 22 日 18 时起暂停更新一周，企鹅号 “王星星是吃货”“观天下阅然纸上”“爱生活朱莺”“情感解析斋” 注销并纳入黑名单管理。
+➜Android Q 将包含更多 SIM 卡锁定方法
+https://www.solidot.org/story?sid=59404	40112
+Android Q 最近新加入的代码“<a href="https://android-review.googlesource.com/q/topic:%22aosp_simlock_q_enhancements%22" target="_blank"><u>Carrier restriction enhancements for Android Q</u></a>”，将向移动运营商提供<a href="https://9to5google.com/2019/01/21/android-q-carriers-sim-lock/" target="_blank"><u>更多限制 SIM 卡的方法</u></a>，允许它们对设备能运行的网络有细粒度控制。运营商可以在手机上设置一个网络黑名单和白名单，并能改变双卡设备的工作方式。目前，运营商只能对每个 SIM 卡插槽设置个别限制，而在 Android Q 上运营商能锁住第二个插槽。这种 SIM 卡插槽限制将具有永久性，即使恢复到出厂设置也无法修改。这种限制不影响用户拨打急救电话。
+➜必应中国无法访问
+https://www.solidot.org/story?sid=59405	45823
+根据社交网络的消息，必应中国网站 cn.bing.com 在中国大陆无法访问，原因未知。国内访问返回“连接失败”，国外访问会跳转到 <a href="https://www.bing.com/?mkt=zh-CN&amp;mkt=zh-CN" target="_blank"><u>bing.com 中文版</u></a>。测试也<a href="https://zh.greatfire.org/cn.bing.com" target="_blank"><u>判断不出原因</u></a>，这一现象已经持续了数个小时，因此如果是服务器问题，那么微软作为三大云服务商之一其服务可靠性要打上问号了。
+➜华为如何在欧洲扩展市场
+https://www.solidot.org/story?sid=59406	46439
+华为 18 万名员工有 1.2 万在欧洲。2017 年，它在欧洲、中东和非洲的营收超过 200 亿美元，约占全部业务的四分之一。由于安全方面的担忧，华为取得的这些成绩正面临崩塌的危险。但它是如何扩大欧洲市场的？纽约时报<a href="https://cn.nytimes.com/technology/20190123/huawei-europe-china/" target="_blank"><u>报道了</u></a>华为是如何通过游说、承诺就业并进行研究投资来取悦欧洲政府。在英国，华为成立了一个由石油巨头英国石油公司前首席执行官布朗 (John Browne) 领导的特别公司董事会。它向包括剑桥大学在内的学校捐款；为政治领导人举办宴会；并赞助了如查尔斯王子创立的王子信托 (Prince's Trust) 等知名慈善机构。在德国，华为创办机构以研究新的创新产业和赞助活动，包括执政的德国基督教民主联盟最近的大会。
+➜Google 向维基百科捐赠 310 万美元
+https://www.solidot.org/story?sid=59407	46769
+Google 官方博客<a href="https://blog.google/products/search/expanding-knowledge-access-wikimedia-foundation/"><u>透露</u></a> Google.org 向 <a href="https://wikimediaendowment.org/"><u>Wikimedia Endowment</u></a> 捐赠 200 万美元，加上去年底的年度筹款活动中它向  Wikimedia 基金会捐出的 110 万美元，近期搜索巨人共向维基百科捐出了 310 万美元，过去十年的总捐款金额超过了 750 万美元。Google 还将允许维基百科编辑免费使用它的机器学习工具如 <a href="https://wikimediafoundation.org/2019/01/09/you-can-now-use-google-translate-to-translate-articles-on-wikipedia/" target="_blank">Google Translate API</a>，扩大 Project Tiger 宣传，增加印度当地语种的维基百科文章。
+➜搜索引擎百度已死
+https://www.solidot.org/story?sid=59408	53437
+匿名读者 写道<i> "前南方周末记者方可成在其微信公众号新闻实验室发表了名为《<a href="https://www.huxiu.com/article/282406.html" target="_blank">搜索引擎百度已死</a>》的文章指出百度的搜索结果一半以上指向百度自家产品，尤其是百家号。
+百度则做出<a href="https://m.weibo.cn/detail/4331582892022510" target="_blank">说明</a>声称百家号内容于搜索结果占比小于 10%。
+讽刺的是原文发表于更加封闭的微信系统中，同样充斥假新闻，营销内容与医疗欺诈。显然不仅是搜索引擎百度已死，整个中文互联网早已四分五裂。"</i>

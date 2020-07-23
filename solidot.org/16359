@@ -1,0 +1,85 @@
+➜Google宣布Nexus 6、Nexus 9、Nexus Player和Android 5.0 Lollipop
+https://www.solidot.org/story?sid=41478	8371
+<div align="center"><img src="http://img.solidot.com.cn/0/680/licmxDcnmwFYE.jpg" height="285" width="580" align=""><br>
+</div>
+<br>
+Google<u><a href="http://arstechnica.com/gadgets/2014/10/google-announces-the-nexus-6-nexus-9-and-android-5-0-lollipop/" target="_blank">宣布了</a></u>摩托罗拉移动制造的<a href="https://www.google.com/nexus/6/" target="_blank"><u>Nexus 6</u></a>、HTC制造的<a href="https://www.google.com/nexus/9/" target="_blank"><u>Nexus 9</u></a>、华硕制造的机顶盒<a target="_blank" href="http://www.google.com/nexus/player/"><u>Nexus Player</u></a>，以及新一代操作系统Android 5.0 Lollipop。Nexus 6的配置和此前的流言相同：5.96英寸2560×1440显示屏(493 PPI)，2.7GHz Snapdragon 805四核SoC，3GB内存，32GB 或64GB存储空间，1300万后置200万前置摄像头，3200 mAh电池，起售价649美元，远超此前的Nexus系列智能手机，价格被认为是最为出乎人意料。Nexus 9配置是8.9英寸2048×1536显示屏(245 PPI)，64位 2.3GHz Nvidia Tegra K1 SoC， 16 或32GB存储空间，800万像素后置160万像素前置摄像头，重 418 g，比Wi-Fi版iPad Air (469 g)轻51 g， 起售价399美元。Nexus Player配备了1.86GHz四核Intel Atom处理器，1GB内存，8GB存储空间，蓝牙 4.1和802.11ac，售价99美元。Android 5.0  Lollipop的一大改变是启用新的ART运行时，Google称能显著加快大多数应用程序的速度。<br>
+➜Docker与微软合作
+https://www.solidot.org/story?sid=41479	10973
+开源项目Docker<a target="_blank" href="https://blog.docker.com/2014/10/docker-microsoft-partner-distributed-applications/"><u>宣布</u></a>与微软合作将Docker带到下一个版本的Windows Server上，此前Docker只支持Linux。Docker是一个创建轻量级应用程序容器的开源项目，而容器则是某种轻量级的虚拟机技术，共享操作系统，有一个隔离的进程空间，可以在隔离环境内运行应用程序。Docker Engine将支持Windows Server，而微软云计算平台Azure<a target="_blank" href="http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/"><u>也将支持</u></a>Docker容器。
+➜FBI警告商业间谍攻击，归罪于中国
+https://www.solidot.org/story?sid=41480	12439
+FBI对美国商界<a target="_blank" href="http://www.businessinsider.com/r-fbi-warns-us-businesses-of-cyber-attacks-blames-beijing-2014-10"><u>发出警告</u></a>，美国的一些公司最近受到计算机黑客的攻击，他们相信这些黑客得到了中国政府支持。警告文件描述了黑客所使用的工具和方法，并且要求美国公司在认为自己受到此类攻击的情况下报告联邦政府。FBI发言人Josh Campbell证实了此事，“FBI最近观察到了这些网络入侵行为，并且认为攻击者受到了中国政府的支持。”
+“私营安全公司也观察到了类似的攻击行为，而且发布了有关这些攻击的保护措施信息。”<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2014/10/141015_fbi_china_hackers"><u>报道</u></a>没有提到文件的具体细节。
+➜Emacs、Guile和Emacs Lisp未来
+https://www.solidot.org/story?sid=41481	15343
+<a target="_blank" href="http://en.wikipedia.org/wiki/GNU_Emacs"><u>GNU Emacs</u></a>是自由软件世界连续开发时间最长的应用程序之一，按某些定义计算它有超过30年历史了。但如此长寿也给GNU Emacs带来自身的挑战。Emacs社区的许多人一致认为 ，现在可能是时候用更快更现代的解释器替代Emacs的Lisp解释器。替换底层虚拟机将会产生深远的影响。Emacs内部Lisp解释器的一个候选替代是<a target="_blank" href="http://www.emacswiki.org/emacs/GuileEmacs"><u>Guile-Emacs</u></a>，使用来自<a target="_blank" href="http://www.gnu.org/software/guile/"><u>GNU Guile</u></a>项目的解释器，Guile解释器最初是为了支持Scheme语言——Lisp的一种方言，但现在它也能支持其它语言。Guile引擎据报比Emacs的Lisp引擎更快，它还能提供多种有价值的功能，如并发和支持用Guile所支持程序语言写的扩展。但使用Guile解释器也会带来许多其它问题如字符串处理，目前<a target="_blank" href="http://lwn.net/Articles/615220/"><u>社区尚未达成共识</u></a>，而GNU Emacs作者Richard Stallman已经表态予以支持。
+➜安全公司联手对抗Hidden Lynx恶意程序
+https://www.solidot.org/story?sid=41482	17659
+思科、FireEye、F-Secure、iSIGHT Partners、微软、Tenable, ThreatConnect、ThreatTrack Security、Volexity、Novetta和赛门铁克正联手展开跨行业合作，<a target="_blank" href="http://www.symantec.com/connect/blogs/security-vendors-take-action-against-hidden-lynx-malware"><u>对抗中国网络间谍组织Hidden Lynx使用的恶意程序</u></a>。Hidden Lynx利用Hikit后门和其它恶意程序攻击美国、日本、台湾、韩国等地区的目标，攻击对象多属于政府、科技研究、国防和航空航天等领域的机构。Hikit是一种先进的远程访问木马，它向攻击者提供了一个后门远程访问受害者的电脑，有32位和64位版本，根据需要部署在目标的基础设施中。Hikit至少被两个中国 APT组织——Hidden Lynx和Deep Panda——用于发动网络间谍攻击。Hidden Lynx，又名极光（Aurora），曾对Google发动攻击，它是路过式下载（又名watering-hole）攻击方法的先锋。
+➜臭鼬工厂公布紧凑聚变反应堆细节
+https://www.solidot.org/story?sid=41483	25919
+<div align="center"><img src="http://img.solidot.com.cn/0/681/liX5giQmvyERw.png" height="321" width="480" align=""><br>
+<br>
+</div>
+洛克希德马丁公司的臭鼬工厂透过《航空周刊》公布了它的<a href="http://aviationweek.com/technology/skunk-works-reveals-compact-fusion-reactor-details" target="_blank"><u>紧凑聚变反应堆细节</u></a>。可控聚变反应堆被认为能一劳永逸的解决地球的能源问题，但至今成功者寥寥，正在法国建造的国际热核聚变实验反应堆进展缓慢。国际热核聚变实验反应堆等<a href="http://zh.wikipedia.org/wiki/%E6%89%98%E5%8D%A1%E9%A9%AC%E5%85%8B" target="_blank"><u>托卡马克</u></a>环状装置都是利用强磁场控制超热等离子体实现磁约束聚变，
+洛克希德马丁的一组研究人员设计的聚变反应堆被称为紧凑聚变反应堆 (CFR)，采用一种完全不同的方法处理等离子体约束，不是将等离子体限制在环状管道内，而是用超导线圈生成一种新的磁场几何体，将等离子体控制在反应室更大的空间范围内。研究负责人Thomas McGuire是在MIT获得博士学位，他表示初步模拟和实验结果是积极乐观的。
+➜诺贝尔和平奖主席因2010年授奖给刘晓波遭到排挤
+https://www.solidot.org/story?sid=41484	26327
+<a href="mailto:g.yaoshi@gmail.com">gyaoshi</a> 写道<i> "诺贝尔和平奖委员会主席Torbjørn Jagland声称，他进来的遭遇都是由于2010年将奖项授予中国意见人士刘晓波而而引起的，这一次授奖曾引起中国强烈抗议。<a href="http://www.thelocal.no/20140929/thorbjorn-jagland-faces-party-exclusion-after-china-nobel-prize-decision" target="_blank" title="Jagland faces Nobel committee exclusion">挪威保守党正在试图罢免他的委员会主席一职</a>，他在欧洲委员会的秘书长一职也岌岌可危。据称，今年的奖项将是在他手中颁布的最后一届诺贝尔和平奖。"</i>
+➜众筹推动中国硬件创业公司高速发展
+https://www.solidot.org/story?sid=41485	28090
+在深圳，硬件创业公司比以往任何时候更快的冒出，而<a target="_blank" href="https://www.techinasia.com/play-crowd-crowdfunding-changed-status-quo-chinas-hardware-startups/"><u>众筹是背后的推动力</u></a>。但中国的众筹服务和国外仍然有很大的区别，资金筹集规模仍然远小于知名的Kickstarter和Indiegogo，深圳硬件创业加速器Haxlr8r的创始人Cyril Ebersweiler指出，中国人不喜欢预购，在淘宝时代人们不喜欢等几个月然后发现产品已经过时。因此中国创业公司的众筹存在显著的特点：在Kickstarter上，许多项目筹集资金时只有视频和概念验证；而在中国，众筹产品必须接近生产阶段，在众筹活动结束之后就能发货。
+➜尼日利亚如何阻止埃博拉病毒传播
+https://www.solidot.org/story?sid=41486	30016
+非洲人口最多的尼日利亚已经一个多月没有发现埃博拉感染新病例，世界卫生组织可能会在不久后宣布该国疫情解除。尼日利亚<a target="_blank" href="http://www.businessinsider.com/how-nigeria-stopped-ebola-2014-10"><u>如何阻止埃博拉病毒传播</u></a>？建立严密的接触者跟踪系统。尼日利亚的零号病人是乘飞机从利比里亚飞到尼日利亚的 Patrick Sawyer，Sawyer在利比里亚的医院就被检查出埃博拉阳性，禁止他离开，但Sawyer却不顾一切的飞往了尼日利亚，结果在机场病倒，五天后死亡。在确认了首例埃博拉病例后，尼日利亚启动了接触跟踪，建立应急中心协调监视。卫生官员利用电话和飞机乘客名单，跟踪了约900位可能与Sawyer接触过的人，他们被要求一天两次提供健康情况，连续监视21天。出现任何症状或未能递交更新，卫生官员会上门检查——官员总共进行了1.85万次面对面访问。尼日利亚共确诊19例博拉感染者，他们全都能被追踪到Sawyer。
+➜最高法院认为QQ不具有市场支配地位
+https://www.solidot.org/story?sid=41487	31526
+10月16日上午，360诉腾讯滥用市场支配地位一案在北京最高人民法院终审宣判，最高人民法院驳回奇虎360的上诉，维持一审判决，<a target="_blank" href="http://companies.caixin.com/2014-10-16/100739230.html"><u>认为腾讯不具市场支配地位</u></a>，其行为不构成滥用市场支配地位。<br>
+<i>360诉腾讯垄断案源于2010年的“<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%A5%87%E8%99%8E360%E4%B8%8E%E8%85%BE%E8%AE%AFQQ%E4%BA%89%E6%96%97%E4%BA%8B%E4%BB%B6"><u>3Q大战</u></a>”。当年2月腾讯QQ升级时以默认捆绑的方式推广QQ医生。之后360公司推出360扣扣保镖，称QQ可偷窥用户隐私，装扣扣保镖能保护QQ用户的安全。腾讯对此反应强烈，11月3日晚发布《致广大QQ用户的一封信》，宣布在装有360软件的电脑上停止运行QQ软件，用户必须卸载360软件才可登陆QQ，要求用户二选一。当晚工信部介入调停，360同意召回扣扣保镖，QQ也于次日恢复对360软件的兼容。随后两家公司打起了法律战，360以滥用市场支配地位为名起诉腾讯。2013年3月28日，广东高级人民法院一审宣判奇虎360败诉，360向最高人民法院提出二审。最高人民法院的终审判决将腾讯的捆绑式推广及二选一视作符合消费者习惯，不具强制性；而且二选一对消费者的影响非常有限，同时对自身业务产生重大冲击，行为动机被判定为保护措施。最高人民法院认为，“二选一”并未对市场的竞争格局造成强烈影响。它举例说“被上诉人实施‘二选一’行为仅仅持续一天即导致竞争对手MSN当月覆盖人数增长2300多万，多个竞争对手争抢即时通信服务市场。这一事实比较有力地说明被上诉人在即时通信服务市场上并不具备显著的市场支配地位。”QQ是中国用户最多的即时通讯服务，MSN即将关闭。</i><br>
+➜朝鲜驻华使馆发布朝鲜人权报告
+https://www.solidot.org/story?sid=41488	31832
+<a href="/~mtjs">mtjs</a> 写道 "2014年10月16日,朝鲜驻华使馆<a href="http://www.chinanews.com/gj/2014/10-16/6685849.shtml" target="_blank">向环球时报、环球网独家披露朝鲜人权报告中文版全文</a>。
+报告中说道：朝鲜是朝鲜民族从太古代定居并创造自己历史的祖宗国土，是创造并继承了具有独立文明圈的大同江文化的人类文化发祥地之一。世界第一个铁甲船、金属活字和天文台等都是朝鲜民族创制的。朝鲜的指导思想是最科学的、最革命的指导思想：“主体思想”。“朝鲜人民在这样的国家社会制度下人人都在没有任何社会政治上不安的情况下，过着有意义而幸福的生活，在全社会一人为全体，全体为一人，互帮互带，同甘共苦的美好风尚，蔚然成风。”
+<p></p>
+<!--more-->
+<p></p>
+<i>
+<p>&nbsp;主体思想的人权观：&nbsp;</p>
+<p>① 人权是自主权利：“自主权利包含着人要摆脱一切束缚和隶属，作为世界和自己命运的主人生活并发展的自主意志和要求，保证拥护和实现它。”&nbsp;</p>
+<p>② 真正人权的体现者是人民群众：“由人民群众提出并得到实现的人权，就是一并实现集体的要求和构成集体的个别成员的要求的真正的人权。”&nbsp;</p>
+<p>③ 人权是国权：“人权完全是内政问题，在国权得到保障的条件下才有人权，绝不能成为干涉内政的对象或成为把干涉内政加以合理化的工具。”&nbsp;</p>
+<p>④ 基本人权和人权基准：&nbsp;</p>
+<p>- 基本人权： “社会政治权利、对尊严的权利，生存权、不可侵犯权，就是基本人权。” - 人权基准：“人权基准必须根据民族国家的要求和实际规定，每个国家可以规定并运用自己的人权基准。”&nbsp;</p>
+<p>以下略……&nbsp;</p>
+<p><a href="http://intl.ce.cn/sjjj/qy/201410/16/t20141016_3717347.shtml" target="_blank">中国日报网10月16日电</a> 上周有消息披露，因急需外汇，朝鲜正在增加向中国出口粮食量。长期接受粮食救济、与外界几乎隔绝的朝鲜为何可以向中国出口粮食？过去15年，朝鲜一直是全世界接受救济粮最多的国家之一，但总部位于韩国的朝鲜新闻网报道，中国海关数据显示，今年中国从朝鲜进口的食品数量上升了35%。2012年6月，联合国表示，近三分之一的朝鲜5岁以下儿童由于缺乏营养而出现发育不良的现象。联合国预测称，2014年朝鲜农作物收成也许还会增加，但由于今年发生旱灾，所以收成也可能因此受到影响。
+据报道，朝鲜向中国出口的食品中不仅有高端食品，例如海鲜和人参，还包括一小部分稻米。朝鲜新闻网称，今年前8个月，朝鲜出口的粮食要比2011年全年收到的救济粮总量还要多。"</p>
+</i>
+➜地震预测：监视自动挤奶机
+https://www.solidot.org/story?sid=41489	33932
+动物预测地震的故事由来已久。在2011年3月11日日本9级大地震发生8个月之后，研究人员启动了一项调查，要求宠物主人报告地震发生前动物的奇怪行为。多数宠物主人报告称在地震前几分钟或几秒钟，猫或狗会变得焦躁不安，会想要靠近主人。但人类的记忆对于事件发生的先后顺序向来并不可靠，而且这些警告太随机距离地震太近而不具有实用价值。但奶牛的自动挤奶机不会有记忆错误。奶牛被认为在地震前几天会因为某种原因（如声音和气味）而减少产奶。研究人员<a target="_blank" href="http://www.psmag.com/navigation/nature-and-technology/dogs-cats-cows-predict-magnitude-9-earthquake-japan-2011-92289/"><u>于是调查了奶牛养殖场</u></a>，奶牛场的自动挤奶机记录了详细的产奶记录，能具体到每只奶牛。研究人员发现，远离震中地区的奶牛场牛奶产量没有什么变化，但在茨城县，牛奶产量在2月11日，以及3月5/6/7/8日出现了显著下降。研究人员考虑了影响产奶量的其它因素如温度、湿度和产犊。<a target="_blank" href="http://zh.wikipedia.org/wiki/%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD#.E8.8C.A8.E5.9F.8E.E5.8E.BF"><u>茨城县</u></a>在大地震中的死亡人数仅次于沿海的福岛县。
+➜英语如何打败德语成为科学的语言？
+https://www.solidot.org/story?sid=41490	36121
+永久冻土（Permafrost）、氧气（oxygen）和氢气（hydrogen）这些科学术语源于俄语、希腊语和法语，今天的科学家如果要创造一个新的科学名词，那么这个名词最有可能是英语。今年的诺贝尔生理或医学奖得主May-Britt 和Edvard Moser夫妇是挪威人，但他们的论文是用英语写的，发表在英文期刊上。今天的英语是科学的语言，但一百多年前的1900年，科学的语言是德语，<a target="_blank" href="http://www.bbc.com/news/magazine-29543708"><u>英语是如何打败德语成为科学的语言的</u></a>？答案是一次世界大战。一次世界大战后，比利时、法国和英国的科学家联合抵制战败国德国和奥地利的科学家，阻止他们出席会议和在西欧期刊上发表论文。科学界被分裂成两个社区，一个由德国和奥地利科学家组成，一个主要由法国和英国的科学家组成。美国当时也出现了反德浪潮，德语不允许用于公开演讲，不允许教10岁以下儿童学德语，美国最高法院在1923年推翻了反德法律，但影响已经产生，一代的美国科学家没有学德语。
+➜在智能手机上发现宇宙射线
+https://www.solidot.org/story?sid=41491	38553
+<div align="center"><img src="http://img.solidot.com.cn/0/682/li4VhCf7Tuhc.png" height="215" width="540" align=""><br>
+<br>
+</div>
+每秒钟都会有宇宙射线抵达地球，但即使是大型探测器也只能捕捉到少数宇宙射线留下的痕迹，这意味着研究这些高能粒子的起源将是一项需要漫长时间的工作。现在，加州大学的研究人员<a href="http://arstechnica.com/science/2014/10/cosmic-ray-particle-shower-theres-an-app-for-that/" target="_blank"><u>想到了一种方法</u></a>：利用几乎无处不在的智能手机摄像头。他们发表了一篇<a href="http://crayfis.ps.uci.edu/paper.pdf" target="_blank"><u>论文</u></a>（PDF），探讨是否可以用智能手机探测宇宙射线产生的高能光子和粒子。他们测试用放射性同位素干扰，以及将手机放在铅盒内，带到飞机上，发现手机摄像头能探测到宇宙射线的痕迹。他们开发了软件<a href="http://crayfis.ps.uci.edu" target="_blank"><u>CRAYFIS</u></a>（代表cosmic rays found in smartphones），当手机不活动或充电时，CRAYFIS会监视摄像头，寻找高等粒子撞击探测器的痕迹。研究人员计算后认为，如果一平方公里内有1000部活跃的智能手机，他们能探测出所有撞击地面上空大气层的高能宇宙射线。感兴趣的用户可以输入电子邮件申请<a href="http://crayfis.ps.uci.edu/join.php" target="_blank"><u>beta测试</u></a>。
+➜研究人员发现来自中国的代写论文
+https://www.solidot.org/story?sid=41492	40815
+研究人员扫描2012年1月到2014年4月出版的论文时无意中发现了一批<a target="_blank" href="http://news.sciencemag.org/asiapacific/2014/10/copycat-papers-flag-continuing-headache-china"><u>来自中国的内容相似的论文</u></a>。他们搜索趋势时发现关键词CISCOM（一个医学出版数据库）出现的频率在2014年猛增，而过去几年它每年只会被2到3篇论文提到，但从今年2月起，它几乎每周被提到一次。研究人员<a target="_blank" href="http://blog.thegrandlocus.com/2014/10/a-flurry-of-copycats-on-pubmed"><u>发现</u></a>，这些论文的作者全部来自中国，而且不属于同一个研究机构，而是属于28个位于不同城市的不同研究小组，研究的主题并不相同，但奇怪的是论文的语句和语法错误却基本相同，比如：一篇论文这么写的，“Importantly, the inclusion criteria of cases and controls were not well defined in all included studies and thus might have influenced our results.”另一篇论文是 “Importantly, the inclusion criteria of cases and controls were not well defined in all included studies, which might also have influenced our results.”差异极小，这些论文应该是出售署名权的代写论文，因为递交的时间都是在2013年底，所以抄袭不太可能，只可能是代写的论文。《科学》期刊去年<a target="_blank" href="http://www.solidot.org/story?sid=37439"><u>曾曝光了</u></a>中国繁荣的地下论文代写产业。
+➜北京新增千组摄像头保驾APEC
+https://www.solidot.org/story?sid=41493	42530
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20141016/rec190152.asp"><u>报道</u></a>，20多位国家和政府首脑下月将赴北京参加亚太经济合作组织(APEC)峰会，全球的目光将聚焦在此次会议的召开地北京怀柔区上，这其中包括北京警方为监控此次会议而刚安装的1000组监控探头。怀柔区公安局安装一面有27个屏幕的巨大“显示 ”来跟踪所有电子探头。警方告诉记者，这些视频监控设备均采用数字高清技术，能够在30米内分辨人的面部，能够监控500米的范围。为了会议期间的空气质量，政府还将实行交通限行措施，并实施一个“空气污染特别控制计划”，其中包括关闭一些工厂以减少雾霾。政府还将在市区更换45万个花盆来装点市容。
+➜亲北京议员称雨伞是攻击性兵器
+https://www.solidot.org/story?sid=41494	43845
+建制派政党民建联议员梁志祥今天在香港立法会辩论上表示，<a target="_blank" href="http://www.nanzao.com/sc/hk/40270/gang-jian-zhi-yi-yuan-huang-fei-hong-zheng-san-you-gong-ji-xing-yong-chun-zheng-ju-shou-ye"><u>雨伞是攻击性武器</u></a>，可以伤人，“以我常识所知，在民国时代，雨伞是一种攻击性兵器，难道议员没有这些基本的历史常识？”梁志祥举例说，在黄飞鸿剧集中，黄飞鸿以雨伞与“奸人坚”格斗，证明雨伞足以伤人。他又说自己小时候在乡村长大，年纪大的人会提醒他出门带雨伞，因为除了遮风挡雨以外，还可以打狗防身，可见雨伞攻击性不低，“如果拿着伞冲向警方，警员会不会受伤呢？”至于示威者高举双手却被指暴力冲击警方，梁志祥说，咏春招式中，最高一招是“裙下一脚”，也就是用裙摆或袍下摆遮着脚再踢，示威者正是高举双手脚踢警员，让警员受伤，认为广大市民一定可以公正评论。<a target="_blank" href="http://zh.wikipedia.org/wiki/%E8%A6%AA%E5%BB%BA%E5%88%B6%E6%B4%BE"><u>建制派</u></a>是亲北京政治派系。
+➜中国科学家在量子电脑上演示人工智能
+https://www.solidot.org/story?sid=41495	45389
+<div align="center"><img src="http://img.solidot.com.cn/0/683/lia22ipTtnADU.png" height="200" width="400" align=""><br>
+<br>
+</div>
+合肥中国科技大学的科学家在预印本网站<a href="http://arxiv.org/abs/1410.1054" target="_blank"><u>发表论文</u></a>，宣称首次演示了<a href="https://medium.com/the-physics-arxiv-blog/first-demonstration-of-artificial-intelligence-on-a-quantum-computer-17a6b9d1c5fb" target="_blank"><u>量子人工智能</u></a>。他们的量子计算机能识别手写的字符。
+机器学习算法是使用一组训练数据集学习如何识别图像的特征，然后使用学到的知识去发现新图像集的相同特征。训练数据集中图像数量和特征复杂度的增加，任务解决所需时间会以多项式时间增加。量子计算机的并行处理能力被认为能加快这一过程。理论物理学家去年曾设计了一个量子算法，能在对数时间而不是多项式时间内解决问题。中科大的科学家训练他们的机器去区分手写的6和9的区别。

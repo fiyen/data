@@ -1,0 +1,48 @@
+➜Firefox Nightly 加入加密 SNI 支持
+https://www.solidot.org/story?sid=58270	8480
+随着越来越多的网站普及 HTTPS，明文的服务器名称指示（Server Name Indication，SNI）成为新的隐私漏洞。通过明文 SNI，ISP 或任何网络中间人将会知道你访问了哪个网站，最近一部分网站的屏蔽方法就升级到 SNI 检测。加密 SNI（ESNI）将会堵上这个漏洞。Mozilla 现在<a href="https://blog.mozilla.org/security/2018/10/18/encrypted-sni-comes-to-firefox-nightly/" target="_blank"><u>宣布</u></a>它的最新版 Firefox Nightly 加入了对加密 SNI 的支持，在该功能启用之后浏览器访问任何支持加密 SNI 网站将不会泄漏域名。目前只有云服务商 Cloudflare <a href="https://www.solidot.org/story?sid=58057" target="_blank"><u>支持加密 SNI</u></a>，也就是只有访问托管在 Cloudflare 的网站该功能才会起作用。Mozilla 希望未来会有更多服务商支持 ESNI。
+➜微软将允许用户移除更多 Windows 10 预装应用
+https://www.solidot.org/story?sid=58271	12676
+微软释出了最新的 Windows 10 测试版本 <a href="https://blogs.windows.com/windowsexperience/2018/10/17/announcing-windows-10-insider-preview-build-18262/" target="_blank"><u>Build 18262</u></a>，主要新变化包括：任务管理器加入 DPI Awareness 指示，允许用户移除更多预装应用，其中包括 3D Viewer、Calculator、Calendar、Groove Music、Mail、Movies &amp; TV、Paint 3D、Snip &amp; Sketch、Sticky Notes 和 Voice Recorder。微软此举显然不是为了节省磁盘空间，因为这些应用的容量都不大，此举<a href="https://arstechnica.com/gadgets/2018/10/microsoft-making-more-of-the-windows-10-built-in-apps-removable/" target="_blank"><u>更可能</u></a>是便于企业部署，举例来说，一个标准化电邮客户端 Outlook 的机构可能想要移除 Mail 和 Calendar 应用以避免造成混淆。
+➜OpenBSD 6.4 发布
+https://www.solidot.org/story?sid=58273	14344
+OpenBSD 项目释出了第 45 个版本 <a href="https://www.openbsd.org/64.html" target="_blank"><u>OpenBSD 6.4</u></a>。主要变化包括改进硬件支持，更新到基于 Linux 4.4.155 的 Radeon 驱动， Intel CPU 微码整合，新的<a href="https://lwn.net/Articles/767137/" target="_blank"><u> unveil() </u></a>系统调用限制文件系统访问；IEEE 802.11 无线网络协议栈改进，自动在不同无线 WIFI 网络之间快速切换，虚拟化工具 vmm(4) 和 vmd(8)支持 qcow2 磁盘和快照镜像；OpenSSH 7.9，LibreSSL 2.8.2，Mandoc 1.14.4，CMake 3.10.2，Chromium 69.0.3497.100，Emacs 21.4 和 26.1，GCC 4.9.4，GHC 8.2.2，Gimp 2.8.22，GNOME 3.28.2 等等，更多可浏览发布公告。
+➜Ubuntu Linux 18.10 'Cosmic Cuttlefish'  发布
+https://www.solidot.org/story?sid=58274	17817
+Canonical <a href="https://blog.ubuntu.com/2018/10/18/ubuntu-18-10multi-cloudnew-desktop-theme-enhanced-snap-integration" target="_blank"><u>释出了</u></a>最新的 <a href="http://releases.ubuntu.com/18.10/" target="_blank"><u>Ubuntu Linux 18.10 'Cosmic Cuttlefish'</u></a>。主要变化包括：更新到 4.18 Linux Kernel，非特权用户可挂载 FUSE 文件系统；改进 AMD 和 Nvidia GPU、USB Type-C 和 Thunderbolt 支持，GNOME 3.30 桌面，社区开发的默认主题 Yaru，等等。Canonical 同时发布的还有多个基于 Ubuntu 的版本，其中之一是优麒麟(Ubuntu Kylin) 18.10，<a href="http://www.ubuntukylin.com/news/shownews.php?lang=cn&amp;id=841" target="_blank"><u>其变化包括</u></a>：生物特征识别框架以及相应的管理程序，为应用层提供统一的 DBus 接口，用于各种生物识别和认证，登录与锁屏程序默认支持生物识别功能：优麒麟软件中心；优客天气用 Qt5 编写全新界面；金山WPS 更新到 10.1.0.6757，等等。
+➜中国高校的门禁制度
+https://www.solidot.org/story?sid=58275	18836
+中国高校普遍实行门禁管理，限制非本校人员进入。知名高校对进出的限制更多，比如校外个人参观北京大学必须通过网上预约，而且有名额限制。相比较而言，国外的高校就自由开放多了，欧美大部分高校都不设围墙，更别提门禁了。对于门禁制度，大部分在校学生表示支持，理由是访问校园的人太多带来了很多安全方面的问题。外国高校也存在类似的安全问题，它们的解决方法是校警。和很多国内推行的方法类似，门禁制度太简单粗暴了，因为存在需求，这种制度还催生了黄牛。出于其公共的属性，高校应该更多的推动开放，<a href="http://www.ftchinese.com/story/001079844?adchannelID=&amp;full=y" target="_blank"><u>采用更细致人性化的出入管理方法</u></a>。
+➜九成食盐品牌含有塑料颗粒
+https://www.solidot.org/story?sid=58276	24879
+韩国和绿色和平组织东亚的研究人员<a href="https://www.nationalgeographic.com/environment/2018/10/microplastics-found-90-percent-table-salt-sea-salt/?user.testname=none" target="_blank"><u>分析了</u></a> 39 个食盐品牌样本，有 36 个发现了微小的塑料颗粒。这些品牌来自欧洲、北美、南美、非洲和亚洲的 21 个国家和地区。三个不含有微塑料的品牌是台湾的精制海盐，中国大陆的精制岩盐和法国利用太阳能蒸发生产的未精制海盐。<a href="https://pubs.acs.org/doi/10.1021/acs.est.8b04180" target="_blank"><u>研究报告</u></a>发表在《Environmental Science &amp; Technology》期刊上。研究还发现，不同品牌食盐中的微塑料密度差异很大，其中亚洲印尼的品牌密度最高。在另一项指标中，海盐微塑料密度最高，其次是湖盐，最后是岩盐。成年人平均每年通过食盐摄入大约 2000 个微塑料，其健康影响未知。
+➜美国陆军准备装备无人驾驶卡车
+https://www.solidot.org/story?sid=58277	28045
+<div align="center"><img src="//img.solidot.org/0/713/liXBCS9e3MbkY.gif" align=""><br>
+</div>
+<br>
+美国陆军<a href="https://news.vice.com/en_us/article/mbdn4v/the-army-is-preparing-to-send-driverless-vehicles-into-combat" target="_blank"><u>准备装备无人驾驶卡车</u></a>。明年秋天，Leader-Follower 技术将让自主驾驶卡车跟着一名人类司机。这是美国陆军对战场上的简易爆炸装置的直接反应，美军在伊拉克和阿富汗的近一半伤亡就是这种路边炸弹造成的。无人驾驶卡车的大部分技术研发工作由位于密歇根州 Warren 的陆军坦克自动化研发工程中心（TARDEC）完成。它们不是机器人，而是智能更高的军用卡车。这项技术预计在 2019 年 9 月投入战场使用。TARDEC 的产品经理 Bernard Theisen 说，他们从陆军和海军陆战队听到的头号要求是什么时候能在无人驾驶卡车上安装武器用于作战。答案是现在还不会。
+➜Brave 发布新版，切换到 Chromium
+https://www.solidot.org/story?sid=58278	28400
+由前 Mozilla CEO 和 JavaScript 作者 Brendan Eich 所创办公司开发的 Brave 浏览器<a href="https://brave.com/new-brave-browser-release-available-for-general-download/" target="_blank"><u>发布了 0.55 版</u></a>，其构建从 Muon 切换到 Chromium。<a href="https://github.com/brave/muon" target="_blank"><u>Muon</u></a> 是 Electron 框架的一个分支，也是基于 Chromium。通过直接切换到 Chromium，Brave 声称其加载速度提升了 22%，在某些网站加速时间能节省 8 到 12 秒。Brave 不再提供基于 Muon 框架的版本，但使用 Muon 版本的用户会继续获得必要的安全更新。
+➜Twitter 公开俄罗斯伊朗机器人账号的推文存档
+https://www.solidot.org/story?sid=58279	33497
+为了帮助独立学术研究和调查进一步理解社交媒体上的信息操纵，以及在政治对话的外国干预调查上更透明，Twitter <a href="https://blog.twitter.com/official/en_us/topics/company/2018/enabling-further-research-of-information-operations-on-twitter.html" target="_blank"><u>公开了</u></a>俄罗斯伊朗机器人账号的<a href="https://about.twitter.com/en_us/values/elections-integrity.html#data" target="_blank">推文存档</a>。这些账号中有 3,841 个来自于俄罗斯知名的喷子工厂互联网研究机构，另外 770  个被认为来自伊朗，总共有超过一千万推文和 200 多万多媒体文件。俄罗斯的数据库包含了<a href="https://storage.googleapis.com/twitter-election-integrity/hashed/ira/ira_tweets_csv_hashed.zip" target="_blank"><u> 1.24GB</u></a> 的推文和 <a href="https://storage.cloud.google.com/twitter-election-integrity/hashed/ira/ira_media_file_list_hashed.txt" target="_blank"><u>300GB</u></a> 的媒体文件，伊朗的数据库包含了<a href="https://storage.googleapis.com/twitter-election-integrity/hashed/iranian/iranian_tweets_csv_hashed.zip" target="_blank"><u> 168MB</u></a> 的推文和 <a href="https://storage.cloud.google.com/twitter-election-integrity/hashed/iranian/iranian_media_file_list_hashed.txt" target="_blank"><u>65.7GB</u></a> 的多媒体内容。
+➜PostgreSQL 11 发布
+https://www.solidot.org/story?sid=58280	37565
+开源数据库 PostgreSQL 项目<a href="https://www.postgresql.org/docs/11/static/release-11.html" target="_blank"><u>释出了</u></a>最新的 PostgreSQL 11 版本。主要新特性包括：显著改进了表分区系统，引入 SQL 程序能在函数内执行事务管理，改进查询并行，支持 Just-in-Time (JIT) Compilation，加速查询中表达式的执行，以及用户体验相关的增强。详细的介绍可浏览 LWN 的<a href="https://lwn.net/Articles/764515/" target="_blank"><u>这篇文章</u></a>。
+➜前网信办主任鲁炜认罪
+https://www.solidot.org/story?sid=58281	38909
+官方新华社<a href="http://www.xinhuanet.com/politics/2018-10/19/c_1123583584.htm" target="_blank"><u>报道</u></a>，浙江省宁波市中级人民法院一审公开开庭审理了中共中央宣传部原副部长鲁炜受贿一案。浙江省宁波市人民检察院指控：2002年7月至2017年下半年，被告人鲁炜利用担任新华社党组成员、秘书长、副社长，中共北京市委常委、宣传部部长、北京市副市长，国家互联网信息办公室主任，国务院新闻办公室副主任，中央网络安全和信息化领导小组办公室主任，中共中央宣传部副部长等职务上的便利以及职权、地位形成的便利条件，为有关单位和个人在网络管理、职务晋升等事项上谋取利益，直接或者通过他人收受相关单位和个人给予的财物，共计折合人民币3200万余元。庭审中，公诉机关出示了相关证据，鲁炜及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见，鲁炜还进行了最后陈述，并当庭表示认罪、悔罪。鲁炜是互联网最高审查机构网信办的第一任主任，因其高调和强硬的作风而被一度称为中国的互联网沙皇。
+➜美国创业公司指控华为盗窃其技术
+https://www.solidot.org/story?sid=58282	41889
+美国创业公司 CNEX Labs 及其联合创始人 Yiren Ronnie Huang <a href="https://www.theregister.co.uk/2018/10/19/huawei_cnex_ip_theft_lawsuit/" target="_blank"><u>起诉</u></a>华为及其美国子公司 Futurewei 从事工业间谍活动窃取其 SSD 知识产权，CNEX Labs 指控华为是中国 2025 年科技强国计划的关键参与者。这起诉讼旨在反诉华为去年提起的诉讼。Huang 曾在 2011 年 1 月到 2013 年 5 月之间担任 Futurewei 的首席系统架构师。根据华为去年 12 月提起的诉讼，它雇佣 Huang 是为了研究 SSD 相关的技术，雇佣协议涵盖了 Huang 在 Futurewei 工作期间产生的创意。协议还要求 Huang 在离职一年之内申请的专利副本。华为指控 Huang 未能做到，称他在离职一个月申请的专利与他在  Futurewei 的工作相关。华为还指控 Huang非法挖角 Futurewei 的雇员。
+➜IBM 发表论文证明量子系统比经典系统更快
+https://www.solidot.org/story?sid=58283	46030
+量子计算机被认为在分解大数上具有强大优势，但研究人员从未证明量子计算机在这方面的优势是必然的或者经典计算机如果有足够强的算法也能打败量子计算机。现在 IBM Watson 研究中心和慕尼黑理工大学的研究人员在《科学》期刊上发表<a href="https://arxiv.org/abs/1704.00690" target="_blank"><u>论文</u></a>（预印本），<a href="https://www.engadget.com/2018/10/18/ibm-math-proof-quantum-computers-shor-algorithm/" target="_blank"><u>证明</u></a>量子系统相比经典系统具有内在的计算优势。他们的证明表明，无论增加多少输入，量子算法可以在固定的步骤里解决问题。而对于经典计算机，增加的输入越多，需要的步骤越多。这就是并行处理的优势。IBM Q Strategy and Ecosystem 的副总裁 Bob Sutor 说，论文并不是他们发现了重要的量子算法或解决实际的问题，而是帮助我们理解为什么量子计算机如此强大，他希望未来能带来更实用的算法。
+➜调查显示半数美国用户不知道 WhatsApp 和 Facebook 的关系
+https://www.solidot.org/story?sid=58284	47308
+DuckDuckGo 的一项<a href="https://spreadprivacy.com/facebook-whatsapp/" target="_blank"><u>小规模调查</u></a>显示 ，很多美国人<a href="https://techcrunch.cn/2018/10/19/duckduckgo-facebook-whatsapp-google-waze/" target="_blank"><u>不知道</u></a> WhatsApp 和 Facebook 的关系。DuckDuckGo 随机收集了 1297 名美国成年人的样本，这些美国人“在地区分布上与美国成年人的总体特征相似”。调查结果发现，在过去六个月使用过 WhatsApp 的受访者当中，50.4%的人（即 247 名受访者）不知道 WhatsApp 归 Facebook 所有。同样，DuckDuckGo 调查发现在过去六个月内使用过 Waze 的受访者当中，56.4%的人（即 291 名受访者）并不知道这款导航应用归谷歌所有。调查显示，子公司与母公司保持一定距离具有是有效果的。
+➜Opus 1.3 发布
+https://www.solidot.org/story?sid=58285	47942
+由 Xiph.Org 基金会开发的声音编码格式 Opus <a href="https://people.xiph.org/~jm/opus/opus-1.3/" target="_blank"><u>发布了 1.3 版本</u></a>。Opus 1.3 改进了语音和音乐质量，依旧完全兼容于 RFC 6716 文件，该版本还首次加入了对环绕立体声格式 Ambisonics 的支持。<a href="https://zh.wikipedia.org/wiki/Opus_(%E9%9F%B3%E9%A2%91%E6%A0%BC%E5%BC%8F)" target="_blank"><u>Opus</u></a> 格式是一个开放格式，使用没有任何专利或限制。开发者介绍说，从 v1.1 起，Opus 能自动识别输入的是语音还是音乐，然后据此选择优化的编码模式，这个语音/音乐检测器使用的是简单的神经网络，大多数时候工作良好，但并不完美，现在在递归神经网络的帮助下，该功能能做到更好了。Opus 1.3 引入了一个全新的语音/音乐检测器，基于 Gated Recurrent Unit (GRU)。GRU 有记忆能力，它不仅能学习如何使用，而且能记住，还能学习如何和何时去更新记忆。

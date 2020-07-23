@@ -1,0 +1,76 @@
+➜3 款 SQL INJECTION 攻击检测工具
+https://www.solidot.org/story?sid=6761	3000
+<a href="http://www.comsharp.com/">35公里</a> 写道 "随着 <a href="http://blogs.zdnet.com/security/?p=1059">SQL INJECTION</a> 攻击的<a href="http://blogs.zdnet.com/security/?p=1122">明显增多</a>，<a href="http://blogs.zdnet.com/security/?p=1336">微软近日发布了三个免费工具</a>，帮助网站管理员和检测存在的风险并对可能的攻击进行拦截。            <a href="http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2008/06/23/finding-sql-injection-with-scrawlr.aspx"> <strong>Scrawlr</strong> </a>  <br> <br>下载地址：<a href="https://download.spidynamics.com/Products/scrawlr/">https://download.spidynamics.com/Products/scrawlr/</a>  <br> <br>这个微软和 HP合作开发的工具，会在网站中爬行，对所有网页的查询字符串进行分析并发现其中的 SQL INJECTION 风险。Scrawlr 使用了部分 HP WebInspect  相同的技术，但只检测 SQL INJECTION 风险。Scrawlr 从一个起始 URL 入口，爬遍整个网站，并对站点中所有网页进行分析以找到可能存在的漏洞。 <br> <br> <br> <a href="http://support.microsoft.com/kb/954476"> <strong>Microsoft Source Code Analyzer for SQL Injection</strong> </a>  <br> <br>下载地址：<a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=58A7C46E-A599-4FCB-9AB4-A4334146B6BA&amp;displaylang=en">http://www.microsoft.com/downloads/details.aspx?FamilyId=58A7C46E-A599-4FCB-9AB4-A4334146B6BA&amp;displaylang=en</a>  <br> <br>这款被称作 MSCASI 的工具可以检测 ASP 代码并发现其中的 SQL INJECTION 漏洞（ASP 代码以 SQL INJECTION 漏洞著称），你需要向 MSCASI 提供原始代码，MSCASI 会帮你找到存在风险的代码位置。 <br> <br> <strong> <br> <a href="http://learn.iis.net/page.aspx/473/using-urlscan">URLScan 3.0</a> </strong>  <br> <br>下载地址： <a href="http://www.iis.net/downloads/default.aspx?tabid=34&amp;g=6&amp;i=1697">http://www.iis.net/downloads/default.aspx?tabid=34&amp;g=6&amp;i=1697</a>  <br> <br>该工具会让 IIS 限制某些类型的 HTTP 请求，通过对特定 HTTP 请求进行限制，可以防止某些有害的请求在服务器端执行。UrlScan 通过一系列关键词发现恶意请求，并阻止恶意请求的执行。
+➜缺少阳光会引起早亡
+https://www.solidot.org/story?sid=6762	3600
+宅男们应该经常走出房间晒晒太阳，因为Harald Dobnig博士和他的研究小组发现<a href="http://www.canada.com/topics/news/national/story.html?id=93a42d6a-70a3-4531-bc6f-4aaa38aa6ebc">缺乏维生素D（照照紫外线就能产生）会增加死亡率</a>。即使在考虑了锻炼和心脏疾病等因素后，这种联系仍然存在。低维生素D的情况对癌症、中风、突发心脏病和心力衰竭的发生率有着显著的消极影响。人体暴露在阳光中的紫外线下，就会产生<a href="http://en.wikipedia.org/w/index.php?title=Vitamin_D&amp;oldid=220989535">维生素D3</a>。不过在高纬度地区，特别是在秋天和冬天，穿越大气层的紫外线量不足，即便暴露的时间够长，仍然产生不了足够的维生素D3。研究人员建议，人体每天产生的维生素D3不能少于800 IU单位；但过多也不好，太多的维生素D3亦会产生反作用，人体每天最高能产生10,000 IU单位。
+➜玻璃的奇异属性可用于创造“金属玻璃”
+https://www.solidot.org/story?sid=6763	4500
+科学家发现了<a href="http://www.livescience.com/technology/080623-glass-wings.html">玻璃的某些非同寻常的属性</a>，这种特性可被用于制造金属玻璃（metallic glass）。
+<i>
+这项突破也解决了数十年来的老难题——玻璃究竟是什么。尽管它表面看似是固体，但实际上玻璃和凝胶一样都处于“僵持”的状态——介于液体和固体之间。玻璃的分子会缓慢移动，就像遭遇交通堵塞的汽车，时停时走，不能到达它的终点，因为周围的车辆封锁了它的行走路线。所以即使玻璃很硬，它也从来不是名副其实的固体。它的分子呈现20面体的结构，在3D空间内无法紧密结合在一起，所以会轻微运动，但却又不具备液体那样的自由度。研究论文发表在22日出版的《自然材料（Nature Materials）》上(<a href="http://www.nature.com/nmat/journal/v7/n7/abs/nmat2219.html">摘要</a>)。</i>
+➜ICANN将投票表决是否放松顶级域名(TLD)管理
+https://www.solidot.org/story?sid=6764	6300
+BBC报道，负责域名分配的非赢利机构ICANN将在周四进行投票，<a href="http://news.bbc.co.uk/2/hi/technology/7468855.stm">是否决定放开顶级域名(TLD)</a>。如果通过的话，公司就可以把它的商标变成域名，个人也可以把他的名字刻于网上。例如，除了.uk、.cn之类国家域名，.net、.org之类的组织域名外，你可以使用.chinese、.sex、.solidot之类的顶级域名。听起来这是一个有趣的主意，但也有可能演变成一场噩梦。
+➜KDE 4.1 Beta 2 发布
+https://www.solidot.org/story?sid=6765	14400
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "KDE 社区发布了 KDE 4.1 的第二个Beta版，发布 KDE 4.1 Beta 2 的主要目的是让测试人员、社区成员以及爱好者们在试用的过程中找出BUG以便开发人员在下一个版中修正这些错误。这样对于终端用户来说 KDE 4.1 就完全可以代替 KDE 3。KDE 4.1 的正式版将在7月29日发布。 <a href="http://www.ownlinux.cn/2008/06/25/kde-41-beta-2-released/">最新截图</a>， <a href="http://home.kde.org/~binner/kde-four-live/KDE-Four-Live.i686-1.0.83.iso">下载  KDE 4.1 Beta 2 </a>"
+➜Ubuntu MID Edition 8.04 发布
+https://www.solidot.org/story?sid=6766	14700
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "MID是指面向移动互联网设备，目前MID平台上大多都是采用的 Linux 操作系统。Ubuntu 这个桌面用户最多的一个发行版也在进入这一领域，Canonical 公司刚刚发布了<a href="http://www.ubuntu.com/products/mobile">Ubuntu 8.04 Mobile Internet Device Edition</a>。由于Linux操作系统在节电、响应速度以及价格等方面都非常适合移动互联网设备(简称MID)因此Midinux得到了众多的国际和本地的软件厂商支持，比如intel asus 等等。这也使其成为MID领域的标准开发环境。目前有更多的多媒体应用软件和互联网内容已经或正在向这一平台进行迁移。包括导航、 VOIP、即时通讯、证券、电子交易、3G通讯、网络游戏、办公软件、手写输入等大批国内外知名软件被移植到MID平台上。 <a href="http://www.ownlinux.cn/2008/06/25/ubuntu-mid-edition-804-released/">浏览截图</a>"
+➜Sourceforge又被封了？
+https://www.solidot.org/story?sid=6767	17700
+solar 写道 "<a href="http://www.williamlong.info/archives/405.html">上次被封</a>应该是2006年的事情了。但是现在要开奥运了，连<a href="__SLASHLINK__" sect="internet" sid="08/06/04/0853231" sn="article" tid="87">voa</a>这样的网站都解了，为什么sf却被封呢？<a href="http://sourceforge.net/index.php">sourceforge.net</a>用代理可以访问。shell.sourceforge.net, cvs.sourceforge.net等服务还是可以直接访问的。
+<br>以下是路由跟踪记录：           C:\&gt;tracert -d sourceforge.net<br>
+<br>
+Tracing route to sourceforge.net [216.34.181.60]<br>
+over a maximum of 30 hops:<br>
+<br>
+1
+2
+3
+4     2 ms     1 ms     1 ms  *.*.*.*<br>
+5     2 ms     2 ms     2 ms  210.75.96.165<br>
+6     2 ms     2 ms     2 ms  202.99.57.217<br>
+7     3 ms     3 ms     2 ms  202.99.57.42<br>
+8    27 ms    27 ms    30 ms  221.239.18.133<br>
+9    28 ms    27 ms    27 ms  221.239.7.53<br>
+10    28 ms    28 ms    29 ms  221.238.222.189<br>
+11    28 ms    28 ms    28 ms  202.97.34.5<br>
+12   239 ms   238 ms   239 ms  202.97.53.38<br>
+13     *        *        *     Request timed out.<br>
+14     *        *        *     Request timed out.<br>
+15     *        *        *     Request timed out.<br>
+16     *        *        *     Request timed out.<br>
+17  ^C<br>
+<br>
+查询结果一： 202.97.53.38   -  北京市<br>
+查询结果二： 202.97.53.38   -  中国电信 骨干网"
+➜Firefox 3真实的内存使用
+https://www.solidot.org/story?sid=6768	20880
+一位程序员为Windows操作系统开发了一款每3秒记录一次浏览器内存使用的程序，他记录了5种浏览器在3小时内的内存使用数据点：Safari 3.1，Firefox 3，Flock 1.2（基于Firefox 2的浏览器), Opera 9.5，和Internet Explorer 8，都没有使用扩展程序。约1百万的数据点显示Firefox 3<a href="http://dotnetperls.com/Content/Browser-Memory.aspx">在内存使用上确实比其它浏览器有不小的优势</a>。作者认为：Safari 3.1（Windows）的内存管理很糟糕，Opera 9.5的新内核Kestrel并不能称得上是革命性的技术。
+➜政府部分公开信息将开始收费
+https://www.solidot.org/story?sid=6769	21600
+<a href="http://www.mof.gov.cn/news/20080623_3483_33268.htm">根据国家发改委联合财政部发出通知</a>，今后，<a href="http://www.stockinfo.com.cn/zxbb/2008-06/24/content_3440847.htm">政府部分公开信息将开始收费</a>。
+<i>
+按照通知要求，行政机关在提供本机关主动公开信息范围以外的政府公开信息时，可以收取费用。比如，在行政机关设置的公共查阅室、资料索取点等场所搜索、查询、编辑、存储政府公开信息，可以收取检索费。通过纸张、磁盘、光盘等介质提供政府公开信息的，可以收取复制费。采取邮政手段传递政府公开信息的，可以收取邮寄费。所收取的费用
+收入，将就地全额缴入同级国库。"</i>
+➜科学家确定奥德修斯回家复仇之日
+https://www.solidot.org/story?sid=6770	24120
+荷马史诗《<a href="http://zh.wikipedia.org/wiki/%E5%A5%A5%E5%BE%B7%E8%B5%9B">奥德赛</a>》中的主人公、伊萨卡岛（Ithaca)的国王、献出特洛伊木马攻城计的英雄<a href="http://zh.wikipedia.org/wiki/%E5%A5%A5%E5%BE%B7%E4%BF%AE%E6%96%AF">奥德修斯</a>（Odysseus）得罪了海王波塞冬，波塞冬摧毁了他从特洛伊返回希腊的船，奥德修斯被迫孤身一人，历经千辛万苦，花了10年时间才回到伊萨卡岛。回家之后，他杀死了所有在他离开后赖在他家不走，向他妻子求婚以霸占财产的求婚人。以上是传说，下面是真实故事：<i>荷马在《奥德赛》中描写了许多天文现象，科学家通过这些天文数据确定了<a href="http://www.msnbc.msn.com/id/25337041/">奥德修斯回家复仇的时间</a>（<a href="http://news.xinhuanet.com/newscenter/2008-06/25/content_8430861.htm">新华网的报道</a>）：科学家参考了史诗中对星座位置和日全食等4个天文线索的描述，搜索了特洛伊战争前后，大约公元前1250年到公元前1115年之间所有满足要求的可能日期。他们发现在这130年中，只有一个日期与荷马描述的天文现象吻合——公元前1178年4月16日，当天发生了日全食。</i>
+➜澳大利亚男子拍卖完整“生活”
+https://www.solidot.org/story?sid=6771	27720
+因为婚姻失败而决心告别过去的澳大利亚男子<a href="http://news.bbc.co.uk/2/hi/7467857.stm">在eBay上拍卖自己的完整“生活”</a>，<a href="http://cgi.ebay.com.au/ALife4Sale-Life-For-Sale-Ian-Usher_W0QQitemZ250255442325QQihZ015QQcategoryZ149260QQssPageNameZWDVWQQrdZ1QQcmdZViewItem">拍卖</a>从22日开始，将持续100天。44岁的Ian Usher甚至还<a href="http://www.alife4sale.com/">建立了一个网站</a>，详细介绍要拍卖的物品：房子（3卧室2浴室），汽车，摩托车，喷气式滑水板，朋友（引见），工作（试用），生活方式（并以视频展示）等等（老婆除外）。目前的拍卖价为390,100.00澳元（应该是可信的出价）。Ian Usher表示，“当一切结束，生活转让完成之后，我会走出房子，穿着我正穿在身上的衣服，只携带钱包和护照。”
+➜日本强行对胖子罚款
+https://www.solidot.org/story?sid=6772	30600
+日本最近实施了新政策，要求企业和政府定期检查<a href="http://www.cnn.com/video/#/video/health/2008/06/23/kyung.fat.busters.cnn">年龄在40岁以上的职员及其家属的肥胖度</a>。如果职员或家属被认定为肥胖，需要在定期内减肥，否则就会被课以重罚，日本希望以此降低肥胖人口比例。法律规定的男性最高腰围不得超过33.5英寸(85.09 厘米)，女性不得超过35.4英寸(约89.9厘米)。相比较下，2005年美国人的平均腰围：<a href="http://idle.slashdot.org/article.pl?sid=08/06/24/1420217">男性为39英寸（99厘米），女性为37英寸（94厘米）</a>。中国2001年的<a href="http://www.qzwb.com/gb/content/2001-11/01/content_327768.htm">数据</a>是：男性（35岁之后）平均为90．5厘米，女性（45岁）平均为88．5厘米。
+➜真实的人工智能
+https://www.solidot.org/story?sid=6773	33120
+人工智能研究正以我们并不熟悉的方式<a href="http://www.networkworld.com/research/2008/062308-artificial-intelligence.html?nwwpkg=slideshows">影响着生活的方方面面</a>。<i>
+1965年，人工智能先驱<a href="http://en.wikipedia.org/wiki/Herbert_Simon">Herbert Simon</a>预测20年内机器就能干人类能做的任何事。流行文化也推动了这一风潮，如《太空漫游》里的HAL，《星球大战》里的R2D2。但是几十年后，我们今日见到的人工智能又是何种模样？
+如果你把人工智能定义为具有自我意识，自我学习，可移动的系统，那么现实的人工智能肯定会令你大失所望。但从另一方面看，每当你在互联网上搜索，从NetFlix上获得一部推荐电影，对着电话声音识别系统说话，背后都有智能机器在运作。也就是说，我们可能不会见到满足我们需要的超级机器人，但人工智能正深深的卷入我们的生活。推动人工智能进步是摩尔法则，因为AI需要强大的CPU，一年前推出的PS3在5年前可以视作是超级计算机。现实中的人工智能和专家系统正在幕后默默的工作。
+</i>
+<a href="http://www.networkworld.com/slideshows/2008/062308-ai-gets-real.html">表现真实AI的幻灯片</a>
+➜比尔盖茨之电子邮件怒吼
+https://www.solidot.org/story?sid=6774	36900
+比尔盖茨即将退休，在表面风光之下其实也暗藏着辛酸，除了被开源社区不断鄙视和嘲讽外，其实他也一直在忍受Windows糟糕的可用性。一句话，软件并非是想象中的魔力四射，比尔盖茨也不例外。在2003年的一封被公开的<a href="http://blog.seattlepi.nwsource.com/microsoft/library/2003Jangatesmoviemaker.pdf">电子邮件</a>（PDF）中，<a href="http://blog.seattlepi.nwsource.com/microsoft/archives/141821.asp">比尔盖茨愤怒的指责Windows的可用性</a>。<i>他说，“我对Windows可用性倒退十分十分的失望，程序管理部门没有督促可用性问题。让我来告诉你们昨天的遭遇。”比尔盖茨登录Microsoft.com去下载Moviemaker和购买Digital Plus pack，在下载页，他碰上许多用户经常见到的超时问题，一次次尝试，一次次失败，而且整个网站变得非常缓慢。Windows update出现了N多问题，把比尔盖茨先生搞得怒气冲天，他还根据程序的指示重启了好多次。</i>

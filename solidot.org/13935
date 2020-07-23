@@ -1,0 +1,42 @@
+➜预测北京奥运中国队奖牌数量
+https://www.solidot.org/story?sid=5355	4320
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "香港岭南大学的<a href="http://www.ln.edu.hk/mkt/hklui/">吕汉光(LUI Hon-Kwong)</a>与另一位学者<a href="http://www.alphagalileo.org/index.cfm?fuseaction=readrelease&amp;releaseid=527345">在《太平洋经济评论》（Pacific Economic Review）发表文章</a>说，中国会在北京奥运会上夺取比2004年的63块奖牌至少多14%的奖牌。也就是63*(1+14%)=71.82块奖牌。（注：原文说是144块奖牌，但是<a href="http://zh.wikipedia.org/wiki/2004%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2">维基百科上说</a>，金银铜加起来只有63块。这里采用维基百科的说法）
+<i>在这篇名为《<a href="http://ideas.repec.org/a/bla/pacecr/v13y2008i1p1-16.html">人，金钱，和奖牌：奥运会的经济分析</a>》（Men, Money, and Medals: An Econometric Analysis of the Olympic Games）的文章中，作者说，中国的奖牌数将仅次于美国。而日本和韩国的奖牌数将少于04年奥运会。
+<br> <br>文章分析了1952年-2004年间的奥运会，用parsimonious count模型分析后认为，人口与人均收入是影响奖牌数量的决定性因素。但是美国和中国，以及亚洲四小龙不符合这个模型。"</i>
+➜科学家发现我们能看到我们的想象
+https://www.solidot.org/story?sid=5356	5400
+伦敦大学学院的科学家发现了<a href="http://www.sciencedaily.com/releases/2008/02/080215103210.htm">我们所期待看到的和大脑告诉我们实际看到的之间的关联</a>，显示观察的环境起着非常重要的作用——有时候还高于眼睛搜集到真实情况，甚至引起了对实际不存在物体的想象。模糊的背景产生的影响更大，相比明亮清晰的背景，我们会乐意用想象填充空白。这可以解释为什么当阳光黯淡，我们会假想阴影中的虚构形状。<a href="http://www.cs.ucl.ac.uk/staff/Zhaoping.Li/index.html">Zhaoping教授</a>说，“魔术师很多年前就注意到这种现象。当你看到他们朝空中抛一个球，紧跟着抛第二个球，接着你发现第三个球神奇的消失了，你会惊讶于他们是如何做到的。事实上，很多时候是没有第三个球——仅仅是我们的大脑被背景欺骗了，告诉我们确实有三个球，一个接一个抛上去。”
+<a href="http://compbiol.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371/journal.pcbi.0040014">研究论文</a>发表在开放获取、同行审议的刊物PLOS上。
+➜.NET牛人应该知道些什么
+https://www.solidot.org/story?sid=5357	7200
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "如果你从来没有深入ASP.NET，你肯定不会知道所有ASP.NET问题的答案。如果你是一个独立顾问，你可能从来没有遇到过这些概念。但在我呆在科林斯的这4年中，这些问题我都遇到过。因此，是否全面理解这些问题也许与你是不是一个优秀的开发者没有关系，但在遇到问题时它的确可以帮你<a href="http://www.yeeyan.com/articles/view/15070/5074">节省不少时间</a>。"例如高级开发人员/架构师应该知道
+<i>
+* DateTime.Parse(myString); 这行代码有什么问题？<br>
+* PDB是什么东西? 在调试中它应该放在哪里？<br>
+* 什么叫圈复杂度（cyclomatic complexity）？为什么它很重要？<br>
+* 写一个标准的lock()，在访问变量的前后创建临界区，要有"双重检查"</i>
+➜美国军方停飞所有B-2隐形轰炸机
+https://www.solidot.org/story?sid=5358	8100
+在一架B2隐形轰炸机坠毁之后，<a href="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/02/23/wbomber223.xml">美国军方停飞了整个的B-2编队</a>。自1999年以来，<a href="http://en.wikipedia.org/wiki/B-2_Spirit">B-2</a>在美国所有的军事行动中扮演重要角色。这次坠毁是航空史上最昂贵的单个飞行器事故，B-2造价12亿美元，预计停飞命令将直至调查完成为止。官员猜测坠毁原因可能是机械故障或人为过错，停飞所有B-2是确保不是某些发展中的机体重要故障引起的。B-2是美国在冷战时候开发的可避开雷达探测的飞翼轰炸机，由于冷战的结束最后只造了21架。这次事故发生在2月23日早晨，B-2从日本关岛Andersen空军基地起飞。空军发言人称，“坠毁的原因仍然未知，正在进行紧急调查。飞行员安全弹射，没有受到严重伤害——一个已经能行动，另一个在医院处于观察中。”<a href="http://www.youtube.com/watch?v=K_HbgQg69N8&amp;NR=1">新闻视频</a>。
+➜Google宣布启动Summer of Code 2008
+https://www.solidot.org/story?sid=5359	18000
+<a href="http://code.google.com/soc/2008">2008 Google Summer of Code</a>正式启动。Google举办Summer of Code的目的是为了推动CS学生投入到开源运动中去。2007年的Google Summer of Code资助了90多个国家的超过900名学生，共完成了数百万行代码。<a href="http://googlesummerofcode.blogspot.com/2008/02/sounds-like-summer.html">2008的参赛人数</a>将会更多，Google希望能帮助开源社区寻找到新的志愿者，生产出更多有利于人类的代码。更多细节可浏览项目<a href="http://code.google.com/soc/2008/faqs.html">FAQ</a>，注意申请要在3月份才开始。Freenode上的<a href="http://code.google.com/soc/2008/faqs.html#0.1_IRC">#gsoc</a>频道已经挂上了。
+➜预览Windows Server 2008
+https://www.solidot.org/story?sid=5360	21600
+NetworkWorld测试了微软最新的<a href="http://www.networkworld.com/reviews/2008/022108-windows-2008-server-test.html">服务器操作系统Windows Server 2008</a>，对其的评价是速度更快、更易管理、更安全，但是在虚拟化和网络管理方面仍显不足，Hyper-V虚拟技术还要等到下半年才会发布。<i>
+Windows Server 2008有几项引人关注的功能，如Server Core与Server Roles。只需最低限度安装要求的Server Core可以担任多种不同角色的服务器（例如DNS，DHCP，Active Directory components），但不适于应用（如SQL Server或IIS dynamic pages），可以作为处理周边操作的主机系统。Windows Server Core没有图形终端，但可以通过命令行界面、脚本、远程管理系统、或任何支持Windows Management Instrumentation的管理程序、Remote Terminal Services进行管理。
+</i>
+➜英特尔新的6核处理器细节泄漏
+https://www.solidot.org/story?sid=5361	24000
+Sun透露了英特尔服务器平台的最新处理器<a href="http://www.dailytech.com/Sun%20Leaks%206core%20Intel%20Xeon%20Nehalem%20Details/article10834.htm">Xeon Dunnington和Nehalem的细节</a>。<i>
+Dunnington，45nm 6核处理器，共享16MB的L3缓存，每一对核心能访问3MB L2缓存。它的设计类似于AMD的Barcelona四核处理器，Barcelona每个核心都拥有512KB L2缓存，而Dunnington则是2核心共享L2缓存。Dunnington预计将在今年下半年发布。<br>
+Sun还透露了Penryn处理器的继任者Nehalem的一些情况，它的设计和Penryn相同—45nm、四核、SSE4等等。英特尔首次放弃了前端总线而改用QuickPath互联架构，它类似于AMD的Hypertransport总线技术。</i>
+➜DivX关闭高清晰视频共享网站Stage6
+https://www.solidot.org/story?sid=5362	26100
+<a href="http://www.stage6.com/">Stage6</a>可能是互联网上最好的高清晰视频共享网站，但是它的运营商<a href="http://www.stage6.com/blog/107/">DivX已经正式</a>宣布将于2月28日关闭Stage6。<i>“我们为何要关闭这项服务？答案很简短，继续运作 Stage6是一项昂贵的事业，需要花费大量的时间关注和资金投入，而我们不可能再继续提供。虽然还有其它相关的原因，但在结束的时候，一切都很简单。”DivX是在2007年7月建立Stage6的，前CEO <a href="http://seekingalpha.com/article/43304-divx-considers-a-profitable-break-up-but-are-there-any-long-term-benefits">Jordan Greenhall</a>从公司离开，专心投入到这项新的事业中。Stage6变成了一家独立的公司，目前还因为盗版正在<a href="http://seekingalpha.com/article/63562-can-divxs-safe-harbor-protect-it-from-stage6-pirates">与环球唱片打官司</a>。</i>如果你想在最后时候尽快的观看到高清视频，可以从它的嵌入地址内找到.divx文件，直接下载，再改成avi格式或者用VLC也行（如<a href="http://video.stage6.com/2217336/.divx">印第安纳琼斯4的预告片</a>）。
+➜研究人员开发自我清洁的衣服
+https://www.solidot.org/story?sid=5363	30300
+澳大利亚Monash大学的研究人员<a href="http://science.slashdot.org/article.pl?sid=08/02/25/1641251">发现了一种方法</a>，<a href="http://www.technologyreview.com/Nanotech/20306/">用二氧化钛纳米结晶处理衣服纤维</a>，使得食物残留和尘埃在阳光下分解。研究人员让加工过的自然纤维如羊毛、丝绸和大麻，通过暴露在阳光下自动的清除食物、尘垢，甚至红葡萄酒污点。<i>二氧化钛是一种强光催化剂，在紫外光和水蒸气下会形成羟自由基，能氧化，或是分解有机物。研究负责人、有机化学家和纳米材料研究专家 Walid Daoud称，“这些纳米结晶不会使羊毛腐烂，对皮肤无害。”二氧化钛还能够破坏病原体如细菌，它在阳光下会破坏微生物的细胞壁，因此制造自我清洁的纤维对医院和其它医学环境十分有用。</i>
+➜巴基斯坦把 YouTube送进“黑洞”
+https://www.solidot.org/story?sid=5364	33300
+这是一件非常奇怪的事件，巴基斯坦的ISP奉命禁止本国居民访问YouTube，结果却把<a href="http://news.yahoo.com/s/nf/20080225/tc_nf/58519">YouTube送进了“黑洞”</a>，<a href="http://www.cnetnews.com.cn/2008/0226/742818.shtml">YouTube全球断线2小时</a>，这暴露了<a href="http://slashdot.org/article.pl?sid=08/02/25/1322252">互联网体系的脆弱性</a>。出于所谓的亵渎神明的理由，巴基斯坦屏蔽了YouTube，ISP在处理的时候，很显然在无意中劫持了YouTube的IP地址，导致世界其它国家的用户在几个小时也无法访问YouTube。Google在调查之后称，“访问YouTube的路线是根据错误的网络协议，世界各国的用户因此无法访问YouTube。”Google表示正在和其它互联网公司一起合作，防止这种事情再次发生。

@@ -1,0 +1,30 @@
+➜OpenBSD的Theo de Raadt对协议事件的回应
+https://www.solidot.org/story?sid=3728	5400
+<a href="mailto:jokhva@gmail.com">dhg</a> 写道 "<a href="http://www.openbsd.org/">OpenBSD</a> 的 <a href="http://www.theos.com/deraadt/">Theo de Raadt</a> 对最近 Linux 社区从一个有 <a href="http://www.opensource.org/licenses/bsd-license.php">BSD 协议</a>授权的硬件驱动代码中<a href="http://lkml.org/lkml/2007/8/28/157">删除了 BSD 协议</a>一事作了<a href="http://undeadly.org/cgi?action=article&amp;sid=20070901041657">回应</a>，<b>其中有一段话</b>如下：
+<br> <br>"GPL fans said the great problem we would face is that companies would take our BSD code, modify it, and not give back.  Nope -- the great problem we face is that people would wrap the GPL around our code, and lock us out in the same way that these supposed companies would lock us out.  Just like the Linux community, we have many companies giving us code back, all the time.  But once the code is GPL'd, we cannot get it back."
+<br> <br>”GPL 的粉丝说我们最大的问题是商业公司会拿走我们的 BSD 代码，修改，然后就不拿回来了。否，我们最大的问题是有人会把我们的代码用 <a href="http://www.opensource.org/licenses/gpl-license.php">GPL 协议</a>给重新打包，像那些商业公司一样把我们的代码给禁锢起来。和 Linux 社区一样，很多公司拿了我们的代码，都把代码回馈给了我们。而一旦我们的代码给 GPL 了，我们就拿不会来了。”"
+➜Blogger:写什么别写新闻
+https://www.solidot.org/story?sid=3729	13800
+<a href="mailto:wsj2007@yahoo.com.cn">林飞</a> 递交了一篇比较偏激的文章：<a href="http://atstart.cn/?p=79">写什么别写新闻</a>。主要讨论了中国博客内容同质化的趋势：许多博客经常写些新上线的网站和应用，完全找不到反应Blogger个性和思维方式的内容。这也是中国的互联网、中国的IT圈主要特征。<i>
+我们常常可以看到在同一天，几个甚至于数十个Blog变的是同一张脸，他们的首页上登的是同一篇文章，说的是同一番话语。难怪有人跟我说，在中国想出几个Keso还真是不容易。因为大家都喜欢简单着来、方便着来，有思想的Blogger却失踪了！所以我想劝劝大家，别为博而博，每天膏药似的贴几块上去是没法让您白里透红、与众不同的。</i>
+➜喜欢与名人合影的Google Geek
+https://www.solidot.org/story?sid=3730	19980
+不为外人熟知但却是Google家喻户晓的的工程师<a href="http://www.serve.com/~cmtan/Meng/">Tan Chade-Meng</a>有一个业余爱好：<a href="http://www.nytimes.com/2007/09/01/technology/01google.html">和名人一起合影</a>。访问Google的人中有许多名人，Tan Chade-Meng在03年与第一个名人美国前总统吉米卡特合照，之和这就成为了Google总部的一道独特风景。他的名人画廊也日益庞大，在他的<a href="http://picasaweb.google.com/chademeng">Picasa</a>相簿上你可以看到他究竟与多少位名人合过影。
+➜Ubuntu加入图形安全模式
+https://www.solidot.org/story?sid=3731	28500
+即将发布的Ubuntu 7.10(Gutsy)中有一个<a href="http://arstechnica.com/journals/linux.ars/2007/08/29/ubuntu-xorg-maintainer-demonstrates-bulletproof-x">Xorg BulletProof-X功能</a>，提供了类似<a href="http://hardware.slashdot.org/hardware/07/09/01/201200.shtml">windows安全模式</a>的功能：<i>
+图形安全模式（failsafe mode)确保用户无需再<a href="http://people.ubuntu.com/~bryce/BulletProofX/">在命令行下动手配置硬件设备</a>。如果Xorg启动失败，失败安全模式将在最低要求设置、低分辨率和色彩限制下初始化。失败安全模式将自动运行Ubuntu新加入的基于GTK的显示配置工具，用户可以方便的测试不同的显示设置和选择硬件能正常运行的合适设置。"</i>
+➜Google拼音网络同步词库功能测试
+https://www.solidot.org/story?sid=3732	45120
+<a href="http://www.inblogs.net/ashan3">匿名读者</a> 写道 "
+昨天晚上突然<a href="http://www.inblogs.net/ashan3/2007/08/google_31.html">对Google拼音的同步词库功能起了疑心</a>,就在刚才动手实验来测试检验一下事实究竟是如何。<br>
+我的疑问是我在公司电脑上的Google拼音词库同步，回家之后再见家里的Google拼音同样同步一次，这时网络上备份的词库里面的词条是哪台电脑的词库？或者是两台电脑上词条的综合？"           中午我将我的词条进行备份，然后清空，之后进行网络同步，这是我的网络上的词条是空的。<br>
+第二步，我输入一个特殊词汇，查看词库上只有一个词条并且进行网络同步；<br>
+第三步，我将本地的词库清空，然后再输入另外一个特殊词汇，并且进行网络同步；<br>
+第四布，也就是我想知道的结果，同步之后的词库究竟是一个词条还是两个词条？你们猜看看--我打开之后看到的只有第三步输入的特殊词汇-_-#<br> <br>
+这个实验的结果告诉我们：
+Google的拼音同步功能其实是非常简单的将本地的词库进行备份到网络上，在你没有建立起自己的词库的时候可以将网络上备份的词库同步到本地上，仅此而已。
+如果你希望通过两台电脑同样装上Google输入法来快速积累你的个人词库这好像是不大现实的。
+有兴趣者还可以做这样的测试：在PC1上有词库50K，在PC2上有词库20K（仅仅是假设），在PC1上执行网络同步那么词库就是50K，在PC2上用同样的帐号进行网络同步，得到词库的大小是多少？大于50K还是20K？嘿嘿;P
+<br>
+希望搜狗的输入法的同步功能不会这么弱智！

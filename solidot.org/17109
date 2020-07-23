@@ -1,0 +1,53 @@
+➜Mirai 僵尸网络攻击者试图让利比里亚下线
+https://www.solidot.org/story?sid=50243	12169
+很多人没有注意到本周发生的一次大规模DDoS攻击，原因可能是攻击目标是非洲的一个国家，而不是如Dyn这样的基础服务提供商。对Dyn的攻击利用了开源的物联网僵尸网络Mirai，攻击流量据报道达到了1.1Tbps。本周对非洲国家利比里亚的攻击源头据信也属于Mirai僵尸网络，被称为 Botnet 14的僵尸网络发动的攻击几乎让利比里亚全国下线，其攻击流量超过了<a href="https://medium.com/@networksecurity/shadows-kill-mirai-ddos-botnet-testing-large-scale-attacks-sending-threatening-messages-about-6a61553d1c7#.k9m99yf6g" target="_blank"><u>500Gbps</u></a>。利比里亚的互联网普及度并不高，它主要依赖于一条海底光缆 ACE 提供带宽， ACE的带宽为5.1Tbps，它不只是为利比里亚一个国家使用，而是在整个非洲西海岸共享。Botnet 14对运营光缆的利比里亚电信公司发动了攻击，<a href="http://www.zdnet.com/article/mirai-botnet-attack-briefly-knocked-an-entire-country-offline/" target="_blank"><u>没人知道攻击者是谁</u></a>。
+➜土耳其切断对社交网站和移动应用的访问
+https://www.solidot.org/story?sid=50244	12892
+11月4日土耳其当地时间1:20AM，流行社交服务 Facebook、Twitter和 YouTube 的访问受到限制，同时受到限制的还有移动应用 WhatsApp 和 Instagram。对社交网站的屏蔽已经发生过多次，但这是土耳其<a href="https://turkeyblocks.org/2016/11/04/social-media-shutdown-turkey/" target="_blank"><u>首次切断对流行消息应用的访问</u></a>。此举被认为与反对党土耳其自由民主党的多名领导人遭到逮捕有关。土耳其政府正越来越多的使用互联网封锁去压制对政治事件的媒体报道。
+➜英国政府想要将监狱的位置加入到无人机的禁飞区
+https://www.solidot.org/story?sid=50245	16660
+鉴于无人机入侵监狱的事件频发，英国司法部<a href="https://thestack.com/iot/2016/11/03/uk-drones-prisons-no-fly-list/" target="_blank"><u>表示</u></a>要与无人机制造商合作将监狱的位置加入到无人机的禁飞区。无人机制造商通常会使用名叫地理围栏(geofencing)的技术限制无人机靠近机场和其他敏感区域，如白宫和天安门。而英国司法部想要将监狱的坐标加入到禁止靠近的围栏之中。来自政府的压力正在迫使无人机制造商扩大禁飞区的范围。
+➜联想收入下滑，整合手机品牌
+https://www.solidot.org/story?sid=50246	18058
+联想报告了<a href="http://companies.caixin.com/2016-11-04/101003867.html" target="_blank"><u>失望的2016财年中期业绩财报</u></a>
+，截至9月30日的前六个月，收入按年下跌7%，至212.87亿美元。PC、移动和数据中心业务的收入均出现4%至10%不等的下滑。相比去年的亏损，第二财季的净利润虽然达到1.57亿美元，但其中计入了此前出售联想北京研究院大厦所得的2.06亿美元。在此情况下，联想CEO杨元庆宣布了大规模的人事变动，同时宣布整合手机品牌，联想手机业务将只保留Moto这一个品牌，包括神奇工场ZUK、乐檬在内的手机品牌都将被整合进摩托罗拉，但Moto最终的产品线将少于五条。
+➜微软将减小Windows 10补丁容量
+https://www.solidot.org/story?sid=50247	19304
+微软<a href="http://www.theverge.com/2016/11/3/13511012/microsoft-windows-10-unified-update-platform-features" target="_blank"><u>承诺Windows 10的补丁容量将会减少</u></a>，用户无需再像一周年版更新那样下载4GB文件了。微软正在测试新的统一更新平台（ Unified Update Platform，UUP），Windows项目经理 Bill Karagounis称，UUP减小了下载的补丁容量。他表示，微软的构建和发布系统将为所有设备提供有差别的下载。用户将只需要下载其Windows 10系统最后一次更新后推送的补丁。微软称，用户从一个大补丁更新另一个大补丁时所需下载的容量将减少35%，这项技术将让网速比较慢或有数据配额的用户受益。
+➜吸烟会导致数百DNA突变
+https://www.solidot.org/story?sid=50248	27851
+对肺癌肿瘤基因组的测序发现，吸烟会导致<a href="http://www.bbc.com/news/health-37849000" target="_blank"><u>数百DNA突变</u></a>。<a href="http://science.sciencemag.org/content/354/6312/618" target="_blank"><u>研究报告</u></a>发表在今天出版的《科学》期刊上。DNA突变具有长久影响，即使吸烟者戒烟突变仍然存在。这项研究显示了一个人抽烟的数量与DNA突变数量之间存在直接的联系。研究人员发现，平均而言，一个人每天抽一包香烟（20支），每年每个肺细胞会积累150个突变，喉部细胞积累97个突变，嘴部有23个突变，膀胱有18个突变，肝脏有6个突变。研究人员说，突变越多，被称为癌基因的关键基因发生突变的可能性越高。
+➜游戏公司欢迎还是恐惧中国的征服？
+https://www.solidot.org/story?sid=50249	29649
+中国有5.6亿游戏玩家，需要大量的游戏内容去喂饱他们，因此中国公司对西方的游戏开发商十分饥渴。中国公司今年的对外收购金额超过了1100亿美元，其中一部分收购对象是游戏公司：腾讯以86亿美元收购了芬兰的《部落战争》手游开发商Supercell，游族网络以8000万欧元收购了德国免费游戏开发商Bigpoint，上海中技控股以4亿美元收购了英国网游《RuneScape》开发商 Jagex。<a href="http://www.bbc.com/news/business-37850092" target="_blank"><u>分析人士相信还会有更多的收购案</u></a>。而腾讯已经拥有了《英雄联盟》开发商Riot Game，持有Epic Games 和Activision Blizzard的少数股权。中国是世界最大的游戏市场，其中手游市场的每用户平均收入超过了美国、英国和韩国。
+➜Adobe的新软件能在你的录音里加入你没说的话
+https://www.solidot.org/story?sid=50250	30940
+<div align="center"><img src="http://img.solidot.org/0/944/li9kzsw6UhHNs.jpg" align="" height="348" width="450"><br>
+</div>
+<br>
+在圣迭戈举行的Adobe MAX会议上，Adobe开发者透露了代号为 Project VoCo 的新软件，它能让用户像使用Photoshop修图那样修改音频文件。目前不清楚Adobe何时会推出它的商业化版本，但它的一项功能是<a href="http://www.theverge.com/2016/11/3/13514088/adobe-photoshop-audio-project-voco" target="_blank"><u>能在你的录音里加入你没说的话</u></a>。 Project VoCo设计作为一种最先进的音频编辑软件，除了声音编辑和噪音消除功能外，它还能根据已有的录音产生新的声音。它通过理解一个人声音的组成去近乎完美的产生新的语音。
+➜经济放缓加速养老金危机
+https://www.solidot.org/story?sid=50251	31989
+中国希望摆脱未富先老的局面，但这一希望<a href="http://cn.wsj.com/gb/20161104/cec151349.asp" target="_blank"><u>正变得越来越渺茫</u></a>。如今每位65岁以上老人的养老成本由超过七个就业者负担。据联合国的数据显示，在35年后这一数字将降至仅仅两个就业者；若按照世界银行的数据，负担这一成本的就业者数量还要更低。低退休年龄和执行了35年的独生子女政策是造成中国人口现状的部分原因。中国政府已开始允许夫妇生育二孩，但几乎没人相信这能大幅提高低迷的出生率。中国社科院预计，到2023年中国养老金将收不抵支；除非有大的政策调整，到2050年累计资金缺口将达到人民币802万亿元。中国政府称，明年将推出上调法定退休年龄标准的计划。不过该计划面临强大阻力，预计将需要数年时间来实施。
+➜中国推行新的农村土地承包改革
+https://www.solidot.org/story?sid=50252	32984
+国务院发布了《<a href="http://www.gov.cn/xinwen/2016-10/30/content_5126200.htm" target="_blank"><u>关于完善农村土地所有权承包权经营权分置办法的意见</u></a>》 ，将农民的土地承包经营权分为承包权和经营权，也是就农民或集体承包的土地可以转给其他人经营。此举被认为是为应对农村老龄化和提高土地利用率，吸引企业投资农业，而农民通过转让经营权可以获得一笔年金。各级政府被要求在2020年年底前完成相关改革任务。《金融时报》<a href="http://www.ftchinese.com/story/001070003" target="_blank"><u>报道</u></a>称，新的改革将加快转向农业资本主义的趋势，由商人与村委会签订合同，接管村里的所有土地，同时为村民提供就业和收入来源。在成功的情况下，这种模式有助于引导能够获得贷款的商人参与农村经济。它还能为不再能依靠耕作小块农地维持生计的老年村民提供收入。
+➜Let’s Encrypt 推动HTTPS的普及
+https://www.solidot.org/story?sid=50253	39047
+<div align="center"><img src="http://img.solidot.org/0/945/linU4BGesNmPE.png" align=""><br>
+</div>
+<br>
+今天的互联网暗潮涌动，陷阱无数，HTTPS 可以帮助你抵御部分陷阱。然而 HTTPS 的生态系统严重依赖于CA，而 CA 有着多个令人诟病的问题：证书昂贵；不透明；安全问题严重，比如被入侵签发假证书或错误签发了被用于中间人攻击的证书。Certificate Transparency 政策和 Let’s Encrypt 的出现对 HTTPS 生态系统产生了革命性的影响。卡内基梅隆大学的计算机科学家在预印本网站发表论文，分析了<a href="https://arxiv.org/pdf/1611.00469v1.pdf" target="_blank"><u>Let’s Encrypt的影响和普及</u></a>（PDF）。<i>Let’s Encrypt旨在普及 HTTPS，证书免费配置自动，它如今一天要签发5.5万个证书。研究人员分析了从2015年9月17日到2016年5月15日之间的Certificate Transparency日志和使用Let’s Encrypt证书的域名分布，以及这些域名的Alexa排名。他们发现：西欧国家使用的Let’s Encrypt证书的比例最高，其次是北美、日本、新加坡和俄罗斯，中国没有进入前20，使用者估计不会很多；一些网站放弃了现有的证书，转而改用Let’s Encrypt证书，如图所示，流失客户最多的两个CA是
+COMODO和StartCom，其中StartCom的新证书最近已被多个浏览器停止信任；使用Let’s Encrypt证书的网站绝大多数位于Alexa排名10万名以下，这一“重尾分布”现象显示 Let’s Encrypt 确实在普及HTTPS。对使用Let’s Encrypt证书的网站的病毒扫描发现，有少数网站被归类为恶意网站，网站拥有者可能是想利用HTTPS试图获得用户的信任。</i>
+➜中国成功发射了长征五号火箭
+https://www.solidot.org/story?sid=50254	41580
+中国于11月3日在文昌航天发射场<a href="https://www.nasaspaceflight.com/2016/11/china-long-march-5-maiden-launch/" target="_blank"><u>成功发射了</u></a>新一代的大型运载火箭长征五号。中国于2004年批准了长征五号的研制，设计用于发射未来的空间站模块和执行月球火星任务，具备近地轨道25吨级、地球同步转移轨道14吨级的运载能力。长征五号有两种配置：设计执行地球同步转移轨道发射任务的长征五号；设计执行近地轨道任务的长征五号B。2017年嫦娥五号落月采样返回、2018年发射空间站核心舱、2020年发射火星探测器等任务<a href="http://news.sciencenet.cn/htmlnews/2016/11/360173.shtm" target="_blank"><u>都将使用长征五号</u></a>。
+➜Mozilla和Google移除销售用户浏览历史的 WOT扩展
+https://www.solidot.org/story?sid=50255	42827
+在德国媒体曝光 <a href="https://www.mywot.com/" target="_blank"><u>Web of TrusT (WOT)</u></a> 扩展是间谍软件之后，<a href="https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/" target="_blank"><u>Mozilla </u></a>和 Google 迅速将其从扩展商店<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1314332" target="_blank"><u>移除</u></a>。WOT号称安装量超过1.4亿，声称能帮助用户判断网站是否可信任，但德国研究人员发现开发商跟踪和销售用户数据，而对其代码的进一步分析发现它还能在<a href="https://gist.github.com/Rob--W/bda5f28a0ac3b877780c6665bbed2e1b" target="_blank"><u>任意页面执行任意代码</u></a>，不过目前没有看到被滥用，但研究人员指出只要WOT愿意它可以为所欲为，从窃取银行凭证到安装恶意程序。
+➜Chrome用户访问的网页HTTPS超过一半
+https://www.solidot.org/story?sid=50256	44768
+Google官方博客<a href="https://security.googleblog.com/2016/11/heres-to-more-https-on-web.html" target="_blank"><u>宣布</u></a>，它的透明度报告加入了有关<a href="https://www.google.com/transparencyreport/https/metrics/?hl=zh-CN" target="_blank"><u>HTTPS使用率</u></a>的信息。Google称，安全对于Web至关重要。对 Chrome 用户的统计显示，桌面设备用户浏览的网页中有一半以上是通过 HTTPS 加载的，他们在 HTTPS 网页上所花费的时间占所有网页浏览时间的三分之二。HTTPS 在移动设备上普及率较低，不过也呈现上升趋势。Google称，HTTPS 使用率在有些国家/地区增长迅速，在有些国家/地区则增长缓慢。如俄罗斯的 HTTPS 普及率增长较快，而日本的 HTTPS 使用率则增长较慢。Mozilla上个月也<a href="http://www.solidot.org/story?sid=50015" target="_blank"><u>报道</u></a>Firefox用户加载的半数网页启用了HTTPS。
+➜研究证实恒星新星是锂的主要来源
+https://www.solidot.org/story?sid=50257	45243
+所有的元素都有一个天文事件起源，轻元素是在创世大爆炸之后10秒到20分钟内形成的，重元素则源自恒星内部的核聚变和超新星爆炸。但最轻的固体元素锂的来源是一大难题，有25%的锂来自于大爆炸之后的太初核合成，但另外75%的来源未知。天文学家现在发现，新星Sagittarii 2015 N.2内部探测到了大量的铍-7，这种不稳定的元素会在53.2天内衰减成锂，从而证实<a href="http://phys.org/news/2016-11-stellar-novae-main-source-lithium.html" target="_blank"><u>恒星新星是锂的主要来源</u></a>。<a href="http://mnrasl.oxfordjournals.org/content/463/1/L117" target="_blank">研究报告</a>发表在《Monthly Notices of the Royal Astronomical Society》期刊上。

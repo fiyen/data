@@ -1,0 +1,57 @@
+➜巴基斯坦以反伊斯兰名义审查互联网
+https://www.solidot.org/story?sid=18609	5520
+<a href="http://www.hi2020.com/">书评影评</a> 写道<i> "华尔街日报<a href="http://online.wsj.com/article/SB10001424052748703615104575328712353518780.html">报道</a>，巴基斯坦政府官员25日称，该国当局已将谷歌及其旗下YouTube视频站点等7家大型网站放入观察名单，原因是当局认为这些网站含有攻击穆斯林的内容。巴基斯坦电信管理局发言人库拉木·梅兰称：“<a href="http://www.hi2020.com/blog/post/30.html">YouTube、雅虎、亚马逊、必应（Bing）、MSN、Hotmail和谷歌等7个网站将受到监控</a>，原因是其含有反穆斯林的内容。”这7个网站的所有权分别归属于4家公司，即谷歌、微软、雅虎和亚马逊。"</i>
+➜Python“newthreading”概念验证发布
+https://www.solidot.org/story?sid=18610	12000
+“<a href="https://sourceforge.net/projects/newthreading/">newthreading</a>”项目是Python社区改进Python程序并发性能，去除不受欢迎的全局解释器锁（global interpreter lock）的一次尝试。Python刚刚<a href="http://lwn.net/Articles/393822/">发布了</a>newthreading的一个概念验证实现。这个纯Python语言实现可以使用，但并没有改进性能。它只是一个概念验证实现，让程序员能尝试同步类，了解工作原理。更多用户指南见<a href="http://www.animats.com/papers/languages/newthreadingintro.html">newthreading主页</a>。
+➜Ubuntu 10.10接近实现不用root权限运行X Server
+https://www.solidot.org/story?sid=18611	15480
+Osnews<a href="http://www.osnews.com/story/23487/Ubuntu_Nearing_X_Server_Not_Running_as_Root">报道</a>，根据X.Org开发者<a href="http://lists.x.org/archives/xorg-devel/2010-June/010511.html">邮件列表</a>透露的信息，Canonical已接近实现他们为Ubuntu 10.10<a href="https://wiki.ubuntu.com/X/Rootless">制定的目标</a>：不用root权限运行X Server。<i>
+X Server通过直接与硬件对话负责设置图形模式，因此它需要使用root权限。然而模式设置正逐渐交给内核执行，部分视频驱动如ATI、Intel和Nouveau的开源驱动支持内核模式设置（KMS），但还有很多驱动，包括不常用硬件的驱动和私有的驱动，不支持KMS，需要root权限运行它们的X Server，这种做法的缺点是内核无法完全控制。</i>
+➜FBI未能破解加密硬盘
+https://www.solidot.org/story?sid=18612	17280
+FBI在经过一年的尝试后，还是<a href="http://yro.slashdot.org/story/10/06/26/1825204/FBI-Failed-To-Break-Encryption-of-Hard-Drives">未能破译</a>被巴西执法机构指控金融犯罪的巴西银行家的加密文件。<i>
+巴西一家葡萄牙语报纸<a href="http://www1.folha.uol.com.br/folha/brasil/ult96u447378.shtml">报道</a>（葡萄牙语），巴西联邦警察在2008年7月展开的Satyagraha行动中，在银行家Daniel Dantas位于里约热内卢的公寓内收缴了5个硬盘。文章提到硬盘使用了两种加密程序，一种是Truecrypt，另一种是不知名的256位AES加密软件。在专家未能破解密码后，巴西政府在2009年初请求美国提供帮助，然而美国联邦警察在一年不成功的尝试后，退还了硬盘。巴西现有的法律中不存在强制要求Dantas交出密码的规定。</i>
+➜澳大利亚最大ISP停止提供Linux镜像服务
+https://www.solidot.org/story?sid=18613	28800
+澳大利亚最大ISP BigPond，<a href="http://forums.whirlpool.net.au/forum-replies.cfm?t=1474746">决定停止</a>为本国用户提供Linux和其它开源操作系统，以及众多开源软件和创作共用文件的镜像服务。BigPond在<a href="http://files.bigpond.com/">镜像网站</a>发表简要声明，表示将于6月30日关闭，理由是低使用率和对主流用户缺乏吸引力，并声称镜像内的资源可以从download.com和tucows.com等大型资源库内找到。BigPond向来以提供高价格和低带宽配额（很多用户每月只能使用10GB或25GB的配额）的服务而臭名远扬，下载这个镜像网站内的文件并不计入月度配额中。Linux用户对BigPond的行动表示失望。
+➜VeryCD 电驴(easyMule) 1.1.14版 破解版
+https://www.solidot.org/story?sid=18614	30000
+<a href="http://www.dianlv.com/">电驴爱好者</a> 写道 "我只是一名电驴爱好者，平时喜欢听听音乐，看看电影。在VeryCD上下载东西很久了，直到最近才发现<a href="__SLASHLINK__" sect="internet" sid="10/06/18/0312231" sn="article" tid="120">VC版的电驴把搜索KAD网络都去掉了</a>，自己也学过一些编程，所以自己动手去掉了安装过程中的广告与搜索限制，本人不知道能坚持多久不被和谐掉，所以大家的支持就是对我最大的鼓励！希望大家多多帮忙转发，让更多人用上这个没有限制的电驴！此次更新基于<a href="http://download.verycd.com/easyMule-VeryCD-src.zip">easyMule 1.1.14代码</a>，包含订阅功能。           <b>修改细节</b> <br>
+#还原电驴服务器和Kad网络搜索类型<br>
+#去除搜索关键字过滤<br>
+#使用官方版反吸血插件<br>
+#去除安装向导中的所有插件（广告）<br>
+#去除升级功能<br> <br>
+<b>下载地址</b> <br>
+HTTP：<a href="http://dl.dianlv.com/dianlv-setup.exe">http://dl.dianlv.com/dianlv-setup.exe</a> <br>
+MD5：0a1765334cd067647ccda431e2d27015 *dianlv-setup.exe"
+➜睡眠不足的惊人恶果
+https://www.solidot.org/story?sid=18615	31200
+stranger ( @wmrofficial ) 写道 "成年人通常需要每晚睡7到9个小时才能感到恢复彻底、状态良好。然而，美国人的睡眠时间与过去相比越来越少。全国睡眠基金会在2005年的一次调查中发现，美国人平均睡眠时间为每晚6.9个小时，与19世纪过相比，每晚减少约2小时，与50年前相比，每晚减少1小时，甚至与2001年相比也减少了约15至25分钟。
+遗憾的是，我们没有很好地意识到睡眠不足的不良影响。宾夕法尼亚大学的研究人员要求志愿者在两周时间内每晚睡眠时间少于6小时。这些志愿者只是稍稍感到困意，并认为他们的身体运转相对正常。然而，测试表明，两周时间里，他们的认知能力和反应时间逐渐下降。到测试结束时，<a href="http://www.newsweek.com/2010/06/18/the-surprising-toll-of-sleep-deprivation.html">他们健康受损程度那些48小时不睡觉的实验对象是一样的</a>。           不仅如此，睡眠过少的后果可能不只是认知能力和情绪问题。芝加哥大学的研究人员已经证明，睡眠过少能够改变体内某些激素的分泌。这些变化会促进食欲，削弱对饱食的感觉，井改变身体对糖类摄入量的反应，导致体重增加，增加患糖尿病的风险。<br> <br>
+由凯斯-西部保留地大学医学院的苏珊·雷德兰及其同事进行的一项研究显示，高中生的睡眠时间与肥胖程度成反比。睡眠时间越短，超重的可能性就越大，睡眠时间为6到7个小时的学生身体超重的可能性是睡眠超过8小时的那些学生的2.5倍以上。<br> <br>
+在人们发现睡眠不足和肥胖之间可能存在联系之前，研究人员已经把睡眠不足和高血压、心脏病患病几率加大联系起来。<br> <br>
+好消息是，充足的睡眠可以抵消这些影响。研究发现，让实验对象连续两天睡10个小时可以把激素水平平恢复到正常，饥饿感和食欲水平下降近25%。"
+➜美国出版商协会对自由文化宣战
+https://www.solidot.org/story?sid=18616	31680
+美国出版商协会<a href="http://lwn.net/Articles/393777/">声称创作共用和电子前哨基金会都是它的敌人</a>。
+<i>
+美国作曲家作词家及音乐出版商协会(ASCAP)发起了反对自由文化的运动，他们鼓动成员捐款筹集足够的资金以“对抗目前面临的最大挑战”，包括创作共用、Public Knowledge、电子前哨基金会和实力雄厚的技术公司在内的各种力量都在努力宣传“Copyleft”，挖“Copyright”的墙脚。这些组织鼓吹说是为了消费者权益，实际上是为了不付钱就能听歌，他们试图向世界灌输音乐免费的观念。</i>
+➜国内外浏览器设计对比初探
+https://www.solidot.org/story?sid=18617	36000
+<a href="http://www.haoxiaoru.info/">胆晓茹鼠的女朋友</a> 写道 "面向国内市场的浏览器针对国内用户做了哪些改变，以及为什么这么做。 根据这次研究的目的，我们把浏览器做这样的分类。（均按占有率顺序排列）
+<ul> <li>国内组：IE6、360浏览器、遨游、腾讯TT、世界之窗、搜狗</li> <li>国际组：IE7&amp;8、Firefox、Chrome、Safari、Opera</li> </ul>           更常见的分类方法——按照浏览器的4大内核来分类。
+<ul> <li>Trident：IE系列、国产系列（360浏览器、遨游、腾讯TT、世界之窗、搜狗）</li> <li>Gecko： Firefox</li> <li>Webkit：Safari、Chrome</li> <li>Presto：Opera</li> </ul>
+特例：国产Trident和Webkit双核心浏览器
+<ul> <li>遨游3 beta版</li> <li>QQ浏览器5 预览版</li> <li>搜狗浏览器2.0 正式版</li> </ul>
+看到一个童鞋的<a href="http://www.haoxiaoru.info/archives/587">文章</a>，对比评测针对国内市场的浏览器和国际市场浏览器设计思路的不同。查看全文版——<a href="http://www.haoxiaoru.info/archives/587">国内外浏览器设计对比初探</a>"
+➜雷神公司推出防止霜冻伤害庄稼的微波武器
+https://www.solidot.org/story?sid=18618	36720
+菲利普K迪克（PKD）在其小说《<a href="http://en.wikipedia.org/wiki/The_Zap_Gun">Project Plowshare</a>》设定了一个未来世界，在这个世界里致命的武器“铸剑为犁”，进入了消费者市场。PKD的小说现在变成了现实，著名国防产品巨头雷神正将微波武器变为农业用品。雷神几年前开发出了<a href="http://www.raytheon.com/newsroom/feature/ads_03-08/">主动拒绝系统</a>，一种发射出非致命性微波的武器，可在远距离上让人的皮肤产生炙热的疼痛感，设计用于驱逐成群的暴徒。雷神公司将这种武器变成<a href="http://www.thefirearmblog.com/blog/2010/06/25/raytheon-turns-swords-into-plowshares/">防止庄稼受到霜冻伤害</a>的工具。<i>
+霜冻是庄稼的大敌，目前预防霜冻的主要方法是喷热水、风机，甚至是直升机，但它们都存在很多缺陷。雷神公司已开发出一种名为Tempwave的微波系统原型，并部署在安大略省的一座葡萄园内进行测试。Tempwave设置在25英尺高的电线杆上，由电网供电，它装备有传感器可以探测天气情况，如果发现可能有霜冻，它会直接向庄稼地发射出微波，在不浪费电力的情况下加热空气。</i>
+➜Firefox 3.6.6发布
+https://www.solidot.org/story?sid=18619	54300
+Mozilla<a href="http://blog.mozilla.com/blog/2010/06/26/firefox-3-6-6-now-available-for-download/">发布</a>了<a href="https://www.mozilla.com/en-US/firefox/3.6.6/releasenotes/">Firefox 3.6.6</a>。
+<i>
+Firefox 3.6.4加入的防崩溃保护功能显然给很多用户带去了麻烦。Firefox 3.6.4引入了独立插件进程的新特性，第三方插件如Flash和 Silverlight的崩溃将不会导致整个浏览器失去响应。但是Mozilla设置了一个较短的响应终止时间：如果插件在10秒内没有响应，Firefox 3.6.4便停止该插件。结果许多旧电脑的用户发现默认的响应终止时间设定<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=574905">太短了</a>。Mozilla因此紧急推出了Firefox 3.6.6，将响应终止时间从10秒延长为45秒。</i>

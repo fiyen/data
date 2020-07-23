@@ -1,0 +1,76 @@
+➜首个主要用人工组件建造的DNA分子
+https://www.solidot.org/story?sid=6945	1500
+日本化学家制造出世界上<a href="http://www.sciencedaily.com/releases/2008/07/080707091915.htm">第一个人工合成DNA分子</a>。这项发现可引领基因疗法的进步，发展未来的纳米计算机和其它高科技，如利用DNA惊人的信息储存能力。
+<i>
+在这项新研究中，日本富山大学的井上正彦及其同事指出，科学家多年来一直试图合成人工DNA，为的是发掘它的令人惊讶的信息储存能力。DNA是所有生命形式的遗传设计图，仅仅使用4个相同的基础结构，也就是所谓的“碱基（bases）”，就能编码出许多种细胞发育和机能化使用的蛋白质。到目前为止，科学家还只能用一个或少量人工部件去创造DNA分子。</i>论文<a href="http://pubs.acs.org/cgi-bin/abstract.cgi/jacsat/2008/130/i27/abs/ja801058h.html">摘要</a>
+➜科技如何改变教室
+https://www.solidot.org/story?sid=6946	3600
+从在线课程到孩子喜欢的笔记本和虚拟教师，高科技在美国教室中扩大影响，而教科书，笔记本和试卷的需求减少了。<i>只要看看11岁的Jemella Chambers，你就能体会到这种变化。她是波士顿一所州资助学校中的650位拿着苹果公司笔记本上课的学生之一。坐在教室的第二排，<a href="http://news.yahoo.com/s/nm/20080707/tc_nm/usa_education_technology_dc">她用动画教学软件敲击出数学作业</a>，就像是玩视频游戏。没有课本，学生每天早上来到学校拿到一台笔记本电脑，放学时候上交。家长和老师可以通过网络交谈，学生们可以使用Google在线软件处理作业，上传到学校网站。这项试验性教学始于两年前，现在扩大到所有的7、8年级学生。</i>
+➜IBM软件协助盲人更好地访问网站
+https://www.solidot.org/story?sid=6947	6000
+<a href="http://www.comsharp.com/">35公里</a> 写道"《纽约时报》报道，<a href="http://www.nytimes.com/idg/IDG_852573C4006938800025747F007CBD5E.html?ref=technology">IBM本周二发布了一款软件</a>，借助全球 Internet 用户的力量帮助盲人和有视觉障碍的人更好地访问网站。<i>很多盲人和有视觉障碍的人使用屏幕阅读软件获取网页中的内容，但经常遇到问题。屏幕阅读软件依赖网页中的文字和描述性标签理解网站内容，然而很多网站中那些增强可访问性的描述性标签并不完整。IBM 的这款软件允许视觉障碍访问者在遇到问题时，向一个中央数据库报告这些问题，Internet 上其它视力正常的访问者在看到这些问题时，会帮助提供一些描述性的信息，而这些并非保存到网页原始 HTML 代码中，而是保存到一个附加文件，视觉障碍者下次再访问这个网站时，可以从中央数据库获得这个附加文件并实现对那些不完整内容的理解。</i>           IBM 东京研究员 Chieko Asakawa 说，这个主意来自她亲身经历。本身也是盲人的 Asakawa 领导一个6人小组负责这个软件的开发，她非常清楚盲人在访问网站中所遇到的问题。 <br> <br>“<em>作为用户，我每天面对很多问题却没有办法将这些问题提出来。我们每天都会看到一些没有描述文字的图片，但我没有办法告诉别人我要这些文字。这是一个简单的动机，如果我们可以将问题提出来，那些视觉正常的访问者可以为我们提供这些信息</em>”。 <br> <br>IBM 本周二开始提供该软件的 Beta 测试版。该软件可以结合 IE 和 Jaws 读屏软件使用，供正常视觉用户使用的部分可以作为 Firefox 的插件安装。 <br> <br>在演示这个软件时，Asakawa 输入了<a href="http://www.whitehouse.org/">白宫网站</a>的地址，虽然白宫网站在设计时考虑了可访问性问题，网页上方的三个主要栏目并没有提供附加信息让读屏软件理解它们的意思。 <br> <br>Asakawa 按了几个键，弹出一个对话框，Asakawa 在里面输入上面的问题，希望有人帮助提供这些信息。其他访问者看到这个问题后，可以很快将那些描述性文字加上，下次回来访问时，就可以看到了。 <br> <br>Asakawa 还希望将这个项目扩展到其它身体障碍方面，比如，听觉障碍者。
+➜Google开源其内部数据交换格式
+https://www.solidot.org/story?sid=6948	14400
+Google开源了它<a href="http://google-opensource.blogspot.com/2008/07/protocol-buffers-googles-data.html">内部使用的数据交换格式</a>，称作<a href="http://code.google.com/p/protobuf/">Protocol Buffers</a>（<a href="http://code.google.com/apis/protocolbuffers/docs/overview.html">文档</a>）。Google表示Protocol Buffers是“一种语言无关、平台无关，可扩展的序列化结构格式，可用于通信协议、数据存储等众多领域。”Google博客声称Protocol Buffers的速度至少比XML快一个数量级。它<a href="http://hellobmw.com/archives/protocol-buffers-introduction.html">采用二进制方式储存</a>，比XML小3到10倍，快20到100倍，语义更清晰，无需类似XML 解析器的东西。但也有人认为Protocol Buffers与XML比较是不恰当的，它更类似于<a href="http://zh.wikipedia.org/wiki/ASN.1">ASN.1</a>标准。
+➜33年的Unix臭虫被消灭
+https://www.solidot.org/story?sid=6949	19680
+OpenBSD的开发者Otto Moerbeek最近在<a href="http://www.openbsd.org/cgi-bin/man.cgi?query=yacc&amp;apropos=0&amp;sektion=0&amp;manpath=OpenBSD+Current&amp;arch=i386&amp;format=html">Yacc</a>中发现和修复了一个<a href="http://undeadly.org/cgi?action=article&amp;sid=20080708155228">有33年历史的溢出臭虫</a>。这位老兄开发了新的malloc实现，主要用途是内存分配，正在进行了大范围测试。他收到了一份奇怪的报告，对方运行的是sparc64处理器，一个大C++项目编译失败，但并不清楚是否是新malloc函数的问题。Moerbeek在调查后发现，这个问题只出现在sparc64机器上。它与堆栈的大小有关，如果超过了新malloc允许的16位就会溢出，上述例子中C++的堆栈是24位，因此SEGV就发生了。Moerbeek向前一直追溯到1975年发布的第6版UNIX。
+➜最热网络视频“两女一杯”
+https://www.solidot.org/story?sid=6950	21600
+匿名读者 写道 "互联网正在遭受攻击。攻击并非来自骇客的蠕虫，而是来自一个叫做两女一杯的<a href="http://www.mfxmedia.com/Trailer/mfx-1209.mpg">视频</a>(4.08 M)。不知道从什么时候开始，这个视频就开始在网络上流传。据说是一段超级<b>硬口味</b>的视频。<a href="http://en.wikipedia.org/wiki/2_Girls_1_Cup">http://en.wikipedia.org/wiki/2_Girls_1_Cup</a> 。现在在youtube上引发了大量的网民上传关于这段视频的表情。很多视频记录了观看者在第一次观看时的夸张反应，十分搞笑，好事者甚至成立了专门的网站收集这些视频。
+或许在看视频前先看这些会让你吊足瘾：
+<a href="http://www.youtube.com/watch?v=U1N28yH08s0">表情一</a>
+<a href="http://www.youtube.com/watch?v=AW0wvv6orEI">表情二</a>
+<a href="http://www.youtube.com/watch?v=ZJZ9ReX6taY">表情三</a>
+<a href="http://www.youtube.com/watch?v=aq8qfwOeXS4">表情四</a>
+<a href="http://www.youtube.com/watch?v=LTEHxPw0TUo">五</a>
+<a href="http://www.youtube.com/watch?v=sbh5Z_EI3Ss">六</a>
+<a href="http://www.youtube.com/watch?v=Xv-kY7dS87s">七</a>
+<a href="http://www.youtube.com/watch?v=oOlrOpT3lzw">八</a>"
+➜修复DNS严重漏洞的补丁发布
+https://www.solidot.org/story?sid=6951	23100
+CERT advisor宣布多家大型开发商联合发布了一个<a href="http://securosis.com/2008/07/08/dan-kaminsky-discovers-fundamental-issue-in-dns-massive-multivendor-patch-released/">修复DNS严重漏洞的补丁</a>。安全研究人员Dan Kaminsky今年初在DNS中发现了一个基础漏洞，允许黑客轻松的攻击任何域名服务器，同时它也会影响浏览用户。Kaminsky之后秘密的和一组软、硬件开发商联系合作制作补丁。CERT advisor的<a href="http://securosis.com/publications/CERT%20Advisory.doc">名单</a>(DOC)上列出了81家开发商。这儿有<a href="http://media.libsyn.com/media/mckeay/nsp-070808-ep111.mp3">采访Dan Kaminsky的录音</a>，他的个人网站右上角有一个<a href="http://www.doxpara.com/">DNS漏洞检查器</a>：
+<i>
+这个问题非常的严重，所有的域名服务器应该尽快的打上补丁。补丁已经发布到不同的平台，因为问题出在DNS协议本身，并非是一个特殊的实现。好消息是补丁不会透露漏洞的存在，逆向工程没有直接实现的可能。
+</i>
+➜Opera 提出网络标准课程 发布标准教育
+https://www.solidot.org/story?sid=6952	24300
+<a href="http://www.operachina.com/">linuxrocks</a> 写道 "7月8日，挪威Opera软件公司发布了网络标准教育的倡议，这个倡议的目的是支持和促进网络标准在中学、高校、大学和全球企业中的教育和培训。首先，Opera提出网络标准课程，这个课程为网络设计者和开发者提供了一套完整及透彻的学习资料。这些资料可以免费从 <a href="http://www.opera.com/wsc/">http://www.opera.com/wsc/</a> 获得。
+<i>
+针对教育机构和网络开发人员，学习资料包括了CSS、HTML、完整的标准背景概念、良好的网络设计理论知识（包括字体，颜色和信息体系结构）以及充足的JavaScript信息介绍，包括简单的调试与编写脚本。Opera教程的主要作者都是来自全球各地的知名网络开发专家，包括：来自Yahoo的Christian Heilmann和Mark Norman、来自quirksmode.org的Peter-Paul Koch、来自456bereastreet的Jonathan Lane、Linda Goin、Paul Haine、Roger Johansson以及Jen Hanen。至目前为止，已经有23篇文章被发表，并有超过50篇文章将要发布。"</i>           “我认为这是业界非常需要基于标准的网络开发资料，但是现在可供学生参考的基础层次信息非常少。”全球卓越的万页开发者及发言人Ben Buchanan说道：“现在一些适合初学者资料并不完整，绝大部分标准的文章高于初级水平。Opera这套最新的教程填补了这项空白，这套资料从基础部分介绍了如何建设标准兼容的网络站点。”
+<br> <br>
+Opera网络标准教程是一套可以帮助公司提高代码质量，并更好的节省互联网资源以及加强网络标准创新的教程。
+<br> <br>
+“Yahoo作为全球最早的网络科技公司之一，我们认为最佳的做法就是正确的建设网站，这也使我们成为了互联网的起始点。”Yahoo国际网络开发经理Sophie Major说道：“因此，Yahoo非常坚持Yahoo的雇员需要拥有网络标准的知识。Opera网络标准教程为前端开发人员提供了准确的知识。”
+<br> <br>
+教育者及大学对Opera倡议的支持：
+<br> <br>
+“网络开发和设计是一项不断变化的职业。教育者需要不断的问自己是否在教学生最新、最好的方法。” 德克萨斯大学信息技术服务网络组高级分析师Glenda Sims说道：“Opera网络标准课程由业界资深人士开发，这套资料对教育者起到了复习、证实和加强作用。更确切的讲，这些资料对于所有的业内人士都非常有帮助，我们可以更好的实现W3C所提出的“任何人的网络、任何设备上的网络”的目标。”
+<br> <br>
+“敦提大学计算机学院将会给予Opera网络标准课程以最大的支持。这套课程无疑是一套无价的资料，它在网络标准教学领域填补了一项重要的空白。”敦提大学互联网编写讲师Andrew Cobley说道：“Opera选择成为业内先行者，为我们准备了非常重要的课程资料。这个课程将帮助学生更好的理解网络标准的重要性以及使用正确的方法编写网络。大学阶段的学生将在学习这套课程中刷新他们的知识，并找到新的方法解决网络设计问题以及发现更新的技术来开发网络。敦提大学将会在大学课程中使用Opera网络标准课程，从而使学生得到更正确、更现代的网络设计理念。”<br> <br>
+“Opera一直致力于为全球提供网络标准。”Opera首席技术官Håkon Wium Lie说道：“最新的网络标准课程将帮助那些新接触到网络标准的开发者，并为他们提供他们所需要的工具和信息来帮助他们更好实现网络标准化。我非常自豪Opera在全球网络标准化中所扮演的角色和所发挥的作用。”<br> <br>
+加入其开发者社区 <a href="http://dev.opera.com/">http://dev.opera.com/</a> 是一个学习网络标准、高级网络开发技术和联系全球开发者的中心。Opera网络标准课程需要您的帮助以及支持从而引导新一代网络开发者。如果您希望编写新的文章或者翻译现有文章从而帮助全球读者，我们非常欢迎您的帮助。更详细信息请登陆<a href="http://dev.opera.com/">http://dev.opera.com/</a> 和 <a href="http://www.opera.com/wsc">http://www.opera.com/wsc</a>。
+➜奔驰汽车计划到2015年逐步淘汰汽油
+https://www.solidot.org/story?sid=6953	28440
+一未经证实但有确切来源的消息称，梅赛德斯奔驰计划用7年不到时间，<a href="http://green.yahoo.com/blog/ecogeek/603/mercedes-to-cut-petroleum-out-of-lineup-by-2015.html">逐步在其生产线淘汰汽油驱动的汽车</a>，集中力量于电动、燃料电池和生物燃料，该公司正抓紧研究替代燃料。这家德国汽车巨头已经拥有少数型号的新型动力汽车，其中一个型号是F700，采用DiesOtto引擎，可燃烧生物燃料，预计上市日期在2010年。
+➜Google推出《第二人生》克隆
+https://www.solidot.org/story?sid=6954	30480
+Google发布了类似《第二人生（Second Life）》的3D虚拟世界<a href="http://www.lively.com/html/landing.html">lively</a>，一个基于浏览器的扩展，<a href="http://www.techcrunch.com/2008/07/08/google-launches-virtual-world-called-lively">允许玩家创造和定制世界和自己的化身</a>，或与其他玩家互动。目前扩展程序只支持Windows系统的IE和Firefox浏览器，Mac和Linux的用户还需耐心等待。Google已预先创造了许多虚拟房间、衣物和人物形象，玩家可以直接拷贝或动手修改，或创造全新的世界。<a href="http://www.youtube.com/watch?v=5YbwfOucET8">视频</a>。
+➜太空做爱是不可避免的
+https://www.solidot.org/story?sid=6955	33000
+日本公司First Advantage 和美国私人太空飞行公司Rocketplane Global上周宣布将<a href="http://www.livescience.com/blogs/2008/07/01/japanese-us-firms-offer-space-weddings/">举办太空婚礼</a>，每人每次230万美元。我们都知道，太空中做爱早晚会发生，可能已经发生了，但<a href="http://www.space.com/scienceastronomy/080707-space-encounters.html">NASA的官员却不愿意细谈</a>。
+休斯顿Johnson 太空中心的NASA发言人Bill Jeffs称，“我们没有研究太空性生活，未来也没有这方面的计划。如果这是你们的特别话题，这里没有什么好讨论的。”短期的太空任务，性的需求可以忽略，但类似火星这样长达数年太空飞行，性生活就要考虑考虑了。
+➜美国国土安全局考虑让飞机乘客套上电击手镯
+https://www.solidot.org/story?sid=6956	36000
+911对美国的影响至今没有消退，机场检查严格而繁琐。现在据<a href="http://www.washingtontimes.com/weblogs/aviation-security/2008/Jul/01/want-some-torture-with-your-peanuts/">《华盛顿邮报》</a>报道，美国国土安全局官员正在考虑新的对付飞机劫匪的方法，用内置GPS的电击手镯取代登记证，它的作用包括：包含乘客个人信息；监控每位乘客及其行李箱的去向；根据命令遥控电击疑犯，使他/她在几分钟内不得动弹。生产这种电子ID手镯的公司还制作了一<a href="http://www.lamperdlesslethal.com/video_gallery.asp?video=http://www.lamperdlesslethal.com/video/EMDsafetybracelet.flv&amp;title=">推销视频</a>(<a href="http://www.youtube.com/watch?v=Ar2gZiT5dDM">Youtube</a>)，演示其功能。
+➜example.com上印度人最多
+https://www.solidot.org/story?sid=6957	64980
+<a href="http://example.com/">example.com</a>，根据Google trends的网站流量记录<a href="http://irain.org/cyber/google-trends-for-example-dot-com#rank">显示</a>，这个网站的访问前五位分别是印度、美国、中国、日本、俄罗斯，流量则与solidot <a href="http://trends.google.com/websites?q=example.com%2Csolidot.org&amp;geo=all&amp;date=all&amp;sort=0">差不多</a>，Google 收录了其中的<a href="http://www.google.com/search?q=site:example.com&amp;hl=en&amp;newwindow=1&amp;client=firefox-a&amp;rls=org.mozilla:zh-CN:official&amp;hs=OZe&amp;filter=0">15,800个页面</a>，但Pagerank 只为零。
+<br> <br>
+我认为访问example.com 的人群都是互联网的未来引导者，各位认为呢？
+➜苹果中国第一店：三里屯
+https://www.solidot.org/story?sid=6958	67320
+<a href="http://kb24.cn/">viewtops</a> 写道 "苹果中国在官方网站正式公布了苹果中国内地的<a href="http://www.apple.com.cn/retail/sanlitun/">第一家零售店</a>将于7月19日上午十时在北京<a href="http://www.apple.com.cn/retail/sanlitun/map/">三里屯</a>正式开业，可以预约<b>私人培训、私人购物、讲座、天才吧、青少年活动、商务</b>等活动。<br>
+营业时间： 星期一至星期日：早 10 点 － 晚 10 点
+<br>
+苹果，欢迎来到江湖！！"

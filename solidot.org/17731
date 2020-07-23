@@ -1,0 +1,48 @@
+➜Google 警告称因为欧盟的裁决 Android 可能不再免费
+https://www.solidot.org/story?sid=57252	9832
+Android 系统由两部分代码构成，第一部分是开源的 Android Open Source Platform (AOSP) ，第二部分是闭源的 Google Mobile Services (GMS)。过去几年，在减少碎片化的名义下，Google 将越来越多的 AOSP 核心功能迁移到 GMS，GMS 包含了 Android 生态系统核心的 Google Play Services 和 Google 应用。任何人都可以任意使用和修改 AOSP，但使用 GMS 需要获得 Google 授权，这种授权是捆绑式的，你不能只要 Google Play 而不要搜索和 Chrome。这是为什么欧盟认为 Google 将 Android 作为工具巩固其搜索的统治地位。在欧盟开出了高达 43 亿欧元的罚单之后，Google CEO Sundar Pichai  通过官方博客<a href="https://www.blog.google/around-the-globe/google-europe/android-has-created-more-choice-not-less/" target="_blank"><u>为其行为辩护</u></a>，警告 Android <a href="https://mobile.slashdot.org/story/18/07/18/2112212/google-warns-android-might-not-remain-free-because-of-eu-decision" target="_blank"><u>可能不再免费</u></a>。 Sundar Pichai 声称预装应用很容易卸载，但如果预装应用被分类为系统应用，要卸载就不是一件简单的事情了。Pichai 称，如果 Google 被禁止捆绑其应用，那么这将会扰乱 Android 生态系统。他说 Android 免费商业模式依赖于应用捆绑。这确实是 Android 生态系统的现实，而 Google 依赖于这种商业模式，因为它的主要收入来自于广告，通过捆绑它能控制入口和流量，Android 不再免费可能对搜索巨人的伤害更大。
+➜Blue Origin 成功着陆火箭和飞船
+https://www.solidot.org/story?sid=57253	12716
+Jeff Bezos 的私人太空公司 Blue Origin <a href="https://www.nasaspaceflight.com/2018/07/blue-origin-new-shepard-nine-test/" target="_blank"><u>完成了</u></a>该公司第九次和 New Shepard 火箭的第三次飞行测试。这次任务旨在进行火箭和飞船的分离实验。火箭和飞船都设计能重复使用，整个任务持续了大约 11 分钟，火箭和飞船分离成功，飞船最高的飞行高度为  389,846 英尺。飞船和火箭都成功回收，这次测试是 Blue Origin 准备将付费游客送往太空的最后一站。流言称，Blue Origin 准备对亚轨道太空游的每位乘客收取 20 万到 30 万的船票。只持续数分钟的亚轨道太空游是否可维持和具有吸引力仍然是未知之数，但这应该是该公司为实现真正太空游而积累经验和知识的一种途径。
+➜研究发现人类对不同肤色的机器人表现出种族偏见
+https://www.solidot.org/story?sid=57254	14159
+绝大多数机器人都是白色的，你可以在 Google 图像搜索中搜索<a href="https://www.google.com/search?q=robot&amp;rlz=1C5CHFA_enUS737US743&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjevMPslqfcAhXRTN8KHUlXCAkQ_AUICygC&amp;biw=1391&amp;bih=736" target="_blank"><u>机器人</u></a>来确认下。为什么白色是压倒性多数？一项研究<a href="https://spectrum.ieee.org/automaton/robotics/humanoids/robots-and-racism" target="_blank"><u>认为</u></a>，人类将种族相关的偏见延伸到了机器人身上。<a href="https://dl.acm.org/authorize.cfm?key=N43953" target="_blank"><u>论文</u></a>主要作者 Christoph Bartneck 表示希望他们的研究能鼓励机器人设计师去设计能代表社区多元化的机器人，机器人并不需要全是白色的。他说，对这一主题的讨论就像是穿越雷区。他们的论文受到了评审者的详尽检查，被批评是哗众取宠 。
+➜第三方商家被发现在亚马逊上销售盗版游戏
+https://www.solidot.org/story?sid=57255	18666
+策略模拟生存游戏《<a href="https://store.steampowered.com/app/323190/Frostpunk/" target="_blank"><u>冰汽时代（Frostpunk）</u></a>》颇受好评，它上市不过三个月，但玩家发现亚马逊上有第三方商家以一折（原价 30 美元优惠价 3 美元）销售该可下载游戏。一些花了 3 美元的用户发现该版本实际上来自销售  DRM-free 版本的 GOG 商店，也就是它<a href="https://venturebeat.com/2018/07/18/myarcade-micro-player-cabinets-are-cute-affordable-gift-items/" target="_blank"><u>实际上是盗版游戏</u></a>——盗版者将 DRM-free 版本重新打包，以 Ace Media Group LLC 公司的名义在亚马逊上架销售。重新打包的版本留下了 GOG 特定的元数据文件和  GOG Galaxy 客户端文件 Galaxy64.dll。亚马逊回应称相关游戏已经移除。
+➜智能手表探测到心搏骤停后能发出紧急求助
+https://www.solidot.org/story?sid=57256	20140
+消费者对可穿戴设备喜好无常，他们一开始充满热情，然后热情一过就抛掷脑后了。创业公司 iBeat Heart Watch 认为消费者会一直佩戴他们的智能手表 <a href="https://www.ibeat.com/" target="_blank"><u>iBeat</u></a>。iBeat 的传感器会在检测到心搏骤停迹象后能<a href="https://spectrum.ieee.org/the-human-os/biomedical/devices/this-smart-watch-detects-cardiac-arrest-and-summons-help" target="_blank"><u>发出紧急求助</u></a>。手表显示屏会首先询问用户是否感觉还好，如果用户按下了否定的答案，它会向用户的紧急联系人发去警告，并通知 iBeat 调度办公室，办公室可以拨打紧急救援电话。该智能手表针对的是有心脏问题的用户。
+➜Windows 10 将支持闰秒
+https://www.solidot.org/story?sid=57257	25497
+<div align="center"><img src="//img.solidot.org/0/619/lieLIvPMp56o.gif" align=""><br>
+</div>
+<br>
+Windows 10 将<a href="https://www.thurrott.com/windows/windows-10/163548/windows-10-getting-support-leap-seconds#" target="_blank"><u>支持闰秒</u></a>。从 Windows 10 Redstone 5 和 Windows Server 2019 起，微软的操作系统将能以更精确、UTC 兼容和可追踪的方式处理闰秒。闰秒每 18 个月发生一次，是为了保持 UTC 时间与平太阳时的一致。增加闰秒通常是将当天 23:59:59 的下一秒记为 23:59:60，然后才是第二天的 00:00:00，如图所示，Windows 10 将会显示额外的一秒，而不是直接跳到下一秒。微软的 Windows 10 成为第一个完整支持闰秒的操作系统。
+➜神经元互联网
+https://www.solidot.org/story?sid=57258	26956
+阿帕网、互联网、务联网、物联网、技能互联网..接下来会是什么？英国伦敦国王学院的两名研究人员在预印本网站发表论文，认为未来 15 年到 20 年，世界将会迎来<a href="https://arxiv.org/pdf/1807.06077.pdf" target="_blank"><u>神经元互联网</u></a>，一种全新的互联网范式，人脑将能与网络直接双向连接。研究人员推测神经元互联网将在 2038 年部署，他们认为访问无限的信息将能带来巨大的机会，将赋权科技行业之外的所有人，事实上赋权所有人类，因为每个人都互联，即使他们没有笔记本电脑、平板电脑或智能手机，也能访问和使用科技产品和服务。神经元互联网将能最终完成目前还不成熟的知识和技术的民主化。但它也带来巨大的挑战，尤其是安全和隐私信任方面的挑战。研究人员以类似黑镜等电视剧刻画的情节为例指出，神经元互联网对隐私的影响也可能是可怕的。他们承认论文没有解决房间里的大象。
+➜金钱影响气候变化立法
+https://www.solidot.org/story?sid=57259	28446
+气候游说是门大生意。根据发表在《Climatic Change》期刊上的<a href="https://link.springer.com/article/10.1007%2Fs10584-018-2241-z" target="_blank"><u>一项研究</u></a>，从 2000 到 2016 年，游说者花了超过 20 亿美元来<a href="https://phys.org/news/2018-07-money-climate-legislation.html" target="_blank"><u>影响美国国会的相关立法</u></a>。可能受到法案负面影响的部门，如电力、化石燃料和运输行业投入的游说费用最多。Drexel 大学的 Robert J. Brulle 分析了 Open Secrets 网站上公布的强制要求的游说报告数据。根据他的计算，20 亿美元气候变化游说仅相当于同期 5,550 亿美元总游说支出的 3.9%。研究还发现，气候变化游说的年度开支有较大差异，最多的一年是 2009 年花了 3.62 亿美元，而  2000 年到 2006 年之间只花了 5000 万美元。在 16 年间，电力行业花了 5.54 亿美元，化石燃料行业花了 3.7 亿美元，运输行业花了 2.52 亿美元。相比之下，环境组织和可再生能源部门的游说费用只占气候游说支出的 3%。
+➜以色列国防公司演示自杀性无人机
+https://www.solidot.org/story?sid=57260	30196
+以色列航空工业公司（IAI）<a href="https://arstechnica.com/information-technology/2018/07/israeli-defense-firm-demos-kamikaze-drone-bomb-that-can-be-called-off/?comments=1" target="_blank"><u>演示了</u></a>它的四旋翼无人机 Rotem UAS，它具有空中监视的功能，还携带了炸药能变成一种空中制导武器。Rotem 能折叠成 38 英寸长、7 英寸宽和 5 英寸高。无人机具有多种自动化功能，能自动起飞和着陆，能紧急返回，能导航到给定的一组坐标，能在不需要操作人员的指令下跟着预定的路线。在目标设定之后它还能自动观测和攻击。如果攻击取消它还能关闭弹头。这不是第一种能自主攻击的无人机，IAI 的 Harpy 无人机能自主攻击雷达系统。Harpy 是固定翼无人机，而四旋翼的 Rotem 要更灵活，机动性也更高。
+➜《英雄联盟》的反作弊方法
+https://www.solidot.org/story?sid=57261	37852
+反作弊是一种不断升级的军备竞赛。作为最受欢迎的 MOBA 类型游戏之一，《英雄联盟》是如何反作弊的？游戏开发商 Riot Games 发表官方博客，由前作弊工具开发者、现反作弊工作组成员谈论《英雄联盟》的<a href="https://engineering.riotgames.com/news/riots-approach-anti-cheat" target="_blank"><u>反作弊方法</u></a>。Michael “Perma” VanKuipers 曾花了超过十年时间为多个游戏开发了作弊工具，期间成为了至少一家大型游戏工作室的眼中钉。他现在在 Riot 的反作弊团队工作，帮助工作室抵御来自脚本、机器人程序和漏洞的攻击。他称，反作弊的三个重要原则是：预防，检测和威慑。
+➜中国风投基金在硅谷崛起
+https://www.solidot.org/story?sid=57262	40674
+过去 2 年，中国对美投资大幅减少，但同一时期，中国风投资本在硅谷<a href="http://www.ftchinese.com/story/001078559" target="_blank"><u>经历了一次前所未有的投资热潮</u></a>。根据荣鼎咨询的数据，今年 1 月到 5 月，中国风投基金共达成了 24 亿美元的投资交易，并有望把去年创造的对美风险投资纪录提高一倍。这些中国风投基金以通信技术和生物科技为重点，它们是在特朗普政府加大力度阻止中国获得美国敏感技术的背景下取得成功的。这些风投规模较小，因此遭遇的阻力也小。在顶尖的民营企业中，腾讯等互联网和科技公司参与了一些美国初创企业的融资轮。总部位于北京、与清华大学有关联的青云创投以电池技术等作为对美投资重点领域，投资了无线充电初创公司 Wibotic 等。国有的汽车制造商上汽在硅谷成立了风投部门，目前已投资美国的一些运输、测绘和能源公司。
+➜视频显示搭配英特尔 Core i9 的 MacBook Pro 存在热保护问题
+https://www.solidot.org/story?sid=57263	42980
+苹果上周发布了新款 MacBook Pro 笔记本电脑，其中一款 15 英寸型号支持英特尔 6 核 2.9GHz Core i9 处理器。但用户在使用过程中发现它的性能由于散热问题<a href="https://hardware.slashdot.org/story/18/07/18/0515229/video-raises-concerns-about-excessive-thermal-throttling-on-2018-macbook-pro-with-intel-core-i9" target="_blank"><u>而受限严重</u></a>，以至于 2018 年款 Core i9 MacBook Pro 使用 Premiere Pro 渲染相同的视频所需时间比用 2017 年款  Core i7 还要长。当用户将电脑放置到冰箱冷冻室中，Core i9 终于发挥了它的全部性能，渲染性能也终于打败了旧型号。YouTube 主播 Dave Lee 制作了<a href="https://www.youtube.com/watch?v=Dx8J125s4cg" target="_blank"><u>视频</u></a>演示了这一过程。这则视频的浏览量突破了 60 万次。
+➜用噬菌体杀死抵抗抗生素的细菌
+https://www.solidot.org/story?sid=57264	45341
+由于滥用，很多抗生素正逐渐失效，无法再抵御潜在致命的感染。为了应对抵抗抗生素的超级细菌，人们正在寻找各种方法，其中一种方法是利用病毒杀死导致感染的细菌。能感染细菌的病毒通常被称为噬菌体。噬菌体的一个有利之处是相比会杀死许多种细菌的广谱抗生素，噬菌体只杀死一种细菌或菌株，因此能减少细菌产生抗性的风险。但噬菌体如何输送至感染部位仍然是一大挑战。现在，乔治亚理工学院的研究人员在《Nature Biomedical Engineering》期刊上发表<a href="https://www.nature.com/articles/s41551-018-0263-5" target="_blank"><u>论文</u></a>，<a href="http://www.ebiotrade.com/newsf/2018-7/2018718160341623.htm" target="_blank"><u>展示了</u></a>一种能选择性攻击有害细菌的新型递送技术。这是一种含有噬菌体的干燥、多孔微粒，在动物实验中，噬菌体涂层聚合物颗粒成功地治愈了感染肺炎的小鼠，并显著降低了囊性纤维化动物模型体内的细菌水平。下一步，他们将在大型动物和经常患有肺部感染的人类体内测试这种微粒递送技术。
+➜研究认为鱼油并不能防止心脏病
+https://www.solidot.org/story?sid=57265	45856
+摄取 “欧米伽－3”（omega-3）鱼油保健品是保护心脏简单有效的方法？专家<a href="https://www.bbc.com/zhongwen/simp/science-44872836" target="_blank"><u>指出</u></a>，能证明这一说法的证据说服力非常有限。研究人员研究了 10 万个参与试验的人，发现鱼油能防止心脏病的证据非常少。他们表示，通过摄入 “欧米伽－3” 而得到切实益处的机会只有千分之一。不过，吃富含脂肪的鱼仍然是值得提倡的健康饮食习惯之一。专家的说法主要针对保健品，而不是通过直接吃鱼获得的 “欧米伽－3” 成分。专家仍然相信，后者对于心脏以及总体健康还是有好处的。有专家认为与其买保健品不如买蔬菜。
+➜华为高管呼吁美国议员维护学术自由
+https://www.solidot.org/story?sid=57266	47300
+美国共和党和民主党议员上个月引用安全威胁呼吁 Google <a href="https://www.solidot.org/story?sid=56921" target="_blank"><u>重新考虑</u></a>与华为的合作关系，国会议员还致函教育部呼吁调查美国大学与华为的研究合作关系。华为轮值主席徐直军 (Eric Xu) 在《金融时报》上发表文章，<a href="https://www.scmp.com/tech/article/2156042/top-huawei-executive-calls-open-minded-us-political-leaders-ensure-academic" target="_blank"><u>呼吁</u></a>美国议员“开放思想”维护学术自由。徐直军称他试图强调学术自由作为现代大学的一个基本特征的重要性，学术自由是科技发展的基础，是培养下一代人才的基础，是高等教育的基础，免于政治干扰让美国大学能吸引全世界人才前来学习和开展研究，支撑了美国的科技领导地位。徐直军抨击美国共和党参议员 Marco Rubio 等人为无知，称他们的肉身在信息时代，但思想仍然停留在农业时代，徐直军称 Rubio 等人思想保守孤陋寡闻。

@@ -1,0 +1,107 @@
+➜浦发银行，请给我们一个解释！
+https://www.solidot.org/story?sid=38892	7112
+<a href="mailto:wxy@linux.cn">linux</a> 写道 "2014年3月24日，浦发银行对其网上银行安全控件进行了全面升级，<a target="_blank" href="http://linux.cn/article-2763-1.html"><u>移除了对Linux的支持</u></a>。<br>
+<br>
+多年以来，浦发银行的个人网银，由于其良好的兼容性，而备受好评。浦发银行也曾在<a href="http://openbanks.info/" target="_blank" style="word-wrap: break-word; color: rgb(0, 51, 102); text-decoration: none;">网上银行兼容性列表</a>上处于“当仁不让”的地位，并获得“三年化碧”的殊荣，一直都是众多非 Windows 平台用户的首选。（当然，现在由于苹果用户和非IE内核浏览器用户越来越多，已经有不少银行也改善了其网银的兼容性，但兼容 Linux 系统的网银仍然屈指可数。）而现在，浦发银行一下子跌落到了“自郐以下”了。我当年也是因为浦发网银兼容 Linux 系统，才特意开的浦发银行的账户。但是，此次升级后，我却无法像以前那样正常登录网银了，看着网页上的“暂不支持此系统”，不知所措。而我事先没有收到任何相关通知！我个人觉得，这至少已经是浦发银行对用户的一种不尊重了！
+<br>
+<br>
+<p></p>
+也许有网友会说，网站上事先已经通知过了。但是，看看浦发的公告，并没有涉及任何有关将暂不支持或不再支持 Linux 系统的内容！
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<br>
+浦发网银在IE浏览器上早就要用控件了，为了进一步加强了安全性（真的能起到作用么？），此次升级之后，Windows 系统上，其他浏览器也需要用控件才能登录。所以，在 Windows 系统上访问浦发网银，会要求安装控件。（有网友说，Mac OS X 上也登录不了了，但客服称，是支持苹果的。）既然你已经实现了，这也无可厚非，毕竟是为了用户安全着想。但是，检测到 Linux 系统，就直接告诉用户不支持，这是什么道理？又不是刚开始用控件，以前 Linux 系统也一直不用控件，不也照样正常登录么？
+<br>
+<br>
+<p></p>
+出于疑问，我昨天给浦发银行客服打了电话，对方态度很好，但也只能帮我确认了一下，目前不支持 Linux 系统。
+<p></p>
+<br>
+然后，又有网友说什么，企业会考虑用户的总体需求，做出取舍；升级是银行的自由，用户也有选择其他银行的自由。我对此只能呵呵了。不顾小部分用户的需求和感受，把他们一脚踢开，这就是所谓的自由？还有点消费者权益保障意识么？
+<p></p>
+还有网友觉得，开发 Linux 版控件，会增加成本，而 Linux 用户太少，不值得。先不说开发 Linux 版控件的成本问题（Linux 程序员表示这个实在太好笑了！），我们并没有要求你浦发银行开发 Linux 版控件啊。看当前的互联网大厂们，也不过支付宝提供了 Linux 版控件。而百付宝等都是检测到 Linux 系统的话，就不要求使用控件。浦发银行之前不也是一直这样做的么？
+<p></p>
+<br>
+原本，我以为，这次升级之后，没有控件就无法登录，而目前没有 Linux 版控件，所以浦发网银就直接说不支持。但是，有网友发现，将浏览器 User Agent 更改成移动浏览器的，就可以不用控件，跟以前 Linux 系统一样，正常登录网银了！例如：Mozilla/5.0 (Android; Mobile; rv:28.0) Gecko/26.0 Firefox/28.0 或 Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/32.0.1700.20 Mobile/11B554a Safari/9537.53 等等。
+<p></p>
+<br>
+啊喂！什么意思啊？封杀 Linux 用户不成？还是说手抖了，不小心把 Linux 给封掉了？或者说，漏掉处理移动浏览器了？今天晚上又给客服反映了一下，希望能让 Linux 用户继续正常使用。不知道客服反馈了之后，浦发网银是会放开 Linux 系统，还是干掉移动浏览器，亦或是维持现状。
+<p></p>
+<br>
+无论结果如何，我已经做好了用脚投票的准备。你不仁，就别怪我不义。似乎现在建设银行、平安银行和兴业银行的网银都支持 Linux 系统了，不知道哪家的更给力一些，可能要亲自体验一番了。"
+➜海洋垃圾增加搜寻飞机残骸难度
+https://www.solidot.org/story?sid=38893	8690
+针对失踪马来西亚班机的搜寻工作一直以关于南印度洋偏远海域漂浮物的模糊卫星图像和其他观测发现为重心。截至目前，人们尚未找到或识别出其中的任何物体。这些东西可能是飞机残骸，然而就连领导370航班搜寻工作的官员也承认，它们可能是与飞机无关的其他东西。研究海洋垃圾的人说，所谓的“其他东西”可能是任何东西。研究海洋垃圾的海员Charles
+Moore说，“<a target="_blank" href="http://cn.nytimes.com/science/20140326/c26debris/"><u>数量巨大的垃圾会对任何搜索和救援工作造成阻碍</u></a>”。他说即使卫星图像拥有相对高的分辨率，“人造物体的碎片也会让你困惑。”研究表明，漂浮在海面的东西有五分之四都来自陆地：遗弃在海滩上或者经由河流或雨水沟流入海里的垃圾和废弃物。
+➜GNOME 3.12发布
+https://www.solidot.org/story?sid=38894	10808
+桌面环境GNOME项目正式发布了<a target="_blank" href="http://www.gnome.org/news/2014/03/gnome-3-12-released/"><u>GNOME 3.12</u></a>。新版引入了大量新功能、改进和bug修正，<a target="_blank" href="https://help.gnome.org/misc/release-notes/3.12/"><u>其中包括</u></a>加入了应用程序文件夹，改善了系统状态和高分辨率显示器支持，改进了启动时间和资源利用效率，全新的视频、编辑、录音和聊天应用程序，gedit文本编辑器大幅更新等等。对终端用户来说，软件方面的更新包括：三款预览应用程序：IRC客户端Polari、录音工具Sound Recorder和检测软件日志的系统工具Logs；更新了游戏的窗口布局；照片应用加入了搜索功能；等等。
+➜WTO裁决中国限制稀土出口违反贸易规则
+https://www.solidot.org/story?sid=38895	12928
+WTO（世贸组织）周三<a target="_blank" href="http://www.wto.org/english/tratop_e/dispu_e/cases_e/ds431_e.htm#bkmk431r"><u>做出裁决</u></a>，中国限制稀土材料出口<a target="_blank" href="http://arstechnica.com/business/2014/03/chinas-restrictions-on-rare-earth-metal-export-is-unlawful-wto-says/"><u>违反了国际贸易规则</u></a>。稀土元素如镨、铈和钕是现代技术的关键材料，从光纤到风力涡轮机到智能手机，稀土元素都是无处不在，中国是世界最大的稀土供应国，2010年开始限制出口，美国、欧盟和日本于2012年向WTO提出申诉。中国表示，限制稀土材料出口是出于环保考虑，但它并没有严格执行环保法律。WTO的裁决称，它发现中国限制出口是为了实现行业政策的目标，而不是为了环保，中国并没有同时限制本国的稀土使用，它限制出口其实是为了鼓励本国制造业优先使用稀土材料。中国对稀土出口的限制提高了价格，也迫使日美等稀土进口大国寻找替代供应来源，稀土并不是地球稀有的矿藏。
+➜百万下载量应用程序悄悄利用用户设备挖莱特币和狗币
+https://www.solidot.org/story?sid=38896	14704
+<div align="center"><img src="http://img.solidot.com.cn/0/52/lifrhUdxPXhNY.png" align=""><br>
+<br>
+</div>
+趋势科技研究人员Veo Zhang <a target="_blank" href="http://blog.trendmicro.com/trendlabs-security-intelligence/mobile-malware-mines-dogecoins-and-litecoins-for-bitcoin-payout/"><u>报告</u></a>，他们发现两款通过官方市场Google Play传播的应用程序，在不告知用户的情况下悄悄利用用户设备挖莱特币和狗币。莱特币和狗币都属于比特币的山寨币。其中一款应用程序 <a href="https://play.google.com/store/apps/details?id=com.originalsongs321">Songs</a>安装量一百万到五百万之间，另一款<a href="https://play.google.com/store/apps/details?id=com.socialtokenmobile.prized.android">Prized</a>安装量在一万到五万之间，它们都没有在服务条款和描述中提到会利用用户设备从事计算密集型任务如挖莱特币和狗币。这两款应用至今都没有下架。研究人员指出，移动设备并不是高效的矿机，挖矿会导致设备过热，用户会很快注意到程序的异常行为。但应用程序的开发者确实很狡猾，他们的矿机程序只在充电时激活，减少用户发现的可能性。
+➜工商银行向阿里巴巴宣战
+https://www.solidot.org/story?sid=38897	15863
+过去几年，阿里巴巴、腾讯等网络公司开始侵占传统上由国有银行占领的地盘。两公司实现这一目的的途径是提供移动支付服务，以及提供回报水平高于国有银行存款利率的互联网金融产品。而国有银行也展开了反击。本周，余额宝用户报告，他们把钱从工商银行账号转到余额宝上时出现困难。工商银行是中国资产规模最大的银行。出现这种情况之后，工商银行告知客户，该行调低了这类转账操作的限额。支付宝方面则称，这些限制措施都是工商银行强加的，让客户去找工商银行的服务热线。随着勇于竞争的中国互联网产业遭遇了由国有企业牢牢占据垄断地位的银行业，这种局面可能很快发生变化。虽然马云不乏政府高层的朋友，<a target="_blank" href="http://cn.wsj.com/gb/20140327/rec082219.asp"><u>但中国最大银行的头头们同样拥有巨大权力</u></a>。
+➜央行禁止金融机构服务于比特币交易
+https://www.solidot.org/story?sid=38898	16950
+<p>
+</p>
+<p></p>
+<center style="text-align: left;">财新网<a target="_blank" href="http://finance.caixin.com/2014-03-27/100657253.html"><u>报道</u></a>，央行于3月中旬向央行各分支机构下发了一份名为《关于进一步加强比特币风险防范工作的通知》，要求各银行和第三方支付机构，关闭十多家境内的比特币平台的所有交易账户。通知提到的比特币平台包括：比特币中国、火币网、Okcoin、Fxbtc、比特币交易网、中国比特币、btc100、比特儿、808比特币、比特时代、牛币网、比特币国际、天和比特币、42btc、btc star。其中火币网仍然是Bitcoinity.org上<a target="_blank" href="http://bitcoinity.org/markets/list?currency=ALL&amp;span=24h"><u>交易量最大</u></a>的平台，而Okcoin最近<a target="_blank" href="http://www.solidot.org/story?sid=38772"><u>宣布融资</u></a>千万美元。央行再次强调，现有开户限期在4月15日前清理完毕。这意味着金融机构为比特币网站平台的交易账户开户为不合法，除非现金交易，比特币的投资者无法在中国境内为交易进行银行转帐、第三方支付，力度空前。业内人士称，假如各商业银行和第三方支付机构关闭这些平台的所有账户，等于变相要求这些平台在境内关闭。“这种情况下，平台只有一条活路，就是将平台彻底搬到国外去，连接国外的第三方支付和银行。但中国规定每人每年只可换等值5万美元的外汇，这样一来，国内那些百万级的大客户就没法合规交易了。”业内人士表示。<br>
+</center>
+<p></p>
+<p>截至2014-03-28 11:30AM 比特币交易价格的反应:</p>
+<p><a href="http://btckan.com/chart/0" target="_blank" title="btckan:比特币价格"><img src="http://img.solidot.com.cn/0/135/lisHkUrjZ2F1g.png"></a><br>
+</p>
+➜反暴力游戏的华裔参议员因腐败和军火交易指控被捕
+https://www.solidot.org/story?sid=38899	18340
+提议禁止向青少年出售暴力游戏的加州民主党华裔参议员余胤良（Leland Yee）因涉嫌非法买卖军火及腐败罪被FBI<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/03/140327_us_fbi_raid_san-francisco.shtml"><u>拘捕</u></a>。FBI周三在余胤良位于旧金山的家中将其拘捕。他被戴上手铐并被送往联邦法院。余胤良的被捕令华裔社区感到震动，因为余胤良参议员被视为旧金山华裔社区领袖和当地政坛支柱人物。<a target="_blank" href="http://media.nbcbayarea.com/documents/complaint_affidavit_14-70421-nc.pdf"><u>法庭文件</u></a>（PDF）显示，FBI探员证词指控余胤良涉嫌无证进行枪械交易和非法进口枪支。法庭文件指控称，余胤良曾与FBI特工讨论非法进口价值50万美元至250万美元的军火，包括肩抗式自动武器和导弹。FBI特工的宣誓证词指控说，余胤良与他讨论了如何从菲律宾穆斯林分裂团伙手中获得相关军火，并把它们带入美国的整个过程。余胤良对自己的人生不满，他声称希望躲到菲律宾去。该证词提到了余胤良和另外25个人，其中包括余胤良的竞选助手基思·杰克逊（Keith Jackson），以及前黑帮头目、旧金山唐人街洪门致公总堂老大的周国祥（Raymond Chow，外号“虾仔”）。
+➜Mozilla新CEO向同性恋群体示好
+https://www.solidot.org/story?sid=38900	25235
+Mozilla新上任的CEO Brendan Eich因为在2008年向加州<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E8%E5%8F%B7%E6%8F%90%E6%A1%88_%282008%E5%B9%B4%29"><u>反同性恋婚姻提案</u></a>及提案支持者分别捐款1000美元和2100美元，而受到了广泛的<a target="_blank" href="http://www.solidot.org/story?sid=38879"><u>批评</u></a>。他在个人博客上<a target="_blank" href="https://brendaneich.com/2014/03/inclusiveness-at-mozilla/"><u>发表声明</u></a>，对其行为产生的后果表示懊悔，同时向同性恋群体示好，承诺会身体力行的在Mozilla致力于推动平等和欢迎每一位同性恋（LGBT）。Eich称，没有领导者或普通人应该享受特权地位。
+➜Full Disclosure邮件列表复活
+https://www.solidot.org/story?sid=38901	28127
+上周，Full-Disclosure创始人John Cartwright突如其来的<a target="_blank" href="http://www.solidot.org/story?sid=38793"><u>宣布关闭</u></a>邮件列表，许多人对此感到震惊和遗憾，其中就包括了Nmap开发者Fyodor。他<a target="_blank" href="http://insecure.org/news/fulldisclosure/"><u>宣布</u></a>正着手复活Full-Disclosure。Fyodor解释他的理由，许多人相信邮件列表已经过时，安全研究人员现在只需要通过Twitter公布托管在Pastebin或公司网站上的安全公告链接就行了。他对此并不赞同，认为邮件列表能创造更为长久的记录，它的去中心化属性也更不容易受到审查或纂改。Fyodor表示，新的邮件列表将是厂商中立，由安全社区管理，也是面向安全社区。志愿性质的管理团队将从活跃用户中挑选。和旧的邮件列表一样，将设立一个公共论坛用于漏洞和漏洞利用技术的详细讨论。Fyodor说，安全研究人员有权利如何披露发现的bug，<a target="_blank" href="http://en.wikipedia.org/wiki/Full_disclosure"><u>全面披露运动</u></a>迫使厂商更重视产品的安全，公开承认和修补漏洞，而不是隐藏漏洞，“厂商的法律恐慌和审查企图将不会被容忍。”
+➜中国拘留银行挤兑事件“造谣者”
+https://www.solidot.org/story?sid=38902	28850
+江苏射阳农村商业银行发生了为期三天的挤兑事件，银行挤兑<a target="_blank" href="http://cn.reuters.com/article/CNAnalysesNews/idCNCNEA2Q0C720140327?pageNumber=2&amp;virtualBrandChannel=0&amp;sp=true"><u>源于一则传闻</u></a>，该传闻称江苏射阳农村商业银行拒绝了一位客户提取20万元人民币的要求。中国银行业协会周三发布<a target="_blank" href="http://www.china-cba.net/bencandy.php?fid=75&amp;id=12449"><u>一份声明</u></a>，宣称受到挤兑的江苏射阳农村商业银行财政状况良好，毫无倒闭风险。中国银行业协会用这样的姿态维护一家银行是很少见的。在该协会干预之前，恐慌情绪正显示出继续扩散的苗头，另一家小型银行黄海农村商业银行也遭挤兑。警方<a target="_blank" href="http://www.ftchinese.com/story/001055483#adchannelID=1100"><u>拘留了</u></a>一位涉嫌制造银行倒闭谣言的人士。目前，当地政府已发誓要打击这些散播银行问题谣言的人士。
+➜天文学家在冥王星外发现第二颗矮行星
+https://www.solidot.org/story?sid=38903	32049
+<div align="center"><img src="http://img.solidot.com.cn/0/128/li1y26NnQmM7Q.jpg" align=""><br>
+<br>
+</div>
+经过10年的搜索，天文学家在冥王星外围发现了<a target="_blank" href="http://news.discovery.com/space/astronomy/small-world-discovered-beyond-pluto-140326.htm"><u>第二颗矮行星</u></a>。天文学家<a target="_blank" href="http://news.nationalgeographic.com/news/2014/03/140326-dwarf-planet-2012-vp113-astronomy/"><u>怀疑</u></a>，柯伊伯带可能还隐藏着更大更重的天体。冥王星之外发现的第一颗矮行星Sedna是在2003年发现的，新发现的类行星天体编号<a target="_blank" href="http://www.minorplanetcenter.net/mpec/K14/K14F40.html"><u>2012 VP 2113</u></a>，其直径约为450公里，不到Sedna的一半，与太阳的最近距离是80个天文单位，最远距离是452个天文单位，1个天文单位是地日平均距离。相比之下，冥王星直径2368公里，是至今发现的柯伊伯带最大天体，距离太阳 30 - 49个天文单位，VP 2113与太阳的距离是冥王星的2到20倍。<a target="_blank" href="http://www.nature.com/nature/journal/v507/n7493/full/nature13156.html"><u>研究报告</u></a>发表在最新的《自然》期刊上。
+➜彭博扣押的中国调查报告与大连万达有关
+https://www.solidot.org/story?sid=38904	33138
+<div align="center"><img src="http://img.solidot.com.cn/0/130/liaJepJZbf5k.jpg" align="" height="241" width="360"><br>
+<br>
+</div>
+为了避免与中国进一步交恶，彭博资讯去年<a target="_blank" href="http://cn.nytimes.com/china/20140326/c26bloomberg/"><u>扣押了</u></a>一篇与大连万达有关的中国调查报告，导致多名调查记者和资深编辑离职。大连万达集团创始人<a target="_blank" href="http://en.wikipedia.org/wiki/Wang_Jianlin"><u>王健林</u></a>是中国首富，资产高达142亿美元。几位彭博的雇员称，纽约的高级编辑去年10月决定不刊登这篇文章，因为他们不愿冒着被逐出中国大陆的风险，去激怒共产党高官。彭博的自我审查引发了广泛争议，据称中国因为彭博2012年的一篇报道而下令减少了彭博终端的采购。彭博终端是彭博最主要的收入来源。<a target="_blank" href="http://www.theatlantic.com/international/archive/2014/03/bloomberg-in-china-its-not-about-the-terminals-its-about-the-data/359655/"><u>一位公司内部人士称</u></a>，扣押调查报告的最主要理由不是在中国销售终端，而是数据，数据是终端最有价值的部分，彭博担心它将无法访问中国的经济指标和统计数据等金融信息。
+➜天文学家发现第一颗有环的小行星
+https://www.solidot.org/story?sid=38905	35760
+<div align="center"><img src="http://img.solidot.com.cn/0/131/lixKC89x0JlVw.jpg" align="" height="263" width="420"><br>
+<br>
+</div>
+ESO智利La Silla天文台等南美天文观测机构意外发现小行星Chariklo<a target="_blank" href="http://www.eso.org/public/news/eso1410/"><u> 被两个致密而狭窄的环包围着</u></a>。它是至今发现的太阳系最小的也是第五个有环天体——其它几个分别是庞大的行星木星、土星、天王星和海王星。行星环的起源仍然是一个谜，天文学家推测可能是碰撞形成的碎片盘。研究报告发表在最新一期的《自然》期刊上。Chariklo直径约为250公里，两个环分别宽7公里和3公里，间隔9公里，它们临时以巴西的两条河流 Oiapoque 和 Chuí命名。
+➜雾霾险被叫停
+https://www.solidot.org/story?sid=38906	37126
+<span style="line-height: 1.538em;">中保监财产保险监管部下令，<a target="_blank" href="http://www.nanzao.com/sc/china/23987/jing-kong-qi-wu-ran-zhi-chuang-xin-gao-zhuan-shu-wu-mai-xian-bei-jiao-ting"><u>要求暂停销售雾霾险</u></a>。</span><span style="line-height: 1.538em;">中国平安及中国人保本月推出雾霾险产。</span><span style="line-height: 1.538em;">平保的雾霾险专项承保肺癌，为特定呼吸系统疾病提供每日10元至100元的住院津贴。条款包括一旦空气质量指数(AQI)连续7日逾300以上，保费超过100元的投保人将获相关身体检查。</span><span style="line-height: 1.538em;"></span>北京已连续四天处于重度污染水平，天气预报预测雾霾将于28日起逐渐散去，29日恢复到良好状态。 保监会相关人士称，保监会认为，雾霾险与保险本质相悖，不再是保险产品，更像是博彩。保险产品要满足两大原则，一是要有可保利益，二是要符合大数法则。而雾霾险两条都不符合。报道同时指出，中国平安推出的平安雾霾健康险，严格意义上来说，则更像是健康险中附加雾霾的内容。
+➜从NSA的间谍技术看美国对华为的猜疑
+https://www.solidot.org/story?sid=38907	40596
+《纽约时报》和德国《明镜》披露了<a target="_blank" href="http://www.solidot.org/story?sid=38840"><u>NSA对华为的间谍活动</u></a>，其中《纽约时报》的报道透露了相当多的技术细节。NSA入侵华为一是为了寻找华为与解放军存在联系的证据，二是寻找华为在硬件中可能嵌入的后门，以及寻找安全漏洞，因为华为是第二大电信设备供应商，获得漏洞情报将能便于NSA在世界范围内展开刺探行动。非营利组织U.S. Cyber Consequences Unit的首席技术官John Bumgarner根据NSA使用的间谍技术<a target="_blank" href="http://spectrum.ieee.org/tech-talk/computing/hardware/us-suspicions-of-chinas-huawei-based-partly-on-nsas-own-spy-tricks"><u>反推美国如何猜疑华为</u></a>。NSA的Tailored Access Operations部门在2010年成功渗透进了华为深圳总部的服务器，而早在2008年NSA就在华为的部分硬件防火墙和路由器中安装了软件后门。NSA和CIA联合攻击华为产品的行动代号为Turbopanda，其中一个路由器软件后门植入代号为Headwater，硬件防火墙后门植入代号为Halluxwater，Headwater和Halluxwater都安装在硬件的引导ROM中。NSA所利用的华为硬件弱点基本展现了美国长期以来对华为硬件的怀疑之处。美国不可能一一检查华为供应的每一个硬件，它可以在某些设备中嵌入恶意组件，然后通过后续的固件更新激活。Bumgarner指出，此类的修改是几乎不可能被识别出的。
+➜FAA要求波音更新飞行软件
+https://www.solidot.org/story?sid=38908	41795
+美国联邦航空管理局（FAA）<a target="_blank" href="http://www.reuters.com/article/2014/03/26/us-usa-aerospace-boeing-idUSBREA2P0Q420140326"><u>命令</u></a>波音公司立即修复747-8型飞机的软件故障问题，并称其可能导致飞机接近着陆时失去推力，导致坠机。指令要求波音公司改进旧版本中有缺陷的操作软件至一个更新版本。FAA局说，这已是涉及波音747-8的第四次更正指令，直接影响到7架在美飞机。如果该指令被扩展至全球范围，将覆盖更大范围的维修数量。波音公司的网站上说，该型客机在全球范围中售出66台，是其自2011年10月推出以来的最大一笔销售单。波音<a target="_blank" href="http://www.nanzao.com/sc/international/23971/cun-zhui-ji-feng-xian-mei-yao-qiu-bo-yin-geng-xin-fei-xing-ruan-jian"><u>则表示</u></a>，问题从来没有在飞行中引起麻烦，去年已建议其客户更新软件，相信大多数运营商已经这样做了。波音公司表示，故障风险“微乎其微” 。 <br>
+➜比特币矿工想要挖出十分之一的新币
+https://www.solidot.org/story?sid=38909	45004
+<div align="center"><img src="http://img.solidot.com.cn/0/132/liwsoOleZe6U.jpg" align="" height="289" width="320"><br>
+</div>
+Ars的一篇<a target="_blank" href="http://arstechnica.com/information-technology/2014/03/meet-the-manic-miner-who-wants-to-mint-10-of-all-new-bitcoins/"><u>文章</u></a>讲述了美国专业比特币矿工Dave Carlson和他的挖矿公司<a target="_blank" href="https://megabigpower.com/"><u>MegaBigPower</u></a>。他的目标是在任意给定时间，他的矿机大军能挖出7%到10%的新币。目前这一目标还没达成，而最大矿池ghash.io占到了<a target="_blank" href="https://blockchain.info/pools?timespan=4days"><u>整个比特币网络算力</u></a>的28%，也就是大约28%的新币是ghash.io挖出的。Carlson的矿机共有使用了140多万<a target="_blank" href="http://www.bitfury.org/"><u>BitFury芯片</u></a>，用安装定制软件的 Raspberry Pi迷你电脑管理。每台矿机有16个电电路板，每个电路板包含了16个BitFury芯片，每台矿机总共有256个挖矿芯片，未来的新矿机将有756个芯片。BitFury是ASIC芯片，专门为挖矿设计，它只能做一项任务，但相比CPU、GPU和FPGA，它的工作效率要高得多。Carlson本人有5000比特币，不包括被MtGox吞掉的1100比特币，价值约290万美元，他很少将比特币用于消费。

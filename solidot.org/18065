@@ -1,0 +1,45 @@
+➜WireGuard for Windows 发布首个版本
+https://www.solidot.org/story?sid=61019	12813
+WireGuard 作者 Jason Donenfeld <a href="https://lists.zx2c4.com/pipermail/wireguard/2019-May/004126.html"><u>宣布</u></a>发布首个 Windows<a href="https://www.wireguard.com/install/" target="_blank"><u> 测试版本</u></a>。他称这个版本是 pre-alpha，也就是软件还不完整，很多安全相关的功能还没有完成，性能也没有优化。但它已经有了足够的功能，释出这个版本主要是测试和听取反馈。WireGuard 是一种新兴的 VPN 实现，配置比 OpenVPN 等更简单。它已经支持 Linux，Android、BSD 和 macOS。
+➜俄罗斯警告网络战争
+https://www.solidot.org/story?sid=61020	14061
+在纽约时报披露美国网络战部队入侵俄罗斯电网部署恶意程序之后，克里姆林宫<a href="https://arstechnica.com/information-technology/2019/06/russia-warns-that-reported-us-attacks-on-its-power-grid-could-trigger-cyberwar/#p3"><u>警告</u></a>美国的数字入侵可能会触发两国之间的网络战争。纽约时报上周末报道称，美国网络战司令部去年从国会获得了授权，其战略从防御转为进攻。报道称，美国网络战司令部担心俄罗斯可能会在 2020 年大选期间引发关键州的选择性停电，它需要采取措施阻止此类的攻击。对于这一报道，部分分析师对此表达了怀疑。而俄罗斯总统发言人 Dmitry Peskov 通过官方塔斯社发表声明称，俄罗斯关键的经济领域持续遭到来自外国的攻击， 俄罗斯机构击退了这些攻击，防止国家经济遭到破坏。
+➜Adobe 实验性工具能区分图像是否 PS
+https://www.solidot.org/story?sid=61021	16390
+Adobe <a href="https://theblog.adobe.com/adobe-research-and-uc-berkeley-detecting-facial-manipulations-in-adobe-photoshop/"><u>官方博客说</u></a>，它的流行图像编辑软件 Photoshop 对视觉文化产生了巨大的影响，然而图像编辑的流行也带来了新的伦理方面的问题：如何辨别图像的真伪？ Adobe 的研究人员 Richard Zhang 和 Oliver Wang 与他们在加州伯克利的同事合作正在开发一种<a href="https://peterwang512.github.io/FALdetector/" target="_blank"><u>实验性工具</u></a>能区分图像是否 PS 过。鉴于 Photoshop 的 Face Aware Liquify 被广泛用于修饰脸部，该工具目前主要集中在这一功能上。他们的论文发表在 <a href="https://arxiv.org/abs/1906.05856">arXiv</a>，代码发布在 <a href="https://github.com/peterwang512/FALdetector">GitHub</a>上。Adobe 称人类在判断脸部修改上的正确率只有 53%，它的 AI 神经网络能达到 99%。
+➜捷安特称中国制造的时代结束了
+https://www.solidot.org/story?sid=61022	17812
+世界最大自行车制造商捷安特去年听到特朗普威胁对中国产品加征 25% 关税后就开始将生产从大陆转移到台湾。公司董事长杜绣珍表示，他们非常认真的对待关税威胁。她去年注意到中国制造<a href="https://www.bloomberg.com/news/articles/2019-06-17/world-s-top-bicycle-maker-says-era-of-made-in-china-is-over"><u>供应全球的时代结束了</u></a>。捷安特去年底关闭了在中国的一家工厂，将大部分美国订单转移到中国大陆之外。它将于 7 月份在匈牙利开设一家工厂，以尽可能让工厂靠近市场。捷安特目前在台湾和荷兰都各有一家工厂，在大陆仍然有 5 家工厂。杜绣珍指出，关税导致中国制造的自行车出口到美国后平均价格上涨约 100 美元。但转移生产到中国之外也是有代价的，公司将面临更高的雇员和自动化开支，也缺乏中国那样规模的供应商。捷安特希望中美能和解贸易冲突，如果 25% 关税取消，捷安特会立即将生产转移回大陆。
+➜Linux 曝出 TCP 拒绝服务漏洞
+https://www.solidot.org/story?sid=61023	19817
+Netflix 工程师在 Linux 和 FreeBSD 内核中<a href="https://github.com/Netflix/security-bulletins/blob/master/advisories/third-party/2019-001.md" target="_blank"><u>发现了多个 TCP 网络漏洞</u></a>。漏洞与最小分段大小(MSS)和 TCP Selective Acknowledgement(SACK)有关，其中最严重的漏洞绰号为 SACK Panic，允许远程对 Linux 内核触发内核崩溃。SACK Panic 漏洞编号 CVE-2019-11477，影响 2.6.29 以上版本，漏洞补丁已经发布，一个权宜的修复方法是将  /proc/sys/net/ipv4/tcp_sack 设为 0。
+➜Google 开始向 Android 用户推送 RCS
+https://www.solidot.org/story?sid=61024	25948
+Google <a href="https://www.theverge.com/2019/6/17/18681573/google-rcs-chat-android-texting-carriers-imessage-encryption" target="_blank"><u>开始直接</u></a>向英国和法国的 Android 用户提供 RCS (Rich Communication Services) 聊天服务，而不是等待期运营商支持。Google 表示会在年内向更多国家的用户提供 RCS，最终将会提供给所有 Android 用户。这代表着战略上的巨大转变，Google 不再等待运营商而是自己直接为用户提供更好的短信使用体验。RCS 的一个主要缺陷是不支持端对端加密，流行的消息应用如 iMessage、WhatsApp 和 Signal 都支持端对端加密，甚至 Facebook 也决定默认启用加密。Android Messages 的产品总监 Sanaz Ahari 承诺他们会寻找一个解决方案。
+➜细菌酶将 A 型血转变成 O 型血
+https://www.solidot.org/story?sid=61025	27576
+血型匹配是输血的一大难题，尤其是在亟需输血的情况下。根据发表在《Nature Microbiology》期刊上的<a href="https://www.nature.com/articles/s41564-019-0469-7"><u>一项研究</u></a>，研究人员<a href="https://www.sciencemag.org/news/2019/06/type-blood-converted-universal-donor-blood-help-bacterial-enzymes"><u>发现</u></a>细菌酶能将 A 型血转变成 O 型血，后者又被称为是万能血。按照血液中红细胞表面的抗原类型，人类血型常被分为 4 种。红细胞上仅有抗原 A 为 A 型，仅有抗原 B 为 B 型，两者都有为 AB 型，两者均无为 O 型。A 型血和 B 型血的人不可相互输血，否则会导致免疫系统对红细胞发起致命攻击，而 O 型血在紧急情况下可输给其他 3 种血型的人。加拿大研究人员<a href="http://news.sciencenet.cn/htmlnews/2019/6/427533.shtm"><u>发现</u></a>，一种名为 Flavonifractor plautii 的肠道细菌能产生两种特殊的酶，同时使用这两种酶可去除红细胞上的抗原 A，使 A 型血转化为 O 型血。研究人员说，让 A 型血转化为 O 型血有助扩大血液供给，缓解医疗机构普遍面临的血液短缺问题。目前还需更多研究确认使用这些细菌酶后红细胞上所有抗原 A 都被去除，且不会给红细胞带来其他不良影响。
+➜Google CEO 称 YouTube 太大无法完全清理有害内容
+https://www.solidot.org/story?sid=61026	28022
+Google CEO Sundar Pichai 接受 CNN 采访时<a href="https://www.cnn.com/videos/business/2019/06/16/google-ceo-sundar-pichai-on-fixing-youtubes-hate-and-harassment-problem.cnn-business"><u>表示</u></a>，YouTube 太大无法百分之百清理掉有害内容。他被问到是否有足够的人手去过滤和移除害内容，Pichai 称 YouTube 组合使用了机器和人类，他表示完全清除这些内容不太可能，任何大型的复杂的系统，100% 是难以实现的，总是会有漏网之鱼。比如你能达到 99%，但总是会找到漏掉的，Google 的目标是将比例降至比 1% 更小的比例。他以信用卡系统为例说，信用卡欺诈总是难以避免，所以你只能尽可能的降低百分比。
+➜章莹颖案嫌犯曾搜索人体分解
+https://www.solidot.org/story?sid=61027	30357
+美国正在审理<a href="https://en.wikipedia.org/wiki/Disappearance_of_Yingying_Zhang#Trial"><u>章莹颖绑架案</u></a>的嫌犯 Brendt Christensen，检方电脑取证鉴定师提供的证据<a href="https://news.ifeng.com/c/7nbMDrLe50y"><u>显示</u></a>，Christensen 曾下载了一篇关于连环杀手思想的学术论文；一篇关于人体分解的文章；在搜索引擎上搜索了 “美国连环杀手名单”，并访问了按受害者人数排列的连环杀手名单页面；他还下载了四张被捆绑和塞住嘴的女人的照片，并把它们放在他电脑的一个隐藏目录中；他访问了绑架游戏 “完美绑架幻想” 和 “绑架 101”；在遭到调查之后，他删除了自己的网页浏览记录和手机的位置记录。
+➜微软拆分操作系统的计划初现雏形
+https://www.solidot.org/story?sid=61028	35579
+未来有一天微软有可能真的会使用 Linux 内核。微软最近释出了预览版 Build 18917，出现了一个新的组件叫 Shell Update Agent，它能根据需要更新 Shell。它的功能对大部分用户没有什么用，但观察者从中看到了微软拆分操作系统的计划<a href="https://www.zdnet.com/article/windows-10-yields-more-secrets-microsoft-plan-to-split-os-from-shell-takes-shape/"><u>正初现雏形</u></a>。微软正试图实现操作系统模块化，使其能适应于不同的平台，从 HoloLens 增强现实设备到 Surface 笔记本电脑。微软的计划是将 Windows Core 内核部分和 Windows Shell UI 部分分离开来，根据平台需要调用 Shell，Shell 组件如 Start Menu、Action Center 和 Taskbar 可以选择性的构建。
+➜两千多年前日本曾经历人口骤减
+https://www.solidot.org/story?sid=61029	38698
+日本科学家对 Y 染色体的分析<a href="http://cn.nikkei.com/industry/scienceatechnology/36062-2019-06-18-15-54-53.html"><u>发现</u></a>，在 3200 至 2000 年前的绳文时代末期日本曾经历人口骤减。Y 染色体只由男性传递，它仅有 78 个基因，十分稳定，对特有变异的跟踪可以估算人口变化。科学家估计，日本在绳文时代末期人口骤减了约三分之一。科学家认为，原因是气候变冷导致食物减少，在农业文明从朝鲜传入后粮食供给变得稳定，人口就迅速回升了。
+➜国际和平研究所警告新一轮的核军备竞赛
+https://www.solidot.org/story?sid=61030	40983
+世界上的核大国<a href="https://www.dw.com/zh/%E5%9B%BD%E9%99%85%E5%92%8C%E5%B9%B3%E7%A0%94%E7%A9%B6%E6%89%80%E6%96%B0%E4%B8%80%E8%BD%AE%E6%A0%B8%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E5%B0%86%E5%BC%80%E5%A7%8B/a-49234066" target="_blank"><u>重新开始扩大其核武库</u></a>。据斯德哥尔摩国际和平研究所 SIPRI 的报道，尽管去年全球核弹头数量下降了 4％。与此同时，各国也在加紧其核武库的现代化建设，“核武器的数量看似减少，实际上主要是因为两个核大国淘汰了他们不再需要的武器。”全球核武器数量下降，主要归功于美国和俄罗斯在 2010 年签署的《核裁军协议》和 1987 年签署的《中导条约》。核裁军协议将于 2021 年到期，而美国已宣布退出中导条约，因此，这 2 个条约将在可预见的未来失去作用。
+➜Facebook 宣布数字货币 Libra
+https://www.solidot.org/story?sid=61031	43197
+Facebook <a href="https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/"><u>宣布了</u></a>它的数字货币、钱包和区块链。Facebook 称它新成立了一家子公司 Calibra，其目标是通过 <a href="http://www.libra.org">Libra </a> 网络向用户提供金融服务。Calibra 的首个产品是 Libra 钱包，钱包将会通过 Messenger 和 WhatsApp 以及一款独立产品提供给用户，发布时间预计在 2020 年。新的数字货币新的区块链服务，但这次由社交巨人在背后推动，它是否会改变现有的数字货币市场？感兴趣的人可以阅读  Libra <a href="https://libra.org/en-US/white-paper/"><u>白皮书</u></a>，<a href="https://github.com/libra/libra"><u>核心代码</u></a>发布在 GitHub 上，采用 Apache License 2.0 许可证。
+➜为什么马自达选择远离触摸屏
+https://www.solidot.org/story?sid=61032	45512
+如今类似平板的触摸屏界面已经无处不在，但汽车制造商马自达选择从其汽车里<a href="https://www.motorauthority.com/news/1121372_why-mazda-is-purging-touchscreens-from-its-vehicles"><u>清理掉触摸屏</u></a>。公司官员称，这不是匆忙做出的决定。他们的研究认为<a href="https://news.ycombinator.com/item?id=20200335"><u>触摸屏会影响驾驶安全</u></a>。研究发现，触摸屏会导致驾驶中分心，因为你需要在触摸时盯着触摸屏，用手去按触摸屏上的按钮还可能会无意中对方向盘施加力矩，导致汽车偏离车道。因此马自达决定移除触摸屏。马自达 3 使用抬头显示器向挡风玻璃投影显示信息。
+➜库克称科技公司需要对他们创造的混乱负责
+https://www.solidot.org/story?sid=61033	46841
+苹果 CEO 库克在斯坦福的毕业典礼演讲中称科技公司<a href="https://thehill.com/policy/technology/technology/448816-tim-cook-tech-companies-need-to-take-responsibility-for-the"><u>需要对他们创造的混乱负责</u></a>。他没有点名是哪几家公司，但提到了最近几个月科技公司，尤其是社交媒体平台，受到了严格严查。苹果是一家传统企业，销售的是软件和硬件等产品，而社交媒体平台<a href="https://apple.slashdot.org/story/19/06/17/1618237/tech-companies-need-to-take-responsibility-for-the-chaos-they-create-tim-cook-says">其实是广告公司</a>，兜售的是观点，因此无论是多么极端的观点，只要能吸引用户，都能给它们带来收入。库克说，如果你造了一座混乱工厂，你不能躲避混乱的责任。这不是库克第一次批评社交媒体公司，此前他曾就隐私和仇恨言论提出过批评。

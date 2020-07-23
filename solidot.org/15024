@@ -1,0 +1,33 @@
+➜用Droidwall软件防止你的Android软件偷跑
+https://www.solidot.org/story?sid=22563	3360
+<a href="http://jarln.net/">jarlyyn</a> 写道<i> "现在的智能手机其实就是一台小型的电脑，所以木马之类也是难于杜绝的。<a href="__SLASHLINK__" sect="it" sid="11/02/18/0642245" sn="article" tid="26">最近有报告中国的Android环境中已经出现了很多偷跑流量的APP了</a>。但这不是无法解决的问题。Android是基于linux开发的，自然可以利用知名的Iptables防火墙.Droidwall是一款国外开源的Andoird iptables前端，<a href="http://jarln.net/archives/838">正确的使用Droidwall能帮助用户避免被这种偷跑流量的程序危害到</a>。"</i>
+➜利比亚切断互联网
+https://www.solidot.org/story?sid=22564	4800
+中东和非洲国家的抗议浪潮一波高过一波。过去两天，也门、巴林和利比亚的抗议在政府镇压下遭到了大量伤亡。利比亚政府已经命令ISP切断大部分网络接入，目前绝大多数网站已经无法访问，翻墙工具如OperaTor、<a href="http://www.hidemyass.com/vpn/">HideMyAss</a>以及PPTP VPN全部失效，能使用的工具只剩下<a href="http://neosmart.net/HotSpotShield.zip">HotSpot Shield</a>。看起来，<a href="http://politics.slashdot.org/story/11/02/18/2343255/Libya-Blocks-Internet-Access-As-Citizens-Protest">利比亚正在学习埃及</a>，虽然埃及并不是一个成功的案例。
+➜Chrome 10 Beta的JavaScript速度提升64%
+https://www.solidot.org/story?sid=22565	21840
+Google在本周发布了<a href="http://www.google.com/intl/en/landing/chrome/beta/">Chrome 10的首个beta</a>。Computerworld<a href="http://www.computerworld.com/s/article/9210299/Google_ups_speed_of_Chrome_10">发现</a>，在Google的V8 JavaScript基准测试中，Chrome 10 beta速度比上一代提升了64%；但另一个广泛使用的JS测试工具SunSpider，新版的速度并不比Chrome 9快。Chrome 10 beta采用了名为Crankshaft的新优化技术，Google工程师解释为什么SunSpider<a href="http://tech.slashdot.org/story/11/02/19/0012211/Chrome-10-Beta-Boosts-JavaScript-Speed-By-64">成绩没什么提高</a>：Crankshaft的重心是优化频繁执行的代码，不浪费精力在不常使用的代码上面，由于SunSpider中的测试多数是在毫秒时间内完成，因此Crankshaft无法表现出进步。
+➜用UserCSS给solidot一个新形象
+https://www.solidot.org/story?sid=22566	22740
+今天闲来无事<a href="http://userstyles.org/styles/44350">写一个Opera用UserCSS</a>，它的具体作用：改变solidot按钮为slashdot风格，更换左上角的Logo，隐藏了图片等。通过使用这个CSS，能够让solidot风络与slashdot达到统一。这个CSS我原本打算在去年推出，但直到现在才勉强出来一个玩票性质的雏形，CSS和我能力有限，还希望有高手提出指导意见。
+➜太阳耀斑干扰中国通讯，没有产生大的极光
+https://www.solidot.org/story?sid=22567	23280
+2月15日爆发的<a href="__SLASHLINK__" sect="science" sid="11/02/15/1247251" sn="article" tid="102">X级太阳耀斑</a>所产生的日冕物质抛射（CME）已经抵达地球，中国正处于地球的日照边，因而受到了CME的直接袭击，大部分的通讯干扰<a href="http://www.ibtimes.com/articles/114195/20110218/solar-flare-disrupts-radios-does-not-make-aurora.htm">发生在中国</a>，据报主要受影响的是高频无线通信。由于CME的位置并不最佳，产生的极光规模并不大。CME包含了数十亿吨的高能带电粒子，美国国家海洋和大气管理局称，更多的CME可能将在未来两天到达地球。
+➜利比亚关闭互联网不会影响.ly域名
+https://www.solidot.org/story?sid=22568	34920
+利比亚因为群众抗议而<a href="__SLASHLINK__" sect="internet" sid="11/02/19/0123258" sn="article" tid="120">关闭了互联网</a>，但当局对本国互联网的管制是否会影响.ly域名解析吗？知名缩址服务商bit.ly的CEO在问答网站Quora上<a href="http://www.quora.com/What-will-happen-to-http-bit-ly-links-when-Gaddafi-shuts-down-the-Internet-in-Libya-due-to-protests">回答称不会</a>。<i>
+bit.ly的CEO John Borthwick称，有五个根域名服务器负责解析.ly域名，两个在俄勒冈州，一个在荷兰，还有两个在利比亚。他声称bit.ly会继续提供缩址服务，该公司还启动了替代方案<a href="http://j.mp/">http://j.mp</a>，用户可以简单的用j.mp替换bit.ly域名。</i>
+➜Nokia赠送手机挽留开发者
+https://www.solidot.org/story?sid=22569	41400
+<a href="http://cnnet.us/">淘宝网女装春装新款</a> 写道 "根据国外媒体获得的一封邮件显示，为了挽留并安抚第三方开发者，诺基亚将为开发者<a href="http://www.mobilewhack.com/nokia-giving-distraught-employees-free-e7-windows-phone-7-smartphones/">提供免费手机</a>。<i>诺基亚最近宣布放弃Symbian，主攻Windows Phone的做法引发了开发者社区的不满，而诺基亚似乎也意识到了这一点。根据这封邮件，诺基亚将为开发者提供免费的E7手机，帮助其从事目前的Qt开发，今后还将为其提供免费的Windows Phone手机，帮助他们展开Silverlight的开发。除此之外，开发人员还将获得下一届诺基亚世界大会的免费入场券。此举能否挽留开发者，需要继续跟进观察。"</i>
+➜用大脑驾驶汽车
+https://www.solidot.org/story?sid=22570	42480
+德国研究人员演示了<a href="http://spectrum.ieee.org/automaton/robotics/robotics-software/braindriver-a-mind-controlled-car">用大脑控制汽车</a>。<i>
+<a href="http://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/pmwiki/pmwiki.php">柏林自由大学</a>人工智能教授<a href="http://autonomos.inf.fu-berlin.de/">Raúl Rojas</a>和他的团队演示了司机利用人机接口操控汽车。演示中，司机戴着脑电图头帽，记录大脑活动，然后用软件将神经信号转换成转向和加速命令，输入到汽车的驾驶线控系统。该项目被称为<a href="http://autonomos-labs.com/">BrainDriver</a>，研究所用的汽车被命名为MadeInGermany。此前研究人员已经测试了用iPhone、iPad和眼球跟踪设备作为人机接口去控制汽车。BrainDriver尚不成熟，在商业上还不可行，但未来有可能帮助残疾人和瘫痪者驾驶汽车，或者乘客只需动动脑筋就可以让未来无人驾驶出租车知道目的地。</i>
+➜中国一科技进步奖因丑闻撤回
+https://www.solidot.org/story?sid=22571	46800
+中国首次因为学术造假而<a href="http://news.sciencemag.org/scienceinsider/2011/02/chinese-technology-prize-revoked.html?rss=1">撤销一位科技进步奖获奖者的奖项</a>。一些博客将其视为政府正认真对待学术造假的一个信号。<i>
+中国科技部<a href="http://www.most.gov.cn/tztg/201102/t20110201_84647.htm">宣布</a>，2005年国家科学技术进步奖二等奖获奖项目“涡旋压缩机设计制造关键技术研究及系列产品开发”存在严重抄袭和数据不实问题，决定撤销奖项，收回证书。该项目由原西安交通大学能源与动力工程学院教授<a href="http://zh.wikipedia.org/wiki/%E6%9D%8E%E8%BF%9E%E7%94%9F_(%E5%AD%A6%E8%80%85)">李连生</a>领导，声称开发出可应用于空调的涡旋压缩机的关键技术，并成功商业化。多年来83岁的西安交大退休教授陈永江等六人一直向学校上级<a href="http://bbs.sciencenet.cn/home.php?mod=space&amp;uid=226527&amp;do=blog&amp;id=412373">举报李学术成果造假</a>，教授们声称校方试图阻止他们举报，他们于2009年在科学网开设博客，最终引起主流媒体的关注。2010年3月CCTV焦点访谈报导了这一事件，李连生在节目播出后即被西安交大开除。</i>
+➜Google实时搜索遭封锁
+https://www.solidot.org/story?sid=22572	51360
+@wmrofficia 写道<i> "现在，Google实时搜索遭封锁。境外带有“www.google./search?tbs=mbl”的网址都无法访问了。 @wmrofficial 发现，由于不带“www.google.”，随便一个Google的IP就能绕过，如 <a href="http://66.249.89.104/search?prmdo=1&amp;tbs=mbl%3A1&amp;q=%E9%9D%A9%E5%91%BD">http://66.249.89.104/search?prmdo=1&amp;tbs=mbl%3A1&amp;q= %E9%9D%A9%E5%91%BD</a> 。"</i>

@@ -1,0 +1,12 @@
+➜Google 从图像搜索移除浏览图像按钮
+https://www.solidot.org/story?sid=55557	49935
+在与 Getty Images 达成和解之后，Google 从图像搜索中<a href="https://www.theverge.com/2018/2/15/17017864/google-removes-view-image-button-from-search-results" target="_blank"><u>移除了浏览图像按钮</u></a>。以前用户在图像搜索结果里可以直接查看图像，无需访问图像所在的网页，这引起了摄影师和内容出版商的不满，因为这意味着图像产生的流量都给了 Google，而网站一无所获，他们认为这能让用户更容易的窃取图像。移除直接浏览图像的按钮，对用户而言将会降低图像搜索的易用性，这意味着他们需要加载网页去查看图像，浏览网页上面的广告，给网站带来更多收入。
+➜比特币矿机被发现干扰了 T-Mobile 的网络
+https://www.solidot.org/story?sid=55558	52751
+FCC 的特工发现了静态干扰布鲁克林 T-Mobile 用户的罪魁祸首：<a href="https://www.bloomberg.com/news/articles/2018-02-15/bitcoin-mine-causes-harmful-interference-for-t-mobile-users" target="_blank"><u>蚂蚁矿机</u></a>。特工使用测向设备定位了设备所在地，向该户居民发去通知要求关闭蚂蚁  s5 矿机，否则将面临罚款和矿机被没收。FCC 的特工称，矿机挖矿时会产生杂散辐射，频率与被分配给 T-Mobile 宽带网络的频率相近，因此造成了有害干扰。矿机挖矿需要消耗大量电，但比特币的币值目前高达 1 万美元，因此即使电费昂贵对矿工而言仍然利润颇丰。
+➜DTrace 改用 GPLv2 授权
+https://www.solidot.org/story?sid=55559	55317
+甲骨文<a href="https://gnu.wildebeest.org/blog/mjw/2018/02/14/dtrace-for-linux-oracle-does-the-right-thing/" target="_blank"><u>被发现</u></a>已经将 DTrace 的授权许可证从 CDDL 切换到了  GPLv2 和 UPL（核心内核使用 GPLv2+，uapi 使用 UPL）。DTrace 是源自 Solaris 操作系统的动态跟踪工具，提供了高级性能分析和调试功能，过去由于其源代码采用 CDDL 许可证，不兼容 Linux 内核使用的 GPLv2 许可证，无法直接移植。切换到 GPL 意味着可以将 DTrace 整合到内核，当然正确整合还有很多困难的工作要做。Linux <a href="https://www.solidot.org/story?sid=50169" target="_blank"><u>已经有了</u></a>类似 DTrace 的功能。
+➜委内瑞拉挖矿最便宜
+https://www.solidot.org/story?sid=55560	56122
+根据  Elite Fixtures <a href="https://www.cnbc.com/2018/02/15/the-cheapest-and-most-expensive-countries-to-mine-bitcoin.html" target="_blank"><u>发布的数据</u></a>，在委内瑞拉挖掘比特币最便宜在韩国挖矿最贵。挖出一个比特币在韩国需要花费 $26,170，而委内瑞拉只需 $531。Elite Fixtures 分析了 115 个国家的电费，数据来自各国政府、公用事业公司和国际能源署。运行矿机需要考虑电力供应，也需要考虑散热。中国是目前最大的比特币生产国。

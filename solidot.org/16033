@@ -1,0 +1,23 @@
+➜谋智中国被发现“do some evil”
+https://www.solidot.org/story?sid=37355	13550
+<div align="center"><img src="http://img.solidot.com.cn/0/835/lixl5gjhG9hQA.png" align="" height="220" width="480"><br>
+</div>
+谋智中国开发的<a target="_blank" href="http://download.firefox.com.cn/chinaedition/addons/cehomepage/cehomepage-latest.xpi"><u>定制主页及快速拨号页扩展</u></a>（xpi文件）<a target="_blank" href="http://bbs.kafan.cn/thread-1655820-9-1.html"><u>被发现</u></a>会修改用户的快捷方式，如果中国用户在主页建立了京东商城（www.jd.com）的拨号快捷键，那么该快捷键会被定向到一个返利链接（http://count.chanet.com.cn/click...www.jd.com”）。该扩展的中国开发者还非常幽默的在源代码里加了一个注解——“do some evil here”。
+➜比特币交易额昨天超过了PayPal
+https://www.solidot.org/story?sid=37356	16279
+<div align="center"><img src="http://img.solidot.com.cn/0/836/liBoQfvMiDw3E.jpg" align=""><br>
+</div>
+<br>
+有史以来第一次，比特币一天的交易额<a target="_blank" href="http://coinowl.com/bitcoin-surpasses-paypal-in-transaction-volume/"><u>超过了</u></a>在线支付巨人PayPal：比特币交易额4.16亿美元，超过了PayPal的3.97亿美元。交易额大涨的一个主要原因是比特币出现了史上单笔金额最高的交易：这笔交易约合<a target="_blank" href="http://www.solidot.org/story?sid=37351"><u>1.4亿美元</u></a>。该交易看起来不是毒品走私或赌博集团转移资金或者有人试图洗钱，而是世界第二大比特币交易平台（最近几个月变成了第三大）Bitstam<a href="http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/23/heres-who-probably-did-that-massive-150000000-bitcoin-transaction/">p<u>在转移其余额</u></a>，这一结论是加州圣迭戈的计算机科学家Sarah Meiklejohn得出的，她的团队不久前通过分析比特币交易历史，发现交易留下的数字痕迹会<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=flat&amp;sid=36326"><u>曝光用户身份</u></a>。
+➜NSA的恶意程序感染了五万个网络
+https://www.solidot.org/story?sid=37357	40723
+<div align="center"><img src="http://img.solidot.com.cn/0/837/lis1DFJiw1qzo.jpg" align="" height="320" width="428"><br>
+<br>
+</div>
+据前NSA合同工Edward Snowden泄露的文件，NSA设计窃取机密文件的恶意程序<a target="_blank" href="http://www.nrc.nl/nieuws/2013/11/23/nsa-infected-50000-computer-networks-with-malicious-software/"><u>感染了</u></a>超过五万个网络。一份日期为2012年的幻灯片显示（如图），NSA在50000多个地点使用了Computer Network Exploitation（CNE），CNE的意思是通过安装恶意程序展开秘密渗透。今年9月，比利时电信发现它的计算机网络被英国情报总局GCHQ秘密安装了恶意程序，目的是收集其客户的通话和数据流量。GCHQ是通过诱使比利时电信的一位雇员访问伪造的Linkedin网页而悄悄下载恶意程序完成渗透。
+➜英特尔未来的桌面CPU也将整合128MB四级缓存
+https://www.solidot.org/story?sid=37358	44920
+英特尔今年为移动版Haswell架构处理器引入了容量高达128MB的L4缓存，L4缓存不是直接整合在芯片上面，而是封装在一起。L4缓存容量比L1/L2/L3要大得多，其响应时间约为50-60ns，比L3缓存的响应长，但只有主内存的一半。引入L4缓存被认为能提升某些工作负荷下性能，但目前还没有多少基准测试软件能检验这一说法。现在，根据最新的消息，英特尔下一代处理器架构的桌面版本Broadwell-K（k系列比标准版更贵）也将<a target="_blank" href="http://hardware.slashdot.org/story/13/11/23/0137253/intels-128mb-l4-cache-may-be-coming-to-broadwell-and-other-future-cpus"><u>引入128MB的L4缓存</u></a>。
+➜慕尼黑如何拒绝鲍尔默赶走微软
+https://www.solidot.org/story?sid=37359	48463
+和微软分手很难，只要问问Peter Hofmann就知道了。Hofmann负责德国慕尼黑市从Windows和Office迁移到开源替代的项目。该项目花了十年才完成，期间微软CEO鲍尔默（Steve Ballmer）甚至亲自游说市长但遭到无情拒绝。慕尼黑称迁移到开源项目节省了一千万欧元，Hofmann强调该项目的目的从来不是为了钱<a target="_blank" href="http://www.techrepublic.com/article/how-munich-rejected-steve-ballmer-and-kicked-microsoft-out-of-the-city/"><u>而是为了自由</u></a>。他说，如果你做这一切是为了钱，那么随后肯定会有人指出你的成本计算不正确。他称，慕尼黑迁移到开源替代的主要目的不是钱而是独立。独立意味着远离私有的闭源软件如Windows和MS Office。慕尼黑议会在2002年下令研究从Windows迁移到GNU/Linux OS和OpenOffice的可行性，2004年迁移正式展开，计算机系统迁移到定制的Ubuntu发行版LiMux和OpenOffice。<br>

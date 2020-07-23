@@ -1,0 +1,70 @@
+➜优秀的Android SSH工具
+https://www.solidot.org/story?sid=26595	5520
+<a href="mailto:petejackson@gmail.com">Peter Jackson</a> 写道 <i> <a href="http://zh.wikipedia.org/wiki/SSH">Secure Shell(SSH)</a>是工作在应用层和传输层之上的网络安全协议，利用128位公钥加密接收和发送的信息。SSH能保证两个主机之间的通信不被中间人拦截。作为一种安全保护协议，SSH常被用于安全数据通信和远程命令执行。其它常用用途包括使用SSH文件传输协议或安全复制协议在机器之间建立安全隧道或传输文件。这篇文章收集了<a href="http://www.linuxlinks.com/article/20111022065038482/AndroidSSHTools.html">五款优秀的免费Android SSH工具</a>，包括开源SSH客户端<a href="http://code.google.com/p/connectbot/">ConnectBot</a>，<a href="http://berserkerdevel.blogspot.com/">SSHDroid</a>，<a href="http://www.zokama.com/">SSHmote</a>，<a href="https://market.android.com/details?id=apc.android.tool.telnet&amp;feature=search_result">Telnet</a>，等。
+"</i>
+➜Android 4.0编译源代码需要16GB内存
+https://www.solidot.org/story?sid=26596	7200
+新一代的智能手机也许更轻更小巧，但它们的操作系统则走向另一个极端。Android 4.0 Ice Cream Sandwich（ICS）编译源代码将需要工作站<a href="http://tech.slashdot.org/story/11/10/24/0016241/android-ics-will-require-16gb-ram-to-compile">内存不低于16GB</a>，是编译Gingerbread的两倍。<i>
+如果开发者想编译ICS，<a href="http://groups.google.com/group/android-building/browse_thread/thread/3757b189f4e93df0?hl=en&amp;pli=1">他需要准备</a>：单次构建需25GB空间，同时编译所有AOSP(Android Open Source Project)配置需要80GB空间，16GB以上内存，在二个四核处理器2.4GHz机器上完成单次构建需5+小时CPU时间，经过时间（wall time）25+分钟。如果开发者需要多个分支，那么空间会很容易突破250GB以上。</i>
+➜为什么计算机语音多数是女声
+https://www.solidot.org/story?sid=26597	9120
+为什么计算机合成语音<a href="http://tech.slashdot.org/story/11/10/23/1652227/why-computer-voices-are-mostly-female">多数是女声</a>，其中一个答案<a href="http://edition.cnn.com/2011/10/21/tech/innovation/female-computer-voices/">可能在于人类的生物机制</a>。<i>
+科学研究显示，人们通常认为女子的声音比男子声音更讨人喜欢。斯坦福大学教授Clifford Nass说，这是一种确定无疑的现象，人类大脑演化出爱听女性声音。此种偏爱可能是从子宫中发展而来。研究发现，胎儿能对母亲的声音作出反应。然而，并不是所有人都喜欢女声。上世纪90年代末，宝马在德国召回了5系列汽车的女声导航系统，因为有许多德国男子投诉拒绝让女人指引方向。Nass认为，文化定势对声音偏爱也有深层影响。iPhone 4S的语音个人助手Siri在美国是采用女声，但在英国却是男声，苹果没有解释原因。英国iPhone 4S用户正在论坛上要求女声发音。
+</i>
+➜硅谷精英子女在不用计算机的学校上学
+https://www.solidot.org/story?sid=26598	10560
+《纽约时报》报道了<a href="http://www.nytimes.com/2011/10/23/technology/at-waldorf-school-in-silicon-valley-technology-can-wait.html">一个有意思的现象</a>：eBay的首席技术官将他的孩子送进一所低科技学校学习，其他硅谷巨头如Google、苹果、雅虎和惠普的雇员也纷纷将子女送到这所学校。<i>
+位于加州洛斯拉图斯(Los Altos)的华德福学校（Waldorf School）不允许用电脑，它的教学工具是笔、纸和针织针，偶尔还有泥巴。这所学校甚至还不同意学生在家里使用电脑。<a href="http://www.whywaldorfworks.org/">华德福学校</a>是根据人智学理论创建的独立教育运动，至今已有90多年历史，创立者是奥地利科学家、教育家鲁道夫•史代纳(1861—1925)，他认为，工业化社会存在的问题不可能单纯在物质层面上加以解决，应该从改变我们的思维方式、改变教育入手。中国大陆的华德福学校<a href="http://www.waldorfchina.org.cn/about/educational">位于成都</a>。一位将女儿送入华德福学校的Google高官说，他从根本上反对在小学阶段需要技术帮助的理念，iPad上的应用程序可以更好的帮助孩子阅读或做算术的说法是荒诞无稽的。</i>
+➜NASA准备在太空中建“加油站”
+https://www.solidot.org/story?sid=26599	12240
+今年初，NASA就在飞船飞行路径的关键位置安排一系列太空加油站的方案<a href="__SLASHLINK__" sect="science" sid="11/04/28/0659236" sn="article" tid="90">征求意见</a>。根据一份泄漏的<a href="http://images.spaceref.com/news/2011/HATDepot.Study.pdf">NASA研究文档</a>(PDF)，与研发<a href="http://en.wikipedia.org/wiki/Space_Launch_System">新火箭发射系统</a>相比，建太空加油站可以<a href="http://www.nytimes.com/2011/10/23/science/space/23nasa.html">节省800亿美元</a>。<i>
+NASA称太空加油站为“<a href="http://en.wikipedia.org/wiki/Propellant_depot">油库</a>”，可以给飞往月球、小行星或火星的飞行器重新补充燃料。研究认为，NASA可以放弃研制重型运载火箭，将现有的小型火箭和油库结合起来，可以更快更廉价的完成未来二十年登月或登陆火星的目标。不过，NASA拒绝了这一提议。NASA副局长William H. Gerstenmaier在声明中表示，研究过于集中于油库的优点。工程师将于下个月在NASA总部讨论如何使用油库让飞行器飞抵更遥远的疆域。根据文档，火箭推进的燃料库将首先发射的轨道上，然后其它火箭将携带燃料送入油库，最后飞行器在轨道上补充燃料。该方案增加了太空任务的复杂性。</i>
+➜德国考古学家发现至今保存最完好的恐龙化石
+https://www.solidot.org/story?sid=26600	17640
+德国考古学家发现了至今他们认为<a href="http://www.spiegel.de/international/germany/0,1518,791496,00.html">保存最完好的恐龙化石</a>。化石是在巴伐利亚州南部发现的，其中98%的骨骼都完好无缺，甚至部分皮肤也保留了下来。化石距今1.35亿年，恐龙专家Oliver Rauhut称，中国也发现了许多类似的恐龙化石，但都保存不完好。72厘米长的幼龙保留了大量解剖细节。
+➜Google问价雅虎，戏弄微软？
+https://www.solidot.org/story?sid=26601	19200
+《华尔街日报》引用消息来源<a href="http://online.wsj.com/article/SB10001424052970204485304576646232054116582.html">报导</a>，Google正和至少两家私募公司谈判，向他们提供资金收购雅虎。双方的谈判还处于早期阶段，离达成正式提议还早，搜索巨人可能最后不会提出正式的报价。Google当然不需要雅虎的搜索，但其它方面的资产可能被Google视为有用，例如雅虎每月独立访问用户有7亿，他们在理论上都可以成为Google+和其它服务的用户。如果报导是真的，Google收购雅虎面临的最大障碍是反垄断。此前微软也传出要再次收购雅虎，Google的做法也可能是<a href="http://arstechnica.com/microsoft/news/2011/10/google-mulling-bid-for-yahoo-or-trying-to-bait-microsoft.ars">旨在抬高报价</a>。
+➜DARPA想要用死亡卫星的零部件建造新卫星
+https://www.solidot.org/story?sid=26602	20520
+美国国防部高级研究计划署（DARPA）在其官网征求<a href="http://www.darpa.mil/NewsEvents/Releases/2011/10/20.aspx">重新利用退役卫星的创新技术</a>。<i>
+DARPA称，地球同步轨道上运行着价值约3000亿美元的人造卫星，有很多同步卫星因结束了正常使用寿命、报废或因某一部件故障而退役。它们仍有许多能正常工作的昂贵零部件，如天线和太阳能电池板的寿命比卫星要长得多。DARPA的<a href="http://www.darpa.mil/Our_Work/TTO/Programs/Phoenix.aspx">凤凰计划（Phoenix program）</a>寻求能开发出新技术，能从退役和停止工作的同步卫星上收集和重新利用部件。DARPA署长Regina E.Dugan说，如果计划成功的话，太空垃圾将变成太空资源。DARPA项目经理David Barnhart则称，地球同步卫星并没有设计能拆解或修理，因此这并不是一个简单移除螺丝和螺栓的问题，需要开发新的远程影像系统、机器人技术和专用工具，能抓取、切割和修复复杂系统。
+</i>
+➜五成Android设备要向微软支付专利费
+https://www.solidot.org/story?sid=26603	21840
+微软官方博客<a href="http://blogs.technet.com/b/microsoft_on_the_issues/archive/2011/10/23/microsoft-s-new-patent-agreement-with-compal-a-new-milestone-for-our-android-licensing-program.aspx">宣布</a>，它与智能手机和平板代工厂仁宝达成了专利授权协议，这是与Android设备相关的第十份专利协议，微软表示全球<a href="http://arstechnica.com/microsoft/news/2011/10/microsoft-collects-license-fees-on-50-of-android-devices-tells-google-to-wake-up.ars">五成以上的Android设备</a>都要向它支付专利费。已经有推测认为，微软从Android获得的收入高于自家的Windows Phone。微软目前还在与其它没有付专利费的Android制造商打官司，其中包括被Google收购的摩托罗拉移动。
+➜匿名组织攻击儿童色情网站
+https://www.solidot.org/story?sid=26604	24840
+匿名组织在反儿童色情行动“<a href="http://pastebin.com/u/opdarknet">Operation Darknet</a>”中<a href="http://arstechnica.com/business/news/2011/10/anonymous-takes-down-darknet-child-porn-site-on-tor-network.ars">攻陷了</a>儿童色情网站Lolita City，公布了<a href="http://pastebin.com/88Lzs1XR">1,589名用户的数据</a>。<i>
+攻击主要集中在托管商Freedom Hosting，它被认为是运行在Tor匿名网络上的世界最大儿童色情网站托管商。匿名组织在声明中<a href="http://pastebin.com/T1LHnzEW">宣称</a>，通过攻击Freedom Hosting，他们共消灭了40+家儿童色情网站，其中一家是最大儿童色情网站之一的Lolita City，其儿童色情数据多达100GB。Tor原是美国海军开发的网络安全技术，其路由流量通过一系列志愿者维护的节点服务器中转，使网络通信难以被跟踪。Tor网络还托管了专有的顶级域名.onion，这些网站只能被Tor用户或人口如<a href="http://tor2web.org/">tor2web.org</a>访问。匿名组织成员在10月14日从The Hidden Wiki上发现了一个儿童色情了链接，随后利用拒绝服务攻击让网站下线。接着利用SQL注入攻击从Freedom Hosting提取出用户数据库。
+</i>
+➜中国考虑在身份证中登记指纹信息
+https://www.solidot.org/story?sid=26605	26160
+全国人大常委会24日<a href="http://www.npc.gov.cn/npc/xinwen/2011-10/21/content_1675886.htm">审议</a>居民身份证法修正案草案。草案规定：公民申请领取、换领、补领居民身份证，<a href="http://www.chinanews.com/gn/2011/10-24/3409091.shtml">应当登记指纹信息</a>。<i>
+公安部副部长杨焕宁表示，在居民身份证中加入指纹信息，国家机关以及金融、电信、交通、教育、医疗等单位可以通过机读快速、准确地进行人证同一性认定，有助于维护国家安全和社会稳定，有利于提高工作效率，有效防范冒用他人居民身份证以及伪造、变更居民身份证等违法犯罪行为的发生，并在金融机构清理问题账户、落实存款实名制等方面发挥重要作用。第二代居民身份证中使用的专用芯片在设计定型时已经预留了指纹信息储存区，增加指纹信息不必更换证件式样和芯片。他表示，对已经领取居民身份证的公民登记指纹信息可以通过换领、补领居民身份证逐步实现，无需大规模集中采集指纹信息。</i>
+➜在旧照片中渲染合成物体
+https://www.solidot.org/story?sid=26606	27720
+美国伊利诺大学香槟分校的研究人员将在香港举行的<a href="http://www.siggraph.org/asia2011/cn">第四届ACM SIGGRAPH 亚洲电脑图形和互动技术会议</a>上介绍一种新的PS技术，能在现有的照片中真实的<a href="http://kevinkarsch.com/publications/sa11-lowres.pdf">插入合成物体</a>(PDF)。他们的技术可以在照片场景中创建一个物理模型，计算物体和环境光影，渲染合成出适合场景的真实物体。他们可以改变场景，增加物体，让人也无法区分真假。这项研究可应用于电影和游戏行业，以及房地产销售，家庭装潢和用户内容创造等。<a href="http://vimeo.com/28962540">视频演示</a>（vimeo）。
+➜Windows XP发布十周年
+https://www.solidot.org/story?sid=26607	30000
+2001年10月23日，微软发布了<a href="http://en.wikipedia.org/wiki/Win_xp">Windows XP</a>，24日提供给OEM，25日开始全球销售。截至2011年9月，XP仍是全球市场占有率最高的操作系统，是微软至今最成功的产品之一。Windows XP零售直到2008年6月30日才终止，之后仍有部分OEM在上网本上预装了XP。微软将XP的扩展支持时间延长至2014年4月8日。微软没有提供XP许可证的销售数量，IDC分析师在2006年的估计是<a href="http://www.conceivablytech.com/9696/business/windows-xp-a-decade-old-surrenders-to-windows-7">4亿活跃用户</a>，总许可证销售约5到6亿。根据StatCounter的<a href="http://gs.statcounter.com/#os-ww-monthly-200807-201110">统计</a>，2011年10月，Windows XP首度落后于Windows 7，占有率低于4成，而Win7则高于4成。
+➜官方媒体称利比亚将按伊斯兰教法重新立法
+https://www.solidot.org/story?sid=26608	31320
+<a href="http://liaoweiqiang.info/">人类社会迂回前进之典范</a> 写道 <i>"《人民日报》旗下小报《环球时报》报导，利比亚过渡委10月23日在班加西举行庆典，主席穆斯塔法·阿卜杜勒·贾利勒<a href="http://world.huanqiu.com/roll/2011-10/2109062.html">献言</a>：“作为一个穆斯林国家，我们将伊斯兰教法作为立法的源头，任何与伊斯兰教规矛盾的法律将无效。卡扎菲统治下，一夫多妻制被禁止，但这在伊斯兰教中是允许的；离婚与结婚违背伊斯兰教规，将被禁止；引入伊斯兰银行做法，遵从禁止利息原则”。"</i>
+贾利勒的发言被错误解读和加以引申了。根据半岛电视台的英文<a href="http://english.aljazeera.net/news/africa/2011/09/2011912214219388500.html">报道</a>，利比亚将建立基于伊斯兰法的民主和公民国家。没有民主和公民，意思将截然不同。贾利勒也根本没提到一夫多妻。《华尔街日报》<a href="http://www.cn.wsj.com/gb/20111024/baf093540.asp?source=NewSearch">说</a>，在15分钟的演讲里，贾利勒大量引用了宗教中的典故，呼吁在利比亚揭开历史新一页之际，人们要和解与团结。这场革命是上天安排的，我们须在正义之路上继续前行。我请求所有利比亚人借助法律来伸张正义，不要背离法律自行其是。诚信、耐心与和解是我们所需的。
+➜光可以拨微型机械开关
+https://www.solidot.org/story?sid=26609	34320
+仅仅利用光的微弱力量就能将纳米尺寸的机械开关从一边推到另一边。<a href="http://www.nature.com/nnano/journal/vaop/ncurrent/abs/nnano.2011.180.html">研究报告</a>发表在《自然纳米技术》期刊上，这项技术未来有可能用于光计算机。<i>
+耶鲁大学的Mahmood Bagheri和Hong Tang等人使用激光将能量送入由硅构成的微型桥，使其能在两个稳定构型之间移动。桥的大小为10微米长，500纳米宽，110纳米厚。桥在激光的压力下弯曲，就像拇指和食指之间被挤压的扑克牌。康奈尔大学光学物理学家Michal Lipson认为，这项研究未来可用于在光计算机内存中储存信息。
+</i>
+➜OPERA正重新检查中微子测量结果
+https://www.solidot.org/story?sid=26610	36600
+上月因观察到中微子速度快过光子而成为媒体头条的<a href="http://operaweb.lngs.infn.it/spip.php?rubrique33">OPERA研究人员</a>，决定使用一套新的高精度测量方法<a href="http://news.sciencemag.org/scienceinsider/2011/10/faster-than-light-result-to-be.html?rss=1">检查受争议的结果</a>。这一决定意味着将推迟把结果递交到同行审议科研期刊。<i>
+研究人员认为进一步的检查将保证实验结果不是误差产生的。新的测量将牵涉到CERN中微子束中的变化。研究人员预计将从本周开始执行新测量，在10天期间探测器有可能拦截到12个中微子。它可能产生足够的数据证实或反驳原来的结果。在预印本网站rXiv上，其他科学家提出了众多不同的理论解释。其中一种理论认为，OPERA探测器观察到的中微子能量分布和中微子不比光子快的预期相同，因为如果中微子比光快，它将通过创造一对电子和正电子而损失大量能量。</i>
+➜英国男人喜欢中国男人
+https://www.solidot.org/story?sid=26611	38400
+wmr 写道 <i>"过去五年来，每年有千名中国华人（包括大陆、香港和台湾三个地区）与英籍人士结婚。记者惊讶地发现，和英人结合的华人中<a href="http://www.cbg88.co.uk/html/yaowen/20111020/21515.html">有多达百分之十是以同性配偶名义办到英国签证</a>，比例之高在英国少数民族中十分罕见。在第五季的英国青少年科幻剧《神秘博士》中，几乎没有同性恋内容，<a href="http://www.afterelton.com/people/2011/08/doctor-who-steven-moffat-gay">引来批评</a>。在这个月初播出完的第六季中的11个故事有4个故事出现了同性恋相关内容。"</i>
+➜两名官员因泄露经济数据入狱
+https://www.solidot.org/story?sid=26612	40200
+一名国家统计局官员和一名中国人民银行官员因向股票交易公司<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111024_china_officials_sentenced.shtml">透露统计数据而被判处有期徒刑</a>。<i>
+原国家统计局官员孙振因泄露27项统计数据被判刑5年，原中国人民银行官员伍超明因泄露25项统计数据被判刑6年。最高人民检察院渎职侵权厅副厅长李忠诚说，泄漏国家宏观经济数据是损害经济活动的犯罪行为，妨碍股市的公平竞争，影响政府信誉，给国家和公民个人利益造成损失。中国国家保密局副局长杜永胜说，保密局注意到有境外媒体在中国宏观经济数据正式公布前能够准确预测并报道这些数据。他称，这些预测要在法律允许的范围内进行，媒体不能打擦边球。杜永胜警告，泄漏数据或通过多种渠道向官员核对与求证有关预测数据的行为是不允许的，媒体有可能要承担法律后果。</i>

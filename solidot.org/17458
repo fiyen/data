@@ -1,0 +1,52 @@
+➜AlphaGo 进化到 Zero，不靠人类靠自学
+https://www.solidot.org/story?sid=54174	12573
+<div align="center"><img src="http://img.solidot.org/0/445/li5Y4Rh6vDmzw.gif" width="500" align="" height="266"><br>
+</div>
+<br>
+Google 旗下的 AI 子公司 DeepMind 在《自然》期刊上发表了最新的<a href="https://deepmind.com/documents/119/agz_unformatted_nature.pdf" target="_blank"><u>论文（PDF）</u></a>，介绍了它的围棋 AI <a href="https://deepmind.com/blog/alphago-zero-learning-scratch/" target="_blank"><u>AlphaGo Zero</u></a>。DeepMind 开发的前几个版本的围棋 AI 如 AlphaGo Fan（打败樊麾的版本）、AlphaGo Lee（打败李世石的版本），AlphaGo Master （打败柯洁的版本）都需要人类知识训练，但进化到 Zero 的版本则从零开始完全通过自我学习，3 天后超过 AlphaGo Lee，取得了 100 胜 0 负的成绩，21 天后达到 AlphaGo Master 的水平，40 天后成为史上最强大的围棋选手。DeepMind 认为通用 AI 能帮助人类解决其面临的部分最具有挑战性的难题。DeepMind 称，AlphaGo Zero 只使用一个神经网络，而先前版本的 AlphaGo 使用了策略网络和价值网络判断落子，而 AlphaGo Zero 通过强化学习将两者结合在一起，能更有效的训练和评估，它所需的计算资源也比前几代要少：AlphaGo Fan 使用了 176 个 GPU ，AlphaGo Lee 使用了 48 个 TPU，AlphaGo Master 使用了 4 个 TPU，比 Master 更强的 Zero 也是使用 4 个 TPU。
+➜研究发现过去 27 年飞虫减少了四分之三
+https://www.solidot.org/story?sid=54175	14101
+荷兰、德国和英国的科学家在《PLOS ONE》期刊上发表了一篇<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809" target="_blank"><u>论文</u></a>，报告德国 63 个自然保护区内的飞虫过去 27 年减少了四分之三以上。这一发现<a href="https://www.theguardian.com/environment/2017/oct/18/warning-of-ecological-armageddon-after-dramatic-plunge-in-insect-numbers" target="_blank"><u>震惊了科学家</u></a>。作为传粉者和其它野生动物的猎物，昆虫是地球生命的重要组成部分。此前科学家已经知道一些昆虫物种如蝴蝶的数量在下降，但最新发现的昆虫损失规模之大引发了“生态世界末日”的警觉，这将对人类社会产生深远影响。研究人员表示，他们的研究数据虽然是收集自德国的自然保护区，但他们认为这一结果可能适用于其它农业主导的区域。造成昆虫数量大量损失的原因尚不清楚。科学家能排除气候变化的原因，因为气候变暖会增加而不是减少昆虫。很多人怀疑和农药有关，如蜜蜂的数量大量减少被认为与新烟碱类农药有关。
+➜Chrome 62 发布，隐身模式下 HTTP 页面被标记为不安全
+https://www.solidot.org/story?sid=54176	17172
+Chrome 62 <a href="https://www.bleepingcomputer.com/news/google/google-chrome-62-released-for-linux-mac-and-windows/" target="_blank"><u>发布</u></a>，修复了 35 个安全问题，也引入了多个新特性，其中包括：支持 OpenType 可变字体，改进网页加载字体所需的时间；所有包含输入框的 HTTP 页面将被标记为不安全，而在隐身模式下所有 HTTP 页面将被标记为不安全。Google 此举旨在加速 HTTPS 的普及，减少中间人攻击等安全问题。其它特性包括支持 Payment Request API，WebVR Origin Trial 等。
+➜利用浏览器挖矿日益流行及恶化
+https://www.solidot.org/story?sid=54177	18197
+一开始出现利用访问者浏览器挖门罗币的 JS 脚本时，人们称赞它是一种替代侵入式广告的方式，能为网站带来新的收入。随着嵌入 JS 脚本的网站增加，提供类似服务的 JS 挖矿程序也越来越多，比如中国也出现了一个叫 <a href="https://ppoi.org/" target="_blank"><u>ProjectPoi</u></a> 的挖矿脚本。但多少嵌入挖矿脚本的网站放弃了广告？有多少网站通知了用户或者提供了方法让用户选择关闭挖矿程序？换句话说，很多情况下，这些挖矿脚本的行为<a href="https://www.bleepingcomputer.com/news/security/the-internet-is-rife-with-in-browser-miners-and-its-getting-worse-each-day/" target="_blank"><u>就像恶意程序</u></a>，未经许可侵入用户的计算机和利用计算机资源。广告屏蔽工具现在成了防止劫持 CPU 的安全工具了。<br>
+<br>
+➜俄罗斯水军公司以纸牌屋为教材
+https://www.solidot.org/story?sid=54178	19260
+俄罗斯媒体 RBC 发布<a href="http://www.rbc.ru/technology_and_media/17/10/2017/59e4eb7a9a79472577375776?from=main" target="_blank"><u>调查报道</u></a>称，一家叫 “网络研究中心”（IRA）的俄罗斯公司注册了上百个社交账号发布假新闻，刻意制造美国社会的分裂情绪。该公司员工还在《纽约时报》、《华盛顿邮报》等主流媒体网站上留言攻击希拉里、奥巴马等人。IRA 共赞助了约 100 位美国活动人士前往各地展开集会、抗议等活动。该公司过去两年花了 230 万美元在美国活动上。俄罗斯另外一家独立电视台 RAIN 也播放了对 IRA 前员工的<a href="http://www.telegraph.co.uk/news/2017/10/16/employee-reveals-russian-trolls-targeted-hillary-clinton-election/" target="_blank"><u>采访视频</u></a>（付费墙）。这位化名为 Maksim 的前任员工对着镜头说，自己于 2015 年加入公司。那时公司的主要策动目标就是诋毁希拉里。在 Maksim 看来，公司想要在美国社会释放的信息是：“美国同胞们，你们还没有厌倦克林顿夫妇吗？” 经 RBC 确认，在 Facebook、Twitter、Instagram 等社交网站上共有 118 个账号或社交小组与这家俄罗斯公司有关，共吸引到 600 万人订阅。IRA 工作人员会利用 VPN 隐藏自己的真实 IP 地址，也从来不涉及俄罗斯及总统普京等话题。为<a href="http://international.caixin.com/2017-10-18/101158106.html" target="_blank"><u>提高英语水平</u></a>，IRA 要求自己的员工观看美剧《纸牌屋》，并称这能够帮助公司雇员更好地了解美国政治体系的运作。
+➜新费米悖论解释：外星人都在长眠
+https://www.solidot.org/story?sid=54179	27823
+如果外星文明真的存在，并数量可观，为什么人类至今没有看到他们呢？科学家对费米悖论提出了无数解释。牛津大学的 Anders Sandberg 和他的同事提出的最新解释认为，<a href="https://spectrum.ieee.org/tech-talk/computing/hardware/computing-and-the-fermi-paradox-a-new-idea-emergestheyre-all-asleep" target="_blank"><u>外星人都在长眠</u></a>。他们提出了一个夏眠假说，其推理是计算机的能耗受到了<a href="https://en.wikipedia.org/wiki/Landauer%27s_principle" target="_blank"><u>兰道尔原理或兰道尔极限</u></a>的限制，为了能在更低的环境温度下运行计算机，技术足够先进演化到机器生命的文明选择了休眠。宇宙微波背景辐射的温度是 2.7 k，当宇宙膨胀到足够大时，这个温度会降低，为了能有更低的计算机运行温度，你需要等待，而等待的时间将是宇宙尺度。宇宙不会永远冷却下去，其极限温度将是 2.6 x 10<sup> -30</sup> k，这将发生在 1400 亿年后，先进的文明可能会在那个时候醒来。
+➜Google Play 官方市场再次发现恶意应用
+https://www.solidot.org/story?sid=54180	28932
+赛门铁克的安全研究人员<a href="https://www.symantec.com/connect/zh-hans/blogs/google-play-7" target="_blank"><u>发现了</u></a>一种通过官方应用市场 Google Play 传播的恶意程序 Android.Sockbot。恶意程序冒充正规应用，随后将受感染设备添加到僵尸网络之中。研究人员发现了至少 8 个应用，其下载量在 60 万至 260 万。恶意软件主要针对美国用户，但俄罗斯、乌克兰、巴西和德国也有它的踪影出现。Google 已经将这些应用移除。对恶意应用的分析发现，应用程序通过 9001 端口与 CC 服务器相连，以接收相关命令。CC 服务器使用 SOCKS 请求该应用程序打开套接口，之后在指定端口等待一个来自指定 IP 地址的连接。在通过指定端口的 IP 地址给出连接后，CC 服务器将发出连接目标服务器的命令。之后，恶意应用程序将连接到所需目标服务器，并开始接收广告列表和相关元数据（广告类型、屏幕尺寸和名称）。该应用程序使用相同的 SOCKS 代理机制，在接收命令后与广告服务器相连并发出广告请求。但它并没有显示广告的功能。
+➜如何保护你的网络抵御 KRACK 攻击
+https://www.solidot.org/story?sid=54181	30802
+WPA2 协议发现的高危漏洞能允许攻击者解密传输的数据、发动中间人攻击。Wi-Fi 通常是通信链路上的第一环，而你使用的路由器有很大的可能性买到之后就没有再收到任何安全更新，甚至还可能使用默认密码。你可以假设你的无线网络不能被信任。通过不信任媒介安全通信的<a href="https://www.linux.com/blog/2017/10/tips-secure-your-network-wake-krack" target="_blank"><u>解决方案早就存在</u></a>：使用 HTTPS 协议加密端对端的流量，Let’s Encrypt CA 免费提供 SSL 证书；DNS 也很容易被纂改，解决 DNS 安全问题的 DNSSEC 普及很慢；使用 VPN 解决最后一英里的安全问题。<br>
+➜NYPD 的证据数据库没有备份
+https://www.solidot.org/story?sid=54182	32689
+NYPD 拒绝了提供其财产和证据跟踪系统数据的请求，理由是如果系统崩溃，数据会丢失，<a href="https://arstechnica.com/information-technology/2017/10/nypd-database-that-tracks-seized-evidence-and-cash-has-no-backup/" target="_blank"><u>因为这个数据库没有备份</u></a>。NYPD 每年扣押了大约 600 万美元的现金和财产，但它拒绝提供数据报告，认为执行搜索会导致系统崩溃，而如果崩溃上面储存的所有数据可能都会丢失。NYPD 的财产和证据跟踪系统花费了 2550 万美元构建，使用了 SAP 的 ERP 软件平台和 IBM 的 DB2 数据库，但系统没有包含任何的数据备份方案。法官在听到这一辩词之后连说太蠢了。
+➜草药被发现与肝癌有关联
+https://www.solidot.org/story?sid=54183	35226
+传统中药如今得到了官方的正式支持，被誉为“传统文化瑰宝”，然而它并不是不存在争议。根据发表的《Science Translational Medicine》期刊上的<a href="http://stm.sciencemag.org/content/9/412/eaan6446" target="_blank"><u>一项研究</u></a>，草药被发现与亚洲肝癌之间<a href="https://arstechnica.com/science/2017/10/herbal-remedies-embraced-by-naturopaths-alt-med-widely-linked-to-liver-cancers/#p3" target="_blank"><u>存在关联</u></a>。研究人员分析了 98 个台湾肝肿瘤样本，其中 78% 被认为与接触含有马兜铃酸的草药有关。因为其毒性，台湾已经禁止了多种含有马兜铃酸的草药，但并没有全部禁止。研究人员还分析了 89 个中国肝癌样本，其中 42 个显示出了马兜铃酸诱导突变的标记，对 231 个韩国肝癌样本的分析显示，29 个表现出了马兜铃酸诱导突变标记。研究人员认为需要加强对患者和公众有关马兜铃酸危险性的教育，但这可能并不够。
+➜Ubuntu 17.10 Artful Aardvark 发布
+https://www.solidot.org/story?sid=54184	40612
+Canonical 发布了 <a href="http://releases.ubuntu.com/17.10/" target="_blank"><u>Ubuntu 17.10 Artful Aardvark</u></a>。主要新特性包括：GNOME 为默认桌面环境，默认使用 Wayland 显示服务器，可选 X.org 服务器、Mesa 17.2 或 Mesa 17.3、Linux kernel 4.13 或 kernel 4.14,新的 Subiquity server 安装包、改进了硬件支持，新的 Ubuntu Server 安装包，切换到 libinput，蓝牙改进等等。专用中国用户定制的优麒麟 17.10 则<a href="http://www.ubuntukylin.com/news/shownews.php?lang=cn&amp;id=669" target="_blank"><u>默认</u></a>使用轻量级桌面环境—UKUI。
+➜输血可能需要匹配性别
+https://www.solidot.org/story?sid=54185	42142
+输血的时候通常只看血型是否匹配，但一项新研究发现，<a href="https://www.scientificamerican.com/article/blood-boundaries-should-transfusions-be-matched-by-sex/" target="_blank"><u>可能还需要匹配性别</u></a>。研究人员发现，50 岁以下男性接受孕妇捐赠的红细胞输注之后，三年内死亡的风险增至 1.5 倍。女性接受者则没有出现类似的情况。<a href="http://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2017.14825" target="_blank"><u>研究报告</u></a>发表在《 JAMA The Journal of the American Medical Association》期刊上。美国红十字会和研究人员迅速澄清，这项研究不足以改变现有的输血匹配做法。但如果这一发现被未来的研究证实，那么这可能将会改变血液匹配的方式，它同时也会暗示全世界有数以百万计的输血患者过早死亡。
+➜靠补贴推进的电动汽车或会后劲不足
+https://www.solidot.org/story?sid=54186	44355
+中国正依靠补贴大力推进电动汽车战略，目标是到 2025 年电动汽车和混合动力汽车产量要达到 700 万量。超过 200 家企业宣布计划生产电动汽车。中国政府在电动汽车行业的全部投资，包括各种补贴，规模非常之大。在 201 5年至 2020 年间，在新能源汽车补贴上，中央和地方政府预计将投入超过 4000 亿元人民币，然后补贴将在 2021 年逐步取消。这意味着去年售出的新能源汽车平均每辆有来自政府约 10 万元人民币的补贴。大力推行电动汽车可能检验中央规划部门能力的局限性。中国的电池技术仍然落后于政府规划部门的雄心。专家称这些电池太过沉重也太过昂贵了，这意味着如果没有持续的补贴，<a href="http://www.ftchinese.com/story/001074718?full=y" target="_blank"><u>电动汽车将无法吸引消费者</u></a>。2016 年中国新车购买中混合动力车和电动车只占到 1.32%。很多地方，内燃机汽车悄悄地回来了。车主们发现纯电动汽车很小，空间狭窄，于是又转回到内燃机汽车或插电式混合动力车。
+➜中日印发展各自的导航卫星
+https://www.solidot.org/story?sid=54187	44892
+日本本月早些时候发射了引路 4 号，完成 4 颗准天顶卫星组成的区域导航系统。在亚洲地区，替代 GPS 的导航系统<a href="http://cn.nikkei.com/industry/scienceatechnology/27370-2017-10-19-04-51-20.html" target="_blank"><u>竞争十分激烈</u></a>：中国开发了北斗，目前有 23 颗在轨运行，计划到 2020 年形成 35 颗的导航星座；印度也有 7 颗导航卫星在轨运行。在中日印发展的导航卫星系统中，日本的引路系统最先进，精度最高达到 6 厘米，而印度和中国的精度在 10 米到 20 米。中国的北斗导航推广最快，中国通过“产官学军”联合来推进北斗计划，在南海和东海的海上活动方面，部分渔船已经搭载北斗的导航系统。今后计划覆盖通向欧洲的“一带一路”沿线各国。
+➜腾讯开发鼓掌游戏测试你的鼓掌能力
+https://www.solidot.org/story?sid=54188	46461
+在 19 大开幕一天之后，中国最大的互联网公司就在其微信平台<a href="https://www.bloomberg.com/news/articles/2017-10-19/tencent-comes-up-with-a-novel-way-to-applaud-china-s-president" target="_blank"><u>推出了</u></a>一款鼓掌游戏测试微信用户的鼓掌能力，玩家在看过开幕式集锦之后有 19 秒的时间反复点击鼓掌按钮。到周四早晨，这款游戏已经吸引了 超过 8 亿次鼓掌。腾讯正面临更大的监管压力，前不久《华尔街日报》报道称，中国政府正计划收购腾讯、微博和优酷土豆的 1% “特殊管理股”，并能向其董事会指派一位特别董事。
+➜科学家研究帝吧出征
+https://www.solidot.org/story?sid=54189	47213
+在 11 月份的《PACM on Human Computer Interaction》期刊上，印第安纳大学的研究人员<a href="https://www.researchgate.net/profile/Patrick_Shih/publication/319839466_Cross-Strait_Frenemies_Chinese_Netizens_VPN_in_to_Facebook_Taiwan/links/59bd686da6fdcca8e567e274/Cross-Strait-Frenemies-Chinese-Netizens-VPN-in-to-Facebook-Taiwan.pdf" target="_blank"><u>分析了去年发生的帝吧出征事件 (PDF)</u></a>。来自百度李毅吧 / 帝吧的民族主义网民使用 VPN 等工具<a href="http://www.solidot.org/story?sid=46961" target="_blank"><u>翻越防火长城</u></a>到台湾民进党总统当选人蔡英文的 Facebook 主页刷屏，发表数以千计的留言，要求台湾回归大陆统治。研究人员跟踪了这次集体“违法”翻墙出征，尝试通过 QQ 群与这群人进行互动，加入了他们在 Facebook 上建立的封闭群组——帝吧中央集团军和朝阳群众，以及一个公开群组“两岸交流大论坛”，以更好的理解参与者的个体致因。研究人员称，帝吧的网民使用了钓鱼和 meme 等亚文化策略发表亲中国的信息，展现一种在受控下的网络活动主义。

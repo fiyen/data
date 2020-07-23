@@ -1,0 +1,48 @@
+➜研究发现回馈开源软件能带来竞争优势
+https://www.solidot.org/story?sid=57853	10970
+今天科技行业的企业越来越多的使用开源软件，那么企业是否应该允许他们的全职雇员回馈开源社区，比如贡献代码？一些企业可能会担心向开源软件贡献代码会提供竞争对手搭便车的机会，但哈佛商学院助理教授 Frank Nagle 的一项新研究发现，<a href="https://hbswk.hbs.edu/item/the-hidden-benefit-of-giving-back-to-open-source-software" target="_blank"><u>回馈开源软件能给自家企业带来更多的竞争优势</u></a>，即使在短期内帮助了竞争对手。研究报告《<a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.2018.1202" target="_blank"><u>Learning by Contributing: Gaining Competitive Advantage Through Contribution to Crowdsourced Public Goods</u></a>》发表在《Organization Science》期刊上。Nagle 采访了专业人士，检查了来自 Linux 基金会的数据，分析了企业允许雇员在工作时向 Linux 贡献代码所带来的生产力影响。他发现，通过贡献代码，程序员或工程师能更深入的理解系统结构和功能，这种学习能给公司带来巨大的竞争优势。此外，回馈社区也有助于改善公司形象，有利于招募优秀人才。他表示，回馈开源软件能增加公司的生产力多达 100%。当然回馈开源软件对低技术公司意义不大。
+➜美国起诉朝鲜黑客朴金赫
+https://www.solidot.org/story?sid=57854	12473
+美国检方<a href="https://www.documentcloud.org/documents/4834304-2018-09-06-Park-Complaint-Unsealed-0.html" target="_blank"><u>正式指控</u></a>（PDF）朝鲜黑客朴金赫(Park Jin Hyok)参与了 2014 年对索尼影业的攻击，从孟加拉国央行窃取了 8100 万美元，以及 2017 年的 WannaCry 勒索软件攻击。<a href="https://arstechnica.com/information-technology/2018/09/us-indicts-north-korean-agents-for-wannacry-sony-attacks/" target="_blank"><u>起诉书称</u></a>，朴金赫毕业于朝鲜一所大学，精通多种编程语言，在软件开发和不同操作系统的网络安全上有丰富经验。他隶属于朝鲜政府的一个黑客机构 Lab 110，曾作为外贸公司 Chosun Expo Joint Venture 的雇员在中国大连从事编程和信息安全工作。2014 年回国后在情报机构朝鲜侦察总局命令上展开网络攻击。起诉书称，朴金赫除了参与上述攻击外，还参与攻击了美国国防承包商、大学机构、科技公司，电力公司和虚拟货币交易所。起诉书还提到了朴的同谋，但没有提供他们的名字。
+➜Chrome 69 隐藏域名中的 WWW 遭批
+https://www.solidot.org/story?sid=57855	14080
+Google 刚刚释出的 Chrome 69 隐藏了网址中的 HTTP/HTTPS，用户随后又<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=881410" target="_blank"><u>发现</u></a> Chrome 69 还会隐藏网址中的 WWW，也就是 www.google.com 在地址栏显示的是 google.com。此举引发了<a href="https://news.ycombinator.com/item?id=17927972" target="_blank"><u>争议</u></a>。WWW 现在被 Chrome 视为是无关紧要的子域名。但 www.example.com 和 example.com 是有区别的，它们很可能是不同的网站，有着不同的 DNS 记录。Google 的做法被认为会带来安全问题。
+➜Twitter 永久封杀 Alex Jones 和 InfoWars
+https://www.solidot.org/story?sid=57856	16986
+Twitter Safety <a href="https://twitter.com/TwitterSafety/status/1037804427992686593?ref_src=twsrc%5Etfw" target="_blank"><u>宣布</u></a>永久<a href="https://arstechnica.com/tech-policy/2018/09/alex-jones-permanently-suspends-from-twitter-after-latest-violations/#p3" target="_blank"><u>封杀</u></a>知名阴谋论者 Alex Jones 和他的网站 InfoWars 的账户，理由是两个账户发布的帖子和视频违反了公司反侮辱行为的政策。InfoWars 发表的一则新视频显示 Alex Jones 口头攻击了 CNN 记者 Oliver Darcy。此前在 Jones 发表视频鼓励他的支持者拿起武器反对媒体和其它机构之后，Twitter 曾将其账号关停一周。YouTube、Facebook、Apple、Spotify 等都从各自的平台上已经移除了 Jones 和 InfoWars 的内容。
+➜华为被发现在手机性能测试中作弊
+https://www.solidot.org/story?sid=57857	18320
+华为手机<a href="https://www.anandtech.com/show/13318/huawei-benchmark-cheating-headache" target="_blank"><u>被发现</u></a>在手机性能测试中作弊，测试软件公司 3DMark <a href="https://benchmarks.ul.com/news/ul-delists-huawei-phones-with-suspect-benchmark-scores" target="_blank"><u>宣布</u></a>将其手机的测试成绩移除，被除名的华为手机型号包括 P20、P20 Pro、Nova 3 和 Honor Play。华为消费者业务软件总裁王成录<a href="https://www.ithome.com/html/it/381684.htm" target="_blank"><u>对此回应称</u></a>，这些测试不能反映真实情况，其他公司也有类似行为，华为不能保持沉默。在测试中，手机允许根据工作负荷调整性能，但不允许专门针对测试软件硬编码使用最高性能。华为的情况就是如此，它特别标记测试软件预设最高性能，如果使用没有标记版本的测试软件，其测试结果就差强人意了。华为曾辩解称它使用 AI 来决定是否提升性能，但实际上不是什么 AI 而是硬编码判断。
+➜IBM 使用 NYPD 的监控录像开发基于身体特征的搜索技术
+https://www.solidot.org/story?sid=57858	25345
+纽约警方（NYPD）在市内部署了大量监控探头，但靠人工不可能同时监视如此多的摄像头，它需要视频分析软件去识别视频中的目标。The Intercept 和 Investigative Fund <a href="https://theintercept.com/2018/09/06/nypd-surveillance-camera-skin-tone-search/" target="_blank"><u>报告</u></a>，IBM 与 NYPD 合作开发了此类的视频分析软件。蓝色巨人最早在 2012 年就为警方开发出了基于身体特征的视频搜索技术，允许根据肤色、头发颜色和脸部胡须搜寻人。IBM 拒绝置评，NYPD 则证实 IBM 为他们开发了搜索视频目标的软件，表示搜索人体特征只是用于评估目的，IBM 的软件已经在 2016 年被淘汰出去了。
+➜Google 研究员称科技行业推动了“注意力危机”
+https://www.solidot.org/story?sid=57859	26960
+Google 用户体验研究员发表<a href="http://delivery.acm.org/10.1145/3230000/3229468/a19-aranda.pdf?ip=192.72.255.12&amp;id=3229468&amp;acc=OPEN&amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&amp;__acm__=1536174667_1093c754da21b555a7994388e1e66372"><u>论文</u></a>探讨了我们无法放下手机的原因，探索企业可以采取哪些措施减轻“<a href="https://www.washingtonpost.com/technology/2018/09/05/google-researchers-say-tech-industry-has-contributed-an-attention-crisis/?noredirect=on&amp;utm_term=.7a8c866fcbf2" target="_blank"><u>注意力危机</u></a>”。它还呼吁科技行业重新审视将用户参与度与成功关联起来的做法。Google 研究员 Julie Aranda 和 Safia Baig 在巴塞罗那举行的移动会议上公布了他们的研究。研究结果被用于设计 Digital Wellbeing 工具，该工具被用于帮助用户控制智能手机使用时间。长期以来，包括 Google 在内的科技公司都将用户参与度作为衡量产品和服务成功的关键指标，创造了一种注意力成为最重要货币的经济体制。论文建议将用户满意度和时间使用质量相关的指标作为替代用户参与度来代表成功，但怎么实现论文没有描述。
+➜计算机芯片仍然是“美国制造”
+https://www.solidot.org/story?sid=57860	27752
+美国在芯片制造上<a href="https://www.axios.com/computer-chips-manufacturing-america--10dcfe13-64f3-4ea9-ad4a-cb189a00429a.html" target="_blank"><u>仍然遥遥领先于其它国家</u></a>，它有 58 座半导体厂，而欧洲有 7 座亚洲有 9 座（其中以色列有 2 座）。除了芯片制造外，许多芯片设计公司也都是美国公司，如高通、苹果、博通和英伟达以及 AMD。虽然美国的芯片制造在稳定增长，但其市场份额则在萎缩，因为台积电和三星增长更快。台积电和三星是美国之外最大的芯片代工厂，GlobalFoundries 虽然总部在美国，但属于阿联酋的公司所有。
+➜马云准备学盖茨专注于慈善
+https://www.solidot.org/story?sid=57861	29957
+阿里巴巴联合创始人马云接受 Bloomberg TV 采访<a href="https://www.bloomberg.com/news/articles/2018-09-06/billionaire-jack-ma-prepares-for-life-after-alibaba?srnd=premium" target="_blank"><u>谈论“退休”生活</u></a>，他准备学习盖茨将更多的时间和财富用于慈善，创建一个以他名字命名的基金会专注于教育。54 岁的马云净资产超过 400 亿美元。马云称，他能从盖茨身上学到很多，他可能永远不会像盖茨那样富有，但可以在更早退休上做得更好。但他没有说是今年还是明年退休，也没有说是否会像其他亿万富翁那样将钱捐出去或转到信托基金。马云表示你们很快就会知道，他为创建 Jack Ma 基金会准备了十年。
+➜制造业回归发达国家
+https://www.solidot.org/story?sid=57862	31593
+工厂的生产线能够自主判断需求动向和制造品目的“智慧工厂”正在走向现实。随着自动化进程的推进，工厂所需人力减少，制造成本也出现下降。把工厂转移到人工费低廉的国家这一过去半个世纪的潮流<a href="http://cn.nikkei.com/industry/management-strategy/32096-2018-09-07-05-00-00.html" target="_blank"><u>正在发生逆转</u></a>，生产开始回归发达国家。进入 2010 年代后，物联网（IoT）技术在全球制造业得到广泛普及。在实时监控机械是否正常运转的基础上进一步发展，人们开始摸索让工厂系统在掌握零部件库存及订单情况的同时，决定生产什么产品以及怎样生产产品。物联网的优势不仅仅是降低生产成本。如果能够根据生产品目，实时掌握所需的零部件，就能够高效少量供应多种零部件。在人工费低廉的国家大量生产零部件，然后运输到世界各国的必要性将降低。在靠近消费地的区域设置工厂将变得更有优势。
+➜吴修铭认为是时候分拆 Facebook
+https://www.solidot.org/story?sid=57863	41214
+哥伦比亚大学法学院教授、网络中立一词的提出者吴修铭(Tim Wu)准备出新书《<a href="https://www.amazon.com/Curse-Bigness-Antitrust-New-Gilded/dp/0999745468" target="_blank"><u>The Curse of Bigness: Antitrust in the New Gilded Age</u></a>》，他在书中主张美国应该回归泰迪·罗斯福风格的激进反垄断执法，他认为日益庞大的科技巨头如 Google、Facebook 和 Amazon 构成了对民主制度的威胁。<a href="https://www.theverge.com/2018/9/4/17816572/tim-wu-facebook-regulation-interview-curse-of-bigness-antitrust" target="_blank"><u>分拆 Facebook 并非是新想法</u></a>，科技巨头们越来越多的通过收购手段来吞食竞争对手巩固市场地位而不是面临竞争。Facebook 几年前收购了如今都有超过 10 亿用户的 WhatsApp 和 Instagram。吴修铭认为有很多理由能证明这些收购是反竞争的。他认为根据现有的法律分拆 Facebook 或 Google 或 Amazon 并不难，但需要在这个科技巨头免费提供产品的世界重新思考反垄断法。他说，从历史上讲一到两家企业支配一块细分市场将会窒息创新。Facebook 和其它科技巨头收购每一家富有潜力的创业公司所带来的“寒蝉效应”是非常显著的。
+➜iRobot 的最新扫地机器人能永久记住地图
+https://www.solidot.org/story?sid=57864	43098
+iRobot <a href="https://spectrum.ieee.org/automaton/robotics/home-robots/new-roomba-i7-features-persistent-maps-room-cleaning"><u>推出了</u></a>最新款扫地机器人  Roomba i7+，它具有其它 Roomba 机器人所没有的功能：它能永久记住房屋布局，更智能更高效的打扫房间。旧款的 Roombas 每次清扫地面都需要创建新的地图，而新的  i7+ 则能记住地图并能根据主人要求制定规划。用户现在能通过 iRobot 的手机应用指挥机器人打扫特定房间，比如只清洁厨房。
+➜刘强东是京东最大单一风险
+https://www.solidot.org/story?sid=57865	45338
+上周末京东创始人刘强东的短暂被捕引发了对这家公司治理方式的关注，京东事实上是刘强东一人独尊的公司，没有刘强东公司董事会都不能召开，<a href="https://www.wsj.com/articles/billionaire-founder-locked-up-jd-coms-board-cant-meet-without-its-mighty-boss-1536225892?mod=searchresults" target="_blank"><u>他是这家公司最大的单一风险</u></a>。根据公司章程，刘强东不在场的情况下，董事会不得举行正式会议，除非他自己回避。京东甚至明确指出“任何违背他意愿的限制”都不应成为这条规则的例外，除非他精神或身体永久丧失能力。刘强东持有公司 15.5% 的股份，但拥有 79.5% 的投票权。相比之下，Mark Zuckerberg 持有公司 14% 的股份但投票权只超过 50%。即便按全球科技公司的标准来衡量，京东的公司章程也显示了刘强东对其公司的严密控制。京东董事会只有 5 人，其中 3 人是独董。
+➜研究人员利用来自扬声器的声纳信号窃取解锁模式
+https://www.solidot.org/story?sid=57866	47097
+<div align="center"><img src="//img.solidot.org/0/644/lix1GG7CRqcc.jpg" width="450" height="411"><br>
+</div>
+<br>
+兰开斯特大学的研究人员在预印本网站 arXiv <a href="https://arxiv.org/abs/1808.10250"><u>发表论文</u></a>，<a href="https://motherboard.vice.com/en_us/article/kzyd4m/researchers-used-sonar-signal-from-a-smartphone-speaker-to-steal-unlock-passwords" target="_blank"><u>演示</u></a>了利用智能手机麦克风和扬声器来窃取解锁模式。新的攻击方法被称为 SonarSnoop。Android 手机使用的 3x3 滑动网格有大约 40 万种可能的解锁模式，但之前的研究显示五分之一的人只使用其中 12 种最常见的模式（如图所示），研究人员就针对这些常见模式测试了 SonarSnoop。发动 SonarSnoop 攻击首先需要用下载恶意应用，当用户安装了恶意应用之后它会利用扬声器发出人耳听不见的信号，声音信号被周围物体反射回来后被麦克风接收，通过计算声音从发出到返回的时间可以确定物体的位置，它利用的就是声纳原理。
+➜华为的 AI 智能调度系统真的智能？
+https://www.solidot.org/story?sid=57867	48397
+在发现作弊之后，华为<a href="http://www.bjnews.com.cn/finance/2018/09/07/503829.html" target="_blank"><u>开始用 AI 智能调度机制自己辩解</u></a>，华为称“由于不同场景对性能的要求不同，最新版本的华为智能手机系统可以通过 AI 智能调度等先进技术，使硬件性能得到充分发挥，满足用户在不同场景下的体验诉求”，表示为了尊重用户的选择权，华为将在 EMUI 9.0 版本中把“性能模式”开放给用户，这样用户即可选择在有需要的时候开启该模式。然而 Anandtech 的测试<a href="https://www.anandtech.com/show/13318/huawei-benchmark-cheating-headache" target="_blank"><u>显示</u></a>，华为的系统实际上是使用白名单在检测到相关测试软件之后将 CPU 和 GPU 都设置到最高性能，使其手机在测试中表现最佳，最有利于其宣传。<br>

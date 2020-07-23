@@ -1,0 +1,54 @@
+➜The Intercept分批公开NSA的内部通讯
+https://www.solidot.org/story?sid=48234	10654
+The Intercept<a target="_blank" href="https://theintercept.com/snowden-sidtoday/"><u>开始分批发布Snowden泄漏的新文件</u></a>——名为 SIDtoday的NSA内部时事通讯。今天发布的第一批SIDtoday共包含166篇文章，日期从2003年3月31日到12月24日，内容主要是谈论NSA在审讯、伊拉克战争和反恐战争中的角色。感兴趣的用户可以直接从网站下载<a target="_blank" href="https://github.com/firstlookmedia/sidtoday/archive/master.zip"><u>压缩存档</u></a>，Github有备份<a target="_blank" href="https://github.com/firstlookmedia/sidtoday/"><u>下载地址</u></a>。
+➜微软准备授权富士康使用诺基亚品牌
+https://www.solidot.org/story?sid=48235	12992
+微软的手机业务进展不利，去年它对手机业务减记76亿美元，裁掉了大部分来自诺基亚的员工，在最近一季度的财报中<a target="_blank" href="http://windowsreport.com/microsoft-nokia-foxconn/"><u>它的手机收入下降了46%</u></a>。软件巨人看起来准备甩掉这个烫手山芋：有流言<a target="_blank" href="http://www.vtechgraphy.com/windows/exclusive-microsoft-gonna-shut-down-microsoft-mobile-and-sell-nokia-feature-phone-license-to-foxconn/"><u>报道</u></a>微软考虑授权富士康使用它拥有的诺基亚品牌。根据微软与诺基亚达成的协议，它可以使用诺基亚品牌十年至2024年。微软和富士康之间的磋商已进入最后协议定稿阶段。如果协议最终达成，那么微软的手机业务又会有一批人被裁掉，剩余部分人则可能并入Microsoft Surface团队，可能会开发微软自有品牌的Surface手机。
+➜伊朗逮捕未戴头巾的Instagram女模特
+https://www.solidot.org/story?sid=48236	16571
+伊朗以“非伊斯兰教”为由<a target="_blank" href="http://www.bbc.com/news/world-middle-east-36302405"><u>逮捕了多名未戴头巾的网络女模特</u></a>，她们的照片在 Instagram等社交媒体上发表，因此成为一项专项打击行动的目标。自伊朗1979年发生伊斯兰革命以来，女性在公共场合必须用头巾遮住头发。伊朗调查人员识别了170名参与网络模特的人士，包括59名摄影师和化妆师，58名模特，51名时尚沙龙经理和设计师，检方宣布29人收到了犯罪调查的警告，其中八人已经被逮捕。伊朗官员称他们的议程旨在净化网络空间，这一计划从2013年开始执行，一开始主要是Facebook，现在则是 Instagram。Instagram属于Facebook。
+➜赛门铁克核心杀毒引擎存在高危漏洞
+https://www.solidot.org/story?sid=48237	17530
+杀毒软件本身存在<a target="_blank" href="http://www.solidot.org/story?sid=46487"><u>安全漏洞</u></a>早已不是<a target="_blank" href="http://www.solidot.org/story?sid=45616"><u>新鲜事</u></a>，最新一个曝出高危漏洞的杀毒软件是赛门铁克。它的核心杀毒引擎在解析用aspack早期版本打包的可执行文件时会发生缓冲溢出。赛门铁克核心杀毒引擎被Symantec和Norton品牌的产品广泛使用。该漏洞编号为<a target="_blank" href="https://bugs.chromium.org/p/project-zero/issues/detail?id=820"><u>CVE-2016-2208</u></a>，是一个远程代码执行漏洞，可通过向受害者发送包含文件的邮件或链接利用。在Linux、Mac或UNIX平台上，它会导致远程堆溢出；在Windows上，它会导致内核内存损坏，因为杀毒软件的扫描引擎被加载到内核中，使得它变成一个远程的ring0内存损坏漏洞。
+➜微软向Windows 10开始菜单加入更多广告
+https://www.solidot.org/story?sid=48238	19312
+微软计划向Windows 10开始菜单加入更多广告——<a target="_blank" href="http://www.theverge.com/2016/5/16/11682164/microsoft-windows-10-promoted-apps-start-menu-anniversary-update"><u>或者叫推广APP</u></a>。这一变化预计将包含在今年7月释出的周年更新中。推广APP被用于鼓励Windows 10用户使用和从官方商店下载APP，不同国家推广的APP将会存在差异。部分推广的APP是预先安装在系统中，但微软表示它们都可以被完整卸载，而开始菜单中的任何推广APP条目都可以被移除。
+➜2015年度星云奖宣布
+https://www.solidot.org/story?sid=48239	26219
+美国科幻奇幻作家协会宣布<a target="_blank" href="http://www.sfwa.org/2016/05/nebula-award-winners-announced-3/"><u>2015年度星云奖得主</u></a>。最佳长篇小说为Naomi Novik的《<a href="http://www.naominovik.com/uprooted/"><u>Uprooted</u></a>》，电影改编权已经出售给华纳兄弟，入选雨果奖最佳小说；最佳中篇是Nnedi Okorafor的《<a target="_blank" href="http://www.tor.com/2015/08/17/excerpts-binti-nnedi-okorafor/"><u>Binti</u></a>》；最佳中短篇为Sarah Pinsker的《<a target="_blank" href="http://www.sarahpinsker.com/our_lady_of_the_open_road/"><u>Our Lady of the Open Road</u></a>》；最佳短篇Alyssa Wong 的《<a target="_blank" href="http://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/"><u>Hungry Daughters of Starving Mothers</u></a>》；雷·布莱伯利奖授予了《Mad Max: Fury Road》；最佳青少年科幻奇幻小说奖得主是Fran Wilde的《<a target="_blank" href="http://www.franwilde.net/bibliography/updraft-september-2015/"><u>Updraft</u></a>》；去年去世的特里·普拉切特爵士获得了<a target="_blank" href="http://www.sfwa.org/2016/03/sir-terry-pratchett-receive-kate-wilhelm-solstice-award/">一个纪念意义奖项</a>。
+➜国际空间站完成第10万圈绕地飞行
+https://www.solidot.org/story?sid=48240	27650
+<div align="center"><img src="http://img.solidot.org/0/529/liZQc3uKCOoM.gif" align=""><br>
+</div>
+<br>
+美国时间5月16日周一，国际空间站完成<a target="_blank" href="http://nasa.tumblr.com/post/144455228729/around-the-world-100000-times"><u>第10万圈</u></a>绕地飞行。<a target="_blank" href="https://zh.wikipedia.org/zh-cn/%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99"><u>国际空间站</u></a>于1998年11月20日发射了第一个模块舱，2000年11月2日迎来了第一批定居者。它的飞行时速1.75万英里，每隔90分钟绕地球一圈，过去17年的飞行里程超过26亿英里，相当于往返火星十次。国际空间站目前共有15个模块舱，面积有足球场大，对空间站的投资大约有1000亿美元。
+➜中国对污染企业处罚仍然很低
+https://www.solidot.org/story?sid=48241	29756
+研究显示，去年中国对违反环境法的企业实施了更为严厉的处罚，<a target="_blank" href="http://www.ftchinese.com/story/001067573"><u>但整体仍然很低</u></a>。对155家中国企业的分析显示，其罚金总额从2014年的220万元人民币升至420万元人民币，平均不到3万，基本上对企业的运营不构成任何有重要意义的影响。但这一趋势仍表明，中国政府希望从严监督环境问题。研究预测，随着时间推移，处罚金额很可能逐渐增加。环保部表示，从全国来看，去年上半年，中国对2.5164万家环境污染企业实施了处罚，罚金总额超过2.30亿元人民币，并将740起案件移交警方进行刑事调查。
+➜任天堂透露电影制作计划
+https://www.solidot.org/story?sid=48242	30325
+任天堂正计划将该公司的著名游戏角色<a target="_blank" href="http://arstechnica.com/gaming/2016/05/another-mario-movie-nintendo-discusses-feature-film-plans/"><u>搬到大屏幕上</u></a>。任天堂CEO君岛达己向《朝日新闻》<a target="_blank" href="http://www.asahi.com/ajw/articles/AJ201605160041.html"><u>透露</u></a>，该公司正与多家电影工作室协商制作任天堂品牌的电影。该公司计划向电影制作提供部分资金。任天堂的第一部真人电影《<a target="_blank" href="http://www.imdb.com/title/tt0108255/?ref_=fn_al_tt_1"><u>超级马里奥兄弟</u></a>》在1993年上映，口碑和票房都很惨。关于最新的电影改编计划，任天堂希望在决策中担任更重要的角色。目前还不知道电影的类型和细节，《朝日新闻》认为很有可能是3D动画片，主角很有可能是马里奥或《塞尔达传说》的林克。任天堂的游戏角色曾出现在动画片《无敌破坏王》和《Pixels》中。去年有传言称Netflix在制作基于《塞尔达传说》的真人电影，但遭到了任天堂的否认。
+➜美国完成第一例生殖器移植手术
+https://www.solidot.org/story?sid=48243	32165
+<div align="center"><img src="http://img.solidot.org/0/530/liBLoyspFPecQ.jpg" height="270" align="" width="480"><br>
+</div>
+<br>
+因癌症而失去生殖器的波士顿男子Thomas Manning<a target="_blank" href="http://www.nytimes.com/2016/05/17/health/thomas-manning-first-penis-transplant-in-us.html"><u>成为</u></a>美国第一位接受阴茎移植手术的患者。手术于上周进行，64岁的Manning状况良好。医生对Manning恢复正常排尿和性功能保持谨慎乐观。医生认为，Manning的心理状态对其康复有很大的作用。医生说，Manning希望重新成为一个完整的人。单身没有孩子的Manning没有出席发布会，<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/05/160517_us_penis_transplant"><u>但发表了一份声明</u></a>：“今天我开启了人生希望的新篇章”，并称这项手术给那些阴茎损伤的患者带来希望。捐赠人身份没有公布。广州军区总医院2005年9月曾为一名意外导致阴茎齐根缺失的中年男性成功植入同种异体阴茎，但因为心理原因两周之后医生将其切除。
+➜电话元数据能泄漏个人隐私
+https://www.solidot.org/story?sid=48244	35117
+斯坦福大学的研究人员在PNAS上发表<a target="_blank" href="http://www.pnas.org/content/early/2016/05/10/1508081113.full.pdf?sid=aaf13e60-4cc6-41ee-b2a8-0e58debf1137"><u>论文</u></a>（PDF），指出电话元数据能透露出一个人的位置、人际关系和其它敏感信息。通信元数据代表了通信本身之外的信息，在法律上受到的保护通常比通讯内容少，2013年NSA被发现大规模的收集美国人的通讯元数据。研究人员利用一个Android智能手机应用程序收集了823名志愿者的元数据，包括超过25万次通话，超过100万条短信，以及来自受试者Facebook账户的信息。<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-05/aaft-tma051316.php"><u>他们的结果显示</u></a>，电话元数据监视对隐私有显著的影响。元数据密集地相互连接，他们能根据元数据集预测受试者的家庭位置、识别出他们的人际关系伙伴，并且推断出他们的健康状态和宗教归属等敏感信息。
+➜AMD开源光线追踪库FireRays 2.0
+https://www.solidot.org/story?sid=48245	35997
+AMD<a target="_blank" href="http://gpuopen.com/firerays-2-0-open-sourcing-and-customizing-ray-tracing/"><u>开源了</u></a>光线追踪库FireRays 2.0，支持Windows、OSX和Linux，能工作在非AMD的GPU上,<a target="_blank" href="https://github.com/GPUOpen-LibrariesAndSDKs/FireRays_SDK"><u>源代码</u></a>托管在GitHub。为了同Nvidia闭源的GameWorks中间件竞争，AMD去年底宣布了<a target="_blank" href="http://www.solidot.org/story?sid=46543"><u>GPUOpen计划</u></a>，向开发者提供开源的GameWorks替代中间件，包括特效、工具、库和SDK， 允许开发者不受限制的重用代码，FireRays 2.0是GPUOpen计划的一部分。
+➜库克对中国监管部门展开魅力攻势
+https://www.solidot.org/story?sid=48246	38606
+苹果CEO库克(Tim Cook)表示，周一早上他在北京“搭乘了一辆出租车”。这次出行的不寻常之处在于其花费高达10亿美元。库克此行还包括与中国的创业者举行会谈，此次访问似乎是<a target="_blank" href="http://cn.wsj.com/gb/20160517/tec160225.asp"><u>魅力攻势</u></a>的一部分，目标既包括中国监管部门，也包括那些担心苹果在中国业务前景的投资者。苹果在中国取得的成功，超过了美国其他任何一家大型科技公司。上一财年，中国消费者在苹果的产品上花了590亿美元。伴随着这种成功而来的，是巨大的风险。近年来，北京在推动一项旨在发展本土科技公司的议程上更加强势，逼迫想进入中国市场的跨国公司遵守中国制定的规则。最近苹果在中国的iBooks和iTunes被监管机构关闭。<a target="_blank" href="http://cn.nytstyle.com/technology/20160517/t17apple/"><u>分析师认为</u></a>，要想讨得北京的欢心，苹果可能得进一步投资其他合作伙伴，继续在中国花钱。就苹果而言，这笔新投资有助于向北京表明，其操作系统和iPhone与中国国内应用开发的崛起密切相关。
+➜Google推出群组分享应用Spaces
+https://www.solidot.org/story?sid=48247	43315
+Google官方博客<a target="_blank" href="https://googleblog.blogspot.nl/2016/05/introducing-spaces-tool-for-small-group.html"><u>宣布</u></a>推出群组分享应用<a target="_blank" href="http://spaces.google.com/"><u>Spaces</u></a>。类似当年G+的做法，Spaces整合了Google Search、YouTube和Chrome，用户无需切换应用就可以发现和浏览分享的内容。它还具有聊天应用的功能，它的会话模式可以让用户紧跟朋友正在讨论的内容。它类似Pinterest，但专注于小群组的主题讨论和活动。Google已经释出了<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.social.spaces">Android 版</a>和 <a href="https://itunes.apple.com/us/app/spaces-small-group-sharing/id1025159334?ls=1&amp;mt=8">iOS 版</a>。对于Google再次进入社交网络，很多人并不看好，它的上一次社交网络努力G+被认为已经失败。
+➜Gatecoin声称攻击者窃取了它的200万美元比特币和以太币
+https://www.solidot.org/story?sid=48248	44344
+比特币平台<a target="_blank" href="https://gatecoin.com/"><u>Gatecoin</u></a>声称其15%的数字资产存款在一次黑客攻击中失窃。Gatecoin称，对其服务器的入侵发生在5月9日到12日之间，5月13日晚上，它检测到了一些可疑的交易，立即暂停服务进行调查，防止对热钱包的更多未经授权访问。最终它损失了185,000枚以太币和250枚比特币，总价值200万美元，占平台总资产的15%，剩余的数字货币储存在冷钱包中。安全公司的调查已经发现了攻击者的以太币和比特币地址。Gatecoin表示正在筹集资金以弥补损失。
+➜甲骨文联席CEO否认收购Sun是为了提起诉讼
+https://www.solidot.org/story?sid=48249	45012
+甲骨文联席CEO Safra Catz本周一在法庭上作证，<a target="_blank" href="http://arstechnica.com/tech-policy/2016/05/oracle-ceo-safra-catz-we-did-not-buy-sun-to-file-this-lawsuit/"><u>否认收购Sun是为了起诉Google</u></a>。甲骨文在2010年1月完成了74亿美元收购Sun的交易，获得了Java的所有权。当年8月就对Google<u>提起诉讼</u>，指控搜索巨人的Android侵犯了Java的版权。上周甲骨文诉Google侵犯Java API一案进入第二轮审讯，这一次甲骨文索赔金额高达88亿美元，超过了Sun收购金额。Safra Catz是以色列移民，1999年加盟甲骨文公司，她与Mark Hurd是甲骨文的联席CEO。Catz称，Java是甲骨文收购到的最重要单一资产。甲骨文律师Annette Hurst随后就抛出了一个问题：收购Sun是否就是她想要对Google提起版权诉讼？Catz予以否认。Catz称当年甲骨文执行官与Sun CEO Jonathan Schwartz协商时说过，Android使用了一个未授权的Java分支，而Google曾试图获得Java授权。

@@ -1,0 +1,66 @@
+➜Safari已成为新的IE
+https://www.solidot.org/story?sid=49442	5359
+<a href="http://namerena.github.io/#b=红雪鸠">能打赢我？</a> 写道 <i>"
+IE一直以来都因为不兼容标准而遭人诟病，因为早期的IE占有率太高，IE不支持的html/js特性网站就无法使用。而现在Safari的状态和当时的IE非常相似，几乎也成了HTML5标准的公敌。以HTML5的<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">Flexbox</a>为例，作为网页弹性布局重要的特性，开发者却因为webkit里存在大量bug而不能使用。谷歌的blink引擎也从webkit继承了这些bug，在两年时间里blink收到了数十个bug报告，bug被修好后开发人员甚至<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=341310#c44" target="_blank">提醒用户safari仍有bug，建议不要使用</a>。而谷歌之所以花一年多才修复也是因为safari不支持的特性没人会用，bug优先级不高。反观safari，bug出现一年后才有人<a href="https://bugs.webkit.org/show_bug.cgi?id=137730" target="_blank">提交报告</a>，至今甚至都没有任何开发人员对bug进行review或评论，bug状态仍是new。经常有设计师在其他浏览器里做好的效果发现在safari<a href="https://twitter.com/b3zet/status/760072984971313152" target="_blank">布局完全错乱</a>而不得不重新设计。
+<p></p>
+和当年的IE一样，兼容标准对苹果并没有什么好处。迫使开发人员针对iphone优化手机网页反而能增加用户粘性。比如网页在隐私模式下的行为，或者屏幕触摸事件的属性，等等功能，苹果都选择不遵照标准而采用自己的定义。苹果发明了非标准的viewport标签用来定义网页在手机上的缩放，如今苹果自家对viewport的定义竟成了其他浏览器必须遵照特性。</i>回想当年乔布斯还反复强调flash要死，html5是未来，简直滑稽可笑。"
+➜比邻星发现位于宜居带的类地行星
+https://www.solidot.org/story?sid=49443	10029
+<div align="center"><img src="http://img.solidot.org/0/856/liX0pGNvxASc.jpg" height="205" align="" width="500"><br>
+</div>
+<br>
+天文学家利用欧洲南方天文台的望远镜在距离地球最近的恒星比邻星附近<a target="_blank" href="https://www.eso.org/public/news/eso1629/"><u>发现了一颗位于宜居带的类地行星</u></a>。这颗岩石行星被命名为比邻星B星，公转一周11天，表面温度适合液态水存在，它比地球略重，是离地球最近的系外行星，也可能是太阳系之外适合生命居住的最近行星。<a target="_blank" href="http://www.eso.org/public/archives/releases/sciencepapers/eso1629/eso1629a.pdf"><u>研究报告</u></a>（PDF）发表在今天出版的《自然》期刊上。比邻星是一颗红矮星，距离地球4光年，欧洲南方天文台的望远镜今年上半年对比邻星进行了定期观察，得到了行星存在的明确证据。这颗行星的质量至少是地球的1.3倍，公转11.2天，轨道距离母星700万公里，是日地距离的5%，红矮星表面温度很低，发出的光芒比太阳黯淡得多，因此其宜居带也比太阳的宜居带更近。对比邻星B星可居住性的分析认为，液态水的存在不能被排除。
+➜世界最大飞行器第二次试飞以撞地告终
+https://www.solidot.org/story?sid=49444	11427
+<center>
+<iframe src="https://www.youtube.com/embed/oOtG_57qm_U" allowfullscreen="" frameborder="0" height="288" width="512"></iframe><br>
+<br>
+</center>
+世界上最大的飞行器Airlander 10第二次试飞失败，
+这架充满氦气的飞行器以头部撞地结束飞行。整个坠落极其缓慢，不像其它飞行器坠机是在瞬间发生的。你可以观看发布在<a target="_blank" href="https://www.youtube.com/watch?v=oOtG_57qm_U"><u>YouTube</u></a>的视频或BBC公布的<a target="_blank" href="http://www.bbc.com/news/uk-england-beds-bucks-herts-37174417"><u>照片</u></a>。飞行器由英国混能航空交通公司制造，长约92米，重约20吨，载重可达10吨，可改装容纳48名乘客，并连续飞行5天，巡航速度每小时148公里。它最初是为美军研制的，用于空中侦查，但后来美军放弃了这项计划。<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/08/160824_uk_airlander_crash"><u>制造商称</u></a>“所有的机组人员都安全无恙”。
+➜百度利用 FPGA加速SQL
+https://www.solidot.org/story?sid=49446	14521
+<div align="center"><img src="http://img.solidot.org/0/857/lipqUISfUrGIc.png" height="242" align="" width="500"><br>
+<br>
+</div>
+在本周举行的Hot Chips会议上，百度主任架构师<a target="_blank" href="https://cn.linkedin.com/in/%E5%89%91-%E6%AC%A7%E9%98%B3-9b2a6798"><u>欧阳剑</u></a>（Jian Ouyang ）<a target="_blank" href="http://www.nextplatform.com/2016/08/24/baidu-takes-fpga-approach-accelerating-big-sql/"><u>谈论了</u></a>利用 FPGA方法加速SQL查询。百度坐拥1  exabyte以上的数据，每天处理数据100 petabytes，每天更新100亿网页，每24小时处理超过1 petabyte的日志更新，在规模上堪比Google，百度也采用了类似Google的方法去解决问题绕过潜在的瓶颈。欧阳剑称许多数据分析工作都可以使用SQL来完成，而百度发现加速SQL的最好硬件是FPGA。他表示FPGA加速器的性能受限于内存带宽，否则性能还能更高。他提供的图表显示，FPGA提供了10倍以上的性能提升。
+➜Uber因政府打击退出澳门
+https://www.solidot.org/story?sid=49445	17194
+Uber通过Facebook账号<a target="_blank" href="https://www.facebook.com/kamsan.au"><u>宣布</u></a>于9月9日撤出澳门，原因是澳门政府重罚其司机，且无意在现有监管框架下谈判Uber的身份问题。Uber亚洲总经理Mike Brown称，自2015年10月起营运至今，治安警察已经对超过300位Uber司机开出总数达澳门币1000万元的罚款，而这个数字正以每周平均澳门币100万元的速度不停增长。Uber曾多次要求与运输工务司司长罗立文会​​面，但遭罗立文<a target="_blank" href="http://www.nanzao.com/sc/hk-macau-tw/156bfa67cb4a313/duo-ming-si-ji-gong-bei-fa-qian-wan-yuan-uber-xia-yue-che-chu-ao-men"><u>屡次拒绝</u></a>。Uber表示它自登陆澳门以来雇佣了2000多名全职和兼职司机，为当地经济贡献了超过2100万澳门币。
+➜唐凤将担任台湾行政院政务委员
+https://www.solidot.org/story?sid=49447	19910
+知名Perl程序员、数字活动人士<a target="_blank" href="http://pugs.blogs.com/audrey/"><u>唐凤</u></a>将担任台湾行政院政务委员，今年35岁的她将是行政院最年轻的政务委员。唐凤原名<span class="st">唐宗汉，</span>从小被视为神童，但不喜欢传统的教育方式，13岁开始不再去上学，主要依靠自学成为计算机方面的顶尖专家，他在2005年进行了变性手术，改名为唐凤。她参加了很多开源项目，曾参与台湾太阳花运动，构建了零时政府平台<span id="yui_3_9_1_1_1472102534262_858" style="line-height: 19.2px;">g0v.tw。</span>唐凤<a target="_blank" href="https://tw.news.yahoo.com/%E6%9C%80%E5%B9%B4%E8%BC%95%E6%94%BF%E5%A7%94--%E5%94%90%E9%B3%B3%E8%87%89%E6%9B%B8%E7%99%BC%E8%81%B2%E4%BA%86-033740657.html"><u>表示</u></a>她与苹果公司的顾问合约将在9月30日到期，10月1日起将就任行政院数字政务委员。
+➜Mozilla考虑对沃通CA采取行动
+https://www.solidot.org/story?sid=49448	26920
+在Mozilla安全邮件列表上，开发者 Gervase Markham发帖称，多起与沃通CA（WoSign）相关的事故引起了他们的注意，Mozilla正考虑<a target="_blank" href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/k9PBmyLCi8I"><u>是否对沃通CA采取行动</u></a>。Markham谈论了三起事故：2015年4月23日左右，沃通CA允许免费证书申请者选择任意端口验证，违反了限制端口和路径使用的规定；2015年6月，免费证书申请者发现如果他们能证明控制了子域名那么就能获得基础域名（Base Domain）的证书，如证明控制了theiraccount.github.com/theiraccount.github.io等子域名得到了github.com、github.io和 www.github.io的证书；2016年7月，与沃通CA有关联的StartCom CA被发现允许证书倒填日期，倒填日期能绕过浏览器对SHA-1算法的限制。Mozilla可能采取的行动包括吊销沃通CA证书。沃通CA是中国最大的SSL证书发行商之一，它声称中国市场每3张SSL证书中就有1张由沃通CA签发，如果吊销沃通CA证书，可能将会影响很多中国网站。
+➜日本卡车司机开车玩Pokémon GO致使一人死亡
+https://www.solidot.org/story?sid=49449	31120
+23日晚间，家住德岛市南二轩屋町的五王敬治在市内驾车时，撞上2名女性行人，其中一人死亡。他起初声称“当时正在看智能手机上显示的时间”，但在24日推翻了这一说法，称当时正在玩手游《Pokémon GO》，没有认真留意前方情况。警察厅介绍，这是目前确认到的全国首例与《Pokémon GO》<a target="_blank" href="http://asahichinese.com/article/news/AJ201608250020"><u>有关的交通死亡事故</u></a>。由于发生在驾驶时的事故接连不断，因此游戏运营方于8月8日更新了应用内容。当处于高速移动状态下的玩家想要玩游戏时，改善后的版本则会发出“为了安全，行车时禁止操作游戏”的警告。
+➜微软用免费许可证引诱VMware用户切换到Hyper-V
+https://www.solidot.org/story?sid=49450	32742
+微软即将在下个月发布Windows Server 2016，<a target="_blank" href="http://arstechnica.com/information-technology/2016/08/microsoft-goes-after-vmware-with-freeish-windows-licenses-for-hyper-v-converts/"><u>为了吸引VMware用户切换到Hyper-V</u></a> ，软件巨人推出了<a target="_blank" href="https://blogs.technet.microsoft.com/windowsserver/2016/08/24/announcing-the-new-vmware-migration-offer-for-windows-server-2016/"><u>限时促销</u></a>：向迁移者提供 Windows Server Datacenter的“免费”许可证。但并不是真正免费，用户需要购买Software Assurance订阅服务。在数据库方面微软也推出了类似的<a target="_blank" href="https://www.microsoft.com/en-us/cloud-platform/sql-license-migration"><u>促销活动</u></a>，试图说服企业从甲骨文数据库切换到SQL Server 2016。微软以VMware为目标并不出人意料，VMware的市场占有率最高，但Hyper-V正在赶上。
+➜Windows 10最新更新破坏了PowerShell功能
+https://www.solidot.org/story?sid=49451	34088
+Windows 10最新更新KB 3176934被发现破坏了PowerShell的状态配置功能。微软的Windows PowerShell 官方博客<a target="_blank" href="https://blogs.msdn.microsoft.com/powershell/2016/08/23/powershell-dsc-broken-in-kb3176932/"><u>确认了这一消息</u></a>。微软称构建包丢失了一个 .MOF文件，破坏了状态配置，所有状态配置操作都会返回无效属性错误。微软给出的解决方法是：卸载该补丁，或者是等待即将在8月30日释出的补丁修复该补丁导致的问题。Windows 10的更新最近被曝出了一连串的问题。
+➜octobot：全自动软体机器人
+https://www.solidot.org/story?sid=49452	37982
+<div align="center">&nbsp;<img src="http://img.solidot.org/0/858/liRw6I8YIkjFc.jpg" height="300" align="" width="450"><br>
+<br>
+</div>
+软体机器人相比今天流行的金属机器人有诸多优势，如易于定制，能挤进紧凑的空间。但目前研发出的软体机器人还无法整合电源和控制硬件。现在，哈佛大学的研究人员在《自然》期刊上发表<a target="_blank" href="http://www.nature.com/nature/journal/v536/n7617/full/nature19100.html"><u>研究报告</u></a>，称他们<a target="_blank" href="http://arstechnica.com/science/2016/08/meet-the-octobot-a-fully-autonomous-soft-bodied-robot/"><u>创造出了</u></a>一种完整自主的机器人，整合了基于化学反应的能量供应。虽然研究成果存在局限，研究人员成功的将他们的软体机器人做成了章鱼外形（如图所示）。<br>
+<br>
+<center>
+<iframe src="https://www.youtube.com/embed/6Wn66O-KLow" allowfullscreen="" frameborder="0" height="281" width="400"></iframe>
+</center>
+➜以色列率先部署全自动军用机器人
+https://www.solidot.org/story?sid=49453	39978
+以色列国防军<a target="_blank" href="http://www.mainichi.jp/english/articles/20160824/p2a/00m/0na/020000c"><u>透露</u></a>，它从7月中旬起率先部署了自主驾驶军用汽车在靠近巴勒斯坦控制的加沙地带边境巡逻。以色列国防军计划接下来在汽车上安装武器如机关枪，分阶段部署到以色列与埃及、约旦、叙利亚和黎巴嫩相毗邻的地区。军方考虑未来在作战单位中混编机器人车辆和人类士兵。目前所有的武器都是由人类远程控制的，但一家自主驾驶汽车制造商表示让人工智能控制武器在技术是可能的。
+➜Cloudflare因帮助盗版网站面临起诉
+https://www.solidot.org/story?sid=49454	42051
+CDN服务商Cloudflare因为为盗版网站提供抵御DDoS攻击的服务<a target="_blank" href="https://torrentfreak.com/cloudflare-faces-lawsuit-for-assisting-pirate-sites-160823/"><u>而面临起诉</u></a>。目前最受欢迎的BT网站海盗湾就是Cloudflare的众多盗版网站客户中最知名的一个。版权组织对Cloudflare的做法很不满意，成人娱乐机构ALS Scan率先对Cloudflare提起诉讼。ALS在投诉中称，许多服务商通过提供支持推动了盗版网站的繁荣。这些服务商包括了托管商、CDN服务商以及广告代理商。ALS Scan将目标瞄准了两家供应商：CloudFlare 和广告商 Juicy Ads。投诉书称，即使收到了关闭通知，两家公司仍然没有切断与盗版网站的联系。
+➜付费语音问答服务分答神秘停摆
+https://www.solidot.org/story?sid=49455	43800
+曾经火热的付费语音问答服务<a target="_blank" href="http://fd.zaih.com/"><u>分答</u></a>神秘停摆了两周多时间，大部分内容已经移除，名人如章子怡和王思聪都沉默了。用户被告知服务器正在升级，这与已经关闭了一个多月的安全网站<a target="_blank" href="http://www.wooyun.org/"><u>乌云</u></a>给出的理由如出一辙。新浪<a target="_blank" href="http://tech.sina.com.cn/i/2016-08-22/doc-ifxvcsrm2111525.shtml"><u>援引业内人士的分析称</u></a>，“分答可能正在遭遇监管审查，这种审查细致到平台产生的所有内容，但内容违规的理由或许还不是通常所见的涉黄那么简单。”分析称，极有可能是分答用户在使用过程中“问了不该问的问题”或“回答了不该回答的问题”，导致整个平台遭遇完全的严格的审核。彭博社<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-08-25/hot-chinese-ask-a-celebrity-mobile-app-mysteriously-goes-dark"><u>认为</u></a>，中国的审查人员对新媒体所表现出的自由放任日益感到担忧，而他们也缺乏能力去监督每天上传的数以百万计的视频和帖子。
+➜中国土壤污染问题需要得到更多关注
+https://www.solidot.org/story?sid=49456	45649
+《自然》的一篇文章讨论了中国的土壤污染问题，认为土壤污染得到的关注和支持<a target="_blank" href="http://www.nature.com/news/china-s-soil-plan-needs-strong-support-1.20470"><u>远低于空气污染和水污染</u></a>。文章称，中国的研究人员还在消化今年5月公布的土壤质量国家行动计划的含义，但有两个问题已然十分明确：土壤污染的治理极其昂贵，有约束力的法律需要到位以确保有必要的资金。中国各地有数以千计的“棕地”——即因过度开发被废弃的土地，其中很多都是重度污染的。中国土壤污染调查结果曾被视为国家机密，如今已经得到当局的证实：16%的土壤的重金属污染和农药污染水平超过国家标准，34.9%的棕地超过国家污染标准。但污染区域和特定区域污染水平的细节信息缺乏阻碍了公众对该问题的认知。不同于可见的空气污染和水污染，土壤污染需要专业设备才能检测出来。除非有新的变化，严重污染的土地将会持续危及环境。

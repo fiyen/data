@@ -1,0 +1,120 @@
+➜中国外交部发言人斥Wikileaks内容荒谬
+https://www.solidot.org/story?sid=21343	1080
+说着说着怎么把我也捎进去了 写道 <i>"《<a href="http://paper.wenweipo.com/2010/12/03/GJ1012030003.htm">文汇报</a>》消息，中国外交部发言人姜瑜在昨日的记者招待会上拒绝就Wikileaks“荒谬的内容”做出评价。此前，中国外交部发言人洪磊促请美国妥善处理Wikileaks泄密事件。<br>
+由于本次泄漏的美国外交电报有牵涉中国的信息，中文互联网开始出现Wikileaks可能是美国政府陷阱的质疑（<a href="http://www.baidu.com/s?bs=%CE%AC%BB%F9%BD%E2%C3%DC+%C3%C0%B9%FA%CF%DD%DA%E5&amp;f=8&amp;wd=%CE%AC%BB%F9%BD%E2%C3%DC+%CC%F4%B2%A6">一</a>，<a href="http://www.baidu.com/s?bs=%CE%AC%BB%F9%BD%E2%C3%DC+%CC%F4%B2%A6&amp;f=8&amp;wd=%CE%AC%BB%F9%BD%E2%C3%DC+%B5%BC%D1%DD">二</a>）。"</i>
+➜奥克拉荷马州遗嘱执行人有权处理社交帐号
+https://www.solidot.org/story?sid=21344	3300
+奥克拉荷马州通过了一项新法律，遗嘱执行人或管理者<a href="http://tech.slashdot.org/story/10/12/02/1834248/Social-Media-Accounts-Part-of-Deceased-Oklahomans-Estates">将有权访问、管理或终止去世者的社交网络帐号</a>。前州议员、法案共同提出人 Ryan Kiesel说，Facebook用户数量和美国总人口相差无几。当一个人去世，有人需要能合法访问帐号，打理任何未完成的生意，如有必要关闭帐号，或者执行逝世者留下的任何指令。
+➜环球网发表社论质疑Wikileaks
+https://www.solidot.org/story?sid=21345	4200
+环球天天看 写道<i> "环球网发表社论《<a href="http://opinion.huanqiu.com/roll/2010-12/1308891.html">对维基解密网站打个问号</a>》，对Wikileaks是否真如外界所知的那样是一个泄密网站提出了质疑。疑点如下：1、一个专门揭美国丑的网站在西方可能生存么？2、Wikileaks流出的秘密对美国无关痛痒；3、美国国务院虽谴责了Wikileaks，但双方似乎有某种默契；4、根服务器在美国，美国凭什么吃亏？5、Wikileaks宣称有很多志愿信息源，但为何只抓到一个一等兵？<br>
+社论指出，成熟的西方社会能很快度过Wikileaks带来的麻烦，而真正面对Wikileaks挑战的是非西方社会。在非西方社会，真假难辨的档案很可能会颠覆一个国家。"</i>
+➜NASA证实有毒化学成分可以构成生命
+https://www.solidot.org/story?sid=21346	5520
+NASA资助的天体生物学研究宣布了<a href="__SLASHLINK__" sect="science" sid="10/12/01/0256233" sn="article" tid="90">一项重大发现</a>，它将改变我们关于地球生命组成的基本知识：<a href="http://www.nasa.gov/topics/universe/features/astrobiology_toxic_chemical.html">有毒化学成分可以构成生命</a>。<i>
+研究人员从加州莫诺湖（Mono Lake）的恶劣环境中，发现了地球上已知第一种能使用有毒化学物质砷生存和繁殖的微生物。在该微生物的细胞构成中，砷替代了磷。这项发现将改变生物教科书的描述，扩大搜索地外生命的范围。NASA主管Ed Weiler指出，生命的定义扩大了，在寻找太阳系生命信号时，需要放开思维，考虑更多我们不知道的但多样化的生命。</i>
+➜RT-Thread 0.4.0 beta1发布
+https://www.solidot.org/story?sid=21347	6900
+<a href="mailto:midnight.xiong@gmail.com">midnight</a> 写道 "开源实时操作系统RT-Thread<a href="http://www.rt-thread.org/node/31">发布了0.4.x系列的第一个版本</a>：<i>
+自RT-Thread 0.3.0正式版发布以来，经过开发人员密集的整8个月开发，众多用户的积极反馈、测试，终于完成了RT-Thread 0.4.x系列的第一个测试版本。这个测试版本，依然更多的面向测试目的，不建议直接应用到实际的产品中。RT-Thread 0.4.0的非正式版本依然沿用GPL v2许可证进行发布。RT-Thread 0.4.0版本初始提出的几个功能亦基本达到，提供了相对完善的POSIX thread接口，动态库载入接口libdl以及应用模块支持。这些新功能的加入使得RT-Thread能够初步的兼容于POSIX标准。</i>           <ul>
+<li>内核方面，主要是加入了应用模块的支持。</li>
+<li>组件方面，新添加了POSIX标准兼容组件，以及设备文件系统，NFS v3网络文件系统等。</li>
+<li>新的分支包括：新唐的Cortex-M0分支，LPC17xx/11xx等的Cortex-M3/M0分支，龙芯I SoC3210分支等。</li>
+</ul>
+详细发布日志：<a href="http://www.rt-thread.org/node/31">见这里</a>"
+➜GNU GRUB支持ZFS
+https://www.solidot.org/story?sid=21348	7800
+多操作系统启动程序<a href="http://zh.wikipedia.org/zh-cn/GNU_GRUB">GNU GRUB</a>决定<a href="http://lwn.net/Articles/418399/">加入ZFS支持</a>。<i>
+ZFS代码源自<a href="http://blogs.sun.com/darren/entry/zfs_under_gplv2_already_exists">OpenSolaris版的GRUB</a>，采用的是GPLv2许可证。GRUB维护者认为：甲骨文拥有代码版权，但以GPL授权发布意味着他们可以安全的将其加入到GRUB中，并相信GRUB的用户不会因此遭到甲骨文公司的专利诉讼。</i>
+➜Google发布Chrome 8
+https://www.solidot.org/story?sid=21349	11100
+<a href="mailto:jmss160@126.com">三哥</a> 写道<i> "Google今天<a href="http://news.wangmeng.cn/detailNews/2857">发布</a>了稳定版的<a href="http://www.google.com/chrome?hl=zh-CN">Chrome 8浏览器</a>。主要特性是：内建PDF阅读器，支持即将发布的Chrome Web Store（可以购买Flash和HTML5应用），800多处安全修复，包括SVG图像和XPath。"</i>
+Chrome 8的版本号是<a href="http://googlechromereleases.blogspot.com/2010/12/stable-beta-channel-updates.html">8.0.552.215</a>
+➜开源FTP服务器ProFTPD发现后门
+https://www.solidot.org/story?sid=21350	11700
+流行的开源FTP服务器<a href="http://en.wikipedia.org/wiki/ProFTPd">ProFTPD</a>最近发现<a href="http://lwn.net/Articles/418478/">被人在代码中放了一个后门</a>。<i>
+在安装了包含有后门的ProFTPD服务器版本后，攻击者可以获得系统控制权限，攻击者的IP地址来自沙特阿拉伯地区。在该版本中，输入命令“HELP ACIDBITCHEZ”会出现一个root shell。攻击者利用了一个尚未修复的0day漏洞。受影响的版本是从11月28日到2日在官方镜像下载的ProFTPD 1.3.3c。</i>
+➜亚马逊为终止WikiLeaks托管服务辩护
+https://www.solidot.org/story?sid=21351	19800
+亚马逊官网发布了<a href="http://aws.amazon.com/message/65348/">一则公告</a>，为<a href="__SLASHLINK__" sect="internet" sid="10/12/02/0131211" sn="article" tid="100">终止WikiLeaks托管服务</a>辩护。<i>
+亚马逊称，外界流传它终止服务是因为面临美国政府调查的压力，这种说法并不正确。Amazon Web Services不会筛选客户，但客户必须遵守服务条款。WikiLeaks违反了多条规则。例如，服务条款声明“您须明确和保证，您本人或其他人控制内容的所有权利...使用你所提供的内容没有侵犯此项政策，或导致任何人或所有人面临调查”。很显然，WikiLeaks并不拥有机密外交文件的所有权，而且它也不能保证发布这些秘密文件不会让无辜者处于危险之中。人权组织已经写信要求WikiLeaks谨慎行事，不要披露可能遭政府逮捕的人权活动分子姓名。</i>
+<a href="http://88.80.2.32/en/index.html">WikiLeaks</a>声称它的域名（WikiLeaks.org）已被美国域名服务商<a href="http://www.everydns.com/">Everydns.net</a>封杀，原因是它违反了EveryDNS的可接受使用政策。
+➜Google将从自动补全功能中屏蔽与盗版相关的关键词
+https://www.solidot.org/story?sid=21352	22200
+Google正通过排除盗版内容链接，<a href="http://search.slashdot.org/story/10/12/02/2058247/Google-To-Block-Piracy-Related-Terms-From-Autocomplete">改变呈现网络搜索结果的方式</a>。此举赢得了RIAA的赞赏。Google<a href="http://googlepublicpolicy.blogspot.com/2010/12/making-copyright-work-better-online.html">表示</a>，它将从自动补全功能（Autocomplete）中屏蔽与盗版相关的关键词。搜索巨人也承认，发现用于寻找侵权内容的关键词相当困难，但他们将竭尽所能，防止自动补全功能显示最常用的盗版关键词。
+➜NASA空间站地面计算机中心
+https://www.solidot.org/story?sid=21353	24480
+<a href="http://www.silicon.com/technology/software/2010/11/29/photos-nasas-space-station-computing-centre-39746648/print/">NASA和波音公司有一个计算机中心</a>，它的硬件架构与国际空间站完全相同。<i>
+空间站上运行的软件都会在这里进行最后的测试。空间站上的软件通常需要花一年时间开发，4个月bug测试，3个月检查是否在空间站硬件上工作正常。空间站上升级软件的方法与地面<a href="http://www.silicon.com/technology/hardware/2010/11/17/how-nasa-astronauts-use-it-on-the-international-space-station-39746616/print/">差不多</a>，主要为更换硬盘或使用CD或DVD更新系统。它的笔记本还是陈旧的IBM A31p ThinkPads，但正在评估新一代的平板电脑如iPad。</i>
+➜自闭症或是有缺陷的线粒体导致的
+https://www.solidot.org/story?sid=21354	30000
+<a href="http://zh.wikipedia.org/zh-cn/%E8%87%AA%E9%96%89%E7%97%87">自闭症</a>是一种令人困惑的现象，患者无法与他人进行正常的沟通，但某些自闭症患者在智力方面超出常人一筹，例如牛顿和爱因斯坦都是自闭症患者。<i>
+自闭症的病因被怀疑与遗传因素有关，其中一种推测是线粒体缺陷。线粒体是细胞的能量工厂，主要功能是分解有机物产生能量。线粒体故障可能是错误基因导致，也可能是环境因素，或者是两者兼而有之。神经细胞对能量有巨大的需求，因此线粒体缺陷会影响神经细胞。但<a href="http://www.economist.com/node/17626677">线粒体缺陷真会引起自闭症</a>？加州大学戴维斯分校的Cecilia Giulivi想找出结论，她与同事调查了10位年龄在2岁到5岁、已被诊断出自闭症的儿童。提取儿童的神经细胞有悖道德，因此研究人员提取了免疫系统的“淋巴细胞”，淋巴细胞类似神经细胞，也需要大量能量，依赖于线粒体，而且很容易从血液中提取出来。他们检查了淋巴细胞的线粒体行为，与对照组的10位正常儿童作对照。Giulivi博士发现，与对照组相比，自闭症儿童线粒体消耗更少的氧气——显示活跃性较低。其中一种重要的酶——NADH氧化酶，在自闭症儿童身上平均只使用正常儿童的三分之一氧气，八位自闭症儿童的NADH氧化酶也比正常儿童的活跃性明显低。这项发现需要谨慎对待，因为样本量太小，而且线粒体疾病比自闭症罕见得多。</i>
+➜那些让Web开发者们深感意外的事情
+https://www.solidot.org/story?sid=21356	30960
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "作为 Web 开发者，对自己的行业前景，人人都有自己的看法，然而，任何行业都有出人意料的地方。著名的 Web 开发设计博客 <a href="http://www.noupe.com/">Nope.com</a> 曾向他们的读者做了一个调查，请他们列举 Web 开发领域那些让他们感到意外的事情，收到了各种各样的反馈，本文就是这次调查的结果与分析（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K1019.aspx">完整图文版</a>）。           一个真正的符合 Web 标准的 IE
+<br> <br>这个消息让我们振奋，在经过 9 个版本更替后，我们终于看到了（或者说即将看到）一个真正符合 Web 标准的 IE 浏览器。在 Web 开发设计界，人们对 IE 的忍耐到达了极限，最终，很多人宣布不再支持 IE 的某些版本，IE9 的出现将改变这一现状，我们从这件事可以学到的东西是，施以压力与时间，任何顽固的东西都会改变。<br> <br>
+移动 Web 的爆发
+<br> <br>移动 Web 为开发与设计界带来了变革，成为一种时尚与不可逆转的趋势。曾几何时，Web 开发设计者们认为，随着网络带宽的增加以及显示器的变大，我们的 Web 画面会越来越大，那些传统的 960 网格已经显得局促，然而事实却往相反的方向发展，Web 开始被放进那些狭窄的小屏幕，人们喜欢这种变化，随时随地用掌上设备访问 Web 站点。
+<br> <br>我们从中学到的东西是，相对于展示效果，人们更看重方便性。<br> <br>
+社会网络主导一切
+<br> <br>关于社会网络，曾经的那些质疑声还萦绕在耳，一个140个字符的博客平台有什么出息？社会网络管我什么事？我开的是公司，不是学校。然而，似乎一夜间，社会媒体网络遍地开花并迅速主导一切，老网民热烈拥抱，新网民也一拥而上。我们从中可以学到的是，当网络将人们连接在一起的时候，它所爆发的力量是惊人的。
+Web 开发与设计已经成为成熟的市场
+<br> <br>帮人设计网站曾经是你赚外快的业余职业，是吧，如今，Web 开发与设计已经成为非常稳定且成熟的市场，专业的开发设计有大量的需求。<br> <br>
+从 XHTML 到 HTML5
+<br> <br>拥有严格语法和代码规范的 XHTML 曾被认为是 Web 的未来，然而不是，Web 的未来是 HTML5。当然，导致 HTML5 受宠的不是它松散的语法（XHTML 严格的代码规范仍然是一种很好的习惯），而是它强大的原生功能，原生的媒体播放能力，本地数据库，画布等等。当 Web 从单纯的文档向应用转变的时候，丰富的原生功能是非常必要的。<br> <br>
+苹果与 Flash 之争
+<br> <br>Flash 曾是众多 Web 开发与设计者的最爱，当然，它也惹恼了同样多的人。突然有一天，苹果站出来向 Adobe 发难，乔布斯在众多场合指责 Flash 不稳定，不实用，iPhone 和 iPad 均不支持 Flash，当苹果在移动 Web 领域凭借 HTML5 主宰市场的时候，Adobe 风光不再。我们从中得到的教训是，没有任何技术会成为永远的明星。<br> <br>
+JavaScript 重放异彩
+<br> <br>曾经，JavaScript 是用来让一些画面在网页上飘来飘去的，如今，JavaScript 成了 Web 开发与设计中不可或缺的东西，现在的 Web 开发者甚至不再考虑用户是否禁用了 JavaScript 这样的问题。当 Web 逐渐成为一个应用平台的时候，JavaScript 成了这个平台中最强大的工具。<br> <br>
+jQuery 成为真正的明星
+<br> <br>JavaScript 虽然强大，但很难用，至少在 2006 年之前是这样的，接着，一个叫 jQuery 的 JavaScript 框架面世，这个开源的，跨浏览器兼容的 JavaScript 框架拥有强大的功能与简单的语法，迅速风靡 Web 开发与设计界，并成为真正的明星。如今，运行 jQuery 的著名站点多不胜数。<br> <br>
+CSS 动画
+<br> <br>CSS 是网页式样语言，动画，那不是 JavaScript 的事吗？然而，从 2007 年开始，Webkit 开始尝试 CSS 动画，并最终将这一梦想变成现实。
+<br> <br>本文国际来源：<a href="http://www.noupe.com/">Nope.com</a> <a href="http://www.noupe.com/design/name-one-thing-about-web-development-you-never-saw-coming.html">Name One Thing About Web Development You Never Saw Coming</a>
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Google Doodle登陆移动平台
+https://www.solidot.org/story?sid=21355	31680
+<a href="http://apphu.com/">apphu.com</a> 写道<i> "在Google，每一个全球重大节日或世界性事件，或对于该国家来说的重要节假日，Google都会赋予它的徽标富有创意的设计来纪念或庆祝。<a href="http://latimesblogs.latimes.com/technology/2010/12/google-doodles-go-mobile.html">现在移动设备也能浏览到这些涂鸦了</a>。目前使用Android 2.0和ios3以上的移动设备的用户都能看到看到google同步的创意涂鸦了。未来将能在更多移动设备上看到它们。而且Google也非常欢迎广大用户参与到Google涂鸦的创意设计中。</i>
+➜“中子弹之父”萨缪尔·科恩逝世
+https://www.solidot.org/story?sid=21357	32040
+<a href="http://horflu.com/">horf</a> 写道 <i>"《纽约时报》<a href="http://www.nytimes.com/2010/12/02/us/02cohen.html">报道</a>，<a href="http://zh.wikipedia.org/zh-cn/%E5%A1%9E%E5%A7%86%C2%B7%E7%A7%91%E6%81%A9">萨缪尔·科恩</a>（Samuel T.Cohen）上周日在洛杉矶的家中因胃癌恶化逝世，享年89岁。
+二次大战期间，科恩曾参与美国的“曼哈顿计划”，协助设计了美国首颗原子弹。战后，科恩在位于加州圣莫尼卡的兰德公司从事咨询工作，并在20世纪50年代首次提出了“中子弹”的概念。1958年，美国开始研发中子弹，1962年研发成功。
+科恩在其自传中声称<a href="http://horflu.com/2010/12/samuel-cohen-passes-away/">“中子弹已然是所发明的最为道德的武器”</a>。
+"</i>
+➜YouPorn想知道你喜欢看哪些成人网站
+https://www.solidot.org/story?sid=21358	33840
+YouPorn是YouTube的成人自拍版，Alexa排名61。如果你登陆YouPorn主页，<a href="http://blogs.forbes.com/kashmirhill/2010/11/30/history-sniffing-how-youporn-checks-what-other-porn-sites-youve-visited-and-ad-networks-test-the-quality-of-their-data/">它会悄悄用脚本检查你访问过哪些色情网站</a>。打开它的“页面源文件”，你能找到一段加密过的JS脚本：<br>
+&lt;script type="text/javascript"&gt;
+<br>
+function ypol(){var k={0:"qpsoivc/dpn",1:"sfeuvcf/dpn",2:"bevmugsjfoeg joefs/dpn",3:"ywjefpt/dpn",4:"uvcf9/dpn",5:"yoyy/d pn",6:"nfhbqpso/dpn",7:"nfhbspujd/dpn",8:"yibntufs /dpn",9:"bxfnqjsf/dpn",10:"sfbmjuzljoht/dpn",11:"c sb{{fst/dpn",12:"yuvcf/dpn",13:"cbohcspt2/dpn",14: "gmjoh/dpn",15:"gsffpoft/dpn",16:"nzgsffqbztjuf/dp n",17:"efcpobjscmph/dpn",18:"qbztfswf/dpn",19:"nby qpso/dpn",20:"wjefpt{/dpn",21:"bfco/ofu",22:"qpsop sbnb/dpn"};var g=[];for(var m in k){var d=k[m];var a="";for(var f=0;f<br>
+&lt;/script&gt;<br>
+它使用了简单的加密方法，每个明文对应Ascii表前一位字符，因此“qpsoivc/DPN”其实是“pornhub.com”。
+➜Verizon 4G可以在半小时内用光你的上网流量
+https://www.solidot.org/story?sid=21359	34560
+Verizon 4G LTE网络的数据流量每月支付50美元可享有5GB的下载流量。这些流量可以在半小时内用完。根据测试，当你身处信号好的地方，大约能获得21Mbps的最大网速，意味着如果你全速下载流量将<a href="http://www.pcmag.com/article2/0,2817,2373767,00.asp">在半个小时用完</a>。如果在信号不足的地方则网速大约在8.5Mbps，1个半小时也将用完流量。
+➜通用汽车在赔钱卖沃蓝达
+https://www.solidot.org/story?sid=21360	36120
+通用汽车的一个主管说通用在<a href="http://www.greencarreports.com/blog/1052107_gm-confirms-yes-were-losing-money-on-every-volt-we-build">赔钱卖</a>每一辆沃蓝达混合动力汽车。混合动力汽车电池造价达到了10000美元，使得通用在<a href="http://www.greencarreports.com/blog/1046750_want-to-buy-a-2011-chevrolet-volt-more-details-dealer-info">明年只能生产1万辆沃蓝达</a>。通用计划削减产量和期望锂电池降价来避免。
+➜Quadroid会成为下一个Wintel吗
+https://www.solidot.org/story?sid=21361	36180
+<a href="http://zh.wikipedia.org/zh/Wintel">Wintel</a>指使用英特尔处理器运行Windows的个人电脑。一个类似的术语在智成手机领域浮现：Quadroid，指使用高通处理器运行安卓系统的智能手机。这个术语产生是由于大约80%的安卓手机使用的是高通的处理器，安卓也<a href="http://www.computerworld.com/s/article/9184598/Android_leaps_to_No._2_mobile_OS_in_2010">将</a>成为第二受消费者喜爱的手机操作系统，这个数字在不断扩大。就像微软和英特尔统治个人电脑一样，智能手机也许会模仿它们来<a href="http://www.computerworld.com/s/article/9199244/Is_Quadroid_the_new_Wintel_">压低手机生产商的利润</a>。这对于消费者来说是个好事，但对于手机生产商来说是个坏事。
+➜Google Earth Engine为科学家提供卫星数据
+https://www.solidot.org/story?sid=21362	37080
+Google<a href="http://googleblog.blogspot.com/2010/12/introducing-google-earth-engine.html">宣布</a>了一个Google Labs项目：<a href="http://earthengine.googlelabs.com/">Google Earth Engine</a>，为科学家提供一个平台研究全球气候变化，浏览卫星图像，并提供工具和计算资源用于分析。<i>
+Google Earth Engine的卫星图像数据可用于跟踪森林砍伐、水覆盖面积变化，太阳的反照率等等。Google还表示，将在未来两年捐出1千万CPU时，为研究人员提供研究所需的计算资源。</i>
+➜维基解密网站采用新的瑞士域名
+https://www.solidot.org/story?sid=21363	38520
+<a href="mailto:jy-9876543210@163.com">illusiwind</a> 写道<i> "维基解密网站<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/12/101203_wikileaks_domain.shtml">采用</a>新的瑞士域名。
+过去为维基解密提供域名服务的互联网公司EveryDNS.net此前决定停止继续服务，使得维基解密网站wikileaks.org<a href="__SLASHLINK__" sect="internet" sid="10/12/03/0533234" sn="article" tid="100">被迫关闭</a>。
+但是在六个小时之后，维基解密网站瑞士域名<a href="http://wikileaks.ch/">wikileaks.ch</a>开始生效。
+EveryDNS.net此前表示，决定中止服务是因为维基解密受到严重的网络攻击。
+这家公司表示，他们为大约50万个网站提供服务，而目前的网络攻击已经威胁到整个公司业务的稳定。
+维基解密表示，他们在公布大量涉及美国外交与军事活动的秘密文件之后，受到试图破坏网站运作的严重干扰。"</i>
+➜X-37B空天飞机即将重返地面
+https://www.solidot.org/story?sid=21364	39600
+4月份发射到轨道上的<a href="__SLASHLINK__" sect="science" sid="10/04/23/0645254" sn="article" tid="90">飞行器X-37B</a>，最早将在周五<a href="http://www.space.com/missionlaunches/air-force-x-37b-space-plane-landing-soon-101130.html">返回地面</a>。美国空军在一份声明中称，X-37B预计在12月3日到12月6日之间着陆。<i>
+轨道飞行器X-37B 于4月22日搭载“Atlas 5”火箭发射升空，它能利用太阳能电池阵列发电，在轨道上飞行270天。它的使命至今不为外界所知。业余观察者在跟踪了X-37B的飞行轨迹后，认为它的作用<a href="__SLASHLINK__" sect="science" sid="10/05/24/146243" sn="article" tid="102">与太空间谍卫星相同</a>。</i>
+➜AVG 2011更新导致64位Win7重启失败
+https://www.solidot.org/story?sid=21365	41520
+杀毒软件AVG 2011免费版的一次强制更新<a href="http://it.slashdot.org/story/10/12/02/2025237/AVG-2011-Update-Causes-Widespread-Problems-For-64-Bit-Windows">导致大多数64位Windows 7 PC重启失败</a>，Windows一直停留在载入界面。AVG官网<a href="http://forums.avg.com/ww-en/avg-free-forum?sec=thread&amp;act=show&amp;id=132999">建议</a>：如果能进入安全模式，就选择AVG更新前的系统还原点；如果不能，那么只能使用AVG Rescue CD或Windows 7可启动盘。

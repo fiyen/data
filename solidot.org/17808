@@ -1,0 +1,15 @@
+➜地球生物学揭示肾结石是如何在体内形成的
+https://www.solidot.org/story?sid=58125	22895
+<a href="/~千面">千面</a> 写道<i> "地球上超过10%的人有肾结石，而肾结石有70%的成分是草酸钙。过去人们认为草酸钙在肾脏里不会溶解，都是通过手术移除。而最近科学界们利用地球生物学给岩石切片的技术和各种光学显微镜技术，从地质学和生物学的角度分析草酸钙在肾脏里结晶、生长和溶解过程，为人们研究生物矿化过程和肾结石的非侵入式治疗手段提供灵感，也许未来就可以不通过外科手术就能溶解肾结石。<a href="https://www.nature.com/articles/s41598-018-31890-9" target="_blank"><u>研究报告</u></a>发表在《Scientific Reports》期刊上。"</i>
+➜Alphabet 发布 DNS 加密应用 Intra
+https://www.solidot.org/story?sid=58126	27136
+Alphabet/Google 创办的科技孵化器 Jigsaw 发布了 DNS-over-HTTPS 应用 <a href="https://getintra.org/#!/" target="_blank"><u>Intra</u></a>，利用 Cloudflare 和 Google 的公共 DNS 服务器去加密 DNS 请求，防止 DNS 污染。DNS 污染是一种常见的审查策略，用户发送 DNS 查询请求遭到纂改返回了错误的 IP 地址。DNS 查询之所以容易被纂改的原因之一是它没有加密，发送的是明文请求。DNS-over-HTTPS 能部分解决这个问题，但最近的一个趋势是审查者开始升级到服务器名称指示（Server Name Indication，SNI）检测。Intra 应用只支持 Android，用户需要通过  Google Play Store <a href="https://play.google.com/store/apps/details?id=app.intra" target="_blank"><u>下载</u></a>，<a href="https://github.com/Jigsaw-Code/Intra" target="_blank"><u>源代码</u></a>托管在 GitHub 上，采用 Apache License 2.0 授权。
+➜Wi-Fi 联盟宣布 Wi-Fi 6
+https://www.solidot.org/story?sid=58127	37411
+为了便于理解，Wi-Fi 也有版本号了。行业组织 Wi-Fi 联盟<a href="https://www.wi-fi.org/zh-hans/node/35672" target="_blank"><u>宣布</u></a>当前的版本 Wi-Fi 802.11ac 重命名为 Wi-Fi 5，而下一个版本 802.11ax 重命名为 Wi-Fi 6，之前的版本 802.11n 改名为 Wi-Fi 4。Wi-Fi 标准之前使用单个或一对字母代表不同版本，如 802.11n、802.11g、802.11a 和 802.11b，这种命名组合难以理解，不熟悉的人甚至不知道哪个版本代表新的，哪个代表旧的，因此 Wi-Fi 联盟决定改变命名方法，Wi-Fi 5 显然高于 Wi-Fi 4，而向后兼容性意味着 Wi-Fi 5 设备能连接 Wi-Fi 4 设备。
+➜报道称中国利用微型芯片渗透亚马逊和苹果
+https://www.solidot.org/story?sid=58128	48125
+彭博商业周刊<a href="https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies" target="_blank"><u>报道了硬件供应链攻击</u></a>，中国组装的主板被发现植入了微型芯片，黑客借此渗透进入了美国政府和大型企业的数据中心，受影响的企业包括了亚马逊和苹果，但两家公司都发表声明予以否认。报道称，亚马逊在 2015 年准备收购视频压缩技术公司 Elemental Technologies，这家公司曾为 CIA 的无人机视频传输提供了视频压缩技术，在评估阶段亚马逊雇佣了第三方公司检查其安全，在发现了一些令人不安的安全问题之后，Elemental 将其处理视频压缩的服务器打包送到第三方安全公司去详细检查。安全测试人员在主板上发现了原始设计所没有的米粒大小的芯片。调查人员发现芯片是在中国子承包商组装时植入进去的。这些主板都属于美国超微公司（Supermicro），超微是世界最大的服务器主板供应商之一，该公司的客户包括了银行、美国政府承包商、亚马逊苹果等大型企业。苹果在 2015 年原计划为其数据中心从超微订购超过 3 万台服务器，但在主板上发现恶意芯片之后苹果与超微终止了合作。亚马逊 AWS 此前在中国建立了数据中心，大量使用了超微的主板，在发现恶意芯片之后 AWS 安全团队对中国数据中心的主板进行了检查，发现了更多设计巧妙的恶意芯片，AWS 最终将整个中国数据中心都出售给了中国公司。报道称，这些芯片是中国军方设计的，部分芯片的外形类似信号调节耦合器，集成了内存、网络功能和发动一次攻击所需的足够处理能力。当植入的芯片激活后，它会修改操作系统内核，使其能接受修改。芯片还会尝试联系攻击者控制的服务器接收更多指令。美国政府官员称，中国的目标是获取高价值的企业机密和渗透进入敏感的政府网络，目前已知没有消费者数据被盗。
+➜源自中国的软件供应链攻击
+https://www.solidot.org/story?sid=58129	57317
+彭博商业周刊在报道了硬件供应链攻击之后，又报道了<a href="https://www.bloomberg.com/news/articles/2018-10-04/the-big-hack-the-software-side-of-china-s-supply-chain-attack" target="_blank"><u>软件方面的供应链攻击</u></a>。报道援引知情人士的消息称，超微公司（Supermicro）提供关键固件更新的在线入口 2015 年被来自中国的攻击者入侵，攻击者修改了服务器主板网卡的固件，允许其能悄悄控制服务器的通信。有至少两家客户下载了修改过的固件，其中一家是  Facebook。Facebook 证实有此事，但表示它只购买了少量超微硬件用于实验室的测试，没有用于产品。苹果否认它遭遇了服务器恶意芯片攻击，但承认遭遇过软件供应链攻击，事故发生在 2016 年，只影响实验室里的一台 Windows 服务器。苹果称这是它与超微终止合作的原因，否认恶意芯片是它与超微切断合作的原因。

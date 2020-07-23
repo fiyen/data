@@ -1,0 +1,81 @@
+➜闪电中的反物质
+https://www.solidot.org/story?sid=14558	60
+NASA去年发射了<a href="http://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope">费米伽马射线太空望远镜</a>，目的是探测数光年之外的伽马射线爆。但最近它却从地球的闪电中<a href="http://science.slashdot.org/story/09/11/07/047249/Antimatter-In-Lightning">探测到了反物质信号</a>。<i>
+在最近的两起雷暴雨中，费米望远镜记录到了正电子衰减的特定伽玛射线，正电子是带正电荷的电子，是电子的反物质。在闪电中发现反物质信号令研究人员倍感意外，这暗示了闪电的电场不知为何缘由逆转了。</i>
+➜柏林庆祝倒墙20年
+https://www.solidot.org/story?sid=14559	1680
+time 写道 "周日柏林全城都在<a href="http://www.google.com/hostednews/afp/article/ALeqM5heaSLYI9X-2Ssa9dNUOwPOGA_lLw">庆祝倒墙20周年</a>。人们聚集在街上，重温20年前东欧获得自由的欢乐时刻。<i>
+1989年1月19日，东德领导人<a href="http://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%B8%8C%C2%B7%E6%98%82%E7%BA%B3%E5%85%8B">昂纳克</a>声称柏林墙还会矗立50至100年。然而当年深秋，经历了数周呼吁民主的游行后，东德政权于11月9日突然开放柏林墙，被自己的国家囚禁28年的东德人涌过两德间的哨岗和西德人汇合。<br>
+周一，多国领导人将参加柏林布兰登堡门的10万人大狂欢。顺着柏林墙遗迹已经树起<a href="http://news.xinhuanet.com/english/2009-11/08/content_12408964_2.htm">1000
+块巨型多米诺牌</a>，它们将在周一庆祝中被推翻。周一庆典时德国总理Merkel将陪同戈尔巴乔夫、前波兰领导人Lech Walesa以及德国民权活动家在Bornholmer街聚会，在那条街上数百名东德人首次品尝到自由的滋味。<br>
+法国巴黎的协和广场将为庆祝倒墙上演声光表演秀。法国总统萨科奇自曝当年在首批冲向边境检查站砸墙的人群中。而现俄国总理普京当时则是KGB派驻德国德雷斯顿市特工，他表示他（和当地特工）一道见证了统一后联邦德国的成长，并且很高兴和新的政体关系良好。"</i>
+➜TLS与SSL协议中发现可实施MITM攻击的安全漏洞
+https://www.solidot.org/story?sid=14560	3600
+安全研究员Marsh Ray与Steve Dispensa<a href="http://www.zdnet.com.tw/news/comm/0,2000085675,20142604,00.htm">指出</a>，<a href="http://zh.wikipedia.org/zh-hant/%E4%BC%A0%E8%BE%93%E5%B1%82%E5%AE%89%E5%85%A8">TLS 1.0+</a>与SSL 3.0+协议中<a href="http://it.slashdot.org/story/09/11/05/144252/Man-In-the-Middle-Vulnerability-For-SSL-and-TLS">存在安全漏洞</a>，可被用于实施中间人攻击(man-in-the-middle，MITM)。
+<i>
+TLS的问题主要出在“认证空档”（authentication gap）上，在加密认证流程中，由于服务器与客户端之间的认证会出现不持续的状况，使得攻击者可趁机绑架数据串。这个漏洞也让攻击者得以以中间人攻击的手法来入侵Https服务器。资深安全研究员Chris Paget<a href="http://www.tombom.co.uk/blog/?p=85">表示</a>，这是通讯协议层次的漏洞，必须修改SSL与TLS运作的模式才能修正问题。Ray与Dispensa已经将问题提报给行业组织ICASI，该组织由思科、IBM、英特尔、Juniper、微软与诺基亚组成。他们也将此事通知IETF组织，以及部分开源SSL项目。9月29日，多个组织已经开会决定成立一个负责处理修复方案的项目Project Mogul。</i>
+➜免费获得6款Mac软件
+https://www.solidot.org/story?sid=14561	5280
+<a href="http://www.macheist.com/">MacHeist</a>正在举办一个叫“<a href="http://www.macheist.com/order/nano/NBBFRQ7DX722FE31E">nanoBundle</a>”的活动，只要注册就能免费获得五款Mac软件的注册码，如果在6天时间内有超过五十万人参加的话，你就可以获得第六款软件的注册码。这些收费软件<a href="http://blog.ijliao.info/archives/2009/11/07/4017/">都堪称精品</a>，看完介绍你可以决定是否参加这个活动，MacHeist称它的目的是让更多Mac用户接触到优秀的独立软件：
+<i>
+<a href="http://www.wonderwarp.com/shovebox/">ShoveBox</a>：可当作剪贴簿或笔记本，随手收集信息并加上自己的注解；<br>
+<a href="http://www.hogbaysoftware.com/products/writeroom">WriteRoom</a>：简单但强大的编辑器，界面上没有任何干扰用户的东西，只有展示的文字；<br>
+<a href="http://iconfactory.com/software/twitterrific">Twitterrific</a>：twitter客户端；<br>
+<a href="http://tinygrab.com/">TinyGrab</a>：抓图、上传、复制URL，可通过Email、IM、Twitter、Facebook等快速分享；<br>
+<a href="http://www.freeverse.com/mac/product/?id=7019">Hordes of Orcs</a>：3D版本的塔防游戏；<br>
+<a href="http://www.marinersoftware.com/sitepage.php?page=12">Mariner Write</a>：文字处理软件，原价50美元，需要有50万人参加才能获得注册码。</i>
+➜恶意程序确实会下载儿童色情图片
+https://www.solidot.org/story?sid=14562	8400
+有的恶意程序会想方设法偷取你的信用卡，但有的会试图败坏你的名誉。马萨诸塞州前劳动事故部门雇员Michael Fiola于2007年被捕，原因是监管部门在政府发给他的笔记本上<a href="__SLASHLINK__" sect="internet" sid="08/06/20/0016252" sn="article" tid="100">发现了儿童色情图片</a>。他最终<a href="http://it.slashdot.org/story/09/11/08/2135245/Malware-Can-Download-Child-Porn-To-Your-Computer">免于所有指控</a>，因为辩方调查发现被告的笔记本感染了一种病毒，<a href="http://tech.yahoo.com/news/ap/20091108/ap_on_hi_te/us_tec_a_virus_framed_me">能每分钟访问多达40个儿童色情网站</a>。
+<i>
+在上司发现Fiola的笔记本数据流量是同事的4.5倍之后，技术专家从笔记本内发现了儿童色情作品。随后Fiola就被开除，并被控非法持有儿童色情而面临最高5年徒刑，他还因此受到死亡威胁、汽车轮胎被划，朋友回避等遭遇。为了打官司，他们花光了储蓄，采取二次抵押和出售汽车等方式支付诉讼费用。最终辩护律师发现罪魁祸首是病毒。在某一个晚上，当Fiola和妻子外出就餐时，有人登录了这台笔记本，花了1个半小时浏览色情内容。检举人也证实了辩方的发现。Fiolas说，这一案件破坏了他们的生活。</i>
+➜朝鲜叫停电视广告
+https://www.solidot.org/story?sid=14563	10560
+<a href="http://sg.news.yahoo.com/ap/20091108/tap-as-nkorea-tv-commercials-d3b07b8.html">AFP</a>和《朝鲜日报》<a href="http://chn.chosun.com/site/data/html_dir/2009/11/09/20091109000011.html">报道</a>，金正日开除了负责电视事务的最高官员，显然是担心过多的商业电视广告象征着资本主义的影响。<i>
+朝鲜于今年7月2日首次在电视上播出了大同江啤酒广告，但8月底就叫停了电视广告，最后一则广告是在8月29日播出的玉流馆鹌鹑料理。朝鲜消息人士称，金正日在收看电视时看到广告后大发雷霆，他说：“那种广告是中国在推行改革开放时首先做的。”并罢免了负责广电业务的朝鲜中央广播委员会委员长车承洙。朝鲜播出的广告主要为大同江啤酒、开城高丽参、波斯菊发针、玉流馆鹌鹑料理广告。消息人士称，在朝鲜能享用啤酒和高丽参的阶层只有平壤居民等部分人群。因此叫停广告可能是在大多数居民处于饥饿状态的情况下，为防止产生相对剥夺感或不和谐感。</i>
+➜NASA资助的猴子辐射研究引发争论
+https://www.solidot.org/story?sid=14564	13200
+《科学美国人》<a href="http://www.scientificamerican.com/blog/post.cfm?id=nasa-funded-monkey-radiation-experi-2009-11-06">报道</a>，旨在保护医学研究中动物权利的非营利组织PCRM（Physicians Committee for Responsible Medicine）向NASA局长Charles Bolden发出呼吁，要求暂停一项旨在测试长期太空任务中宇宙辐射对宇航员影响的医学研究。<i>
+这项研究是NASA人类研究计划资助的12项放射性研究项目之一。研究内容是让18到28只松鼠猴接受辐射并定期进行测试。以了解宇航员暴露在宇宙射线下对执行一系列任务时的表现的影响。PCRM在给Bolden请愿书中引用了登月名言，“这是NASA向后迈出的一大步。”PCRM认为此项研究违反了NASA的动物伦理原则，让动物受到的“痛苦、疼痛和折磨最小化是一种道德上的责任”。PCRM对太空探索不以为然，认为“在可预见的未来，人类星际旅行最多是一种高度投机性的目标”。</i>
+➜Reframe It指控Google Sidewiki剽窃其创意
+https://www.solidot.org/story?sid=14565	17760
+一家新创企业<a href="http://reframeit.com/">Reframe It</a> <a href="http://www.eweek.com/c/a/Web-Services-Web-20-and-SOA/Reframe-It-Claims-Google-Sidewiki-Copies-its-Web-Annotation-Service-125355/">指控</a>Google的Web注释产品<a href="http://www.google.com/sidewiki/intl/en/">Google Sidewiki</a>是<a href="http://tech.slashdot.org/story/09/11/08/2257245/Startup-Claims-Google-Copied-Web-Annotation-Product">剽窃了它的创意</a>。<i>
+Sidewiki是Google在9月22日推出的整合在Google Toolbar中的工具，允许用户在任何网页的左侧打开一个记事本，对网页进行评论或注释。成立于2006年的Reframe It开发了一个能在IE、Firefox、Safari和Google Chrome工作的浏览器扩展程序，能在网页右侧打开一个记事本对其发表评论。Sidewiki和Reframe It是两个功能几乎完全相同的产品，不同之处是Reframe It有Sidewiki所缺乏的群组功能（<a href="http://googlewatch.eweek.com/content/sidewiki/google_sidewiki_under_fire_from_annotation_startup_reframe_it.html">对比图</a>）。除了界面布局、按钮等形式上相同外，有很多证据证明Google知道Reframe It：在Sidewiki发布前两天，Google有意挖墙角，试图招募Reframe It的共同创始人和首席工程师Ben Taitelbaum。Google否认有任何行为不当，一位知识产权律师认为Reframe It可以起诉Google版权侵犯，但Reframe It CEO表示他的公司只有14个人，正忙于开发Reframe It 2.0，不想为此分心。</i>
+➜百度测试网页试听服务功能
+https://www.solidot.org/story?sid=14566	19260
+<a href="http://aminby.net/">AminBy</a> 写道 <i>"据<a href="http://www.yunkeji.com/?p=4346">云科技</a>报导，据称10月份以来，百度开始秘密开发一项网页试听服务，而该服务也于近日上线进行小规模测试，网民在百度搜索框输入歌曲名即可直接进行试听，从而大大提升用户的搜索感官体验。百度方面目前还没有对此发表正式言论，但记者发现搜索结果页播放器下方出现了“百度搜索开放平台”字样，因此可推测此举应是百度“阿拉丁”平台结合框计算理念在音乐方面的首次应用，同时也是百度在音乐服务领域迈出的重要尝试步伐。"</i>
+➜MythTV 0.22发布
+https://www.solidot.org/story?sid=14567	20520
+在经历一年半的开发之后，数字视频录像机软件<a href="http://www.mythtv.org/">MythTV</a>开发者<a href="http://news.slashdot.org/story/09/11/09/035228/MythTV-022-Released?from=rss">宣布</a>发布<a href="http://www.mythtv.org/news/132/MythTV%200.22%20Available">MythTV 0.22版</a>，0.21版是在2008年3月8日释出的。<i>
+与前版相比0.22版本有大量变化，包括：从Qt 3.4换到Qt 4.4，放弃MythPhone，MythMusic支持更多编解码器，支持VDPAU视频硬件加速，支持DVB-S2、支持Hauppauge HD-PVR，全新的UI主题和UI改写等。MythTV还宣布了<a href="http://www.mythtv.org/theming-competition">UI设计竞赛</a>，<a href="http://www.mythtv.org/download">下载</a>(由于访问人数过多，连接十分缓慢)。</i>
+➜黑客让巴西电网下线
+https://www.solidot.org/story?sid=14568	24600
+CBS的60分钟节目<a href="http://www.cbsnews.com/stories/2009/11/06/60minutes/main5555565.shtml">称</a>，2007年巴西Espirito Santo州曾发生了时间持续2天的电力中断，影响到了3百万人，2005年1月里约热内卢北部的三座城市也发生过类似小事故，报告称<a href="http://it.slashdot.org/story/09/11/09/0012226/Massive-Power-Outages-In-Brazil-Caused-By-Hackers?from=rss">这些都是黑客的杰作</a>。<i>
+退役的美国国家情报机构主管Mike McConnell上将认为，美国并没有为此类攻击做好准备。奥巴马也曾在一次演讲中将网络威胁视作是美国面临的最严重的经济和国家安全挑战之一。发动网络攻击的人已不再限于恶作剧年轻人，攻击者可能是中国的军人或者是俄罗斯、欧洲和美洲的有组织犯罪团体。战略与国际研究中心主任Jim Lewis称，攻击者能破坏基础设施，抹掉数据库，抢劫银行。</i>
+➜失散父女利用Google团聚
+https://www.solidot.org/story?sid=14569	26400
+住在亚特兰大的April Becker出生仅两月时，由于父母失合，母亲带她离开父亲Scott Becker，让她30年来都不曾见过父亲，也不知下落。多年来，April Becker一直试着寻找父亲，却苦无结果。<i>
+<a href="http://tw.news.yahoo.com/article/url/d/a/091109/5/1ulgk.html">一日她决定从父亲角度思考</a>，用Google搜索“<a href="http://www.google.com/search?source=ig&amp;hl=zh-CN&amp;rlz=&amp;=&amp;q=Scott+Becker+Looking+For+April&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;meta=lr%3D&amp;aq=f&amp;oq=">Scott Becker Looking For April</a>”，搜索结果把她带到了父亲为找她而特别建的<a href="http://aprilbecker.com/">网站</a>（aprilbecker.com），上面有封写给她的信。住在堪萨斯的Scott Robert Becker博士十年前创建了这个十分简陋的网站，这些年来，他多次碰到有人假冒April想跟他“相认”，但都被他确认身份的提问给考倒。在April Becker正确回答了提问之后，Scott又从她的Facebook上找到了她与母亲的几张合照，终于证实这就是他的女儿。</i> <a href="http://news.aol.com/article/web-pages-links-missing-daughter-dad/757743">视频</a>
+➜流媒体也玩云计算
+https://www.solidot.org/story?sid=14570	27600
+Vatary 写道 "<i>“混搭”之风依然不减，以前是新媒体公司、<a href="http://en.wikipedia.org/wiki/Web_2.0">web2.0公司</a>，现在技术公司也开始运用这个时髦概念推广其<a href="http://p2p.lmtw.com/Scomment/200911/52890.html">新产品</a>，一个名为<a href="http://www.vatata.com/">Vatata</a>的小公司，针对目前的流媒体云计算推出了自己的“混搭”产品：MeshStreaming，号称C/S和P2P共用基础设施，这里是他们产品的<a href="http://www.meshstreaming.com/demo_meshStreaming.html">Demo站点</a>。当然现在云计算和流媒体都是新兴计算的主体，但两个概念的叠加会有什么变化，我们至少已经看到了<a href="http://www.adobe.com/flash">Flash</a>和<a href="http://silverlight.net/">Silverlight</a>争斗的硝烟，当然这仅仅是开始。"</i>
+➜日本拖网渔船被巨型水母拉入海中
+https://www.solidot.org/story?sid=14571	30480
+《每日电讯报》<a href="http://www.telegraph.co.uk/earth/6483758/Japanese-fishing-trawler-sunk-by-giant-jellyfish.html">报道</a>，一艘10吨重的日本拖网渔船Diasan Shinsho-maru号在千叶县附近海域<a href="http://news.xinhuanet.com/photo/2009-11/06/content_12396117.htm">倾覆</a>，当时船上的三位船员正在用网捕捞体积巨大的“野村水母”。由于数十只水母同时落网，过大的重量将这艘渔船打翻，3名船员掉进海里，但很快被附近另一艘渔船救上来。<i>
+<a href="http://zh.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E6%B0%B4%E6%AF%8D">野村水母</a>是一种生活在长江三角洲到日本海的巨型水母，它能生长到2米直径，200公斤重。今年以来，大量巨型水母出现在日本海中，专家称最近数月中国沿海的天气和水文环境非常适宜水母的繁殖。目前不清楚为什么<a href="http://science.slashdot.org/story/09/11/08/1548211/Swarm-of-Giant-Jellyfish-Capsize-10-Ton-Trawler">成千上万的水母</a>会在某些年份随对马海流来到日本海，而去年却几乎不过踪影。专家相信水母频繁访问日本海的一个重要原因是天敌数量减少，如海龟或某些鱼类。</i>
+➜首个iPhone蠕虫被发现
+https://www.solidot.org/story?sid=14572	32700
+澳大利亚的破解版iPhone手机用户<a href="http://forums.whirlpool.net.au/forum-replies.cfm?t=1315624">报告</a>，他们的智能手机感染了蠕虫，蠕虫将墙纸更换为1980年代的流行歌手Rick Astley的肖像。<a href="http://apple.slashdot.org/story/09/11/08/1411259/First-iPhone-Worm-Discovered-Rickrolls-Jailbroken-Phones">这是iPhone手机的首例蠕虫报告</a>。<i>
+蠕虫是利用用户安装SSH之后不更改默认密码的习惯进行传播。一旦被感染之后，蠕虫会通过移动网络寻找其它有同样漏洞的iPhone手机。蠕虫的作者自称ikex，它的作用更多是恶作剧性质——蠕虫更改了锁定的背景墙纸，换为Rick Astley的肖像，然后留下一段文字“ikee is never going to give you up（ikee永远不会放弃你）”。安全研究人员<a href="http://www.sophos.com/blogs/gc/g/2009/11/08/iphone-worm-discovered-wallpaper-rick-astley-photo/">建议</a>用户采取合适的安全措施，更改默认密码。世界首个iPhone蠕虫并不真的无害，其它好奇的黑客可能会通过阅读代码，了解其运作后开发出恶意的病毒。</i>
+➜Microsoft COFEE泄漏
+https://www.solidot.org/story?sid=14573	37200
+计算机在线法庭科学证据提取器(Computer Online Forensic Evidence Extractor，简写<a href="http://en.wikipedia.org/wiki/Cofee">COFEE</a>)是微软免费提供给执法机构的数字证据提取工具。<a href="http://www.microsoft.com/industry/government/solutions/cofee/default.aspx">COFEE</a>实际上是一个修改过的U盘，包含了一百多个密码破解、信息收集软件，能让调查人员迅速从嫌疑人的电脑上找到可作为法庭证据的数据。COFEE由前香港警官、现在的微软互联网安全执法团队高级研究员 Anthony Fung开发。<i>
+微软于2008年4月透露，在新西兰警方调查的一起儿童色情案件中，COFEE扮演了重要角色，成功让一位嫌疑人锒铛入狱。现在这一工具<a href="http://tech.slashdot.org/story/09/11/08/1340208/Microsoft-COFEE-Leaked">已经泄漏到P2P网络</a>中，你可以在著名的海盗湾（Thepiratebay）上找到下载（其中一个为<a href="http://torrents.thepiratebay.org/5150926/COFEE-Microsoft_Forensic_Tools.5150926.TPB.torrent">15MB</a>，另一个修正版<a href="http://torrents.thepiratebay.org/5152895/COFEE_-_Microsoft_Forensic_Tools_-FIXED-.5152895.TPB.torrent">30.67MB</a>，提供了一个可工作的安装程序）。</i>
+➜为什么锻炼不一定会减少体重
+https://www.solidot.org/story?sid=14574	39600
+《纽约时报》博客<a href="http://well.blogs.nytimes.com/2009/11/04/phys-ed-why-doesnt-exercise-lead-to-weight-loss/">称</a>，根据发表在9月份《运动医学》杂志上的<a href="http://bjsm.bmj.com/cgi/content/abstract/bjsm.2009.065557v1">一项研究</a>，研究人员发现<a href="http://science.slashdot.org/story/09/11/09/0556210/Why-Doesnt-Exercise-Lead-To-Weight-Loss?from=rss">锻炼并不一定减轻体重</a>。<i>
+在研究中，58位肥胖者在不改变饮食的情况下完成了12周的密集性有氧锻炼，他们的体重平均减少了7磅多，绝大多数仅仅减少了半磅。每个人都知道运动会消耗卡路里，能让人身体变苗条，但为什么这项研究没有效果？研究人员认为这是一种能量平衡的结果，运动消耗的卡路里被轻而易举的通过可乐补充了。但锻炼的作用不是减少体重，而是让身体更健康，它能降低血压，提高增氧能力和调息心跳率。瘦身的最简单方法是节食。</i>
+➜微软的Ripley在服务器端克隆客户端运行环境
+https://www.solidot.org/story?sid=14575	43200
+《MIT技术评论》报道，在芝加哥举行的<a href="http://www.sigsac.org/ccs/CCS2009/">计算机和通信安全会议</a>上，微软<a href="http://www.technologyreview.com/computing/23911/?a=f">提出了一种方法让富Web应用变得更安全</a>。<i>
+流行的AJAX或Web 2.0应用程序如Hotmail、Google Maps、Facebook，都由服务器端和客户端组件组成，服务器端可能是用Java J2EE或ASP.NET实现，客户端代码则是在JavaScript中执行。恶意用户可以简单通过破坏客户端而获得敏感的服务端数据。微软提出了<a href="http://research.microsoft.com/en-us/projects/ripley/">Ripley</a>这一解决方法，通过在服务器端克隆出一个客户端计算环境的拷贝而阻止恶意用户或黑客修改客户端的代码。Ripley将用户的动作，包含鼠标点击、按键或其它输入，以压缩过的事件流（event stream）形式从客户端发送到服务端。事件流然后在服务端运行的克隆客户端上重现。如果两者发生了差异，Ripley将中断客户端连接。微软Ripley项目首席开发者<a href="http://research.microsoft.com/en-us/um/people/livshits/">Ben Livshits</a>说，你不能相信客户端发生的事情。Ripley并不是克隆完整的浏览器环境，否则每个浏览器实例都要占用50到60MB内存，Ripley使用“headless browser”——模拟浏览器功能的模拟器，可减少内存占用。Ripley用.Net程序克隆Web应用程序，微软称.Net的速度是JavaScript的10到100倍，因此Ripley能在客户端发出新请求之前抢先把数据推送到客户端。</i>

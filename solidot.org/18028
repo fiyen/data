@@ -1,0 +1,9 @@
+➜印度 2.75 亿公民信息泄露
+https://www.solidot.org/story?sid=60576	50163
+曾发现超过 2 亿中国求职者简历<a href="https://www.solidot.org/story?sid=59295" target="_blank"><u>泄露</u></a>的安全研究员 Bob Diachenko <a href="https://www.bleepingcomputer.com/news/security/over-275-million-records-exposed-by-unsecured-mongodb-database/" target="_blank"><u>又发现了</u></a>另一个没有密码保护的大型数据库，包括了超过 2.75 亿印度公民的信息。他是通过 Shodan 搜索发现了一个托管在 Amazon AWS 上的可公开访问的 MongoDB 数据库，该数据库被索引的日期是在 4 月 23 日，直到 5 月 8 日一直能访问。该数据库包含了印度居民的姓名、性别、出生日期、电子邮件、手机号码、教育信息，职业信息（雇主、工作经历、技能，职能范围）等信息，以及当前薪水。他没有查到数据库所有人的信息，猜测是出于未知目的的大规模抓取行动的一部分。
+➜Red Hat 在发现其 Logo 令人产生不良印象后做出改变
+https://www.solidot.org/story?sid=60577	51370
+众所周知知名 Linux 发行版开发商 Red Hat 的官方 logo 是“一位戴着一顶红帽子的人”，对于开源社区的人而言，这是理所当然的；但对于完全不知道开源或 Linux 或 Red Hat Enterprise Linux (RHEL)的人而言，这顶红帽子以及作为背景的阴影会让人联想到鬼鬼祟祟、偷偷摸摸、阴险等负面词语，因此 Red Hat 在收集反馈之后重新设计了新的 logo，抛弃了阴影和人物， Red Hat 现在是一顶非常纯粹的红顶帽子，不会再令人产生不良印象。<a href="https://www.redhat.com/en/blog/announcing-next-evolution-our-red-fedora-mark" target="_blank"><u>Red Hat 走出了阴影</u></a>。<br>
+➜英特尔固件引导验证绕过攻击
+https://www.solidot.org/story?sid=60578	54016
+本周在荷兰阿姆斯特丹举行的 Hack in the Box 会议上，安全研究员 Peter Bosch 和 Trammell Hudson <a href="https://www.csoonline.com/article/3393255/new-intel-firmware-boot-verification-bypass-enables-low-level-backdoors.html"><u>演示了</u></a>对英特尔 UEFI 参照实现的新攻击。这种攻击需要物理访问硬件，允许攻击者通过替换含有恶意代码的 SPI  闪存芯片，获得系统的完全的持久的访问权限。这种攻击不太可能成为普遍的危险，但显然可以被情报机构等特殊部门用于设置底层后门发动针对性的攻击。英特尔已经发布了补丁，但给 UEFI 打补丁并不是一件简单的事情。

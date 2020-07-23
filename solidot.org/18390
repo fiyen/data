@@ -1,0 +1,24 @@
+➜微信监视所有用户的内容
+https://www.solidot.org/story?sid=64295	6870
+加拿大多伦多大学公民实验室发表报告称，<a href="https://citizenlab.ca/2020/05/we-chat-they-watch/" target="_blank"><u>微信监视所有用户的内容</u></a>，无论是中国用户还是非中国用户，他们发送的内容都受到监视。微信是中国最流行的社交媒体平台，截至 2019 年底有 11.5 亿月活用户。微信曾被认为主要审查中国用户的账号，但公民实验室发现非中国国籍或者使用非中国手机注册的账号同样受到监视，这些用户发送的文件和图像都面临内容监视和审查。
+➜中国黑客组织攻击西澳洲政府
+https://www.solidot.org/story?sid=64296	22908
+Check Point Software Technologies <a href="https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/"><u>报告</u></a>中国黑客组织 Naikon 对包括西澳洲政府在内的亚太地区国家发动攻击。Naikon 的方法是先渗透进入一个政府机构，然后利用该机构的通讯录、文档和数据对其它政府目标发动针对性的钓鱼攻击，利用部门和政府之间的信任和外交关系去增加攻击的成功率。它使用名叫 Aria-body 的后门获得被感染计算机和网络的远程访问能力。Check Point 称，Naikon 主要针对不同政府的外交和科技部门，以及政府企业，它的动机被认为是收集地缘政治情报。
+➜Matrix 默认私聊启用端对端加密
+https://www.solidot.org/story?sid=64297	25188
+Matrix 项目<a href="https://matrix.org/blog/2020/05/06/cross-signing-and-end-to-end-encryption-by-default-is-here"><u>宣布</u></a>，其私聊功能将默认启用端对端加密。Matrix 是一个端对端加密、去中心化的实时通讯系统，它没有中心服务器，通过网桥与其它平台互通，它在去年六月发布了 1.0 版本。Matrix 开发者表示，自它首次宣布端对端加密和开始在 Riot 客户端中测试已过去了三年，在大量的打磨和改善用户体验之后，它现在宣布结束测试，在 Riot 中默认对所有新私聊启用端对端加密。 Riot 是最常用的 Matrix 客户端，这意味着 Matrix 作为一个整体默认启用了端对端加密。
+➜Stack Overflow 以新冠为由裁员 15%
+https://www.solidot.org/story?sid=64298	28559
+又一家公司以正在爆发的新冠疫情为由宣布了裁员，这次是著名的编程问答网站 Stack Overflow。公司 CEO 通过官方博客<a href="https://stackoverflow.blog/2020/05/07/the-way-forward/" target="_blank"><u>宣布裁员约 15%</u></a>，称绝大部分受影响的雇员已经在休假中。裁员主要波及它的 Talent 业务，CEO 表示该业务与招聘环境息息相关，因为疫情现在的招聘环境显然非常糟糕。Stack Overflow 是最大的编程问答社区，每月独立访客超过 5 千万，它的访问人数不太可能会受到疫情影响，但招聘业务确实会被疫情波及。
+➜日本批准瑞德西韦作为新冠治疗药物
+https://www.solidot.org/story?sid=64299	34442
+日本药事与食品卫生审议会<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/40472-2020-05-08-10-20-28.html" target="_blank"><u>批准瑞德西韦作为新冠治疗药物</u></a>。吉利德公司（Gilead）的瑞德西韦（remdesivir）尚未完成临床试验，有效性和安全性信息有限，因此服药需要获得患者书面同意，还必须每日进行肾功能和肝功能检测，而且用药时间最多不超过 10 天。日本厚劳省透露目前有 14 万份瑞德西韦，但其中的 4 万份要用于临床试验。预计形成正式的供应体制要到 2020 年下半年，吉利德的增产目标是到 10 月达到累计 50 万人份、12 月达到 100 万人份。
+➜人脑在睡眠时回放清醒时的经历
+https://www.solidot.org/story?sid=64300	35176
+根据发表在《Cell Reports》期刊上的<a href="https://doi.org/10.1016/j.celrep.2020.107581"><u>一项研究</u></a>，科学家首次<a href="http://news.sciencenet.cn/htmlnews/2020/5/439461.shtm">直接证明了</a>人脑会在睡眠中回放清醒时的经历。在睡眠中，大脑会重演清醒时经历的神经放电模式，又称“离线回放”。人们一般认为这种回放是巩固记忆的基础，通过回放，最近的记忆在其神经表征中变得更为持久。科学家此前观察过动物中的回放现象，而此研究则检验了回放现象也在人脑中发生。尽管科学家尚未完全了解学习和记忆巩固是如何运作的，但这一系列动物和人类研究都表明，睡眠在学习和记忆巩固的过程中起着至关重要的作用。
+➜黑客操纵一个僵尸网络只为下载日本动漫
+https://www.solidot.org/story?sid=64301	37638
+安全公司 Forcepoint <a href="https://www.forcepoint.com/blog/x-labs/botnets-nas-nvr-devices"><u>披露了</u></a>一个存在了八年之久的僵尸网络，而这个僵尸网络的目的不是为了发动拒绝服务攻击或发送垃圾信息，而只是为了下载日本动漫，很可能是一位黑客的业余项目。被称为 Cereals 的僵尸网络利用了友讯科技的 NVR 和 NAS 设备固件 SMS 通知功能的<a href="http://roberto.greyhats.it/advisories/20120208-dlink-rce.txt"><u>一个漏洞</u></a>，它最早出现 2012 年，2015 年设备数量最多有 1 万台，最近几年逐渐消失，原因包括存在漏洞的设备逐渐老化和淘汰，此外 2019 年出现的勒索软件 Cr1ptT0r 还会删除 Cereals。种种迹象显示，这个僵尸网络的作者可能是名叫 Stefan 的德国人——Stefan 是德国最常见的名字之一。
+➜中国新载人飞船试验船成功返回
+https://www.solidot.org/story?sid=64302	47167
+中国新一代载人飞船试验返回舱在预定区域<a href="http://www.cmse.gov.cn/xwzx/yzjz/202005/t20200508_46520.html"><u>成功着陆</u></a>。试验船于 5 月 5 日 18 时 00 分从文昌航天发射场发射升空，在轨飞行 2 天 19 小时，完成了多项空间科学实验和技术试验，验证了新一代载人飞船高速再入返回防热、控制、群伞回收及部分重复使用等关键技术。<a href="https://www.nasaspaceflight.com/2020/05/china-next-generation-crew-capsule/"><u>新载人飞船</u></a>设计用于地球低轨道任务和深空任务，能运送 6 名宇航员或 3 名宇航员加 500 公斤货物。飞船长 8.5 米，直径 5 米，发射重量最高 21.6 吨，设计能重复使用 10 次。飞船由服务舱和返回舱构成，其中服务舱在重返大气层前中会被丢弃，返回舱则是可以重复使用的。新载人飞船有两个型号：地球低轨道型号发射质量约 14 吨，深空探索型号发射质量 21.6 吨，两者主要区别在于服务舱。

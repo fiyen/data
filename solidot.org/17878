@@ -1,0 +1,69 @@
+➜Android 被发现添加 Fuchsia SDK 和 Fuchsia 设备支持
+https://www.solidot.org/story?sid=58932	9497
+<a href="http://https://fuchsia-china.com">Fuchsia OS 中文社区</a> 写道 "Google 已经有两个用于移动设备的操作系统，一个是大家熟悉和市场欢迎的Android，另一个则是我们正在报道的 Google
+未来的操作系统 Fuchsia。这两个系统如今有了更加密切的联系，<a href="https://fuchsia-china.com/aosp-fuchsia-sdk-device/" target="_blank">今日发现官方的 Fuchsia SDK
+和一个Fuchsia“设备”已经被整合到 Android 的 AOSP 代码中了</a>。
+<p></p>
+<p>在今天发布到Android的Gerrit源代码管理的新提交中，两个与Fuchsia相关的 repo 已被添加到Android开源项目的 manifest 中。这个 manifest 是用来通知 Google下载工具下载AOSP时应包含的内容。</p>
+<p></p>
+<p>AOSP 里已经有一些不同版本的 manifest，包括仅下载构建和在Android模拟器上运行所需的版本。而这个manifest
+是默认的manifest，用于标准的AOSP下载。这意味着每个下载AOSP的人都会下载这两个与Fuchsia 相关的 repo。</p>
+<p>AOSP 中的这两个 “Fuchsia” 的 repo目前是空的，这意味着我们只是通过它们的名字来猜测它们未来的用途。第一个 repo “<a href="https://android.googlesource.com/platform/prebuilts/fuchsia_sdk/">platform / prebuilts / fuchsia_sdk</a>”清楚地表明了这是 Google 计划用于开发 Fuchsia 软件的官方软件开发工具包（也就是SDK）。很快我们就会揭露 Fuchsia SDK 的更多细节，敬请期待。</p>
+<p></p>
+<p>另外需要注意，Fuchsia SDK 与 Google 的 Flutter SDK 明显不同，后者目前在 Google 内部用于创建许多Fuchsia 应用程序，但尚未准备好让外部开发者参与构建 Fuchsia 应用程序。</p>
+<p>第二个 repo，是一个很有意思的 repo，它是“<a href="https://android.googlesource.com/device/google/fuchsia/">device / google / fuchsia</a>”，从名字看这是 Google 创建的某种在 Fuchsia 上运行的 “设备”，但也需要由 Android 的代码库管理。</p>
+<p>鉴于 Android 代码也包括类似的“设备”，例如“device/generic/goldfish”，它被用在Android 模拟器中运行，联系其之前的消息：<a href="https://fuchsia-china.com/android-emulator-fuchsia-zircon/"> Android 模拟器增加对 Fuchsia 操作系统内核 Zircon 的支持</a>，这一切就显得很自然了。</p>
+<p>以上大量证据可以推断得出，这个 Fuchsia “设备”将被当作一个模拟设备，提供给开发者来构建 Fuchsia 应用程序， 而
+Fuchsia SDK 已经被包含在 Android 的代码中，更值得期待的是，很快，默认下载的 Android 模拟器就包括了这些支持！"
+➜中国去年发表科技论文 170 万篇
+https://www.solidot.org/story?sid=58933	12945
+根据国家统计局公布的<a href="http://news.sciencenet.cn/htmlnews/2018/12/421063.shtm"><u>数据</u></a>，中国去年全年发表科技论文 170 万篇（包括国内期刊上发表的论文），国内专利申请授权数为 172.1 万件，其中发明专利授权数 32.7 万件，去年研发经费投入为 17606.1 亿元。而根据浙江大学研究人员在《Learned Publishing》期刊上发表的<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1203" target="_blank"><u>报告</u></a>（<a href="https://sci-hub.tw/https://doi.org/10.1002/leap.1203"><u>链接</u></a>仅供参考），美国科学家去年发表的科学、技术和医学论文数为 409,000 篇，而中国是 426,000 篇，中国已经超过美国成为最大的科技论文发表国。但中国在科学领域的影响力上仍然远落后于其它国家，根据 ESCI、SSCI、AHCI 和 SCIE 等指数中国在亚洲落后于韩国和日本，与英国和美国相去甚远。
+➜免疫细胞自曝来警告我们
+https://www.solidot.org/story?sid=58934	13804
+根据发表在《科学》期刊上的一项<a href="http://science.sciencemag.org/content/362/6418/1064.editor-summary"><u>研究</u></a>，挪威科技大学的科学家研究了黑死病爆发的罪魁祸首鼠疫杆菌（Yersinia pestis）。这种细菌在 14 世纪杀死了欧洲将近三分之一的人口。鼠疫杆菌是一种非常具有欺骗性的细菌，能操纵免疫系统隐藏自己，它还会杀死免疫细胞。研究人员发现了人体应答的新机制。<a href="http://www.ebiotrade.com/newsf/2018-12/20181211172221578.htm"><u>研究显示</u></a>，免疫细胞会爆炸自己释放蛋白质，以抵抗入侵细菌，和弥补它们造成的损害。这些爆炸还能警告其他免疫细胞，也就是说免疫细胞牺牲自己让其它细胞知道发生了什么。这个过程即细胞焦亡（pyroptosis）。细胞焦亡是一种最近发现的细胞程序性死亡方式，表现为细胞不断胀大直至细胞膜破裂，导致细胞内容物的释放进而激活强烈的炎症反应。这是机体重要天然免疫反应，在拮抗感染和内源危险信号中发挥重要作用。相比于细胞凋亡（apoptosis），细胞焦亡发生的更快，并会伴随大量促炎症因子的释放。
+➜内核开发者讨论移除 x32 支持
+https://www.solidot.org/story?sid=58936	17124
+Linux 内核开发者正在讨论<a href="https://lwn.net/Articles/774734/#Comments"><u>移除 x32 支持</u></a>。x32 子架构是 x86-64 的一种软件变体，它运行在处理器的 64 位模式上，但使用 32 位指针和运算。x32 相比 x86-64 的主要优势是不需要额外的内存占用。但在内核引入了&nbsp; x32 之后，它并没有获得多少赏识，没有几个发行版支持，用户基数也非常小，所以内核开发者提议将其移除。Linus Torvalds <a href="https://lkml.org/lkml/2018/12/10/1151"><u>不反对移除</u></a>，表示需要先听听反对者的意见。
+➜科学家刷新高温超导记录
+https://www.solidot.org/story?sid=58937	18071
+室温超导正逐渐变成现实。德国化学家发现了一种材料能在比北极气温更高的温度下<a href="https://www.technologyreview.com/s/612559/the-record-for-high-temperature-superconductivity-has-been-smashed-again/" target="_blank"><u>表现出超导性</u></a>。德国马普化学研究所的 Mikhail Eremets 和同事发现 LaH<sub>10 </sub>的超导性出现在 250K 或 -23℃ 温度下，比北极目前的温度更高。当然这种材料实现超导性还需要高压，其压力条件为 170 吉帕，相当于 170 万倍标准大气压或地球中心压力的一半，要产生如此强的高压非常困难。常温还要常压的超导材料仍然离我们很遥远。
+➜英特尔承诺提升 iGPU 性能，突破 Tflops
+https://www.solidot.org/story?sid=58938	25683
+英特尔<a href="https://arstechnica.com/gadgets/2018/12/intel-promises-big-boost-to-integrated-gpu-breaks-teraflop-barrier/"><u>承诺</u></a>大幅提升其集成显卡 iGPU 的性能，它的 Gen11 GPU 执行单元将从 24 增加到 64，数值运算性能将突破 1Tflops。竞争对手 AMD 拥有 CPU 和 GPU 业务，它的桌面级&nbsp; APU 性能早就突破了 1Tflops，AMD Ryzen 5 2400G APU 中的集显性能为 1.7 Tflops，价格为 1099 元（国区），另一款类似产品 2200G 价格为 708 元。英特尔的新 iGPU 将采用 10 纳米工艺制造，将在 2019 年随 Sunny Cove 发布。S<a href="https://arstechnica.com/gadgets/2018/12/intel-unveils-a-new-architecture-for-2019-sunny-cove/" target="_blank"><u>unny Cove 微架构</u></a>基于 Skylake，同样采用 10 纳米工艺，其 L1 数据缓存将比 Skylake 高 50%，支持  AVX-512 指令，虚拟内存地址增加到 57 比特，物理内存地址增加到 52 比特，最大虚拟内存 128PB，最大物理内存 4PB。Sunny Cove CPU 预计会在 2019 年下半年发布，2020 年发布改进版的 Willow Cove，2021 年发布 Golden Cove。
+➜俄罗斯电视台展示的机器人被发现其实是人
+https://www.solidot.org/story?sid=58939	27796
+<div align="center"><img src="//img.solidot.org/0/765/liO4mVqN0HKLE.png" width="400" height="240" align=""><br>
+</div>
+<br>
+俄罗斯国家电视台称赞的机器人<a href="https://www.theguardian.com/world/2018/dec/12/high-tech-robot-at-russia-forum-turns-out-to-be-man-in-robot-suit" target="_blank"><u>被发现</u></a>其实是穿着机器人外壳的人。电视台记者在报道一个专注于机器人技术的青年科技论坛时称，Robot Boris 已经学会了跳舞，而且跳得不错。但眼尖的博主提出了质疑，机器人的外置传感器在哪里？为什么跳舞时它做出过多不必要的动作？随后摄影师给出了答案，这个机器人其实是套着机器人外壳的演员。机器人服装由 Show Robots 公司制作，价值约 2.6 万人民币，配备了麦克风和平板显示屏。
+➜船舶感染勒索软件、USB 恶意程序和蠕虫
+https://www.solidot.org/story?sid=58940	30676
+船舶的 IT 系统并不像人们以为的那样是物理隔离的。根据船舶行业的一份报告，<a href="https://www.zdnet.com/article/ships-infected-with-ransomware-usb-malware-worms/"><u>它也遭遇过各种安全事故</u></a>，如感染勒索软件、蠕虫和病毒等，只是我们以前没有听说过罢了。行业组织和航运协会公布的《Guidelines on Cyber Security onboard Ships》列举了多起船舶感染病毒的案例：一艘新建的干散货船由于其电子海图显示与信息系统（ECDIS）感染病毒而推迟航行数天，这艘船是为无纸导航设计的，没有携带纸质海图，ECDIS 的故障最初并没有被视为是网络安全问题，直到技术人员花了大量时间排除故障后发现是 ECDIS 感染了病毒。病毒隔离后 ECDIS 计算机恢复了工作。延误加上维修费用损失了数十万美元。文件还披露了一艘船感染了两个勒索软件。在另一个勒索软件感染案例中，船主支付了赎金。
+➜俄罗斯在线地图模糊军事基地位置
+https://www.solidot.org/story?sid=58942	32506
+<div align="center"><img src="//img.solidot.org/0/766/lidKX4y7zq3w.png" width="450" height="333" align=""><br>
+</div>
+<br>
+俄罗斯在线地图 Yandex Maps 模糊了数百个土耳其和以色列军事基地的位置，反而<a href="https://www.popularmechanics.com/military/a25461748/yandex-mapping-service-locates-secret-military-bases/" target="_blank"><u>意外暴露了</u></a>机密信息。这些军事基地位置一部分众所周知，但还有很多并不为人所熟知，其中包括了敏感的防空导弹位置和核设施位置。 美国科学家联合会<a href="https://fas.org/blogs/security/2018/12/widespread-blurring-of-satellite-images-reveals-secret-facilities/"><u>称</u></a>，Yandex Maps 模糊了 300 多个建筑物、机场、港口、掩体、仓库、基地、营房，核设施和其它随机建筑物。Yandex Maps 不仅确认了它们的位置，模糊的范围还暴露了它们的确切尺寸和形状。
+➜华为在美员工担心安全
+https://www.solidot.org/story?sid=58941	32819
+华为在美员工过去一年目睹了美国政府将华为列为国家安全威胁、并采取措施试图在美国和海外禁售其产品的过程。这场运动再加上华为首席财务长近期被捕，<a href="https://cn.wsj.com/articles/%E5%AD%9F%E6%99%9A%E8%88%9F%E8%A2%AB%E6%8D%95%E5%BC%95%E5%8F%91%E5%8D%8E%E4%B8%BA%E9%A9%BB%E7%BE%8E%E5%91%98%E5%B7%A5%E7%9A%84%E5%B0%B1%E4%B8%9A%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7-11544665212"><u>引发了有关就业安全的担忧</u></a>。一名华为员工在上周六的社交聚会上提出了一连串此类问题：“当人们发现我在华为工作时，他们首先会问，你看新闻了吗？你担心你的工作吗？”这位员工说：“答案是肯定的。”华为称在美国雇用了约 1500 名员工。虽然其中很多是中国公民，但该公司表示，大约 75% 的员工是在美国本土雇用的。这些员工分布在 18 个办公地点。
+➜12306 推出“候补购票” 功能
+https://www.solidot.org/story?sid=58943	36648
+一年一度的春运即将到来，铁路是中国最主要的长距离出行方式，但铁道部官方售票网站 12306 上的火车票<a href="https://www.solidot.org/story?sid=55463"><u>通常刚上线就没了</u></a>，部分原因是各种抢票软件的流行。今年 12306 决定改善用户体验，<a href="http://travel.people.com.cn/n1/2018/1211/c41570-30457790.html"><u>引入了</u></a>“候补购票” 功能。在遇到车票售完的情况，用户只需支付预购票款，之后如有退票、余票的话，12306 系统将自动为旅客购票。但<a href="http://www.bjnews.com.cn/opinion/2018/12/13/530121.html"><u>这项功能</u></a>是否真的能改善用户的购票体验还有待实践检验。春运购票从 12 月 23 日开始。
+➜新南威尔士禁止小学生使用手机
+https://www.solidot.org/story?sid=58944	36835
+澳大利亚新南威尔士州政府计划减少网络欺凌以及减少学生不必要的分心，为了达到这一目的，新州公立小学明年起<a href="https://www.abc.net.au/chinese/2018-12-13/nsw-phone-ban-aims-to-reduce-bullying/10613682" target="_blank"><u>将实施手机禁令</u></a>。此次改变是由儿童心理学家 Michael Carr-Gregg 博士在 6 月份接受委托进行审查之后发生的。该审查收到了包括 1.4 万份调查答复以及 80 份书面材料，还指出了学生们所分享的陌生人的露骨照片以及欺压行为。公立中学可以选择在该禁令颁布时加入，也可以自行决定允许手机使用的程度。
+➜南京市国家公祭保障条例禁止歪曲否认南京大屠杀史实
+https://www.solidot.org/story?sid=58945	38641
+12 月 13 日是全国人大常委会在 2014 年通过的南京大屠杀死难者国家公祭日，而江苏人大常委会上个月通过的《<a href="http://www.jsrd.gov.cn/zyfb/dffg1/201811/t20181128_508756.shtml"><u>南京市国家公祭保障条例</u></a>》也在这一天<a href="http://www.xinhuanet.com/politics/2018-12/13/c_1123844677.htm" target="_blank"><u>生效</u></a>。《条例》规定：<i>
+举行国家公祭仪式鸣放警报时，除了正在执行紧急任务的特种车辆、正在从事特种作业的人员以外，其他人员就地默哀一分钟，其他机动车、火车、船舶等停驶鸣笛致哀一分钟；禁止擅自使用轻型和超轻型固定翼飞机、滑翔伞、热气球、无人机等一切飞行器进行升空飞行活动；国家公祭设施周边禁止一切公共娱乐活动；本市广播、电视、报纸等媒体在国家公祭日当天应当停止刊播一切娱乐性报道或者节目；禁止任何单位和个人歪曲、否认南京大屠杀史实，侮辱、诽谤南京大屠杀死难者、幸存者，编造、传播含有上述内容的有损国家和民族尊严、伤害人民感情的言论或者信息；禁止在国家公祭设施、抗战遗址和抗战纪念馆等地使用具有日本军国主义象征意义的军服、旗帜、图标或者相关道具，拍照、录制视频或者通过网络对上述行为公开传播...</i>
+➜Google 将域名 duck.com 转让给 DuckDuckGo
+https://www.solidot.org/story?sid=58946	39946
+Google 将域名 duck.com <a href="https://techcrunch.cn/2018/12/13/duck-com-now-points-to-duckduckgo-not-google/"><u>转让</u></a>给了竞争对手 DuckDuckGo。DuckDuckGo 创始人 Gabriel Weinberg 确认了这一消息。他表示，“我们很高兴 Google 选择将 duck.com 的所有权转让给 DuckDuckGo。获得 duck.com 域名将帮助用户更方便地使用 DuckDuckGo。”Google 在一份声明中表示它与 DuckDuckGo 公司达成协议，将 duck.com 的所有权和相关权利转让给 DuckDuckGo。今年 7 月，DuckDuckGo <a href="https://www.solidot.org/story?sid=57285"><u>公开抱怨 Google 混淆其用户</u></a>，给出的一个理由就是将 duck.com 域名重定向到 Google 搜索。但前 duck.com 资深雇员发表声明，否认 duck.com 重定向到 Google 是搜索巨人有意的行为，称是他在 2010 年 Google 收购 On2 Technologies/The Duck Corporation (on2.com 和 duck.com) 之后决定重定向 duck.com。
+➜苹果考虑在中国之外生产 iPhone
+https://www.solidot.org/story?sid=58947	45112
+彭博社<a href="https://www.bloomberg.com/news/articles/2018-12-12/apple-is-said-to-mull-moving-iphone-output-if-tariffs-hit-25"><u>报道</u></a> ，如果美国大幅提高进口关税，苹果考虑在中国之外生产 iPhone。如果美国以 10% 的关税对在中国生产的 iPhone 征税，苹果的供应商能继续在中国生产产品；但如果关税水平提高到 25%，供应商们则要考虑将生产转移到中国之外了。随着中美贸易战的深入，苹果及其合作伙伴正在评估其供应链。苹果的  iPhone 主要由台湾的鸿海在中国大陆组装，然后发货到世界各地。iPhone 此前没有包含了美国对中国产品的征税范围内，但上个月美国总统特朗普接受华尔街日报采访时<a href="https://www.solidot.org/story?sid=58734"><u>表示</u></a>准备对来自中国的 iPhone 和笔记本等产品加征关税。特朗普说，“我是说，税率可以定在 10%，这样大家就很容易承受。”
+➜超新星或能解释 260 万年前海洋生物的大灭绝
+https://www.solidot.org/story?sid=58948	47063
+根据发表在《Astrobiology》期刊上的<a href="https://www.liebertpub.com/doi/10.1089/ast.2018.1902"><u>一项研究</u></a>，超新星爆发可能<a href="https://www.theregister.co.uk/2018/12/12/supernovae_mass_extinctionevent/" target="_blank"><u>触发了</u></a> 260 万年前史前海洋生物的大灭绝。像巨牙鲨（Megalodon）这样的大型海洋生物在晚上新世突然就消失了。科学家注意到古海床中的铁-60 同位素在大约同一时间出现了峰值。堪萨斯大学的科学家认为，一颗位于 150 光年外的超新星爆发，释放出的致命辐射部分抵达了地球。而太阳系当时正处于被称为本星系泡的星际媒介边地区，辐射被放大。被辐射照射到的动物会出现健康问题，体型越大的动物致癌率会越高。巨牙鲨可能就因为吸收了足够的辐射而发展出癌症过早死亡。

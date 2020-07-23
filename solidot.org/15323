@@ -1,0 +1,67 @@
+➜NVIDIA开放CUDA编译器源代码
+https://www.solidot.org/story?sid=27461	3600
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"随着针对<a href="__SLASHLINK__" sect="developers" sid="11/11/15/0059249" sn="article" tid="5">GPGPU异构编程的应用越来越多</a>，AMD前几天<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTAyNjk">开源了针对基于LLVM的OpenCL后端编译器代码</a>以此加大对自由软件显卡驱动的支持。AMD的竞争对手NVIDIA通常对开源社区是嗤之以鼻的，但迫于市场前景的压力，今天NVIDIA在北京<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTAyODI">宣布开放了CUDA编译器的源代码</a>，CUDA编译器是基于LLVM的。虽然目前已经开源了，但获取源代码并不是很方便，你仍然需要<a href="http://developer.nvidia.com/content/cuda-platform-source-release">向NVIDIA填写申请表单</a>来获取源代码。为什么Nvidia就不能像id software<a href="https://github.com/TTimo/doom3.gpl">公布Doom 3源代码</a>一样直接把代码放到github？官方新闻稿<a href="http://pressroom.nvidia.com/easyir/customrel.do?easyirid=A0D622CE9F579F09&amp;version=live&amp;releasejsp=release_157&amp;xhtml=true&amp;prid=831864">暗示</a>未来会扩大源代码访问。"</i>
+➜Google获得无人驾驶汽车专利
+https://www.solidot.org/story?sid=27462	6120
+美国专利和商标局（USPTO）<a href="http://tech.slashdot.org/story/11/12/14/2130245/google-awarded-driverless-vehicle-patent">授予</a>了Google“<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=8,078,349.PN.&amp;OS=PN/8,078,349&amp;RS=PN/8,078,349">混合模式汽车从人类驾驶转换到自主驾驶</a>”的专利。搜索巨人是在今年五月申请的，USPTO仅仅用了半年时间就颁发了专利。Google在专利描述中举了芝加哥千禧年公园观光的例子，自主驾驶观光车可以接受指令在不同的游览地点停留几分钟，然后再驾驶到另一个地点，最后返回起始位置。
+➜Humble Bundle 4提供经典独立游戏包
+https://www.solidot.org/story?sid=27463	8640
+最新的自主定价、无DRM、跨平台独立游戏包<a href="http://www.humblebundle.com/">Humble Bundle 4</a>已经发布，不到一天销售额已突破一百万美元，这与游戏包本身的品质优异不无关系。Humble Bundle 4包括动作过关类游戏Super Meat Boy、街机风格射击游戏<a href="http://www.finalformgames.com/jamestown/">Jamestown</a>，2D动作游戏<a href="http://www.shankgame.com/">Shank</a>、复古风格的动作音乐游戏<a href="http://bittripgame.com/bittrip-runner.html">Bit.Trip Runner</a>和2D物理解密游戏<a href="http://www.nicalis.com/games.php?game=nightsky">NightSky</a>。以及两款bonus游戏，太空策略游戏<a href="http://www.gratuitousspacebattles.com/">Gratuitous Space Battles</a>和2D平台游戏<a href="http://nicalis.com/games.php?game=cavestory">Cave Story+</a>，如果玩家的出价高过平均价格（目前是5.36美元），就可以获得。Humble Bundle的Richard Esguerra称，Humble Bundle游戏包<a href="http://arstechnica.com/gaming/news/2011/12/the-latest-humble-bundle-offers-amazing-games-promotes-multiplatform-releases.ars">最雄心勃勃的方面</a>是跨平台移植，许多独立游戏只支持Windows，需要移植到Mac和Linux。
+➜2011年是Linux失望之年
+https://www.solidot.org/story?sid=27464	10800
+2011年是Linux诞生二十周年，但在年底回顾过去一年发生的事件，开源自由软件社区的形势<a href="http://www.datamation.com/open-source/2011-the-year-of-linux-disappointments-2.html">并不乐观</a>。虽然大部分企业和社区项目，新产品和发布，都和往年一年，然而反对自由软件的攻势<a href="https://lwn.net/Articles/472135/">比过去更强</a>，挫折也胜于过去。甲骨文、微软和苹果起诉Google或Android制造商专利侵犯，诺基亚放弃MeeGo选择Windows Phone 7，惠普放弃了基于Linux的WebOS，Google Chromebook几近无人问津；Linux kernel和Linux基金会服务器被入侵；Bitcoin衰落，Firefox市场份额减少，它学习Chrome的快速发布遭到了批评；OpenOffice.org被甲骨文捐赠给了Apache基金会，成为一个<a href="http://incubator.apache.org/openofficeorg/">孵化器项目</a>，有流言说它可能永远也无法从孵化器毕业；鼓励女性参与FOSS的Ada Initiative计划也没多少效果；Windows 8品牌机将限制安装其它操作系统；GNOME 3和Ubuntu Unity显示了移动对桌面的影响，但都因变化太大遭到强烈抵制...
+➜《时代》年度人物“抗议者”
+https://www.solidot.org/story?sid=27465	11880
+从阿拉伯之春到雅典，从占领华尔街到占领莫斯科，《时代》杂志对中东和世界其它地区发生的前所未有的变革给予认可，将“<a href="http://www.time.com/time/person-of-the-year/2011/">抗议者</a>”评选为<a href="http://www.voanews.com/chinese/news/20111214-US-Time-Person-of-the-year-135591368.html">时代周刊年度人物</a>。<i>
+时代杂志说，参与这场抗议运动的大多是被剥夺权利的青年人。他们对政治权力的缺失和失败的经济感到沮丧。在中东，抗议活动最先从突尼斯开始，然后蔓延到埃及、也门和利比亚，最后导致这些国家的政权更迭。在美国和西欧，抗议者举行示威，抗议严峻的经济形势以及贫富不均。今年的大多数抗议活动是由不属于任何政党的民众发起的。它说，这些抗议活动正在改变国际政治。年度人物候选包括中国艺术家艾未未、与威廉王子结婚的凯特·米德尔顿、领导突袭本拉登行动的美国海军上将威廉·麦克雷文等。</i>
+➜杀害韩警暴徒最高可判死刑
+https://www.solidot.org/story?sid=27466	12600
+小孔渔网 写道<i> "据韩国《每日经济》报道，韩国警方已决定对9名中国渔民<a href="http://realtime.zaobao.com/2011/12/jg111215_019.shtml">签发逮捕令</a>，其中8名船员的罪名是“妨害特殊公务执行”，而杀害警察的程大伟罪名还要加上“杀人”一条。报道说程犯还涉嫌刺伤另一名韩国海警，因此不管适用什么罪，都有可能最高判处死刑。其他中国船员如果只是抵抗，将适用妨害公务执行罪处以5年以下徒刑，如果是直接帮助暴徒行凶，将视为杀人共犯。<a href="http://news.163.com/special/reviews/illegalfishing.html">中国媒体</a>揭示了中国渔民猖狂的偷渔行为：2001年《中韩捕鱼协定》签订，中韩两国的渔民不能再到对方专属地区进行捕鱼，但是据统计在2004年到2008年间，共有2196艘中国渔船进入韩国经济区非法捕鱼。此期间被捕的中国船员达20896人。中国渔民使用的渔网比韩国船密集得多，所过之处鱼虾不论大小均被扫荡。这种渔猎方式使得韩国渔民生计受到威胁。为防止被韩方抓到罚款，中国偷渔者追被了镰刀斧头等凶器，过去5年在韩国水域杀害2名韩国人，打伤28人。"</i>
+➜卫星拍到中国航母二次海试照片
+https://www.solidot.org/story?sid=27467	13320
+商业卫星公司DigitalGlobe<a href="http://www.digitalglobe.com/products#monitoring&amp;analysis-center">拍摄到了</a>(大照片需要购买)中国海军首艘航空母舰在黄海第二次海试的<a href="http://www.digitalglobe.com/sites/default/files/ac_varyag-yellowsea2.jpg">照片</a>(JPG)。<i>
+这可能是由前苏联“瓦良格号”改装而成的中国首艘航母二次海试的<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/12/111215_china_carrier_satellite.shtml">首张公开照片</a>。“瓦良格号”航母首次海试于今年8月10至14日完成，第二次海试是在11月29日至12月11日之间进行的。DigitalGlobe公司的卫星在12月8日在黄海拍摄到了航母的照片。中国媒体此前报道，进行第二次海试的中国航母是从辽宁省大连军港出海。</i>
+➜美国禁止喧哗的广告
+https://www.solidot.org/story?sid=27468	18000
+美国联邦通信委员会（FCC）通过了《<a href="http://www.pastebay.com/146862?p=2&amp;submit=unlock">商业广告音量控制法案</a>》(Commercial Advertisement Loudness Mitigation Act，CALM)。此法案旨在解决用户多年来投诉电视广告音量过大的问题。FCC在其声明中表示说：“联邦通讯委员会今天迈开重要一步，以消除自电视时代以来最长久的问题之一。这次是国会首度授权FCC，解决电视广告音量过大的问题。”<a href="http://www.sinovision.net/index.php?module=news&amp;act=details&amp;col_id=3&amp;news_id=197744">此项法案规定</a>，自2012年12月13日起，所有全国以及地方的广播公司、有线电视和卫星系统业者，均必须维持固定音量。
+➜秘而不宣的中外“网络冷战”
+https://www.solidot.org/story?sid=27469	20520
+彭博社<a href="http://www.bloomberg.com/news/2011-12-13/china-based-hacking-of-760-companies-reflects-undeclared-global-cyber-war.html">报导</a>，Google和英特尔是中国黑客合乎逻辑的目标，但为什么他们要入侵一家为连锁饭店提供宽带服务的ISP iBahn呢？根据彭博社获得的情报，以中国为基地的黑客网络过去几年攻击了至少760家企业、大学研究机构、ISP和政府机构。美国众议院特别情报委员会主席Mike Rogers说，中国黑客什么都偷。小布什总统网络安全特别顾问Richard Clarke说，每一家美国公司、每一家亚洲公司、每一家德国公司，就像使用真空吸尘器黑客窃取了难以计数的数据，每一家列入邓白氏企业名录上的公司都他们的目标，造成的损失难以衡量。在美国情报机构跟踪到的20个中国黑客团体中，<a href="http://www.voanews.com/chinese/news/20111214-US-China-Hackers-135580258.html">有12个与中国军方有关</a>。据估计，来自中国、俄罗斯等国的黑客窃取的美国公司情报价值5千亿美元。
+➜Google捐赠1150万美元打击现代奴隶制
+https://www.solidot.org/story?sid=27470	22320
+Google宣布向致力于结束现代奴隶制的团体<a href="http://abcnews.go.com/US/wireStory/apnewsbreak-google-115-million-fight-slavery-15151254#.TumcQfJe4oo">捐赠1150万美元</a>。这笔捐款被认为是至今最大的一笔用于宣传、干预和营救关押或违背意愿工作或出卖性的人的企业捐赠。当听说现代还有奴隶时，大多数人可能会感到惊讶，但全世界的现代奴隶多达千万。Google选择总部位于华盛顿的国际正义团契（International Justice Mission）负责分配捐款。该人权组织主席Gary A. Haugen表示，350万美元用于打击印度的强迫性劳动，450万美元用于印度的宣传和教育运动。
+➜Firefox太大而不能在32位Windows上编译
+https://www.solidot.org/story?sid=27471	25200
+Windows版的Firefox使用了配置文件引导优化（<a href="https://developer.mozilla.org/en/Building_with_Profile-Guided_Optimization">PGO</a>），但现在它由于<a href="http://developers.slashdot.org/story/11/12/14/1725205/firefox-too-big-to-link-on-32-bit-windows">太大而无法</a>在32位Windows上编译。<i>
+90%的Firefox用户使用32位版本，PGO优化可以让代码更高效。PGO包含了两次编译，一次产生运行时行为有关的配置信息，这些配置数据在第二次编译中生成一个优化过的浏览器。PGO让Firefox的性能<a href="__SLASHLINK__" sect="software" sid="09/02/13/1622207" sn="article" tid="39">提高了</a>10%。现在由于需要超过3GB的地址空间，32位Windows版<a href="http://www.h-online.com/open/news/item/Firefox-is-bursting-at-the-seams-1393772.html">编译失败</a>。32位Windows的物理地址扩展允许使用4GB以上的地址空间，但单进程使用空间不能超过3GB。开发者<a href="http://groups.google.com/group/mozilla.dev.platform/browse_thread/thread/c0b1d383f9a8ca63?pli=1">考虑</a>使用动态库，或者在64位系统上编译32位版本，或者使用需要更少内存的Visual Studio 2010。
+</i>
+➜Windows Live Messenger支持XMPP
+https://www.solidot.org/story?sid=27472	26640
+微软官方博客<a href="http://windowsteamblog.com/windows_live/b/windowslive/archive/2011/12/14/anyone-can-build-a-windows-live-messenger-client-with-open-standards-access-via-xmpp.aspx">宣布</a>，Windows Live Messenger正式支持开放标准网络即时消息协议XMPP，允许开发者开发能访问Live Messenger的IM客户端。对Live Messenger XMPP接口感兴趣的开发者可阅读托管在GitHub上的<a href="https://github.com/liveservices/LiveSDK/tree/master/Samples/XMPP-Samples">示例代码</a>和<a href="http://msdn.microsoft.com/en-us/windowslive/hh561460">概述文档</a>。包括Google Talk、Facebook聊天服务和IBM Lotus Sametime在内的都等支持XMPP。
+➜诺基亚称年轻人厌倦iPhone，被Android搞头晕
+https://www.solidot.org/story?sid=27473	28080
+诺基亚高管Niels Munksgaard在接受独家采访时<a href="http://www.pocket-lint.com/news/43455/nokia-iphone-fed-up-baffled-android">表示</a>，年轻人正<a href="http://apple.slashdot.org/story/11/12/14/1614232/nokia-exec-young-people-fed-up-with-iphone-and-android">厌烦iPhone</a>，同时又被Android的复杂性搞得困惑不已。他说，人人都有iPhone，他们有点厌倦了；而Android手机的复杂性和缺乏安全性则让消费者感到迷惑。他表示诺基亚将提供不一样的服务和产品。
+➜Google将发布类似Siri的语音助手Majel
+https://www.solidot.org/story?sid=27474	29520
+iPhone 4S的语音助手Siri虽然尚不成熟，但与竞争对手相比仍然远胜一筹。Android很早就实现了语音搜索，但缺乏类似Siri的对话式人工智能元素。这种情况很快就会改变，Google将在不久后发布Android Voice Actions的重大更新，<a href="http://www.geek.com/articles/mobile/google-is-close-to-releasing-siri-rival-called-majel-20111213/">提供类似Siri的功能</a>。新项目代号Majel，以《星际迷航》企业号舰载电脑配音演员Majel Barrett-Roddenberry的名字为名。它可能年底或明年初发布。
+➜2013年银河黑洞将爆发光芒
+https://www.solidot.org/story?sid=27475	31320
+每位星舰船长都知道，真正的星际最高指导原则是避开黑洞。但有些东西就是不听。根据发表在《自然》上的最新<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature10652.html">研究报告</a>，一个气体云团<a href="http://news.sciencemag.org/sciencenow/2011/12/warning-black-hole-dead-ahead.html?rss=1">正加速向银河系的黑洞冲过去</a>，当它与黑洞碰撞，将会绽放出太空烟火。<i>
+银河中心的超大质量黑洞被认为是人马座A* ，距离我们2.7万光年，是太阳质量的4百万倍。银河所有的恒星都围绕其旋转，太阳转一周需要2.3亿年。天文学家使用位于智利的甚大望远镜发现了一个靠近黑洞的天体，波长显示其可能是气体而不是恒星。气体云团的质量是地球的3倍，但发射出五倍于太阳的能量，跨度是日地距离的250倍，温度是550K。人马座A*的巨大引力正牵引云团加速：2004年它的速度是每秒1200公里，2011年翻了一番，增加到每秒2350公里。预计到2013年夏季，云团中心距离黑洞将只有日地距离的250倍，它将走向生命的终点。
+</i>
+➜KDE发布Plasma Active Two
+https://www.solidot.org/story?sid=27476	33120
+KDE项目<a href="https://lwn.net/Articles/472090/">发布了</a>平板、智能手机和其它触控设备打造的用户界面Plasma Active的<a href="http://www.kde.org/announcements/plasma-active-two/">第二个版本</a>。主要变化包括：改进用户界面、改进性能，增加推荐功能。Plasma Active将能根据用户的使用行为数据向向其推荐内容、网站和应用。这项技术利用了KDE Nepomuk语义桌面的成果，让用户的设备转变成有价值的顾问和助手。
+➜书呆子最担心的几件事
+https://www.solidot.org/story?sid=27477	34320
+Dorkly.com的一篇文章列举了<a href="http://www.dorkly.com/article/26731/the-nine-greatest-nerd-fears-today">Nerd目前最担心的九件事</a>。例如：<i>
+9）乔治·R·R·马丁在完成《冰与火之歌》系列前去世。最新一部《魔龙狂舞》用了五年才写完，而马丁到明年一月已有63岁，接下来两部如果按照五年一部的速度，完成之日他将有73岁。虽说现在的医疗条件不错，但“凛冬将至”。6）集合多名超级英雄钢铁侠、美国队长、雷神、绿巨人等的《复仇者联盟》是部烂片。4）《半条命2：Episode 3》将永远不会发布，《Episode 2》是在2007年发布的，到现在有4年了，而《Episode 3》一点声息都没有。3)电影公司制作了更多部菲利普·狄克和艾萨克·阿西莫夫的电影。1）美国<a href="__SLASHLINK__" sect="mainpage" sid="11/11/16/0316238" sn="article" tid="116">改编</a>《神秘博士》。</i>
+➜啤酒冷却器阻止拍摄尴尬照片
+https://www.solidot.org/story?sid=27478	36720
+尴尬的照片会让你陷入困境，例如你与其他女性的合照可能会让妻子大发雷霆。现在，名叫Norte Photoblocker的啤酒冷却器具有独特的<a href="http://www.gizmag.com/norte-photoblocker-club-beer-cooler/20820/">阻止拍照功能</a>。它周围有四个传感器，能探测到照相机或手机摄像头发出的闪光，然后发射出巨亮的闪光回应，使照片完全被破坏。在它的保护下，你可以“为所欲为”。
+➜日本将用野生猴子检测辐射水平
+https://www.solidot.org/story?sid=27479	37920
+日本科学家<a href="http://edition.cnn.com/2011/12/14/world/asia/japan-nuclear-monkeys/index.html?hpt=hp_t3">将使用</a>1000只野生猴子来检测福岛核电站周围森林以及邻近区域的<a href="http://gb.cri.cn/27824/2011/12/14/2805s3477282.htm">核辐射水平</a>。猴子身上将佩戴辐射检测器和GPS定位系统发射器，用以测试核辐射水平和扩散速度。福岛大学教授高桥鹰幸（Takayuki Takahashi）的团队，计划利用1000只猴子对福岛核电站周围核辐射情况进行追踪和监控。高桥鹰幸说：“这些猴子将帮助我们获得某些地区更精确的辐射读数，让我们对通过森林中降雨、植物以及河流扩散的核辐射水平有更好的了解。”
+➜亚马逊电子书畅销书和实体版存在巨大差别
+https://www.solidot.org/story?sid=27480	40320
+亚马逊公布了2011年度<a href="http://www.omnivoracious.com/2011/12/amazoncoms-best-selling-books-of-2011-steve-jobs-more-customer-favorites.html">畅销书榜</a>，包括<a href="http://www.amazon.com/gp/feature.html/ref=br_lf_m_1000756251_grlink_1?ie=UTF8&amp;plgroup=1&amp;docId=1000756251">电子书百大畅销书</a>和<a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;plgroup=2&amp;tag=destinyland-20&amp;ie=UTF8&amp;linkCode=ur2&amp;docId=1000756251&amp;camp=1789&amp;creative=9325">实体书百大畅销书</a>，结果显示40%的电子书畅销书没有进入实体书榜单，电子书榜单第一和第二名<a href="http://www.beyond-black-friday.com/2011/12/14/which-ebooks-were-amazons-best-sellers-for-2011/">甚至没有实体版</a>，它们的价格分别只有0.99美元和2.99美元。这些差异清楚显示kindle电子书的读者与印刷版读者之间也存在了不同，他们阅读不同的书。电子书榜单前六是The Mill River Recluse、The Abbey、A Stolen Life、The Paris Wife: A Novel和Now You See Her，《乔布斯传》。实体书前六是《乔布斯传》，Diary of a Wimpy Kid: Cabin Fever、Inheritance(遗产四部曲第四部) 、Go the F**k to Sleep、《冰与火之歌五：魔龙狂舞》 、The Son of Neptune [奥林匹斯英雄第二部]。尼尔·斯蒂芬森的Reamde进入实体书榜单第99名，没有进入电子书榜单。

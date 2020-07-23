@@ -1,0 +1,61 @@
+➜Mt. Gox CEO被控盗用270万美元
+https://www.solidot.org/story?sid=45500	10718
+日本检方指控Mt.Gox CEO Mark Karpeles<a target="_blank" href="http://news.yahoo.com/japan-charges-bitcoin-exchange-ceo-embezzlement-jiji-press-041756154.html"><u>盗用了266万美元</u></a>。Mt.Gox曾是世界最大的比特币交易平台，去年初宣布破产，该公司之前发现有多达85万枚比特币——价值超过3亿美元——丢失。日本警方在6周前<a target="_blank" href="http://www.solidot.org/story?sid=44983"><u>逮捕了Mark Karpeles</u></a>，警方发现t.Gox交易数据中Karpeles名义的美元账户数据被两次改动。Karpeles被控挪用资金和涉嫌欺诈。他至今仍然否认自己有非法行为。他的母亲接受采访时说她的儿子是个天才，3岁就学计算机语言，2年后就能写简单程序。
+➜新iPhone首周末预购量有望突破千万
+https://www.solidot.org/story?sid=45501	11487
+苹果周一<a target="_blank" href="http://cn.reuters.com/article/2015/09/15/iphone-sale-idCNKCS0RF05C20150915?sp=true"><u>表示</u></a>，新iPhone预购订单将有望打破上一代机型去年在上市首个周末创下1000万部的销售记录。分析师认为，这要归功于纳入了中国市场。去年iPhone 6和6 Plus在中国的首卖因等待当局审批而推迟，所以首批发售市场不包括中国。分析师称，中国将超过美国成为苹果的最大市场。中国媒体则报道说，在苹果官网下单的中国客户遭遇重复下单重复扣款的问题，主要原因应该是访问量太高服务器处理不过来所致。
+➜Let’s Encrypt颁发了第一个证书
+https://www.solidot.org/story?sid=45502	12776
+<div align="center"><img src="http://img.solidot.com.cn/0/3/lisfwIGqXcOfM.png" align=""><br>
+<br>
+</div>
+Let’s Encrypt项目宣布<a target="_blank" href="https://letsencrypt.org/2015/09/14/our-first-cert.html"><u>颁发了第一个证书</u></a>。Let’s Encrypt项目旨在让每个网站都能使用HTTPS加密，该项目获得了Mozilla、思科、Akamai、IdenTrust和EFF等组织的支持，由Linux基金会托管。目前Let’s Encrypt CA还没有被加入到信任CA列表，用户需要自己添加<a target="_blank" href="https://letsencrypt.org/certs/isrgrootx1.der"><u>ISRG root CA</u></a>才能在浏览器上正常访问Let’s Encrypt签名的HTTPS网站（第一个网站是<a target="_blank" href="https://helloworld.letsencrypt.org/"><u>https://helloworld.letsencrypt.org/</u></a>）。它已经向Mozilla、Google、Microsoft和Apple递交了root CA申请。Let’s Encrypt计划在11月份开放签名申请，感兴趣的网站可以申请<a target="_blank" href="https://goo.gl/forms/kf0IGCeAk5"><u>参加beta</u></a>。
+➜Jimmy Wales谈中国审查
+https://www.solidot.org/story?sid=45503	16828
+中国在今年五月屏蔽了HTTPS和HTTP版的中文维基百科，维基百科创始人Jimmy Wales接受采访<a target="_blank" href="http://www.huffingtonpost.com/charlie-smith/jimmy-wales-on-censorship_b_8087400.html"><u>讨论了中国的审查</u></a>，他表示维基百科的宗旨是不配合任何国家的审查，而不受限制的访问知识是一项基本的人权。中文维基社区的部分成员曾因为担心中国完全屏蔽网站而反对默认启用加密——因为启用加密之后，中国只知道你访问了这个网站，但不知道你访问了哪个网页，无法针对性的屏蔽。Wales说他们尊重中文维基社区成员的观点，称大部分人仍然是支持迁移到HTTPS，虽然结果可能是中文维基百科将长期性被屏蔽。Wales认为西方应该向中国施压，称中国的网络监管者站在历史错误的一边。
+➜CloudFlare解释为什么进入中国
+https://www.solidot.org/story?sid=45504	18985
+CloudFlare宣布与百度合作改善外国网站在中国的可访问性。它的官方博客<a target="_blank" href="https://blog.cloudflare.com/how-we-extended-cloudflares-performance-and-security-into-mainland-china/"><u>解释了为什么要进入中国</u></a>。CloudFlare说，从该公司成立之初中国就是仅次于美国的第二大流量来源国。中国有7亿网民，任何致力于建造更好互联网的公司都无法忽视中国。CloudFlare称，将服务扩大到中国企业面临三大挑战：技术，经济和监管。从技术上将，中国的核心网络由两大ISP控制：中国电信和中国联通，它们控制的IP地址分配和境内的路由。而中国ISP之间和内部还有许多瓶颈，举例来说，中国电信在多个省运营着彼此独立的网络，它们之间的可连性非常差，有时候路由流量的更有效方法是出国经过第三方网络再转回来。CloudFlare说，中国的法律禁止某些类型的内容，而网站要在中国提供服务需要申请ICP牌照，每个网站需要分别申请，这些监管都大大增加了复杂度。CloudFlare称它不想成为一个审查者去判断哪些内容能进入中国，它的调查发现其 99%的客户没什么问题，将服务扩展到中国可以大大提升它们的访问性能。
+➜DARPA的直升机能感知地面确保安全着陆
+https://www.solidot.org/story?sid=45505	26732
+<center>
+<iframe src="https://www.youtube.com/embed/Ip_WqX8nmKY" allowfullscreen="" frameborder="0" height="306" width="544"></iframe><br>
+<br>
+</center>
+美国国防部高级研究计划署（DARPA）<a target="_blank" href="http://www.alphr.com/technology/1001524/darpa-is-building-the-helicopter-of-the-future"><u>正在开发可伸缩的机器人起落架</u></a>，帮助直升机在地形复杂的环境中安全着陆。直升机通常需要平地起飞和着陆。DARPA和乔治亚理工大学在直升机下安装一组机器人腿，当直升机接近地面，机器人腿自动展开，使用传感器探知地面情况，每个腿都能独立移动，能寻找到确保安全着陆的稳定支撑。DARPA已经公布了视频演示了可伸缩起落架的工作过程。
+➜香港警务处修改历史
+https://www.solidot.org/story?sid=45506	28298
+香港警务处网站<a target="_blank" href="http://www.nanzao.com/sc/hk-macau-tw/14fcfb87f897ae5/gang-jing-xin-wang-zhan-shan-gai-liu-qi-bao-dong-shi-chu-chang-cheng-zheng-zhi-yuan-zhi-yuan-wei-zi-liao-ku"><u>被发现</u></a>修改了“警队历史”中有关六七暴动的描述（<a target="_blank" href="http://www.police.gov.hk/ppp_sc/01_about_us/ph_03.html#top"><u>修改后</u></a>，<a target="_blank" href="https://web.archive.org/web/20131209213823/http://www.police.gov.hk/ppp_sc/01_about_us/ph_03.html"><u>互联网档案馆的修改前镜像</u></a>）。六七暴动又名<a target="_blank" href="https://en.wikipedia.org/wiki/Hong_Kong_1967_Leftist_riots"><u>1967年香港左派暴动</u></a>，新版本删除了旧版本中许多处描述：暴徒“挥动毛语录”“成立斗争委员会”等内容被删去；有关暴动期间，公众受到袭击，以及本地“红色精英”的行动的描述，也被删去。在描述5名警员被杀死、9名警员受伤的事件中，施害者的身份也从“共产主义民兵”，改成“内地枪手”。支持暴动的商人，那些“红色肥猫”，则将他们的孩子送到美国和英国的大学等描述被删除。参加过镇压六七暴动的前高级警司James Elms表示，这些改动并无必要。将共产主义民兵改成内地枪手，冲淡一宗政治推动的事件中的政治角色，其实就是在篡改事实。
+➜印度下一代探月飞行器将使用核能
+https://www.solidot.org/story?sid=45507	29631
+印度<a target="_blank" href="http://www.spaceflightinsider.com/organizations/isro/india-speeds-up-progress-on-its-moon-mission/"><u>正在加快开发</u></a>它的下一代月球探测器Chandrayaan-2。Chandrayaan-1是在2008年发射的，Chandrayaan-2计划在2017年底或2018年发射，它将包含一个月球轨道器、一个登陆器和月球车。轨道器将携带五个科学仪器，其中三个是新的，另外两个是上一代的改进版本。Chandrayaan-2原本是俄罗斯和印度的联合项目，但俄罗斯在火星探测飞行器发射失败后退出了该计划，登陆器原本计划由俄罗斯设计，退出之后印度决定自己干。Chandrayaan-2将使用放射性物质产生的热为设备<a target="_blank" href="http://www.defencenews.in/defence-news-internal.aspx?id=CuKVeuhbvmQ="><u>提供电能</u></a>。
+➜美国科技企业努力博得中国好感
+https://www.solidot.org/story?sid=45508	31318
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20150914/tec160809.asp"><u>报道</u></a>，美国科技企业在中国开展业务时面临着一项艰难的选择：若要进入中国庞大的市场，就越来越需要帮助中国本土企业升级技能，这样一来，达成的交易可能将昔日的合作伙伴变为强大的竞争对手。最近的一个例子是，戴尔公司决定在其电脑上<a target="_blank" href="http://cn.wsj.com/gb/20150915/rth083503.asp"><u>预装</u></a>中标麒麟，中标麒麟由中标软件和国防科技大学开发。科技政策智囊机构信息技术与创新基金会创始人兼总裁Robert Atkinson说，美国科技企业过去一年间已经了解到，如果不把技术转移到中国，就会承受相当大的后果。他说，所有人都努力博得中国政府的好感。对于在华经营的美国公司来说，他们面临的棘手问题包括数据存储地点、数据由谁管理以及他们带来的技术能否给中国军方提供帮助等。
+➜俄罗斯裁决Google滥用市场支配地位
+https://www.solidot.org/story?sid=45509	32905
+俄罗斯反垄断监管机构<a target="_blank" href="http://www.cnet.com/news/google-found-to-abuse-dominant-market-position-in-russia/"><u>裁决</u></a>Google要求移动设备厂商预装其服务违反了俄罗斯的反垄断法律，滥用了<a target="_blank" href="http://fas.gov.ru/fas-news/fas-news_36947.html"><u>市场支配地位</u></a>（俄文）。Google的Android系统是最流行的移动操作系统。虽然被指滥用支配地位，但俄罗斯没有发现Google有不正当竞争行为。Google发言人表示还没有收到正式的裁决通知，称收到之后会在仔细研究后再决定下一步怎么走。
+➜NASA说，宇航员的粪便就像流星雨一样在大气层中闪耀
+https://www.solidot.org/story?sid=45510	34613
+<div align="center"><a href="http://img.solidot.com.cn/0/7/liw8RK9jEWPo.jpg"><img src="http://img.solidot.com.cn/0/7/liw8RK9jEWPo.jpg" align="" height="448" width="560"></a><br>
+<br>
+</div>
+NASA宇航员Scott Kelly和俄罗斯宇航员Mikhail Kornienko正在国际空间站执行<a target="_blank" href="http://www.nasa.gov/1ym"><u>为期一年</u></a>（确切的说是342天）的太空任务，研究长时间生活在太空对人体的影响。9月15日，两名宇航员已经在太空中呆了171天，任务已经<a target="_blank" href="https://www.nasa.gov/feature/halfway-there"><u>完成一半</u></a>。NASA制作了一幅<a target="_blank" href="https://www.nasa.gov/mission_pages/station/research/news/infographic_yearinspace"><u>信息图</u></a>介绍Scott Kelly一年中的经历：他将会看到10944次日出和日落，而地球上的人只能看到684次；为了保持骨骼肌肉和心脏的健康Scott Kelly需要锻炼超过700小时；Scott Kelly将饮用730升回收净化的尿液和汗水；Scott Kelly将生产出大约180磅的粪便，这些粪便干化处理后将放在俄罗斯的<a target="_blank" href="http://www.nasa.gov/mission_pages/station/structure/elements/progress.html"><u>进步舱</u></a>，最后将会和其它垃圾一起脱离空间站进入大气层中焚烧，大量的粪便将会像流星雨一样在天空中闪过。
+➜微软的Cortana将深度整合到Cyanogen OS
+https://www.solidot.org/story?sid=45511	36907
+曾经受欢迎的社区发行版Cyanogen正用微软的服务替代Google的服务，以实现去Google化。公司CEO Kirt McMaster<a target="_blank" href="http://www.ibtimes.com/cortana-cyanogen-ceo-kirt-mcmaster-building-next-great-smartphone-os-2093032"><u>透露</u></a>他们正将微软的个人助手Cortana深度整合到下个版本的Cyanogen OS中。McMaste说，微软已将Cortana发布到Google Play市场，但要真正发挥作用，它需要整合到操作系统中才能发挥出全部潜力。Cyanogen最近的一系列动作已经引发了<a target="_blank" href="http://www.solidot.org/story?mode=nested&amp;sid=45352&amp;threshold=0"><u>争议</u></a>。
+➜朝鲜重启核设施
+https://www.solidot.org/story?sid=45512	37703
+朝鲜周二<a target="_blank" href="http://cn.reuters.com/article/2015/09/15/kp-us-idCNKCS0RF13V20150915"><u>声称</u></a>其宁边核设施恢复运转。“包括铀浓缩工厂和5MW石墨慢化反应堆等宁边所有的核设施都被重新安排、改变或调整，并开始正常运转，”朝中社援引朝鲜原子能机构负责人报导称。“如果美国和其他敌对势力不断寻求对朝鲜实施鲁莽的敌对政策，表现不友善，朝鲜完全准备好随时用核武器对付他们。”原子能机构负责人表示，由于形势需要，朝鲜进行了创新以提升核武器的质量和数量。中国外交部发言人洪磊在例行记者会上称，“我们希望有关方在当前形势下，多做有利于维护半岛和地区和平稳定的事情。”
+➜爱普生的“空”墨盒仍有20%的墨剩余
+https://www.solidot.org/story?sid=45513	39389
+爱普生高端打印机Epson 9900 在仍然有15-20%墨水的情况下<a target="_blank" href="http://arstechnica.com/gadgets/2015/09/empty-epson-ink-cartridges-which-cost-2500-for-a-set-are-still-20-percent-full/"><u>报告墨盒空了</u></a>，拒绝再打印。Epson 9900售价约4600美元，而它的一套墨盒售价约3900美元，15-20%墨水相当于700到800美元，也就是说更换墨盒你其实浪费了700美元左右的墨水。专业打印公司 Bellevue Fine Art打开报告已空的墨盒后发现了这一秘密，它数次就此问题联系了爱普生，结果要么被忽视要么被告知他们错了。
+➜美国海军将在太平洋限制使用伤害鲸鱼的声纳
+https://www.solidot.org/story?sid=45514	42732
+美国海军同意在太平洋<a target="_blank" href="http://www.bbc.com/news/world-us-canada-34252058"><u>限制使用</u></a>声纳，声纳发射的声波可能会无意间伤害附近鲸鱼和海豚。根据与环保组织达成的协议，美国海军将在演习中限制或禁止使用中频主动声纳和爆炸物。环保组织称，声纳干扰了海洋哺乳动物的进食，甚至导致它们失聪或死亡。而美国海军四年前在圣迭戈的一次爆炸训练中杀死了四只海豚。
+➜DARPA的义肢让瘫痪者感知手指压力
+https://www.solidot.org/story?sid=45515	44604
+DARPA称，一名28岁的四肢瘫痪者成为<a target="_blank" href="http://arstechnica.com/science/2015/09/darpas-prosthetic-hand-allows-paralysed-patient-to-feel-pressure-on-fingers/"><u>第一位通过义肢体验触觉的人</u></a>。这一成就是通过将义肢上的力矩传感器信号传导到附在志愿者大脑感觉皮层上的电极阵列实现的。实验使用的义肢是约翰霍普金斯大学应用物理实验室研制的，DARPA称在一系列早期测试中精度接近100%。蒙上眼的志愿者通过感知区分触摸对象。
+➜机器人伦理学家呼吁禁止性爱机器人
+https://www.solidot.org/story?sid=45516	47294
+机器人伦理学家Kathleen Richardson博士领导发起了一场运动，<a target="_blank" href="http://www.bbc.com/news/technology-34118482"><u>呼吁禁止开发性爱机器人</u></a>。她说此类技术的使用是不必要和不受欢迎的。市场上现有的性爱玩偶正变得越来越先进，加入人工智能被认为是未来产品的趋势，业内人士相信存在性爱机器人的巨大需求。Richardson博士认为这种趋势令人不安。她说，开发性爱机器人将会强化男人与女人、成人与儿童、男人与男人，女人和女人之间的有害关系。销售性爱玩偶的Abyss Creations公司CEO Douglas Hines回应说，性爱机器人不是取代妻子或女友，它们为那些丧偶的人提供了一种方案，而性爱只会是你花在性爱机器人上时间的一小部分，更多时间将会是社交和互动。

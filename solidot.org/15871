@@ -1,0 +1,38 @@
+➜沃尔沃提出电动路概念让电动车摆脱电池
+https://www.solidot.org/story?sid=35165	3977
+<a href="http://www.igghh.com/books/4/page/0/%E6%96%87%E5%AD%A6%E4%BD%9C%E5%93%81%E9%9B%86.html">文学作品集</a> 写道 <i>"尽管<a href="http://www.gizmag.com/flash-charging-electric-buses/27790/" target="_blank">快速充电技术</a>适用于有固定停靠点的市内公交车系统，但对于频繁停靠的长途货车和客车作用不大。<a href="http://www.gizmag.com/volvo-electric-road/27913/" target="_blank">沃尔沃提出电动路的概念</a>，将城市道路铺满电缆。电缆是分段的，只有电动车发出特定的加密信号时，电动车下的那段电缆才会产生电流。作为附加的安全措施，只有当电动车速度高于60 km/h才会有电流产生。此外，<a href="http://www.gizmag.com/siemens-ehighway-of-the-future-concept/22648/" target="_blank">西门子公司也在尝试顶部悬空电缆</a>。但是，沃尔沃认为顶部悬空电缆成本高昂，并且不能被普通车辆使用（因为高度不够），还有，视觉效果也不好。"</i>
+➜中国政府网站长期不更新程序
+https://www.solidot.org/story?sid=35166	11528
+<div align="center"><a href="http://img.solidot.com.cn/0/490/liz4orOckEmls.jpg"><img src="http://img.solidot.com.cn/0/490/liz4orOckEmls.jpg" height="297" align="" width="420"></a><br>
+</div>
+<a href="http://nanxiang.us"><br>
+pluto</a> 写道<i> "偶尔看到国家信访局的<a href="http://www.gjxfj.gov.cn/" target="_blank">网站</a>好像好久没更新了，起码有13年没更新了，否则时间日期不会出现这种低级错误，如<a href="http://i.imgur.com/gvbCRbz.jpg" target="_blank">图</a> 。"</i>
+如果在搜索引擎中搜索“19113年”，会发现有大量网站存在类似的时间日期错误问题，而这些网站多数是政府网站，如<a target="_blank" href="http://www.jsjyt.gov.cn/"><u>一</u></a>、<a target="_blank" href="http://www.linfen.gov.cn/"><u>二</u></a>和<a target="_blank" href="http://www.dnalab.cn/index.asp"><u>三</u></a>。时间日期出错与JavaScript时间调用函数getYear()有关，在JavaScript 1.0中，<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getYear?redirectlocale=en-US&amp;redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FDate%2FgetYear"><u>getYear()</u></a>是当前年份减去1900，它已不再使用，<code>被</code><code class=" language-html"><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear?redirectlocale=en-US&amp;redirectslug=JavaScript%2FReference%2FGlobal_Objects%2FDate%2FgetFullYear"><u>getFullYear()</u></a>取代。为什么会出现</code>“19113年”？查看国家信访局网站的源代码会看到“<span>centry="";
+<span id="line90"></span>      if  (today.getYear()</span><span>&lt;2</span><span>000 )  centry = "19" ;
+<span id="line91"></span>      date1 = centry + (today.getYear())  + "年" + (today.getMonth() + 1 ) + "月" + today.getDate() + "日  " ;</span>”...由于<span>getYear返回的值113（2013-1900）显然</span><span>小于2</span><span>000，所以</span><span>centry的值变成19，</span><span>最后年份前的值变成了19113（</span><span><span>centry + (today.getYear()</span></span><span><span><span>)</span>=</span>19 + 113）...<br>
+</span>
+➜CBS证实记者计算机遭黑客入侵
+https://www.solidot.org/story?sid=35167	17086
+在美国司法部被曝出秘密监视美联社和福克斯新闻记者的电话和电子邮件之后，另一家美国主要新闻媒体<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2013/06/130615_hacking_cbs.shtml"><u>也证实发生了</u></a>类似的监视事件，但目前并不清楚入侵者身份。哥伦比亚广播公司（CBS）称，不明黑客去年曾数次入侵该公司华盛顿分部调查记者Sharyl Attkisson的计算机并窃取信息。CBS雇佣了一家安全公司调查Attkisson的计算机，发现未知的第三方入侵者多次未经授权远程访问了计算机，窃取了信息，还用颇为高明的手段对入侵行动进行掩盖。CBS新闻部表示将继续调查，以确定黑客的身份。52岁的Attkisson披露，她的电脑在2011年首次遭到入侵，当时她正调查一些对奥巴马执政当局不利的新闻，认为自己遭到黑客入侵或与福克斯新闻频道记者私人电邮遭司法人员调查有关。
+➜Twitter对美国政府说不
+https://www.solidot.org/story?sid=35168	29473
+<a href="/~mtjs">mtjs</a> 写道 <i>"在激荡的环境下保持本质不变与在理想环境下保持本质不变的难易程度是显而易见的，爱德华·斯诺登(Edward Snowden)，一个名不见经传的前美国国防承包商雇员，抖出了美国四十年来最大的监视丑闻。遭受棱镜计划(Prism)负面冲击的，不仅有奥巴马政府的民众信任，还有卷入这一计划的九大科技公司。虽然这些公司随后纷纷否认参与棱镜计划，但在越来越大的丑闻面前，他们的声誉无疑遭受了严重的打击。自2007年以来谷歌、微软、苹果、Facebook、雅虎、AOL、Verizon、Skype、PalTalk以及YouTube(谷歌子公司)长期配合美国国家安全局(NSA)与联邦调查局(FBI)两大机构在这些公司的服务器上秘密搜集与分析民众的通话、照片、电邮、文档等诸多个人数据。监控的范围不仅包括与境外联系的美国公民，甚至包括了欧洲与亚洲地区的用户。
+Google和Facebook与政府的合作是那么尽力还专门在服务器上设立了政府专门绝密信息入口，放置政府需要的数据然后由政府取回。与之相对应，<a href="http://www.techweb.com.cn/internet/2013-06-15/1303180.shtml" target="_blank">互联网公司Twitter却没有出现在棱镜计划的名单中</a>。据透露，美国国家安全局也曾经联系Twitter，但后者拒绝加入棱镜计划。在《纽约时报》关于科技公司卷入棱镜计划的报道中，尤其提到了Twitter不愿与政府配合的态度。Twitter联合创始人比兹·斯通(Biz Stone)挑出了文中的关键句“Twitter拒绝让政府轻松获取数据”(<a href="http://www.nytimes.com/2013/06/08/technology/tech-companies-bristling-concede-to-government-surveillance-efforts.html?pagewanted=all&amp;_r=0" target="_blank">Twitter declined to make it easier for the government</a>)，在Twitter展示他对公司保密政策的骄傲。过往，在美国政府以命令形式要求提供信息时，Twitter只同意了其中的69%；而谷歌这一比例是88%。而且Twitter会与美国政府斗争到最后一刻，即便面临必败的诉讼也在所不惜。在美国法律公益机构电子前哨基金会(EFF)的隐私保护评估中，Twitter得到了最高评分。当然，这只是目前，保持荣誉比获得荣誉要付出更多，Twitter到底是怎样的一家公司也许要等到Twitter消失才能最终定论。
+有趣的是，这些公司大部分都被GFW屏蔽了，开始屏蔽的时间应该也就在那段时间（2007年前后，一些更早）。"</i>
+➜优秀的Android SSH客户端
+https://www.solidot.org/story?sid=35169	40555
+<a href="mailto:aneville@bakerstreet.org">Alison Neville</a> 写道 <i>"SSH是工作在传输层和应用层之上的流行网络安全协议，能利用128位密钥加密发送和接收的信息，确保主机之间的通信不会在传输过程中被中间人拦截。SSH常被用于登陆到远程机器执行命令，系统管理员发现这一协议对于远程管理服务器非常有用。当然SSH用途很广泛。在移动时代，系统管理员们现在也盛行通过手机SSH客户端远程管理机器或执行其它任务，Android平台上<a target="_blank" href="http://www.linuxlinks.com/article/20130612154228567/AndroidSSHClients.html"><u>不缺乏优秀而且免费的SSH客户端</u></a>，如<a target="_blank" href="https://sonelli.com/"><u>JuiceSSH</u></a>、<a target="_blank" href="http://connectbot.vx.sk/"><u>VX ConnectBot</u></a>、<a href="http://www.serverauditor.com/"><u>Server Auditor</u></a>、<a target="_blank" href="https://market.android.com/details?id=apc.android.tool.telnet&amp;feature=search_result"><u>Telnet</u></a>等等。
+"</i>
+➜菲律宾政府扣押KAT.ph域名
+https://www.solidot.org/story?sid=35170	44911
+BT种子共享网站Kickass Torrents（即KAT.ph）从昨天开始无法访问，现在它证实其域名已被菲律宾当局<a target="_blank" href="http://yro.slashdot.org/story/13/06/15/0156239/kickass-torrents-katph-domain-seized-by-philippine-authorities"><u>扣押</u></a>。菲律宾当地的唱片公司和唱片业协会表示，BT网站对唱片业造成“无法弥补的破坏”，因此他们以版权侵犯为由向当局投诉扣押KAT.ph域名。菲律宾的行动只是影响到域名，而没有影响到网站本身，Kickass Torrents已经换了一个域名，一切如常。新的域名是<a target="_blank" href="http://kickass.to/"><u>kickass.to</u></a>。
+➜飞行自行车开始腾飞
+https://www.solidot.org/story?sid=35171	50848
+<div align="center"><img src="http://img.solidot.com.cn/0/496/li5LhtYzRqLXg.jpg" align="" height="302" width="428"><br>
+</div>
+<br>
+飞行汽车正一步步走进我们的生活。三家捷克公司<a target="_blank" href="http://www.gizmag.com/electric-six-prop-flying-bike/23015/"><u>联手研发</u></a>具有飞行能力的未来风格自行车原型<a target="_blank" href="http://www.designyourdreams.cz/en/"><u>Flying Bike</u></a>。FBike项目始于2011年，其设计受到了凡尔纳等科幻作家作品的启发，自行车前后安装的电动马达提供了最大2350N 的升力，包括驾驶员在内的飞行自行车总重170kg，由50Ah的锂聚合物电池供电。目前原型只能在空中飞行6分钟，设计者希望最终能延长到50分钟，最高时速达到每小时30英里。测试显示风扇的噪声非常大。
+<br>
+<br>
+<center><iframe src="http://www.youtube.com/embed/TtylFugOT_4?feature=player_embedded" allowfullscreen="" frameborder="0" height="240" width="428"></iframe>
+</center>

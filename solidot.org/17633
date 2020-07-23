@@ -1,0 +1,55 @@
+➜微软移除所有 Windows 版本的杀毒软件注册表键检查
+https://www.solidot.org/story?sid=56126	10706
+在 Meltdown 和 Spectre 漏洞在今年初披露之后，微软在释出相关补丁时引入了杀毒软件的注册表键，检查系统中运行的杀毒软件是否与 Meltdown 和 Spectre 补丁兼容，如果不兼容那么就不安装 Windows 更新。杀毒软件供应商将这个键用于证明他们的产品已经更新，不会干扰到微软的 Windows 补丁。因为不兼容的杀毒软件产品会导致崩溃和蓝屏死机。微软在今年 1 月表示，使用没有加入注册表键的杀毒产品的 Windows 电脑将不会得到安全更新。但随着杀毒软件更新产品，而微软的 Meltdown 和 Spectre 补丁得到更多改进之后，微软<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-antivirus-registry-key-check-for-all-windows-versions/" target="_blank"><u>决定移除</u></a>这个强制性的注册表键要求。
+➜特朗普签署了受争议的 FOSTA 法案
+https://www.solidot.org/story?sid=56127	11563
+美国总统特朗普<a href="https://arstechnica.com/tech-policy/2018/04/trump-signs-bill-to-shut-down-websites-that-facilitate-prostitution/" target="_blank"><u>签署了</u></a>受争议的 FOSTA/SESTA（Stop Enabling Sex Traffickers Act 和 Fight Online Sex Trafficking Act） 法案，使其正式生效成为法律。该法律让执法机关能更容易的对被认为便于卖淫的网站采取行动。在美国国会通过 FOSTA 特朗普尚未签署前，许多网站已提前采取行动做好准备：Craigslist 移除了 Personals 栏目，Reddit 移除了部分色情相关的子频道，Erotic Review 则屏蔽了所有美国 IP 地址。白宫表示，FOSTA 法将让拥有、管理或运作一个用于宣传或便于卖淫的网站成为一种联邦犯罪行为。从 SESTA 和 FOSTA 的名字看，这项法律似乎打击的是性贩运，但法律没有区分性贩运和自愿性质的性工作。
+➜英特尔据报道正在开发独显
+https://www.solidot.org/story?sid=56128	13010
+英特尔过去曾多次尝试开发独显，但屡战屡败。现在，在挖来了 AMD 负责 GPU 的高管 Raja Koduri 后，英特尔据报道正再次对独显<a href="https://tech.slashdot.org/story/18/04/11/059203/intel-reportedly-designing-arctic-sound-discrete-gpu-for-gaming-pro-graphics" target="_blank"><u>发起冲击</u></a>。分析师称，英特尔的 Arctic Sound GPU 将有一个针对游戏市场的版本。Arctic Sound 显示芯片最初是设计用于流视频和数据中心工作，但在 Koduri 命令下，英特尔准备挑战 AMD 和 NVIDIA 控制的游戏独显市场。Arctic Sound GPU 将有两个版本，一个与 CPU 集成在一起，另一个则是用于显卡的独立芯片。
+➜苹果开始通知用户 macOS 将不兼容 32 位应用
+https://www.solidot.org/story?sid=56129	13808
+苹果将从今明两天开始<a href="https://arstechnica.com/gadgets/2018/04/apple-has-begun-notifying-macos-users-of-coming-32-bit-app-incompatibility/#p3" target="_blank"><u>通知用户</u></a>，未来版本的 macOS 将不支持 32 位应用。从当地时间 4 月 12 日午夜起，当用户在 macOS High Sierra 10.13.4 中首次打开一个 32 位应用，他们会看到一条信息：该应用需要被开发者更新以改进兼容性，以及“<a href="https://support.apple.com/en-us/HT208436" target="_blank"><u>了解更多</u></a>”的链接。苹果正过渡到只支持 64 位应用。64 位应用被认为更有效率，能利用更多内存。苹果的应用商店 Mac App Store 已经停止接受 32 位应用，而&nbsp;  32 位应用在短时间内仍然可以继续使用。
+➜Fuchsia 不是 Linux
+https://www.solidot.org/story?sid=56130	15369
+Google 正在开发新操作系统 Fuchsia，使用名叫 Zircon 的微内核。它是作为一个开源项目开发的，因此外界能跟踪它的开发进度。现在，Google 发布了一个叫“<a href="https://fuchsia.googlesource.com/docs/+/master/the-book/" target="_blank"><u>the-book</u></a>”的文档页， 声明 Fuchsia 不是 Linux，而是一种模块化的，基于能力的操作系统（A modular, capability-based operating system），然后介绍了新操作系统的子系统和其它信息，包括 Zircon 内核、核心、框架、存储、显示、媒体、智能、用户界面、向后兼容等等。Fuchsia 被普遍认为将会最终替代 Android。
+➜Google 停售 Pixel 和 Pixel XL 手机
+https://www.solidot.org/story?sid=56131	18729
+Google 在 2016 年发布的旗舰手机 Pixel 和 Pixel XL 已<a href="https://arstechnica.com/gadgets/2018/04/google-stops-selling-the-pixel-and-pixel-xl/" target="_blank"><u>经从官方商店移除</u></a>，这意味着 Google 的库存已经耗尽，不会再补货了。Google 的旗舰手机过去几年开始采用类似苹果的定价策略，不再亲民，而是面向利润率更高的高端市场。此外一代的  Pixel 手机还一直面临库存不足的问题，这些问题加上狭窄的分销网络，使得有 Google 名字加持的智能手机销量并不高，根据 IDC 的数据，Google 在 2017 年只售出了 390 万部手机。去年 10 月发布的 Pixel 2 和 2 XL 的库存状况则有了明显改善。
+➜著名 Linux 黑客胡正第33本佛法新书发布！
+https://www.solidot.org/story?sid=56132	18806
+<a href="http://www.huzheng.org">huzheng</a> 写道 <i>"
+下载《胡正全集》、《胡正总集》，见：</p>
+</i>
+<p><i>http://www.huzheng.org
+"</i></p>
+➜数千网站遭入侵试图诱骗访问者安装假的更新
+https://www.solidot.org/story?sid=56133	27413
+<div align="center"><img src="//img.solidot.org/0/587/liosxCMvhyJig.gif" width="500" height="378" align=""><br>
+</div>
+<br>
+Malwarebytes 的安全研究人员报告，过去几个月攻击者入侵了运行 WordPress、Joomla 和 SquareSpace 等内容管理系统的网站，然后利用复杂的策略<a href="https://arstechnica.com/information-technology/2018/04/nasty-malware-campaign-using-thousands-of-hacked-sites-hid-for-months/" target="_blank"><u>试图诱骗访问者安装假的更新</u></a>。攻击者利用了这些网站没有及时打补丁修复已知的漏洞，然后在用户访问时候展示看似真实的信息（如图所示），诱骗用户安装浏览器 Firefox、Chrome, 或 Flash 的更新。为了躲避检测，假的更新通知每个 IP 只展示一次，它还会利用 JavaScript 文件检查访问者是否在虚拟机里访问网站，然后才会传递恶意程序，恶意程序使用了操作系统信任的合法证书签名，让恶意更新看起来是真的。
+➜中国正成为细胞疗法的世界领导者
+https://www.solidot.org/story?sid=56134	29220
+曾经，中国富人前往美国治病；今天美国人到中国接受实验性的癌症疗法。57 岁的 Craig Chase 患有多发性骨髓瘤，这种癌症被认无药可治。他到江苏南京人民医院接受了名为嵌合抗原受体 T 细胞肿瘤治疗或 Car-T 的实验性疗法治疗，几周之后他的医生通过 Google Translate 告诉他，他的癌症已经治愈了。他对此难以置信，返回美国美国医生检查后也没有找到任何多发性骨髓瘤的痕迹。中国正快速<a href="https://www.ft.com/content/30b5a944-3b57-11e8-b9f9-de94fa33a81e" target="_blank"><u>成为细胞疗法的世界领导者</u></a>。中国比美国进行了更多的细胞疗法临床试验，中国的生物科技行业正走在世界的前列。根据美国的一个数据库，中国登记了  116 个 Car-T 临床试验，而美国有 96 个，欧洲只有 15 个。而在 2010 年美国进行 Car-T 人类临床时中国的数量是零。中国的生物科技公司去年吸引了高达 100 亿美元的投资，这些公司多数由归国科学家创办，创始人称在中国获得投资比美国更容易，它们大多能从当地政府得到补贴。
+➜大西洋环流放缓
+https://www.solidot.org/story?sid=56135	30979
+北大西洋的传感器发现了一个令人担心的信号：<a href="https://www.scientificamerican.com/article/slow-motion-ocean-atlantics-circulation-is-weakest-in-1-600-years/" target="_blank"><u>横跨半个地球的环流在变慢</u></a>。如果这种情况持续下去，那么将可能出现更大规模的洪水和极端的气候。北大西洋环流是全球海洋水、热量和营养循环的重要组成部分。气候科学家从 1980 年代起就担心全球气温上升可能会影响环流，进而造成严重后果。海平面上升将影响美国海岸地区，渔业可能受损，欧洲气候模式可能发生改变。过去十年的气候模型预测北大西洋环流的快速放缓不太可能发生，因此此类的担忧已经逐渐平息。然而发表在《自然》期刊上的两项研究表明，海洋传感器近期发现的放缓不是短期的，而是长期衰退的一部分，环流正处在数个世纪以来的最弱状态。
+➜科学家修复人脑细胞的阿尔兹海默遗传风险因子
+https://www.solidot.org/story?sid=56136	32189
+仅携带一个拷贝的 apoE4 基因就能使人罹患阿尔兹海默症风险增加一倍以上，携带两个拷贝，患病风险增加 12 倍。Gladstone 研究所的科学家在人脑细胞中<a href="http://www.ebiotrade.com/newsf/2018-4/2018410155228240.htm" target="_blank"><u>确认了</u></a>导致阿尔兹海默症的主要遗传危险因素，同时也是潜在的治疗靶点——apoE4。不同于以往研究，这是真正意义上适用 “人类” 的有效靶点。apoE4 基因的编码蛋白在结构上与 apoE3 基因编码蛋白仅存在一个位点差异，然而，这个单一变化却足以改变蛋白质主体结构。长期以来，科学家一直不清楚为什么 apoE4 比其他蛋白版本对大脑细胞的破坏更严重。《Nature Medicine》最新<a href="https://www.nature.com/articles/s41591-018-0004-z" target="_blank"><u>论文</u></a>解答了 apoE4 如何赋予人类大脑细胞阿尔兹海默症风险的关键问题，更重要的是，研究人员利用一种小分子将 apoE4 改造成 apoE3 样版本，成功擦除了 apoE4 造成的伤害。
+➜Mozilla 基金会呼吁拆分科技巨头
+https://www.solidot.org/story?sid=56137	37644
+Mozilla 基金会发布了《<a href="https://internethealthreport.org/2018/" target="_blank"><u>Internet Health Report</u></a>》，<a href="https://tech.slashdot.org/story/18/04/11/1340209/tech-giants-like-amazon-and-facebook-should-be-regulated-disrupted-or-broken-up-mozilla-foundation" target="_blank"><u>呼吁</u></a>监管或拆分美国的科技巨头。Mozilla 基金会在报告中指出，美国科技巨头如亚马逊、Google 和 Facebook 以及中国的科技巨头如阿里巴巴和腾讯帮助世人认识到了互联网的好处，但为了减轻破坏互联网隐私，开放和竞争的垄断性商业行为，它呼吁对这些科技巨头进行监管。报告认为，巨头扼杀了竞争对手，限制了创新。AI 和量子计算的进步对这些掌握大量数据的公司几乎是如虎添翼，它们将极有可能渗透到了相邻的业务，垂直整合硬件、软件、基础设施、汽车、媒体和保险等，除非我们找到方法破坏或拆分它们。报告呼吁在实施监管时重新考虑过时的反托拉斯模式。
+➜中国移动和社交媒体纷纷自查
+https://www.solidot.org/story?sid=56138	41229
+过去政府主要审查政治敏感内容，如今他们开始转向了<a href="https://www.wsj.com/articles/new-target-for-chinas-censors-content-driven-by-artificial-intelligence-1523446234?mod=searchresults" target="_blank"><u>算法推荐的“低俗”娱乐内容（付费墙）</u></a>。依靠算法向用户推荐内容的今日头条昨天宣布关闭内涵段子应用，而主要移动和社交媒体也纷纷宣布<a href="http://www.bjnews.com.cn/finance/2018/04/12/482828.html" target="_blank"><u>整顿</u></a>：新浪微博宣布联合秒拍、一直播，对自身平台中可能存在的违规违法内容开展持续三个月的专项清理行动；微信、QQ 关闭播放快手、抖音、微视、西瓜视频等短视频 APP 分享的链接内容；今日头条关闭 App 内语录、段子、趣图、美图和美女共 5 个频道；抖音短视频关闭视频直播和评论功能...
+➜300 美元的丙型肝炎疗法与 8.4 万美元的替代疗效相同
+https://www.solidot.org/story?sid=56139	43134
+非营利组织  <a href="https://www.dndi.org/" data-link-name="in body link" class="u-underline">Drugs for Neglected Diseases initiative</a> (DNDi) 与埃及制药公司 Pharco Pharmaceuticals 合作开发可负担的丙型肝炎疗法，初步临床试验结果显示<a href="https://www.theguardian.com/science/2018/apr/12/non-profits-300-hepatitis-c-cure-as-effective-as-84000-alternative" target="_blank"><u>这种疗法安全且有效</u></a>，具有高治愈率，即使病情难治。可负担疗法预计 12 个周花费 300 美元，或每天 3.5 美元，而大型制药公司的丙肝疗法需要花费数万美元。这种疗法组合了两种丙肝药片，一种是新药 ravidasvir，另一种是索菲布韦（Sofosbuvir）。有 301 名病人参加了 II/III 期临床试验，DNDi 称有 97% 的病人被治愈，携带 HIV 或肝硬化的难治病例的治愈率也达到  96% 和 97%。全世界有超过 7100 万人携带丙肝，每年导致了 40 万人死亡。制药巨头提供的疗程非常昂贵，吉二代（Harvoni） 12 周疗程需要花费 4.8 万美元（马来西亚），吉利德的索菲布韦一片需要花费一千美元， 12 周疗程花费 8.4 万美元。
+➜Facebook 之后 Google 应该成为下一个
+https://www.solidot.org/story?sid=56140	45185
+在剑桥分析的数据泄露丑闻发酵之后，Facebook 在探照灯下成为万众瞩目的焦点，公司 CEO 扎克伯格被召唤到国会山接受了有关社交巨人数据收集政策的质询。然而相比 Facebook，另一家公司<a href="http://www.afr.com/technology/social-media/google/facebook-is-in-the-privacy-spotlight-but-should-google-be-next-20180412-h0ynog" target="_blank"><u>在利用用户数据牟利上远远走在前面</u></a>：监控资本主义模式的缔造者、搜索巨人 Google。Google 收集的用户数据更多，覆盖用户生活的面更广，利用用户数据产生的收入也更高。Facebook 可能做梦也想成为 Google，然而在隐私风暴中，Google 好像完全置身世外。非营利智库 Cracked Labs 的隐私研究员 Wolfie Christl 说，在跟踪和记录数十亿人日常生活信息上 Google 有着更大的足迹，而且侵入性更深入敏感性更强，许多人会用 Google 搜索不告诉伴侣的信息。<br>
+➜为什么中国社交用户热衷于“转世”
+https://www.solidot.org/story?sid=56141	46839
+中国社交媒体经常要进行整顿或清查，以应付来自政府的压力和命令，自我审查是中国社交媒体生存的第一要务。在整顿过程中，会有大量的用户遭到封杀。但被封杀的用户不一定会离开，他们会注册新的账号，再封杀再注册，最终可能要在加入到黑名单后才会停止。此种做法被称之为“转世”。这种现象应是中国独有，因为没有其它国家有如此强大的审查和自我审查压力。为什么用户热衷于"转世"，一位微信账号遭到多次封杀的用户<a href="https://theinitium.com/article/20180410-mainland-jiangxue/" target="_blank"><u>谈论了她的观点</u></a>：“微信，对今天的中国人，确实已是一个低成本连接的工具，普通人通过微信，通过一个个同学群、各种吃饭群、聚会群，甚至养生群，更容易找到彼此...我知道，我不过和无数的人一样，是中国互联网上的信息难民，就这样挣扎、徘徊，怀揣一个终极问题：如果猪圈不倒，我们该怎么办？”

@@ -1,0 +1,39 @@
+➜Twitter不会以低于10亿美元出售
+https://www.solidot.org/story?sid=10651	4800
+Techcrunch引用消息人士的话称Google正与Twitter洽谈收购，Google对最近火爆的Twitter非常兴趣，而Twitter内部也有人赞同收购，但消息来源称CEO Evan Williams不会<a href="http://www.techcrunch.com/2009/04/03/twitter-wouldnt-sell-for-1-billion-says-source/">以低于10亿美元价格出售</a>。<i>
+对此流言，Twitter的<a href="http://blog.twitter.com/2009/04/sometimes-we-talk.html">官方声明</a>称，“我们的目标是建立一个盈利的独立公司，我们才刚刚起步。我们的雇员数目刚刚超过30名....”但Twitter显然不会排斥收购，问题是Google是否愿意以10亿美元收购它？Twitter的实时信息更新可以加速Google的索引，这对Google有巨大的价值，早日达成一份长期协议是明智的选择。</i>
+➜FBI突袭数据中心是因为对方欠款
+https://www.solidot.org/story?sid=10652	12000
+CBS11 News<a href="http://cbs11tv.com/local/Core.IP.Networks.2.975776.html">报道</a>，FBI<a href="__SLASHLINK__" sect="internet" sid="09/04/04/0631204" sn="article" tid="133">突袭</a>Core IP Networks公司数据中心是因为对方逾期未交电信费，存在欺诈行为。<i>
+根据法庭文档，美国电信运营商Verizon公司早在1月份就通知FBI，称得克萨斯州的一些Web服务器供应商欺诈Verizon和AT&amp;T，数额高达数百万美元。文件显示3月12日，FBI曾经查抄了另一家服务器供应商Crydon Technology的数据中心。AT&amp;T和Verizon告诉调查人员，他们相信在3到4个月期间内，Crydon Technology、Core IP Networks以及其它3家公司诈骗了600万美元，而这几家公司从中获取了100万美元的收益。Crydon公司CEO表示这一指控是荒谬的，他们只是托管服务器，顾客从事的VoIP服务与他们无关。通信行业人士称，总体上说通信接入费是极为混乱的。FBI现在到成为了AT&amp;T 和Verizon的<a href="http://tech.slashdot.org/article.pl?sid=09/04/04/2013200">讨债公司</a>了。</i>
+➜朝鲜发射“通讯卫星”火箭
+https://www.solidot.org/story?sid=10653	21000
+BBC报道，格林尼治标准时间0230，朝鲜在华台郡舞水端里基地<a href="http://news.bbc.co.uk/2/hi/asia-pacific/7982874.stm">发射了长程火箭</a>。朝鲜声称它发射的是通讯卫星，但美国、日本和韩国都怀疑这是一次运程弹道导弹测试。目前得知的消息是，火箭飞过了日本北部上空。日本对此发射表示“极其遗憾”。
+➜菲尼克斯警方扣押博客电脑
+https://www.solidot.org/story?sid=10654	28800
+专门批评菲尼克斯警方的“<a href="http://badphoenixcops.blogspot.com/">Bad Phoenix Cops</a>”日志博主Jeff Pataky声称<a href="http://yro.slashdot.org/article.pl?sid=09/04/04/1515239">当地警方突然闯入他家</a>，扣押了他的3台电脑，路由器，调制解调器，硬盘，内存，和一切写博客的必要工具。<i>
+这位41岁的软件工程师称，警方还没收了大量个人文件和文档，这些文件和一件未判决的骚扰诉讼有关，Jeff Pataky因而认为此次搜捕是一次报复行动。Pataky和菲尼克斯警察部门的冲突始于两年前的一场“不愉快的离婚案”，Pataky称他的妻子对其进行不实指控，指责他跟踪和骚扰。Pataky称他妻子报告的多数骚扰事件，发生时间内他都不在城里。他为此向警方抱怨，但最终仍然被控骚扰前妻，愤怒之下他建立了批评警方的博客“Bad Phoenix Cops”。</i>
+➜Fedora 10安装KDE 4.2.2
+https://www.solidot.org/story?sid=10655	31800
+<a href="http://szlug/">权相龙</a> 写道 "<a href="http://kde.org/announcements/announce-4.2.2.php">KDE 4.2.2已经正式发布</a>，主要的改进有：修正了KRunner中的稳定性问题，增强了KMail性能，KHTML的bug修正、性能增强和优化等等。如果<a href="http://blog.berkenpies.nl/2009/04/03/fedora-10-and-kde-422/">要在Fedora 10中安装KDE 4.2.2</a>，只需要下载kde.repo到/etc/yum.repos.d/，然后：           yum groupinstall kde-desktop<br>
+yum --enablerepo=kde-testing groupupdate kde-desktop<br>
+yum update
+<br>
+OK"
+➜曲速引擎面临量子障碍
+https://www.solidot.org/story?sid=10656	35400
+科幻影片《星际迷航》中有一种跨星际的超光速推进装置——<a href="http://zh.wikipedia.org/wiki/%E6%9B%B2%E9%80%9F%E5%BC%95%E6%93%8E_(%E6%98%9F%E9%99%85%E6%97%85%E8%A1%8C)">曲速引擎</a>（Warp drive）。曲速引擎利用了空间弯曲理论，但通常被认为是不可能实现的，直到1994年之后主流科学家才考虑其可能性。<i>
+物理学家Michael Alcubierre提出了曲速引擎的“<a href="http://zh.wikipedia.org/w/index.php?title=%E9%98%BF%E5%BA%AB%E5%88%A5%E7%91%9E%E5%BC%95%E6%93%8E&amp;variant=zh-cn">阿库别瑞度规</a>”，一个基于广义相对论的时空数学模型。Alcubierre设想了波动方式展延空间，导致飞船前方的空间收缩而后方的空间扩张，前后所连成的轴向即为船想要航行的方向。飞船在一个区间内乘着波动前进，这区间称为“曲速泡”，是一段平坦时空。飞船在泡泡内并不真的在移动，而是由泡泡带着船走，因此广义相对论中对于物体速度不可超过光速的限制就派不上用场，即飞船可以以超光速前进。目前一个无法回答的问题是，如果在“曲速泡”内考虑量子理论，结果又会如何？现在，一组物理学家将量子理论考虑在内计算得出——一个坏消息——<a href="http://www.technologyreview.com/blog/arxiv/23292/">泡泡在超光速运动中会变得不稳定</a>，这使得曲速引擎不太可能实现。</i>
+<a href="http://arxiv.org/abs/0904.0141">预印本</a>
+➜将Ubuntu变成了Windows可执行文件
+https://www.solidot.org/story?sid=10657	36960
+<a href="http://portableubuntu.sourceforge.net/index.php?section=main">Portable Ubuntu for Windows</a>项目的目的是将Ubuntu系统可以作为一个应用程序运行在Windows操作系统上。它基于Colinux Kernel，<a href="http://www.straightrunning.com/XmingNotes/">Xming X server</a>和Pulseaudio server for Windows。<a href="http://portableubuntu.sourceforge.net/index.php?section=screenshots">屏幕截图</a>，<a href="http://jaist.dl.sourceforge.net/sourceforge/portableubuntu/Portable_Ubuntu.exe">下载</a>(439M)
+➜看看谁是离你最近的gentooer
+https://www.solidot.org/story?sid=10658	38520
+<a href="http://szlug.org/">权相龙</a> 写道 "
+<a href="http://www.gentoo-users.org/">Gentoo-users.org</a>是一个将gentoo全球社区和本地社区的用户<a href="http://dev.gentoo.org/~agorf/users/">显示在Google Map上的网站</a>。起先灵感来至djangopeople.net项目，后来由gentoo开发者agorf实现了。"
+➜我们为何有指纹？
+https://www.solidot.org/story?sid=10659	44880
+time 写道 "巴黎高等师范大学的<a href="http://www.physorg.com/news158088270.html">一项研究</a>认为指纹的作用是增强触觉。<i>
+科学家用类橡胶传感器制作的人造手指做了一系列试验，发现在滑过稍微粗糙的表面时，有纹路的手指产生的震动可以比光滑手指强100倍。这种被指纹放大的震动具有刺激<a href="http://amuseum.cdstm.cn/AMuseum/perceptive/page_7_skin/page_7_3.htm">环层小体</a>的最佳化频率，使我们触觉更加灵敏，特别是在检查纹理和质地的时候。通过获得纹理和质地的信息我们可以对物体作出判断。</i>
+但是这项研究不能解释人的指纹为何都是唯一的，并且以椭圆漩涡状为主(<a href="http://www.sciencemag.org/cgi/content/abstract/sci;323/5920/1503">发表在《科学》上的论文</a>)。"

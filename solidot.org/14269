@@ -1,0 +1,40 @@
+➜微软衰落中Linux的角色
+https://www.solidot.org/story?sid=9610	720
+微软宣布了裁员，LinuxDevices采访了Linux基金会董事Jim Zemlin，讨论了微软不幸中<a href="http://linuxdevices.com/articles/AT8154244993.html">Linux扮演的角色</a>。<i>
+问：Vista，代号 Longhorn，晚了五年。你认为它的需求超过了Intel和AMD最终能提供的处理器。微软错误估计了摩尔定律的终结？
+答：微软的剧本是基于硬件成本下降的假设。PC变得更强大、更多内存和更多的CPU。这不是发生的事实。这儿有一个名为需求面学习曲线（demand-side learning curve）的开发模式概念。就历经7年的产品开发模型而言，你首先要设计路线图...当发布日期临近，功能却悄悄削减。这并没有在Linux上发生，因为它的开发模式很透明。</i>
+Jim Zemlin最后表示希望微软能改变它的商业做法，更开放，更积极的参与开源社区。
+➜NASA发布国际空间站观光视频
+https://www.solidot.org/story?sid=9611	1680
+NASA宇航员、远征18（Expedition 18）指挥官<a href="http://en.wikipedia.org/wiki/Michael_Fincke">Mike Fincke</a>上校最近用35毫米高清摄像机拍摄了国际空间站内部视频。目前视频已发布在YouTube上，由于时间限制，视频分割成4段，总长度约36分钟，以下分别为视频<a href="http://www.youtube.com/watch?v=JgBgmw-2U8c">一</a>，<a href="http://www.youtube.com/watch?v=F-yIqxoMBVU&amp;feature=related">二</a>，<a href="http://www.youtube.com/watch?v=srQdr6kGii4&amp;feature=related">三</a>，<a href="http://www.youtube.com/watch?v=lswCuvcA7YQ&amp;feature=related">四</a>。
+➜Linus从KDE逃到Gnome
+https://www.solidot.org/story?sid=9612	10320
+在最近接受Computerworld的采访中，Linus透露他已<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyName=Software&amp;articleId=9126619&amp;taxonomyId=18&amp;pageNumber=1">从KDE桌面转到Gnome桌面</a>。
+<i>两年前Linus曾公开批评过Gnome的可用性，当时他还<a href="http://www.desktoplinux.com/news/NS8745257437.html">鼓励用户去使用KDE</a>。那么此次他食言的理由又是什么？Linus表示KDE 4是一场灾难，尽管新近的版本有所改善，他发现有无数人都同意这一判断，KDE 4使用起来真令人痛苦。</i>
+除此之外，Linus还在采访中谈论了Linux开发的现状，Git项目的进展、上网本、Windows 7等。
+➜科学家在带电粒子之间实现1米隐形传态
+https://www.solidot.org/story?sid=9613	24300
+在最新一期的《科学》杂志上，马里兰大学的研究人员报告他们<a href="http://www.sciencenews.org/view/generic/id/40133/title/Quantum_information_teleported_between_distant_atoms">在带电原子之间实现了远距信息传输</a>，在1米间距上不经过空间直接传输了一量子位信息。<i>
+在先前的研究中，科学家已经没有任何困难的实现了光子之间、光子和原子云之间的隐形传态（Teleportation）。长期以来研究人员一直寻求在原子之间实现隐形传态，光的高速传播使其成为信息的良好传输载体，但对于储存量子信息而言，原子是一个更好的选择因为它比较容易控制。英国贝尔法斯特女王大学量子物理学家Myungshik Kim对此评论道，“这很关键，为了储存量子态的信息，你必须在两个静止量子位之间有可行的隐形传态方案，然后你才能储存它们并设法操控它们。”</i>
+<a href="http://www.sciencemag.org/cgi/content/abstract/323/5913/486">论文摘要</a>
+➜Mozilla承诺帮助维基百科实现视频支持
+https://www.solidot.org/story?sid=9614	45360
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "近日在 Hobart 举行的 Linux.conf.au 年会上，<a href="http://wikimedia.org/">Wikimedia</a> 开发者 Michael Dale 宣布，Mozilla 基金会承诺提供一笔10万美金的赞助，以<a href="http://www.pcworld.com/article/id,157894/article.html?tk=rel_news">帮助开发服务器端的 Ogg Theora 视频编码技术</a>。该项赞助将在6个月内，帮助增强  Ogg Theora 编码技术，包括网络查找功能改进，以及用于 Firefox和 MediaWiki 的客户端与服务器端的库。
+"           在启动 Html5 的开发期间，我们注意到，在服务器端，我们有很多工作可以做，Dale 说，用于 Firefox 的视频播放库 Xiph 以前主要由志愿者开发，现在我们派出全职人员，对编码器进行增强，以便让 Theora 早日同最新的解码器看齐。
+<br> <br>Dale 表示，Wikipedia 将提供人力对这些部件进行集成，最终这些部件将成为开源的  MediaWiki Wiki 程序的一个模块。这些对 MediaWiki 的增强工作将于今年5月完成，届时，用户可以运行他们自己的协同视频服务器。
+<br> <br>用于 Wikipedia 协同视频分享的软件，澳大利亚的 <a href="http://www.annodex.net/">Annodex</a> 的开发者 Conrad Parker 将每周拿出一天时间从事服务器端的网络查找功能的开发，以提高服务器端的网络查找速度。Parker 说，他将改善网络的总体查找速度，同时，他将同 W3C 的媒体工作组一道开发公开标准。他将负责 Annodex 的服务器端的事务。
+<br> <br>Annodex 是一种对视频提供时间与元数据标签的技术，在应用中对网络是透明的，可以使用 URL 定义视频的播放点以便让用户直接在视频中游动。 Parker 说，他们同自由软件社区有很多协作，用户可以在 URL 中通过查询字符串指定相应的时间段，让相应时间段内的视频在手持设备或其它客户端上播放。
+<br> <br>另外，视频中可以加入链接或信息标签，<a href="http://www.pcworld.com/article/id,157891/article.html?tk=rel_news">同 Wikipedia 的海量数据库进行绑定</a>，比如一段网球视频中可以加入网球相关信息的标签。Parker 表示，用户界面服务是一个 Web 程序，可以同视频服务完全独立。Dale 说，开放视频非常重要，因为这样可以使视频像文字和图片一样容易观看。
+<br> <br>虽然目前存在的主要问题是人们的接受程度，但随着 Archive.org 将超过10万个视频转换为 Ogg 格式，以及 Wikipedia 对开放格式的支持，事情会迅速改观。Dale 说，一个叫做 Firefogg 的工具将直接在浏览器中解码过上传视频。
+<br> <br>Wikipedia 也在使用 JavaScript 开发一个基于 Web 的 GUI 来对视频进行编辑以使视频内容更容易被分享。因为我们的平台是 Web，因此我们会看到直接基于浏览器到视频编辑工具主导视频内容的分发。也将使开源的桌面程序更容易同 Web 程序集成。
+<br> <br>本文来源：<a href="http://www.pcworld.com/article/158281/mozilla_grant_will_help_wikipedia_support_video.html">http://www.pcworld.com/article/158281/mozilla_grant_will_help_wikipedia_support_video.html</a> <br>中文来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 网站
+➜维基百科中立性问题
+https://www.solidot.org/story?sid=9615	46800
+<a href="http://zh.wikipedia.org/wiki/User:Wmrwiki">王明睿</a> 写道 "在<a href="http://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%AE%BA">中文</a>和<a href="http://en.wikipedia.org/wiki/Nanking_Massacre">英文</a>版的南京大屠杀条目中，都提到了“30万”这个数字，然而在<a href="http://ja.wikipedia.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E8%99%90%E6%AE%BA">日语</a>版没有。
+<i>
+<a href="http://zh.wikipedia.org/wiki/Wikipedia:%E9%81%BF%E5%85%8D%E5%9C%B0%E5%9F%9F%E4%B8%AD%E5%BF%83">避免地域中心</a>是维基百科的方针
+之一，这个方针说维基百科不分地域，只分语言。显然日语版是把日本作为中心了，以日本的官方解释为唯一说法，这可能又违背了维基百科<a href="http://zh.wikipedia.org/wiki/Wikipedia:%E4%B8%AD%E7%AB%8B%E7%9A%84%E8%A7%82%E7%82%B9">中立</a>这个方针。"</i>
+➜Linux文件系统小测试
+https://www.solidot.org/story?sid=9616	51840
+台湾博客Tetralet一台使用reiserfs的主机遭遇突然断电后无法启动，“root文件系统损毁”，只能将硬盘卸下到另一台电脑上Fsck（Linux文件系统检查工具）后才终于复活。<a href="http://tetralet.luna.com.tw/index.php?op=ViewArticle&amp;articleId=214&amp;blogId=1">作者决意更换文件系统，并决定动手评测</a>(测试图像需代理访问，因为GFW)。<i>
+他的测试配置是：Pentium4 2.80GHz CPU，内存1GB（其中约600 MB挂载为tmpfs），Kernel 2.6.29-RC1，分别测试了ext2、ext3、ext3 (data)、ext4、reiserfs、reiserfs (data)、reiser4、jfs、xfs、vfat、ntfs、zfs、btrfs文件系统。测试结果有些出人意料：Linux内定的下一代文件系统btrfs在很多方面确实有不俗表现，但尚未正式推出，而主要开发者入狱的reiserfs系统确实无愧为效能之王，此两种作者暂不予考虑。经过折中考量，他选择了IBM停止开发的jfs系统，因为CPU Loading低、硬盘使用率高、效能中上、恢复能力佳。作者最后的建议是，要保存资料需保证硬盘无问题；安装UPS，防止非法关机；备份、备份、备份。</i>

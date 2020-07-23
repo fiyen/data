@@ -1,0 +1,18 @@
+➜陪审团裁决三星赔偿苹果1.2亿美元
+https://www.solidot.org/story?sid=39374	28813
+加州圣何塞的一个陪审团周五<a target="_blank" href="http://www.reuters.com/article/2014/05/03/us-apple-samsung-elec-idUSBREA410Z020140503"><u>裁决</u></a>，三星需要为侵犯专利赔偿苹果1.19亿美元，这一金额远低于苹果寻求的22亿美元。苹果指控三星侵犯了它的五项软件专利（专利号分别为5,946,647，8,046,721，6,847,959，8,074,172和7,761,414），陪审团的裁决是：三星所有设备侵犯了苹果的647快捷链接专利；三星没有侵犯721统一搜索专利；三星部分设备侵犯了721滑动解锁专利；三星没有侵犯414后台同步专利，侵犯了172自动完成专利。接下来将由法官 Lucy Koh决定是否对三星设备实施销售禁令。
+➜Windows XP仍然占26%的操作系统市场份额
+https://www.solidot.org/story?sid=39375	32433
+<div align="center"><img src="http://img.solidot.com.cn/0/254/liTGucN3QQu0E.jpg" align="" height="259" width="480"><br>
+<br>
+</div>
+Windows XP于4月8日终止支持，但整个4月它的市场占有率没有巨大的波动，牢牢占据着第二的位置。<a target="_blank" href="http://netmarketshare.com/"><u>Net Market Share</u></a>的数据显示，XP的市场占有率为26.29%，比前一个月下降0.98%；Windows 7占49.27%，比前一个月增加0.5%；Windows 8占6.36%，减少0.05%；Win 8.1占5.88%，增长0.99%，OSX 10.9占4.07%，Vista占2.89%，Linux占1.58%。在浏览器市场，Firefox和Chrome依旧是此消彼长，IE 占57.88%(-0.06)，Chrome占17.92%(+0.4)，Firefox占17.00%（-0.26%），Safari 5.66%，Opera 1.14%。根据浏览器版本的统计，IE8占20.85（-0.29%），其次是IE 11占16.61%（+0.9%），Firefox 28 12.28%，IE9 8.89%，Chrome 34 8.64%，IE10 6.85%，IE6 2.85%，但在中国仍然有22%。
+➜中国一家比特币交易平台宣布停运
+https://www.solidot.org/story?sid=39376	33141
+比特币交易平台FXBTC宣布<a target="_blank" href="https://www.fxbtc.com/news?id=4"><u>停运（已关闭）</u></a>，理由是来自央行的压力。央行<a target="_blank" href="http://www.solidot.org/story?sid=39298"><u>命令</u></a>商业银行和第三方支付机构关闭比特币交易平台的银行和支付账户，彻底斩断比特币交易的资金链条。FXBTC在声明中说，网站将开放至2014年5月10日，用户必须在5月10日前提现，之后网站关闭。上月末，比特币中国也<a target="_blank" href="https://vip.btcchina.com/page/notice20140428"><u>宣布</u></a>招商银行账户充值服务停止，因为公司账户被销号。比特币币值<a target="_blank" href="http://bitcoinity.org/markets"><u>波动不大</u></a>，仍然在450美元左右徘徊。
+➜鲍尔默持有的微软股份超过了盖茨
+https://www.solidot.org/story?sid=39377	45143
+根据刚刚公开的<a target="_blank" href="http://apps.shareholder.com/sec/viewerContent.aspx?companyid=MSFT&amp;docid=9961355"><u>SEC文件</u></a>，微软联合创始人比尔盖茨最近出售460万股<a target="_blank" href="http://finance.yahoo.com/q?s=MSFT&amp;ql=0"><u>微软股票</u></a>套现1.856亿美元，他持有的公司股份降至了330,141,164股，低于联合创始人鲍尔默的<span style="color:#333333;">333,252,990</span>股。比尔盖茨过去10年一直在稳定抛售股票，分析人士之前<a target="_blank" href="http://techcrunch.com/2014/05/02/steve-ballmer-now-owns-more-microsoft-stock-than-bill-gates/"><u>就预测</u></a>，鲍尔默持有的微软股份将会在2014年年中超过了盖茨。根据微软股票本周的收盘价，鲍尔默持有的股票价值约132亿美元。
+➜OpenSSH不再必须要依赖于OpenSSL
+https://www.solidot.org/story?sid=39378	53454
+OpenBSD子项目OpenSSH的开发者<a target="_blank" href="http://undeadly.org/cgi?action=article&amp;sid=20140430045723"><u>宣布</u></a>OpenSSH的编译<a target="_blank" href="http://it.slashdot.org/story/14/04/30/1822209/openssh-no-longer-has-to-depend-on-openssl"><u>可以选择</u></a>不再链接OpenSSL加密库——“mak OPENSSL=no”。OpenSSH是SSH协议的开源替代，默默无名的OpenSSL开源加密库最近因为heartbleed漏洞几乎变得无人不知，漏洞的影响遍及整个互联网。OpenBSD的开发者为此而创建了OpenSSL的分支LibreSSL，开发者透露未来用户编译时可选择链接到LibreSSL库。

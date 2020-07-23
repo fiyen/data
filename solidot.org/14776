@@ -1,0 +1,161 @@
+➜阿富汗发现价值万亿美元的矿藏
+https://www.solidot.org/story?sid=18413	20400
+《纽约时报》<a href="http://www.nytimes.com/2010/06/14/world/asia/14minerals.html">报道</a>，地质学家和五角大楼发现阿富汗有着极其丰富的铁、铜、钴、黄金、锂等矿藏，这些未开发矿藏的总价值<a href="http://news.slashdot.org/story/10/06/14/0652217/1-Trillion-In-Minerals-Found-In-Afghanistan">接近1万亿美元</a>。就象沙特阿拉伯拥有巨大的石油储藏，阿富汗拥有丰富的移动电话和笔记本电脑电池的原料锂。阿富汗的GDP仅仅只有120亿美元。但尽管对于一个迫切需要发展的国家这是个好消息，但并不会在一夜之间改变一切。这将需要数年的时间，才能建成一个大型矿产行业。而要保证投资者的安全，就必须有和平的环境。在目前阿富汗的局势和喀布尔政府的处境越来越绝望的时候，把该国描绘成一个潜在的金矿，可能有助于增强国际社会对它的信心，让人感觉为它作战是值得的。
+➜关于用户体验，我们常犯的9个错误
+https://www.solidot.org/story?sid=18414	20880
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "Web 用户体验大师 <a href="http://www.useit.com/">Jacob Nielsen</a> 说过，“一个烂网站就像一个性情乖戾的推销员”，这样的推销员不仅无法说服顾客，而且让人生厌，就网站而言，再也没有什么比蹩脚的用户体验更让人沮丧的了。本文讲述了 Web 设计与开发中常犯的 9 个用户体验错误以及它们的解决方法（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K984.aspx">完整图文版</a>）。           1. 难以找到你感兴趣的内容
+<br> <br>下面这些知名站点不仅设计陈旧，而且易用性不佳
+<ul>
+<li> <a href="http://irs.gov/">irs.gov</a> </li>
+<li> <a href="http://www.boink.com/">boink.com</a> </li>
+<li> <a href="http://reddit.com/">reddit.com</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Crazy-forms-long.png"> </a>
+为什么不用更有意义的表单名字?
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/1-Content-is-hard-to-find-boink.com_-e1276054786240.png"> </a>
+<br> <br>那几个旋转的骨牌原来是导航...
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/1-Content-is-hard-to-find-reddit.com_-e1276054897985.png"> </a>
+<br> <br>reddit.com，我喜欢它的概念，但内容太令人受伤。
+<br> <br>我们常常在从一个网站查找内容的时候发现困难重重，比如那些政府站点，既然我们都知道内容为王的道理，我们就不应该让用户为了查找一点内容而翻遍成千上万的菜单。
+<br> <br> <b>解决方法 </b>
+<br> <br>简而言之，就是将你认为重要的信息放在容易找到的位置。如果你的站点有海量内容：
+<ol>
+<li>将各种内容放在它们应该放的栏目。</li>
+<li>让你站点的搜索功能工作正常。</li>
+<li>提供清晰的标签和目录。</li>
+<li>让重要的内容重点显示。</li>
+<li> 提供本地化命名。</li>
+</ol>
+另外，使用 blur 测试，将你的设计草图做比如 10% 的模糊处理，这样你就能发现那些需要突出显示的内容是否真的突出了，还可以使用 <a href="http://intuitionhq.com/">IntuitionHQ.com</a> 一类易用性测试服务。<br> <br>
+2. 蹩脚的布局
+<ul>
+<li> <a href="http://www.qq.com/">qq.com</a> </li>
+<li> <a href="http://www.allterrain.co.nz/">allterrain.co.nz</a> </li>
+<li> <a href="http://www.craigslist.org/">craigslist.org</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Poor-layout.png"> </a>
+典型的中文门户风格
+<br> <br> <a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/2-Poor-Layout-allterrain.co_.nz_-e1276055147649.png"> </a>
+<br> <br>到处都是文字，到处都可以点击
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/2-Poor-Layout-craigslist.org_-e1276055196782.png"> </a>
+<br> <br>好用吗？有点，好看吗？一点也不。
+<br> <br>内容难以查找的另一个原因是布局，将所有的东西放在首页，到处都是 Flash 广告，满眼都是文字，密密麻麻，挨挨挤挤。解决方法是请一个 Web 设计师将你的布局做一个设计。尽管有不少布局蹩脚的新闻站点仍然非常成功，但让它们成功的不是它们挨挨挤挤的布局。<br> <br>
+3. 让人摸不着头脑的导航系统
+<ul>
+<li> <a href="http://lesailes.hermes.com/">lesailes.hermes.com</a> </li>
+<li> <a href="http://www.billyconnolly.com/">billyconnolly.com</a> </li>
+<li> <a href="http://www.pizzacaper.com.au/">pizzacaper.com.au</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Navigation-fail.png"> </a>
+原来那些橙色的，带问好的竖条是导航用的。
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/3-Confusing-menus-billyconnolly.com_.png"> </a>
+<br> <br>他们说，片图抵千言...
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/3-Confusing-menus-pizzacaper.com_.au_.png"> </a>
+<br> <br>看上去挺漂亮，但 Flash 和 HTML 两个版本对用户来说有什么意义？
+<br> <br>人们通常对导航菜单有一个约定俗成的期望，然而我们遇到很多奇怪的导航，常常让我们摸不着头脑。解决方法:
+<ul>
+<li>先画个导航菜单草图</li>
+<li>让它有点逻辑</li>
+<li>找些人问问，他们希望在什么位置找到特定的信息，按他们的说法安排菜单</li>
+<li>考虑一下你的站点的目标用户</li>
+<li>做易用性测试</li>
+<li>使用面包屑导航，并确认前进和后退按钮起作用。</li>
+</ul>
+4. 蹩脚的菜单设计
+<ul>
+<li> <a href="http://godaddy.com/">godaddy.com</a> </li>
+<li> <a href="http://www.microsoft.com/">microsoft.com</a> </li>
+<li> <a href="http://www.vodafone.co.nz/">vodafone.co.nz</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/inefficient-menus.png"> </a>
+到处都是导航菜单，但什么都找不到。
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/4-Poor-menu-layout-microsoft.com_-e1276056774469.png"> </a>
+<br> <br>微软的
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/4-vodafone-menu-vodafone.co_.nz_.png"> </a>
+<br> <br>最令人关心的价格信息却无处可查。
+<br> <br>很多站点的导航菜单布局十分不合理，重要信息被掩埋在很深的菜单下，重要信息需要挖掘很久才能找到，广告和内容搅和在一起，诸如此类。使用分析工具，分析什么内容最受欢迎，用户在哪些页停留时间最长，哪些内容被频繁阅读，将这些内容放在容易被找到的位置。<br> <br>
+5. 缺乏进度指示
+<ul>
+<li> <a href="http://dell.co.nz/">dell.co.nz</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Dell-Seems-easy-enough.png"> </a>
+Dell - 看上去并不难
+<br> <br> <a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Dell-But-wait-theres-more.png"> </a>
+但这些滚动滚到哪里才是头。
+<br> <br>很多站点对于用户的操作进度，缺乏指示，或者指示混乱，假如你在进行一个长时间的操作，却不知道后面还剩下多少步，你会很容易半路放弃。
+<br> <br> <b>解决方法</b>
+<br> <br>人们无非想知道他们目前所在的位置，以及后面还余下多少步，告诉他们就是。<br> <br>
+6. 无法反馈信息
+<ul>
+<li> <a href="http://facebook.com/">facebook.com</a> </li>
+<li> <a href="http://www.sitevalley.com/">sitevalley.com</a> </li>
+<li> <a href="http://www.alexa.com/">alexa.com</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/feedback1.png"> </a>
+压根没有信息反馈功能
+<br> <br> <a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/6-Feedback-form-sitevalley.com_.png"> </a>
+<br> <br>可以反馈信息，但很难找到
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/6-Alexa-content-feedback1.png"> </a>
+<br> <br>无法找到信息反馈功能
+<br> <br>Facebook 或许有理由不提供反馈，它们的用户量太大了，但小规模站点都应该提供用户反馈功能。可以是 Email，反馈表单，或是论坛。<br> <br>
+7. 滥用社会媒体网络功能
+<br> <br> <a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/Twitter.png"> </a>
+这样的数字很让人伤心。
+<br> <br>虽然，如今每个人和他的狗都有 Facebook, Twitter, Digg, LinkeIn 账户，但99%的人事实上从来不更新他们的内容，如果你在网站上提供了自己的 Twitter 链接，且实时显示自己的跟随数目，如果数字是1或者0，就太丢人了。<br> <br>
+8. 太多选项
+<ul>
+<li> <a href="http://dell.co.nz/">dell.co.nz</a> </li>
+<li> <a href="http://www.microsoft.com/">microsoft.com</a> </li>
+<li> <a href="http://www.reddit.com/">reddit.com</a> </li>
+</ul>
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/menus-what.png"> </a>
+晕了
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/8-Too-many-options-microsoft.com_.png"> </a>
+<br> <br>这一大堆选项让人头都要炸了
+<br> <br> <a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/8-too-many-choices-reddit.com_.png"> </a>
+为什么要有这么多选择
+<br> <br>选择多未必幸福，如果苹果有什么东西值得我们学习，那就是，人们不必去做过多选择，或许，几个基本的选项已经足够，或许，一个适合我的选项也已经足够。保持简单，让用户少做选择，是良好用户体验的一个重要因素。<br> <br>
+9. 工作不正常的链接，按钮与表单
+<a href="http://www.1stwebdesigner.com/wp-content/uploads/2010/06/form-failures.png"> </a>
+<br> <br>错误的链接，不存在的页面，无法正常工作的表单，诸如此类，对于这类问题，除了测试，还是测试。
+<br> <br>本文国际来源：1stwebdesigner.com <a href="http://www.1stwebdesigner.com/development/usability-ux-pitfalls-howto-avoid/">9 Usability And UX Pitfalls: Learn How To Avoid Them</a> （原文作者：<a href="http://www.1stwebdesigner.com/author/jacob/">Jacob Creech</a>）
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Google帮助网民质问白宫漏油事件
+https://www.solidot.org/story?sid=18415	21240
+stranger ( @wmrofficial ) 写道<i> "Google在首页上链接了<a href="https://www.google.com/moderator/#16/e=12142&amp;v=23">Google汇问</a>帮助网民质问白宫墨西哥湾漏油事件。用户可以在Google汇问上提出和投票选出最希望得到答案的问题。这个平台谁都可以用，比如<a href="https://www.google.com/moderator/#16/e=7837">问题</a>（<a href="http://docs.google.com/View?id=df2gh45v_15cjqqdcgb">回答</a>）。"</i>
+➜德国人制造软件来消掉呜呜祖拉的苍蝇
+https://www.solidot.org/story?sid=18416	21600
+<a href="http://yi-it.com/blog/">vuvuzela.free</a> 写道<i> "<a href="http://www.gizmodo.com.au/2010/06/simple-software-can-filter-out-that-vuvuzela-whine-from-world-cup-broadcasts/">gizmodo报道</a>：南非唢呐呜呜祖拉(vuvuzela)的苍蝇声已经成了世界杯观战的公害了，受不了的德国人出了一个<a href="http://www.surfpoeten.de/tube/vuvuzela_filter">软件Vuvuzela-Filter</a>（德文）来消掉这种恼人的噪声。其实不复杂，网友动手能力强的可以DIY试试，呜呜祖拉的声音主要是在频率233赫兹和这个倍数，所以我们只要把转播的音频输出接入电脑，经过一个简单的EQ调节软件，把233赫兹和它的倍数频段的声音都消掉，再播放出来，世界就清净啦！"</i>
+➜VeryCD的所谓“电驴”去除了电驴网络全局搜索功能
+https://www.solidot.org/story?sid=18417	24960
+<a href="mailto:wenzhishen@gmail.com">emuler</a> 写道<i> "eMule Fans的编辑<a href="http://emule-fans.com/easymule-remove-ed2k-kad-search/">发现</a>：2010年4月9日VeryCD公司发布的自称“<a href="http://zh.wikipedia.org/wiki/%E7%94%B5%E9%A9%B4">电驴</a>”的easyMule v1.1.13和之后的版本完全去除了搜索eD2k（eDonkey，或电驴）网络服务器和Kad网络的功能。其用户只能通过VeryCD的<a href="http://emule-fans.com/private-easymule-ed2k-search-network/">私有搜索网络</a>搜索其网站上索引到的资源链接，不过大多数easyMule用户对此并不知情。<a href="http://www.emule-project.net/">官方eMule</a>和正常的<a href="http://emule-fans.com/category/news/emule/">eMule Mod</a>都可以对eD2k服务器和Kad网络进行全局的搜索。"</i>
+➜《新闻周刊》复活节彩蛋报道僵尸入侵
+https://www.solidot.org/story?sid=18418	25920
+《新闻周刊》一位内部开发人员开了一个玩笑，在<a href="http://www.newsweek.com/">新闻周刊网站</a>中<a href="http://praetorianprefect.com/archives/2010/06/newsweek-reports-zombie-invasion/">隐藏了一个复活节彩蛋</a>，只要输入著名的<a href="http://en.wikipedia.org/wiki/List_of_Konami_code_games">Konami游戏作弊代码</a>（↑, ↑, ↓, ↓, ←, →, ←, →, B, A,enter），读者就能看到一系列僵尸入侵的报道。这位开发者在网站的<a href="http://www.newsweek.com/etc/designs/newsweek/lib.js">Javascript代码</a>中加入了George Mandis写的<a href="http://code.google.com/p/konami-js/">Konami Javascript library</a>代码。<a href="http://konamicodesites.com/">Konamicodesites.com</a>列出了一系列隐藏有相似复活节彩蛋的网站。
+➜Parrot 2.5.0 “Cheops”发布
+https://www.solidot.org/story?sid=18419	27360
+Lwn.net<a href="http://lwn.net/Articles/392133/">报道</a>，<a href="http://parrot.org/">Parrot</a>团队宣布发布Parrot 2.5.0 “Cheops”。Parrot是一个致力于支持所有动态语言的虚拟机。用户现在可通过<a href="http://parrot.org/download">FTP镜像下载</a>，有意参与Parrot开发的开发者可以到Subversion获取最新的源代码。
+➜SeaMicro透露512个Atom处理器的服务器
+https://www.solidot.org/story?sid=18420	28800
+一家硅谷创业公司<a href="http://dev.seamicro.com/">SeaMicro</a>透露了它的<a href="http://arstechnica.com/business/news/2010/06/server-based-on-512-atom-cpus-to-take-on-xeon-in-datacenters.ars">低功耗服务器SeaMicro SM10000</a>，使用512个 Intel Atom CPU。<i>
+SM10000的功率为2KW，SeaMicro称其所占空间只有一台Dell Xeon服务器的四分之一，功率也是只有后者的四分之一。其最大优势是运行现有的x86软件，从每个节点的磁盘镜像到负载平衡和自动化包。</i>
+➜E3最受期待游戏预告：从《塞尔达传说》到《Portal 2》
+https://www.solidot.org/story?sid=18421	30600
+<a href="http://www.gametrailers.com/">Gametrailers</a>列出的最受期待E3游戏大部分是众多经典游戏的续集，如任天堂的新《塞尔达传说》，Valve的《Portal 2》，以及《战争机器3》。在E3游戏展的第二天，这些游戏都<a href="http://arstechnica.com/gaming/news/2010/06/best-trailers-from-e3-day-two-wii-zelda-kirby-and-more.ars">揭开了面纱</a>(视频集锦)。其中最出入意料的也许是：Valve的Gabe Newell<a href="http://www.gametrailers.com/game/portal-2/12821">宣布</a>《Portal 2》和Steamworks将登陆PlayStation 3。此外，EA宣布了《极品飞车：Hot Pursuit》，育碧宣布了《Rayman Origins》等等。
+➜PlayStation Move九月上市，售价50美元
+https://www.solidot.org/story?sid=18422	32400
+索尼公司在E3发布会上宣布了它的动作控制器PlayStation Move<a href="http://arstechnica.com/gaming/news/2010/06/playstation-move-coming-in-september-starting-at-50.ars">将于九月上市</a>。<i>
+PlayStation Move及相关组件可以用多种不同方式购买，控制器本身售价为49.99美元，子控制器为29.99美元。玩家可以99.99美元购买一个PlayStation Eye摄像头、一个Sports Champions游戏和一个控制器。如果没有PS3游戏机，玩家也可以以399.99美元购买一台PS3 Slim主机和上述配件。索尼表示已经有许多游戏开发商开发支持PlayStation Move的游戏，如EA的《Tiger Woods PGA Tour 11》和《Sorcery》，一些旧的游戏也能通过提供补丁支持Move，如《Heavy Rain》、《Resident Evil 5》和《Toy Story 3》。</i>
+➜火星或曾经三分之一表面是海洋
+https://www.solidot.org/story?sid=18423	35520
+干枯的火星河流三角洲的最新分析<a href="http://news.nationalgeographic.com/news/2010/06/100614-ancient-mars-oceans-deltas-science/">为火星曾经潮湿增加了新证据</a>。<a href="http://dx.doi.org10.1038/NGEO891/">报告</a>发表在最新一期《自然地球科学》上。<i>
+原理很简单，通过估计古代三角洲的海拔去推测当时海平面的高度，因为同时期同海洋的三角洲或多或少会处于相同高度。科罗拉多大学的研究人员<a href="http://lasp.colorado.edu/~hynek/">Brian Hynek</a>和Gaetano Di Achille将这一原理应用到火星上，他们使用NASA和ESA探测器收集的的火星河流三角洲、峡谷网络和地形数据，发现在大约35亿年前，火星表面的三分之一为海洋所覆盖。</i>
+➜任天堂透露新掌机3DS，无需眼镜
+https://www.solidot.org/story?sid=18424	37680
+任天堂正式<a href="http://arstechnica.com/gaming/news/2010/06/3ds-officially-unveiled.ars">在E3上宣布了新掌机3DS</a>，让玩家无需戴上眼镜就能玩3D游戏。
+<i>
+<a href="http://www.eurogamer.net/articles/nintendo-3ds-tech-specifications">3DS掌机</a>上部是一个3.5英寸的宽屏显示屏，分辨率800x240，下部是一个较小的3.02英寸触摸屏显示器，分辨率320x240。它提供了一个3D景深滑块（depth slider），可以让玩家对3D效果进行调整。3DS内置了一个内部和两个外部摄像头，可以让玩家拍摄3D照片，摄像头的分辨率只有640x480。此外，它还内置了一个动作传感器和陀螺仪传感器。任天堂表示用户可以从迪斯尼、梦工厂、华纳兄弟等电影公司下载3D电影。玩家之间还可以通过Wi-Fi连线。在E3的发布会上，任天堂还演示了一系列能运行在3DS上的新游戏，如《Kid Icarus》，3D版本的《Nintendogs》等。</i> <a href="http://www.youtube.com/watch?v=3X-5u0YwKOo">视频</a>（Youtube）
+➜苹果在布鲁姆日前审查尤利西斯漫画
+https://www.solidot.org/story?sid=18426	43200
+自亚马逊乘用户睡觉时远程删除奥威尔的《1984》数字版之后，“如果企业变成出版商会发生什么”的滑稽闹剧就在不断上演。6月16日布鲁姆日到来之前，苹果<a href="http://apple.slashdot.org/story/10/06/14/0639252/Apple-Censors-Ulysses-App-In-Time-For-Bloomsday">审查</a>了尤利西斯漫画应用程序，因为作者Buck Mulligan在漫画中画了<a href="http://www.fictioncircus.com/news.php?id=552&amp;mode=one">一个卡通男性生殖器</a>。<i>
+爱尔兰作家詹姆斯·乔伊斯在1922年出版的《<a href="http://zh.wikipedia.org/zh-cn/%E5%B0%A4%E5%88%A9%E8%A5%BF%E6%96%AF">尤利西斯</a>》，描述了主人公广告推销员利奥波德·布卢姆（Leopold Bloom）于1904年6月16日一昼夜之内在都柏林的种种日常经历。这部小说曾在美国杂志连载，因为因其中一章包含有大量描写主角行手淫的情节被美国查禁。直到1933年法官宣判《尤利西斯》尽管包含性描写但并非色情作品而解禁。为纪念这部作品，6月16日被命名为“<a href="http://en.wikipedia.org/wiki/Bloomsday">布鲁姆日</a>（Bloomsday）”。苹果审查的漫画作品叫“<a href="http://ulyssesseen.com/landing/">Ulysses Seen </a>”，改编自《尤利西斯》的第一章。在iTunes商店中，该应用程序中的“色情”图像要么过滤要么用叶子覆盖。</i>

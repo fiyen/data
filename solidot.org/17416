@@ -1,0 +1,47 @@
+➜Chrome 61 发布
+https://www.solidot.org/story?sid=53746	11447
+匿名懦读者 写道 "<i>火狐紧跟谷歌的步伐，<a href="http://mozilla.com.cn/thread-389981-1-1.html" target="_blank">将取消</a>对沃通和 StartCom 的所有证书的信任。今天谷歌发布了 Chrome 61，<a href="https://security.googleblog.com/2017/07/final-removal-of-trust-in-wosign-and.html" target="_blank">已经取消</a>了沃通和 StartCom 颁发所有证书的信任，不留任何白名单。</i>"
+Chrome 61 的<a href="https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html" target="_blank"><u>主要特性</u></a>包括：原生支持 <a href="https://ponyfoo.com/articles/es6-modules-in-depth" target="_blank"><u>JavaScript 模块</u></a>，开发者只需声明脚本的依赖，而浏览器则能并行获取粒度依赖，利用缓存，避免跨页重复，确保脚本按正确次序执行；支持 WebUSB API，允许 Web 应用在用户许可下直接访问 USB 设备；V8 JavaScript 引擎升级到 <a href="https://v8project.blogspot.ca/2017/08/v8-release-61.html" target="_blank"><u>6.1</u></a>，等等。
+➜Ryzen Threadripper 是 AMD 工程师在业余时间开发的
+https://www.solidot.org/story?sid=53747	13425
+AMD 面向发烧友的高端桌面 CPU Ryzen Threadripper 最初并不在公司的计划之中，它是一群工程师在业余时间开发的。这是 AMD 雇员在接受福布斯采访时<a href="https://www.forbes.com/sites/antonyleather/2017/09/05/amd-ryzen-threadripper-the-fascinating-story-behind-the-processor-that-beat-intel/#2986dc94230c" target="_blank"><u>透露的消息</u></a>。在 Ryzen 架构宣布之后，AMD 的一群工程师认识到他们可以在此基础上开发出一个发烧友想要的高性能 CPU。他们用业余时间在这个项目上热情工作了一年，然后在 2016 年向前英特尔高管 Jim Anderson 提到了这个项目，得到了许可，正式进入到公司的路线图中。Threadripper 这个名字最初也是工程师起的，然后被营销部门采用。AMD 工程师原计划在 2018 年推出 Threadripper，但 Jim Anderson 主张将发布时间提前一年，也就是 2017 年夏天。
+➜Facebook 发现疑似俄罗斯的广告账号
+https://www.solidot.org/story?sid=53748	13942
+Facebook 在官方博客上发表<a href="https://newsroom.fb.com/news/2017/09/information-operations-update/" target="_blank"><u>声明</u></a>，称发现大约 500 个“虚假帐号”，共投入 10 万美元广告支出，该公司相信这些帐号<a href="http://cn.wsj.com/gb/20170907/bgh074611.asp" target="_blank"><u>与俄罗斯有关</u></a>。Facebook 称，该公司发现这些广告通常并未提到任何政治候选人，而主要旨在“扩大意识形态上分歧的社会和政治讯息──涉及从同性恋、双性恋和变性者问题到种族、移民和持枪权等问题”。虽然在两年内支出 10 万美元在现代政治中只是很小的数额，但这一发现可能促使对俄罗斯利用社交媒体来宣传的规模和范围进行进一步审查。
+➜Android Oreo 将禁止操作系统降级
+https://www.solidot.org/story?sid=53749	17267
+Google 最新释出的新版 Android Oreo 被发现加入名为“<a href="https://android.googlesource.com/platform/external/avb/#Rollback-Protection" target="_blank"><u>回滚保护</u></a>（Rollback Protection）”的新功能，包含了验证启动机制，它将禁止设备回滚到旧版本的固件。如果尝试安装到旧版本的官方镜像将会导致设备无法启动。这听起来像是一个好主意，但你可以拿 PC 对比一下，比如你的 PC 从 Windows&nbsp; 7 升级到 Windows 10 ，但发现升级后存在许多问题，想要重新使用 Windows 7，结果发现操作系统禁止你降级。或者你尝试安装 Linux？Google 阻止用户选择的做法再次<a href="https://tech.slashdot.org/story/17/09/06/2027200/android-oreos-rollback-protection-will-block-os-downgrades" target="_blank"><u>引发了争议</u></a>。
+➜欧盟轮值主席呼吁大规模互联网过滤
+https://www.solidot.org/story?sid=53750	19642
+一份泄漏的文档显示，欧盟轮值主席国爱沙尼亚呼吁成员国效法中国的网络审查<a href="https://edri.org/leaked-document-eu-presidency-calls-for-massive-internet-filtering/" target="_blank"><u>加强不加区分的大规模互联网过滤</u></a>。欧盟并不是一个“大政府”，它只是给予轮值主席国一个机会提出它自己的议程。爱沙尼亚的互联网审查激进计划在欧盟<a href="https://yro.slashdot.org/story/17/09/06/1616206/eu-presidency-calls-for-massive-internet-filtering-leaked-document-shows" target="_blank"><u>不太可能</u></a>获得通过和采用，欧盟有着世界最严厉的隐私保护政策，而不加区分的审查无疑会侵犯到欧盟居民的权利。
+➜太阳释放出 X9.3 级耀斑
+https://www.solidot.org/story?sid=53751	24970
+太阳活跃区域 AR2673 于 9 月 6 日 12:02 UTC <a href="https://watchers.news/2017/09/06/x-class-solar-flare-september-6-2017-cme-produced-strongest-flare-of-solar-cycle-24/" target="_blank"><u>释放出</u></a> X9.3 级耀斑。它既是自 2005 年以来太阳产生的最大强度耀斑，也是当天释放的第二个 X 级耀斑，第一个耀斑强度为 X2.2 级。从 9 月 4 日起，太阳爆发了多个高强度耀斑， 而随耀斑喷发出的日冕物质抛射预计将于 UTC 时间 9 月 7 日-9 日影响地磁场，导致 <a href="http://www.swpc.noaa.gov/news/g3-watch-7-through-9-september-2017-due-cme-effects" target="_blank"><u>G3 级</u></a>地磁风暴（地磁风暴强度范围从 G1 到 G5），此类强度的风暴预计会在高纬度地区引发输电系统的电压不稳，在北方产生极光。更新：地磁风暴等级提升到更严重的 <a href="http://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storming-observed" target="_blank"><u>G4</u></a>。<br>
+➜Facebook 寻求在上海设立办事处
+https://www.solidot.org/story?sid=53752	27266
+《纽约时报》援引匿名知情人士的消息<a href="https://cn.nytimes.com/business/20170907/facebook-china-shanghai-office/" target="_blank"><u>报道</u></a>，社交巨人过去几个月一直在上海悄悄寻找办公场所。他们称，这些办公室将安置 Facebook 从事硬件开发、同时也可能参与公司在华整体业务的员工。知情人士称，Facebook 的计划是试探性的，将取决于中国政府的批准。一旦成功，这将是这家社交网站的象征性胜利。尽管被屏蔽近十年，但 Facebook一直致力于进入中国。Facebook 发言人回应称，“我们向来说我们对中国感兴趣，并且正在投入时间以不同的方式增加对中国的了解和学习。”今年早些时候，Facebook 悄悄授权中国本土的一家小公司发行其照片管理应用 Moments 的中文版。
+➜TrustZone 降级攻击
+https://www.solidot.org/story?sid=53754	31976
+佛罗里达州立大学和百度 X 实验室的研究人员<a href="https://www.bleepingcomputer.com/news/security/trustzone-downgrade-attack-opens-android-devices-to-old-vulnerabilities/"><u>报告了</u></a>针对 Android TrustZone 的<a href="http://ww2.cs.fsu.edu/~ychen/paper/downgradeTZ.pdf" target="_blank"><u>降级攻击</u></a>（PDF），攻击者可以用存在已知漏洞的版本去替换现有的版本。<a href="Android TrustZone" target="_blank"><u>TrustZone </u></a>是 AMR 芯片的一个安全区域，运行着自己的操作系统  TrustZone OS，其工作独立于主系统 Android OS。Android TrustZone 缺乏回滚保护之类的机制，因此能被攻击者回滚到存在安全漏洞的旧版本。研究人员在三星 Galaxy S7、华为 Mate 9、Google Nexus 5 和 Google Nexus 6 上测试了他们的攻击，用存在漏洞<a href="http://bits-please.blogspot.ro/2016/05/war-of-worlds-hijacking-linux-kernel.html" target="_blank"><u>  CVE-2015-6639</u></a> 的旧版 Widevine trustle 替换了最新版本，该漏洞给予攻击者 TrustZone OS 的 root 权限，间接的控制整个操作系统。研究人员称，他们已经向手机制造商报告了漏洞，而厂商们则在最新更新中整合了补丁。
+➜朝鲜核爆后中国加紧辐射监测
+https://www.solidot.org/story?sid=53755	34344
+朝鲜核爆后环保部核安全局启动了对核辐射的<a href="http://nnsa.mep.gov.cn/zhxx_8953/gzdt/201709/t20170907_421073.html" target="_blank"><u>紧急监测</u></a>，每天发表<a href="http://nnsa.mep.gov.cn/zhxx_8953/gzdt/" target="_blank"><u>多份报告</u></a>通报最新的检测结果，至今尚未检测到核污染。外交人员和分析人士<a href="http://cn.wsj.com/gb/20170907/BCH102440.asp" target="_blank"><u>认为</u></a>，中国政府担心核污染引发公众愤怒，迫使政府对平壤采取更强硬立场。即便是极轻微的核泄漏风险也会引起极大的不安，与朝鲜接壤或邻近的东北三省有超过 1 亿人口居住。这次丰溪里核爆炸距离中国边境约 80 公里。核爆炸产生放射性的碘等元素，人类暴露在这些元素中可能致癌，极端情况下甚至死亡。
+➜世界各地的自来水发现塑料纤维
+https://www.solidot.org/story?sid=53756	40151
+对世界各地自来水样本的分析发现，83% 的水样<a href="https://www.theguardian.com/environment/2017/sep/06/plastic-fibres-found-tap-water-around-world-study-reveals" target="_blank"><u>含有塑料纤维</u></a>。美国的污染率最高，达到了 94%，美国国会大厦、环保署总部、纽约市特朗普大厦等地自来水管收集的样本都发现了塑料纤维。排在美国之后的是黎巴嫩和印度。欧洲国家如英国、德国和法国的污染率最低，但仍然高达 72%。每 500 毫升发现的纤维数从美国的 4.8 到欧洲的 1.9 个。这项研究表明塑料颗粒污染在全球环境中几乎已经无处不在。此前的研究主要集中在海洋的塑料污染。
+➜苹果再次因为下架应用遭中国公司起诉
+https://www.solidot.org/story?sid=53757	41466
+上个月北京达晓律师事务所代表中国应用开发商向中国监管机构<a href="http://www.solidot.org/story?sid=53415" target="_blank"><u>举报苹果</u></a>，指责苹果滥用其对 iOS 应用商店的控制权苛待中国开发商，不公正地下架他们的应用，并对应用内购买收取高比例提成。今年早些时候，苹果开始严格执行限制热更新政策，其应用商店下架了数万中国违规应用。苹果会定期对应用商店进行大规模清理，一举下架数万应用并不少见。然而，今年迄今为止，其下架的中国应用要比下架的美国应用多出近 20 万个。现在，成都的另一家律师事务所代表另外 23 家开发商<a href="http://www.ftchinese.com/story/001074173" target="_blank"><u>发起类似举报</u></a>，指控苹果的不公正待遇。中国应用程序开发商表示，在他们的应用被下架之前他们往往没有收到任何警告，也无法从苹果那里获得解释下架决定的有用回应。
+➜网信办发布论坛、公众号和群组管理规定
+https://www.solidot.org/story?sid=53758	43435
+中国互联网最高审查机构网信办今天发布了两个规定：《<a href="http://www.cac.gov.cn/2017-09/07/c_1121624269.htm" target="_blank"><u>互联网用户公众账号信息服务管理规定</u></a>》和《<a href="http://www.cac.gov.cn/2017-09/07/c_1121623889.htm" target="_blank"><u>互联网群组信息服务管理规定</u></a>》，在这之前它已经发布了《互联网跟帖评论服务管理规定》和《互联网论坛社区服务管理规定》。这四个规定基本内容都一致：<i>
+第一要求都是实名制，要求根据 “后台实名、前台自愿” 对用户身份进行认证。其次是备案，对互联网群组，规定要求服务商 “根据互联网群组的性质类别、成员规模、活跃程度等实行分级分类管理，制定具体管理制度并向国家或省、自治区、直辖市互联网信息办公室备案，依法规范群组信息传播秩序”，对公众号，服务商需要根据 “使用者的账号信息、服务资质、服务范围等信息进行审核，分类加注标识，并向所在地省、自治区、直辖市互联网信息办公室分类备案”。第三建立信用等级制度，“根据信用等级提供相应服务”，这一要求是在为未来中国全面推行社会信用制度未雨绸缪，一旦进入黑名单，你将会受到全方面的限制。规定要求 “建立黑名单管理制度，对违法违约情节严重的群组及建立者、管理者和成员纳入黑名单，限制群组服务功能，保存有关记录，并向有关主管部门报告” 以及 “建立黑名单管理制度，对违法违约情节严重的公众账号及注册主体纳入黑名单，视情采取关闭账号、禁止重新注册等措施，保存有关记录，并向有关主管部门报告”。</i>
+➜甲骨文解雇了 983 名雇员
+https://www.solidot.org/story?sid=53759	45876
+根据递交到加州就业发展局的一份通知，甲骨文在其圣芭芭拉园区<a href="https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/rip-sparc-and-solaris" target="_blank"><u>解雇了 983 名雇员</u></a>，其中 615 名雇员从事的是硬件工作。这次裁员本质上相当于杀死了收购自 Sun 的 SPARC 处理器和 Solaris 操作系统。根据来自 thelayoff.com 的评论，甲骨文在上周五解雇了 SPARC 的核心团队。SPARC 是最早使用精简指令集的处理器之一，基于该处理器的工作站曾是 Sun 最畅销的产品。甲骨文正在美国和世界各地裁掉其它与硬件相关的职位，总数将达到 2500。与此同时，甲骨文还宣布为其云计算业务招募 5000 名工程师、销售和技术支持。
+➜Python 是增长最快的主流编程语言
+https://www.solidot.org/story?sid=53760	47138
+<div align="center"><img src="http://img.solidot.org/0/412/lidiFLJKmtSNQ.png" width="500" align="" height="429"><br>
+</div>
+<br>
+编程问答网站 Stackoverflow 的数据科学家 David Robinson 称，<a href="https://stackoverflow.blog/2017/09/06/incredible-growth-python/?cb=1" target="_blank"><u>Python 是访问量增长最快的主流编程语言</u></a>。在 Stackoverflow 上，主流编程语言如 Java、Javascript、C#、php 和 C++ 的问题访问量过去几年基本没太大的变动，只有 Python 一路呈上升趋势。2017 年 6 月，Python 首次成为高收入国家访问量最高的标签。而在 2012 年，它的访问量比其它五种主流语言都低，Python 的年增长率达到了 27%。 Python 以及 R 的热捧被认为与数据科学的流行有关。<br>

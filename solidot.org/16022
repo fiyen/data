@@ -1,0 +1,55 @@
+➜新浪处理10万微博账户
+https://www.solidot.org/story?sid=37203	6734
+《北京青年报》报道，称自8月10日官方订出旨在加强微博管理的“七条底线”以来，新浪微博已对<a target="_blank" href="http://www.scmpchinese.com/sc/china/16150/qing-wang-xing-dong-xia-xin-lang-chu-li-10mo-wei-bo-zhang-hu"><u>超过10万微博账号进行处理</u></a>，方式包括不同期限的禁言，直至永久封号。
+报道称，被处理的103673个账号中，超过七成违规行为是进行人身攻击，涉及骚扰他人的账号有14357个，发布不实信息的账号有1030个，涉及冒充、抄袭内容、泄露隐私及其他违规行为的账号有9246个，因发布低俗淫秽色情信息被关闭的账号则有3773个。根据新浪制定的规则，对于发布不实信息的账号，除了标注相关微博外，还会根据该微博的转发次数进行不同程度的处罚。微博转发100次以上，账号将被禁言7天，禁被关注7天，并扣减信用积分5分；微博转发1000次以上，账号将被禁言15天，禁被关注15天，并扣减信用积分10分，情节恶劣或后果严重的，最重将被处以冻结账号的处罚。
+➜Fedora 20 Beta发布
+https://www.solidot.org/story?sid=37204	10078
+Fedora 20 Heisenbug<a target="_blank" href="http://mid.gmane.org/%3C20131112085703.4830a4e3%40adria.ausil.us%3E"><u>发布</u></a>了<a target="_blank" href="http://fedoraproject.org/get-prerelease"><u>beta版本</u></a>。如果一切顺利，正式版将于12月10日发布。开发者鼓励用户下载试用。Fedora 20发布恰逢Fedora十周年：第一个版本Fedora Core 1是在2003年11月6日发布的。Fedora 20的新变化包括：ARM成为主要支持架构，改进网络管理器，默认不安装多数用户不需要的服务如 Sendmail和Syslog，整合云计算技术，将发布专门用于运行私有云和公有云的镜像 Fedora Cloud SIG，安装器支持 LVM Thin Provisioning；Ruby on Rails 4.0；GNU C Library 2.18；GNOME 3.10 ；KDE Plasma Workspaces 4.11；X2Go...
+➜Chrome 31发布，支持Web支付和PNaCl
+https://www.solidot.org/story?sid=37205	13075
+Google<a target="_blank" href="http://googlechromereleases.blogspot.com/2013/11/stable-channel-update.html"><u>发布</u></a>了<a target="_blank" href="http://www.google.com/chrome"><u>Chrome 31</u></a>，支持Web支付和<a target="_blank" href="http://blog.chromium.org/2013/11/portable-native-client-pinnacle-of.html"><u>PNaCl（Portable Native Client）</u></a>，修正了25个安全bug。Web支付顾名思义简化了用户的在线支付流程，用户可以选择使用浏览器保存的支付数据，或通过一个浏览器界面输入新的支付信息，然后由浏览器自动完成在线表格填写。PNaCl可以让开发者一次编译在任何硬件平台上运行，可以嵌入到任何网站中。其工作原理是将原生的C和C++代码编译到一个中间表现形式而不是像Native Client中那样的架构特定的表现形式。LLVM风格的字节码封装进一个可携式可执行程序中，可以托管在Web服务器上。当Chrome访问某个含有PNaCl应用的网站，浏览器能自动提取和将可携式可执行程序翻译成架构特定的机器码。开发者将不需要为了让应用能运行在x86、ARM或MIPS设备上而进行多次编译。
+➜Apple II DOS源代码发布
+https://www.solidot.org/story?sid=37206	15003
+加州山景城的计算机历史博物馆不仅仅展示硬件，还展示软件。博物馆此前已发布了著名软件MacPaint
+、Photoshop和APL的源代码，现在它<a href="http://www.computerhistory.org/atchm/apple-ii-dos-source-code/" target="_blank"><u>公开了1978年的Apple II DOS源代码</u></a>。源代码只允许非商业性使用，如果没有得到苹果的许可不得山寨。Apple II DOS系统由Shepardson Microsystems公司雇员在35天内开发完成。
+➜CyanogenMod发布安装程序
+https://www.solidot.org/story?sid=37207	17954
+CyanogenMod团队<a target="_blank" href="http://www.cyanogenmod.org/blog/cyanogenmod-installer-release"><u>发布了</u></a>一个<a href="http://beta.download.cyanogenmod.org/install" target="_blank">桌面版本</a>和移动版本的安装程序，简化移动设备引导程序解锁、root和刷机，用高度定制的CyanogenMod取代原手机系统。<a target="_blank" href="https://play.google.com/store/apps/details?id=org.cyanogenmod.oneclick">移动版本</a>已经发布在Goolge Play应用商店。刷机一般比较复杂，而现在用户只需要安装桌面程序，通过USB将手机与桌面相连，然后点击开始就可以。注意，任何刷机都有风险，有可能导致手机变砖。你可以浏览<a target="_blank" href="http://wiki.cyanogenmod.org/w/CyanogenMod_Installer"><u>Wiki</u></a>了解自己使用的手机是否是支持型号。<br>
+➜每部手机都藏着第二个操作系统
+https://www.solidot.org/story?sid=37208	24850
+每部具有移动通信功能的手机<a target="_blank" href="http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"><u>都运行着两个操作系统</u></a>：在终端用户熟悉的Android和iOS外，还有一个实时操作系统（RTOS）管理着无线电功能。这个操作系统储存在固件，运行在基带处理器上。这些基带RTOS系统都是私有的。例如，运行在高通基带处理器的RTOS系统叫<a target="_blank" href="http://events.ccc.de/congress/2011/Fahrplan/attachments/2022_11-ccc-qcombbdbg.pdf"><u>AMSS</u></a>，基于高通私有的REX内核，由69个并发任务构成，处理从USB到GPS的一切事物，它运行在一个 ARMv5处理器上。这些私有闭源的软件从未经过恰当的同行评审，实际上质量堪忧。Luxembourg大学的安全研究员Ralf-Philipp Weinmann逆向工程了高通和英飞凌的基带处理器软件，轻而易举的就发现了大量的bug。这些漏洞可以让攻击者远程执行代码，导致设备崩溃，可以用Hayes命令集悄悄启动自动应答。
+➜研究揭示网络间谍行动背后的恶意程序供应链
+https://www.solidot.org/story?sid=37209	27207
+<div align="center"><img src="http://img.solidot.com.cn/0/802/linKvRD35L8aA.jpg" align="" height="235" width="480"><br>
+<br>
+</div>
+<p>安全公司FireEye的研究人员<a target="_blank" href="http://www.fireeye.com/resources/pdfs/fireeye-malware-supply-chain.pdf"><u>发现</u></a>（PDF），11个以前认为彼此之间没有关联的APT（先进持续性渗透攻击）网络间谍活动实际上存在联系，他们相信幕后有一个恶意程序供应链为这些行动提供弹药。这11个网络间谍行动针对不同行业的目标，涉及航空国防、化学/制造/采矿、高等教育、金融服务、法律服务、联邦政府、电信公司...因此初看起来毫无关系。然而研究人员在分析了攻击者使用的恶意程序样本之后，发现他们共享构建工具（如图），测试环境全部是简体中文；有着相同的代码元素，相同的二进制时间戳，相同的数字证书签名。
+</p>
+➜微软将淘汰SHA-1和RC4
+https://www.solidot.org/story?sid=37210	29567
+微软官方博客<a target="_blank" href="https://blogs.technet.com/b/srd/archive/2013/11/12/security-advisory-2880823-recommendation-to-discontinue-use-of-sha-1.aspx"><u>宣布</u></a>，2016年之后，该公司的软件将识别使用<a target="_blank" href="http://zh.wikipedia.org/wiki/SHA1"><u>SHA-1</u></a>哈希算法的数字证书为无效。它还同时建议客户停止在软件和应用中使用 <a target="_blank" href="http://zh.wikipedia.org/wiki/RC4"><u>RC4</u></a>加密算法。SHA-1和其它哈希算法<a target="_blank" href="http://arstechnica.com/security/2013/11/hoping-to-avert-collision-with-disaster-microsoft-retires-sha1/">容易受到碰撞攻击</a>。当两个不同的信息产生了相同的哈希就发生了碰撞。一个哈希算法的安全性依赖于每一个明文字符串或文件都能产生独一无二的哈希。攻击者可利用碰撞攻击伪造证书破坏系统安全。去年6月，微软安全专家<a href="http://www.solidot.org/story?sid=29946"><u>声称</u></a>，恶意程序Flame的攻击者利用了碰撞攻击伪造了微软弱哈希算法的数字证书。随着CPU和GPU的运算能力提升，SHA-1也将越来越容易遭到碰撞攻击，微软建议用户开始使用SHA-2。
+➜搜狐腾讯MPAA起诉百度盗版，禁止百度爬虫
+https://www.solidot.org/story?sid=37211	33684
+优酷土豆、搜狐、腾讯、乐视、中国电影著作权协会（MPA）和美国电影协会（MPAA）等<a target="_blank" href="http://it.sohu.com/20131113/n390070500.shtml"><u>联合起诉</u></a>百度快播盗版版权视频。他们发起了中国网络视频反盗版联合行动，称已向法院起诉百度、快播的盗版侵权案件共立案百余起，涉及百度盗链、盗播移动视频版权的影视作品逾万部，向百度索赔由此带来的损失3亿元。同时宣布采取技术反制，从即日起全面禁止百度视频爬虫访问。公告称，百度通过百度视频、百度影音等软件，以定向链接、点对点传输、浏览器内嵌播放插件并主动推介等的方式向公众提供大量影视节目的播放甚至下载，涉嫌盗链第三方视频网站内容。而百度<a target="_blank" href="http://roll.sohu.com/20131113/n390081189.shtml"><u>回应称</u></a>，它“为全视频行业贡献75%的搜索流量，每日为视频网站的正版内容带来1亿次以上的用户访问”，表示盗版是国内视频行业的共同难题。
+➜比尔盖茨的改善世界计划
+https://www.solidot.org/story?sid=37212	36046
+比尔盖茨在《连线》上发表一篇长文，<a target="_blank" href="http://www.wired.com/business/2013/11/bill-gates-wired-essay/all/"><u>谈论了他的改善世界大计划</u></a>。<i>
+盖茨说，从长远的眼光看，我们生活在历史上最好的时代。战争发生的频率下降，预期寿命过去一百年翻了一番多。世界比任何时候都好，但没有我们希望的那么好。如果要加速这一过程，我们需要看到更多具有重大意义的创新和突破。作为慈善家，他希望以对社会最有影响力的方式捐出自己的财富，因此一直在寻找机会去投资能产生最大回报的项目。这将涉及到如何处理世界最大的难题，资助最有可能的解决方案。我们的世界面临着贫困、疾病、饥饿、战争、低教育程度、治理不善、政治不稳、贸易疲软，妇女虐待等诸多挑战，盖茨表示他没有什么神奇的公式能为这些难题制定优先解决次序。所以盖茨基金会的全球重心是贫困和疾病，而在美国则是教育。盖茨说，他是资本主义虔诚的信徒，通过追求个人利益而服务于更广泛的利益，资本主义是至今设计出的最好的制度。但不能单独靠资本主义去解决穷人的需求，以市场为导向的创新实际上会扩大贫富之间的差距。他提出了双管齐下的策略：（1）缩小差距，使富裕世界的进步更快抵达贫困世界；（2）鼓励更多的世界知识精英制定方案解决只有穷人才会面临的问题。</i>
+➜微软放弃员工排名制度
+https://www.solidot.org/story?sid=37213	38080
+微软<a target="_blank" href="http://tech.slashdot.org/story/13/11/12/2046214/microsoft-kills-stack-ranking"><u>放弃了</u></a>曾引发争议的员工排名末尾淘汰制度。报导微软新闻的资深记者Mary Jo Foley引用内部消息来源<a target="_blank" href="http://www.zdnet.com/microsoft-does-away-with-stack-ranking-7000023103/"><u>称</u></a>，公司人力资源总监Lisa Brummel向员工发去备忘录，通知他们员工排名制度已经终止。备忘录称，不再有等级，不再有曲线。经理和负责人可以以最能反映团队成员表现的方式灵活的分配奖励。
+➜老化的内核社区需要新血加入
+https://www.solidot.org/story?sid=37214	39903
+Linux内核是至今最大最成功的开源项目。根据Linux基金会的<a target="_blank" href="http://www.linuxfoundation.org/publications/linux-foundation/who-writes-linux-2013"><u>报告</u></a>（PDF），2012年4月以来，有3738位开发者为内核加入了大约200万行代码。过去20多年，有超过1.1万名开发者参与了内核开发。虽然目前参与开发的规模和人数达到了前所未有的水平，但核心开发者<a target="_blank" href="http://opensource.com/education/13/11/linux-kernel-community-growth"><u>正日益老去</u></a>，而年轻一代没能接班，人数反而越来越少。根据软件开发分析公司Bitergia的<a target="_blank" href="http://blog.bitergia.com/2013/02/01/demographics-of-linux-kernel-developers-how-old-are-they/"><u>分析</u></a>，年老的开发者活跃度下降，而年轻一代开发者的人数比六年前更少。维护一个富有活力的大社区不是易事，需要不断有新贡献者加入，经过培训成为得到社区认可的开发者。对此，许多年轻开发者抱怨Linus<a target="_blank" href="http://developers.slashdot.org/story/13/11/12/202210/aging-linux-kernel-community-is-looking-for-younger-participants"><u>太刻薄</u></a>。
+➜MPAA抱怨Google没能过滤盗版内容链接
+https://www.solidot.org/story?sid=37215	40280
+美国电影协会(MPAA)主席、前美国参议员克里斯•多德(Chris Dodd)，指责谷歌(Google)<a target="_blank" href="http://www.ftchinese.com/story/001053408"><u>没有全力以赴阻止</u></a>互联网用户在网上找到盗版内容。在《禁止网络盗版法案》(Stop Online Piracy Act)成为泡影后，谷歌在2012年改变了其算法，旨在降低提供盗版内容的网站在搜索结果中的排名，作为同好莱坞握手言和的礼物。但多德表示，“在很多情况下”搜索引擎依然能够带用户进入非法网站。算法变化没有效果，他说：“什么都没变。对此我想要积极一些，谷歌是家伟大的公司，他们在很多方面做得极好，他们做出很多的努力（来改变算法）。在这方面所有人都可以做得更好，但搜索引擎需要加快步伐。”
+➜不吃普通食物度过三十天
+https://www.solidot.org/story?sid=37216	43118
+Brian Merchan完成了一项试验：<a target="_blank" href="http://motherboard.vice.com/blog/soylent-no-food-for-30-days"><u>在30天内不食用普通食物</u></a>，只摄入名叫Soylent的营养物质。每包Soylent含有2400热卡。30天内，Merchan共服用了30包Soylent，9瓶啤酒，1瓶白葡萄酒，5杯咖啡，2份混合酒。30天后，他的体重减轻了10磅，体脂肪下降了1%。他承认最初几天的感觉不是很好。Soylent由Soylent HQ开发，名字与1973年的科幻电影《Soylent Green》有关联——这部电影里，营养物质Soylent是由人类尸体制成。但公司创始人Rob Rhinehart坚称，他的产品是以Harry Harrison的原作《Make Room! Make Room!》中的soylent牛排命名，不涉及食人行为。
+➜英国科学家发现没有酒精的酒精
+https://www.solidot.org/story?sid=37217	44535
+前英国政府毒品顾问David Nutt教授声称他识别出一组分子，<a target="_blank" href="http://science.slashdot.org/story/13/11/11/2141207/scientist-seeks-investment-for-alcohol-substitute"><u>能给予人酒精的感觉</u></a>，但不会带来酒精对人体造成的副作用，如酒精中毒。只是要将这种产品引入大众市场必将面临酿酒行业的巨大挑战。他正在寻找投资者研发产品，声称这种产品将产生革命性的影响，堪比电子香烟对吸烟的革命。
+➜亚马逊云超级电脑运算速度突破petaflops
+https://www.solidot.org/story?sid=37218	45549
+Cycle Computing是一家帮助客户高效使用超级计算机处理能力的公司，它利用亚马逊的AWS云服务搭建基于云的超级电脑。该公司刚搭建出至今运算速度最快的云端超级计算集群，包含156,314个核心，理论峰值1.21 petaflops，运行18小时<a target="_blank" href="http://arstechnica.com/information-technology/2013/11/18-hours-33k-and-156314-cores-amazon-cloud-hpc-hits-a-petaflop/#p3"><u>仅仅花费3.3万美元</u></a>。<u>在</u>最新的Top500名单上，亚马逊自己也有一台超级电脑排在第127位，包含17,024个核心，运算速度240.1 teraflops，理论峰值54.1 teraflops。Cycle的这个集群是帮助南加州大学化学教授Mark Thompson设计光能转换材料。传统的实验室方法可能需要数十万美元的设备，耗费研究生一年时间，而超级计算机模拟要快得多。

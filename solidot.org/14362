@@ -1,0 +1,87 @@
+➜德国政府着手审查互联网
+https://www.solidot.org/story?sid=11040	60
+德国联邦内阁通过了一项<a href="http://yro.slashdot.org/article.pl?sid=09/04/23/0319217">打击儿童色情网页的法律草案</a>。草案要求ISP同联邦刑侦局（BKA）合作封锁有儿童色情内容的网页，BKA将维护一个秘密的IP黑名单，任何访问名单上地址的尝试都会被屏蔽和重新定向到一个有“STOP”标记的政府网页。草案尚未被议会批准，但上周5大ISP已经同政府签署了相关协议，自愿参与屏蔽色情。批评者认为政府可能会进一步用其它借口去屏蔽更多内容，最终建成一个德国版的防火长城。
+➜人类正接近通过侯世达图灵测试
+https://www.solidot.org/story?sid=11041	1920
+世上有很多种图灵测试，其中难度大的甚至连人类都无法通过，比如《<a href="http://arc.net.cn/dl/GEB_Goedel_Escher_Bach_1979_CN.pdf.bz2">集异壁</a>》作者侯世达（Douglas Hofstadter）的图灵测试。侯世达在其作品《咖啡屋对话（Coffee House Conversation）》中构思了一个循环的测试：如果一个测试者能通过侯世达图灵测试，那么他必须创造一个虚拟智能亦能通过这项测试。至今为止还没有人类能实现这一目标。<i>
+现在德国帕德博恩大学的Florentin Neumann和同事宣称，人类正在接近<a href="http://www.technologyreview.com/blog/arxiv/23444/">通过侯世达图灵测试</a>，他们已经在虚拟世界《第二人生》上实现了一个侯世达图灵测试版本：键盘、放映机和虚拟屏幕，一个虚拟化身操作虚拟键盘的方向键去玩吃豆人游戏。他们认为这可以作为一个2.5级别的侯世达图灵测试：1、人类安装《第二人生》，设置虚拟化身；2、虚拟化身在《第二人生》中完成一个吃豆人游戏；3、游戏中的幽灵在虚拟屏幕上奔跑追逐吃豆人，它代表着某种有限的智能形式。</i> <a href="http://arxiv.org/abs/0904.3612">预印本</a>
+➜在Twitter上放Youtube
+https://www.solidot.org/story?sid=11042	3120
+<a href="http://szlug.org/">权相龙</a> 写道<i>"
+哪里有TwitPic可以嵌入视频呢？网络上有很多在Twitter上分享图片和音乐的服务，但还没有<a href="http://www.downloadsquad.com/2009/04/27/post-youtube-videos-to-twitter-with-youtubetweeter/">分享视频的服务</a>。<a href="http://www.youtubetweeter.com/">Youtube Tweeter</a>可以接近实现这个服务。如果可以嵌入其他视频网站的代码，那就更好了。Toutube Tweeter使用方法是在YouTubeTweeter生成器内输入你的Twitter用户名和Youtube网址，最后得到一个缩址，点击之后就会出现一个视频弹出窗（显然在墙内没用）。"</i>
+➜The.Simpsons.S20E18惊现央视新大楼
+https://www.solidot.org/story?sid=11043	5400
+<a href="http://www.cctv.com/">snake-ass</a> 写道 "在最新的一集<a href="http://zh.wikipedia.org/w/index.php?title=%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6&amp;variant=zh-cn">辛普森一家</a>(The.Simpsons.S20E18)中，细心的观众不难发现，里边居然有央视CCTV的大裤衩，请看<a href="http://www.douban.com/note/32157967/">这里</a>。"
+➜WAPI，又是一个忽悠人的标准？
+https://www.solidot.org/story?sid=11044	7200
+中国工业和信息化部正在<a href="__SLASHLINK__" sect="it" sid="09/04/22/0358214" sn="article" tid="127">强制推广</a>所谓自主产权的“<a href="http://zh.wikipedia.org/w/index.php?title=WAPI&amp;variant=zh-cn">WAPI</a>(维基百科也很和谐，全是正面内容)”无线标准，但正如<a href="__SLASHLINK__" sect="internet" sid="08/01/24/1528243" sn="article" tid="71">IPv9</a>等堂而皇之投入使用的标准，最终被证明不过是一小撮专家打着国家利益的名义掠夺的手段。WAPI究竟是什么，它是否是另一种闭关锁国创造中国大局域网的技术？以下引用自<a href="http://bsky.spaces.live.com/blog/cns!B2C4C3ABF82350F9!1007.entry">beyondsky--笼中对</a>的文章：<i>
+WAPI根本不是一整套的无限局域网技术，而只是一个加密技术，把已有的IEEE 802.11无线技术抄过来，作了一些适应于这个加密技术的改进。它使用的是公开密钥体制的椭圆曲线密码算法和秘密密钥体制的分组密码算法SMS4（西安捷通研发的私有加密方法），由于安全性没有得到公认，2006年3月13日，国际标准化组织（ISO/IEC）以压倒多数<a href="http://zh.wikipedia.org/w/index.php?title=WAPI&amp;diff=4175932&amp;oldid=4175874">否决</a>了WAPI，支持802.11i成为无线局域网的国际标准。更加坏的一点是，WAPI无视全球几十亿人（包括中国人自己）持有IEEE无限局域网设备这一事实，拒绝和IEEE合作进行标准融合。不做标准融合，也就意味着现存的设备无法被WAPI兼容。也就是说外国的电脑进了中国没法无线互联，中国的设备出了国也没法用。WAPI利益集团的贪婪可见一斑，他们的目标就是要劫持中国十几亿用户做人质，搞一个不和国际兼容的标准，把中国搞成一个孤岛。用户方不方便他们是管不着的，只要他们赚了钱就行了。赚谁的钱，他们哪有本事赚外国人的钱，当然是压榨中国人自己的钱。</i>
+➜RMS说“软件即服务”非自由
+https://www.solidot.org/story?sid=11045	9120
+自由软件基金会主席RMS说<a href="http://news.slashdot.org/article.pl?sid=09/04/27/1356235">“软件即服务”是非自由的</a>：<i>
+“软件即服务（SaaS）”意味着你让某个服务器为你计算。如果这是服务器所做的，你最好不要使用它。如果你在他人的服务器上做自己的任务，那么你就将电脑的控制权移交给了操作服务器的某个人。它就像是一个只有二进制的软件，但更糟的是，相比运行在自己电脑上的二进制软件，你很难给他人服务器上运行的程序打补丁。和非自由软件一样，“软件即服务”与你的自由不相容。</i>
+➜游戏开发者与盗版者在BT网站上友好交流
+https://www.solidot.org/story?sid=11046	11100
+如果你到BT网站（英文）上下载<a href="http://www.aceteam.cl/">ACE Team</a>开发的第一人称动作游戏《奇诺冲突(Zeno Clash)》，你会注意到<a href="http://www.mininova.org/com/2514963">一条有意思的留言</a>，一位自称《Zeno Clash》开发者的人友好的写道：<i>
+“我是Zeno Clash的开发成员之一。如果你打算下载该文件，我将感谢你阅读这条留言。Zeno Clash是由一小群有献身精神的独立开发者制作完成。让我们能制作更多类似优质游戏的唯一方法是游戏畅销。我知道此时此刻游戏尚没有Demo，但我们正在努力，不久之后它将能提供。我们不会去阻止盗版（也不打算这么做，真的），但如果你下载它是为了在购买前试玩一下游戏，我真诚的请求您享受之后能购买游戏（同时支持独立游戏开发者）。我们计划发布Zeno Clash的DLC（可下载内容），并在游戏发布很久以后继续提供支持。感谢你阅读这条留言，希望它有意义。”</i>
+从其他人的留言上看，文件共享者的回复<a href="http://torrentfreak.com/game-developer-flirts-with-pirates-on-bittorrent-sites-090427/">是积极的</a>，其中一位盗版者说，“我在五年内都没买过游戏。但开发者的态度让我想要购买他们的游戏。Fuck，如果我爱这款游戏肯定会去买。”该盗版游戏的下载次数(只有几百)也惊人的少。
+➜基于USB的NIC允许在电脑睡眠时下载
+https://www.solidot.org/story?sid=11047	13320
+加州大学圣迭戈分校和微软研究院的研究人员开发出<a href="http://www.windowsfordevices.com/news/NS7625324099.html">一种基于USB的NIC原型</a>，含有ARM处理器和闪存，能在主机睡眠时下载文件或torrent。<i>
+发明者称这种“Somniloquy”设备能使电能耗用减少到原来的50分之一。研究人员分别在戴尔、联想和东芝的几款电脑上测试了系统功率。结果发现在“挂起到内存（S3）”模式下，系统的功率在0.55瓦到3.6瓦之间，而在正常模式下，上述电脑的功率最高达到93.1瓦。在电脑睡眠前，该设备需要在主机上进行一些调整。它能在Vista下运行，但NIC的硬件构成是基于一个Linux堆栈。</i>研究<a href="http://mesl.ucsd.edu/yuvraj/research/documents/Somniloquy-NSDI09-Yuvraj-Agarwal.pdf">论文</a>（PDF）
+➜中国在猪流感控制上领先美国？
+https://www.solidot.org/story?sid=11048	19500
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道<i> "据腾讯网<a href="http://news.qq.com/a/20090427/000521.htm">报道</a>，美国疾病及预防中心专家日前证实，这次爆发的猪流感病毒是属于异常的新型病毒，而且散播范围很广，现阶段无法受到控制。而在同一天，腾讯网的<a href="http://news.qq.com/a/20090427/000635.htm">另一篇报道则称</a>，中国疾病预防控制中心专家26号表示，猪流感并不可怕，目前虽尚无预防疫苗，但人感染猪流感是可防、可控、可治的。</i>似乎中国在猪流感控制的研究上已经超过美国了？"
+➜Windows 7的XP模式将是一个技术支持噩梦
+https://www.solidot.org/story?sid=11049	20100
+微软决定允许用户在虚拟机上运行Windows XP应用程序，为了让更多用户升级到Windows 7，这种做法或许是必不可少的，但它同时可能<a href="http://tech.slashdot.org/article.pl?sid=09/04/27/2231208">引致技术支持噩梦</a>。XP模式（XPM）由基于Virtual PC的虚拟机和Windows XP Service Pack 3正版授权拷贝组成。<i>
+分析师Michael Silver<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9132177">认为</a>，“你必须支持两种Windows操作系统，每一种都必须保证安全，防止病毒入侵，提供防火墙保护和打好补丁。如果一家公司有1万台PC，那么就有2万Windows实例。”Silver认为XP模式可能会令软件公司忽视真正的任务：确保他们的软件能与Windows 7兼容。因为XPM的存在，软件公司对兼容Windows 7可能就不那么上心。他指出另一个潜在的问题是Windows 7和XP的寿命，2014年之后微软将终止支持XP。</i>
+➜中国风行山寨手机
+https://www.solidot.org/story?sid=11050	23760
+《纽约时报》<a href="http://www.nytimes.com/2009/04/28/technology/28cell.html?_r=1&amp;scp=3&amp;sq=china&amp;st=cse">报道</a>：在中国的手机市场，你能找到无数款诺基亚、摩托罗拉、三星和苹果手机的<a href="http://www.nytimes.com/slideshow/2009/04/28/technology/0428-CELL_index.html">廉价仿制品</a>。在深圳，只要有一间房子，几位硬件和软件设计师，五个人就能组成一家公司去开发山寨手机。拜技术进步所赐，数以百计的小型山寨企业内雇员最少的只有10人。中国的企业正试图提升价值链，从生产仿制的玩具和衣服到制造仿制的电脑和手机。
+<i>
+虽然山寨手机现象仅出现数年，然而它已经占领了世界最大手机市场中国的20%以上份额。这些产品甚至还非法出口到俄罗斯、印度、中东、欧洲，甚至美国，他们对市场的应变能力令人叹为观止。其快速增长的势头威胁到了全球知名的手机制造商的利益，他们向中国政府施压，警告消费者潜在的健康危害，如廉价的电池会爆炸。就连中国合法的手机制造商也在这些地下工厂竞争中败下阵来。到目前为止，政府在阻止仿制手机上的行动仍微不足道，甚至深夜电视广告中还播放着山寨手机广告，比如“购买山寨展示你的爱国心”。信息产业部则在上个月向消费者发出警告，称山寨手机的辐射可能超出限制。几周前国家媒体还报道，一位45岁中年人因手机在衣服口袋中爆炸而致严重烧伤。但这并没影响山寨手机的销量，一些专家相信山寨现象是中国特色的创新。</i>
+➜空军一号低空飞行引发恐慌
+https://www.solidot.org/story?sid=11051	25920
+美国总统专机空军一号预备机在两架F16战斗机的护卫下在纽约上空作低空飞行，导致对911事件记忆犹新的纽约居民<a href="http://tech.slashdot.org/article.pl?sid=09/04/27/1845220&amp;art_pos=1">惊恐不安</a>，纷纷冲出大楼。
+<i>
+代号VC－25的波音747飞机在27日上午低空飞经了自由女神像和曼哈顿下城，一位目睹整个事件的旁观者<a href="http://tech.slashdot.org/comments.pl?sid=1213517&amp;cid=27737683">称</a>飞机的飞行高度可能不到1000米，以高速低空飞行，发动机的声音刺耳，它离一些高层建筑物的距离看起来不到100英尺。白宫在当日下午就此事发表声明，<a href="http://cityroom.blogs.nytimes.com/2009/04/27/air-force-one-backup-rattles-new-york-nerve/">表示道歉</a>。</i>
+➜瑞士立法禁止裸体爬阿尔卑斯山
+https://www.solidot.org/story?sid=11052	27900
+从去年开始，越来越多的人，主要是德国人，<a href="__SLASHLINK__" sect="society" sid="09/03/17/0535253" sn="article" tid="71">热衷于裸体爬阿尔卑斯山</a>，他们全身上下，除了鞋子和背包，没有任何遮羞物。上周日，瑞士的内阿彭策尔州投票通过了一项法律，<a href="http://news.yahoo.com/s/ap/20090427/ap_on_re_eu/eu_odd_switzerland_nude_hiking_ban;_ylt=Av7tjrmyxYfQjhCEo.eOeNztiBIF">禁止裸体登山</a>，违法者将罚款200瑞士法郎（约合人民币1180元）。州政府发表声明称，有大量居民对裸体者感到反感，认为这种行为不知羞耻。一个鼓吹拥抱大自然的德国网站对此表示，裸体爬阿尔卑斯山有悠久的历史，他们现在推荐裸体爱好者去攀登法国和德国境内的阿尔卑斯山。
+➜虚拟公墓，死后的在线社交社区
+https://www.solidot.org/story?sid=11053	31200
+最近有一波新办企业开始提供如<a href="http://www.mddailyrecord.com/article.cfm?id=155339&amp;type=Daily">虚拟公墓</a>之类的服务（国内也<a href="http://www.google.cn/search?hl=zh-CN&amp;q=%E8%99%9A%E6%8B%9F%E5%85%AC%E5%A2%93&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;meta=lr%3Dlang_zh-CN%7Clang_en&amp;aq=f&amp;oq=">有</a>，但非常简陋），口号是死亡并非是放弃在线社会生活的借口。<i>
+当去世周年纪念来临之时，网站会向死者爱人提醒（如发送电子邮件）这一特殊的日子。一些网站甚至会将服务深入到阴间。<a href="http://www.andersonmcqueen.com/main.shtml">Anderson McQueen</a>殡仪馆的拥有者John McQueen称，人们的愿望不仅仅是让自己永远活在他人心中，而且还包括他们的爱人和生活的故事，现在的技术可以做到所有这一切。提供虚拟公墓的网站有<a href="http://www.eternalspace.com/">eternalspace.com</a>，<a href="http://youvebeenleftbehind.com/">youvebeenleftbehind</a>，<a href="http://legacy.com/NS/">legacy</a>，<a href="http://www.tributes.com/">Tributes.com</a>等。</i>
+➜Twitter被批传播猪流感恐慌
+https://www.solidot.org/story?sid=11054	33600
+微博客Twitter被批<a href="http://tech.slashdot.org/article.pl?sid=09/04/28/000200">传播猪流感恐慌</a>，Twitter定义的140个字限制使得用户无法了塞入更多背景知识，重复发送的一知半解的信息可能会引发了对猪流感的过度担忧。<i>
+另外几条消息：世界卫生组织<a href="http://www.who.int/mediacentre/news/statements/2009/h1n1_20090427/zh/index.html">宣布</a>将流感大流行的警戒级别由现在的3级提高到4级，总干事认为遏制疫情已不可行，当前的重点应放在采取缓解措施方面，如开发能够有效防范A/H1N1病毒的疫苗。<br>
+有流言称陕西100多个学生怀疑有流感样疾病爆发，<a href="http://news.ifeng.com/world/special/zhuliugan/zuixinbaodao/200904/0428_6347_1130236.shtml">学校已被关闭</a>，消息来源是卫生部，但卫生部及部分转载该内容的网页已被删除（PS：<a href="http://www.moh.gov.cn/">卫生部网站</a>何时能支持非IE的浏览器？）。</i>
+➜通用电气宣布500GB的全息光盘技术
+https://www.solidot.org/story?sid=11055	36000
+通用电气宣布他们在数字储存技术领域实现了一次飞跃，新技术能在一张标准光盘上储存相当于100张DVD的数据。通用电气将在下个月举行的一个会议上首次公开展示容量为500GB的<a href="http://www.nytimes.com/2009/04/27/technology/business-computing/27disk.html">全息存储光盘</a>——预计到2011年和2012年其制造成本将降低到每GB仅为10美分。通用电气表示这项技术将首先投入到医疗机构和媒体公司等商业市场，然后再逐渐扩大到消费市场。
+➜研究发现，高智商的人能作出更明智的经济决策
+https://www.solidot.org/story?sid=11056	37800
+明尼苏达大学研究人员的一项新研究发现，在多种不同类型的经济决策中，<a href="http://www.physorg.com/news160077614.html">高IQ值的人能做出更聪明的决策</a>。报告发表在本周的《美国国家科学院学报》上。<i>
+研究人员调查了美国机动车运输公司Schneider National的1千名接受训练的卡车司机。首先测试他们的认知能力，请他们在多种经济试验中做出选择，然后跟踪他们的工作情况。结果发现，认知能力高的人，尤其是IQ值高的人，更愿意去预计风险，以节省金钱，并保持了一贯的决定。在策略性情境下，他们更愿意与人合作，表现出更高的“社会意识”，他们能更精确的预测他人的行为。对他们工作的追踪显示，高IQ值的司机留在公司内的比重是低IQ值的两倍。</i>
+➜关于猪流感病毒的几则新闻
+https://www.solidot.org/story?sid=11057	49200
+chaos 写道 "下班时翻了翻桌面的《<a href="http://www.huanqiu.com/">环球时报</a>》，大篇幅的关于猪流感的报道，有些人讲的比较恐怖，有些人讲不必担忧，我该信谁？我也不知道，信事实吧。
+<i>
+俄罗斯《共青团真理报》27日报道，虽然墨西哥猪流感病毒会致人死亡，但在美国却没有一例死亡。墨西哥死亡人数很多，很可能只是那里的卫生环境太差，且医学专家并不能确定哪个病人死于猪流感。因此，这种病毒并不想一些专家说的那样可怕。<br>
+美国《基督教科学箴言报》26日的一篇报道也称，1976年美国一名士兵曾被诊断患上了猪流感，整个基地被隔离。但后来没有其他任何人死亡。文章称，“直到最近，亚洲禽流感和非典引起媒体的关注。虽然数百人[这个数字不准确吧]因患非典死亡，但对于全球流行病致死数十万人的担忧从来没有成真过。<br>德国《法兰克福汇报》27日报道称，虽然能否控制各种新型病毒疑问重重，但是人类今天已掌握了三个法宝：一个是迅速的信息传播途径；另一个是基因研究的长足发展，人们可以在24小时内知道新病毒基因，开发疫苗的速度也大大加快；另外，各国普遍加强协作。人类不可能再重蹈此前几个世纪的传染病大灾难。
+<br>
+世界卫生组织在2007年的年度报告中早已发出了类似警告。这份题为<a href="http://www.who.int/whr/2007/zh/index.html">《构建安全未来:21世纪全球公共卫生安全》</a>报告称，现今约有40种疾病在一代人以前是不为人所知的。自1967年以来，至今有39种新的病原体被发现，包括艾滋病毒，埃博拉病毒，马尔堡病毒和SARS病毒，“新型传染病史无前例 地以每年新增一种或多种的速度被发现”。还记得在SARS来的时候，看过一本书，叫第四级病毒，在网上没有找到PDF的版本，只找到了<a href="http://www.ziddu.com/download/4511325/level4virus.rar.html">TXT版本</a>的。
+"</i>
+另外，双汇写道 "在韩国出现亚洲首例疑似猪流感患者的新闻<a href="http://comment.news.163.com/news_guoji2_bbs/57VKMPMM0001121M.html">后面</a>，
+照样出现许多<a href="http://www.lianyue.net/blogs/rosu/archives/133680.aspx">幸灾乐祸的评论</a>。可以想见，以后日本出现患者，场面将更为壮观，可能会像过节一样。"
+➜幸灾乐祸的猪流感
+https://www.solidot.org/story?sid=11058	50400
+双汇 写道 "在韩国出现亚洲首例疑似猪流感患者的新闻后面，
+照样出现许多<a href="http://www.lianyue.net/blogs/rosu/archives/133680.aspx">幸灾乐祸的评论</a>。
+可以想见，以后日本出现患者，场面将更为壮观，可能会像过节一样。"
+➜印度购买25万台XO笔记本
+https://www.solidot.org/story?sid=11059	51000
+印度政府与OLPC项目达成协议<a href="http://arstechnica.com/gadgets/news/2009/04/india-embraces-olpc-buys-250000-xo-laptops.ars">购买25万台XO笔记本</a>。<i>
+2007年OLPC曾在印度一所学校进行过小规模试验。虽然试验取得了成功，但印度政府的人力资源开发部(MHRD)仍高度的怀疑OLPC项目，称长时间使用笔记本可能会影响学生健康。印度一度试图开发自家的10美元笔记本项目。丝毫不出人意料，10美元笔记本根本不可能实现。所以印度最终还是决定采购OLPC的XO笔记本。OLPC最近宣布更换硬件，放弃使用AMD处理器，换用VIA C7-M，系统内存也升级到1GB，内部存储升级到4GB，预计将在5月份推出原型。目前尚不清楚印度订购的是旧版，还是升级版。</i>

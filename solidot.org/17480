@@ -1,0 +1,51 @@
+➜亚马逊的游戏引擎用语音合成取代配音演员
+https://www.solidot.org/story?sid=54443	11727
+想给你的游戏添加配音但又<a href="https://arstechnica.com/gaming/2017/11/in-amazons-game-engine-voice-actors-can-now-be-replaced-with-robots/" target="_blank"><u>不想花钱找配音演员</u></a>？亚马逊的游戏引擎 Lumberyard 刚刚加入了<a href="https://amazonaws-china.com/cn/blogs/gamedev/text_to_speech_gem/" target="_blank"><u>文本转语音管线</u></a>，能将游戏中的文本用 24 种语言的 50 种不同声音说出来，而且能自动渲染出游戏内任何 3D 角色的嘴唇同步动画。系统支持的语言包括巴西葡萄牙语、威尔士语、法语、挪威语、俄语、英式英语、美式英语、加式法语、 意大利语、葡萄牙语、德语和日语等。亚马逊的游戏引擎源自&nbsp; CryEngine，可以免费使用。它的语音合成能力仍然有限制，亚马逊暂时也无意取代真正的配音演员，而是作为提高配音效率的一种工具提供给游戏开发者。
+➜WikiLeaks 公布 CIA 软件源代码
+https://www.solidot.org/story?sid=54444	13409
+在公开了 CIA 的机密文件之后， WikiLeaks <a href="https://wikileaks.org/vault8/" target="_blank"><u>开始释出</u></a> CIA 间谍软件项目 Hive 的源代码和开发日志。WikiLeaks 过去几年披露的信息多针对美国，而很少针对其它国家如俄罗斯，它因此经常被指责是俄罗斯的代理人。Hive 用于控制安装在不同设备上的恶意程序，恶意程序在安装之后需要联络指令控制服务器，CIA 被发现主要是租赁商业 VPS 服务商的服务器作为指令控制服务器，它注册的域名包括了“perfectly-boring-looking-domain.com”。这些域名甚至能展示看起来无辜的内容，但通过 HTTPS 服务器选项 Optional Client Authentication，被植入的恶意程序能与隐藏的 CIA 服务器 Blot 通信。
+➜饮酒会增加癌症风险
+https://www.solidot.org/story?sid=54445	15412
+美国临床肿瘤学会对酒精和癌症之间的联系<a href="https://mobile.nytimes.com/2017/11/07/well/live/cancer-doctors-cite-risks-of-drinking-alcohol.html" target="_blank"><u>发出警告</u></a>。根据发表在《临床肿瘤学杂志》上的一份<a href="http://ascopubs.org/doi/abs/10.1200/JCO.2017.76.1155" target="_blank"><u>声明</u></a>，学会引用证据称即使是轻微的饮酒会略微增加女性罹患乳癌的风险，增加常见类型食道癌的风险。酗酒者则面临更高的口腔、咽喉、喉头、肝癌、结肠直肠癌的风险。声明主要作者 Noelle LoConte 博士称，声明并不是说你不要喝酒，而是说如果你想减少癌症风险，那么就应该尽量少喝；如果你不喝酒，那么也不要开始喝。这不同于吸烟的警告。这是美国临床肿瘤学会首次对酒精和癌症之间的联系表达公开立场。
+➜迪士尼宣布新星球大战三部曲和真人版电视剧
+https://www.solidot.org/story?sid=54446	16082
+在即将上映的《星战八：最后的绝地》和 2019 年的《星战九》之后，迪士尼将会<a href="https://arstechnica.com/gaming/2017/11/disney-announces-new-star-wars-trilogy-live-action-tv-series/?comments=1" target="_blank"><u>制作</u></a>新的《星球大战》三部曲，但这一次的主角将不会围绕着天行者家族，而是引入新的角色，探索以前从未探索的宇宙角落。新三部曲将由《最后的绝地》导演 Rian Johnson 负责。此外，迪士尼还将制作真人版的《星球大战》电视剧。此前上映的星战电视剧都是卡通。迪士尼还<a href="http://cn.wsj.com/gb/20171110/biz114038.asp" target="_blank"><u>透露了</u></a>流媒体服务的细节。CEO 艾格 (Robert Iger)称，服务的价格将大幅低于 Netflix 的价格，因为起步阶段提供的内容会比 Netflix 少得多。Netflix 现在的包月价格在 8 美元 - 12 美元之间。艾格称，迪士尼会在 2019 年之后丰富服务内容，到时价格也可能随之上调。
+➜EA 收购 Respawn Entertainment
+https://www.solidot.org/story?sid=54447	19293
+EA 发表<a href="http://investor.ea.com/releasedetail.cfm?ReleaseID=1048192" target="_blank"><u>新闻稿</u></a>，宣布将收购游戏工作室 Respawn Entertainment。交易金额将达到 4.55 亿美元。Respawn 由 Infinity Ward 工作室和《使命召唤》系列的联合创始人创建，在 2010 年双方达成了长期的合作关系，EA 甚至最近将《星球大战》游戏授权给 Respawn 开发。根据 Kotaku 的<a href="https://kotaku.com/sources-ea-is-buying-titanfall-developer-respawn-1820131071" target="_blank"><u>报道</u></a>，EA 的收购可能是迫不得已，因为韩国游戏发行商 Nexon 对 Respawn 发出了收购要约，报价超过 4 亿美元。如果   Nexon 收购 Respawn，双方未来的合作肯定将会发生变化。EA 行使了它的合同权利匹配了报价，并最终出价高于 Nexon。
+➜CUPS 从 GPL 切换到 Apache
+https://www.solidot.org/story?sid=54448	25716
+苹果公司的 CUPS（前称 Common Unix Printing System）<a href="https://www.cups.org/blog/2017-11-07-cups-license-change.html" target="_blank"><u>宣布</u></a>从 <a href="https://github.com/apple/cups" target="_blank"><u>2.3</u></a> 版本起从 GPLv2 许可证切换到 Apache v2 许可证。<a href="https://en.wikipedia.org/wiki/CUPS" target="_blank"><u>CUPS</u></a> 由 Michael Sweet 开发，1999 年发布首个公开版本，之后迅速成为大多数 Linux 发行版默认的打印系统，苹果也于 2002 年在 Mac OS X 系统中采用了 CUPS，2007 年雇佣了 Michael Sweet 并收购了源代码。苹果能切换许可证的原因是它要求贡献者签署<a href="https://www.cups.org/AppleContributorAgreement_2011-03-10.pdf" target="_blank"><u>协议</u></a>将任何版权的共有权授予苹果。
+➜到 2021 年战斗机将装备激光武器
+https://www.solidot.org/story?sid=54449	27375
+<div align="center"><img src="http://img.solidot.org/0/468/liCqARw91oNPQ.jpg" width="450" align="" height="338"><br>
+</div>
+<br>
+我们离定向能武器的天空大战将只有数年之遥。美国空军研究实验室与洛克希德马丁公司签署了价值 2630 万的合同，要求它到 2021 年在战术战斗机上测试<a href="https://spectrum.ieee.org/tech-talk/aerospace/aviation/laser-weapon-to-go-in-fighter-jet-in-2021" target="_blank"><u>高能激光系统</u></a>。洛克希德将开发一个先进版本的多千瓦光纤激光器。它已经开发出组合 100 束激光的 30 千瓦激光器，今年还向美国陆军交付了 60 千瓦的版本在军用牵引式挂车上测试。空军研究实验室的合同是 SHiELD（Self-protect High Energy Laser Demonstrator） 项目的一部分，该项目旨在测试战斗机使用激光防御地面或空中导弹的能力。除了洛马外，格鲁曼公司正在开发对目标开火的光束控制系统，波音正在将激光整合到外部吊舱。通用原子开发了一个紧凑的非光纤激光器 HELLADS。
+➜德里被称为“毒气室”
+https://www.solidot.org/story?sid=54450	30107
+几年前，中国北京的空气质量一度被称为是“空气末日”，现在这一“荣誉”已<a href="https://arstechnica.com/science/2017/11/off-the-charts-pollution-in-delhi-creates-gas-chamber-and-health-emergency/" target="_blank"><u>由印度德里接手</u></a>。根据美国驻新德里大使馆公布的<a href="http://aqicn.org/city/india/new-delhi/us-embassy/" target="_blank"><u>空气质量指数</u></a>，过去几天印度首都遭遇了严重的空气污染，PM2.5 指数一度达到 999，周四的平均水平达到了 640，今天部分地区最高还有 836。
+连德里的首席部长 Arvind Kejriwal 都把德里称为“<a href="https://twitter.com/ArvindKejriwal/status/927785134803136512" target="_blank"><u>毒气室</u></a>”。印度医学会的主席 K.K. Aggarwal 建议居民呆在室内不要外出，强调严重的空气污染对肺部和心脏会造成严重伤害。
+➜中国将建第五个南极考察站
+https://www.solidot.org/story?sid=54451	30745
+在长城站、中山站、昆仑站和泰山站之后，中国准备<a href="http://news.sciencenet.cn/htmlnews/2017/11/393531.shtm" target="_blank"><u>建第五个南极考察站</u></a>。
+<i>在科学研究方面，目前四个站址各有千秋：位于西南极的长城站区域生态系统活跃，更适合开展亚南极生态监测和研究；中山站位于东南极，是观测研究南极冰盖演化过程、南极冰架海洋相互作用的理想之地，也是开展高空物理、地质学、地球物理等学科工作的优良位置；地处南极冰盖最高点冰穹 A 地区的昆仑站，则汇聚了冰芯科学、大气科学和天文科学等学科的前沿领域；泰山站不仅是昆仑站科学考察的前沿支撑，还是南极格罗夫山考察的重要支撑平台。第五座考察站选址锁定罗斯海地区恩科斯堡岛。与现有的四个考察站所处区域不同，罗斯海区域独特的地理位置具备强烈的差异化科考价值。从地理角度看，罗斯海是南极重要的边缘海，海洋资源丰富，罗斯冰架是南极最大的冰架。罗斯海与罗斯陆缘冰西侧的维多利亚地接近南极著名的横贯山脉，有著名活火山、干谷等重要的科学考察区域。</i>
+➜美国司法部将强加密称为是“不合理的”
+https://www.solidot.org/story?sid=54452	33505
+美国司法部副部长 Rod Rosenstein 接受 <a href="http://politicopro.com/" target="_blank"><u>Politico Pro</u></a> 采访中将无法破解的强加密称为是“<a href="https://arstechnica.com/tech-policy/2017/11/doj-strong-encryption-that-we-dont-have-access-to-is-unreasonable/?comments=1" target="_blank"><u>不合理的</u></a>”，认为需要平衡执法和安全。在采访中，Rosenstein 也多次强调它支持强加密，加密越强数据越安全，数据被盗需要起诉的案件会更少。但问题是如果有人使用电子媒介犯罪呢？访问这些设备发现能呈堂证明犯罪的证据至关重要。Rosenstein 认为这个问题和门锁类似，人们需要锁防止房屋被入侵，但他们同样需要钥匙进进出出。他说无法破解的强加密是不合理的。Rosenstein 说他们和科技公司在许多领域进行持续的对话，在一些领域科技公司很配合，但在加密问题上，科技公司站在相反的立场上。<br>
+➜体育总局禁止私人创建武术新门派
+https://www.solidot.org/story?sid=54453	38305
+官方的体育总局发布了《<a href="http://www.sport.gov.cn/n316/n336/c832902/content.html" target="_blank"><u>关于进一步加强武术赛事活动监督管理的意见</u></a>》的通知，其中禁止私人自创门派。《意见》第三条规定：境外武术组织在中国境内应当依法开展武术活动，不得在中国境内设立分支机构，不得从事或者资助营利性武术活动。未获得国家体育总局武术运动管理中心认可的以及各类假冒国际武术组织必须中止，不得在中国境内开展任何武术赛事活动。第四条，不得利用武术从事违法活动、封建迷信活动以及违反社会公序良俗的活动等。五、武术从业人员和习武人员应当树立正确的武术观，不得有以下行为：自创门派、私下约架、恶意攻击、相互诋毁、歧视他人...今年五月，一位北京拳馆的教练因为与太极宗师雷雷举行了耗时不到半分钟的对战而一夜爆红，引发热议后<a href="http://www.solidot.org/story?sid=52311" target="_blank"><u>被迅速封杀</u></a>。
+➜俄罗斯或哈萨克斯坦可能发生了核事故
+https://www.solidot.org/story?sid=54454	41526
+法国辐射防护与核能安全研究所(IRSN)称，过去几周欧洲上空的放射性污染云表明俄罗斯或哈萨克斯坦的一个核设施在 9 月最后一周<a href="https://www.theguardian.com/world/2017/nov/10/nuclear-accident-in-russia-or-kazakhstan-sends-radioactive-cloud-over-europe" target="_blank"><u>发生了核事故</u></a>。IRSN 排除了核反应堆发生事故的可能性，称事故更可能发生在核燃料处理设施或放疗中心。IRSN 称核事故不会影响到人类健康或欧洲环境。IRSN 表示它无法指出放射性材料释放的位置，但根据气候模式，最可能的地区是乌拉尔山以南。俄罗斯当局表示它不知道其领土有事故发生。哈萨克斯坦则尚未置评。IRSN 和其他欧洲核安全机构测量到了高浓度的钌-106，这种放射性元素被用于放疗。IRSN 估计事故释放出的钌-106 的量在 100 到 300 teraBecquerels 之间。如果法国发生此等规模的事故，那么事故地点数公里内的人将要疏散或庇护。
+➜福耀玻璃美国工人投票反对组建工会
+https://www.solidot.org/story?sid=54455	43742
+在俄亥俄州莫雷恩一个员工超过 1500 人的工厂里，汽车玻璃大王曹德旺的家长式态度<a href="https://cn.nytimes.com/business/20171110/china-auto-ohio-union/" target="_blank"><u>面临着严峻考验</u></a>。工人们在周三和周四举行投票，决定是否成立工会。全美汽车工人联合会的负责人表示，对管理人员态度专横和随意性的不满，为组建工会赢得了支持。福耀玻璃美国分公司的首席法务官则表示，公司 “坚决” 否认相关指控，并认为这是工会不实宣传的一部分，将不予理会。在中国，工会受共产党的严格控制。未经允许的罢工或示威游行通常很快便会被迫结束。根据周四的投票结果，工人以 868 票对 444 票<a href="https://www.nytimes.com/2017/11/09/business/union-ohio-plant-china.html" target="_blank"><u>反对成立工会</u></a>。工厂的管理人员此前积极的反对成立工会，使用了胡萝卜加大棒的策略，包括通过情感诉求和提供免费食物的方式。
+➜Sean Parker 称 Facebook 利用了人类心理弱点
+https://www.solidot.org/story?sid=54456	46015
+Facebook 首任总裁 Sean Parker <a href="https://www.axios.com/sean-parker-unloads-on-facebook-2508036343.html" target="_blank"><u>坦诚</u></a>社交巨人利用了人类心理学让数以亿计的用户对平台上瘾。Sean Parker 称：
+<i>在 Facebook 刚起步的时候，人们总是会说他们不想上社交网络，他们更注重现实生活中的互动，珍惜那一刻，重视存在和亲密的价值，而他则会说“我们最终会得到你们”。一个网络发展到 10 亿或 20 亿人时它真的会改变你和社会的关系，可能会以奇怪的方式干扰生产力，只有上帝才知道我们的孩子大脑里想什么。 Facebook 的首要问题是如何消耗用户尽可能多的时间和注意力，它采取的方法是通过点赞或评论每隔一段时间给用户一点多巴胺，让用户贡献更多内容，得到更多的赞和评论。这是一个社会确认的反馈循环，利用的是人的心理弱点。所有社交网络都是这么做的。</i>
+➜比特币泡沫
+https://www.solidot.org/story?sid=54457	47046
+《经济学人》发布了一篇文章谈论了<a href="https://www.economist.com/blogs/buttonwood/2017/11/greater-fool-theory-0" target="_blank"><u>比特币泡沫</u></a>，在引发关注之后可能导致泡沫被挤掉了一点，比特币币值跌破了 <a href="https://blockchain.info/markets" target="_blank"><u>7000 美元</u></a>。文章指出了比特币有三个方面的吸引力：供应有限，对量化宽松时代法币长期价值的担忧，以及匿名性。其中匿名性可能对犯罪分子有吸引力。这些因素解释了比特币有一些需求，但这无法解释最近其币值的爆炸式增长。人们不是因为想要在日常生活里使用而购买比特币，货币需要有稳定的价格才能作为交换的媒介。买家不会交换一个价格可能会在第二天大幅飙升的令牌。人们购买比特币是因为他们预期其他人会以更高的价格从其手中购买它。这符合傻瓜理论的定义。

@@ -1,0 +1,61 @@
+➜Firefox 26发布
+https://www.solidot.org/story?sid=37574	8693
+Mozilla发布了桌面版和移动版<a target="_blank" href="http://www.mozilla.org/en-US/firefox/26.0/releasenotes/"><u>Firefox 26</u></a>。主要新特性包括：所有Java插件默认点击启用（click to play）；密码管理器支持脚本生成的密码字段；Windows版更新不再需要安装目录的写入权限；如果已安装合适的gstreamer插件，Linux版将支持H.264；Windows XP版支持MP3解码；新的应用管理器允许开发者部署和调试运行在Firefox OS上的Web应用；多个bug修正和性能改进。
+➜中国的造假活动仍然十分猖獗
+https://www.solidot.org/story?sid=37575	9426
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001053866?full=y"><u>报导</u></a>，中国作为一个主要造假中心早已名声在外。世界海关组织的数据显示，2006至2010年间，全球范围内查获的假货有75%产自中国。2012年来自美国的海关数据显示，84%被收缴的假冒产品来自中国内地和香港。虽然屡受打击，中国造假产业和假冒产品的生产规模仍不输以往。造假生产与合法的地方工业联系紧密——有时甚至发生在同一工厂中，这些工厂允许造假者使用和正品一样的原材料供应链。销售活动向线上转移的趋势进一步加大了执法难度。造假者通过快递将少量货品送到国内或国外的单个买家手中，而无需借助中间人和可追踪的集装箱货运。虽然目前尚无关于网络侵权问题严重程度的调查，阿里巴巴表示，去年从淘宝上撤除了8700万种“涉嫌侵犯知识产权”的商品。调查人员表示：“过去，我们会在洛杉矶、达拉斯、迈阿密或纽约突击检查一间装满假货的仓库；如今，由于中国出境物流已经如此发达，造假者每次只寄送一件假货。”
+➜卫星识别出地球最冷的地方
+https://www.solidot.org/story?sid=37576	11853
+<a target="_blank" href="http://www.nasa.gov/content/goddard/nasa-usgs-landsat-8-satellite-pinpoints-coldest-spots-on-earth/index.html#.UqbRRvRDua9"><u>地球最冷的地方</u></a>位于南极洲东南极高原上的某个山脊，当地最低温度低于零下92摄氏度。科学家通过分析至今最详尽的全球表面温度图而获得了这一发现。研究人员分析了32年的卫星数据，他们在东南极高原冰穹A和冰穹富士之间一个山脊附近发现了数十次创纪录的气温骤降，其中最低一次是2010年8月10日当地气温最低降至了零下93.2摄氏度。此前的最低温度记录是东南极俄罗斯Vostok研究站在1989年记录到的零下 89.2摄氏度。
+➜恶意应用能将Android变成远程监控工具
+https://www.solidot.org/story?sid=37577	14609
+安全研究人员<a target="_blank" href="http://arstechnica.com/security/2013/12/new-android-threats-could-turn-some-phones-into-remote-bugging-devices/"><u>发现了</u></a>两个无关的恶意应用有可能能将Android设备变成远程监控工具。其中一个是软件框架<a href="http://www.widdit.com/index.aspx">Widdit</a>，有超过一千款Android应用利用它获取广告收入。Widdit包含了一个简单的下载程序，需要大量它本不需要的权限，从而为后续的恶意功能开启了方便之门。安全公司Bitdefender的研究员<a target="_blank" href="http://www.hotforsecurity.com/blog/advertising-sdk-can-be-hijacked-for-making-phone-calls-geo-locating-7461.html"><u>称</u></a>， Widdit需要的权限包括了关闭锁屏，记录音频、读取浏览器历史和书签，以及在设备重启、接受短信、打电话、卸载或安装应用时执行特定代码。此外，Widdit使用非加密HTTP通道下载应用更新，攻击者可以在未加密WiFi网络中发动中间人攻击，用恶意文件替代合法更新。另一个恶意程序是在中国流行的Mouabad恶意程序家族变种<a target="_blank" href="https://blog.lookout.com/blog/2013/12/09/mouabad-p-pocket-dialing-for-profit/"><u>MouaBad.p</u></a>，它能悄悄拨打付费电话号码，它非常狡猾，总是在屏幕关闭或锁屏的情况下拨打电话，不过它的危险级别并不高，因为只能在Android 3.1以下的设备上工作，而且它设定的付费号码在中国之外无效。
+➜Lantern被封杀
+https://www.solidot.org/story?sid=37578	16755
+基于<a target="_blank" href="http://bitinn.net/10629/"><u>Kaleidoscope</u></a>的P2P中继实现<a target="_blank" href="https://www.getlantern.org/"><u>Lantern</u></a>在中国已经基本无法使用。开发者发表<a target="_blank" href="http://get-lantern.tumblr.com/post/69653304417/lantern-news-lantern"><u>声明</u></a>，称后备服务器遭封锁，表示早已预料到这一情况：“这是我们让 Lantern 保持为邀请/测试模式的原因之一，不仅是测试程序的功能，也是了解如何不断避开审查者。 我们允许用户索取邀请的方式意味着任何人均可以注册，包括审查者。 如果您刚好与一个审查者同时注册，你们将共享同一后备代理，而审查者最终会封锁此代理。 这意味着，同时注册的所有其他用户也将被封锁。 我们最初想让有兴趣试用程序的每个人都能轻松访问，但由于有更大的用户群，我们正在调整邀请流程。 以后，要进行访问，您将需要获得目前可访问的 Lantern 用户（具有完全有效的 Lantern 版本的用户）的邀请。 现在我们需要集中有组织地发展信任网络，以保持不被封锁。”
+➜印度声称诺基亚欠缴34亿美元的税
+https://www.solidot.org/story?sid=37579	18515
+诺基亚和微软的交易即将完成，但印度政府现在却横插一刀，导致交易再起风波。印度税务官员<a target="_blank" href="http://cn.wsj.com/gb/20131210/tec185126.asp"><u>表示</u></a>，诺基亚可能拖欠最高34亿美元的税款。此类拖欠巨额税款指控以前也<a target="_blank" href="http://news.slashdot.org/comments.pl?sid=4541337&amp;cid=45656977"><u>发生过</u></a>：一家跨国公司收购了另一家跨国公司，印度在交易中途突然提出，哎呀，你们欠缴几十亿美元的税。印度今年9月冻结了诺基亚在该国的部分资产，包括钦奈的一所大型工厂，以确保诺基亚有足够的资金支付税金。诺基亚否认违反税务规定，并在一家印度法院为自己辩护。诺基亚需要在周四前获取这些资产，以便将它们转移给微软，这是双方规模70亿美元交易的一部分。
+➜Mars One延期两年，与洛克希德马丁合作研发火星登陆器
+https://www.solidot.org/story?sid=37580	25611
+私人单程火星登陆项目Mars One宣布<a target="_blank" href="http://arstechnica.com/science/2013/12/mars-ones-shipment-of-humans-to-the-red-planet-is-delayed-two-years/"><u>延期两年</u></a>，同时<a target="_blank" href="http://www.mars-one.com/en/mars-one-news/press-releases/11-news/517-lockheed-martin-and-sstl-selected-for-mars-one-s-first-unmanned-mission-to-mars"><u>宣布</u></a>与洛克希德马丁合作研发“任务概念研究”的火星登陆器。Mars One登陆器将基于洛克希德马丁此前为NASA Phoenix火星登陆器所研发的技术。Phoenix登陆器于2008年5月登陆火星，当年11月在完成所有实验计划后与地球中断联系。Mars One登陆器将挖掘火星土壤，尝试从沙土中提取水分。火星登陆器预计在2018年发射。Mars One表示，由于登陆器和卫星发射延期，载人火星任务也将延期到2025年而不是原计划的2023年。
+➜中国资助研究污染如何影响生育能力
+https://www.solidot.org/story?sid=37581	27789
+中国政府正资助研究<a target="_blank" href="http://www.scmp.com/news/china/article/1378103/chinese-government-boosts-research-how-pollution-affects-human-fertility"><u>污染对生育能力的影响</u></a>。中国国家自然科学基金资助了59项精子研究，但只有9项卵子研究。大部分研究与不孕有关。中科院研究员Liu Liangpo博士解释了为什么政府拨款偏向精子而非卵子：精子和卵子对环境污染有不同的反应，鉴于其分子结构精子通常更脆弱，中国的不孕不育问题日益严重，大部分原因是源自男性。根据中国人口学会去年发表的报告，中国男性每升精子数量从40年前的1亿降至去年的2000万（其中“升”疑为“毫升”之误）。精子的活性也大幅下降。Liu和他的团队正研究不同污染物如砷、塑化剂和三聚氰胺，如何影响精子的健康。
+➜智能手表已过时，现在是智能戒指
+https://www.solidot.org/story?sid=37582	29795
+<div align="center"><img src="http://img.solidot.com.cn/0/925/liPprTvFYf1vI.jpg" align="" height="255" width="480"><br>
+<br>
+</div>
+忘记智能手表吧，现在是<a target="_blank" href="http://arstechnica.com/gadgets/2013/12/the-first-smartring-has-an-led-screen-tells-time-and-accepts-calls/"><u>智能戒指时代</u></a>。<a target="_blank" href="http://smartyring.com/"><u>Smarty Ring</u></a>在众筹网站Indiegogo发起的<a target="_blank" href="http://www.indiegogo.com/projects/smarty-ring"><u>集资活动</u></a>即将结束，目标4万美元早已超越，至今它已筹集到超过15万美元。Smarty Ring是一个13毫米宽的不锈钢戒指，搭配了LED微型显示屏，支持蓝牙4.0，以及一个相伴的智能手机应用。智能戒指能与智能手机配对，变成为一个远程控制和通知接收器，它能显示时间，接受或拒绝电话呼叫，控制音乐，激活手机相机，快速拨打电话，通知佩戴者电子邮件或社交媒体应用的新信息。它能充当手机的跟踪器，如果手机与你的距离超过30英尺，它将会发生警告。Smarty Ring的作者声称其电池能工作24小时，可无线充电，预计将于2014年4月将戒指交付给客户，但这个日期似乎过于乐观了。
+➜宇宙学家认为生命可能从创世大爆炸1500万年后开始演化
+https://www.solidot.org/story?sid=37583	33042
+恒星周围有一个区域被称为<a target="_blank" href="http://zh.wikipedia.org/wiki/%E9%81%A9%E5%B1%85%E5%B8%B6"><u>适居带</u></a>，即该区域的温度适合液态水生存，因此有可能孕育出生命。哈佛大学的宇宙学家Abraham Loeb认为，宇宙肯定也存在过一个适居的时期，在该时期整个宇宙几乎所有行星都满足生命演化所需的温暖湿润条件。Loeb推理中的关键现象是宇宙微波背景辐射。随着宇宙的膨胀，创世大爆炸中形成的炙热辐射波长增加能量下降。138亿年后的今天，微波背景辐射的温度只有3k（开尔文）。从炙热的高温演变到极寒的低温，它无疑经历过一段温度在273到300k（即0到27摄氏度）的时期，这个阶段的温度可以让水保持在液态形式。根据Loeb的计算，宇宙的适居期发生在创世大爆炸1500万年后，持续大约数百万年。也就是说，生命的化学有可能从<a target="_blank" href="https://medium.com/p/239bc4cf4ece">创世大爆炸1500万年后</a>就开始了漫长的演化之路。
+➜FreeBSD开发者称不能信任英特尔VIA的随机数生成器
+https://www.solidot.org/story?sid=37584	35399
+FreeBSD开发者将不再允许用户信任芯片制造商英特尔和威盛电子（VIA）<a target="_blank" href="http://arstechnica.com/security/2013/12/we-cannot-trust-intel-and-vias-chip-based-crypto-freebsd-developers-say/"><u>作为唯一的随机数生成器来源</u></a>。这一改变将在即将发布的FreeBSD 10中生效。随机数生成器被加密系统用于生成密钥，如果随机数生成器存在弱点，密钥也可能会容易被破解。根据前NSA合同工Edward Snowden泄漏的机密文件，NSA能解密大量加密流量。它是如何办到的？一些人将怀疑目标指向了NSA参与制定的加密标准，以及依赖该标准的<a href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=36402"><u>RdRand</u></a>——存在于Intel 64和IA-32指令集架构的随机数生成指令。FreeBSD开发者称，英特尔和威盛电子各自提供的<span>RDRAND和</span><span>Padlock随机数生成器将不能作为唯一生成随机数的来源，需要与其它随机数生成算法组合使用。</span>
+➜摩根大通递交类似比特币的匿名支付系统专利申请
+https://www.solidot.org/story?sid=37585	37457
+美国银行巨头摩根大通递交了一个概念上<a target="_blank" href="http://www.bbc.co.uk/news/business-25326289"><u>类似比特币的在线支付系统专利</u></a>。<a target="_blank" href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=20130317984&amp;OS=20130317984&amp;RS=20130317984"><u>这项专利</u></a>于今年8月5日递交到USPTO，11月28日公开，描述了一种完全匿名、不需要手续费的在线支付系统。摩根大通认为，传统的信用卡至少未来五年将继续占统治地位。一万多字的专利申请书没有提到比特币，而它描述的支付系统也不是类似比特币的去中心化架构，只是在现有的中心化银行系统上建立一个新的接口。
+➜首次在室温下获得玻色爱因斯坦凝聚
+https://www.solidot.org/story?sid=37586	39923
+物理学家在1995年首次在绝对零度附近获得了被称为<a target="_blank" href="http://zh.wikipedia.org/wiki/%E7%8E%BB%E8%89%B2%E2%80%93%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%87%9D%E8%81%9A"><u>玻色爱因斯坦凝聚</u></a>的量子现象。现在，IBM  Binnig and Rohrer Nano Center的研究人员利用35纳米厚的聚合物薄膜、激光和2个镜子，<a target="_blank" href="http://spectrum.ieee.org/nanoclast/semiconductors/materials/bose-einstein-condensate-made-at-room-temperature-for-first-time"><u>首次在室温下获得了玻色爱因斯坦凝聚</u></a>——该量子物质态只持续几皮秒（1皮秒等于百亿分之一秒）。IBM研究人员相信，如果存在时间足够长，该实验潜在可用于研发新颖的光电设备，如高能效比的激光和超高速光开关。
+➜Ubuntu Touch有了第一个合作伙伴
+https://www.solidot.org/story?sid=37587	41157
+Canonical创始人Mark Shuttleworth<a target="_blank" href="http://news.cnet.com/8301-1035_3-57615107-94/ubuntu-touch-os-wins-its-first-smartphone-partner/#"><u>透露</u></a>，公司已经与一家智能手机制造商签署了制造Ubuntu Touch手机的协议。但他没有披露合作伙伴的名字，只是表示第一款高端Ubuntu手机将于2014年推出，称对其团队来说从概念到出货的转变影响重大。Shuttleworth说，Ubuntu手机对Canonical而言是一次显著进步，但要在Google Android和苹果iOS统治的移动市场获得一席之地还有很长的路要走。除了Android和iOS，Ubuntu还面临微软Windows Phone、三星Tizen和Mozilla Firefox OS等移动系统的竞争。<br>
+➜试图走私军用级复合材料的中国男子被判入狱五年
+https://www.solidot.org/story?sid=37588	43325
+美国布鲁克林联邦地区法官加劳菲斯(Nicholas Garaufis)本周二<a target="_blank" href="http://www.justice.gov/usao/nye/pr/2013/2013dec10b.html"><u>判处</u></a>试图走私军用级碳纤维复合材料的张明算（Ming Suan Zhang）57个月的有期徒刑。FBI利用钓鱼网站在2012年9月<a target="_blank" href="http://www.solidot.org/story?threshold=-1&amp;mode=nested&amp;sid=31610"><u>逮捕了</u></a>与卧底特工交易的张明算。张与两名台湾人合作试图从美国采购1到2吨的碳纤维复合材料（每吨200万美元），此类敏感材料被美国商业部限制出口。张明算告诉卧底，他迫切需要这种碳纤维用于一架中国战斗机的测试。张明算在8月19日承认犯下1项控罪，也就是在未取得许可下，企图出口航太等级碳纤维，违反国际紧急经济权力法。他在服刑期满后可能会<a target="_blank" href="http://www.nanzao.com/sc/international/17798/zou-si-jun-yong-tan-xian-wei-fbizhua-zhong-guo-nan-zi"><u>被驱逐出境</u></a>。
+➜NSA利用Google cookies锁定入侵目标
+https://www.solidot.org/story?sid=37589	44942
+<div align="center"><img src="http://img.solidot.com.cn/0/926/lizHdVl5SEftE.png" align="" height="208" width="480"><br>
+<br>
+</div>
+Google等互联网广告商用于跟踪用户活动发布针对性广告的cookies，被NSA利用锁定入侵目标的位置。《华盛顿邮报》援引前NSA合同工 Edward Snowden提供的机密文件，国家安全局<a target="_blank" href="http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/"><u>利用cookies等跟踪技术帮助识别目标</u></a>，发动进攻性网络入侵行动。NSA的Tailored Access Operations(TAO)是专门实施部署恶意程序等网络入侵行动的秘密机构。过去几年，隐私倡导者曾屡次对cookies等商业跟踪工具发出警告，而在线广告业则辩解称，这种跟踪用户的工具是无害的，能让消费者受益。cookies通常不包含电子邮件等私人隐私信息，但包含了识别用户浏览器的唯一代码，因此能被NSA利用发动特定攻击。
+➜诺基亚开发低端Android手机，不清楚有无被微软封杀
+https://www.solidot.org/story?sid=37590	46642
+<div align="center"><img src="http://img.solidot.com.cn/0/928/licH3MfgpFo9o.jpg" align="" height="318" width="360"><br>
+<br>
+</div>
+Twitter用户@evleaks在上月底<a target="_blank" href="https://twitter.com/evleaks/status/405060430222987264"><u>公布了</u></a>代号为Normandy的诺基亚手机正面背面图，展示了一款风格类似Lumia的新手机。The Verge<a target="_blank" href="http://www.theverge.com/2013/12/10/5197746/nokia-android-phone-normandy"><u>援引消息来源称</u></a>，
+Normandy是诺基亚的Android深度定制版本，类似亚马逊的Kindle Fire，试图取代运行S40的低端Asha手机。目前不清楚诺基亚是否能在与微软的交易完成前发布手机，也不清楚微软是否会继续这款Android手机的开发计划。开发Normandy的诺基亚雇员被告知手机将在2014年发布，目前该项目正“开足马力”。

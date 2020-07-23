@@ -1,0 +1,166 @@
+➜Joomla!开发组成员Louis Landry 访谈录
+https://www.solidot.org/story?sid=11103	7500
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "Joomla! 是一款著名的开源 CMS 项目，在海外拥有一个庞大的开发社区，<a href="http://cmscritic.com/">CMS Critic</a> 的编辑最近对该项目的开发成员之一 <a href="http://jxtended.com/">Louis Landry</a> 进行了一次访谈，Louis 谈到他在 <a href="http://www.joomla.org/">Joomla!</a> 开发组的一些经历，也谈到他对 Joomla! 这一项目的见解以及对未来的展望。            <strong>CC:</strong> 你在 Joomla! 项目组的背景是什么？请告诉我们你的一些经历，以及最早是什么促使你加入这个项目？
+<br> <br> <strong>LL:</strong> 早在2000年，我开始使用 <a href="http://mambo-foundation.org/">Mambo</a>，那时还是 4.0.14版，我要帮朋友建一个网站，但对 <a href="http://cmscritic.com/tag/dreamweaver">Dreamweaver</a> 一类的东西已经感到厌倦，我开始对 <a href="http://cmscritic.com/tag/mambo">Mambo</a> 感兴趣，不时给他们的开发成员提点需求，或参与开发一点补丁，那时正值 Joomla! 从 Mambo 分裂出来的时机，突然卡特里娜飓风来了，给我的生活和发展方向带来巨大冲击。
+<br> <br>那时，我同那些核心开发成员有密切的联系，卡特里娜飓风过后不久，我开始更密切地和他们联系，并发现自己已经在 Joomla!上投入了很多时间。
+<br> <br>2005年底，他们邀请我加入核心开发组，2006年初我正式加入并成为开发者之一。我是 Joomla!1.5 的架构师，2007年被选为项目经理，这个角色我担任了一年多一点，后来让给了别人。我曾是 Communication 团队的头，后来也让贤给别人，现在我是开发协调员，负责未来的一些规划。
+<br> <br> <strong>CC:</strong> 卡特里娜飓风为什么影响了你的方向？
+<br> <br> <strong>LL:</strong> 我在新奥尔良城附近出生并长大，那时我即将签约在 NASA 的 <a href="http://www.nasa.gov/centers/stennis/home/index.html">Stennis Space Center</a> 任计算机安全工程师，卡特里娜飓风后的那个星期一，我原本要去他们那里签合同的，那真是一个有趣的时机，结果什么都没有了，飓风把我将要去工作的那个地方扫平了。然而飓风对我的影响就是，我找到了另外的兴趣，那就是  Joomla!。
+<br> <br> <strong>CC:</strong> 因此，在那个时候，Joomla! 对你是一种出路了？
+<br> <br> <strong>LL:</strong> 其实我后来觉得，那就像人们所说的，上帝为你关上门的同时，又帮你打开了窗。
+<br> <br>我之前只是零星地参与 Joomla 项目，但这个项目让我的思维保持锐利，那时我刚从计算机科学与历史专业毕业一年，想保持一种锐利的思维，Joomla! 正好成了我的方向，那些人很棒，写代码很有趣，而整个项目的理念也很积极。
+<br> <br> <strong>CC: </strong>你加入后，是否觉得自己在一直向上发展，你是否为让贤的那些职位感到后悔？
+<br> <br> <strong>LL:</strong>我没有什么可后悔的，我一直尽力。项目经理不是个轻松的角色，那时我每天工作14到16小时，这严重影响到我谋生的问题，但我乐于这样做，我相信这期间我得到了我希望得到的成就。
+<br> <br>我觉得我们的进展是好的，方向也对，但对任何像 Joomla! 这样规模的项目，变换总是很慢。Joomla! 现在仍然是个年轻的项目，我们面临着成长的烦恼。
+<br> <br>我们以前都没做过这些，我觉得只要有足够的时间，总体方向也是对的，我们会做出好东西。我可以说，我们走在一条正确的道路上，拥有正确的方向。我们在这个项目上发生了很多变化，有一些变化需要思维的改变。
+<br> <br> <strong>CC:</strong> 你谈到项目中变化，你是指方向还是人？
+<br> <br> <strong>LL:</strong> 我觉得 Joomla! 是一个演化的过程，我们现在从内到外所看到的是一种从封闭走向开放的过程，我们在以一种更开放的方式解决问题。我这里有个例子。
+<br> <br>最早的开发是一个小圈子，有那么十几二十个人潜心研究核心代码，其中有那么五六个人非常活跃并决定着总体方向。我们有内部邮件列表。
+<br> <br>而目前，我们有另一种方式让开发变得更开放，我们有一个类似“操练场”的系统，所有开发者可以在里面的沙盒中做技术试验，这个过程虽然花费不少时间，但我觉得这是一个正确的方向。
+<br> <br> <strong>CC:</strong>听上去像是一个组织的整体成熟，像任何好的项目一样需要时间。我们可以确定的是，Joomla! 在开源社区的影响力巨大，这应该会让很多人感到意外。
+<br> <br> <strong>LL: </strong>我同意这种看法，我个人看到的是比 CMS 更远的东西，从短期来看，任何传统的 CMS 都不太可能成为  Web 的焦点。
+<br> <br> <strong>CC:</strong> 你可能知道，我最近的一片文章 <a href="http://cmscritic.com/what-everybody-ought-to-know-about-joomla">What everyone ought to know about Joomla!</a> （关于 Joomla! 大家应该知道的东西）引起巨大争议，在你看来，其中那些东西是你最不同意的？
+<br> <br> <strong>LL: </strong>关于第一条，默认 SEO 性能不佳。我觉得有些事实可以证明我默认的 SEO 性能并不差，但我同样觉得 SEO 是个很笼统的概念，我们的代码不够理想，也不够语义。你提到的 URL 问题，Joomla 1.5 可以默认实现很好的 URL，但我觉得同意还有改进的空间，我们最大的问题是没有一个统一的内容模型，所有组件都是黑盒型的，目前很难从整体上解决这个问题。
+<br> <br>我们意识到了这一点，正在努力改进，但在网络中，我们还是可以看到很多基于  Joomla 的站点拥有很好的默认  SEO 性能，当然我们认识到了需要改进的空间。
+<br> <br>第二，关于因插件导致的漏洞问题，我可以说，任何接受第三方插件的开源平台都有这个问题，当然我们需要一种更好的方式，指导人们使用最佳实践和安全规范，这里面也有一点正面意义，那就是业余开发者在我们的系统上面做得不亦乐乎，当然，他们需要学习最佳实践。
+<br> <br>同时，一旦发现安全漏洞，我们会立即撤销那个扩展，我们需要更好的系统，但对于这样一个分布式开发形式，你能做的也就这么多了。
+<br> <br>关于第三条，我们并没有一个傀儡领袖，我们有一个领导体，作为一个团体拥有一个傀儡领袖并不是好事，这会带来 Mambo/miro 式的失败。如果一个开源开发团队拥有一个太上皇式的领导，而这个太上皇只会蒙事，他们不会让这个角色再出现。
+<br> <br>我们这个团队靠群策而运作良好。我们并不需要一个傀儡领袖，Joomla! 背后靠的是一个开发社区，是集体的智慧。
+<br> <br> <strong>CC:</strong> 人们从那篇文章可能会获得这样的印象，就是我认为 Joomla! 需要一个中心人物。事实上，那些刚刚加入这个社区的人如果找不到一个负责的人会感到迷惑。我也同意 Joomla! 应当是一个社区，而这也是它所以走到现在的原因。
+<br> <br> <strong>LL:</strong> 我么也没做什么了不得的事，这个社区的繁荣算是一种运气，同时，我们当中绝大多数并不是全职，我们的非营利机构的总裁是一个大学社会学教授，她付出了大量的时间。
+<br> <br>我们中的多数应当更积极一些，在某种程度上，我们并没有将这个上面加入更多优先级。目前我们的首要问题是解决组织上的一些问题。
+<br> <br> <strong>LL: </strong>第四条，易用性，这是个很复杂的话题，我已经听很多人惊叹 Joomla 是如何比 Drupal 易用。在可用性方面，你倒是说到了我们的痛处，仅仅是添加一个页面也要花费很多个步骤，我们自己也清楚。有很多人认为  Joomla 非常简单，也有人认为 Drupal 简单，而人人都觉得 Wordpress 简单。
+<br> <br>最终，都是看你怎么想，如果 Joomla 很难用，我们也不会有这样的下载量以及用户基础，就像人们说的，用户用脚投票，不过你确实说到了我们的一些痛处。没太说清的地方是，菜单管理器更象是页面管理器。
+<br> <br> <strong>CC:</strong> 退回一年，你会如何改变目前在项目中的状况，或者项目本身？
+<br> <br> <strong>LL: </strong>一年前的这个时候，1.5版刚发布一个月，如果让我重来，我们也许唤起更多士气，1.5是个重要版本，开发了两年，所有人都精疲力尽想长长地舒一口气。
+<br> <br>我们失去了很多动力，从开发的角度，我们没有尽快恢复状态。维护方面没有问题，我们的 BUG 组非常特别，但就迅速开始下一个版本开发而言，我们有些倦怠了。如果重来，我想我会在继续开发上发力。
+<br> <br> <strong>CC: </strong>目前你觉得 Joomla 的哪一部分需要集中精力来做？我是说，读这篇文章的人可以在上面贡献力量。
+<br> <br> <strong>LL</strong>: 目前我的想法比较单一，那就是开发。我们需要创建这样一个在未来继续保持创新的平台，为了实现这个，我们需要开发者。
+<br> <br> <strong>CC: </strong>即将到来的 1.6 的最大变化是什么？
+<br> <br> <strong>LL: </strong>1.6 最大变化应该是访问控制系统。
+<br> <br> <strong>CC: </strong>能细说一下吗？
+<br> <br> <strong>LL: </strong>增加了可配置的用户组，可以集成许可，资产，规则以及资产组，我们所要做的是为第三方开发者提供一个简单的方式来引入 ACL 控制。
+<br> <br> <strong>CC: </strong>能否告诉我们一个实例，这个有什么用？
+<br> <br> <strong>LL: </strong>用户可以在会员管理中创建“访问权限”，允许指定用户和用户组访问或编辑指定内容或菜单项。这和目前 Joomla 内置的访问权限，公用组，注册组，特定组是一个道理，只不过站点管理员可以选择哪个用户组有哪些权限。
+<br> <br> <strong>CC: </strong>是否会和一些传统系统，诸如活动目录连接？
+<br> <br> <strong>LL: </strong>我们所做的就跟1.5版通过插件同步外部用户组一样，同样，你也可以通过插件将外部的 ACL，如活动目录，同步到 Joomla。
+<br> <br> <strong>CC:</strong> 你将来是否有可能担任别的角色？
+<br> <br> <strong>LL: </strong>我不这样认为。我对现在的样子很满意。将来我也许会参与一些平台宣讲，但这和我目前的开发协调的角色是一致的。一般来说，我总是去那些不太轻松的地方。
+<br> <br> <strong>CC: </strong>Joomla 有资金支持吗？
+<br> <br> <strong>LL: </strong>没有正式的。我们在网站上有 Google 广告，另外还接受私人捐款，还有主机商合作伙伴。
+<br> <br> <strong>CC: </strong>如果有人想捐助，他们该怎么做？
+<br> <br> <strong>LL:</strong> 我们需要的最大捐助是时间。
+<br> <br>本文国际来源：<a href="http://cmscritic.com/a-conversation-with-louis-landry-of-the-joomla-cms-project">http://cmscritic.com/a-conversation-with-louis-landry-of-the-joomla-cms-project</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜OpenBSD 4.5版发布
+https://www.solidot.org/story?sid=11104	9120
+atyu30 写道<i> "由志愿者开发的OpenBSD项目于5月1日正式发布了<a href="http://www.openbsd.org/45.html">4.5版</a>。新版的主要特性有：初步支持基于xscale的gumstix平台和基于ARM的OpenMoko平台；改进了硬件支持；新工具ypldap(8)和xcompmgr(1)；OpenSSH 5.2；Gnome 2.24.3；
+GNUstep 1.18.0，KDE 3.5.10，Mozilla Firefox 3.0.6，Mozilla Thunderbird 2.0.0.19，MySQL 5.0.77，OpenOffice.org 2.4.2和3.0.1，PostgreSQL 8.3.6，Xfce 4.4.3，OpenArena 0.8.1；以及大量的改进和bug修正。更多可见<a href="http://www.openbsd.org/plus45.html">changelog</a>。</i>
+<a href="http://www.openbsd.org/ftp.html">下载</a>"
+➜Facebook如何管理150亿张照片
+https://www.solidot.org/story?sid=11105	10200
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "Facebook 的照片分享很受欢迎，迄今，Facebook 用户已经上传了150亿张照片，加上缩略图，总容量超过1.5PB，而每周新增的照片为2亿2000万张，约25TB，高峰期，Facebook 每秒处理55万张照片，这些数字让如何管理这些数据成为一个巨大的挑战。本文由 Facebook 工程师撰写，讲述了他们是如何管理这些照片的(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K798.aspx">完整图文版</a>)。           旧的 NFS 照片架构
+<br> <br>老的照片系统架构分以下几个层：
+<ul>
+<li>上传层接收用户上传的照片并保存在 NFS 存储层。</li>
+<li>照片服务层接收 HTTP 请求并从  NFS 存储层输出照片。</li>
+<li>NFS存储层建立在商业存储系统之上。</li>
+</ul>
+因为每张照片都以文件形式单独存储，这样庞大的照片量导致非常庞大的元数据规模，超过了 NFS 存储层的缓存上限，导致每次招聘请求会上传都包含多次I/O操作。庞大的元数据成为整个照片架构的瓶颈。这就是为什么 Facebook 主要依赖 CDN 的原因。为了解决这些问题，他们做了两项优化：
+<ul>
+<li>Cachr: 一个缓存服务器，缓存 Facebook 的小尺寸用户资料照片。</li>
+<li>NFS文件句柄缓存：部署在照片输出层，以降低 NFS 存储层的元数据开销。</li>
+</ul>
+新的 Haystack 照片架构
+<br> <br>新的照片架构将输出层和存储层合并为一个物理层，建立在一个基于 HTTP 的照片服务器上，照片存储在一个叫做 haystack 的对象库，以消除照片读取操作中不必要的元数据开销。新架构中，I/O 操作只针对真正的照片数据（而不是文件系统元数据）。haystack 可以细分为以下几个功能层：
+<ul>
+<li>HTTP 服务器</li>
+<li>照片存储</li>
+<li>Haystack 对象存储</li>
+<li>文件系统</li>
+<li>存储空间 </li>
+</ul>
+存储
+<br> <br>Haystack 部署在商业存储刀片服务器上，典型配置为一个2U的服务器，包含：
+<ul>
+<li>两个4核CPU</li>
+<li>16GB – 32GB 内存</li>
+<li>硬件 RAID，含256-512M NVRAM 高速缓存</li>
+<li>超过12个1TB SATA 硬盘</li>
+</ul>
+每个刀片服务器提供大约10TB的存储能力，使用了硬件 RAID-6, RAID 6在保持低成本的基础上实现了很好的性能和冗余。不佳的写性能可以通过高速缓存解决，硬盘缓存被禁用以防止断电损失。<br> <br>
+文件系统
+<br> <br>Haystack 对象库是建立在10TB容量的单一文件系统之上。文件系统中的每个文件都在一张区块表中对应具体的物理位置，目前使用的文件系统为 XFS。
+Haystack 对象库
+<br> <br>Haystack 是一个简单的日志结构，存储着其内部数据对象的指针。一个 Haystack 包括两个文件，包括指针和索引文件：
+<br> <br>Haystack 对象存储结构
+<br> <br>指针和索引文件结构
+<br> <br>
+Haystack 写操作
+<br> <br>Haystack 写操作同步将指针追加到 haystack 存储文件，当指针积累到一定程度，就会生成索引写到索引文件。为了降低硬件故障带来的损失，索引文件还会定期写道存储空间中。<br> <br>
+Haystack 读操作
+<br> <br>传到 haystack 读操作的参数包括指针的偏移量，key，代用Key,Cookie 以及数据尺寸。Haystack 于是根据数据尺寸从文件中读取整个指针。<br> <br>
+Haystack 删除操作
+<br> <br>删除比较简单，只是在 Haystack 存储的指针上设置一个已删除标志。已经删除的指针和索引的空间并不回收。<br> <br>
+照片存储服务器
+<br> <br>照片存储服务器负责接受 HTTP 请求，并转换成相应的 Haystack 操作。为了降低I/O操作，该服务器维护着全部 Haystack 中文件索引的缓存。服务器启动时，系统就会将这些索引读到缓存中。由于每个节点都有数百万张照片，必须保证索引的容量不会超过服务器的物理内存。
+<br> <br>对于用户上传的图片，系统分配一个64位的独立ID，照片接着被缩放成4种不同尺寸，每种尺寸的图拥有相同的随机 Cookie  和 ID，图片尺寸描述（大，中，小，缩略图）被存在代用key 中。接着上传服务器通知照片存储服务器将这些资料联通图片存储到 haystack  中。
+<br> <br>每张图片的索引缓存包含以下数据
+<br> <br>Haystack 使用 Google 的开源  sparse hash data 结构以保证内存中的索引缓存尽可能小。<br> <br>
+照片存储的写/修改操作
+<br> <br>写操作将照片数据写到 Haystack 存储并更新内存中的索引。如果索引中已经包含相同的 Key，说明是修改操作。<br> <br>
+照片存储的读操作
+<br> <br>传递到 Haystack 的参数包括 Haystack ID，照片的 Key, 尺寸以及 Cookie，服务器从缓存中查找并到 Haystack 中读取真正的数据。<br> <br>
+照片存储的删除操作
+<br> <br>通知 Haystack 执行删除操作之后，内存中的索引缓存会被更新，将便宜量设置为0，表示照片已被删除。<br> <br>
+重新捆扎
+<br> <br>重新捆扎会复制并建立新的 Haystack，期间，略过那些已经删除的照片的数据，并重新建立内存中的索引缓存。<br> <br>
+HTTP 服务器
+<br> <br>Http 框架使用的是简单的 evhttp 服务器。使用多线程，每个线程都可以单独处理一个HTTP请求。<br> <br>
+结束语
+<br> <br>Haystack 是一个基于 HTTP 的对象存储，包含指向实体数据的指针，该架构消除了文件系统元数据的开销，并实现将全部索引直接存储到缓存，以最小的 I/O 操作实现对照片的存储和读取。
+<br> <br>本文国际来源：<a href="http://www.facebook.com/FacebookEngineering#/note.php?note_id=76191543919&amp;ref=mf">http://www.facebook.com/FacebookEngineering#/note.php?note_id=76191543919&amp;ref=mf</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜《指环王》粉丝电影：《追寻咕鲁》
+https://www.solidot.org/story?sid=11106	11760
+彼特杰克逊的《指环王》前传《霍比人》要等到2011年才能上映，但在本周末你就能欣赏到最新一部《指环王》系列电影，而且完全免费。5月3日，聚数百粉丝两年心血的电影《追寻咕鲁（<a href="http://www.thehuntforgollum.com/">The Hunt for Gollum</a>）》将在互联网上公开亮相。相比彼特杰克逊数亿美元预算的三部曲，这部粉丝电影预算仅仅为3000英镑，其中大部分是用在服装和化妆上，但这并不意味着电影是粗制滥造的垃圾作品。如果观看过<a href="http://www.thehuntforgollum.com/trailers.htm">两部预告片</a>（Youtube链接<a href="http://www.youtube.com/watch?v=FnMHgwG9aAo">1</a>，<a href="http://www.youtube.com/watch?v=pm-GNKsFeIs">2</a>）的话，你会迫切期待时间能瞬间跳过两天。<i>
+这部40分钟长的电影外景与彼特杰克逊构想的中土世界基本保持一致，有雄伟的高山，有幽暗的森林，也有绚丽的冰川。电影的情节介于《霍比人》和《魔戒现身》之间，主要演员长相极其酷似维果莫特森扮演的亚拉冈王子。参加电影拍摄的志愿者有160余人，多数都是通过互联网联系到的，导演是Chris Bouchard。BBC上有一篇<a href="http://news.bbc.co.uk/1/hi/entertainment/8022623.stm">关于电影制作的访谈</a>，电子前哨基金会（EFF）律师Fred Von Lohman在NPR上<a href="http://www.npr.org/templates/story/story.php?storyId=103673352">讨论</a>了这部粉丝电影是否侵犯了托尔金作品版权。</i>
+➜Acid3测试Firefox 3.5b4达到93分
+https://www.solidot.org/story?sid=11107	14400
+Mozilla刚刚发布了<a href="http://www.mozilla.com/en-US/firefox/all-beta.html">Firefox 3.5b4</a>。Firefox 3.5 Beta 4基于Gecko 1.9.1渲染引擎，新TraceMonkey JavaScript引擎，改进了隐私浏览模式，原生支持JSON格式等。<a href="http://acid3.acidtests.org/">Acid 3</a>测试显示， 3.5b4的得分达到了<a href="http://tech.slashdot.org/article.pl?sid=09/04/30/1222208">93/100分</a>，更令人瞩目的是它的速度，综合性能指数<a href="http://www.betanews.com/article/Firefox-35-Beta-4-Mozilla-delivers-the-speed-as-Beta-5-gets-under-way/1240933290">达到10.44</a>，相当接近它的竞争对手Chrome（14.39）和Safari（13.07），这两者都通过了Acid 3测试。
+➜微软提供Windows 7一年免费试用
+https://www.solidot.org/story?sid=11108	16080
+MSDN和TechNet的用户现在可以去下载Windows 7 RC版，其他人则需要等到5月5日。微软确认，用户可以<a href="http://tech.slashdot.org/article.pl?sid=09/04/30/1352249">免费试用Windows 7 RC一年时间</a>，RC版的过期日期是2010年6月1日。Windows Client Group主管John Curran表示，虽然他们不推荐普通用户使用，但盼望更多人尝试，并鼓励 beta版的用户升级到Release Candidate版。
+➜在LCD上模拟CRT效果
+https://www.solidot.org/story?sid=11109	19440
+<a href="http://zh.wikipedia.org/wiki/%E9%9B%85%E9%81%94%E5%88%A9">Atari</a>游戏主机最早发行于1970年代，当时所用的显示设备是像素很低的阴极射线管（CRT），不时会出现雪花和残影，游戏也相当简陋。目前笨重的CRT基本上已被液晶显示器（LCD）取代，但是如果你在电脑上模拟Atari游戏，显然是无法再现那种原汁原味的体验。<i>
+现在乔治亚理工学院的一组研究人员开发了一种<a href="http://www.digitallounge.gatech.edu/gaming/index.html?id=2824">有趣的开源程序stella模拟器</a>，能在LCD和其它数字显示设备上模拟出CRT效果，如颜色扩散，重影，噪音等等。<a href="http://stella.sourceforge.net/screenshots.html">屏幕截图</a>。</i>
+➜老大哥在进化
+https://www.solidot.org/story?sid=11110	22560
+在上一期的《自然》杂志上，美国地理学会主席、堪萨斯州大学地理系<a href="http://www.geog.ku.edu/peoplepages/Dobson_D.shtml">Jerome E.Dobson教授</a>概述了<a href="http://solidot.org/~lecho12/journal/1019">现代监视技术</a>，他指出追踪个人活动正变得廉价而轻松，但至于谁能监视谁却几乎没有限制。文章称：<i>
+“如果你还停留在CCTV(闭路电视)把公共空间变成圆形监狱这种认识上，那么你会感到震惊。下一代监视技术让乔治奥威尔的电幕‘老大哥’都要相形见绌，对个人隐私和自由它可能影响深远。CCTV是被动的，只有你出现在摄像头前才会被识别出。但现在的一些工具正让监视变得无处不在，变得无时无刻。人体追踪系统——这应该是它的最佳描述，使用地理信息系统（GIS），全球定位系统（GPS）、射频识别技术（RFID），双向通信，就能够24小时监视你.....</i>
+➜Btrfs还不是性能之王
+https://www.solidot.org/story?sid=11111	24600
+Phoronix<a href="http://www.phoronix.com/vr.php?view=13766">测试</a>了Linux下一代文件系统Btrfs（堪比ZFS）的性能，与XFS、EXT3和EXT4等文件系统的测试结果进行对比。结果有些出入意外，被认为是Btrfs前过度的EXT4却在多项测试中得分超过未稳定版的Btrfs，显然Btrfs<a href="http://hardware.slashdot.org/article.pl?sid=09/04/30/1820254">目前还称不上性能之王</a>，当然它确实拥有一些先进的特性。测试显示，相比EXT3或EXT4，使用Btrfs的Fedora 11发行版甚至要花更长的启动时间。
+➜美国称中国是知识产权保护最不力的国家之一
+https://www.solidot.org/story?sid=11112	38160
+4月30日，美国贸易代表办公室<a href="http://news.slashdot.org/article.pl?sid=09/04/30/2332225">发布</a>了2009年《<a href="http://www.ustr.gov/assets/Document_Library/Reports_Publications/2009/2009_Special_301_Report/asset_upload_file500_15612.pdf">特别301报告</a>》(PDF)。《<a href="http://zh.wikipedia.org/w/index.php?title=%E7%89%B9%E5%88%A5301%E5%A0%B1%E5%91%8A&amp;variant=zh-cn">特别301报告</a>》内容是关于世界各国的知识产权保护，主要针对的是盗版软件、盗版光盘等问题。众所周知，中国一向在知识产权保护方面臭名昭著。今年也不例外，在优先观察名单中中国排在第一位，令人意外的是加拿大竟也被美国视作是中国的同盟。<i>
+优先观察名单包括：中国，俄罗斯，阿尔及利亚，阿根廷，加拿大，智利，印度，印度尼西亚， 以色列，巴基斯坦，泰国，委内瑞拉。观察名单包括：埃及，巴西，芬兰，希腊，匈牙利，意大利，马来西亚，墨西哥，挪威，秘鲁，菲律宾，波兰，罗马尼亚，沙特阿拉伯等。美国还引起中国在奥运会期间的做法为例，指出只要中国政府有意愿执行知识产权政策，是会产生效果的：“据媒体报道，奥运会期间中国以前所未有的力度打击奥运会赛事非法转播和相关在线活动。这些努力最后共导致了453件在线侵权案件，其中192个网站被关闭，173个网站被要求删除侵权内容，88个网站收到行政处罚，10个网站被移交刑事起诉。”</i>
+➜百听不厌的钢琴曲~眼泪
+https://www.solidot.org/story?sid=11113	39060
+<a href="http://www.lmore8.cn/">多学资讯</a> 写道 "说它是“一首用泪水写成的曲子” 一点也不过份， 的确
+<i>“在夜色撩人的夜晚，听着这淡淡忧伤的曲子,会怀想起那遥远的过去，那已逝去的美好时光。<br>点点伤感,点点怀念,却又是那么那么的美”</i>
+曲子表达的忧伤的确可以直达每个人的心扉。把它推荐给大家。相信很多人听了都会有些感触吧。<a href="http://www.tudou.com/programs/view/g7h3A6qi0yA/">网上找的这个视频</a>的播放速度还算不错，希望大家细细体味这首琴曲中那点淡淡的忧伤......
+➜Forensics工具能识别出Headerless加密文件
+https://www.solidot.org/story?sid=11114	55920
+加密文件未必能保护你的秘密。Forensics Innovations公司<a href="http://www.forensicinnovations.com/blog/">宣布</a>他们开始销售名为<a href="http://www.forensicinnovations.com/fitools.html">Forensic Innovations TOOLS</a> (FI TOOLS)的产品，它包含了FI File Find和FI Directory应用程序，能够<a href="http://it.slashdot.org/article.pl?sid=09/04/30/201222">识别出Headerless加密文件</a>，例如TrueCrypt Dynamic文件。它并不破译加密文件，只是通过探测某一随机文件中不存在的隐藏模式，区别哪些是加密文件。如果该公司的声明是正确的话，那么软件应该能发现隐写信息。Forensics称，该公司的软件可以帮助执法部门和Boss在法律的许可下访问嫌疑犯和雇员数据。
+➜鹦鹉能闻歌起舞
+https://www.solidot.org/story?sid=11115	59520
+来自世界各地（中国除外）的网友能从Youtube上找到无数乐趣，而科学家也能从他人分享的视频中发现灵感来源。贴在Youtube上的两只跳舞鹦鹉和数千其它动物视频让科学家们确信，<a href="http://www.npr.org/templates/story/story.php?storyId=103629651&amp;sc=fb&amp;cc=fp">人类并非是唯一一种随音乐节拍起舞的动物</a>。研究结果发表在《当代生物学》杂志上。
+<i>
+Adena Schachner是哈佛大学心理系的研究生，2007年她开始对动物跳舞发生兴趣，著名的非洲灰鹦鹉Alex正好住在附近一家动物认知实验室中。于是她与同事创造了从未有人听过的音乐，播放给Alex听，结果令人惊讶的是，Alex的头竟然能跟着节拍摇摆。遗憾的是Alex在<a href="__SLASHLINK__" sect="science" sid="07/09/10/0643248" sn="article" tid="68">当年9月就去世了</a>。但Schachner认识到她可以在Youtube上搜索“cat dancing，dog dancing，bird dancing”寻找相关视频。她与同事分析了大约5000个视频，“想象一下，一个月内每天八小时不停的观看YouTube...也许在最初的几小时是好玩的。”最后只有33个视频中显示动物能随节拍运动。它们属于14种不同种类的鹦鹉和一种大象。</i> <a href="http://www.npr.org/templates/story/story.php?storyId=103629651">视频</a>
+➜伊朗人使用反华软件战胜互联网审查
+https://www.solidot.org/story?sid=11116	61080
+<a href="mailto:wmr89502270@gmail.com">wmr</a> 写道 "纽约时报报道说，去年以来有<a href="http://www.nytimes.com/2009/05/01/technology/01filter.html?_r=1">超过40万伊朗人使用反华集团创造的软件翻墙</a>（注册后便可免费在纽约时报网站上查看原文）。自我国政府1999年开始建造第一个先进的互联网内容过滤系统，根据记者无国界组织，包括伊朗，中国，巴基斯坦，沙特阿拉伯和叙利亚等20个国家都建立了类似的设施。
+（<a href="http://translate.google.com/translate?sl=auto&amp;tl=zh&amp;u=http%3A%2F%2Frss.slashdot.org%2F~r%2FSlashdot%2Fslashdot%2F~3%2Fbx2uPtc4fE4%2Farticle.pl">source</a>）"
+➜Linux份额突破1%
+https://www.solidot.org/story?sid=11117	61200
+Net Applications 4月份的操作系统市场份额（更精确的说法应该叫使用份额）<a href="http://marketshare.hitslink.com/os-market-share.aspx?qprid=9">数据</a>显示，<a href="http://linux.slashdot.org/article.pl?sid=09/05/01/1443237">Linux份额突破了1%</a>，4月份的数据比上个月增加0.12%，达到1.02%。Windows比上个月略降0.24%，至87.90%，其中Windows XP降0.64%至62.21%，Windows Vista升0.48%至 23.90%；Mac 3月是9.77%，4月是9.73%，基本没什么变动，其中Mac OS X 10.5为6.17%。<a href="http://marketshare.hitslink.com/browser-market-share.aspx?qprid=0">浏览器市场</a>，Firefox市场份额为22.48%，Internet Explorer为 66.10%，Safari为 8.21%，Chrome为 1.42%（增加），Opera为0.68%（下降）。

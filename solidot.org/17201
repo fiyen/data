@@ -1,0 +1,24 @@
+➜IMDb 将于2月20日关闭消息版
+https://www.solidot.org/story?sid=51233	7356
+互联网电影资料库IMDb宣布将于2月20日关闭它非常受欢迎的讨论版块<a href="http://www.imdb.com/boards/" target="_blank"><u>Message Boards</u></a>。Message Boards相当于论坛，允许注册用户对每一部电影或艺人发表留言，IMDb是在2001年推出该版块，为影迷们提供了一个自由谈论的地方。但不可避免的是，随着消息版的流行，垃圾信息（Spam）和钓鱼（Troll）也非常猖獗，但多数经常访问IMDb论坛的人都认为瑕不掩瑜。然而IMDb表示这一决定是在数据和流量基础上深思熟虑后做出的，旨在促进一个更积极的环境，以最好的方式服务于用户。IMDb称，Message Boards不再能向广大的用户提供一个积极和有用的体验。IMDb让用户在剩下的两周时间里存档自己想要保存的内容，与想要继续交流的用户交换联络信息。部分用户对IMDb的这一决定<a href="https://www.reddit.com/r/movies/comments/5ruzwc/imdb_message_boards_shutting_down_effective/" target="_blank"><u>非常失望</u></a>，因为目前<a href="https://tech.slashdot.org/comments.pl?sid=10201831&amp;cid=53799569" target="_blank"><u>不存在</u></a>能替代Message Boards的服务。
+➜Google将在旧版本Chrome上展示HTML版的Gmail
+https://www.solidot.org/story?sid=51234	10457
+Google本周悄悄<a href="https://gsuiteupdates.googleblog.com/2017/02/gmail-no-longer-supporting-chrome-v53.html" target="_blank"><u>宣布</u></a>Gmail将不支持旧版本的Chrome浏览器。Chrome的最新版本是v55，从2月8日起，Google将在Chrome v53及更低版本上的 Gmail界面展示警告横幅，督促升级到最新版本。受此影响最大的是仍然使用Windows XP和 Windows Vista操作系统的Chrome用户，Chrome v49是支持上述旧操作系统的最后一个版本。Google称，到2017年年底，Gmail将仍然会支持v53及更低版本；到2017年12月，仍然使用旧版本的Chrome用户在访问Gmail时将会被重定向到HTML版本。Google警告说，使用旧版本的用户将会面临更多的安全风险。
+➜微软宣布Git虚拟文件系统GVFS
+https://www.solidot.org/story?sid=51235	35045
+微软通过官方博客<a href="https://blogs.msdn.microsoft.com/visualstudioalm/2017/02/03/announcing-gvfs-git-virtual-file-system/" target="_blank"><u>宣布了</u></a>它开发的Git虚拟文件系统GVFS，<a href="https://github.com/Microsoft/gvfs" target="_blank"><u>客户端源代码</u></a>采用MIT许可证托管在GitHub上。微软称，开发GVFS是为了满足大型项目的需要，以Windows操作系统为例，它的代码库包含了350多万的文件，容量超过270GB。Git客户端在设计时并没有考虑此类的大型项目，因此在此类项目执行git checkout操作需要运行最长3小时，连简单的git status也需要运行大约10分钟，而git clone需要花费超过12小时。GVFS虚拟化了项目库下的文件系统，就好象库里的所有文件都存在，它实际上只在文件打开时下载文件。对于一个包含300多万文件的项目库，开发者通常只需要下载和使用其中的5万到10万文件。GVFS可以大大节省git checkout和git clone的时间，如checkout的时间从2到3小时减少到30秒，status的时间从10分钟减少到4-5秒。
+➜中国拟成立网络安全审查委员会
+https://www.solidot.org/story?sid=51236	37001
+<a href="/~AkazaAkari">AkazaAkari</a> 写道<i> "中国最高互联网审查机构网信办最近在其官网发布了<a href="http://www.cac.gov.cn/2017-02/04/c_1120407082.htm" target="_blank" title="《网络产品和服务安全审查办法（征求意见稿）》">《网络产品和服务安全审查办法（征求意见稿）》</a>，明确提出了要设立网络安全审查委员会，统一组织、协调网络审查工作和相关重要问题，进一步加强了对网络产品和服务的可控性。与去年全国人大通过的备受争议的<a href="http://www.solidot.org/story?sid=50272" target="_blank" title="网络安全法">网络安全法</a>类似，此办法也提及了对“关键信息基础设施”最大力度审查，但仍没有具体说明其定义。"</i>
+➜中国加速推进社会信用体系建设
+https://www.solidot.org/story?sid=51237	46311
+根据官方媒体的报道，中国政府正在<a href="http://www.creditchina.gov.cn/newsdetail/15538" target="_blank"><u>加速推进</u></a>社会信用体系建设。社会信用体系设计跟踪每个人的经济和社会行为，进行评分，评分结果将会影响到这个人的社会活动。中国计划在2020年前完成社会信用体系的建设，而长三角的上海、江苏、<a href="http://epaper.anhuinews.com/html/ahrb/20161117/article_3512141.shtml" target="_blank"><u>安徽</u></a>以及浙江将成为<a href="http://language.chinadaily.com.cn/2017-01/03/content_27846548.htm" target="_blank"><u>首个示范区</u></a>去展示良好信用的“益处”，但低信用评分有什么坏处？上海公布的《<a href="http://www.spcsc.sh.cn/n1939/n1952/n1955/n2316/n2412/n3414/index.html" target="_blank"><u>上海市社会信用条例（草案）</u></a>》展示了对“失信者”的各类惩罚：“在行政管理中取消已享受的便利化措施”，“在日常监管中列为重点监管对象，增加监管频次，加强现场核查”，“实施市场和行业禁入”，“限制公共资源交易”，“限制参与基础设施和公用事业特许经营”，“限制金融活动”，“限制高消费及有关消费”，“限制公共政策享受”，“撤销荣誉”，“限制任职资格”，等等。这些规定仍然相当模糊，为执法的任意裁定留出了很大的空间。
+➜科学家称睡眠的目的是为了遗忘
+https://www.solidot.org/story?sid=51238	49369
+为什么我们需要睡觉？科学家对此提出了许多种解释，一些人主张睡眠是一种节省能量的方法，另一些人认为睡眠帮助清理了大脑中的细胞废弃物。本周发表在《科学》期刊上的<a href="http://science.sciencemag.org/content/355/6324/511" target="_blank"><u>两篇研究</u></a>提供了新的解释：<a href="https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html?_r=2" target="_blank"><u>睡眠有助于遗忘每天学习到的一些东西</u></a>。为了学习，我们必须生长出连接神经元的突触，这些突触确保神经元能向其它神经元快速高效的发送信号，而我们则在这些神经网络中储存新的记忆。生物学家Giulio Tononi和 Chiara Cirelli指出，突触在白天生长的过于“茂盛”导致大脑神经回路充斥着“噪音”，因此大脑在睡觉时会削减连接去除噪音。在最新研究中他们提出了大量的间接证据去证明“突触内稳态假说”。
+➜中国在人工智能领域挑战美国
+https://www.solidot.org/story?sid=51239	51155
+中国正在人工智能领域<a href="http://cn.nytimes.com/world/20170204/artificial-intelligence-china-united-states/" target="_blank"><u>挑战美国的地位</u></a>，中国在该领域发表的论文数量以及耗费巨资建造的世界最强大超算都是证据。<i>《纽约时报》报道称，在五角大楼酝酿把AI引入军队的计划时，中国的研究人员也正在这个新兴科技领域大步前进。中国进步迅速，使美国的军事战略专家和科技专家围绕中国究竟只是在模仿进步，还是在进行很快便会在该领域超过美国的独立创新展开了一场争论。百度首席科学家吴恩达称，美国可能有些过于目光短浅和自信，理解不了中国竞争的速度。“很多时候，中国和其他地方都在同时发明某样东西，或是先在中国发明出来了，后来传到了海外，”他说。“但美国媒体只报道美国的版本。这导致外界误以为那些想法是现在美国发明出来的。”科大讯飞就是中国的进步在美国基本未获报道的一个重要例子。这家人工智能公司侧重语音识别和自然语言理解，在多项国际语音合成和中英文文本互译比赛中获奖。该公司自称正在与科技部合作，研发一款“人形应答机器人”。中国的科技工作者则表示，该公司在监控技术的研发上同政府关系密切。</i>
+➜匿名组织入侵暗网托管商FH II
+https://www.solidot.org/story?sid=51240	54648
+一个匿名者组织<a href="http://www.theverge.com/2017/2/3/14497992/freedom-hosting-ii-hacked-anonymous-dark-web-tor" target="_blank"><u>入侵了</u></a>暗网托管商 Freedom Hosting II（FH II）的服务器，导致其托管的<a href="https://onionscan.org/fhosting-sites.txt" target="_blank"><u>所有暗网网站</u></a>全部下线。该黑客组织声称服务器上储存的一半以上数据是儿童色情，除非能看到数据否则这一声明很难验证，但暗网上确实存在大量儿童色情内容。FBI曾在2013年控制了暗网托管商Freedom Hosting的服务器，通过收集信息起诉了浏览儿童色情的暗网用户。Freedom Hosting被关闭前是最大的暗网托管商，FH II的规模要比它小得多。匿名者组织正以0.1BTC的价格出售它获取的FH II数据。

@@ -1,0 +1,53 @@
+➜关于浏览Solidot出现问题的解释
+https://www.solidot.org/story?sid=3046	7260
+针对之前Solidot读者提供的一些不同浏览器浏览Solidot出现的问题，在此作出解释：<br>
+<b>
+1.FireFox 3.0现在还是测试版本，Solidot在官方推荐的2.0.0.4版本下是正常的<br>
+2.Opera对文本编码选择问题，需要自行设置<br>
+3.FireFox下默认不带媒体播放功能，同播放flash一样，所有格式的视频皆需要自行添加插件组。另：Mozilla官方并不提供MS系的媒体播放插件下载</b> <br>
+<br>
+另外感谢为此做出努力的读者和幕后人士的支持<br>
+<br>
+➜未来的媒体
+https://www.solidot.org/story?sid=3047	9300
+意大利公司<a href="http://www.casaleggio.it/">Casaleggio Associati</a>做了个视频（似乎有点年份了），<a href="http://yanfeng.org/blog/1131/">预测了未来四五十年内</a>，由互联网引发的一场新媒体革命。<i>"
+所有与旧媒体相关的东西都逐渐消亡：版权、电视、广播、广告消失了；代替他们的是自由的网络广播；去除广告的网络电视TIVO；在线阅读的《华尔街日报》以及Google news。2015年，Google买下了微软，Amazon买下Yahoo！，Amazon！、BBC、CNN和CCTV一起成为全球领先的内容提供者。Second Life也在壮大。2022年Google发布了Prometeus（普罗米修斯），Amazon创造了Place：2027年Second Life进化成Spirit，人们可以分享记忆，记忆也可交易；2050年Prometeus与Place和Spirit合并，Google一统世界。"</i>
+<a href="http://www.youtube.com/watch?v=xj8ZadKgdC0">视频</a>
+➜WGA验证Ubuntu Linux为正版
+https://www.solidot.org/story?sid=3048	14460
+Windows Genuine Advantage漏洞满天飞。一位Linux用户在UbuntuForums.org论坛发帖称<a href="http://ubuntuforums.org/showthread.php?t=475709">他成功的在微软网站上下载了需要WGA验证的Windows Defender</a>，可笑的WGA把Ubuntu识别成了正版Windows。他使用的工具是IE4Linux和Wine。他把整个过程都录了下来（OGG格式），并<a href="http://rapidshare.com/files/37580147/recording.ogg">放出下载</a>。这件事完全证明了微软根本就无法控制谁获得了他们的软件。
+➜手稿显示牛顿曾预测世界末日可能在2060灭亡
+https://www.solidot.org/story?sid=3049	17040
+匿名读者 写道 “北京时间6月18日消息，据澳大利亚新闻网报道，英国著名科学家、现代物理学和天文学之父牛顿的手稿近日在耶路撒冷展出，他在这封完成于1704年的书信中预测说，<a href="http://tech.sina.com.cn/d/2007-06-18/08171567669.shtml">世界将在2060年走向灭亡</a>。”
+➜与戴尔做生意的22个技巧
+https://www.solidot.org/story?sid=3050	22920
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "The Consumerist发表了一位自称为前戴尔销售主管的文章：<a href="http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php">与戴尔做生意的22个技巧</a>。其中的一些技巧确实不为人知，戴尔因此非常恼火，要求撤下这篇文章，Consumerist的律师回答很干脆：<a href="http://consumerist.com/consumer/backend/dell-demands-takedown-of-our-22-confessions-of-a-former-dell-sales-manager-269127.php">拒绝移除</a>。事情又引起了争论，看起来戴尔最后服软了，<a href="http://consumerist.com/consumer/takedowns/dell-apologizes-for-asking-consumerist-to-remove-post-269653.php">承认提出这个要求是错误的做法</a>。如果你计划购买戴尔的产品，这些技巧显然值得一看，其中部分内容已根据实际情况进行了修正。"
+➜10款新Web OS评论
+https://www.solidot.org/story?sid=3051	27840
+许多人都争相进入Web OS领域，但他们显然还是都处于发展的初始阶段，远没有达到取代桌面操作系统的地步。这里评价了<a href="http://franticindustries.com/blog/2007/06/16/another-10-web-operating-systems-reviewed/">部分Web OS的新人</a>。<i> "
+<a href="https://desktopondemand.com/">DesktopOnDemand</a>：雄心勃勃，想给浏览器上装上Linux，想象一下Live CD Linux运行在浏览器上的情形，但当前还不成熟。<br>
+<a href="http://g.ho.st/">G.ho.st</a>：基于Flash，提供3G的免费储存空间<br>
+<a href="http://www.odesktop.net/">ODesktop</a>：使用Ajax和PHP，模仿window窗口，可以安装到自己的网站主机上，理论上提供了10G空间。 <br>
+<a href="http://www.ajaxwindows.com/">AjaxWindows</a>：提供1G空间<br>
+<a href="http://www.mylgd.com/">MyLGD</a>：GUI载入很快，提供的web应用程序很多<br>
+<a href="http://www.nivio.com/">Nivio</a>：类似DesktopOnDemand<br>
+<a href="http://www.schmedley.com/">Schmedley</a>：提供了很多widget，更像是Webtop。<br>
+<a href="http://dekoh.com/">Dekoh</a>：与一般Web OS有很大不同，提供了在线多媒体分享服务。<br>
+<a href="http://www.ironbox.com/">Ironbox</a> <br>
+<a href="http://www.gcoex.com/">GCOE X</a> "</i>
+未来值得关注的还有<a href="http://www.xindesk.com/">Xindesk</a>，<a href="http://www.exoplatform.com/">Exo</a>，<a href="http://www.icube.at/oos.jsp">OOS</a>，<a href="http://www.jooce.com/">Jooce</a>，<a href="http://xcerion.com/">Xcerion</a>，<a href="http://startforce.com/">Startforce</a>，<a href="http://www.widgetop.com/">Widgetop</a>，<a href="http://www.gopc.net/">Go.PC</a>。这一行业也是竞争惨烈，谁能笑到最后，微软？
+➜防核爆炸碉堡不防水
+https://www.solidot.org/story?sid=3052	33240
+一辆1957年制造的Plymouth Belvedere汽车从俄克拉菏马州塔尔萨市的一座碉堡内挖出，50年前它作为历史的见证而被埋葬于此。碉堡被设计用来抵御来自俄罗斯的核攻击，这辆有50年历史的文物神奇的再现人间，<a href="http://www.cnn.com/2007/US/06/15/buried.classic.ap/index.html">很不幸的成为碉堡不能防水的证据</a>，曾经漂亮的汽车已经锈迹斑斑。
+➜博客搬家成为话题 是不是一种悲哀
+https://www.solidot.org/story?sid=3053	33660
+bioger 写道 "无聊不棉就"<a href="http://www.xucx.com/blog/post/blogremove.html">博客搬家，最近突然又火起来了</a>"发表了一些评论:<br> <i>
+实际上，靠搬家获得用户的方式，是一种方式，但不是最好的方式。一般来说，博客之所以搬家，除了对“新家”的向往之外，更多的是对“老家”的不满的一种抗议。<br>
+作为BSP来说，最重要的不是限制与反限制，而应该是作出有足够自信的产品。你的产品差，就应该放用户走，或者说应该敲锣打鼓欢送，好聚好散，而当你的产品好了，别的用户自然就会过来，这也是口碑相传的魅力所在。<br>允许搬家和允许被搬家，是一种基本的商业道德，而不是一种竞争的手段。博客搬家不是竞争的手段 而是对用户的尊重。从这个角度说，博客搬家成为话题，是中国互联网的悲哀。<br>
+目前国内主流的blog程序，如我现在用的zblog等，都有很好的数据转移工具，可以直接从zblog转换到wp也可以把wp的数据转换到其他的程序。<br>
+就像搜狐，老拿搬家说事，我在后台楞是没找到可以数据导出的方式，新浪也是一样。<br>
+现在搬家的争斗，似乎已经有涉及到人身攻击，影响朋友关系，这又何必呢？
+</i>
+➜银河系殖民是不可能之事
+https://www.solidot.org/story?sid=3054	35040
+物理学家霍金说人类的未来在太空，科幻小说作家<a href="http://en.wikipedia.org/wiki/Charlie_Stross">Charlie Stross</a>则用了详实的证据来说明为什么，虽然有无数小说，电影和游戏的渲染，但<a href="http://www.antipope.org/charlie/blog-static/2007/06/the_high_frontier_redux.html">人类是不可能向其它星系殖民</a>的原因。Charlie用无可争辩的事实一步步描写人类如何探索宇宙，以及所面临的难以想象的困难。虽然我们很多人都把宇宙殖民视为想当然的不可避免的事情。地球人口爆炸，环境越来越恶劣，害得许多人都迫切想离开肮脏的地球，但是头脑清楚的作家告诉我们别做白日梦了，这是不可能的。

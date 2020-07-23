@@ -1,0 +1,12 @@
+➜中科大开源镜像站停止 Anaconda 镜像服务
+https://www.solidot.org/story?sid=60423	2408
+匿名读者 写道 <i>"继 4 月 16 日清华大学开源软件镜像站<a href="https://mirrors.tuna.tsinghua.edu.cn/news/close-anaconda-service/" target="_blank">宣布</a>停止&nbsp;Anaconda 镜像服务后，作为中国大陆最后一家提供 Anaconda 镜像的<a href="https://mirrors.ustc.edu.cn/" target="_blank">中国科学技术大学开源软件镜像站</a>也<a href="https://servers.ustclug.org/2019/04/close-anaconda-service/" target="_blank">宣布</a>无限期停止&nbsp;Anaconda 镜像服务。<a href="https://www.anaconda.com/" target="_blank">Anaconda</a> 是一个免费开源的 Python 发行版本，常用于数据科学和机器学习等领域，有超过 1300 万人使用。清华大学和中科大镜像站在关闭&nbsp;Anaconda 镜像的通知中写道：“根据 Anaconda 软件源上的说明，Anaconda 和 Miniconda 是 Anaconda, Inc. 的商标，任何未经授权的公开镜像都是不允许的。去年我们曾尝试与公司有关人员联系，但未能取得授权。”"</i>
+➜Docker Hub 数据库遭未经授权访问
+https://www.solidot.org/story?sid=60424	42663
+Docker 向用户<a href="https://news.ycombinator.com/item?id=19763413"><u>发去通知</u></a>：<a href="https://hub.docker.com/"><u>Docker Hub</u></a> 的一个数据库在 4 月 25 日被发现遭到未经授权访问。在发现之后他们立即采取措施进行干预并确保网站安全。在短暂的数据库未经授权访问期间，大约 190,000 账号的敏感数据暴露，部分用户泄露了用户名、哈希密码、用于 Docker 自动构建的 Github 和 Bitbucket 令牌。Docker 已经要求受到影响的用户改变密码，撤销了 GitHub 令牌和访问密钥。Docker Hub 是一个分享预配置 Docker 镜像的仓库，预配置的镜像可以节省管理员的设置时间。类似的供应链攻击正日益猖獗。
+➜Google 封杀中国应用开发商 DO Global
+https://www.solidot.org/story?sid=60425	49705
+BuzzFeed News 上周公布的调查<a href="https://www.solidot.org/story?sid=60295"><u>发现</u></a>，中国应用开发商 DO Global/DU Group 开发的多款流行应用存在广告欺诈和滥用用户权限的问题。DO Global 自称其全球用户超过 10 亿，它去年从百度剥离出来成为独立公司，百度仍然持有 34% 的股份。它的至少六个应用存在欺诈性广告点击的问题，这些应用在 Google Play 的下载量超过了 9 千万。这六个应用已经下架，但现在 Google 采取了更严厉的行动，从其应用商店<a href="https://www.buzzfeednews.com/article/craigsilverman/google-ban-play-store-do-global-baidu" target="_blank"><u>封杀了 DO Global</u></a>，下架了其应用。在这之前，该公司开发的大约 100 款应用安装量超过 6 亿次。除此之外，Google 的  AdMob 广告平台也封杀了 DO Global。
+➜洛杉矶两所大学数百人因麻疹疫情隔离
+https://www.solidot.org/story?sid=60426	56001
+洛杉矶两所大学的数百名学生和教师被要求留在家中，除非他们能证明自己接种了麻疹疫苗。UCLA 和加州州立大学在获悉其校区可能有数百人接触麻疹感染者<a href="https://www.npr.org/2019/04/26/717355991/hundreds-of-people-at-two-l-a-universities-quarantined-due-to-measles-exposure"><u>实施了隔离检疫</u></a>。在 UCLA，一名学生本月早些时候让至少 500 人暴露在麻疹下；在加州州立大学，一名麻疹患者进入了图书馆，接触了数百人。洛杉矶县公共卫生部门向 UCLA 通知有学生感染麻疹。在识别麻疹感染者接触的人群之后，UCLA 要求他们提供免疫证明。周三有 119 名无法提供证明的人被隔离，其中有数十人在证明拥有免疫力之后释放，目前仍然有 82 人隔离。

@@ -1,0 +1,21 @@
+➜微软宣布了Windows Holographic Platform
+https://www.solidot.org/story?sid=43912	13691
+微软在<a target="_blank" href="http://channel9.msdn.com/Events/Build/2015/KEY01"><u>Build 2015</u></a>开发者大会上<a target="_blank" href="http://tech.slashdot.org/story/15/04/30/152206/microsoft-announces-windows-holographic-platform"><u>宣布</u></a>了Windows Holographic Platform，让开发者将Windows 10应用变成<a target="_blank" href="http://www.microsoft.com/microsoft-hololens/en-us"><u>HoloLens</u></a>虚拟现实眼镜中的全息图——这里的全息图是微软的广告用词，事实上它是一种虚拟现实。全息图距离实用还有很长的路要走。微软演示了用语音控制一个Windows视频应用，只要说“跟着我（follow me）”，视频应用会跟着你的脚步在房间内移动。微软操作系统群组的技术院士Alex Kipman说，每一个universal Windows应用都有这项功能。除了视频，微软还演示了照片应用、浏览器、Skype、全息开始菜单，以及地板上的狗。
+➜Apple Watch不喜欢纹身
+https://www.solidot.org/story?sid=43913	18433
+苹果<a target="_blank" href="http://www.bbc.com/news/technology-32537030"><u>证实</u></a>纹身会影响Apple Watch的功能，苹果Apple Watch<a target="_blank" href="https://support.apple.com/en-us/HT204666"><u>产品支持页</u></a>称，永久或临时性的改变皮肤如纹身，会影响心跳率传感器的性能。纹身墨水、色彩饱和度和图案能屏蔽来自传感器的光，使其难以探测通过手腕的血液流动量，而血流量被用于计算心跳率。纹身和非纹身手腕的心跳率度数被发现存在显著差异。除了心跳率外，纹身还被发现会影响Apple Watch的锁定系统和通知系统。不满的纹身Apple Watch用户用#tattoogate标签在社交网站上分享他们的失望和无奈。
+➜如何抵御基于JavaScript的DDoS攻击
+https://www.solidot.org/story?sid=43914	20826
+DDoS攻击技术正在快速演化，最近出现的<a target="_blank" href="https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/"><u>基于JavaScript的DDoS攻击</u></a>具有一个与众不同的特点：任何有浏览器的设备都可能参与攻击，其潜在攻击规模接近无限。现代网站的绝大多数互动采用的都是JavaScript。JavaScript脚本可直接植入HTML中，或者是从远程服务器载入。JavaScript攻击主要发生在共享JavaScript脚本在第三方服务器上被替换，或者是在传输过程中被中间人替换。对于屏蔽服务器上被替换的脚本，目前HTTP还没有相关机制，但W3C已经提出了名叫<a target="_blank" href="http://www.w3.org/TR/SRI/"><u>子资源完整性</u></a>的新功能，使用哈希值验证脚本，如果哈希值不匹配浏览器可以阻止其运行。支持子资源完整性的浏览器暂时还只有Chrome和Firefox。对于传输过程中脚本被中间人替换成恶意代码，全面启用HTTPS是唯一有用的方法。
+➜Mozilla宣布淘汰HTTP
+https://www.solidot.org/story?sid=43915	29061
+Mozilla正式宣布了<a target="_blank" href="https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/"><u>淘汰HTTP</u></a>的方案，其中包括：设定一个日期，所有的新特性将只提供给HTTPS网站；HTTP网站将逐步被禁止访问浏览器功能，尤其是那些与用户安全和隐私相关的功能。Mozilla此举是向Web开发者社区发出一条信息，他们需要确保网站的安全性，而只有整个Web社区和浏览器开发商联合起来，淘汰HTTP才能真正实现。Mozilla计划不久之后向W3C WebAppSec工作组递交相关提议。
+➜官方再次宣称被重定向到wpkg.org是境外攻击
+https://www.solidot.org/story?sid=43916	32215
+嵌入Facebook Connect脚本的网站至今仍被不时重定向到开源网站wpkg.org和旅游网站ptraveler.com——原因是connect.facebook.net域名被投毒。官方《中国日报》今天发表了<a target="_blank" href="http://usa.chinadaily.com.cn/epaper/2015-05/01/content_20595385.htm"><u>一篇一本正经的文章</u></a>，文章援引专家的话警告，中国的互联网基础设施对于境外网络攻击极端脆弱。文章声称，国家计算机网络应急技术处理协调中心（CNCERT）是一家非政府机构。CNCERT的一位高级研究员说，这是一起非常奇怪的案例，因为黑客是直接针对了电信运营商的服务器，以前很少发生这种事。中国电信是最大的受害者，因为它是中国最大的ISP，当前还不可能估计破坏的严重程度。CNCERT在一份声明中说，“初步判断此次事件是由于我国境内部分递归域名服务器被境外服务器攻击污染所致。”专家表示，跟踪攻击来源非常困难，因为远程控制服务器发动攻击在技术上是可能的。复旦大学研究员Shen Yi说，中国在建立反黑客系统方面落在西方后面，当最坏的情况发生，我们无法找到有效的方法捍卫互联网安全。
+➜比特币正在扰乱阿根廷经济
+https://www.solidot.org/story?sid=43917	40040
+不稳定的货币和失能的银行，阿根廷<a target="_blank" href="http://www.nytimes.com/2015/05/03/magazine/how-bitcoin-is-disrupting-argentinas-economy.html?_r=1"><u>成为数字货币试验的理想之地</u></a>。虽然阿根廷的比特币用户相对较少，交易量也不高，但它可能是普通居民将比特币用于真实商业交易的极少数国家之一。过去几个月比特币币值的下跌吓跑了许多投机者，但阿根廷没有出现兴趣减退的迹象，如BitPagos在8000多家阿根廷便利店出售比特币，正帮助200多家酒店接受外国游客的信用卡支付，绕过政府对外国货币的管制。外国游客如果在酒店以美元支付，酒店将其保存在国有银行账户时必须按照官方汇率兑换成比索，而官方汇率比黑市汇率低30%，此外酒店还需要等待20天时间才能拿到比索。BitPagos通过将美元换成比特币帮助酒店经营者。类似比特币，阿根廷比索也在持续贬值，2014年年底的币值比年初贬值了25%，虽然比特币贬值幅度更大，但它能比官方更快的交易。
+➜360被发现递交到测试机构的产品是调整过的
+https://www.solidot.org/story?sid=43918	57348
+奇虎360递交到杀毒软件测试机构的产品样本被发现与消费者使用的版本存在明显的差异，被认为是作弊。评测机构Virus Bulletin、Av-Comparatives和AV-Test发表<a target="_blank" href="http://www.av-test.org/fileadmin/pdf/VB-AVC-AVT-press-release.pdf"><u>联合声明</u></a>（PDF），<a target="_blank" href="http://www.theregister.co.uk/2015/05/01/cheater_test_labs_out_av_vendor_for_using_rivals_engine/"><u>宣布撤销对奇虎360的认证</u></a>。奇虎360提供给评测的产品修改了默认设置，其中包括：启用了竞争对手Bitdefender的杀毒引擎，关闭自己的QVM引擎。消费者使用的产品默认设置是关闭Bitdefender启用QVM，评测机构认为这会降低防护水平增加误报率。在调查中，评测机构发现奇虎的中国竞争对手百度和腾讯也会为评测进行优化，其产品中包含了评测实验室的标记，暗示软件在评测实验室运行时其行为可能会有差异。但没有证据显示这些优化给他们的产品带来显著的优势，某些情况下甚至是适得其反。

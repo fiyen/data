@@ -1,0 +1,60 @@
+➜房产决定你是否会被中国女性爱上
+https://www.solidot.org/story?sid=23502	60
+*** 写道 <i>"越来越多的中国女性将视男性有无房产而决定是与其否坠入爱河。《<a href="http://dongxi.net/b05wX">纽约时报</a>》发表文章谈论了中国人的爱情与房产问题。房产在中国的价格不同寻常，2007年以来，全国房价上涨了140%，而北京市8年以来的房价提高了800%。最近一项调查显示70%以上的中国单身女性非有房男不嫁，50%的单身女性认为财产是恋爱首要考虑。一位被采访的中国女性表示男人有义务立刻告知女方有没有房，这样女性好决定是不是和他约会。保险从业者王林受过大学教育，有工作和汽车，但因为无房被6位女性拒绝，甚至一家婚姻介绍所也拒绝接受其登记。文章说有房产的中国男性想出了一些识别这类女性的方法。"</i>
+➜比FPGA更快更廉价的选择
+https://www.solidot.org/story?sid=23503	14700
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "对于硬件设计者来说购买硬件的尴尬之处在于购买后马上就面临过时。MIT技术评论介绍了一种<a href="http://www.technologyreview.com/computing/37406/?p1=A1&amp;a=f">比FPGA更快更便宜的解决方案</a>，一家叫<a href="http://www.tabula.com/">Tabula</a>的创业公司最近拿到了1亿美元的投资用于设计一种可配置的芯片产品，让硬件设计变得像软件开发一样的模式，即可以升级和重新配置。<i>
+大约30年前，相对软件开发，硬件设计显得非常的繁琐和复杂，<a href="http://en.wikipedia.org/wiki/Ross_Freeman">Ross Freeman</a>意识到了这个问题，尝试用软件的方法论来解决硬件设计的问题，之后FPGA诞生了。但今天的FPGA虽然可以满足那些不愿意从零开始设计硬件的hacker(或者是厂商)，但成本却是一大问题，比如用于数据通讯行业的<a href="http://netfpga.org/foswiki/NetFPGA/TenGig/Netfpga10gInitInfoSite">netFPGA的一块4*10GE的万兆以太网开发板</a>就高达1600美刀，Tabula的目标则是设计更廉价的可配置芯片的产品。"</i>
+➜GOsa² 2.7.1 - LDAP数据库管理系统
+https://www.solidot.org/story?sid=23504	15840
+<a href="http://www.oseye.net/">OSEye</a> 写道 "<a href="http://www.oseye.net/topic/show/2619">GOsa²</a>提供了一个管理LDAP数据库账户和系统的功能强大的GPL'ed框架，使用GOsa²允许管理员非常容易地区管理用户和用户群组、瘦胖客户端、应用程序、电话号码和传真、邮件列表等等。与FAI(Fully Automatic Installation)结合，GOsa²允许高度自动化预配置安装。因此GOsa²提供了一个单一的基于LDAP的管理员可定制的环境，从而使用户和系统以及相关参数容易管理。GOsa² 2.7.1更新如下：
+<ul>
+<li>更新passwordHook behaviour;</li>
+<li>重新添加sambaKickoffTime到samba标签；</li>
+<li>更新账户登录超时检测；</li>
+<li>ACL方便不区分大小写；</li>
+<li>用户模板检测邮件地址；</li>
+<li>更新smarty到版本3.0.7;</li>
+</ul>
+更新详情以及下载GOsa² 2.7.1，请<a href="https://oss.gonicus.de/labs/gosa/blog/gosa2-7-1">点击这里</a>。"
+➜FTP协议发布四十周年
+https://www.solidot.org/story?sid=23505	16920
+1971年4月16日， MIT学生Abhay Bhushan公布了<a href="http://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE">文件传输协议</a>（FTP）的最初草案，发表了<a href="http://tools.ietf.org/html/rfc114">RFC 114规范</a>。今天，作为互联网骨干协议的FTP迎来<a href="http://tech.slashdot.org/story/11/04/15/2324253/FTP-Is-40-Years-Old">40岁生日</a>，可以说如今它的重要性与诞生之初相比<a href="http://www.bit-tech.net/news/hardware/2011/04/15/ftp-is-40-years-old/1">要远远大得多</a>。<i>
+FTP软件公司Ipswitch的副总裁Frank Kenney称，FTP标准已经从简单的基于TCP的网络文件复制协议转变成复杂的整合模式，能在包括云服务在内的不同环境中，提供控制，可见性、依从性和安全性。</i>
+➜苹果因应用内购买面临集体诉讼
+https://www.solidot.org/story?sid=23506	20160
+苹果公司的应用内（in-app）购买被指引诱儿童在游戏内花了父母数百美元购买虚拟物品。Garen Meguerian等人本周向加州法院<a href="http://arstechnica.com/apple/news/2011/04/apple-facing-class-action-lawsuit-over-kids-in-app-purchases.ars">提起了集体诉讼</a>。<i>
+他们承认苹果已经解决了这一问题，但认为它仍然不公平的受益于虚拟物品销售。应用用购买涉及的主要是免费增值游戏模式，玩家可以免费游戏，但需要利用虚拟货币在应用程序内购买额外的关卡和扩展。</i>
+➜半岛指责中国媒体刊登有偏见的利比亚新闻
+https://www.solidot.org/story?sid=23507	20700
+半岛电视台北京分社社长伊扎特在博客上发表了一篇文章，<a href="http://yizhate.blshe.com/post/534/668306">指责中国媒体故意误导民意</a>，认为中国的新闻报道是有害的。<i>
+他说，大部分中国媒体的报道集中在实际的冲突以及西方是如何“攻击”利比亚的。与之相比，对于卡扎菲的政权是如何分裂的，利比亚长期以来的政治现状以及为什么如此多的民众对统治者不满等这些利比亚本身面临的政治问题的分析却寥寥无几...中国媒体告诉我们卡扎菲的部队如何如何将反对派击溃接连收复失地，却不告诉我们替卡扎菲杀掉他的人民的有几万杀人不眨眼的外国雇佣军；它们告诉我们利比亚人都享有免费的医疗保险，却不告诉我们卡扎菲在长达42年的统治时间里在利比亚建了多少所医院；告诉我们的黎波里的人民对卡扎菲上校感恩戴德，却不提在这个每天出口160万桶全世界最昂贵的石油的国家，600万平民每人能分上几杯羹。所谓大阿拉伯利比亚社会主义民众国，无非只是张空头支票。</i>
+在中国，新闻和宣传是<a href="http://en.wikipedia.org/wiki/Propaganda_Department_of_the_Communist_Party_of_China#Role_in_monitoring_media_personnel">同义词</a>。
+➜文汇报指AWW“五毒俱全”
+https://www.solidot.org/story?sid=23508	27900
+bonnae1982 写道 "香港《文汇报》4月15日发布<a href="http://paper.wenweipo.com/2011/04/15/PL1104150001.htm">文章</a>指称艾未未“五毒俱全”：
+<i>艾未未被艺术圈里的人称为“五玩艺术家”：玩行为艺术，玩政治，玩法律，玩感情，玩良知。其实，生活中的艾未未，“五玩”的内容是“五毒俱全”：一毒是玩所谓的“行为艺术”，亵读艺术和公序良俗；二毒是玩政治，充当西方反华势力棋子，只为博得一些洋人欢心和叫好；三毒是玩法律，涉嫌偷税漏税，销毁会计凭证，以及传播淫秽物品罪等，证据确凿；四毒是玩感情，涉嫌重婚罪，也是证据确凿；五毒是玩良知，诋毁国家污蔑民族愧对其父。艾青若九泉之下有知，肯定也会怒斥这个不肖子孙。
+</i>但另一方面，同样是香港媒体的《大公报》从其网站撤下了其4月14日一篇引用“知情人士”"透露"所做的题为<a href="http://source.takungpao.com/news/11/04/14/images_0702-1362919.htm">《艾未未开始交代问题羞辱中国以迎合西方》</a>的文章，《大公报》编辑在接受
+<a href="http://www.rfa.org/mandarin/yataibaodao/ai-04142011095358.html">RFA</a>记者查询时则表示：“ 你可以想象这是政府方面发出来的，严格地说这应该是公安部或是司法部才能正式发布这种东西，所以就只能用消息人士而不是用政府这种说法。”另据香港<a href="http://www.youthnetradio.org/tmit/forum/thread-16423-1-1.html">《苹果日报》</a> <a href="http://www.youtube.com/watch?v=qp1JSFhjGzI">动新闻</a>引述长期在北京任务的外籍传媒人理查．伯格（ Richard Burger）的<a href="http://www.pekingduck.org/2011/04/the-global-times-and-ai-weiwei/">博客文章</a>指《环球时报》上周一（ 4日）《环球时报》总编辑胡锡进特别召集被称为“外国专家”的外籍员工不准参加的有关艾未未的全体中方员工参与的闭门会议。"
+➜Unity用户界面可用性再受争议
+https://www.solidot.org/story?sid=23509	40080
+一份新测试报告让Ubuntu 11.04默认用户界面Unity的可用性<a href="__SLASHLINK__" sect="linux" sid="11/04/15/022204" sn="article" tid="111">再一次受到无数用户的质疑</a>，一些人认为采用Unity的决策愚蠢，界面设计存在诸多缺陷。<i>
+Ubuntu 11.04目前处于beta测试阶段，但测试者发现Unity桌面频繁的崩溃。Canonical设计团队成员Charline Poirier进行了一次试验，11名Mac和Windows用户执行了一系列任务。<a href="https://lists.ubuntu.com/archives/ubuntu-devel/2011-April/032988.html">结果发现</a>，许多用户不清楚Ubuntu按钮的意义；11人中有5人在测试中Unity发生崩溃，其中一位用户的quicklist失去响应，一直处于最上层；Windows用户习惯性的双击launcher中的应用程序和文件/文件夹；一位测试者将Ubuntu软件中心当成了回收站。
+</i>
+➜MeeGo引起其它手机制造商的兴趣
+https://www.solidot.org/story?sid=23510	43200
+MeeGo原本是诺基亚和英特尔合作的移动操作系统项目，但今年2月诺基亚宣布将集中力量开发Windows Phone手机，此举让MeeGo的未来黯淡下来。<a href="http://lwn.net/Articles/438692/">但诺基亚的离去却为其它手机制造商创造了难得的机遇</a>。<i>
+MeeGo技术指导委员会成员Valtteri Halla周五在一个会议上表示，他们正与其它手机制造商进行谈判，认为过去诺基亚在该项目上的主导地位阻碍了其它手机制造商采用MeeGo。他称，中兴电子和中国移动，以及LG爱立信等公司加入了MeeGo手机开发。</i>
+➜上海天主教教区启动徐光启和利玛窦封圣程序
+https://www.solidot.org/story?sid=23511	45720
+梵蒂冈中国教会问题委员会发表了<a href="http://www.radiovaticana.org/en1/articolo.asp?c=478609">致中国天主教徒文告</a>(英文，<a href="http://www.asianews.it/news-zh/%E5%9C%A3%E5%BA%A7%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%95%99%E4%BC%9A%EF%BC%9A%E5%8D%81%E5%88%86%E5%9D%9A%E5%86%B3%E3%80%81%E5%8D%81%E5%88%86%E4%BB%81%E6%85%88-21311.html">中文</a>)，称中国如斯大林一样始终害怕梵蒂冈的“分裂”，指出中国部分主教尽管在形式与教宗共融，却始终热衷于“爱国主义”、热衷于一个所谓“和解派”的教会的“独立”。文告提及，天主教接受了上海教区开启徐光启列真福品案的审理程序，并与耶稣会士利玛窦神父列真福品案同时进行。<i>
+徐光启、李之藻和杨廷筠是明朝天主教耶稣会传教士利玛窦在中国传教期间吸纳的第一代基督徒里最有成就的三个人，被称为天主教三柱石。<a href="http://zh.wikipedia.org/wiki/%E8%81%96%E6%95%99%E4%B8%89%E6%9F%B1%E7%9F%B3">徐光启</a>是上海地区最早的天主教徒，曾官至礼部尚书、文渊阁大学士，1603年在南京由耶稣会士罗如望受洗加入天主教，教名保禄（Paul），他与利玛窦合译过《几何原本》。梵蒂冈发言人<a href="http://www.bbc.co.uk/zhongwen/simp/china/2011/04/110415_vatican_xuguangqi.shtml">表示</a>，徐光启的事迹应该给中国的天主教徒带来信心，让他们更忠于梵蒂冈。<a href="http://zh.wikipedia.org/wiki/%E5%88%A9%E7%8E%9B%E7%AA%A6">利玛窦</a>于1583年（明神宗万历十一年）来到中国居住。他是天主教在中国传教的开拓者之一，也是第一位阅读中国文学并对中国典籍进行钻研的西方学者。除传播天主教教义外，他还广交中国官员和社会名流，传播西方天文、数学、地理等科学技术知识。</i>
+➜FVWM 2.6.0发布
+https://www.solidot.org/story?sid=23512	46200
+视窗管理器<a href="http://www.fvwm.org/">FVWM</a>发布了<a href="http://lwn.net/Articles/438781/">2.6.0版</a>，与上个稳定版发布相隔了将近五年。<i>
+FVWM代表 “F Virtual Window Manager（F无正式含义）”，是X Window System的虚拟视窗管理器。从2.5.X开发版本的发布到2.6.0版正式推出，持续了近十年。新版的特性包括：支持EWMH，支持管理不同的视窗类型；Colorset命令取代FvwmTheme；支持 XFT字体；鼠标手势绑定；新的模块，新的条件命令选项；等等。
+</i>
+➜甲骨文宣布OpenOffice.org将变成一个社区项目
+https://www.solidot.org/story?sid=23513	51600
+甲骨文通过新闻稿<a href="http://www.marketwire.com/press-release/Oracle-Announces-Its-Intention-to-Move-OpenOfficeorg-to-a-Community-Based-Project-NASDAQ-ORCL-1428324.htm">宣布</a>OpenOffice.org将重新成为一个<a href="http://developers.slashdot.org/story/11/04/15/194235/OpenOfficeorg-To-Be-Given-Back-To-the-Community">基于社区的项目</a>。<i>
+甲骨文首席企业架构师Edward Screven表示，甲骨文计划与社区成员立即展开合作，推动OpenOffice.org继续前进和成功。甲骨文认为，人们对免费办公软件有广泛的兴趣，而个人计算技术正快速进化，他们相信OpenOffice.org项目最好由社区管理，在非营利的基础上服务于广大社区。甲骨文此举可能是因应社区项目LibreOffice的挑战。</i>

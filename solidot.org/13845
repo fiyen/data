@@ -1,0 +1,76 @@
+➜放射性或许没有以前认为的那样危险
+https://www.solidot.org/story?sid=4519	1200
+广岛、长崎的核弹爆炸产生的后果是毁灭性的，但随后的放射性引发的伤亡却没有预想的那样糟糕。科学家找到了大量的证据显示放射性<a href="http://www.spiegel.de/international/world/0,1518,519043,00.html">可能没有人们想象中的具有可怕的致命性</a>，这是德国、美国和日本研究人员的研究结论。例如广岛核弹爆炸后86500名生存者中仅仅只有少于800的死亡案例归因于核辐射后效。其它令人惊讶的事件是切尔诺贝利核电站反应堆泄漏事故，以及前苏联秘密的核材料钚的生产基地西伯利亚城市Mayak，自1957年发生了严重的核事故后被抛弃，研究发现被辐射照射的受伤害者死亡率都很低。
+➜足球场大小的风筝为货船提供动力
+https://www.solidot.org/story?sid=4520	1800
+一艘新型货船在12月下水时，会接受一种新奇的动力——<a href="http://www.networkworld.com/community/node/22225">和足球场一样大的风筝</a>。这艘长460英尺的船属于<a href="http://www.beluga-group.com/">Beluga</a>货船公司，风筝则由德国<a href="http://www.skysails.info/index.php?L=1">SkySails</a>公司制造，Beluga公司希望在最理想条件下能节省50%的燃料消耗。<i>
+SkySails系统包含一套由绳索牵引的风筝，发射和回收系统，和可进行全部操作的控制系统。公司声称控制系统就如飞机上的自动飞行系统。自动驾驶软件可发送和接受航行相关的各类数据以保证航行始终处于最优状态。风筝通常能在海平面1000英尺上空飞行，此时风力比海表面强50%。SkySails公司雄心勃勃的目标是希望能到2015年用风筝装备1500艘船。SkySails不是唯一一家风筝技术先锋，美国公司KiteShip正在为私人游艇建造巨型风筝。</i>
+➜用firefox3看solidot有点问题
+https://www.solidot.org/story?sid=4521	7800
+匿名读者 写道 "首页没问题，具体的文章里，页面上方一大块空白，文章正文被挤到了下面。"<i>
+autoxbc给出的<a href="http://blog.cathayan.org/item/1718#9184">解决方法</a>：
+用 <a href="https://addons.mozilla.org/firefox/addon/2108">Stylish</a> 扩展的话，可以试试下面这段代码。</i>           @-moz-document domain("solidot.org") {<br>
+#links /*左侧链接栏*/ , #copyinfo {<br>
+display:none !important;<br>
+}<br>
+<br>
+#contents { /* 正文区左移 */<br>
+margin: 0 0 0 0 !important;<br>
+}<br>
+<br>
+.details {<br>
+margin-top: -7px !important;<br>
+font-size:1em!important;<br>
+}<br>
+<br>
+.intro {<br>
+font-size:1em!important;<br>
+}<br>
+<br>
+}
+➜OLPC遭遇专利起诉
+https://www.solidot.org/story?sid=4522	9600
+bladerunner 写道 <i>"一个尼日利亚人拥有的叫LANCOR的公司于11月22日<a href="http://www.marketwire.com/mw/release.do?id=796745">起诉了</a>尼葛洛庞帝，原因是该公司认为OLPC故意侵犯了它在尼日利亚的一项关于多语言输入的设计专利（#RD8489）、非法获得并对LANCOR的键盘驱动程序源码进行了反向工程（并未提及如何对源程序做反向工程）。LANCOR表示他们正准备在美国联邦法院进行类似起诉。"</i>
+➜未来的用户体验
+https://www.solidot.org/story?sid=4523	18600
+<a href="http://www.toboshu.cn/">ChrisQie</a> 写道 "Patrick Griffin写道：我们与技术相互结合的方式几乎与技术本身同样重要，过去数年生产力已经得到极大改良，因此我们已经顺应了我们自己和我们的科技作业工具，大多数软硬件的UI体验对于新手来说晦涩不堪难以上手。“<a href="http://www.smashingmagazine.com/">Smashing Magazine</a>”网站整理了一份叫做“<a href="http://www.smashingmagazine.com/2007/11/26/monday-inspiration-user-experience-of-the-future/">最近在用户体验设计竞赛中的佼佼者</a>”的材料，其中大多技术十分前卫，并让人印象深刻。要知道：未来的数年中它们就可能来到我们身边。"很多我们其实都见识过了：<i>
+1.<a href="http://www.vizoo.com/">Vizoo</a>公司生产的立体影像投影系统<a href="http://vizoo.com/showreel_wmvs/EPK_Cheoptics360_XL.wmv">Cheoptics360</a>；<br>
+2.采用多点触摸技术的的互动音乐桌面<a href="http://mtg.upf.edu/reactable/">reactable</a>（<a href="http://mtg.upf.edu/reactable/?media">DEMO</a>）；<br>
+3.多点触摸技术以及微软的<a href="http://www.microsoft.com/surface/">Microsoft Surface</a>；<br>
+4.三维合成影像技术<a href="http://www.ted.com/index.php/talks/view/id/129">Photosynth</a>；<br>
+5.三维桌面<a href="http://bumptop.com/">BumpTop</a>；<br>
+其它值得关注的还有Sun开发的<a href="http://www.youtube.com/watch?v=RZcJOZC38iQ">3D操作系统</a>，用网络摄像头实时分析身体运动的软件<a href="http://www.youtube.com/watch?v=T8d9Z92cO_c">XTR3D</a>。</i>
+➜华南虎幼崽在非洲出生
+https://www.solidot.org/story?sid=4524	20700
+<a href="http://livepine.org/">livepine</a> 写道 "<i> <a href="http://www.nature.com/news/2007/071127/full/news.2007.290.html">《自然》杂志报道</a>，一只一千克重的雄性华南虎周末在南非的野生保护区出生，它给拯救这种濒危物种带来了希望。这是人工哺育的华南虎第一次出生在半自然的环境，人们希望这种环境能够增添动物的存活率，将来它能被放到大自然中去。这只幼崽将接受特别的照顾，在几个月之后将随它的母亲一起在这座10英亩的公园里巡视，并学会捕猎野生羚羊。中国的动物园非常善于饲养大型猫科动物：他们已经饲养了大约5000只东北虎（Siberian tiger），但只有63只华南虎在动物园中。而且它们的血统过近，以至于圈养的大熊猫也比它们更有希望繁衍下去。野生的华南虎据信少于10只。全莉（Li Quan），一位自然保护者，希望将这只幼崽连同其它四只华南虎，放到中国的两个自然保护区中，最早明年夏天，正好是北京奥运会的时期。她说：“这个项目将拯救即将灭绝的华南虎。它的出生是巨大的一步。”但是许多其他自然保护者没有她这么乐观。有些人认为她的一千万美元的资金应当用于改善老虎的自然栖息地，而不是这种喂养项目。另外一个项目计划将同华南虎在基因上几乎相同的东南亚虎（Indochinese tiger）放到中国南部，许多人认为这将更有利于增加种群数量。真正的悲观主义者认为将中国的野生老虎恢复到健康的数量是白日做梦。东北林业大学的一位动物学家Liu Yutang说：“他们几乎就要灭绝，现在想要拯救华南虎已经太晚了。”"</i>           这只老虎正巧出生在上个月陕西山区发现华南虎踪迹之后。一位农民拍摄到照片表明这种野生老虎可能仍然存在，尽管2002年这种物种已经被宣布实际上灭绝。这则新闻似乎刺激中国政府加倍重视老虎拯救工作。然而谣传和指责很快在中国的网络中甚嚣尘上，认为照片和发现都是假的。批评认为那只动物的条纹不是华南虎的，或者照片中植物的尺寸显示动物太小。两周前有证据显示那个农民拍摄的照片同一张几年前发行的年画惊人地相似。全莉说“大多数中国公众，甚至一些官员，认为照片是假的。”当地政府坚持照片的真实性。政府计划今年冬天在该区域调查，希望能平息争论。
+➜杜冬劲起诉GFW案二审即将开庭
+https://www.solidot.org/story?sid=4525	21900
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道 "<a href="https://freemoren.com/2007/11/28/qingdajiaguanxindudongjinqisugfwershenbenanhewomendequanyixixixiangguan/">自曲新闻</a>报道，杜冬劲起诉GFW案，将于12月11日13：45，在上海市虹桥路一千二百号五楼 上海市第一中级人民法院十二法庭二审开庭。以下是杜冬劲组建联合辩护团的公开邀请：
+<i>
+非常希望更过律师或能法律专业人士加入本讼二审的联合辩护团。二审开庭日期请见本文最后一段。希望本讼能成为中国宪法诉讼中的一个重要案件和公开舞台。基于此种想法，我，原告杜冬劲，和本讼目前律师，李立，共同邀请各位专业朋友报名。拟再邀请主讼律师一名（需要参加二审开庭），联合辩护团成员数目最多五名（签名即可）。请发送电子邮件和本人联系。
+<br>
+无论是否法律专业人士，只要您是地球人，能够读懂<a href="https://freemoren.com/2007/11/28/qingdajiaguanxindudongjinqisugfwershenbenanhewomendequanyixixixiangguan/">本文</a>，如果您愿意通过真名签名表示支持，请打印本文下面的内容，签上您的名字和日期，扫描后发送电子邮件给本人。同时欢迎博客和媒体朋友通过各种方式转载，报道。
+<br>
+电子邮件，yetaai@gmail.com
+</i>有一个链接比较有趣：
+<a href="http://yetaai.blogspot.com/2007/05/practical-lawsuit-against-china.html">Richard Stallman 和Robert J. Chasell的巨大帮助，</a>"
+➜会走路的巨大岩石让科学家迷惑
+https://www.solidot.org/story?sid=4526	24600
+俗话说稳如泰山、坚若磐石，风可以把小石吹走，但丝毫不能动大石半分。但是在美国死谷国家公园（Death Valley National Park）的一条干枯的湖床上，重达数百磅（1磅约等于0.45公斤）的巨石<a href="http://geology.com/articles/racetrack-playa-sliding-rocks.shtml">留下了移动的路道</a>。路道的线路千奇百怪，直线、曲线、矩形（连续两三次90度大转弯）等等。这引起了科学家的兴趣，<a href="http://science.slashdot.org/article.pl?sid=07/11/27/1951252">提出了多种解释</a>，目前比较让人接受的是：下雨过后，湖床上层的沙土变软、变光滑，岩石在风力作用下移动。
+➜Google在线储存服务即将发布？
+https://www.solidot.org/story?sid=4527	29700
+关于Google在线储存服务或gDrive的流言流传已久，但从未得到证实，其它的如GPhone都或多或少得到验证。《华尔街日报》最新发表的一篇报道指出，我们在不久之后就能看到<a href="http://online.wsj.com/article/SB119612660573504716.html?mod=hps_us_whats_news">Google提供在线储存服务</a>。文章并没有称这一项目为gDrive或类似的东西，而是明确指出在线储存服务将在几个月内公布。
+<i>Google在线数据储存的策略将促进基于web的应用程序的发展，提高网络公司与微软竞争的实力。Google希望让用户本来保存在本地硬盘上的文件储存在Google的数据库里，用户可以通过不同地点的电脑和移动设备随时使用。Google将进一步推动企业和消费者对互联网的依赖，用户将越来越偏向使用web应用程序和储存在海量容量数据中心内的文件，比如Salesforce.com，Microsoft和Google这类公司的数据中心。类似的安排，通过高速网络把家庭、办公地点和数据中心连接在一起成为可能，目的是消除用户对技术的抵触，某种程度也减少了他们的开支。</i>
+➜信息技术发展的10大障碍
+https://www.solidot.org/story?sid=4528	33600
+ZDNet UK列出了信息技术如果要完全发挥潜能<a href="http://resources.zdnet.co.uk/articles/features/0,1000002000,39291080,00.htm">需要跨越的10大障碍</a>。微软名列榜首，<i>
+1.微软束缚了桌面：Windows统治了个人电脑市场，带来的后果是创新、弹性和自由选择的丧失。<br>
+2.运营商和国家之间的封闭和控制：不能平等的接触互联网同样会阻碍创新。<br>
+3.输入方法：键盘Qwerty有130年历史，鼠标、视窗、图标也都有35年了，我们需要更好的输入方法来代替旧法。<br>
+4.电池寿命：无论手机还是笔记本，电池只能支持几个小时。<br>
+5.对芯片速度过于沉迷：更快的处理器当然更好，但昂贵的新硬件并不比过时的硬件执行性能高出多少，比如两年前的运行Linux的和最新的安装Vista的电脑。<br>
+6.知识产权法律：每个人每天都在违法版权法。<br>
+7.技能不平等：多样性产生创新，但IT界女性太缺乏。<br>
+8.Web 2.0：泡沫正在酿成。<br>
+9.国家利益：技术需要全球化。<br>
+10.没有世界大战和大灾难：技术的最大推动力是战争。</i>

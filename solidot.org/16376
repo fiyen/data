@@ -1,0 +1,53 @@
+➜使用公共WIFI犹如“裸泳”
+https://www.solidot.org/story?sid=41708	10724
+<a href="/~mtjs">mtjs</a> 写道 "<a href="https://decorrespondent.nl/1101/What-we-give-away-when-we-log-on-to-a-public-Wi-Fi-network/31040493-53737dba" target="_blank">这篇文章</a>是一个多星期前看到的，我曾经犹豫过是否投递这个，因为这篇文章是写给“小白”看的，不过“there a lid for every pot （各花入各眼）”，说不定这篇文章就对你有用。本周三晚上欣赏了最新的“疑犯追踪”S4-E6（Person Of Interest），看到了 Harold 在香港活用雨伞的段子……， 看了这么多集的POI你对他们的技术手段，特别是手机信息窃取一定很眼熟，当然很大程度上是艺术化了，不过真实的技术是存在的，一位荷兰记者Maurits Martijn就亲身见证了黑客是如何获取身边陌生人个人信息的全过程：
+<i>阿姆斯特丹市中心，在一个阳光明媚的日子，记者M和一位作技术演示的
+黑客Wouter Slotboom随机的走进一家家咖啡店，黑客W随身携带了一部笔电和一个烟盒大小的无线设备，就利用这些，他们一次次的在公共场所提供的WIFI环境下获得周围人们的个人信息。
+</i>
+<p><i>&nbsp;情景1 - 虚假接入点：一家繁忙的咖啡馆，在向服务员要了2杯咖啡和无线WIFI密码后，W的活动正式开始，通过W带的烟盒大小的设备截获的咖啡店里的上网用户的信息在他的笔电屏幕上展示了出来，包括设备名称，过往成功连接的WIFI接入点，通过这些可以知道个人的日常生活路线，服务员端上了咖啡和写着公共WIFI密码的纸条，W连入了公共WIFI，W可以用设备将所有咖啡店里的上网信号转定向到他的设备上，因为无线设备优选上次成功接入的WIFI源，W已经知道了这些设备上次在哪接入，他可以伪造接入点名称诱骗设备。很快就有20多部手机、笔电上
+钩，W如果真想做什么，那就随便了。</i></p>
+<i>
+</i>
+<p><i>&nbsp;情景2 - 名字、密码、生活：在一家以艺术拿铁咖啡著称的咖啡馆，这里是自由职业者经常光顾的场所，W又开始类似上一家的行动，不多时
+，一连串设备MAC、接入点历史、设备主人姓名等信息汹涌而至，这一次应记者M的要求，W准备进一步行动，W开启了一个程序，可以提取连入设备
+的具体信息包括系统及版本信息，显示表明连入的咖啡店里的这些设备的系统都不是最新的，而W知道这些“老”系统的死穴，进一步的设备信息展示，揭示了个人的具体情报，包括这些人都在浏览什么，恰巧一个人正在登录，W获得了他的名字，Google了一下，发现该人就坐在离他
+们几英尺远。W发现一个iPhone 5s用户在手机上安装了gay约会应用并知道了机主姓名。他们还发现了一位女士，他们利用得到的名字Google了一下，在咖啡店里找到了她，通过获取的信息，他们得知这个姑娘出生于其他欧洲国家，最近来到荷兰，通过她的上网记录，得知她正在学荷兰语和荷兰国情课，喜欢练瑜伽，刚从泰国和老挝旅游回来，对维持住自己目前的恋爱关系十分在意……，W还演示了更改浏览者浏览的网页内容的技术，他把一位荷兰政客的名字用连环杀手的名字取代，测试成功，他还可以改变网页上的图片，诱骗浏览者下载，这可以
+被用来钓鱼执法，如果W诱骗浏览者下载的是儿童色情图片的话……&nbsp;</i></p>
+<i>
+</i>
+<p><i>现今的电子设备可以说是呆在你身边的双面间谍，即使你没有使用手机或笔电等设备在公共WIFI上网，你设备上的应用也会定时与网络联系，
+以保证应用的及时性，如电邮提示等，这些照样能够暴露你大量的个人信息，更别提一些流氓应用，本身就是个贼。即使你将智能手机关掉，
+最近刚结束的“<a href="http://2014.geekpwn.org/" target="_blank">中国顶级黑客“华山论剑” - GeekPwn(极棒)大会</a>”<a href="http://it.southcn.com/9/2014-10/25/content_110832411.htm" target="_blank">现场演示</a>了一位观众在关掉自己手机后，其说话内容也能被窃听。黑客W所
+使用的设备在网上就可买到，所使用的软件也可下载，易用性都有保障，只要你智力正常，W能做到的，你也能。&nbsp;</i></p>
+<i>
+</i>
+<p><i>看了这些你害怕了吗？下面是<a href="https://decorrespondent.nl/1103/How-to-safely-use-a-public-Wi-Fi-network/31096879-74f654ff" target="_blank">几点忠告</a>：</i></p>
+<i>
+</i>
+<p><i>&nbsp;1，不要使用公共WIFI,如果你坚持在线，可以使用3G或4G等手机网络信号。</i></p>
+<i>
+</i>
+<p><i>&nbsp;2，使用VPN，如果你一定要登录公共WIFI，这是唯一的安全选择，它将你的上网信号加密后连接到你的VPN主机上通过VPN主机上网，即便在
+公共场所被截获，黑客破解起来也很困难，VPN唯一的缺陷是你上网的速度要由VPN主机信号上传的速度来决定，这可能会让你的网络感觉上比
+较慢，不过相对于个人信息的泄漏，这应该是可以容忍的。</i></p>
+<i>
+</i>
+<p><i>&nbsp;3，将设备自动搜索WIFI的功能关掉，这就不用多说了吧。"</i></p>
+➜Github Gist 服务遭屏蔽
+https://www.solidot.org/story?sid=41709	12909
+匿名读者 写道<i> "Github 的 Gist 服务二级域名 <a href="https://gist.github.com/" target="_blank" title="gist.github.com/">gist.github.com</a>疑遭屏蔽，无法访问，Github主站不受影响。"</i>Gist是Github推出的一个粘贴文本代码的服务，可作为博客使用。
+➜OpenBSD 5.6发布
+https://www.solidot.org/story?sid=41710	42122
+OpenBSD 5.6按照计划表于11月1日<a target="_blank" href="http://www.openbsd.org/56.html"><u>正式发布</u></a>，发布主题曲是《<a target="_blank" href="http://www.openbsd.org/lyrics.html#56"><u>女武神的骑行（Ride of the Valkyries）</u></a>》。OpenBSD 5.6是第一个用LibreSSL替代OpenSSL的版本，除此之外，OpenBSD的基础系统还移除了sendmail，默认的邮件传输代理 (MTA)是smtpd ，安装程序不再支持FTP，网络安装只支持HTTP。BIND 域名服务器软件也被移除，替代它的是两个守护进程：用于权威DNS服务器的nsd(8)，以及递归解析DNS服务器的unbound(8) 。其它软件和桌面环境的<a target="_blank" href="http://www.openbsd.org/56.html"><u>更新包括</u></a>：OpenSSH 6.7，GNOME 3.12.2，KDE 4.13.3，Xfce 4.10，Mozilla Firefox 31.0，Vim 7.4.135，LLVM/Clang 3.5 ，等等。
+➜Kubuntu 15.04将基于KDE 5
+https://www.solidot.org/story?sid=41711	44450
+明年四月发布的Kubuntu 15.04将会默认采用最新发布的桌面环境KDE 5，其开发名字被定为Kubuntu Vivid。开发者<a href="https://blogs.kde.org/2014/10/29/kubuntu-vivid-bright-blue" target="_blank"><u>表示</u></a>，KDE Plasma 5已经展示了它是一个稳定而可靠的平台，是时候在世界舞台上亮相了。他们希望Plasma 5中缺少的一些功能能在未来六个月内填上。
+➜搜狗输入法悄悄推送浏览器
+https://www.solidot.org/story?sid=41712	46709
+国产软件的流氓化看起来已经蔚然成风，在安装到电脑之后，它们就不想再离开，甚至它们还想将同一家族的产品通过后台下载全部推送给你。搜狗输入法最近就被发现<a target="_blank" href="http://www.freebuf.com/tools/49546.html"><u>悄悄推送了搜狗浏览器</u></a>。一位用户用debugview分析了搜狗输入法，发现搜狗的做法和恶意程序几乎没有差别：先是连接云服务器，根据指令将安装包下载下来；然后创建随机目录把安装包放进去，比如把搜狗浏览器安装包放到360、百度或者迅雷的下载目录里，不管你电脑里有没有装这些软件；最后，搜狗输入法进程sogou.ime会下载远程控制的shellcode执行后选择时机去推广浏览器，通过PostMessageW发消息自动模拟点击下载好的浏览器，浏览器安装包也通过进程间通信隐藏了安装界面，所以用户在不知不觉中就会被安装上。如果一直盯着屏幕，你可能会看到电脑突然打开和关闭一个文件夹，然后就多了个搜狗浏览器。
+➜方滨兴被授予全球华语最具科幻创意发现发明奖
+https://www.solidot.org/story?sid=41713	57276
+<div align="center"><img src="http://img.solidot.com.cn/0/624/linTqfpYBWJCc.gif" height="259" width="560" align=""><br>
+<br>
+</div>
+前北邮校长、防火长城之父方滨兴被第五届全球华语科幻星云奖<a target="_blank" href="http://news.kehuan.net/201411/20141102211009.shtml"><u>授予了最具科幻创意发现发明奖金奖</u></a>。根据官方的说法，设立最具科幻创意发现发明奖是为了鼓励具有未来前瞻性的科技产品原创，该奖项是今年新设的。方滨兴获奖的原因就是其帮助创建的防火长城。尚不清楚方前校长有没有去领奖。

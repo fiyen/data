@@ -1,0 +1,24 @@
+➜MojoJson 发布 v1.2 版本
+https://www.solidot.org/story?sid=63234	15756
+<a href="https://github.com/scottcgi/MojoJson">代码搬运工</a> 写道<i> "<a href="https://github.com/scottcgi/MojoJson" target="_blank">MojoJson</a>（Github）是一个超级轻量级和超级快速的 JSON 解析器，准确的说是一个通用的 JSON 解析算法，可以被任何编程语言实现。目前提供了<a href="https://github.com/scottcgi/MojoJson/blob/master/MojoJson.cs" target="_blank"> C#</a> 的实现和 <a href="https://github.com/scottcgi/MojoJson/blob/master/Json.c" target="_blank">C </a>的实现，前者核心解析代码只有 400 行（不包括数据获取 API），后者只有 300 行（不包括基础数据结构）。
+<p>v1.2 版本优化了C#的实现，达到了无以复加的精快（就像叶问的咏春），并增加了 C 的实现版本，两种实现均无第三方依赖，一个文件导入任何项目，开启对 JSON 的数据掌控。</p>
+</i>
+<p><i>最后，MojoJson 执行 MIT License，无心智负担轻松使用。"</i></p>
+➜VVVVVV 公开源代码
+https://www.solidot.org/story?sid=63235	17083
+VVVVVV 作者 Terry Cavanagh 在游戏发布十周年之际<a href="http://distractionware.com/blog/2020/01/vvvvvv-is-now-open-source/" target="_blank"><u>宣布公开其源代码</u></a>，代码发布在 GitHub 上，采用 VVVVVV Source Code License v1.0 许可证，开源的是关卡和文字等，图形和音乐等素材没有开源，个人使用可以免费<a href="http://distractionware.com/blog/category/vvvvvv-make-and-play/" target="_blank"><u>获得素材</u></a>。VVVVVV 最初是一个 Flash 游戏，开源的代码包含了两个库，其一是 Simon Roth 在 2011 年用 C++ 重写的桌面移植版本，该版本后由 Ethan Lee 更新和维护；其二是用  Actionscript for Adobe AIR 写的移动版本。
+➜伊朗军方承认意外击落乌克兰客机
+https://www.solidot.org/story?sid=63236	22541
+伊朗国家电视台<a href="https://www.bbc.com/zhongwen/simp/world-51073948"><u>报道</u></a>，伊朗军方承认由于操作失误，意外击落了乌克兰航空一架客机。声明说，当时这架乌克兰航班在起飞后靠近伊朗革命卫队的一个敏感地点时因“人为失误”被击中。声明并说，那些责任者将被追究责任。美国、加拿大等西方国家领导人此前表示，有证据显示，乌克兰航空公司的波音客机可能错误地被地对空导弹击中。1 月 8 日，一架载有 176人 的乌克兰航空公司波音 737-800 NG 客机经乌克兰首都基辅飞往加拿大多伦多市，起飞后不久在德黑兰伊玛目霍梅尼国际机场附近坠毁无一生还。
+➜武汉病毒性肺炎致一人死亡
+https://www.solidot.org/story?sid=63237	23024
+武汉市卫生健康委发布最新<a href="http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109035"><u>通告</u></a>，称有一名患病者死亡，通告称：在“不明原因的病毒性肺炎”病原体初步判定为新型冠状病毒之后...武汉市卫生健康委组织对现有患者标本进行了检测，截至 2020 年 1 月 10 日 24 时，已完成病原核酸检测。国家、省市专家组对收入医院观察、治疗的患者临床表现、流行病学史、实验室检测结果等进行综合研判，初步诊断有新型冠状病毒感染的肺炎病例 41 例，其中已出院 2 例、重症 7 例、死亡 1 例，其余患者病情稳定。所有密切接触者 739 人，其中医务人员 419 人，均已接受医学观察，没有发现相关病例。”<a href="http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036" target="_blank"><u>死者为 61 岁的男性</u></a>，因呼吸衰竭、重症肺炎入院，同时患有腹部肿瘤及慢性肝病。该患者常年在武汉市华南海鲜市场采购货物。入院后给予对症支持、抗感染、呼吸机辅助呼吸、持续 ECMO 体外生命支持等治疗后，症状无好转，于 2020 年 1 月 9 日晚心跳停止，经抢救无效死亡。病原学检测结果提示新型冠状病毒核酸阳性。死亡诊断为重症肺炎，急性呼吸窘迫综合征（重度），脓毒性休克，多器官功能衰竭，严重酸碱代谢紊乱，肝硬化。直接死亡原因为呼吸循环衰竭。
+➜印度最高法院裁决克什米尔断网非法
+https://www.solidot.org/story?sid=63238	34579
+去年 8 月，印度人民党政府单方面取消了其控制的克什米尔邦的自治权，派遣军队去平息可能的骚乱，并切断了当地的互联网。至今克什米尔邦断网已超过 150 天，是目前印度持续时间最长的断网事件。印度政府辩解称，为防止煽动者煽动大规模抗议和可能的暴力活动断网是必要之举。但印度最高法院拒绝了政府的理由，<a href="https://arstechnica.com/tech-policy/2020/01/indian-supreme-court-finds-150-day-internet-blackout-in-kashmir-illegal/" target="_blank"><u>裁定断网违反了电信法</u></a>，法官 N.V. Ramana 称，自由访问互联网是一种基本权利。最高法院的裁决并不会使得克什米尔邦的互联网访问立即恢复，法庭给了政府一周的时间去修订政策，并要求政府在断网命令上更透明。
+➜亿航在美国测试无人驾驶飞行出租车
+https://www.solidot.org/story?sid=63239	48174
+中国无人机制造商亿航在美国的北卡罗莱纳州的一个活动上<a href="https://www.ehang.com/cn/news/604.html"><u>试飞了</u></a>它的载人自动驾驶飞行器亿航 216。亿航从 FAA 获得了飞行许可，这是它在美国的<a href="https://www.theverge.com/2020/1/8/21056956/ehang-air-taxi-first-flight-demo-pilot-electric-north-carolina-us-faa"><u>首次试飞</u></a>。北卡罗莱纳州州长 Roy Cooper 观看了试飞。<a href="https://www.ehang.com/cn/ehangaav"><u>亿航 216</u></a> 配备了 16 个电动马达，高 1.77 米，宽 5.61 米，最大载荷 220kg，最大起飞重量 600kg，最大巡航速度 130km/h。无人机主要是沿着预先设定好的路线飞行。
+➜深圳法庭裁决 AI 生成的文章受版权保护
+https://www.solidot.org/story?sid=63240	49944
+深圳南山法庭裁决，AI 生成的文章<a href="http://www.ecns.cn/news/2020-01-09/detail-ifzsqcrm6562963.shtml"><u>受到版权保护</u></a>。此案的原告是腾讯公司，被告是一家上海公司，腾讯指控被告未经授权拷贝了它的 AI 程序 Dreamwriter 生成的文章。法庭裁决被告侵犯了腾讯的版权，应当承担民事责任。法庭命令被告向腾讯赔偿 1500 元的经济损失。Dreamwriter 是腾讯在 2015 年开发的自动写作程序。本案涉及的是 2018 年 8 月 20 日发表的一篇金融报道，法庭认为文章的结构是合理的，逻辑是清晰的，具有一定的原创性。

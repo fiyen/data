@@ -1,0 +1,34 @@
+➜俄罗斯聊天机器人能以假乱真
+https://www.solidot.org/story?sid=4628	6300
+图灵曾提出一个关于机器人的著名判断原则：图灵测试（<a href="http://en.wikipedia.org/wiki/Turing_test">Turing Test</a>），如果一个人用任意一串问题去询问两个他不能看见的对象：一个是正常人；一个是机器，如经过若干询问后他不能区别两者，那么他就可以认为该机器已具备了人的“智能”。最近一家安全软件公司报道，俄罗斯的聊天机器人CyberLover成功的<a href="http://www.news.com/8301-13860_3-9831133-56.html">模仿一位喜欢调情的女性</a>，挑逗了多位俄罗斯男性，受害者无法区分机器人和真实的卖弄风骚的女性。它从他们那里获得个人和商业信息，平均每次仅仅用时3分钟。安全公司警告未来这个工具<a href="http://science.slashdot.org/article.pl?sid=07/12/09/1356201">可能会被黑客用作身份欺骗</a>。
+➜希捷硬盘怠慢Linux
+https://www.solidot.org/story?sid=4629	18000
+希捷最新推出的新硬盘Free Agent系列<a href="http://hardware.slashdot.org/article.pl?sid=07/12/09/0651200">与开源操作系统Linux不兼容</a>。Free Agent系列移动硬盘预先被格式化为NTFS格式，这对Linux用户来说并非是大问题，Linux新内核已经能够读NTFS文件格式，<a href="http://www.theinquirer.net/gb/inquirer/news/2007/12/06/seagate-snubs-linux">问题存在于“节能（power saving）”调节开关上</a>。当硬盘停止使用几分钟后，节能调节开关就会自动关闭和降低USB连接标准。当硬盘重新使用时，一开始的速度将是USB1，这显然有利于保护硬盘。节能设置在Windows下没问题，但在Linux和Mac下却都无效。希捷的技术支持建议更新驱动，可最新的驱动却又不支持Linux。这里有一个<a href="http://alienghic.livejournal.com/382903.html">解决方案</a>。
+➜Ruby on Rails 2.0发布
+https://www.solidot.org/story?sid=4630	19800
+Ruby on Rails 2.0已经发布，仅仅花了不到一年功夫，新版增加了许多新功能，最重要的更新在于REST API的完善。这篇<a href="http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done">发布公告</a>详细的谈了升级和安装方法，列举了令人感兴趣的新特色。这里<a href="http://rubyforge.org/frs/?group_id=307">下载</a>。
+➜基因让人们犯同样的错误
+https://www.solidot.org/story?sid=4631	21600
+《自然》杂志网站报道，大多数人会从错误中吸取教训，避免以后再犯同样的错误，但还是有一些人会重蹈覆辙。研究人员发现一个变异的基因能帮助分辨哪些人<a href="http://www.nature.com/news/2007/071206/full/news.2007.358.html">命中注定会不断的重复历史</a>。吸毒成瘾者、酗酒者和强迫性赌博者，他们身上比普通人更有可能拥有这种变异基因，它会导致大脑中某类受体减少。此类受体被称D2受体，当神经传递素多巴胺（dopamine，在大脑中负责反馈快乐的信号）水平下降时（也就是做出了错误决定或选择），D2受体会被激活，激励人们人们不要再作出相同的决定。D2受体减少的话，人们就可能不会从负面事件中吸取教训。
+➜在照片整理方面，狗与人类想法一样
+https://www.solidot.org/story?sid=4632	24600
+下次你把假日里拍的照片分类时，也许你的狗狗也能帮上忙。一项新研究显示，<a href="http://www.newscientist.com/article/mg19626333.900-picturesorting-dogs-show-humanlike-thought.html">狗对照片分类的方式与人类相似</a>，先前科学家认为只有鸟类和灵长类与人类相同。奥地利维也纳大学的研究人员训练狗识别照片和以狗为背景的图片，在试验开始阶段，四只狗面前同时展示一张风景照和一张狗照，如果它们选择后者，用爪子操作电脑触摸屏确认，它们会受到奖励。当狗熟悉了操作后，换上了它们不熟悉的风景照和狗照，但它们仍然能够正确分类出狗照。
+➜毛泽东稿酬累计达1.3亿
+https://www.solidot.org/story?sid=4633	26400
+近日《党史文苑》文章透露毛泽东的著作，以选集、文选、单行本、语录、诗词出版的稿酬、外文出版的版权费及稿酬累计加上利息，<a href="http://news.163.com/07/1210/04/3VAVKVG40001124J.html">共有1.3121亿元人民币</a>。
+<i>毛泽东曾批示将大部分稿酬上缴党费，但此举后来被“中央文革”卡住。中央表示毛泽东著作是全党集体智慧的结晶，稿酬不是留给江青和亲属的。江青曾先后5次声称她有权继承毛泽东的遗产，并提出要提取5000万元给两个女儿和亲属。但她的要求被拒绝了。李敏、李讷也申请过，也被婉拒了，其后由中办先后给她们二人拨下近200万元，购买住宅和留作家用。</i>
+曾经人手一本的红宝书，以及政府图书馆或自己购买的，这些算不算自产自销？
+➜Ubuntu最新更新可能导致桌面崩溃
+https://www.solidot.org/story?sid=4634	29100
+<a href="mailto:kzjeef@gmail.com">Anson</a> 写道<i> "12月5日更新的libcairo2这个包在部分CPU上导致X Windows的许多应用，如Firefox, Thunderbird等很多程序直接崩溃掉，显示的错误是:Floating point exception (core dumped)，问题似乎是和你安装的字体的有关，CJK字体容易出现这种情况。<br>
+如果已经出现这样的错误， 大家可以用一下命令来恢复：<br>
+sudo apt-get install libcairo2=1.4.10-1ubuntu4</i>
+目前还没有出现官方的更新来解决这个问题，更多的信息请访问<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=93410&amp;postdays=0&amp;postorder=asc&amp;start=0">ubuntu论坛</a>。"
+➜Solidot for Twitter
+https://www.solidot.org/story?sid=4635	30420
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 <i>"我在twitter上建立了一个账号<a href="http://twitter.com/solidot">solidot</a>。通过<a href="http://twitterfeed.com/">twitterfeed</a>，目前可以同步twitter上新发表的文章和用户日志。
+<br> <br>twitter用户可以Following这个帐号，即时获得solidot上的最新内容。
+<br> <br>只是目前没有合适的图片用作用户头像。"</i>
+➜诺基亚声称OGG格式不适合下一代web使用
+https://www.solidot.org/story?sid=4636	32400
+几个月前，W3C的一个工作组决定把开放标准Ogg/Theora+Vorbis格式包含在下一代HTML5 Web标准的推荐基线视频解码器之内。作为世界上主要的设备制造商，<a href="http://yro.slashdot.org/article.pl?sid=07/12/09/2045200">诺基亚试图让W3C取消这个决定</a>。他们递交了一个意见书，<a href="http://www.w3.org/2007/08/video/positions/Nokia.pdf">宣称OGG格式作为一个免费的、反专利技术的解码器</a>，对web和视频这两大互联网现有生态系统没有益处，诺基亚强调了支持DRM的重要性，他们推荐商业性的视频压缩技术如H.264和音频压缩技术如AAC。

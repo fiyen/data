@@ -1,0 +1,50 @@
+➜编译器后门与防御
+https://www.solidot.org/story?sid=44519	31120
+<a href="http://hardenedlinux.org">Shawn the R0ck</a> 写道 "<a target="_blank" href="https://www.alchemistowl.org/pocorgtfo/">PoC||GTFO</a>是最近几年深受0ld sch00l黑客喜爱的电子杂志，<a target="_blank" href="https://www.alchemistowl.org/pocorgtfo/pocorgtfo08.pdf">最近的一期（第8期）</a>里有一篇名为Deniable Backdoors Using Compiler Bugs（利用编译器Bug的可抵赖后门）的文章，作者向我们展示了一种可能的威胁，这个威胁模型是需要两个条件：1)一个可利用的编译器miscompilation bug； 2) 向目标的开源社区提交看起来不怎么像后门的patch。<a target="_blank" href="https://github.com/regehr/sudo-1.8.13/tree/compromise/backdoor-info">作者修改了Sudo 1.8.13的少量代码</a>去利用Clang/LLVM 3.3的一个bug，最终导致提权。相比<a target="_blank" href="http://c2.com/cgi/wiki?TheKenThompsonHack">传统的编译器后门</a>和传统软件后门（比<a target="_blank" href="https://freedom-to-tinker.com/blog/felten/the-linux-backdoor-attempt-of-2003/">如疑似NSA对Linux内核代码的植入</a>），这种方式更加的隐蔽，因为它是针对特定版本的编译器下手。<i>
+<p>作者也对自由软件社区的不同角色给出了对于这种后门植入的<a target="_blank" href="http://blog.regehr.org/archives/1241">防御性建议</a>：</p>
+编译器开发者
+<ul>
+<li>* 优先修复miscompilation bugs
+</li>
+<li>* 考虑miscompilation bug针对维护版本的backport修复
+</li>
+<li>* 使用fuzz工具（文章中提到了<a target="_blank" href="https://embed.cs.utah.edu/csmith/">Csmith</a>和<a target="_blank" href="http://lcamtuf.coredump.cx/afl/">afl</a>）</li></ul>
+开源包的维护人员
+<ul>
+<li>* 谨慎的接收代码提交
+</li>
+<li>* 考虑重新实现一些patch
+</li></ul>
+GNU/Linux发行版打包人员
+<ul>
+<li>* 评估编译器的可靠性</li>
+<li>* 在所有的平台上测试编译的程序后再进行部署
+</li>
+<li>* 对系统编译器进行<a target="_blank" href="http://www.dwheeler.com/trusting-trust/">"trusting trust"测试</a></li></ul>
+终端用户
+<ul>
+<li>* 使用不同的编译器或者编译器版本对源代码进行重新编译
+</li>
+<li>* 对预编译的程序进行你自己定制的测试（比如针对某些程序功能的回归测试）
+</li></ul>
+研究人员
+<ul>
+<li>* 开发可被证明对这种利用方式免疫的编译器
+</li>
+<li>* 开发可检测miscompilation的验证模式
+</li>
+<li>* 开发可检测后门执行的多版本编程系统"
+</li></ul>
+</i>
+➜苹果爱Taylor Swift
+https://www.solidot.org/story?sid=44520	31831
+在Taylor Swift在她的Tumblr博客上发表致苹果公司的公开信《<a target="_blank" href="http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor"><u>To Apple, Love Taylor</u></a>》后，苹果宣布<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/06/150622_us_taylor_swift_apple"><u>将采纳Swift的意见</u></a>。Taylor Swift在她的公开信中对苹果流音乐服务Apple Music提供三个月免费试用服务表达了不满，称“我不清楚你们知不知道Apple Music这三个月内不会给作曲家、制作人或歌手付任何费用。”她形容计划“不公平”，认为苹果有财力负担成本，“三个月是一个很长的时间，要任何人无酬工作是一件不公的事情。”苹果高级副总裁Eddy Cue表示，Apple Music在试用期内会向音乐人付费。Swift对此表示欣慰。
+➜中国黑客获得美国政府网络管理员权限
+https://www.solidot.org/story?sid=44521	32633
+美国情报机构对几个中国黑客团体进行了五年多的跟踪。这些黑客一直在系统性地从国防承包商、能源企业和电子制造商获取信息；他们的目标会随北京的经济侧重点变化而变化。但据一项了解联邦调查的知情人士表示，去年夏天，由于一些黑客再次改变关注点，导致美国跟丢了目标。这位知情人士称，黑客深入到了包含大量工作人员数据的美国政府计算机系统。入侵者隐形匿迹了将近一年，发动了一次复杂的攻击，<a target="_blank" href="http://cn.nytimes.com/usa/20150622/c22breach/"><u>窃取了联邦人事局计算机系统的管理员权限</u></a>。这些黑客构建了一个通向中国的电子管道，然后开始抽取大量数据。黑客的终极目标是填写过SF-86表格的100万名左右联邦雇员和承包商。这些表格被储存在另一个计算机数据库，包含所有安全许可申请人的个人、财务和医疗记录等细节信息。“这是一场典型的间谍活动，只是对于一个夙敌而言，这种规模我们前所未见，”一名高级行政官员表示。
+➜中国企业投资美国研发中心
+https://www.solidot.org/story?sid=44522	33615
+中国企业大量向美国研究实验室投资，正催生专利的迅速增长。中国希望从美国获得创意，帮助中国从世界工厂向创新的推动者转型。十年前美国研究中心基本看不到中国企业的身影。过去三年，中国企业有至少一名美国研究人员参与的专利发明每年约增长一倍，在2014年达到910项。此外，中国企业利用德国与日本研究人员取得的专利数量也出现急剧增长。汤森路透的<a target="_blank" href="http://cn.reuters.com/article/2015/06/22/china-us-innovation-idCNKBS0P20F920150622?sp=true"><u>分析显示</u></a>，很多高质量发明都是由美国研究人员做出的，如华为的一项处理光纤信号的美国专利，被101项发明引用。华为在美国有六个研发中心。美国州政府和地方政府已成立数十个办公室竞相吸引来自中国的资金，“我们不跟中国做航空航天或者国防生意，”马里兰州政府负责吸引亚洲投资的Bradley Gillenwater说，“但生物科技却是一个大生意。”
+➜Odyssey火星探测器绕轨60000圈
+https://www.solidot.org/story?sid=44523	39018
+<a href="mailto:atlantishulin@gmail.com">atlantishulin</a> 写道<i> "NASA的Odyssey（奥德赛）火星探测器将在6月23日累计<a href="http://www.nasa.gov/press-release/veteran-nasa-spacecraft-nears-60000th-lap-around-mars-no-pit-stops" target="_blank">环绕火星60000圈</a>。由畅销小说“2001: A Space Odyssey”得名的<a href="https://en.wikipedia.org/?title=2001_Mars_Odyssey" target="_blank">火星探测器Odyssey</a>于2001年4月7日在佛罗里达州卡纳维拉尔角空军基地发射升空，并于当年10月23日进入火星轨道。Odyssey早在2010年12月15日成为在火星服役时间最长的轨道探测器。利用伽玛射线和中子探测器，Odyssey的主要科学发现始于其进入轨道的最初几个月——在高纬度的火星地表下存在着冰水；超期服役使Odyssey能够绘制高分辨率的火星全球地图，观测季节性的变化等。其后，作为NASA火星漫游车的中继卫星，Odyssey为Opportunity漫游者向地球传送了其90%的数据；未来将安排Odyssey为2016年抵达火星的NASA与ESA的地表探测器中继数据。Odyssey的各项子系统都运行良好；并且有足够的燃料能继续运行十年之久。"</i>

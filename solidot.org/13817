@@ -1,0 +1,112 @@
+➜电视剧背后的数学
+https://www.solidot.org/story?sid=4282	1860
+bladerunner 写道 "CBS的连续剧<a href="http://www.cbs.com/primetime/numb3rs/">Numb3rs</a>已经放到了Season 4，除了原先就有的东北大学数学系的<a href="http://www.atsweb.neu.edu/math/cp/blog/">numb3rs blog</a>，Wolfram Research也和CBS合作，建立了<a href="http://numb3rs.wolfram.com/">The math behind numb3rs</a>。值得一提的是，虽然numb3rs每集都出现天才和教授，但是最具科学精神的似乎是Fox那位古怪的<a href="http://www.fox.com/house/">House医生</a>——最近的戏中，为了验证死亡并不美好，他自己捅了电门。"
+➜汇编编译器nasm恢复更新
+https://www.solidot.org/story?sid=4283	1980
+<a href="http://solidot.org/~konit/">konit</a> 写道 "今天发现<a href="http://nasm.sourceforge.net/">nasm</a>恢复更新有一段时间了。最新的开发版本为0.99.05，对64位指令提供了支持。nasm是一个开源的80x86及x86-64汇编语言编译器，支持生成多种操作系统的可执行文件，LGPL授权发布。该项目曾经停滞过很长一段时间，并因此衍生出另一个BSD授权发布的汇编语言编译器<a href="http://www.tortall.net/projects/yasm/">Yasm</a>，现在两个新老项目在开发上是并驾齐驱了，也许会是个有趣的良性竞争。"
+➜语义网成为主流
+https://www.solidot.org/story?sid=4284	7200
+现代人的日常工作被来自四面八方的信息淹没了：电子邮件、搜索、日历、笔记、电子表格、文档、说明书....有效的管理和组织信息显得颇为艰难。<a href="http://www.technologyreview.com/Infotech/19627/?a=f">语义网是最近一个很热门的话题</a>，人们熟悉的标签就具有语义网（<a href="http://zh.wikipedia.org/wiki/%E8%AF%AD%E4%B9%89%E7%BD%91">Semantic Web</a>）的元素，标签创造了可被搜索的有用的元数据。<i>
+标签或书签提供了一种将无序数据整理归类的方法，但还是过于简单。一家美国公司Radar Networks，创造了一个免费的基于web的工具，唤作<a href="http://www.twine.com/">Twine</a>，可更好的管理各种信息。Twine是一个可以让用户塞入重要数据的网站，如电子邮件和YouTube视频。如果用户愿意的话，它会自动保存所有访问的网页，收到或发送的邮件，等等。当Twine拥有了一些数据后，它会开始分析并进行分类。之后，用户想搜索什么，会很快连接到相关信息。它使用了现在流行的社交网络元素，利用所谓的”集体智慧“。这当然是一种更强大的语义网络。Twine的开发者声称能为用户提供更智能更高效的管理方法。</i>
+➜华为辞退万人，企业“无奈”应对
+https://www.solidot.org/story?sid=4285	12000
+<a href="http://reversethis-moc.liamgtadaeryb.lyrrah/">kcome</a> 写道 "Donews报道:华为公司最近出台了这样一条举措，所有工作满八年的华为员工，在2008年元旦之前，<a href="http://www.donews.com/Content/200710/d366fcfc04484f7ca3e906fb5e6651b4.shtm">都要先后办理主动辞职手续</a>，即先“主动辞职”、再“竞业上岗”，重新与公司签订1-3年的劳动合同。在英美等先发市场经济国家，目前劳动关系主要形式是劳方与资方签订自由的劳动合同，资方可以自由地解雇劳方、而劳方也可以自由离职。"
+<i>
+此举引起了广泛的关注，一般的看法是，华为此举意在规避即将于2008年1月1日起实施的新《劳动合同法》有关规定。该法第十四条规定：劳动者在满足 “已在用人单位连续工作满十年的”或“连续订立二次固定期限劳动合同”等条件后，便可以与用人单位订立“无固定期限劳动合同”，成为永久员工。也就是说，只要这类员工没有严重的违纪行为，企业就不能解雇他们，那么只要这家企业不倒闭，员工从此就捧上了“铁饭碗”。</i>
+➜自由的汉字！对话文泉驿项目创始人房骞骞
+https://www.solidot.org/story?sid=4281	13500
+Linux的老用户们一定还记得当年装完Linux后汉化，安装字体的痛苦。"偷偷"拷贝SimSun，修改font.dir等。自由软件的爱好者们，苦于没有一款真正“自由的”字体。拷贝版权不明了的字体，面对把汉化Linux作为自己专利的Linux中文发行厂商，缺乏一个开源的汉字字库成为热爱中文，崇尚自由软件的电脑爱好者们心中的一个隐痛。而现在，我们有了文泉驿项目，她已经成为了我和朋友电脑中Linux的缺省中文字体了。恰逢文泉驿项目三周年之际，solidot有幸采访了文泉驿项目创始人房骞骞（下文FaiF为笔者本人，“房”为文泉驿项目创始人房骞骞）......           <br> <span style="font-weight: bold;">
+Faif: “房骞骞您好，非常高兴你接受我的采访。请问你是处于怎样的一个机缘开始创立文泉驿项目的呢？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“我最早接触Linux是在1997年，当时的Linux发行版的硬件支持和中文环境都很不完善，很大程度上，那时候安装和使用Linux更主要的是为了满足自己的好奇心。到国外学习之后我开始比较频繁地使用Unix和Linux，特别是到2004年，我决定使用Linux作为自己的桌面系统，以便更好地利用学校提供的数学软件资源。然而随之而来的是不完备和模糊的汉字显示带来的不便(中文由于笔画较多，矢量字体经过FreeType2的反走样处理后，笔画特别模糊，几乎无法正常阅读)。由于当时我在阅读和改进一个wiki脚本的源代码，考虑到中文字库—特别是点阵字库—匮乏的现状，我突然萌发了使用wiki的协同编辑方式来开发开源点阵字体的想法。于是经过几天努力，一个简陋的网站面世了。当时的网络空间和流量都很有限，2005年1月我在sourceforge上正式注册了项目，然后将部分浏览和下载转移到sourceforge上，这种状况一直持续到现在。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“请您谈一谈文泉驿现在取得的成果。”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“从2004年10月到2005年4月，我们完成了台湾志愿者firefly点阵字库没有包含的5000多个CJK基本汉字(共15000多个新点阵)，优化改进了上万firefly点阵，完成了完整覆盖GBK标准汉字的多规格点阵中文字库(包含四个字号，两个字体风格)；从2005年6月到今年年初，我们相继发布了文泉驿点阵宋体字库从文泉半两(v0.5)到嬴政(v0.8)四个版本的点阵字体。该字库现已进入Fedora,
+Debian, Ubuntu, Mandriva等众多较有影响力的发行版的官方软件仓库。<br>
+<div style="direction: ltr;">
+<br>
+2005年4月到2006年7月，我们又继续完成了Unicode
+CJK扩展A区的6800多个汉字四个常用字号的点阵绘制，这部分汉字点阵以及最近完成的国家标准字型规范化的成果，我们将在即将推出点阵宋体v1.0的测试版中提供用户使用。<br>
+<br>
+2005年年初，我们同时开启了矢量字体(即曲线字体)的制作工作，采用了独特而高效的制作软件和方法。经过两年多的努力，我们完成了CJK基本字型超过20000个汉字的笔画序列分解工作，为开发各种风格的矢量字型奠定了基础。<br>
+<br>
+2007年9月，我们发布了文泉驿正黑体，成为第一个完整覆盖简／繁／日韩基本汉字的开源黑体字型。”
+</div>
+<br> <span style="font-weight: bold;">
+Faif：“我还记得2004年你在老牌linux论坛linuxforum.net上发布这一消息时（</span> <a href="http://www.linuxforum.net/forum/showflat.php?Cat=&amp;Board=chinese&amp;Number=522460&amp;page=&amp;view=&amp;sb=&amp;o=&amp;vc=1" title="原帖链接">原帖链接</a> <span style="font-weight: bold;">
+）大家都很受鼓舞，但是同样有担心，这个项目的工作量不小，能不能够坚持下去。你能不能说说在这三年来项目中遇到过什么困难？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“这个项目当中我遇到的第一个困难是如何说服中文社区的用户参与、使用和关注开源汉字的开发。版权意识的薄弱和开源字体的匮乏使得很多中文用户从Windows系统中拷贝使用未经授权的中文字体。而这种拿来主义的盛行使得中文Linux用户开发意识相对薄弱，对使用盗版字体集体缄默，或者推波助澜；甚至有一些喜爱汉字的朋友在这些盗版字体的基础上进行二次开发，把自己的工作建立在没有版权基础的空中楼阁之上。尽管现在我们已经有不错的开源字体方案，但仍然有部分用户沉溺于显摆使用未经授权字体的所谓“美化”效果。这种风气仍然在腐蚀着中文社区的开发意识。<br>
+<div style="direction: ltr;">
+<br>
+中文字体开发是一个工作量大，而同时也需要技术性和艺术性的综合性创作。建立一个人人都可参与的汉字开发环境，需要开发工具具有良好的容错性，简洁的操作和完善的文档。在Wiki的基础上，我们完成了点阵和矢量字体的开发界面，编写了较为完整的文档说明，可以说，文泉驿的字体开发具有很低的门坎，即使是普通用户，也可以有机会切身参与，感受这种通过自己的劳动来改变现状的开发者的乐趣。”
+</div>
+<br> <span style="font-weight: bold;">
+Faif：“您相对现在文泉驿开发团队，已经想加入文泉驿项目的人各自说些什么？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“对于那些长期为文泉驿奉献自己的精力和时间的朋友，我想说，能与大家并肩作战，我很荣幸。我很感谢大家对我的信任，我们的团队和我们正在完成的工作一样，都是独一无二的。<br>
+<br>
+<div style="direction: ltr;">
+对于那些捐助和偶尔参与的朋友，我真诚感谢大家的支持，希望我们通过大家共同的努力，为中文社区做一件实实在在的工作，并为改变中文社区的现状继续努力。<br>
+<br>
+对于希望为开源中文贡献一份力量但不知如何入手的朋友们，我想告诉大家，参与开源开发不仅仅是拥有计算机技术的朋友的专利，普通用户也可以以各种方式成为其中的一个分子：您可以帮助编写文档，提供用户反馈，共享使用当中的技巧，或者在您的朋友当中推广开源字体，另外还可以通过捐款帮助这个计划更加健康长久地成长。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“能不能谈谈您自己现在的情况（专业）？利用业余时间从事开源项目觉得辛苦呢，如何安排时间？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“在现实当中，我是一个医学成像领域的科研人员，我目前在哈佛医学院做博士后，现在是第三年。我正在考虑我在科研领域下一步的发展计划。<br>
+<div style="direction: ltr;">
+<br>
+2004年年底从Dartmouth学院毕业到现在，我现在的科研工作几乎与文泉驿的发展是同步的。我的科研项目与文泉驿的工作一样，具有很大的挑战性，所以我在两个方面都是全力以付，保持自己最大的工作热情。对文泉驿的开发工作一般我放在晚上和周末，而平常的主要时间还是认真做科研。当然，有时科研进展不顺利的时候，我也会有一段时间把兴趣转移到文泉驿上，这样放松一下自己的大脑，帮助自己重新审视问题。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“我们觉得文泉驿版本的代号都很有意思，例如 “文泉半两”，“嬴政”， “英雄(文泉一两)” ，“紫箫”
+等等。“嬴政”听起来有点“天下同文”的野心和气势。请问这些代号是怎么确定的呢？各自有什么涵义呢？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“国外软件开发中有一些有趣的惯例，为程序的开发版本起一个小名就是其中的一个。通过使用这些名称，开发者对软件的发展进行管理规划，同时称呼起来比一个版本数字更具人性化。文泉驿的字体和各升级版我都会在开发开始的时候定一个名称，在文档和与开发者交流过程当中方便引用。这些名称有一定的随意性，但我希望尽量保持中文特点，朴素但有一些传统特色。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“您对文泉驿项目将来的发展有什么设想？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“尽管中文开源字体在台湾的Firefly，旅台的Arne
+Götje(CJKUnifonts计划的维护人)和文泉驿过去几年的努力得到了很大改进，但仍然仅限制于基本中文支持，字体的种类，风格都还相当有限(仅包括宋体，楷体，现在有了文泉驿的黑体)。字型和绘制风格在很多情况下还没有完全统一。我想现在的一个主要任务是按照国家规范和国际通行的标准，使字型尽量规范化，同时尽量完整覆盖国家标准和国际标准编码的汉字。这方面还需要很多严谨细致的工作。同时，我们将通过矢量字体计划丰富字体风格，制作圆体，线体，美工字体甚至书法字体。<br>
+<div style="direction: ltr;">
+<br>
+字体显示技术已经成为了优化桌面视觉效果的一个核心问题。复杂的结构使得中文字体显示比西文更具有挑战性。在利用现有的字体技术(如hinting/autohinting)来优化屏幕显示方面，开源中文字体与商业字体还有一定的差距。这些方面我们还需要更多拥有技术背景的朋友参加进来。<br>
+<br>
+文泉驿的wiki已经具备较为完善的中文字体制作功能，包括了版本控制，管理员审核机制以及当日自动编译等等功能。我希望能够将这些功能扩展到非中文字体的制作，使得文泉驿wiki成为一个以web为基础的在线字体编辑制作工具(目标是web版的fontforge)，形成自己鲜明的特色，并让这个项目更好地融入国际自由软件开发的大环境。<br>
+<br>
+除了字体之外，我还希望通过这个中文计划，涉足其他一些中文电子资源的开发，比如开发版权明晰的开源词库，汉字识别程序等等，这些工作我希望在今后合适的时候提到议事日程。”
+</div>
+<br> <span style="font-weight: bold;">
+Faif：“能不能说说您的学习和生活经历。有什么爱好？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“我以前兴趣非常广泛，喜欢写字、画画、集邮、航模、登山旅游，中学喜欢踢球和传统文化，大学开始喜欢计算机和数学建模。后来在计算机上花费的时间越来越多，原有的兴趣尽管热情依旧，但时间慢慢减小。今年年初，自从买了数码单反之后，我开始迷恋上摄影，现在每周我会花不少时间拍照和整理照片，并且学习摄影和布光技巧。我希望能够慢慢减少坐在计算机前面的时间，为自己发现一些新的兴趣点。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“你还想对solidot的读者说些什么？”</span> <br>
+<br> <span style="font-weight: bold;">
+房：</span>“solidot和slashdot都是我经常光顾的网站，我从中读到很多有趣的新闻和讨论；我也曾在solidot上张贴文泉驿字体的发布动态。作为自由软件新闻发布的一线网站，我希望solidot能够更加及时全面地反映自由软件的前沿信息，成为用户获取开源中文软件最新动态的一个源泉。另外，我希望看到更多对中文开源软件现状和发展更为深入的讨论，对自由软件进行全面公正的测评，并对中文开源项目进行宣传。”<br>
+<br> <span style="font-weight: bold;">
+Faif：“非常感谢房骞骞接受我的采访，如果大家对本此采访感兴趣，可以直接访问文泉驿项目网站（</span> <a href="http://wenq.org/" title="http://wenq.org/">http://wenq.org/</a> <span style="font-weight: bold;">
+），或房骞骞个人</span> <a href="http://bbs.dartmouth.edu/~fangq/blog/index.cgi" title="博客（主页）">博客（主页</a> <span style="font-weight: bold;">）
+。”</span> <br> </div> </div>
+➜GPL诉讼尘埃落定
+https://www.solidot.org/story?sid=4286	14400
+<a href="http://blog.tuxfans.com/">windrose</a> 写道 "美国第一宗针对侵犯GPL的官司，经历了一波三折（<a href="__SLASHLINK__" sect="opensource" sid="07/09/21/0310225" sn="article" tid="6">1</a>，<a href="__SLASHLINK__" sect="opensource" sid="07/09/25/0225222" sn="article" tid="6">2</a>，<a href="__SLASHLINK__" sect="opensource" sid="07/09/26/0748239" sn="article" tid="44">3</a>），终于以和解收场了。<i>
+代理BusyBox提起诉讼的SFLC<a href="http://www.softwarefreedom.org/news/2007/oct/30/busybox-monsoon-settlement/">宣布</a>与被告Monsoon Media达成了撤诉协议，协议的主要内容包括：Monsoon同意在公司内部指派专人(Open Source Compliance Officer)来监督和保障其符合GPL的要求；在公司网站上发布其使用的Busybox版本的源代码；采取实质性的行动告知之前的产品用户GPL赋予他们的权利。协议还包括了不予公开的一定数额的赔偿金。"</i>
+➜偷走100多台笔记本的神偷
+https://www.solidot.org/story?sid=4287	21600
+Eric Almly，一位在美国各地周游的惯偷，经常假装成公司职员进入办公地点，<a href="http://tech.blorge.com/Structure:%20/2007/10/29/laptop-thief-steals-130-laptops/">成功的偷窃了至少130台笔记本电脑</a>，并通过eBay销赃。<i>这位胆大窃贼的典型做法是：跟随在公司员工后面混进需要刷卡的安全门，等下班后无人的时候就去拿笔记本电脑放在包里带出去。虽然在这过程中他经常碰到其他人，但这位面带微笑从容不迫面不改色的小偷都能成功的混出去。返回到租金高达1800美元/月的海边公寓，他会格式化硬盘，然后在互联网上出售。<a href="http://myworld.ebay.com/laptopdlr55/">他的eBay帐号</a>好评率高达99.4%。他访问过著名公司有FedEx和Burger King。他的末日审判者不是某位警惕的职工，而正是他偷的笔记本。今年4月他从Outback公司总部卷走了11台笔记本，其中9台安装了安全软件，当被偷的笔记本重新连接到互联网时，软件会把被偷笔记本的实际地址通告失主。</i>据统计美国仅在2004年就有200万台笔记本被偷，其中97%没有找回。
+➜OpenDocument基金会放弃支持ODF
+https://www.solidot.org/story?sid=4288	25200
+<a href="http://www.opendocumentfoundation.us/">OpenDocument基金会</a>是一个推行通用文档格式的组织，成立于5年前，并不控制与它同名的ODF(Open Document Format)标准。曾经的支持者OpenDocument基金会<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9044723&amp;intsrc=hm_list">现在宣布放弃支持ODF</a>，转而支持W3C推出的<a href="http://www.w3.org/2004/CDF/">CDF</a>（Compound Document Format）标准。OpenDocument基金会的商业事务主管Sam Hiser几周前在blog上公布了这一消息。Sam Hiser相信CDF能更好的兼容微软的OOXML格式，他说基金会对ODF去年以来的发展方向很失望。<a href="http://slashdot.org/article.pl?sid=07/10/30/2113200">微软肯定很开心</a>。
+➜科学家试验用辣椒素作术后止痛剂
+https://www.solidot.org/story?sid=4289	30600
+咬一口辣椒，会让你的舌头麻半天。《巴尔的摩太阳报》报道，辣椒中产生灼热感的辣椒素，被直接滴在手术后的创口上，利用辣椒素带来的麻木感，<a href="http://science.slashdot.org/article.pl?sid=07/10/30/196215">让病人在手术后感觉不到伤口的疼痛</a>。结果是病人不再需要过多的会带来副效应的止痛药，如吗啡。<i>病痛学专家Eske Aasvang博士说，“我们想要利用辣椒素带来的麻痹感。”
+辣椒素起作用的是一种叫TRPV-1的C纤维，神经末端会产生持久的疼痛和颤动感。
+有数百位经历各种不同手术的患者参与了试验，包括膝盖和臂部复原手术，辣椒素经过了消毒净化以避免感染。处于麻痹感下的志愿者确实感受不到手术后疼痛。</i>
+➜Google将在周四发布社交网站OpenSocial
+https://www.solidot.org/story?sid=4290	32700
+<a href="http://www.techcrunch.com/2007/10/30/details-revealed-google-opensocial-to-be-common-apis-for-building-social-apps/">Google将在周四</a>（11月1日）发布挑战Facebook的社交性网站<a href="http://code.google.com/apis/opensocial">OpenSocial</a>(网址要到周四才有效)。OpenSocial也提供了一套API让开发者创建各种应用。与Facebook不同的是，Google允许开发者使用自己熟悉的JAVA和HTML语言，Facebook则必须是FBML，这意味着这些代码只在Facebook里有用。而OpenSocial的开发者则可以利用现有的代码。OpenSocial的合作者分成两类：合办方（Hosts）和开发方（developers），合办方包括了Orkut、Salesforce, LinkedIn, Ning, Hi5, Plaxo, Friendster、Viadeo和Oracle。开发方包括Flixster，iLike，RockYou和 Slide。
+<a href="http://www.techcrunch.com/wp-content/OpenSocial_PressOnePager.pdf">OpenSocial新闻稿</a>（PDF）,<a href="http://www.techcrunch.com/2007/10/31/google-opensocial-image-gallery/">截图</a>。
+➜Youtube复活
+https://www.solidot.org/story?sid=4291	34800
+<a href="http://www.youtube.com/">Youtube</a>再次复活，难道是Google在Youtube杀手<a href="http://www.hulu.com/">Hulu.com</a>上线之际加强了公关？还是其它原因？

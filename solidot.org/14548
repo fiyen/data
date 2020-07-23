@@ -1,0 +1,45 @@
+➜代理软件易屏蔽是其特性
+https://www.solidot.org/story?sid=14433	60
+代理软件开发者<a href="http://wwww.peacefire.org/">Bennett Haselton</a>（顺便推荐一个<a href="https://www.stupidcensorship.com/cgi-bin/nph-surf.cgi">代理网站</a>）做了<a href="http://yro.slashdot.org/article.pl?sid=09/10/26/1241238">一个简单的试验</a>，利用自编的Perl脚本，和Windows自带的"<a href="nhttp:wwwmicrosoftcomresourcesdocumentationwindowsxpallproddocsen-usnetstatmspxmfrtrue">netstat</a>"工具抓取本地运行的程序连接到外部的IP地址列表，然后用<a href="http://technet.microsoft.com/en-us/library/bb490922.aspx">ipseccmd</a>将这些IP地址加入到防火墙黑名单中，脚本仅仅运行一个晚上，便成功的将一款极为受欢迎的匿名代理软件所有IP地址全都封杀掉。这项试验证明了现在已经众所周知的秘密：大多数代理软件都很容易遭到封锁。但Bennett认为，这并不是软件的缺陷，恰恰相反，这正是它们的特性，它的成功就与容易封锁息息相关。这儿并不自相矛盾，以该软件为例，它使用了一个包含数千外部IP地址的列表，软件每个月更新一次，更换IP地址列表，当防火墙屏蔽了某一版本所用的IP地址后，用户可以使用该软件的最新版本或旧的但还有效的版本绕过屏蔽。要封杀所有IP地址几乎是一件不可能的事（有人认为，当IPv6普及之后，IP地址数量以数量级增加，到时防火墙将会千疮百孔）。           UltraSurf是一个受欢迎的规避互联网审查的软件，如伊朗等专制国家的网络过滤，以及美国这样的自由国家中学校和工作场所等实行的简单屏蔽。当你在计算机上运行UltraSurf，网络通信就会经过UltraSurf控制的外部IP地址中转，它就像是一位超然的观察员，你连接到的是UltraSurf的IP地址，而不是被屏蔽的YouTube或Facebook网站。
+<br> <br>
+UltraSurf使用一个有数千外部IP地址组成的列表，找到所有的地址并屏蔽之，看起来很难但其实非常容易，尤其是对于有政府背景的审查机构。但是这并不说明UltraSurf一无是处，事实上它以及类似的程序可以流行很多年，因为审查员显然有其它的优先任务要完成（过于乐观了）。
+<br> <br>
+Bennett称代理软件有两类，其一是Self-bootstrappin，软件运行后能自动与外部建立连接通道，此类软件包括UltraSurf和Tor；其二是Non-self-bootstrapping，软件的运行需要外界的帮助，处于审查国家的用户需要得到非审查国家用户的协助才能穿过防火墙，典型的软件是<a href="http://psiphon.ca/">Psiphon</a>，Tor网桥也有几分类似。<br> <br>
+Bennett在测试时发现，UltraSurf通过SSL隧道频繁连接到www.google.com，UltraSurf显然是通过托管在Google.com上的文档为软件提供IP地址名单（Bennett没有逆向工程）。Bennett对UltraSurf感到困惑的一点是，它甚至没有使用复杂的算法去隐藏它连接的IP地址，因此新版本的设计和build都完全一样，这或许是为了保持较小的体积、易于使用以及免费等因素的折中结果。但从另一方面说，当负责审查的人安装了最新版软件之后，他们可以轻松的发现连接的IP地址，然后加以封杀。这不是UltraReach的错，实际上这个问题真的很难解决。
+➜Firefox 3.6 Beta 1发布
+https://www.solidot.org/story?sid=14434	4320
+Mozilla已经发布了<a href="http://www.osnews.com/story/22416/Firefox_3_6_Beta_1_Brings_Windows_7_Integration">Firefox 3.6的首个beta版本</a>，最引入注目的功能是与Windows 7新任务栏的整合，也就是说Windows 7用户将鼠标指向任务栏的Firefox 3.6时，能预览标签的内容。<i>
+此外，当用户使用ctrl+tab快捷键切换标签也能进行预览，但这一功能默认关闭，需要在about:config中选择browser.ctrlTab.previews然后把值设为true。除此之外，新标签还能显示“Show all n tabs”的选项，它将打开一个带搜索的固定窗口，去搜寻已打开的标签。Firefox 3.6注重于用户体验方面的改进，使用Gecko 1.9.2引擎。</i>
+<a href="ftp://ftp.mozilla.org/pub/firefox/releases/3.6b1/">下载</a>：<a href="ftp://ftp.mozilla.org/pub/firefox/releases/3.6b1/win32/zh-CN/Firefox%20Setup%203.6%20Beta%201.exe">Win版</a>(简体中文)，<a href="ftp://ftp.mozilla.org/pub/firefox/releases/3.6b1/linux-i686/zh-CN/firefox-3.6b1.tar.bz2">Linux版</a>，<a href="ftp://ftp.mozilla.org/pub/firefox/releases/3.6b1/mac/zh-CN/Firefox%203.6%20Beta%201.dmg">OSX版</a>
+➜钱学森去世，享年98岁
+https://www.solidot.org/story?sid=14435	22800
+空气动力学家，中国科学院、中国工程院院士、JPL创始人之一的<a href="http://zh.wikipedia.org/wiki/%E9%92%B1%E5%AD%A6%E6%A3%AE">钱学森教授</a>于10月31日8时6分在北京<a href="http://news.xinhuanet.com/politics/2009-10/31/content_12365104.htm">去世</a>，享年98岁。<i>
+钱学森生于1911年12月11日，1934年毕业于交通大学，1936年获得MIT硕士学位，1939年获得加州理工学院博士学位，1943年担任加州理工学院喷气推进实验室（JPL）的喷气研究组组长，二战结束时曾参与调查德国火箭开发情况，1947年升为MIT教授，并担任JPL主任，同年申请加入美国国籍。1950-1955年，美国麦卡锡主义盛行，钱学森被禁止接触机密工作。1955年10月钱学森回国，并在中国火箭、导弹和航天技术发展上有过杰出贡献，是两弹一星功勋奖章获得者之一。在1958年，钱学森曾在《中国青年报》上刊文论证“<a href="http://i175.photobucket.com/albums/w154/dajusha/News%20comments/75330876ab7.jpg">粮食亩产可以达到万斤</a>”。</i>
+➜计算机服务公司建议用户静等Windows 7 SP1
+https://www.solidot.org/story?sid=14436	24960
+计算机服务公司Rescuecom建议用户等微软解决掉Windows 7的bug后<a href="http://tech.slashdot.org/story/09/10/30/2148214/Wait-For-Windows-7-SP1-Support-Firm-Warns-Users">再考虑迁移到新操作系统上</a>。Rescuecom总裁Josh Kaplan称，从他们收到的呼叫服务，以及根据以往处理微软操作系统的经验，他们认为微软的新系统需要在经历时间检验，清扫掉小毛小病之后，才能信任。贸然使用最新版操作系统可能面临数据丢失，时间白白损耗等等风险。Kaplan鼓励Windows用户不要升级到Windows 7，或者购买预装Windows 7的新电脑，尤其是在他们还没有完整备份旧电脑上数据之前。最近就有许多用户报告升级失败后出现<a href="__SLASHLINK__" sect="it" sid="09/10/29/0829213" sn="article" tid="53">不停重启问题</a>，微软目前也没有提出解决方法。
+➜Erik Meijer讲解函数编程
+https://www.solidot.org/story?sid=14437	26700
+Microsoft SQL Server、Visual Studio和.NET Framework架构师Erik Meijer正在微软Channel 9网站<a href="http://channel9.msdn.com/shows/Going%20Deep/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1/">讲解函数编程</a>，共13集，第一集在两周内就有<a href="http://www.iis.sinica.edu.tw/~scm/ncs/2009/10/erik-meijer-%E5%9C%A8-channel-9-%E8%AC%9B%E6%8E%88%E5%87%BD%E6%95%B8%E7%B7%A8%E7%A8%8B/">十万次点击</a>。过去两年，函数编程正越来越引人关注，甚至Visual Studio也引入了一个新的函数语言F#。Erik Meijer的研究领域是<a href="http://zh.wikipedia.org/wiki/Haskell">Haskell</a>函数编程语言，这一系列视频也是通过Haskell来讲解函数编程基础原理。
+➜雅虎开源Traffic Server
+https://www.solidot.org/story?sid=14438	28080
+雅虎已经<a href="http://blog.gslin.org/archives/2009/10/30/2133/">公布了Traffic Server的源代码</a>。
+<i>
+Traffic Server是Inktomi的产品，是一套高效的HTTP Proxy/Caching服务器，据说很早就支持多处理器(而流行的开源缓存服务器<a href="http://www.squid-cache.org/">Squid</a>至今还不行)，Inktomi后在2001年网络泡沫时代被雅虎收购。雅虎购买它的本意是想在搜索领域大展拳脚，然而恰在此时雅虎获得了一款免费的proxy/caching产品，于是Traffic Server就被束之高搁，无人问津，除了原始开发者、少数客户知道之外。几年之后，一些雅虎工程师发现了这个被人遗忘的产品，决定尝试一下，结果发现它的性能仍足以令人敬畏。现在Traffic Server以<a href="http://cwiki.apache.org/confluence/display/TS/Index">Apache Incubator Project</a>的名义<a href="http://www.mnot.net/blog/2009/10/30/traffic_server">发布了源代码</a>，代码托管在<a href="http://subversion.tigris.org/">Subversion</a>上。目前的版本在强劲的机器上能跑出35k reqs/sec。</i>
+➜NASA战神上天
+https://www.solidot.org/story?sid=14439	30600
+发射时间多次推迟的NASA战神一号（Ares IX）火箭于美国东部时间28日11时30分在佛罗里达州卡纳维尔角<a href="http://www.nasa.gov/mission_pages/constellation/ares/flighttests/aresIx/index.html">顺利升空</a>。<i>
+战神一号是NASA用于取代航天飞机的新一代火箭，并担负着重返月球的使命，因此首次测试飞行极其引入注目，最初计划是在27日早晨8点发射，后推迟一天到28日早晨，最终发射时间是28日中午。火箭高327英尺（大约100米，全球最高），能产生296万磅推力，在起飞8秒内就能达到100mph。整个测试飞行共经历2分半钟，降落伞带着火箭坠落在大西洋。NASA回收团队从海中捞回了火箭，结果发现火箭外表<a href="http://www.space.com/missionlaunches/091029-ares-1x-big-dent.html">有严重凹陷</a>。NASA检查之后，发现原本应该在火箭落海时，发挥缓冲作用的三具降落伞里面，有两具故障，不过NASA<a href="http://tw.news.yahoo.com/article/url/d/a/091031/1/1u202.html">表示</a>，这枚测试火箭原本也没有打算重复使用，这个小瑕疵并不影响这次试飞的成果。</i>
+<a href="http://www.boston.com/bigpicture/2009/10/launch_of_the_ares_ix.html">波士顿Big Picture上的发射大图</a>。
+➜尼安德特人曾和现代人有过杂交
+https://www.solidot.org/story?sid=14440	44700
+利用化石中残留的DNA，在分析了<a href="http://zh.wikipedia.org/zh-hans/%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA">尼安德特人</a>完整基因组之后，Max Planck进化人类学学院的Svante Paabo教授相信，<a href="http://science.slashdot.org/story/09/10/27/1853237/Neanderthals-Had-Sex-With-Modern-Man">尼安德特人曾和现代人有过跨物种性交</a>。<i>
+现代人大约是在4万年前走出非洲抵达欧洲，此时尼安德特人已经广泛存在于欧洲和西亚。两个不同的物种共存了大约1万到1万2千年，其后尼安德特人销声匿迹。一个不断被人提起的问题是：两个种族是否有过交往？Paabo教授表示他确信两个种族有过杂交。随之而来的另一个问题则是他们是否有“后代”？这些“后代”对现代人有何影响？另一位研究人类起源的专家Chris Stringer教授认为，尼安德特人和现代人有过后代，但这些后代的生育能力将不会太高，这类似公马和母驴交配产下的骡。</i>
+➜SkyDrive Explorer：Live SkyDrive扩展工具
+https://www.solidot.org/story?sid=14442	49800
+匿名读者 写道<i> "Microsoft SkyDrive 服务为 Live 用户提供了多达 25GB 的存储空间，但是其上传管理功能却十分简陋，并不太好用，尤其是在进行批处理操作时。而 SkyDrive Explorer 则是一款为了满足 SkyDrive 管理应用的免费 Windows Explorer 扩展工具。通过 SkyDrive Explorer，使用者可以直接在 Windows Explorer 中操作存储在 Microsoft Live SkyDrive™ 上的各种文件，就像操作本地磁盘一样。而且，你并不需要安装配置任何附加程序或 ActiveX 组件，SkyDrive Explorer 会自动管理在线存储。所以，这是一款对 SkyDrive 用户十分有帮助的小软件。详情请参阅 “<a href="http://www.iusesoft.info/2009/10/30/skydrive-explorer-is-free-to-manage-files-on-windows-live-skydrive/">这篇文章</a>，SkyDrive Explorer官网点击<a href="http://skydriveexplorer.com/index.php">这里</a>。"</i>
+➜古代社会中发现不平等的“银勺”效应
+https://www.solidot.org/story?sid=14441	50400
+人们常把生于巨富之家的孩子叫“含着银勺出生”，而“银勺”效应便是指财富一代代的传递下去，财富的继承助长了社会中的不平等。加州大学戴维斯分校的人类学家Monique Borgerhoff Mulder教授领导的一个国际研究小组<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-10/aaft-ttw102609.php">发现</a>，<a href="http://www.news.ucdavis.edu/search/news_detail.lasso?id=9291">“银勺”效应存在于古代社会</a>，如原始的狩猎采集社会、畜牧及农耕社会。<a href="http://www.sciencemag.org/cgi/content/abstract/326/5953/682">报告</a>发表在最新一期的《科学》杂志上。
+<i>
+研究人员把财富分成三类，“关系性”（基于社会网络结构）、“物质性”（基于社会网络结构）和“具体化”（基于身体或智力能力），其中将物质财富视作最有价值的社会是最不平等的社会，而物质财富也比社会关系和智慧更容易的继承下去。Borgerhoff Mulder指出，当一个社会中，关系和知识重要性甚于物质财富的重要性，将会削弱下一代继承上一代的财富，从而有机会使社会更平等，但这要依赖于社会中占优势的制度和规则。研究人员推测，在未来基于知识的经济中，财富重要性以及由此而造成的经济上的不平等都可能会减少。</i>

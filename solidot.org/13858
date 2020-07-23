@@ -1,0 +1,55 @@
+➜北京奥运会将启用智能视频监视系统
+https://www.solidot.org/story?sid=4637	300
+当2008年北京奥运会大幕正式开启时，组织者将使用智能计算机系统扫描街道视频，<a href="http://www.nytimes.com/idg/IDG_002570DE00740E18002573A9007A49A5.html?ex=1354683600&amp;en=e991061bf11b2f3e&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">寻找任何可疑的情况</a>，从故意捣乱者到恐怖分子。这套由IBM设计的系统，正式名称是Smart Surveillance System或者叫S3，使用分析工具索引数字录像，当<a href="http://www.research.ibm.com/peoplevision/index.html">观察到某一特定模式</a>，它会实时发出警告。它会通知安全官员有人进入了安全区域或跟踪到汽车进出停车场。系统能从过去发生事件里寻找可被用于现在安全策略的模式，识别潜在的攻击。IBM的安全和保密服务副总裁Julie Donahue表示，北京的S3网络已经开始部署，预计到2008年8月奥运会开幕前正式运作。北京官员称，恐怖分子经常利用奥运会这样的重大事件，来吸引国际社会的关注，以达到自己不可告人的目的。明年恐怖主义事件将成为最高安全关注目标。IBM也正在为曼哈顿下城（Lower Manhattan）开发类似的监控系统，但还没开始部署。
+➜《银翼杀手》最终剪辑版到底有何新貌？
+https://www.solidot.org/story?sid=4638	900
+大导演Ridley Scott的科幻名作《银翼杀手》原始版上映走过了25年。最新的《银翼杀手 最终剪辑版》也已发布，那么<a href="http://slashdot.org/article.pl?sid=07/12/09/2342255">新版到底有何变化</a>？它只是修修补补来抢钱的工具吗？它是否值得粉丝等待？ SFFMedia<a href="http://sffmedia.com/content/view/156/1/">详细描述了新版的每一个变化</a>，认为这是一个有很大诚意的对旧版精心雕琢、打磨和完善的版本。<i>
+最终剪辑版最大变化是结局清晰的指出“Deckard(哈里森福特扮演)和Rachel一样，是一位复制人。他就是Nexus 7。”其它的变动包括利用最新的技术提高画面效果和音效，特效被更新和重塑，2019年的洛杉矶变得更为逼真。采用5.1 Dolby数字坏绕声道，音效也比旧版更好。对白经过了修改和补上缺陷，额外的胶片让整部影片视觉效果更引人。这并不说整部电影不再有缺陷，比如同为复制人，Deckard却没有其他复制人那样强大，电影没有给出合理的答案。</i>
+Ridley Scott曾经在威尼斯电影节上声称科幻电影流派已死，也许这就是为何他不去创造一部新的科幻电影，而仅仅只是润色下旧版的原因。
+➜Firefox与Opera将支持ogg视频格式
+https://www.solidot.org/story?sid=4639	5400
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "Firefox与Opera都<a href="http://news.yahoo.com/s/infoworld/20071207/tc_infoworld/93898">表示</a>要在自己的浏览器中支持ogg视频格式。
+<i>两个浏览器都计划支持一个新的HTML标签，这样就可以像在浏览器中显示图片一样，不需要安装额外的插件就可以直接播放视频。为此，Firefox与Opera都看好ogg视频格式。因为ogg是一个开放标准，开发者不必支付专利费，这也符合HTML的规范和精神。（HTML就是开源的呀）当然反对的声音也很多，例如<a href="__SLASHLINK__" sect="internet" sid="07/12/10/0851259" sn="article" tid="89">诺基亚</a>。
+</i>
+Firefox 3.0还不会加入这个功能，但是会在将来的更新中加入；而Opera在上个月已经发布了一个测试版，支持视频标签和ogg。"
+➜Ubuntu中文社区发布USB版本
+https://www.solidot.org/story?sid=4640	6600
+<a href="http://forum.ubuntu.org.cn/">匿名读者</a> 写道 "Ubuntu中文USB7.10版，支持直接在U盘上运行Ubuntu系统。支持从硬盘启动U盘上的Ubuntu系统，支持安装Ubuntu系统到本地硬盘，支持XPE系统(需要手工复制XPE文件系统)，支持FreeDos启动。详细过程如下：
+"           1 版权：<br>遵循GPL V2版权<br> <br>2 制作：<br>本系统基于Ubuntu7.10系统。<br>Ubuntu中文社区： <a href="http://forum.ubuntu.org.cn/">http://forum.ubuntu.org.cn/</a>，Hiweed： <a href="http://www.hiweed.com/">http://www.hiweed.com/</a>。<br> <br>
+3 介绍：<br>. 支持直接在U盘上运行Ubuntu系统<br>. 支持从硬盘启动U盘上的Ubuntu系统<br>. 支持安装Ubuntu系统到本地硬盘<br>. 支持XPE系统(需要手工复制XPE文件系统)<br>. 支持FreeDos启动<br> <br>4 说明：<br>. 系统采用4G的优盘或者储存卡制作。<br>. 引导采用siblo(syslinux)引导，高度兼容usb(hdd)启动，也支持系统强制为usb(fdd)的引导方式。<br>. 引导分区为主分区，采用fat16格式，保留了32个扇区给引导使用，总共300M。<br>. Linux分区也为主分区，采用reiserfs格式，总共3.6G。其中有80M的交换分区，采用交换文件设计，为/分区的wapfile文件。可用剩余空间为900M。<br>. 系统默认帐号为: ubuntu 密码: ubuntu 。<br> <br>5 XPE支持：<br>. 下载 “老九WinPE 老毛桃最终撒手不管版07.09.11” 的XPE系统为 BootCD.ISO<br>. 使用解压缩软件打开iso文件，解压缩根目录下的WINNT.XPE文件到U盘fat16分区的根目录。<br>. 使用解压缩软件打开iso文件，解压缩WXPE目录下的NTDETECT.COM和SETUPLDR.BIN文件到U盘fat16分区的根目录。<br>. 使用解压缩软件打开iso文件，解压缩整个MINIPE目录到U盘fat16分区的根目录。<br>最终，U盘fat16分区的根目录下有WINNT.XPE、NTDETECT.COM和SETUPLDR.BIN三个文件，同时有MINIPE的目录，MINIPE目录下会有OP.WIM、WINPE.INI和WINPE.IS_三个文件）<br>启动时选择Winxpe启动即可。<br> <br>6 硬盘启动Ubuntu支持：<br>. 复制U盘fat16分区的vmlinuz、initrd.img、grldr、menu.lst、grub.exe到硬盘启动分区的根目录，通常复制到C:\<br>. 如果系统为XP或者Win2K以上版本，修改硬盘启动分区根目录的boot.ini（可能为只读或隐藏）文件，在文件最后增加一行 \grldr=grub 保存后 ，重启选择grub启动，再选择Ubuntu就可以进入了。<br>. 如果系统为Win98或者Win95以下版本(含DOS)，修改硬盘启动分区根目录的config.sys文件，在文件最后增加一行 device=grub.exe 保存后 ，重启，再选择Ubuntu就可以进入了。<br> <br>7 Ubuntu中文预装软件：<br>. 中文桌面环境，内置scim输入法<br>. 基本编译环境，支持GNU C++ 4.1.2编译<br>. 安装Sun Java SDK 6，版本： 1.6.0_03-b05<br>. 删除Open Office，代替为永中Office2007最新版<br>. 删除Evolution，代替为Thunderbird轻量级邮件收发软件<br>. 安装Adobe Reader 8.11 中文版<br>. 安装Skype 最新版，支持视频和音频<br>. 安装netbeans6，安装C/C++/J2EE/J2SE/UML插件<br>. 预装多媒体解码包w32codecs、mplayer和mencoder，支持mp3/ogg/wma/wmv/rmvb/mov/divx/xvid/h264等几乎所有多媒体格式的播放和格式之间的转化。gstreamer引擎也已经安装常用解码器。<br>. Firefox预装adblock插件<br> <br>详情参见： <a href="http://forum.ubuntu.org.cn/viewtopic.php?t=94025">http://forum.ubuntu.org.cn/viewtopic.php?t=94025</a>
+➜第12部《时光之轮》续写者已经选出
+https://www.solidot.org/story?sid=4641	9900
+奇幻作家Robert Jordan没有完成最后一部（第12部）<a href="__SLASHLINK__" sect="books" sid="07/09/17/060250" sn="article" tid="51">《时光之轮》系列就去世了</a>，他留下了许多笔记和音频材料，谁来续写最后一部是个大大的问题。<a href="http://www.dragonmount.com/News/?p=326">现在续写者已敲定为Brandon Sanderson</a>。Brandon Sanderson是一位颇有名望的科幻奇幻后起之秀，才30多岁。他的第一部小说是《诸神之城：伊岚翠》，2005年出版后就获得Romantic Times奇幻大奖，之后他陆续推出了《Mistborn》三部曲。Jordan的遗孀就是在读过Mistborn系列后，<a href="http://slashdot.org/article.pl?sid=07/12/10/1752244">决定选择他作续写者</a>的。
+➜寡妇留给中餐馆老板二千一百万美元
+https://www.solidot.org/story?sid=4642	19800
+一位富有的寡妇为了报答她经常光顾的盛情款待她的中餐馆主人，而<a href="http://www.chron.com/disp/story.mpl/bizarre/5361080.html">在遗嘱里留给他们二千一百万美元</a>。英国高等法院于上周作出判决：她的决定是合法的。1994年Golda Bechal表示要让伦敦东北部一家中餐馆老板Kim Sing Man和他的妻子Bee Lian继承她的遗产，她在2004年去世，享年88岁。Bechal的五位侄子侄女要求法院让遗嘱作废，声称他们的姑妈有老年痴呆症。但法官Donald Rattee接受了饭店主人的证词：这位寡妇在她的丈夫和儿子去世后很孤独，与他们在一起后渐渐变得像是他们家庭中的一分子，他们经常一起外出度假，有规律的到餐馆和她的公寓里聚餐。
+➜戈尔领取诺贝尔和平奖（与IPCC一起）
+https://www.solidot.org/story?sid=4643	23400
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道 "<a href="http://news.google.com/?ncl=1124548846&amp;hl=en">挪威，奥斯陆时间12月10日</a>，戈尔(Al Gore)和政府间气候变化工作组(IPCC)一同获得<a href="http://edition.cnn.com/2007/WORLD/europe/12/10/gore.nobel/?iref=mpstoryview">诺贝尔和平奖的颁奖</a>。
+<i>在颁奖感言中，戈尔赞赏了欧盟和日本对气候变化所做出的努力，同时指出未来全球气候和环境的命脉，更加取决于中国和美国的政策。
+<br>戈尔本人对中国和美国的气候/环境政策目前持强烈的斥责态度。"</i>
+➜具有电网负载平衡功能的电动汽车
+https://www.solidot.org/story?sid=4644	24000
+油价已经接近每桶100美元，但是新的技术会让人们慢慢遗忘那些黑色的化学原料。Delaware大学开发出一种汽车原型，它除了使用电力外，还能<a href="http://www.sciencedaily.com/releases/2007/12/071203133532.htm">依靠提供和储存有效的电力产生收入</a>。<i>
+发电站产生的电力上网之后就会在电网上流动，寻找可能缺口，大部分电力都在流动中白白的消耗掉。Delaware大学研究人员创造了一套名为<a href="http://www.udel.edu/V2G/">V2G</a>（Vehicle to Grid Power）—汽车到电网的系统，关键部分是蓄电池，汽车连接到电网上后， 电力就可以在蓄电池和电线之间交替流动。当汽车处于V2G状态中，电池可以根据需要充电或上传电能，有时候是储存多余的电能，有时候则由于外部电力消耗过大而提供电能。V2G汽车的电池像海绵一样提供有效电力，如同百万计的发电站平衡电网负荷。科学家估计这项服务每年至多可获得4000美元的收益，部分支付给驾驶员。这项技术需要大规模的使用才能产生效果。
+</i>
+➜Linux占据PC低端市场
+https://www.solidot.org/story?sid=4645	27000
+OLPC，ASUS Eee UMPC，Classmate PC等等，市场上出现了许多价格低于500美元的电脑，多数都采用开源操作系统Linux。目前存在一个明显的现象：在低端PC领域，<a href="http://www.desktoplinux.com/news/NS2414535067.html">Linux正在快速增长</a>。免费的操作系统，免费桌面办公软件，免费或廉价 “软件即服务”在线应用程序，正在开辟一个新的微软无法竞争的新市场。但是微软会拼命的对抗这一趋势，它会把一些产品的价格降低到它大出血的地步。而Windows XP逗留的时间已经超过了微软的预计。不过这种情况始终无法在中国出现，即便有人购买了低价笔记本如ASUS Eee，他还是会装上XP（精简版），当然是盗版的。
+➜十款免费的Linux 3D游戏
+https://www.solidot.org/story?sid=4646	28800
+Linux用户可玩到3D游戏远远不如Windows，但其中不乏精品，这里列出了<a href="http://gamesuy.blogspot.com/2007/12/top-10-free-linux-3d-games.html">十款免费的Linux 3D游戏</a>，大部分属于跨平台游戏，运行无需“Wine”。许多都非常知名了，也早就<a href="__SLASHLINK__" sect="linux" sid="07/05/26/1026208" sn="article" tid="7">介绍</a>过，如美国陆军，Tremulous，Tux Racer，Nexuiz，Alien Arena 2007。此外还有：<i>
+<a href="http://www.truecombatelite.net/">TrueCombat: Elite</a>：《Wolfenstein: Enemy Territory；重返德军总部：敌战区》的修改版，FPS类；<br>
+<a href="http://torcs.sourceforge.net/">The Open Racing Car Simulator</a>：开源汽车模拟竞速类游戏 ；<br>
+<a href="http://fretsonfire.sourceforge.net/">Frets On Fire</a>，音乐游戏，有点类似《吉他英雄》；<br>
+<a href="http://www.scorched3d.co.uk/">Scorched 3D</a>：使用火炮或者坦克摧毁敌人的炮兵游戏；<br>
+<a href="http://maniadrive.raydium.org/">ManiaDrive</a>：赛车游戏，可编辑赛道。</i>
+➜网络审查违反WTO规则？
+https://www.solidot.org/story?sid=4647	29700
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "路透社<a href="http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSN1049432320071210">报道</a>说，一家叫做加利福尼亚第一修正案联盟的组织发表了一份<a href="http://www.cfac.org/content/index.php/cfac-news/index/">声明</a>，要求美国的贸易官员向中国的互联网审查说“不”。他们认为这违反了全球贸易规则。 如果美国贸易代表办公室接受了这个案子，将造成美中贸易关系更为紧张。
+<i>这个组织的成员包括了yahoo和google等网络公司。该组织认为，中国的互联网审查牵涉到言论自由和人身自由这个最根本的问题；对于中美的商贸往来也是一个重大的障碍。
+<br>今天是中国加入WTO六周年。明天开始有一个为期两天的<a href="http://news.xinhuanet.com/newscenter/2007-11/29/content_7167771.htm">中美战略经济对话</a>。"</i>
+➜能在水上跳跃的机器人
+https://www.solidot.org/story?sid=4648	32100
+在水上行走对人类来说那是奇迹和神话，但对水黾（water strider）而言则是小事一桩，它还能在水上跳跃。科学家多年前就发现了水黾在水上行走的秘密：这种昆虫用它长长的腿来均匀分配身体的重量。体重被分散到非常大面积之上，因此水的表面张力能够支撑昆虫的躯体。但是科学家一直无法理解水黾在水面上跳跃时却不会浸入到水下，<a href="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2007/12/07/sciwater107.xml">直到现在</a>。韩国的一组科学家发现了原因并开发出一个能够<a href="http://hardware.slashdot.org/article.pl?sid=07/12/10/1555258">在水上跳跃的机器人</a>。
+<a href="http://link.brightcove.com/services/link/bcpid1137692013/bclid1155306408/bctid1335882656">演示视频</a>。

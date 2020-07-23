@@ -1,0 +1,54 @@
+➜Hypnotic：JavaScript的同步sleep（）
+https://www.solidot.org/story?sid=37498	7317
+<a href="http://coolwanglu.github.io/">Lu Wang</a> 写道<i> "JavaScript是单线程，事件驱动的语言。可以说这是一个特性：我们从不用担心原子操作，加锁解锁，同步之类的线程安全问题。但是同时这也是一个很大缺点： JavaScript里没有sleep（）函数。简单的延时可以直接写一个循环，但是JavaScript 解释器会被一直占用，导致不能处理外部事件。 真正的延时只能用setTimeout（）函数，这使得长期以来JavaScript开发者不得不以异步的方式编程。异步编程在某些情况下会很好用，比如处理UI事件，或者处理IO，但是如果程序涉及到时序和交互的逻辑，情况就麻烦了很多。 有时候Promise模式可以叫人缓口气，但它治标不治本，在含有循环，分支，异常等情况下，Promise也帮不上多大忙。现在我们终于有了Hypnotic。这是一个JavaScript库，或者说机制，实现了sleep（）函数，让广大JavaScript程序员得以解放。当然这肯定不是busy-wait，如果你想了解详情，或者觉得根本不可能，还请围观<a target="_blank" href="http://coolwanglu.github.io/hypnotic/web/demo.html">demo</a>。这里就先不剧透原理了。"</i>
+➜工信部发放TD-LTE牌照
+https://www.solidot.org/story?sid=37499	9535
+工信部周三向中国移动、联通和电信<a target="_blank" href="http://cn.wsj.com/gb/20131205/bch074158.asp"><u>发放了4G牌照</u></a>，但只限于TD-LTE技术，而不是更流行的<a target="_blank" href="http://en.wikipedia.org/wiki/Frequency_division_duplexing#Frequency-division_duplexing"><u>LTE-FDD</u></a>技术。中国电信和中国联通均表示，打算在未来申请LTE-FDD技术4G牌照。虽然日本、印度等一些国家采用TD-LTE技术作为4G标准，但全球最受欢迎的智能手机厂商大多才刚开始生产支持TD-LTE标准的智能手机。中国发放的4G牌照加大了未来大量手机产品推出以支持这一4G标准的可能性。苹果最新发布的iPhone 5S和5C都有支持TD-LTE的版本，TD-LTE牌照的发放为中国移动发售iPhone扫清了道路。
+➜Valve加入Linux基金会
+https://www.solidot.org/story?sid=37500	11705
+在正式发布基于Linux的SteamOS前夕，Valve<a target="_blank" href="http://www.linuxfoundation.org/news-media/announcements/2013/12/cloudius-systems-hsa-foundation-and-valve-join-linux-foundation"><u>加入了Linux基金会</u></a>，同时加入的还有虚拟化技术公司Cloudius Systems和HSA (Heterogeneous System Architecture)基金会。Linux基金会会员有三个等级：白金、金级和银级。Valve的会员等级为银级，年费大约在5千到2万美元之间，索尼、NVIDIA和Twitter都属于银级。Valve计划在明年初发布Steam主机。Valve的Mike Sartain说，加入基金会是他们对Linux游戏平台进行投资的方式之一，通过为开发者创造更好的Linux开发体验，促使硬件制造商优先考虑Linux平台，最终向Linux消费者提供一种第一流的开放的平台。
+➜NSA每天收集50亿条手机位置数据
+https://www.solidot.org/story?sid=37501	13854
+《华盛顿邮报》<a target="_blank" href="http://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldwide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_print.html">报导</a>，据前NSA合同工Edward Snowden泄漏的机密文件和对美国情报官员的采访，NSA每天都在跟踪全世界的手机位置，每日收集约50亿条记录。NSA以以前被认为不可想象的方式跟踪个人的行踪，绘制出手机用户之间的关系。根据美国的法律，NSA不允许收集美国人手机位置数据，但它在收集国外手机数据时会“偶然的、非故意的”获得大量美国人手机位置信息，因为每年有大量美国人到国外旅游，而NSA监视的某些网络也被美国移动运营商使用。
+➜中国打算在月球上建造军事基地？
+https://www.solidot.org/story?sid=37502	16196
+台湾媒体<a target="_blank" href="http://www.wantchinatimes.com/news-subclass-cnt.aspx?cid=1101&amp;MainCatID=11&amp;id=20131203000106">引用</a>一位未指明的中国国家航天局月球探索计划专家的话称，月球是地球唯一的一颗天然卫星，它能变成一种致命武器，就像《星球大战》中的死星，月球可以成为一个军事基地，发射导弹打击地球上的任何目标。美国在1950 年代曾有类似在月球建造军事基地的计划“<a target="_blank" href="http://voices.yahoo.com/project-horizon-plan-build-military-base-on-12210372.html?cat=15"><u>Project Horizon</u></a>”，这项计划被放弃是因为它代价昂贵，而月球上发射导弹实际上需要几天时间才能抵达地球目标。
+➜最古老人类DNA含有丹尼索瓦人线索
+https://www.solidot.org/story?sid=37503	19163
+考古遗传学家Svante Pääbo过去四年一直在追踪一种已灭绝的古老人类种族丹尼索瓦人，它在东南亚人身上留下了遗传痕迹，因此Pääbo估计能在中国等地发现的古代人残骸上发现丹尼索瓦人的DNA，结果却是一无所获。出乎意料的是，他们却在欧洲的西班牙<a target="_blank" href="http://news.sciencemag.org/biology/2013/12/oldest-human-dna-contains-clues-mysterious-species"><u>找到了丹尼索瓦人的DNA</u></a>。Pääbo的团队测序了在Sima de los Huesos发现的已知最古老人类DNA——从约30万到40万年前的大腿骨上提取出的近乎完整的线粒体基因组（mtDNA）。<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12788.html"><u>论文</u></a>发表在《自然》期刊上。为了分析和提取如此古老的DNA，研究人员开发出新的方法测序最短只有35到45碱基对的DNA单链。至于为何能在距离西伯利亚7500公里的原尼安德特人地区发现丹尼索瓦人的DNA，科学家提出了一些解释：当地原始人与早期丹尼索瓦人杂交，继承了其 mtDNA；丹尼索瓦人的mtDNA实际上来自一种更古老的人类种族，该种族是丹尼索瓦人和原尼安德特人的共同祖先。
+➜上诉法院法官对API是否不受版权保护存有疑问
+https://www.solidot.org/story?sid=37504	26615
+Google去年<a target="_blank" href="http://www.solidot.org/story?sid=29867"><u>赢得了</u></a>与甲骨文的Java版权纠纷案，审理此案的法官William Alsup裁决Java API不受版权保护，因为API就像是图书馆里的藏书，其组织形式是没有版权的。甲骨文在今年初提起上诉。根据昨天的口头辩护，上诉法院三位法官组成的合议庭<a target="_blank" href="http://arstechnica.com/tech-policy/2013/12/googles-copyright-win-against-oracle-is-in-danger-on-appeal/"><u>可能倾向于甲骨文一方</u></a>。联邦巡回上诉法院法官Kathleen O'Malley说，Java可以自由使用，并不意味着代码不能被版权保护。
+➜电动车车主用学校的电源插座充电，被控偷电
+https://www.solidot.org/story?sid=37505	28056
+美国亚特兰大的一位男子因为未经许可用学校的电源插座为电动汽车充电，被控偷电<a target="_blank" href="http://arstechnica.com/information-technology/2013/12/charged-with-theft-man-arrested-for-plugging-car-into-schools-outlet/"><u>而在家中被捕</u></a>。Kaveh Kamooneh的儿子在Chamblee中学练习网球，他用学校的外接电源插座给自己的日产聆风全电动车充电。片刻之后，他注意到有人在检查他的汽车，发现此人是当地的一位警官，“他通知我他准备逮捕我，或至少指控我偷电。”Kamooneh说，他的汽车每小时大约消耗一度电，每小时电费大约为8到9美分。他充了不到20分钟的电，换算成电费不到5美分。Chamblee警局的警官表示，小偷就是小偷，表示会逮捕任何未经同意给汽车充电的人。Kamooneh计划抗辩这项犯罪指控，认为是选择性执法。他说，没有记录显示有人会因为喝了水龙头的水而被捕，人们总是用公共电源插槽给笔记本或手机充电，没有人因此被捕。
+➜奥巴马继续用黑莓
+https://www.solidot.org/story?sid=37506	30456
+黑莓公司虽然麻烦缠身，但至少还有一位非常忠实的用户：<a target="_blank" href="http://cn.reuters.com/article/CNTechNews/idCNCNE9B402D20131205"><u>美国总统奥巴马</u></a>。奥巴马周三与年轻人见面推广医保法案时称，他由于“安全原因”不能用苹果智能手机iPhone，但他用苹果的平板电脑iPad。奥巴马在2009年入主白宫后坚持继续使用其黑莓手机，但称只有10个人知道他的个人邮箱地址。小布什和克林顿在担任总统期间都不使用电子邮箱。
+➜央行称比特币不是货币，投资有风险，不允许提供比特币人民币兑换服务
+https://www.solidot.org/story?sid=37507	32088
+央行、工信部、中国银行业监督管理委员会、中国证券监督管理委员会、中国保险监督管理委员会联合发布了《<a target="_blank" href="http://www.pbc.gov.cn/publish/goutongjiaoliu/524/2013/20131205153156832222251/20131205153156832222251_.html"><u>关于防范比特币风险的通知</u></a>》。《通知》认为比特币不是由货币当局发行，不具有法偿性与强制性等货币属性，并不是真正意义的货币。从性质上看，比特币是一种特定的虚拟商品，不具有与货币等同的法律地位，不能且不应作为货币在市场上流通使用。但是比特币交易作为一种互联网上的商品买卖行为，普通民众在自担风险的前提下拥有参与的自由。《通知》要求金融机构和支付机构不得直接或间接为客户提供其他与比特币相关的服务，包括：为客户提供比特币登记、交易、清算、结算等服务；接受比特币或以比特币作为支付结算工具；开展比特币与人民币及外币的兑换服务；开展比特币的储存、托管、抵押等业务；发行与比特币相关的金融产品；将比特币作为信托、基金等投资的投资标的等。《通知》要求比特币交易平台实行实名制，递交可疑交易报告。《通知》公布后，无论是中国的BTCChina还是国外的<a target="_blank" href="https://www.mtgox.com/"><u>Mtgox</u></a>，比特币币值都出现大幅下滑，已从1200美元跌到1000美元左右。
+➜安全公司发现储存200万登录凭证的黑客服务器
+https://www.solidot.org/story?sid=37508	34659
+<div align="center"><img src="http://img.solidot.com.cn/0/915/liHLYapaxPvOE.jpg" align="" height="259" width="640"><br>
+</div>
+<br>
+安全公司Trustwave的研究人员<a target="_blank" href="http://blog.spiderlabs.com/2013/12/look-what-i-found-moar-pony.html"><u>发现了</u></a>一个储存200多万盗取的在线服务登录凭证的黑客服务器，其中包括318,121个Facebook用户名和密码，59,549个Yahoo帐号，54,437个Google帐号和21,708个Twitter帐号，此外还包括电子邮件地址、FTP帐号、远程桌面和SSH的登录凭证。其中97%的帐号来自荷兰的计算机，之后是泰国、德国、新加坡和印度尼西亚。看起来黑客针对的是荷兰。但研究人员分析IP日志后发现，它们多数实际上来自同一个IP地址，显示该IP地址可能充当了网关或作为被感染机器和指令控制服务器之间的反向代理。研究人员推测，黑客是利用按键记录程序或类似的恶意程序窃取用户的帐号。根据窃取的密码，研究人员还顺便统计了一下常用密码，不出任何人意料，最常用密码是：123456 (被15820个帐号使用 ），123456789 (4875)，1234 (3135)，password(2212)，12345（2094）。
+➜中国希望微软延长Windows XP支持
+https://www.solidot.org/story?sid=37509	36798
+中国希望微软公司<a target="_blank" href="http://tech.slashdot.org/story/13/12/05/032202/china-prefers-sticking-with-dying-windows-xp-to-upgrading"><u>能延长</u></a>对Windows XP的支持，声称这将能帮助遏制微软盗版软件的扩散。《法制日报》报导，国家版权局副局长阎晓宏会见了商业软件联盟(BSA)全球总裁兼首席执行官艾斯比奈一行。阎晓宏称，去年10月，微软公司发布Win8操作系统软件后，随即停止销售Win7等操作系统，导致用户无法采购到适用的操作系统；并大幅提高Win8销售价格，增加了用户软件采购成本。他声称，终止对Windows XP提供服务，使用户计算机面临严重的安全威胁。这些做法影响了中国的软件正版化工作。微软将在明年4月终止支持XP，而XP仍然是中国最流行的操作系统。
+➜世界最大船体在韩下水
+https://www.solidot.org/story?sid=37510	38922
+世界最大海上漂浮设施<a target="_blank" href="http://www.gizmag.com/prelude-flng-worlds-largest-ship/30013/"><u>在韩国巨济下水</u></a>，它是有史以来建造的最大漂浮设施：长488米宽74米，满载超过60万吨。该设施为壳牌公司所有，设计用于在海上生产液化天然气，能抵抗五级飓风，每年能生产360万吨天然气。它将作为远程基地在西澳大利亚外海工作25年，该地区的飓风季节从11月持续到4月，但船设计能在任何气象条件下全年工作。这艘庞然大物预计将在2017年完工。
+➜衰老细胞与癌细胞共享特征
+https://www.solidot.org/story?sid=37511	41509
+年龄越大，人类罹患癌症的风险越高，因为积累的环境和化学毒素随着年龄的增长而增长，增加了致癌突变的风险。但风险不是以线性方式上升。为什么风险会随衰老而急剧增加，科学家对此知之甚少。根据发表在《Nature Cell Biology》上的<a target="_blank" href="http://www.nature.com/ncb/journal/v15/n12/full/ncb2879.html"><u>研究报告</u></a>，科学家发现，衰老细胞和癌细胞的DNA化学修饰<a target="_blank" href="http://arstechnica.com/science/2013/12/aging-cells-share-features-with-cancer/"><u>存在相似性</u></a>。他们跟踪了纤维母细胞的衰老过程，发现衰老细胞对表观基因组的控制下降，导致DNA修饰出现广泛的变化。比较衰老细胞和癌细胞的表观遗传变化，可以发现两者存在相似性，共享了某些特征。研究人员表示，对于如何解释结果需要慎重。
+➜美国政府将证人列入禁飞名单，然后予以否认
+https://www.solidot.org/story?sid=37512	43829
+2005年，斯坦福大学的穆斯林博士生Rahinah Ibrahim  被禁止登上旧金山国际机场的一个航班，她被戴上手铐接受了有关国际恐怖主义活动的询问。最终她被允许飞回祖国马来西亚，但无法再返回美国，因为美国务院取消了她的学生签证。Ibrahim  女士被列入了美国的禁飞名单——大约有70万人因为恐怖主义相关的原因进入了该名单——现在，她<a target="_blank" href="http://www.nytimes.com/2013/12/01/sunday-review/who-is-watching-the-watch-lists.html?_r=1&amp;pagewanted=all&amp;"><u>正通过法律途径挑战该名单</u></a>，要求美国政府作出解释。美国政府表示透露相关信息将会危及国家安全。Ibrahim的大女儿在美国出生，是美国公民，她被传召为证人出庭。不幸的是，她的女儿<a target="_blank" href="http://yro.slashdot.org/story/13/12/04/2134242/govt-puts-witness-on-no-fly-list-then-denies-having-done-so"><u>也神秘的进入了禁飞名单</u></a>，无法登上飞机出席审讯。而美国司法部的律师声称证人只是错过了航班。马来西亚航空公司提供了美国国土安全部的信函副本作为被禁止登机证据。本案主审法官William Alsup表示无法相信，建议证人再尝试一次。Alsup审理过Google和甲骨文的Java诉讼案。
+➜微软宣布加密内部数据流
+https://www.solidot.org/story?sid=37513	45497
+微软总法律顾问Brad Smith在官方博客上<a target="_blank" href="http://blogs.technet.com/b/microsoft_blog/archive/2013/12/04/protecting-customer-data-from-government-snooping.aspx"><u>宣布</u></a>将加密数据中心内部数据流，成为继Google、Facebook和雅虎之后，最新一家宣布加密数据流量以防范NSA监控的公司。Smith表示，微软将实现完全正向加密（防止追溯攻击）和2048位长度密钥。他在博文中说，如果NSA监控数据中心内部数据流的情况属实，其行为可能会严重损害公众对网络通讯的安全性和私密性的信心；政府的监控可能与复杂的恶意程序和网络攻击一并构成了“高级持续性威胁（APT）”。微软的加密工作将于2014年年底结束。博文显示，微软还称将在欧洲、美洲和亚洲开设“透明中心”，让政府客户检查这些中心的源代码，以证实它们<a target="_blank" href="http://cn.wsj.com/gb/20131205/tec164125.asp"><u>不存在“后门</u></a>”。
+➜调查显示美国记者因担心政府监控而进行自我审查
+https://www.solidot.org/story?sid=37514	47235
+美国笔会10月份进行的<a target="_blank" href="http://pen.org/chilling-effects"><u>一项调查</u></a>发现，<a target="_blank" href="http://edition.cnn.com/2013/12/04/opinion/snowden-chilling-effect/index.html?iid=article_sidebar"><u>近四分之一</u></a>的人因为担心政府监控而<a target="_blank" href="http://news.slashdot.org/story/13/12/04/1826245/fearing-government-surveillance-us-journalists-are-self-censoring"><u>自我审查</u></a>。他们坦诚主动限制了研究，不接受某些任务，甚至不在电话或电子邮件上讨论某些主题，因为担心成为监控目标。他们避开的主题都在预计之中——多数都与中东、军方和恐怖主义有关。对此，普通的美国人似乎并不在乎，心甘情愿接受对他们自由权利的侵犯。

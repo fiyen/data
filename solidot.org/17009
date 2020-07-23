@@ -1,0 +1,48 @@
+➜乐视20亿美元收购美国电视制造商Vizio
+https://www.solidot.org/story?sid=49087	7990
+乐视<a target="_blank" href="http://www.phonedog.com/2016/07/26/leeco-buying-vizio-2-billion"><u>宣布</u></a>以20亿美元收购美国电视制造商Vizio，在美国电视市场获得了一个立足之地。乐视成立于2004年，其业务涵盖了互联网视频、电子商务、智能手机、智能电视和电视机顶盒，甚至还有电动汽车。Vizio则是美国第二大电视制造商，其产品除了电视还有搭配电视使用的平板。交易完成之后，Vizio将会继续作为一家独立子公司在美国运营，乐视董事长贾跃亭表示希望利用生态系统模型，在 Vizio 和 LeEco 之间进行更大的整合，为美国用户创造新的价值。
+➜紫光和武汉新芯合并
+https://www.solidot.org/story?sid=49088	8829
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/20160726/tec174305.asp"><u>报道</u></a>，中国两家主要存储芯片公司在政府指示下进行了合并，以打造实力更强的公司，缩小与西方之间的技术差距。知情人士称，紫光集团已收购武汉新芯集成电路制造有限公司的多数股权。武汉新芯规模240亿美元的存储芯片制造中心计划获得了政府资金支持。知情人士称，中国国家集成电路产业投资基金牵线搭桥，促成了这桩交易。
+➜摩托罗拉不再承诺每月释出安全更新
+https://www.solidot.org/story?sid=49089	10418
+摩托罗拉以难度太大为由<a target="_blank" href="http://arstechnica.com/gadgets/2016/07/motorola-confirms-that-it-will-not-commit-to-monthly-security-patches/"><u>不再每月为手机推送安全更新</u></a>。这家联想旗下的公司发表声明，称该公司理解更新Android安全补丁对客户的重要性，他们努力让安全补丁尽可能快的推送给用户。然而，因为在部署补丁前需要大量的测试和批准，以每月为基础向该公司的所有设备推送安全更新是很困难的。摩托罗拉的手机最终会获得安全更新，但不会是在每月释出。
+➜黑莓在TCL手机基础上发布第二款Android智能手机
+https://www.solidot.org/story?sid=49090	14092
+<div align="center"><img src="http://img.solidot.org/0/771/liXiV5Rouz1XY.jpg" height="400" align="" width="400"><br>
+</div>
+<br>
+黑莓发现自己制造的第一款Android智能手机BlackBerry Priv太昂贵了（700美元），该公司的第二款Android智能手机<a href="http://us.blackberry.com/smartphones/dtek50-by-blackberry/overview.html">BlackBerry DTEK50</a>以TCL 阿尔卡特 Idol 4为基础，搭配以黑莓的软件，<a target="_blank" href="http://arstechnica.com/gadgets/2016/07/blackberry-rebrands-chinese-smartphone-creates-the-299-blackberry-dtek50/"><u>售价则是很平民的299美元</u></a>。手机运行Android 6.0 Marshmallow，目前已在部分国家<a target="_blank" href="https://shop.blackberry.com/store?Action=DisplayPage&amp;Locale=en_US&amp;SiteID=bbrryus&amp;id=ThreePgCheckoutShoppingCartPage"><u>开放预购</u></a>，将于8月8日上市。DTEK50的硬件配置与Idol 4基本一致： 5.2英寸1080p显示屏 (424 PPI)，8核1.5GHz Snapdragon 617处理器，3GB内存，16GB ROM支持SD卡扩展， 2610 mAh电池，1300万像素后置800万象素前置摄像头，仍然使用旧的MicroUSB接口。两者的主要区别是DTEK50的处理器频率更高（1.7GHz vs 1.5GHz)。
+➜泄漏民主党电邮的黑客被认为与俄罗斯有关联
+https://www.solidot.org/story?sid=49091	17020
+泄漏民主党全国委员会电邮的黑客 Guccifer 2.0 自称是单独行动，但有越来越多的证据显示他或他们与俄罗斯有关联。研究人员发表了<a target="_blank" href="https://www.threatconnect.com/guccifer-2-all-roads-lead-russia/"><u>一份研究报告</u></a>，通过分析Guccifer 2.0与记者交流时使用的电邮IP地址去跟踪其位置。Guccifer 2.0被发现使用了法国的一个IP地址，但进一步分析发现该IP地址属于法国的VPN服务。对SSH指纹的跟踪发现一个相关的IP地址曾被域名<span style="font-weight: 400;"> </span><a href="https://whois.domaintools.com/vpn-service.us" target="_blank"><span style="font-weight: 400;">fr1.vpn-service[.]us</span></a>使用。调查该域名的注册信息后发现了俄罗斯的注册电邮sec.service@mail[.]ru，以及位于莫斯科的域名注册机构。研究人员发现， vpn-service[.]us属于一家俄罗斯VPN服务商 Elite VPN，他们创建了一个VPN账号，发现它在法国有节点，但Guccifer 2.0的使用IP地址没有对普通用户开放。研究人员得出结论：Guccifer 2.0使用俄罗斯电脑编辑PDF文件，使用了俄罗斯的VPN服务，能利用一个其它用户提供的IP设施；不会说罗马尼亚语。<br>
+➜Let’s Encrypt完整支持IPv6
+https://www.solidot.org/story?sid=49092	18902
+旨在让每个网站都能启用HTTPS加密的Let’s Encrypt项目<a target="_blank" href="https://letsencrypt.org/2016/07/26/full-ipv6-support.html"><u>宣布</u></a>完整支持IPv6。Let’s Encrypt在声明中称，随着IPv4地址空间的枯竭，愈来愈多的人开始部署只能通过IPv6获得的服务，完整支持IPv6将能让Let’s Encrypt服务于更多的人和机构，这对于它加密整个Web的使命至关重要。根据Google的<a target="_blank" href="http://www.google.com/intl/en/ipv6/statistics.html#ipv6-adoption"><u>统计</u></a>，IPv6的部署比例超过了10%。
+➜多莉羊的克隆同伴正常衰老
+https://www.solidot.org/story?sid=49093	27610
+多莉羊是第一只成功克隆的哺乳动物，但它的快速衰老引发了对克隆技术的担忧。发表在《Nature Communications》期刊上的<a target="_blank" href="http://www.nature.com/ncomms/2016/160726/ncomms12359/full/ncomms12359.html"><u>最新研究</u></a>暗示，多莉羊的早逝很可能只是运气不好，而不是技术方面的问题。多莉的四只克隆亲戚黛西、戴安娜、黛比和丹妮丝都正常衰老，至今已经9岁大了，相当于人类的70岁。另外九只克隆绵羊的衰老过程也是正常的。所有13只克隆绵羊都很健康。最新研究结果有望改变<a target="_blank" href="http://www.nytimes.com/2016/07/27/science/dolly-the-sheep-clones.html"><u>人们对于克隆的认识</u></a>。
+➜苹果手机在华销量暴跌
+https://www.solidot.org/story?sid=49094	29542
+苹果公布了<a target="_blank" href="http://www.apple.com/newsroom/2016/07/apple-reports-third-quarter-results.html"><u>第三财季报告</u></a>，收入424亿美元，利润78亿美元，连续第二个季度下滑，其中大中华区销售额下降33%至88亿美元，在所有地区降幅最大。库克(Tim Cook)表示，剔除汇率影响之后，第三财季中国内地销售额仅下降2%。他仍然十分看好苹果在中国的长期发展。苹果<a target="_blank" href="http://cn.wsj.com/gb/20160727/tec145416.asp"><u>在中国面临的挑战日益增多</u></a>，包括华为、小米和欧珀在内的中国本土竞争对手正逐渐从廉价手机市场转向高端市场。市场领导者三星已开始在中国推行手机降价出售的策略。根据Canalys的信息，苹果第二季度在中国智能手机市场的份额从第一季度的12%滑落至9%，排在华为、欧珀、Vivo和小米之后，居第五位。苹果在中国还面临地缘政治和监管方面的挑战。
+➜加州堵上乔布斯空白车牌漏洞
+https://www.solidot.org/story?sid=49095	29758
+乔布斯最为人津津乐道的事迹之一是他拒绝在其梅赛德斯-奔驰汽车后面装上车牌。乔布斯或者他的某位密友发现了加州机动车监管的一个漏洞：一辆新车在必须上车牌前有6个月的时间。乔布斯利用该漏洞每六个月换一辆相同型号的新车。本周加州州长 Jerry Brown 签署了一项新法律<a target="_blank" href="http://arstechnica.com/cars/2016/07/steve-jobs-loophole-closed-california-wants-temporary-license-plates/"><u>堵上了这个漏洞</u></a>。从2019年开始，新车需要装上临时车牌，汽车销售商还必须将购买者的名字和地址等信息报告给机动车管理局。<br>
+➜中国准备发射量子通信卫星
+https://www.solidot.org/story?sid=49096	32936
+中国<a target="_blank" href="http://www.nature.com/news/chinese-satellite-is-one-giant-step-for-the-quantum-internet-1.20329"><u>将率先发射卫星进行量子通信实验</u></a>。这颗重600公斤的卫星计划下个月在酒泉卫星发射中心发射，是中科院和奥地利科学院合作的一个项目。科学家至今设法在最远300公里的距离上演示了量子通信。在光纤和空气中传播的光子易散射或吸收，放大信号同时保留其脆弱的量子态极其困难。中国研究人员希望通过太空发射的光子能传输更远的距离。卫星的核心是一个能产生纠缠光子对的晶体。卫星的第一个任务是向北京和奥地利的地面站发射纠缠光子对，使用它们生成密钥。研究人员计划证明相距1200公里的光子仍然能保持其纠缠属性。奥地利物理学家Anton Zeilinger在未能说服欧洲建造量子通信卫星后加入了中国的项目，他认为如果中国的团队成功了，那么其它量子卫星项目将能更容易得到资助。
+➜新攻击能绕过HTTPS保护
+https://www.solidot.org/story?sid=49097	36921
+研究人员发现了一种攻击方法<a target="_blank" href="http://arstechnica.com/security/2016/07/new-attack-that-cripples-https-crypto-works-on-macs-windows-and-linux/"><u>能绕过HTTPS保护</u></a>，发现用户请求的网址，但加密流量本身不会受到影响。这一攻击对所有浏览器和操作系统都有效。研究人员将于下个月在拉斯维加斯的Black Hat安全会议上<a target="_blank" href="https://www.blackhat.com/us-16/briefings.html#crippling-https-with-unholy-pac"><u>演示这一攻击</u></a>。攻击能被任何的网络运营者执行，比如提供开放WIFI服务的运营者。它滥用了名叫<a href="https://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol">Web Proxy Autodisovery</a>（WPAD）的特性。其中最有可能的攻击方法是当用户使用DHCP协议连接一个网络，DHCP能被用于设置一个代理服务器帮助浏览器访问特定的网址，攻击者可以强迫浏览器获取一个<a href="https://en.wikipedia.org/wiki/Proxy_auto-config">proxy autoconfig</a> (PAC)文件，指定特定网址触发使用代理。恶意的PAC代码在HTTPS连接建立前获取到URL请求，攻击者因而能掌握用户访问的明文URL。
+➜科威特记录到54摄氏度的最高气温
+https://www.solidot.org/story?sid=49098	37476
+联合国世界气象组织称，它怀疑科威特记录到54摄氏度气温<a target="_blank" href="http://public.wmo.int/en/media/news/wmo-examines-reported-record-temperature-of-54%C2%B0c-kuwait"><u>创下了东半球和亚洲的最高气温记录</u></a>。上周，热浪席卷了北非和中东地区，科威特的Mitrabah在7月21日记录到了54°C的最高气温，伊朗的Basra市在7月22日记录到了53.9°C，南摩洛哥地区的气温在 43°C 到 47°C之间。世界气象组织称，全球的最高气温记录是加利福尼亚州死亡谷熔炉溪在1913年7月10日记录到的56.7°C 。
+➜小米的新笔记本瞄准了买不起MacBook Air 的用户
+https://www.solidot.org/story?sid=49099	40557
+小米的新产品发布会发布了一款轻薄笔记本电脑，<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-07-27/xiaomi-s-laptop-targets-chinese-buyers-who-can-t-afford-a-mac"><u>瞄准了负担不起 MacBook Air 的用户</u></a>，号称比硬币还薄，但比较的是硬币的直径而不是厚度。<a target="_blank" href="http://www.mi.com/mibookair/"><u>Mi Notebook Air</u></a> 将于8月2日上市，售价4999元，而 MacBook Air 起售价 6988元。随着智能手机市场日益拥挤竞争日益激烈，小米开始探索扩展产品线，笔记本电脑就是其中之一。新的笔记本有两种大小：13.3英寸和 12.5英寸，前者配备了Intel Core i5处理器、8GB内存和256GB SSD，后者配备了Core m3处理器，内存和SSD容量减半，售价3499元。
+➜研究称高薪CEO的表现不如低薪CEO
+https://www.solidot.org/story?sid=49100	43961
+企业研究公司 MSC 发表了<a target="_blank" href="http://info.msci.com/Are-CEOs-Paid-for-Performance"><u>一份报告</u></a>，根据CEO的薪水评估股权激励的有效性。研究比较了429家美国大中型企业在2005年到2014年之间雇佣的800位CEO的薪水及企业给予股东的总回报，发现向一家高薪CEO的企业每投资100美元，10年内的回报是265美元，而低薪CEO的企业给予股东的回报是每100美元367美元。报告认为高薪CEO的表现不如低薪CEO。但<a target="_blank" href="https://news.slashdot.org/story/16/07/26/223241/highest-paid-ceos-run-worst-performing-companies-research-finds"><u>这可能要根据情况而定</u></a>：一家衰落中的企业必须开出更高的薪水才能吸引优秀的职业经理人，对职业经理人来说接受这一职位是有很高的风险的，很可能意味着职业上的死亡。
+➜被防火长城挡住
+https://www.solidot.org/story?sid=49101	46193
+美国基督教杂志World的一位华裔记者<a target="_blank" href="https://world.wng.org/2016/07/blocked_by_the_great_firewall"><u>讲述了她在中国的遭遇</u></a>：进入中国，绝大部分国外的流行应用都无法使用；离开中国，中国流行应用的许多功能就无法使用，导致用户对这些应用逐渐疏远。她认为防火长城的目的是将本国人锁在里面，将不需要的外国人赶出去。除了谷歌翻译外，中国基本上屏蔽了Google的所有服务，所以一位经常使用Google服务的外国人进入中国后如果没有做提前准备将会手足无措。但绝大多数中国人没有感觉到这些流行应用的缺失，他们有可以包揽一切的封闭应用微信。

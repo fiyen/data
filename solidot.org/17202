@@ -1,0 +1,16 @@
+➜Tails 3.0将停止支持32位处理器
+https://www.solidot.org/story?sid=51241	6268
+匿名Linux操作系统项目Tails<a href="https://tails.boum.org/news/Tails_3.0_will_require_a_64-bit_processor/index.en.html" target="_blank"><u>宣布</u></a> Tails 3.0将停止支持32位处理器，开发者给出的一个理由是使用32位处理器的Tails用户非常少，因此不再浪费资源开发32位版本。在这之前，苹果也表示未来的iOS系统将<a href="https://apple.slashdot.org/story/17/02/01/1215200/the-future-of-ios-is-64-bit-only----apple-to-stop-support-for-32-bit-apps" target="_blank"><u>不再支持32位应用</u></a>。Tails项目刚刚发布了3.0的第一个<a href="https://tails.boum.org/news/test_3.0-beta1/index.en.html" target="_blank"><u>beta版本</u></a>，要求必须使用64位处理器。开发者称，绝大多数32位计算机有至少10年历史了，而在2016年初，只有4%的Tails用户使用32位计算机，部分计算机仍然会继续工作一段时间。然而32位的比例如此之低后Tails项目完全切换到64位的好处超过了继续支持32位。开发者称，为64位处理器构建的软件更安全，32位的兼容性问题日益突出。
+➜研究发现抗生素能通过机械力杀死细菌
+https://www.solidot.org/story?sid=51242	7110
+根据发表在《Scientific Reports》期刊上的<a href="http://www.nature.com/articles/srep41206" target="_blank"><u>一项研究</u></a>，科学家发现抗生素能通过机械力<a href="http://www.bbc.com/zhongwen/simp/science-38866080" target="_blank"><u>杀死细菌</u></a>。他们研究了四种抗生素，发现最有效的一种，比其他种类的抗生素，可以对细菌施加更大力量。参与研究的英国伦敦大学学院研究员Joseph Ndieyira表示：“从来没有人想过抗生素可以用机械力杀害目标。”“这些机械力对一种药物效用多大十分重要。”他表示这项发现有助研制新一代抗生素去对抗目前对多种药物有抗药性的细菌感染。抗生素抵抗被视为是现代医疗的最大威胁之一。
+➜著名Linux黑客胡正第25本佛法新书发布！
+https://www.solidot.org/story?sid=51243	52699
+<a href="http://www.huzheng.org">huzheng</a> 写道<I> "下载：<a title="http://www.huzheng.org/geniusreligion/HuZhengAllBooks_2017.2.5.rar" target="_blank" href="http://www.huzheng.org/geniusreligion/HuZhengAllBooks_2017.2.5.rar">http://www.huzheng.org/geniusreligion/HuZhengAllBooks_2017.2.5.rar</a>
+</p>
+<p>
+</p>
+<p>更多信息：<a title="http://www.huzheng.org" target="_blank" href="http://www.huzheng.org">http://www.huzheng.org</a>"</I>
+➜Mozilla将 Firefox的命运与Rust语言捆绑在一起
+https://www.solidot.org/story?sid=51244	57292
+Mozilla将 Firefox的命运与Rust语言<a href="http://www.infoworld.com/article/3165424/web-browsers/mozilla-binds-firefoxs-fate-to-the-rust-language.html" target="_blank"><u>捆绑起来</u></a>。Rust是Mozilla主导开发的注重安全、速度和并发的系统级编程语言，最新版本为1.15。随着Rust的成熟，Mozilla开始尝试用Rust开发Firefox的组件，其中包括核心引擎Servo/Project Quantum。自v53起，Firefox<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1284816" target="_blank"><u>将需要Rust构建</u></a>，这一要求对大多数用户没有影响，但会影响少部分Rust及其依赖的LLVM编译器不支持的平台和架构，比如IBM的S390架构。Mozilla的Ted Mielczarek称，他们通常不会有意让维护Firefox的人的生活变得更困难，但使用Rust的优势太大了，他们不想让很少用户的平台限制对Rust的采用。

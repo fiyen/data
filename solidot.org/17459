@@ -1,0 +1,48 @@
+➜Apache OpenOffice 4.1.4 发布
+https://www.solidot.org/story?sid=54190	11873
+Apache OpenOffice 项目还活着，至少它每隔一年会发布一个小的版本更新。去年 10 月，它释出了更新<a href="http://www.solidot.org/story?sid=49993" target="_blank"><u> 4.1.3</u></a>；今年 10 月，它刚刚释出了 <a href="https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces19" target="_blank"><u>4.1.4</u></a>，主要变化是修复安全漏洞和 bug，以及更新字典和翻译，还更新了下 logo。AOO 项目的活跃开发者非常少，从去年 10 月今年 10 月，<a href="https://github.com/apache/openoffice/commits/AOO414?before=8676203b51b8436958e0147ec6a5d9c95fef2cb7+35" target="_blank"><u>4.1.4 分支</u></a>只积累了几十个 commits，绝大部分都来自一位开发者。Red Hat 的软件工程主管 Christian Schaller 曾呼吁 Apache 基金会承认 OpenOffice 已经死亡，将网站定向到 LibreOffice，鼓励用户下载和使用 LibreOffice。LibreOffice 项目更活跃，今天的主流发行版都默认使用 LibreOffice。
+➜中国联通停止向 Apple Watch 新用户提供蜂窝通信功能
+https://www.solidot.org/story?sid=54191	12148
+Apple Watch 第一次可以具有独立的蜂窝通信功能，即使没有连接到 iPhone，人们也可以使用它进行语音通话，发送和接收文本和数据。但是在中国，在中国联通提供了很短一段时间的服务后，<a href="http://cn.wsj.com/gb/20171020/tec072230.asp" target="_blank"><u>这一功能突然不再对新用户开放</u></a>，也无任何解释。已注册用户暂时不受影响。行业分析师们表示，此次暂停可能源于中国政府对于追踪该设备用户的安全考量，Apple Watch 所采用的技术与标准手机的不同。
+➜加拿大间谍机构发布开源恶意程序分析软件
+https://www.solidot.org/story?sid=54192	13868
+加拿大间谍机构通信安全局<a href="http://www.cbc.ca/news/technology/cse-canada-cyber-spy-malware-assemblyline-open-source-1.4361728" target="_blank"><u>发布了</u></a>一款开源的恶意程序分析工具 <a href="https://bitbucket.org/cse-assemblyline/assemblyline/src" target="_blank"><u>Assemblyline</u></a>，源代码托管在 Bitbucket 上，采用 MIT 和加拿大王室版权许可证。通信安全局声称这个工具每天都在保护加拿大政府的庞大基础设施。通信安全局的 IT 主管 Scott Jones 称，开源是为了提高透明度，尝试摆脱“超级秘密间谍机构”的名声。<a href="https://github.com/nationalsecurityagency" target="_blank"><u>NSA</u></a> 和 <a href="https://github.com/gchq" target="_blank"><u>GCHQ </u></a>也都对外发布开源软件，他们在 GitHub 上都很活跃。
+➜中国不太可能加快种植转基因作物
+https://www.solidot.org/story?sid=54193	16279
+中化集团董事长宁高宁<a href="http://www.ftchinese.com/story/001074746" target="_blank"><u>表示</u></a>，转基因作物只会 “慢慢、慢慢地” 采用,“我认为你不得不观察中国农业的实际发展情况”。中国研究人员正在竞相推广他们开发的新作物品种，同时并不披露它们是转基因作物还是使用传统育种方法开发。许多作物是在示范田种植的，但没有商业化。最近的例子是世界上最高的水稻，据其创造者、中科院的一位农学家表示，这种水稻的单穗实粒数是传统水稻的 4 倍。宁高宁表示，中国农业的未来在于逐步改善种子质量和更加针对性地施用化肥和杀虫剂，后者是中国土壤和水污染的主要来源。
+➜IBM 忘记续域名导致云服务出现问题
+https://www.solidot.org/story?sid=54194	19785
+IBM 的负载均衡和反向 DNS 服务器上个月发生了长达 21 小时的故障，蓝色巨人一开始将这起故障归罪于它正转移部分域名的第三方域名注册商，称注册商意外将域名设置为“保留状态”阻止了域名转移。现在 IBM 公布了事故报告，<a href="https://www.theregister.co.uk/2017/10/20/ibm_failed_to_renew_three_domain_names/" target="_blank"><u>称原因是多个域名过期没有及时更新</u></a>。受影响的域名包括 network-layer.net、 global-datacenter.com 和 global-datacenter.net。对于这家将未来寄予云端和 AI 的科技巨人而言这不是什么好消息。
+➜Denuvo 的 DRM 不再能推迟游戏破解
+https://www.solidot.org/story?sid=54195	25218
+Denuvo 的 DRM 保护系统一度被认为无法破解，但如今使用 Denuvo 的游戏在上市数小时内<a href="https://arstechnica.com/gaming/2017/10/denuvos-drm-ins-now-being-cracked-within-hours-of-release/" target="_blank"><u>就遭到了破解</u></a>。最近上市的两款大作《Middle Earth: Shadow of War》和《South Park: The Fractured but Whole》都在一天内破解，而上个月发布的游戏《Total War: Warhammer 2》和《FIFA 18》 也都很快被破解。一款游戏的主要收入来自于发售的第一个月或前几周，Denuvo 开发商曾表示它的 DRM 系统能帮助游戏在这个至关重要的销售窗口避免被盗版，但如果游戏在发售第一天就被破解，那么 Denuvo 显然失去了它的保护作用。
+➜MongoDB 成功 IPO，首日股价上涨 34%
+https://www.solidot.org/story?sid=54196	27143
+开源数据库 MongoDB 的开发商周四在纳斯达克上市，IPO 发行价<a href="https://www.cnbc.com/2017/10/19/mongodb-mdb-ipo-stock-price-on-first-trading-day.html" target="_blank"><u>定在每股 24 美元</u></a>，高于预期的 20-22 美元，总计发行 800 万股股票。股市开盘价 33 美元，收于 32.07 美元。MongoDB 递交到 SEC 的文件显示，其收入过去三年快速增长，但亏损同时也在增加。文件显示，截至今年 7 月 它有 820 名雇员，2014 年收入 4100 万美元，2015 年收入 6500 万美元；但 2014 年 亏损 7700 万美元，2015 年亏损 7350 万美元，去年亏损 8670 万美元。MongoDB 的主要收入来自订阅服务。
+➜三星 Galaxy 手机将支持 Linux 发行版
+https://www.solidot.org/story?sid=54197	29198
+三星发表<a href="http://www.samsungmobilepress.com/stories/samsung-dex's-expanding-ecosystem-pushes-the-possibilities-of-the-smartphone" target="_blank"><u>新闻稿</u></a>宣布，三星 Galaxy 智能手机将能<a href="https://seap.samsung.com/linux-on-galaxy" target="_blank"><u>支持</u></a> Linux 发行版，利用  Android OS 运行的相同内核，将智能手机转变成类桌面环境。三星称，开发者可以像安装应用那样在智能手机上安装和使用他们喜欢的 Linux 发行版，对于智能手机没有的功能，他们可以切换到应用在 Linux 环境运行他们需要的任何程序。开发者可以利用智能手机为更大的屏幕创建内容。三星没有提供 Linux on Galaxy 的技术细节。
+➜用 3D 打印机制造火箭
+https://www.solidot.org/story?sid=54198	30342
+两位 20 多岁的航空工程师过去两年一直在制造火箭，而火箭的所有零部件<a href="https://www.bloomberg.com/news/articles/2017-10-18/these-giant-printers-are-meant-to-make-rockets" target="_blank"><u>都只用 3D 打印机打印</u></a>。他们希望将人类从制造流程里移除，将能让火箭制造更便宜更迅速。火箭发射的现行价格在 1 亿美元左右，他们希望在四年内价格能降至一千万美元。他们认为这是一个正确的方向，3D 打印和自动化制造是不可避免的。他们建造了自己的 3D 打印机，包含了 18 英尺高的机械臂，能利用激光将铝线熔化到便于塑形的液态金属。打印机现在能在数天内制造出 7 英尺宽 14 英尺高的燃料箱，能在一周半时间内制造出引擎。如果一切顺利，整个火箭能在一个月造出。相比之下，今天最高效的火箭制造流程需要数百人工作数个月时间。
+➜F-Droid 1.0 发布
+https://www.solidot.org/story?sid=54199	31951
+Android 开源自由软件应用商店 F-Droid <a href="https://f-droid.org/packages/org.fdroid.fdroid/" target="_blank"><u>正式发布了 1.0 版</u></a>。新版本启用了全新的 UI，能在更新可用时推送通知，可以选择自动下载和安装更新，它能跟踪旧的和 Beta 版本，通过类别和搜索发现应用，等等。F-Droid 应用商店提供的 Android 应用都是开源和自由软件，这里基本上不会出现索要过多权限的应用，手电筒应用不会要求访问你的麦克风，而且使用 F-Droid 不需要注册，它的体积也很小，推荐 Android 用户安装使用。
+➜Chrome 工程师考虑方法阻止浏览器挖矿程序
+https://www.solidot.org/story?sid=54200	38840
+越来越多的网站利用访问者的浏览器运行挖矿脚本，这一情况正促使 Chrome 工程师考虑反制方法，他们讨论了创建黑名单，在浏览器这一层次屏蔽挖矿代码，但这一提议被认为不切实际，被认为留给扩展做更好。Chrome 工程师 Ojan Vafai 的<a href="https://www.bleepingcomputer.com/news/google/google-chrome-may-add-a-permission-to-stop-in-browser-cryptocurrency-miners/" target="_blank"><u>提议</u></a>是跟踪标签的 CPU 使用率。他认为如果一个网站在 YY 秒内的 CPU 使用率超过 XX%，那么浏览器可以将该网页设为“节电模式”，积极的限制任务运行，并弹出通知允许用户选择关闭节电模式。当节电模式标签转入后台，浏览器将完全限制任务的运行。他认为可以通过测量来确定 XX 和 YY 的值， 可以从 100% CPU 使用率和 60 秒开始。
+➜Blue Origin 成功试点火 BE-4 引擎
+https://www.solidot.org/story?sid=54201	40970
+<div align="center"><img src="http://img.solidot.org/0/447/li2Id0ejMU46.png" width="400" align="" height="201"><br>
+</div>
+<br>
+Jeff Bezos 的太空公司 Blue Origin <a href="https://arstechnica.com/science/2017/10/blue-origin-has-successfully-tested-its-powerful-be-4-rocket-engine/#p3" target="_blank"><u>成功试点火</u></a> BE-4 引擎。BE-4 引擎受到了广泛关注，它是第一种为完全可重复使用设计的引擎，也是  Rocketdyne 的 RS-68 之后美国开发的最强大火箭引擎。BE-4 将被 Blue Origin 的轨道火箭 New Glenn 使用，联合发射联盟也计划在其火箭中使用 BE-4 引擎。这一计划促使 Aerojet Rocketdyne 发动政治游说试图施压联合发射联盟使用它的 AR1 引擎。Aerojet 的理由是 Blue Origin 的引擎未经证明。但 Blue Origin 成功试点火 BE-4 引擎显示该公司在开发现代火箭引擎上已经领先于 Aerojet。BE-4 的推力能达到 55 万磅，相比之下 SpaceX 的新 Raptor 引擎海平面推力 38 万磅。Blue Origin 的 New Glenn 火箭预计最早在 2020 年试飞，使用 7 个引擎，能将 45 吨的负荷送到地球低轨道，能将 13 吨的负荷送到地球同步转移轨道。
+➜月球发现 50 公里长的洞穴，或能成为人类殖民基地
+https://www.solidot.org/story?sid=54202	43208
+人类殖民月球之梦正逐渐走向现实：日本宇航机构宣布在月球表面之下<a href="https://www.theguardian.com/science/2017/oct/19/lunar-cave-discovery-raises-hopes-for-human-colonisation-of-moon" target="_blank"><u>发现了巨大的洞穴</u></a>，能作为人类探索月球的前哨基地。日本的月神号探测器使用雷达测深仪系统探测地下结构时发现了这个洞穴，科学家检查雷达波后证实，这个洞穴长 50 公里宽 100 米，结构稳定，可能含有能转变成燃料的冰或水。它位于 Marius Hills 下面几十米到 200 米深处。科学家认为，稳定的受保护环境有利于未来的人类探索者和殖民者。
+➜报告称中国去年三成左右广告流量是虚假的
+https://www.solidot.org/story?sid=54203	45419
+宝洁公司最近一段时间抨击网络广告无效。该公司在第二季度<a href="http://www.solidot.org/story?sid=53282" target="_blank"><u>削减了</u></a>超过一亿美元的数字营销支出，但业务并没有因此受到多少影响。宝洁认为数字广告没多少作用。宝洁中国高管最近也<a href="http://companies.caixin.com/2017-10-20/101158939.html" target="_blank"><u>公开表示</u></a>，2016 年中国数字广告市场全年无效流量占比高达 30.2%。本周公布《<a href="http://www.admaster.com.cn/?c=abouts&amp;a=newsview&amp;id=118" target="_blank"><u>2017 广告反欺诈白皮书</u></a>》指出广告刷量、欺诈已经形成了产业链。白皮书列举了多种广告作弊的手段：使用模拟器刷量；储备大量手机或者 SIM 卡刷量，也就是所谓的真机假用户；还有一种 “静默安装” 的方式，即刷量者利用人工方式或网络传播方式将木马或者具有再分发能力的应用植入到用户手机，形成僵尸网络，刷量者在后台利用云控技术对僵尸网络发送统一的命令，让用户无感知的情况下，完成 App 的下载、激活和删除等一系列操作。
+➜芝加哥大学研究生投票组建工会
+https://www.solidot.org/story?sid=54204	46681
+美国劳资关系委员<a href="http://www.solidot.org/story?sid=49427" target="_blank"><u>去年裁决</u></a>，在私立大学担任教师助理和研究助理的研究生是大学的雇员。当越来越多的大学在教学上依赖于低薪水的兼职和博士生而不是全职雇员时，围绕研究生角色和权利的争论随之出现。既然研究生是雇员，他们当然有权组建工会维护自己的权利。本周芝加哥大学研究生以压倒性多数<a href="https://www.chicagomaroon.com/article/2017/10/19/graduate-student-unionization-uchicago-nlrb/" target="_blank"><u>投票组建工会</u></a>。支持者表示，研究生的生活条件非常恶劣，同时还超时工作，又得不到大学的支持。而大学当局则试图阻止学生组建工会，认为这不符合研究生的最大利益，引入第三方“工会”可能会干扰研究生和大学的关系。

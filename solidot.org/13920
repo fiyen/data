@@ -1,0 +1,24 @@
+➜Salesforce 待沽 Oracle
+https://www.solidot.org/story?sid=5203	5400
+<a href="http://www.comsharp.com/">35公里</a> 写道 "这是一个草标满天飞的季节，据 Tom Foremski 的 <a href="http://www.siliconvalleywatcher.com/mt/archives/2008/02/is_salesforce_w.php">quoting sources</a> 透露，<a href="http://www.salesforce.com/">Salesforce</a> 最近曾同 <a href="http://www.oracle.com/">Oracle</a> 接触，并表示愿意以 75 美圆每股的价格出售，如果 Oracle 接受，<a href="http://www.siliconvalleywatcher.com/mt/archives/2008/02/is_salesforce_w.php">Salesforce 将可能以区区 90 亿美圆被拿下</a>。 <br> <br>Michael 曾在 2007 年的一篇文章中称 Salesforce 为具有诱惑力的收购对象，虽然当时传闻收购方为 Google，但最终收购并没有发生，虽然 Google Salesforce 确实曾在在线广告销售上结为合作伙伴。 <br> <br>受股市低迷的影响，Salesforce 的股价在周五以 50.86 美圆收盘，比12月份的最高价64美圆下跌了不少，然而75 美圆的出售价仍然比去年传闻的80-85美圆出售价低。
+➜开源硬件许可证
+https://www.solidot.org/story?sid=5204	8100
+最近MIT公布了几个<a href="http://csg.csail.mit.edu.nyud.net/oshd/index.html">开源硬件设计规格</a>，其中包括<a href="http://csg.csail.mit.edu.nyud.net/oshd/h264.tgz">H.264</a>视频解码器、<a href="http://csg.csail.mit.edu.nyud.net/oshd/ofdm_2007_12_03.tar.gz">OFDM</a>无线电收发器、<a href="http://csg.csail.mit.edu.nyud.net/oshd/80211_snapshot_2007_Dec_17.tgz">802.11a </a>WiFi发射机，以MIT自己推出的开源许可证发布（也就是<a href="http://www.opensource.org/licenses/mit-license.php">X11 license</a>）。和开源软件类似，众多的不兼容许可证是个很大的问题。<a href="http://www.opencores.org/faq.cgi/section/4/4.1#4.1">OpenCores FAQ</a>推荐的许可证有GPL，LGPL，和修正版的BSD许可证，没有提到MIT的许可证。<a href="http://www.gnu.org/licenses/license-list.html#OtherLicenses">自由软件基金会</a>认为GPL许可证适用于硬件。当开源硬件和软件有同样的规模时，关于<a href="http://hardware.slashdot.org/article.pl?sid=08/02/10/194218">许可证的争论</a>可能又会在社区响起。
+➜Tor正在免费分发科幻小说电子书（英文版）
+https://www.solidot.org/story?sid=5205	10200
+<a href="http://www.tor.com/">Tor Books</a>是一个新网站，它正在展开一项活动：免费分发科幻小说电子书（当然是英文版），直至网站正式上线。只需要用邮箱在网站入口注册一下（邮政编码可以随便填），你就可以每周收到一封通讯，其中包含下载新书的链接。这些科幻和幻想小说都是获得大奖的名作，前两部分别是最近接手罗伯特乔丹续写《时光之轮》第十二部的Brandon Sanderson的代表作 Mistborn；以及获得2006年坎贝尔奖、由John Scalzi著作的Old Man's War（中文版刊登在《科幻世界译文版》2007年第一期，中文名《迟暮战争》）。<a href="http://scalzi.com/whatever/?p=358">Scalzi在自己网站</a>作了说明，表示这些电子书没有DRM限制。
+➜Linux 2.6本地权限提升漏洞
+https://www.solidot.org/story?sid=5206	17100
+<a href="mailto:sevenever@gmail.com">sevenever</a> 写道 "<i> <a href="http://it.slashdot.org/article.pl?sid=08/02/10/2011257">/.</a>报道，不管什么机器(<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=464953">Debian</a>, <a href="https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.22/+bug/190587">Ubuntu</a>)，只要内核版本是2.6.17到2.6.24.1，似乎都会出现本地管理员权限漏洞。如果你不信任你的用户(当然你不应该信任)，最好编译一个没有vmsplice的内核。<br>
+这里是<a href="http://www.milw0rm.com/exploits/5092">millw0rm's的技术验证代码</a>。"</i>
+➜靠走路发电的装置
+https://www.solidot.org/story?sid=5207	21300
+研究人员发明了一种安装在膝盖上的发电组件，<a href="http://www.ns.umich.edu/htdocs/releases/story.php?id=6325">能收集走路的能量</a>，产生的电力足以驱动便捷式GPS定位器、手机、机械仿生关节和其它移动工具。关于此装置的报告已经刊登在2月8日出版的《科学》杂志上。这种机械装置可系在膝盖上，工作原理类似于一些混合动力车上使用的反馈制动充电电池。当汽车减速时，反馈制动器收集本来会以热能的形式浪费掉的动能。膝盖发电支架以同样的方式，当人的脚迈出去，收集膝盖收缩中丢失的动能。不过目前这种装置比较笨重，重3.5磅（约1.6公斤），膝盖应该不会太舒服。更轻的型号对那些在野外执行任务，难以找到电源的士兵有很大的帮助。CNet上提供了<a href="http://www.news.com/2300-1008_3-6229842-1.html?tag=nefd.pop">更多图片和示意图</a>。
+➜对抗免费软件，微软指望雅虎
+https://www.solidot.org/story?sid=5208	29700
+《纽约时报》认为，微软收购雅虎的主要目的是为了迎战<a href="http://www.nytimes.com/2008/02/09/technology/09free.html?_r=1&amp;ref=technology&amp;oref=slogin">目前软件免费化和互联网服务兴盛的趋势</a>。
+<i>
+四分之一世纪以前，社会流行的口号是“信息要免费”，现在则是“软件应该免费”。使用互联网免费服务的消费者越来越多，从电子邮件、字处理软件、电子表格，到游戏和金融管理工具，它们运行在数据中心，用户以观看广告的方式支付费用。这种快速增长的趋势正是微软收购雅虎的主要动力。微软的收入主要来自于传统的软件销售，但消费者不再有多少购买新拷贝的热情。通过合并雅虎，微软将有机会建立一个混合型模式，把它自己的软件业务和便捷的互联网云计算结合起来，继续维护和扩展它的帝国。对它来说，互联网的广告收入只是短期成果，更长远的是互联网应用。</i>
+➜可无限延长的纳米金属线
+https://www.solidot.org/story?sid=5209	42900
+伊利诺斯大学的一个研究小组找到了一种加工方法，用不同材料<a href="http://www.news.uiuc.edu/news/08/0130nanofiber.html">制造任意长度的纳米金属线</a>，看起来太空电梯有一天真能实现。新的方法类似于吸水钢笔的书写过程——液体从蓄满墨水的管子里流出，溶剂（水或碳化物）蒸发，溶质沉淀在底层。研究人员已经验证了这个方法，把一圈圈纳米线缠绕着在一根线轴上，他们还生产出一卷直径为850纳米、长度为40厘米的纳米光纤。伊利诺斯大学机械科学和工程学教授<a href="http://www.mechse.uiuc.edu/content/directory/faculty/profile.php?user_id=71">Min-Feng Yu</a>称，“与钢笔书写不同的是，我们是在三维空间内勾画物体。” Yu和研究生Abhijit Suryavanshi 及Jie Hu在被Advanced Materials杂志接受的论文（<a href="http://www3.interscience.wiley.com/cgi-bin/abstract/117901964/ABSTRACT?CRETRY=1&amp;SRETRY=0">摘要</a>）上描述这种方法。

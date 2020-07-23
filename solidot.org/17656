@@ -1,0 +1,15 @@
+➜Facebook 开源了它打败专业围棋棋手的程序 ELF OpenGo
+https://www.solidot.org/story?sid=56393	51291
+在 Facebook 的  F8 开发者大会上，社交巨人<a href="https://techcrunch.com/2018/05/02/facebooks-open-source-go-bot-can-now-beat-professional-players/" target="_blank"><u>宣布</u></a>开源它开发的打败专业围棋棋手的程序 <a href="https://github.com/pytorch/elf" target="_blank"><u>ELF OpenGo</u></a>，源代码托管在 GitHub 上，采用 BSD 许可证。ELF OpenGo 上个月与世界顶尖的围棋棋手对弈，取得了 14 连胜的成绩。围棋程序包括了服务器端和客户端，它测试的服务器使用了 8 个 GPU，客户端都只使用 1 个 GPU，应该都是英伟达的显卡，该程序使用了英伟达的 CUDA&nbsp; 9.0。在 DeepMind 公开了它的论文之后，围棋程序取得了显著的进步，比如开源围棋程序 <a href="http://zero.sjeng.org/"><u>LeelaZero</u></a> 也已能打败专业顶尖棋手，它使用了 4 个 1080 TI GPU。据说已经有人开始利用围棋程序作弊了。Facebook 的 AI 研究组还在开发星际争霸机器人，也有开源计划。
+➜NSA 去年收集了 5.34 亿电话和短信记录
+https://www.solidot.org/story?sid=56394	52360
+NSA <a href="https://www.reuters.com/article/us-usa-cyber-surveillance/spy-agency-nsa-collected-500-million-u-s-call-records-in-2017-a-sharp-rise-official-report-idUSKBN1I52FR" target="_blank"><u>去年收集了</u></a> 5.34 亿电话和短信记录，是 2016 年的三倍多。前 NSA 告密者 Edward Snowden 在 2013 年曝光了 NSA 的大规模信息收集之后，美国国会议员于 2015 年通过法律试图限制 NSA 的大规模情报收集。结果是 NSA 的电话和短信记录收集从 2016 年的 1.51 亿大幅增长到了去年的超过五亿。但这一数字仍然远低于 Snowden 曝光前的每日数十亿记录。NSA 收集的是元数据而不是具体内容。
+➜物理学家观察到时间晶体的信号
+https://www.solidot.org/story?sid=56395	54541
+耶鲁大学的物理学家在《<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.180603" target="_blank"><u>Physical Review Letters</u></a>》和《<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.184301" target="_blank"><u>Physical Review B</u></a>》期刊上发表了两篇论文，报告<a href="https://news.yale.edu/2018/05/02/yale-physicists-find-signs-time-crystal" target="_blank"><u>观察到了</u></a>时间晶体的信号。盐或石英之类的普通晶体属于三维有序的空间晶体，其原子排列在空间上具有周期性。时间晶体不同，它的原子自旋是周期性的，先是朝一个方向，然后朝另一个方向，好像有一种脉动力在“翻转”它们。时间晶体的“滴答”锁定在一个特定频率，即使脉动翻转是不完全的。科学家是在 2016 年首次识别出时间晶体，他们认为对时间晶体的深入理解有助于改进原子钟、陀螺仪和磁力计，甚至可能还有助于创造出量子计算机。
+➜朝鲜修改时区与韩国保持一致
+https://www.solidot.org/story?sid=56396	55855
+朝鲜从 5 日零时起将朝鲜标准时 “平壤时间” 调快 30 分钟，<a href="http://chinese.yonhapnews.co.kr/international/2018/05/05/0301000000ACK20180505000200881.HTML" target="_blank"><u>由此韩朝标准时间相同</u></a>。官方通讯社朝中社称，根据朝鲜民主主义共和国最高人民会议常任委员会发布的政令，朝鲜 5 日起正式使用新的平壤时间，改为以东经 135 度为基准的东 9 区时间，4 日晚 11 时 30 分改为 5 日零时，由此朝韩标准时间实现一致。朝鲜互联网网站也同时启用新的平壤时间，网上标示的时间与首尔时间相同。
+➜AT&T 称屏蔽 Cloudflare DNS 是一次意外
+https://www.solidot.org/story?sid=56397	59176
+AT&amp;T 用户最近报告，他们的网络设备更新了固件，之后 Cloudflare 的公共 DNS 服务 1.1.1.1 和  1.0.0.1 就无法访问了，而更新之前是能正常访问的。 Cloudflare CEO Matthew Prince 表示他希望屏蔽只是一场意外而不是有意为之。AT&amp;T 发言人之后回应称<a href="https://arstechnica.com/information-technology/2018/05/att-is-blocking-cloudflares-privacy-focused-dns-calls-it-an-accident/" target="_blank"><u>这是一次意外</u></a>，表示在  Cloudflare 最近发布 1.1.1.1 DNS 服务后，它发现了一个非故意的网关 IP 地址冲突，它正在接近这个问题。AT&amp;T 发言人表示客户可以改用替代 DNS 1.0.0.1。AT&amp;T 没有给出修复的时间。<br>

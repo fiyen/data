@@ -1,0 +1,9 @@
+➜UCLA 建议教职工拒绝为 Elsevier 旗下期刊审议论文
+https://www.solidot.org/story?sid=58967	50195
+UCLA 官员<a href="https://www.chronicle.com/article/In-Talks-With-Elsevier-UCLA/245311"><u>致函教职工</u></a>，请求他们考虑拒绝为 Elsevier 旗下期刊审议论文，建议教授们在包括开放获取期刊在内的非  Elsevier 刊物上发表论文。UCLA 正在与这家知名期刊出版商磋商新合同，希望能降低费用，简化开放出版。然而谈判的时间所剩不多了，大学与它的合同将于 12 月 31 日过期。加州大学系统与 Elsevier 的五年合同花费了大约 5000 万美元，Elsevier 是世界最大的论文期刊出版商之一，2017 年它旗下的 2500 个刊物出版了 43 万多篇论文。
+➜暴雪将转移风暴英雄部分开发者
+https://www.solidot.org/story?sid=58968	54579
+暴雪发表<a href="https://news.blizzard.com/en-us/blizzard/22833558/heroes-of-the-storm-news"><u>英文新闻稿</u></a>（中文至今没看到），宣布转移风暴英雄部分开发者到其它项目，2019 年停办风暴英雄全球锦标赛(Heroes Global Championship)与宿舍英雄(Heroes of the Dorm)。暴雪否认这将意味着游戏的终结，它将继续支持游戏，推出新的英雄和活动等内容，它会在以后与社区分享风暴英雄的未来计划。风暴英雄是暴雪开发的 MOBA 多人竞技游戏，远远称不上是一个失败的产品，根据今年 4 月的<a href="https://arstechnica.com/gaming/2018/12/blizzard-shifts-developers-away-from-heroes-of-the-storm/?comments=1">数字</a>，风暴英雄有 650 万玩家，但这个数字相比 Dota 2 和 LOL 的千万级有些苍白。即使有暴雪这个金字招牌加持，MOBA 市场可能已经没有空间容下第三个千万规模的游戏。暴雪旗下的《炉石传说》和《守望先锋》都有千万级的玩家数量。
+➜OpenJDK 代码被指含有太多的脏话
+https://www.solidot.org/story?sid=58969	56850
+有人向开源 Java 实现项目 OpenJDK <a href="https://bugs.openjdk.java.net/browse/JDK-8215217"><u>递交 bug 报告</u></a>，称源代码里含有太多的脏话，认为 OpenJDK 是在专业环境里使用的，包含脏话不合适，因此递交了变更集将这些脏话移除。IBM 的 OpenJDK 开发者 Adam Farley <a href="https://developers.slashdot.org/story/18/12/15/0021252/openjdk-bug-report-complains-source-code-has-too-many-swear-words"><u>作出了回应</u></a>，表示在与社区讨论之后他们达成了三个决定：Damn 和 Crap 不是脏话；四个 fxxx 中的 三个位于 jszip.js 中，应该由上游修正；BitArray.java 和 SoftChannel.java 中的两个例子都是脏话，应该被移除。他承诺将上传新的 webrev，并将该 bug 标记为已解决。

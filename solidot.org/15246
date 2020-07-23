@@ -1,0 +1,88 @@
+➜LibreOffice 庆祝一周年
+https://www.solidot.org/story?sid=26224	1680
+<a href="http://bbs.51osos.com/">51开源社区</a> 写道 "2010年9月28日，几位OpenOffice.org开发者成立了The Document Foundation。前不久，LibreOffice作为2011最佳开源软件分别获得2011度IDG’s InfoWorld BOSSIE大奖和2011度OWF Experiment大奖。2011年9月28日，The Document Foundation (TDF)<a href="http://blog.documentfoundation.org/2011/09/28/the-document-foundation-celebrates-its-first-anniversary/">庆祝LibreOffice一周年生日</a>。官方估计目前LibreOffice拥有2500万Linux用户。"
+➜《光荣使命》将在明年发布民用版
+https://www.solidot.org/story?sid=26225	5280
+由南京军区和巨人网络<a href="__SLASHLINK__" sect="games" sid="11/07/01/0227246" sn="article" tid="121">联合开发</a>的军事游戏《<a href="http://www.plagame.cn/">光荣使命</a>》将在明年推出民用版。<i>
+这款军事游戏以一名战士的军营生活为背景，以参加代号为“光荣使命”的对抗演习训练（假想敌美军）为主线，按照一个完整的故事剧情设置游戏关卡，分基础训练、单兵任务、班组对抗三个模块。铁马工作室制作人顾凯<a href="http://military.people.com.cn/GB/15778867.html">表示</a>，民用版的制作会保持军用版原汁原味的特色，并在此基础上，结合中国玩家的特殊需求，融入更多的中国元素，从角色造型到地图设计都将更符合中国玩家的口味。他说，“当你面对敌人时，你就是中国人民解放军的一员，这种代入感是国外同类FPS游戏所无法比拟的。”</i>
+➜GNOME 3.2发布
+https://www.solidot.org/story?sid=26226	6840
+GNOME桌面环境<a href="http://library.gnome.org/misc/release-notes/3.2/">发布了</a>GNOME 3的第一个重大更新版本。<i>
+主要的新特性包括：开发者据用户的反馈，修改了界面和设置，以提供更平滑的体验；新的登录界面；新的联系人和文档应用，在线帐号管理；文件管理器支持文件快速预览；改进了工具库 GLib；GTK+ 3.2；Clutter 1.8 ；等等。GNOME 3.4将在2012年4月推出。</i>
+➜宣传蓝光版《星球大战》，东京地铁扶手变光剑
+https://www.solidot.org/story?sid=26227	8280
+乔治·卢卡斯（George Lucas）最近发布了蓝光版的《星球大战》，新版本<a href="__SLASHLINK__" sect="mainpage" sid="11/09/22/1034223" sn="article" tid="116">引发了争议</a>，因为它在原版基础上进行了<a href="http://en.wikipedia.org/wiki/List_of_changes_in_Star_Wars_re-releases#2011_Star_Wars:_The_Complete_Saga_Blu-ray_edition">不少改动</a>。例如，伊娃族人(Ewoks)拥有了可以眨眼的CG眼皮；黑武士在西斯君主用原力闪电折磨天行者卢克时说出了“No”字，然后一边口中叫着“Nooooo!”一边将西斯君主抓起丢进死星核心。有争议的修改并没有阻止蓝光版《星球大战》的广告宣传，广告商<a href="http://www.wired.com/gadgetlab/2011/09/tokyo-subway-gets-lightsaber-handrails-to-promo-star-wars-blu-ray/">将东京地铁的扶手变成了光剑</a>。扶手上有按钮，按下后会亮起LED灯。
+➜自由软件正则表达式引擎的对比
+https://www.solidot.org/story?sid=26228	9600
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "<a href="http://sljit.sourceforge.net/index.html">正则引擎sljit</a>的作者受到了<a href="http://www.boost.org/doc/libs/1_41_0/libs/regex/doc/gcc-performance.html">John Maddock之前对各种正则表达式引擎性能的测评</a>的影响，他把自己的正则引擎和其他一些流行的自由软件正则引擎进行了性能对比，其中包括著名的<a href="http://www.pcre.org/">PCRE</a>(著名的IDS项目Snort就是使用的这个引擎)，专注于并行化的<a href="http://laurikari.net/tre/">tre</a>和Google在2010年发布的<a href="http://code.google.com/p/re2/">re2</a>。sljit正则引擎不兼容POSIX和PERL，而是在设计的各个方面跟随了<a href="http://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson</a>的脚步，基于DFA(确定有限状态机)和JIT编译来对模式匹配进行加速。
+从<a href="http://sljit.sourceforge.net/regex_perf.html">最终的测评结果</a>来看：<i>
+- PCRE对输入的初始字符的表达式非常的快<br>
+- TREE则使用了并行的匹配算法，在复杂的正则表达式上有优势<br>
+- RE2的性能超乎想象的高，而且只使用了0.5MB的内存作为空间换时间的开销<br>
+- SLJIT的速度也不错，而且没有任何空间换时间的开销(这是因为目前还没有实现状态捕捉)。"</i>
+➜孔子和平奖被叫停
+https://www.solidot.org/story?sid=26229	10800
+普京、默克尔、班禅喇嘛（21岁）、南非总统祖玛、袁隆平、比尔盖茨、前联合国秘书长安南，宋楚瑜...猜猜这些名人会因为什么机缘巧合凑到一起？一个冠以和平名义的奖项。他们都是第二届<a href="http://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90%E5%92%8C%E5%B9%B3%E5%A5%96">孔子和平奖</a>候选人。孔子和平奖创建于2010年，起因据说是<a href="__SLASHLINK__" sect="society" sid="10/12/08/0619222" sn="article" tid="119">为了</a>“对抗诺贝尔和平奖，夺取话语权”，因为当年的诺贝尔和平奖授予了一位关押的异议人士。该奖项的主办方是文化部下属的“中国乡土艺术协会”。但文化部表示<a href="__SLASHLINK__" sect="society" sid="10/12/09/0636200" sn="article" tid="71">对此一无所知</a>。<i>
+现在，中国乡土艺术协会<a href="http://www.ccnt.gov.cn/xxfb/zwxx/ggtz/201109/t20110927_131321.html">宣布</a>，停止“中国乡土艺术协会传统文化保护部”主办的“第二届孔子和平奖”颁奖活动，并撤销该部门。公告称，中国乡土艺术协会传统文化保护部于2011年9月17日在香山擅自主办了“第二届孔子和评奖”启动仪式新闻发布会，此发布会事先并未上报协会。此外，该部门还擅自将部门名称改为“文化部中国乡土艺术传统保护部”，并以此名主办该发布会。此举严重违反了文化部社会团体管理暂行办法和协会的有关规定。中国乡土艺术协会还发出了后果自负的<a href="http://chinaxiangtu.net/Article_Show.asp?ArticleID=164">警告</a>。</i>
+➜亚马逊创造真正可行的非iPad平板
+https://www.solidot.org/story?sid=26230	19680
+Kindle Fire有可能成为<a href="http://arstechnica.com/gadgets/news/2011/09/amazon-creates-first-viable-non-ipad-tablet-by-not-copying-the-ipad.ars?comments=1&amp;start=40#comments-bar">第一种畅销的非苹果系平板电脑</a>，主要根据是：199美元的价格，便捷性，以及极为丰富的内容。亚马逊最明智之处是它没有去创造一个iPad克隆品。<i>
+在此之前，Android平板制造商推出了多款与iPad价格和尺寸相近的产品，但没有可以与苹果相抗衡的应用程序商店。惠普的TouchPad也许可以算得上第一种畅销的非苹果平板，但那是为了清库存完全退出市场。虽然Kindle Fire没有摄像头，没有3G接入，但亚马逊的本意是将其作为一个内容消费平台，让用户能方便访问亚马逊的服务，销售其庞大的数字内容，而不是另一个iPad竞争对手。Gartner 的分析师Michael Gartenberg认为，Kindle Fire并不是iPad竞争对手，也不是iPad杀手，它可以在取得成功的同时不杀死任何对手，唯一受挫折的反而可能是Google和Android生态系统。在亚马逊的新闻发布会上，Android和Google的名字基本没有提到。目前亚马逊占据了51.7%的电子书阅读器市场，巴诺书店的Nook占21.2%。
+</i>
+➜云加速浏览器Amazon Silk
+https://www.solidot.org/story?sid=26231	21840
+Kindle Fire平板运行的是Android 3.1亚马逊定制版，它使用了一种全新的浏览器叫<a href="https://amazonsilk.wordpress.com/2011/09/28/introducing-amazon-silk/">Amazon Silk</a>(YouTube视频)。它的架构有几分类似于Opera Mini和Opera Turbo，但不仅仅限于内容压缩，它也许是第一个<a href="http://arstechnica.com/gadgets/news/2011/09/amazons-silk-web-browser-adds-new-twist-to-old-idea.ars">真正基于云计算的浏览器</a>。<i>
+当用户在Silk上请求访问一个网页，请求将会路由到亚马逊的云服务器，亚马逊将会在服务器端载入网页，下载所有必要的内容，然后向用户发送重新编译后的网页——包括HTML、JavaSript、样式表和图像。在视频介绍中，开发者举例说，如果用户访问《纽约时报》首页，通常接下来会点击“商业”栏目，Silk能根据用户行为模式提前下载用户将要点击的网页内容。亚马逊的云计算平台利用连接骨干网的高带宽优势，将网页渲染的大部分负荷卸载给云计算完成，它能根据显示屏大小和像素深度压缩图像等内容元素。对于隐私保护问题，亚马逊声称它是以匿名方式收集使用数据，以聚合的方式储存。用户也可以关闭云加速模式，像普通的浏览器那样使用Silk。
+</i>
+➜广电总局的限娱令将在明年一月一日起执行
+https://www.solidot.org/story?sid=26232	23400
+广电总局宣传管理司司长金德龙在接受采访时称，“限娱令”细则尚未发布，但是确定<a href="http://ent.ifeng.com/tv/news/zongyi/detail_2011_09/29/9557741_0.shtml">将于2012年1月1日起执行</a>。他同时表示，该限令不能称为“限娱令”，因为没有限制娱乐。记者从相关卫视人士了解，限娱令具体细则将在10月份下发。<i>
+广电总局在9月份下发了《广电总局关于加强上星综合频道节目管理的意见》，核心是要建立“上星综合频道节目播出调控制度”，针对目前卫视黄金时段节目存在的过度娱乐化倾向，明确上星综合频道的定位为新闻综合频道，必须以新闻节目为主，以宣传教育为主，不能办成专业频道，更不能办成娱乐频道。从今年10月1日起，各上星综合频道至少要开办一个道德建设栏目，每周至少播出一期。根据《意见》要求，省级卫视每晚黄金档（包括晚间）必须播出三档包括《新闻联播》在内的新闻节目，每天新闻自制时间不得少于90分钟，每台每周黄金时间播出的综艺节目不能超过两个。黄金时间限制播出相亲类、情感故事类、竞技节目、综艺娱乐节目四大类节目。不过如何具体定义这四大类节目，目前广电总局还没有相应的细则。</i>
+➜越狱逃犯被抓获新闻照片疑为PS
+https://www.solidot.org/story?sid=26233	25500
+xcat 写道 <i>"新华网报道，记者从河北省公安厅获悉，24日凌晨2时许，河北省公安、司法机关密切配合，河北、河南两省警方共同作战，经过14天的艰苦工作，河北省深州监狱越狱逃犯王振轻在其原籍河南省郸城县被抓获归案。
+但是<a href="http://news.ifeng.com/society/1/detail_2011_09/24/9445927_0.shtml">新闻所配的照片</a>（另一篇新闻报道使用了<a href="http://zt-hzrb.hangzhou.com.cn/system/2011/09/15/011509542.shtml">不同照片</a>）看起来很眼熟，再看看<a href="http://ent.qq.com/a/20100414/000537.htm">这则新闻</a>，让人想起一个时下颇为流行的游戏，叫找不同。"</i>
+➜NASA宣布UARS卫星坠落在太平洋
+https://www.solidot.org/story?sid=26234	26700
+NASA指出，高层大气研究卫星（UARS）<a href="http://www.space.com/13098-nasa-falling-satellite-uars-ocean-crash-site.html">最后坠落在太平洋</a>。<i>
+NASA称，UARS是在南纬14.1度和东经189.8度重返大气层，时间是在美国东部时间24日12:01 a.m。UARS的大部分碎片都在大气层中燃烧怡尽，总重约1200磅重的26块碎片在重返过程中幸存了下来。重返大气层的位置位于南半球广阔而偏远的海洋上空，远离大陆块。
+</i>
+➜男子被控阴谋用模型飞机轰炸五角大楼
+https://www.solidot.org/story?sid=26235	27360
+美国司法部星期三表示，26岁的麻萨诸塞州男子Rezwan Ferdaus<a href="http://www.justice.gov/usao/ma/news/2011/September/PreesReleaseSept-28-11.html">在波士顿被捕</a>，他被控阴谋利用装载C4炸弹的遥控模型飞机攻击五角大楼和美国国会。Ferdaus是美国公民，有物理学学位，他同时被控企图向基地组织提供物质支持和资源。<i>
+<a href="http://www.voanews.com/chinese/news/international/20110928-US-Terror-Plot-130750118.html">美国官方说</a>，Ferdaus从2010年年初开始策划反对美国的“圣战”，妄想通过杀害包括妇女儿童在内的美国人而造成巨大的心理冲击，他把这些妇女儿童称为“真主的敌人”。Ferdaus如果被定下向外国恐怖组织提供物质支持和资源的罪行，就面临多达十五年的徒刑；而他要是被定下企图摧毁国防部设施的罪行，则会面临多达二十年的徒刑。</i>
+➜温室气候变化理论提出150周年
+https://www.solidot.org/story?sid=26236	30240
+今年是19世纪著名物理学家丁铎尔(John Tyndall）<a href="http://science.slashdot.org/story/11/09/29/0322220/150th-anniversary-of-greenhouse-climate-theory">提出</a> <a href="http://www.bbc.co.uk/news/science-environment-15093234">温室气候变化理论150周年</a>。<i>
+1861年，丁铎尔发表了标题很长的<a href="http://tyndallconference2011.org/wp-content/uploads/2011/03/Tyndalls-1861-Lecture.pdf">论文</a>(PDF)，他首次说明了大气层中的气体如何吸热，发现了温室效应的分子基础。丁铎尔于1820年生于爱尔兰，后迁居到英格兰，他的主要科学成就是在抗磁性和热辐射方面。
+</i>
+➜IBM推出停车分析系统
+https://www.solidot.org/story?sid=26237	31320
+IBM推出了<a href="http://www.itworld.com/government/207671/ibm-launches-city-parking-analytics-system">停车分析系统</a>，帮助城市消除停车拥堵现象同时征收到更多的停车费，它也能帮助摩托车手更容易的在拥挤的闹市区找到停车空间。<i>
+智能泊车（Smarter Parking）系统结合IBM的数据分析能力和Streetline在停车感测器与软件上的创新技术。安置在停车场的Streetline省电感测器，监测是否有车子在场，然后把信息即时传到城市网络与Android或iOS应用程序。城市交通操作员可以利用这些数据追踪流量或设定停车率，而驾驶可以把车子停到空位。IBM针对北京、巴黎与洛杉矶等20座城市的调查，证实了驾驶一直以来的心声：停车真痛苦。在受访的驾驶中，每10人就有6人说，过去一年他们找车位找得很挫折，有时候会放弃并改变计划。逾1/4受访者说，他们曾因为停车位跟别人起口角。<a href="http://www.google.com/hostednews/afp/article/ALeqM5hlHw3XJoleUZtMGgHInhsd-l81zA?docId=life0005.110928165008">IBM表示</a>，约30%的城市车流量，是人们开车在路上乱转，找地方停车。</i>
+➜西班牙HIV疫苗人体试验取得突破
+https://www.solidot.org/story?sid=26238	34200
+西班牙研究人员完成了<a href="http://www.gizmag.com/spanish-hiv-vaccine-90-percent-immune-response/19973/">HIV疫苗第一阶段人体临床试验</a>，结果显示，90%的志愿者发展出了对抗病毒的免疫反应。<i>
+MVA-B疫苗利用的是免疫系统的自然能力，它最早在2008年展现出潜力，对老鼠和恒河猴等动物的临床试验显示它能有效对抗猿猴免疫缺陷病毒（SIV）。最新的人体试验有30名志愿者参加，24人注射MVA-B疫苗，8人用安慰剂。试验持续48周。血液测试显示，72.7%的疫苗注射志愿者发展出了抵抗病毒的抗体。疫苗的有效性在于维持其效力，血液测试显示有85%的病人能维持免疫反应。研究人员声称，如果疫苗能通过第二阶段和第三阶段人体临床试验，并投入生产，HIV将变得和普通病毒一样。
+</i>
+➜星系团验证爱因斯坦广义相对论
+https://www.solidot.org/story?sid=26239	37080
+测试牛顿引力论十分简单，给树上的苹果砸一下就能体会到了。但测试爱因斯坦广义相对论的引力论则要相对难得多。广义相对论认为一个物体的引力扭曲了周围的时空。科学家已经在太阳系范围内验证了广义相对论，但在宇宙范围内证明它仍是一个巨大的挑战。<i>
+哥本哈根大学玻尔研究所的研究人员利用星系团<a href="http://news.sciencemag.org/sciencenow/2011/09/galaxy-clusters-validate-einstei.html">测试了广义相对论的一个经典推测</a>：从引力场中逃逸出去的光会失去能量，引力场越强，能量失去越多。因此，来自星系团中央的的光子应该比来自边缘的光子失去更多能量。所以来自中央的光的波长要长于边缘的光的波长，在光谱中会偏移向红端。这个效应被称为引力红移（gravitational redshifting）。研究人员分析了斯隆数字巡天计划中的8000个星系团数据，研究星系团中星系红移的分布。他们发现，光的红移与光与星系团中央的距离是成比例的，这与广义相对论预测的相同。
+</i>
+➜假冒苹果手机者使用正品配件制造iPhone
+https://www.solidot.org/story?sid=26240	38520
+《上海日报》周四<a href="http://www.shanghaidaily.com/article/?id=483827&amp;type=Metro">报导</a>，当地警方近日<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-4994420110929">捣毁了一个苹果iPhone手机制假窝点</a>，逮捕了5名犯罪嫌疑人。<i>
+警方称这是一个有组织的团伙，他们从广东等地购入假冒苹果手机配件，在上海租住的居民小区内组装和出售。警方共缴获了假冒苹果手机200余部。报导称，这些假冒苹果手机采用了部分正品配件，制作成本约为2,000元，在黑市及网上的售价高达4,000元左右，只比正品便宜几百元钱。警方说，假冒iPhone手机与正品行货在功能上没有区别，只是电池寿命更短一些。</i>
+➜匿名组织指控中国公司欺诈
+https://www.solidot.org/story?sid=26241	39120
+匿名组织公布了38页的<a href="http://anonanalytics.com/pdf/Chaoda.pdf">报告</a>(PDF)，指控中国蔬菜生产商超大现代农业财务欺诈。<i>
+《金融时报》<a href="http://www.ftchinese.com/story/001040945">报导称</a>，超大管理层“以虚增资本支出和关联方交易为掩护”，把4亿多美元资金转出超大。该公司自2000年首次公开发行(IPO)以来，总计从投资者那里筹集了逾11亿美元资金。周一，香港政府表示正在调查超大，导致其股票暴跌26%，随后被停牌。自5月底以来，超大股价已下跌四分之三。</i>
+➜三星和微软达成Android专利协议
+https://www.solidot.org/story?sid=26242	39600
+《华尔街日报》<a href="http://www.cn.wsj.com/gb/20110929/tec121721.asp">报导</a>，微软和三星达成一项Android专利共享协议，这对谷歌提供免费移动操作系统的努力是一大打击。<i>
+根据这项协议，三星在生产基于Android操作系统的智能手机和平板电脑时将向微软支付专利费(根据微软和HTC达成的协议是每台五美元)。三星还将与微软合作开发基于微软Windows软件的智能手机和平板电脑。微软发表了一份声明，其用意显然是要向手机生产商摩托罗拉移动公司施压，要其也与微软签署类似协议。谷歌斥资125亿美元收购摩托罗拉移动的一个主要原因是希望获得后者数量众多的知识产权，保护使用Android操作系统的生产商不受微软和苹果等公司的“骚扰”。但三星与微软达成的协议对谷歌的移动战略来说<a href="http://www.cn.wsj.com/gb/20110929/hrd114259.asp">是个坏消息</a>，因为这意味着Android不再是免费的了。</i>
+➜中国成功发射天宫一号飞行器
+https://www.solidot.org/story?sid=26243	51120
+9月29日21时16分，中国<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/09/110929_china_spacetiangong1.shtml">成功发射</a>了空间站的目标飞行器“<a href="http://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%AB%E4%B8%80%E5%8F%B7">天宫一号</a>”。中国国家主席胡锦涛、副主席习近平等均在发射中心现场观看了这次发射。<i>
+按照计划，“天宫一号”进入预定轨道后，将先后与“神舟”八至十号飞船对接，最终建立中国自己的空间实验室。“天宫一号”的发射成功是中国航天计划的重要一步。天宫一号主要用于测试多种空间操作，为2020年前建造能允许宇航员在轨道服役数个月的空间站做准备。中国载人航天计划发言人<a href="http://www.physorg.com/news/2011-09-china-space-module.html">表示</a>，中国已经在对载人登月计划做一些概念性研究和初步可行性研究，但尚无实施时间表。</i>

@@ -1,0 +1,29 @@
+➜禅道程序员的原则
+https://www.solidot.org/story?sid=29269	29880
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "在一个阴雨天的早上，我坐在桌子旁，开始想如何才能高效的工作。在我成为一个自由职业者之前，我有很长一段时间都很努力工作，但收效甚微。我在2006开始接触禅学。我马上意识到：古代的禅宗大师们几百年前早就已经知道现今的程序员应该如何工作。虽然我很讨厌“如何成为一个更好的程序员”之类的文章，但<a href="http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html">我仍旧想分享一些我的想法</a>(<a href="http://blog.jobbole.com/17520/">中文</a>)。0.专注、1. 心如止水、2. 初学者心态、3. 抛开自我、4. 不要想着职业目标、5. 停止争论、6. 6. 留心\细心、7. 没有老板、8. 有其他爱好、9. 没有什么东西是不可取代的。"</i>
+➜两英国青少年因炒股机器人欺诈遭美国起诉
+https://www.solidot.org/story?sid=29270	37440
+一对英国双胞胎因利用假炒股机器人欺骗投资者120万美元<a href="http://www.bbc.co.uk/news/world-us-canada-17794272">而遭到美国起诉</a>。美国官员称，2007年当他们还只有16岁时，这对双胞胎策划了一个阴谋，向股票投资者兜售能炒股的机器人Marl，声称它能选出被低估的股票，这些股票的股价有望飚升400%。Alexander和Thomas Hunter兄弟因此诱惑了7.5万名投资者（大部分是美国人），骗取到120万美元。机器人并不真能挑选出低估股票，实际上股票是企业通过重金收买Hunter兄弟而选出来的，他们从中获得了大约190万美元。例如一家唱片出版公司UOMO Media的股价在2008年是69美分，一年后涨到1.06美元，而到2010年9月已经一文不值。美国官员希望法庭禁止两人踏入证券行业，并向投资者退还所得。
+➜《大象之梦》导演制作新开源动画《Tube》
+https://www.solidot.org/story?sid=29271	41040
+《<a href="__SLASHLINK__" sect="opensource" sid="06/06/06/0318256" sn="article" tid="71">大象之梦</a>》导演Bassam Kurdali正在制作一部新3D动画<a href="http://urchn.org/media"> Tube</a>，故事受到了古代美索不达米亚《<a href="http://zh.wikipedia.org/wiki/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80%E5%8F%B2%E8%AF%97">吉尔伽美什史诗</a>》的启发。史诗所述的时间距今有五千年之久，围绕Uruk国王吉尔伽美什（Gilgamesh）展开，他暴虐无度导致神派遣半人半兽的恩奇都（Enkidu）来惩罚他，但两人却英雄相惜，结成好友。恩奇都病逝后吉尔伽美什开始害怕自己死亡。他试图寻求永生，但最后发现他实现的不同于他最初寻找到。大约五千年后，女兵吉尔伽美什因为追逐被路过火车刮走的纸片而跑进一个车站。Bassam试图以新作品向独立电影制作人证明自由文化作品的可行性，以及自由软件Blender和PiTiVi的可用性。Tube将采用CC BY-SA 3.0授权，预计将在7个月内完成，<a href="http://www.kickstarter.com/projects/1331941187/the-tube-open-movie">Kickstarter筹款活动</a>在发布数天内就达到了集资目标。《大象之梦》的制作费用为10万英镑，《Sintel》约40万到50万英镑。
+➜Osiris分布式论坛程序v0.15 发布
+https://www.solidot.org/story?sid=29272	42600
+<a href="mailto:coward@questionmark.www">不氏懦夫</a> 写道 "<a href="http://www.osiris-sps.org/download/">Osiris</a>是一套去中心化的分布式论坛程序。GIT式的内容控制能力和信用的继承功能,让它十分有趣。程序使用 C++ 编写，采用Python作脚本引擎。<i>* P2P – 公钥加密系统配合P2P技术，让每个客户端都拥有(数据)完整的论坛内容拷贝，离线一样浏览，不怕论坛蒸发。<br>* GIT式的内容控制 – 允许客户端通过信用系统将不速之客拒之门外。客户端秉承“不信谣、不传谣”的宗旨决不储存或转发丢弃的数据。<br>* 信用继承 – 如果愿意，信用可以继承，朋友的朋友是朋友，朋友的敌人休想在你的拷贝中发言。<br>* 支持代理 - 但 p2p 和 bootstrap 过程的代理不是分开的。</i>不难想象，每个用户都可通过信用系统有选择的将本地论坛拷贝 fork 成自己喜欢的讨论版本。最后论坛的各个小帮派间看到的内容也许会大不相同。新版速度和稳定性皆有提升，但似乎订阅功能有点问题，订阅论坛前要先禁用P2P功能否则订阅后在帐户界面出现死循环，无法查看订阅的论坛。现存的<a href="http://www.osiris-sps.org/isis">公开论坛列表</a>。"
+➜脑电极让瘫痪猴子恢复身体功能
+https://www.solidot.org/story?sid=29273	43200
+脊髓损伤会导致瘫痪，因为它们充当了大脑与控制肢体运动的肌肉之间的关键通信链路。一项新研究用猴子演示了一种重新建立通信链路的方法。<a href="http://news.sciencemag.org/sciencenow/2012/04/brain-implants-help-paralyzed.html">通过在大脑运动控制中心植入电极</a>，然后与附在手臂肌肉上的电极连线，研究人员恢复了猴子临时被瘫痪的手的移动能力。这项研究是神经义肢领域的最新进展。<a href="http://dx.doi.org/10.1038/nature10987">报告</a>发表在《自然》上。在实验中，猴子在80%的时间里能成功控制手移动。
+➜Pixel Qi称下一代显示屏能达到或超过iPad 3屏幕质量
+https://www.solidot.org/story?sid=29274	44640
+Pixel Qi官方博客<a href="http://pixelqi.com/blog1/2012/04/21/next-generation-pixel-qi-screen-improves-over-ipad3-display/?utm_source=twitterfeed&amp;utm_medium=twitter">宣布</a>，其下一代显示屏采用了全新架构，能达到iPad3屏幕的分辨率（2048x1536），图像质量如对比度、色彩饱和度和视角能能达到或超过iPad3屏幕，而耗电量更是远远低于iPad3，是其峰值功率的百分之一。官方博客没有提及显示屏的刷新率。
+➜第三次工业革命？
+https://www.solidot.org/story?sid=29275	45600
+《经济学人》<a href="http://www.economist.com/node/21553017">认为</a>，人类现在已经进入第三次工业革命时代，十八世纪末的第一次工业革命以机器取代手工，二十世纪初的第二次工业革命强调大量生产，而近年来兴起的<a href="http://news.chinatimes.com/world/110504/112012042100196.html">第三次工业革命</a>则是制造数字化，为传统制造业的面貌和生产方式带来巨大改变。智能软件、新材料、更灵活的机器、新制造工艺（特别是3D打印）、以及网络提供的各种软件服务，这些新科技使工厂得以逐渐挥别批量生产，进入定制化，以更低的成本，生产少量但多样化的产品，满足不同顾客的不同需求。所有革命都要付出代价，第三波工业革命也不例外，就像之前两波工业革命都曾淘汰若干行业和劳工，未来制造业势必再出现一场优胜劣败的大洗牌，工厂需要的劳工将越来越少，但需要更高的技能。
+➜中国频发食品安全事件
+https://www.solidot.org/story?sid=29276	46800
+wmr 写道 <i>"多家明胶厂将铬含量严重超标的工业明胶卖给胶囊生产企业，<a href="http://www.zaobao.com/special/hotspot/pages2/hotspot120417c.shtml">然后加工生产药用胶囊</a>。中国央视主持人在微博中建议大众为食品安全<a href="http://www.bbc.co.uk/zhongwen/simp/rolling_news/2012/04/120411_rolling_china_yoghurt.shtml">少吃果冻和酸奶</a>。云南省镇雄县一小学337名小学生吃了营养餐后出现腹泻、腹痛、发高烧等症状。云南泸西126名小学生<a href="http://news.dayoo.com/china/201204/22/53868_23397408.htm">疑似食物</a>。云南芒部镇、坡头镇、木卓乡三地发生过<a href="http://news.ycwb.com/2012-04/21/content_3777134.htm">疑似食物中毒事件</a>。贵阳一小学也发生了营养餐<a href="http://finance.ifeng.com/news/region/20120416/5938384.shtml">疑似中毒</a>。事件体育总局<a href="http://shipin.people.com.cn/GB/17538840.html">下达</a>非正式“禁肉令”。
+不少中央和地方的政府部门都在<a href="__SLASHLINK__" sect="society" sid="12/04/20/0938254" sn="article" tid="100">享受特供食品</a>。中国羽毛球队食用<a href="http://news.sohu.com/20120421/n341196053.shtml">特供肉</a>。有人评论说，这是中国社会<a href="http://www.voanews.com/chinese/news/20120421-China-Medicine-safty-148372175.html">人人害我，我害人人</a>现象。"</i>
+➜优秀的Linux文件管理器替代
+https://www.solidot.org/story?sid=29277	47700
+<a href="mailto:cjacobs@yahoo.co.uk">Colin Jacobs</a> 写道<i> "重新发明轮子经常被引为开源软件开发中的一大阻碍。批评者指出，如果开发者在项目上团结合作，而不是重复已存在的项目，这将有助于简化用户选择，并能大大推进现有开源项目的开发。确实开发的时间浪费了，不难举出重造轮子的事例。然而，Linux的优势之一就是有足够多的选择，有很大机会找到满足个人需要的优秀软件。从数以百计的开源文本编辑器、文件管理器、集成开发环境、备份工具、数据库，网络浏览器和FTP客户端中，你有很大的可能性发现你真心需要的软件。Linux有许多成熟的文件管理器，但还有一些管理器虽然鲜为人知，<a href="http://www.linuxlinks.com/article/20120421142557450/AlternativeFileManagers.html">但却都独具特色</a>。例如，内置VFS的多面板标签式文件管理器<a href="http://ignorantguru.github.com/spacefm/">SpaceFM</a>，双面板图形文件管理器<a href="http://www.obsession.se/gentoo/">gentoo</a>，界面可缩放的<a href="http://eaglemode.sourceforge.net/">Eagle Mode</a>，等。
+"</i>

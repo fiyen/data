@@ -1,0 +1,52 @@
+➜KDE 4.2 RC1发布
+https://www.solidot.org/story?sid=9512	60
+KDE项目发布了<a href="http://kde.org/announcements/announce-4.2-rc.php">KDE 4.2的预发布版Cilense</a>。Cilense的目标是测试者和评论家，测试者帮助在正式发布前找出最后的bug，而评论家则可以在正式发布前一睹KDE 4.2桌面的主要改进。它并不推荐作为日常使用。KDE 4.2.0预定于1月27日发布，紧跟着的KDE 4.3.0将在夏天推出。
+➜Ubuntu和Debian用户的秘密生活
+https://www.solidot.org/story?sid=9515	1200
+使用开源和自由软件，拥护者常言这不是有关流行的竞争，而是有关做什么是正确的。但<a href="http://popcon.debian.org/">Debian</a>和<a href="http://popcon.ubuntu.com/">Ubuntu</a>的Popularity Contest项目对此表达了不同意见。这两个项目<a href="http://itmanagement.earthweb.com/osrc/article.php/3796126/The-Secret-Lives-of-Ubuntu-and-Debian-Users.htm">追踪了各自发行版用户的下载和升级习惯</a>，统计显示——这并不令人意外——Ubuntu用户水平通常比Debian用户菜。数据显示，86%的Ubuntu电脑上安装了私有的NVidia驱动，相比较只有很少的Debian电脑如此做。同样，Debian用户很少使用默认软件，他们更愿意挑选多个来源。以桌面为例，85%的Ubuntu机器安装了GNOME，Debian机器只有50%，有十六分之一的机器安装了Xfce。作者的结论是：<i>
+一般来说，Debian用户比Ubuntu用户选择更开放，很少因为是默认安装而使用该应用程序。Debian用户也比Ubuntu用户更关心软件的自由——这也并不让人惊讶，因为Debian自由的名声已经在外了，但令人感兴趣的是它能被统计所支持。考虑到仅仅统计了一周的数据，如果在一个比较长的时间内研究或许能产生不同的结论。</i>
+➜IBM在2008年获得专利又是最多
+https://www.solidot.org/story?sid=9513	1500
+IBM曾发誓，要申请最有意义的专利，而不是只追求数量。因此当它创造历史，<a href="http://www.reuters.com/article/technologyNews/idUSTRE50D3G020090114?feedType=RSS&amp;feedName=technologyNews">成为第一家单年注册专利超4000项时</a>，蓝色巨人是不是应该再去申请一项评判专利价值的专利。<i>
+2008年，IBM在美国共注册4186项专利，几乎是竞争对手惠普的三倍。其后是三星3515项，佳能2114项，微软2030项，英特尔1776项，日本松下1745项，东芝1609项，富士通1494项，索尼1485项，惠普1424项，日立1313项等，详细可见IFI的<a href="http://www.ificlaims.com/IFIPatents010909.htm">TOP35</a>，你也可以比较<a href="http://www.ificlaims.com/IFI%20Patent%20Release%201-9-08.htm">2007年</a>和<a href="http://www.ificlaims.com/press_release012007a.htm">2006年</a>的数据。</i>
+➜德国立法要强制实施网络过滤
+https://www.solidot.org/story?sid=9514	2100
+德国家庭部长宣布了一项立法建议，强迫ISP执行<a href="http://www.spiegel.de/netzwelt/web/0,1518,601440,00.html">政府委托的封锁名单</a>（<a href="http://translate.google.com/translate?hl=en&amp;sl=de&amp;tl=en&amp;u=http://www.spiegel.de/netzwelt/web/0,1518,601440,00.html">Google翻译</a>），名单将每日更新。德国联邦警察（BKA）将负责制作和维护名单。当然，这项法律也是借着打击儿童色情的名义。在回答这项技术和法律是否将审查其它内容时，部长女士回答，不必要淡化问题，是不是儿童色情内容是可以“<a href="http://internet.solidot.org/~bladerunner/journal/911">明确界定</a>”的。
+➜深入了解 HTML 5
+https://www.solidot.org/story?sid=9516	8640
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "虽然 HTML 5 仍遥遥无期，然而最近有关 HTML 5 的文章和资料却越来越多起来，这个 World Wide Web 核心语言的第5个版本包含了太多的期待。这是 cameronmoll.com 搜集的12个非常有用的 HTML5 资源，这些资料的目的并不是简单地介绍 HTML5，因为它还未完成，而是提供一些为 HTML5 做准备的思路。"           <a href="http://www.alistapart.com/articles/previewofhtml5">A Preview of HTML 5</a>：Lachlan Hunt 写的 HTML 5 预览，这篇写于一年前的文章，更象一份关于 HTML 5 的预言。<br> <br>
+<a href="http://dev.w3.org/html5/spec/Overview.html">W3C HTML 5 Spec</a>：W3C 的 HTML 5 细则。<br> <br>
+<a href="http://jontangerine.com/log/2008/03/preparing-for-html5-with-semantic-class-names">Preparing for HTML5 with Semantic Class Names</a>：非常全面的介绍。<br> <br>
+<a href="http://www.w3.org/TR/2008/WD-html5-diff-20080122/">HTML 5 differences from HTML 4</a>：HTML 5 和 4 的区别，HTML 5 不再支持 frame 和 frameset，对很多人来说，不知是幸还是不幸。不过这篇来自 W3C 的文档出奇地易读。<br> <br>
+<a href="http://forabeautifulweb.com/blog/about/more_on_developing_naming_conventions_microformats_and_html5/">More on developing naming conventions, Microformats and HTML5</a>：HTML 5 语义化命名约定，这篇文章讲述了在向 HTML5 迁移到漫长过程中，我们应该怎样尽可能使用语义化的命名原则。里面还有一个非常好的<a href="http://forabeautifulweb.com/blog/about/more_on_developing_naming_conventions_microformats_and_html5/">演示文件</a>。<br> <br>
+<a href="http://en.wikipedia.org/wiki/HTML_5">Wikipedia: HTML 5</a>：维基百科关于 HTML 5 的一些资料。<br> <br>
+<a href="http://adactio.com/journal/1540">The Rise of HTML5</a>： <a href="http://uxlondon.com/">UX London</a> 是一个用 HTML5 设计的站点，这篇文章是对该站背后技术的剖析。“事实上，在置标语言上，HTML 5 和以往并不是那么不同，最大的不同在于 DOM”<br> <br>
+<a href="http://meyerweb.com/eric/thoughts/2009/01/02/an-event-apart-and-html-5/">An Event Apart and HTML 5</a>：对 <a href="http://aneventapart.com/">An Event Apart</a> 站点的剖析文章。“HTML 5 给人的独特印象是，它一方面让你舒服，一方面让你狂怒。”<br> <br>
+<a href="http://boblet.tumblr.com/post/60552152/html5">HTML5 id/class name cheatsheet</a>：HTML 5 的 id/class 名称表<br> <br>
+<a href="http://dev.w3.org/html5/html-author/">The Web Developer’s Guide to HTML 5</a>：Web 开发者的 HTML 5 指南。W3C 写的。<br> <br>
+<a href="http://alistapart.com/articles/semanticsinhtml5">Semantics in HTML 5</a>：HTML 5 中语义。大名鼎鼎的 A LIST APART 上周刚刚发布的文章。ALA 的文章无论如何也值得一看，如果你英文够好。（ALA 的文章一般属于技术随笔范畴）<br> <br>
+<a href="http://www.brucelawson.co.uk/tests/html5-elements.html">HTML 5 elements test</a>：演示了 HTML 5 各元素是如何渲染的。只支持最新浏览器。
+<br> <br>原文来源：<a href="http://cameronmoll.com/archives/2009/01/12_resources_for_html5/">http://cameronmoll.com/archives/2009/01/12_resources_for_html5/</a> <br>中文来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+➜Sun开源Netscape Enterprise Server
+https://www.solidot.org/story?sid=9517	16320
+<a href="http://en.wikipedia.org/wiki/Netscape_Enterprise_Server">Netscape Enterprise Server</a>最初是网景公司于90年代开发的web server，后被Sun收购后改名为Sun Java System Web Server，现在Sun<a href="http://blogs.sun.com/jyrivirkki/date/20090113">正式宣布</a>Netscape Enterprise Server采用BSD许可证开源。在将近20年后，Apache原来的竞争对手也采用开源许可证让任何人都可自由使用。
+➜IBM专利trim()
+https://www.solidot.org/story?sid=9518	18000
+某日，蓝衣人（Blue）对太阳（Sun）说，你们侵犯了我们7项专利。太阳笑脸相迎，忙不迭的找了一大堆律师和工程师，满头大汗的向蓝衣人解释和诠释，指出他们顶多侵犯了一项专利。蓝衣人面无表情的坐着，冷冷的说，“我们有数万项专利，你们真的想让我们去翻出7项你们侵犯了专利？或者简单点，给我们2千万美元？”通过友好的磋商之后，太阳开了一张支票。<a href="http://www.forbes.com/asap/2002/0624/044.html">蓝衣人则拎着包走向死亡名单上的另一家公司</a>。<i>
+现在专利大鳄IBM又从美国专利和商标局获得了trim()专利：<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7,475,086.PN.&amp;OS=PN/7,475,086&amp;RS=PN/7,475,086">在数据进入数据库时移除首尾空字符</a>。</i>
+➜研究称咖啡能减少患阿兹海默症的风险
+https://www.solidot.org/story?sid=9519	20520
+芬兰和瑞典的研究人员称，喝中等数量咖啡的中年人能显著的<a href="http://news.theage.com.au/breaking-news-world/coffee-reduces-alzheimers-risk-study-20090116-7in8.html">减少患老年痴呆症的风险</a>。原因尚不清楚，推测是咖啡中发现的高浓度抗氧化剂也许在防止痴呆和阿兹海默症方面扮演了重要角色。去年有研究发现咖啡能<a href="http://news.bbc.co.uk/2/hi/health/7326839.stm">保护神经</a>，可帮助预防阿兹海默症。但研究人员也警告，不能喝太多咖啡，<a href="__SLASHLINK__" sect="science" sid="09/01/15/079234" sn="article" tid="71">因为三杯咖啡就会增加幻觉产生</a>。
+➜准能源部长朱棣文并没有忘记物理学
+https://www.solidot.org/story?sid=9520	22800
+物理学家<a href="http://zh.wikipedia.org/wiki/%E6%9C%B1%E6%A3%A3%E6%96%87">朱棣文</a>即将成为奥巴马政府的美国最高能源官员，但物理学显然并没有<a href="http://www.sciam.com/blog/60-second-science/post.cfm?id=energy-secretary-designate-steven-c-2009-01-16">远离他的脑海</a>。他刚刚与人合作在预印本网站<a href="http://arxiv.org/">arxiv.org</a>贴出了一篇论文。<i>
+朱棣文，60岁，<a href="http://www.lbl.gov/Publications/Director/">劳伦斯柏克莱国家实验室主任</a>，以原子和粒子激光冷却的研究获得 <a href="http://nobelprize.org/nobel_prizes/physics/laureates/1997/">1997年诺贝尔物理学奖</a>，同时还是一位多产的研究人员。最新的论文《<a href="http://arxivblog.com/?p=1101">Noise-Immune Conjugate Large-Area Atom Interferometers</a>》描写了一种高灵敏度的原子干涉仪，此种设备可用于测量基本物理常数，甚至是测试爱因斯坦的广义相对论。论文合著者加州伯克利的物理学家<a href="http://www.physics.berkeley.edu/research/faculty/mueller.html">Holger Müller</a>表示，用激光将原子分到两种路线上，然后再将路线合并，原子沿着路线行进的行为就像是物质波。</i>
+➜我们的宇宙也许是全息图
+https://www.solidot.org/story?sid=9521	34560
+德国的引力波探测器<a href="http://geo600.aei.mpg.de/">GEO600</a>也许无意间获得了近半个世纪以来最重要的发现。令人他们头疼的神秘噪声或可用<a href="http://www.newscientist.com/article/mg20126911.300-our-world-may-be-a-giant-hologram.html?full=true&amp;print=true">全息宇宙论观点</a>去解释。<i>
+几年来，寻找引力波却一无所获的研究人员努力定位和消除试验中的干涉和噪声来源。几个月来，他们苦苦思考无法解释的噪声源。随后费米实验室粒子物理实验室的物理学家Craig Hogan，接触了他们，提供了一个可能的答案，那就是：GEO600也许偶然发现了时空的根本性限制—时空停留点，不是如爱因斯坦所描述的光滑而连续，而是分解成“粒状”—就像放大新闻照片时呈现的颗粒那样。Hogan称，如果GEO600所发现的就是他所推测的，那么人类其实就生活在一个巨大的宇宙全息图中。Hogan的“全息原理（holographic principle）”认为宇宙在小尺寸上将是模糊的，它的最小尺寸要远大于<a href="http://zh.wikipedia.org/wiki/%E6%99%AE%E6%9C%97%E5%85%8B%E5%B8%B8%E6%95%B0">普朗克长度</a>（约10^(-35）米），可以被现有的设备如GEO600探测到。如果得到证实，它将驱除量子引力论，因为量子引力论无法合并到全息原理中。相反它会推动如弦论和矩阵理论的发展。但GEO600的首席科学家表示现在高兴还早。</i>
+➜中国采用拘捕去阻止互联网色情
+https://www.solidot.org/story?sid=9522	44400
+官方所有的新华社报道，自开展<a href="__SLASHLINK__" sect="internet" sid="09/01/09/0846216" sn="article" tid="48">整治互联网低俗之风专项行动</a>以来，中国已关闭淫秽色情等违法网站<a href="http://news.xinhuanet.com/newscenter/2009-01/15/content_10663398_1.htm">500余家</a>，已经逮捕了<a href="http://tech.blorge.com/Structure:%20/2009/01/16/china-makes-arrests-to-stop-internet-porn/">28名嫌疑犯</a>。
+<i>
+中国十分严肃的对待此次行动，并扩大了对互联网色情的打压，到目前为止已产生了29件刑事案件。警方下令网站删除了46000幅色情图像和其它低俗内容。美国的一份报告称，审查是不可能的，很显然作者没有在中国工作过。这里有数以万计—字面上的意义——的人，其日常工作就是在互联网上寻找和报告罪犯。根据《南华早报》的报道，被逮捕者中，有4名是“午夜xx呼叫”的经营者，另有两人被控用视频聊天服务欺骗消费者。目前没有人对此行动表达不满，因为它看起来是好事。但也有老外认为，政府是警觉到由于经济下滑而致使社会动乱事件上升后采取这一行动的。</i>

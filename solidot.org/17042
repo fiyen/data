@@ -1,0 +1,64 @@
+➜沃通：中国网民爱跟外国节奏 不要把CA技术问题政治化
+https://www.solidot.org/story?sid=49481	6200
+匿名读者 写道 "在大家<a href="http://www.solidot.org/story?sid=49448" target="_blank">早已熟知</a>的<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/k9PBmyLCi8I" title="火狐考虑干掉沃通" target="_blank">火狐考虑干掉沃通</a>的帖子里，自称功夫炮受害者的 Percy Alpha&nbsp;<a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/k9PBmyLCi8I/ftWJdNTqCgAJ" title="写道" target="_blank">写道</a>：<i>
+<p>&gt; 可能要惩罚沃通的消息已经贴上 Solidot（中国 Slashdot）啦&nbsp;<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.solidot.org%2Fstory%3Fsid%3D49448&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHEU-uJcUhA6HkdAxsspxSvBhaQuw" target="_blank" rel="nofollow" style="margin: 0px; padding: 0px; border: 0px; cursor: pointer;">http://www.solidot.org/story?sid=49448</a>&nbsp;
+在我写邮件这会儿有12条评论，8条说要撤掉WoSign，剩下的在说国内安全措施的缺失。</p>
+<p>&gt; 自我介绍一下。当年（2014）我 Percy Alpha 爆了功夫乌中间人打iCloud、Outlook、Yahoo的事情，2015年又成了大炮的受害者。</p>
+<p></p>
+<p>&gt; （<a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/k9PBmyLCi8I/G084NGrrCgAJ" title="接下一封" target="_blank">接下一封</a>）</p>
+<p>&gt; 在大多数的中国机构里面啊，大部分的检查都是走走形式。和CNNIC不同，我并没有说要赶快干掉沃通（嗯我自己是干掉了）。但是证书起始时间（notBefore）错误表现出一件事，那就是所有发布的证书都应该有个CT。当然，除了CT的事情之外，沃通还得回应Matt和Ryan提出的其他问题。</p>
+对于上一封邮件，沃通的Richard Wang是<a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/k9PBmyLCi8I/1O1hpPzrCgAJ" title="这么回的" target="_blank"></a><a href="https://groups.google.com/d/msg/mozilla.dev.security.policy/k9PBmyLCi8I/1O1hpPzrCgAJ" title="这么回的" target="_blank">这么回的</a>：
+<p></p>
+<p>&gt; 这是中国互联网的日常啊，如果有个西方公司跟中国公司说什么（表意错误，应为“说中国公司点什么”），大家就都去支持西方公司了。</p>
+<p>&gt; 请你们不要把这个技术问题变成政治问题。</p>
+<p>
+</p>
+</i>
+<p><i>总之呢，沃通对于问题把握得还挺准的——某些本地CA确实已经失信于用户和网管了。Azure中国（世纪互联）从CNNIC跑到了WoSign又换成了Digicert；CNNIC官网也很有趣地不要自己的CA换到了Digicert。至于政治问题，也不知沃通<a href="https://www.wosign.com/about/WoSign_ForeignCA_compare.htm" title="列出自己相比国外CA的优势" target="_blank">列出自己相比国外CA的优势</a>的时候，是怎么考虑“安全性”和“合法性”的。"</i></p>
+➜Steam、索尼和亚马逊受理《No Man's Sky》退款
+https://www.solidot.org/story?sid=49482	11469
+备受期待的宇宙沙盒、算法生成游戏《<a target="_blank" href="https://en.wikipedia.org/wiki/No_Man%27s_Sky"><u>No Man's Sky</u></a>》本月初发布之后饱受恶评，原因包括开发商Hello Games早先承诺的功能最后没有出现在游戏正式版本中，游戏存在bug和性能问题，以及游戏模式重复，但最重要的是<a target="_blank" href="https://necromanov.wordpress.com/2016/08/22/no-mans-sky/"><u>游戏的预告与成品的脱节</u></a>。感到欺骗的玩家因此<a target="_blank" href="https://games.slashdot.org/story/16/08/28/1749254/players-seek-no-mans-sky-refunds-sonys-content-director-calls-them-thieves"><u>寻求退款</u></a>，Steam有游戏时长超过2小时就拒绝退款的政策，尽管如此，很多人报告Steam开始不限制游戏时长接受玩家的退款请求，而索尼和亚马逊也开始接受玩家的退款申请，也不限制游戏时长。对此，索尼前战略内容总监Shahid Kamal Ahmad认为，如果游戏时长超过50小时的玩家仍然寻求退款，那么他们可以被称为小偷了。他随后强调，大部分玩家都不是小偷，都是诚实的人。
+➜因使用错误的维基百科数据，Bing地图丢失了墨尔本
+https://www.solidot.org/story?sid=49483	14452
+<div align="center"><img src="http://img.solidot.org/0/866/lircZE49ij0Ak.jpg" height="317" align="" width="480"><br>
+</div>
+<br>
+微软上周被发现Bing地图搞错了澳大利亚维多利亚省首府墨尔本的坐标，将其坐标定位37.813610, 144.963100 ，而实际上真正的坐标是-37.813610, 144.963100。澳大利亚位于南半球，其使用的是南纬而不是北纬。Bing 地图的高级项目经理Ricky Brundritt在修正坐标后
+称出错的原因是<a target="_blank" href="http://www.theregister.co.uk/2016/08/23/microsoft_lost_a_city_because_it_used_bad_wikipedia_data/"><u>使用了维基百科的数据</u></a>。维基百科并不是可靠的信息源，因为它的内容是人人都可以编辑的。幸好<a target="_blank" href="https://news.slashdot.org/story/16/08/27/2344213/microsoft-lost-a-city-because-they-used-wikipedia-data"><u>没人使用</u></a>Bing 地图导航。
+➜新加坡发现41名Zika病毒感染者
+https://www.solidot.org/story?sid=49484	16620
+新加坡<a target="_blank" href="http://www.ftchinese.com/story/001069125"><u>确认</u></a>在一个地段发现41名Zika病毒本地感染者，这是病毒迄今在亚洲发现的最大感染群体，这种通过蚊子传播的疾病正在亚洲扩散。新加坡卫生部周日表示，更多Zika患者可能会被确诊。到目前为止，感染者大多为外国建筑工人。其中7人还在医院，34人已经康复。新加坡国家环境局与卫生部在一份联合声明中敦促新加坡人，“为了尽量减小Zika在新加坡进一步蔓延的风险，最紧要的是我们所有人要共同立即采取措施，防止蚊虫在我们的家园滋生……并经常使用驱蚊剂保护自己免受蚊虫叮咬。”对大部分人而言，病毒感染病征都是轻微、短暂的，但该病毒会对孕妇带来风险，因为它会引发严重的出生缺陷。
+➜中国成立开发航空发动机的新国企
+https://www.solidot.org/story?sid=49485	18006
+中国使用的民用航空发动机绝大多数<a target="_blank" href="http://www.wsj.com/articles/china-establishes-new-state-owned-aircraft-engine-maker-1472397621"><u>都是外国制造或基于外国的技术</u></a>，比如最近投入运营的支线客机ARJ21使用的是GE的引擎，而正在开发的大型客机C919使用的是CFM的引擎。现在，中国组建了一家新的国有发动机公司中国航空发动机集团公司，以实现打造本土航空巨头、跻身全球航空大国之列的宏伟目标。新公司注册资本为人民币500亿元，员工9.6万人。官媒新华社报道，中国航发将专注飞机发动机的设计、制造和测试。业内分析人士<a target="_blank" href="http://cn.wsj.com/gb/20160829/biz084122.asp"><u>表示</u></a>，通过成立中国航发，中国政府希望打造一个自给自足、能够用国产技术满足商用和军用航空需要的航空业。
+➜FBI扣押的Megaupload.org域名被劫持展示色情广告
+https://www.solidot.org/story?sid=49486	26338
+2012年1月，FBI以版权侵犯和助长盗版为由关闭了Megaupload网站同时扣押了Megaupload.com 、Megaupload.org等关联域名。如今域名仍然控制在FBI手中，但却不再展示政府扣押的横幅，<a target="_blank" href="http://arstechnica.com/tech-policy/2016/08/fbi-owned-megaupload-org-serves-up-porn-and-sex-ads/"><u>而是展示色情广告</u></a>，原因是被用于重定向流量的域名服务器的域名过期。Megaupload.org使用的域名服务器是NS5.CIRFU.NET 和NS6.CIRFU.NET，而CIRFU.NET的域名已经过期被人买下。买家认为可通过少数流向Megaupload.org的流量赚些小钱。目前并不清楚该网站究竟是从何时开始展示色情广告的。FBI尚未对此发表回应。
+➜Maru发行版源代码释出
+https://www.solidot.org/story?sid=49487	28149
+Linux桌面最多只取得有限的成功，相比之下以Android为代表的Linux移动则是一骑绝尘。两类系统差异巨大，但我们今天使用的掌上设备所拥有的计算能力超过了过去使用的桌面系统。如果有合适的外设，
+Android 移动设备能提供合理的桌面体验。<a target="_blank" href="http://maruos.com/"><u>Maru项目</u></a>便是旨在让Android智能手机<a target="_blank" href="http://lwn.net/Articles/684010/"><u>变成便捷式Debian桌面</u></a>。现在，Maru OS项目正式<a target="_blank" href="http://lwn.net/Articles/698340/"><u>宣布</u></a>在Apache许可证下公开源代码，<a target="_blank" href="https://github.com/maruos/maruos"><u>源代码</u></a>托管在GitHub上。
+➜NASA完成一年的模拟火星生存任务
+https://www.solidot.org/story?sid=49488	30571
+六名科学家在夏威夷<a target="_blank" href="https://www.theguardian.com/science/2016/aug/28/mars-scientists-nasa-dome-hawaii-mountain-isolation"><u>完成了长达一年的火星模拟实验</u></a>。六名成员包括了一名法国天体物理学家、一名德国物理学家、四名美国人——飞行员、建筑师、医生/记者和土壤学家。在实验过程中，他们必须设法依赖有限的资源进行研究和工作，同时避免人际冲突。来自法国的Cyprien Verseux认为，模拟显示火星任务有可能成功，他认为技术和心理障碍能被克服；来自德国的Christiane Heinicke认为，干燥的地面能获取到水。美国、中国等国都计划在未来二十年内发射载人火星任务。
+➜Linus 爱GPL，但不喜欢GPL诉讼
+https://www.solidot.org/story?sid=49489	33018
+在上周多伦多举行的LinuxCon NA会议上，Linus Torvalds 和 VMware 副总裁 Dirk Hohndel讨论了 GNU GPL <a target="_blank" href="http://www.cio.com/article/3112582/linux/linus-torvalds-says-gpl-was-defining-factor-in-linuxs-success.html"><u>在 Linux 成功上所起的作用</u></a>。Hohndel 问，内核面临的一大挑战是分裂的可能性，“我们是如何维持单一内核的？”Linus回答，他曾担心分裂，曾认为在某种时候分裂是不可避免的。每个人去看一下Linux的历史，然后与UNIX对比，他们将会说Linux会走向失败，因为它会走向分裂，这以前发生过，何必再来一次？Linus指出，区别在于许可证。“自由软件基金会和我之间没有亲密友爱的关系，但我爱 GPL v2。我真的认为许可证是Linux成功的决定性因素之一，因为它强制要求必须反馈，从技术角度看分裂再也不是可行的做法。”对于BSD，Linus认为如果你不在乎自己写的代码BSD是一种出色的许可证。虽然爱GPL，但Linus<a target="_blank" href="https://linux.slashdot.org/story/16/08/27/1943246/linus-loves-gpl-but-hates-gpl-lawsuits"><u>不喜欢GPL诉讼</u></a>。他认为诉讼对开放、社区和项目有害。
+➜俄罗斯议员之子被判有罪
+https://www.solidot.org/story?sid=49490	35654
+俄罗斯国家杜马议员Valery Seleznev之子Roman Valerevich Seleznev被美国的一个陪审团<a target="_blank" href="http://arstechnica.com/security/2016/08/hacker-who-stole-2-9-million-credit-card-numbers-is-russian-lawmakers-son/"><u>判定有罪</u></a>。Seleznev利用端口扫描技术搜寻零售企业使用的联网信用卡处理系统，识别漏洞然后下载恶意程序窃取信用卡号码，窃取的信用卡随后在地下市场出售。他销售出了14万信用卡号码获取到200万美元的收入。但销售出去的信用卡只占到他窃取的信用卡号码中的很小一部分。2014年7月，美国在马尔代夫机场逮捕了Seleznev和他的女友，这次行动被俄罗斯<a target="_blank" href="http://www.solidot.org/story?sid=40271"><u>称之为绑架</u></a>。他的笔记本电脑被发现储存了超过170万窃取的信用卡号码，检方估计他窃取了290万信用卡号码。法庭将在12月2日宣布判决结果。
+➜印度ISP与BT网站合作加速BitTorrent
+https://www.solidot.org/story?sid=49491	37899
+印度ISP找到了一种方法<a target="_blank" href="https://torrentfreak.com/indian-isps-speed-bittorrent-peering-torrent-site-160828/"><u>减少BitTorrent流量对网络的负载</u></a>：与BT搜索引擎 Torbox.net合作帮助在本地用户之间建立对等连接，减少外部网络费用的同时加快下载速度。BitTorrent 流量会加大网络之间负载，虽然同一网络内部的流量费用是免费的，但不同网络之间的流量费用却价格不菲。为了解决该问题，一些ISP会限制BitTorrent 流量，但另一些ISP却找到了双赢的方法：通过帮助BitTorrent用户与本地对等用户建立连接而加快下载。他们的合作伙伴是Torbox，Torbox使用下载者的IP地址判断他们所属的ISP，然后将他们导向相同ISP内的对等用户。
+➜调查称超七成网民信息泄露
+https://www.solidot.org/story?sid=49492	39308
+两名大学生因电信欺骗死亡的案件引发了对信息泄露的关注。事实上信息泄露早已屡见不鲜，<a target="_blank" href="http://opinion.caixin.com/2016-08-29/100982786.html"><u>官方的一项调查称</u></a>，有72%的受访网民表示身份信息（姓名、手机号、电子邮件、学历、住址和身份证号码等）遭到泄露；有54%的受调查网民表示网上活动信息（网购记录、网站浏览痕迹、IP地址、位置信息等）遭到泄露。另有26%的受访网民表示个人财务信息遭到泄露，包括网络账号和密码、银行卡号、财产等。这类信息的泄露通常意味着财产的直接损失。信息泄露的途径包括：移动应用在用户不知情下悄悄收集，中国的移动应用通常会索取超过其自身需要的权限；内部人士泄露；黑客窃取了网站或服务收集的用户数据。
+➜Facebook如何打压民主
+https://www.solidot.org/story?sid=49493	42240
+开放Web的缔造者Tim Berners-Lee爵士<a target="_blank" href="https://www.theguardian.com/commentisfree/2016/aug/28/tim-berners-lee-open-web-mark-zuckerberg-facebook"><u>不是Facebook的朋友</u></a>，就像Facebook<a target="_blank" href="http://cn.nytstyle.com/technology/20160829/daily-report-facebooks-attack-on-democracy/"><u>并非民主之友</u></a>。以Facebook为代表的社交网络推动了观点的同质化而不是多元化，它筑起了围墙花园，试图建立一个支配一切的网络。当然，在Facebook出现之前，这种现象早已存在。谈话广播节目和有线电视新闻让一系列观点得以呈现，最大的广播网播出的节目支持的不是右派的世界观，就是左派的。但网络生活把这种现象带向了一个全新的水平。机器学习和人工智能领域的最新进展可能会加剧这个问题。它们是目标有限的统计学系统：如果事实证明你喜欢某种东西，你就会看到更多这类东西，你可能会喜欢并分享它们，而这又确保你会看到更多这类东西。
+➜新病毒打破了感染规则
+https://www.solidot.org/story?sid=49494	43397
+科学家通常认为，病毒的感染是以一个病毒感染一个细胞的方式进行的。但上周发表在《Cell Host &amp; Microbe》期刊上的一篇<a target="_blank" href="http://www.cell.com/cell-host-microbe/fulltext/S1931-3128(16)30310-9"><u>论文</u></a>令研究人员<a target="_blank" href="http://www.npr.org/sections/goatsandsoda/2016/08/25/491261766/new-virus-breaks-the-rules-of-infection"><u>重新思考病毒感染动物</u></a>的方式。研究人员从特立尼达拉岛发现的一种库蚊身上分离出一种病毒，这种病毒会分解成几部分，而成功的感染需要蚊子接触到其中多个部分。举例来说，病毒有5个基因，每个基因都是孤立的，蚊子至少需要接触到4个基因才能被成功感染，否则就会失败，第五个基因看起来是可选的。这种病毒目前发现不会感染人类。
+➜安全专家如何保护他们的数据
+https://www.solidot.org/story?sid=49495	44792
+安全专家<a target="_blank" href="http://www.siliconvalley.com/troy-wolverton/ci_30298033/when-it-comes-protecting-personal-data-security-gurus"><u>如何保护他们的数据</u></a>？Marcin Kleczynski，一家专注于保护用户抵御黑客的公司CEO，使用了14个字符的密码和二步认证保护自己的Twitter账号；电子前哨基金会的首席技术专家 Cooper Quintin 则根本不在电脑上运行杀毒软件，部分原因是他的电脑运行的是Linux系统，面临的危险没有Windows电脑大，部分是因为他从哲理上反对杀毒软件，他认为杀毒软件创造了安全的错觉，他经常性的加密电子邮件，但不推荐普通用户这么做，因为加密软件比较难用；普渡大学计算机科学教授Eugene Spafford不更新电脑和软件，因为电脑不联网；知名加密学专家、 Resilient Systems CTO Bruce Schneier则拒绝冒着风险谈论如何保护数据，他认为自己是目标。

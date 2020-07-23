@@ -1,0 +1,49 @@
+➜ZFS 仍然有可能进入 Linux 内核
+https://www.solidot.org/story?sid=54259	13176
+由于许可证与 Linux kernel 使用的 GPLv2 许可证不兼容，ZFS 至今无法合并到主线 Linux 内核。但 ZFS
+进入上游内核<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Oracle-ZFS-2017-Possibility" target="_blank">仍然是可能的</a>。在旧金山举行的 <a href="http://open-zfs.org/wiki/Main_Page" target="_blank"><u>OpenZFS Developer Summit 2017</u></a> 峰会上，甲骨文/Sun 的资深软件架构师 Mark Maybee 谈论了 ZFS 的现状及未来，承认甲骨文减少了对 Solaris 的投资，因为 Linux 统治了云端，而甲骨文决定加大对云端的投入。Mark 本人表达了让 ZFS 成为 Linux 核心的一部分的愿意，希望它能成为 Linux 主要文件系统，他表示这是可能的，但无法保证可能性有多大。这将需要甲骨文将 ZFS 移植到 Linux，并在 GPLv2 下重新授权。
+➜阿里云承认过去两天其客户无法访问部分境外服务器
+https://www.solidot.org/story?sid=54260	14316
+阿里云发表<a href="https://m.aliyun.com/doc/article_detail/20582359.html" target="_blank"><u>公告</u></a>承认过去两天的网络故障影响到了其客户。公告称，从 10 月 24 日 09:15 左右开始国内客户无法通过 SSH 访问香港和其它海外地区的部分服务器。海外用户可以正常访问这些服务器，因此故障显然发生在中国大陆境内。阿里云声称它已经通报了运营商但未获得其反馈。阿里云建议客户尝试更换服务器并迁移服务，并确保“业务中不要包含违规信息或违规服务”。
+➜改良基因编辑技术展现更大潜力
+https://www.solidot.org/story?sid=54261	17439
+基因编辑工具 CRISPR 在治疗遗传性疾病方面<a href="http://www.ftchinese.com/story/001074817" target="_blank"><u>展示出了更大的潜力</u></a>。MIT 和哈佛大学的两个科学家团队发表了两项基因编辑新方法，其中一个小组改良了 CRISPR，以便更容易改变遗传代码中 DNA 的个别 “字母”，而不是插入或删除整个基因。根据《自然》期刊上所载论文，他们的工具被称为“碱基编辑”(base editing)。在《科学》期刊上发表论文的另一个团队取得的进展是，不仅可以编辑 DNA，而且可以编辑 RNA。上月，一个中国团队利用碱基编辑纠正人胚胎中的地中海贫血。现在科学家们发现了如何将 A 改为 G，这将大大延伸有望通过碱基编辑治疗的遗传疾病的范围。这类单字母（点）突变导致数千种疾病。RNA 编辑的进展来自张锋 带领的团队；他曾在 CRISPR 技术的发展中扮演关键角色。新的方法能够将 RNA 中的字母 A 转换为 G。
+➜为整治污染中国关闭了数万家工厂
+https://www.solidot.org/story?sid=54262	18008
+中国<a href="https://www.msn.com/en-us/news/world/china-shuts-down-tens-of-thousands-of-factories-in-widespread-pollution-crackdown/ar-AAtZIqD" target="_blank"><u>采取了史无前例的污染整治行动</u></a>，过去几个月关闭了数万家工厂。这是全国整治环境污染行动的一部分。中国政府正采取更主动的方式监管环境法。整治行动已经导致了违法者的高额罚款和监禁。没有满足排放标准的工厂被关闭，还被断电和断气。这将导致这些工厂无法及时履行订单，增加成本，也将增加最终的售价。
+➜微软停产 Kinect
+https://www.solidot.org/story?sid=54263	19943
+微软<a href="https://www.fastcodesign.com/90147868/exclusive-microsoft-has-stopped-manufacturing-the-kinect" target="_blank"><u>证实它已经停产</u></a>了其畅销体感控制器 Kinect。Kinect 包含了深度感应器，能捕捉多名用户的肢体动作。它在 2010 年作为 Xbox 360 的配套外设提供给玩家，但在教育和研究领域也具有广泛的用途。Kinect 至今售出了 3500 万台，零售商在现有的库存售罄之后将不会再得到补充。微软表现将会继续支持 Kinect。Kinect 作为一个独立产品可能退出了市场，但其核心部分的传感器仍然活着，Kinect v4 -- 和以后的 v5 -- 驱动着微软的增强现实设备 Hololens。
+➜Amazon Key 让快递员能打开你家的门
+https://www.solidot.org/story?sid=54264	28144
+<div align="center"><img src="http://img.solidot.org/0/450/liwbXlvs5YceU.png" width="400" align="" height="286"><br>
+</div>
+<br>
+亚马逊<a href="https://arstechnica.com/information-technology/2017/10/amazon-key-unlocks-your-door-for-in-home-package-deliveries/" target="_blank"><u>宣布了</u></a>智能门锁和监控探头系统 <a href="https://www.amazon.com/b?&amp;node=17285120011" target="_blank"><u>Amazon Key</u></a>，让快递员能打开门进入室内放包裹。新系统的安全性<a href="https://news.slashdot.org/story/17/10/25/1813258/amazon-key-puts-deliveries----and-delivery-people----in-your-home" target="_blank"><u>引发了争议</u></a>，让陌生人进家门对大多数人来说都是难以接受的。Amazon Key 由智能锁和安全摄像头 Cloud Cam 构成，售价 249 美元，目前只提供给 Prime 用户。当快递员到客户家门口送包裹时，他们并没有打开门锁的密码。他们首先需要验证记录请求开门，在记录确认无误后，Cloud Cam 开始录像，门自动打开，客户可以对此远程监控，甚至可以拒绝快递员。除了让快递员进门外，Amazon Key 也可以向客户或家人，清洁工等提供临时的进门许可。Amazon Key 将于 11 月 8 日在 美国 37 个城市发售。
+➜研究称电动车的温室气体排放比柴油汽少一半
+https://www.solidot.org/story?sid=54265	29847
+根据发表在《Transportation Research Part D: Transport and Environment》上的<a href="http://www.sciencedirect.com/science/article/pii/S1361920916307933" target="_blank"><u>一项研究</u></a>，即使电力是来自碳密集能源，电动汽车终其寿命排放的温室气体比柴油引擎汽车<a href="https://www.theguardian.com/environment/2017/oct/25/electric-cars-emit-50-less-greenhouse-gas-than-diesel-study-finds" target="_blank"><u>少得多</u></a>。研究计算了电动汽车整个寿命期间的排放，包括汽车制造的排放、电池制造的排放、以及电力供应。即使电动车充的电是来自火电站，它的排放也比柴油引擎汽车低得多。研究发现，随着电池技术的改进和更多的可更新能源进入电网，电池制造的排放能减少 65%。
+➜2017 年度 Linux 内核开发报告
+https://www.solidot.org/story?sid=54266	30590
+Linux 基金会<a href="https://www.linuxfoundation.org/press-release/linux-foundation-releases-annual-kernel-development-report/" target="_blank"><u>公布了</u></a> 2017 年度的<a href="https://www.linuxfoundation.org/2017-linux-kernel-report-landing-page/" target="_blank"><u>内核开发报告</u></a>，主要覆盖 Kernel 4.8 到 4.13。<i>自采用 Git 以来有来自 1400 多家公司的约 15,600 名开发者向内核贡献了代码；从 4.8 到 4.13，来自 500 多家公司的约 4300 名开发者贡献了代码，其中 1,670 名开发者是首次贡献；10 家贡献最多的企业分别是 Intel、Red Hat、Linaro、IBM、Samsung、SUSE、Google、AMD、Renesas 和 Mellanox；过去一年内核每小时接受的变更数为 8.5，高于上一次报告的 7.8，换算成 24 小时就是 204 次变更，每周超过 1400；非企业开发者贡献的代码占 8.2%，高于去年的 7.7%；低于 2014 年的 11.8%。</i>
+➜Google 的情绪分析仪将犹太人和同性恋视为负面
+https://www.solidot.org/story?sid=54267	31732
+AI 需要大量数据训练，如果输入的数据存在偏见，它们也会具有偏见。Google 在2016 年 7 月 宣布公测新的机器学习 API&nbsp; Cloud Natural Language API，允许开发者在其应用中整合 Google 的深度学习模型。该 API 包含了一个情绪分析仪，允许程序以-1 到 1 的尺度判断句子表达的是正面还是负面情绪。该情绪分析仪被发现具有内在偏见，会将犹太人和同性恋<a href="https://motherboard.vice.com/en_us/article/j5jmj8/google-artificial-intelligence-bias" target="_blank"><u>标记为负面情绪</u></a>。Google 发言人在一份声明中称，他们投入了大量努力确保 CNL API 避免偏见，但并不总能做对，这个例子就是其中之一，他们对此表示抱歉。Google 对此问题非常严肃，正在改进模型。
+➜印度屏蔽了多少网址/网站？
+https://www.solidot.org/story?sid=54268	36024
+印度电子信息技术部回应了两次知情权请求，<a href="https://factly.in/many-urlswebsites-blocked-india-government-two-different-answers/" target="_blank"><u>给出了屏蔽网址和网站的不同数据</u></a>。回应第一次请求时印度政府称，自 2010 年以来它总共屏蔽了 11422 个网址/网站；回应第二次请求时，印度政府称它屏蔽了 23030 个网站。两次请求印度政府都拒绝披露详细的屏蔽名单。根据印度政府提供的数据，2010 年屏蔽的网址最少只有 9 个，之后几年数量开始大幅增长，到 2015 年接近 5000 个，此后屏蔽数量又开始大幅下降，2017 年前 9 个月不到 1000。
+➜Android 将启用 DNS over TLS
+https://www.solidot.org/story?sid=54269	40704
+Android 操作系统将在不久之后<a href="https://thenextweb.com/mobile/2017/10/23/android-to-add-dns-over-tls-to-keep-isps-from-spying-on-you/" target="_blank"><u>启用</u></a>一项安全协议阻止 ISP 监视用户。DNS over TLS 将为你的设备发出的 DNS 请求套上一层加密，你的 ISP 将不会知道你查询了哪个域名，它不知道你请求的是 Pornhub 还是 Gmail，当然除非你使用 VPN，在浏览时 ISP 还是会知道你正在访问哪个网站。今天的 DNS 请求是通过 UDP 或 TCP 协议，没有加密，也不安全。在启用 DNS over TLS 加密请求之后，如果你的 DNS 服务器不支持，可以选择替代的公共 DNS，如 Google DNS。
+➜爱因斯坦的便条拍出 150 万美元
+https://www.solidot.org/story?sid=54270	42549
+1922 年，正在举办巡回演讲的爱因斯坦住在东京的帝国酒店，得知自己获得了诺贝尔奖。送信的侍者递给他一张留言条时，他把手伸进口袋想拿零钱作为小费，却什么都没找到。于是爱因斯坦用如何过上幸福生活的理论的形式，给了小费。“平静谦逊的生活带来的幸福，多过永不安宁地追逐成功，”他用德语在酒店的一张信签上写道。在第二张纸上，他写道，“有志者，事竟成。”爱因斯坦对那个侍者说，如果他运气好，那两张便条可能会变得比普通小费更值钱。周二，爱因斯坦的幸福理论<a href="https://cn.nytimes.com/world/20171026/einstein-theory-of-happiness/" target="_blank"><u>被拍出了 156 万美元的高价</u></a>。这也让爱因斯坦成为了全世界给小费最大方的人之一。第二张便条卖了 25 万美元。两张便条由该侍者的侄孙提供。
+➜印度能否挑战中国？
+https://www.solidot.org/story?sid=54271	44319
+IEEE Spectrum 发表了一篇文章<a href="https://spectrum.ieee.org/geek-life/history/india-as-number-one" target="_blank"><u>比较了印度和中国</u></a>，印度的人口有望在短时内超过中国，但它是否能在经济成功上挑战中国？中国人口到 2000 年达到 12.7 亿，到 2017 年中达到 14.1 亿，印度人口 2000 年达到 10.5 亿，2016 年达到 13.1 亿。虽然中国在 2015 年结束了独生子女政策，但人口增长依旧缓慢，按照这一趋势，印度会在 2025 年超过中国，最快是在 2023 年。中国和印度都偏好选择性的堕女婴胎，两国的男女比例都失衡，中国是 1.15，印度是 1.12。两国的腐败和经济不平等都十分严重。中印的基础存在巨大差异，中国已是世界第二大经济体，GDP 是印度的五倍多。中国是一党统治，印度是虽然不完美但无可争议的民主政体。中国高科技行业的成功得到了审查的帮助，并且主要是本国内部，但印度的情况相反，它的许多移民成为了硅谷高科技巨头的领导人。
+➜超过半数的电子邮件是在移动环境下打开的
+https://www.solidot.org/story?sid=54272	45910
+过去五年电子邮件市场<a href="https://www.emarketer.com/Article/Mobile-Has-Largely-Displaced-Other-Channels-Email/1016657" target="_blank"><u>发生了深刻变化</u></a>：曾经占统治地位的邮件桌面客户端被移动客户端和 Webmail 服务所取代。根据 Return Path 的研究，在 2017 年 55% 的电子邮件是在移动环境下打开的，超过了 Webmail 的 28% 和桌面客户端的 16%。而在 2012 年，只有&nbsp; 29% 的设备是在移动设备上打开的。Return Path 还发现，用户主要使用苹果的 iOS 设备阅读电子邮件，79% 的移动电子邮件是在 iPhone 或 iPad 上打开的，Android 设备只占 20%。
+➜天文学家可能发现了第一颗来自太阳系外的彗星
+https://www.solidot.org/story?sid=54273	46818
+太阳系可能迎来了一位访客，天文学家认为最近发现的一颗彗星<a href="https://www.newscientist.com/article/2151503-we-may-have-just-seen-the-first-comet-from-another-solar-system" target="_blank"><u>可能是来自星际空间</u></a>。这颗编号为 <a href="http://www.minorplanetcenter.net/mpec/K17/K17UI1.html" target="_blank">C/2017 U1</a> 的彗星是在 10 月 18 日被夏威夷的巡天望远镜发现的。绝大多数彗星是沿着椭圆形轨道绕太阳飞行，它们会一次又一次的从外环飞到内环。但这颗彗星在接触之后不会再回来，其轨道路线暗示它可能来自天琴座。天琴座正在银河系内对着太阳的方向运动。天文学家预测会有更多的星际恒星飞近太阳。

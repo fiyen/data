@@ -1,0 +1,100 @@
+➜墙与外国服务器的DNS查询
+https://www.solidot.org/story?sid=12343	3600
+<a href="http://thoughtlets.cn/">vantonio</a> 写道<i> "一篇<a href="http://www.thoughtlets.cn/2009/07/g-fwopendnsdns.html">文章</a>发现墙已经可以对国内至国外的DNS查询进行劫持。作者使用OpenDNS，香港和记电信等的DNS服务器进行测试，发现墙随机返回了209.145.54.5-0等不可到达但未被封锁的IP地址，使得浏览器提示“连接超时”而不是“页面被重置”。</i>
+➜NASA找到了遗失的登月录像带
+https://www.solidot.org/story?sid=12344	5760
+<a href="http://zh.wikipedia.org/w/index.php?title=%E9%98%BF%E6%B3%A2%E7%BD%97%E7%99%BB%E6%9C%88%E8%AE%A1%E5%88%92%E9%98%B4%E8%B0%8B%E8%AE%BA&amp;variant=zh-hans">阿波罗登月计划阴谋论</a>的坚持者相信美国人没有登上月球，登月是一场巨大的骗局，他们的一个重要证据是“NASA没有提供月球第一步的原始录像带”。<i>
+确实NASA一度丢失了录像母带，但最新的消息来源指出NASA<a href="http://science.slashdot.org/story/09/07/13/2342220/NASA-Has-the-Lost-Tapes">已经找到遗失的登月录像带</a>，他们将<a href="http://www.nasa.gov/home/hqnews/2009/jul/HQ_M09-125_Newseum_Apollo_tapes.html">于7月16日在华盛顿新闻博物馆举行情况通报会</a>，公开1969年7月阿波罗11号月球行走实况直播的录像母带，原始的视频图像记录在高质量慢扫描电视（slow-scan TV）录像带上，而当时电视台播放的适应商业电视标准的低质量视频。</i>
+➜Google发布开源NX Server
+https://www.solidot.org/story?sid=12345	9000
+在Chrome OS的喧嚣之下，Google悄悄<a href="http://google-opensource.blogspot.com/2009/07/releasing-neatx-open-source-nx-servier.html">发布</a>了<a href="http://tech.slashdot.org/story/09/07/13/2027224/Google-Releases-Open-Source-NX-Server">开源的NX Server</a>，这个名叫<a href="http://code.google.com/p/neatx/">Neatx</a>的工具可用于显示远程桌面。<i>
+NX技术由<a href="http://www.nomachine.com/">NoMachine</a>开发，它能处理远程X Window连接，提供互联网环境下的远程图形显示桌面服务。Google研发远程桌面技术也有一段时间了，它之所以推出Neatx的原因是现有的NX Server要么是私有的，要么便是很难维护的。Google工程师称，旧的X Window系统可通过网络使用，但它存在网络延迟和带宽的问题，Neatx提供了一些解决问题的补救方法。NoMachine 以GPL发布了NX产品的部分源代码，但NX server仍然是私有的。Neatx代码主要用Python编写，一些脚本则使用Bash，还有一个程序由于性能的原因而用C编写。Neatx重新利用了部分Google另一个开源项目<a href="http://code.google.com/p/ganeti/">Ganeti</a>的代码。</i>
+➜Office 2010细节介绍，在线版宣布
+https://www.solidot.org/story?sid=12346	11700
+<a href="http://livesino.net/">Picturepan2</a> 写道 "微软已在WPC 09上宣布了<a href="http://www.microsoft.com/presspass/presskits/2010office/Default.aspx">Office 2010 技术预览版</a>，并在Microsoft Office站点发布了一系列Office 2010的<a href="http://www.microsoft.com/video/en/us/details/ebf079e6-6972-43dc-9781-14c013c38e82">介绍视频</a>(须安装Silvelight)，同时它还宣布了Office Web Apps 2010以及Office Mobile 2010。
+<i>
+Office在线版<a href="http://livesino.net/archives/2134.live">包含4款应用</a>，即Word Web App，Excel Web App，PowerPoint Web App以及OneNote Web App，它们将直接与Google Docs展开竞争。Office Web Apps 2010将于8月开始测试，用户可通过 Windows Live免费使用Office Web Apps。<br>
+Office 2010<a href="http://livesino.net/archives/2133.live">新特性包括</a>：Word 2010新增了Navigation Pane特性，用户可快速切换至任何一章节的开头，在线实时协作功能等；Excel 2010新增了Sparklines特性，可根据用户选择的数据直接在单元格内画出折线图、柱状图等；PowerPoint 2010新增更多幻灯片切换特效、图片处理特效，以及更多视频功能等等。</i>
+➜Unix-Center.Net需要您的帮助
+https://www.solidot.org/story?sid=12347	12420
+<a href="mailto:vincnd@gmail.com">vincnd</a> 写道 "Unix-Center.Net这个教育公益性质的项目至今已经有了近9万人的注册量，成为许多在校学生和nix爱好者的学习乐园。创始人<a href="http://www.qyjohn.net/">蒋清野</a>自掏腰包每年花去30万维护费用，现在无法确定这样是否能够继续支撑下去。所以现在需要大家的帮助，具体情况在<a href="http://www.unix-center.net/?p=133">这里</a>。Unix-Center.Net创始人称：<i>“
+大部分学校的机房，运行的操作系统清一色的是Windows。极少数学校的机房可以提供一两个版本的Unix或者是Linux操作系统，但是和市面上版本繁多的操作系统相比较，可以选择的余地是在太少。在处理器构架方面，基本上都是x86/x64处理器，学生可能听说过其他种类的处理器，但是基本上没有机会见到，更不用说是使用了....因此，我萌发了一个极其简单的想法：买一些不同构架的服务器，安装上不同种类的操作系统，托管到一个机房，开放注册账号，免费地提供SSH登录服务.....到目前为止，Unix-Center.Net所提供的操作系统包括AIX 5.3，Solaris 10，OpenSolaris 2009.04，Fedora Core 10，Ubuntu 8.04，FreeBSD 6.2，Debian Linux for MIPS。这些操作系统分别运行在IBM Power 5，Sun UltraSPARC T1，AMD Opteron，Intel Xeon，龙芯2E等不同构架的处理器上.....我于2000年底硕士毕业之后，在美国工作了三年，又在中国工作了六年。在过去的两年半中，这个系统烧掉了我大部分的工资和积蓄。购买各种服务器设备的费用，大概是70万人民币；北京赛尔机房的服务器托管和带宽费用，大概是每年30万人民币....我现在遇到了一些困难。我所在的公司，在这次经济危机中被收购了。我不能够确定将来我是否还有能力将这个系统支持下去。但是我非常希望能够维持这个系统的运行，因为它确实对很多人有用。如果您也相信这一点的话，我希望您能够帮助我将这个系统维持下去。不管是10元、100元还是1000元，对于Unix- Center.Net的用户来说都是莫大的帮助。”</i>
+➜Oracle可能将终止OpenSolaris项目
+https://www.solidot.org/story?sid=12348	13320
+当甲骨文完成收购Sun的程序之后，它会选择抛弃哪一个项目，<a href="http://developers.slashdot.org/story/09/07/13/1847254/Mass-Speculation-Suggests-Oracle-May-Kill-OpenSolaris">很多人推测是OpenSolaris</a>。
+<i>
+IT业外人士很少会认为甲骨文公司是一家Linux企业，但它确实是。甲骨文不仅仅努力向消费者推广它的RHEL (Red Hat Enterprise Linux)克隆版Oracle Unbreakable Linux，并且在企业内部甲骨文也长期在服务器和部分桌面上使用Linux。那么像甲骨文这样的Linux企业收购了Sun的开源操作系统后，会拿来干什么？答案显然是“Nothing”。内部人士透露OpenSolaris开发者非常担心，当Sun/Oracle合并完成之后，他们要么必须在Linux上工作，要么被迫离开。</i>
+➜维基视频的合作商是Kaltura
+https://www.solidot.org/story?sid=12349	18000
+<a href="http://szlug.org/">权相龙</a> 写道 "<i>
+上月已报道维基百科将<a href="__SLASHLINK__" sect="internet" sid="09/06/19/1033207" sn="article" tid="128">允许用户编辑视频</a>，但没有提到Kaltura。<a href="http://corp.kaltura.com/">Kaltura</a>成立于2007年，是一个Open Source Video Platform，和在线视频解决方案，允许用户在任何网站发布共同创作的视频。著名的<a href="http://v.ku6.com/show/bVeuWZWXAFb9L6Cz.html">放屁交响曲视频</a>(ku6)就是Kaltura创作的，传达共同创作创意视频的理念，同时也有广告功效。"</i>
+➜Empathy+Clutter=联系人地图
+https://www.solidot.org/story?sid=12350	19500
+<a href="http://szlug.org/">权相龙</a> 写道 "<i>
+安装最新的empathy-git，发现了一个依赖 Clutter的库libchamplain（是个用来显示地图的库）；装好后你会发现Emathyd的首选项多了个Location功能（启动它），View菜单多了个Contact on a Map；这样你就可以看到<a href="http://www.kissuki.com/2009/06/empathy-clutter-%E8%81%94%E7%B3%BB%E4%BA%BA%E5%9C%B0%E5%9B%BE/">你好友的地理位置</a>（限Git版Emapthy才有这个功能）。"</i>
+➜中国科学家研究如何进行一场革命
+https://www.solidot.org/story?sid=12351	21840
+一个规模较小的新组织有多大的可能性推翻基础牢固的得到公认的旧统治阶级？这个问题不仅仅与军事政变有关，它也与政党控制国家舆论，新的产品取代市场上的畅销产品等息息相关。华中科技大学控制科学与工程系副教授、剑桥大学高级研究员<a href="http://www-control.eng.cam.ac.uk/Homepage/officialweb.php?id=238">张海涛（Hai-Tao Zhang）博士</a>和同事探讨了这一问题，透露了<a href="http://www.technologyreview.com/blog/arxiv/23835/">有效领导的一种重要策略</a>。<i>
+他们建立了一个计算机模型，一群个体跟随在领导者后面，朝着固定的方向——右边——前进。这时一个数量较少的群体试图让其他人和他们一起向相反的方向——左边——前进。乍一看他们的成功机会并不大。研究人员识别出了两种决定结果的新领导特质：其一是在既定时间内尽可能的传播新领导者的影响力；其二是有足够的说服力去进行变革，并让受影响的跟随者坚贞不移。张海涛和同事的研究指示，只要优化传播模式，即使人数比对手少，新的群体能打败旧统治阶级，他们将能取得权力或至少赢得一席之地。这项研究或能解释最近几年涌现的基于互联网的基层运动，包括政治和商业。当然互联网时代，统治阶级的反扑和如何维护自身地位也是值得注意的。</i>
+<a href="http://arxiv.org/abs/0907.1317">预印本</a>"
+➜学生或因生活窘迫而抢银行
+https://www.solidot.org/story?sid=12352	24120
+7月12日中午12点左右，北京科技大学图书馆南侧中国银行内，一名男生挟持一男一女两名人质，抢劫银行近10万现金，并将女孩颈部和手腕划伤。男生得手后，将钱藏在学校西门外树丛中逃跑，5小时后在五道口一超市门口被抓获。<i>
+<a href="http://www.infzm.com/content/31400">《南方周末》报道</a>，这名男生叫黎力，是北京科技大学2003级学生，因未修满学分而延期毕业。按照北科大规定，学生最长可在学校延期毕业两年。两年后不管能否毕业，都将离开学校。对于延期毕业的学生，学校不提供宿舍，黎力和另外三个电041班的同学一起，租住在北沙滩桥附近的一栋居民楼，房子是三居室中的一间，屋内有两张上下铺，房租每月1400元，均摊到每个人身上是350元，房租三个月一交。其室友介绍，黎力还有一门专业课没过，而他的室友们今年如愿拿到毕业证书，准备离开北京回老家找工作，现在租住的房子原定在本周四退掉。之前几个人商量好了退房的事情。但黎力并未向室友透露退房后的去向问题。抢劫银行，有可能会处十年以上有期徒刑、无期徒刑或者死刑。</i>
+➜科学家创造蝙蝠机器人
+https://www.solidot.org/story?sid=12353	26100
+Magicloud 写道 "据《生活科学》网站报道，美国北卡罗莱纳州立大学的研究人员<a href="http://www.livescience.com/technology/090711-robotic-bat-spy.html">正在研制一种手掌般大小的蝙蝠机器人</a>，它重量不到6克，可谓轻如鸿毛。这种蝙蝠机器人是一种完美的微型飞行器（MAV），未来可作为侦察或者数据收集的用途。它的四肢处的关节用形状记忆合金做成，肌肉则用智能材料合金组成。
+<i>研究人员表示，他们从自然界获得灵感，才萌发了研制机器人蝙蝠的念头。研究小组使用一种特殊的形状记忆合金作为机器人蝙蝠的关节，是因为它具有多种优点。这种合金具有超强的弹性，能够给机器人蝙蝠提供全系列的运动，但又总是能返回到原来的滑翔状态。这种材料还有许多用途，它甚至有可能一种由形状记忆合金来产生动力的机器人说话。而智能材料合金也则被应用到了蝙蝠机器人的肌肉上。研究人员使用的这种合金能够对电流产生的热作出敏感回应，热驱动合金里面头发般大小的微型电线，使“金属肌肉”收缩，在收缩的过程中，“金属肌肉”里面的电线电阻也跟着改变，从而提供了同步行动和感 觉输入的双重功能，将有助于减少对机器人蝙蝠的重量，就如同现实生活中一只真正的完美的蝙蝠一样，让机器人蝙蝠能够对不断变化的条件（如阵风）迅速作出应对。"</i>
+➜国际空间站发射首个行星间互联网节点
+https://www.solidot.org/story?sid=12354	27360
+开发“行星间互联网”的研究人员通过国际空间站上的一个装置向太空<a href="http://tech.slashdot.org/story/09/07/13/0222214/ISS-Launches-First-Permanent-Node-of-Interplanetary-Internet">发射了第一个永久节点</a>。新的网络是基于<a href="__SLASHLINK__" sect="science" sid="08/07/25/147246" sn="article" tid="102">可容忍延迟网络</a>（delay-tolerant networking ，简写DTN）的新通信协议，它将在本月内进行高强度测试，将在一年之内允许宇航员直接访问互联网。<i>
+行星间互联网是TCP/IP之父、Google副总裁Vint Cerf与NASA的合作伙伴多年来努力实现的梦想。DTN协议的新存储转发方法也能应用到地球上，如改进飞机上的无线网络，第三世界网络接入，或跟踪野生动物。研究员Kevin Gifford称DTN协议处于早期发展简单，至少需要五年时间才能成熟。</i>
+➜NASA计划在2016年让国际空间站脱离轨道
+https://www.solidot.org/story?sid=12355	28800
+<a href="http://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99">国际空间站</a>是到目前为止人类建造的最大航天器。从1998年11月20日第一个部件曙光号功能货舱发射到轨道上之后，经过10多年时间建造的国际空间站即将完工。<i>
+国际空间站环绕一周需90分钟时间，地球上的人们凭借肉眼可以在晚上观察它的运行轨迹。空间站最后一个部件将在明年底安装完毕，最终将容纳6名宇航员开展各类科学考察工作。但之后呢？NASA国际空间站计划主管Michael T. Suffredini表示，将在2016年第一季度<a href="http://science.slashdot.org/story/09/07/13/1330220/NASA-Plans-To-De-Orbit-ISS-In-2016">让国际空间站“脱离轨道”</a>，进入大气层内烧毁。一位专家建议<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/07/12/AR2009071201977_2.html?hpid=topnews&amp;sid=ST2009071300824">让中国去维护</a>这个东西。</i>
+➜强密码没什么用
+https://www.solidot.org/story?sid=12356	30480
+传统密码建议是：为了安全，用户应尽量使用<a href="http://zh.wikipedia.org/w/index.php?title=%E5%AF%86%E7%A0%81%E5%BC%BA%E5%BA%A6&amp;variant=zh-cn">强密码</a>（长度足够长，排列随机），比如高安全性的程序（如在线银行）使用强密码。
+<i>但一项新的<a href="http://www.usenix.org/event/hotsec07/tech/full_papers/florencio/florencio.pdf">研究</a>（PDF）发现<a href="http://it.slashdot.org/story/09/07/13/1336235/Strong-Passwords-Not-As-Good-As-You-Think">这一安全建议过时了</a>，强密码并不能保护用户避开钓鱼或键盘记录等密码窃取攻击，反而给用户带来了沉重的记忆负担。弱密码虽然很容易被强力破解，但研究人员发现容易记忆的弱密码长度在20比特左右，便足以抵御暴力破解。在线帐号没有什么充分理由去使用强密码。</i>
+➜运营商部署短信防火墙限发短信
+https://www.solidot.org/story?sid=12357	31800
+<a href="http://www.naojina.cn/">脑筋急转弯</a> 写道 "《广州日报》报道，三大运营商已经开始上线运行网间垃圾短信联动处理平台，<a href="http://news.dayoo.com/china/200907/14/54502_9944990.htm">执行“每号码每天总量不得超过1000条”的限发令</a>。<i>
+目前，我国手机用户超过6亿，平均每天的短信发送量高达8亿条，每人每周收到的垃圾短信大约8条。根据工信部要求，我国三大电信运营商于6月中旬上线运行网间垃圾短信联动处理平台，联手进行垃圾信息自主屏蔽，并将对每日发送短信数量超过一定标准的用户发送行为进行拦截处理。该举措主要针对“点对点”短信群发，即每号码在非节假日期间每小时不得超过200条，每天总量不得超过1000条，节假日每小时不超过500条，每天总量不得超过2000条。不少手机用户质疑：三大运营商本身就是垃圾短信的受益者，不可能真正严打垃圾短信。一些行内专家建议：应该把相关限发的选择权交到作为消费者的用户手中。对此，工信部也下发通知要求，运营商应该提供相关过滤软件，供用户自己过滤垃圾短信。也有运营商人士说，运用技术手段过滤仍有一定局限性，比如很多垃圾短信群发者对短信内容进行替换，隐藏或修改发送方号码，以躲避过滤。"</i>
+➜传统新闻媒体领先博客2.5小时
+https://www.solidot.org/story?sid=12358	34200
+《纽约时报》报道了康奈尔大学研究人员的“新闻周期动态变化和文化基因”的<a href="http://www.cs.cornell.edu/home/kleinber/kdd09-quotes.pdf">调查研究</a>（PDF），通过寻找重复的短语，跟踪分析了160万主流媒体网站和博客在2008年8月到10月之间的大约9000万篇文章和博客，发现在大多数情况下，新闻媒体的报道在前，博客的日志在后，<a href="http://www.nytimes.com/2009/07/13/technology/internet/13influence.html?_r=1">典型的时间间隔是2.5个小时</a>。<i>
+研究人员的数据指示了<a href="http://news.slashdot.org/story/09/07/13/0531215/Traditional-News-Media-Lead-Blogs-By-25-Hours">新闻媒体的进化模式</a>，尽管多数新闻是从传统媒体流传到博客，但研究发现3.5%的故事是博客的原创，之后再逐渐进入传统媒体的视眼。虽然博客圈在整体上落在后面，但研究还是发现，一些博客网站能迅速的收集资料，并在短时间内在互联网上获得广泛注意。</i>
+➜母胖则女胖，父胖则儿胖
+https://www.solidot.org/story?sid=12359	35520
+BBC<a href="http://www.bbc.co.uk/china/lifeintheuk/story/2009/07/090714_obesity.shtml">报道</a>，英国普利茅斯半岛医学院对226户家庭所作的调查发现，母亲若患有肥胖症，女儿肥胖的可能性将是常人的10倍。相比之下，父亲肥胖“影响”儿子患肥胖症的可能几率则是常人的六倍。研究同时发现，父母的肥胖对异性子女则没有影响。报告发表在在《<a href="http://www.nature.com/ijo/index.html">国际肥胖杂志</a>》上。
+<i>
+研究发现，患有肥胖症的母亲，她们的女儿中41%体重超重。相比之下，体重正常的母亲，她们的女儿只有4%肥胖。而儿子们的体重没有因为母亲体重的不同而有所差异。与此同时，在患有肥胖症的父亲中，他们的儿子有18%肥胖。而体重正常的父亲，他们的儿子只有3%患有肥胖症。同样的，女儿们的体重并没有因为父亲体重的不同而有所差异。研究人员相信，这种关系属于行为原因，而不是基因所致。因为研究结果显示这是沿着同一性别的影响，因此“极不可能”是基因在其中产生的作用。研究认为，这可能是由于某种形式的“行为共感”所致，女儿和儿子分别模仿母亲和父亲的一举一动、生活方式。</i>
+➜服务器调试不当是否会导致clientHold ？
+https://www.solidot.org/story?sid=12360	36300
+time 写道 "今天，我最喜爱的反cnn网不能拜访，找到一个<a href="http://tieba.baidu.com/f?kz=609157126">服务器调试的通知如下</a>：<br>
+<i>
+各位亲爱的坛友， <br>
+<br>
+由于我们Anti-Cnn这段时间在调试升级服务器，网站暂时无法正常浏览。 <br>
+无法及时向每一位网友给出具体通知我们深感抱歉。给您带来的不便请谅解。 <br>
+<br>
+我们预计7月13（今天）会恢复正常的浏览访问。 <br>
+如遇特殊情况，我们会及时向大家做出更新通知。 <br>
+<br>
+感谢大家一直以来对AC的支持。 <br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Anti-Cnn内部管理小组 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2009-07-13<br>
+</i>
+但是<a href="http://whois.chinaz.com/anti-cnn.com">域名信息</a>显示"<a href="http://wenda.tianya.cn/wenda/thread?tid=27eb2a2255240a70&amp;fid=27eb2a2255240a70000463ef479d5e48">Status:clientHold</a>"，域名也没有过期。请问什么样的调试错误会导致域名无法解析，如果今后自己弄网站，也好当心这类错误。"
+➜Symbian开源Mobile OS迈出第一步
+https://www.solidot.org/story?sid=12361	37920
+Symbian基金会已在上周发布了首批<a href="http://developer.symbian.org/wiki/index.php/OS_Security_Package">系统安全包源代码</a>(需注册)，这是他们计划中的<a href="http://mobile.slashdot.org/story/09/07/13/1623222/Symbian-Foundation-Takes-First-Step-In-Open-Sourcing-Mobile-OS">完整开源Symbian操作系统的第一步</a>。<i>
+Symbian的安全包（OS Security Package）的源代码以EPL许可证发布，这是第一个从封闭的SFL（Symbian Foundation License）许可证迁移到的开放的EPL许可证下的软件包。Symbian开发者Craig Heat<a href="http://secblog.symbian.org/2009/07/08/were-off-and-running/">表示</a>EPL将允许安全包源代码绕过英国的出口管制（Symbian代码受英国法律保护）。</i>
+➜IronKey推出能自毁的安全U盘
+https://www.solidot.org/story?sid=12362	41520
+针对政府和企业用户，IronKey<a href="http://hardware.slashdot.org/story/09/07/13/1836204/IronKey-Unveils-Self-Destructing-USB-Flash-Drive">推出</a>了号称世界上最安全的U盘驱动器<a href="https://www.ironkey.com/S200_Launch">S200</a>。<i>
+S200的特性包括：世界上唯一一款满足政府FIPS 140-2和Security Level 3安全标准的U盘，基于硬件的AES 256位加密技术，能防止篡改，具有反恶意程序功能，AutoRun锁定，可选杀毒/恶意程序扫描，有自我毁灭能力的电路等等。S200的容量为16GB，价格目前没有透露，但上一代8GB的S100售价是199美元，显然它并不廉价。S200支持 Windows XP、2000、Vista、Mac OS和Linux。</i>

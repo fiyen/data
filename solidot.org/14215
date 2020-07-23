@@ -1,0 +1,75 @@
+➜网站打出“奥运加油”，被罚1万元
+https://www.solidot.org/story?sid=8894	2520
+《京华时报》报道，北京奥运会开幕前夕，中国财政经济出版社在其网站上打出了<a href="http://beijing.jinghua.cn/c/200812/01/n2140302.shtml">“奥运加油，中国加油”</a>字样，8月19日，他们接到海淀工商分局的通知，称该行为侵犯了奥林匹克标志专有权，涉嫌违法。9月27日，海淀工商分局做出行政处罚决定，责令出版社立即停止侵权行为并处以罚款1万元。<i>
+出版社认为，他们的行为是善意的，没有任何商业目的和不良后果。海淀工商既未听取其申辩意见，也未举行听证，就做出行政处罚决定，属于认定事实不清，适用法律和定性错误，行政处罚的事实和法律依据不足，因此请求法院判决予以撤销。海淀工商分局称，网页上除了“奥运加油，中国加油”字样，同时还有企业名称、经营项目等信息，具有潜在商业目的，而低于3万元的罚款额度并不需要召开听证会。</i>
+➜Bittorrent将引起互联网雪崩
+https://www.solidot.org/story?sid=8895	5100
+流行的BT客户端uTorrent宣布默认采用<a href="http://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%8D%8F%E8%AE%AE">UDP协议</a>传输文件，以避开ISP的“流量管理”限制，BT客户端很早就使用UDP协议交换tracker信息——文件的计算机地址——但uTorrent将使用UDP传输实际的文件，这一改变背后隐含的意义是巨大的。<i>
+the Register认为这会引起<a href="http://www.theregister.co.uk/2008/12/01/richard_bennett_utorrent_udp/">互联网的雪崩效应</a>，会降低所有用户的带宽至现有的四分之一。BitTorrent回应了the Register的报告，市场经理Simon Morris将报告描述为“<a href="http://www.thestandard.com/news/2008/12/01/bittorrent-register-report-protocol-change-utter-nonsense">完全的胡说八道</a>”，他说uTP——基于UDP的BitTorrent协议实现，目的是<a href="http://forum.utorrent.com/viewtopic.php?pid=379206#p379206">为了减少网络堵塞</a>。</i>
+➜世界最古老大麻隐藏地被发现
+https://www.solidot.org/story?sid=8896	7200
+研究人员表示，位于中国偏远地区的一个坟墓中，<a href="http://www.thestar.com/sciencetech/article/544684">他们发现了世界最古老的大麻隐藏处</a>。<i>
+研究人员在《<a href="http://jxb.oxfordjournals.org/cgi/content/full/59/15/4171?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;fulltext=marijuana&amp;searchid=1&amp;FIRSTINDEX=0&amp;volume=59&amp;issue=15&amp;resourcetype=HWCIT">Experimental Botany</a>》杂志上称，隐藏地大约有2700年历史，且很明显大麻是出于精神目的而栽培的，而不是用作衣服的纤维或当作食物。789克的干大麻埋藏在一位金发碧眼的白人旁，看起来此人是Gushi culture里的一位萨满巫师，地点是位于新疆吐鲁番。</i>
+➜基于《美国陆军》的虚拟和平模拟游戏
+https://www.solidot.org/story?sid=8897	10560
+杜克大学与《美国陆军》的开发商Virtual Heroes合作，推出了一款名为《<a href="http://www.virtualpeace.org/">虚拟和平：化剑为犁</a>》的游戏，目的是帮助玩家发展<a href="http://news.duke.edu/2008/11/virtualpeace.html">救灾和解决冲突的技能</a>。<i>
+美国军方使用模拟游戏训练士兵、飞行员和特种部队，《虚拟和平》项目主管Tim Lenoir表示，他设想用同样的技术去促进合作解决冲突，“我们训练人们如何在团体内合作....尤其是在国际敏感形势下”。《虚拟和平》项目还是<a href="http://www.dmlcompetition.net/1/winnerDetail.php?x=vcr">HASTAC/MacArthur Digital Media and Learning Competition</a>比赛的获胜者。</i>
+➜苹果“鼓励”在Mac OS X上使用杀毒软件
+https://www.solidot.org/story?sid=8898	12960
+对Windows系统必须要用杀毒软件，苹果嘲笑了多年，但现在它自己也悄悄<a href="http://www.appleinsider.com/articles/08/12/01/apple_now_encourages_antivirus_use_for_mac_os_x.html">推荐用户使用杀毒软件</a>。
+一周半前发布在官网知识库上的<a href="http://support.apple.com/kb/HT2550?viewlocale=en_US">文章</a>，虽然没有直接挑明必须安装杀毒软件，但建议为了减少安全风险最好使用一个或更多杀毒软件。
+➜MySQL 5.1发布，未达到标准
+https://www.solidot.org/story?sid=8899	14700
+MySQL 5.1开发的时间够长了，第一个Beta是在2005年11月发布的，现在<a href="http://dev.mysql.com/downloads/mysql/5.1.html">MySQL 5.1.30终于正式GA（Generally Available）</a>。<i> <a href="http://dev.mysql.com/doc/refman/5.1/en/mysql-nutshell.html">新的特性</a>包括：表格/索引分区，基于行的复制，新插件架构，事件调度器，可插入API，服务器日志表，升级程序，MySQL集群，表格空间备份，以及大量的性能改进等等。</i>
+但<a href="http://monty-says.blogspot.com/2008/11/oops-we-did-it-again-mysql-51-released.html">Monty在日志上指出</a>，尽管MySQL 5.1正式GA了，但仍然存在许多令程序崩溃的bug，大多新特征也只达到Beta质量。用户应该谨慎升级。
+➜担心成本的企业将转向开源
+https://www.solidot.org/story?sid=8900	18960
+《商业周刊》报道，开源软件可能将受益于经济危机。担心成本的买主可能转向使用开源软件，使<a href="http://www.businessweek.com/technology/content/nov2008/tc20081130_069698.htm">其成为经济衰退下的一线曙光</a>。预算消减的公司正在寻找采用开源软件的时机。《商业周刊》还制作了<a href="http://images.businessweek.com/ss/08/12/1201_ceo_guide_open_source/1.htm">商业软件开源替代的幻灯片</a>，列出相对应的开源软件：<i>如Linux（替代Windows），Apache（替代Microsoft IIS），MySQL（替代Oracle Database或Microsoft SQL Server），Firefox（替代IE），Xen（替代VMware），<a href="http://www.pentaho.com/download/">Pentaho</a>商业智能软件（替代Business Objects(SAP) 或Cognos(IBM)），Open Office（替代Microsoft Office），<a href="http://drupal.org/">Drupal</a>或<a href="http://www.alfresco.com/">Alfresco</a> CMS（替代Documentum 或Windows SharePoint Services），<a href="http://www.sugarcrm.com/crm/download/sugar-suite.html">Sugar</a>开源客户关系管理软件（替代Salesforce.com），<a href="http://www.asterisk.org/">Asterisk</a>开源电话交换机软件（替代Avaya IP Office 500）。</i>
+➜开源硬件现状
+https://www.solidot.org/story?sid=8901	23760
+《MAKE》杂志发布了<a href="http://blog.makezine.com/archive/2008/11/_draft_open_source_hardwa.html">2008开源硬件年度报告</a>。相比开源软件，开源硬件仍然是小众，仍然在缓慢增长，不过数量已经从寥寥无几增加至60+。和开源软件一样，开源硬件提供源代码、图表、固件和材料清单，并允许商业使用。目前最流行的开源硬件项目是<a href="http://www.arduino.cc/">Arduino</a>，灵活、易于使用的开源电子原型平台，主要提供给设计师、艺术家和业余爱好者，至今已售出超过6万件。其它令人感兴趣的开源硬件玩具包括：<i>35美元的<a href="http://www.makershed.com/ProductDetails.asp?ProductCode=MSBM">大脑机器</a>，<a href="http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=15&amp;products_id=40">Digg按钮</a>，<a href="http://www.engadget.com/2006/12/19/how-to-make-your-own-mp3-player/">自制MP3播放器</a>，<a href="http://www.adafruit.com/index.php?main_page=product_info&amp;products_id=95">YBox2</a>（DIY网络机顶盒），开源机器人工具包<a href="http://www.makershed.com/ProductDetails.asp?ProductCode=MKTET2&amp;Show=TechSpecs">Twitchie</a>，手机、WIFI防窃听干扰器<a href="http://www.ladyada.net/make/wavebubble/">WaveBubble</a>，万能电视遥控器<a href="http://www.makershed.com/ProductDetails.asp?ProductCode=MKAD4">TV-B-Gone</a>，20美元的<a href="http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=17_21&amp;products_id=98">GPS Shield和数据自动测定工具包</a>等等。</i>
+➜锟斤拷——经典Unicode乱码
+https://www.solidot.org/story?sid=8902	25500
+Firefox浏览网页看到乱码的机会要比IE多得多，除了设计者只考虑IE平台外，<a href="http://zh.wikipedia.org/wiki/%E4%BA%82%E7%A2%BC">乱码</a>主要与字符编码系统有关。例如一个网页中常出现的乱码“锟斤拷”（<a href="http://www.baidu.com/baidu?word=%EF%BF%BD%EF%BF%BD">百度</a>，<a href="http://www.google.com/search?hl=en&amp;q=%E9%94%9F%E6%96%A4%E6%8B%B7">Google</a>），它就是新老编码系统转换中出现的。est's blog的一篇日志特地<a href="http://initiative.yo2.cn/archives/634636">考证了问题来源</a>：<i>
+Unicode和老编码体系的转化过程中，肯定有一些字，用Unicode是没法表示的，Unicode官方用了一个占位符来表示这些文字，这就是：U+FFFD REPLACEMENT CHARACTER。那么U+FFFD的UTF-8编码出来，恰好是 '\xef\xbf\xbd'。如果这个'\xef\xbf\xbd'，重复多次，例如 '\xef\xbf\xbd\xef\xbf\xbd'，然后放到GBK/CP936/GB2312/GB18030的环境中显示的话就是“<a href="http://zh.wikipedia.org/wiki/%E9%94%9F%E6%96%A4%E6%8B%B7">锟斤拷</a>——锟(0xEFBF)，斤（0xBDEF），拷（0xBFBD）”。作者声称：该现象产生的原因是多方面的，一来是Microsoft、Sun等垄断公司对编码问题这种细节做得不够细致，二来是PM经常克扣程序员工资，导致程序员代码激情和质量下降。
+</i>
+solidot评论经常会出现“Your comment has too few characters per line”，这个问题应该也是和编码有关系。
+➜Google OpenSocial 的最大用户群来自 51.com
+https://www.solidot.org/story?sid=8903	28320
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "几周前，我们庆祝了Google OpenSocial项目<a href="http://www.readwriteweb.com/archives/opensocial_one_year_later.php">一周年</a>， <a href="http://code.google.com/apis/opensocial/">OpenSocial</a>是一个社会网络站点API框架，Google的<a href="http://opensocialapis.blogspot.com/2008/11/opensocials-birthday-wrap-up-its-good.html">OpenSocial 博客最近发布了一份统计报告</a>，目前，OpenSocial已经拥有6亿7500万注册用户，以及7500个应用程序。而最有趣的是，OpenSocial最大的拥护群不是MySpace，也不是Hi5，甚至不是Orkut，而是<a href="http://www.readwriteweb.com/archives/googles_new_open_stack_sans_facebook_microsoft.php">中国的51.com</a>。 <a href="http://www.51.com/">51.com</a>据报道是<a href="http://www.readwriteweb.com/archives/facebook_targets_chinese.php">中国最大的社会网络站点</a>之一，拥有<a href="http://opensocialapis.blogspot.com/2008/11/51com-launches-opensocial-to-31m-unique.html">1亿3000万注册用户</a>。很显然，中国是OpenSocial的主要市场，而最近创办的Xiaonei网也是一个社会网络，校内网拥有3000万注册用户。
+"           统计报告中部分的其它数据：
+<ul>
+<li>315M+ app installs </li>
+<li>85M+ daily canvas page views </li>
+<li>7,500+ applications </li>
+<li>20+ live containers </li>
+</ul>
+7500个应用程序中的2100个属于 Hi5.
+<br> <br>OpenSocial 这一年发展迅猛，使用 OpenSocial 开发应用的组织包括，AOL, Bebo, hi5, Google, LinkedIn, MySpace, Ning, Orkut, Yahoo。名单中仍没出现 FaceBook 与微软。
+<br> <br>也许，随着 MySpace 覆盖美国用户群，以及中国社会网络站点的入驻，Facebook 会发现他们置身局外，Google 在推广其 OpenSocial 应用方面颇有些作为，至于 Facebook 会如何应对我们还要观察。以下是 OpenSocial 的完整统计报告浏览地址：<a href="http://docs.google.com/Present?docid=dgj67kk4_20gpt6qpcj&amp;skipauth=true">http://docs.google.com/Present?docid=dgj67kk4_20gpt6qpcj&amp;skipauth=true</a>。
+➜美国国内橡子神秘消失
+https://www.solidot.org/story?sid=8904	28680
+<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/11/29/AR2008112902045.html">《华盛顿邮报》报道</a>：松鼠发疯了，在冬季来临之际它们竟然找不到<a href="http://zh.wikipedia.org/wiki/%E6%A9%A1%E5%AD%90">橡子</a>，饿得皮包骨头的小松鼠只能去啃垃圾、吸鸟食、吃南瓜。<i>
+美国的许多地方，橡子似乎都不见了踪影，甚至还有人建立了一个名叫“<a href="http://www.topix.com/forum/home/gardening/TEIANN0MSC7UNC9JQ">No acorns this year</a>”的互联网讨论组，专用于分享关于橡子产量方面的信息。植物学家Rod Simmons也大惑不解，“过去我能在周围田野里看到很多橡子”，但是今年家附近却找不到任何橡子，他说“这真的令人无法相信”。Simmons提出了干湿周期理论去解释橡子的消失，但怀疑者称其它地区仍然生产出大量橡子，也许这只不过是一次极端的繁荣和萧条循环。</i>
+➜Wii Drum High
+https://www.solidot.org/story?sid=8905	30900
+<a href="http://hezhao.net/">HE Zhao</a> 写道<i> "我做了一个交互作品<a href="http://hezhao.net/project/wii-drum-high.html">Wii Drum High</a>，结合了Wii remote、Nunchuk和Wii Balance Board模拟了一个完整的架子鼓。软件源代码以GNU GPL许可证发布，但只支持Windows。
+"</i> <a href="http://vimeo.com/2395677">视频</a>
+➜诺基亚发布首款N系列触摸屏手机N97
+https://www.solidot.org/story?sid=8906	31800
+诺基亚宣布发布N系列首款<a href="http://www.allaboutsymbian.com/news/item/8590_Nokia_N97-Nseries_with_QWERTY_.php">触摸屏手机N97</a>，它还具有侧滑功能，将屏幕推到一边，就可以使用QWERTY键盘。<i>
+诺基亚的这款运行S60 5系统的新旗舰手机拥有强悍至极的配置：3.5英寸触摸显示器（分辨率360 x 480），5兆像素摄像头，A-GPS和罗盘传感器，具有多种连接选择（WiFi，tri-band HSDPA，蓝牙USB），内部闪存容量32GB，支持最高16GB的microSD卡，1500 mAh电池，上市日期预计在2009年上半年，税前价格约550欧元。</i>
+➜奥巴马的Change.gov采用创作共用许可证
+https://www.solidot.org/story?sid=8907	33840
+美国当选总统奥巴马为了表达建立“开放政府”的意愿，推出了<a href="http://change.gov/">Change.gov</a>，介绍过渡政府计划，倾听民意。<i>
+现在为了符合开放政府的价值观，Change.gov<a href="http://change.gov/about/copyright_policy">采用</a>了<a href="http://creativecommons.org/licenses/by/3.0/">创作共用-署名-3.0许可证</a>。斯坦福法学院教授Lawrence Lessig赞扬<a href="http://lessig.org/blog/2008/12/changegov_set_free.html">这是一个正确的决定</a>。</i>
+➜《半条命》复刻接近完工，预告片发布
+https://www.solidot.org/story?sid=8908	41400
+<a href="http://www.blackmesasource.com/">黑山小组</a>（Black Mesa）发布了<a href="http://www.giantbomb.com/news/black-mesa-mod-is-still-coming-out-looks-incredible/587/">《半条命》复刻版《黑山》的正式预告片</a>，他们利用《半条命2》<a href="http://zh.wikipedia.org/wiki/Source%E5%BC%95%E6%93%8E">Source引擎</a>的图像和AI重新制作了原版的《半条命》。<i>
+这一从2004年开始的项目即将完工，开发者在预告片中表示正式版将在2009年推出。黑山小组不久前宣布《黑山》MOD不须要《Counter-Strike: Source》，玩家唯一需要的是一个Steam帐号，以及任何一款已安装好的基于Source引擎的游戏。《黑山》并不是将Source引擎移植到《半条命》，而是基于Source共享内容和自己创造的内容重建《半条命》的环境和关卡。《黑山》将是一款免费的MOD，未压缩大小在5-6G之间。
+</i>
+<a href="http://www.youtube.com/watch?v=oGlhgVz5r6E&amp;fmt=22">视频</a>（Youtube），<a href="http://files.filefront.com/BlackMesaTrailer+HQ+720pwmv/;12515432;/fileinfo.html">高清视频</a>(720p)
+➜因食用污染奶粉而患病的儿童接近30万
+https://www.solidot.org/story?sid=8909	46800
+中国卫生部<a href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohbgt/s3582/200812/38386.htm">报告</a>，截至11月27日，因食用三鹿牌奶粉和其他品牌奶粉导致泌尿系统出现异常的儿童<a href="http://www.telegraph.co.uk/news/worldnews/asia/china/3540917/China-reveals-300000-children-were-made-ill-by-tainted-milk.html">达29.4万人</a>，其中住院患儿51900人；重症患儿154例，疑似死亡病例6例。<i>
+之前政府仅仅报道有超过5万患儿住院治疗和4例死亡病例。这一奶粉丑闻自9月中旬爆发以来，已导致中国奶制品出口暴降90%以上，多个国家禁止使用中国奶粉。而在被追踪到三聚氰胺后鸡蛋出口也受到了影响。</i>

@@ -1,0 +1,129 @@
+➜再谈Web字体的现状与未来
+https://www.solidot.org/story?sid=12762	1440
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "随着 CSS3 渐入人心，Web 字体逐渐成为话题，这种即将让未来的 Web 更加丰富多彩的技术（或者说标准）拥有多种可能，虽然 .webfont 即将提交 W3C，然而它的实现仍然遥遥无期，等待是痛苦的，因此，一些公司联合字体设计推出兼容 @font-face 标准的技术，鉴于主流的浏览器都支持 @font-face，这种技术在 .webfont 实现之前不失为一种不错的替代品，参阅<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K830.aspx">关于 Web 字体：现状与未来</a>（ <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K832.aspx">完整图文版</a>）。           作为 CSS3 的一项改进，尤其是 <a href="http://arstechnica.com/web/news/2009/07/font-face-typekit-and-font-licensing-the-state-of-web-type.ars">@font-face 标准的对手</a>，.webfont 技术为 Web 设计师提供了更丰富的字体选项。尽管 Firefox 个 Safari 一直积极地推动 Web 中的 TrueType 和 OpenType 技术，然而将商业字体放到服务器供调用会侵犯到字体商的权益，鉴于此，至少有三家公司寻求使用特殊技术，在兼容 @font-face 的前提下，实现对授权字体的访问，多家字体商有意支持该技术，同时，一些大的字体商表示支持 .webfont。<br> <br>
+为什么要费这番周折？
+<br> <br>几年前，微软购买了10款字体的版权供 Web使用，就是所谓的 Web 字体，我们的 Web 就活在这 10 款字体下，不过老实讲，尽管有10款，但接近98.7% 的 Web 事实上只用其中的4款，Times, Arial, Verdana, 以及 Georgia。其中的原因正象 Web 设计师 Richard Rutter 所说的那样，设计与可访问性问题。
+<br> <br>尽管这些字体设计优良，尤其在目前普遍存在的低分辨率显示器上，然而，这些有限的字体显得千篇一律，尤其是公司网站用户，他们更希望实现差异性，比如，他们希望通过定制的字体表达公司的识别信息。Rutter 解释道，最起码，更多字体选项可以能让网站看上去更有个性。
+<br> <br>除了美学上的考量，还有一些实践上的考虑，尤其是可访问性。一些 Web 设计师将个性字体转换成 Flash 或图片，这样做有很多问题。真实的字体意味着更少的数据量，尽管对多数宽带用户来说算不上什么，但对一些使用移动设备的用户来说却十分重要，真实的字体还有更多好处，比如可以缩放，翻译，索引，可以使用读屏软件朗读。另外，诸如希腊文，泰文，中文一类的语言目前没有很好的通用 Web 安全字体，如果能实现自定义字体，将是一种福音。（译者注：作者显然忘记了中文字库庞大的文件尺寸问题）<br> <br>
+现状：TypeKit, Fontdeck, 以及 Typotheque 的 Web 字体服务
+<br> <br>如今，已经有不少服务商提供基于 @font-face 标准的 Web 字体服务，然而在字体盗用异常简单的今天，如何说服字体商提供在线许可？于是便有了 <a href="http://typekit.com/">TypeKit</a>， <a href="http://fontdeck.com/index.php">Fontdeck</a> 一类的服务，他们拥有合法授权的在线字体，通过向 Web 设计与开发者提供一段 CSS 和 JavaScript 代码实现对这些在线字体的访问，除此之外，<a href="http://www.typotheque.com/news/typotheque_web_font_service_preview">一些字体商也推出一些类似服务</a>。
+<br> <br>Typotheque 的 Peter Bilak 说，我们的服务使用 TTF 字体，但隐藏了这些字体的真实的地址，因此它们不会被非法复制，我们对字体进行了处理，去掉了浏览器无法识别的部分，然后向用户提供一段代码，这样文件尺寸只有原始文件的10%到20%大小。
+<br> <br>
+Typekit 的<a href="http://static.arstechnica.com/web/typekit_editor_example.png">编辑界面</a> <br> <br>
+Typekit 和 Fontdeck 的工作方式和 Typotheque 类似，他们按域名签发字体许可，因此别的网站即使得到了这段代码，也无法使用，他们通过使用字体片段来降低数据量。Fontdeck 由 Rutter Clearleft  设计公司开发，可以针对不同浏览器推出不同字体格式，比如 IE 支持 @font-face，但只限于微软自己的 EOT 格式。对于那些不支持 @font-face 的浏览器，他们也有不同的应对措施，比如 Typekit 会使用 sIFR or Cufón 替代方案。
+<br> <br>不过他们也受到了一些质疑，比如，这样的机制依赖第三方服务，受限于他们的在线时间，另外一个问题就是费用，字体许可加上带宽的占用不是一个小费用，另外，还有人指出，这些方案并不能真正阻止字体盗用，仅仅是让盗用更难了一些。
+<br> <br>针对这些质疑，Rutter 表示，依赖第三方服务的系统到处都是，想想 Google 地图或 Amazon S3，人们没必要担心其可靠性。而价格问题不同服务商各不相同，不过让更多的公司参与进来会让价格降低到市场能够接受的水平，关于字体盗用，字体商们并不喜欢 DRM，他们希望字体很容易部署使用。Typekit 的 Jeffery Veen 在其公司博客中<a href="http://blog.typekit.com/2009/07/21/serving-and-protecting-fonts-on-the-web/">解释</a>道，我们的目的是消除通常意义上的滥用。<br> <br>
+未来：我们自己的 Web 字体
+<br> <br>虽然上面说的这些 Web 字体方案有诸多缺陷，他们在目前至少是已经可以使用了的。不过人们还是提出了一些专门的 Web 字体提议，微软最近再次向 W3C 提交 EOT 提案，不被仍被拒绝，这次提交的 EOT 方案命名为 EOT Lite，似乎意味着一种妥协，不过 Readable Web 的 Richard Fink 解释到，EOT Lite 比 TTF 文件略有不同，包含调整过的文件头以及不同的文件后缀。Font Bureau 的 David Berlow 则提议在标准 OpenType 字体中加入一个<a href="http://www.fontbureau.com/news/2009-07-15">许可表</a>，以便浏览器查验某个字体是否允许用于某个网站。
+<br> <br>而由字体设计师 Tal Leming 与 Erik van Blokland 提议的 <a href="http://lists.w3.org/Archives/Public/www-font/2009JulSep/0440.html">.webfont </a>方案则受到了多数字体商乃至 W3C 的关注。.webfont 是一种经过 Zip 打包压缩的文件包，包含两个文件，info.xml 以及真正的字体文件，前者包含了 XML 格式的许可信息，受益于其 Zip 压缩格式，这种字体文件尺寸至少减少了40%，不过字体公司应该提供转换工具，实现字体片段机制，这样，文件尺寸还会降低。（译者注：这或许会解决中文字体文件尺寸庞大的问题）
+<br> <br>目前，支持这一提议的字体公司包括 <a href="http://twitter.com/houseindustries/status/2656007254">House Industries</a>, FontShop, <a href="http://twitter.com/H_FJ/status/2655923216">Hoefler &amp; Frere-Jones</a> 等，甚至 Typotheque 自己也支持这一提议，Bilak 说，这不是一个非常理想的方案，是一种妥协，虽然仍不能消除字体商的所有疑虑。
+<br> <br>而浏览器设计商似乎也愿意参与到这个技术中，尤其当 W3C 接纳该技术成为标准时，不过浏览器设计商至少要等待 W3C 完成系列工作才能提供支持。.webfont 是一种未来的方案，也许要两年或四年，Bilak  说，也有人认为这一过程需要五年或更长时间。
+延伸阅读
+<br> <br> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K830.aspx">关于 Web 字体：现状与未来</a>
+<br> <br>本文国际来源：<a href="http://arstechnica.com/web/news/2009/08/web-font-services-join-fray-as-webfont-format-gains-support.ars">http://arstechnica.com/web/news/2009/08/web-font-services-join-fray-as-webfont-format-gains-support.ars</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+"
+➜KDE 4.3发布
+https://www.solidot.org/story?sid=12763	5700
+KDE项目正式<a href="http://tech.slashdot.org/story/09/08/04/1825239/KDE-43-Released">宣布</a>发布<a href="http://kde.org/announcements/4.3/index.php">KDE 4.3</a>，代号Caizen（意指改善）。新版本修正了10000多个bug，增加了2,000多个用户要求的新特性。
+<i>
+主要新特性除了通常有的稳定性和速度改进外，包括增添新widgets，folderview能对文件进行预览，虚拟桌面可区分活跃。KDE应用程序改进包括：用于加密和对文件和邮件签名的工具KGpg；解压缩工具Ark支持更多格式，改进了zip、rar和7zip支持；Linux远程红外线控制系统移植到KDE；十六进制编辑器Okteta增加了校验工具；即时聊天工具Kopete改进了联系人名单；KOrganizer可以与Google日历同步；Kmail支持在邮件中插入图片；通知工具Alarm增加了输出功能，拖放，并改进了配置。现在KED应用程序开发平台正与<a href="http://www.socialdesktop.org/">Social Desktop</a>进行整合等等。</i>
+<a href="http://blip.tv/file/2428228">KDE 4.3屏幕录像</a>。
+➜微软再次起诉安装盗版软件的中国公司
+https://www.solidot.org/story?sid=12764	6600
+财经网报道，微软以软件著作权受侵犯<a href="http://www.caijing.com.cn/2009-08-04/110220552.html">起诉上海的三家公司</a>。微软取证的做法和<a href="__SLASHLINK__" sect="it" sid="09/06/17/0159216" sn="article" tid="32">以前一样</a>，即购买被告公司的电脑，发现其中预安装的盗版XP专业版软件。
+<i>
+起诉的三家公司分别是从事企业客户服务以及计算机销售的上海昶沣信息科技有限公司，上海紫越网络科技和上海臣越信息技术有限公司。微软公司委托代理人和公证人员于2008年10月至11月，分别三次以普通消费者的身份从昶沣公司购置四台电脑，其中都已经预装了微软XP，但是该公司从未从微软处取得安装该软件的授权。微软称，在被告销售的计算机中，长期存在着非法预装盗版软件的现象。微软要求被告立即停止安装、销售并且删除未经授权的微软XP软件，赔偿原告直接经济损失20万元以及律师费、调查取证费共计32万余元，以及本案的全部诉讼费用。</i>
+➜Phoronix发布Linux Benchmarking发行版
+https://www.solidot.org/story?sid=12765	8700
+<a href="http://www.phoronix.com/">Phoronix</a>发布了它的Linux基准测试软件<a href="http://www.phoronix-test-suite.com/">Phoronix Test Suite 2.0版</a>。<i>
+但令人感兴趣的是Phoronix还发布了专门用于在Linux上执行硬件测试和基准测试的发行版<a href="http://linux.softpedia.com/get/System/Operating-Systems/Linux-Distributions/PTS-Desktop-Live-49794.shtml">PTS Desktop Live</a>，该发行版的系统需求要求较高，推荐需要2GB以上的内存，Intel/AMD x86_64 CPU，镜像大小为1 GB，主要的组件包括了Phoronix Test Suite 2.0，管理基准测试流程的GTK GUI，可以在Live环境（DVD/USB）中测试，无需安装到硬盘。</i>
+➜烧录软件Nero发布免费版本
+https://www.solidot.org/story?sid=12766	10620
+xcat 写道 "一款至少是风靡中国的烧录软件Nero最近<a href="http://www.nero.com/chs/downloads-nero9-free.php">发布了他的免费版本</a>.其版本号是9.4.12.3，最近更新为7月30日。此免费版本 Nero 9 包含有 CD 和 DVD 的简单数据刻录和光盘复制功能。升级至Nero 9 完整版才可以使用其他特性和功能。即便如此，Nero也比国内的某些软件和服务要厚道的多。"
+➜美国将部署3万磅重的巨型炸弹
+https://www.solidot.org/story?sid=12767	10800
+为了对付来自朝鲜和伊朗的地下核设施，五角大楼正加快部署6米长，3万磅（大约13.6吨）重，装有重达5300磅（2.4吨）炸药的<a href="http://tech.slashdot.org/story/09/08/04/0022251/30000-Lb-Bomb-On-Fast-Track-For-Deployment">巨型钻地炸弹</a>（Massive Ordnance Penetrator，简写MOP）。<i>
+MOP由由波音公司研制，可装载在B－2隐形轰炸机和B－52轰炸机上，<a href="http://www.zaobao.com/gj/gj090804_002.shtml">目前处于测试阶段</a>。MOP能穿透厚度达60米的土地，可用于破坏现有炸弹无法对付的地下目标，其爆炸威力比BLU-109型炸弹还要大10倍，外壳使用强化钢铁。美国空军发言人表示，一旦国会同意将足够的经费转移到该炸弹的研究计划方面，预计到2010年7月，它将能装载在B－2隐形轰炸机上。</i>
+➜美联社要求为杰斐逊总统的名言收费
+https://www.solidot.org/story?sid=12768	13320
+美联社最近推出一项政策，任何人如果从它的文章中拷贝了4个以上的连续单词——不管实际的出处，他/她必须付费以获得使用许可。根据美联社制定的标准，5-25个单词收费7.50美元，26-50个单词收费12美元，51-100收25美元，101-250收50美元，251个以上收75美元。<i>
+博客James Grimmelmann<a href="http://laboratorium.net/archive/2009/08/03/the_ap_will_sell_you_a_license_to_words_it_doesnt">为此做了一项试验</a>，他从美联社文章中选择出<a href="http://zh.wikipedia.org/w/index.php?title=%E6%89%98%E7%8E%9B%E6%96%AF%C2%B7%E6%9D%B0%E5%BC%97%E9%80%8A&amp;variant=zh-cn">托马斯杰斐逊</a>总统在196年前说的一段反版权的名言——毫无疑问这段名言已经进入了公有领域——“If nature has made any one thing less susceptible than all others of exclusive property, it is the action of the thinking power called an idea. ”美联社要求他为这26个单词付费12美元。这个荒谬可笑的收费立即引起了广泛关注，<a href="http://yro.slashdot.org/story/09/08/03/2125223/AP-Will-Sell-You-a-License-To-Words-It-Doesnt-Own">/.</a>，<a href="http://www.boingboing.net/2009/08/02/associated-press-wil-1.html">Boing Boing</a>和<a href="http://techdirt.com/articles/20090803/0344305756.shtml">TechDirt</a>都进行了报道。最后美联社向他退还了12美元，并发表<a href="http://www.ap.org/pages/about/pressreleases/pr_080309a.html">声明</a>称iCopyright是一种自动化的内容收费形式，并不针对博客。</i>
+➜微软发布Windows XP Mode RC版
+https://www.solidot.org/story?sid=12769	15000
+<a href="http://livesino.net/">Picturepan2</a> 写道<i> "8月4日，微软<a href="http://windowsteamblog.com/blogs/windows7/archive/2009/08/04/windows-xp-mode-rc-now-available.aspx">发布</a>了<a href="http://livesino.net/archives/2169.live">Windows XP Mode RC版</a>，其中包括近6 MB的Windows Virtual PC以及460MB 特殊版本的 Windows XP SP3，现在就可以在微软官方网站<a href="http://www.microsoft.com/windows/virtual-pc/download.aspx">下载</a>Windows XP Mode RC。Windows XP Mode 是 Windows 7 中全新的应用程序兼容机制，基于 Windows Virtual PC 虚拟化技术，用户可直接在 Windows 7中独立运行Windows XP SP3 虚拟机内已发布的程序。</i>
+➜ESPN告诉雇员他们只能Tweet ESPN
+https://www.solidot.org/story?sid=12770	19200
+著名体育电视网ESPN向雇员传达了一项关于社交网站的指导方针，<a href="http://mashable.com/2009/08/04/espn-twitter/">禁止他们Tweet信息</a>，除非是与ESPN有关的。根据NBC Sports的<a href="http://profootballtalk.nbcsports.com/2009/08/04/espns-guidelines-for-social-networking/">报导</a>：ESPN表示这项政策适用于所有的雇员、节目主持人、分析师、评论员、记者和作者。它表示不禁止在个人网站和博客上写与体育有关的内容。“<a href="http://twitter.com/#search?q=%22ESPN%20Tells%20Employees%22">ESPN Tells Employees</a>”这几个词迅速成为twitter上的热门关键词。
+➜如何称得上是恰当编辑
+https://www.solidot.org/story?sid=12771	21240
+2005年去世的旅美历史学家<a href="http://en.wikipedia.org/wiki/Immanuel_C.Y._Hsu">徐中约</a>的著作《<a href="http://www.amazon.cn/mn/detailApp?qid=1249452287&amp;ref=SR&amp;sr=13-1&amp;uid=477-7287004-6676241&amp;prodid=bkbk814929">中国近代史:1600-2000中国的奋斗</a>》被翻译成中文，在香港和大陆分别出版繁体字版和简体字版，简体版定价为66元，共636页。<i>
+其中大陆版的出版前言云“作者浸淫西方学术多年，其理论立场、观点、思想倾向及批评标准与我们不仅相同。经版权所有者授权，我们对本书的一些内容进行了适当而审慎的编辑处理，其不妥之处还请读者见谅。”法学教授<a href="http://zh.wikipedia.org/w/index.php?title=%E8%B4%BA%E5%8D%AB%E6%96%B9&amp;variant=zh-cn">贺卫方</a>将两版本进行了对照，惊讶的<a href="http://heweifang.blog.sohu.com/128692517.html">发现</a>大陆版不仅去掉了大量章节，还添加了许多原文没有的内容，他认为这绝对不是所谓恰当的编辑，原作者肯定不会允许著作被如此大刀阔斧的修改。</i>
+➜Intel证实新SSD固件bug，暂停销售
+https://www.solidot.org/story?sid=12772	24120
+Intel证实它新推出的X25-M和X18-M固态硬盘<a href="http://hardware.slashdot.org/story/09/08/03/2051252/Intel-Confirms-Data-Corruption-Bug-Halts-New-SSDs">发现数据丢失bug</a>，宣布暂停销售。<i>
+X25-M（2.5英寸）和X18-M（1.8英寸）是首批使用34纳米工艺生产的固态硬盘，新工艺能制造出高密度，高容量，低成本的新产品。Intel表示问题与固件有关，当用户在固态硬盘上设置BIOS密码，然后禁用或修改密码，重启计算机后就会出现数据丢失的情况。在这种情况发生之后，固态硬盘会变得无法操作，上面的数据也无法恢复。这不是Intel第一次遭受固件错误，它的第一代硬盘驱动器会随着时间推移而受到数据碎片问题，导致性能下降。Intel建议用户不要设置BIOS密码，要求消费者留意官网的<a href="http://www.intel.com/support/9089.html">固件更新</a>。</i>
+➜违禁作品侵权不能获得赔偿
+https://www.solidot.org/story?sid=12773	24780
+在年初，<a href="__SLASHLINK__" sect="mainpage" sid="09/01/27/095206" sn="article" tid="67">WTO“中美知识产权争端”</a>中，关于中国《著作权法》第4条第1款“禁止出版作品不受著作权保护”，作出了不利于中国的裁决。就此，华东政法大学的王迁教授<a href="http://blog.sina.com.cn/s/blog_46a2d1f50100eyyl.html">撰文</a>认为，WTO对该条款的裁决不会对中国著作权保护机制造成实际影响。作者认为这项裁决可能产生的唯一效果，就是使违法作品的作者通过司法程序，阻止他人出版、传播被禁作品。
+<i>王迁从著作权的角度认为，按照专家组的意见，中国应当一方面继续运用公权力去禁止内容根本违法的作品的发行、传播，另一方面允许这些被禁作品的作者自己去法院起诉那些未经许可发行、传播其被禁作品的人，并由法院提供禁令、销毁侵权复制品等救济措施。这样的要求对中国著作权保护的实践而言，将不会产生任何实质性的影响。<br>
+因为在一部作品因内容根本违法而被禁止出版、传播的情况下，包括作者本人在内的任何人也都不得以任何方式公开利用作品。作者也当然无从合法地从作品中获得任何经济利益。既然没有法律上的损失，那么无损失则无赔偿。例如目前在大陆未获得公映许可证或发行许可证的海外影片就是如此。权利人可以要求停止侵权，却不能获得损害赔偿。因此即使《著作权法》第4条第1款被删除，也不会对现行的审查制度产生任何影响。</i>
+同时，作者也认为在WTO专家组裁决中国在《著作权法》第4条第1款问题上败诉的情况下，删除这一款并不会对中国的公共利益造成损害，因此建议立法者应当认真考虑这个问题。
+➜中国蓝光挑战蓝光
+https://www.solidot.org/story?sid=12774	26280
+虽然在HD-DVD vs 蓝光的高清格式大战中，东芝甘拜下风，但一年之后站在巅峰的蓝光却发现，<a href="http://blogs.zdnet.com/storage/?p=562&amp;1=1">另一个威胁正从东方升起</a>——<a href="http://en.wikipedia.org/wiki/CBHD">中国蓝光高清光盘</a>（China Blue Hi-definition Disk，缩写CBHD），东芝已将它的HD-DVD授权给了CBHD（CBHD是基于HD-DVD）。<i>
+据统计在中国，CBHD播放器的销量是蓝光的3倍，CBHD光盘的成本只有蓝光的四分之一。蓝光的统治岌岌可危，而它面临最根本问题是消费者认为略微提升的高清画质与多出的价格不成比例。中国有很好的理由支持本国的标准，首先是蓝光的版税太高，另一个重要理由是中国政府需要将一切控制在手中，保持国内稳定，而稳定的主要表现是物价稳定，生活水平上升。因此从这两方面看CBHD是双赢：节省数十亿美元的版税；廉价，在本地生产，不会成为大部分群众无法享受的奢侈品。而东芝则可以坐享其成，减少HD DVD投资的损失，未来还能从中国政府获得等值的回报。分析人士预测CBHD将在明年成为世界第一的高清格式。CBHD光盘的容量和HD DVD一样都是30GB，可兼容现有的DVD生产线。</i>
+➜微软承认Linux威胁Windows
+https://www.solidot.org/story?sid=12775	29400
+在递交给美国证券交易委员会的<a href="http://www.sec.gov/Archives/edgar/data/789019/000119312509158735/d10k.htm">年度报告</a>中，微软首次将Linux开发商Red Hat和Canonical<a href="http://linux.slashdot.org/story/09/08/04/2323253/Microsoft-Acknowledges-Linux-Threat-To-Windows">视作是Windows的竞争对手</a>。这是微软首次承认Linux正切切实实威胁到Windows客户端业务，竞争主要来自Linux上网本，它逐渐成为部分笔记本的替代。<i>
+微软在报告中称，竞争的商业软件产品，包括Unix的衍生物，如苹果，Canonical和Red Hat的产品。苹果采用了整合的方式，获得了相当不错的份额，尤其是在美国和消费者市场。Linux，源于Unix，无需付费，采用GPL许可证，已经获得一定程度的认可，尤其是新兴市场。合作伙伴如惠普和英特尔，也一直积极开发可替代的基于Linux的操作系统。微软表示Windows还面临着可能减少传统PC需求的其它平台和新设备的竞争。竞争对手，如苹果、Google、Mozilla和Opera的浏览器，与Windows上的Internet Explorer浏览器展开着激烈的竞争。</i>
+➜飞利浦开发路边毒品测试设备
+https://www.solidot.org/story?sid=12776	31320
+《MIT技术评论》<a href="http://www.technologyreview.com/biomedicine/23111/">报道</a>，飞利浦公司为警方开发了一种能在90秒内检测出<a href="http://science.slashdot.org/story/09/08/04/1652255/Philips-Develops-Roadside-Drug-Testing-Device">可卡因，海洛因，大麻，安非他命，冰毒等毒品的手持设备</a>。<i>
+这种电子设备使用磁性纳米粒子去甄别出五种常用的毒品。它由两部分组成，其一是收集唾液的收集器，其二是包含磁性纳米粒子的可测量筒。一旦唾液放进设备之后，电磁体开始搅拌样本和纳米粒子。利用<a href="http://en.wikipedia.org/wiki/Total_internal_reflection#Frustrated_total_internal_reflection">受抑全内反射技术</a>（Frustrated total internal reflection）——指纹扫描器和多触摸屏便是基于同样现象——去测量折射率的变化。通过固定传感器表面不同部分的毒品分子，分析器能确定每种不同毒品的痕迹。一个电子屏幕可显示出指示，一个简单的色码可读出结果。</i>
+➜机遇号或在火星上发现陨石
+https://www.solidot.org/story?sid=12777	33600
+NASA的机遇（<a href="http://www.nasa.gov/mission_pages/mer/opportunity-update.html">Opportunity</a>）号火星车在火星表面发现一块形状奇特的<a href="http://spacefellowship.com/2009/08/01/possible-meteorite-imaged-by-opportunity-rover/">黑色石头</a>，直径大约0.6米，科学家推测它<a href="http://science.slashdot.org/story/09/08/03/1442214/Possible-Meteorite-Imaged-By-Opportunity-Rover">可能是一颗陨石</a>。
+<i>7月18日，NASA的研究团队注意到这块石头，随后将其命名为Block Island，此时火星车已行驶到前方。为了进一步研究，地面控制人员操纵机遇号原路返回大约250米。科学家将用阿尔法粒子X射线分光计测量岩石成分，确认是否是陨石。</i>
+➜如何在Windows 7中启用动态桌面
+https://www.solidot.org/story?sid=12778	37200
+<a href="http://livesino.net/">Picturepan2</a> 写道<i> "<a href="http://livesino.net/downloads/windows7/Windows7-DreamScene.exe">Windows DreamScene</a>是 Windows Vista Ultimate Extras 中的组件，用户可通过 DreamScene 将视频等设置为桌面背景，但微软并没有在 Windows 7 中推出 DreamScene，不过仍可用以下方法<a href="http://livesino.net/archives/2170.live">为Windows 7增加 DreamScene 功能</a>。"</i>
+➜Windows 7 RTM深入测试
+https://www.solidot.org/story?sid=12779	38160
+Windows 7的代码已经冻结，CNET因此<a href="http://crave.cnet.co.uk/software/0,39029471,49303203,00.htm">深入测试Windows 7 RTM版</a>。不管承认不承认，Windows Vista让微软陷入尴尬境地，用户延长Windows XP寿命的呼声并非是值得微软自豪的事情。Vista遭受了一连串的打击，现在微软试图用其继任者Windows 7重获尊重。文章逐一评估了任务栏，Aero特效，Windows Media Player，搜索，触摸屏，XP模式，安全等等各个方面。<a href="http://tech.slashdot.org/story/09/08/05/0025243/Windows-7-RTM-Reviewed-amp-Benchmarked">最后的结论</a>认为：<i>
+Windows 7看起来是微软和它的消费者一直在等待的操作系统。通过修正Vista中的大多数已发现和真正的问题，微软为Windows未来前进的方向奠定了基础。Windows 7提供了一个稳定的平台，在舒适性可以与苹果的OS X操作系统相媲美，微软想让世界放心，Windows仍可以成为一个强大有用的操作系统。</i>
+➜脾脏的新功能被发现
+https://www.solidot.org/story?sid=12780	41520
+<a href="http://zh.wikipedia.org/w/index.php?title=%E8%84%BE%E8%84%8F&amp;variant=zh-cn">脾脏</a>没有<a href="http://science.slashdot.org/story/09/08/04/194230/Major-New-Function-Discovered-For-the-Spleen">得到尊重</a>，正如一名研究人员所言，脾脏没有得到邻近器官那样的同等待遇。一些人在切除了脾脏似乎也活得很好，没有遇到大问题。<i>
+但科学家发现，<a href="http://www.nytimes.com/2009/08/04/science/04angier.html?_r=1&amp;ref=science">脾脏在人体防御系统上扮演着极其重要的角色</a>(需注册)。根据麻省总医院和哈佛医学院在最新一期《科学》杂志上发表的<a href="http://www.sciencemag.org/cgi/content/short/325/5940/612R">报告</a>（摘要），脾脏储存了大量的名叫单核白血球（monocytes）的免疫细胞。一旦人体遭遇严重创伤，如心脏病发作，被划破，细菌入侵，脾脏将会让单核白血球进入血液中去处理危机，修复创伤处。报告的其中一位作者Matthias Nahrendorf称，用军事术语形容的话就叫常备军，一旦需要他们可以立即投入到战斗中。免疫学家Ulrich H. von Andrian称，这一发现确实令人意外，一般情况下，如果人们去猜测单核白细胞来源的话，他们会认为是来自骨髓而不会是脾脏。</i>
+➜试用QQ系列软件与服务
+https://www.solidot.org/story?sid=12781	42480
+<a href="http://www.occulty.com/">Eureka</a> 写道 "相信Solidotors中有不少QQ无爱者，不久之前本人也是其中之一。不过最近试用了一下腾讯的一些软件和服务，广告和流氓较以前大有改观，有些感觉还是颇有诚意的。           <a href="http://im.qq.com/qq/2009/preview4/">QQ2009</a>：好过msn<br>这个软件比Windows Live Messenger好用。传输加密、截屏、直接发图片、多人语音、快速传文件等都比MSN好用得多。现在QQ的广告也少了，在可接受的范围之内。QQ添加好友的验证方式多样，可以对每个好友或者群分别设置提醒方式，灵活自由；主界面上集成了众多的应用入口，并可自定义，实用程度较高。虽说收费功能仍然充斥其中，但是大多数基本功能免费用户也能用的蛮舒服。
+<br> <a href="http://mail.qq.com/">QQ邮箱</a>：国内领先 <br>
+QQ邮箱算是国内邮箱服务中很好的一个了，容量自动增长，足够大，服务器多，速度快，整合了聊天功能，提供手机版访问界面和软件客户端等等，优点众多。
+<br> <a href="%E8%B4%A2%E4%BB%98%E9%80%9A">财付通</a>：有待发展
+<br>和快钱、支付宝类似的支付工具，不过和两位前辈相比实在弱得很。不支持邮箱形式的QQ账号，不支持Firefox等非IE浏览器，激活机制不可靠，信用卡还款、公共事业费支持的银行和地区还不够多。不过他现在充手机还是蛮划算的，慢充48小时到账可以优惠到9.5折左右，实惠。
+<br> <a href="http://photo.qq.com/">QQ相册</a>：非常孱弱
+<br>QQ的相册服务真是非常之弱，不要说比不上国外的flickr、picasa或者国内的yupoo，甚至连老牌传统的网易相册都大有不如。首先是不支持Firefox等非IE浏览器，即使在IE下功能也很弱，上传插件在世界之窗浏览器中也不能正常工作；上传的图片都被大幅压缩，不能保留原图，而且即使使用上传插件，一次也只能30张。而现在其他先的相册服务，如Google Picasa支持人脸识别、flickr和yupoo的伴随空间增长以及外链功能等等，QQ相册一概欠奉，连网易相册都支持的上传保留原图和多浏览器兼容都不行。
+<br> <a href="http://music.qq.com/">QQ音乐</a>：随意之选<br>
+这个软件用起来还是蛮爽的，速度快，界面清爽，时髦的KTV式歌词显示。以前用友播、虾米、八宝盒等在线音乐听起来有时候会卡，速度不稳定。现在的QQ音乐速度还是满可以的，闲暇时随便听听蛮好用的。
+<br> <a href="http://xf.qq.com/">QQ旋风2</a>
+<br>以前对QQ旋风下载的印象非常之差，感觉很流氓、跟风之作、无能等等。这次也装了试用一下，不错。界面简洁小巧，类似于快车迷你版，没有广告。右侧有一个资源中心，热门资源一点就能下了；现在的版本已经支持Firefox3.5了，跟进很快；也支持BT、emule，这个兴趣不大；下载热门资源速度不错，不过不支持边下载边播放的技术，是个软肋。
+<br> <a href="http://mobile.qq.com/">手机版QQ</a>：不咋地
+<br>我用的是Windows Mobile手机，下载的手机版QQ感觉一般。首先是不完全支持WVGA，只是把QVGA的界面放放大而已。其次和朋友在S60上的QQ试用传图片、视频都不成功。而用飞信的手机版，则可以很轻易的图片即拍即传。
+<br> <a href="http://web.qq.com/">网页版QQ</a>：有待完善<br>
+网页版的QQ虽然一直在进步，但是和Windows版的QQ一般还是弱得很，甚至一些基本功能也有问题。比如之前用号码搜一个群，死活搜不到，问题很严重。
+<br>其他
+<br>腾讯旗下真是人丁兴旺，除了以上罗列的服务和软件外，我还用过<a href="http://player.qq.com/">QQ影音</a>也不错，没有广告，操作方便，口碑也不错，不过现在喜爱更小巧强大的射手播放器；<a href="http://im.qq.com/qq/linux/">Linux版的QQ软件</a>之前也用过，功能还很阳春，速度慢，易失去响应。"
+➜音乐家从苹果OS X换用到Ubuntu
+https://www.solidot.org/story?sid=12782	45000
+一位过去用苹果电脑创作数字音乐的作曲家<a href="http://en.wikipedia.org/wiki/Kim_Cascone">Kim Cascone</a>宣布了<a href="http://linux.slashdot.org/story/09/08/04/2131224/Goodbye-Apple-Hello-Music-Production-On-Ubuntu">放弃OS X改用Ubuntu创作音乐</a>。
+<i>
+Kim Cascone表示他使用苹果电脑制作音乐已有10年，他忠实的随着苹果和软件开发者的步伐亦步亦趋。升级耗费了大量的财政支出。他曾于2005年在一台基于PowerPC处理器的Mac笔记本上尝试过Ubuntu，但当时的表现不能令人满意，主要是声音无法工作。虽然没有再继续使用，但他仍时刻关注Linux。由于MacBook Pro价格太高，他后来购买了一台预装Ubuntu的Dell Inspiron Mini 9上网本。他在Dell电脑上安装一些音频应用程序，这台电脑主要是作为旧PowerBook笔记本的备份。但随着PowerBook越来越老化，加上口袋里的钱所剩无几，他选择了一下Dell Studio 15，安装Ubuntu进行音乐创作。笔记本加上免费软件，总的费用仅仅600美元左右，远远低于苹果电脑加软件的3000美元。经过几个月的使用之后，笔记本或Ubuntu都没有问题，两者执行得完美无缺，十分可靠。</i>
+➜Khronos提出WebGL倡议
+https://www.solidot.org/story?sid=12783	68160
+<a href="http://szlug.org/">权相龙</a> 写道 "<a href="http://www.khronos.org/">Khronos</a>提出<a href="http://www.h-online.com/open/Khronos-announce-WebGL-initiative--/news/113932">WebGL</a>绘图技术，允许把JavaScript和OpenGL ES 2.0结合在一起，已获得业界支持（Google,Mozilla,Opera），并透露其技术规范基于HTML5概念，如通过使用<a href="http://en.wikipedia.org/wiki/Canvas_(HTML_element)">Canvas元素</a>，而<a href="http://www.khronos.org/news/press/releases/khronos-webgl-initiative-hardware-accelerated-3d-graphics-internet/">不需要插件来调用3D硬件驱动</a>。Khronos将广邀对WebGL感兴趣的公司成为会员，并一起开发制定其最终技术规范，同时希望WebGL在明年上半年推出。"
+➜吉林靖宇县抚松县交界发生4.6级地震
+https://www.solidot.org/story?sid=12784	68520
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 "
+<i>据<a href="http://www.ceic.ac.cn/eq.jsp?id=107933">中国地震台网中心消息</a>，8月5日20时08分，在吉林省白山市靖宇县、抚松县交界(东经127.2°，北纬42.3°)发生4.6级地震，震源深度为9千米。（相关帖子<a href="http://tieba.baidu.com/f?kz=622568645">1</a> <a href="http://www.tianya.cn/publicforum/content/funinfo/1/1561393.shtml">2</a>）</i>
+<a href="http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/quakes_all.php">美国地震局</a>网站却没有检测出来。"

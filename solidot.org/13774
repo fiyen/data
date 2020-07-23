@@ -1,0 +1,34 @@
+➜2007微型软件公司调查
+https://www.solidot.org/story?sid=3884	2280
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"在著名的软件开发论坛Joel on Software上经常有一些诸如“销售情况怎么样？”，“你写哪些应用程序？”，“总共有多少次下载？”这样的问题。恐怕每个软件公司都会面临这样的事情。在国内，软件开发公司的情况比较困难，商业软件有盗版，开源软件不赚钱，最后还是回归到广告上了。看看<a href="http://www.yeeyan.com/articles/view/hardway/2036">国外的调查结果</a>，有一定的参考意义。"</i>
+➜145个操作系统
+https://www.solidot.org/story?sid=3885	2700
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"这个世界上有很多geek，想出各种稀奇古怪的点子，这哥们儿在一台电脑上<a href="http://www.yeeyan.com/articles/view/888888/2043">装了145个操作系统</a>！一台1T硬盘、1G内存的电脑，分了152个区，一个纯数据分区放置个人数据，另一个纯数据分区放置公共引导装载器，还有所有Linux需要的一个Swap分区，除去7个分区留下145个分区放置那145个操作系统。3个Dos、5个Windows、114个不同的Linux。除了下载的测试版本Vista和不花钱的Linux，其它微软系统都是掏钱的，真有钱啊～"</i>
+➜老游戏与新显卡新驱动的不兼容
+https://www.solidot.org/story?sid=3886	3660
+许多人，至少是热爱游戏的玩家，经常会遭遇显卡图像渲染出错的问题，解决的方法不外乎更换驱动，更新的或是更老的驱动。有时候老游戏甚至还不得换用旧显卡。<i>最近一些老游戏（神偷系列（<a href="http://en.wikipedia.org/wiki/Thief_(series)">Thief Series</a>）和系统震荡（<a href="http://en.wikipedia.org/wiki/System_Shock_2">System Shock 2</a>））的粉丝<a href="http://www.ttlg.com/forums/showthread.php?t=113501&amp;page=1">要求</a>nVidia修正这些16位3D游戏在新显卡和驱动中的渲染问题。他们发现游戏运行中，建筑物的光影被拉长了，图像表现也非常糟糕。<a href="http://games.slashdot.org/games/07/09/16/1940215.shtml">这确实是一个问题</a>，如果游戏算作艺术的话，为什么它的表现与硬件息息相关？经典游戏的爱好者会逐渐增多，但新来者却常发现游戏的执行体验并不愉快，因为新的硬件对旧游戏的支持在减少。一位读者指出，nVidia为最近的热门游戏《生化震荡》专门优化的驱动却让《上古卷轴4湮没》出现了问题。另一位游戏开发者则表示他现在还在用DirectX 7执行2D游戏。这个问题显然与WinAPI有关，DirectX在不断更新，开发者确实能从中受益，但硬件开发商却很难推出100%兼容DirectX标准的驱动，目前而言老游戏只能靠模拟器来展现它真正的魅力。</i>
+➜Intel收购Havok
+https://www.solidot.org/story?sid=3887	6180
+<a href="http://www.gamasutra.com/php-bin/news_index.php?story=15511">芯片巨人Intel宣布收购游戏工具开发商Havok公司</a>，暂时没有透露收购金额。官方新闻稿称“收购将加强数字动画和游戏的开发者利用Intel在数字媒体领域的创新和技术领导力。”Havok刚刚在不久前公布了Havok 5，新的工具变化巨大。Havok 5加强了Havok的核心产品的性能，Havok Physics和Havok Animation，加入新功能Havok Behavior，新系统可用于在游戏中开发事件驱动的角色行为。有许多著名的游戏都使用了Havok 技术，尤其是Havok Physics物理方案，包括BioShock，Stranglehold，Halo 2，Half Life 2，Oblivion，Crackdown，和MotorStorm。Havok在游戏物理特效方面处于领先地位，未来可能成为Intel视觉和图形处理的关键组成。
+➜使用CSS开发时髦的导航栏
+https://www.solidot.org/story?sid=3888	12600
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道<i> "除非限制你自己只做单个页面的网站，否则你都需要导航栏。事实上，导航栏是任何网站设计中最主要的部分之一，如果希望用户很容易的在你的站点移动，导航栏的设计需要大量的思考。传统的制作导航条的方法倾向于依赖大量的图片、嵌套表格和Javascript脚本——所有这些都会严重影响站点的可用性和无障碍性。并且，这样的方法成为搜索引擎爬虫索引你网站的最大障碍。要解决这些问题，你只需要用CSS，用一些经过装饰的纯文本来制作导航栏，事半功倍。该系列的三篇文章：<a href="http://www.yeeyan.com/articles/view/2930/2034">第一篇</a>、<a href="http://www.yeeyan.com/articles/view/2930/2035">第二篇</a>、<a href="http://www.yeeyan.com/articles/view/2930/2039">第三篇</a>。"</i>
+➜Google reader有了中文版了
+https://www.solidot.org/story?sid=3889	21480
+<a href="http://ashan.yo2.cn/">ashan3</a> 写道 "<i>“就在两分钟之前<a href="http://www.google.com/reader">Google Reader</a>还是英文版的，但是但我添加了一个RSS之后界面缓慢地出来，我看到了Google阅读器！中文版来了～”看到中文的界面，感觉那么舒畅啊^_^"</i>如果你现在开着Google Reader，请刷新一下。
+➜SCO半数会计师离开
+https://www.solidot.org/story?sid=3890	21600
+SCO上周五申请了破产保护，但显然周末它的律师还在加班加点。SCO律师向破产法庭递交了一封申请书，希望能允许它临时雇用一些会计师，理由是“帮助债务人准备年度财政报告和其它事务”。真的会如此简单？事实是SCO<a href="http://www.groklaw.net/article.php?story=20070917072753835">财政部门半数的会计师已经辞职或被开除</a>。其中两位辞职的会计师在SCO的工作时间超过了十年。一家公司的情况有谁会比会计更清楚？"
+➜一男子长时间玩游戏后暴毙
+https://www.solidot.org/story?sid=3891	25200
+最近又有一件事情成为互联网毒瘤的佐证，一位年约30的壮年男子连续在网吧玩游戏至少3天后，<a href="http://news.qq.com/a/20070916/000058.htm">突然晕倒不起</a>。警察估计死因可能是长时间上网，导致了心脏衰竭。媒体的报道没有提及死者的名字，所玩的游戏。一位现场知情者称；“没想到上网也会上死人。”<a href="http://www.thestar.com/News/article/257404">据报道</a>当时在场的100多人由于害怕上法庭作证而纷纷逃离。看来防沉迷系统应该<a href="http://games.slashdot.org/games/07/09/17/1653218.shtml">扩展到全年龄段</a>。
+➜AMD宣布推出三核处理器
+https://www.solidot.org/story?sid=3892	30960
+AMD正式宣布将向用户<a href="http://www.hothardware.com/News/AMD_TripleCore_Phenoms_Announced/">提供三内核Phenom处理器</a>，称这将是一种真正的全方位多功能处理器。预计在2008年第一季度推出，它将是世界上第一种三内核桌面处理器（XBOX 360的CPU也是三核）。从双核，三核到四核，消费者可能会眼花缭乱。对称多线程处理技术（SMP）认为使用偶数内核的处理器是在提高性能时兼顾平衡，AMD的奇数数目处理器可以使工作更有效率。但只有时间才能告诉我们这种特殊结构在多线程应用中是否确实有效。AMD承认三内核Phenom处理器与四内核结构基本相同，只是少了一个内核。也许这是指三内核可以利用四内核生产线上的次品来进行生产和节省成本。
+➜纽约时报宣布终止网上付费阅读服务
+https://www.solidot.org/story?sid=3893	44580
+<a href="mailto:jokhva@gmail.com">dhg</a> 写道
+<a href="http://www.reuters.com/article/internetNews/idUSWEN101120070918?feedType=RSS&amp;feedName=internetNews&amp;rpc=22&amp;sp=true">路透社消息</a>：<a href="http://www.nytimes.com/">纽约时报</a>宣布将终止网上付费阅读服务，并免费提供其中绝大多数。目的在于吸引更多读者以及取得更高广告回报。
+<a href="http://select.nytimes.com/pages/timesselect/index.html">TimesSelect</a>
+将在周三关闭，这是它两年生命周期的结束。要通过 TimesSelect
+阅读纽约时报在线上的专栏，你必须每月支付7.95刀，或者一年支付49.95刀。看来，天下还是有免费的午餐的。

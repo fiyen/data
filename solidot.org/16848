@@ -1,0 +1,49 @@
+➜中国国企负债收购外企
+https://www.solidot.org/story?sid=47170	11239
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001066198?full=y"><u>报道了一个引人注目的现象</u></a>：大额收购外国企业的中国国企通常背负了比被收购者更高的债务。中国化工以创纪录的440亿美元收购瑞士先正达，该公司总债务达到息税折旧及摊销前利润的9.5倍。这项交易被认为不是两家企业之间的交易，而是中国这个国家和一家瑞士公司之间的交易。“这些企业没有国家资助是撑不下去的，”一名匿名伦敦交易撮合者表示，“他们有没有可能成为他们收购的这些公司的好东家？我认为这是监管者关注的事情。”中国国企的收购似乎经常出于非商业性冲动，令情况更加复杂。国企甚至少数民营企业通过执行“走出去”的指示，迎合了中国政府的产业政策，赢得了各级共产党领导的赞赏。这有助于它们获得政府的大力支持，比如扩张计划获批，并获得国有银行和资本市场的支持。
+➜IBM准备推出“区块链即服务”
+https://www.solidot.org/story?sid=47171	12848
+《华尔街日报》<a target="_blank" href="http://www.wsj.com/articles/ibm-bets-on-bitcoin-ledger-1455598864?mod=WSJ_TechWSJD_NeedToKnow"><u>报道</u></a>（付费墙），IBM正成为比特币核心技术区块链的最主要支持者，它准备推出名为“区块链即服务”的云计算服务，帮助企业将区块链应用于金融和非金融目的。“区块链即服务”是一套帮助企业在IBM云端创建、部署、运行和监视区块链应用的工具。区块链技术又被称为分布式帐薄，它记录了每一笔验证的交易，不需要中心化的数据库。它被认为可以减少中间人，降低成本和加快交易速度。
+➜MH370将成为航空史上最大的不解之谜
+https://www.solidot.org/story?sid=47172	14737
+从吉隆坡飞往北京的马航MH370航班至今下落不明，它留下的唯一线索是去年7月在法属留尼旺岛（Reunion）<a target="_blank" href="http://www.solidot.org/story?sid=45374"><u>发现的飞机残骸</u></a>。如果还无法找到新的线索，搜索行动将于今年6月左右终止。在一个100美元智能手机无需花钱就能轻松跟踪的时代，<a target="_blank" href="http://www.bloomberg.com/news/features/2016-02-15/missing-malaysia-jet-mh370-weeks-away-from-keeping-secrets-forever"><u>一架2.5亿美元的客机在坠毁到海洋之后却再也找不到了</u></a>。曾正确找到法航447客机安息之地的科学家Larry Stone说，MH370的搜索极其困难，如果最终无法找到他本人对此不感到意外。MH370搜索区域的水深最大有6公里，上个月一个拖曳式声纳设备因为与海床上的一个火山口发生碰撞而沉没。搜索船目前还在继续搜索面积约3.5万平方公里的区域，来自中国的一艘船装备了高分辨率声纳，它将专注于扫描普通声纳难以扫描的海底区域。
+➜法官命令苹果帮助FBI解锁枪手的手机
+https://www.solidot.org/story?sid=47173	14807
+加州Riverside的一位联邦法官周二<a target="_blank" href="http://arstechnica.com/tech-policy/2016/02/judge-apple-must-help-fbi-unlock-san-bernardino-shooters-iphone/"><u>命令</u></a>苹果帮助FBI解锁和解密 San Bernardino枪击案中枪手Syed Rizwan Farook使用的iPhone 5C手机，苹果被要求开发定制固件让FBI能暴力破解密码。这起枪击案发生在去年12月，造成14人死亡21人受伤。袭击发生前，Farook及其妻子<a target="_blank" href="http://www.solidot.org/story?sid=46402"><u>捣毁了</u></a>家中的数字设备抹掉自己的数字痕迹。从 iOS 8开始，苹果默认启用了全盘加密， 它多次表示在技术上无法破解启用了加密的iPhone手机。枪手使用的手机运行的是iOS 9系统。看起来这一次苹果也会抵制法庭的要求。它有5个工作日作出回应。
+➜GNU C Library高危漏洞影响大量应用和设备
+https://www.solidot.org/story?sid=47174	18660
+研究人员在一个广泛使用的开源核心基础库中<a target="_blank" href="http://arstechnica.com/security/2016/02/extremely-severe-bug-leaves-dizzying-number-of-apps-and-devices-vulnerable/"><u>发现了</u></a>一个潜在具有灾难性的漏洞，可能导致数以千计的应用和设备易被攻击和被攻击者完全控制。漏洞是在2008年引入到GNU C 函数库（GNU C Library，简称glibc）中的，与 getaddrinfo() 函数有关，影响glibc 2.9之后的所有版本，广泛使用的工具如secure shell、sudo和curl都受影响。glibc是一套开源的C运行时库，被数以千计的应用使用，包含在大部分Linux发行版中，也被路由器等设备使用。getaddrinfo() 执行DNS域名查询任务，它包含了一个缓冲溢出bug，允许攻击者远程执行恶意代码。漏洞可以通过设备或应用查询攻击者控制的域名或DNS服务器时被利用。glibc维护者已经<a target="_blank" href="https://sourceware.org/ml/libc-alpha/2016-02/msg00416.html"><u>释出了修正</u></a>。但很多包含该漏洞的应用或设备未必能及时打上补丁。
+➜ReactOS 0.4.0发布
+https://www.solidot.org/story?sid=47175	28946
+<div align="center"><img src="http://img.solidot.org/0/383/liNXO190FpTF2.png" align="" height="376" width="500"><br>
+<br>
+</div>
+ReactOS 0.3发布近10年之后，ReactOS项目正式发布了<a target="_blank" href="https://reactos.org/project-news/reactos-040-released"><u>ReactOS 0.4.0</u></a>。ReactOS是Windows NT架构的开源实现，至今已有20年历史，但仍然停留在alpha阶段，感兴趣的用户可以在虚拟机里测试一下（<a target="_blank" href="https://sourceforge.net/projects/reactos/?source=directory"><u>下载地址</u></a>在Sourceforge）。0.4.0的主要特性包括：ext2 读/写和NTFS读支持，新的 explorer shell和主题支持，SerialATA支持，USB支持、音频支持、VirtualBox和VirtualPC支持，无线网络支持，等等。
+➜大亚湾实验显示中微子行为与标准模型的预测存在差异
+https://www.solidot.org/story?sid=47176	30732
+中国大亚湾中微子实验项目公布了最新的测量结果，显示中微子的行为与标准模型的预测<a target="_blank" href="http://arstechnica.com/science/2016/02/neutrinos-continue-run-of-odd-behavior-at-daya-bay/"><u>存在差异</u></a>。中微子是一种不带电，质量极其微小的基本粒子，共有三种类型，即电子中微子、μ中微子和τ中微子，在目前已知的构成物质世界的12种基本粒子中，占了四分之一，在微观的粒子物理和宏观的宇宙起源及演化中同时扮演着极为重要的角色。中微子是核反应堆发电时发射的副产物，因此可以进行可控研究。大亚湾中微子实验<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/2/338253.shtm"><u>分析了</u></a>217天、包含30多万个中微子的数据。研究显示中微子在能量5MeV左右，数据超出理论预期的10%。实验还显示，反应堆中微子的总产额比某些模型的预期值低6%。这些误差可能是因为理论模型的缺陷，也可能是因为惰性中微子振荡引起的，或者可能是某些更奇怪的东西。
+➜日立的硬盘仍然最可靠
+https://www.solidot.org/story?sid=47177	31747
+提供云备份服务的BackBlaze每年都会发布硬盘产品故障率报告。最新的故障率报告<a target="_blank" href="https://www.backblaze.com/blog/hard-drive-reliability-q4-2015/"><u>刚刚发表</u></a>，BackBlaze的存储单元共有56,224块硬盘。<a target="_blank" href="http://arstechnica.com/information-technology/2016/02/hgst-hard-disks-still-super-reliable-seagates-have-greatly-improved/#p3"><u>结果显示</u></a>，日立硬盘的总体故障率最低，日立的某些型号硬盘也是BackBlaze平均使用时间最长的硬盘产品，其中2TB型号的平均使用时间接近5年，过去两年半的故障率只有1.55%。BackBlaze之前的报告显示希捷的故障率最高，但最近它改进了很多。BackBlaze目前使用4TB和6TB容量的希捷硬盘，虽然故障率高于日立，但由于其价格和可得性而得到BackBlaze的青睐。西部数据硬盘的故障率最高，但由于其数量不多而不具有太高的统计意义。
+➜Debian开始提供Tails安装程序
+https://www.solidot.org/story?sid=47178	33822
+Tails是基于Debian GNU/Linux和Tor的Live操作系统，能安装在光盘、U盘和SD卡上，可以随身携带，需要时直接从光盘、U盘或SD卡启动。它让使用者可以匿名访问互联网，绕过审查，不留下任何跟踪痕迹。它的最著名用户可能是前NSA合同工Edward Snowden。但的今天的互联网，需要数字安全的不只是安全专家了。为了方便新用户安全安装Tails，Debian<a target="_blank" href="https://bits.debian.org/2016/02/tails-installer-in-debian.html"><u>开始</u></a>提供<a target="_blank" href="https://tracker.debian.org/pkg/tails-installer"><u>Tails Installer</u></a>。
+➜苹果公开声明拒绝执行美国政府解锁手机的命令
+https://www.solidot.org/story?sid=47179	34746
+在美国联邦法官周二<a target="_blank" href="http://www.solidot.org/story?sid=47173"><u>命令</u></a>苹果帮助FBI解锁和解密San Bernardino恐怖袭击案枪手的手机之后，苹果CEO库克（Tim Cook）在官网发表<a target="_blank" href="http://www.apple.com/customer-letter/"><u>公开声明</u></a>，拒绝执行这一命令。库克从加密的必要性、San Bernardino案件、后门对数据安全的危险以及开启危险的先例等四个方面阐述反对意见。库克称，FBI想要苹果开发特定的固件（即手机操作系统），绕过重要的安全特性，能安装在案件调查中找到的一部 iPhone手机上。库克认为，这种软件如果落在错误的人手中，有可能会被用于解锁任何iPhone。FBI的要求实际上就是要求创造一个后门，库克认为政府没有方法能保证后门不会被滥用或失去控制。
+➜新储存技术可以存储数十亿年
+https://www.solidot.org/story?sid=47180	37780
+英国南安普顿大学光学专家<a target="_blank" href="http://www.ibtimes.co.uk/scientists-smash-data-storage-records-360tb-glass-device-that-saves-files-billions-years-1544226"><u>开发出名为5D光存储器的技术</u></a>，能在玻璃中储存最多360TB的数据，存储时间可长达数十亿年。为了在玻璃中储存数据，科学家需要使用纳米光栅技术——利用飞秒级的激光脉冲去创造纳米大小的光栅。为了展示这一数据存储技术的优势，南安普顿大学团队将钦定本圣经、牛顿的《光学》一书(光学和透镜理论的基础)，以及联合国《世界人权宣言》用这一技术进行了记录。研究人员<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/2/338379.shtm"><u>表示</u></a>，五维光碟可以耐1000摄氏度的高温。
+对图书馆和博物馆来说，新的存储技术很有潜力。
+➜研究称CEO子女的性别与其社会责任性相关
+https://www.solidot.org/story?sid=47181	39565
+中欧国际工商学院的一位教授和迈阿密大学的研究人员合作，对美国“标准普尔500指数”列表中各大公司20年间CEO及其子女相关数据进行追踪、分析和比较，<a target="_blank" href="http://www.ftchinese.com/story/001066115?full=y"><u>发现一个相关性现象</u></a>：生女儿的CEO，其所在企业表现得更有社会责任感。研究人员称，家中有女儿的男性CEO，在制定公司中有关“员工多样性”政策的时候，会显得尤为包容。与此同时，在关乎环境和雇员关系等更为广义的“利社会行为”中也有上佳表现。这一切都映证了这样一个社会偏好理论：男性管理者从某一程度上来说，已经将自己女儿的一部分个人经验和价值观内在化，并加以吸收、产生效用。
+➜中国在受争议南海岛屿部署地对空导弹
+https://www.solidot.org/story?sid=47182	40013
+中国在南海的一个争议岛屿上<a target="_blank" href="http://www.cn.wsj.com/gb/20160217/bch134659.asp"><u>部署了地对空导弹</u></a>，这是中美涉及军机、海军驱逐舰和日益频繁的公开警告的一轮愈演愈烈对峙中，中国采取的最激烈军事措施之一。外交部长王毅<a target="_blank" href="http://www.fmprc.gov.cn/web/wjbzhd/t1341276.shtml"><u>回应称</u></a>，中方在驻守的有关南沙岛礁上部署有限、必要的防卫设施，是行使根据国际法赋予任何主权国家的自保权和自卫权，无可非议，与军事化无关。地对空导弹部署<a target="_blank" href="http://www.cnbc.com/2016/02/16/china-appears-to-have-deployed-missiles-on-woody-island-in-south-china-sea-us.html"><u>在西沙永兴岛上</u></a>。导弹型号推测是红旗-9中远程主动雷达制导防空导弹。王毅称，“希望媒体更多关注中国在驻守岛礁上已经建成的灯塔，以及即将建设的气象观察预报、渔船避风救险应急设施，这是中国作为南海最大沿岸国为国际社会提供的公共服务产品。”
+➜DVR后门将CCTV快照发送到中国邮箱
+https://www.solidot.org/story?sid=47183	43890
+CCTV探头正变得无处不在，而探头通常需要连接一个数字记录设备（DVR.）。研究人员<a target="_blank" href="https://www.pentestpartners.com/blog/pwning-cctv-cameras/"><u>调查了一款廉价的DVR设备</u></a>，发现它的固件内置后门，会将探头拍摄的照片发送到一个163邮箱。这款DVR设备运行了一个web server，其头文件是JAWS/1.0，默认情况下用户名是admin，密码空白。它的安全性极其糟糕，内置了一个可远程访问的不需要身份验证的 root shell，还会向一个中国邮箱发送电子邮件。对代码的分析发现，固件作者的名字叫Frank Law，在<a target="_blank" href="https://itunes.apple.com/us/app/ipctester/id870933100"><u>苹果商店</u></a>和<a href="https://play.google.com/store/apps/details?id=com.juanvision.EseeNetProj"><u>Google Play</u></a>上都有网络摄像机相关的应用，他的网站域名是www.dvr163.com，<span style="background-color: rgb(0, 0, 0);">电子邮箱是caostorm@163.com</span>。
+➜Stuxnet只是美国针对伊朗的网络攻击计划的一部分
+https://www.solidot.org/story?sid=47184	44833
+《纽约时报》<a target="_blank" href="http://www.nytimes.com/2016/02/17/world/middleeast/us-had-cyberattack-planned-if-iran-nuclear-negotiations-failed.html"><u>报道</u></a>，设计破坏伊朗Natanz铀浓缩工厂离心机的Stuxnet蠕虫只是美国针对伊朗的庞大网络攻击计划的一部分。美国的计划还覆盖了伊朗的防空系统、通信系统和电力系统的关键部分。这项应急计划的内部代号为Nitro Zeus，美国制定这项计划是以防万一阻止伊朗发展核计划的外交努力失败之后，美国被卷入以色列和伊朗之间的战争。计划的一部分是用计算机蠕虫去破坏 Fordo的铀浓缩工厂的计算机系统。Fordo铀浓缩工厂位于山内，是一个比Natanz更难接触的目标。

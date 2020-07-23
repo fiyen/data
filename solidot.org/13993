@@ -1,0 +1,90 @@
+➜MySQL 5.1.24 rc版本中已取消集群功能
+https://www.solidot.org/story?sid=5965	1200
+<a href="mailto:thinkc@gmail.com">thinkc</a> 写道 "一位叫Klaus Keppler的用户在4月17日23时36分向MySQL提交了<a href="http://bugs.mysql.com/bug.php?id=36187">一份bug报告</a>（Bug #36187），内容是在刚刚释出的mysql-5.1.24-rc二进制版本中已经找不到ndb等涉及集群搭建的命令文件。<i>
+MySQL的Daniel Fischer在3分钟后即给予了答复，“这是有意为之，我们将不在MySQL 5.1中提供MySQL集群支持，而会推出一个基于MySQL 5.1的独立的MySQL集群产品，它将包含更多更高级的集群特性。社区二进制版本也将照此处理。”
+</i>
+看来真的是离开MySQL,投入PostgreSQL怀抱的时候了。不过目前pgcluster、slony等PostgreSQL集群软件无论在搭建方便性还是稳定性适用性等方面的确还是与MySQL集群软件存在一些差距。"
+➜10招干掉互联网
+https://www.solidot.org/story?sid=5966	2400
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "一直以来,我们都想当然地认为互联网是自由交流的全球平台:信息自由传播,随意发布新的应用程序,每个人都可以发出自己的声音,而且未来的互联网将与现在截然不同.不过,假如互联网消失了呢?
+怎么可能?!
+以下列出 10 种可能性，我们心里很明白，如果它们中任意一个成为现实，<a href="http://www.yeeyan.com/articles/view/tsaizb/6983">足以灭掉互联网</a>。<i>
+1. DNS(域名解析服务)被颠覆了。<br>
+7. 网络不再免费。<br>
+9. 封闭城门，限制互联网访问。<br>
+10.人类毁灭
+......"</i>
+➜GPS被用于寻找生态埋葬地的墓穴位置
+https://www.solidot.org/story?sid=5967	3600
+当今世界的流行趋势是一切讲究绿色环保，从“我们不用塑料袋”到“我们只吃素”，甚至殡葬业也提出“我们不用棺材”，但亲属们可能会有点疑问，“我们去哪儿拜祭呢”？那就<a href="http://www.smh.com.au/news/biztech/green-reapers-grave-new-world/2008/04/19/1208629703961.html">使用GPS全球定位系统寻找墓穴</a>吧。<i>
+澳大利亚新南威尔士Lismore公墓为了响应全世界生态埋葬的大趋势，提出让死者裹在生物可降解棺材里，埋葬在一个考拉熊保护区的橡胶树之间。Lismore公墓的管理员Kris Whitney说，“这是一种理想的利用土地之法，有助于野生动植物生长。家属可在原始森林里选定一个地点，尸体可以按任何方向摆放。我们承诺5米内不会有障碍。我们将精确记录相应的GPS 坐标。家属去拜祭亲人前可能需要借一台卫星导航设备。这儿将是澳大利亚第四个自然埋葬点，其它三个在塔斯马尼亚州(Tasmania)、维多利亚，和西澳大利亚。</i>
+➜独立的自我表达方式——从“大字报”到博客
+https://www.solidot.org/story?sid=5968	9300
+虽然中国在政治上依旧很封闭，但曾经坚不可摧的巨石正在承受日益强大的风雨雪的侵袭，慢慢松动和软化，整个过程是如此的漫长，简直让人误以为没有止境。光明网的《光明观察》栏目刊登了一篇译文：《<a href="http://guancha.gmw.cn/content/2008-04/23/content_765540.htm">从“大字报”到博客——中国独立的自我表达的方方面面</a>》，论述了互联网对中国社会的潜在影响：<i>
+除了看新闻和在网上搜索信息外，中国网民上网活动的特别喜欢的方式就是BBS和博客了。这两种形式都能让用户在网上自由发表自己的见解，不需要多少技术专长。但BBS和博客能扮演其他共产党国家出现的地下出版物那样的作用吗？这些问题似乎并没有直截了当的答案，不过至少存在两个清晰的区域，对两种自我发表方法的有意义的对比：第一，地下出版物和网上言论是自我发表的方式，第二，它们充当推动替代的公共空间发展的催化剂.....<br>
+邓的南巡实际上为中国人引进了新政。在八十年代三心二意的尝试后，最终完全拥抱了资本主义。中国人现在可以释放长期休眠的经济潜力，试图在物质生活上走在前面。发财不再成为禁忌，突然之间成为"光荣的"事。而且，人们现在能够享受自己（和他人）的劳动成果，不再受到国家对自己生活方式的干预。他们几乎可以做私下里任何想做的事情，只要他们不愚蠢地冒险挑战党对于权力的垄断。他们甚至不需要爱党了，但是求求你，别公开咒骂它。
+</i>
+➜尊重植物的“尊严”！？
+https://www.solidot.org/story?sid=5969	15900
+afa 写道 <i>
+"根据<a href="http://www.nature.com/news/2008/012345/full/452919a.html">Nature News</a>的消息，瑞士联邦的非人类生物技术伦理委员会拟定了一系列指南，用以指导甄别哪些研究侵犯了植物的尊严，以决定是否资助。尽管植物的“尊严”这一概念还很模糊，该委员会也没有考虑到基因工程自然而然的划归到不可接受的类别，但其主要观点是，导致植物“丧失独立性”的（诸如干扰植物生殖能力的）遗传修饰，是不可以得到经费资助的。另外，关于动物尊严的官司还在等待苏黎世的法庭判决。"</i>
+➜德语版 Wikipedia 即将出书
+https://www.solidot.org/story?sid=5970	17280
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://books.monstersandcritics.com/news/article_1401300.php/Wikipedia_to_be_converted_to_a_book_in_Germany">德国的一家出版社 Random House 宣布</a>，他们将把德语版的 <a href="http://www.wikipedia.org/">Wikipedia</a> 作为书出版，以满足那些喜欢翻书而不喜欢点击鼠标的读者。           编辑们将从德语版的 Wikipedia 中选出50000篇最受欢迎的文章，并编辑成一本1000页厚的书，该书将于今年9月发行。Wikipedia 最初的使命本来是取代纸质百科全书的。这本书将是 Wikipedia 社区普罗大众知识的结晶，而不是专家学者的著述，书中将包罗从 Carla Bruni （法国第一夫人），到 PS3，到唐老鸭各种五花八门的条目。 <br> <br>属于德国 Bertelsmann 集团的 Random House  称，这50000条备选条目基于德国每月1500万 Wikipedia 用户的搜索词，Bertelsmann Lexicography 学院主管 Beate Varnhorn 说，这将是一部代表时代精神的书。 <br> <br>该书将吸引那些没有固定 Internert 连接的家庭，因为书随时可得，同时，那些喜欢阅读的人也会买这本书。Wikipedia 的德语版发言人 Arne Klempert 说，因为本书只是对 Wikipedia 条目的摘要，所以不会侵犯那些向 Wikipedia 提交文章的人的权利。 <br> <br>德语版 Wikipedia 位于英语之后，是 Wikipedia 的第二大语言版本，曾有人计算，如果将英语版的 Wikipedia 的 230万篇文章全部印刷出来，将是厚厚的750卷。
+➜尼葛洛庞帝称Windows在XO笔记本上运行良好
+https://www.solidot.org/story?sid=5971	20400
+OLPC的创始人尼葛洛庞帝（Nicholas Negroponte）称<a href="http://hardware.slashdot.org/article.pl?sid=08/04/23/232248">Windows在XO笔记本上工作良好</a>。在一封<a href="http://www.olpcnews.com/people/negroponte/nicholas_negroponte_sugar_olpc.html">电子邮件</a>中，尼葛洛庞帝表示：<i>
+“Sugar不错，虽然称不上完美。我将我们面临的问题归因于不切实际的发展目标和实践。我们的使命从未改变，就是让发展中国家的儿童跨越数字鸿沟。它并非是狂热者所鼓吹的完美学习模式或纯开源模式。我相信最好的教育工具是建构主义（constructionism），最好的软件开发模式是开源。实现这一切可能许要运用类似特洛伊木马的策略，直接与之面对面还是用完美孤立我们。记住一条格言：完美是好的敌人（perfection is the enemy of good）。我们是为了孩子，追求完美是毫无意义的。因此Sugar需要有更广泛的基础，既能运行在Linux平台，也能运行在Windows下。”</i>
+尼葛洛庞帝引用缺乏Flash的问题为例，指出开源社区不应过于担心，一个人不需要成为开源的原教主义者，也能成为开源理念的鼓吹者。
+➜保存数据一千年
+https://www.solidot.org/story?sid=5972	21600
+之前有研究认为<a href="__SLASHLINK__" sect="it" sid="07/12/20/0736244" sn="article" tid="70">信息要传承万年可能需要依赖于类似隐修会这样的神秘组织</a>。但对多数人来说，个人数据能保存几十年就已经绰绰有余，如果能上百年甚至几百年就是非常完美了。<i>
+确实让数据长时间的保存是个大难题，一般硬盘的使用寿命就5到7年，光盘的最佳寿命最多也只有30到50年。加利福尼亚Santa Cruz 大学（UCSC）的研究人员<a href="http://www.tgdaily.com/content/view/37073/113/">提出了一种新方法</a>能让个人用户和企业用户在一个很长的期限内高效的、可靠的储存数据，至少能保留几代人。以古希腊图书馆<a href="http://www.usenix.org/events/fast08/tech/full_papers/storer/storer_html/index.html">Pergamum</a>名字命名的技术是一种分布式网络储存单元。它看似很复杂，但其实是一种容易操作的、有效的数据保存方法。因为它是基于互联网，与硬盘技术无关，只要TCP/IP存在就能一直使用。</i>
+➜母亲饮食会影响孩子性别
+https://www.solidot.org/story?sid=5973	23400
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "致geek父母们：一份发表在《皇家学会生物学分会学报》（Proceedings of the Royal Society B: Biological Sciences）的<a href="http://www.eurekalert.org/pub_releases/2008-04/uoe-yaw042108.php">报告显示</a>，母亲的饮食习惯会对孩子的性别产生影响。
+<i>研究人员通过对740名首次怀孕的母亲在怀孕前后的饮食状况进行调查显示，母亲在受孕期间吃得越多，生男孩的几率越大；反之则生女孩的几率越大。（原文可在<a href="http://journals.royalsociety.org/content/w260687441pp64w5/">这里</a>找到）"</i>
+➜Sun将Java完整开源
+https://www.solidot.org/story?sid=5974	25200
+Sun微系统公司<a href="http://news.yahoo.com/s/infoworld/20080422/tc_infoworld/98999">移除了Java最后的限制</a>，将其彻底开源。Sun希望Linux发行版能更广泛的使用Java。<i>
+“我们正与Java开源社区合作完成 OpenJDK项目，最特殊的事情莫过于将最后的限制去除。过去的一年里我们已经移除了多数障碍。”Rich Sands, Sun的社区开发经理表示，“为了实现以开源方式提供Java Sound Engine和SNMP代码，我们目前还需要很多工作要做，预计在今年一切都会完成。开发者仍然可以在没有Sound Engine等组件的情况下继续进行开发。”</i>
+➜索尼2.6亿美元收购Gracenote
+https://www.solidot.org/story?sid=5975	26700
+索尼公司<a href="http://www.thestandard.com/news/2008/04/22/sony-buy-gracenote-music-data-company">以2.6亿美元的价格收购了音乐数据服务公司Gracenote</a>。未来索尼将在自己的数字内容和设备中使用Gracenote的在线音乐数据库，但Gracenote仍将会独立经营。<i>
+这是一次让人浮想翩翩的行动，因为有许多公司和它们的服务都依赖 Gracenote 的数据库，包括苹果iTunes、雅虎Jukebox和Winamp，甚至车载立体音响都使用了某些Gracenote的技术。Gracenote曾被批评把一度开放的<a href="http://en.wikipedia.org/wiki/CDDB">CDDB</a>(CD数据库)项目变成了充满“繁琐的签约、许可费、强迫用户注册和反竞争条款”。</i>
+➜为满足不同用户需要，Pidgin变出了条分支
+https://www.solidot.org/story?sid=5976	29700
+为了满足不同用户需要，著名跨平台开源多协议IM <a href="http://www.pidgin.im/">Pidgin</a>凭空变出了一条分支——<a href="http://funpidgin.sourceforge.net/">Funpidgin</a>。因为是最新版的pidgin 2.4不允许用户手动调整输入框大小，另外还犯下了许多让粉丝们<a href="http://blog.wired.com/monkeybites/2008/04/in-response-to.html">发狂的罪行</a>。<i>
+于是一些开发者另起炉灶，推出了Funpidgin，其<a href="http://funpidgin.sourceforge.net/content/features">特性</a>是允许用户调整输入框大小，另外还有四项贴心的改进：设置聊天窗口头像的大小（可选）；窗口管理器放置新的窗口（可选）；两种不同的寻找聊天对象的方式；特别为Tablet PC用户打造的“发送”按钮；在背景中突出群标题（可选）。
+</i>
+这就是开源的好处：可以一起合作，也可以一拍两散。
+➜DARPA开发源自阿瑟克拉克小说设想的武器
+https://www.solidot.org/story?sid=5977	33300
+<a href="http://zh.wikipedia.org/wiki/%E4%BA%9E%E7%91%9F%C2%B7%E6%9F%A5%E7%90%86%E6%96%AF%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B">阿瑟克拉克</a>（Arthur C Clarke）最著名的科学发明是1945年提出的“地球同步通讯卫星”。现在美国国防部高级研究计划署（DARPA）正设法将<a href="http://www.newscientist.com/blog/technology/2008/04/science-fiction-inspires-darpa-weapon.html">他最危险的设想</a>之一变成现实。<i>
+DARPA正在开发一种武器，与克拉克1955年小说《地球反照（<a href="http://en.wikipedia.org/wiki/Earthlight">Earthlight</a>）》中描述的武器类似——使用<a href="http://www.darpa.mil/TTO/programs/mahem.htm">强磁场</a>产生出能融化钢铁的喷射流。电磁流体爆破器（Magneto Hydrodynamic Explosive Munition）功能上相当于阿瑟克拉克虚构的爆破器的缩小版。DARPA说这种武器能安装在导弹、抛射体和其它平台，当与设定目标如坦克或导弹交会时就触发，摧毁对方。阿瑟克拉克曾经说他的科幻小说是“基于科学的合理推测”，下次他的设想成真的时候，希望不要再是武器。
+</i>
+➜耐寒的苍鹭(Ubuntu 8.04)腾飞
+https://www.solidot.org/story?sid=5978	45480
+<a href="http://blog.irain.org/">kempson</a> 写道 "经过5个测试版、一个beta版和一个RC版之后，Ubuntu最新发行版耐寒的苍鹭(Hardy Heron)终于起飞。这个发行版是一个重大的升级，属于LTS长期支持的系统，比上一版本<a href="http://blog.irain.org/planet/higher-faster-stronger-ubuntu-hardy-heron">更高更快更强大</a>。<br> <br>
+<b>Ubuntu 8.04下载</b>：
+<ul>
+<li> <a href="http://tw.releases.ubuntu.com/8.04/ubuntu-8.04-desktop-i386.iso">桌面版 Live CD</a>,[<a href="http://tw.releases.ubuntu.com/8.04/ubuntu-8.04-desktop-i386.iso.torrent">torrent</a>]</li>
+<li> <a href="http://releases.ubuntu.com/releases/8.04/ubuntu-8.04-desktop-amd64.iso">64位桌面版Live CD</a>,[<a href="http://releases.ubuntu.com/releases/8.04/ubuntu-8.04-desktop-amd64.iso.torrent">torrent</a>] </li>
+<li> <a href="http://releases.ubuntu.com/releases/kubuntu/8.04">Kubuntu 8.04 下载</a>，<a href="http://cdimage.ubuntu.com/kubuntu-kde4/releases/8.04/">KDE 4</a> 版本</li>
+<li>更多<a href="http://cdimage.ubuntu.com/">版本</a>下载</li>
+</ul>
+<b>现有用户请运行</b>：
+<i>sudo apt-get update<br>
+sudo apt-get dist-upgrade</i>
+<br>           另外Ubuntu的<a href="http://start.ubuntu.com/8.04/">Firefox首页</a>不错，通过这个定制搜索的广告也能给Ubuntu社区贡献一点银子？
+➜Google 的怪异域名大全
+https://www.solidot.org/story?sid=5979	47340
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.googel.com/">Google</a> 拥有几个著名的域名 google.com, blogger.com, gmail.com，这并不奇怪，但 <a href="http://www.pingdom.com/">Pingdom</a> 的工作人员最近发现了一大批属于 <a href="http://royal.pingdom.com/royalfiles/0804_google_domains.xls">Google 的怪异域名</a>，有数千个之多，以下只是其中最让人感到不解的部分。 <br> <br> <strong>防错冗余域名</strong>： <ul> <li>gewgol.com </li> <li>glougle.com </li> <li>goolgel.com </li> <li>glugli.com </li> <li>geggle.com </li> <li>georgle.com </li> <li>glogoo.com </li> <li>gmale.com </li> </ul>           毫不相干的:<ul> <li>30dayfitness.com </li> <li>bayareaburritos.com </li> <li>donationcard.com </li> <li>essentialmommy.com </li> <li>greengardengifts.com </li> <li>mariolovespasta.com </li> <li>thesecretofburritos.com </li> </ul>Google 要干什么?<ul> <li>1p0g0og1e.com </li> <li>az-on-url-je.com </li> <li>goooooooooooooooooooooooooooooooooooogle.com </li> </ul>Google 的新服务吗?<ul> <li>google4kids.com </li> <li>googlebackups.com </li> <li>googleauction.com </li> <li>googlebroadband.com </li> <li>googlecasinogames.com </li> <li>googlefamily.com </li> <li>googlejokes.com </li> <li>googlelovers.com </li> <li>googlepersonals.com </li> </ul>谷歌教:<ul> <li>googlereligion.com </li> <li>googlefaith.com </li> </ul>Google 进军传统行业?<ul> <li>googlegym.com </li> <li>googledaycare.com </li> <li>bankgoogle.com </li> <li>googlepaperproducts.com </li> </ul>本土化的另一种方式:<ul> <li>googlenewyork.com </li> <li>googleonthegoaldcoast.com </li> <li>kuwaitgoogle.com </li> </ul>工作时最好别上这些:<ul> <li>googlesex.com </li> <li>googleporn.com </li> <li>google-yahoo-porn.com </li> <li>google-yahoo-sex.com </li> </ul>Google大收购?<ul> <li>googletimewarner.com </li> <li>ebay-google.com </li> <li>googlewarnerbros.com </li> </ul>Google 也盗版?<ul> <li>googlewarez.com </li> </ul>谁说 Google 不作恶 :<ul> <li>checkoutsucks.com </li> <li>dejastinks.com </li> <li>frooglesucks.com </li> <li>fuckengoogle.com </li> <li>gmailblows.com </li> <li>gmailsucks.com </li> <li>googlefools.com </li> <li>googlemotherfucker.com </li> <li>googlepoo.com </li> <li>googlesucks.com </li> </ul>Google 欲与 Pingdom 试比高:<ul> <li>errorpageassist.com </li> <li>googlemonitoring.com </li> <li>googleclusters.com </li> <li>googlewebmonitoring.com </li> </ul>
+➜Google中国想发财了？
+https://www.solidot.org/story?sid=5980	48060
+<a href="http://zhengyeshou.blogbus.com/">zhengyeshou</a> 写道 "昨天在gmail页面上看到“谷歌竞价排名-正式代理商”（图片链接http://pic.yupoo.com/hahode/954285720481/bho5a4fu.jpg）这一行字，蛮惊的。李开复博士看来要带领他的团队们<a href="http://zhengyeshou.blogbus.com/logs/19589550.html">适应中国国情</a>了。 <br>来自易观国际的调查显示，在2007年网络广告运营商市场份额中，谷歌比重不到一成。要知道，易观国际的数据显示，“不含渠道在内，2007年网络广告市场规模达到70亿，同比增长51.5%，其中搜索引擎广告为29.2亿，同比增长85%。”但，蛋糕还有可能更大。根据它的预测，不含渠道在内，今年中国网络广告市场规模将达到更为庞大的112亿。<br> <br>面对这个让任何企业口水直流的市场，在全球威风八面却在中国灰头土脸的Google怎能不心痒痒？看来，李开复博士在与李彦宏的PK中要加油了！"
+➜中国成功研制登月车
+https://www.solidot.org/story?sid=5981	50100
+由上海承担的中国月球车研制取得<a href="http://rss.xinhuanet.com/newsc/tech/2008-04/24/content_8038623.htm">重大进展</a>，专家组认为，项目组完成了主要技术指标满足探月二期工程需求的月面巡视探测器技术可行性方案；通过概念样机、原理样机、工程样机的研制，验证了技术方案的可行性和初步掌握了制造、试验工艺；突破了立项前必须掌握的关键技术；规划了该项目研制的地面模拟试验与方案；建立了一支日趋完善的专业研制队伍。
+<br> <br>
+研发队伍在总体设计、仿真优化、月面巡视技术、月面生存技术和试验技术等多项关键技术上取得重大突破。探月二期工程将实现月球<a href="http://news.xinhuanet.com/politics/2008-03/26/content_7858947.htm">软着陆</a>。

@@ -1,0 +1,11 @@
+➜荷兰警方如何扣押暗网毒品市场 Hansa
+https://www.solidot.org/story?sid=55755	17154
+美国司法部和欧洲刑警组织去年 7 月中旬<a href="https://www.solidot.org/story?sid=53172" target="_blank"><u>宣布</u></a>关闭两大暗网毒品市场 AlphaBay 和 Hansa Market。其中 Hansa 的服务器早在 6 月 20 日就被荷兰警方扣押，但网站仍然继续运营了一个月。现在《连线》发表了一篇长文<a href="https://www.wired.com/story/hansa-dutch-police-sting-operation/?retry" target="_blank">介绍了其中的内幕</a>。<i>
+荷兰警方对 Hansa 市场的调查始于他们从安全公司获得的情报，安全研究人员发现 Hansa 的一个开发用的服务器位于荷兰一家托管公司的数据中心内，Hansa 的网站使用了 Tor 隐藏服务，但它的开发服务器不知何原因暴露了，安全公司因此获得了服务器的 IP 地址。警方迅速联络了托管公司，要求访问数据中心，安装网络监视设备监视进出流量，他们随后在同一数据中心发现了一台 Tor 保护的服务器，在德国的一个数据中心发现了另外两台服务器。警方拷贝了服务器硬盘的数据。在德国的一台服务器上发现了两位创始人的 IRC 聊天日志，日志包含了两人的全名和其中一人的家庭住址。荷兰警方联络了德国警方要求逮捕和引渡两位嫌疑人。他们发现德国警方也在监视这两人，但不是暗网而是他们创办的盗版电子书网站 Lul.to。警方没有打草惊蛇，而是继续监视两位嫌疑人的通信，发现了他们使用的比特币交易服务，向比特币交易服务商发去法令获得了他们的交易记录定位了另外的托管商。6 月 20 日，德国警方突袭了两位嫌疑人的家，扣押了他们没有加密的计算机。两人在狱中交出了他们的账号，而荷兰警方则完全接管了 Hansa 的服务器。为了获得暗网买家卖家的信息，警方重写了网站代码，记录了每一个人的明文密码而不是哈希形式保存的密码，他们还修改了用 PGP 密钥自动加密信息的功能，在加密前悄悄记录了完整的信息明文，获得了买家发送给卖家的地址信息。他们还修改了自动移除产品照片元数据的功能，从而获得了元数据里的地理位置信息。为了获得已上传照片的元数据，警方还人为制造了一个服务器事故，删除了所有照片，迫使卖家重新上传包含元数据的产品照片。警方还诱骗用户下载了一个包含信标的文件，用户打开之后会向警方发送卖家的 IP 地址。警方共接管了 Hansa  27 天，获得了 42 万用户的数据，包括至少一万个人的家庭地址，扣押了约 1200 个比特币，今天的价值约 1200 万美元。
+</i>
+➜Debian 9.4 发布
+https://www.solidot.org/story?sid=55757	53561
+Debian 项目<a href="https://www.debian.org/News/2018/20180310"><u>宣布</u></a>释出了Debian 9 稳定版本的第四次更新（代号" stretch"）。此次小版本更新主要添加了对安全问题的修正补丁，以及为一些严重问题所作的调整。主要变化包括： Linux 内核更新到 4.9.0-6，修复了多个包的 Python3 依赖关系，主要组件更新到上游新版本，驱动更新，安全修正和 bug 修复等等。详细可浏览发布公告。
+➜Ubuntu Linux 18.04 'Bionic Beaver' Beta 1 释出
+https://www.solidot.org/story?sid=55758	55571
+Ubuntu Linux 18.04 'Bionic Beaver' Beta 1 <a href="https://lists.ubuntu.com/archives/ubuntu-devel-announce/2018-March/001238.html" target="_blank"><u>释出</u></a>。Ubuntu Linux 18.04 将是一个长期支持版（LTS），将于 4 月 26 日正式发布。Ubuntu 目前默认采用 GNOME 桌面，它还同时发布了使用 KDE 和 Xfce 桌面环境的版本，此外还有专为中国用户打造的<a href="http://cdimage.ubuntu.com/ubuntukylin/releases/18.04/beta-1/" target="_blank"><u>优麒麟</u></a>。新版的变化<a href="https://ubuntubudgie.org/blog/2018/03/08/18-04-release-notes" target="_blank"><u>包括</u></a>： 支持 openvnc 连接，更好的处理中文和韩文字体，GNOME 支持彩色绘文字，等等。Ubuntu 16.04 用户短时间内无法自动升级到新版本，需要等到 7 月释出 18.04.1 之后。

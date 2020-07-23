@@ -1,0 +1,46 @@
+➜联想否认故意让笔记本电脑不能安装Linux
+https://www.solidot.org/story?sid=49768	10088
+联想Yoga 900-13ISK2型号笔记本电脑<a href="https://forums.lenovo.com/t5/Linux-Discussion/Yoga-900-13ISK2-BIOS-update-for-setting-RAID-mode-for-missing/td-p/3339206" target="_blank"><u>被发现</u></a>其BIOS锁定在RAID模式，无法选择AHCI模式，导致Linux用户无法识别内置的SSD。此前有<a href="http://www.solidot.org/story?sid=49759" target="_blank"><u>报道</u></a>称联想与微软达成了协议，确保其他操作系统不可安装在此笔记本上。现在，联想官方<a href="http://www.theregister.co.uk/2016/09/21/lenovo_denies_plot_with_microsoft_to_block_linux_installs/" target="_blank"><u>否认了这一说法</u></a>，声称导致Linux用户无法识别内置SSD的原因是英特尔没有提供Linux平台的私有驱动，它并非故意让客户无法使用其它操作系统。Linux电源管理开发者 Matthew Garrett <a href="http://mjg59.dreamwidth.org/44694.html" target="_blank"><u>确认了这一说法</u></a>。他解释说，英特尔平台允许存储设备配置成两种模式：标准的AHCI模式和RAID模式，英特尔没有向Linux递交支持RAID模式的补丁。但本例中，联想的固件默认设置为RAID模式，因为Linux不支持配置成RAID模式，这就导致Linux发行版无法识别存储设备。为什么联想默认只提供RAID模式？原因可能与电源管理有关，较新的英特尔硬件需要特定设置才能提供更好的电源管理。这个问题主要与英特尔有关。
+➜苹果协商收购迈凯轮
+https://www.solidot.org/story?sid=49769	11311
+《金融时报》援引知情人士的消息<a href="http://www.ftchinese.com/story/001069462" target="_blank"><u>报道</u></a>，苹果已接洽英国超级跑车工程企业迈凯伦技术集团，商谈潜在收购事宜，这是迄今表明这家iPhone制造商正寻求改变汽车业的最明确迹象。知情人士称，谈判是在几个月之前开始的。苹果致力于开发一款自动驾驶电动汽车已有两年多，这家加州科技集团考虑全面收购迈凯伦，或对其进行战略投资。迈凯伦的技术专长包括汽车工程、车载计算机系统以及新颖底盘材料。与迈凯伦结盟可能有助于推进苹果神秘的汽车项目。知情人士称，亏损的迈凯伦有望达到10亿至15亿英镑的估值。目前尚不清楚能否达成交易。知情人士称，苹果对迈凯伦的兴趣集中于其技术、工程实力和专利组合。
+➜扎克伯格和普莉希拉陈宣布投资30亿美元消灭癌症
+https://www.solidot.org/story?sid=49770	13372
+Facebook CEO 扎克伯格(Mark Zuckerberg)及其妻子普莉希拉陈 (Priscilla Chan)周三在旧金山举行新闻发布会，承诺将在未来十年向医疗研究<a href="http://www.bbc.com/news/technology-37435425" target="_blank"><u>投资30亿美元</u></a>。两人称，他们的最终目标是到本世纪末治愈和预防所有疾病。扎克伯格称，今天治疗病人的开销50倍于治愈疾病，他认为这种情况需要改变。普莉希拉陈称，他们将投资6亿美元创办一个研究中心Biohub，汇集工程师、计算机科学家、生物学家、化学家和发明家。Biohub初期主要研究两大目标：Cell Atlas，绘制控制人体主要器官的不同类型细胞的“地图”；Infectious Disease Initiative，尝试研发新的测试方法和疫苗去应对HIV、 Ebola、Zika和其它新的疾病。扎克伯格预言到2100年人类的平均预期寿命将超过100岁。比尔盖茨出席了发布会并发言。
+➜台湾要求Google模糊Google Earth太平岛卫星照片
+https://www.solidot.org/story?sid=49771	15632
+路透社<a href="http://www.reuters.com/article/us-southchinasea-taiwan-idUSKCN11R109" target="_blank"><u>报道</u></a>，台湾国防部周三要求Google模糊Google Earth上展示的太平岛军事设施卫星照片。Google Earth的新太平岛卫星图像与去年底相比，在岛的西北方飞机跑道和新建的港口对面多了四个不明结构体。专家认为可能是新的军事设施。台湾国防部长冯世宽星期二上午在立法院受访时<a href="http://n.yam.com/nownews/politics/20160920/20160920891776.html" target="_blank"><u>表示</u></a>，有关太平岛上所有的军事设施及用途都是机密不便说明，但他希望大家知道太平岛有坚强的防卫能力。国民党立委王育敏在立法院质询行政院长施政报告期间指出，目前各国对于重大军事设施、工程或首都，都会要求Google作模糊化的处理，他问李仲威台湾方面有没有类似的考虑。李仲威答海巡署已经就业管部分处理；国防部长冯世宽当时说<a href="http://www.bbc.com/zhongwen/simp/world/2016/09/160921_taiwan_google_itu_aba" target="_blank"><u>将准备向Google反映</u></a>。
+➜化学品事故今年已致近200人死亡
+https://www.solidot.org/story?sid=49772	17994
+绿色和平组织本周三发布<a href="http://www.greenpeace.org.cn/wp-content/uploads/2016/09/%E7%BD%91%E7%AB%99%E7%94%A8%E6%9D%90%E6%96%99%EF%BC%881%EF%BC%892016%E5%B9%B41-8%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%AD%A6%E5%93%81%E4%BA%8B%E6%95%85%E7%BB%9F%E8%AE%A1.pdf" target="_blank"><u>一份报告</u></a>(PDF)称，中国今年已有近200人死于与化学品的生产、储存和运输有关的事故。天津去年发生的那起造成人员伤亡的爆炸事故，曾引发民愤和加强监管的呼声，但时隔一年之后，对中国强大的化工行业的监管仍不严格、也不一致。“中国拥有全球规模最大的化工行业，但行业监管松懈得可怕，”研究有毒化学品的绿色和平组织活动人士程茜在报告中说。“政府必须采取紧急行动，”她说。报告称，今年1至8月总共发生了232起事故——平均差不多每天一起——<a href="http://cn.nytimes.com/china/20160922/chemical-accidents-china-greenpeace/" target="_blank"><u>总共导致199人丧生</u></a>，400人受伤。报告发现，很多事故涉及剧毒物质，一半以上的事故是在工人运输化学品时发生的。据报告统计，每五名死者中，就有两名死于爆炸事故。
+➜Donald Trump 反对移交互联网控制权
+https://www.solidot.org/story?sid=49773	20079
+美国共和党总统候选人 Donald Trump 的竞选团队发表<a href="https://www.donaldjtrump.com/press-releases/donald-j.-trump-opposes-president-obama-plan-to-surrender-american-internet" target="_blank"><u>一份声明</u></a>，反对移交互联网域名管理权，呼吁国会采取行动阻止移交。美国政府原计划于10月1日将DNS管理权移交给非营利组织ICANN，ICANN由全球互联网行业的利益相关者构成。Trump 的国家政策总监Stephen Miller在声明中称，“美国创建、开发，并将互联网扩大到全球。美国的监管保证了互联网的自由和开放，不受到政府的审查——这是一项源于宪法言论自由条款的基本美国价值观。当总统意图将控制让与给包括中国和俄罗斯在内的国际利益相关方，互联网的自由正面临风险，这些国家有着企图加强网络审查的长期记录。国会需要采取行动，否则互联网自由将永久失去，而一旦失去了就没有办法让它再次走向伟大。”
+➜奇虎承认它是沃通的最大股东
+https://www.solidot.org/story?sid=49774	29687
+在Mozilla安全邮件列表，关于沃通 CA 和 StartCom CA的讨论涉及到了另一家中国公司奇虎360。奇虎360是一家受争议的公司，也是中国市场最大的安全公司之一。在邮件列表上，Peter Bowen 注意到沃通 CA有5个股东：奇虎360软件公司持有25.61%的股份， Beijing Qifutong Technology有限公司持有29.77%，Beijing Yuan Tu Technology有限公司持有28.62%，王高华持有 12.00%，还有一个人持有4.00%。沃通CEO王高华说这种追根究底的做法让他想起了一个中国成语“株连九族”，他拒绝回答有关公司股东的问题。但随后奇虎的首席安全官谭晓生现身邮件列表，证实它是沃通的最大股东。谭晓生<a href="https://groups.google.com/forum/m/#!msg/mozilla.dev.security.policy/k9PBmyLCi8I/UB_fA89dEgAJ" target="_blank"><u>声称</u></a>，沃通是奇虎投资的一家小公司，奇虎投资了超过200家公司，沃通只是其中之一。谭晓生称奇虎在私有化前没有向SEC披露沃通是它的子公司，原因是SEC只要求披露“重要的子公司”。谭晓生称，奇虎持有84%的沃通股份，它还投资了Opera，但只是小股东。他承认，奇虎360软件、 Beijing Qifutong和Beijing Yuan Tu实际上是同一家公司。王高华称，奇虎虽然是大股东，但沃通仍然由原沃通团队管理，而StartCom CA也是由原StartCom团队管理。
+➜GNOME 3.22发布
+https://www.solidot.org/story?sid=49775	31340
+GNOME桌面环境项目发布了最新版本<a href="https://help.gnome.org/misc/release-notes/3.22/" target="_blank"><u> GNOME 3.22“Karlsruhe”</u></a>。新版本引入了重要的更新，以及大量的小改进和bug修复。名字中的 Karlsruhe 是为了致敬今年的GUADEC会议主办团队。主要的新特性包括：整合<span class="link"><a href="http://flatpak.org/" title="http://flatpak.org/">Flatpak</a>应用发行框架，</span>Flatpak应用简化了发行，更安全，可以在不重启的情况下更新应用；批量重命名多个相似文件；照片应用加入了一组新编辑功能，简化了的照片分享；改进对显示服务器Wayland的支持；重新设计键盘设置；重新设计dconf编辑器；更新GNOME Software外观，等等。
+➜中国转基因实验室遭举报
+https://www.solidot.org/story?sid=49776	32503
+中国转基因食品国家实验室的一位前雇员表示，他的上级<a href="http://cn.wsj.com/gb/20160922/biz121253.asp" target="_blank"><u>让他在报告中造假</u></a>。该事件在中国社会再度激起对转基因技术的深深疑虑。本周由研究人员魏景亮提出的<a href="http://news.sciencenet.cn/htmlnews/2016/9/356699.shtm" target="_blank"><u>实名举报</u></a>针对的是实验室管理程序，而非该实验室的转基因检测结果，该实验室是中国约40家进行此类检测的实验室之一。但他的举报在社交媒体上引发广泛关注，有可能损害中国政府为转变公众观点、提高对转基因食品接受度所做的努力。中国消费者常常对转基因食品表示强烈怀疑，社交媒体平台上公众对这一问题的兴趣高涨。
+➜吸烟会对DNA造成永久性的影响
+https://www.solidot.org/story?sid=49777	34207
+研究人员发现，<a href="http://www.nbcnews.com/health/health-news/smoking-permanently-scars-your-dna-study-finds-n651471?cid=sm_fb" target="_blank"><u>吸烟会对DNA留下明显的痕迹</u></a>，大部分痕迹会随时间而褪去，但还有部分会永久性留下来。对1.6万人的DNA分析发现，如果戒烟的话大部分吸烟留下的致病遗传痕迹会在5年内消失。吸烟过程留下的遗传标记是甲基化，这种对DNA的修改会导致一个基因失去活性或改变其功能，这种改变经常会引发疾病。研究人员说，强有力的证据显示吸烟会对人体的分子机制产生持久的影响，这种影响能持续30年以上。
+➜W3C 准备发表 HTML5.1，已在制定 HTML5.2
+https://www.solidot.org/story?sid=49778	35618
+负责制定Web标准的World Wide Web Consortium (W3C)准备发表<a href="https://www.w3.org/TR/html51/" target="_blank"><u>HTML5.1规格</u></a>，它已经在着手制定下个版本<a href="https://www.w3.org/TR/html52/" target="_blank"><u>HTML5.2</u></a>。HTML5.1的状态在8月中旬从“候选发布”提升到“建议推荐”，这是成为W3C正式推荐标准的最后一步。大部分浏览器已经实现或即将实现HTML5.1引入的新特性和变化。根据HTML5.1<a href="http://w3c.github.io/test-results/html51/implementation-report.html" target="_blank"><u>实现报告</u></a>，Edge/IE在实现进展上要落在Chrome和Firefox后面。W3C预计将在下个月发表HTML5.1推荐规格，明年底发表HTML5.2推荐规格。
+➜中加科学家实地测试量子隐形传态技术
+https://www.solidot.org/story?sid=49779	39337
+中国合肥和加拿大卡尔加里市的两个独立团队在数公里长的光纤上<a href="https://www.newscientist.com/article/2106326-quantum-teleportation-over-7-kilometres-of-cables-smashes-record/" target="_blank"><u>成功测试了</u></a>量子隐形传态技术。研究报告（<a href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2016.179.html" target="_blank"><u>一</u></a>，<a href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2016.180.html" target="_blank"><u>二</u></a>）发表在《Nature Photonics》
+期刊上.中国科技大学与加拿大卡尔加里大学两支研究团队，分别为隐形传态实验设计了数个反馈和同步机制。中科大的张强、潘建伟及同事在合肥市<a href="http://news.sciencenet.cn/htmlnews/2016/9/356700.shtm" target="_blank"><u>开展了实地验证</u></a>，他们使用了电信波长（即在现有电信网络中使用的波长）的光束，将信号光在光纤中损失强度的速率降到最低。而卡尔加里大学的研究人员使用了电信波长和795纳米波长的光子，后者让他们的实验速度更快，但保真度降低了。
+➜巴基斯坦逮捕分享亵渎帖子的少年
+https://www.solidot.org/story?sid=49780	40686
+巴基斯坦<a href="http://www.independent.co.uk/news/world/asia/teenage-boy-christian-arrested-sharing-blasphemous-facebook-post-in-pakistan-nabeel-chohan-kaaba-a7321156.html" target="_blank"><u>逮捕了</u></a>一名在Facebook上分享“亵渎”帖子的少年。媒体报道称这位少年是一位基督徒，而巴基斯坦是穆斯林占绝大多数的国家。一名穆斯林在看到他分享的“不合适”帖子后感到了侮辱，因而举报了他。警方没有详细描述帖子内容，只是表示它包含了一幅伊斯兰圣地麦加的圣殿照片。在巴基斯坦，亵渎罪的最高惩罚将面临死刑。
+➜计算机程序能像数学证明那样无法破解
+https://www.solidot.org/story?sid=49781	43922
+2015年夏天，一组黑客尝试控制一架军用无人直升机。黑客已经抢得了一个先机：他们已能访问无人机的部分计算机系统，他们所需要做的是入侵无人机的机载飞行控制计算机，然后无人机就是他们的了。在美国国防部高级研究计划署（DARPA）发起的这个项目的早期，“红队”黑客们就像入侵你的家庭无线网络那样轻而易举的控制无人机。但随后的几个月，DARPA的工程师实现了一种新的安全机制——一种无法用现有技术破解的软件系统。它的代码就像数学证明那样可靠。即使给予红队六周的时间访问无人机及其网络系统，他们仍然无法破解其防御。DARPA准备将这项技术应用于更多的领域。<a href="https://www.quantamagazine.org/20160920-formal-verification-creates-hacker-proof-code/" target="_blank"><u>挫败黑客们的编程技术叫形式化验证</u></a>，今天的大部分程序代码都是非形式化的，对其的评估主要是基于它是否能工作。形式化验证代码读起来就像是数学证明。整个程序的测试具有与数学家作证明同等的确定性。
+➜Snowden建议不要使用Google Allo
+https://www.solidot.org/story?sid=49782	45700
+Google发布了智能移动通信应用Allo，NSA泄密者Edward Snowden<a href="https://twitter.com/Snowden/status/778588715736260608" target="_blank"><u>建议</u></a>不要使用，认为它是一个监视工具。Google Allo开发者最初承诺不会无限期的储存用户信息，但在正式版本中<a href="http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google" target="_blank"><u>这一承诺被放弃了</u></a>，除非用户主动删除信息或使用端对端加密的隐身模式，否则Google将会永久性的保存和访问用户的完整会话历史。Google称，做出这一改变是为了改进智能回复功能。在测试中，Allo团队开发者认为永久性保存信息带来的性能提升超过了非永久性储存的隐私益处。

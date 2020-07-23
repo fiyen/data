@@ -1,0 +1,53 @@
+➜网友花了 14 个小时制作长春长生销售分布图
+https://www.solidot.org/story?sid=57290	9517
+<a href="mailto:ha@qq.com">被打过疫苗的可怜人</a> 写道<i> "长春长生曝出疫苗造假丑闻之后，很多人都关心该公司生产的疫苗都被销售到了哪些地方。一名网友花了十几个时收集了所有能查到的政府公开数据，将数据导入数据库，<a href="https://www.v2ex.com/t/473163" target="_blank"><u>制作了</u></a>包括长春长生在内的疫苗生产商的销售分布图。<a href="https://github.com/fuckcqcs/fuckcqcs" target="_blank"><u>相关数据和图表</u></a>都发布在 GitHub 上。数据显示，长春长生在东北三省，新疆、山西、宁夏和四川等地的市场份额都超过 15%。作者抱怨说，北京、上海，浙江等地区的数据都找不全，许多省份还偷偷把公示的数据强行加上了登陆认证的权限，他表示获取公开数据非常吃力。"</i>
+➜中国科技热的背后
+https://www.solidot.org/story?sid=57291	12475
+“科技”如今风靡中国，在科技热的背后<a href="https://cn.nytimes.com/technology/20180723/china-robot/" target="_blank"><u>是各种热门技术的不成熟</u></a>。机器人巡逻警察本身成了安全隐患，机器人服务员其实并不能真的上餐，人脸识别的精度也非常有限。科技热的背后是华而不实和资源的浪费，就像数字货币行业的热潮，很多人只是为了圈钱后退场。这一切让中国科技界的一些人感到尴尬。他们警告说，技术市场的过度繁荣是风险投资泡沫的一个迹象，这个泡沫可能将要破灭。他们认为，机器人跳舞和不管用的读心技术之类的表演，并不是中国新取得的技术威力的展示，而是掩盖了中国在其他领域缺乏进展的事实。官媒《科技日报》总编辑刘亚东警告说，中国人不应该无视现实。刘亚东在最近的一篇演讲中说，中国在科学技术上仍落后于美国，那些不承认差距的人 “忽悠了领导，忽悠了公众，甚至忽悠了自己”。
+➜英特尔修复新 ME 漏洞
+https://www.solidot.org/story?sid=57292	14084
+英特尔本月<a href="http://blog.ptsecurity.com/2018/07/intel-patches-new-me-vulnerabilities.html" target="_blank"><u>修复了</u></a>两个新的 Management Engine(ME)漏洞，两个漏洞分别编号为 CVE-2018-3627 和 CVE-2018-3628，其中 CVE-2018-362 是一个逻辑漏洞，允许执行任意代码，容易利用；缓冲溢出漏洞 CVE-2018-3628 更严重，它允许远程代码执行，而且不需要管理账号。自 2008 年起，英特尔处理器平台都内置了一个低功耗的子系统 ME，它包含了一个或多个处理器核心，内存，系统时钟，内部总线，保留的受保护内存，有自己的操作系统和程序，能访问系统主内存和网络。ME 能完全访问和控制 PC，能启动和关闭电脑，读取打开的文件，检查所有运行的程序，跟踪按键和鼠标移动，甚至能捕捉屏幕截图。英特尔称 Management Engine 是远程管理方案，而批评者认为它其实就是秘密后门。
+➜第五个思科后门账号被发现
+https://www.solidot.org/story?sid=57293	16433
+思科上周修复了 25 个漏洞，其中一个补丁是移除  Cisco Policy Suite 中的后门账号 root。该漏洞允许攻击者使用 root 权限执行恶意操作。这是思科过去五个月<a href="https://www.bleepingcomputer.com/news/security/cisco-removes-undocumented-root-password-from-bandwidth-monitoring-software/" target="_blank"><u>曝光的</u></a>第五个没有文档记录的后门账号。其它四个后门账号分别是在 Prime Collaboration Provisioning (PCP)、IOS XE 操作系统、Digital Network Architecture (DNA) Center,和 Wide Area Application Services (WAAS) 流量优化程序中发现的。大多数漏洞是思科自己在内部代码审查中<a href="https://tech.slashdot.org/story/18/07/21/2133202/a-fifth-undocumented-cisco-backdoor-has-been-discovered" target="_blank"><u>发现的</u></a>，这些后门账号看起来都是作为调试功能无意中留在系统中的。
+➜NetBSD 8.0 发布
+https://www.solidot.org/story?sid=57294	17127
+NetBSD 项目<a href="http://www.netbsd.org/releases/formal-8/NetBSD-8.0.html" target="_blank"><u>释出了</u></a> NetBSD 6.0，NetBSD 历史上第十六个大版本。NetBSD 6.0 包含了
+稳定性改进、bug 修复和大量新特性。主要变化和特性包括：USB 堆栈重写，加入 USB3 支持；In-kernel 音频混频器(audio_system(9)，默认启用 PaX MPROTECT (W^X) 内存保护，默认启用 PaX ASLR；i386 和  amd64 CPU 的 Meltdown 和 SpectreV2 以及 V4 漏洞修正，对存在漏洞的英特尔 CPU 禁用 Lazy FPU saving，等等。
+➜中国研究发现父母希望女婿有钱而女儿希望对方帅
+https://www.solidot.org/story?sid=57295	25428
+根据发表在《British Journal of Psychology》期刊上的<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/bjop.12319" target="_blank"><u>一篇论文</u></a>，来自中国的研究<a href="https://www.psypost.org/2018/07/daughters-view-the-physical-attractiveness-of-their-spouses-as-more-important-than-their-parents-51829" target="_blank"><u>发现</u></a>，父母偏爱的女婿收入高但外表不那么有吸引力，而女儿则希望未来的配偶外表有吸引力。论文作者、法国图卢兹高等研究院的 Jeanne Bovet 称，演化生物学里有父母子女冲突理论。他们在中国婚姻市场调查了配偶相关主题的父母子女冲突。研究人员在昆明翠湖公园的婚姻市场询问了 589 名父母和年轻人，采访了 230 名当地大学生。结果发现，父母和儿子在选择配偶上没有冲突，他们都更注重未来媳妇/妻子的外表而不是收入；但父母和女儿在挑选女婿上则存在冲突。
+➜AMD 有望首次在制造工艺上打败英特尔
+https://www.solidot.org/story?sid=57296	26531
+相比英特尔的 Ice Lake Xeon 服务器处理器，AMD 下一代的 Rome 服务器处理器可能将是其历史首次在制造工艺上<a href="https://www.top500.org/news/amd-may-be-about-to-beat-intel-at-its-own-game/" target="_blank"><u>具有优势</u></a>。Rome 基于 Zen 2 架构，预计从下半年开始试制样品，明年全面投产。处理器由台积电或 GlobalFoundries 制造，或两家都参与生产，采用 7 纳米制造工艺。相比第一代的 EPYC 处理器，Rome 的 IPC 性能改进了 10-15%，将最高有 64 个核心。Ice Lake 的细节所知不多，但众所周知的是英特尔的 10 纳米技术遭遇了多次延期，目前大规模量产已推迟到 2019 年的某个时间。根据 Scotten Jones 的分析，英特尔的 10 纳米节点与台积电和 GlobalFoundries 的 7 纳米节点几乎相差不大，而 7 纳米节点在晶体管密度上略有优势。这将是 AMD 的服务器芯片首次在晶体管密度领先于英特尔。
+➜Google 的铁腕如何控制 Android
+https://www.solidot.org/story?sid=57297	29279
+欧盟对 Google 开出了 43 亿欧元的罚单，很多只知道 Android 是开源操作系统的人都奇怪为什么欧盟要如此对待  Google。欧盟针对的是 Google 在 Android 上使用的策略和手法而不是开源闭源。在 iPhone 横空出世的时代，Google 在移动市场根本没有任何经验和立足之地，它采用开源的模式是吸引厂商使用，而当 Android 逐渐站稳脚步并扩大市场份额后，Google 开始采用各种手段来控制 Android。你可能还记得当年宏碁计划生产阿里云手机但遭到 Google 的威胁后而不得不放弃。Google 反对的理由是防止 Android 生态系统的碎片化。但 Android 生态系统的集中化谁获益最多？当然是搜索巨人了。除了中国厂商因为 Google 服务被屏蔽而创造了大量皮肤版本外，只有云计算巨头亚马逊能创造出一个能维持下去的分支。但即使强大如亚马逊，由于 Google 对开放手机联盟 OHA 施加的限制，亚马逊只能找 Quanta Computer 这家主要生产笔记本电脑的厂商来为它制造平板。Arstechnica 发表了一篇长文，<a href="https://arstechnica.com/gadgets/2018/07/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/" target="_blank"><u>回顾了 Google 控制 Android 所采用的手段</u></a>。
+➜波士顿动力准备生产数千只机器狗
+https://www.solidot.org/story?sid=57298	29406
+<div align="center"><img src="https://img.solidot.org/0/519/liHpm5gsyQ5V2.gif" align=""><br>
+</div>
+<br>
+波士顿动力准备<a href="http://fortune.com/2018/07/21/boston-dynamics-spotmini-robot-dog/" target="_blank"><u>向市场投放</u></a>它的第一种商业机器人：四足机器狗 SpotMini。波士顿动力目前隶属于日本软银，它的 SpotMini 机器人重 30 公斤，高 84 厘米，负荷 14 公斤。公司创始人 Marc Raibert 表示，到明年 7 月，波士顿动力将以年产量一千的速度生产 SpotMini。SpotMini 正在测试建筑、快递、安保和家庭护理应用。今年 2 月，波士顿动力公布了 SpotMini 的一则视频，演示了<a href="https://www.solidot.org/story?sid=55543" target="_blank"><u>它的开门能力</u></a>。SpotMini 头部安装了一个机械臂，能转动门的把手，将门打开，让另一个没有装手臂的 SpotMini
+进去。虽然它并没有具备开锁的能力，但这种转动把手的技巧让它可以进出为人类设计的建筑物。
+➜大学谨慎拥抱维基百科
+https://www.solidot.org/story?sid=57299	35908
+因为人人可编辑所导致的不精确，学术界通常是不待见维基百科的，因此他们不怎么欢迎维基百科的人士参与学术会议。但情况正在发生改变，双方不再互相视为陌生人了。学术会议开始欢迎维基百科的人士了。以前，当教授想要学生使用学术资源，他们会告诉学生不要使用维基百科。尽管如此，可随时访问的百科全书对学生仍然有吸引力，他们发现维基百科能在他们能领会的程度上提供复杂主题的概述。随着维基百科走向成熟，学术界对它的看法发生了改变。学生对维基百科的广泛使用让他们承认它在高等教育中的作用，大学也<a href="https://www.chronicle.com/article/Some-Colleges-Cautiously/243968" target="_blank"><u>开始谨慎的拥抱维基百科</u></a>。
+➜为什么金融行业推进无现金社会
+https://www.solidot.org/story?sid=57300	41454
+无现金社会似乎方便了消费者，因为他们不再需要携带现金了。但无现金社会对谁最有利，是消费者还是金融机构和政府？没有了现金，银行不需要再担心假币了，不再需要用人手去处理现金，他们将能知道用户的每一笔交易，仅仅收集用户数据就能让它们获益匪浅。中国最大的移动支付网络微信支付和支付宝对大多数用户都是免交易费的，用户付出的代价就是自己的数据。银行现在正通过关闭 ATM 机器和分支机构的方法来迫使消费者选择数字支付系统。数字支付表面上的方便可能掩盖了它的风险。它们通常都有中心故障点，中央系统可能会发生故障。相比之下，现金不会发生崩溃，不依赖于外部的数据中心，不受远程的监控。这是金融机构想要摆脱它的一个原因。此外，从心理学说，数字支付会鼓励用户消费，而现金支付则能鼓励消费者的自我控制。无现金社会其实<a href="https://news.slashdot.org/story/18/07/21/0153212/the-cashless-society-is-a-con----and-big-finance-is-behind-it" target="_blank"><u>并不真正符合消费者的利益</u></a>。
+➜中国研发无人自主潜艇
+https://www.solidot.org/story?sid=57301	42841
+南华早报援引参与相关项目的科学家的消息<a href="https://www.scmp.com/news/china/society/article/2156361/china-developing-unmanned-ai-submarines-launch-new-era-sea-power" target="_blank"><u>报道</u></a>，中国正在研发具有智能的低成本无人潜艇，能在海洋里巡逻，执行侦察、布雷甚至自杀性攻击等任务。无人自主潜艇预计将在 2020 年代部署，它不会完全取代有人驾驶的潜艇，但将对西方的海洋优势发起挑战。研究人员说，无人潜艇的主要目标是南中国海和西太平洋等战略性海域的美国海军。该项目是中国利用 AI 技术增强海军实力的雄心勃勃的计划的一部分。军方研究人员还在为潜艇指挥官开发 AI 辅助系统，帮助舰长在作战环境下更快更精确的做出判断。
+➜日本废塑料在中国禁止洋垃圾后难以处理
+https://www.solidot.org/story?sid=57302	43880
+中国自 2017 年底停止进口废塑料，<a href="http://cn.nikkei.com/industry/ienvironment/31431-2018-07-23-05-00-30.html" target="_blank"><u>此举对日本的影响正在扩大</u></a>。废塑料出口相关从业者陷入破产，佳能等企业被迫调整将废塑料作为有价物出售时的买家。废塑料如果妥善利用就能成为资源，但日本没有能力将此前由中国吸纳的部分进行再利用，如今只能填埋和焚烧。中国政府 2017 年 7 月通知 WTO，部分停止废塑料和废纸等的进口，进入 2018 年后实际停止。中国 2016 年进口了约 730 万吨废塑料，占全球出口量的一半以上。来自日本的进口量达到约 130 万吨，超过日本废塑料出口的 8 成。中国此前通过手工作业分拣各种塑料，高温熔化后制成杂货和日用品。但是，再利用过程中造成的水污染和大气污染成为问题，于是中国禁止了进口。结果，全世界的废塑料失去了去处。
+➜可穿戴传感器能从汗液里探测压力荷尔蒙
+https://www.solidot.org/story?sid=57303	45128
+压力对人体有害。它会影响血压，新陈代谢，免疫反应和记忆。它还会促进慢性病的发展。因此科学家和医学专业人士努力寻找方法来测量和帮助患者应对压力。现在，斯坦福大学的研究人员在《Science Advances》期刊上发表论文，<a href="https://news.stanford.edu/press/view/22139" target="_blank"><u>报告</u></a>他们研发出<a href="https://spectrum.ieee.org/view-from-the-valley/biomedical/diagnostics/new-wearable-sensor-detects-stress-hormone-in-sweat" target="_blank"><u>一种可穿戴的贴片</u></a>，能在数秒钟内测出贴片下皮肤汗液中的压力荷尔蒙皮质醇的水平。研究人员说，皮质醇可帮助医生判断患者的肾上腺或脑垂体是否正常，在自然情况下，人体皮质醇水平在一天中有高有低，而压力大时皮质醇分泌会增加。但目前皮质醇水平的检测方法需要数天才能拿到结果。该设备<a href="http://news.sciencenet.cn/htmlnews/2018/7/415800.shtm" target="_blank"><u>由 4 层材料组成</u></a>。与皮肤接触的一层可吸汗，并将汗液聚集在一个储层中。储层是一层纳米多孔膜，汗液中的钠离子或钙离子能穿膜而过，但当皮质醇与纳米多孔膜结合时，皮质醇就会阻碍钠离子或钙离子的通过。第三层由分析装置组成，可测量这些带电离子浓度，从而得知皮质醇水平的高低。
+➜Google 测试弧线形 Chrome 标签
+https://www.solidot.org/story?sid=57304	47131
+<div align="center"><img src="//img.solidot.org/0/620/liQFUbl5JIw8s.jpg" width="450" height="297" align=""><br>
+</div>
+<br>
+在 Mozilla Firefox 五年前<a href="https://www.solidot.org/story?sid=37309" target="_blank"><u>尝试</u></a>将标签形状从矩形改变为弧线形然而去年又弃用之后，Google 开始测试类似的界面。Chrome <a href="https://www.cnet.com/news/google-tests-curvy-chrome-tabs-with-material-design-overhaul/" target="_blank"><u>正在测试</u></a>十年来首次引入的新界面：当前活动标签页与周围的标签有一个弧形的过渡（如图所示），地址栏也改为白色背景的灰色椭圆形，而不是以前的圆角白色矩形。Chrome 是目前市场份额最高的浏览器，改变一个广泛使用的浏览器外观将是一项挑战。做得好的话也有助于更容易理解和使用。

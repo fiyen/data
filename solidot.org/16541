@@ -1,0 +1,60 @@
+➜中国公司Ninebot收购了Segway
+https://www.solidot.org/story?sid=43719	9133
+Segway被它控诉抄袭的中国公司Ninebot<a target="_blank" href="http://www.ninebot.cn/2015/conference-topic/"><u>全资收购</u></a>。Segway去年向美国国际贸易委员会投诉Ninebot<a target="_blank" href="http://www.segway.com/segway-resources/downloads/pdfs/ITC_Complaint_092014.pdf"><u>侵犯专利</u></a>（PDF，其中包括两项设计专利），然后两家公司从去年10月开始收购谈判。收购协议于今年4月1日签署，但协议具体细节没有披露。公司CEO高禄峰<a target="_blank" href="http://www.pcworld.com/article/2909565/segway-bought-by-segway-copycat-company.html"><u>声称</u></a>，他们的报价会让人“ 无法拒绝（WOW）”。此次收购让Ninebot获得了Segway的400多项核心专利，Segway将成为Ninebot的全资子公司。Ninebot还在昨天的新闻发布会上宣布获得了来自小米、红杉资本等公司的8000万美元投资。
+➜GNU Hurd 0.6发布
+https://www.solidot.org/story?sid=43720	12630
+Thomas Schwinge宣布发布<a target="_blank" href="http://permalink.gmane.org/gmane.os.hurd.bugs/27135"><u>GNU Hurd 0.6</u></a>。GNU Hurd基于GNU Mach微内核，设计替代Unix内核，最早的开发始于1986年，一度开发停滞，可能与Linux内核流行有关，最近几年该项目才再次活跃起来。上个版本GNU Hurd 0.4是在2013年9月<a target="_blank" href="http://www.solidot.org/story?sid=36632"><u>发布的</u></a>。GNU Hurd目前只支持32位x86架构， 支持64位x86架构的版本正在开发之中，而其它处理器架构的支持则还处于寻找开发者的阶段。
+➜SpaceX公布火箭第一级着陆尝试视频
+https://www.solidot.org/story?sid=43721	14487
+<center>
+<iframe src="https://www.youtube.com/embed/BhMSzC1crr0" allowfullscreen="" frameborder="0" height="315" width="560"></iframe><br>
+<br>
+<img src="http://img.solidot.com.cn/0/179/lih6zBb4ut0Eg.png" height="347" width="560"><br>
+<br>
+</center>
+私人太空公司SpaceX公布了失败的火箭第一级<a target="_blank" href="https://www.youtube.com/watch?v=BhMSzC1crr0">着陆尝试视频</a>（YouTube）。与前几次失败尝试不同，这次火箭第一级是在白天着陆，整个过程一目了然，同时也更让人感到震撼：助推器施加反向推力，降低着陆速度，火箭勉强的垂直着陆在海上平台，但显然在接触平台时没有稳定，最终倾倒爆炸起火。也许在吸取教训后它下一次有可能取得成功。<br>
+➜NVIDIA的新GPU对开源无爱
+https://www.solidot.org/story?sid=43722	16626
+无论是Windows还是Linux，NVIDIA的私有驱动性能一向备受好评，但开源驱动则是另一个故事。NVIDIA对开源社区的不友好早就众所周知，Linus就对此竖起过中指。但到目前为止，NVIDIA的行为并<a target="_blank" href="http://tech.slashdot.org/story/15/04/15/1549249/nvidias-new-gpus-are-very-open-source-unfriendly"><u>没有多大的改善</u></a>。NVIDIA开源驱动Nouveau的开发者在Linux 4.1 Nouveau <a target="_blank" href="http://cgit.freedesktop.org/~airlied/linux/commit/?id=665ae581ae82ed6a28980a32b9d37345db4eed32"><u>pull request</u></a>中<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Unfriendly-OSS-Hardware"><u>再次抱怨</u></a>新一代的 GeForce 900 Maxwel显卡对开源十分的不友好，而且限制多多。NVIDIA从去年开始要求GPU固件签名，它曾承诺向Nouveau开发者提供必要的签名固件，但这一承诺没有兑现，结果是GeForce 900系列的开源驱动不支持硬件加速。
+➜欧盟展开Android的反垄断调查
+https://www.solidot.org/story?sid=43723	20655
+欧盟正式指控Google涉嫌滥用其在搜索市场的支配地位，同时<a target="_blank" href="http://cn.reuters.com/article/2015/04/16/eu-google-idCNKBS0N708B20150416"><u>宣布</u></a>对Android开展反垄断调查。Google官方博客发表<a target="_blank" href="http://googleblog.blogspot.com/2015/04/android-has-helped-create-more-choice.html?m=1"><u>强烈声明</u></a>，称Android在移动领域创造了更多选择推动了创新。Google列出了许多数据，如2012年到2014年之间智能手机的平均价格下降了23%，Google强调Android是开源操作系统，任何人都可以免费使用。欧盟竞争事务执委维斯塔格对此表示，“我希望确保该领域市场繁荣发展，没有任何企业施以反竞争制约。”
+➜印度网络中立运动迫使企业退出Internet.org
+https://www.solidot.org/story?sid=43724	28110
+<center>
+<iframe src="https://www.youtube.com/embed/mfY1NKrzqi0" allowfullscreen="" frameborder="0" height="315" width="560"></iframe><br>
+<br>
+</center>
+在一个互联网普及度不高或网络费用昂贵的地方，一家企业或多家机构的联盟，与移动运营商合作，让移动用户可以免费访问其服务，而用户使用中产生的数据费则由该公司或该联盟承担。计划能听起来没什么问题，虽然有一个缺陷是用户只能访问有限的网站和服务。Facebook的<span class="st">Mark Zuckerberg</span><a target="_blank" href="https://i.imgur.com/PAwf6e3.png"><u>认为</u></a>，获得有限的网络访问总好于完全不能访问互联网。但网络中立的支持者认为这是将不同服务区别对待，认为自由公开的互联网将日益远离人们。印度的网络中立活动人士发起了“<a target="_blank" href="http://savetheinternet.in/"><u>savetheinternet.in</u></a>”运动，而这一运动已经产生了巨大的影响力，<a target="_blank" href="http://www.huffingtonpost.in/2015/04/15/internetorg-withdrawal_n_7071532.html?utm_hp_ref=india"><u>迫使</u></a>参与
+Facebook的Internet.org计划的印度公司退出，印度最大的电子商务公司 Flipkart 也<a target="_blank" href="http://www.bbc.com/news/world-asia-india-32298536"><u>终止了</u></a>与移动公司Airtel在Airtel Zero上的交易。
+➜GNU/Linux程序崩溃分析框架漏洞导致内核提权风险
+https://www.solidot.org/story?sid=43725	28906
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "Google的安全研究人员Tavis Ormandy<a target="_blank" href="http://www.openwall.com/lists/oss-security/2015/04/14/4">发现了针对Ubuntu的CVE-2015-1318(apport)和RedHat/CentOS/Fedora的CVE-2015-1862 (abrt)的安全漏洞</a>，apport和abrt都是GNU/Linux平台上的自动化程序崩溃分析框架的自由软件实现，Ubuntu(apport)和RedHat/CentOS/Fedora(abrt)利用设置/proc/sys/kernel/core_pattern的值来把程序崩溃时的coredump时的输出给分析程序，自从引入容器技术后(<a target="_blank" href="https://code.launchpad.net/~stgraber/apport/pidns-support/+merge/200893">apport</a>, <a target="_blank" href="https://github.com/abrt/abrt/pull/810">abrt</a>)，apport和abrt通过chroot到崩溃程序的相同的根的命名空间处理的实现是有问题的，因为chroot到特定用户目录后root是不能安全的执行execve()的，另外abrt还存在race-condition的问题。<i>
+<p>
+</p>
+<p>目前Tavis Ormandy已经公布了针对<a target="_blank" href="http://www.exploit-db.com/exploits/36746/">程序崩溃分析框架</a>和<a target="_blank" href="http://www.exploit-db.com/exploits/36747/">race-condiation的利用PoC</a>。以安全与稳定性著称的<a target="_blank" href="https://security-tracker.debian.org/tracker/CVE-2015-1318">Debian GNU/Linux由于apport并未进入STABLE版本</a>所以未受到影响，另外根据<a target="_blank" href="https://access.redhat.com/articles/1415483">RedHat安全组的描述</a>，RHEL/CentOS 6只能通过abrt用户才能成功利用，RHEL/CentOS 7相对容易利用成功。建议个人和企业用户针对自己的GNU/Linux进行检查，如果不希望打安全补丁可以关闭apport和abrt服务或者设置"sysctl -w kernel.core_pattern=core"。
+"</i>
+➜Ext4文件系统有望内置加密
+https://www.solidot.org/story?sid=43726	30503
+越来越多的人意识到需要加密储存在设备上的敏感数据，如手机等移动设备很容易丢失或失窃。在Linux内核，加密文件系统需要使用扩展模块如 <a href="http://en.wikipedia.org/wiki/ECryptfs">eCryptfs</a> 或<a href="http://en.wikipedia.org/wiki/Dm-crypt">dm-crypt</a>。这些模块能有效工作，但对文件系统的性能有副作用。Google曾宣布Android Lollipop将默认启用加密，但它最终放弃了这一计划，原因被认为就是加密对性能有影响。如果加密内置在文件系统中，那么Linux可能能提供更好的性能。目前Linux文件系统还没有一个内置加密选项。但<a target="_blank" href="http://lwn.net/Articles/639427/"><u>改变即将发生</u></a>： ext4文件系统维护者Ted Ts'o<a target="_blank" href="http://lwn.net/Articles/639262/"><u>公布了</u></a>一组补丁为ext4加入加密功能，这组补丁由eCryptfs的原作者Michael Halcrow主导开发。eCryptfs的性能问题源于它的堆叠属性，它是<a target="_blank" href="https://www.ibm.com/developerworks/cn/linux/l-cn-ecryptfs/"><u>堆叠</u></a>在文件系统如ext4之上，将加密直接整合在ext4内将能消除堆叠带来的各种问题。
+➜暗物质可能与其它暗物质相互作用
+https://www.solidot.org/story?sid=43727	33960
+神秘的暗物质被发现可能与其它暗物质<a target="_blank" href="www.bbc.com/news/science-environment-32303622"><u>相互作用</u></a>。<a target="_blank" href="http://mnras.oxfordjournals.org/lookup/doi/10.1093/mnras/stv467"><u>论文</u></a>发表在《Monthly Notices of the Royal Astronomical Society》上。暗物质是星系中看不见的“网”，根据一个广泛接受的假说，星系中的可见物质存在于暗物质簇内，如果没有暗物质引力去稳定可见物质，银河系在旋转时就会分崩离析。Durham大学Richard Massey博士领导的一个天文学家团队研究了星系团 Abell 3827中4个同时发生碰撞的星系，利用引力透镜技术发现暗物质簇落在了它周围的星系后面。如果暗物质相互发生作用，那么这种滞后现象是有可能发生的。另外，暗能量调查项目（ Dark Energy Survey）发布了<a target="_blank" href="http://www.bbc.com/news/science-environment-32284995"><u>暗物质图</u></a>。
+➜俄罗斯封杀电影《Child 44》
+https://www.solidot.org/story?sid=43728	35490
+俄罗斯<a target="_blank" href="http://www.washingtonpost.com/blogs/worldviews/wp/2015/04/15/russia-bans-american-film-child-44-because-it-makes-stalin-look-bad/?tid=sm_tw"><u>封杀了</u></a>好莱坞惊悚片《<a target="_blank" href="http://www.imdb.com/title/tt1014763/"><u>Child 44</u></a>》。《Child 44》的背景是斯大林时代的苏联，主角是一位理想主义的亲斯大林国家安全部特工，他去调查一系列儿童凶杀案——此类犯罪被认为不应该在苏联发生。政府不愿意承认有谋杀儿童的凶手或连环凶手存在，主角遭到降职和放逐，但他仍然决定继续调查案件。俄罗斯文化部长Vladimir Medinsky在声明中称，电影刻画的不是一个国家而是魔多。文化部称，电影发行商也同意在庆祝二战结束70周年前夕放映这部电影是“不合适的”。
+➜当机器人违反了法律
+https://www.solidot.org/story?sid=43729	39261
+当一个机器人违反了法律，谁应该承担责任？艺术家组织!Mediengruppe Bitnik在瑞士圣加仑州做了一个实验：让一个名叫<a target="_blank" href="https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/r/"><u>Random Darknet Shopper</u></a>的机器人程序在暗网市场 Agora以100美元比特币为限额每周随机购买一件商品，机器人购买的商品都被寄送到一个画廊公开展示。它购买的商品包括一些假冒商品，秘密摄像头、匈牙利护照扫描件，以及摇头丸。在实验结束那天（今年1月），瑞士检方扣押运行机器人程序的笔记本电脑及其购买商品。本周三，!Mediengruppe Bitnik<a target="_blank" href="http://arstechnica.com/tech-policy/2015/04/dark-web-drug-buying-bot-returned-to-swiss-artists-after-police-seizure/"><u>宣布</u></a>检方已经归还了笔记本电脑和购买商品，但摇头丸除外，因为它已经被销毁。Bitnik宣称，只要你是机器人，在线购买毒品是安全的。
+➜科技领域的反垄断究竟有没有必要？
+https://www.solidot.org/story?sid=43730	40488
+从事后看来，在科技领域，曾经被认为不可动摇的巨人很快就走向了没落或平淡。美国电话电报公司、施乐、IBM、微软...现在多了一个Google。科技领域是一个快速变化的领域，巨人们都需要竭尽全力创新以避免被后面的人赶超。问题在于，政府是否需要插手这个瞬息万变的市场过程。美国人现在认为不需要，而欧洲人显然不这么看，在起诉微软和英特尔之后，它再次指控搜索巨人垄断。《纽约时报》<a target="_blank" href="http://cn.nytimes.com/technology/20150416/c16googlestate/"><u>认为</u></a>，“科技市场是流动的，不可预测的。一个在今天看起来无法战胜的巨型企业，也许会出现从前无法想象的动摇，而且无需政府出手相助。”国际法律和经济学中心总干事Geoffrey A. Manne说，“微软这个案子，他们只需要再等一段时间，那些当时他们以为存在的问题，也就消失了，因为技术、消费者行为和市场需求的改变足以纠正这些问题。”
+➜聪明不会带来幸福
+https://www.solidot.org/story?sid=43731	43347
+如果说无知是福，<a target="_blank" href="http://www.bbc.com/future/story/20150413-the-downsides-of-being-clever"><u>那么高IQ是否就意味着痛苦</u></a>？流行观点可能这么看。我们通常认为天才会被存在性焦虑、挫折或孤独所困扰。想想Virginia Woolf、Alan Turing或Lisa Simpson，他们都是孤独的天才。海明威说过，在聪明人中间幸福是极为罕见的。IQ目前仍然是衡量认知能力的主要方法，虽然它的局限性已经众所周知。我们投入大量金钱训练大脑去改进IQ得分，但如果追求天才本身就是徒劳无功的？一百年前的美国爵士时代，人们曾试图回答过这个问题。当时IQ测试方兴未艾，心理学家Lewis Terman在1926年决定用它去鉴别和研究天才儿童。他挑选出1500名IQ超过140的儿童， 其中80人IQ超过170。他们被称为“白蚁（Termites）”。如你所预料的，大部分“白蚁”都获得了名和利，但不是所有人都达到Terman的期望——有许多人追求了普通的职业，如警察，海员和打字员。Terman得出结论，IQ与成就无关。而聪明也不赋予人幸福生活。智力并不等于美好生活已经被人述说了无数遍。在最好的情况下，高IQ对你的生活满意度没有影响；在最差的情况下，它意味着你较少满足。
+➜法国国民议会批准了互联网流量监视系统
+https://www.solidot.org/story?sid=43732	45314
+法国国民议会今天<a target="_blank" href="http://www.lemonde.fr/pixels/article/2015/04/16/les-deputes-approuvent-un-systeme-de-surveillance-du-trafic-sur-internet_4616652_4408996.html"><u>批准了</u></a>（法语）一项受争议的法案去建立互联网流量监视系统。而更为荒诞的是，577名议员只有30人去投票，结果是25票对5票。新的法律要求ISP监视流量，记录通信元数据。法国将使用深度包检测技术彻底审查所有流量。对普通法国人来说，他们唯一的<a target="_blank" href="https://news.ycombinator.com/item?id=9386820"><u>应对之策</u></a>是全面加密通信。
+➜中国暂停银行业安全新规
+https://www.solidot.org/story?sid=43733	47059
+《华尔街日报》援引内部通知<a target="_blank" href="http://www.wsj.com/articles/china-halts-implementation-of-banking-tech-guidelines-1429181094?KEYWORDS=china"><u>报道</u></a>（付费墙），中国暂停实施西方科技公司和政府抗议的银行业安全新规。新规要求向中国银行出售计算机设备的公司提供源代码，接受侵入性检查，使用被怀疑有后门的中国自己制定的加密技术和安全标准。而中国商业银行要求在3月15日截止期限之前向有关部门提交方案，详细说明将如何把其内部技术转化为政府认为安全可控的系统。这一规定新规<a target="_blank" href="http://www.solidot.org/story?sid=43324"><u>引发了</u></a>美国和欧洲行业组织以及政府的批评。

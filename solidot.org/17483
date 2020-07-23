@@ -1,0 +1,51 @@
+➜Linux 4.14 发布
+https://www.solidot.org/story?sid=54467	12820
+Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2017/11/12/123" target="_blank"><u>宣布</u></a>释出 Linux 4.14。主要<a href="https://kernelnewbies.org/Linux_4.14" target="_blank"><u>新特性</u></a>包括：支持更高的内存容量限制，x86-64 硬件此前受限于四级页表，内存有 256 TiB 虚拟地址空间和 64 TiB 物理地址控制的容量限制，而服务器供应商已经开始提供最高内存容量限制的服务器，在最新版本中，内核引入了<a href="https://lwn.net/Articles/717293/" target="_blank"><u>五级页表</u></a>，将内存容量限制提高到 128PiB 虚拟地址空间和 4PiB 物理地址空间；支持 <a href="https://lwn.net/Articles/686808/#sme" target="_blank"><u>AMD Secure Memory Encryption</u></a>；新的 <a href="https://lwn.net/Articles/728339/" target="_blank"><u>ORC unwinder </u></a>提供更可靠的内核跟踪和 live patching；控制组支持线程模式；Btrfs 和 Squashfs 支持 zstd 压缩算法；新的<a href="https://lwn.net/Articles/726917/" target="_blank"><u>零拷贝网络</u></a>；支持 <a href="https://lwn.net/Articles/684916/" target="_blank"><u>Heterogeneous Memory Management</u></a> 子系统，等等。
+➜Orbital ATK 成功发射飞船，执行空间站补给任务
+https://www.solidot.org/story?sid=54468	14225
+私人太空公司 Orbital ATK 的 Antares 火箭周日<a href="https://www.nasaspaceflight.com/2017/11/antares-cygnus-crs-8-iss/" target="_blank"><u>成功发射了 Cygnus 飞船</u></a>，为国际空间站送去补给。这次发射原定于周六，但因为有飞机在危险区域而推迟。NASA 与 SpaceX 和 Orbital 在 2008 年签署了 35 亿美元的空间站补给合同，Orbital 履行合同的进度比 SpaceX 慢。这艘货运飞船取名为 SS Gene Cernan，以纪念今年 1 月去世的双子星座和阿波罗宇航员 Eugene Cernan。SS Gene Cernan 携带了 3,338 公斤的货物，其中包括 1,240 公斤的补给，851 公斤的硬件，34 公斤的计算机设备和  132 公斤的太空行走使用的硬件，740 公斤的科学仪器和实验设备，109 公斤的 NanoRacks CubeSat 微型卫星。
+➜iPhone X 的显示屏在低温下失去响应
+https://www.solidot.org/story?sid=54469	17324
+iPhone X 用户报告手机的显示屏在寒冷气候下会<a href="http://www.zdnet.com/article/iphone-xs-screen-doesnt-like-sudden-cold-but-apples-working-to-fix-the-bug/" target="_blank"><u>无法响应触控</u></a>，苹果已经证实了此事，表示将会释出软件更新修复该问题。一位用户称在零下 20 摄氏度时手机的显示屏只识别 20% 的触摸，但锁定然后解锁能修复问题；另一位用户称在零下 14 摄氏度有类似的问题，锁定和解锁也能修复问题。苹果在一份声明中称，在寒冷环境下温度发生急剧变化后显示屏会短暂的对触摸停下响应，未来的软件更新将会修复问题。
+➜开放获取增加学术图书的下载量、讨论和引用
+https://www.solidot.org/story?sid=54470	18229
+Springer Nature 发布<a href="http://www.springernature.com/gp/open-research/journals-books/books/the-oa-effect" target="_blank"><u>报告</u></a>称，采用立即开放获取模式出版学术图书确实能<a href="http://news.sciencenet.cn/htmlnews/2017/11/393733.shtm" target="_blank"><u>带来明显的益处</u></a>。下载量高 7 倍：平均而言，每本开放获取书籍在出版后一年内会有近 3 万章的下载量，比非开放获取模式的图书高 7 倍。引用量多 50%：在四年里，开放获取书籍的平均引用量比非开放获取书籍高 50% 线上提及次数多 10 倍：在三年中，开放获取书籍在线上被提及的次数平均比非开放获取书籍多 10 倍。分析下载量的样本包含了 Springer Nature 出版的 216 本开放获取图书和 17124 本非开放获取图书；分析引用和提及次数的样本为 184 本开放获取图书和 14357 本非开放获取图书。报告中还包括了作者和资助机构的定性分析。
+➜Bitcoin Cash 币值突破 1500 美元
+https://www.solidot.org/story?sid=54471	19649
+在比特币币值跌破 6000 美元的同时，它的竞争对手 Bitcoin Cash 币值<a href="https://arstechnica.com/tech-policy/2017/11/bitcoin-rival-doubles-in-price-in-four-days-as-bitcoin-price-slumps/" target="_blank"><u>突破了</u></a> 1500 美元。但比特币币值的剧烈波动也被 Bitcoin Cash 继承，它随后下跌了约 40% 至 <a href="https://coinmarketcap.com/currencies/bitcoin-cash/" target="_blank"><u>1150 美元</u></a>，而比特币币值则回到 <a href="https://blockchain.info/markets" target="_blank"><u>6000 美元以上</u></a>。Bitcoin Cash 是比特币的一个硬分支，在今年 8 月正式诞生，它用 8Mb 大小的区块取代了旧的 1Mb 大小区块。围绕扩大区块容量比特币社区已经争论了很长时间，更大的区块能加快交易速度，而现有的 1Mb 大小区块已经日益成为交易的障碍。
+➜美国担心遍布全美的中国产监控探头
+https://www.solidot.org/story?sid=54472	25349
+杭州海康威视生产的监控探头已经遍布美国，民间用政府用军方也用。海康威视受到了中国政府的扶植，该公司则帮助政府对 14 亿民众进行监视，由此实现了大规模扩张，成为全球最大的监控摄像头制造商。海康威视的迅速崛起、该公司与中国政府的关系以及美国国土安全部发出的网络安全漏洞警报，引起了美国和意大利官员<a href="http://cn.wsj.com/gb/20171113/bgh132726.asp" target="_blank"><u>对海康威视设备安全性的担忧</u></a>。今年 5 月，美国国土安全部发布网络安全警告，称海康威视部分摄像头存在安全漏洞，很容易被黑客所利用，并对这一漏洞给出最差安全评级。海康威视首席执行长胡扬忠称，海康威视是一家企业，不可能给自己生产的摄像头添加后门程序，因为这会损害公司自身业务。海康威视脱胎于半个世纪前开发军事和工业技术的一个政府实验室。
+➜ESR 谈 C 语言替代
+https://www.solidot.org/story?sid=54473	28092
+Eric S. Raymond(ESR)在个人博客上谈论了系统级编程语言<a href="http://esr.ibiblio.org/?p=7711" target="_blank"><u> C 的替代</u></a>。ESR 称他有 35 年 C 语言经验，基本上每周都要写 C 代码，但他已经记不得上一次启动一个 C 软件项目的时间了。新一波的系统语言如  Go 和 Rust 正在挑战 C 的地位。ESR 回顾了自己使用编程语言的历史：在 30 多年前，有多种汇编语言争夺程序员的注意，最终 C 脱颖而出。C 的统治持续了约 30 年，期间的应用编程语言如 Java、Perl 和 Python 都没有动摇 C，部分原因是这些语言的运行时开销太大，部分是 C 成功的锁定效应。只有 Python 取得了显著的成功，但它及其语言家族并没有好到能真正取代 C。直到现在，他才真正发现三个能取代 C 的语言——Go、Rust 和 Cx。但在可预见的未来，操作系统内核和设备固件仍然会用 C 编写。
+➜专家相信玩游戏对儿童并无坏处
+https://www.solidot.org/story?sid=54474	30123
+询问家长对子女玩游戏的感受，你会从言语中听出忧心忡忡。然而专家相信玩游戏<a href="http://www.latimes.com/business/lazarus/la-fi-lazarus-video-games-parenting-20171110-story.html" target="_blank"><u>对儿童并无坏处</u></a>。游戏已经是一大产业，美国三分之二的家庭中至少有一名成员每周玩 3 小时以上游戏。美国高等教育游戏联盟 Constance Steinkuehler 教授在最近举行的一个游戏研讨会上强调，大部分研究人员都认为“游戏是好的”。她也承认游戏和社交媒体一样也会上瘾。她说，今天儿童的生活与过去我们的儿童时代存在巨大差异，他们平均在游戏上花的时间比做家庭作业更长。游戏确实会在某些情况下会上瘾，但没有有力的证据显示游戏会导致暴力行为。游戏是一种发泄，一种休闲，一种将屏幕时间变成活动时间的媒介。
+➜当主要开发者去世开源项目会发生什么？
+https://www.solidot.org/story?sid=54475	31336
+你可能没听说过 Jim Weirich 或他的软件，但你很有可能使用过用他的软件开发的应用。Weirich 帮助创建了多个重要的 Ruby 工具，而 Hulu、Kickstarter 和 Twitter 等都是用 Ruby 语言开发的。Weirich 的软件是开源的，任何人都可以使用和修改它。Ruby 开发者 Justin Searls 说，他是西方 Ruby 社区的著名成员。当 Weirich 2014 年去世，Searls 注意到没人维护他的软件测试工具，也就是说如果有开发者递交 bug 修正和安全补丁或改进，没有人批准变更。随着代码变得过时和不兼容，依赖于该工具的任何测试将会失效。这一事件凸显了开源社区日益增长的担忧。<a href="https://www.wired.com/story/giving-open-source-projects-life-after-a-developers-death/" target="_blank"><u>如果主要程序员去世代码会发生什么</u></a>？软件无人维护将会导致严重问题。当程序员去世或一个软件项目被遗弃，将会影响到所有依赖于该软件的人。拥有软件所有权的人越少，软件无人维护的风险越大。 Searls 接手了 Weirich 的项目，并为自己的开源项目立下了遗嘱和继承人计划。大多数包管理系统都至少有一个临时的程序转移一个库的控制权，但这通常是因为在一个人注意到一个项目被遗弃后自愿收养。Searls 建议 GitHub 和包管理器如 Ruby Gems 加入“dead man's switch”，允许程序员在设定时间内没有登录或变更后自动转移项目或账号的所有权给另一个人。
+➜适度饮酒或有助于改善外语能力
+https://www.solidot.org/story?sid=54476	35435
+根据发表在《Journal of Psychopharmacology》上的一篇<a href="http://journals.sagepub.com/doi/abs/10.1177/0269881117735687" target="_blank"><u>论文</u></a>，适度饮酒<a href="https://digest.bps.org.uk/2017/11/10/moderate-alcohol-consumption-improves-foreign-language-skills/" target="_blank"><u>有助于改善</u></a>外语的流利程度。为了测试酒精对外语能力的影响，荷兰马斯特里赫特大学的研究人员招募了 50 名德国学生，马斯特里赫特大学靠近德国边界，能吸引德国学生就近入学，而这些学生在入学前都需要通过荷兰语测试。研究人员先让学生饮用了 250 毫升的冷水或 250 毫升的苦柠檬水，或足够的伏特加酒能产生中等程度的血液酒精浓度。在 15 分钟后学生们用荷兰语进行辩论，两名不知道谁喝酒谁喝水的荷兰人根据可理解性、词汇、发音、词汇选择和流利程度进行评分。结果显示，饮酒者的荷兰语言能力在外人看来是提高了。研究人员表示这一发现需要更进一步的研究。
+➜英国情报机构对卡巴斯基表示担忧
+https://www.solidot.org/story?sid=54477	38159
+英国情报官员对卡巴斯基可能正被俄罗斯政府用作情报收集工具<a href="http://www.ftchinese.com/story/001075037?full=y" target="_blank"><u>表达了担忧</u></a>。政府通信总部怀疑卡巴斯基可能已被俄罗斯联邦安全局用来对敏感外国目标实施监控。自从 9 月份美国国土安全部禁止所有美国政府机构使用卡巴斯基的产品以来，围绕这家软件提供商的公众争议一直在加剧。美国和以色列情报机构据称已收集到证据证明，卡巴斯基“数”度被俄罗斯机构用来窃取机密信息。卡巴斯基否认了上述指控，表示它与“任何政府之间都不存在不当联系”。英国政府尚未对此公开表明立场。
+➜CopperheadOS 临时关闭更新服务打击未经授权的安装
+https://www.solidot.org/story?sid=54478	43058
+提供 Android 加固版本的 CopperheadOS 上周五关闭了更新服务器，原因是有企业拿了他们的版本刷 Nexus 设备然后出售获利。CopperheadOS 认为此举违反了非商业授权条款。但该公司的做法也导致所有运行 CopperheadOS 的 Nexus 设备无法获得 OTA 更新，其中包括合法用户。CopperheadOS 的源代码采用的是 CC-BY-NC-SA 和 GPL2 (kernel) 或 GPL3 (F-Droid)授权。周日，CopperheadOS <a href="https://twitter.com/CopperheadOS/status/929478052823756800" target="_blank"><u>宣布恢复</u></a>更新服务，以避免影响合法用户。这一事件<a href="https://news.slashdot.org/story/17/11/12/024231/copperheados-fights-unlicensed-installations-on-nexus-phones"><u>引发了争议</u></a>，其他人认为他们无权更改 Android 的 Apache + GPLv2（kernel）授权，只有版权所有者才有权更改授权，而 CopperheadOS 并不拥有 Android 源代码的版权，他们只是拿了源代码修改下。目前&nbsp; CopperheadOS 的源代码只提供给付费用户<a href="https://copperhead.co/android/downloads" target="_blank"><u>下载</u></a>。<br>
+➜2017 年全球碳排放增长 2%
+https://www.solidot.org/story?sid=54479	43871
+科学家周一报告称，2017 年全球碳排放可能<a href="https://www.nature.com/news/world-s-carbon-emissions-set-to-spike-by-2-in-2017-1.22995" target="_blank"><u>将增长 2%</u></a>，排放的增长主要是中国煤炭消费上升驱动的。这一增长将结束过去三年全球碳排放<a href="www.solidot.org/story?sid=51742" target="_blank"><u>保持平稳</u></a>的趋势。根据 Global Carbon Project 的估计，全球二氧化碳排放将达到创纪录的 410 亿吨。报告合作者、气候科学家 Corinne Le Quéré 称，他们对排放增长不感到惊讶，惊讶的增长规模。最新的分析估计美国和欧洲的排放继续呈下降趋势，2017 年分别将下降 0.4% 和 0.2%。但全球第一排放大国、排放量占约 26% 的中国的排放量预计将增长 3.5% 至 105 亿吨，原因是工厂活动的增加和水电发电的下降。
+➜福特组装线工人尝试外骨骼
+https://www.solidot.org/story?sid=54480	45336
+<div align="center"><img src="http://img.solidot.org/0/469/lisdWWVIdQ2.jpg" width="450" align="" height="338"><br>
+</div>
+<br>
+在福特公司的卡车组装线，部分工人平均每天要抬起手臂 4600 次，或一年一百万次。重复劳动的结果是背部和肩膀疼痛。现在福特两家美国工厂的工人<a href="https://spectrum.ieee.org/the-human-os/biomedical/bionics/ford-assembly-line-workers-try-out-exoskeleton-tech-to-boost-performance" target="_blank"><u>得到了额外的帮助</u></a>。在一个试点项目中，工人穿上了湾区公司  Ekso Bionics 的上身外骨骼 <a href="http://eksobionics.com/eksoworks/ford/" target="_blank"><u>EksoVest</u></a>。福特计划将试点扩大到欧洲和拉美的工厂。Ekso Bionics 此前的重心是医疗部门，它销售下身外骨骼帮助截瘫的患者再次行走。当福特工人做仰头的工作时候，EksoVest 能提起和支持手臂，能为每只手臂提供 5 磅到 15 磅的可调向上力辅助。
+➜领英在中国禁止个人发布招聘信息
+https://www.solidot.org/story?sid=54481	45820
+领英 (LinkedIn) 通常被视作外国互联网公司在中国开展业务的典范。它也越来越适合用来证明，这项工作有多么艰难。据一位知情人士称，由于不符合政府要求核实发布者身份的新规定，本周，职业人才社交服务将在其中国网站上<a href="https://cn.nytimes.com/business/20171113/linkedin-china/" target="_blank"><u>禁止个人发布的招聘信息</u></a>。领英在一则声明中表示，公司仍可以发布招聘职位，但他们不了解何时才能允许个人发布。八月中国政府加强了网络招聘信息检查，以应对一系列以传销为主的网络招聘骗局。新规要求公司核实招聘职位信息发布者的身份。本次新规的发布缘于今年七月一名年轻大学毕业生在传销受骗后自杀的事件。
+➜显微镜利用 AI 自动计数血片中的疟疾寄生虫
+https://www.solidot.org/story?sid=54482	47122
+中国公司麦克奥迪<a href="https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/aipowered-microscope-counts-malaria-parasites" target="_blank"><u>宣布</u></a>与比尔梅琳达盖茨基金会支持的 Global Good 基金合作推出用于对抗耐药性疟疾及病例管理的人工智能驱动显微镜 <a href="http://www.easyscango.com/zh?route=cms/article&amp;path=1&amp;article_id=1" target="_blank"><u>EasyScan Go</u></a>。运用自定义图像识别软件，EasyScan Go 能在 20 分钟内识别和计数血片中的疟疾寄生虫。“疟疾是在显微镜切片上最难识别的疾病之一”, 戴维 · 比尔 （David Bell）, Global Good 全球健康技术总监表示：“通过让实验室技术员操作人工智能显微镜，我们可以克服两个主要障碍用于对抗变异寄生虫——改善了病例管理中的诊断及标准化了跨地域和时间的识别。运用人工智能显微镜自动化该过程可以缓解资源贫乏国家专业人员的短缺。每年有近百万人死于疟疾，研究人员估计全世界将近一半的人口有被感染的风险。

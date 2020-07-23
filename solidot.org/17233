@@ -1,0 +1,81 @@
+➜中兴与美国达成和解，认罚 11.9 亿美元
+https://www.solidot.org/story?sid=51608	8752
+中兴发表<a href="http://res.www.zte.com.cn/china/mediares/zte/Investor/20170308/C1.pdf" target="_blank"><u>新闻稿</u></a>（PDF），宣布与美国商务部<a href="http://www.ftchinese.com/story/001071683" target="_blank"><u>达成和解</u></a>，承认违反美国对朝鲜和伊朗制裁的刑事指控，将支付最高 11.9236 亿美元的罚金(其中 3 亿美元罚金暂缓 7 年支付，如果中兴遵守协议要求将免于支付)，这是美国针对中国公司违反美国制裁措施开出的最大一笔罚单。中兴还承认曾阻碍联邦调查。美国官员在一名中兴律师的丈夫试图离开美国时没收了这名律师的电脑，获取了一批文件，美国官员们称，电脑上的文件记录了一个 “令人震惊” 的阴谋，中兴将数千万美元的包含受限美国技术的手机和手机芯片销往朝鲜，并将类似的蜂窝网络设备销往伊朗。中兴为此利用 “壳公司” 隐藏美国生产的受限零配件的使用，并且未在报关时提及这些零配件。美国官员表示，中兴曾委派 13 名员工加入一个部门，命令他们 “净化” 内部通信，以去除所有可能暴露罪行的证据。中兴还在接受调查期间再度向伊朗输送产品，并导致自己的律师否认该公司存在任何不当行为，无意中对美国官员撒了谎。
+➜WikiLeaks 曝光 CIA 黑客工具
+https://www.solidot.org/story?sid=51609	12602
+Wikileaks 开始披露代号为 <a href="https://wikileaks.org/ciav7p1/" target="_blank"><u>Vault 7</u></a> 的 CIA 黑客工具。根据曝光的文件，CIA 能利用漏洞入侵 Android 和 iPhone 手机，以及 iOS、OSX 和 Linux 桌面操作系统；如果系统和设备能被入侵，那么加密的消息应用如 Signal、Telegram 和 WhatsApp 也就完全无法真正保护用户；名为“<a href="https://wikileaks.org/ciav7p1/cms/page_12353643.html" target="_blank"><u>Weeping Angel</u></a>”的 CIA 程序能将三星的智能电视变成监听设备，方法是伪造关机和抑制 LED 指示灯，让用户以为电视已经关闭，但实际上其内部硬件仍然工作，能录下用户的对话；CIA 能远程控制汽车；CIA 隐瞒了漏洞，没有向设备供应商或系统供应商披露已知的漏洞...Wikileaks 目前只是公布了第一批文件，更多文件将会陆续发布。
+➜Android 即将超过 Windows 成为使用最多的操作系统
+https://www.solidot.org/story?sid=51610	15025
+<div align="center"><img src="http://img.solidot.org/0/195/lir3Zy8Q7tTz.png" align="" height="252" width="450"><br>
+</div>
+<br>
+根据 <a href="http://gs.statcounter.com/press/android-challenges-windows-as-worlds-most-popular-operating-system#g1" target="_blank" data-component="externalLink">StatCounter</a> 的统计数据，Android即将 <a href="https://www.cnet.com/news/look-out-windows-android-is-catching-up/" target="_blank"><u>超过</u></a> Windows 成为世界上使用量最多的操作系统： 37.4% 的联网设备运行 Android，而运行 Windows 的联网设备比例是 38.6%。如图所示，Windows 的占有率从 2012 年起从超过八成的占有率一路下滑到今天不到四成，而 Android 则呈现上行趋势，此消彼长的形势还会持续下去，这是对现实的反映：桌面萎缩移动膨胀。<br>
+➜Mozilla Firefox 52 ESR 发布，将提供一年的安全更新
+https://www.solidot.org/story?sid=51611	17461
+Mozilla 释出了 <a href="https://www.mozilla.org/en-US/firefox/52.0/releasenotes/" target="_blank"><u>Firefox 52</u></a>，Firefox 52 将是一个扩展支持版（ESR），将提供为期一年的安全更新。新版的主要特性包括：支持扩展技术 WebAssembly；在 HTTP 登录页面显示不安全的警告图标，实现 Strict Secure Cookies；增强同步功能，允许用户从一台设备向另一台设备发送和打开标签；移除 Flash 之外的 Netscape Plugin API (NPAPI)插件支持，不再支持 Silverlight、Java 和 Acrobat 等插件；Windows XP 和 Windows Vista 上的 Firefox 用户将切换到 ESR 版本；安全修正和开发者功能。Mozilla 警告称，Google Hangouts <a href="https://support.mozilla.org/t5/Fix-problems-with-websites/Google-Hangouts-temporarily-won-t-work-on-Firefox/ta-p/1368368" target="_blank"><u>暂时无法使用</u></a>。
+➜AMD 公布基于 Zen 的 Naples 服务器处理器细节
+https://www.solidot.org/story?sid=51612	19066
+<div align="center"><img src="http://img.solidot.org/0/196/liihnXWiQsd1c.jpg" align="" height="253" width="450"><br>
+</div>
+<br>
+AMD <a href="http://www.anandtech.com/show/11183/amd-prepares-32-core-naples-cpus-for-1p-and-2p-servers-coming-in-q2" target="_blank"><u>公布了</u></a>基于 Zen 架构的 Naples 服务器平台细节，并与英特尔的至强平台进行对比，声称 Naples 在多项测试中的性能表现是英特尔平台的 2 到 2.5 倍。面向数据中心和企业级市场的 Naples 处理器最多有 32 个 核心 64 线程，双路 8 通道 DDR4，支持最高 4 TB 内存。在双路配置中，Naples 平台能提供 64 核 128 线程，32 DIMM 内存槽，128 条 PCIe 3.0 通道。相比之下，双路至强 E5-2699v4 只有 44 核 88 线，80 条 PCIe 3.0 通道。 Naples 将在今年第二季度发布，AMD 还没有公布价格。
+➜人类擅长复制黑猩猩擅长重复造轮子
+https://www.solidot.org/story?sid=51613	30353
+大约 5,500 年前，人类中的一个群体发明了真正具有革命性的东西：轮子。这个消息几乎在一夜间传遍世界各地，轮子<a href="https://www.newscientist.com/article/mg22730282-900-the-three-ancestral-tribes-that-founded-western-civilisation/" target="_blank"><u>几乎同时出现</u></a>在欧洲、欧亚草原区和近东。一些考古学家称，轮子的普及速度之快让我们无法确定它究竟是在哪里发明的——尽管美索不达米亚平原的可能性比较大。让人惊奇的并不是人类如何制作出轮子——而是当这个发明出现后，其他人快速学会并复制了制作技术。科学家指出，其他类人猿如黑猩猩、大猩猩和猩猩基本不会模仿其他猿猴的发明。每只猿猴靠自己学会解决问题——<a href="http://www.bbc.com/ukchina/simp/vert_earth/2016/03/160309_vert_earth_do-toddlers-learn-like-chimps" target="_blank"><u>他们一直在重复发明轮子的过程</u></a>。科学家把人类模仿他人的习惯称作 “高度忠实的社交学习”——他们说这在人类社会中实在太普遍了，以至很难找到没有养成这种习惯的人。
+➜Blue Origin 公布 New Glenn 重型火箭细节
+https://www.solidot.org/story?sid=51614	32678
+<div align="center"><img src="http://img.solidot.org/0/197/li1w2ecJBECIU.jpg" align="" height="270" width="450"><br>
+<br>
+</div>
+亚马逊创始人 Jeff Bezos 的私人太空公司 Blue Origin <a href="https://arstechnica.com/science/2017/03/blue-origin-releases-details-of-its-monster-orbital-rocket/" target="_blank"><u>公布了</u></a>其正在研制的重型运载火箭 New Glenn 的更多细节。New Glenn 以美国第一位绕地球飞行的宇航员 John Glenn 的名字命名，火箭高 89 米，能将 45 吨重的负荷发射到低地球轨道，将 13 吨的负荷发送到地球同步转移轨道，首次试飞预计将在 2019 年底进行，Blue Origin 已经与通信卫星公司 Eutelsat 签署了 2022 年<a href="http://www.space.com/35954-blue-origin-new-glenn-rocket-video.html" target="_blank"><u>卫星发射合同</u></a>。类似  SpaceX 的&nbsp; Falcon 9 火箭， New Glenn 设计能重复使用，通过回收火箭第一级重复使用火箭最多 100 次。如果  New Glenn 现在就试飞，那么它将是地球上最强大的火箭，但其它火箭公司和 NASA 都在研制载重量更大的火箭：  SpaceX 的 Falcon Heavy 设计能将 53 吨的负荷发射到低地球轨道，NASA 的 Space Launch System 的运载能力则达到了 70吨。<br>
+➜Visual Studio 2017 发布
+https://www.solidot.org/story?sid=51615	32998
+<div align="center"><img src="http://img.solidot.org/0/198/lixTQPobylQR6.png" align="" height="233" width="450"><br>
+</div>
+<br>
+微软正式<a href="https://www.visualstudio.com/zh-cn/news/releasenotes/vs2017-relnotes" target="_blank"><u>释出了</u></a>它的最新版集成开发环境 <a href="https://www.visualstudio.com/zh-hans/downloads/" target="_blank"><u>Visual Studio 2017</u></a>。用户在安装时可能就对 Visual Studio 2017 产生了<a href="https://arstechnica.com/information-technology/2017/03/20-years-in-the-making-visual-studio-2017-is-faster-leaner-devops-ier/" target="_blank"><u>第一印象</u></a>：新的轻量模块式安装模式使得安装更快，最快安装不到 3 分钟。VS 2017 的加载体验和加载大项项目的速度都优于 2015。其它方面的改进包括更新 C# 和VB.NET 版本，部分支持 C++17 特性，支持 CMake 构建脚本，增强 Xamarin 整合，改进 Git&nbsp; 整合，所有版本都提供了 Redgate SQL 搜索，Team Foundation Server 2017 支持 npm 包，等等。更多可查看发布公告。
+➜BBC 调查 Facebook 上的儿童色情，Facebook 向警方举报 BBC
+https://www.solidot.org/story?sid=51616	38640
+2016年初 BBC 的一项调查<a href="http://www.bbc.com/news/uk-35521068" target="_blank"><u>发现</u></a>， 恋童癖者利用 Facebook 的私有组秘密交换儿童色情图像。它将调查发现报告给了  Facebook，并向警方举报了多位当事人。儿童色情在大部分国家都是非法的，持有儿童色情是一项重罪。BBC 的后续调查发现，  Facebook <a href="http://www.bbc.com/news/technology-39187929" target="_blank"><u>未能完全移除儿童色情图像</u></a>。它发现不到 20% 的被举报的儿童图像移除了。Facebook 声称其余图像没有违反社区标准。在 BBC 向 Facebook 重新递交证据之后，Facebook 向警方<a href="https://tech.slashdot.org/story/17/03/07/1235247/facebook-reports-bbc-to-police-following-publications-sexualized-images-investigation" target="_blank"><u>举报</u></a> BBC 传播儿童色情，它发表声明称任何人传播儿童色情图像都是违反法律的。BBC 认为社交巨人此举非常奇怪。<br>
+➜暗网服务大幅减少 85%
+https://www.solidot.org/story?sid=51617	40769
+自上月一匿名者组织<a href="http://www.solidot.org/story?sid=51240" target="_blank"><u>入侵</u></a>暗网托管商 Freedom Hosting II（FH II）的服务器，导致其托管的所有暗网网站全部下线后，暗网服务大幅减少了 85%。Deep Light 公司在 2016 年 4 月公布的报告称暗网 Web 服务数量在 3 万左右，但 OnionScan 的<a href="https://mascherari.press/onionscan-report-fhii-a-new-map-and-the-future/" target="_blank"><u>最新报告</u></a>显示今天的暗网 Web 服务只剩下 4400 左右，85% 的暗网 Web 服务<a href="https://www.bleepingcomputer.com/news/security/the-dark-web-has-shrunk-by-85-percent/" target="_blank"><u>消失了</u></a>。根据 OnionScan 的数据，暗网只剩下 4,000 HTTP 网站，250 TLS (HTTPS)端点，100 SMTP 服务和 10 个 FTP 节点。
+➜美国人的平均做爱次数比 20 年前少了
+https://www.solidot.org/story?sid=51618	42890
+根据发布在《Archives of Sexual Behavior》期刊上的<a href="https://link.springer.com/article/10.1007%2Fs10508-017-0953-1" target="_blank"><u>一项研究</u></a>，美国人每年的平均做爱次数比 20 年前<a href="https://arstechnica.com/science/2017/03/americans-sex-lives-have-gone-limp-lovemaking-fell-15-since-the-90s/" target="_blank"><u>少了 9 次</u></a>：从 1995 年至 2000 年间平均每年约 62 次减少到2010 年至 2014 年间的每年 53 次。性生活下降贯穿于不同的年龄、种族、宗教、教育水平、就业状况和地区。研究人员认为与两大趋势有关联：单身者在这一期间增加，单身者通常比已婚者或有伴侣的人有更少的性生活；已婚或有伴侣的人的性生活放慢。研究人员并不清楚驱动这两大趋势的因素。研究发现，已婚者的性生活频率从 1995-2000 年间平均每年约 69 次减少到2010-2014 年间的 56 次，而未婚者同期从 54 次减少到了 51 次。被调查者未婚或没有伴侣的比例从 26% 增加到了 33%。<br>
+➜CIA 泄密内容概览
+https://www.solidot.org/story?sid=51619	43620
+<div align="center"><a href=""><img src="http://img.solidot.org/0/200/lijcdy0Q8Vw.jpg" align="" height="267" width="450"></a><br>
+</div>
+<a href=""><br>
+某个盖子</a> 写道 "<a href="http://www.solidot.org/story?sid=51609" target="_blank">正如之前本站报道，</a><a href="http://www.solidot.org/story?sid=51609" target="_blank">Wikileaks 开始披露代号为 Vault 7 <span lang="zh-CN">的
+</span>CIA <span lang="zh-CN">黑客工具。</span></a>下面就来浏览一下具体内容：
+<p></p>
+<p>一. <b>CIA 能入侵 Android 和 iOS 移动设备，也拥有入侵几乎任何计算机的能力。</b>文件表明，该情报机构曾参与一项行动，旨在编写运行在不同平台上的多种恶意程序，在人们使用的几乎任何电子设备上收集谍报，这包括 iPhone、Android，以及 Windows、macOS 和 Linux 计算机。
+</p>
+<p>
+二. <b>假如系统已经被入侵了，那么 Signal、Telegram 和 WhatsApp 就完全没有意义了。</b>加密应用不可能比运行他们的设备更安全，如果操作系统被入侵了，那么在消息被加密发送之前就已经可以被窃取了。主要注意的是，这并不意味着破解加密本身。
+</p>
+<p>
+三. <b>CIA 可将智能电视升级为 “电幕”，窃听周围的谈话。</b>文件中，描述了一个名为 <a href="https://wikileaks.org/ciav7p1/cms/page_12353643.html" target="_blank">Weeping Angel</a> 的项目，相当引人注目。情报机构可以把恶意程序 “推送” 到智能电视机上，将电视变为窃听装置，同时可将电视伪装为关机状态。</p>
+<p>
+</p>
+<p>四. <b>该情报机构正在探索入侵汽车，引发撞车事故的方法，试图让 “无法被发现的暗杀” 成为可能。</b>许多文档中描述的项目用途未知，但看起来十分危险。其中一份文档表明了 CIA 正在研究远程入侵汽车并使其撞车的方法。
+</p>
+<p>
+</p>
+<p>五. <b>CIA 隐瞒漏洞，同样的漏洞也能被其他入侵者使用。</b>文件中涉及的漏洞涉及到 Apple、Google 和 Microsoft 等大型厂商的产品，但由于 CIA 将安全漏洞保密，这些漏洞无法被修复。</p>
+<p>
+</p>
+<p>
+六. 更多机密文件还在路上。本次泄密的文件共有 8,378 份。其中许多已经被阅读和分析，但还有大量文件无人过目，更有甚者，阿桑奇表示，Vault 7 仅仅是 Year Zero 泄密计划的第一弹，更多其他的机密文件尚未发布。
+你可以在<a href="https://wikileaks.org/ciav7p1/" target="_blank">维基解密的网站</a>上阅读第一批机密文件。《The Intercept》则进行了《<a href="https://theintercept.com/2017/03/07/wikileaks-dump-shows-cia-could-turn-smart-tvs-into-listening-devices/" target="_blank">CIA 如何将智能电视变成窃听器</a>》的深入报道，值得一读。"上面这张图也值得一看...</p>
+➜报告称中国中产正在逃离公立学校
+https://www.solidot.org/story?sid=51620	44597
+寒门出贵子是否越来越难？北京大学教授王蓉在名为 “直面我国的‘教育拉丁美洲化’的挑战” 政策建议报告中提出，中国正在遭遇 “教育拉丁美洲化” 的挑战，基础教育阶段公办学校和民办学校分化<a href="http://china.caixin.com/2017-03-08/101063599.html" target="_blank"><u>已初见端倪</u></a>，若不改教育财政和评价制度，或将致“阶层固化难以打破”。在一些拉丁美洲国家，大量中高等收入家长可能逃离公共教育体系而在私立部门中寻求更高水准的服务，而公立学校特别是基础教育阶段的公立学校 “逐渐成为低劣质量机构的‘代名词’”。 目前，类似现象在中国一些大城市也出现了。报告指出，在包括上海、杭州、南京等地的一些中国城市，“最好的初中学校几乎已经是民办学校的天下”。并且，民办学校与公办初中质量差距越拉越大,“公办学校劣势越来越明显”。
+➜苹果开始拒绝绕过商店推送补丁的应用
+https://www.solidot.org/story?sid=51621	45267
+苹果<a href="https://forums.developer.apple.com/thread/73640" target="_blank"><u>开始拒绝</u></a>绕过应用商店推送补丁的应用，首当其冲的是提供实时打补丁功能的 Rollout.io 服务，多个整合 Rollou 服务的应用遭到了苹果的拒绝。苹果在声明称，即使远程资源没有恶意目的，它很容易通过中间人攻击遭到劫持，将会对应用的用户构成严重威胁。苹果称，绕过应用商店推送代码改变应用行为的做法违反了相关服务条款，它要求应用开发者移除相关代码。
+➜非洲可能打破稀土供应格局
+https://www.solidot.org/story?sid=51622	47455
+矿业分析师认为，非洲<a href="http://www.ftchinese.com/story/001071676" target="_blank"><u>有望打破全球稀土供应格局</u></a>。目前中国主导着全球稀土生产。虽然中国在稀土生产上占据主导地位，但储量方面情况并非如此。据估计，中国稀土储量占全球总储量不超过 30%。问题在于将新发现储量转化为产量的成本以及一个拥有绝对主导地位的国家能够用海量供应压低价格、从而让新项目难以存活。除了价格挑战，新项目还面临环境方面的障碍。目前公认的是，除了北美和澳大利亚，非洲南部和东部拥有的生产稀土的潜力最大，特别是南非、坦桑尼亚、马拉维和莫桑比克。肯尼亚、布隆迪、赞比亚和纳米比亚也是。要瓦解中国的主导地位还有很长的路要走。非洲的稀土项目可以在修正这种失衡方面做出重大贡献。

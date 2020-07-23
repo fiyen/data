@@ -1,0 +1,69 @@
+➜基于Web的IDE走向主流
+https://www.solidot.org/story?sid=9922	600
+上周Mozilla发布了基于浏览器的代码编辑框架<a href="http://labs.mozilla.com/2009/02/introducing-bespin/">Bespin</a>，仅仅过了几天，著名自由IDE Eclipse的开发者Boris Bokowski和Simon Kaegi就利用现成的无头（headless）Eclipse插件程序，实现了<a href="http://borisoneclipse.blogspot.com/2009/02/eclipse-in-cloud.html">基于Eclipse的Bespin server</a>。随着基于web的IDE如<a href="http://wiki.eclipse.org/E4/Bespin">Eclipse</a>和<a href="http://heroku.com/">Heroku</a>的登场，看起来它将逐渐<a href="http://www.infoq.com/news/2009/02/web-based-ide">走向主流</a>。<i>
+基于Web的IDE特性有：
+易于使用，实时协作，集成的命令行，可扩展和自托管，闪电之速，可随时随地访问。</i>
+➜如果让猫去同意EULA协议？
+https://www.solidot.org/story?sid=9923	1800
+对于最终用户许可协议（EULA），多数人都是一瞥而过；对于其中可能包含的过分要求，多数人都是视而不见。当你必须使用一款软件但同时又觉得它的EULA面目可憎时，你会怎么做？Anne Loucks的做法是<a href="http://hardware.slashdot.org/article.pl?sid=09/02/18/1817221">让猫代替她去点击“同意”</a>（通过一系列机关，让猫凭借猫的自由意志<a href="http://www.ohesso.com/essays/essay006.htm">去点击</a>）。小猫咪显然不是一个法人实体，那么随之而来的问题就是：猫能签署法律协议吗？它需要达到法律年龄吗？如果猫主人违反合同，是否要让猫去法庭作证？
+➜SSL再次面对中间人攻击
+https://www.solidot.org/story?sid=9924	3240
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道 <i>"在本次Black Hat黑客大会上，黑客Moxie Marlinspike提出了一种<a href="https://www.blackhat.com/presentations/bh-dc-09/Marlinspike/BlackHat-DC-09-Marlinspike-Defeating-SSL.pdf">新的SSL中间人攻击手段</a>，该攻击是由于CA和浏览器的错误实现引起的。利用这个攻击手段，Moxie在24小时内就从Gmail、Yahoo、Hotmail、Paypal、Facebook等站点收集到了117个电子邮件帐户，16个信用卡号，7个paypal帐号，以及超过300个其他帐号。"</i>
+➜瑞星公司声明称被王学武诽谤
+https://www.solidot.org/story?sid=9925	4200
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道 "针对王学武的<a href="http://tech.southcn.com/yj/content/2009-02/17/content_4920082.htm">《一项重大原始创新何以大难不死》</a>一文，瑞星公司发表<a href="http://it.rising.com.cn/new2008/News/NewsInfo/2009-02-19/1235005921d51570.shtml">声明</a>，称其大量歪曲捏造事实、颠倒黑白，并将通过法律手段维护自己的权益。该声明称，瑞星公司在1998年曾被王学武勒索，并支付了35万元人民币现金。此后，瑞星公司还与王学武以进一步的合作，并每次支付10万元的费用。这其中到底隐藏了多少秘密呢？"
+➜中国捕获巨鼠
+https://www.solidot.org/story?sid=9926	4800
+中国福州一位市民抓住了一只<a href="http://news.163.com/09/0216/08/528RRJ2500011229.html">牙齿有一英寸长的巨鼠</a>。这只老鼠重2.65公斤，长30.5厘米（12英寸）。捕获者被称为鲜先生，根据警方初步鉴定，此种鼠属于竹鼠，并不是稀罕物，它常见于中国的云南和马来半岛，最长能到30英寸，竹鼠也是中国人的餐桌上的食物，在市场上有销售。世界上最大的老鼠是非洲大袋鼠，<a href="http://www.telegraph.co.uk/news/worldnews/asia/china/4688453/Giant-rat-caught-in-China.html">最长有36英寸</a>。
+➜挪威告诉IE6用户升级浏览器
+https://www.solidot.org/story?sid=9927	6300
+挪威一些大的商业网站不约而同的发出警告，<a href="http://www.cjohansen.no/en/browsers/norway_tells_ie6_users_to_shape_up">要求所有IE6用户升级他们的浏览器</a>。根据Net Applications的统计，有近10年历史的IE6在全世界仍占据了<a href="http://marketshare.hitslink.com/report.aspx?qprid=3&amp;qpcustom=Microsoft+Internet+Explorer+6.0">近20%的市场份额</a>，去年12月是20.46%，今年1月是19.21%。<i>
+<a href="http://www.finn.no/">Finn.no</a>是挪威最大的商业网站之一，它提醒用户去升级到新版IE；<a href="http://www.vg.no/">vg.no</a>是挪威最大的新闻报纸，可能也是挪威浏览量最大的网站，建议用户可以选择Firefox、Opera或Google Chrome浏览器；此外还有Teknisk Ukeblad，start.no，Juristforeningen，NextGenTel等主要网站都发出了升级警告。</i>
+➜Microsoft.com进入IE8不兼容名单
+https://www.solidot.org/story?sid=9928	9360
+离Internet Explorer 8的正式发布越来越近，微软也在持续的<a href="http://blogs.zdnet.com/microsoft/?p=2067&amp;tag=nl.e589">追踪IE8的不兼容网站</a>，它发布了包含<a href="http://blogs.zdnet.com/microsoft/?p=2072">2400个网址</a>的名单，其中不乏国内大站，甚至还包括微软的官网。虽然IE8的开发团队在做正确的事情——也就是遵循Web标准，但现在的多数网站仍是为了正确渲染不遵循标准的IE旧版而设计的。以下列出一些知名的站点，如果IE8用户下载和安装兼容性观察名单，访问它们时会自动转换到非标准模式：<i>
+baidu.com；qq.com；sina.com.cn；163.com；sohu.com；google.cn；
+xunlei.com；taobao.com；soso.com；youku.com；msn.com.cn；hao123.com；
+tudou.com；gougou.com；google.com；cctv.com；xinhuanet.com；
+tianya.cn；tom.com；chinamobile.com；zol.com.cn；pconline.com.cn；
+mop.com；ku6.com；pcpop.com；126.com；360.cn；yahoo.com；microsoft.com；
+56.com；hexun.com；sogou.com；vnet.cn；ifeng.com；eachnet.com；
+xici.net；paipai.com；people.com.cn；xiaonei.com；skycn.com；
+mofile.com；pchome.net；it168.com；pps.tv；eastmoney.com；rising.com.cn；
+chinaren.com；douban.com；qihoo.com；amazon.cn；verycd.com；alisoft.com；
+yesky.com；google.at；youtube.com；live.com；wikipedia.org.....</i>
+➜海盗湾创始人请求黑客停火
+https://www.solidot.org/story?sid=9929	12600
+海盗湾创始人Peter Sunde请求黑客<a href="http://www.pcpro.co.uk/news/247973/pirate-bay-founder-pleads-for-hacker-ceasefire.html">不要去攻击</a>那些起诉他们的组织的网站。Peter Sunde是三位被指控侵犯知识产权和帮助版权材料非法发行的海盗湾创始人之一。<i>
+<a href="__SLASHLINK__" sect="internet" sid="09/02/17/0324219" sn="article" tid="17">此案</a>从本周一开始在瑞典斯德哥尔摩一家法庭举行，目前已进入第五天。为了声援心目中的英雄，黑客们开始对原告网站发动了攻击，首先遭殃的是国际唱片业协会(<a href="http://www.ifpi.org/">IFPI</a>)。这些攻击行为引起了海盗湾方的关注，并促使Peter Sunde在博客上发贴请求停火——“<a href="http://blog.brokep.com/2009/02/19/were-winning-stop-hacking-plz/">We're winning, stop hacking, please</a>”。</i>
+➜攻击浏览器本地存储
+https://www.solidot.org/story?sid=9930	18300
+在华盛顿举行的黑帽安全会议上，研究员<a href="http://www.blackhat.com/html/bh-dc-09/bh-dc-09-speakers.html#Sutton%23%23Fhggba">Michael Sutton</a>指出Web应用程序如Google Gears和HTML 5 Database Storage中的通用XSS（跨站脚本攻击）漏洞，使得浏览器本地数据库在攻击者眼里<a href="http://research.zscaler.com/2009/02/practical-example-of-cssqli-using.html">变得畅通无阻</a>。<i>
+随着离线版Gmail的推出，Gears也引起越来越多的关注，不久前Google刚刚在手机上演示了离线Gmail的beta版。基于WebKit的浏览器支持HTML 5，像Android和iPhone上的浏览器都成为潜在的攻击对象。Sutton在会议上演示了对一商业网站<a href="http://paymo.biz/">Paymo.biz</a>的攻击。</i>
+➜奥巴马反垄断主管：Google涉嫌垄断
+https://www.solidot.org/story?sid=9931	20160
+虽然博客圈时不时的大肆鞭笞软件垄断的代表微软公司，但在奥巴马的新任反垄断主管眼里，<a href="http://blogs.computerworld.com/obama_anti_trust_chief_google_is_a_monopoly_threat_not_microsoft">Google或许才应该是十字准线瞄准的中心</a>。<i>
+去年6月，奥巴马提名的下一任反垄断主管Christine A. Varney发出警告，Google垄断了在线广告业。<a href="http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=aG9B5.J3Bl1w">Varney在反垄断协会举办的一个讨论会上称</a>，“至于我，微软已是上个世纪的事情，它们不再是问题”，她指出Google垄断了互联网在线广告。Varney还在等待正式确认为反垄断主管，对Google来说这可不是什么好消息，也许它应该考虑增加法律事务雇员。</i>
+➜男人眼里身着比基尼的女人是物体
+https://www.solidot.org/story?sid=9932	22560
+研究显示，当看到身穿比基尼的女人图像时，<a href="http://edition.cnn.com/2009/HEALTH/02/19/women.bikinis.objects/index.html?iref=mpstoryview">男性大脑中与工具相关的区域就会兴奋起来</a>(<a href="http://news.xinmin.cn/rollnews/2009/02/18/1623248.html">中文报道</a>)。普林斯顿大学的心理学教授<a href="http://weblamp.princeton.edu/~psych/psychology/research/fiske/index.php">Susan Fiske</a>在美国科学促进协会的年度会议上介绍了该研究。她指出男人更多地是将这些性感女性照片和“推、抓，拧”这类动作联系起来，如同看到了扳手和螺丝刀。意味着男人将这些女人看成了没有思想的性欲工具。进化心理学也认为，男人一般会把年轻和具用生育能力的女性看作是物体，而女人则更多关注男性的身份和财富。
+➜人眼或能在远距离观察到幽灵般运动
+https://www.solidot.org/story?sid=9933	24960
+人眼是一种良好的光子探测器——它足以灵敏到识别出光子。因此如果你让人眼与标准的光子探测器交换，去参与检验“远距离的幽灵般作用”，结果会怎样？（远距离幽灵般作用是纠缠的光子影响彼此的能力，与距离无关。）<i>
+<a href="http://arxivblog.com/?p=1230">瑞士的一组物理学家正进行相关研究</a>，他们认为理论上没有理由认为人眼不能做此种试验，他们计算得出人眼能看到“纠缠”。这听起来很酷，这支团队由世界顶尖的量子纠缠专家<a href="http://www.gap-optique.unige.ch/Members/Nicolas/Resume.htm">Nic Gisin</a>领导，他表示正在积极的实现这一目标，相信人类能在几个月内体验“纠缠”，虽然体验的时间将是不可思议的短暂。
+</i>
+<a href="http://arxiv.org/abs/0902.2896">预印本</a>
+➜巴西学校部署35万Linux虚拟桌面
+https://www.solidot.org/story?sid=9934	27000
+不久之后，巴西数百万学生就能<a href="http://blogs.eweek.com/storage_station/content/general/userful_thinnetworks_hook_up_to_install_356k_virtual_desktops.html">使用上Linux</a>。它将是世界上最大的虚拟化技术和Linux桌面部署：巴西5560个自治市的学校将安装共享硬件和软件的356,800个虚拟桌面，选用的桌面是加拿大的<a href="http://userful.com/home">Userful</a>和<a href="http://piacentini.livejournal.com/7871.html">KDE</a>。虚拟化技术能节省资金，同时也能降低碳足迹。Userful能将一台机器分割成10个独立的工作桌面。
+➜微软透露Windows 7上的文件共享软件
+https://www.solidot.org/story?sid=9935	29100
+软公开了将在Windows 7中使用的<a href="http://www.infopackets.com/news/business/microsoft/2009/20090219_microsoft_unveils_windows_7_file_sharing_beta.htm">文件共享软件的试用版</a>。这个名叫<a href="http://www.microsoft.com/downloads/details.aspx?familyid=ab44f9bb-0f20-4145-8c18-04339c0e3e6c&amp;displaylang=en">Windows Live ID Sign-in Assistant 6.5 (Beta)</a>的软件，允许PC用户与朋友、家人、信任的同事电脑之间交换文件，提供安全的加密通道。该软件使Windows Live ID与Windows 7用户帐号之间建立连接成为可能，本质上能在硬盘数据和通过Windows Live的信息存取之间建立一个安全连接。
+➜因为“传感器漂移”而估错北极冰层面积
+https://www.solidot.org/story?sid=9936	31800
+美国雪冰数据中心（<a href="http://nsidc.org/index.html">National Snow and Ice Data Center</a>，简写NSIDC）曾有过惊人之语：由于全球变暖北极注定将融化成无冰区。2008年5月，他们预言2008年夏季北极将变成<a href="http://nsidc.org/arcticseaicenews/2008/050508.html">可航行的不冻之海</a>，然而最终事实并非如此。<i>
+现在，NSIDC公开承认了错误，表示他们是“<a href="http://nsidc.org/arcticseaicenews/">传感器漂移</a>”的受害者，从而少估计了北极冰层面积达500,000平方千米之多。问题的发现要归于迷惑的读者发送的电子邮件，读者指出被认为是无冰和开放海洋的区域却明显被大量冰川所覆盖。调查结果发现是源于依靠陈旧的、不太可靠的方法SSM/I去追踪冰层面积，而SSM/I的数据也与新的名叫AMSR-E的方法所探测的数据不一致。那么为什么NSIDC不用AMSR-E的数据呢？NSIDC称“在分析中我们不使用AMSR-E，是因为它与我们的历史数据不一致”。AMSR-E数据只有2002年之后的，无法向上追溯，因此可能不足以让NSIDC去作出关于融化的全面结论。<a href="http://www.ijis.iarc.uaf.edu/en/home/seaice_extent.htm">AMSR-E数据</a>每日更新，并向公众开放。从目前来看，<a href="http://news.slashdot.org/news/09/02/19/0420255.shtml">预测北极无冰还为时过早</a>。</i>
+➜当游戏运行时浏览器使用性能比较
+https://www.solidot.org/story?sid=9937	36900
+对于多数Windows PC用户来说，Alt-Tab是一个必不可少的切换程序的组合键，尤其是身在游戏中，想打开浏览器寻找攻略、作弊码或其它什么任务，你肯定会经常用到Alt-Tab。<i>
+但是如果游戏比较大，以及其特殊的保护设置，切换到标准浏览器会碰到许多问题，游戏可能失去响应甚至是崩溃。<a href="http://www.playxpert.com/">PlayXpert</a>、<a href="http://store.steampowered.com/">PSteam</a>、<a href="http://rogue.gotgame.com/">PRogue</a>、和<a href="http://www.xfire.com/">PXfire</a>是四款支持热键，能在游戏全屏和活动的情况下即时弹出到前台或消失的瘦浏览器客户端，它们甚至还提供透明背景，不干扰你的游戏进程。Gamespot简单评比了<a href="http://www.gamespot.com/features/6204588/p-2.html">四款浏览器在游戏运行时的性能表现</a>。</i>

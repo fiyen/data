@@ -1,0 +1,60 @@
+➜简笔画识别：人工智能超过人类
+https://www.solidot.org/story?sid=44224	8092
+<a href="/~伦敦大学">伦敦大学</a> 写道 "继今年2月来自微软的研究员报告了基于卷机神经网络（CNN）的模型在图像数据库ImageNet上的表现超过人类之后（<a href="http://blogs.technet.com/b/inside_microsoft_research/archive/2015/02/10/microsoft-researchers-algorithm-sets-imagenet-challenge-milestone.aspx" target="_blank">link</a>），伦敦大学的一个研究组在另外一个图像数据库（TU-Berlin Sketch）上也取得了里程碑式的进展。<i>
+与ImageNet主要由相片组成不同，TU-Berlin Sketch是由手绘的简笔画组成的（<a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/teaser_siggraph.jpg" target="_blank">link</a>），识别简笔画中的物体往往更困难。长期以来，计算机算法在这个数据库上的识别率一直低于70%，而人类的平均表现为73%。</p>
+<p>
+</p>
+<p>通过一个新的深层神经网络设计，计算机程序已经达到了75%的识别率（论文预印本<a href="http://arxiv.org/abs/1501.07873" target="_blank">link</a>）。"</i>
+➜支付宝因光纤被挖断中断服务数小时
+https://www.solidot.org/story?sid=44225	9851
+5月27日下午5点左右，<a target="_blank" href="http://finance.caixin.com/2015-05-28/100813970.html"><u>支付宝出现全国范围的系统瘫痪</u></a>。淘宝购物、第三方网站付款、支付宝钱包各项功能全部无法使用。用户还纷纷表示客服电话打不通。支付宝钱包官方微博下午6点表示原因是杭州萧山区一个地方的光纤被挖断了，影响了一个主要机房。到7:30左右，支付宝才恢复服务。接近监管部门的有关人士表示，国家有关部门对商业银行规定：中断服务时间超过30分钟，必须报告。中断时间不超过120分钟，为一般安全事件。中断时间不超过240分钟，为重大安全事件。中断时间超过240分钟，为特大安全事件。“以上规定不论原因，支付宝中断超过120分钟，为重大安全事件。”有关人士表示，虽然未明确第三方支付机构的相关规定，但对大型支付机构，如支付宝、财富通和银联商务，应视同商业银行管理。接近监管机关的人士表示，电缆属于物理基础，即使是阿里云也要靠物理基础，基础出故障，只能说对安全重视程度不够。但按照常理，一个机房故障，应当立即切到其他机房。原本应当是短时间完成的工作，却花费2.5小时，这让业内纷纷揣测：支付宝究竟有没有多机房备份？如果有，为什么切换花费这么久？支付宝此次故障是否另有原因？ <br>
+➜Hola VPN将千万用户变成出口节点
+https://www.solidot.org/story?sid=44226	14097
+Hola 是一个非常受欢迎的免费VPN服务，它可作为扩展安装在浏览器上，或作为一个应用在Android上使用。Hola能帮助用户绕过锁区限制，但很多人并不知道它是如何工作的。8chan 的站长Fredrick Brennan 在网站遭到来自Hola网络的多次拒绝服务攻击后<a target="_blank" href="https://8ch.net/hola.html"><u>终于知道了Hola网络的工作原理</u></a>：每一位安装Hola扩展的用户都会变成一个VPN终端，他的网络连接能成为其他Hola用户的出口节点。这就是它免费的原因，它不需要为带宽付费。问题是Hola用户变成节点是没有选择的，这不像Tor洋葱路由，Tor用户可以选择成为中继节点。Hola Networks Limited在发现它拥有一个千万用户组成的僵尸网络后开始出售这个僵尸网络的访问权，比如发动拒绝服务攻击。8chan 站长认为，Hola是他见过的最不道德的VPN服务。在8chan 站长公开此事后，Hola迅速修改了<a target="_blank" href="http://hola.org/faq#in_how_is_free"><u>它的FAQ</u></a>去澄清服务免费的真正原因，修改时间大约是在5月27日，5月26日的<a target="_blank" href="https://archive.is/tgujS"><u>快照</u></a>显示这一解释还不存在。
+➜推迟了77年的博士论文答辩
+https://www.solidot.org/story?sid=44227	17410
+102岁的老太太<a target="_blank" href="http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2015_05_26/caredit.a1500135"><u>通过了推迟77年的博士论文答辩</u></a>。这背后当然有一个不同寻常的故事。Ingeborg Syllm-Rapoport出生于德国，1930年代在汉堡大学研究白喉。1938年，25岁的Syllm申请博士学位论文答辩，但她的请求遭到了拒绝，原因是她的母亲是犹太人，是一个“杂种”。纳粹政权以种族理由禁止大学进行论文答辩。她成为数以千计的因犹太血统从德国学术界驱逐出去的学者和研究员中的一位，他们中有许多人备受折磨或死于集中营，她的教授Rudolf Degkwitz被监禁。Syllm幸运的抵达了美国，从费城的女子医科大学获得了医学学位，并建立了一个家庭。在1950年代这个家庭回到了德国。现年102岁的Syllm-Rapoport本可能仍然是一名医生，当汉堡医学院的院长Uwe Koch-Gromus听到这个故事后他决定纠正错误，安排
+Syllm-Rapoport参加论文答辩，5月13日他们在她的家中完成了一个45分钟的口试，6月9日她将正式成为M.D.-Ph.D。
+➜网民吴淦被刑事拘留
+https://www.solidot.org/story?sid=44228	19258
+官方新华社<a target="_blank" href="http://xhpfm.mobile.zhongguowangshi.com:8091/share/142725"><u>报道</u></a>，网名为“超级低俗屠夫”的福建维权人士<a target="_blank" href="https://plus.google.com/u/0/+%E5%90%B4%E6%B7%A6%E8%B6%85%E7%BA%A7%E4%BD%8E%E4%BF%97%E5%B1%A0%E5%A4%AB/posts"><u>吴淦</u></a>因涉嫌寻衅滋事罪及诽谤罪在周三被福建公安机关<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2015/05/150527_china_rights_wugan"><u>刑事拘留</u></a>。吴淦今年42岁，17岁曾在厦门一个边防站当兵，两年后复员转业，后在北京锋锐律师事务所任职。
+从2009年邓玉娇事件起，吴淦开始在网络中活跃，并展开他的所谓“杀猪”活动，关注各种社会热点事件。吴淦在5月20日被江西警方行政拘留后曾透过其律师发表声明表示，他在江西高院的抗议行动是依宪法对违法官员行使批评、监督权是行使公民正常的权利，并对南昌市公安局的行政拘留处罚决定表示不服。声明还呼吁追究江西高院院长的责任。但官方新华社的报道则指控吴淦“网上多次侮辱、诽谤他人”。
+➜Uber远程加密正被突击搜查的计算机数据
+https://www.solidot.org/story?sid=44229	24927
+加拿大《新闻报》<a target="_blank" href="http://www.lapresse.ca/actualites/justice-et-affaires-criminelles/actualites-judiciaires/201505/26/01-4872822-saisie-chez-uber-des-donnees-auraient-ete-modifiees-a-distance.php"><u>报道</u></a>（法语），上周魁北克税务局（Revenu Québe） 突击搜查了Uber加拿大办事处的计算机，在搜查过程中旧金山的Uber工程师远程加密了计算机数据。15名魁北克税务局的调查人员在5月14日搜查了Uber加拿大，寻找违反税法的证据。在大约10:40左右，一名调查人员发现被扣押的移动设备如笔记本电脑和平板远程重启。另一间办公室的一名调查人员也在同一时间发现了相同现象。Uber蒙特利尔的CEO Jean-Nicolas Guillemette称他联系了旧金山总部的工程师，被告知远程加密了数据。
+➜携程网瘫痪，传根目录被删除
+https://www.solidot.org/story?sid=44230	27286
+<div align="center"><a target="_blank" href="http://www.ctrip.com/"><u><img src="http://img.solidot.com.cn/0/747/liZLTBtcCYXw.png" align=""></u></a><br>
+<br>
+</div>
+携程旅行网服务突然瘫痪，虽然主页能正常显示，但所有功能都无法使用，会返回出错信息，如503错误码或服务不可用错误信息。疑似携程员工在社交网络上称，“某个根目录被删除了，所有节点上的业务代码都被干掉了，发布日志也没了。”如果这一说法是真的，那么可能的原因是有根目录操作权限的员工误操作，或遭到黑客攻击。目前携程旅行网还没有对此事件作出正式声明。像携程这样大型的网站如果没有备份的话是不可想象的事情。
+➜露西化石附近发现新人类祖先物种
+https://www.solidot.org/story?sid=44231	29037
+欢迎，露西的邻居。研究人员在埃塞俄比亚北部发现了<a target="_blank" href="http://www.nature.com/news/new-human-ancestor-discovered-near-fossil-of-lucy-1.17644"><u>一种新人类祖先物种的颌骨和牙齿化石</u></a>，其生存时间与南方古猿<a target="_blank" href="https://zh.wikipedia.org/wiki/%E9%9C%B2%E8%A5%BF_%28%E5%8D%97%E6%96%B9%E5%8F%A4%E7%8C%BF%29"><u>露西</u></a>相近，与露西化石的发现位置相距35公里。被取名为 Australopithecus deyiremeda的新物种生活在大约350万到330万年前，而露西和其他阿法南方古猿生活在大约370万到300万年前，两个物种之间可能有过交叉。<a target="_blank" href="http://www.nature.com/nature/journal/v521/n7553/full/nature14448.html"><u>研究报告</u></a>发表在今天出版的《自然》期刊上。颌骨和牙齿化石残骸是在2011年3月发现的，当时研究人员没有意识到其重要性。在仔细检查后他们才意识到化石属于一个新人类物种。
+➜白宫站在甲骨文一边，告诉最高法院API是受版权保护的
+https://www.solidot.org/story?sid=44232	30537
+在甲骨文与Google有关Java API是否受版权保护的争论中，美国司法部<a target="_blank" href="http://arstechnica.com/tech-policy/2015/05/white-house-sides-with-oracle-tells-supreme-court-apis-are-copyrightable/"><u>站在了甲骨文一边</u></a>。Google的Android系统一度包含了几个Java API示例文件，这些文件没有被使用也不具有真正功能，后来Google干脆把它们都移除了。但收购Sun后拥有Java所有权的甲骨文认为，Google侵犯了它的版权。2012年，一位联邦法官作出裁决，裁定API是不受版权保护的。但上诉法庭推测了这一裁决，认为API是受版权保护的。Google以及计算机科学界的许多人士都主张API不受版权保护，因为它包含了一种操作的方法或系统，允许一个程序与另一个程序互相通信。
+➜生命科学引领创新
+https://www.solidot.org/story?sid=44233	32976
+据汤森路透对全球专利的<a target="_blank" href="http://stateofinnovation.thomsonreuters.com/"><u>分析</u></a>（报告需要输入邮件）显示，生命科学产业正日渐替代科技产业，<a target="_blank" href="http://cn.reuters.com/article/2015/05/28/science-patents-idCNKBS0OD0EU20150528?sp=true"><u>成为全球创新的驱动力量</u></a>。2014年全球专利申请及批准数量达到有史以来的高点，人类的创造性达到了巅峰，这在设计无人驾驶汽车，发明新型抗癌药物以及制造仿生肢体方面都得到印证。但创新增长速度却已放缓，去年全世界的专利数量增长了3%，是自2009年以来增幅最小的一年，12个行业的科学文献出版数量下降了22%。2014年半导体专利数量减少了5%。在专利领域，中国的影响力也正在上升，并以华为、中兴以及中科院等企业和机构为领头羊。
+➜科学家称我们避免了严重臭氧损耗
+https://www.solidot.org/story?sid=44234	34267
+科学家称感谢<a href="http://zh.wikipedia.org/wiki/%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E8%AE%AE%E5%AE%9A%E4%B9%A6"><u>蒙特利尔议定书</u></a>臭氧层现在的状况良好，我们<a target="_blank" href="http://www.techienews.co.uk/9731979/thanks-to-the-montreal-protocol-we-avoided-severe-ozone-depletion/"><u>避免了严重臭氧损耗</u></a>。臭氧层空洞的增大被认为与空调等使用的氟利昂（CFC）有关，1989年1月1日生效的蒙特利尔议定书对氟氯碳化物的生产做了严格的管制规定。研究称，如果不是蒙特利尔议定书，南极的臭氧空洞会比现在大40%。论文主要作者Martyn Chipperfield教授称，最糟糕的情况已经过去了。但他们的研究<a target="_blank" href="http://news.slashdot.org/story/15/05/27/2235254/thanks-to-the-montreal-protocol-we-avoided-severe-ozone-depletion"><u>也有争议</u></a>，因为臭氧层空洞缩小和扩大与大气温度关系密切，越冷空洞越大，而过去的十年是地球最热的十年。
+➜中美科学家制造出木质绿色芯片
+https://www.solidot.org/story?sid=44235	36385
+美国威斯康星大学和成都电子科技大学的研究人员在《Nature Communications》期刊上发表<a target="_blank" href="http://www.nature.com/ncomms/2015/150526/ncomms8170/full/ncomms8170.html#auth-1"><u>论文</u></a>（开放获取）称，他们利用木材衍生材料制造出<a target="_blank" href="http://www.networkworld.com/article/2927114/servers/computer-chips-made-of-wood-promise-greener-electronics.html#tk.rss_all"><u>半导体环保芯片</u></a>。芯片具有生物可降解性，成本也远远低于传统半导体芯片。研究人员将纤维素纳米纤丝作为芯片的基质，涂上环氧树脂让表面光滑和防止加热膨胀。领导这项研究的威斯康星大学电机工程教授Zhenqiang “Jack” Ma称，传统半导体芯片的基质材料与活动层（active layer）相同，而纤维素纳米纤丝芯片只有活动层使用半导体材料。他说，商业化木质芯片将能大幅削减半导体材料的使用，“我们实际上减少了99.9%的半导体材料使用。”
+➜复旦校庆宣传片被指抄袭东京大学
+https://www.solidot.org/story?sid=44236	38863
+5月27日上海复旦大学迎来110周年校庆，官方发布宣传片《<a target="_blank" href="http://v.163.com/zixun/V8GAMA366/VAPOUGDGQ.html"><u>To My Light</u></a>》，随后有人指出此片从创意构思到细节多处与东京大学2014年宣传片《<a target="_blank" href="http://v.163.com/zixun/V8GAMA366/VAPOQD967.html"><u>Explorer</u></a>》相似，有抄袭之嫌。对此，今天复旦大学党委宣传部副部长，也是该片制片人滕育栋回应称，“我们是从校友事迹写的本子，选题不同。我们创作剧本的过程是独立的。”目前复旦大学官方认证微信号、微博<a target="_blank" href="http://www.nanzao.com/sc/national/14d9981e785a1d8/fu-dan-xiao-qing-xuan-chuan-pian-bei-zhi-chao-dong-da-xiao-fang-cheng-du-li-chuang-zuo-"><u>已经移除了此片</u></a>。
+➜SourceForge在GIMP-Win程序中捆绑第三方软件
+https://www.solidot.org/story?sid=44237	41748
+许多开源项目都远离了代码托管网站SourceForge，这些被抛弃的项目账号最终被SourceForge的雇员接管，他们将二进制程序包裹在下载器中，捆绑和推广第三方应用。开源图像编辑器The GIMP也已不再通过SourceForge分发软件，但GIMP的Windows构建版本维护者Jernej Simončič仍然将SourceForge作为一个镜像网站使用，他管理着一个SourceForge账号。但最近他发现自己的账号被SourceForge接管了，用户名被修改为sf-editor1，GIMP-Win程序<a target="_blank" href="http://arstechnica.com/information-technology/2015/05/sourceforge-grabs-gimp-for-windows-account-wraps-installer-in-bundle-pushing-adware/?comments=1"><u>被捆绑了Norton 杀毒和myPCBackup.com远程备份服务</u></a>。在SourceForge搜索sf-editor1发现，有许多知名开源项目的账号都已被SourceForge雇员接手，其中包括Apache、Firefox、Drupal 和WordPress等。
+➜完整的Oculus Rift PC需要大约1500美元
+https://www.solidot.org/story?sid=44238	42729
+Oculus CEO Brendan Iribe在Re/code 会议上<a target="_blank" href="http://arstechnica.com/gaming/2015/05/oculus-ceo-consumer-rift-will-cost-about-1500-with-a-suitable-pc/"><u>透露</u></a>，一套完整的Rift设备，包括虚拟现实显示器和驱动显示器的强大PC，大约需要1500美元。Oculus最近宣布了在2016年第一季度上市消费者版本的Rift显示器的计划，公布了驱动Rift显示器让用户体验虚拟现实的PC的推荐硬件规格（至少8GB内存，处理器至少英特尔i5-4590，显示卡至少NVIDIA GTX 970 / AMD 290，只支持Windows）。Iribe还建议在该公司对健康和安全更自信前年龄低于13岁的儿童不应该使用Rift。
+➜报告称数千中国留美学生因学术问题被开除
+https://www.solidot.org/story?sid=44239	44870
+<div align="center"><img src="http://img.solidot.com.cn/0/748/likVXFYfUXss.png" align=""><br>
+<br>
+</div>
+留学服务机构厚仁教育发表《<a target="_blank" href="http://www.wholeren.com/wp-content/uploads/2015/05/2015-WhitePaper_CN.pdf"><u>中国留美学生现状报告</u></a>（PDF）》称，去年有8000名中国学生被开除，<a target="_blank" href="http://www.nanzao.com/sc/national/14d996c78d3252e/qu-nian-8000-zhong-guo-liu-mei-xue-sheng-bei-kai-chu-ba-cheng-yin-xue-shu-wen-ti"><u>主要原因是学术问题</u></a>。其中因为学术表现差而被开除的占58%，学术不诚实的占23%，大多是因为作弊和抄袭，也有很多学生因为“文献引用不当”而被教授视为抄袭。被开除的学生并非都是“差生”。在被开除的学生中，超过60%来自美国排名前100的学校。根据该机构的数据，俄亥俄州立大学哥伦布分校、伊利诺伊大学厄巴纳-香槟分校和亚利桑那大学被开除的中国学生最多。报告中还指出，18岁至21岁的低龄中国留学生也是重灾区，很多学生因为行为失当、违反法律被开除。

@@ -1,0 +1,230 @@
+➜微软宣称IE快过Chrome和Firefox
+https://www.solidot.org/story?sid=10257	60
+微软拿世界排名前25名的网站做了一下网页载入速度测试，将自家RC版的IE8与Firefox 3.05和Chrome 1.0逐一进行比较，最后结果显示IE8的得分超过了Firefox和Chrome，微软宣称<a href="http://arstechnica.com/microsoft/news/2009/03/microsofts-own-speed-tests-show-ie-beating-chrome-firefox.ars">IE快过Chrome和Firefox</a>。<i>
+微软的测试系统是Windows 7，使用“Done（完成）”作为网页载入完毕的指示。测试的25个网站中（其中包括多家国内门户如qq.com,baidu.com,sina.com.cm,soso.com,xunlei.com,163.com,google.cn），IE8在其中12个载入时间比对手要快；Chrome 1.0第二，在9个网站中领先于其它两位；Firefox只在4个网站中胜出。有意思的是，根据微软的测试，IE8载入mozilla.com比Firefox快，而Firefox载入microsoft.com比IE8快，正好颠倒。国内的几家网站中，qq/baidu/xunlei：Chrome最快；163/google.cn：Firefox最快；soso是IE最快。
+有兴趣可下载微软的<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=cd8932f3-b4be-4e0e-a73b-4a373d85146d">测试报告</a>（PDF和XPS格式），<a href="http://www.microsoft.com/windows/internet-explorer/beta/videos.aspx?vindex=14">测试视频</a>。</i>
+➜研究发现早年看电视与哮喘风险有联系
+https://www.solidot.org/story?sid=10258	1800
+患有哮喘病的儿童数量多年来一直在逐步上升，在英国十分之一的儿童出现哮喘，相比之下，1960年代的患病比率是二十五之一。这种现象的原因尚不清楚，虽然科学家提出了多种理论，如屋内众多的室内装饰品会寄生成倍数目的尘螨。<i>
+现在Glasgow大学研究人员跟踪了1991年和1992年出生的3000多名儿童在11岁半前的<a href="http://www.sciencedaily.com/releases/2009/03/090302213822.htm">呼吸系统健康状况和看电视的习惯</a>(<a href="http://news.xinhuanet.com/world/2009-03/05/content_10950004.htm">新华网</a>)，发现原来并没有任何哮喘症状的孩子，其中6%在8年后得了哮喘。分析表明，每天看电视超过2小时的孩子与少于2小时的孩子相比，患哮喘的风险要高1倍。但是坐着看电视的习惯如何引起哮喘的原因还是说不清，研究人员认为锻炼和深呼吸能舒展胸部肌肉，缺少锻炼可能会使肺变得过度敏感。最近几年的研究显示，观看电视导致的后果包括肥胖，糖尿病，乱交，吸烟，现在又多了哮喘。</i>
+➜BBC在僵尸网络示范中劫持了22000台PC
+https://www.solidot.org/story?sid=10259	3000
+为了暴露全球网络犯罪的风险，BBC使用名为Click的程序<a href="http://news.bbc.co.uk/2/hi/programmes/click_online/7932816.stm">控制了一个低价值的僵尸网络</a>。Click示范了电脑被黑客控制的风险是如此之高。<i>
+大约有22000台电脑组成了Click的僵尸网络，该软件并不能访问被感染机器上的任何个人信息。BBC已经向被感染用户发出警告，并提出如何使系统更安全的建议。在僵尸网络的演示中，按照签署的协议，BBC实施了一次可控的拒绝服务攻击（DDoS），针对的目标是安全公司Prevx维护的备份网站。Click命令肉机向网站发出连接请求，令人惊讶的是，它仅用了60台机器就让该网站带宽超负荷。</i>
+➜像Google Maps那样导航Linux Kernel
+https://www.solidot.org/story?sid=10260	4200
+Linux Kernel的一张<a href="http://www.makelinux.net/kernel_map#sd">交互式地图</a>，你可以像Google Maps那样放大、缩小、移动，点击Kernel中的子系统、调试工具、虚拟文件交换等不同组件的详情。
+➜Firefox 3.1 Beta 3发布
+https://www.solidot.org/story?sid=10261	4800
+Mozilla发布了Firefox 3.1的<a href="http://releases.mozilla.org/pub/mozilla.org/firefox/releases/3.1b3/">第三个beta</a>(以后它要叫Firefox 3.5了)。最新的beta包括了新的地址栏，新的JavaScript引擎<a href="https://wiki.mozilla.org/JavaScript:TraceMonkey">Tracemonkey</a>，新的<a href="http://arstechnica.com/open-source/news/2009/02/mozilla-demos-impressive-firefox-31-features-at-scale.ars">HTML5特性</a>，以及许多方面的增强。Firefox 3.1 Beta 3外观看起来并无多大变化，但内部却已经翻天覆地了。
+➜GrandCentral被重新命名为Google Voice
+https://www.solidot.org/story?sid=10262	6480
+《纽约时报》<a href="http://www.nytimes.com/2009/03/12/technology/personaltech/12pogue.html?_r=1&amp;8dpc">报道</a>(搜狐的<a href="http://it.sohu.com/20090312/n262765363.shtml">中文报道</a>)，Google收购的GrandCentral已被重新命名为<a href="https://www.google.com/voice/about#">Google Voice</a>。《纽约时报》认为这项服务将革命电话业，Google Voice为每个用户分配了一个独一电话号码，统一你的所有电话号码，能自动转录语音邮件，屏蔽掉电话推销员，加强短信在通信中的重要程度。
+➜校内网修改用户条款，放弃拥有用户内容版权声明
+https://www.solidot.org/story?sid=10263	12720
+校内网悄悄的修改了极有争议性的<a href="__SLASHLINK__" sect="internet" sid="09/03/11/0312210" sn="article" tid="133">旧服务条款</a>，放弃了拥有用户内容版权的声明，但表示可以永久性的使用用户上传内容，保留删除权利。新的<a href="http://www.xiaonei.com/info/agreement.jsp">服务条款</a>称：<i>“
+用户保证和声明对其所提供的作品拥有完整的合法的著作权或完整的合法的授权可以用于其在校内上从事的活动，保证千橡公司使用该作品不违反国家的法律法规，也不侵犯第三方的合法权益或承担任何义务......对于经用户本人创作并上传到校内的文本、图片、图形、音频和/ 或视频等，校内网享有永久的非独家的使用权，同时校内网以及千橡公司的其他运营网站有权以任何形式直接或间接发布、播放、出于播放或发布目的而改编或再发行上述作品。千橡校内公司保留对其网站所有内容进行实时监控的权利，并有权依其独立判断对任何违反本协议约定的作品实施删除。千橡公司对于删除用户作品引起的任何后果或导致用户的任何损失不负任何责任。因用户作品的违法或侵害第三人的合法权益而导致千橡公司或其关联公司....遭受损失（直接的、间接的、偶然的、惩罚性的和继发的损失），用户对于千橡公司或其关联公司蒙受的上述损失承担全面的赔偿责任。 ”</i>
+据悉校内并没有就服务条款的改变<a href="http://solour.com/2009/03/12/talk-about-xiaonei-amend-the-terms/">向用户发出通知</a>，该服务条款规定，“千橡公司会在必要时修改服务条款，服务条款一旦发生变动，公司将会在用户进入下一步使用前的页面提示修改内容。如果您同意改动，则再一次激活"我同意"按钮。如果您不接受，则及时取消您的用户使用服务资格。”校内用户在讨论服务条款时还被管理员<a href="__SLASHLINK__" sect="internet" sid="09/03/12/126252" sn="article" tid="120">封杀了帐号</a>。
+➜法国警察称换用Ubuntu省下了数千万欧元
+https://www.solidot.org/story?sid=10264	14400
+一份最新<a href="http://www.osor.eu/news/fr-gendarmerie-saves-millions-with-open-desktop-and-web-applications">报告</a>称，自2004年开始采用开源软件和Ubuntu Linux系统之后，法国国家宪兵总队估计<a href="http://arstechnica.com/open-source/news/2009/03/french-police-saves-millions-of-euros-by-adopting-ubuntu.ars">省下了大约5000万欧元</a>。警察部门计划到2015年前将所有9万台工作机器都换到Linux系统。<i>
+法国国家宪兵总队从2004年开始用Ubuntu Linux发行版取代了Microsoft Windows系统，并从2005年开始在整个部门用OpenOffice.org取代了Microsoft Office，它采用的开源软件包括了Firefox和Thunderbird。宪兵总队中校Xavier Guimard称，“从Microsoft XP迁移到Vista并不会给我们带来多少好处，微软说需要重新培训用户。但是从XP迁移到Ubuntu，却已经证明很容易。两者的唯一区别是图标和游戏，而游戏并不是我们的重点。”</i>
+➜国际空间站躲避卫星碎片，宇航员躲进救援飞船
+https://www.solidot.org/story?sid=10265	18000
+为了躲避太空垃圾的可能相撞，国际空间站的宇航员星期四<a href="http://www.cnn.com/2009/TECH/03/12/space.station.evacuation/index.html">被迫疏散到</a>（新华网的<a href="http://news.163.com/09/0313/11/549H42AR0001125G.html">报道</a>）了“联盟”号飞船上。NASA的新闻稿称，来自卫星的太空碎片迫使国际空间站上的三位宇航员临时疏散到了安全的太空舱内。时间是北京时间12日24时35分，整个过程持续了10分钟。
+➜宇宙也是自然选择来的
+https://www.solidot.org/story?sid=10266	19500
+MIT的机械工程学教授<a href="http://www.rle.mit.edu/rleonline/People/SethLloyd.html">Seth Lloyd</a>在《自然物理学》杂志上称，自然选择包含在宇宙大爆炸到现在世界变化的整个过程中。以下引用格致的<a href="http://gezhi.org/blog/1516">介绍</a>：<i>
+量子力学给了自然选择丰厚的礼物。主要有五件：稳定性，可数性，信息，信息处理和随机性。自然选择包括从宇宙大爆炸到现在世界变化的整个过程......我们所知的物理定律也可能是自然选择出来的。Lee Smolin提出宇宙可能有很多个，从婴儿宇宙慢慢发展到我们这个成熟的宇宙。这些婴儿宇宙很类似，但也有小的差别。在这个过程中，有一些宇宙会被自然选择出来，因为它们的物理定律支持生命，而其它表兄弟宇宙不支持。或者通过景观(landscape)理论，应该存在10^500个不同的物理定律，都可能用于构造我们现在的这个宇宙。量子力学本身也是这些可能的物理定律之一。它之所以被自然选择出来，原因很简单，它为生命出现提供了如此之多的条件。</i>
+➜80年代以来的操作系统GUI设计进化史
+https://www.solidot.org/story?sid=10267	20700
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "70年代，施乐公司 <a href="http://en.wikipedia.org/wiki/Xerox_PARC">Xerox Palo Alto Research Center (PARC)</a> 的研究人员开发了第一个 GUI 图形用户界面，开启了计算机图形界面的新纪元，80年代以来，操作系统的界面设计经历了众多变迁，OS/2, Macintosh, Windows, Linux, Symbian OS ，各种操作系统将 GUI 设计带进新的时代。本文介绍了80年代以来各种操作系统 GUI 界面设计的进化史(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K748.aspx">完整图文版</a>)。"           第一个使用现代图形界面的个人电脑是 <a href="http://en.wikipedia.org/wiki/Xerox_Alto">Xerox Alto</a>，设计于1973年，该系统并未商用，主要用于研究和大学。
+<br> <br> <a href="http://toastytech.com/guis/altoboot1.gif"> </a> <em>Source: <a href="http://toastytech.com/guis/altoboot1.gif">toastytech.com</a> </em>
+<br> <br>
+1981-1985<br>
+Xerox 8010 Star (1981年推出)
+<br> <br>这是第一台全集成桌面电脑，包含应用程序和图形用户界面（GUI），一开始叫 <em>The Xerox Star，</em>后改名为 <em>ViewPoint， </em>最后又改名为<em> GlobalView。</em>
+<br> <br> <a href="http://toastytech.com/guis/starbitmap2.gif"> </a> <br> <em>Xerox 8010 Star, Source: <a href="http://toastytech.com/guis/starbitmap2.gif">toastytech.com</a> </em>
+<br> <br>
+Apple Lisa Office System 1 (1983)
+<br> <br>又称 Lisa OS，这里的 OS 是 Office System 的缩写，苹果开发这款机器的初衷是作为文档处理工作站。不幸的是，这款机器的寿命并不长，很快被更便宜的 Macintosh 操作系统取代。Lisa OS 几个升级包括 1983年的 Lisa OS2, 1984年的 Lisa OS 7/7 3.1。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/lisaos10"> </a> <br> <em>Apple Lisa OS 1, Source: <a href="http://www.guidebookgallery.org/screenshots/lisaos10">GUIdebook</a> </em>
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/lisaos10"> </a> <br> <em>Apple Lisa OS 1, Source: <a href="http://www.guidebookgallery.org/screenshots/lisaos10">GUIdebook</a> </em>
+<br> <br>
+VisiCorp Visi On (1984)
+<br> <br>Visi On 是为 IBM PC 开发的第一款桌面 GUI，该系统面向大型企业，价格昂贵，使用基于鼠标的 GUI，它内置安装程序与帮助系统，但尚未使用图标。
+<br> <br> <a href="http://toastytech.com/guis/vision3.html"> </a> <br> <em>VisiCoprt Visi On, Source: <a href="http://toastytech.com/guis/vision3.html">toastytech.com</a> </em>
+<br> <br> <a href="http://toastytech.com/guis/vision3.html"> </a> <br> <em>VisiCoprt Visi On, Source: <a href="http://toastytech.com/guis/vision3.html">toastytech.com</a> </em>
+<br> <br>
+Mac OS System 1.0 (1984)
+<br> <br>System 1.0 是最早的 Mac 操作系统 GUI，已经拥有现代操作系统的几项特点，基于窗体, 使用图标。窗体可以用鼠标拖动，文件与文件夹可以通过拖放进行拷贝。
+<br> <br> <a href="http://toastytech.com/guis/macos1.html"> </a> <br> <em>Apple Mac System 1.0, Source: <a href="http://toastytech.com/guis/macos1.html">toastytech.com</a> </em>
+<br> <br>
+Amiga Workbench 1.0 (1985)
+<br> <br>一经发布，Amiga 就领先时代。它的 GUI 包含诸如彩色图形（四色:黑，白，蓝，橙），初级多任务，立体声以及多状态图标（选中状态和未选中状态）
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/amigaos10"> </a> <br> <em>Amiga Workbench 1.0, Source: <a href="http://www.guidebookgallery.org/screenshots/amigaos10">GUIdebook</a> </em>
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/amigaos10"> </a> <br> <em>Amiga Workbench 1.0, Source: <a href="http://www.guidebookgallery.org/screenshots/amigaos10">GUIdebook</a> </em>
+<br> <br>
+Windows 1.0x (1985)
+<br> <br>1985年，微软终于在图形用户界面大潮中占据了一席之地，Windows 1.0 是其第一款基于 GUI 的操作系统 。使用了 32x32 像素的图标以及彩色图形，其最有趣的功能是模拟时钟动画图标。
+<br> <br> <a href="http://www.makowski-berlin.de/"> </a> <br> <em>Microsoft Windows 1.01, Source: <a href="http://www.makowski-berlin.de/">makowski-berlin.de</a> </em>
+<br> <br> <a href="http://www.makowski-berlin.de/"> </a> <br> <em>Microsoft Windows 1.01, Source: <a href="http://www.makowski-berlin.de/">makowski-berlin.de</a> </em>
+<br> <br>
+1986 - 1990
+IRIX 3 (released in 1986, first release 1984)
+<br> <br>64为 IRIX 操作系统是为 Unix 设计的，它的一个有趣功能是支持矢量图标，这个功能远在 Max OS X 面世前就出现了。
+<br> <br> <a href="http://www.osnews.com/story/1859/SGI_SPECIAL:_Introducing_the_Jewel_of_UNIX_the_64-bit_IRIX_OS"> </a> <br> <em>Silicon Graphics IRIX 3.0, Source: <a href="http://www.osnews.com/story/1859/SGI_SPECIAL:_Introducing_the_Jewel_of_UNIX_the_64-bit_IRIX_OS">osnews.com</a> </em>
+<br> <br>
+Windows 2.0x (1987)
+<br> <br>这个版本的 Windows 操作系统中对 Windows 的管理有了很大改进，Windows 可以交叠，改变大小，最大化或最小化。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/win203"> </a> <br> <em>Microsoft Windows 2.03, Source: <a href="http://www.guidebookgallery.org/screenshots/win203">guidebookgallery.org</a> </em>
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/win203"> </a> <br> <em>Microsoft Windows 2.03, Source: <a href="http://www.guidebookgallery.org/screenshots/win203">guidebookgallery.org</a> </em>
+<br> <br>
+OS/2 1.x (released in 1988)
+<br> <br>OS/2 最早由 IBM 和微软合作开发，然而1991年，随着微软将这些技术放到自己的 Windows 操作系统，两家公司决裂，IBM 继续开发 OS/2，OS/2 使用的 GUI 被称为 “Presentation Manager （展示管理）”，这个版本的 GUI 只支持单色，以及固定图标。
+<br> <br> <a href="http://pages.prodigy.net/michaln/history/os211/index.html"> </a> <br> <em>Microsoft-IBM OS/2 1.1, Source: <a href="http://pages.prodigy.net/michaln/history/os211/index.html">pages.prodigy.net</a> </em>
+<br> <br> <a href="http://pages.prodigy.net/michaln/history/os211/index.html"> </a> <br> <em>Microsoft-IBM OS/2 1.1, Source: <a href="http://pages.prodigy.net/michaln/history/os211/index.html">pages.prodigy.net</a> </em>
+<br> <br>
+NeXTSTEP / OPENSTEP 1.0 (1989)
+<br> <br>Steve Jobs 心血来潮，想为大学和研究机构设计一款完美的电脑，他的这个设想后来造就了一家叫做  NeXT Computer 的公司。
+<br> <br>第一台 NeXT 计算机于1988年发布，不过到了1989年随着 NeXTSTEP 1.0 GUI 的发布才取得显著进展，该 GUI 后来演变成 OPENSTEP。
+<br> <br>该 GUI 的图标很大，48x48像素，包含更多颜色，一开始是单色的，从1.0开始支持彩色，下图中已经可以看到现代 GUI 的影子。
+<br> <br> <a href="http://www.kernelthread.com/publications/appleoshistory/7.html"> </a> <br> <em>NeXTSTEP 1.0, Source: <a href="http://www.kernelthread.com/publications/appleoshistory/7.html">kernelthread.com</a> </em>
+<br> <br>
+OS/2 1.20 (1989)
+<br> <br>OS/2 的下一个小版本在很多方面都做了改进，图标看上去更好看，窗体也显得更平滑。
+<br> <br> <a href="http://pages.prodigy.net/michaln/history/os211/index.html"> </a> <br> <em>OS/2 1.2, Source <a href="http://pages.prodigy.net/michaln/history/os211/index.html">pages.prodigy.net</a> </em>
+<br> <br>
+Windows 3.0 (1990)
+<br> <br>到 Windows 3.0, 微软真正认识到 GUI 的威力，并对之进行大幅度改进。该操作系统已经支持标准或386增强模式，在增强模式中，可以使用640K以上的扩展内存，让更高的屏幕分辨率和更好的图形成为可能，比如可以支持 SVGA 800x600 或 1024x768。
+<br> <br>同时，微软聘请 <a href="http://en.wikipedia.org/wiki/Susan_Kare">Susan Kare</a> 设计 Windows 3.0 的图标，为  GUI 注入统一的风格。
+<br> <br> <a href="http://toastytech.com/guis/win30.html"> </a> <br> <em>Microsoft Windows 3.0, Source: <a href="http://toastytech.com/guis/win30.html">toastytech.com</a> </em>
+<br> <br> <a href="http://toastytech.com/guis/win30.html"> </a> <br> <em>Microsoft Windows 3.0, Source: <a href="http://toastytech.com/guis/win30.html">toastytech.com</a> </em>
+<br> <br>
+1991 - 1995
+Amiga Workbench 2.04 (1991)
+<br> <br>该版 GUI 包含很多改进，桌面可以垂直分割成不同分辨率和颜色深度，在现在看来似乎有些奇怪。默认的分辨率是 640x256，不过硬件支持更高的分辨率。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/amigaos204"> </a> <br> <em>Commodore Amiga Workbench 2.04, Source: <a href="http://www.guidebookgallery.org/screenshots/amigaos204">guidebookgallery.org</a> </em>
+<br> <br>
+Mac OS System 7 (released in 1991)
+<br> <br>Mac OS 7 是第一款支持彩色的 GUI，图标中加入了微妙的灰，蓝，黄阴影。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/macos70"> </a> <br> <em>Apple Mac OS System 7.0, Source: <a href="http://www.guidebookgallery.org/screenshots/macos70">guidebookgallery.org</a> </em>
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/macos70"> </a> <br> <em>Apple Mac OS System 7.0, Source: <a href="http://www.guidebookgallery.org/screenshots/macos70">guidebookgallery.org</a> </em>
+<br> <br>
+Windows 3.1 (1992)
+<br> <br>该版本的 Windows 支持预装的 TrueType 字体，第一次使 Windows 成为可以用于印刷的系统。Windows 3.0 中，只能通过 Adobe 字体管理器（ATM）实现该功能。该版本同时包含一个叫做 Hotdog Stand 的配色主题。
+<br> <br>配色主题可以帮助某些色盲患者更容易看清图形。
+<br> <br> <a href="http://www.webdesignerdepot.com/wp-content/uploads/2009/03/windows_311_workspace.png"> </a> <br> <em>Source: <a href="http://en.wikipedia.org/wiki/Windows_3.1x">Wikipedia</a> </em>
+<br> <br>
+OS/2 2.0 (1992)
+<br> <br>这是第一个获得世界认可并通过可用性与可访问性测试的 GUI，整个 GUI 基于面向对象模式，每个文件和文件夹都是一个对象，可以同别的文件，文件夹与应用程序关联。它同时支持拖放式操作以及模板功能。
+<br> <br> <a href="http://toastytech.com/guis/os220.html"> </a> <br> <em>IBM OS/2 2.0, Source: <a href="http://toastytech.com/guis/os220.html">toastytech.com</a> </em>
+<br> <br> <a href="http://toastytech.com/guis/os220.html"> </a> <br> <em>IBM OS/2 2.0, Source: <a href="http://toastytech.com/guis/os220.html">toastytech.com</a> </em>
+<br> <br>
+Windows 95 (1995)
+<br> <br>Windows 3.x 之后，微软对整个用户界面进行了重新设计，这是第一个在窗口上加上关闭按钮的 Windows 版本。图标被赋予了各种状态（有效，无效，被选中等），那个著名的“开始”按钮也是第一次出现。对操作系统和 GUI 而言，这是微软的一次巨大飞跃。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/win95"> </a> <br> <em>Microsoft Windows 95, Source: <a href="http://www.guidebookgallery.org/screenshots/win95">guidebookgallery.org</a> </em>
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/win95"> </a> <br> <em>Microsoft Windows 95, Source: <a href="http://www.guidebookgallery.org/screenshots/win95">guidebookgallery.org</a> </em>
+<br> <br>
+1996 - 2000
+OS/2 Warp 4 (1996)
+<br> <br>IBM 终于争气地推出了 OS/2 Warp 4。桌面上可以放置图标，也可以自己创建文件和文件夹，并推出一个类似 Windows 回收站和 Mac 垃圾箱的文件销毁器，不过一旦放进去进不能再恢复。
+<br> <br> <a href="http://toastytech.com/guis/os24.html"> </a> <br> <em>IBM OS/2 Warp 4, Source: <a href="http://toastytech.com/guis/os24.html">toastytech.com</a> </em>
+<br> <br> <a href="http://toastytech.com/guis/os24.html"> </a> <br> <em>IBM OS/2 Warp 4, Source: <a href="http://toastytech.com/guis/os24.html">toastytech.com</a> </em>
+<br> <br>
+Mac OS System 8 (1997)
+<br> <br>该版本的 GUI 支持默认的256色图标，Mac OS 8 最早采用了伪3D图标，其灰蓝色彩主题后来成为 Mac OS GUI 的标志。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/macos80"> </a> <br> <em>Apple Mac OS 8, Source: <a href="http://www.guidebookgallery.org/screenshots/macos80">guidebookgallery.org</a> </em>
+<br> <br>
+Windows 98 (1998)
+<br> <br>图标风格和 Windows 95 几无二致，不过整个 GUI 可以使用超过256色进行渲染，Windows 资源管理器改变巨大，第一次出现活动桌面。
+<br> <br> <a href="http://toastytech.com/guis/win98.html"> </a> <br> <em>Microsoft Windows 98, Source: <a href="http://toastytech.com/guis/win98.html">toastytech.com</a> </em>
+<br> <br>
+KDE 1.0 (1998)
+<br> <br>KDE是 Linux 的一个统一图形用户界面环境。
+<br> <br> <a href="http://ditesh.gathani.org/blog/2008/04/25/culture-matters/"> </a> <br> <em>KDE 1.0, Source: <a href="http://ditesh.gathani.org/blog/2008/04/25/culture-matters/">ditesh.gathani.org</a> </em>
+<br> <br>
+GNOME 1.0 (1999)
+<br> <br>GNOME 桌面主要为 Red Hat Linux 开发，后来也被别的 Linux 采用。
+<br> <br> <a href="http://www.visionfutur.com/img/histoire/gnome1-1.jpg"> </a> <br> <em>Red Hat Linux GNOME 1.0.39, Source: <a href="http://www.visionfutur.com/img/histoire/gnome1-1.jpg">visionfutur.com</a> </em>
+<br> <br>
+2001 - 2005
+Mac OS X (released in 2001)
+<br> <br>2000年初，苹果宣布推出其 Aqua 界面，2001年，推出全新的操作系统 Mac OS X。默认的 32x32, 48x48 被更大的 128x128 平滑半透明图标代替。
+<br> <br>该 GUI 一经推出立即招致大量批评，似乎用户都如此大的变化还不习惯，不过没过多久，他们呢就接受了这种新风格，如今这种风格已经成了 Mac OS 的招牌。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/macosx101"> </a> <br> <em>Apple Mac OS X 10.1 Source: <a href="http://www.guidebookgallery.org/screenshots/macosx101">guidebookgallery.org</a> </em>
+<br> <br>
+Windows XP (released in 2001)
+<br> <br>每一次微软推出重要的操作系统版本，其 GUI 也必定有巨大的改变，Windows XP 也不例外，这个 GUI 支持皮肤，用户可以改变整个 GUI 的外观与风格，默认图标为 48x48，支持上百万颜色。
+<br> <br> <a href="http://www.guidebookgallery.org/screenshots/winxppro"> </a> <br> <em>Microsoft Windows XP Professional, Source: <a href="http://www.guidebookgallery.org/screenshots/winxppro">guidebookgallery.org</a> </em>
+<br> <br>
+KDE 3 (released in 2002)
+<br> <br>自1.0版发布以来，KDE 有了长足的改进，对所有图形和图标进行了改进并统一了用户体验。
+<br> <br> <a href="http://www.netbsd.org/gallery/in-Action/jschauma-kde3.png"> </a> <br> <em>KDE 3.0.1, Source: <a href="http://www.netbsd.org/gallery/in-Action/jschauma-kde3.png">netbsd.org</a> </em>
+<br> <br>
+2007 - 2009 (current)<br>
+Windows Vista (released in 2007)
+<br> <br>这是微软向其竞争对手做出的一个挑战，Vista 中同样包含很多 3D 和动画，自 Windows 98 以来，微软一直尝试改进桌面，在 Vista 中，他们使用类似饰件的机制替换了活动桌面。
+<br> <br> <a href="http://technology.berkeley.edu/msvista/images/800px-Windows_Vista_Desktop.png"> </a> <br> <em>Microsoft Windows Vista, Source: <a href="http://technology.berkeley.edu/msvista/images/800px-Windows_Vista_Desktop.png">technology.berkeley.edu</a> </em>
+<br> <br>  Mac OS X Leopard (released in 2007)
+<br> <br>对于第六代 Max OS X，苹果又一次对用户界面做出改进。基本的 GUI 仍是 Aqua，但看上去更 3D 一些，也包含了 3D 停靠坞以及很多动画与交互功能。
+<br> <br> <a href="http://skattertech.com/media/2007/10/apple-os-x-leopard-screenshot.jpg"> </a> <br> <em>Apple Mac OS X 10.5 Leopard, Source: <a href="http://skattertech.com/media/2007/10/apple-os-x-leopard-screenshot.jpg">skattertech.com</a> </em>
+<br> <br>
+KDE (v4.0 Jan. 2009, v4.2 Mar. 2009)
+<br> <br>KDE 4 的 GUI 提供了很多新改观，如动画的，平滑的，有效的窗体管理，图标尺寸可以很容易调整，几乎任何设计元素都可以轻松配置。相对前面的版本绝对是一个巨大的改进。
+<br> <br> <a href="http://en.wikipedia.org/wiki/File:KDE_4.2_desktop.png"> </a> <em> <br>Source: <a href="http://en.wikipedia.org/wiki/File:KDE_4.2_desktop.png">Wikipedia</a> </em>
+<br> <br>
+鸣谢
+<ul>
+<li> <a href="http://www.guidebookgallery.org/">http://www.guidebookgallery.org/</a> </li>
+<li>
+<br> <br> <a href="http://toastytech.com/guis/index.html">http://toastytech.com/guis/index.html</a>
+</li>
+</ul>
+延伸阅读
+<br> <br> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K708.aspx">苹果的设计演化史：1977-2008</a>
+<br> <br>本文国际来源：<a href="http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/">http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+➜全球的天空正在变暗
+https://www.solidot.org/story?sid=10268	23520
+<a href="http://reversethis-moc.liamgtaoahzihs/">shizhao</a> 写道 "<a href="http://www.sciencedaily.com/releases/2009/03/090312140850.htm">ScienceDaily报道</a>了最近的一个研究说，自1973年以来，世界上大部分地区的天空的能见度降低了，其原因可能要归咎于空气中的烟灰和其它细小颗粒的浓度变高了。
+<i>研究人员对空气中悬浮颗粒浓度以及描述晴朗天空能见度的“<a href="http://en.wikipedia.org/wiki/Optical_depth">视觉深度</a>”的记录进行了<a href="http://chinese.eurekalert.org/zh/multimedia/pub/252.php?from=841">分析</a>。他们发现，1973年以来，世界上大部分地区的天空的透明度降低了。只有欧洲天空的能见度自1980年代中期开始增加。造成这一结果的原因是悬浮颗粒浓度的增大，这主要是来自石油等化石性燃料使用的增加而产生的悬浮质，特别是那些会在燃烧后释放二氧化硫的煤及其它的燃料。
+</i> <a href="http://www.aaas.org/news/releases/2009/0312sp_dimming.shtml">这里</a>可以看到自2000年至2007年间在3250个气象站所收集的全球气溶胶深度的分布。"
+➜Mozilla思考没有Google的未来
+https://www.solidot.org/story?sid=10269	27120
+Mozilla主席Mitchell Baker表示，Chrome浏览器的出现让Mozilla基金会去<a href="http://www.businessweek.com/technology/content/mar2009/tc20090311_813488.htm?campaign_id=yhoo">重新考虑在收入上对Google的依赖</a>。由于Google正主推自家的浏览器，因此到2011年Mozilla和Google签署的三年协议期满之后对方可能不会再续签，Mozilla需考虑其它的搜索引擎合作伙伴，考虑新的收入来源。<i>
+Baker说，“也许有其它搜索引擎会支付给我们更多的钱。”Google的两大主要竞争对手Yahoo!和Microsoft的MSN都在考虑之列，如果情况不佳其它小的搜索引擎也不会排除。当然新的合作伙伴不会提供一张取代Google的空白支票。预计春末在诺基亚平台上发布的Fennec，是第一个专为移动设备优化的Mozilla 浏览器。如果它能吸引到更多手机制造商和移动用户，Fennec就代表了从其它合作伙伴获得收入了另一种方式。不过Chrome的市场份额不到2%，而Firefox已超过20%，Google应该不会头脑发昏，毕竟Firefox是<a href="http://tech.slashdot.org/article.pl?sid=09/03/12/1556217">最现实的IE挑战者</a>。</i>
+➜反对者建议用“点击欺诈”抗议Google的监视
+https://www.solidot.org/story?sid=10270	30000
+3月11日Google宣布推出兴趣定向广告，它将基于cookie去<a href="http://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html">监视用户的冲浪和广告浏览习惯</a>。为了抗议Google扩大对用户隐私的侵犯，国际反广告杂志Adbusters<a href="http://www.adbusters.org/blogs/blackspot_blog/unclick_google.html">倡议</a>，呼吁所有网络用户展开不合作抵抗运动，有意使用自动化的“点击欺诈”去破坏Google的广告监控程序，迫使Google采用更积极的隐私政策。他们发布了一个GreaseMonkey脚本，能自动点击所有AdSense广告。但是在短期内，“点击欺诈”的受害者是广告投放者，Google则会获得更多收入。<i>
+脚本使用方法：1）安装<a href="http://www.mozilla.com/firefox/">Firefox</a>；2）安装<a href="https://addons.mozilla.org/firefox/addon/748">GreaseMonkey</a>（一个非常有用的插件）；3）安装<a href="http://www.micahmwhite.com/blackspot_google.user.js">Blackspot Google GreaseMonkey</a>脚本，或者如果网络比较慢的话可安装<a href="http://www.micahmwhite.com/blackspot_google_randomly.user.js">Blackspot Google Randomly</a>脚本，它会随机的点击一次广告（对Google具有欺骗性）。</i>
+➜涂鸦能保持你的注意力
+https://www.solidot.org/story?sid=10271	33600
+多年前，在达沃斯的一次峰会上，当时的英国首相托尼布莱尔与比尔盖茨、比尔克林顿和摇滚明星Bono同组讨论。会后，记者惊奇的注意到布莱尔座位附近的几张纸上覆盖了涂鸦之作，笔相家认为布莱尔在绘一个“没人理解的魔幻世界”。于是布莱尔成了抨击的对象，然而几天后唐宁街宣布那些涂鸦是比尔盖茨留下的。
+<i>
+比尔盖茨喜欢涂鸦，他不是少数派，有无数人喜欢涂鸦。根据发表在《应用认知心理学》上的一项研究，人在无聊的时候，<a href="http://www.npr.org/templates/story/story.php?storyId=101727048">涂鸦可以保持注意力</a>，防止大脑滑落到白日梦的境地。在一次无聊的谈话中，涂鸦会帮助记忆会议内容。</i>
+➜活佛取决于民主集中制
+https://www.solidot.org/story?sid=10272	36000
+谁是谁的主 写道"针对日前有海外媒体报道称达赖将不再寻求转世、转世由西藏人民决定，西藏自治区人大常委会主任列确代表表示，清朝乾隆皇帝制定的《钦定藏内善后章程二十九条》中就明确规定，达赖、班禅等大活佛的转世灵童认定必须进行金瓶掣签，或由<b>中央政府特准免于掣签</b>。<i>
+在两会结束前夕，两位西藏代表在接受新华社记者<a href="http://news.qq.com/a/20090312/002327.htm">采访</a>时表示：“达赖转世不是十四世达赖喇嘛能够定的，转世必须严格遵循历史定制、宗教仪轨、中央政府批准的三大原则。”。<a href="http://baike.baidu.com/view/121956.htm">列确</a>说“如果没有得到中央政府批准，他怎么说都是没有依据的。”不知道这条新闻被国外媒体拿去说明某些敏感问题时，外交部会不会还使用类似“<a href="http://www.zaobao.com/zg/zg090312_501.shtml">罔顾事实，在涉藏问题上对中方进行无端指责，粗暴干涉中国内政，伤害中国人民感情</a>”等词汇来回应。"</i>
+➜社会不平等对每一个人都没有好处
+https://www.solidot.org/story?sid=10273	36600
+在一本书中，英国诺丁汉大学名誉教授<a href="http://www.nottingham.ac.uk/cps/index.php?page=2.0.0.40">Richard Wilkinson</a>和约克大学<a href="http://www.york.ac.uk/healthsciences/gsp/staff/kpickett.htm">Kate Pickett</a>基于30年的研究证明：无论贫富，不平等社会对于身处其中的<a href="http://www.physorg.com/news155227685.html">几乎每一个人都没有好处</a>（<a href="http://only-perception.blogspot.com/2009/03/blog-post_3658.html">中文翻译</a>）。作者证明，几乎每种现代社会与环境问题——健康不佳、缺乏共性、生计、暴力、毒品、肥胖、精神疾病、工时超长、大量监禁的人口——更有可能发生在不平等的社会中，且对于每个人都不利。<i>
+这本名叫《<a href="http://www.amazon.co.uk/Spirit-Level-Societies-Almost-Always/dp/1846140390">The Spirit Level: Why More Equal Societies Almost Always Do Better</a> (水平仪：为何更平等的社会总是做得更好》书证明，到达某一点之后，额外的收入收获愈来愈少的额外健康、快乐与幸福感。这个问题现在与我们休戚相关。书中解释了我们如何从普遍与分裂的不正常行为的钳制中解放社会。</i>
+➜校内屏蔽关于其服务条款负面报道的日志
+https://www.solidot.org/story?sid=10274	45120
+草泥马与河蟹的战争 写道<i> "现在校内已经屏蔽了含有“校内服务条款”的相关分享，如果哪位是校内用户，你可以点击快捷分享，尝试分享 <a href="__SLASHLINK__" sect="internet" sid="09/03/12/126252" sn="article" tid="120">校内网删除用户关于校内服务条款的日志</a>，你会发现提示：<a href="http://img26.imageshack.us/img26/9969/xiaoneipingbi.png">链接不合法</a>。如果是通过校内输入网址来分享的话，你会被自动重定向到首页，而分享别的网页内容却不会发生这两种情况。"</i>
+➜地壳收缩造成了汶川大地震
+https://www.solidot.org/story?sid=10275	46800
+<a href="http://reversethis-moc.liamgtaoahzihs/">shizhao</a> 写道 "去年的<a href="http://zh.wikipedia.org/wiki/%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87">汶川大地震</a>发生在喜马拉雅山东缘，地形起伏最大的龙门山山系。《自然》杂志上<a href="http://www.nature.com/nature/journal/v458/n7235/full/nature07837.html">发表的一篇报告</a>表明，地壳收缩是龙门山和青藏高原隆起的一个主要作用力，2008年汶川地震是这一收缩过程的一个结果。
+<i>这一次地壳收缩夺走了数万人的生命，死难的学生数目则直到现在仍然神秘不可知。截至到3月12日，民间人士通过网络和实地走访已经收集了<a href="http://blog.sina.com.cn/s/blog_473f90ad0100cmhp.html">1579人</a>的死亡学生信息，他们更希望在2009年5月12日的地震周年到来之前，完善这份“汶川地震死亡学生”名单。"</i>
+➜CNN主页惊现按摩小姐广告
+https://www.solidot.org/story?sid=10276	54600
+<a href="http://www.pia8.com/">pia吧</a> 写道 "著名美国有线电视新闻网(<a href="http://edition.cnn.com/">CNN</a>)主页上竟然登有按摩MM的广告!CNN主页的右下方的广告专栏里,第一条广告,赫然写着:北京魅力小姐,24小时为您服务!
+点进链接一看,是一个英文的按摩MM服务网站.该网站提供小姐用身体为客人按摩的服务,其实就是OX服务.
+还明确的表明价码:中式按摩-xxxMB/60分钟,泰式按摩-xxx/90分总,日式按摩xxxMB/90分钟,双飞xxxMB/90分钟!
+对于CNN这种的行为,我们应该毫不留情的鄙视它!
+在洁净如新,鸟语花香,水清沙白的网络环境里,出现这种不和谐的信息是多么让人吃惊的事情!
+"           再看看我们的<a href="http://www.cctv.com/default.shtml">CCTV</a>主页上,CNN应该改到无边的羞愧!
+看看CCTV上的广告,哪有什么XO服务?我们的广告都是完达山、特步、云南白药等国内外知名产品,虽然偶尔会出个阿娇这种擦边球,但丝毫不影响我们反低俗的伟大旗帜,所谓瑕不掩瑜。我们绝不像CNN一样有奶就是娘，只要掏了钱，什么都能往广告上放！
+我们应该坚决反对CNN这种做法,在国内组织反CNN低俗活动,进行百万人大反对,直到CNN道歉为止!
+如果有一天,我们能够生活在一片和谐的网络环境中,没有低俗,没有暴力,是多么美好的一件事情啊,在一望无际的马勒戈壁上,草泥马与河蟹安详的共进晚餐,没有种族歧视,没有弱势群体,让那些低俗的东西见鬼去吧!

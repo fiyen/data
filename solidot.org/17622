@@ -1,0 +1,9 @@
+➜Google、三星和高通支持开源 RISC V 处理器
+https://www.solidot.org/story?sid=56006	49486
+RISC-V 处理器架构<a href="https://news.slashdot.org/story/18/03/31/0622248/open-source-risc-v-processor-gets-support-from-google-samsung-qualcomm-and-tesla" target="_blank"><u>得到了更多业内知名公司的支持</u></a>。包括 Google、三星和高通在内的约 80 家公司将联合为自动驾驶汽车等应用开发新的 RISC-V 芯片设计。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件，在性能相等的情况下费用以及能耗更低，因此对企业具有相当大的吸引力。西部数据和英伟达也都计划在其部分产品中使用 RISC-V，而特斯拉加入了 RISC-V 基金会考虑使用这项开源技术。Linux 内核已经加入了对 RISC-V 架构的<a href="https://www.solidot.org/story?sid=54535" target="_blank"><u>初步支持</u></a>。<br>
+➜数以千计的公司在监视你
+https://www.solidot.org/story?sid=56007	52591
+剑桥分析丑闻让 Facebook 陷入争议漩涡，但 Facebook 只是众多监视用户的企业之一。哈佛商学院教授 Shoshana Zuboff 称这种商业模式为“<a href="https://www.solidot.org/story?sid=47471" target="_blank"><u>监视资本主义</u></a>”。整个行业<a href="https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html" target="_blank"><u>比你想象的更毛骨悚然</u></a>。美国销售用户数据的企业有 2500 到 4000 家，大部分公司的名字你可能听都没有听说过。他们在你我不知情或同意的情况下将数据出售给任何愿意付费的人。Facebook 和 Google 以提供免费服务的形式来换取你的数据。Google 对你的监视可能更深入和私密，因为我们不会对搜索引擎说谎。Google 收集和保存了我们的兴趣和好奇、希望和恐惧，以及欲望和性倾向。智能手机可能是至今发明的最私密的监控设备。它持续跟踪我们的位置，它知道我们居住在什么地方，在何处工作，在何地消遣。我们每天都会不断的检查手机，它知道我们什么时候醒来什么时候睡觉，因为人人都有手机，因此它还能知道我们和谁一起睡觉。
+➜Cloudflare 宣布隐私优先的 DNS 解析服务 1.1.1.1
+https://www.solidot.org/story?sid=56008	56493
+云服务商 Cloudflare 在 4 月 1 日<a href="https://blog.cloudflare.com/announcing-1111/" target="_blank"><u>宣布了</u></a>一个隐私优先的 DNS 解析服务 1.1.1.1。我们访问任何网站或任何网络服务时都需要通过 DNS 解析，默认使用的 DNS 解析服务由你连接的网络提供，如 ISP 或 WIFI 服务提供商，这些 DNS 解析服务是没有任何隐私的，会记录你访问的任何网站。此外 DNS 污染也是最常用的审查策略。1.1.1.1 这个 IP 由 APNIC 的研究组控制，Cloudflare 与 APNIC 讨论使用 1.1.1.1 创建一个快速而且隐私优先的 DNS 解析服务。Cloudflare 承诺它不会出售任何用户数据，也不会记录用户的 IP。

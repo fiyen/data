@@ -1,0 +1,16 @@
+➜破解 Ken Thompson 的 BSD 密码
+https://www.solidot.org/story?sid=62205	2275
+派生自 UNIX、有 40 多年历史的 BSD 称得上是古老的操作系统了，用今天的标准看它的安全性不会有多高。2014 年，Leah Neukirchen 从 BSD3 源码树中发现了密码文件<a href="https://github.com/dspinellis/unix-history-repo/blob/BSD-3-Snapshot-Development/etc/passwd" target="_blank"> /etc/passwd</a>，包含了 UNIX/BSD 早期缔造者和开发者如 Dennis Ritchie、Ken Thompson、Brian W. Kernighan、Steve Bourne 和 Bill Joy 等人的密码。这些密码使用了 Descrypt 哈希算法加密，在 40 年前这种
+算法是当时最先进的哈希加密算法了，但今天早已过时，Neukirchen 也很轻松的把大部分密码都破解了出来：Dennis Ritchie 的密码是 dmac（他的中间名字是 MacAlistair），Eric Schmidt 的密码是 wendy!!（他妻子的名字），Stephen Bourne 的密码就是 bourne，Kernighan 的密码是 /.,/.,。但还有几个人的密码他没能破解，其中之一是 Ken Thompson。Neukirchen 在  <a href="https://www.tuhs.org/">The Unix Heritage Society</a> 邮件列表上<a href="https://inbox.vuxu.org/tuhs/87bluxpqy0.fsf@vuxu.org/" target="_blank"><u>发帖</u></a>请求其他人帮忙破解。10 月 9 日，Nigel Williams <a href="https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html" target="_blank">破解了这个密码</a>，他使用 AMD Radeon Vega64 显卡运行 hashcat 程序耗时四天多的时间将其破解。Ken Thompson 使用了一个不同寻常的密码——p/q2-q4!，这是他喜爱的国际象棋游戏一种<a href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._d4" target="_blank"><u>常用开局</u></a>的描述记数法。
+➜Adobe 宣布会向委内瑞拉用户退款
+https://www.solidot.org/story?sid=62206	23493
+Adobe 本周一突然宣布，以遵守特朗普 <a href="https://www.treasury.gov/resource-center/sanctions/Programs/Documents/13884.pdf" target="_blank">3884 号</a>行政命令为由宣布删除所有委内瑞拉用户账号，并拒绝退款。特朗普的行政命令针对的是委内瑞拉政府和政府相关联人士，并没有禁止美国公司或个人与任何委内瑞拉人有业务往来。Adobe 的做法引发了广泛关注。现在，它<a href="https://arstechnica.com/tech-policy/2019/10/adobe-backtracks-will-refund-customers-after-canceling-their-accounts/" target="_blank"><u>改变了多个决定</u></a>：宣布会向委内瑞拉用户退款，但仍然会关闭委内瑞拉用户的账号，而免费的 <a href="https://www.behance.net/">Behance</a> 的社交媒体平台在 10 月 29 日之后会继续向委内瑞拉用户开放。委内瑞拉用户仍然需要在 10 月 28 日前下载内容。
+➜八成日企与华为继续合作
+https://www.solidot.org/story?sid=62207	24982
+特朗普政府今年初对华为实施了出口限制，而与华为有业务往来的日企有八成继续合作。日经<a href="http://cn.nikkei.com/industry/management-strategy/37582-2019-10-11-05-00-20.html" target="_blank"><u>调查了 </u></a>30 家向华为提供零部件的日本企业和约 20 家从华为采购智能机等设备的日本企业。没有 1 家供货方企业以华为被纳入“实体清单”为由与其完全中断交易。但有一部分企业停止使用和销售华为制造的产品，比如 NTTdocomo 决定暂不采用华为的 5G 智能手机。除了部分不公开交易状况的企业外，约八成日企维持了与华为的合作。
+➜Tim Cook 为下架 HKmap.live 辩护
+https://www.solidot.org/story?sid=62208	29285
+在中国官媒批评苹果“为暴徒‘护航’”之后，苹果<a href="https://www.solidot.org/story?sid=62196">下架了</a>显示香港交通状况和警察出没地点的应用 HKmap.live，理由是“ HKmap.live 的使用已危害到执法人员和香港居民。”此举再次招致了广泛的批评。苹果 CEO Tim Cook 在一份给雇员的内部备忘录中<a href="https://apple.slashdot.org/story/19/10/10/212202/tim-cook-defends-decision-to-remove-hong-kong-maps-app-in-memo" target="_blank"><u>为下架 HKmap.live 辩护</u></a>，称过去几天，苹果从 Hong Kong Cybersecurity and Technology Crime Bureau 和用户收到可靠消息，该应用被恶意用于对个别警官实施暴力行为，并在无警察在场的情况下伤害个人和破坏财产。Cook 还在备忘录中指出该应用违反了当地法律。他称，下架该应用的决定并非轻松做出的，国际和国家的争论将让所有人不知所措，就下架 HKmap.live 一事而言，苹果进行了全面审查，相信这一决定最有利于保护用户。
+➜SpaceX 载人飞船的首次有人飞行计划在 2020 年第一季度
+https://www.solidot.org/story?sid=62209	46401
+NASA 局长 Jim Bridenstine <a href="https://www.reuters.com/article/us-space-exploration-spacex/nasa-aims-for-first-manned-spacex-mission-in-first-quarter-2020-idUSKBN1WP1CS"><u>表示</u></a>，如果一切按计划进行 SpaceX 载人飞船 Crew Dragon 将在明年第一季度做好首次载人轨道飞行的准备。这一时间表意味着在 Crew Dragon 飞船地面测试发生爆炸和重入降落伞系统存在技术挑战之后，NASA 相信 SpaceX 正让项目重回正轨。NASA 局长是在参观 SpaceX 加州总部之后对记者发表说这番话的。NASA 和 SpaceX 之前计划是在 2019 年进行 Crew Dragon 的载人飞行测试。最新的时间表取决于在年底前进行的一系列系统测试，其中包括在火箭发生故障时保护宇航员安全的飞行中止系统。

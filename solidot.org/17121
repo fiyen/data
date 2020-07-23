@@ -1,0 +1,54 @@
+➜中国公司在数十万部Android 手机上安装了秘密后门
+https://www.solidot.org/story?sid=50382	7932
+安全公司 Kryptowire 从美国销售的低端 Android 手机固件中<a href="http://www.kryptowire.com/adups_security_analysis.html" target="_blank"><u>发现了一个后门</u></a>，会将用户的大量私人信息发送到提供固件的中国公司服务器上，发送的数据包括了手机号码、位置数据、短信内容、呼叫信息、安装和使用的应用等等。提供固件的上海广升信息技术有限公司声称是失误，否认为中国政府收集情报，声称它是一家私人公司。上海广升自称它的软件运行在全球超过7亿台设备上，包括手机、平板和车载娱乐系统，它的软件被华为和中兴的手机使用，也用于美国亚马逊和百思买售价50美元的BLU R1 HD廉价Android智能手机。广升声称软件的监视功能是为中国市场设计的，以帮助中国手机制造商监视用户行为，不小心包含在美国销售的BLU设备中。后门包含在固件的OTA更新软件中，它以JSON格式向广升的大数据服务器发送数据，这些服务器的域名包括了 bigdata.adups.com、bigdata.adsunflower.com、bigdata.adfuture.cn和bigdata.advmob.cn。BLU表示，其12万部手机受到影响，公司已更新了软件，删除了这个功能。《纽约时报》<a href="http://cn.nytimes.com/world/20161116/china-phones-software-security/" target="_blank">报道称</a>，这个问题显示了处在整个技术供应链中的公司如何能够在制造商或用户知情或不知情的情况下损害隐私。它也让人看到了中国公司——进而延伸到中国政府——可以监视手机的一种方式。多年来，中国政府一直在使用各种方法来过滤和跟踪互联网的使用，监视在线对话。政府要求在中国经营的技术公司遵守严格的规则。据广升提供的文件，这款软件是根据一个未指明的中国制造商的要求编写的，该制造商希望软件有存储通话记录、短信消息和其他数据的能力。广升说，中国公司使用这些数据提供客户支持。美国国土安全部发言人Marsha Catron说，国土安全部“最近获悉了Kryptowire发现的问题，正在与我们的公共和私营部门合作伙伴一起确定适当的缓解策略。”
+➜Firefox 50.0 发布
+https://www.solidot.org/story?sid=50383	8467
+Mozilla 发布了桌面版和移动版的<a href="https://www.mozilla.org/en%2DUS/firefox/50.0/releasenotes/" target="_blank"><u>Firefox 50.0</u></a>。主要新特性<a href="https://news.slashdot.org/story/16/11/15/2040246/mozilla-releases-firefox-50" target="_blank"><u>包括</u></a>：在更多支持 Widevine WebM EME（加密媒体扩展）的网站不使用插件播放视频；改进SDK扩展性能；加入可执行文件下载保护；加入搜索页面中的某个单词的选项；更新快捷键，按下Ctrl+Tab根据最新使用次序循环切换标签；引入更多emoji文字；在提供不安全密码输入框的页面显示锁图标删除线；以及修正bug和其它开发者相关的<a href="https://developer.mozilla.org/zh-CN/Firefox/Releases/50#Changes_for_Web_developers" target="_blank"><u>改变</u></a>。
+➜中国消费者协会要求苹果调查手机异常关机
+https://www.solidot.org/story?sid=50384	12124
+官方的消协发表<a href="http://www.cca.org.cn/zxsd/detail/27056.html" target="_blank"><u>声明</u></a>，“近期，中国消费者协会陆续接到消费者反映自己使用的iphone6和iphone6s系列手机在仍有50%-60%电量的情况下自动关机、系统升级后自动关机情况仍存在、环境较冷甚至室温时自动关机、自动关机后不连接充电器无法开机等现象。以上问题，媒体也已经有所报道。鉴于苹果iphone6和iphone6s系列手机在中国有相当数量的消费者，且同一问题反映人数较多，中国消费者协会已经向苹果（中国）有限公司就iphone6和iphone6s系列手机异常自动关机问题进行查询，中消协将关注此事的进一步发展，维护消费者合法权益。”有人怀疑这些手机是假冒的，但有多位美国用户表示他们遭遇了<a href="https://apple.slashdot.org/story/16/11/15/1643254/chinese-consumer-group-has-asked-apple-to-investigate-a-considerable-number-of-iphone-shutdowns" target="_blank"><u>同样的问题</u></a>。
+➜国际空间站常驻人员将从6人减少到5人
+https://www.solidot.org/story?sid=50385	14095
+从2009年5月29日起，国际空间站的常驻人口一直保持在6人。但从明年3月起其常驻人口<a href="http://arstechnica.com/science/2016/11/international-space-station-crew-to-downsize-in-early-2017/" target="_blank"><u>将从6人减少到5人</u></a>，原因是俄罗斯宇航局想要削减费用，它决定减少驻扎在空间站的俄罗斯宇航员人数，减少货运飞船的发射次数。NASA周二宣布，明年3月的远征队Expedition 51/52只包含两名宇航员：NASA的 Jack Fischer 和俄罗斯的 Fyodor Yurchikhin，加上空间站现有的三名宇航员 Peggy Whitson、Thomas Pesquet 和 Oleg Novitskiy，总人数减少到了5人。俄罗斯宇航局表示减员是暂时性的，但没有说明何时将会恢复满员。NASA及其合作伙伴已经签署协议支持空间站至2024年甚至2028年，但俄罗斯则想在不迟于2024年前终止合作。<br>
+➜Shazam从不关闭你的麦克风，即使你关闭了应用
+https://www.solidot.org/story?sid=50386	17400
+音乐搜索服务<a href="http://www.shazam.com/zh/company" target="_blank"><u>Shazam</u></a>被发现在它自己被用户关闭的情况下也不关闭用户设备上的麦克风，它一直在后台监听麦克风传来的声音。Shazam支持<a href="https://itunes.apple.com/us/app/shazam-discover-music-artists/id284993459?mt=8" target="_blank"><u>Mac</u></a>、PC和智能手机如<a href="https://play.google.com/store/apps/details?id=com.shazam.android&amp;hl=zh-CN" target="_blank"><u>Android</u></a>，每月活跃用户超过1亿，安装在超过5亿设备上。安全研究员Patrick Wardle开发了一个软件 OverSight，设计在应用使用摄像头和麦克风时警告用户。他收到来自一位用户的电子邮件，称Shazam应用在关闭的情况下仍然在监听麦克风。他怀疑自己的软件可能发出了错误的警报，但在逆向工程 Shazam 应用分析其代码后他发现<a href="https://objective-see.com/blog/blog_0x13.html" target="_blank"><u>Shazam 从不停止监听</u></a>。Shazam的副总裁James Pearson<a href="https://motherboard.vice.com/read/shazam-keeps-your-macs-microphone-always-on-even-when-you-turn-it-off" target="_blank"><u>否认存在隐私问题</u></a>，原因是除非用户激活应用它监听的音频信息不会进行处理，声称如果不持续监听麦克风应用将需要更长的时间初始化麦克风然后开始缓冲处理音频，这会导致更糟糕的用户体验。
+➜中国科学家完成首次CRISPR人体试验
+https://www.solidot.org/story?sid=50387	26815
+四川大学华西医院肿瘤医生 Lu You 领导的一个团队于10月28日<a href="http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988?WT.mc_id=TWT_NatureNews" target="_blank"><u>完成了</u></a>CRISPR–Cas9基因编辑技术的首次人体试验。Lu的人体试验在今年7月<a href="http://www.solidot.org/story?sid=49043" target="_blank"><u>获得了</u></a>华西医院伦理检查委员会的批准，原计划在8月进行，后推迟到10月，原因是培育和增殖细胞所需的时间比预计的更长。研究人员从患有侵袭性肺癌的病人血液中移除免疫系统的T细胞，然后使用CRISPR–Cas9技术关闭编码蛋白质PD-1的基因。PD-1充当了细胞产生免疫反应的检查器，防止T细胞被激活攻击健康细胞。研究人员随后培育编辑后的细胞，增加其数量，最后重新注入到患者体内。他们希望没有PD-1基因后免疫细胞将能攻击和打败癌症。Lu称实验进展顺利，患者将会接受第二次注射，但以为病人保密为由拒绝提供细节。他的研究团队计划使用同样的技术治疗10名患者，每名患者都将接受3或4次注射。病人将被监视6个月，以观察是否会导致严重不良反应。
+➜中国再次提倡网络主权
+https://www.solidot.org/story?sid=50388	27144
+《华尔街日报》<a href="http://cn.wsj.com/gb/20161116/tec143415.asp" target="_blank"><u>报道</u></a>，中国政府在浙江乌镇主办的互联网大会开幕式上，中国国家主席习近平呼吁使全球互联网治理体系更加公正合理。此次大会意在推介中国对互联网的替代性愿景。习近平在周三开幕式上<a href="http://china.caixin.com/2016-11-16/101007964.html" target="_blank"><u>发表视频讲话称</u></a>，中国将坚持网络主权。网络主权指的是各国对本国互联网拥有绝对控制权。中国此前颁布的新网络安全法引发了美国行业组织的抗议。美国科技公司仍积极参与此次大会，来自Facebook、微软、IBM、英特尔和特斯拉等公司的高管以及中国大部分主要科技公司的CEO都在本周演讲嘉宾名单中。
+➜Super Mario Run将于12月15日发布，完整版售价10美元
+https://www.solidot.org/story?sid=50389	29142
+任天堂<a href="https://www.nintendo.co.jp/corporate/release/en/2016/161115.html" target="_blank"><u>宣布</u></a>，第一款马里奥手游 Super Mario Run 将于12月15日在iPhone和 iPad设备上发布，需要iOS 8以上版本。它没有采用流行的微交易模式，而是玩家可以免费试玩部分游戏模式，一次性支付10美元可以解锁完整版本。游戏将同时在全世界151个国家和地区发布，其中包括香港、澳门和台湾，但不包括中国大陆。中国大陆<a href="http://www.solidot.org/story?sid=48865" target="_blank"><u>对手游的审查</u></a>非常严厉。游戏支持的语言包括了英语、日语、德语、法语、西班牙语、葡萄牙语、意大利语、荷兰语、俄罗斯语和繁体中文。Android用户不用太沮丧，任天堂承诺将会在未来某个时间发布Android版本。
+➜在致命事故发生37年后，俄罗斯生物武器被破解
+https://www.solidot.org/story?sid=50390	30163
+1979年4月初，一场神秘的瘟疫飘过苏联城市Sverdlovsk（现在的名字叫叶卡捷琳堡），至少66人和未知数量的动物在感染不知名的疾病后迅速死亡。苏联当局将此事归罪于黑市销售的污染肉，但1992年一位哈佛研究人员的调查发现了真正的杀手：苏联在该市的秘密生物武器工厂Compound 19不小心释放出的炭疽菌胞子。这起事故是历史上最严重的吸入炭疽疫情之一。但有关这起事故的诸多细节仍然模糊不清。比如Compound 19之类的生物武器工厂本应该在国际生物武器公约达成后的1975年关闭，但Sverdlovsk的事故显示苏联秘密的生物武器研究仍然持续了数十年。苏联叛逃者在1990年代披露，数万科研人员参与了针对美国等目标的生物武器研究。现在，在Sverdlovsk致命事故发生37年后，科学家<a href="http://arstechnica.com/science/2016/11/decades-after-deadly-lab-accident-a-secret-russian-bioweapon-decoded/" target="_blank"><u>公布了</u></a>被无意中释放出的炭疽菌株的完整基因组系列，<a href="http://mbio.asm.org/content/7/5/e01501-16" target="_blank"><u>研究结果</u></a>发表在《mBio》期刊上。苏联生物武器蓝图的公布将让科学家更容易识别致命病菌及其近亲，假如它们再次被释放的话。
+➜加拿大试验向穷人提供基本收入
+https://www.solidot.org/story?sid=50391	33278
+加拿大安大略省将在2017年<a href="http://bigthink.com/natalie-shoemaker/canada-testing-a-system-where-it-gives-its-poorest-citizens-1320-a-month" target="_blank"><u>试验</u></a>向穷人每月提供1320元的基本收入。前参议员、特别顾问Hugh Segal相信取代福利制度的基本收入将提供减轻贫困的一种可行之路，他认为福利制度严重的贬低人格。他认为试验将提供基本收入是否是解决贫困的真正证据，给出有关基本收入是否能提供一种更有效、更低侵入性和更少蒙受耻辱的方法的问题答案。
+➜苹果的最新产品是300美元的硬件设计图片书
+https://www.solidot.org/story?sid=50392	35913
+<div align="center"><img src="http://img.solidot.org/0/957/liBl3hnXnD8g.jpg" height="301" width="400" align=""><br>
+</div>
+<br>
+苹果的<a href="http://arstechnica.com/apple/2016/11/apples-latest-product-is-a-300-picture-book-of-its-hardware-designs/" target="_blank"><u>最新产品</u></a>是一本最高售价300美元的硬件设计图片书《<a href="http://www.apple.com/newsroom/2016/11/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html" target="_blank"><u>Designed by Apple in California</u></a>》。这本书和苹果的其他产品类似，有两种大小：10.20" x 12.75"的版本售价199美元，13" x 16.25"的版本售价300美元。图片书只涵盖了苹果一部分硬件产品的设计，确切的说这本书主要是包含苹果首席设计官Jonathan Ive爵士的产品设计，从1998年的 iMac到2015年的Apple Pencil。Jony Ive目前仍然是苹果的执行官，但已经交出了日常管理责任。这本书可能更适合在苹果商店展示。
+➜ICQ诞生二十周年
+https://www.solidot.org/story?sid=50393	38659
+曾经风靡世界的即时通讯软件ICQ<a href="https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.3h82t78f5" target="_blank"><u>迎来了二十年岁生日</u></a>。ICQ的第一个版本由以色列的四名高中生在1996年11月15日发布，这个版本非常简单，只能用于交换文字信息，客户进行通信必须连接icq.mirabilis.com服务器上的UDP 4000端口。到了一年之后的1997年12月，ICQ的用户数突破了500万，日活跃130万，同时在线人数超过30万，这些数字相比今天的大型社交网络也许相去甚远，但需要注意一个背景：当时还没有宽带，只能拨号联网。到了1998年，ICQ的用户数每三周增长一百万，ICQ 98加入了微博客功能。1998年AOL以4.07亿美元收购了ICQ。但ICQ的发展没有达到AOL的期望，在2007年到2010年之间ICQ被AOL放弃陷入了停滞。2010年Mail.Ru Group收购了ICQ，新版本开始继续推出。它逐渐加入了大量其它功能，最新加入的功能是端对端加密，以及将简短语音转译成文字。
+➜Google云端平台将提供云端GPU
+https://www.solidot.org/story?sid=50394	40609
+GPU执行某些任务时的运算速度远快于CPU，Google云端平台官方博客<a href="https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html" target="_blank"><u>宣布</u></a>将从2017年初开始提供新的云端GPU服务。Google称，复杂医学分析、金融计算、地震/地下探测、机器学习、视频渲染、转码和科学模拟等将受益于GPU提供的高并行计算能力。Google云端提供的GPU包括了 AMD FirePro S9300 x2、NVIDIA Tesla P100 和 K80 GPU。云端GPU将基于分钟收费。Google举例称，创业公司MapD 的测试结果显示，对12亿纽约出租车数据集执行标准的分析查询，GPU实例的速度85倍于CPU实例。
+➜希捷 8TB 硬盘的可靠性出色
+https://www.solidot.org/story?sid=50395	42886
+<div align="center"><img src="http://img.solidot.org/0/958/liwrGEFCLNQpk.jpg" height="388" width="450" align=""><br>
+</div>
+<br>
+提供云备份服务的BackBlaze <a href="https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2016/" target="_blank"><u>公布了</u></a>最新的硬盘产品故障率报告。BackBlaze 使用了 67,642 块硬盘储存了近300PB的数据。BackBlaze对希捷的产品有偏爱，原因是希捷的产品便宜又供应充足。它在最近用8TB的希捷硬盘替换了2TB的 HGST 和 西部数据硬盘，结果显示对希捷的偏爱得到了好的回报：8TB希捷硬盘的年化故障率只有1.6%，与被替换的2TB HGST故障率相同，远好于西部数据的8.2 %。HGST是西部数据的子公司，它的硬盘可靠性长期以来表现<a href="http://www.solidot.org/story?sid=48281" target="_blank"><u>最为出色</u></a>。
+➜科技业繁荣未能创造大量就业
+https://www.solidot.org/story?sid=50396	44898
+美国过去15年的科技革命带来了谷歌搜索、Facebook社交、iPhone应用、Twitter和亚马逊网购。然而这场科技革命<a href="http://cn.wsj.com/gb/20161116/tec174852.asp" target="_blank">却未能创造大量就业</a>。截至去年底，谷歌母公司Alphabet以及Faceboo的员工数量总计74,505人，较微软员工数量少三分之一左右，而它们的市值之和是微软的两倍。提供图片共享服务的Instagram在2012年被Facebook以10亿美元收购时只有13名员工，Facebook在2014年以190亿美元收购WhatsApp时该公司只有55名员工。经济学家称这一现象为“偏重技能的技术变革”。增长的好处被为数不多的拥有技能和运气的人获得，这些人最能利用新技术。
+➜印度废钞令电子支付公司受益
+https://www.solidot.org/story?sid=50397	45312
+当印度86%的现钞（以价值计）一夜之间将作废的爆炸性新闻传出两天后，电子支付公司Paytm在若干家全国性报纸上打了整版的广告。广告上写着，“Paytm祝贺尊敬的总理纳伦德拉•莫迪先生做出了印度独立以来的金融史上最大胆的决定！”，并附了一张莫迪面带微笑的全尺寸照片。考虑到银行门外蜿蜒排起的数百米长队，以及较为贫穷的劳动者在抱怨没法付款购买食品，这则广告受到了猛烈批评。但该广告也凸显出，莫迪的决定<a href="http://www.ftchinese.com/story/001070176" target="_blank"><u>将如何提振</u></a>印度发展极其迅速的金融科技企业。Paytm称，消息公布以来已有400万人开始使用Paytm钱包。该公司网站的流量飙升了七倍，其应用下载次数增加了三倍。其竞争对手MobiKwik遇到的情况与之类似：应用下载次数增加了两倍，虚拟钱包中充入的资金增加了近20倍。

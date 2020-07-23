@@ -1,0 +1,32 @@
+➜Mini/轻量级 Web 服务器实现
+https://www.solidot.org/story?sid=3382	1320
+<a href="http://www.interma.cn/">interma</a> 写道 <i>"在<a href="http://www.ibm.com/developerworks/cn/web/wa-ltwebserv/index.html?ca=drs-cn">DeveloperWorks</a>的一篇文章中介绍了很多轻量级Web服务器实现，其中许多都非常好玩，例如：<a href="http://kernux.sourceforge.net/">Kernux</a>，一个Linux内核模块，它实现了一个HTTP守护进程；<a href="http://www.sourcefiles.org/Internet/WebServers/Mini_Servers/">mattows</a>，支持CGI，只有600行C代码，学习网络编程的好示例，其它等等。"</i>
+➜透视FAA新的基于GPS的空中交通控制系统
+https://www.solidot.org/story?sid=3383	1860
+据波音空客的说法，未来二十年中国要增加数千架飞机，一个庞大的市场，也是对航空控制的一个挑战。目前空中交通控制系统依旧是基于陈旧的雷达定位，这套系统已经无法满足日益增长的飞机数量的需求，面临“崩溃”。FAA（美国联邦航空局）正在阿拉斯加航班737上<a href="http://www.popularmechanics.com/science/air_space/4219569.html">测试基于GPS的新控制系统</a>。雷达大约能在半分钟内完成定位，而称为ADS-B 的GPS定位技术能实时将飞机位置告诉航空控制员和飞行员。采用GPS控制系统好处不言而喻，飞机能沿着更直的路线飞行，乘客会发现延迟情况减少了，航空公司也会因此节省燃料。FAA计划在未来20年内逐布推广这套系统，预计将花费400亿美元。美国人还在争论钱出自何处。
+➜YouTube的架构扩展
+https://www.solidot.org/story?sid=3384	16260
+世界上最受欢迎的视频网站YouTube每天的流量是惊人的，经常去浏览的人应该很熟悉YouTube的“维护通知”。很多人肯定对网站的架构很好奇，上个月在西雅图召开的<a href="http://www.google.com/events/scalability_seattle/">扩展性技术研讨会</a>上，YouTube的技术主管Cuong Do就此作了一个演讲，下面内容引用自相关的<a href="http://www.dbanotes.net/opensource/youtube_web_arch.html">中文介绍</a>。<i>
+YouTube大部分代码都是用Python开发，用MySQL存储元数据--用户信息，Web服务器部分是Apache，用FastCGI模式。视频内容则用<a href="http://www.lighttpd.net/">Lighttpd</a>。视频的缩略图(Thumbnails)给服务器带来了很大的负担。每个视频平均有4个缩略图，Web页面上更有多个，每秒钟带来的磁盘 IO请求太大。技术人员启用了单独的服务器群组来承担压力，并且针对 Cache和OS做了部分优化。另一方面，缩略图请求的压力导致 Lighttpd 性能下降。通过 Hack Lighttpd 增加更多的 worker 线程在很大程度解决了问题。而最新的解决方案是起用了Google的 BigTable。</i>
+➜论坛讨论天气被指散布谣言
+https://www.solidot.org/story?sid=3385	23040
+<a href="http://nings.cn/">nings</a> 写道 <i>"济南暴雨受灾后，网友“红钻帝国”因为发帖“包含有人死亡的虚假信息，营造了暴雨过后的恐怖气氛”而遭举报，<a href="http://news.163.com/07/0725/10/3K86A2E600011229.html">被警方治安拘留</a>。济南当地媒体报道称，被拘留的网友姓李，被拘留原因是“恶意散布谣言，意图在群众中制造恐慌气氛，性质较为恶劣。”拘留事件发生后，该论坛出现一条新帖《7·18济南下雨了吗？没有吧！》，跟帖者大都"表示"没有下过。"</i>
+➜我为什么要离开：Linux kernel开发者Con Kolivas
+https://www.solidot.org/story?sid=3386	23220
+Con Kolivas是一位杰出的Linux kernel开发者和坚定的Linux桌面支持者。但是他现在却离开了，为何？
+Con Kolivas<a href="http://apcmag.com/6735/interview_con_kolivas">接受了APCMag.com的采访</a>，探讨了硬件和软件市场，Linux kernel在个人电脑上面临的问题，以及<a href="http://linux.slashdot.org/linux/07/07/24/1432245.shtml">离开的原因</a>。<i>
+在白天，Con Kolivas是墨尔本一家医院的麻醉师，业余时间他忙着为Linux kernel添砖加瓦。他专注于改进kernel在桌面上的执行性能。他为Linux kernel编写的补丁（标记-ck）给很多人留下了深刻影响。谈到离开的原因，他解释了Linux在桌面领域的失败及微软如何成功的摧毁了个人电脑领域的创新。</i>
+➜如何为FPS游戏编故事
+https://www.solidot.org/story?sid=3388	30360
+第一人称射击游戏需要故事情节吗？一些愤世嫉俗的人也许会认为不需要，当然如果特指Quake或Doom之类的游戏这没什么问题，但对著名的剧情类FPS游戏《半条命》系列（Half-Life）和《超世纪战警》（Chronicles of Riddick）的粉丝来说没有故事情节是肯定要受到一致谴责的。<a href="http://www.bit-tech.net/gaming/2007/07/23/writing_for_the_lcd__fps_games/1">如何为FPS游戏写一个吸引人的故事</a>？那就来听听游戏剧作家们是怎么做的，Martin Lancaster，是《孤岛危机（Crysis）》故事的作者/设计者； Rob Yescombe，是《Haze》等游戏的作者。<i>
+“在Quake诞生的时代，没有故事并不重要，因为它本身就足够令人震撼了；但是随着技术的发展，如果没有故事情节的串联游戏是吸引不了玩家的。图画和音乐艺术有着悠久的历史，电脑游戏仅仅只出现二十多年，直到最近才被认为具有互动艺术价值。<br>
+一个游戏作家真正开始着手可能要等到艺术设计团队考虑成熟，确定能实现的游戏外观和细节会才会加入进去，经常会出现不同阶段由不同的人编写故事。设计团队有时会自己完成游戏的对话和说明。<br>
+设计者或剧作家第一考虑的是让故事显得真实。如果主角是位沉默寡言者（半条命的主角弗里德曼就是），故事就有点难编，剧作家会用一些独白来弥补。<br>
+当前FPS游戏的一个潮流是章节式故事，像《半条命2：第一章》，这种模式能为游戏添加更多的悬念，这也能为游戏中不同区域创造更多的分支情节。<br>
+游戏还有一个难以处理的主题就是romance和爱情，怎么在第一人称视角下描写亲吻？《半条命2：第一章》里的阿莱克斯用拥抱弗里德曼这种方式来处理了这一难题。</i>
+➜维基百科修正《大英百科全书》错误
+https://www.solidot.org/story?sid=3387	32220
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "维基百科的工作模式一直颇受争议，但是没有人会怀疑维基百科具有证明“<a href="http://en.wikipedia.org/wiki/Wisdom_of_crowds">群众的智慧</a>”这一名言有效性的潜力。由专家编辑的、极具权威性的《大英百科全书》，<a href="http://en.wikipedia.org/wiki/Wikipedia:Errors_in_the_Encyclop%C3%A6dia_Britannica_that_have_been_corrected_in_Wikipedia">已被发现存在许许多多的错误</a>，维基百科专门建立了页面来收集相关的错误信息，从比尔克林顿的生日到数学上著名的NP问题的定义诸如此类。"
+➜Windows 7：应避免成为另一个Vista
+https://www.solidot.org/story?sid=3389	35580
+OS News上的一篇文章详细讨论了微软应该怎样做才能避免让Windows 7成为另外一个Vista。Vista是个庞然大物，除了增加的许多新功能外，它的体积也在膨胀，bugs也很多，还存在严重的兼容性问题。<a href="http://slashdot.org/articles/07/07/24/1330217.shtml">作者建议微软将Windows一分为二</a>。下一代的Windows 7依旧是建立在成熟的Windows NT kernel上，目前Windows NT，2000，XP，Server 2003，和Vista都用的是NT内核，但用户界面将是全新的，用虚拟机提供向后兼容功能。此外，为满足商业用户和其他关注向后兼容的用户的需要，微软应该维护一个Windows旧版本，可叫做Windows Legacy，只提供安全更新和bug修复服务。另据APCMag报道，微软已安排Julie Larson-Green（推动了Office 2007采用Ribbon用户界面）加入Windows 7 GUI的开发团队。

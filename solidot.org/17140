@@ -1,0 +1,46 @@
+➜苹果首次公开表示对自主驾驶汽车感兴趣
+https://www.solidot.org/story?sid=50607	11244
+苹果首次公开表示对自主驾驶汽车技术感兴趣。苹果产品整合总监Steve Kenner <a href="https://www.regulations.gov/document?D=NHTSA-2016-0090-1115" target="_blank"><u>致函</u></a>美国国家公路交通安全管理局，称苹果对自动化运输的潜力感到兴奋，该公司因此对支持自动化驾驶系统的机器学习技术大举投资。苹果的信赞扬了“自动汽车的重大社会效益”，称这是一种拯救生命的技术，有望每年防止数百万起车祸和成千上万的死伤。<a href="http://www.ftchinese.com/story/001070414" target="_blank"><u>Kenner写道</u></a>，“苹果利用机器学习使其产品和服务更智能、更直观、更个性化，苹果公司正大力投资于机器学习和自动化研究，并对自动系统在多个领域的潜力感到振奋，包括交通运输业。”有知情人士此前透露，数百名苹果员工已经在一款电动汽车上工作了两年多时间。但随后又有报道称，该项目进展艰难。
+➜系统管理员因破坏前雇主的系统被判两年徒刑
+https://www.solidot.org/story?sid=50608	14172
+纽约的一名法官<a href="https://www.justice.gov/usao-mdpa/pr/new-york-man-sentenced-computer-hacking-shut-down-internet-service-provider" target="_blank"><u>判决</u></a>32岁的 Dariusz J. Prugar 两年徒刑，他<a href="https://www.bleepingcomputer.com/news/security/sysadmin-gets-two-years-in-prison-for-sabotaging-isp/" target="_blank"><u>被控</u></a>入侵了前雇主Pa Online的网络，导致其网络下线一周时间，Pa Online因此失去了大量客户，最终于2015年破产。<i>Pa Online是一家ISP，Prugar曾是该公司的系统管理员，他在2010年因为一系列个人问题遭到解雇。解雇数天之后，他使用旧的凭证登录进ISP的系统，安装了后门，取回他在工作期间开发的脚本和软件——可能是为了方便以后的工作。为了掩盖他的访问痕迹，他使用自动脚本删除了多个日志。结果导致了网络崩溃，超过500家企业和5000家居民受到影响。因为Prugar是系统的主要架构者，忙于修复故障的Pa Online邀请他帮忙。在协商期间Prugar索要的不是金钱而是他在公司工作期间开发的软件的使用权。此举引起了Pa Online的怀疑，因此向FBI举报，雇佣了第三方重建整个网络。网络下线持续了一周时间，Pa Online丢失了不少客户，名誉也受损。FBI的调查证实Prugar是整件事的罪魁祸首。</i>
+➜Devuan Jessie 1.0 Beta2发布
+https://www.solidot.org/story?sid=50609	14331
+2014年，因为选择初始化系统systemd引发的争议，一群不满的开发者创建了不依赖于systemd的Debian分支Devuan。今年上半年Devuan开发者释出基于Debian 8 Jessie的 Beta1，现在他们<a href="https://linux.slashdot.org/story/16/12/04/0142242/devuans-systemd-free-linux-hits-beta-2" target="_blank"><u>释出</u></a>了<a href="https://files.devuan.org/" target="_blank"><u>Beta2</u></a>，完成了从Debian中剥离systemd依赖的艰巨任务。开发者表示，Beta2之后将发布RC版，正式版预计将在2017年初释出。Devuan提供了多种init系统供用户选择，其中包括sysvinit、sinit、openrc、runit、s6 和 shepherd。
+➜苹果称手机意外关机的罪魁祸首是电池元件
+https://www.solidot.org/story?sid=50610	18009
+苹果在其技术支持网站公布了对部分iPhone手机意外关机问题的<a href="https://support.apple.com/zh-cn/HT207414" target="_blank"><u>调查结果</u></a>。苹果称，它发现“少数于 2015 年 9 月到 10 月期间生产的 iPhone 6s 设备中，某项电池元件被装进电池包之前在受控环境空气中暴露时间过长，使电池电量消耗速度快于正常水平，导致意外关机”，苹果否认手机存在安全问题，表示将为受影响的客户免费更换电池。iPhone 6s 用户可以在 iPhone 6s <a href="https://www.apple.com/cn/support/iphone6s-unexpectedshutdown/" target="_blank"><u>意外关机问题计划网页</u></a>上输入设备序列号，查询其设备是否符合免费更换电池的条件。苹果称，iPhone 在设计时有意允许设备在一定条件下自动关机，如极度寒冷的气温。发生自动关机的某些情形对于顾客而言可能是意外，但这种设计是为了保护电子元件避免由于低电压遭到损伤。
+➜Canonical 因非官方Ubuntu镜像起诉欧洲云服务供应商
+https://www.solidot.org/story?sid=50611	19639
+一家欧洲云服务供应商使用了自己定制的Ubuntu版本，关闭了最基本的安全功能，这个版本引起了Ubuntu开发商Canonical的担忧，它担心会发生安全问题，而Canonical会连带受到牵连。它花了数个月时间与这家公司磋商使用标准的Ubuntu镜像，但毫无结果。Canonical于是采取了法律行动<a href="https://insights.ubuntu.com/2016/12/01/taking-a-stand-against-unstable-risky-unofficial-ubuntu-images/" target="_blank"><u>起诉</u></a>这家未具名的云服务供应商，要求对方移除非官方Ubuntu镜像。Canonical认为它别无选择。
+➜欧盟要求美国社交媒体加强对“仇恨言论”的审查
+https://www.solidot.org/story?sid=50612	23503
+匿名读者 写道 <i>"欧盟委员会近日<a href="https://www.ft.com/content/b3163cca-ba32-11e6-8b45-b8b81dd5d080" target="_blank">表示</a>(付费墙)美国社交媒体如Twitter、Facebook、YouTube和Microsoft等公司要自愿加强打击“非法仇恨言论”，否则欧盟会制定法律强制它们打压网络种族歧视。今年五月份这些公司曾和欧盟签署一份“行为准则”，承诺在24小时内审查仇恨言论，必要时删除这些言论，甚至对仇恨言论进行“相反的叙述”。但欧盟认为这些公司审查太慢，需要加快审查速度。"</i>
+➜硅谷公司H1B持有者的平均薪水超过10万美元
+https://www.solidot.org/story?sid=50613	25621
+前 H-1B 签证持有者、软件工程师Mahmoud Mechehoul开发了在线工具<a href="http://h1bpay.com/">H1BPay</a>，可以查看不同公司不同城市的H-1B持有者的薪水。H-1B 签证是美国今年大选的一个热点问题，特朗普的支持者中就有工作被H-1B 签证持有者替代的软件工程师。<a href="http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/facebooks-h1b-software-engineer-salaries-climb-six-percent-annually-googles-two-percent-ubers-drop" target="_blank"><u>根据H1BPay的数据</u></a>，Facebook的 H-1B 签证持有者的薪水在$85,000到$247,200之间，平均薪水$138,294，过去四年每年增长6%；Google山景城总部的H-1B工程师薪水$92,000到 $318,240之间，平均薪水$126,232；Uber的H-1B工程师薪水在$76,107到$175,000之间，平均薪水$120,000。其它科技公司如IBM在圣何塞的H-1B工程师薪水$61,735 到 $222,700之间，平均薪水 $99,047；微软雷德蒙德总部H-1B工程师薪水在$78,540 到$161,000之间，平均薪水 $118,142。
+➜2017年突破奖宣布
+https://www.solidot.org/story?sid=50614	28473
+突破奖基金会宣布了<a href="https://breakthroughprize.org/News/34" target="_blank"><u>2017年的突破奖得主</u></a>。突破奖基金会由多位亿万富翁资助建立，其中包括Google联合创始人Sergey Brin、马云及其妻子张瑛、俄罗斯互联网风投家Yuri和Julia Milner夫妇、Facebook创始人Mark
+Zuckerberg和Priscilla Chan。突破奖的每位获奖者最高能获得300万美元。<i>突破奖的生命科学奖授予了Stephen J. Elledge，Harry F. Noller，Roeland Nusse，大隅良典和Huda Yahya Zoghbi；基础物理学奖授予 Joseph Polchinski，Andrew Strominger和 Cumrun Vafa；数学奖授予了Jean Bourgain；物理学新视野奖授予了Asimina Arvanitaki，Peter W. Graham和 Surjeet Rajendran，以及Simone Giombi 和Xi Yin，Frans Pretorius；数学新视野奖授予了 Mohammad Abouzaid，Hugo Duminil-Copin， Benjamin Elias 和 Geordie Williamson；2016年特别突破奖授予了发现引力波的LIGO团队，以及Kip Thorne、, Rainer Weiss和 Ronald Drever的家庭。获奖者中有一名是华裔：哈佛大学的理论物理学教授<a href="https://www.physics.harvard.edu/people/facpages/yin" target="_blank"><u> Xi Yin</u></a>，他的主要研究领域是弦论。</i>
+➜中国利用对特朗普的担忧吸引人才来华工作
+https://www.solidot.org/story?sid=50615	30241
+美国当选总统特朗普公开表示将采取强硬的移民立场和打击外国工人签证项目。他是否会真的付诸实践，则要等他上任后才会知道。利用对特朗普当选的担忧，中国<a href="http://www.nbcnews.com/news/china/china-chases-silicon-valley-talent-who-are-worried-about-trump-n688271" target="_blank"><u>正努力吸引人才到中国工作</u></a>。中国想要吸引的人才不只是那些留学生，还包括外国专家。官媒深圳日报称，深圳去年吸引了1219名高层次人才，其中 74人是外国专家。中国向“杰出人才”提供了最高100万美元的奖励，向较低级别的“海外人才”提供了最高15万美元的奖励。百度CEO李彦宏称，过去中国只能吸引归国留学生，现在特朗普的当选给予中国机会去吸引更多不同国家和国籍的人才。
+➜微软如何在Windows 10升级诉讼中失利
+https://www.solidot.org/story?sid=50616	34104
+今年6月，加州女子Teri Goldstein<a href="http://www.solidot.org/story?sid=48734" target="_blank"><u>赢得了</u></a>Windows 10升级诉讼，获得了1万美元的赔偿。她随后写了58页的<a href="https://www.amazon.com/Winning-Against-Windows-10-Microsoft-ebook/dp/B01IU0A2N6/" target="_blank"><u>Kindle电子书</u></a>，讲述整个经过，但电子书售价9.99美元。选择起诉对很多人来说费时又费钱，另一名Windows 10升级“受害者”的故事也许<a href="http://www.digitaltrends.com/computing/how-customers-took-a-stand-against-microsoft-and-won/" target="_blank"><u>更有启发意义</u></a>。Jesse Worley 是德克萨斯州的一名IT技术人员，他为患有阿尔茨海默病的祖父买了一台Windows 7电脑，定制其界面使外观看起来像是祖父熟悉的Windows XP，微软将会支持Windows 7到2020年，所以他计划以后再更换一台新电脑。但微软的Windows 10升级策略改变了他的计划。他的祖父在升级通知窗口点击了“X”按钮，“X”的意思通常表示关闭，但微软改变了它的意义，它代表着同意。 Worley不得不花费时间和精力去扭转微软造成的破坏。他向微软发去了“<a href="https://www.jesseworley.com/projects/microsoft/" target="_blank"><u>争议通知书</u></a>”，索赔650美元。微软迅速同意了，他将650美元捐给了帮助阿尔茨海默病患者的非营利组织。他的通知书威胁起诉微软，目的在于让微软承认它的Windows 10升级策略存在问题。他认为其他人也可以这么做，可以要求微软赔偿给用户造成的损失，以50美元的时薪计算赔偿金额，如果先例靠得住的话，微软可能会选择立即写张支票了结诉讼威胁。
+➜研究发现一部分西部农村初中生IQ偏低
+https://www.solidot.org/story?sid=50617	35060
+由斯坦福大学发展经济学教授罗斯高领衔的一项研究，<a href="http://china.caixin.com/2016-12-05/101023369.html" target="_blank"><u>或能解释西部农村的高辍学率</u></a>。研究团队在陕西榆林和甘肃天水的农村地区初中生中进行抽样测评，发现样本中的2500名初中学生，约有半数IQ低于90。这一结果，意味着这批学生的知识吸收能力，很难接受现有的高中及大学教育。他们很有可能因为难以跟上学习的步伐而辍学。罗斯高称，IQ低于90，意味着有一定程度的智力问题，“在美国，这样的孩子都放在特殊教育学校”。对于IQ偏低的原因，罗斯高提出，儿童到三岁之后，IQ就较难再提高。在儿童早期发展领域，存在一个“一千天假设”──即婴幼儿的认知水平在0-3岁的第一个1000天里就已基本建立。此后的养育、学习对认知水平的提高都不会太显着。
+➜为什么你不应该从第三方Android 市场下载应用
+https://www.solidot.org/story?sid=50618	38875
+Android生态系统频繁曝出安全问题，而引起安全问题的应用许多都是通过第三方应用市场传播的。网络罪犯很容易将恶意应用伪装成合法应用在第三方商店传播。《连线》的一篇报道援引安全专家的话称，用户不<a href="https://www.wired.com/2016/12/never-ever-ever-download-android-apps-outside-google-play/" target="_blank"><u>应该从第三方Android 市场下载应用</u></a>。文章将亚马逊的应用商店列为例外，作者可能没听说过还有自由开源软件应用商店<a href="https://f-droid.org/" target="_blank"><u>F-Droid</u></a>。SecureWorks的研究员James Bettke说，他强烈推荐从官方来源下载应用，Google Play建立了信任，你能信任某些供应商或个人制作的应用，而在第三方应用商店你不知道下载的究竟是什么。
+➜英国政客投票将自己排除在监视范围内
+https://www.solidot.org/story?sid=50619	40798
+英国通过了受争议的监视法律，而政客<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/investigatory-powers-bill-a7447781.html" target="_blank"><u>将自己排除在监视法律之内</u></a>。类似中国的网络安全法，英国的 Investigatory Powers Act 要求记录浏览历史，要求科技公司帮助解密加密通讯——意味着需要实现某种后门。对于大多数人而言，只要有国务大臣签发的搜查令就能对其进行监视；而对于议会成员和其他政客，搜查令需要获得首相的批准。受到保护的政客除了国会议员，还有地方议会和欧盟议会的成员。
+➜Visa 信用卡号码能在数秒内被暴力猜出
+https://www.solidot.org/story?sid=50620	42462
+安全研究人员<a href="http://www.ncl.ac.uk/press/news/2016/12/cyberattack/" target="_blank"><u>发现</u></a>，黑客能在数秒内利用分布式猜测攻击破解 Visa 信用卡的号码、过期日期和安全码。攻击者通过同时在数百个支付网站输入信用卡号码、过期日期和安全码的不同组合去猜测出正确的组合。原因是Visa的支付系统无法检测出来自不同网站的多次无效支付请求，从而允许攻击者进行无限次的猜测。其它信用卡支付系统如MasterCard则能检测出此类的攻击，因此不存在相同的漏洞。
+➜任正非如何影响华为
+https://www.solidot.org/story?sid=50621	44948
+《华尔街日报》的一篇报道<a href="http://cn.wsj.com/gb/20161205/tec171050.asp" target="_blank"><u>勾勒出了任正非对华为无处不在的影响</u></a>：新员工类似军训的晨跑，学习他的文章，测试题目就包括了他的讲话。过去五年中，华为令竞争对手感到惊讶。华为内部人士称，这种爆发式的增长在一定程度上是该公司员工自愿放弃休假、加班费、有时甚至冒着生命危险推动公司事业发展的结果。华为的工作强度即便在中国公司中也十分突出。2014年西非国家爆发埃博拉病毒疫情时，其他跨国公司疏散员工时，华为中国员工仍留在疫情区域。他们后来获得了特殊奖金。工作满一年，中国员工可能会签署《员工奉献协议书》，自愿放弃带薪休假和加班费，但可以得到股份的奖励。

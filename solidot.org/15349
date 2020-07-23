@@ -1,0 +1,62 @@
+➜联想的ThinkPad X1有两个大脑
+https://www.solidot.org/story?sid=27833	14700
+联想在CES上展示了超薄笔记本ThinkPad X1，设计可切换到省电模式以延长电池使用时间——用户可从完整功能的Windows模式切换到省电的即时媒体模式，后者运行在一个独立的处理器上——换句话说，<a href="http://arstechnica.com/gadgets/news/2012/01/lenovos-thinkpad-x1-the-notebook-with-two-brains.ars">这台混合式笔记本有两个大脑</a>。<i>
+ThinkPad X1显示屏13英寸，厚0.6英寸，运行Windows 7，可选Intel "Ivy Bridge" i3、i5和i7移动处理器。当用户想要省电时，电脑可以让Windows 7进入“睡眠”模式，启动联想的IMM环境——它是一个定制的Linux系统，基于Android——运行高通的8060 ARM系统级芯片。联想声称，在省电模式下电池可使用10小时。不过在IMM环境下用户无法访问主硬盘中的文件，必须先拷贝进IMM专用的16GB SSD。ThinkPad X1将在6月上市，售价1600美元。
+</i>
+➜诺基亚宣布Lumia 900
+https://www.solidot.org/story?sid=27834	15840
+诺基亚在CES上<a href="http://arstechnica.com/gadgets/news/2012/01/nokias-luscious-looking-lumia-900-coming-to-att-this-spring.ars">宣布了</a>第一款支持4G LTE的Windows Phone手机Lumia 900。<i>
+Lumia 900采用4.3英寸显示屏，重5.6盎司，512MB内存，16GB存储空间外加微软的SkyDrive云储存，八百万像素摄像头带双LED闪光，支持拍摄720p/30fps视频。外形与N9/Lumia 800相同。</i>
+➜防火长城如何屏蔽Tor网桥
+https://www.solidot.org/story?sid=27835	15900
+去年10月，一位中国的Tor用户<a href="https://trac.torproject.org/projects/tor/ticket/4185">递交报告</a>称发现连上美国的Tor网桥中继地址后，常常在很短时间内（近乎实时）连接就被切断。Tor项目注意到中国正利用刺探加密连接的方式<a href="__SLASHLINK__" sect="internet" sid="11/11/21/0128217" sn="article" tid="120">测试新屏蔽手段</a>。<a href="http://www.team-cymru.org/">Team Cymru</a>的研究人员对此<a href="https://blog.torproject.org/blog/knock-knock-knockin-bridges-doors">展开了深入研究</a>，他们在测试中发现可以屏蔽防火墙的探针，让网桥在较长时间内保持开放（大于48小时）。<i>
+中国去年12月停止了刺针探测，但研究人员已经收集到了许多有价值的信息。他们发现了两类刺探方法：其一是“垃圾二进制（garbage binary）探针”，用随机的二进制数据刺探加密连接，任何从中国访问境外HTTPS 443端口的连接都会在几乎实时的情况下被刺探，暗示防火墙具备了近线路速率深度包检测能力。第二类探针是专门针对Tor，当中国的一个Tor客户端与美国的网桥中继建立连接，在接下来的15分钟周期（如15分钟后，30分钟后）内一个中国的探针会尝试与Tor进行SSL协商和重协商，但目的不是建立TCP连接。研究人员表示好消息是他们已识别出防火墙用于执行刺探的Tor握手特征，通过改变发送的数据包防止此类的刺探再次发生；但坏消息是近线路速率深度包检测让防火墙具备了过滤端口的能力。
+</i>
+➜《龙与地下城》第五版宣布
+https://www.solidot.org/story?sid=27836	17760
+《龙与地下城》拥有者Wizards of the Coast（WotC）<a href="http://www.wizards.com/dnd/Article.aspx?x=dnd/4ll/20120109">宣布</a>正在开发下一版《龙与地下城》规则，表示希望粉丝与他们共同塑造角色扮演游戏的未来。《龙与地下城》规则由Gary Gygax和Dave Arneson在70年代发布，第四版在2008年发布，到今天已有近40年历史。WotC希望龙与地下城在未来四十年能成为一个充满活力和不断发展的游戏。
+➜人民网准备IPO
+https://www.solidot.org/story?sid=27837	18960
+去年初曾传出人民网<a href="__SLASHLINK__" sect="" sid="11/01/05/0859243" sn="article" tid="">计划年内在上海股市上市</a>。但它的计划略有推迟。<i>
+人民网周一晚间向中国证监会提交招股书启动A股首次公开募股（IPO），<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/01/120110_china_peoplesdaily.shtml">筹资</a>5.27亿元人民币。招股书显示，人民网拟在A股发行6910万股，占发行后总股本的四分之一。证监会主板发行审核委员会将于周五召开工作会议，审核人民网的首发申请。人民网创办于1997年，是中国共产党机关报《人民日报》建设的以新闻为主的综合性网络媒体。2010年，人民网广告业务实现收入16845.42万元，同比增长62.48%，占营业收入比例为50.79%。除人民网外，新华网、千龙网等具有官方背景的新闻网站也有上市计划。</i>
+➜任何蚂蚁都能变成超级蚂蚁
+https://www.solidot.org/story?sid=27838	22320
+在大头蚁属的1100多种蚂蚁中，绝大多数主要产生两个等级——觅食蚁和兵蚁。但在极少见的情况下，一些种类的蚂蚁也可能自然产生超级兵蚁，它拥有巨大的头颅，可以堵在巢穴入口抵御入侵者。加拿大麦吉尔大学的研究人员分析了能偶尔产生超级兵蚁的两种大头蚁属蚂蚁的基因组，识别出产生超级兵蚁的遗传机制，利用名叫甲氧普烯（methoprene）的生长激素诱导幼体<a href="http://news.sciencemag.org/sciencenow/2012/01/scienceshot-any-ant-can-be-a-sup.html">发育成超级兵蚁</a>。<a href="http://www.sciencemag.org/content/335/6064/79.abstract">报告</a>发表在《科学》期刊上，研究人员将甲氧普烯应用到其它不常产生超级蚂蚁的族群幼体中，发现它们也能发育成类似超级兵蚁的巨大蚂蚁。看来大头蚁属的所有蚂蚁都具有变成超级兵蚁的能力，但这种军事化适应在大多数族群中被压制了。
+➜Tizen公开早期阶段源代码
+https://www.solidot.org/story?sid=27839	25200
+在诺基亚放弃Meego之后，英特尔和三星支持的新移动操作系统泰泽（Tizen）项目<a href="https://lwn.net/Articles/474796/">发布了</a>初期阶段的<a href="http://source.tizen.org/git/">源代码</a>和<a href="https://developer.tizen.org/">alpha SDK</a>，此举旨在让应用程序开发者能初步了解Tizen项目。工具、相应文档和源代码将提供帮助开发者熟悉Tizen开发的信息。
+➜德国警方高官安装间谍软件监视女儿
+https://www.solidot.org/story?sid=27840	25920
+德国警方去年被黑客组织发现利用定制间谍软件监视犯罪嫌疑人，<a href="__SLASHLINK__" sect="software" sid="11/10/14/0622240" sn="article" tid="100">并有滥用之嫌</a>。现在《明镜周刊》（Der Spiegel）<a href="http://www.spiegel.de/netzwelt/netzpolitik/0,1518,807820,00.html">披露</a>(德文)，一位德国的高级安全官员被发现在他女儿的电脑上安装了间谍软件，监视其网络行为。<a href="http://arstechnica.com/tech-policy/news/2012/01/top-german-cop-uses-spyware-on-daughter-gets-hacked-in-retaliation.ars">这也许算不上什么大过错</a>。然而问题是他安装的间谍软件被女儿的朋友发现，这位黑客朋友顺藤摸瓜，入侵了他的电脑，获取了与安全相关的电子邮件缓存。他根据电子邮件通讯内容了解到了入侵德国联邦警方服务器的必要信息，从而成功访问了警方的"Patras" 的计划，该计划保存了利用手机和汽车GPS系统记录的犯罪嫌疑人位置数据。入侵行动迫使政府关闭了Patras服务器。
+➜诺贝尔评奖委员会认为托尔金文笔太差
+https://www.solidot.org/story?sid=27841	27360
+英国作家<a href="http://zh.wikipedia.org/wiki/C%C2%B7S%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF">C·S·路易斯</a>在1961年提名<a href="http://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%94%E9%87%91">J·R·R·托尔金</a>为诺贝尔文学奖候选人。但评奖委员会最终拒绝了《魔戒》作者，根据刚刚公开的记录，<a href="http://entertainment.slashdot.org/story/12/01/09/2137240/jrr-tolkien-denied-nobel-due-to-low-quality-prose">理由是文笔太差</a>。<i>
+诺贝尔图书馆解密了五十年前评奖委员会的文档。当年入围的候选人除了托尔金外，还有Lawrence Durrell、 Robert Frost、Graham Greene、EM Forster，最终的文学奖得主是南斯拉夫作家<a href="http://zh.wikipedia.org/wiki/%E4%BC%8A%E6%B2%83%C2%B7%E5%AE%89%E5%BE%B7%E9%87%8C%E5%A5%87">伊沃·安德里奇</a>。委员会成员Anders Österling说，托尔金的文章在任何方面都达不到高质量故事的标准。</i>
+➜不同类型的程序员
+https://www.solidot.org/story?sid=27842	28800
+<a href="http://www.jobbole.com/">伯乐</a> 写道 "Steven Benner<a href="http://stevenbenner.com/2010/07/the-5-types-of-programmers/">发布一篇博文</a>(<a href="http://blog.jobbole.com/10392/">中文</a>)说，“在我的代码旅程和编程经历中，已经遭遇很多奇特的对手，还有更为奇特的盟友。我至少发现有5种代码勇士，有些是出色的战友，其他则似乎都在搅黄我的每个计划。不过他们都在软件开发的万神殿上都有一席之地。如果没有不同编程风格的良好组合，你可能会发现你的项目要不就是耗时过长，要不就是太不稳定或太过完美而无人去做。”这5种类型是：1. The duct tape programmer 喉咙贴了胶带的程序员；2. The OCD perfectionist programmer 有完美主义强迫症的程序员；3. The anti-programming programmer 反编程的程序员；4. The half-assed programmer 不称职的程序员；5. The theoretical programmer 理论型的程序员。"
+➜研究人员将鲑鱼DNA用于数据储存设备
+https://www.solidot.org/story?sid=27843	30300
+台湾国立清华大学和德国卡尔斯鲁厄理工学院的研究人员创造出<a href="http://www.gizmag.com/salmon-dna-data-storage-device/21027/">一款“一次写入多次读取”的记忆设备</a>，由电极、银纳米粒子和鲑鱼DNA结合而成。虽然只是<a href="http://apl.aip.org/resource/1/applab/v99/i25/p253301_s1?view=fulltext&amp;bypassSSO=1">概念验证原型</a>，但研究人员表示DNA可能成为传统无机材料硅的廉价替代。原型设备由充满银原子的鲑鱼DNA薄层组成，夹在两个电极之间。在紫外光照射下，原子聚集成纳米粒子。
+➜伊朗宣判被指“间谍”的游戏开发者死刑
+https://www.solidot.org/story?sid=27844	32400
+伊朗政府<a href="http://kotaku.com/5874301/iran-sentences-alleged-video-game-developer-spy-to-death">宣判一名游戏开发者死刑</a>，他被指充当间谍。<i>
+Amir Mirzaei Hekmati在伊朗国家电视台上供认（推测是刑讯逼供），他是前美国海军陆战队士兵，曾供职于Kuma Reality Games。Hekmati说，这家游戏工作室获得CIA的资助，开发针对中东地区的电影和游戏，试图说服伊朗和全世界人民美国的所作所为是出于良好意愿。美国政府否认他是间谍，Kuma拒绝发表评论。根据美国政府档案，Hekmati确实曾在Kuma工作，这家公司从美国国防部获得9.6万美元，为美国士兵开发语言学习和记忆程序，与间谍等毫无关系。美国要求伊朗释放Hekmati。
+</i>
+➜警方逮捕两名CSDN涉案黑客
+https://www.solidot.org/story?sid=27845	35280
+北京市公安局网络安全总队<a href="http://www.nbd.com.cn/articles/2012-01-09/627716.html">表示</a>已经掌握了CSDN泄密案的部分黑客泄密证据，目前已有两名涉案黑客被抓。但具体细节尚未公开。对于数据库泄漏，CSDN创始人蒋涛<a href="http://www.donews.com/net/201201/1058383.shtm">称原因是</a>：开源CMS系统等第三方系统存在漏洞；应用程序存在跨站脚本漏洞；后台认证漏洞。但他没有对明文密码多做解释。财新的<a href="http://magazine.caixin.com/2012-01-06/100346334.html">报道</a>提到，在泄密之后，CSDN紧急对下载源进行封堵，例如联系腾讯和迅雷，要求关闭和重置下载源。但封堵手段没有什么效果。
+➜温室气体推迟冰河时代到来
+https://www.solidot.org/story?sid=27846	37080
+上一次冰河时代发生在1.15万年前，下一次冰河时代何时发生没人知道。研究人员在《自然地球科学》发布<a href="http://www.nature.com/ngeo/journal/vaop/ncurrent/abs/ngeo1358.html">论文</a>，根据地球轨道变化等数据，计算出下一次冰河时代将在1500年内发生，但全球变暖温室气体排放<a href="http://www.bbc.co.uk/news/science-environment-16439807">将推迟冰河时代到来</a>。<i>
+剑桥大学的Luke Skinner说，即使二氧化碳排放停止，考虑现在的水平，间冰期的持续时间也很可能相当漫长。Skinner的团队计算显示，在开始冰河时代前空气的二氧化碳浓度必须降低到240 ppm以下。而目前的水平大约是390ppm。其他团队的计算表明，即使温室气体立即停止排放，浓度至少在千年内会持续升高。</i>
+➜外星世界的日落
+https://www.solidot.org/story?sid=27847	39600
+地球的落日是漫天红霞，但一颗系外行星的落日是<a href="http://blogs.discovermagazine.com/badastronomy/2012/01/09/sunset-on-an-alien-world/">漫天绿光</a>。<i>
+HD209458是一颗类似太阳的恒星，距离地球150光年，绰号Osiris的HD209458b是一颗气态行星，大小是木星的70%，很有可能有厚厚的大气层，距离母星只有670万公里。英国埃克塞特大学的行星学家Frédéric Pont使用来自哈勃望远镜的真实数据，创作了一幅Osiris上的<a href="http://www.exoclimes.com/paper-outlines/the-sunset-on-hd-209458-b/">夕阳画面</a>——最让人意外的是，在这颗行星上太阳看起来是绿色的——因为钠吸收掉了红色，而蓝色被散射掉了，只剩下绿色。
+</i>
+➜斯蒂芬·霍金的新电脑
+https://www.solidot.org/story?sid=27848	41400
+剑桥大学在1月8日庆祝著名天体物理学家斯蒂芬·霍金教授<a href="http://www.bbc.co.uk/zhongwen/simp/uk/2012/01/120108_hawking_birthday.shtml">70寿诞</a>。他在21岁那年被诊断患有肌肉萎缩性侧索硬化症，医生认为他只能活两年，活到30岁的可能性只有5%。但霍金至少<a href="http://science.slashdot.org/story/12/01/09/0514241/how-stephen-hawking-has-defied-the-odds-for-50-years">多活了五十年</a>。霍金回忆说，虽然前途乌云笼罩，但出乎意料的是他却比以往更享受现在的生活，研究取得进展，还与Jane Wilde订了婚。<i>
+英特尔工程师Travis Bonifield过去十年和霍金关系密切，他每几年都会向霍金<a href="http://freepress.intel.com/community/news/blog/2012/01/09/stephen-hawkings-new-pc">送去一台新款定制电脑</a>。霍金最新的电脑是联想的Thinkpad x220平板，采用Intel Core i7处理器，前置摄像头，霍金用Skype打电话。他至今仍在使用80年代DEC开发的语音合成和文本语音翻译技术<a href="http://en.wikipedia.org/wiki/DECtalk">DECtalk</a>。
+</i>

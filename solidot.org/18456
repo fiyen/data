@@ -1,0 +1,36 @@
+➜Linus Torvalds 谈英特尔的 AVX512 指令集
+https://www.solidot.org/story?sid=64923	11365
+脾气暴躁的 Linux 作者<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linus-Torvalds-On-AVX-512"><u>抨击了</u></a>英特尔的 <a href="https://en.wikipedia.org/wiki/AVX-512" target="_blank"><u>AVX512</u></a> 指令集。高级向量扩展指令集（Advanced Vector Extensions，简称 AVX）是 x86 指令集架构的一个扩展，2008 年提出 2011 年产品面世；AVX2 将大多数整数命令操作扩展到 256 位，AVX512 进一步扩展到  512 位，但相比 AVX2 运行一条 AVX512 指令就会导致整个处理器的频率大幅降速，虽然它在基准测试中的表现非常出色，而所谓的测试就是只运行 AVX512 不考虑其它并没有体现实际使用场景。Linus Torvalds 抨击就是这一点。他说他希望 AVX512 死得其所，英特尔能将注意力转向其芯片的薄弱点——也就是浮点性能，而不是在测试中好看的东西，不是无意义的特殊使用场景。在历史上，英特尔处理器的浮点性能一直落后于竞争对手，它靠的是自己庞大的金库而不是技术打败了其它竞争对手。Torvalds 称，AVX512 是错误的东西，AVX2 已经足够好了。
+➜全国青少年科技创新大赛获奖作品引发学术不端的争议
+https://www.solidot.org/story?sid=64924	12376
+全国青少年科技创新大赛<a href="http://castic.xiaoxiaotong.org/Query/StudentQuery.aspx"><u>在线展厅</u></a>中的获奖作品在社交网络中引发学术不端的争议，因为绝大部分小学生中学生的获奖作品明显不可能是靠学生自己独立能完成的。其中引发热议的一件获奖作品是昆明小学生陈灵石的作品《<a href="http://castic.xiaoxiaotong.org/Query/SubjectDetail.aspx?SubjectID=77240"><u>C10orf67在结直肠癌发生发展中的功能与机制研究</u></a>》，他的作品被认为是其<a href="http://sourcedb.kiz.cas.cn/zw/zjrc/201207/t20120711_3614214.html"><u>父</u> </a><a href="http://sourcedb.kiz.cas.cn/zw/zjrc/tpqn/201808/t20180828_5060083.html" target="_blank"><u>母</u></a>或父母的学生帮助完成的。家长对科创大赛<a href="https://new.qq.com/omn/20200705/20200705A008UV00.html"><u>热衷的一个原因</u></a>是它的获奖级别和名次一度与中高考加分相关联。以往大学自主招生获得初试资格一般有两个办法，一是学科竞赛，还有就是科创比赛，后者难度远逊于前者。2020 年 1 月，教育部发出通知，明确从今年开始自主招生正式取消，通过比赛高考加分自此走入历史。
+➜化石证据显示鲸类平行演化出相似的外形
+https://www.solidot.org/story?sid=64925	23462
+科学家在南卡罗莱纳州发现了第一个已灭绝大型海豚的几乎完整骨架。这头 15英 尺长的海豚生活在渐新世（约2500万年前），之前人们只从一块吻部化石中了解到它的存在。<a href="https://www.cell.com/current-biology/pdf/S0960-9822(20)30828-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982220308289%3Fshowall%3Dtrue"><u>论文</u></a>（PDF）发表在《当代生物学》上。研究人员说，从头骨解剖和牙齿，再到鳍和脊柱的多重证据表明，这种大型海豚（齿鲸亚目中的一种齿鲸）是其栖息的群落中的顶级掠食者。他们说，这种海豚颅后骨骼的许多特征也表明，现代须鲸和现代齿鲸一定是各<a href="http://news.sciencenet.cn/htmlnews/2020/7/442742.shtm" target="_blank"><u>自独立地进化出了类似的特征</u></a>，这是由它们非常相似的水生栖息地的平行进化驱动的。
+➜印度政府请求法院阻挠中国公司对 APP 禁令发起挑战
+https://www.solidot.org/story?sid=64926	23858
+在禁用 59 款中国 APP 之后，印度政府<a href="https://cn.reuters.com/article/exclusive-india-chinese-app-0711-sat-idCNKCS24E08F?il=0" target="_blank"><u>已经请求</u></a>一家地方法院阻止任何中国公司获得禁止政府采取这项行动的禁制令。 印度称这些应用“对该国的主权和完整构成威胁”。印度政府已向西部的拉贾斯坦邦高等法院提交了中止诉讼手续的申请，表明政府预计其中一家或多家公司将对印度电子和信息技术部的禁令提出挑战。印度的律师表示，此类申请通常是为了防止法院在未听取政府意见的情况下做出有利于公司的裁决。在 59 款应用中，TikTok <a href="https://timesofindia.indiatimes.com/gadgets-news/tiktok-may-do-restructuring-to-make-a-comeback/articleshow/76933059.cms" target="_blank"><u>正采取或考虑采取措施</u></a>变得不那么像中国公司的 APP。印度是 TikTok 最大的海外市场。
+➜日本协助美国探月
+https://www.solidot.org/story?sid=64927	24364
+日经<a href="http://cn.nikkei.com/industry/scienceatechnology/41258-2020-07-13-10-28-33.html"><u>报道</u></a>，日本将为美国主导的月球探测计划提供协助，日美两国 7 月 10 日签署了联合宣言。美国发起了“阿尔忒弥斯(Artemis)计划”，力争以月球为立足点实现登陆火星。与首次实现人类登月的阿波罗计划不同，此次计划的目的是在月球展开持续活动，计划在环月轨道上建设新的宇宙空间站“门户（Gateway）”。美国计划将“门户”作为将来的火星探测的基地，提出 2030 年代实施载人火星探测。日本将利用国际空间站的实验舱“希望号”等的经验，在“门户”项目上就设备和机器的提供、物资补给等提供协助。根据日美的联合宣言，针对日本宇航员在“门户”和月球上的活动机会，双方同意在今后敲定详细内容。
+➜过去 20 年印度有约 120 万人死于蛇咬
+https://www.solidot.org/story?sid=64928	25352
+发表在《eLife》上的一项<a href="https://elifesciences.org/articles/54076"><u>研究</u></a>显示，过去 20 年，印度估计有 120 万人<a href="https://www.bbc.com/zhongwen/simp/world-53383196"><u>死于蛇咬</u></a>。近一半的受害者年龄在 30 至 69 岁之间，其中四分之一是儿童。多种世界十大毒蛇中的山蝰（Russell's vipers），印度环蛇和眼镜蛇是造成大多数被蛇咬的印度人死亡的原因。印度很多人被蛇袭击咬伤后丧命，因为事故大多发生在无法迅速得到医治的地区。这项研究称，印度人在 70 岁之前死于蛇咬伤的平均风险约为 250 分之一，但在某些地区，风险接近百分之一。研究人员说，生活在乡下农村社区、在季风季节被蛇咬伤的风险最高。研究人员说，这些地区应该重点以简单可行的方法教育民众在农业收获季节避免或降低蛇咬风险的方法，比如穿着橡胶靴，戴手套和使用手电筒等。
+➜越南 Facebook 用户被判 8 年刑期
+https://www.solidot.org/story?sid=64929	27953
+在一次闪电般的审判中，在 Facebook 上发表亲民主观点的越南网民 Nguyen Quoc Duc Vuong <a href="https://www.straitstimes.com/asia/se-asia/vietnam-jails-facebook-user-for-pro-democracy-broadcasts"><u>被判 8 年刑期</u></a>。Vuong 在 Facebook 上发表了 110 小时的视频和 336 个帖子，被控诬蔑共产党和社会主义，侮辱胡志明和其他党与国家领导人。Vuong 没有认罪，他在法庭上表示他所发表的只是个人观点。但法庭称，他的行为对社会是一种威胁。
+➜ESA 推迟阿丽亚娜六号运载火箭的发射
+https://www.solidot.org/story?sid=64930	37776
+ESA 研发中的下一代中重型运载火箭阿丽亚娜六号<a href="https://www.nasaspaceflight.com/2020/07/esa-ariane-6-second-half-2021/" target="_blank"><u>推迟到</u></a> 2021 年下半年发射。阿丽亚娜六号设计取代阿丽亚娜五号，其第一级推进器为阿丽亚娜五号使用的 Vulcain 2 引擎的更新版 Vulcain 2.1，使用固态火箭助推器 P120C，有两种配置，搭配 2 个 P120C 的 A62 和搭配 4 个的 A64。阿丽亚娜六号的制造成本为上一代的一半，A62 和 A64 的发射费用分别为 7500 万和 1.15 亿欧元。它能将 5 吨负荷发射到地球同步轨道，21.65 吨负荷发射到低地球轨道。ESA 推迟火箭首飞时间的一个理由是新冠疫情的影响。
+➜业余无线电不确定的未来
+https://www.solidot.org/story?sid=64931	38515
+根据 2018 年的数据，有执照的美国业余无线电爱好者共 755,430 人，他们绝大部分是 60 到 70 岁的白人。随着这批婴儿潮一代的人老去，可能没有足够的年轻人来维持业余无线电的爱好。社区也对如何吸引年轻人这一问题存在严重的分歧。他们并非铁板一块，观点相差很大。然而无论他们持有什么观点，他们都理解一个事实：世界正在变化，而可用的频谱并不变。如果没有足够的人去利用它，那么要为无线电爱好者保留频谱是非常困难的。业余无线电<a href="https://spectrum.ieee.org/telecom/wireless/the-uncertain-future-of-ham-radio">面临不确定的未来</a>。
+➜Facebook iOS SDK 再次导致众多应用崩溃
+https://www.solidot.org/story?sid=64932	44011
+仅仅相隔两个月，Facebook 的 iOS SDK 两次导致了大量应用崩溃。上一次发生<a href="https://www.solidot.org/story?sid=64285" target="_blank"><u>在 5 月初</u></a>，这一次发生在<a href="https://github.com/facebook/facebook-ios-sdk/issues/1427" target="_blank"><u>上周五</u></a>。社交巨人看起来并没有吸取任何<a href="https://github.com/facebook/facebook-ios-sdk/issues/1385"><u>教训</u></a>。Facebook SDK 被广泛用于身份验证和广告展示。在最新的事故中，Facebook SDK 5.0.2 等版本导致了应用崩溃。社交巨人<a href="https://www.bbc.com/news/technology-53363584"><u>告诉媒体</u></a>，是代码变更触发了部分应用崩溃，它“迅速解决了”问题。流行应用如 Spotify、TikTok、Tinder 和 Waze 在数小时内无法使用。两次事故引发了 Facebook 对独立应用的权力是否过大的疑问。
+➜科学家利用纳米技术创造彩虹光泽的巧克力
+https://www.solidot.org/story?sid=64933	47098
+瑞士联邦理工学院的科学家找到方法不使用任何着色剂或添加剂<a href="https://spectrum.ieee.org/nanoclast/semiconductors/nanotechnology/researchers-create-shiny-rainbows-of-nanotech-chocolate"><u>就能让巧克力带上颜色</u></a>。科学家利用了被称为结构色的方法，类似变色龙的变色——变色龙利用了其皮肤的结构去散射特定波长的光。研究人员还没有披露细节，只是表示使用了线条、图版和孔构成的纳米尺度模式。瑞士联邦理工的研究人员希望他们的研究能走出实验室，提供给大众市场。巧克力只是一个开端，这项技术也能让食物，纺织品、纸和塑料焕发新的光彩。
+➜Google 宣布向印度投资 100 亿美元
+https://www.solidot.org/story?sid=64934	47744
+Google 宣布它计划未来五到七年<a href="https://techcrunch.com/2020/07/13/google-to-invest-10-billion-in-india/" target="_blank"><u>向印度投资 100 亿美元</u></a>。印度是 Google 的一个关键海外市场，它有 13 亿人口，对美国和中国的科技巨头而言，印度可能是最后一个尚待开发的巨大增长市场。印度有超过 5 亿网民，拥有超过 4.5 亿部智能手机。Google 的竞争对手 Facebook 最近宣布向印度电信运营商 Reliance Jio Platforms 投资 57 亿美元。另一家美国科技巨头亚马逊也宣布向印度追加投资 10 亿美元。在中国对美国大部分科技巨头关上大门后印度变得越来越重要。

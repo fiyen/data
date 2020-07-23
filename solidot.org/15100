@@ -1,0 +1,71 @@
+➜美军突袭本拉丹可能使用了隐形直升机
+https://www.solidot.org/story?sid=23828	60
+✈ 写道 <i>"<a href="http://abcnews.go.com/Blotter/top-secret-stealth-helicopter-program-revealed-osama-bin/story?id=13530693">ABC News消息</a>，美国专家认为海豹突袭队员1号袭击本拉丹住所时，之所以能无声无息突然出现，是因为使用了此前从未出现过的隐形直升机。其中一架因为擦到围墙而迫降，在任务结束后被美军自行摧毁。Lexington Institute 的副所长 Dan Goure 说这种隐形黑鹰直升机可能已秘密投入使用数年，这次是首次面世，他说这种直升机直到袭击开始才会被袭击目标发现。除了改进的减噪系统，一位前特种兵飞行员告诉“The Army Times”说这种飞机的平面和锐角很象隐形喷气战机。本拉丹的邻居告诉ABC记者说直到直升机飞到头顶他们才发现有直升机飞来。五角大楼一位高级官员告诉ABC News他绝不会就摧毁的飞机做任何评论。前白宫反恐顾问Richard Clarke表示五角大楼之所以这么紧张可能是害怕这种绝密飞行器的部分残骸落到中国手里，因为中巴军方关系密切。"</i>
+➜Mozilla抵制DHS移除Mafiaafire扩展的要求
+https://www.solidot.org/story?sid=23829	3360
+美国国土安全部(DHS)要求Mozilla移除<a href="https://addons.mozilla.org/en-US/firefox/addon/mafiaafire-redirector/">Mafiaafire扩展程序</a>，Mozilla律师研究了DHS的要求，<a href="http://lockshot.wordpress.com/2011/05/05/homeland-security-request-to-take-down-mafiaafire-add-on/">认为缺少法律依据</a>，因此拒绝了移除扩展的要求，反而要求DHS提供相关的法庭命令和法律条款。到目前为止，Mozilla尚未收到DHS的回应。<i>
+MafiaaFire Redirector扩展的功能很简单，主要是重新定向DHS因应版权侵犯指控而扣押的域名，由于DHS只扣押了域名而没有扣押服务器，因此被控版权侵犯的网站可以很容易换个域名重新上线，该扩展的作用便是从旧的已失效的域名定向到新设立的域名。MafiaaFire Redirector作者<a href="http://arstechnica.com/tech-policy/news/2011/05/mozilla-resists-us-govt-request-to-nuke-mafiaafire-add-on.ars">表示</a>即将推出Chrome版本，称赞Mozilla对于开源的支持确实是言行一致。</i>
+➜索尼服务器无防火墙，运行的程序没打补丁
+https://www.solidot.org/story?sid=23830	5700
+普渡大学的Gene Spafford博士在美国众议院商务委员会的听证会上<a href="http://consumerist.com/2011/05/security-expert-sony-knew-its-software-was-obsolete-months-before-psn-breach.html">声称</a>，索尼的服务器运行着一个过期的Apache Web server软件，没有打上补丁，也没有安装防火墙。而索尼早在几个月前已经知悉此事，因为问题早已在论坛上报告给它。索尼董事会主席平井一夫致函美国国会的信中表示，该公司正在加强安全防御，同时指责匿名组织要对攻击<a href="__SLASHLINK__" sect="games" sid="11/05/05/082235" sn="article" tid="28">负有间接责任</a>。匿名组织已经发表了回应，<a href="http://www.dailykos.com/story/2011/05/04/973151/-Anonymous,-Sony,-and-the-rule-of-law">否认参与了破坏，以及参与信用卡窃取</a>。
+➜中国公开空间站计划
+https://www.solidot.org/story?sid=23831	9720
+上周，中国官方宣布了<a href="__SLASHLINK__" sect="science" sid="11/04/26/0343230" sn="article" tid="102">空间站征名活动</a>，透露空间站将在2020年前后建成。《自然》杂志较为详细的报道了<a href="http://www.scientificamerican.com/article.cfm?id=china-unveils-its-space-station">中国的空间站计划</a>。<i>
+中国的空间站要明显小于国际空间站和俄罗斯的和平号空间站，它由一个18.1米长的核心模块舱和2个14.4米的模块舱组成，外加一艘载入飞船和一艘货运飞船。这个三人空间站将展开科学实验，以及用关心世事科学家联盟中国项目主管Gregory Kulacki的话说，能增强民族自豪感和中国的国际地位。空间站项目将通过未来十年预定计划逐步呈现：天宫一号和神舟八号将在今年晚些时候首次尝试空间交会对接实验；2012年将发射两艘载入飞船，与天宫一号对接；然后将发射天宫二号和天宫三号，设计执行为期20天和40天的空间任务；最后再发射组装空间站的模块。中国表示，它的空间站能兼容与国际空间站对接的模块，并承诺可以让非中国籍研究人员做实验。由于美国国会担心工业间谍活动，反对中国涉足国际空间站，因此中国的空间站计划只能选择单干。</i>
+➜Debian Rolling Release 计划讨论进展
+https://www.solidot.org/story?sid=23832	10440
+<a href="http://wowubuntu.com/">riku</a> 写道<i> "关于 Debian Rolling Release 的这个灵感最先是来源于 2007 年 Joey Hess 的<a href="http://kitenet.net/~joey/code/debian/cut/">提议</a>，他观察到大量的用户并不满意当前 Stable 版本中软件包的发布周期，过于老旧，许多用户都会选择使用 Debian Testing 版本，所以他建议发布一个 constantly-usable testing (CUT - 持续可用的 testing) 版本，即保持软件包的可用性及稳定性又能跟上时代。
+而在 2010 年 8 月的 Debconf10 （2010年的 Debain 开发者会议）上，这个概念又再次被提及。此后，在 debian-devel@ 邮件列表中，大量的 Debian 开发者就这一问题进行了详细的讨论，其中包括是否要推出 Debian Rolling Release (滚动发布行版），许多人也给予了支持。另外，还涉及到是否要把 Debian testing 改名为 rolling 、为 testing 定期创建一个 snapshot release 或彻底改变发布进程（包括冻结进程，甚至于unstable, testing 和 stable 三者之间的关系）等等。
+现在， Debain 的开发者之一 Lucas Nussbaum 对这些讨论做了一次<a href="http://www.lucas-nussbaum.net/blog/?p=659">总结</a>，从中我们可以看出当前 Debian Rolling 计划方面的一些<a href="http://wowubuntu.com/debian-rolling.html">讨论进展</a>。当然目前只限于讨论阶段，正式的工作还没有实质性的展开。"</i>
+➜《质量效应3》延期至2012年第一季度
+https://www.solidot.org/story?sid=23834	15900
+BioWare宣布，原定年底发布的《质量效应3》<a href="http://www.gameinformer.com/b/news/archive/2011/05/04/mass-effect-3-delayed-until-2012.aspx">将延迟到2012年第一季度</a>。<i>
+BioWare社区协调员Chris Priestly在论坛上<a href="http://social.bioware.com/forum/1/topic/129/index/7294706">宣布了该消息</a>，理由是“开发团队致力于确保《质量效应3》是《质量效应》系列最优秀的作品，超出每个人的预期”。BioWare此举显然是想提高游戏质量，避免让玩家失望。</i>
+➜Linux Mint 11预览
+https://www.solidot.org/story?sid=23835	17400
+<a href="http://www.osmsg.com/">osmsg开源资讯</a> 写道<i> "基于Ubuntu和Debian的发行版<a href="http://www.osmsg.com/2011/05/linux-mint-11-preview/">Linux Mint 11</a> <a href="http://blog.linuxmint.com/?p=1746">计划</a>于5月中旬发布一个RC版本，5月底发布正式版本。默认使用Gnome 2.32桌面系统；默认安装Compiz，它可以轻松的让你在Compiz和Metacity之间进行切换；默认使用LibreOffice办公套件；Banshee音乐管理；gThumb图片管理;改进Firefox 4、Chromium和Opera的mint-search-addon插件；新的apt download命令，允许将.deb包和其依赖下载到本地;不再默认安装 Gwibber、padevchooser、paman、paprefs、pavumeter和pavucontrol程序。"</i>
+➜Red Hat CEO痛恨专利钓鱼，但有时愿意花钱消灾
+https://www.solidot.org/story?sid=23836	17760
+Red Hat CEO Jim Whitehurst在<a href="http://www.networkworld.com/news/2011/050511-red-hat-ceo-patents.html">采访</a>中畅谈了软件专利、诉讼、和解、企业文化和未来展望。<i>
+他承认，在必要时Red Hat会打专利诉讼案，但如果专利钓鱼者索要金额不大，微不足道，Red Hat会采取花钱消灾的做法，因为在这种情况下达成和解要远好于法庭打官司。Whitehurst指出，有些专利和解外界并不知道。</i>
+➜LastPass密码服务器遭入侵
+https://www.solidot.org/story?sid=23837	19740
+提供基于Web的密码管理服务的LastPass<a href="http://blog.lastpass.com/2011/05/lastpass-security-notification.html">建议</a>客户修改访问其服务的密码，该公司发现了网络被入侵的迹象。<i>
+LastPass表示，星期二早晨它的网管注意到网络流量异常，随后展开的调查没有排除数据泄露，相反它发现了公司一个数据库数据可能被窃取的证据。LastPass表示，它估计最糟糕的情况是用户数据泄露，因此要求用户修改他们的主密码。</i>
+➜苹果5年增长5倍
+https://www.solidot.org/story?sid=23838	23400
+<a href="http://www.520566.net/">深圳SEO</a> 写道<i> "5年前的Apple算是一个比较成功的公司，其主要产品是iPod及iMac电脑，那时候还没有iPhone，那时候也没有iPad，当时Apple每年盈利能力为2.4亿美元。而到2010年，这个数字上升为166亿美元，到2011年的第一个财季，Apple已经赚取了60亿美元。5年的发展，让Apple成为一台真正的赚钱机器。Apple不断增长的盈利能力让其在股票市场大受欢迎，公司市值如同火箭般急速上升。为了让大家对Apple过去5年的增长速度有最直观的了解，我们将其与其他高科技公司，如Google及微软等股票市值同期的变化进行一个简单对比, 发现另一个比较有趣的现象，可以让你对Apple的疯狂增长有更深入的了解：2006年<a href="http://finance.yahoo.com/q?s=GOOG">Google</a>的市值是<a href="http://finance.yahoo.com/q?s=AAPL">Apple</a>的两倍，而到2011年，两者的位置却做了一下对调，<a href="http://www.520566.net/apple-5x-than-2006-2x-as-google.html">Apple反超Google，快速增长至Google的1.9倍</a>。"</i>
+➜Gitbrew发布OtherOS++ PS3 Linux Dual Boot
+https://www.solidot.org/story?sid=23839	26700
+Gitbrew发布了<a href="http://gitbrew.org/otheros/">OtherOS++ PS3 Linux Dual Boot v1.0b1</a>，令PS3用户能够在主机上<a href="http://games.slashdot.org/story/11/05/05/0548246/Gitbrew-Releases-OtherOS-PS3-Linux-Dual-Boot">安装一个替代的操作系统</a>，这个操作系统能访问全部系统硬件，包括所有的8个CELL核心，使PS3成为世界上人人可负担的超级计算机。
+➜Mark Zuckerberg不再租房了
+https://www.solidot.org/story?sid=23840	28500
+Facebook联合创始人兼CEO Mark Zuckerberg放弃了租房生涯，这位世界上最年轻的亿万富翁在Palo Alto市<a href="http://www.physorg.com/news/2011-05-zuckerberg-home-owner.html">购买了一座豪宅</a>。<i>
+据当地媒体报道，Zuckerberg花了700万美元购买了一座带海水游泳池，音乐凉亭和五间卧室的豪宅。由于业务快速增长，Facebook也准备从目前拥挤的硅谷园区搬到曾经属于Sun公司的园区。前Sun园区位于Menlo Park市，与Palo Alto市接界，有九座建筑物，总办公面积约92,900平方米。 </i>
+➜新型电池用水充电
+https://www.solidot.org/story?sid=23841	29700
+斯坦福大学的科学家利用纳米技术<a href="http://www.gizmag.com/rechargeable-battery-freshwater-seawater/18565/">创造出一种新型电池</a>，它能利用淡水和海水之间的盐度差产生电力。研究人员希望，这项技术能用于在淡水河和海洋交界处建造发电站。<i>
+利用淡水和海水的盐度差发电不是新概念，但斯坦福材料科学和工程学副教授Yi Cui领导的团队，相信他们的方法更高效，建造更便宜。通常的淡水和海水发电站工作原理是渗透，而斯坦福的方法是利用淡水与海水交互在电极作用下产生的熵能。</i>
+➜澳大利亚监狱犬装备了钛牙
+https://www.solidot.org/story?sid=23842	33840
+澳大利亚一所监狱的警卫犬<a href="http://web.orange.co.uk/article/quirkies/Guard_dog_gets_titanium_teeth">在牙齿因公损失后安装了钛牙</a>。现在，任何想要逃跑的囚犯需要先估量一下钛牙铁齿的厉害。<i>
+这只名叫Axel的监狱犬因为咬他自己的床板而弄坏了牙齿。动物牙医David Clarke医生给他安上了钛牙。他说警犬都经过了长时间训练，因为牙齿问题退役远不如修补来的合算。监狱犬、警犬、猎犬、检疫和海关缉毒犬经常在工作中受伤。</i>
+➜中国互联网公司上市泡泡破灭？
+https://www.solidot.org/story?sid=23843	35760
+最近一段时间颇受投资人青睐的中国互联网股票似乎盛况不再：<a href="http://www.cn.wsj.com/gb/20110506/bch090143.asp">网秦在纽约证交所上市首日跌19%</a>；人人公司上市首日大涨29%，但次日却大跌15%，目前收盘价<a href="http://finance.yahoo.com/q?s=RENN">16.87美元</a>。《华尔街日报》称，<a href="http://www.cn.wsj.com/gb/20110506/bog164213.asp?source=UpFeature">中国上市公司的普遍问题是会计缺陷</a>。美国证券交易委员会去年对主要在海外经营(包括中国)的美国上市公司发起了一项调查。调查发现，自2011年3月以来，超过24家中国企业都披露了会计问题或审计师辞职，或二者兼而有之。
+➜中国为审查互联网辩护
+https://www.solidot.org/story?sid=23844	37920
+中国成立了互联网管理单一机构<a href="__SLASHLINK__" sect="internet" sid="11/05/04/0926233" sn="article" tid="120">国家互联网信息办公室</a>（主任王晨、副主任钱小芊，工信部副部长奚国华、公安部副部长张新枫兼职副主任），统筹管理互联网，引发了外界对中国加强网络监管和审查的<a href="http://www.cn.wsj.com/gb/20110506/bch115043.asp">质疑</a>。<i>
+官方媒体新华社引用该机构未具名负责人的话<a href="http://it.people.com.cn/GB/14562884.html">为审查互联网辩护</a>，声称：“不少国家先后成立互联网管理协调机构，加强对互联网的管理。国际上少数人不顾基本事实，搞双重标准，对中国的互联网管理说三道四，意在抹黑中国，完全是别有用心，是站不住脚的。我们愿在此重申，中国将坚持对外开放，继续积极参与国际互联网交流对话活动，共商互联网发展大计。”人民网的一篇报道特别举出了<a href="http://news.xinhuanet.com/tech/2011-05/05/c_121381936.htm">外国加强互联网管理的例子</a>：美国，有六大网络安全专职机构、130多项法律法规来维护网络安全；韩国，网络实名制则早已实行；英国建立了一个由政府牵头的互联网行业自律组织——“互联网监看基金会”；法国通过《信息社会法案》....然而这些国家的互联网管理机构根本无权去控制信息流动。</i>
+➜25美元教育用电脑
+https://www.solidot.org/story?sid=23845	39240
+英国慈善机构<a href="http://www.raspberrypi.org/">Raspberry Pi基金会</a>正在研发、制造和分发一种超低成本的电脑，旨在向学校推广计算机科学教育。<a href="http://www.physorg.com/news/2011-05-pc.html">整套系统的价格预计只需25美元</a>。<i>
+25美元的教育电脑只有U盘大小，包含了传统PC的主机部分，可以插到电视机上，或与触摸屏组装成一个低成本的平板电脑。其主要规格为：700MHz ARM11处理器，128MB SDRAM，OpenGL ES 2.0，支持1080p HDMI<del>视频</del>输出，一个SD卡插槽提供数据储存能力，可以运行Ubuntu、Iceweasel、KOffice、Python，帮助学生学习一些基本的计算机知识，如在字处理程序中创建文档，制作幻灯片，等等。</i>
+➜研究称新疆冰川面积大幅缩小
+https://www.solidot.org/story?sid=23846	42300
+根据发表在《第四纪研究》杂志上的研究，中国科学院的一个研究小组研究了新疆的1800条冰川，发现在过去26-44年间，<a href="http://www.cas.cn/ky/kyjz/201105/t20110505_3128015.shtml">总面积缩小了11.7%</a>，平均每条冰川缩小0.243平方千米。新疆的冰川水资源位居中国第一。研究认为，未来气候变化对新疆各个区域水资源的影响程度和表现形式是不同的。在塔里木河流域，冰川水资源具有举足轻重的作用，冰川消融会给该地区带来灾难性影响。估计在今后30-50年，升温条件不变，冰川融水量仍会维持。<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/05/110506_china_glacier_xinjiang.shtml">中国冰川专家说</a>，新疆冰川的消融将对新疆绿洲的气候产生一定影响。
+➜因反对强征村民被游街和侮辱
+https://www.solidot.org/story?sid=23847	53400
+bonnae1982 写道 "<i>据<a href="http://www.time-weekly.com/story/2011-05-05/114412.html">《时代周报》</a>(<a href="http://cache.baidu.com/c?m=9f65cb4a8c8507ed4fece763105392230e54f725678887027fa2d61fc43d050a506694ea7a7d0d4595983c2c1caf4b5fe9e73604350437b7edca8f57deb8942e2c8830340746c01e4cc75cf28b102ad650934d9aa40e96b9e74197b9d3a3c82458dd24076d81809c2b7303ba1ce71541f4d69e5f645907bb9d27158c4e075a885246a13188f7331e10f7f1ca2849d45ad776679d&amp;p=97759a46d6841efc57efdb375843&amp;user=baidu&amp;fm=sc&amp;query=%E6%9A%B4%E5%8A%9B%E7%81%8C%E5%B1%8E%E7%9A%84%E6%B1%89%E8%83%BD%E5%BE%81%E5%9C%B0+site:time-weekly.com&amp;qid=81cb45bf0ea05c84&amp;p1=1">百度快照</a> ,<a href="http://finance.sina.com.cn/roll/20110505/02139793871.shtml">新浪转载</a>)报道，江苏邳州市经济开发区的李场村村民因为反对土地被强征，结果不少女性村民被游街示众，更有部分村民被政府工作人员抓走后强行往口中灌入牲畜粪便，进行人身侮辱。</i>           2010年9月26日邳州市政府与<a href="http://www.hanergy.com/">汉能控股集团有限公司</a>就总投资148亿元的汉能集团邳州光伏产业制造基地及光伏电站项目正式签约。 2011年4月18日，汉能控股集团有限公司在邳州的项目开始动工，当地村民看着小麦还有一个多月就成熟了，看着长得密密匝匝茁壮的青苗要被施工方铲除，心里觉得很愤怒：为什么不能等一个月，非要毁了这些庄稼，于是部分村民聚集在250省道边上，迎接他们的是数百名不明身份的人，接下来就是一场混战，导致多人受伤，20多人被抓，被抓的20多人都是女性，被政府押上汽车，带到当地各个村落和小区游街示众。而其中更有多名女性被政府工作人员抓走后强行往口中灌入猪屎、狗屎，进行人身侮辱。李德仁老人介绍，连自己的孙子、孙女连同儿媳妇一起都被带走了，小孩子才一两岁，儿媳妇被打了两巴掌。一位女性介绍，一个姓董的小媳妇娘家是王场的，拉到沙沟湖的养猪场，往嘴里喂猪屎。然后被游街示众，政府工作人员告诉大家，你们要是闹下场跟她是一样的。董美的丈夫说，妻子被逮到新沂一个养猪的地方，被三个人按着往嘴里喂猪屎，回家后难过得只想死。他介绍说，那些人把猪屎灌在矿泉水瓶里，和开后硬往嘴里灌的。一位叫辛敬兰的女性村民说自己的裤子都被那些人扒掉了，还有一个人衣服被扒光只剩了一条小裤头，然后被四个男的抓住手脚往地上摔。一些村民向时代周报记者介绍，那些打人者是有选择性的，专门打女人，而且手法下流，抓住女性就把上衣往上面一捋，把奶子露出来，裤子往下面一扒，只剩一条裤衩。
+<br> <br>没有手续的征地。邳州市开发区党工委书记吕岩、开发区管委会主任柳如钰向时代周报记者澄清，4月18日并未发生如村民所言的暴力行为，当时的情况是，工地要开工，但是有个别村民阻拦施工，而且从村里用桶装了大粪过来，然后向干部身上泼洒。但是干部都很克制，没有殴打村民的行为，开发区有录像作证。吕岩书记称，该片土地并非像村民所说的是良田，征用期限是按照工业土地使用期限50年来征地的，50年之后还要还给村民。时代周报记者在250省道周围，发现有好几块土地里的小麦被推土机碾压铲除过。在汉能集团工地中间，还有一些小麦仍未被铲除，长势茂盛。在工地周围的麦田里，小麦郁郁葱葱，暗绿色的色泽加上坚挺的麦秆，很难让人相信这是邳州市一些干部所言的荒地。贺庄村的一些村民向时代周报记者道出了政府运作土地的窍门：他们先把土地占了，不给村民继续种地，然后抛荒一段时间，接着再在上面搞一些建筑，然后再拆除，接着就能向上级土地部门申请使用该土地了。报告中出示的土地情况就会让上级以为这是荒地。
+<br> <br>时代周报记者在李场村采访时，村民们一再要求查看记者证，并将记者证拍照抄录。对于记者要求他们提供的现场录像证据，也是在中国记者网上对时代周报以及记者本人进行检索确认后才于5月4日早晨将关键的证据发来。村民告知，在很久前，有2名从南京前去的记者了解了好多事情后被政府接走，据说安排在一家宾馆里，拿了2万块钱后就走了。"

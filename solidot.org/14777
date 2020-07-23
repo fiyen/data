@@ -1,0 +1,96 @@
+➜Android下一版本将“聚焦”用户体验
+https://www.solidot.org/story?sid=18427	1680
+<a href="http://yi-it.com/blog/">android.vs.ios</a> 写道 "Techcrunc<a href="http://techcrunch.com/2010/06/16/android-team-laser-focused-on-the-user-experience-for-next-release/">报道</a>，Google的Android团队从2008年第一个Android手机（和设备）上市以来，以非常快的速度更新和改进这个操作系统。过去的几年里，Android增添了大量的功能。但是在用户体验方面，却一直没有什么大的突破。不过，从多个接近Google的消息来源传出，<a href="http://yi-it.com/blog/?p=709">这一局面在Android的下一个版本将发生变化</a>。
+<i>
+消息来源说，Android团队多多少少已经完成了一些核心特性（core features），虽然还会有一些改动。但Google想结束手持设备制造商和运营商在Google Android系统上添加他们自己UI层（UI layer）的做法，比如Sense、Motoblur和Ninjablur等。为了应对这些，Google正集中大量精力来改善用户体验，并为下一个要发布的Gingerbread做准备。同时他们希望在这方面能和iPhone减少差距。"</i>
+➜八款优秀的Linux新闻组自由软件工具
+https://www.solidot.org/story?sid=18428	4200
+<a href="mailto:simon44keller@yahoo.com">Simon Keller</a> 写道<i> "Usenet是一个全球分布式互联网讨论系统。它建立于1980年，让用户能在不同新闻组阅读和发布信息。它的出现早于BBS、博客、即时通讯和P2P。随着论坛和博客的日益流行，Usenet作为一个讨论系统的重要性已大大降低。然而Usenet社区仍然十分活跃，依旧是一个卓越的信息资源，并得到了许多志同道合者的支持。Usenet也是下载Linux发行版等文件的主要途径。linuxlinks的这篇文章列出了<a href="http://www.linuxlinks.com/article/20100613051106561/Usenet.html">八款优秀的Linux新闻组自由软件工具</a>，包括：基于Web的跨平台Usenet新闻抓取器<a href="http://sabnzbd.org/">SABnzdb</a>；KDE桌面的Usenet新闻抓取器<a href="http://klibido.sourceforge.net/">KLibido</a>；基于GTK2的Usenet新闻阅读器<a href="http://pan.rebelbase.com/">Pan</a>等等。</i>
+➜FFmpeg 0.6发布
+https://www.solidot.org/story?sid=18429	5100
+FFmpeg 0.6<a href="http://ffmpeg.org/index.html#release_0.6">正式发布</a>，其代号为“Works with HTML5”，凸显新版本大幅改进了HTML5视频支持。新版显著改进了H.264和Theora解码器速度，更新了Vorbis解码器，加入了Google开源编解码器VP8的支持，Matroska demuxer扩展支持WebM容器。
+➜Linux IRC服务器软件发现后门
+https://www.solidot.org/story?sid=18430	7200
+Linux IRC服务器软件UnrealIRCd最近<a href="http://www.osnews.com/story/23448/Linux_IRC_Server_Gets_Trojan_Press_Harps_On_Linux_Security">被发现</a>其源代码中包含有一个特洛伊木马。<i>
+Unreal IRC官方发表<a href="http://forums.unrealircd.com/viewtopic.php?t=6562">声明</a>表示歉意，称他们发现镜像中的Unreal3.2.8.1.tar.gz文件，大约在2009年11月被替换成一个有后门的版本。这个后门能让第三者以用户特权执行任何指令。不管有没有任何的用户限制（即使是有密码保护的服务器，或不允许任何用户登入的中心），这个后门都能被执行。UnrealIRCd管理员Syzop随后<a href="http://forums.unrealircd.com/viewtopic.php?t=6566">宣布</a>将使用新的手段防止类似事件再发生（或者会更快时间的发现恶意程序，不会像现在半年之后才发现）。</i>
+比较<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20146184,00.htm">有意思的是</a>，UnrealIRCd的Windows（SSL和非SSL）版本都不受影响，Windows版如果感染了类似的恶意程式，会在几天，甚至几小时内被发现，因为用户一定会在安装前作例行的病毒扫描。
+➜科学家将蜘蛛基因植入羊体
+https://www.solidot.org/story?sid=18431	8280
+<a href="http://www.hi2020.com/">书评影评</a> 写道<i> "IMPACTLAB<a href="http://www.impactlab.com/2010/05/31/scientists-incorporate-spiders-silk-spinning-genes-into-goats/">报道</a>，美国怀俄明大学的研究人员已经研发出把蛛丝基因移植到山羊体内的方法，通过这项技术，研究人员可以从山羊奶里收获蛛丝蛋白，用于各种用途。例如，由于蛛丝纤维很强壮、弹性又好，因此具有多种医学价值，比如制造韧带和肌腱、用来缝合眼部伤口或者修复下颌。除此以外，还能用它制造防弹背心和改进安全气囊。"</i>
+➜白米饭可能增加糖尿病几率
+https://www.solidot.org/story?sid=18432	10560
+BBC<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/06/100615_rice_diabetes.shtml">报道</a>，根据哈佛大学公共卫生学院的最新<a href="http://www.hsph.harvard.edu/news/press-releases/2010-releases/white-rice-brown-rice-whole-grains-diabetes.html">研究</a>，每周吃五顿以上的白米饭与二型糖尿病发病率上升<a href="http://www.physorg.com/news195738388.html">存在相关性</a>。而用粗米饭或全麦面包代替白米饭则能大大降低患病风险。研究人员估计，如果以相同数量的粗米饭代替白米饭，可以把患二型糖尿病的风险降低16%；如果以全麦和大麦面包代替，则可以把糖尿病的风险降低36%。<i>
+研究人员说，白米饭之所以使人易患糖尿病是因为它可以使人的血糖骤增。研究人员说，这与食物本身的性质有关系。例如像全麦粉和粗米这类食品含有高纤维，它们可以缓慢地释放能量。但相对而言，白米在加工的过程中的一些糖和胚芽被去除了，因此使它的血糖生成指数上升。哈佛大学的科学家研究了20万份问卷调查，结果发现那些每周吃5至150克白米饭的人患二型糖尿病的机会高出17%。</i>
+➜Uwe Boll等起诉数千电影盗版者
+https://www.solidot.org/story?sid=18433	12720
+美国版权组织(US Copyright Group)代表众多票房不佳的电影制片商<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/06/11/AR2010061105738.html">起诉了</a>超过14000名身份尚未识别的文件共享者，理由很冠冕堂皇表示是为了拯救电影行业，但实际上人人心知肚明他们是为了钱。电子前哨基金会（EFF）的律师Jennifer Granick认为，这些版权组织成立的目的就是为了起诉，他们眼里法律系统是一个可以赚钱的途径，赚到钱之后他们可以资助进行更多的诉讼。EFF将这种做法称之为<a href="http://www.eff.org/riaa-v-people">黑手党式的敲诈勒索</a>。在这起版权诉讼中，最有趣的或许是有“<a href="http://en.wikipedia.org/wiki/Uwe_Boll">世界最差导演</a>”之称的Uwe Boll也位列起诉的电影制片商名单中。这位喜欢拍摄游戏改编电影的导演看起来找到了<a href="http://yro.slashdot.org/story/10/06/14/2136233/Uwe-Boll-Other-Filmmakers-Sue-Thousands-of-Movie-Pirates">新的收入来源</a>。
+➜网站主抱怨因世界杯流量下降
+https://www.solidot.org/story?sid=18434	14400
+<a href="http://yi-it.com/">take.IT.easy</a> 写道<i> "<a href="http://www.seroundtable.com/archives/022385.html">一些网站主抱怨因为世界杯的缘故</a>，人们都坐在电视前观看球赛，而不是在计算机前上网、网购，以至于他们的<a href="http://yi-it.com/blog/?p=703">网站流量下降、广告点击量骤减</a>。或许有创意的网站主倒可以充分利用世界杯来获得更多的流量。那么你的网站如何，是否流量也同样减少了呢？
+"</i>
+➜《辐射Online》网站上线，诉讼仍在继续
+https://www.solidot.org/story?sid=18435	22800
+虽然Bethesda和Interplay仍由于《辐射》著作权的纠纷而在打官司，但<a href="http://www.interplay.com/">Interplay官网</a>现已<a href="http://www.massively.com/2010/06/15/please-stand-by-fallout-online-gets-its-own-website/">开始宣传其《辐射Online》MMORPG</a>。Interplay正式推出了《<a href="http://www.fallout-on-line.com/">辐射Online</a>》网站，感兴趣的玩家可以注册参与beta测试，域名是Interplay公司注册的，而网站首页注明Fallout商标归Bethesda所有。
+➜基于Chromium的浏览器Flock 3 beta发布
+https://www.solidot.org/story?sid=18436	25200
+Flock于2007年发布了1.0版本，在3.0版前它都是基于Firefox浏览器，定制社交网络功能。整合流行的Web应用程序。但从3.0版开始，Flock浏览器将基于Google的Chromium开源项目，主要原因是旧的基于Firefox版本过于臃肿，界面混乱，无法吸引主流用户。因此Flock的开发商力图在新一版中，降低用户界面足迹，更精简，在提供丰富的社交网络功能的同时不会影响性能和稳定性。根据Ars Technica对刚刚发布的<a href="http://beta.flock.com/">Flock 3 beta</a>的<a href="http://arstechnica.com/software/news/2010/06/chromium-based-flock-beta-offers-unobtrusive-social-features.ars">测试</a>，新版本基本实现了上述的目标。<i>
+Flock 3的基本外观与Chrome相似，用户界面风格与其略有差异。用户创建一个Flock帐号后，可以同步书签，社交网络身份，以及其它设置。用户界面上有一个默认隐藏的侧边栏，可以显示来自Twitter和Facebook联系人的信息流。它的社交网络管理功能支持在不同组（group）内管理Twitter、Facebook、Flickr等社交服务的联系人，允许用户在group内加入RSS订阅源。除此之外，Flock 3还有一个类似Firefox 3的智能地址栏，当用户在地址栏输入一个关键词，可以选择社交网络联系人刚刚发布的一条相关信息。Flock 3 beta 目前只有Windows版本，公司CEO Shawn Hardi表示未来将推出Mac OS X版。</i>
+➜10个强大的开源Web流量分析工具
+https://www.solidot.org/story?sid=18437	26880
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "Web 流量分析工具多不胜数，从 WebTrends 这样专业而昂贵的，到 Google Analytics 这样强大而免费的，从需要在服务器端单独部署的，到可以从前端集成的，不一而足。本文收集并介绍了10个功能强大的开源 Web 流量分析工具，因为是开源的，因此可以免费部署到你的网站（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K985.aspx">完整图文版</a>）。            <a href="http://www.tracewatch.com/">TraceWatch</a>
+<br> <br>TraceWatch 是一个开源 Web 流量分析程序，支持实时分析，可以提供深度分析报告。
+<br> <br> <b> <a href="http://slimstat.net/">SlimStat</a> </b>
+<br> <br>基于 PHP-MySQL，同时，可以像 Google Analytics 那样，通过 JavaScript 或 PHP 脚本集成到网站。
+<br> <br> <a href="http://piwik.org/"> <b>Piwik</b> </a>
+<br> <br>可以生成站点的详细的实时访问报告，基于 PHP 和 MySQL，也可以像 Google Analytics 那样在前端集成。
+<br> <br> <a href="http://www.openwebanalytics.com/"> <b>Open  Web Analytics</b> </a>
+<br> <br>基于 PHP，内置对 WordPress，Gallery 以及 MediaWiki 的支持。
+<br> <br> <a href="http://www.w3perl.com/"> <b>W3Perl</b> </a>
+<br> <br>W3Perl 是一个 Web Log 分析工具。
+<br> <br> <b> <a href="http://www.crawltrack.net/">CrawlTrack</a> </b>
+<br> <br>CrawTrack 是一个很好的 Google Analytics 的开源替用品，提供非常独特的报告，比如，CrawTrack 可以帮你预防诸如 SQL 注射一类的攻击。
+<br> <br> <b> <a href="http://www.bbclone.de/">BBClone</a> </b>
+<br> <br>BBClone 是一个 Web 计数器，可以提供很详细的访问报告。基于 PHP。
+<a href="http://www.phpmyvisites.us/phpmv2/"> <b>PhpMyVisites</b> </a>
+<br> <br>  基于 GNU/GPL 开源协议，可以提供很详细的，有关访问者信息的报告，它的 GUI 界面很有趣而且实用，安装也很简单。
+<br> <br> <b> <a href="http://awstats.sourceforge.net/">AWStats</a> </b>
+<br> <br>可以提供非常强大的，关于网站，FTP 站点，乃至 Email 服务器的访问分析报告，基于 CGI。
+<br> <br> <b> <a href="http://www.quate.net/grape">Grape</a> </b>
+<br> <br>Grape 的界面比较简单，功能虽然不多，但很实用。
+<br> <br>本文国际来源：reencoded.com  10 amazing open source web analytics （原文作者：<a href="http://www.reencoded.com/author/denbagus/">denbagus</a>）
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜OnLive云游戏服务正式推出
+https://www.solidot.org/story?sid=18438	27900
+云游戏服务<a href="http://www.onlive.com/">OnLive</a>将于今日（6月17日）<a href="http://games.slashdot.org/story/10/06/17/046224/Cloud-Gaming-Service-OnLive-Set-For-Launch">正式推出</a>，美国各地无论是报以怀疑还是期盼已久的玩家终于可以亲自测试一下。在授予一批早期注册用户免费试用一年服务之后，OnLive宣布了23款首批提供给玩家的游戏，包括了：《质量效应2》、《UT 3》、《刺客信条2》，《Dragon Age: Origins》、《蝙蝠侠：阿甘疯人院》、《F.E.A.R. 2》、《Dirt 2》、《NBA 2K10》、《波斯王子：遗忘之沙》、《粘粘世界》等。
+➜比尔盖茨称美国应加大清洁能源技术投资
+https://www.solidot.org/story?sid=18439	31320
+比尔盖茨、通用电气首席执行官 Jeff Immelt、风投家John Doerr等人在白宫会见了美国总统奥巴马，<a href="http://hardware.slashdot.org/story/10/06/14/1638236/Bill-Gatess-New-Version-of-the-Einstein-Letter">传达了他们对于美国在清洁能源技术领域落后的担忧</a>。他们指出，全世界新能源技术（如太阳能、电池、风电）领先的30家公司中，只有4家公司总部在美国。盖茨及其盟友认为，美国应当把在替代能源领域的落后视作是来自其它国家——尤其是中国——的竞争威胁，他们提议白宫应该加大替代能源研究和开发投资，从50亿美元增加到160亿美元。
+➜戴尔宣传Linux的优点
+https://www.solidot.org/story?sid=18440	32400
+Osnews<a href="http://www.osnews.com/story/23454/Dell_Makes_the_Case_for_Linux">报道</a>，PC制造商戴尔公司建立了<a href="http://www.dell.com/content/topics/segtopic.aspx/ubuntu?c=us&amp;cs=19&amp;l=en&amp;s=dhs&amp;~ck=anavml">一个网页</a>宣传Linux（主要为Ubuntu）的优点。网页列举了Ubuntu相比Windows所具有的独特之处，例如：预装了Open Office，启动速度很快，可以快速获取1000多款免费软件等等。
+➜CIA解密大量朝鲜战争文件
+https://www.solidot.org/story?sid=18441	34560
+正值<a href="http://zh.wikipedia.org/zh/%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BA%89">朝鲜战争</a>爆发60周年之际，美国中央情报局（CIA）<a href="http://news.yahoo.com/s/ap/20100617/ap_on_re_us/us_korean_war_documents#mwpphu-container">公布</a>了朝鲜战争的大量秘密文件。CIA解密的文件是通过CD-ROM的形式在杜鲁门总统图书馆举行的朝鲜战争会议上分发给与会者的，这些文件会很快发布到CIA官网。华盛顿的<a href="http://www.wilsoncenter.org/">伍德罗·威尔逊国际学术中心</a>和<a href="http://www.trumanlibrary.org/index.php">杜鲁门总统图书馆和博物馆</a>都同时公布了数百份朝鲜战争的文件。<i>
+<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/06/100617_cia_korean_war_files.shtml">CIA公布的文件</a>包括情报分析报告、信件、美国国家情报评估文件，以及当时外国媒体对该地区事件的报道。文件显示当朝鲜军队在1950年6月越过三八线向南推进时，美国军方和领导人感到措手不及。CIA分析部负责人说，这些文件显示中情局在那些年代“并非组织精良”。该负责人说，文件显示中情局当时的运作靠的是“少数分析员兼顾整个世界”，而不是象现在这样派不同的分析员负责特定的地区。</i>
+➜深度包检测将成为价值15亿美元的产业
+https://www.solidot.org/story?sid=18442	37920
+根据Infonetics Research的估计，<a href="http://arstechnica.com/tech-policy/news/2010/06/deep-packet-inspection-soon-to-be-15-billion-business.ars">深度包检测到2013年将成为一个价值15亿美元的产业</a>。<i>
+<a href="http://www.huawei.com/cn/products/datacomm/catalog.do?id=2146">深度包检测</a>设备可用于分析流量，区分优先任务，甚至是屏蔽不受欢迎的P2P通讯。它可以帮助运营商在不增加基础设施投入的情况下充分利用现有资源。当然，深度包检测无疑与互联网的开放性和网络中立原则相冲突。根据<a href="http://headley.co.uk/headturner/ttp0410">Total Telecom Plus newsletter</a>的最新报告，英国移动运营商T-Mobile目前就使用深度包检测设备，让低延迟的流量如视频比后台任务如下载文件能更快的得到响应。</i>
+➜地震学家可能因无法预测地震而受指责
+https://www.solidot.org/story?sid=18443	39120
+2009年，意大利拉奎拉（L'Aquila）地区发生了一系列小型地震。地震学家在研究后得出结论，称并没有任何直接迹象显示此地即将发生一场大地震。然而在这番声明发表一周之后，拉奎拉地区就发生了6.3级地震，造成308人死亡。拉奎拉的首席检察官<a href="http://science.slashdot.org/story/10/06/16/214205/Geologists-Might-Be-Charged-For-Not-Predicting-Quake">正在考虑指控</a>无法预测地震的科学家犯有严重疏忽罪行，他认为科学家应该告诉民众撤离拉奎拉。
+➜费米实验室实验暗示有多个希格斯玻色子
+https://www.solidot.org/story?sid=18444	40800
+寻找上帝粒子或“希格斯玻色子”是欧洲大强子对撞机（LHC）的主要目标，但现在LHC的美国竞争对手费米实验室Tevatron粒子加速器的<a href="http://news.bbc.co.uk/2/hi/science_and_environment/10313875.stm">最新研究暗示</a>，“希格斯玻色子”也许不是一个，而是有五个。
+<i>
+Tevatron粒子加速器上进行的<a href="http://www.fnal.gov/pub/presspass/press_releases/CP-violation-20100518.html">DZero实验</a>，发现了<a href="__SLASHLINK__" sect="science" sid="10/05/19/0019239" sn="article" tid="19">明显的物质反物质不对称</a>，实验结果无法用现有的标准模型解释。参与DZero实验的科学家Bogdan Dobrescu、Adam Martin和Patrick J Fox认为，这种显著的不对称性可以通过存在多个希格斯玻色子加以说明。他们指出，DZero数据显示五个希格斯玻色子有类似的质量，但电荷不同。其中三个为中性，另外两个分别带正电荷和负电荷。这就是所谓的“two-Higgs doublet mode”。
+</i>
+<a href="http://arxiv.org/abs/1005.4238">arXiv预印本</a>
+➜Nintendo 3DS初步印象，任天堂把旧游戏3D化
+https://www.solidot.org/story?sid=18445	44100
+Ars Technica<a href="http://arstechnica.com/gaming/news/2010/06/hands-on-with-the-nintendo-3ds-it-works-and-works-well.ars">报道</a>，任天堂在E3游戏展上宣布的3D掌机确实能让玩家产生真实的3D空间感。用户能从电影视频中观察到场景的层次；而在游戏《Metal Gear Solid》的一个demo演示中，Solid Snake在绳索桥上受到蜜蜂的攻击，他拔枪射击，听起来有点傻，但蜜蜂的嗡嗡叫声在3D空间中绕梁不绝，游戏视角也可以移动。<i>
+《连线》<a href="http://www.wired.com/gamelife/2010/06/nintendo-3ds-3/">报道</a>，人眼所观察到的3D效果在大多数情况下是正确的。3DS的图形比多数人预计的要更先进。3DS掌机也许与索尼的PSP在硬件上处于同一水平，但令人叹为观止的3D效果让一切变得栩栩如生。宫本茂在年度开发者的圆桌会议上表示，射击类游戏要比其它类型的游戏，更多受益于3D效果。<a href="http://games.slashdot.org/story/10/06/17/0430225/Nintendo-3DS-Early-Impressions">任天堂还希望尽可能多的更新旧游戏</a>，加入3D图形和3D游戏体验，例如有12年历史的《塞尔达传说：时之笛》。宫本茂没有透露旧游戏是否会作为零售产品发布。</i>
+➜暗物质和暗能量也许并不存在
+https://www.solidot.org/story?sid=18446	46560
+stranger ( @wmrofficial ) 写道 "一项突破性研究成果称，<a href="http://www.telegraph.co.uk/science/space/7827674/Dark-energy-may-not-exist-in-space-scientists-claim.html">据信占宇宙构成96%的暗物质和暗能量也许并不存在</a>。
+<i>一些英国科学家声称，用于计算宇宙构成的方法也许是错误的。已有数十年历史的标准模型认为，我们所知的宇宙——由行星、恒星、小行星和气体等可认识的部分构成——只占宇宙的4%。其余部分据信是由神秘的<a href="http://zh.wikipedia.org/zh/%E6%9A%97%E7%89%A9%E8%B4%A8">暗物质</a>和<a href="http://zh.wikipedia.org/zh/%E6%9A%97%E8%83%BD%E9%87%8F">暗能量</a>构成的。暗物质和暗能量遍布太空，促进宇宙的膨胀。但达勒姆大学的物理学家们日前提出，标准模型赖以为基础的计算可能存在致命缺陷。这导致了以下可能性：宇宙的“暗面”并不存在，这又意味着宇宙的膨胀速度比原先设想的要慢。皇家天文学会的罗伯特·马西博士说：“这将对我们关于宇宙长期未来的假设构成极大挑战。因为目前的假设是，宇宙正在膨胀，如果不是这样的话，人们将大为震惊。这甚至可能意味着，宇宙的膨胀速度在放慢，并最终停下来。”上述研究成果发表在皇家天文学会出版的刊物上。对美国航天局2001年对大爆炸后留下的宇宙微波背景辐射进行测量所得数值进行的新分析表明，辐射波也许比此前认为的要小得多.2001年最初进行测量时，科学家们认为，宇宙中4%是“正常”物质，22%是“暗”的或看不见的物质，74%是暗能量。但科学家们现在声称，此前在测量后认为的辐射波大小也许事实上被夸大了。领导此项研究的汤姆·尚克斯教授说，如果他们分析无误，则暗能量和暗物质不太可能主宰宇宙。"</i>

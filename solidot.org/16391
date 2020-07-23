@@ -1,0 +1,50 @@
+➜Debian的systemd维护者因持续受攻击辞职
+https://www.solidot.org/story?sid=41900	9375
+Debian资深开发者、systemd维护团队成员Tollef Fog Heen在邮件列表上<a target="_blank" href="http://lists.alioth.debian.org/pipermail/pkg-systemd-maintainers/2014-November/004563.html"><u>宣布</u></a>辞去systemd的维护工作，原因是持续受到攻击。systemd在社区备受争议，部分反对者还发起了反systemd运动，而
+Debian Jessie在宣布采用systemd作为默认的初始化系统之后也在Debian社区内外引发了激烈的争议。Heen<a target="_blank" href="http://linux.slashdot.org/story/14/11/16/2142244/longtime-debian-developer-tollef-fog-heen-resigns-from-systemd-maintainer-team"><u>声明</u></a>他没有离开Debian，<a target="_blank" href="https://twitter.com/tfheen/status/534026423628210176"><u>表示</u></a>会在博客上详谈此事。
+➜计算机科学家开发出自我愈合的软件
+https://www.solidot.org/story?sid=41902	15350
+犹他大学的计算机科学家开发出<a href="http://www.sciencedaily.com/releases/2014/11/141113140011.htm"><u>一种软件</u></a>，它不仅能检测和消灭此前从未见过的病毒和恶意程序，还能自我修复病毒造成的破坏。新软件被称为<a target="_blank" href="http://www.cs.utah.edu/~regehr/papers/middleware11.pdf"><u>A3</u></a>（PDF），代表高级自适应应用程序（Advanced Adaptive Applications），由犹他大学与国防承包商雷声BBN共同开发，获得了美国国防部高级研究计划署（DARPA）的资助。A3是一个基于Linux的软件套件，工作在虚拟机上，它设计观察虚拟机的操作系统和应用程序，保护运行Linux的服务器或其它商用级计算机，以及保护军用软件。它能通过感知计算机的操作不正确而检测出未知的病毒或恶意程序，它能阻止病毒修复被破坏软件的代码，防止感染再次发生。领导这项研究的计算机科学家Eric Eide称，A3暂时没有应用于家用计算机的计划，但他没有排除未来的可能性。
+➜亚马逊的云服务有200万台服务器
+https://www.solidot.org/story?sid=41903	17113
+亚马逊的云计算服务有多大？它运行着地球上规模最大的计算机集群。亚马逊的AWS服务在全世界有11个区域云，每个区域有多组数据中心，每组有至少一个数据中心，每个数据中心有5万到8万台服务器，它在全世界有28组数据中心，保守估计有超过150万台服务器，而市场研究公司 Gartner分析师则估计服务器数量<a target="_blank" href="http://www.bloomberg.com/news/2014-11-14/5-numbers-that-illustrate-the-mind-bending-size-of-amazon-s-cloud.html"><u>超过200万台</u></a>。相比之下Rackspace Hosting公司只有区区10万台服务器，Google有8组数据中心，微软有17个区域云，微软前CEO鲍尔默（Steve Ballmer）去年透露该公司的服务器超过100万台，Google的服务器也有超过100万台。AWS有超过百万用户，它的云服务还被用于创建超级计算机集群，用于解决复杂的数学难题，如西部数据就曾使用超过7万个处理器核心去建模硬盘内的流体动力和磁性关系。<br>
+➜印度部分学生索要作弊权利
+https://www.solidot.org/story?sid=41904	19307
+一部分印度学生宣称<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/fooc/2014/11/141114_fooc_right_to_cheat"><u>作弊是人与生俱来的权利</u></a>，是人的民主权利。这一现象可能与当地情况有关。在印度北方邦，大学考试体制中腐败现象非常普遍。有钱人可以通过行贿买来好成绩。年轻人中甚至还有一个特殊群体，在学生和贪婪的官员之间作掮客。此外，还有一个非凡的学生阶层，他们政治关系网四通八达、在当地名气相当大，监考官根本不敢碰他们。穷学生因此认为有钱、有权的人能欺骗作假，我们为什么不能呢？1990年代早期，北方邦就曾发生过支持作弊的集会。当时的省长妥协，接受了集会要求，废除反抄袭法。实际上等于给学生作弊开绿灯。争取作弊权的运动并不奇怪，这对今日印度具有讽刺意味。
+➜在遭中国黑客攻击之后Google与NSA结盟
+https://www.solidot.org/story?sid=41905	25959
+2009年12月中旬，Google加州山景城总部的工程师开始怀疑中国黑客得到了人权活动人士在内的私人Gmail账号访问权限。仔细检查之后，工程师发现这不是一起普通的黑客攻击行动。这是一次对Google基础设施发动的高度复杂和有针对性的攻击。攻击者设法获得了Google密码系统的访问权限，能访问包括源代码在内的系统。他们一路跟踪到了入侵源头——位于台湾的一台被中国大陆黑客控制的服务器。Salon引用一位前资深情报官员的话称，<a target="_blank" href="http://www.salon.com/2014/11/16/googles_secret_nsa_alliance_the_terrifying_deals_between_silicon_valley_and_the_security_state/"><u>Google入侵了这台服务器</u></a>。目前不清楚Google调查人员是如何获得这台服务器的访问权限的。调查人员共享的证据披露，中国黑客入侵了包括Google在内的三十几家公司，其中包括赛门铁克、雅虎、Adobe、Northrop Grumman和 Juniper Networks。Google与所有目标公司以及美国执法机构和情报机构共享了它的发现。过去四年，企业高管一直暗地向政府官员施压公开与中国间谍行动有关的信息，羞辱中国以停止攻击。但总统奥巴马或国务卿希拉里克林顿如果要公开指责中国，他们需要有确信无疑的证据。对于Google提供的证据政府分析人员没有把握。美国官员认为，两大经济大国关系太脆弱，公开信息所引发的冲突风险太高。Google对此不予认同。它通过官方博客公开发表声明，指控中国黑客攻击Google的基础设施，批评中国政府审查互联网内容压制人权活动人士，宣布停止过滤搜索结果，准备好退出中国大陆市场。此次黑客攻击也促使了NSA和Google的结盟，双方达成了协议，Google向NSA提供网络流量相关的信息，交换NSA提供外国黑客的情报。
+➜韩国企业因工人工资上升撤离中国
+https://www.solidot.org/story?sid=41906	26827
+韩国贸易投资部门和金融界16日发布的数据显示，大批韩国企业最近几年撤离中国市场。韩联社分析认为，造成韩国企业纷纷撤离中国的最大原因是<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/business/2014/11/141116_korea_china_investment"><u>中国劳动力成本上升</u></a>，导致企业盈利空间缩小。其次是中国政府陆续取消对外企的优惠政策。大企业尚能勉强应付环境改变，但中小企业很快濒临倒闭。另一方面，外企因本国经济景气低迷，逐渐失去进一步在国外投资的能力，这也是外企撤离中国的重要原因之一。数据显示，2006年，在中国新设法人的韩国企业为2294家，2008年为1301家，2013年减至817家，2014年上半年锐减到368家。
+➜太空堡垒卡拉狄加创作者去世
+https://www.solidot.org/story?sid=41907	29827
+美国电视制片人和剧作家<a target="_blank" href="http://en.wikipedia.org/wiki/Glen_A._Larson"><u>Glen A. Larson</u></a>于11月14日<a target="_blank" href="http://www.hollywoodreporter.com/news/glen-a-larson-dead-battlestar-748879"><u>因食道癌在加州去世</u></a>，享年77岁。Glen A. Larson创作的知名电视系列包括《太空堡垒卡拉狄加》、《无敌金刚》（Six Million Dollar Man）、《霹雳游侠》、《替死鬼》和《夏威夷神探》等。《太空堡垒卡拉狄加》在1978到1979年只播出了一季，但产生了巨大的影响，电视剧讲述了机器人Cylons和人类之间的战争，Cylons成功毁灭了人类的殖民地，太空堡垒卡拉狄加的指挥官Adama率领着一只孤独的舰队在太空中流浪。电视剧被砍的原因是制作成本太贵了，每集超过一百万美元。本世纪的《<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%A4%AA%E7%A9%BA%E5%A0%A1%E5%9E%92%E5%8D%A1%E6%8B%89%E7%8B%84%E5%8A%A0"><u>太空堡垒卡拉狄加</u></a>》的翻拍版本也获得了巨大的成功。
+➜为什么如此多的中国儿童戴眼镜
+https://www.solidot.org/story?sid=41908	31321
+1970年，16-18岁中国青少年中间不到三分之一患有近视。今天的比例是五分之四，部分城市地区甚至更高。其中五分之一是高度近视，看不清16厘米外的东西。超过40%的小学儿童近视，相比之下美国或德国的同龄组近视比例不到10%。近视的高发生率在整个东亚都很普遍，新加坡、韩国和台湾18岁少年有80%到90%近视。<a target="_blank" href="http://www.businessinsider.com/why-so-many-chinese-children-wear-glasses-2014-11"><u>近视的问题与社会相关而不是与基因有关</u></a>。2012年的一项研究发现，近视与学习、阅读或使用电子设备的时间过多而室外活动时间过少高度相关。北京同仁医院的Guo Yin，这些习惯在高收入家庭更常见，这些家庭更可能让孩子密集学习。近视的最大因素是缺少室外活动时间。暴露<u>在</u>太阳光下有助于视网膜释放出一种化学物质，减慢眼轴的增长，眼轴增长最有可能导致近视。
+➜世界将面临巧克力短缺
+https://www.solidot.org/story?sid=41909	33446
+人类吃的巧克力太多了。如果你热爱巧克力，你的未来可能将是悲惨的：<a target="_blank" href="http://www.washingtonpost.com/blogs/wonkblog/wp/2014/11/15/the-worlds-biggest-chocolate-maker-says-were-running-out-of-chocolate/"><u>因为世界将面临巧克力短缺</u></a>。这一说法来自两大巧克力制造商Mars, Inc. 和Barry Callebaut，而这些说法背后也有数据支持。可可豆产量低于需求而导致的巧克力短缺将成为常态。去年，全世界用掉的可可豆比产量多大约7万吨。两大巧克力制造商警告，到2020年，这一数字有可能达到100万吨；到2030年将会达到200万吨。可可豆的供应问题与天气和疾病有关，导致了可可豆产量下降30%到40%。除此之外，中国对巧克力的日益喜爱则推动了需求的高涨，中国每年购买的巧克力都比上一年多。可可豆的价格自2012年以来增加了超过60%。
+➜印尼税务机构使用开源软件节省90%的费用
+https://www.solidot.org/story?sid=41910	35223
+印尼税务机构通过使用开源软件<a target="_blank" href="http://www.futuregov.asia/articles/5691-indonesia-tax-agency-saves-90-per-cent-with-open-source#section-2"><u>节省了90%的费用</u></a>。开源软件没有许可费，维护成本更低。印尼税务机构从2002年以来开始使用开源软件，目前已经将部分核心税务管理系统的应用迁移到开源，但最关键的系统仍然是私有软件，原因是担心支持问题。该机构使用开源的一个原因是采购过程过于复杂，开源软件通常是免费的，因此能绕过复杂的采购流程。税务机构官员称，Linux相比Windows在服务器上更稳定更快。
+➜中国可能将启动三大新核电项目
+https://www.solidot.org/story?sid=41911	35991
+日本福岛核事故让全球各国放缓了建设核电站的步伐，中国的核电建设也一度陷入低潮，但这一趋势可能<a target="_blank" href="http://www.nanzao.com/sc/china/42507/zhong-guo-huo-jiang-qi-dong-san-da-xin-he-dian-xiang-mu"><u>即将改变</u></a>。《第一财经日报》<a target="_blank" href="http://www.yicai.com/news/2014/11/4040966.html"><u>报道</u></a>，国家发改委已正式向国务院申报三个核电站项目共6台机组，预计总投资1000亿到1200亿元之间，分属辽宁大连红沿河核电二期、山东荣成石岛湾核电CAP1400示范工程和中核集团福清核电站项目，装机容量大约在700万千瓦。截至第三季度末，中国投入商业运行的核电机组共20台，分布于秦山、岭澳、大亚湾、田湾、宁德、红沿河、阳江7个核电基地。另外，中国目前在建的核电机组有28台。在运和在建机组一共的总装机容量达到4800万千瓦。报告称，核电迟迟没有重启的核心原因是没有可用的第三代国产技术。中国选择引进美国西屋的AP1000技术作为高起点推进三代核电自主化的依托，并于2009年起陆续在浙江三门和山东海阳各建设2台机组，这是世界首批AP1000机组。
+➜Google Glass可能将最终被放弃
+https://www.solidot.org/story?sid=41912	39595
+Google联合创始人Sergey Brin最近被发现没有佩戴Google Glass出席硅谷的一个活动，他告诉记者眼镜留在了车内。Brin没有放弃Google Glass，人们还是不时会看到他佩戴眼镜。然而两年前高调亮相的Google Glass正在失去开发者和用户的兴趣。这个实验性产品变成一款畅销消费者产品的前景日益黯淡。在16家Glass应用开发商中，9家表示他们已经停止或放弃了项目，原因是缺乏消费者或设备的限制；3家已经从开发消费者应用转化到企业级应用。一家停止应用开发的公司CEO指出，当前还不存在一个Glass市场。过去半年多名Glass开发的关键成员离开了公司，其中包括开发主管Babak Parviz和电机工程主管Adrian Wong。Brin曾预言今年将发布Glass，但今年就快过去了，2015年是目前最有可能发布的日期。发布的延期可能意味着<a target="_blank" href="http://www.brisbanetimes.com.au/digital-life/games/google-glass-future-clouded-as-early-believers-lose-faith-20141116-11nq2s.html"><u>Google最终会放弃Glass</u></a>。
+➜Avast杀毒软件杀死Firefox扩展
+https://www.solidot.org/story?sid=41913	40779
+Avast杀毒软件用户在官方论坛上<a target="_blank" href="https://forum.avast.com/index.php?topic=160289.0"><u>报告</u></a>，在最新更新之后它自动移除了 Firefox 33.1的扩展，没有任何警告，没有任何选项可以阻止移除，而移除的扩展是合法扩展而不是什么恶意扩展，比如经典主题和NoScript。Avast没有移除所有扩展，还保留了一部分，所以部分使用Avast的Firefox用户未必会立即察觉。目前还不清楚是什么bug导致Avast<a target="_blank" href="http://www.ghacks.net/2014/11/16/latest-avast-reportedly-deleting-firefox-add-ons/"><u>出现了异常</u></a>。
+➜荷兰男子在手上植入储存比特币的NFC芯片
+https://www.solidot.org/story?sid=41914	42984
+<div align="center"><img src="http://img.solidot.com.cn/0/747/liPLrQf2IQbZ6.jpg" height="393" width="480" align=""><br>
+<br>
+</div>
+离线储存比特币钱包可以避免它被人从网上偷走。比特币冷藏的方法主要是将钱包储存在加密U盘或打印在纸上。但你<a target="_blank" href="http://arstechnica.com/business/2014/11/man-has-nfc-chips-injected-into-his-hands-to-store-cold-bitcoin-wallet/"><u>有没有想过嵌入在身体内</u></a>？荷兰的比特币爱好者、Mr. Bitcoin的CEO <a target="_blank" href="https://twitter.com/twiet"><u>Martijn Wismeijer</u></a>将两枚NFC芯片胶囊嵌入在两只手的拇指和食指之间（如图所示），NFC芯片被置入一个微小的玻璃胶囊，胶囊大小2毫米x12毫米。他的阿姆斯特丹医院拒绝帮助他植入胶囊，手术是在一位穿孔艺术家的帮助下完成的。其他人如果想模仿他的做法，为了避免感染最好找专业人士协助。Wismeijer称他的比特币不是冷藏而是热藏，因为人体体温有37摄氏度。
+➜中国留美本科生创下新高
+https://www.solidot.org/story?sid=41915	43789
+中国留美研究生人数<a target="_blank" href="http://www.solidot.org/story?sid=41868"><u>在下降</u></a>，但本科生人数<a target="_blank" href="http://www.voachinese.com/content/chinese-student-us-20141117/2522793.html"><u>在增加</u></a>。非营利组织美国国际教育协会周一发表的<a target="_blank" href="http://www.iie.org/Who-We-Are/News-and-Events/Press-Center/Press-Releases/2014/2014-11-17-Open-Doors-Data"><u>报告</u></a>说，赴美攻读本科学业的中国学生潮使得去年美国大学的国际学生人数增加了8%，达到创纪录的近90万人。
+但由于中国对于本国大学的大规模投入，以及来美攻读硕士学位和博士学位的中国留学生人数持平，对于美国大学的收支状况来说不是一个好消息。去年总共有27.4万多名中国学生来美学习，比前一年增长16.5%，这一人数占美国外国留学生总人数的将近三分之一。美国外国留学生另外五个最大的来源地分别是印度、韩国、沙特阿拉伯、加拿大和台湾。

@@ -1,0 +1,13 @@
+➜Tim Berners-Lee 认为 Web 系统正在瓦解
+https://www.solidot.org/story?sid=54547	28910
+万维网之父 Tim Berners-Lee 一贯主张他的发明是人性的一种反映——有好的、有坏的，也有丑陋的。但他的“共享信息和访问机会以及跨地域的协作”的愿景正受到日益强大的数字围墙的挑战，那些控制信息流动的操纵大师将算法变成了武器。Berners-Lee 爵士称他仍然很乐观，但这种乐观是站在山顶上被迎面而来的险恶暴风袭击只能仰仗护栏的那种乐观。假消息和网宣的爆发式传播部分是因为大型数字平台如 Google 或Facebook 的广告系统设计牢牢抓住人的注意力。人们遭到假消息的扭曲是因为训练有素的 AI 知道如何弄混他们。Berners-Lee 称他担心<a href="https://www.theguardian.com/technology/2017/nov/15/tim-berners-lee-world-wide-web-net-neutrality" target="_blank"><u>这个系统正在瓦解</u></a>，利用标题党获得广告收入的工作模式无法实现帮助人类宣传真理和民主的目标。
+➜GitHub 将警告开发者流行软件库的漏洞
+https://www.solidot.org/story?sid=54548	34553
+今天的软件项目通常有大量的依赖库，而上游库的漏洞将会影响到下游软件。现在最大的开源软件开发平台
+GitHub 宣布了<a href="https://github.com/blog/2470-introducing-security-alerts-on-github" target="_blank"><u>安全警告服务</u></a>，将搜索依赖寻找已知漏洞然后通过开发者，以便帮助开发者尽可能快的打上补丁修复漏洞。GitHub 将会识别所有使用受影响依赖的公开项目，使用私有库的项目则需要选择加入才能使用安全警告服务。
+➜Facebook 开源网络路由软件 Open/R
+https://www.solidot.org/story?sid=54549	38065
+Facebook <a href="https://code.facebook.com/posts/291641674683314/open-r-open-routing-for-modern-networks/" target="_blank"><u>宣布</u></a>开源它内部主干网和数据中心网络使用的路由软件 Open/R，<a href="https://github.com/facebook/openr" target="_blank"><u>源代码</u></a>托管在 GitHub 上，采用 MIT 许可证。作为世界上最大的社交网络，Facebook 需要处理数以亿计的实时信息流，传统的网络协议过去 30 年工作良好，但日益展现出其局限性，因为它们是为几十年前假定的软件硬件环境设计的。Open/R 最初是为它的 Terragraph 无线回程网络设计的，但公司很快认识到它也能工作在网络中。Open/R 支持不同的网络拓扑和多种底层硬件软件系统，支持自动 IP 前缀分配、快速收敛、平滑重启等特性。
+➜James Damore 谈自闭症和 Google 备忘录
+https://www.solidot.org/story?sid=54550	51889
+前 Google 工程师 James Damore 因为一篇内部备忘录引发公司内外的广泛争议而遭到解雇，他现在接受《卫报》采访时谈论了他的自闭症和备忘录，称他<a href="https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets" target="_blank"><u>看待事情的方式和其他人不同</u></a>。<i>Damore 认为他在理解其文字被他人诠释上存在问题。他仍然不知道为什么他的备忘录会引发其他人的强烈反应，以至于会被大型科技公司列入雇佣的“黑名单”。他认为原因可能是他看待事情的方式和普通人不同。语言从来不是他的强项，在儿童时代他比其他人花了更长的时间才能说出完整的句子。但在语言表达困难的同时他也表现出了非凡的智力。在完成了普林斯顿和 MIT 的计算生物学学业之后，他在哈佛读博时才被诊断出有高功能自闭症。他在编程方面的杰出能力吸引了了搜索巨人的招募人员，向他开出了超过 10 万美元薪水的暑期实习。Damore 放弃了读博在 2013 年 12 月加盟了 Google。他在公司的表现让他在两年内得到了两次提拔，成为公司的高级工程师，帮助领导了与搜索引擎相关的项目。他的薪水加上股票激励能达到 30 万美元。然后他在今年 6 月坐飞机前往中国途中，在笔记本电脑上写下了最终导致他被解雇的备忘录，认为公司内部存在“意识形态回音室”。Damore 目前正就解雇一事起诉 Google，他指出备忘录在公司内部流传了几周，直到泄漏出去引发公关危机后他才遭到解雇的。他认为自闭症员工如果无意中冒犯了同事应该得到更多的宽容。</i>

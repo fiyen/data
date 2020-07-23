@@ -1,0 +1,38 @@
+➜IBM如何在Jeopardy上获胜
+https://www.solidot.org/story?sid=11587	60
+数十年来，科学家一直试图创造出一种能从人类语言中提取出意思的机器，梳理其中杂乱模糊的背景，理解幽默和讽刺。现在IBM试图凭借名为Watson的计算机问答系统，<a href="__SLASHLINK__" sect="hardware" sid="09/04/29/1035206" sn="article" tid="124">在Jeopardy游戏展上挑战真人</a>。那么IBM究竟采用什么方法去应付人类的问答？<i>
+《MIT技术评论》<a href="http://www.technologyreview.com/computing/22702/">报道</a>，负责该计划的计算机科学家David Ferrucci称，Watson使用自然语言处理技术，系统会先把问题分解成几块，然后从数据库中搜索“相关的知识”，最后连接起来汇成答案。Watson并未设计去搜索互联网。举例来说，如果一个人询问“It's the opera mentioned in the lyrics of a 1970 number-one hit by Smokey Robinson and the Miracles.”，那么Watson分解成4句：1）an opera；2）the opera is mentioned in a song；3）the song was a hit in 1970；4）the hit was by Smokey Robinson and the Miracles.之后系统依次在数据库中寻找相关数据，最后得出正确结果“Pagliacci”。</i>
+➜用脑电图识别注意力不集中症
+https://www.solidot.org/story?sid=11588	1800
+《MIT技术评论》报道，一家新创企业希望能<a href="http://www.technologyreview.com/biomedicine/22696/">用脑电图(EEG)鉴定注意力不集中症(ADHD)</a>。<i>
+先进的传感器技术，数据处理技术，对大脑细节更深入了解，脑电图正进入到全新的领域。一家名叫<a href="http://elminda.com/Elminda/index.asp">ElMindA</a>的新创企业正在开发一套EEG系统，能帮助医生诊断出注意力不集中症(ADHD)。科学家已经使用ElMindA的系统去绘制有注意力不集中症患者的大脑活动模式，识别正常人和ADHD患者之间大脑差异的统计参数。</i>
+➜假华硕网站推微软Eee PC广告，惹恼Linux用户
+https://www.solidot.org/story?sid=11589	2400
+WWW.ASUS.CO.UK(华硕英国的官网是<a href="http://uk.asus.com/">uk.asus.com</a>）推出了一则<a href="http://www.asus.co.uk/eeepc/1008HA/features.html">Eee PC广告视频</a>，并专门建立了一个网站，叫“<a href="http://itsbetterwithwindows.com/">It's Better With Windows</a>”。<i>
+华硕的Eee PC上网本对普及Linux起了不可磨灭的作用，但是这则广告简直<a href="http://linux.slashdot.org/article.pl?sid=09/05/28/0321251">是对Linux的羞辱</a>，它称赞预装Microsoft Windows XP Home和Microsoft Works的上网本多么友好和多么容易使用，暗指不会有Linux的兼容性问题和不熟悉环境。无疑，这立即招致了Linux爱好者的愤怒批评，甚至有扬言拒绝购买华硕主板。但很快有人发现WWW.ASUS.CO.UK网站虽然首页会自动跳转到华硕的官网，看起来真的和华硕有关系，但域名注册查询<a href="http://whois.domaintools.com/asus.co.uk">显示</a>它属于一家叫Asustek的计算机公司，而且整个网页内容缺乏华硕的联系信息，因此可断定是一家伪造网站。</i>
+➜Java有了新的垃圾回收器，但只有购买支持后才能用
+https://www.solidot.org/story?sid=11591	10200
+Java正在变成真金白银。Sun刚刚发布了<a href="http://java.sun.com/javase/6/webnotes/6u14.html">Java 1.6.0_14 JDK和JRE</a>，新版当然有大量的bug修正，改进和新特性，如Java HotSpot VM 14.0，JAX WS 2.1.6和JAXB 2.1.10，JavaDB 10.4.2.1，Java VisualVM更新等等，但其中最引人注目的是新的垃圾回收器G1。尽管G1包含在发行包中，但Sun明确声明，如果要在产品开发中使用G1，必须首先购买Java支持协议，看起来与甲骨文的接触<a href="http://tech.slashdot.org/article.pl?sid=09/05/29/1711203">已经产生了效应</a>。
+➜《模拟人生3》盗版4天下载超过18万次
+https://www.solidot.org/story?sid=11592	12960
+EA摇钱树《模拟人生》系列的最新一部《<a href="http://www.thesims3.com/">模拟人生3</a>（Sims 3）》的正式上市日期是6月2日，然而盗版却提前两周出现在了BT网站上，甚至繁体中文版也早早的<a href="http://game.ali213.net/thread-2715159-1-1.html">现身</a>。早先EA曾宣布《模拟人生3》不使用备受诟病的SecuROM防拷贝系统，也因此导致破解速度加快。从5月18日到5月21日，四天内Sims 3的下载次数<a href="http://yro.slashdot.org/article.pl?sid=09/05/29/0530245">已经超过了18万次</a>。EA发言人Holly Rockwood声称，现在文件共享网站上流行的盗版《Sims 3》是不完整的，存在很多bug，一半的世界——一座城市——在盗版拷贝中缺失。商业软件联盟（BSA）称去年全世界电脑中所有安装软件有41%是盗版，中国是80%。
+➜摄像头录下政府官员殴打服务员
+https://www.solidot.org/story?sid=11593	15900
+CCTV<a href="http://news.cctv.com/china/20090530/100176.shtml">报道</a>，5月26日晚上，安徽肥西县小庙镇的多名工作人员群殴了“半亩田”酒店的两名工作人员，整个过程被摄像头全部拍摄下来（CCTV网站的<a href="http://news.cctv.com/china/20090529/103285.shtml">视频</a>只截取一部分，更详细的过程可观看<a href="http://v.youku.com/v_show/id_XOTQ5MjkwNzI=.html">Youku</a>）。<i>
+从视频上看参与殴打的至少有8人，从攻击行为和服务人员受到伤害程度上看，他们显然构成了故意伤害罪，根据中华人民共和国刑法<a href="http://zh.wikisource.org/wiki/%E5%88%91%E6%B3%95#.E7.AC.AC.E5.9B.9B.E7.AB.A0.E3.80.80.E4.BE.B5.E7.8A.AF.E5.85.AC.E6.B0.91.E4.BA.BA.E8.BA.AB.E6.9D.83.E5.88.A9.E3.80.81.E6.B0.91.E4.B8.BB.E6.9D.83.E5.88.A9.E7.BD.AA">第二百三十四条规定</a>：“故意伤害他人身体的，处三年以下有期徒刑、拘役或者管制。犯前款罪，致人重伤的，处三年以上十年以下有期徒刑；致人死亡或者以特别残忍手段致人重伤造成严重残疾的，处十年以上有期徒刑、无期徒刑或者死刑。本法另有规定的，依照规定。”
+但是涉案人员目前受到的处罚是：“当事人李明、叶先林两人党内严重警告处分，并撤销叶先林计生办副主任职务。同时责成小庙镇给予李学文、叶传海纪律处分。”因此许多人对此表示严重<a href="http://www.awflasher.com/blog/archives/1771">不满</a>。</i>
+➜乔布斯的专利
+https://www.solidot.org/story?sid=11594	18000
+如果在美国专利和商标局(USPTO)上搜索以“史提夫乔布斯（Steve Jobs）”作为发明人或共同发明人的专利，能<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=0&amp;f=S&amp;l=50&amp;d=PTXT&amp;Query=IN%2F%22Jobs%2C+Steve%22">搜索到100项</a>；相比之下，<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=0&amp;f=S&amp;l=50&amp;d=PTXT&amp;RS=(IN%2F%22Gates%2C+III%3B+William+H%22+OR+IN%2F%22Gates%3B+William+H%22)&amp;Refine=Refine+Search&amp;Refine=Refine+Search&amp;Query=IN%2F%22Gates%2C+III%3B+William+H%22">比尔盖茨</a>仅有两项发明专利。乔布斯的专利包容万象，对于他持有的MacBooks，iPods和其它电子设备相关专利，也许不会令人感到太吃惊；<a href="http://apple.slashdot.org/article.pl?sid=09/05/28/145247">但令人意外的</a>是这位世界上最著名的技术CEO还拥有许多苹果公司根本不生产的产品专利，甚至还涉足到包装，楼梯设计等领域。
+➜研究显示DRM鼓励盗版
+https://www.solidot.org/story?sid=11595	19800
+众所周知的事实，数字版权管理(DRM)的限制甚至促使合法的用户去下载非法的拷贝。英国剑桥大学法律学教授Patricia Akester多年来一直在跟踪研究DRM的影响，她的基于实证的观察证实，<a href="http://arstechnica.com/tech-policy/news/2009/05/landmark-study-drm-truly-does-make-pirates-out-of-us-all.ars">DRM和类似的方法实际上鼓励了普通用户侵犯版权和回避保护</a>。<i>
+她的研究报告名叫《<a href="http://www.law.cam.ac.uk/faculty-resources/download/technological-accommodation-of-conflicts-between-freedom-of-expression-and-drm-the-first-empirical-assessment/6286/pdf">Technological accommodation of conflicts between freedom of expression and DRM: the first empirical assessment</a>》(PDF，<a href="http://www.ip-watch.org/weblog/2009/05/25/freedom-of-expression-versus-drm-the-first-empirical-assessment/">简单总结</a>）。</i>
+➜微软并不是第一家禁止美国敌人使用IM的公司
+https://www.solidot.org/story?sid=11596	50400
+微软上周证实<a href="__SLASHLINK__" sect="internet" sid="09/05/22/073229" sn="article" tid="32">关闭</a>了美国实行贸易禁运政策的国家的Windows Live Messenger服务，这些国家包括古巴、叙利亚、伊朗、苏丹、朝鲜等。微软其实并不是第一家禁止美国敌人使用IM的公司，Google和AOL都<a href="http://yro.slashdot.org/article.pl?sid=09/05/30/1143207">采取了类似的行动</a>，因为美国政府甚至把免费的，可下载的应用程序视作是“出口”——云服务如Web电子邮件可以避开此规定。<i>
+一位Google发言人<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyName=Internet+Applications&amp;articleId=9133651&amp;taxonomyId=168&amp;pageNumber=2">证实</a>，由于“出口管制和经济制裁条款”，Google禁止苏丹下载它的IM工具Google Talk和地图软件Google Earth。这些严格的禁令并不能阻止经验丰富的网络用户避开限制，登录IM。中东技术类新闻网站ITP.net报道，叙利亚的用户只是简单的改变Microsoft Web帐号的国家/地区，就绕过了封锁。另外的一些权宜之计是使用第三方IM工具，和使用代理服务器。</i>
+➜谷歌浏览器里的中文分词
+https://www.solidot.org/story?sid=11598	52560
+<a href="http://szlug.org/">权相龙</a> 写道 "<i>
+<a href="http://initiative.yo2.cn/archives/640309">谷歌浏览器（chrome/chromium）带了中文分词功能</a>。举个例子，在文本框内[爱因斯坦说过：“想象力比知识本身更重要]，如我的光标在句首，那么Ctrl+Right之后，光标会在 爱因斯坦 的 坦 字后面，说字前面；如果光标在第一个双引号前面，按下Ctrl+Right之后，光标会跳转到 想像力 的 力字之后。实现了中文跨词语跳转。这给我们在文本框里做文字编辑提供了非常大的灵活性和方便。深入研究了一下这个有趣的功能，发现是IBM的ICU库提供的，每个Chrome安装文件夹下面都有一个icudt38.dll，这里面包含了一份中文词语表。基于CC-CEDICT那个版本。"</i>

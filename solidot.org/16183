@@ -1,0 +1,74 @@
+➜未来机器人没有终结者那样的外表
+https://www.solidot.org/story?sid=39247	5123
+<a href="http://www.geekfan.net/">极客</a> 写道 <i>"据 The Verge <a href="http://www.theverge.com/2014/4/16/5617290/soft-robotics-is-booming" target="_blank">报道</a>（<a href="http://blog.jobbole.com/65630/" target="_blank">中文</a>），机器人专家偏爱刚性结构，因为算法可以从成熟的工业机器人移植。但是软体机器人的出现解决了现有机器人的两大问题。它们不需要像依赖弹簧和关节的硬体机器人那样精确的计算动作，使得它们可以在家庭、灾难现场和医院之类无序环境中更好地通行。它们天生“无拘无束”，意味着可以和人类并肩工作。就算软体机器人翻倒或是失灵，也不会比被枕头打一下更危险。它们也不容易弄伤自己。"</i>
+➜社交网站创始人逃离俄罗斯，称公司被克里姆林宫控制
+https://www.solidot.org/story?sid=39248	7227
+俄罗斯最大社交网站<span class="hiddenSpellError">Vkontakte</span> 的创始人Pavel Durov在被解除CEO职位后立即逃离了俄罗斯，称公司<a target="_blank" href="http://arstechnica.com/tech-policy/2014/04/russian-facebook-founder-flees-country-after-being-forced-out-as-ceo/"><u>已经被克里姆林宫完全控制</u></a>。他本周一在个人主页上<a target="_blank" href="http://vk.com/durov?w=wall1_45624"><u>发帖</u></a>（俄语）说，他被董事会解除了CEO一职，网站现已控制在两位接近俄罗斯总统普京的寡头手中。<span class="hiddenSpellError">Vkontakte有1.43亿注册用户，其中8800万用户在俄罗斯。</span>Durov称他多次拒绝了克里姆林宫的审查要求，表示无意再返回俄罗斯，称目前的俄罗斯不适合发展互联网业务。<span class="hiddenSpellError">Vkontakte目前控制在普京的两名得力助手——</span><span class="hiddenSpellError">Alisher</span> Usmanov 和Igor <span class="hiddenSpellError">Sechin手中，</span><span class="hiddenSpellError">Alisher</span> Usmanov曾是俄罗斯首富，拥有10%的Facebook股份；<span class="hiddenSpellError">Sechin是俄罗斯的石油寡头，他的俄罗斯石油公司是世界上最大的上市石油公司，政府控制了大部分股权。</span>
+➜GCC 4.9.0发布
+https://www.solidot.org/story?sid=39249	8646
+GNU Compiler Collection(GCC)<a target="_blank" href="http://article.gmane.org/gmane.comp.gcc.devel/135574"><u>发布</u></a>了4.9.0正式版。新版与上个版本的发布间隔1年零1个月，包含了大量新功能，其中<a target="_blank" href="http://gcc.gnu.org/gcc-4.9/changes.html"><u>包括</u></a>：Local Register Allocator支持更多新的架构，如Aarch64、ARM、S/390和ARC；改进C++非虚拟化，修正链接时优化和过程间优化的可伸缩性瓶颈；C++前端实验性支持新标准C++14；C 和C++支持OpenMP 4.0标准，部分实现数据和任务并行的Cilk Plus扩展；支持着色诊断，等等。
+➜特斯拉在中国交付首批电动车
+https://www.solidot.org/story?sid=39250	10504
+特斯拉汽车周二向中国顾客<a target="_blank" href="http://www.ftchinese.com/story/001055910"><u>交付了</u></a>首批高端电动汽车，CEO Elon Musk向订单被延误的顾客表示道歉。特斯拉将仅向那些家里或办公地点安装有必要充电设施的中国顾客交付电动车。公司担心，对于其直销的电动车，顾客可能因中国尚不具备大规模维修保养网络而受到影响。中国目前是世界最大的乘用车市场，去年销量达1800万辆，但电动车配套基础设施不足阻碍了顾客拥抱这项环保技术。今年1季度，中国全国的电动车销量不足7000辆。Musk说公司正在中国建设上百家服务中心，<a target="_blank" href="http://cn.wsj.com/gb/20140423/bch094311.asp"><u>但未透露大致的建成时间</u></a>。他表示，现在要谈论在中国生产特斯拉电动车还为时过早。
+➜Theo de Raadt声称OpenSSL代码一团糟
+https://www.solidot.org/story?sid=39251	14067
+OpenBSD创始人Theo de Raadt<a target="_blank" href="http://www.solidot.org/story?sid=39239"><u>创建</u></a>了OpenSSL分支<a target="_blank" href="http://www.libressl.org/"><u>LibreSSL</u></a>，在解释另起炉灶而不是帮助改进OpenSSL的原因时，他说OpenSSL<a target="_blank" href="http://arstechnica.com/information-technology/2014/04/openssl-code-beyond-repair-claims-creator-of-libressl-fork/"><u>现有的代码一团糟</u></a>，“我们的团队在一周内从OpenSSL源码树移除了半数代码，都是一些应该丢弃的东西。”他进一步说，开源开发模式所仰仗的是人们能阅读代码，而代码必须清晰。OpenSSL的代码库一点都不清晰，因为他们的社区不关心代码是否清晰。这儿存在文化代沟。他指出，OpenSSL的源码中包含了大量过时的代码，如数千行VMS支持代码，数千行WIN32支持代码，数千行弱化加密的FIPS支持代码。De Raadt说他的团队移除了9万行代码，但剩余的代码仍然具有完整的API兼容。OpenSSL软件基金会主席Steve Marquess拒绝评论分支LibreSSL，称他还没有机会了解这个项目，所以无法置评。Marquess说，OpenSSL一直苦恼于无法获得经济资助和代码贡献，许多财富1000强企业大量使用OpenSSL代码，但却从来没有想过回报项目。
+➜快播公司因涉黄遭警方调查
+https://www.solidot.org/story?sid=39252	15876
+视频网站开始受到净网行动的影响：深圳公安局宣布<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%BF%AB%E6%92%AD"><u>快播</u></a>公司因涉黄而<a target="_blank" href="http://www.yicai.com/news/2014/04/3735095.html"><u>遭其调查</u></a>。而在一周前，快播发表声明关闭Qvod服务器，清理盗版与低俗内容。快播播放器支持P2P技术，被部分用户用于下载盗版和色情视频。《第一财经》报道，警方昨天进驻了快播公司办公室，对快播员工实行“只进不出”原则，暂时不允许他们离开办公室。深圳公安局在声明中称，根据群众举报，深圳快播科技有限公司涉嫌传播淫秽信息，公安机关正在开展打击网上淫秽色情信息专项行动，全国“扫黄打非”办公室、国家互联网信息办公室、工业和信息化部、公安部4月13日向全社会发布了《关于开展打击网上淫秽色情信息专项行动的公告》，对网上淫秽色情信息进行全面清查，依法严惩制作传播淫秽色情信息的企业和人员，一经执法部门查处，即严惩不贷。
+➜BioWare宣布《龙腾世纪：审判》于10月7日发售
+https://www.solidot.org/story?sid=39253	17456
+<div align="center"><img src="http://img.solidot.com.cn/0/230/lii4yYAHHMpjM.jpg" align="" height="338" width="600"><br>
+<br>
+</div>
+BioWare<a target="_blank" href="http://www.dragonage.com/#!/en_US/news/dragon-age-inquisition-releases-october"><u>宣布</u></a>，龙腾世纪系列第三部《龙腾世纪：审判》将于10月7日发售，发售平台包括了PC、Xbox 360、Xbox One、PlayStation 3和PlayStation 4，目前PC硬件规格尚未正式公布，EA的<a target="_blank" href="https://www.origin.com/en-ie/store/buy/dragon-age-inquisition-ANW.html"><u>预售网站</u></a>仅声明支持Windows 7以上操作系统，游戏标准版售价60美元，豪华版70美元，BioWare此前明确表示不会故意阉割游戏内容作为Day One DLC发布，豪华版预购奖励主要是提供了一些游戏内虚拟物品，如审判庭的龙骨宝座、审判官盔甲和武器等，但奖励内容尚未全部公布。《龙腾世纪：审判》采用了Frostbite 3引擎，受《上古卷轴V：天际》的启发，BioWare第一次在新作中尝试结合开放世界与线性叙事。故事主角是审判官，他/她是一场灾难性爆炸的唯一幸存者，注定要去拯救世界，只不过先要恢复记忆。<br>
+<br>
+<center>
+<iframe src="http://www.gamespot.com/videos/embed/6418440/" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="300" scrolling="no" width="480"></iframe>
+</center>
+➜麻醉设备的软件发现致命bug
+https://www.solidot.org/story?sid=39254	24539
+美国食品及药物管理局发出<a target="_blank" href="http://www.fda.gov/MedicalDevices/Safety/ListofRecalls/ucm393536.htm"><u>紧急警告</u></a>，英国Spacelabs  Healthcare公司生产的<a target="_blank" href="http://www.spacelabshealthcare.com/anesthesia-delivery-ventilation/anesthesia-system/arkon/#.U1a6rlcyC6I"><u>ARKON</u></a>麻醉设备被发现存在严重的软件缺陷，可能会<a target="_blank" href="http://arstechnica.com/security/2014/04/bug-can-cause-deadly-failures-when-anesthesia-device-is-connected-to-cell-phones/"><u>导致危及生命的故障发生</u></a>。ARKON的麻醉系统被医院用于在手术过程中向患者提供氧气、麻醉气体和一氧化二氮，Spacelabs 已经在上个月宣布召回这款设备。运行在设备上的2.0版软件被发现存在严重bug，可能会导致设备停止工作，要求病人手控通气。此外，该设备有4个USB端口，但如果手机或其它USB设备插在上面充电，也可能会导致设备停止工作。该bug可能会导致严重后果，包括死亡和血氧不足。
+➜浏览器扩展支持从图像中选择文字
+https://www.solidot.org/story?sid=39255	25506
+或许是为了规避审查，或许是因为允许使用的字数太少，中国的微博平台流行着一种将文字转为图片的长微博，然而浏览者如果发现了精彩文字，他们无法选择文字保存下来。现在，他们可以使用了一个浏览器扩展做到这一点了。<a target="_blank" href="http://projectnaptha.com/"><u>Project Naptha</u></a>能自动对图像应用最新的计算机视觉算法，高亮、拷贝粘贴图像，编辑或翻译图像中嵌入的文字。目前该扩展仅支持Google Chrome，如果需求量大，开发者表示会考虑在未来几周发布Firefox扩展。
+➜NIST删除受争议的Dual_EC_DRBG算法
+https://www.solidot.org/story?sid=39256	27412
+美国国家标准技术局（NIST）<a target="_blank" href="http://www.nist.gov/itl/csd/sp800-90-042114.cfm"><u>宣布</u></a>从随机数生成器推荐算法中删除Dual_EC_DRBG，删除后的指导文件保留了三个加密算法，NIST建议使用Dual_EC_DRBG的用户尽可能快的过渡到三个推荐算法之一。Dual_EC_DRBG（双椭圆曲线随机比特生成器）是由NSA早在2006年就怀疑被NSA植入了后门，去年NSA大规模监控活动以及破解加密算法能力的曝光再次引发了对Dual_EC_DRBG算法的怀疑。Dual_EC_DRBG算法被认为存在弱点，能帮助攻击者加快计算出密钥。NIST称，根据他们的评估以及公众普遍的不信任，它决定移除Dual_EC_DRBG算法。
+➜六成监测点地下水水质较差
+https://www.solidot.org/story?sid=39257	29369
+<div align="center"><img src="http://img.solidot.com.cn/0/231/liMhoN5wv40dQ.png" align=""><br>
+<br>
+</div>
+国土资源部<a target="_blank" href="http://www.mlr.gov.cn/xwdt/jrxw/201404/t20140422_1313354.htm"><u>发布</u></a>了《<a target="_blank" href="http://www.mlr.gov.cn/xwdt/jrxw/201404/P020140422295411414695.pdf"><u>2013中国国土资源公报</u></a>》（PDF），其中一章（第30页）有关地下水监测，称较差级和极差级水质占了近六成。公报指出，在所有4778个地下水监测点中，水质呈优良级、良好级和较好级的分别占总数10.4%、26.9%和3.1%，总数不足所有监测点的一半。
+反观水质呈较差级和极差级的监测点，总数达2845个，占所有监测点的59.6%，其中水质呈极差级的监测点有750个，占15.7%。公报指出，个别监测点水质存在重（类）金属铅、六价铬和砷等超标现象。近3年来，全国地下水的水质呈<a target="_blank" href="http://www.nanzao.com/sc/china/25655/zhong-guo-liu-cheng-jian-ce-dian-di-xia-shui-cheng-chai-ji"><u>逐年下降趋势</u></a>。2011年呈优良、良好和较好水质的监测点占总数的45%，2012年和2013年，这一比例分别降至42.7%和40.4%。与此相对应，从2011年至2013年，水质较差和极差的监测点占总数的比例分别为55%、57.4%和59.6%。中国地质调查局的专家曾提到，全国90%的地下水遭受了不同程度的污染，其中60%污染严重。
+➜科学家用厨房设备制造出石墨烯
+https://www.solidot.org/story?sid=39258	30606
+BBC<a target="_blank" href="http://www.bbc.com/news/science-environment-27113732"><u>报道</u></a>（<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2014/04/140422_graphene_production.shtml"><u>中文</u></a>），科学家使用厨房用粉碎机就能制造出石墨烯，<a target="_blank" href="http://dx.doi.org/10.1038/nmat3944"><u>报告</u></a>发表在《自然材料》期刊上。石墨烯是一种单层碳原子六角形蜂窝晶格平面材料，具有超薄、超坚韧和高导电特性，被认为有可能为电子技术和其他技术带来革命性的发展。爱尔兰都柏林三一学院乔纳森·科尔曼（Jonathan Coleman）等科学家现在发现许多实验室粉碎机可以用来生产石墨烯，也包括厨房用粉碎机。在实验中他们把石墨粉倒进粉碎机，再加入水和洗碗液，然后高速搅拌。他们发现，切刀在溶液中高速旋转产生的剪切力就足以让石墨分层，而且并不损坏薄片的二维结构。但是，科学家并不建议人们在自己的厨房里试验这一方法，因为所需洗碗液的的含量非常精确，取决于诸多因素，而搅拌后产生的黑色溶液也需要特殊技术分离。
+➜MSN与AIM的IM之战
+https://www.solidot.org/story?sid=39259	33411
+前微软MSN团队的程序员David Auerbach在N+1杂志上<a target="_blank" href="https://nplusonemag.com/issue-19/essays/chat-wars/"><u>回顾</u></a>了90年代末软件巨人与AOL之间的<a target="_blank" href="http://developers.slashdot.org/story/14/04/22/1531220/david-auerbach-explains-the-inside-baseball-of-msn-messenger-vs-aim"><u>IM大战</u></a>，以及微软为吸引用户使用MSN采用的手段，这些手段中国网民可能非常熟悉。<br>
+<i>在90年代，AOL的聊天工具AIM的用户基数最大，用户多达数千万，而Yahoo和ICQ则有几百万用户，刚刚起步的MSN相比AIM只是一个微不足道的竞争对手。鉴于大量用户已在使用AIM，要吸引用户使用另一种IM工具，这种工具必须要有吸引人的卖点，比如能与其它工具互相通信。这意味着MSN用户需要能同时登陆进AIM和微软的服务器。为了欺骗AIM的服务器，微软使用了网络分析工具分析了AIM客户端与服务器之间的通信，然后让MSN客户端向AIM服务器发送相同的协议消息，微软程序员必须每天检查AIM的信息变化，然后修改代码模仿变化以避免被AIM识破。有时候AIM会改变协议，使得MSN用户登录时报错。为了赶走骗子，AOL甚至在登录协议中加入了x86汇编代码。</i><br>
+<br>
+➜为什么今天的富人比穷人休息时间更少
+https://www.solidot.org/story?sid=39260	35685
+在人类历史的大部分时间里，富人拥有最多的休息时间。历史学者称，在19世纪普通英国工人每周工作64小时。然而，今天的情况却颠倒过来了，<a target="_blank" href="http://www.economist.com/news/finance-and-economics/21600989-why-rich-now-have-less-leisure-poor-nice-work-if-you-can-get-out?fsrc=scn/tw/te/bl/ed/nicework"><u>富人的休息时间比穷人更少</u></a>。1965年，大学毕业生还是比高中毕业生的休息时间多，学历通常与财富挂钩。但到了2005年，大学毕业生每周休息时间比高中毕业生少8小时。去年公布的美国人时间使用调查发现，学士或学士以上文凭的人每天工作时间比没有高中文凭的人多2小时。富人的休息时间为什么会变少了？解释有许多种，其一是经济学家所谓的“替代效应”，更高的薪水使得休息变得更昂贵，休息意味着放弃更多金钱，日益的不平等鼓励富人工作更长时间，穷人工作更短时间。而经济全球化中的赢家通吃也放大了替代效应。战胜竞争对手获得的回报是巨大的。
+➜报告称网络间谍攻击大增
+https://www.solidot.org/story?sid=39261	36747
+Verizon在2014年度《<a target="_blank" href="http://www.verizonenterprise.com/DBIR/2014/"><u>数据泄露调查报告</u></a>》中称，2013年追踪到间谍攻击活动中，49%来自中国和其他东亚国家的居民，但是东欧国家，尤其是讲俄语的东欧国家占网络间谍攻击活动的21%。但并不是所有的网络间谍活动都应归咎到政府行为。Verizon、英特尔旗下的McAfee、卡巴斯基实验室以及其他提供数据的私人企业和公共机构的调查人员称，11%的网络间谍攻击活动来自犯罪团伙，<a target="_blank" href="http://cn.reuters.com/article/CNTechNews/idCNCNEA3L07H20140422"><u>87%来自政府</u></a>。如果说报告发现东欧的网络间谍活动在意外大幅增加，令那些习惯于将中国与这些事件联系到一起的人感到惊讶的话，报告有关零售商遭受此类攻击活动的研究结果可能更让人难以置信。
+➜Lytro发布新一代光场照相机
+https://www.solidot.org/story?sid=39262	39331
+<div align="center"><img src="http://img.solidot.org/0/232/li5BVQ0mBCyIc.jpg" width="360" height="263" align=""><br>
+<br>
+</div>
+Lytro宣布将在今年7月发布新一代光场照相机<a target="_blank" href="http://www.engadget.com/2014/04/22/lytro-illum/"><u>Lytro Illum</u></a>，起售价高达1599美元，远远超过第一代光场照相机的399美元。光场照相机利用由数以百计CMOS传感器构成的阵列，记录整个场景中的光线颜色、强度和方向，这些光线聚合形成了场景的光场，允许用户在拍照后对焦。第一代光场照相机1100万像素，拍摄后对焦的照片像素实际上只有100多万，因此对许多用户来说分辨率过低。新的Lytro Illum为4000万像素，照片分辨率相当于500万像素，效果要好得多。Illum使用高通的Snapdragon 801处理器，1/4000快门，f/2光圈。
+➜科学家称婴儿晚上哭闹是为了阻止母亲再次怀孕
+https://www.solidot.org/story?sid=39263	41551
+婴儿在晚上突然大哭，筋疲力尽的父母起床寻找原因。是饿了、湿了、冷了，还是寂寞了？现在，哈佛大学的演化生物学家David Haig给出了<a target="_blank" href="https://www.sciencenews.org/blog/growth-curve/babies-cry-night-prevent-siblings-scientist-suggests"><u>一个邪恶的解释</u></a>：婴儿晚上哭闹是为了阻止母亲再次怀孕。<a target="_blank" href="http://emph.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=24610432"><u>研究报告</u></a>发表在《Evolution, Medicine and Public Health》上。因为另一个孩子意味着将要分享父母的爱，所以婴儿天生会尽一切可能阻止精子和卵子再次相遇。婴儿无法强迫母亲服避孕药，所以他们只有选择在晚上阻止母亲做爱，性欲中断、极端疲劳和频繁的夜间照顾会延迟哺乳期女性的生育。婴儿吃奶也会改变母亲的激素，压制排卵。
+➜美国军方的5600美元平板
+https://www.solidot.org/story?sid=39264	44282
+<div align="center"><img src="http://img.solidot.com.cn/0/233/liAVnXNbbs4Zg.jpg" align="" height="320" width="480"><br>
+</div>
+<br>
+多数人使用的平板售价为几百美元，几千美元的平板和几百美元或几十美元的平板究竟有何差别？<br>
+Xplore Technologies针对美国军方推出了<a target="_blank" href="http://www.pcworld.com/article/2146941/what-kind-of-tablet-does-5000-get-you.html"><u>一系列军用平板</u></a>，售价从5300美元到5600美元。这些平板的特色包括：从2米高度摔在胶合板地面或1.2米高度摔在水泥地板都能安然无恙，工作温度-34至60摄氏度。它们都经过美国军方的极端环境测试，配备了最新的英特尔 Core i5或i7Haswell处理器，固态硬盘容量可选择扩充到480GB。10.4英寸的显示屏能防雨，分辨率1024 x 768，1300亮度，在阳光下可见。操作系统是微软的Windows，平板内置风扇，10芯电池可支持8个半小时的连续使用，重量为2.4公斤。

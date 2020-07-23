@@ -1,0 +1,21 @@
+➜新研究认为我们没有生活在计算机模拟中
+https://www.solidot.org/story?sid=54048	30236
+我们是否生活在计算机模拟的宇宙中？未来的文明如果掌握近乎无限的计算资源后是否会创造一个模拟宇宙？牛津大学的两位理论物理学家给出了<a href="https://cosmosmagazine.com/physics/physicists-find-we-re-not-living-in-a-computer-simulation" target="_blank"><u>否定的答案</u></a>。这一结论来自于对<a href="https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E9%9C%8D%E5%B0%94%E6%95%88%E5%BA%94" target="_blank"><u>量子霍尔效应</u></a>的计算机模拟研究。Zohar Ringel 和 Dmitry Kovrizhi 在《Science Advances》期刊上发表的<a href="http://advances.sciencemag.org/content/3/9/e1701758" target="_blank"><u>一篇论文</u></a>中指出，由于计算复杂性呈指数级增长，用量子蒙特卡罗方法模拟量子霍尔效应在理论上<a href="https://cosmosmagazine.com/physics/physicists-find-we-re-not-living-in-a-computer-simulation" target="_blank"><u>是不可能的</u></a>。如果计算复杂性随着模拟的粒子数量呈线性增长，那么粒子数增加一倍模拟所需的计算资源也增加一倍；但如果是指数级增长，那么每增加一个粒子计算资源就要增加一倍。他们计算发现，储存大约 200 个电子的信息所需的计算机内存在物理上需要的原子数就超过了现有宇宙的原子数。所以我们不太可能生活在类似《黑客帝国》所描绘的计算机模拟中。
+➜Slashdot 创办二十周年
+https://www.solidot.org/story?sid=54049	32053
+1997 年 10 月 5 日，Rob Malda（CmdrTaco）注册了域名 Slashdot.org。/. 将在 10 月纪念创办二十周年，在各地举行<a href="https://slashdot.org/anniversary.pl" target="_blank"><u>庆祝活动</u></a>。作为二十周年庆的一部分，/.&nbsp; 列出了过去二十年<a href="https://meta.slashdot.org/story/17/10/03/2356229/20-years-of-stuff-that-matters" target="_blank"><u>备受欢迎用户评论数最多的文章</u></a>。CmdrTaco 本人则在 Medium 发表了一篇文章<a href="https://medium.com/@cmdrtaco/a-pre-history-of-slashdot-6403341dabae" target="_blank"><u>回顾了创办 /. 早期历史</u></a>。CmdrTaco 担任网站的主编直至 2011 年，他在 2012 年出任华盛顿邮报公司旗下的 WaPo Labs 的首席策略师，华盛顿邮报报纸业务被出售给亚马逊创始人 Jeff Bezos 后，WaPo Labs 改名为 Trove，最终于 2015 年 12 月关闭。
+➜联想发布 ThinkPad 25 周年版
+https://www.solidot.org/story?sid=54050	38291
+<div align="center"><img src="http://img.solidot.org/0/432/liRyWFHdc9Ey6.png" width="400" height="535"><br>
+</div>
+<br>
+早在 2015 年，联想就透露了推出重新采用经典设计元素的 ThinkPad 笔记本电脑的计划。在 <a href="https://en.wikipedia.org/wiki/ThinkPad" target="_blank"><u>ThinkPad</u></a> 发布 25 周年（1992 年 10 月 5 日）之际，联想<a href="https://arstechnica.com/gadgets/2017/10/lenovos-25th-anniversary-thinkpad-brings-back-the-keyboard-we-love/?comments=1" target="_blank"><u>发布了</u></a>限量版的 ThinkPad 25，采用了经典的键盘布局。联想是在 2005 年从 IBM 收购 ThinkPad，复古版的 ThinkPad 显然不再能使用 IBM 名，因此电脑上的  ThinkPad logo 采用半银色半 IBM 的红绿蓝色。其它配置包括：英特尔第七代 Kaby Lake i7-7500U，16GB 内存，GeForce 940MX 显卡，512GB PCIe SSD，Thunderbolt 3，LTE，3 个 USB 3.1 gen 1 端口， 面部识别和指纹阅读器，价格为 $1,899。
+➜PostgreSQL 10 发布
+https://www.solidot.org/story?sid=54051	51470
+开源数据库 PostgreSQL 10 版<a href="https://www.postgresql.org/about/news/1786/" target="_blank"><u>发布</u></a>。主要<a href="https://www.postgresql.org/docs/10/static/release-10.html" target="_blank"><u>新特性</u></a>包括：显著增强分治法 (divide and conquer)策略的有效实现，包括内置逻辑复制，声明表分区、改进并行查询；显著改进总体性能，基于 SCRAM-SHA-256 的密码认证，对高安全性数据的严格权限管理；改进监视和控制，JSON 全文本搜索，多列相关性统计，等等。详细可浏览 LWN 的<a href="https://lwn.net/Articles/724871/" target="_blank"><u>介绍</u></a>。下个版本 PostgreSQL 11 开发工作早已经启动。
+➜俄罗斯黑客利用卡巴斯基软件漏洞从合同工窃取 NSA 机密文件
+https://www.solidot.org/story?sid=54052	54811
+《华尔街日报》援引消息来源<a href="https://www.wsj.com/articles/russian-hackers-stole-nsa-data-on-u-s-cyber-defense-1507222108" target="_blank"><u>报道</u></a>（付费墙，<a href="http://cn.wsj.com/gb/20171006/bgh130309.asp" target="_blank"><u>中文</u></a>），俄罗斯黑客利用卡巴斯基软件漏洞从合同工窃取了 NSA 机密文件。报道称，一位 NSA 的合同工将高度机密的文件带回家，这些文件详细介绍了如何渗透外国的计算机网络以及如何抵御网络攻击。这位合同工的家用电脑安装了卡巴斯基的软件，而为俄罗斯政府工作的黑客利用卡巴斯基软件识别出这些文件。这起事件发生于 2015 年，但去年春季才被发现，被认为是近几年来最重大的黑客入侵事件之一。卡巴斯基创始人 Eugene Kaspersky <a href="https://twitter.com/e_kaspersky/status/915946040561487875" target="_blank"><u>声称</u></a>这是新的阴谋论。
+➜中国的数字货币交易转入地下
+https://www.solidot.org/story?sid=54053	55893
+中国的主要数字货币交易平台被要求关闭相关交易，在这一严打数字货币的背景之下数字货币交易<a href="http://cn.wsj.com/gb/20171006/fin092643.asp" target="_blank"><u>转入了地下</u></a>。投资者和交易员称，要求每位投资者投入多达 10 万美元的私下交易正在监管机构的视线之外进行。一些以往在普遍可以登入的网络平台上进行的交易活动正转入不起眼的办公室和网上信息服务，电子货币的推广人员和投资者希望借此绕开新的限制措施。成群的投资者被大客车送往秘密的研讨会场所，一些被邀请参加这种研讨会的人称，主办方只会在会议开始前不久才公布会议地点。

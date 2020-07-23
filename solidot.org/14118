@@ -1,0 +1,55 @@
+➜把集成电路板变成长椅
+https://www.solidot.org/story?sid=7582	1800
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 <i>"上海交通大学的许振明教授所带领的研究团队开发出一种<a href="http://www.scidev.net/zh/news/zh-132750.html">新的方法</a>回收印刷电路板。<a href="http://pubs.acs.org/cgi-bin/sample.cgi/esthag/2008/42/i14/html/es800825u.html">他们</a>将印刷电路板粉碎，然后与树脂和高聚物混合，在热压下成型为具有混凝土强度的耐用材料，可以作为木材的替代品，例如制作成长椅。"</i>
+➜LHC(大强子对撞机)完整文档上线
+https://www.solidot.org/story?sid=7583	2700
+想要了解大强子对撞机（LHC）的<a href="http://www.symmetrymagazine.org/breaking/2008/08/25/free-online-full-documentation-for-the-large-hadron-collider/">设计、建造及6大探测器的技术细节</a>？所有的文档——7个报告总共1600页，115 MB大小，共有来自8000名科学家和工程师的贡献，《仪器》杂志（Journal of Instrumentation）在线公开了所有的<a href="http://www.iop.org/EJ/journal/-page=extra.lhc/jinst">电子版文档</a>，没有任何限制，可自由阅读。<i>CERN的<a href="http://cdsweb.cern.ch/journal/article?issue=35/2008&amp;name=CERNBulletin&amp;category=News%20Articles&amp;number=3&amp;ln=en">公告</a>称这些文件将作为LHC科学研究的重要参考....虽然是出版在科学期刊上，但这些文章将在“开放获取”的计划下免费下载和在线阅读。</i>
+➜Debian包依赖解析器dpkg可用于解决数独
+https://www.solidot.org/story?sid=7584	5100
+<a href="http://zh.wikipedia.org/wiki/%E6%95%B8%E7%8D%A8">数独</a>是一种规则简单的数学逻辑和推理谜题。在9格宽×9格高的大九宫格中横向竖向及9个3格×3格内都包含不重复的1到9自然数。如果有人说Debian包管理系统中的包依赖规则能解决数独，你相信吗？请看<a href="http://algebraicthunk.net/~dburrows/blog/entry/package-management-sudoku/">这篇文章</a>及其<a href="http://algebraicthunk.net/~dburrows/blog/entry/attachments/debsudoku.py">代码</a>（Python）。
+➜Red Hat，Fedora服务器遭入侵
+https://www.solidot.org/story?sid=7585	7800
+Linux发行版Red Hat发表<a href="http://www.redhat.com/security/data/openssh-blacklist.html">声明</a>透露它的服务器<a href="http://arstechnica.com/news.ars/post/20080825-red-hat-fedora-servers-infiltrated-by-attackers.html">被未知的攻击者非法入侵</a>。<i>内部检查证实Red Hat的网络软件部署系统的完整性没有受到威胁。Red Hat资助的社区发行版Fedora也受到了类似的攻击。虽然攻击者没能进入Red Hat的软件发行系统，但他们设法在一些Red Hat Enterprise Linux OpenSSH包上签名。出于防范于未然的考虑，Red Hat紧急发布了<a href="https://rhn.redhat.com/errata/RHSA-2008-0855.html">OpenSSH 安全更新</a>。</i>
+➜数百荷兰网站被伊斯兰黑客劫持，黑客称是为言论自由
+https://www.solidot.org/story?sid=7586	17400
+<a href="http://blogs.zdnet.com/security/?p=1788">数百荷兰网站</a>被一位名叫<a href="http://www.zone-h.org/component/option,com_attacks/Itemid,43/filter_defacer,nEt%5EDeViL/page,1">nEt^DeViL</a>的伊斯兰<a href="http://en.wikipedia.org/wiki/Hacktivism">激进主义黑客</a>劫持，以此回应荷兰议员Geert Wilders<a href="__SLASHLINK__" sect="internet" sid="08/03/24/0846228" sn="article" tid="17">推出的一部反伊斯兰教的电影Fitna</a>（可兰经中意指“斗争”）。<i>黑客称这一行动为“Anti-Fitna”，他将所有被黑网站主页都指向一个嵌入<a href="http://www.youtube.com/watch?v=UE4qohB9L7Y">Youtube视频</a>的页面，视频为伊斯兰教辩护，指责CNN、BBC、NBC等媒体都是在扭曲伊斯兰教义。黑客留言称“侮辱上帝宗教是你们国家的言论自由，而我也可以向你们展示Hacking的自由知识”。黑客表示没有删除任何东西，只是重命名了索引，[ NO WAR ] ... [ NO HATING ] ... [ NO Lammers ! ] ... [ NO Subdirs ;) ]甚至还留下了喜欢的语言——Perl、Python、PHP、JavaScript、HTML、VB、Borland Delphi、a Little of C/C++ &amp; Assembly.....</i>目前仍然有许多网站没有恢复，如<a href="http://arnozandman.nl/">arnozandman.nl</a>。
+➜Android 1.0将放弃蓝牙和GTalkService API
+https://www.solidot.org/story?sid=7587	21120
+Google将在Android 1.0中放弃<a href="http://www.thestandard.com/news/2008/08/26/google-drops-bluetooth-gtalkservice-apis-android-1-0">蓝牙和GTalkService IM的API</a>，但Google又表示Android将支持耳机之类的蓝牙设备。<i>据<a href="http://android-developers.blogspot.com/2008/08/some-information-on-apis-removed-in.html">官方Android开发博客</a>的文章，Google在移动操作系统中放弃支持蓝牙是因为“时间已经不够”。而放弃GTalkService API则主要与安全相关，担心应用程序可能会透露用户的个人资料，如真实名字和电子邮件地址。</i>
+➜自助式软件帮助安慰精神紧张的宇航员
+https://www.solidot.org/story?sid=7588	23100
+宇航员在被挑选去执行任务前都经过了心理检查，日常他们也训练如何应付高风险和高压力。但是，对于长期、遥远的太空任务，比如火星，当宇航员想要与NASA的精神心理学家交谈时，仅信息传输就要等上20分钟，因此未来宇航员的心理健康显然需要新的方法。因此<a href="http://space.newscientist.com/article/dn14595-selfhelp-software-to-soothe-stressed-astronauts.html?feedId=online-news_rss20">研究人员正在开发一种自助式软件</a>，让宇航员或太空旅行者将心理顾问携带在身边的DVD上。<i>这一交互式软件名为“虚拟空间站（<a href="http://space.newscientist.com/data/images/ns/cms/dn14595/dn14595-1_700.jpg">Virtual Space Station</a>）”，提供心理咨询服务。
+它由哈佛医学院的James Carter和他的同事一起开发，交互式视频软件会要求宇航员回答多项选择形式的问题，列出宇航员的烦恼和如何解决的方法。</i>
+➜3 个独特的未来搜索引擎
+https://www.solidot.org/story?sid=7589	24600
+<a href="http://www.comsharp.com/">35公里</a> 写道 "离开搜索引擎，Internet 将一无是处。随着 Internet 信息的泛滥，搜索引擎的重要性越来越凸显，<a href="http://www.readwriteweb.com/">ReadWriteWeb</a> 的编辑们挑选了<a href="http://www.readwriteweb.com/archives/3_unique_search_engines_of_the.php">三款独特的搜索引擎</a>，它们将改变我们的搜索方式。
+<i>
+Viewzi——毫无疑问，拥有各种可视化功能的 <a href="http://www.viewzi.com/">Viewzi </a>是一款属于未来的搜索引擎，字发布以来，这个<a href="http://www.readwriteweb.com/archives/viewzi_takes_visual_search_to.php">可视化搜索引擎</a>变得越来越好用。让 Viewzi 变得独一无二的是它的各种搜索结果的可视化展示。从 mp3 音乐专集，到三维展示的图片集，Viewzi 总有打动每一个人的地方。
+<br>
+SearchMe——<a href="http://searchme.com/">SearchMe</a> 被评为《时代杂志》2008年最佳网站之一，这个漂亮搜索引擎，拥有非常直觉化的界面。搜索结果以图片陈列方式显示，搜索 “Obama”，SearchMe 会猜到你可能想搜索未来的美国总统 Barack Obama，SearchMe 会列出系列类目让你缩小搜索范围，如政客，民主党，美国政府，政治新闻等。SearchMe 还提供一个选项，让用户将一系列结果页保存起来以后阅读。
+<br>
+定制化搜索引擎—— <a href="http://rollyo.com/">Rollyo</a> 是一个搜索引擎定制服务，尽管我们建议使用 <a href="http://www.google.com/coop/cse/">Google's service</a> 来实现同样的服务，但 Rollyo 的用户友好性更好一些。你可以最多输入 25 个站点作为用作定制搜索，注册用户还可以将定制的搜索引擎公开，或集成到自己的 Firefox 中。定制化搜索引擎有<a href="http://www.readwriteweb.com/archives/google_custom_search_vertical_search.php">众多理由</a>使之成为未来的搜索引擎，你可以<a href="http://www.readwriteweb.com/archives/build_a_custom_search_engine_using_social_bookmarks.php">用你收藏夹站点的内容定制搜索引擎</a>，也可以让搜索来源仅限于你的竞争对手的站点，以观察他们的动向。总之，你可以打造一个<a href="http://www.readwriteweb.com/archives/get_a_personal_search_engine_dashboard_with_hittery.php">非常私人化的搜索引擎</a>搜索你感兴趣的站点。</i>
+➜外骨骼帮助瘫痪者恢复行走
+https://www.solidot.org/story?sid=7590	26400
+一位部分瘫痪的男子<a href="http://www.dailymail.co.uk/sciencetech/article-1049215/Paralysed-man-walks-thanks-Robocop-style-exoskeleton.html?printingPage=true">在机械外骨骼的帮助下恢复了行走能力</a>。41岁的Radi Kaiof瘫痪了20年，现在借助一种机械装置驱动他的双腿前进。
+<i>
+这种装置名为ReWalk，为工程师Amit Goffer的发明，他是一家以色列小型高科技公司<a href="http://www.argomedtec.com/">Argo Medical Technologies</a>的创始人。ReWalk结合了壳类动物外骨骼和《机器战警》(Robocop)所穿的外套，帮助腰部以下瘫痪的患者站立、行走和爬楼梯。这套系统需要拐杖维持平衡，它包括了电动腿支架，身体感应器和一个背包，背包内含计算机控制盒及可再充电蓄电池。Goffer本人就在1997年的一次事故中瘫痪，但由于手臂功能没有完全恢复而无法使用他的发明。ReWalk计划在2010年上市，价格约在1万欧元左右。
+</i>
+<a href="http://www.youtube.com/watch?v=gQRQs-N-ZIM">ReWalk视频</a>
+➜Internet另一超级漏洞被公布
+https://www.solidot.org/story?sid=7591	27720
+<a href="http://www.comsharp.com/">35公里</a> 写道 "两名安全研究专家最近演示了一种新技术，<a href="http://blog.wired.com/27bstroke6/2008/08/revealed-the-in.html">可以截获 Internet 上的数据包</a>，这种截获方式以前曾被认为不可能实现。
+<i>该技术利用 Internet 路由协议 BGP（Border Gateway Protocol），让入侵者监视世界上任何地方的 Internet 数据流，甚至可以对数据包进行篡改。该演示只是为了显示 Internet 核心协议在安全方面的不足，Internet 核心协议多数开发于70年代，基于当时初生的网络，人们假设网络上的节点都是可信的。这些假设正被一一击破，7月份，<a href="http://blog.wired.com/27bstroke6/2008/07/details-of-dns.html">Dan Kaminsky 公布了 DNS 系统一个严重漏洞</a>，安全专家称，新发现漏洞的受害范围将更广泛。
+<br> 这是一个非常严重的问题，甚至比 DNS 漏洞更严重，著名安全专家，L0pht黑客组织前成员 Peiter "Mudge" Zatko 说，Peiter 1998 年在国会作证的时候曾表示，他可以使用类似 BGP 攻击技术，在30分钟之内将 Internet 干掉，他还私下向政府机构透露如何使用 BGP 进行窃听。Peiter 说，他研究这个问题已经十几二十年，并向情报局，以及国家安全局讲述过这个问题。该攻击利用 BGP 协议欺骗路由器将数据转发到窃听网络上。任何拥有 BGP 路由器的人（ISP 以及<a href="http://www.fubra.com/blog/2007/10/mac-mini-bgp-routers-part-2.html">在运营商租赁了机房</a>的公司）都可以截获数据，但本攻击只能截获流向目标地址的数据，并不能在网络间自由穿行。</i>两位专家演讲<a href="https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-pilosov-kapela.pdf">PDF</a>
+➜揭密《Portal》的瞬间移动
+https://www.solidot.org/story?sid=7592	31200
+Gamasutra揭秘游戏栏目讨论了<a href="http://www.gamasutra.com/view/feature/3770/games_demystified_portal.php">去年最具创新的游戏《Portal（传送门）》</a>，任何玩过这款另类游戏的玩家应该都会记得“The Cake is lie”，以及不可思议的似瞬间移动的游戏方式。<i>
+Portal，或者叫<a href="http://zh.wikipedia.org/w/index.php?title=%E8%99%AB%E6%B4%9E&amp;variant=zh-hans">虫洞</a>，Einstein-Rosen Bridges（爱因斯坦-罗森桥），其实都是爱因斯坦引力理论的预测。心灵传输在视频游戏中并不少见，早先的街机游戏<a href="http://en.wikipedia.org/wiki/Gauntlet_(arcade_game)">Gauntlet</a>中就有类似的令人难忘的解密方式，《Portal》也不是第一个将瞬间移动作为主要游戏方式的游戏，但它与其它所有类似游戏的不同之处是——《Portal》的瞬间移动是在A点和B点之间架设一个无摩擦力的管道，而且物理学仍然在无摩擦管道中有效工作。不是简单的重新定位点A到点B的物体，玩家进入点A后和到达出口点B后的速率相同，但是移动到了新的方向。</i>
+文章解构了《Portal》背后的物理学原理的代码，并提供<a href="http://gamasutra.com/images/portalDemystifiedRelease.zip">demo</a>下载供读者测试。
+➜天文学家可能发现了奥尔特云内的首颗天体
+https://www.solidot.org/story?sid=7593	35280
+天文学家可能发现奥尔特云(<a href="http://en.wikipedia.org/wiki/Oort_cloud">Oort Cloud</a>)内部的<a href="http://www.sciencenews.org/view/generic/id/35430/title/Tiny_object_points_to_remote_solar_system_reservoir">首颗天体</a>（<a href="http://discover.news.163.com/08/0821/11/4JS8S8KB000125LI.html">网易</a>）。<i>2006 SQ372是在斯隆数字巡天计划所拍摄图片中发现的，发现者认为它是一颗类似彗星的天体。另一颗小行星Sedna是在2003年发现的，可能是一颗奥特云内的居民，它的轨道比较稳定。2006 SQ372则受到海王星或天王星的引力牵引而不是很稳定。2006 SQ37运转一周需要2.25万年，与太阳的最远距离为1600个天文单位，相当于2410亿公里，使它成为太阳系已发现的最远天体。奥尔特云的最远距离相信可以达到2万个天文单位，差不多有四分之一光年。</i>
+➜苹果克隆电脑生产商Psysta将反诉苹果垄断
+https://www.solidot.org/story?sid=7594	37200
+苹果克隆电脑生产商Psysta计划<a href="http://money.cnn.com/news/newsfeeds/articles/djf500/200808261523DOWJONESDJONLINE000539_FORTUNE5.htm">起诉苹果垄断</a>，以此<a href="http://news.cnet.com/8301-13579_3-10026033-37.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20">回应苹果的版权侵犯诉讼</a>。<i>
+迈阿密公司Psystar声称，苹果从事着反竞争的商业做法。它将起诉苹果违反了两项联邦的反垄断和反卡特尔的法律——<a href="http://en.wikipedia.org/wiki/Sherman_Antitrust_Act">Sherman Antitrust Act</a>（谢尔曼反托拉斯法）和<a href="http://en.wikipedia.org/wiki/Clayton_Antitrust_Act">Clayton Antitrust Act</a>（克莱顿反托拉斯法）。Psystar指责苹果把Mac OS和苹果标签的硬件捆绑销售是一种“反竞争的贸易限制行为”。Psystar请求法院宣告苹果的EULA（最终用户许可协议）为无效，并赔偿未指明的损失。</i>

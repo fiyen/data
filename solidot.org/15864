@@ -1,0 +1,59 @@
+➜美公司推出Burner Phone应对NSA存档
+https://www.solidot.org/story?sid=35076	5733
+<a href="/~谍影重重">谍影重重</a> 写道<i> "因为电信公司被迫向NSA提供部分客户通讯数据，一家美国公司推出一款售价75美元的隐私手机“<a href="https://www.burnerphone.us/" target="_blank">Burner Phone</a>”。Burner Phone的功能包括：全美境内可用、30天内无限通话和短信、可用30天的用完即抛式电话号码、电池可待机30天或通话16小时、货到即满电可用、发货后客户数据立刻销毁等。购买时可以使用比特币。"</i>
+➜中媒称奥巴马夫人未出席会晤是因为自卑
+https://www.solidot.org/story?sid=35077	9026
+<a href="/~小旋风">小旋风</a> 写道<i> "就美国第一夫人米歇尔.奥巴马未出席奥习会晤一事，中国媒体“中国网”发表评论文章《<a href="http://opinion.china.com.cn/opinion_74_72474.html" target="_blank">米歇尔缺席“习奥会”傲慢掩饰自卑</a>》，指责即便习进平夫妇不介意，米歇尔.奥巴马的缺席仍让很多中国人认为这是不尊敬中国领导的行为。评论指出，米歇尔.奥巴马缺席的真正原因在于世界上掀起了一股“彭丽媛旋风”，相比之下米歇尔.奥巴马的形象实在难保。
+"</i>
+➜美国政府如何监视互联网？
+https://www.solidot.org/story?sid=35078	10639
+《卫报》和《华盛顿邮报》<a target="_blank" href="http://www.solidot.org/story?sid=35058"><u>曝光</u></a>了NSA代号为PRISM的互联网通信监视计划，秘密搜集公民的电话记录，访问各大科技公司的数据中心挖掘用户信息。白宫证实了这项计划，并以国家安全的理由为之辩护，<a target="_blank" href="http://www.ftchinese.com/story/001050839"><u>奥巴马表示</u></a>：“我认为有必要理解的是，你不可能在保持百分之百隐私、保持零不便的情况下，获得百分之百的安全。作为一个社会，我们将不得不作出一些选择。如果你好好看一下具体细节，我想你会发现我们找到了恰当的平衡。”但报道提及的科技公司都否认提供后门允许政府直接访问其数据库，Google CEO <a target="_blank" href="http://googleblog.blogspot.com/2013/06/what.html"><u>Larry Page</u></a>，Facebook CEO <a target="_blank" href="https://www.facebook.com/zuck/posts/10100828955847631"><u>Mark Zuckerberg</u></a>和<a target="_blank" href="http://www.microsoft.com/en-us/news/Press/2013/Jun13/06-06statement.aspx"><u>微软</u></a>等发表声明，否认知道和参与
+PRISM计划。那么，<a target="_blank" href="http://yro.slashdot.org/story/13/06/07/2321222/inside-prism-why-the-government-hates-encryption"><u>谁的话更可信</u></a>？Lauren Weinstein<a target="_blank" href="http://lauren.vortex.com/archive/001040.html"><u>认为</u></a>他们都没有说谎，NSA的监视计划很可能是部署在骨干网，利用类似防火长城的深度包检测技术监视通信流量。
+➜FreeBSD 8.4发布
+https://www.solidot.org/story?sid=35079	14054
+FreeBSD项目团队宣布发布<a target="_blank" href="http://lists.freebsd.org/pipermail/freebsd-announce/2013-June/001479.html"><u>v8.4版</u></a>——8-STABLE分支的第五个版本。主要<a target="_blank" href="http://www.freebsd.org/releases/8.4R/relnotes-detailed.html"><u>新特性</u></a>包括：GNOME 2.32.1，KDE 4.10.1；ZFS文件系统支持feature flags和异步破坏、LZ4压缩和ZIO NOP写优化；支持LSI的存储控制器。新版主要是改进了稳定性和存储功能。
+➜反盗版公司被指上传色情种子创建蜜罐引诱下载
+https://www.solidot.org/story?sid=35080	15675
+从事反盗版和版权勒索（copyright trolling）的律师事务所<a target="_blank" href="http://en.wikipedia.org/wiki/Prenda_Law"><u>Prenda Law</u></a>被指上传色情种子<a target="_blank" href="http://arstechnica.com/tech-policy/2013/06/pirate-bay-data-suggests-prenda-did-create-honeypot-for-downloaders/"><u>创建蜜罐引诱人下载</u></a>，这一指控是根据IP地址得出的。海盗湾管理员从备份数据库中挖掘出了一位上传色情种子的用户IP地址，这位叫sharkmp4用户上传的种子包含在Prenda Law诉讼目标内，IP地址显示sharkmp4与Prenda Law的律师John Steele有关联，很可能是同一人。John Steele已否认他是sharkmp4，也否认他为Prenda Law工作。海盗湾澄清它并不长期保留用户IP地址，用户登录的IP地址会在48小时后删除。
+➜《卫报》公布NSA网络战机密文件
+https://www.solidot.org/story?sid=35081	17051
+《卫报》<a target="_blank" href="http://www.guardian.co.uk/world/2013/jun/07/obama-china-targets-cyber-overseas"><u>公布了</u></a>第三份美国国家安全局NSA的<a target="_blank" href="http://www.guardian.co.uk/world/interactive/2013/jun/07/obama-cyber-directive-full-text"><u>机密文件</u></a>，显示奥巴马直接下令制定全球网络攻击目标，发动破坏程度不一的网络战行动。此类进攻性网络战和黑客攻击计划的曝光令美国对中国网络战攻击的批评显得有些“虚伪”。《卫报》引用美国情报界消息来源说，美国的黑客攻击无处不在，几乎涉及到世界上的每一个国家。
+➜死亡恐惧把人变成科学的信徒
+https://www.solidot.org/story?sid=35082	26694
+没有什么能像死亡的恐惧那样将无神论者变成信徒，俗话说“<a target="_blank" href="https://en.wikipedia.org/wiki/There_are_no_atheists_in_foxholes"><u>散兵坑里没有无神论者</u></a>”。但一项研究发现，在巨大压力下人们并不总是转向超自然力量，有时候，<a target="_blank" href="http://news.sciencemag.org/sciencenow/2013/06/fear-of-death-makes-people-into-.html?ref=hp"><u>他们反而会转向科学</u></a>。研究的重点不是散兵坑和死亡的恐惧，而是在高度竞争但不那么可怕的情况下——比如赛艇比赛。研究人员招募了100多名信仰不那么坚定的年轻赛艇运动员，将他们分成两组，一组要准备参加比赛，另一组则准备参加略微轻松的训练。研究显示，准备比赛的运动员焦虑水平更高，同时比另一组有更高的对科学的信仰。另一项研究，研究人员招募了一群较弱宗教信仰的学生，请他们写关于死亡和关于牙齿疼痛主题的内容，结果同样发现前者比后者有更高的科学信仰。研究人员说，在巨大压力下，人们可能会转向对他们最有意义的世界观和信仰，而许多人觉得科学的世界观更适合他们。
+➜Google股东大会禁止Google Glass
+https://www.solidot.org/story?sid=35083	27601
+周四举行的Google年度股东大会执行严格的安全措施，甚至该公司大肆宣传的Google Glass技术<a target="_blank" href="http://www.cnbc.com/id/100798068"><u>也被禁止使用</u></a>，消费者保护组织Consumer Watchdog因此指责搜索巨人虚伪。根据股东大会的说明，“照相机，录音设备，以及其它电子设备如智能手机，将不允许带入会场。会议禁止摄影。”Consumer Watchdog称，Google Glass是有史以来对隐私最肆无忌惮侵入的设备之一，它鼓励人们侵犯隐私，但当涉及到自己的隐私，Google则就是另一副截然不同的面孔。
+➜科学家公开第一款仿生眼原型
+https://www.solidot.org/story?sid=35084	29950
+<div align="center"><img src="http://img.solidot.com.cn/0/475/linydsp95PQQ.jpg" height="213" align="" width="320"><br>
+</div>
+<br>
+一个澳大利亚科学家和设计师团队<a target="_blank" href="http://www.abc.net.au/news/2013-06-07/latest-bionic-eye-prototype-unveiled-in-victoria/4741190"><u>公开了世界第一款仿生眼原型</u></a>，它或能帮助失明者重见光明，看到周围的环境。仿生眼由一个植入到头颅的微芯片和一个安装在眼镜上的数码照相组成。数码照相拍摄的图像通过处理器转换成特殊信号，通过无线方式传输到嵌入到大脑视觉皮层的微电极。研究人员称，失明者将会看到低分辨率的点阵图像，足以分辨桌沿或亲人的轮廓或前面的排水沟等东西。仿生眼将从明年开始测试。
+➜为什么禽鸟外生殖器消失
+https://www.solidot.org/story?sid=35085	32292
+绝大多数雄性禽类下面都少点东西：97%的雄性禽鸟没有外生殖器，它们将泄殖腔用于排泄尿粪和分泌精液。科学家通过比较有外生殖器的北京鸭和没有外生殖器的家鸡的胚胎发育，<a target="_blank" href="http://news.sciencemag.org/sciencenow/2013/06/scienceshot-the-birds-disappeari.html"><u>解开了这一谜团</u></a>。鸡的生殖器发育一开始和鸭相同，最初几天出现了阴茎前体。但胚胎发育到8或9天后，鸡的发育情况开始变得完全不同，阴茎细胞逐渐死亡，最后只剩下一个微微隆起的组织。研究人员分析了胚胎内的基因活动模式，发现细胞死亡与名叫Bmp4的基因被激活有关联。如果激活鸭子胚胎中的Bmp4基因，外生殖器将会停止生长。是否是鸟类演化过程中压力因素导致Bmp4基因激活仍然存有争议。
+➜神秘汽车解锁设备困扰美国警方
+https://www.solidot.org/story?sid=35086	34355
+<center>
+<iframe src="https://www.youtube.com/embed/1f6ZqfZHalE?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+今年2月26日，午夜过后不久，三名穿着大衣戴着帽子的男子静静走进加州长滩一个冷清的住宅区街道。每个人都靠近一辆汽车，掏出一个小型电子设备，然后直接拉车把手。第一个人尝试了街道旁的一辆汽车，但没能成功解锁汽车，他随后就走开了。另外两名男子成功打开了一辆本田Acura SUV和一辆Acura汽车，在车里东翻西翻，最后关上车门离开。长滩警方称，当晚该地区有八辆汽车被闯入和盗窃。它在YouTube公开了监控探头拍下的<a target="_blank" href="http://www.youtube.com/watch?v=1f6ZqfZHalE"><u>画面</u></a>（如上），但至今仍然不知道<a target="_blank" href="http://arstechnica.com/security/2013/06/after-burglaries-mystery-car-unlocking-device-has-police-stumped/"><u>神秘汽车解锁设备如何工作</u></a>，不知道嫌疑人是哪方神圣。
+➜中国对大学贫困生发放求职补贴
+https://www.solidot.org/story?sid=35087	35281
+为解决近700万大学毕业生就业难，中国政府决定，对2013年毕业的贫困大学生，发放<a target="_blank" href="http://china.caixin.com/2013-06-08/100539389.html"><u>人均约1000元的一次性求职补贴</u></a>。6月7日，人社部、教育部、财政部联署<a href="http://www.gov.cn/zwgk/2013-06/07/content_2421610.htm" target="_blank"><u>发文</u></a>明确了大学生求职补贴申请发放办法。该文件规定，求职补贴一次性发放，凡家庭享受城乡低保待遇的2013年应届毕业生，可向所在高校申请。据上述文件，该补贴由大学毕业生统一向学校申请，经过学校初审和人社部门审核，可在离校前领取。而补贴标准由省级政府财政、人社部门等根据当地实际制定。对此，北京师范大学中国公益研究院副院长高华俊认为，大学生就业补助与低保资格衔接，能够更准确识别贫困学生、锁定帮扶对象。目前全国七千多万低保人群中，学生占10%左右。他估计，该补贴将会惠及数十万应届大学毕业生。
+➜什么时候计算机将能理解人类
+https://www.solidot.org/story?sid=35088	38046
+五十多年来，语言学家和计算机科学家一直试图让计算机理解人类语言，他们的努力取得了部分的成功，IBM的Watson和Google Translate成功应用于信息检索和语言翻译。但它们在理解人类幽默上仍然面临巨大挑战。现在，在德克萨斯高级计算中心超级计算机的帮助下，德州大学研究人员正利用新的方法<a target="_blank" href="http://www.tacc.utexas.edu/news/feature-stories/2013/when-will-my-computer-understand-me"><u>让计算机能更精确的理解人类语言</u></a>。他们从DARPA得到拨款，结合代表语义的高维空间和马尔可夫逻辑网络，更好的理解人类语言的意义。
+➜贝叶斯理论需要谨慎使用
+https://www.solidot.org/story?sid=35089	40799
+棒球统计学家Nate Silver在去年美国总统大选中因成功预测所有50个州的选举结果而名声大震，他使用的是名叫贝叶斯推理的统计学方法，根据先验知识推断给定事件发生的概率。在最新一期的《科学》期刊上，斯坦福大学统计学教授 Brad Efron<a target="_blank" href="http://www.sciencemag.org/content/340/6137/1177"><u>评估了</u></a>（摘要）贝叶斯理论在21世纪的应用。作为一名统计学期刊的编辑，他<a target="_blank" href="http://phys.org/news/2013-06-bayesian-statistics-theorem-caution.html"><u>发现</u></a>四分之一的论文使用了贝叶斯理论，但大多数的先验信息并不具有参考性。Efron本人也是一名贝叶斯统计学的信徒，但他只在数据允许的情况下才使用贝叶斯理论。<a target="_blank" href="http://arstechnica.com/science/2013/06/bayes-theorem-its-triumphs-and-discontents/"><u>他指出</u></a>，明智的使用贝叶斯理论能化腐朽为神奇，快刀斩乱麻，但滥用或不正确使用贝叶斯理论则可能会让你后悔莫及的。
+➜物理学家在原子系统之间实现量子遥传
+https://www.solidot.org/story?sid=35090	42626
+2006年，丹麦哥本哈根大学玻尔研究所的研究人员成功实现了光和气态原子间的量子信息隐形传输。现在，他们又实现了量子信息<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201306/t20130608_3862226.shtml"><u>在两团气态原子云间的隐形传输</u></a>。<a target="_blank" href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2631.html"><u>论文</u></a>发表在《自然·物理学》杂志上。研究人员在实验中用到了两个相互独立的玻璃容器，每个容器内包含有由数十亿个铯气态原子组成的云团。他们首先朝第一个玻璃容器内发送激光，纠缠光和气体。与原子纠缠的光随后被发送到第二个气体容器，作为中介实现量子信息从第二个容器到第一个容器的隐形传输。最新实验中信息隐形传输的距离仅为0.5米，研究人员表示：“0.5米这一距离完全囿于实验室大小所致。从理论上来讲，我们可以增加距离，甚至可以将信息远距离传输到卫星上。稳定的实验结果让我们朝着构建出未来的量子信息网络前进了一大步。”
+➜完全用手绘创造游戏
+https://www.solidot.org/story?sid=35091	44745
+<div align="center"><img src="http://img.solidot.com.cn/0/476/limLMa1Xx3ozI.jpg" height="267" align="" width="400"><br>
+</div>
+<br>
+大众集资平台Kickstarter帮助许多人实现了最狂野的梦想，其中一位是艺术家Jesse Gallagher，他成功从Kickstarter上为他的完全基于手绘的轮回制角色扮演游戏《<a target="_blank" href="http://www.kickstarter.com/projects/2088045881/paper-sorcerer"><u>Paper Sorcerer</u></a>》集资到13151美元，目前游戏已接近完成。游戏使用Unity引擎，支持多个平台，所有50个地牢中的角色和环境全部使用手绘，游戏没有动画，战斗也是静态图像。<a target="_blank" href="http://www.redbull.com/uk/en/stories/1331595941496/paper-sorcerer-video-game-drawn-by-hand"><u>Gallagher估计</u></a>，他在笔记本上共绘制了至少六百页的手绘图，这些图像随后扫描进电脑整合到游戏引擎中。他声称，游戏开发过程中应该给予艺术家更多的控制。他对艺术家的话语权如此微不足道而感到失望，所以才决定改走独立路线，他希望继续创造独立游戏，直到他倒在键盘上为止。

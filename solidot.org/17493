@@ -1,0 +1,45 @@
+➜Linus Torvalds 谈内核加固——不要伤害
+https://www.solidot.org/story?sid=54596	12329
+Linux 之父 Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2017/11/21/356" target="_blank"><u>详细阐述了他对加固内核的看法</u></a>，这一次他没有用粗口，而是相当的平易近人。<i>Torvalds 说他同意在内核中整合多层次安全方案将单个 bug 被利用的风险最小化的观点，但安全从业者与用户和开发者在对待 bug 和安全上有着截然不同的立场。站在安全的角度，当你发现一个非法访问，你减轻了风险，你就做出了出色的工作，你的加固是成功的，而你的工作也就完成了，你会说这不再是安全问题了，然后你会认为导致安全问题的 bug 不再是你的问题，因为非法访问被阻止了。但站在开发者的角度，事情根本就没完，开发者认为非法访问是一种症状，需要报告，调试，识别 bug 和修复。从开发者的角度来说，加固的终点其实是开发者的起点。从用户的角度看，这又是另一种情况。几乎每次曝出的安全问题，对他们来说并不是安全攻击，只是一个潜在的 bug 被暴露而已。从安全角度看，加固补丁是将问题从“危险”转为“良性”。但加固常常会带来其它问题，本来他们并没有真的碰到问题，但加固却给他们造成了真正的问题，如可能导致工作流中断。加固对三个不同的人群有着不同的意义。内核开发的头号原则是不要给用户添堵，因为没有用户，你的程序是没有意义的，你几十年的开发工作是没有意义的。最终安全也变得毫无意义。Torvalds 反复强调，安全人员不要伤害用户和开发者，发现安全问题首先应该报告。</i>
+➜迈凯伦车队雇佣了 25 岁的赛车玩家
+https://www.solidot.org/story?sid=54597	16162
+迈凯伦 F1 车队<a href="https://arstechnica.com/cars/2017/11/the-mclaren-formula-1-team-just-hired-the-worlds-fastest-gamer/#p3" target="_blank"><u>雇佣了</u></a> 25 岁的赛车游戏玩家 Rudy Van Buren 为车队模拟器车手。迈凯伦车队在今年 5 月举行了寻找最快赛车游戏玩家的全球竞赛，有 12 名赛车游戏玩家进入了决赛，其中 6 人是评审团挑选的，包括拉斯维加斯 Formula E 比赛冠军 Bono Huis，iRacing 世界锦标赛冠军 Greger Huttu。荷兰玩家 Rudy Van Buren 则是 rfactor 2  玩家，他曾在 11 岁时赢得了荷兰卡丁车赛冠军，但他的赛车职业生涯在 16 岁时就结束了。在赢得了比赛获得了迈凯伦的职位后， 他发表感想说，“每一名男孩都会梦想通过卡丁车走向 F1 ，这一梦想在某一时刻消失了，通过成为世界最快赛车玩家，我的梦想再次复活了。”
+➜云盘传播色情牟利将追究刑事责任
+https://www.solidot.org/story?sid=54598	17537
+最高法院和最高检察院公布了对云盘传播色情量刑的<a href="http://www.court.gov.cn/zixun-xiangqing-69832.html" target="_blank"><u>司法解释</u></a>，从 12 月 1 日起实行。解释称，“一、对于以牟利为目的，利用网络云盘制作、复制、贩卖、传播淫秽电子信息的行为，是否应当追究刑事责任，适用刑法和《<a href="http://www.spp.gov.cn/site2006/2006-02-22/00024-268.html" target="_blank"><u>最高人民法院、最高人民检察院关于办理利用互联网、移动通讯终端、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释</u></a>》（法释〔2004〕11 号）、《<a href="http://www.npc.gov.cn/npc/xinwen/fztd/sfjs/2010-02/04/content_1537528.htm" target="_blank"><u>最高人民法院、最高人民检察院关于办理利用互联网、移动通讯终端、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释（二）</u></a>》（法释〔2010〕3 号）的有关规定。二、对于以牟利为目的，利用网络云盘制作、复制、贩卖、传播淫秽电子信息的行为，在追究刑事责任时，鉴于网络云盘的特点，不应单纯考虑制作、复制、贩卖、传播淫秽电子信息的数量, 还应充分考虑传播范围、违法所得、行为人一贯表现以及淫秽电子信息、传播对象是否涉及未成年人等情节，综合评估社会危害性，恰当裁量刑罚，确保罪责刑相适应。”评估社会危害性听起来是相当主观的定义。
+➜今天火鸡的体重是 1960 年的两倍
+https://www.solidot.org/story?sid=54599	19015
+今天的火鸡<a href="https://www.theatlantic.com/technology/archive/2017/11/turkeys-are-twice-as-big-as-they-were-in-1960/546104/" target="_blank"><u>和昨天的火鸡区别很大</u></a>。数十年来，动物育种者通过选择育种已经改变了火鸡的基因，它们因此能长得更大更快更重。从 1960 年起，火鸡的体重平均每年增加四分之一磅，火鸡的平均体重从 1960 年的 15.1 磅增加到了 2017 年的 31.1 磅。研究人员曾经对比了 2003 年的火鸡品种和 1966 年的品种，喂食相同的食物，2003 年的能长到 33 磅，而 1966 年的只能长到 16.3 磅。2003 年品种的生长速度也更快，长到相同的可出售体重所需时间是 1966 年的一半。
+➜欧洲将处罚数据泄露
+https://www.solidot.org/story?sid=54600	19541
+类似 Uber 最新披露的数据泄露事件<a href="http://cn.wsj.com/gb/20171123/biz120059.asp" target="_blank"><u>可能很快会引来欧洲监管机构的处罚</u></a>。在欧盟运营的上市和非上市公司 2018 年 5 月起将需要遵守《一般数据保护条例》。该影响面广泛的条例规定了公司如何使用所收集的个人数据及披露数据外泄事件。未报告个人数据泄露事件的公司将面临最高相当于其全球年收入 2% 或 1000 万欧元的罚款﹐以较高者为准。未经同意而处理个人数据的公司可能会受到最高相当于其全球年收入 4% 或 2000 万欧元的罚款﹐以较高者为准。
+➜人类现有的火箭赶不上 ‘Oumuamua
+https://www.solidot.org/story?sid=54601	24953
+一个多月前，今天被称为‘Oumuamua 的星际天体从 2400 万公里距离上飞过地球，如今它正以26km/s 的速度飞离太阳系。‘Oumuamua 长约 400 米，形状似雪茄。如果人类使用现有的火箭并且能及时发射的话，我们能否赶上这颗天体？NASA Marshall 太空飞行中心的 Larry Kos <a href="https://arstechnica.com/science/2017/11/so-you-want-to-send-a-probe-to-catch-up-to-oumuamua/#p3" target="_blank"><u>认为赶不上</u></a>，主要原因是需要的燃料太多。人类现有的火箭推进系统使用的都是化学燃料。根据 Kos 的计算，火箭要赶上 ‘Oumuamua 维持特定的比推力需要将大量的燃料发射到地球轨道上，燃料重量相当于两个国际空间站的重量或大约 800 吨。这么多的燃料才能让 10 公斤的飞行器赶上 ‘Oumuamua。在可预见的未来，我们还没有此类的能力。
+➜比特币挖矿的年耗电量超过了 150 个国家
+https://www.solidot.org/story?sid=54602	27347
+根据本周 <a href="https://digiconomist.net/bitcoin-energy-consumption" target="_blank"><u>Bitcoin Energy Consumption Index</u></a> 公布的数据，比特币挖矿的年耗电量约为 29.05TWh，相当于全球耗电量的 0.13%，<a href="https://powercompare.co.uk/bitcoin/" target="_blank"><u>超过了</u></a>全世界 159 个国家。如果比特币矿工代表一个国家，那么它在全球的电力消耗榜上排在第 61 位。过去一个月，比特币的币值爆炸式增长的同时它的耗电量也增加了 29.98%，这一增长速度当然不可能一直持续下去，但假设维持这一增长速度比特币矿工很快将会消耗光全球的发电量。不是所有人都认同 Bitcoin Energy Consumption Index 的估计，比特币业内人士认为它<a href="http://blog.zorinaq.com/serious-faults-in-beci/" target="_blank"><u>过高估计了耗电量</u></a>。
+➜Google 和俄罗斯搜索引擎屏蔽了 786 个盗版网站
+https://www.solidot.org/story?sid=54603	29901
+根据莫斯科法庭的命令和电信监管机构 Rozcomnadzor 的要求，Google 和主要俄罗斯搜索引擎如 Yandex、Mail.ru、 Rambler 和 Sputnik 从搜索结果中<a href="https://torrentfreak.com/google-wipes-786-pirate-sites-from-search-results-171121/" target="_blank"><u>完全屏蔽了 786 个盗版网站</u></a>。俄罗斯 ISP 也受命永久性屏蔽了这些网站。普京在今年 7 月签署了一项法律，要求电信监管机构维护一个黑名单，同时识别绕过黑名单的网站、服务和软件（即 VPN 之类的工具）。这项法律于 11 月 1 日<a href="http://www.solidot.org/story?sid=54356" target="_blank"><u>正式生效</u></a>。Rozcomnadzor 没有公布 786 个网站的名字。
+➜俄罗斯政府部长称该国不会合法化比特币
+https://www.solidot.org/story?sid=54604	31025
+俄罗斯对比特币的立场再次出现了转变。俄罗斯通信和大众传媒部长 Nikolai Nikiforov 本周发表声称莫斯科<a href="https://siliconangle.com/blog/2017/11/21/russian-minister-says-country-will-never-legalize-bitcoin/" target="_blank"><u>永远不会合法化比特币</u></a>。而在 7 个月另一位俄罗斯政府部长表示考虑合法化比特币。目前比特币的币值超过了<a href="https://blockchain.info/markets" target="_blank"><u> 8100 美元</u></a>。Nikiforov 称，比特币是一个使用区块链技术的外国项目，在俄罗斯联邦的管辖权俄罗斯法律永远不会考虑将比特币视为法人。Nikiforov 将比特币和区块链技术区别对待，比特币的非合法状况不影响俄罗斯对区块链技术的使用，而俄罗斯也考虑用区块链技术开发自己发行的数字货币。他说，使用区块链技术和使用不同的数字令牌仍然是可能的。
+➜闪电触发了大气层中的核反应
+https://www.solidot.org/story?sid=54605	33972
+科学家<a href="https://www.sciencealert.com/thunderstorms-observed-triggering-nuclear-reactions-in-the-sky-lightning-gamma" target="_blank"><u>首次见证了</u></a>闪电触发大气层中的核反应，证实了约一个世纪前的假说。<a href="https://www.nature.com/articles/nature24630" target="_blank"><u>研究报告</u></a>发表在《自然》期刊上。闪电的高能电子能产生伽马射线，被认为能在雷云中诱导核反应。但这一现象此前从未令人信服的观察到。自 1980 年代起，科学家观察到了中子或正电子信号，但并不能确认是核反应产生了这些观察到的粒子。日本研究人员在今年 2 月的雷暴中观察到了来自闪电的强辐射，包括短暂的伽马射线闪光。紧跟着的是 0.511 MeV 能量的伽马射线线，这一能量特征通常来自核反应之后的正负电子。研究人员认为这是正负电子湮灭留下的确凿痕迹，是雷暴光核反应的明确证据。
+➜全球的人造灯每年增亮 2%
+https://www.solidot.org/story?sid=54606	41815
+全世界每年<a href="https://spectrum.ieee.org/energywise/energy/environment/awash-in-artificial-light-the-world-gets-2-percent-brighter-each-year" target="_blank"><u>都有更多的灯点亮</u></a>。对过去四年的卫星数据的分析发现，全球的人造灯亮度每年增加 2.2%，灯照亮的面积也是每年增加 2.2%。<a href="http://advances.sciencemag.org/content/3/11/e1701528" target="_blank"><u>研究报告</u></a>发表在《Science Advances》期刊上。报告主要作者 Christopher Kyba 是国际夜空协会的成员，他对这一结果表示失望。国际夜空协会致力于对抗光污染。光污染不仅让天文学家抱怨，城市居民也对透过窗户照进家中灯光感到恼火。博物学家发现光污染影响动物。 Kyba 的团队分析了 2012 年到 2016 年的数据，发现亮度增加和明亮区域扩大的地方主要是在亚洲、非洲和南美，美国和荷兰等国则维持稳定。Kyba 和他的同事称，LED灯省电，但这也导致人们点亮更多的灯。这种现象被称为反弹效应。
+➜美国情报机构想要能自动分类卫星图像的 AI
+https://www.solidot.org/story?sid=54607	43038
+间谍卫星及其商用卫星每天拍摄了数十 TB 的卫星图像，而人类分析师只能从卫星图像中筛选出高价值的目标如核设施和导弹。这就是为什么美国情报机构资助了<a href="https://spectrum.ieee.org/aerospace/satellites/wanted-ai-that-can-spy" target="_blank"><u>自动识别卫星图像中感兴趣目标的 AI 挑战赛</u></a>。挑战赛从 7 月开始，参赛者用世界最大的卫星图库数据集训练机器学习算法，该数据库由 U.S. Intelligence Advanced Research Projects Activity 提供。10 名决赛选手将能在 12 月底在一个秘密的卫星图像数据集里测试他们的 AI 算法。美国情报机构想要用 AI 自动处理目前由人类完成的四分之三的工作负荷。
+➜任晓平接受采访谈换头手术
+https://www.solidot.org/story?sid=54608	44736
+首例换头手术让哈尔滨医科大学教授任晓平引发了广泛关注。他曾于 1999 年在美国协助<a href="http://science.solidot.org/story?sid=48567" target="_blank"><u>进行了</u></a>世界首例手移植手术，其团队曾经 1000 只小白鼠上做过实验，成活率 30%-50%，最长成活期是一天。他在接受采访时<a href="http://news.sciencenet.cn/htmlnews/2017/11/394966.shtm" target="_blank">表示</a>，所谓的换头报道<i>“并不是很贴切。我们用两例新鲜的遗体完成的不是头移植手术（不是 “换头术”），而是人类头移植手术的外科模型。确切地说，这个实验是在去年 11 月底在哈尔滨医科大学的实验室完成的，是我带领团队及医生独立完成，我是主刀者...实验所用的遗体，经由家人签字同意捐献。研究获得了哈医大人类研究伦理委员会的批准。我们用了两具男尸，这个是往临床转换前的实验，要临床模拟，两具遗体起码从性别上、形态上、肤色上尽量接近...脊髓的修复问题对于术后的恢复是一个非常重要的问题，对于头移植能不能在临床顺利开展起到决定的作用。这两年我们开始做大鼠，共做了几十例，做的不是头（离断），而是头以下的脊髓部分，大概存活率 90% 以上, 目前大鼠最长的存活时间是一个月。在实验成功的基础上，做了 20 例左右的狗脊髓损伤（实验），狗的存活率在 90% 以上，最长的存活时间一年。”</i>
+➜法官认为 EFF 的每月最蠢专利博文受宪法保护
+https://www.solidot.org/story?sid=54609	47254
+为了讽刺专利和专利勒索， EFF 开了一个每月最蠢专利的专栏，而批判的对象通常对上榜并不高兴，其中有公司甚至拿起了诉讼武器。2016 月 6 月的每月最蠢专利介绍的是澳大利亚 Global Equity Management 公司持有的“<a href="https://www.eff.org/deeplinks/2016/06/stupid-patent-month-storage-cabinets-computer" target="_blank"><u>计算机上的储藏柜</u></a>”专利。该公司设法让澳大利亚法庭命令 EFF 删除这篇博文，但 EFF 没有遵守这一要求，对罚款的威胁也置之不理。EFF 在美国递交诉讼，要求美国法庭判决澳大利亚的裁决在美国不可执行，因为它与美国宪法赋予的言论自由权利相冲突。美国地区法院法官  Jon Tigar <a href="https://arstechnica.com/tech-policy/2017/11/eff-need-not-remove-stupid-patent-post-about-australian-troll-judge-finds/" target="_blank"><u>做出了有利于 EFF 的判决</u></a>。
+➜北京要求违章出租公寓租户立即搬出
+https://www.solidot.org/story?sid=54610	47848
+在北京大兴一公寓发生导致 19 人死亡的严重火灾事故后，北京开始全方面整顿出租公寓，但其做法引发了争议。官媒<a href="http://china.caixin.com/2017-11-23/101175222.html" target="_blank"><u>报道</u></a>称，“自 11 月 20 日起，北京全市开展为期 40 天的安全隐患大排查、大清理、大整治专项行动，行动之一就是加速严查、清退违章出租公寓...除事发地大兴外，包括海淀、朝阳、通州、丰台等各区城乡接合部都在严查违章建设的出租公寓，限期要求租户搬出腾退，搬迁时限短则一两日，长则三日至一周不等。”有租户和网民在社交媒体上<a href="http://s.weibo.com/weibo/%25E5%258C%2597%25E4%25BA%25AC%2520%25E6%2590%25AC%25E8%25BF%2581?topnav=1&amp;wvr=6&amp;b=1" target="_blank"><u>抱怨</u></a>这一做法不尽人情，照片和视频显示大批租户带着行李离开公寓，不清楚他们是否能及时找到住处。

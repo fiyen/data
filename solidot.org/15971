@@ -1,0 +1,63 @@
+➜中国黑客攻击美国无人机制造商
+https://www.solidot.org/story?sid=36545	10196
+安全公司FireEye称，位于上海的黑客组织Comment Crew（aka Shanghai Group/PLA 61398部队）对美国无人机制造商<a target="_blank" href="http://cn.nytimes.com/china/20130922/c22drone/"><u>发动了网络攻击</u></a>。FireEye将这一APT（先进持续性渗透攻击）行动称之为“<a target="_blank" href="http://www2.fireeye.com/rs/fireye/images/fireeye-advanced-threat-report-2h2012.pdf"><u>Operation Beebus</u></a>”(PDF，从第15页开始)，攻击者使用的是钓鱼攻击，向攻击目标发送含有恶意附件的邮件，这些附件伪装成合法的文档和白皮书，例如Y2013_Budget_Request.doc，Boeing_Current_Market_Outlook_2011_to_2030.pdf，当受害者打开附件，攻击者会利用MS Word/Adobe PDF的漏洞入侵机器，向C:\windows目录下载ntshrui.dll文件，ntshrui.dll是一个有效的系统文件，但存在于C:\windows的子目录System32中。通过将恶意文件植入到高优先级的系统文件夹内，黑客可以利用Windows系统的DLL搜索次序劫持漏洞（dll search order hijacking），让恶意程序载入到关键进程explorer.exe中。FireEye发现了攻击者使用的控制命令服务器bee.businessconsults.net。该公司称，Beebus行动一开始主要针对的是军事承包商，但后来开始选择无人机技术专业公司下手。此后他们就交替侵袭从事多种军事技术的大公司和专攻无人机的尖端小公司。
+➜16岁的500转刑拘第一人被释放
+https://www.solidot.org/story?sid=36546	12486
+500转刑拘第一人、16岁初中少年杨辉的刑事案件转为行政拘留，在被关押7天后<a target="_blank" href="http://ndnews.oeeee.com/html/201309/23/284647.html"><u>释放</u></a>。《南方都市报》发表<a target="_blank" href="http://jingji.21cbh.com/2013/9-23/zONjUxXzc4MTIzOA.html"><u>调查报告</u></a>讲述了整个经过：9月12日，张家川县张川镇发生一起离奇死亡案件，死者女儿高平不满官方调查，而当地也流传着许多死者死亡传言。9月14日周六，从北京广安中学转学来到张家川镇中学的杨辉与同学到网吧玩游戏《英雄联盟》和《龙与地下城》，中午12时左右他在QQ空间发表评论抨击此事。14时，高平与家人朋友游行到县政府，他们没有人关注过杨辉的QQ和腾讯微博。15日，高平的5名女同学遭到警方的罚款处罚。而杨辉作为“情节严重，发帖点击数达到500次以上的犯罪嫌疑人”于9月17日周二在学校上课期间被捕。
+➜中国研制出“拟态计算机”
+https://www.solidot.org/story?sid=36547	14108
+<div align="center"><img src="http://img.solidot.com.cn/0/679/lipuCPhJVhPuM.jpg" height="166" align="" width="250"><br>
+<br>
+</div>
+官方媒体<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2013/9/282728.shtm"><u>报道</u></a>，中国成功研制世界首台拟态计算机。但所谓的“拟态计算机”是何物网络上几乎找不到任何说明，甚至相关论文都没有。<br>
+<i>报导称，项目负责人中国工程院院士邬江兴教授表示，基于普通结构的高性能计算机虽然运算速度惊人，但其实用效能不足10%，因为运算过程仅使用单一计算结构处理所有应用问题。邬江兴院士及其团队提出拟态计算新理论。拟态计算的灵感来源于生活在东南亚海域的拟态章鱼，该章鱼为了适应环境可以模拟至少十五种动物。与一般的计算机“结构固定不变、靠软件编程计算”不同，拟态计算机可针对用户不同的应用需求，通过改变自身结构提高效能，<a target="_blank" href="http://www.stcsm.gov.cn/xwpt/gzdt/333739.htm"><u>测试表明</u></a>，拟态计算机比一般计算机可提升十几倍到上百倍。邬江兴院士认为：“基于拟态计算的体系结构是中国科学家原创的计算机结构，很可能成为改变‘游戏规则’的变革性技术，开创高效能计算机体系结构发展的新方向。”</i>
+➜混沌计算机俱乐部黑客破解iPhone5s指纹传感器
+https://www.solidot.org/story?sid=36548	15518
+<center>
+<iframe src="https://www.youtube.com/embed/HM8b8d8kSNQ?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+<br>
+<a href="http://TechYup.com">
+TechYup</a> 写道 "<a href="http://www.buzzfeed.com/jwherrman/the-iphones-fingerprint-sensor-has-already-been-hacked">BuzzFeed</a>报道，欧洲黑客组织Chaos Computer Club用视频公布了一种简单、可复制的方法，可以欺骗苹果的TouchID的指纹验证系统。该黑客组织<a target="_blank" href="http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid"><u>透漏</u></a>：“破解技术基于现有的指纹验证系统欺骗方法，稍作调整后应用到iPhone的超高清扫描仪。从玻璃表面上拍摄到的手机用户指纹，足以创建一个假手指，用来解锁装有TouchID的iPhone5S。”具体的破解步骤是先用2400 dpi的分辨率拍摄用户的指纹。生成的图像被整理和调整位置以后，用1200 dpi的厚粉模式激光打印到透明膜片上。最后，把粉红色乳胶或白色木胶涂到透明膜片上的色粉模板里。固化后，把薄胶层从透明膜片上拿起来，吹气让它稍微湿润，然后放置到传感器上就可以解锁手机了。苹果把TouchID宣传成一种方便和安全的功能，并在广告视频中介绍：“指纹是世界上最好的密码之一。我们在最先进的软硬件中使用了TouchID技术。”这种破解方法客观上相当简单，不会对大多数用户造成实际的威胁，因为很难想象用高分辨率拍摄某人的指纹，比找出他们的四位数PIN码更容易。"
+➜Ubuntu 13.10将匿名化Dash用户搜索数据
+https://www.solidot.org/story?sid=36549	17120
+Ubuntu 12.10的Dash搜索功能引入了来自亚马逊的搜索结果，引发了用户隐私泄露的质疑。自由软件基金会主席RMS(Richard Stallman)也为此提出了<a href="http://benjaminkerensa.com/2012/10/12/richard-stallman-canonical-will-be-forced-to-hand-over-data-to-various-governments"><u>批评</u></a>。现在，Canonical<a target="_blank" href="http://iloveubuntu.net/smart-scopes-anonymize-images-landing-users-dash-privacy-oriented"><u>表示</u></a>Ubuntu 13.10 Saucy Salamander将匿名化用户搜索数据。简而言之，数据会继续收集，但不收集用户身份信息。第三方服务如亚马逊将不会知道用户的详细信息。
+➜宇宙可能是马鞍形
+https://www.solidot.org/story?sid=36550	24640
+<div align="center"><img src="http://img.solidot.com.cn/0/680/liKlug7re3vPk.jpg" height="157" align="" width="300"><br>
+<br>
+</div>
+宇宙学家相信，在创世大爆炸10<sup>–35</sup>秒后，宇宙经历了一个被称为暴涨的快速膨胀时期。创世大爆炸38万年后，残留的辐射热——也就是宇宙微波背景辐射形成了。物理学家曾推测，微波背景辐射在宇宙各地应该是均匀分布。然而威尔金森微波各向异性探测器（WMAP）和普朗克探测器的观察显示，天空两个半球之间的温度涨落存在差异，意味着一边的物质和能量密度比另一边变化更强烈。爱丁堡大学的Andrew Liddle和Lawrence Berkeley国家实验室的 Marina Cortês在《Physical Review Letters》上发表论文，提出了一种解释：微波背景辐射异常可能是<a target="_blank" href="http://physicsworld.com/cws/article/news/2013/sep/19/is-the-universe-saddle-shaped"><u>因为宇宙是呈马鞍形</u></a>。他们对暴涨理论进行了修改，引入了第二个量子场—弯曲场（curvaton）。他们认为，暴涨场只是驱动了宇宙的快速膨胀；而弯曲场则导致“婴儿宇宙”出现密度波动。如果宇宙空间在更大尺度上有微小的负曲率的话，可以观察到这种波动，这或许表明，<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201309/t20130923_3936646.shtml"><u>宇宙是弯曲的而非平的</u></a>。宇宙微波背景中的温度偏差或许源于引入了弯曲场的宇宙缺乏一致性。
+➜霍金认为大脑或能复制保存
+https://www.solidot.org/story?sid=36551	28133
+英国理论物理学家霍金（Stephen Hawking）<a target="_blank" href="http://www.theguardian.com/science/2013/sep/21/stephen-hawking-brain-outside-body"><u>相信大脑能独立于躯体而存在</u></a>，但传统上关于来世的观点则是一则神话故事。霍金说，思维就像是一种程序，而大脑就像是计算机，因此在理论上可以将大脑拷贝到计算机，可以提供一种死后的生活形式。但目前而言拷贝意识超出了我们的能力。他认为，来世是害怕黑暗者的神话故事，而他整个生命都面临早逝的威胁。霍金在21岁时被诊断出患有运动神经元病，被认为只有2到3年时间可活。霍金现年71岁，他表示讨厌浪费时间。
+➜人民选择Android，议员偏爱iPhone
+https://www.solidot.org/story?sid=36552	29113
+<div align="center"><img src="http://img.solidot.com.cn/0/681/liJZUExfv9C7Q.jpg" height="141" align="" width="250"><br>
+<br>
+</div>
+Android是世界上最流行的移动操作系统，市场占有率<a target="_blank" href="http://www.solidot.org/story?sid=35934"><u>接近八成</u></a>。但NBC<a target="_blank" href="http://presspass.nbcnews.com/_news/2013/09/22/20622254-iphone-a-clear-favorite-among-house-members?lite"><u>透露</u></a>，美国众议院代表显然偏爱iPhone， 58%的人用iPhone，只有4%的人用Android，23%的议会代表用黑莓。在共和党众议员中，61%使用iPhone，21%用黑莓，只有3%的人用Android。在民主党众议员中，56%用iPhone，25%用黑莓，5%用Android。如果议员升级手中的iPhone，估计他们只会选择金色的iPhone 5s。金色的iPhone 5s也是中国市场最受欢迎、<a target="_blank" href="http://www.zdnet.com/gold-iphone-5s-the-only-spark-among-chinese-consumers-7000020980/"><u>黑市价格最贵</u></a>的型号。
+➜dBASE的大起大落
+https://www.solidot.org/story?sid=36553	32245
+Ashton-Tate的<a target="_blank" href="https://en.wikipedia.org/wiki/Dbase"><u>dBASE</u></a>数据库管理系统<a target="_blank" href="http://www.eweek.com/database/30-years-ago-the-rise-fall-and-survival-of-ashton-tates-dbase.html"><u>曾经是PC上最流行的应用程序之一</u></a>，被誉为数据库瑞士军刀。dBASE最早发布在CP/M系统上，因为简单和易用性而流行起来。它包含了一个数据库引擎、查询系统、表单引擎和编程语言dBASE。当IBM于1982年推出PC时，Ashton-Tate迅速作出回应，将dBASE移植到PC上，是PC早期的杀手级专业应用程序之一。Ashton-Tate与Lotus和WordPerfect成为当时的三大PC软件开发商之一。1987年，Ashton-Tate的销售收入达到了3亿美元。然而，简单和易用性是一把双刃剑，消费者开始要求增强编程特性和性能的复杂应用程序，竞争对手立即填补上了真空。这些竞争对手包括了Fox Software的FoxBase和Nantucket的Clipper。1988年，Ashton-Tate在数据库市场的占有率还有63%，到了1989年降到了43%。1991年，Borland以4.39亿美元收购了Ashton-Tate，尽管它自己也有一款数据库产品Paradox，Borland计划把dBASE作为高端数据库，而Paradox作为终端数据库。Borland目标是将dBASE带入Windows时代，但微软推出Access数据库，收购Fox Softwar的FoxPro，彻底改变了整个局面，Access统治了Windows的数据库市场。MS-DOS时代的强者未能及时过渡到Windows。
+➜金色版iPhone 5s一售而空，苹果低估亚洲人对金色的喜爱？
+https://www.solidot.org/story?sid=36554	36112
+在苹果推出的各种不同颜色版本的iPhone 5s和iPhone 5c中，金色版iPhone 5s最紧俏，据称中国黑市价格甚至达到了其零售价的2倍——1.8万元。虽然几乎所有国家和文化都喜爱金色和黄金，但金色之于亚洲相比西方<a target="_blank" href="http://www.businessinsider.com/apple-out-of-gold-iphone-5s-because-asia-likes-gold-2013-9"><u>明显更受追捧</u></a>。一位在北京电视台工作的25岁年轻人说，他不关心手机内部的变化，中国人就是爱金色。在亚洲，金色版iPhone 5s上市不到一天就一售而空；而在美国，由于订单太多，金色版iPhone 5s要到10月份才会提供。苹果的香港和新加坡在线商店的情况类似。
+➜中国航班误点仍然严重
+https://www.solidot.org/story?sid=36555	37730
+根据美国航空数据网站FlightStats发布的<a target="_blank" href="http://www.flightstats.com/go/story.do;jsessionid=4A382F4BCAFBE500D92737C1AAE69DC0.web3:8009?id=1065"><u>8月份全球航班准点起飞情况报告</u></a>，中国航班误点并无多少好转，仍然属于<a target="_blank" href="http://science.solidot.org/story?sid=35561"><u>全球最差</u></a>。8月份，北京首都国际机场国内、国际航线的出港航班中，准时起飞的航班仅占28％。而上海浦东国际机场也仅为27％。两大机场排在世界35个主要机场的倒数第1、2位。 起降延误现象在地方城市更严重。广州白云国际机场8月准时起飞航班仅为18％，而内陆地区的成都双流国际机场仅为24％。咨询公司上海承树估算，2012年因飞机延误而损失的潜在GDP达到352亿元。如果包括航空公司的成本等，经济损失每年将达到500亿元左右。<a target="_blank" href="http://cn.nikkei.com/china/ceconomy/6583-20130922.html"><u>中国的飞机航行区域“空域”由人民解放军负责管理</u></a>，民用可以使用的仅占20%。在很多情况下，以训练等军事活动优先。与民用可使用80%空域的美国等相比，中国民用飞机很难在空中自由飞行。中国军方对开放空域信息持消极态度，而北京上空的空域管理更加严格。
+➜韩国摩天大楼每天将隐形半小时
+https://www.solidot.org/story?sid=36556	39354
+《韩国时报》<a target="_blank" href="http://www.koreatimes.co.kr/www/news/biz/2013/09/123_142907.html"><u>报道</u></a>，韩国450米高的摩天大楼City Tower每天<a target="_blank" href="http://www.theregister.co.uk/2013/09/19/korean_stealth_skyscraper_incheon_airport/"><u>将隐形半小时</u></a>。大楼当然不是真的消失不见，仅仅是利用一种光学技巧愚弄人眼：利用建筑物的摄像机拍摄背面的图像然后投影到正面的LED上。这种隐形光学幻觉很早就为人熟知，但应用于巨大的建筑物则称得上闻所未闻了。官员否认隐形会威胁空中交通，称大楼的红色警示灯会一直闪烁（<a target="_blank" href="http://blogs.wsj.com/korearealtime/2013/09/13/say-where-did-that-450-meter-tower-go/"><u>视频演示</u></a>）。
+➜Xbox游戏机将登陆中国？
+https://www.solidot.org/story?sid=36557	40222
+百视通BesTV<a target="_blank" href="http://biz.21cbh.com/2013/9-23/xMNDE1Xzc4NDgxMg.html"><u>宣布与微软合作</u></a>，在上海自贸区建立合资公司，共同投资7900万美元（约合4.83亿元人民币），其中百视通控股51%，微软占股49%。公司的主营业务范围为设计、开发、制作游戏、娱乐应用软件及衍生产品；销售、许可、市场营销自产和第三方的游戏、娱乐应用软件；游戏机相关技术咨询和服务。根据此前的消息，微软的Xbox One游戏机很可能会透过该合资公司正式进入中国市场。媒体曾<a target="_blank" href="http://www.solidot.org/story?sid=35531"><u>报导</u></a>说，中国考虑解除长达13年的游戏机生产销售禁令，但有一个限制条件——索尼微软任天堂必须在上海自由贸易区组装游戏机。
+➜拟态计算机：可重构计算阵列？
+https://www.solidot.org/story?sid=36558	42218
+官方媒体称，中国科学家发明了一种拟态计算的新理论，研制出世界<a target="_blank" href="http://www.solidot.org/story?sid=36547"><u>首台拟态计算机</u></a>。根据相关专利申请，这种拟态计算机很可能只是利用FPGA等可重构硬件的可重构计算阵列。<a target="_blank" href="http://www.eefocus.com/data/09-06/53113_1244442630/File/1244456346.pdf"><u>可重构计算概念</u></a>（PDF）最早可上溯至上个世纪60年代，并非国人首创，它提供了一种具有高度弹性和高性能的<a target="_blank" href="http://en.wikipedia.org/wiki/Reconfigurable_computing"><u>计算架构</u></a>。拟态计算机项目负责人是邬江兴院士，研制单位包括上海红神信息技术有限公司和中国人民解放军信息工程大学，与2012年11月公开的一项专利申请不谋而合，申请号CN 201110138138的专利以邬江兴为第一发明人，其名称为“<a href="http://www.google.com/patents/CN102799563A?cl=zh"><u>一种可重构计算阵列及构建方法</u></a>”，描述了一种包括多个单核的可重构计算阵列。
+➜稀土需求下降，稀土开发刹车
+https://www.solidot.org/story?sid=36559	43017
+由于2010～2011年的价格暴涨，日本等国的需求出现减少。而价格下跌又导致企业和政府的开发意愿降温。据美国地质勘探局统计，2012年全球稀土产量（以氧化物计算）为11万8900吨，与2011年基本持平。相比创近期高点的2010年减少十分之一以上，<a target="_blank" href="http://cn.nikkei.com/politicsaeconomy/commodity/6602-20130923.html"><u>进入今年后依然处于增长乏力状态</u></a>。除了中国实施减产外，中国以外的矿山新建计划也被推迟。稀土开发热的降温，一个因为是日本需求减少。日本曾占全球需求10%以上。据日本新金属协会统计，2012年日本国内稀土需求为1万4470吨，比2011年减少31％。尤其是用于磁铁和玻璃研磨材料的稀土下滑明显。用于马达磁铁的中国产钕的对日出口价格在2011年7月曾上涨至每公斤460美元左右，达到2010年1月的12倍，但2013年6月已经下跌8成。到8月底，则降至90美元左右。 <br>
+➜联合国研究发现互联网存在性别鸿沟
+https://www.solidot.org/story?sid=36560	45205
+联合国宽带委员会<a target="_blank" href="http://www.undp.org/content/undp/en/home/presscenter/pressreleases/2013/09/21/un-broadband-commission-releases-first-global-report-on-broadband-and-gender-200-million-fewer-women-online/"><u>发布了</u></a>首份全球宽带和性别报告，发现全球互联网存在巨大性别鸿沟，女性网民比男性网民少了2亿。全世界28亿网民中，有13亿是女性，相比之下男性网民有15亿，如果不采取措施，性别鸿沟将会在三年内从2亿增加到3.5亿。移动手机性别鸿沟更大，男女相差3亿。报告认为，未开发的女性用户代表着一个新的市场机遇。报告声称，宽带普及率每增加10%，可转变为1.38%的GDP增长。

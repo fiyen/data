@@ -1,0 +1,18 @@
+➜Google Dart语言进入TIOBE排行前20
+https://www.solidot.org/story?sid=41337	6125
+<a href="http://www.dglux.com">匿名读者</a> 写道"本月<a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html" target="_blank">TIOBE编程语言排行</a>榜出炉。Google的<a href="https://www.dartlang.org/" target="_blank">Dart语言</a>进入了前20。
+<i>
+许多人把dart当成js的一个替代。但对Google来说，从dart编译出高效的js比dartVM自身的效率更为重要。越来越多的程序员发现与其混合使用多个不同的javascript库，远不如使用dart和dart的软件包管理来的方便。<a href="https://www.dartlang.org/performance/" target="_blank">dart2js编译的结果比起优化的js代码要慢5%-20%</a>。但考虑到手写代码不可能有如此的优化，再加上手写代码几乎离不开jquery等js软件库，而非直接调用浏览器的api。现实的项目中程序员手写的js几乎不可能比dart2js编译结果运行的更快。而基于dart的开发在最后发布前能在在dartVM上直接调试，使调试web app变得像调试java,C#那样简单。"</i>
+➜三星一年向微软支付10亿美元的Android专利费
+https://www.solidot.org/story?sid=41338	26404
+微软在八月份以欠缴Android设备相关专利费为由<a target="_blank" href="http://www.solidot.org/story?sid=40603"><u>起诉了三星公司</u></a>，当时法庭文件是密封的，所以不知道三星究竟欠了微软多少钱。现在法庭文件<a target="_blank" href="http://recode.net/2014/10/03/microsoft-says-samsung-owes-it-6-9-million-in-contract-dispute/"><u>解密了</u></a>，我们现在知道三星一年要向微软<a target="_blank" href="http://arstechnica.com/tech-policy/2014/10/lawsuit-reveals-samsung-paid-microsoft-1-billion-a-year-for-android-patents/"><u>支付10亿美元</u></a>的Android专利费。三星和微软是在2011年9月达成了为期七年的交叉专利授权协议：第一年的缴纳没有发生任何问题；2013年8月，三星告诉微软第二年它需要支付的专利费超过了10亿美元，支付将在10月完成，但微软直到11月才收到钱。原因是微软在9月宣布收购诺基亚的手机业务。微软指控三星欠它690多万美元的利息。而三星停止支付专利费的理由是诺基亚设备没有包含在交叉专利授权协议内，而这些设备侵犯了三星拥有的专利，微软收购诺基亚导致协议作废。
+➜透明塑料光学电池
+https://www.solidot.org/story?sid=41339	48658
+<a href="/~mtjs">mtjs</a> 写道<i> "如果说起太阳能电厂你能想到的是什么？荒漠地区的巨大的太阳能电池板矩阵？太阳能可能是最廉价最方便获取的能源之一，但是目前的太阳能电池有个缺陷，就是挡光。密西根州立大学的研究人员<a href="http://www.smithsonianmag.com/innovation/this-clear-plastic-material-harvests-solar-energy-without-you-even-knowing-its-there-180952514/" target="_blank">开发了一种塑料太阳能收集器</a>，其原理是利用荧光材料吸收光源中不可见光谱系的光波，这些荧光材料吸收光波后将光波转化为红外光并被位于材料边缘的光电转换元件转化为电能，这种材料可以作为窗户玻璃，其透光效果与普通玻璃一样，你的视野不会受到任何阻挡，这种透明光电材料也可用于其他玻璃被应用的途径，例如手机屏幕等，这种材料可以大批量工业化生产，他们已经与一家厂商进行了商谈，开发者认为这种材料会首先被运用于电子器件例如电子书阅读器之类的设备，因为电量足够支撑其运转，尽管目前光电转换效率不高，只有1%的不可见光能被转换成了电能，他们将在未来的研发中继续优化期望能够提高到5%以上，目前商业化的光电池转化效率为15～20% 。"</i>
+➜万豪因干扰客户的无线热点被罚60万美元
+https://www.solidot.org/story?sid=41340	50654
+万豪被美国联邦通信委员会<a target="_blank" href="http://mobile.slashdot.org/story/14/10/03/1754236/marriott-fined-600000-for-jamming-guest-hotspots"><u>罚款60万美元</u></a>，该集团旗下酒店被发现干扰客户设立的无线热点迫使客户为接入互联网而支付高额费用：在万豪经营的Gaylord Opryland酒店和会议中心，客户需要为上网支付最高每台设备每天1000美元的费用。万豪从2012年开始运营这家会议中心，它被认为从当时起就开始干扰客户的无线热点，联邦通信委员会（FCC）在2013年3月首次收到了投诉，一名客户怀疑他们的设备受到了干扰。FCC的调查证实了客户的怀疑<strong>。</strong>Gaylord Opryland安装了一台无线监视系统，会对客户的无线接入点发起de-authentication攻击。FCC判定万豪的行为违反了《通讯法》。<br>
+<br>
+➜Windows的版本号为什么要跳过9？
+https://www.solidot.org/story?sid=41341	53437
+微软宣布的下一代操作系统不是Windows 9而是Windows 10。为什么微软跳过了Windows 9？一个广泛流传的说法是Windows 9可能会引起某些软件（如<a target="_blank" href="https://searchcode.com/?q=if%28version%2Cstartswith%28%22windows+9%22%29"><u>JAVA</u></a>）的兼容性问题，Windows 9的版本号可能会与Windows 95和Windows 98混淆起来。但另一些人认为<a target="_blank" href="http://tech.slashdot.org/story/14/10/03/2259240/possible-reason-behind-version-hop-to-windows-10-compatibility"><u>这一说法纯属扯谈</u></a>，因为Windows 95/98/2000/XP/7/8...本身是产品销售的名称，并非真正的版本号，版本号与名字相去甚远，比如Windows 95返回的版本号是NT 4.0，98是NT 4.1，2000是NT 4.2，Windows 8.1 是NT 6.3。

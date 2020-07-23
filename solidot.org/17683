@@ -1,0 +1,45 @@
+➜GNOME 迁移到 GitLab
+https://www.solidot.org/story?sid=56690	11827
+GNOME 基金会<a href="https://www.gnome.org/news/2018/05/gnome-moves-to-gitlab-2/" target="_blank"><u>宣布</u></a>它完成了到 GitLab 的迁移。GNOME 是在去年<a href="https://www.solidot.org/story?sid=52434" target="_blank"><u>讨论</u></a>迁移到 GitLab，原因是现有的代码托管设施和 bug 跟踪系统 Bugzilla 维护起来日益困难。GNOME 运行的是 Bugzilla 的一个旧定制版本，每次更新都非常困难，GNOME 缺乏资源继续维护一个定制版本。Bugzilla 的另一个问题是它没有与代码库整合在一起。相比之下 GitLab 是一个中心化的源代码托管，问题跟踪和团队交流工具，能让代码贡献者比以往更高效的交流和协作。GJS (JavaScript Bindings for GNOME)项目维护者 Philip Chimento 称，切换到 GitLab 之后他立刻注意到了贡献的增加，他认为 GitLab 真的降低了参与的门槛。GitLab 也发表<a href="https://about.gitlab.com/2018/05/31/welcome-gnome-to-gitlab/" target="_blank"><u>声明</u></a>欢迎 GNOME 项目。
+➜Telegram CEO 称苹果阻止其更新 iOS 版应用
+https://www.solidot.org/story?sid=56691	13555
+俄罗斯在今年 4 月宣布封杀该国流行的移动消息应用 Telegram，然而不只是俄罗斯的 Telegram 用户受到禁令的影响。Telegram CEO Pavel Durov 称，从 4 月起苹果<a href="https://arstechnica.com/gadgets/2018/05/telegram-ceo-apple-has-prevented-app-updates-globally-since-april/" target="_blank"><u>阻止了</u></a>该公司的 iOS 版应用更新。Durov 称 App Store 里的版本比 Android 版本滞后两个月，由于没有更新部分功能在最新版本的 iOS 11.4 上将不会工作正常。Durov 还表示，由于无法更新 App Store 中的应用，Telegram 未能完全遵守 5 月 25 日生效的欧洲数据保护法规 GDPR。由于没有及时打上安全补丁， iOS 版本也比其它版本存在更多安全风险。俄罗斯监管机构 Roscomnadzor 已经对苹果发出了通知，要求它在一个月内从俄国  App Store 下架 Telegram。
+➜小米发布了与 iPhone X 高度相似的小米8
+https://www.solidot.org/story?sid=56692	16091
+乍一看，你以为看见的是苹果 iPhone X。再仔细看一下，原来是<a href="https://item.mi.com/product/10000099.html" target="_blank"><u>小米 8</u></a>。小米以模仿苹果起家，如今这家位居世界前五的智能手机制造商仍然在<a href="https://arstechnica.com/gadgets/2018/05/xiaomi-clones-the-iphone-x-for-420-adds-in-display-fingerprint-reader/?comments=1" target="_blank"><u>模仿苹果</u></a>。小米 8 有三个版本，其中一个是高端的叫“透明探索版”，配置了屏幕指纹阅读器和背面透明，低端版叫小米 8 SE，处理器不同，屏幕更小。其配置包括：处理器骁龙 845，CPU 最高主频 2.8GHz，GPU Adreno 630 最高主频 710MHz；小米 8 最高可选 6GB+256GB（最低 64GB），透明探索版 8GB+128GB；显示屏是 6.21 英寸 三星 AMOLED 屏幕，分辨率 2248 x 1080 402 PPI，支持红外人脸识别和后置指纹识别，前置摄像头 20MP。小米 8 的起售价 2699 元，6 月 5 日开售，透明探索版售价 3699 元，小<a href="https://www.mi.com/mi8i/" target="_blank"><u>米 8 SE </u></a>起售价 1799 元。
+➜中国国家主席称区块链是一种突破性技术
+https://www.solidot.org/story?sid=56693	18761
+在本周举行中科院和中国工程院院士大会上，中国国家主席习近平<a href="http://www.sohu.com/a/233484942_661926" target="_blank"><u>称</u></a>“以人工智能、量子信息、移动通信、物联网、区块链为代表的新一代信息技术加速突破应用…… 世界正在进入以信息产业为主导的经济发展时期。”这是 “区块链” 三字第一次出现在国家最高领导人的讲话中。虽然数字加密货币备受怀疑，但其底层技术区块链则在中国和世界其它地方吸<a href="https://tech.slashdot.org/story/18/05/31/216216/chinese-president-xi-jinping-calls-blockchain-a-breakthrough-technology" target="_blank"><u>引了大量的关注</u></a>。区块链是一种分布式帐薄。
+➜利用 CSS 特性的边信道攻击
+https://www.solidot.org/story?sid=56694	20347
+安全研究人员在浏览器实现的 CSS 特性“mix-blend-mode” 中<a href="https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/" target="_blank"><u>发现了一个</u><u>边信道漏洞</u></a>，能通过跨域 iframe 泄漏视觉内容。攻击者可以利用该漏洞诱骗用户访问一个恶意网站，然后利用跨域 iframe 获取用户的 Facebook 资料，包括照片和用户名等信息，整个过程不需要与用户有额外的互动。受影响的浏览器主要是 Firefox 和 Chrome，Internet Explorer 和 Microsoft Edge 不受影响是因为它们不支持 mix-blend-mode，苹果 Safari 也不受影响。研究人员已经向浏览器开发商和 Facebook 报告了该漏洞，Chrome v63.0 和 Firefox Quantum v 60.0 分别修复了该漏洞。Facebook 回应称他们这边对此无能为力。修复方法是矢量化 mix-blend-mode，Safari 之所以不受影响是因为它采用的就是矢量化的实现方式。
+➜亚马逊在 Google 和苹果之后禁止系统级广告屏蔽工具
+https://www.solidot.org/story?sid=56695	25663
+亚马逊以违反内容政策为由从其应用商店<a href="https://adguard.com/en/blog/goodbye-amazon/" target="_blank"><u>下架了</u></a> AdGuard for Android，相关的内容政策条款禁止系统级广告屏蔽，“我们禁止应用干扰用户的设备、我们的服务、其他人的服务、网络或第三方应用。举例来说，干扰或屏蔽第三方应用展示广告是不被允许的。”在 Google 和苹果之后亚马逊也采取行动禁止了系统级广告屏蔽工具，这些公司的应用商店都没有系统级广告屏蔽工具。
+➜泄漏邮件显示 Google 预期军用无人机 AI 项目的收入将指数级增长
+https://www.solidot.org/story?sid=56696	26695
+Google 今年三月被爆出与五角大楼签署协议向军用无人机提供先进 AI 技术。这个名叫 Project Maven 的项目在公司内部引发了争议，十多名雇员辞职抗议，数千名雇员联署呼吁终止合同。Google 试图通过与雇员对话消除分歧，负责云业务的高管 Diane Greene 在员工大会上称该合同价值只有 900 万美元，对搜索巨人来说只是一个规模相对较小的项目。然而内部邮件显示，虽然该项目最初的收入很少，但 Google 预期未来<a href="https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/" target="_blank"><u>它将会呈指数级增长</u></a>。去年 9 月 Google 业务拓展部门的一封邮件预期军用无人机 AI 收入将从 1500 万美元增长到每年 2.5 亿美元。事实上，在新闻曝光之后，五角大楼向 Project Maven 增加了一亿美元拨款。
+➜Mozilla 邀请用户测试 DNS over HTTPS
+https://www.solidot.org/story?sid=56697	29404
+Mozilla 开始<a href="https://blog.nightly.mozilla.org/2018/06/01/improving-dns-privacy-in-firefox/" target="_blank"><u>邀请</u></a> Nightly 版用户<a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/" target="_blank"><u>测试</u></a>更安全的域名解析方法：Trusted Recursive Resolver (TRR)，通过 HTTPs 加密发出 DNS 请求。今天的 DNS 请求是通过 UDP 或 TCP 协议，没有加密，也不安全。采用 DNS over HTTPs (DoH) 将让 DNS 解析更安全。TRR 提供了方法选择信任的 DNS 解析服务器去处理请求。Mozilla 考虑未来对所有用户启用这项功能。计划于 9 月释出的 Firefox&nbsp; 62 将提供该功能，现在 Firefox&nbsp; 62 已经发布了 Nightly 版本，用户需要通过设置 about:config 搜索 network.trr，将 network.trr.mode 的值设为 2 来启用 DoH，通过 network.trr.uri 来设置 DoH 服务器，目前可选择 Cloudflare 的服务器 https://mozilla.cloudflare-dns.com/dns-query。查看 about:networking 页的 DNS 标签可以了解你使用的域名解析服务器。
+➜谷歌在中国的应用商店推出应用
+https://www.solidot.org/story?sid=56698	32949
+谷歌在中国<a href="http://blog.sina.com.cn/s/blog_9c079b040102z5ky.html" target="_blank"><u>发布了</u></a>一款应用叫“<span>Google 文件极客</span>”，而该应用不是通过 Google Play 而是通过<a href="https://shouji.baidu.com/software/24053020.html" target="_blank"><u>百度</u></a>、华为、腾讯和小米应用商店提供给中国用户。根据百度提供的数据，该应用在百度应用市场的下载量不到八千。谷歌官方博客称，“人们需要有一种更好的方式，来管理手机里的各种文件，因此，我们在去年 12 月发布了 Files Go 这款应用。今天，我们很高兴的发布了这款应用针对中国的全新定制版本——Google 文件极客。Google 文件极客将帮你清理空间，更快地找到文件，并更方便的与他人分享文件，应用安装包大小仅为 8.4MB。”
+➜腾讯和阿里巴巴竞争主导权
+https://www.solidot.org/story?sid=56699	35706
+科技界对主导权最激烈的争夺<a href="https://cn.nytimes.com/technology/20180601/china-tencent-alibaba/" target="_blank"><u>正在中国展开</u></a>。它也可能预示着其他地方科技巨头的未来。腾讯控股和阿里巴巴集团正在升级一场没有限制的竞争，主导 7.7 亿网民交流、购物、出行、娱乐，甚至投资储蓄、看病的方式。从很久以前起，这两大巨头的争斗就已经从自己的核心业务——腾讯是游戏和社交媒体，阿里巴巴是电子商务——扩展到了中国人生活的其他领域。他们在短信、微博和外卖领域展开了竞争。它们在视频流媒体和云计算领域针锋相对。如此广泛的双头垄断在美国很难轻松复制。根深蒂固的竞争者，加上政府干预的威胁，通常会导致苹果、亚马逊、谷歌和 Facebook 等公司无法仓促地扩展到相邻的业务领域。中国的互联网巨头拥有独一无二的强大盟友：中国政府。北京盈科律师事务所的合伙人胡文友表示，腾讯和阿里巴巴在北京庇护之下避免了反垄断的限制。它们庞大的规模有利于当局进行控制。它们有太多利益在里面了。
+➜中国农村儿童流行肥胖症
+https://www.solidot.org/story?sid=56700	41974
+研究人员<a href="http://www.bbc.com/zhongwen/simp/science/2016/04/160427_china_rural_children_junk_food" target="_blank"><u>警告说</u></a>，随着中国农村儿童摄入西式含高糖和碳水化合物的食品越来越多，农村儿童的肥胖症也日益严重。 山东的一项研究发现，2014 年，年龄在 19 岁以下的青少年中，有 17% 的男孩患肥胖症；而女孩比例为 9%。这比 1985 年的比例大幅提升，当年仅有 1% 的青少年患肥胖症。研究发表在《<a href="http://journals.sagepub.com/home/cpr#" target="_blank"><u>欧洲预防心脏病学杂志</u></a>》上。相关数据来自六个对 28,000 名 7 岁至 18 岁农村儿童的官方调查。该研究发现，体重超重的男孩从 0.7% 升至 16.4%，超重的女孩从 1.5% 升至近 14%。山东省疾病预防控制中心张迎修表示，“过去３０年来，中国在社会经济和营养方面都发生了巨大改变”。他说，与过去相比，中国人现在吃得更多，更少锻炼身体。传统中国饮食习惯已发生转变，人们摄入含更高脂肪和热量，纤维含量低的食品”。
+➜阿里巴巴的自主驾驶卡车装备了固态激光雷达
+https://www.solidot.org/story?sid=56701	42872
+阿里巴巴旗下的菜鸟<a href="https://spectrum.ieee.org/cars-that-think/transportation/sensors/chinas-alibaba-puts-robosenses-solidstate-lidar-in-a-selfdriving-delivery-bot" target="_blank"><u>推出</u></a>了世界首个使用固态激光雷达导航的无人驾驶卡车 G Plu。固态激光雷达 RS-LiDAR-M1Pre 由深圳公司<a href="http://www.robosense.ai/" target="_blank"><u>速腾聚创</u></a>（RoboSense）制造。相比目前常见的机械多线雷达，MEMS 微振镜（MEMS micro mirror）扫描方案下的固态激光雷达正在成为新趋势。采用 MEMS 微振镜扫描方案，激光发射器和接收器只需要几个，通过 MEMS 微振镜在两个方向上的摆动进行扫描，因为摆动角度非常精细所以角分辨率非常高，整个视场角内垂直角分辨达到 0.2°。相比之下，传统机械多线 LiDAR 要达到相同的效果，需要上百组激光发射器和接收器同时旋转扫描，这样会大幅提高物料成本和人力调教成本，降低良品率和可靠性。
+➜小米利润最高的是广告业务
+https://www.solidot.org/story?sid=56702	44492
+小米正准备上市，从其披露的招股书来看，对小米营收贡献最大的是智能手机业务，而基于广告的互联网服务虽然收入规模不大，但毛利率远远高于其他业务。招股书显示互联网服务 2017 年毛利率为 60.2%，2016 年为 64.4%。广告一直都是互联网服务变现的<a href="http://www.bjnews.com.cn/finance/2018/06/01/489343.html" target="_blank"><u>主要方式</u></a>，不过 MIUI 系统内置广告引发了小米用户的反感。此前，有网友称自己使用的百度输入法小米版植入广告。百度手机输入法回应称，该广告是手机厂商在输入法手机定制版上的自定义行为，已经第一时间沟通该厂商下线广告。各大应用市场提供百度输入法官方版、华为定制版等其他版本的百度输入法下载，均无任何广告行为。据相关媒体报道，去年小米推出了 “小米会员” 内测服务，米粉仅需支付 9.9 元，就可以享受到一系列服务，比如专属主题、云服务空间、有品购物平台的优惠券等，还有去除广告功能。
+➜三星无需被迫更新旧型号手机的系统
+https://www.solidot.org/story?sid=56703	46169
+在赢得荷兰法庭的诉讼之后，三星将<a href="http://www.bbc.com/news/technology-44316364" target="_blank"><u>不需要被迫去更新</u></a>售出超过两年时间的智能手机系统。消费者保护组织  Consumentenbond 认为，三星至少应该在手机开始销售四年内更新软件。定期更新软件能解决安全问题，而旧型号的智能手机通常不会收到最新更新。三星的手机安装的是 Google 的 Android 系统，而 Google 会定期释出修复安全漏洞的软件更新，这些更新会提供给厂商，然后由厂商再决定提供给客户。三星声称，它保证在手机售出两年内提供软件更新。法院拒绝了该组织的要求，认为 Consumentenbond 的主张涉及“未来行为”而“不能采纳”。
+➜Valve 修复了一个影响过去十年 Steam 版本的漏洞
+https://www.solidot.org/story?sid=56704	47067
+Valve <a href="https://www.bleepingcomputer.com/news/security/valve-patches-security-bug-that-existed-in-steam-client-for-the-past-ten-years/" target="_blank"><u>修复了</u></a>一个影响过去十年所有 Steam 版本的严重漏洞，该漏洞允许攻击者在目标计算机上执行任意代码。Steam 是最流行的 PC 数字游戏发行平台，有千万级用户。发现该漏洞的安全研究员 Tom Court 称该漏洞是一个远程代码执行漏洞，能通过发送网络请求利用，攻击者只需要发送畸形的 UDP 包到目标的 Steam 客户端，就能触发漏洞在目标的计算机上执行恶意代码。

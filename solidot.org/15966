@@ -1,0 +1,56 @@
+➜Firefox 24发布，支持WebRTC
+https://www.solidot.org/story?sid=36494	9839
+Mozilla<a target="_blank" href="https://blog.mozilla.org/blog/2013/09/17/webrtc-now-available-across-mobile-and-desktop-with-new-firefox-for-android-compatibility/"><u>正式发布</u></a>了<a target="_blank" href="http://www.mozilla.org/en-US/firefox/24.0/releasenotes/"><u>桌面版</u></a>和<a target="_blank" href="http://www.mozilla.org/en-US/mobile/24.0/releasenotes/"><u>移动版</u></a>Firefox 24。<br>
+<i>桌面版的新功能包括： Mac版本支持新的滚动条样式；支持一键<a target="_blank" href="http://msujaws.wordpress.com/2013/06/17/picking-up-the-crumbs/"><u>关闭某标签右侧所有标签页</u></a>，如果用户在一个网站打开了许多标签，然后想全部关闭，可以选定一个标签，单击右键，选择“关闭右侧标签页”，为什么是右侧而不是左侧，Mozilla表示新打开标签页通常是出现在右侧；改进新标签页载入性能，等。<a target="_blank" href="https://play.google.com/store/apps/details?id=org.mozilla.firefox"><u>Android移动版</u></a>的新特性包括：<a target="_blank" href="https://hacks.mozilla.org/2013/09/firefox-24-for-android-gets-webrtc-support-by-default/"><u>默认支持</u></a> WebRTC；<a target="_blank" href="https://blog.mozilla.org/blog/2013/09/17/its-easier-to-share-your-favorite-web-content-with-firefox-for-android/"><u>NFC共享</u></a>，Firefox for Android可以在支持近场通信（NFC）的设备上共享标签和喜欢的文章。</i>
+➜中国超高清LCD异军突起
+https://www.solidot.org/story?sid=36495	11490
+在OLED的价格居高不下的情况下，消费者对高清显示屏的需求驱使中国LCD厂商推出高清LCD——或称之为UHD。UHD比标准LCD更清晰，比OLED更便宜，它<a target="_blank" href="http://cn.reuters.com/article/CNAnalysesNews/idCNCNE98G04E20130917?pageNumber=2&amp;virtualBrandChannel=0&amp;sp=true"><u>的异军突起给OLED施加了压力</u></a>。UHD市场在2012年几乎不存在，但之后出货量飙升约20倍。OLED的长期潜力更大，超高解析度，萤幕轻薄到或许可以弯曲甚至卷起，但高昂的价格影响了它的普及。中国的55寸UHD电视售价约1800美元，而三星售的类似尺寸的OLED电视价格约10000美元。受UHD市场成长的震惊，三星电子在1月发表了110寸的UHD电视。有趣的是，其UHD面板不是由Samsung Display所生产，而是由台湾友达光电制造。
+➜暴雪将在2014年3月关闭《暗黑III》的现金拍卖行
+https://www.solidot.org/story?sid=36496	13327
+暴雪<a target="_blank" href="http://us.battle.net/d3/en/blog/10974978/diablo%C2%AE-iii-auction-house-update-9-17-2013"><u>宣布</u></a>将在2014年3月18日关闭《暗黑破坏神III》的金币拍卖和现金拍卖行（Real Money Auction House）。现金拍卖行一直备受争议，一方面它创造了一个安全的交易环境，相比之下《暗黑II》的交易就充斥着欺骗。但另一方面，收集稀有战利品是游戏的一大卖点和核心体验，但拍卖行却破坏了这一乐趣。暴雪表示新资料片《夺魂之镰》的新战利品系统（Loot 2.0）将为玩家提供更好的体验。
+➜微信会将密码暴露给攻击者
+https://www.solidot.org/story?sid=36497	16186
+安全研究人员分析了腾讯的移动通信工具微信，<a target="_blank" href="http://blog.emaze.net/2013/09/a-look-at-wechat-security.html"><u>发现了多个安全漏洞</u></a>。利用这些漏洞，攻击者可以获取用户的密码。研究人员两次联系了腾讯，但都没有得到回应。他们所分析的版本不是最新版的微信5.0，而是4.5.1。<br>
+<i>在对抓取的网络流量进行分析之后，研究人员发现，微信不是使用标准的HTTP/HTTPS会话，而是自己实现了一种定制的通信协议，主要是通过TCP端口8080传输信息。他们此前发现 4.3.5版本存在多个安全漏洞，允许攻击者拦截流量快速解密消息体，然后访问用户发送和接受的信息，但较新的版本已经堵上了漏洞。他们进一步的分析显示，微信读取调试设置的方式存在问题，可以配备将日志发送到远程服务器，日志包含了MD5格式的用户密码，很容易破解。微信的本地数据库使用了SQLite的加密扩展 <a href="http://sqlcipher.net/" target="_blank">SQLCipher</a>加密，密钥生成算法将密码截断成7个16进制字符，暴力破解也不难。</i>
+➜OpenZFS项目启动
+https://www.solidot.org/story?sid=36498	18653
+<a target="_blank" href="http://www.open-zfs.org/wiki/Announcement"><u>OpenZFS</u></a>开源项目正式启动。ZFS是世界上最先进的文件系统，但由于其使用的CDDL许可证和GPL许可证不兼容，Linux内核至今没有加入对ZFS的支持。OpenZFS项目旨在团结所有使用ZFS的社区、企业和用户，汇集各个ZFS项目的开发者。它的创建成员来自Linux，FreeBSD，Mac OS X和illumos社区，其中包括ZFS两位早期作者之一的 Matt Ahrens。
+➜欧洲航天局计划将机器蛇送到火星
+https://www.solidot.org/story?sid=36499	24615
+火星漫游车专为越野而设计，原因是整个火星就是一块越野地。漫游车的行驶非常保守，因为如果被卡住的话，对它而言很可能就是世界末日。这也意味着漫游车不可能去探索许多令人感兴趣的角落。现在，欧洲航天局正在考虑一种解决方案：向火星发射一辆漫游车和一个<a target="_blank" href="http://spectrum.ieee.org/automaton/robotics/industrial-robots/esa-robot-snakes-mars"><u>能附在漫游车上的机器蛇</u></a>。漫游车可用于远距离行驶，而<a target="_blank" href="http://www.sintef.no/home/Press-Room/Research-News/Snake-robot-on-Mars/"><u>机器蛇</u></a>可以在漫游车不方便行驶的地方爬行和探索，提取样本。欧洲航天局设想将机器蛇放在漫游车的机械臂上，它能独立爬行，通过一个电缆与漫游车连接，电缆可以供电和通信，也可以根据需要将机器蛇拖回来。
+➜Sailfish实现了两种Android兼容方式
+https://www.solidot.org/story?sid=36500	26797
+<div align="center"><a href="http://img.solidot.com.cn/0/401/liybeCUNQ3yUs.png"><img src="http://img.solidot.com.cn/0/401/liybeCUNQ3yUs.png" align="" height="190" width="320"></a><br>
+<br>
+</div>
+相比其它基于Linux的替代移动操作系统，如Mozilla的Firefox OS、Canonical的Ubuntu Phone，以及三星和英特尔支持的Tizen，由前诺基亚工程师创建的Jolla缺少企业的支持。为了能在市场上赢得一席之地，Jolla的Sailfish OS<a target="_blank" href="http://linuxgizmos.com/sailfish-gains-two-way-android-compatibility/"><u>实现了两种Android兼容方式</u></a>：其一能运行现有的Android应用程序，它采用了Myriad Group的<a href="http://www.myriadgroup.com/device-solutions/device-software/myriad%20alien%20dalvik.aspx" target="new"><u>Alien Dalvik</u></a>翻译层实现兼容性，但要完全利用系统UI还是需要原生应用，Jolla正将流行的应用如Instagram、WhatsApp、Spotify和微信移植到Sailfish OS；其二是Sailfish OS可以载入到现有的Android设备上，减轻了Android设备制造商尝试Sailfish设备的难度。Jolla CEO Tomi Pienimäki透露，他们没有与兼容设备供应商签署协议，而是从商店内购买了不同品牌的Android手机，然后安装Sailfish测试兼容性。<a target="_blank" href="http://www.solidot.org/story?sid=34793"><u>Jolla手机</u></a>显然不会支持 Google Play应用商店，Jolla表示它正与第三方应用商店协商为手机提供应用。鉴于中国是Jolla的重要目标市场，而中国同时有许多第三方应用商店，达成协议对Jolla至关重要。
+➜NSA从法国安全公司VUPEN购买0day漏洞
+https://www.solidot.org/story?sid=36501	29060
+美国国家安全局（NSA）通常被视为拥有先进的网络攻击能力，但这并不意味着它不会从外界寻求一点帮助。MuckRock成员根据信息自由法案向NSA递交了信息披露申请，NSA公开的<a target="_blank" href="https://www.muckrock.com/foi/united-states-of-america-10/vupen-contracts-with-nsa-6593/#787524-cover-letter"><u>合同文件</u></a>显示，它在2012年9月14日订阅了法国安全公司VUPEN一年的0day服务。VUPEN是一家知名的安全公司，其业务是出售软件漏洞细节。CEO Chaouki Bekrar去年接受采访时<a target="_blank" href="http://threatpost.com/nsa-bought-exploit-service-from-vupen-contract-shows/102314"><u>表示</u></a>，该公司遵守国际法规，只向信任的民主国家出售0day漏洞，绝不会将这些信息出售给专制国家。
+➜越南政府对火热的互联网感到不安
+https://www.solidot.org/story?sid=36502	29469
+智能手机和平板电脑正在越南热销，捍卫互联网自由的运动也显露生机。根据旧金山分析公司Flurry的数据，使用苹果iOS系统和谷歌安卓系统的智能手机和平板电脑去年在越南的销量增长逾两倍，这一增速在全球仅次于哥伦比亚。但与此同时，<a target="_blank" href="http://cn.wsj.com/gb/20130918/bas143807.asp"><u>越南仍然是世界上使用互联网最危险的地区之一</u></a>。越南目前关押着35名博客写手和其他互联网用户，罪名是散播反政府言论。多人因为在网上刊登博客和其他文章被判处了最高13年的刑期。越南领导人还表示将采取措施控制Viber、WhatsApp、Line等互联网通讯服务使用激增的现象。其他一些限制互联网的规定也陆续出台，包括9月1日生效的禁止在博客上转发新文章或政治评论的规定。
+➜Linux 3.12新特性
+https://www.solidot.org/story?sid=36503	32227
+Linus Torvalds<a target="_blank" href="http://lkml.indiana.edu/hypermail/linux/kernel/1309.2/00473.html"><u>已经发布了</u></a>Linux 3.12-rc1，关闭合并窗口，新版的变化已经基本固定下来。Linus称，Linux 3.12 73%的变化与驱动有关，12%涉及架构更新，6%与文件系统有关。主要新特性<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTQ2MjI"><u>包括</u></a>：改进较新型号Radeon GPU的动态电源管理；支持高通Adreno GPU的开源驱动；支持NVIDIA Optimus显示技术的动态GPU电源管理，双显卡笔记本可以动态的关闭或启用第二个GPU；实验性支持DRM渲染节点；支持AMD Berlin APU；改进英特尔Haswell图形性能；EXT4文件系统引入了两项功能，支持主动extent缓存，减少主读工作负荷的内存使用，改进异步I/O；改进损坏后的恢复；等等。
+➜GNOME 3.10初步支持Wayland
+https://www.solidot.org/story?sid=36504	34299
+刚刚发布的GNOME Shell 3.9.92（即GNOME 3.10 RC，3.9是开发分支）<a target="_blank" href="https://wiki.gnome.org/ThreePointNine/Features/WaylandSupport"><u>加入</u></a>了对Wayland的<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTQ2NDA"><u>初步支持</u></a>。<a target="_blank" href="http://wayland.freedesktop.org/"><u>Wayland</u></a>显示服务器设计替代有二十多年历史的X，比日益复杂的X更容易开发和维护。在Canonical宣布自己开发显示服务器Mir后，开源社区加快了对Wayland的支持，GNOME<a target="_blank" href="http://www.solidot.org/story?sid=33838"><u>计划</u></a>明年发布的GNOME 3.12将完整支持Wayland。在GNOME 3.10中，Wayland为可选的显示服务器，还缺少许多功能，默认仍然是运行在 X.Org Server上。GNOME 3.10正式版计划在9月25日发布。
+➜慕尼黑向Windows XP用户免费提供Ubuntu CD
+https://www.solidot.org/story?sid=36505	36377
+Windows XP将于2014年4月终止支持，微软不再向普通XP用户发布安全更新，届时它有可能成为黑客的乐园。XP仍然是仅次于Windows 7的第二大流行的桌面操作系统。出于对居民的安全着想，德国慕尼黑决定向该市XP用户<a target="_blank" href="http://wind8apps.com/free-ubuntu-cd-munich-windows-xp/"><u>免费分发</u></a>Ubuntu 12.04光盘。慕尼黑将通过Gasteig图书馆向受影响的XP用户提供大约2000张Ubuntu 12.04光盘，Ubuntu 12.04是一个长期支持版本，可免费下载，这些光盘的目标对象是那些不知道或缺乏能力下载安装Ubuntu发行版的居民。
+➜戴尔推出九小时电池续航力的廉价笔记本
+https://www.solidot.org/story?sid=36506	38177
+<div align="center"><img src="http://img.solidot.com.cn/0/677/liMC6NuGxS8w.jpg" align="" height="187" width="280"><br>
+<br>
+</div>
+你是否愿意付出10英寸平板的价格购买到一台性能更好电池续航力相当的笔记本电脑？戴尔<a target="_blank" href="http://www.cnet.com/laptops/dell-inspiron-11-intel/4505-3121_7-35827688.html"><u>推出了</u></a>一款379美元（约2320元）Inspiron 11笔记本，称其电池续航力长达8小时20分。笔记本电脑配备了11.6英寸触摸屏，重3.15磅，4GB内存，500GB HDD，50Whr电池，配备的处理器是基于Haswell 架构的<a target="_blank" href="http://www.cpu-world.com/CPUs/Celeron_Dual-Core/Intel-Mobile%20Celeron%202955U.html"><u>Celeron 2955U</u></a>，22纳米工艺，工作频率1.4GHz，功耗15瓦。
+➜Doubleclick联合创始人提起诉讼反击专利勒索
+https://www.solidot.org/story?sid=36507	40762
+专利勒索（patent troll）公司Lumen View以侵犯专利为由向FindTheBest索要5万美元，公司CEO Kevin O'Connor的<a target="_blank" href="http://arstechnica.com/tech-policy/2013/09/angry-entrepreneur-replies-to-patent-troll-with-racketeering-lawsuit/"><u>回应是自己掏出100万美元打官司</u></a>。O'Connor是在线广告巨头Doubleclick的联合创始人，他很生气，他知道这不是理性的商业决策，但他不在乎。他根据诈骗影响和腐败组织法（<a target="_blank" href="http://en.wikipedia.org/wiki/Racketeer_Influenced_and_Corrupt_Organizations_Act"><u>Racketeer Influenced and Corrupt Organizations Act</u></a>）起诉专利勒索者勒索。O'Connor说，对于专利勒索者，许多人都不愿意挺身而出，好像他们是黑社会一样。他认为专利勒索者可能会打击报复的想法夸大其辞了。而Lumen View律师则宣称，将某个人称为专利勒索者是“仇恨犯罪”。
+➜西藏冰川峰顶也在收缩
+https://www.solidot.org/story?sid=36508	42824
+西藏冰川<a target="_blank" href="http://www.solidot.org/story?sid=30513"><u>在收缩</u></a>，冰川消融被认为多发生在低维度地区。但最新研究发现，6千米海拔的冰川<a target="_blank" href="http://www.nature.com/news/tibetan-glaciers-are-shrinking-at-their-summits-1.13767"><u>也在融化之中</u></a>。中科院青藏高原研究所的研究人员在西藏海拔6千米的冰川上钻取冰核，分析发现了核试验和1982年Galunggung火山喷发的化学指纹。此外，冰核的汞含量与全球和区域排放趋势吻合。结果显示，冰川峰顶的冰过去三十年一直在融化之中。西藏冰川是亚洲地区重要的淡水来源。
+➜巴西计划抛弃美国中心的互联网
+https://www.solidot.org/story?sid=36509	44083
+在美国国家安全局（NSA）拦截总统的通信，入侵巴西国家石油公司的网络，监视储存在Facebook和Google上巴西公民个人数据的间谍活动曝光之后，Dilma Rousseff总统<a target="_blank" href="http://world.time.com/2013/09/18/brazil-looks-to-break-from-u-s-centric-internet/"><u>下令采取措施</u></a>，增强巴西互联网的独立性和安全性。总统对间谍活动是如此愤怒，以至于推迟了原定的访美计划。巴西准备在国内建立一个加密电子邮件服务，铺设通往欧洲的海底光缆，要求Facebook和Google在巴西设立服务器储存巴西人数据，并计划在本月晚些时候举行的联合国大会上推动制定硬件和软件隐私安全的“国际规则”。

@@ -1,0 +1,55 @@
+➜天文学家在银河系附近找到了一个超级星系团
+https://www.solidot.org/story?sid=50823	6055
+匿名读者 写道<i> "
+上个月<a href="http://phys.org/news/2016-11-team-major-supercluster-galaxies-hidden.html" target="_blank">有报道称</a>科学家发现了在Vela星座处的超级星系团，现在科学家们<a href="http://phys.org/news/2016-12-astronomers-supercluster-galaxies-milky.html" target="_blank">进一步确认了</a>这个发现。Vela超级星系团(VSC)对银河系及附近星系的运动有重要的影响。有助于解释由微波背景辐射得到的银河系及附近星系的奇怪的运动速度。
+<p></p>
+超级星系团是宇宙中已知的最大的结构体，横跨20亿光年的距离。此前已知的最大星团是Shapley超级星系团(SC)。由于VSC位于银河系集吸盘背面，所以一直以来未被发现。早在2012年科学家们就发现在Vela星座处有8个新星系，后来的光谱分析和星系红移认定它们属于同一个结构体。科学家们由一些数据猜测VSC可能是更大的宇宙结构体的一部分。
+"</i>
+➜诺基亚起诉苹果侵犯其专利
+https://www.solidot.org/story?sid=50824	9188
+在与苹果协商多年未果后，诺基亚正式<a href="https://mobile.slashdot.org/story/16/12/21/1928257/nokia-sues-apple-claims-patent-infringement-in-iphone-and-other-devices" target="_blank"><u>宣布起诉</u></a>苹果iPhone和iPad等产品<a href="http://www.ftchinese.com/story/001070677" target="_blank"><u>侵犯其多项专利</u></a>。诺基亚称，诉讼总共涵盖32项专利，涉及视频编码、延长电池寿命，以及远程定位手机等应用。这不是两家公司首次因知识产权纠纷对簿公堂。2009年诺基亚起诉苹果时，触发这家美国企业的反诉讼，两家公司在2011年达成一项全面交易。根据诺基亚的声明，苹果在2011年同意按许可证使用诺基亚专利组合中的一部分专利。但在那之后，苹果拒绝了诺基亚关于按许可证使用其他专利的提议，这些专利现在据称被用于苹果产品。在诺基亚提起诉讼的一天前，苹果在加州联邦法院对一些小公司提起诉讼，指控它们串通诺基亚提出专利主张，从中“榨取和勒索高额收入”。
+➜阿里巴巴再次被列入假货恶名市场名单
+https://www.solidot.org/story?sid=50825	10436
+美国贸易代表办公室周三公布了<a href="https://ustr.gov/sites/default/files/2016-Out-of-Cycle-Review-Notorious-Markets.pdf" target="_blank"><u>年度恶名市场名单</u></a>（PDF），阿里巴巴的淘宝在时隔多年之后再次被列入，其它被列入名单的线上和线下市场包括海盗湾、ExtraTorrent、出售域名的南京域盎、广州白云皮具城、金龙盘外贸服装市场、汕头澄海区、沈阳五爱市场、北京秀水街、北京城环城汽配城市场，等等。美国贸易代表办公室称，淘宝网的电子商务平台是一个重大问题，因有大量被指称为假货的商品在该网站上销售，并且品牌所有者在要求移除与阻止非法销售这些商品时遭遇挑战。<a href="http://cn.wsj.com/gb/20161222/biz072036.asp" target="_blank"><u>阿里巴巴称</u></a>，对这一决定感到失望，并质疑这一决定是否受到目前政治环境的影响。
+➜LibreOffice宣布新用户界面MUFFIN
+https://www.solidot.org/story?sid=50826	10919
+<div align="center"><img src="http://img.solidot.org/0/57/liRYZCyT0nk66.png" height="281" width="500" align=""><br>
+</div>
+<br>
+The Document Foundation <a href="https://blog.documentfoundation.org/blog/2016/12/21/the-document-foundation-announces-the-muffin-a-new-tasty-user-interface-concept-for-libreoffice/" target="_blank"><u>宣布了</u></a> 开源办公软件 LibreOffice 的新用户界面概念 MUFFIN。MUFFIN是My User Friendly &amp; Flexible INterface的首字母缩写，主要集中于三个方面：My，提供选项个性化用户界面；User Friendly，顾名思义对用户友好；Flexible，适应不同大小的屏幕和分辨率。LibreOffice 将提供多种工具栏布局，包括传统的标准工具栏，单一工具栏，类似 Microsoft Office ribbon界面的Notebook工具栏（如图所示），以及侧边工具栏。
+➜Firefox 51将扩大多进程架构启用范围
+https://www.solidot.org/story?sid=50827	18561
+Firefox 自 8 月发布的 v48起 <a href="http://www.solidot.org/story?sid=49173" target="_blank"><u>支持多进程架构</u>E10S（Electrolysis）</a>，但 E10S 当时未对所有用户启用，而是逐步扩大启用范围，以确保不会出现问题。Mozilla 官方博客现在公布了<a href="https://blog.mozilla.org/futurereleases/2016/12/21/update-on-multi-process-firefox/" target="_blank"><u>多进程Firefox的近期计划</u></a>：如果进展顺利，将于明年1月发布的Firefox 51将对安装了不兼容多进程扩展的用户启用 E10S。Mozilla称它正在开发多进程架构的新功能：支持多个内容进程和安全沙盒。如果用户想启用多进程架构，可在about:config页面创建一个新的布尔参数browser.tabs.remote.force-enable，然后将其值设为true。如果想知道你安装的扩展是否支持多进程，可以下载Mozilla开发的扩展<a href="https://addons.mozilla.org/en-US/firefox/addon/add-on-compatibility-reporter/" target="_blank"><u>Add-on Compatibility Reporter </u></a>。
+➜德国将扩大CCTV监控
+https://www.solidot.org/story?sid=50828	24931
+联邦德国内阁会议决定<a href="http://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%86%B3%E5%AE%9A%E6%89%A9%E5%A4%A7%E5%BD%95%E5%83%8F%E7%9B%91%E8%A7%86/a-36862327?&amp;zhongwen=simp" target="_blank"><u>扩大德国国内录像监视</u></a>。根据内政部长提交的一揽子法律草案，德国将允许尤其在体育场所和购物中心加强录像监视。自动识别面部的"智慧"监视也将扩大。此外，也将使用配备于联邦警察的俗称的"随身摄像机"以及用于识别机动车牌照的阅读系统。相关决定是对本周一导致12人丧生的柏林圣诞市场袭击案的直接反应。左翼党怀疑扩大监控只能增加虚假的安全感，而柏林绿党则反对扩大监视。
+➜加拿大宣布宽带是基本电信服务
+https://www.solidot.org/story?sid=50829	26950
+加拿大广播电视和通讯委员会<a href="http://news.gc.ca/web/article-en.do?nid=1172599" target="_blank"><u>宣布</u></a>宽带是基本电信服务，它命令该国的ISP改进农村和偏远地区的互联网服务和网速。广播电视和通讯委员会<a href="http://www.cbc.ca/news/politics/crtc-internet-essential-service-1.3906664" target="_blank"><u>要求</u></a>ISP提供的宽带服务其下载速度至少要达到50Mbps，上传速度至少要达到10 Mbps，并向用户提供不限制数据流量的选项。广播电视和通讯委员会估计加拿大18%或大约200万家庭的宽带服务达不到这一标准或没有无限流量的选择。广播电视和通讯委员会的目标是到2021年将这一比例减少到10%。
+➜研究认为使用的社交网络越多越可能焦虑
+https://www.solidot.org/story?sid=50830	29332
+对1700多名千禧一代成年人的<a href="http://www.sciencedirect.com/science/article/pii/S0747563216307543" target="_blank"><u>调查</u></a>发现，一个人使用的社交媒体平台越多，焦虑或沮丧的可能性越大。当然，相关性并不等于因果性，一种可能的解释是患有抑郁症或焦虑症的人倾向于使用更多的社交平台。研究人员承认还需要更进一步的研究去确认。<a href="http://www.dailydot.com/irl/millennials-social-media-anxious/" target="_blank"><u>调查发现</u></a>，使用7到11个社交媒体平台的人的抑郁或焦虑风险是使用0到2个平台的人的三倍以上。被调查者使用的社交媒体平台包括Facebook、YouTube、Twitter、Google Plus、Instagram、Snapchat、Reddit、Tumblr、Pinterest、Vine和LinkedIn。在考虑了种族，性别，婚姻状况，家庭收入，教育等因素之后，使用7个以上社交媒体平台的人表现出了更高水平的抑郁症状。
+➜日本年出生数可能首次跌破100万
+https://www.solidot.org/story?sid=50831	30932
+日本厚生劳动省将于近期发布2016年人口动态调查推算值。2015年出生人数为100万5677人，已发布的2015年8月～2016年7月的1年间的出生人口数为99万人，低于100万人，2016年出生人数或自1899年开始统计以来<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/22947-100.html" target="_blank"><u>首次跌破100万人大关</u></a>。出生数的降低在很大程度是因为20～39岁女性的减少。据截至2016年10月的人口推算显示，日本这一年龄段的女性约为1366万人，比10年前减少了2成。日本的结婚人数2016年1～7月合计为36万8220对，比上年同期减少0.7％。此外结婚的年龄也在上升，截至2015年的平均初婚年龄来看，男性为31.1岁，而女性为29.4岁。据联合国统计，中国的年出生人口数达到1687万人，美国为393万人。人口仅为日本一半左右的法国也达到76万人。
+➜中国声称成功测试无工质引擎 EmDrives
+https://www.solidot.org/story?sid=50832	32971
+多家国外媒体<a href="http://www.popsci.com/emdrive-engine-space-travel-china-success" target="_blank"><u>报道</u></a>，中国空间技术研究院商业卫星技术主任Chen Yue博士声称中国成功测试了无工质引擎 EmDrives。但在中国空间技术研究院的<a href="http://www.cast.cn/Item/list.asp?id=1570" target="_blank"><u>官网</u></a>上没有查到这个机构，有一位姓陈的总工程师兼主任，但他的读音是Chen Hong。报道称，中国不仅在实验室里测试了 EmDrives，而且正在天宫二号空间实验室测试概念验证原型。无工质推进装置不需要任何推进介质，可以避免携带体积庞大的燃料。EmDrives是使用磁控管和微波的无反作用的推进系统，但目前尚未得到学术界的确认。在2013年，媒体<a href="http://www.solidot.org/story?sid=33421" target="_blank"><u>报道了</u></a>西北工业大学的科学家建造和测试了EmDrives。
+➜苹果推迟应用必须启用HTTPS的期限
+https://www.solidot.org/story?sid=50833	33827
+在今年上半年举行的WWDC 2016开发者大会上，苹果<a href="http://www.solidot.org/story?sid=48592" target="_blank"><u>宣布了一个最后期限</u></a>：到2017年1月1日
+App Store中的所有应用都必须启用 App Transport Security安全功能。App Transport
+Security（ATS）是苹果在iOS
+9中引入的一项隐私保护功能，屏蔽明文HTTP资源加载，连接必须经过更安全的HTTPS。但现在，苹果看起来知道iOS应用开发者来不及在年底前完成这个任务，它<a href="https://developer.apple.com/news/?id=12212016b" target="_blank"><u>宣布</u></a>推迟应用必须启用HTTPS的期限，给开发者更多时间，目前苹果尚未公布新的截止日期。
+➜深圳不担心制造业回归美国
+https://www.solidot.org/story?sid=50834	35651
+美国候任总统特朗普想要让制造业回归美国，但中国主要高科技产品生产地深圳对此<a href="http://cn.wsj.com/gb/20161222/ecb103758.asp"><u>并不感到担心</u></a>。深圳的许多公司高管认为，深圳从一个广东省的贫穷村庄变身为一座高楼林立的城市，背后的经济力量非常庞大，这种力量不会轻易发生转变。他们称，就算特朗普像他所威胁的那样向中国制造的商品征收关税，深圳也能够在和美国的竞争中胜出，因为在这里进行电子产品设计、制造和发货的效率非常高。 随着薪资自2010年起不断上涨﹐深圳一度繁荣发展的服装和玩具工厂中很多搬到了中国成本较低的地区以及越南等国。一些消费电子产品生产商也在外迁。其它企业正在通过使用机器人而非人力来削减人工成本。北京大学金融教授Christopher Balding称，如果制造业工作岗位重返美国，它们将流向可以为自动化工厂管理机器人的特定人群。抢走美国人工作的不是中国人<a href="http://cn.nytstyle.com/international/20161222/the-long-term-jobs-killer-is-not-china-its-automation/" target="_blank"><u>而是自动化</u></a>。
+➜欧盟称英国的监视法律是非法的
+https://www.solidot.org/story?sid=50835	40692
+欧盟最高法院做出<a href="http://curia.europa.eu/jcms/upload/docs/application/pdf/2016-12/cp160145en.pdf" target="_blank"><u>裁决（PDF）</u></a>，政府只有在打击严重犯罪时才能不加筛选的收集计算机数据。这一裁决<a href="http://www.theverge.com/2016/12/21/14037514/eu-rules-uk-surveillance-laws-illegal" target="_blank"><u>直接挑战了</u></a>英国的监视法律。英国最近通过的监视法律要求ISP不加筛选的记录和储存所有英国居民的移动和桌面浏览历史最长一年时间。欧盟司法法院认为，如此大规模的收集用户数据将让公民感觉受到了持续的监视，允许政府得到个人私生活的精确结论。这种做法只有在打击严重犯罪时才能被认为是正当的，欧盟法院认为英国的监视法律超出了必要的限制，在民主社会中无法证明其合理性。英国政府将对裁决提起上诉，即使上诉失败了，退出欧盟也让大不列颠有机会无视这一裁决。英国内政部已对这一裁决表示失望。
+➜媒体报道优酷用户账号密码泄露
+https://www.solidot.org/story?sid=50836	43326
+在优酷用户通过社交媒体反映<a href="http://www.solidot.org/story?sid=50721" target="_blank"><u>账号密码泄露</u></a>之后，主流媒体也开始跟踪这起事件，但《新京报》的<a href="http://www.bjnews.com.cn/news/2016/12/22/428151.html" target="_blank"><u>报道</u></a>（百度<a href="http://cache.baiducontent.com/c?m=9d78d513d98604ea4fece4690d61c0676904d83f6b9291027ea48448e4735a31163bbcac26520704a4d27d1750f35e5c9bac6137761420c69bca8b4ecabbe32b2f9f2745701c914163d519a5dc4755c227934de8df0ee7cde733e3f4948c8140148a0d0a20c6b6c94d0167d772b55174f4a6ee184d0347ffac276588082a76882337e71be4bc652b469cf6df5f48de29d07c1197b233b03411b210b31f6c7e02ff12&amp;p=8a71de0385cc43b308e2957c594f&amp;newp=89769a4791af09e908e2957c4c5f92695912c10e3fddc44324b9d71fd325001c1b69e3b823281603d4c6786c15e9241dbdb239256b5567dbd38e&amp;user=baidu&amp;fm=sc&amp;query=http%3A//www%2Ebjnews%2Ecom%2Ecn/news/2016/12/22/428151%2Ehtml&amp;qid=a0c068030003387d&amp;p1=1" target="_blank"><u>快照</u></a>）在上线很短时间后就404了。报道称，对于用户帐户泄漏，优酷官方认为是用户账号可能被盗取，如果重设密码不能解决问题，建议用户重新注册账号。这位账号失窃的用户<a href="http://weibo.com/5617443296/EnfUu1Wp8?from=page_1005055617443296_profile&amp;wvr=6&amp;mod=weibotime" target="_blank"><u>声称</u></a>，在修改改了密码修改了手机号之后，别人还是能登陆。报道称，在百度搜索“优酷土豆免费会员”，第一页就有七八个网页显示有免费优酷账号和密码，更新日期均为12月，最新的更新为21日，一页共有20多条账号和密码信息。随机选择账号，在输入验证码后很快登录成功。
+➜制糖行业驳斥食糖有害论
+https://www.solidot.org/story?sid=50837	45496
+大量的科学研究显示，摄入过多的糖对健康有害，但制糖行业的一篇新出炉的<a href="http://annals.org/aim/article/2593601/scientific-basis-guideline-recommendations-sugar-intake-systematic-review" target="_blank"><u>评论</u></a>宣称这一结论是基于低质量的数据，而基于这一结论的膳食指南是虚伪的，<a href="http://arstechnica.com/science/2016/12/the-food-industry-is-gaslighting-us-on-the-harms-of-sugar/" target="_blank"><u>是不能信任的</u></a>。这篇评论的主要作者是最大食糖生产商之一的 Tate &amp; Lyle公司的科学咨询委员会成员。健康专家和研究人员迅速批评了这篇评论，认为它是科学政治化的一个例子。这不是第一次制糖行业出于自己的利益去干扰科学研究。今年早些时候研究人员<a href="http://www.solidot.org/story?sid=49670" target="_blank"><u>报告</u></a>，制糖业在50年前就收买了哈佛大学的科学家去淡化糖在心脏疾病中的作用。

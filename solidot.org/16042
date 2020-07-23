@@ -1,0 +1,48 @@
+➜友讯科技发布补丁修复旧路由器的关键漏洞
+https://www.solidot.org/story?sid=37467	9917
+友讯科技（D-Link）<a target="_blank" href="http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10001"><u>发布了</u></a>一系列旧型号路由器的<a target="_blank" href="http://www.dlink.com/uk/en/support/security"><u>固件补丁</u></a>，修复今年10月发现的能绕过身份验证的关键漏洞。嵌入式设备安全研究员Craig Heffner<a target="_blank" href="http://www.solidot.org/story?sid=36791"><u>发现</u></a>，如果浏览器User Agent String包含特殊的字符串“xmlset_roodkcableoj28840ybtide”，攻击者将可以绕过密码验证直接访问路由器的Web界面，浏览和修改设置。友讯科技随后证实了该漏洞，它建议用户不要启用远程管理功能。
+➜香港确诊首宗H7N9病例
+https://www.solidot.org/story?sid=37468	10235
+香港本周一<a target="_blank" href="http://www.scmpchinese.com/sc/hong-kong/17294/shen-zhen-you-hou-gang-yong-que-zhen-h7n9-gu-zhu-jia-si-ren-xian-bing-zheng"><u>确诊首宗H7N9禽流感病例</u></a>，患者是居住于屯门区的一名36岁印佣，现时情况危殆。该名印佣11月17日与一名友人同游深圳，期间曾经屠宰鸡只进食。她回港后于21日开始出现禽流感病征，分别于25、26日到屯门区内的私家门诊求医，翌日因为气促和发烧到屯门医院急症室求诊，发现肺部有阴影，其后入院接受治疗，29日转入屯门医院深切治疗部，可惜病情一直恶化，30日转住玛丽医院接受治疗。病人分别于上月28日和30日进行禽流感快速测试，均显示对H7N9禽流感呈现阴性反应，其后于玛丽医院的化验确认她感染H7N9禽流感。病人昨日情况危殆，需要接受人工肺协助呼吸。这是继浙江及东莞近月内出现5宗H7N9禽流感后，香港确诊的首宗H7N9个案。雇主一家六口包括父母及两名小孩，昨晚深夜送往医院接受隔离，其中四人出现上呼吸道感染征状，他们已进行H7N9禽流感病毒的快速测试，最快今日知结果。港府宣布停止深圳三个鸡场鸡只供港。目前还无法确认是否出现人传人。
+➜Google+是一个鬼城，用户活跃度低
+https://www.solidot.org/story?sid=37469	12770
+马德里卡洛斯三世大学的研究人员<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-12/ciuo-grm120213.php"><u>调查了Google+的用户活跃情况</u></a>。Google宣称它的社交媒体取得了成功，但专家和媒体仍然普遍视Google+是一座鬼城。研究人员跟踪了在一定时间内Google+用户活跃和互动情况，分析公开发布的数亿条帖子和回应，其中包括+1次数。结果显示，Googe有强大的影响力吸引用户注册，但要用户活跃使用却是困难重重。支持该结论的几个数据是：每日增加的新注册用户是参与活动用户的60倍；三分之二的Google+注册用户是Google整合其它服务如Youtube或Gmail的结果；Google+的公共活动主要由一部分非常有限的群体支持，他们发布了大部分帖子并吸引相关用户大量回帖。
+➜96%的语言被数字时代淘汰
+https://www.solidot.org/story?sid=37470	15104
+全世界大约有7000种语言，但对数字时代的居民而言，<a href="http://priceonomics.com/only-4-of-languages-are-used-online/"><u>其中96%已经死了</u></a>。互联网对这些语言的影响就像6500万年前撞击地球的小行星对恐龙造成的影响一样。数学语言学家 András Kornai 在PLOS One上发表了<a target="_blank" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0077056"><u>一篇论文</u></a>，分析了数字时代的濒危语言。他发现，语言学家认为7000种语言有2500种属于濒危语言，但互联网真正活跃的语言更少，只有大约170种或2%，另外约140种（1.7%）属于临界个案，剩下的超过6000种语言静默或数字死亡，它们没有希望能在数字时代大步前进。
+➜科学家研发出能利用听不见的声音通信的恶意程序原型
+https://www.solidot.org/story?sid=37471	18086
+德国计算机科学家研发出能利用听不见的音频信号通信的<a target="_blank" href="http://arstechnica.com/security/2013/12/scientist-developed-malware-covertly-jumps-air-gaps-using-inaudible-sound/"><u>恶意程序原型</u></a>。利用听不见的声音，恶意程序将能在感染机器不联网的情况下秘密传播按键和其它敏感数据。概念验证软件利用了标准计算机配备的扬声器和麦克风，通过高频通信，研究人员设法将密码和其它数据传输到19.7米外。通过将控制的多台设备组建一个声学网状网，数据传输距离还可以更远。<a target="_blank" href="http://www.jocm.us/index.php?m=content&amp;c=index&amp;a=show&amp;catid=124&amp;id=600"><u>论文</u></a>发表在《Journal of Communications》上。研究人员开发了多种方法在两台联想 T400笔记本电脑之间利用内置扬声器和麦克风传输数据。此前，一位安全研究人员<a target="_blank" href="http://www.solidot.org/story?sid=37057"><u>曾声称</u></a>他的笔记本电脑感染了一种神秘的恶意程序，能利用扬声器和麦克风在不联网设备之间互相通信。
+➜彭博两新闻办事处遭突击搜查
+https://www.solidot.org/story?sid=37472	25283
+《财富》<a target="_blank" href="http://finance.fortune.cnn.com/2013/12/02/chinese-authorities-conduct-unannounced-inspections-of-bloomberg-news-bureaus/?iid=HP_LN"><u>报导</u></a>，中国当局在11月最后一天突击搜查了彭博社位于北京和上海的办事处，至少一位中国官员要求彭博新闻主编Matt Winkler为将中国比作纳粹德国的言论道歉。Winkle在10月底召开的电话会议上告诉香港的记者和编辑，刊登敏感的调查报告可能会导致彭博被驱逐出中国，<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=37164"><u>Winkler表示</u></a>，他阅读了大量记者在第三帝国的工作经历，希望能制定尽可能长的留在中国的策略——即进行自我审查。Winkler的这番言论不仅没有安慰中国政府，反而激怒了中国。中国是以“安全检查”的名义实施了突击搜查，彭博内部的记者将文职政府官员的客串视为一种恫吓行为。
+➜儒家和道家如何看待同性婚姻
+https://www.solidot.org/story?sid=37473	27425
+Williams学院政治系主任Sam Crane教授一直痴迷于中国古代哲学，他最近出版了一本新书《<a target="_blank" href="http://as.wiley.com/WileyCDA/WileyTitle/productCd-0470674776.html"><u>Life, Liberty, and the Pursuit of Dao: Ancient Chinese Thought in Modern American Life</u></a>》，接受采访讨论了<a target="_blank" href="http://blogs.wsj.com/chinarealtime/2013/12/02/eight-questions-sam-crane-life-liberty-and-the-pursuit-of-dao/?mod=WSJBlog"><u>儒家和道家会如何看待同性婚姻</u></a>。他说，儒家思想在伦理上有其特殊性，不像康德哲学那样具有普遍意义。儒家伦理以个人和家庭为单元，教化彼此履行各自的职责和义务，自下而上形成社会次序。而道家的思想则与儒家大相径庭，它深深怀疑有目的的人类行为的价值和设定的期望值。Crane教授认为，儒家伦理可能会接受同性婚姻，因为它更多关注婚姻而不是关注性。两个人公开承诺然后在日常生活里履行承诺，完全符合儒家善的理念。至于道家，他们可能根本不在乎同性还是异性婚姻，道家的思想里有阴阳的观念，但阴阳并不必须要用单一性别来呈现，因为我们每个人都包含有阴阳的元素。
+➜戴尔推出4K分辨率显示器
+https://www.solidot.org/story?sid=37474	29987
+<div align="center"><img src="http://img.solidot.com.cn/0/911/liI5qvwV43uE.jpg" align=""><br>
+<br>
+</div>
+电脑显示器的分辨率终于开始赶超平板电脑。戴尔公司宣布推出了<a target="_blank" href="http://www.dell.com/learn/us/en/uscorp1/secure/2013-12-2-dell-ultrasharp-ultra-hd-monitors?dgc=BA&amp;cid=271006&amp;lid=4970696&amp;acd=12309188680294295"><u>三款4K分辨率显示器</u></a>：32英寸的UltraSharp 32 UltraHD  、24英寸的UltraSharp 24 UltraHD和入门级的28英寸28 Ultra HD。<a target="_blank" href="http://accessories.us.dell.com/sna/productdetail.aspx?c=us&amp;l=en&amp;cs=19&amp;sku=210-ACBL"><u>UltraSharp 32</u></a>是戴尔的旗舰产品，分辨率3840 x 2160（即宽高比是16：9），售价最贵3499美元；UltraSharp 24售价1399美元，12月16日发售；入门级的28 Ultra HD定价在1000美元以下，但要到明年初才会上市。
+➜MIT照相机能在黑暗中拍摄3D照片
+https://www.solidot.org/story?sid=37475	32902
+MIT的研究人员<a target="_blank" href="http://www.scientificamerican.com/article.cfm?id=stealth-camera-takes-pictures-virtually-in-the-dark"><u>开发出一种新的计算机成像技术</u></a>，利用算法提取弱照明条件下目标照片每个像素光子的信息，然后拼接在一起，产生出细节丰富的高分辨率3D照片。新成像算法只需要100万光子，而手机照相机拍摄的类似质量照片需要数百万亿光子。算法可应用于标准的光子探测器，这项低光成像技术具有广泛的应用前景，如军事侦察和脆弱的生物材料研究。<a target="_blank" href="http://www.sciencemag.org/content/early/2013/11/27/science.1246775"><u>论文</u></a>发表在《科学》上。
+➜比特币交易平台GBL管理员被捕
+https://www.solidot.org/story?sid=37476	34388
+今年10月底，中国比特币交易平台GBL自称遭黑客袭击，随后就无法访问，但网站用户普遍认为这是一场GBL<a target="_blank" href="http://www.solidot.org/story?sid=36983"><u>自编自导的骗局</u></a>，被骗的用户向各地的派出所举报了GBL。据《钱江晚报》<a target="_blank" href="http://tech.sina.com.cn/i/2013-12-03/13498971285.shtml"><u>报导</u></a>，浙江东阳警方抓捕了三名GBL的管理员，但识别嫌疑人身份的细节没有披露，只是一略而过，IP地址？QQ？GBL网站负责人是29岁的“庄见愁”；网站维护者24岁，姓金；负责网站财务的黄某33岁。报导称，从10月18日开始，GBL就开始大量转移平台中会员充值的比特币，为卷款潜逃做准备。
+➜LHC复兴磁带数据记录器
+https://www.solidot.org/story?sid=37477	36777
+大强子对撞机（LHC）运行时每秒能产生3到6GB的数据，为了储存海量的数据，管理LHC的CERN<a target="_blank" href="http://www.economist.com/news/technology-quarterly/21590758-information-storage-60-year-old-technology-offers-solution-modern"><u>复兴了一种古老的储存媒介</u></a>——磁带。磁带是至今仍在使用的最古老储存媒介，最早出现在1951年的UNIVAC计算机上，但作为计算机储存媒介磁带早已被固态硬盘和机械硬盘所取代。出人意料的是，过去一年磁带的销量突然出现了反弹，今年的销量预计将上升3%。CERN的数据储存负责人Alberto Pace解释说，相比硬盘，磁带在长期保存数据上有四大优势：第一是速度，一旦装载完毕，磁带的读取速度是硬盘的四倍；第二是可靠性，数据丢失很少超过几百MB，而1TB硬盘发生故障，所有数据都可能丢失，CERN的100PB磁带平均每年丢失几百MB的数据，而50PB的硬盘平均每年丢失几百TB的数据；第三是保存数据不耗电，硬盘如果掉电的话故障率会大增；第四是安全，如果黑客入侵CERN数据中心，他能在数分钟内删除硬盘上保存的所有50PB数据，而在磁带上删除同样大小的数据需要几年时间。磁带的另外两大优势是价格更便宜，储存时间可以长达30年，而硬盘只有5年。
+➜无人机快递在五年内不可能成为现实
+https://www.solidot.org/story?sid=37478	40005
+亚马逊CEO Jeff Bezos透过CBS的60分钟节目<a target="_blank" href="http://www.solidot.org/story?sid=37452"><u>透露了</u></a>无人机快递服务<a target="_blank" href="http://www.amazon.com/b?ref_=tsm_1_tw_s_amzn_mx3eqp&amp;node=8037720011"><u>Prime Air</u></a>，该计划迅速成为所有媒体重点报道的新闻。Bezos估计，只要FAA制定出无人机监管规定，亚马逊将能在4到5年内提供给客户。但整件事更像是Bezos<a href="http://blog.hubspot.com/uattr/real-purpose-of-amazon-delivery-drones"><u>制造的一个噱头</u></a>，目的是让亚马逊上新闻头条。无人机快递在五年内不可能具有实用性，十年之后也许可以。<a target="_blank" href="http://tech.slashdot.org/comments.pl?sid=4506891&amp;cid=45573611"><u>首先是</u></a>八旋翼无人机的飞行范围有限，除非你在亚马逊配货中心的步行范围之内：无人机可运送负荷在0.5公斤到2公斤内，不具有多少可用性；八旋翼无人机无法在大风中飞行，“抱歉，今天无法递送，风太大了”；控制无人机舰队的技术还不成熟，因为机械故障而坠毁将是不可避免，如果伤害到人亚马逊需要支付高额赔偿，即使没伤到人，损失无人机的代价也过于昂贵了。
+➜Google正式发布云计算平台Compute Engine
+https://www.solidot.org/story?sid=37479	41423
+Google云平台官方博客<a target="_blank" href="http://googlecloudplatform.blogspot.com/2013/12/google-compute-engine-is-now-generally-available.html"><u>宣布</u></a>云计算平台<a target="_blank" href="https://cloud.google.com/products/compute-engine"><u>Compute Engine</u></a>正式发布，移除了beta预览状态。在预览阶段，Compute Engine主要支持两大流行Linux发行版：Debian和Centos。正式版扩大了操作系统支持范围，将支持所有开箱即用的Linux发行版，任何用户想使用的内核或软件如Docker、FOG、xfs和aufs，加入了SUSE和Red Hat Enterprise Linux的初步支持，支持FreeBSD。
+➜法官命令MPAA不能在审讯中称共享网站创始人是盗版者或小偷
+https://www.solidot.org/story?sid=37480	43425
+过去几年，MPAA成功关闭了多家P2P共享网站，如Napster、Grokster Kazaa和Isohunt。它最近起诉的一个目标是Hotfile，指控它鼓励用户大规模的侵犯版权。Hotfile的陪审团审判定于12月9日，法官上周<a target="_blank" href="http://arstechnica.com/tech-policy/2013/12/judge-mpaa-cant-call-hotfile-founders-pirates-or-thieves-at-trial/"><u>作出裁决</u></a>，MPAA律师不能在法庭上称呼Hotfile创始人是盗版者或小偷或盗窃，或使用此类具有藐视性的词语。Hotfile的律师争论称，目前此案还没有证据证明被告是盗版者是小偷，也没有证据证明被告盗窃，或鼓励盗版或盗窃。MPAA的律师反驳说，将盗版一词排除出审讯是不切实际的。称盗版或小偷是一种常用术语。<br>
+➜下一波Windows更新代号Threshold
+https://www.solidot.org/story?sid=37481	45537
+报导微软新闻的资深记者Mary Jo Foley 引用消息来源称，预计于2015年春季推出的下一波Windows<a target="_blank" href="http://www.zdnet.com/microsoft-codename-threshold-the-next-major-windows-wave-takes-shape-7000023832/"><u>更新代号为Threshold</u></a>。Threshold这一名字源自微软游戏《光晕》1代中被发现的第一颗环绕巨大光环的行星，微软现在有两个来自《光晕》的开发代号，另一个是语音助手Cortana（游戏中是士官长的人工智能）。Jo Foley称，Threshold不是单一操作系统的代号，而是指基于Windows的手机、PC和Xbox游戏机的操作系统更新。Xbox One OS、Windows 8.x OS 和Windows Phone 8 OS使用相同的Windows NT内核。通过Threshold，微软计划支持相同的跨平台“高价值活动”核心集。

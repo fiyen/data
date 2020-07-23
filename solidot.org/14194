@@ -1,0 +1,86 @@
+➜启用Ubuntu 9.04软件源
+https://www.solidot.org/story?sid=8610	1800
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 <i>"Ubuntu 8.10正式版发布不久，下一版Ubuntu 9.04(Jaunty Jackalope)的开发工作也已经启动了，9.04的软件源也可用了。<a href="http://www.ownlinux.cn/2008/11/10/sources-list-upgrade-to-ubuntu-904-jaunty-jackalope/">你只要启用软件源就可以把你的系统从8.10升级到9.04了</a>。估计不少的刚刚接触Ubuntu的用户会说我这不是才装的8.10吗，怎么现在9.04 又“发布”了呢？如果现在升级到时U9.04和Ubuntu 8.10有什么不一样的吗？其实，按照开发计划， Ubuntu在发布新版后就会启动下一个发行版的开发工作。这样就会有比较充裕的时间开发一下版本的系统，这也是为什么Ubuntu每半年都能按时推出一个新的发行版的一个原因。现在“升级”到Ubuntu 9.04(开发版)并不会有多大的变化，可以说除了代号外几乎没有什么变化，因为Ubuntu 9.04的开发工作也是才启动，功能也是逐渐加入的。这样只是供Ubuntu爱好者测试用并反馈开发版中出现的bug以便开发人员及时进行修正。"</i>
+➜马来西亚释放“反伊斯兰教”博客
+https://www.solidot.org/story?sid=8611	2520
+马来西亚博客Raja Petra Kamarudin关于一牵涉政府高层案件的评论被政府诠释为“反伊斯兰教”和“反政府”，他在马来西亚“国内安全法”名义下<a href="__SLASHLINK__" sect="internet" sid="08/10/07/0218207" sn="article" tid="100">以煽动骚乱的罪名被捕</a>。<i>但现在法庭作出了一次令人敬佩的裁决，<a href="http://www.nytimes.com/2008/11/08/world/asia/08malaysia.html?_r=1&amp;hp&amp;oref=slogin">宣判他无罪</a>，谴责政府逾越了自身的职责范围。政府可能能对此决定提起上诉，但法官下令立即释放被拘禁近两个月的Raja Petra。</i>
+➜EA面临新的DRM集体诉讼
+https://www.solidot.org/story?sid=8612	4680
+<a href="__SLASHLINK__" sect="games" sid="08/09/25/0642246" sn="article" tid="96">《Spore》DRM</a>引发的争议还在继续，EA现在又面临<a href="http://www.gamepolitics.com/2008/11/08/new-class-action-suits-target-ea-securom-sims-amp-spore-creature-creator">两起新的集体诉讼</a>，针对的是<a href="http://media.libsyn.com/media/gamepolitics/EA-spore-eldridge-vs-ea.pdf">Spore生物编辑器试用版</a>和<a href="http://media.libsyn.com/media/gamepolitics/EA-securom-cortez-vs-ea.pdf">The Sims 2: Bon Voyage</a>中包含的SecuROM软件，而未来此类的诉讼可能会更多。起诉声明称：
+<i>
+在一个免费发布的版本内包含未经透露的、秘密安装的DRM保护程序，构成了对用户控制什么能、什么不能进驻计算机和如何使用计算机的绝对权的侵犯。SecuROM程序无法被完全卸载，一旦安装，它就成为消费者软件文件夹内的固定一员。EA Spore生物编辑器试用版的最终用户许可协议（EULA）完全没有提及任何技术保护方法，DRM技术，或SecuROM之类东西。</i>
+➜Ioke试图结合Lisp和Ruby的长处
+https://www.solidot.org/story?sid=8613	6840
+<a href="http://olabini.com/blog">Ola Bini</a>，核心<a href="http://jruby.codehaus.org/">JRuby</a>开发者，著有《<a href="http://apress.com/book/view/9781590598818">Practical JRuby on Rails Projects</a>》，目前为JVM开发了<a href="http://www.infoq.com/news/2008/11/ioke">一个叫Ioke的新语言</a>。<i>
+<a href="http://kenai.com/projects/ioke/">Ioke</a> JVM语言是一种<a href="http://zh.wikipedia.org/w/index.php?title=%E5%BC%B7%E9%A1%9E%E5%9E%8B&amp;variant=zh-hans">强类型</a>，极端动态，<a href="http://en.wikipedia.org/wiki/Prototype-based_programming">基于原型</a>，面向对象的语言，其目标是给予开发者结合Lisp和Ruby优点的工具，兼具优美，较小和规则表达的语法。对Ioke产生影响的语言包括了Io，Smalltalk，Self，Ruby和Lisp(尤其是<a href="http://zh.wikipedia.org/wiki/Common_Lisp">Common Lisp</a>)。作者表示虽然Ioke现在是基于JVM，但他正考虑编译到JavaScript，在V8上运行。</i>
+➜悉尼博物馆内的磁带驱动器可能解开NASA月球数据
+https://www.solidot.org/story?sid=8614	11400
+<a href="http://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7">阿波罗11号</a>，12号和14号任务中携带了物理学家Brian O'Brien发明的“月尘探测器”，探测器传回的信息被转录在磁带上，而O'Brien博士对数据的初步研究并未在科学界引起他所希望的激烈反响。但时至今日，月尘成为了解月球环境的头等大事。但令人遗憾的是由于NASA的过错，他们未能及时将磁带上的数据数字化，让173个重要数据磁带<a href="http://www.abc.net.au/news/stories/2008/11/10/2415393.htm">留在澳大利亚Perth 40多年而无法使用</a>。<i>
+数据恢复公司的Guy Holmes目前正尝试恢复磁带上的信息，它们被保存在一间环境控制的房间之内。直到某一天他在澳大利亚计算机博物馆内偶然发现了1960年代的IBM729 Mark 5磁带驱动器，他的公司才终于有办法去解开上面的信息。他表示此类驱动器非常稀罕，他们也不知道是否有其它尚能操作的驱动器存在。</i>
+➜Google有意向开发者开放其平台
+https://www.solidot.org/story?sid=8615	14700
+<a href="http://www.comsharp.com/">35公里</a> 写道 "在San Francisco Web 2.0峰会上，Google执行总裁Dave Girouard表示，<a href="http://www.itnews.com.au/News/88702,google-considers-opening-its-platform.aspx">他们有意开放其平台</a>，允许外部开发者在Google的开发基础上进行开发。
+<i>Web 2.0峰会的 The Platform Advantage 单元的嘉宾包括Salesforce.com CEO Mark Benioff, VMWare的Paul Maritz, Adobe的Kevin Lynch以及Google企业部执行总裁 Dave Girouard。Girouard说，Google有一个长期目标，将对外部开发者开放其平台。
+Google 将在很多地方开放其开发基础，最终外部开发者将象Google内部开发者一样访问 Google的各种开发资源。虽然Girouard并没谈到很多细节，他的话带来很多令人振奋的暗示，似乎意味着外部开发者将很快染指Google应用的创建，或在已有的Google应用上添加功能。这将为 Google产品带来更好的定制功能，甚至带来类似iPHone平台，与Google App Stores一类的收入模式。这种开放趋势已经成熟，甚至有些迟到，几周前，即使最保守的微软，也向外部开发者开放其云计算平台 Azure。苹果也允许其开发者访问其平台，尽管苹果控制得比较严。当然，时间会告诉我们Girouard的真正意思是否如此，如果Google决意开放，未来的Internet必将更加有趣。
+"</i>
+➜YouTube评论栏增加Audio Preview按钮
+https://www.solidot.org/story?sid=8616	17100
+cuthead 写道 <i>"YouTube评论被很多美国人称为<a href="http://blogoscoped.com/archive/2008-10-09-n51.html">垃圾评论</a>(实际上比起中国已经够好了)，很多人发表人身攻击言论。Google为了防止这种情况，过去引入了digg的评分，增加了举报功能。迄今又增加只针对英语评论的Audio Preview功能。Google相信人们也一样don't be evil，在发表人身攻击评论的时候并不知道对他人造成的伤害，在使用这个功能后人们会真切了解到别人的感受，继而放弃人身攻击。但讽刺的是<a href="http://blag.xkcd.com/2008/10/08/youtube-audio-preview/">美国网友似乎对此有点抵触</a>。很多人都在说Google在中国变了味道，实际上Google味道也并非一致合我们口味。想象一样这个功能到了中国，是否会改善中国的网络环境？"</i>
+➜预测在线内容的流行度
+https://www.solidot.org/story?sid=8617	18300
+HP Labs下属Social Computing Lab的科学家Gabor Szabo和Bernardo Huberman声称提出了一种方法，通过测量早期用户的访问，<a href="http://arxivblog.com/?p=706">去精确预测在线内容长期的人气</a>。他们以两大内容分享门户Youtube和Digg为例：<i>
+研究人员表示通过分析文章在Digg上前两小时的投票和受欢迎程度，能提前一个月精确预测文章来源网站的PV。他们认为也可以在YouTube上实现类似的预测，但需要测量10天才能获得类似的精确度，这主要是因为Digg的文章具有时效性，而YouTube的视频内容具有较强的持久性。如果所有（或者至少大多数）内容拥有类似长尾的浏览分布，这一结果并不令人惊讶。此类研究从原则上，可以为主机商提供提前分配如宽带之类资源的信息。</i>
+<a href="http://arxiv.org/abs/0811.0405">预印本</a>
+➜媒体偏爱奥巴马贯穿整个竞选过程
+https://www.solidot.org/story?sid=8618	21600
+在听到关于媒体一面倒报道奥巴马的抱怨之后，<a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/11/08/AR2008110801992.html">《华盛顿邮报》</a>核查了自己的文章，同意此结论。整个竞选过程，<a href="http://news.slashdot.org/article.pl?sid=08/11/10/1243222">媒体确实明显的偏爱奥巴马</a>。<i>
+就数量上说，奥巴马有更多的有利报道，更少的批评，占据更多的报纸页面，并且完全忽视他早期吸毒历史这类的负面新闻。“与奥巴马相关的故事和照片在新闻报道中出现的数量比麦凯恩多得多”。编辑、摄影师和记者发现奥巴马，第一位非洲裔多数党候选人，有更多的报导价值和历史意义，新闻记者偏爱新人。至于麦凯恩，他比奥巴马年长25岁，早已成名，他在长期的政治生涯中留下了很多伤疤。从（2007）11月11日起，奥巴马的报道总共有946篇，相比之下麦凯恩只有786篇。竞选初期两者相差无几，但是奥巴马与希拉里克林顿胶着竞争了相当长的时间，数据也反映了此一局面。麦凯恩早在3月4日就赢得了共和党内提名，比奥巴马提前3个月。而从6月4日到选举当天，奥巴马的报道共626篇，麦凯恩为584篇；奥巴马出现在首页176次，麦凯恩为144次，两者都有41篇特别报道。"</i>
+➜中国定义网络成瘾
+https://www.solidot.org/story?sid=8619	23400
+在第一家网络<a href="http://zh.wikipedia.org/w/index.php?title=%E7%B6%B2%E7%99%AE&amp;variant=zh-cn">成瘾</a>诊疗基地开办3年之后，中国医生正式定义了<a href="http://www.itworld.com/internet/57549/china-defines-internet-addiction">网络成瘾诊断标准</a>。<i>
+北京军区总医院制定的<a href="http://www.ljzy.com.cn/c13262/w10064682.asp">《标准》</a>在京通过专家论证。网络成瘾疾病表现为每天在线时间达到或超过6个小时，并且有以下症状：睡眠障碍、注意力不集中、烦躁，对网络使用有强烈的渴求、易怒、精神或肉体不适。你可有上述症状？据北京军区总医院医学成瘾科主任陶然说，网络成瘾分为网络游戏成瘾、网络色情成瘾、网络关系成瘾、网络信息成瘾、网络交易成瘾5类，其中以网络游戏成瘾居多，占82％。而中国2.53亿网民中有10%表现出某种形式的上瘾，其中70%的为年轻人，大学生网络成瘾率达到9％以上。</i>
+➜瑞星卡卡自动删除至少上万人Outlook Express邮件
+https://www.solidot.org/story?sid=8620	25200
+cuthead 写道 "瑞星卡卡与360安全卫士是很多中国大陆初级电脑用户必备的反木马反间谍软件工具。但大量的人近日使用瑞星卡卡助手(不下万人）发现Outlook Express收件箱与发件箱邮件丢失。相关新闻在谷歌新闻迅速<a href="http://news.google.cn/news?hl=zh-CN&amp;tab=wn&amp;ned=ccn&amp;q=%E7%91%9E%E6%98%9F%E5%8D%A1%E5%8D%A1&amp;btnG=%E6%90%9C%E7%B4%A2%E8%B5%84%E8%AE%AF">爬到首页位置</a>。<i>
+有趣的不止于此，瑞星卡卡与360安全卫士打起了嘴仗。<a href="http://it.rising.com.cn/new2008/News/NewsInfo/2008-11-10/1226309469d50348.shtml">瑞星称影响不超过万人</a>，<a href="http://baike.360.cn/3233995/14304167.html">360指责瑞星掩盖事实</a>。双方感觉就像淘宝和百度一样，又有点像搜狗和谷歌。Windows自身的原因对用户隐藏信息，使得Windows下的手动除毒并不是那么方便。不知道各位极客在Windows下使用什么维护自己的信息安全呢？我的选择是Norton -&gt; AVG -&gt; <a href="http://www.neuber.com/taskmanager/">Security Task Manager+SpyProtector</a>。但无论什么安全软件，也无法阻止某些跨平台，跨ISP的“网络木马程序”。"</i>
+➜以图像的方式搜索图书、DVD、音乐等
+https://www.solidot.org/story?sid=8621	27000
+昨天在<a href="__SLASHLINK__" sect="internet" sid="08/11/10/074241" sn="article" tid="67">网站的用户体验</a>中提到了亚马逊推出的令人惊艳的<a href="http://www.windowshop.com/">Windowshop</a>购物逛街网站，今日亚马逊又推出了一个令人眼前一亮的新搜索网站<a href="http://bigbooksearch.com/">bigbooksearch.com</a>。<i>
+它由Web设计师皆程序员<a href="http://blamcast.net/">John Forsythe</a>和亚马逊合作推出，该网站以类似google图像搜索的形式让用户搜索亚马逊上的DVD、书籍和唱片，所有的搜索结果以高清晰图片展示在用户面前，用户可以使用搜索按钮旁下列菜单改变列表，点击大图就会前往亚马逊的网站。即使不购买，仅仅是浏览图像也是一种令人愉悦的经历。例外<a href="http://bigbooksearch.com/all/mao+zedong">mao zedong</a>，<a href="http://bigbooksearch.com/all/fallout">辐射</a>，即将上市的《<a href="http://bigbooksearch.com/dvd/walle">机器人瓦利</a>》DVD，但后面的一些搜索结果与主题无关，可能属于推荐类。</i>
+➜华硕黄静事件新进展，双方争议CPU来源
+https://www.solidot.org/story?sid=8622	30000
+我不想发老文，而是实在当时来不及发 写道 <i>"受到<a href="http://solidot.org/~faif/journal/">较大</a>的关注华硕黄静事件，近日掀起了新的高潮。2008年11月04日，<a href="http://tech.qq.com/a/20081104/000218.htm">华硕回应此事件</a>，指责周成宇说谎。提出四大疑点：当天换自备CPU，假名假身份购机，换下的CPU并非华硕出厂Intel Pentium M740 2.0GHz CPU，华硕向海淀区报告行为符合法律依据。针对华硕回应，黄静方面<a href="http://www.asus315.cn/bbs/thread-1308-1-1.html">著文评论</a>。针对自备CPU，黄静用<a href="http://www.megaupload.com/?d=NJTFNIP0">珍藏2年半的照片和音频</a>否认；针对假名假身份购机，黄静指出她是北大生物技术研究所法人，因此是真身份，对于假名没有提及。针对换下的CPU并非华硕CPU，黄静也予以否认。针对华硕向海淀区报告行为，黄静认为是诬告行为，并认为华硕有销毁案件相关记录。"</i>
+➜凤凰号火星登陆器宣告死亡
+https://www.solidot.org/story?sid=8624	30600
+NASA表示，凤凰号火星登陆器<a href="http://news.bbc.co.uk/2/hi/science/nature/7721032.stm">目前保持寂静</a>，差不多正式死亡。<i>
+从11月2日短暂的与地球通讯之后，工程师就无法再能联系上它。<a href="http://zh.wikipedia.org/wiki/%E5%87%A4%E5%87%B0%E5%8F%B7">凤凰号</a>登陆器是在今年5月着陆在火星北极平原，原计划服役3个月，目前它已经与火星日益临近的严寒和黑暗的冬季奋斗了多日。NASA表示它会继续尝试联络登陆器，但不会期盼听到信号。</i>
+➜IBM开发下一代浏览器平台Blue Spruce
+https://www.solidot.org/story?sid=8623	30900
+<a href="http://www.comsharp.com/">35公里</a> 写道 "蓝色巨人IBM目前正在进行一个叫做 Blue Spruce 的项目，一个完全基于浏览器的应用开发平台。ReadWriteWeb获得独家授权<a href="http://www.readwriteweb.com/archives/ibm_blue_spruce_first_look.php">一睹Blue Spruce的原始面貌</a>。Blue Spruce基于开放标准，并将挑战目前已有的两个 RIA平台，微软的Silverlight与Adobe Flash。
+"           Blue Spruce目前刚刚开始了5个月，还未公开露面，它包含两个部分：
+<ul>
+<li>Blue Spruce 客户端工具</li>
+<li>Blue Spruce 辅助 Web 服务器</li>
+</ul>
+下面是目前 我们对 Blue Spruce 平台所了解到的信息：
+<ul>
+<li>使用 Webkit 引擎</li>
+<li>使用以下开放标准：HTML, JavaScript, CSS, (All Ajax), XMPP, H.264</li>
+<li>服务器运行于 Linux, MacOS X</li>
+<li>运用了 OpenAjax，将支持任何 Widgets</li>
+<li>正在向 IE6+ 以及 Firefox 迁移</li>
+</ul>
+不是浏览器，是平台
+<br> <br>需要澄清的是，IBM 并不是在开发一个浏览器，这个项目的客户端基于多种基于浏览器的开放标准技术，最终，它们将集成到现有的浏览器，如 Safari, Firefox 以及 IE 中。
+<br> <br>IBM 这个计划的初衷是让浏览器成为应用平台，并为微软，Adobe 这些不愿离开桌面的开发商施加压力。另外值得一提的是，该项目也不是开源项目，它建立在公开标准之上，将来也许会开源，但目前还为时过早。
+IBM 为什么将目光投向浏览器？
+<br> <br>当问及 IBM 为什么将目光投向浏览器，IBM Internet 技术 CTO David Boloker 说，用户不断告诉他们，他们不愿意安装程序，客户需要桌面上的富体验，但希望在浏览器中实现，协同与数据共享也是一种趋势，于是 IBM 将这些东西综合成 Blue Spruce。
+<br> <br>
+概念应用演示
+<br> <br>目前， Blue Spruce 处于封闭 Beta测试中，IBM正在为一系列用户创建应用程序，包括路透社以及 Boston 和新西兰的医院。他们目前将精力集中在三个领域，金融，医疗与重工业。
+<br> <br>IBM 向 ReadWriteWeb 演示了一些概念应用演示。包括一个基于 Ajax 的混合应用，由位于不同地点（San Francisco 与 Boston）的用户同步使用，在一个浏览器页面中集成了音频，视频，即时消息与 Feeds，以及更多富功能。
+<br> <br>换句话说，许多不同的组件 (mashups, video, audio, etc) 同时运行于同一个浏览器页面。不同用户可以实时地用这些组件交互，IBM 解释，所有这些组件都是实时活动的，用户可以改变它们的状态，所有其他用户都能实时看到这一改变。这可以让用户使用浏览器召开现场会议。
+➜法官下令IBM前高管停止为苹果工作
+https://www.solidot.org/story?sid=8625	33120
+iPod之父Tony Fadell因个人原因离开了苹果，苹果随后雇用了前IBM副总裁Mark Papermaster担任负责硬件设备工程的副总裁。<i>
+上周五，美国一联邦法官下令他<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9119643&amp;intsrc=news_ts_head">停止为苹果工作</a>。法官的裁决是基于IBM的请求，IBM认为他违反了2006年签署的竞业禁止合同。在苹果雇用了在Papermaster后，就要谣言认为它计划进入芯片行业，这对IBM而言显然意味着挑战。对此判决，Papermaster表示自己的新工作与IBM的商业机密毫无关系。</i>

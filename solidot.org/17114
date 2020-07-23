@@ -1,0 +1,48 @@
+➜联想释出允许安装Linux的笔记本固件
+https://www.solidot.org/story?sid=50298	9652
+今年9月，联想笔记本电脑Yoga 900和 Yoga 900S<a href="http://www.solidot.org/story?sid=49768" target="_blank"><u>被发现无法使用Linux</u></a>，原因是笔记本的BIOS锁定在RAID模式，无法选择AHCI模式，导致Linux用户无法识别内置的SSD。存储设备配置有两种模式：标准的AHCI模式和RAID模式，英特尔没有向Linux提供支持RAID模式的补丁，这就导致锁定在RAID模式的电脑无法安装Linux。现在联想释出了<a href="https://forums.lenovo.com/t5/Lenovo-Yoga-Series-Notebooks/Yoga-900-and-Ideapad-710S-Linux-Only-BIOS/tac-p/3473813/highlight/true#M345" target="_blank"><u>一个新的固件</u></a>，提供了AHCI模式选项，允许用户安装Linux。但使用AHCI模式的代价是不能使用Windows，联想也不提供支持，也就是出了问题的话用户只能靠自己了。看起来用户只能在运行Windows和Linux之间二选一了，但已有用户发现了<a href="https://forums.lenovo.com/t5/Lenovo-Yoga-Series-Notebooks/Yoga-900-and-Ideapad-710S-Linux-Only-BIOS/tac-p/3473813/highlight/true#M345" target="_blank"><u>使用新BIOS双启动</u></a>的方法。
+➜自由软件基金会称DRM被用于锁定、控制和监视用户
+https://www.solidot.org/story?sid=50299	13143
+自由软件基金会<a href="https://yro.slashdot.org/story/16/11/08/154256/drm-is-used-to-lock-in-control-and-spy-on-users-says-free-software-foundation" target="_blank"><u>正在督促</u></a>美国政府废除DMCA中保护DRM的反规避条款。DMCA的1201条款禁止绕过DRM保护的内容和设备。自由软件基金会的Donald Robertson在致函美国版权办公室的<a href="https://torrentfreak.com/images/Free_Software_Foundation_-_Initial.pdf" target="_blank"><u>信</u></a>（PDF）中指出，技术保护措施和数字限制管理（即DRM）在保护版权作品上不具有合法作用，它们实际上是一种控制用户和创造锁定的手段。版权保护只是借口，DRM真正的目的是控制用户，限制用户切换到其它平台或其它数字商店。企业使用DRM非法的控制用户，以最大限度的获取收益，它与真正的版权法没有多少联系。这些限制在技术上阻碍了用户在版权法下的权利，如合理使用。自由软件基金会还指出，DRM不仅仅是为了控制用户，它还被用户监视用户，将用户的个人信息发送到技术提供商，以用户权利为代价产生额外的收入。<br>
+➜DDoS攻击导致芬兰至少两栋楼的供暖中止
+https://www.solidot.org/story?sid=50300	13293
+芬兰如今已进入寒冷的冬季，温度在零度以下，你可以想象在这种情况下如果没有供热？芬兰媒体报道，DDoS攻击<a href="http://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter" target="_blank"><u>导致</u></a> Lappeenranta 市至少两座建筑物的中央供热中止。两座楼由物业公司Valtia管理，该公司CEO Simo Rounela称，控制中央供热和加热水的计算机系统因为攻击下线。Rounela表示，DDoS攻击从10月底一直持续到11月3日，为抵御攻击控制系统反复重启，导致供热停止工作。
+➜印地安纳州麦迪逊县因勒索软件攻击关闭
+https://www.solidot.org/story?sid=50301	16287
+美国印地安纳州麦迪逊县的计算机系统上周遭到了勒索软件攻击，<a href="http://arstechnica.com/security/2016/11/indiana-county-government-shut-down-by-ransomware-to-pay-up/" target="_blank"><u>全县的服务事实上因此关闭</u></a>。上周末县政府领导层同意向勒索者支付一笔赎金，但没有披露支付的金额，只是表示没有居民想得多。勒索软件攻击没有影响关键服务或投票系统，但全县的其他部分“罢工"了，其中包括法院和部分政府办公室。印地安纳州警监 Dave Bursten称，就好象回到了1980年代，那时候一切都是用笔和纸办公。
+➜Google阻止一起利用恶意AdSense 广告的攻击
+https://www.solidot.org/story?sid=50302	18254
+Google<a href="http://arstechnica.com/security/2016/11/google-stops-adsense-attack-that-forced-banking-trojan-on-android-phones/#p3" target="_blank"><u>阻止了</u></a>一起组合利用恶意AdSense 广告和Chrome for Android 0day漏洞迫使设备下载银行木马的攻击行动。据卡巴斯基实验室<a href="https://securelist.com/blog/research/76286/disassembling-a-mobile-trojan-attack/" target="_blank"><u>报告</u></a>，在2个月内，被称为Banker.AndroidOS.Svpeng的银行木马下载到了31.8万台设备上。但恶意程序没有自动执行，它主要通过伪装成合法应用诱骗用户安装，包括使用 last-browser-update.apk和WhatsApp.apk等名称。Google发言人表示该公司修复了 Chrome v54的自动下载漏洞，但没有解释恶意广告如何绕过Google的安全检查。
+➜印度突然取消500和1000面值纸币
+https://www.solidot.org/story?sid=50303	27931
+<div align="center"><img src="http://img.solidot.org/0/948/lizwbR1jKOYE.png" align="" height="206" width="450"><br>
+</div>
+<br>
+印度在一夜之间取消了500和1000卢比面值的纸币，同时宣布发行2000卢比面值的新纸币，其中一面印有印度的第一艘火星轨道器，另一面则是<a href="https://twitter.com/ANI_news/status/796004344617320448/photo/1" target="_blank"><u>甘地</u></a>。新德里称此举是为了阻止伪造纸币并打击黑色经济。<a href="http://www.ftchinese.com/story/001070067" target="_blank"><u>该消息震惊了印度人</u></a>，他们只提前4个小时被通知他们的多数现金将成为废纸。印度人被允许今年年底前在银行和邮局存入或换掉旧纸币，但是这些纸币无法在其他任何地方使用，除了有限时间内可以在政府医院、药房、紧急旅行柜台使用。印度人将被限制每天最多能从自动柜员机或银行取出2000卢比，从11月19日开始限额提高至4000卢比。美国康奈尔大学经济学教授Eswar Prasad说，“这一措施对非法活动的限制效果，充其量是温和、暂时的。”
+➜生育治疗的男子被发现会将不孕症传给儿子
+https://www.solidot.org/story?sid=50304	28801
+被称为卵胞浆内单精子注射（ ICSI）的不孕症治疗技术通过直接向卵子注入精子去受精，让没有活性的精子也能产生胚胎。科学家怀疑这种方法同时也会将不孕症的遗传因素传递到下一代。现在一项小规模的实验<a href="https://www.newscientist.com/article/2108218-male-fertility-treatment-seems-to-pass-infertility-on-to-sons/" target="_blank"><u>提供了这一猜测的证据</u></a>。研究人员对比了54名使用 ICSI受孕的男性和57名自然受孕的男性，发现ICSI受孕男性的精子浓度只有控制组的一半，活跃精子数也更少。科学家强调这一结果只是相关而不是因果。
+➜中国公司建造135MW比特币数据中心
+https://www.solidot.org/story?sid=50305	31709
+中国矿机制造商比特大陆<a href="https://thestack.com/data-centre/2016/11/08/chinese-firm-building-135mw-bitcoin-data-centre/" target="_blank"><u>宣布</u></a>建造使用风能和太阳能的135MW比特币数据中心。比特大陆控制了18.6%的总算力，社区的独立矿工就该公司在比特币上的过大的影响力表达了担忧。新的比特币数据中心建在新疆，原计划在年底完工，但由于新疆异乎寻常的寒冬而可能会延长完成时间。与此同时，由于特朗普在美国总统大选中获胜，比特币的币值也随之上涨到近<a href="https://markets.blockchain.info/" target="_blank"><u>740美元</u></a>。据CoinMarketCap.com的消息，大量比特币交易是以美元进行的，<a href="http://cn.wsj.com/gb/20161109/fin130656.asp" target="_blank"><u>意味着</u></a>是美国投资者推动了比特币的上涨。
+➜特朗普当选美国总统，加拿大移民网站崩溃
+https://www.solidot.org/story?sid=50306	33899
+美国共和党总统候选人特朗普（Donald J. Trump）赢得了11月8日的<a href="https://news.slashdot.org/story/16/11/09/010241/donald-trump-wins-us-presidency" target="_blank"><u>大选</u></a>，一些人视为全球化的失败和孤立主义的<a href="https://news.ycombinator.com/item?id=12907201" target="_blank"><u>重新崛起</u></a>。美国共和党同时也控制了参议院和众议院。而加拿大移民网站也因为访问量过大而在一段时间内<a href="http://www.ctvnews.ca/canada/canada-s-immigration-website-crashes-on-election-night-1.3152231?hootPostID=14d10ea891a36bd74ea02d19ec7cf954" target="_blank"><u>停止响应</u></a>。特朗普的当选反应了普通民众对建制派的一次强硬拒绝，特朗普是一位亿万富翁，他没有从政经验，其主要经历先是房地产后转向电视真人秀。他是极少数没有公开纳税报告的总统候选人。
+➜D-Link路由器发现栈溢出漏洞
+https://www.solidot.org/story?sid=50307	37317
+友讯科技（D-Link）的DR系列路由器<a href="http://www.theregister.co.uk/2016/11/08/turn_off_remote_admin_sohopeless_dlink_owners/" target="_blank"><u>发现了栈溢出漏洞</u></a>，漏洞存在于 Home Network Automation Protocol (HNAP)服务中。在执行HNAP登录行动处理畸形SOAP信息时会导致栈的缓冲溢出，原因是存在漏洞的XML字段接受任意长的字符串，触发漏洞的一种方法就是向其发送超过3096 字节长度的字符串。漏洞影响友讯的DIR-823、DIR-822、DIR-818L(W)、DIR-895L、DIR-890L、DIR-885L、DIR-880L 和DIR-868L 产品。友讯尚未发布补丁，对用户来说权宜之计是关闭远程管理。利用该漏洞的Metasploit <a href="https://github.com/pedrib/PoC/blob/master/exploits/metasploit/dlink_hnap_login_bof.rb" target="_blank"><u>ROC</u></a>已经公布。安全研究员说，友讯在HNAP实现上有很长的漏洞史。
+➜大量山寨App进入苹果商店
+https://www.solidot.org/story?sid=50308	41602
+近几周来，数百个假冒的零售与产品手机应用<a href="http://cn.nytstyle.com/technology/20161108/more-iphone-fake-retail-apps-before-holidays/" target="_blank"><u>登陆苹果的应用商店</u></a>，趁着节假日的到来欺骗消费者。这些冒牌货或者伪装成美元树(Dollar Tree)和Foot Locker之类的零售连锁商，或者是迪拉德(Dillard’s)和诺德斯特龙(Nordstrom)之类的大百货，抑或Zappos.com和Polyvore之类的网店，以及周仰杰(Jimmy Choo)、克丽斯汀·迪奥(Christian Dior)和菲拉格慕(Salvatore Ferragamo)这样的奢侈品牌。匹兹堡公司Branding Brand的首席执行官Chris Mason称，其中有些应用看上去相对无害，本质上只是垃圾应用，用来发送烦人的弹出式广告。这样的流氓应用大部分来自中国的开发者，它们逃过了苹果在应用上架之前的审核程序。在《纽约时报》查询之后，苹果公司下架了数百个山寨应用。安全专家说，中国是山寨应用最大的源头。
+➜新引力理论诠释暗物质
+https://www.solidot.org/story?sid=50309	42584
+荷兰阿姆斯特丹大学理论物理学家和弦论理论家Erik Verlinde在arXiv上发表了一篇<a href="https://arxiv.org/pdf/1611.02269.pdf" target="_blank"><u>新引力理论论文</u></a>，试图<a href="http://phys.org/news/2016-11-theory-gravity-dark.html" target="_blank"><u>诠释神的秘暗物质</u></a>——他的新理论不需要暗物质粒子的假说。他曾在2010年发表论文<a href="http://www.solidot.org/story?sid=15664" target="_blank"><u>指出</u></a>，引力并不是与电磁力、核力和弱核力相似的基本力，而是一种自然突发现象，其产生机制是熵之间的差异。被称为突发引力（Emergent gravity）的新理论扩展了他关于引力性质的观点。他的新引力理论能精确预测围绕银河系中心运动的恒星速度，也能预测其它星系内部的恒星运动。Verlinde称，理论的预测和观察相一致。他的新引力论改编了全息原理，全息原理认为整个宇宙的信息都可以在一个巨大的虚拟球体上描绘出来。Verlinde认为这一观点并不十分正确，宇宙的部分信息包含于空间本身。这额外的信息可用于描绘宇宙的黑暗组成——暗能量。而暗物质不过是一个错觉。
+➜佛罗里达选民批准释放转基因蚊子对抗Zika
+https://www.solidot.org/story?sid=50310	44530
+佛罗里达 Monroe 县选民在周二的选举中以58%-42%批准释放转基因蚊子对抗Zika疫情，不过作为蚊子释放地的<a href="https://en.wikipedia.org/wiki/Key_Haven,_Florida" target="_blank"><u>Key Haven区</u></a>的选民以 65-35%反对这一决议。这一投票结果并无约束力。 Key Haven蚊虫控制官员表示他们计划尊重人民的意愿。转基因蚊子由英国公司Oxitec研发，通过修改基因使得野外的蚊子与转基因蚊子交配后产下的后代在成年前会死亡，从而大幅减少蚊子数量。反对者对转基因蚊子的潜在不利影响表达了担忧，但 Oxitec的Nimmo博士<a href="http://www.bbc.com/news/science-environment-37911064" target="_blank"><u>表示</u></a>，他们至今已经释放了数百万蚊子，没有负面影响的报告。
+➜研究人员利用无人机远程控制飞利浦的智能灯泡
+https://www.solidot.org/story?sid=50311	45596
+研究人员<a href="http://www.pcworld.com/article/3138872/internet-of-things/researchers-hack-philips-hue-smart-bulbs-from-the-sky.html" target="_blank"><u>利用</u></a>无人机远程控制了部分飞利浦 Hue 智能照明系统。研究人员利用了 ZigBee Light Link Touchlink 系统中的漏洞。ZigBee就此发表<a href="http://www.zigbee.org/zigbee-alliance-statement-on-security/" target="_blank"><u>声明</u></a>称，漏洞与ZigBee协议本身无关，而是存在于供应商的协议实现中。利用漏洞，研究人员能绕过禁止远程访问网络的保护措施，安装恶意的固件，让照明系统一闪一闪的发出摩尔斯码的S-O-S。研究人员甚至能屏蔽未来的无线更新，使得感染无法逆转。除了拆开照明系统没有其它方法能重编程感染的设备。飞利浦公司已经在上个月释出了修复该漏洞的补丁。
+➜机器人将取代发展中国家三分之二的工作
+https://www.solidot.org/story?sid=50312	47801
+根据联合国贸易和发展会议的<a href="http://unctad.org/en/PublicationsLibrary/presspb2016d6_en.pdf" target="_blank"><u>报告</u></a>，受机器人技术进步影响最大的不是发达国家的低薪/低技能工人，而是发展中国家的工人。报告认为发展中国家<a href="http://motherboard.vice.com/read/robots-will-take-two-thirds-of-all-jobs-in-the-developing-world-un-says" target="_blank"><u>三分之二的工作</u></a>将被机器人取代，机器人对发展中国家的负面影响可能将会十分巨大。中国的工厂正在快速使用自动化和机器人，报告认为有最多机器人的国家将会看到生产力的最大提升。低技能劳工最多的国家可能只能转向机器人不擅长的领域，也就是开发和部署机器人的成本超过了收益。

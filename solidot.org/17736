@@ -1,0 +1,48 @@
+➜苹果手机下载速度被指落后于竞争对手
+https://www.solidot.org/story?sid=57305	11768
+Ookla 收集的数据<a href="https://www.bloomberg.com/news/articles/2018-07-23/apple-s-iphones-trail-samsung-google-devices-in-internet-speeds" target="_blank"><u>显示</u></a>，苹果手机 iPhone 8、iPhone 8 Plus 和 iPhone X 的下载速度落后于竞争对手三星和 Google 的旗舰手机。移动数据流量通常有限额，手机的存储空间也有限，因此这项研究对大多数人而言意义不大。Ookla 提供了测网速的速务，根据过去三个月进行的  102,000 次测试结果，Galaxy S9 在美国的平均下载速度为 38.9 Mbps；根据  169,000 次测试结果，S9+ 平均下载速度为 38.4 Mbps；根据 603,000 次测试结果，iPhone X 平均下载速度 29.7 Mbps；iPhone 8 Plus 和 iPhone 8 平均下载速度 29.4 Mbps 和 28.6 Mbps；Google Pixel 2 XL 和 Pixel 2 的平均下载速度分布为 33.9 Mbps 和 34.4 Mbps。Ookla 的测速被一些人认为<a href="https://www.bloomberg.com/news/articles/2018-07-23/apple-s-iphones-trail-samsung-google-devices-in-internet-speeds" target="_blank"><u>并不精确</u></a>。
+➜俄罗斯黑客入侵美电力公司控制室
+https://www.solidot.org/story?sid=57306	13688
+《华尔街日报》<a href="https://www.wsj.com/articles/russian-hackers-reach-u-s-utility-control-rooms-homeland-security-officials-say-1532388110" target="_blank"><u>报道</u></a>（付费墙，<a href="https://www.marketwatch.com/story/russian-hackers-breached-us-electric-utility-control-rooms-feds-say-2018-07-23?link=MW_latest_news" target="_blank"><u>替代版本</u></a>），美国国土安全部官员称，俄罗斯黑客入侵了电力公司被认为安全的隔离网络。黑客甚至找到方法能打开开关和干扰电力输送。针对美国电力公司的黑客攻击始于去年底，很有可能仍在继续。美国国土安全部从 2014 年起就警告电力公司高管注意俄罗斯黑客组织对基础设施的威胁，本周它首次披露了攻击细节，称受害者多达数百个，部分公司可能仍然不知道他们已经遭到了入侵，因为攻击者利用了公司雇员的凭证渗透到内网，让入侵难以发现。攻击者首先是利用钓鱼攻击窃取登录凭证入侵供应商的内部网络。一旦渗透到供应商的网络，他们开始转向真正的目标——电力公司。这个过程相对比较简单，很多情况下窃取了供应商的凭证之后他们就能直接访问电力公司的网络，然后开始窃取机密信息，如电力公司网络的配置信息，只有在熟悉其网络之后他们才能进一步的干扰其运作。攻击者还将自己伪装成能经常接触这些系统的人。
+➜上海市经信委发布RISC-V支持政策
+https://www.solidot.org/story?sid=57307	15098
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道 "上海市经济信息委最近<a href="http://www.sheitc.gov.cn/xxfw/678518.htm" target="_blank">发布了《上海市经济信息化委关于开展2018年度第二批上海市软件和集成电路产业发展专项资金（集成电路和电子信息制造领域）项目申报工作的通知》</a>，开始将从事<a href="http://www.sheitc.gov.cn/res_base/sheitc_gov_cn_www/upload/article/file/2018_3/7_20/jsiwjjth889q.doc" target="_blank">RISC-V相关设计和开发的公司作为扶持对象</a>，这也是国内第一个和 RISC-V 相关的扶持政策，说明上海市政府认可 RISC-V 的先进性、开放性以及逐渐完善的生态。企业首先要是在上海注册成立的，其次要以项目制的形式根据项目指南向上海市经信委政府提出申请，同时满足一系列其他条件。以下摘抄自《通知》的附件《2018年第二批上海市软件和集成电路产业发展专项资金（集成电路和电子信息制造领域部分）项目指南》：<i>
+5、基于RISC-V指令集架构的处理器芯片方向。支持基于RISC-V指令集架构、32位及以上的处理器芯片的研发及产业化，内核需拥有自主知识产权。<br>
+方向一：面向物联网和工控应用领域，具有优异的性能、功耗、面积等指标，优先支持有明确用户合作协议的项目。项目执行期内累计销售收入不低于2000&nbsp;万元。<br>
+方向二：面向智能终端应用领域，主频不低于1GHz，性能不低于1.5 DMIPS/MHz，支持双精度浮点运算，支持主流操作系统、多核技术及缓存一致性。项目执行期内累计销售收入不低于 1000 万元。"</i>
+➜世界上最大的机器人是澳大利亚的无人驾驶火车
+https://www.solidot.org/story?sid=57308	16845
+世界上最大的机器人是一辆将上万吨铁矿石运出澳大利亚沙漠的<a href="https://spectrum.ieee.org/automaton/robotics/industrial-robots/worlds-largest-robot-hauls-ore-through-western-australia" target="_blank"><u>无人驾驶火车</u></a>。澳大利亚幅员辽阔，将矿业资源从内地运到沿海的最方便工具是火车。火车来回穿梭，将铁矿石送到港口然后空车返回，重复单调而又无聊，线路又固定，非常适合自动化。矿业巨头力拓集团过去七年花了大约 10 亿美元来实现这一目标。它升级了沿铁路线的基础设施，在每个交叉路口安装了监控探头。它从 2017 年开始尝试有人直接监督的自主驾驶火车，为以防万一火车上仍然有人待命，火车本身是自主驾驶的，处于运营中心的远程监视之下。从本月初开始，火车开始完全无人自主驾驶。
+➜任天堂起诉 ROM 网站
+https://www.solidot.org/story?sid=57309	18189
+任天堂对流行的 ROM 网站 LoveROMS.com 和 LoveRETRO.co 的运营者<a href="https://torrentfreak.com/nintendo-sues-console-rom-sites-for-mass-copyright-infringement-180720/" target="_blank"><u>提起诉讼</u></a>，指控其版权和商标侵犯，寻求赔偿最高上亿美元。模拟器和 ROM 通常被用于玩怀旧游戏和主机游戏。在起诉书中，任天堂要求每侵犯一款任天堂游戏赔偿 15 万美元，每侵犯一次商标赔偿最高 200 万美元。140 次版权侵犯和 40 次商标侵犯的赔偿金额最高将达到一亿美元。任天堂显然想要杀死这两个网站，但 LoveROMS 和 LoveRETRO 没有等待法庭命令就直接关闭了。
+➜ReactOS 0.4.9 发布
+https://www.solidot.org/story?sid=57310	27095
+开源 Windows 兼容操作系统 ReactOS 在版本控制系统切换到 Git 并托管到 GitHub 之后开发进度显著加快，基本上每三个月发布一个新版本。它刚刚释出了<a href="https://www.reactos.org/project-news/reactos-049-released" target="_blank"><u>最新版本 ReactOS 0.4.9</u></a>，新版本没有加入多少引人注目的新特性，主要是 QOL 改进，包括在：在 ReactOS 上构建 ReactOS 的 Self-Hosting；FastFAT 驱动改进，Shell 改进，解压压缩文档不再需要第三方工具，与 WINE Staging 版本同步，等等。
+➜Facebook 计划发射互联网卫星
+https://www.solidot.org/story?sid=57311	28321
+Facebook <a href="https://www.wired.com/story/facebook-confirms-its-working-on-new-internet-satellite/" target="_blank"><u>证实</u></a>该公司计划在明年初发射低轨道宽带卫星，这将是组建互联网卫星星座的第一步。今年 5 月，IEEE Spectrum <a href="https://www.solidot.org/story?sid=56410" target="_blank"><u>报道</u></a> Facebook 创建了一家子公司 PointView Tech LLC，该公司的互联网卫星代号 Athena，其数据传输率十倍于 SpaceX 的 Starlink 互联网卫星。SpaceX 计划向地球低轨道发射数千颗  Starlinks 卫星，提供 1 Gbps 的网络接入，该计划已获得 FCC 批准。Athena 的传输率将达到 10 Gbps，其轨道高度 500-550km，其大小和重量与 SpaceX 卫星相近，将使用高频毫米波无线电信号提供更快的数据传输率。
+➜印度想要 WhatsApp 内置可追溯性
+https://www.solidot.org/story?sid=57312	29915
+印度本月早些时候<a href="https://www.solidot.org/story?sid=57081" target="_blank"><u>要求</u></a> Facebook 旗下的 WhatsApp 消息应用采取措施阻止假消息和煽动性内容的传播，这些内容被指过去几个月在印度引发了一系列袭击事件，导致数十人死亡。WhatsApp 在全世界有超过 10 亿用户，而印度就有超过两亿用户，是 WhatsApp 最大的市场。印度政府提出的一个要求是内置可追溯性，能追溯假消息的源头。但 WhatsApp 认为这将破坏其保护用户隐私的核心价值。WhatsApp 的消息是端对端加密的，如果要在消息中加入可追溯性，无疑将会破坏其加密方案。WhatsApp <a href="https://it.slashdot.org/story/18/07/24/059233/whatsapp-balks-at-indias-demand-to-break-encryption" target="_blank"><u>指出</u></a>，可追溯性和问责制将会破坏端对端加密。
+➜硬件错误注入平台ChipSHOUTER开始预售
+https://www.solidot.org/story?sid=57313	31398
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "<a href="https://newae.com/" target="_blank">NewAE Technology Inc.</a>开发的开放硬件错误注入平台<a href="http://store.newae.com/chipshouter-kit/" target="_blank">ChipSHOUTER近日开始预售</a>，从<a href="https://github.com/newaetech/ChipSHOUTER" target="_blank">github repo上</a>可以看到<a href="https://github.com/newaetech/ChipSHOUTER/blob/master/documentation/ChipSHOUTER%20User%20Manual.pdf" target="_blank">用户手册已经公开</a>，ChipSHOUTER作为电磁错误注入平台廉价工具集可以帮助工程师针对硬件产品在早期进行质量测试，当然，这也对安全测试非常有帮助，去年著名硬件安全厂商Riscure的两名安全工程师在<a href="https://app.media.ccc.de/v/SHA2017-143-bypassing_secure_boot_using_fault_injection" target="_blank">SHA2017会议上分享了利用错误注入绕过verifiedboot</a>中可以看出，攻击者可以使用廉价的硬件组合包括<a href="https://wiki.newae.com/CW1173_ChipWhisperer-Lite" target="_blank">NewAE的ChipWhisperer-Lite</a>和<a href="https://www.langer-emv.de/en/category/rf-passive-30-mhz-3-ghz/35" target="_blank">EV/E-field probes</a>对目标进行错误注入以达到hash碰撞，绕过验签逻辑或者直接让代码跳转(<a href="https://www.riscure.com/uploads/2017/09/Controlling-PC-on-ARM-using-Fault-Injection.pdf" target="_blank">仅限于armv7</a>)等目的，而随着<a href="http://store.newae.com/chipshouter-kit/" target="_blank">ChipSHOUTER</a>发布或许我们能预见未来这种类型攻击的成本会持续降低，另外，以<a href="https://eprint.iacr.org/2004/100.pdf" target="_blank">错误注入</a>的方式让内存“制造”漏洞或者配合某些本来存在的逻辑漏洞可以构造出更精密的漏洞利用方式，从<a href="https://www.esat.kuleuven.be/cosic/publications/article-2046.pdf" target="_blank">防御的层面</a>看，硬件设计时可以考虑检测glitch或者错误，而软件层面的防御除了安全相关的核心代码必须保证其语义的正确性（包括直接使用汇编或者使用一些tricks(_volatile_)阻止编译器成为你的敌人）外，其他还是基本回归到<a href="https://github.com/hardenedlinux/hardenedlinux_profiles/raw/master/slide/hardening_the_core.pdf" target="_blank">Hardening the COREs问题集合</a>，"</i>
+➜为什么英特尔不让拥有者控制 ME
+https://www.solidot.org/story?sid=57314	33101
+英特尔处理器平台都内置了一个低功耗的子系统 Management Engine(ME)，它包含了一个或多个处理器核心，内存，系统时钟，内部总线，保留的受保护内存，有自己的操作系统和程序，能访问系统主内存和网络。ME 能完全控制 PC，能启动和关闭电脑，读取打开的文件，检查所有运行的程序，跟踪按键和鼠标移动，甚至能捕捉屏幕截图。英特尔称 Management Engine 是远程管理方案，而 AMD 有类似的方案叫 Platform Security Processor（PSP）。因为 ME 整合在启动过程中，因此用户基本上不可能将其移除或禁用。<a href="https://www.devever.net/~hl/intelme" target="_blank"><u>为什么英特尔不让机器的拥有者控制 ME</u></a>？因为 ME 具有 DRM 的功能，芯片巨人和媒体公司合作用 DRM 来锁定用户。AMD 别无选择，只能跟着后面实现功能相似的 PSP，因为英特尔定义了市场，而 Ultra-HD Blu-rays 依赖于英特尔 DRM 功能。如果 AMD 没有相应的功能，那么 AMD CPU 将无法观看 Ultra-HD Blu-rays 视频。
+➜中国再次加强网络直播审查
+https://www.solidot.org/story?sid=57315	36726
+全国扫黄打非办联合网信办、工信部、公安部、文化和旅游部和广电总局<a href="http://www.bjnews.com.cn/news/2018/07/24/496494.html" target="_blank"><u>即将下发</u></a>《关于加强网络直播服务管理工作的通知》，加强网络直播的审查。这不是中国第一次<a href="https://www.solidot.org/story?sid=48875" target="_blank"><u>加强审查网络直播</u></a>。相比 2016 年，今天的网络直播火热程度有过之无不及。全国扫黄打非办还通报了净网 2018 专项行动的结果，称公安、工信、网信、文化、新闻出版、广电等单位分别对网络直播、短视频、“两微一端”、电商平台、网络游戏、网络文学等领域进行了集中整治，对约 30 个网络直播平台进行立案调查。
+➜中国在香港深圳关口安装面部识别系统
+https://www.solidot.org/story?sid=57316	38719
+中国在香港和深圳的两个通关口岸<a href="https://www.scmp.com/news/china/society/article/2156510/china-uses-facial-recognition-system-deter-tax-free-traders-hong" target="_blank"><u>安装了</u></a>面部识别系统以打击水货客。此举标志着面部识别系统在大陆边境检查站的大规模应用。水货客是指在香港购买免税商品然后带到大陆转售的人，大陆水货客涌入香港引发了两地的紧张关系，一些人抱怨他们抬高了商品的零售价格或导致部分商品短缺。海关总署称，面部识别系统安装在深圳港和罗湖口岸，表示这将会加速通关时间，因为旅客在验证文件之后只要走过去就行了，面部识别系统将会自动捕捉他们的脸部。如果发现疑似水货客，系统将会发出警告。
+➜研究人员公开新旁路漏洞 SpectreRSB
+https://www.solidot.org/story?sid=57317	45804
+加州大学河滨分校的研究人员发表<a href="https://arxiv.org/pdf/1807.07940.pdf" target="_blank"><u>论文</u></a>，<a href="https://www.bleepingcomputer.com/news/security/researchers-detail-new-cpu-side-channel-attack-named-spectrersb/" target="_blank"><u>公布了</u></a>命名为 SpectreRSB 的新 Spectre 漏洞。和已披露的其它 Spectre 漏洞类似，SpectreRSB 利用了预测执行功能——这是所有现代 CPU 都包含的功能，通过提前计算操作和抛弃不需要的数据来改进性能。与其它 Spectre 漏洞不同的是，SpectreRSB 利用了返回堆栈缓冲（Return Stack Buffer，RSB），能从预测执行中恢复数据。研究人员表示他们使用 SpectreRSB 恢复了其它进程的数据，甚至欺骗 RSB 泄露 SGX 的秘密。该攻击适用于英特尔、AMD 和 ARM 的处理器。
+➜在引入物理密钥后没有一名 Google 雇员被钓鱼
+https://www.solidot.org/story?sid=57318	46748
+安全博客 KrebsOnSecurity <a href="https://krebsonsecurity.com/2018/07/google-security-keys-neutered-employee-phishing/" target="_blank"><u>报道</u></a>，Google 从 2017 年初开始要求所有雇员使用物理密钥替代密码，此后该公司 8.5 万名雇员没有一位的工作相关帐户被成功钓鱼。物理安全密钥是基于廉价的 USB 设备，提供了双重认证（2FA）的一种替代方法。Google 发言人称，安全密钥是访问 Google 所有帐户的基础，自推行安全密钥以来，他们没有再接到账号遭到接管的报告。双重认证背后的基本思想是即使你的账号密码被盗，除非破解第二种认证方法，他们仍然无法登陆你的账号。
+➜索尼推出 4800 万像素的智能手机传感器
+https://www.solidot.org/story?sid=57319	47800
+索尼<a href="https://www.sony.co.jp/SonyInfo/News/Press/201807/18-060/index.html" target="_blank"><u>推出了</u></a>移动平台上分辨率最高的 CMOS 传感器 IMX586，有效分辨率 4800 万像素，它将于 9 月份上市，售价 9000 日元（约人民币 550 元）。提高分辨率缩小像素尺寸到 0.8 微米通常会导致低灵敏度和光收集。索尼利用名叫 Quad Bayer 阵列的智能技术，智能组合相邻像素，使得像素的有效尺寸达到 1.6 微米。像素尺寸越大，光捕获和低光性能越好。目前市场上最好的拍照手机之一是 Google Pixel 2，其相机像素尺寸为 1.4 微米。

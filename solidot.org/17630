@@ -1,0 +1,45 @@
+➜为什么癌症无处不在
+https://www.solidot.org/story?sid=56081	12234
+亚利桑那州立大学演化生物学家 Athena Aktipis 上周在哈佛自然历史博物馆做了“<a href="https://news.harvard.edu/gazette/story/2018/04/harvard-talk-envisions-path-to-containing-cancer/" target="_blank"><u>为什么癌症无处不在</u></a>”的演讲，演讲重点是癌细胞和健康细胞的关系，她认为癌细胞实际上是系统中的一种“作弊者”。癌症是细胞合作不可避免的副产品，人体内有 30 万亿个细胞互相合作并协调各自的基因表达，这远比人类社会中的合作要复杂得多。随着多细胞生物的演化和系统日益壮大，利用系统弱点的作弊细胞的出现是完全可能的。癌细胞能无限制的增殖，避免细胞死亡，垄断资源，将其它细胞的劳动占为己有，摧毁周围的环境。当癌细胞出现之后，细胞之间合作的规则就瓦解了。根据这个模型，你可能以为体型更大的生物会有更多的基因突变。但情况并非如此，因为当癌细胞演化去利用生物体的生态学，生物体本身也演化出抑制入侵的机制。以抑制肿瘤的基因 TP53 为例，大象就有 TP53 基因的多个拷贝去应付巨大体型。我们也具有多层检测细胞作弊者的防御系统。
+➜你猜不到谁给你发了消息
+https://www.solidot.org/story?sid=56082	13808
+你的朋友给你发了条短信， 但事后发现这条短信不是你朋友发的。这可能吗？安全研究人员Jordan Smith <a href="http://jordansmith.io/address-book-contact-security/" target="_blank"><u>称这是完全有可能的</u></a>，他已经将其发现报告给了苹果和 Google。攻击者所需要的是你安装了一个应用，这个应用获取了你的手机号码以及访问联系人列表，然后这些消息发送给攻击者，同时在联系人列表中添加了额外的号码。攻击者使用添加的号码给你发送了短信，其中包含了链接，如果你粗心大意，点击了链接，你就有可能被钓鱼了。Google 将该问题标记为“不可行”，而苹果则表示此类行为能在应用审查阶段发现。Google 的应用审查流程是自动化的，而苹果则是人工。
+➜AI 揭示刻板印象的演化
+https://www.solidot.org/story?sid=56084	16002
+研究人员<a href="http://www.sciencemag.org/news/2018/04/artificial-intelligence-reveals-how-us-stereotypes-about-women-and-minorities-have" target="_blank"><u>利用 AI</u></a> 去分析刻板印象的演化过程。研究人员设计了使用词嵌入 (word embeddings)的程序。通常，一串数字代表一个单词的意思，而这些单词的意思是基于文本中的周围其他单词所考量的。例如，如果人们倾向于把女性描述为情绪化的，那么 “情绪” 这个词语会比 “男人” 这个词汇更频繁地出现在 “女人” 的旁边，而文字的嵌入将会把它挑出来——“情绪”的嵌入将会比 “男人” 更加接近“女人”。而这便是对女性的一种偏见。通过对几十年来出版的英语文本进行分析，研究人员<a href="http://news.sciencenet.cn/htmlnews/2018/4/408394.shtm" target="_blank"><u>发现</u></a>，几十年来，与能力相关的词汇——比如 “足智多谋” 和“聪明”——正在慢慢变得不那么男性化。但是与外表有关的词语——比如 “迷人” 和“居家”——却依然没有太大的变化。在过去的几十年里，这些词汇的嵌入仍然明显与 “女性” 有关。
+➜欧洲电网解决了时钟变慢六分钟的问题
+https://www.solidot.org/story?sid=56085	17451
+上个月，欧洲输电运营商联盟（ENTSO-E）<a href="https://www.solidot.org/story?sid=55717" target="_blank"><u>透露</u></a>，由于巴尔干地区科索沃和塞尔维亚的能源战，欧洲的同步电网频率从 2018 年 1 月中旬起出现偏差，偏差最多达到了 6 分钟。因为很多时钟的时间测量是基于电网频率，频率过快时钟就会变快，过慢则时钟也会变慢。因此这一问题影响很广。科索沃和塞尔维亚的输电运营商随后宣布正重新平衡电网。上周，ENTSO-E 宣布通过在一个月内将电网频率略微调高到 50.01 Hz，它弥补了六分钟的时间偏差。<a href="https://arstechnica.com/tech-policy/2018/04/european-grid-dispute-resolved-lost-6-minutes-returned-to-oven-clocks/" target="_blank"><u>现在问题已经解决</u></a>。
+➜微软开源 Windows 文件管理器
+https://www.solidot.org/story?sid=56086	18936
+微软在 MIT 许可证下开源了 Windows 文件管理器 WinFile，<a href="https://github.com/Microsoft/winfile" target="_blank"><u>源代码</u></a>托管在 Github 上。<a href="https://en.wikipedia.org/wiki/File_Manager_(Windows)" target="_blank"><u>文件管理器</u></a>是 Windows 在 1990 年至 1999 年发布的产品中捆绑的文件管理器程序。它是一个单实例的图形界面，取代了 MS-DOS 的命令行界面来管理文件。尽管文件管理器包含在 Windows 95 和 Windows NT 4.0 及之后的一些版本中，Windows Explorer 被引入作为主要的文件管理器。微软开源的代码源自于 2007 年 11 月的  Windows NT 4 源码树，进行了一些修改能运行在现有版本的 Windows 上，包括最新的 Windows 10。
+➜估值最高的 AI 公司都在中国
+https://www.solidot.org/story?sid=56087	26930
+商汤科技以估值超过 30 亿美元从阿里巴巴等投资者获得了<a href="https://www.sensetime.com/news/668.html" target="_blank"><u> 6 亿美元 C 轮融资</u></a>，它如今是世界上<a href="https://www.bloomberg.com/news/articles/2018-04-09/sensetime-snags-alibaba-funding-at-a-record-3-billion-valuation?href=" target="_blank"><u>估值最高的 AI 创业公司</u></a>，其估值在数个月内翻了一倍。该公司的一个主要业务是面部识别，如果你曾走在中国城市的街道上或者使用中国制造的手机拍过照，那么有很大的可能性你的脸部被商汤科技的软件数字处理过。它正开发一个代号为 Viper 的服务能从数以千计的实时监控探头源解析数据——它希望这个平台能证明对大规模监控是无价的。商汤科技去年已经盈利，计划到今年年底雇员人数增长到 3000 人。公司联合创始人徐立声称其面部识别系统不影响隐私，因为只有得到授权的人才能访问它。除商汤科技外，旷视科技去年融资 4.6 亿美元，依图和码隆科技等规模较小的公司也都获得了投资。世界最大的监控探头制造商杭州海康威视数字则正在开发自己的 AI 技术。
+➜信用卡签名正成为过去
+https://www.solidot.org/story?sid=56088	27943
+销售经理 Doug Taylor 近十年来的信用卡收据签名都是摇尾巴狗的涂鸦。没有出纳员认为他的签名无效而予以拒绝。大多数情况下这个签名只是引发了笑声，或者干脆无视。信用卡公司如今也意识到了签名对于证明一个人的身份是没有用的。从本月晚些开始，四大信用卡公司——美国运通、Discover、Mastercard 和 Visa——<a href="https://www.nytimes.com/2018/04/08/business/credit-card-signatures.html" target="_blank"><u>将停止要求客户签名以完成交易</u></a>。信用卡签名正快速销声匿迹。但信用卡签名不会在一夜间消失，这个改变是可选的，零售商将决定何时停止收集签名。沃尔玛认为签名没有价值，该公司发言人表示尽快完全废除签名。
+➜社会信用系统的惩罚与奖励
+https://www.solidot.org/story?sid=56089	30248
+中国正雄心勃勃的尝试在 2020 年创建社会信用体系，根据行为给 14 亿人打分，奖励可信赖的人，惩罚失信人。<a href="http://foreignpolicy.com/2018/04/03/life-inside-chinas-social-credit-laboratory/" target="_blank"><u>Foreign Policy</u></a> 和 <a href="http://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4/?r=US&amp;IR=T/#3-banning-you-or-your-kids-from-the-best-schools-3" target="_blank"><u>Businessinsider</u></a>&nbsp; 分别发表文章探讨了社会信用系统的惩罚与奖励。官方数据显示， 900 万纳入失信黑名单的人被限制购买机票和高铁票；新京报<a href="http://www.bjnews.com.cn/news/2018/03/19/479533.html" target="_blank"><u>报道</u></a>称吉林市将 17 名拒服兵役者（他们是不适应军营生活而被退伍）纳入个人信用 “黑名单”并将限制出国、限制买房；福建福安市对两名拒服兵役者开出 的“罚单”包括处以一次性经济罚款 3 万元，个人户籍“服役栏” 备注 “拒服兵役” 永久字样，3 年内不得办理出国出境手续等处罚；低信用评分还将影响子女入学；高信用等分的人则能获得贷款等方面的许多优惠。
+➜青岛要求商户使用政府批准的路由器
+https://www.solidot.org/story?sid=56090	31655
+Theverge <a href="https://www.theverge.com/2018/4/5/17203806/china-chinese-qingdao-police-shops-restaurants-government-wifi-routers" target="_blank"><u>报道称</u></a>青岛警方要求辖区内商户安装政府批准的路由器，否则将面临最高 10 万元的罚款。青岛经济技术开发区公安分局下发的通知称，根据《中华人民共和国网络安全法》《中华人民共和国反恐怖主义法》《计算机信息网络国际联网安全保护管理办法》《互联网安全保护技术措施规定》等相关法律法规，提供互联网上网服务的场所必须安装互联网公共上网服务场所安全管理系统。警方将收取 100 元的押金，开放上网的 WIFI 每当有人接入网络那么店家将会每次得到 8 分的打赏。路由器由北京的<a href="http://wifi.bhuwifi.com/Product/urouter" target="_blank"><u> BHU 公司</u></a>提供，该公司品牌的路由器以前发现过多个严重漏洞。
+➜苹果亚马逊 Google 都将面临隐私监管
+https://www.solidot.org/story?sid=56091	38861
+我们<a href="https://www.wsj.com/articles/apple-amazon-and-google-also-are-bracing-for-privacy-regulations-1523188801" target="_blank"><u>最终认清这一事实</u></a>：我们不仅仅是 Facebook 和 Google 等公司的产品，还是它们的燃料。至少我们的数据是燃料。而几乎每周我们都能听到数据泄露、失窃或滥用的消息。美国和欧洲等地的居民都呼吁加强隐私监管。而苹果、亚马逊和微软这些关注较少的公司也将受到隐私监管的影响。在欧洲，数据保护和隐私监管法规  General Data Protection Regulation（GDPR）将于 5 月 25 日生效，GDPR 的违反者面临的罚款最高为公司全球收入的 4%，以 Facebook 在 2017 年的收入计算，相当于 16 亿美元。GDPR 规定覆盖了所有欧洲公民，不管他们生活在何地在何处旅行，这意味着使用地理位置屏蔽的方法无效。美国国会也提出了类似的法律叫 Stop Enabling Sex Traffickers Act。互联网巨头不受监管的时代一去不复返了。
+➜今日头条和凤凰新闻等 APP 被勒令下架
+https://www.solidot.org/story?sid=56092	40821
+官媒<a href="http://www.bjnews.com.cn/finance/2018/04/09/482425.html" target="_blank"><u>报道</u></a>，网信办要求各应用商店下架今日头条、凤凰新闻、网易新闻和天天快报，时间从最短 3 天到最长三周。由于 Google Play 被封，中国有很多第三方应用商店，不清楚网信办是否要求苹果也在短期内从官方应用商店下架这些应用。网信办的通知称，为依法规范传播秩序，各互联网应用商店暂停今日头条、凤凰新闻、网易新闻和天天快报四款移动应用程序的下载服务”。根据要求，将暂停 “今日头条” 下载服务 3 周，暂停 “凤凰新闻” 下载服务 2 周，暂停 “网易新闻” 下载服务 1 周，暂停 “天天快报” 下载服务 3 天，时间从 4 月 9 日 15 时起至 4 月 12 日 15 时止。
+➜中国严打视频应用
+https://www.solidot.org/story?sid=56093	41394
+在被 CCTV 指责宣传未成年人怀孕后，中国最热门的两个视频平台<a href="https://cn.nytimes.com/technology/20180409/china-censor-teen-moms/" target="_blank"><u>在应用商店中消失了</u></a>。随着中国政府对互联网的管控扩大，不仅包括被认定具有政治颠覆性的内容，不健康或色情内容也归入其中。这个时候的严打促使视频应用开发者迅速发表了自责声明。“平台上出现了不该有的内容，对社会造成了非常不好的影响，”快手公司首席执行官宿华在一则声明中写道。“十分感谢中央电视台等媒体对快手的批评，让我清醒地认识到自己的不足。”另一个应用——火山小视频背后的公司写道：“感谢央视的监督，火山小视频深感责任重大。”两款应用的开发者都表示他们将加强自己的视频审查机制。这些应用是否或何时能重回应用商店尚不清楚。快手和火山小视频母公司的发言人拒绝进一步置评。网络视频已经成为了中国科技公司的激烈战场。
+➜大陆加入香港美国对中资科技公司 IPO 的争夺战
+https://www.solidot.org/story?sid=56094	42410
+中国证监会在  3 月 30 日公布了试点计划，鼓励中资科技公司在上海和深圳，<a href="https://cn.reuters.com/article/cdepth-china-hk-us-tech-ipo-0409-idCNKBS1HG14A" target="_blank"><u>与香港和美国展开了竞争</u></a>。中国政府还计划允许百度、阿里巴巴、京东等公司在本土市场进行二次上市。中国希望越来越多的科技公司在国内上市，这样国内投资者能够从成功的上市交易中获益。投行人士指出，能从 IPO 热中分得多少要看中国如何实施中国存托凭证(CDR)规定。CDR 将使中国投资人得以购买已在海外挂牌的企业证券。CDR 预料将以人民币交易，在与中资股的美元计价美国存托凭证(ADR)、港元计价 H 股之间，可能形成套利机会。不同的交易机制也带来其他问题。中国内地股市每日股价有涨跌停板 10% 的限制，多数人预期这项规定也会适用于 CDR。
+➜Ruby 语言如何走过未来二十五年
+https://www.solidot.org/story?sid=56095	46411
+始于 1993 年的 Ruby 编程语言今年迎来了诞生 25 周年，但对于它是否能在未来 25 年里生存下来<a href="https://developers.slashdot.org/story/18/04/07/2022241/can-ruby-survive-another-25-years" target="_blank"><u>仍然存在疑问</u></a>。Ruby 的流行部分来自 Ruby on Rails（RoR）Web 应用框架的成功，但 RoR 不再是超级明星了，它面临激烈竞争，比如 JS 框架 Node.js 因为其回调函数能用更少的内存处理更多的链接而大为流行。为了提高性能，Ruby 引入了 JIT (Just-In-Time)技术。开发者现在可通过 Ruby 2.6 的预览版测试 JIT 编辑器的早期实现。Ruby 2.6 预计将在今年的圣诞节发布。Ruby 语言作者松本行弘称，Ruby 3.0 的目标是比 Ruby 2.0 快三倍，他将竭尽所能确保 Ruby 能在未来生存和兴旺下去。
+➜南极冰川水下部分在消融
+https://www.solidot.org/story?sid=56096	46808
+对于北极周边的冰层融化，科学家们早就有所警觉。相对而言，南极一直被看作是相对稳定的，因为其冰层融化速度看起来要慢一些，也没有那么规律。但一项新研究显示，实际上南极冰川正以极快的速度<a href="http://news.sciencenet.cn/htmlnews/2018/4/408317.shtm" target="_blank"><u>消退</u></a>。一直以来，判断冰川消退主要是通过从上方观察两极的冰川、冰架。然而如今人们得知，不仅冰川的水上部分在变小，水下部分也在消融。南极的部分冰层深达 2 公里。如果这些水下冰川融化，将构成真正的威胁。冰川实际上只有小部分位于海面上，大部分都隐藏在水下。

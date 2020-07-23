@@ -1,0 +1,61 @@
+➜英特尔修改微码授权协议移除禁止评测的条款
+https://www.solidot.org/story?sid=57687	10071
+英特尔最近释出了微码更新修复一个最新曝光的预测执行漏洞 L1 Terminal Fault(L1TF)，但在微码更新的用户授权协议中芯片巨人加入了禁止评测的条款。这一要求引发了广泛争议，知名 Linux 发行版 Debian 因为这一限制性的条款而<a href="https://www.solidot.org/story?sid=57673" target="_blank"><u>拒绝接受</u></a>其微码更新。英特尔的做法令人感到不可思议，在招致社区的批评之后它修改了<a href="https://01.org/mcu-path-license-2018" target="_blank"><u>授权协议</u></a>，<a href="https://www.theregister.co.uk/2018/08/23/intel_microcode_license/" target="_blank"><u>移除了</u></a>禁止评测的条款，用户现在允许评测最新补丁对英特尔处理器性能的影响。英特尔负责开源副总裁 Imad Sousou <a href="https://twitter.com/imadsousou/status/1032680311753072640" target="_blank"><u>称</u></a>，他们修改了授权简化了微码更新的分发。他说，作为开源社区的活跃成员，他们欢迎所有的反馈并对社区表示感谢。
+➜N.K. Jemisin 连续第三年摘下雨果最佳长篇
+https://www.solidot.org/story?sid=57688	11802
+黑人女作家 N. K. Jemisin 的《破碎星球》三部曲之大结局《<a href="https://en.wikipedia.org/wiki/The_Stone_Sky" target="_blank"><u>巨石苍穹</u></a>》连续第三年摘下雨果最佳长篇。该系列的前两部《第五季》和《方尖碑之门》分别赢得了 2016 年和 2017 年的雨果奖。这三部小说的中文版已经出版，已经<a href="https://en.wikipedia.org/wiki/The_Fifth_Season_(novel)#Reception" target="_blank"><u>售出</u></a>电视剧改编权。此前《巨石苍穹》还<a href="https://www.solidot.org/story?sid=56554" target="_blank"><u>赢得了星云奖</u></a>，她跻身于极少数连续赢得雨果奖以及同时获得雨果星云双奖的科幻作家行列。2018 年度的雨果奖<a href="http://www.thehugoawards.org/2018/08/2018-hugo-award-winners/" target="_blank"><u>获奖名单</u></a>包括：<i>
+最佳长篇小说：N.K. Jemisin 的《巨石苍穹》；<br>
+最佳中长篇小说：Martha Wells 的《<a href="https://en.wikipedia.org/wiki/All_Systems_Red" target="_blank"><u>All Systems Red</u></a>》；<br>
+最佳中短篇小说：Suzanne Palmer 的《<a href="http://clarkesworldmagazine.com/palmer_09_17/" target="_blank"><u>The Secret Life of Bots</u></a>》；<br>
+最佳短篇小说：Rebecca Roanhorse 的《<a href="https://www.apex-magazine.com/welcome-to-your-authentic-indian-experience/" target="_blank"><u>Welcome to your Authentic Indian Experience™</u></a>》：<br>
+新设的奖项最佳系列小说：Lois McMaster Bujold 的《World of the Five Gods》；<br>
+最佳幻想电视：《善地(The Good Place)》之《The Trolley Problem》 ；<br>
+最佳科幻电影：《神奇女侠》。</i>
+➜OpenBSD 停用英特尔处理器的超线程功能
+https://www.solidot.org/story?sid=57689	12762
+OpenBSD 创始人 Theo de Raadt 在邮件列表上<a href="https://marc.info/?l=openbsd-tech&amp;m=153504937925732&amp;w=2" target="_blank"><u>宣布</u></a> OpenBSD -current（6.4） 将停用英特尔处理器的超线程功能。他称，英特尔处理器最近爆出了两个硬件 bug：TLBleed 和 T1TF (aka Foreshadow)，修复漏洞需要更新微码，外加软件方面的权益方案，以及关闭超线程。因在两个 CPU 实例之间共享资源和缺乏安全保障，超线程在基础上就存在缺陷。他预计未来会爆出更多与超线程相关的 bug，所以他决定停用超线程并鼓励用户在机器的 BIOS 中关闭超线程。
+➜盗播热剧的越南网站要中国网民回答南海岛屿归属
+https://www.solidot.org/story?sid=57690	14493
+<div align="center"><img src="//img.solidot.org/0/630/li1B7PAICHI06.png" width="500" height="390" align=""><br>
+</div>
+<br>
+中国网民发现热门剧《延禧攻略》在越南视频网站的更新速度比中国网站还要快，因此纷纷转到越南网站先睹为快。有越南网站为此设置了<a href="http://bomtan.org/xac-minh-quoc-gia.html?rel=http%3A%2F%2Fbomtan.org%2F" target="_blank"><u>一份特别问卷</u></a>，针对 IP 地址在中国的观众，要求他们对南海主权<a href="https://www.bbc.com/zhongwen/simp/world-45286888" target="_blank"><u>作出表态</u></a>。观众必须要按照网站预设的答案选择“越南”才能获得片源，选择“中国”则无法继续观看视频。问卷包含三道选择题，全部是越南语。有中国网友称，自己跟着网上的一些攻略教程做选择题，一不小心，就把位于南中国海的西沙群岛和南沙群岛割给了越南。这三道题打头的就是：黄沙（西沙）群岛和长沙（南沙）群岛属于哪个国家？四个选项依次为：越南、中国、菲律宾和日本。另外两题分别是：越南的首都在哪里？越南的国歌是什么？大部分越南视频网站如今已经下架了《延禧攻略》。
+➜Waymo 在中国成立全资子公司
+https://www.solidot.org/story?sid=57691	18710
+Alphabet 旗下的自主驾驶公司 Waymo <a href="http://www.bjnews.com.cn/invest/2018/08/24/501024.html" target="_blank">已在中国上海设立</a>一家名为“惠摩商务咨询(上海)有限公司”的子公司。国家企业信用信息公示系统披露的信息显示，慧摩商务咨询(上海)有限公司 2018 年 5 月在上海自贸区注册，由 Waymo LLC 100% 持股，注册资本 350 万元人民币。其经营范围包括商务信息咨询，企业管理咨询，贸易信息咨询，供应链管理咨询，物流信息咨询，自动驾驶汽车部件及产品的设计、测试，提供相关配套服务。慧摩法定代表人 Kevin Bradley Vosen 为 Waymo 的法律顾问，董事 John Krafcik 是 Waymo 的首席执行官。Waymo 发言人已经证实了这家法律实体的存在，并称该公司已有员工在上海工作，但拒绝就有关计划进一步置评。
+➜网约车平台数据接入官方监管系统
+https://www.solidot.org/story?sid=57692	25870
+根据交通运输部今年初公布的《<a href="http://zizhan.mot.gov.cn/zfxxgk/bnssj/dlyss/201802/t20180226_2993762.html" target="_blank"><u>网络预约出租汽车监管信息交互平台运行管理办法</u></a>》，要求网约车平台数据必须接入官方监管系统，传输的数据包括基础静态信息以及订单信息、经营信息、定位信息、服务质量信息等运营数据，数据不得通过第三方平台或系统直接传输，在线保存期限不少于 6 个月。现在官媒<a href="http://companies.caixin.com/2018-08-23/101318148.html" target="_blank"><u>报道称</u></a>，49 家网约车平台数据接入了交通部的网约车监管信息交互平台。交通部称，7 月共收到完整订单信息共 1.07 亿单，订单量超过 1 万单的网约车平台共有 9 家。滴滴出行订单量最高超过 8000 万单。
+➜游戏审批冻结伤害中小企业
+https://www.solidot.org/story?sid=57693	27373
+由于游戏监管部门的重组，中国已经五个月时间没有批准任何游戏了。审批的冻结影响了整个游戏行业，巨头如腾讯虽然收入出现下降但并不严重，<a href="https://www.reuters.com/article/us-china-videogames/delayed-wages-lower-profits-chinese-gaming-firms-fret-as-approval-freeze-bites-idUSKCN1L82O4" target="_blank"><u>受到冲击最大的是中小企业</u></a>。上海游戏公司 iDreamSky Technology 的一名匿名雇员称，审批冻结影响到了下半年甚至明年的业务。在中国，一切都需要经过审批，而在西方你可以宅在妈妈的地下室，开发完游戏可以立即发布。一家小游戏工作室的创始人 Cang 称他已经推迟发薪水，使用自己的钱维持公司运营，他的目标是今年不要破产。Fuchun Technology 上月表示它上半年的利润预计下跌最高四分之三，因为它无法按照计划发行新游戏。今年 1 月到 3 月，中国批准了 1,982 款国内外游戏；之后因为重组审批全部停止，而去年中国批准了 9,651 款国内外和游戏。部分公司能通过“绿色通道”为新游戏获得一个月的临时许可，但行业人士称目前只有 10 款游戏获得临时许可。
+➜苹果证实订购了阿西莫夫的《基地》
+https://www.solidot.org/story?sid=57694	28996
+我们肯定能看到阿西莫夫的《基地》电视剧，苹果已经证实<a href="https://arstechnica.com/gaming/2018/08/apple-confirms-tv-series-order-of-asimovs-foundation/" target="_blank"><u>它订购了一整季</u></a>。电视剧由 Skydance Television 制作，执行制作人包括《蝙蝠侠侠影之谜》和《黑暗骑士》的编剧 David Goyer，《终结者外传》的创作人和《世界大战》的编剧 Josh Friedman，阿西莫夫的女儿 Robyn Asimov，甲骨文 CEO Larry Ellison 的儿子 David Ellison，此外还有 Dana Goldberg 和 Marcy Ross。《基地》系列最早发表于 1948 年，讲述了银河帝国横跨千年的兴衰史。这部作品启发了星球大战等许多科幻电影电视，许多人都尝试将其改编成影视剧。苹果可能在准备推出一个流媒体平台，与流媒体巨头 Netflix、Amazon 和 Hulu 直接竞争。
+➜非洲猪瘟疫情在中国扩散
+https://www.solidot.org/story?sid=57695	30004
+中国爆发非洲猪瘟，疫情已从首例非洲猪瘟<a href="https://cn.wsj.com/articles/CN-CEC-20180824102916" target="_blank"><u>发生所在地扩散</u></a>。非洲猪瘟是一种高传染性病毒，第四桩疫情证实后引发了有关明年猪肉供应短缺的担忧。农业农村部周四发布<a href="http://www.moa.gov.cn/gk/yjgl_1/yqfb/201808/t20180823_6156183.htm" target="_blank"><u>疫情公告</u></a>称，浙江温州乐清市三个养殖户的生猪发生疫情，经中国动物卫生与流行病学中心确诊，该起疫情为非洲猪瘟疫情。根据农业农村部网站上的公告，截至目前，该疫情造成 340 头生猪死亡。这轮非洲猪瘟疫情的爆发正值中国将美国进口猪肉关税提高至 70% 的高水平，美国是中国最大的海外猪肉供应国之一。分析师称，从长远来看，如果这轮疫情导致中国出现猪肉供应不足，可能会推高猪肉价格。中国是全球最大的猪肉生产国和消费国。
+➜Windows 95 变成 Electron 应用
+https://www.solidot.org/story?sid=57696	32854
+<div align="center"><img src="//img.solidot.org/0/631/liVSfbB61XGjQ.jpg" width="450" height="303" align=""><br>
+</div>
+<br>
+软件工程师 Felix Rieseberg 利用 HTML5 应用框架<a href="https://twitter.com/felixrieseberg/status/1032642127178547201" target="_blank"><u>发布了</u></a> Windows 95 的 Electron 应用，<a href="https://github.com/felixrieseberg/windows95" target="_blank"><u>项目</u></a>发布在 GitHub 上。你可以下载这个应用安装在 Windows、Linux 和 macOS 系统上，你甚至可以在这个应用里玩 DOS 游戏如 DOOM（不是新版） 。因为 Windows 95 受版权保护，开发者在其应用中没有捆绑镜像，而是提供了 Mega.nz 网站上的一个下载地址。
+➜研究认为任何程度的饮酒都是有害的
+https://www.solidot.org/story?sid=57697	41835
+<a href="http://www.healthdata.org/gbd" target="_blank">Global Burden of Disease</a> (GBD)在医学期刊《柳叶刀》上发表<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext" target="_blank"><u>研究报告</u></a>称，即使只是偶尔饮酒对健康也是有害的。报告建议政府应该考虑劝说人们完全戒酒。这项对酒精影响的研究报告称，酒精在 2016 年导致了 280 万例死亡，是 15 到 49 岁年龄组过早死亡和残疾的最主要风险因素，五分之一的死亡与酒精相关。50 岁以上死于癌症的女性有 27.1% 男性有 18.9% 与饮酒习惯相关。年轻人中间与饮酒相关的最大死因包括肺结核、交通事故和自我伤害。研究人员认为需要重新考虑酒精控制政策，对酒精销售加税和限制销售时间，控制酒精广告，认为这些政策有助于减少酒精使用相关的健康损失。
+➜研究称睡眠不足损失巨大
+https://www.solidot.org/story?sid=57698	42014
+兰德公司的研究人员<a href="https://cn.nytimes.com/health/20180824/sleep-productivity-economy/" target="_blank">发现</a>，睡眠不足导致美国每年经济损失超过 4000 亿美元，并造成每年损失 123 万个工作日。第二名日本每年因工人睡眠不足而损失 1380 亿美元。在发达国家，睡眠时间少于推荐时间的人数越来越多。劳动者中有 20% 到 30% 的人抱怨每天睡眠不足。“睡眠不足很容易被社会当做是生活的一部分，”研究睡眠不足的西澳大利亚大学临床教授希尔曼(David Hillman)博士说。在许多工作环境中，“睡眠是一种放纵。”在不太可量化的水平上，睡眠不足会降低工人的安全性和生产率。研究人员认为，“挑战者”航天飞机失事等事故都与因睡眠不足引起的人为错误有关。
+➜NSA 泄密者被判五年徒刑
+https://www.solidot.org/story?sid=57699	42625
+去年 6 月，The Intercept 根据泄漏的 NSA 机密文件<a href="https://www.solidot.org/story?sid=52655" target="_blank"><u>报道</u></a>，俄罗斯尝试在大选前入侵美国选举机构。NSA 称攻击发起者是俄罗斯总参谋部情报总局。这篇报道刚上线，美国司法部就宣布起诉一名 NSA 合同工 Reality Leigh Winner，指控她将保密材料发送给 The Intercept。泄密者身份暴露的原因是她使用了打印机打印了机密文件，而今天的许多打印机器含有几乎看不见的秘密指纹，可以轻而易举的跟踪到个人。本周，这位 NSA 泄密者<a href="https://arstechnica.com/tech-policy/2018/08/nsa-leaker-who-mailed-doc-outlining-russian-hacking-gets-5-years-in-prison/" target="_blank"><u>被判了五年徒刑</u></a>。
+➜为什么你会昏昏欲睡
+https://www.solidot.org/story?sid=57700	45979
+2016 年 11 月，日本科学家在《自然》期刊上<a href="https://www.nature.com/articles/nature20142" target="_blank">报告</a>发现了一只总是昏昏欲睡的小鼠。这只小鼠携带了变异的 Sik3 基因，其睡眠时间比普通小鼠长 30%，远在普通小鼠睡觉前它就开始打盹了。现在，日本筑波大学的一个研究小组检查了睡眠剥夺小鼠和携带 Sik3 变异基因小鼠的脑化学，在 80 个蛋白质的状态上识别出与睡眠良好的普通小鼠存在区别的差异。研究人员<a href="https://www.quantamagazine.org/snipp-proteins-may-point-to-why-we-get-sleepy-20180821/" target="_blank"><u>认为</u></a>，这项发现有助于在分子层面更好的理解我们为什么要睡眠以及为什么会昏昏欲睡。<a href="https://www.nature.com/articles/s41586-018-0218-8" target="_blank"><u>研究报告</u></a>发表在本周的《自然》期刊上。论文的合作者 Qinghua Liu 教授最近加盟了北京的生命科学研究所。
+➜千名西澳大利亚公务员用 password123 作为密码
+https://www.solidot.org/story?sid=57701	47439
+<div align="center"><img src="//img.solidot.org/0/632/liAvLunVlBK9g.jpg" width="400" height="218" align=""><br>
+</div>
+<br>
+西澳大利亚州的审计长公布了该州的<a href="https://audit.wa.gov.au/wp-content/uploads/2018/08/report2018_14-IS-GCC-App-Pass.pdf" target="_blank"><u>安全审计报告</u></a>（PDF），<a href="https://www.washingtonpost.com/technology/2018/08/22/western-australian-government-officials-used-password-their-password-cool-cool/?noredirect=on&amp;utm_term=.35a50a8a3340" target="_blank"><u>发现</u></a> 26% 的政府公务员使用了弱密码，而且是非常容易猜出都不用多试的弱密码。在 17 个政府机构的 234,000 名工作人员中，有超过 5000 人的密码包含 password， 1464 人的密码是 Password123，813 人的密码是 password1，1.3 万使用了日期和季节的组合，近 7 千人的密码包含 123。强密码通常混合了字母、数字和符号，不容易记忆，而弱密码虽然容易记忆，但显然会是严重的安全隐患。负责任的方法是使用一个能记住但复杂的强密码。

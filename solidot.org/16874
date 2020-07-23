@@ -1,0 +1,48 @@
+➜GNU项目发布Gneural Network神经网络软件包
+https://www.solidot.org/story?sid=47472	12813
+GNU项目<a target="_blank" href="http://www.gnu.org/software/gneuralnetwork/"><u>发布了</u></a>神经网络软件包Gneural Network，一个重要动机是避免人工智能方面的计算机软件被大企业所垄断。 Google的AlphaGo和IBM的Watson展示了运用人工智能所取得的非凡成就，但GNU开发者认为只有大企业和实验室能访问这些技术代表着一种危险，因为垄断会放慢科技的进步。开发者Jean Michel Sellier因此在GPL许可证下开发了Gneural Network，目前版本还是v0.0.1。当然人工智能领域有很多<a target="_blank" href="http://developers.slashdot.org/comments.pl?sid=8873363&amp;cid=51689403"><u>开源的软件包</u></a>，其中包括AlphaGo使用的软件，如<a href="http://caffe.berkeleyvision.org/" title="berkeleyvision.org">Caffe</a>、<a href="http://deeplearning.net/software/theano/" title="deeplearning.net">Theano</a>、<a href="http://torch.ch/" title="torch.ch">Torch</a> 、<a href="https://www.tensorflow.org/" title="tensorflow.org">TensorFlow</a>、<a href="https://github.com/Microsoft/CNTK" title="github.com">CNTK</a>，等等。
+➜加拿大议员 David Graham是一位资深的Debian用户
+https://www.solidot.org/story?sid=47473	14807
+2015年当选的加拿大自由党议员David Graham是一位资深Debian用户和自由软件支持者，在Debian圈子里他被称为cdlu（困惑的Debian用户），他在最近的一个政府会议上<a target="_blank" href="http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/David-Graham-Provides-Glimpse-into-FOSS-in-Canada-s-Government"><u>询问了多个与政府使用开源软件相关的问题</u></a>。他提出的技术问题让议会同仁开玩笑的说需要翻译。David Graham询问了政府的数万台服务器有多少使用了开源软件，有没有考虑过从闭源软件迁移到开源软件。加拿大服务共享局的Patrice Rondeau回答，有大约15%运行的是Linux，其余是 Windows和Unix系统，其中包括HP-UX、Solaris和IBM AIX，政府仍然在很大程度上依赖于大型机和基于RISC的环境。Graham其它的问题与PGP签名和 IPv6支持有关。
+➜YouTube向Adblock Plus用户展示出错信息
+https://www.solidot.org/story?sid=47474	16075
+部分Adblock Plus用户报告在浏览YouTube视频时<a target="_blank" href="http://venturebeat.com/2016/03/13/youtube-shows-adblock-plus-users-an-error-message-instead-of-ads/"><u>看到了出错信息</u></a>（An error occurred. Please try again later），出错信息只在广告展示时显示。测试显示问题可能只影响安装Adblock Plus的Chrome/Google账号用户。避免出错的权宜之计是在<a href="https://www.google.com/settings/ads">Google Ads设置</a>中去掉任何一项勾选。这一事件被认为是广告商和用户之间有关屏蔽广告的最新一次交锋。Google是最大的网络广告商。
+➜Linux Kernel 2.6.32终止支持
+https://www.solidot.org/story?sid=47475	18602
+历史最悠久的Linux kernel长期支持版Linux Kernel 2.6.32于3月1日发布了最后一个版本<a target="_blank" href="https://cdn.kernel.org/pub/linux/kernel/v2.6/longterm/v2.6.32/ChangeLog-2.6.32.71"><u>2.6.32.71</u></a>，正式终止支持。维护者Willy Tarreau建议用户升级到更新的版本如3.2 LTS或4.4 LTS。Kernel 2.6最早是在2003年发布的，2.6.32则是在2009年发布，<a target="_blank" href="https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?id=refs/tags/v2.6.32.71"><u>2.6.32.71</u></a>是最后一个版本（EOL）。
+➜小型手机公司面临倒闭潮
+https://www.solidot.org/story?sid=47476	18947
+竞争越来越激烈的中国Android智能手机市场中，<a target="_blank" href="http://www.nanzao.com/sc/national/1536a2d6764548c/shou-ji-si-ju-tou-zhan-nei-di-jin-ban-shi-chang-xiao-gong-si-fen-fen-dao-bi"><u>较小的公司正以惊人的速度倒闭</u></a>。两年前，中国有大约500个智能手机品牌，但现在数字降为接近100。研究公司艾瑞咨询分析师林仁翔预测：“不久的将​​来，这个行业将巩固少数几个大公司的地位。”研究公司IDC的数据显示，4家销量最好的中国公司——华为、小米、Oppo和Vivo——去年占据了国内智能手机市场的45%，比2014年上升了10%。中国智能手机市场发展放缓也让小公司的机会变少。研究公司IDC说，中国正在转变为成熟市场，智能手机年出货量去年仅增长了1.2%，而2014年增速为20%。
+➜所有的研究论文是否应该免费公开？
+https://www.solidot.org/story?sid=47477	25640
+一位据信躲在俄罗斯的哈萨克斯坦研究生<a target="_blank" href="https://twitter.com/ringo_ring"><u>Alexandra Elbakyan</u></a>成为了开放获取运动的明星，她创办的<a target="_blank" href="https://sci-hub.io/"><u>Sci-Hub</u></a>自称是第一家大规模盗版论文的网站，至今已泄漏了数千万篇论文。科学期刊出版业是一个价值百亿美元的暴利行业，去年的总收入有100亿美元，最主要的几大出版商 <a href="https://www.elsevier.com/">Elsevier</a>、<a href="http://taylorandfrancis.com/">Taylor &amp; Francis</a>、<a href="http://www.springerpub.com/">Springer</a>和 <a href="http://www.wiley.com/WileyCDA/">Wiley</a>的利润率一般超过30%。出版商认为这一收入是正当的，争辩称他们通过筛选最有价值的论文起到了科研的管理者角色。Elsevier起诉了Elbakyan女士，但法庭命令无法在俄罗斯强制执行。Elbakyan接受采访时表示她的动机有两方面：一方面她需要论文做研究，另一方面她认为期刊的付费墙阻碍了信息的自由流通。她的行为让人想起了自杀身亡的Aaron Swartz，他因为下载而不是分享论文面临漫长的监禁，这一威胁最终导致了他的自杀。对于Elsevier的起诉，Elbakyan女士回应称，期刊既没有支付研究人员的研究，也没有支付同行评审者的薪水。她表示除非整个学术出版的系统发生改变，<a target="_blank" href="http://www.nytimes.com/2016/03/13/opinion/sunday/should-all-research-papers-be-free.html">她会继续传播盗版的论文</a>。
+➜中国军方建立自己的DARPA
+https://www.solidot.org/story?sid=47478	27880
+中国军方模仿美国国防部高级研究计划署（DARPA）<a target="_blank" href="http://www.sciencemag.org/news/2016/03/china-create-its-own-darpa"><u>成立自己的先进技术研发机构</u></a>。Hudson研究院的军事政治分析中心主任Richard Weitz对于中国是否能像DARPA那样取得成功持保留意见。DARPA最著名的成就是互联网，他认为DARPA的成功是基于美国对言论自由的保护之上，而中国的一个巨大优势可能是通过网络间谍行动窃取到先进的技术。中国成立了一个叫军委科技委的机构去管理国防科研。中国今年的国防预算为1470亿美元，但具体的国防科研拨款是国家机密。
+➜Linux Kernel 4.5发布
+https://www.solidot.org/story?sid=47479	30724
+Linus Torvalds在邮件列表上<a target="_blank" href="https://lkml.org/lkml/2016/3/14/50"><u>宣布</u></a>发布Linux Kernel 4.5。4.5的<a target="_blank" href="http://kernelnewbies.org/Linux_4.5"><u>主要新特性</u></a>包括：新的系统调用<a target="_blank" href="https://lwn.net/Articles/659523/"><u>copy_file_range(2)</u></a>，避免数据从内核传输到用户空间然后再传回内核的开销；实验性支持 AMD CPU和APU的动态电源管理Powerplay；改进Btrfs文件系统的自由空间可伸缩性处理；支持GCC的调试工具Undefined Behavior Sanitizer；device-mapper的verity对象支持转发纠错；等等。详细可浏览<a target="_blank" href="http://kernelnewbies.org/Linux_4.5"><u>kernelnewbies.org</u></a>。
+➜数学家发现素数的一个分布规律
+https://www.solidot.org/story?sid=47480	32952
+斯坦福大学的两位数学家在arXiv.org上<a target="_blank" href="http://arxiv.org/abs/1603.03720"><u>发表论文</u></a>，宣称发现了素数的一个分布规律。素数是只能被1及其自身整除的数，它的分布至今没有观察到规律，但<a href="http://math.stanford.edu/%7Eksound/">Kannan Soundararajan</a>和 <a href="http://web.stanford.edu/%7Erjlo/">Robert Lemke Oliver</a>对前10亿个素数的分析<a target="_blank" href="http://www.quantamagazine.org/20160313-mathematicians-discover-prime-conspiracy/"><u>发现</u></a>，一个尾数为9的素数有约65%的概率更可能紧跟着一个尾数为1的素数而不是另一个尾数为9的素数。这项发现挑战了素数是随机分布的传统观点。绝大多数数学家认为，下一个素数尾数为1，3，7，9的机会应该是均等的。
+➜苏联瓦解或能解释全球甲烷排放的神秘趋势
+https://www.solidot.org/story?sid=47481	35404
+从牛放屁到工厂排放，大气层中的甲烷有很多来源。自工业时代以来，甲烷浓度快速稳定的增长，从 1750年的 700 ppb(十亿分之一)增加到了2015年的超过1800 ppb。然而，从1999年到2006年之间，增长趋势停止了。新西兰的研究人员分析了 1984 年到2015年之间全球各检测站的甲烷浓度数据，检查了南极冰核记录的甲烷数据，进行建模后得出了一个结论：<a target="_blank" href="http://www.sciencemag.org/news/2016/03/soviet-collapse-might-explain-mysterious-trend-global-methane-emissions"><u>甲烷排放停滞可以用苏联瓦解解释</u></a>。他们的数据显示，1992年之后甲烷浓度急剧下降，可能与苏联解体后化石燃料生产的崩溃有关。2006年之后甲烷排放再次攀升则可能与中国、印度和东南亚地区增加使用化石燃料有关。
+➜蚊子的扩散增加全球传染病爆发风险
+https://www.solidot.org/story?sid=47482	35982
+Zika病毒在美洲迅速蔓延引发全球关注，但专家警告称，在全球大范围传播的蚊媒传染病越来越多，<a target="_blank" href="http://cn.reuters.com/article/health-zika-mosquito-spread-idCNKCS0WG0EN"><u>Zika不过是其中一种</u></a>。从华盛顿特区到斯特拉斯堡，外来蚊子如今愈发常见，这挑战了这些蚊媒传染病只在热带地区出现的看法。讽刺的是，人类为外来蚊子铺好了红地毯：全球运输活动将蚊子带到各地，城市的遍地垃圾为蚊子提供完美温床。传播Zika的埃及伊蚊在汽车轮胎、罐头、狗碗和墓地的花瓶中繁殖。雌性埃及伊蚊传播疾病的本事可谓一流，它们为了从人类血液中得到产卵所需的蛋白质，会连续叮几次。携带疾病的蚊子在全球迅速扩散，将登革热、Zika以及许多其他疾病带到欧洲及太平洋各地。
+➜《硅谷》创作者认为硅谷创业公司的估值太疯狂
+https://www.solidot.org/story?sid=47483	40950
+在HBO喜剧片《硅谷》第一季中，搜索巨人Hooli的自大狂CEO向初创公司Pied Piper（研究压缩算法）的CEO Richard Hendricks提出了1000万美元的收购提议。而在剧本创作早期，这个金额要高得多。《硅谷》创作者 Mike Judge在上周的SXSW上回忆说，他们认为没人会出1亿美元，所以将金额降低到1000万美元。<a target="_blank" href="http://arstechnica.com/the-multiverse/2016/03/cast-of-hbos-silicon-valley-discuss-the-real-tech-region-at-swsw/#p3"><u>结果在电视剧播出期间他们被打脸了</u></a>：Snapchat拒绝了50亿到60亿美元的收购报价。Judge说，科技界在电视剧播出期间变得越来越疯狂。他们就Pied Piper询问了VC，结果VC们告诉他们硅谷中的任何人会立即掏出1000万美元甚至更多。硅谷创业公司的真实故事给创作剧情的编剧们带来了如何保持观众对电视剧兴趣以及如何制作一部出色电视剧的问题。<br>
+➜ESA发射火星探测器ExoMars
+https://www.solidot.org/story?sid=47484	42079
+3月14日 09:31 GMT，ESA的火星探测器<a target="_blank" href="http://www.esa.int/Our_Activities/Space_Science/ExoMars"><u>ExoMars</u></a>从哈萨克斯坦拜科努尔发射场使用质子号火箭<a target="_blank" href="http://www.bbc.com/news/science-environment-35799792"><u>发射升空</u></a>。ExoMars设计探测火星大气是否存在甲烷，探测器由两部份组成：卫星Trace Gas Orbiter(TGO)和着陆器Schiaparelli ，Schiaparelli 计划在10月19日着陆火星的Schiaparelli陨石坑，着陆器和陨石坑都是以意大利天文学家 Schiaparelli的名字命名。卫星将在火星轨道上长期运行，但着陆器将会在电池耗尽后停止工作。
+➜ISP能看见什么？
+https://www.solidot.org/story?sid=47485	43503
+Upturn发表了一份报告分析了<a target="_blank" href="https://www.teamupturn.com/reports/2016/what-isps-can-see"><u>与用户关系最紧密的网络服务商（ISP）对用户的网络行为了解多少</u></a>。研究人员发现：距离网站普遍采用加密还有很长的路要走，绝大网站没有启用加密，而Top 50网站中超过85%没有默认启用加密；即使启用了HTTPS，ISP还是能看到用户访问的域名，用户计算机的域名解析默认是使用ISP的DNS服务器，而DNS解析没有考虑加密；加密流量可以通过旁路攻击揭示其内容，不需要破解，ISP可以通过分析加密数据包的大小、时序等特征识别用户的内容；VPN普及度不高，而且同样存在信任问题——你的信任对象从ISP转向了VPN服务商。
+➜针对藏民的间谍行动策略变化
+https://www.solidot.org/story?sid=47486	45670
+<div align="center"><img src="http://img.solidot.org/0/428/ligfB2JIKtugU.png" align="" width="500" height="328"><br>
+</div>
+<br>
+加拿大多伦多大学公民实验室上周<a target="_blank" href="https://citizenlab.org/2016/03/shifting-tactics/"><u>发表了一份报告</u></a>，分析了过去几年针对藏民社区的间谍行动的一个策略变化。藏民社区长期以来一直是间谍行动的攻击目标，这些攻击使用的策略主要是诱骗用户点击恶意附件或链接，一项调查发现基于文档的恶意程序是最常见的攻击媒介。藏民社区也知道了这一模式，努力说服用户改变用户行为，不要发送或打开附件，使用基于云端的存储方案（Google Drive）发送文件。用户行为改变了，攻击者也跟着改变了。攻击者开始利用钓鱼邮件去窃取用户的登录凭证，安全研究人员报告了针对藏民和维民的<a target="_blank" href="http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/"><u>Scarlet Mimic</u></a>攻击。

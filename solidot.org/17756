@@ -1,0 +1,45 @@
+➜Linux 4.18 kernel 发布
+https://www.solidot.org/story?sid=57542	12174
+Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2018/8/12/103" target="_blank"><u>宣布释出 Linux 4.18</u></a>，同时宣布 4.19 的合并窗口开启。4.18 kernel 的主要特性包括：<a href="https://lwn.net/Articles/755593/" target="_blank">非特权文件系统挂载</a>，<a href="https://lwn.net/Articles/737662/" target="_blank">可重起序列</a>，新的<a href="https://lwn.net/Articles/754681/" target="_blank">零拷贝 TCP 接收 API</a>，支持电源域的<a href="https://lwn.net/Articles/744047/" target="_blank">活动状态管理</a>，高性能网络的 <a href="https://lwn.net/Articles/750845/" target="_blank">AF_XDP 机制</a>，核心 <a href="https://lwn.net/Articles/747551/" target="_blank">bpfilter </a>包过滤器实现，改进新 AMDGPU 支持，合并针对 ARM 架构的 Spectre V4 修正；支持基于 VIA IP 的中国兆芯 x86 CPU；支持高通 Snapdragon 845 SoC；更多文件系统改进、驱动和硬件支持，等等。更多可查看 <a href="https://kernelnewbies.org/Linux_4.18" target="_blank">KernelNewbies 4.18</a>。
+➜Palm 的新 Android 手机屏幕只有 3.3 英寸
+https://www.solidot.org/story?sid=57543	13861
+Palm 准备推出的第一款 Android 手机可能是 2018 年<a href="https://www.androidpolice.com/2018/08/09/exclusive-palms-new-android-phone-tiny-3-3-screen-800mah-battery/" target="_blank"><u>最怪异的智能手机</u></a>。这部手机代号 Pepito，在今天大屏手机无处不在的时代，它配备了一个 3.3 英寸 720p LCD 显示屏，它很可能是今年发售的最小 Android 手机之一。除了屏幕小外，它的电池也只有 800mAh，续航力可能维持不了一天。它采用了高通的  Snapdragon 435 处理器，3GB 内存，32GB 存储空间，运行 Android 8.1，可选钛色和金色，没有耳机插孔。这部别出心裁的小巧手机是否可能在今年大放异彩？只有时间知道。
+➜NASA 成功发射探日探测器 Parker Solar Probe
+https://www.solidot.org/story?sid=57544	14424
+联合发射联盟（ULA）的德尔塔 4 号重型火箭于 8 月 12 日美国东部时间 3:31 在卡纳维拉尔角空军基地<a href="https://www.nasaspaceflight.com/2018/08/parker-solar-probe-unlock-mysteries-suns-corona/" target="_blank"><u>成功发射了</u></a> NASA 的太阳探测器 Parker Solar Probe。探测器的名字是为了纪念天体物理学家 Eugene Parker 博士。探测器的主要任务是近距离对太阳进行观测，它将是有史以来最靠近太阳的探测器。Parker Solar Probe 始于 1990 年代的 Outer Planet/Solar Probe 项目，2003 年哥伦比亚航天飞机事故后小布什政府对 NASA 进行了重组，取消了原项目。2009 年，项目重新复活，原计划 2015 年发射，但在 2012 年发射日期推迟到 2018 年。探测器最初被称为 Solar Probe Plus，2017 年改名为 Parker Solar Probe，以纪念在太阳观测上作出突出贡献的，Eugene Parker 博士，这是 NASA 首次以在世人物的名字命名探测器。为了在太阳的高温下生存下来，探测器使用了特制的隔热屏障和冷却系统保护科学仪器和飞船。探测器在最接近太阳时将面临 1,377℃ 的高温。
+➜PETA 抨击使用人造肉的汉堡
+https://www.solidot.org/story?sid=57545	18513
+素肉汉堡制造商 Impossible Foods 使用 188 只小鼠测试了它的人造肉的安全性，说服 FDA 其素肉汉堡的关键原料是安全的食物添加剂。在测试之后它杀死了小鼠。结果这一做法<a href="https://arstechnica.com/science/2018/08/peta-roasts-impossible-burger-for-rat-tests-suggests-patties-cause-cancer/" target="_blank"><u>却惹恼了</u></a>善待动物组织 PETA。PETA 认为在测试汉堡后并没有必要伤害或杀死动物。为了损坏其名誉，它甚至暗示说，素肉汉堡可能会增加消费者罹患癌症的风险。Impossible Foods <a href="https://medium.com/impossible-foods/setting-the-record-straight-how-peta-extremists-are-undermining-their-own-mission-d1b96187f14" target="_blank"><u>回击了 PETA</u></a>，认为其说法是恶意的，诽谤的，错误的和虚假的。它说如果消费者选择素肉汉堡，将能拯救数百万头牛的生命。
+➜调查称手机应用过多索要摄像头和话筒权限
+https://www.solidot.org/story?sid=57546	19316
+DCCI 互联网数据研究中心联合腾讯社会研究中心发布《网络隐私安全及网络欺诈行为研究分析报告(2018年上半年)》。《报告》<a href="http://www.bjnews.com.cn/finance/2018/08/12/499214.html" target="_blank"><u>显示</u></a>，目前几乎所有手机应用都在获取用户隐私信息，其中非法使用摄影头和话筒成为隐私泄露的重灾区。《报告》共选取了 869 个 Android 手机应用程序，275 个 iOS 手机应用程序，对三类隐私权限的获取情况进行分析，其中核心隐私权限包括获取位置信息、读取手机号、读取短信记录、通话记录等；重要隐私权限包括打开摄像头、使用话筒录音、发送短信、发送彩信、拨打电话等；普通隐私权限则包括打开 WiFi 开关、打开蓝牙开关、获取设备信息等、打开数据网络等。
+➜腾讯运营的《怪物猎人世界》刚上线就下架
+https://www.solidot.org/story?sid=57547	25709
+与政府关系良好的互联网巨头腾讯遭遇了一次挫败：它旗下的 WeGame 数字平台大力推广和运营的《怪物猎人世界》刚刚上线四天就被迫下架。腾讯 WeGame 发表<a href="https://wegame.com/store/game_detail/2000293?top_class=3&amp;nav_type=2&amp;from=store-index.game_list&amp;unionsite=wegamesite%3A-%3Ajump%3A-&amp;t=1534143081280" target="_blank"><u>声明称</u></a>，由于部分内容未符合政策法规要求，相关政府管理部门接到大量举报，游戏相应运营资质文件现已取消，应主管部门要求，现执行下架整改，停止游戏售卖。《怪物猎人世界》被认为是 WeGame 平台发行的第一款 3A 级游戏，对其意义重大，但它的突然死亡凸显了在中国运营游戏的困境。游戏尽管早已进入主流文化，但在中国仍然受到很多限制，游戏机也只是在几年前才解禁，通过审批的游戏仍然少之又少。腾讯声称下架的一个原因是大量举报，很多人<a href="https://weibo.com/6068787464/GtTxOtJkK?type=repost" target="_blank"><u>怀疑</u></a>是竞争对手所为，不太可能是玩家会去举报游戏。
+➜黑客利用友讯路由器漏洞改变 DNS 设置诱骗用户访问假的银行网站
+https://www.solidot.org/story?sid=57548	26140
+黑客<a href="https://arstechnica.com/information-technology/2018/08/in-the-wild-router-exploit-sends-unwitting-users-to-fake-banking-site/#p3" target="_blank"><u>正在利用</u></a>友讯路由器漏洞的改变 DNS 设置诱骗用户访问假的银行网站窃取登录凭证。受影响的路由器型号是过去两年没有打上补丁的 DLink DSL-2740R、DSL-2640B、DSL-2780B、DSL-2730B 和 DSL-526B。除非有自动更新，大部分路由器用户不太可能会手动更新固件。路由器的漏洞允许攻击者远程修改 DNS 域名解析服务器的设置。安全公司  Radware 发现，当巴西用户尝试访问两家银行网站——Banco de Brasil 的 www.bb.com.br 和 Unibanco 的 www.itau.com.br—— 时会被重定向到恶意网站。解决这个问题其实很简单，用户需要确保路由器安装最新固件或使用信任的 DNS 服务器。
+➜DNC 的律师通过 Twitter 向 Wikileaks 发去传票
+https://www.solidot.org/story?sid=57549	27435
+代表美国民主党全国委员会（DNC ）的律师事务所通过 Twitter 向 Wikileaks <a href="https://twitter.com/ProcessServiceC/status/1027960972504457217?ref_src=twsrc%5Etfw" target="_blank"><u>发去传票</u></a>，正式通知<a href="https://techcrunch.com/2018/08/12/the-dncs-lawyers-subpoena-wikileaks-with-a-tweet/" target="_blank"><u>它被起诉了</u></a>。DNC 指控 Wikileaks、特朗普的竞选团队和俄罗斯政府等组织和个人共同合作让 2016 年的美国大选对特朗普有利。在通过电子邮件联络没有任何结果之后，DNC 上个月递交动议请求通过  Twitter 发去传票，理由是 Wikileaks 的 Twitter 账号非常活跃，它在 4 月发的一个帖子证实该组织知道诉讼。通过  Twitter 发送法庭文件已有过先例。
+➜研究人员披露英特尔处理器新漏洞
+https://www.solidot.org/story?sid=57550	29383
+德国 Saarland 大学的两名研究人员公布论文《<a href="https://christian-rossow.de/publications/ret2spec-ccs2018.pdf" target="_blank"><u>ret2spec: Speculative Execution Using Return Stack Buffers</u></a>》（PDF），<a href="https://it.slashdot.org/story/18/08/11/0121252/researchers-disclose-new-inverse-spectre-attack" target="_blank"><u>披露</u></a>英特尔处理器的新漏洞“逆 spectre 攻击”，允许攻击者未经授权读取数据。漏洞是名叫“运行时优化返回地址”的 CPU 预测导致的。如果攻击者能操纵这一预测，他将能控制预测执行编程代码，通过旁路读取本应该禁止访问的数据。比如一个恶意网页能访问和拷贝重要数据如密码。研究人员称，他们在五月份通知了厂商，90 天的保密期已过，所以他们现在公开了论文。研究人员表示，ARM 和 AMD 的处理器可能也受到该漏洞的影响。
+➜Google 借力中国合作伙伴为在华扩张铺路
+https://www.solidot.org/story?sid=57551	33043
+虽然 Google 的服务如搜索引擎和 Gmail 都被屏蔽了，但对许多中国科技公司来说，Google 无处不在。它们使用 Google 的开源移动操作系统 Android，利用 Google 提供的 AI 工具 TensorFlow 开发应用，购买 Google 的广告拓展海外客户。Google 与这些企业的合作关系<a href="https://www.wsj.com/articles/google-woos-partners-for-potential-china-expansion-1534071600?mod=hp_lead_pos4" target="_blank"><u>为它在中国扩张铺平了道路</u></a>（付费墙）。通过与中国本土公司的合作，Google 可以说它帮助提振了中国的经济。它向京东投资了 5.5 亿美元，投资了触手和满帮集团。公司 CEO Sundar Pichai 多次访问中国，与中国最高层的官员会面，鼓励中国企业使用它的开源工具如 TensorFlow 和 Android。Sundar Pichai 还出席了中国的年度互联网大会，称开源软件如 Android 促进了创新。Google 中国区雇员的人数也从之前的 500 人增加到了 700 多人，并创办了一个 AI 研究实验室。中国手机厂商虽然在出售给中国的手机上没有预装 Google 的应用，但它们在海外出售的手机上预装了此类应用。根据 Counterpoint Research 的估计，通过移动广告和应用销售分成，中国合作伙伴制造的手机每年为该公司带来了 100 亿美元的收入。
+➜中国鼓励女性多生孩子
+https://www.solidot.org/story?sid=57552	37885
+几十年来，中国严格限制女性生孩子的数量。<a href="https://cn.nytimes.com/china/20180813/china-one-child-policy-birthrate/" target="_blank"><u>现在则开始鼓励她们多生</u></a>。但进展并不顺利。在放宽独生子女政策，允许生二胎近三年后，政府开始承认提高出生率的努力不太成功，因为父母不愿意多要孩子。官方报纸《人民日报》在一篇社论里表示，“说白了，生娃不只是家庭自己的事，也是国家大事”，结果在网上引发了广泛的批评和争论。国家健康卫生委员会在一份声明中表示，去年春天在北京举行的人大会议上提出了结束二孩政策的计划，其他措施目前似乎也正在考虑中。专家们表示，政府除了鼓励生育，没有其他选择。中国是世界上人口最多的国家，拥有超过14亿人口，目前它正在经历快速老龄化，日渐萎缩的劳动力规模难以支撑越来越长寿且日益增长的老龄人口。据报道，一些省份已经出现了养老金支付困难。
+➜Google 的审查版搜索引擎违反了 ACM 的道德规范
+https://www.solidot.org/story?sid=57553	42538
+Google 计划推出的审查版搜索引擎在公司内外引发了争议和批评，前高管称<a href="https://theintercept.com/2018/08/10/google-censorship-plan-is-not-right-and-stupid-says-former-google-head-of-free-expression/" target="_blank"><u>此举愚蠢</u></a>。The Conversation 的一篇<a href="https://theconversation.com/googles-censored-chinese-search-engine-a-catalogue-of-ethical-violations-101046" target="_blank"><u>评论</u></a>认为 Google 此举违反了美国计算机协会（ACM）的道德规范。Google 的雇员有很多是 ACM 成员，部分成员可能参与了  Project Dragonfly。根据 ACM 最近更新的<a href="https://www.acm.org/code-of-ethics" target="_blank">道德规范</a>，科技发展的首要目的应该服务于公众利益，促进人权和保护公民的自主权。毫无疑问开发审查版搜索引擎违反了这一原则。另一条道德规范要求计算机从业人员应该采取行动避免创造压制人民的系统或技术。参与 Project Dragonfly 的雇员显然违反了这一原则。
+➜土耳其宣布起诉导致土耳其里拉贬值的社交媒体账号
+https://www.solidot.org/story?sid=57554	43211
+土耳其的货币里拉过去几周出现了大幅贬值，今年内的累积跌幅超过 40%。然而总统埃尔多安（Recep Tayyip Erdogan）依旧坚称该国经济仍然强劲，货币未来会停留在最合理的水平。土耳其内政部宣布将对数百个社交媒体账号<a href="https://abcnews.go.com/International/wireStory/latest-turkey-sues-social-media-accounts-turmoil-57148069" target="_blank"><u>采取法律行动</u></a>，称这些社交媒体账号助长了货币的贬值。这 346 个账号发表了美元兑换率相关的内容。伊斯坦布尔检察官办公室表示它已经启动调查那些所作所为威胁到经济稳定的人。土耳其资本市场委员会对传播“谎言、虚假或误导性信息、新闻或分析”的人发出了类似的警告。
+➜美国讨论是否应该动用轰炸机扔炸弹灭森林大火
+https://www.solidot.org/story?sid=57555	45690
+今年夏天，为了消灭森林大火，瑞典空军向着火地点扔下了一枚激光制导炸弹，以类似吹生日蜡烛的方式灭火。炸弹产生的冲击波灭掉了撞击点 100 码范围内的火焰。美国目前面临更严重的森林火灾，因此有人提议<a href="https://news.slashdot.org/story/18/08/12/1848246/should-the-us-air-force-bomb-forest-fires" target="_blank"><u>采用类似的方法灭火</u></a>，不过提议使用的不是战斗机而战略轰炸机 B1。F 15 武器系统军官 Mike Benitez 提议使用携带最多 84 枚炸弹的 B1 去灭火。B1 装弹量大，航程远，可以在空中长时间盘旋，等待地面的消防人员寻找出最佳的灭火之法。B1 不会携带传统的炸弹，而是为消防设计的专门炸弹，能比传统的高爆炸弹产生更强的冲击波。<br>
+➜法国主题公园训练乌鸦捡垃圾
+https://www.solidot.org/story?sid=57556	47191
+法国历史主题公园 Puy du Fou 的园长 Nicolas de Villiers <a href="https://www.theguardian.com/world/2018/aug/11/rook-at-this-mess-french-park-trains-crows-to-pick-up-litter" target="_blank"><u>宣布</u></a>将从本周开始使用六只训练过乌鸦捡烟头和垃圾。此举除了清理环境外，也希望游客能注意保持环境整洁。乌鸦以聪明著称，Villiers 称，在恰当的条件下它们能与人类进行交流，通过游戏建立关系。乌鸦被鼓励使用一个小盒子收集公园里的小型垃圾，每当它们收集到烟头和垃圾，它们会得到食物的奖励。

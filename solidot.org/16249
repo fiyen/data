@@ -1,0 +1,17 @@
+➜Google推出JavaScript的Dart编辑器Chrome Dev Editor
+https://www.solidot.org/story?sid=40120	12755
+<a href="mailto:tidelgl@163.com">unbug</a> 写道 <i>"Google在I/O大会上推出了Chrome平台上的JavaScript的Dart编辑器<a target="_blank" href="https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg "><u>Chrome Dev Editor(CDE)</u></a>，CDE基于Dart编写而成，使用今年I/O大会主推的Web组件平台Polymer，支持Git和移动端开发调试。目前已经将预览版放到放到了Chroem web store上供下载安装。"</i>
+➜韩国讨论到2020年拥抱开源操作系统
+https://www.solidot.org/story?sid=40121	35296
+微软在2014年4月终止了对Windows XP的支持，到2020年它将终止另一个流行操作系统Windows 7的支持。韩国政府正在讨论对特定软件的依赖问题，解决方法之一是<a target="_blank" href="http://english.etnews.com/computing/2963926_1301.html"><u>拥抱开源操作系统</u></a>。韩国科技、信息通信和未来规划部在6月25日主办了“Open Source Software Invigoration Policy Debate”会议，讨论了切换到开源操作系统、开源软件和最小化破坏的计划。政府计划用基于HTML5的技术替代Active X——韩国网民使用IE的一个重要原因是Active X；公共机构发布的文档将支持不同的文档格式，包括 hwp和PDF；从明年开始选择10个公共和私有机构试运行开源操作系统项目；2018年开始逐步用开源软件替代商业私有软件。<br>
+➜μg项目：Google Mobile Services开源替代
+https://www.solidot.org/story?sid=40122	52340
+Google的Android系统<a target="_blank" href="http://www.solidot.org/story?sid=38297"><u>由两部分构成</u></a>：第一部分是Android Open Source Platform
+(AOSP)代码；第二部分是闭源的Google
+Mobile Services (GMS)，包括了API和Play Store应用。Google正将越来越多的核心功能迁移到私有的GMS，使用开源的AOSP将难以获得完整的Android使用体验。即将强大如亚马逊，它开发的替代API在吸引应用开发者使用上远远落在Google后面。GMS有私有替代（如亚马逊），至今还无人开发开源替换。现在，名叫的<a target="_blank" href="https://github.com/microg"><u>μg项目</u></a>试图填上这一空缺，开发者试图开发出GMS完整的开源兼容性替代。
+➜研究称酗酒占美国成人死因的十分之一
+https://www.solidot.org/story?sid=40123	55655
+<div align="center"><img src="http://img.solidot.com.cn/0/330/limn7vQqbSLmw.png" align="" height="380" width="380"><br>
+<br>
+</div>
+根据美国疾病预防控制中心的<a target="_blank" href="http://www.cdc.gov/pcd/issues/2014/13_0293.htm"><u>报告</u></a>，酗酒占到了2006至2010年间美国工作年龄（22-64岁）<a target="_blank" href="http://www.npr.org/blogs/health/2014/06/26/325489951/excessive-drinking-causes-10-percent-of-deaths-in-working-adults"><u>成年人死因的9.8%</u></a>。酗酒成为了第四大可预防的死因。研究称，成年人早逝每年给美国造成了2240亿美元的损失。研究人员调查了与酒精相关的疾病和事故，发现每年有87798例成人死亡的原因可归于酒精，死者中有约四分之三是男性，男性通常喝得更多酒后驾驶也更频繁。在新墨西哥州，酒精占到了22-64年龄段死因的16.4%；而在马里兰州，这一比例是7.5%。

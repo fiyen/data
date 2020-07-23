@@ -1,0 +1,12 @@
+➜PUBG 开发商起诉网易
+https://www.solidot.org/story?sid=56058	45755
+《绝地求生（PUBG）》开发商 Bluehole 的全资子公司 PUBG Corp 向北加州地区法院<a href="https://arstechnica.com/gaming/2018/04/pubg-creators-finally-decide-a-copycat-game-has-gone-too-far-file-suit/" target="_blank"><u>起诉</u></a>中国公司网易，指控网易的两款手游《荒野行动(Rules of Survival)》和《Knives Out》侵犯了它的版权和商标。《绝地求生》是去年的现象级游戏，在中国非常受欢迎，中国的游戏开发商随后迅速推出了游戏模式相似的手游，在手游版 PUBG 上市前抢占了市场，网易和腾讯等公司都这么做了，其中网易的《荒野行动》和《终结者》可能棋高一着，而腾讯最终获得了 PUBG PC 版的中国发行权和手游版的全球发行权。PUBG Corp 的起诉始于向苹果的投诉，它在今年 1 月 24 日向苹果投诉了 iOS 版本的网易吃鸡手游，苹果将其转给网易，网易之后发表声明否认它的两款手游侵犯了 PUBG Corp 的版权。起诉书列举了两款手游和 PUBG 之间的相似性，包括地图结构上的相似，都使用平底锅作为武器和装甲，相同的狙击枪托腮板，以及相同的口号“今晚吃鸡”。PUBG Corp 要求法庭封杀网易这两款游戏。
+➜《System Shock》开源
+https://www.solidot.org/story?sid=56059	50490
+著名赛博朋克游戏《System Shock》在 GPLv3 许可证下<a href="https://github.com/NightDiveStudios/shockmac" target="_blank"><u>开源</u></a>，源代码托管在 GitHub 上。源代码包括了三部分：游戏代码， Mac 特定代码以及游戏开发商 Looking Glass 的游戏共享库。源代码不包括任何游戏数据，游戏数据仍然受到版权保护。《System Shock》由 Looking Glass 开发，1994 年发售，被认为开创了应变式游戏的新类型，进入了多个游戏名人堂排行榜，但 Looking Glass 没有赚到钱，续作《System Shock 2》被外包给 Irrational Games 开发。
+➜银河系中心发现 12 个小黑洞
+https://www.solidot.org/story?sid=56060	53401
+根据发表在《自然》期刊上的<a href="http://nature.com/articles/doi:10.1038/nature25029" target="_blank"><u>一项研究</u></a>，银河系中心超大质量黑洞可能被 12 个小黑洞<a href="http://www.bbc.co.uk/news/science-environment-43648152" target="_blank"><u>环绕着</u></a>。哥伦比亚的 Charles Hailey 和同事使用 NASA 钱德拉 X 射线太空望远镜的存档数据，发现了 12 个不活跃的低质量黑洞“双星系统”。银河系超大质量黑洞人马座 A 星有一个气体尘埃晕圈，为大质量恒星提供了完美的诞生地，这些恒星在这里生存、死亡或转变成黑洞。晕圈外围的黑洞都受到了人马座 A 星的牵制，其中一些与路过的恒星结合在一起形成了黑洞恒星双星系统。研究人员从钱德拉的数据里寻找低质量黑洞双星系统的 X 射线信号，在人马座 A 星三光年距离内发现了 12 个候选黑洞。
+➜微软修改开源代码，结果给 Windows Defender 加入了漏洞
+https://www.solidot.org/story?sid=56061	55258
+微软<a href="https://www.theregister.co.uk/2018/04/04/microsoft_windows_defender_rar_bug/" target="_blank"><u>释出了</u></a>最新版的 Microsoft Malware Protection Engine (1.1.14700.5)，修复了 Windows Defender 的一个远程代码执行漏洞。漏洞编号 <a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-0986" target="_blank"><u>CVE-2018-0986</u></a>，是 Google 的安全研究员 Halvar Flake <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1543&amp;desc=2" target="_blank"><u>首先发现和报告的</u></a>。该漏洞与解压 .rar 文档有关，Flake 对漏洞的追溯跟踪到了旧版本的开源解压工具 unrar，微软看起来是创建了 unrar 的一个分支，将其整合到自己的杀毒引擎中。在此过程中，微软修改了所有的符号整数变量，变成了未符号的变量，引发了数学比较相关的连锁问题，导致了一个能被恶意 .rar 文档利用的内存损坏错误，能使杀毒软件崩溃或允许恶意代码使用杀毒软件的 LocalSystem 权限完全控制计算机。

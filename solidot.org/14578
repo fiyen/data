@@ -1,0 +1,78 @@
+➜为何窒息感会让人恐慌
+https://www.solidot.org/story?sid=14924	60
+如果吸入过量二氧化碳(CO<sub>2</sub>)，人便会窒息。但为何当呼吸的空气中富含CO<sub>2</sub>时，人们会开始恐慌？一项针对老鼠的新研究发现，人们恐慌的原因是，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1125/3">吸入CO<sub>2</sub>的会触发大脑恐惧神经回路中关键部分的化学传感器</a>。<i>
+Iowa大学的神经科学家John Wemmie和同事研究一种在杏仁核中十分丰富的蛋白质，杏仁核是大脑掌控恐惧的中心。先前的研究显示，如果老鼠缺少产生此种蛋白质的基因(ASIC1a)，其恐惧行为会受到影响。新的研究显示，与正常老鼠相比，缺乏ASIC1a基因的老鼠在容器内充满CO<sub>2</sub>时不会停止脚步——通常在感到恐惧时动物会发生僵住不动的情况。随后研究人员给老鼠注入包含ASIC1a基因的病毒后，其反应开始与正常老鼠类似。在另外的试验中，他们发现吸入CO<sub>2</sub>会略微降低正常老鼠杏仁核的pH值，并引发电流产生，但缺乏ASIC1a基因的老鼠的神经元中没有观察到类似的电信号。研究人员向正常老鼠注射碳酸氢钠——防止杏仁核pH值下降的中和物质。结果显示，老鼠对CO<sub>2</sub>的僵住反应减少。综上所述，Wemmie认为，吸入CO<sub>2</sub>会增加提高杏仁酸的浓度，从而激活SIC1a，改变杏仁核神经元的电信号，产生出恐惧反应。CO<sub>2</sub>还会增加了鼠和人类的呼吸频率，因此也可能加重恐惧感。</i>
+➜Google取消Gizmo5 Linux客户端
+https://www.solidot.org/story?sid=14925	1200
+Google本月初收购了VoIP公司Gizmo5。然而很快Linux用户就在论坛<a href="http://forum.gizmo5.com/viewtopic.php?t=10593&amp;sid=70d6e4ae6730bad6b5a383666e501e2b">反映</a>他们<a href="http://linux.slashdot.org/story/09/11/28/2332254/Google-Eliminates-Gizmo5-Client-For-Linux">无法下载Linux版客户端</a>，官方<a href="http://www.gizmo5.com/pc/download/linux">下载页</a>虽然提供了Windows、Mac、Linux客户端，但只有前两者能下载，Linux下载链接已经失效（有人发现<a href="http://download.gizmo5.com/jasmine/">另一地址</a>还可下载Linux客户端）。在Google正忙于开发基于linux的操作系统Chrome OS之时，Google却在其它方面显示出对linux商业潜力的信心不足。
+➜国内最大feed托管网站Feedsky出故障
+https://www.solidot.org/story?sid=14926	1920
+<a href="http://www.6-friends.cn/">老友记中国站</a> 写道<i> "<a href="http://www.feedsky.com/">feedsky</a>国内最大feed托管商出现故障，网站无法登陆。所有使用feedsky托管服务的博客，均无法显示正常的统计数图标。之前是Google的FeedBurner服务曾被封，现在轮到feedsky？还是其他什么原因？"</i>
+➜UFO黑客McKinnon将被引渡到美国
+https://www.solidot.org/story?sid=14927	5040
+在英国内政大臣拒绝了阻止计算机黑客Gary McKinnon被引渡到美国的最后尝试之后，McKinnon的亲属声称他患有<a href="http://zh.wikipedia.org/zh-cn/%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%97%87%E5%80%99%E7%BE%A4">Asperger综合征</a>，这种病会给患者带来严重的自杀风险。他的律师称引渡“几乎肯定”<a href="http://yro.slashdot.org/story/09/11/26/2129212/Hacker-McKinnon-To-Be-Extradited-To-US">会让这位43岁的计算机黑客死亡</a>。Gary McKinnon被控入侵了美国军方和NASA的计算机系统，非法闯入97台计算机（寻找UFO），迫使美国政府花了超过70万美元修复故障。
+➜G-WAN：另一个免费Web Server
+https://www.solidot.org/story?sid=14928	7920
+在Apache、Nginx、LightTPD、IIS/ASP之外，还有很多免费Web Server可作为替代。<a href="http://www.gwan.com/">G-WAN</a>便是其中之一，它的大小只有100KB，使用C脚本实时执行，脚本速度与静态网页一样快。作者声称多数程序员是用C编程：<a href="http://www.theregister.co.uk/2009/01/21/open_source_projects_08/print.html">在18万个开源项目中</a>，有47%是用C，28%用Java，11%用PHP。目前开发者只释出了Windows版，但认为G-WAN在Linux和Solaris上的运行速度将更快（主要是根据Apache测试得出，在同一台机器上 Apache在Linux上的速度是XP的3.5倍）。
+➜黑色星期五PayPal交易量创纪录
+https://www.solidot.org/story?sid=14929	9360
+eBay旗下的PayPal部门<a href="https://www.thepaypalblog.com/2009/11/black-friday-data-is-here-online-shopping-activity-increases/">报告</a>，黑色星期五PayPal的交易量<a href="http://news.slashdot.org/story/09/11/29/1327211/Record-Breaking-Black-Friday-For-eBays-PayPal">比去年增加了20%</a>（此处的<a href="http://zh.wikipedia.org/wiki/%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94_(%E8%B4%AD%E7%89%A9)">黑色星期五</a>指感恩节之后的第一天，标志着圣诞采购季节的开始）。PayPal没有透露交易总量，但该公司的Payflow Gateway系统处理四分之一的电子交易，其直接交易额占所有电子贸易的12%。从网络零售商和线下零售商的数据显示，美国消费者的消费支出比2008年陷入经济衰退时要多。
+➜气候门：大量数据早已销毁
+https://www.solidot.org/story?sid=14930	10320
+luckytws 写道<i> "University of East Anglia(UEA)的科学家承认，许多用于制作预测模型的原始气候数据<a href="http://www.timesonline.co.uk/tol/news/environment/article6936328.ece">在1980年代已被销毁</a>。这表明其他学者不可能检验关于过去150年来的气温上升现象。UEA的气候研究中心(CRU)在搬家时为了节省空间，销毁了从世界各地气象站搜集到的原始数据。这些数据的载体是纸张和磁带。在先前被黑客泄露的email中，CRU主任Phil Jones曾讨论过如何阻止暖化理论质疑者拜访这些数据。数据被销毁时他还不是中心主任。根据这些数据做出的预测是IPCC关于温室气体和气温关系的主要证据。"</i>
+Phil Jones辩解称，他们的全球气候研究与NASA和美国国家气候数据中心等进行的相关研究<a href="http://science.slashdot.org/story/09/11/30/0152244/Where-the-Global-Warming-Data-Is?art_pos=1">是完全独立的</a>，CRU的成果可以忽视，但同样的（全球变暖）结论也能从NASA等的数据中显示出来，全球变暖的事实是不言自明的。Real Climate的一篇文章列举了<a href="http://www.realclimate.org/index.php/data-sources/">关于气候的大量原始数据连接</a>。
+➜电脑游戏帮助再现犯罪现场
+https://www.solidot.org/story?sid=14931	18300
+未来，真正的犯罪调查团队将使用电脑游戏，<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-1212920091127">帮助真实再现犯罪现场</a>。<i>
+北卡州立大学近期收到美国国家科学基金会（NSF）重点项目“电脑技术的发现与创新”140万美元资金，协助其设立一项基金，促进刑侦领域更大范围的合作，这个平台被称为<a href="http://www.mgt.ncsu.edu/index-exp.php/research/entry/ic-crime-interdisciplinary-cyber-enabled-crime-reconstruction-through-innov/">IC-CRIME</a>（即通过创新方法，利用跨学科知识及电脑技术，再现犯罪现场）。北卡州立大学营销创新管理学教授蒙托亚（<a href="http://www.mgt.ncsu.edu/index-exp.php/directory/dossier/mitzi-montoya/">Mitzi Montoya</a>）博士表示：“尽管刑侦技术已有多项重大进步，但问题是这些年来，调查团队的写作方式并未发生变化。”IC-CRIME平台将使用最新的3D激光扫描技术，依靠Unity游戏引擎技术运行，后者为50多种犯罪游戏提供支持，譬如《Fall Fusion》及《VooDude》。计算机技术副教授及严肃游戏专家Michael Young表示，简单的游戏界面还能允许用户为犯罪假设创建脚本及真实场景，刑侦人员及陪审团可以在游戏世界中分享各自的犯罪假设。</i>
+➜因有人下载侵权内容，提供WiFi的酒馆被罚8千英镑
+https://www.solidot.org/story?sid=14932	20160
+The Cloud总经理Graham Cove透露，因有人透过开放的WiFi热点下载侵权内容，<a href="http://www.zdnet.com.tw/news/comm/0,2000085675,20143076,00.htm">提供免费WiFi服务的酒馆被罚8千英镑</a>。Cove认为此案是英国的首例。他拒绝透露酒馆名称。
+关于开放WiFi网络和供应者的法律责任，至今并无定论。<i>
+Sheffield法学院网络法教授Lilian Edwards表示，依据现行的版权法，提供开放Wi-Fi热点给顾客的商家，理论上不需对实际使用者的非法下载行为负责。法律事务所Faegre &amp; Benson认为，“在公共和企业场所，免费或收费提供给公众成员上网的Wi-Fi热点，属于公共通讯服务。”根据今年4月生效的英国数据保留规章（Data Retention Regulations），公共通讯服务供应者必须保存其网络过去12个月的通讯纪录。这些数据包括使用者身份、使用日期和时间，和其前往的线上目的地。但依据数据保护法，通讯内容的留存，必须得到使用者同意。</i>
+➜iPod告诉我们世界经济的运行
+https://www.solidot.org/story?sid=14933	24300
+《每日电讯报》的经济栏目编辑以“苹果设计、中国制造”的iPod为例<a href="http://apple.slashdot.org/story/09/11/28/1619239/What-the-iPod-Tells-Us-About-the-World-Economy">讲解了世界经济的运行</a>，解释<a href="http://blogs.telegraph.co.uk/finance/edmundconway/100002310/what-the-ipod-tells-us-about-britains-economic-future/">为什么贸易顺差其实并不十分重要</a>。<i>
+以2006年的30GB iPod视频版本为例，它在美国的零售价为299美元，其中中国组装厂商的出口价是150美元（去除制造成本，实际每台利润仅为4美元），顾客支付的钱大头是给了美国，而不是中国。苹果拿走80美元，零售和发行费用75美元，iPod最昂贵的部件如硬盘和显示屏由日本制造商生产，他们获得26美元.....<br>
+首先从国家方面看：iPod有来自全球的供应商，但最大的利润给了发明该产品的苹果，苹果是一家美国公司，美国雇员和股东分享这笔收入。苹果让产品设计、软件开发、产品管理、营销和其它高价值部分都留在美国。<br>
+其次从创新方面看，关键和重要部件的制造商获得了该产品的第二大收益，iPod的硬盘和显示屏制造商都来自日本，这些公司在技术创新领域都是领先者。<br>
+第三贸易统计数字是有误导性的：每台以299美元在美国零售的iPod让美国对中国的贸易逆差增加150美元，然而组装该产品的中国实际上只挣到一点点钱。当然这并不意味着中美之间的贸易逆差不是值得严重关切的问题，但这表明，需要有更多的数据去理解赤字对每个国家的意义。</i>
+➜澳大利亚住宅面积全球最大
+https://www.solidot.org/story?sid=14934	26400
+根据澳大利亚联邦银行的一份<a href="http://www.abc.net.au/news/stories/2009/11/30/2757168.htm">报告</a>，澳大利亚已经取代美国，<a href="http://cn.reuters.com/article/CNTravelNews/idCNCHINA-1224420091130?mlt_click=Tertiary+Navigation+CN_36_Static+module+_sec1-priCon-m0_News">成为全球住宅平均面积最大的国家</a>。
+<i>
+联邦银行的下属机构CommSec进行的调查报告显示，过去十年内，澳大利亚住宅平均面积增加10%，达到214.6平方米，几乎为英国房屋平均面积的三倍。而美国三季度开建的新房平均面积则从212平方米降至201.5。在欧洲地区，丹麦房屋面积最大，平均地板面积为137平方米，希腊紧随其后，面积为126平方米，第三是荷兰，为115.5平方米。但CommSec发布的澳大利亚统计局数据显示，在澳大利亚房屋面积在不断扩大的同时，每家人数也在增多。每户住宅中的平均人数由2.51人增至2.56人，这是澳洲至少100年内首次出现此类上升。</i>
+➜中国关闭221个地图网站
+https://www.solidot.org/story?sid=14935	27900
+人民网报道：<i>国家测绘局透露，自2008年以来开展的互联网地图和地理信息服务违法违规行为专项整治工作收效显著，到目前为止，全国共搜索和检查互联网地图服务网站41670个，发现存在问题的网站3686个，问题网站中存在政治问题的网站831个，涉嫌泄露国家秘密的网站37个，存在其他问题的网站2818个，累计下发书面整改通知书947份，整改网站1031个，<a href="http://gov.people.com.cn/GB/46737/10468316.html">关闭网站221个</a>。整改和关闭的理由主要是国家机密，还有一个奇怪的理由是损害消费者利益。不知道地图如何去损害消费者利益？前几天《纽约时报》上有一篇报道，称义务的地图编辑正在以类似维基百科的方式，通力协作，<a href="http://www.nytimes.com/2009/11/17/technology/internet/17maps.html?_r=1&amp;scp=5&amp;sq=Google%20maps&amp;st=cse">创造出更精确的数字地图</a>。</i>
+➜Last.fm背后的技术
+https://www.solidot.org/story?sid=14936	29760
+CNET<a href="http://crave.cnet.co.uk/digitalmusic/0,39029432,49304380,00.htm">采访</a>了流行网络电台<a href="http://www.last.fm/">Last.fm</a>的<a href="http://tech.slashdot.org/story/09/11/30/0336221/The-Technology-Behind-Lastfm">Web开发主管Matthew Ogle</a>。Last.fm称全世界网友收听的网络音乐总长度已达到了275,000年，几秒钟内便有数千首音乐源源不断的流出。<i>
+Matthew Ogle透露：所有的音频都是通过位于伦敦的服务器直接流向用户，最热门的歌曲都储存在SSD上，因此能更快的响应用户的请求；流服务器运行的是Linux和开源分布式文件系统MogileFS；自2003年启用scrobbling（歌曲记录）之后，共纪录到350亿首歌曲，转化成年份的话是275,000年；他们为每首歌向艺术家和唱片公司付费....</i>
+➜澳大利亚科学家研究减少羊打嗝
+https://www.solidot.org/story?sid=14937	32160
+澳大利亚科学家正在研究新品种的羊，<a href="http://www.physorg.com/news178722388.html">特点是打嗝较少</a>，因此能减少有害的甲烷温室气体排放。澳大利亚温室气体排放量的12%来自农业，其中的70%则要归罪于反刍牲畜的打嗝。
+<i>
+科学家正在测量羊的甲烷排放量，在羊吃过食物后，他们将它们赶到一间特定的房间，计算从嘴里喷出的甲烷量。研究人员希望能找到产生最少甲烷的羊之间的遗传纽带，然后培育出低甲烷排放的羊品种。迄今检测过的200只羊中，约有一半产生的甲烷远超平均水平，而另一半则少得多。研究人员称，牛和羊之间产生甲烷量的最大单一因素是它们的食量。但即使将食量考虑在内，动物之间的个体差异仍然很大。澳大利亚有大约8000万头羊，如果它们能在未来10年内减少10%或15%的甲烷排放量，那么这将对生态系统产生长远影响。</i>
+➜用压缩空气大炮打海盗
+https://www.solidot.org/story?sid=14938	35100
+公海海盗猖獗，安全产品和军用武器制造商也提出了许多对付海盗的高科技设备。<i>
+<a href="http://bcbint.com/">BCB International</a>正在向面临海盗攻击的商业船只推销<a href="http://tech.slashdot.org/story/09/11/30/0225234/Air-Cannon-Ties-Pirates-In-Knots">一种舰载发射系统</a>，用压缩的空气发射塑料圆筒，其中包含有网或绳索，距离最远可以达到400米。发射出去的网或绳索会让海盗船的螺旋桨被缠住，无法行进。BCB International的海运销售主管Jonathan Delf称，他们在测试中花了45分钟才割掉和清理掉螺旋桨上缠绕的障碍物。这段时间完全可以让目标商船远离海盗，或获得国际海军以及直升机的援助。</i>
+<a href="http://www.youtube.com/watch?v=Ag1GGoBidtk">视频</a>（Youtube）
+➜Google和微软相争，用户并未得利
+https://www.solidot.org/story?sid=14939	39360
+《新闻周刊》<a href="http://www.newsweek.com/id/224597">认为</a>，Google和微软的鹬蚌相争虽然目前看不出谁输谁赢，<a href="http://search.slashdot.org/story/09/11/29/1435250/Google-Microsoft-Crossfire-Will-Hit-Consumers">但用户却属失败一方</a>。<i>
+一方面，微软和新闻集团的默多克正在商讨合作事宜，微软付费，购买的是新闻集团下属网站包括《华尔街日报》从Google索引中删除内容，微软此举是用钱购买搜索引擎的市场份额；另一方面Google正在开发Chrome OS，意图抢占低成本上网本市场，但最终目的是染指桌面操作系统。也许很多人会认为竞争对消费者是有益的。对，也不对。微软统治的世界是有缺陷的，但Google统治的世界未必更好。Google免费提供服务的一切目的是为了广告，它需要更多的人在互联网上，并展示更多的广告。因此虽然Chrome OS上网本可能很便宜，但用户必须做好应对广告轰炸或支付额外费用，以躲避广告的准备。苹果已经申请了一项专利，要强迫用户观看广告。让人悲伤的事实是Google和微软之间的竞争不是创造出更好的产品，而是为了伤害对方。Google想要颠覆微软的操作系统业务，而微软则想着破坏Google的搜索业务，它们好像是一对争抢玩具的顽童。</i>
+➜LHC创造高能粒子新纪录
+https://www.solidot.org/story?sid=14940	40800
+欧洲粒子物理研究所（CERN）周一报道，大强子对撞机（LHC）已成为<a href="http://press.web.cern.ch/press/PressReleases/Releases2009/PR18.09E.html">世界上最高能量的粒子加速器</a>。<i>
+在今天凌晨的数小时内它的一对质子束被加速到1.18 TeV，超过了费米实验室于2001年创造的0.98 TeV世界纪录。11月23日，LHC首次进行了粒子对撞，但粒子的能量只有450 GeV（未加速）。29日晚上，LHC开始加速注入的质子束。21:48，质子束1从450 GeV加速到1050 GeV，3个小时后的00:44，这两个质子束都成功加速到1.18 TeV。CERN计划在2010年第一季度实现7 TeV能级的粒子对撞。</i>
+➜中国高速公路新标志牌的字体
+https://www.solidot.org/story?sid=14942	41700
+这个月中国交通运输部开始<a href="http://news.xinhuanet.com/society/2009-11/19/content_12487998.htm">大面积的更换高速公路的命名方法</a>，由原来的中文名称更换为字母＋数字的形式，大量标志牌也随之更换。<a href="http://ucdchina.com/snap/5338">UCDChina</a>发现新的标志牌采用了新的字体。
+<i>新标志带有很明显的美国化倾向。新的字体使用的是和美国传统的高速公路字体 <a href="http://en.wikipedia.org/wiki/FHWA_Series_fonts">FHWA</a>高度相似的一款字体。出口和高速公路框的设计也让人不断想起美国经典的盾章状设计。就连箭头的设计也由从前硬朗的中性设计，转向美国式的圆角设计。但是问题仍然有很多，例如英文的层次问题， 英文字母古怪的间距等。甚至<a href="http://www.safetybbs.com/bbs/viewthread.php?tid=18068&amp;extra=&amp;page=5">有人起诉交通部</a>，称交通部声称免费提供通用字体下载却一直不肯提供，交通部则称因为该字体设计部分美国字体版权，价格一直定不下来。</i>
+➜Windows 8-128位 谣言是假的
+https://www.solidot.org/story?sid=14941	42120
+<a href="http://windows8news.cn/">拒绝真相</a> 写道 "前段时间，几乎所有的网站，包括我们，都可能在散播一个谣言，那就是，Windows8 将支持<a href="http://windows8news.cn/?p=13">128位的处理器</a>。
+<i>关于这件事情，其实主要的新闻来源是所谓的 “<em>微软的研发团队高级成员</em>Robert Morgan<em>“，是他在LinkedIn的个人资料里面<em>”泄露“了有关Windows 8将支持<a href="http://windows8news.cn/?p=13">128位的处理器</a>的消息。不过，现在看来，这些资料是假的，Robert Morgan从未真正存在。</em> </em> </i>
+这是个美好的故事，现在看来那个广为流传的谣言很可能是出于为网站增加流量的目的而产生的。(<a href="http://windows8news.cn/?p=164">原文</a>)"

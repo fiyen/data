@@ -1,0 +1,102 @@
+➜Perl基金会将奖励Perl项目的提案者
+https://www.solidot.org/story?sid=9481	60
+为了推动开放，Perl基金会将在2月份<a href="http://www.web-app.net/?Call_for_Grants_Proposals_Perl_development/&amp;action=viewnews&amp;id=56">送出一些奖金给Perl项目的提案者</a>，奖金范围从500美元到3000美元。声明称，“你既不需要有一个大型的、复杂的和长期的项目，也不要求是一位 Perl高手或高高手（guru）”，如果你有好点子、方式和能力去完成你的Perl项目，你可以递交一份提案。截止日期是2009年1月31日。
+➜用游戏治疗注意力不集中症（ADHD）
+https://www.solidot.org/story?sid=9482	1440
+根据2005年的<a href="http://www.childpsych.theclinics.com/article/S1056-4993(04)00067-7/abstract">一项研究</a>，被诊断为注意力不集中症（ADHD）的患者可以通过神经反馈（<a href="http://en.wikipedia.org/wiki/Neurofeedback">Neurofeedback</a>）去保持他们的注意力。<i>
+神经反馈是一种很有希望的疗法，它需要持续的监控患者的脑电波。测试者试图改变脑电波到一模式，会收到一个声音信号告诉他们是否成功。当经过足够的反复尝试，神经反馈将能重新连接通大脑。现在SmartBrain技术公司推出了<a href="http://www.escapistmagazine.com/articles/view/issues/issue_183/5633-Gaming-The-Brain">使用视频游戏</a>的神经反馈仪器，称为<a href="http://smartbraintech.com/store/pc/viewPrd.asp?idcategory=3&amp;idproduct=1">SMART系统</a>，实际上主要是一台修改过的索尼PS2主机。</i>
+➜运行Linux的索尼相机
+https://www.solidot.org/story?sid=9483	2100
+在CES展上，索尼展示了一款<a href="http://www.linuxpromagazine.com/online/news/sony_dsc_g3_camera_has_wi_fi_and_linux">Cyber-shot系列的新照相机</a>。
+<i>
+<a href="http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10551&amp;storeId=10151&amp;langId=-1&amp;productId=8198552921665736684">DSC-G3</a>相机使用4倍光学变焦的Zeiss镜头，1000万像素，3.5英寸触摸显示屏，4 GB内部闪存。最令人感兴趣的是它的软件，是基于<a href="http://www.busybox.net/">Busybox</a>和Kernel 2.6.11的Access Linux Platform (ALP)。照相机还内置了Wi-Fi和浏览器，可将照片直接上传到网上。美国售价500美元，kernel、Busybox和其它组件的源代码可在官网<a href="http://www.sony.net/Products/Linux/Download/DSC-G3.html">下载</a>。除了DSC-G3外，索尼还有许多产品如DSC-W90都运行Linux。</i>
+➜采访一位广告软件作者
+https://www.solidot.org/story?sid=9484	3000
+Sherri Davidoff采访了Matt Knox，一位有才能的Ruby技术指导和程序员，<a href="http://philosecurity.org/2009/01/12/interview-with-an-adware-author">他谈论了早年为Direct Revenue公司设计广告软件的经历</a>（2006年Direct Revenue公司<a href="http://www.out-law.com/page-6817">被控</a>悄悄在数百万电脑上安装广告软件）。他一开始是开发SPAM过滤软件，后来引起Direct Revenue关注而被其雇用。在谈及Direct Revenue的商业模式时，Knox回答：他们的商业模式就是从某人那儿收购或干脆自己开发一个屏幕保护程序，这些屏保会显示一段文字“想要免费，就先安装我们的广告软件”。有惊人数量的人真这么做了。广告软件最重要的事情是让自己想方设法保留在用户电脑里，Knox描述了他是采取何种策略的：<i>
+我们一步步取得进步，从注册表项目，到一个可执行文件，到能随机命名的可执行文件，到在每台电脑上都略有不同的可执行文件，到加密的——真的很难辩认的——甚至不作为可执行文件运行的可执行文件。它只是作为一系列线程运行，还有更厉害的方法但我们最终没有去做，就是完全去除线程，而只是使用中断处理程序（interrupt handlers）。它证明在Windows中，你可以很容易的访问中断处理程序。你所做的就是安排一次中断发生，让广告程序醒来，发布广告后立即消失。我们没有真的这么做......它相当于发生在4百万-1千万网络节点上的一次分布式代码战争。</i>
+➜因为《光晕3》被没收，少年杀死母亲
+https://www.solidot.org/story?sid=9485	3600
+2007年10月美国俄亥俄州一名少年Daniel Petric因为不满父母没收他的《光晕3》游戏，而向他们开枪，杀死了母亲，射伤了父亲。<a href="http://news.bbc.co.uk/2/hi/americas/7826663.stm">目前法庭宣判Petric的谋杀、意图谋杀和其他控状的罪名成立</a>(《<a href="http://www.zaobao.com/gj/gj090114_514.shtml">联合早报</a>》)，但法官还未判刑，他可能面临终身监禁。尚不清楚这一案件会对游戏行业<a href="http://games.slashdot.org/article.pl?sid=09/01/14/0055214">产生何等影响</a>。拥有《光晕3》知识产权的微软公司发表声明说：“我们对此事件有所闻，这是一场悲剧”。<i>
+这个男孩的辩护律师<a href="http://kotaku.com/5112289/halo-3-shooters-attorney-argues-insanity-due-to-video-game-addiction">以游戏上瘾</a>为之辩护，但<a href="http://www.gamepolitics.com/2009/01/13/judge-comes-down-hard-video-games-halo-3-murder-trial">主审法官表示</a>：“我绝对相信Petric在策划阴谋时，没有意识到如果他射杀父母，他们将会永远离开他。”</i>
+➜Ubuntu 9.04启动只需要21.4秒
+https://www.solidot.org/story?sid=9486	4800
+<a href="http://reversethis-moc.liamgtaoahzihs/">shizhao</a> 写道 "softpedia<a href="http://news.softpedia.com/news/Ubuntu-9-04-Boots-in-21-4-Seconds-101885.shtml">对Ubuntu 9.04 Alpha (Build 20090112.1) 的启动时间测试</a>发现，Ubuntu 9.04的启动时间只需要21.4秒。这或许应该归功于<a href="http://en.wikipedia.org/wiki/Ext4">EXT4</a>文件系统的引入。
+<i>测试平台为AMD Sempron 1.8Ghz、80GB IDE硬盘、512MB DDR内存和Intel Core 2 Duo E4300 2.2Ghz、250GB SATA硬盘、4GB DDR2内存两组。在Intel Core 2平台上的到了21.4秒的启动速度。另见<a href="http://linuxtoy.org/archives/ubuntu-904-boot.html">linuxtoy上的讨论</a>。"</i>
+➜乔布斯暂时因病离职
+https://www.solidot.org/story?sid=9487	5760
+苹果CEO乔布斯（Steve Jobs）周三<a href="http://www.apple.com/pr/library/2009/01/14advisory.html">表示</a>，<a href="http://money.cnn.com/2009/01/14/technology/apple_jobs/index.htm">由于健康原因他将暂时休假养病</a>，将一直休止六月底，以避开公众关注专心调理身体。上周乔布斯公开了他的个人身体情况，称因为荷尔蒙失调导致其体重下降。苹果COO Tim Cook将负责公司的日常运作，但乔布斯仍将参与重大的战略决策。当天苹果股票下滑了8%，至78.40美元。
+➜在iShoot登上销售冠军之后，iPhone开发者从Sun辞职
+https://www.solidot.org/story?sid=9488	15600
+坦克战争游戏<a href="http://www.ethannicholas.com/iShoot/">iShoot</a>在App Store中脱颖而出，近乎一夜成名的故事立即成为iPhone开发者和苹果粉丝热议的焦点。<a href="http://www.iphonesavior.com/2009/01/iphone-developer-quits-day-job-after-ishoot-hits-number-one.html">iShoot开发者Ethan Nicholas也已成为其它app创作者的榜样</a>。<i>
+Nicholas就职于Sun公司，他用业余时间开发出了iShoot，游戏于2008年10月19日在App Store中上线，售价2.99美元，用户最初的反应是“还行”，但很快就消失在应用程序海洋之中。事情的转机是在圣诞节期间，他修正了iShoot，随后决定发布一个免费的“Lite”版，希望能重新引起用户的关注。这一聪明的决定被证明是神来之手。iShoot Lite于2009年1月3日上线，到1月11日，收费版的iShoot已经火箭般的窜升至销售榜第一名，一天内下载达16972次，同时Lite版也在最受欢迎免费App中排在第一位。对于一款登上销售冠军的应用程序而言，每天下载无疑至少能达到1万次，以2.99美元计算，相当于一天收获21000美元（苹果提成30%）。Nicholas将其成功归于Lite，他决定辞职以专注于iPhone开发，并已经通知了Sun。Nicholas坦诚自己并非是Objective-C开发高手。iShoot可选25种武器，Lite版提供了6种，其中一种是非常爽快的、可毁灭一切对手的战术核武器。</i>
+➜jQuery 3 岁了
+https://www.solidot.org/story?sid=9489	18600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "著名的 JavaScript 库 <a href="http://jquery.com/">jQuery</a> 今天迎来它的三岁生日，这个备受 Web 开发设计师欢迎的 JavaScript 库以各种漂亮的 Web 效果著称。为了庆祝自己的三岁生日，jQuery 推出新版本 V1.3，同时宣布加入非盈利性组织 <a href="http://conservancy.softwarefreedom.org/">Software Freedom Conservancy</a>。jQuery项目成员 Rey Bango 在他的<a href="http://ajaxian.com/archives/happy-birthday-jquery-v13-is-released">博客日志 Ajaxian</a> 中表示，考虑到开源项目不低的夭折率，已经三岁的 jQuery 是一个不俗的成就。jQuery 原本是 Mozilla Javascript 传讲师 <a href="http://ejohn.org/blog/">John Resig</a> 的一个业余产品，在 BarCamp New York 上首次发布，并赢得了从微软 到 Nokia 到广大独立设计师的广泛支持。"           jQuery 是做什么的？它自称为一个用很少的代码实现很多功能的 JavaScript 库，被众多 Web  开发者用来实现漂亮的视觉效果。这里有一些例子：
+<div>
+<ul>
+<li>一个博客评论系统 <a href="http://www.readwriteweb.com/archives/encouraged_commentary_conversational_comments.php">Encouraged Commentary</a>。</li>
+<li>Drew Douglas 的 <a href="http://nettuts.com/articles/web-roundups/the-20-most-practical-and-creative-uses-of-jquery/">jQuery 的20个创意用法</a>。</li>
+</ul>
+</div>
+如果你是 Web 开发师，还没用过 jQuery，应当尝试一下。Jennifer Stuart 在第一次使用了该 JavaScript 库之后，<a href="http://www.scriptygoddess.com/archives/2008/05/03/phone-number-validation-with-jquery/">这样写道</a>，为什么没早发现这个好东西？我真欠扁。随着 jQuery 加入非盈利组织 <a href="http://conservancy.softwarefreedom.org/">Software Freedom Conservancy</a>，使用 jQuery 库的公司可以放心使用而不必担心法律风险。
+<br> <br> <strong>更多资料</strong>
+<ul>
+<li> <a href="http://ajaxian.com/archives/happy-birthday-jquery-v13-is-released">jQuery 三周年及新版本宣布博客文章</a> </li>
+<li> <a href="http://docs.jquery.com/Release:jQuery_1.3">jQuery 最新 V1.3 版功能</a> </li>
+</ul>
+本文来源：<a href="http://www.readwriteweb.com/archives/happy_3rd_birthday_jquery.php">http://www.readwriteweb.com/archives/happy_3rd_birthday_jquery.php</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+➜将资助FOSS开发作为经济刺激的一部分
+https://www.solidot.org/story?sid=9490	19440
+早在2005年就预言过<a href="http://www.bankrate.com/brm/news/mortgages/BakerFamily.asp">房地产泡沫</a>和随之而来的<a href="http://www.bepress.com/ev/vol3/iss4/art1/">经济危机</a>的经济学家Dean Baker，呼吁当选总统奥巴马在总额8千亿美元的经济刺激计划中，<a href="http://www.truthout.org/011209R">分配一部分给开源自由软件开发</a>。Baker的设想类似于罗斯福新政的联邦艺术和作家项目：资助开发者开发出可用的免费软件，除了雇用程序员外，消费者节省的钱很容易就能超过资助软件开发的费用。因为开源是计算机技术领域最终极的<a href="http://news.slashdot.org/article.pl?sid=09/01/14/0032223">可重复使用投资</a>。
+➜未来宇航员的食物——蚕
+https://www.solidot.org/story?sid=9491	23280
+曾经，丝绸之路连接了中国和世界；现在，中国研究人员建议，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/113/2">蚕可以作为未来执行长期太空任务的宇航员的食物</a>。<i>
+《科学》网站报道，如果要在外太空待上数年，宇航员可能需要携带微型生态系统，以提供氧气和食物。研究人员以前提出的食物来源包括了家禽、鱼，甚至是海胆幼虫，但所有这些都有各自的缺点。而蚕集各家之长于一身：它们繁殖很快，只需很小的空间和水，产生的粪便数量比家禽或鱼要少。它们还包含两倍于猪肉、4倍于蛋和牛奶的基本氨基酸。甚至是不能食用的丝，占干蚕重量的一半，也可通过化学处理变得可食用，可以与果汁、糖、食用色素混合制作果酱。</i>
+➜三杯咖啡会增加幻觉产生
+https://www.solidot.org/story?sid=9492	25800
+《<a href="http://www.telegraph.co.uk/scienceandtechnology/science/sciencenews/4227673/Three-cups-of-brewed-coffee-a-day-triples-risk-of-hallucinations.html">每日电讯报</a>》和<a href="http://www.hero.ac.uk/media_relations/21485.cfm">其它媒体</a>报道，一项新研究警告，<a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V9F-4V5XNVV-1&amp;_user=10&amp;_coverDate=12%2F19%2F2008&amp;_alid=852347889&amp;_rdoc=3&amp;_fmt=high&amp;_orig=search&amp;_cdi=5897&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_ct=48&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=2981a811fb16428cb4adc357fc131171">喝太多咖啡会增加产生幻觉的风险</a>(摘要)。<i>
+这项由经济社会理事会和医学研究理事会资助的研究调查了200名学生，询问了典型的咖啡因摄入产品，如咖啡、茶、能量饮料、巧克力块和咖啡因块，评估了他们的幻觉经历和压力水平。结果发现高咖啡因摄入会诱发视觉和听觉幻觉，比如认为看见了某个并不在身边的人，听到声音和察觉到一位死去人的存在。研究认为咖啡因会加重压力的生理效应，在压力之下，身体会释放出叫皮质醇（cortisol）的压力激素，从而增加幻觉产生的趋势。</i>
+➜美国参议院和众议院推出YouTube频道
+https://www.solidot.org/story?sid=9493	28080
+在总统竞选过程中，在线视频扮演了重要角色。现在<a href="http://www.youtube.com/househub">美国众议院</a>和<a href="http://www.youtube.com/senatehub">参议院</a>与YouTube合作，<a href="http://www.physorg.com/news151139956.html">推出了专属频道</a>，宣传是为了展示政府的幕后运作，向公民展示透明化及了解他们选出的代表的观点和立场。<i>
+另一条关于YouTube的消息称，许多包含未授权版权音轨的视频<a href="http://mashable.com/2009/01/14/youtube-mutes-videos/">被Youtube消掉了声音</a>，变成无声默片(<a href="http://www.youtube.com/watch?v=RGix5nV6DQw">例1</a>，<a href="http://www.youtube.com/watch?v=8Q_z9cnv09o&amp;NR=1">2</a>，<a href="http://pl.youtube.com/watch?v=OfKTmZK6uto">3</a>)。</i>
+➜IE8 Beta 2 中存在的7个已知或未知问题
+https://www.solidot.org/story?sid=9494	30000
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "随着 IE8 的临近，关于 IE8 的消息逐渐多起来，IE8 有很多令人期待的特性，也是微软是否能在 IE 上保持辉煌的关键。IE8 的 Beta 2 中目前存在不少问题，如 JavaScript 不够稳定，对 CSS 的完全支持仍有缺陷，同一些插件和扩展存在兼容问题，另外，某些网站，如 Salesforce 在IE8中显示不正常。这些问题最终能否解决还不得知，不过在新一轮浏览器大战如火如荼的今天，留给微软的时间是很紧的(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K699.aspx">图文</a> ）。
+"           1. 不稳定的JavaScript
+<br> <br>IE8 对 <a href="http://www.crn.com/encyclopedia/defineterm.jhtml?term=CSS&amp;x=&amp;y=">CSS</a> 的兼容的改善受到了称赞，然而 JavaScript 仍然不稳定，下面这个站点的 JavaScript 让图片无法显示。
+<br> <br>而同一个图片在 Firefox 3.1中显示正常
+<br> <br>
+2. CSS 兼容性问题
+<br> <br>IE8 是按完全兼容 CSS2.1 设计的，微软表示，他们还会支持部分 CSS3 功能，然而下面这个测试出现问题:
+<br> <br> <strong>CSS 3 测试</strong>
+<br> <br>以下是在 <a href="http://www.css3.info/">www.css3.info</a> 测试的结果，这个测试站点用来测试你的浏览器是否支持多数 CSS 选择器，微软在 CSS3 上的承诺看来是实现了。
+<br> <br>
+3.Salesforce 显示问题
+<br> <br>SalesForce 是一个大量使用了 JavaScript 的站点，在这个站点中，IE8 无法正常显示命令按钮，那些命令按钮被显示成红色的方框，使用兼容模式l浏览就没有问题。
+<br> <br>
+4.Google Toolbar 无法正常使用
+<br> <br>微软承认，IE8 目前还不支持 Google 工具条.
+<br> <br>
+5. TurboTax 无法正常使用
+<br> <br>Turbox Tax 在线站点在 IE8 Beta 2 中无法使用。
+<br> <br>在 IE7 兼容模式下显示正常
+<br> <br>
+6. 关于 Shockwave 的不实传言
+<br> <br>论坛中有不少传言称 Shockwave 插件在 IE8 中存在问题，但在下面的测试中，似乎没有问题。
+<br> <br>
+7. IE 8 与 McAfee 冲突
+<br> <br>IE8 Beta 2 另一个已经确认的问题是，同 McAfee 的最新版有冲突，不知道最终是微软还是 McAfee 来解决这个问题。
+<br> <br>本文原文来源：<a href="http://www.crn.com/it-channel/212900620;jsessionid=E3PXIHWBRC3SGQSNDLPSKH0CJUNN2JVN?pgno=1">http://www.crn.com/it-channel/212900620;jsessionid=E3PXIHWBRC3SGQSNDLPSKH0CJUNN2JVN?pgno=1</a> <br>中文翻译：<a href="http://www.comsharp.com/">COMSHARP CMS</a>
+➜在伽利略之前绘制月球地图的英国人
+https://www.solidot.org/story?sid=9495	32640
+众所周知，科学巨人<a href="http://zh.wikipedia.org/wiki/%E4%BC%BD%E5%88%A9%E7%95%A5">伽利略</a>：发现了金星相、土星环、太阳黑子、观察和描绘了银河、证实了日心说、发现了木星卫星，发现了惯性定律，改进了望远镜和显微镜，当然还有绘制月球地图，以及因为证实地球是一颗普通行星而被教廷不公正的监禁。<i>
+伽利略的大名地球上几乎无人不知。与此同时，几乎无人听说过<a href="http://en.wikipedia.org/wiki/Thomas_Harriot">Thomas Harriot</a>——英国研究人员称他在伽利略之前<a href="http://news.bbc.co.uk/2/hi/science/nature/7827732.stm">绘制了更详细的月球地图</a>。他比伽利略早五个月用望远镜观察并绘制月图。英国宇航员Patrick Moore爵士说，“我们都知道伽利略，但Harriot是第一。”人们确实不清楚Harriot的成就，因为在他的两个好友因为政治罪而入狱后，他就刻意保持低调。</i>
+➜IBM创造出解析度提升一亿倍的新MRI
+https://www.solidot.org/story?sid=9496	39600
+IBM Research的科学家与斯坦福大学纳米尺度探索中心（Center for Probing the Nanoscale）合作，展示了一种核磁共振成像（MRI）设备，其体积解析度（volume resolution）比传统的MRI<a href="http://techfragments.com/news/240/Science/IBM_Creates_3D_MRI_With_100_Million_Times_Finer_Resolution.html">精细一亿倍</a>(<a href="http://only-perception.blogspot.com/2009/01/ibm-mri.html">中文翻译</a>)。结果发表在最新一期的《美国国家科学院学报（PNAS）》，新工具在纳米尺度下提供了研究复杂3D结构的能力。<i>
+将MRI的解析度扩展到如此细致的程度，科学家们借此创造出一种显微镜，更进一步的开发后，也许足以揭开蛋白质的结构及其交互作用，替未来个人化医疗与标靶药物治疗的发展预先铺路。这项成就也对材料研究--从蛋白质到IC --产生冲击，因详尽理解原子的结构有其必要。这项成就是通过一种称为磁振力显微术（magnetic resonance force microscopy，MRFM）的技术才成为可能。</i>
+➜iTunes中的DRM-Free歌曲包含有个人信息
+https://www.solidot.org/story?sid=9497	43500
+前不久，苹果在Macworld上宣布其iTunes音乐商店里的所有歌曲将去除DRM保护，一时众人皆欢呼雀跃，赞美声也是不绝于耳。苹果向顾客提供了名叫iTunes Plus的AAC格式下载，扩展名是.m4a。
+<i>它确实是DRM-free，你可以在朋友家人之间自由分享，但是如果想在P2P网络上分享它，则是一个糟糕的主意，<a href="http://crave.cnet.co.uk/digitalmusic/0,39029432,49300555,00.htm">因为它包含有能追踪你的个人信息</a>，例如你在iTunes上注册的帐号和邮件地址。如若不信，请用任意文字编辑器打开一个iTunes Plus文件（Windows下记事本最方便），虽然呈现在你眼前的是一段无意义的乱码，但用注册邮箱查找的话，你会找到储存在其中的电子邮箱地址。</i>

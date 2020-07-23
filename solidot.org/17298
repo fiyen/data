@@ -1,0 +1,48 @@
+➜Git 2.13增加识别SHA-1碰撞
+https://www.solidot.org/story?sid=52375	9651
+<a href="/~cuthead">cuthead</a> 写道 <i>"SHA-1 碰撞可以被人的肉眼识别，但机算机却因为 bug 无法识别 SHA-1 碰撞，刚刚发布的 Git 2.13 <pangu> </pangu><a href="https://github.com/blog/2360-git-2-13-has-been-released" target="_blank">修复</a>了这个 bug， SHA-1 碰撞将无法崩溃计算机。"</i>
+➜Windows 10 On ARM 通过模拟器运行任何 x86 程序
+https://www.solidot.org/story?sid=52376	12685
+<div align="center"><img src="http://img.solidot.org/0/324/lizCpaj2Ym7t2.png" width="500" align="" height="246"><br>
+</div>
+<br>
+在 Build 开发者大会上，微软演示了运行在高通 Snapdragon 835 ARM 架构处理器上的 <a href="https://channel9.msdn.com/Events/Build/2017/P4171" target="_blank"><u>Windows 10 On ARM</u></a> 系统能通过模拟器运行任何 x86 程序。也就是说系统不仅能运行来自官方应用商店的 x86 应用，而且可以安装和运行从互联网上下载的任何 W32 程序，它比 Windows 10 S 更开放。x86 到 ARM 的模拟是基于名叫 Windows on Windows(简称 WOW)的抽象层。微软演示了从互联网上下载开源解压缩软件 7zip，然后安装运行。开发者并不需要专门为 ARM 架构重新编译他们的 x86 应用。但目前并不清楚模拟的性能究竟如何。<br>
+➜Windows Bash 将支持 SuSE 和 Fedora
+https://www.solidot.org/story?sid=52377	14378
+在 Build 开发者大会上，微软宣布 Ubuntu 进入官方应用商店 Windows Store，它<a href="https://venturebeat.com/2017/05/11/ubuntu-arrives-in-the-windows-store-suse-and-fedora-are-coming-to-the-windows-subsystem-for-linux/" target="_blank"><u>同时透露</u></a>正着手为 Windows Subsystem for Linux (WSL)  加入对 SuSE 和 Fedora 的支持，这两大 Linux 发行版最终也将会进入 Windows Store。微软是在去年的 Build 开发者大会上宣布通过 Linux 兼容层 WSL 将 Bash shell   和 Ubuntu 带到 Windows 平台，直接在 Windows 上运行 Linux 可执行文件。 Ubuntu 进入 Windows Store 后，开发者将可以更方便的在 Windows 上同时运行 Windows 和 Linux 应用。
+➜惠普笔记本音频驱动发现按键记录器
+https://www.solidot.org/story?sid=52378	16840
+惠普部分型号笔记本电脑预装的音频驱动内<a href="https://www.bleepingcomputer.com/news/security/keylogger-found-in-audio-driver-of-hp-laptops/" target="_blank"><u>发现含有按键记录器的功能</u></a>，记录了用户所有的按键，信息保存在一个本地文件内，任何人或任何第三方软件或恶意程序都可以访问。发现按键记录器的瑞士安全公司 modzero 发表<a href="https://www.modzero.ch/advisories/MZ-17-01-Conexant-Keylogger.txt" target="_blank"><u>安全公告</u></a>，称该功能位于 Conexant HD Audio Driver Package version 1.0.0.46 或更早版本中，文件名是 MicTray64.exe，它的功能是监视用户所有的按键，对麦克风静音键或快捷键做出反应，此类功能许多应用程序都存在，问题在于它还把所有的按键记录在一个本地文件内（C:\users\public\MicTray.log），可以被第三方程序访问。研究人员发现 28 个型号的惠普笔记本预装了 Conexant HD Audio Driver Package，其它安装该驱动的电脑可能也会受到影响。
+➜Nier Automata 流行 Mod 检查玩家的版本是否正版
+https://www.solidot.org/story?sid=52379	20133
+流行的 PC 游戏通常会很快遭到破解，有时候游戏开发商会释出更新，堵上破解漏洞，然后破解者再次更新破解，猫与老鼠游戏一般不会持续很久，游戏开发商会放弃与破解者继续斗争。如今，Mod 开发者正在帮助游戏开发者继续这场永无止境的斗争。白金工作室的《尼尔机械纪元 (NieR Automata)》前不久推出了 PC 版本，在高清显示器上游戏的分辨率放大存在问题，<a href="https://github.com/Kaldaien/FAR" target="_blank"><u>FAR</u></a> Mod 的开发者帮助修复了问题，并优化了图形，开发者同时在 Mod 里面<a href="https://arstechnica.com/gaming/2017/05/popular-mod-re-adds-piracy-protection-to-cracked-game/" target="_blank"><u>加入了正版验证</u></a>，也就是盗版者无法使用该 Mod。Mod 作者称，验证失败不会发生恶意的事情，但会无限的显示游戏授权，因为“你不尊重授权所有授权也不尊重你”。
+➜Buzz Aldrin 呼吁 NASA 尽快退役国际空间站，转向火星
+https://www.solidot.org/story?sid=52380	27431
+登月第二人 Buzz Aldrin 呼吁 NASA 尽可能快的退役国际空间站，<a href="http://www.space.com/36787-buzz-aldrin-retire-international-space-station-for-mars.html" target="_blank"><u>将资源投入到火星任务上</u></a>。这位阿波罗 11 号登月宇航员称，国际空间站的维护费用太高，“我们负担不起一年 35 亿美元”，他认为 NASA 应该继续将地球低轨道的活动转交给私营合作伙伴，由私人公司 如 SpaceX、Orbital ATK 和 Boeing 为空间站执行货运或载人任务，让 Bigelow Aerospace、Axiom Space 或其它公司在地球低轨道建造和运营独立于国际空间站的私人空间站。他还鼓励与中国在低轨道空间站方面展开合作，与中国计划在 2020 年代建造的空间站共享关键的轨道参数。建造私营空间站是 Aldrin 的火星殖民计划的第一步。
+➜中国计划建造小行星基地去采矿
+https://www.solidot.org/story?sid=52381	30048
+中国计划不久的未来<a href="http://www.news.com.au/technology/science/space/china-plans-asteroid-base-for-interstellar-travel-and-mining/news-story/00e9cd1bcab89f2736734074a602ea47" target="_blank"><u>在小行星上建造基地</u></a>，开发潜力巨大的小行星矿藏。月球探测卫星总设计师和总指挥叶培建透露向小行星发射无人探测器，将钯铂等用于智能手机和汽车的矿藏送回地球的计划。叶培建此前称可能会在 2020 年到 2025 年之间执行一次小行星探索任务，但具体日期或目标小行星未知。叶培建表示小行星还有助于星际航行。根据高盛的研究，小行星采矿的潜在经济影响价值数以万亿美元。小行星除了能提供稀有珍贵矿藏外，还可能提供对星际旅行至关重要的水资源。
+➜比特币币值突破 1800 美元
+https://www.solidot.org/story?sid=52382	30915
+本周四，比特币的币值一度突破了 <a href="https://blockchain.info/markets/" target="_blank"><u>1800</u></a> 美元。虽然此后有所回落，但币值仍然在 1800 美元上下波动。比特币交易平台 Bitfinex 的币值超过 1800 美元，而 LocalBitcoins 的币值甚至超过 2250 美元。过去几天，比特币的升值势头非常疯狂，短短一周内增加了近 300 美元，今年内币值<a href="http://www.cnbc.com/2017/05/11/bitcoin-price-1800-record-high.html" target="_blank"><u>上涨了 81%</u></a>。日本上个月合法化了比特币，而日本的比特币交易比重也迅速占据全球首位，超过了美国和中国。中国的比特币交易仍然深受监管压力。
+➜微软宣布 Windows 10 Fall Creators Update
+https://www.solidot.org/story?sid=52383	32812
+在 Build 开发者大会上，微软宣布了 Windows 10 桌面操作系统的下一次重大更新，这次更新叫 <a href="https://www.neowin.net/news/redstone-3-will-be-called-the-windows-10-fall-creators-update" target="_blank"><u>Fall Creators Update</u></a>。微软也介绍了它的主要新特性，包括：与移动设备共享剪切板，接着继续读另一个设备上没看完的文章或视频，编辑另一个设备上未完成的文档，以及回溯几天几周前历史的时间线功能，这些都需要在所有设备上安装 Cortana 应用；OneDrive Files On-Demand 允许用户不需要下载或使用本地存储空间就能访问 OneDrive 中的文件，你储存在云端的文件可以在 Windows 10 的文件管理器内直接访问，就像文件储存在本地；Windows Mixed Reality 应用设计帮助用户转变现有的视频和照片，生成有趣的故事，类似 Google Photos 的做法。
+➜中国将向美国电子支付服务开放市场
+https://www.solidot.org/story?sid=52384	33459
+根据中美<a href="http://www.ftchinese.com/story/001072560?full=y" target="_blank"><u>达成的一揽子交易</u></a>，中国将向美国信用评级机构和信用卡公司开放市场。中国<a href="http://cn.wsj.com/gb/20170512/bgh132603.asp" target="_blank"><u>承诺采取措施</u></a>，允许美国电子支付公司在 7 月 16 日前申请牌照，从而全面、迅速进入中国市场。如果能在这方面取得成果，那么对于Visa 和 MasterCard 来说将是迈出了一大步。这两家公司长期以来一直寻求在中国开展业务，但屡屡受挫，原因是中方没有兑现开放市场的承诺，即便是在美国向世贸组织提出的相关申诉获胜之后。自中国加入世贸组织的 16 年来，中国已经建立了对电子支付市场的国有垄断格局。协议得到了美国商界的谨慎回应。最近几年，美国商界对中方的承诺已变得越来越小心。
+➜英特尔证实安腾处理器即将寿终正寝
+https://www.solidot.org/story?sid=52385	35983
+英特尔<a href="https://arstechnica.com/gadgets/2017/05/intels-itanium-cpus-once-a-play-for-64-bit-servers-and-desktops-are-dead/#p3" target="_blank"><u>证实</u></a>，9700 系列安腾处理器将是该公司计划出货的最后一代安腾处理器，而惠普企业（HPE） 预计将是唯一一家使用新处理器的服务器供应商。<a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E8%85%BE" target="_blank"><u>安腾</u></a>及其 IA-64 架构是英特尔从 32 位转向 64 位计算的第一次尝试，其第一款产品针对的是服务器市场。IA-64 架构的问题在于它不向后兼容于 x86 代码， 使得任何的转变潜在代价昂贵而具有破坏性。AMD64 架构则提供向后兼容性，它的流行标志着安腾死亡的命运已经注定。
+➜主权财富在硅谷寻找独角兽
+https://www.solidot.org/story?sid=52386	41250
+路透社<a href="http://cn.reuters.com/article/sovereign-wealth-fund-us-startups-idCNKBS1880DB" target="_blank"><u>报道</u></a>，许多主权投资机构正在投入更多资金到科技初创企业，并在硅谷开设办事处，期望捕获寥若晨星的“独角兽”公司——估值超过 10 亿美元的私人企业。主权财富基金的如意算盘是，如果这些初创企业取得傲人增长，那么在初期投资会带来巨大的回报。主权财富基金手中掌管的资产规模超过 6.59 万亿美元。但万一主权基金在成熟产业的投资遭遇数字企业崛起的威胁时，投资这类初创企业也为主权财富基金提供了一种有效的对冲，就像一些全球连锁酒店业者遭到在线房屋短租平台爱彼迎(Airbnb)的冲击，而爱彼迎本身就是个独角兽。
+➜NIST 数字身份指南不再要求定期修改密码
+https://www.solidot.org/story?sid=52387	43568
+美国国家标准与技术局（NIST）数字身份指南的<a href="https://pages.nist.gov/800-63-3/sp800-63b.html" target="_blank"><u>新版草案</u></a>取得了供应商的<a href="http://www.csoonline.com/article/3195181/data-protection/vendors-approve-of-nist-password-draft.html" target="_blank"><u>认可</u></a>。新版指南修改了密码安全建议，不再要求定期修改密码。原因是多项研究显示，频繁的更改密码没有预想的效果，事与愿违，达不到保护密码安全的目的。NIST 的最新推荐是在用户想要修改的时候去修改密码，或者是有入侵的迹象时应立即修改密码。NIST 也不再要求密码混合大写字母、字符和数字，因为研究显示此类的要求并不能带来强密码。NIST 认为，如果用户想要使用绘文字作为密码，那么就应该允许用户使用。NIST 认为最重要的是储存的密码必须盐化哈希 MAC 处理。
+➜法官要求联邦检察官调查 Waymo 指控 Uber 窃取商业机密案
+https://www.solidot.org/story?sid=52388	45909
+美国旧金山地区法院法官 William Alsup <a href="https://www.bloomberg.com/news/articles/2017-05-12/waymo-s-case-against-uber-sent-by-judge-to-u-s-prosecutors" target="_blank"><u>要求</u></a>联邦检察官调查 Waymo 指控 Uber 窃取商业机密一案，而整个案件的焦点人物 Anthony Levandowski 则可能成为犯罪调查的对象。Waymo 指控其在离职前下载了数以千计的机密文件，但 Levandowski 以宪法第五修正案授予他避免自证其罪的权利拒绝作证。Alsup 法官公布了两个重要裁决：其一拒绝了 Uber 提出的闭门仲裁的请求，意味着此案将进行公开审讯；其二是部分同意了 Waymo 的请求，限制 Uber 的自主驾驶汽车项目。Waymo 想要完全关闭 Uber 的自主驾驶汽车研究项目，但法官部分同意部分拒绝了 Waymo 的请求。
+➜法官裁决 GNU GPL 是有约束力的合同
+https://www.solidot.org/story?sid=52389	47074
+办公软件 Hancom Office 的韩国开发商从 2013 年起在其字处理软件中整合了开源的 PDF 解释器 Ghostscript。Ghostscript 采用了两种许可证，GNU GPL 以及一个付费的商业授权许可证。如果 Hancom 不想付费，那么它将需要开源其软件。Hancom 的决定是什么也不做，既不开源也不付费。2016 年，Ghostscript 的开发者 Artifex 向加州北区法院起诉了 Hancom，指控其滥用 GNU GPL 和侵犯了自己的版权，  Artifex 要求 Hancom 停止侵权和支付合理的许可费。Hancom 递交动议要求驳回诉讼，理由是它没有签署任何合同，而许可证不是合同。法官 Jacqueline Scott Corley 拒绝了动议，裁定 GNU GPL 许可证<a href="https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/" target="_blank"><u>是有约束力的合同</u></a>。

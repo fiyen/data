@@ -1,0 +1,89 @@
+➜核试验帮助鉴定出假的陈年威士忌
+https://www.solidot.org/story?sid=11235	60
+业内专家声称市场上销售的陈年威士忌充斥了假货，有些号称数百年历史的威士忌其实只有几年历史。现在牛津大学放射性加速器部门的研究人员开发出一种方法，<a href="http://science.slashdot.org/article.pl?sid=09/05/04/1547215">利用1950年代核试验留下的放射性微粒精确鉴定威士忌的生产日期</a>。<i>
+部门副主管Tom Higham称，20世纪中期生产的威士忌有一种独特的签名，可以很容易判断它是否是假货。由于1950年代后的核试验导致了大气中碳14含量人为的上升，因此全世界生物体吸收的同位素也相应上升。实验室检测少量陈年威士忌主要是通过煮沸液体产生含有带电粒子的气体，提供可测量的碳14样本。最近一次克里斯蒂拍卖会上就出现了<a href="http://www.whiskymag.com/magazine/issue70/12008462.html">冒充陈年威士忌</a>的事例，一瓶拍卖价预计达到2万英镑的1856年Macallan Rare Reserve威士忌被发现实际生产于1950年。</i>
+➜Firefox寻求支持多CPU
+https://www.solidot.org/story?sid=11236	9600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "Mozilla启动了一个尚未命名的新项目，准备通过多CPU支持在速度上超过Google Chrome和IE8，后者均<a href="https://wiki.mozilla.org/Content_Processes">支持多 CPU</a>。多CPU架构在多数桌面应用司空见惯，Firefox 的多 CPU 体系将一些密集型工作分配给不同的 CPU 处理，比如，让一个 CPU 运行用户界面以及chrome程序，另一个渲染网页内容。这一分离可以使 Firefox 拥有 Google Chrome和IE8 一样的防崩溃能力，一个Tab崩溃不会影响整个程序。尽管这一举措可以让那些 Firefox 粉丝们减轻一些对 Google Chrome的嫉妒，但不要指望这一体系会很快出现在下一个版本中那个。Mozilla 的<a href="https://wiki.mozilla.org/Content_Processes">路线图</a>显示，即使是测试版也要一年以后才会推出。           在 Mozilla 的相关 Wiki 页面上可以看到，有建议说，为了加快开发速度，可以从 <a href="http://www.webmonkey.com/blog/How_Chrome_Changed_the_Web_Overnight">Google’s open-source Chromium tools</a> 框架借鉴一些东西，但目前尚未决定。同样，对于 Firefox 在追赶 Chrome 和 IE8 的诸多努力上，诸如多 CPU 支持，受保护的 Tab，以及沙箱安全机制等等，都不会在短期内面世。<br> <br>
+译评
+<br> <br>Firefox 拥有庞大的粉丝群，在 IE6 不思进取的年代，Firefox 平地一声雷让微软不得不反思自己在浏览器市场上多年来的消极行为，IE7 是一次失败的回应，Google Chrome 凭借优秀的性能让 IE 再次心惊肉跳，微软是这样一个公司，逼急了，会爆发出惊人的力量。IE8 在很多方面超过了 Firefox，Firefox 的对手现在有三个，IE8, Chrome 和 Safari，而 Firefox 因庞大的扩展群已经导致自己步履蹒跚，在内核上已经有落后的迹象。
+<br> <br>Firefox 支持多 CPU 的决定虽然没错，然而从路线图来看，这种开发速度实在太慢了。
+<br> <br>本文国际来源：<a href="http://www.webmonkey.com/blog/Firefox_Takes_on_Chrome__IE_8_With_Multi-Processor_Plans">http://www.webmonkey.com/blog/Firefox_Takes_on_Chrome__IE_8_With_Multi-Processor_Plans</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜爱好者的莫名执着
+https://www.solidot.org/story?sid=11237	14400
+<a href="http://www.occulty.com/">Eureka</a> 写道 "cnbeta、twitter上常见一些朋友对于一些技术异常热爱，近乎执着。可是在我作为旁观者看来，有些东西并没有那么大的必要性和优越性，有些甚至是可有可无的。多点触摸屏幕真好？毫无疑问这是iphone掀起的一个技术变革。从传统的电阻式单点触摸屏，到iphone上变成了支持多个手指的电容式触摸屏幕，从产品宣传上来说，的确是个很好的卖点。           是实际上，iphone的多点触摸主要就是在看网页或者图片的时候进行缩放用。而因为要使用到两个手指，因此并不适合单手握持操作。在绝大多数应用场合，一个触摸点就能完成操作。好比为什么Windows进化了这么多年还是这有一个鼠标箭头。
+<br> <br>从单点触摸到多点触摸，这是技术演进带来的的操作多样化，但是同时也具有把简单事情搞复杂的性质。
+<br> <br>反观单点触摸的电阻屏，虽然技术并不新鲜，但是稳定可靠，成本低廉。Windows Mobile进化到6.5仍然保持使用电阻屏；新近加入触摸特性的Symbian系统（以5800xm为例）也选择使用电阻屏。可见单点触摸不仅未被淘汰，而且活得好好的。
+开源无敌？
+<br> <br>Google一出Android，爱好者云集响应，誓要与Windows Mobile等“老朽”的不开源的系统斗争到底。
+<br> <br>粉丝们狂热的吹捧Android的种种优越之处，自由、便捷、开放、高度整合…… 而微软推出在线商店则被指是“垄断的延续”。
+<br> <br>而我了解到的情况是：Android固然先天携诸般优势，又有Google等一众大厂和爱好者支持，然而，它也逃脱不了事物发展的客观规律，发展繁荣需要时间。HTC G1推出已有时日，可是直至最近才有了输入法接口，才可以使用拼音等输入法，但是仍不稳定，问题多多；而Android与Google服务的高度集成，使得第三方服务反而不容易使用；再者，Android上的软件应用虽然有Android Market这个平台，但是真正优秀软件大繁荣，还有很长的路要走。目前Android上连优酷都看不了，iphone可以看，而且很方便；Windows Mobile也可以看，比较方便。
+<br> <br>我觉得Android的前景远比现状好，现在用Android，需要勇气和毅力。
+<br> <br>Ubuntu是Android的一个好榜样，挟自由之威（比开源更厉害）一日千里。最近的9.04又有诸多改进，但是在安装了两次后我还是放弃了继续使用的打算——虽然新立得什么都有、虽然有sudo方便的控制了权限、虽然华丽的Compiz，但是从整体到细节的打磨和润滑，Ubuntu Desktop离的同时代的Windows还有很大差距需要补上。
+<br> <br>Android、Ubuntu也许和共产主义一样美好，但是我们仍处于并将长期处于社会主义初级阶段。
+Google/Apple出品，必属精品?
+<br> <br>由上观之，Google和苹果固然精品辈出，但是他们所出产品也远非各个成功。以MacBook为例，从工业设计来看，它的重量、体积、发热量、续航时间等均无出彩之处，只是造型简洁罢了；而苹果产品的品质，尤其是笔记本，在一线品牌中故障率绝对算是高的。
+<br> <br>Google的确除了很多精品，如搜索，如Gmail，但是金无赤足，再好的产品也有各种各样的缺点。在爱好者的看来，Google产品的缺陷化作了个性和简约，好似情人眼里出西施。
+<br> <br>以Gmail为例，虽然有创新的邮件组织方式和一众优秀特性，但是一些常见的功能却是不见。比如网易邮箱等常见的标签组织的虚拟多页面，可以方便的同时开启收件箱、发件箱和写信界面，而在Gmail上却需要多个浏览器窗体才行；另外Google虽然有Google Docs这样的组件，但是Gmail和Google Docs的整合并不紧密，而国内邮箱却常见把附件保存到网盘的功能。
+<br> <br>另外Google Notebook不如EverNote，Google Bookmarks不如Delicious，本地化服务上，谷歌地图常常瞎指路，谷歌拼音输入法也没有比搜狗方便。
+<br> <br>虽然我也重度使用Google产品，我也用iPod听音乐。但正是因为走得近了，了解多了，才发现缺点问题多多。
+Twitter就是好？
+<br> <br>Twitter用的人很多，缺点也很多。有人以微内核的观点，认为Twitter就是要这么发展，而不是走高大全路线。Twitter也确实有许许多多的第三方来实现各种各样的功能，但是以实际使用效果来看，第三方毕竟是第三方，效果总有欠缺。
+<br> <br>以我的使用经验来讲，官方的Twitter页面异常的简陋，要啥没啥。
+<ul>
+<li>没有了官方IM，第三方聊天机器人没一个好用的，都不重视消息下行，不能选择性的接受朋友的Twitter； </li>
+<li>不支持内嵌显示链接内容，TwitPic等也只有在有些第三方Twitter端才能看见； </li>
+<li>尤其是现在Twitter太热门，限制了API频率，造成了第三方应用的明显延时； </li>
+<li>不支持话题，也不能追踪话题； </li>
+<li>另外，下线率极高。 </li>
+</ul>
+<br> <br>缺点先举这几个，当然优点也是有的，比如官方的实时搜索，官方的Widget还不错。
+<br> <br>从普及角度来讲，不是每个人都会深深探索Twitter有些怎么样的好用应用，要用那些第三方才能更舒服，普通用户需要的是方便——不是折腾。
+<br> <br>这里拿Wordpress做个类比。Wordpress的API也是无所不能啊，但是从老版本走到现在的2.7.1，Wordpress不断的在增强自身的功能——而不是依赖插件。Matt也表示微内核不是他们的发展路线。做到更友好更易上手才是王道。
+<br> <br>相较于Twitter，国内的叽歪、嘀咕等在功能整合方便就做的比较好，方便了用户，增加了玩法，也降低了门槛。
+人人都爱BlackBerry？
+<br> <br>似乎一夜之间，黑莓爱好者优先于神州大地，在Blogger圈中BB粉丝特多。每天打开twitter，必定有大量关于黑莓的内容。
+<br> <br>如此的口耳相传，不仅勾起我对黑莓的好奇心。而了解之下，黑莓似乎并没有那么好吃。
+<br> <br>以手机浏览器为例，iPhone上有苹果招牌Safari、Android上有Webkit Based Browser、Windows Mobile平台自Opera Mobile以下，尚有Netfront、Iris、Skyfire等等一众——BlackBerry上有能与Opera Mobile或者Safari匹敌的浏览器吗？
+<br> <br>最为讽刺的一点是，BlackBerry因PushMail而一夜走红，但是中国的绝大多数黑莓玩家却享受不到这个服务。我要说买椟还珠可能有些过了，但是事实却是如此。
+<br> <br>其他一些黑莓特性，如Qwerty键盘、大多不能触摸、自定义系统等，基于Symbian和Windows Mobile平台的大有可旗鼓相当之选。
+<br> <br>不过话说回来，本人毕竟没有好好使用过黑莓手机，存在偏见和误解还望不吝指正。"
+➜在校园枪击事件后德国要禁止彩弹
+https://www.solidot.org/story?sid=11238	16800
+三月份发生的酿成16人死亡的校园枪击惨剧促使德国政府提出了一项新的法律，<a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/5291891/Germany-to-ban-paintball-in-wake-of-high-school-shooting.html">禁止所有使用小球互相对射的游戏</a>。德国政府认为彩弹使人对暴力习以为常，降低了暴力行动的门槛。政府内阁希望在9月大选前通过新法律，根据规定违反该法律的人将被罚款5000欧元。
+➜Debian准备从OpenPGP中移除SHA-1
+https://www.solidot.org/story?sid=11239	19920
+Debian宣布准备从OpenPGP中<a href="http://it.slashdot.org/article.pl?sid=09/05/08/1429225">移除SHA-1加密算法</a>。<i>
+上周的欧洲密码学会议上，一组安全研究人员<a href="http://eurocrypt2009rump.cr.yp.to/837a0a8086fa6ca714249409ddfae43d.pdf">指出</a>(PDF)SHA-1加密算法受到严重的攻击风险。
+<a href="http://zh.wikipedia.org/w/index.php?title=SHA_%E5%AE%B6%E6%97%8F&amp;variant=zh-hans">SHA-1</a>算法广为应用于各种安全协议中，包括TLS和SSL、PGP、SSH、以及Debian使用的OpenPGP。2005年王小云等中国数学家宣布能在较短的时间内找到一组碰撞，此后SHA-1的安全性被严重质疑。美国政府机构已计划在2010年前在安全系统中去除所有SHA-1。</i>
+➜埃利森称甲骨文不会放弃SPARC
+https://www.solidot.org/story?sid=11240	21120
+甲骨文公司宣布收购Sun之后，一些人推测Oracle也许只对Sun的软件技术感兴趣，可能将出售或终止硬件生意。甲骨文CEO拉里埃利森（Larry Ellison）在一篇登在Oracle网站的访谈中称，这一切不可能发生，<a href="http://www.oracle.com/sun/lje-oracle-sun-faq.pdf">SPARC不会出售给其它人</a>：“一旦正式获得Sun，我们会继续在SPARC上增加投资。我们认为设计自己的芯片非常非常重要，如今甚至连苹果这样的公司都开始设计芯片了。”
+➜Sun股东起诉，试图阻止收购
+https://www.solidot.org/story?sid=11241	22500
+Sun的股东发起了三个独立的共同起诉，试图<a href="http://news.cnet.com/8301-13846_3-10236574-62.html?tag=newsEditorsPicksArea.0">阻止甲骨文公司的74亿美元的收购</a>。起诉书指控Sun的董事局在接受甲骨文的收购时没有履行他们对股东的委托职责，称收购报价是不公平，也不充分。
+➜Windows 7反盗版技术
+https://www.solidot.org/story?sid=11242	24120
+微软宣布它已经改进了Windows 7的反盗版技术，称这么做是<a href="http://tech.slashdot.org/article.pl?sid=09/05/08/1858226">为了保护消费者的利益</a>。
+<i>
+新一代反盗版技术将能让用户比以往更精确的验证软件是否为正版。微软其它操作系统的反盗版工具，包括Windows Genuine Advantage，允许用户推迟“激活”系统。但微软表示它“优化”了Windows 7的激活过程，使用户无法忽略重复出现的提示信息。微软负责反盗版的总经理Joe Williams说，盗版软件给用户带去了糟糕的体验，影响用户对微软产品的成见，尤其是在他们不知道软件是盗版的情况下。Williams举例说，盗版导致了超过1百万Windows Vista的系统崩溃报告。</i>
+➜欧盟100万欧元资助中医药研究
+https://www.solidot.org/story?sid=11243	25200
+伦敦大学国王学院的中医药研究项目<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-05/kcl-kcw050809.php">获得</a>了欧盟的<a href="http://www.kcl.ac.uk/news/news_details.php?news_id=1064&amp;year=2009">995100欧元资助</a>，名为“后基因组时代传统中医药研究的良好实践”（<a href="http://www.kcl.ac.uk/schools/biohealth/research/pharmsci/groups/drug/pharmacognosy-intro.html">GP-TCM</a>）的项目将回顾传统中医药（TCM）研究的目前状态，通过应用现代研究方法，发现问题并提出解决方案，将为欧盟和中国科学家之间交换意见、经验和专家技能提供一个论坛。
+<i>
+国王学院肾脏医学系、基因和细胞疗法部门讲师<a href="http://www.kcl.ac.uk/schools/medicine/research/gcbt/researchgroups/qihexu.html">Qihe Xu</a>博士是项目的协调员，他解释说：“相对于建立在现代解剖学和分子生物学基础上的西方医学的还原论方法，TCM利用一种独特的理论体系和个人化的整体方法描述健康和疾病，它是建立在阴阳平衡的哲学之上的。这两种医学体系在许多情况下不同意对方，因为它们从它们自身有限的观点出发去观察健康。GP-TCM的目标是为最佳实践提供信息，并协调欧盟的TCM的安全性和有效性研究，特别是中国草药和针灸的研究。该项目将分成10部分，它们将回顾中草药的质量控制、萃取和分析等问题。”</i>
+➜Firefox才是Facebook的最大敌手
+https://www.solidot.org/story?sid=11244	27600
+浏览器无疑是互联网的核心组成，Readwriteweb提出了这样一种趋势“<a href="http://www.readwriteweb.com/archives/firefox_could_be_the_real_facebook_challenger.php">浏览器即社交网络；社交网络即浏览器</a>”，因此它推断<a href="http://jas9.blogspot.com/2009/05/firefoxfacebook.html">Firefox才是Facebook的最大敌手</a>。<i>
+Mozilla官方称Firefox目前拥有2.7亿用户，比Facebook现有2亿会员多出35%。据一些分析公司的统计数据，Firefox的市场占有率是22%左右，如果全球有10亿网民（或者说15亿）的话，那么每天使用Firefox的用户就有2.2亿之多（或3亿4千2百多万），远高于Facebook每天1亿访问用户。如果Facebook可以视作是app平台的操作系统，那么Firefox同样可看作是插件扩展等富Web应用的平台...Facebook和Firefox都有各自热心的拥护者......但是占市场六成以上的IE被无视了。</i>
+➜IBM“发明”40分钟会议
+https://www.solidot.org/story?sid=11245	41400
+蓝色巨人自诩是专利革新之领袖，5月7日，美国专利和商标局（USPTO）<a href="http://yro.slashdot.org/article.pl?sid=09/05/08/2046215">公开</a>了IBM于2007年申请的一项专利——《<a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220090119148%22.PGNR.&amp;OS=DN/20090119148&amp;RS=DN/20090119148">提高生产力的系统和方法</a>》。<i>
+专利的背景是公司会议中的时间浪费，因此四位IBM的工程师提出了一种时间管理和时间安排的新方法，用时间模板程序预先定义会议时间。IBM的工程师称，通常会议的日程安排是一个小时，如果缩短一点，比如40分钟，将能使与会者在开会期间更集中注意力，从而提高了生产力。</i>
+➜人权组织抗议日本性暴力游戏
+https://www.solidot.org/story?sid=11246	42840
+立即平等组织（<a href="http://www.equalitynow.org/">Equality Now</a>）在《<a href="http://www.equalitynow.org/english/actions/action_3301_en.html">WOMEN'S ACTION 33.1</a>》一文中，以3D H Game大手厂商Illusion Soft于2006年推出的游戏《レイプレイ(Rapelay)》为例，指责日本游戏业界不断制造“助长、鼓吹对女士性暴力”的游戏，<a href="http://www.cuhkacs.org/~yanlee/blog/read.php?863">要求日本政府立法禁止</a>。数月前一名英国官员发现可以轻易地从亚马逊网站上购买到《Rapelay》，他认为以此题材的游戏会荼毒人类，应该被禁售，并要求亚马逊亦禁止同类游戏出售。当时曾引起不少讨论，Illusion Soft称他们只在日本国内发售此类游戏。<i>
+Illusion社游戏的拥护者<a href="http://www.cuhkacs.org/~alanlee/blog/">谴责美国人伪善</a>，称欧美受欢迎的电子游戏多以杀人放火为题材，如《侠盗猎车（GTA）》《教父》之类烧砸抢杀的第三人称动作游戏，凭什么只准虚拟的杀人放火，不准虚拟的打炮。与其说担心玩家玩完《レイプレイ(Rapelay)》跑出去露械强奸，他更害怕美国青年打完《GTA》冲出去持械行劫。</i>
+➜网友人肉搜索飚车肇事者
+https://www.solidot.org/story?sid=11247	53400
+5月7日晚8时，一位据信前往电影院观看电影《南京！南京！》的25岁年轻人<a href="http://www.lifeall.com/tie-91938941-1.ahtml">谭卓</a>在穿越斑马线时（警方事后称不确定是否在斑马线上）被一辆狂飙的三菱跑车撞飞，<a href="http://news.163.com/09/0509/10/58S70OJK00011229.html">抢救无效后死亡</a>。市内飚车、富家子弟、大学生...事件发生后，引起网民的强烈愤慨，肇事者胡斌的车牌、身份证、住址、手机、身份、父母亲职业及个人照片皆<a href="http://club.china.com/data/thread/1638757/281/48/79/1_1.html#">被网友人肉搜索出</a>。网友还从交警网站中发现肇事者<a href="http://www.tianya.cn/publicforum/content/free/1/1558865.shtml">有过前科</a>：2008年12月他曾在限速120公里/时的高速公路上跑出210公里/时。

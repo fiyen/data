@@ -1,0 +1,94 @@
+➜HTML 简史
+https://www.solidot.org/story?sid=17844	18000
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "HTML 是 Web 统一语言，这些容纳在尖括号里的简单标签，构成了如今的 Web。1991 年，Tim Berners-Lee 编写了一份叫做 “HTML 标签”的文档，里面包含了大约20个用来标记网页的 HTML 标签。他直接借用 SGML 的标记格式，也就是后来我们看到的 HTML 标记的格式。本文讲述了 HTML 这门 Web 标记语言的发展简史。           从 IETF 到 W3C: HTML 4 之路
+<br> <br>HTML 1 并不曾存在，HTML 的第一个官方版本就是由 IETF （互联网工程任务组） 推出的 HTML 2.0。问世之前，这个版本中的很多细则已经被实现，比如，1994年的 Mosaic 浏览器已经实现了在文档中嵌入图片的方法，后来 HTML 2.0 便吸纳了 img 这个标签。
+<br> <br>后来，W3C 取代 IETF 的角色，成为 HTML 的标准组织，1990年代的后半页，HTML 的版本被频繁修改，直到1999年的 HTML 4.01，至此，HTML 到达了它的第一个拐点。<br> <br>
+XHTML 1: XML 风格的 HTML
+<br> <br>HTML 在 HTML 4.01 之后的第一个修订版本就是 XHTML 1.0，其中 X 代表 “eXtensible” ，扩展，当然也有人将之解读为 “eXtreme”，极端。XHTML 1.0 是基于 HTML 4.01 的，并没有引入任何新标签或属性，唯一的区别是语法，HTML 对语法比较随便，而 XHTML 则要求 XML 般的严格语法。
+<br> <br>使用严格的语法规范并非坏事，要求开发者使用单一的代码风格，比如，HTML 4.01 允许你使用大写或小写字母标识标记元素和属性，XHTML 则只允许小写字母。XHTML 1.0 的推出刚好碰上了 CSS 的崛起，Web 开发设计者们开始意识到 Web 标准问题，基于 XHTML 的严格语法规范被视为编写 HTML 代码的最佳实践。
+<br> <br>于是，W3C 推出 XHTML 1.1。
+<br> <br>如果说 XHTML 1.0 是 XML 风格的 HTML，XHTML 1.1 则是货真价实的 XML。这意味着 XHTML 1.1 无法使用 text/html mime-type 直接输出，然而，如果 Web 开发者使用 XML mime-type，则当时的主流浏览器，IE 则压根不支持。看上去，W3C 似乎正在与当时的 Web 脱节。<br> <br>
+出力不讨好的 XHTML 2
+<br> <br>对 W3C 而言，到了 HTML 4 已经是功德圆满，他们的下一步工作是 XHTML 2，希望将 Web 带向 XML 的光明未来。虽然 XHTML 2 听上去和 XHTML 1 类似，它们却有很多差别，XHTML 2 不向前兼容，甚至不兼容之前的 HTML。它是一种全新的语言，赤条条来去无牵挂。这实在是一场灾难。<br> <br>
+WHATWG：与 W3C 决裂
+<br> <br>W3C 闭门造车的作风引起了一些人的不满，来自 Opera, Apple, 以及 Mozilla 的代表开始表达反对声音。2004年，Opera 的 Ian Hickson 提议在 HTML 基础上进行扩展以适应新的 Web 应用，该提议遭到 W3C 的拒绝。于是，他们自发组织成立了超文本应用技术工作组，就是 WHATWG。<br> <br>
+从 Web Apps 1.0 到 HTML5
+<br> <br>从一开始，WHATWG 就和 W3C 走不同的路线，W3C 对问题的讨论是集体投票，而 WHATWG 则由主笔 Ian  Hickson 定度。表面上看，W3C 更民主，然而事实上，各种内部纷争会使一些决议限于泥潭，在 WHATWG，事情的进展会更容易，不过，主笔的权力并非无限大，他们的委员会可以对那些过于偏执的主笔进行弹劾。
+<br> <br>一开始，WHATWG 的主要工作包括两部分，Web Forms 2.0 和 Web Apps 1.0，它们都是 HTML 的扩展，后来，他们合并到一起成为现在的 HTML5 规范。<br> <br>
+言归于好
+<br> <br>在 WHATWG 致力于 HTML5 的同时，W3C 继续他们的 XHTML 2.0，然而，他们慢慢地陷入困境。
+<br> <br>2006年10月，Web 之父 Tim Berners-Lee 发表了一篇博客文章，表示，从 HTML 走向 XML 的路是行不通的，几个月后，W3C 组建了一个新的 HTML 工作组，他们非常明智地选择了 WHATWG 的成果作为基础。这一转变带来一些困惑，W3C 同时进行这两套规范，XHTML 2 和 HTML 5 （注意，W3C 的 HTTML 5 在 5 之前有个空格，而 WHATWG 的 HTML5 则没有空格），而 WHATWG 也在进行着同样的工作。<br> <br>
+XHTML 已死: XHTML 语法永存
+<br> <br>这一混乱局面到了 2009 年开始变得清晰，W3C 宣布终止 XHTML 2 的工作，这是一份关于 XHTML 2 的迟到的讣告。这一消息被那些 XML 的反对者视为珍宝，他们借此嘲笑那些使用 XHTML 1 规范的人，然而他们似乎忘记了，XHTML 1 和 XHTML 2 是截然不同的东西。于此同时，XHTML 1 规范的制定者担心，XHTML 1 中的严格语法规范会被 HTML5 弃用，这种担心后来证明是多余的，HTML5 既支持松散语法，也支持 XHTML 1 般的严格语法。<br> <br>
+HTML5 路线图
+<br> <br>HTML5 的现状是，它不再象以前那样让人困惑，然而仍不够明朗。有两个组织在同时制定它的规范，这两个组织有着完全不同的行事风格，WHATWG 是先买后尝，W3C 是先尝后买，他们形成了一个不太靠谱的联姻，最终人们必将面临一个 HTML5 还是 HTML 5 的问题。
+<br> <br>更让开发者困惑的是，他们什么时候才可以试水 HTML5。
+<br> <br>在一次访谈中，Ian Hickson 提到了 2022，表示要到那时 HTML5 才会形成"推荐标准"，此话一出，立刻招来 Web 设计者们的愤怒，尽管他们不知道推荐标准时什么意思，但他们明白，2022 已经是猴年马月的事了。
+<br> <br>这还不算，更重要的是，这个推荐标准涉及两套规范，考虑到 HTML5 标准的规模，这个日期还是太乐观了，毕竟，各大浏览器以往对既有标准的兼容并不遂人意，想当初，IE 花了10年才接纳 abbr 这个标签。
+<br> <br>2012 年，HTML5 会被接纳为候选标准，这将是 HTML5 真正开始发力的日子。对 Web 开发设计者来说，这并不重要，重要的是浏览器的支持，就像 CSS 2.1，当有浏览器开始支持这一规范的时候，就有开发设计者在使用了，倘若必须等到所有浏览器都支持才开始入手，恐怕我们现在还在等待中。
+<br> <br>HTML5 也一样，并不会有一个时间点，宣布 HTML5 已经准备妥当，相反，我们会先开始使用它的部分功能，HTML5 并不是一个从零开始全新的东西，它是旧的 HTML 标准的改进，事实上，不管你正在使用的 HTML 是哪个版本，你已经在使用 HTML5 了。<br> <br>
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K957.aspx">HTML5： 实至名归还是言过其实？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K918.aspx">关  于 HTML5，开发者可以期待什么？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K701.aspx">深入了解     HTML 5</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K745.aspx">Web     Forms 2.0 行将被 HTML 5 代替</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K828.aspx">XHTML     2: 出师未捷身先死, HTML 5:万千宠爱于一身</a> </li>
+</ul>
+本文国际来源：A List Apart <a href="http://www.alistapart.com/articles/a-brief-history-of-markup/">A Brief History of Markup</a> （原文作者：<a href="http://www.alistapart.com/authors/k/jeremykeith">Jeremy Keith</a>）
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜谷歌承认误收集用户隐私信息
+https://www.solidot.org/story?sid=17845	20880
+<a href="http://www.hi2020.com/">书评影评</a> 写道 "谷歌周五<a href="http://techcrunch.com/2010/05/14/google-admits-to-accidentally-collecting-personal-data-with-street-view-cars/">表示</a>，在过去超过3年的时间中，谷歌由于疏忽而收集了用户通过未加密无线网络发送的隐私信息。谷歌首席工程师Alan Eustace周五在<a href="http://googleblog.blogspot.com/2010/05/wifi-data-collection-update.html">谷歌官方博客</a>中撰文承认了这一问题。欧盟监管部门一个月前要求谷歌对有关街景地图的一系列问题做出解释，例如谷歌的摄影汽车究竟收集了哪些数据，以及谷歌用这些数据做了什么。附：<a href="http://news.qq.com/a/20100322/000928.htm">谷歌街景地图曝光英国空军高度机密军事基地</a>"
+➜新疆网民发现QQ无法登陆
+https://www.solidot.org/story?sid=17846	24120
+时隔十个月之后，新疆终于<a href="__SLASHLINK__" sect="internet" sid="10/05/14/0041256" sn="article" tid="120">全面恢复了互联网通信服务</a>，新疆的大众网民终于又能QQ了。然而QQ的运营商深圳腾讯公司有项极其不合理的政策：用户如果两个月内不登录QQ，那么它就会收回这个帐号。新疆的网民在非自愿的不可抗拒力的状况下没有登录QQ的时间已经长达10个月，他们的QQ帐号是否还能使用？在腾讯的<a href="http://wenwen.soso.com/z/ShowTag.e?sp=1091108864&amp;sp=S%E6%96%B0%E7%96%86*&amp;sp=S%E6%96%B0%E7%96%86&amp;ch=ww.fl.search">官方论坛</a>，有大量新疆用户<a href="http://www.soso.com/q?sp=S&amp;sc=web&amp;cid=w.q.in.sb.web&amp;ch=w.q.in.sb.web&amp;ty=1&amp;bn=&amp;op=entry&amp;kw=&amp;source=&amp;w=qq++%D0%C2%BD%AE#">询问</a>QQ号没了“怎么办”、“找谁要”？去年8月，腾讯<a href="http://www.tianshannet.com.cn/news/content/2009-08/12/content_4388544.htm">宣称</a>，断网期间不会收回新疆网民QQ号，在新疆常用IP下登录的所有QQ号（包括普通号码和支付号码）一律不受时间限制。
+➜激光50年
+https://www.solidot.org/story?sid=17847	25200
+赤色毛虫 写道 "本周日是<a href="http://en.wikipedia.org/wiki/Ruby_laser">红宝石激光</a>----第一束可用激光----在美国Hughes Research Laboratories诞生50周年。<i>
+皇家物理学会等组织利用激光诞生50年向公众展示这一基础物理发现是<a href="http://www.sciencedaily.com/releases/2010/05/100512062626.htm">多么普遍地介入生活</a>，并在未来仍有广泛应用潜质。1974年，一包箭牌口香糖成为第一宗使用激光条码的产品，第一张用激光唱碟录制的音乐作品是1982年Billy Joel的52nd Street。英国Cranfield University的8千瓦高能光纤激光器曾被用来设计巨大的<a href="http://zh.wikipedia.org/zh-cn/%E7%B8%B1%E8%B2%AB%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%AE%A1%E9%81%93">贯穿阿拉斯加管道</a>。现在全球每年激光产品交易额达到50亿英镑。<br>
+University of Southampton退休教授David Hanna表示，人类通过控制电子进入了电子时代，通过对激光的控制正在进入光子时代。激光展示了令人惊讶的能力，我们还需要很长的时间才能明白和挖掘出激光带来的可能性。"</i>
+➜富士康五个月发生九起员工坠楼事件
+https://www.solidot.org/story?sid=17848	27360
+自今年1月份以来，深圳台资富士康公司接连发生<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/05/100515_foxconn_death_nine.shtml">九起员工坠楼事件</a>，最新两起发生在过去五天。<i>
+周五晚间富士康的一名梁姓男员工坠楼身亡。死者身上有四处刀伤，现场发现一把带血的匕首。警方现已介入对事件的调查。5月11日，富士康的河南籍女员工祝晨明跳楼身亡。九名跳楼者均是年轻人，除一人27岁外，其余年龄仅在17至22岁之间。中国精神医学和心理咨询专家认为，这些跳楼事件主要源于年轻员工抗压能力差和心理脆弱。其他原因还包括劳动强度大、远离家人的孤独、管理方缺乏对员工的关怀以及其他个人感情方面的问题。专家还说，根据心理学的理论，自杀会产生心理传染。一人选择自杀，其他人很可能会仿效。</i>《南方周末》周四刊登了一篇<a href="http://www.infzm.com/content/44878">详细的调查报道</a>，富士康不久前<a href="__SLASHLINK__" sect="it" sid="10/05/12/0137215" sn="article" tid="119">还请了高僧做法事</a>。
+➜CentOS 5.5发布
+https://www.solidot.org/story?sid=17849	29100
+CentOS团队<a href="http://lwn.net/Articles/387793/">宣布发布i386和x86_64架构的CentOS 5.5版本</a>。
+CentOS-5.5是基于RHEL（Red Hat Enterprise Linux）5.5版。根据<a href="http://wiki.centos.org/zh/Manuals/ReleaseNotes/CentOS5.5?action=show&amp;redirect=Manuals%2FReleaseNotes%2FCentOS5.5%2FChinese">发行注记</a>：<i>
+CentOS 是一个企业级的 Linux发行版本，它源于上游操作系统提供者免费公开的源代码。CentOS 完全遵守上游提供者的再发行政策，并且以百分之百的软件兼容性为目标。CentOS 5.5 是CentOS 5发行系列的第五次更新。它包含了很多错误修正、升级和新功能。</i>
+BT下载：<a href="http://mirror.centos.org/centos/5.5/isos/i386/CentOS-5.5-i386-bin-1to7.torrent">i386 CD</a>/
+<a href="http://mirror.centos.org/centos/5.5/isos/x86_64/CentOS-5.5-x86_64-bin-1to8.torrent">x86_64 CD</a>；
+<a href="http://mirror.centos.org/centos/5.5/isos/i386/CentOS-5.5-i386-bin-DVD.torrent">i386 DVD</a>/<a href="http://mirror.centos.org/centos/5.5/isos/x86_64/CentOS-5.5-x86_64-bin-DVD.torrent">x86_64 DVD</a>
+➜Ubuntu 10.10可能使用Btrfs为默认文件系统
+https://www.solidot.org/story?sid=17850	31500
+EXT文件系统家族如ext2、ext3、ext4，多年来一直是众多发行版默认的文件系统，桌面发行版Ubuntu当然也不例外。然而现在事件正在发生改变，Ubuntu 10.10 Maverick Meerkat可能<a href="http://linux.slashdot.org/story/10/05/14/2055257/Btrfs-Could-Be-the-Default-File-System-In-Ubuntu-Meerkat">不再默认使用ext4文件系统</a>。<i>
+Canonical公司雇员、Ubuntu开发主管Scott James Remnant在<a href="http://www.netsplit.com/2010/05/14/btrfs-by-default-in-maverick/">博客</a>上说，他们正在设法让btrfs作为Ubuntu 10.10的可选文件系统，而且不排除让btrfs作为默认文件系统。Scott指出，预计到内核2.6.35发布之时btrfs将不会在kernel配置文件中标记为是一种“实验性”的文件系统，Ubuntu Maverick Meerkat预计将使用2.6.35。</i>
+➜Google CEO希望与中国和平共处
+https://www.solidot.org/story?sid=17836	32400
+在年度股东大会上，Google CEO Eric Schmidt<a href="http://news.yahoo.com/s/ap/20100514/ap_on_hi_te/us_google_meeting">谈论了很多中国</a>，而对于快速发展的移动市场，以及竞争对手苹果却说得很少。从3月末开始，谷歌中国的搜索已经重定向到Google香港，一国两制下的香港没有与大陆相同的限制。<i>
+在大会上，虽然有投资者担心目前留在中国的业务，但Schmidt表示当前的情况十分稳定，但他也谨慎的表示如果中国政府的敌意增加，那么形势可能会迅速发生改变。</i>
+<a href="https://www.google.com/buzz/xiaomi2020/anV2TM7SrqV/%E7%BE%8E%E8%81%94%E7%A4%BE-Google%E7%9A%84CEO%E5%9C%A8%E8%82%A1%E4%B8%9C%E4%BC%9A%E8%AE%AE%E4%B8%8A%E8%AE%A8">全文翻译</a>
+➜亚特兰蒂斯号最后一次发射顺利升空
+https://www.solidot.org/story?sid=17851	43500
+亚特兰蒂斯号航天飞机于5月14日世界时18时20分（北京时间15日2时20分）<a href="http://science.slashdot.org/story/10/05/14/1912224/Atlantis-Blasts-Off-On-Final-Mission">发射升空</a>（NASA官网的<a href="http://www.nasa.gov/multimedia/videogallery/index.html?media_id=13894434">视频</a>），飞往国际空间站执行STS-132任务，这也是它退役前的最后一次飞行。亚特兰蒂斯号将为空间站送去一个俄罗斯的<a href="http://www.nasa.gov/centers/kennedy/stationpayloads/research_module.html">迷你研究模块舱</a>，一些替换和备份的硬件。在其12天的飞行任务中，宇航员将执行3次太空行走，替换6个用于储存太阳能电池板能量的电池，安装一个备用的空地Ku波段天线，为加拿大的Dextre机械臂增加一个新的工具平台。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E4%BA%9E%E7%89%B9%E8%98%AD%E6%8F%90%E6%96%AF%E8%99%9F%E5%A4%AA%E7%A9%BA%E6%A2%AD">亚特兰蒂斯号</a>首次发射是在1985 年10月3日，执行代号为STS-51-J的任务，其后的主要任务包括：1989年5月发射麦哲伦号金星探测器；1989年10月发射伽利略号木星探测器；1995年6月航天飞机第一次与和平号空间站对接；1995年11月为和平号空间站带去航天飞机对接舱；2009年5月执行维修哈勃空间望远镜任务。</i>
+➜phpMyAdmin开发人员访谈
+https://www.solidot.org/story?sid=17852	44880
+<a href="http://cheweb.org/">Ven</a> 写道 "如果说哪个开源程序不需要介绍大家就认识，那一定是<a href="http://www.phpmyadmin.net/">phpMyAdmin</a>，一款流行的MySQL数据库的Web管理界面。MySQL是全球最流行的Web程序数据库，而phpMyAdmin让MySQL更易于管理。phpMyAdmin允许数据库设计师连接MySQL，查看他们具有权限的所有数据库和数据表，并在上面执行操作，如创建和调整表结构、插入和更新数据、导入和导出，以及在多个服务器上同步数据。
+<i>phpMyAdmin是<a href="http://sourceforge.net/">SourceForge.net</a>上“最活跃”和“下载量最多”的程序。phpMyAdmin项目主导人之一的Marc Delisle说，像phpMyAdmin这样流行的程序，难题之一是如何支持如此之多的用户。“我们的用户范围非常宽，一些人精通数据库原理，而另一些则几乎是门外汉。我们努力为不同用户提供支持，这非常不容易。另一个难题是是处理web环境自身的问题，如应对不同的操作系统，web服务器问题，以及浏览器兼容性问题”。
+</i>           你也许认为如此流行的项目需要很多开发者来维护，而据Delisle透露，“不算翻译人员，当前我们实际上只有4名开发者，因此在沟通协作上完全没有问题。其他人员虽然没有参与代码编写，但他们也在负责着项目的重要组成部分，如维护项目wiki、在IRC上提供帮助、帮我安排好phpMyAdmin的各类会议等等。”
+<br> <br>phpMyAdmin项目同时欢迎来自用户的贡献。“这是一个社区项目，”Delisle说到，“是的，人们可以建议新的功能，但我们更希望用户给项目贡献真正的代码，或参与到我们超过60种语言的翻译工作中来。”
+<br> <br>“近几年，通过加入<a href="http://code.google.com/soc/">Google Summer of Code</a>，我们实现了一些重大的新功能。参与GSoC的一个巨大好处就是为我们带来了很多活跃的开发者。”
+<br> <br>phpMyAdmin于2001年进驻SourceForge.net。“SourceForge很好的满足了我们的需求，我们找不到换到其他平台的理由。”Delisle说。“但是同时，我们在我们的SourceForge主页上发现很多用户在抱怨下载出错，希望SourceForge在这方面能做得更好。”
+<br> <br>本文链接地址：<a href="http://cheweb.org/438.html">phpMyAdmin开发人员访谈&mdash;&mdash;4个人支持整个项目</a>，转载自<a href="http://cheweb.org/">扯Web</a>"
+➜日本建造等比例大小的新世纪福音战士模型
+https://www.solidot.org/story?sid=17853	48300
+日本对等比例大小的动漫模型无比狂热。去年夏天为了纪念高达系列诞生30周年，一座1:1比例的高达机器人模型在东京树立了几个月；为了纪念城市从1995年的毁灭性地震中恢复过来，一座18米高的铁人28号等比例模型在神户揭开面纱。现在继高达、铁人28号之后，日本<a href="http://entertainment.slashdot.org/story/10/05/14/1614205/Life-size-Eva-Unit-01-Being-Built-In-Japan">将建造</a>等比例大小的新世纪福音战士<a href="http://news.sanhaostreet.com/Newsdata/2010/5/201051395748244.shtml">Eva Unit 01模型</a>，高度将达到80米！堪比一栋20多层的楼房，预定将于2010年7月23日起，于日本山梨县的Fuji-Q Highland（富士急）乐园登场，预计总施工费用1亿5千万日元。
+➜Google表示将推出加密版搜索服务
+https://www.solidot.org/story?sid=17854	51360
+Google高级副总裁Alan Eustace周五在为Google街景车收集未加密WIFI信息道歉时<a href="http://googleblog.blogspot.com/2010/05/wifi-data-collection-update.html">提到</a>，自年初Gmail服务对所有用户启用加密保护之后，下周Google将提供一个加密版的搜索服务。Google还表示维护用户的信任对它十分重要，因此它将完全停止用街景车收集WIFI网络数据。在周四的年度股东大会上，负责搜索产品和用户体验的副总裁Marissa Mayer在回答提问时已经暗示了将提供加密搜索功能。<a href="http://news.cnet.com/8301-30684_3-20005055-265.html">Google目前拒绝对加密服务如何运作发表更多评论</a>。
+➜NIST发布新版数学函数手册
+https://www.solidot.org/story?sid=17855	54480
+美国国家标准和技术研究所（NIST）<a href="http://www.nist.gov/itl/math/math_051110.cfm">发布</a>了新版本的数学函数手册，其数字版本现已公布在<a href="http://dlmf.nist.gov/">NIST数学函数数字图书馆</a>上。<i>
+NIST数学函数手册最初出版于1964年，是工程师和科学家必不可少的参考工具。1964年的版本共售出了100万册以上，至今该手册的年平均引用次数在科学论文中仍然超过了1600次。新版本的完成经历了10年的努力。支持MathML的浏览器如Firefox或者安装了插件的IE，可以像可伸缩的文本那样浏览方程式；3D可视化的插件支持PC、Mac和Linux系统，用户可以在本地旋转和缩放。</i>

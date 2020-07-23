@@ -1,0 +1,51 @@
+➜RethinkDB改变许可证，捐赠给Linux基金会
+https://www.solidot.org/story?sid=51259	10572
+Cloud Native Computing基金会<a href="https://www.cncf.io/blog/2017/02/06/cncf-purchases-rethinkdb-source-code-contributes-linux-foundation-apache-license" target="_blank"><u>宣布</u></a>它购买了NoSQL分布式面向文档数据库RethinkDB的源代码版权，将授权协议从Affero GPLv3改为Apache v2，并将其捐赠给Linux基金会。RethinkDB数据库由同名公司开发，由于未能建立起一个可维持的业务，RethinkDB公司在2016年10月宣布关闭，将数据库开源，但不再提供商业支持。Cloud Native Computing基金会称，RethinkDB数据库被数以百计的创业公司、咨询公司和财富五百强企业使用，其中包括NASA、GM、Jive、Platzi、美国国防部、Distractify和 Matters Media。
+➜Vizio支付220万美元了结智能电视监视用户指控
+https://www.solidot.org/story?sid=51260	14398
+被乐视收购的美国智能电视制造商Vizio支付220万美元<a href="https://arstechnica.com/tech-policy/2017/02/vizio-smart-tvs-tracked-viewers-around-the-clock-without-consent/" target="_blank"><u>了结</u></a>在用户不知情下监视其观影习惯的指控。Vizio智能电视默认启用了“智能交互”功能，利用自动内容识别软件捕捉电视上每秒显示的视频信息，软件还会收集其它个人信息和观影数据，出售给未知第三方用于观影习惯测量、分析和跟踪。Vizio与FTC的<a href="https://www.ftc.gov/system/files/documents/cases/170206_vizio_2017.02.06_complaint.pdf" target="_blank"><u>和解协议</u></a>（PDF）要求Vizio删除它在2016年3月1日前收集的所有用户数据，并要求未来收集用户数据时进行披露和征得用户同意。
+➜Kodi 17.0发布
+https://www.solidot.org/story?sid=51261	16807
+开源多媒体播放器项目Kodi<a href="https://kodi.tv/kodi17/" target="_blank"><u>发布了17.0 (Krypton)</u></a>。主要特性包括：全新外观，Kodi默认使用新皮肤 <a href="https://kodi.tv/kodi-v17-krypton-default-skin-next-gen/" title="Estuary" target="_blank">Estuary</a>，为触摸设备提供了相应的皮肤 <a href="https://kodi.tv/kodi-v17-krypton-default-skin-next-gen/" title="Estuary" target="_blank">Estouchy</a>；视频引擎正在进行多阶段的重写，Kodi 17.0 改进了稳定性，音频/视频同步，刷新率切换；改进了 Live TV和 PVR 功能；兼容Android官方Audio API ，要求版本 Android 5.0+；Windows 10版本进入了Windows Store应用商店，Windows 7 和 8（10）用户仍然可以下载<a href="https://kodi.tv/download/" target="_blank"><u>普通安装版本</u></a>；更多可查看<a href="http://kodi.wiki/view/Kodi_v17_(Krypton)_changelog" target="_blank"><u>Changelog</u></a>。
+➜装货机器人一路跟随着你装东西
+https://www.solidot.org/story?sid=51262	19158
+<div align="center"><img src="http://img.solidot.org/0/107/liHqUt6yrCVw.jpg" width="500" align="" height="333"><br>
+</div>
+<br>
+人类通常需要随身携带大量东西，背一个大背包，或者手里拿着一个大袋子。我们并不喜欢这么做，所以意大利公司<a href="http://piaggiofastforward.com/" target="_blank"><u><span>Piaggio Fast Forward （PFF）</span></u></a>试图通过能装重物的移动机器人<a href="http://spectrum.ieee.org/automaton/robotics/home-robots/piaggio-cargo-robot" target="_blank"><u>来解决这个问题</u></a>（如图所示）。被称为Gita的滚动机器人能装19公斤的货物，时速最高35公里，能自动跟随步行、慢跑或骑着自行车的用户。Gita的主要导航系统是一对安装在机器人身上的立体摄像机，能持续执行同时定位与地图创建，通过对比自己的地图和用户的地图来一路跟随着你，而用户的腰带上也需要装上立体摄像机。机器人和腰带通过专门的无线网络进行通信，即使用户不在机器人的视野里它也能跟踪你。PFF表示其产品将在未来几个月进行更广泛的测试。
+➜Facebook和Google在法国打击假新闻
+https://www.solidot.org/story?sid=51263	19983
+Google和Facebook<a href="http://www.ftchinese.com/story/001071268" target="_blank"><u>宣布</u></a>加入名为Crosscheck的行业联盟，拟在今年4月法国总统大选前在该国进行新闻打假，以回应外界对他们在打击虚假新闻报道方面做得不够的持续批评。欧盟委员会上月向这两家集团发出警告，他们如果不采取行动阻止虚假新闻的病毒式传播，将面临来自布鲁塞尔的行动。Crosscheck表示，该组织的17家成员机构将“查找并核实在线公开传播的所有内容，包括照片、视频、评论和新闻网站，其中法国总统大选为关注重点”。Facebook还将在法国测试该公司自己推出的事实核查工具，该公司已经与法国的事实核查机构开展合作。Facebook在一份声明中表示：“当一则报道被两家事实核查机构描述为虚假信息时，它将被标记为有争议，将显示一个预警。”
+➜前NSA合同工据报窃取了四分之三的TAO黑客工具
+https://www.solidot.org/story?sid=51264	27144
+《华盛顿邮报》<a href="https://www.washingtonpost.com/world/national-security/prosecutors-to-seek-indictment-against-former-nsa-contractor-as-early-as-this-week/2017/02/06/362a22ca-ec83-11e6-9662-6eedf1627882_story.html" target="_blank"><u>报道</u></a>，前NSA合同工 Harold T. Martin III 窃取了超过50TB的高度敏感数据，其中包括TAO黑客工具库四分之三以上的恶意程序。Tailored Access Operations（TAO）是NSA专门开发和部署先进黑客漏洞利用工具的黑客团队。53岁的Harold Thomas Martin III于去年8月27日被捕，而在他被捕前，自称Shadow Brokers的组织在网上泄漏了TAO开发的恶意程序。目前不清楚Martin与该组织是否存在关系，一种猜测是Martin向Shadow Brokers提供了他窃取的TAO黑客工具，另一个可能性是Shadow Brokers通过入侵Martin的计算机获取了TAO的工具。
+➜从围棋培训看中国的精英教育
+https://www.solidot.org/story?sid=51265	28794
+被称为“史上最强”柯洁年仅19岁就达到九段。围棋曾是日本的看家本领，为何如今中国能超越日本？日经报道了<a href="http://cn.nikkei.com/columnviewpoint/column/23426-2017-02-07-15-14-33.html" target="_blank"><u>中国培养特殊人才的培训文化</u></a>。最初教会柯洁围棋的培训班教师称，现在中国竞争激烈，父母们都很拼。为了不让孩子输在起跑线上，一般从小就开发孩子的才能，围棋只是其中之一。中国父母拼命为孩子寻找特长还有另一个理由，那就是特长和升学密切相关。特长可在中考和高考中加分。连北京大学这样的高校，高考成绩没过线的学生也能通过体育及文化等特长加分入学。正因为如此，除了学习之外，中国父母为让孩子学习特长付出非同寻常的努力。从英语到钢琴、小提琴、绘画，中国到处都有面向幼儿开设的培训班也是正因于此。虽然幼儿教育存在过热问题，但中国长期受到诟病、偏重记忆的“填鸭式”应试教育也因为实行加分制而多少得到一些纠正。为培养柯洁这样的天才提供了沃土。
+➜IBM研究人员测量了单个量子点的热传导
+https://www.solidot.org/story?sid=51266	31321
+IBM苏黎世实验室的研究人员向难以证明的<a href="https://en.wikipedia.org/wiki/Wiedemann%E2%80%93Franz_law" target="_blank"><u>维德曼–夫兰兹定理</u></a>（Wiedemann–Franz law）提供了实验证明。他们成功测量了用黄金制成的金属量子接点的热传导。听起来似乎没什么了不起——测量是在室温下单原子水平上完成的——这是有史以来第一次。<a href="http://nature.com/articles/doi:10.1038/nnano.2016.302" target="_blank"><u>研究报告</u></a>发表在本周出版的《Nature Nanotechnology》期刊上。通过实验证明了维德曼–夫兰兹定理之后，它将可以被用于有把握的预测和探索纳米尺度下的热和电传导现象。
+➜黑客让全世界16万台打印机打印ASCII 艺术图
+https://www.solidot.org/story?sid=51267	32654
+全世界16万台联网打印机接受一名黑客的指令<a href="https://www.theregister.co.uk/2017/02/06/hacker_160000_printers/" target="_blank"><u>打印了ASCII 艺术图</u></a>，黑客同时发送的警告信息显示：“Hacked. Stackoverflowin/stack the almighty, hacker god has returned to
+his throne, as the greatest memegod. Your printer is part of a flaming
+botnet. Your printer has been pwn'd."这位叫Stackoverflowin/stack的黑客自称不到18岁，他说自己是在阅读了打印机相关安全文章之后开始调查联网打印机，他写了一个脚本扫描开放端口访问的联网打印机（如9100、631和515端口）。物联网搜索引擎Shodan.io显示有14.3万台设备开放了9100端口访问。这位少年黑客称他利用了施乐打印机Web界面的远程访问漏洞去控制打印机，表示入侵联网打印机非常轻松。
+➜英特尔Atom C2000芯片缺陷会让设备变砖
+https://www.solidot.org/story?sid=51268	34998
+英特尔Atom C2000芯片家族存在缺陷会导致使用该芯片的产品<a href="https://www.theregister.co.uk/2017/02/06/cisco_intel_decline_to_link_product_warning_to_faulty_chip/?mt=1486459045277" target="_blank"><u>停止工作</u></a>。芯片巨人没有披露受影响的产品和存在缺陷的芯片数量，但已经预留了一笔资金处理该问题。在这之前，思科发出警告称，2016年11月16日前出售的路由、光网络和交换机产品包含了一个有缺陷的时钟元件，会导致设备在运行18个月后加速发生故障。思科没有披露元件供应商的名字，但根据芯片巨人自己公布的<a target="_blank" rel="nofollow" href="https://www-ssl.intel.com/content/dam/www/public/us/en/documents/specification-updates/atom-c2000-family-spec-update.pdf">Atom C2000家族</a>修订版文档，英特尔就是思科的供应商。英特尔在文档中称，缺陷可能会导致Atom C2000 Low Pin Count总线时钟输出停止工作，而如果LPC时钟停止工作，系统也将无法启动。存在缺陷的产品型号是 Atoms C2xxx B0步进，英特尔从2013年开始供应这些产品。
+➜76款流行iOS应用被发现易被中间人攻击
+https://www.solidot.org/story?sid=51269	38121
+研究人员发现，苹果应用商店里的76款流行iOS应用实现后端服务加密通信的方式使用户信息<a href="https://arstechnica.com/security/2017/02/dozens-of-popular-ios-apps-vulnerable-to-intercept-of-tls-protected-data/" target="_blank"><u>容易遭到中间人攻击的拦截</u></a>，应用程序很容易被代理服务器发送的伪造证书愚弄。Sudo Security Group公司的<a href="https://verify.ly/#">verify.ly</a>服务通过对苹果 App Store应用二进制文件执行批量静态分析后得到了这一结果。此类的漏洞早已屡见不鲜，但令人不安的即使苹果尝试推动应用开发者加强安全，这一现象没有发生多少改观，尤其值得警惕的是这些流行应用程序很容易泄漏用户的敏感信息。
+➜用内脏的流体驱动可摄取电子元件
+https://www.solidot.org/story?sid=51270	39826
+今天装在胶囊内的可摄取电子元件能在内脏中捕捉视频、释放药物、记录温度和<span>pH</span>值等生命特征，但绝大多数可摄取电子元件依靠的是含有有毒材料的传统电池。科学家尝试过利用体热能驱动电子元件，但发现内脏中没有足够的热梯度去实现热驱动，而无线电力输送也不很成功。发表在《Nature Biomedical Engineering》期刊上的<a href="http://nature.com/articles/doi:10.1038/s41551-016-0022" target="_blank"><u>最新研究</u></a>表明，未来可吞食电子元件能<a href="http://spectrum.ieee.org/the-human-os/biomedical/devices/powering-ingestible-electronics-with-gut-fluids"><u>从内脏流体化学反应收集能量进行驱动</u></a>。对活猪的实验显示，原型设备能从内脏收集到足够使用一周（6.1天）的能量。
+➜上海楼市“传播谣言”案开庭
+https://www.solidot.org/story?sid=51271	42514
+上海去年9月<a href="http://www.solidot.org/story?sid=49657" target="_blank"><u>逮捕了</u></a>7名房地产经纪人，理由是他们“故意”传播谣言以影响住宅市场并提升个人业绩。谣言称，中国央行将从9月1日起对那些离婚不足一年的个人提高抵押贷款首付要求和基准利率。由于购房者急于在新政生效前锁定抵押贷款，该谣言导致房价和销量飙升。由于已婚夫妻试图躲避新政，谣言还引发了（假）离婚潮。今天，上海浦东新区法院<a href="http://china.caixin.com/2017-02-07/101050956.html" target="_blank"><u>开庭审理这起案件</u></a>。公诉机关给出的一个被告谣言对楼市异动负有责任的证据是：上海市住建委通过舆情监测了解到这一谣言后触动了重大舆情应对机制。公诉机关以2013年9月公布的《最高人民法院、最高人民检察院关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释》指控被告的行为构成了“寻衅滋事”罪。
+➜Google在中国“玩”不起来
+https://www.solidot.org/story?sid=51272	44772
+The Information援引消息来源<a href="https://www.theinformation.com/netease-offers-google-a-way-back-to-china" target="_blank"><u>报道</u></a>（付费墙），Google正与网易谈判组建合资企业将其应用商店 Google Play 引入中国。过去几年，Google Play入华的传言不绝于耳，但都没有变成事实。即使Google真的发布了 Google Play的一个中国版本，彭博社的一篇评论认为搜索巨人的应用商店也难以<a href="https://www.bloomberg.com/gadfly/articles/2017-02-06/google-china-app-entry-won-t-be-something-to-shout-about" target="_blank"><u>取得多少立足之地</u></a>。在中国，审查不仅仅是一种信息控制的工具，同时也被用作保护主义的工具。Google在2010年离开中国，除了审查，还有一个原因是它被政府支持的本土搜索引擎百度打败了。因为Google Play在中国的缺席，腾讯和奇虎等众多应用商店已经填补了Google留下的空白。而应用商店要想取得一席之地需要被预装在移动设备上，没有预装的应用商店在消费者眼里基本上是不存在的。今天中国的消费者可以通过VPN等工具间接的访问Google Play，但很难付费购买应用。如果Google真的愿意接受中国苛刻的审查条件，那么Google将会再次变成中国特色的谷歌，而不再是人人喜欢的Google，这对北京来说是一场胜利。
+➜微软使用过的版本控制系统
+https://www.solidot.org/story?sid=51273	47009
+微软在<a href="http://www.solidot.org/story?sid=51235" target="_blank"><u>宣布</u></a>Git虚拟文件系统GVFS时透露了一个消息：昔日将Linux视为大敌的软件巨人将Linux之父
+Linus Torvalds 开发的开源分布式版本控制系统Git 用于管理 Windows 的源代码。微软软件传统上使用的版本控制系统叫 Source Depot，它是一个私有和仅供内部使用的集中式版本控制系统，据信是<a href="https://en.wikipedia.org/wiki/Perforce_Helix" target="_blank"><u>Perforce</u></a>商业版本控制系统的一个定制版本。雷德蒙巨人曾经开发过自己的版本控制产品，早期有SourceSafe，近期有Team Foundation Server (TFS)的Team Foundation Version Control (TFVC)，基于集中模式的可扩展版本控制系统。TFS不仅可用于版本控制，还支持bug跟踪、测试、自动构建和项目管理。但微软的大型遗留产品如Windows和Office仍然在继续使用Source Depot，Source Depot和TFVC都是集中式的客户端服务器模式。从2013年起，微软开始在 TFS中整合了分布式的Git，今天的TFS和Visual Studio都支持集中式和分布式的版本控制系统。在Git得到第一方支持之后，加上微软开始拥抱开源模式，Git在公司内部快速普及，除了开源产品使用外，闭源产品如 Windows<a href="https://arstechnica.com/information-technology/2017/02/microsoft-hosts-the-windows-source-in-a-monstrous-300gb-git-repository/" target="_blank">如今也拥抱了Git</a>。

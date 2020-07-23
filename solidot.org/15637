@@ -1,0 +1,68 @@
+➜苹果宣布7.9英寸iPad Mini和new new iPad
+https://www.solidot.org/story?sid=31930	4500
+苹果在周二举行的新闻发布会上<a href="http://arstechnica.com/apple/2012/10/ipad-mini-with-7-9-inch-display-to-take-on-google-amazon/">宣布了</a>7.9英寸iPad Mini，新版9.7英寸iPad，13英寸<a href="http://www.apple.com/macbook-pro/">Retina MacBook Pro</a>（分辨率2560x1600），21.5英寸和27英寸<a href="http://www.apple.com/imac/">iMac</a>（显示屏分辨率分别为1920x1080和2560x1440）等。<i>
+<a href="http://www.apple.com/ipad-mini/specs/">iPad Mini</a>的规格是：7.9英寸1024x768 iPS触摸屏(163 ppi)，双核A5处理器（与iPhone 4S和iPad 2相同），前置120万像素后置500万像素摄像头，电池续航力9到10小时，容量可选16GB/32GB/64GB，支持WIFI和LTE，价格比之前的流言高出许多，也远高于竞争对手 Nexus 7和Kindle Fire HD，WIFI版售价329/429/529美元，LTE版加价130美元，WIFI版于11月2日上市，LTE版上市时间为11月16日。第四代<a href="http://www.apple.com/ipad/overview/">9.7英寸iPad</a>主要变化是新的双核A6X处理器，价格与相同配置的第三代iPad一样，上市时间也与iPad Mini一样。
+</i>
+➜分析苹果A6X处理器细节
+https://www.solidot.org/story?sid=31931	6120
+第四代iPad的最大亮点是A6X处理器，整合了两个CPU核心和四个GPU核心，苹果在广告中声称它的CPU和图形性能两倍于A5X处理器，除此之外没提供任何细节。Ars的一篇文章根据已知的A5X和A6处理器规格<a href="http://arstechnica.com/apple/2012/10/deducing-details-about-apples-a6x-processor/">推导A6X处理器的内部细节</a>。<i>
+基于Cortex A9的双核A5X处理器频率1GHz，iPhone 5使用的双核A6处理器运行频率1.2GHz，两个A6核心性能两倍于两个核心频率800MHz的A5处理器。文章因此推测苹果将A6X的核心频率提高到了1.5GHZ。A5整合了两个SGX543 GPU核心，A5X整合了四个SGX543 GPU核心，A6X的图形性能两倍于A5X，苹果是如何做到的？文章推测，A6X不可能使用刚刚发布的新一代PowerVR核心，GPU核心估计仍然使用SGX543，苹果采取的做法可能仍然是提高频率，将GPU频率从A5X的 250MHz提高到 500MHz。
+</i>
+➜中国网民撵走广州官员
+https://www.solidot.org/story?sid=31932	8400
+广州番禺城管局政委蔡彬因收受贿赂<a href="http://china.caixin.com/2012-10-22/100450479.html">被双规</a>，在此之前有网民曝光蔡彬及其亲属拥有房产21套(实际调查为22套)，估价多达4000万人民币，而蔡彬的月薪是1万元。在十年一度的领导层换届之际，腐败引起的愤怒是共产党面临的<a href="http://online.wsj.com/article/SB10001424052970203630604578072710242469722.html">最紧迫问题之一</a>。蔡彬是两个月内第二个因网民曝光而落马的中国高级官员。
+➜认知增强剂的使用伦理问题
+https://www.solidot.org/story?sid=31933	10320
+学习或研究需要高度集中注意力，维持长时间的艰苦思索。因此在许多大学里，学生和研究人员会服用一些注意力不集中症（ADHD）的非处方药物，例如阿得拉(Adderall)和利他林（Ritalin），它们被作为“study drug”或者是“认知增强剂”使用。但<a href="https://en.wikipedia.org/wiki/Adderall">阿得拉</a>是一种上瘾性药物，有副作用。假如有一天能研制出没有任何副作用的认知增强剂，我们是否可以任意使用，为自己创造大自然母亲没有赋予我们的能力？认知增强剂的<a href="http://science.slashdot.org/story/12/10/23/0055251/is-non-prescription-adhd-medication-use-ever-ethical">使用伦理问题存在争议</a>。有人认为，我们不能滥用此类药物，因为它们是设计帮助真正有需要的人，例如注意力不集中症患者。另一些人认为，如果人们能提升自己的能力，这有什么错的？
+➜数字时代的冷战：防火墙是柏林墙
+https://www.solidot.org/story?sid=31934	13200
+美国和以色列用Stuxnet蠕虫破坏伊朗的铀浓缩设施，而中国和俄罗斯则被认为卷入了针对西方的网络攻击，这些国家同时利用防火墙审查公民。一切仿佛似曾相识，<a href="http://www.scmagazineuk.com/the-new-cold-war/article/264854/">好像是数字时代的新冷战</a>。<i>
+冷战发生在两个具有互相毁灭对手能力的超级大国之间，今天的境况不同往日，甚至是政局不稳定的国家，如朝鲜和伊朗也正在拥有或已经拥有核能力，而情报机构窃取情报也比以前更容易。Cyber-Ark的创始人Udi Mokady认为，今天的网络渗透类似冷战时期的谍报技术，攻击者和冷战间谍都是瞄准能接触敏感信息的高层，但不同之处是网络攻击者的风险更低，身份更难曝光，难以识别攻击者是否是政府资助。例如Google曾指责中国政府渗透Gmail监视异议人士，但它并没有确凿证据。<br>
+互联网的一项基本功能是分享信息，共产党政府对此非常担心，因此建立了防火墙，控制和过滤通过网关的所有流量。黑名单上的网站被屏蔽，被认为传播有害信息的网站被下线，包含敏感词的内容被删除。西方观察者认为，防火墙类似于冷战期间俄罗斯在东德时代对信息的控制，但它的效率低于柏林墙，因为今天的情况比过去更复杂，也更难控制。</i>
+➜中国出口手机利润率不到1%
+https://www.solidot.org/story?sid=31935	13800
+官方新华网<a href="http://news.xinhuanet.com/fortune/2012-10/23/c_113467802.htm">报道</a>，“每100个来自非洲的朋友中，至少有2个拥有一部来自中兴通讯的终端产品。”中兴通讯股份有限公司终端高级工程师王雅康说，2011年中兴通讯手机与数据类产品终端发货量达1500万支。工信部统计数据显示，2001年，我国手机产量仅为8031万部。到2011年，我国手机产量就已经达到11.3亿部；当年出口总量达到8.8亿部，占全球出口量的近八成。但手机的利润率不到1%，99%的利润都被苹果、三星两家公司赚去。一家小型手机厂商负责人介绍称，现在出口非洲一部售价300到400元人民币的手机，获取的纯利润大约在2至3元，
+➜PS3加密密钥泄漏
+https://www.solidot.org/story?sid=31936	19080
+黑客组织The Three Musketeers在pastie.org上<a href="http://pastie.org/5102182">公开了</a>索尼PS3主机的核心加密密钥LV0 key，该密钥的泄漏将可以让黑客和改机者更容易绕过索尼的限制。密钥可用于解密索尼发布的安全更新，让定制固件成为可能，例如绕过PS3的hypervisor安装具有完整硬件访问权限的GNU/Linux系统。The Three Musketeers说，他们发现LV0 key已有一段时间，之所以现在公开是因为有其它黑客组织利用该密钥构建和出售定制固件BlueDiskCFW，他们不希望自己的工作成果变成<a href="http://arstechnica.com/gaming/2012/10/sony-faces-setback-as-hackers-release-playstation-3-decryption-keys/">他人的牟利工具</a>。
+➜鲸鱼自发模仿人类声音
+https://www.solidot.org/story?sid=31937	20160
+根据发表在Current Biology期刊的一篇<a href="http://www.cell.com/current-biology/abstract/S0960-9822(12)01009-3">研究报告</a>，一只已去世的白鲸被发现自发<a href="http://media.eurekalert.org/multimedia_prod/pub/media/48866.mp3">模仿人类声音</a>（mp3）。<i>
+这只鲸鱼名叫NOC，研究负责人芮吉威（Sam Ridgway）说：“我们的观察显示，NOC必须调整发声方式，才能发出像人说话的声音。这种明显意图显示，<a href="http://www.cna.com.tw/News/aIT/201210230329.aspx">NOC有交流的动机</a>。”芮吉威与他的同事是在1984年首度注意到鲸鱼与海豚围栏附近传出一些不寻常声音，听起来像是有两人在远处对话。监听发现鲸鱼发声频率跟人声很类似，基本频率比一般鲸鱼的声音低了好几个八度，更接近人声。</i>
+➜3D技术为何未能普及起来
+https://www.solidot.org/story?sid=31938	21840
+3D技术被视为电影和视频的下一个重大革新，但直到今天，3D电影的市场还只是一个小众市场，而3D电视机普及的速度仍然缓慢，虽然市场研究公司NPD预测，3D电视机将从2011年的区区2500万台增长到2019年的1.8亿台。阻碍3D技术流行的一个主要原因是它需要佩戴眼镜，否则图像会模糊不清，这个问题很难解决。迄今为止，只有东芝推出过一款完全不需要眼镜的3D电视，但见过这款产品的人都对其价格和图像品质表示怀疑。<a href="http://www.fortunechina.com/business/c/2012-10/24/content_123305.htm">3D市场要发展壮大</a>，必须是不需要额外配备眼镜，只用裸眼观看。
+➜莫言如何获得诺贝尔评奖委员会和中国政府的青睐
+https://www.solidot.org/story?sid=31939	23280
+莫言如何同时获得诺贝尔评奖委员会和中国政府的青睐？Yaxue Cao试图通过几篇文章回答这一问题。她<a href="http://seeingredinchina.com/2012/10/23/mo-yan-according-to-you-part-two/">指出</a>(<a href="http://feedproxy.google.com/~r/yizhe/~3/trTdV6IBiOQ/2.html">作者自译</a>)，中国文坛在过去三十年内发生了巨大变化，尽管党还是经常给作家“布置宣传任务”，但今天的文人像毛时代那样直接为党唱赞歌已经是很不时髦、很被人看不起的事情，而歌颂与赞美的作品阿早已不受读者欢迎，根本没有市场。这一点，党知道，作家更是知道。在中国目前有名或者畅销的作家中，没有一个是以颂扬共产党而成功的。与前三十年不同，党现在已经不要求他们写颂歌，党只是要确保他们没有写什么威胁或触犯的东西。作者认为，莫言的作品并不具有多少批判性，在很多方面实际上是弱化了现实，是用高度简化和高度符号化的框架去写过去的灾难，不具有任何刺激与挑战。以最新一部批评中国计划生育政策作品《蛙》为例，书中姑姑的原形是
+莫言真正的姑姑，她最近接受采访时<a href="http://www.youtube.com/watch?v=klW24HevZkQ">表示</a>（YouTube），作为一位乡村产科医生，40年里接生了约两万婴儿，流产的婴儿则是双倍（约四万），而在书中姑姑只流产了两千多个。作家和极权政府找到了一种和谐：只要你不问真正的问题，不触及真正的现实，怎么写都行。
+➜微软在华打击盗版的新手段：同步上市
+https://www.solidot.org/story?sid=31940	26280
+微软已踏入中国市场二十年，但它的运气一直不佳。虽然中国是世界最大的PC市场，但软件盗版率高达77%，软件巨人只获得了它本应获得的一小部分收入。微软正试图通过在华同步上市Surface平板和Windows 8操作系统<a href="http://www.reuters.com/article/2012/10/24/us-microsoft-windows8-china-idUSBRE89N03Y20121024">打击盗版</a>，改变现状。微软将于本周四在上海全球首发Surface平板和Windows 8，分析师说，微软以此展示中国市场对它的重要性。根据BSA的估计，去年中国盗版软件价值约90亿美元，盗版率77%。如盗版MS Office办公软件拷贝仅售价不到10元左右，而正版售价398元。微软最近几年改变了打击盗版软件策略，改以推进政府机构软件的正版化，虽然有所进步但收益并不大。32GB Surface平板售价3688元，低于类似型号的iPad平板，对价格敏感、希望使用Office的中国用户颇有吸引力。
+➜科学家辞职抗议法庭对地震专家的判决
+https://www.solidot.org/story?sid=31941	27360
+意大利法官Marco Billi本周一判决7名科学家和专家6年徒刑，因为他们未能正确对致命地震发出警报。本周二，判决引发的寒蝉效应促使意大利重大风险评估委员会多名成员<a href="http://www.voachinese.com/content/italy-earthquake-20121023/1531996.html?utm_source=twitterfeed&amp;utm_medium=twitter">辞职</a>。科学家表示法庭的判决让他们再也无法平静而有效地工作。国际科学界谴责这个判决，认为预测地震是不可能的。即便是依靠传感器系统来发现早于大地震的地表震波的早期警告系统，也只能为有安置传感器的地区的居民提供10到60秒的提前通知。对判决结果，甚至检方公诉人<a href="http://www.nature.com/news/shock-and-law-1.11643">都表示感到意外</a>，公诉人Fabio Picuti说，他没有发疯，他知道科学家无法预测地震，他本请求法庭判处地震专家4年徒刑，表示必须阅读法官的判决理由了解原因。根据意大利法律，法官必须在3个月内公布他的判决理由。
+➜USPTO暂时撤回苹果橡皮筋特效专利
+https://www.solidot.org/story?sid=31942	28800
+三星<a href="http://www.scribd.com/doc/110885102">通知</a>美国地区法院法官Lucy Koh，称美国专利商标局（USPTO）决定暂时宣布苹果<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%252Fnetahtml%252FPTO%252Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7469381.PN.&amp;OS=PN/7469381&amp;RS=PN/7469381">橡皮筋特效</a>专利<a href="http://arstechnica.com/apple/2012/10/apple-rubber-band-patent-invalidated-by-previous-apple-patent/">无效</a>，原因与两个在先技术（prior art）有关。在之前的苹果v.三星专利诉讼案中，陪审团裁决三星的18款产品侵犯了苹果的这项专利。在这个瞩目的案件中，陪审团裁决三星需要为专利侵犯支付10.5亿美元罚款。USPTO的决定可能帮助三星在审判后期的操作或提起上诉。
+➜苹果如何对比iPad Mini和Nexus 7的网页展示面积
+https://www.solidot.org/story?sid=31943	30600
+苹果在新闻发布会上说，7.9英寸iPad Mini的屏幕面积比7英寸Nexus 7大35%，但网页展示的面积却比Nexus 7大67%，听起来令人难以置信。《连线》的一篇文章用数学分析解释苹果宣传口号背后的秘密——<a href="http://www.wired.com/gadgetlab/2012/10/fact-check-the-ipad-mini-vs-7-inch-android-tablets-and-browsing/">利用Android浏览器没有全屏功能的缺陷</a>。Android无法隐藏页面导航元素，而导航元素需要占用空间，Kindle Fire的Silk浏览器有类似Safari的全屏功能，所以苹果没有选择Kindle Fire作比较。Nexus 7的显示屏对比度是16:10，而iPad Mini是4:3，如果比较高清视频显示效果，后者的显示面积比前者没大多少。
+➜生食物不足以支持我们的大脑
+https://www.solidot.org/story?sid=31944	32700
+如果想要增强脑力，吃生食物将是一场灾难。为了摄取到足够能量，人类每天将需要用<a href="http://news.sciencemag.org/sciencenow/2012/10/raw-food-not-enough-to-feed-big-.html?rss=1">9小时以上的时间</a>花在吃未处理的生食物上面。<a href="http://www.pnas.org/cgi/doi/10.1073/pnas.1206390109">研究论文</a>发表在PNAS上，烹饪是人类大脑的关键。<i>
+人类的脑神经细胞是其它灵长类动物的三倍——人类平均有860亿脑神经细胞，相比之下，大猩猩是330亿，黑猩猩是280亿。更多的神经元带给我们很多好处，但也需要我们付出代价，大脑的能量消耗占人类休息代谢率（RMR）——指在不活动的情况下身体所需的能量——的20%，而其它灵长类动物只占9%。研究人员计算出为了支持大脑活动，各种灵长类动物每天花多少时间吃生食物以摄入足够的热量。他们的结果是：大猩猩8.8小时，猩猩7.8小时，黑猩猩7.3小时，而智人——即现代人类——需要9.3小时。
+</i>
+➜微软无Windows 7 SP2发布计划
+https://www.solidot.org/story?sid=31945	35760
+The Register引用消息来源称，微软<a href="http://www.theregister.co.uk/2012/10/24/no_windows_7_sp2/">没有Windows 7 SP2的发布计划</a>。在终止支持前，微软将以每月更新的方式发布Windows 7的补丁。微软在2011年2月发布了SP1，根据微软<a href="http://support.microsoft.com/lifecycle/search/default.aspx?alpha=Windows+7">官方说明</a>，补丁包支持过期时间是“下一个支持服务包Service Pack发布后的24个月或产品的支持生命周期结束后”，也就是Windows SP1停止支持时间将是2013年2月。
+➜解构推荐算法
+https://www.solidot.org/story?sid=31946	37920
+今天的电子商务网站正日益习惯于根据客户偏好展示个性化结果。推荐的产品源自推荐算法，计算机算法根据客户的浏览、搜索和购买历史，以及个人偏好向客户推荐他们可能愿意购买的产品。今日的推荐算法在积累各种类型的数据后变得越来越先进，甚至可能比客户更清楚其喜好。IEEE Spectrum的一篇文章讲述了<a href="http://spectrum.ieee.org/computing/software/deconstructing-recommender-systems">推荐算法的历史、演化和工作原理</a>。<i>
+早期的推荐算法是基于简单的user-user协作算法，此类算法根据用户对同一款产品的评价计算出他们之间的“疏远距离(distance)”。例如，Jim和Jane都对电影《Tron》打了五星，他们之间的距离是零；如果Jim随后对电影《Tron: Legacy》打了五星，Jane打了三星，那么他们之间的距离就增加了。口味相近的用户因此被认为是“街坊”。user-user算法效果并不好，因为用户之间不容易形成有意义的“街坊”。大多数用户的喜好少有雷同，用户之间的距离变化非常快，耗费的计算时间太长。因此今天的大多数推荐算法是基于“item-item”。</i>
+➜华为表示愿意公开软件源代码
+https://www.solidot.org/story?sid=31947	39900
+华为澳大利亚公司董事长、澳洲退役海军少将洛德在坎培拉的全国新闻俱乐部发表讲话时说，华为在对外沟通方面做得不好，未能有效消除外界对华为的疑虑。他表示华为将提高透明度，该公司将给澳洲当局了解华为的软件源代码和设备提供方便，<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/10/121024_huawei_aus_china_us.shtml">“完全不设限制”</a>。他还表示，华为将在澳大利亚建立一个网络安全评估中心，以对重要基础设施项目所使用的设备进行评估。洛德指出，华为的未来取决于在安全和其它问题上“完全透明”，他还否认华为与任何人分享过客户资料。华为昨天发布新闻稿<a href="http://www.huawei.com/cn/about-huawei/newsroom/press-release/hw-195366-openstack---.htm">宣布</a>加入OpenStack基金会。OpenStack是一个旨在为公共及私有云的建设与管理提供软件的开源项目。
+➜Windows用户会比三岁孩子还笨？
+https://www.solidot.org/story?sid=31948	41760
+即将正式发布Windows 8引入了全新的UI(最初叫Metro风格UI，后因商标争议改叫Windows 8风格UI)，传统Windows XP/7计算机用户和科技专栏作者抱怨新的UI是多么难用，多么不适应。但<a href="http://tech.slashdot.org/story/12/10/23/0224227/are-windows-xp7-users-smarter-than-a-3-year-old">他们会比一个3岁孩子还笨</a>？如果一名三岁儿童在适度使用后便能学会用Windows 8，那么任何人靠一半脑子就能轻而易举学会。Adam Desrosier在他的3岁儿子Julian身上<a href="http://www.geekwire.com/2012/video-3yearold-kid-windows-8-champ/">做了这个实验</a>，证明习惯Windows 8并不难。而微软联合创始人比尔盖茨也已经成功过渡到了被他称为“了不起的”Windows 8。

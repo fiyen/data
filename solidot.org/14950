@@ -1,0 +1,96 @@
+➜Wikileaks要隔断美国阴谋家间的讯息交流
+https://www.solidot.org/story?sid=21400	1200
+<a href="http://www.youtube.com/watch?v=U18DclQS70s">The Fatrix</a> 写道 "Wikipedia创始人Wales曾<a href="__SLASHLINK__" sect="internet" sid="10/09/28/1456255" sn="article" tid="100">指责Wikileaks不负责任</a>，Wikipedia另一创始人Larry Sanger前几天在<a href="http://twitter.com/lsanger/status/8617774721015808">Twitter</a>上发言称Wikileaks是美国——不仅是美国政府，也是美国人民——的敌人。上周德国之声评论称Wikileaks<a href="__SLASHLINK__" sect="internet" sid="10/12/05/0330203" sn="article" tid="67">其实并不关心透明</a>问题。Wikileaks的泄密方式究竟能否促进信息的透明化？Opinion Journal专栏作家Crovitz也<a href="http://online.wsj.com/article/SB10001424052748703989004575653113548361870.html?mod=rss_opinion_main&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+wsj%2Fxml%2Frss%2F3_7041+(WSJ.com%3A+Opinion)#articleTabs%3Darticle">撰文讨论了此问题</a>。<i>
+文章认为Wikileaks的泄密方式将会推动信息的非自由化，而不是更自由。9/11能够发生的主要起因在于当时美国政府部门之间不共享信息，因此9/11后情报自由度扩大。但是“电报门”事件使得奥巴马政权计划收紧信息流动，透明度将回到前9/11时代。而且信息不透明正是Assange认为的击败整个大阴谋的手：Assange曾撰文称美国的本质是一个权威主义者的阴谋，政府职员就是阴谋中的一个个阴谋家。泄密将使阴谋家们——政府职员——之间的沟通减少，因而效率更低。Assange认为当一个系统的通讯机制<a href="http://zunguzungu.wordpress.com/2010/11/29/julian-assange-and-the-computer-conspiracy-%E2%80%9Cto-destroy-this-invisible-government%E2%80%9D/">被外来渗透破坏时</a>，系统本身便会巴尔干化，不能作为一个整体来思考。<br>
+阿富汗日记公布了一些为美军提供信息的阿富汗人的姓名，使他们暴露在危险中。此举引发广泛的指责。“电报门”也存在这种危险。Crovitz举例说洛杉矶75岁牙医Hossein Vahedi 2008年回伊朗为父母扫墓，护照被伊朗扣留，原因是他的儿子是一些伊朗歌手在美国演唱会的赞助人，而这些歌手曾批判过伊朗的神权体系。这位医生经过锻炼和策划，自己骑马逃出伊朗，在被土耳其遣返伊朗前被美国外交官救下。这次密谋的逃跑事件在本次外交情报泄密中被公布。Vahedi为他在伊朗的亲人感到担忧，并质问为什么这份材料会被公布。<br>
+(还有一个Crovitz写文章时候尚未公布的例子：Wikileaks<a href="http://www.google.com/hostednews/ap/article/ALeqM5j57nKAOcnJnBd1WBLlEnXdga6JTg?docId=56e62fafa70d41ad917efd889b5bc1aa">泄漏了一份</a>美国政府评估的全球范围内对美国至关重要的设施。美国国务院认为泄漏这份清单无异于给基地这样的组织提供了一份袭击名单。英国外交大臣William Hague对BBC说泄密这份清单是无视成千上万人的性命。一个仿前例的问题：泄露这份清单对反腐、言论自由等等有任何益处么？)"</i>
+➜"基于TTY的组调度"大幅改善桌面性能
+https://www.solidot.org/story?sid=21401	3600
+<a href="mailto:wxc200@gmail.com">wxc200</a> 写道 "LWN.NET发表了一篇文章讨论“<a href="http://lwn.net/Articles/410517/">Mike Galbraith's per-TTY task groups patch</a>"。<i>
+关于组调度的实现，简单的分类：用户和cgroup。基于这两种分类的组调度，组与组之间根据优先级公平分配CPU时间，组内进程公平分配本组所争取到的CPU时间。简单的说，这个内核补丁自动创建基于TTY的组，所有进程都会被放置在所关联的TTY组中。根据终端自CFS分配的时间片额，组内进程实现公平。
+<br>
+举个小例子，make -j10类似的编译任务生成10个耗时的任务，桌面应用程序video playerback视频播放与10个编译进程共享9%的CPU时间，这是无法接受的。在此补丁的作用下，10个编译任务所属的TTY与video所属的分属两个不同的组，组与组之间公平分配50%CPU时间。</i>           Linus对此补丁性能很赞赏，<a href="http://thread.gmane.org/gmane.linux.kernel/1050575/focus=1050793">他说</a>：<br>
+“我认为这是有‘实质进步’的补丁，做的好！组调度从‘有益于特殊的服务器负载’到‘杀手级特色’了。”
+<br> <br>
+尽管有人对此提出了异议，认为从session的角度也可以去实现，或者在用户态用一些脚本就可以了，Linus仍然坚持,并对这些人“马后炮”的行为进行了讥讽，“你们一年以前干什么去了？”
+<br> <br>
+总之，看起来有着更好桌面应用体验的内核快来了。"
+➜Google推出Google eBooks
+https://www.solidot.org/story?sid=21402	5520
+Google正式<a href="http://googleblog.blogspot.com/2010/12/discover-more-than-3-million-google.html">推出了</a>传言已久的数字图书商店<a href="http://books.google.com/help/ebooks/overview.html">Google eBooks</a>。<i>
+数字商店支持多种平台，现已发布了<a href="http://books.google.com/help/ebooks/android.html">Android</a>和<a href="http://books.google.com/help/ebooks/ios.html">苹果iOS</a>应用程序，允许Android和iPhone/iPad用户访问电子书店，但专门的电子书阅读器如Nook和Sony eReader并不能直接下载电子书，而必须通过电脑下载然后用USB传输到阅读器中，与Kindle和Nook电子书的购买相比颇为不便。Google还与独立书店如<a href="http://www.powells.com/">Powell</a>合作，允许直接从Powell书店购买Google电子书。Google电子书利用Adobe Digital Editions for DRM提供防拷贝保护。</i>
+➜Google在美英推出Nexus S手机
+https://www.solidot.org/story?sid=21403	7200
+Google<a href="http://googleblog.blogspot.com/2010/12/introducing-nexus-s-with-gingerbread.html">宣布</a>于12月16日和20日分别在美国和英国上市<a href="http://www.bbc.co.uk/news/technology-11930190">第二款自有品牌的手机Nexus S</a>。<i>
+这款手机由Google和三星合作研发，它的第一款Nexus One手机则是由HTC制造。手机采用了最新版的代号为“Gingerbread”的Android 2.3操作系统。<a href="http://google.com/nexus">Nexus S</a>配有4英寸分层显示屏（Contour Display），1GHz Hummingbird处理器，16GB内部存储器，前置后置摄像头，近场通信（NFC）硬件。Google称，Gingerbread是至今最快的Android系统，改进了用户界面，支持NFC，VoIP/SIP通信，新的键盘和文本选择工具，改进拷贝/粘贴功能，陀螺仪传感器支持等。</i>
+➜中国高速列车再次创造世界速度记录
+https://www.solidot.org/story?sid=21404	8640
+自9月份上海和杭州之间试运行的一辆高速火车<a href="__SLASHLINK__" sect="mainpage" sid="10/09/30/0929214" sn="article" tid="105">创造了世界速度纪录后</a>，另一列高速列车在上周<a href="http://cn.wsj.com/gb/20101206/rth141014.asp">刷新了速度记录</a>。<i>
+官方媒体报道，列车“CRH380A”在山东枣庄至安徽蚌埠段试验时最高达到每小时486.1公里的速度。枣庄至蚌埠段所在的新建高速铁路最终将会连通北京和上海。铁道部将此称为“中国科技创新的重大成就”，但中国子弹头列车技术究竟有多少可以说成是它自己的，存在疑问。一位外资高铁公司高管认为，这些列车背后的基本技术，和外国公司最初于五年前提供的那些技术或多或少是一样的，中国只是为了提高速度改用了增强的推进系统。他认为，如果考虑到高铁的物理属性，把速度提高到每小时400公里以上也没什么意义。这么高的速度，车轮打滑会很严重，能量要求也很高，所以没有任何“运营上的意义”。
+</i>
+➜外交文电暗示微软源代码进行网络攻击
+https://www.solidot.org/story?sid=21405	12240
+《卫报》<a href="http://www.guardian.co.uk/world/us-embassy-cables-documents/214462">公布</a>的泄密美国外交文电显示，美国外交官担心中国利用微软Windows源代码<a href="http://www.winrumors.com/leaked-u-s-embassy-cables-suggest-china-uses-access-to-microsoft-source-code-for-cyber-attacks/">进行网络攻击</a>。<i>
+文件称，中国政府正与获得授权访问微软源代码的IT安全公司合作，加强网络攻击实力。中国信息安全产品测评认证中心（CNITSEC）于2003年和微软签署协议，授权天融信公司(Topsec)访问微软源代码，以改进Windows的安全性。成立于1995年的天融信是中国最大的网络安全公司。天融信在2002年6月2003年3月之间，雇用了知名黑客Lin Yong(a.k.a. Lion，中国红客联盟创建人）；另一家CNITSEC相关公司北京启明星辰，与中国黑客组织XFocus有紧密联系，XFocus曾在短期内利用新漏洞开发出恶意程序Blaster Worm。文件认为中国政府和企业之间的联系并不少见，它的策略是利用“私人机构”支持政府的信息化战争。</i>
+➜Google称中国是未来互联网的核心
+https://www.solidot.org/story?sid=21406	18720
+godbull 写道 <i>"12月7日，<a href="http://www.google.com/intl/zh-CN/events/chuangxin/">Google创新论坛</a>在北京召开，这是自2010年初“谷歌退出中国”事件发生以来，谷歌在华举办的首次大型技术研讨论坛。业内人士认为，谷歌在3月份退出事件后高调在华举办创新论坛，在某种意义上意味着谷歌在华政策已经重新定位，并已开始执行。接下来的工作是恢复到今年3月份以前的在华销售和研发水平。主管大中华区销售与运营的谷歌副总裁刘允称，谷歌中国的研发和销售人员数量与去年持平，并且还在招聘新职员。</i>
+"彭博社引用谷歌高级副总裁Alan Eustace的话说，<a href="http://www.bloomberg.com/news/2010-12-07/google-says-china-is-at-the-heart-of-the-internet-s-future-development.html">中国是未来互联网的核心</a>，搜索只是Google业务的一部分，Google可以在很多领域继续推动创新。
+➜CyanogenMod 6.1发布
+https://www.solidot.org/story?sid=21407	19500
+<a href="http://www.cyanogenmod.com/home/cyanogenmod-6-1-stable-has-landed">CyanogenMod Android 6.1版</a>发布。<i>
+新的特性<a href="https://github.com/CyanogenMod/android_vendor_cyanogen/blob/froyo/CHANGELOG.mkdn">包括</a>改进照相机功能，改进通知功能，支持更多Android设备如Nexus One、HTC Hero/Desire/等，支持更多语言德语、意大利语、日语、法语、中文、俄语、西班牙语等，更新到Android 2.2.1，详细变化见<a href="https://github.com/CyanogenMod/android_vendor_cyanogen/blob/froyo/CHANGELOG.mkdn">changelog</a>。</i>
+➜Apache基金会挑战甲骨文失败，或退出JCP
+https://www.solidot.org/story?sid=21408	22800
+Apache基金会(ASF)此前<a href="__SLASHLINK__" sect="developers" sid="10/11/10/0243215" sn="article" tid="81">呼吁</a>，制定Java平台规范的JCP成员投票反对甲骨文的Java 7和Java 8路线图。然而除了Google外无人响应，这可能意味着Apache基金会将选择退出JCP。<i>
+投票于周一截至，据The Reg了解的内部消息，<a href="http://www.theregister.co.uk/2010/12/07/apache_google_vote_no_oracle_roadmap/">甲骨文的Java 7和8提议已被批准</a>，只有ASF和Google投票反对。ASF和Google反对的理由与技术无关，而是与甲骨文的应用范围和许可授权限制有关。投票支持的成员也有很多赞同ASF和Google的观点，他们是基于技术理由支持甲骨文。ASF此前表示，如果它的权利无以维护，将会终止与JCP的关系。</i>
+➜一夜情也许与遗传有关
+https://www.solidot.org/story?sid=21409	25920
+他或她无数次出轨，唯一告诉你的借口是“我控制不了”。根据宾厄姆顿大学研究人员的研究，他们的话不无道理。<a href="http://idle.slashdot.org/story/10/12/06/133225/One-Night-Stands-May-Be-Genetic">出轨或不忠诚可能根植于他们的DNA</a>。<i>
+由Justin Garcia领导的团队广泛调查了性行为，并匹配基因，他们提出了一个新理论：人类性活动可能与基因有关，最大的嫌疑犯是多巴胺受体D4的多态性，或者叫DRD4基因。DRD4基因已知能影响大脑的化学构成及相应的个人行为，它已发现与感觉追求行为如酗酒和赌博有关。</i>
+➜YouPorn因监视用户浏览历史遭起诉
+https://www.solidot.org/story?sid=21410	27900
+成人网站YouPorn被发现利用JavaScript脚本检查用户<a href="__SLASHLINK__" sect="internet" sid="10/12/03/0930245" sn="article" tid="71">浏览过哪些成人网站</a>，在被曝光后它迅速移除了检测代码。<i>
+然而上周五，两名加州新港海滩居民<a href="http://news.cnet.com/8301-30685_3-20024696-264.html?tag=topTechnologyNews;topTechContentWrap">共同起诉YouPorn的运营商</a>，指控其违反美国反计算机欺诈和滥用法，以及加州计算机犯罪法，从事了欺骗及不公平商业行为，以及非法和不公平的竞争。他们还控诉YouPorn未经许可访问他们的电脑。两名原告寻求发起集体诉讼，从法庭获得禁止令阻止嗅探浏览历史行为，以及赔偿损失。YouPorn未对此发表评论。</i>
+➜中国贫困人口减少，非洲增加
+https://www.solidot.org/story?sid=21411	32040
+国际农业发展基金星期一<a href="http://www.ifad.org/rpr2011/index.htm">发表报告</a>称，过去的十年里，全球农村地区极端贫困人口的比率从48%下降到34%，大部分要归功于经济蓬勃发展的中国<a href="http://www.voanews.com/chinese/news/20101206-CHINA-RURAL-POVERTY-111393639.html">所取得的进展</a>。不过在撒哈拉以南的非洲地区，农村贫困人口在同一时期却从2亿6千8百万增加到3亿零6百万，南亚的农村贫困率只有小幅度的下降，那里的农村地区大约有5亿人被认为是极端贫困。<i>
+然而，Voxeu.org的一篇分析报导认为，关于非洲崩溃、贫困潦倒的印象并不正确，事实上官方统计和媒体都承认非洲在减少贫困上取得了重大进展，<a href="http://www.voxeu.org/index.php?q=node/5890">贫困的减少远远快于人们的想象</a>。这种贫困人口的减少不是一国现象，而是整片大陆的普遍现象。从1995-2006年期间，增长的受益群体从精英扩大到了大部分人，非洲总体的不平等和国家内部的不平等实际都在下降。</i>
+➜Avast发现单一许可证被分享了774,651次
+https://www.solidot.org/story?sid=21412	34800
+<a href="http://horflu.com/">horf</a> 写道 "最初亚利桑那的一家公司购买了Avast安全软件的14个用户的一份许可证，然后许可证在网上疯狂流传，至今<a href="http://yro.slashdot.org/story/10/12/06/1627223/Single-Software-Licence-Shared-774651-Times">被使用了774,651次</a>。<i>
+Avast发现盗版后，决定不采取任何行动去打击盗版，而是静观事态会如何发展，软件传播有多快。一年半后，该许可证的用户超过了77万，遍布200多个国家，甚至包括了梵蒂冈的两台电脑。该公司现在正把盗版变成一种商业机会，在盗版用户机器上弹出窗口，鼓励盗版用户下载其免费版或购买收费版。Avast不确定会有多少盗版用户会变成合法用户，但已经有些用户做出了选择。</i>
+<a href="http://horflu.com/2010/12/cold-news-a-software-activation-code-with-200-countries-around-the-world-are-used-774651-times/">来源</a>"
+➜想要冠名数学定理？只需15美元
+https://www.solidot.org/story?sid=21413	36600
+在你上数学课程时，肯定会对数学定理前的名字敬仰和羡慕不已。暗地里，你可能还梦想有一天自己的名字也能和柯西、牛顿、费马、毕达哥拉斯、莱布尼兹并列，永远被后人念叨。现在你有机会了，不需要成为数学家，只需花15美元<a href="http://www.newscientist.com/article/dn19809-mathematical-immortality-give-a-theorem-your-name.html">就能冠名数学定理</a>。<i>
+一家名叫<a href="http://theorymine.co.uk/">TheoryMine</a>的公司以15美元的价格出售个性化数学定理。TheoryMine是一个自动定理证明软件，该公司总经理Flaminia Cavallo说，客户可以用自己或亲朋好友或任何人的名字命名软件证明的新定理。<a href="http://en.wikipedia.org/wiki/Automated_theorem_proving">定理机器证明</a>是用程序进行数学定理的证明，它能推论出一个定理是正确的，还是不可证明的，或者错误的。而学术界的传统是，发现新定理的人拥有命名权。
+</i>
+➜阿司匹林能减少癌症发病率最高达60%
+https://www.solidot.org/story?sid=21414	39240
+一项研究<a href="http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682878.html">发现</a>，每天服用小剂量阿司匹林<a href="http://www.businessweek.com/lifestyle/content/healthday/647054.html">可以显著的降低癌症发病率</a>。<i>
+英国研究人员发现，在至少五年时间里每天服用小剂量阿司匹林（75毫克），能减少癌症发病率10%到60%，不同类型的癌症效果略有差异。研究人员调查了超过25,500位患者，他们参与了低剂量阿司匹林预防心血管疾病的潜力的试验。结果发现，长期服用低剂量阿司匹林似乎减少了三分之一的结直肠癌死亡风险，服用阿司匹林的胃肠道癌症患者死亡率下降54%，食管癌患者下降60%。这是首次证明阿司匹林能减少癌症死亡风险，但研究主要作者表示，结论并不意味着成年人应该立即开始服用阿司匹林。报告发表在12月7日的《柳叶刀》杂志上。</i>
+➜Assange在英国被捕
+https://www.solidot.org/story?sid=21415	40320
+西方阴谋 写道<i> "因为<a href="http://www.interpol.int/public/data/wanted/notices/data/2010/86/2010_52486.asp">涉嫌对两位瑞典妇女性侵犯</a>，Wikileaks创建人Assange<a href="http://www.bbc.co.uk/news/uk-11937110">在伦敦被捕</a>。Wikileaks发言人称此举是对媒体自由的攻击，但不会阻止更多的密件泄漏。<br>
+和Assange以同样罪名列于国际刑警红色通缉令上的名人还有<a href="http://www.interpol.int/public/Data/Wanted/Notices/Data/2005/95/2005_47995.asp">导演波兰斯基</a>。在被证实有罪前，红色通缉所通缉者被视为无罪。"</i>
+➜Julian Assange向英国警方自首
+https://www.solidot.org/story?sid=21416	41640
+《<a href="http://www.guardian.co.uk/media/2010/dec/06/wikileaks-julian-assange-police">卫报</a>》和《<a href="http://cn.wsj.com/gb/20101207/beu112636.asp">华尔街日报</a>》报导，WikiLeaks创始人Julian Assange周二向伦敦警方自首，随后被拘捕，他的罪名与性侵犯有关。瑞典通过
+因为与有关强奸和性骚扰的调查相关，瑞典向阿桑奇发出了逮捕令，这也是阿桑奇向英国警方自首的原因。他将于周二晚些时候在伦敦威斯敏斯特法庭出庭。周一，瑞士国家邮政系统旗下银行PostFinance关闭了一个属于阿桑奇的账户，说他在开立账户时提供了“虚假信息”。
+维基解密最近公布瑞士这个账户，用于接受捐赠给“阿桑奇辩护基金”(Julian Assange Defence Fund)的款项。维基解密成立这只基金是为了支付阿桑奇的部分法务费用。
+PostFinance发表声明说，阿桑奇在开立账户时将其住址填为日内瓦，但经过调查，他们发现这条信息是不准确的。PostFinance还说，欲持有该行账户，就必须提供在瑞士居住的证明。
+阿桑奇因解密数十万份机密文件面临国际质疑，并有可能因为瑞典的性侵犯指控承受法律上的重大后果，所以近几个月他一直在从一个国家搬到另一个国家。英国媒体曾报道他目前身居英国。"
+➜中国学生在经合组织全球评测中位居首位
+https://www.solidot.org/story?sid=21417	49320
+navi 写道 <i>"经济合作与发展组织公布了<a href="http://www.oecd.org/document/12/0,3343,en_21571361_44315115_46623628_1_1_1_1,00.html">2009年国际学生评估项目</a>（PISA）的调查结果。结果显示在所有参加调查的国家和地区的15岁学生中，中国上海的学生在阅读能力、数学能力、科学能力评测中均位列第一。超过四分之一的上海15岁学生显示出解决复杂问题的高级数学思维能力，而经合组织平均水平只有3%。经合组织秘书长古利亚表示：“更好的教育成效是未来经济发展的有力预测。虽然国民收入与教育成就仍然相关，PISA调查显示两个发达程度相当的国家仍然可以产生迥异的结果，说明那种依据国家贫富来判断国家教育水平的做法已经过时。”
+</i>经合组织的调查还得到了一些<a href="http://www.oecd.org/dataoecd/34/60/46619703.pdf">其他发现</a>：           <ul>
+<li>在所有国家，女生在阅读能力上都强于男生，平均高出39点，相当于一个年级。这种性别差异从2000年以来在任何国家都没有得到改善，在法国、以色列、韩国、葡萄牙和瑞典反而扩大。这折射出男生阅读兴趣的下降和闲暇阅读的减少。</li>
+<li>最好的学校体制也是最平等的：不同社会、经济背景的学生都能有良好的表现。但是如果学校较早地根据能力来区分学生，则会造成不同社会经济背景学生能力的显著差异。</li>
+<li>成绩好的学校体制倾向于增加教师工资而不是减小班级人数。</li>
+<li>留级学生较多的国家倾向于具有更差的总体成绩。</li>
+<li>成绩好的教育体制允许学校自行设计课程和评价标准，但并不一定会让学校争夺生源。</li>
+<li>纪律严格、师生关系良好的学校在阅读能力评测中成绩更好。</li>
+<li>公立和私立学校成绩类似，即使考虑到学生家庭背景。</li>
+<li>对阅读有兴趣的学生从2000年的69%下降到2009年的64%。</li>
+</ul>

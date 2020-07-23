@@ -1,0 +1,48 @@
+➜KDE修复了一个13年前的Bug
+https://www.solidot.org/story?sid=48635	12201
+大约50名KDE开发者在瑞士阿尔卑斯山参加年度编程活动<a target="_blank" href="https://www.kde.org/fundraisers/randameetings2016/#about"><u>Randa Meetings</u></a>，他们在此期间终于修复了<a target="_blank" href="https://kate-editor.org/2016/06/17/bug-fixed-after-13-years/"><u>一个有13年历史的Bug</u></a>。Kate编辑器维护者Christoph Cullmann在2003年9月递交了<a target="_blank" href="https://bugs.kde.org/show_bug.cgi?id=64754#c50"><u>这个bug</u></a>，问题与Kate工具栏图标奇怪的移动行为和图标消失有关，该bug的重要等级被数百用户投票为重要，但开发者一直没有抽出时间修正这个问题。在bug递交时，Linux内核的版本号还是2.6.31，Windows XP还是最新的桌面Windows版本，两家最大的发行版还是Mandrake和Redhat，KDE最新版本号是3.1.4...而如今内核大版本号已经达到了Linux 4.x，XP已经被淘汰。<br>
+➜南澳大利亚政府拒绝停止使用MS-DOS时代的医疗档案软件
+https://www.solidot.org/story?sid=48636	13540
+南澳大利亚政府<a target="_blank" href="http://www.abc.net.au/news/2016-06-18/software-legal-battle-could-put-sa-patients'-safety/7522934"><u>拒绝停止</u></a>使用MS-DOS时代病人档案软件，警告如果它被迫停止使用该软件将会危及病人安全。该软件CHIRON由Working Systems开发，在1990年代安装到南澳的医院。Working Systems要求政府停止使用CHIRON，因为它的软件许可证在去年3月过期了。由于软件已经过时，该公司不再提供延长许可证。Working Systems<a target="_blank" href="http://www.pulseitmagazine.com.au/index.php?option=com_content&amp;view=article&amp;id=2429:sa-health-sticking-to-chiron-despite-licence-dispute&amp;catid=16:australian-ehealth&amp;Itemid=328"><u>表示</u></a>，自2008年之后南澳是CHIRON唯一的用户，如果危及病人安全也是南澳政府拒绝升级的结果。
+➜新勒索软件完全由JavaScript编写
+https://www.solidot.org/story?sid=48637	13927
+安全研究人员<a target="_blank" href="http://www.scmagazine.com/new-raa-ransomware-written-in-javascript-discovered/article/504029/"><u>发现了</u></a>一种完全由JavaScript编写的新型勒索软件，使用CryptoJS库去加密受害者电脑上的文件。被称为RAA的勒索软件主要通过电子邮件附件的形式传播，打开附件后受害者只看到一个受损的文件，但其实勒索软件在背后做了很多活，其中包括删除Windows Volume Shadow Copy防止加密后恢复，以及开机启动，下载额外的恶意程序。目前还没有办法解密文件，安全研究人员建议不要打开附件。
+➜研究发现读书多少与收入存在相关性
+https://www.solidot.org/story?sid=48638	17194
+《经济学杂志》公布了一项读书多少与收入多少关系的<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ecoj.12307/full"><u>调查报告</u></a>：年少时候读书多，以后的收入会多于均值。该调查对5000名年龄在60岁和96岁之间的欧洲男性阅读数量和收入高低进行了分析，结果发现，在青少年时代自愿阅读至少10本书的人，日后收入比同行业平均收入高出21%。这里指的"自愿"阅读，就是除了上学必修课本和读物之外的书籍，至于是何种书籍并不重要。10本书这一数量是关键，自愿阅读正好10本书的人，日后收入高于均值得可能性也大大增加。然而从第11本书开始，<a target="_blank" href="http://www.dw.com/zh/%E5%B9%B4%E5%B0%91%E8%8B%A5%E6%98%AF%E6%96%87%E9%9D%92-%E6%97%A5%E5%90%8E%E6%8C%A3%E9%92%B1%E6%9B%B4%E5%A4%9A/a-19341211"><u>这一比例又呈反比增长趋势</u></a>。
+➜孟山都起诉华裔程序员盗窃文件
+https://www.solidot.org/story?sid=48639	18795
+孟山都<a target="_blank" href="http://cn.wsj.com/gb/20160620/biz090154.asp"><u>起诉</u></a>一位曾就职于该公司的计算机程序员，指控他在辞职后向一家中国种子公司求职时窃取了孟山都的专利文件。孟山都向美国密苏里东部联邦地区法院提起了民事诉讼，指控Jiunn-Ren Chen本月使用他的登入凭证，从孟山都电脑系统中窃取了52个文件，就在大约九日前，他已辞去了写代码和算法的工作。孟山都发言人说，公司启动了法律程序，以保护资产免受前雇员窃取。
+➜Tor项目正开发加固版的Tor浏览器
+https://www.solidot.org/story?sid=48640	27150
+FBI在过去几年成功的利用Tor浏览器的弱点去匿名了许多Tor用户的身份，为了挫败执法机构的努力和加强隐私保护，Tor项目正与安全研究人员合作开发<a target="_blank" href="http://motherboard.vice.com/read/tor-is-teaming-up-with-researchers-to-protect-users-from-fbi-hacking"><u>加固版的Tor浏览器</u></a>。安全研究人员正在测试名为<a target="_blank" href="https://www.ics.uci.edu/~perl/pets16_selfrando.pdf"><u>Selfrando</u></a>（PDF）的技术防止浏览器漏洞被利用。Firefox和其它主流浏览器都使用标准的随机内存空间地址(ASLR）技术去防止恶意程序利用浏览器漏洞，研究人员声称Selfrando相比ASLR显著改进了安全，而且不需要修改任何代码就能直接应用于Tor浏览器。研究人员和Tor项目正在测试一个加固版本的Tor浏览器。他们的论文将在7月德国召开的隐私增强技术研讨会上展示。
+➜神威太湖之光取代天河二号占据Top500榜首
+https://www.solidot.org/story?sid=48641	31456
+六次称霸Top500的天河二号今年变成了第二，取代它的是另一台中国超算——<a target="_blank" href="http://www.wxsc.net.cn/"><u>无锡超级计算中心</u></a>的<a target="_blank" href="http://top500.org/system/178764"><u>神威太湖之光</u></a>，更值得一提的是它使用的处理器是中国自行研发的申威SW26010 260C 1.45GHz。根据以前的<a target="_blank" href="http://www.solidot.org/story?sid=26718"><u>资料</u></a>，申威处理器是隶属于军方的江南计算机所研发的，基于DEC的Alpha 21164架构，得到了核高基专项资金支持，关于SW26010 260C芯片的细节目前所知不多。神威太湖之光使用了10,649,600个核心，内存1280TB，性能达到了93 petaflop/s，是天河二号的将近3倍，运行的操作系统是RaiseOS 2.0.5，有关操作系统的细节也很少，推测是基于Linux。神威太湖光的功耗 15.37 MW。<a target="_blank" href="http://top500.org/news/new-chinese-supercomputer-named-worlds-fastest-system-on-latest-top500-list/"><u>Top500榜首前10</u></a>依次是：神威太湖之光（93 petaflop/s），天河二号（33.86 petaflop/s），泰坦（Titan，17.59 petaflop/s），Sequoia、K computer、Mira、Trinity、 Piz Daint、 Hazel Hen、 Shaheen II。在Top500中，使用英特尔处理器的超算最多，共有455 台。此外，中国首次超过美国成为拥有超算最多的国家，中国有167台，美国165台，日本29台。惠普制造的超算最多共127台，其次是联想的84台，克雷的64台，曙光的51台，IBM的38台。
+➜中国留学生低龄化
+https://www.solidot.org/story?sid=48642	32968
+越来越多的低龄学生<a target="_blank" href="http://www.ftchinese.com/story/001068039?full=y"><u>选择出国留学</u></a>。美国国土安全局及美国教育协会的数据显示，中国赴美就读本科、研究生仍为大宗，本科留学生人数在去年首次超过研究生，但两者增速放缓。选择就读高中的人数近10年来增长强劲。自2004年至2015年，持有F-1国际学生签证在美就读高中的中国学生已从433人增至4.3万人，11年来增长将近百倍。也许在美国念高中有机会提升申请美国大学的竞争力，但花费并不是每个中国家庭都能承受。持F-1国际学生签证的国际学生大部分只能在美国公立高中学习一年。若想要获得美国高中学位，中国家长大多选择让孩子进入学费较为高昂的美国私立高中就读。美国私立高中的平均学费每年约1.3万美元，国际学生则须在此基础上缴纳不定额度的额外费用，而住宿学校的学费则更为高昂，每年大约1万至6万美元不等，比中国大陆普通高中学生学杂费用明显高出好多倍。除了家庭经济压力，小留学生们背后的辛苦和成长代价，也是他们得独自面对的功课。
+➜起诉苹果侵犯专利的公司是百度资助的
+https://www.solidot.org/story?sid=48643	36056
+一家名不见经传的公司深圳佰利意外赢得了北京市知识产权局针对苹果iPhone 6和iPhone 6 Plus的销售禁令，理由是这两款手机的外观设计侵犯了深圳佰利的专利。苹果表示已提起上诉，在此期间两款手机的销售不受影响。深圳佰利没有自己的网址，它似是深圳百分之百数码科技的另一个名字，后者是一家智能手机初创公司。从资料看，名叫徐国祥的男子是两家公司的负责人，并且两家公司的名字都出现在法律文件中。创办百分之百数码科技之前，徐国祥曾担任华为全球手机营销主管。知情人士称，2013年，百度成为百分之百数码科技的最大投资者。获得百度的支持可能有助解释一家鲜为人知的公司何以能在知识产权案中击败苹果。<a target="_blank" href="http://cn.wsj.com/gb/20160620/tec073435.asp"><u>百度创始人李彦宏是全国政协委员</u></a>。
+➜自主驾驶技术将会摧毁车险行业？
+https://www.solidot.org/story?sid=48644	37496
+如果自主驾驶汽车发生车祸，谁应该赔偿损失？保险公司还是汽车制造商或软件开发商？坐在车里的人没有司机只有乘客。圣克拉拉大学法学教授Robert Peterson认为，你不需要承担任何责任，因为你就像是坐在出租车里的乘客。随着自主驾驶汽车越来越多的出现在公路上，<a target="_blank" href="http://www.siliconvalley.com/ci_30033652/self-driving-cars-disrupt-auto-insurance-industry"><u>围绕车险的一切可能都要发生改变</u></a>，从谁拥有汽车，谁应该向谁投保，谁或什么需要承担车祸的责任。随着技术的进步，责任将会发生转移。对于全自动汽车而言，简单——很大部分责任要从司机转给汽车本身，是汽车有缺陷还是操作系统有缺陷；但对于半自动汽车，你很可能需要证明是汽车的错而不是你的错。
+➜印度手机公司指责中国公司倾销
+https://www.solidot.org/story?sid=48645	38263
+印度最大的智能手机制造商Micromax<a target="_blank" href="http://www.ftchinese.com/story/001068088"><u>指责</u></a>中国竞争对手以低价在印度倾销积压的产品。Micromax的市场占有率仅次于三星，但市场份额正被中国竞争对手抢走。Micromax联合创始人Vikas Jain表示，这种情况是中国生产商以异常低的价格在印度销售手机所致，“这些中国品牌大多都有大量的库存，无法卖到其他市场……而印度，因为其庞大的规模，成为了显而易见的选择，它们把价格削减到成本价甚至成本价以下。”他敦促印度政府否决苹果希望获准在印度进口销售二手智能手机的请求，主张这会给中国手机制造商提供一个以更低价格在印度销售手机的“后门”。
+➜比尔盖茨捐赠的鸡遭到玻利维亚的拒绝
+https://www.solidot.org/story?sid=48646	38440
+比尔盖茨的慈善事业通常会受到普遍的赞扬，但世界首富最近赠送10万只鸡的慈善行为<a target="_blank" href="http://www.theverge.com/2016/6/16/11952200/bill-gates-bolivia-chickens-refused"><u>却制造了摩擦</u></a>：玻利维亚政府以冒犯为由拒绝了盖茨的礼物。玻利维亚土地和农村发展部长Cesar Cocarico称，比尔盖茨不了解当地现状，他以为玻利维亚人生活在500年前，生活在丛林之中，不知道如何生产。他应该谦虚，停止谈论玻利维亚，在了解更多之后向他们道歉。比尔盖茨是在本月早些时候宣布与国际小母牛组织向贫困国家<a target="_blank" href="https://www.gatesnotes.com/Development/Why-I-Would-Raise-Chickens"><u>提供家畜和饲养培训</u></a>。10万只鸡的礼物将在高贫困国家之间分配，这些国家主要位于撒哈拉以南非洲，其中包括了玻利维亚。此举旨在改善每天只有2美元的人的生活。盖茨基金会选择鸡是因为它们廉价而且容易照料。盖茨说，如果我是他们，我会去养鸡。
+➜苹果微软游说从Unicode 9.0中移除武器绘文字
+https://www.solidot.org/story?sid=48647	43763
+Unicode标准中的绘文字数量一年比一年多。Unicode联盟提议和批准绘文字通常不会产生争议，但最近来福枪绘文字的提议<a target="_blank" href="http://arstechnica.com/apple/2016/06/apple-and-microsoft-pushed-to-remove-the-rifle-emoji-from-unicode-9-0/"><u>却遭到了</u></a>两大联盟成员苹果和微软的反对。Unicode联盟在讨论之后一致决定移除来福枪绘文字和描绘五项全能选手持着手枪的绘文字。苹果对于比较暴力的绘文字有点保守，它的macOS绘文字选择器排除了枪、刀等绘文字，但这些绘文字能正常显示。Unicode联盟即将在本周发布Unicode 9.0。
+➜中国展示神经网络处理器
+https://www.solidot.org/story?sid=48648	45273
+在申威之后，中国官媒又<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/6/349093.shtm"><u>报道了</u></a>一种已经投产的新处理器：嵌入式神经网络处理器（NPU）星光智能一号。根据官媒的介绍，它是专门为监控系统研发的，能快速识别车牌信息和人脸。研究人员称它颠覆了传统的冯诺依曼架构，“集成了NPU处理器内核以及国家标准音视频编解码器（SVAC Codec），是全球首颗具备深度学习人工智能的嵌入式视频采集压缩编码系统级芯片。”每个NPU处理器有4个内核，每个内核有两个数据流处理器，每个数据流处理器有8个长位宽或16个短位宽的SIMD（单指令多数据）运算单元。
+➜神威太湖之光的处理器及弱点
+https://www.solidot.org/story?sid=48649	47192
+<div align="center"><img src="http://img.solidot.org/0/580/li3sxF7pFAlY.png" height="344" align="" width="300"><br>
+</div>
+<br>
+神威太湖之光使用了国产的申威SW26010处理器，由<a target="_blank" href="http://www.shenweimicro.com/"><u>上海高性能集成电路设计中心</u></a>设计。官网没有提供最新芯片的规格下载（旧规格下载需要注册）。根据HPC的<a target="_blank" href="http://www.hpcwire.com/2016/06/19/china-125-petaflops-sunway/"><u>报道</u></a>，处理器包含了1个Management Processing Element (MPE)、1个内存控制器（MC） 和64个Computing Processing Elements (CPE)，MPE和CPE是基于RISC架构、64位、SIMD和错序微结构。MPE能执行管理、通信和计算，而CPE主要执行指令计算。神威太湖之光由40,960个节点构成，每个节点包含了260个核心，总共10,649,600核心。它的操作系统Raise OS 2.0.5是基于Linux，包含了 C/C++和Fortran编译器、自动向量化工具、基础数学库，支持OpenACC 2.0。超算的 LINPACK测序性能高达 93 petaflops，但 LINPACK并不能反应实际应用，它的 HPCG测试只有0.371 petaflops，相比之下天河二号是 0.580 petaflops，泰坦是0.322 petaflops，日本理化所的K computer是 0.460petaflops。下一代申威处理器据报道将使用28纳米工艺制造。

@@ -1,0 +1,51 @@
+➜德国之声推出 Tor 网站
+https://www.solidot.org/story?sid=62699	11367
+在 <a href="https://www.solidot.org/story?sid=62360"><u>BBC</u></a> 之后，德国之声也宣布推出 Tor 镜像网站 —— 即只能通过 Tor 匿名网络访问的网站。用户可以在 Tor 浏览器地址栏输入域名 <a href="https://dwnewsvdyyiamwnp.onion/" target="_blank"><u>dwnewsvdyyiamwnp.onion</u></a> 就能访问德国之声。德国之声经销与技术总监鲍姆豪尔（Guido Baumhauer）<a href="https://www.dw.com/zh/%E7%9C%8B%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%E7%BD%91%E9%A1%B5-%E7%94%A8tor%E6%B5%8F%E8%A7%88%E5%99%A8/a-51353423"><u>表示</u></a>，Tor 网站是对绕过网络封锁软件的补充。他强调，“向我们在世界范围的目标群体提供独立信息是德国之声 DNA 的一部分。因此，我们现在当然也利用这一可能性，经由 Tor 让受到网络封锁的人们可以访问德国之声。那里的人们迄今不能或只能有限接触到自由媒体。”
+➜微软获得向华为出口软件的许可证
+https://www.solidot.org/story?sid=62700	11595
+微软<a href="https://cn.reuters.com/article/msft-huawei-export-license-1122-idCNKBS1XW039"><u>宣布</u></a>它从美国商务部获得了向华为出口大众软件的许可证。所谓的大众软件应该就是指软件巨人的 Windows 操作系统和办公软件 MS Office 等。此前，在美国宣布对华为实施出口禁令之后，微软从其商店<a href="https://www.solidot.org/story?sid=60709"><u>下架了</u></a>华为笔记本电脑。而华为大部分笔记本电脑预装的是 Windows，出口禁令是否会导致其新产品无法预装 Windows？现在，获得出口许可证之后华为新笔记本应该可以正常预装微软的操作系统了。
+➜安全专家警告恶意 USB 充电座
+https://www.solidot.org/story?sid=62701	13837
+随着假日季临近，美国洛杉矶县地方检察官办公室提醒旅客，注意 “USB 充电座诈骗”。当人们将电子设备插入已经加载了恶意软件的 USB 接口或 USB 数据线时，就有可能出现个人信息泄漏的情况。恶意软件会通过这些端口感染你的设备，让黑客有机可乘。他们可以借此读取和导出你的数据，包括你的密码，甚至可以对设备上锁，让它们变得无法使用。 BitDefender 网络安全专家 Liviu Arsene 说，USB 充电座诈骗利用的就是人们的设备没电的状况。<a href="https://cn.nytimes.com/technology/20191121/usb-warning-juice-jacking/" target="_blank"><u>他警告说</u></a>，不要使用已经插在充电站里的 USB 数据。
+➜美团市值超过百度京东
+https://www.solidot.org/story?sid=62702	16625
+美团点评第三季度销售额增长 44%，超出预期，并再次实现季度盈利，其<a href="https://finance.yahoo.com/quote/MPNGF?p=MPNGF"><u>市值</u></a>突破了 700 亿美元，超过百度和京东成为<a href="http://www.ftchinese.com/story/001085256" target="_blank"><u>仅次于</u></a>阿里巴巴 和腾讯的中国第三大科技公司。美团报告在截至 9 月 30 日的 12 个月里拥有 4.358 亿用户，高于上一季度报告的 4.226 亿。分析师们表示，美团的送餐服务正在轻松击败竞争对手阿里巴巴的饿了么，尤其是在经济较弱的城市，这些城市已成该行业争夺用户的战场。阿里巴巴已将注意力转向保护其电商平台淘宝，以防快速发展的拼多多后来居上。
+➜CSIS发布安全固件开发最佳实践v1.1
+https://www.solidot.org/story?sid=62703	17030
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道<i> "CSIS（云安全行业峰会）是一个致力于打造云安全最佳实践的组织，由包括跟云安全生态有关的厂商组成，经过了数月的努力，终于于2019年10月27日完成了<a href="https://github.com/opencomputeproject/Security/blob/master/SecureFirmwareDevelopmentBestPractices.md" target="_blank">安全固件开发最佳实践v1.1版本</a>，这个版本由于排版问题还没有更新到CSIS网站，这个版本对服务器会遇到的各种固件进行了威胁建模和风险评估，包括BMC，<a href="https://coreboot.org/" target="_blank">coreboot</a>，Option-ROMs，UEFI以及外设固件。HardenedLinux社区也有参与这一版的评估和讨论工作，<a href="https://github.com/hardenedlinux/hardenedlinux_profiles/raw/master/slide/hardening_the_core.pdf" target="_blank">Hardening the COREs</a>中可信计算方案的<a href="https://twitter.com/hardenedlinux/status/1172321981527494656" target="_blank">大部分的场景</a>是基于coreboot的定制版本，而随着<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-TXT-Open-Source-Coreboot" target="_blank">基于coreboot的RAMSTAGE的Intel TXT的版本正式开源</a>，基于自由固件打造完整可信计算方案成为了可能。另外，这也是第一次CSIS在安全固件最佳实践中推荐coreboot。"</i>
+➜《Half-Life: Alyx》是《半条命 2》的前传
+https://www.solidot.org/story?sid=62704	18693
+《半条命》系列的故事何时结束，还有没有 3？Valve 没有答案，它公布了 VR 游戏《Half-Life: Alyx》的预告片和故事概要，证实了之前的流言：《Half-Life: Alyx》是《半条命 2》的前传，开发者在<a href="https://youtu.be/-9K0eJEmMEw"><u>视频</u></a>（YouTube）中公开承认他们对开发《半条命 3》深感恐惧，而前传可以让他们放开手脚进行创新，并利用已有资源。《Half-Life: Alyx》将于 2020 年 4 月发售，Valve <a href="https://store.steampowered.com/app/546560/HalfLife_Alyx/?snr=1_4_4__118"><u>开放了预售</u></a>，国区售价 147/163 元（10% 折扣），兼容的 VR 设备包括 Valve Index、HTC Vive、Oculus Rift 和 Windows Mixed Reality，如果玩家已有 Valve Index 将可以免费获得游戏。Valve Index 没有对国区开放。《Half-Life: Alyx》的故事发生在《半条命》一代和二代之间，玩家扮演二代的女主角 Alyx，在黑山基地事件之后，联合军把仅存的人类圈禁在城市中，对地球的铁腕控制只增不减。作为反抗势力的发起成员，Alyx 致力于反抗军打造工具。游戏的长度据称和《半条命 2》接近。
+➜Remedy 正为 《穿越火线》创作单人剧情
+https://www.solidot.org/story?sid=62705	18901
+知名游戏开发商 Remedy 正为 《穿越火线》<a href="https://www.eurogamer.net/articles/2019-11-21-remedy-on-making-a-call-of-duty-style-campaign-for-the-biggest-fps-in-the-world"><u>创作单人剧情</u></a>。《穿越火线》是一款类似反恐精英的 FPS 网络对战游戏，由韩国游戏工作室 Smilegate Entertainment 开发，在中国由腾讯运营，它在亚洲尤其是中国和韩国非常受欢迎，在全世界有超过 6.5 亿玩家，是当今玩家人数最多的游戏。《穿越火线》将在明年发布 Xbox One 版本《CrossFire X》，将包含 Remedy 制作的单人剧情。Remedy 以游戏《马克思佩恩》著称，最近的作品包括了《Alan Wake》、《Quantum Break》和《Control》，其中《Control》是今年备受好评的游戏之一。SmileGate 的 Jin Woo Jung 在接受采访时表示，他是《马克思佩恩》的粉丝，因此寻找谁为《穿越火线》西方版本开发单人剧情时 Remedy 是其第一选择。Remedy 的 Tuukka Taipalvesi 承认《穿越火线》一开始并不在他的视线内，因为这款游戏在欧洲并不那么流行。当 Smilegate 联络他们之后才开始深入了解它。Remedy 以前没有制作过 FPS 游戏，这是第一次涉足该类型。Taipalvesi 没有透露单人剧情是否含有 Remedy 标志性的“子弹时间”，称单人剧情从 2016 年开始开发。
+➜过去五十年中国湖泊数量和面积都有所增加
+https://www.solidot.org/story?sid=62706	27919
+中科院青藏高原研究所公布了《<a href="https://data.tpdc.ac.cn/zh-hans/data/fa8426c0-d3f0-4615-8e78-0465a0957891/" target="_blank"><u>中国湖泊数据集（1960s-2015)</u></a>》，结合 Landsat 影像 (3831 景)、地形图，利用半自动水体提取及人工目视检查编辑，完成了过去 50 多年来（1960s，1970s，1990，1995，2000，2005，2010，2015）详细的中国湖泊 (大于 1 平方公里) 数量与面积变化研究。从 1960s 到 2015 年，中国湖泊总数量（≥ 1 k㎡）从 2127 个增加到 2554 个（+20%)，面积从 68537 k㎡扩张到 74395 k㎡ （+9%），其中青藏高原、新疆和东北平原湖区分别显著增长了 5676 k㎡（+15%）、1417 k㎡（+27%）和 1134 k㎡（+37%），而内蒙湖区则明显减少了 1223 k㎡（-22%）。新增湖泊 144 个，主要分布在青藏高原和新疆湖区。消失湖泊 333 个，主要分布在人类活动显著的东部平原湖区。青藏高原和新疆湖泊增加<a href="http://news.sciencenet.cn/htmlnews/2019/11/432990.shtm" target="_blank"><u>主要是因为</u></a>气候变化相关的降水和冰川融水的增多。
+➜日本取代美国成为华为最大零部件采购地
+https://www.solidot.org/story?sid=62707	28741
+日经<a href="http://cn.nikkei.com/china/ccompany/38282-2019-11-22-10-07-59.html"><u>报道</u></a>，日本取代美国成为华为最大的零部件采购地。在美国实施制裁禁止华为与美国企业开展交易的背景下，华为正积极寻求与日本企业合作。华为董事长梁华表示，华为 2018 年从日本采购的零部件金额为 7210 亿日元，2019 年的采购额进一步扩大，预计突破 1 万亿日元大关。2018 年，华为从美国采购的金额为 110 亿美元，居世界之首，不过当前呈减少趋势，2019 年日本成为华为最大零部件采购地已成定局。梁华表示，即使没有美国企业的零部件供应，也将继续生产主力产品，不过如果获得批准，很愿意继续与美国企业开展合作。
+➜阿里巴巴王坚当选为工程院院士
+https://www.solidot.org/story?sid=62708	30425
+<a href="http://www.cas.cn/tz/201911/t20191122_4724737.shtml" target="_blank"><u>中科院</u></a>和<a href="https://www.cae.cn/cae/html/main/col1/2019-11/22/20191122104249761699527_1.html" target="_blank"><u>中国工程院</u></a>分别公布了 2019 年增选当选院士名单，其中阿里巴巴王坚当选为工程院院士，申威 CPU 项目的负责人胡向东以及前北邮校长方滨兴的同事云晓春未能当选。新京报<a href="http://www.bjnews.com.cn/finance/2019/11/22/652997.html"><u>报道称</u></a>，王坚被视为阿里云的创始人，曾担任阿里云总裁。他曾提出、设计和建设自研云计算操作系统飞天，推动去 IOE（IBM 小型机、Oracle 数据库和 EMC 存储）并面向云计算转变。1962 年出生的王坚，毕业于浙大心理系，获得博士学位，曾发表过多篇学术论文，还撰写了《人机交互和多通道用户界面》这本国内该领域的第一本专著。他曾在李开复邀请下加入微软，担任多通道用户界面组主任研究员，后升任副院长。其间，王坚的主要工作成果是发明了数字墨水。
+➜移动应用安装八成来自 1% 的发行商
+https://www.solidot.org/story?sid=62709	31252
+Sensor Tower 的<a href="https://sensortower.com/blog/top-one-percent-downloads"><u>报告</u></a>显示，2019 年第三季度，全球排名前 1% 的应用发行商<a href="https://techcrunch.cn/2019/11/22/the-top-1-of-app-store-publishers-drive-80-of-new-downloads/" target="_blank"><u>吸引了</u></a> 296 亿次应用下载量中的八成。这意味着，只有二成或 60 亿次下载量来自其他发行商。排名后 99% 的发行商大约有 784080 家，本季度平均的应用下载量只有 7650 次。报告指出，2018 年苹果 App Store 和 Google Play 中的应用数量超过 340 万个，比 2014 年的 220 万个增加 65%。但与此同时，应用安装量达到 1000 次的应用占比明显下降，从 2014 年的 30% 降低至 26%。这是移动应用世界的赢家通吃。
+➜Y Combinator 退出中国
+https://www.solidot.org/story?sid=62710	31836
+创业加速器 Y Combinator <a href="https://techcrunch.cn/2019/11/22/y-combinator-abruptly-shutters-yc-china/" target="_blank"><u>放弃在中国建立分支的计划</u></a>。该公司在一份简短声明中<a href="https://blog.ycombinator.com/an-update-on-yc-china/"><u>表示</u></a>，“在努力建设 YC 中国的过程中，我们的领导层发生了调整。”一年多前受雇领导 YC 中国的陆奇将离职，经营自己的项目奇绩创坛（MiraclePlus）。YC 仍然欢迎中国公司的参加，但中国公司只能参加 YC 的美国项目。YC 的代表证实，该公司与奇绩创坛和陆奇没有任何关系，并且该公司不会在中国开展任何本地业务。
+➜特斯拉公布电动皮卡 Cybertruck
+https://www.solidot.org/story?sid=62711	36204
+<div align="center"><img src="https://img.solidot.org/0/914/liFgVPCIGFKbQ.jpg" width="400" height="200" align=""><br>
+</div>
+<br>
+虽然大锤演示可能搞糟了，但社交网络上人人都在热议特斯拉外形独特的电动皮卡 <a href="https://www.tesla.cn/cybertruck"><u>Cybertruck</u></a>。Cybertruck 有着所谓“未来主义”的多边形设计（如图所示），与今天流行的弧线形外形截然不同，让人有耳目一新之感，此类的多边形设计曾广泛流行于上世纪的隐形飞机和今天强调隐形的舰船。Cybertruck 从 0-60 MPH 不到 6.5 秒，行驶距离 250-500 英里， 长 231.7英寸，宽 79.8 英寸，高 75.0 英寸，可乘坐 6 人。它有多种不同配置选项，起售价 39,900 美元。
+➜俄罗斯通过法律禁止销售没有预装俄罗斯软件的电子产品
+https://www.solidot.org/story?sid=62712	40739
+俄罗斯通过法律<a href="https://www.bbc.com/news/world-europe-50507849" target="_blank"><u>禁止销售</u></a>没有预装俄罗斯软件的特定电子产品。法律将于 2020 年 7 月生效，涵盖的电子产品包括智能手机、计算机和智能电视。支持者称法律旨在推广俄罗斯技术，让本国人民能更容易的使用他们购买的电子产品。但法律也引发了监视方面的担忧，担心外国企业可能会撤出俄罗斯市场。政府将制定一个必须预装到电子设备上的俄罗斯软件名单。法案起草者之一的 Oleg Nikolayev 解释说，当我们购买一个电子产品，它们已经安装了个别应用，绝大多数是西方应用，没有提供本国应用替代，如果有替代应用，用户将可以进行选择。
+➜中国电子烟行业面临监管收紧
+https://www.solidot.org/story?sid=62713	43990
+中国已经加入美国和其他国家政府的行列，<a href="https://cn.nytimes.com/business/20191122/china-vaping-ban/" target="_blank"><u>对电子烟施加新的压力</u></a>。监管机构已经禁止在网上销售电子烟产品，中国的主要宣传机构也投以审视的目光，称其可能对健康造成不良影响。政府正在考虑禁止在公共场所吸电子烟。中国政府的打击行动威胁到一个几乎全部属于中国的行业，世界上 90% 的电子烟在中国生产。多年来，中国政府允许利润丰厚的电子烟行业在没有监管的情况下蓬勃发展。关于电子烟是否应归类为烟草、健康产品或电子产品，以及应由哪个机构监管，人们从未达成任何共识。部分问题还在于，中国最高烟草监管机构既是香烟的监管机构，也是生产商。
+➜Android 0day 漏洞 Bad Binder
+https://www.solidot.org/story?sid=62714	46287
+Google Project Zero 官方博客<a href="https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html"><u>详细描述了</u></a>一个 Android 0day 漏洞 Bad Binder 的发现和修复过程。补丁已包含在 10 月份 Android 的安全更新中，如果你的手机安全补丁程序级别为 2019 年 10 月，那么问题已被修复。Project Zero 开发者称，在夏末他们收到情报称以色列间谍软件开发商 NSO 正在利用一个 Android 0day 漏洞在目标设备上安装间谍软件 Pegasus。这是一个内核提权释放后使用漏洞，影响  Pixel 1 和 2，但不影响 Pixel 3 和 3a，它在内核版本 Linux kernel 4.14 中已经修复。利用这些情报安全研究人员很快识别了漏洞。该漏洞最早是在 2017 年 11 月发现和报告的，2018 年 2 月修复，在 Linux 4.14、Android 3.18、Android 4.4 和 Android 4.9 内核中修复，但没有包含在每月的 Android 安全通报中，因此很多已发布设备如 Pixel 和 Pixel 2 都没有打上补丁。

@@ -1,0 +1,78 @@
+➜20% 的Windows 用户在使用Windows 7
+https://www.solidot.org/story?sid=21844	1920
+<a href="http://luorongcong.wordpress.com/">luo_rc</a> 写道 <i>"根据Ars Technica 的<a href="http://arstechnica.com/microsoft/news/2011/01/windows-7-passes-20-percent-chrome-nears-double-digits.ars">报导</a>，从2010年1月到12月，全世界范围内Windows 7的市场占有率增长了13个百分点，达到了20.87%。Windows Vista 则跌落到了12.11%。尽管在这期间，Windows XP 的市场占有率也损失了近十个百分点，但仍然高达56.72%。"</i>
+➜Paul McKenney宣布开源并行编程图书项目
+https://www.solidot.org/story?sid=21845	3600
+Lwn.net<a href="http://lwn.net/Articles/421425/">报导</a>，Paul McKenney<a href="http://paulmck.livejournal.com/23027.html">宣布</a>了开源并行编程图书项目，汇集大众智慧共同书写并行编程。<i>
+McKenney称，他正在写一本并行编程图书，最初的想法是在完成后向外公布，但随后意识到这是一项不可能真正完成的任务，因为新的并行编程创意层出不穷。于是他决定将<a href="http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2011.01.02a.pdf">自己的书</a>（PDF，358页）公诸于众，创建了一个<a href="http://kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html">Git库</a>让任何人都可以跟踪图书的进展或提供关于并行编程的新想法。</i>
+➜PS3根密钥被破解
+https://www.solidot.org/story?sid=21846	6120
+知名黑客George“GeoHot”Hotz<a href="http://games.slashdot.org/story/11/01/03/1856210/PS3-Root-Key-Found">公布了</a>索尼PS3游戏机的“<a href="http://www.geohot.com/">根密钥</a>”。他曾经参与破解了苹果的 iPhone。<i>
+此前，黑客组织fail0verflow宣布破解了PS3的签名密钥，但可能是担心遭索尼起诉，该组织至今没有公布密钥。但它<a href="http://games.slashdot.org/comments.pl?sid=1933598&amp;cid=34749208">公开了PS3系统中发现的漏洞</a>，因此能允许GeoHot在他们工作的基础上进一步破解根密钥。获得根密钥后，用户将可以运行自制程序，不再需要较为繁琐的USB加密狗越狱方法，并且为无法降级的固件用户提供新希望。</i>
+➜燃气工人不用望远镜发现四颗地外行星
+https://www.solidot.org/story?sid=21847	8400
+英格兰南约克郡燃气工人Peter Jalowiczor<a href="http://science.slashdot.org/story/11/01/03/2216213/How-a-Guy-Found-4-New-Planets-Without-a-Telescope">发现了四颗地外行星</a>，他甚至没有望远镜。<i>
+加州大学在2005年发布了过去数十年中天文仪器收集的空间数据，供爱好者研究。Jalowiczor有两个科学相关的学位，但没有受过天文学训练。从2007年开始，<a href="http://www.thestar.co.uk/diary/New-planets-are-a-gas.6672280.jp">他用家中的两台电脑分析数据</a>，过去三年所有的空闲时间都花在了阅读数据、计算和绘制图表上面。他的研究为天文学家提供了线索，成为四颗地外行星的共同发现者。四颗行星的编号为：HD 31253b，公转一周（一年）466天，距离地球172光年；HD 218566b，一年225.7天，距离98光年；HD177830c，一年110.6天，190光年；HD 99492c，一年4,697天，58光年。
+</i>
+➜SmartBook: 平板、上网本、MID，一个都不少
+https://www.solidot.org/story?sid=21848	10200
+<a href="http://wowubuntu.com/">riku</a> 写道<i> "一家名为 Always Innovating 的厂商出品了一款新的电子产品，他们把它称之为电子产品中的“瑞士军刀”。这款产品名为 <a href="https://www.alwaysinnovating.com/products/smartbook.htm">Smart Book</a> 是多种设备的组合产品，包括平板，MID (带触摸屏的移动网络设备），键盘及支持又屏幕的 USB-to-HDMI 卡，通过这些产品的不同组合可以把它变为便于携带的平板电脑或上网本，免费的 VOIP 电话，PC 的第二个显示屏，USB 钥匙扣等等。另外，SmartBook 提供了多种操作系统供选择，有 Ubuntu 10.10 (ARM) ， AIOS （ Always innovating 自家的 OS ) ，Android (2.2 Froyo) ， ChromiumOS （定制过的），这些系统都是跑在 2.6.32 Linux kernel 上，并且都经过了相应的改善，以便以其支持屏幕旋转，触摸屏等特殊需求。<a href="http://wowubuntu.com/smartbook.html">详细规格及介绍</a>"</i>
+➜NASA声称《2012》是史上最烂科幻片
+https://www.solidot.org/story?sid=21849	12000
+NASA科学家认为，<a href="http://www.thesun.co.uk/sol/homepage/news/3327114/Nasa-names-most-absurd-sci-fi-film.html?OTC-RSS&amp;ATTR=News">《2012》是史上最烂的科幻片</a>。NASA近地小行星任务主管Donald Yeomans称此片“利用大众对玛雅历法预言2012年12月21日是世界末日的恐惧”，引起恐慌，害NASA“收到如雪片般飞来的求证要求，因而被迫设立<a href="http://www.nasa.gov/topics/earth/features/2012.html">专门网页</a>破解片中迷思。这是破天荒的第一次。NASA指出，片中描述太阳风暴释放的中微子导致地核温度上升，但中微子实际上是不会与物质发生反应的。<i>
+<a href="http://tw.news.yahoo.com/article/url/d/a/110103/143/2k5g3.html">最烂的科幻片包括</a>：《2012》、《地心毁灭》（The Core）、《世界末日》(Armageddon)、《地火熔城》(Volcano)、《链式反应》、《第6日》、《我们到底知道多少》（What the #$*! Do We Know!?）；最合理的科幻片包括：《千钧一发》、《接触》、《大都会》（Metropolis）、《当地球停止转动》、《月里嫦娥》（Woman in the Moon）、《火星怪人》、《侏罗纪公园》。</i>
+➜phpMyAdmin 3.3.9 发布
+https://www.solidot.org/story?sid=21850	18000
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "<a href="http://www.phpmyadmin.net/home_page/index.php">phpMyAdmin</a>是一个Web模式的MySQL数据库管理工具，让管理者可用Web接口管理MySQL数据库。
+<i>
+<a href="http://www.osmsg.com/2011/01/phpmyadmin-3-3-9/">phpMyAdmin 3.3.9</a>修复引用到MySQL的文档；修复TIMESTAMP的默认函数；修复escaped生成的js没有双引号的问题；修复处理事件时不复制/重命名数据库；在数据库生命中添加引号；修复Scratchboard的PDF页面不能正常工作的问题；关闭所有打开的圆括号缩进。"</i>
+➜苹果市值超过3000亿
+https://www.solidot.org/story?sid=21851	18300
+新年的第一个交易日，苹果的股价攀升到大约<a href="http://finance.yahoo.com/q?s=AAPL">329.6美元</a>，市值达到了3023亿美元，创历史新高。<i>
+苹果的市值去年5月<a href="__SLASHLINK__" sect="apple" sid="10/04/23/0243254" sn="article" tid="32">超过了微软</a>，如今它仅次于埃克森美孚，<a href="http://www.corporateinformation.com/Top-100.aspx?topcase=b">位居世界第二</a>。埃克森美孚的市值大约3700亿美元。随着苹果成为<a href="http://www.infoworld.com/t/it-management/what-you-missed-apple-quietly-became-key-enterprise-provider-902?source=rs">重要的企业产品供应商</a>，投资者的热情有可能会将苹果的市值抬高到接近甚至超过埃克森美孚。</i>
+➜2010年IPv4地址分配掉2.42亿，剩4.96亿
+https://www.solidot.org/story?sid=21852	19620
+截至2011年1月1日，可用IPv4地址剩下4.9566亿，去年同期是7.2106亿，相差2.25亿，但如果考虑到Interop释出的一个包含1700万地址的地址段，去年共分配掉了2.42亿地址。按照这一速度，<a href="http://arstechnica.com/tech-policy/news/2011/01/2010-in-ip-addresses-225-million-down-496-million-to-go.ars">IPv4地址还可用两年</a>。然而不同地区分配情况和可用地址空间也不尽相同。<i>
+负责分配非洲地区的AfriNIC还有2706万未用地址，去年分配掉了895万，其手中的可用地址可供三年分配；负责亚太地区的APNIC可用地址空间4438万，去年分配掉了至少1.2622亿，换句话说，今年它的地址就会用光。</i>
+➜Facebook估值500亿，高盛投资4.5亿美元
+https://www.solidot.org/story?sid=21853	21840
+社交巨人红遍世界，通吃硅谷和华尔街。《纽约时报》<a href="http://dealbook.nytimes.com/2011/01/03/why-facebook-is-such-an-important-friend-for-goldman-sachs/">报导</a>，投行高盛已经与Facebook达成协议，投资4.5亿美元，而Facebook的估值则达到了500亿美元。作为协议的一部分，高盛正寻求从富裕客户手中筹集15亿美元，共同投资Facebook。
+➜RSS走到了尽头？
+https://www.solidot.org/story?sid=21854	24000
+在Twitter和Facebook实时信息时代，10年历史的<a href="http://zh.wikipedia.org/zh-cn/RSS">RSS</a>是否无可用之地了？<i>
+RSS阅读器Bloglines在<a href="__SLASHLINK__" sect="internet" sid="10/09/12/1054252" sn="article" tid="48">宣布关闭服务</a>时（后被MerchantCircle收购）称，即时消息导致其用户大量流失。现在Mozilla似乎要给予濒死的RSS最后一击：Firefox 4 URL地址栏<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=578967">移除了RSS按钮</a>，它被转移到“书签”菜单下。用户<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=597932">请求Mozilla不要移除RSS</a>，但Mozilla的决定有数据支持——它发现只有<a href="https://heatmap.mozillalabs.com/mozmetrics/">3%–7%</a>的用户会使用RSS按钮。有用户呼吁不要杀死RSS，认为<a href="http://camendesign.com/blog/rss_is_dying">RSS是浏览器的责任</a>，它仍然是一个方便用户的重要工具。</i>
+➜Google Android 进军数字报摊
+https://www.solidot.org/story?sid=21855	27000
+<a href="http://www.musicbay.org/">musicbay</a> 写道 <i>"《<a href="http://online.wsj.com/article/SB10001424052748704543004576051800714082180.html?mod=e2tw">华尔街时报</a>》记者最近<a href="'http://www.guao.hk/posts/google-plans-digital-newsstand-jan-2011.html">爆料</a>：Google 为了改变现在各大电子杂志/报纸各自为战的局面，打算以老大哥的身份出来一统江湖。据说他们已经在和 Time Warnet, Condé Nast 和 Hears 这北美最大的三家出版商谈判，让他们把内容放到 Android 上的 Digital newsstand 数字报摊儿上来统一出售。另外 Apple 方面也有传闻，说他们正在致力于改进 iTunes，让未来的数字内容发布商发布内容更简单，并且为客户提供长期订阅更加方便。以此来迎战不断向自己进攻的Google."</i>
+➜研究人员创造1000核FPGA芯片
+https://www.solidot.org/story?sid=21856	27600
+<a href="http://www.gla.ac.uk/news/headline_183814_en.html">英国Glasgow大学</a>的研究人员<a href="http://tech.slashdot.org/story/11/01/03/1722240/Researchers-Claim-1000-Core-Chip-Created">创造了一个有1000个核心</a>的FPGA（现场可编程门阵列）芯片，并在演示中以5Gbps的速度执行MPEG算法。<i>
+FPGA芯片可按需要直接编程，而普通的CPU则是指令编程。FPGA速度比CPU慢，但其架构适合加速特定任务如H.264解码。这项技术突破可以为未来的电子设备提供更强大的计算能力。目前使用FPGA的产品包括等离子和液晶电视，网络路由器，它在标准台式机中使用有限。</i>
+➜联想将在CES上展示LePad平板
+https://www.solidot.org/story?sid=21857	29100
+联想将在本周举行的CES展上<a href="http://arstechnica.com/gadgets/news/2011/01/lenovo-tablet-line-to-be-out-in-full-force-at-ces.ars">展示其平板电脑LePad</a>，迎战苹果的iPad和三星的Galaxy Tab。<i>
+联想曾经在去年的CES上展示了一款颇受瞩目的平板/笔记本混合型电脑<a href="__SLASHLINK__" sect="hardware" sid="10/02/13/0222212" sn="article" tid="34">IdeaPad U1</a>，原计划在去年下半年推出，但因故推迟。LePad与U1平板并不相同，屏幕大小10.1英寸，运行Android 2.2系统。联想认为，平板电脑正在吞食上网本的市场，但普通笔记本的销售不会受到影响。</i>
+➜Chrome浏览器攀升至10%
+https://www.solidot.org/story?sid=21858	30240
+根据NetApplications公布的年度浏览器市场份额<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=0">报告</a>，Google的Chrome浏览器无限<a href="http://tech.fortune.cnn.com/2011/01/03/googles-chrome-climbs-its-way-to-10-of-the-browser-market/">接近于10%</a>，达到9.98%。IE浏览器在过去2年失去了12个百分点，目前占据57.08%的份额；Firefox年初一度达到24%，现在降至22.81%；Safari为5.89%；Opera为2.23%。按照这一趋势，IE浏览器很可能在今年降到50%左右，当然它在中国仍然是<a href="http://gs.statcounter.com/?PHPSESSID=kt2n6r2vt5at3t7qps875vb801#browser-CN-monthly-201001-201101-bar">一家独大</a>，没有任何对手能靠近它。
+➜Google CFO暗示返回中国
+https://www.solidot.org/story?sid=21859	34500
+王明睿（ @wmrofficial ） 写道 <i>"Google CFO说：“<a href="http://www.foxbusiness.com/markets/2011/01/03/google-cfo-hints-return-china/">中国有12亿人，如果Google说：‘我们要继续履行我们的使命，但不为12亿人服务’——这不对。中国想要Google。</a>如果你前几个星期在中国，你输入诺贝尔和平奖——搜不到结果。现在想想Google的品牌（brand）。你是中国人，你知道那是不对的，诺贝尔和平奖没有从地球表面消失。还有就是品牌的问题。 还有就是我们使命的问题。你有权知道谁赢得了今年的诺贝尔和平奖。实际上对于我们一点也没有这些结果，过滤更多再没有任何意义了。这就是为什么我们采取我们采取的观点。”福克斯文章的标题有问题，Google从来没有离开中国，只是停止政治审查，转移到中国不可分割的一部分——香港了。何来“返回”？</i>我希望Google不要继续政治审查，如果继续，我以后的文章就少了一个有力的<a href="__SLASHLINK__" sect="it" sid="10/03/13/132228" sn="article" tid="26">论据</a>。"
+➜商业化血检癌细胞技术
+https://www.solidot.org/story?sid=21860	34800
+一种新的血液测试方法能从数以亿计的健康细胞中识别出癌细胞，现在这项技术获得了制药巨头强生公司的支持，<a href="http://news.yahoo.com/s/ap/20110104/ap_on_he_me/us_med_cancer_blood_test">商业化步伐正式启动</a>。<i>
+大多数医生相信，血液中发现癌细胞意味着肿瘤正在扩散或可能扩散。新测试方法可以发现可能转变为乳腺癌，前列腺癌，结肠癌和肺癌等癌症的癌细胞。</i>
+➜Sandy Bridge处理器性能提升最高50%
+https://www.solidot.org/story?sid=21861	36000
+英特尔等不及在1月5日的CES上正式宣布Sandy Bridge处理器，它提前二天<a href="http://arstechnica.com/business/news/2011/01/sandy-bridge-arrives-from-intel-with-up-to-50-performance-boost.ars">公布</a>了总计29个型号（15款<a href="http://www.anandtech.com/show/4083/the-sandy-bridge-review-intel-core-i5-2600k-i5-2500k-and-core-i3-2100-tested">桌面</a>14款<a href="http://www.anandtech.com/show/4084/intels-sandy-bridge-upheaval-in-the-mobile-landscape">移动</a>）的新一代处理器。<i>
+不同型号的Sandy Bridge处理器性能比前一代同等型号的处理器提高10%到50%。芯片集成的GPU无疑将会冲击AMD和NVIDIA的低端显卡。新处理器的动态超频能力也令人惊讶，测试中在激活一个核心（关闭其它三个核心）的情况下可以超频到4.1GHZ。除了性能外，Sandy Bridge还提供了名为Quick Sync的硬件视频转码引擎，以及DRM安全硬件。</i>
+➜中国计划星球大战
+https://www.solidot.org/story?sid=21862	37500
+挪威最大的报纸《晚邮报（Aftenposten）》<a href="http://translate.google.com/translate?hl=en&amp;sl=no&amp;tl=en&amp;u=http%3A%2F%2Fwww.aftenposten.no%2Fnyheter%2Furiks%2Fwikileaks%2Farticle3971579.ece">报道称</a>，Wikileaks泄漏的美国外交密电披露，中国至少进行了三次导弹拦截卫星试验——此举违反了国际条约：美国被迫改变多颗昂贵卫星的轨道；为了躲避导弹碎片国际空间站被迫实施机动。2007年的导弹拦截卫星试验产生了超过25000个碎片。美国人指出，地球轨道上45%的太空垃圾是中国火箭和导弹的碎片，相比之下美国占25%，俄罗斯占24%。美国声称，自1985年之后太空垃圾主要来源于事故。
+➜Google研究人员称，中国黑客正在利用IE新漏洞
+https://www.solidot.org/story?sid=21863	39900
+著名的Google安全黑客<a href="http://en.wikipedia.org/wiki/Micha%C5%82_Zalewski">Michal Zalewski</a>宣布，他的fuzzer工具<a href="http://tech.slashdot.org/story/11/01/03/1557208/MS-Asks-Google-To-Delay-Fuzzer-Tool?from=rss">发现</a>了IE的<a href="http://lcamtuf.coredump.cx/cross_fuzz/known_vuln.txt">一个新漏洞</a>，fuzzer至今已经从IE、Firefox、Chrome、Safari等浏览器中发现了上百个漏洞。<i>
+微软周日表示正对此进行调查，它之前曾要求Zalewski推迟发布安全工具cross_fuzz发现的漏洞，但被拒绝。Zalewski声称，他相信中国黑客正在利用这个新漏洞。证据是他在12月30日，发现来自中国的IP地址在Google.com.hk上搜索两个MSHTML.DLL函数——BreakAASpecial和BreakCircularMemoryReferences——与新发现的漏洞有关，中国黑客搜索到他的网站，但显然对cross_fuzz不很熟悉，他下载了所有能访问到的文件。</i>
+➜Google发布官方twitter帐号目录
+https://www.solidot.org/story?sid=21864	45900
+<a href="https://twitter.com/photobluer">Pb</a> 写道 <i>"Google今天发布了官方twitter帐号目录<a href="http://www.google.com/press/twitter-directory.html">http://www.google.com/press/twitter-directory.html</a>。该目录包含了所有Google官方在twitter上的帐号，可以按照分类、语言、地区来筛选查看。不过目录中并未包含“小谷哥哥<a href="https://twitter.com/xiaogugege">https://twitter.com/xiaogugege</a>（原谷歌中国的官方twitter）”。"</i>

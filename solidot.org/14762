@@ -1,0 +1,182 @@
+➜跨浏览器测试资源大全
+https://www.solidot.org/story?sid=18169	1200
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "我们生活在一个幸福又痛苦的时代，有太多的浏览器可以使用，对 Web 开发与设计者而言，你有义务保证你的设计兼容所有主流浏览器。然而跨浏览器测试是件相当复杂的事，涉及不同的浏览器，不同的版本，不同的平台。本文介绍了与跨浏览器兼容测试有关的大量资源（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K975.aspx">完整图文版</a>）。           在线测试资源<br> <br>
+<a href="http://browsershots.org/">Browsershots</a>
+<br> <br>是一个备受欢迎的免费在线跨浏览器测试工具，包含各种平台的各种浏览器，会为你的网站截图，因为太受欢迎，所以要排队。
+<br> <br>
+<a href="http://ipinfo.info/netrenderer/">Netrenderer</a>
+<br> <br>针对不同版本的 IE 进行测试，甚至即将包含 IE9。
+<br> <br>
+<a href="http://www.browsrcamp.com/">Browsrcamp</a>
+<br> <br>免费版支持 Mac 上的 Safari 3.1.2 测试，收费版本包括更多 Mac 浏览器。
+<br> <br>
+<a href="https://browserlab.adobe.com/en-us/index.html">Adobe  Browserlab</a>
+<br> <br>老牌的跨浏览器测试平台。
+<br> <br>
+<a href="http://litmusapp.com/">Litmusapp</a>
+<br> <br>特点是，可以得到一份完整的跨浏览器兼容测试报告，免费版只限于 IE7 和 Firefox 2。
+<br> <br>
+<a href="http://www.anybrowser.com/siteviewer.html">Anybrowser  siteviewer</a>
+<br> <br>可以按不同屏幕尺寸在不同浏览器中预览你的网页，甚至可以在不同页之间浏览。
+<br> <br>
+<a href="http://fundisom.com/g5/">Fundisom</a>
+<br> <br>一个 Mac 平台的网站截图生成工具，支持 Safari，MacIE 和 Mozilla，目前好像宕机了。
+<br> <br>
+<a href="http://www.delorie.com/web/lynxview.html">Delorie lynxview</a>
+<br> <br>看看你的网页在纯文本浏览器 lynx 中的样子。
+<br> <br>
+<a href="http://www.browsera.com/">Browsera</a>
+<br> <br>更像一个整站测试工具，而不是单纯的网页截图工具，会爬遍你的站点，对整个站点进行测试。
+<br> <br>
+插件和工具资源<br> <br>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/1419/">IE  Tab</a>
+<br> <br>这是一个 Firefox 扩展，可以以新标签的形式，以 IE 引擎显示页面。
+<br> <br>
+<a href="http://www.my-debugbar.com/wiki/IETester/HomePage">IETester</a>
+<br> <br>一个免费的多版本 IE 内核浏览器，支持 IE9/8/7/6/5.5，支持 Windows 7，Vista，XP。
+<br> <br>
+<a href="http://iecapt.sourceforge.net/">IECapt</a>
+<br> <br>一个小巧的命令符工具，可以将指定网页在 IE 中的渲染结果输出到 BMP，JPG 和 PNG 图片。
+<br> <br>
+<a href="http://michelf.com/projects/multi-safari/">Multi-Safari</a>
+<br> <br>多版本 Safari 测试。
+<br> <br>
+<a href="http://expression.microsoft.com/en-us/dd565874.aspx">Expression  Web SuperPreview</a>
+<br> <br>不同版本的 IE 测试。
+<br> <br>
+<a href="http://www.marketcircle.com/iphoney/index.html">Iphoney</a>
+<br> <br>如果你针对 iPhone 320x480 的屏幕进行设计，这正是你需要的工具。
+<br> <br>
+<a href="http://multipleies.en.softonic.com/">MultipleIEs</a>
+<br> <br>针对古董级浏览器 IE3/4/5/6 进行测试。
+<br> <br>
+<a href="http://tredosoft.com/multiple_ie">Multiple IE</a>
+<br> <br>和 MultipleIEs 类似，也是针对古董级浏览器进行测试，不同的是，这工具可以让你在同一台机器上运行从 IE6 到 IE3 各个版本的浏览器。
+<br> <br>
+<a href="http://www.fileheap.com/software-sortsite-professional-download-26787.html">SortSite  Professional</a>
+<br> <br>一个非常全面的测试工具，可以测试你网站中每个页面，为所有发现的问题生成报告，拥有300个指标。
+<br> <br>
+<a href="http://www.lunascape.tv/">Lunascape</a>
+<br> <br>世界上第一个，也是唯一的一个三引擎浏览器，可以模拟 IE，Firefox，Chrome，Safari。
+<br> <br>
+付费服务资源<br> <br>
+<a href="http://www.browsercam.com/Default2.aspx">Browsercam</a>
+<br> <br>这是一个付费服务，可以在不同平台下的不同浏览器中测试你的网站，既可以自动截图，又可以远程访问他们的计算机。
+<br> <br>
+<a href="http://crossbrowsertesting.com/">Crossbrowsertesting</a>
+<br> <br>针对所有平台下的所有浏览器进行测试，付费服务，19.95 美金起价。
+<br> <br>
+<a href="http://www.netmechanic.com/products/browser-index.shtml">Browser  Photo</a>
+<br> <br>有12种不同浏览器和计算机配置组合，生成每种组合下的站点屏幕截图，收费服务，一次15美元。
+<br> <br>
+<a href="http://www.url2image.com/">Url2image</a>
+<br> <br>登录后，你可以针对不同平台，不同浏览器，生成你网站的截图，两个截图1美元。
+<br> <br>
+<a href="http://www.powermapper.com/products/sortsite/checks/browser-compatibility.htm">SortSite</a>
+<br> <br>针对不同浏览器，测试你网站的各种功能，149美元。
+<br> <br>
+<a href="http://www.multibrowserviewer.com/">Multi Browser Viewer</a>
+<br> <br>预装了17个独立的虚拟浏览器，除此之外，还可以针对 Mac，Windows，Linux 平台下的50款浏览器进行测试。单用户99.95美元。
+<br> <br>
+<a href="http://www.cloudtesting.com/serviceCrossBrowser.php">Cloud  Testing</a>
+<br> <br>对你的电子商务站点的外观与功能，针对 IE6/7/8, Firefox, Safari, Chrome, Opera 进行测试。
+<br> <br>
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K735.aspx">跨浏览器兼容测试8大利器</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K973.aspx">关于跨浏览器测试那点事</a> </li>
+</ul>
+本文国际来源：hongkiat.com  <a href="http://www.hongkiat.com/blog/complete-guide-to-cross-browser-compatibility-check/">Complete Guide to Cross-Browser Compatibility Check</a> （原文作者：<b>Dainis</b>）
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜OPERA捕捉到中微子震荡
+https://www.solidot.org/story?sid=18170	1500
+足球是咱中国人玩剩下的 写道 "LNGS(Italian National Institute of Nuclear Physics)在Gran Sasso的地下实验室进行的的<a href="http://www.ihep.ac.cn/kejiyuandi/qianyan/041201-opera/opera-index.htm">OPERA</a>实验宣布从一束<a href="http://public.web.cern.ch/public/en/research/AccelComplex-en.html">CERN accelerator complex</a>(CNGS)送来的介子中微子束中观测到<a href="http://www.physorg.com/news194544551.html">tau子中微子</a>。<i>
+60年代美国科学家Ray Davis发现从太阳到达地球的中微子数量少于太阳模型给出的预测值。69年Bruno Pontecorvo和Vladimir Gribov提出<a href="http://zh.wikipedia.org/zh/%E4%B8%AD%E5%BE%AE%E5%AD%90%E6%8C%AF%E8%8D%A1">一个解释方法</a>，这个猜想认为不同种类中微子间变色龙式的震荡变化可以解释中微子数量的难题。数次实验观测到介子中微子的消失，证实了震荡假说，但一直没有观测到介子中微子束中直接产生tau子中微子——直到OPERA宣布本次观测结果。本次观测补上了中微子难题缺失的一环，如果得到验证，将需要新的物理来解释这种现象。"</i>
+➜个人开网店将实行实名制
+https://www.solidot.org/story?sid=18171	5100
+中国国家工商总局于4月初公布了《网络商品交易及有关服务行为管理暂行办法》的<a href="__SLASHLINK__" sect="internet" sid="10/04/02/0755234" sn="article" tid="54">征求意见稿</a>，明确规定网上开店须实名登记，办理工商登记注册。6月1日，《<a href="http://it.southcn.com/9/2010-06/01/content_12456451.htm">网络商品交易及有关服务行为管理暂行办法</a>》正式发布，该《暂行办法》将自2010年7月1日起施行，它并未强制要求从工商管理部门领取营业执照，但要求网店店主必须实名注册，办理工商登记注册（不清楚是否强制性）。<i>
+《暂行办法》规定，提供网络交易平台服务的经营者应当审查、记录、保存在其平台上发布的网络商品交易及有关服务信息内容及其发布时间。经营者营业执照或者个人真实身份信息记录保存时间从经营者在网络交易平台的登记注销之日起不少于两年，交易记录等其他信息记录备份保存时间从交易完成之日起不少于两年。违反该规定，将会受到警告和限期改正，逾期不改正的，处以一万元以下的罚款。</i>
+➜中国对《钢铁侠2》中的“俄罗斯”消音
+https://www.solidot.org/story?sid=18172	6480
+《华尔街日报》<a href="http://cn.wsj.com/gb/20100601/rcu164637.asp">报道</a>，中国审查机构对正在上映的电影《钢铁侠2》采取了不可思议的审查做法：电影中所有提及“俄罗斯”和“俄罗斯人”的话都被模糊化处理，并且从中文字幕中删除。
+《钢铁侠2》中反派是一位俄罗斯人，而中国电影审查机构的老人估计都有苏联情结，这可能是“俄罗斯”被消音的主要原因。
+➜非设计师应该如何评论界面设计
+https://www.solidot.org/story?sid=18173	7800
+<a href="http://www.haoxiaoru.info/">胆晓茹鼠</a> 写道 <i>"我们这些非职业设计师经常被叫来评判界面设计的好坏。也许你是老板，要评估自己的新网站设计情况，或者你是项目经理，要查看你的设计师制作的网站模型。你该在网站界面设计中发现什么呢？谁都会无关痛痒地说“这个看起来不错”或者“这个好像不怎么好用”，但是怎么才能给出有意义的反馈呢？对设计的全面深入理解并非一篇文章所能概括。<a href="http://www.haoxiaoru.info/archives/447">如何评论界面设计</a>提供一些对你有所帮助的指导原则。结合几个国内网站的简单例子，从此不怕界面评论！"</i>
+➜Wikileaks的文档很多是从Tor网络中截获
+https://www.solidot.org/story?sid=18174	10800
+《纽约客》采访了Wikileaks公开露面的创始人<a href="http://www.newyorker.com/reporting/2010/06/07/100607fa_fact_khatchadourian?currentPage=all">Julian Assange</a>，透露了Wikileaks的惊人秘密，他们的秘密文档很多都是<a href="http://yro.slashdot.org/story/10/06/01/2334237/Wikileaks-Was-Launched-With-Intercepts-From-Tor">从Tor匿名网络中截获的</a>。<i>
+Wikileaks是一家曝光政府和企业秘密的泄密网站。《纽约客》的文章透露，泄密者上传的机密文档是通过一个修改版的Tor网络传到Wikileaks的服务器，因此泄密者会隐藏在Tor网络的无数虚拟管道中，他们的身份不会被曝光。但是Tor匿名网络存在一个根本性的缺陷：无法控制出口节点。当然这也是Tor的设计目的所决定的，它是提供一种匿名服务，而不是一种安全服务。在Wikileaks上线之前，一位Wikileaks的活跃分子维护着一台Tor出口节点服务器，他注意到来自中国的黑客/间谍利用Tor收集外国政府的情报，于是他开始记录这些流量。Assange声称在网站上线之前，他们手中已经掌握了超过一百万份来自13个国家的秘密文档，这些文档中的很小一部分被公开在WikiLeaks网站上。2006年12月份，WikiLeaks贴出了第一份秘密文档：索马里反政府武装Islamic Courts Union首领Sheikh Hassan Dahir Aweys签名的“秘密决定”，这份文件同样是从Tor到中国的流量中截获的。</i>
+➜Tor网络中的明文仍然是明文
+https://www.solidot.org/story?sid=18175	12720
+Tor官方对<a href="__SLASHLINK__" sect="internet" sid="10/06/02/031235" sn="article" tid="120">Wikileaks从Tor网络中拦截秘密文件</a>发表了<a href="https://blog.torproject.org/blog/plaintext-over-tor-still-plaintext">正式回应</a>，称Tor网络中的明文流量仍然是明文。<i>
+Tor通过隐藏用户流量的走向而提供匿名和隐私服务，用户必须自己加密以保护通信安全。在Tor中，如果你的数据未经过加密，那么最后一个中继，以及最后一个中继到目的之间的任何节点都是能够读取你的数据的，而Tor中其他任何节点都不可能读取你的数据。任何明文通信都有可能遭到拦截。Tor不会奇迹般的对所有互联网流量实现端到端的加密。</i>
+➜微软发言人嘲讽谷歌封杀Windows
+https://www.solidot.org/story?sid=18176	16920
+<a href="http://yi-it.com/blog/">TOoth.4.tooTH</a> 写道 " 据<a href="http://erictric.com/2010/06/01/microsoft-employee-pokes-fun-at-ft-report-of-google-ditching-windows/">Erictric报道</a>(<a href="http://tech.sina.com.cn/it/2010-06-02/07324258880.shtml">新浪科技</a>），谷歌开始在公司内部<a href="__SLASHLINK__" sect="linux" sid="10/06/01/0221250" sn="article" tid="26">停止使用微软Windows</a>，并表示此举是出于安全方面的原因。微软发言人Frank X Shaw在个人Twitter账户上发表了如下几条Twitter消息，对谷歌此举以及英国《金融时报》(Financial Times)的报道不吝嘲讽：<i>
+“蹩脚的标题，错误的假定。 谷歌乱来就算了，竟还有拙劣的报道。
+<br>
+“快讯一则：谷歌在公司电脑上封杀必应(Bing)。必须‘感谢’《金融时报》的报道。必应主页的图片竟让谷歌工程师们头痛不已。”
+<br>
+“快讯一则：谷歌禁止福特汽车在停车场内使用其自带SYNC车载多媒体通讯娱乐系统，还称此举出于安全问题。必须‘感谢’《金融时报》的报道。”
+<br>
+“快讯一则：谷歌在全球总部全面封杀Windows，称出于安全原因。必须‘感谢’《金融时报》的报道。”
+"</i>
+➜河北南京清缴弹弓
+https://www.solidot.org/story?sid=18177	19380
+中国的部分地区开始将弹弓视作是大规模杀伤性武器，不仅仅出售是犯法，连持有都是非法。<i>
+《河北青年报》<a href="http://news.sina.com.cn/c/2010-05-27/043617569089s.shtml">报道</a>，“河北省公安厅宣布，即日起，全省开展大规模仿真枪、弹弓、弩类杀伤性物品清缴行动，包括网上销售此类商品一并在查处范围。任何人销售、持有此类物品警方必将严惩。”河北省公安厅治安管理局枪械危险爆炸物品管理支队支队长李天凯表示，“仿真枪、弩、弹弓，都要清理，别说销售，就是持有都是非法的。一经查处绝对按照相关法律规定顶格处理。”在此之前，《南京日报》<a href="http://news.163.com/10/0521/10/676UAGOG00014AED.html">报道</a>，南京警方发布通知，严禁任何单位和个人制造销售弓弩、弹弓等器具。</i>
+➜IE在美国回暖，但在全世界继续下滑
+https://www.solidot.org/story?sid=18178	20880
+Net Applications的统计<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=0">显示</a>，IE浏览器在全世界的市场份额继续减少，但在美国市场的份额却略有增加。<i>
+五月份IE所占份额为59.69%，比四月份的59.95%下降了0.26%；Firefox从24.59%下降至24.35%；Chrome浏览器突破了7%，达7.05%，比上个月增加了0.32%；Safari也略有增加，从四月份的4.72%升至4.77%；Opera为2.43%；Opera Mini为0.74%。根据浏览器的不同版本，IE8在全世界的份额达到了<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=2&amp;qpcustomb=*1&amp;sample=27">31%</a>(包括了基于IE8的浏览器修改版，如Maxthon、TheWorld、Tencent Traveler)，IE 6.0仍然占到了18.74%，Firefox 3.6占15.82%。不过在美国，IE浏览器份额却增加了<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=0&amp;qpaf=-000%09101%09US%0D&amp;qptimeframe=M&amp;qpsp=136&amp;sample=28">0.76%</a>达63.27%，Firefox占20.38%，Safari占10.38%，Chrome占4.53%。</i>
+➜iPad最贱的山寨：安卓iPed,只要700元
+https://www.solidot.org/story?sid=18179	22380
+<a href="http://liduan.cn/">0_o</a> 写道 "iPed平板是采用<a href="http://www.intel.com/technology/atom/">英特尔Atom处理器</a>驱动的，而不是<a href="http://www.arm.com/">ARM处理器</a>，同时它采用了老版本的<a href="http://www.android.com/">Android预装系统</a>，机器已经安装了大把的应用程序软件。iPed产品使用手册与iPad还是不同，不过很明显还是借用了苹果风格。媒体称<a href="http://www.beareyes.com.cn/2/lib/201006/01/20100601426.htm">深圳地区山寨iPed</a>价格在105美元左右，换算为人民币不到720元。
+<i>
+在深圳，克隆苹果的产品是相当常见的，松散的硬件版权保护以及富士康工厂齐全的配件令这些工作相当容易进行，所以很多小电子厂商生产山寨苹果硬件并不费劲。Google Android操作系统是免费的，所以山寨小厂里也非常流行Android。"</i>
+➜俄罗斯黑客精神的体现--一个人造地铁
+https://www.solidot.org/story?sid=18180	28440
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"很多人都搭地铁，这是除了自行车外最环保的交通工具之一。Leonid Mulyanchik在很早以前---柏林墙倒塌以前，第一台Macintosh发布以前--就开始动工<a href="http://www.treehugger.com/files/2010/05/russian-man-singlehandedly-builds-subway.php">建造私人的地铁系统</a>。English-Russia称"他使用他的退休金，而且已经获得当地政府的许可。"Gizmod说"在一定程度上，这简直是令人兴奋的，<a href="http://www.gizmodo.com.au/2010/05/how-one-russian-man-is-building-his-own-personal-subway-system/">一个怪人的固执</a>"。"</i>
+➜澳大利亚学校将教智能设计
+https://www.solidot.org/story?sid=18181	30720
+澳大利亚昆士兰州的学校<a href="http://science.slashdot.org/story/10/06/01/164230/Australian-Schools-To-Teach-Intelligent-Design">将要教授学生智能设计知识</a>，不过令人略微欣慰的是它只是列入了历史课程，而不是科学课程。
+<i>
+昆士兰历史教师协会负责人Kay Bishop称，通过讨论一个有争议的问题，如达尔文进化论及其相反意见，可以帮助学生开发历史技能。这为辩论和讨论创造了机会，并非是为了推动一种特殊观点。Bishop女士称在课堂上讨论智能设计将能鼓励批判性思维——这是一种重要的工具。</i>
+➜Google将在四季度推出Chrome OS
+https://www.solidot.org/story?sid=18182	31920
+在Computex展览会上，Google负责产品管理的副总裁Sundar Pichai告诉听众，<a href="http://www.pcmag.com/article2/0,2817,2364506,00.asp">Google将在四季度推出Chrome OS</a>。当问到为什么Google要推出Chrome vs.Android两种互相竞争的开源操作系统时，Sundar Pichai表示这将能让市场决定出哪一种操作系统最能满足大众市场的需要。
+➜乔布斯声称Google先决定当苹果的敌人
+https://www.solidot.org/story?sid=18183	33120
+在今天的D8大会上，苹果CEO乔布斯（Steve Jobs）<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20145801,00.htm">畅所欲言的谈论了一个半小时</a>，涉及的话题包括了电脑的未来、与Google的竞争，flash支持、iPhone 4G外泄等等。<i>
+乔布斯称，苹果开发iPad之类平板的时间早于iPhone，后来因为看到手机的市场大于PC而暂时搁置；他认为iPhone 4G外泄的情节可以拍一部电影；是Google决定当苹果的敌人，他们无意跨入搜索行业，竞争是由Google发起的，而非苹果；苹果本身的资源有限，因此只能专注在新技术，而非逐渐淘汰中的技术（如Flash）；苹果现在支持的两个平台：一个是完全开放不控制，这就是 HTML 5；一个有人管理的平台，也就是App Store....</i>乔布斯还表示富士康代工厂并非“<a href="http://news.yahoo.com/s/afp/20100602/bs_afp/uschinaitinternetd8telecomlaborapplejobs">血汗工厂</a>”，富士康的工厂内有娱乐场所，有电影院，有医院，还有游泳池，是一个非常好的地方。
+➜Vimeo暂时可访问，PPTP VPN服务频繁遭封
+https://www.solidot.org/story?sid=18184	38100
+流行的视频分享网站<a href="http://vimeo.com/">Vimeo</a>今天意外能正常访问，原因未知。<i>
+另据《大西洋月刊》记者James Fallows博客的报道，<a href="http://www.theatlantic.com/science/archive/2010/06/more-on-witopia-in-china/57495/">PPTP VPN服务频繁遭封</a>。他以VPN供应商Witopia为例，称其入门级PPTP VPN最近<a href="http://www.theatlantic.com/science/archive/2010/05/tech-updates/57437/">遭到封杀</a>。PPTP VPN是基于PPTP协议的VPN服务，PPTP是一种旧的点对点传输层网络协议。Witopia的PPTP VPN年费只有40美元，因此在中国网民中间颇受欢迎。但最近许多用户反映无法使用。Witopia表示这是一种区域性现象，他们对此无能为力，他们认为在一个审查严密的国家网民不能依赖这种入门级的服务，因此推荐使用年费为60美元的SSL VPN服务。</i>
+➜微软回应称Windows很安全
+https://www.solidot.org/story?sid=18185	39600
+在Google员工评论称微软的<a href="__SLASHLINK__" sect="linux" sid="10/06/01/0221250" sn="article" tid="26">Windows不那么令人放心</a>之后，微软正式发表了回应，指出<a href="http://www.osnews.com/story/23392/Microsoft_to_Google_Our_Security_Is_Bigger_Than_Yours">Google雇员的指控与事实不符</a>。
+<i>
+Brandon LeBlanc在微软Windows官方博客上<a href="http://windowsteamblog.com/windows/b/bloggingwindows/archive/2010/06/01/windows-and-security-setting-the-record-straight.aspx">称</a>，Google的安全记录不佳，比如今年初耶鲁大学因为安全方面的担忧而暂停迁移到Gmail邮件系统。LeBlanc表示微软一直在改进安全，一系列的新特性让Windows及相关产品更安全：自动更新，BitLocker磁盘加密，父母控制，集成Smartscreen过滤器的IE8。他指出黑客也承认Windows 7 等微软产品安全性越来越好。</i>
+➜海豚喜欢使用ipad
+https://www.solidot.org/story?sid=18186	42000
+tualatin 写道 "来自<a href="http://www.boingboing.net/2010/06/01/dolphin-uses-ipad-as.html">biongbiong网</a>的消息：<i>
+上周一只名叫merlin的年轻瓶鼻海豚，成为了它所属种族中第一个加入的，不断增加的ipad狂热者之一。来自SpeakDolphin.com的海豚研究学者Jack Kassewitz试图用教会海豚使用ipad为第一步，最终构建出一个语言接口。“使用ipad是我们一直找寻海豚能够用它们的吻突和嘴尖端进行点击的合适触摸屏技术的一部分。 在广泛的搜索和产品评测之后，看起来我们的选择在松下toughbook和苹果ipad之间。” Kassewitz 解释道。“我们认为一旦海豚找到触摸屏的窍门，我们能让他们选择各式各样的符号，代表物体、行为、甚至情感。”Kassewitz 解释了所需要的科技。“防水，处理器速度，触摸敏感度，防反光屏幕，最重要的是对海豚友好的程序。当海豚符号数据库增长的时候，我们将需要快速的技术帮助我们对海豚作出合适而迅速的回应。”
+这项研究在Puerto Aventuras，墨西哥，“海豚发现”的海豚游泳设施进行，靠近现在被称为Riviera Maya的风景如画的海岸。这只海豚，merlin，是一只未成年海豚，两年以前出生在这个设施内。“merlin非常好奇，像大多数海豚一样，显示出研究ipad的完全意愿。”Kassewitz说。目前，研究者给它观察真实物体，比如球，方块，塑料鸭子，然后让海豚在触摸屏上点击这些物体的照片。“这对海豚来说是简单的任务，但是对于以开发一套完整的人类海豚之间的语言接口为目标是必要的。”Kassewitz 说道。"</i>
+➜法官裁决脑扫描不能用于测谎
+https://www.solidot.org/story?sid=18187	43200
+这是一项开先例的决定：一位美国联邦地区法官<a href="http://news.sciencemag.org/scienceinsider/2010/06/brain-scans-not-acceptable-for-d.html?rss=1">作出裁决</a>，功能性核磁共振成像（fMRI）不能作为一种测谎仪在法庭中使用。<i>
+地区法官Tu Pham在39页的判决书中称，脑扫描技术还不可靠，还未被科学界接受。认为fMRI没有为测谎做好准备的科学家对此感到欣慰。在Lorne Semrau案件中，63岁的心理学家Semrau被控骗取保险费，他及其律师希望能用<a href="http://www.cephoscorp.com/">Cephos</a>公司推出的fMRI测谎仪去证明他的清白。</i>
+➜欧洲科学家解释太阳中微子问题
+https://www.solidot.org/story?sid=18188	54000
+Stranger 写道 "<a href="http://www.google.com/hostednews/afp/article/ALeqM5hzvXpHuK5bN6X8pYLLjcLzys6ktA">欧洲科学家31日宣布</a>，他们可能解决了<a href="http://en.wikipedia.org/wiki/Solar_neutrino_problem">中微子失踪之谜</a>，这是这是粒子物理学领域中的亚原子世界的长期谜团之一。<i>研究人员说，如果这一点能在接下来的实验中得到确认，那么这一发现将挑战物理学标准摸型的核心概念，同时可能重塑人类对宇宙世界的认识。
+几十年来，科学家们发现，与根据太阳模型预计的情况相比，实际从太阳抵达地球的中微子较少。这意味着：如果不是太阳模型有问题，就是在中微子从太阳到地球的过程中发生了一些变化。至少一种称为介子中微子的变体消失了，这令1969年提出的一种假设获得了诺贝尔奖，即中微子可能发生形态变化，转化成一种新的不可见的形式。现在意大利国家核物理研究所的科学家们已经首次发现，中微子在振动过程中转变成另一种形式的粒子，被称为“tau”。该研究所研究员雷迪塔托说：“这将是我们等待已久的对这一过程的证明。是整个拼图中缺失的一块。”根据影响深远的标准模型，中微子没有质量。但新的实验证明它们有。这一发理的一个影响是证明其它没有被观察到的中微子的存在，也许这可以澄清暗物质的本质，据信它们占到宇宙组成的25%。（以上为新华社《参考消息》翻译）
+雷迪塔托说：“即使是无限小的存在，也会带来无限大的影响。”一个模型可以解释为什么中微子如果没有消失会对理解我们的宇宙产生深远影响——宇宙曾经如何、如何演变以及它最终将如何死亡。”</i>
+➜艺术印章下的秘密
+https://www.solidot.org/story?sid=18189	54240
+<a href="http://materialsviewschina.com/">Materialsmx</a> 写道 "艺术品价值昂贵，通常都非常精美。其修复、保存、年代测定和鉴定都要求使用先进的技术方法。由清华大学的Sichun Zhang带领的一支团队目前已经<a href="http://materialsviewschina.cn/2010/channels/surfaces-and-interfaces/art-under-the-secret-seal/">研发出一种最新成像质谱分析法用来鉴定图画和书法</a>，而不会损坏艺术品。根据科学家们在新书中的报告，此方法成功的秘诀在于低温等离子体探测器，该探测器能从艺术品表面轻轻移除分子。
+<i>
+在质谱分析法（MS）中，待检验物质成为气相，并被电离（带电）；电离粒子再通过电场加速。在分析仪内，根据粒子的质量和电荷分离粒子束。当前也开发出了成像质谱分析法。应用该方法时，必须扫描样本表面，并获取每个像素的质谱。该方法要求使用确保能够直接检验样本的特殊电离方法。但是，现存的成像质谱分析法大都在真空条件下进行，限制了待分析样本的尺寸。而在电喷雾法中，溶剂分子将被分析物分子带离表面并使其离子化。
+然而图画等精致工艺品可能会被污染并因此被溶剂损坏。中国研究人员现已引入一种新型的成像MS，辅助使用低温等离子体探测器。此探测器主要由一根电熔毛细管和两个采用铝箔制成的电极构成，并对所述电极应用极强的交流电压。而在毛细管内存在氦气；高电压在氦气中诱导出所谓的介质阻挡放电。这意味着氦原子为分离离子、电子和激活原子的形式，此状态即所谓的等离子。此等离子的温度仅达到30摄氏度。而排出毛细管的氦离子体从样本表面排出分子并使其离子化。这并不会损坏珍贵的艺术品。
+科学家将此分析法用于分析印章，即在中国图画和书法作品上用作签名和鉴别方式的加盖印记。该小组能够使用其最新微等离子体探测器来显示不同印章的印泥成分差异，确保能够区分真假印章。)"</i>

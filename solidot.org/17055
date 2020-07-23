@@ -1,0 +1,17 @@
+➜创业者到龙泉寺寻找内心平静
+https://www.solidot.org/story?sid=49647	51592
+几个世纪以来，寻求启迪的僧人会前往北京郊外的龙泉寺，他们在银杏树和柏树下打坐、念经，潜心研读古老的经文。
+<a target="_blank" href="http://cn.nytstyle.com/culture/20160908/china-longquan-monastery-buddhism-technology/"><u>
+现在新一代的修行者来了</u></a>（<a target="_blank" href="http://www.nytimes.com/2016/09/08/world/asia/china-longquan-monastery-buddhism-technology.html"><u>英文</u></a>）。他们穿连帽衫，看《生活大爆炸》，还会用聊天软件交流佛法。许多人供职于中国最热门、最严苛的一些公司，他们感觉身心俱疲，正在寻求变化。
+“外面的生活挺嘈杂，挺有压力的，”39岁的孙绍轩说。他是一家教育创业公司的首席技术官。“在这里，可以找到一点宁静。”
+随着一场精神复兴运动席卷中国，龙泉寺成为了一个静修之所。这里倡导一种与众不同的佛教，它宣扬与外界产生联系而非与世隔绝，而且重视为深奥的哲学问题提供务实的建议。
+这座寺庙的管理者，可能是世界上受教育程度最高的一群和尚，其中有核物理学家、数学天才和计算机程序员，他们放弃了讲求精确的生活，转而探索精神领域的奥义。
+➜丹麦为获得逃税数据支付100万欧元
+https://www.solidot.org/story?sid=49648	52380
+丹麦税务官员向秘密消息源<a target="_blank" href="http://arstechnica.com/tech-policy/2016/09/panama-papers-denmark-payout-data-tax-evasion-probe/"><u>支付了</u></a>大约100万欧元以获取数百名丹麦国民的金融信息。这些丹麦居民的名字出现在今年初泄漏的巴拿马文件中，巴拿马文件包含了来自离岸律所Mossack Fonseca的1100万份文件。这是丹麦首次以这种方式购买潜在逃税者的信息。秘密来源首先向丹麦官员发送了样本数据，证明数据的真实性。丹麦不是第一个以此种方式购买逃税者金融信息的国家，冰岛今年早些时候花了20万欧元<a target="_blank" href="http://www.ruv.is/frett/600-aflandsfelog-tengd-400-islendingum"><u>购买</u></a>泄密者的数据。<br>
+➜恶意程序感染希捷NAS硬盘后挖矿
+https://www.solidot.org/story?sid=49649	55354
+<div align="center"><img src="http://img.solidot.org/0/893/li6qKhZ6WkG3.jpg" height="287" align="" width="450"><br>
+</div>
+<br>
+恶意程序变种 Mal/Miner-C (aka PhotoMiner)<a target="_blank" href="http://news.softpedia.com/news/cryptocurrency-mining-malware-discovered-targeting-seagate-nas-hard-drives-508119.shtml"><u>正在感染</u></a>联网的Seagate Central NAS设备，然后利用被感染的硬盘感染连接的电脑去挖 Monero 数字货币。Mal/Miner-C利用了希捷NAS硬盘的设计缺陷将其置入到公共数据文件夹。希捷NAS硬盘允许用户从本地网络访问，如果管理员允许远程访问用户也可以从互联网上访问。NAS硬盘有一个公共文件夹，允许任何用户访问，其中包括匿名非登录用户，它无法被删除。Miner-C将自己拷贝到互联网上能找到的希捷NAS硬盘的公共文件夹，伪装成标准的Windows文件夹图标。研究人员发现能从互联网访问的希捷NAS硬盘中有70%感染了Miner-C，它至今利用被感染的设备挖掘了价值7.6万美元的Monero数字货币。

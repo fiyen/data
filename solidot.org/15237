@@ -1,0 +1,83 @@
+➜River Trail：为浏览器带来并行编程
+https://www.solidot.org/story?sid=26073	4080
+英特尔<a href="http://blogs.intel.com/research/2011/09/pjs.php">宣布了</a>扩展JavaScript并行编程功能的开源项目<a href="https://github.com/rivertrail">River Trail</a>。<i>
+浏览器不再只执行轻量级的任务，然而高计算量的应用程序却仍须原生执行，因为原生应用有性能优势，如它可以充分利用多核处理器的并行处理能力。Web开发的通用语言JavaScript不允许应用程序访问多核心，现在是时候让JavaScript跟上时代步伐了。River Trail是JavaScript的并行编程扩展，让Web应用能利用处理器的多核心和矢量扩展指令。英特尔开发者表示，他们的目标是让JavaScript并行编程和编写普通JavaScript程序一样简单。它的Demo演示显示，使用WebGL物理模拟4000个对象，串行版本的速度只有3FPS，并行版本能达到45fps。
+</i>
+➜中国将加强微博管控
+https://www.solidot.org/story?sid=26074	5100
+《金融时报》<a href="http://www.ftchinese.com/story/001040768">报导</a>，新浪CEO曹国伟表示正在开发相关系统，简化内容管控，降低新浪微博对社会稳定构成的风险。他说“新浪在过去的几个月里，也在着力地研究，想形成一套在微博体系上的信用体系。”曹国伟提到，可能会借鉴电子商务网站由买家给卖家评分的做法。<i>
+曹国伟言论证实了一点：在连续发生数起事件使微博成为民众激烈批评政府的平台后，微博可能面临更加严格的监管。曹国伟也表示，微博对政府过滤信息和控制社会的努力构成了“非常大的挑战”，很多通过微博散播的谣言对个人、对政府都造成了“巨大的伤害和损失”。<a href="http://www.voanews.com/chinese/news/20110919-CHINA-MICROBLOGGING-SITE-TO-TIGHTEN-CONTROLS-130139513.html">新浪为了阻击网络谣言</a>，已抽调大约10人，成立了“微博辟谣小组”，主要针对虚假信息(灾难、求助等)，不准确信息和商家欺诈类信息进行监控，查证和辟谣工作。 分析师认为，新浪这些举措是迄今最清晰的信号，表明微博运营商面临的压力正在上升。不过大多数人都认为微博不会被关闭，而在新浪微博运营两年后，相关监管机制也日趋成熟。</i>
+➜三星试图禁止iPhone5在韩国销售
+https://www.solidot.org/story?sid=26075	6960
+三星和苹果的专利纷争<a href="http://www.osnews.com/story/25174/Samsung_Launches_Offensive_Against_Apple">愈来愈烈</a>。苹果先后在德国、荷兰和澳大利亚等地起诉三星侵犯其设计专利，它已经从德国法庭获得了三星Galaxy Tab 10.1平板的禁销令。三星不甘示弱，也在法国、澳大利亚和韩国发起了专利诉讼，起诉苹果iOS设备侵犯了其3G无线技术专利。<i>
+<a href="http://phone360.taobao.com/">诚品数码</a> 写道 "三星在本国韩国的攻势最凶猛，它试图禁止苹果下一代手机iPhone5在韩国境内销售。三星的一位高管告诉《韩国时报》，当iPhone5进入韩国之后，三星要把苹果告上法庭，起诉它侵犯无线技术专利。只要苹果不放弃移动通信功能，它不可能在不使用三星专利的情况下在韩国出售其产品。"</i>
+➜《纽约时报》考虑推出中文版
+https://www.solidot.org/story?sid=26076	7920
+CapitalNewYork<a href="http://www.capitalnewyork.com/article/culture/2011/09/3340049/insider-takes-over-times-foreign-desk-unlikely-period-expansion-amid">报导</a>，《纽约时报》新任国际新闻部主编、原NYT北京分社社长周看(Joe Kahn)透露，《纽约时报》计划推出<a href="http://www.voanews.com/chinese/news/20110919-Will-NY-Times-in-Mandarin-130139973.html">一个中文网络版</a>，内容除了有原创中文报导之外，还将包括中文博客文章。
+<i>
+报导说，周看认为这将为《纽约时报》探索各种不同的机会带来很有意思的挑战，而且能够继续实现该报的核心使命。用新近提拔的该报新闻部副主编苏珊·希拉(Susan Chira)的话说，这个核心使命就是每天都为读者提供最全面、最细致、最理性、最有活力的国际报导。《华尔街日报》和《金融时报》都有中文版。南方报业集团的鄢烈山肯定了《纽约时报》拥有的言论自由权会让其在华文媒体中脱颖而出，但是同时这也成为其劣势之一，因为无疑其中文版将会遭中国政府封杀。</i>
+➜Linux-Next分支也由Github托管
+https://www.solidot.org/story?sid=26077	9360
+在Linux作者Linus Torvalds将<a href="__SLASHLINK__" sect="linux" sid="11/09/05/1026202" sn="article" tid="7">Linux源代码托管到Github后</a>，另一个分支Linux-Next维护者<a href="https://lwn.net/Articles/459380/">宣布临时迁移到Github</a>。<i>
+Linux-Next是Stephen Rothwell创造的分支，主要用于放一些将在下一周期合并进内核主支的补丁。 Rothwell表示，由于kernel.org至今还未恢复，他只能在Github创建一个临时的仓库<a href="https://github.com/sfrothwell/linux-next">sfrothwell / linux-next</a>。
+</i>
+➜美国总统奥巴马提议向富人征税
+https://www.solidot.org/story?sid=26078	11700
+美国总统奥巴马周一<a href="http://www.whitehouse.gov/blog/2011/09/19/president-s-plan-economic-growth-and-deficit-reduction-0">提出</a>了<a href="http://politics.slashdot.org/story/11/09/19/1316234/White-House-Proposes-Wealthy-Tax">削减赤字的计划</a>，其中包括了向年收入超过100万美元的富人加征1.5万亿美元新税。这项提案将面临国会议员的巨大阻力。<i>
+<a href="http://international.caixin.cn/2011-09-20/100307019.html">奥巴马说</a>，“我不会支持任何将所有减赤负担放在普通美国人身上的计划，而且我会否决任何只想改变联邦医疗保险计划福利而不让最富有的美国人和大公司承担应有份额的法案。”按照他的10年削减赤字计划，增税主要是对现行的针对年收入在25万美元以上的家庭的税收减免政策2013年到期后将不会再延长，由此将增加8000亿美元的收入，此外还将结束对石油公司和其他大型机构的税收减免.奥巴马称自己的计划不是要引起阶层对立。<a href="http://www.ftchinese.com/story/001040780">他不认为</a>“要求对冲基金经理承担与管道工和教师相同的税率是在搞阶级斗争。”“这不是阶级斗争。这是算数。”
+</i>
+➜日美国防承包商遭黑客入侵
+https://www.solidot.org/story?sid=26079	13320
+日本最大的国防承包商三菱重工<a href="http://www.reuters.com/article/2011/09/19/us-mitsubishiheavy-computer-idUSTRE78I0EL20110919">承认</a>遭到网络攻击，攻击者入侵了公司计算机系统，位于东京总部和神户造船厂、长崎造船厂等制造基地的约80个计算机系统感染了恶意程序。公司发言人表示，他们不能排除信息泄露的可能性，但目前产品的关键数据很安全。他声称他们已经发现了入侵者留下的一些行踪。《金融时报》的另一篇<a href="http://www.ftchinese.com/story/001040754">报导</a>称，美国公司ManTech和CACI International是最新加入到黑客攻击名单的国防承包商之一。
+➜中国将在月底发射天宫一号
+https://www.solidot.org/story?sid=26080	17640
+中国载人航天工程新闻发言人周二<a href="http://www.bbc.co.uk/zhongwen/simp/rolling_news/2011/09/110920_rolling_china_space_tiangong.shtml">宣布</a>，<a href="http://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%AB%E4%B8%80%E5%8F%B7">天宫一号</a>将于9月27日至30日在酒泉择机发射。天宫一号目标飞行器、长征二F运载火箭组合体目前都已转运至发射区。天宫一号是中国空间实验室组件，原定月初发射，但由于上月中国卫星发射出现故障，因此推迟至月底。目前酒泉宾馆、旅社<a href="http://news.ifeng.com/mil/gundong/detail_2011_09/20/9327801_0.shtml">已全部停止接待旅客</a>，由酒泉和嘉峪关的旅行社组织的参观者，只允许一日游。神舟飞船副主任设计师李颐黎<a href="http://tech.gansudaily.com.cn/system/2011/09/19/012184058.shtml">表示</a>，天宫一号发射后，神舟8号今年晚些时候也会发射，但不会载人，它将与天宫一号完成首次空间对接。神舟8号成功后，神舟9号，神舟10号可能会载人。
+➜RMS认为Android没有尊重用户自由
+https://www.solidot.org/story?sid=26081	21360
+自由软件基金会主席<a href="http://stallman.org/">Richard Stallman</a>（RMS）在《卫报》上发表文章“<a href="http://www.guardian.co.uk/technology/2011/sep/19/android-free-software-stallman">Android真的是自由软件吗</a>”，认为“<a href="http://tech.slashdot.org/story/11/09/19/1756241/RMS-Is-Android-Really-Free-Software">Android没有尊重你的自由</a>”。<i>
+RMS说，自由软件运动是以尊重用户自由的方式开发软件，而开源运动则是如何开发高质量代码，两者基本价值观截然不同。他关注Android项目的基本面不是它是否“开放”，而是它有没有给予用户自由。Android是由Linux内核和一些库、Java虚拟机和程序组成。Google以Apache 2.0许可证公开Android v1和v2的源代码。Apache是一种宽松的自由软件许可证。Google遵守了Linux的GPLV2许可证，但剩余部分所采用的Apache许可证并不要求它公开源代码。Google已经表示它不会发布Android 3.0的源代码，而Android 3.1的源代码也被暂停公开。因此除了Linux外，Android 3不是自由软件。此外，还有固件私有问题。虽然与苹果iOS和Windows Phone相比，今天的Android手机被认为不那么糟糕，但它们说不上尊重你的自由。
+</i>
+➜善待动物组织将推出色情网站
+https://www.solidot.org/story?sid=26082	23040
+动物保护组织善待动物（PETA）将在保护动物权利的名义下<a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/8772592/Animal-rights-group-PETA-to-launch-pornography-website.html">推出一个色情网站</a>，利用混搭色情和受苦动物的图像去宣传素食主义。但这一行为遭到了女权主义团体的批评。<i>
+该活动的一位负责人表示，PETA希望能借此机会接触到全新的观众群。但女权主义者认为PETA是利用女性的裸体宣传动物权利。她们建立了一个叫<a href="http://www.facebook.com/pages/Real-Women-Against-PETA/126680116695">Real Women Against PETA</a>和“<a href="http://www.facebook.com/groups/2213232767/">Vegans and Vegetarians Against PETA</a>”的Facebokk小组，女权主义者指责PETA虚伪。PETA将在.xxx域名于12月初启用时推出它的.xxx色情网站。
+</i>
+➜不要研究视频游戏，应该研究玩家本人
+https://www.solidot.org/story?sid=26083	25920
+视频游戏——尤其是暴力游戏——的负面影响正日益让父母忧心。但新的研究认为，父母应该更关心孩子的个性<a href="http://games.slashdot.org/story/11/09/16/0354205/Dont-Study-the-Video-Game-Study-the-Gamer">而不是游戏的内容</a>。<i>
+维拉诺瓦大学心理学家<a href="http://www65.homepage.villanova.edu/patrick.markey/markey.html">Patrick M. Markey</a>认为，如果担心视频游戏把儿子或女儿变成杀人凶手，这是杞人忧天。但你的孩子是否喜怒无常、冲动或不友好？让他们玩暴力游戏可能不是一个好主意。Markey发现，高竞争性游戏与低竞争性游戏相比，会让有极高神经质与极低宜人性和责任感个性的人的敌意增强，产生更具攻击性的行为，</i>
+➜三星计划明年开源Bada
+https://www.solidot.org/story?sid=26084	28440
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424053111904106704576581760667355454.html?mod=WSJAsia_hpp_LEFTTopStories">报导</a>，为了减少对Google Android的依赖和刺激其自主研制移动系统的增长，三星计划明年向开发者和设备制造商开放<a href="http://developer.bada.com/apis/index.do">Bada</a>。<i>
+报导引用消息人士的话称，三星计划开源Bada，但无意收购一家软件公司。此举可能是回应Google收购摩托罗拉移动。分析人士推测其它Android制造商可能会在技术支持上落在摩托罗拉后面。三星也希望通过开源将Bada软件转变成一个广泛使用的智能电视平台。三星是次于苹果的世界第二大智能手机制造商。
+</i>
+➜研究人员将演示攻击SSL/TLS
+https://www.solidot.org/story?sid=26085	30720
+9月21日布宜诺斯艾利斯举行的<a href="http://ekoparty.org/cronograma.php">Ekoparty安全会议</a>上，安全研究人员Thai Duong和Juliano Rizzo将演示针对SSL/TLS的<a href="http://www.theregister.co.uk/2011/09/19/beast_exploits_paypal_ssl/">概念验证攻击</a>。<i>
+研究人员在<a href="http://zh.wikipedia.org/wiki/SSL">SSL/TLS协议</a>中发现了严重弱点，能让黑客悄悄破译Web服务器和终端用户浏览器之间传输的加密数据。弱点主要影响TLS协议1.0版及SSL所有版本，<a href="http://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.0_.28SSL_3.1.29">TLS 1.1/1.2</a>未受影响。TLS是SSL的继任者，TLS 1.0相当于SSL 3.1。研究人员的概念验证代码BEAST可以解密目标网站的cookies，获得权限访问受限用户的帐号。研究人员将在会议上演示解密访问PayPal帐号的验证cookies。
+</i>
+➜被控过失杀人的意大利地震学家出庭受审
+https://www.solidot.org/story?sid=26086	33120
+六名意大利地震专家和一名前政府官员周二<a href="http://www.ft.com/cms/s/0/7573b7ec-e366-11e0-8f47-00144feabdc0.html#axzz1YUDQOBcQ">出庭受审</a>，他们因未能对2009年4月6日发生的拉奎拉地震提出预警而<a href="__SLASHLINK__" sect="science" sid="11/05/26/093204" sn="article" tid="119">被控过失杀人</a>。<i>
+拉奎拉地震震级为里氏6.3级，共造成309人死亡，数千人受伤，数万人无家可归。地震前6个月，拉奎拉附近地区出现系列轻微地震，大地震前6天发生一次4级地震。随后意大利国民保卫局在3月30日召开风险评估会议，六名地震专家和一名政府官员组成的风险委员会认为把系列小震当作大震的前奏是没有理由的，他们认为大地震在这个区不太可能发生，但不排除会发生。根据当地市民的说法，许多人当时已经准备撤离，但风险评估会议后留了下来。这个案件引起了科学界的关注。逾5000名科学家联名致函意大利总统纳波利塔诺<a href="__SLASHLINK__" sect="science" sid="10/06/26/0149242" sn="article" tid="100">表示对几名被告的支持</a>。<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/09/110920_italy_laquila_quake_trial.shtml">如果被裁定有罪</a>，这几名被告将面临最长15年监禁，并要支付高达3000万美元的赔偿。</i>
+➜基因疗法或能治愈艾滋病
+https://www.solidot.org/story?sid=26087	35520
+过去几年，德国柏林病人Timothy Brown成为世人瞩目的焦点，他是<a href="__SLASHLINK__" sect="science" sid="08/11/10/0021226" sn="article" tid="50">第一位被治愈的艾滋病患者</a>。医生将一位拥有自然免疫力的捐赠者的骨髓移植到他身上，新骨髓产生了对HIV免疫的免疫细胞，不久HIV病毒就消失了。现在两项小型的基因疗法研究模仿了这一策略，结果暗示<a href="http://news.sciencemag.org/sciencenow/2011/09/gene-therapy-may-thwart-hiv.html">基因疗法有可能为患者带来治愈的希望</a>。<i>
+其中一项研究测试了15名HIV感染者，目标是免去患者服用逆转录病毒药物的需要。研究人员通过削弱CCR5受体使免疫系统能抵抗HIV，CCR5是HIV感染过程中使用的辅助受体。Timothy Brown的骨髓移植就使他能自然破坏CCR5受体。研究人员从血液中抽取T细胞，然后在实验室中用锌指核酸酶进行修改，使CCR5失去作用，数十亿被修改的T细胞最后被输回患者体内。研究发现，修改过的T细胞在多位患者身上持续了半年时间。其中一位患者最为显著，几周之内病毒开始减少，降低到无法探测的水平。但这一现象仅见诸于一位患者。
+</i>
+➜泰晤士世界地图夸大格陵兰岛冰川融化速度
+https://www.solidot.org/story?sid=26088	37500
+著名地图出版社<a href="http://www.timesatlas.com/Pages/default.aspx">泰晤士世界地图</a>（Times Atlas）上周公布了<a href="http://www.timesatlas.com/TimesComprehensiveAtlas/Pages/AtlasDetail.aspx?IDNumber=63021">最新版世界地图</a>，显示过去12年中由于全球变暖格陵兰岛有15%的冰层消失，相当于英国和爱尔兰面积的土地变成了“绿色”。冰川学家立即发现地图<a href="http://science.slashdot.org/story/11/09/19/1847255/Atlas-Takes-Heat-For-Melting-Glacier-Claim">严重</a> <a href="http://news.sciencemag.org/scienceinsider/2011/09/atlas-shrugged-outraged-glaciologists.html">夸大了冰川融化速度</a>。<i>
+剑桥大学考特极地研究院(SPRI)的研究人员指出，地图所绘制的无冰区其实大部分仍被冰层所覆盖。冰川学家Liz Morris称，这是一个糟糕的测绘错误。如果格陵兰岛真的有15%的冰层消失，全球海平面将会上升1米，“但这显然没有发生”。SPRI的研究人员认为，15%的冰川融化是真实发生的冰川融化总量的150倍。全球的冰川融化平均速度是每年0.2%，其中小冰川要比格陵兰岛那样的大冰原要快得多。地图出版商哈伯柯林斯的发言人声称，地图所用数据来自美国国家冰雪数据中心（NSIDC），坚称15%是基于更精确的数据得出的。NSIDC首席科学家Ted Scambos认为，地图编辑错误使用了2001年公布的一张地图，地图显示的是格陵兰岛中心冰原的范围，并没有显示任何外围的冰川，他遗憾的表示出版商没有联系NSIDC核查。
+</i>
+➜运行在Android手机上的新移动操作系统Inferno OS
+https://www.solidot.org/story?sid=26089	39600
+一个新的开源项目试图让智能手机变得<a href="http://www.osnews.com/comments/25173">更像是传统手机</a>。<i>
+<a href="https://bitbucket.org/floren/inferno/wiki/Home">Inferno OS</a>运行在Android手机上，它是基于Linux kernel，替换了整个Java系统，它的UI非常简陋，触控屏变成了某种类似鼠标单击的操作，只提供了拨打电话和短信接收功能。Inferno的编程语言Limbo允许方便快捷的开发应用程序。开发者的免责声明是：“搞坏了手机不是我们的错误，不要给我们发邮件，不要上门找茬，不要打电话给我们——哦，忘了你的手机已经坏了。”</i>
+<a href="http://www.youtube.com/watch?v=dF_-jQc53jw">视频演示</a>（YouTube）
+➜老汉跌倒谎称不赖，送院后改口
+https://www.solidot.org/story?sid=26090	42720
+lot 写道 <i>"据<a href="http://news.iqilu.com/shandong/kejiaoshehui/20110918/555182.html">山东商报</a>报道, 9月16日下午2点左右, 刘女士当时正好骑车路过. "路过的时候看到一位上了年纪的老人摔倒了, 我就想赶紧下车去扶老人起来. " 刘女士告诉记者, 她当时也是担心老人会赖上自己, 于是她就找路人作证, 并把自己的手机号码告诉了几位目击者. "万一出事的话, 你们可要为我证明, 我只是做好事. " 多位目击者均表示愿意作证. " 老人亦表示"不会赖你的".<br>见路人都愿意为其作证, 老人也这么说, 她便立刻扶起了老人, 并让其坐在路边. 老人见到外孙后, 表示自己的骨头伤了, 希望上医院检查. 于是她就打算回家了, "没想到, 老人突然改口说是我撞了他. "<br>刘女士思来想去, 觉得最直接的办法是去事发地点去等目击证人, 要不就找媒体帮忙寻找目击证人. 后来好容易等到了一个目击者, 她表示愿意为我作证. 而为了证明清白, 当时刘女士也找来了电视台记者, 希望有更多的目击者能为她作证.<br>刘女士说, 目前她已有些许放心了, 至少有证人证明她是清白的. 当记者问及, 是不是因为老人年纪大了, 且送到医院后可能有些恍惚, 才会说出这样的话, 刘女士认为, "其实老人当时真的是清醒的, 毕竟我刚想去扶他时, 他还说的好好的. ""</i>
+➜又一家日本军火商被攻击，中国否认与之有关
+https://www.solidot.org/story?sid=26091	42960
+日本最大的国防承包商三菱重工<a href="http://china.kyodonews.jp/news/2011/09/16653.html">透露</a>遭到黑客攻击，位于总部、造船所、制作所等日本国内11处相关地点的共计83台服务器和电脑等感染了病毒。据三菱重工调查，部分服务器按病毒发出的指令被强制接入了海外网站。三菱称与军工相关的重要信息由于采取了严格的安全措施并未外泄。《读卖新闻》则引述消息来源<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/09/110920_japan_defence_hacking.shtml">报道</a>，攻击三菱重工电脑的远程操控者使用的事中国大陆的中文简体字。20日，防卫和机械领域企业IHI公司也透露<a href="http://china.kyodonews.jp/news/2011/09/16682.html">遭网络攻击</a>，但电脑并未感染病毒，也未发生信息外泄。IHI的产品包括护卫舰和飞机的发动机。IHI收到的是有针对性的邮件，只要打开附件，机器就会中毒，可能会导致信息外泄。针对日本三菱重工业公司遭遇网络黑客攻击事件，中国外交部发言人洪磊20日在记者会上<a href="http://www.mfa.gov.cn/chn/gxh/tyb/fyrbt/jzhsl/t860586.htm">表示</a>，指责中国是攻击发源地的说法毫无根据，对加强网络安全国际合作毫无裨益，否认中方与此事有关。

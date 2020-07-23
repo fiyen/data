@@ -1,0 +1,44 @@
+➜微软称有1.1亿设备运行Windows 10
+https://www.solidot.org/story?sid=45702	10296
+据微软Surface团队负责人Panos Panay提供的数据，全世界有<a target="_blank" href="http://www.computerworld.com/article/2988167/microsoft-windows/microsoft-claims-110m-devices-now-run-windows-10.html"><u>1.1亿部</u></a>设备运行Windows 10。1.1亿这个数字指的是运行设备数量而不是下载次数。软件巨人的发言人拒绝评论该公司是如何跟踪设备的，但推测应该是通过激活。Windows 10于7月29日发布，微软向正版Windows 7和8/8.1用户提供了限时免费升级的活动，该公司此前透露发布第一天有1400万台PC升级，第一个月有7500万。
+➜经济学家难以重现经济学论文的结论
+https://www.solidot.org/story?sid=45703	11976
+继<a target="_blank" href="http://www.solidot.org/story?sid=29056"><u>癌症研究</u></a>、<a target="_blank" href="http://www.solidot.org/story?sid=43953"><u>心理学研究</u></a>之后，经济学研究也被发现存在重现结论的问题。美联储经济学家Andrew Chang和Phillip Li发表了一篇<a target="_blank" href="http://www.federalreserve.gov/econresdata/feds/2015/files/2015083pap.pdf"><u>论文</u></a>，研究了顶级经济学期刊上发表的论文结论是否可以重现，他们调查了13家知名经济学期刊发表的67篇论文，结果令人震惊：如果没有论文作者的帮助，研究人员只能独立再现三分之一的发现；如果有作者的帮助，比例提高到49%。他们<a target="_blank" href="http://www.businessinsider.com/federal-reserve-paper-on-the-replicability-of-economic-studies-2015-10"><u>得出结论</u></a>：经济学研究一般不具有可重现性。
+➜美国称中国国企受益于黑客攻击
+https://www.solidot.org/story?sid=45704	12398
+《金融时报》援引知情人士的消息<a target="_blank" href="http://www.ftchinese.com/story/001064241"><u>报道</u></a>，美国有关部门得出结论，三大国企受益于中国军方对美国企业的黑客攻击中窃取的商业秘密。这三家国企分别是中铝、宝钢，以及中国国家核电技术公司。奥巴马政府已威胁要对受益于此类黑客攻击的企业实施制裁，称经济网络间谍活动是“一种必须停止的侵略行为”。如果美国要把这三家公司列为制裁对象，那将代表事态的重大升级，因为它们在中国经济中扮演核心角色。中铝表示，它不知道美方的商业间谍指控。“中铝公司在这些问题上是一家非常负责任的公司，”它说。美国有几个制裁方案，从针对高管的旅行禁令，到要求美国的银行冻结资产。
+➜新Android恶意程序获取Root权限卸载安全软件
+https://www.solidot.org/story?sid=45705	16828
+FireEye Labs的安全研究人员<a target="_blank" href="https://www.fireeye.com/blog/threat-research/2015/10/kemoge_another_mobi.html"><u>发现了一个源自中国的Android恶意程序家族</u></a>，它正迅速传播到全世界20多个国家，它的指令控制服务器（CC）域名是aps.kemoge.net，因此被取名为Kemoge。Kemoge将合法应用重新打包，伪装成合法应用上传到第三方应用商店，通过网站和广告宣传，用户一旦安装之后它会收集设备信息上传到广告服务器，然后用广告轰炸用户。Kemoge一开始只是恼人，但很快它会变得邪恶。它会调用一个多重加密的压缩文件，该压缩文件包含了最多8个root利用可执行工具，去获取root权限，将AndroidRTService.apk植入到系统分区/system。植入到系统分区之后用户将设备恢复出厂状态也无法抹掉恶意程序。恶意程序然后联系aps.kemoge.net获取指令，将IMEI、IMSI、储存信息和安装应用等数据上传到CC服务器，CC服务器发回指令卸载安全应用和流行的合法应用。研究人员分析的样本代码中全都包含简体中文字符，他们从中发现了一名叫Zhang Long的中国开发者。
+➜戴尔正协商收购EMC
+https://www.solidot.org/story?sid=45706	17795
+《<a target="_blank" href="http://www.wsj.com/articles/dell-is-in-talks-to-strike-merger-deal-with-emc-sources-say-1444259189"><u>华尔街日报</u></a>》和<a target="_blank" href="http://cn.reuters.com/article/2015/10/08/dell-emc-update-idCNKCS0S209P20151008"><u>路透社</u></a>援引匿名知情人士的消息报道，全球第三大PC制造商戴尔正就收购存储巨头EMC进行谈判，并与几家银行讨论以全现金收购后者的融资问题。截至周三收盘，EMC市值约为500亿美元。这一交易将进一步提振戴尔电脑在企业客户中的地位，该公司创始人戴尔一直在努力将企业完全转变为惠普和IBM那样的企业计算服务提供商。
+➜微软WP商店充斥着虚假应用
+https://www.solidot.org/story?sid=45707	25348
+<div align="center"><img src="http://img.solidot.com.cn/0/64/liJwiRFylnuqA.jpg" align="" height="566" width="500"><br>
+</div>
+安全公司Avast官方<a target="_blank" href="https://blog.avast.com/2015/10/06/has-the-windows-phone-store-become-a-new-target-for-hackers/"><u>博客</u></a>称，微软官方的Windows Phone Store最近几个月出现了大量的虚假应用，这些应用的图标和名字都模仿合法的流行应用如Facebook Messenger、CNN、BBC和WhatsApp，以及Avast软件。这些虚假应用的盈利模式是广告展示和用户数据收集。Avast推测，WP商店突然涌现大量虚假应用的一个原因是市场占有率更高的Google Play和iTunes加强了应用监管，所以相比之下WP应用商店的吸引力增加了。
+➜为什么内存价格突然下降了？
+https://www.solidot.org/story?sid=45708	26950
+DDR内存条的价格在2013年<a target="_blank" href="http://www.jcmit.com/memoryprice.htm"><u>创下史低</u></a>，它的价格随后开始反弹，但今年又开始下跌。今天4GB DDR3内存条的价格比一年前要低不少，但仍旧高于2013年。为什么内存价格突然下跌了？它是否还会继续下跌？市场研究公司DRAMeXchange的分析师<a target="_blank" href="http://www.itworld.com/article/2989724/hardware/memory-is-dirt-cheap-at-a-time-when-it-should-be-expensive.html"><u>认为</u></a>，内存条价格下跌可能与微软的Windows 10免费升级有关。微软向Windows 7和8用户提供了Windows 10的免费升级，对笔记本电脑产品的升级换代造成了负面冲击，今年第三季度的笔记本出货量低于预期。
+➜Y孵化器宣布YC Research
+https://www.solidot.org/story?sid=45709	30375
+硅谷风投公司Y孵化器<a href="http://blog.ycombinator.com/yc-research"><u>宣布了</u></a>研究实验室<a target="_blank" href="http://ycr.org/"><u>YC Research</u></a>，旨在研究需要很长时间才有可能找到答案的开放式问题，或研发不应该被任何一家公司掌握的技术。YC Research是非盈利性质的，其开发的任何知识产权都将免费向任何人开放，但研究人员对他们的技术有完整的自由裁量权，Y孵化器将制定一个程序去处理可能具有危险性的技术的公开。鉴于开放的性质，研究人员可以自由的与其它研究机构的成员展开合作。Y孵化器说，如果某些项目需要花费的时间将长达25年，他们对此不会介意。
+➜日本政治漫画引发种族主义的批评
+https://www.solidot.org/story?sid=45710	33197
+<div align="center"><img src="http://img.solidot.com.cn/0/65/liPYoHd9AysY.jpg" align="" height="333" width="500"><br>
+<br>
+</div>
+日本保守派漫画家Toshiko Hasumi上个月发表了一幅有关叙利亚难民的政治漫画，漫画的主角是一名6岁叙利亚女孩，配上的文字称她想要过上美好的生活，她对此有一个想法：成为难民。这幅发布在Facebook上的漫画<a target="_blank" href="http://www.bbc.com/news/blogs-trending-34460325"><u>招致了批评</u></a>，名为Don't Allow Racism Group的组织在Change.org网站上用日文发起<a target="_blank" href="https://www.change.org/p/%E3%82%B7%E3%83%AA%E3%82%A2%E9%9B%A3%E6%B0%91%E3%82%92%E4%BE%AE%E8%BE%B1%E3%81%99%E3%82%8B%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%8C-%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%BA%E3%83%A0-%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8facebook%E3%81%AF%E8%AA%8D%E3%82%81%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84"><u>请愿</u></a>，以种族主义的理由请求Facebook删除这幅漫画，有超过1万人签名。Facebook没有删除这幅画，因为它没有违反社区准则，作者本人最后将其移除。她认为签名的人都是左翼活动人士。她表示不希望欧洲国家成为受害者，努力工作的人不应该受骗于假难民。
+➜黑死病背后的基因突变
+https://www.solidot.org/story?sid=45711	38141
+在历史上，鼠疫流行引发的灾难是骇人听闻的。541年到543年之间的查士丁尼鼠疫杀死了将近一半的地中海人口；中世纪的黑死病杀死了三分之一的欧洲人口。现在，研究人员<a target="_blank" href="https://www.quantamagazine.org/20151006-plague-genetic-history/"><u>正逐渐揭示鼠疫背后的遗传历史</u></a>。研究<a href="http://www.solidot.org/story?sid=39724"><u>发现</u></a>，它从无害的细菌演变成致命的病菌只是经历了少许的基因突变。鼠疫耶尔森菌（Yersinia pestis）是从另一种叫假结核耶尔森菌的细菌演变而来。2004年，一个国际研究团队公布了假结核耶尔森菌的完整遗传序列，与鼠疫耶尔森菌进行对比后发现，两者的大部分差异都是中性突变，只有少数小的突变值得注意。其中第一个引起注意的是，假结核耶尔森菌不能通过跳蚤传播，它对跳蚤是致命的；而鼠疫耶尔森菌只对跳蚤造成轻微的病症。2014年，中国和美国的研究人员发现，从假结核耶尔森菌到鼠疫耶尔森菌的转变过程中，失去了三个基因增加一个基因。失去的三个基因增加了鼠疫耶尔森菌传播到新宿主的机会。今年6月，研究<a target="_blank" href="http://www.nature.com/ncomms/2015/150630/ncomms8487/full/ncomms8487.html"><u>发现</u></a>名叫pla的基因给予了鼠疫耶尔森菌感染肺炎的能力，它因此能杀死几乎所有没有接受抗生素的感染者。鼠疫基因突变的历史被认为只有几千到几万年。但上个月，研究人员<a target="_blank" href="http://jme.oxfordjournals.org/content/early/2015/09/12/jme.tjv134"><u>报告</u></a>在一个有2千万年历史的跳蚤琥珀中发现了类似鼠疫耶尔森菌的细菌，它可能是鼠疫病菌的祖先。
+➜屠呦呦、诺贝尔奖和毛主席的号召
+https://www.solidot.org/story?sid=45712	38942
+在1960年代文化大革命动乱期间，中国很多受过西方教育的科学家都遭到了冷落和迫害，而政府面临着一个紧迫的科学问题需要解决。中国的重要盟友北越当时正在与美国作战，因为疟疾逐渐对氯喹药物有了抗药性，他们希望中国帮助减少北越士兵的疟疾死亡率。当时疟疾也在中国南方肆虐，夺去了很多人的生命。为了寻找解决方案，毛泽东成立了一个秘密军事项目，称为523项目，这个名字来自于它的启动日期1967年5月23日。但就像动乱期间的其他很多中国人一样，疟疾研究领域的顶级专家已经作为“右派”靠边站了。项目没有取得什么进展，于是政府找到了北京的中国中医研究院以及一位名不见经传的科学家屠呦呦。结果，对西医和中医均有过研究的屠呦呦从中国传统医学中找到了解决方案。本周一，现年84岁的屠呦呦<a target="_blank" href="http://cn.nytimes.com/china/20151008/c08tuyouyou/"><u>成为第一位获得诺贝尔奖科学奖项的中国公民</u></a>。
+➜美团和大众点评合并
+https://www.solidot.org/story?sid=45713	40841
+继滴滴和快的之后，两家有着竞争关系的公司美团和大众点评<a target="_blank" href="http://cn.wsj.com/gb/20151008/tec140808.asp"><u>宣布合并</u></a>，合并后的公司实行双CEO制，将继续分别经营各自的平台和服务。一位分析师<a target="_blank" href="http://www.ftchinese.com/story/001064245"><u>评价说</u></a>，这是一次行业的理性回归，也是一次市场的自发调整。他说，靠补贴拉用户的手段成本高且用户忠诚度低，这种玩法已经难以为继；转化率和成交额差强人意，一些创业公司不断冒出刷单丑闻；主流VC不再投O2O项目，其他VC也大面积压缩投资；新O2O项目拿不到钱，O2O巨头们也抓紧融钱过冬，但进展不如想象般顺利。
+➜权力如何影响我们对他人的信任
+https://www.solidot.org/story?sid=45714	46289
+通常情况下，我们不会愿意承认自己盲目信任强人或高权力的人，政客或企业高管滥用权力的事情实在太多了，信任他们似乎不是明智的选择。理性行动者理论认为，强人负担得起背叛的代价，他们可以很容易找到新的合作方。理性行动者理论推测，权力较低的一方也能预测到这一结果，他们因此会降低对权力较高一方的信任。然而多项观察研究发现恰恰相反，权力较低的一方会更信任他们权力更大的合作伙伴。研究人员<a target="_blank" href="http://phys.org/news/2015-10-gonna-power-affects-faith.html"><u>提出了动机认知的解释</u></a>：缺乏权力的人有更多的动机希望他们的合作伙伴值得信任，他们这么做是为了保护自己，这种缺乏证据支持的感知统治了他们的认知和决策。

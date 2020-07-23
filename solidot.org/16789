@@ -1,0 +1,12 @@
+➜Wine 1.8发布
+https://www.solidot.org/story?sid=46590	41556
+<a target="_blank" href="https://www.winehq.org/download"><u>Wine Is Not An Emulator</u></a>项目发布了最新的稳定版本<a target="_blank" href="https://www.winehq.org/announce/1.8"><u>Wine 1.8</u></a>。新版包含了1.3万个改动，最主要的是实现了DirectWrite和Direct2D支持；加入了新的Pulse Audio驱动；有限支持Direct3D 11，支持使用Direct3D 10的简单应用程序，但Direct3D 10和11的大量特性还没有实现；改进Unicode和字体，支持Unicode 7.0和Unicode 8.0；Mac OS X版支持64位架构，但没有100%兼容，原因是OS X的非标准64位ABI，等等，详细可查看发布公告。
+➜Juniper后门被认为与椭圆曲线伪随机数生成器有关
+https://www.solidot.org/story?sid=46591	53943
+Juniper本周发出<a target="_blank" href="http://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA10713&amp;actp=search"><u>安全警告</u></a>，它的防火墙产品运行的固件被发现含有“未授权代码”——被第三方植入后门的委婉说法，它发布了新版固件修复了漏洞。安全专家比较了新旧固件的<a target="_blank" href="https://gist.github.com/pzb/4bdc09c577b1dff66770"><u>差异</u></a>，<a target="_blank" href="https://www.imperialviolet.org/2015/12/19/juniper.html"><u>注意到了</u></a>几个与椭圆曲线伪随机数生成器有关的16进制值变化。安全研究人员Ralf-Philipp Weinmann和密码学教授Matthew Green 怀疑基于椭圆曲线的伪随机数生成器的某个值是常数。这令人想起了NSA力推纳入政府加密标准的Dual_EC_DRBG（双椭圆曲线确定性随机比特生成器），该算法也被认为存在后门，允许了解内情的攻击者预测加密后的输出结果。目前还无法确定Juniper究竟发生了什么，不清楚是否与NSA以及有缺陷的Dual_EC_DRBG有关。值得一提的，Juniper曾在2010年<a target="_blank" href="http://www.marketwatch.com/story/juniper-networks-investigating-cyber-attacks-2010-01-15"><u>遭到极光攻击</u></a>。
+➜深圳发生山体滑坡破坏多幢楼房
+https://www.solidot.org/story?sid=46592	54714
+深圳光明新区<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2015/12/151220_china_shenzhen_collapse"><u>发生山体滑坡</u></a>，导致区内柳溪工业园区多幢楼房坍塌，目前最新的失踪人数为27人（12/21增加到91）。光明新区傍晚17时前发布称，被掩埋楼房达22座，现场约900人安全撤离。航拍视频<a target="_blank" href="http://www.weibo.com/1677991972/D9i1bm9gs"><u>显示</u></a>，多座楼房被山泥推倒，一座仍未倒塌的楼房至少两层范围被包围。现场消息称至少四人已经获救。《深圳特区报》报道，地方安监部门初步认为是“临时余泥渣土受纳场违规作业，受纳泥浆满溢，冲出山体”，导致这次事故。官方在傍晚的新闻发布会上并未提及这一点。
+➜我们为延长生命应该付多少成本？
+https://www.solidot.org/story?sid=46593	55241
+牛津大学伦理学家Dominic Wilkinson最近发表了<a target="_blank" href="http://blog.practicalethics.ox.ac.uk/2015/11/how-much-would-you-pay-to-live-an-extra-year/"><u>一篇文章</u></a>，讨论了一个值得认真思考一个问题：我们应该为延长生命<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2015/12/151215_vert_fut_live-for-an-extra-year"><u>付多少成本</u></a>？目前，是否使用绝症治疗药物往往根据两个因素来判断——这些药物能够延长多少寿命，以及病人在此期间的生活质量，这都可以使用质量调整寿命年来计算。例如，如果一种药物能让你多活一年，但这一年的生活质量仅为正常情况下的一半，那么就对应0.5质量调整寿命年。根据这样的方法，便可计算某种药物是否物有所值。例如，按照质量调整寿命年计算，英国建议每额外增加一年的健康寿命大约应该支付2万至3万英镑。所以，0.5质量调整寿命年的价格仅为1万至1.5万英镑。美国卫生研究院临床生命伦理学部门前主任Ezekiel J.Emanuel<a target="_blank" href="http://www.solidot.org/story?sid=41242"><u>公开表示</u></a>，他将在75岁之后拒绝所有延长生命的治疗方案，避免因为无休止的高强度治疗让自己在人世间的最后几年变得毫无质量可言。

@@ -1,0 +1,12 @@
+➜东亚国家的 HTTPS 普及度较低
+https://www.solidot.org/story?sid=53362	41912
+HTTPS 能为互联网提供最基本的隐私和完整性。安全研究人员和浏览器开发商正致力于推动 HPPTS 的普及，如 Let’s Encrypt CA 项目<a href="http://www.solidot.org/story?sid=52926" target="_blank"><u>已经签发了</u></a>超过 1 亿个证书。但普及 HPPTS 的进展究竟如何了呢？Google、Mozilla 和思科的研究人员发表了<a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46197.pdf" target="_blank"><u>一份研究报告</u></a>（PDF），根据 Google Chrome 和 Mozilla Firefox 收集的遥测数据和对 Web 服务器的扫描，发现 HTTPS 在过去几年的增长显著，仅 2016 年一年 HTTPS 占桌面浏览的比重增加了 10 个百分点，主要网站默认启用 HTTPS 的数量在 2017 年初到 2016 年初之间翻了一番，但最受欢迎的网站中默认启用 HTTP 的仍然占一半，移动浏览则落在了桌面浏览后面，而东亚国家的 HTTPS 普及度显著低于世界其它地方。东亚的中国、韩国和日本有着非常低的 HTTPS 使用率，世界其它地方只有伊朗的 HTTPS 使用率与东亚类似。这一情况令人费解。中国的低 HTTPS 使用率可能与防火长城有关，但日本和韩国显然不是，是文化方面（比如不关心隐私），还是技术方面，或者是遗留基础设施或法律方面的问题？研究人员认为为了促进该地区的 HTTPS 普及首先需要弄清楚这一现象的原因。
+➜WannaCry 勒索到的比特币被兑换成门罗币
+https://www.solidot.org/story?sid=53363	43682
+勒索软件 WannaCry 背后的操作者将其勒索到的比特币从钱包转出，<a href="https://arstechnica.com/gadgets/2017/08/researchers-say-wannacry-operator-moved-bitcoins-to-untraceable-monero/" target="_blank"><u>兑换成无法跟踪的门罗币</u></a>。比特币是去中心化数字货币，但并不匿名，所有交易都记录在案，可公开查询和跟踪。<a href="https://zh.wikipedia.org/wiki/%E9%97%A8%E7%BD%97%E5%B8%81" target="_blank"><u>门罗币</u></a>（Monero，代号 XMR）诞生于  2014 年，着重于隐私、匿名性和不可跟踪。安全研究人员发现，WannaCry 勒索到的 52.2 比特币经过多笔交易转到了与门罗币相关联的钱包。门罗币也得到了神秘黑客组织 Shadowbrokers 的青睐，它的付费订阅服务接受门罗币。
+➜魔兽世界金币价值超过委内瑞拉博利瓦
+https://www.solidot.org/story?sid=53364	51651
+持续的动荡让委内瑞拉的官方货币博利瓦在黑市的价值不断贬值，现在一博利瓦<a href="https://news.slashdot.org/story/17/08/05/0350244/world-of-warcraft-game-currency-now-worth-more-than-venezuelan-money" target="_blank"><u>甚至不如网络游戏《魔兽世界》里的一金币</u></a>。当然虚拟货币并不具有像官方货币那样的流通能力。根据委内瑞拉网民透露的消息，7 月中旬博利瓦在黑市的兑换率是 1 美元换 8493.97 博利瓦。在暴雪的虚拟游戏里，玩家可以用 20 美元购买到一大堆金币，其交换比率相当于 1 美元换 8385 个金币。这意味着，《魔兽世界》中的一块虚拟金币的价值超过了一博利瓦。
+➜微软与 PayPal 合作在 Skype 加入转账功能
+https://www.solidot.org/story?sid=53365	52087
+微软宣布与 PayPal 合作在 Skype <a href="https://betanews.com/2017/08/02/microsoft-paypal-send-money-skype/amp/" target="_blank"><u>加入转账功能</u></a>，22 个国家的  Skype 用户可以通过应用使用 PayPal 向另一位用户转账。微软称， Skype 的移动版本下载量超过 10 亿，用户将能直接在 Skype 中用 PayPal 转账。微软称，转出钱的用户需要使用最新版的 Skype，但接收钱的用户可以使用任意版本。这项功能支持的国家覆盖了北美和欧洲，但不包括亚洲如中国。

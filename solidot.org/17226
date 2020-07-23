@@ -1,0 +1,53 @@
+➜亚马逊云服务下线数小时，影响大量网站
+https://www.solidot.org/story?sid=51523	7737
+当亚马逊的基础设施云服务发生故障，所有网民<a href="https://arstechnica.com/information-technology/2017/02/amazon-cloud-sputters-for-hours-and-a-boatload-of-websites-go-offline/" target="_blank"><u>都会收到通知</u></a>。当亚马逊负责云业务的副总裁 Adrian Cockcroft 在台上<a href="http://www.businessinsider.com/amazon-vp-was-on-when-aws-went-down-2017-2" target="_blank"><u>大谈</u></a>该公司云服务的优势时，AWS 下线了。发生故障的<a href="https://twitter.com/awscloud/status/836656554212372480" target="_blank"><u>时间</u></a>大约是在美国东部时间 12:45 pm 左右，主要影响美国东海岸 US-EAST-1 区的 S3 储存服务，到 5:08 pm ET&nbsp; 亚马逊宣布所有服务<a href="https://status.aws.amazon.com/" target="_blank"><u>恢复正常</u></a>。此次事故影响了大量流行的网站和服务，其中包括 Airbnb、 Pinterest、Time,、CNBC、Docker、IFTTT、isitdownrightnow.com、Medium、Microsoft's HockeyApp、News Corp、Quora、Razer、Slack、SEC 和 Zendesk 等。
+➜小米的手机芯片得到了政府资金的资助
+https://www.solidot.org/story?sid=51524	12342
+小米周二在中国国家会议中心展示了中国政府资金资助其自主研发的首款智能手机芯片松果澎湃 S1 。《华尔街日报》<a href="http://cn.wsj.com/gb/20170301/tec073839.asp" target="_blank"><u>认为</u></a>，这是中国政府推动中国半导体产业发展的最新迹象，此类举措还包括为获得技术而收购海外芯片公司。小米是继华为之后能自主研发芯片的第二家中国智能手机制造商。小米 5C 手机将搭载松果澎湃 S1 芯片，本周五上市销售，起始价 1,499 元。小米 CEO 雷军称，小米公司获得了北京中关村国家自主创新示范区集成电路设计产业发展资金的支持。他表示，该芯片的研发耗资至少人民币 10 亿元。
+➜美国最高法院辩论使用社交网络是否属于宪法权利
+https://www.solidot.org/story?sid=51525	12796
+本周一，对于北卡罗来纳州是否可以禁止登记在册的性犯罪者使用 Facebook、Twitter 及其类似服务的问题，最高法院的<a href="https://www.supremecourt.gov/oral_arguments/argument_transcripts/2016/15-1194_0861.pdf" target="_blank"><u>辩论</u></a>（PDF）变成了一场关于社交媒体<a href="http://cn.nytstyle.com/international/20170228/supreme-court-north-carolina-sex-offenders-social-media/" target="_blank"><u>如何彻底改变美国公民对话的讨论</u></a>。大法官埃琳娜 · 卡根 (Elena Kagan) 说，特朗普总统、每个州长和国会的每个议员都有 Twitter 帐户。
+“因此，这已成为政治沟通非常重要的渠道，” 她说。“一个人不能去那些网站，就不知道政府的这些成员在想什么，在说什么，在做什么。” 大法官安东尼 ·M· 肯尼迪 (Anthony M. Kennedy) 说，作为讨论和辩论的地方，社交媒体网站已经成为了公共广场，并且在某种程度上超越了公共广场。肯尼迪大法官认为，不少言论自由方面的信条都可以推翻北卡的法律。
+➜流行 WordPress 插件发现严重 SQL 注入漏洞
+https://www.solidot.org/story?sid=51526	17460
+一个安装量超过 100 万的流行 WordPress 插件发现了<a href="https://blog.sucuri.net/2017/02/sql-injection-vulnerability-nextgen-gallery-wordpress.html" target="_blank"><u>严重 SQL 注入漏洞</u></a>，允许攻击者从网站的数据库窃取密码和密钥等敏感数据。该插件叫  <pangu> </pangu><a href="https://wordpress.org/plugins/nextgen-gallery/">NextGEN Gallery</a>，开发者已经修复了该漏洞，释出了 v2.1.79 版，安装该插件的网站应该尽可能快的更新。网站如果允许用户递交帖子，并且激活了 NextGEN Basic TagCloud Gallery 选项，允许访问者通过标签导航图库，攻击者可以修改 URL 参数，插入 SQL 查询指令，加载恶意链接时插件将会执行指令。该漏洞是因为对 URL 参数不正确的输入处理导致的，这种问题在 WordPress 以及非 WordPress 网站中间非常普遍。<br>
+➜Google 的 Pixel 笔记本将不会有后续产品
+https://www.solidot.org/story?sid=51527	18490
+<div align="center"><img src="http://img.solidot.com.cn/0/171/liqAISaICXTyc.png" width="431" align="" height="287"><br>
+</div>
+<br>
+如果你购买了 Google 的一款硬件产品，有很大的可能性不会看到这款产品的后续产品，比如 Nexus 7 平板。现在，Pixel 笔记本电脑<a href="https://techcrunch.com/2017/02/28/google-calls-time-on-the-pixel-laptop/" target="_blank"><u>将会是下一个</u></a>。Pixel 是 Google 推出的高端 Chrome OS 笔记本电脑，显示屏分辨率 2560×1700，售价最高 1299 美元。和 Nexus 7 平板情况类似，Google 发布了两代，第二代是在 2015 年发布的。在巴塞罗那举行的世界移动通信大会上，Google 负责硬件的高级副总裁 Rick Osterloh 表示第二代 Chromebook Pixel 将是最后一代。但这并不意味着 Google 不会发布新的笔记本电脑。Pixel 品牌未来将只用于智能手机和平板（10 英寸）。
+➜亚马逊的语音助手将能根据声音识别用户
+https://www.solidot.org/story?sid=51528	27888
+《时代》援引知情人士的消息<a href="http://time.com/4683981/amazon-echo-voice-id-feature-2017/" target="_blank"><u>报道</u></a>，亚马逊正在改进其语音助手 Alexa 的语音识别软件，将能根据声音识别用户。报道称，这项功能在内部被称为 Voice ID，根据预先录下的声音的声纹识别谁在说话。这项技术应该和科大讯飞的<a href="http://www.solidot.org/story?sid=51519" target="_blank"><u>声纹识别技术</u></a>相似，每个人的声音都有其独特的特征，比如反映声门开合频率的基频特征，反映口腔大小形状及声道长度的频谱特征，这些特征可以提取出来用于类似指纹的身份识别，区分家中的父母和孩子，限制孩子通过语音助手发出购物指令。科大讯飞的声纹识别技术已经开始被警方等部门使用，但不清楚是否开始商用。如果 Alexa 推出这项功能，它可能是第一个商业化声纹识别技术的智能语音助手。
+➜AOL 宣布将切断第三方应用访问 AIM
+https://www.solidot.org/story?sid=51529	28970
+AOL 突然宣布将切断第三方应用访问 AIM。AOL 的 AIM 曾经是用户基数最大的聊天工具，如今当然已经风光不再，AOL 事实上已经停止开发 AIM。目前，除了现有的官方客户端，第三方聊天工具如 Adium、Trillian 或 Pidgin 可使用 AOL 的 OSCAR 协议处理 AIM 消息。但 Adium 客户端用户已经收到通知将在 3 月 28 日切断对 AIM 网络的访问。前 AOL 开发者猜测是 AOL 想要停止维护 OSCAR 协议，可<a href="https://arstechnica.com/business/2017/02/aol-will-cut-off-third-party-app-access-to-aim/" target="_blank"><u>能是因为维护成本太高了</u></a>。<br>
+➜赛百味鸡肉三明治的鸡肉只有一半来自鸡
+https://www.solidot.org/story?sid=51530	30043
+根据加拿大广播公司的<a href="http://www.cbc.ca/news/business/marketplace-chicken-fast-food-1.3993967" target="_blank"><u>调查</u></a>，赛百味鸡肉三明治中的鸡肉只有一半来自鸡，其余是大豆。调查使用 DNA 测试技术测试了从五家流行快餐店收集的鸡肉三明治样本，发现赛百味热烤鸡排和香葱照烧鸡排三明治中的鸡肉成分分别只有 53.6% 和 42.8%。其余四家快餐店如麦当劳和温蒂汉堡的鸡肉三明治的鸡肉成分都超过 85%。赛百味加拿大<a href="https://arstechnica.com/science/2017/02/whats-in-subways-chicken-hint-maybe-only-50-chicken/" target="_blank"><u>发表声明称</u></a>，它不能证实加拿大广播公司调查结果的精确性，但对大豆蛋白的比例提出质疑，称热烤鸡排和香葱照烧鸡排中的大豆成分不到 1%。
+➜Ghost Robotics 演示能适应不同地形的机器人 Minitaur
+https://www.solidot.org/story?sid=51531	33649
+<div align="center"><img src="http://img.solidot.org/0/180/lixtzQgYYpFgU.gif" width="450" align="" height="250"><br>
+</div>
+<br>
+Ghost Robotics <a href="http://spectrum.ieee.org/automaton/robotics/robotics-hardware/ghost-robotics-minitaur-demonstrates-impressive-new-skills" target="_blank"><u>演示了</u></a>它的四足机器人 Minitaur。Minitaur 能使用不同的步伐去适应不同的环境，它能两脚行走，也能四脚一起跳起。Ghost Robotics 公布的<a href="https://youtu.be/bnKOeMoibLg" target="_blank"><u>视频</u></a>（YouTube）显示，它的四足根据环境动态的改变步法，能爬坡，在遍布岩石的地面行走，在冰上行走，即使打滑也能维持平衡，跳起跌倒翻转后能迅速扭转过来。Ghost Robotics 的联合创始人 Gavin Kenneally 和 Avik De 称，他们的一个主要目标是扩展 Minitaur 的行为，使得机器人称穿过广泛的地形和真实世界的操作环境。他们认为四足式机器人比轮式机器人有着更优越的移动能力，而且能表现出更多样的行为，使机器人能更容易克服自然障碍。
+➜北京助力林郑月娥
+https://www.solidot.org/story?sid=51532	34711
+《华尔街日报》<a href="http://cn.wsj.com/gb/20170301/BCH160135.asp" target="_blank"><u>报道称</u></a>，香港特首选举委员会委员和候选人表示，拥有大陆背景的人士向其致电或施压，劝说他们支持林郑月娥或退出。政治分析师称，大陆过去曾干预香港选举，方法包括暗示对选举人的偏好，但这种干预最近加深，施压要求支持某个候选人的做法更为普遍并且在选举过程中开始得更早。香港中文大学教授林和立称，现在的情形比过去更离谱，香港选举越来越像一场典型的中国选举，即胜出者在投票前就已经确定。
+➜唯一的金属氢样本消失
+https://www.solidot.org/story?sid=51533	39219
+今年 1 月，哈佛大学的物理学家在《科学》期刊上<a href="http://www.solidot.org/story?sid=51203" target="_blank"><u>报告</u></a>将 80 年前的理论预言变成了现实，创造出世界首个金属化氢。然而唯一的金属氢样本<a href="http://www.csmonitor.com/Science/2017/0228/World-s-only-metallic-hydrogen-sample-disappears-if-it-indeed-existed-in-the-first-place" target="_blank"><u>却从实验室里神秘消失了</u></a>。哈佛研究团队的负责人 Isaac Silvera 称，简单说，它消失了。在常压下它要么在某个地方，非常小，要么变成了气体，“我们不知道。”Silvera 博士说，样本是在 2 月 11 日消失的，当时研究人员准备打包将其送到芝加哥的阿贡国家实验室做进一步测试。它非常小，直径只有 0.01 毫米，厚度只有 0.0015 毫米，储存在两个钻石之间的低温和高压下。研究人员说，当压力导致钻石破裂，金属氢消失了。
+➜如果给予选择慢性疼痛病人宁愿选择大麻
+https://www.solidot.org/story?sid=51534	41136
+根据一项新研究，慢性疼痛患者和服用精神类药物的人<a href="https://news.ok.ubc.ca/2017/02/27/given-the-choice-patients-will-reach-for-cannabis-over-prescribed-opioids/" target="_blank"><u>宁愿使用大麻</u></a>而不是给他们的处方阿片类药物。研究调查了 250 多名允许使用医用大麻的患者，63% 的人报告宁愿使用大麻而不是处方药，其中包括治疗疼痛的阿片类药物、镇静剂和抗抑郁药。倾向大麻的主要理由被认为是大麻副作用少，患者感觉服用大麻比处方药更安全。服用阿片类药物存在上瘾问题，研究人员认为也许可以用大麻解决阿片类药物带来的问题。
+➜电影产业促进法实施，加强意识形态保护
+https://www.solidot.org/story?sid=51535	45241
+《<a href="http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001625.htm" target="_blank"><u>中华人民共和国电影产业促进法</u></a>》于 3 月 1 日 起正式实施，新的法律对电影的拍摄和放映实施了更多限制，但就像官方制定的众多法律一样，不知道如何去严格执行。新的法律规定，“演员、导演等电影从业人员应当坚持德艺双馨，遵守法律法规，尊重社会公德，恪守职业道德，加强自律，树立良好社会形象。”如何判断德艺双馨，有什么客观的衡量标准？法律明确了备案制度，与境外组织合拍“不得与从事损害我国国家尊严、荣誉和利益，危害社会稳定，伤害民族感情等活动的境外组织合作，也不得聘用有上述行为的个人参加电影摄制”，以及“境外组织不得在境内独立从事电影摄制活动；境外个人不得在境内从事电影摄制活动”，电影内容不得含有“八大条”，“未取得电影公映许可证的电影，不得发行、放映，不得通过互联网、电信网、广播电视网等信息网络进行传播，不得制作为音像制品；但是，国家另有规定的，从其规定。”但 BT 下载和私人共享怎么处理？
+➜Brianna Wu 担心在月球殖民的公司会向地球扔石头
+https://www.solidot.org/story?sid=51536	46650
+在海因莱因的名著《<a href="https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress" target="_blank"><u>严厉的月亮</u></a>》中，起义的月球原住民为了从地球的统治中独立出来而在觉醒的超级电脑的帮助下向地球扔岩石，迫使地球服输。月球殖民在可预见的未来可能从科幻变成现实，但如果在月球殖民的人也向地球扔石头怎么办？游戏开发者、曾在 2014 年卷入 <a href="http://www.solidot.org/story?sid=41030" target="_blank"><u>GamerGate</u></a> 的
+Brianna Wu 正在竞选众议院席位，她在一篇已经删除的 Twitter 帖子中对月球殖民公司向地球扔石头<a href="https://yro.slashdot.org/story/17/03/01/0416232/congressional-candidate-brianna-wu-claims-moon-colonizing-companies-could-destroy-cities-by-dropping-rocks" target="_blank"><u>发出警告</u></a>，称月球对地球而言是最具有战略价值的军事基地，岩石的威力堪比 100 多枚核弹。在社交媒体用户质疑了她的科学素养后，她澄清说她描述的是掉落到地球重力井的岩石。石头如果以轨道速度撞击地球确实会产生核弹级别的破坏力，但从月球扔石头需要首先逃离其引力，这需要火箭提供大量的推力。
+➜美国家庭电视保有量出现下降
+https://www.solidot.org/story?sid=51537	47552
+根据美国能源情报署的调查数据，美国家庭的平均电视机保有量从 2009 年的平均 2.6 台<a href="https://arstechnica.com/gadgets/2017/02/americans-have-fewer-tvs-on-average-than-they-did-in-2009/" target="_blank"><u>减少到 2015 年的 2.3 台</u></a>。更详细的调查报告将在下个月发布。调查数据显示，在 2015 年，2.6% 的家庭没有电视，这一数据高于 2009、2005、2001 和 1997年进行的四次调查的结果，早些进行的这四次调查中，没有电视的家庭比例在 1.2 到 1.3% 之间。调查还显示，39% 的家庭有三台以上电视，而在 2009 年这一数据是44%，只有一台电视的家庭比例从 2009 年的54% 增加到了 58%。

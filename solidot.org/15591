@@ -1,0 +1,16 @@
+➜演化或能诠释安慰剂效应
+https://www.solidot.org/story?sid=31305	10800
+表面上看，安慰剂效应似乎没有意义：一位轻度感染的患者无论是服用有效的药物还是无效的糖丸，他的身体都能恢复健康。也就是说他的免疫系统能自我痊愈，但为什么需要安慰剂去加速恢复过程呢？一项模型研究认为，免疫系统的这一特征是演化而来，<a href="http://www.newscientist.com/article/mg21528812.300-evolution-could-explain-the-placebo-effect.html">是为了应付早期人类面临的严酷环境</a>。<i>
+安慰剂效应的一个简单解释是：免疫系统运行需要耗费大量能量，对感染的持续强烈免疫反应可能会耗尽能量储备，只要不是致命的感染，免疫系统需要有一个安全的信号才会启动去对抗感染，安慰剂能告诉免疫系统现在是启动免疫反应的理想时机。这一<a href="http://www.humphrey.org.uk/papers/2002GreatExpectations.pdf">理论</a>(PDF)最早由心理学家<a href="http://www.humphrey.org.uk/">Nicholas Humphrey</a>在十年前提出，直到现在首次被生物学家Peter Trimmer用模型证明。模拟展现了根据环境打开或关闭免疫系统的演化优势。这一解释并没有获得科学家的完全认可，他们指出有许多种不同的安慰剂反应，一种单一的机制不可能解释所有情况。</i>
+➜攻击Google的极光黑客仍然活跃
+https://www.solidot.org/story?sid=31306	15120
+曾对Google发动<a href="http://googleblog.blogspot.ie/2010/01/new-approach-to-china.html#!/2010/01/new-approach-to-china.html">极光行动攻击</a>的黑客组织仍然活跃。极光黑客自2009年以来利用特定的木马程序(Hydraq/Aurora)发动了许多备受瞩目的攻击，其中包括攻击<a href="__SLASHLINK__" sect="internet" sid="10/02/22/2356253" sn="article" tid="100">Google和中国Gmail用户</a>。安全公司赛门铁克的<a href="http://www.symantec.com/connect/blogs/elderwood-project-infographic">跟踪显示</a>，极光黑客利用了大量0day漏洞，攻击目标不仅仅包括机构组织，还包括制造业供应链。最主要攻击目标是国防承包商，次要攻击目标是人权或非政府组织，许多被攻击网站都与宗教、台湾、香港和中国大陆有关。攻击者有系统的重复利用恶意程序模块，赛门铁克称这个恶意程序平台为“<a href="http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-elderwood-project.pdf">Elderwood Platform</a>”(PDF)，其中Elderwood的名字来源于攻击者在源代码中使用的变量名。攻击者可利用平台快速的部署0day漏洞，通过钓鱼邮件和网站漏洞传播恶意程序。
+➜Kindle Fire以Bing为默认搜索引擎
+https://www.solidot.org/story?sid=31307	19200
+亚马逊昨天<a href="__SLASHLINK__" sect="books" sid="12/09/07/0120254" sn="article" tid="128">宣布了</a>多款Kindle Fire平板电脑，平板的正式上市日期是9月中旬和10月/11月。出席发布会的记者在试用时<a href="http://www.ubergizmo.com/2012/09/kindle-fire-hd-hands-on/">发现</a>，Kindle Fire浏览器Silk的默认搜索引擎是Bing。有可能是微软为争取更大的市场份额而向亚马逊支付了一大笔钱，就像Google支付10亿美元给Mozilla买断三年的默认搜索引擎。亚马逊发表<a href="http://www.amazon.com/gp/help/customer/display.html/?nodeId=200775270">声明</a>称，用户可以修改浏览器的默认搜索引擎。Silk之前默认的搜索引擎是Google。亚马逊和微软都<a href="http://arstechnica.com/gadgets/2012/09/kindle-fire-sets-microsofts-bing-as-default-search-engine/">拒绝透露合作细节</a>。
+➜哈佛博士给MIT的求爱信
+https://www.solidot.org/story?sid=31308	21600
+MIT<a href="http://tech.mit.edu/V132/N35/loveletter.html">刊登了</a>哈佛博士写来的一封求爱信，这位博士称，她身在哈佛但心在MIT。她说，虽然他获得了哈佛的硕士，即将获得哈佛的博士，但MIT对她人生的影响最大，无论是学术、社会还是个人。她称，MIT最好的地方是开放的环境，所有建筑物都对外开放，外校的人可以很容易找到一个教室与学生和朋友展开头脑风暴式的讨论。但在哈佛，即使你是学生，你也会经常吃闭门羹。她指出，MIT的教授会向任何学生敞开胸怀，诺贝尔奖得主Philip Sharp没有任何犹豫就同意坐下来和她交谈。
+➜新Apache补丁将忽略IE10的Do Not Track设置
+https://www.solidot.org/story?sid=31309	51120
+Apache HTTP Server项目联合创始人、Do Not Track(DNT)标准作者之一的Roy Fielding为Apache HTTP Server<a href="https://github.com/apache/httpd/commit/a381ff35fa4d50a5f7b9f64300dfd98859dee8d0">写了一个补丁</a>：如果访问Web Server的浏览器是IE10，它将<a href="http://apache.slashdot.org/story/12/09/08/0053235/apache-patch-to-override-ie-10s-do-not-track-setting">忽略其DNT设置</a>。微软的IE10默认启用DNT，认为这能更好的保护用户隐私。微软的做法既没有与其它浏览器开发商保持一致，也没有得到在线广告商的认可。DNT标准提出者Mozilla<a href="https://blog.mozilla.org/privacy/2012/05/31/do-not-track-its-the-users-voice-that-matters/">认为</a>，在用户设置前DNT应该既不处于激活状态也不处于非激活状态。数字广告联盟(Digital Advertising Alliance)采纳了这一立场，表示只认可默认不启用的DNT设置，换句话说它将忽略默认启用DNT的浏览器。Apache项目似乎也认为微软的做法伤害了它。Fieldin表示不能容忍对开放标准的故意滥用，认为DNT是以非默认选项的身份存在，因为只有在接收方认识到有真实的人进行设置后，DNT才能真正保护用户的隐私。Fieldin的补丁引发了争论。

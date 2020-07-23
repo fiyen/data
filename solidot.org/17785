@@ -1,0 +1,45 @@
+➜报道称网秦创始人被董事长绑架一年多
+https://www.solidot.org/story?sid=57892	11990
+凤凰网<a href="https://tech.ifeng.com/a/20180911/45158936_0.shtml" target="_blank"><u>报道称</u></a>，网秦创始人林宇被董事长史文勇绑架一年多。网秦或现在叫<a href="https://en.wikipedia.org/wiki/Link_Motion_Inc" target="_blank"><u>凌动智行</u></a>是一家在纽约交所的<a href="https://finance.yahoo.com/quote/LKM?p=LKM" target="_blank"><u>上市企业</u></a>，提供移动互联网服务，该公司的原网站 <a href="https://www.netqin.com/" target="_blank"><u>www.netqin.com</u></a> 已经有好几年没有更新了，很多网址已经是死链或被<a href="http://www.lkmotion.com/about/#tab1" target="_blank"><u>重定向到凌动智行</u></a>。这家公司的股票接近垃圾股。报道称，史文勇从 2016 年 11 月到 2017 年底绑架林宇长达 13 个多月。林宇称他是被北京警方解救的，但没有提供任何细节。他发布公告宣布了新的董事会和管理层人事调整与变动，自己接任网秦 CEO，并担任 Co-Chairman （联席董事长），任命原创始员工傅达、周远和张跃兵为新董事。史文勇据报道已经离境。
+➜游戏付费的三次革命
+https://www.solidot.org/story?sid=57893	12575
+炙手可热的大逃杀游戏《Fortnite（堡垒之夜）》过去几个月刷新了游戏行业收入记录。究竟是什么特别之处让这款游戏能脱颖而出？游戏设计师认为它代表了<a href="https://necromanov.wordpress.com/2018/09/11/fortnite_and_game_business_model/" target="_blank"><u>第三次付费革命</u></a>。第一次是道具收费商业模式，是中国游戏设计师和史玉柱发现的；第二次是日本游戏公司发现的抽卡开箱，今天的抽卡开箱类游戏几乎无处不在；第三次就是《堡垒之夜》的 Battle Pass，Battle Pass 玩家在今年 5 月贡献了 3 亿美元，可以想象它的受欢迎程度，这种模式在免费游戏中吸引了超过半数的玩家付费。《绝地求生》也学习《堡垒之夜》推出了自己的 Royale Pass，预计未来会有更多游戏采用类似模式。
+➜Zerodium 公开 Tor Browser 0day 漏洞
+https://www.solidot.org/story?sid=57894	15121
+购买和出售流行软件漏洞的 Zerodium 公司通过 Twitter <a href="https://twitter.com/Zerodium/status/1039127214602641409?s=19" target="_blank"><u>公开了</u></a> Tor Browser 的一个 0day 漏洞。该漏洞能绕过 Tor/NoScript 最高安全级别的保护，允许恶意代码在浏览器上运行。漏洞影响 Tor Browser 7.x，但不影响刚刚发布的 Tor Browser 8.0。NoScript 作者 Giorgio Maone 称该漏洞是 NoScript 屏蔽内置 JSON 查看器使用的变通方案导致的。他此前并不知道漏洞的存在，表示将会释出更新修复漏洞。Zerodium CEO Chaouki Bekrar <a href="https://www.zdnet.com/article/exploit-vendor-drops-tor-browser-zero-day-on-twitter/" target="_blank"><u>表示</u></a>，他们在几个月前获得了该漏洞，并与政府客户分享了漏洞情报，他们决定披露该漏洞是因为最新发布的  Tor Browser 8.0 不受影响，它的生命期已经结束。漏洞本身不会暴露数据，需要与其它漏洞利用方法组合使用。
+➜趋势科技声称它的数据收集是一次性的，是出于安全目的
+https://www.solidot.org/story?sid=57895	17583
+安全公司趋势科技旗下的软件 Dr Cleaner、Dr Cleaner Pro、Dr. Antivirus、Dr. Unarchiver、Dr. Battery 和 Duplicate Finder 被发现会收集用户的浏览历史并上传到其服务器上，苹果已经从其应用商店下架了相关应用。该公司发表<a href="https://blog.trendmicro.com/answers-to-your-questions-on-our-mac-apps-store/" target="_blank"><u>声明</u></a>称它的数据收集是一次性的，只限于安装前的 24 小时。它称数据收集是出于安全目的，分析用户是否最近遭遇过广告软件或其它威胁，以改进其产品和服务。它声称最终用户许可协议内包含了这些数据收集条款。当然我们都知道作为用户我们是不会去看 EULA。可能是面临的压力太大，趋势随后又宣布移除所有数据收集功能，删除所有保存的用户浏览历史记录。
+➜流行 VPN 包含允许执行任意代码的安全漏洞
+https://www.solidot.org/story?sid=57896	19537
+Cisco Talos 安全研究员<a href="https://www.zdnet.com/article/popular-vpns-contain-code-execution-security-flaws-despite-patches/" target="_blank"><u>报告</u></a>，流行 VPN 软件 ProtonVPN 和 NordVPN 存在能导致任意代码执行的漏洞，即使它们已经打过补丁，问题仍然存在。新发现的漏洞编号 CVE-2018-3952 和 CVE-2018-4010，与今年早些时候披露的一个提权漏洞 CVE-2018-10169 相似。 ProtonVPN 和 NordVPN 今年 4 月释出了补丁修复 CVE-2018-10169 漏洞，但 Talos 的安全研究员指出，以系统管理员权限执行任意代码仍然是可能的。
+➜网易财经宣布整改
+https://www.solidot.org/story?sid=57897	25972
+网易财经频道发布<a href="http://money.163.com/18/0911/11/DRE0KF01002581PP.html" target="_blank"><u>整改公告</u></a>，宣布从 12 时起停止财经频道更新。它没有详细解释原因。公告称，“一段时间以来，网易在财经频道运营过程中，出现了一些严重问题，网易进行了深刻的检讨和反思，决定自 9 月 11 日 12 时起停止财经频道更新，进行深入全面的整改，大力整顿违规行为。网易将牢记社会责任，向用户及社会各界传达我们真诚的整改态度。同时，一如既往地欢迎用户及社会各界对我们进行监督和帮助，我们将以维护网络信息传播秩序为己任，与行业内各平台一起推动行业健康发展，积极营造风清气正的网络空间。”无独有偶，端传媒昨天发表了一篇<a href="https://theinitium.com/article/20180910-mainland-censorship-journalist-in-china/" target="_blank"><u>媒体从业人员的口述史</u></a>，描述了这个全面审查的时代从业者面临的状况。
+➜中国公布互联网宗教信息服务管理办法（征求意见稿）
+https://www.solidot.org/story?sid=57898	27672
+国家宗教事务局<a href="http://www.chinalaw.gov.cn/art/2018/9/10/art_33_209153.html" target="_blank"><u>公布</u></a>了《<a href="http://zqyj.chinalaw.gov.cn/draftDetail?listType=2&amp;DraftID=2602&amp;PageIndex=1" target="_blank"><u>互联网宗教信息服务管理办法（征求意见稿）</u></a>》（需注册可匿名），意见反馈截止时间为 2018 年 10 月 9 日。《管理办法》对互联网上宗教信息的传播实施了严格的限制。如果没有获得互联网宗教信息服务许可证，在互联网（包括 APP/IM ）上传播宗教信息将是不允许的，难以想象这一政策如何实施，因为网民通过即时通讯工具（IM）讨论宗教信息是完全可能的，如果有人在微信上讨论宗教，那么腾讯要么限制讨论要么就需要申请互联网宗教信息服务许可证。《管理办法》禁止境外组织或者个人及其在境内成立的组织在境内从事互联网宗教信息服务。第十六条规定，讲经讲道实行实名制管理，其他任何组织或者个人不得在互联网上讲经讲道或者转发、链接相关内容。第十八条规定，任何组织或者个人不得在互联网上以文字、图片、音视频等方式直播或者录播拜佛、烧香、受戒、诵经、礼拜、弥撒、受洗等宗教活动。第二十条规定相关平台必须实名制。 第二十三条要求建立建立互联网宗教信息服务违规档案、失信名单和约谈制度，要求将违法违规线索移交网信部门、电信主管部门、公安部门、国家安全机关。
+➜印度生物识别数据库 Aadhaar 的软件被破解
+https://www.solidot.org/story?sid=57899	29636
+印度饱受争议的生物识别数据库 Aadhaar <a href="https://www.huffingtonpost.in/2018/09/11/uidai-s-aadhaar-software-hacked-id-database-compromised-experts-confirm_a_23522472/" target="_blank"><u>被破解</u></a>。该数据库收集了每一位印度公民的照片、指纹、视网膜扫描和其它身份细节，印度政府提供的许多服务和福利都需要 Aadhaar 号码。这不是第一次传出 Aadhaar 被破解的消息，而管理 Aadhaar 系统的 The Unique Identification Authority of India (UIDAI)此前一直声称<a href="https://www.solidot.org/story?sid=55119" target="_blank"><u>它的系统是安全的</u></a>。但这一次媒体有证据证实 Aadhaar 已经被破解。通过 Whatsapp 传播的一个补丁能绕过 Aadhaar 的身份验证系统，允许未经使用的个人生成 Aadhaar 号码。补丁会关闭系统内置的 GPS 功能，允许世界任何地方的人能使用该软件。
+➜加州小镇禁止在居民区部署 5G
+https://www.solidot.org/story?sid=57900	31397
+加州湾区可能是全球科技产业的中心，但当地一个富裕的小镇<a href="https://techcrunch.cn/2018/09/11/bay-area-city-blocks-5g-deployments-over-cancer-concerns/" target="_blank"><u>却不愿拥抱未来</u></a>。位于旧金山北部的小镇 Mill Valley 议会上周末一致投票决定 ，阻止在当地居民区部署 5G 小型基站，但允许商业区部署。美国社会正密切关注 5G 移动通信天线对人体健康的影响，而这项法令正是来自与此。该市收到了 145 封市民反对 5G 技术的信件，而表示支持的信件只有 5 封，比例为 29：1。虽然这听起来不算多，但这座城市的人口大约有 1.4 万人，这表明大约 1% 的人口已对此事发表了意见。
+➜李飞飞将从 Google 离职
+https://www.solidot.org/story?sid=57901	33773
+Google 云服务 CEO Diane Greene <a href="http://www.bjnews.com.cn/finance/2018/09/11/504333.html" target="_blank"><u>宣布</u></a>卡耐基梅隆大学计算机科学院院长 Andrew Moore 将接替李飞飞负责领导云人工智能业务，而李飞飞将按照原计划回归斯坦福大学担任教授，她将改任 Google 云人工智能和机器学习顾问。李飞飞表示，其所在工作中学到的知识将进一步加强学术界和工业界的合作。李飞飞是在 2016 年 11 月加盟 Google 担任人工智能首席科学家。2017 年 12 月，李飞飞在中国举行的开发者大会上宣布成立 AI 中国中心，这成为近年来 Google 在中国最重要的战略布局。她曾卷入早些时候引发争议的 Project Maven 军用 AI 项目，但<a href="https://thenextweb.com/artificial-intelligence/2018/09/10/ai-guru-fei-fei-li-set-to-leave-google-this-year/" target="_blank"><u>没有迹象</u></a>显示她的离开与此有关。
+➜SETI 的神经网络识别出数十个神秘射电暴信号
+https://www.solidot.org/story?sid=57902	41046
+SETI 向世界潮流看齐，部署了神经网络帮助管理其庞大的数据集。这一尝试几乎立即结出了果实：加州伯克利 SETI 研究中心的博士生 Gerry Zhang 和同事使用一个定制机器学习模型处理此前已经分析过的数据，<a href="https://breakthroughinitiatives.org/news/22" target="_blank"><u>发现了 72 个新的快速射电暴信号</u></a>。<a href="https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E9%9B%BB%E6%B3%A2%E7%88%86%E7%99%BC" target="_blank"><u>快速射电暴</u></a>是一种高能天体物理现象，呈现瞬态电波脉冲，仅维持数毫秒的爆发。快速射电暴的来源和性质仍然充满神秘，一种可能的解释是它来自先进文明。研究人员分析的快速射电暴 FRB 121102 来自于一个距离地球 30 亿光年的遥远星系，此前的算法从该星系发现了 21 个快速射电暴。而 FRB 121102 是至今观察到的唯一一个能重复发射出快速射电暴的天体。这些信号没有发现任何可识别的模式。
+➜韩国政府如何制造幸福
+https://www.solidot.org/story?sid=57903	42774
+众所周知，韩国人在这个星球上平均工作时间最长。根据经济合作与发展组织的数据，超过 20% 的员工每周工作多于 50 小时，员工平均下来仅休了一半的假期。由此产生的压力使得韩国的自杀率高得令人咂舌，同时也是导致该国出生率达历史新低的一个因素，因为职业女性在工作的同时还需承担大部分的养育责任。对于这些问题，政府的解决办法是：<a href="https://www.bbc.com/ukchina/simp/vert-cap-45480646" target="_blank"><u>让每个人都更快乐</u></a>。为了实现这一目标，政府决心让韩国人走出办公室，获得更健康的心理状态。到目前为止，最大的改革之一是将每周工作时间的上限从 68 小时调减到 52 小时。这不仅仅是一个建议，不遵守法律的雇主可能面临最长两年的监禁。政府还强制要求企业大幅提高最低工资，并采取一系列支持措施——育婴假、儿童保育补贴、降低精神保健费用、增加养老金，以及延长上届政府的 "国民幸福基金"，这一基金旨在帮助公民减轻个人债务负担。
+➜精算是最有价值的大学专业
+https://www.solidot.org/story?sid=57904	44472
+根据 Bankrate 的一份<a href="https://www.bankrate.com/career/most-valuable-college-majors/" target="_blank"><u>报告</u></a>，精算是<a href="https://www.bloomberg.com/news/articles/2018-09-10/the-new-american-dream-job-is-pretty-dull" target="_blank"><u>最有价值的大学专业</u></a>。<a href="https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%AE%97%E5%AD%B8" target="_blank"><u>精算</u></a>是财务和保险行业评估长期风险的一门应用科学，从事精算的专业人员称为精算师。 22 岁的 Jessica Ackley 刚毕业就拿到了一份 6 万年薪的工作，伊利诺斯州州立大学精算专业负责人 Krzysztof Ostaszewski 称这在精算专业非常普遍，毕业生拿到的薪水和医生律师差不多，但无需与血打交道或在监狱里去见客户。精算师的平均薪水 $108,658，失业率 2.3%，只有 22% 的人有硕士或博士学位，意味着毕业生无需读更多书就能找到工作。最没有价值的专业是 Miscellaneous Fine Arts（杂项艺术），平均薪水 $40,855，失业率 9.1%，学这个专业的人通常会成为艺术教师、音乐合同工、工艺美术史和插画家。
+➜NASA 考虑出售火箭和飞船的冠名权
+https://www.solidot.org/story?sid=57905	45923
+NASA 新上任的局长 Jim Bridenstine <a href="https://www.al.com/news/index.ssf/2018/09/nasa_may_sell_corporate_naming.html" target="_blank"><u>正在考虑</u></a>出售火箭和宇宙飞船的冠名权，以及允许宇航员出现在广告和包装盒上等方法来增加收入和提升品牌。NASA 官员强调他们还没有做出任何决定，但对于这家纳税人资助的机构而言该想法是一次巨大的文化飞跃，可能需要道德约束阻止政府官员利用公职谋取私利。Bridenstine 表示，NASA 可能通过出售飞行器或火箭的冠名权来抵消部分开支。他表示自己不知道是否可以这么做，希望有人能提供建议。他还希望宇航员能像知名运动员那样更多的接触记者和获得营销机会，提升自己的品牌和 NASA 的品牌。他希望看到儿童们想要成为宇航员或科学家而不是体育明星。
+➜DARPA 研发士兵用的人机接口
+https://www.solidot.org/story?sid=57906	47648
+美国国防部高级研究计划署（DARPA）的 <a href="https://www.darpa.mil/program/next-generation-nonsurgical-neurotechnology">Next-Generation Nonsurgical Neurotechnology（N3）</a> 项目将资助研究<a href="https://spectrum.ieee.org/the-human-os/biomedical/bionics/darpa-wants-brain-interfaces-for-able-bodied-warfighters" target="_blank"><u>非侵入式的人机接口</u></a>，无需接线或植入就能在用户大脑和外部机器之间传输高保真信号。DARPA 神经科技项目经理 Al Emondi 表示他们将在明年初公布入选者名单。DARPA 希望非侵入式人机接口能赋予士兵“超能力”，而现有的人机接口绝大部分需要动手术。Emondi 指出士兵需要新方法连接机器。除了军用外，非侵入式人机接口也可能应用于其他领域，产生新的消费者产品，催生新的行业。N3 项目要求在 1 立方厘米的脑组织上读取和写入信息，而且这一切需要在 10 毫秒内完成。<br>

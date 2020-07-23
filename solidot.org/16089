@@ -1,0 +1,15 @@
+➜全世界95%的ATM仍然运行Windows XP
+https://www.solidot.org/story?sid=38078	8977
+全世界超过95%的ATM<a target="_blank" href="http://www.businessweek.com/articles/2014-01-16/atms-face-deadline-to-upgrade-from-windows-xp#p1"><u>仍旧运行Windows XP</u></a>。微软将于2014年4月8日终止支持XP，除了一部分运行Windows&nbsp;XP Embedded的ATM（终止支持时间是2016年1月）外，大部分ATM机器必须尽快升级到新的操作系统。但ATM操作系统升级的进度要比PC慢得多。ATM软件供应商KAI的CEO Aravinda Korala估计，到截止日期前，美国银行的ATM只有15%能升级到Windows 7。微软向没有及时完成升级的企业出售定制的技术支持延长服务，服务的收费标准会随时间而大幅增长，第二年的收费是第一年的5倍。JP摩根已经购买了一年的延长支持服务，将从7月开始将其ATM系统升级到Windows 7。升级费用从几百美元（如果硬件还能用）到几千美元（如果需要购买新硬件）。
+➜广告软件购买Chrome扩展植入广告
+https://www.solidot.org/story?sid=38079	14901
+Chrome浏览器最令人称赞的一项功能是后台自动更新，更新进程还囊括了扩展开发者推送的更新，这意味着不管信任不信任扩展开发者，扩展开发者都有权限向你推送新代码。更糟糕的是，扩展的所有权还可以转让给第三方，而用户不会被告知所有权的转让，直到他们使用的扩展出现问题为止。广告软件和恶意软件作者可利用该漏洞向用户推送广告和垃圾信息。这就是<a target="_blank" href="http://arstechnica.com/security/2014/01/malware-vendors-buy-chrome-extensions-to-send-adware-filled-updates/"><u>最近一个Chrome扩展身上发生的事情</u></a>。<a target="_blank" href="https://chrome.google.com/webstore/detail/add-to-feedly/ejkjjleifeeaccajkekdcckflfpenoen?hl=en"><u>Add to Feedly</u></a>扩展作者Amit Agarwal收到了一封电子邮件，对方提出4位数的报价购买他的扩展，这个扩展只花了Agarwal一个小时时间开发，他觉得很划算，因此接受了交易，将扩展所有权转让给另一个Google帐号。一个月后，扩展发布了一个更新，植入了广告软件重定向链接，广告软件通过自动更新推送给了3万Add to Feedly用户。
+➜发送垃圾信息的智能冰箱
+https://www.solidot.org/story?sid=38080	30450
+一台电冰箱被发现向外发送垃圾信息。安全公司Proofpoint<a target="_blank" href="http://www.proofpoint.com/about-us/press-releases/01162014.php"><u>曝光了</u></a>一个物联网僵尸网络——由超过10万个智能电视、家用路由器和其他联网设备包括一台智能冰箱构成。这个僵尸网络在二周时间内发送了75万封钓鱼邮件。攻击者利用了默认管理密码和其它错误的配置，以及旧版本Linux上的高危软件漏洞，从而创建了一个由PC和智能家电构成的僵尸网络。研究人员扫描了发送钓鱼邮件的IP地址，结果收到了来自智能家电网络接口的回应。Ars对此<a target="_blank" href="http://arstechnica.com/security/2014/01/is-your-refrigerator-really-part-of-a-massive-spam-sending-botnet/"><u>提出了质疑</u></a>，指出一个家庭网络包含了大量联网设备，如何判断钓鱼邮件是直接来自受感染的智能电冰箱，还是一台感染了恶意程序的Windows XP电脑？
+➜Bluestacks 违反GPL协议
+https://www.solidot.org/story?sid=38081	40940
+<a href="mailto:bluestacks_gpl@126.com">匿名读者</a> 写道 <i>"<a target="_blank" href="http://www.bluestacks.com/download.html"><u>Bluestacks(</u></a>Windows下的Android运行时环境)内核是把一个android-x86跑在了Windows上，这部分是用colinux源代码修改的。为了在android-x86上运行arm native app，它移植了一份<a target="_blank" href="http://zh.wikipedia.org/wiki/QEMU"><u>qemu user mode</u></a>到android上。这两个项目都是gpl协议的，但是Bluestacks没有公布他们修改过的代码。"</i>
+➜OpenBSD请求资助
+https://www.solidot.org/story?sid=38082	42903
+OpenBSD项目创始人Theo de Raadt在邮件列表上发出<a target="_blank" href="http://marc.info/?l=openbsd-misc&amp;m=138972987203440&amp;w=2"><u>紧急呼吁</u></a>，请求<a target="_blank" href="http://www.openbsdfoundation.org/donations.html"><u>资助</u></a>（支持Paypal、银行转账和比特币）OpenBSD基金会，称他们连服务器的电费都付不起了。OpenBSD位于加拿大的开发构建服务器一年需要2万美元电费。OpenBSD基金会的 Bob Beck说，如果没有钱支付电费的话，OpenBSD只能关闭。OpenBSD旗下的项目还包括了流行的开源软件OpenSSH 和OpenSMTPD。

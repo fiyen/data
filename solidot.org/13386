@@ -1,0 +1,8 @@
+➜Solidot 新界面 CSS 在 IE 下的问题
+https://www.solidot.org/story?sid=668	64860
+<i>昨晚参照 Slashdot 的新模版对 Solidot 界面作了一些修改，现在评论页面在 IE6 下有问题，好像是评论部分的 CSS 和全局的 CSS 某个地方冲突，大家谁在 CSS 方面熟悉帮忙改一下？这个不需要登录到 Solidot 的服务器，也不需要安装 Slashcode, 打开评论页面的源码可以看到3个主要的CSS 文件，把页面保存到你的本机即可修改。
+<br>
+Thanks.
+</i>
+<b>更新：</b> <br>
+<i>已经修改了，基本上搞定了，但评论标题部分左边在 IE6 还有几个像素的错位。</i>

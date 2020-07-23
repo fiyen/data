@@ -1,0 +1,39 @@
+➜TikTok 等应用被指监视剪贴板内容
+https://www.solidot.org/story?sid=64779	17014
+今年 3 月，研究员 Talal Haj Bakry 和 Tommy Mysk <a href="https://www.mysk.blog/2020/03/10/popular-iphone-and-ipad-apps-snooping-on-the-pasteboard/"><u>发现</u></a>，数十个 iOS 应用存在获取用户隐私数据的严重问题，其中之一就是大受欢迎的短视频应用 TikTok。虽然遭到曝光，但至今这些应用都没有改变其做法。苹果刚释出了 iOS 14 Beta 版本，其中一项功能是每次有应用读取剪贴板内容它会警告用户，TikTok 等应用监视剪贴板的做法<a href="https://arstechnica.com/gadgets/2020/06/tiktok-and-53-other-ios-apps-still-snoop-your-sensitive-clipboard-data/"><u>被发现</u></a>并引发了<a href="https://www.youtube.com/watch?v=pRSWdtoUAjo"><u>广泛关注（YouTube 视频）</u></a>。通过持续监视剪贴板，应用可以获得非常敏感的用户信息如密码、数字钱包地址、账号重置链接，以及私密信息。苹果系统的剪贴板内容会在关联设备之间共享，这项功能被称为通用剪贴板，允许一台设备复制的内容可以在另一台设备上使用。剪贴板很有可能会分享非常敏感的数据，如密码、比特币地址等。
+➜加州旧金山承认向勒索软件支付了超过百万美元赎金
+https://www.solidot.org/story?sid=64780	18643
+6 月 4 日，勒索软件 NetWalker 背后的攻击者在其暗网网站上将加州旧金山大学加入到了未支付赎金的受害者名单行列。6 月 19 日，加州旧金山从名单中移除了。6 月 26 日，加州旧金山发表<a href="https://www.ucsf.edu/news/2020/06/417911/update-it-security-incident-ucsf" target="_blank"><u>声明</u></a>，承认向 NetWalker 支付了 114 万美元赎金，表示被勒索软件加密的数据对学术工作非常重要，他们只能做出困难的决定支付赎金。声明没有提及备份，但看起来大学即使有备份也不足以恢复被加密的数据。
+➜数据公司利用手机数据对抗议者进行人口统计分析
+https://www.solidot.org/story?sid=64781	18643
+警察杀死 George Floyd 和 Breonna Taylor 的恶性事件引发了全美的抗议。但抗议者不知道的是，他们的手机数据可以让数据公司预测其年龄、种族、性别和居住地。Mobilewall 发表报告《<a href="https://f.hubspotusercontent40.net/hubfs/4309344/MW%20Protester%20Demographic%20Analysis.pdf"><u>George Floyd Protester Demographics: Insights Across 4 Major US Citie</u></a>s》，给出了抗议者中男女、年轻成年人(18–34)，中年人（35 - 54 ）和老年人(55+)、非洲裔、白人、亚裔和拉美裔的百分比。Mobilewalla CEO Anindya Datta 在接受采访时<a href="https://www.buzzfeednews.com/article/carolinehaskins1/protests-tech-company-spying"><u>表示</u></a>，报告不是为执法部门或公共机构准备的，而只是为了满足其员工的好奇心。该公司本身并不收集数据，而是从不同来源如广告商、数据中介、ISP 等购买数据，然后利用 AI 算法关联分析聚合数据。
+➜Comcast 和 Mozilla 在 DoH 上合作
+https://www.solidot.org/story?sid=64782	25227
+美国电信公司 Comcast 宣布与 Mozilla <a href="https://arstechnica.com/tech-policy/2020/06/comcast-mozilla-strike-privacy-deal-to-encrypt-dns-lookups-in-firefox/" target="_blank"><u>合作部署加密 DNS 查询服务</u></a>。Comcast 的 DNS over HTTPS (DoH) 将对使用 Comcast 宽带的 Firefox 用户默认启用，但这些用户仍然可以选择其它 DoH 服务如  Cloudflare 和 NextDNS。Comcast 是美国第一家加入 Mozilla 的 Trusted Recursive Resolver (TRR)项目的 ISP。Firefox CTO Eric Rescorla 表示将 ISP 引入 TRR 项目将可以在不打乱现有用户体验的情况下保护用户在线隐私。Comcast 则承诺它不会保留、出售和转让任何用户个人信息。Comcast 和 Mozilla 尚未宣布何时推出 Comcast 的 DoH。
+➜大量广告商暂停社交媒体广告
+https://www.solidot.org/story?sid=64783	26427
+联合利华、Verizon 和可口可乐公司等过去几天纷纷<a href="https://www.theverge.com/2020/6/26/21305065/coca-cola-pause-ads-facebook-social-platforms-july-boycott"><u>宣布</u></a>暂停社交媒体广告支出，<a href="http://www.ftchinese.com/story/001088296" target="_blank"><u>主要理由</u></a>是担心美国总统大选前制造分裂的内容和仇恨言论在这些平台上泛滥。联合利华分管全球媒体的执行副总裁 Luis Di Como 在一份声明中表示：“在今年美国两极分化的总统选举期间，社交媒体平台需要在分裂和仇恨言论领域”更有所作为，并补充道，该公司将撤走在 Facebook 及其照片应用 Instagram 以及 Twitter 上投放的品牌广告。在联合利华发表声明后的几小时内，Facebook 首席执行官 Mark Zuckerberg 在该平台上宣布了禁止在广告中发表仇恨言论的一系列措施，并计划为违反其政策、但因被该平台认为“符合公众利益”而保持发布的帖子（例如政治人士的某些演讲）加注标签。
+➜DNS 作者谈其起源和现状
+https://www.solidot.org/story?sid=64784	27454
+在互联网的早期，主机和 IP 地址信息储存在斯坦福研究院维护的一个文本文件 HOSTS.TXT 中，当一台新计算机加入到网络或一台旧电脑修改了它的资料，人们需要联系斯坦福研究院，让他们手动更新文件。想知道一台计算机 IP 地址的人也需要联系斯坦福研究院。而它每个工作日下午五点就会关闭，假日也不会开放。DNS 就是作为一种方法通过利用分布式数据库来解决这个问题。当时在南加州大学工作的 Paul Mockapetris 博士<a href="https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris"><u>发明和设计了 DNS 系统</u></a>。他说，虽然 DNS 系统设计的非常灵活，但顶级域名本身是政治皮球的一种博弈。DNS 设计的不安全是有意为之，当时的问题是需要人们接受分布式系统这个概念。对于俄罗斯试图建造主权局域网，重建 DNS 基础设施，Mockapetris 博士称技术本身并不难，俄罗斯可以使用开源 DNS 来实现他们的意图。而从商业角度看，对外连接仍然是重要的，即使是“防火墙”也并没有切断连接，而只是寻求控制。
+➜AWS 发布零编程应用构建服务 Honeycode
+https://www.solidot.org/story?sid=64785	40732
+Amazon Web Services <a href="https://www.theregister.com/2020/06/25/amazon_honeycode_nocode/"><u>发布了</u></a>基于浏览器的零编程应用构建服务 <a href="https://builder.honeycode.aws/" target="_blank"><u>Amazon Honeycode</u></a>，让无编程经验的人能构建移动和 Web 应用。AWS <a href="https://honeycodecommunity.aws/t/honeycode-browser-mobile-support/1171"><u>推荐</u></a>用户使用 Chrome 浏览器构建应用，称使用其它浏览器可能会遇到问题，但 Web 应用可以正常运行在各种主流浏览器上。客户可使用 AWS 的数据库去构建各种应用，从简单的任务跟踪应用到较为复杂的管理多个工作流的项目管理应用。零编程工具最近一段时间比较流行，它被认为可以让没有多少经验的人快速构建所需应用，在疫情流行社会实现隔离政策期间可能更为有用。Honeycode 可免费使用，有付费选项。
+➜基因编辑可能会造成染色体混乱
+https://www.solidot.org/story?sid=64786	44343
+CRISPR 基因编辑技术问世以来，外界对其在目前束手无策的疑难杂症治疗方面寄予厚望。但截至目前，其安全性仍是最大的障碍，尤其是在编辑人类胚胎时。最近有三份研究（<a href="https://www.biorxiv.org/content/10.1101/2020.06.05.135913v1"><u>一</u></a>，<a href="https://www.biorxiv.org/content/10.1101/2020.06.17.149237v1"><u>二</u></a> 和 <a href="https://www.biorxiv.org/content/10.1101/2020.06.19.162214v1"><u>三</u></a>）均聚焦于人类胚胎的基因编辑。过去的研究表明，基因编辑可能导致远离目标区域的突变，即“脱靶”效应，但最近这些研究确定了邻近位点的大规模变化，这些变化可能被传统的安全筛查所忽视。他们的结果均显示：在目标序列周围区域出现了大规模的、<a href="https://www.thepaper.cn/newsDetail_forward_8026116" target="_blank">非预期的 DNA 缺失和重排</a>。研究发表于预印本网站 bioRxiv上，尚未经过同行评审。
+➜新冠感染人数突破 1000 万
+https://www.solidot.org/story?sid=64787	45386
+根据约翰·霍普金斯大学的<a href="https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"><u>统计数据</u></a>，全球新冠确诊病例突破了 1000 万例，死亡 49.9 万例。其中美国确诊病例 251 万，巴西 131 万，俄罗斯 63.3 万，印度 52.8 万，英国 31.1 万，秘鲁 27.5 万，智利 26.7 万。除美国外，南美国家正成为新冠的新爆发地。美国死亡病例 12.5 万，巴西 5.7 万，英国 4.3 万。
+➜Firefox 79 将允许用户测试未发布的实验功能
+https://www.solidot.org/story?sid=64788	46339
+Edge 和 Chrome 都允许用户尝试未发布的实验功能，现在 Firefox 79 也将开始引入类似的“实验功能”选项。此前 Firefox 主要通过 Nightly 版本测试实验功能，一大限制是测试人数较少，只有一小部分好奇的用户会去参加测试。从 Firefox 79 开始，Mozilla 将在稳定版本中<a href="https://news.thewindowsclub.com/mozilla-firefox-79-launches-new-firefox-experiments-101041/" target="_blank"><u>引入实验功能</u></a>，扩大测试人数。Firefox 79 目前还处于 Nightly 版中，用户可在地址栏输入 about:preferences，将 browser.preferences.experimental 的值设为 True，之后可以在偏好设置下找到 Firefox Experiment。
+➜波罗的海检测到放射性同位素增加
+https://www.solidot.org/story?sid=64789	48432
+斯德哥尔摩的辐射传感器<a href="https://www.reuters.com/article/us-nuclear-particles-baltic/sensors-detect-rise-in-nuclear-particles-on-baltic-sea-global-body-says-idUSKBN23X2TN" target="_blank"><u>检测到高于正常水平但仍然无害</u></a>、可能来自波罗的海或附近地区核裂变所产生的同位素。全面禁止核试验条约组织（CTBTO）的一个传感器本周早些时候探测到三种异常高水平的放射性核素：铯-134，铯-137和钌-103。CTBTO 负责人 Lassina Zerbo 在 Twitter 上表示发现这些放射性颗粒的时间是在 6 月 22/23 日。这些放射性颗粒是核裂变的产物，很可能来自民用来源，也就是核电站反应堆产生热量的原子链式反应。CTBTO 能指出其可能的来源地，但要确认则超出了其授权。
+➜Google 浪费了十年的优势
+https://www.solidot.org/story?sid=64790	50432
+Google 在 2009 年宣布了运行 Web 应用程序的操作系统 Chrome OS ，它曾让许多人一度为之惊艳，认为再经过十年的发展 Chrome OS 将会成为最受欢迎的桌面操作系统，而且它还是免费的。十年前，用户就可通过 Gmail 收发邮件，在 Docs 写文档，用 Sheets 制作表格，这些应用已经足够好了，再发展下去是可能赶上原生应用如 MS Office 的。然而，不知为何，Google <a href="https://secondbreakfast.co/google-blew-a-ten-year-lead"><u>停止了云端软件的创新</u></a>。Docs 和 Sheets 十年来基本没变化，Google Drive 仍然很难用。甚至它的搜索体验也不如以前了。Google <a href="https://tech.slashdot.org/story/20/06/26/1852250/google-blew-a-ten-year-lead" target="_blank"><u>就像当年依靠 IE 6 统治浏览器市场的微软</u></a>，在打败了竞争对手 Netscape 就停滞不前，甚至都懒得更新了。
+➜鸡是如何变成鸡的？
+https://www.solidot.org/story?sid=64791	52282
+它是最常见的家禽，人类最主要的动物蛋白来源。它有 240 亿只，比所有其它鸟类高出一个数量级。但两个世纪以来，生物学家一直在尝试回答<a href="https://www.sciencemag.org/news/2020/06/chicken-first-crossed-road-southeast-asia-landmark-gene-study-finds"><u>鸡是如何变成鸡的</u></a>。现在，对鸟类完整基因组的研究得出结论：大约在公元前 7500 年后东南亚北部或中国南部的人类驯养了一只野鸡。随后移民和商人将鸡带到了整个亚洲，以及南极洲之外的所有大陆。中科院昆明动物研究所的研究人员获得了全部 5 个红原鸡亚种的基因组数据，以及分布于东南亚、南亚、中东、东亚、欧洲等地区家鸡的全基因组数据，通过大量的群体遗传学分析，<a href="http://www.kiz.ac.cn/xwzx/kydt/202006/t20200625_5611968.html" target="_blank">发现</a>家鸡并不是以前认为的多地独立起源，印度、中国北方等并非家鸡的起源地。家鸡是由 Gallus gallus spadiceus 亚种驯化而来。目前 Gallus gallus spadiceus 亚种主要分布在中国西南、泰国北部、缅甸等地区，说明该地区很可能是家鸡的驯化中心。研究人员进一步分析了家鸡基因组中所受人工选择作用，发现大量生殖相关基因在家鸡驯化中受到人工选择作用，进一步支持人类驯化促进家养动物生殖行为的改变。

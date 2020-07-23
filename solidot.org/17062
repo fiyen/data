@@ -1,0 +1,48 @@
+➜惠普更新打印机固件拒绝非原装墨盒
+https://www.solidot.org/story?sid=49708	8948
+数以千计的惠普打印机客户在官方网站<a target="_blank" href="http://h30434.www3.hp.com/t5/forums/searchpage/tab/message?filter=location&amp;q=cartridge+problem+damaged&amp;location=forum-board%3APostPrint&amp;sort_by=-topicPostDate&amp;s=ec&amp;s2=my"><u>反映</u></a>，在9月13日惠普推送打印机固件更新后使用非原装墨盒的打印机开始报错拒绝打印，而之前这些打印机都用得好好的。报错信息称，一个或多个墨盒可能损害了，需要用新墨盒去替换。这起事故可能<a target="_blank" href="https://hardware.slashdot.org/story/16/09/18/0013203/hp-printers-have-a-pre-programmed-failure-date-for-non-hp-ink-cartridges"><u>不只是固件更新导致的</u></a>，因为一些未联网的惠普打印机客户也报告打印机拒绝使用非原装墨盒，看起来很可能是惠普在原固件中加入了一个不接受非惠普墨盒的日期代码。
+➜自由软件基金会否认以歧视理由解雇跨性别雇员
+https://www.solidot.org/story?sid=49709	12851
+本周五， Libreboot 项目主开发 Leah Rowe 在 GNU 邮件列表上<a target="_blank" href="https://lists.gnu.org/archive/html/libreboot/2016-09/msg00036.html"><u>发表声明</u></a>宣布脱离 GNU 项目和自由软件基金会（FSF），声称自由软件基金会搞性别歧视，解雇了一位跨性别雇员，她作为一位跨性别者对此无法接受。FSF 主席 <a target="_blank" href="https://lists.gnu.org/archive/html/libreboot/2016-09/msg00052.html"><u>Richard Stallman</u></a> 和 FSF 分别<a target="_blank" href="http://www.fsf.org/news/free-software-foundation-statement"><u>发表声明</u></a>，否认是因为性别的原因终止与这位雇员的雇佣关系。RMS说，这位雇员现在的性别和雇佣时的性别是一样的，解雇的原因与性别无关。FSF称，他们有着强有力的反性别歧视和反骚扰政策，帮助提供一个安全的工作环境。FSF因为隐私方面的原因没有披露相关事件的细节。
+➜微软在GitHub上的开源贡献者人数最多
+https://www.solidot.org/story?sid=49710	14028
+根据GitHub的<a href="https://octoverse.github.com" target="_blank">Octoverse报告</a>，在所有组织中微软的开源贡献者人数最多：微软有 16,419 名雇员向开源项目贡献代码，其次是Facebook的 15,682人，之后是Docker、Angular、Google和 Apache。作为最大的开源社区，GitHub的数字显示微软确实在<a target="_blank" href="http://www.zdnet.com/article/from-open-source-hater-to-no-1-fan-microsoft-now-tops-google-facebook-in-github-contributors/"><u>拥抱</u></a>开源开发模式。GitHub的报告还显示，Font-Awesome项目的参与者人数最多，其次是docker、npm、patchwork、react-native、vscode和atom。来自中国的新用户注册增长最快，同比增长了97%，其次是印尼、印度、俄罗斯、巴西和日本。
+➜Mozilla 计划下周二释出更新修复中间人攻击漏洞
+https://www.solidot.org/story?sid=49711	17435
+Mozilla 计划于9月20日（下周二）<a target="_blank" href="http://arstechnica.com/security/2016/09/mozilla-checks-if-firefox-is-affected-by-same-malware-vulnerability-as-tor/"><u>释出更新修复</u></a> Firefox 能被中间人利用向目标用户发送恶意代码的漏洞。漏洞与Mozilla实现的证书绑定（Certificate pinning）保护机制有关。证书绑定设计确保浏览器只接受特定域名或子域名的特定证书，防止伪造证书，即使那些证书是浏览器信任的CA签发的。但研究人员发现Mozilla的实现<a target="_blank" href="http://seclists.org/dailydave/2016/q3/51"><u>有漏洞</u></a>，允许中间人攻击者使用浏览器信任的CA签发伪造的Mozilla扩展addons.mozilla.org服务器证书，向目标用户传送恶意扩展更新。有能力入侵CA签发伪造证书的攻击者通常被认为有国家在背后支持。Tor项目在周五对这一漏洞<a target="_blank" href="https://blog.torproject.org/blog/tor-browser-605-released"><u>发出了警告</u></a>，Tor浏览器是基于Firefox。
+➜华为为何在中国如此受欢迎
+https://www.solidot.org/story?sid=49712	19498
+在中国试图从低成本制造国向全球创新领导者转变之际，华为与国际巨头相抗衡的能力提升了该公司在国内的受欢迎程度，推动其智能手机业务迅速增长，并对三星和苹果形成挑战。上海的手机应用开发者田一言说，华为有一种特质，敢于在主流高科技行业挑战并战胜西方巨头。他表示相信华为能够实现五年时间内超越苹果和三星、成为全球销量最大的智能手机制造商的目标，并认为这提升了华为的吸引力。中国消费者去年购买了约6000万部华为智能手机，仅次于小米位居第二。即便是华为在美国的艰难处境也成为针对部分中国消费者的一个卖点。购买了三部华为手机的北京地质工程师葛传峰称，这代表了西方世界对中国发展和崛起的限制。<a target="_blank" href="http://cn.wsj.com/gb/20160916/llw105211.asp"><u>他在社交媒体上呼吁</u></a>：买华为、挺国货、弃苹果。
+➜用户不再热衷下载应用
+https://www.solidot.org/story?sid=49713	28131
+新的移动应用很难再像以前那样吸引用户使用了，因为今天的用户不再热衷于在移动设备上下载更多应用。很多用户可能连续几个月不再下载任何新应用。 comScore的数据<a target="_blank" href="http://www.recode.net/2016/9/16/12933780/average-app-downloads-per-month-comscore"><u>显示</u></a>，49%的美国智能手机应用在一个月内没有下载任何应用，另外51%的智能手机用户平均每个月每人下载3.5个应用，但绝大部分的下载量是由少数用户完成的：13%的智能手机用户的下载量占到了总下载量的半数以上。
+➜罗技收购赛钛客
+https://www.solidot.org/story?sid=49714	30393
+计算机外设制造商罗技（Logitech）<a target="_blank" href="http://news.logitech.com/press-release/corporate/logitech-acquires-saitek-simulation-product-line-mad-catz"><u>宣布</u></a>以1300万美元现金从美加狮（MadCatz）收购了赛钛客（Saitek）品牌和它的飞行模拟摇杆资产。罗技在新闻稿中称，赛钛客的产品线对其现有的游戏外设产品构成了互补。罗技也生产过摇杆，其中不乏经典产品，而赛钛客则主打飞行摇杆，它在2007年以3000万美元的价格出售给美加狮，但此后的产品质量饱受批评，被罗技收购也许有助于<a target="_blank" href="https://slashdot.org/story/16/09/16/1357229/logitech-buys-saitek"><u>它改变现状</u></a>。
+➜即使三星宣布召回，用户照常使用Galaxy Note 7
+https://www.solidot.org/story?sid=49715	32293
+三星在全世界宣布召回电池存在缺陷的Galaxy Note 7，并鼓励用户立即停止使用手机。至今为止，三星在美国<a target="_blank" href="http://cn.wsj.com/gb/20160916/tec093736.asp"><u>收到</u></a>92起电池过热报告，其中有26起烧毁、55起涉及财产损失，包括导致汽车和车库起火。已有客户因手机爆炸烧伤而<a target="_blank" href="http://www.reuters.com/article/us-samsung-elec-smartphones-lawsuit-idUSKCN11M2E7"><u>起诉三星</u></a>。但即便情况如此严重，Galaxy Note 7用户并没有真的停止使用手机。根据移动分析公司Apteligent提供的<a target="_blank" href="https://www.apteligent.com/2016/09/samsung-galaxy-note-7-impact-battery-explosions-adoption/"><u>数据</u></a>，Galaxy Note 7现有用户的使用率与召回时相差无几。电池起火或爆炸的可能性并没有吓跑用户。
+➜人类前往火星的最佳方法可能是冬眠
+https://www.solidot.org/story?sid=49716	33446
+<div align="center"><img src="http://img.solidot.org/0/897/li7lBVmpKKhdY.jpg" height="338" align="" width="450"><br>
+</div>
+<br>
+地球与火星之间的5500万公里距离是人类登陆火星的一大障碍，因为人类的肉身不是为长距离旅行设计的。在前往火星的数个月时间里，人类宇航员需要吃、喝、呼吸、锻炼，还要避免发疯。整个过程并不令人愉快。获得NASA资助的航天公司<a href="http://spaceworkseng.com/">SpaceWorks</a>正在探索让乘客在整个旅途中处于停滞态。所谓停滞就是让宇航员的身体在整个飞行阶段处于不活跃的、低新陈代谢的状态。这不是科幻小说中完全失去意识的冷冻，而是类似冬眠。我们知道部分动物有冬眠习惯，SpaceWorks所做的就是寻找方法<a target="_blank" href="http://spectrum.ieee.org/the-human-os/aerospace/space-flight/putting-humans-in-stasis-is-the-best-way-of-getting-to-mars"><u>让人类能像熊一样冬眠几个月</u></a>。冬眠的最大优势是可以减少飞船携带的物质质量，一个神志清醒的活跃人类需要消耗大量的水、空气和食物，同时会产生固体和液体垃圾，排放出有毒气体和废热，这些都需要飞船的封闭系统去处理。而飞船的费用与质量是相关的。
+➜Emacs 25.1发布
+https://www.solidot.org/story?sid=49717	38473
+Emacs编辑器项目发布了<a target="_blank" href="http://lists.gnu.org/archive/html/emacs-devel/2016-09/msg00451.html"><u> 25.1</u></a>。新版的特性包括：支持加载共享/动态库，实验性支持Cairo绘图，增强网络安全（TLS/SSL证书验证），新的辅模式（minor mode）electric-quote-mode，字符折叠支持，Xwidgets，等等。更完整的变化可查看 ChangeLog。
+➜中国资本涌入欧洲尖端技术产业
+https://www.solidot.org/story?sid=49718	39345
+一个客户在最后时刻取消一笔大订单后，德国高科技公司爱思强(Aixtron)的股价迅速下滑。数月后，在其股价依然萎靡不振之际，一个中国投资者同意买下公司。根据提交给金融监管机构的文件及该公司公告显示，那名客户、买家与中国政府之间存在一个关系网。这种关联，突显出胃口越来越大的中国企业和北京的长期产业政策之间颇为模糊的界限。“爱思强的例子非常清晰地表明：这并不是常规的投资，”在位于柏林的智库墨卡托中国研究中心担任主管的韩博天说。“相反，我们看到受政府控制的资本在幕后发挥着作用。”中国领导人表明了利用国家基金获取并引入海外技术能力的意图。近年来的一系列收购也突显了这一策略。<a target="_blank" href="http://cn.nytimes.com/business/20160918/china-germany-takeover-merger-technology/"><u>这引发了一个问题</u></a>：如果要约既涉及私人投资，又涉及由政府策划的收购，该如何对待？它还引发了关于收购目标未来命运如何的疑问，以及这些全国性龙头企业最终是否会被纳入中国供应链。
+➜法国取缔塑料杯和塑料板
+https://www.solidot.org/story?sid=49719	40382
+法国<a target="_blank" href="http://en.rfi.fr/france/20160917-france-bans-plastic-cups-and-plates"><u>将取缔一次性塑料用品</u></a>，要求所有一次性用品如杯子和盘子必须用可降解材料制造。这项法律将于2020年生效，是法国应对气候变化的绿色能源计划（Energy Transition for Green Growth）的一部分。虽然这项计划得到了广泛的支持，但反对者认为该计划违反了欧盟的商品自由流动的规定，反对者呼吁欧盟采取行动。
+➜互联网不会遗忘
+https://www.solidot.org/story?sid=49720	41724
+一位意大利女子的<a target="_blank" href="https://yro.slashdot.org/story/16/09/16/1640222/right-to-be-forgotten-web-privacy-debate-in-italy-after-womens-suicide"><u>自杀点燃了在线遗忘权的争论</u></a>。这位叫Tiziana的31岁女子一年前将她的性爱录像<a target="_blank" href="http://www.cnn.com/2016/09/16/europe/tiziana-cantone-sex-tape-suicide/"><u>发送给几位朋友</u></a>，其中包括前男友——此举旨在让他嫉妒。结果性爱录像流传到了网上病毒式传播开来，被大约1百万人观看过。她在录像中对情人说的话“You're filming? Bravo”成为网络上流行的玩笑话，并被印在T恤、手机壳等物品上。Tiziana为了躲避这种羞辱而辞掉了工作，移居到其它地区，试图改变名字，但噩梦并没有离开她。她赢得了遗忘权诉讼，法庭命令多个网站删除视频，要求Google删除搜索结果，但要求她支付2万欧元的诉讼费。
+➜新半导体材料具有DNA的双螺旋结构
+https://www.solidot.org/story?sid=49721	44211
+在纳米设备中使用DNA在很大程度上针对的是像半导体那样操作DNA，但如果我们能创造出一种具有DNA特性的无机半导体？德国慕尼黑理工大学的研究人员发现了一种双螺旋结构的无机半导体材料。这种材料由锡（Sn）、碘（I）和（P）元素构成，化学名称SnIP。<a target="_blank" href="http://onlinelibrary.wiley.com/wol1/doi/10.1002/adma.201603135/abstract"><u>研究报告</u></a>发表在《 Advanced Materials》期刊上。拜双螺旋结构所赐，SnIP与其它半导体材料的一个不同之处是它具有极端的柔韧性。慕尼黑理工教授Tom Nilges说，SnIP的制备简单，所构成元素都极端丰富，不含有任何有毒成分。它的潜在应用包括柔韧性的半导体设备、太阳能电池等等。
+➜弦论的第二生命
+https://www.solidot.org/story?sid=49722	46235
+弦论在30年前诞生的时候曾被视为有望统一物理学的两大理论：引力和量子力学。但物理学家很快认识到大一统之梦只是幻觉。诺贝尔奖得主David Gross说，在90年代初人们放弃了将弦论与真实世界连接起来的尝试，过去20年科学家大大扩展了理论工具，但在统一理论上进展很小。他们发展出的数学工具被应用于宇宙学和凝聚态物理等领域。事实上现在很难在弦论与非弦论之间划出清晰的界限。今天的弦论看起来就像分形，越深入的探索任何一个角落越能发现更多的结构。<a target="_blank" href="https://www.quantamagazine.org/20160915-string-theorys-strange-second-life/"><u>弦论的发展看起来失去了方向</u></a>，但物理学家仍然认为它不可思议。在短期内弦论不可能取得多少进展，但从长期看它有可能解决物理学最重要的几个存在性问题。

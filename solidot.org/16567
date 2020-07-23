@@ -1,0 +1,55 @@
+➜优秀的控制台日志文件分析工具
+https://www.solidot.org/story?sid=44031	12254
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "Linux系统上发生的任何事情都可能以某种方式记录下来。这些日志文件通常是以标准日志文件格式储存的纯ASCII文本。绝大多数日志都是储存在系统日志子目录/var/log下。日志跟踪事件，如系统错误，用户活动，交易记录。应用程序捕捉了大量的信息到日志文件中，尤其是作为服务器使用的话会产生多重日志。检查日志文件对于了解服务器活动和性能非常重要。日志对于系统的检查、调试和维护是必不可少的。我们可以使用 tail 工具去监视日志文件，但它效率不高，管理员可能会面临信息过载。我们需要一些更高效的<a target="_blank" href="http://www.linuxlinks.com/article/20150509093202743/LogFiles.html"><u>控制台日志文件分析工具</u></a>，如<a target="_blank" href="http://www.vanheusden.com/multitail/"><u>MultiTail</u></a>、<a target="_blank" href="http://lnav.org/"><u>lnav</u></a>和<a target="_blank" href="http://sourceforge.net/projects/swatch/"><u>Swatch</u></a>。 "</i>
+➜微软透露Microsoft Edge的安全特性
+https://www.solidot.org/story?sid=44032	13559
+微软官方博客介绍了<a target="_blank" href="http://blogs.windows.com/msedgedev/2015/05/11/microsoft-edge-building-a-safer-browser/"><u>新浏览器Microsoft Edge的安全特性</u></a>。除了常见的反钓鱼网站和IE 8引入的SmartScreen防恶意程序下载功能外，Microsoft Edge支持W3C的内容安全策略标准，支持HTTP Strict Transport Security；不支持VML、VB Script、工具条、BHO或ActiveX，计划支持基于HTML/JS的扩展模式；Microsoft Edge不像IE那样与系统高度整合，而是一个应用，运行在应用容器沙盒内，默认在应用容器内渲染每一个网页；Microsoft Edge默认是64位，引入了新功能去抵御内存泄露攻击，如内存垃圾收集器和Control Flow Guard。
+➜详解俄罗斯自主研发的处理器Elbrus-4S
+https://www.solidot.org/story?sid=44033	14622
+<div align="center"><img src="http://img.solidot.com.cn/0/283/lih3Mk0ongaI.png" align="" height="359" width="360"><br>
+<br>
+</div>
+俄罗斯公司Moscow Center of SPARC Technologies (MCST) <a target="_blank" href="http://www.solidot.org/story?sid=44015"><u>宣布了</u></a>自主研发的处理器 <a target="_blank" href="http://www.mcst.ru/mikroprocessor-elbrus4s"><u>Elbrus-4S</u></a>(如图所示，俄文字母C对应的英文字母是S)。Elbrus-4S使用的是Elbrus指令集，而不是公司名字中的SPARC指令集。Elbrus指令集是一个私有的架构，<a target="_blank" href="http://arstechnica.com/gadgets/2015/05/russia-now-selling-home-grown-cpus-with-transmeta-like-x86-emulation/"><u>细节所知不多</u></a>，但它有一个有意思的功能：<a target="_blank" href="http://www.elbrus.ru/arhitektura_elbrus"><u>x86模拟</u></a>，也就是说在运行时x86代码通过虚拟机翻译执行，这种方法没有x86架构处理器快，但通过CPU的x86兼容层它能支持Windows XP和其它x86兼容操作系统。根据技术规格，Elbrus-4S有9.86亿个晶体管，考虑到它没有集成GPU这个数字相当高了。过去几年，俄罗斯和中国都在开发自己的处理器。<br>
+<br>
+➜菲利普·津巴多：色情和游戏上瘾正导致男子气危机
+https://www.solidot.org/story?sid=44034	17763
+<div align="center"><img src="http://img.solidot.com.cn/0/284/liBiqNkmDrj3U.jpg" align=""><br>
+<br>
+</div>
+以斯坦福监狱实验著称/声名狼藉的心理学家菲利普·津巴多<a target="_blank" href="http://games.slashdot.org/story/15/05/11/1414213/psychologist-porn-and-video-game-addiction-are-leading-to-masculinity-crisis"><u>声称</u></a>，色情和视频游戏上瘾<a target="_blank" href="http://www.independent.co.uk/news/science/porn-and-video-game-addiction-are-leading-to-masculinity-crisis-says-stanford-prison-experiment-psychologist-10238211.html"><u>正在导致男子气危机</u></a>。这一结论构成了其新书《<a target="_blank" href="http://www.amazon.com/Man-Disconnected-technology-sabotaged-means-ebook/dp/B00RWKNB5W/"><u>Man (Dis)Connected</u></a>》中的主要部分。津巴多深入分析了2万名年轻男性的生活以及他们与色情和视频游戏的关系，研究重点是那些宅在家里玩游戏或看色情的男性的精神状态。他说，过度看色情和玩游戏会开始改变大脑功能，开始改变大脑的奖励中心，创造了某种兴奋和上瘾——男孩的大脑开始数字化重连接。他引用一名年轻男孩的话说，“当我在教室里，我会希望我正在玩魔兽世界；当我见一名女孩，我会希望在看色情，因为看色情时我从来不会被拒绝。”津巴多不认为玩游戏达到特定时间阈值后就被认为是过度，他认为过度在每个人身上都是不同的，它是基于心理的精神变化。为了解决这个问题，津巴多认为父母应该跟踪孩子玩游戏的时间，而学校需要更好的性教育，除了生理学和性安全之外，还必须加入情感、身体接触和浪漫关系。
+➜任天堂考虑下一代主机移除锁区
+https://www.solidot.org/story?sid=44035	19059
+任天堂<a target="_blank" href="http://arstechnica.com/gaming/2015/05/nintendo-optimistic-about-removing-region-lock-for-next-console/"><u>考虑</u></a>下一代主机移除强制性的区域限制。在回答投资人提问时，任天堂总裁岩田聪表示公司还没有做出决定，正在对此展开内部调查，他个人对不锁区的主机表示乐观。任天堂的主要对手索尼和微软都不再锁区，它在今年三月宣布了代号为NX的下一代主机。岩田聪说，移除现有游戏机如 Wii U和3DS的区域限制存在许多问题，是不现实的。岩田聪表示公司将倾听客户的反馈和市场的提议。而客户的一个反馈是在change.org上发起请愿请求任天堂移除锁区，有<a target="_blank" href="https://www.change.org/p/nintendo-stop-region-blocking-make-the-3ds-and-wii-u-region-free"><u>超过3.5万人</u></a>签名。
+➜《恶魔城》之父在Kickstarter上为新游戏集资
+https://www.solidot.org/story?sid=44036	26741
+已离开科乐美(Konami)的知名游戏制作人、《恶魔城》之父五十岚孝司在Kickstarter上为新游戏集资，50万美元的众筹目标不到一天就已经完成，至今已超过119万美元，有望跻身Kickstarter上最成功的众筹游戏项目之一。他的新游戏《<a target="_blank" href="https://www.kickstarter.com/projects/iga/bloodstained-ritual-of-the-night"><u>Bloodstained: Ritual of the Night</u></a>》试图复兴《恶魔城》系列，它是一款2.5D、哥特风格、可探索的动作平台游戏，除了不使用《恶魔城》这个名字外，游戏基本上就是《恶魔城》的精神继承者。在Kickstarter视频中，五十岚孝司说，“游戏发行商告诉我玩家不再关心这一类型的游戏，但我知道他们错了。”这款游戏计划在2017年上市，支持者捐助28美元可以获得一份PS4/Xbox/Steam数字拷贝，游戏将支持Linux、OSX和Windows。<br>
+➜英国保守党大选获胜，Ind.ie宣布离开大不列颠
+https://www.solidot.org/story?sid=44037	27464
+在上周的大选中，英国保守党再次获胜。对于互联网企业以及网民来说，这意味着：英国将扩大大规模监视和数据保存；卡梅伦说过，如果再次当选他将计划封杀加密通信应用，通信应用如果要提供给英国用户可能将被迫加入后门。出于以上的理由，一家以保护数字时代的人权和民主为己任的小型创业公司Ind.ie宣布撤离大不列颠群岛，以此象征性的抗议保守党的政策，“<a target="_blank" href="https://aralbalkan.com/notes/so-long-and-thanks-for-all-the-fish/"><u>再见，感谢所有的鱼</u></a>。”
+➜百度计划建造7Pflop/s的超级计算机
+https://www.solidot.org/story?sid=44038	29300
+《华尔街日报》<a target="_blank" href="http://blogs.wsj.com/digits/2015/05/12/baidu-leads-in-artificial-intelligence-benchmark/"><u>称</u></a>，百度在人工智能基准测试中取得了全球最好的结果。研究人员称，百度有一个秘密武器，就是超级计算机Minwa。Minwa扫描了百万图像数据库<a target="_blank" href="http://www.image-net.org/"><u>ImageNet</u></a>，自学如何将这些图片按照预先确定的1000个不同类别进行分类。微软软件的错误率是<a target="_blank" href="http://blogs.technet.com/b/inside_microsoft_research/archive/2015/02/10/microsoft-researchers-algorithm-sets-imagenet-challenge-milestone.aspx"><u>4.94%</u></a>，Google是<a target="_blank" href="http://arxiv.org/pdf/1502.03167.pdf"><u>4.8%</u></a>（PDF），而百度是4.58%。百度首席科学家吴恩达对于计算机视觉识别上的进步表示非常兴奋。未来18个月，百度计划建造7Pflop/s的超级计算机，足以跻身TOP500的超级计算机排行榜前十。百度的Minwa包含36个服务器节点，每个节点由2个六核英特尔Xeon E5-2620处理器和4个NVIDIA Tesla K40m GPU构成。Minwa超级电脑有1.7TB设备内存和6.9TB主内存，今年初它在ImageNet测试中的错误率为<a target="_blank" href="http://www.valuewalk.com/2015/01/baidu-builds-minwa-supercomputer/"><u>5.98%</u></a>。
+➜朝鲜试射潜射导弹
+https://www.solidot.org/story?sid=44039	31722
+<div align="center"><img src="http://img.solidot.com.cn/0/285/lifyfQE85YAOk.jpg" align="" height="314" width="480"><br>
+<br>
+</div>
+朝鲜5月9日从潜艇上<a target="_blank" href="http://www.kcna.kp/kcna.user.special.getArticlePage.kcmsf"><u>试射了</u></a>一枚潜射导弹。韩国军方人士<a target="_blank" href="http://chinese.yonhapnews.co.kr/domestic/2015/05/11/0401000000ACK20150511002100881.HTML"><u>表示</u></a>由于潜艇比较短，潜艇上只携带了一枚教练导弹，而且导弹只飞行了150米。韩国正决定是否部署战区高空区域反导防御系统，中国向韩国施压不要部署，但朝鲜的一系列导弹测试使得韩国基本上肯定会选择部署反导系统。朝鲜此次测试使用的潜艇型号为新浦级，长67米，试射的潜射导弹型号为北极星-1，外形<a target="_blank" href="http://arstechnica.com/tech-policy/2015/05/north-korea-test-launches-polaris-1-ballistic-missile-from-submarine/"><u>看起来是</u></a>前苏联 R-27 潜射导弹的仿制品。朝鲜领导人金正恩原计划前往俄罗斯出席二战结束70周年纪念活动，但最终取消活动亲临现场观摩导弹试射。
+➜世界卫生组织制定避免冒犯性名字的命名规则
+https://www.solidot.org/story?sid=44040	34387
+疾病除了本身的杀伤力外，它的名字也具有某种破坏性。与疾病名字有关系的人会觉得受到侮辱或遭到歧视。世界卫生组织（WHO）为此制定了一个<a target="_blank" href="http://apps.who.int/iris/bitstream/10665/163636/1/WHO_HSE_FOS_15.1_eng.pdf?ua=1"><u>新的命名规则</u></a>（PDF）去解决这一问题。根据该命名规则，如埃博拉病毒（Ebola，以刚果共和国的一条河流命名，但病毒与这条河流没有任何关系）、猪流感（swine flu）、裂谷热（Rift valley Fever）、克罗伊茨费尔特—雅格布病（Creutzfeldt-Jakob disease）和猴痘（monkey pox）等名字都是不鼓励使用的。WHO建议研究人员、卫生官员和记者应使用中性的通用的术语，如严重的呼吸道疾病或新奇的神经综合症。科学家也承认疾病的命名为带来问题，但他们并不认为新的命名规则能改进这一情况。新兴传染病专家Linfa Wang预测它肯定会导致名字的沉闷和大量的混淆。德国波恩大学的病毒学家Christian Drosten认为，WHO在政治正确上走得太远了，<a target="_blank" href="http://news.sciencemag.org/health/2015/05/discovered-disease-who-has-new-rules-avoiding-offensive-names"><u>最终会导致没人能区分这些疾病</u></a>。
+➜美国法官裁决无搜查令在机场扣押笔记本电脑不合法
+https://www.solidot.org/story?sid=44041	36412
+韩国商人Jae Shik Kim被控非法向伊朗出售飞机导弹所使用技术的案件<a target="_blank" href="http://arstechnica.com/tech-policy/2015/05/warrantless-airport-search-of-laptop-cannot-be-justified-judge-rules/"><u>遭到了法官的毁灭性打击</u></a>。法官<a target="_blank" href="http://cdn.arstechnica.net/wp-content/uploads/2015/05/kimruling.pdf"><u>裁决</u></a>（PDF）政府执法部门在洛杉矶国际机场非法扣押了这名商人的笔记本电脑，从电脑中获取的证据因此变得无效。Jae Shik Kim被指控通过中国和韩国的中间人非法向伊朗出售了霍尼韦尔制造的加速计。出售此类技术需要获得出口许可证。执法机关2012年以边境搜查例外的理由扣押了Kim携带的笔记本电脑，电脑硬盘随后被镜像和分析了数周。哥伦比亚特区地区法院法官Amy Berman Jackson认为，没有搜查令扣押笔记本电脑是不合法的，她质疑边境搜查例外是否适用于笔记本电脑，因为电脑比公文包包含了更多的私人信息。美国最高法院去年就做出了一项裁决，当局需要获得法庭搜查令才可能搜查被捕者的手机。
+➜Google自主驾驶汽车六年卷入11起小事故
+https://www.solidot.org/story?sid=44042	38756
+美国每年有3.3万人死于交通事故，自主驾驶汽车被认为具有潜力降低事故率。Google自主驾驶汽车项目总监Chris Urmson发表了<a target="_blank" href="https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088"><u>一篇博文</u></a>，披露测试六年来只卷入了11起小事故，没有人受伤。他的团队有20多辆自主驾驶汽车，驾驶距离超过273万公里（手动和自动），其中汽车自主驾驶距离大约160万公里，汽车平均每周自主驾驶1.6万公里。Chris Urmson引用研究报告称，94%的交通事故是驾驶员错误导致的，而他们的自主驾驶汽车没有导致一起事故——也就是说11起小事故估计都是人为的。
+➜微软投资建设海底光缆
+https://www.solidot.org/story?sid=44043	42510
+微软进入了通信行业变成了光缆供应商。软件巨人<a target="_blank" href="http://azure.microsoft.com/blog/2015/05/11/microsoft-invests-in-subsea-cables-to-connect-datacenters-globally/"><u>宣布</u></a>它将与中移动、中电信，中联通、中华电信、韩国电信和TE SUBCOM合作建造连接北美和亚洲的跨太平洋海底光缆。微软称，新的跨太平洋海底光缆将能为客户提供更快的数据连接，帮助微软的云服务，确保客户数据访问的高可用性。
+➜Verizon以44亿美元收购美国在线
+https://www.solidot.org/story?sid=44044	43770
+Verizon发表<a target="_blank" href="http://www.verizon.com/about/news/verizon-acquire-aol"><u>新闻稿</u></a>，宣布签署了44亿美元收购美国在线的协议。美国在线曾经也是一个巨无霸，1998年以42亿美元收购了Netscape，2000年与时代华纳合并，2009年与时代华纳分家。它在电信市场上的份额虽然在萎缩，但仍然有<a target="_blank" href="http://qz.com/401567/more-than-2-million-american-homes-are-stuck-in-the-90s-with-aol-dialup-internet/"><u>200万</u></a>拨号上网用户。它的旗下还有众多网络媒体网站，其中包括The Huffington Post、TechCrunch、Engadget、MAKERS 和AOL.com。
+➜Windows版GPU恶意程序原型发布
+https://www.solidot.org/story?sid=44045	45508
+匿名安全研究人员在释出利用GPU的<a target="_blank" href="http://www.solidot.org/story?sid=43990"><u>Linux rootkit</u></a>概念验证原型之后，他们<a target="_blank" href="http://www.itworld.com/article/2921095/gpu-malware-can-also-affect-windows-pcs-possibly-macs.html"><u>发布了</u></a>Windows版本，还准备发布OSX版本。Windows版本被称为<a target="_blank" href="https://github.com/x0r1/WIN_JELLY"><u>WIN_JELLY</u></a>，是一个远程访问工具，允许攻击者控制被感染的机器，但具体功能没有披露。研究人员开发这些概念工具是为了提醒人们GPU也会被感染，而安全行业尚未对此做好准备。现有的安全工具没有设计去扫描GPU恶意代码使用的随机存取内存。

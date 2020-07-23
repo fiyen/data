@@ -1,0 +1,31 @@
+➜SSL/TLS/DTLS大漏洞：还原明文
+https://www.solidot.org/story?sid=33400	22419
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "<i>
+<p>两位安全研究人员Nadhem Alfardan和Kenny Paterson在网站上<a href="http://www.isg.rhul.ac.uk/tls/">发布了名为Lucky Thirteen: Breaking the TLS and DTLS Record Protocols的文章</a>，以OpenSSL和GNU-TLS为例，OpenSSL的很多版本都可以完整的还原成明文，而GNU-TLS可以将最后一个byte中的4个bits还原成明文，目前发现基于TLS 1.0/1.1/1.2，DTLS 1.0/1.2和SSL 3.0的实现都受到了不同程度的影响，在局域网内使用HMAC-SHA1算法的TLS加密会话只需要2^23次计算就能还原完整块的明文，而如果同时使用base64的编码的话只需要2^19次就能实现还原明文。这个代号为<a href="http://www.openssl.org/news/secadv_20130205.txt">CVE-2013-0169的安全威胁目前openSSL已经使用了这个CVE-id</a>，至于其他的受影响的开源安全包<a href="http://seclists.org/oss-sec/2013/q1/241">是否共享这个CVE-id还在讨论中</a>，目前<a href="https://bugzilla.novell.com/show_bug.cgi?id=802184">SUSE</a>和<a href="https://bugzilla.redhat.com/show_bug.cgi?id=907589">RedHat</a>已经开始应急这个安全威胁，<a href="https://build.opensuse.org/request/show/151305">openSUSE已经更新了相关的包</a>。</p>
+<p>
+</p>
+CVE-2013-0169的危险程度不亚于<a href="http://www.theregister.co.uk/2011/09/19/beast_exploits_paypal_ssl/">2011年的BEAST攻击</a>，如果有相关安全研究人员有兴趣了解细节可以直接<a href="http://www.isg.rhul.ac.uk/tls/TLStiming.pdf">下载论文</a>。
+"</i>
+➜已知最大的素数：2^57,885,161-1
+https://www.solidot.org/story?sid=33402	25288
+互联网梅森素数大搜索（GIMPS）项目<a href="http://mersenne.org/"><u>Mersenne.org</u></a>在1月25日协调世界时23:30:26，<a href="http://mersenne.org/various/57885161.htm"><u>发现了</u></a>已知最大的素数：2^57,885,161-1。发现者是GIMPS志愿者、中密苏里大学数学计算机科学系的<a href="http://www.math-cs.ucmo.edu/~curtisc/index.html"><u>Curtis Cooper</u></a>。最新发现的素数共有17425170位，是GIMPS项目发现的第14个素数。GIMPS是一个分布式计算项目，至今已有17年历史，它利用志愿者的36万个空闲CPU创建了一个遍布全球的草根超级计算机，峰值计算能力每秒150万亿次。
+➜日政府对中方照射火控雷达表示强烈抗议
+https://www.solidot.org/story?sid=33403	26477
+<a href="/~blackee">blackee</a> 写道 <i>"根据共同社<a href="http://china.kyodonews.jp/news/2013/02/46206.html">报导</a>：日本政府5日晚宣布，中国海军舰船曾于1月30日在东海向海上自卫队护卫舰照射了火控雷达。防卫相小野寺五典在紧急记者会上发布了上述消息。照射地点为尖阁诸岛（中国称钓鱼岛）周边海域，日本政府已于5日下午向中方提出了强烈抗议。日本将尖阁诸岛国有化以来，日中持续对立的紧张关系或将不可避免地进一步升级。小野寺在记者会上指出，使用火控雷达而非普通定位雷达来照射“是极其异常的特例”。他表示抗议道，“稍有差池就会发展成非常危险的状态”，并称“不明白”中方的意图。日本政府内部有意见认为，这应该有就尖阁问题威胁日方之意。据悉，受到雷达照射的是以长崎佐世保为母港的护卫舰“夕立”。照射雷达的是中国海军护卫舰。中国政府尚未对此作出回应，仅表示正在核实该事件。日本防卫省<a href="http://cn.nytimes.com/article/world/2013/02/06/c06japan/"><u>还披露</u></a>，中国的一艘护卫舰曾于1月19日将同样的雷达指向一架日军直升机。
+"</i>
+➜YouTube删除朝鲜反美视频
+https://www.solidot.org/story?sid=33404	28112
+<center><iframe src="http://www.liveleak.com/ll_embed?f=51b576bd07e3" allowfullscreen="" frameborder="0" height="270" width="480"></iframe></center>
+朝鲜政府官方网站“我们民族”(Uriminzokkiri)在YouTube上传视频《On Board Unha-9》(Unha意思是银河，去年朝鲜发射了银河3号火箭)，视频描述了未来美国曼哈顿火光冲天的场景，表现了一个年轻的朝鲜人的梦想，他畅想着朝鲜发射火箭、朝鲜半岛统一的光辉未来，以及美国在烈火中燃烧。纽约大火的场景使用的是《使命召唤：现代战争》中的动画，《使命召唤》的发行商动视投诉朝鲜侵犯版权，YouTube<a href="http://cn.nytimes.com/article/world/2013/02/06/c06nkorea/"><u>为此将其下线</u></a>。朝鲜只有极少精英能够不受限制的访问YouTube和Twitter等网站。
+➜蜂窝网络监测降雨量
+https://www.solidot.org/story?sid=33405	30431
+研究人员<a href="http://chinese.eurekalert.org/zh/pub_releases/2013-02/aaft-mrw020113.php"><u>利用</u></a>商用蜂窝通信网络去绘制全国范围内的雨量分布图。<a href="http://www.pnas.org/content/early/2013/01/29/1217961110.abstract"><u>论文</u></a>发表在最新一期的PNAS上。 准确的降水测量是天气预报、水资源管理和气候研究的关键。量雨计虽然准确但没有广泛普及。研究人员研究利用蜂窝通信网络监测降雨，因为雨滴会吸收和散射从手机到通讯塔之间传播的无线电信号，降低信号强度。利用荷兰的一个蜂窝网络，他们在12天内每隔15分钟测量一次接收到的最大和最小信号强度，共测量了大约2400次微波链接。利用这个数据集计算出平均降水强度。研究人员发现，虽然细节不够，但蜂窝网络确实可在没有专门地面降水传感器的地区用于监测降雨量。
+➜戴尔宣布244亿美元私有化计划
+https://www.solidot.org/story?sid=33406	32205
+迈克尔•戴尔拟议的<a href="http://www.ftchinese.com/story/001048862"><u>244亿美元私有化计划</u></a>标志着他的一次大胆尝试，即利用他的巨额财富来挽救这家30年前他在大学宿舍创建的个人电脑(PC)制造商。如果得到股东批准，这笔交易将成为自金融危机以来规模最大的收购案，并将成为科技行业史上规模最大的收购案。然而，即便有微软和Silver Lake Partners的支持，戴尔现在仍面临着一项复杂任务：努力让戴尔在来自移动计算日益激烈的竞争面前保持相关。《华尔街日报》的一篇分析<a href="http://cn.wsj.com/gb/20130205/atc101239.asp"><u>讨论了</u></a>戴尔将如何转型戴尔电脑公司。
+➜卡巴斯基更新屏蔽Windows XP用户访问互联网
+https://www.solidot.org/story?sid=33407	47258
+卡巴斯基最近的一次更新禁止Windows XP用户访问互联网，一位使用Linux的系统管理员在官方论坛上<a href="http://forum.kaspersky.com/index.php?showtopic=255508"><u>报告了</u></a>这个重大bug。Windows 7等系统没有受到影响，XP用户的权益之计是禁用卡巴斯基的 Web AV组件，或者关闭对80端口的监视。卡巴斯基已经<a href="http://forum.kaspersky.com/index.php?showtopic=255508&amp;st=20&amp;p=1978848&amp;#entry1978848"><u>发布了</u></a>补丁修复了bug。但XP用户仍然需要先禁用Web AV组件，再手动更新才能修复问题。
+➜Hello Chrome，Firefox呼叫
+https://www.solidot.org/story?sid=33408	50563
+Hello Chrome，<a href="https://hacks.mozilla.org/2013/02/hello-chrome-its-firefox-calling/"><u>Firefox呼叫</u></a>；Hello Firefox，<a href="http://blog.chromium.org/2013/02/hello-firefox-this-is-chrome-calling.html"><u>这里是Chrome</u></a>。Mozilla和Google分别宣布， Chrome和Firefox浏览器首次能通过实时语音视频通信协议WebRTC互相通话。WebRTC是Google提出的HTML5实时通信协议标准，已被W3C接受纳入推荐标准。目前支持WebRTC协议的桌面浏览器主要为Chrome和Firefox，在此之前，两家WebRTC的实现还存在互操作性问题，也就是Chrome的WebRTC应用只能在Chrome用户之间对话。但现在，不用安装任何第三方插件，Chrome或Firefox的WebRTC应用能让Chrome和Firefox用户互相通话。

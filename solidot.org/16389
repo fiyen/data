@@ -1,0 +1,26 @@
+➜《刺客信条大革命》灾难性发布的背后：nVidia和GameWorks
+https://www.solidot.org/story?sid=41889	14311
+<div align="center"><img src="http://img.solidot.com.cn/0/743/lipTK1rCnZibM.png" height="300" width="480" align=""><br>
+<br>
+</div>
+育碧本周发布的游戏《刺客信条：大革命》<a target="_blank" href="http://www.solidot.org/story?sid=41875"><u>出现了大量问题</u></a>：bug，优化，甚至是贴图错误（如图），无论是主机还是PC配置为Intel/Nvidia或AMD CPU/GPU用户都在游戏中体验到了频率暴降的问题。然而在官方论坛上，育碧的社区经理<a target="_blank" href="http://forums.ubi.com/showthread.php/946541-AMD-Graphics-Cards-Compatibility-with-Assassin-s-Creed-Unity"><u>突出强调了</u></a>AMD显卡的兼容性问题。为什么？因为育碧的游戏使用了
+nVidia的<a target="_blank" href="http://www.solidot.org/story?threshold=1&amp;mode=flat&amp;sid=39733"><u>GameWorks</u></a>。GameWorks是一套私有闭源特效库，包括了TXAA、WaveWorks、FaceWorks和PhysX等特效组件，AMD<a target="_blank" href="http://games.slashdot.org/comments.pl?sid=6048819&amp;cid=48382141"><u>认为</u></a>GameWorks是专门设计让游戏在AMD硬件上难以正常工作。目前最好的反锯齿方法是Crytek提供的，免费而且开源，在旧硬件上工作良好但效果有些偏向于AMD的硬件，所以nVidia发明了它的反锯齿组件TXAA，在新nVidia硬件上的表现远远胜过AMD硬件。nVidia付钱给开发商如育碧和《猎魔人3》开发商CD PROJEKT RED，以及游戏引擎开发商如Epic使用它的方法。nVidia的GameWorks不仅影响了PC还影响了主机的效能，它就像是一个现代引擎的性能毁灭者。nVidia则表示，TXAA是更优越的反锯齿方案，解决了时间域走样难题。AMD和nVidia几个月前曾公开论战GameWorks。
+➜习点破负面报道与记者拒签联系
+https://www.solidot.org/story?sid=41890	19494
+<a href="/~墙上的观察者">墙上的观察者</a> 写道 <i>"<a title="纽约时报中文网报道" href="http://cn.nytimes.com/china/20141113/c13visas/" target="_blank">纽约时报报道</a>，多年来，西方新闻机构一直试图解读中国政府对待批判性媒体报道的态度，也感觉到北京会因为不喜欢某些报道，而通过故意拖延签证发放或者干脆拒绝签证申请来惩罚记者。周三，这种立场通过不同寻常的直白语言得到了表述。在北京与奥巴马总统召开的联合新闻发布会上，中国国家领导人习近平似乎将有不利影响的报道和记者签证联系了起来，暗示外国新闻机构的签证问题是他们自己造成的。“一辆车如果抛锚，我们都要下车检查哪儿出了毛病，”他说。"</i>
+➜FreeBSD 10.1 发布
+https://www.solidot.org/story?sid=41891	49886
+FreeBSD操作系统发布了10.0-RELEASE稳定分支的第二个版本<a target="_blank" href="http://www.freebsd.org/releases/10.1R/announce.html"><u>FreeBSD 10.1</u></a>。新版本重点是改进稳定性和安全性，主要新变化包括：amd64架构支持从UEFI启动，自动生成OpenSSH密钥，改进ZFS性能，更新OpenSSH 和OpenSSL版本，bhyve hypervisor支持FreeBSD/i386客户机，armv6内核支持SMP，IPv4和IPv6支持UDP-Lite协议。完整变化可查看<a target="_blank" href="https://www.freebsd.org/releases/10.1R/relnotes.html"><u>释出公告</u></a>。FreeBSD 10.1是一个延长支持版本，将支持到2017年1月。
+➜英国ISP同意过滤极端主义材料
+https://www.solidot.org/story?sid=41892	53692
+在儿童色情之后，英国ISP的过滤器如过去预想到的一样<a target="_blank" href="https://www.techdirt.com/articles/20141114/06414329138/david-cameron-says-people-arent-radicalized-poverty-foreign-policy-free-speech-online-so-isps-agree-to-censor-button.shtml"><u>扩大了审查范围</u></a>：英国主要ISP——BT、Virgin、Sky 和 Talk Talk本周同意将确保恐怖主义和极端主义材料能被过滤器挡住，防止儿童和年轻人接触激进的材料。
+这几家ISP还同意设立一个按钮，允许公众举报网上的恐怖主义材料。英国政府正在推进反恐怖法案，而英国首相卡梅伦此前<a target="_blank" href="http://theconversation.com/remove-extremist-material-from-internet-cameron-34241"><u>表示</u></a>不允许让互联网变成一个无政府的空间。
+➜路由流量分析能识别81%的Tor用户身份
+https://www.solidot.org/story?sid=41893	57011
+哥伦比亚大学网络安全实验室前研究员、目前在Indraprastha信息技术研究所研究网络匿名和隐私的Sambuddho Chakravarty教授<a target="_blank" href="https://mice.cs.columbia.edu/getTechreport.php?techreportID=1545&amp;format=pdf"><u>指出</u></a>(PDF)，思科路由器监视网络流量的软件<a target="_blank" href="http://www.cisco.com/web/CN/aboutcisco/ctac/case/security/case_2.html"><u>Netflow</u></a>能被用于识别Tor匿名用户的身份，成功率可以达到<a target="_blank" href="http://yro.slashdot.org/story/14/11/14/1851245/81-of-tor-users-can-be-de-anonymized-by-analysing-router-information"><u>81.4％</u></a>。去匿名化的方法是向Tor出口节点相关联的TCP连接中注入重复的流量模式，随后比较Netflow所产生的流量流动记录的网络计时差异，让Tor用户个体化。在实验室条件下，流量分析攻击的成功率能达到100%，在实际条件下网络噪声和变化会将成功率降至81％.
+➜麦芽地网站被关，WireLurker开发者被抓
+https://www.solidot.org/story?sid=41894	59322
+<div align="center"><img src="http://img.solidot.com.cn/0/744/liMcyxQKlZutM.jpg" align=""><br>
+<br>
+</div>
+中国警方宣布<a target="_blank" href="http://weibo.com/2388955087/BwgPoppss"><u>逮捕了</u></a>三名WireLurker开发者和传播者，关闭了传播病毒的苹果第三方应用商店<a target="_blank" href="http://www.maiyadi.com/"><u>麦芽地</u></a>。目前细节详情披露的不多，警方只是声称在接到奇虎360公司举报后，于11月13日将涉嫌制作、传播该恶意程序的陈某（陈鹏）、李某和王某抓获。WireLurker病毒<a target="_blank" href="http://www.solidot.org/story?sid=41776"><u>设计感染iOS系统</u></a>，能用于窃取用户私人敏感信息，病毒主要在麦芽地传播。奇虎360公司是麦芽地的股东之一，该公司表示虽然持有股份但不参与管理。

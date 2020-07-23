@@ -1,0 +1,68 @@
+➜Silverlight 3正式发布
+https://www.solidot.org/story?sid=12279	3360
+微软<a href="http://www.osnews.com/story/21806/Silverlight_3_Released">发布</a>了<a href="http://www.microsoft.com/silverlight/resources/install.aspx">Silverlight 3</a>，它强力推销的Flash替代。Silverlight 3运行平台为Windows和Mac OS X 10.4.8+，支持Internet Explorer 6/7/8，Firefox 2/3，和Safari 3/4。<i>主要的<a href="__SLASHLINK__" sect="developers" sid="09/03/19/0211248" sn="article" tid="32">新特性</a>包括：GPU硬件加速，支持H.264、AAC、MPEG-4等新编解码器，raw bitstream Audio/Video API，改进了日志，支持720P流视频，多触摸支持，库缓存支持等等。</i>微软还针对开发者发布了<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=2050e580-f1d5-4040-bb09-e6185591b6b5">Silverlight 3 SDK</a>和<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=9442b0f2-7465-417a-88f3-5e7b5409e9dd">Silverlight 3 Tools</a>。
+➜Chromium支持Linux的native theming
+https://www.solidot.org/story?sid=12280	5100
+Ars Technica报道，Google Chrome浏览器的开源开发版本Chromium最近<a href="http://arstechnica.com/open-source/news/2009/07/google-chromium-gains-native-theming-support-on-linux.ars">加入了对Linux native theming的支持</a>，这反映了Linux版本的逐渐成熟。<i>
+Chrome的开发者不久前曾抱怨Linux桌面生态系统内在的多样性，这种多样性对第三方开发商提出了一大难题。Google最终决定采用GTK+ toolkit，让浏览器在视觉上符合GNOME环境标准。新的主题便是基于GTK+。</i>
+另外，LinuxTOY<a href="http://linuxtoy.org/archives/google-chromium-gets-flash-support.html">报道</a>， Chromium已开始支持Flash
+➜迈向量子计算机超快查找算法的第一步
+https://www.solidot.org/story?sid=12281	5760
+time 写道 "给实验者一枚硬币，如果扔出的硬币正面朝上，实验者就向右走一步，如反面向上则左移一步。通常出现的情况是实验者扔完10次后，发现自己距离初始位置并不远，扔完1000次后记录的位置画成图将呈现正态分布。这类实验被称为随机漫步。在量子物理世界中，类似现象被称为量子漫步，是一种理论想像。波恩大学的学者在试验中首次<a href="http://www.sciencedaily.com/releases/2009/07/090709140806.htm">呈现了量子漫步</a>。<i>
+试验由一个陷入激光光线阱的铯原子实现。通过激光光线试验者可控制原子向左或向右，原子的不同量子态类似于硬币的正面朝上和反面朝上。在量子世界还会出现更复杂的状态：硬币有一点正面朝上，同时还有一点反面朝上，即态叠加。只有当你去观测时才会得到确定的位置。多次量子漫步的记录显示曲线<a href="http://en.wikipedia.org/wiki/File:One_dimensional_quantum_random_walk.png">高峰在两翼</a>。如果破坏量子态叠加，“扔”一次就观测一次，结果则和经典结果（随机漫步）相同。<br>
+波恩大学的Dieter Meschede小组多年致力于量子计算机的研究。量子漫步的实现对实现量子计算机有重大意义，通过它新的算法可以得到应用。比如在现代技术中，从一串0中找出某一个0必须检查每个数位，所需时间随着0总体的增加而线性增加。如果使用量子漫步算法，漫步者可以同时在多处搜索，“大海捞针”的速度被极大提高。</i>
+<a href="http://www.sciencemag.org/cgi/content/abstract/325/5937/174">发表在Science上的论文</a>。"
+➜Google宣布Chrome OS硬件合作伙伴
+https://www.solidot.org/story?sid=12282	6960
+Google宣布了<a href="http://tech.slashdot.org/story/09/07/09/1243231/Google-Reveals-Chrome-Hardware-Partners">Chrome OS的硬件合作伙伴</a>，明年我们将在这些厂商的上网本上看到Chrome OS的身影。这些厂商包括了：宏碁、华硕、飞思卡尔、惠普、联想、高通、德州仪器和东芝。Google还宣布将与软件开发商Adobe合作，后者正在开发一系列的在线应用程序。
+➜猴子展示了语言识别能力
+https://www.solidot.org/story?sid=12283	9360
+根据《<a href="http://rsbl.royalsocietypublishing.org/">皇家生物学通信</a>》上的一项研究，<a href="http://zh.wikipedia.org/wiki/%E6%A3%89%E5%86%A0%E7%8D%A0%E7%8B%A8">棉冠獠狨</a>（Cotton-top tamarin）<a href="http://www.examiner.com/examiner/x-1242-Science-News-Examiner~y2009m7d8-Monkeys-show-language-recognition">展现</a>了相当高的与语言技能相关的智力水平。棉冠獠狨能发出包括哨音、格格声、颤音、尖叫、喷嚏声及长刺耳声在内的多种叫声。前缀音和后缀音是它们语言必不可少的部分。科学家并没有暗示猴子真的能理解语言，区分前缀音和后缀音差别只是一次小小的飞跃。研究人员称，棉冠獠狨的表现有几分类似婴儿学语。
+➜Firefox 3.5的启动堪比操作系统
+https://www.solidot.org/story?sid=12284	13200
+一位Windows Firefox 3.5用户<a href="http://www.reddit.com/r/programming/comments/8zrft/the_firefox_35_fiasco_why_ff_is_taking_30_seconds/">发现</a>，仅使用了一天之后，第二天他的浏览器<a href="http://weblogs.asp.net/fbouma/archive/2009/07/09/the-firefox-3-5-fiasco.aspx">启动时间长达35秒</a>。他试图找出浏览器花如此多时间启动的原因，他发现在Mozilla论坛上有很多人遭遇了同样的问题。<i>
+根据论坛上透露的信息，启动缓慢与硬盘上有太多的垃圾有关，而罪魁祸首是<a href="http://www.mozilla.org/projects/security/pki/nss/">NSS</a>(网络安全系统)，它需要执行大量的加密和安全相关的操作，需要使用到随机数。真“随机数”是很难产生的，NSS的开发者没有使用系统提供的随机选择功能，而是创造性的发明了一种新的随机数生成方法——用多个线程读取硬盘上临时文件夹，把这些文件作为seed创造出随机数。在启动时，Windows版的Firefox v3.5需要读取Internet Explorer Cache和Windows临时文件夹，还扫描了所有的font文件，于是Firefox启动变成令人痛苦的过程。</i>
+➜milw0rm重新开张
+https://www.solidot.org/story?sid=12285	16560
+<a href="mailto:liuw@liuw.name">匿名读者</a> 写道<i> "刚刚无意看了一下Google Reader，发现<a href="http://www.milw0rm.com/">milw0rm</a>的feed又有更新。马上用FireFox打开，成功。<br>
+milw0rm is back!"</i>
+➜互联网上的叛国罪
+https://www.solidot.org/story?sid=12286	19200
+《经济学人》杂志报道，一位因在Youtube上发布嘲弄泰国王室视频的泰国网民被判了10年徒刑，罪名是冒犯君主。与此同时，<a href="http://ecocn.blogbus.com/logs/42092806.html">泰国政府的网络审查也变本加厉</a>。<i>
+自2008年3月以来，泰国信息通信技术部以冒犯君主为由，封杀了8300个网页。出于其他各种理由，泰国警察当局封锁了另外32500个网页。2007年，YouTube 曾经被封锁达几个月之久。互联网不仅受制于冒犯君主法，也被其他法律压制，如2007年开始实施的计算机犯罪法。在泰国当局眼里，粘贴对王室无理的视频就属于危害国家安全。计算机犯罪法是由军方指定的立法会通过....同时，当局也追查没有及时删除激进帖子的网站管理员。新闻网站Prachatai.com的站长Chiranuch Premchaiporn被指控没有删除一位用户攻击王后诗丽吉的评论。</i>
+➜被用于对美韩发动攻击的僵尸电脑将会自毁
+https://www.solidot.org/story?sid=12287	24600
+数以万计的运行Microsoft Windows系统的计算机感染了Mydoom蠕虫，组成了对美国和韩国的政府网站发动连续的<a href="__SLASHLINK__" sect="internet" sid="09/07/09/0227203" sn="article" tid="100">拒绝访问攻击</a>的僵尸网络。有证据显示，被用于传播攻击的恶意代码会<a href="http://it.slashdot.org/story/09/07/10/0452256/Korean-DDoS-Bots-To-Self-Destruct">抹掉受害者电脑上的数据</a>。<i>
+安全公司SecureWorks的恶意程序研究主管Joe Stewart<a href="http://voices.washingtonpost.com/securityfix/2009/07/pcs_used_in_korean_ddos_attack.html">发现</a>，推动此次攻击的应用程序是Mydoom蠕虫的一个变种，被设计从一系列Web服务器上下载恶意程序包，其中包括了一种特洛伊木马程序，它会用“纪念美国独立日（memory of the independence day）”和许多“u”字符信息去覆盖硬盘上的数据，这些数据会被写入物理硬盘的每一个扇区。Stewart已在实验室中测试了木马的自毁功能。</i>
+➜中国网络上瘾者进入军训夏令营治疗
+https://www.solidot.org/story?sid=12288	26160
+许多中国父母发现他们的孩子出现了诸如抑郁等心理症状、出现反社会行为，以及成绩下滑。他们认为祸首是网络成瘾。至于网络成瘾标准，北京军区总医院医学成瘾中心主任陶然<a href="http://www.chinanews.com.cn/jk/jk-xljk/news/2009/07-06/1762522.shtml">认为</a>，“平均每日连续使用网络时间达到或超过6小时，且出现难以抑制上网等症状标准已达到或超过3个月，就视为网瘾”。许多父母把孩子送到了
+戒网中心进行治疗，<a href="http://yro.slashdot.org/story/09/07/09/2312202/Chinese-Web-Addicts-Get-Boot-Camp-Therapy?art_pos=4">接受军事化管理</a>。
+<i>
+课程开始前，孩子先要接受一系列测试，包括生理的和心理的。如果脑部检测表明，孩子的一些指标偏低，就需要通过药物来提升他们的<a href="http://zh.wikipedia.org/w/index.php?title=%E5%A4%9A%E5%B7%B4%E8%83%BA&amp;variant=zh-hans">多巴胺</a>水平，据说这样可以控制他们的一些抑郁和狂躁倾向。戒除网瘾的课程包括：上午接受团体性的心理疏导，下午军训，晚上看新闻并点评。每周还有游泳、拓展等课程，即心理、医学、军训、教育和社会体验“五位一体”的治疗模式。</i>
+➜Linux桌面应用程序，Mono超过Java
+https://www.solidot.org/story?sid=12289	28200
+Linux桌面应用程序中，微软.NET技术的开源实现<a href="http://tech.slashdot.org/story/09/07/09/2131245/Mono-Outpaces-Java-In-Linux-Desktop-Development">Mono比Java更受欢迎</a>。分析师Stephen O'Grady称，过去两到三年里，使用Mono开发Linux桌面应用的数量越来越多，如Banshee音乐播放器，Tomboy桌面笔记程序等。Mone的优势之一是它的集成开发工具MonoDevelop一直在进步，而相比较之下Java的开发工具Eclipse、NetBeans的发展却处于相对停滞状况，Java开发者常用的JetBrains IntelliJ却是商业产品而非开源产品。但Mono未必会一直领先，Java正在迎头赶上。
+➜微软更新SQL Services产品名称
+https://www.solidot.org/story?sid=12290	30600
+<a href="http://livesino.net/">picturepan2</a> 写道<i> "微软已经将其 SQL Services<a href="http://livesino.net/archives/2123.live">更名为</a> Microsoft SQL Azure，而 SQL 数据服务（即 SQL Data Services）更名为 Microsoft SQL Azure Database。除此之外，产品本身并无更新。
+微软下周一举办的 Microsoft World Partner Conference 将会宣布更多微软“软件+服务”新闻和更新，而昨天提到的 Office Web Apps 猜测已被不少人证实。
+"</i>
+➜RMS开玩笑，惹恼女权运动支持者
+https://www.solidot.org/story?sid=12291	30960
+自由软件基金会主席Richard M.Stallman（RMS）参加了Gran Canaria桌面峰会，并进行了主题演讲。在演讲中RMS开了一个玩笑，称“EMAC virgins是指从未用过EMAC的女性”，“解脱”这个“处女”是一项“神圣的责任”。<i>
+结果这个玩笑话被某些人认为是<a href="http://www.osnews.com/story/21803/Richard_Stallman_s_Possibly_Sexist_Remarks_at_GCDS">贬低和侮辱妇女</a>。GNOME基金会质询委员会成员David "Lefty" Schlesinger要求RMS向出席会议的听众——尤其是女性听众——道歉，指责这番言论过于轻率，太不顾及他人，表现出了男性至上主义。RMS回复称，他不认为自己欠任何人一次道歉，他只是取笑一下宗教和他自己，认为对方的这番言论是对他个人的攻击。Schlesinger将两人的<a href="http://opensourcetogo.blogspot.com/2009/07/emailing-richard-stallman.html">电子邮件通信内容</a>在博客上公开。</i>
+➜新《机甲战士》宣布，《机甲战士4》将免费
+https://www.solidot.org/story?sid=12292	34500
+Smith and Tinker和<a href="http://games.ign.com/objects/665/665338.html">Piranha Games</a>宣布即将推出<a href="http://games.slashdot.org/story/09/07/09/1753230/New-MechWarrior-Announced-MechWarrior4-To-Be-Distributed-Free">新版的《机甲战士》</a>，新游戏不叫《机甲战士V》，因为它是这个经典游戏系列的一次复兴。Smith and Tinker的共同创始人Jordan Weisman（他也是FASA创始人之一，BattleTech宇宙的作者之一）从微软手中购买到了《<a href="http://en.wikipedia.org/wiki/MechWarrior_(video_game_series)">机甲战士</a>》的著作权，新游戏预计将在2010年上市，开发商已经发布了预告片（<a href="http://pc.ign.com/dor/objects/18954/mech-warrior-project/videos/mechwarrior_trl_phoenix_70709.html">1</a>，<a href="http://pc.ign.com/dor/objects/18954/mech-warrior-project/videos/mechwarrior_spc_rewindtheaterr_070809.html">2</a>）。<i>
+为了庆祝<a href="http://zh.wikipedia.org/wiki/BattleTech">BattleTech</a>诞生25周年，Smith and Tinker<a href="http://www.smithandtinker.com/news/mechwarrior-to-be-distributed-free-on-battletech-com.php">宣布</a>将免费提供《机甲战士4》（及其资料片）下载。</i>
+➜美国花1800万美元重新设计Recovery.gov
+https://www.solidot.org/story?sid=12293	36000
+美国经济需要刺激，跟踪政府经济刺激支出的网站Recovery.gov同样需要被刺激。/.<a href="http://news.slashdot.org/story/09/07/09/1711238/Recoverygov-To-Get-18-Million-Redesign">报道</a>，美国将花1800万美元<a href="http://blogs.abcnews.com/thenote/2009/07/18m-being-spent-to-redesign-recoverygov-web-site.html">重新设计Recovery.gov</a>。Recovery.gov 2.0将使用创新和交互式技术去帮助纳税人知道每一分钱的去处。美国总务管理局（GSA）在一份新闻稿中称，合同授予了马里兰公司Smartronix。
+➜软件能将2D图像变成3D模型
+https://www.solidot.org/story?sid=12294	40800
+作为八年3D图像研究的果实，昆士兰理工大学的David McKinno博士设计出一款软件，彻底变革3D模型创造的方式。他建立了<a href="http://3dsee.net/">3dsee.net</a>网站，允许注册用户使用原型软件<a href="http://tech.slashdot.org/story/09/07/09/1512259/Software-Converts-2D-Images-To-3D">将2D图像变成3D模型</a>。<i>
+McKinnon博士称，电影和视频游戏行业需要很长的时间才能制作出所需要的3D模型，而3dsee只需要几分钟。要创造出<a href="http://3dsee.net/Gallery">3D物体模型</a>，你必须提供5到15张的连续照片，其重叠部分必须至少有80%到90%。因此在拍摄一物体的视频之后，设法提取出每N帧照片，软件便能将物体转变成3D。McKinnon博士称，完整版本的软件能创造出3D动态镜头，类似《黑客帝国》中著名的子弹时间。他称软件能自动的定位和找到共同点，判断摄像机的位置和照片拍摄时间。使用映像图形技术，这些信息可被用于从图像创造出3D模型。他声称软件能让任何物体变得栩栩如生，使模型看起来和像真的一样。McKinnon博士认为他的软件适用于博物馆展示，甚至让农民制造出3D的牛，在类似eBay进行拍卖。电影，动画，电脑游戏将能从中受益，人们也可以创造出脸部的3D模型，应用在他们在虚拟游戏和3D社交网站中的虚拟化身上。</i>
+➜SourceForge2009年度的最佳开源项目投票
+https://www.solidot.org/story?sid=12296	57600
+Unkown 写道<i> "<a href="https://sourceforge.net/community/cca09/vote/">投票地址点击这里</a>。大家为自己喜欢的开源项目助威吧！话说回来，最重头的Best Project奖里的候选项目都不如Best New Project和Best Project For Academia里的让人鸡冻。"</i>

@@ -1,0 +1,84 @@
+➜Telex：新型反审查系统
+https://www.solidot.org/story?sid=25057	2700
+美国密歇根大学和加拿大滑铁卢大学的研究人员正在开发一种新型的绕过政府审查的方法，这套系统被称为<a href="https://telex.cc/people.html">Telex</a>，它<a href="http://lwn.net/Articles/451971/#Comments">寄希望</a>于某些ISP的良好意愿。<i>
+在互联网上冲浪，用户的流量需要经过一系列路由器才能抵达目标网站，从本地ISP路由到骨干路由，其中可能经过无审查国家的ISP。研究人员设想，这些ISP中有些能部署被称为Telex station的设备，此种设备的密钥能识别出Telex客户端的连接，然后解密HTTPS连接，将流量重定向到一个反审查服务器，如代理服务器或Tor节点，Telex客户端就能访问屏蔽的网站。这种方法在Telex用户和Telex station之间建立了加密通道。研究人员已经开发出一个试验用的<a href="https://telex.cc/software.html">概念验证原型</a>，<a href="https://github.com/ewust/telex">源代码</a>发布在Github上。
+</i>
+➜LulzSec攻击太阳报，伪造默多克死亡新闻
+https://www.solidot.org/story?sid=25058	5520
+曾宣布解散的匿名组织分支LulzSec<a href="http://arstechnica.com/tech-policy/news/2011/07/lulzsec-takes-on-the-murdoch-empire-with-sun-hack-fake-death-claim.ars">又复活了</a>，新闻集团旗下小报《世界新闻报》的电话窃听丑闻引起了他们的兴趣。<i>
+《世界新闻报》的窃听丑闻已经愈演愈烈，伦敦大都会警察总监辞职，首相卡梅伦因为与《世界新闻报》过于接近而<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2011/07/110718_life_hacking_scandal.shtml">遭到指责</a>，而丑闻揭发人还被发现<a href="http://www.bbc.co.uk/zhongwen/simp/uk/2011/07/110718_hacking_death.shtml">死于家中</a>。LulzSec在这种情况下入侵了新闻集团英国子公司新闻国际的服务器，在太阳报上发表了新闻集团老板鲁珀特 ·默多克的死讯，声称他在花园绊倒摔死，并称他在死前摄入了大量钯粉。黑客是通过将太阳报首页重定向到其服务器去传播虚假新闻，它还声称获得新闻国际雇员的电子邮件地址和密码，其中包括前执行官Rebekah Brooks。
+</i>
+➜Google推出新缩址服务g.co
+https://www.solidot.org/story?sid=25059	7500
+<a href="http://goofan.net/">谷饭</a> 写道 <i>"长长的网址往往会让使用者头痛不已，而短小精悍的网址则更适合分享和记忆。想要化腐朽为神奇，也许你可以考虑尝试下Google的短网址服务。Google收购了域名G.co，官方博客<a href="http://googleblog.blogspot.com/2011/07/gco-official-url-shortcut-for-google.html">宣布</a>将用之于缩址服务。与之前推出的<a>goo.gl</a>不同，这次的 g.co只针对Google自家的网站，所以使用时可以对链接的那一头完全放心。<a href="http://www.pcworld.com/article/235958/google_acquires_gco_domain_for_its_shortened_urls.html">与之类似的是</a>，Twitter购买了T.co，亚马逊购买了A.co、Z.co、K.co和Cloud.co，Overstock购买了O.co。"</i>
+➜只有非洲人种没发现尼安德特人基因
+https://www.solidot.org/story?sid=25060	8280
+<a href="http://zh.wikipedia.org/wiki/%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA">尼安德特人</a>是人类的近亲，他们的祖先大约是在40万到80万前离开非洲，迁移到现在属于法国、西班牙、德国和俄罗斯等的欧亚大陆地区，直到2.5万年到3万年前灭绝。而现代人类的祖先则是在不到10万前离开非洲，此前已经发现人类在与尼安德特人接触中有过跨种性交。现在，根据发表在《分子生物学与演化》期刊上的<a href="http://mbe.oxfordjournals.org/content/early/2011/01/25/molbev.msr024.abstract">最新研究</a>，除了非洲人种外，其它人种的X染色体中<a href="http://science.slashdot.org/story/11/07/18/211259/Neanderthal-Genes-Found-In-All-Non-African-Populations">都发现了</a>尼安德特人基因，显然是迁移出非洲的人类祖先和尼安德特人交配留下的纪念物。
+➜《连锁世界》游戏旨在创造出宗教氛围
+https://www.solidot.org/story?sid=25061	10800
+《连锁世界（Chain World）》不是普通的游戏，<a href="http://www.wired.com/magazine/2011/07/mf_chainworld/all/1">它旨在营造出一种宗教氛围</a>，玩家从来只有一个，虚拟世界中的角色将会至死方休，然后由另一个玩家延续传奇。<i>
+33岁的Jason Rohrer于2月24日在百思买花20美元购买了有塑料保护套的4GB U盘，他将创造一个以前从未有过的游戏。游戏只存在于U盘中，不会存在于其它地方。根据Rohrer制定的规则，地球上同一时间只有一个人玩这个游戏，玩家可以通过移动修改游戏内环境，直到角色在游戏中死亡为止。然后他们将U盘交给另一个人，他将在前任改造过的数字环境中继续游戏——如此这般经历一年，十年，数代人，数个时代。在Rohrer心目中，他的游戏将集许多宗教品质于一身——圣柜，戒律，隐秘、死亡和神秘期待感。然而，事情的发展往往会出乎人的意料。现在，他计划创造一个概念类似的在线版本。</i>
+➜比尔克林顿建议将屋顶刷成白色
+https://www.solidot.org/story?sid=25062	12960
+<a href="__SLASHLINK__" sect="science" sid="10/02/01/0335217" sn="article" tid="6">研究发现</a>屋顶涂成白色可能降低市区温度，而美国能源部长朱棣文则建议<a href="__SLASHLINK__" sect="science" sid="09/05/28/040248" sn="article" tid="71">全世界的屋顶刷成白色</a>，旨在对抗全球变暖。现在，美国前总统比尔克林顿也提出把<a href="http://politics.slashdot.org/story/11/07/18/1951240/Bill-Clinton-Says-Paint-Your-Roofs-White">所有黑屋顶刷成白色</a>。他说，纽约的每个黑色屋顶都应该是白色，芝加哥的每个屋顶也应该是白色的，小石城的屋顶也应变白。任何地方的沥青屋顶都应该成白色。他声称，许多地方只需要用一周时间就能收回涂料的费用和劳工成本。他说，“冷色屋顶”不仅能减少每座公寓10%至20%的费用开支，而且这笔可自由使用的现金还能促进经济增长。
+➜中国哈利波特粉丝动员看《建党伟业》
+https://www.solidot.org/story?sid=25063	17280
+《哈利波特》系列电影的大结局创造了空前绝后的惊人成绩，刷新了周五/周末票房纪录，首映三天票房达到1.69亿美元，全球接近5亿美元。但中国没有同步上映，原因是一部叫《建党伟业》的献礼片霸占了火热的夏天影院，它迫使《变形金刚3》推迟到本周上映，《哈利·波特与死亡圣器（下）》推迟到8月4日，比全球公映晚了2到3周。南方周末电影记者李宏宇说，在中国，电影不是当作消费商品，而是被用作教育和舆论目的。他认为中国比十年前有进步，这次它没有要求党员前往影院观看《建党伟业》。哈利波特粉丝开玩笑的说，他们应该帮助实现政府的目标——实现八亿人民币票房——以推动电影提前放映。他们在百度贴吧上说，哈利波特和变形金刚粉丝应该联合起来，<a href="http://www.guardian.co.uk/world/2011/jul/18/china-harry-potter-communist-epic">动员父母叔姨祖父母去看《建党伟业》</a>。独立电影分销商dGenerate Films的副总裁Kevin Lee说，<a href="http://www.nytimes.com/2011/07/18/movies/in-china-no-harry-potter-until-revolutionary-epic-is-a-hit.html">政府可以控制整个系统和上映的电影</a>，但人们在最后还是去观看他们想看的电影。
+➜Linux 3.0推迟发布
+https://www.solidot.org/story?sid=25064	19200
+Linus Torvalds在其Google+帖子中暗示，<a href="http://linux.slashdot.org/story/11/07/19/0313215/Linux-30-Release-Delayed">Linux kernel 3.0将延期发布</a>，原因是发现了一个狡猾的路径名查找bug。Linus称，补丁已经有了，问题也搞清楚了，bug看起来已经得到修正，但他不会在打上补丁几个小时之后就立即发布Linux 3.0。
+➜艾滋病治疗帮助患者达到正常寿命
+https://www.solidot.org/story?sid=25065	20520
+加拿大研究人员的一项研究显示，获得联合抗逆转录病毒疗法（cART）的非洲艾滋病患者<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-07/aaft-htp071411.php">预计可能达到正常寿命</a>。<i>
+研究分析了22,315位年龄在14岁和14岁以上的患者，他们于2000年到2009年间在艾滋病支持组织（TASO）的诊所接受了联合抗逆转录病毒疗法（cART）治疗。乌干达平均预期寿命大约是55岁，寿命将随着人活过关键点<a href="http://www.geekonomics10000.com/445">而增加</a>。对于整个受试者群体，20岁时候的预期寿命是还能活26.7年，35岁时候还能活27.9年。这项研究是对接受联合抗逆转录病毒疗法的非洲病人的预期寿命的首个大规模分析，它表明了病人组之间的显著差异。女性比男性的预期寿命显著更长，在所有参与者中，尽早开始治疗与更长的预期寿命有联系。研究负责人Edward Mills教授说，感染艾滋病病毒的人们应该为一个长期而充实的生活做出规划和准备。</i>
+➜IE6在中国依旧坚挺
+https://www.solidot.org/story?sid=25066	21840
+<a href="mailto:wangze500@gmail.com">wangze500</a> 写道<i> "Net Applications估计IE6在中国占有33.8%的份额，StatCounter估计约有40.2%。考虑到目前有4.77亿中国的网民，也就是说目前<a href="http://www.conceivablytech.com/8304/business/why-microsoft-cant-get-rid-of-ie6-yet">中国还有1.6亿到1.92亿IE6用户</a>。这可能超过非洲和中东所有网民的总和(1.87亿)。"</i>
+<a href="http://liulanqi.baidu.com/index.html">百度</a>和<a href="http://www.rising.com.cn/2011/rse/">瑞星</a>相继推出了自己的浏览器，应该能推动IE6份额的减少。
+➜测试GNU Hurd
+https://www.solidot.org/story?sid=25067	23040
+Debian GNU/Hurd预计将在2012年底发布。Phoronix.com进行了<a href="http://www.phoronix.com/scan.php?page=article&amp;item=debian_gnu_hurd&amp;num=1">一番性能基准测试</a>，对比了Debian GNU/Hurd和Debian GNU/Linux。<i>
+Debian GNU/Hurd Wheezy最新快照只支持i386架构，图形安装程序无法正常工作，但可以用文本安装，它的文件系统是EXT2，所有测试是在KVM/QEMU模拟器中完成，原因是GNU/Hurd的硬件支持目前实在惨不忍睹，类似Linux 2.0时代的情形。测试结果显示，GNU/Hurd和 GNU/Linux的性能相差无几，Linux略快。
+</i>
+➜污染影响胎儿发育
+https://www.solidot.org/story?sid=25068	24480
+中国研究人员在《美国科学院学报》上发表<a href="http://www.pnas.org/content/early/2011/06/30/1102241108.abstract">报告</a>称，吸入煤烟和接触农药的孕妇生育先天残障婴儿的可能性比没有接触这些污染物质的孕妇高四倍。<i>
+他们对80个存在脑部和脊椎残障的新生婴儿和堕胎死婴进行研究后发现，这些婴儿的母亲胎盘中的化学物质含量远远高于正常婴儿的母亲胎盘中的化学物质含量。他们发现了高含量的DDT、六六六等农药物质和煤烟中所含的碳氢化合物多环芳烃。研究报告说，很显然是过度煤烟和农药粉尘导致了这些婴儿的先天性残障。研究人员调查了山西省四个县的农村孕妇。他们发现，在每1000名新生婴儿中，有14个患有先天性脑部与脊椎残障。<a href="http://www.bbc.co.uk/zhongwen/simp/science/2011/07/110719_pollution_birthdefects.shtml">这一数字远远高于中国的平均水平</a>。</i>
+➜太阳系周围可能存在“超冷”的褐矮星
+https://www.solidot.org/story?sid=25069	25920
+天文学家在距离太阳系较近的地方发现了两颗褐矮星，两颗“失败”的恒星距离我们分别只有15和18光年。距离太阳最近的恒星是半人马座比邻星，只有区区4光年。但这项发现值得注意的是，比邻星是红矮星，而它们是褐矮星，也许在太阳系附近的星际空间中，<a href="http://news.discovery.com/space/could-ultracool-brown-dwarfs-surround-us-110718.html">也可能发现表面温度极低的褐矮星</a>。<i>
+两颗褐矮星编号为WISE J0254+0223和WISE J1741+2553，它们属于最冷的T级褐矮星，也就是表面温度低于225摄氏度。天文学家认为，不能排除我们周围存在超冷褐矮星的可能性。
+</i>
+➜芬兰最大ISP拒绝屏蔽海盗湾
+https://www.solidot.org/story?sid=25070	27000
+国际唱片业协会芬兰分支以及版权和反盗版中心向赫尔辛基地区法院提起诉讼，要求芬兰最大ISP Elisa 屏蔽访问海盗湾，他们辩称这是减少盗版的唯一实际方案。虽然Elisa没有从根本上反对帮助版权组织打击打败，但该公司副总裁Panu Lehti说，<a href="http://torrentfreak.com/isp-refuses-to-block-the-pirate-bay-110717/">版权组织的要求是不可接受的</a>，他认为只要求一家ISP屏蔽海盗湾不合理。Lehtis称，审查方法是有缺陷的，成功屏蔽海盗湾从技术上证明是“非常困难或不可能”。
+➜科学家可能发现了长跑基因
+https://www.solidot.org/story?sid=25071	29520
+实验室老鼠通常只能在跑步机上练练短跑，但缺少名为IL-15Rα基因的老鼠却能每晚连续跑上几个小时，<a href="http://news.sciencemag.org/sciencenow/2011/07/missing-gene-helps-mice-run-for-.html?rss=1">这个基因可能与长跑运动员的长跑能力有关联</a>。<i>
+先前的研究发现，IL-15Rα对肌肉力量至关重要，但它从未在活动物上测试过。宾夕法尼亚大学的生理学家Tejvir Khurana和同事利用基因工程技术改造了老鼠，使其缺乏IL-15Rα基因。变化的效果十分明显，根据鼠笼中轮子上的传感器记录，基因改造老鼠跑步时间比普通老鼠长6倍。接着，研究人员剖开长跑老鼠的肌肉，发现增加了许多产生能量的线粒体和肌纤维，显示它们比较不容易累倒。Khurana还与澳大利亚研究人员合作研究IL-15Rα对人类的影响，澳大利亚保留了顶尖运动员的基因样本库。他们发现，参加长距离自行车和赛艇等需要长时间耐力比赛项目的运动员比短跑运动员，IL-15Rα基因的某个变种出现的频率更高。
+</i>
+➜中国中产阶级之谜
+https://www.solidot.org/story?sid=25072	31800
+bonnae1982 写道 "<i>六月全国人大常委会二次审议<a href="__SLASHLINK__" sect="society" sid="11/06/30/0826208" sn="article" tid="48">个税法修正案草案</a>，将个人所得税法起征点从3000提高到3500元，财政部税政司副司长王建凡称，修改个税起征点后，纳税人数由约8400万人减至约2400万人，如果把月净收入3500元以上作为中国中产阶级的标准，而不考虑3500元这个最低门槛是否在中国的一线城市过上优渥而又尊严的生活，那么中国的中产阶级只有2400万，这与之前海内估计的中国中产阶级至少过亿，和中国已经成为<a href="http://news.163.com/09/0919/21/5JJT4KUT000120GU.html">世界第二大奢侈品消费大国</a>的事实都不大相符，而此前，西方一直都把中国的<a href="http://www.google.com.tw/search?hl=zh-TW&amp;source=hp&amp;biw=1024&amp;bih=562&amp;q=%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7+%E6%B0%91%E4%B8%BB%E5%8C%96+&amp;btnG=Google+%E6%90%9C%E5%B0%8B&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=">民主化建构在中国的中产阶级身上</a>。
+</i>旅美经济学家何清涟女士认为可能的<a href="http://voachineseblog.com/heqinglian/2011/07/mid-class-disappear/#more-565">原因</a>，有三个是：1，中国政府以往对收入分配不均的现象严重估计不足，极度夸大了中国中产阶级的数量，而外国那些研究机构是雾里看花。2，是中国存在大量的灰色经济与灰色收入。既然是“灰色”的，这些钱自然会被漏统，当然也不会出现在可以在阳光下晾晒的国民收入表上。3， 中国的财富集中在极少数人手中，这些人的财富远远超过外人的猜测数量。"
+➜密码背后的科学
+https://www.solidot.org/story?sid=25073	33480
+微软MVP Troy Hunt上月分析了<a href="__SLASHLINK__" sect="internet" sid="11/06/07/1154212" sn="article" tid="100">索尼用户密码习惯</a>，发现：用户使用的密码长度很短，多为6到10个字符；十分简单，不到1%的人使用非字母数字字符；可以预测，超过三分之一的密码是字典中的常见单词。现在，他<a href="http://www.troyhunt.com/2011/07/science-of-password-selection.html">进一步研究了人们选择密码背后的依据</a>。<i>
+他发现，14%用户的密码是基于人名，最常见的三个名字是maggie、michael、jennifer；8%的密码是基于地名，最常见的三个地名是dallas、canada、boston；25%的密码是基于字典字，用户最爱用的单词是 password、 monkey、dragon；14%的密码全是数字，最常用的三个数字密码是123456、12345678、123456789；2.7%的密码是双单词组成，如 blahblah、poopoo、lovelove；2.6%的密码与邮件地址完全一样，如邮件地址是murphy666@…，密码是murphy666；1.3%的密码是短语，如trustno1 、letmein 、iloveyou ；0.7%的密码是基于键盘布局，如qwerty、asdfgh 、asdf1234 ；0.4%的密码是基于网站名字，如Gawker用户使用密码Gawker，Sony Pictures用户选择密码sony123，pron.com用户使用密码ilovepron...</i>
+➜面部识别软件认错人
+https://www.solidot.org/story?sid=25074	36720
+马萨诸塞州Natick居民John H.Gass多年来遵纪守法，未收到交通违章通知单。然而在今天春天，他收到了马萨诸塞州汽车监理局的一封通知，告诉驾照被吊销。<a href="http://tech.slashdot.org/story/11/07/18/0335204/Facial-Recognition-Gone-Wrong">原来是因为他和另一位司机长得很像</a>，而不是有人假冒他。在与官僚机构扯皮了10天以证明他是谁之后，Gass提起了诉讼。他并不孤独。去年，有超过1000例面部识别系统抓住的嫌疑犯受到了警方的调查，其中有些人确实有罪，有些人不过是外表像另一个人。马萨诸塞州从美国国土安全部获得一笔150万美元的资助，开始利用面部识别软件防御恐怖分子，减少欺诈，提高该州发行的个人身份证明的可靠性和准确性。
+➜Mozilla将支持标签独立进程
+https://www.solidot.org/story?sid=25075	37920
+Mozilla Web平台主管Chris Blizzard在博客上发表<a href="http://blog.mozilla.com/products/2011/07/15/goals-for-multi-process-firefox/">文章</a>称，Firefox<a href="http://arstechnica.com/open-source/news/2011/07/mozilla-outlines-goals-for-multiprocess-browsing-implementation.ars">将支持标签独立进程</a>。<i>
+多进程架构已为主流浏览器普遍采用，如Firefox支持独立插件进程，但Chrome和IE9则进一步支持独立标签进程。Mozilla从2009年开始探索独立进程浏览方式，它的长期目标也是独立标签进程。但在短期内Firefox用户还体验不了这项功能，Firefox 6和7都不包含该功能，目前 Mozilla也未透露时间表。Blizzard的文章阐述了独立标签进程的优点，如改进用户界面的响应，充分利用多核处理器的能力，防止因某一标签崩溃而导致整个浏览器崩溃；支持细粒度安全沙盒功能。独立标签进程可能会影响浏览器的内存占用，但Blizzard说这能减少内存碎片问题，在关闭标签后可以释放出内存。</i>
+➜大学教师要求学生带 iPad 上课
+https://www.solidot.org/story?sid=25076	39600
+<a href="http://www.shmtu.edu.cn/">lot</a> 写道<i> "据《新闻晚报》<a href="http://newspaper.jfdaily.com/xwwb/html/2011-07/19/content_616858.htm">报道</a>, 上海海事大学一名英语教师在微博上表示, "每位学生应购置一台iPad, 如果你没钱去赚钱买. 如果你暑假两个月赚不到区区四千元, 你不适合学金融, 也没必要做我的学生. " 该老师认为, "iPad代表最先进的思想, 我的学生也必须如此. 贫富不反映你的家境, 却反映你的能力. " 此外, 他还要求 "男生穿西服+衬衫+领带+口口袋巾+皮鞋, 女生须全套化妆. 欲学金融, 先把自己变成个学金融的样子. "<br>这些话很快引发争议. 该老师<a href="http://news.ifeng.com/society/2/detail_2011_07/19/7788333_0.shtml">表示</a>对先前的微博留言 "有些后悔" , 并解释说微博上的话可能被网友误解了, 其本意只是推荐和建议, 并非强制要求. 但<a href="http://daxue.163.com/11/0719/16/79BBPSRS00913J5O.html">另有同学</a>称, 该老师又用英文开了一个微博说: "让学生闭嘴的方式就是用英文写博客, 六级词汇就够了, 而托福词汇就将把多嘴的学生淹没在字典的海洋. ""</i>
+➜中国网民达到4.85亿，增长放缓
+https://www.solidot.org/story?sid=25077	40320
+根据官方机构中国互联网络信息中心（CNNIC）<a href="http://www.cnnic.net.cn/dtygg/dtgg/201107/t20110719_22132.html">发布</a>的《<a href="http://www.cnnic.net.cn/dtygg/dtgg/201107/W020110719521725234632.pdf">第28次中国互联网络发展状况统计报告</a>》(PDF)：截至2011年6月底，中国网民规模达到4.85亿，较2010年底增加2770万人，增幅仅为6.1%，增长减缓，互联网普及率36.2%，与美国的<a href="http://www.pcworld.com/businesscenter/article/235978/china_reaches_485_million_internet_users_as_growth_slows.html">77.3%</a>仍然相距甚远。<i>
+报告是根据CNNIC电话调查3万用户，再结合网上调查和统计数据得出的。报告称，网民总数4.85亿，其中宽带上网3.90亿，手机上网3.18亿，上网设备主要是台式机、手机和笔记本，91.3%的网民在家上网，平均每周上网时长为18.7个小时；男女性别比例为55.1：44.9；20-29岁网民占31%；域名总数为786万，与半年前的<a href="__SLASHLINK__" sect="internet" sid="11/01/19/1035205" sn="article" tid="120">866万</a>相比减少了80万，.CN域名总数为350万，与半年前的435万相比减少了85万，域名减少与去年相比有所放缓；网站数量为183万，比半年前的191万减少8万，在2009年高峰期间网站数量曾达到323万；微博用户达到1.95亿，半年内增长了超过两倍；社交网站用户为2.30亿，比2010年底减少516万；国际出口带宽1,182,261.45Mbps，IPv4地址数量为3.32亿。</i>
+➜南昌频发“跳楼秀”
+https://www.solidot.org/story?sid=25078	42480
+wmr 写道 <i>"进入7月以来，南昌市平均<a href="http://www.chinanews.com/sh/2011/07-19/3193557.shtml">每天</a>都要上演一起“跳楼秀”。在这些“跳楼秀”中，有的是为了发泄心中不满，还有的是为了接到施工单位拖欠的工资，这些跳楼事件都平均耗时在两个小时左右，最长的有六七个小时。一般救援一次要出动两辆消防车，每辆消防车来回的费用大约为50元，每铺设一块气垫的费用大约耗去油费100元，每个消防战士一天的劳务费为100元左右，军官在200元左右。每次出动的消防战士平均为六名左右，这样下来一次救援大约要耗费千元。"</i>

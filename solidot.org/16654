@@ -1,0 +1,49 @@
+➜微软开源iOS应用兼容层
+https://www.solidot.org/story?sid=45048	9834
+微软<a target="_blank" href="http://arstechnica.com/information-technology/2015/08/microsoft-open-sources-most-of-its-ios-apps-on-windows-compatibility-layer/"><u>开源了</u></a> Windows Bridge For iOS——让Windows能运行iOS应用的兼容层，<a target="_blank" href="https://github.com/Microsoft/WinObjC"><u>代码</u></a>托管在GitHub上。微软是在今年的 Build开发者大会上<a target="_blank" href="http://www.solidot.org/story?sid=43899"><u>透露了</u></a>两个让Windows能运行Android和iOS应用的项目，其中让iOS应用运行在Windows上的项目称之为Project Islandwood。微软现在将大部分的Project Islandwood开源，使用Windows Bridge For iOS，Objective-C程序员将能开发运行在Windows生态系统的Universal Windows Apps。Project Islandwood堆栈包含了4个部分： Objective-C编译器、 Objective-C运行时、在Windows上实现的iOS API库，Visual Studio整合。微软开源的是iOS API实现库和Objective-C运行时。
+➜新黑客设备可以解锁大部分汽车
+https://www.solidot.org/story?sid=45049	10328
+知名安全研究人员<a target="_blank" href="https://en.wikipedia.org/wiki/Samy_Kamkar"><u>Samy Kamkar</u></a>（生于1985年）<a target="_blank" href="https://threatpost.com/gone-in-less-than-a-second/114154"><u>造出了</u></a>一个被称为Rolljam的黑客设备，只有钱包大小，但能拦截大部分汽车和车库门的解锁码。该设备可以隐藏在汽车下面，当车主接近汽车，用钥匙远程解锁汽车，Rolljam能捕捉和储存解锁汽车的唯一码，供以后使用。解锁汽车的唯一码是一次性使用，汽车拒绝接受重复代码解锁，这一机制就是为了防止唯一码被人拦截。Rolljam的方法是堵塞信号，让汽车无法接收到解锁的唯一码。当车主第一次按下钥匙按钮发现无法解锁之后，他或她会重复按下按钮，这一次Rolljam不会拦截，但它已经获得了一个没有使用过的唯一码。Samy Kamkar称，这种方法对大部分汽车和车库门都有效。
+➜朝鲜创造自己的时区
+https://www.solidot.org/story?sid=45050	12750
+朝鲜<a target="_blank" href="http://bigstory.ap.org/article/28cd377ed9504de2b0b88218af0db552/north-korea-set-clocks-back-30-minutes-south"><u>决定不与韩国和日本共享时区</u></a>，它宣布将创造自己的时区，从8月15日起把全国时区向后推迟30分钟。 朝中社<a target="_blank" href="http://chinese.yonhapnews.co.kr/international/2015/08/07/0301000000ACK20150807000200881.HTML"><u>表示</u></a>，日本帝国主义者曾侵占朝鲜领土，推行民族压迫政策，甚至将朝鲜的标准时间擅自改为日本标准时间，这是不可容忍的犯罪行为。8月15日是朝鲜民族摆脱悲惨命运的日子，具有重大的历史意义。韩国表示，它使用与日本相同的时区是出于实用性和遵守国际惯例。
+➜中国严打自拍色情视频
+https://www.solidot.org/story?sid=45051	14800
+中国社交媒体最近广泛流传了多个自拍的色情短视频，其中流传最广的是上个月北京三里屯优衣库试衣间的视频。中国扫黄打非办<a target="_blank" href="http://www.shdf.gov.cn/shdf/contents/767/257443.html"><u>随即启动了</u></a>微色情视频的专项整治运动，在社交平台严打此类视频的的传播。与此同时，流行的色情视频网站Pornhub<a target="_blank" href="http://www.pornhub.com/press/show?id=692"><u>则推出了</u></a>名为Pornhub Premium的付费订阅服务，向订阅者提供高清和无广告的成人视频，该服务月费为9.99美元。Pornhub将从第三方版权持有者获得成人视频的播放许可。
+➜助教帮助学生作弊被判入狱一年
+https://www.solidot.org/story?sid=45052	17357
+一名在电脑植入按键记录器窃取教师登录凭证帮助学生作弊的南加州助教Timothy Lance Lai<a target="_blank" href="http://arstechnica.com/tech-policy/2015/08/tutor-who-helped-students-cheat-by-keylogging-teachers-gets-1-year-in-prison/"><u>被判入狱一年和缓刑五年</u></a>。2014年1月，11名Corona del Mar 高中的学生因卷入了按键记录器丑闻遭到开除，其中一名学生声称Lai让他在几名教师的电脑上安装了按键记录器。调查人员怀疑Lai与多达150名学生合作，利用窃取的登录凭证帮助学生修改成绩，查看即将进行的测试材料。Lai本人在事发后一直潜逃在外，直到当年10月在洛杉矶国际机场被捕。根据检方提供的证据，Lai在2013年总共修改了19次学生成绩。
+➜中国制造中的东南亚非法劳工
+https://www.solidot.org/story?sid=45053	26515
+长期以来，中国的工厂一直倚赖国内充裕的廉价劳动力。但随着中国步入老龄化社会以及薪酬上涨，劳动力供应正在减少。工厂主正在想方设法保持优势。他们面临这样的选择：要么把生产从薪酬高的中国沿海地区迁移到内陆省份或者是越境迁移到像越南、柬埔寨等地，要<a target="_blank" href="http://cn.reuters.com/article/2015/08/07/cn-vietnam-job-idCNKCS0QC0J220150807?sp=true"><u>么出钱让蛇头和劳工中介偷渡外籍工人</u></a>——主要来自收入较低的越南和缅甸等东南亚国家，此类工人成本低廉、没有保护，可随意开除。偷渡者必须避开的是本国的边防警察，而中国的边防警察则对偷渡基本视而不见。30岁的Ngoc Duc称，他是非法入境中国的。他说，在中国边境干围栏焊接工每天可挣100元，而在越南一天的收入约为20万越南盾（9美元）。“中国是最好赚钱的地方，”被问及是否担心被中国当局抓住时他说道。“会有越来越多的越南人来中国的。”
+➜所有语言都以相同方式演化
+https://www.solidot.org/story?sid=45054	28841
+你是否想过，为什么你说的是“男孩正和他的狗玩飞盘（The boy is playing Frisbee with his dog）”而不是“男孩狗他的飞盘正玩（The boy dog his is Frisbee playing with）”？根据一项新研究，你可能是试着让大脑休息一下。对37种不同方言的分析发现，尽管它们彼此相差甚远，<a target="_blank" href="http://news.sciencemag.org/social-sciences/2015/08/all-languages-have-evolved-have-common"><u>但它们共享着一种普遍特性</u></a>：所有语言都演化出让交流尽可能的高效。今天的人类使用了7000种语言，它们属于大约150种语言家族。一个句子主要由三部分组成：主语（S）、动词（V）和宾语（O）。英语和法语是 SVO结构语言，德语和日语是SOV语言，阿拉伯语和希伯来语则使用的是VSO次序。尽管语言结构显著不同，但语言都尽可能的限制意义相关单词的距离。举例来说，“简扔掉了垃圾”这句话中“简”依赖于“扔”，它告诉我们谁做了扔的动作，“垃圾”告诉我们扔了什么。
+➜以色列公司声称开发无法攻破的Windows系统
+https://www.solidot.org/story?sid=45055	31465
+以色列创业公司Morphisec<a target="_blank" href="http://uk.businessinsider.com/expert-builds-secure-version-of-windows-2015-8"><u>声称</u></a>正在创造一个无法被攻破的Windows操作系统，所采用的方法是随机化特定应用的内存。该公司的说法<a target="_blank" href="http://tech.slashdot.org/story/15/08/06/1351234/israeli-security-company-builds-unhackable-version-of-windows"><u>引发了争议</u></a>（当然也可能是媒体报道有误），因为Windows从Vista开始就引入了内存随机化，但对于阻止黑客入侵没起到多大作用。Morphisec的联合创始人Dudu Mimran称，这个操作系统是为军事用途开发的，能防止0day漏洞，对于特定Windows应用程序操作系统能随机化所有内存。通过将计算机内存变成一个移动的对象，黑客将难以干扰它，因此也无法破坏系统。 Mimran声称能以100%的成功率阻止黑客攻击。
+➜ICANN再次遭到黑客入侵
+https://www.solidot.org/story?sid=45056	33449
+互联网域名管理机构ICANN再次<a target="_blank" href="https://www.icann.org/news/announcement-2015-08-05-en"><u>发表声明</u></a>，未授权个人获取了ICANN.org账号的用户名、电子邮件地址和加密密码，以及网站偏好和新闻邮件订阅等信息，它已要求所有用户重置密码。ICANN去年底<a target="_blank" href="http://www.solidot.org/story?sid=42345"><u>曾遭到黑客攻击</u></a>，黑客窃取了管理员权限，以及员工信息。最新的攻击发生在上周，调查还在进行之中，目前还没有证据显示
+ICANN的内部系统被未经授权访问。
+➜用JavaScript实现内存位翻转漏洞
+https://www.solidot.org/story?sid=45057	35762
+研究人员在今年初<a target="_blank" href="http://www.solidot.org/story?sid=43254"><u>披露了</u></a>一个利用计算机硬件弱点的Rowhammer攻击方法，现在一个研究团队公布了基于JavaScript的概念验证攻击代码，让看起来不可能利用的物理漏洞<a target="_blank" href="http://arstechnica.com/security/2015/08/dram-bitflipping-exploit-for-attacking-pcs-just-add-javascript/#p3"><u>变得日益实用</u></a>。Rowhammer漏洞是指DRAM临近内存单元之间电子的互相影响，当重复访问特定内存位置数百万次后，攻击者可以让该位置的值从0变成1，或从1变成0。这种位翻转漏洞可以让一个不受信任的应用获得几乎任意的系统权限，或绕过防止恶意代码访问敏感系统资源的沙盒机制。研究人员公布了一个工作在浏览器上概念验证攻击代码<a target="_blank" href="http://arxiv.org/abs/1507.06955"><u>Rowhammer.js</u></a>，目前该代码只适用于默认设置的联想x230 Ivy Bridge 笔记本电脑，或刷新间隔逐渐增加的Haswell CPU。研究人员说，攻击者可以在网站上隐藏脚本，攻击任意的访问者，它能同时攻击数百万系统。
+➜《明报》前总编遇袭案疑凶翻供，称公安逼供
+https://www.solidot.org/story?sid=45058	37092
+《明报》前总编辑<a target="_blank" href="http://www.solidot.org/story?sid=38526"><u>刘进图遇袭案</u></a>在审理中<a target="_blank" href="http://china.caixin.com/2015-08-07/100837594.html"><u>出现大逆转</u></a>。第一被告叶剑华翻供，否认收钱行凶。叶剑华称，内地公安曾对他刑讯逼供，劝其尽早认罪。<i>他说，2014年3月某日晚间，他与第二被告在东莞外出宵夜，突然遇到十几名便衣警察，随后被便衣强行拉上车。后有三名便衣将他带到一间房间，问他是否砍伤刘进图，他否认之后便遭便衣殴打。叶剑华说，被内地公安拘留十天期间，几乎每晚都被盘问到次日清晨。盘问期间，有一名看上去级别较高的内地公安向他放言，如果不肯与内地公安合作，案件将会留在内地审理，他有可能被判死刑或无期徒刑。叶剑华只好妥协，签署多份文件并按指印。</i>
+➜NASA花4.9亿美元购买俄罗斯飞船六张船票
+https://www.solidot.org/story?sid=45059	37455
+搭乘俄罗斯飞船前往国际空间站的船票<a target="_blank" href="https://www.newscientist.com/article/dn28015/"><u>又涨价了</u></a>。NASA的航天飞机2011年退役后，美国宇航员前往空间站只能搭乘俄罗斯的飞船。联盟号飞船成为目前美国唯一的载人太空飞行载具。在2006年到2008年之间，美国每年只购买一个联盟飞船座位，但从2009年开始，美国每年购买6个座位。每个座位的价格开始逐年上涨。2006年美国只需支付2200万美元，2010年涨到2500万美元，2011年上半年2800万美元，下半年飙升到4300万美元， 2014年和2015年分别为5560万和6000万美元，而2016年的船票涨到每人7100万美元，2017年再次涨到8200万美元。NASA局长Charles Bolden<a target="_blank" href="http://www.nasa.gov/sites/default/files/atoms/files/soyuz_seat_modification_letter.pdf"><u>告诉国会</u></a>（PDF），需要花4.9亿美元购买联盟号飞船的六张船票。
+➜富士康郑州一员工自杀身亡
+https://www.solidot.org/story?sid=45060	39960
+代工巨头富士康/鸿海证实郑州iPhone组装厂一名员工<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2015/08/150807_foxconn_suicide"><u>跳楼身亡</u></a>。该公司深圳工厂此前发生的员工连续自杀事件曾引起外界对工作环境的广泛关注。它的郑州工厂是目前最大的生产基地，有员工20余万人。富士康周五在一份声明中称，这名28岁的男性员工从2010年10月起进入富士康工作，本周二（8月4日）跳楼身亡，尸体清晨在厂区大楼旁边被发现。目前富士康正同执法部门合作对员工自杀事件进行调查。
+➜Firefox漏洞正被利用，Mozilla释出更新
+https://www.solidot.org/story?sid=45061	42208
+Mozilla督促Firefox用户<a target="_blank" href="https://blog.mozilla.org/security/2015/08/06/firefox-exploit-found-in-the-wild/"><u>尽快升级到</u></a>Firefox 39.0.3或延长支持版ESR 38.1.1，因为Firefox的一个漏洞正被攻击者利用窃取敏感数据。漏洞与 JavaScript 同源策略机制和内置的 PDF Viewer有关，不含有PDF Viewer的Android版Firefox 不受影响。漏洞并不允许攻击者执行任意代码，但允许攻击者向本地文件注入脚本，搜索和上传敏感本地文件。在Windows上，恶意脚本会搜索subversion、s3browser和 Filezilla配置文件，<code>.purple</code>和Psi+ 账号信息，以及流行FTP客户端的网站配置文件。在Linux上，除了上述文件外，恶意代码还会搜索.bash_history，.mysql_history，.pgsql_history，.ssh配置文件和密钥，含有pass和access的文本文件，shell脚本等等。
+➜Google在欧盟的60亿美元误算
+https://www.solidot.org/story?sid=45062	45804
+2014年1月，全球精英聚集在达沃斯世界经济论坛，Google执行主席施密特（Eric Schmidt ）和四名高管在一个会议室与欧盟竞争专员Joaquín Almunia举行会谈希望能达成一项协议。会议室的气氛热烈而紧张。Almunia的任期即将结束，Google不想再与其继任者重新开始谈判。施密特表示Google愿意在竞争对手（其中包括微软）批评的方面做出改变，他询问 Almunia能否在任期结束前让欧盟批准和解协议。Almunia表示他有信心做到。2个小时后，人人都心满意足，他们握手告别。10天后，Almunia在欧盟议会宣布了他与Google达成的和解协议。在加州山景城的Google看来，和解应该是既成事实了，所以在这件事上工作的雇员开始忙其它事情了。<a target="_blank" href="http://www.bloomberg.com/news/features/2015-08-06/google-s-6-billion-miscalculation-on-the-eu"><u>这是Google一次代价昂贵的误算</u></a>。Almunia没有在欧盟议会获得足够的支持去批准和解协议，甚至根本没有投票表决。2015年4月15日，Almunia的继任者Margrethe Vestager宣布调查Google是否滥用其在搜索市场的垄断地位。Google面临60亿美元的罚款。
+➜孟加拉又一博主被砍死
+https://www.solidot.org/story?sid=45063	46079
+孟加拉又一博主在首都<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/08/150807_bangladesh_blogger_death"><u>被人砍死</u></a>，他是今年第四名被杀死的博客作家。这名叫尼尔的博客作家是在家中遇袭遇难的。袭击者闯入尼尔的家，把他的朋友推到一边，然后用刀把他砍死。 跟以前遇害的博客作家一样，尼尔是一位无神论者，虽然他有印度教的背景，但他不是穆斯林。警察说，6名袭击者假装以租房子为名进入尼尔的家。其中的两人把尼尔带到另外一个房间，把他砍死。当时，尼尔的妻子也在家，但她被控制在另外一个房间。

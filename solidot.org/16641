@@ -1,0 +1,15 @@
+➜Firefox将在标签上显示声音指示器
+https://www.solidot.org/story?sid=44893	37112
+Mozilla正在为Firefox浏览器<a target="_blank" href="http://venturebeat.com/2015/07/24/firefox-is-getting-audio-indicators-to-show-noisy-tabs-and-will-let-you-mute-them/"><u>引入一项</u></a>已被Chrome实现但没有完全启用的特性：识别播放声音的标签，在标签上显示声音指示器，允许用户对音频静音。Google的Chrome早在一年多前就引入了声音指示器，但用户并不容易让声音消失。Chrome有静音的选项，但默认没有启用，用户必须到chrome://flags/页启用#enable-tab-audio-muting。
+➜The Verge的网站“太烂了”
+https://www.solidot.org/story?sid=44894	40850
+The Verge发表了一篇文章指责<a target="_blank" href="http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks"><u>移动浏览器太烂了</u></a>，Mozilla的Les Orchard回应说，<a target="_blank" href="http://blog.lmorchard.com/2015/07/22/the-verge-web-sucks/"><u>真正的问题在于The Verge自己</u></a>。<i>他使用Firefox的开发者工具检测浏览器加载The Verge上这篇文章发出的请求，发现HTML本身只有75kb，但之后的7秒发出了20个请求，返回的文件总大小 1.4MB。网页还没有加载完，浏览器又花了30秒发出了263个 HTTP请求，返回文件大小9.5MB。性能分析显示，访问该网页浏览器总共下载了12MB的数据，其中超过 7MB是JS文件。如果你通过移动网络访问该网址，而你的移动通信有1GB的数据额度，访问几个这样的网站就用光流量了。这就是今天互联网面临的一个问题，网站一方面谴责用户使用广告屏蔽工具，另一方面他们却滥用用户的信任，在页面内嵌入了无数的跟踪脚本。</i>
+➜惠普禁止雇员在工作时穿T恤
+https://www.solidot.org/story?sid=44895	42896
+惠普研发团队成员收到备忘录，<a target="_blank" href="http://www.theregister.co.uk/2015/07/24/hp_dress_code/?mt=1437757385381"><u>提醒他们注意工作着装要求</u></a>，理由据称是外表看上去乱糟糟的工程师会对访问办公室的客户造成不良影响。根据惠普的着装要求，男性雇员应避免穿无领T恤，褪色或破损的牛仔裤，短裤，棒球帽和其它头饰，运动服，凉鞋和其它夏季鞋子。女性应避免穿短袖裙子，褪色或破损的牛仔裤，低胸连衣裙，凉鞋，高跟鞋，佩戴太多珠宝。惠普的这一特别针对工程师的要求引发了热议。
+➜科学家识别出第六种味道：脂肪味
+https://www.solidot.org/story?sid=44896	51212
+根据普渡大学研究人员发表在《Chemical Senses》上的一项<a target="_blank" href="http://chemse.oxfordjournals.org/content/early/2015/07/02/chemse.bjv036.short?rss=1"><u>研究</u></a>，<a target="_blank" href="http://www.purdue.edu/newsroom/releases/2015/Q3/research-confirms-fat-is-sixth-taste-names-it-oleogustus.html"><u>脂肪被认为是已知的第六种味道</u></a>，它可以被称为oleogustus（在拉丁语中意思是脂肪味）。营养学教授Richard D. Mattes说，大部分脂肪是以三酸甘油脂(Triglycerides)的形式为我们所食用，这种分子由三种脂肪酸构成。奶油中就混合有三酸甘油脂。它不是一种味觉刺激物，刺激嘴感知脂肪味的是脂肪酸。脂肪味经常被描述为让人不愉快的苦味和酸味，但新的证据表明脂肪酸能产生独特味道，类似甜、酸、咸、苦和鲜味。Mattes教授说，脂肪的味道不应该与脂肪的感觉混淆起来。
+➜AMD向LibreOffice贡献GPU代码，将电子表格数学计算速度提升500倍
+https://www.solidot.org/story?sid=44897	52684
+AMD称它是开源项目的真正信徒，它的工程师向多个开源项目贡献了代码，其中一个项目就是知名的开源办公软件LibreOffice。办公软件的电子表格涉及到大量数学运算，而GPU在执行通用计算方面的效率要远高于CPU。如果软件能利用GPU去加速计算，将能大大提升速度。AMD的工程师向LibreOffice项目贡献<a target="_blank" href="http://developer.amd.com/community/blog/2015/07/15/collaboration-and-open-source-at-amd-libreoffice/"><u>利用GPU的OpenCL内核</u></a>。<a target="_blank" href="https://gerrit.libreoffice.org/gitweb?p=benchmark.git;a=tree"><u>测试</u></a>显示，在启用GPU加速之后，电子表格计算速度提升了超过500倍：0.25秒对2分21秒。

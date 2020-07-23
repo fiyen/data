@@ -1,0 +1,51 @@
+➜美国国立卫生研究院将放松人兽干细胞研究禁令
+https://www.solidot.org/story?sid=49220	13400
+<a href="mailto:peanuto@163.com">peanuto</a> 写道<i> "美国国立卫生研究院 NIH 周四发表<a href="http://www.nytimes.com/2016/08/05/health/stem-cell-research-ban.html" target="_blank">声明</a>将对资助人体干细胞注入动物胚胎方面的研究放松禁令。此番言论的是联邦公告处的科学政策副主任 Carrie Wolinetz 通过<a href="http://osp.od.nih.gov/under-the-poliscope/2016/08/next-steps-research-using-animal-embryos-containing-human-cells" target="_blank">微博</a>发出的，目的主要是试图在动物体长出人体组织或器官，以更好地理解人类疾病和寻找治疗的方法。研究者们将人类细胞放到动物体内已有很长的历史了比如将人类肿瘤置入老鼠体内来测试药物对肿瘤的摧毁能力但是干细胞研究本质不同。干细胞植入一个正在发育的胚胎后可以成长为任意细胞，比如各种器官、血液和骨骼。禁令一旦放松，诸如在猪身上长人肾脏之类的研究就可能会得到资助，相应需要肾脏移植的病人就会得益。但是“人兽杂交”这个想法着实令人害怕，几乎不可能得到所有人的认同。奇美拉，这个希腊神话中狮头羊身蛇尾怪物的名字，如今被用来作为人兽嵌合体的代名词。特别的，当人体细胞注入动物胚胎，发展出了部分的动物大脑，一个难以回答的问题就产生了这个动物的脑子会不会产生人类才有的想法或者意识？判断标准有明确的分水岭吗？我们现在还没有清晰的认识。两类试验将会得到资助，第一类是将人类干细胞植入动物胚胎。若这个动物不是灵长类，那么可以在胚胎分化出器官前植入，反之，则需要等器官分化出以后才能植入。第二类研究植入干细胞主要为获取可移植的器官角度考虑。但NIH对直接将人类精子或卵子与动物杂交的实验依然禁止。 的计划是新政策在今秋季生效，也许会做一些修改，从现在开始到9月4日，给公众和研究人员一个月的讨论评论时间。“我们知道这是科学发展的方向”NIH</span>女发言人如是说。"</i>
+➜激光雷达传感器实现单芯片集成
+https://www.solidot.org/story?sid=49221	14080
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "MIT和美国国防部高级研究计划署将激光雷达传感器集成到单个芯片上，《IEEE科技纵览》<a href="http://spectrum.ieee.org/tech-talk/semiconductors/optoelectronics/mit-lidar-on-a-chip" target="_blank">刊文</a>概述了集成激光雷达技术的方方面面，读来饶有兴味。<i>
+激光雷达Lidar全称为光探测与测距(Light detection and ranging)，是一种基于激光的探测技术。它和雷达技术相似，但分辨率更高，因光的波长大约是一般雷达所用电磁波波长的10万分之一。对于机器人而言，这相当重要——由于雷达波长太长，不能对物体的细节成像，所以仅靠雷达模块，机器人无法抓起形状复杂的东西。当前，激光雷达主要应用领域为机器人和自动驾驶汽车；也包括地形、海洋测绘和无人机，主要在在工商业应用中需要自主移动的领域有涉及。
+<p></p>
+<p>激光雷达可对周遭的世界产生完整的3D模型， 其基本方法是发射一束激光，通过测量物体反光信号回到光源所经历的时间来算出距离（或更进一步使用多普勒频移来获得速度），然后，转动光源，得到周围不同点的信息以获得完整图像。</p>
+<p>大部分激光雷达—比如自动驾驶汽车上常见的系统，目前采用分立的器件，比如激光源，透镜系统，和外部的接收器。为了获得有用的视野，激光光源/接收器需要转动，这就会引起振动甚而上下窜动，当系统的大小和复杂度要求越来越高时，这种机械的结构限制了激光雷达的扫描速度，使得人们对它在极端环境中长期工作可靠性产生顾虑。今天，商用高端激光雷达系统售价在一千美金到七万美金之间，所以难以运用到对成本有严格要求的领域。</p>
+<p>
+</p>
+<p>&nbsp;MIT最初是从开发用于硅光子芯片的300mm晶圆项目开始研究微芯片激光雷达的。硅光子芯片技术是要在硅晶圆上做出截面尺寸在几百纳米量级的光波导，其性质和光导纤维类似，但尺寸小很多。这个过程就好比将电阻晶体管等分立的元器件缩小到集成电路中的纳米级别。</p>
+<p>
+</p>
+<p>2011年美国国防部高级研究计划署(DARPA)表示对此技术意兴盎然，组织成立电子光子异构集成项目(E-PHI)
+。其两个主要的成果是诞生了世界上首个大规模集成光相控阵和首个光波束宽角度扫描阵列。这两个器件显示了光也可以像电一样，使用CMOS技术实现相控阵。而后者已经在雷达领域替代机械相控阵波束扫描流行了数十年。看起来光相控阵是激光雷达一种相当优雅的小型化廉价固态实现。研究者称若年产达到百万片，每片成本仅10美元量级。</p>
+<p>
+</p>
+<p>目前MIT在0.5mmx6mm的硅光子芯片上实现了发射和接受相控阵和片上锗光检测器（激光光源尚未集成在内，但是已有演示系统集成片上激光器）。为了实现波束扫描，每个光天线单元的相位必须单独控制，这是通过热移相器实现的。其原理是对光波导直接加热，来改变其光折射率，从而改变了经过其中的光的相位和速度。最后光遇到硅结构上的一个刻痕，从而从波导散射到自由空间，这个刻痕即充当光天线的作用。由于每束光的相位不同，所有的光束相互干涉，最后形成聚焦波束，从而不需要透镜。</p>
+<p>
+</p>
+<p>目前的波扫范围大约是51度，因为受限于天线单元间的间隔。再减少的话硅波导可能因尺寸太小而不能有效地束缚光场，但技术上而言应该可以做到近100度。当然，实际应用时完全可以通过使用多个传感器来获得360度图像。该激光雷达的信号检测是基于相干光方法而不是直接的飞行时间(time-of-flight)测量,所以系统只需要将接受信号与发射信号做比较，这就有效地减轻了太阳光对系统造成的大量噪声，而使最廉价的光学检测而非昂贵又难以集成的雪崩光电检波器/光子倍增管技术成为可能。</p>
+<p>
+</p>
+<p>目前该激光雷达系统可以检测2m范围内的物体，而分辨率在5cm左右，预计可以达到10m范围，分辨率纵向1cm和横向3cm.技术路径而言应该未来可以做到100m甚至更远。从功率角度而言，如果使用诸如氮化硅等材料，可以将输出功率增大2到3个数量级。更大的功率意味着更大的相控阵即更好的波束指向性，导致更长的测程和更好的横向分辨率。挑战在于每个硅光波导和天线单元间的一致性和精度到底能做到多好，这取决于未来光刻技术的发展。</p>
+<p>
+</p>
+</i>
+<p><i>多个片上激光雷达同时使用可以以提供大于40Gb/s的带宽，结合光上网技术(Li-Fi)和全息影像技术结合直接在人眼内成像。可以想象未来这种低价微型的激光雷达系统将在无数应用中拥有广阔天地。"</i></p>
+➜Mozilla 向 PyPy 项目资助20万美元
+https://www.solidot.org/story?sid=49222	16097
+Mozilla 官方博客<a target="_blank" href="https://blog.mozilla.org/blog/2016/08/04/mozilla-awards-585000-to-nine-open-source-projects-in-q2-2016/"><u>宣布</u></a>向 PyPy 项目资助20万美元，今年第二季度它向开源项目的资助总金额达到了58.5万美元。Mozilla 的开源支持项目资助的开源项目包括：对于促进 Mozilla 的使命有重要价值，比如隐私和开放Web相关的项目，在第二季度，Mozilla 向<a target="_blank" href="https://www.torproject.org/"><u>Tor</u></a>、Live操作系统<a target="_blank" href="https://tails.boum.org/"><u>Tails</u></a>、p2p分布式搜索引擎<a target="_blank" href="http://pearsearch.org/"><u>PeARS</u></a>等项目<a target="_blank" href="http://www.solidot.org/story?sid=48681"><u>资助了38.5万美元</u></a>；第二类项目是改进开源软件的安全；第三类则是Mozilla内部广泛使用的项目，Python JIT 编译器项目 PyPy 获得了20万美元。
+➜两名用电脑偷车的高科技偷车贼被捕
+https://www.solidot.org/story?sid=49223	26653
+《休斯敦纪事报》<a target="_blank" href="http://www.houstonchronicle.com/news/houston-texas/houston/article/Police-Suspects-used-laptops-to-steal-cars-in-9123735.php"><u>报道</u></a>（付费墙），HPD <a href="http://www.houstontx.gov/police/nr/2016/aug/nr160804-1.htm"><u>宣布</u></a>逮捕了两名据信使用笔记本电脑盗窃了100多辆汽车的嫌疑人 Michael Arcee 和 Jesse Zelaya 。两人偷车的目标主要是克莱斯勒汽车公司旗下的吉普牧马人、切罗基和道奇，他们使用笔记本电脑和破解软件只需要6分钟就能将汽车开走，然后驾驶到墨西哥销赃。警方在 Google Drive 上公布了监控摄像头拍下的<a target="_blank" href="https://drive.google.com/file/d/0B8phYURkCYPgbFVIMzFWWnZSU2c/view?pref=2&amp;pli=1"><u>盗车视频</u></a>（另一则 <a target="_blank" href="https://youtu.be/drCZTjvW0Ag"><u>YouTube监控视频</u></a>）。克莱斯勒发言人认为偷车贼利用了原本只向汽车零售店和修理店提供的密钥卡（ key fob ）访问代码，重编程车载计算机使其接受通用的密钥卡，然后就能启动汽车。
+➜Firefox 尝试用页面存档替代404错误
+https://www.solidot.org/story?sid=49224	42790
+访问的页面显示了404错误，就仿佛走进了死胡同。现在， Mozilla 尝试改变这一状况，它在测试平台 <a target="_blank" href="https://testpilot.firefox.com/"><u>Test Pilot </u></a>发布了 No More 404s 扩展：当用户访问的页面返回了404错误，Firefox 用户将可以选择展示互联网档案馆时光机器中保留的旧页面快照存档。使用该扩展需要安装<a target="_blank" href="https://testpilot.firefox.com/"><u>Test Pilot</u></a>，目前还不知道该扩展何时会提供给普通用户。这项功能有很大限制，时光机器并没有保存所有旧的页面，用户有很大的几率访问的404页面没有被存档，相比之下索引整个互联网的搜索引擎快照可能更全面，Firefox 用户可以选择安装扩展 <a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/"><u>Resurrect Pages</u></a>，它的快照来源包括了Google缓存。
+➜微软用左轮手枪替代玩具枪绘文字
+https://www.solidot.org/story?sid=49225	43875
+<div align="center"><img src="http://img.solidot.org/0/787/li73mz6Kle0ng.png" height="177" align="" width="450"><br>
+</div>
+<br>
+在苹果<a target="_blank" href="http://www.solidot.org/story?sid=49162"><u>宣布</u></a>用水枪绘文字替代手枪绘文字之后，苹果在 Unicode 联盟的<a target="_blank" href="http://www.solidot.org/story?sid=48647"><u>盟友</u></a>微软却反其道而行之：它在 Windows 10 一周年更新中用左轮手枪替代了原来的玩具枪绘文字。此举有些出人意料，微软在一份声明中<a target="_blank" href="http://arstechnica.co.uk/business/2016/08/microsoft-emoji-toy-gun-revolver/"><u>表示</u></a>，它这么做是为了符合全球 Unicode 标准。分析人士担心，如果平台之间没有标准的话，那么发送武器或暴力相关的绘文字的意图会遭到误解，如在苹果平台上发送的手枪绘文字是水枪，但它在非苹果平台如 Android 上显示的却是手枪。
+➜非商业TCP注入
+https://www.solidot.org/story?sid=49226	57119
+<div align="center"><a href="http://img.solidot.org/0/788/liHXyI3vhLaL6.png"><img src="http://img.solidot.org/0/788/liHXyI3vhLaL6.png" height="446" align="" width="450"></a><br>
+</div>
+<br>
+今年早些时候，以色列海法理工学院和国防承包商Rafael的研究人员发表<a href="http://120.52.73.75/arxiv.org/pdf/1602.07128v1.pdf" target="_blank"><u>论文</u></a>（PDF），指出中国的核心网络运营商中国电信和中国联通会利用带外注入的方法注入虚假内容。在本周拉斯维加斯举行的 Blackhat USA 2016 会议上，研究人员再次<a target="_blank" href="https://www.blackhat.com/us-16/briefings/schedule/#tcp-injection-attacks-in-the-wild---a-large-scale-study-3953"><u>谈论</u></a>了<a target="_blank" href="https://www.blackhat.com/docs/us-16/materials/us-16-Nakibly-TCP-Injection-Attacks-in-the-Wild-A-Large-Scale-Study.pdf"><u>TCP注入攻击</u></a>（PDF）， 突出了非商业TCP注入。TCP注入攻击绝大部分发生在中国，一个原因是中国的 HTTPS 普及度非常低，为运营商之类的中间人发动注入攻击大开方便之门。研究人员在调查中遭遇了两类被认为与审查相关的非商业注入，第一类是屏蔽阿里云上的网站，第二类是屏蔽多个广告相关的网站。攻击者发送了 Forbidden 403 注入。研究人员称，中国的ISP会向全球网民访问的网站注入广告；TCP注入是ISP、政府和攻击者的强有力工具，但阻止此类的攻击并不难。

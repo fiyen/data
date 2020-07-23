@@ -1,0 +1,82 @@
+➜中国ISP疑似大规模限制国际访问
+https://www.solidot.org/story?sid=23902	1920
+从上周五（5月6日）开始，中国联通和中国电信的企业用户和教育网用户发现无法访问任何国际网站，无法登陆MSN。路由跟踪显示问题出在骨干网路由。MSN中国负责人<a href="http://tech.xinmin.cn/2011/05/10/10644501.html">表示</a>，并未接到用户大面积断网的报告，建议用户自查，<a href="http://sh.eastday.com/qtmt/20110506/u1a879983.html">认为</a>可能与用户网络端口和电信网络有关。深圳大学通知校园网用户，<a href="http://www.tianya.cn/publicforum/content/develop/1/612540.shtml">声称</a>访问国外网站受限是电信主干网扩容所致。但奇怪的是家庭宽带和小区宽带用户并未遇到类似问题，出现故障的主要是网络公司和企业用户。有推测<a href="http://www.williamlong.info/archives/2653.html">认为</a>，ISP的路由器上有个计数器，当某个地址访问国外网络很多的时候，就对其屏蔽一段时间，因此企业用户比个人用户更容易超标。ISP用这种方法人为阻止用户大量访问国外网站。
+➜BackTrack 5发布
+https://www.solidot.org/story?sid=23903	5040
+为安全研究和渗透测试设计的发行版BackTrack发布了<a href="http://www.backtrack-linux.org/backtrack/backtrack-5-release/">v5.0版本</a>，代号为revolution。<i>
+BackTrack发行版最初基于SLAX（SLAX则是基于Slackware），自v4.0版后基于Ubuntu，v5.0版则是基于Ubuntu Lucid LTS，Kernel 2.6.38，以及许多知名的安全工具如Metasploit，FMON，Kismet，Nmap，Wireshark，Hydra等等。</i>
+➜值得Web开发人员收藏的10个网站
+https://www.solidot.org/story?sid=23904	6600
+<a href="http://www.vastwork.com/zh">自由职业</a> 写道 "互联网上有数百万的网站可以提供服务，其中只有一些对Web开发员来说是极为有效的工具。比利时的Web开发人员Jean Baptiste Jung<a href="http://www.catswhocode.com/blog/10-sites-developers-should-have-in-their-bookmarks">整理出了10个极有用的网站</a>(<a href="http://www.jobbole.com/entry.php/778">中文</a>)，绝对值得Web开发者收藏到书签中。它们是：<i>1. <a href="http://www.mysqlformatdate.com/">Mysql Format Date</a>（在线制作合适自己网站的时间格式 www.mysqlformatdate.com）<br>2. <a href="http://scriptsrc.net/">Script Src</a>（搜索适合自己的最新JS库 scriptsrc.net）<br>3. <a href="http://aloestudios.com/tools/emchart">Em Chart</a> <br>4. <a href="http://twitapi.com/explore">Twitter API Explorer</a>（如果你网站用了Twitter API，切莫错过）"</i>           5. Browser Sandbox（浏览器兼容性）<br>6. PHP Forms（在线创建表单）；<br>7. htaccess（生成htaccess文件）<br>8. Smush it!（在线优化图片）<br>9. CSS Compressor（压缩CSS文件）<br>10. Test everything（正如它的名字一样，它可以测试很多东西，如XHTML和CSS标记）
+➜PSN可能要到月底才能恢复
+https://www.solidot.org/story?sid=23905	7680
+索尼官方博客<a href="http://blog.us.playstation.com/2011/05/10/psn-restoration-timeline-update/">表示</a>需要更长时间才能让PSN网络重新上线，希望玩家耐心等待。自4月20日起，PSN已下线了20天。第三方游戏发行商<a href="http://arstechnica.com/gaming/news/2011/05/is-sony-liable-to-third-parties-for-psn-outage-ars-explores-the-damage.ars">也因此次攻击而损失惨重</a>，Valve的PS3版《Portal 2》宣传落空，Capcom高级副总裁Christian Svensson说，黑客成功惩罚了索尼，但也同时惩罚了无辜的消费者和企业。索尼还<a href="http://china.kyodonews.jp/news/2011/05/8713.html">证实</a>，2460万名美国网游用户的姓名、地址、电话号码等个人信息遭到泄露。加上PSN的7700万玩家，有超过1亿的用户信息遭到泄漏。
+➜活动分子被允许使用目标企业商标
+https://www.solidot.org/story?sid=23906	9900
+为了让目标企业难堪或为了引起外界关注，政治行动分子常常会在宣传运动中使用或戏仿企业的商标。有时候，目标企业会提起诉讼，声称拥有商标，外人不得使用。电子前哨基金会（EFF）<a href="https://www.eff.org/deeplinks/2011/05/utah-court-strikes-blow-free-speech-dismisses">报导</a>，犹他州的一家联邦法院作出裁决，认为行动分子可以使用企业商标，因为此种使用是非商业性的，受言论自由保护。诉讼源于一家环保组织Youth For Climate Truth（YFCT）建立了一个模仿科氏工业集团的网站，在网站上发布新闻稿称将停止资助否认气候变化的组织。科氏工业起诉YFCT侵犯商标。
+➜Google宣布音乐共享服务和Android电影租赁
+https://www.solidot.org/story?sid=23907	11520
+Google在I/O大会上宣布了<a href="http://music.google.com/about/">音乐共享服务</a>。这项服务允许用户上传音乐文件，然后从任何地方访问，类似于亚马逊3月份推出的云储存服务。此前Google曾和各大唱片公司协商推出授权的在线音乐，但显然谈判结果是无疾而终。音乐beta测试目前限于美国，只有Android 2.2版本以上的用户才能收到邀请，用户最多可以上传2万首歌曲。Google同时还在Android Market<a href="http://arstechnica.com/open-source/news/2011/05/google-releases-movie-rental-service-announces-music-service-in-closed-beta.ars">推出了电影租赁服务</a>，每部电影的租赁费用为1.99美元。
+➜一间31平方米公寓有24种房间组合
+https://www.solidot.org/story?sid=23908	13320
+香港是世界上最拥挤的城市之一，绝大多数居民的公寓都十分狭小。<a href="http://www.edge.hk.com/">Gary Chang</a>是一位建筑师，从14岁起他和妹妹、父母居住在一间334平方英尺（约合31平方米）的公寓，后来妹妹、父母相继搬出。他决定对公寓进行一番改造，利用滑动板和墙壁，他的公寓现在能<a href="http://www.homedsgn.com/2011/05/07/a-tiny-apartment-in-hong-kong-transforms-into-24-rooms/">组合出24种不同的应用</a>(<a href="http://www.youtube.com/watch?v=Lg9qnWg9kak&amp;feature=player_embedded">YouTube视频</a>)，相当的温馨和舒适。他的DVD和书籍收藏占据了房间内的很大一部分，未来也许可以用在线视频服务和kindle替代。
+➜美国拨款1900万美元研发规避审查的技术
+https://www.solidot.org/story?sid=23909	16920
+美国国务院官员周二<a href="http://news.yahoo.com/s/afp/20110510/pl_afp/uschinairanrightsinternetit">表示</a>，美国政府将拨款1900万美元，用于研发可突破中国伊朗等国的互联网审查的技术。
+<i>
+美国助理国务卿Michael Posner说，新技术将通过转发电子邮件，发表博客，扩大网络文档订阅，以及开设那些独裁政府不知如何屏蔽的网站来实现。这笔拨款将来自本财政年度美国国会为互联网自由所拨的3000万美元。美国参院委员会报告建议由一个政府机构来管理这笔拨款。Posner表示。出于“安全原因”，<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/05/110511_us_china_it_internet.shtml">不会公布获得有关拨款的机构</a>。</i>
+➜WebGL存在严重的安全漏洞
+https://www.solidot.org/story?sid=23910	18000
+Panggit 写道<i> "HTML5中的<a href="http://www.khronos.org/webgl/">WebGL技术</a>已在Firefox和Chrome等浏览器中实现，并被默认开启，<a href="http://www.computerworld.com/s/article/9216539/WebGL_hit_by_hard_to_fix_browser_security_flaw">但这实际上给浏览器带来了极大的安全隐患</a>。<a href="http://www.contextis.com/resources/blog/webgl/">问题根源在于</a>，大多显卡以及显卡驱动在设计时并不考虑安全问题，而将相关安全问题交由操作系统完成。但浏览器沙盒跳过了这一环节默认WebGL可以被安全执行，这会使脚本取得跨域名的执行权限，甚至取得访问本地文件的权限。安全专家建议，用户应该在浏览器中关闭WebGL，直到WebGL标准作出相应修正解决这一安全问题。不过这似乎已经是WebG架构设计的问题，不太可能在短期内解决。"</i>
+➜人力直升机挑战世界纪录
+https://www.solidot.org/story?sid=23911	19920
+马里兰大学工程学院学生历时两年完成了<a href="http://www.eng.umd.edu/html/media/release.php?id=104">人力直升机建造</a>，他们正试图挑战世界纪录，摘取<a href="http://www.vtol.org/awards/hph.html">Sikorsky奖</a>。<i>
+他们制造的人力直升机取名Gamera，使用轻木、泡沫、聚酯，碳纤维等轻质材料建造，包括女飞行员在内，总重量仅为210磅。全部动力来自手和脚的蹬踏。Sikorsky奖由美国直升机学会颁发，奖金为25万美元，要求人力直升机悬浮至少60秒，飞行高度达到3米。学生将在周三测试人力直升机。</i>
+➜Android Honeycomb将不会发布源代码
+https://www.solidot.org/story?sid=23912	21240
+正在旧金山举行在<a href="http://www.google.com/events/io/2011/">Google I/O</a>会议上，Google<a href="http://arstechnica.com/open-source/news/2011/05/google-announces-android-ice-cream-sandwich-will-merge-phone-and-tablet-oses.ars">宣布下一代Android操作系统</a>，代号为Ice Cream Sandwich，将使手机版本和平板版本合二为一。Ice Cream Sandwich将会完全公开源代码，但上一代Honeycomb<a href="http://linux.slashdot.org/story/11/05/11/0041250/Android-Honeycomb-Will-Not-Be-Open-Sourced">将不会开源</a>。Ice Cream Sandwich将会包含所有的Honeycomb功能，Google不公开Honeycomb源代码的主要原因是其质量和功能欠缺。Google还在大会上宣布了<a href="http://developer.android.com/sdk/android-3.1-highlights.html">Android 3.1</a>，更新Motorola Xoom平板和Google TV。主要是更新了UI，支持更多USB扩展配件；支持外置键盘和指示设备，调整主屏widget大小 ，支持摇杆和游戏手柄，改进Wi-Fi性能，更新一系列标准应用，等等。
+➜太空垃圾问题将会恶化
+https://www.solidot.org/story?sid=23913	22800
+人为太空垃圾正日益成为<a href="http://news.slashdot.org/story/11/05/10/2013214/Ugly-Truth-of-Space-Junk">一个全球关注的问题</a>。<i>
+美国空军太空司令部指挥官William Shelton将军说，太空愈来愈拥挤，已有超过50个国家进入太空环境。太空司令部正在跟踪超过2万个大碎片，他估计到2030年，传感器技术改进后跟踪的太空碎片的数量<a href="http://www.space.com/11607-space-junk-rising-orbital-debris-levels-2030.html">将为现在的三倍</a>。过去五十年的卫星发射，在地球低轨道上积累了大量垃圾，2007年的中国反卫星拦截试验则是雪上加霜，一下子使碎片的数量增加了大约25%，太空碎片专家Marshall Kapla指出，拦截的位置是在865公里的轨道上，正是低轨道卫星最拥挤的地段。2009年铱星和俄罗斯退役的宇宙卫星相撞，轨道的高度与中国反卫星拦截位置相似。五十年中的卫星发射，加上这两次事件，给700 km到1300 km的轨道区域留下了大约百万碎片，大小从几毫米到几米。如果时间足够的话，低地球轨道上的碎片能重新进入大气层，但这个时间是百万年。大约3,6000 km的地球同步轨道上的碎片相对较少。</i>
+➜日本科学家测试飞行火车
+https://www.solidot.org/story?sid=23914	28560
+日本研究人员<a href="http://spectrum.ieee.org/automaton/robotics/industrial-robots/ground-effect-robot-could-be-key-to-future-high-speed-trains">正在研发地效火车</a>，以作为磁悬浮列车的替代方案。<i>
+<a href="http://en.wikipedia.org/wiki/Ground_effect_vehicle">地面效应</a>是利用快速移动的空气增加升力，使用简单的翼翅使飞行器能在距离地面很近的空中飞行。由日本东北大学科学家Yusuke Sugahara领导的研究团队已经研制出一个地效飞行器机器人原型，他们将在此基础上研发有人试验原型，使飞行速度能达到每小时200公里，最终建造出被命名为<a href="http://kohama.niche.tohoku.ac.jp/getstopj.html">Aero Train</a>的大型通勤铁路系统。未来我们也许能看到会飞的火车。</i>
+➜中国可能正在部署境外域名白名单制度
+https://www.solidot.org/story?sid=23915	30480
+最近发生的<a href="__SLASHLINK__" sect="internet" sid="11/05/11/0040219" sn="article" tid="120">大范围国际出口访问故障</a>，似乎印证了18个月前的一则新闻报道：<a href="__SLASHLINK__" sect="internet" sid="09/12/19/1322203" sn="article" tid="120">中国计划实行境外域名白名单制度</a>。<i>
+larryli 写道 "预言即将成为<a href="http://tech.163.com/09/1221/16/5R2OI7II000915BF.html">现实</a>。12月16日，中国工业与信息化部组织全国域名注册服务及管理机构，在北京召开专项行动会议。会上传出消息，中国除了不解析未备案域名外，境外注册的国际域名将不得用于中国业务。业界人士预计，这意味着中国互联网将实行“白名单”制度。一旦该措施大规模推广，除了少数国际性的大网站，没有“备案”的境外网站，将从技术上无法解析域名，在中国无法访问。"</i>
+➜10个适合用于Ubuntu 11.04 Unity的软件
+https://www.solidot.org/story?sid=23916	31800
+<a href="http://www.osmsg.com/">osmsg开源资讯</a> 写道 <i>"这里介绍<a href="http://www.techdrivein.com/2011/05/10-useful-application-indicators-for.html">10个支持Ubuntu Application Indicator的小软件</a>，适用于Ubuntu 11.04 Natty的Unity桌面环境。它们不仅能够美化你的桌面，还能帮你处理许多复杂的任务，实现你需要的功能。这些软件包括：Weather Indicator Applet (天气预报软件)；Dropbox Application Indicator (Dropbox的社区版本，可以在Ubuntu 11.04的顶部面板上显示DropBox图标)；Sysmonitor Indicator (监视CPU及内存使用状态)；System Load Indicator(系统状态指示器）；Touchpad Indicator(触摸板开关）；Battery Status Indicator(电源状态指示器)；Workspaces Indicator(快速切换工作区）等程序，<a href="http://www.osmsg.com/2011/05/ubuntu1104-10-appindicator/">详细图文信息可以查看这里。</a>"</i>
+➜Google游说内华达允许自主驾驶汽车上路
+https://www.solidot.org/story?sid=23917	33480
+自主驾驶汽车的先锋Google，<a href="http://www.nytimes.com/2011/05/11/science/11drive.html?_r=2&amp;smid=tw-nytimes&amp;seid=auto">正悄悄游说内华达州立法允许合法驾驶此类汽车</a>。<i>
+Google去年承认它的自主驾驶汽车，在加州的公路上行驶了超过14万英里，其中超过1千英里是完全无人干预的。当时Google并没有披露多少商业企图。本周二，Google证实它正在游说立法允许自主驾驶汽车上路。公司发言人表示，该项目仍然处于测试阶段。Google雇佣了赌城的一位说客，推动内华达州通过两项法案。其一是电动汽车修正案，向自主驾驶汽车颁发测试执照。其二是增加一条豁免，允许驾驶中发短信。对于完全自主驾驶汽车的安全性和可靠性，外界仍然存在疑问。</i>
+➜街景将允许浏览商店内部
+https://www.solidot.org/story?sid=23918	36960
+Google的街景服务<a href="http://www.technologyreview.com/computing/37538/?p1=MstRcnt">将允许用户浏览室内场景</a>。<i>
+Google副总裁Marissa Mayer在上周的一个会议上展示了室内图片如何整合到街景中，用户点击商店门即可入室浏览。她表示，这将能探索和发现新的商业机会，改变用户在线购物的互动方式。一位Google发言人表示，室内浏览将在本周上线。</i>
+➜NASA被禁止与中国合作
+https://www.solidot.org/story?sid=23919	38400
+探索更遥远的深空，将需要投入巨额资金和国际间的合作。然而，对NASA来说，<a href="http://news.discovery.com/space/denied-nasa-banned-from-working-with-china-110510.html">中国将不可能成为它的合作伙伴</a>，至少在下个财年是如此。<i>
+鉴于中国的网络威胁和间谍活动，国会批准的下一财年拨款法案中包含了一个条款，禁止NASA与中国开展任何科学合作。条款明确禁止NASA和白宫科学与技术政策局使用联邦资金，以任何形式与中国或中国国有企业合作或协作开发、设计、规划、宣布、实施或执行一个双边政策、计划、订单，或合同。共和党议员Frank Wolf表示，不能给中国任何机会利用美国技术。</i>
+➜中美学生对父母的义务感存在差异
+https://www.solidot.org/story?sid=23920	40800
+根据一项新的研究，伊利诺伊大学心理学教授Eva Pomerantz，学生Lili Qin和同事<a href="http://medicalxpress.com/news/2011-05-chinese-children-differ-commitment-parents.html">发现</a>：美国学生对父母的义务感，以及通过在学校里表现良好取悦父母的期望，到了七八年级就会下降。而相比之下，中国学生却依然维持了他们的义务感，增加了通过学习成就取悦父母的动机。Pomerantz称，这些差异引人注目，责任感能让学生学习更主动，成绩更瞩目。
+➜Google App Engine 1.5支持Go语言
+https://www.solidot.org/story?sid=23921	50400
+<a href="http://blog.163.com/moro80@126/">慕容鱼吐的新闻泡</a> 写道 "Google I/O开发者大会上宣布的<a href="http://googleappengine.blogspot.com/2011/05/app-engine-150-release.html">Google App Engine 1.5.0</a>提供了对Go语言的支持。新版的其他新特性包括：<i>
+提供对高内存要求的程序的支持，使得自定义搜索等程序可以在Google App Engine上正常地运行；
+新的API和改善的进程管理；
+Google App Engine将承诺99.5%以上的正常运行时间；
+价格将根据实际使用量来确定。
+</i>
+Google App Engine平台已经拥有了10万名用户，每天为20万个应用提供支持，并承担着15亿次的日访问量。"
+➜黑客工具包Zeus源代码泄露
+https://www.solidot.org/story?sid=23922	52200
+在地下黑客论坛上出售的Zeus恶意程序工具包的<a href="http://krash.in/real2/zeus.rar">源代码</a>（RAR，9.2MB，密码“zeus”）被人<a href="http://it.slashdot.org/story/11/05/11/1326257/Zeus-Crimeware-Kit-Source-Code-Leaked">泄露</a>，现在任何感兴趣的人都可以去了解一下这个臭名昭著但名声卓著的黑客工具包。上周，安全公司CSIS的研究人员从论坛上<a href="http://www.csis.dk/en/csis/blog/3229/">下载了一份拷贝</a>，证实是Zeus的完整源代码。Zeus可用于制作木马，创建僵尸网络。它的售价过去非常昂贵，最高接近5000美元。源代码的泄露意味着销售市场的崩溃，随之而来的结果可能是会出现很多修改和改进版本，网民面临的风险将会加大。
+➜Google宣布云存储服务免费开放
+https://www.solidot.org/story?sid=23923	53280
+<a href="http://blog.163.com/moro80@126/">慕容鱼吐的新闻泡</a> 写道<i> "2010年5月，Google发布了Google Storage for Developers，一个允许企业在Google云端服务器存储数据的服务，但当时仅限受邀用户使用。时隔一年，Google终于宣布<a href="http://code.google.com/intl/zh-CN/apis/storage/docs/signup.html">完全开放 Storage存储服务</a>，任何人都可申请使用。新版Google Storage新功能<a href="http://googlecode.blogspot.com/2011/05/google-storage-for-developers-open-to.html">包括</a>：支持OAuth 2.0；简化分享的环节；通过<a href="https://code.google.com/apis/console/">API Console</a>管理帐号；增加欧洲地区服务器;支持数据流上传；支持更大的数据对象，最大5TB；免费的试用计划，每个人都可在2011年12月31日之前免费申请体验5GB的存储空间和25GB的带宽。"</i>

@@ -1,0 +1,49 @@
+➜Adobe释出紧急更新修复被勒索软件利用的Flash漏洞
+https://www.solidot.org/story?sid=47777	11726
+Adobe刚刚<a target="_blank" href="https://helpx.adobe.com/security/products/flash-player/apsb16-10.html"><u>释出了紧急更新</u></a>，修复了24个Flash漏洞，其中一个漏洞<a target="_blank" href="https://helpx.adobe.com/security/products/flash-player/apsa16-01.html"><u>CVE-2016-1019</u></a>正被攻击者利用控制受害者的计算机。Adobe没有具体说明攻击者的行为，但路透社的<a target="_blank" href="https://www.yahoo.com/news/adobe-issues-emergency-flash-ransomware-attacks-005117626--finance.html"><u>报道</u></a>称，攻击者利用该漏洞传播勒索软件。勒索软件通过锁定部分重要文件强迫用户以比特币的方式支付赎金解锁电脑。Adobe建议用户立即<a target="_blank" href="http://www.adobe.com/go/getflash"><u>更新到最新版本</u></a>：Windows和Mac 平台的最新版本是21.0.0.213，Linux的最新版本是11.2.202.616 。
+➜BillGates Linux僵尸网络被用于发动大规模DDoS攻击
+https://www.solidot.org/story?sid=47778	12189
+Akamai的安全研究人员<a target="_blank" href="https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/bill-gates-botnet-threat-advisory.pdf"><u>报告</u></a>（PDF），地下网络犯罪分子过去半年利用BillGates Linux僵尸网络发动攻击流量超过100Gbps的大规模DDoS攻击。BillGates恶意程序是针对Linux服务器的一种相对老的恶意程序家族，它可以将感染的服务器连接起来创建一个僵尸网络。BillGates僵尸网络支持发动ICMP 洪水、TCP洪水、UDP洪水、SYN洪水、HTTP洪水和DNS反射洪水攻击。研究人员报告说，以前部署 XOR僵尸网络的网络罪犯最近也切换到了BillGates僵尸网络。
+➜暴雪关闭粉丝运营的魔兽世界私服Nostalrius
+https://www.solidot.org/story?sid=47779	15522
+暴雪威胁对受欢迎的魔兽世界私服Nostalrius采取法律行动，迫使它<a target="_blank" href="https://en.nostalrius.org/"><u>宣布</u></a>将在4月10日关闭服务器。Nostalrius不同于我们所熟悉的“盗版”私服，它没有使用任何暴雪的代码，而是提供一个逆向工程的经典版本魔兽世界服务器，支持合法版本的魔兽世界v1.12客户端，在法律上的唯一问题是它侵犯了暴雪的<a target="_blank" href="http://us.blizzard.com/en-us/company/legal/wow_tou.html"><u>服务条款</u></a>。但最为重要的是它太受欢迎了：Nostalrius有80万注册用户，15万活跃玩家，同时在线玩家1.5万。Nostalrius团队称，它的法国服务器托管商从律师收到了正式信函要求关闭服务器，否则将可能面临版权侵犯诉讼。Nostalrius团队在Change.org<a target="_blank" href="https://www.change.org/p/michael-morhaime-legacy-server-among-world-of-warcraft-community?recruiter=522873458"><u>发起请愿</u></a>，称他们是忠实的游戏粉丝，没有试图破坏暴雪的生意。该请愿书至今获得了4万多人的签名。Nostalrius团队表示，在服务器关闭之后他们会向其他人提供自己托管服务器所需要的任何工具。魔兽世界的<a target="_blank" href="https://www.reddit.com/r/wowservers/comments/37b5ir/wow_private_servers_list/"><u>私服</u></a>并不只有Nostalrius一个。
+➜Linus Torvalds依然对Linux的桌面充满信心
+https://www.solidot.org/story?sid=47780	16338
+<a href="mailto:huj1130.extraction@gmail.com">巨硬药丸</a> 写道<i> "虽然 Linux 已经几乎主宰了我们生活的每个角落，从消费者手中的手机到超级电视，但桌面却至今没有像前者那样受到主流的关注。对此 Torvalds 大人又是如何看待的呢？ Linux的桌面是否就此失败了呢？<a title="对此给予了完全否定" target="_blank" href="http://www.cio.com/article/3053507/linux/linus-torvalds-still-wants-linux-to-take-over-the-desktop.html">对此给予了完全否定</a>。“桌面环境确实不像嵌入式领域那样在这几年里占领了世界各个角落，但是只要看着我每天日常使用的桌面，就会发现它美得早已超乎了我当初的想象。尽管一直以来我对那群做 UI 的家伙们表现得很无礼，因为我只想要能用就行了。美化这种事并不是我最关心的。而现在，我对 Linux 的桌面充满着信心，而且我自己也为此搞了个项目以供我所需，我对此非常满足。所以总而言之，对我来说 Linux 的桌面完全没有失败。我会非常乐意看到今后 Linux 作为桌面系统占满全球，但目前进入该领域依然还是充满着难度。我会全力以赴，已经 25 年过来了，未来的 25 年我依然会不屈不饶的为这目标而努力。”"</i>
+➜锂研究帮助科学家解开衰老秘密
+https://www.solidot.org/story?sid=47781	18083
+英国科学家在《细胞》上发表<a target="_blank" href="http://www.cell.com/cell-reports/fulltext/S2211-1247%2816%2930297-2"><u>论文</u></a>，报告低剂量的锂能<a target="_blank" href="http://www.bbc.com/zhongwen/simp/science/2016/04/160407_lithium_fly_life"><u>延长果蝇的寿命</u></a>。在实验室里，摄入低剂量锂的果蝇比一般果蝇的寿命长16%，但使用大剂量的锂将会缩短果蝇的寿命。科学家目前还不完全了解锂对大脑作用的机理，但是对果蝇来说，锂似乎可以通过阻断一种名叫GSK-3的化学物质来延长寿命。领导这项研究工作的Linda Partridge教授说，“我们所看到的低剂量锂对果蝇产生的作用非常令人鼓舞，下一步工作将针对更复杂的动物的GSK-3物质，以便最终研发出能进行人类实验的药物。”
+➜MS Edge将默认不播放Flash广告
+https://www.solidot.org/story?sid=47782	18237
+微软将在今年夏天释出Windows 10的周年更新，这次更新<a target="_blank" href="http://arstechnica.com/information-technology/2016/04/edge-to-follow-chromes-lead-make-flash-ads-click-to-play/"><u>将改变Flash在MS Edge浏览器上的工作方式</u></a>。微软将学习<a target="_blank" href="http://www.solidot.org/story?sid=44338"><u>Google Chrome的做法</u></a>，默认不播放非重要的Flash内容，Flash广告将不会自动播放，而是用户点击播放。视频等重要的内容应该不会受到影响。Google是在去年宣布默认不播放非重要Flash内容，此举主要是为了减少浏览器的耗电量。
+➜Android Studio 2.0发布
+https://www.solidot.org/story?sid=47783	27124
+Google<a target="_blank" href="http://venturebeat.com/2016/04/07/google-launches-android-studio-2-0-with-instant-run-faster-android-emulator-and-cloud-test-lab/"><u>发布了</u></a>Android集成开发环境Android Studio 2.0，其中重要的新特性是：<a target="_blank" href="http://developer.android.com/tools/building/building-studio.html#instant-run"><u>Instant Run</u></a>，允许开发者在应用运行在设备或模拟器上的时候修改代码并即时生效；更快的<a target="_blank" href="http://developer.android.com/tools/devices/emulator.html"><u>Android模拟器</u></a>，旧版本模拟器的运行速度一直受到开发者的抱怨；改进应用索引<a href="http://developer.android.com/tools/help/app-link-indexing.html">App Indexing</a>；<a href="http://tools.android.com/tech-docs/gpu-profiler">GPU Debugger Preview</a>，等等。
+➜前官员修改随机数生成器操纵彩票中奖号码
+https://www.solidot.org/story?sid=47784	29108
+去年4月美国前跨州彩票协会信息安全负责人Eddie Raymond Tipton<a target="_blank" href="http://www.solidot.org/story?sid=43690"><u>被控</u></a>纂改了生成随机数的电脑，操纵中奖号码使其自己多次中彩，赢得数千万美元的彩票奖金。现在，检方报告<a target="_blank" href="http://arstechnica.com/security/2016/04/neutered-random-number-generator-let-man-rig-million-dollar-lotteries/"><u>称发现了</u></a>他如何纂改随机数生成器的取证证据。Tipton在生成随机数的电脑上安装了一个动态链接库（DLL），这个程序设计在特定条件满足后触发，这些特定条件与日期有关，而彩票的开奖日期和时间是确定的。在条件满足之后程序将重定向生成器不生成随机数，而是使用一个Tipton能提前预测的算法产生中奖号码。Tipton的六次中奖开奖日期发生在2005年到2011年的11月23日或12月29日。
+➜美国将防火长城列为贸易壁垒
+https://www.solidot.org/story?sid=47785	30937
+美国贸易官员首次将中国的互联网过滤和拦截系统——也就是防火长城——<a target="_blank" href="http://cn.nytimes.com/business/20160408/c08chinatrade/"><u>列入一个贸易障碍年度清单</u></a>。相关条目写道，在过去10年，这种限制“给外国供应商带来了巨大负担，遭受损失的既有网站本身，也包括往往需要使用这些网站开展业务的用户”。
+美国贸易代表办公室的<a target="_blank" href="https://ustr.gov/sites/default/files/2016-NTE-Report-FINAL.pdf"><u>报告</u></a>（PDF）称，在过去一年里，“网站被彻底屏蔽的现象似乎有所恶化”，全球25个人气最高的网站中，有八个在中国遭到屏蔽。
+“很多屏蔽案例显得相当随意，例如，一家知名的美国家装网站，看上去完全没有恶意，却是可能遭防火长城封锁的典型对象。”
+中国屏蔽了一些互联网巨头的服务，比如Google、Facebook和Twitter。这可能会削弱外国公司在中国开展业务的能力。支持中国这种政策的人则认为，它让中国有机会培养了一批繁荣的本土互联网企业。 <br>
+➜欧洲最高法院法律顾问认为超链接不侵犯版权
+https://www.solidot.org/story?sid=47786	33066
+欧洲最高法院总法律顾问<a target="_blank" href="http://in.reuters.com/article/internet-copyright-eu-court-idINKCN0X40VE"><u>认为</u></a>，未经作者授权链接到网站上的一张照片<a target="_blank" href="http://in.reuters.com/article/internet-copyright-eu-court-idINKCN0X40VE"><u>不构成版权侵犯</u></a>。这一建议不具有约束性，但欧盟法院通常会听取这些意见。欧洲规定版权作品的每一个交流行为都要获得版权所有者的准许，总法律顾问认为如果超链接也遵循这一规定将会伤害互联网，超链接主要充当了促进发现的作用。在荷兰的一起案件中，GeenStijl网站提供了一个荷兰名人照片的链接，照片在一个澳大利亚网站上展示，是花花公子杂志拍摄的，但该网站未获得花花公子的同意。
+➜Google Android考虑采用苹果的Swift语言
+https://www.solidot.org/story?sid=47787	34318
+The Next Web援引知情人士的消息<a target="_blank" href="http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/"><u>报道</u></a>，Google考虑将苹果的面向对象语言Swift作为Android的第一等语言，但这并不意味着Google将用Swift取代目前的第一等语言Java，至少一开始是如此。报道称，在Swift开源的时候，Google、Facebook 和Uber的代表在伦敦的一个会议上讨论了新语言Swift，Google认为Swift比Java有更多的优势。如果Android要支持Swift，Google有很多工作要做，它需要开发Swift运行时，开发支持Swift的标准库、API和SDK，一些用C++开发的底层API需要重写，用Java写的较高层API也需要重写。如果有足够的动机，在Android上支持Swift并非是不可能的事情。除了Swift，Google还考虑过其它语言如Kotlin，但不幸的是Google发现它的编译速度太慢。
+➜亚马逊云有100万用户，今年收入将达到100亿美元
+https://www.solidot.org/story?sid=47788	38822
+亚马逊CEO Jeff Bezos在<a target="_blank" href="http://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm"><u>致股东的信</u></a>中称 ，亚马逊云服务AWS有超过100万用户，今年的收入将达到100亿美元。AWS<a target="_blank" href="http://arstechnica.com/information-technology/2016/04/amazon-cloud-has-1-million-users-and-is-near-10-billion-in-annual-sales/"><u>于2006年3月推出</u></a>，最早的服务是 Simple Storage Service (S3)，几个月后增加了Elastic Compute Cloud (EC2)，允许客户在互联网上租赁虚拟机。云端服务让开发者可以根据需要获得计算能力，不需要自己操作服务器。过去几年，很多创业公司在亚马逊的数据中心和服务基础上构建了自己的在线业务。不仅将小公司依赖于亚马逊，很多大公司如Adobe、GE、Netflix和Pinterest也都使用亚马逊的在线平台。
+➜FBI局长称解锁iPhone 5c的方法不适用于新型号
+https://www.solidot.org/story?sid=47790	41847
+FBI在第三方帮助下解锁了San Bernardino枪击案枪手的iPhone 5c手机。路透社<a target="_blank" href="http://www.reuters.com/article/us-apple-encryption-fbi-idUSKCN0X4266"><u>报道</u></a>，FBI局长James Comey在Kenyon学院的一个关于加密监控的会议上称，解锁iPhone 5c的方法<a target="_blank" href="http://money.cnn.com/2016/04/07/technology/fbi-iphone-hack-san-bernardino/"><u>对新款的iPhone无用</u></a>。也就是该方法不适用于iPhone 5s、iPhone 6及iPhone 6s。iPhone 5c是苹果已经停产的一个廉价版本，被认为在安全性上弱于<a target="_blank" href="https://news.slashdot.org/story/16/04/07/2019228/fbi-director-says-unlocking-method-wont-work-on-newer-iphones"><u>新款的手机</u></a>。
+James Comey说，为了解锁手机政府从私人方购买了一个工具。
+➜NASA登月项目背后的人类计算机是一位黑人女性
+https://www.solidot.org/story?sid=47791	44575
+她计算的人类第一次登月之旅的轨道是如此精确，以至于John Glenn 请她复查NASA计算机的计算结果。除此之外，她还是一位黑人女性。在1950和1960年代的NASA，女性甚至不被邀请参加会议。在太空竞赛的黄金时代，她有一个绰号叫“人类计算机”。你可能从未听说过她——<a target="_blank" href="http://www.thedailybeast.com/videos/2016/04/07/the-human-computer-behind-the-moon-landing-was-a-black-woman.html"><u>她的名字叫Katherine Johnson</u></a>。以Katherine为主角的电影《<a target="_blank" href="http://www.imdb.com/title/tt4846340/?ref_=fn_al_tt_1"><u>Hidden Figures</u></a>》将在明年上映。
+➜电动车是否真正环保
+https://www.solidot.org/story?sid=47792	45700
+新加坡第一个特斯拉Model S车主将车运回国时，发现自己不但不能拿到大概15,000新币的政府电动车补贴，反而还收到了与补贴同等金额的罚单时，他大为惊讶。新加坡官员根据电动车充电量来计算发电的“碳成本”。经检测，这辆特斯拉车每公里要消耗444瓦·时电（也就是0.444度电）。这个数字遭到了特斯拉公司的反驳。特斯拉称汽车离厂时测试的能耗水平为181 瓦·时电量（也就是0.181度电），表示与新加坡陆路交通管理局进行了讨论，相信很快会得到解决。<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_aut/2016/04/160408_vert_aut_questioning-electric-vehicles-green-cred"><u>加州戴维斯Dan Sperling教授认为</u></a>，基于煤炭发电动力的电动汽车，其环境影响或与汽油车是一样的。“推广电动汽车正是看重其长期发展的潜力，发电系统的未来趋势是要脱离煤炭发电——在世界上几乎每一个国家都有这样的政策和策略。所以把它与今天的情况相比，真的是弄错重点了。

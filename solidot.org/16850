@@ -1,0 +1,51 @@
+➜Linux基金会宣布微内核项目Zephyr
+https://www.solidot.org/story?sid=47200	10962
+Linux基金会<a target="_blank" href="http://www.linuxfoundation.org/news-media/announcements/2016/02/linux-foundation-announces-project-build-real-time-operating-system"><u>宣布了</u></a>微内核项目<a target="_blank" href="http://www.zephyrproject.org/"><u>Zephyr</u></a>。Zephyr微内核将被用于开发针对物联网设备的实时操作系统（RTOS)。Zephyr项目得到了英特尔、 NXP半导体、Synopsys和UbiquiOS等公司的支持，英特尔子公司Wind River向Zephyr项目捐赠了它的Rocket RTOS内核。Wind River的Rocket RTOS将转变成基于Zephyr内核的下游商业发行版。Zephyr微内核能运行在只有10KB RAM的32位微控制器上，相比之下基于Linux的微控制器项目uClinux需要200KB RAM。
+➜优步在中国一年亏损10亿美元
+https://www.solidot.org/story?sid=47201	13123
+优步（Uber）CEO Travis Kalanick<a target="_blank" href="https://thestack.com/world/2016/02/17/uber-loses-1-billion-dollars-a-year-in-china/"><u>透露</u></a>，为了巩固在中国打车市场的地位，该公司一年在中国要亏损10亿美元以上。他声称优步的状况好于最主要竞争对手滴滴，因为优步能够通过利用来自其他国家的利润弥补亏损。“我们在美国是盈利的，但我们在中国每年亏损超过10亿美元，我们正面临一个凶猛的竞争对手，在所有他们存在的城市我们都没有盈利，但他们正砸钱买进市场份额。我希望世界不是这个样子。”滴滴快的<a target="_blank" href="http://www.ftchinese.com/story/001066252"><u>声称</u></a>Kalanick有关优步财务表现的言论“完全不实”，滴滴表示，在滴滴设有业务的400个中国城市中，超过一半已达到盈亏平衡。
+➜中小城市饱受产能过剩之苦
+https://www.solidot.org/story?sid=47202	13676
+即便在中国最偏远的地区，也存在阻碍中国经济实现繁荣发展并冲击全球经济的严重生产过剩问题。对于湖北随州而言，这个城市面临的是香菇和水泥车的过剩。随州有110家大型专用汽车制造商，是中国最大的香菇出口地。<a target="_blank" href="http://cn.wsj.com/gb/20160218/cec175431.asp"><u>随州的困境</u></a>反映出中国经济放缓的范围之广、程度之深，以及解决问题的难度之大。中国的问题引发了全球市场动荡，也对美国经济增长可能陷入停滞的担忧起到了推波助澜的作用。国内产能过剩意味着中国现在在海外的开支，同时，那些向中国销售产品的海外企业可能会面临旨在支持中国企业的保护主义措施。在中国需求不振之际，拥有闲置产能的中国工业巨头正在寻求夺取海外市场的份额，其中包括建筑和铁路设备生产商。
+➜利用旁路攻击窃取不联网笔记本上的密钥
+https://www.solidot.org/story?sid=47203	17361
+以色列特拉维夫大学的一组研究员利用旁路攻击方法<a target="_blank" href="https://motherboard.vice.com/read/how-white-hat-hackers-stole-crypto-keys-from-an-offline-laptop-in-another-room?utm_content=30237422&amp;utm_medium=social&amp;utm_source=facebook"><u>窃取了</u></a>相邻房间内（墙壁厚度15厘米）的不联网笔记本上的解密私钥。他们的方法是测量目标机器发射出的电磁辐射，测量设备的成本在3000美元左右。在测试中，研究人员向目标机器发送了使用GnuPG加密的信息，然后在目标机器使用私钥解密过程中测量其泄露的电磁辐射，对信号进行处理后获得的信息可用于提取密钥。整个过程仅仅只需要几秒钟时间。研究人员已经发表了他们的<a target="_blank" href="https://eprint.iacr.org/2016/129.pdf"><u>论文</u></a>（PDF），并计划在将在下个月举行的RSA会议上演示他们的研究，而GnuPG的开发者也发布了抵抗旁路攻击的补丁。
+➜美国参议员起草法案要将苹果拒绝解密的行为定为非法
+https://www.solidot.org/story?sid=47204	18825
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/20160219/bgh080416.asp"><u>报道</u></a>，美国参议院情报委员会主席、北卡罗来纳州共和党议员Richard Burr正在筹划一个议案，对那些不遵守要求其破解加密通信内容之法庭命令的公司实施刑事处罚，这可能令导致政府与硅谷陷入对立的争议升级。本周美国联邦法官要求苹果帮助FBI解密恐怖袭击案枪手手机的命令遭到了苹果的拒绝。Google CEO Sundar Pichai表态支持苹果，而NSA和CIA前局长 Michael Hayden也出人意料的<a target="_blank" href="https://theweek.com/speedreads/606641/exnsa-cia-chief-michael-hayden-sides-apple-fbi-iphone-encryption-fight"><u>站在了苹果一方</u></a>，认为FBI要求苹果开发后门的做法不妥。
+➜TP-Link开始锁定路由器固件禁止安装开源固件
+https://www.solidot.org/story?sid=47205	24418
+美国联邦通信委员会（FCC）为了防止无线网络的干扰而限制修改路由器等有无线电接收模块的设备，<a target="_blank" href="http://www.solidot.org/story?sid=45394"><u>此举引发了争议</u></a>，因为这意味着禁止安装第三方固件，但FCC辩解说它本意不在此。然而，无论FCC本意如何，现实是：为了遵守FCC的要求，路由器制造商深圳普联（TP-Link）<a target="_blank" href="http://ml.ninux.org/pipermail/battlemesh/2016-February/004379.html"><u>开始锁定路由器固件</u></a>，禁止运行无普联签名的固件，事实上禁止安装第三方固件如开源的OpenWRT。目前还不知道其它路由器制造商是否会跟进。开源的固件在安全性上和功能上都要胜过原版的固件。
+➜Ubuntu 16.04 LTS将支持ZFS
+https://www.solidot.org/story?sid=47206	26001
+Ubuntu开发者<a target="_blank" href="http://blog.dustinkirkland.com/2016/02/zfs-is-fs-for-containers-in-ubuntu-1604.html"><u>透露</u></a>，下一个长期支持版16.04 Xenial Xerus将正式支持ZFS文件系统。<a target="_blank" href="https://en.wikipedia.org/wiki/ZFS#Linux"><u>ZFS</u></a>最早是Sun为Solaris UNIX开发的高性能文件系统，其特性包括快照、写时拷贝克隆、持续数据完整性检查，自动修复和高效数据压缩。ZFS已被移植到Linux，但由于Linux内核使用的GPLv2许可证与ZFS的CDDL许可证不兼容，内核整合ZFS面临着法律和专利上的障碍。Ubuntu 16.04默认仍然使用ext4文件系统。
+➜软件探测CEO情绪预测公司财务状况
+https://www.solidot.org/story?sid=47207	28425
+中密苏里大学的金融学教授James Cicon开发出软件去分析财富500强企业执行官的脸部视频，寻找恐惧、愤怒、厌恶和惊讶等情绪信号。他发现， CEO的情绪与公司的利润率、资产回报率、股价波动等<a target="_blank" href="http://blogs.wsj.com/digits/2016/02/17/software-detects-ceo-emotions-predicts-financial-performance/?mod=trending_now_5"><u>存在相关性</u></a>。虽然恐惧、愤怒和厌恶都属负面情绪，但 Cicon博士发现它们与公司的正面财务表现相关，比如媒体采访时的厌恶表情与下个财季的总体收入上升相关；恐惧表情与下周的股价上升相关。Cicon博士运用心理学研究去解释这一现象：恐惧被广泛识别为一种强大的动力。
+➜《银翼杀手2》将于2018年1月12日上映
+https://www.solidot.org/story?sid=47208	30710
+著名科幻电影《银翼杀手》的续集《银翼杀手2》尚未开拍，但制作公司Alcon Entertainment<a target="_blank" href="http://arstechnica.com/the-multiverse/2016/02/blade-runner-2-release-date-announced-before-filming-begins/"><u>已经敲定了上映日期</u></a>：2018年1月12日。《银翼杀手2》将由<a target="_blank" href="http://www.imdb.com/name/nm0898288/?ref_=fn_al_nm_1"><u>Denis Villeneuve</u></a>执导，编剧是第一部的共同编剧Hampton Fancher，剧情将基于他与Ridley Scott之前合作时提出的故事。Scott因为忙于拍摄《普罗米修斯2》而无法参与这部电影。主演包括了哈里森福特（扮演Rick Deckard）和Ryan Gosling，剧情应该会讨论Deckard是否是复制人。电影预计将在今年7月开始拍摄。
+➜Marvell同意向卡耐基梅隆支付7.5亿美元了结专利诉讼
+https://www.solidot.org/story?sid=47209	32599
+2012年，美国的一个陪审团判决硬盘控制芯片生产商Marvell<a target="_blank" href="http://www.solidot.org/story?sid=32871"><u>侵犯了卡耐基梅隆大学的两项专利</u></a>，Marvell必须为专利侵犯赔偿1,169,140,271美元的损失。加上罚款和利息，卡耐基梅隆获得的赔偿金额将高达15.4亿美元。但上诉法院只批准了2.78亿美元的赔偿，其余损失的计算要求地区法院重审。双方不想再继续打官司，因此达成了和解，Marvell同意向卡耐基梅隆支付<a target="_blank" href="http://arstechnica.com/tech-policy/2016/02/marvell-will-pay-750m-to-carnegie-mellon-university-in-massive-patent-settlement/"><u>7.5亿美元了结诉讼</u></a>。7.5亿美元是美国至今金额第二高的技术专利赔偿，第一高的计算机相关专利支付。巨额赔偿对Marvell影响不大，该公司拥有25亿美元的现金和现金等价物。
+➜李嘉诚的移动公司考虑屏蔽广告
+https://www.solidot.org/story?sid=47210	34288
+李嘉诚长江和记实业的子公司Three UK和Three Italia正在与以色列公司Shine Technologies合作，<a target="_blank" href="http://cn.wsj.com/gb/20160219/biz144429.asp"><u>考虑在其移动网络屏蔽在线广告</u></a>。Three UK称，客户不应该被迫向移动广告所产生的数据流量买单，不相干的、过度的移动广告会干扰客户，影响客户的整体网络体验。Shine开发的平台可以屏蔽运营商网络内的在线广告，例如Alphabet 在浏览器或应用中投放的横幅和视频广告。
+➜纽约时报删除苹果拒绝FBI要求报道中与中国相关的段落
+https://www.solidot.org/story?sid=47211	38283
+<div align="center"><img src="http://img.solidot.org/0/384/litrb1upmKcF6.png" align=""><br>
+</div>
+<br>
+苹果拒绝帮助FBI解密手机，美国第一大报《纽约时报》在<a target="_blank" href="http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html?_r=0"><u>相关报道</u></a>（已修改）中提到了中国。原始报道称，中国正密切关注这一争端，分析师说中国通常在加密监管上会学习美方的做法，仿照美国对跨国公司提出类似要求。去年中国强制性要求外国企业提供加密密钥的提议在外国贸易组织的压力下作出了让步，但去年12月通过的反恐法仍然要求外国公司在反恐案件中根据警方要求提供技术信息和帮助解密。美国执法机构解锁iPhone的要求很有可能会鼓励中国提出类似的要求。但纽约时报后来<a target="_blank" href="http://daringfireball.net/linked/2016/02/18/nyt-china-apple"><u>删除这几段文字</u></a>，原因未知。<br>
+➜印度的24元智能手机是中国制造
+https://www.solidot.org/story?sid=47212	39674
+印度公司Ringing Bells周三宣布了最廉价的智能手机<a target="_blank" href="http://freedom251.com/"><u>Freedom 251</u></a>，仅售251卢比，约合人民币24元。这一价格令人难以置信，不出乎意料的是预购网站崩溃了。该公司声称网站遭到了每秒60万次点击。Ringing Bells的创始人Mohit Goel宣称手机是印度制造，但展示给媒体的原型却显示它是中国制造，商标名称还是另一家叫Adcom的公司的。Adcom是德里的一家科技产品进口商，它的 Ikon 4手机售价4000卢比，与Freedom 251的规格相似。Adcom市场部负责人对Freedom 251表示不知情。如此廉价的价格会没有政府补贴？Ringing Bells声称没有。行业专家表示，不考虑生产、发行和营销成本，手机零件的成本就相当于售价的8倍以上。每一部手机该公司就要亏损90%。Ringing Bells<a target="_blank" href="http://www.bbc.com/news/world-asia-india-35601544"><u>很可能是通过获得预购收入</u></a>，然后在几个月后履行交付承诺。
+➜两座望远镜的故事
+https://www.solidot.org/story?sid=47213	43670
+<div align="center"><img src="http://img.solidot.org/0/385/lix8Ioj6dTR2.jpg" align="" height="393" width="540"><br>
+<br>
+</div>
+两个望远镜项目，两个不同的故事，发生在地球上两个最大的经济体：原计划建造在夏威夷Mauna Kea山上的30米直径光学望远镜项目因为原居民的抗议而搁置，目前正在考虑替代位置；与此同时，贵州正在搬迁2029户家庭约 9110人， 为500米口径的射电望远镜FAST让路，没听说这些家庭表示过不满。两个故事的发生并不奇怪，美国采用的是代议民主制，政府需要听取民众意见，即使反对意见在无神论者看来非常可笑——夏威夷原居民反对的理由是望远镜玷污圣地；中国是专制国家，政府想做的事大都能做到，除非发生大规模的抗议。Ars的 Eric Berger<a target="_blank" href="http://arstechnica.com/science/2016/02/a-tale-of-two-telescopes-contrasting-approaches-in-hawaii-and-china/"><u>认为</u></a>，对于居民的被迫搬迁，中国科学界应该站出来表达反对意见，应该尽可能选择一个不需要搬迁居民的地方去建造望远镜。科学有时候在公众心目中的名声并不好，学者被认为站在高高的象牙塔上，不食人间烟火。建造和运行大型科学设备时忽视当地民众的担忧只会强化这一印象。科学家不应该踩在人民头上去搞研究。
+➜中国用大型科研项目吸引人才
+https://www.solidot.org/story?sid=47214	46092
+中国是最大的人才输出国之一，每年向海外输出大量学生，其中的佼佼者通常不会回国，而是留在国外。他们不回国理由包括学术职务和预算分配上普遍的任人唯亲，一个封闭的审查的互联网切断了科学家与国际科学社区的联系，以及政府驱动的科学文化。过去几年，<a target="_blank" href="http://www.bloombergview.com/articles/2016-02-19/china-hunts-for-aliens-and-scientists"><u>中国采取了许多措施吸引人才回国</u></a>，推出了千人计划，研发预算在2004年到2014年之间年均增长23%。但结果未必如愿，千人计划丑闻不断，研发预算被大量投入在见效快的项目而不是基础研究项目上。中国的最新做法是斥巨资建造大型基础研究设施，比如贵州的FAST射电望远镜，建造世界最大的粒子加速器，<a target="_blank" href="http://phys.org/news/2016-02-gravitational-unveiled-china.html"><u>引力波探测卫星</u></a>——在加州理工的科学家宣布直接观察到引力波之后，党报《人民日报》问“为什么我们错过了引力波？”。中国不想错过下一个大发现，至于这些宏大项目是否能成功暂时还是未知之数。

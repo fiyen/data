@@ -1,0 +1,39 @@
+➜为什么没有人发现NSA的大规模监控
+https://www.solidot.org/story?sid=43094	2214
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "<a target="_blank" href="http://blog.thinkst.com/p/if-nsa-has-been-hacking-everything-how.html">thinkst的分析师们觉得</a>随着Snowden越来越多的曝光NSA所干的丑事，虽然我们已经越来越清晰的看到了NSA在面对复杂系统时仍然出色的系统性工程能力，但我们还是会问一些问题，但其中最该问的一个问题是：”如果NSA的大规模监控已经到了这种程度，他们是怎么做到让人们察觉不到他们的存在？“。<a target="_blank" href="http://www.spiegel.de/international/world/new-snowden-docs-indicate-scope-of-nsa-preparations-for-cyber-battle-a-1013409-2.html">Spiegel在2015年1月17日公布</a>的可能包含了一些潜在的答案，thinkst的分析师认为可能存在几点原因：<i>
+<p>
+</p>
+<p>1，良好的保密工作，很多著名的安全研究人员肯定是了解NSA的部分工作，但他们可能没有看到整个全景，比如Dave Aitel专注于Fuzzing和漏洞利用框架，Jamie Bulter则是Rootkits方面的专家，Charlie Miller专注于Fuzzing和漏洞利用，诸如此类的技能点数有机的组合在一起可能就会“涌现”出Snowden曝光的复杂系统。</p>
+<p>
+</p>
+<p>2，你可能某些入侵是其他人干的，"<a target="_blank" href="http://www.spiegel.de/media/media-35684.pdf">4th party collection</a>"里描述了NSA会主动或者被动的去偷别的情报机构的资源来完成自己的任务，<a target="_blank" href="http://www.spiegel.de/media/media-35689.pdf">DEFIANTWARRIOR</a>里也谈到了劫持通用的僵尸网络可能有FBI的配合。</p>
+<p>
+</p>
+<p>3，防御者关注到了错误的方面，一个常见对顶级安全会议的批评是议题都关注在了极度复杂的攻击上，但很多网络被攻陷仅仅是因为没有打补丁和弱密码，这份文档里也谈到了NSA有专门负责通过底层编程实现的<a target="_blank" href="http://www.spiegel.de/media/media-35661.pdf">针对硬件的攻击</a>，对于大多数的安全团队而言，“底层”通常指的是在kernel层面的攻击，但NSA在kernel以外还瞄准了更<a target="_blank" href="http://www.spiegel.de/media/media-35660.pdf">底层的方面</a>包括固件，BIOS，总线和驱动层攻击，包括提到了他们能干的事情比如远程让网卡变砖，创建ARM平台的SSD的rootkit，针对最新SEAGATE硬盘驱动的rootkit，针对OSX的pre-boot持久化，BERSERKR是植入到BIOS运行于SMM（系统管理模式）的持久性后门。</p>
+<p>
+</p>
+<p>4，一些美妙的错误引导，制造假象<a target="_blank" href="http://www.spiegel.de/media/media-35676.pdf">干扰</a>分析师的工作。</p>
+<p>
+</p>
+<p>5，NSA在玩国际象棋而你在玩国际跳棋，即使是企业的<a target="_blank" href="http://blog.thinkst.com/p/cyberwar-why-your-threat-model-is.html">威胁建模中不考虑NSA是完全错误的</a>，<a target="_blank" href="http://www.spiegel.de/media/media-35654.pdf">一份文档</a>显示即使在2005年ROC是215名网络战士会在<a target="_blank" href="http://www.spiegel.de/media/media-35653.pdf">一天中“战斗”上百次</a>。</p>
+<p>
+</p>
+<p>6，你的“专家”可悲的让你失望了，Snowden曝光的内容无疑已经成为了这个时代性的全球背景，所以很多“安全专家”为了名气上新闻头条很乐意show出他们本来就是错误的观点，另外风投们也很浮躁，因为每天都能看到很多声称拥有"银弹"能解决一切安全问题的“专家”。thinkst分析师认为威胁建模是重要的环节，简单的讲，就是你得知道你到底在防御谁？谁会一直惦记着想日你？你能正确评估数字资产的价值吗？你会花远超数字资产价值的钱去请拥有“银弹”的“专家”吗？这些都是值得我们思考的问题。"</i>
+➜亚马逊订购《高堡奇人》全季
+https://www.solidot.org/story?sid=43095	8849
+<p align="center"><img src="http://img.solidot.com.cn/0/922/lieG08gZJGPMU.png" align=""><br>
+<br>
+</p>
+<p>根据用户的反馈，亚马逊宣布订购<a target="_blank" href="http://www.amazon.com/The-Man-High-Castle/dp/B00RSGFRY8"><u>《高堡奇人》全季</u></a>。《高堡奇人》改编自菲利普·K·迪克(PKD)的替代历史同名科幻小说，描述了德国和日本打赢二战并对美国分而治之，但一位住在高堡中的小说家却根据《易经》的预示创作了一本书讲述美国和英国打赢二战的故事。亚马逊上个月<a target="_blank" href="http://www.amazon.com/b/?_encoding=UTF8&amp;camp=1789&amp;creative=390957&amp;linkCode=ur2&amp;node=9940930011&amp;tag=destinyland-20&amp;linkId=3LMBTYHGRJXXYLCT"><u>公布了</u></a>13部原创剧的试播剧，其中就包括《高堡奇人》的试播剧。获得亚马逊订购全季的还有迷你纪录片《The New Yorker Presents》，犯罪喜剧片《Mad Dogs》，以及两部儿童剧，去年获得金球奖的《Transparent》已获第二季订购。《高堡奇人》由斯科特（Ridley Scott）的电影公司Scott Free制作，斯科特担任执行制片人，David Semel执导。</p>
+➜Windows 10将支持asm.js
+https://www.solidot.org/story?sid=43096	10121
+微软官方博客<a target="_blank" href="http://blogs.msdn.com/b/ie/archive/2015/02/18/bringing-asm-js-to-the-chakra-javascript-engine-in-windows-10.aspx"><u>宣布</u></a>它的Chakra JavaScript引擎将支持高性能JS子集asm.js。因为asm.js是JS的子集，所以它也能运行在IE上，但由于没有优化性能远低于Firefox。微软称，在<a target="_blank" href="https://status.modern.ie/asmjs"><u>status.modern.ie</u></a>上asm.js的标记从“考虑中”变为“开发中”，表示支持asm.js是用户最想要的功能之一。asm.js能在浏览器上实现接近原生的性能，除了Firefox支持外，Google Chrome的V8 JS引擎也为asm.js进行了优化。
+➜联想笔记本电脑捆绑了广告软件
+https://www.solidot.org/story?sid=43097	32793
+联想笔记本用户从去年年中开始在官方论坛上<a target="_blank" href="https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series/Lenovo-Pre-instaling-adware-spam-Superfish-powerd-by/td-p/1726839"><u>报告</u></a>他们的电脑预装了广告软件Superfish，软件会劫持搜索结果，在Google搜索页面及其它网站上注入广告。联想客服代表Mark Hopkins<a target="_blank" href="https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series/Lenovo-Pre-instaling-adware-spam-Superfish-powerd-by/td-p/1726839/page/3"><u>证实</u></a>Superfish是该公司预装在电脑中的，用户投诉之后他们已从系统中将该软件临时移除。他为Superfish辩护称，软件通过可视化的方法帮助用户发现产品，通过即时分析图像提供低价的相似产品。其他用户指出Superfish会安装自签名的CA证书，这允许它劫持加密连接，发动中间人攻击。除了劫持网页，Superfish还能用于<a target="_blank" href="http://thenextweb.com/insider/2015/02/19/lenovo-caught-installing-adware-new-computers/"><u>其它更为危险的恶意行为</u></a>。
+➜微信红包与实名制
+https://www.solidot.org/story?sid=43098	48349
+<a href="https://diwh6rhklifti.cloudfront.net/article/370">paopao</a> 写道 "微信红包推动了微信实名制的普及，腾讯利用这一方法让用户志愿递交私人隐私信息。<i>逢年过节发红包是中国传统风俗之一，电子红包打破了年龄段的限制，也取消了家族辈分的禁锢。上网收红包已成为一大流行趋势。2014年春节期间，“微信红包”一夜走红。据去年腾讯发布的数据，从除夕到初八，超过800万用户参与了微信红包活动，超过4000万个红包被领取，平均每人抢了4-5个红包。但使用微信红包实现到账功能有一个重要前提：必须绑定银行卡。没有绑定的用户可以收取红包，数额会显示在“零钱包”中，但无法提现，也无法消费。今年新版微信的摇一摇功能配置了定时派红包，腾讯推出了65亿红包，其中微信红包有5亿现金（单个最大红包为4999元）和30亿卡券，QQ红包则有30亿。除夕夜10点半央视春晚送红包，微信摇一摇的使用次数达72亿次，峰值8.1亿次每分钟，送出微信红包1.2亿个。“<a href="http://jingyan.baidu.com/article/495ba841f2122638b20ede65.html" rel="nofollow">抢红包时间表</a>”或许是近日网上传播量最高的一篇文章了。蓝鲸财经媒体官方微博透露，仅仅2天时间内微信绑定个人银行卡达2亿张，这个数额支付宝大致需要8年才能完成。银行卡、手机号是最广为人知的私密信息，也是多数网民排斥实名制的主要理由，而<a target="_blank" href="https://diwh6rhklifti.cloudfront.net/article/370"><u>当局强推实名制的目的则是针对言论的管控</u></a>。"</i>
+➜一颗恒星在7万年前穿过了太阳系
+https://www.solidot.org/story?sid=43099	50910
+一颗红矮星在7万年前近距离<a target="_blank" href="http://www.bbc.com/news/science-environment-31519875"><u>穿过了太阳系</u></a>。<a target="_blank" href="http://iopscience.iop.org/2041-8205/800/1/L17/article"><u>研究报告</u></a>发表在《Astrophysical Journal Letters》上。这颗被称为Scholz星的红矮星穿过了太阳系外围的奥尔特云，与太阳最近时只有0.8光年，相比之下比邻星与太阳相距4.2光年。比邻星是太阳系最近的恒星。<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E7%89%B9%E4%BA%91"><u>奥尔特云</u></a>是包围着太阳系的球体云团，距离太阳约1光年。领导这项研究的天文学家Eric Mamajek称，他们有98%的把握确信Scholz星穿过了外奥尔特云。这颗恒星目前距离太阳约20光年。它是一个双星系统，由一颗红矮星和一颗棕矮星构成。Mamajek博士认为，大约每间隔10万年，会有一颗恒星穿过奥尔特云，但像Scholz星这样近的距离穿过奥尔特云是极其罕见的事件，可能每900万年才会发生一次。

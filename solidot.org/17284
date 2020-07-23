@@ -1,0 +1,48 @@
+➜Tor 0.3.0.6 发布
+https://www.solidot.org/story?sid=52218	13101
+Tor 匿名网络项目<a href="https://blog.torproject.org/blog/tor-0306-released-new-series-stable" target="_blank"><u>宣布</u></a>释出了 Tor 0.3 分支的首个稳定版本 0.3.0.6，源代码现在<a href="https://www.torproject.org/download/download" target="_blank"><u>可以下载</u></a>，但打包的版本还需要几周准备，相关的 Tor Browser 版本预计将在 5 月底或 6 月初释出。Tor 0.3.0.6 的主要变化是客户端和中继使用 Ed25519 密钥验证链路到中继的连接，取代了旧版使用的 RSA1024，重新设计了  guard 选择算法，改变决定 DNS TTLs&nbsp; 的算法以更好的抵抗基于 DNS 的相关性攻击 。其它还有许多小的变化，bug 修正和为未来隐藏服务大修而进行的基础工作。
+➜中国金融行业拥抱机器人理财
+https://www.solidot.org/story?sid=52219	14737
+中国金融行业正准备迎接投资顾问及交易计划的自动化、也就是“<a href="http://cn.reuters.com/article/robo-advice-brokers-0427-thursday-idCNKBS17T0HO" target="_blank"><u>机器人顾问</u></a>”热潮。根据市场研究公司 Statista，2015 年之前，中国几乎看不到机器人顾问服务，但预料 2017 年底时这些顾问料将管理 271 亿美元资产，虽然与美国的 1,820 亿美元规模相比仍有段差距，但美国发展此类服务已有数年时间。Statista数据显示，中国市场自 2017 年起至 2021 年将每年翻倍成长，远高于美国的29%增幅，这将使两地市场规模差距急速缩小。使用机器人顾问服务的中国投资人数量预料将在这段时间内成长至 7,940 万人，而去年还不到 200 万人使用此服务。
+➜俄罗斯电信公司劫持金融服务的网络流量
+https://www.solidot.org/story?sid=52220	18020
+本周三，MasterCard、Visa 等数十家金融服务企业的网络流量在短时间内<a href="https://arstechnica.com/security/2017/04/russian-controlled-telecom-hijacks-financial-services-internet-traffic/" target="_blank"><u>被俄罗斯国有电信公司 Rostelecom 劫持</u></a>。Rostelecom 通过 BGP 广播将不属于它的网络前缀声明归属于它，这可能是一次人为错误，但针对的目标是金融行业的重要企业，因此这次 BGP 异常非常可疑。Dyn 的总监 Doug Madory 指出，典型的失误通常是不加选择的，但这一次事故显然是瞄准了金融机构。事故发生周三下午太平洋时间  3:36pm 左右，Rostelecom 突然同时声明拥有 36 个原来属于不同金融公司的网络前缀，随后受影响网络的流量重定向经过 Rostelecom 的路由器。劫持持续了 5 到 7 分钟。这次劫持允许俄罗斯拦截或操纵受影响地址空间的流量流动。<a href="http://www.solidot.org/story?sid=17230" target="_blank"><u>类似的事件</u></a>中国 ISP 也发生过，但不像这次那么具有针对性。
+➜Chrome 隐身模式将 HTTP 网站标记为不安全
+https://www.solidot.org/story?sid=52221	19755
+Google 宣布了准备将所有 HTTP 网站标记为不安全的<a href="https://venturebeat.com/2017/04/27/chrome-will-start-marking-http-sites-in-incognito-mode-as-non-secure-in-october-2017/" target="_blank"><u>第二个措施</u></a>：到 2017 年 10 月，Chrome 在隐身模式下会将所有 HTTP 网站标记为不安全。Chrome 此前已将输入密码或信用卡号的 HTTP 页面标记为不安全。去 HTTP 化的 第二步将在 10 月发布的 Chrome 62 中启用。
+➜Facebook 和 Google 是一亿美元支付骗局的受害者
+https://www.solidot.org/story?sid=52222	25560
+根据美国司法部上个月公布的新闻稿，48 岁的立陶宛男子 Evaldas Rimasauskas 利用电子邮件骗局从两家美国大型科技公司<a href="http://www.solidot.org/story?sid=51791" target="_blank"><u>骗取了一亿美元</u></a>。他在拉脱维亚注册了一家公司，名字与另一家合法的亚洲计算机硬件制造商非常相似，两家受害者公司与这家制造商有合作关系，定期向其汇款。Rimasauskas 向目标公司的雇员发送电子邮件，诱骗其向他控制的不同银行账号转账。美国司法部当时没有披露受害者的名字，只是声明其中一家提供互联网相关的服务和产品，另一家提供社交网络服务。现在我们<a href="http://fortune.com/2017/04/27/facebook-google-rimasauskas/" target="_blank"><u>知道了</u></a>这两家公司的名字，硅谷巨人 Facebook 和 Google。两家公司对这一骗局保持沉默大概是为了避免名誉受损和吸引模仿者。
+➜卡西尼号穿过土星环近距离接触土星
+https://www.solidot.org/story?sid=52223	30275
+<div align="center"><img src="http://img.solidot.org/0/315/liC2TeLiqoPC.jpg" width="400" align="" height="400"><br>
+</div>
+<br>
+NASA 卡西尼号探测器<a href="https://www.nasa.gov/feature/jpl/nasa-spacecraft-dives-between-saturn-and-its-rings" target="_blank"><u>开始了它的最后旅程</u></a>，穿过土星内环，近距离绕土星飞行，最终进入土星大气层坠毁，时间是在今年 9 月。卡西尼号在 4 月 26 日 2 a.m. PDT 穿过土星及其内环的狭窄缝隙，进入到土星云顶约 3000 公里的轨道，抵达从未探索过的区域，发回了土星大气层的近距离照片（如图）。土星大气层顶部与内环之间的缝隙大约 2000 公里宽。为了防御环内的微小颗粒，卡西尼号将它的蝶形天线作为盾牌，指向迎面而来的颗粒。这意味着在穿过土星环期间它无法与地球联系。下一次穿过土星环定在 5 月 2 日。
+➜黑莓自己设计的最后一款手机将于 5 月底上市
+https://www.solidot.org/story?sid=52224	30613
+<div align="center"><img src="http://img.solidot.org/0/170/liZiIVbyEzsk.jpg" width="450" align="" height="300"><br>
+</div>
+<br>
+黑莓<a href="http://crackberry.com/award-winning-blackberry-keyone-official-sale-details-announced-canada?utm_medium=slider&amp;utm_campaign=navigation&amp;utm_source=cb" target="_blank"><u>宣布</u></a>它自己设计的最后一款手机  BlackBerry KeyOne 将于 5 月底上市，其中向加拿大预购者交付的时间是 5 月 18 日，在加拿大和美国上市的时间是 5 月 31 日。以后的黑莓手机都将由中国公司 TCL 贴牌设计。KeyOne 有物理键盘，运行定制版的 Android 7.1.1 系统，显示屏 4.5 英寸分辨率 1620×1080，2.0GHz Snapdragon 625 SoC，3GB 内存，32GB 存储，3505mAh 电池，一个 MicroSD 卡插槽，一个 USB Type C 端口， 12MP 后置 8MP 前置摄像头，等等。它的售价是 549 美元，两年合约价 199 美元。
+➜Debian 9 Stretch 可能将不支持 Secure Boot
+https://www.solidot.org/story?sid=52225	33364
+Debian 团队宣布 Debian 9 Stretch 在发布时将不太可能会支持 Secure Boot。Debian 9 的代码在今年 2 月冻结，之后开发者的精力转向解决 bug 等问题上。UEFI Secure Boot 是微软在 Designed for Windows 8 认证时要求 OEM 的产品必须支持，它的设计目的是防止恶意程序潜入到引导进程，用户如果想要在机器上安装替代操作系统，那么该操作系统需要获得微软的有效签名。Debian <a href="http://meetbot.debian.net/debian-release/2017/debian-release.2017-04-26-19.02.html" target="_blank"><u>团队称</u></a>，shim 得到了微软签名，但 dak 没有。开发者表示，虽然 Stretch 在发布时可能不会支持 Secure Boot，但在 Stretch 生命周期内引入  Secure Boot 支持仍然是可能的。
+➜大疆更新软件以防无人机被恐怖分子利用
+https://www.solidot.org/story?sid=52226	33909
+无人机制造商大疆<a href="http://www.ftchinese.com/story/001072392" target="_blank"><u>发布了一个软件更新</u></a>，意图是给一直在使用低成本四轴飞行投放炸弹的 ISIS 恐怖分子制造障碍。这一在整个伊拉克和叙利亚建立其产品禁飞区的举措，是大疆首次承认其产品被恐怖分子利用——尽管是一种默认。这也是各国当局与高科技公司之间在恐怖主义问题上的紧张关系的最新表现。过去几个月，美国军方官员越来越担心 ISIS 使用类似大疆精灵这样的无人机。这种无人机是为消费级摄影师设计的，可以用智能手机或遥控器控制，售价几百美元。最初，这些无人机被 ISIS 用于监控。之后，ISIS 开始从这些小的飞行工具上向摩苏尔及附近地区的伊拉克武装力量投掷手榴弹和临时性爆炸物。
+➜NASA 推迟其重型火箭发射系统 SLS 的首次试射
+https://www.solidot.org/story?sid=52227	36939
+NASA <a href="https://arstechnica.com/science/2017/04/senior-official-nasa-will-delay-first-flight-of-new-sls-rocket-until-2019/" target="_blank"><u>决定推迟</u></a>新一代重型火箭发射系统 Space Launch System（SLS）首次试射，从原计划的 2018 年 11 月延期到 2019 年初。SLS 是 NASA 正在研发的世界最强火箭，是重返月球、探索小行星和火星等未来太空任务的核心发射系统。但火箭、火箭准备搭载的负荷 Orion 飞船和地面发射系统都被发现存在问题。美国政府问责局（GAO）的<a href="http://www.gao.gov/assets/690/684360.pdf" target="_blank"><u>报告（PDF）</u></a>称，火箭核心级有开裂问题。它强烈建议 NASA 公开承认发射需要延期的可能性，向国会提供更合理的发射准备日期。
+➜生物医学研究危机
+https://www.solidot.org/story?sid=52228	38053
+众所周知，生物医学研究领域存在再现性危机，也就是研究结果难以重现，已有的研究结论因此靠不住。但与此同时，全世界的制药公司却在这些靠不住的结论上大笔投资，延缓了寻找有效新药物的进度。<a><u><a href="http://cn.wsj.com/gb/20170428/OPN170740.asp" target="_blank">造成 “再现性危机” 的成因有</a>很多</u></a>，受污染的研究材料是主要罪魁。另一个导致错误的重要来源是糟糕的实验设计。太多科学家要么实验设计不严密，要么没能正确进行实验分析。他们在实验中使用的动物往往太少，且没有采取减少偏见风险所必需的所有措施。第三个问题是培训不足。令培训不足问题雪上加霜的，是科研人员希望一鸣惊人的学术压力。生物医学研究领域的竞争十分激烈，这主要是因为经费难搞。美国国家科学基金会 2014 年的数据显示，美国高等院校 58% 的生物医学研究由美国联邦政府资助，只有 4% 由州和地方政府资助，其余由大学基金会、企业和非营利组织资助。
+➜百度利润下滑，将增加内容支出
+https://www.solidot.org/story?sid=52229	41977
+因为魏则西事件之后政府对在线广告的限制，百度过去一年的增速放缓至成立以来的最低水平，刚刚公布的 Q1 财报显示其净利润同比下滑 10%。为了恢复增长，百度<a href="https://www.bloomberg.com/news/articles/2017-04-27/baidu-projects-sales-that-miss-estimates-on-struggles-with-ads" target="_blank">将增加内容的支出</a>，以及增加 AI 投入。百度并不是唯一一家投资 AI 的互联网公司，腾讯和阿里巴巴也都向 AI 投入了大量资金，难以判断百度是否能在竞争中脱颖而出。 百度曾在支配地位的在线业务正遭到竞争对手的吞食。百度将主要在视频流媒体和新闻聚合服务上增加内容支出。该公司旗下的视频网站爱奇艺刚刚与 Netflix 达成了内容授权协议。
+➜Google 测试者的神秘生活
+https://www.solidot.org/story?sid=52230	45048
+Google 的算法离不开人的测试，用户在 Google 上搜索能有不错的体验离不开这些测试者的功劳。这些测试者被称为 rater，他们不是 Google 的雇员，而是合同工。他们很多人是全职给 Google 工作。这些测试者的雇主不是 Google&nbsp; 而是合同公司如 Leapforce、Lionbridge、Appen 和 ZeroChaos，它们中有一部分是由前 Google 雇员创办的。他们工作模式类似众包平台 MTurk，但收入要高。他们的平均时薪能有 13.50 美元，最高能获得 17.40 美元。本月初， 主要 合同公司 Leapforce 向它的数千名合同工发送电子邮件，称每个日历周的工作时长将限制在  26 小时。这意味着合同工的收入将会大幅下降，他们很多是残疾人、住在偏远地区或需要照顾年幼的孩子，不太容易找到全职的工作。所以这一变动在社区引发了恐慌和混乱。Leapforce创始人/CEO Daren Jackson 指出，这个变动不在他们控制之中，是 Google 律师的要求。原因是 Google 担心联合雇佣将需要它承担雇佣这些 rater 的责任。而  rater 们也认为他们主要是为 Google 工作，是 Google 工作表现的组成部分。他们对 Google 的做法非常生气，质疑搜索巨人<a href="https://arstechnica.com/features/2017/04/the-secret-lives-of-google-raters/" target="_blank"><u>知不知道他们是人</u></a>？<br>
+➜预印本服务 BioRxiv 得到了扎克伯格慈善基金的资助
+https://www.solidot.org/story?sid=52231	45995
+面向生物学领域的预印本服务 BioRxiv <a href="http://www.nature.com/news/biorxiv-preprint-server-gets-cash-boost-from-chan-zuckerberg-initiative-1.21894" target="_blank"><u>宣布</u></a>获得了扎克伯格慈善基金 Chan Zuckerberg Initiative (CZI)的资助。这笔为期多年的资助计划将用于支付雇员、技术开发和基础设施的支出。CZI 由 Facebook 联合创始人 Mark Zuckerberg 和他的妻子Priscilla Chan 在 2015 年创办，去年 9 月他们<a href="http://www.solidot.org/story?sid=49770" target="_blank"><u>承诺</u></a>将在未来十年向医疗研究投资 30 亿美元，他们的最终目标是到本世纪末治愈和预防所有疾病。BioRxiv 目前使用的是  HighWire Press 的商业软件，但 CZI 资助开发的软件将都开源，整个网站也计划迁移到开源平台。

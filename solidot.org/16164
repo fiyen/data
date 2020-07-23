@@ -1,0 +1,85 @@
+➜Brendan Eich辞职
+https://www.solidot.org/story?sid=39011	5779
+刚刚就任CEO一周多时间的Brendan Eich在争议声中<a target="_blank" href="https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/"><u>选择了辞职</u></a>。JavaScript作者因为在2008年向加州反同性恋婚姻公投提案及提案支持者捐款数千美元而遭到了LGBT平权支持者的强烈抨击。Mozilla执行董事长Mitchell Baker在官方博客上称，接替 Eich的人选还在讨论之中。她表示，Mozilla信仰平等和言论自由，而平等对于有意义的言论是必不可少的，我们需要言论自由为平等而战，但搞清楚如何同时支持平等和言论自由却可能是困难的。
+➜Atom 文本编辑器——GitHub 的折扣开源
+https://www.solidot.org/story?sid=39012	9175
+<a href="mailto:wxy@linux.cn">linux</a> 写道<i> "GitHub 的新文本编辑器<a target="_blank" href="http://readwrite.com/2014/02/28/github-atom-text-editor#feed=/hack&amp;awesm=~oxpErHVIIaxz3H"><u>并不完全开源</u></a>(<a target="_blank" href="http://linux.cn/article-2802-1.html ">中文</a>)，看起来并没有人在意这一点。Samuel Greenwald 认为“任何 IT 领袖如果没有开源观念，那注定会失败。” 然而即使你的开源观念打了折扣、不那么纯粹，其实大众也并不会刁难你。特别是在你祭出古怪反复的许可证花招时，即使是开源界最精明的精英也可能被忽悠住。例如就拿GitHub来说。GitHub刚刚发布了<a target="_blank" href="https://atom.io/"><u>Atom</u></a>文本编辑器，获得了很多赞赏。虽然有些人赞美Atom“完全开源”，但其实它并非如此。在我看来，还差得很远。不管怎样，并不是说 GitHub 把Atom 全部伪装成开源。正如 GitHub 联合创始人Tom Preston-Werner所说，只有“Atom 核心”代码将会是闭源的，而“其余现有的所有Atom 代码将永远遵守 MIT-licensed许可证。”原因纯粹是商业化的，他这么解释道：Atom将不会封闭源代码，但它也不会开源。它将介于两者之间，这样我们更易于对 Atom 进行掌控，同时，人们还可以在许可证的限制下看到它如何运行。关于这一点，我们还没有最终决定究竟如何具体实施。我们将在充分的细节准备后正式启动。早在开源的初期，我们就有了这个概念。"</i>
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+事实上，微软也是这么做的。微软称之为“共享源代码”， 于2002年推出，共享源代码是微软为其社区提供的一种方式，用来监测，但不触及（或重新分配）微软的源代码。SAP 的大数据主管 Vijay Vijayasankar 提醒我们，对微软来说这个方法没有这么好，但对GitHub 可能会做的更好：<br>
+<br>
+@dberkholz 我记得OSI人士严重批评了微软，说这是微软的一个营销噱头。但这次 GitHub 会做得更好 — Vijay Vijayasankar (@vijayasankarv) 2014年2月27日<br>
+<br>
+他也许是对的。<br>
+<br>
+毕竟，微软是邪恶帝国，一直将开源抹黑为“毒瘤”之类的东西。而 GitHub，无论在哪儿，都是开源项目的养父母。 2013年 GitHub突破千万代码库，增添300万新用户，每周狂热的活跃量包括：20,000个问题，50,000个评论，250,000个来自世界各地贡献者的提交，保证了代码库进展。<br>
+<br>
+换句话说，GitHub是零起点的开源项目。<br>
+<br>
+也许正因为如此，GitHub 得到了一个免费通行证。在HackerNews评论上，少数人似乎过于在意，他们认为 GitHub 没有真正开源 Atom。作为一个社区，开源已经在很大程度上战胜了免费软件：少教条，更实用。我们已经身处这样一个节点，许多所谓的“GitHub一代”甚至懒得去费心将许可证分配给他们的软件。<br>
+<br>
+这是好事吗？<br>
+<br>
+很难说，甚至很难与 GitHub 的做法争辩，它带给世界一个高品质、低成本的文本编辑器，似乎并没有伤害任何人，潜在里还可能帮助许多人。开源社区是自由意志论者：并不愿意去制定许可证，它更关心的是良好的代码和产品。<br>
+<br>
+这就是为什么 GitHub、Atlassian 和 Amazon 的 Web 服务都依赖于专有软件或服务来赚钱，同时却如此惊人地受到开源开发者的欢迎。<br>
+<p></p>
+➜微软开源.NET库，成立.NET基金会
+https://www.solidot.org/story?sid=39013	12052
+<div align="center"><img src="http://img.solidot.com.cn/0/163/liqZ8xmy8ZeYs.png" align=""><br>
+<br>
+</div>
+微软在Build开发者大会上<a target="_blank" href="http://arstechnica.com/information-technology/2014/04/microsoft-open-sources-a-big-chunk-of-net/"><u>宣布开源</u></a>一批.NET库和相关技术，成立.NET基金会去管理和引导开源组件的开发。微软还将在Apache 2.0许可证下开源<a target="_blank" href="http://roslyn.codeplex.com/"><u>Roslyn</u></a>编译器堆栈，Roslyn是微软所谓的编译器即服务，包含了C#和 Visual Basic.NET 编译器。.NET基金会由来自微软、GitHub和Xamarin的代表组成，Xamarin由GNOME创始人Miguel de Icaza等人创建，开发.NET开源实现。Xamarin向基金会贡献了它的部分库。de Icaza在接受采访时表示，微软已经变了，不仅仅移除了许可证中的限制，而且与Xamarin合作征求设计反馈，在创作共用许可证下发布文档。
+➜土卫二下发现液态海洋
+https://www.solidot.org/story?sid=39014	15886
+<div align="center"><img src="http://img.solidot.com.cn/0/165/liggamHp9i2XQ.jpg" height="481" width="480"><br>
+<br>
+</div>
+在太阳系一天体上发现液态水已足以令人激动了，但更令人兴奋的是发现液态海洋。研究人员在《科学》期刊上<a target="_blank" href="http://www.sciencemag.org/content/344/6179/78"><u>报告</u></a>，他们在土卫二(Enceladus)上<a target="_blank" href="http://arstechnica.com/science/2014/04/cassini-points-to-a-hidden-ocean-on-saturns-icy-moon/"><u>发现了液态海洋</u></a>。Enceladus是一颗很小的卫星，直径只有500公里，科学家本来没有预料会在这么小的一颗卫星上发现液态海洋，因为它太小而没有足够的内能能保持核心熔融。但在2005年，卡西尼号探测器绕土星飞行时在Enceladus的南极发现了间歇泉，间歇泉需要液态水。研究人员通过分析卫星引力对卡西尼飞行速度的影响而推断出它的内部结构：它的核心大约直径200公里，上面有一层约10公里厚的液态水，再上面则是40公里厚的冰壳。卫星南极的液态水层最厚。它存在液体水的原因可能是土星引力对Enceladus内部的潮汐加热作用。
+➜白宫不满三星用奥巴马肖像做广告
+https://www.solidot.org/story?sid=39015	16950
+<div align="center"><img src="http://img.solidot.com.cn/0/166/lihcO57xNNSdo.jpg" align=""><br>
+<br>
+</div>
+波士顿红袜队球星David Ortiz本周访问白宫时用三星手机和奥巴马玩自拍，三星美国<a target="_blank" href="https://twitter.com/SamsungMobileUS/status/451034331046502400"><u>Twitter帐号</u></a>随后上传了自拍照，借用奥巴马肖像推销旗下产品。<a target="_blank" href="http://cn.wsj.com/gb/20140404/SHJ102043.asp"><u>白宫对此表达了不满</u></a>。白宫新闻秘书Jay Carney周四表示，奥巴马的法律团队反对三星将上述照片用于商业营销。Carney表示，白宫向来反对外界将总统肖像用于商业目的，对于三星的做法也是毫无例外地反对。三星周二表示，Ortiz能在访问白宫期间用Galaxy Note 3捕捉到这个具有特殊意义的历史性时刻，三星对此欣喜万分。三星说，此前脱口秀主持人Ellen DeGeneres在奥斯卡颁奖礼上也曾用三星手机自拍，现在轮到Ortiz和他的粉丝分享美妙时刻了。
+➜虚幻引擎4.1加入Linux和SteamOS支持
+https://www.solidot.org/story?sid=39016	24056
+<div align="center"><img src="http://img.solidot.com.cn/0/167/liXKz3Z8ofIs.png" align="" height="287" width="480"><br>
+<br>
+</div>
+在CRYENGINE引擎加入Linux支持之后，另一个知名游戏引擎开发商Epic Game<a target="_blank" href="https://www.unrealengine.com/blog/41-update-preview"><u>宣布</u></a>虚幻引擎4.1加入对Linux和SteamOS的初步支持。SteamOS是基于Debian的发行版。Epic Game在官方博客上示爱，“我们爱Linux”，称开发者现在可以为Linux和SteamOS平台打包和部署游戏。有许多游戏工作室使用虚幻引擎制作3A级游戏，其中著名的虚幻引擎游戏<a target="_blank" href="http://en.wikipedia.org/wiki/List_of_Unreal_Engine_games"><u>包括了</u></a>《质量效应》系列，《生化奇兵》系列、《无主之地》系列、《羞辱》和《神偷》等等。CRYENGINE和虚幻引擎4都采用了<a target="_blank" href="http://www.solidot.org/story?sid=38794"><u>订阅模式</u></a>。<br>
+➜手机游戏百万富翁的内疚
+https://www.solidot.org/story?sid=39017	25928
+2013年3月的一个晚上，Rami Ismail 和他的商业合作伙伴Jan Willem发布了一款手机游戏《Ridiculous Fishing》。24岁的Ismail第二天早上醒来发现自己赚到了数万美元，<a target="_blank" href="http://www.newyorker.com/online/blogs/elements/2014/04/the-guilt-of-the-video-game-millionaires.html"><u>他的第一反应不是高兴而是内疚</u></a>。他的母亲在当地政府部门工作，已经上班去了。他说，“当我还是孩子的时候，我看到母亲每天早晨6点醒来，工作一整天，回到家为我们兄弟俩做晚饭——偶尔会对我大喊说我打了太多的电脑。”“那天我的第一想法是我在睡觉时赚到的钱比她工作一整年还多。而我所凭借的是一款用机关枪扫射鱼的移动游戏。”《Ridiculous Fishing》在苹果App Store上线的第一个月赚到了数十万美元，获得了苹果全球开发者大会的设计奖，半年内的销售收入突破了百万美元。尽管他和Willem为这个游戏付出了许多，但母亲驾车去工作的场景始终无法从他的脑海中驱除出去。Ismail不是唯一一个因为突如其来的成功而<a target="_blank" href="http://www.solidot.org/story?sid=38690"><u>挣扎</u></a>的游戏开发者。
+➜Rust 0.10发布
+https://www.solidot.org/story?sid=39018	28280
+Mozilla<a target="_blank" href="https://mail.mozilla.org/pipermail/rust-dev/2014-April/009387.html"><u>宣布</u></a>发布Rust编译器和工具的0.10版。Rust是Mozilla开发的注重安全、性能和并发性的编程语言。0.10版有1500多项变化和bug修正，其中包括了大量的语法和语言上的小改变，如移除了关键词 `do` ；其它变化包括了cross-crate语法扩展和宏，改进了智能指针，改进了I/O的错误处理，引入了新的 RFC过程，自动生成nightly版二进制安装程序，默认开启本地线程，等等。
+➜多家知名网站不再向作者展示点击率数据
+https://www.solidot.org/story?sid=39019	31547
+《The Verge》、《Re/code》（即AllThingsD）和《MIT Technology Review》等多家知名的科技网站都不再向记者和文章作者<a target="_blank" href="http://blog.hubspot.com/opinion/journalists-dont-look-at-traffic-numbers?curator=MediaREDEF"><u>展示点击率数据</u></a>。《Technology Review》的主编兼CEO Jason Pontin说，他们过去向记者和编辑展示流量，督促他们增加点击率，但带来了错误的结果，所有他们停止了这一做法。展示流量和鼓励流量增长所带来的意想不到的后果是他们变成了“流量妓女”，他希望文章作者能专注于见解、叙事和质量。所谓的“流量妓女”就是为了追逐流量而不惜一切手段。
+➜玩吃豆人，训练人工智能
+https://www.solidot.org/story?sid=39020	35155
+计算机能彼此帮助学习不熟悉的任务。随着人工智能技术的进步，未来先进的机器人将能用于教育人类。华盛顿州立大学的研究人员开发出算法，通过玩经典游戏《吃豆人》和《星际争霸》，<a target="_blank" href="http://spectrum.ieee.org/tech-talk/computing/software/computers-learn-and-teach-each-other-by-playing-pacman"><u>帮助计算机学习和互相指导</u></a>。<a target="_blank" href="http://www.tandfonline.com/doi/abs/10.1080/09540091.2014.885279?journalCode=ccos20#.Uz2tbzmI6wk"><u>结果</u></a>发表在《Connection Science》期刊上。研究人员给两种虚拟机器人起绰号为student agent和teacher agent，student agent试图从迷宫中逃脱幽灵追逐同时吞食豆子，当student陷入困境，teacher agent将会及时提供建议。而知道何时才是提供建议的正确时刻是教师和父母都试图努力掌握的技能。研究人员发现，多个student agent机器人通过学习独立思考，很快超过了不完美的teacher agent。如果计算机能互相切磋以更高效的玩游戏，那么它们什么时候将会学会<a target="_blank" href="http://arstechnica.com/science/2014/04/computers-used-to-teach-other-computers-to-play-pac-man-starcraft/"><u>玩热核战争游戏</u></a>？
+➜Imgur获得4千万美元风投
+https://www.solidot.org/story?sid=39021	37442
+照片分享网站Imgur从风险投资基金Andreessen Horowitz<a target="_blank" href="http://bits.blogs.nytimes.com/2014/04/03/imgur-image-sharing-site-raises-40-million-from-andreessen-horowitz/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1&amp;"><u>获得了4千万美元的风投</u></a>。Imgur是创始人Alan Schaaf五年前为Reddit社区用户<a target="_blank" href="http://www.reddit.com/comments/7zlyd/my_gift_to_reddit_i_created_an_image_hosting"><u>开发的</u></a>，旨在提供一个简单易用、没有广告的图像共享网站。如今Imgur甚至比Reddit还要受欢迎，每天有150万张图像上传，13亿浏览量；每个月吸引了1.3亿独立访问用户。Reddit也向Imgur投入了一小笔钱，Reddit上分享的图像基本上都托管在Imgur上。
+➜当群众比中情局分析师更聪明
+https://www.solidot.org/story?sid=39022	40851
+Elaine Rich坐在自家厨房桌子旁试图估计叙利亚的难民潮。这不是她考虑的唯一问题，她还在思考朝鲜是否会在2014年5月10日前发射新的多级导弹？俄罗斯军人是否会在5月10日前进入乌克兰东部城市Kharkiv？Rich的答案将在情报社区进行评估，她对此并无压力，她只是一名预测未来国际事件的爱好者，是<a target="_blank" href="http://www.goodjudgmentproject.com/"><u>Good Judgment Project</u></a>项目的3000名参与者之一。过去三年，他们预测了从委内瑞拉天然气补贴到朝鲜政治的各种事件，而根据一份报告，他们的预测结果<a target="_blank" href="http://www.npr.org/blogs/parallels/2014/04/02/297839429/-so-you-think-youre-smarter-than-a-cia-agent"><u>比中情局的专业分析师还要出色</u></a>。60多岁的Rich首次听说这个实验时，并不认为自己非常擅长于预测国际事件，她对国际事务所知不多，在学校里没花多少时间学习数学。但她却脱颖而出，成为3000多名参与者中1%的佼佼者之一。心理学家Philip Tetlock是Good Judgment Project的三名发起人之一，他说，群众的智慧是这个项目的重要组成部分，是准确性的重要驱动力量。
+➜FireChat或能推动网状网的普及
+https://www.solidot.org/story?sid=39023	41545
+网状网的一个局限是需要足够多的人参与进来才可能组建一个本地的无线局域网。苹果的iOS 7包含了网状网的功能，这个功能叫“<a target="_blank" href="https://developer.apple.com/library/ios/documentation/MultipeerConnectivity/Reference/MultipeerConnectivityFramework/Introduction/Introduction.html"><u>多点连线框架（Multipeer Connectivity Framework</u></a>）”，一个叫FireChat的应用能利用这项功能组建网状网，许多媒体<a target="_blank" href="http://www.fortunechina.com/business/c/2014-04/04/content_200139.htm"><u>夸张</u></a>的宣称<a target="_blank" href="https://itunes.apple.com/us/app/firechat/id719829352?mt=8"><u>FireChat</u></a>是一款具有颠覆性潜力的应用。利用FireChat，设备不需要传统的网络连接——无论是3G还是无线网，它可以和另一台设备建立自己的网络。网状网络的运作方式是，网络的规模越大，连接就越好，它的连接范畴也就越广。因此如果你在一个体育馆里，这里还有许多使用着FireChat的其他人，那么一瞬间你就有了一个很强大的网络。这个网络的直径可能达到几英里远，理论上甚至可以覆盖整个城镇。
+➜早晨的阳光与保持体重有关联
+https://www.solidot.org/story?sid=39024	43927
+如果你体重超重，你每天早上是早起呢还是晚起呢？一项研究<a target="_blank" href="http://www.northwestern.edu/newscenter/stories/2014/04/morning-rays-keep-off-the-pounds.html"><u>发现</u></a>，被阳光照射的时机、阳光的强度和持续时间与体重存在关联性。<a target="_blank" href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0092251"><u>报告</u></a>发表在PLOS ONE期刊上。研究发现，被早晨阳光适度照射的人比早晨之后接受阳光照射的人有较低的身体质量指数（BMI）。早晨的阳光照射占到了一个人身体质量指数的20%，独立于个人的身体活动水平、热量摄入、睡眠时间、年龄或季节。早晨20到30分钟的阳光照射就足以影响BMI。
+➜土耳其解封Twitter
+https://www.solidot.org/story?sid=39025	45375
+周四，土耳其政府<a target="_blank" href="http://cn.nytimes.com/world/20140404/c04turkey/"><u>解除了对Twitter的屏蔽</u></a>，土耳其最高法院前一天裁定，政府对社交网站的两周禁令侵犯了言论自由。Twitter从3月20日开始在土耳其遭到屏蔽，原因是一些泄露的记录材料在网站上流传，称总理埃尔多安及其核心集团的成员存在普遍的腐败行为。宪法法院周三做出裁决，但政府直到周四夜间才解除针对Twitter的禁令，拖延一度引发猜测，即政府可能不会服从这一裁决。如果政府不服裁决，可能会导致政府的行政部门和司法部门出现对抗，还可能让很多批评埃尔多安的人士抓到把柄，他们称埃尔多安越来越专制。禁令的解除可能会减轻埃尔多安在国际社会面临的压力，他因为采取措施阻挠腐败调查而受到了国际社会的猛烈批评。然而，YouTube仍然遭禁。
+➜美国秘密建立类Twitter服务煽动古巴之春
+https://www.solidot.org/story?sid=39026	45729
+美联社<a target="_blank" href="http://bigstory.ap.org/article/us-secretly-created-cuban-twitter-stir-unrest"><u>报道</u></a>称，美国政府通过空壳公司，假借外国银行出资，策划并建立了“古巴推特”。该项目代号为ZunZuneo——古巴俚语中的“蜂鸟之歌”。白宫发言人卡尼<a target="_blank" href="http://www.voachinese.com/content/us-cuban-20140403/1885892.html"><u>回应称</u></a>，“古巴推特”只是一个发展项目，不是什么秘密行动。古巴推特”项目持续了2年多，吸引了数百万用户，试图打破古巴政府对社交媒体的封锁。报道说，这个社交网络试图首先建立以年轻人为主的古巴用户，然后推广给异议人士。美联社称，古巴推特用户并不清楚这个网站是美国国务院下属机构<a target="_blank" href="http://www.usaid.gov/what-we-do"><u>国际开发署</u></a>创立的，更不知道美国承包商在收集用户资料，以便将来用于政治目的。美联社发现，美国国际开发署一个承包商获得了古巴国营手机公司50万个手机号码，从而发现了这个项目。美联社说，这个项目至今没有引起异议人士的反响，国际开发署在2012年中止了拨款，项目终止。
+➜自毁树生产廉价生物燃料
+https://www.solidot.org/story?sid=39027	46530
+木材适合建筑和家庭取暖，但并不适合变成生物燃料。如果要将植物转换为燃料，工程师必须要移除木材中的木质素，这通常需要高温和腐蚀性化学物质，因此成本昂贵。现在，美国和加拿大的研究人员修改了白杨树的木质素，<a target="_blank" href="http://news.sciencemag.org/biology/2014/04/cheaper-fuel-self-destructing-trees"><u>使其能在温和的处理条件下自毁</u></a>，从而大幅削减将植物生物质转变为生物燃料的成本。

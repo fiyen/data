@@ -1,0 +1,48 @@
+➜Joomla曝出SQL注入漏洞影响百万网站
+https://www.solidot.org/story?sid=45923	12483
+开源内容管理系统Joomla释出了补丁修正了安全研究人员<a target="_blank" href="https://www.trustwave.com/Resources/SpiderLabs-Blog/Joomla-SQL-Injection-Vulnerability-Exploit-Results-in-Full-Administrative-Access/?page=1&amp;year=0&amp;month=0"><u>发现的一个SQL注入漏洞</u></a>。该漏洞允许恶意用户提取分配给网站管理员的浏览器cookie，获得服务器受限部分的访问权限。漏洞最早出现在2013年11月发布的Joomla 3.2中，Joomla团队和安全研究人员推荐用户立即更新到<a target="_blank" href="https://www.joomla.org/announcements/release-news/5634-joomla-3-4-5-released.html"><u> 3.4.5</u></a>。Joomla被下载了超过5000万次，有280万个网站依赖于Joomla管理内容。
+➜彗星上发现乙醇和糖
+https://www.solidot.org/story?sid=45924	13006
+科学家在彗星Lovejoy上首次<a target="_blank" href="https://in.news.yahoo.com/unexpected-discovery-comet-contains-alcohol-182309427.html"><u>发现了</u></a>复杂有机分子乙醇和简单糖分子乙醇醛。研究认为，这些复杂有机分子可能是形成行星的岩石材料的一部分。欧洲航天局的 Philae探测器曾在彗星67P/Churyumov-Gerasimenko上发现了4种此前未在彗星上探测到的有机分子。地球生命起源理论之一就是有机分子来源于坠落的彗星，但最新的研究并没有终结这一争论。
+➜世界最大合法象牙市场如何点燃非法象牙走私
+https://www.solidot.org/story?sid=45925	15487
+从1989年起，香港禁止象牙的进出口，它是世界最大的象牙交易市场。象牙交易商只能依靠现有的库存，当时的私人交易商手中共有665吨的象牙。按照象牙产品的销售速度，合法的库存到2004年应该会消耗光，更何况到香港旅游的中国大陆游客一年比一年多，中国消费者占到了香港九成的象牙销售。然而至今香港仍然在合法销售象牙。非政府组织WildAid和世界野生动物基金会香港分部联合<a target="_blank" href="http://www.wildaid.org/news/illusion-control-hong-kongs-legal-ivory-trade"><u>发表报告</u></a>，曝光香港象牙市场<a target="_blank" href="http://news.nationalgeographic.com/2015/10/legal-loopholes-fuel-ivory-smuggling-in-hong-kong/"><u>如何点燃了象牙走私和大象偷猎</u></a>。
+➜俄罗斯黑客组织将MH17调查团队作为目标
+https://www.solidot.org/story?sid=45926	17832
+趋势科技<a target="_blank" href="http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/"><u>报告</u></a>，俄罗斯黑客组织Pawn Storm在MH17调查团队公布调查报告前后将其作为攻击目标。Pawn Storm被认为与俄罗斯政府有关联，其目标主要是西方政府、军方、国防企业和媒体记者。安全研究人员称，Pawn Storm设立一个模仿荷兰调查组织官方的SFTP服务器和一个假的VPN服务器，此举被认为是为了向调查委员会成员发动钓鱼攻击，以获取MH17事故相关的调查报告。荷兰调查组织确认马航MH17航是被俄制地对空导弹山毛榉击落的。
+➜难以破解又容易记忆的密码
+https://www.solidot.org/story?sid=45927	20255
+难以破解而又容易记忆的密码真的存在吗？许多人认为不存在。南加州大学的两位研究人员发表了<a target="_blank" href="http://www.isi.edu/natural-language/mt/memorize-random-60.pdf"><u>一篇论文</u></a>（PDF），介绍了极其难以破解但又相当容易记忆的密码创建方法：<a target="_blank" href="http://www.washingtonpost.com/news/wonkblog/wp/2015/10/22/these-researchers-have-discovered-the-perfect-password-thats-also-easy-to-remember/"><u>随机生成的诗</u></a>。研究人员指出，长度较短的随机字母组合计算机也许只要几秒几分钟或几小时就能破解出来，但多个随机单词的组合则极难破解而相对容易记住（比如The reigning Hagen journeyman，  believers mini minivan）。研究人员是受到<a target="_blank" href="http://xkcd.com/936/"><u>一幅XKCD卡通画</u></a>的影响而展开研究的。
+➜犯罪组织如何打败安全的Chip-and-PIN技术
+https://www.solidot.org/story?sid=45928	29149
+中国从2014年1月、美国从2015年10月开始用更安全的Chip-and-PIN信用卡取代旧的磁条信用卡。但早在2011年，欧洲的犯罪组织就已经能伪造Chip-and-PIN信用卡（使用窃取的有效信用卡），方法是在验证过程中发动中间人攻击。研究人员上周发布<a target="_blank" href="https://eprint.iacr.org/2015/963.pdf"><u>报告</u></a>（PDF）分析犯罪组织是<a target="_blank" href="http://arstechnica.com/tech-policy/2015/10/how-a-criminal-ring-defeated-the-secure-chip-and-pin-credit-cards/"><u>如何做到的</u></a>。Chip-and-PIN信用卡的交易验证包含三个步骤：卡验证、持卡人验证和交易验证。其中磁卡人验证是输入PIN。犯罪组织编程了一个名叫FUN卡的芯片使其能接受任意的PIN，然后将其焊接在信用卡的原始芯片上。当刷卡机要求顾客输入PIN时，持有伪造卡的人就随意输入PIN，FUN卡拦截了PIN验证，告诉刷卡机信息是正确的，可以开始交易验证。在交易验证阶段，FUN卡在刷卡机和原始芯片之间中继交易数据，向发卡银行发送交易验证请求。
+➜政府科学资助资金有没有推动创新？
+https://www.solidot.org/story?sid=45929	31073
+保守主义的《华尔街日报》发表了一篇评论讨论了自由主义者热衷的事情：<a target="_blank" href="http://www.wsj.com/articles/the-myth-of-basic-science-1445613954"><u>政府应该资助科学研究吗</u></a>？作者Matt Ridley认为，基础科学研究并没有带来创新，因此不值得用纳税人的钱去资助科研。作者称，技术进步是干实事的人推动的，不需要政府的资助，工业界自己会去实现创新。作者举了很多支持政府资助科学研究的例子，从互联网到希格斯玻色子，反驳说它们并不能告诉我们替代的资助安排会发现什么。作者举的许多例子也被批评<a target="_blank" href="http://science.slashdot.org/story/15/10/25/195215/does-government-science-funding-drive-innovation"><u>是荒谬的</u></a>。
+➜物理学家学会如何控制分子内的电子运动
+https://www.solidot.org/story?sid=45930	31774
+研究人员<a target="_blank" href="http://phys.org/news/2015-10-physicists-movement-electrons-molecule.html"><u>首次能实时跟踪分子内电子的运动</u></a>，演示了这些过程能被控制。未来，只要按下一个按钮就能获得化学反应过程或生物过程的理想结果是可能的。<a target="_blank" href="http://www.sciencemag.org/content/early/2015/10/21/science.aab2160"><u>研究报告</u></a>发表在《科学》期刊上。重组分子的电子壳层是理解分子化学和生化反应过程的关键。研究人员利用能跟踪10<sup>-18</sup>秒（又称为阿托秒或attosecond）事件的attophysics技术，以100阿托秒时间分辨率跟踪分子内电子运动。
+➜乌克兰用达斯·维德替换列宁雕塑
+https://www.solidot.org/story?sid=45931	33725
+<div align="center"><img src="http://img.solidot.com.cn/0/118/licnEVoNujJ6.jpg" align="" height="225" width="400"><br>
+<br>
+</div>
+乌克兰Odessa市上周用达斯·维德雕塑<a target="_blank" href="http://www.dw.com/en/darth-vader-replaces-lenin-statue-in-odessa-ukraine/a-18802474"><u>替换了苏联奠基人列宁的雕塑</u></a>。Odessa市是乌克兰第四大城市。此举恰逢第7部《星球大战》电影即将上映。雕塑家Oleksandr Milov说，政府今年初推行了反共产主义法，我们必须决定用什么去替换列宁的雕塑。老实说，我不喜欢摧毁雕塑的想法，所以我们决定了一个更灵活的方案。他补充说，他们还计划在雕塑头像上安装一个路由器，允许他与“其它西斯通信”。
+➜乐高拒绝艾未未批量购买积木要求
+https://www.solidot.org/story?sid=45932	35264
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001064535"><u>报道</u></a>，乐高受到了中国争议艺术家艾未未的抨击，原因是这家丹麦集团拒绝为他即将在澳大利亚举办的展览提供批量塑料积木。艾未未称这次拒绝是“一种审查和歧视行为”。乐高发言人Roar Rude Trangbaek表示：“在我们收到为项目提供捐赠或支持的要求时——比如买入无法通过正常销售渠道获得的大量乐高积木，如果我们认识到此举有政治因素，我们会婉拒请求。” 上周中国领导人习近平访问伦敦期间签署的一系列协议中，包括了在上海附近开办乐高主题公园的规划。不过乐高并不是该主题公园的所有者。
+➜快递实名登记制下月实施
+https://www.solidot.org/story?sid=45933	36355
+国务院公布了<a target="_blank" href="http://www.chinapost.gov.cn/dtxx_15079/201510/t20151026_667061.html"><u>促进快递业发展的若干意见 </u></a>，而国家邮政总局的做法则是加快实施快递实名制登记。国家邮政总局<a target="_blank" href="http://cppcc.china.com.cn/2015-10/26/content_36887416.htm"><u>表示</u></a>，快递实名制登记将于11月1日正式开始。快递实名制，意味着寄送快递，必须出示身份证并且进行相关登记。顺丰快递的快递员说，在发送快递单右下方的备注一行里，必须要填写寄件人的身份证号，否则无法寄送，不过，快递员说，暂时不需要身份证核对，只要填写即可。寄件人和收件人都要填实名。身份证是要填寄件人的身份证号，收件人不用填身份证号。国家邮政总局表示，清理整顿危爆品寄递物流，全面落实寄递物流实名登记等制度的“专项行动”于22日开始到明年3月结束，但快递实名制登记是在11月1日正式开始。
+➜WHO称热狗香肠培根致癌
+https://www.solidot.org/story?sid=45934	41405
+世界卫生组织（WHO）周一发表报告称加工类肉制品热狗、香肠和培根<a target="_blank" href="http://www.washingtonpost.com/business/hot-dogs-bacon-and-other-processed-meats-cause-cancer-world-health-organization-declares/2015/10/26/98ab7c21-06fa-40a5-a9cb-800977dfca94_story.html"><u>能导致癌症</u></a>。WHO的这一结论是一个国际专家小组的22名成员在评估过去几十年红肉、肉制品和癌症相关性研究后得出的。但专家们并未达成一致，而这一结论无疑会引发争议。美国全国养牛协会的人类营养学执行理事 Shalene McNeill说，他们不认为证据支持红肉和任何类型的癌症之间存在因果关系。美国癌症协会注意到有许多研究发现食用红肉与结肠直肠癌风险增加之间有相关性，但没有确定是否是因果性。
+➜中国居民预期寿命提高，但地区不平衡
+https://www.solidot.org/story?sid=45935	43084
+《柳叶刀》发表了两项研究：<a target="_blank" href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2900554-1/abstract"><u>1992到2012年五岁以下儿童的死亡率</u></a>和<a target="_blank" href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2815%2900551-6/abstract"><u>1990到2013年死因 </u></a>。研究<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-10/l-tll102315.php"><u>显示</u></a>， 过去二十年中国各省的预期寿命均有提高，五岁以下儿童的死亡率普遍下降。2013年上海市的期望寿命在全国位列第一，其中男性的期望寿命为 80.2 岁，女性的期望寿命为 85.2 岁。这些数字与世界上期望寿命最高的国家相当。尽管全国的期望寿命都所有增长，但各省之间仍然存在着巨大的差距。一些西部地区的男女期望寿命较之全国最高水平低了大约 10 岁，与孟加拉国等南亚不发达国家的期望寿命相仿。研究还显示了各省之间主要死亡原因存在的很大差异。在全国范围，脑血管疾病（导致中风的主要原因）是男性和女性死亡的首要原因，也是欠发达省份的主要死因。但在一些省份， 尤其是中国南部边境的云南省，由脑血管疾病导致的死亡率则非常低。在云南，由吸烟及空气污染导致的慢性阻塞性肺疾病是首要死亡原因，这与其他很多南部和西部省份（包括重庆、四川、甘肃、青海和贵州）的首要死亡原因一致；而北部省份的主要死亡原因则是心脏病，其中以黑龙江省最为严重，心脏病死亡率较浙江省高了3倍。
+➜美国担心俄罗斯切断海底光缆
+https://www.solidot.org/story?sid=45936	43790
+俄罗斯潜艇和间谍船正在重要的海底光缆附近积极行动，这些光缆传输着全球几乎所有的互联网通信。一些美国军方和情报官员担忧，俄罗斯可能会在局势紧张或冲突时期<a target="_blank" href="http://cn.nytimes.com/world/20151026/c26subs/"><u>攻击这些光缆</u></a>。虽然目前尚无任何光缆遭到切割的证据，但对于俄罗斯武装力量在世界各地加速活动，美国及其盟国的高级军事和情报官员变得日益警觉。与此同时，华盛顿内部的辩论说明，美国看待俄罗斯的一举一动时，眼光越来越不信任，这不禁让人想起冷战时期。从北海到东北亚，甚至是更接近美国海岸的海域，在已知光缆的沿线都监测到，俄罗斯的活动显著增加。这些光缆是全球电子通信和商业的命脉。
+➜特斯拉计划在中国制造电动汽车，北京用户可自由购买电动车
+https://www.solidot.org/story?sid=45937	46240
+中国政府正在鼓励消费者购买电动汽车，北京<a target="_blank" href="http://www.yicai.com/news/2015/10/4701894.html"><u>刚刚宣布</u></a>购买所谓的新能源车不需要摇号——你仍然需要去登记，但成功率将是100%。美国电动汽车制造商特斯拉正在与中国政府讨论在中国境内<a target="_blank" href="http://www.wsj.com/articles/tesla-plans-to-produce-electric-vehicles-in-china-within-two-years-1445602222?mod=e2tw"><u>生产电动汽车</u></a>，此举旨在降低汽车的销售价格。特斯拉希望能很快达成成果，本地生产避免了关税和运费，能将产品价格减少三分之一。 Elon Musk今年早些时候表示，在中国生产汽车有可能在三年内实现。特斯拉的Model S汽车在中国售价67.3万人民币，相当于10.6万美元，而它的美国售价是7.6万美元，增加的3万美元是关税和其它税收。

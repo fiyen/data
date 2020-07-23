@@ -1,0 +1,12 @@
+➜Windows 10 更新移除 Windows Media Player
+https://www.solidot.org/story?sid=54071	1022
+微软最近向 Windows 10 Fall Creators Update 释出了更新 KB4046355，从系统中<a href="https://betanews.com/2017/10/09/windows-10-update-removes-windows-media-player/" target="_blank"><u>移除了</u></a> Windows Media Player。Windows Media Player 事实上早已已经停止更新，它的最新大版本还是随 Windows 7 一同发布的 Windows Media Player 12。Windows 平台上有很多高质量的第三方多媒体播放器，比如 VLC Media Player。KB4046355 更新又被称为 FeatureOnDemandMediaPlayer，会从系统中卸载仍然安装的 WMP，但用户如果仍然想要使用 WMP，可以打开设置，Apps &gt; Apps &amp; Features，点击管理可选功能。
+➜宇宙一半的“丢失物质”找到了
+https://www.solidot.org/story?sid=54072	4454
+宇宙被认为由 5% 的普通物质，25% 的暗物质和 70% 的暗能量构成。顾名思义，暗物质无法直接观察到，但可以通过引力效应间接观察。对暗物质和暗能量的搜寻至今还没有多少结果。在普通物质中，我们知道其中一半的构成，但另一半未知。现在，两个独立团队报告他们<a href="https://www.newscientist.com/article/2149742-half-the-universes-missing-matter-has-just-been-finally-found/" target="_blank"><u>找到了这一半物质的构成</u></a>，它们属于重子，通过炙热的丝状弥散气体将星系连接在一起。他们的论文（<a href="https://arxiv.org/abs/1709.05024"><u>一</u></a>，<a href="https://arxiv.org/abs/1709.10378v1" target="_blank"><u>二</u></a>）发表在预印本网站 arXiv 上。
+➜彩票随机数生成器多次产生相同的中奖号码
+https://www.solidot.org/story?sid=54073	8489
+亚利桑那州彩票官员<a href="https://arstechnica.com/tech-policy/2017/10/1-4-8-12-28-glitch-causes-same-lottery-numbers-to-hit-multiple-times-in-arizona/?comments=1" target="_blank"><u>正在调查</u></a>产生中奖号码的随机数生成器。在“<a href="https://www.arizonalottery.com/en/play/draw-games/all-or-nothing" target="_blank"><u>All or Nothing</u></a>”抽奖中，随机数生成器在 9 月 28 日和 30 日产生了相同的中奖号码“2-4-5-6-8-10-12-14-17-19”，9 月 29 日和 10 月 3 日又产生了相同号码“4-8-9-10-11-13-14-16-18-19”。在另一个抽奖“<a href="https://www.arizonalottery.com/en/play/draw-games/pick-3" target="_blank"><u>Pick 3</u></a>”中，随机数生成器在 9 月 29 日和 10 月 3 日产生相同号码。同样的情况还发生在“<a href="https://www.arizonalottery.com/en/play/draw-games/5-card-cash" target="_blank"><u>5 Card Cash</u></a>”抽奖中。发生故障的机器已经移除以等待调查结果。亚利桑那州使用了三个随机数生成器，都没有联网。
+➜一加的氧 OS 会跟踪用户的所有活动
+https://www.solidot.org/story?sid=54074	56497
+这一现象丝毫不出人意料：深圳万普拉斯科技有限公司为其一加智能手机开发的 Android 定制版本 OxygenOS <a href="https://www.chrisdcmoore.co.uk/post/oneplus-analytics/" target="_blank"><u>内置了跟踪分析功能</u></a>，会跟踪用户在应用中的所有活动，相关数据会被发送到域名open.oneplus.net，一加收集的数据并不匿名，包含了用户设备的详细信息。用户没有办法禁用，但可以通过 adb 移除名为 OnePlus Device Manager 的跟踪应用。

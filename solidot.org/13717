@@ -1,0 +1,28 @@
+➜Google的欧洲竞争者获得1.66亿美元投资
+https://www.solidot.org/story?sid=3367	1680
+<a href="http://blog.zheli.info/">linuxcity</a> 写道 "<a href="http://money.cnn.com/news/newsfeeds/articles/djhighlights/200707201712DOWJONESDJONLINE000829.htm">欧盟委员会批准德国政府投资本国的搜索引擎计划</a>–特修斯（<a href="http://theseus-programm.de/">Theseus</a>）。年初的时候我们也曾经讨论过<a href="http://politics.slashdot.org/politics/07/01/07/0637205.shtml?tid=95">德国从法国的Quaero（这么多怪名）计划撤出</a>的事情。看起来好像欧盟委员会不想把所有的蛋都装一篮里，投资向Theseus计划提供了1.2亿欧元的资金，大约是1.66亿美元（最近欧元猛涨~~）。"
+<i>道琼斯报道说：“此举是为了开发下一代搜索引擎技术，其中包括语意识别技术（semantic technologies），一种新的识别文章内容的技术。这种技术被认为是，至少是被现代internet的创始者Tim Berners-Lee认为是下一代internet的发展方向（他在2001年的一篇文章提到过）。理论上来说，当用户在一个用语意识别技术构建的网站上查询关于钓鱼的信息时，查询结果会自动过滤，最后用户会得到适应他个人需要的结果，而不是一大堆关于捕捞，钓鱼等等方方面面的结果（？？？）。此基金同时承认了星期四曾经说过要在欧洲发展一个Google的潜在竞争者的讲话。”</i>           有个回应也蛮有意思：<br>
+匿名懦夫：“Google不是一个靠政府撑腰发展起来的公司，它是几个聪明的年轻人 创业并通过努力和汗水取得成功的结果。<br>
+欧洲要学习的是如何和美国竞争，而不是把所有东西都复制过来（Google, GPS, 操作系统，等等等），更不是靠扔钱。打败美国的方法是创新，让那些有热情有想法的人可以做前无古人的事情，并且把他们的热情和全部精力都投入进去。这才是 Intel, Google, 微软为什么只生在美国的原因，也是欧洲那些仿冒货失败的原因。你只能让这些东西自发产生，不可能政府催生，要提供一个成长的环境。除非欧洲能认识到这点，否则这些事情不可能发生。”
+<br>
+和国内情况有几分相似呢，呵呵"
+➜VisualSize：测量2D照片中的物体
+https://www.solidot.org/story?sid=3368	17220
+南加州的一家公司<a href="http://visualsize.com/">VisualSize</a>将提供一项特殊服务：<a href="http://www.techcrunch.com/2007/07/22/visualsize-to-give-accurate-3d-measurements-from-photos/">测量2维照片上的3维物体</a>。
+<i>想要精确测量，则需提供同一物体不同角度的两张照片。VisualSize软件使用的算法会自动检测照片中的可匹配部分，用此来计算出拍摄位置（在一个三维框架中确立x，y，z轴和原点），利用三角测量法把平面图形转换成三维结构，重塑照片场景的3维模型。VisualSize就能够精确测量长度、角度、高度、面积和体积。这项服务还处于alpha阶段，需要邀请才能参与测试，VisualSize声称测量误差只在0.1到5%之间。这家公司还表示将提供API，允许其他人围绕这项服务创建其它应用，创始人似乎是华裔——王元方（Yuan-fang Wang，UCSB教授)和梁平（Ping Liang，UCR教授)。</i>
+如果想参加测试，也许可以试试<a href="http://www.inviteshare.com/">inviteshare.com</a>。VisualSize有点类似早先介绍过的<a href="__SLASHLINK__" sect="internet" sid="07/04/16/0816234" sn="article" tid="75">Fotowoosh</a>。"
+➜下一代Windows，叫做"7"
+https://www.solidot.org/story?sid=3369	22440
+微软计划在三年内发布<a href="http://www.cnetnews.com.cn/2007/0723/428675.shtml">下一代Windows操作系统</a>。以前被叫做“Vienna”，微软内部称其为“7”。在保证产品质量的基础上，微软的目标是重新回到以前3年一版本的固定产品发布时间。<i>
+与Vista类似，Windows 7将分为企业版和消费者版，以及32位和64位版本。微软证实正在考虑一种可与Windows相辅的预订模式（subscription model），但没有提供详细资料或时间框架。现阶段微软的议程是Windows Vista SP1，预计在年前发布。考虑到微软因Vista跳票而受到了企业客户的批评，讨论Windows的未来并不出乎意料。许多企业客户都通过一种名为Software Assurance的许可协议购买微软的软件。</i>
+“7”这个名字当真具有返璞归真的意境，<a href="http://slashdot.org/articles/07/07/21/1725233.shtml">/.</a>的读者进行了热烈的讨论。
+➜下一代Ubuntu长期支持版本是Ubuntu 8.04
+https://www.solidot.org/story?sid=3370	25200
+<a href="http://blog.wired.com/monkeybites/ubuntulive/index.html">近期有两大开源会议召开</a>。其一为7月22日到24日，第一次由Ubuntu社区官方召集的<a href="http://www.ubuntulive.com/">Ubuntu Live</a>大会；另一为<a href="http://conferences.oreillynet.com/os2007/">O'Reilly Open Source Convention</a>（OSCON），时间是7月23-27日。在刚刚举行的Ubuntu Live 2007会议上，Mark Shuttleworth宣布了下一代Ubuntu LTS (长期支持)将是Ubuntu 8.04。Ubuntu将每两年发布一个LTS，第一个长期支持版本是Ubuntu 6.06 Dapper Drake，Ubuntu 8.04预计在2008年4月发布。你可以<a href="http://www.oreillynet.com/conferences/blog/ubuntu_live/">在此</a>收听与会成员的演讲。
+➜艾滋病疫苗即将进行临床试验
+https://www.solidot.org/story?sid=3371	30180
+好消息：<a href="http://pressesc.com/01184951882_hiv_vaccine">一种可能对抗艾滋病病毒（HIV）的疫苗</a>正在准备进行临床试验。这个疫苗提供了“双重打击（double whammy）”能力，不仅能预防未来感染艾滋病病毒，还能消灭正在繁殖中的病毒。<i>
+疫苗其实是一种人造病毒微粒，外部由一层TBI蛋白质包裹起来，TBI代表T-and B cell epitopes containing immunogen，整个疫苗结构中还有Polyglobin蛋白质，这种蛋白质包含了9种能刺激人体免疫系统不同细胞的成分，研究人员把两者成功的结合了起来。这两种蛋白质都能产生抗体并能消灭外来的HIV病毒。</i>
+➜整合在Firefox上的新Linux桌面环境
+https://www.solidot.org/story?sid=3372	33600
+<a href="http://pyrodesktop.org/">Pyro</a>(暂时无法访问，<a href="http://72.14.253.104/search?q=cache:6EoAZGSE90IJ:pyrodesktop.org/+http://pyrodesktop.org&amp;hl=en&amp;ct=clnk&amp;cd=1&amp;gl=us">Google Cache</a>)是一种建立在Mozilla Firefox的<a href="http://slashdot.org/articles/07/07/22/1247210.shtml">新Linux桌面环境</a>。它的目标是将web和计算机桌面真正整合在一块，WebOS是在浏览器上搭建一个虚拟桌面，而Pyro则是把浏览器和本地桌面结合起来。在Pyro中，web内容已经不仅仅局限于浏览器窗口所显示的，网页可以和本地程序并行运行。例如web程序在桌面上打开一个窗口，右侧栏可以显示本地应用程序（整合在浏览器中）。在这样一个桌面环境下，应该会有一个“任务/窗口”选项，类似Expose的窗口切换特效。

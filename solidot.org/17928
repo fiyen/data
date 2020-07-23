@@ -1,0 +1,9 @@
+➜苹果短暂撤销 Facebook 和 Google 的企业证书
+https://www.solidot.org/story?sid=59507	49823
+苹果的 <a href="https://developer.apple.com/programs/enterprise/">Developer Enterprise Program</a> 允许企业在其应用商店之外发行 iOS 应用，但条件是仅限于内部测试。然而 Facebook 和 Google 先后被发现违反了该规定，滥用了各自的企业证书，它们以付费的方式吸引用户安装它们的数据监视应用，安装企业证书以拦截加密流量，对用户的通信进行监视，付费收集隐私。在曝光之后，苹果<a href="https://www.theverge.com/2019/1/31/18205795/apple-google-blocked-internal-ios-apps-developer-certificate" target="_blank">撤销了</a>两大巨头的企业 iOS 证书，结果是两家公司的内部 iOS 应用都停止工作，Google 受影响的 iOS 应用包括了测试版本的 Google Maps、Hangouts、Gmail 等。消费者版本不受影响。苹果对 Facebook 和 Google 的惩罚<a href="https://arstechnica.com/information-technology/2019/02/in-addition-to-facebooks-apple-restores-googles-ios-app-certificate/" target="_blank"><u>只持续了不到一天</u></a>，两大巨头的内部应用都恢复了工作，但目前不清楚双方是否达成了什么条件。
+➜美国打击生育旅游
+https://www.solidot.org/story?sid=59508	53543
+本周四，三名在加州南部经营数百万美元生育旅游生意的人<a href="https://cn.nytimes.com/usa/20190201/anchor-baby-birth-tourism/"><u>被捕</u></a>。通过生育旅游，孕妇前往美国分娩，以便他们的孩子成为美国公民。起诉书显示，被控参与该计划的总人数为 19 人，包括经营者和客户。部分起诉对象目前不在美国。虽然当前调查中的三家机构主要招徕中国父母，调查人员还发现了其他国家赴美生子的证据，如俄罗斯人，尼日利亚人和中东。中国是最大的生育旅游市场，那里的富裕阶层正在迅速壮大，其中很多人渴望在美国立足。美国可以为他们的孩子提供教育机会，如果他们的祖国政治和经济不稳定，美国还可以为他们提供安全的避风港。起诉书称，从中国到美国生孩子的人中有政府官员、医生和律师。
+➜IPv6 在中国
+https://www.solidot.org/story?sid=59509	57489
+中国有着世界上最大的网民人口，但它的 IPv6 普及度却处于世界最低之列，印度的 IPv6 普及度高达六成，而中国只有 3%-5%。中国有 7.41 亿网民，而它的   IPv4 地址数有大约 3.01 亿，通过 NAT 分享公共 IP，考虑到设备数量，平均每个公共   IPv4 地址有 3 个设备使用。IPv4 地址空间已经枯竭，不再可能继续扩充，因此中国 ISP <a href="https://www.potaroo.net/ispcol/2018-12/chinav6.html"><u>从去年底开始快速部署 IPv6</u></a>。在中国 ISP 中，中国教育科技网 CERNET AS 4538 可能是最早支持 IPv6 的，其普及度长期在三成左右；中国移动旗下的广东移动 AS9808，从去年 9 月开始加速部署  IPv6，到年底普及度达到 15%；北京移动 AS56048 从去年 6/7 月测试部署  IPv6，到年底普及度达到 25%；中国最大的 ISP 中国电信骨干网 AS4134 也在去年底扩大部署  IPv6，它有 3 亿用户，即使普及度只有 5%，也相当于 1500 万用户。尽管中国的  IPv6 普及取得进展，但连接失败率惊人的高，中国联通广东 AS 134543  IPv6 连接失败率高达 60%，中国电信骨干网 AS4134 的连接失败率为  4%。

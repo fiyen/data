@@ -1,0 +1,133 @@
+➜15 个用户体验设计剖析
+https://www.solidot.org/story?sid=17758	1500
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "用户界面和用户体验（UI/UX）是任何产品成败的关键，尤其 Web，Web 是一种公开的，可以被任何人随时随地访问的特殊产品，用户的体验几乎意味着一切，虽然内容更重要，但内容可以替代，体验却是独一无二的，本文分析了15个不同的 UI/UX 案例，优秀的用户体验给我们带来的启发是无价的（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K962.aspx">完整图文版</a>）。           内容滚动中的运动视差效果
+<a href="http://www.charliegentle.co.uk/"> </a>
+<br> <br> <a href="http://en.wikipedia.org/wiki/Parallax_scrolling">Parallax   scrolling</a> 是让多层背景以不同的速度移动，形成运动视差 3D 效果，虽然纯属视觉效果，但在内容滚动时形成的视觉体验仍然非常出色。<a href="http://www.charliegentle.co.uk/">Charlie Gentle’s portfolio</a> 网站就是该效果的绝佳展示，点击左右导航按钮，除了滚动进入不同内容区域之外，上方的多层背景图以不同速度移动而形成的 3D 运动视差效果非常漂亮。
+<br> <br>
+iPhone 的下滑式刷新
+<br> <br>
+iPhone 的多数社会化网络应用都包含数据刷新功能，有的是晃一晃机器，有的是按某个按钮，在我看来，最好的方法是下滑式刷新。包括 Gowalla, Foursquare 以及 Tweetie 等应用都默认使用该方法，你在用手指翻动列表的时候，如果想刷新一下数据，你的手指还没离开那个区域，如果使用按钮，手指必须离开当前的位置，导致操作上的不连贯，而下滑式刷新，手指继续留在原来操作的位置，只是改变一下动作。
+<br> <br>我们从这里可以学习到的东西是，经常检查你的 UI，看看是不是存在让用户注意力转移的操作。<br> <br>
+随时随地的提示界面
+<br> <br>一些深受欢迎的 Mac 程序经常是在后台默默运行，到了需要用户介入的时候弹出界面，完成后又默默消失，象 <a href="http://www.potionfactory.com/thehitlist/">The  Hit List,</a> 随时随地会将需要通知的消息显示出来，看上去，象操作系统本身的功能。<a href="http://www.potionfactory.com/thehitlist/"> </a>
+Convertbot 的圆盘式菜单
+<br> <br>
+<a href="http://tapbots.com/software/convertbot/">Convertbot</a> 是为数不多的事实上并不好用但用起来又妙趣横生的 UI 设计之一。这个 iPhone 程序用来进行单位转换，iPhone 的应用商店这样的程序数不胜数，但都没有这个这么有趣。它设计了一个圆盘式操作界面，很形象，很漂亮，让人有时不时想拿出来用一下的冲动，这个案例告诉我们，有时候，中看也很重要。<br> <br>
+SlideDeck 的手风琴式导航
+<br> <br> <a href="http://www.slidedeck.com/"> </a>
+Web 上，基于 jQuery 的内容滚动面板非常多，<a href="http://www.slidedeck.com/">SlideDeck</a> 是其中的佼佼者。使用独特的手风琴式界面显示内容，可以看做是 Outlook 风格导航面板的水平版，但视觉效果和体验更出众。<br> <br>
+Strongbad 的随机回信
+<br> <br> <a href="http://www.homestarrunner.com/sbemail.html"> </a>
+<a href="http://www.homestarrunner.com/sbemail.html">Strongbad</a> 是 <a href="http://www.homestarrunner.com/">Homestarrunner</a> 推出的经久不衰的网络动画中的卡通形象，每周，Strongbad 会给观众回复很搞笑的邮件，这些邮件慢慢越积越多，最近，站点开发方推出一个随机邮件浏览功能，点一下那个随机按钮，就像抽奖机那样随机选中一封过去的邮件显示。这个随机显示的过十分生动，让人忍不住一点再点。这个 UI 案例告诉我们，有时候，你在用户界面上的一点微小改动，有可能带来意想不到的效果。<br> <br>
+Made By Tinder 的主题色选择
+<br> <br> <a href="http://madebytinder.com/"> </a>
+这是一个很神秘的小站点，神秘到我们不知道它到底是做什么的。但这个网站的顶部，有几个小色块，点击后，整个站点就按色块上的色调重新配色，虽然很简单，但用户体验实在太妙了。
+Pixelmator
+<br> <br> <a href="http://www.pixelmator.com/"> </a> <a href="http://www.pixelmator.com/"> </a>
+<a href="http://www.pixelmator.com/">Pixelmator</a> 是一个很出色的图像编辑工具，虽然远不如 Photoshop 强大，但包含很多创新功能。它的用户界面中有一个很有趣的功能，你在为图像的某个位置设置效果的时候，设置点和设置界面之间会显示一条很自然的连线，移动设置点的时候，连线也跟着改变，虽然这条连线并没有多少实际意义，但给用户带来一种操作上的暗示，也很有趣味。<br> <br>
+Riot Industries 的导航体验
+<br> <br> <a href="http://www.riotindustries.com/"> </a>
+这个站点的导航很有特色，不仅流畅，而且设计出众，鼠标在导航条目上盘旋的时候，导航条目从左边的容器中微微探出，点击后，以渐变的方式，逐渐显示当前内容，这一切并没有使用任何 Flash 技术。<br> <br>
+Web 上的拖放操作
+<br> <br> <a href="http://www.panic.com/"> </a>
+在我看来，任何应用都应该支持拖放操作，当然 Web 有它的局限性，不过，近年来，Web 上的拖放操作已经很常见了。在上面的站点，你可以直接将喜欢的程序拖放到下载按钮处，直接下载。<a href="http://icondock.com/">IconDock</a> 的购物车也支持列斯的操作。（Wufoo 和 Polldaddy 的拖放式表单设计 UI 在我看来是 Web 拖放界面的最佳实现 - 译者）<br> <br>
+在线 Photoshop 的照片堆叠界面
+<br> <br> <a href="https://www.photoshop.com/"> </a>
+这是另一个没有实际意义，但很吸引人的界面设计，Adobe 的在线 Photoshop 在加载的时候，会显示一堆照片，你可以把他们抓起来乱扔，让它们相互碰撞，其物理效果十分出色，非常吸引人。<br> <br>
+随鼠而动
+<br> <br> <a href="http://tntrailsandbyways.com/"> </a>
+同样展示运动视差效果，同时，随着鼠标的移动，画面的工作区也随着移动。<a href="http://www.2otsu.com/">这个站点</a>也实现了类似的效果。（感觉这种体验并不好 - 译者）<br> <br>
+双滚动面板
+<br> <br> <a href="http://themeforest.net/item/wordfolio/full_screen_preview/38723?ref=secondfret"> </a>
+这又是一个<a href="http://themeforest.net/item/wordfolio/38723?ref=secondfret">基于 jQuery 的，非常出色的内容滚动面板设计</a>。图片垂直滚动，而解释文字同步水平滚动，视觉效果和体验都十分出众。<br> <br>
+基于物理动力的滚动
+<br> <br>我第一次使用 iPhone 的时候，对它的基于物理动力的交互 UI 印象深刻，在 Safari 上用手指翻动页面的时候，页面并不是按线性速度滚动，而是象现实物理世界中的物体那样，拥有曲线速度，先是快速滚动，然后慢慢慢下来。<br> <br>
+至简的界面
+<br> <br>漂亮而复杂的 UI 让人喜欢，有时候，简洁的界面更吸引人。Mac 的 <a href="http://www.hogbaysoftware.com/products/writeroom">WriteRoom</a> 是一个非常强大的文本编辑器，这些强大的功能隐藏在至简的界面下。
+<br> <br>本文国际来源：Design Shack <a href="http://designshack.co.uk/articles/inspiration/15-in-depth-examples-of-addictive-user-experience">15 in-Depth Examples of Addictive User Experience</a> (原文作者:<a href="http://designshack.co.uk/author/joshuajohnson/">Joshua Johnson</a>)
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Mandriva寻找买家
+https://www.solidot.org/story?sid=17759	2700
+Mandrivalinux-online新闻网站<a href="http://www.mandrivalinux-online.org/news/news-0-87+mandriva-est-a-vendre.php">报道</a>（法语），知名Linux发行版Mandriva的开发商面临现金流断流问题，<a href="http://lwn.net/Articles/387095/">正在寻求买家</a>。报告称对Mandriva感兴趣的买家包括了<a href="http://www.lightapp.com/">LightApp</a>和<a href="http://www.linagora.com/English">Linagora</a>。
+➜Android销量超过iPhone
+https://www.solidot.org/story?sid=17760	5100
+根据市场研究公司NPD Group的<a href="http://www.npd.com/press/releases/press_100510.html">报告</a>，基于Google Android操作系统的智能手机今年第一季度美国的销售量已经<a href="http://mobile.slashdot.org/story/10/05/10/195251/Android-Sales-Surpass-iPhone-Sales">超过了苹果的iPhone</a>。<i>
+2010年第一季度美国智能手机市场，RIM的黑莓手机仍高居第一，市场份额达到了36%，位居第二位的是Android手机，占到28%，iPhone手机现在排在第三，占21%。NPD指出，Android销量超过iPhone，与移动运营商的推销政策不无关系，比如Verizon的买一赠一促销，摩托罗拉的Droid手机于去年11月上市之时，Verizon发起了一亿美元的营销活动。</i>
+➜开放硬件可以赚大钱
+https://www.solidot.org/story?sid=17761	6480
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "开放硬件意味着所有人都可以浏览、修改甚至重新hacking一份电路设计，这听起来很疯狂对吧？但这的确是一项不错的生意。在一年一度的hacker会议--Foo Camp East 2010上，Phillip Torrone和<a href="http://www.ladyada.net/">Limor Fried</a>(一位美女hacker)给了我们一个很短的free speech中谈到13家开放硬件的公司创造了<a href="http://singularityhub.com/2010/05/10/13-open-source-hardware-companies-making-1-million-or-more-video/">超过100W美元的收入</a>。这些公司今年将增加到5000W美元的收入，而这和目前主流的提倡专利和版权系统是背道而驰的。Torrone和Fried估计开放硬件这个领域到2015年时会突破10亿美元的产值。
+</i>
+目前著名的开放硬件的项目有<a href="http://wiki.openmoko.org/wiki/OpenMoko">openmoko</a>的Neo 1973和Freerunner，以及<a href="http://en.qi-hardware.com/">qi-hardware</a>的ben_nanonote。"
+➜iPhone代工厂“损害中国工人健康”
+https://www.solidot.org/story?sid=17762	7500
+香港大学师生监察无良企业行动(SACOM)<a href="http://sacom.hk/archives/636">公布</a>了一项<a href="http://sacom.hk/wp-content/uploads/2010/05/apple-owes-workers-and-public-a-response-over-the-poisonings.pdf">调查报告</a>（PDF），<a href="http://www.bbc.co.uk/zhongwen/simp/uk/2010/05/100510_iphone_poison.shtml">揭露</a>江苏一家为苹果电脑公司iPhone生产触摸式屏幕的台资工厂——中国联建科技公司——使用有毒物质正已烷作清洁剂。<i>
+今年1月，这家企业因工人奖金问题发生劳资纠纷。工人们称，公司曾要求员工使用正已烷清洁iPhone屏幕，导致员工出现中毒症状，包括头昏，四肢麻痹。资方承认有47名工人中毒。但是SACOM从调查中获知，实际中毒人数可能有上百人。SACOM说，苹果公司对其供应商有行为准则，要求他们要避免工人接触有毒物质。该组织说，苹果公司应对这起事件承担责任。</i>
+今年4月份，美国劳工委员会也发布了<a href="__SLASHLINK__" sect="it" sid="10/04/15/036204" sn="article" tid="32">一份报告</a>，曝光微软代工生产商昆盈（KEY）的“血汗工厂”，称这家公司雇佣童工，工作环境十分恶劣。
+➜支付宝浏览器与操作系统统计报告
+https://www.solidot.org/story?sid=17763	8640
+<a href="http://www.haoxiaoru.info/">胆晓茹鼠</a> 写道 <i>"基于支付宝网站流量统计数据，支付宝前端开发组在4月份发布了<a href="http://ued.alipay.com/2010/04/alipay-client-data-report/">浏览器与操作系统统计报告</a>。这份报告对电子支付行业以及所有互联网电子商务网站都具有现实意义。例如：Mac在中国的增长超过linux（但Mac用户的比例只有0.1%），Win7快速增长...
+IE 7和8占据半壁江山，IE6继续下降（预计5月份下降至50%以内），Firefox是小众浏览器的领头羊..."</i>
+支付宝前端开发组最近还<a href="http://ued.alipay.com/2010/05/monster-for-chrome/">发布</a>了一个开源项目：网站代码分析、质量检测及评分的浏览器扩展<a href="https://code.google.com/p/monsterforchrome/">Monster</a>。
+➜盖茨资助海水造云机器
+https://www.solidot.org/story?sid=17764	10800
+环保主义者一直争论，利用技术改造气候的地球物理工程是否是对付气候变化的一种有效方案。但现在地球工程方案得到了包括微软创始人比尔盖茨在内的重量级人物的支持。<i>
+盖茨宣布计划<a href="http://science.slashdot.org/story/10/05/10/2036250/Bill-Gates-Funds-Seawater-Spraying-Cloud-Machines">投资30万美元</a>研究<a href="http://inhabitat.com/2010/05/10/bill-gates-announces-funding-for-seawater-spraying-cloud-machines/">海水造云机器</a>，这种机器由旧金山的一家研究机构Silver Lining开发，能抽取海水喷射到高空。通过将海水分解成细小的颗粒，然后喷到超过千米的高空中，增加云的密度，反射太阳光。</i>
+➜工业革命以来人类活动对北京地区温度变化影响
+https://www.solidot.org/story?sid=17765	12000
+近百年来，地表平均气温全球(1906-2005年期间)增加了约0.74 ℃，中国(1908-2007年期间)升高了约1.1℃，人类活动导致的大气温室气体浓度增加和太阳活动等均可能对近百年来的全球升温起到作用。然而，对各自的贡献量的估计仍然有不同看法。<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-05/sicp-pio050910.php">人类活动对北京地区温度变化的贡献量有多大</a>？<i>
+在最新一期的《科学通报》上，中国科学院地质与地球物理研究所的博士生秦利和周鑫撰写的《<a href="http://www.scichina.com:8080/kxtb/CN/abstract/abstract416549.shtml">工业革命以来人类活动对北京地区温度变化的可能影响</a>》(摘要)一文尝试回答这个问题。他们基于谭明研究员等根据北京石花洞石笋重建的过去2650年5-8月平均温度记录，借助奇异谱分析法中的预测功能，探讨工业革命以来人类活动对北京地区5-8月温度变化的可能影响。该研究结果表明，在自然条件下，150年来北京5-8月温度总体应为降低趋势，估计1870-2000年期间的线性降幅为0.45 ± 0.84 ℃，而石笋和器测记录显示的实际线性增长幅度约为1.08 ℃。从约1870年起，人类活动开始对北京地区温度产生较明显的影响，并在1915年前后进一步加强。估计到2000年，人类活动导致北京地区的暖季温度升高了约1.53 ± 0.84 ℃。</i>
+➜传GMail无法访问
+https://www.solidot.org/story?sid=17766	16080
+gentboy 写道 "现在5月11日12:38，<a href="http://mail.google.com/mail/">gmail</a>无法访问。
+等待很长时间后会出现502提示：The server encountered a temporary error and could not complete your request.<br>
+Please try again in 30 seconds."
+➜Twitter发现bug，能让用户强迫他人“Follow”
+https://www.solidot.org/story?sid=17767	19440
+<a href="http://www.hi2020.com/">书评影评</a> 写道 <i>"微博网站Twitter发现了<a href="http://news.slashdot.org/story/10/05/10/1721201/Twitter-Bug-Lets-Users-Force-Others-To-Follow-Them">一个bug</a>，用户可利用该bug“强制”他人关注，成为其“粉丝”，Twitter随后对此进行了修正，在修正过程中，所有用户的粉丝数量均显示为零，一度造成许多明星微博写手误以为账号被黑。据报道bug修正前，只需要发送“accept+用户名”这一Twitter消息，就可以强制该用户成为粉丝，比如说，如果想让名嘴奥普拉（Oprah）成为你的粉丝，只需更新“accept Oprah”这条消息即可。 <a href="http://tech.163.com/10/0511/07/66CULPKA000915BF.html">贾斯汀·比伯（Justin Bieber）和美国影星艾什顿·库彻 (Ashton Kutcher)等众多明星微博写手均误以为账号被黑。</a>"</i>
+➜气候变化和PS
+https://www.solidot.org/story?sid=17768	23400
+255位美国国家科学院院士署名在《科学》杂志上发表了<a href="__SLASHLINK__" sect="science" sid="10/05/08/077241" sn="article" tid="19">一封关于全球气候变化的公共信</a>(方舟子的<a href="http://blog.sina.com.cn/s/blog_474068790100j0hs.html">翻译</a>)，引起了包括《纽约时报》在内的各大媒体的广泛关注，也引发了“全球变暖拒绝者（denialist）”的反击。<i>
+《科学》杂志在刊登公开信的文章中加入了一幅<a href="http://www.thedailygreen.com/cm/thedailygreen/images/ci/polar-bear-hog-lg.jpg">图片</a>，图片展示了一只北极熊独自留在浮冰上，周围是无边无际的海水，凸现了全球变暖对北极熊生存的威胁。但是，这不是真实的照片，而是PS出来的。<a href="http://rogerpielkejr.blogspot.com/2010/05/revkin-gleick-and-olson-on-gang-who.html">这非常具有讽刺性</a>，“照片可以弄虚作假，那么气候变化的科学声明同样能被操纵，我们最好不要追究公开信的内容。”IPCC气候报告主要作者、Peter H.Gleick在Huffingtonpost<a href="http://www.huffingtonpost.com/peter-h-gleick/remarkable-insight-into-t_b_569076.html">解释</a>，这幅图片已经被《科学》<a href="http://www.sciencemag.org/cgi/content/full/328/5979/689/F1">撤下</a>，是编辑的选择，与署名的科学家无关，认为焦点不应该放在图片而是文章本身。还有博客研究了<a href="http://blogs.kqed.org/climatewatch/2010/05/07/california-scientists-join-climate-appeal/">署名的科学家</a>，发现其中50多人来自加州，但加州气候研究圈中的几位最为知名的科学家却没有署名，如斯坦福大学的Paul Ehrlich和Stephen Schneider。</i>
+➜Android版Flash在演示时多次当机
+https://www.solidot.org/story?sid=17769	24600
+乔布斯不久前<a href="__SLASHLINK__" sect="apple" sid="10/04/29/1555240" sn="article" tid="67">公开批评Flash</a>，声称由于技术上的原因Flash不适合移动平台。这番言论引发了苹果和Adobe之间愈演愈烈的口水仗。Adobe反击说，Flash将会出现在Google Android手机上。然而Flash开发者上周在Android手机上演示时<a href="http://www.zdnet.com.tw/news/web/0,2000085679,20145421,00.htm">却出现两次当机</a>。
+<i>
+Flash平台推广师Ryan Stewart在FlashCamp Seattle开幕演讲中用Nexus One手机来展示Flash Player 10.1，Ryan先在他的Mac电脑上呼叫Eco Zoo网站，这是重度利用Flash开发的网站，有3D、丰富的互动；接着他用手上的Nexus One手机也调用同一个网站，状态列出现进度，3D短暂出来一下，然后浏览器就当机了。Ryan解释说这是beta版，有问题正常，他又试了一次，结果依然一样，最后只能匆匆结束演示。</i>
+➜科学家发现最遥远的星系团
+https://www.solidot.org/story?sid=17770	26280
+德国和日本的天文学家报告，他们<a href="http://blogs.discovermagazine.com/badastronomy/2010/05/10/galaxy-cluster-at-the-edge-of-the-universe/">发现了已知最遥远的星系团</a>：被命名为<a href="http://www.mpe.mpg.de/Highlights/PR20100510/text.html">SXDF-XCLJ0218-0510</a>的星系团，距离地球90亿光年，比之前的最远星系团还要远4亿光年。<i>
+位于夏威夷的日本<a href="http://zh.wikipedia.org/zh-cn/%E6%98%B4%E6%98%9F%E5%9B%A2%E6%9C%9B%E8%BF%9C%E9%95%9C">昴星团望远镜</a>（Subaru Telescope）首先从红外图像上注意到它，随后光谱和X射线探测到百万度高温的气体，从而证实了星系团的存在。每当天文学家将星团的距离记录推后一点，他们将能更多的了解早期宇宙环境。最新的发现将能提供宇宙在创世大爆炸几十亿年中如何演变的新信息。</i>
+➜Ubuntu 10.04评测
+https://www.solidot.org/story?sid=17771	29520
+Ars Technica用了9页的篇幅详细测试和评论了<a href="http://arstechnica.com/open-source/reviews/2010/05/lucid-dream-ars-reviews-ubuntu-1004.ars">Ubuntu 10.04 LTS Lucid Lynx</a>。<i>
+作者认为，虽然Ubuntu离完全实现其缔造者的抱负还有很长一段路要走，但最新的10.04版确实有许多令人耳目一新的改进。新的主题和凝聚力更强的品牌带来了引人入胜的视觉外观，与云服务的整合扩展了桌面的疆域，可用性的改善充实了用户体验。作者认为，未来Canonical需要对主题等进行更进一步的打磨。Ubuntu One云服务需要进一步加强和改善，以提供更好的性能和可靠性。GIMP留下的漏洞需要更好的填充，Ubuntu 10.04用F-Spot取代专业图像编辑软件GIMP，尽管F-Spot现有的图像编辑功能没什么缺陷，但它提供的功能还不能满足普通用户编辑图像的基本需求，作者认为新的图像编辑软件Pinta可以作为一个良好的替代，Pinta是基于Mono的应用程序，改造自流行的Windows开源图像编辑软件Paint.NET。作者指出，Ubuntu还需要更多的努力才能真正成熟。</i>
+➜无论多么便宜，盗版总不会少
+https://www.solidot.org/story?sid=17772	32400
+独立游戏Humble Bundle允许玩家任意定价，但即便如此，<a href="http://blog.wolfire.com/2010/05/Saving-a-penny----pirating-the-Humble-Indie-Bundle">它的盗版率仍然有25%</a>，这一数据是根据下载量统计得出的。
+<i>
+Indie Bundle游戏包共包含6款游戏，每个平台的总容量为746.5 MB。根据对<a href="http://zh.wikipedia.org/zh-cn/%E5%85%A7%E5%AE%B9%E5%82%B3%E9%81%9E%E7%B6%B2%E8%B7%AF">内容分发网络</a>（CDN）的原始下载数据分析，总下载量以49.3 TB 计算，平均每个给定IP地址的下载量为490.01 MB（显然很多人没有下载所有游戏），两个数字相除得出下载者总数约为105,497，但实际付费的玩家数量只有79,000人，因此盗版率估计为25%。开发者认为，这些盗版者中有些是因为付费的流程太麻烦而作罢，亚马逊、Steam和iTunes等在线商店提供了一键购买，因此能大获成功；有些则是想把自己购买的游戏和朋友分享；有些则是所在国家无法使用Wolfire提供的付费方法(PayPal、Google Checkout和Amazon)；有些人则是习惯了盗版游戏，他们觉得这很酷。</i>
+➜Fraser Speirs回归iPhone开发
+https://www.solidot.org/story?sid=17773	34800
+<a href="http://techsingular.net/">middleware</a> 写道<i> "iPhone Flickr客户端软件Darkslide的作者Fraser Speirs在2008年9月12日愤怒地声明「App Store: 我不玩了」，表明「我再也不会为目前这样的App Store写iPhone软件」。本月初他<a href="http://speirs.org/blog/2008/9/12/app-store-im-out.html">显然改变了主意</a>。"</i>
+➜中国称软件盗版率下降，BSA称基本没降
+https://www.solidot.org/story?sid=17774	35100
+国家知识产权局委托互联网实验室和超元实验室对软件盗版率进行年度调查（报告<a href="http://net.chinabyte.com/454/11320954.shtml">一</a>，<a href="http://net.chinabyte.com/32/11321032.shtml">二</a>）。报告称，2009年软件产业销售额达9513亿元，而盗版软件的总价值约为1289亿元，比2008年<a href="http://www.physorg.com/news192730177.html">略有下降</a>。<i>
+报告称，盗版率下降的主要原因是：(1)PC厂商预装正版操作系统软件已基本到位;(2)以微软为代表的主流软件开始采取低价促销策略;(3)以金山WPS和360杀毒软件为代表的免费软件扩散迅猛; (4)软件销售渠道的多样化给消费者带来了便利;(5)正版软件持有量的提高减少了软件重装次数;(6)软件产品知识产权保护和监察措施执行有力(但美国认为<a href="__SLASHLINK__" sect="internet" sid="10/05/04/0839201" sn="article" tid="48">执行不力</a>)。</i>
+商业软件联盟（BSA）周二公布了一份与中国自己的报告完全不同的<a href="http://www.bsa.org/country/News%20and%20Events/News%20Archives/global/05112010-globalpiracystudy.aspx">IDC研究报告</a>，称全球软件盗版率从41%上升到2009年的43%。中国的PC软件盗版率在2009年下降了1个百分点至79%。这是继2003至2008年的6年间降低12个百分点之后的又一次降低。软件盗版所造成的商业损失达76亿美元。
+➜Firefox 4：更快、更高、更强
+https://www.solidot.org/story?sid=17775	37200
+5月10日，Mike Beltzner向Mozilla社区<a href="http://blog.mozilla.com/blog/2010/05/10/firefox-4-vision-fast-powerful-and-empowering/">演示</a>了Firefox 4。下一代Firefox浏览器的主要目标是：更快；利用开放Web标准技术如HTML5；允许用户完全控制他们的浏览器、数据和Web体验。<i>
+独立插件进程的Firefox 3.7将变为Firefox 3.6.4，Firefox 4预计在6到7月份发布beta版，在10月份发布RC版。</i>
+<a href="http://www.slideshare.net/beltzner/firefox-roadmap-2010-0510">幻灯片</a>，<a href="http://videos.mozilla.org/serv/air_mozilla/firefox4.ogg">视频演示</a>（Ogg格式）
+➜OpenOffice.org社区理事会回应FSF
+https://www.solidot.org/story?sid=17776	39600
+OpenOffice.org提供了一个机制，允许开发者开发能为软件增添额外功能的扩展，用户可以自由的加入或删除扩展。OpenOffice.org为此创建了一个用户可选择下载的扩展库，但自由软件基金会（FSF）认为这个扩展库鱼龙混杂，因此它向管理社区的OpenOffice.org社区理事请求能获得一个否决权禁止某些私有插件出现在扩展库。<a href="http://lwn.net/Articles/386988/">社区理事会现已正式拒绝了这一要求</a>。<i>
+社区理事会表示他们无法做到这一点，他们相信FOSS能开发出更好的软件——包括扩展，但用户也应该能自由的进行比较，作出自己的决定。OpenOffice.org的多数用户都使用一个私有的操作系统和其它私有软件。社区理事会尊重他们的选择，表示相信可以通过提供满足要求的高质量自由开源软件潜移默化的影响他们，改变他们的想法。社区理事会对FSF无法接受他们的妥协而感到遗憾。</i>
+➜上海世博会未向日本作者支付版权使用费
+https://www.solidot.org/story?sid=17777	40800
+上海世博开幕前，中国各地电视台4月中旬陆续开始播放上海世博宣传曲《2010等你来》，很快被网民发现该曲抄袭了日本歌星冈本真夜《不变的你就好》。4月18日，世博会宣布<a href="__SLASHLINK__" sect="society" sid="10/04/17/1341225" sn="article" tid="89">暂停播放</a>《2010等你来》。4月19日，世博会官方向冈本真夜提出授权使用要求，冈本真夜<a href="__SLASHLINK__" sect="society" sid="10/04/20/022254" sn="article" tid="89">随即允诺</a>。但此后此事就像石落大海，没有了任何后续动作。世博会没有恢复播放该曲，也没继续与冈本事务所谈判使用费。甚至在4月22日，《2010等你来》的作曲人缪森在中国发表声明否认抄袭。<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/05/100511_louisa_expo_japan.shtml">冈本事务所表达了困惑和愤怒</a>。
+➜互联网弱不禁风
+https://www.solidot.org/story?sid=17778	57300
+1998年，一位黑客告诉美国国会他能够在半小时内让整个互联网瘫痪。这位黑客名叫Peiter Zatko，是“黑客智囊团”L0pht的成员，他现在为五角大楼的国防部高级研究计划署工作。Zatko称互联网的漏洞至今仍然有效，<a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801652.html?wprss=rss_technology">但他需要几个小时才能瘫痪互联网</a>，部分原因是互联网载体（carriers）数量的增加。
+<i>
+无论是发送电子邮件还是浏览网页，你阅读和传输的信息都是从一个数据载体传到另一个载体，传输路线有时候非常漫长。问题在于，每个载体只是根据路线上周围其它载体的信号传输数据，而不是根据整条路线，因此其中的信号可能会指向错误的方向，导致信息在传输中丢失。这就是互联网流量被劫持的根本原因，数据载体在互联网“黑洞”中迷失方向。1997年，有数百万美国居民在一个小时内无法联网，劫持的原因是一家ISP的路由器设置错误。路由错误常常会导致世界其它地方的网络连接中断。这种事故在2001年、2004年、2005年、2006年、2008年和2009都有发生。上个月一家中国的ISP导致数十家网站，其中包括Dell.com和CNN.com，中断访问20分钟。互联网路由系统已有十多年时间没有发生改革，虽然取得了一些进展，但缺乏全行业的推动。</i>

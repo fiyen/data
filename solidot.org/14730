@@ -1,0 +1,116 @@
+➜HTML5：实至名归还是言过其实？
+https://www.solidot.org/story?sid=17617	11520
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "庶几何时，HTML5 开始吸引越来越多的人的目光，尽管 W3C 表示，它的最终成熟还有很长的路，然而并不能阻止人们对它的期待。2007年，HTML5 向 W3C 标准进军，HTML5 的使命是实现富 Web 应用的本地化，脱离浏览器插件的羁绊。W3C 于 2008 年 1 月 推出 HTML5 的第一份草案，而 HTML5 标准的全部实现也许要到 2022年以后（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K957.aspx">完整图文版</a>）。           什么是 HTML5
+<br> <br>HTML5 是继 HTML4.01, XHTML 1.0 和 DOM 2 HTML 后的又一个重要版本，旨在消除富 Internet 程序（RIA）对 Flash， Silverlight， JavaFX 一类浏览器插件的依赖。<br> <br>
+HTML5 概要
+<br> <br>HTML5 带来很多新功能，以及 HTML 代码上的改变，你需要使用一些特定的 API 脚本，如：
+<ul>
+<li>DOM</li>
+<li>实现 2D 绘图的 Canvas 对象</li>
+<li>可控媒体播放</li>
+<li>离线存储</li>
+<li>文档编辑</li>
+<li>拖放</li>
+<li>跨文档消息</li>
+<li>浏览器历史管理</li>
+<li>MIME 类型和协议注册</li>
+</ul>
+那些支持 HTML5 的浏览器在处理 HTML 代码错误的时候必须更灵活，而那些不支持 HTML5 的浏览器将忽略 HTML5 代码。
+<br> <br> <b>HTML 语法的变化</b>
+<br> <br>HTML5 引入了新的 HTML 元素和属性，有的是传统通用元素的语义化版本，如取代  div 元素的 nav, footer 等元素，也有一些全新的元素，如 audio, video。一些在 HTML4 中不被推荐使用的元素，如 font 和 center 将被弃用。HTML5 引入的新 HTML 元素包括：
+<ul>
+<li>article：文章</li>
+<li>aside：内容旁边的侧边栏内容</li>
+<li>audio：音频</li>
+<li>canvas：2D 绘图</li>
+<li>command：命令按钮</li>
+<li>datalist：下拉选择框</li>
+<li>details：对象的细节</li>
+<li>dialog：对话框</li>
+<li>embed：外部插件或对象</li>
+<li>figure：一组媒体对象以及标签文字</li>
+<li>footer：页脚</li>
+<li>header：页首</li>
+<li>hgroup：文档某一部分的信息</li>
+<li>keygen：表单生成的 Key</li>
+<li>mark：标注的文字</li>
+<li>meter：预先定义的范围内的度量</li>
+<li>nav：导航条</li>
+<li>output：输出</li>
+<li>progress：进度条</li>
+<li>rp：标识 rubby 内容</li>
+<li>rt：rubby 内容的解释</li>
+<li>ruby：rubby 内容</li>
+<li>section：定义一个部分</li>
+<li>source：媒体的资源</li>
+<li>time：日期时间</li>
+<li>video：视频</li>
+</ul>
+这些新标签，可以让你的 HTML 文档更容易加载，且更容易被搜索引擎抓取其中的有用信息。比如，搜索引擎可以直接抓取它最关心的 article 标签里面的内容。<br> <br>
+HTML5 同那些流行的技术如何共存
+<br> <br>
+<br> <br>如今的 Web 世界已经习惯了各种插件和 API，HTML5 为 Web 开发与设计者带来了方便与不便，HTML5 将如何同现在的这些流行技术共存？
+<br> <br> <b>HTML5 与 Flash</b>
+<br> <br>这个争论由来已久，Flash 被某些开发设计者滥用导致一些网页加载缓慢，而 HTML5 为之带来一线曙光。拿仍在襁褓中的 HTML5 和已经有10年历史的 Flash 进行比较也许有失公允，但这是人人都关心的一个问题。相对 Windows 用户来说，Mac 用户可能会从 HTML5 获得更多好处，因为苹果一直不愿支持 Flash。下面是 <a href="http://www.mikechambers.com/blog/2010/03/01/relative-performance-of-rich-media-content-across-browsers-and-operating-systems/"> <b>Mike  Chambers</b> </a> 针对 Mac 和 Windows 平台浏览器的 CPU 负载而做的一部分测试：<a href="http://www.mikechambers.com/blog/2010/03/01/relative-performance-of-rich-media-content-across-browsers-and-operating-systems/"> </a>
+<br> <br>测试显示，Mac 平台的 Flash 表现要差于  Windows 平台，这还取决于你使用的浏览器。现在看来，就视频游戏而言，Flash 是更好的选择，但取决于你的浏览器，如果你的视频不是很复杂，HTML5 是更好的选择。Web开发与设计者从这些争论中应该吸取的东西是，Flash 之外还有别的选择，但 Flash 有牢固的地盘，在为客户提供开发设计的时候，需要对他们的目标客户做一些研究。<br> <br>
+HTML5 与 IE 9
+<br> <br>IE9 经常高调宣扬它对 HTML5 的兼容，不过，它确实将是一个很好地支持 HTML5 的浏览器，因为，IE9 使用 Windows 现代图形 API 以及 PC 的图形加速卡输出文字和图形。在三月份的 MIX 展会，微软还宣称，IE9 将支持 GPU 加速的 HTML5，将图形滚动，3D 图形显示等处理交由图形加速卡。<br> <br>
+HTML5 与 Ajax
+<br> <br>现在的 HTML 语言的一个问题是，它是一种轻量级的应用界面，那些喜欢使用 Ajax 实现在线应用的开发者会发现 HTML 非常不好用。<a href="http://www.ajaxwith.com/HTML-5-and-Ajax.html"> <b>Ajaxwith.com</b> </a> 认为，HTML 适合用来加载界面，JavaScript 用来执行命令，虽然 HTML 在作为界面语言方面并不好用，但鉴于多数开发者对它的熟悉程度，HTML 还是不可缺少。
+<br> <br>一个好消息就是，HTML5 会让 Ajax 应用的实现变得更容易。<br> <br>
+HTML5 with CSS
+<br> <br>你需对你的 CSS 代码就行整理以支持 HTML5，因为 h1, h2 之类的标签将不再使用，为了实现同 HTML5 的兼容，最好的方式是使用 CSS reset，将那些常见的 HTML 标签的 CSS 属性清零，<a href="http://woork.blogspot.com/2009/08/css-code-structure-for-html-5-some.html"> <b>woork</b> </a> 认为，最好的 CSS Reset 是 Eric Meyers CSS  reset。<br> <br>
+HTML5 优劣谈
+<br> <br>HTML5 可能对移动 Web 带来更多好处，原因是，现在的移动 Web，iPhone 占主导地位，而 iPHone 是不支持 Flash 的。HTML5 还会让其它平台的移动浏览器有更快的网页加载速度。另一个好处是 SEO，Google 4月9号宣布，将页面加载速度作为搜索排名的一个因素，因此，基于 HTML5 的页面也会因加载速度更快而受益。
+<br> <br>不过，和任何新技术的降临一样，其中也会牵扯到一些问题，对 Web 设计者而言，最大的一个问题就是因为这些新标签的引入，各浏览器之间将缺少一种统一的数据描述格式。
+<br> <br>在 HTML5 被广泛采用之前，我们还无法完全知道 HTML5 代码将带来的好与坏，总体来说，对开发者而言，这将是一个巨大的变化，而对图形设计师而言，还不明朗。
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K918.aspx">关于 HTML5，开发者可以期待什么？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K885.aspx">HTML  5 之后是什么？HTML</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K701.aspx">深入了解   HTML 5</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K804.aspx">让   JavaScript 拯救 HTML5 的离线存储</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K745.aspx">Web   Forms 2.0 行将被 HTML 5 代替</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K511.aspx">HTML   5 正在改变 Web</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K667.aspx">HTML   5 令人期待的 5 项功能</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K816.aspx">当 HTML   5 遇见 Google</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K823.aspx">HTML   5 会为 Flash 和 Silverlight 送终吗？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K824.aspx">Firefox   访谈：OGG, HTML 5 与 Web 视频的未来</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K828.aspx">XHTML   2: 出师未捷身先死, HTML 5:万千宠爱于一身</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K834.aspx">HTML5 File API：把文件从桌面拖放到 Web</a> </li>
+</ul>
+本文国际来源：instantshift.com <a href="http://www.instantshift.com/2010/04/26/html5-worth-the-hype/">HTML5: Worth the Hype?</a> (原文作者：Shannon Suetos)
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜伊利诺斯州将制定青少年性短信法律，教育为主
+https://www.solidot.org/story?sid=17618	16500
+美国伊利诺斯州<a href="http://arstechnica.com/tech-policy/news/2010/04/illinois-moving-forward-with-kinder-gentler-teen-sexting-bill.ars?comments=1#comments-bar">将对青少年性短信立法</a>，教育他们不要做此类蠢事，而转发裸体图像的人不会被视作是性犯罪分子，但新法也规定在必要时可以惩罚。<i>
+根据目前的提案，青少年给同学发送不雅图像不会受到惩罚——但如果广泛传播这些图像，比如试图敲诈或让发送者难堪，那么他们可能就要接受青少年法庭的审判，但不会贴上非法持有儿童色情图像的性犯罪标签。美国的其它州也在考虑改变现行的青少年性短信法律。</i>
+➜Android中多任务实现方式
+https://www.solidot.org/story?sid=17619	18600
+Android开发者Dianne Hackborn在<a href="http://android-developers.blogspot.com/2010/04/multitasking-android-way.html">官方博客</a>上写了一篇文章<a href="http://lwn.net/Articles/385585/rss">解释Android如何实现多任务</a>：<i>
+关于Android多任务的最常见误解是认为一个进程和一个程序之间是有区别的，但在Android中进程和应用程序并无明确的一一对应关系：正在运行的应用程序可能没有进程；多个应用程序可能共享进程；一个应用程序根据需要可能会使用多个进程；即使应用程序没有运行，Android可能也会先激活进程。</i>
+➜小行星司理星上发现生命基本物质
+https://www.solidot.org/story?sid=17620	21360
+根据<a href="http://www.natureasia.com/ch/nature/updates/index.php?i=77731&amp;issue=7293">发表</a>在《自然》杂志上的研究<a href="http://www.nature.com/nature/journal/v464/n7293/abs/nature09029.html">报告</a>，两个独立研究的科研小组，利用夏威夷莫纳克亚山上NASA的“红外望远镜”(IRTF)，获得了主带小行星(位于火星和木星之间)“24 Themis（司理星）”的红外光谱，显示了小行星表面有水冰和有机物的存在。这项发现为地球生命的基本组成来自小行星的生命起源理论提供了更坚实的证据。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E5%8F%B8%E7%90%86%E6%98%9F">司理星</a>是太阳系内发现的第24颗小行星，直径为198千米。它于1853年4月5日被发现。它的表面完全被冰覆盖住。<a href="http://www.csmonitor.com/Science/2010/0429/Did-asteroids-bring-water-to-Earth">当这些冰升华之后</a>，表面下的冰可能就会补充上来。它的表面上还检测到有机化合物，包括多环芳香烃、 CH2和CH3。</i>
+➜菲利普·狄克遗著《Exegesis》将于2011年出版
+https://www.solidot.org/story?sid=17621	24300
+一部即将出版的菲利普·狄克（Philip K. Dick）遗著<a href="http://artsbeat.blogs.nytimes.com/2010/04/29/philip-k-dicks-exegesis-will-receive-two-volume-release/">将向读者展示完全不同的异星世界</a>——作者的内心。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E7%8B%84%E5%85%8B">菲利普·狄克</a>于1982年去世，其最为人熟知的作品包括《高堡奇人》、《机器人会梦见电子羊吗?》、《流吧！我的眼泪》等。他曾经怀疑自己可能患有精神分裂症。从70年代起他花了无数不眠不休的夜晚在日记上描述他的宗教观。他致力去理解身边曾发生的所有事情，而且怀疑自己本身的神智与对现实世界感知是否正确。狄克将他所有可以想到的想法写成了8000页，名为Exegesis的百万日志。没有多少人看过这本日记，也没多少人理解他的想法。现在Houghton Mifflin Harcourt出版社计划在明年以《The Exegesis of Philip K. Dick》的名义出版两卷精华版，由Jonathan Lethem和Pamela Jackson编辑，后者是研究菲利普·狄克的专家。</i>
+➜乔布斯称Ogg Theora可能侵犯专利
+https://www.solidot.org/story?sid=17622	26700
+两家私有软件公司苹果和Adobe互相用封闭的理由抨击对方，苹果CEO乔布斯（Steve Jobs）发表了<a href="__SLASHLINK__" sect="apple" sid="10/04/29/1555240" sn="article" tid="67">针对Flash的公开信</a>，指责Flash封闭和性能低下，而Adobe立即回应称苹果才是一家封闭的企业。<i>
+不过乔布斯在公开信中宣传开放Web标准的说法引起了自由软件基金会的关注。自由软件基金会欧洲分部的一位成员也写了一封<a href="http://blogs.fsfe.org/hugo/2010/04/open-letter-to-steve-jobs/">公开信</a>，询问乔布斯为什么苹果支持私有格式H.264而不是开放格式Ogg Theora。乔布斯的答复是<a href="http://www.fsf.org/news/fsf-responds-to-jobss-thoughts-on-flash">Ogg Theora可能侵犯专利</a>。自由软件基金会认为，H.264也会在未来面临同样的专利问题，这是专利体系的特点。付费购买H.264授权并不能保护用户避免受到此类出其不意的攻击。致力推广Theora和Ogg Vorbis的非营利组织Xiph的成员Monty Montgomery则<a href="http://apple.slashdot.org/story/10/04/30/237238/Steve-Jobs-Hints-At-Theora-Lawsuit">指出</a>，乔布斯的话可能进一步暗示H.264版权所有者MPEG-LA将会对开放视频编码标准采取法律行动。</i>
+➜Google透明化街景车数据收集政策
+https://www.solidot.org/story?sid=17623	29520
+Google的街景车收集沿途<a href="__SLASHLINK__" sect="it" sid="10/04/24/0556211" sn="article" tid="133">WIFI热点以及MAC地址数据</a>在欧洲引发了隐私方面的争论。在<a href="http://googlepolicyeurope.blogspot.com/2010/04/data-collected-by-google-cars.html">官方博客</a>上，Google的全球隐私顾问Peter Fleischer解释了<a href="http://arstechnica.com/tech-policy/news/2010/04/google-talks-street-view-wifi-collection-details.ars">街景车的数据收集方式</a>。
+<i>
+街景车主要收集三方面的数据：街道照片、WiFi网络信息和建筑物3D图像（利用低能激光）。其中最受争议的是收集WiFi数据，Fleischer称，街景车收集沿途的SSID信息（如网络的名称）和WiFi路由器的MAC地址——主要用于Google的位置定位服务。Google认为它收集路由器的SSID和MAC数据并没错，因为这些信息本来就是对外公开广播的，任何手持WiFi设备的人都可以接受到这些信息。Google表示他们不会公开这些数据。</i>
+➜网民总数超过4亿，中国表示要加强互联网管理
+https://www.solidot.org/story?sid=17624	37920
+国务院新闻办公室主任王晨在给全国人大常委会作《关于中国互联网发展和管理》专题讲座称，网民上网方式已从拨号上网发展到以宽带和手机上网为主。<i>
+中国网站达323万个，使用宽带上网的网民达到3.46亿人，使用手机上网的网民达到2.33亿人，网民人数<a href="http://www.gov.cn/jrzg/2010-05/01/content_1597257.htm">达到4.04亿</a>。相比之下2009年年底网民总数是<a href="http://news.yahoo.com/s/afp/20100501/tc_afp/chinatechnologyinternet">3.84亿</a>。网民人数和影响力的快速增长也让政府担心互联网成为社会不稳定的工具。 <a href="http://www.npc.gov.cn/npc/xinwen/2010-04/30/content_1571679.htm">王晨说</a>，进一步推动互联网科学健康有序发展，要进一步明确互联网发展和管理的指导思想，走出一条具有中国特色的互联网发展和管理道路。中国需要加强网络文化产品创作生产，加强网上舆论引导，加强互联网法制建设，进一步加强互联网基础管理，加大打击网上有害信息和网络违法犯罪活动力度，理顺互联网管理体制。</i>
+➜儿童喋血校园：犯罪行为模仿
+https://www.solidot.org/story?sid=17625	44880
+本周连续三天中国发生了<a href="http://chinese.wsj.com/gb/20100430/bch152844.asp">三起骇人听闻的校园血案</a>：周三在广东省雷州市，一名男子闯进一家小学，持刀砍伤15名学生和一名教师。嫌疑人陈康炳现年33岁，当过老师，2006年以来一直因精神健康问题休病假。周四，47岁的徐玉元闯入江苏泰兴一家幼儿园，疯狂刺伤了29名4到5岁的幼儿，其中五人重伤。周五，山东潍坊农民王永来闯进潍坊尚庄小学，用锤子砸伤五名学前班儿童后放火自焚。虽然他们的作案动机不明，但他们的犯罪行为显然与一个月前在福建南平市发生的校园血案相似：42岁的<a href="http://zh.wikipedia.org/zh-cn/%E7%A6%8F%E5%BB%BA%E5%8D%97%E5%B9%B3%E6%A0%A1%E5%9B%AD%E6%83%A8%E6%A1%88">郑民生</a>在南平实验小学外砍死八名儿童，<a href="http://www.infzm.com/content/44473">他于4月28日被执行死刑</a>。<i>
+巴尔的摩大学犯罪学家Jeffrey Ian Ross称，<a href="http://news.yahoo.com/s/livescience/20100430/sc_livescience/chinachildattacksaretheycopycatcrimes">模仿犯罪行为的事情经常发生</a>，其他人的做法可能会让某些有动机的人鼓起勇气。当新闻媒体长篇累牍报道，公众长时间讨论一件事情时，有时候会影响其他人做出类似的行为。媒体的关注不是触发犯罪，而是像方向舵一样给潜在的犯罪分子指明方向。这些模仿犯罪的人无疑有各自不相同的动机，模仿其实是一种减少风险的做法，降低作案者被逮捕的几率。Ross认为，媒体在报道此类事件时需要遵循一定的准则，以减少鼓励模仿的风险。至于为何大人要选择小孩动手？波士顿东北大学研究冲突和暴力的Brudnick中心主任Jack Levin<a href="http://www.lifeslittlemysteries.com/why-do-adults-kill-children--0747/">认为</a>，罪犯选择学校是因为它的封闭性，缺乏保护，而且聚集了大量人群。这几个案例可能与受害者的年龄无关，杀手只是希望能在附近找到更多易受攻击的目标。</i>

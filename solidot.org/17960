@@ -1,0 +1,49 @@
+➜支付宝 APP 被发现会收集用户私人图片
+https://www.solidot.org/story?sid=59767	5727
+<a href="http://t.me/BDaaS">落落</a> 写道 <i>"继<a href="https://www.solidot.org/story?sid=59582" target="_blank">京东金融 App 被曝光收集用户银行 App 截图</a>后，又有<a href="https://www.v2ex.com/t/541052" target="_blank">用户指责支付宝（Alipay）的 Android 应用会收集用户私人目录下的图片文件</a>。该用户使用 SD Maid 的重复文件清理功能扫描了自己的手机存储空间，意外发现支付宝的文件目录下存有自己大量私人图片的副本。Android 系统原本为应用的存储需求规划了互不干扰的专属空间，但中国公司编写的 Android 应用大多倾向直接存取用户的私人空间，这样设计的考量主要在于方便在不同应用间追踪用户，但也带来了泄露用户隐私信息的问题。
+"</i>
+➜Google 的中国版搜索引擎项目仍在继续
+https://www.solidot.org/story?sid=59768	10266
+The Intercept 去年 12 月<a href="https://www.solidot.org/story?sid=58987"><u>报道</u></a>，在内部爆发冲突之后，Google 终止了秘密的审查版中国搜索引擎项目。该审查版搜索引擎项目代号 Dragonfly，是在去年 8 月曝光的，之后在 Google 内部引发了广泛的争议。搜索巨人原计划今年初推出，负责 Dragonfly 项目的高管去年底告诉工作在该项目的工程师，他们将分配到其它项目。然而他们并没有立即终止 Dragonfly 相关工作，而是要求先完成这项工作然后再分配到其它项目。Google 雇员的调查发现中国版审查引擎项目<a href="https://theintercept.com/2019/03/04/google-ongoing-project-dragonfly/" target="_blank"><u>事实上还在继续</u></a>。Goolge 雇员跟踪了源码库里 Dragonfly 相关的代码变化，发现去年 12 月有大约 500 次变更，今年 1 月到 2 月有超过 400 次变更。他们发现仍然有 100 名工程师在 Dragonfly 相关项目上工作。
+➜Thunderbolt 3 变为 USB4，数据传输率达到 40 Gbps
+https://www.solidot.org/story?sid=59769	11861
+USB Promoter Group <a href="https://www.anandtech.com/show/14048/usb4-specification-40-gbps-type-c-tb3" target="_blank"><u>宣布</u></a>将在今年年中公布  USB4 规格。USB4 是基于英特尔的 Thunderbolt 3 协议，数据传输率最高 40 Gbps（2 倍于 USB 3.2 Gen 2×2），支持多种显示协议，支持电力传输。此前，由于普及度不够，英特尔在 2017 年<a href="https://www.solidot.org/story?sid=52528"><u>宣布</u></a> Thunderbolt 3 将免除版税，它现在则更进一步将 Thunderbolt 3 规格<a href="https://newsroom.intel.com/news/intel-takes-steps-enable-thunderbolt-3-everywhere-releases-protocol/#gs.9v01EaCZ" target="_blank"><u>献给 USB Promoter Group</u></a>。芯片巨人想让 Thunderbolt 3 和 USB 一样无处不在。英特尔今年晚些时候发布的 Ice Lake 处理器将整合 Thunderbolt 3。
+➜华为准备起诉美国政府
+https://www.solidot.org/story?sid=59770	13665
+纽约时报援引匿名知情人士消息<a href="https://cn.nytimes.com/technology/20190305/huawei-lawsuit-us-government/"><u>报道</u></a>，华为正准备起诉美国政府禁止联邦机构使用该公司的产品。诉讼将呈交到得克萨斯州东区联邦地区法院，华为的美国总部设在得州。华为计划本周晚些时候宣布这起诉讼。此举可能是为了迫使美国政府更公开地阐明对其的指控。这是华为为保护自己而采取的广泛行动的一部分，以抵御由美国牵头、旨在削弱该公司实力的运动。美国政府将华为视为一个安全威胁。过去的一年里，华盛顿加大了对华为的压力，华为正准备在全球各地的下一代 5G 无线网络建设中发挥重要作用，而美国官员敦促其他国家政府禁止使用华为产品。
+➜沃尔沃所有新车限速 180 公里/时
+https://www.solidot.org/story?sid=59771	15800
+沃尔沃总裁 Håkan Samuelsson 几年前提出了名为 Vision 2020 的计划，设想到 2020 年没人会在沃尔沃汽车内被杀死或受重伤。现在沃尔沃公布了该计划的最新部分：从明年开始<a href="https://www.theguardian.com/business/2019/mar/04/volvo-speed-limit-cars-2020" target="_blank"><u>所有新车限速为 180 公里/时</u></a>。沃尔沃被认为是第一家设置车速限制的汽车制造商，警车将会获得豁免。德国也有几款汽车设置了车速限制，但限制的车速都要高得多。欧盟成员国的高速公路通常限制为时速 120-130 公里，德国高速公路没有限制，但建议车速限制为最高时速 130 公里。沃尔沃称，超速是交通事故的主要死因，其它死因还有吸毒、醉酒和使用手机。沃尔沃还考虑使用地理围栏，在学校和医院周围自动限制车速。Samuelsson 称限制车速不是灵药，但能拯救一条生命也是值得的。
+➜网吧监控系统与腾讯微信的安全
+https://www.solidot.org/story?sid=59772	17032
+安全研究员 Victor Gevers 披露了山东恒邦网络技术有限公司<a href="http://www.wbsz.com/netbar/wangbajifei/1191911.html"><u>开发</u></a>的网吧监视数据库对外网公开访问。数据显示该监视系统监视了六种常用消息应用，包括 IS 语音、QQ 群聊、QQ 私聊、阿里旺旺、微信和 YY 语音。腾讯旗下的微信曾经反复声称，它不留存任何用户的聊天记录，聊天内容只存储在用户的手机、电脑等终端设备上。如果微信严格遵守《微信隐私保护指引》，使用技术手段（如 SSL）保护用户信息在传输到微信服务器期间不被第三方获取，那么理论上只有在网吧终端伪造证书，使用中间人攻击的方法才可以获得微信聊天的具体内容。目前<a href="https://techcrunch.cn/2019/03/05/china-internet-cafe-surveillance-data-leak/" target="_blank"><u>还不清楚</u></a>微信的信息是如何被收集的。
+➜科学家报告第二例 HIV 治愈病例
+https://www.solidot.org/story?sid=59773	24195
+时隔 12 年之后，科学家<a href="https://www.nytimes.com/2019/03/04/health/aids-cure-london-patient.html"><u>报告第二例 HIV 治愈病例</u></a>。患者的身份没有披露，只是被称为“伦敦病人”。第一例被治愈的 HIV 感染者被称为“柏林病人”，其真名是 Timothy Ray Brown，目前生活在加州。研究者将在本周出版的《自然》期刊上发表相关报告，并在西雅图举行的  Conference on Retroviruses and Opportunistic Infections 会议上展示部分细节。荷兰乌特列兹大学医学中心的病毒学家 Annemarie Wensing 博士称，治愈艾滋病将不再是一个梦想。伦敦病人患有霍奇金淋巴瘤，于 2016 年 5 月接受了携带 CCR5 变体的捐赠者的骨髓移植。他也接受了免疫抑制药物治疗。2017 年 9 月他停止服用 HIV 治疗药物，一年之后仍然没有发现病毒。
+➜W3C 批准 WebAuthn
+https://www.solidot.org/story?sid=59774	24707
+World Wide Web Consortium (W3C) <a href="https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/"><u>宣布</u></a> Web Authentication API (WebAuthn) 成为正式的 Web 标准。<a href="https://en.wikipedia.org/wiki/WebAuthn"><u>WebAuthn </u></a>为 Web 应用和服务提供了无密码的公钥身份认证接口，获得了 Airbnb、阿里巴巴、Apple、Google、IBM、Intel,、Microsoft、Mozilla、PayPal、SoftBank、腾讯和&nbsp; Yubico 等公司的支持，允许用户使用生物识别、移动设备等登录在线账号。主流浏览器如 Google Chrome、Mozilla Firefox 和 Microsoft Edge 都已经在去年加入了对 WebAuthn 的支持，苹果的 Safari 浏览器则在预览版中加入了对 WebAuthn 的支持。
+➜中国空间站首飞进入准备阶段
+https://www.solidot.org/story?sid=59775	26581
+官媒<a href="http://news.sciencenet.cn/htmlnews/2019/3/423469.shtm"><u>报道</u></a>，中国载人航天工程办公室透露空间站飞行任务即将拉开序幕。下半年，空间站核心舱、长征五号 B 运载火箭和首飞载荷将先后运往文昌航天发射场，进行发射场合练。后续，长征五号 B 运载火箭首飞任务将择机进行。按计划，空间站将于 2022 年前后建成。目前，空间站核心舱和执行发射任务的长征五号 B 运载火箭，正在抓紧研制生产，将于年底前进行发射场合练和首飞任务准备工作；执行空间站飞行任务的航天员也在按计划抓紧选拔训练，核心舱载荷正在积极开展初样阶段研制，其他各系统都在按工程总体计划安排抓紧各项工作准备。
+➜Google 薪酬平等分析发现更多男性薪酬低
+https://www.solidot.org/story?sid=59776	29588
+纽约时报<a href="https://www.nytimes.com/2019/03/04/technology/google-gender-pay-gap.html" target="_blank"><u>报道</u></a>，Google 的薪酬平等分析发现有更多男性的薪酬低于做同样工作的同事，它向 10,677 名雇员补偿了<a href="https://www.blog.google/inside-google/company-announcements/ensuring-we-pay-fairly-and-equitably/"><u> 970 万美元</u></a>，大部分是男性，有少部分是女性。过去几年，硅谷女性的薪酬引发了关注，她们的薪酬被认为普遍低于男同事。虽然 Google 雇员中间男性占 69%，但以薪酬平等为由获得补偿的男性不成比例的高。前女性雇员和美国劳工部曾起诉 Google 系统性歧视女性， Google 否认了这些指控。搜索巨人表示它将会研究公司的招聘和提拔流程，确保男女平等。
+➜研究发现海洋变暖会减少海产品供应
+https://www.solidot.org/story?sid=59777	30681
+根据发表在《科学》期刊上的<a href="http://science.sciencemag.org/content/363/6430/979"><u>一项研究</u></a>，科学家发现海洋变暖<a href="http://news.sciencenet.cn/htmlnews/2019/3/423467.shtm" target="_blank"><u>会导致海产品供应减少</u></a>。 作为一种冷血动物，鱼类对水温敏感。当水温过高时，它们用于消化和其他功能的酶就会降低效率，影响生长和繁殖。此外，温水含有较少的氧气，进一步产生了压力。尽管存在这些众所周知的问题，但此前还没有人研究过气候变化对全球渔业的影响。研究人员分析了 235 个鱼群，其中 9 个鱼群的平均生产效率提高了 4%，这些鱼类都生活在气温上升从而使过冷的海水更适合鱼类生存的地方，比如南北两极。有 19 个鱼群的平均生产效率则比以前下降了 8%。它们中的大多数分布在北欧和日本海域，随着环境持续升温，这些鱼的产量可能会继续减少。综合考虑赢家和输家，235 个鱼群目前的总体最大可持续收益率比 1930 年低了 4%。这比之前可持续捕捞的鱼类减少了 140 万吨。
+➜斯皮尔伯格想要阻止流媒体巨头参与奥斯卡奖评选
+https://www.solidot.org/story?sid=59778	34460
+斯皮尔伯格（Steven Spielberg）的发言人<a href="https://arstechnica.com/gaming/2019/03/steven-spielberg-will-campaign-to-bar-streaming-movies-from-the-oscars/#p3"><u>透露</u></a>，这位著名导演计划支持改变奥斯卡奖的入选规则，阻止主要通过流媒体平台如 Netflix 放映的电影获得提名。在今年的奥斯卡奖典礼上，Netflix 支持的电影《Roma》 获得最佳导演、最佳外语片和最佳摄影，但在最佳电影评选中输给了斯皮尔伯格支持的《Green Book》。斯皮尔伯格认为《Roma》这样的电影应该归类为电视电影。Netflix <a href="https://entertainment.slashdot.org/story/19/03/04/2011244/netflix-makes-statement-in-wake-of-steven-spielbergs-attempt-to-block-streaming-giant-from-oscars"><u>对此做出了回应</u></a>，称人人都爱电影，但不是所有人都负担得起或生活在方便去电影院看电影的地方，Netflix 的愿望是让任何地方的人能在几乎同一时间看电影，给电影制作人提供更多分享艺术的方式。
+➜索尼停产 PS Vita
+https://www.solidot.org/story?sid=59779	39685
+索尼<a href="https://www.polygon.com/2019/3/2/18246372/playstation-vita-canceled-discontinued-production-ended-ps-vita-sony" target="_blank"><u>正式宣布停产</u></a>掌机 PS Vita。PS Vita 于 2011 年 12 月在日本上市，2013 年发布了新版本的 PS Vita 2000，2015 年其第一方工作室停止为其掌机制作游戏，2018 年停止销售物理媒介游戏，2019 年 2 月它的订阅服务用户最后一次获得 PS Vita 游戏。这款在 2019 年 3 月停产的掌机寿命接近八年。索尼没有透露它总共售出了多少部 PS Vita 掌机，第三方的估计是 1000 万到 1500 万部。
+➜旧金山房租租金上涨到 3690 美元
+https://www.solidot.org/story?sid=59780	44428
+根据房屋租赁应用 Zumper 的<a href="https://www.cnet.com/news/san-franciscos-outrageous-rent-hits-a-new-peak-highest-in-the-us/"><u>数据</u></a>，旧金山一居室公寓的中位数租金创下新高达到 3690 美元，比去年同期上涨近 9%，比纽约高出 30%，是迈阿密的两倍多。亚马逊和微软总部所在地西雅图的房租则是 1970 美元，华盛顿特区是 2150 美元。在旧金山房租上涨的同时，美国的一居室公寓中位数租金则在下降。硅谷和周围地区的房价过高多年来一直备受关注，很多人<a href="https://news.slashdot.org/story/19/03/04/1728246/san-franciscos-rent-hits-a-new-peak-of-3690-highest-in-the-us"><u>认为</u></a>远程工作可以解决这个问题。
+➜中国科技行业出现裁员潮
+https://www.solidot.org/story?sid=59781	46631
+金融时报<a href="http://www.ftchinese.com/premium/001081719"><u>报道</u></a>（付费墙），中国多家科技公司出现大规模裁员：网易宣布进行“结构性优化”，点融将裁员 2000 人；滴滴计划裁减 2000 名员工；京东计划将副总裁及以上级别的人员裁减 10% 左右...从深圳到杭州、再到北京，中国各科技核心区弥漫着一种新的情绪，那就是从多年的繁荣兴盛、花钱如流水突然转换到过紧日子模式。随着经济放缓和资本流动减弱，初创企业正在削减成本。一位中国科技产业投资者表示：“互联网初创企业需要人、资本和客户，而他们会发现这三者中每个方面都有所缩减。”
+➜隐藏在希格斯玻色子里的物理学
+https://www.solidot.org/story?sid=59782	47496
+自 2012 年大强子对撞机发现希格斯玻色子以来，物理学家没有再发现新的粒子。因此物理学家开始争论是否需要建造更强大的粒子对撞机继续寻找新的粒子，目前欧洲和中国都提出了自己的超级对撞机方案。与此同时，物理学家认为<a href="https://www.quantamagazine.org/the-physics-still-hiding-in-the-higgs-boson-20190304/"><u>希格斯玻色子本身仍然隐藏着新的物理学</u></a>。<a href="https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%A0%BC%E6%96%AF%E7%8E%BB%E8%89%B2%E5%AD%90"><u>希格斯玻色子</u></a>被认为是希格斯场的量子激发。根据希格斯机制，基本粒子因与希格斯场耦合而获得质量。但物理学家对希格斯场，或早期宇宙的决定性时刻仍然一无所知。早期宇宙突然从不存在转变到当前的状态。这一对称破缺事件给宇宙创造了无数的粒子。物理学家称这是一个很大的问题。

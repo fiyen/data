@@ -1,0 +1,15 @@
+➜Facebook 宣布 React、Jest、Flow 和 Immutable.js 将采用 MIT 授权
+https://www.solidot.org/story?sid=53944	30626
+因为 BSD +专利的许可证授权在开源社区引发争议和不确定后，Facebook <a href="https://code.facebook.com/posts/300798627056246" target="_blank"><u>宣布</u></a>它的著名开源项目 React、Jest、Flow 和 Immutable.js 将在下周切换到 MIT 许可证授权。社交巨人称，它不想让非技术原因阻碍项目的进步。Facebook 称它仍然相信 BSD +专利的许可证能给用户带来好处，但它承认未能说服社区。Facebook 旗下的众多开源项目目前都采用 BSD +专利授权，除了 React 等项目将切换到 MIT 外，它也将评估其它项目的许可证，如 Caffe/Caffe2 项目主要作者 Yangqing <a href="https://news.ycombinator.com/item?id=15318127" target="_blank"><u>透露该</u></a>项目将切换到 Apache 2.0 许可证。
+➜Red Hat 的新专利承诺
+https://www.solidot.org/story?sid=53945	47721
+Red Hat<a href="https://www.redhat.com/en/about/press-releases/red-hat-announces-broad-expansion-open-source-patent-promise" target="_blank"><u>宣布</u></a>更新了它的<a href="https://www.redhat.com/en/about/patent-promise" target="_blank"><u>专利承诺</u></a>。这家 Linux 软件服务商强调，它的专利组合主要是用户防御，它相信这种防御方法能让开源社区和 Red Hat 都受益。它承诺不会执行这些专利，任何人都可以使用这些专利而不用担心遭到起诉。因为 Red Hat 已经拥有了这些专利，其他人无法再宣称持有它们。如果未来 Red Hat 出售了它的部分专利组合，那么买家将需要拥护相同的承诺。
+➜Google 的测试发现 Safari 的 DOM 引擎有着最多的安全 bug
+https://www.solidot.org/story?sid=53946	49362
+Google Project Zero 团队工程师 Ivan Fratric 开发了一个新的模糊测试工具去测试浏览器的 DOM 引擎，DOM 引擎用于读取 HTML 代码，然后将其组织到 DOM (Document Object Model)中。名叫 <a href="https://github.com/google/domato" target="_blank"><u>Domato</u></a> 的测试工具源代码已经发布在 GitHub 上，它是 Google 工程师创造的第三种开源模糊测试工具，其它两种分别是 <a href="https://github.com/google/oss-fuzz" target="_blank"><u>OSS-Fuzz</u></a> 和 <a href="https://github.com/google/syzkaller" target="_blank"><u>syzkaller</u></a>。Fratric 使用 Domato 测试了五大主流浏览器，<a href="https://www.bleepingcomputer.com/news/security/google-experiment-tests-top-5-browsers-finds-safari-riddled-with-security-bugs/" target="_blank"><u>发现</u></a>苹果的 Safari 浏览器 DOM 引擎有着最多的安全 bug，测试发现了 17 个新 bug，其次是 Edge 发现了 6 个，IE 和 Firefox 发现了 4 个， Chrome 只发现了 2 个。研究人员以 DOM 引擎为目标是因为他们相信在 Flash 插件于 2020 年退役后 DOM 将会成为下一个浏览器漏洞利用目标。
+➜Adobe 安全团队不小心公开了他们的私钥
+https://www.solidot.org/story?sid=53947	53407
+<div align="center"><img src="http://img.solidot.org/0/422/lixquR2Ce4OK.png" width="500" align="" height="331"><br>
+</div>
+<br>
+Adobe 的产品安全事故响应团队（PSIRT）的成员在官方博客上<a href="https://arstechnica.com/?p=1172319" target="_blank"><u>公开</u></a>其电邮账号PGP 公钥的同时一并公开了私钥。安全研究人员 Juho Nurminen <a href="https://twitter.com/jupenur/status/911286403434246144?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2017%2F09%2Fin-spectacular-fail-adobe-security-team-posts-private-pgp-key-on-blog%2F" target="_blank"><u>发现了</u></a>这次意外，并证实私钥关联邮件账号 psirt@adobe.com。发生这次安全事故的原因很可能是一名团队成员使用浏览器扩展  Mailvelope 从团队的共享电邮账号里提取文本，他本应该点击“公开”的按钮但却点击了“所有”，将私钥在内的文本都提取了出来。目前私钥已经移除，重新公布了一个公钥。

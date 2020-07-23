@@ -1,0 +1,57 @@
+➜腾达路由器发现后门
+https://www.solidot.org/story?sid=36861	12546
+在友讯科技（D-Link）路由器<a target="_blank" href="http://www.solidot.org/story?sid=36791"><u>发现后门</u></a>之后，安全研究员又在另一家路由器制造商腾达（Tenda）的产品中<a target="_blank" href="http://www.devttys0.com/2013/10/from-china-with-love/"><u>发现了后门</u></a>。安全研究人员分析了腾达路由器W302R的<a target="_blank" href="http://www.tenda.cn/tendacn/DownLoads/show.aspx?downid=855"><u>最新固件</u></a>，发现了名叫MfgThread的独立线程，捆绑了7329端口，接收 UDP数据包，会对含有特殊字符的指令作出反应，这些特殊字符包括了e、1和X——对于e，会返回一个预定义的字符串，基本上是一个ping测试；对于1，它将允许你运执行iwpriv命令， iwpriv命令可用于配置路由器网络端口；对于X，它给予你root权限，可以执行任何命令。作者认为，这个后门可能最早是在腾达的W302R路由器上实现的，存在于W330R路由器和Medialink的路由器MWN-WAPR150N中。
+➜斯诺登认为中俄没有机会获得NSA的机密文件
+https://www.solidot.org/story?sid=36862	13327
+前NSA合同工斯诺登(Edward J.Snowden)说，中国或俄罗斯获得NSA机密文件的<a target="_blank" href="http://www.voachinese.com/content/snowden-zero-chance-china-20131017/1772067.html"><u>“机会是零”</u></a>。斯诺登接受了《纽约时报》的<a target="_blank" href="http://www.nytimes.com/2013/10/18/world/snowden-says-he-took-no-secret-files-to-russia.html?_r=0">采访</a>。在采访中，斯诺登说，他把所有他获得的机密文件都交给了在香港的记者。带着这些文件飞往莫斯科不符合公众利益。斯诺登还说，他非常熟悉中国的反间谍网络，NSA知道，他采取安全措施使中国不能得到国安局的那些机密信息。斯诺登说，他是在发现NSA的一份内部报告，内容有关布什政府在没有得到法庭授权的情况下进行窃听，随即决定披露此事。
+他说，如果政府最高级别的官员可以违反法律而不受惩罚，那么“不为人知的隐秘权力就会变得极端危险”。
+➜联想考虑竞购黑莓
+https://www.solidot.org/story?sid=36863	13514
+《华尔街日报》引用知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/20131018/tec072624.asp"><u>报导</u></a>，全球第一PC生产商联想集正在积极考虑竞购整个黑莓公司(BlackBerry Ltd.)。联想签署了一项“保密”协议，将可以查看黑莓的帐目，进入潜在竞标者名单；此前黑莓宣布将自己挂牌出售。联想收购黑莓将会是规模最大、最值得关注的中资企业收购西方企业案例之一，将再一次凸显来自中国这个世界第二大经济体的公司是多么渴望在西方市场扮演更加重要的角色。收购西方公司既能使他们获得行业技术，又能扩大自己的产品线。但是如果联想接下来向黑莓提出了有约束力的收购提议，那么必然将面临加拿大和美国政府的审核。据一位知情人士称，预计对黑莓的投标截止日期为11月4日。
+➜DNA检测发现了喜马拉雅雪人与古代北极熊的联系
+https://www.solidot.org/story?sid=36864	15060
+英国科学家发现，传说中的喜马拉雅雪人(Yeti)<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2013/10/131017_himalayan_yetis.shtml"><u>可能只是棕熊的亚种</u></a>。牛津大学基因学教授赛克斯(Prof. Bryan Sykes)发现，喜马拉雅雪人的毛发DNA检验结果和古代北极熊完全相同。赛克斯教授表示，以现在的证据来看，这传说中的生物非常有可能是棕熊和北极熊的混种，“从来没有人真的看过活的雪人，但我认为这种熊应该确实存在，而且和北极熊有很深的关系。”古代北极熊可以追朔至4万到12万年前，北极熊和棕熊是在那个时候演化成两种不同的动物。赛克斯表示，他们并不是想表达“古代北极熊现正在喜马拉雅山区出没”，而是说在喜马拉雅高山区可能有一种祖先为北极熊的棕熊亚种。
+➜Windows 8.1虽不完美，但进步显著
+https://www.solidot.org/story?sid=36865	18842
+微软发布了<a target="_blank" href="http://windows.microsoft.com/zh-cn/windows/download-shop"><u>Windows 8.1</u></a>。各大网站的评价普遍正面，认为它<a target="_blank" href="http://arstechnica.com/information-technology/2013/10/windows-8-1-what-a-difference-a-year-makes/"><u>虽不完美</u></a>，但相比Windows 8进步明显。Windows 8是一款野心勃勃的操作系统，微软试图让它能同时支持传统PC和平板，但结果却是两面不讨好。为了能支持触控，微软引入了Metro风格应用和Metro界面，开发了开始屏幕，移除了开始菜单。但开始屏幕和传统桌面完全割裂，各不相干，没有融合。Windows 8.1吸取了这些教训，向桌面用户作出了一些妥协，虽然新的“开始按钮”仍然不能令人满意，但在许多方面，它比Windows 8 要进步许多，微软原本应该先发布Windows 8.1而不是不完善的Windows 8。Windows 8.1的<a target="_blank" href="http://windows.microsoft.com/zh-cn/windows-8/features#personalize=startscreen"><u>新特性</u></a>包括：自定义开始屏幕，自定义锁屏，同时运行多个Metro应用（根据屏幕大小和分辨率而存在差异），Internet&nbsp;Explorer&nbsp;11，全局搜索，改进的应用商店，等等。
+➜马克吐温的跳蛙
+https://www.solidot.org/story?sid=36866	24559
+在马克吐温的小说《The Celebrated Jumping Frog of Calaveras County》中，名叫Daniel Webster的跳蛙被训练出具有无可匹敌的跳跃能力。但你知道科学文献中善跳的牛蛙最多能跳多远？根据1978年的一篇论文，数据是1.295米。而吉尼斯世界纪录给出了不同的答案：1986年，名叫 Rosie the Ribeter的牛蛙三跳跳出了6.55米，其中一跳不会低于2.18米。实验室的结果和现实生活为何会出现如此大的差距？研究人员带着摄像机参加了Calaveras县每年举办的跳蛙竞赛，拍摄了20多小时的视频，测量不同牛蛙3124次跳远的距离，结果发现一半以上的牛蛙跳远距离超过了1.3米，其中一只跳出了2.2米。<a target="_blank" href="http://news.sciencemag.org/biology/2013/10/mark-twain-and-hopping-frogs"><u>这项研究显示</u></a>，科学家在实验室里琢磨动物的最强表现时经常会出错，而以此推导出的理论比如牛蛙如何跳跃也很可能是错误的。研究凸显了在现实世界中收集数据的优势。
+➜透明国际称华为等中国跨国企业最不透明
+https://www.solidot.org/story?sid=36867	27000
+反腐组织透明国际<a target="_blank" href="www.transparency.org/whatwedo/pub/transparency_in_corporate_reporting_assessing_emerging_market_multinational"><u>发布了</u></a>新兴国家100家跨国企业的<a target="_blank" href="http://files.transparency.org/content/download/689/2960/file/2013_TRAC_EmergingMarketMultinationals_EN.pdf"><u>调查报告</u></a>（PDF），对中国企业不透明的业务操作方式<a target="_blank" href="http://www.dw.de/%E9%80%8F%E6%98%8E%E5%9B%BD%E9%99%85%E4%B8%AD%E5%9B%BD%E8%B7%A8%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%9C%80%E4%B8%8D%E9%80%8F%E6%98%8E/a-17165630"><u>提出告诫</u></a>，同时赞扬印度公司在这方面坚持相对较高标准。报告称，中国在金砖五国（BRICS）中排名最差。透明国际组织对这些企业在如何采取措施杜绝腐败、如何对外报告公司的组织结构以及如何公布包括收入、支出和纳税在内的企业数据等方面的透明度进行评估打分，10分为满分。结果四分之三的公司得分低于5分，33家中国公司平均得分2分。在该组织评选出来的10家表现最差企业中，有8家来自中国：鞍钢、奇瑞、中海油、中国船舶工业集团、正泰集团、格兰仕、吉利、华为和万向集团。在公布内部数据方面，11家企业得分为零，其中9家来自中国。
+➜BT网站IsoHunt关闭，欠MPAA1.1亿美元
+https://www.solidot.org/story?sid=36868	29775
+BT文件搜索引擎IsoHunt同意关闭所有业务，<a target="_blank" href="http://arstechnica.com/tech-policy/2013/10/bittorrent-site-isohunt-will-shut-down-pay-mpaa-110-million/"><u>赔偿MPAA 1.1亿美元</u></a>。但MPAA不太可能得到全额赔偿，根据律师的估计，IsoHunt创始人Gary Fung及其公司拥有资产大约200万美元到400万美元，500万美元封顶。早先的法庭裁决Fung犯有诱导侵犯版权罪，而MPAA律师寻求高达6亿美元的赔偿金。Fung最终放弃了官司，达成和解，关闭网站支付巨额赔偿金。isoHunt 辩解它是一家中立的搜索引擎，没有直接拷贝非法内容，但其辩词未被法庭接受。<br>
+➜敲诈程序向受害者索要比特币
+https://www.solidot.org/story?sid=36869	31558
+<div align="center"><img src="http://img.solidot.com.cn/0/727/li8molRjLSjTk.jpg" height="217" align="" width="280"><br>
+<br>
+</div>
+名叫<a target="_blank" href="http://www.reddit.com/r/sysadmin/comments/1mizfx/proper_care_feeding_of_your_cryptolocker/"><u>CryptoLocker</u></a>的可怕恶意程序通过钓鱼邮件悄悄感染受害者计算机，然后用RSA 2048位公钥加密计算机上的*.odt、*.odb, *.doc, *.docx, *.docm, *.wps, *.xls...等类型文件，随后弹出警告，要求在三天之内<a target="_blank" href="http://arstechnica.com/security/2013/10/youre-infected-if-you-want-to-see-your-data-again-pay-us-300-in-bitcoins/"><u>支付300美元/2BTC</u></a>，否则用于解密的私钥将会销毁，重要文件和私人文件将永远也无法恢复。一些受害者在缴纳了赎金之后获得了密钥解密了加密文件，但还有一些受害者在支付赎金之后仍然未能解密文件，为此遭受了严重损失。三天的倒计时可以通过修改BIOS时钟延长，一旦时间走完，恶意程序会自行卸载。
+➜Wireshark从GTK+切换到Qt
+https://www.solidot.org/story?sid=36870	32799
+网络协议分析工具Wireshark<a target="_blank" href="https://blog.wireshark.org/2013/10/switching-to-qt/"><u>宣布</u></a>，它的用户界面库正从GTK+切换到Qt。GTK+和Qt是两大流行的GUI程序开发框架，重量级桌面环境如GNOME就是基于GTK+，而Qt多为轻量级桌面使用。Wireshark开发者称，应用开发者不需要重写多少代码，表示GTK+对Wireshark的外观影响很大，但没有有效的覆盖所有Wireshark的支持平台，而且随着时间的推移问题变得越来越严重。Wireshark是一种网络分析工具，如果不能运行在系统上，它就不能胜任工作。
+➜Visual Studio 2013发布
+https://www.solidot.org/story?sid=36871	34650
+微软<a target="_blank" href="http://blogs.msdn.com/b/vcblog/archive/2013/10/17/visual-studio-2013-available-now.aspx"><u>发布了</u></a>集成开发工具<a target="_blank" href="http://go.microsoft.com/fwlink/p/?LinkId=306566"><u>Visual Studio 2013</u></a>、.NET 4.5.1和Team Foundation Server 2013。VS 2013改进了<a target="_blank" href="http://blogs.msdn.com/b/vcblog/archive/2013/08/26/10443635.aspx"><u>C++语言支持</u></a>；新的<a target="_blank" href="http://blogs.msdn.com/b/visualstudio/archive/2013/07/15/visual-studio-2013-new-editor-features.aspx"><u>编辑器功能</u></a>；<a target="_blank" href="http://blogs.msdn.com/b/vcblog/archive/2013/08/06/c-ide-performance-improvement-in-visual-studio-2013-preview.aspx"><u>性能优化</u></a>和改进代码质量；简化Windows 8.1应用的上线，用户可以使用Add Push Notification向导将应用注册到Windows商店，配置移动服务启动通知推送，加入代码登记设备通道；增强了调试和性能分析，新的XAML UI响应工具可帮助分析XAML应用的响应能力；C++ AMP增强，改进图形调试，等等。
+➜睡眠是终极的洗脑工具
+https://www.solidot.org/story?sid=36872	36514
+为什么人类祖先会冒着被捕食者吞食的威胁、损失收集食物、积累财富或做爱的宝贵时间，而选择去睡觉呢？科学家提出了许多理论解释为何人类要将三分之一的生命耗费在睡觉上，但缺乏实在的数据去支持其中任何一种理论。现在，根据发表在《科学》上的最新<a target="_blank" href="http://www.sciencemag.org/content/342/6156/373"><u>研究报告</u></a>（摘要），纽约罗彻斯特大学医学中心的Lulu Xie、Maiken Nedergaard和同事给出了分子层面上的第一个直接的实验证据，证明睡眠的基本功能是<a target="_blank" href="http://news.sciencemag.org/brain-behavior/2013/10/sleep-ultimate-brainwasher"><u>清除有毒的代谢产物</u></a>。大脑在整个睡眠期间一直在进行自我清理，脑脊液充满大脑通道，收集废弃物。大脑可能无法同时清理有毒代谢产物和处理感觉输入，而不睡觉则可能会对大脑造成伤害。
+➜迈克尔·贝挫败香港黑社会
+https://www.solidot.org/story?sid=36873	37844
+正在香港拍摄《变形金刚：毁灭纪元》的迈克尔·贝在他的个人网站上<a target="_blank" href="http://michaelbay.com/2013/10/17/hong-kong-incident/"><u>宣称</u></a>，他的剧组遭到了香港黑社会的勒索，黑社会向他们索要4倍的扰民费，遭拒后展开了报复。迈克尔·贝描述其中一位拿着空调机的黑社会成员就像是《僵尸世界大战》里的僵尸，一人顶住了七人，嘴还不停咬人，他咬掉了一位保安的耐克鞋，但幸好是气垫鞋，脚趾没受伤。路透社报道则称，迈克尔·贝<a target="_blank" href="http://cn.tmagazine.com/film-tv/20131018/t18bay/"><u>挫败了这位拿着空调的男子</u></a>。
+➜比特币为何在美国政府关门期间上涨
+https://www.solidot.org/story?sid=36874	39967
+美国政府在10月1日因为预算法案分歧停罢，10月16日达成临时协议重新开张。在美国政府关张期间，比特币遭遇了一次重挫：FBI在10月2日关闭了毒品交易网络丝绸之路，比特币价值<a target="_blank" href="http://www.solidot.org/story?sid=36673"><u>当天暴跌</u></a>，但此后的情况完全出人意料。比特币开始出现逆势上涨，最高接近1BTC换156美元。虽然具体原因可能无人知晓，但有<a target="_blank" href="http://yro.slashdot.org/story/13/10/17/2310210/why-bitcoin-boomed-during-the-government-shutdown"><u>分析认为</u></a>，这显示了比特币去中心化模式对政府控制的法定货币的优势。类似今年初，塞浦路斯试图禁止企业从银行取回存款而引发了公众对比特币的兴趣。作者<a target="_blank" href="http://motherboard.vice.com/blog/why-bitcoin-boomed-during-the-government-shutdown"><u>认为</u></a>，当人们意识到比特币比政府发行货币优越，它将会变得更流行。
+➜177万年前的头骨化石显示人类来源于单一物种
+https://www.solidot.org/story?sid=36875	41300
+距今177万年的一个完整成人头骨显示，人类的早期祖先<a target="_blank" href="http://cn.wsj.com/gb/20131018/bus180504.asp"><u>是源自非洲的单一物种</u></a>，而不是此前认为的多个物种，这大大简化了人类进化史。<a target="_blank" href="http://www.sciencemag.org/content/342/6156.cover-expansion"><u>论文</u></a>发表在《科学》期刊上。头骨出土于格鲁吉亚德马尼西，在出土地点附近还发现了另外四个类似个体的头骨碎片以及少量散落的粗糙石器。专家称，这是非洲以外最早的已知人类化石。&nbsp;
+通过一一对比德马尼西这五个已灭绝生物，以及与非洲同时期的其他标本对比，研究人员认定，所有这些原始人类可能属于遍布各个大陆的同一个物种，而不是许多专家们曾认为的三个或者更多的物种。他们的结论终结了近期在学术上寻找人类起源的做法。
+➜加州就业发展局失业救济系统灾难
+https://www.solidot.org/story?sid=36876	42431
+加州就业发展局花费了1.578亿美元升级了30年历史的失业救济金处理系统。救济系统原计划的升级预算是3500万，但你知道政府的项目很少会在预算内完成。但即便花费了如此多的钱，这个系统仍然没能正常工作。在正常情况下，救济系统每天要向大约80万失业者发放3300万美元的救济金。新系统于9月初正式上线，就业发展局官员兴高采烈的庆祝他们完成了出色的工作。<a target="_blank" href="http://spectrum.ieee.org/riskfactor/computing/it/californias-edd-unemployment-system-disaster-predicted-fiasco"><u>紧跟着灾难发生了</u></a>：首先，就业发展局称有5%（大约2万）的失业者受到了升级技术问题带来的影响；然后，受影响人数增加到了5万；接着受影响人数增加到了18.5万，最后是30万。加州劳工部部长Marty Morgenstern承认，拖延发放救济金“无法接受”。
+➜现代科学在什么地方出错了？
+https://www.solidot.org/story?sid=36877	45667
+《经济学人》发表了一篇评论分析<a target="_blank" href="http://www.economist.com/news/leaders/21588069-scientific-research-has-changed-world-now-it-needs-change-itself-how-science-goes-wrong"><u>现代科学发展中存在的问题</u></a>。文章称，支撑科学进步的一大基本思想是“信任，但要有验证”。这一简单但强大的思想产生了浩瀚的知识。现代科学自17世纪诞生以来，世界已经被改变的面目全非，世界也变得更美好。但成功滋生了自满。现代科学家滥用信任而缺乏足够的验证——破坏了整个自然科学和人文科学。充斥学界的科学发现要么是拙劣实验要么是不当分析的结果。在生物科学中，有半数研究成果无法复制。这个数字可能还是过于乐观了。去年生物科技公司Amgen的研究人员发现，53篇癌症研究的突破性论文只有6篇能复制。制药巨头拜耳公司的一组研究人员只能复制67篇重要论文中的四分之一。
+有缺陷的论文虽然没有将人的生命置于危险之中，但它挥霍了金钱和世界最杰出大脑的精力。阻碍进步的机会成本很难量化，但必定十分巨大，而且会继续扩大。科学研究曾经改变了世界，如今它需要改变自己。

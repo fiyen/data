@@ -1,0 +1,66 @@
+➜苹果宣布新iPad
+https://www.solidot.org/story?sid=28609	2100
+苹果正式推出了第三代iPad平板电脑，但新闻发布会和官网没有称其为iPad 3，而只是简单的说它是“<a href="http://www.apple.com/ipad/">New iPad</a>”。<i>
+新iPad和前代一样有16GB、32GB和64GB版本，采用了9.7英寸Retina显示屏，分辨率2048x1536，每英寸264象素，抗指纹抗油涂层；双核A5X处理器和四核图形核心，苹果称其性能是Tegra 3的4倍；支持WiFi、蓝牙4.0和4G LTE；五百万像素摄像头，自动聚焦和对焦，可记录1080p视频；电池续航力9到10小时。
+</i>
+➜Wine 1.4发布
+https://www.solidot.org/story?sid=28610	5100
+Wine 1.4<a href="http://www.winehq.org/pipermail/wine-announce/2012-March/000234.html">正式发布</a>。主要新变化包括：新DIB图形引擎，重新设计音频堆栈，完全支持双向文本和字符造型。新版支持更多Windows应用程序，包括Microsoft Office 2010。其它新变化包括：重写Alsa、OSS和CoreAudio驱动，不再支持Jack、NAS、AudioIO和ESD音频子系统，不再支持OSS 3子系统；在游戏和全屏应用程序中更好的支持鼠标控制；完全支持VBScript语言，基于Gecko的浏览器引擎支持ActiveX，Gecko引擎更新到Firefox 8使用的版本；改进Direct3D和DirectDraw支持，等等。<a href="http://www.winehq.org/download">下载</a>
+➜著名游戏设计师离开微软和Lionhead
+https://www.solidot.org/story?sid=28611	6840
+游戏工作室Lionhead创始人、微软欧洲游戏工作室创业总监Peter Molyneux通过Twitter<a href="https://twitter.com/#!/pmolyneux/status/177367286859051008">宣布离职</a>，创建独立游戏工作室22 Cans。Molyneux称，<a href="http://arstechnica.com/gaming/news/2012/03/famed-game-designer-peter-molyneux-leaves-microsoft-for-indie-venture.ars">他觉得是时候离开追求新的冒险了</a>。微软友好的说，Molyneux对游戏行业影响巨大，祝愿他能在未来一帆风顺。Molyneux与Les Edgar在1987年创建了<a href="http://en.wikipedia.org/wiki/Bullfrog_Productions">牛蛙工作室</a>，开发了Populous、Syndicate和Dungeon Keeper等著名游戏，之后Molyneux将牛蛙出售给了EA，在1997年创建了Lionhead工作室，制作了《黑与白》和《神鬼寓言》等大卖游戏，微软在2006年收购了Lionhead，2009年Molyneux被提拔为微软欧洲游戏部门的创意总监。Molyneux没有透露22 Cans 将开发什么游戏，表示将会担任Lionhead的创意顾问，帮助完成开发支持Kinect的神鬼寓言新作《Fable: The Journey》。
+➜Google Chrome被击败，Pwn2Own黑客仅花了五分钟
+https://www.solidot.org/story?sid=28612	9000
+<a href="http://www.karenmillen-store.co.uk/">Karen Millen Outlet</a> 写道<i> "去年CanSecWest的Pwn2Own黑客挑战赛，Chrome是唯一没有被攻破的浏览器，然而今年它是<a href="http://www.zdnet.com/blog/security/pwn2own-2012-google-chrome-browser-sandbox-first-to-fall/10588">第一个被攻陷的浏览器</a>。法国黑客团队Vupen利用Chrome的一个安全漏洞，在比赛刚开始五分钟内就成功击败了Chrome的双重安全保护机制，该团队至少赢得了60,000美元的奖金，其中一部分将由Google支付。Vupen在四大浏览器（IE、Chrome、Safari和Firefox ）上都发现了0day漏洞，但有意先拿Chrome开刀。VUPEN利用了两个0day漏洞完全控制了64位Windows 7 SP1系统。</i>
+➜训练免疫细胞杀癌细胞：一种通用策略
+https://www.solidot.org/story?sid=28613	11100
+<a href="__SLASHLINK__" sect="science" sid="11/09/14/083250" sn="article" tid="50">训练免疫系统杀死癌细胞</a>已经在许多临床测试中展现出了<a href="__SLASHLINK__" sect="science" sid="11/09/20/0953246" sn="article" tid="50">强大的潜力</a>。宾夕法尼亚大学医学院的研究人员在《Cancer Research》上发表<a href="http://cancerres.aacrjournals.org/content/early/2012/02/07/0008-5472.CAN-11-3890.abstract">报告</a>称，可以在T细胞——对抗病毒和肿瘤的白细胞——的基础上开发出一种<a href="http://medicalxpress.com/news/2012-03-universal-platform-cancer-immunotherapy.html">个性化的癌症治疗方法</a>。<i>
+肿瘤抗原是免疫反应的潜在目标，识别患者癌细胞表达中的抗原类型，将有助于为不同患者定制个性化的癌症疗法。癌细胞产生的任何突变蛋白都能充当肿瘤抗原。研究人员称，基因改造过的T细胞能识别出突变的肿瘤抗原，杀死癌细胞。实验室可利用患者自己的T细胞改造出针对特定癌细胞的转基因T细胞。
+</i>
+➜为什么只有设计师才能发明流行的新语言
+https://www.solidot.org/story?sid=28614	19680
+先回顾一下知名编程语言的作者和创造时间：Fortran语言，50年代，IBM研究员；Lisp语言，50年代，MIT的教授和学生；C语言，70年代，贝尔实验室的两位研究员；PHP，1994年，作者Rasmus Lerdorf ，名字代表“Personal Home Page Tools”；JavaScript，1995年，作者Brendan Eich；Python，1990年，作者Guido van Rossum；Ruby，1994年，作者Yukihiro“Matz”Matsumoto。从这些例子中，你可以发现早期的程序语言是学者和研究人员设计的，而近期的语言发明者多数是程序设计师或资深程序员。加州大学欧文分校的计算机科学家Cristina Videira Lopes提出<a href="http://tagide.com/blog/2012/03/research-in-programming-languages/">疑问</a>，为什么只有设计师<a href="http://developers.slashdot.org/story/12/03/07/0322239/new-programming-languages-come-from-designers">才能发明流行的新语言</a>？她根据自己在学界的经验认为，生活在象牙塔中的研究人员不再创造用户真正能使用的新语言，因为他们将创造语言当作科研，在90年代之前，计算机性能有限，创造语言需要克服需要种种挑战，考虑各种硬件限制。如今计算机性能日新月异，创造语言不再是什么重要的事情。她指出，现在流行的程序语言基本没有什么创新，全都类似既有编程概念的混搭。
+➜X级耀斑与地球擦肩而过
+https://www.solidot.org/story?sid=28615	21360
+编号为1429的太阳黑子在数天内两次<a href="http://spaceweather.com/">喷发</a>出<a href="http://en.wikipedia.org/wiki/Solar_flare#Classification">X级耀斑</a>。第一次是X1级，第二次是<a href="http://spaceweather.com/images2012/07mar12/cme_c3.gif?PHPSESSID=87db8o8kan4sdrdloih4ephdg6">X5级</a>，两次喷发都不是直接针对地球，第二次喷发产生的日冕物质将于3月8日0625 UT (+/- 7小时)掠过地球。由于黑子仍然活跃，不能排除它会在未来几天喷发出瞄准地球的大耀斑。
+➜英男子向警方报告儿童色情后被禁止与女儿单独在一起
+https://www.solidot.org/story?sid=28616	22800
+英国的一位男子在笔记本上发现儿童色情图像后通知了警方，后果是他<a href="http://www.bbc.co.uk/news/uk-england-humber-17274848">被禁止与自己的女儿单独在一起</a>。<i>
+去年11月，43岁的Nigel Robinson试图下载音乐但却发现了儿童色情，他立即呼叫了警察。结果，当地社会服务部门告诉他，“将不能在无人监督的情况下访问自己或他人的孩子”。警察取走笔记本电脑调查，告诉Robinson先生可能要在一年后才能归还。Robinson说，整件事让他觉得根本不应该通知警察，他表示压力很大，如果妻子因工作回家晚了，他的女儿必须去岳母家。</i>
+➜卡梅隆计划挑战“挑战者深渊”
+https://www.solidot.org/story?sid=28617	24600
+泰坦尼克号和阿凡达的导演计划要<a href="http://www.nytimes.com/2012/03/08/science/earth/james-cameron-prepares-to-dive-into-mariana-trench.html">挑战</a>世界上最深的海沟：<a href="http://zh.wikipedia.org/wiki/%E6%8C%91%E6%88%98%E8%80%85%E6%B7%B1%E6%B8%8A">挑战者深渊</a>。<i>
+卡梅隆（James Cameron）昨天透露，他计划在本月驾驶着微型潜艇挑战挑战者深渊。挑战者深渊是太平洋马里亚纳海沟的最深处，深约11,000米，同时也是世界上海洋最深处和地表最深的地方。该深度的压力是海平面压力的1100倍。卡梅隆在澳大利亚秘密建造了微型潜艇<a href="http://deepseachallenge.com/">Deepsea Challenger</a>，长24英尺，他计划在挑战者深渊待上6个小时，拍摄海底生物，收集样本。海洋微生物学教授Douglas Bartlet将参与卡梅隆的冒险。卡梅隆还计划拍摄两部纪录片，一部是适合大银幕的3D版本，一部在国家地理频道上映。</i>
+➜百度报告称中国移动失去垄断优势
+https://www.solidot.org/story?sid=28618	28020
+<a href="http://www.fake-oakleyssunglasses.net/">Fake Oakleys</a> 写道 <i>"百度移动事业部发布了《<a href="http://open.shouji.baidu.com/?page=mireport&amp;action=download&amp;f=2011q4">2011Q4移动互联网发展趋势报告</a>》（PDF），数据是基于百度移动搜索和百度移动应用，但并不清楚两者的移动渗透率究竟有多高。报告称。中国移动用户虽以43.6%的份额居于首位，但中国联通、中国电信份额显著增长，中国移动的垄断优势不再明显；在Android、iOS用户接入上，中国移动的垄断优势不再明显，且在 Android和iOS用户中份额流失较多。中国联通、中国电信则呈现全年扩张趋势，用户PV占比分别为29.7%、26.6%。中国联通拥有较快的WCDMA网络，在3G运营方面表现突出，再加上率先引入了苹果iPhone，在移动互联网方面再胜出一筹。此外，2G网络接入占比最高但呈下降趋势，3G和Wi-Fi的使用越来越多；Android和iOS用户对于三种网络接入方式的选择则更为均衡。诺基亚、山寨机和三星依旧占据列移动互联网手机品牌前三位。在TOP20机型中，iPhone以4.48%的PV占比一枝独秀，而其中14个位置都被诺基亚各型号所占领。"</i>
+➜代表建议建立长效网络监管机制
+https://www.solidot.org/story?sid=28619	28200
+中国是世界上互联网监管最严格的国家，但代表们认为远远不够，因为他们“<a href="http://zh.wikiquote.org/zh/%E7%A7%A6%E5%89%9B">都有孩子</a>”。中青网<a href="http://www.chinanews.com/gn/2012/03-08/3727655.shtml">报导</a>，调查发现38%的未成年人接触过色情信息，22%的未成年人会主动搜索色情信息，约15%的未成年人在遇到色情网页后会进入网页浏览并观看，约42%的未成年人认为目前互联网上的色情信息比较多，约71%的未成年人认为现在很多网页的情色信息和色情信息区别度低，甚至没有区别。众位人大代表和政协委员都呼吁“要给孩子们一个干净的网络环境”。新闻出版总署署长柳斌杰说，“现在的问题是一些网站服务器在国外，国内只能去封堵，不能从根本上解决问题，下一步还要继续加强。”中华孔子学会副会长凌孜说：“对青少年网络安全问题，应该加强立法。第二，开微博必须实名制。用实名制的方法来解决和屏蔽青少年去接触那些暴利内容和色情网站。”百度高管说，百度现在每天有50亿次的搜索，平均5亿网民每天有10次搜索在检索百度，表示要不断清理有害信息，构造良好的网络环境。
+➜IBM新光学芯片能每秒传输1Tb数据
+https://www.solidot.org/story?sid=28620	31800
+IBM研究人员开发出光学芯片原型，<a href="http://arstechnica.com/business/news/2012/03/holey-chip-ibm-drills-holes-into-optical-chip-for-terabit-per-second-speed.ars">能每秒传输1Tb数据</a>，它比今天的光学芯片更快，能耗比也更高。<i>
+光学芯片是用光而不是用电传输数据，常被用于超级电脑内部处理器互联。Holey Optochip芯片大小为5.2 mm x 5.8 mm，是常见芯片的百分之一，使用4.7瓦每秒传输1Tb数据。IBM表示他们的目标是将其用于并行系统中处理器之间的互联，而不是处理器与内存之间的通信。Holey Optochip是基于标准CMOS芯片，用垂直腔面发射激光器钻出48个小孔。IBM计划一到两年内商业化光学芯片，价格预计在100到200美元之间。
+</i>
+➜匿名黑客焚烧罪证
+https://www.solidot.org/story?sid=28621	34320
+匿名组织分支LulzSec领袖Hector“Sabu”Monsegur在被捕之后与FBI<a href="__SLASHLINK__" sect="internet" sid="12/03/07/0713200" sn="article" tid="100">合作了半年多时间</a>，期间他在FBI的指示积极参与匿名组织的各种活动。他的“背叛”在匿名组织的成员中间引发了对自身命运的担忧和恐慌。前LulzSec成员Avunit说，他购买了新笔记本，将旧的可能包含罪证的电脑<a href="http://arstechnica.com/tech-policy/news/2012/03/everything-incriminating-has-been-burned-anons-fight-panic-after-sabu-betrayal.ars">焚烧掉了</a>。其他匿名组织成员纷纷与LulzSec划清界限，<a href="http://pastebin.com/8yrwyNkt">否认</a>他们参与了前不久发生的攻击智囊机构Stratfor的行动，称Stratfor是一个无偏见的媒体组织而不是政府资助的间谍智囊团，表示“匿名组织不攻击媒体”。匿名组织的IRC频道#anonops将Sabu列入了黑名单。Avunit称Sabu是一个不称职的父亲，他应该找一份可靠工作而不是卷入黑客行动。FBI在监视Sabu的活动中<a href="http://arstechnica.com/business/news/2012/03/turncoat-hackers-a-history-of-snitching-in-high-tech-dragnets.ars">提前预知了多次黑客攻击</a>，例如攻击Stratfor和拦截警方的电话会议，但为了防止线人曝光而没有采取任何行动，甚至还为Sabu储存Stratfor客户信用卡数据而资助服务器空间。
+➜没有名字的iPad可能会导致巨额损失
+https://www.solidot.org/story?sid=28622	36600
+<a href="http://www.coachoutle-store.org/">Coach Factory Outlet</a> 写道<i> "苹果公司在旧金山发布了<a href="__SLASHLINK__" sect="apple" sid="12/03/08/0139221" sn="article" tid="12">第三代iPad平板电脑</a>。尽管此前有预测，这款新发布的平板电脑将会被命名为iPad 3或iPad HD，但苹果公司却出其不意，没有为这款产品取名，而是简单地称其为“新iPad”。苹果并未对此作出具体解释。该公司负责全球产品营销的高级副总裁席勒(Phil Schiller)只是说，苹果没有沿用以往的做法，因为我们不希望我们的产品是可以预测的。品牌专家表示，产品没有新名字有可能会把人搞糊涂，认为这个名字传递的信息是苹果公司在后退。<a href="http://tech.163.com/12/0308/16/7S3C52VV000915BD.html">有评论说</a>，“新iPad”已经是一个代价将高达100亿美元的错误，这是库克时代的耻辱，这款产品只能是昙花一现。"</i>
+《华尔街日报》的一篇评论列出了“<a href="http://www.cn.wsj.com/gb/20120308/tec121313.asp">不买全新iPad的四个理由</a>”。
+➜亚马逊专利电子书注释
+https://www.solidot.org/story?sid=28623	37200
+本周二，美国专利商标局（USPTO）<a href="http://news.slashdot.org/story/12/03/07/1412222/amazon-patents-annotating-books-digital-works">授予了</a>亚马逊一项专利：<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=8,131,647.PN.&amp;OS=PN/8,131,647&amp;RS=PN/8,131,647">为数字作品提供注释的方法和系统</a>。专利描述了接受和传播数字作品注释的方法和系统，注释包括文本、图形或与数字作品内容相关。专利是在2005年申请的，KDE桌面的<a href="http://docs.kde.org/stable/en/kdegraphics/okular/annotations.html">Okular</a>有类似的功能，它在2006年发布了最早的版本，看起来开源软件又一次“侵犯了专利”。
+➜爱因斯坦在1930年最早提出“远距离的幽灵般作用”
+https://www.solidot.org/story?sid=28624	40500
+在量子物理学历史上，爱因斯坦对量子纠缠的批评“远距离的幽灵般作用”非常著名，他与其他两位合作者于1935年提出了<a href="http://zh.wikipedia.org/wiki/EPR%E6%82%96%E8%AB%96">EPR佯谬</a>，指出量子纠缠瞬时效应将允许“远距离的幽灵般作用”，违反了狭义相对论的光速不变原理。然而，根据对其研究工作的新分析，爱因斯坦最早在1930年就<a href="http://www.technologyreview.com/blog/arxiv/27635/">提到了“远距离的幽灵般作用”</a>。当时爱因斯坦正在考虑一个与海森堡不确定性时间和能量相关的思想试验：假设一个包含许多光子的盒子，它被迅速的打开和关闭，当盒子打开时它会发射出一个光子。爱氏认为光子的发射时间和能量都可以精确测量，发射时间就是盒子打开的时间长度，而能量可以通过盒子的能量变化测量，他因此认为量子力学没有一致性。玻尔指出，爱氏的问题其实可以通过广义相对论得到答案：由于时间的测量是在引力场中进行的，盒子打开的时间流逝长度依赖于盒子的位置，爱氏没有考虑位置的不确定性。玻尔认为，佯谬的答案是爱因斯坦已经发射了光子。用现在的话说是盒子和光子必须是量子纠缠的。
+➜Linux From Scratch 7.1发布
+https://www.solidot.org/story?sid=28625	42300
+<a href="http://www.linuxfromscratch.org/index.html">Linux From Scratch</a>项目<a href="http://www.h-online.com/open/news/item/Linux-From-Scratch-7-1-published-1463152.html">发布了7.1版</a>，提供了345页的一步步创建定制Linux发行版的指南。指南包含了新的核心组件，如3.2.6 Linux kernel和GCC 4.6.2。手册采用创作共用非商业许可证发布，可通过<a href="http://www.linuxfromscratch.org/lfs/view/7.1/">在线阅读</a>或下载<a href="http://www.linuxfromscratch.org/lfs/downloads/7.1/LFS-BOOK-7.1.pdf">PDF</a>和<a href="http://www.linuxfromscratch.org/lfs/downloads/7.1/LFS-BOOK-7.1-NOCHUNKS.html.bz2">HTML</a>格式的文档。
+➜Start8拯救Windows 8的开始菜单
+https://www.solidot.org/story?sid=28626	55800
+微软在Windows 8中为了迎合平板，大幅改动了用户界面，用开始屏幕取代了开始菜单，这一变动让Windows桌面用户大为不满。现在Stardock发布了<a href="http://www.stardock.com/products/start8/">Start8</a>，拯救消失的开始菜单，恢复旧版中的开始菜单功能，支持启动和搜索安装的应用程序，右键运行和关闭选项，自定义开始菜单图像。
+➜苹果iPhoto使用OpenStreetMap数据
+https://www.solidot.org/story?sid=28627	56520
+苹果发布了iOS照片管理程序iPhoto，使用了来自OpenStreetMap的公开数据，但并没有提到数据来源。OpenStreetMap基金会<a href="http://blog.osmfoundation.org/2012/03/08/welcome-apple/">官方博客</a>称，iPhoto以前使用的是Google Maps的数据，他们很高兴看到一家世界著名的公司会使用OpenStreetMap，称苹果使用的是2010年的旧数据，表示将寻求与苹果解决数据源出处问题。

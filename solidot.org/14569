@@ -1,0 +1,101 @@
+➜黑客泄露气候研究数据及电邮
+https://www.solidot.org/story?sid=14778	8400
+time 写道 "英国东英吉利大学（University of East Anglia ）证实<a href="http://www.theregister.co.uk/2009/11/20/cru_climate_hack/">有黑客畅游了学校的服务器</a>，并盗走其<a href="http://en.wikipedia.org/wiki/Climatic_Research_Unit">气候研究中心</a>(Climatic
+Research Unit, CRU)的大量电邮和气候研究数据。CRU是英国3家顶尖气候研究机构之一，在历史气温重建上有世界声誉。<i>
+昨晚一个61M的zip文件被ID"FOIA"放到一个俄国服务器上公开，内含千余封电邮和数千个其它文件，包括诽谤性的备注和一个关于暖化理论质疑者的粗鲁卡通。<br>
+暖化理论质疑者<a href="http://www.foxnews.com/story/0,2933,576009,00.html?test=latestnews">称这份数据是“确凿证据”</a>，这些证据显示气象学家共谋处理数据，使其符合人造暖化理论。比如在一份温度数据中出现了一个神秘的注解“隐藏下降(hide the decline)”。一份电邮显示了这些学者如何在同行评议中对不同意见施加压力：“我想我们必须不再考虑Climate Research作为同行评议期刊的合法性。也许我们应该鼓励我们在气候研究领域的同行不再往那里投稿或者引用该杂志里的论文。我们还需要考虑对正在该刊物编委会中的比较理智的同行说或者要求什么……其他人以为如何？”</i>
+更多信息：<a href="http://wattsupwiththat.com/2009/11/19/breaking-news-story-hadley-cru-has-apparently-been-hacked-hundreds-of-files-released/">1</a>， <a href="http://www.climateaudit.org/?p=7806">2</a>."
+➜Fedora 12 正式发布
+https://www.solidot.org/story?sid=14779	8880
+<a href="http://horf.c.la/">horf</a> 写道 "Fedora Project 今日发布了代号 Constantine 的 Fedora 12 ，口号 Unite，取意“聚集开源软件智慧”。新特性包括：           性能优化：在 32 位平台上全部软件包针对 i686 架构重新编译，并对 Intel Atom 处理器进行性能调优。<br>
+NetworkManager ：改善了对于宽带、蓝牙和 IPv6 的连接配置过程。配合PolicyKit，网络配置只需要点击鼠标即可轻松完成。<br>
+下一代Theroa 编码支持：Fedora 12 集成了最新的开源视频编解码器 Theora 1.1 版本。<br>
+更好的显卡支持：针对 Nvidia Nouveau 驱动和 AMD R600/700 系列的 KMS 支持，同时为 Intel 显卡引入 DisplayPort 支持。<br>
+虚拟化支持：改善了 KVM 性能，并提供虚拟机磁盘镜像监控工具 guestfish。<br>
+自动臭虫汇报系统和 SELinux：新的崩溃收集程序 abrt 只需要点击几下鼠标即可将遇到的软件或 SELinux 提交至 Bugzilla，方便开发者修复。<br>
+新的 Dracut initrd 启动系统：并行、以事件为单位的 Dracut 系统进一步加快启动速度。<br>
+PackageKit 插件：当用户尝试运行一个包含在尚未安装的软件包中的命令时，PackageKit 可以自动提示安装相应软件包。<br>
+按需蓝牙服务：蓝牙服务会根据需要自动启动和停止。<br>
+Moblin 桌面环境：增加了 Moblin 桌面环境软件包组以及Fedora Moblin Spin 。<br>
+PulseAudio ：增添了 UPnP 和 DLNA 支持，可以直接将音频流发送至 PS3 等设备。同时改善了热拔插和蓝牙设备支持。<br>
+更加安全：降低了部分系统文件和进程的运行访问权限，避免使用 root 权限访问。同时为 SELinux 增添了沙箱支持。<br>
+Broadcom 固件：默认包含了 Open Broadcom 固件，对部分 Broadcom 无线网卡提供 out-of-the-box 支持。<br>
+混合 Live 镜像：现在只需要使用 dd 即可创建光盘或者 USB Live 镜像，不过还是推荐使用 Livecd-tools 以获得诸如保留空间等功能。<br>
+更好的摄像头支持：改善了部分摄像头的成象质量，尤其是很多廉价摄像头。<br>
+GNOME 2.28：使用 Gnote 替代了 Tomboy 成为默认便签，用 Empathy 替代了 Pidgin 成为默认即时通讯客户端。<br>
+GNOME-shell 预览：尽管 GNOME 3.0 延期了，但是依然可以在 Fedora 12 中提前体验下 GNOME Shell 的。<br>
+KDE 4.3：升级版的 Air 主题，可配置的快捷键支持，新的窗口管理器特效以及更好的红外线遥控支持。<br>
+开发者：Eclipse Galileo, Perl 6, PHP 5.3, Netbeans 6.7.1
+管理员：GFS2 集群 Samba 管理<br>
+X.org 1.7.1：包含支持多指点设备支持的 XI2。<br>
+<a href="http://fedoraproject.org/get-fedora.html">点这里下载镜像</a>。
+via <a href="http://linuxtoy.org/archives/fedora-12-unite-golden-released.html">LinuxToy</a>"
+➜OS X视频解码技术现状
+https://www.solidot.org/story?sid=14780	13680
+Jjgod Jiang的博客例举了<a href="http://blog.jjgod.org/2009/11/18/hardware-video-acceleration-on-mac/">Mac OS X对视频解码技术的糟糕支持</a>：<i>
+Snow Leopard 的 QuickTime X支持使用H.264视频编码的格式是mp4和mov，不支持mkv封装H.264视频；<br>
+因为Mac OS X下所有显卡的驱动都是通过苹果分发的，而它又不公开视频硬解码 API，结果是没有一个第三方应用程序能利用硬件(9400M，9600M等)来解码H.264 视频；<br>
+除了硬件解码之外的方案还有纯软件解码和基于GPGPU的方案，但发展缓慢。</i>
+以上这些造成的恶果是，在 OS X 上播放起1080p视频时往往CPU 占用率在100%以上，播放高码率的720p视频也能到70%~80%。
+➜互联网有多重？
+https://www.solidot.org/story?sid=14781	15480
+互联网已成为我们生活的一部分，你可能偶尔会思索它的物理重量究竟有多大。现在根据CNET.UK的<a href="http://crave.cnet.co.uk/gadgets/0,39029552,49304012,00.htm">计算</a>：互联网<a href="http://tech.slashdot.org/story/09/11/20/170212/How-Heavy-Is-the-Internet">重498,438,559,990公斤</a>（大约5亿吨）。根据公开信息：<i>
+连接到互联网的计算机共570,937,778台，连同显示器之内，平均每台40公斤，总重量为22,837,511,120公斤；<br>
+Netcraft估计全世界共175,480,931台服务器，平均每台10公斤，总重量1,754,809,310公斤；<br>
+全世界估计有15,000千米的TAT-14光缆，平均每米重5.8公斤，总重量87,000,000公斤；<br>
+iPhone也能联网，全世界共售出4200万台，总重量6,075,000公斤；<br>
+黑莓手机同样能联网，RIM共售出5000万台黑莓，总重量6,800,000公斤；<br>
+网页也有重量，虽然微乎其微，它们多数以硬盘中电子脉冲、磁道的形式组成，850亿网页的总重量为0.01公斤；<br>
+此外还需考虑287,524种病毒，最后的总重量为498,438,559,990公斤+。</i>
+➜IBM停止Cell处理器开发
+https://www.solidot.org/story?sid=14782	17280
+德国网站Heise Online<a href="http://www.heise.de/newsticker/meldung/SC09-IBM-laesst-Cell-Prozessor-auslaufen-864497.html">证实</a>（德语）IBM<a href="http://www.osnews.com/comments/22518">停止了Cell处理器的未来开发</a>。<i>
+Cell处理器一度被认为是一项革命性的产品，但实际应用证明它并不比竞争对手突出。IBM主管Deep Computing的副总裁David Turek证实PoweXCell 8i是最后一款Cell处理器。当然停止芯片设计并不意味着它的死亡，目前多数的Cell芯片主要由东芝公司生产，使用在索尼公司的PS3主机上。Sun曾经<a href="http://blogs.sun.com/bmseer/entry/extremely_fast_pattern_matching_on">指出</a>，3.2GHz的Cell处理器还没有1.4GHz的SUN Niagara处理器快。有评论称，它并不比GPGPU强大，而灵活性又不如真正的CPU，IBM放弃它并不让人意外。</i>
+➜Opera Mini国际版屏蔽国内用户
+https://www.solidot.org/story?sid=14783	18000
+<a href="http://icatmeatgmail.com/">Icat</a> 写道<i> "昨晚开始用Opera Mini国际版访问任何网站都会被强制转到Opera Mini 中国版的"推荐升级"页面，Opera Mini 4.2/5.0 beta都测试过，<a href="http://pic.yupoo.com/morningsky/7101286ae561/wslewuib.jpg">下图为 4.2的截图</a>。很难理解为何Opera突然如此强势，直接将众多国内的国际版用户给屏蔽了。在opera.com和operachina未见到任何说明。由于中国版和国际版的最大区别不是网速，而是关系到会不会被某墙的关系，不爽的人应该大有人在。是Opera觉得来自中国的流量太大，而国内服务器太空闲？还是Opera中国Team觉得自己的接受度太小，感到被忽视？</i>
+➜让Linus Torvalds得诺贝尔和平奖
+https://www.solidot.org/story?sid=14784	19800
+今年的诺贝尔和平奖授予美国一号政治人物奥巴马（Barack Obama），但和平奖并不仅仅限于政客，它还曾经授予给非政治人物。因此有人<a href="http://www.ridenbaugh.com/index.php/2009/11/18/a-northwest-nobel-option/">提名</a>让一位非政治人物、Linux的创始人<a href="http://www.osnews.com/story/22514/Nobel_Peace_Prize_to_Linus_Torvalds_">Linus Torvalds获得诺贝尔和平奖</a>。<i>
+Linux已经让——也正在让——世界变得更美好，得和平奖Linus受之无愧。Linux是有史以来最大规模的国际合作努力之一，它启迪了Ubuntu、每个孩子一台笔记本（OLPC）等等众多全球性的项目。Linux以和平手段征服了超级计算机、服务器和嵌入式计算机领域。Linux帮助测序人类基因组，帮助全球计算机基础设施抵御病毒攻击。Linux现在是数百万人学习编程的途径，并参与着新的国际努力。</i>
+➜微软不会提供IE9的nightly build版本
+https://www.solidot.org/story?sid=14785	21600
+本周微软正式宣布了IE9，新一代的IE浏览器将专注于改进性能、Web标准支持，文本和图形渲染等。但是IE9的开发与之前版本有无差异？<i>
+Ars Technica指出，IE的竞争对手如Safari、Chrome、Firefox和Opera的开发过程<a href="http://arstechnica.com/microsoft/news/2009/11/microsofts-problematic-lack-of-nightly-builds-for-ie.ars">都比IE要开放得多</a>，Firefox和Chrome是开源浏览器，而Apple和Opera也都会固定更新引擎。这么做好处是Web开发者能更容易的与浏览器开发保持同步。IE的竞争对手甚至还发布每晚编译版本（nightly build）。与之相反的是，IE则是固守成规，先是发布两个beta，再发布一到两个release candidate（预发布）版本，最后再推出正式版。Ars就此询问了负责IE的总经理Dean Hachamovitch，得到的答复<a href="http://developers.slashdot.org/story/09/11/20/1829216/Microsofts-Lack-of-Nightly-Builds-For-IE">是一如既往</a>。</i>
+➜食人部落或能帮助对抗疯牛病
+https://www.solidot.org/story?sid=14786	38700
+《每日电讯报》<a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/papuanewguinea/6603676/Brain-eating-tribe-could-help-find-treatment-for-mad-cow-disease.html">报道</a>，英国伦敦大学的研究人员发现巴布亚纽几内亚食脑部落的居民已经进化出<a href="http://tw.news.yahoo.com/article/url/d/a/091119/1/1v9uw.html">对抗疯牛病的基因</a>。<i>
+巴布亚纽几内亚东高地（Eastern Highlands）省有个Fore族，有吃死去亲人大脑的习俗。一种类似疯牛病的大脑疾病因此迅速扩散，威胁到居民生存。虽然食脑习俗于1950年代被政府禁止，但部落居民已经产生了基因变异，能保护他们免于疾病困扰。名叫库鲁症（kuru）的疾病是由盶病毒引起的，而疯牛病同样是这种病毒导致的。伦敦大学医学研究会的<a href="http://www.ucl.ac.uk/neuroscience/Page.php?ID=12&amp;ResearcherID=413">Simon Mead</a>教授和同事分析了3000多名Fore族人的DNA，其中709人参与过食人仪式，有152人死于库鲁症。研究人员发现，他们已进化出一种特有的基因突变（G127V），能保护族人不会得库鲁症，基因突变以自然选择的方式进行扩散。Mead教授相信对此变异基因的进一步研究将能帮助治疗疯牛病。</i>
+➜怀疑外遇？去测试一下DNA
+https://www.solidot.org/story?sid=14787	39600
+墨西哥的实验室找到了<a href="http://www.google.com/hostednews/afp/article/ALeqM5jFEhkD6yRTPkIxNmS2pu0Mp7fz0A">新的生钱之道</a>：为怀疑另一半外遇的人<a href="http://tw.news.yahoo.com/article/url/d/a/091121/19/1vdmh.html">提供DNA检测服务</a>。<i>
+其中一家提供提供检测服务的实验室主任Jorge Guillen表示：“如果有人认为自己是外遇受害者，他们可以给我们内衣裤，床单或口香糖”，供测试人员寻找精子，唾液或毛发等蛛丝马迹。测试后便能判定，样本上的基因是否属于当事人或他人。Guillen表示，检测过程可能需要4至6天，费用从200到500美元不等。私人调查机构去年发现，六分之一的墨西哥人怀疑枕边人可能外遇。</i>
+➜必应审查所有简化汉字查询
+https://www.solidot.org/story?sid=14788	46320
+stranger 写道 "<a href="http://topics.nytimes.com/top/opinion/editorialsandoped/oped/columnists/nicholasdkristof/index.html">尼古拉斯·克里斯托夫</a>，一个纽约时报记者，<a href="http://search.slashdot.org/story/09/11/21/0158213/Bing-Censoring-All-Simplified-Chinese-Language-Queries">呼吁抵制微软必应</a>。他们审查中国政府要求的搜索查询（如<a href="https://tech.slashdot.org/story/06/01/25/0432239/Google-Agrees-to-Censor-Results-in-China">certain</a> <a href="http://tech.slashdot.org/story/06/06/16/1550221/Yahoo-China-has-the-Worst-Filtering-Policy">others</a>）
+区别是，必应审查所有简化汉字查询。（简化汉字用于中国大陆）这意味著一个中文使用者在任何世界任何地方搜索天安门只可能留下一个<a href="http://images.google.com.au/images?rlz=1C1CHMB_en-GBAU309AU309&amp;sourceid=chrome&amp;q=tiananmen+square&amp;um=1&amp;ie=UTF-8&amp;ei=h_wGS6viNozm7APUgryJDw&amp;sa=X&amp;oi=image_result_group&amp;ct=title&amp;resnum=4&amp;ved=0CCEQsAQwAw">可爱的旅游地点</a>的印象。
+➜睡觉也能学习
+https://www.solidot.org/story?sid=14789	48720
+西北大学的科学家发现，在睡眠中如果人们听到了熟悉的声音，而这个声音能让人联想到在特定空间位置的物体；那么在醒来之后，他们回忆起这些位置比其它没有记忆线索的位置要精确的多。这项发现意味着在睡觉时<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-11/aaft-lww111609.php">我们也能加强记忆</a>。
+<i>
+西北大学神经科学系博士生John D. Rudoy和同事让12人参与试验，要求他们将50种画面与电脑屏幕上的一个特定位置联系起来，随后要求他们小睡一会。在志愿者睡觉的时候，研究人员播放了与25种画面有关的声音。在志愿者醒来之后，再重新进行测试。研究人员发现，与没有听到的画面相比，志愿者能更精确的将听到声音的画面对应到正确的位置上。发现表明，当我们睡觉时，听觉上的提示可用来重新激活并加强我们在清醒时所学的各种记忆。<a href="http://www.sciencemag.org/cgi/content/short/326/5956/1079">报告</a>发表在最新一期的《科学》杂志上。</i>
+➜Chrome OS的关键特点
+https://www.solidot.org/story?sid=14791	52320
+<a href="http://yi-it.com/blog/">易IT</a> 写道 "前篇讲到<a href="http://yi-it.com/blog/pivot/entry.php?id=135">如何在Virtualbox下安装Chrome OS虚拟机</a>，这里讲讲<a href="http://yi-it.com/blog/pivot/entry.php?id=136">如何在VMWare下安装Chrome OS</a>。以及Chrome OS的关键特性，还有就是安装过程及运行时的一些截图。<a href="http://www.redmondpie.com/google-chrome-os-screenshots-video-demo-and-source-code-9140125/">有人</a>总结了Chrome OS的关键特点：
+<ul>
+<li>开源</li>
+<li>轻量级</li>
+<li>比市场上其他操作系统都快</li>
+<li>2010年下半年上市</li>
+<li>意在夺取上网本市场</li>
+<li>主要特点 - 速度、简便和安全</li>
+<li>重设计了安全架构，减少用户和病毒、木马和恶意软件打交道的机会</li>
+<li>可以运行在x86和ARM芯片上</li>
+<li>可以直接运行基于Web的应用（软件），而不必安装任何软件</li>
+<li>开发者可以基于这个平台开发应用</li>
+<li>侧重于那些使用上网本和浏览器进行网上活动的用户</li>
+<li>运行在Linux操作系统核心上</li>
+</ul>
+➜Fedora 12收紧软件包安装政策
+https://www.solidot.org/story?sid=14790	52800
+最新的Fedora 12在软件包管理工具中引入了PackageKit插件去简化安装。默认的PackageKit允许任意用户安装已签名的软件包，这样设置之后安全更新可自动安装，无需用户干预(如输入root密码)。但这项政策引起了安全方面的担忧，<a href="https://www.redhat.com/archives/fedora-devel-list/2009-November/msg00926.html">Fedora邮件列表</a>上就此事展开了激烈的争论，讨论<a href="http://news.fedora-zh.org/2009/11/19/fedora-12-%E7%9A%84-pk-%E8%AE%BE%E7%BD%AE%E6%9C%89%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3/">多达数百条</a>。在压力之下，包管理维护者同意<a href="http://linux.slashdot.org/story/09/11/20/1241231/Fedora-12-Package-Installation-Policy-Tightened">修改受争议的包安装政策</a>，本地用户安装已签名的软件将需要输入root密码。更多详情可浏览<a href="https://www.redhat.com/archives/fedora-devel-list/2009-November/msg01445.html">开发者邮件列表</a>。

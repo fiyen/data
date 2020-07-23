@@ -1,0 +1,72 @@
+➜BSA称防火墙阻碍中国云计算发展
+https://www.solidot.org/story?sid=28393	3240
+商业软件联盟（BSA）发布了一份《<a href="http://portal.bsa.org/cloudscorecard2012/assets/PDFs/BSA_GlobalCloudScorecard.pdf">2012全球云记分卡</a>》报告(PDF)，分析了美国、中国、德国、俄罗斯等24个总共占全球信息市场八成份额的国家。日本（9.2/10）、澳大利亚、德国分列前三位，印度排19位，倒数第六；中国排名第21位（4.8），倒数第四；得分最低的是巴西（2.2）。BSA的报告指出，严格的安全措施是必须的，但是一些国家比如中国采取互联网过滤措施，或者是审查制度将会阻挠云计算的发展及电子经济。BSA技术政策顾问霍普芬斯伯格(Chris Hopfensperger）<a href="http://www.voanews.com/chinese/news/20120222-Cloud-computing-report-slams-China-140040343.html">表示</a>，中国的防火墙可能成为世界云计算发展的一个障碍，因为它阻碍了信息在国家间的自由流通，而这点恰恰是云计算取得成功的最关键要素。他说：“目前最重要的步骤就是让各国政府明白，他们采取的政策有可能会把全球的云计算切割成一小块一小块，而非一个整体。”
+➜光纤连接头导致中微子超光速错误结果
+https://www.solidot.org/story?sid=28394	5400
+搞IT的让搞物理学的空欢喜一场。去年欧洲日内瓦CERN和意大利Gran Sasso OPERA探测器的中微子实验<a href="__SLASHLINK__" sect="science" sid="11/09/26/0521212" sn="article" tid="19">发现中微子速度超过了光速</a>，测量显示中微子飞行时间比光子快60纳秒。实验结果挑战了爱因斯坦的狭义相对论。《科学》网站最新报导，连接GPS和电脑的光纤连接<a href="http://news.sciencemag.org/scienceinsider/2012/02/breaking-news-error-undoes-faster.html">可能导致了错误的中微子超光速结果</a>。报导引用熟悉实验的消息来源称，60纳秒差异可能源于记录中微子飞行时间的GPS接收器和计算机电子卡之间的光纤连接。在拧紧了连接头后，他们对中微子飞行时间的再次测量发现60纳秒差异消失了。
+➜历史数据非私有财产，时区服务器诉讼案撤销
+https://www.solidot.org/story?sid=28395	6840
+Astrolabe宣布终止对Unix/Linux时区服务器维护者的诉讼案，并承诺未来不会再次提起诉讼。去年十月Astrolabe的起诉<a href="__SLASHLINK__" sect="linux" sid="11/10/07/1052212" sn="article" tid="104">导致时区服务器关闭</a>，该公司指控维护者Arthur David Olson等人侵犯了它的版权，因为时区服务器使用了它所拥有版权的《The American Atlas》参考书的部分历史数据。Astrolabe<a href="https://www.eff.org/press/releases/eff-wins-protection-time-zone-database">在声明中说</a>，它的诉讼是基于对法律的错误理解，他们现在认识到历史事实不是某个人的私有财产，因此它决定撤销诉讼，并对给时区数据库维护者造成的干扰表示歉意。
+➜甲骨文发布DTrace for Linux beta版
+https://www.solidot.org/story?sid=28396	8280
+甲骨文宣布<a href="https://blogs.oracle.com/linux/entry/new_beta_release_of_dtrace">发布</a>DTrace for Linux beta版，将Solaris操作系统的动态跟踪工具<a href="https://blogs.oracle.com/wim/entry/dtrace_update_to_0_2">移植</a>到甲骨文的Unbreakable Enterprise Kernel(2.6.39)。甲骨文<a href="http://lwn.net/Articles/483107/">没有披露</a>多少关于移植和如何使用的详细信息，例如如何处理许可证不兼容问题。DTrace提供了高级性能分析和调试功能，其源代码采用的开源协议是CDDL，不兼容于Linux内核使用的GPLv2协议。
+➜Linux平台Firefox Flash插件将停止更新
+https://www.solidot.org/story?sid=28397	10800
+Adobe<a href="http://blogs.adobe.com/flashplayer/2012/02/adobe-and-google-partnering-for-flash-player-on-linux.html">宣布</a>，它的Flash插件将采用新的浏览器接口Pepper API，放弃旧的Netscape API。Adobe称，在Flash Player 11.2发布之后，Linux平台上的Flash插件将不能再直接从Adobe下载，而只通过支持Pepper API的Google Chrome发行，Adobe将对非Pepper API的Flash Player 11.2提供五年的安全更新。根据Mozilla的<a href="https://wiki.mozilla.org/NPAPI:Pepper">官方WIKI</a>，它暂时没有兴趣支持Pepper API。已有用户通过Bugzilla<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=729481#c3">递交bug</a>。
+➜Google翻译支持世界语
+https://www.solidot.org/story?sid=28398	12000
+<a href="http://www.chengdufanyi.com/">成都翻译</a> 写道<i> "Google翻译在其官方博客<a href="http://googletranslate.blogspot.com/2012/02/tutmonda-helplingvo-por-ciuj-homoj.html">发表文章</a>，宣布Google翻译正式<a href="http://site.douban.com/widget/notes/54593/note/202001556/">支持世界语Esperanto的翻译</a>，EO成为第64门被支持的翻译语言，并称世界语EO为“适合每个人的世界辅助语Tutmonda helplingvo por ĉiuj homoj“。
+<a href="http://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%AF%AD">世界语EO</a>是柴门霍夫（Zamenhof）于1887年发布的一门简单易学的国际共同语，旨在简单易学，帮助人们交流理解。今年是世界语创始的第125周年，说EO语的人数已达千万，活跃着的世界语者数以百万，甚至还有成百上千的“世界语母语者”，他们从出生后就从父母那里学习这门EO语。
+Google翻译团队在其官方博客里称：为世界语Esperanto机器翻译的精准性大吃一惊。"</i>
+➜中国奥运会运动员吃特供食物
+https://www.solidot.org/story?sid=28399	13320
+新华社<a href="http://qh.xinhuanet.com/2012-02/22/content_24754322.htm">报导</a>，今年有伦敦奥运会，由于过去几年发生的运动员兴奋剂事件很多是因为误服含有违禁成分的药物或者食物导致——例如<a href="__SLASHLINK__" sect="society" sid="11/07/15/0916255" sn="article" tid="48">著名的瘦肉精</a>——中国国家运动员正采用吃特供的方法避开可能受污染的食物。国家马拉松队自己开辟养鸡场，并长途跋涉购买生态鱼和生态牦牛肉。由于担心饭店里的肉类食品安全问题，在丽江集训的马拉松运动员刚开始几天吃得尽是素菜。天津柔道队养了20多头猪，新津水校自己种植蔬菜；国家体操队队员被禁止在外进餐。
+➜Y染色体不会消失，男性不会灭绝
+https://www.solidot.org/story?sid=28400	18720
+性染色体X有约800个基因，而Y染色体只有78个基因，它的基因数量曾经与X染色体相近，但在过去2亿-3亿年间失去了数百个基因，生物学家预测Y染色体会在5百万年内消失，男性最终也将灭绝。根据《自然》上发表的<a href="http://www.nature.com/news/the-human-y-chromosome-is-here-to-stay-1.10082">最新研究</a>，科学家对比了人类和猕猴的Y染色体，发现Y染色体十分稳定，<a href="http://www.bbc.co.uk/news/science-environment-17127617">它不会消失男性也不会灭绝</a>。<i>
+猕猴与人类于2500万年前在演化道路上分离，科学家测序了猕猴的Y染色体，发现人类的Y染色体在过去2500万年只失去了一个基因，过去6百万年没有发生变化。研究人员说，在自然选择下Y染色体的基因受到了完好的保护。
+</i>
+➜YouPorn被发现使用明文密码
+https://www.solidot.org/story?sid=28401	20160
+不知名黑客在Pastebin上<a href="http://pastebin.com/ieC6eTB7">公开</a>了约6400名成人视频网站YouPorn注册用户的电子邮件和密码，显示世界最受欢迎的成人网站<a href="http://arstechnica.com/business/news/2012/02/hed-exposed-youporn-passwords-in-all-their-plain-text-glory.ars">使用的是明文密码</a>。分析显示，这些用户使用最多的依次是Hotmail、Gmail和Yahoo的邮箱，最常使用的<a href="http://dl.dropbox.com/u/3077/youporn_passwords.jpg">密码</a>是YouPorn，123456789、qwerty之类。YouPorn没有对此发表公开声明，它已经关闭了遭入侵的服务器。
+➜谷歌或推出桌面版Android系统
+https://www.solidot.org/story?sid=28402	21600
+<a href="http://security.maidong100.com/">bolo</a> 写道<i> "根据谷歌最近的一项<a href="http://www.bgr.com/2012/02/22/patent-shows-google-may-bring-android-to-desktops/">专利申请</a>显示，谷歌可能会推出桌面版<a href="http://www.maidong100.com/newsInfo.do?id=19847">Android系统</a>。该专利中展示了类似于苹果MacBook和Magic Trackpad的桌面控制功能。描述称：使用一个多点触摸触控面板，用户可以和当前指针位置的图形元素直接互动，就像是使用触摸屏设备，执行传统的触摸屏操作(例如，拖动/，滚动)。谷歌在专利概述中表示，虽然现在Android已经是实现各种触摸的命令和操作，但未来将以支持不同的控制手段."</i>
+➜生物识别威胁个人隐私
+https://www.solidot.org/story?sid=28403	22320
+<a href="http://security.maidong100.com/">bolo</a> 写道<i> "据<a href="http://www.nextgov.com/nextgov/ng_20111007_6100.php">报道</a>，FBI将开始推出其下一代互联网(NGI)的<a href="http://security.maidong100.com/news/2012/02/23/111150A19838.html">面部识别</a>服务。IAFIS将增加刑事和民事的指纹数据库，包括多模态生物特征标识符，如虹膜扫描，掌纹，照片，语音数据等,未来都可以通过搜索工具搜索里面的数据。电子前哨基金会抨击该一些列技术将使得个人隐私保护将变得更糟糕。FBI则称下一代互联网“不会威胁到个人隐私”，但政府将继续努力，收集更多的美国人和外国人的生物特征数据。"</i>
+➜八小时睡眠神话
+https://www.solidot.org/story?sid=28404	24480
+如果你在午夜时分、睡了一半的时候醒过来，不用担心，尽量放松，因为连续的八小时睡眠可能违背自然规律。
+<i>BBC Magazine的一篇文章<a href="http://www.bbc.co.uk/news/magazine-16964783">回顾了睡眠历史</a>，指出在历史上人类睡觉有第一次睡眠和第二次睡眠之分。但从17世纪工业革命兴起后，文献中才渐渐不再提及第一次睡眠和第二次睡眠。到1920年代，这一概念彻底从社会意识中消失了，原因很可能是夜生活已得到普遍认可，夜生活的丰富让人类休息的长度减少了。睡眠心理学家Gregg Jacobs说，在晚上醒过来是人类自然生理学的一部分。他认为睡固定时间长度的观点可能是有害的，可能会让那些午夜清醒过来的人类感到焦虑，导致失眠。牛津大学的生理节奏神经科学教授Russell Foster也赞同这一说法，他告诉那些午夜醒过来的人，他们所经历的是过去的那种双睡眠模式。</i>
+➜为儿童设计的Android 4.0平板MEEP!
+https://www.solidot.org/story?sid=28405	26280
+欧西亚(Oregon Scientific)透露了<a href="http://www.gizmag.com/oregon-scientific-meep-tablet-for-kids/21570/">专为儿童设计的平板</a>。<i>
+<a href="http://www.meeptablet.com/">The MEEP!</a> 运行Android 4.0，采用7英寸Neonode zForce触控屏，用硅橡胶保护套保护显示屏，支持Wi-Fi，4GB内部存储空间，SD卡可扩展最大64GB空间，支持重力感应等。平板预计将在8月上市，售价149美元。</i>
+➜盖茨基金会重发明厕所进展
+https://www.solidot.org/story?sid=28406	29280
+去年比尔梅林达盖茨基金会宣布投入4200万美元<a href="__SLASHLINK__" sect="mainpage" sid="11/07/14/0943221" sn="article" tid="32">重新发明马桶</a>，新的马桶不需要抽水、排水系统和电力，建造和维护费用都要尽可能的低。来自全世界的研究团队提出了<a href="http://www.businessinsider.com/bill-gates-makes-progress-on-reinvented-toilets-2012-2#ixzz1n8sqUNmG">许多新的替代厕所</a>：荷兰的团队提出使用微波，将人类粪便分解成一氧化碳和氢气，变成燃料发电；英国团队研究将粪便变成生物炭；加拿大团队提出闷烧脱水：美国团队提出了太阳能厕所，将粪便转变成氢燃料电池使用的氢气。
+➜中国立法限制转基因技术使用
+https://www.solidot.org/story?sid=28407	30720
+2月21日，国务院网站公布了《<a href="http://www.chinalaw.gov.cn/article/cazjgg/201202/20120200360700.shtml">粮食法（征求意见稿）</a>》，规定“任何单位和个人不得擅自在主要粮食品种上应用转基因技术”，称“转基因粮食种子的科研、试验、生产、销售、进出口应当符合国家有关规定，国家保护粮食作物种质资源，扶持良种选育、生产、更新和推广使用”。迄今为止，中国尚未批准转基因粮食进入商业化生产，私自种植、加工和销售转基因粮食及加工制品的均属违法行为。农业部至今批准了转基因棉花、大豆、玉米、油菜四种作物的进口安全证书，用途仅限于加工原料。
+➜美国政府希望推迟切断感染木马的计算机网络连接
+https://www.solidot.org/story?sid=28408	34800
+如果纽约一家法院不批准美国政府的请求，那么数百万感染DNSChanger木马程序的计算机<a href="http://krebsonsecurity.com/2012/02/feds-request-dnschanger-deadline-extension/">将可能要被断网</a>。与此同时，被控操控DNSChanger僵尸网络的6名爱沙尼亚人将被引渡都美国受审。<i>
+DNSChanger会修改宿主的设置，劫持搜索结果，防止受害人访问安全网站，该僵尸网络的指令控制服务器位于美国。纽约地区法院命令一家私人公司暂时接管了控制服务器，因为如果关闭服务器的话，受害人的机器将无法上网，因此美国政府给予ISP和企业时间去识别和清除感染木马的机器，截至日期为3月8日。但本月初，安全公司估计清理进度比预期的要花更长时间——全世界有300多万机器仍然感染了DNSChanger，其中美国有50万，包括福布斯500强企业和美国政府机构的计算机。2月17日，美国司法部和NASA等机构请求法院延长截至日期，给ISP和企业更多时间，允许指令控制服务器运行到7月9日。法庭尚未作出判决。
+</i>
+➜太空首次发现固体富勒烯
+https://www.solidot.org/story?sid=28409	36300
+科学家首次在太空<a href="http://news.discovery.com/space/stellar-factory-of-solid-buckyballs-discovered-120221.html">发现了</a>固态形式的<a href="http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%9F%BA%E7%90%83">富勒烯（或叫巴基球）</a>。富勒烯是由碳原子组成的中空球型分子，此前科学家曾在星际尘埃中<a href="__SLASHLINK__" sect="science" sid="10/07/23/0850238" sn="article" tid="102">探测到大量富勒烯分子</a>。现在，天文学家利用NASA Spitzer太空望远镜发现，富勒烯累积堆积形成固态粒子，就像箱子里的橘子。天文学家称，他们发现的粒子非常小，比头发还小，但每个都包含数百万的富勒烯分子。
+➜恶意程序的新演化：开源开发模式
+https://www.solidot.org/story?sid=28410	38520
+开源和自由软件支持者所持的一个观点是：开源开发模式比闭源模式更优越。但这是否对恶意程序也有意义？如果恶意程序开发者也采用开源开发模式？去年，著名的黑客工具包Zeus源代码被人<a href="__SLASHLINK__" sect="software" sid="11/05/11/1434203" sn="article" tid="100">泄露</a>，给予地下黑客机会去利用开源模式<a href="http://blog.seculert.com/2012/02/citadel-open-source-malware-project.html">加速恶意程序开发</a>。名叫Citadel的Zeus变种允许客户递交bug，提出建议，对新功能进行投票，跟踪问题。安全研究人员在去年12月底首次发现Citadel僵尸网络，它的开发和采用规模增长迅速，研究人员在此之后发现了20个不同的Citadel僵尸网络，使用了不同版本的恶意程序，从1.1.0.0到1.2.4.0，每个版本都增加了用户建议的新功能和模块。
+➜问题汽车逐渐销声匿迹
+https://www.solidot.org/story?sid=28411	40500
+汽车市场的激烈竞争迫使汽车制造商们改进产品质量和可靠性，除少数特例外，各大制造商之间的质量和可靠性差距<a href="http://tech.slashdot.org/story/12/02/22/0314208/have-bad-cars-gone-extinct">越来越小</a>。<i>
+根据统计数据，1998年平均每百辆汽车有278个问题，到今天这个数字减少到了132个。1998年，最可靠的汽车每百辆有98个问题，最不可靠的汽车每百辆517个问题，差距为425，到今天差距缩小到284个问题。在1990年代，日本汽车制造商本田和丰田在小型和中型车质量上领先于美国汽车制造商。但现在，丰田公司的声誉因为一系列汽车召回事件而受损，美国公司则投入了资金和人员缩小差距。如今要找到质量较次的产品越来越难，不同产品在安全、性能和质量上的差异不再具有重要影响。</i>
+➜武汉警方查获“iPhone”牌煤气灶
+https://www.solidot.org/story?sid=28412	53280
+<a href="https://twitter.com/photobluer">Pb</a> 写道<i> "2月23日，武汉硚口区工商执法人员<a href="http://news.163.com/photoview/00AP0001/21105.html">查获</a>大量贴着“iPhone”标签做工粗糙的煤气灶，并挂有“苹果中国有限公司”合格证吊牌。据悉，“苹果”尚无灶具产品。"</i>
+➜微软向欧盟控诉摩托罗拉移动和Google
+https://www.solidot.org/story?sid=28413	55200
+微软向欧盟<a href="http://blogs.technet.com/b/microsoft_on_the_issues/archive/2012/02/22/google-please-don-t-kill-video-on-the-web.aspx">控诉摩托罗拉和Google的专利欺凌</a>，摩托罗拉回应表示愿意与微软<a href="http://news.businessweek.com/article.asp?documentKey=1376-LZUABP0UQVI901-4VAJE7B464GMEUCVHLC1S474O1">解决专利纠纷</a>。微软在投诉中称摩托罗拉向其索取了高额FRAND专利授权费。它举例说，摩托罗拉持有约50项H.264视频标准相关专利，对于一台1000美元的Windows笔记本，摩托罗拉要求微软支付22.50美元；如果是2000美元笔记本，摩托罗拉要求双倍即45美元。而微软拥有2300多项H.264相关专利，微软要求的专利授权费仅仅每台设备2美分。摩托罗拉移动发言人回应说，微软的投诉是它在专利战中惯用的策略，指微软率先在2010年10月对摩托罗拉发起专利诉讼。他说，微软吹嘘其持有专利的价值，但一个公平的解决方案也要求微软认可摩托罗拉持有专利的价值。专利本身并不等价，如核心专利与边缘专利，软件巨人可能忘了它因为几项专利而要求Android制造商为每台Android智能手机<a href="http://tech.slashdot.org/story/12/02/22/1724240/microsoft-files-eu-antitrust-complaint-against-motorola-mobility">支付5到15美元</a>。

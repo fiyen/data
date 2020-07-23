@@ -1,0 +1,65 @@
+➜1号店承认用户订单信息泄漏
+https://www.solidot.org/story?sid=32105	4800
+电商1号店<a href="http://companies.caixin.com/2012-11-03/100455859.html">承认部分用户的订单信息泄漏</a>，而警方表示<a href="http://epaper.nbd.com.cn/shtml/mrjjxw/20121102/2434362.shtml">已拘捕</a>11位涉案人员。<i>
+1号店表示正进行内部调查，加强防范，并进行全面的系统升级，以保障用户的信息安全。今年五月，网友透露有人通过QQ来兜售1号店的数据，90万用户的资料卖500元。该卖家表示，他的价格已经非常便宜，如若不是急用钱，不会如此低廉兜售。媒体对信息的真伪作了验证，结果表明大部分用户数据属真实信息。警方表示，现已查获1号店网上商城员工与离职、外部人员内外勾结，造成部分客户信息泄露一案。目前已有11人被公安部门控制。</i>
+➜苹果海外缴纳企业税低于2%
+https://www.solidot.org/story?sid=32106	6000
+BBC<a href="http://www.bbc.co.uk/news/business-20197710">报导</a>(<a href="http://www.bbc.co.uk/zhongwen/simp/business/2012/11/121104_business_apple_tax.shtml">中文</a>)，苹果的营业财务数据显示，截止9月29日的上一个财政年度中，它的美国境外利润额高达368亿美元，但缴纳的企业税仅为7.13亿美元——即约1.9%。<i>
+苹果欧洲业务主要通过设在爱尔兰共和国境内的分公司进行。爱尔兰的企业税税率收低于其它欧洲国家，英国的企业税税率为24%；爱尔兰只有12.5%。苹果成为最近几个星期来最新一家被指纳税额过低的跨国公司。此前星巴克、Facebook和Google均被曝光在海外缴纳的企业税微乎其微。目前没有任何证据显示苹果或任何其它大型跨国公司有非法避税或逃税的行为。很多跨国公司会利用从加勒比海岛国避税天堂周转资金的办法来减少企业税税额。</i>
+➜Google删除德国前第一夫人搜索结果
+https://www.solidot.org/story?sid=32107	6720
+前德国总统Christian Wulff的夫人Bettina Wulff因为在Google中输入自己名字时会返回“escort（应召女郎）”或“prostitute（妓女）”等搜索建议，而<a href="__SLASHLINK__" sect="it" sid="12/09/10/100238" sn="article" tid="26">起诉Google玷污名誉</a>，但Google辩解称搜索建议是由用户键入的搜索词的热门程度决定，它不会予以干预。现在，Google在其立场上略微后退了一步，<a href="http://www.dw.de/%E8%B0%B7%E6%AD%8C%E6%9C%8D%E8%BD%AF-%E5%B0%8F%E6%89%8B%E7%AC%94%E5%88%A0%E9%99%A4%E5%A6%93%E5%A5%B3%E4%BC%A0%E9%97%BB/a-16354618">删除了8条相关搜索结果</a>。而前第一夫人要求删除上万条搜索结果，包括维基百科中的Bettina Wulff词条。对此Google公司仍持拒绝态度，它至今仍然没有干预搜索建议。
+➜格鲁吉亚如何反击俄罗斯黑客攻击
+https://www.solidot.org/story?sid=32108	12300
+格鲁吉亚计算机紧急响应小组（CERT）公布了27页的<a href="http://dea.gov.ge/uploads/CERT%20DOCS/Cyber%20Espionage.pdf">英文报告</a>，披露了俄罗斯黑客对格鲁吉亚发动的网络攻击，使用的恶意程序，恶意程序如何扩散等细节，最令人称奇的是它发布了<a href="__SLASHLINK__" sect="it" sid="12/10/31/0631231" sn="article" tid="100">用摄像头拍摄的俄黑客照片</a>。整件事中最值得警惕的是我们的计算机能<a href="http://arstechnica.com/tech-policy/2012/11/how-georgia-doxed-a-russian-hacker-and-why-it-matters/">变成强大的监控设备</a>。<i>
+黑客首先入侵了多个格鲁吉亚新闻网站，在北约、格鲁吉亚和美格关系等主题相关新闻页面植入脚本，访问这些页面的人会自动执行恶意程序下载工具TrojanDownloader:JS/SetSlice，在用户不知情下执行calc.exe。calc.exe不会启动计算器程序，而是扫描计算机是否处于UTC+3或UTC+4时区（即东欧到俄罗斯），恶意程序只会安装在位于上述时区的计算机上。Calc.exe会植入explorer.exe并创建文件usbserv.exe，将文件名写入注册表使其能自动运行。之后Usbserv.exe会在后台扫描所有Word、PDF、Excel、文本、富文本格式、PowerPoint文档，搜索NATO、FBI、CIA、俄罗斯、格鲁吉亚、KGB、电话号码等关键词，相关文档会被上传到远程命令控制服务器。在一年多时间内，恶意程序只感染了390台电脑，绝大多数属于格鲁吉亚政府机构、议会和银行。CERT在2011年3月首次注意到该恶意程序，在了解恶意程序工作原理之后，它联系主要ISP屏蔽命令控制服务器IP地址。恶意程序作者随后调整了程序绕过屏蔽，到了11月，恶意程序已被深层加密，并能感染Windows 7；到了12月，它甚至能屏幕录像，打开摄像头和麦克风，在内网中传播。</i>           CERT后来与FBI、微软等合作识别所有感染计算机，通知用户，联络命令控制服务器托管商关闭相关服务器。为了找出幕后攻击者，CERT利用其实验室中的一台感染恶意程序的计算机，创建了文件名Georgian-NATO agreement的压缩文档，该文档实际上是病毒（CERT没有披露病毒细节）。不久以后，文件被上传到了位于俄罗斯境内的一台命令控制服务器。黑客打开文档以鉴别真伪，病毒随后感染了他的计算机，让CERT能直接访问计算机。该病毒也能进行屏幕录像，启动摄像头拍摄照片。在监视过程中，CERT发现这位俄罗斯黑客正在为恶意程序开发新的模块。
+➜夏普警告它面临存亡危机
+https://www.solidot.org/story?sid=32109	16800
+向苹果等公司供应LCD面板的日本制造商夏普警告<a href="http://china.kyodonews.jp/news/2012/11/40600.html">它面临存亡危机</a>，它的2012财年业绩预期亏损4500亿日元（约合351亿元人民币），连续两年巨亏。夏普表示，“有关企业继续维持经营的前提存在重大疑义”。夏普称，将切实执行包括募集自愿离职者、削减工资和抛售资产等重组措施，表示已得到审计公司认同，若实行上述措施，企业存亡将不成问题，称公司将把业务重心转向用于智能手机的中小型液晶业务。
+➜生活在Google阴影下的小型网站
+https://www.solidot.org/story?sid=32110	21240
+Google占到美国搜索市场的67%，对众多小型网站而言，Google是它们流量的主要来源。然而，Google一直在改进服务的名义下调整搜索算法，而每次调整都会影响许多网站。《纽约时报》的一篇报道描述了这些生活在Google阴影下的网站生存策略——<a href="http://www.nytimes.com/2012/11/04/technology/google-casts-a-big-shadow-on-smaller-web-sites.html?pagewanted=all&amp;_r=0">尽可能的减少对Google的依赖</a>。<i>
+购物比较网站<a href="http://www.nextag.com/">Nextag</a>的CEO Jeffrey G. Katz注意到来自Google搜索的流量持续下降，他手下的工程师调查后认为问题不是出在他们这边而是Google那边。Nextag的应对措施是增加广告投入。一家本地网站的经营者发现他们的读者数量暴降，原因是网站从Google News中删除了，他们询问Google但没有得到任何解释。加州伯克利当地网站Berkeleyside的创始人在Twitter上抱怨了这个问题，他的读者中恰好有一位是Google工程师，他许诺进行非官方调查，12个小时后网站重新出现在Google News中，Google表示他们犯了一个错误。大多数小网站都没有这么好的运气。Google Web spam团队负责人Matt Cutts表示，逐个回应每一个网站的询问是不可能的，因为网站域名多达2.4亿，而用户每天搜索量超过33亿。
+</i>
+➜天津成为中国互联网审查之都
+https://www.solidot.org/story?sid=32111	24600
+天津没有吸引到国际金融机构建立分支机构，但却吸引到国内互联网公司建立审查分支机构。<i>
+中国一些主要互联网公司则正在将其审查业务部门<a href="http://www.ftchinese.com/story/001047313">迁往天津</a>，以应对劳动力成本快速上涨的问题：优酷土豆正考虑将审查业务从北京迁往170公里外的天津；新浪微博和搜狐已把审查业务部门搬到了天津。中国政府规定，提供搜索引擎和社交媒体等服务的互联网公司必须实施自我审查。分析师认为，互联网审查是一项劳动密集型业务，把这项业务迁往工资更低的地方对公司更有利。招聘网站的数据显示，北京审查员平均月薪4081元人民币，深圳是3714元，而天津则只有2998元。</i>
+➜我们从未改变：弱密码仍是最常用的密码
+https://www.solidot.org/story?sid=32112	26280
+尽管我们都听过许多弱密码造成的悲剧故事，但习以为常的密码设置习惯没有因为危言警告<a href="http://arstechnica.com/information-technology/2012/11/born-to-be-breached-the-worst-passwords-are-still-the-most-common/">而发生改变</a>，甚至叙利亚总统阿萨德（Bashar Hafez al-Assad）的密码也是12345。密码管理工具开发商SplashData分析黑客泄漏的密码数据公布了年度最常用密码名单，和过去几年基本保持一致：最常用的是password，其次是123456，12345678，abc123，qwerty。<a href="http://www.amazon.com/gp/product/1597490415">Perfect Passwords</a>一书的作者Mark Burnett曾经分析了600万用户名和密码，发现91%的用户使用1000个常用密码之一。
+➜中国加紧控制互联网访问
+https://www.solidot.org/story?sid=32113	28800
+最近一段时间，中国互联网用户发现访问外网越来越困难，甚至VPN用户也有同样经历。为数以十万计网站提供内容托管服务的CDN供应商CloudFlare<a href="http://online.wsj.com/article/SB10001424052970204707104578092461228569642.html">证实了你的感受</a>。<i>
+CloudFlare公司CEO Matthew Prince说，该公司工程师和客户报告从八月末开始网络访问流量从中国越来越难以流出。公司服务的一些网站此前已遭到中国的屏蔽，但此次的屏蔽看起来没有遵循任何特定的模式。少数中国网民会借助VPN绕过防火墙，由于使用的人数不多防火墙只是偶尔会以VPN为目标进行针对性屏蔽。但如今正有越来越多的VPN服务受到限制。VPN供应商Privax Ltd.发言人Danvers Bailieu说，该公司服务已被中国封锁，中国VPN用户找到可用服务的难度在加大。</i>
+➜世界上欠钱最多的人
+https://www.solidot.org/story?sid=32114	31800
+他能悄无声息的赚到百万美元，他能从一台被黑的电脑发送虚假电子邮件伪装交易，他一般不会亏本，但一亏本就损失了60多亿的美元，<a href="http://www.theatlantic.com/business/archive/2012/11/meet-the-most-indebted-man-in-the-world/264413/">他是世界上欠钱最多的人</a>。2007年到2008年，前法国兴业银行交易员Jérôme Kerviel的违规交易给银行造成了63亿美元损失，法庭判决他入狱三年，出狱后向兴业银行赔偿63亿美元。Kerviel显然不可能支付清赔偿金，他可能会和债主达成一项终身赔偿协议，将他余生中所赚钱中的一大部分上交给银行。
+➜谷歌地图至今未在中国获得牌照
+https://www.solidot.org/story?sid=32115	32700
+易观智库发布的移动地图监测报告显示，谷歌地图市场份额跌至第六位，仅为9%；高德地图、百度地图、图吧地图分别以25.9%、19.1%和9.5%的市场份额位列三甲。而去年第二季度，在中国手机地图市场，谷歌地图一度以28.0%的份额占据市场第一的位置。谷歌地图市场份额直线下降的<a href="http://companies.caixin.com/2012-11-05/100456360.html">主要原因是牌照</a>，谷歌中国至今没有获得地图服务牌照。国家测绘地理信息局要求自2012年2月1日起，未申请互联网地图服务资质的单位一律不得从事互联网地图服务；已提出申请、在审批过程中的单位，在取得互联网地图服务资质前，不得提供新的互联网地图服务。谷歌地图由于没有取得牌照而无法正常升级，服务亦不稳定，市场份额直线下滑。
+➜美国麻省将公决尊严死亡法案
+https://www.solidot.org/story?sid=32116	36480
+在美国大选日，马萨诸塞州选民将同时投票决定<a href="http://www.slate.com/articles/health_and_science/medical_examiner/2012/10/massachusetts_death_with_dignity_2012_kevorkian_and_humphry_started_the.single.html">是否批准尊严死亡法案</a>。尊严死亡是医生协助自杀的一种更动听顺耳的现代表达。美国的<a href="https://en.wikipedia.org/wiki/Oregon_Death_with_Dignity_Act">俄勒冈州尊严死亡法案</a>已经生效十多年，华盛顿州的相同法案在2008年通过。但马萨诸塞州的尊严死亡法案有可能成为美国全国尊严死立法的实验田，因为这里有美国著名的医学杂志《新英格兰医学期刊》，麻省总医院，四所医学院（哈佛，波士顿，马萨诸，塔夫茨）。尊严死亡法将允许生命不足半年的绝症患者要求医生提供致命剂量的毒药处方，病人需要提出三次请求，两次口头一次书面。病人必须被认为能做出明智决定，没有人能强迫或建议服用毒药，除非病人声明“我再也不想这样生活了”，“医生，你能否给我一些减轻疼痛和痛苦的东西？”
+➜GNOME追逐难以触及的梦想，却丢掉了它的根
+https://www.solidot.org/story?sid=32117	37920
+主要Linux桌面环境GNOME也许会走到无人使用的境地，Theregister的一篇评论称，GNOME就像一幕爱情喜剧中的主角，追逐永远也无法追到的用户，<a href="http://www.theregister.co.uk/2012/11/04/state_of_gnome/">同时却丢掉了已有的用户基础</a>。即将发布的Fedora 18可能成为最后一个使用GNOME 3的主流发行版。另外两大发行版已经抛弃了GNOME：Ubuntu有Unity 桌面，新晋流行发行版Mint Linux则有两个新桌面项目。GNOME开发者作出了许多错误而混乱的决定，正如GNOME开发者Benjamin Otte指出，最令人迷惑的决定是去追逐GNOME根本不擅长的领域：平板和智能手机。
+➜中国黑客曾于2009年入侵可口可乐窃取商业机密
+https://www.solidot.org/story?sid=32118	40500
+彭博社引用相关消息人士<a href="http://www.bloomberg.com/news/2012-11-04/coke-hacked-and-doesn-t-tell.html?utm_source=Sinocism+Newsletter&amp;utm_campaign=7b539f90bb-The_Sinocism_China_Newsletter_For_11_05_2012&amp;utm_medium=email">报导</a>，黑客利用发送给高级执行官的钓鱼邮件，在2009年入侵了可口可乐的计算机系统，窃取了该公司试图以24亿美元收购汇源果汁集团的机密文件。这项交易在3天后终止，如果成功的话将是当时最大一笔外企合并中国企业交易。可口可乐没有向外披露汇源机密文件失窃和黑客攻击。彭博社引用内部报告称，黑客向可口可乐太平洋集团副总裁Paul Etchells发送了标题有“Save power is save money! (from CEO)”的邮件，他点击了邮件中的链接，恶意程序就悄悄的下载到了他的计算机上，黑客安装了按键记录程序，记录了他的每一个按键。在完全控制Etchells的计算机后，黑客安装了多个恶意程序，利用该计算机为跳板访问内网，从其它计算机上下载数据。
+➜Android五周岁，已占据四分之三的市场
+https://www.solidot.org/story?sid=32119	42960
+2007年11月5日，刚刚成立的开放手机联盟宣布了开源移动操作系统Android；到今天，Android正好<a href="http://crave.cnet.co.uk/mobiles/android-is-5-years-old-today-heres-how-it-all-began-50009685/">五周岁</a>。正式发布短短数年间，Android已占据了<a href="http://venturebeat.com/2012/11/01/as-android-grabs-75-market-share-can-anyone-tell-me-why-this-is-not-mac-vs-pc-all-over-again/">四分之三</a>的智能手机市场份额，iOS系手机和Android手机似乎正在重演十多年前的Mac vs PC。苹果的iPad在平板市场的统治地位也正面临Android的挑战，IDC周一的<a href="http://www.idc.com/getdoc.jsp?containerId=prUS23772412">报告</a>指出，iPad的份额从Q2的 65.5%降至Q3的50.4%。Google最近发布了Nexus 7和10英寸Nexus 10平板，加上Nexus 4手机，Google阵营已经拥有了能直接与苹果iPhone、iPad Mini 和iPad相抗衡的产品，最重要的是它们远比苹果产品更廉价，对消费者更具有吸引力。用Android商业发展部门主管John Lagerling的话说，600美元产品的利润率<a href="http://bits.blogs.nytimes.com/2012/11/02/android-nexus-strategy/">太不合理</a>。
+➜Google为奥巴马搜索者提供定制搜索结果
+https://www.solidot.org/story?sid=32120	53760
+当你搜索过奥巴马（Obama）之后，再搜索其它关键词，Google会为你提供定制的搜索结果；而搜索共和党总统候选人罗姆尼（Romney）之后却没有任何改变（<a href="http://online.wsj.com/article_email/SB10001424052970203347104578099122530080836-lMyQjAxMTAyMDAwNDEwNDQyWj.html?mod=wsj_valetleft_email#project%3DGOOGmedicare%26articleTabs%3Dinteractive">互动图</a>）。<i>
+《华尔街日报》<a href="http://online.wsj.com/article_email/SB10001424052970203347104578099122530080836-lMyQjAxMTAyMDAwNDEwNDQyWj.html?mod=wsj_valetleft_email">发现</a>，当用户搜索了Obama之后，Google会在随后搜索关键词如Iran、 Medicare和gay marriage时在结果中展示包含奥巴马的链接，Google还在下面声明说“你最近搜索了奥巴马”。《华尔街日报》测试了Romney，没发现相同的现象。Google发言人表示，利用相关搜索等技术，他们旨在尽可能快的为用户提供最优结果。他举例说，用户搜索哈利波特之后再搜索亚马逊，那么他很可能想在亚马逊上购买哈利波特，表示这项技术节省了用户时间提供了更精确的答案，称只影响大约0.3%的搜索。</i>
+➜匿名组织入侵 Paypal 和多个网站
+https://www.solidot.org/story?sid=32121	54000
+<a href="https://moses.appspot.com/">Moses</a> 写道<i> "11 月 5 日是 Guy Fawkes 日, 匿名组织发起了全球大礼包抗议, 多个匿名组织帐号在 Twitter 上称<a href="https://twitter.com/AnonymousPress">成功入侵多个网站</a>, 其中包括 VMWare 和 Paypal, 匿名组织公布了 28,000 份 PayPal 密码和 <a href="http://thehackernews.com/2012/11/anonymous-leaks-vmware-esx-server-kernel.html">VMware ESX Server 内核源码</a>. Paypal 之前称<a href="https://twitter.com/anujnayar/status/265359854573613056">在调查事件, 但没有证据证明匿名组织的说法</a>, 而匿名组织随后在 PrivatePaste <a href="https://twitter.com/AuAnon/status/265279011737976832%20">公布了 Paypal 密码</a>, PrivatePaste 之后删除了内容.
+<br>
+大礼包入侵的还包括  <a href="http://thehackernews.com/2012/11/imageshack-server-and-symantec-database.html">ImageShack</a>, 阿森松澳洲, <a href="http://www.examiner.com/article/anonymous-nbc-hacked-defaced-honor-of-guy-fawkes-day">NBC.com 和 Lady Gaga 歌迷网</a>, <a href="http://news.cnet.com/8301-1009_3-57544863-83/saturday-night-live-web-site-defaced-in-apparent-hacking/">综艺节目周末夜现场网站</a>, <a href="http://www.deadline.com/2012/11/nbc-websites-hacked-snl-fallon-leno/#more-365704">杰伊·莱诺以及吉米·法隆脱口秀</a>, 澳洲钢铁和采矿公司安赛乐米塔尔, 家居用品网站 GiftNow, the Greek City 网站, 加纳领馆
+<br>
+匿名组织还将在 11 月 5 日 2000 在伦敦议会前举行 "和平" "非暴力的" 的 <a href="https://www.facebook.com/events/239966289383165/?ref=ts">V 字仇杀行动</a> "警告全球所有政府如果他们继续审查, 切断, 监禁, 压制自由世界和自由互联网, 他们将不再是我们的政府. 改变即将到来"
+</i>
+另有 Symantec 被另一组织入侵."

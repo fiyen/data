@@ -1,0 +1,233 @@
+➜Nvidia放弃对开源驱动的支持
+https://www.solidot.org/story?sid=16979	3600
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "虽然Nvidia一直对自由开源世界不太友好(尽管这里已经<a href="http://www.opentheblob.com/">口水战</a>很久了),但他们还是支持着可以提供基本的模式设置和一些基本功能的<a href="http://cgit.freedesktop.org/xorg/driver/xf86-video-nv/">xf86-video-nv</a>显卡驱动.但"Fermi"和未来的产品都将停止对现有开源驱动的支持.Nvidia宣布他们<a href="http://www.phoronix.com/vr.php?view=14714">放弃所有的未来GPU产品的开源驱动的支持</a>.Nvidia建议去官方网站下载通用的X.Org Versa驱动,这是一款私有软件的驱动.今天的GNU/Linux用户大部分还是使用的这一驱动.幸运的是仍然有<a href="http://nouveau.freedesktop.org/wiki/">Nouveau</a>项目作为支持2D和3D的针对nvidia硬件的驱动,但Nvidia对此不感冒也不会对此有任何官方的支持."</i>
+➜大学为省钱改变电子邮件字体
+https://www.solidot.org/story?sid=16980	6480
+威斯康辛大学绿湾分校提出了一种与众不同的省钱方法：<a href="http://news.slashdot.org/story/10/03/26/1427217/College-to-Save-Money-by-Switching-Email-Font">改变电子邮件系统默认使用的字体</a>。学校估算，电子邮件字体从Arial改为Century Gothic，将能省下30%的墨水。<i>
+学校计算机部门主管Diane Blohowiak说，如果学生用新的字体打印电子邮件，将能比以前使用的字体节省30%的墨水，她说这种做法确实能省下很多钱，因为现在的墨水价格每加仑高达1万美元。Blohowiak表示改变字体的决定是学校五年绿色环保计划的一部分，可谓一举两得，既对生态友好，又能省钱。</i>
+➜和Gmail先生面对面
+https://www.solidot.org/story?sid=16982	7200
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "Google 的 Todd Jackson 是一个重担在肩的人，他是 Gmail 的产品经理，人们称他 Gmail 先生。他的职责是保证这个拥有1亿4000万用户的邮件系统有良好的体验，快速，安全，可靠。Jackson 同时是 Google 实时社会分享系统 <a href="http://www.webmonkey.com/2010/02/hands_on_with_google_buzz_-_it_s_a_stream_in_your_inbox/">Buzz</a> 的产品经理，这个系统曾一度因<a href="http://gmailblog.blogspot.com/2010/02/millions-of-buzz-users-and-improvements.html">隐私问题</a>遭受非议。本文是 <a href="http://www.webmonkey.com/">Webmonkey</a> 对 Todd Jackson 的一次访谈（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K931.aspx">完整图文版</a>）。           <b>Webmonkey:</b>
+<br> <br>在你看来，Email 桌面客户端是否会很快消亡？
+<br> <br> <b>Todd Jackson:</b>
+<br> <br>我们不愿意那样想问题（笑），没有什么可说的。严格来讲，通过浏览器分发应用程序对如今的用户来说很合理，他们只需登录一下，所有东西都在云端，这样更容易，对我们来说，我们希望通过定期更新不断改善这个产品。
+<br> <br>Google 自己也用 Gmail，这叫“吃自己的狗粮”。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>那你们也和公众用户一样受宕机之困？
+<br> <br> <b>Jackson:</b>
+<br> <br>是的，当 Gmail 宕机，我们也深受其累。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>当 Gmail 宕机，Google 内部是什么样子？
+<br> <br> <b>Jackson:</b>
+<br> <br>每个人都很崩溃（笑）。我们负责维护站点的工程师们，拥有很昂贵的监控系统，一整面墙的仪表，可以看到整个系统健康状况，他们还佩戴寻呼装置，哪怕极小范围的宕机，哪怕只影响  0.01% 的用户，他们也会得到消息。他们跑向监控墙，看看什么地方出了问题，我们便临时使用别的沟通渠道，比如 IRC 聊天，我们还使用 BUG 报告系统沟通。
+<br> <br>我们的反应时间已经很好了，但我们自己能亲身感受其痛苦，因此，Gmail 宕机对我们就跟天塌了一样。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>完全同意。
+<br> <br> <b>Jackson:</b>
+<br> <br>我们自己感受宕机的痛苦，这让系统变得越来越好。比如，我们做了调整，当一个部件出问题，不会影响整个系统，Gmail 曾经依赖我们的联系人系统，如果联系人系统宕机，Gmail 也宕机，<a href="http://gmailblog.blogspot.com/2008/08/we-feel-your-pain-and-were-sorry.html">我们对此做了调整</a>。
+<br> <br>在和用户沟通方面我们也有改善，我们设计了一个叫做 <a href="http://www.google.com/appsstatus">Google  Apps Status  dashboard</a> （Google 应用状况仪表盘）的程序，每一天，我们都记录那些有问题的东西，这样我们就知道 Gmail 是个别宕机还是整体宕机。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>在改善 Gmail 速度和性能方面你们做了多少努力？
+<br> <br> <b>Jackson:</b>
+<br> <br>性能方面的投入是巨大的，我们把速度看作功能，速度是你产品最好的功能。
+<br> <br>去年，我们我们为 Picasa 做了性能优化，用户浏览相片的速度翻了一倍，结果用户也翻了一倍，当一个站点快了一倍，他的用户量的增加会超过这个。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>Gmail 是 Google 最重要的产品之一，他用户量庞大，当你要调整它的某项功能时，是不是要非常小心？
+<br> <br> <b>Jackson:</b>
+<br> <br>这是个要求非常严格的产品，我们做任何东西都非常小心，我们推出任何新新东西之前，都会想到这会影响到庞大的用户数量，因此，我们会首先做严格的测试。
+<br> <br>每次我们推出新东西，Google 员工都会马上使用并给我们反馈，他们是最活跃的，任何 Gmail Labs 的新东西都会先做试验。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>你个人喜欢那些 Gmail Labs 试验？
+<br> <br> <b>Jackson:</b>
+<br> <br>毫无疑问，邮件返回功能是我最喜欢的。我一直在用，让我避免了很多尴尬。另一个喜欢的功能是<a href="http://www.webmonkey.com/2010/02/gmail_features_graduate_labs/">刚刚结束试验</a>的搜索自动完成功能。我们在内部都是超级用户，我自己使用 Gmail 差不多完全靠快捷键和搜索。
+<br> <br>快捷键的用户数大约只有不到2%，这个功能不是很讨人喜欢，你怎么和人解释，J 代表下，K 代表下？
+<br> <br> <b>Webmonkey:</b>
+<br> <br>你自己常不常用 Buzz？
+<br> <br> <b>Jackson:</b>
+<br> <br>经常用。Google 内部有一套很复杂的网络，我们能看到所有东西，这成了我们第二套沟通渠道。我们能和所有人的工作保持一致，这些如果只靠 Email 和聊天工具是不可能实现的，我们沟通的透明程度已经大大提高。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>Buzz 发布之后，Gmail 用户感到 Inbox 的隐私受到威胁，并感受一些噪音，你们的反应是什么？
+<br> <br> <b>Jackson:</b>
+<br> <br>我们很快就知道了。我们在 Inbox 中加入了某些 Buzz 功能，当人们对你的帖子或评论留言的时候，或者当有人给你回复的时候。
+<br> <br>在一个方面，这些功能工作得很好，因为在很多时候，当你的帖子被人留言时，你根本不知道，然而当我们把这个功能公开推出后发现，对那些拥有大量跟帖的用户，这个功能显得有些失控。
+<br> <br>为了解决这个问题，我们<a href="http://gmailblog.blogspot.com/2010/03/better-controls-for-buzz-in-your-inbox.html">发布了两个新功能</a>：第一个功能，设置那些 Buzz 可以进入你的收件箱，第二个功能，使用一个 banner 向用户解释这些 Buzz 是怎么来的，还可以选择关闭这个对话。
+<br> <br>我们对此得到的最明确的反馈是，收件箱里的 Buzz 功能很 Cool，但太闹。
+<br> <br> <b>Webmonkey:</b>
+<br> <br>我个人觉得很麻烦，我在网上留言或上 Tweet 时，这是外面的事，回到 Gmail，那应该是我私人空间，然而 Buzz 发布后，我的私人空间到处是一些我不认识的人走来走去。
+<br> <br> <b>Jackson:</b>
+<br> <br>这是我们需要改进的地方。我们希望用户能够加入他们喜欢加入的会话，也能屏蔽他们不喜欢的。我们最近做了一些工作，离那个目标近了，但还没真正实现。我们不仅希望你能自己控制什么可以进入私人空间，什么不能，还希望你不必费事就能实现这样的控制。
+<br> <br>本文国际来源：<a href="http://www.webmonkey.com/2010/03/making-contact-with-mr-gmail/">Making Contact With Mr. Gmail</a>
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜印度bangalore自由软件年会
+https://www.solidot.org/story?sid=16981	7800
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "2010年的印度自由软件年会在Bangalore大学已经结束,对此次会议的题目简要的介绍一下:<i>
+第一日:<a href="http://www.nc2010.fsmk.org/content/national-conference-free-software-2010-day-1-brief">2010年国家自由软件年会介绍</a> <br>
+第二日:<a href="http://ideasareimmortal.blogspot.com/2010/03/nc2010-day-2-and-free-software-movement.html">自由软件运动</a> <br>
+第三日:<a href="http://www.deccanherald.com/content/59304/making-sense-unjust-world.html">在这个不公正的世界做点有意义的事情</a>,这一块是很不错的,自由软件在印度南部不光是在技术层面的推广,而是被很一些NGO机构用于改造社区的用途,这或许跟Karnataka州是受基督教的影响有关系.曾经有一位做NGO的朋友讲,NGO在世界的运作通常是在发达国家筹款然后去支持第三世界国家,而印度是个特例,印度几乎是在南部筹款然后去支持北部地区的社区建设.
+<br>
+其他有一些报到:<a href="http://www.deccanherald.com/content/58966/free-software-movement-gaining-ground.html">自由软件的突破性进展</a> </i>
+这次年会非常的成功,超过1200个学生的参与,和很多关于IT技术和公民社会题目的研讨会.超过300个来自10多个不同的自由软件社区和不同国家的代表提出让所有印度的肢体(公民)都能协调的参与到自由软件运动中来,在<a href="http://www.hindu.com/2010/03/22/stories/2010032263622000.htm">开放的互联网上交流的形式也不错比如FSMK</a>."
+➜北京将用除臭风炮让垃圾变香
+https://www.solidot.org/story?sid=16983	8880
+北京计划在一郊外的垃圾填埋场<a href="http://science.slashdot.org/story/10/03/26/1643259/Beijing-Sweetens-Rubbish-With-Giant-Deodorant-Guns">安装100台除臭风炮</a>，以安抚周围居民对臭味的抱怨。
+<i>
+据《新京报》<a href="http://news.bjnews.com.cn/2010/0323/66908.shtml">报道</a>，针对阿苏卫填埋场周边臭气熏人的问题，北京环卫集团确认填埋气是填埋场臭味的主要来源，已展开治理工作。治理措施包括：将对填埋场垃圾堆体用HDPE膜覆盖，膜下设置填埋气体收集装置，对收集的气体进行点燃，以减少臭味。安装除臭风炮100台，在极端天气或其他特殊条件下可喷洒除臭剂，减少对周边的影响。预计今年5月份可基本完成治理，臭味将得到有效控制。除臭风炮使用高压技术喷撒香水，每分钟能喷出数十升，距离最远可达50米，这种除臭风炮由几家中国公司根据德国和意大利技术生产，已经在多个垃圾填埋场使用。但这种用香味掩盖臭味的方法只是权宜之计。</i>
+➜春风得意的 jQuery
+https://www.solidot.org/story?sid=16984	19200
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "5年前，没有人听说过 jQuery，当时，它只是 JavaScript 大师 John Resig 的一个设想。今天，jQuery 已经是世界上最成功的 JavaScript 库，互联网上 28% 的网站使用 jQuery。最为开源工具，Web 开发者们喜欢 jQuery，大公司也对它张开臂膀，它几乎已经成为 Web 开发与设计的标准，甚至得到了微软的支持（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K932.aspx">完整图文版</a>）。           <b>到底什么是 jQuery， jQuery 团队有一段很好的阐述：</b>
+<br> <br>jQuery 是一个快速，精确的 JavaScript 库，简化了对 HTML 文档的操作，动画以及事件处理，同时又是快速 Ajax 开发交互平台。jQuery 的使命是改变你编写 JavaScript 代码的方式。<br> <br>
+使用 jQuery 的网站
+<br> <br>越来越多的网站使用 jQuery，包括下面这些全球最受欢迎的站点：
+<ul>
+<li> <b>Twitter.com</b> </li>
+<li> <b>Wikipedia.org</b> </li>
+<li> <b>MLB.com</b> </li>
+<li> <b>Amazon.com</b> </li>
+<li> <b>Bing.com</b> </li>
+<li> <b>Microsoft.com</b> </li>
+<li> <b>Bit.ly</b> </li>
+<li> <b>ESPN.com</b> </li>
+<li> <b>Digg.com</b> </li>
+<li> <b>Reddit.com</b> </li>
+<li> <b>Netflix.com</b> </li>
+<li> <b>Wordpress.com</b> </li>
+</ul>
+甚至包括美国政府网站(Whitehouse.gov)。
+<br> <br>目前，全世界有 28% 的网站使用 jQuery，这个趋势还在上升，下图是根据全球最大的 10000 个网站使用 jQuery 的比例趋势L
+<br> <br>  <i> <b>上图:</b> jQuery 使用趋势图 <a href="http://trends.builtwith.com/javascript/JQuery">from BuiltWith</a>.</i> <br> <br>
+其它 JavaScript 库
+<br> <br>jQuery 是目前最流行的 JavaScript 库，在所有使用 JavaScript 库的站点中，超过 38% 使用 jQuery，而位居第二的 <a href="http://www.prototypejs.org/">Prototype</a> 只有 7.55%。
+<br> <br>  <i> <b>上图:</b> Javascript 库的使用分布  <a href="http://trends.builtwith.com/javascript/JQuery">from BuiltWith</a>.</i>
+<br> <br>对 jQuery 的讨论也非常多，几年前，人人都谈 Prototype，现在，jQuery 成了人们的话题，下图是人们对各个 JavaScript 库的关注程度：
+<br> <br>下图是根据 <a href="http://www.google.com/insights/search/#cat=422&amp;q=jquery%2Cprototype%2Cdojo%2Cmootools%2Cextjs&amp;cmpt=q">Google   Insights for Search</a> 制作了各个 JavaScript 库近几年受关注程度的变化：
+<br> <br>  <i> <b>上图:</b> 蓝色代表 jQuery，红色代表 Prototype.</i>
+jQuery 得到众多公司的帮助
+<br> <br>不仅开发社区喜欢 jQuery，很多大公司也纷纷对它伸出橄榄枝，这是它成功的关键。
+<br> <br>比如：
+<ul>
+<li> <b>微软</b>和 <b>Google</b> 都在他们的 CDN 网络中为 jQuery 库提供托管。</li>
+<li> <b>Media Temple</b> 竭尽全力捐助托管 jQuery 网站。</li>
+<li> <a href="http://blog.jquery.com/2010/03/16/microsoft-to-expand-its-collaboration-with-the-jquery-community/"> <b>微软</b>表示</a>帮助对 jQuery 进行测试甚至开发，Visual Studio 和 ASP.NET MVC 都内置 jQuery。</li>
+<li> <b>诺基亚</b> <a href="http://blog.jquery.com/2008/09/28/jquery-microsoft-nokia/">参与 jQuery 测试</a>，并雇佣了 jQuery 核心成员 Brandon Aaron。</li>
+<li>当然落不了开源领头羊 <b>Mozilla</b>，他们雇佣了 jQuery 创始人 John Resig。</li>
+</ul>
+jQuery 还有<a href="http://jquery.org/sponsors">更多赞助者</a>，根据 John Resig 的介绍，jQuery 的资源 100% 来自捐赠，<a href="http://jquery.org/donate">任何人都可以捐赠 jQuery</a>，不独大公司。<br> <br>
+小团队，大成功
+<br> <br>jQuery 的核心开发团队只有 6 人，包括 jQuery 创始人 John Resig，还有一个 6 人的开发者关系团队。还有一些开发 jQuery 插件的人，总之，他们不是个大团队，另外，他们是开源团队，人人都是义务开发。<a href="http://jquery.org/team">这里是 jQuery 团队的情况</a>。
+<br> <br>本文来源：<a href="http://royal.pingdom.com/2010/03/26/jquery-triumphant-march-to-success/">jQuery’s triumphant march to success</a>
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜百度的“吧”的故事
+https://www.solidot.org/story?sid=16985	21600
+alexyangfox 写道 <i>"虽然喜欢google，但是百度也有不少传说。百度贴吧里面有“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧</a>”这个吧；还有“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧吧</a>”这个吧；还有“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E5%90%A7%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧吧吧</a>”这个吧；当然，也有“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧吧吧吧</a>”；继续的话是“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧吧吧吧吧</a>”这个吧；还有“<a href="http://tieba.baidu.com/f?kw=%E8%B4%B4%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7%E5%90%A7&amp;fr=tb0_search&amp;ie=utf-8">贴吧吧吧吧吧吧</a>”；终于，到了“贴吧吧吧吧吧吧吧吧”，我说这句话时，没人建立了。"</i>
+类似：istwitterdown.com；isistwitterdowndown.com
+➜Nvidia推出新一代的GeForce GTX 480和470显卡
+https://www.solidot.org/story?sid=16986	24000
+Nvidia新一代支持DirectX 11的显卡<a href="http://hardware.slashdot.org/story/10/03/27/0118233/Nvidias-GF100-Turns-Into-GeForce-GTX-480-and-470">姗姗来迟</a>，性能测试显示与ATI Radeon的同等显卡相比优势很小，对消费者来说这可能意味着Radeon HD 5000系列显卡在短时间内不会降价。<i>
+代号为Fermi的GF100 GPU第一批面世的显卡型号为500美元的GeForce GTX 480和350美元的470，正式上市日期预计为4月12日。GeForce GTX 480有480个CUDA核心、60个纹理单元和15 PolyMorph引擎；470有448个CUDA核心，56个纹理单元和14 PolyMorph引擎；前者有1.536GB GDDR5显存，时钟频率为924 MHz，显存位宽384位，后者为1.28GB GDDR5显存，时钟频率为837 MH，显存位宽320位。Tom's Hardware将这两款显卡和ATI的同等显卡，以及各自的上一代旗舰显卡进行了一系列<a href="http://www.tomshardware.com/reviews/geforce-gtx-480,2585.html">性能测试</a>。结果显示，在很多游戏上Radeon HD 5900系列仍然有强劲的竞争力，而 Fermi显卡的表现并未达到Nvidia曾经大肆宣传的高度。在能耗上尤其突出，GeForce GTX 480和470显卡在空闲和全负荷下都高于竞争对手。</i>
+Anand Tech的<a href="http://www.anandtech.com/video/showdoc.aspx?i=3783&amp;p=1">测试</a>提供了Nvidia显卡在GPGPU计算上的表现。           <p> <table align="center" border="1" cellpadding="3" cellspacing="0" width="550">
+<tbody>
+<tr>
+<td align="center" bgcolor="#016a96" width="113">&nbsp;</td>
+<td align="center" bgcolor="#016a96" width="85"> <strong>GTX 480</strong> </td>
+<td align="center" bgcolor="#016a96" width="81"> <strong>GTX 470</strong> </td>
+<td align="center" bgcolor="#016a96" width="118"> <strong> <strong>GTX 295</strong> </strong> </td>
+<td align="center" bgcolor="#016a96" width="100"> <strong> <strong>GTX 285</strong> </strong> </td>
+<td align="center" bgcolor="#016a96" width="72"> <strong> <strong>9800+ GTX</strong> </strong> </td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Stream Processors</strong> </td>
+<td align="center" bgcolor="#f7f7f7">480</td>
+<td align="center" bgcolor="#f7f7f7">448</td>
+<td align="center" bgcolor="#f7f7f7">2 x 240 </td>
+<td align="center" bgcolor="#f7f7f7">240</td>
+<td align="center" bgcolor="#f7f7f7">128</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Texture Address / Filtering</strong> </td>
+<td align="center" bgcolor="#f7f7f7">60/60</td>
+<td align="center" bgcolor="#f7f7f7">56/56</td>
+<td align="center" bgcolor="#f7f7f7">2 x 80 / 80</td>
+<td align="center" bgcolor="#f7f7f7">80 / 80</td>
+<td align="center" bgcolor="#f7f7f7">64 / 64</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>ROPs</strong> </td>
+<td align="center" bgcolor="#f7f7f7">48</td>
+<td align="center" bgcolor="#f7f7f7">40</td>
+<td align="center" bgcolor="#f7f7f7">2x 28</td>
+<td align="center" bgcolor="#f7f7f7">32</td>
+<td align="center" bgcolor="#f7f7f7">16</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Core Clock</strong> </td>
+<td align="center" bgcolor="#f7f7f7">700MHz</td>
+<td align="center" bgcolor="#f7f7f7">607MHz</td>
+<td align="center" bgcolor="#f7f7f7">576MHz</td>
+<td align="center" bgcolor="#f7f7f7">648MHz</td>
+<td align="center" bgcolor="#f7f7f7">738MHz</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Shader Clock</strong> </td>
+<td align="center" bgcolor="#f7f7f7">1401MHz</td>
+<td align="center" bgcolor="#f7f7f7">1215MHz</td>
+<td align="center" bgcolor="#f7f7f7">1242MHz</td>
+<td align="center" bgcolor="#f7f7f7">1476MHz</td>
+<td align="center" bgcolor="#f7f7f7">1836MHz</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Memory Clock</strong> </td>
+<td align="center" bgcolor="#f7f7f7">924MHz (3696MHz data rate) GDDR5</td>
+<td align="center" bgcolor="#f7f7f7">837MHz (3348MHz data rate) GDDR5</td>
+<td align="center" bgcolor="#f7f7f7">999MHz (1998MHz data rate) GDDR3</td>
+<td align="center" bgcolor="#f7f7f7">1242MHz (2484MHz data rate) GDDR3</td>
+<td align="center" bgcolor="#f7f7f7">1100MHz (2200MHz data rate) GDDR3</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Memory Bus Width</strong> </td>
+<td align="center" bgcolor="#f7f7f7">384-bit</td>
+<td align="center" bgcolor="#f7f7f7">320-bit</td>
+<td align="center" bgcolor="#f7f7f7">2 x 448-bit</td>
+<td align="center" bgcolor="#f7f7f7">512-bit</td>
+<td align="center" bgcolor="#f7f7f7">256-bit</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Frame Buffer</strong> </td>
+<td align="center" bgcolor="#f7f7f7">1.5GB</td>
+<td align="center" bgcolor="#f7f7f7">1.25GB</td>
+<td align="center" bgcolor="#f7f7f7">2 x 896MB</td>
+<td align="center" bgcolor="#f7f7f7">1GB</td>
+<td align="center" bgcolor="#f7f7f7">512MB</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Transistor Count</strong> </td>
+<td align="center" bgcolor="#f7f7f7">3B</td>
+<td align="center" bgcolor="#f7f7f7">3B</td>
+<td align="center" bgcolor="#f7f7f7">2 x 1.4B</td>
+<td align="center" bgcolor="#f7f7f7">1.4B</td>
+<td align="center" bgcolor="#f7f7f7">754M</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Manufacturing Process</strong> </td>
+<td align="center" bgcolor="#f7f7f7">TSMC 40nm</td>
+<td align="center" bgcolor="#f7f7f7">TSMC 40nm</td>
+<td align="center" bgcolor="#f7f7f7">TSMC 55nm</td>
+<td align="center" bgcolor="#f7f7f7">TSMC 55nm</td>
+<td align="center" bgcolor="#f7f7f7">TSMC 55nm</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#eeeeee"> <strong>Price Point</strong> </td>
+<td align="center" bgcolor="#f7f7f7">$499</td>
+<td align="center" bgcolor="#f7f7f7">$349</td>
+<td align="center" bgcolor="#f7f7f7">$500</td>
+<td align="center" bgcolor="#f7f7f7">$400</td>
+<td align="center" bgcolor="#f7f7f7">$150 - 200</td>
+</tr>
+</tbody>
+</table> </p>
+➜让地球洗泡泡浴降温
+https://www.solidot.org/story?sid=16987	31800
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道<i> "为了阻止全球变暖，科学家们已经提出了一系列方案，比如向大气平流层中散播能阻挡阳光的粉尘，以及增多海洋中能吸收碳的海藻等等。不过哈佛大学的一位物理学家提出了一种更酷的方式:<a href="http://news.sciencemag.org/sciencenow/2010/03/could-tiny-bubbles-cool-the-plan.html">向海水中注入大量微小气泡</a>，增强海水对光的反射能力，从而降低海水的温度。Russell Seitz在一次地球公程学国际会议上说：“既然海水覆盖了大部分地表，与其让太阳变暗，不如让海水变亮。”基于计算机模拟的结果显示小泡泡们的冷却效果是惊人的。在该模型中，Seitz发现气泡和水的体积比为一比一百万时，就可使水的反射效果提高两倍。若把这些数据应用到气候模型中，全球的气温可降低3°C。Seitz向《气候变化》（Climatic Change）投递了这篇关于“明亮的水”的论文。"</i>
+➜Ubuntu 10.10将采用十进制表示文件大小
+https://www.solidot.org/story?sid=16988	57600
+继<a href="__SLASHLINK__" sect="apple" sid="09/08/30/0426255" sn="article" tid="62">苹果</a>之后，又有一家操作系统开发商决定<a href="http://linux.slashdot.org/story/10/03/27/1451238/Ubuntu-Will-Switch-To-Base-10-File-Size-Units-In-Future-Release">采用十进制</a>表示文件大小，这次是Linux发行版Ubuntu。<i>
+计划于今年10月推出的Ubuntu 10.10将改变操作系统通用的二进制文件大小表示，Ubuntu目前仍然使用<a href="http://zh.wikipedia.org/wiki/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B9%98%E6%95%B0%E8%AF%8D%E5%A4%B4">二进制乘数词头</a>，但未来将采用基于十进制的国际单位制词头，也就是说从Ubuntu 10.10开始，1 kB= 1,000 bytes，1 MB = 1,000 kB，1 GB=1,000MB；Ubuntu将用1 KiB表示1,024 byte，1 MiB表示1,024 KiB，1 GiB表示1,024 MiB。</i>

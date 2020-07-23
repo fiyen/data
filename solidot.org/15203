@@ -1,0 +1,74 @@
+➜英特尔开源Cilk Plus
+https://www.solidot.org/story?sid=25534	4200
+英特尔<a href="https://lwn.net/Articles/455185/">宣布</a>开源<a href="http://software.intel.com/en-us/articles/intel-cilk-plus-specification/">Cilk Plus</a> C和C++语言并行编程扩展。
+<i>
+<a href="http://supertech.csail.mit.edu/cilk/">Cilk</a>多线程编程技术最早由MIT开发，是一个基于Gcc编译器的开源项目。后来开发者创建了一个创业公司，推出改进的私有版本，整合到Windows下的多种编译器中。之后它被英特尔公司收购，整合进英特尔的编译器中。现在，它再次成为一个开源项目，成为Gcc 4.7下的一个分支。Cilk Plus允许C和C++程序员能高效利用多核处理器的并行处理能力。
+</i>
+➜非营利组织发布开源网状网软件
+https://www.solidot.org/story?sid=25535	6120
+非营利组织Geeks Without Frontiers<a href="http://hothardware.com/News/Nonprofit-Group-Releases-Open-Source-WiFi-Software/">发布了</a>开源Mesh WiFi网络软件<a href="http://o11s.org/trac/wiki/RELEASE_NOTES-0.4.1">open80211s</a>。<i>
+软件是基于尚未批准的IEEE 802.11 WiFi标准扩展802.11s。IEEE 802.11s标准预计将在第四季度被批准，它允许机器之间无线互联，不需要路由器之类的硬件访问点，并允许通过多跳访问超出范围的节点。该项目得到了Tides基金会和Google的资助，早期版本已包含在<a href="http://kernelnewbies.org/Linux_2_6_26#head-26b4a3f6eb606c21056e4f906a4dae88077346f5">Linux kernel 2.6.26</a>中。该组织称，open80211s创建的网状网是高度安全的，使用了强认证方法只允许认证用户进入，并加密了流量防止窃听。
+</i>
+➜三星平板欧洲禁售令暂时取消
+https://www.solidot.org/story?sid=25536	7200
+上周德国地方法院因苹果公司的投诉<a href="__SLASHLINK__" sect="apple" sid="11/08/10/0225222" sn="article" tid="54">发出了</a>三星Galaxy Tab 10.1平板的欧洲禁售令。现在禁售令<a href="http://www.bbc.co.uk/zhongwen/simp/business/2011/08/110816_samsung_galaxy.shtml">已被暂时取消</a>，人们质疑地方法院是否有权禁止在全欧盟范围内销售Galaxy Tab 10.1。Galaxy Tab 10.1被视为苹果iPad的强力竞争者，苹果公司也正在寻求法院命令，在有关专利诉讼解决前暂时禁止三星在美国销售Galaxy Tab 10.1。
+➜盲人被控下载色情
+https://www.solidot.org/story?sid=25537	9120
+电影公司的反盗版律师对美国BT用户发起了大规模的诉讼，有数以千计的人被控下载版权内容，他们可能将不得不支付罚款。但富有戏剧性的是，一名被控下载色情电影Tokyo Cougar Creampies的用户是一名盲人，他根本没有能力去观看<a href="http://www.seattleweekly.com/2011-08-10/news/porn-piracy-bittorrent/">包括色情在内的任何电影</a>。代号为John Doe 2,057的盲人说，他没有电影欣赏能力，他的孩子只有4岁和6岁，他相信他们不可能去看色情，他怀疑可能是邻居访问了他家的开放WiFI。
+➜Paypal创始人投资建造人工岛国
+https://www.solidot.org/story?sid=25538	10800
+Paypal创始人、Facebook早期投资者、亿万富翁Peter Thiel<a href="http://science.slashdot.org/story/11/08/16/2032236/Paypal-Founder-Helping-Build-Artificial-Island-Nations">投资了</a>125万美元建造漂浮在国际水域的自由岛国。<i>
+Peter Thiel是<a href="http://seasteading.org/">Seasteading Institute</a>项目的<a href="http://www.details.com/culture-trends/critical-eye/201109/peter-thiel-billionaire-paypal-facebook-internet-success">主要支持者</a>，该项目设想在不受法律管制的公海建造类似石油钻井平台的主权国家。这个国家将不受任何地方现有法律、法规和道德规则的束缚。然而，根据联合国的<a href="http://zh.wikipedia.org/wiki/%E8%81%AF%E5%90%88%E5%9C%8B%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%B4%84">海洋法公约</a>，公海向任何国家开放，但任何国家都不得有效主张公海任何部份属其主权范围。</i>
+➜两名英国青年因煽动暴力被判入狱四年
+https://www.solidot.org/story?sid=25539	12240
+BBC<a href="http://www.bbc.co.uk/news/uk-england-manchester-14551582">报导</a>(<a href="http://www.bbc.co.uk/zhongwen/simp/uk/2011/08/110817_uk_riots_fb_two_jailed.shtml">中文</a>)，两名英国青年因在Facebook上煽动暴力被判入狱四年。<i>
+21岁的Jordan Blackshaw和22岁的Perry Sutcliffe-Keenan在切斯特皇家刑事法院被判入狱。法官表示希望这个严厉判决能阻吓其他人犯案。Blackshaw在Facebook上建立了名叫Smash d[o]wn in Northwich Town的小组，动员人一起去破坏Northwich镇，煽动骚乱。根据严重犯罪法案第44条和第46条，两名男子被控有意鼓励他人犯罪。两人对所控罪行供认不讳。</i>
+➜人类的大脑网络限制了多任务处理
+https://www.solidot.org/story?sid=25540	19680
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"虽然人类大脑的结构非常复杂，但也不足以有能力处理所有我们看到，听到和做的事情。这种限制有时是一件好事，这会帮我们过滤掉很多无用的细节。但更多的时候我们陷入了"我们是如何处理信息"的辩论。研究人员之前认为针对不同信息的处理在大脑里有不同的瓶颈。比如正在阅读地图的大脑限制机制非常不同于哲学思辨的过程。但最近来自<a href="http://www.pnas.org/">PNAS</a>的研究者提出有一个<a href="http://www.wired.com/wiredscience/2011/08/multitasking-brain-bottlenecks/">"统一"的机制在限制大脑对不同认知过程的并行处理能力</a>。"</i>
+➜汉语垃圾场
+https://www.solidot.org/story?sid=25541	19920
+outdoor 写道 <i>"<a href="http://wang-dingding.blog.sohu.com/181533669.html">汪丁丁对百度的沦落提出批评。</a>由于追求娱乐至死，缺少学术含量，中国的互联网已成为最大的汉语垃圾场。他说，我们这一代人承前启后的试图重建汉语学术传统的努力，正因百度类型的牟利行为变得日益渺茫。汪先生没有揭露造成如此局面的深层原因，只是笼统归于官僚政治：吃的都是良心，拉出来的都是思想。"</i>
+➜App Inventor交给MIT继续开发
+https://www.solidot.org/story?sid=25542	21840
+Google将在年底<a href="__SLASHLINK__" sect="it" sid="11/08/10/0737216" sn="article" tid="26">关闭</a>教育工具Android App Inventor，让外界颇感失望。但事态发展旋即又峰回路转，<a href="http://appinventorblog.com/2011/08/16/best-app-inventor-news-ever-mit-launches-new-center-for-mobile-learning/">MIT接过了Google的烫手山芋</a>。<i>
+MIT Media Lab<a href="http://web.mit.edu/press/2011/mit-launches-new-center-for-mobile-learning.html">宣布</a>成立MIT Center for Mobile Learning，专注于移动领域的教育革新和创新学习。Google Education捐助了初始资金，新研究中心主任之一是领导Android App Inventor开发的MIT计算机科学<a href="http://googleresearch.blogspot.com/2011/08/new-mit-center-for-mobile-learning-with.html">Hal Abelson教授</a>，中心的第一个项目就是App Inventor for Android。</i>
+➜洛克希德开发形似枫叶种子的无人机
+https://www.solidot.org/story?sid=25543	24120
+每到秋季，枫叶种子会从枫树上旋转飘落，像单翼直升机那样无声无息的落在地上。过去五年，洛克希德马丁公司智能机器人实验室<a href="http://www.physorg.com/news/2011-08-lockheed-martin-maple-seed-like-drone.html">一直在开发能复制这一运动的无人飞行器</a>，它将在下周的无人机系统国际会议上展示。
+<i>
+被称为Samarai的无人机长一英尺，仅有两个移动部件外加一个摄像机，可以遥控控制或通过平板上应用程序控制。此类的飞行器并不鲜见，马里兰大学的学生在几年前开发出受枫叶种子启发的飞行器。洛克希德实验室主任Bill Borgia认为，飞行器可能帮助军方和警方收集信息。它可以放在士兵的背包中，在战场上像飞去来器那样掷到空中，实时收集情报。军方或警方可以用它观察建筑物内部情况。</i>
+➜法庭扣押漂浮的核电站
+https://www.solidot.org/story?sid=25544	25200
+正在建设中世界第一个漂浮在海上的核电站已经<a href="http://spectrum.ieee.org/tech-talk/energy/nuclear/russias-first-floating-nuclear-plant-seized-by-court-order">被法庭扣押</a>，原因不是安全或环境问题，而是制造核驳船的船厂的母公司进入了破产程序，这意味着一切资产都被放到了桌面上。俄罗斯原子能机构Rosatom担心债权人最后会试图分割这一具有重要价值的核资产，为了保护其3.4亿美元投资，它要求法庭扣押核驳船。Rosatom发言人表示，核驳船会在2012年如期交付。
+➜雅虎和Facebook测试六度分隔理论
+https://www.solidot.org/story?sid=25545	27720
+雅虎和Facebook<a href="http://www.zdnet.com/blog/facebook/yahoo-facebook-test-8220six-degrees-of-separation-8221-idea/2678">合作测试</a>著名的小社会现象“<a href="http://zh.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94%E7%90%86%E8%AE%BA">六度分隔理论</a>”——两个互不相识的人只需很少的中间人就能建立起联系。<i>
+<a href="http://smallworld.sandbox.yahoo.com/">雅虎小社会实验</a>目标是利用世界最大社交网络和它的7.5亿用户，判断两位不相识陌生人之间的社交路径长度。任何有Facebook帐号的人都可以参加这项实验，你将被要求选择一位最可能知道“目标对象”的朋友，信息将会从一位朋友传递到另一位朋友，最后抵达目标对象。
+</i>
+➜微软称WP是唯一提供平等机会的平台
+https://www.solidot.org/story?sid=25546	29520
+Google<a href="__SLASHLINK__" sect="it" sid="11/08/15/1115221" sn="article" tid="26">斥巨资收购</a>Android制造商摩托罗拉移动，此举让Google与其它Android制造商的关系从合作伙伴变成了竞争对手。微软Windows Phone部门总裁Andy Lees<a href="http://mobile.slashdot.org/story/11/08/16/1645229/Microsoft-Exec-Responds-To-the-Google-Motorola-Deal">发表声明称</a>，投资广阔且真正开放的移动生态系统对业界和消费者来说都十分重要，Windows Phone是目前唯一一个给所有合作伙伴提供平等机会的平台。虽然Google声明<a href="http://www.cn.wsj.com/gb/20110816/tec133540.asp">不会厚此薄彼</a>，而三星、宏达和LG等公司也发表声明支持交易。但Android制造商私下肯定会担忧摩托罗拉可能获得竞争优势，部分分析人士也预测会有制造商转战indows Phone平台。对于<a href="http://yro.slashdot.org/story/11/08/16/2334230/Analysis-of-Googles-Motorola-Acquisition">这笔收购案</a>，以假冒乔布斯知名的Dan Lyons<a href="http://realdanlyons.com/blog/2011/08/15/suck-on-it-applesoft/">认为</a>，Google其实根本不在意北电专利，它一边谈判收购摩托罗拉一边在专利竞拍中故意哄抬价格。
+➜华为80美元Android手机畅销肯尼亚
+https://www.solidot.org/story?sid=25547	31320
+华为公司去年透露了普通人可负担的Android智能手机<a href="http://www.huaweidevice.com/resource/mini/201008174756/ideos/">IDEOS</a>，它通过肯尼亚电信公司<a href="http://www.safaricom.co.ke/">Safaricom</a>向该国居民销售，到今年7月已经售出了<a href="http://tech.slashdot.org/story/11/08/17/0144227/80-Android-Phone-Sells-Like-Hotcakes-In-Kenya">超过35万部</a>。这个数字令人印象深刻，因为40%的肯尼亚居民每天生活费用不到2美元。肯尼亚互联网使用基本全部来自移动端，低价智能手机的畅销将让网络使用在一年内增长八倍以上。IDEOS手机的<a href="http://www.huaweidevice.com/resource/mini/201008174756/ideos/products_specifications.html">硬件规格</a>并不差：2.8英寸显示屏，320万像素摄像头，支持WiFi和A-GPS，256MB RAM+512MB NAND。
+➜朱迪·福斯特帮助SETI恢复搜索外星人
+https://www.solidot.org/story?sid=25548	33480
+SETI的艾伦望远镜阵列今年初因为缺乏资金<a href="__SLASHLINK__" sect="science" sid="11/04/26/0334212" sn="article" tid="102">而被关闭进入休眠期</a>。它一年总运行费用约250万美元。为了避免彻底关闭望远镜，SETI创建了一个公众捐助项目<a href="https://setistars.org/">SETIstars</a>，筹集20万美元重启资金。目前，筹款目标已经超额完成。<a href="http://blogs.discovermagazine.com/badastronomy/2011/08/10/success-seti-array-back-on-track/">捐赠者中的名人</a>包括了在《<a href="http://en.wikipedia.org/wiki/Contact_(film)">超时空接触</a>》中扮演SETI天文学家Ellie Arroway的女星朱迪·福斯特，科幻小说作家拉里·尼文（《环型世界》），阿波罗8号宇航员比尔·安德斯。20多万美元不过是杯水车薪，SETI仍然需要筹集更多资金才能保证望远镜能继续运行。
+➜研究发现女性是无可救药的浪漫
+https://www.solidot.org/story?sid=25549	33780
+一项发表在《个性与社会心理学通报》上的<a href="http://psp.sagepub.com/content/37/9/1259">研究报告</a>分析了追逐浪漫目标对女性的数学和科学态度的影响。研究显示，<a href="http://www.sciencedaily.com/releases/2011/08/110815101540.htm">浪漫目标会诱使女性远离STEM（科学、技术、工程和数学）领域</a>。<i>
+研究主要作者Lora E. Park称，当浪漫目标触发后，女性报告对数学和科学的兴趣减少，对艺术、语言和英语等兴趣增加。一种可能的解释是，追求智慧目标如STEM与追求浪漫的目标相冲突。
+</i>
+➜被开除IT职员制造“虚拟骚乱”
+https://www.solidot.org/story?sid=25550	36840
+日本制药公司盐野义美国子公司的一名前雇员，<a href="http://www.itworld.com/it-managementstrategy/194445/fired-techie-created-virtual-chaos-pharma-company">在被开除之后破坏了公司的计算机系统</a>，对其罪行他已经供认不讳。<i>
+37岁的Jason Cornish于今年2月3日从一家麦当劳餐厅的网络登录进公司内网，删除了15个VMware虚拟主机系统，这些系统运行着公司的电子邮件、订单跟踪、金融等服务。此次攻击导致盐野义的业务停顿了数天，公司雇员无法出货产品，无法通过电子邮件进行联系。盐野义总损失为80万美元。2010年7月，Cornish因与上司争执而辞职，但作为一名顾问他仍然在公司干了两个月。直到9月份他和其他人一起被开除，但公司却没有收回网络密码，Cornish仍能登录进公司内网，访问vSphere VMware管理终端。通过vSphere，他从VMware主机系统中一个接一个的删除了88个公司服务器。</i>
+➜新芯片设计加密Web
+https://www.solidot.org/story?sid=25551	40200
+半导体设计公司<a href="http://www.cavium.com/">Cavium</a>设计出一种芯片，<a href="https://www.technologyreview.com/computing/38336/?p1=A2">能用于加密大部分Web流量</a>，减少加密成本，改进网络安全。<i>
+Cavium的Nitrox III设计用于数据中心，能以极快和极高效的速度加密使用SSL协议的网站。Cavium的新芯片能比通用处理器更快的执行加密所需的数学计算。它有64个核心。</i>
+➜新浪微博屏蔽“卢星宇”
+https://www.solidot.org/story?sid=25552	42120
+新华社-中国网事<a href="__SLASHLINK__" sect="internet" sid="11/08/12/1031238" sn="article" tid="71">曾指责</a>新浪微博过滤关键词“达芬奇”，认为它助纣为虐。现在它又被发现屏蔽“<a href="http://i.imgur.com/plqZw.png">卢星宇</a>(截图)”，不知道这次又是出于何种的动机。<i>
+根据21CN娱乐<a href="http://et.21cn.com/star/zhuixing/neidi/2011/08/17/8897568.shtml">图片报道</a>，网友在关注“希望小学”时发现了“<a href="http://www.wecba.org/zhongfeixiwang/">中非希望工程</a>”项目，随后注意到了一位非常年轻的中非希望工程执行主席兼秘书长<a href="http://weibo.com/1879299695">卢星宇</a>。《南方都市报》<a href="http://tx.southcn.com/hulianwang/content/2011-08/17/content_28463221.htm">报导</a>称，卢星宇年仅24岁，系世界杰出华商协会执行主席卢俊卿之女。根据新华网的报道，“中非希望工程”将在10年内为非洲捐建1000所希望小学，耗资约为20亿元人民币。卢星宇管理如此大的工程引发了网友的关注热潮，整件事并没有什么超出常理的地方，然而现在在新浪微博上搜索“卢星宇”，却返回了“根据相关法律法规和政策，搜索结果未予显示”，不知道新浪根据的究竟是什么法律法规。</i>

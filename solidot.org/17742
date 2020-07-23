@@ -1,0 +1,46 @@
+➜Freedesktop.org 迁移到 GitLab
+https://www.solidot.org/story?sid=57373	11061
+freedesktop.org（fd.o） 项目诞生于 2000 年，今天它已成为许多开源图形开发项目的托管方，包括 The kernel DRM tree、Mesa、Wayland、X.Org 等等。维护这么多不同的项目正日益成为一个负担，为了改善这些项目的工作流，fd.o 开始考虑迁移和整合基础设施。而期间已有许多图形项目将开发迁移到了  GitHub。在评估过程中，GitLab 获得了越来越多人的青睐，GNOME 桌面项目就选择将其基础设施迁移到 GitLab。在 GitLab 的帮助下，fd.o <a href="https://www.fooishbar.org/blog/gitlab-fdo-introduction/" target="_blank"><u>完成</u></a>了到 <a href="https://gitlab.freedesktop.org/" target="_blank"><u>GitLab</u></a> 的迁移，它向所有托管项目提供了一个迁移模板迁移到 GitLab。更多信息可访问 <a href="https://gitlab.freedesktop.org/freedesktop/freedesktop/wikis/home">freedesktop GitLab
+wiki</a>。
+➜中国在阿根廷建立航天测控站
+https://www.solidot.org/story?sid=57374	13119
+中国在阿根廷的巴塔哥尼亚<a href="https://cn.nytimes.com/world/20180730/china-latin-america/" target="_blank"><u>建立了</u></a>一座造价 5000 万美元的航天测控站。这个测控站于今年 3 月开始运行，正在中国探索月球背面的大胆行动中起着关键作用。阿根廷官员说，他们为能支持这一行动感到骄傲。基地的谈判是在阿根廷迫切需要投资的情况下秘密进行的，但这种谈判方式，以及对基地可能会增强中国在西半球收集情报能力的担忧，已在阿根廷引发了一场关于被拉入中国轨道的风险和好处的辩论。专家说，天线和其他支持太空任务的设备，比如中国目前在巴塔哥尼亚拥有的这种设备，可以提高中国的情报收集能力。五角大楼发言人说，军方官员正在评估这个中国监测站的可能作用。
+➜五角大楼制定不能购买的中俄软件清单
+https://www.solidot.org/story?sid=57375	13499
+五角大楼的采购主管<a href="https://yro.slashdot.org/story/18/07/29/1924235/pentagon-creates-do-not-buy-list-of-russian-chinese-software" target="_blank"><u>警告</u></a>军方及其承包商不要使用与俄罗斯和中国有关联的软件。五角大楼开始传阅一个被认为不符合国家安全标准的软件禁止购买清单。美国国防部是从六个月前开始编辑这个软件名单的。现在它正与三个主要的国防行业贸易协会——航天工业协会、国防工业协会和专业服务委员会——合作去警告大小型的国防承包商。详细的禁购软件名单没有披露。
+➜Mozilla 开发类似 Chrome 的网站隔离功能
+https://www.solidot.org/story?sid=57376	15988
+本月早些时候 Google 对 99% 的 Chrome 桌面版用户<a href="https://www.solidot.org/story?sid=57174" target="_blank"><u>默认启用了</u></a>网站隔离功能。网站隔离功能是在 2017 年 12 月发布的 Chrome 63 中引入的，当时没有默认启用。Chrome 默认是一个标签使用一个进程，但如果网页之间共享内容，它们也会共享一个进程。网站隔离消除了共享进程，确保不同网站在不同的进程上。Google 不是唯一一个开发网站隔离功能的浏览器开发商，Mozilla 有一个类似的项目叫 <a href="https://wiki.mozilla.org/Project_Fission" target="_blank"><u>Project Fission</u></a>。该项目于 4 月启动，Mozilla 工程师<a href="https://www.bleepingcomputer.com/news/software/mozilla-is-working-on-a-chrome-like-site-isolation-feature-for-firefox/" target="_blank"><u>表示</u></a>，在向用户推送该功能前他们需要先优化内存占用。网站隔离的一个代价就是内存开销增加，测量显示它增加了 10% 左右的内存使用。Mozilla  计划将每个进程的内存占用减少到 10 MB 左右。
+➜研究人员演示远程 Spectre 漏洞利用
+https://www.solidot.org/story?sid=57378	17456
+奥地利 Graz 理工大学的研究人员发表<a href="https://misc0110.net/web/files/netspectre.pdf" target="_blank"><u>论文（PDF）</u></a>，演示了通过网络远程利用 Spectre V1 漏洞的方法。他们将这一利用方法命名为 NetSpectre。通过 NetSpectre，攻击者无需在目标系统执行任何代码就能远程读取系统内存。然而这种攻击方法获取的数据量非常少，每小时大约 15 位，获取 1MB 数据就需要几年时间。但对于高度针对性的数据提取——比如加密密钥——较少的数据就足够了。此外，泄漏的内存地址可用于挫败 ASLR 使用的随机内存地址。组合这些信息，攻击者可以更容易的利用其它漏洞入侵远程系统。英特尔发表声明<a href="https://arstechnica.com/gadgets/2018/07/new-spectre-attack-enables-secrets-to-be-leaked-over-a-network/" target="_blank"><u>表示</u></a>，NetSpectre 是边界检查绕过 (CVE-2017-5753)是一种应用，能以相同的方法缓解。
+➜前网信办主任鲁炜被提起公诉
+https://www.solidot.org/story?sid=57377	19807
+最高检察院发表<a href="http://www.spp.gov.cn/spp/qwfb/201807/t20180730_386452.shtml" target="_blank"><u>声明</u></a>对鲁炜等三人提起公诉。鲁炜是前中宣部副部长，互联网最高审查机构网信办的第一任主任，因其高调和强硬的作风而被一度称为中国的互联网沙皇。最高检察院的声明称，<i>“中央宣传部原副部长鲁炜涉嫌受贿一案，由浙江省监察委员会调查终结，经最高人民检察院指定，移送浙江省宁波市人民检察院审查起诉。 近日，宁波市人民检察院已向宁波市中级人民法院提起公诉。检察机关起诉指控： 被告人鲁炜利用其担任新华社党组成员、秘书长、副社长、中共北京市委常委、宣传部部长、北京市人民政府副市长、国家互联网信息办公室主任、国务院新闻办公室副主任、中央网络安全和信息化领导小组办公室主任、中央宣传部副部长等职务上的便利，为他人谋取利益; 利用本人职权、地位形成的便利条件，通过其他国家工作人员职务上的行为，为他人谋取不正当利益，非法收受巨额财物，依法应当以受贿罪追究其刑事责任。” </i>
+➜欧洲法院裁定基因编辑作物属转基因
+https://www.solidot.org/story?sid=57379	26751
+欧洲法院<a href="http://www.sciencemag.org/news/2018/07/european-court-ruling-raises-hurdles-crispr-crops" target="_blank"><u>裁定</u></a>包括基因编辑在内的基因诱变技术应被视为转基因技术，因此使用不涉及在生物之间转移基因的 CRISPR 等技术培育出来的植物，应接受欧盟转基因相关法律的监管，必须经过与传统转基因植物同样漫长的审批过程。这无疑是对包括科学家在内的基因编辑支持者的<a href="http://news.sciencenet.cn/htmlnews/2018/7/416054.shtm" target="_blank"><u>巨大打击</u></a>。许多研究人员认为，在评估新技术创造的产品时，监管机构应该采取更宽松的措施。而这一裁定没有基于科学，将阻碍欧盟在植物生物技术领域的科研投入。环保组织及其盟友对此裁定表示欢迎。它们认为，基因诱变产物也应该遵守适用于其他转基因生物的欧盟规则。欧洲法院也指出，一些基因诱变生物 “传统上已在一系列应用中使用，具有长期的安全记录”，这些基因诱变生物可免于欧盟转基因相关法律的监管。
+➜中国二孩政策的意外后果
+https://www.solidot.org/story?sid=57380	28722
+中国自 2016 年起全面实施二孩政策。然而根据国家卫生计生委公布的数据，2016 年和 2017 年出生人口数量分别为 1846 万人、1758 万人。在宽松的政策环境下，出生人数不升反降的现象引起了热烈讨论，以至于传言称中国计划全面放开生育，不再有任何限制。中国目前的生育率远低于 2.1 的替代率。所谓替代率是指每位女性生育 2.1 个孩子无需移民就能维持人口稳定。经济学人发表文章讨论了<a href="https://www.economist.com/china/2018/07/26/chinas-two-child-policy-is-having-unintended-consequences" target="_blank"><u>二孩政策的意外后果</u></a>。为智库  China Policy 工作的 Helen Gao 称，一个家庭有一个孩子可能在中国已被视为理想状态，就像美国将一对夫妇两个孩子一条狗视为理想的家庭。二孩政策导致的一个意外后果是雇主不怎么样愿意雇佣年轻女性了。All-China Women’s Federation 的调查显示， 55% 的女性在工作面试中被询问是否有男朋友，是否决定生育。中国有反对性别歧视的法律，但执行中非常宽松，而公司高管通常不担心惩罚。
+➜美国军方被告知从一次性转向可重复使用的火箭
+https://www.solidot.org/story?sid=57381	30709
+美国众议院和参议院的<a href="https://docs.house.gov/billsthisweek/20180723/CRPT-115hrpt863.pdf" target="_blank">会议报告(PDF)</a>呼吁五角大楼不要再完全依赖于一次性使用的火箭。报告认为美国空军必须考虑<a href="https://arstechnica.com/science/2018/07/congress-requires-military-to-consider-reusable-rockets-for-launch-contracts/" target="_blank"><u>可重复使用的火箭</u></a>。如果某个发射任务不考虑可重复使用的火箭，美国空军必须向国会解释原因。众议院已批准该报告，在参议院通过之后再经过总统的签署它将成为法律。美国的军用发射市场以前主要被洛克希德和波音组建的联合发射联盟（ULA）垄断，SpaceX 的崛起开始打破其垄断地位，该公司的 Falcon 9 火箭已经完成了多次回收和重复使用。
+➜印度第一款 RISC-V 芯片
+https://www.solidot.org/story?sid=57382	35221
+印度<a href="https://news.ycombinator.com/item?id=17643010" target="_blank"><u>研制出</u></a>第一款 RISC-V 芯片原型 <a href="http://rise.cse.iitm.ac.in/shakti.html" target="_blank"><u>Shakrti</u></a>。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构。与大多数指令集相比，RISC-V 指令集可以自由地用于任何目的，允许任何人设计、制造和销售 RISC-V 芯片和软件。Shakrti 项目得到了印度政府的资助，包含从微控制器到多核处理器甚至面向 HPC 等应用的多个版本。Shakrti 首个面世的原型是低功耗版本，频率为 400MHz，开发者称该原型是为民用核反应堆的控制系统设计的。中国政府也对 RISC-V 架构<a href="https://www.solidot.org/story?sid=57307" target="_blank"><u>感兴趣</u></a>。
+➜美监狱囚犯给自己的 JPay 账号余额充入了 22.5 万美元
+https://www.solidot.org/story?sid=57383	40388
+JPay 从 2002 年起成为美国监狱的支付服务商，向囚犯家属提供了快速转账的服务，但外界对其可能所知不多，直到上周一起囚犯变黑客的事件令该公司“<a href="https://www.wired.com/story/how-a-group-of-imprisoned-hackers-introduced-jpay-to-the-world/" target="_blank"><u>名声大噪</u></a>”。除了为囚犯提供转账服务外，该公司还提供娱乐和信息服务，但这些服务都要收费的，而且价格不菲，发一次电子信息收费 47 美分，下载音乐的花费则高达 3.5 美元。该公司向囚犯提供了平板电脑，通过 JPay 帐户囚犯可以听音乐、阅读电子书或玩游戏。爱达荷州监狱官员发现 363 名囚犯利用软件漏洞给自己增加了 JPay 账户余额。在利用 JPay 漏洞的 363 名囚犯中，有 50 人给自己<a href="https://techcrunch.cn/2018/07/30/inmates-idaho-jpay-hack/" target="_blank"><u>充入了</u></a>超过 1000 美元的余额。一名囚犯甚至利用软件漏洞，给自己充入了接近 1 万美元。是为什么动机促使如此多的囚犯修改账户余额的？如上所述，它的服务太贵了，囚犯的时薪仅为 10 到 90 美分，下载一首音乐就要花掉他们 5 小时的薪水。那么他们是如何修改余额的？为了限制数据传输， 账户余额很可能是储存在本地而不是远程服务器上，因此精通技术的囚犯可以在本地访问  SQLit 数据库然后修改余额。这些黑客囚犯受到了惩罚，他们仍然可以发送和接收信息，但其它形式的娱乐被临时禁止了。
+➜哈佛招生秘密标准曝光
+https://www.solidot.org/story?sid=57384	42941
+除了 SAT 成绩外，哈佛大学的招生官员<a href="https://cn.nytimes.com/education/20180730/harvard-admissions-asian-americans/" target="_blank"><u>还有另外一整套标准</u></a>，是那些雄心勃勃的高中生和他们的父母所不知道的——就算知道，他们或许也无法满足这些标准。这些官员讲的是一种秘密语言——“备审表”、“缩减名单”、“小奖励”、“DE”、“Z 名单” 和 “院长关注名单”——他们还有一个筛选系统，其中的条件包括申请者来自哪里、父母是否从哈佛毕业、他们有多少钱，以及他们是否适合学校的多样性目标，这一切可能跟 SAT 考 1600 分满分一样重要。这些信息是因大学生公平录取的起诉而披露出来的。其中院长关注名单和 Z 名单被认为与捐赠者有关，或关系很硬。2014 届至 2019 届期间，每年约有 50 至 60 名学生通过 Z 名单录取。这些人大部分是白人，一般家里有人在哈佛读过书，或者是院长、主任希望录取的学生。
+➜德国政府限制中资对其企业的收购
+https://www.solidot.org/story?sid=57385	43855
+德国政府上周两次<a href="https://www.dw.com/zh/%E8%81%94%E9%82%A6%E6%94%BF%E5%BA%9C%E5%B1%A1%E5%B1%A1%E5%87%BA%E6%89%8B-%E4%B8%AD%E8%B5%84%E6%94%B6%E8%B4%AD%E9%A2%91%E9%A2%91%E5%8F%97%E9%98%BB/a-44847404?&amp;zhongwen=simp" target="_blank"><u>阻止了</u></a>中国企业对其具有战略意义的企业的收购，这是德国首次动用否决权。其中一家企业是位于威斯特法伦地区阿伦镇（Ahlen）的机械设备制造商 - 莱菲尔德金属旋压机制造公司（Leifeld Metal Spinning），德国政府认为出售该企业有可能危及德国的公共秩序或安全。莱菲尔德是高强度材料领域的技术领先者，相关材料可用于航空航天业，也可用于核工业。该公司有员工约 200 人。另一家公司是电力输送系统运营商 50Hertz。根据联邦政府的授权，德国的国有复兴信贷银行（KfW）购下该电力运营企业待售的 20% 股权，阻止了中国国有的国家电网的收购。德国联邦经济部解释说，“出于安全政策考虑”，联邦政府 “对保护敏感的能源基础设施有高度兴趣”，“民众和经济界均期待得到可靠的能源供应”。经济部指出，这是一个过渡解决方案—就远期而言，股权将继续出售。
+➜卖家如何欺骗亚马逊算法增加销量
+https://www.solidot.org/story?sid=57386	45415
+华尔街日报发表长文<a href="https://www.wsj.com/articles/how-sellers-trick-amazon-to-boost-sales-1532750493?mod=searchresults&amp;page=1&amp;pos=8" target="_blank"><u>描述了</u></a>亚马逊上的卖家利用点击农场等手法欺骗亚马逊算法提高排名增加收入的方法。和京东等电商类似，亚马逊允许第三方商家在其平台上销售商品，这些商品只有进入到搜索前列才能得到更多的曝光度取得更高的销量。而亚马逊的排名算法是根据搜索热门度排名的，这就让第三方商家有机会操纵排名。他们雇佣发展中国家的用户在亚马逊上反复输入关键词，点击付费商家的产品，欺骗算法。此外，一些卖家为了获取竞争信息而买通亚马逊内部员工，或发布过于负面或正面的评论﹐损害竞争对手的商品。亚马逊发言人表示，尝试滥用系统的行为只占很小的一部分。他们利用了复杂的方法包括机器学习来对抗滥用。此外还公司还会寻求民事和刑事处罚。除了亚马逊外，Google 等广告平台也面临日益增长的欺诈流量。报道援引知情人士的消息称，亚马逊中国的雇员被收买向商家提供了销售帐户统计、搜索优化技巧和其它内部信息。
+➜由于苹果弃用 OpenGL Autodesk 停止开发 Mac 版 Alias 和 VRED
+https://www.solidot.org/story?sid=57387	47140
+今年 6 月苹果通知开发者，macOS 将逐渐淘汰 OpenGL 和 OpenCL 图形技术。在即将推出的新版 macOS 10.14 Mojave 中，使用 OpenGL 和 OpenCL 构建的应用仍然能运行，但苹果鼓励游戏和图形密集类应用开发者尽快采用 <a href="https://developer.apple.com/documentation/metal" target="_blank"><u>Metal</u></a> 图形框架。现在<a href="https://apple.slashdot.org/story/18/07/29/1939212/autodesk-drops-support-for-alias-vred-in-macos-mojave-over-opengl-deprecation" target="_blank"><u>由于苹果弃用 OpenGL</u></a>，Autodesk <a href="https://knowledge.autodesk.com/support/alias-products/troubleshooting/caas/sfdcarticles/sfdcarticles/Discontinuation-of-Mac-Support-for-Autodesk-Alias-and-VRED.html" target="_blank"><u>宣布</u></a>将停止开发 Mac 版本的 Alias 和 VRED。Alias 是用于汽车设计和工业设计的软件，而 VRED 是 3D 可视化软件。Autodesk 称，旧版本的 Alias 和 VRED 有可能无法在 Mojave 上运行。但事实上，Mojave 仍然支持 OpenGL，因此 Alias 和 VRED 仍然是能运行的。

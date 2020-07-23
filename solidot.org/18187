@@ -1,0 +1,45 @@
+➜Ubuntu 19.10 (Eoan Ermine)发布
+https://www.solidot.org/story?sid=62279	13840
+Ubuntu <a href="https://wiki.ubuntu.com/EoanErmine/ReleaseNotes"><u>宣布</u></a> 发布 19.10 "Eoan Ermine"，同时释出的还有衍生版本如 Ubuntu Budgie、Kubuntu、Lubuntu、Ubuntu Kylin、Ubuntu MATE、Ubuntu Studio 和 Xubuntu，其中 Kylin 是与中国合作开发的发行版。19.10 的主要变化包括：内核升级到 5.3， gcc 9.2，glibc 2.30，OpenJDK 11，rustc 1.37，Python 3.7.5，Python 3.8.0，ruby 2.5.5，php 7.3.8，perl 5.28.1，golang 1.12.10。桌面环境 GNOME 3.34，支持 ZFS 作为 root 文件系统；LibreOffice 6.3，Firefox 69，Thunderbird 68，PulseAudio 13.0 等等。Kylin 或中文名优麒麟 19.10 的主要变化包括：增强了控制面板，改进了麒麟软件中心，添加了连接隐藏 wifi 的功能，金山 WPS 实现 PDF 文件阅读和插入公式功能，搜狗输入法可以对离线词库进行导入导出，等等，更多可浏览<a href="http://www.ubuntukylin.com/news/1910_released-cn.html"><u>发布公告</u></a>。
+➜德国网络安全机构推荐 Firefox 为最安全的浏览器
+https://www.solidot.org/story?sid=62280	15068
+德国联邦信息安全办公室（BSI）<a href="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Mindeststandards/Browser-Abgleich_Mindeststandard_Sichere_Web-Browser_V2_0.pdf"><u>测试了</u></a>（PDF）主流浏览器 Mozilla Firefox 68 (ESR)、Google Chrome 76、 Microsoft Internet Explorer 11 和 Microsoft Edge 44，Firefox 成为该机构在测试之后推荐的最安全浏览器。这次测试没有包含 Safari、Brave、Opera 或 Vivaldi。BSI 在上个月发布了安全浏览器指南，其中规定现代安全浏览器必须支持 TLS，必须有信任证书名单，必须验证加载的证书，必须使用图标显示连接加密还是不加密，必须支持 HTTP Strict Transport Security (HSTS) 等。BSI <a href="https://www.zdnet.com/article/germanys-cyber-security-agency-recommends-firefox-as-most-secure-browser/"><u>公布了</u></a>测试浏览器的不足之处，如 Chrome、IE 和 Edge 缺乏对主密码机制的支持，IE 没有内置的更新机制，Chrome、IE 和 Edge 没有提供选项屏蔽遥测数据收集。
+➜三星称任何人的指纹都能解锁 Galaxy S10
+https://www.solidot.org/story?sid=62281	17443
+三星<a href="https://www.bbc.com/news/technology-50080586"><u>承认</u></a>，一个漏洞导致任何人的指纹都能解锁 Galaxy S10 智能手机。三星承诺将释出软件更新修正该问题。三星今年三月在推出 Galaxy S10 时声称其指纹验证系统是革命性的，但一对英国夫妻在购买了屏保/保护膜之后发现任何人的指纹都能解锁手机。三星手机的指纹识别器使用超声波去识别指纹模式，但保护膜与这一机制不兼容。三星在一份声明中表示它已经了解此事将会释出修正。韩国网银已经建议用户在修正释出前关闭指纹识别登录。
+➜绝大多数美国奶牛都是两只公牛的后代
+https://www.solidot.org/story?sid=62282	18792
+一头公牛有至少 25 万女儿，为什么会出现这种情况？宾夕法尼亚州立大学 Chad Dechow 解释说，奶农从提供公牛精液的公司购买精液为奶牛人工授精，而公司会根据其后代的产奶量对公牛进行排名，所以奶农通常是选择排在最前面的公牛，而公司则根据需求不断培育热销的公牛品种，导致的一个结果是美国奶牛养殖业同质化非常严重。<a href="https://www.npr.org/sections/thesalt/2019/10/17/770696476/most-u-s-dairy-cows-are-descended-from-just-2-bulls-thats-not-good"><u>遗传分析显示</u></a>，奶农选择的荷斯坦种公牛品种可以追溯到两名雄性祖先。这一情况有点类似香蕉，因为同质化，一种疾病就有可能对整个产业造成毁灭性破坏。
+➜中国科学家解析非洲猪瘟病毒颗粒
+https://www.solidot.org/story?sid=62283	19360
+去年出现的非洲猪瘟重创了中国的养殖业，一个结果就是猪肉价格飞涨。目前还没有非洲猪瘟的商业性疫苗，因此研发疫苗成为预防非洲猪瘟的重中之重。中国科学家现在在《科学》期刊上<a href="http://news.sciencenet.cn/htmlnews/2019/10/431624.shtm" target="_blank"><u>发表报告</u></a>，成功分离出国内正在爆发的非洲猪瘟病毒流行株。研究人员在上海科技大学电镜平台上连续进行了 4 个月高质量的数据收集，获得了超过 100 TB 的海量数据，采用单颗粒三维重构方法首次解析了非洲猪瘟病毒全颗粒的三维结构，阐明了非洲猪瘟病毒独有的 5 层（外膜、衣壳、双层内膜、核心壳层和基因组）结构特征。研究发现，病毒颗粒包含 3 万余个蛋白亚基，组装成直径约为 260 纳米的球形颗粒，是目前近原子分辨率结构得到解析的最大病毒颗粒。
+➜Windows Phone 8.1 应用商店将在 12 月关闭
+https://www.solidot.org/story?sid=62284	25198
+微软<a href="https://support.microsoft.com/en-us/help/4340298/support-options-for-nokia-lumia-and-feature-phone-devices"><u>宣布</u></a> Windows Phone 8.1 应用商店将于 12 月 16 日关闭。微软称，Windows Phone 8.1 系统的支持在 2017 年 7 月 11 日结束，作为支持流程结束的一个顶点，Windows Phone 8.1 将在 12 月 16 日关闭，使用 Windows Phone 8.1 的 Lumia 手机以及已下载的应用在这个日期之后仍然可能继续工作，但用户可能会体验到功能上的削弱：无法再下载新应用，不再有更新，无法再重新安装应用。部分型号的 Lumia 手机可以升级到 Windows 10 Mobile，但用户必须在 12 月 16 日前下载 Windows 10 Mobile 的升级向导应用。
+➜Realtek Wi-Fi 芯片驱动漏洞能触发内核的缓冲溢出
+https://www.solidot.org/story?sid=62285	27092
+内核的一个潜在高危漏洞允许附近恶意设备<a href="https://arstechnica.com/information-technology/2019/10/unpatched-linux-flaw-may-let-attackers-crash-or-compromise-nearby-devices/" target="_blank"><u>利用 Wi-Fi 信号触发崩溃或完整控制机器</u></a>。漏洞位于支持 Realtek Wi-Fi 芯片的 RTLWIFI 驱动内，当一台有  Realtek Wi-Fi 芯片的设备在恶意设备的无线电范围内，漏洞能触发内核的缓冲溢出。漏洞利用可能导致操作系统崩溃或允许黑客完整控制计算机。漏洞可以上溯到 2013 年发布的 Linux kernel 3.10.1。只要你使用 Realtek (RTLWIFI)驱动并启用了 Wi-Fi ，无需受害者的任何操作，漏洞能近距离远程触发。开发者已经递交了补丁，预计会在未来几天或几周整合到内核。使用  Realtek Wi-Fi 芯片的 Android 设备可能也受到影响。
+➜Bazel 1.0 发布
+https://www.solidot.org/story?sid=62286	29201
+Google <a href="https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html"><u>宣布</u></a>它的开源构建系统 Bazel 正式释出 1.0 版。Bazel 始于 Google 对高可伸缩构建的需求，2015 年开源，Google 多个大型开源项目如 Angular 和 TensorFlow 都使用了 Bazel。用户报告在切换到  Bazel 之后测试时间减少到三分之一，构建速度提高了 10 倍。Google 表示，从 1.0 开始 Bazel 将使用版本控制，1.x 版本代表着向后兼容于 1.0；Bazel 团队将提供长期支持。
+➜TikTok 将制定美国内容审核政策
+https://www.solidot.org/story?sid=62287	32091
+随着抖音海外版 TikTok 继续在美国快速发展，关于如何更好地解释内容审核方式，该公司正面临着挑战。例如，为什么这款短视频应用要审查香港抗议者的内容，但却不审查美国的政治内容？为什么禁止政治广告，但却支持 #turmp2020 和 #maga 这样的标签？这两个标签分别已有数百万，甚至数亿浏览量。到目前为止，TikTok 都没有很好地回答这些问题。现在，它希望成立新的专家委员会来<a href="https://techcrunch.cn/2019/10/16/tiktok-taps-corporate-law-firm-kl-gates-to-advise-on-its-u-s-content-moderation-policies/"><u>改变这种状况</u></a>，该委员会将帮助 TikTok 制定内容审核政策，提升围绕这些话题，以及影响热门社交媒体平台的其他话题的透明度。
+➜研究显示睾丸激素能显著提升女性的运动成绩
+https://www.solidot.org/story?sid=62288	34360
+发表在《British Journal of Sports Medicine》期刊上的<a href="http://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2018-100525"><u>研究</u></a>显示提高睾丸激素水平能显著提升女性的运动成绩，国际田径联合会（IAAF）<a href="https://www.theguardian.com/science/2019/oct/15/testosterone-boosts-womens-athletic-performance-study-shows"><u>宣布</u></a>它将对参加中距离赛事的跨性别女运动员实施睾丸激素水平的上限。最新研究证实，睾丸激素能在相对较短的时间内显著提升年轻女性耐力和肌肉量。这项随机对照试验在 10 周内让 48 名 18 至 35 岁的健康女性随机的服用 10mg 睾丸激素乳膏或 10mg 安慰剂，随后测试了睾丸激素对有氧运动性能的影响，结果显示影响显著。国际田径联合会要求，跨性别女运动员必须将其血液中的天然睾丸激素水平保持在每升 5 nanomoles 以下，才能参与女性类别比赛。
+➜美国伯克利投票禁止面部识别
+https://www.solidot.org/story?sid=62289	35664
+伯克利成为加州第三个美国第四个<a href="https://www.eff.org/deeplinks/2019/10/victory-berkeley-city-council-unanimously-votes-ban-face-recognition" target="_blank"><u>禁止政府使用</u></a>面部识别技术的城市。在得到广泛支持之后，市议会投票一致通过了议员 Kate Harrison 今年初提出的法规。麻省的 Somerville 是美国东海岸第一个禁止政府使用面部识别的城市，西海岸的湾区有三座城市，旧金山和奥克兰以及现在的伯克利。新的法规还遵守了加州的一项州法律——A.B. 1215，从 2020 年 1 月 1 日起警察暂停三年在佩戴的摄像头上采用面部识别技术。
+➜微芯科技在其 PolarFire FPGA 中加入 Risc-V 核心
+https://www.solidot.org/story?sid=62290	40897
+微芯科技( Microchip)公司在其可编程序阵列产品 PolarFire FPGA 中<a href="https://www.electronicsweekly.com/open-source-engineering/risc-v-day-microchip-adds-risc-v-hard-ip-polarfire-fpgas-2019-10/"><u>加入了</u></a>开源指令集架构 Risc-V 核心，新的产品被称为 PolarFire SoC。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构，它允许任何人设计、制造和销售 RISC-V 芯片和软件，因此越来越多的企业对它产生了兴趣。 PolarFire SoC 搭配了五个 64 位 RISC-V 核心，四个核心执行 RV64GC 指令集，第五个核心执行 RV64IMAC 指令集，五个核心能连贯操作。
+➜加州大型断层观察到开始移动
+https://www.solidot.org/story?sid=62291	42783
+加州理工的科学家在《科学》期刊上报告，加州的一个大型断层<a href="https://www.stripes.com/news/us/unprecedented-movement-detected-on-california-earthquake-fault-capable-of-8-0-temblor-1.603516/quake-1.603517"><u>首次观察到开始移动</u></a>。该断层能产生震级八级的地震，但由于地震存在众多不确定性，这一现象意味着什么地震学家还不清楚。科学家利用卫星雷达成像发现，Mojave 沙漠北部边缘的 Garlock 断层突然有变化。领导这项研究的加州理工地球物理学助理教授 Zachary Ross 说，“我们不知道什么意思。”在这之前科学家没有观察到该断层有任何移动现象。
+➜小规模调查称四成大学生每天上网超过 5 小时
+https://www.solidot.org/story?sid=62292	44005
+中国青年网校园通讯社围绕手机上网话题，对全国 1220 名大学生进行问卷调查。<a href="https://www.thepaper.cn/newsDetail_forward_4710234" target="_blank"><u>结果显示</u></a>：超 4 成学生每天上网超过 5 小时，超 8 成学生上网主要是社交聊天，多数学生认为手机上网让移动支付、信息获取、社交方式更便捷，近 9 成学生担心网络安全问题，多数学生期待 5G 的网速能够更快、更方便于学习生活。调查结果显示，41.56% 的大学生每天手机上网时间超过 5 个小时。上网时，83.93% 的学生主要是在社交聊天，其次是查阅资料和听歌，分别占 62.46% 和 58.61%。
+➜研究称给狗吃生肉对狗对你都有害
+https://www.solidot.org/story?sid=62293	44753
+宠物主人通常以为，给狗或猫吃生肉比吃加工食品要天然得多。但对生肉样本的研究发现，其中含有大量有害细菌，部分菌株可能会将疾病传播给宠物及其主人。<a href="https://www.sciencemag.org/news/2019/10/want-put-your-dog-raw-meat-diet-it-could-be-dangerous-it-and-you"><u>研究人员报告说</u></a>，他们分析样本中的肠道细菌水平超过了欧盟宠物食品安全标准，63% 的样本发现了耐药菌菌株。沙门氏菌是一种高度传染性的病原体，是人类和宠物中最常见中毒源之一，4% 的样本发现了沙门氏菌。研究人员称，生肉宠物食品的风险比想象的高，作者建议处理食品时勤洗手，了解可能的细菌性疾病风险。

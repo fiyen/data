@@ -1,0 +1,64 @@
+➜Wayland 1.0发布，尚未准备替代X11
+https://www.solidot.org/story?sid=31912	5040
+显示服务器项目Wayland<a href="http://lists.freedesktop.org/archives/wayland-devel/2012-October/005967.html">发布了1.0版</a>，但这并不意味着Wayland开发完毕准备替代X11 Serve了。Wayland<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTIxMzA">还有许多工作要做</a>，1.0只标志着API/协议冻结，未来发布的版本将与Wayland 1.0保持向后兼容性。Wayland何时真正替代X11 Serve尚有待时日，如流行发行版 Ubuntu至少要等到Ubuntu 13.04甚至可能13.10才<a href="__SLASHLINK__" sect="linux" sid="12/08/11/1420221" sn="article" tid="111">可能支持Wayland</a>。Wayland项目始于2008年，作者是前Red Hat工程师Kristian Høgsberg。
+➜亚马逊被指远程删除用户Kindle电子书
+https://www.solidot.org/story?sid=31913	7200
+英国亚马逊在未给出详细解释的情况下<a href="http://www.examiner.com/article/amazon-wipes-user-s-kindle-to-remind-us-we-license-don-t-own-digital-content-1">关闭了</a>一位客户的帐号，远程删除了客户Kindle电子书阅读器中的内容。<i>
+挪威作家Martin Bekkelund在其博客上描述了他的朋友Linn Jordet Nygaard<a href="http://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/">与英国亚马逊客服之间的通信</a>，公布了双方的电子邮件内容。亚马逊客服指责Linn的帐号与另一个已经因为违反亚马逊政策而关闭的帐号有关联，但Linn回信称她根本不知道有旧帐号，要求提供细节，但遭客服拒绝，称希望另一个零售商能满足她的需求。</i>
+亚马逊北维吉尼亚州数据中心周一<a href="http://status.aws.amazon.com/?t#NA_block">发生宕机</a>，导致Netflix、Reddit、Instagram和Heroku等网站短时间内下线。
+➜Mono 3.0发布
+https://www.solidot.org/story?sid=31914	8400
+微软.NET开源实现Mono<a href="http://tirania.org/blog/archive/2012/Oct-22.html">发布了3.0版</a>，支持部分.NET平台最近加入的重要特性，<a href="http://arstechnica.com/information-technology/2012/10/mono-3-0-debuts-casting-a-wider-net/">包括</a>：Mono 3.0的C#编译器支持异步编程（.NET 4.5特性）；整合微软ASP开源Web开发工具如 <a href="http://msdn.microsoft.com/en-us/library/system.json(v=vs.95).aspx">System.Json</a>，ASP.NET的Web Pages、<a href="http://www.asp.net/mvc/tutorials/older-versions/overview/asp-net-mvc-overview">MVC 4</a>，<a href="http://www.asp.net/entity-framework">Entity Framework关系映射</a>和<a href="http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx">Razor视图引擎</a>；改进垃圾收集，增强Mac OS X和iOS支持等等。
+➜三星停止向苹果供应LCD面板
+https://www.solidot.org/story?sid=31915	10440
+三星决定<a href="http://www.geek.com/articles/mobile/samsung-terminates-lcd-contract-with-apple-20121022/">终止</a>为苹果设备供应LCD面板的合同，意味着从明年开始iPad、iPod、iPhone和Mac设备将不再使用三星LCD面板。三星此举有两方面的原因：一方面是苹果一直努力确保不过于依靠单一的供应商，通过采购其它供应商的产品降低对三星的依赖；另一方面，苹果一贯要求降低价格，意味着向苹果供应显示屏在商业上的价值并不大。苹果和三星之间展开的专利诉讼让双方的关系日益冷却，但三星仍然是苹果的头号LCD面板供应商，今年上半年三星供应了超过1500万面板，LG供应1250万，夏普供应280万。
+➜Google计划发布10英寸Nexus平板，分辨率2560×1600
+https://www.solidot.org/story?sid=31916	12000
+The Next Web<a href="http://thenextweb.com/google/2012/10/21/revealed-everything-that-google-will-announce-at-its-android-event-on-october-29/">引用消息人士的话称</a>，Google将与三星合作发布10英寸分辨率2560×1600的Nexus平板。Google将在10月29日的发布会上宣布这一消息，同时它还将宣布LG制造的新款Nexus智能手机，以及Android 4.2操作系统。平板代号Manta，分辨率2560×1600(16:10)相当于每英寸像素数300，超过了new iPad的264 PPI。新款智能手机将是LG Nexus 4，流言称它配备了1.5GHz高通APQ8064 Snapdragon处理器，4.7英寸1280×768显示屏， 2GB内存，16GB存储空间，800万像素后置摄像头，2100mAh电池，运行 Android 4.2系统。
+➜微软呼吁企业从XP升级到新操作系统
+https://www.solidot.org/story?sid=31917	18720
+Windows XP在发布11年之后仍然是世界第二大操作系统，在微软准备于本周发布Windows 8之际，公司官方博客呼吁企业<a href="http://blogs.windows.com/windows/b/business/archive/2012/10/19/identifying-your-unique-windows-8-adoption-path.aspx">开始迁移XP</a>。微软列出的主要理由是将于2014年4月停止支持Windows XP。微软认为企业的迁移战略可以是全部迁移到Windows 8或部分升级到Windows 7部分升级到Winona 8。对于Windows Vista用户，微软认为现在是时候计划升级到 Windows 8了。
+➜Zuckerberg称如没有Facebook他会成为微软工程师
+https://www.solidot.org/story?sid=31918	20700
+Facebook CEO扎克伯格（Mark Zuckerberg）与 Y Combinator联合创始人Paul Graham在斯坦福大学举行的活动上<a href="http://allfacebook.com/mark-zuckerberg-paul-graham-y-combinator_b102730">谈论了</a>微软工作，创业建议和信息分享。扎克伯格<a href="http://news.cnet.com/8301-1023_3-57536659-93/zuckerberg-in-10-years-folks-will-share-1000-times-what-they-do-now/">认为</a>，人们在社交网站上的信息分享数量增长速度仿佛摩尔定律，每年会翻一番，十年内将会增长到1000倍（确切数字是1024）。扎克伯格说，如果没有创办Facebook，他可能会加盟微软寻找一份软件工程师的工作，表示一直尊敬微软，称许多哈佛大学的毕业生都去了微软。扎克伯格在创办Facebook后从哈佛缀学。
+➜代数方程将无线网络带宽提高一个数量级
+https://www.solidot.org/story?sid=31919	23280
+MIT电子研究实验室Muriel Medard教授领导的团队找到了一种新技术，<a href="http://www.technologyreview.com/news/429722/a-bandwidth-breakthrough/">能将无线网络的带宽提高一个数量级</a>，新方法不需要增加基站，利用更多无线频谱，或增大发射功率，只需要使用代数方程。<i>
+手机和WiFi无线网络由于干扰或拥堵，传输的数据包经常会发生丢失，丢包率一般会达到3%。丢包会造成延迟，需要产生新的数据流量去取代旧的数据包，从而进一步加剧拥堵问题。新的技术改变了数据包发送方式，不是发送数据包而是发送描述一系列数据包的代数方程。如果一个数据包丢失，接收信号的设备不要求网络重新发送数据，而是自行解决丢包。因为方程式简单且线性，手机、路由器或基站的处理负荷微乎其微。在实际测试中，研究人员将丢包率2%的1Mbps连接速度提高到16Mbps；在丢包率5%的快速移动环境中，新技术将连接速度从0.5Mbps增加到13.5 Mbps。新技术没有改进零丢包环境的网速，但在真实世界中零丢包无线网络几乎不存在。</i>
+➜诺基亚排他性决策的代价
+https://www.solidot.org/story?sid=31920	25920
+2011年2月，诺基亚宣布放弃Symbian和其它自主研发的手机操作系统，实行战略转移，不顾一切的投入到微软Windows Phone阵营。7个季度之后，诺基亚的Lumia手机出货量950万部，而Symbian手机售出9600万部，出货量大幅下跌，上季度仅仅只有340万部。Symbian手机的坠落式下跌并不出人意料，但下跌速度超过了市场预期，诺基亚未能从功能手机平稳过渡到智能手机。它的失败不在于选择替代智能手机系统，而在于<a href="http://www.asymco.com/2012/10/22/nokias-price-for-exclusivity/">排他性选择Windows Phone</a>。通过与微软达成排他式协议，诺基亚获得了10亿美元的平台支持费，相当于每部Lumia手机微软补贴了86美元。但如果不签署排他性协议，Symbian的下滑能达到市场预期（两年1.5亿部），以平均每部手机200美元计算，诺基亚因此损失了90亿美元。如果每部手机的利润率33%，诺基亚放弃了三倍于微软平台支持费的利润。
+➜让旅行者飞船成为可能的数学家
+https://www.solidot.org/story?sid=31921	28440
+NASA的两艘航海家号飞船在发射35年之后已经抵达了太阳系的边缘，其中<a href="http://zh.wikipedia.org/wiki/%E8%88%AA%E6%B5%B7%E5%AE%B61%E8%99%9F">航海家一号</a>距离地球184亿千米，它将成为第一个离开太阳系的人造飞行器。但如果没有一位数学家的三体问题研究成果，<a href="http://www.bbc.co.uk/news/science-environment-20033940">航海家号根本不可能发射</a>。<i>
+1961年，25岁的UCLA研究生Michael Minovitch对大学的新IBM 7090计算机兴奋不已，它是当时世界上最快的计算机，他于是决定在计算机上研究天体力学中的最大难题“<a href="http://en.wikipedia.org/wiki/Three-body_problem">三体问题</a>”。三体问题是指三个天体如太阳行星和小行星或彗星在太空穿梭时引力对彼此运动互相作用的问题。自艾萨克牛顿以来，这个问题一直困扰着天文学家。利用计算机，Minovitch的迭代模型取得了一些突破。他发现，一艘飞船飞经绕日行星，可以在不使用任何火箭燃料的情况下窃取行星的些许轨道速度加速离开太阳。1965年夏天，Minovitch考虑是否可以将他的发现运用于实践。结果出人意料，他发现到1970年代后期，木星、土星、天王星和海王星都将位于太阳的同一侧，如果一艘飞船能在1977年发射升空，它将可以在12年内经过四大行星，类似的机会要过176年才会再次发生。在Minovitch的游说和高层的干预下，美国开始了航海家号计划。
+</i>
+➜中国部分高校研究生数量超过本科生
+https://www.solidot.org/story?sid=31922	28800
+武汉大学中国科学评价中心研究<a href="http://edu.people.com.cn/kaoyan/n/2012/1022/c112975-19342824.html">发现</a>，中国有30多所高校每年研究生的招生计划和在校生规模都在不断扩大，部分已超过本科生。
+2012年，武汉大学研究生招生规模7704人，已超过本科生7650人的招生计划。华中科技大学今年研究生招生规模7652人，本科生7500人。北大清华两校的研究生总数已超过本科生，其中清华大学本科生与研究生比例为0.61:1。2013年，全国高校的这一趋势还将扩大。研究生扩招始于2003年，当年全国高校共招收研究生26万人，今年高校研究生招生计划则达584416人，10年间翻了一番。然而，近年来，硕士生就业率连续下降。2009年至2011年，硕士生的就业率甚至连续三年低于本科生。研究生的质量也令人堪忧。2008年，15.7%的研究生导师指导的在读研究生在10人以上（含10人），还有近1%的导师指导的在读研究生在20人以上，甚至达到30人。而美国高校中每个导师同时指导的研究生人数一般为2—3人，5—6人就已属较高水平。
+➜谷歌中国的死亡螺旋
+https://www.solidot.org/story?sid=31923	31800
+谷歌在中国市场<a href="http://seekingalpha.com/article/940481-google-s-death-spiral-in-china">遭到了多方面的打击</a>：搜索市场份额从7月的5.77%降至10月的 4.12%，从第三落到第四（次于百度奇虎搜狗，三者分别为73.48%，9.79%，7.81%），日益边缘化；移动地图份额从第一季度的23.2%降至第二季度的17.5%，即将被百度地图赶上（17.3%），落后于高德地图的25.7%；Google的IP地址最近两天遭到了防火墙的严重干扰，功能受限。它与北京之间的糟糕关系让它的中国业务面临难以预测的障碍。
+➜苹果，英特尔和ARM
+https://www.solidot.org/story?sid=31924	34920
+苹果和三星正在智能手机市场展开一场真刀真枪的战役，但一旦涉及到处理器，两家公司却仿佛好得不能再好，因为三星是苹果基于ARM架构的芯片独家供应商。芯片巨人为什么<a href="http://apple.slashdot.org/story/12/10/22/2129217/apple-arm-and-intel">失去了为苹果提供ARM芯片的机会</a>？Jean-Louis Gassée<a href="http://www.mondaynote.com/2012/10/21/apple-arm-and-intel/">认为</a>：<i>
+首先是作为x86架构的信徒，英特尔深信ARM架构没有未来，在改进制造工艺提高处理器性能方面英特尔期望拥有完全的控制权。第二是骄傲，如果为苹果生产ARM处理器，英特尔必须接受苹果的指令，成为卑微的工匠。英特尔知道如何设计和制造标准零件，但对于生产定制芯片缺乏经验。最重要的原因是金钱，英特尔的芯片产品价格从低端Core i3处理器的117美元到高端Core i7处理器的999美元，相比之下苹果A6处理器的价格估计只有17.50美元。英特尔从生产A6芯片中获取的利润远低于X86处理器。因此在英特尔眼中，这将破坏其商业模式。</i>
+➜日本将推出移动即时传译服务
+https://www.solidot.org/story?sid=31925	36300
+日本NTT DoCoMo公司宣布从11月1日起<a href="http://www.ytwhw.com/cn/2012/1023/130710.html">推出</a>电话即时传译服务，可让日语电话用户与操普通话、英语或韩语即时沟通。语音翻译时差只有数秒，虽然对谚语等可能有翻译差距，但不致于鸡同鸭讲。用户可免费下载相关<a href="http://www.nttdocomo.com/pr/2012/001611.html?x=20&amp;y=15">智能手机应用程序</a>，日本固网电话亦可用，稍后还可能推出使用智能手机摄像头翻译餐单的服务。即时传译将在晚些时候支持法语，德语，印度尼西亚语，意大利语，葡萄牙语，西班牙语和泰语等语言。
+➜中国政府展开莫言作品维权行动
+https://www.solidot.org/story?sid=31926	37080
+中国政府<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/10/121023_moyan_copyrights.shtml">宣布</a>为新晋诺贝尔文学奖得主发起维权行动，范围涉及线上线下。<i>
+中国新闻出版总署版权司、北京市新闻出版局、莫言作品版权方北京精典博维公司、以及出版方作家出版社等在北京召开新闻发布会，针对莫言作品版权问题给予公告说明。北京精典博维公司称，侵权莫言作品已经导致精典博维公司造成了高达千万元人民币的损失。该公司总经理陈黎明说，目前在中国市面上实体图书以及电子阅读网站上推出的莫言图书，大部分没有获得莫言正式的续约授权，或授权已过期。公司总监陈望治表示，对于莫言作品的版权维权会“先礼后兵”，不仅会从法律方面着手，还会从市场方面打击盗版侵权者。</i>
+➜人类ABO血型继承自遥远灵长类祖先
+https://www.solidot.org/story?sid=31927	38520
+<a href="http://zh.wikipedia.org/wiki/ABO%E8%A1%80%E5%9E%8B%E7%B3%BB%E7%BB%9F">ABO血型系统</a>是人类最早认识也是最为重要的血型系统。发表在PNAS上的<a href="http://www.pnas.org/content/early/2012/10/17/1210603109.abstract">一篇论文</a>称，人类ABO血型与灵长类动物共有，是在数百万年前从一个共同祖先身上继承下来。研究人员分析了各种灵长类物种的ABO血型遗传数据，确定带来A型和B型血型的两个氨基酸在人类、猩猩、长臂猿、猕猴和狒狒身上相同。<a href="http://chinese.eurekalert.org/zh/pub_releases/2012-10/aaft-hia101912.php">最新分析表明</a>血型很可能最初出现在一个遥远的灵长类祖先身上，然后在人类和长臂猿以及旧大陆猴物种身上延续了数百万年。
+➜中国制造商开发E-Ink Android智能手机
+https://www.solidot.org/story?sid=31928	40800
+中国电子书阅读器生产商<a href="http://www.onyx-international.com/">广州文石</a>正在<a href="http://androidos.in/2012/10/e-ink-android-phone-promises-a-week-long-battery-life/">开发</a>（驱动之家<a href="http://news.mydrivers.com/1/244/244170.htm">报道</a>）一部E-Ink Android智能手机，充电一次可使用一周，如果价格合适的话非常适合对手机功能只有简单需求的用户。手机还处在原型机阶段，黑白屏幕，屏幕刷新率很低，支持WiFi和3G功能，提供了浏览器、电子书阅读器和微博等功能。报道称，该公司计划在明年某个时间推出这款手机。
+➜罗永浩要进入智能手机行业？
+https://www.solidot.org/story?sid=31929	42000
+传销培训师、英语培训师、牛博网创始人和老罗英语培训创办人<a href="http://zh.wikipedia.org/wiki/%E7%BD%97%E6%B0%B8%E6%B5%A9">罗永浩</a>在《创业邦》杂志上<a href="http://magazine.cyzone.cn/articles/201210/2718.html">表示要进军手机行业</a>，宣布将于12月1号发布基于 Android的智能手机，定价在2500元到3000元之间。他说，<i>
+“我把市面上所有主流的手机产品全部拿过来研究了一下，很容易挑出它们的毛病。原因很复杂，有的时候它有这个毛病是为了用这个毛病来解决另外一个更大的毛病。在任何领域里面都是笨蛋多，所以在手机领域里面，笨蛋多一点都不奇怪，这才能解释为什么乔布斯这样的人出来以后，这些做了几十年手机的厂商全都歇了，就是因为这个领域本来就是一群笨蛋在赚钱，然后出来了一个聪明人，大家就自然歇了，没有办法了。”</i>
+他的话令人想起Linux作者Linus Torvalds不久前的<a href="__SLASHLINK__" sect="linux" sid="12/10/12/0915259" sn="article" tid="8">评论</a>，“任何时候你有了一个压倒一切的想法，并作为一个更卓越的意识形态推动你的想法，你会走到错误一边。现实是复杂的，不服从一剂良药解万愁的问题解决模式，现实的问题需要大量艰苦工作，需要在细节上做到准确无误。”

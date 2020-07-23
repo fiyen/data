@@ -1,0 +1,15 @@
+➜一点之间数据尽毁
+https://www.solidot.org/story?sid=47215	34529
+<a href="/~mtjs">mtjs</a> 写道 "<i>微软宏病毒又回来啦，最近，一种新的勒索形式借着古老的Windows word文档内建的宏操作<a href="http://thehackernews.com/2016/02/locky-ransomware-decrypt.html" target="_blank">在全球扩散</a>，骇客们利用社工方法，发送对受害人有吸引力的邮件，邮件里关键的是word附件，新的勒索形式是靠Microsoft 365里的宏操作（主要是word文档），一旦受害人打开文档，并允许宏操作提示执行，该宏将从远端服务器下载勒索软件并运行，只要这个勒索软件开始运行，你电脑里的所有文件包括联网的文档将全部被加密锁死，所有的文件全变成.locky后缀的加密文件。在这之后你能做的只有两种：①哭吧然后交钱②哭吧然后……就没有了。这种传播形式在今年二月开始全球蔓延，重灾区在欧洲和中东，这一勒索软件的恐怖之处是连你的云端数据如果可能也会完蛋，所以最好有第三种备份形式。据发现这一病毒的<a href="https://medium.com/@networksecurity/locky-ransomware-virus-spreading-via-word-documents-51fcb75618d2#.iazaavt2d" target="_blank">Kevin Beaumont</a>介绍，2月17日刚发现时只有3种杀软可以查杀，24小时后主流杀软已经都能发现该恶意操作的存在。"</i>
+➜美国司法部称苹果的姿势是为了营销
+https://www.solidot.org/story?sid=47216	50896
+苹果本周公开拒绝帮助FBI开发特定固件解密San Bernardino袭击案枪手Syed Rizwan Farook的iPhone手机，理由是为了保护客户的数据安全和隐私。美国司法部<a target="_blank" href="http://www.reuters.com/article/apple-encryption-doj-idUSKCN0VS2GC"><u>提出动议</u></a>寻求强迫苹果遵守法庭命令，它将苹果的不合作姿态形容为一种市场营销策略。相关听证会将在3月22日举行。另一个相关消息是FBI本来可以获得手机的备份数据，无需苹果去开发后门固件，是它自己搞砸了。iPhone手机的一项安全功能是在多次输错密码后自动抹掉设备上的数据，确保数据安全。但iPhone还有一个安全方面的弱点：在连上WIFI的情况下会定期连接苹果服务器上传数据备份到 iCloud，这个备份数据苹果是可以直接访问的。然而枪手的手机在被执法机构控制不到24小时内，<a target="_blank" href="http://www.buzzfeed.com/johnpaczkowski/apple-terrorists-appleid-passcode-changed-in-government-cust#.ppX21Q7aV"><u>它的Apple ID被人改动了</u></a>，结果是手机上的数据没有备份到苹果云端，而FBI不得不请求法庭命令苹果开发后门固件，关闭多次输错密码清空数据的功能，好让它暴力破解密码。而苹果认为创建后门会危及数百万用户的隐私，因此予以拒绝。<br>
+➜Vivaldi准备发布第一个稳定版
+https://www.solidot.org/story?sid=47217	53983
+在Opera宣布要卖掉自己之际，它的联合创始人另立门户开发的浏览器<a target="_blank" href="https://vivaldi.com/"><u>Vivaldi</u></a>正准备发布第一个稳定版本。谭咏文（Jon von Tetzchner）<a target="_blank" href="http://www.networkworld.com/article/3035474/software/opera-founder-talks-up-new-vivaldi-browser.html">接受采访时说</a>， Vivaldi背后的理念与Opera浏览器类似，是为了服务于高端用户。浏览器开发的总体趋势是将越来越多的功能转移到后台，使得体验尽可能的无缝和透明。Vivaldi的目标用户是那些对浏览器现状不满的资深Opera和Firefox用户。Vivaldi刚刚发布了beta2。
+➜Tor节点数量大增
+https://www.solidot.org/story?sid=47218	55875
+<div align="center"><img src="http://img.solidot.org/0/386/li1PcLtVrmDHQ.jpg" align="" height="299" width="563"><br>
+</div>
+<br>
+Tor匿名网络由分散在全世界的服务器节点构成，每位Tor用户的流量会至少随机分配经过三个节点去隐藏真正的来源。Tor的匿名性的关键在于节点数量。过去几天一个令人瞩目或者不可思议的现象是：Tor匿名网络节点数量增加了2万以上，<a target="_blank" href="http://www.profwoodward.org/2016/02/what-just-happened-on-tor-network.html"><u>从4万增加到了6万</u></a>。但整个Tor网络的流量没有出现相比例的增长。谁设立了这些节点，是出于什么目的，目前还无法判断。

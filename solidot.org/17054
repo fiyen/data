@@ -1,0 +1,20 @@
+➜USTC LUG 新增 OpenPGP Keyserver
+https://www.solidot.org/story?sid=49642	5042
+<a href="/~hosiet">hosiet</a> 写道 <i>"
+<a title="USTC LUG" target="_blank" href="https://lug.ustc.edu.cn">USTC LUG</a> 即日起开始维护 <a title="sks.ustclug.org" target="_blank" href="http://sks.ustclug.org">sks.ustclug.org</a>，且已加入SKS Keyserver Pool。用户可以在 <a title="SKS Keyservers" target="_blank" href="https://sks-keyservers.net/status/ks-status.php?server=sks.ustclug.org">sks-keyservers.net</a> 上找到监控信息，并在 <a title="SKS OpenPGP Keyserver statistics" target="_blank" href="https://sks.ustclug.org/pks/lookup?op=stats">sks.ustclug.org</a> 网站上找到统计信息。
+<p></p>
+<p>GnuPG 用户可以设置 keyserver 服务器为 hkp://sks.ustclug.org 来直接使用。如：
+gpg --keyserver hkp://sks.ustclug.org --refresh-keys</p>
+<p>具体使用方法请见网站内容与这篇<a title="新增 OpenPGP Keyserver" target="_blank" href="https://servers.blog.ustc.edu.cn/2016/08/new-openpgp-keyserver/">公告文章</a>。"</i>
+➜卷入排放丑闻的大众工程师承认有罪
+https://www.solidot.org/story?sid=49643	52203
+62岁的大众工程师 James Robert Liang <a target="_blank" href="http://arstechnica.com/cars/2016/09/volkswagen-engineer-pleads-guilty-in-emissions-scandal/"><u>承认</u></a>合谋欺骗政府，犯有通信欺诈罪，违反了清洁空气法。Liang从1983年到2008年在德国大众公司的柴油引擎开发部工作了25年，他目前居住在加州。大众公司去年被发现旗下的柴油引擎汽车利用软件欺骗美国的尾气排放测试。根据认罪协议，Liang等人在2006年开发的EA 189柴油引擎是整个事件的焦点，当工程师认识到他们无法同时满足满足消费者期望和美国空气质量标准，他们开始寻求利用非法软件。2008年晚些时候，Liang移居美国帮助处理公司新柴油引擎的认证、测试和保修问题。从2009年到丑闻曝光的2015年，大众柴油汽车使用了这种非法软件去控制测试时的尾气排放。
+➜研究驳斥了食物掉地上的“五秒规则”
+https://www.solidot.org/story?sid=49644	54773
+研究人员给出了全面的证明，<a target="_blank" href="http://arstechnica.com/science/2016/09/its-official-the-five-second-rule-is-down-for-the-count/"><u>驳斥了</u></a>所谓食物掉地上只要不超过五秒钟可以捡起来继续吃的“五秒规则”。<a target="_blank" href="http://aem.asm.org/content/early/2016/08/15/AEM.01838-16"><u>研究报告</u></a>发表在《Applied and Environmental Microbiology》期刊上。研究人员分析了多种地板材料、食物类型、污染方式和停留时间，发现食物很容易在五秒内受到污染，部分情况下食物被污染只需要不到一秒钟时间。但五秒规则背后的理论仍然站得住脚——在污染表面停留的时间越长污染将会增加。数据显示，接触时间确实影响细菌转移，接触的时间越长转移的细菌越多。但一些转移能在小于1秒的瞬间完成，五秒规则并不成立。
+➜Android曝出两个高危漏洞
+https://www.solidot.org/story?sid=49645	55268
+Android系统本周曝出了两个新的高危漏洞，影响大量设备，很多设备可能永远得不到修复的机会。第一个漏洞是 Google Project Zero安全团队成员Mark Brand<a target="_blank" href="https://bugs.chromium.org/p/project-zero/issues/attachment?aid=249763"><u>披露的</u></a>，编号CVE 2016-3861，该漏洞允许攻击者执行恶意程序或本地提权。Brand称该漏洞极端危险，因为它可以通过多种方式利用。他同时披露了漏洞利用代码。第二个漏洞<a target="_blank" href="https://threatpost.com/google-shuts-down-potentially-massive-android-bug/120393/"><u>编号CVE-2016-3862</u></a>，类似Stagefright，能通过发送恶意图像文件利用，其中恶意代码能被隐藏在图像嵌入的Exif数据中。受害者无需任何操作就能遭到入侵。
+➜岭澳核电站警报系统被误关3个月
+https://www.solidot.org/story?sid=49646	57617
+《南华早报》<a target="_blank" href="http://www.scmp.com/news/hong-kong/health-environment/article/2018235/no-harm-done-alarm-chinese-nuclear-plant"><u>报道</u></a>，广东大亚湾核电站和岭澳核电站核安全委员会披露岭澳的一个警报系统被误关3个月。岭澳位于深圳龙岗区大鹏半岛，距离大亚湾1公里。委员会披露了三次“零级”意外事件，其中两次涉及人为意外。根据国际核子事故评级，意外事件共分为8个级别，第7级最为严重。零级则显示事件“有违”正常程序，但“没有安全重要性”。警报关闭是在5月24日一名为岭澳二期工程工作的工人发现的。警报系统随后立即被重启，在关闭期间备份警报系统未发现不正常情况。委员会被告知，警报系统可能是在2月的一次例行维护时被意外关闭的。

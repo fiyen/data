@@ -1,0 +1,64 @@
+➜超酷算法：基数估计
+https://www.solidot.org/story?sid=41461	7968
+<a href="http://blog.jobbole.com/821/">程序员</a> 写道<i> "假设你有一个很大的数据集，非常非常大，以至于不能全部存入内存。这个数据集中有重复的数据，你想找出有多少重复的数据，但数据并没有排序，由于数据量太大所以排序是不切实际的。你如何来估计数据集中含有多少无重复的数据呢？这在许多应用中是很有用的，比如数据库中的计划查询：最好的查询计划不仅仅取决于总共有多少数据，它也取决于它含有多少无重复的数据。如何解决？且看 Nick Johnson 的这篇讲解基数估计算法的<a href="http://blog.notdot.net/2012/09/Dam-Cool-Algorithms-Cardinality-Estimation" target="_blank">文章</a>（<a href="http://blog.jobbole.com/78255/" target="_blank">译文</a>）。
+"</i>
+➜Firefox 33发布
+https://www.solidot.org/story?sid=41462	10493
+Mozilla发布了<a target="_blank" href="https://www.mozilla.org/en-US/firefox/33.0/releasenotes/"><u>桌面版</u></a>和<a target="_blank" href="https://www.mozilla.org/en-US/mobile/33.0/releasenotes/"><u>Android版</u></a>的Firefox 33。新版的主要变化是支持思科的开源H.264编解码<a target="_blank" href="http://www.solidot.org/story?sid=40460"><u>OpenH264</u></a>，改进地址栏搜索，开始页和新标签页的搜索建议，优化<a target="_blank" href="https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/"><u>JavaScript字符串</u></a>减少内存占用，新的内容安全策略后端，支持通过HTTPS连接HTTP代理，改进会话恢复的可靠性，等等。Firefox for Android还支持将视频内容<a target="_blank" href="https://blog.mozilla.org/blog/2014/10/14/send-videos-from-firefox-for-android-straight-to-your-tv/"><u>发送到电视</u></a>。
+➜美国公司利用的税收漏洞将被堵上
+https://www.solidot.org/story?sid=41463	12765
+爱尔兰在国际压力之下<a target="_blank" href="http://www.ftchinese.com/story/001058624#adchannelID=1300"><u>将封堵</u></a>被称为<a target="_blank" href="http://en.wikipedia.org/wiki/Double_Irish_arrangement"><u>“双层爱尔兰”(double Irish</u></a>)的企业税收漏洞。苹果、亚马逊、Google和Facebook等美国公司都利用该漏洞避税。双层爱尔兰漏洞是指爱尔兰采用的是属地征税制度，它不征收爱尔兰公司境外子公司的收入税，加上爱尔兰的企业税本就低，跨国公司可以将子公司在其它国家的收入转移到爱尔兰的子公司，从而避免缴纳巨额企业税。爱尔兰财政部长Michael Noonan<a target="_blank" href="http://www.budget.gov.ie/Budgets/2015/FinancialStatement.aspx"><u>宣布</u></a>，从明年1月起，在爱尔兰设立的公司将不能采取双层爱尔兰做法。利用现有架构的企业必须以2020年为限，分阶段退出，或者作出其他安排。欧盟委员会此前威胁，如果爱尔兰政府不取缔双层爱尔兰结构，就将对其展开全面调查。
+➜Google在SSL 3.0中发现安全漏洞
+https://www.solidot.org/story?sid=41464	15167
+Google安全团队成员<a target="_blank" href="http://googleonlinesecurity.blogspot.jp/2014/10/this-poodle-bites-exploiting-ssl-30.html"><u>报告</u></a>在SSL 3.0加密协议中发现了一个<a target="_blank" href="https://www.openssl.org/~bodo/ssl-poodle.pdf"><u>安全漏洞</u></a>(PDF，被称为POODLE攻击)，允许攻击者计算出加密通讯的明文内容。SSL 3.0已有近15年历史，已被TLS 1.0/1.1/1.2所取代，但今天的绝大部分浏览器仍然向后兼容SSL 3.0，默认情况下会使用新版的TLS协议，但如果协议握手失败，浏览器会尝试使用旧版的SSL 3.0。攻击者可以制造握手失败诱使浏览器使用SSL 3.0建立加密连接，然后利用漏洞破解加密内容。禁用浏览器的SSL 3.0支持足以减轻这一问题，但兼容性问题又会出现。有意思的是， Google早已从Chrome中<a target="_blank" href="http://it.slashdot.org/story/14/10/15/000239/google-finds-vulnerability-in-ssl-30-web-encryption"><u>移除了</u></a>启用禁用 SSL版本的选项。开发者表示他们正测试在Chrome中禁用SSL 3.0，并计划未来几个月从产品中全面移除SSL 3.0支持。
+➜苹果Facebook资助女员工冷冻卵子
+https://www.solidot.org/story?sid=41465	15624
+《华尔街日报》<a target="_blank" href="http://blogs.wsj.com/digits/2014/10/14/apple-and-facebooks-newest-perk-freezing-your-eggs/"><u>报道</u></a>，苹果和Facebook将资助女员工<a target="_blank" href="http://cn.wsj.com/gb/20141015/SHJ101938.asp"><u>冷冻卵子</u></a>，Facebook称自1月份开始一直在为员工承担相关费用，苹果表示将从明年开始施行。报道认为，此举反映出科技公司对女性技术人才的重视。报道称，冻卵操作的费用非常昂贵，每轮提取成本约为1万美元，许多医生建议实行两轮操作提取卵子，以确保提取质量。一般而言，冻卵相关费用不在医保范围之内。报道还称，苹果和Facebook为员工生育或代孕分别报销最高2万美元的费用。
+➜中国研发抗埃博拉药物
+https://www.solidot.org/story?sid=41466	17143
+四环医药与中国军事医学科学院上周达成协议，以帮助推动一个名叫JK-05的抗埃博拉药物通过中国的审批流程，并进入市场。由军事医学科学院研发的这款药物目前仅被批准用于紧急军事用途。四环医药最初是一家军事科学机构，2001年从军队脱离出来。公司董事长车冯升<a target="_blank" href="http://cn.reuters.com/article/wtNews/idCNKCS0I30YM20141014?sp=true"><u>指出</u></a>，十年前中国军方研发的一种对抗SARS病毒的疫苗在申请后很快就获得药品监管部门的批准。埃博拉病毒至今已造成4400多人死亡，其严重程度<a target="_blank" href="http://www.nature.com/news/ebola-learn-from-the-past-1.16117"><u>远超上一次的疫情爆发</u></a>。中国的抗埃博拉药物研发仍落后于在美国研发的类似药物，比如ZMapp和TKM-埃博拉。但四环医药表示，在对老鼠进行试验时发现JK-05具有治疗效果。ZMapp和TKM-埃博拉曾在猴子身上进行试验，已被用于治疗感染埃博拉病毒的患者。JK-05尚未进行临床研究。部分专家对于JK-05是否能够在短期内投入使用仍存疑虑。<a target="_blank" href="http://www.dw.de/%E5%9F%83%E5%8D%9A%E6%8B%89%E5%85%8B%E6%98%9F%E4%B8%AD%E5%9B%BD%E9%80%A0/a-17995323"><u>理由之一是</u></a>，中国没有埃博拉病毒的活体样本可以研究，进口病毒活体到中国以供研究是受到禁止的。武汉大学医学病毒学研究所的杨占秋表示，中国科研人员所做的，不是基于病毒活体的研究，而是从公共数据库GenBank获得病毒的基因序列，据此制作出克隆病毒，然后对其进行研究。
+➜Humble Mozilla Bundle演示Asm.js的威力
+https://www.solidot.org/story?sid=41467	23448
+<div align="center"><img src="http://img.solidot.com.cn/0/675/lim0lZGgvljg.png" align="" height="170" width="600"><br>
+</div>
+<br>
+Humblebundle推出了一个不同寻常的慈善包<a href="https://www.humblebundle.com/?sel=dustforce_asm_demo" target="_blank"><u>Humble Mozilla Bundle</u></a>，包含了至少八款可以在兼容WebGL的浏览器上直接玩DEMO的游戏。这些游戏包括Super Hexagon、Aaaaa! for the Awesome、Osmos、Zen bound 2、Dustforce DX、Voxatron、FTL: Advanced Edition和Democracy 3，有不同的购买等级，最高8美元。较新版本的Chrome或Firefox应该都支持直接运行，其它浏览器不能保证能运行或流畅运行。过去几年，在HTML5和WebGL技术，以及JavaScript高性能子集 asm.js的帮助下，开发商可以在浏览器上实现接近原生版本的执行性能。Epic曾和Mozilla合作<a href="http://www.solidot.org/story?sid=38702" target="_blank"><u>演示了</u></a>浏览器版的虚幻引擎4。基于浏览器的游戏的优势是不需要安装，支持任何能运行这些浏览器的操作系统，不用担心兼容性问题。
+➜迪士尼的新生产渲染器Hyperion
+https://www.solidot.org/story?sid=41468	27035
+<div align="center"><img src="http://img.solidot.com.cn/0/676/liiWlhqtqPE.jpg" align="" height="226" width="540"><br>
+</div>
+<br>
+即将于11月7日上映的动画片《<a href="http://www.imdb.com/title/tt2245084/?ref_=cs_ov_tt" target="_blank"><u>Big Hero 6</u></a>》（和克里斯托弗·诺兰的《<a href="http://www.imdb.com/title/tt0816692/?ref_=cs_ov_tt" target="_blank"><u>星际穿越</u></a>》同一天上映）是迪士尼动画工作室第一部使用<a href="http://www.fxguide.com/featured/disneys-new-production-renderer-hyperion-yes-disney/" target="_blank"><u>新生产渲染器Hyperion</u></a>制作的动画长片。BH6基于漫威同名超级英雄漫画改编，故事发生在一个虚构的大都市 San Fransokyo，迪士尼根据旧金山真实的房地产数据创造出一个更高更陡的虚拟城市，它是迪士尼至今制作的最复杂动画片。San Fransokyo有8.3万个建筑物，以及数量相近的街道和树木，城市里还有21.6万个街灯。要渲染巨大的城市环境和表面照明，迪士尼面临巨大的技术挑战。Hyperion花了两年时间构建，大约70万行C++代码多数是在两年内写的。迪士尼动画的渲染农场使用了5.5万个英特尔核心，运算速度可以排在超级计算机排行榜第75位，系统使用了400Tb的内存，4Pb储存，每天能执行110万渲染小时。BH6的渲染任务一天就花了100多万渲染小时。
+➜统计学家揭示婚姻稳定的秘密
+https://www.solidot.org/story?sid=41469	28802
+统计学家Randy Olson调查了数以千计的已婚和离婚的美国人，询问了大量与婚姻有关的<a target="_blank" href="https://0c43536f-a-62cb3a1a-s-sites.googlegroups.com/site/hugommialon/Adiamondisforever.pdf?attachauth=ANoY7cqFE7V54U5sQ0oGTaBINEh8r21GlDSWZoHP2b6RdUczV7Y7lpgPUZ77xA5BLCGCLDJ6KJDb6rlh2bDtROAsxpDyGBJEWwIMp0dkgp2BlMz5KAI93PzL_ny1QzTy3XzWo2bVusy6R0aH9k5MFtL0d_-bmD4nHkajZ-y1UOmOFzfFDOf1EuuMOL-d0pCXcHvBr7fZsT3CGYzor7W3ag80clkq4OWxrg%3D%3D&amp;attredirects=0"><u>问题</u></a>，根据被调查者的答案使用模型进行分析后<a target="_blank" href="http://www.randalolson.com/2014/10/10/what-makes-for-a-stable-marriage/"><u>揭示了婚姻长期稳定的秘密</u></a>。当然这些因素只是相关性而不具有因果性。Olson发现：在订婚前约会1到2年的夫妻比约会不到1年订婚的夫妻离婚的可能性低20%，约会3年及3年以上的夫妻离婚的可能性低39%；你和你配偶挣钱越多离婚的可能性越低，每年挣到12.5万美元的夫妻比不到2.5万的夫妻离婚可能性低 51%；更关心配偶外表的男性离婚率会增加1.5倍，更关心配偶财富的女性离婚率会增加1.6倍；你在婚礼上花的钱越多离婚的可能性越大；私奔的夫妻离婚的可能性比有200多人出席婚礼的夫妻高12.5倍；有蜜月的夫妻比没有蜜月的夫妻离婚可能性低；固定去教会的夫妻，离婚可能性低46%。
+➜中国科学家发现能杀死癌症的病毒
+https://www.solidot.org/story?sid=41470	31233
+中山大学的科学家<a target="_blank" href="http://www.cas.cn/xw/kjsm/gndt/201410/t20141015_4223817.shtml"><u>发现了</u></a>一种天然的病毒M1能选择性感染并杀死癌细胞。<a target="_blank" href="http://www.pnas.org/content/early/2014/10/02/1408759111.abstract#aff-1"><u>报告</u></a>发表在PNAS上。M1是一种从海南岛的蚊子身上发现的病毒，该病毒能选择性地感染并杀死包括肝癌、结直肠癌、膀胱癌、黑色素瘤在内的多种癌细胞，且对正常细胞无毒副作用。研究人员对病毒相关基因分析发现，M1病毒能选择性识别并杀死癌细胞的原因在于其对“锌指抗病毒蛋白（ZAP）”缺失的识别，而人类癌症广泛缺乏ZAP蛋白。这一发现为精准的临床用药和实施个体化疗法提供了可靠的科学依据，也会极大地增加未来临床试验取得成功的机会。领导这项研究的中山医学院颜光美称，M1病毒用于癌症治疗的临床前试验还须持续2年到3年时间。目前尚不知道M1是怎样选择ZAP缺陷型癌细胞的，而且ZAP缺失和细胞凋亡的关系也不是很明确。
+➜Tor路由器项目三天筹集到48万，引发质疑
+https://www.solidot.org/story?sid=41471	33171
+<div align="center"><img src="http://img.solidot.com.cn/0/677/liZ9gD7wr7nPc.png" align="" height="180" width="300"><img src="http://img.solidot.com.cn/0/678/lit5ZkcDKp.jpg"><br>
+<br>
+</div>
+一个开源Tor路由器项目<a href="http://anonabox.com/home.php" target="_blank"><u>anonabox</u></a>仅仅三天就在众筹网站Kickstarter<a href="https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router/posts"><u>筹集到48万美元</u></a>，而它的目标是7500美元。anonabox设计将网络流量通过Tor匿名网络，让用户可以匿名上网。路由器的开发者是美国加州的August Germar，他<a href="http://www.theguardian.com/technology/2014/oct/14/anonabox-router-anonymous-kicktstarter-privacy-internet-activity#comments" target="_blank"><u>表示</u></a>本以为没人会对这个项目产生兴趣，结果完全出乎他的意料。但在社交网站reddit上，这个项目引发了<a href="http://www.reddit.com/r/technology/comments/2j8kyo/tor_router_raises_300000_on_kickstarter_in_48/" target="_blank"><u>争议</u></a>，原因之一是产品设计(左图)和规格与中国厂商的一款售价75元的<a href="http://www.atupapa.com/17043400030en.html" target="_blank"><u>路由器产品</u></a>（右图）几乎完全相同。<br>
+➜电池技术突破：两分钟内充电至70%，寿命延长到20年
+https://www.solidot.org/story?sid=41472	35655
+新加坡南洋理工大学的研究人员<a target="_blank" href="http://media.ntu.edu.sg/NewsReleases/Pages/newsdetail.aspx?news=809fbb2f-95f0-4995-b5c0-10ae4c50c934"><u>报告了</u></a>电池技术的新突破，新的技术可以让电池在两分钟内充电至70%，电池寿命延长至20年（10000次充放电周期）。但新闻稿没有<a target="_blank" href="http://hardware.slashdot.org/story/14/10/14/2135208/battery-breakthrough-researchers-claim-70-charge-in-2-minutes-20-year-life"><u>提到概念验证原型的电池容量</u></a>，如果容量低的话，它离实用性还有一段距离。报道称，研究人员<a target="_blank" href="http://www.eurekalert.org/pub_releases/2014-10/ntu-ucb101314.php"><u>发明了一种用二氧化钛制造的胶状材料</u></a>，这一材料将在锂离子电池中取代传统石墨用于阳极。研究人员研发出了一种方法将二氧化钛粒子转变成纳米管，加快电池中的化学反应，允许超速充电。目前电动汽车使用的锂离子电池充电时间相当长，如果新电池的放大版也具有类似的效率，那么电动车将能在5分钟内充满电，与加油时间相近。
+➜美国科学家重新发掘出60年代的卫星照片
+https://www.solidot.org/story?sid=41473	38166
+美国在1960年代发射了多颗能拍摄地球黑白照片的<a target="_blank" href="http://en.wikipedia.org/wiki/Nimbus_program"><u>Nimbus系列</u></a>气象卫星，但Nimbus拍摄的照片至今没有可搜索和查看的数字版本。美国国家冰雪数据中心（NSIDC）的David Gallaher在一次会议上听到这些卫星数据还保存在美国国家气象数据中心（NCDC），因此向他们询问有没有格陵兰岛的卫星照片。对研究时间序列数据的科学家来说，这些卫星数据是一座金矿，因为它们可能是至今保存最早的北极卫星照片。结果NCDC对此一笑了之，因为他们没有扫描和排序过旧卫星的数据，他们告诉Gallaher，如果要格陵兰岛的卫星照片他必须自己去扫描。NCDC向Gallaher寄去了25个箱子。卫星照片是保存在磁带上，通过电视显示器播放。Gallaher在加拿大一家公司的帮助下，<a target="_blank" href="http://barentsobserver.com/en/2014/10/american-scientists-unearth-lost-1960s-polar-satellite-images-worth-billions-14-10#.VD1bCUcp6oU.twitter"><u>拯救出</u></a>数GB可以保存在一个U盘内的数据，<a target="_blank" href="http://nsidc.org/data/nimbus/order-data.html"><u>公布</u></a>在NSIDC网站上。
+➜BBC英文网被屏蔽
+https://www.solidot.org/story?sid=41474	39908
+<a target="_blank" href="http://www.bbc.co.uk/"><u>BBC英文网</u></a>（BBC.CO.UK）今天<a target="_blank" href="https://en.greatfire.org/www.bbc.co.uk"><u>被屏蔽</u></a>，原因推测可能与香港的学生民主运动有关。BBC中文网长期以来一直被封锁，但英文网大多数时候能正常访问，现在它与《纽约时报》、彭博社和《商业周刊》以及《华尔街日报》一道进入被封锁的国际知名媒体行列。这些媒体都是长期被屏蔽至今无解封迹象。Google已被封五个月了。
+➜中国将投资千亿扶持芯片产业
+https://www.solidot.org/story?sid=41475	41449
+中国<a target="_blank" href="http://www.miit.gov.cn/n11293472/n11293832/n11293907/n11368223/16163389.html"><u>成立了</u></a>国家集成电路产业投资基金，基金成员包括了国开金融、中国烟草、亦庄国投、中国移动、上海国盛、中国电科、紫光通信、华芯投资等大型国企和国家背景的基金，国家集成电路产业投资基金将重点投资集成电路芯片制造业。知情人士<a target="_blank" href="http://tech.sina.com.cn/it/special/breakingnews/icfund/"><u>透露</u></a>，首批资金规模可能不会超过100亿元，但是通过后续多轮的融资扩股，整个基金的规模将会达到1200亿元，其中主要的资金会来自财政部。北京君正集成电路有限公司副总经理周生雷此前接受采访时认为，千亿集成电路扶持基金的推出可能与国家最高层重视信息安全有关。“自棱镜门事件曝光之后，信息安全得到了国家最高层的重视，而集成电路一直处于信息安全的核心地位。”
+➜支持科索沃独立的无人机致使阿尔巴尼亚和和塞尔维亚足球比赛终止
+https://www.solidot.org/story?sid=41476	43694
+<div align="center"><img src="http://img.solidot.com.cn/0/679/lisDPtQjv03rA.jpg" align="" height="268" width="480"><br>
+<br>
+</div>
+北京时间10月15日凌晨，2016年欧洲杯预选赛在贝尔格莱德举行，比赛双方是塞尔维亚队和阿尔巴尼亚队。这是两队自1967年以来首次在贝尔格莱德进行比赛。由于双方根深蒂固的民族矛盾，欧足联以安全理由禁止阿尔巴尼亚球迷到场助威。但比赛进行到41分钟，一架悬挂大阿尔巴尼亚旗帜的无人机飞进了体育场。两支球队随后发生了冲突，<a href="http://www.guancha.cn/sports/2014_10_15_276437.shtml" target="_blank"><u>比赛被迫终止</u></a>。根据视频显示，这架无人机<a href="http://arstechnica.com/tech-policy/2014/10/rogue-albanian-drone-flies-over-serbian-soccer-stadium-cancelling-match/" target="_blank"><u>应该是</u></a>售价500到800美元的DJI大疆Phantom 1或Phantom 2四轴无人机。《卫报》<a href="http://www.theguardian.com/football/2014/oct/14/serbia-albania-euro-2016-flag-halted" target="_blank"><u>报道</u></a>称，阿尔巴尼亚队的球迷在足球场外遥控无人机飞进场地，塞尔维亚球员米特洛维奇（Stefan Mitrović）看见后将旗帜拉了下来。
+➜开源项目难以赚钱
+https://www.solidot.org/story?sid=41477	45338
+Estelle Lafforgue 在博客上<a target="_blank" href="https://news.ycombinator.com/item?id=8451174"><u>讲述了</u></a>他们的开源项目LocomotiveCMS<a target="_blank" href="http://www.locomotivecms.com/articles/we-tried-to-solve-the-open-source-revenue-equation#.VDxcEhHF8Wx"><u>面临的困境</u></a>：一个月的收入都没有干两天的咨询工作收入高。LocomotiveCMS是基于Rails的内容管理系统，由Estelle的丈夫Didier Lafforgue一人开发，2010年开源，Didier作为一名全职开发者投入到这个创业项目上，而Estelle则担任负责销售的营销经理。Didier相信，开源是一种更好的开发模式，但至今为止LocomotiveCMS项目 99.99%代码是他贡献的。他们仍然没有找到一个可靠的商业模式，推出的软件即服务平台<a target="_blank" href="http://www.locomotivehosting.com/"><u>LocomotiveHosting</u></a>每个月只能带来1800美元左右的收入，而他们干咨询工作一天的收入有1100美元。

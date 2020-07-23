@@ -1,0 +1,33 @@
+➜部分国家Hotmail无法打开全局HTTPS浏览，微软称是Bug
+https://www.solidot.org/story?sid=23162	17280
+电子前哨基金会(EFF)<a href="https://www.eff.org/deeplinks/2011/03/microsoft-shuts-https-hotmail-over-dozen-countries">声称</a>，微软关闭了被美国贸易禁运或有其它问题的国家的Hotmail全局HTTPS浏览选项，这些国家包括巴林，摩洛哥，阿尔及利亚，叙利亚，苏丹，伊朗，黎巴嫩，约旦，刚果，缅甸，尼日利亚，哈萨克斯坦，乌兹别克斯坦，土库曼斯坦，塔吉克斯坦和吉尔吉斯斯坦。在这些国家，使用Hotmail的记者和持不同政见者可能将面临威胁。EFF鼓励他们使用<a href="http://www.eff.org/https-everywhere">HTTPS everywhere</a>插件，或者改用其它电子邮件如雅虎和Google的电子邮件服务。微软高管回应称，<a href="http://www.theregister.co.uk/2011/03/26/microsoft_https_hotmail_syria/">这是bug</a>，表示它也不清楚是什么导致了该Bug，他们已经修复了问题。微软对给用户造成的不便表示歉意。
+➜《纽约时报》电话审查报道受质疑
+https://www.solidot.org/story?sid=23163	23280
+《纽约时报》本周发表<a href="https://www.nytimes.com/2011/03/22/world/asia/22china.html?_r=4">一篇文章</a>，宣称中国开始对电话通信内容进行审查过滤，当有人在电话上说了敏感词后，他的通话会被切断。此事引起很多人的质疑，因为机器翻译至今仍未实现大的突破，精度因人而异，多数情况下错误率相当高。Google的“<a href="http://zh.wikipedia.org/wiki/%E7%BB%9F%E8%AE%A1%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91">统计机器翻译</a>”算是业界最先进的，那是根据Google收集的<a href="http://www.google.com.hk/ggblog/googlechinablog/2008/05/blog-post_4271.html">海量文本数据</a>训练模型实现的，语音翻译还要多一层语音文本翻译，而<a href="http://en.wikipedia.org/wiki/Speech_recognition">语音识别</a>的正确率同样不高。《新科学家》<a href="http://www.newscientist.com/blogs/onepercent/2011/03/china-cuts-off-calls-for-prote.html">认为</a>中国的自然语言处理技术进步惊人。虽然监视少量人的通话完全可能发生，但这篇文章更多是引起了中外友人<a href="http://shanghaiscrap.com/?p=6481">怀疑并亲自尝试</a>，无论在中国的外籍记者，还是中国本土人士，都没出现报道所谓的通话中断现象。有外国驻华记者<a href="http://twitter.com/#!/bokane/status/50680006308937728">建议</a>向《纽约时报》反馈，要求更正报道。
+➜虚拟机 Xen 4.1 发布
+https://www.solidot.org/story?sid=23164	26880
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "<a href="http://xen.org/products/xen_source.html">Xen</a>是一个基于内核的 para-virtualizing 虚拟机（VMM），为x86架构设计，与系统结合紧密、占用的资源少而知名。Xen可以在一套物理硬件上安全的执行多个虚拟机。
+<i>
+<a href="http://www.osmsg.com/2011/03/xen-4-1/">Xen 4.1</a>重新设计XL toolstack，在功能上相当于XM/XEND；对延迟敏感任务和超大型系统重新设计Prototype credit2；CPU Pools为高级分区；支持大型系统（255以上处理器和1GB/2MB超级页面的支持）；支持X86的高级矢量扩展（AVX）；新的API内存访问机制；修正Tmem（默认为禁用）；增加文件（vbd-interface.txt, vbd numbering and naming, xl disk configuration syntax, etc）；修正IOMMU，包括Intel VT-d IOMMU和AMD IOMMU。"</i>
+➜网络缩略语进入《牛津英语词典》
+https://www.solidot.org/story?sid=23165	27660
+语言学专家将流行的<a href="http://arstechnica.com/tech-policy/news/2011/03/people-officially-say-lol-out-loud.ars">网络缩略语增添进</a>有一百多年的权威《牛津英语词典》中。<i>这些流行词包括了：LOL(大声笑)，OMG(天哪)，IMHO（个人拙见），FYI(供你参考)，BFF(永远的挚友)，TMI（太多的信息）等。编撰词典的<a href="http://www.google.com/hostednews/ap/article/ALeqM5icdk-t2peXs8wYiTo7vitJAsCcmA?docId=c145b5ce20f64bfabf0209bf0328dace">专家称</a> ，虽然缩略语是因为现代电子通信而流行起来，它们许多其实历史很悠久。例如：OMG最早是出现在1917年的一封信中；LOL比较新，最早出现在1990年6月13日comp.misc Usenet新闻组。 </i>
+➜百度Vs五十作家：法不责贵？
+https://www.solidot.org/story?sid=23166	35280
+五十作家因为百度文库未经授权非法传播其作品而对其<a href="__SLASHLINK__" sect="books" sid="11/03/25/0553239" sn="article" tid="110">公开谴责和抨击</a>，知名作家韩寒连续发表两篇动之以情晓之以理的文章：《<a href="http://blog.sina.com.cn/s/blog_4701280b01017ijd.html">为了食油，声讨百度</a>》和《<a href="http://blog.sina.com.cn/s/blog_4701280b01017ijj.html">给李彦宏先生的一封信</a>》，王小峰编段子《<a href="http://www.wangxiaofeng.net/?p=7285">李彦宏：我爸是李刚</a>》。<i>
+韩寒在文章称，作家十分清苦，但他没提的是，<a href="http://blog.sina.com.cn/s/blog_467a3a7f0100pqvs.html">五十位作家</a>中有许多是<a href="http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A">中国作协</a>成员（贾平凹、刘心武、阎连科、张炜、<a href="http://www.google.com/webhp?hl=en#sclient=psy&amp;hl=en&amp;site=webhp&amp;q=%E9%BA%A6%E5%AE%B6+%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%8D%8F&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.&amp;fp=d17872f37008fcba">麦家</a>...），众所周知，作协成员待遇优厚，其他非作协成员如韩寒和方舟子等人，他们也都有各自的工作，不依靠图书出售的分成生活。这并非是为百度辩解，只是令人不解他们为什么不采用集体诉讼的方法状告百度，并且危言耸听的宣称“如果所有的书都可以免费阅读，那么长久下去，必将无书可读”。《南方周末》解释了所谓的<a href="http://www.infzm.com/content/56810">法律避风港</a>：2006年7月1日实施的《信息网络传播权保护条例》第22条第3款规定：网络存储空间提供者如果“不知道也没有合理理由应当知道服务对象提供的作品、表演、录音录像制品侵权”的，不构成侵权。只有在服务商“明知或应知”属于侵权作品仍不作处理，未尽到注意义务，才构成侵权。但显然百度文库是<a href="http://www.mobile20.com.cn/heavy-users-of-a-network-of-novel-wireless-business-baidu-eyes/">有盈利意图的</a>，这和维基文库是本质区别，根据最新的《<a href="http://www.mps.gov.cn/n16/n1237/n1342/n803715/2661868.html">关于办理侵犯知识产权刑事案件适用法律若干问题的意见</a>》：以营利为目的，未经著作权人许可，通过信息网络向公众传播他人文字作品、音乐、电影、电视、美术、摄影、录像作品、录音录像制品、计算机软件及其他作品，具有下列情形之一的，属于刑法第二百一十七条规定的“其他严重情节”：（二）传播他人作品的数量合计在五百件（部）以上的；（三）传播他人作品的实际被点击数达到五万次以上的...这件事上完全可以通过法律解决的。
+</i>
+➜60%中国猪呈中毒状态
+https://www.solidot.org/story?sid=23167	47760
+60% 写道 <i>"《<a href="http://economy.lnd.com.cn/htm/2011-03/25/content_1762150.htm">21世纪经济报道</a>》消息，24日一位业界专家告诉记者，国内中毒状态的猪达到60%，包括莱克多巴胺（瘦肉精）、抗生素、重金属、消毒药的滥用等，现在需要的是一种全新的安全评估体系。据介绍，添加抗生素和重金属，主要目的是提高猪的生长速度。而添加抗生素，早已是各养殖领域的公开秘密。"</i>
+➜Google内部测试在线音乐服务
+https://www.solidot.org/story?sid=23168	49920
+据音乐行业人士<a href="http://news.cnet.com/8301-31001_3-20046917-261.html">称</a>，Google雇员开始<a href="http://tech.slashdot.org/story/11/03/26/1129200/Google-Starts-Testing-Google-Music-Internally">内部测试</a>备受期待的Google Music服务。<i>
+Google Music是一项在线音乐服务。Google去年曾表示正与四大唱片公司以及主要音乐出版商协商谈判。目前谈判尚未完成，主要纠结于Google提供的云音乐服务而不是去发行唱片。搜索巨人希望在自己的服务器上储存用户播放的音乐数据库。唱片公司正与苹果进行类似的讨论。</i>
+➜梦游或许是重演白天的学习
+https://www.solidot.org/story?sid=23169	50760
+根据发表在开放获取期刊《PLOS ONE》上的<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0018056">报告</a>，最新的证据显示<a href="http://arstechnica.com/science/news/2011/03/sleepwalkers-may-be-replaying-the-days-learning.ars">梦游或许是在重演白天的学习</a>。<i>
+巴黎皮埃尔玛丽居里大学的睡眠研究员Delphine Oudiette和同事设计了一个直截了当的试验：让梦游者和睡眠行为障碍症者（在睡眠中会有各种身体行为）学习一项运动任务，如果他们在睡眠中重复了白天学的动作，那么这明显是一种重演。视频监视表明，确实有梦游者在睡眠中像机器人一样重复了白天的动作。</i>
+➜卡内基梅隆大学CS新生不再学习面向对象编程
+https://www.solidot.org/story?sid=23170	53280
+卡内基梅隆大学教授Robert Harper<a href="http://existentialtype.wordpress.com/2011/03/15/teaching-fp-to-freshmen/">在博客上称</a>，该校计算机科学系从大一新生课程中<a href="http://developers.slashdot.org/story/11/03/26/0016229/CMU-Eliminates-Object-Oriented-Programming-For-Freshman">删除了面向对象编程</a>。他说，面向对象编程从入门课程中完全取消了，因为O-O的性质是反模块化和反并行的，不适合进入现代计算机科学教学课程。新课程提议是面向对象的设计学。

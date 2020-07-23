@@ -1,0 +1,73 @@
+➜有印度特色的崛起
+https://www.solidot.org/story?sid=12134	2520
+time 写道 "WSJ的Opinion Journal发表John Lee的评论文章"<a href="http://online.wsj.com/article/SB124647192463381625.html#mod=asia_opinion">India's Rising Tide </a>"。文章认为在西方强国陷入危机的09年，各有大约7亿贫困人口的印度和中国经济却有可能以7%的速度增长，但是两国的经济增长特色是不同的。<i>
+在中国，城乡经济增长差距越来越大。80年代中期，城市经济增长比农村高1.8倍强，90年代中期为2.4倍，2001年增加到2.9倍，现在是3.1倍。中国80%的脱贫发生在78-88年。现在虽然国民人均收入在提高，但是十多年以来有4亿人的净收入在下降。
+印度经济增长基数较低但是收获较大：90年代以来城乡增长差距在缓慢而稳定地减小。过去的十多年，印度农村增常超过城市增长40%。现在印度的GDP有一半来自农村。印度的农村人不需要象在中国那样涌入人满为患的城市去谋生。<br>
+Lee认为这种情况反应了两国不同的经济道路。印度的市场化改革比中国晚很多，但是自本世纪初快步赶上，而中国情况在变糟。2000年到现在，印度的贫困人口和文盲人口都减少了一半，而在中国却是增加了一倍。</i>
+(<a href="http://images.google.com/images?hl=en&amp;q=asin&amp;btnG=Search+Images&amp;gbv=2&amp;aq=f&amp;oq=">插播印度美女Asin，多图</a>)<i>
+国内消费在经济中的角色也表明了两国不同的经济道路。从80年代到现在，中国GDP中国内消费份额从越60%降到35%。中国的“经济奇迹”主要依赖出口和国家主导的固定投资。对于一个仍属贫困的国家来说，低迷的消费和相对较高的居民储蓄表明增长不平均并且获益者相对较少。与中国相反，印度的经济有2/3来自于国内消费。印度的穷人也在崛起。<br>
+Lee认为中国上述特色或许来源于政府对增加城市固定投资的强调。90年代以来中国农村的私营经济投资年增长7%，而之前是20%。亿万中国人没有因为经济增长而获益。市场改革落后15年的印度正在平静而渐进地构筑自己的基础。Lee建议印度总理曼莫汉·辛格拒绝那些向中国学习的危险呼声。"</i>
+➜Firefox 3.5基准测试，接近Chrome 1.0版
+https://www.solidot.org/story?sid=12135	7800
+Javascript基准测试结果显示，Firefox 3.5是<a href="http://tech.slashdot.org/story/09/07/01/1828254/Firefox-35-Benchmarked-Close-To-Original-Chrome">目前世界上第三快的浏览器</a>。<i>
+Javascript的身影几乎无处不在，从在线邮件，到在线地图服务如Google Maps，到社交网站如Facebook，都应用到它。因此Javascript渲染性能也是浏览器最受关注的表现之一。几大浏览器中，Safari使用SquirrelFish，Chrome有V8，Opera有Carakan，而Firefox 3.5使用了TraceMonkey。使用SunSpider Javascript基准测试工具，结果发现Firefox 3.5的速度是Firefox 3的两倍，次于Chrome 2和Safari 4，超过Opera 10 beta和Internet Explorers 7及8，接近Google Chrome 1.0版。Firefox 3.5的新地点感知性能也有不俗的表现，它的误差仅仅在数百米内。</i>
+➜Virtualbox 3.0宣布，支持OpenGL/Direct3D
+https://www.solidot.org/story?sid=12136	8400
+Sun发布了<a href="http://tech.slashdot.org/story/09/07/01/2157227/Virtualbox-30-Announces-OpenGLDirect3D-Support">Virtualbox 3.0</a>，最瞩目的<a href="http://www.virtualbox.org/wiki/Changelog">新特性</a>是：支持最多32核CPU，Windows虚拟系统支持Direct3D 8/9程序/游戏，Windows、Linux和Solaris虚拟系统支持OpenGL 2.0。是否意味着我们可以放弃wine，直接在虚拟机里玩Windows游戏？
+➜Red Hat Enterprise Linux 5.4 beta发布
+https://www.solidot.org/story?sid=12137	9900
+Red Hat<a href="https://www.redhat.com/archives/rhelv5-beta-list/2009-July/msg00000.html">宣布</a>发布<a href="http://blog.internetnews.com/skerner/2009/07/red-hat-enterprise-linux-54-be.html">Red Hat Enterprise Linux（RHEL）5.4 beta</a>。<i>
+最主要的变化是虚拟机变成了KVM hypervisor，虽然Xen仍然在RHEL中，但通过RHEL 5.4，Red Hat发出清晰的信号——KVM将是它首选的Hypervisor，这并不令人吃惊，毕竟Red Hat已收购了KVM的开发商Qumranet。除了KVM外，RHEL 5.4的其它新特性包括：帮助设置Fibre Channel over Ethernet(FCoE)的配置工具，ext4文件系统，GCC 4.4编译器，malloc，CIFS DFS支持....</i>
+➜LRO进入月球轨道，将拍摄阿波罗登月地点
+https://www.solidot.org/story?sid=12138	12720
+NASA上个月发射的月球勘测轨道飞行器（<a href="http://www.nasa.gov/mission_pages/LRO/main/">Lunar Reconnaissance Orbiter</a>，简写LRO）已进入月球轨道，飞行器目前状况良好。<i>
+最近几年月球再次成为太空探索的热点，日本、中国以及印度都发射了各自的月球探测器，中国已经阐明了它的登月计划。LRO是<a href="http://www.time.com/time/health/article/0,8599,1905344,00.html">美国重返月球的第一步</a>，它将进入到距离月球表面仅仅48公里的低轨道上，飞行器携带的仪器将精确的绘制月面地形，将用能显示出1英尺直径物体的照相机拍摄阿波罗登月地点，以及前苏联的机器人登月探测器。如果幸运的话，NASA将在7月20日、阿波罗11号登月40周年纪念日公开首张照片。之前最好的<a href="http://www.jaxa.jp/press/2008/05/20080520_kaguya_e.html">图像</a>是日本月球探测器月亮女神（Kaguya）获得的，所拍摄的是阿波罗15号登月点，由于分辨率的原因，大致的轮廓与阿波罗15号宇航员拍摄的照片相同，但细节无法辨别。</i>
+➜PostgreSQL 8.4发布
+https://www.solidot.org/story?sid=12139	17280
+开源数据库<a href="http://www.postgresql.org/about/news.1108">PostgreSQL</a> 8.4<a href="http://tech.slashdot.org/story/09/07/01/1831250/PostgreSQL-84-Out">已发布</a>。主要的<a href="http://www.pgsqldb.org/mwiki/index.php/PostgreSQL_8.4%E7%89%88%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83_--_2009/04/16">新特性</a>包括：<i>
+数据窗口功能（<a href="http://www.postgresonline.com/journal/index.php?/archives/122-Window-Functions-Comparison-Between-PostgreSQL-8.4,-SQL-Server-2008,-Oracle,-IBM-DB2.html">Windowing Functions</a>）；公共表表达式和递归联合；函数的缺省和可变参数功能；<a href="http://it.toolbox.com/blogs/database-soup/using-84-parallel-restore-with-your-83-or-82-database-31575">并行数据恢复功能</a>；列级权限；单个数据库的编码设置；改进的Hash索引功能；针对EXIST和NOT EXIST的联合查询性能提升；更加易于使用的在线热备功能；Free Space Map的自动优化；Visibility Map (可减少数据库清理的负载)；对自动进行版本适应的psql程序 (支付反斜框指令)；支持用户身份检查的SSL认证；支持每个函数运行的统计；在psql程序中更加易于使用编辑功能；新增的增值模块：pg_stat_statements,auto_explain, citext, btree_gin....详细<a href="http://www.postgresql.org/about/press/features84.html">特性清单</a>。</i>
+➜警察的博客匿名权不受保护
+https://www.solidot.org/story?sid=12140	20520
+以《1984》作者名字命名的奥威尔奖（<a href="http://en.wikipedia.org/wiki/Orwell_Prize">Orwell Prize</a>）在今年首次颁发了博客奖，授予了一名匿名博客<a href="http://nightjack.wordpress.com/">Night Jack</a>（已关闭，时光机器也被<a href="http://web.archive.org/web/*/http://nightjack.wordpress.com/">阻止查询</a>，<a href="http://74.125.95.132/search?q=cache:4KhUp6O_ia4J:nightjack.wordpress.com/2008/04/+site:nightjack.wordpress.com&amp;cd=2&amp;hl=en&amp;ct=clnk&amp;gl=us">Google cache</a>）的作者，一位现役警察。然而他的身份最终被挖掘出来，而法官也判决<a href="http://www.my1510.cn/article.php?id=e195969ef555240b">匿名权不保护公职人员</a>。<i>
+<a href="http://en.wikipedia.org/wiki/Night_Jack">Night Jack</a>博客所写的，是这位警探(博客副题是“一个英格兰侦探”)在执行公务时的种种遭遇和感想，讽刺官僚、针贬时弊，不仅视角独特，而且观点清晰，表达上既直接了当又富有反讽和幽默感。《泰晤士报》记者通过研究博客上提到的案例――虽然他已经对人名地名做了改动或隐藏，但还是透露出一些可追查的信息――挖出了他的真实身份：英格兰西北兰开夏郡的警探理查·霍顿(Richard Horton)。霍顿在得知这一消息之后，向法庭申请禁制令，成功地阻止了《泰晤士报》发表他的真实身份。但是在《泰晤士报》上诉后，法官裁定，他作为公职人员，写与职务有关的博客，匿名权不受保护。</i>
+➜Ubuntu认为没有理由从默认安装中移除Mono
+https://www.solidot.org/story?sid=12141	23400
+开源社区正在热烈讨论Mono/C#问题，自由软件基金会主席RMS发表声明<a href="__SLASHLINK__" sect="linux" sid="09/06/28/1236249" sn="article" tid="44">表示反对</a>Mono进入到默认安装包内，各大发行版也都发表了各自的已经，最流行的桌面发行版Ubuntu认为<a href="http://www.osnews.com/story/21761/Ubuntu_Sees_No_Reason_To_Remove_Mono_from_Default_Install">反对的理由不充足</a>。<i>
+Mono的争论最主要的是担心微软的专利威胁，微软至今从未在.Net专利技术上发过难，但它在其它领域进行过专利恐吓，如宣称Linux kernel侵犯了它的多项专利。Ubuntu认为没有理由从默认安装包或软件仓库中移除Mono，理由仅仅是他们从未收到过微软的专利声明，因为Mono早就是Ubuntu多个版本默认安装的一个从属物。</i>
+➜中国2岁儿童已养成一天抽一包烟的习惯
+https://www.solidot.org/story?sid=12142	25200
+中国一名只有两岁半男童，<a href="http://www.zaobao.com/wencui/2009/06/lhwb090623.shtml">已有一年多烟龄</a>，且每天要吸掉一包多香烟。他的父母正在寻求建议，<a href="http://idle.slashdot.org/story/09/07/01/1617252/2-Year-Old-Has-Pack-a-Day-Smoking-Habit">如何帮助孩子去掉吸烟的习惯</a>。<i>
+男童亮亮的父母都是山东人，2年前来天津打工。目前，他们一家住在天津市东丽区建昌道新开河批发市场，亮亮父母靠干点零活维持生活。亮亮的父亲说，孩子从小患有疝气，医生说年龄太小，要长大些才能手术。孩子犯病时疼痛难忍，才允许他吸烟缓解疼痛，分散孩子注意力。但如今看到孩子烟瘾越来越大，他们已经意识到问题的严重性。</i>
+➜石墨烯能让磁存储器的密度增加1000倍
+https://www.solidot.org/story?sid=12143	30000
+电机工程师一直在试图制造出能储存数据十年以上的磁存储器。由于数据的密度依靠的是磁晶粒的尺寸，而工程师也早就知道晶粒是不能无限制的缩小下去。现在德国莱布尼兹学院的材料科学家Ruijuan Xiao和同事寻找的新方法去解决这个问题，<a href="http://www.technologyreview.com/blog/arxiv/23773/">他们能让密度提高3个数量级</a>。<i>
+在磁存储器中，数据是在磁域中储存在磁场方向上，所以研究人员的任务便是找到一种材料能使磁场不会在10年内逆转。名为磁各向异性（MAE）的技术可测量数据储存的时间，结果显示钴在铁磁性元素中有最高的MAE。当前最先进的技术使用的是直径为8纳米的钴基晶粒，每个晶粒包含大约50,000原子，材料科学家认为他们能缩小到15000个原子，但之后便无法再缩小下去，因为晶体结构会变得不稳定。为了确保磁场的稳定性，钴排列成六边形的密积结构。现在德国的材料科学家认为他们能让六边形密积结构合成六边形碳环，类似石墨烯或苯，他们还发现六边形碳环更加稳定。石墨烯和苯环直径只有0.5纳米，储存密度因此能提升3个数量级。</i>
+➜中国首例与甲型流感有关死亡
+https://www.solidot.org/story?sid=12144	31200
+BBC报道，<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8120000/newsid_8129800/8129867.stm">中国杭州一名甲型H1N1流感患者在医院死亡</a>，浙江省卫生厅表示她并非死于流感。<i>
+浙江省卫生厅透露，这名病人34岁，6月23日开始在杭州萧山区第一人民医院接受甲型H1N1流感治疗。一个星期以来这名患者一直体温正常，虽然偶有咳嗽，但其他临床症状消失，被认定处于康复期。不过星期三（7月1日）早晨7时35分，这名患者被发现死于病房卫生间内。浙江省卫生厅官员表示，公安和卫生部门正在调查具体死亡原因，但可以肯定死因不是甲型H1N1流感。另外北京市卫生局星期三通报，北京市朝阳区望京南湖中园小学先后有16名学生出现发热症状，目前已经确定其中7人感染甲型H1N1流感，学校也已关闭，与感染者有接触的人被隔离观察。中国内地目前已经有867名确诊甲型H1N1流感患者，香港有785人，澳门有26人，台湾有68人。</i>
+➜CIH作者也是Linux热心者
+https://www.solidot.org/story?sid=12145	33120
+上个月台北举行了<a href="http://www.oss.org.tw/dokuwiki/doku.php?id=freedomhec2009">FreedomHEC Taipei自由软件和开源会议</a>，多名开源社区的总量级人物出席会议，与台湾的Linux开发者进行交流。<i>
+如著名Linux Kernel开发者Greg Kroah-Hartman，演讲主题是Linux Driver Tutorial（<a href="http://www.oss.org.tw/dokuwiki/lib/exe/fetch.php?media=gregkh-driver-tutorial-freedomhectaipei.pdf">PDF</a>，<a href="http://www.archive.org/download/LinuxDriverTutorialFreedomhecTaipei2009_215/06-linux-driver-tutorial.ogg">视频</a>），其他人还有《Linux Device Drivers》作者皆LWN.net主编Jonathan Corbet，Openmoko内核开发者Matt Hsu，LXDE开发者Fred Chien，台湾的开源开发者Jserv和Joseph Chan等。其中值得一提的是CIH病毒始创人、现在在技嘉科技手机部门从事手机研发的<a href="http://zh.wikipedia.org/w/index.php?title=%E9%99%88%E7%9B%88%E8%B1%AA&amp;variant=zh-cn">陈盈豪</a>，他的演讲题目是<a href="http://freedomhectaipei.pbworks.com/CIH-Linux-Driver-Reverse-Engineering">Linux Driver逆向工程</a>(<a href="http://www.archive.org/download/LinuxDriverReverseEngineeringFreedomhecTaipei2009/07-linux-driver-reverse-engineering.ogg">视频</a>)。主办者提供了所有演讲者的文档和视频下载，部分还提供了源代码。</i>
+➜南方周末：国外共产党生存现状调查
+https://www.solidot.org/story?sid=12146	35640
+<a href="mailto:jerryofwong@gmail.com">Jerrg Wong</a> 写道<i> "<a href="http://www.infzm.com/content/30865">南方周末</a>报道："7月1日，中国共产党迎来了第<a href="http://www.baidu.com/s?wd=88%CA%C7%CA%B2%C3%B4%D2%E2%CB%BC&amp;oq=88shishenm&amp;f=3&amp;rsp=0">88</a>个生日。据最新公布的数据，截至2008年底，中国共产党党员总数为7593．1万名，是新中国成立时的17倍。88年来，中国共产党走出了一条独特且让世人瞩目的道路。与此同时，国际共运历经风雨起伏，面临着新的形势和处境。本专题就当下国外共产党，特别是非执政的共产党的状况进行调查和探究，希冀发人思考、与时俱进。""</i>
+《南方周末》另一篇新闻报道了有“英国十大杰出华人青年”头衔的名人之后<a href="http://www.infzm.com/content/30855">薄瓜瓜做客北京大学</a>，会上他表示“从理论上来讲，没有绝对平等....人和人有不同的地位，不同的机会，而且运气是不一样的……但是我相信人的得和失最终是平等的，万事都是平衡的。表面上我可以得到更多的爱，但是同时我也得到很多的恨。”
+➜天天做爱能提高生育率
+https://www.solidot.org/story?sid=12147	37500
+与其它哺乳动物相比，人类的生育率偏低。只有不到三成的妊娠最后会演变成一次成功的受孕。但最近的一项新研究或找到了一种方法<a href="http://www.examiner.com/examiner/x-1242-Science-News-Examiner~y2009m7d1-Daily-sex-helps-improve-fertility">削弱这个问题</a>：<a href="http://science.slashdot.org/story/09/07/01/2249208/Daily-Sex-Helps-Improve-Fertility">做更多爱</a>。<i>
+研究发现，每天射精的男性能产生出DNA损伤较少的精子。虽然射精频率过高会减少精子浓度，但它能增加精子的活性。这意味着健康的精子有更好的机会与卵子相遇。而如果精子在睾丸内呆的时间越久，便越可能遭遇活性氧问题，这是DNA的头号大敌。另一项研究<a href="http://www.eurekalert.org/pub_releases/2009-07/esfh-cpa063009.php">发现</a>，超过90%的人工受精卵被发现有严重的染色体异常，这意味着人工授精并不是好主意。</i>
+➜BD+加密技术再次封锁破解
+https://www.solidot.org/story?sid=12148	41040
+2008年11月，Doom9的黑客宣布<a href="__SLASHLINK__" sect="it" sid="08/11/02/0313249" sn="article" tid="70">破解</a>了蓝光光盘的<a href="http://en.wikipedia.org/wiki/BD%2B">BD+</a>防拷贝加密技术。12月，<a href="__SLASHLINK__" sect="it" sid="08/12/14/0526250" sn="article" tid="70">BD+升级令破解失效</a>，SlySoft公司的AnyDVD HD软件和Doom9的开源努力都宣告失败。<i>
+从2009年1月始，SlySoft释放出更新，再次破解了BD+程序，比SlySoft开发者的悲观预期提前了一个月。不过BD+反应并不慢，使用一种无效率的方式让每个蓝光光盘包含一个独一无二的程序。因此，随着新蓝光的发布，用户不得不每次都要向SlySoft上传与电影/分区相关的log文件，然后在几天后从SlySoft获得惟一的更新程序。这种情况显然让SlySoft难以为继，而自去年12月之后Doom9的开源努力再也无法赶上BD+升级的步伐。要<a href="http://it.slashdot.org/story/09/07/01/1224235/BD-Resealed-Once-Again">再次打败BD+</a>显然需要更多人的努力。唯一的好消息也许是蓝光的销量远不如DVD，它还没有形成气候。</i>
+➜中国Firefox用户的众生相
+https://www.solidot.org/story?sid=12150	51240
+随着Firefox在中国用户的不断增多，Mozilla Firefox中文社区的taizitju总结了<a href="http://www.firefox.net.cn/forum/viewtopic.php?t=27310">Firefox用户的几个特征</a>：
+<i>永远用最新的版本号控。<br>
+只要绿色版的绿色控。<br>
+迷恋脚本，拒绝扩展的脚本控。<br>
+恨不得装上所有扩展的扩展狂人。<br>
+执着的firefox原教旨主义者。</i>
+请君对号入座。

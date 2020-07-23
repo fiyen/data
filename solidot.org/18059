@@ -1,0 +1,52 @@
+➜Matrix 1.0 发布
+https://www.solidot.org/story?sid=60949	10362
+去中心化实时互操作通信开放标准 <a href="https://matrix.org/docs/spec/" target="_blank"><u>Matrix</u></a> 发布了<a href="https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation" target="_blank"><u>首个完全稳定版本</u></a>，它同时发布了参考实现  Synapse 1.0。Matrix 1.0 意味着任何人都可以使用这个稳定版本去独立实现生产级别的 Matrix 客户端、服务器端、机器人程序或网桥。它并不意味着所有计划中的特性都已经实现了，但最重要的协议核心是一个人人可构建的定义明确的稳定平台。Matrix 协议可用于即时通讯、VoIP/WebRTC 和物联网通信，目前最常见的应用是即时通讯。Matrix 消息是
+JSON，很容易解析，它通过网桥与其它平台互通。Matrix 没有中心服务器，要实现通信你的客户端需要访问一台 homeserver 服务器，然后这台服务器与其它  homeservers 同步消息。
+➜鸿海以全球化布局应对贸易战
+https://www.solidot.org/story?sid=60950	12761
+鸿海周二<a href="https://cn.reuters.com/article/hon-hai-precision-global-plan-trade-0611-idCNKCS1TC100"><u>表示</u></a>，面对美中贸易战，该公司将以全球化布局、在地化生产快速敏捷因应，并且提高零组件自制率快速因应；至于美国的投资是布局中很重要的一环，预期 2020 年底将有 1,500-2,000 名员工。负责半导体事业的刘扬伟称表示，鸿海在全球有 25% 的产能在中国大陆以外的地区，足以应付目前需求。针对美中贸易诡谲的情况实在无法臆测，但会密切注意状况明朗后迅速做出对策。刘扬伟称，针对中美贸易战，目前已感受市场的转单效应，“只要全球需求消费能力维持在一样的水平，对我们影响会有，但不会那么大。”
+➜越南指责中国给本国产品打上越南制造的标签
+https://www.solidot.org/story?sid=60951	14110
+越南官员称中国故意给本国产品打上越南制造的标签<a href="https://www.usatoday.com/story/news/world/2019/06/10/vietnam-alleges-china-faking-made-vietnam-skirt-us-tariffs/1408023001/" target="_blank"><u>以避开美国关税</u></a>。中国公司首先将产品出口到越南，然后在出口到美国、日本或欧洲前更换包装上的标签。最容易“假冒”越南制造的产品有纺织品、鱼产品、农产品、钢材、铝和木制品。越南国有媒体称，早在 2017 年他们就发现伪造标签的现象。越南外交部长上周表示，这将破坏越南品牌和产品，也会影响到消费者。越南可能也会遭到其它国家的关税报复，如果发生这种情况，越南经济将会受到损害。
+➜微软称它使用了 2PB 地理数据制作飞行模拟的地图
+https://www.solidot.org/story?sid=60952	16613
+2019 年 E3 发布会最大的惊喜之一可能是微软飞行模拟游戏在时隔 13 年后宣布推出新版本。微软的上一款飞行模拟游戏是 2006 年发布的 Flight Simulator X。在主流硬盘容量只有 40 GB 的时代，Flight Simulator X 加上各种地景 Mod 之后，容量很容易突破 100 GB。新版本的地图地景质量有了明显的飞跃，游戏容量在 TB 时代可能也会迎来一次飞跃。微软游戏业务负责人 Phil Spencer 称，过去飞行模拟游戏售出了数以百万计拷贝，有着一个非常热心的社区，这个社区今天仍然存在，微软有理由复活这个游戏系列。他说，为了创建无缝整合的地球地图，<a href="https://www.pcgamer.com/microsoft-wants-to-bring-back-flight-simulator-to-show-it-supports-pc/" target="_blank"><u>他们使用了 2PB 地理数据</u></a>。如果地图数据容量太大，微软也许会采用串流技术去展示部分地图。
+➜Mozilla 展示新 Firefox logo
+https://www.solidot.org/story?sid=60953	18310
+<div align="center"><img src="https://img.solidot.org/0/890/li1Vy5A0PT2tI.jpg" width="400" height="200" align=""><br>
+</div>
+<br>
+Mozilla <a href="https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/"><u>展示了新 Firefox logo</u></a>。Mozilla 认为迅速聪明的狐狸无法反应出 Firefox 灵活适应环境变化的新特征。如图所示，新的 logo 没有了狐狸只剩下尾巴。Mozilla 是在去年<a href="https://www.solidot.org/story?sid=57389"><u>宣布</u></a>重塑 Firefox 品牌。因为 Firefox 不只是浏览器。Mozilla 过去几年围绕 Firefox 创造了一系列新的应用和服务，它认为需要重塑品牌来反映这一趋势。
+➜Have I Been Pwned 寻找买家
+https://www.solidot.org/story?sid=60954	25396
+Have I Been Pwned?（HIBP）维护者 Troy Hunt 宣布他<a href="https://www.troyhunt.com/project-svalbard-the-future-of-have-i-been-pwned/"><u>正在积极寻找买家</u></a>。HIBP 是知名的数据泄露通知网站，储存了各个网站和服务已知的泄露数据。Hunt 称至今 HIBP 的每一行代码、每一个配置和数据泄露记录都是他一个人做的，不存在 HIBP 团队之说，他一个人做了所有的事情。现在是时候壮大 HIBP，从一个个人维护的服务转变到由一个资源和资金更充足的机构维护的服务。他表示已经与部分有意收购的组织进行了非正式对话。Hunt 公布了部分 HIBP 服务的数据：80 亿泄露记录，300 万人订阅通知，发送了 700 万次邮件通知，每天独立访客 15 万，特殊情况下一天的访客数量会增加到 1000 万。对于收购，他希望搜索功能仍然免费，希望能继续参与该项目。
+➜RAMBleed Rowhammer 攻击能窃取数据
+https://www.solidot.org/story?sid=60955	26274
+一个国际研究团队发表<a href="https://rambleed.com/docs/20190603-rambleed-web.pdf"><u>论文</u></a>，描述了 Rowhammer 比特翻转攻击的新变种，称能用于窃取内存中的数据。Rowhammer 攻击利用了 DRAM 临近内存单元之间电子的互相影响，当重复访问特定内存位置数百万次后，攻击者可以让该位置的值从 0 变成 1，或从 1 变成 0。新的攻击被称为 <a href="https://rambleed.com/"><u>RAMBleed</u></a>，通过观察 Rowhammer 诱导的比特翻转，攻击者能推断出附近 DRAM 行中的值。在论文中，研究人员演示了对 OpenSSH 7.9 的攻击，他们利用 RAMBleed 攻击获取了 2048 比特的 RSA 密钥。研究人员称 RAMBleed 潜在能读取储存在内存中的任何数据，表示 ECC (Error Correcting Code)内存并不能防止 RAMBleed 攻击。
+➜地球一半的人口上网
+https://www.solidot.org/story?sid=60956	27096
+Mary Meeker 最新的<a href="https://www.bondcap.com/#view/title"><u>互联网趋势报告</u></a>称地球一半的人口<a href="https://www.axios.com/more-than-half-of-world-population-on-the-internet-mary-meeker-c4d623d6-32c1-47c0-b30e-5f934af88744.html" target="_blank"><u>上网</u></a>：2018 年全球 51% 的人口约 38 亿人是网民，2017 年是 49% 约 36 亿，而 2009 年只有 24%；称自己始终在线的美国成年人比例从 3 年前的 21% 增长到 26%；尝试限制智能手机使用的美国成年人比例从 2017 年的47% 增长到 63%；Apple、Google、Facebook 和 YouTube 都推出了帮助用户监视手机使用时间的工具；人们比一年前更关注隐私；加密消息和 Web 流量在增长；大部分美国人仍然认为互联网对个人和社会有积极的影响，但比例有所下降。
+➜WordPress.com VIP 平台下线三小时
+https://www.solidot.org/story?sid=60957	28720
+博客托管平台 WordPress.com 的 VIP 平台服务出现了“技术问题”，导致 VIP 平台出现<a href="https://lobby.vip.wordpress.com/2019/06/11/503-errors-and-availability-issues-for-vip-go-sites/" target="_blank"><u> 503 错误</u></a>或回到默认主题，整个事故<a href="https://www.zdnet.com/article/wordpress-com-vip-platform-outage-reverts-sites-back-to-default-themes/" target="_blank"><u>持续了约三个小时</u></a>，WordPress 官方表示它还在调查问题，完成之后会提供更详细的信息。受影响的知名新闻网站包括了 BBC America、TechCrunch、9to5Mac、9to5Google、VentureBeat、Rolling Stone、The Sun、Metro UK、DroneDJ 和 Electrek，以及知名的企业博客如 Facebook 和维基媒体基金会。
+➜西部数据将中止与华为的战略合作
+https://www.solidot.org/story?sid=60958	28889
+西部数据首席执行官（CEO）Steve Milligan 接受采访时<a href="http://cn.nikkei.com/china/ccompany/35952-2019-06-12-05-00-40.html" target="_blank"><u>透露</u></a>该公司将中止与华为技术的战略性合作。西部数据此前向华为供应智能手机闪存等，但交易暂时停止。中美贸易摩擦的影响正在波及大型企业。他表示鉴于华为被纳入美国商务部出口管制 “实体清单（Entity list）”，“需要重新考虑与华为的关系”。西部数据是闪存和硬盘驱动器的全球性大型企业，4 月该公司宣布与华为达成战略性合作协议。Milligan 对中美贸易摩擦对供应链的影响表示担忧称，“技术在全世界相互关联。期待中美两国政府找到建设性的解决措施”。
+➜Opera 发布游戏浏览器 Opera GX
+https://www.solidot.org/story?sid=60959	31733
+Opera <a href="https://www.zdnet.com/article/opera-launches-opera-gx-worlds-first-gaming-browser/"><u>发布了</u></a>专为网游玩家和游戏主播定制的浏览器 <a href="https://www.opera.com/gx#start" target="_blank"><u>Opera GX</u></a>。Opera GX 允许用户限制浏览器访问计算机资源如 CPU 和内存。Opera GX 背后的设想是向玩家提供一种上网冲浪的方法，同时将可用计算机资源留给游戏或同时运行的直播应用。运行游戏需要占用大量的计算资源，如果同时直播的话需要的资源会更多。为了减少资源占用，玩家通常会在游戏前关闭浏览器以免它影响游戏体验。Opera 称，有了 Opera GX 后玩家不用关闭浏览器了。除了可以限制 CPU 和内存使用外，Opera GX 还整合了游戏直播服务 Twitch。
+➜分子老化也有中年危机
+https://www.solidot.org/story?sid=60960	33592
+正如计算机需要代码一样，我们的身体也受到分子“程序”的控制，这些程序是在生命早期编写的，然后在随后的一生中必须正确地工作。但它们会毫不出错地一直正确工作吗？多年来，这个问题困扰着许多研究人员。 根据发表在《Aging Cell》期刊上的<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/acel.12970"><u>一项研究</u></a>，科学家<a href="http://www.ebiotrade.com/newsf/2019-6/2019611100631383.htm" target="_blank"><u>发现</u></a>已知的促进长寿的关键分子程序并不会持续到中年以后。这项研究为人类疾病从 60 岁起随着健康保护机制的消失而急剧增加提供了一个可能的新原因。这就提出了一个问题：如果你希望通过药物、营养物质或生活方式来促进 “抗衰老” 程序，那么等到你 60 多岁再时候开始是不是太迟了？
+➜新研究大幅缩小系外复杂生命的搜索范围
+https://www.solidot.org/story?sid=60961	39329
+科学家可能需要重新计算太阳系外能支持复杂生命的行星数量。根据发表在《The Astrophysical Journal》期刊上的一项<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab1d52"><u>新研究</u></a>，加州河滨大学领导的一个团队<a href="https://phys.org/news/2019-06-narrows-advanced-life-universe.html"><u>发现</u></a>大多数行星大气层中积累的有毒气体使得它们并不适合我们所知的复杂生命的生存。传统上，系外文明的搜寻主要集中在星系的宜居带，宜居带区域内的行星与母星距离适中，地表能支持液态水存在。这种环境简单生命可能存在，但复杂生命如动物未必适合。研究人员定义了“安全带（safe zone）”去描述可能适合复杂生命生存的行星。研究人员称，他们的结果显示绝大多数位于传统定义宜居带的行星不可能存在复杂生态系统。根据他们的计算，距离太阳系最近的两个星系比邻星和 TRAPPIST-1 都不存在安全带。除地球外，太阳系内也不存在位于安全带的行星。研究人员说，要好好保护地球，它是宇宙中至今我们所知唯一适合人类生存的行星。
+➜中国的资金在硅谷突然变得烫手
+https://www.solidot.org/story?sid=60962	43151
+硅谷创业公司  Pilot AI Labs 去年夏天与中资背景的风投 Digital Horizon Capital 签署了投资协议，但现在它想与对方切断关系，因为该公司希望向美国政府销售更多 AI 软件，担心与中资的关系会影响到这一努力。投资公司的主席断然拒绝了出售股份的要求。中国投资者在硅谷曾非常受欢迎，<a href="http://archive.is/urxAO#selection-149.92-1465.359" target="_blank"><u>但如今它们变成了烫手山芋</u></a>。中国向美国创业公司的投资去年初创下了记录，但从去年五月开始放缓。国家支持的投资者到年底完全消失了。来自中国的直接投资从 2016 年的 460 亿美元跌至了去年的 50 亿美元。
+➜埃博拉疫情从刚果扩散到乌干达
+https://www.solidot.org/story?sid=60963	44811
+乌干达卫生官员<a href="https://arstechnica.com/science/2019/06/massive-ebola-outbreak-spreads-across-drc-border-infected-5-year-old-in-uganda/"><u>证实了</u></a>该国第一例埃博拉感染病例，在刚果民主共和国肆虐了十个月的<a href="https://www.who.int/zh/news-room/detail/23-05-2019-united-nations-strengthens-ebola-response-in-democratic-republic-of-the-congo" target="_blank"><u>埃博拉疫情</u></a>跨过了国境。世界卫生组织 WHO 6 月 11 日报告，感染者是一名随家人到乌干达旅行的 5 岁刚果男孩。他已经在乌干达的埃博拉治疗机构接受了治疗。乌干达卫生官员担心病毒的快速扩散。埃博拉病毒性出血热极端危险，平均病死率约为 50%。截至 6 月 9 日，对于刚果的埃博拉疫情 WHO 报告了 2,062 个感染病例，其中 1,968 个确诊，94 个疑似；疫情已造成 1,390 人死亡，其中 1,296 个确认，94 个疑似。这是有记录以来第二大埃博拉疫情爆发，仅次于 2014 年西非的爆发，那次疫情共报告了 28,000 个感染病例和 11,000 人死亡。WHO 称，感染者中有三分之一是儿童，这一比例高于以往的疫情。
+➜百度因信息流广告被约谈
+https://www.solidot.org/story?sid=60964	47373
+上海市网信办发现本市部分聚合资讯类网站，以标题党文章吸引网民关注。而网民一旦点击其链接，网页指向均为百度的信息流广告。上海市网信办于 6 月 12 日联合市市场监管局<a href="http://www.bjnews.com.cn/finance/2019/06/12/590280.html" target="_blank"><u>约谈</u></a>百度上海分公司，责令其就存在严重网络生态问题的信息流广告进行立即整改，市场监管部门将对其中严重违法广告依法调查处理。同时，上海市网信办责令属地相关网站做好广告审核。上海市网信办对于百度公司为了流量利益，罔顾社会公序良俗，罔顾互联网法律法规，在一些网站上投放此类恶俗信息流广告的行为予以谴责。先前，百度公司在搜索领域将公司利益置于社会利益之上的行为，已引起舆论谴责。此番发生在广告领域的问题，也反映了公司在经营行为中扭曲的价值观。

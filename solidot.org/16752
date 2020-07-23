@@ -1,0 +1,57 @@
+➜Mozilla计划移除Firefox Complete Themes的支持
+https://www.solidot.org/story?sid=46149	11301
+作为重振Firefox计划的一部分，Mozilla正在淘汰XUL和XBL，而移除Firefox Complete Themes（或叫重量级主题，允许在主题中使用任意样式）的支持是这个计划的一部分。Mozilla的Benjamin Smedberg<a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=1222546"><u>在bugzilla上说</u></a>，他们考虑了两个方案：一个就是移除该功能，另一个是扩展轻量级主题功能，用功能扩展的轻量级主题替代重量级主题。和Mozilla的所有计划一样，这一决定<a target="_blank" href="http://developers.slashdot.org/story/15/11/12/2015227/mozilla-plans-to-remove-support-for-firefox-complete-themes"><u>又引发了争议</u></a>，批评者认为这又是在拷贝Google的 Chrome。
+➜Gmail将对非加密连接发送来的邮件发出警告
+https://www.solidot.org/story?sid=46150	13387
+Gmail将在不久之后对通过非加密连接发送来的电子邮件<a target="_blank" href="http://techcrunch.com/2015/11/12/gmail-will-soon-warn-users-when-emails-arrive-over-unencrypted-connections/"><u>警告用户</u></a>。Gmail默认使用HTTPS连接，但许多电子邮件供应商在邮件传输过程中没有使用加密，这使得邮件很容易被中间人拦截。根据Google的<a target="_blank" href="http://www.google.com/transparencyreport/saferemail/?hl=en"><u>数据</u></a>，Gmail发送给其它邮件服务商的邮件81%是加密的，Gmail接收到的邮件57%是加密的。Google和密歇根、伊利诺斯大学的研究人员观察到了纂改建立初始化SSL连接请求阻止邮件加密的活动，以及试图拦截流量的恶意DNS服务器。<br>
+➜双十一人造消费热的反思
+https://www.solidot.org/story?sid=46151	15498
+<a href="/~大家都别买继续">大家都别买继续</a> 写道 "<i><a href="http://finance.eastmoney.com/news/1354,20141203452893256.html" target="_blank">“双十一”已经成为电商肩上一块沉重的包袱</a>。“双十一”是人为地使11月、12月的电商销量集中在一天井喷，以消耗节日前后电商市场销量为代价换取短暂繁荣。不可忽视的是，历年“双11”都会出现后遗症，那就是退货率开始飙升。一些双11活动中高居成交额榜单前列的品牌（尤其是服装与手机），<a href="http://www.aliyun.com/zixun/content/2_6_716444.html" target="_self">在后面一个月的退款率远高于行业均值</a>。对于退货率飙升的原因之一，有不少传闻称是卖家刷单，但一直未获证实。每年双11商家都会在人力、物流、仓储上进行扩容，而在平时这些资源基本闲置，也带来了很大损失。随着国内购物节越来越频繁，消费者已出现体验疲劳，想要维持“双11”的繁荣，猫狗必须砸下更多宣传成本，这无异于一个无底洞。<a href="http://www.investide.cn/news/133930.html" target="_blank">有段时间，外媒曾对“双11”的选题特别关注，但最终都没有发现超出商业常识和运转规律的内容</a>。中国互联网相信“用户为王”，这是基于13亿人口规模的逻辑推理；而华尔街的投资倾向遵循“技术驱动”，拒绝信任用户为某种恒定资源——用户通常不可预测、毫无忠诚且最难以捉摸，除非像Facebook和Instagram这样能够在他们之间增加一个关系纽带——华尔街对于投资对象的拷问亦会围绕技术壁垒进行延展：技术的不可替代性最强，也最不容易受到互联网泡沫的侵蚀。常被与阿里作对比的美国电商亚马逊，其股价真正开始腾飞也是拿出了足以证明匹配长远目标的技术革新——建立在Kindle和AWS的业务发展（尤其是后者），而非盛传的致股东信。华尔街冷落阿里，并不是阿里的业绩真有问题，而是阿里没有深入技术领域的动力。 阿里和百度等领袖级中概股无法理解华尔街的变脸之快，在它们看来，华尔街总是以硅谷的发展历程同比中国互联网，并且坚持生硬的将中国的科技巨头放在美国对标企业身上，一旦发现走势有异，便做出偏袒性的判断。　迷信数字的底线、供需压放的艰难、用户好奇的消退、商户热情的降低、行业竞争的无序…这些都加剧了电商企业们对于双11的焦虑，它像一个从每年秋季伊始就缠绕在各部门头顶的KPI幽灵，使得完成任务本身沦为所剩无几的目标。 或许应该去提醒那些鸡鸭，它们并非游弋在湖面，而是在铁锅里的沸水上扑腾。"</i>《金融时报》的<a target="_blank" href="http://www.ftchinese.com/story/001064817"><u>报道</u></a>也值得一读。
+➜香港多名知名人士被曝学位来自菲律宾学位工厂
+https://www.solidot.org/story?sid=46152	18759
+《苹果日报》连续三天<a target="_blank" href="http://hk.apple.nextmedia.com/news/art/20151113/19371128"><u>曝光了</u></a>学位买卖丑闻。<a target="_blank" href="http://hk.apple.nextmedia.com/realtime/news/20151113/54422682"><u>国力书院</u></a>与菲律宾大学合作，以远程教育的名义高价出售博士学位，博士学位论文则涉嫌技巧性的抄袭其他人的论文。香港岭南大学协理副校长兼总务长夏迪星，树仁大学最少11名教员、亲北京民建联议员郑琴渊、港姐亚军<a target="_blank" href="http://hk.apple.nextmedia.com/news/art/20151113/19370991"><u>蔡思贝</u></a>等知名人士都被发现通过国力书院获得菲律宾大学的学位。这一高等教育界丑闻的爆发或与院校追求世界排名，极力要求教员＂博士化＂有关。香港立法会教育界议员叶建源指，中介机构营办这类海外课程门槛低，香港政府有欠监管。香港教育局<a target="_blank" href="http://www.dw.com/zh/%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%A0%A1%E9%95%BF%E6%B6%89%E6%8A%84%E8%A2%AD%E8%AE%BA%E6%96%87%E6%8F%AD%E6%A0%A1%E8%91%A3%E5%BC%80%E8%AE%BE%E5%AD%A6%E4%BD%8D%E5%B7%A5%E5%8E%82/a-18846415"><u>表示</u></a>，已去信要求国力书院，提供课程收生、学分转移、课堂导修出席等纪录，如果发现有怀疑违反相关条例，将按既定程序展开调查及处理。
+➜中国起草新规限制高频交易
+https://www.solidot.org/story?sid=46153	23770
+程序化交易被中国当局认为是7、8月股灾的祸首。证监会起草新规去限制高频交易/程序化交易，禁止境内经纪人接收境外电脑发出的电子交易，即现在外国投资者通过跨境投资项目交易的模式。规定还要求外国企业上交交易程序的代码。此事引发了争议，尤其是高频交易源代码被视为证券公司的机密。亚洲证券业与金融市场协会<a target="_blank" href="http://cn.reuters.com/article/2015/11/13/cn-stx-rule-idCNKCS0T20CQ20151113?sp=true"><u>致函证监会</u></a>，表示新规将破坏规模达1600亿美元的重要投资渠道，包括下周刚满一周年的沪港通。市场人士和律师称，他们认为新规草案不够精细，也无意伤及沪港通和面向海外投资者的其他机制，希望监管当局能进一步完善新规草案。
+➜Google自主驾驶汽车因为太慢被拦下
+https://www.solidot.org/story?sid=46154	25540
+<div align="center"><img src="http://img.solidot.com.cn/0/171/li9h1b6XwSRBg.jpg" align=""><br>
+<br>
+</div>
+一辆Google的自主驾驶汽车因为行驶速度太慢阻碍交通被加州山景城的警察拦下。警方发表<a target="_blank" href="http://mountainviewpoliceblog.com/2015/11/12/inquiring-minds-want-to-know/"><u>声明说</u></a>，一名交警注意到一辆汽车在限速35 mph的区域以24 mph的速度行驶，导致后面的车辆行驶缓慢出现拥堵。当警官接近汽车后他认出它是Google自主驾驶汽车原型。警官拦下了汽车，对里面的操作人员进行一番交通法规教育，然后就放行了，<a target="_blank" href="http://tech.slashdot.org/story/15/11/13/0356241/google-car-pulled-over-for-driving-too-slow-doesnt-get-a-ticket"><u>没有开罚单</u></a>。Google自主驾驶汽车项目在其Google+账号公布了<a target="_blank" href="https://plus.google.com/u/0/+SelfDrivingCar/posts/j9ouVZSZnRf"><u>一幅交警拦下汽车的照片</u></a>（如图），Google没有透露照片是如何拍摄的，但解释说是出于安全理由将车速限制在25mph。<br>
+➜中国教育精英的出身
+https://www.solidot.org/story?sid=46155	29251
+精英阶层的流动性是一个值得研究的主题，此前的研究<a target="_blank" href="http://www.solidot.org/story?sid=32289"><u>发现</u></a>，在中国，无论是帝制末期，还是民国和共产党时期，社会流动率都比以前预计要低得多，也就是精英的后代成为精英的可能性要比其他人大得多。香港科技大学教授李中清等人<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/11/331628.shtm"><u>研究了中国的教育精英出身</u></a>，发现：1865—1905年，即清政府废除科举之前，超过70%的教育精英是官员子弟，来自全国各地的绅士阶层；1906—1952年，超过60%的教育精英是地方专业人士和商人子弟，尤其是江南和珠三角地区；1953—1993年，约超过40%的教育精英是来自全国的无产阶级工人子弟；1994—2014年，超过50%的教育精英来自各地区的有产家庭，与特定的重点高中。他说，“中国现在确实面临着阶层固化的风险。同西方社会一样，不断增长的财富、收入与机会的不平等，也是中国今日的显著特点。但至少目前，与西方，譬如美国不一样的是，中国的受教育精英并非长期来自那些极少数富裕家庭。与西方社会精英长期固化，难以转变不同，作为社会精英的主体，中国的教育精英长期以来一直处于转变中，这是中国社会的一个重要特点。”
+➜Firefox的新内存工具
+https://www.solidot.org/story?sid=46156	30658
+Mozilla发布了Firefox 44开发者版，<a target="_blank" href="https://hacks.mozilla.org/2015/11/firefoxs-new-memory-tool/"><u>引入了</u></a>全新的<a target="_blank" href="https://developer.mozilla.org/docs/Tools/Memory"><u>内存工具</u></a>，帮助开发者了解Web应用如何使用和保留内存，这对移动网站开发尤其有价值。内存工具通过捕捉内存中所有对象的快照，以树形/表格的格式展示，内存中对象被分成四类：JS对象、JS脚本、JS字符串和其它。开发者可以捕捉多个快照，判断应用程序的内存使用如何随时间发生变化。
+➜Mac应用商店应用因安全证书bug“报错”
+https://www.solidot.org/story?sid=46157	32153
+因为一个用于反盗版的安全证书过期而苹果没有及时更新后，许多从Mac应用商店下载或购买应用的用户<a target="_blank" href="https://thestack.com/security/2015/11/12/mac-app-store-apps-damaged-following-security-certificate-bug/"><u>被告知所有程序受损</u></a>，被迫卸载和重新安装，最后他们发现原来是苹果的错误。苹果更新了证书，这一次证书的有效时间不是五年而是二十年，证书要到2035年才会过期。但如果用户没有联网的话，他们的应用仍然会受到过期证书的影响。<br>
+<br>
+➜Gene Amdahl去世，享年92岁
+https://www.solidot.org/story?sid=46158	35665
+著名计算机架构师<a target="_blank" href="https://en.wikipedia.org/wiki/Gene_Amdahl"><u>Gene Amdahl</u></a>去世，<a target="_blank" href="http://www.nytimes.com/2015/11/13/technology/gene-amdahl-pioneer-of-mainframe-computing-dies-at-92.html?_r=0"><u>享年92岁</u></a>。Gene Amdahl曾是IBM的雇员，是大型机System/360的关键架构师，而System/360是IBM最成功的大型机系列，今天仍然为蓝色巨人带来数十亿美元的收入，Amdahl被当时的CEO Thomas J. Watson Jr.誉为是360之父。Amdahl在1970年代离开了IBM创办了自己的公司Amdahl Corporation，开发与IBM兼容的大型机，但更便宜更快。我们都听说过微软的FUD策略——代表恐惧、不确定和怀疑——但实际上这个词是Gene Amdahl<a target="_blank" href="http://www.deadprogrammer.com/fud-you"><u>发明的</u></a>，因为IBM的销售人员就是使用这个策略对付他的公司。传说，如果你在桌子上放了一个印有 Amdahl名字的杯子，IBM的销售会给你百万美元的折扣，这个杯子就被称为“百万美元杯”。
+➜俄罗斯不小心公开超远程核鱼雷计划
+https://www.solidot.org/story?sid=46159	39000
+<div align="center"><img src="https://img.solidot.org/0/173/liTDs7Ow3N0VY.jpg" width="560" height="315" align=""><br>
+</div>
+<br>
+俄罗斯正在研发攻击对方沿海城市造成大面积放射性污染的远程核鱼雷。该绝密计划是国有电视台 Channel One在11月10日的节目中<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/11/151113_russia_nuclear_torpedo_tv_leak"><u>不小心公开的</u></a>，该计划被命名为Ocean Multipurpose System Status-6，由圣彼得堡的潜艇设计局Rubin研发。电视台在节目中报道了普京与军方高层举行的一次军工会议。画面中，可以清楚地看到一名俄罗斯将军正在查看手中拿着的一份机密报告（如图所示）。机密报告在画面上显现长达数秒，核鱼雷的草图和信息清晰可见。草图上的巨型鱼雷武器系统的作战距离被描述为“近万公里”，可在一千米深的水中航行。俄罗斯一些评论人士认为，俄方泄露巨型核武鱼雷计划是有意为之。类似核武鱼雷计划构想始于冷战年代的上世纪50年代，由前苏联核物理学家安德烈·萨哈罗夫设计。
+<br>
+<br>
+<center>
+<iframe src="https://www.youtube.com/embed/_FgPBGteLzU" allowfullscreen="" width="512" height="360" frameborder="0"></iframe>
+</center>
+➜Chrome V8漏洞让攻击者能劫持Android手机
+https://www.solidot.org/story?sid=46160	41305
+奇虎360的研究员 Guang Gong 在MobilePwn2Own上演示利用一个Chrome V8引擎漏洞<a target="_blank" href="http://www.theregister.co.uk/2015/11/12/mobile_pwn2own/"><u>劫持最新的Android手机</u></a>。漏洞细节没有公开。这个漏洞可被用于安装任意应用，在演示中研究人员安装了疯狂单车游戏（BMX Bike）。漏洞能工作在最新版的Chrome上，因此可被用于劫持任意运行Chrome的Android手机。一位Google工程师就在现场，该公司应该会向Guang Gong支付漏洞发现赏金。
+➜Windows 10 11月更新释出
+https://www.solidot.org/story?sid=46161	43406
+微软<a target="_blank" href="http://arstechnica.com/information-technology/2015/11/windows-10-november-update-features-fixes-and-enterprise-readiness/"><u>开始向所有Windows 10用户推送一次大更新</u></a>——类似传统的Service Pack。新的更新包括了新功能和bug修正，系统的版本信息也发生了改变，从Version 10.0 (Build 10240)变成了Version 1511 (OS Build 10586.3)，代表2015年11月，Windows 10正变成微软所说的“Windows 即服务”。在Build 10240中，开始菜单只支持512个条目，Build 10586将支持数量扩大到了2048个；10586移除了部分开始菜单和任务栏样式；桌面上下文菜单也发生了改变，应用可以选择彩色的标题栏，控制面板和设备管理器的图标被更新了，微软正在逐渐替换所有的旧图标；Cortana能根据你的记录创建提醒，如果你有 Windows Phone，它还能告诉你错过的电话；当你不再办公室，Cortana甚至能自动休眠电脑。
+➜通用计划在美国销售中国产汽车
+https://www.solidot.org/story?sid=46162	44702
+通用汽车计划在美国<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/11/151113_gm_china_automobile_imports"><u>销售</u></a>中国制造的汽车，这是国际大型汽车公司首次进口中国汽车。 通用汽车将从明年初起引进在中国大陆生产的中型车“别克愿景”（Buick Envision），初期将进口三至四万辆在美国市场销售；该五座车将是这个总部位于的底特律的公司首款在中国制造而后在美国销售的汽车。这将是别克品牌在美国销售的第三款运用型多用途车（SUV）。别克是通用在中国市场最受欢迎的品牌，在中国市场的销售额相当于北美市场的四倍，但中国市场近期的销售增长正在放缓。
+➜在反移民的科学家禁止使用其软件后他的论文被撤回
+https://www.solidot.org/story?sid=46163	45956
+今年9月，生物信息学软件Treefinder的作者 Gangolf Jobb<a target="_blank" href="http://news.sciencemag.org/europe/2015/09/scientist-revokes-software-license-protest-immigration-friendly-policies"><u>宣布</u></a>撤回八个欧洲国家研究人员使用他的软件的授权，因为他认为这些国家允许了太多的移民进入其国境。禁令从10月1日开始生效，这八个国家是德国、奥地利、法国、荷兰、比利时、英国、瑞典和丹麦。Treefinder被数以百计的论文用于构建树状图。此举在科学家中间引发了争议。现在《BMC Evolutionary Biology》期刊<a target="_blank" href="http://news.sciencemag.org/europe/2015/11/paper-retracted-after-scientist-bans-use-his-software-countries-welcome-refugees"><u>撤回了</u></a>Jobb发表于2004年的该软件描述论文，<a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4635604/"><u>理由</u></a>是授权变更违反了该期刊关于软件可用性的编辑政策。

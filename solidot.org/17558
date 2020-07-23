@@ -1,0 +1,22 @@
+➜一加操作系统被发现内置了“Badword”过滤名单
+https://www.solidot.org/story?sid=55360	41361
+<div align="center"><a href="//img.solidot.org/0/506/lilQUPbET9MOI.jpg"><img src="//img.solidot.org/0/506/lilQUPbET9MOI.jpg" width="500" align="" height="153"></a><br>
+</div>
+<br>
+安全研究人员 Elliot Alderson 在一加的剪切板应用里<a href="https://twitter.com/fs0c131y/status/956628910308982785?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fbgr.com%2F2018%2F01%2F26%2Foneplus-data-collection-clipboard-app%2F" target="_blank"><u>发现了</u></a>名叫 badword.txt 的文件（如图所示，点击放大）， 其中包含了大量中文短语，如“领袖”、“纪念日”，“博士”、“将军”等，与我们熟知的黑名单有很大差别。该文件被复制到名叫  pattern 的压缩文件里，该压缩文件包含有 7 个文件：badword.txt， brackets.txt，end.txt，follow.txt，key.txt 和 start.txt。所有这些文件都被北京泰迪熊移动（TeddyMobile）的一个库使用。泰迪熊移动的合作伙伴包括了小米，魅族，联想，欧珀等，其服务包括短信内容分析等。研究人员<a href="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent" target="_blank"><u>怀疑</u></a>一加在未经用户同意的情况下将用户的各种数据发送到中国公司的服务器上。一加很快在官方论坛上<a href="https://forums.oneplus.net/threads/oneplus-please-not-another-breach-of-our-trust-clipboard-app-in-beta.762511/" target="_blank"><u>做出了回应</u></a>，否认了这一说法，声称这些关键词是用于过滤不被上传的数据。
+➜日本交易所被盗 5.3 亿美元数字货币
+https://www.solidot.org/story?sid=55361	45164
+日本数字货币交易所 Coincheck <a href="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange" target="_blank"><u>被盗了</u></a>价值 5.3 亿美元的 NEM 币。日本当地时间 1 月 26 日凌晨 3 点，时价 580 亿日元（约 5.34 亿美元）的 NEM 币被黑客从热钱包里转出（<a href="https://www.reddit.com/r/nem/comments/7t6qa0/list_of_nem_wallets_associated_with_coincheck_hack/" target="_blank"><u>相关地址</u></a>），交易所随后宣布暂停存取款，在中午暂停交易，下午 4 点左右终止一切交易。这是至今金额最高的数字货币被盗案件。Coinbase 在<a href="http://logmi.jp/260622" target="_blank"><u>新闻发布会</u></a>上声称它 98% 的  NEM 币储存在离线的冷钱包里，该公司表示已经向警察厅和警察局报案。NEM 正在<a href="https://www.reddit.com/r/nem/comments/7t7az6/nem_is_creating_an_automated_tagging_system_this/" target="_blank"><u>创建</u></a>一个自动标记系统，标记被盗窃的“脏”币。
+➜YouTube 广告被发现含有挖矿代码
+https://www.solidot.org/story?sid=55362	49923
+YouTube 的部分广告被发现<a target="_blank" href="https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/https://arstechnica.com/information-technology/2018/01/now-even-youtube-serves-ads-with-cpu-draining-cryptocurrency-miners/"><u>含有</u></a>挖门罗币的脚本。YouTube 用户至少从周二开始就报告在浏览时杀毒软件弹出了检测到挖矿脚本的警告。趋势科技的研究人员在周五表示攻击者滥用了 Google 的 DoubleClick 广告平台，对部分国家的访问者选择性的展示含有挖矿脚本的广告，受影响的地区包括日本、法国、台湾、意大利和西班牙。研究人员分析的样本显示，90% 的挖矿脚本来自 Coinhive，还有 10% 则是私有的。两种脚本都编程占用 80% 的 CPU 资源。
+➜阻止网站调用不必要的你的浏览器 API
+https://www.solidot.org/story?sid=55363	53093
+<a href="http://www.bugmenot.com">就不鸟王朙睿</a> 写道<i> "现代浏览器并未就保护在线用户个人隐私经过系统性设计，诸多新特性使用户得以体验新应用的同时也在遭到滥用。伊利诺伊大学 BITSLabs 的 Peter Snyder 等人提出一种量化某一项 Web 特性的“成本”（启用时所带来的安全风险，如相关的公开漏洞利用、潜在理论攻击）和“收益”（比如需要该特性才能正常运作的网站数量）的<a href="https://arxiv.org/abs/1708.08510" target="_blank">方法论</a>，并据此构建了 WebAPI Manager。通过在 Alexa 排名前 10000 的最流行网站上对 74 个主要的 Web API 标准进行评估，研究人员发现以往默认允许网站访问大部分 Web API 的做法构成显著的安全与隐私风险，对用户却没有相应的好处。根据他们的的测算，禁止其中 15 项标准可以规避 52% 已存在的公开漏洞相关代码分支，而 50% 的实现代码并不影响 94.7% 受测网站的功能性。源代码托管在 <a href="https://github.com/snyderp/web-api-manager" target="_blank">Github</a>。"
+</i>
+➜Firefox 59 将引入一系列新 WebExtensions API
+https://www.solidot.org/story?sid=55364	56913
+Firefox 57 淘汰了旧的扩展，正式转向了 WebExtensions 扩展架构，但目前 WebExtensions 提供的功能相比旧扩展架构要少许多，导致很多流行的扩展难以移植到新架构。Mozilla 官方博客<a href="https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/" target="_blank"><u>宣布</u></a>下一个版本 Firefox 59 将会引入一系列新的 WebExtensions API 和改进，包括：标签隐藏，browserSettings.openBookmarksInNewTabs() API，browserSettings.openSearchResultsInNewTabs() API，tabs.captureTab()，更多主题 API，改进  webRequest API，改进 browserAction 和 pageAction，增强扩展对 cookies 的控制，改进代理设置， 等等。此外 Firefox 59 还将支持去中心化协议 Dat Project (dat://)，IPFS (dweb://  ipfs://  ipns://)，Secure Scuttlebutt (ssb://)。
+➜裸鼹鼠不会衰老
+https://www.solidot.org/story?sid=55365	59846
+生活在地下的裸鼹鼠被视为是一种神奇的动物，它具有动物乃至人类都非常羡慕的特性： 几乎不会得癌症，它的寿命超过30岁，比其它鼠类长得多，活过 30 岁的雌性仍然具有繁殖能力；它还感觉不到痛苦，在缺氧的条件下能生存 18 分钟。现在科学家又发现了裸鼹鼠的一种神奇之处：<a href="http://www.sciencemag.org/news/2018/01/naked-mole-rats-defy-biological-law-aging" target="_blank"><u>不会衰老</u></a>。对数千只裸鼹鼠的生命历史的分析发现，它们的死亡风险不会随着着年龄的增长而上升，与已知的每一种哺乳动物都不同。部分科学家对此发现表示谨慎，其他科学家则表示新的数据令人瞩目。UCLA 的 Caleb Finch 说，随着年龄的增长，它们的死亡率远低于其他任何哺乳动物。裸鼹鼠已被发现有着非常活跃的 DNA 修复和高水平的伴侣蛋白帮助蛋白质正确折叠。

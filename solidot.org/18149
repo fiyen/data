@@ -1,0 +1,46 @@
+➜Vivaldi 发布 Android 版本
+https://www.solidot.org/story?sid=62028	8205
+匿名读者 写道 <i>"在发布其桌面版本的<a href="https://vivaldi.com/timeline/" target="_blank">四年</a>后，Vivaldi 终于<a href="https://vivaldi.com/android/" target="_blank">发布</a>了 Android 版本。<a href="https://vivaldi.com/blog/vivaldi-goes-mobile-android/" target="_blank">Beta 版功能</a>包含端对端加密的数据同步，与其桌面版本外观功能相近的快速拨号，支持富文本的笔记，完整或可视部分页面截图。需运行在 Android 5 或更高版本。"</i>
+➜GitHub 升级到 Rails 6.0
+https://www.solidot.org/story?sid=62029	11263
+GitHub 宣布它<a href="https://github.blog/2019-09-09-running-github-on-rails-6-0/" target="_blank"><u>顺利升级到了 Rails 6.0</u></a>。GitHub 平台是用 Rails 构建的，而 Rails 也是最早托管在 GitHub 上大型开源项目之一。GitHub 称他们的开发者与上游紧密合作，参与了新版本的开发。在 Rails 6.0 开发期间，GitHub 工程师递交了 100 多个 pull requests 去改进文档、修复 bug、增加功能和改善性能。GitHub 称升级 Rails 6.0 到生产环境没有对客户造成任何负面影响，唯一的异常发生在测试期间，还是 bot 导致的。
+➜临床试验显示高剂量维生素 D 无助于强化骨质
+https://www.solidot.org/story?sid=62030	13706
+<a href="https://zh.wikipedia.org/wiki/%E7%BB%B4%E7%94%9F%E7%B4%A0D" target="_blank"><u>维生素 D</u></a> 对人体骨骼有益，能促进骨骼的生长和重构，可以预防小儿佝偻病和成人骨软化症，与钙合用可以预防老年人骨质疏松。虽然日常的光照就能合成足够的维生素 D，但仍然有很多人服用维生素 D 的补充剂。根据发表在《美国医学会期刊》上的<a href="https://jamanetwork.com/journals/jama/article-abstract/2748796" target="_blank"><u>一项研究</u></a>，服用高剂量的维生素 D 并不能加强骨质。加拿大研究人员在 2013 年 8 月到 2017 年 12 月之间对 311 名健康成人进行了双盲随机临床试验，他们分别每天服用 400/4000/10000 国际单位的维生素 D，结果显示每一组的骨强度基本没有任何 变化。这意味着服用高剂量维生素 D 补充剂并不能改进骨骼健康。研究人员表示还需要进一步研究去判断高剂量维生素 D 是否有害。
+➜美国 40 多个州启动对 Google 的反垄断调查
+https://www.solidot.org/story?sid=62031	16430
+美国 48 个州以及哥伦比亚特区及波多黎各的检察长周一开始对谷歌<a href="https://cn.reuters.com/article/us-state-prosecutor-google-antitrust-091-idCNKCS1VV04F" target="_blank"><u>展开反垄断调查</u></a>，此事暗示政府正在不断加强对美国科技巨擘的审查。主导本次调查的德克萨斯州检察长 Ken Paxton 表示，调查将侧重谷歌 “在网络广告市场和搜索流量方面的总体控制，其可能造成不利于消费者的反竞争行为。”加利福尼亚州和阿拉巴马州拒绝参与此次调查。另一个由八个州检察长组成的团体周五宣布，将对 Facebook <a href="https://www.nytimes.com/2019/09/09/technology/google-antitrust-investigation.html?module=inline"><u>展开调查</u></a>。这些检察长周一没有透露他们是否打算将审查范围扩大到其他大型科技公司。亚马逊、苹果、Facebook 和谷歌正日益成为各国监管机构和立法者的调查目标，虽然具体原因各不相同，但针对它们的不满有一点是一致的 —— 人们害怕过多的权力集中在过少的公司手中。
+➜数以千计的服务器感染 Lilocked 勒索软件
+https://www.solidot.org/story?sid=62032	19143
+数以千计的服务器<a href="https://www.zdnet.com/article/thousands-of-servers-infected-with-new-lilocked-lilu-ransomware/" target="_blank"><u>感染了</u></a>名为 Lilocked (Lilu)的勒索软件。最早的感染是在 7 月中旬报告的，最近两周愈演愈烈，它被认为主要针对的是 Linux 服务器，可能利用旧版本  Exim 软件的漏洞，但还不清楚勒索软件是如何获得服务器的 root 访问的。勒索软件并不加密全盘文件，而只是 HTML、SHTML、JS、CSS、PHP、INI 等文件格式，加密后的文件扩展变为 ".lilocked，感染勒索软件的服务器仍然能正常运行。勒索软件作者留下了名为 #README.lilocked 勒索通知，因此你可以通过 Google 搜索该文件名找到感染了 Lilocked 的服务器，<a href="https://www.google.com/search?client=firefox-b-d&amp;ei=vzF3Xc_yEorC-gTs_oqYAw&amp;q=intitle%3A%22index+of%22+%22%23README.lilocked%22"><u>输入</u></a> intitle:"index of" "#README.lilocked"返回了 6000 多个结果，安全研究人员称 Lilocked 加密了 6700 多台服务器，许多感染的服务器都被 Google 索引和缓存了。
+➜美国上诉法院裁决抓取公开网站没违反计算机欺诈和滥用法
+https://www.solidot.org/story?sid=62033	25981
+美国第九巡回上诉法院<a href="http://cdn.ca9.uscourts.gov/datastore/opinions/2019/09/09/17-16783.pdf"><u>做出裁决</u></a>（PDF），抓取公开网站的信息没有违反计算机欺诈和滥用法。此案与微软子公司 LinkedIn 和创业公司 HiQ Labs 有关。HiQ Labs 通过抓取  LinkedIn 上的公开账号数据，使用算法预测企业雇员的行为，比如是否会辞职。在容忍了抓取行为多年之后 LinkedIn 向这家公司发去了禁止和终止信函，警告抓取行为违反了美国的计算机欺诈和滥用法。HiQ 提起了诉讼。2017 年美国旧金山地区法院法官<a href="https://www.solidot.org/story?sid=53466"><u>裁决</u></a>， LinkedIn 不能禁止 HiQ Labs 访问公开账号数据，法官命令 LinkedIn 在 24 小时内移除任何阻止 HiQ 访问公开账号的技术。LinkedIn 提起了上诉，但上诉法院法官<a href="https://arstechnica.com/tech-policy/2019/09/web-scraping-doesnt-violate-anti-hacking-law-appeals-court-rules/#p3"><u>维持了原判</u></a>，认为计算机欺诈和滥用法不适用于面向公众的信息。
+➜部分 Chromebook 错误宣称使用寿命结束
+https://www.solidot.org/story?sid=62034	26933
+Chromebook 用户可能没有意识到，所有 ChromeOS 设备都有过期日期。Google 最初的政策是向 ChromeOS 设备提供五年的支持，最近将这一时间延长到了 6.5 年。当 Chromebook 或Chromebox 接近过期日期，它将会提醒用户去购买新设备，并拒绝给系统打上新的安全更新或特性更新。这意味着新的安全漏洞将不会修复，持续演变的 Web 服务如 Gmail 也可能会停止工作。最近 ChromeOS 的早期预览版本曝出了一个 <a href="https://bugs.chromium.org/p/chromium/issues/detail?id=994999#c13">bug</a>，每次重启之后它<a href="https://arstechnica.com/gadgets/2019/09/some-chromebooks-mistakenly-declared-themselves-end-of-life-last-week/#p3" target="_blank"><u>都会警告</u></a>用户这是最后一次自动更新，用户需要升级到新型号。
+➜马云卸任阿里巴巴董事长
+https://www.solidot.org/story?sid=62035	27621
+去年的教师节，阿里巴巴联合创始人马云<a href="https://www.solidot.org/story?sid=57877"><u>宣布了</u></a>他的退休计划，辞去董事事局主席一职，专心搞教育慈善。2019 年教师节，现任阿里巴巴集团首席执行官张勇将接替他担任董事局主席一职。现在 9 月 10 日已到，马云<a href="https://techcrunch.com/2019/09/09/jack-ma-officially-retires-as-alibabas-chairman/" target="_blank"><u>正式卸任</u></a>阿里巴巴集团董事长，CEO 张勇正式上任。马云仍然会留在董事会直至明年的年度股东大会，他仍然是阿里巴巴合伙人的终身合伙人。马云在 2013 年卸任阿里巴巴 CEO，当时由陆兆禧接任，2015 年张勇接替陆担任 CEO，他现在完全掌控了阿里巴巴。
+➜深圳考虑设立地铁女性优先使用车厢
+https://www.solidot.org/story?sid=62036	28297
+深圳人大常委办公厅发布《深圳经济特区文明行为促进条例》（草案修改稿），公开征求意见。《草案修改稿》<a href="https://www.thepaper.cn/newsDetail_forward_4380065"><u>提到</u></a>，“地铁可以设立优先车厢，在高峰时段优先车厢可以仅供残疾人、未成年人、女性等有需要的人士乘坐，对于乘坐优先车厢的其他乘客，地铁工作人员应当劝离。”《草案修改稿》还明确，违法行为人拒不提供姓名、地址、联络电话等信息及身份证明文件的，现场行政执法人员可以进行人脸识别，或者按照规定通知公安部门进行现场查验。
+➜Zoom 被屏蔽
+https://www.solidot.org/story?sid=62037	30717
+提供远程会议软件服务的 Zoom 证实<a href="https://status.zoom.us/incidents/xbmxyfpnv4jq" target="_blank"><u>它遭到了屏蔽</u></a>。根据 <span class="st"></span>Zoom 的事故报告，9 月 8 日它收到中国客户报告无法访问 Zoom 网站无法加入视频会议，工程师展开了调查，最后确认是中国当地的 DNS 导致的，它建议客户使用 VPN 加入远程视频会议。
+➜超级闪电更可能发生在冬天而不是夏天
+https://www.solidot.org/story?sid=62038	33448
+夏季暴雨天气雷击很常见，然而夏天的闪电并不是最强大的，根据发表在《Journal of Geophysical Research: Atmospheres》期刊上的<a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019JD030975?referrer_access_token=ZB0aweh85leLq398AU1ZAsOuACxIJX3yJRZRu4P4ervrI8EL4H71cLcBwq4SGsS3eDu_TDJEOO4ZiOf7fkqJ0oI3-_6_-EerGksGEY-925kI1XevJuuP_rI0Zg6Q44sPv0xTel70ObH4E6U4ivyVbw%3D%3D"><u>研究</u></a>，
+超级闪电更可能<a href="https://www.sciencemag.org/news/2019/09/world-s-strongest-lightning-hits-not-summer-november-february" target="_blank">发生在冬天</a>，其强度千倍于普通闪电。研究人员利用了六大洲约 100 个闪电观测站的数据，这些观测站能监听闪电产生的无线电波。从 2010 年到 2018 年，共记录到了 20 亿次雷击。研究人员分析了这些雷击的位置和强度，将放电强度超过 100 万焦耳的雷击称为超级闪电。他们共记录到了 8000 次超级闪电，大部分发生在 11 月到 2 月之间，位置主要是海洋而不是陆地——而九成的雷击发生在陆地。超级闪电主要集中在地中海、大西洋东北部和安第斯山脉。科学家不知道是什么导致了超级闪电。2013 年出现的超级闪电最多，之后是 2014 年。研究人员猜测可能与太阳黑子和宇宙射线有关。
+➜政治不正确的社会效益
+https://www.solidot.org/story?sid=62039	38210
+当 AOC（Alexandria Ocasio-Cortez）将移民拘留中心称为“集中营”或特朗普将无证移民称为“非法移民”，他们可能会因为政治不正确而引发争议。但说政治不正确的话是有好处的：<a href="https://phys.org/news/2019-09-social-benefits-political-incorrectness.html"><u>会让你显得很真实</u></a>。加州伯克利哈斯商学院的研究人员发现，使用政治不正确的单词或短语如“非法移民”对“无证移民”，受众会认为说话的人真实，不太可能被他人所左右，会坚定的跟随被认为坚持信仰的政治不正确领导人。<a href="https://psycnet.apa.org/doiLanding?doi=10.1037/pspi0000206"><u>研究报告</u></a>发表在《Journal of Personality and Social Psychology》期刊上。虽然政治正确言论更多被自由主义者捍卫被保守主义者嘲讽，但研究人员发现政治正确概念本身无党派差异，当政治不正确被用于描述保守派关注的群体如福音派和贫困白人，保守派也会被激怒。
+➜日本记账员用过目不忘窃取信用卡信息
+https://www.solidot.org/story?sid=62040	39378
+我们经常听说黑客通过网络入侵窃取到信用卡信息，但旧方式的窃取并没有消失。日本媒体报道，一名商店店员<a href="https://www.cnet.com/news/clerk-uses-photographic-memory-to-steal-credit-card-info-from-1300-customers/"><u>利用过目不忘的记忆</u></a>窃取了 1300 多名客户的信用卡信息。这名 34 岁的店员在日本古都的一家商场工作，警方指控他在完成交易的时间内凭借记忆记住了客户的 16 位信用卡号码、安全码和过期日期。 警方称，在逮捕他之后找到了一个笔记本包含了 1300 名受害者的信用卡细节。这位店员被捕是因为他用受害者的信用卡购买了两个价值 27 万日元的包送到了自己的住址。
+➜ProtonMail 计划登陆 F-droid，否认与华为有合作
+https://www.solidot.org/story?sid=62041	42790
+ProtonMail 官方博客<a href="https://protonmail.com/blog/android-expansion/"><u>宣布</u></a>计划扩大旗下专注于隐私的应用访问渠道，计划登陆开源应用商店 F-droid，考虑登陆第三方应用商店三星 Galaxy Store、亚马逊 App store 和华为 AppGallery。鉴于中美贸易战和美国出口禁令，华为的设备可能将无法访问 Google Play，华为用户将难以下载和更新 ProtonMail 应用，在华为应用商店提供 ProtonMail 变得愈加必要。这一消息被媒体解读为 ProtonMail 将与华为展开合作。ProtonMail <a href="https://protonmail.com/blog/clarifying-protonmail-and-huawei/"><u>随后澄清说</u></a>，在应用商店发布应用并不意味着双方就有合作。
+➜神秘者转移了价值 10 亿美元的比特币
+https://www.solidot.org/story?sid=62042	46365
+对区块链<a href="https://www.blockchain.com/btc/tx/4410c8d14ff9f87ceeed1d65cb58e7c7b2422b2d7529afc675208ce2ce09ed7d"><u>交易记录</u></a>的跟踪发现，9 月 6 日神秘人士<a href="https://cointelegraph.com/news/someone-just-moved-1b-in-bitcoin-for-700-fee-overpaying-20-times"><u>转移了</u></a>价值超过 10 亿美元的 94,504.1 个比特币。交易涉及的钱包不属于任何已知数字货币相关机构如交易所的钱包地址。一种猜测认为这些比特币属于机构交易平台 Bakkt，它刚刚开始接受客户存款。转移 9.4 万比特币的手续费通常为 35 美元，但发送者支付了 700 美元。

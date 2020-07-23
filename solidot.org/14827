@@ -1,0 +1,103 @@
+➜阴谋论的心理学
+https://www.solidot.org/story?sid=19324	2160
+科学新闻在传播过程中常常会发生戏剧性的变化：科学家发现A与B有联系，然而经过几个中间媒介从媒体口中出去变成了A与B可能有因果联系，最后再发酵一下变成了A导致B，例如传说无线电会导致脑癌。<i>
+上周一篇科学研究进展的新闻便遭遇了类似的断章取义的问题：科学家Robert Sapolsky和同事正在研究一种方法逆转慢性压力对大脑的影响，慢性压力类似一种慢动作的中风，会导致大脑细胞的死亡。研究对象是老鼠，他们将基因改造过的疱疹病毒注入了老鼠大脑，它产生了神经保护蛋白，抑制细胞死亡，控制糖皮质激素（与慢性压力有关联）对大脑的损害，延缓细胞损失。这项研究距离实用还很遥远。《连线》发表了一篇6000字的<a href="http://www.wired.com/magazine/2010/07/ff_stress_cure/all/1">长篇报道</a>，英国《每日邮报》看到之后，写了400字的短文，突出了具有新闻效果的一部分，暗示Sapolsky正在创造一种疫苗，能消除人类对压力的感受。这时候阴谋论开始发酵：政府通过支持Sapolsky的疫苗项目，试图抹掉我们的情感。于是这项研究变成了“<a href="http://www.wired.com/wiredscience/2010/08/the-brain-eating-vaccine-conspiracy/">吸脑疫苗（brain eating vaccines）</a>”。《连线》在另一篇文章中讨论了<a href="__SLASHLINK__" sect="science" sid="09/09/12/1229231" sn="article" tid="67">人们为什么相信阴谋论</a>，以及<a href="http://www.wired.com/wiredscience/2010/08/the-psychology-of-conspiracy-theories/">阴谋论的心理学</a>，指出这与认知失调有关。</i>
+➜中国计划试点“环境税”
+https://www.solidot.org/story?sid=19325	3600
+《第一财经日报》<a href="http://www.yicai.com/news/2010/08/385973.html">报道</a>，中国财政部、国家税务总局和环保部将向国务院提交环境税开征及试点的请示。环境税试点地区是湖北、湖南、江西和甘肃。三部委自2007年就开始进行环境税研究。二氧化硫、二氧化碳、氮氧化合物及污水排放或将成为征收环境税的主要依据，未来也有可能扩大环境税的征收范围。路透社的<a href="http://cn.reuters.com/article/CNEnvNews/idCNCHINA-2781720100805">报道</a>说，这将是中国政府推动经济绿色增长的一项最新举措。中国承诺到2020年削减碳密度40%至45%，并已对污染严重的行业进行整顿，预计未来措施将更为严厉。
+➜Ubuntu 10.10 Alpha 3发布，启用最新内核
+https://www.solidot.org/story?sid=19326	5400
+<a href="mailto:lu.riku@gmail.com">riku</a> 写道<i> "就在昨晚，Ubuntu 正式发布了代号为Maverick Meerkat的10.10 版 Alpha 3 版本，与之前发布的 Alpha 2 版相比，最新版并没有明显的改变，只是在一些细节上做了调整及修复了一些Bug，但内核已启用了几天前刚发布的2.6.35最新Linux内核，更多详细介绍见<a href="http://www.ubuntu.com/testing/maverick/alpha3">官方通告</a>（<a href="http://cdimage.ubuntu.com/releases/10.10/alpha-3/">下载</a>）和<a href="http://wowubuntu.com/ubuntu1010_alpha3.html">细节改变</a>。
+</i>根据 Ubuntu 的开发计划，接下来的发行计划如下：9月2日：Beta测试版发布；9月30日：RC候选版发布；10月10日：Ubuntu 10.10正式版发布。"
+➜EFF的SSL观察
+https://www.solidot.org/story?sid=19327	7200
+Lwn.net<a href="http://lwn.net/Articles/398857/">报道</a>，电子前哨基金会（EFF）发布了新的项目：<a href="https://www.eff.org/observatory">SSL observatory</a>。他们花了几个月时间收集了SSL证书信息，汇集成一个<a href="https://www.eff.org/files/DefconSSLiverse.pdf">PDF文件</a>，并表示未来会通过BitTorrent发布完整的SSL证书数据集。在研究中，他们发现了许多有意思的细节：<i>
+Mozilla有124个信任根证书（包括<a href="__SLASHLINK__" sect="software" sid="10/02/02/0921247" sn="article" tid="29">CNNIC的CA</a>）；微软在Windows 7中只列出了19个信任根证书；Windows或Firefox有1,482个可信CA证书；超过6000个的有效CA证书签名是“localhost”；澳门在XP上有自己的2048 bit CA证书，没有使用中国或葡萄牙的CA；有意思的次级CA——美国国土安全部，CNNIC，阿联酋电信Etisalat，双子座天文观测站，戴尔、福特和Google等企业....</i>
+➜Twitter用户影响力取决于转发量
+https://www.solidot.org/story?sid=19328	8400
+<a href="http://yi-it.com/blog/">易IT</a> 写道 "据<a href="http://thenextweb.com/socialmedia/2010/08/05/hp-doctors-know-how-tweets-become-influencial-really/">TheNextWeb报道</a>（<a href="http://tech.sina.com.cn/i/2010-08-06/08244515211.shtml">新浪科技</a>中文），惠普实验室通过研究2200万条tweet(Twitter消息)发现，Twitter用户的影响力取决于其tweet传播的深度与广度，而非关注者(follower)的数量。<i>
+该结论是<a href="http://www.hpl.hp.com/research/scl/">惠普实验室的社交计算</a>(social-computing)主管伯纳德·胡伯曼(Bernardo Huberman)在最近的<a href="http://www.hpl.hp.com/research/scl/papers/influence/influence.pdf">一份报告(PDF)</a>中做出的。胡伯曼表示：“大多数tweet被转发的次数有限。”一些Twitter用户喜欢发布大量的tweet，希望借此增加自己的影响力。但胡伯曼认为，这种做法效果不佳，他表示：“这不会增加影响力，只能表明你精力旺盛。”
+</i>因此，影响力的关键并不是关注者(follower)的数量，而是有多少人愿意转发你的tweet。影响力可能还取决于tweet的价值，但这不是惠普实验室的研究内容。"
+➜丘吉尔曾下令保密UFO报告，担心公众恐慌
+https://www.solidot.org/story?sid=19329	9360
+《每日电讯报》<a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/7926037/UFO-files-Winston-Churchill-feared-panic-over-Second-World-War-RAF-incident.html">报道</a>，英国国家档案馆周四解密的<a href="http://ufos.nationalarchives.gov.uk/">UFO文件</a>显示，前英国首相丘吉尔（Winston Churchill）因为担心引发公众恐慌 ，曾下令对英国皇家空军侦察机飞行员声称与一个UFO的相遇事件予以保密。<i>
+二战时期英国首相丘吉尔出席了一个飞行员与所谓UFO接触的报告会议，他下令立即密封这一事件，因为担心会引发公众恐慌，以及破坏人们对教会的信任。</i>
+➜杀毒软件平均只能检测到19%的新攻击
+https://www.solidot.org/story?sid=19330	11760
+根据Cyveillance的<a href="http://www.cyveillance.com/web/news/press_rel/2010/2010-08-04.asp">报告</a>，传统杀毒软件仍然远远<a href="http://www.net-security.org/malware_news.php?id=1419">落在快速进化的新威胁后面</a>。<i>
+Cyveillance测试了13款基于病毒模式匹配的流行杀毒软件，在30天时间内它们平均只能检测出18.9%的新恶意程序攻击，在新病毒出现8天后，检出率提高到45.7%，15天后是56.6%，22天后是60.3%，30天后为61.7%。最流行的杀毒软件平均需要11.6天才能识别新的恶意程序。检测新病毒表现最优秀的是Nod32、其次是卡巴斯基、AVG。</i>
+➜中国准备买下利物浦
+https://www.solidot.org/story?sid=19331	13800
+<a href="http://www.dongxi.net/">东西网</a> 写道 "8月5日的《泰晤士报》头条是
+<a href="http://www.dongxi.net/b01Lk">《中国准备买下利物浦》</a>：
+<i>
+待售的利物浦俱乐部的潜在买家之一是香港商人黄建华。根据《中国日报》的报道，中投公司(CIC)已经通过出售Morgan Stanley股份，筹资3.514亿英镑，正好是利物浦俱乐部的负债数字。进一步的推论是CIC将会向黄建华提供收购利物浦俱乐部的资金，CIC是中国主权基金，所以有了“中国买下利物浦”的说法。
+</i>
+➜Apple与移动市场之战
+https://www.solidot.org/story?sid=19332	16920
+<a href="http://techsingular.net/">middleware</a> 写道<i> "Ars Technica<a href="http://arstechnica.com/staff/fatbits/2010/08/can-you-buy-me-now.ars">报道</a>：计算机工业的历史最著名的两次败退——大型机厂商被PC击败和Apple被Microsoft击败——经常为人津津乐道，并且作为后来许多争战的类比。很多人自然而然的感慨Apple在移动领域正在犯同样的错误。Google是当年的Microsoft，Android是Windows，iOS是当年的Mac OS，而Apple是——Apple。John Siracusa提出历史没有重演，但是Apple能否取胜也同样令人怀疑。最终，Apple还要努力才能击败对手。"</i>
+➜五角大楼要求WikiLeaks永久删除机密文件
+https://www.solidot.org/story?sid=19333	18000
+曾创造了互联网前身阿帕网的五角大楼似乎对互联网如何工作仍然拎不清：美联社<a href="http://news.yahoo.com/s/ap/20100805/ap_on_go_ca_st_pe/us_pentagon_wikileaks">报道</a>，五角大楼要求WikiLeaks归还泄密的阿富汗战争秘密文件，取消任何发布更多机密文件的计划，以及从电脑和记录里<a href="http://www1.voanews.com/chinese/news/20100805-PENTAGON-LEAKS-100088594.html?refresh=1">永久消除秘密文件</a>。<i>
+五角大楼发言人Geoff Morrell说，WikiLeaks现在有机会去<a href="http://news.yahoo.com/s/nm/20100805/wr_nm/us_afghanistan_wikileaks">做正确的事情</a>，而不是加深已造成的损害。他也承认五角大楼官员不太相信WikiLeaks会改变主意，他称没有迹象表明Wikileaks认识到情况的严重性，他们泄漏的文件已经<a href="__SLASHLINK__" sect="mainpage" sid="10/08/04/018200" sn="article" tid="6">危及到许多阿富汗人的生命</a>。另据Huffingtonpost的报道，五角大楼现在<a href="http://www.huffingtonpost.com/2010/08/05/us-military-banned-from-v_n_671967.html">禁止军人访问WikiLeaks</a>。五角大楼发言人Bryan Whitman告诉《华盛顿时报》：空军、海军、陆军以及海岸警卫队已经告诉全体人员禁止访问WikiLeaks。</i>
+➜Linux与BSD之间的10个不同之处
+https://www.solidot.org/story?sid=19334	19200
+<a href="http://wowubuntu.com/">riku</a> 写道 "也许你经常会听到人们把 Linux 及 BSD 系统混为一谈，甚至于媒体都这么说。当然，事实上这两者确实有很多相似之处，比如它们都是基于 Unix 演变而来，而且基本上这两类系统都是由非盈利组织及团队开发，另外我更想说的是，这两个系统都有一个共同的目标–那就是创建最有用、最可靠的操作系统。
+<i>
+那么这两个系统的区别到底在哪里？国外一位名为 Jack Wallen  的科技 Blogger 发表了一篇名为 <a href="http://blogs.techrepublic.com.com/10things/?p=1709">10 differences between Linux and BSD</a>  的文章，从许可证、代码控制、内核 vs 操作系统、UNIX-Like、基本系统、更多来自于源代码、升级、前沿技术、硬件支持及用户群等10方面描述了 Linux 与 BSD 之间的 10 个不同之处，这里是<a href="http://wowubuntu.com/linux_vs_bsd.html"> 中文译文</a>。"</i>
+➜暑期阅读的重要意义
+https://www.solidot.org/story?sid=19335	20520
+<a href="http://www.dongxi.net/">东西网</a> 写道 "美国田纳西大学的研究人员连续多年在暑期提供图书给小孩，并测试了<a href="http://www.dongxi.net/b01L7"> 此举对阅读能力和学业成绩
+</a>的影响：
+<i>
+本研究由美国联邦教育部资助，连续三个暑期跟踪了1300多名来自佛罗里达州低收入家庭的孩子的阅读习惯和测试成绩。实验组的学生可以从题材广泛的图书中选择阅读，对照组则只有免费活动手册和谜语书。结果发现暑期阅读确实显著提升了阅读能力测试成绩，低收入家庭的孩子成绩提高更显著。尽管研究成果肯定了阅读的意义，但美国很多学校正在削减暑期活动以节省开支。另外值得一提的是，在第一年研究中，最受孩子们欢迎的是小甜甜的传记。
+"</i>
+➜图形交互的未来：从全息到3D显示器
+https://www.solidot.org/story?sid=19336	23280
+<a href="http://www.siggraph.org/s2010/">SIGGRAPH</a> 2010年度图形盛会上周刚刚结束，会议有一个节目是<a href="http://www.siggraph.org/s2010/for_attendees/emerging_technologies">新兴技术展示</a>。共有23项新发明和新技术公开进行了展示，《连线》列举了<a href="http://www.wired.com/gadgetlab/2010/08/gallery-siggraph-2010/">部分令人瞩目的新技术</a>，囊括了3D显示，增强现实和机器人技术。<i>
+比如迪斯尼的“电子眼”，像人眼一样灵活，研究人员希望这项技术能用于创造人工眼球；索尼展示的<a href="http://blog.discover.sonystyle.com/raymodeler-3d-prototype-will-be-showcased-at-siggraph">RayModeler 3D显示器原型</a>（<a href="http://www.youtube.com/watch?v=6BFKC-NKRFw&amp;feature=player_embedded">Youtube视频</a>），无需特殊眼镜，360度3D互动；<a href="http://www.k2.t.u-tokyo.ac.jp/members/komuro/niikura_siggraph2010.pdf">不接触手机屏幕的打字界面</a>(PDF)，目前只能识别一个手指；<a href="http://disneyresearch.com/publications.html">迪斯尼</a>的3D交互西洋镜；迪斯尼和<a href="http://holorad.com/index.html">Holorad</a>合作的“脸部漂浮全息图”等等。</i>
+➜《星际争霸2》：哀悼内容创作自由的死亡
+https://www.solidot.org/story?sid=19337	26880
+《星际争霸2：自由之翼》提供了一个强大的编辑器，让玩家能创造地图和Mod。但问题是玩家并<a href="http://arstechnica.com/gaming/news/2010/08/starcraft-2-the-latest-game-to-control-user-created-content.ars">没有内容创作的自由</a>，暴雪制定了很多限制，甚至可以删除它认为不适当或下流的内容。<i>
+对于用户创作内容，暴雪限制了上传到Battle.net的内容大小不能超过25MB，这意味着大量的自制图形、音乐或语音命令不太可能；玩家无法玩只储存本地的内容，必须上传到Battle.net后，才能玩自制地图，这意味暴雪完全控制了平台。暴雪在网站上列出了<a href="http://us.blizzard.com/support/article.xml?locale=en_US&amp;articleId=33752">从服务器上删除内容的管理政策</a>，包括侵犯商标、发布广告和不合适的内容。暴雪社区经理Bashiok在<a href="http://us.battle.net/sc2/en/forum/topic/248105900?page=6">官方论坛上</a>说，暴雪已经建立了一只强大的支持团队去执行内容删除任务。如果内容被删除，他们会通过电子邮件通知作者。他说，让人们在暴雪的私人游戏服务器上看不到仇恨言论或下流图像，这不同于放弃宪法赋予的自由权利，而是为了保护个人或家庭的安全。他说，如果把删除不合适内容比作限制自由，本富兰克林会把你系在风筝上，放飞到空中。
+</i>
+暴雪的做法并不是没有先例：《使命召唤：现代战争2》已经卖出了2000万地图包，让玩家自由创作地图无异于放弃一棵摇钱树。
+➜中国能源使用超过美国
+https://www.solidot.org/story?sid=19338	28560
+<a href="http://www.dongxi.net/">东西网</a> 写道 "《<a href="http://www.guardian.co.uk/environment/2010/aug/03/china-overtakes-us-energy-consumer">卫报</a>》的亚洲环境事务记者Jonathan Watts<a href="http://www.dongxi.net/b01Lk">引用国际能源署的数字说
+</a>：
+<i>
+中国的能源消耗(包括煤、石油、风力和其它)在2009年已相当于22.9亿吨石油，超过了美国的21.7亿吨。大部分能耗用于工业和基础建设，但是居民的能源使用也在大幅上涨。比较人均能耗，中国还低于全球平均值，当然远远低于美国。
+</i>
+➜免费获取论文带来的益处超过10亿美元
+https://www.solidot.org/story?sid=19339	32400
+一项经济学分析认为，免费访问纳税人资助的科学论文能在30年内给美国经济带来<a href="http://news.sciencemag.org/scienceinsider/2010/08/free-access-to-us-research-papers.html?rss=1">超过10亿美元的好处</a>。<i>
+美国正考虑推广国家卫生研究院（NIH）的免费论文访问计划，但该计划也引发了争议，支持者认为纳税人有权免费获取他们付费的研究结果，而科学期刊的出版商认为此举将毁灭他们的生意。墨尔本维多利亚大学的经济学家John Houghton认为，免费论文可供自由下载，引用次数超过只提供付费浏览的论文。他建立了一个<a href="http://www.cfses.com/FRPAA/">模型</a>，计算显示在30年内，免费论文将带来10.7亿美元的好处。</i>
+➜南加州大学神经学家被授予总统公民奖章
+https://www.solidot.org/story?sid=19340	34200
+《科学》网站<a href="http://news.sciencemag.org/scienceinsider/2010/08/neuroscientist-honored-by-white-.html">报道</a>，南加州大学神经学家Roberta Diaz Brinton和其他12人一起被授予了<a href="http://www.whitehouse.gov/citizensmedal">2010年度总统公民奖章</a>，以奖励她在科学教育领域的贡献。<i>
+在13位授予总统公民奖章的人中，还有一位是华裔慈善家<a href="http://zh.wikipedia.org/zh-cn/%E9%97%9C%E6%83%A0%E7%BE%A4">关惠群</a>，她的童年是在文化大革命的腥风血雨中度过的，由于出身富裕，她很小就被戴上了“黑五类子女”的牌子。在自家房子被红卫兵占有之后，她无家可归。后来是随家人游泳逃到香港（因为住在广东），但由于童年的遭遇从此变得沉默无语。直到来到美国之后，她才“找到了自己的声音和使命”。她在20多年的时间内，每天两次为无家可归者免费提供食物，以表达对这个“欢迎她的国家的感谢”。</i>
+➜Pi新世界纪录：五万亿位
+https://www.solidot.org/story?sid=19341	35400
+Alexander J. Yee和Shigeru Kondo<a href="http://www.numberworld.org/misc_runs/pi-5t/details.html">宣布</a>，他们在一台桌面电脑上创造了<a href="http://science.slashdot.org/story/10/08/06/0326237/5-Trillion-Digits-of-Pi-mdash-a-New-World-Record">圆周率的新世界纪录</a>：计算到小数点后五万亿位。<i>
+他们使用的是Shigeru Kondo的一台豪华配置电脑：处理器是2个Intel Xeon X5680 @ 3.33 GHz（12个物理核心），内存96 GB DDR3 @ 1066 MHz，硬盘总共39TB；操作系统是Windows Server 2008 R2 Enterprise x64。他们在90天内计算到了五万亿位，结果已经用两台独立电脑进行了验证。</i>
+➜利用摆动爬墙的机器人
+https://www.solidot.org/story?sid=19342	39360
+工程师们已研发出多种<a href="http://hardware.slashdot.org/story/10/08/05/2333254/Swinging-Robot-Excels-At-Wall-Climbing">爬墙机器人</a>，如国际攀登机器公司的<a href="http://www.icm.cc/video.php">Climber</a>，SRI的<a href="http://news.bbc.co.uk/2/hi/technology/7493460.stm">昆虫机器人</a>等，这些机器人主要是利用吸附作用爬墙。现在犹太大学机械工程助理教授William Provancher发明了一种非常特别的机器人，<a href="http://www.unews.utah.edu/p/?r=080310-1">它是利用摆动作用爬墙</a>（<a href="http://www.youtube.com/watch?v=R0sZmRnELKk">Youtube视频</a>）。<i>
+名叫<a href="http://heml.eng.utah.edu/index.php/ClimbingRobots/ROCR">ROCR</a>的小机器人宽12.2英寸，长18英寸，重1.2磅，它利用类似古老时钟钟摆的动作高效的爬墙，它能在15秒内沿墙爬上6英尺的高度，每秒速度能达到6.2英寸（约16厘米）。其它机器人或能超过这一速度，但没有谁在效率（20%）上战胜ROCR。它是第一种注重爬墙效率的机器人。</i>
+另tualatin 写道 "令人难以置信的<a href="http://www.youtube.com/watch?v=-KxjVlaLBmk&amp;feature=player_embedded">快速机器人手视频</a>。视频中机器人完成了投球、抛接物、打乒乓、转笔、打结、镜头追踪、使用镊子取物。
+➜SpaceX透露重型火箭计划
+https://www.solidot.org/story?sid=19343	42300
+在最近举行的Joint Propulsion会议上，私人太空技术公司SpaceX的火箭开发主管Tom Markusic，透露了从目前的猎鹰1号和猎鹰9号运载火箭进化<a href="http://science.slashdot.org/story/10/08/05/2141255/SpaceX-Unveils-Heavy-Lift-Rocket-Designs">到重型火箭的概念性计划</a>。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E7%8D%B5%E9%B7%B99%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD">猎鹰9号</a>火箭设计最高能将重19,500kg的载荷发射到地球同步轨道，未来的Falcon X将能运送38,000kg到轨道上，而Falcon XX的运送能力将进一步提高到140,000kg。<a href="http://zh.wikipedia.org/zh-cn/%E9%95%B7%E5%BE%81%E7%B3%BB%E5%88%97%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD">相比下</a>，发射神舟号飞船的长征二号F有效载荷是8400kg，现役发射能力最大的长征三号B火箭的有效载荷也只有12000kg。SpaceX还声称可以改进现有引擎，以便于能利用火星的甲烷做燃料。SpaceX CEO/CTO Elon Musk最近接受《卫报》的采访中<a href="http://www.guardian.co.uk/technology/2010/aug/01/elon-musk-spacex-rocket-mars">表示</a>，他希望能降低飞往火星的成本，能在20年内实现初步殖民，还计划在火星退休。</i>
+➜ISP盗窃Gmail密码？
+https://www.solidot.org/story?sid=19344	55440
+stranger ( @wmrofficial ) 写道 <i>"一位博客的博客中写道，<a href="http://www.blogkid.net/archives/2711.html">登录Gmail时遇到钓鱼</a>，他认为应该是运营商（两边的网络都是北京联通）做了手脚。网上已有多人报告（<a href="http://www.google.com/support/forum/p/gmail/thread?tid=7958ccba953d992c&amp;hl=en">1</a> <a href="http://cmded.net/forum/index.php?topic=256.msg950#msg950">2</a>）。最近几个月我收到了多封假冒的中奖邮件，最后不是为了骗钱，而是为了骗登录密码。这种情况多发生在谷歌停止践踏中国人权之后。"</i>
+➜《机械迷城》盗版率90%，降至5美元出售
+https://www.solidot.org/story?sid=19345	56700
+如今无论有没有DRM，一款电脑游戏的盗版率通常都在90%左右。精美的2D冒险解谜游戏《<a href="__SLASHLINK__" sect="games" sid="09/10/26/121231" sn="article" tid="96">机械迷城</a>（Machinarium）》也是如此。<i>
+捷克独立游戏工作室Amanita Design的Jakub Dvorsky称，根据反馈，只有5%到15%的玩家为游戏付费了。为了让其余85%到95%的盗版玩家有改正机会，Amanita宣布在8月12日之前，原价20美元的《机械迷城》将<a href="http://arstechnica.com/gaming/news/2010/08/machinarium-suffers-95-piracy-rate-offers-5-amnesty-sale.ars">降价至5美元出售</a>。这款<a href="http://machinarium.net/demo/">2D Flash游戏</a>支持Windows、Mac OS X和Linux。以前错过这款精品游戏的玩家现在可以在极低的价格下体验去年的最佳独立游戏了。</i>
+➜超过10%的Mozilla bug发现者拒收奖金
+https://www.solidot.org/story?sid=19346	59100
+开源浏览器开发商Mozilla过去六年一直向安全漏洞 的发现者提供奖金奖励，<a href="http://www.pcworld.idg.com.au/article/356043/more_than_1_10_mozilla_bug_finders_turn_down_cash/">但经常有发现者拒绝接受奖金</a>。<i>
+Mozilla称，有大约10%到15%的严重bug发现者没有接受奖金，其中多数人表示可以把奖金捐给电子前哨基金会（EFF），或者是送一件T恤代替。Mozilla从2004年8月开始向安全漏洞的发现者提供500美元奖励，从那以后，有大约80名研究人员报告了超过120个bug。Mozilla最近又宣布将危急安全漏洞的最高奖金金额提高至3000美元。几周之后，Google也宣布向其产品安全漏洞的报告者提供3000美元奖金。</i>

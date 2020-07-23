@@ -1,0 +1,68 @@
+➜Khronos发布OpenCL规格
+https://www.solidot.org/story?sid=9006	60
+Khronos联盟发布了<a href="http://www.khronos.org/registry/cl/">OpenCL API规格</a>。它提供了一个开放式的API，可以在GPU上执行多用途的code kernel——也就是所谓的GPGPU（GPU通用计算）功能。苹果率先支持这一API，随后NVIDIA、AMD/ATI、和Intel等主要制造商都加入了这一阵营。
+➜遗传编程：蒙娜丽莎的进化
+https://www.solidot.org/story?sid=9007	600
+用50个半透明多边形重画《蒙娜丽莎》对每个程序员都是一次挑战，<a href="http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/">Roger Alsing使用遗传编程方法轻松的完成了这一挑战</a>(链接超时)。他的blog提供了一系列图像展示了蒙娜丽莎是如何在约一百万代后进化到一个比较满意的结果，从中你可体会到进化算法的强大。
+➜2100万德国银行账户出售
+https://www.solidot.org/story?sid=9008	1440
+根据一份<a href="http://www.wiwo.de/unternehmer-maerkte/operation-goldesel-kontonummern-von-21-millionen-buergern-illegal-im-umlauf-380237/">调查报告</a>（德语），黑市罪犯正在出售<a href="http://www.theregister.co.uk/2008/12/09/stolen_german_bank_accounts_for_sale/">2100万德国银行账户资料</a>(<a href="http://www.chinanews.com.cn/gj/oz/news/2008/12-07/1476918.shtml">中新网</a>)。<i>
+德国《经济周刊》(Wirtschaftswoche)记者伪装成买家和罪犯在汉堡一家饭店进行了面对面交谈，黑市罪犯出价每份账户0.55欧元，所有数据总价格1200万欧元。记者获得了包含120万账户的CD，包括了姓名、住址、银行名称以及账户号码，调查记者还要求他们保证购买的信息是合法的。2100万相当于德国银行现有账户的四分之三。</i>
+➜Adobe建造Zoetrope，一个Web的“时间机器”
+https://www.solidot.org/story?sid=9009	2100
+《MIT技术评论》报道，<a href="http://www.technologyreview.com/web/21769/?a=f">Adobe正和华盛顿大学合作开发叫Zoetrope的新工具</a>。<a href="http://www.archive.org/">互联网档案馆</a>提供了网站变化的静态观察，而<a href="http://www.cond.org/zoetrope.html">Zoetrope</a>则提供了网站变动的动态观察。这很难在用文字说明，但你可以观看一个<a href="http://www.technologyreview.com/video/?vid=183">视频介绍</a>。<i>
+本质上，Zoetrope允许用户返回到网站过去的某一时刻，观看网站是如何变化的。用户可以在网站上创造一个透镜(lens)，例如关注亚马逊上某一DVD的价格，观察它的价格是如何在未来几个月内上升或下降的。更有趣的是，你可以将不同网站用透镜连接在一起，看看汽油价格是怎么受到影响的，如根据Google新闻搜索结果中“战争（War）”一字的数量。</i>
+➜《Higher-Order Perl》提供免费下载
+https://www.solidot.org/story?sid=9010	5700
+Mark Jason Dominus的Perl语言编程著作《<a href="http://hop.perl.plover.com/book/">Higher-Order Perl</a>》现在提供免费下载。这本书的目的是向有C和Unix背景的Perl程序员讲授函数式编程。<a href="http://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf">全文</a>（PDF），书中所用的<a href="http://hop.perl.plover.com/book/mod/mod.tgz">源代码</a>（MOD）。
+➜IWF宣布停止审查维基百科
+https://www.solidot.org/story?sid=9011	8100
+互联网观察基金会（IWF），英国版防火长城的监视者，宣布<a href="http://news.bbc.co.uk/2/hi/technology/7774102.stm">停止审查维基百科</a>。之前他们曾因为裸体女孩封面图而将维基百科加入<a href="__SLASHLINK__" sect="internet" sid="08/12/08/0710201" sn="article" tid="48">儿童色情黑名单</a>，之后还传出因为亚马逊保存有相同图像而<a href="http://www.guardian.co.uk/technology/2008/dec/08/amazon-internet-censorship-iwf">威胁进行屏蔽</a>。
+显然审查引发的史翠珊效应（<a href="http://en.wikipedia.org/wiki/Streisand_effect">Streisand effect</a>）让IWF最终放弃了早先的决定，它在<a href="http://www.iwf.org.uk/media/news.251.htm">正式声明</a>中表示：<i>
+接到维基百科的投诉后，IWF启动了上诉程序，仔细推敲了此案涉及的问题。程序现已完成，证实所怀疑的图像潜在违反了1978年的《保护儿童法》。但是IWF委员会考虑到此特例涉及的调查发现和背景问题，图像存在的时间和它的广泛可获得性，决定将网址从名单中移除。未来关于该图像的报告请求将不会加入到名单之列.....IWF的首要目标是将互联网上儿童不适宜图像的可获得性降低到最低程度，但是此时此刻我们的努力获得了相反的效果。</i>
+➜Google街景（Street View）一年回顾
+https://www.solidot.org/story?sid=9012	9900
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "2008年初，Google街景（<a href="http://maps.google.com/help/maps/streetview/#utm_campaign=en&amp;utm_medium=van&amp;utm_source=en-van-na-us-gns-svn">Google Street View</a>）覆盖23个城市，那时<a href="http://google-latlong.blogspot.com/2007/12/enjoy-holidays-with-new-street-view.html">全景功能刚刚嵌入到街景</a>中，虽然那时的 Google街景还未成熟，但已经引起用户的兴奋。<a href="http://googleblog.blogspot.com/2008/12/street-view-year-in-review-and-whats.html">Google 2008年为街景设立了一个简单的目标</a>，就是让更多的人看到更多的地区。每次引入新的城市，不仅当地的居民受益，他们可以借助Google街景查看驾驶路线与停车场，那些前去旅行，或只是对那里感兴趣的人也受益匪浅。过去的12个月，Google以稳定的速度增加新的街景城市，从 <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=florida+keys&amp;sll=29.458731,-80.771484&amp;sspn=30.362312,44.824219&amp;ie=UTF8&amp;ll=24.640776,-81.569023&amp;spn=0.06054,0.175095&amp;z=13&amp;layer=c&amp;cbll=24.662292,-81.514811&amp;panoid=ROfZqBQN-bTvSepVjELKgA&amp;cbp=11,327.814863399307,,0,-10.136729585436681">Florida 的海滩</a>到 <a href="http://maps.google.com/maps?ie=UTF8&amp;om=0&amp;layer=c&amp;cbll=58.40508,-134.550222&amp;cbp=11,41.30755697836571,,1,-11.11082798244709&amp;ll=58.404815,-134.553509&amp;spn=0.008229,0.043774&amp;t=h&amp;z=15&amp;panoid=iSiVy8Fgu82M3vT_pZLmqg">Alaska 的冰雪世界</a>。3月，Google 第一次将视觉指向<a href="http://google-latlong.blogspot.com/2008/03/street-view-expanding-our-horizons.html">国家公园</a>，并逐步增加十几个新地区，Google 甚至注意到一些非常怪异的场景，如，那个<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=world's+largest+rocking+chair+in+indianapolis&amp;mrt=kmlkmz&amp;layer=c&amp;ie=UTF8&amp;cbll=39.418169,-85.999532&amp;cbp=12,238.28678835181665,,0,9.52652440013906&amp;ll=39.42479,-85.995655&amp;spn=0,359.956398&amp;z=15&amp;panoid=eoaDFLoT5Eu8-phpETjsIw">巨大的摇椅</a>。
+"           如今，Google 街景覆盖的美国城市即将翻番，新覆盖的洲将包括 Maine, West Virginia, North Dakota, and South Dakota。Memphis, Charleston (SC), Birmingham 也被覆盖，越来越多的美国地区出现在街景中。以下是美国被街景覆盖的地区前后对比表。
+<div> <a href="http://2.bp.blogspot.com/_7ZYqYi4xigk/ST6_DhNjwpI/AAAAAAAACIU/cuu_jbR8uZs/s1600-h/SV_before.png">以前 </a>
+<div> <a href="http://3.bp.blogspot.com/_7ZYqYi4xigk/ST6_a3Bv_jI/AAAAAAAACIc/2V8Q0DdJPM4/s1600-h/SV_after.png">现在</a>
+<br> <br> <br>除了美国，全球值得一看的地方也有很多，Google 街景2008年也开始进军海外。7月，Google 街景首次登陆法国，现在，法国，日本，澳大利亚，西班牙，意大利，新西兰都可以看到 Google 街景，以下是一些著名的世界景点：<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=eiffel+tower&amp;sll=35.66814,139.703779&amp;sspn=0,359.956398&amp;ie=UTF8&amp;z=16&amp;layer=c&amp;cbll=48.856305,2.297783&amp;panoid=-g2KFptUqCHjAj08RbNvPA&amp;cbp=12,322.3677507218416,,0,-25.999831338842796">艾菲尔铁塔</a>，<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=shibuya+scramble&amp;sll=35.498133,139.778366&amp;sspn=0.3874,0.700378&amp;ie=UTF8&amp;cd=1&amp;layer=c&amp;cbll=35.659461,139.700512&amp;panoid=cNwgpw_xBKzsdT7tX-2QyQ&amp;cbp=12,276.62549965664044,,0,-17.15073116811127&amp;ll=35.66814,139.703779&amp;spn=0,359.956398&amp;z=15">东京的涉谷区</a> ，<a href="http://maps.google.it/maps?f=q&amp;hl=it&amp;geocode=&amp;q=pantheon+rome&amp;sll=45.452326,9.173799&amp;sspn=0.006623,0.016479&amp;g=pantheon+rome&amp;layer=c&amp;ie=UTF8&amp;cbll=41.899353,12.477299&amp;panoid=e8-BBvD73uEcysblJWni1w&amp;cbp=12,223.17263259011315,,1,-8.264259415181907&amp;ll=41.910262,12.471199&amp;spn=0.046564,0.087204&amp;z=14&amp;iwloc=addr">罗马万神殿</a>。
+<br> <br>除了增加新地区，Google 还让街景变得更实用，访问更简单。3月，Goole 街景被<a href="http://googlemapsapi.blogspot.com/2008/03/street-view-in-api-or-how-i-spent-my.html">引入 Google Maps API</a> 并引发诸多新应用，如<a href="http://google-latlong.blogspot.com/2008/04/navigating-online-real-estate-search.html">房地产搜索</a>，<a href="http://www.rustyspigot.com/streetviewgame/play.htm">探险游戏</a>以及<a href="http://www.nycbikemaps.com/maps/nyc-bike-map-street-view/">单车路线</a>。Google 还将街景同驾驶路线服务集成。两周前，<a href="http://google-latlong.blogspot.com/2008/11/happier-travels-through-street-view.html">Google 还对整个街景产品进行了一次彻查</a>以保证其更好用，或更有趣。<br> <br>Google 还将街景搬到更多平台，首先是<a href="http://google-latlong.blogspot.com/2008/04/touch-down-on-earths-surface-with.html">入驻 Google Earth</a>，让你在看卫星照片的时候，可以结合地面的实景。过去的几个月，Google 还将街景引入<a href="http://googlemobile.blogspot.com/search/label/google%20maps%20for%20mobile">众多移动设备</a>。
+<br> <br>Google 街景2008年在开发方面的一个动作是实现了人物的脸部虚化以保护行人的隐私。加上今天新发布的地区，Google 街景2008年提供的总场景增加了22倍。</div> </div>
+➜Google Book Search增加杂志
+https://www.solidot.org/story?sid=9013	18000
+Google宣布它的图书搜索结果现在包含了<a href="http://googleblog.blogspot.com/2008/12/search-and-find-magazines-on-google.html">杂志数字档案</a>，内容完整，浏览器可直接阅读。<i>
+目前提供的杂志包括了《<a href="http://books.google.com/books?id=Ok8XtrhowscC&amp;printsec=frontcover&amp;dq=popular+science&amp;as_brr=1">Popular Science</a>》、《Men's Health》、《<a href="http://books.google.com/books?id=l9MDAAAAMBAJ&amp;dq=hank+aaron+catching+babe+ruth&amp;hl=zh-CN&amp;source=gbs_all_issues_r&amp;cad=2_2">Ebony</a>》、《<a href="http://books.google.com/books?id=XAgAAAAAMBAJ&amp;printsec=frontcover&amp;dq=atomic+scientists&amp;as_brr=1&amp;source=gbs_summary_r&amp;cad=0_0">Bulletin of Atomic Scientists</a>》、《<a href="http://books.google.com/books?id=OugCAAAAMBAJ">New York Magazine</a>》等。</i>
+➜苹果屏蔽埃及版iPhone的GPS功能
+https://www.solidot.org/story?sid=9014	19200
+看来埃及政府对民众使用GPS设备是如此的紧张，以至于下令苹果<a href="http://www.theregister.co.uk/2008/12/08/iphone_gps_disabled_in_egypt/">移除iPhone 3G中的任何GPS功能</a>。<i>
+政府官员声称出于其军事作用GPS功能应限制使用，因为GPS设备可以更精确的标注出军事基地位置。<a href="http://www.iht.com/articles/2008/12/08/business/link.php">一位埃及博客Ahmed Gabr</a>表示从技术观点看，这种做法是毫无意义的，因为Google Maps上可以很容易找到任何政府认为你不应该看到的东西。他笑称自己从ebay上购买了全功能的美国版iPhone 3G。</i>
+➜印第安那州出于安全禁止驾照照片有笑容、眼镜和帽子
+https://www.solidot.org/story?sid=9015	21600
+当你给印第安那州驾照或身份证拍照时，不要露齿而笑，不要佩戴眼镜，不要戴上帽子或系上围巾。这是印第安那州机动车辆管理局(BMV)上个月推出的一项新规定。BMV给照片树立标准是出于面部识别软件的需要，因为扭曲的面部如笑容满面<a href="http://www.nwi.com/articles/2008/12/08/news/porter_county/doc60da4d3a78fefc07862575190004d925.txt">会让软件无法识别</a>。
+➜惠普和亚利桑那州立大学展示易弯曲不破碎的显示器
+https://www.solidot.org/story?sid=9016	26400
+惠普和亚利桑那州立大学<a href="http://flexdisplay.asu.edu/">Flexible Display Center</a>宣布了<a href="http://www.hp.com/hpinfo/newsroom/press/2008/081208b.html">第一款普及型柔韧电子显示器</a>。<i>
+柔韧显示器是一种形似纸的电脑显示器，主要由塑料制成，易于携带，能耗低，可应用于电子纸和电子指示。惠普和FDC创造的柔韧显示器使用了自对准压印光刻（Self-aligned Imprint Lithography，SAIL）技术。SAIL技术能使制造商以低成本成卷生产方式在塑料材料上制作薄膜晶体管阵列。</i>
+➜2008年增加一闰秒
+https://www.solidot.org/story?sid=9017	27720
+在经济减缓的严峻环境中，2008年感觉好像永远过不完。现在，全世界的计时器（时钟）甚至在今年的最后一天，通过增加一<a href="http://zh.wikipedia.org/w/index.php?title=%E9%97%B0%E7%A7%92&amp;variant=zh-cn">闰秒</a>，<a href="http://www.physorg.com/news147975820.html">让今年变得更漫长</a>(<a href="http://only-perception.blogspot.com/2008/12/2008.html">中文</a>)。除了经济之外，地球本身也在减速，计时器需要为其原子钟增加额外的一秒以便与地球稍微放慢的自转同步。这额外的一秒将添加到美国东部时间2008年12月31日晚上的6点59分59秒与7点00分00秒之间。额外的一秒将使得2008年——已经多了2月29日——成为自1992年以来最长的一年。<i>
+增加一秒是由国际计时联盟所做的决定，绝大多数的手机供应者与电脑作业系统都会与全世界的原子钟校对，并自动地更新其时间以增加一闰秒。全世界从1972年开始增加闰秒，有时一年二次。自2005年12月31日以来，这是第一次闰秒。今年也是第四个同时有闰日与闰秒的一年。</i>
+➜Google Native Client：让x86原生码运行在浏览器上
+https://www.solidot.org/story?sid=9018	32880
+Google宣布了<a href="http://google-code-updates.blogspot.com/2008/12/native-client-technology-for-running.html">Google native client</a>项目，让x86原生码可靠的运行在浏览器上，从而允许开发者充分挖掘客户机的CPU潜力，同时维持浏览器的中立性。随着Java applets的抛弃，Google的新项目可能将终止浏览器和多种JavaScript引擎（V8，Squirrelfish，Tracemonkey）之间的新战争。唯一遗留的问题是它的安全性和在非x86平台的表现。<i>
+Google表示该项目尚处于早期研究阶段，希望能获得关于安全问题的反馈，扩大开源社区。<a href="http://code.google.com/p/nativeclient/?tbbrand=GZEZ&amp;utm_campaign=en&amp;utm_source=en-et-osrcblog&amp;utm_medium=et">软件包</a>的最新版本是V0.1，已发布在Google code网站上，采用New BSD许可证。<a href="http://nativeclient.googlecode.com/svn/trunk/nacl/googleclient/native_client/documentation/nacl_paper.pdf">研究论文</a>（PDF），<a href="http://nativeclient.googlecode.com/svn/trunk/nacl/googleclient/native_client/tests/quake/quake.html">Quake demo演示</a>（需Native Code插件）。"</i>
+➜谷歌大中华区2008年度关键字排行榜泄
+https://www.solidot.org/story?sid=9019	34920
+<a href="http://www.youtube.com/watch?v=UKNhk9aoyAk">你的关键词背叛了你的心</a> 写道 <i>"近日Google提供给台湾媒体的新闻稿泄漏，<a href="http://briian.com/?p=5965">台湾人将其发布到网上</a>，<a href="http://www.google.cn/search?&amp;q=%E8%B0%B7%E6%AD%8C%E4%B8%AD%E5%9B%BD2008%E5%B9%B4%E5%BA%A6%E5%85%B3%E9%94%AE%E5%AD%97%E6%8E%92%E8%A1%8C%E6%A6%9C">引发了大量中国网站转载</a>。图表显示出谷歌台湾、谷歌香港和谷歌中国搜索关键字今年排行情况。中国的热门关键词主要是中国的门户网站，视频网站和直播网站。台湾的热门关键词主要是YouTube，Gmail等Google服务和台湾本土信息。香港热门关键词主要是YouTube，Gmail等Google服务和香港论坛。中国的上升最快关键词不出所料是地震，奶粉，刘翔，神六，陈冠希以及国足。台湾的上升最快关键词则是马英九，韩国自杀艺人崔真实，谷歌浏览器，大型强子对撞机，奥运和三聚氰胺。香港的上升最快关键词则是一些影视明星和本地信息。另外还附有大量的政治，电子，消费，新闻，中国事件等大量关键词信息。可谓将2008年家事国事天下事一网打尽。"</i>
+➜中国女孩遭遇“聋之吻”
+https://www.solidot.org/story?sid=9020	35640
+广东珠海一位20多岁女孩与她的男朋友热吻之后，<a href="http://news.bbc.co.uk/2/hi/asia-pacific/7772902.stm">发现左边的耳朵失聪</a>(<a href="http://www.chinanews.com.cn/sh/news/2008/11-27/1464576.shtml">中新网</a>）。当地媒体因此发出警告，亲吻不要过于投入。治疗这位女士的医生解释了她失聪的原因：<i>
+人的口腔和内耳由咽鼓管连接，形成一个通道，平常两边的气压是平衡的。但剧烈的接吻会使通道内的气压急速变化，如果两边耳膜压力不平衡，在短时间内压力小的鼓膜便迅速塌陷下去造成破裂。破损的耳膜需经一两个月的治疗，才能逐渐恢复听力。</i>
+➜极客开发Greasemonkey脚本表达厌恶百度
+https://www.solidot.org/story?sid=9021	39600
+cuthead 写道<i>"百度由于其不公正的搜索结果和竞价排名被很多极客厌恶，也被很多博客和站长厌恶，站长们还组建了<a href="http://www.fanbaidu.com/">反百度网站</a>。另据不完全统计，solidot上只有0%的用户在使用百度作为他们的首选搜索引擎。人们以前只是通过文字表达对百度的厌恶之情，但在<a href="https://addons.mozilla.org/zh-CN/firefox/addon/748">Greasemonkey</a>的脚本集散地userscripts.org，刚刚有一名极客发表了一个叫做<a href="http://userscripts.org/scripts/show/38395">Fuckbaidu</a>的脚本(<a href="http://bababian.com/photozoom.sl?pictureid=1A37CBFCBA240D0DD4DA1563D0540552DT&amp;size=5&amp;viewID=69A99641680FB6BE5266ABA45D4D2230UR">截图</a>)。脚本把百度首页Logo换成了反百度网站Logo，并把一些不恰当的文字替换为恰当的文字(<a href="http://bababian.com/photozoom.sl?pictureid=E4DBEAE62B4876AB2CFA7FC553D1748ADT&amp;size=5&amp;viewID=69A99641680FB6BE5266ABA45D4D2230UR">效果截图</a>)。这个脚本虽然很简单，但是表达了一个极客内心真实的感受，建议每一个Greasemonkey用户都应该安装一下这个脚本。"</i>
+➜Blender基金会的开源3D游戏Yo Frankie发布
+https://www.solidot.org/story?sid=9023	45360
+Blender基金会的<a href="__SLASHLINK__" sect="software" sid="07/06/12/0622210" sn="article" tid="105">Open Game项目</a>，开发代号<a href="http://projects.blender.org/projects/yofrankie/">Project Apricot</a>，三位Blender艺术家，两位Crystal Space开发者和一位Blender开发者组成的<a href="__SLASHLINK__" sect="opensource" sid="08/01/02/0723240" sn="article" tid="96">开发团队</a>用了6个月的时间创造了一款标准的开源3D游戏<a href="http://www.yofrankie.org/?page_id=609">Yo Frankie</a>，游戏使用<a href="http://www.crystalspace3d.org/">CrystalSpace</a>引擎和Blender软件开发，采用创作共用—署名3.0许可证，支持Linux，Windows和OS X平台，允许用户重新使用和修改源代码，制作关卡和角色。<i>
+<a href="http://download.blender.org/apricot/yofrankie_bge.zip">下载</a>(全平台，ZIP文件，206 Mb)，<a href="http://www.youtube.com/watch?v=Canbxj0RBTk">视频简介</a>（Youtube），<a href="http://www.graphicall.org/yofrankie/game/">浏览源文件</a>，如果愿意支持开源游戏可购买<a href="http://www.blender3d.org/e-shop/product_info.php?products_id=102">DVD</a>。</i>

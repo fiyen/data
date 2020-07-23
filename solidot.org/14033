@@ -1,0 +1,51 @@
+➜再见香蕉——巴拿马香蕉萎蔫病回归
+https://www.solidot.org/story?sid=6468	1200
+The Scientist报道，<a href="http://www.the-scientist.com/news/display/54710/">世界香蕉生产正面临一场即将到来的威胁</a>：
+<i>
+今日我们所食的香蕉与祖父辈们吃得并不相同：他们那个叫<a href="http://en.wikipedia.org/wiki/Gros_Michel">Gros Michel</a>，比我们现在所知的叫<a href="http://en.wikipedia.org/wiki/Cavendish_banana">Cavendish</a>的品种更大，更可口，更硬。为什么现在没有Gros Michel呢？这很容易解释，因为它灭绝了。当它引入到世界各地后， Gros Michel品种就遭遇到了枯萎病的袭击，直至1960年代完全消亡。Cavendish在最后一刻被大香蕉生产公司Chiquita 和Dole采用，它能抵抗枯萎病，一种被称为巴拿马病的菌。现在巴拿马病，正式名称香蕉镰刀菌萎蔫病（<a href="http://en.wikipedia.org/wiki/Fusarium_wilt">Fusarium wilt</a>），又回来了，这次Cavendish也顶不住了。20年前这种病首先从马来群岛缓慢流传开来，现在的传播速度正以几何级数增长。它没有治愈方法，现在的问题不是萎蔫病会不会发作，而是它何时发生。更糟糕的是，萎蔫病有可能扩展到其它香蕉品种，包括非洲香蕉，它是数百万人食物的主要来源。</i>
+➜goosh，非官方的Google Shell
+https://www.solidot.org/story?sid=6469	6000
+Stefan Grothkopp写了一个好玩的名叫<a href="http://goosh.org/">goosh</a>的非官方Google Shell，一个在浏览器上运行的命令行界面，允许你快速的执行Google网页、图像、博客和视频搜索，以及搜索维基百科文章，返回的信息也是基于文本格式的。测试了一下，总是出现操作超时错误。如果对文字浏览有兴趣的话，还是用<a href="http://lynx.browser.org/">Lynx</a>和<a href="http://links.sourceforge.net/">Links</a>吧。
+➜通过IE8 Beta，微软推动开发者遵循标准
+https://www.solidot.org/story?sid=6470	12000
+微软即将发布IE8 Beta 2，预计<a href="http://www.internetnews.com/dev-news/article.php/3749991/Microsoft+Pushes+Devs+With+Wider+IE8+Beta.htm">新的标准相容默认模式</a>将可能推动开发者更新他们的网站。
+<i>
+多年来，IE一直统治着浏览器市场。网页设计师的工作简化为只要让网站在IE下渲染正确即可。现在这些页面需要进行改变了，微软最初计划IE8时，是打算采用和IE7类似的默认渲染模式，更好的标准相容模式只是一个选择。但来自开发社区的批评促使微软用标准相容模式取代了默认模式。很不幸的是，对网站管理员来说这意味着大量的工作。</i>
+➜Pidgin聊天工具有了游戏插件
+https://www.solidot.org/story?sid=6471	16200
+自由即时聊天工具Pidgin长久以来一直缺乏与朋友一起玩游戏的功能。现在这一缺陷已被补上，<a href="http://pidgin-games.sourceforge.net/wiki/Main_Page">Pidgin Games</a>正式发布，它为Pidgin提供了各类游戏插件，可以运行在 Linux和Windows下。目前游戏只有<a href="http://sourceforge.net/project/screenshots.php?group_id=216379">Tic-tac-toe</a>可用。根据计划，Pidgin Games将在今年9月发布1.0版。此外，Pidgin Games比较特别之处是它是使用新的程序设计语言<a href="http://live.gnome.org/Vala">Vala</a>编写，语法与 C# 类似，但编译是纯C环境。
+➜中文开源办公软件RedOffice 4.0 Beta推出新UI
+https://www.solidot.org/story?sid=6472	20700
+开源办公软件<a href="http://www.redoffice.com.cn/">红旗中文贰仟</a>（RedOffice）是OpenOffice.org的<a href="http://www.redoffice.com.cn/other/open2_1.php?id=1&amp;class=ky">衍生版</a>。Openoffice.org 3.0有了很大的进步，但是它的UI却几乎没有多少改变。<i> <a href="http://www.johannes-eva.net/index.php?page=redoffice">Johannes Eva</a>无意从<a href="http://wiki.services.openoffice.org/wiki/DerivedWorks">OOo Wiki</a>上看到了来自中国的RedOffice，发现最新的<a href="http://202.10.78.132/download/RedOffice.exe">4.0 Beta</a>拥有一个焕然一新的UI，他在虚拟机上测试后对其赞不绝口，新的界面从微软的Microsoft Office 2007上汲取了灵感，他建议OpenOffice.org未来可以吸取这一成果。</i>
+➜微软同惠普签署协议对抗谷歌
+https://www.solidot.org/story?sid=6473	22500
+<a href="http://www.moshouzhengba.org/">魔兽秘籍</a> 写道 "<a href="http://tech.sina.com.cn/it/2008-06-02/22082231947.shtml">微软周一宣布同惠普达成协议</a>，从明年1月开始，Live Search将成为惠普在美国和加拿大销售PC的默认搜索引擎。根据双方达成的协议，惠普将在PC上预装带有Live Search工具条的特别IE浏览器版本。微软表示，这一工具条还将连接到惠普服务，例如Snapfish数码照片打印网站。自放弃收购雅虎以来，微软一直面临着压力，需要尽快证明Live Search有能力吸引更多用户。谷歌的搜索流量相当于微软的十倍以上，雅虎的搜索流量也达到了微软的两倍。
+<i>同惠普合作之前，微软已经同联想签署了类似的协议。而全球第二大PC厂商戴尔及全球第二大浏览器开发商Mozilla都同谷歌建立了合作伙伴关系。5月1日，微软CEO鲍尔默(Steve Ballmer)曾在一次员工集会上表示：“我们购买的每一台戴尔家用计算机都安装了谷歌工具条，当这种情况在我的家庭发生时，我的感觉并不好受。”他同时称，微软将投入更大力量，以签署更多搜索合作协议。目前，微软并未披露与惠普合作的财务条款，也未公布希望从这一交易中获得多少利益。Live Search高级经理Angus Norton表示，约有40%的互联网用户使用PC默认的搜索引擎。"</i>
+➜科学家发现巨环围绕着一颗死亡恒星
+https://www.solidot.org/story?sid=6474	23700
+一个国际科学研究小组使用NASA的斯皮策太空望远镜发现了<a href="http://www.rit.edu/news/?r=46182">一个巨大的光环围绕着一颗死亡的恒星</a>（<a href="http://www.rit.edu/news/lib/views/public/images/picsadmin/Magnetar.jpg">大图</a>）。这颗恒星，属于一类叫磁星（<a href="http://en.wikipedia.org/wiki/Magnetar">Magnetar</a>）的天体。根据<a href="http://zh.wikipedia.org/wiki/%E7%A3%81%E6%98%9F">维基百科</a>的介绍：磁星是拥有极强磁场的中子星，是大型恒星超新星爆发后的残骸，通过衰变，能源源不绝地释出高能量电磁辐射。一位研究人员表示，磁星的磁场是地球磁场的一千兆倍。到目前为止，天文学家一共发现了约12颗磁星。
+➜东芝透露新蓝光“杀手”
+https://www.solidot.org/story?sid=6475	26400
+东芝输掉了高清格式大战，显然并不甘罢休。根据日本《读卖新闻》的报道，<a href="http://www.pcauthority.com.au/News/112880,toshiba-unveils-another-bluray-killer-millions-ask-why.aspx">东芝公司正在开发现有DVD的扩展版本</a>，使视频播放质量堪舆蓝光和HD-DVD。新的增强版DVD播放器的价格将低于蓝光，并向后兼容标准DVD。消息来源称修改版的DVD格式依赖一种新发展的集成电路，能快速的转换视频，但细节还不清楚。
+➜在VoIP信息包中隐藏数据
+https://www.solidot.org/story?sid=6476	28800
+波兰华沙大学信息学院的信息科学家Wojciech Mazurczyk 和Krzysztof Szczypiorski在上周透露，他们正在为VoIP网络开发一种隐写系统，在VoIP连接的信息包中<a href="http://www.tmcnet.com/usubmit/2008/05/30/3474046.htm">隐藏秘密的隐写数据</a>(<a href="http://www.arxiv.org/abs/0805.2938">arxiv</a>预印本)。因为VoIP使用的是用户数据报协议（UDP），而不是常见的TCP协议，它的设计允许丢失一些数据包，因此可以利用此特点，传输一个有隐藏信息的数据包而不会出现问题。
+➜科学家建造有磁性的微型地球
+https://www.solidot.org/story?sid=6477	32100
+中国古人很早就能利用基于磁场的指南针导航，但地球磁场如何产生科学家至今尚未明了。现在马里兰大学的地球物理学家Dan Lathrop试图通过<a href="http://www.npr.org/templates/story/story.php?storyId=90947943">制造微型地球去了解地球磁场的秘密</a>。科学家相信地球磁场源自地核中熔化金属物的流动，因此Lathrop计划向他建造的直径为10英尺的不锈钢球体内部注入熔化的金属钠，旋转球体，研究其产生磁场的方向。文章提供了视频（但链接出错）。
+➜NASA科学家让磁场现影
+https://www.solidot.org/story?sid=6478	34560
+磁场看不见也摸不着，但NASA太空科学实验室的<a href="http://gizmodo.com/5012347/nasa-scientists-make-magnetic-fields-visible-beautiful">科学家却想让它现身</a>。要表现出磁场的魅力，最好的方法当然是3D CGI。科学家制作了<a href="http://www.youtube.com/watch?v=IT2AQC3X5bk">Magnetic Movie</a>，一个计算机合成视频，非常漂亮，效果非凡，不容错过。<a href="http://www.todayandtomorrow.net/2008/06/02/magnetic-movie/">点击此观看更多图片</a>。
+➜IBM 发布Lotus Symphony 1.0
+https://www.solidot.org/story?sid=6479	39000
+IBM在上周发布了<a href="http://symphony.lotus.com/software/lotus/symphony/buzzentry!default.jspa?threadID=4872">Lotus Symphony 1.0</a>，另一个OpenOffice.org的派生版。Lotus Symphony针对的是企业的专业用户，改进了OOo的UI，使其更富有吸引力。Symphony 1.0提供了Windows和Linux版本，网站暗示未来会有Mac版本，但没有提及是不是Mac原生版。它一共提供了包括简体中文在内的24种语言。<a href="https://www14.software.ibm.com/webapp/iwm/web/preLogin.do?lang=en_US&amp;source=swerplotus-lptb3">下载</a>。
+➜我们都是谷歌搜索实验的小白鼠
+https://www.solidot.org/story?sid=6480	83340
+<a href="http://www.yeeyan.com/">maoxinyu</a> 写道 "涉及到搜索质量,谷歌就有点<a href="http://www.yeeyan.com/articles/view/31582/8866">人格分裂</a>.
+谷歌使用一种叫做A/B两分法的测试来准确计算应该对它的主要搜索网站做出什么改变--包括著名的简洁的搜索栏及其产生的结果.在周四谷歌I/O(输入输出设备)会议演讲时,谷歌副总裁兼首席产品经理玛丽莎梅耶尔说道,通过这种方法,谷歌展示给用户不同版本的页面并且检测用户的反映."
+➜SQL注入攻击-来自微软安全博客的建议
+https://www.solidot.org/story?sid=6481	83340
+<a href="http://www.yeeyan.com/">maoxinyu</a> 写道 "从去年下半年开始，很多网站被损害，他们在用于生成动态网页的SQL数据库中存储的文本中被注入了恶意的HTML 标签。这样的攻击在2008年第一季度开始加速传播，并且持续影响有漏洞的Web程序。这些Web应用程序有这样一些共同点：
+* 使用经典ASP代码的程序
+* 使用SQL Server数据库的程序
+应用程序代码根据URI请求字符动态地生成SQL查询（http://consoto.com/widgets.asp?widget=sprocket）这体现了一种<a href="http://www.yeeyan.com/articles/view/hanguofeng/8955">新的SQL注入（SQL injection）的途径</a>（http://msdn.microsoft.com/en-us/library/ms161953.aspx）。在过去，SQL注入攻击的目标是具有如下特点的特殊Web应用程序：攻击者知道或者可以探测出后台数据库的漏洞或者结构。"

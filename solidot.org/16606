@@ -1,0 +1,28 @@
+➜Bruce Schneier认为中国和俄罗斯早在Snowden前就获得了NSA机密文件
+https://www.solidot.org/story?sid=44509	32931
+知名安全专家Bruce Schneier在《连线》上发表文章<a target="_blank" href="http://www.wired.com/2015/06/course-china-russia-snowden-documents/"><u>认为</u></a>，中国和俄罗斯很可能早在Snowden之前就获得了NSA的相关机密文件。中国和俄罗斯都有专业的情报机构，如果Snowden这样的合同工都能访问和收集NSA的机密文件，凭什么认为职业特工无法做到？Schneier几乎百分之百肯定中国和俄罗斯已经拥有了Snowden的文档拷贝，错不在Snowden本人，而最有可能是访问机密文件的记者，他也处理过部分Snowden文档，作为一名偏执的加密专家，他深知完美的安全是不存在的。有许多名记者持有Snowden文档的拷贝，他们不太可能有能力躲避全世界的情报机构。
+➜联邦人事局数据窃取案被认为与中国国安部黑客有关
+https://www.solidot.org/story?sid=44510	34408
+路透社<a target="_blank" href="http://www.reuters.com/article/2015/06/20/us-usa-data-breach-idUSKBN0OZ20Z20150620"><u>援引知情人士的消息报道</u></a>，联邦人事局数百万联邦雇员数据窃取案被认为与中国国安部黑客有关。消息来源称，黑客使用了名为 Sakula的罕见恶意程序去远程控制电脑，Sakula之前被用于入侵美国大型保险公司Anthem的计算机网络，安全研究员称攻击Anthem的黑客组织隶属于中国国安部。入侵联邦人事局的黑客注册了一个欺骗性的域名OPM-Learning.org，这一做法与攻击Anthem的黑客相同。Anthem的旧名字叫Wellpoint，黑客注册了一个钓鱼网站叫We11point.com，用数字1替代了字母L。在针对联邦人事局和Anthem的网络攻击中黑客都使用了窃取自韩国公司<span id="articleText">DTOPTOOLZ的数字证书。</span><span id="articleText">DTOPTOOLZ声明它与黑客攻击无关。消息来源称，</span>Sakula只被中国的黑客组织使用。
+➜清华大学与华盛顿大学在美国联合办学
+https://www.solidot.org/story?sid=44511	35294
+除了孔子学院这样的普及汉语的官方机构外，我们很少听到有中国大学走到海外。但这一状况很快将会被打破。清华大学和华盛顿大学宣布将在西雅图<a target="_blank" href="http://cn.nytstyle.com/education/20150619/t19college/"><u>联合建立</u></a>一所大学<a target="_blank" href="http://www.washington.edu/gix/"><u>全球创新学院</u></a>（清华的<a target="_blank" href="http://gix.tsinghua.edu.cn/"><u>网站</u></a>还没建好），总部在西雅图的微软公司将出资4000万美元。全球创新学院的教师将来自华盛顿大学、清华大学，以及该院期望吸引参与合作的其他几所国际性大学。它最初只招收几十名学生，但计划在十年里增加到逾3000名。清华大学将帮助该学院招收中国学生。华盛顿大学的临时校长Ana Mari Cauce)表示，“这是中国大学首次在美国拥有了一个实体立足点。”
+➜Chromium自动为Debian用户下载监听语音的二进制文件
+https://www.solidot.org/story?sid=44512	44371
+Chromium是Google Chrome浏览器的开源版本。一位Debian用户向bug跟踪系统<a target="_blank" href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=786909"><u>报告了一个bug</u></a>：升级到Chromium 43之后它在运行时会静默下载一个二进制文件——Chrome Hotword Shared Module扩展，文件没有提供源代码，也没有任何提示或向用户提出许可。该扩展提供了热词监听和响应功能，它会监听用户电脑的麦克风，如果用户说了“OK, Google”，它随后就会试图去理解用户的指令。这位用户发现Chromium的配置没有提供退出功能。Chromium开发团队的Matt Giuca在官方论坛上<a target="_blank" href="https://code.google.com/p/chromium/issues/detail?id=500922"><u>声称</u></a>，浏览器虽然在启动时下载了二进制文件，但它的功能并没有真正激活，用户需要在chrome://settings中勾选Enable "Ok Google" to start a voice search才会启用。Matt Giuca表示，Chrome是Google的私有产品，但Chromium不是，是否关闭热词模块下载是第三方发行者的责任不是Google的责任，Linux发行版如Debian可以关闭二进制模块下载。他说，他已经看到Debian这么做了。
+➜如何免费获得正版Windows 10？成为Windows会员
+https://www.solidot.org/story?sid=44513	52009
+正版Windows 7和Windows 8用户可以免费升级到Windows 10，其他用户怎么办？支付最高199美元？微软官方博客<a target="_blank" href="http://blogs.windows.com/bloggingwindows/2015/06/19/upcoming-changes-to-windows-10-insider-preview-builds/"><u>说</u></a>，还有一种方法让你可以免费获得正版Windows 10：成为<a target="_blank" href="https://insider.windows.com/"><u>Windows会员加入Windows 10 Insider 预览版测试</u></a>。如果你现在就运行着一个Windows 10预览版，那么到7月29日它将会升级到正式版，而且这个拷贝不是盗版而是正版。运行Windows 10企业预览版的用户没有资格获得免费升级。Windows 10 Insider用户在正式版发布之后如果不想继续参与测试可以选择退出。
+➜Deep Web纪录片
+https://www.solidot.org/story?sid=44514	52503
+<a href="http://hardenedlinux.org">Shawn the R0ck</a> 写道 "<a target="_blank" href="http://www.deepwebthemovie.com/#about">纪录片Deep Web</a>（《深网》）是讲述关于<a target="_blank" href="http://www.solidot.org/story?sid=42761">运营丝绸之路地下交易平台的Ross Ulbricht被捕</a>的故事，以整个Ross被捕的过程作为背景，也谈到了一群持不同哲学观的人都认为构建Deep Web的科技是保证人类数字权利的根基，特别是未来的匿名性将重度依赖Deep Web，匿名网络是推崇无政府主义的密码学家们所构建的，但使用匿名网络的人有犯罪分子，但也有情报机构，<a target="_blank" href="http://www.solidot.org/story?sid=41221">记者</a>，whistleblowers（像Mr.Snowden这种）和不同政意者。<i>
+<p>
+</p>
+<p>不论Ross是否是<a target="_blank" href="http://www.solidot.org/story?sid=42800">真正的DPR</a>，真正的无政府主义者还是认同DPR本人和丝绸之路社区的哲学，论坛上包括有很多让人深度反思的政治性和哲学性的议题，非法交易当然会继续，但这个社区的确聚集了大量优秀的头脑，DPR的哲学观是应该自由贸易，当然丝绸之路上也是有禁止交易的物品包括儿童色情相关和雇用职业杀手。</p>
+<p>
+</p>
+<p>这部纪录片也谈到了另外一个议题：Drug war（毒品战争）。过去多年的毒品战争让美国军火行业和医药行业成为了最大的受益者，阴谋论者认为美国全面禁止毒品交易是因为政府能从中收益，另外一方面，从街头治安的角度，一些警察，FBI，甚至DEA的工作人员也认为把毒品交易搬到网上是一个更好的选择。</p>
+<p>
+</p>
+</i>
+<p><i>btw：根据<a target="_blank" href="http://www.solidot.org/story?sid=43042">Ross被追踪的所用到的技术</a>给出一些建议：1，不管是使用BTC还是<a target="_blank" href="http://www.solidot.org/story?sid=41807">暗黑币</a>，都应该使用多个地址； 2，IM(TorChat)的聊天不要明文存储在磁盘上，或者直接otr；3，使用全盘加密；4，做合适的帐号管理和尽量少的使用社交网络；最后一条最重要的原则：系统安全和密码工程是一对孪生兄弟，缺一不可。因为重视密码工程而对系统安全不够重视造成的失误很多，这也是<a target="_blank" href="https://ssd.eff.org/en/playlist/journalist-move">EFF的记者手册</a>以及"<a target="_blank" href="http://www.solidot.org/story?sid=41221">记者信息安全手册</a>"去年被0ld sch00l黑客批评的原因。"</i></p>

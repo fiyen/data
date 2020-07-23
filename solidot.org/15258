@@ -1,0 +1,71 @@
+➜计算机能耗遵循Koomey定律
+https://www.solidot.org/story?sid=26381	5040
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "几个礼拜前，MIT技术评论报道了Stanford大学的教授<a href="http://www.koomey.com/">Jonathan Koomey</a>发布了关于<a href="http://en.wikipedia.org/wiki/Koomey's_law">Koomey's Law</a>(Koomey定律)，即<a href="http://www.technologyreview.com/printer_friendly_article.aspx?id=38548">每18个月相同的计算量使用的能量会降低一半的论文</a>，JK的结论是根据过去60年计算机硬件发展的数据得出的，从1946年的占地1800平方英尺，功耗为150千瓦的ENIAC计算机到今天最新的计算机，相同的计算量已经降低了40,000倍，按照<a href="http://en.wikipedia.org/wiki/Richard_Feynman">Feynman</a>的观点，关于能耗的改善的极限是1000亿倍，也就是说继续当前Koomey定律的速度前进大约在2043年达到极限。<a href="http://interviews.slashdot.org/story/11/10/10/1929244/jonathan-koomey-answers-your-questions">JK在接受hacker们的访谈</a>中回答了关于电池容量与处理器速度，多核和片上系统(Soc)，Koomey定律对程序员的影响，逆向计算等问题。"</i>
+➜CyanogenMod 7.1发布
+https://www.solidot.org/story?sid=26382	6480
+Android社区Mod项目CyanogenMod<a href="https://lwn.net/Articles/462366/">发布</a>了<a href="http://www.cyanogenmod.com/blog/cyanogenmod-7-1-released">7.1版</a>，新版是基于<a href="http://omapzoom.org/">Android 2.3.7</a>，在此之前大部分的Android 2.3系列智能手机还没有升级到最新的2.3.7版。<i>
+新版的特性包括了支持更多手机机型，支持撤销应用程序权限，照相机应用支持触摸聚焦（touch to focus）和定时器，大量的新配置选项，等等，开发者的发布公告中特别提到了索尼爱立信，称索尼爱立信公司向社区开发者提供了20多部手机，技术支持和兼容硬件驱动，因此CM-7.1将支持最近发布的所有索爱机型。</i>
+➜Google Wave以新的面貌转世
+https://www.solidot.org/story?sid=26383	8160
+MIT技术评论称，Google Wave被认为是Google最难堪的失败之一，<a href="https://www.technologyreview.com/web/38804/page1/">但一些创业公司正重新复活其创意</a>。<i>
+Google Wave是维基、电子邮件客户端和即时聊天应用等的复杂结合体，它最令人印象深刻的技术是允许用户在同一文档上同时工作，实时观看其他人的编辑操作。<a href="http://www.getliveloop.com/">LiveLoop</a>将同步协作引入了微软的PowerPoint，让企业员工能和同事一起制作幻灯片，实时浏览同事的文本输入和图像操作。该公司还计划将类似Wave的同步协作引入到所有的Microsoft Office组件。另一家创业公司<a href="http://stypi.com/">Stypi</a>同样试图利用Wave的协作功能去提高生产力，它针对的是软件开发者，为<a href="http://www.vim.org/">Vim编辑器</a>用户引入实时协作。
+</i>
+➜美国司法部迫使Google交出WikiLeaks志愿者邮件
+https://www.solidot.org/story?sid=26384	10200
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424052970203476804576613284007315072.html">报导</a>，美国司法部<a href="http://yro.slashdot.org/story/11/10/10/2220236/us-government-seizes-email-of-wikileaks-volunteer">迫使</a>Google和Sonic.net交出WikiLeaks志愿者、Tor开发者Jacob Appelbaum的个人信息。<i>
+ISP Sonic.net表示他们努力抵抗了司法部发出的秘密法庭命令，但最终不得不屈服于压力。Google则表示它遵守了法律。两家公司都通知了Appelbaum。美国司法部收集的信息包括了Appelbaum的联系人、IP地址，上溯至2009年11月1日的Gmail通信，据信美国陆军二等兵Bradley Manning就是在这个月开始与WikiLeaks创始人Julian Assange进行接触，Manning被控将美国国务院机密外交文件转交给WikiLeaks。
+</i>
+➜德国安全研究员破解Mifare RFID卡加密方法
+https://www.solidot.org/story?sid=26385	12960
+智能卡被广泛用于访问限制区域的身份凭证，或用作交通卡。它使用了加密技术以防止被复制。现在，德国鲁尔大学的研究人员<a href="http://it.slashdot.org/story/11/10/10/1850230/german-researchers-crack-mifare-rfid-encryption">破解</a>了<a href="http://www.mifare.net/index.php/products/mifare-smartcard-ic-s/">Mifare DESFire MF3ICD40</a>使用的安全算法，破解所需设备仅仅只要3000美元。破解加密方法将使得完美复制成为可能。此次破解是基于边信道攻击，研究人员花了七小时才获得智能卡使用的112位加密密钥。此前，荷兰的安全研究员曾在2008年<a href="__SLASHLINK__" sect="it" sid="09/04/10/179257" sn="article" tid="100">破解了</a>Mifare Classic芯片的安全算法。MF3ICD40芯片就是此后被旧金山、澳大利亚和捷克等地的客户采用，NASA早在2004年使用了MF3ICD40，但不清楚现在有没有升级。Mifare芯片制造商恩智浦半导体已经发出了<a href="http://mifare.net/links/news/update-on-mifare-desfire-mf3icd40/">警告</a>，但表示该型号芯片将在年底停止使用，鼓励客户升级到EV1版本。
+➜好色的占星家是一位事无巨细的记录者
+https://www.solidot.org/story?sid=26386	19200
+假如你生活在莎士比亚时代的伦敦，孩子生病之后你很有可能会去询问医师兼占星家<a href="http://en.wikipedia.org/wiki/Simon_Forman">Simon Forman</a>。<i>
+Forman和学生Richard Napier在整个职业生涯中共向超过3万名病人和客户提供了建议。Forman以好色闻名于世，据说他会和遇到的每位女性做爱，并将征服经历事无巨细的记录下来。根据记录，他的第一次做爱是在“15/12/1593, 5:00 PM, London”。除了这些花边事迹外，他的笔记详细记录了病人姓名、年龄、地址、家庭成员、症状，看病时间，甚至还有家庭和法律问题。历史学家认为他的记录<a href="http://news.sciencemag.org/sciencenow/2011/10/sex-crazed-astrologer-was-a-stellar.html">留下了当时的鲜活图像</a>。上个月是Forman逝世400周年，剑桥大学科学史专家Lauren Kassell领导的团队将Forman和Napier的病案记录<a href="http://www.magicandmedicine.hps.cam.ac.uk/">发布到网上</a>，记录时间是从1596年到1634年，共包含了超过5万个病例。Kassell说，虽然Forman算不上好人，但他的笔记极其具有系统性和完整性，因为作为一名占星家，他需要根据太阳系中天体的运动进行预测。</i>
+➜Photoshop将加入图像去模糊功能
+https://www.solidot.org/story?sid=26387	20100
+在上周洛杉矶举行的<a href="http://2011.max.adobe.com/">Adobe MAX 2011</a>会议上，Adobe<a href="http://www.petapixel.com/2011/10/10/sneak-peek-at-the-crazy-image-deblurring-feature-coming-to-photoshop/">演示</a>了下一代Photoshop的高级图像去模糊功能。如果照片被拍的很模糊，该功能将使用先进算法计算导致模糊的相机抖动，然后对照片进行精确的去模糊。<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=-7hBP6MfX_U">视频</a>(不太清晰)
+➜四肢瘫痪男子用大脑控制机械臂
+https://www.solidot.org/story?sid=26388	23700
+一位四肢瘫痪男子在匹兹堡大学研究人员的帮助下，成功通过大脑<a href="http://www.post-gazette.com/pg/11283/1181062-53.stm">控制机械臂在在三维空间中移动</a>。这项研究为残疾人带来了新希望。<i>
+Tim Hemmes因为摩托车事故瘫痪了七年，他是通过植入脑皮层电图电极和数周的计算机训练实现这一成就的。他用脑控制机械臂触摸了女友伸出的手。他表示希望最终能拥抱自己的女儿。FDA只允许这项实验持续28天。该项目得到了DARPA和退伍军人事务部的资助。
+</i>
+➜Fedora 17 代号为”Beefy Miracle”
+https://www.solidot.org/story?sid=26389	25320
+<a href="http://bbs.51osos.com/">51开源社区</a> 写道<i> "Fedora Project Leader Jared K. Smith，宣布Fedora 17 <a href="https://fedoraproject.org/wiki/Name_suggestions_for_Fedora_17">代号</a>为“Beefy Miracle”。Beefy Miracle得票数最高，译名为“结实的奇迹”。Beefy Miracle（选票：1182）, Liege（选票：1035）,Never（选票：881）,和Gernsback（选票：791）， Rocky Ripple（选票：641）...<a href="http://lists.fedoraproject.org/pipermail/announce/2011-October/003002.html">详见邮件列表</a>。"</i>
+➜两位美国经济学家因宏观经济政策因果研究而分享诺贝尔奖
+https://www.solidot.org/story?sid=26390	25680
+纽约大学教授<a href="http://en.wikipedia.org/wiki/Thomas_Sargent">Thomas Sargent</a>和普林斯顿大学教授<a href="http://en.wikipedia.org/wiki/Christopher_Sims">Christopher Sims</a>因宏观经济因果研究而被<a href="http://news.sciencemag.org/sciencenow/2011/10/economics-nobel-for-teasing-out.html">授权</a>了<a href="http://www.nobelprize.org/nobel_prizes/economics/laureates/2011/press.html">2011年度诺贝尔经济学奖</a>，共享150万美元奖金。<i>
+两位经济学家的研究成果<a href="http://xh.xhby.net/newxh/html/2011-10/11/content_438662.htm">解答了</a>许多有关经济政策于宏观经济变量之间的关系问题，例如提高利率或减税将对国内生产总值和通货膨胀产生何种影响，中央银行调整通胀目标将产生何种影响等。自上世纪70年代开始，他们的研究成果已在全球范围内被广泛采用，如今已成为宏观经济分析的必要工具。物理世界的大部分因果关系十分清晰，但经济和政策如减税和经济健康之间的关系则往往是相互的。Sims和Sargent根据理性预期创建方法去识别政策变化和经济事件之间的因果联系。</i>
+➜黑莓网络服务中断，影响数百万用户
+https://www.solidot.org/story?sid=26391	27120
+欧洲、中东和非洲地区的黑莓BIS网络服务周一发生了严重中断事故，导致数以百万计的黑莓用户无法发送和接受电子邮件和消息。RIM已经证实了事故，<a href="http://www.bbc.co.uk/news/technology-15243892">表示服务正在恢复中</a>。恰值黑莓手机市场份额逐渐被竞争对手如苹果iPhone吞食之际，这一事件无异于雪上加霜。一位RIM前雇员<a href="http://tech.slashdot.org/story/11/10/10/2152257/rim-server-crash-leaves-millions-without-bbm">对媒体称</a>，RIM直到2007年才开始关注可扩展性问题，改进基础设施的支持一直没被当作优先事务去完成。
+➜研究称吸烟场景会拖累票房
+https://www.solidot.org/story?sid=26392	28800
+一项新分析发现，有吸烟镜头的电影票房<a href="http://www.scientificamerican.com/article.cfm?id=smoking-drag-movie-profits">低于没有吸烟镜头的电影</a>。加州大学旧金山分校烟草控制研究和教育中心主任<a href="http://cancer.ucsf.edu/people/glantz_stanton.php">Stanton Glantz</a>认为，所有有吸烟场景的电影应该自动评为R级（即限制级）。<i>
+Glantz统计了2002年到2010年间上映的1,232部美国电影，这些电影至少上映了一周，并跻身票房榜前十。高预算电影通常有大明星和高昂的宣传费，票房总收入一般较高；而PG-13级电影由于受众比R级电影大，它的票房一般也更高。但即使考虑了上述因素之后，研究人员仍然发现，有吸烟镜头的电影收入比无烟镜头的电影低13%。Glantz称，吸烟镜头不会让电影更受欢迎，或得到更高票房。这项研究得到了禁烟组织遗产基金会的资助。也有人认为，这项研究意义不大，没有考虑DVD销量和数字版销售。MPAA表示，它不会采用自动的方法给电影评级。
+</i>
+➜中风患者被困在南极站
+https://www.solidot.org/story?sid=26393	30900
+史考特南极站冬季经理Renee-Nicole Douceur在8月27日突发中风。她回忆说，当时坐在办公桌前正盯着显示屏看，突然间仿佛变天了，“天哪，屏幕怎么少了一半”。但直到今天，这位中风患者<a href="http://science.slashdot.org/story/11/10/11/0132250/stroke-victim-stranded-at-south-pole-base">依旧被困在南极站</a>。<i>
+美国国家科学基金会和承包商雷声公司都声称，现在派出救援飞机去南极太危险，而且Douceur目前的情况并没有危及生命。Douceur的侄女Sydney Raines建立了网站<a href="http://saverenee.org/">Save Renee</a>，呼吁公众致函雷声和国家科学基金会官员，以及向白宫发起请愿。然而，只有气温高于-45摄氏度时飞机才能在史考特南极站着陆，否则燃料会被冻结起来。而目前南极的气温仍然会降至-57摄氏度以下。</i>
+➜维基工作会议选用世界语召开
+https://www.solidot.org/story?sid=26394	32400
+<a href="http://www.chengdufanyi.com/">成都翻译公司</a> 写道<i> "本次会议是“维基媒体基金会”召开的<a href="http://www.transparent.com/esperanto/wikipedia-conference-in-esperanto-oct-26-30-2011/">年度工作会议</a>，讨论本年度的工作计划。会议将于2011年10月26～30日，在捷克的世界语博物馆召开，会议语言为世界语。据本次会议的组织者称，今年8月，世界语维基百科条目超过15万条，位于第27位，条目数多于阿拉伯语、希腊语等语种的维基。因此而生出举办<a href="http://site.douban.com/widget/notes/54593/note/177153414/">世界语维基工作会议</a>的想法。世界语版维基百科有其特殊性，所有内容贡献者都来自纯粹说不同语言的不同国家，具有“世界性”，而其他语言版本的维基百科，主要是该语言母语国家的人创建。"</i>
+➜三星用玻璃制造透明显示器
+https://www.solidot.org/story?sid=26395	33600
+韩国媒体<a href="http://www.koreaherald.com/national/Detail.jsp?newsMLId=20111010000594">报导</a>，三星公司宣布在LED技术上取得重大突破，能以普通玻璃为衬底生产超大先进显示面板。不过，三星声称需要十年时间才能开发出商业化产品。<i>
+三星研究人员称，在十年内，<a href="http://www.tested.com/news/samsung-makes-a-breakthrough-in-transparent-display-technology/2996/">LED发光和显示屏</a>将能取代玻璃窗，成为建筑的一部分。LED广泛使用蓝宝石为衬底，但玻璃衬底可以裁剪出面积更大的产品，能降低制造成本。市场上现有的氮化镓LED（GaN LED）产品面积只有2英寸，新的技术可以将GaN LED产品面积放大400倍。<a href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2011.253.html">研究报告</a>发表在最新一期的《自然光学》期刊上。</i>
+➜ISO C++11标准发布
+https://www.solidot.org/story?sid=26396	36000
+国际标准组织ISO/IEC<a href="http://www.iso.org/iso/pressrelease.htm?refid=Ref1472">发布了</a>C++11编程语言标准，售价352瑞士法郎。C++作者Bjarne Stroustrup在自己网站上提供了<a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2011/n3242.pdf">标准草案文本</a>(PDF)，应该与最后的标准内容相差不大。C++0x/11标准在今年8月获得<a href="__SLASHLINK__" sect="developers" sid="11/08/15/0831207" sn="article" tid="5">一致通过</a>，它是1998年以来C++语言的第一次大修订，对C++语言进行了改进和扩充，新的特性也扩展了语言在灵活性和效率上的传统长处，例如转移语义，lambda函数，等等。
+➜台湾将组建专利银行保护当地企业
+https://www.solidot.org/story?sid=26397	37920
+苹果起诉HTC专利侵犯等一系列诉讼促使台湾政府加速其专利系统调整计划。台湾计划在11月发布国家知识产权战略，其中将包含一个有争议的项目叫“专利银行（patent bank）”，<a href="http://spectrum.ieee.org/at-work/innovation/taiwanese-to-form-patent-bank-to-defend-local-companies">政府将支持本国制造商与外国企业打专利官司</a>。<i>
+半官方机构台湾工业技术研究院表示，专利银行类似于现有的防御性专利聚合组织如RPX Corp和Allied Security Trust，将为所有成员购买专利，帮助台湾制造商创造专利组合和专利策略，帮助防御来自竞争对手或专利流氓（patent troll）的专利诉讼。
+</i>
+➜Reddit审查“未成年少女”
+https://www.solidot.org/story?sid=26398	39600
+Reddit以“危险到社区结构完整性”为名正式<a href="http://www.reddit.com/r/TheoryOfReddit/comments/l7qwq/rjailbait_shut_down_due_to_threatening_the/">关闭了</a>一个子群组“<a href="http://www.reddit.com/r/jailbait">r/jailbait</a>”。<i>
+<a href="http://en.wikipedia.org/wiki/Jailbait">jailbait</a>是美国英语俚语，指未到法定年龄的年轻少女，但身体发育已经成熟，会被误以为是成年人。关闭jailbait引发了言论自由的争论，但有人<a href="http://www.reddit.com/r/reddit.com/comments/l7q74/rjailbait_has_been_shut_down/c2qj35l">指出</a>，Reddit是私人经营的网站，它有权阻止一些它不想要的言论。
+</i>

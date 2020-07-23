@@ -1,0 +1,13 @@
+➜让 AI 能看见更高的维度
+https://www.solidot.org/story?sid=63241	35231
+计算机能驾驶汽车，打败围棋和世界象棋的冠军，甚至还能写文章。今天的 AI 革命很大程度上是来自于被称为“卷积神经网络”（convolutional neural networks，或 CNN）的技术进步。CNN 擅长学习和识别二维平面数据中的模式。但如果数据集不是基于平面几何，而是类似 3D 动画中使用的不规则模型，或者是自动驾驶汽车绘制周围环境时生成的点云，CNN 的效果不是很好。2016 年左右，名叫几何深度学习的新学科试图帮助 CNN 摆脱平面。现在，研究人员提出了一种新的理论框架，<a href="https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/"><u>让 AI 能看见更高的维度</u></a>。它被称为规范卷积神经网络（gauge-equivariant convolutional neural networks 或<a href="https://arxiv.org/abs/1902.04615" target="_blank"><u> gauge CNN</u></a>），它 不仅能探测 2D 像素阵列，还能探测球体和非对称曲面物体中的模式。规范 CNN 与物理学有着深层的联系。
+➜OpenWrt 19.07.0 发布
+https://www.solidot.org/story?sid=63242	35511
+Linux 路由器发行版 OpenWrt 释出了 19.07.0。新版<a href="https://openwrt.org/releases/19.07/notes-19.07.0"><u>整合了</u></a> 18.06.0 以来的 3954 个 commits，支持从 18.06.0 升级到 19.07.0，但建议最好备份下配置。19.07.0 的发布代表着 OpenWrt 支持的所有对象固件都统一为同一个内核版本；初步支持 ath79 对象，OpenWrt 项目将逐渐从 ar71xx 过渡到 ath79，未来将停止支持 ar71xx；初步支持 WPA3，但默认没有启用，需要安装特定包；新的 Web 界面 LuCI，等等。其它变化包括：内核版本 4.14.162，musl libc 1.1.24，Clibc-ng 1.0.31，glibc 2.27，gcc 7.5.0，binutils 2.31.1，hostapd 2.9，dnsmasq 2.80，dropbear 2019.78，等等。
+➜OpenBSD 建议 Firefox 用户切换到 ESR 版本
+https://www.solidot.org/story?sid=63243	47709
+Firefox 本周早些时候<a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-03/"><u>紧急释出更新</u></a> Firefox 72.0.1 和 Firefox ESR 68.4.1，修复了一个正被利用 0day 漏洞。OpenBSD 开发者<a href="https://undeadly.org/cgi?action=article;sid=20200109141600"><u>表示</u></a>他们不会更新稳定版分支，建议其用户切换到 ESR 版本（扩展支持版）。开发者给出的理由，由于依赖问题(如 cbindgen 和 rust)，给 Firefox 打补丁太复杂了，所以稳定版本不会得到更新，因此正被利用的漏洞仍然存在，但 ESR 版会得到更新，开发者建议用户切换到 ESR 版本。
+➜MIT 教授从 Jeffrey Epstein 收取“礼物”
+https://www.solidot.org/story?sid=63244	50799
+本周，MIT 委托的高赢律师事务所<a href="http://news.mit.edu/2020/mit-releases-results-fact-finding-report-jeffrey-epstein-0110"><u>公布</u></a>了<a href="http://factfindingjan2020.mit.edu/files/MIT-report.pdf"><u>调查报告</u></a>（PDF），披露了该校教职工与受争议亿万富翁爱泼斯坦(Jeffrey Epstein)之间的密切联系。涉嫌性交易和共谋罪的爱泼斯坦于去年八月在监禁中自杀。
+调查显示，在 2002 年到 2017 年之间，爱泼斯坦向 MIT 捐赠了 10 次共 85 万美元，其中 75 万美元的捐赠是在 2008 年他被定罪之后，有 52.5 万美元是捐赠给媒体实验室，还有 22.5 万美元是提供给知名的量子科学家 <a href="https://en.wikipedia.org/wiki/Seth_Lloyd" target="_blank"><u>Seth Lloyd</u></a> 教授。Lloyd 教授目前已被休行政假。报告称，Lloyd 教授是在 2004 年的一次宴会中被他的图书经纪人介绍给了爱泼斯坦 ，两人在爱泼斯坦 2008 年被定罪之后仍然是朋友关系，Lloyd 教授去过爱泼斯坦的私人岛屿参加过一次午宴，曾在其学术作品中致谢爱泼斯坦。Lloyd 教授称他在 2005 年或 2006 年从爱泼斯坦收到&nbsp; 6 万美元的个人“礼物”资助其研究，他没有上报给 MIT，这笔钱转入了他的个人银行账号。2008 年之后他从爱泼斯坦收到了三次共 22.5 万美元捐赠。

@@ -1,0 +1,50 @@
+➜VLC 将华为手机加入到禁止安装的黑名单
+https://www.solidot.org/story?sid=57335	10089
+流行的开源多媒体应用 VLC 将部分型号的华为手机<a href="https://www.theverge.com/2018/7/25/17614014/vlc-blacklisting-recent-huawei-devices-negative-app-reviews" target="_blank"><u>加入到</u></a>禁止安装的黑名单。问题与 VLC 无关而与华为有关。华为“优化”了操作系统的电源管理，为了省电和延长电池使用时间而积极的杀死后台应用，直接影响到了 VLC 的后台音频播放功能。普通用户要<a href="https://forum.videolan.org/viewtopic.php?f=35&amp;t=145519&amp;p=477133&amp;hilit=huawei#p477133" target="_blank"><u>关闭</u></a>电池优化功能让 VLC 能正常使用比较困难，而他们也不知道问题的根源在华为而以为一切都是 VLC 的错，所以他们纷纷在 Google Play 应用商店留下了一星的差评。负面评价的结果是 VLC 一怒之下在  Google Play 将华为手机 P8、P10 和 P20 列入禁止安装的名单。想要使用 VLC 的华为用户仍然可以去官网下载 APK 文件手动安装。
+➜高通准备放弃收购恩智浦
+https://www.solidot.org/story?sid=57336	12461
+高通收购恩智浦半导体的交易只差中国监管机构的批准，但在中美贸易战的背景下中国迟迟没有批准这笔交易。高通美国时间周三<a href="https://cn.reuters.com/article/qualcomm-china-nxp-wrapup-0725-wedn-idCNKBS1KG00O" target="_blank"><u>表示</u></a>，如果无法确保取得中国监管机构的批准，它计划放弃以 440 亿美元收购恩智浦。高通承诺，如果这项 440 亿美元收购案无法成局，高通将回购 300 亿美元股票来补偿股东。“我们显然被卷入一些超出我们控制范围的事情里，”高通执行长 Steve Mollenkopf 表示。高通在业绩公告中表示，如果不能在美国东部时间周三 23:59 之前获得中国当局的批准，公司将兑现与恩智浦的共同承诺，取消这项合并计划。高通若放弃交易，则面临20亿美元的分手费。
+➜火星发现地下液态“湖泊”
+https://www.solidot.org/story?sid=57337	14139
+根据发表在《科学》期刊上的<a href="https://www.bbc.co.uk/news/science-environment-21709225" target="_blank"><u>一项研究</u></a>，科学家在火星上<a href="https://www.bbc.co.uk/news/science-environment-44952710" target="_blank"><u>探测到</u></a>首个大型液态水体，一个位于冰盖之下、直径 20 公里的冰下湖，并称这里可能为生命提供潜在的栖息地。意大利航天局在罗马举行的新闻发布会上<a href="http://www.ftchinese.com/story/001078658" target="_blank"><u>宣布了这一消息</u></a>。科学家利用了火星快车号上搭载的 Marsis 地面穿透雷达探测到火星地表下 1500 米深处的这一具有里程碑意义的发现。地球的冰盖下也存在类似的冰下水湖。科学家相信这些湖中含有微生物，它们已经进化到能够在极寒、高压的咸盐水中生存。意大利科学家分析了 Marsis 雷达 3 年来对靠近火星南极的一处覆盖厚厚冰沉积物的区域的测量结果。他们说，火星快车号接收到的明亮的雷达反射，是液态水或盐水的明确信号，且与地球冰下湖的反射相似。
+➜Mozilla 指责 Google 让 YouTube 在 Edge 和 Firefox 上加载缓慢
+https://www.solidot.org/story?sid=57338	16381
+去年五月，YouTube 利用 Google 的 Polymer 库更新了设计，支持 Shadow DOM v0 API。Shadow DOM 允许无需解析复用 HTML 代码而加快加载，它是 W3C 标准，但标准化的版本是 Shadow DOM v1，v0 是淘汰的版本，Google 自己也已经宣布<a href="https://www.chromestatus.com/feature/4507242028072960" target="_blank"><u>将在明年移除 v0</u></a>。Chrome、Opera 和 Safari 都支持 Shadow DOM，Firefox 已经实现了该功能（v1 而不是 v0），但还<a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM" target="_blank"><u>没有默认启用</u></a>，目前需要手动修改设置，将 dom.webcomponents.enabled 和 dom.webcomponents.shadowdom.enabled 设为 true。Edge 则还在实现阶段。YouTube 使用的是一个将淘汰的版本，但尽管如此，它在 Chrome 上的加载速度要比 Edge 和 Firefox 更快。Mozilla 的 Technical Program Manager Chris Peterson 在 Twitter <a href="https://twitter.com/cpeterso/status/1021626510296285185" target="_blank"><u>发表了</u></a>一系列推文<a href="https://news.slashdot.org/story/18/07/25/1128225/google-has-made-youtube-slower-on-edge-and-firefox-mozilla-alleges" target="_blank"><u>抨击了</u></a> Google 的做法。
+➜研究认为月球早期可能适宜生命生存
+https://www.solidot.org/story?sid=57339	18616
+根据发表在《Astrobiology》期刊上的<a href="https://www.liebertpub.com/doi/pdf/10.1089/ast.2018.1844" target="_blank"><u>论文</u></a>，研究人员提出月球形成早期可能有两个宜居窗口期，为生命的存在提供了可能。40 亿年前月球形成后和 35 亿年前月球火山活动高峰期的月球表面条件足以支持简单的生命形式。在这两个时期，月球内部喷射出大量高热挥发性气体，其中包括水蒸气，而气体释放可能会在月球表面形成液态水泊以及可以存在数百万年的大气。研究人员根据月壤和月岩样品的最新分析结果推测，月球不像以前认为的那样干燥。2009 年和 2010 年，一个国际研究团队发现月球上有数亿吨的水冰，另有证据显示月球早期形成时就保存了大量水。<a href="http://news.sciencenet.cn/htmlnews/2018/7/415947.shtm" target="_blank"><u>研究人员认为</u></a>，如果月球早期的液体水和大气存在时间足够久，月球表面至少短暂宜居。早期月球可能还受到磁场保护，如果其表面存在生命，磁场可让它们免遭致命的太阳风袭击。
+➜网络流量分析发现下午 7 点和凌晨 2 点是订餐高峰
+https://www.solidot.org/story?sid=57340	26410
+研究人员<a href="https://www.bbc.co.uk/news/education-44945384" target="_blank"><u>分析了</u></a>网上订餐如订购比萨和中餐的流量模式，发现下午 7 点和凌晨 2 点是两大订餐高峰。这一模式在世界各地都存在。研究试图调查古老的人类饥饿和觅食行为在网络时代的呈现，结果显示虽然国与国之间存在巨大的文化差异，但网上觅食的节律基本一致。研究人员对凌晨 2 点的订餐高峰发出警告，吃夜宵与体重增加相关联，较晚吃食物可能会导致肥胖。
+➜研究曝光了一组下载量超过 1100 万的应用和扩展
+https://www.solidot.org/story?sid=57341	28474
+AdGuard <a href="https://adguard.com/en/blog/big-star-labs-spyware/?msID=533dec0b-199d-4e37-b3bf-41e7314dc3e6" target="_blank"><u>曝光了</u></a>一组下载量超过 1100 万的应用和扩展，包括了广告屏蔽工具和磁盘清理工具等，它们被发现会将用户访问的每一个网址记录下来然后发送到开发商控制的服务器。这些应用和扩展包括 Block Site，AdblockPrime，Mobile health club apps，Poper Blocker，CrxMouse，Clean Droid 等。AdGuard 联合创始人 Andrey Meshkov <a href="https://arstechnica.com/information-technology/2018/07/snoopware-installed-by-11-million-ios-android-chrome-and-firefox-users/" target="_blank"><u>表示</u></a>，这些应用和扩展都被一家叫 Big Star Labs 的公司收购了，它是在 2017 年成立的，研究人员无法联系上这家公司的代表。这些应用和扩展已经从 Google Play 或 Chrome Web Store，Firefox 扩展网站下架。前不久，流行的扩展 Stylish 也被发现会收集用户访问的每一个网站。
+➜清华紫光 26 亿美元收购法国芯片制造商 Linxens
+https://www.solidot.org/story?sid=57342	29984
+《金融时报》<a href="https://www.ft.com/content/f919b032-8fe5-11e8-b639-7680cedcc421" target="_blank"><u>报道</u></a>， 国有的半导体公司清华紫光以 26 亿美元收购了法国芯片制造商 Linxens，这一交易在一个月前就已经达成，但迟迟没有宣布。中国正在收紧海外投资，一位熟悉交易的知情人士表示紫光担心可能遭到政府的打压。紫光、Linxens 以及 Linxens 此前的母公司 CVC 都拒绝置评。Linxens 主要设计和制造用于安全和身份验证的芯片，其产品被智能手机、交通卡、身份卡片和护照用于接触和非接触的交易以及生物识别。它的年收入为 5 亿欧元，全球雇员有 3000 人。
+➜为什么你应该从 Windows 切换到 Linux
+https://www.solidot.org/story?sid=57343	31954
+今天的主流网站也开始向用户推广 Linux了。福布斯网站发表文章谈论为什么你现在就应该<a href="https://www.forbes.com/sites/jasonevangelho/2018/07/23/5-reasons-you-should-switch-from-windows-to-linux-right-now/#450082b7777b" target="_blank"><u>从 Windows 切换到 Linux</u></a> 的理由：Linux 不会干扰你，今天的 Windows 10 则通过 Cortana 和各种对话框干扰你的注意力；过去 5 到 10 年 Linux 的可用性进步显著，普通用户甚至不再需要接触命令行；各种软件应用中心让软件的安装更简单轻松；操作系统的更新不像 Windows 10 那样强迫性；Linux 社区很友好。
+➜中国撤回批准 Facebook 在华成立子公司的许可
+https://www.solidot.org/story?sid=57344	34539
+对 Facebook 来说，在中国取得的成功是短暂的。非常短暂。有几个小时，中国政府的数据库显示，Facebook 已经获得在浙江开设一家子公司的许可。Facebook 表示，将利用该公司在当地设立一个创新中心。然后，注册信息消失了，在中国媒体上，一部分提到了这家子公司的报道被删除。《纽约时报》援引匿名知情人士的消息<a href="https://cn.nytimes.com/china/20180726/facebook-china/" target="_blank"><u>报道</u></a>，许可目前已经被撤回。知情人士表示，这一态度突变并没有完全终结 Facebook 设立该公司的机会，但可能性也不是特别大。他还说，撤回许可的决定是在浙江官员和网信办发生意见分歧后作出的。后者由于没有与其进行更密切的商榷而感到愤怒。
+➜中国的 metoo 运动虽然滞后但开始星火燎原
+https://www.solidot.org/story?sid=57345	37803
+<a href="mailto:hehe@h.com">匿名读者</a> 写道<i> "
+微博用户<a href="https://weibo.com/maishao" target="_blank">@麦烧同学</a> 爆料（原文已删，相关转贴也被新浪以迅雷之势删除）央视主持人朱军<a href="https://c.m.163.com/news/a/DNKKBV5300038FO9.html?spss=newsapp&amp;from=singlemessage&amp;isappinstalled=0" target="_blank"><u>性骚扰</u></a>。报警后几年时间都没有结果。公益界媒体界都有类似情况出现，作家<a href="https://weibo.com/jfz" target="_blank"><u>@蒋方舟 </u></a>类似身份的人曝光使得中国的性骚扰问题又一次<a href="http://s.weibo.com/weibo/%23MeToo%23" target="_blank"><u>被公众议论(新浪微博已将相关话题屏蔽)</u></a>。@凤凰网视频 报道后选择了<a href="https://weibo.com/1806128454/GrI7ookfg?from=page_1002061806128454_profile&amp;wvr=6&amp;mod=weibotime" target="_blank"><u>自我阉割</u></a>。</i>
+➜哔哩哔哩等多个视频应用下架整改
+https://www.solidot.org/story?sid=57346	38098
+匿名读者 写道<i> "<a href="https://m.weibo.cn/detail/4266083471300929" target="_blank">据传</a>哔哩哔哩等多个视频应用大肆传播有害信息，违反《网络安全法》《互联网直播服务管理规定》等法律法规，被约谈下架整改。<a href="https://m.weibo.cn/status/4266090567680034" target="_blank">未接到通知不得上架</a>：内涵福利社、夜都市hi、发你视频、秒拍、波波视频 、快视频、56视频。
+下架一个月的有：沙发视频、两三分钟、洋葱视频、百思不得姐、SEEU、哔哩哔哩、看点啥、爆米花。"</i>
+➜新西兰政府花了 15 万美元制作游戏教人民如何做生意
+https://www.solidot.org/story?sid=57347	41910
+新西兰社会发展部投入了 15 万美元制作游戏<a href="https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=12095092" target="_blank"><u>教人民如何做生意</u></a>。八名游戏设计师花了 14 个月时间制作了<a href="https://www.joybusinessacademy.com/" target="_blank"><u>企业大亨系列游戏</u></a>，包括了餐馆大亨和科技大亨，培养玩家对未来就业至关重要的十项基本技能。游戏将教育玩家情商、认知灵活性，以及批判性思维和创造力。社会发展部部长 Carmel Sepuloni 表示，游戏强化了启动和管理自己的生意所需的技能。
+➜美国航空公司向中国屈服
+https://www.solidot.org/story?sid=57348	42765
+中国民用航空局周四发表<a href="http://www.caac.gov.cn/XWZX/MHYW/201807/t20180726_190012.html" target="_blank"><u>通报</u></a>，“截至 7 月 25 日，涉事 44 家外国航空公司全部进行了整改，其中 40 家已完成。中国民用航空局对相关外航遵守一个中国原则、及时进行整改的举动表示肯定。美国联合航空公司、美国航空公司、美国达美航空公司、美国夏威夷航空公司等 4 家航空公司于 7 月 25 日向我局提交整改报告，表示整改内容正在陆续上线，并恳请中国民用航空局两周后对其官网进行审查。经核实，其官网确已开始进行整改，但整改内容还不完整。我局将密切关注，并视情决定是否启动相应民航管理程序。”中国民用航空局是 4 月 25 日致函 44 家外国航空公司，要求这些公司纠正其官网相关内容中违反中国法律、违背一个中国政策的错误做法。白宫在五月份回应称这是奥威尔式的胡言乱语。尽管有白宫的支持，美国航空公司最终还是<a href="https://yro.slashdot.org/story/18/07/25/2129258/us-airlines-change-taiwan-reference-on-websites-ahead-of-chinese-deadline" target="_blank"><u>选择了屈服</u></a>。美航发言人称，航空旅行是全球性业务，他们需要遵守当地的法律法规。
+➜教育遗传学
+https://www.solidot.org/story?sid=57349	45324
+就教育而言，是基因还是环境更重要？刊登在《Nature Genetics》期刊上的一篇<a href="https://www.nature.com/articles/s41588-018-0147-3" target="_blank"><u>论文</u></a>尝试回答这个问题。研究分析了超过一百万人，<a href="https://arstechnica.com/science/2018/07/screening-1-1-million-people-shows-1271-genome-sites-linked-to-education/" target="_blank">寻找遗传变化与受教育时间的关系</a>。受教育时间是衡量学业成就的一个非常粗糙的标准，虽然两名大学毕业生在学业成就上可能天差地别，但高中后放弃学业和攻读研究生的人之间应该存在比较明显的差异。因此受教育时间与学业成就是相关的。研究确定了 1,271 个与受教育时间相关的基因组区域，但每个基因的平均差异只影响 1.7 周的受教育时间，综合起来这些区域只能说明 12% 的受教育时间差异，比父母的受教育程度引起的变化还小。
+➜Google 发布自己的物理安全密钥
+https://www.solidot.org/story?sid=57350	46142
+Google 在 Google Cloud Next 上<a href="https://www.theverge.com/2018/7/25/17613332/google-titan-security-key-login-2fa" target="_blank"><u>宣布了</u></a>自己的 USB 安全密钥 <a href="https://blog.google/products/google-cloud/building-on-our-cloud-security-leadership-to-help-keep-businesses-protected/" target="_blank"><u>Titan Security Key</u></a>，搭配了 Google 为验证身份而开发的特定固件。此前搜索巨人透露该公司的 8.5 万名员工使用了物理安全密钥后就没有再被攻击者成功钓鱼。Titan Security Key 基于 FIDO 身份认证规格，该规格得到了众多应用和浏览器的支持，因此你也可以用它登录非 Google 服务，但可能就利用不了固件了。这款物理密钥也意味着 Google 成为了 Yubikey 制造商 Yubico 新竞争对手。Titan Security Key 将首先提供给云服务的客户，未来将提供给公众，它的 USB 和蓝牙版本捆绑售价 50 美元，单买的花 20 到 25 美元。

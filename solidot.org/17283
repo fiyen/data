@@ -1,0 +1,42 @@
+➜PaX/Grsecurity关闭test patch公开下载
+https://www.solidot.org/story?sid=52203	7064
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道<i> " 由于诸多因素，PaX/Grsecurity 最终<a href="https://grsecurity.net/passing_the_baton.php" target="_blank">决定于 2017 年 4 月 26 日关闭 test patch</a>，4.9 成为了最后一个公开发布的 PaX/Grsecurity 的版本，这次的关闭公开下载并非是闭源，而是只针对商业用户开放源代码，PaX/Grsecurity 未来会<a href="https://grsecurity.net/passing_the_baton_faq.php" target="_blank">继续研究下一代的防御技术</a>包括防止 data-only attack 的 KERNSEAL，ARM64 平台以及 Android 系统的更多防御机制，针对 stable patch 的 RAP 以及 STRUCTGUARD。目前 Linux 内核的安全依然堪忧，PaX/Grsecurity 的 test patch 的关闭在可以遇见的未来<a href="https://grsecurity.net/compare.php" target="_blank">几乎不可能出现替代品</a>。不管怎么样，我们怀着感恩的心接受 PaX/Grsecurity 的决定，感谢 PaX team，Spender 以及所有的 PaX/Grsecurity 的贡献者在过去 16 年中为自由软件安全以及内核防御所作出的卓越贡献。虽然我们不知道 PaX/Grsecurity 是不是这个领域的 OMEGA，但众所周知，PaX/Grsecurity 必然是 ALPHA。"</i>
+➜新证据认为人类早在 13 万前就在北美定居
+https://www.solidot.org/story?sid=52204	12763
+南加州大学的研究人员<a href="http://www.npr.org/sections/thetwo-way/2017/04/26/525628056/new-evidence-suggests-humans-arrived-in-the-americas-far-earlier-than-thought" target="_blank"><u>发现了</u></a>人类早在 13 万前就在北美定居的证据。<a href="https://www.nature.com/nature/journal/v544/n7651/full/nature22065.html" target="_blank"><u>研究报告</u></a>发表在《自然》期刊上。<i> 1991 年，在圣迭哥一高速公路施工现场工作的考古学家发现了乳齿象的部分残骸，乳齿象已经灭绝，它的残骸并不罕见，但令人奇怪的是其它东西。考古学家同时发现了许多锋利的碎石和断骨。石头显示出了作为锤和砧使用的痕迹。乳齿象的部分骨骼也表现出遭到石头工具重击的特征。这一切都看起来像是人类的手笔。科学家认为他们发现了罕见的东西，但并没有意识到有多罕见。他们使用 1990 年代还不存在的铀钍同位素测年技术发现，石头工具距今有 13 万年。而现代人类进入北美的最早时间被认为是在大约 2 万年前。</i>
+➜比特大陆蚂蚁矿机的固件发现内置后门
+https://www.solidot.org/story?sid=52205	14551
+比特大陆的蚂蚁矿机算力据估计占到了整个比特币网络算力的很大一部分，矿机使用的固件被发现有内置后门，允许比特大陆远程关闭矿机。该后门被命名为“<a href="http://www.antbleed.com/" target="_blank"><u>Antbleed</u></a>”。固件会随机的每隔 1- 11 分钟核查一下中央服务，每一次核查都会传输矿机的序列号，MAC 地址和 IP 地址，比特大陆可以利用这些数据交叉检查客户的销售和交付记录，而该远程服务可以返回“false”去关闭矿机挖矿。标准的防火墙入站规则无法防止这一后门，因为矿机使用的是出站连接。即使比特大陆没有恶意，但它使用 API 没有身份验证，容易遭到中间人攻击、DNS 或域名劫持，被用于在全球范围内远程关闭矿机。受影响的蚂蚁矿机包括了  S9 系列、 L3、T9 和 R4 系列，如果矿机使用日期在 2016 年 7 月 11 日之后的固件，都有可能受到影响。最简单的保护方法是在 /etc/hosts  中将比特大陆的域名指向 127.0.0.1（127.0.0.1 auth.minerlink.com）。
+➜微软不建议用户手动安装 Windows 10 Creators Update
+https://www.solidot.org/story?sid=52206	17168
+在开始推送 Windows 10 Creators Update 两周之后，软件巨人<a href="https://blogs.windows.com/windowsexperience/2017/04/25/windows-10-creators-update-rollout-first-phase-update/#kGXbk4DRr6VzPxbY.97" target="_blank"><u>告诉用户不要手动更新</u></a>。因为手动更新可能会出问题。Creators Update 第一阶段的推送针对的是较新的设备——那些运行新版操作系统不太可能会有出现问题的用户，然后微软再根据第一阶段推送的反馈决定何时进行第二阶段推送。微软正在屏蔽安装更新可能会导致问题的设备。微软称，如果用户真的想要手动更新，那么最好做好可能出现问题的准备。微软称，它已经识别出特定型号的 Broadcom 设备会导致蓝牙配件的连接问题。
+➜物理学家提出证明盎鲁效应的方法
+https://www.solidot.org/story?sid=52207	19070
+知名相对论专家 William Unruh 在 1976 年<a href="http://www.sciencemag.org/news/2017/04/does-space-heat-when-you-accelerate-physicists-propose-test-controversial-idea" target="_blank"><u>预言</u></a>，任何匀速运动的观察者测量真空的温度，结果都是绝对零度。但是加速的观察者会发现真空变热了。对于非加速者，真空不存在任何粒子。反之，加速的观察者会检测到光子雾和其他粒子。加速度越大，雾的温度就越高。这就是所谓的盎鲁效应（Unruh effect）。该效应极其微弱，难以直接测量。要观测真空加热到 1 开尔文，观察者的加速度必须达到最好火箭加速度的 10^17 倍。但巴西圣保罗大学理论家 Daniel Vanzella 和同事<a href="http://news.sciencenet.cn/htmlnews/2017/4/374706.shtm" target="_blank"><u>认为</u></a>，有可能通过研究电子辐射的光线检测到最关键的物质——加速观察者观测到的光子雾。他们的<a href="https://arxiv.org/abs/1701.03446" target="_blank"><u>论文</u></a>（预印本）发表在《Physical Review Letters》期刊上。
+➜Google 缓存服务在古巴上线
+https://www.solidot.org/story?sid=52208	25522
+去年 12 月，搜索巨人和古巴政府<a href="http://www.solidot.org/story?sid=50694" target="_blank"><u>达成协议</u></a>，将 Google 全球缓存带到古巴，让古巴人能更快的访问 Google 的内容。本周三，名称为 GGC 节点的缓存服务<a href="http://www.cnbc.com/2017/04/26/google-just-became-the-first-foreign-internet-company-to-launch-in-cuba.html" target="_blank"><u>正式上线</u></a>，开始为古巴网民提供服务。Google 全球缓存储存了 Google 服务如 Gmail、Google Drive 和 流行 YouTube 视频。古巴的网速仍然很慢，但至少古巴人现在能更快的访问托管在本国的 Google 缓存了。大多数古巴人只能通过公开 WiFi 热点访问互联网，古巴的网费非常昂贵，每小时收费 1.5 美元，而普通人的月薪只有 25 美元。
+➜中国和欧洲计划在月球建造基地
+https://www.solidot.org/story?sid=52209	27791
+中国和欧洲航天局的代表<a href="http://www.independent.co.uk/news/science/moon-base-outpost-china-europe-chinese-space-agency-collaboration-together-a7702936.html" target="_blank"><u>讨论</u></a>联合在月球建造基地等太空任务。中国航天局秘书长田玉龙率先透露了这一消息，随后得到欧洲航天局发言人 Pal Hvistendahl 的证实。Hvistendahl 称，中国有着雄心勃勃的月球计划，自 1960 年代的太空竞赛以来太空已经变了，“我们都承认太空探索应该是和平目的，需要国际间的合作。”欧洲航天局希望参与今年的嫦娥五号无人登月任务，未来派遣欧洲宇航员飞往中国的空间站。
+➜墨西哥最高法院裁决屏蔽盗版网站侵犯言论自由
+https://www.solidot.org/story?sid=52210	29442
+墨西哥工业财产机构(Mexican Institute of Industrial Property) 下令该国 ISP Alestra 屏蔽音乐下载网站 mymusiic.com，该网站主要针对墨西哥听众，提供的音乐有部分是没有得到许可。Alestra 认为屏蔽命令过于宽泛，因为同时限制访问了没有侵权的音乐。它对该命令提起了上诉。墨西哥最高法院听取了此案，裁定对整个网站的封锁会同时限制合法内容的访问，因此<a href="https://torrentfreak.com/pirate-site-blockades-violate-free-speech-mexicos-supreme-court-rules-170425/" target="_blank"><u>侵犯了公众的自由表达</u></a>。
+➜霍金再次警告 AI，凯文凯利认为这是神话
+https://www.solidot.org/story?sid=52212	33576
+英国物理学家霍金通过视频在北京举行的全球移动互联网大会上发表演讲，再次对人工智能的崛起<a href="http://www.scmp.com/tech/china-tech/article/2091151/stephen-hawkings-question-china-will-ai-help-or-destroy-human-race" target="_blank"><u>发出警告</u></a>：AI 的崛起究竟是人类至今发生的最美好的事情还是最糟糕的事情？它是帮助人类还是毁灭人类呢？他说，人类受制于缓慢的生物演化，无法与 AI&nbsp; 竞争，容易被其取代。霍金等知名科学家已经反复警告过 AI 风险，但凯文凯利（Kevin Kelly）对此不以为然，认为 AI <a href="https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62?" target="_blank"><u>超越人类的说法是一种神话</u></a>，并无证据支持。他给出的理由包括：智能并非是单维度的，比人类聪明之说是无意义的概念；人类并无通用型的思维，AI 也是；在其它媒介模拟人类思维受制于成本；智能的维度不是无限的；智能只是发展的一种因素。<br>
+➜Fitbit 记录帮助指控谋杀妻子的丈夫
+https://www.solidot.org/story?sid=52213	36713
+40 岁的康乃迪克州男子 Richard Dabate <a href="http://www.nydailynews.com/news/crime/police-solve-connecticut-murder-clues-fitbit-activity-article-1.3094802" target="_blank"><u>被控谋杀、纂改证据和发表虚假声明</u></a>。他在 2015 年 12 月拨打 911 称妻子被一名闯入者枪杀，声称闯入者又高又胖，有着迪塞尔（Vin Diesel）式的低沉嗓音，还使用了伪装和面具。但他妻子佩戴的 Fitbit 跟踪器给出了不同的答案，Fitbit 记录显示在在所谓的枪击发生前她还活着，监控录像显示她还去了当地的健身房。
+➜共享单车将建立联网用户信用系统
+https://www.solidot.org/story?sid=52214	39329
+共享单车<a href="http://companies.caixin.com/2017-04-27/101083902.html" target="_blank"><u>将建立联网用户信用系统</u></a>。各共享单车企业之间将信息共享，而政府部门的信用信息与共享单车企业也将共享。发改委财金司副司长陈洪宛称，要解决共享单车暴露的停放混乱、损害车辆等问题，最重要的就是要引入信用的手段，推进共享单车领域信用建设。要促进各共享单车企业之间的信息共享，使违规违法使用单车的人在各个单车企业都受到限制。发改委财金司的工作人员表示，未来几个月都会集中协商推进各方之间的信息打通、分享。
+➜中国黑客将目标对准亚洲关键基础设施
+https://www.solidot.org/story?sid=52215	40861
+安全公司 FireEye <a href="http://www.ftchinese.com/story/001072374" target="_blank"><u>表示</u></a>，政府背景的黑客组织 Conference Crew 正把目标对准那些保存有大量数据的机构，同时攻击中国周边多个国家的电信基础设施。FireEye 表示，该组织在印度、印度尼西亚、菲律宾和越南等国家都有发起过攻击的记录，同时香港和澳门地区的机构也是其攻击目标。在一个案例中，黑客伪造了一封电子邮件，邀请收件人在雅加达参加一个网络安全峰会，诱导他们下载恶意软件。该组织安插的恶意软件包括在受害人的系统内发出命令或收集信息的程序。新加坡国防部今年称，在一起 “目标明确、精心策划的” 攻击中，约 850 名军人和雇员的个人资料被窃取。该部称，此次攻击的真正目的可能是想获取官方机密。不过，相关机密都储存在一个不联网的独立系统内。
+➜FTP 成为被遗忘的传输协议
+https://www.solidot.org/story?sid=52216	44864
+Debian 本周<a href="http://www.solidot.org/story?sid=52192" target="_blank"><u>宣布</u></a>将在年底关闭两个公共 FTP 服务器 ftp://ftp.debian.org 和 ftp://security.debian.org，非公开的 FTP 服务器 ftp://ftp.upload.debian.org 和 ftp://security-master.debian.org 则会继续维护。这一决定标志着 FTP 逐渐成为<a href="http://www.theregister.co.uk/2017/04/27/debian_to_turn_off_ftp/" target="_blank"><u>被遗忘的传输协议</u></a>。FTP 的 <a href="https://tools.ietf.org/html/rfc114" target="_blank"><u>RFC 文件</u></a>最早是在 1971 年发表的，设计用于 MIT 的两台主机之间的即时实现，它在 BBS 时代得到了广泛传播，被用于下载软件和共享文件。但它的协议非常繁琐，两个主机之间需要大量的对话才会开始传输数据，而且不支持原生的加密。原因是它是按照主机到主机的通信设计的，而不是为目前流行的客户端到服务器端的通信设计的。HTTP/HTTPS 能更好的完成 FTP 所不擅长做的事情。
+➜所有哺乳动物“方便”时间是 12 秒
+https://www.solidot.org/story?sid=52217	47259
+在研究了<a href="http://pyang.gatech.edu/publication/" target="_blank"><u>小便</u></a>之后，佐治亚理工学院的博士生、25 届 Ig 诺贝尔物理学奖得主 <a href="http://pyang.gatech.edu/"><u>Patricia J Yang</u></a> 和同事研究了大便。<a href="http://pubs.rsc.org/en/content/articlelanding/2017/sm/c6sm02795d#!divAbstract" target="_blank"><u>研究结果</u></a>发表在本周出版的《Soft Matter》期刊上。他们研究了众多哺乳动物的“方便”习惯，使用记录排便的视频，测量了排便时间，发现虽然动物的直肠大小不一，但从猫到大象的各种哺乳动物的方便时间基本上都是 12±7 秒。人类也是哺乳动物，但人类在解手的时候通常会做其它事情，因此时间会持续数分钟到数十分钟。研究人员声称，他们的模型显示粪便通过一层粘液沿着大肠滑动，类似雪橇沿着陡坡道滑动。大型动物不仅有更多的粪便，而且有更厚的粘液层以促进排便。论文提供多个视频可供观看。

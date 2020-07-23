@@ -1,0 +1,123 @@
+➜HandBrake 1.0.0发布
+https://www.solidot.org/story?sid=50878	10841
+开源视频转码软件HandBrake在历经13年的开发之后<a href="https://handbrake.fr/news.php?article=37" target="_blank"><u>释出了 1.0.0正式版</u></a>。主要特性包括：新的web 和 MKV 预设（<a href="https://handbrake.fr/docs/en/1.0.0/workflow/select-preset.html" target="_blank"><u>Preset</u></a>，一组为播放视频的软件或设备定制的设置），新的JSON预设系统支持命令行，改进音频/视频同步引擎，VP9视频编码，改进Intel QuickSync Video H.265/HEVC编码器性能（需要  Intel Skylak及更新的处理器），改进字幕语言渲染，支持从命令行导入导出预设；bug修正，等等
+➜环保税将于2018年起施行
+https://www.solidot.org/story?sid=50879	13453
+全国人大公布了《<a href="http://www.npc.gov.cn/npc/xinwen/2016-12/25/content_2004993.htm" target="_blank"><u>中华人民共和国环境保护税法</u></a>》，宣布从2018年1月1日起征收环保税，征税范围从大气污染物、水污染物到固体污染物和噪音污染，大型养殖场的牛、猪、鸡鸭等也都需要根据养殖数量缴纳</font>环保税（0.1头牛视为一个污染当量）。财政部<a href="http://cn.reuters.com/article/china-env-tax-law-idCNKBS14F01Q" target="_blank"><u>表示</u></a>以后考虑将挥发性有机物排放等列为征税项目。环保税法规定，大气污染物税额为每污染当量1.2元人民币；水污染物为1.4元；固体废物按不同种类，税额为每吨5元至1,000元；噪声按超标分贝数，税额为每月350元至11,200元。
+➜苹果发表了第一篇AI论文
+https://www.solidot.org/story?sid=50880	14184
+彭博社本月早些时候<a href="http://www.solidot.org/story?sid=50645" target="_blank"><u>报道</u></a>，苹果解除了对AI研究团队发表论文的禁令，此举被认为旨在加快苹果在深度学习领域的技术进步。禁止出版论文被认为阻碍了苹果汲取AI领域技术进展的能力，以及从学术界招募优秀人才的能力。现在，苹果研究人员在预印本网站arXiv.org发表了第一篇机器视觉技术论文《<a href="https://arxiv.org/abs/1612.07828" target="_blank"><u>Learning from Simulated and Unsupervised Images through Adversarial Training</u></a>》，与使用模拟图像训练AI识别对象的问题有关。
+➜智能手机如何变得智能的
+https://www.solidot.org/story?sid=50881	18387
+2007年1月9日，苹果宣布了它最著名也是最赚钱的产品iPhone。BBC的一篇文章认为，<a href="http://www.bbc.com/news/business-38320198" target="_blank"><u>iPhone从很多方面定义了现代经济</u></a>。以iPhone为代表的智能手机在10年前基本不存在，但如今已经无处不在。iPhone改变了应用、音乐和广告。但iPhone之所以能成为iPhone，它也依赖于其它技术作为其存在的先决条件，这些关键技术包括：微型处理器、记忆芯片、SSD、LCD、锂离子电池、快速傅里叶变换算法、互联网、HTTP和 HTML、蜂窝网络、GPS、触摸屏以及语音助手。所有这些技术都是 iPhone或任何智能手机工作的重要组成部分，其中部分技术不只是重要，而是必不可少。这些技术的发明依靠的不是乔布斯，而是山姆大叔——美国政府资助了其中大部分的技术，比如互联网的前身阿帕网。而快速傅里叶变换算法是美国数学家 John Tukey为军事应用开发的，目的是探测苏联的核武器测试。
+➜猎豹面临灭绝
+https://www.solidot.org/story?sid=50882	19342
+世界上速度最快的哺乳动物猎豹<a href="http://www.bbc.com/news/science-environment-38415906" target="_blank"><u>面临灭绝</u></a>，发布在PNAS上的最新<a href="http://www.pnas.org/cgi/doi/10.1073/pnas.1611122114" target="_blank"><u>报告</u></a>称全世界的猎豹仅剩下7100只，一半以上生活在非洲南部的一个区域，亚洲豹基本灭绝，伊朗还剩下不到50只。猎豹之所以面临灭绝是因为其活动范围超出保护区范围，与人类之间的冲突日益增加。在津巴布韦，猎豹数量在16年内从1200只减少到170只，主要原因被认为是人类对土地的开发。猎豹的猎物也因为非法捕猎而减少。报告呼吁国际自然保护联合会将猎豹列入濒危动物<a href="http://www.iucnredlist.org/" target="_blank"><u>红名单</u></a>。
+➜TiDB RC1 Release
+https://www.solidot.org/story?sid=50883	24085
+<a href="http://www.pingcap.com">PingCAP</a> 写道 "12 月 23 日，分布式关系型数据库 TiDB 正式发布 RC1。主要新特性包括：
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p><b>TiKV：</b></p>
+<ul>
+<li>提升写入速度
+</li>
+<li>降低磁盘空间占用
+</li>
+<li>支持百 TB 级别数据
+</li>
+<li>提升稳定性，集群规模支持 200 个节点
+</li>
+<li>提供 Raw KV API，以及 Golang client
+</li></ul>
+<p><b>PD：</b></p>
+<ul>
+<li>PD 调度策略框架优化，策略更加灵活合理
+</li>
+<li>添加 label 支持，支持跨 DC 调度
+</li>
+<li>提供 PD Controller，方便操作 PD 集群
+</li></ul>
+<p><b>TiDB：</b></p>
+<ul>
+<li>SQL 查询优化器
+</li>
+<ul>
+<li>
+<p>支持 eager aggregation</p>
+</li>
+<li>
+<p>更详细的 explain 信息</p>
+</li>
+<li>
+<p>union 算子并行化</p>
+</li>
+<li>
+<p>子查询性能优化</p>
+</li>
+<li>
+<p>条件下推优化</p>
+</li>
+<li>
+<p>优化 CBO 框架</p>
+</li></ul>
+<li>
+<p>重构 time 相关类型的实现，提升和 MySQL 的兼容性</p>
+</li>
+<li>
+<p>支持更多的 MySQL 内建函数</p>
+</li>
+<li>
+<p>Add Index 语句提速</p>
+</li>
+<li>
+<p>支持用 change column 语句修改列名；支持使用 Alter table 的 modify column 和 change column 完成部分列类型转换</p>
+</li></ul>
+<p><b>工具：
+</b></p>
+<ul>
+<li>Loader：兼容 Percona 的 mydumper 数据格式，提供多线程导入、出错重试、断点续传等功能，并且针对 TiDB 有优化
+</li>
+<li>开发完成一键部署工具
+</li></ul>
+<p>作为世界级开源 NewSQL 分布式关系型数据库，TiDB 灵感来自于 Google Spanner/F1，具备『分布式强一致性事务、在线弹性水平扩展、故障自恢复的高可用、跨数据中心多活』等核心 NewSQL 特性。TiDB 于 2015 年 5 月在 Github 创建，同年 12 月发布 v0.5 Alpha 版本，并于 2016 年 6 月发布 Beta 版。在社区和 PingCAP 技术团队的共同努力下，RC1 现正式上线，感谢社区的小伙伴们的参与和贡献。作为 GitHub 上的明星开源项目，TiDB 目前已被多家公司用于生产环境。</p>
+<p>源码地址：<a href="https://link.zhihu.com/?target=https%3A//github.com/pingcap/tidb" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">github.com/pingcap/tidb</span><span class="invisible">
+"</i>
+➜中国制造商称假大米是展示用的
+https://www.solidot.org/story?sid=50884	27142
+在尼日利亚查获2.5吨假大米后，中国制造商表示假大米仅用于展示，其制造成本高于真实大米。阿里巴巴旗下的《南华早报》<a href="http://www.scmp.com/news/china/policies-politics/article/2057071/artificial-food-intended-display-only-say-chinese" target="_blank"><u>报道称</u></a>，制造商表示假大米使用聚氯乙烯制造，售价每公斤超过70元，10倍于真实大米在中国的售价，如果再运送到海外，其费用将会更昂贵。它的真正名字叫人造大米，主要被餐厅或饭店用于展示销售的菜肴，不会因为高温而变质。中国生产了全世界几乎所有的人造大米。深圳一家人造大米制造商的经理称，人造大米的风险不应该被夸大，即使孩子也能根据其重量和感觉分辨出它是塑料的。中国制造的其他人造食物还有面条、寿司、披萨和蛋糕。
+➜科学家计划向外星人发送信号先打个招呼
+https://www.solidot.org/story?sid=50885	29683
+在历尽数十年搜寻外星人信息无果之后，科学家认为是时候尝试基本的礼仪规则：<a href="http://phys.org/news/2016-12-scientists-worlds.html" target="_blank"><u>先打个招呼</u></a>。名叫METI（ Messaging Extra Terrestrial Intelligence）的组织计划向遥远的外星球发送信息，而不是等待他们呼叫地球。METI项目计划到2018年底使用无线电或激光信号向围绕半人马座比邻星的一颗岩石行星发去信息。比邻星是距离太阳最近的恒星。METI成立于2015年，它计划每年筹集100万美元去建造或租赁强大的无线电发射机。向外星人发送信息在科学家中间引发了争议，一些科学家指出，如果外星人有敌意，我们真的想让他们知道我们生活在哪里？包含霍金在内的人就认为我们不应该吸引外星人来注意我们。
+➜沙特根据派对视频识别和逮捕出席派对的人
+https://www.solidot.org/story?sid=50886	30991
+<center>
+<iframe src="https://www.youtube.com/embed/4K8g-hNPxnQ" allowfullscreen="" height="288" frameborder="0" width="512"></iframe>
+</center><br>
+一则12月20日上传到YouTube的<a href="https://www.youtube.com/watch?v=4K8g-hNPxnQ" target="_blank"><u>派对视频</u></a>吸引了沙特当局的注意，警方发言人称<a href="http://khaleejtimes.com/region/saudi-arabia/watch-partygoers-in-saudi-arabia-arrested-after-clip-goes-viral" target="_blank"><u>已经逮捕了</u></a>大部分被识别身份的出席派对者。沙特对非血缘关系的男女混杂以及销售和使用酒精有严厉的政策，而视频短片显示了出席派对的男女喝着酒跳着舞。一名被怀疑是派对组织者的人已经被逮捕。对其他出席者的逮捕行动正在进行之中。这不是第一次沙特对此类的派对采取行动。今年2月，6名女性和5名男性因为派对被邻居举报而遭到300鞭的抽打和1年徒刑的惩罚。
+➜报告称全球野生动物数量1970年以来减少了58%
+https://www.solidot.org/story?sid=50887	33306
+Living Planet报告称全球野生动物数量自1970年以来<a href="http://www.bbc.com/news/science-environment-37775622" target="_blank"><u>减少了58%</u></a>，其中生活在湖畔、河流和湿地的动物损失最严重。导致数量下降的主要原因是包括栖息地损失、野生动物贸易、污染和气候变化在内的人类活动。研究人员认为，脊椎动物数量平均每年下降2%，如果不采取行动，到2020年野生脊椎动物种群数量将减少三分之二。但这份报告使用的数据被认为并不精确，而是很粗糙，批评者认为这项研究是有缺陷的，缺乏南美和热带非洲的数据。
+➜中国计划在2018年向月球背面发射着陆器
+https://www.solidot.org/story?sid=50888	33458
+中国周二发表白皮书计划到2018年向月球背面<a href="http://phys.org/news/2016-12-china-probes-side-moon-mars.html" target="_blank"><u>发射着陆器实现软着陆</u></a>，到2020年发射第一颗火星探测器。中国还计划探索木星系统，研究太阳系的起源和演化，搜寻地外生命。白皮书没有提到中国在月球上实现载人登月的计划。美国和俄罗斯在载人太空飞行上有着更丰富的经验，而中国军方支持的太空项目在相对短的时间内取得了稳步的进步。上个月，两名宇航员在天宫二号上完成了为期一个月的在轨飞行。
+➜Facebook走到十字路口
+https://www.solidot.org/story?sid=50889	39636
+全世界34亿网民中有超过17亿人每月登录Facebook，2016年前9个月收入增加到了190亿美元，利润几乎增至三倍至60亿美元。社交巨人看起来正处于它的黄金时期，无比的强大。但和Google的情况类似，Facebook发现除了现有的业务<a href="https://www.technologyreview.com/s/603198/facebook-at-a-crossroads/?utm_campaign=internal&amp;utm_medium=homepage&amp;utm_source=grid_1" target="_blank"><u>很难再拓展其它业务</u></a>。Mark Zuckerberg的互联网卫星、无人机和虚拟现实 Oculus的进展都不怎么顺利，Oculus业务最近被分成两部分，一部分专注于高端VR，另一部分则是探索移动虚拟现实体验。Zuckerberg想要连接地球上的每一个人，但印度电信监管机构以扭曲市场为由封杀了它的Free Basics计划。Facebook不能无止境的向用户展示针对性广告，公司首席财务官警告2017年收入增长将会放缓，因为它无法在不惹恼用户的情况现在展示更多的广告。它最近还因为传播虚假信息而面临压力。
+➜摩苏尔大坝坍塌的危险大于伊斯兰国
+https://www.solidot.org/story?sid=50890	42230
+<div align="center"><img src="http://img.solidot.org/0/416/liHJf6nHxJfPA.jpg" height="372" width="400" align=""><br>
+</div>
+<br>
+今年早些时候，参与30年前摩苏尔大坝建造的工程师<a href="http://www.solidot.org/story?sid=47363" target="_blank"><u>发出警告</u></a>，大坝随时会塌，造成的伤亡将会十分惨重。现在，《纽约客》也发表了一篇长文指出，摩苏尔大坝的问题<a href="http://www.newyorker.com/magazine/2017/01/02/a-bigger-problem-than-isis" target="_blank"><u>可能比伊斯兰国更严重</u></a>。摩苏尔大坝在2014年8月伊斯兰国短暂占领，当时为大坝工作的1500名伊拉克人绝大部分都逃走了，伊斯兰国战士之后洗劫和摧毁了设备。库尔德武装10天后赶跑了伊斯兰国，但随后对大坝的调查显示，它正处于坍塌的边缘。如果没有持续的维护，下面的岩石将会冲走，大坝将会下沉然后瓦解。如果大坝破裂，对下游的影响将是灾难性的。但附近的村民对此似乎并不怎么担心，“我们逃过了萨达姆，我们逃过了伊斯兰国，我们也将能逃过摩苏尔大坝。”
+➜中国表示将使用所有必要的手段保护信息安全
+https://www.solidot.org/story?sid=50891	44319
+彭博社<a href="https://www.bloomberg.com/news/articles/2016-12-27/china-vows-to-protect-information-security-using-all-means" target="_blank"><u>报道</u></a>，中国发誓将使用所有必要的手段保护信息安全，包括使用军队。互联网最高审查机构网信办刚刚公布了《<a href="http://www.cac.gov.cn/2016-12/27/c_1120195926.htm" target="_blank"><u>国家网络空间安全战略</u></a>》，称“网络有害信息侵蚀文化安全”，“网络谣言、颓废文化和淫秽、暴力、迷信等违背社会主义核心价值观的有害信息侵蚀青少年身心健康，败坏社会风气，误导价值取向，危害文化安全。网上道德失范、诚信缺失现象频发，网络文明程度亟待提高。”《国家网络空间安全战略》再次强调了网络主权，称“网络空间主权不容侵犯”，表示要“防范、阻止和惩治危害国家安全和利益的有害信息在本国网络传播”。
+➜布兰妮没有死，索尼唱片称其Twitter账号被入侵
+https://www.solidot.org/story?sid=50892	45479
+<div align="center"><img src="http://img.solidot.org/0/65/liJjndvuk9CgM.png" height="267" width="450" align=""><br>
+</div>
+<br>
+索尼唱片向流行歌手布兰妮·斯皮尔斯（Britney Spears）及其粉丝<a href="https://www.bloomberg.com/news/articles/2016-12-26/britney-spears-isn-t-dead-sony-says-twitter-account-compromised" target="_blank"><u>道歉</u></a>，称其Twitter账号被入侵，发布了布兰妮的死讯：“RIP @britneyspears #RIPBritney 1981-2016”。该帖子已经删除。黑客组织OurMine<a href="http://www.bbc.com/zhongwen/simp/world-38441972" target="_blank"><u>声称是它干的</u></a>。这不是第一次索尼遭到黑客入侵，而OurMine曾经入侵过其他知名人士的Twitter账号，其中包括Facebook的Mark Zuckerberg，Google CEOSundar Pichai。

@@ -1,0 +1,57 @@
+➜官方否认限期关闭比特币矿场
+https://www.solidot.org/story?sid=55092	10807
+官媒财新网援引知情人士的消息<a href="http://finance.caixin.com/2018-01-04/101193143.html" target="_blank"><u>报道</u></a>，当局没有计划限期关闭比特币矿场。中国有着世界最大的比特币挖矿产业和世界最大的矿机生产行业，如果关闭矿场比特币网络的算力将会出现大幅下降，投资者将会面临巨额损失。报道称，监管层要求各地积极引导辖内企业有序退出挖矿业务，即协调辖内有关部门，多措并举，综合采取电价、土地、税收和环保等措施，并定期上报辖内 “挖矿” 企业基本情况及引导情况。这里所指的 “引导退出”，并非是一项要求地方关停矿场的强制措施，而是意在通过规范、收缩各地优惠政策。知情人士称，比特币挖矿的问题一是挖矿的耗电量巨大，全国挖矿每年的用电量光是不完全统计，就可以供 5000 万户居民使用，存在资源浪费的问题；二是每挖一枚比特币要产生 1.8 吨的二氧化碳，不利于环境保护。此外，有些矿场还存在消防安全、噪音过大等问题。
+➜支付宝年账单被发现默认开通芝麻信用
+https://www.solidot.org/story?sid=55093	11866
+阿里巴巴旗下的支付宝昨天推出了年度账单，但查看账单的用户发现他们会被默认开通阿里旗下的另一家关联企业芝麻信用，这意味着芝麻信用将可以自由使用你的各种信息，包括但不限于与第三方分享你的信息。这一发现很快在社交网络上引发了争议，迫使芝麻信用在晚上 23 点<a href="https://weibo.com/3732213162/FCHPE5UBk?from=page_1006063732213162_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1515035226851" target="_blank"><u>发表声明</u></a>，承认做法“愚蠢”，表示了道歉，称已开通的用户可以在支付宝客户端找到芝麻信用的信用授权管理来取消授权。
+➜微信真的不存储用户聊天记录？
+https://www.solidot.org/story?sid=55094	12773
+腾讯否认其存储或分析微信用户的聊天内容，这与中国政府关于社交媒体平台须存储用户记录的规定相悖。微信是中国最受欢迎的通讯平台。随着中国政府加强对互联网用户的控制，中国科技公司面临着一个矛盾：用户期望享有隐私权，而实行监督的政府要求获得信息。腾讯不存储用户聊天记录的声明<a href="http://www.ftchinese.com/story/001075739" target="_blank"><u>与中国网络安全规定不符</u></a>，根据规定，群组信息服务提供者应至少留存 “网络日志”6 个月，以协助执法。 四川人权律师冉彤表示：“警方在调查案件时可轻易下载微信聊天记录，而且从未隐瞒过这一事实。”冉彤补充称，腾讯的声明为其协助其他机构（如警方）存储聊天记录留出了空间，尽管腾讯表示自己不会留存聊天记录。
+➜英特尔声称漏洞对普通用户影响不大
+https://www.solidot.org/story?sid=55095	13857
+过去几天英特尔处理器<a href="http://www.solidot.org/story?sid=55077" target="_blank"><u>曝出了严重设计缺陷</u></a>，靠微码更新无法修正，迫使操作系统通过软件更新来解决该问题，在某些情况下这将要求重新设计内核的虚拟内存系统，因而软件修正将会显著影响系统性能，出现最高 50% 的性能下降。英特尔发表<a href="https://newsroom.intel.com/news/intel-responds-to-security-research-findings/" target="_blank"><u>新闻稿</u></a>，承认其芯片架构存在缺陷，但新闻稿故意混淆了同时曝出的其它硬件漏洞（但都没有英特尔独占的严重），声称不是它一家的产品有问题， AMD 和 ARM 也都受到影响。英特尔声称性能影响依赖于工作负荷，普通用户不会受到软件修正的显著影响。Linux 之父 Linus Torvalds 则在内核邮件列表上毫不留情的<a href="https://lkml.org/lkml/2018/1/3/797" target="_blank"><u>抨击了英特尔</u></a>，他认为英特尔应该坦白的说“we are committed to selling you shit forever and ever, and never fixing anything"。
+➜GIMPS 项目报告发现已知最大素数
+https://www.solidot.org/story?sid=55096	19511
+互联网梅森素数大搜索（GIMPS）项目<a href="https://www.mersenne.org/primes/press/M77232917.html" target="_blank"><u>宣布</u></a>发现第 50 个梅森素数和已知最大的素数：2^77,232,917-1，共有  23,249,425 位。发现者是 GIMPS 志愿者 Jonathan Pace，时间是在 2017 年 12 月 26 日。该素数已被多人使用不同的硬件和软件完成验证。Jonathan Pace 住在田纳西州的 Germantown，是一位电机工程师，他有资格获得 3000 美元的研究发现奖。GIMPS 是一个分布式计算项目，至今已有 20 年历史，它利用志愿者的空闲 CPU 创建了一个遍布全球的超级计算机，它的 prime95 软件此前发现了英特尔处理器的一个漏洞。
+➜处理器漏洞 Meltdown 和 Spectre
+https://www.solidot.org/story?sid=55097	26727
+<div align="center"><img src="//img.solidot.org/0/494/lilD8FlFkcyjg.gif" width="500" height="282" align=""><br>
+<br>
+</div>
+Google Project Zero 和奥地利格拉茨技术大学等机构的研究人员<a href="https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html" target="_blank"><u>正式披露了</u></a>三个处理器高危漏洞，分别编号为 CVE-2017-5753（Variant 1）、CVE-2017-5715（Variant 2）和 CVE-2017-5754（Variant 3），前两个漏洞被称为 Spectre，后一个漏洞被称为 <a href="https://meltdownattack.com/" target="_blank"><u>Meltdown</u></a>，Spectre Variant 1 影响 AMD，英特尔和 ARM 处理器，而所有三个漏洞都影响英特尔处理器，研究人员已经开发出了概念验证的漏洞利用。<a href="https://www.amd.com/en/corporate/speculative-execution" target="_blank">AMD</a> 和 <a href="https://developer.arm.com/support/security-update" target="_blank"><u>ARM</u></a> 已经发表声明称漏洞可以通过软件修正，对性能影响不大。而英特尔处理器的软件修正则被认为存在显著的性能影响。Meltdown 破坏了用户应用程序和操作系统直接的最基本隔离，允许一个程序访问内存，获取其它应用程序和操作系统的秘密(如图)；Spectre 破坏了不同应用程序之间的隔离，允许攻击者诱骗没有错误的程序泄漏秘密。
+➜Mozilla 因为 Bug 决定删除所有收集的崩溃报告
+https://www.solidot.org/story?sid=55098	27904
+因为 Firefox 崩溃报告工具发现了一个 bug，Mozilla <a href="https://www.bleepingcomputer.com/news/software/mozilla-will-delete-firefox-crash-reports-collected-by-accident/" target="_blank"><u>决定删除所有收集的遥测数据</u></a>。自 Firefox 52 发布起 Mozilla 收集了后台标签页的崩溃报告，但崩溃报告工具的 bug 让浏览器没有遵守用户的隐私设置，它会自动递交崩溃报告，最近发布的 Firefox 57.0.3 修改了这个 bug。因为崩溃报告不是匿名的，为了保护用户的隐私，Mozilla 决定删除这一期间所有收集的崩溃报告。这将导致它失去九个月的遥测数据。
+➜Linux 内核将对 AMD 处理器禁用 PTI 修正
+https://www.solidot.org/story?sid=55099	29987
+<div align="center"><img src="//img.solidot.org/0/496/liPtZfKjlkvxI.jpg" align=""><br>
+</div>
+<br>
+为了修复英特尔处理器的高危漏洞 <a href="https://meltdownattack.com/" target="_blank">Meltdown</a>，Linux 内核开发者开发了被称为 <a href="https://lwn.net/Articles/741878/" target="_blank"><u>kernel Page Table Isolation</u></a>（KPTI 或 PTI）的补丁集。该补丁会对性能产生显著的影响，如果默认对所有 CPU 都启用，那么不存在 Meltdown 漏洞的 AMD CPU 也将面临严重的性能下降。Linus Torvalds 刚刚向 Linux 4.15 主线 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=00a5ae218d57741088068799b810416ac249a9ce&amp;utm_source=anz" target="_blank"><u>pulling</u></a> 最新的 PTI 修正，其中包括对 AMD 处理器<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Tip-Git-Disable-x86-PTI" target="_blank"><u>关闭</u></a> PTI 修正，代码是：
+<i>/* Assume for now that ALL x86 CPUs are insecure */ <br>
+- setup_force_cpu_bug(X86_BUG_CPU_INSECURE);<br>
++ if (c-&gt;x86_vendor != X86_VENDOR_AMD)<br>
++  setup_force_cpu_bug(X86_BUG_CPU_INSECURE);<br>
+fpu__init_system(c);<br>
+</i>
+➜中国进入无现金社会
+https://www.solidot.org/story?sid=55100	30681
+中国正率先<a href="http://cn.wsj.com/gb/20180104/biz122317.asp" target="_blank"><u>进入无现金社会</u></a>。根据艾瑞咨询的数据，2016 年中国移动支付规模达 9 万亿美元。对于移动支付的两大巨头阿里巴巴和腾讯来说，他们获得的回报不仅仅是从商家处赚取的交易费，该费用通常为交易额的 0.6%。两家公司还能收集到消费者数据，通过这些数据可将他们的应用程序转化为营销平台，用于提供从共享单车到旅行等多项扩展服务。根据艾瑞的数据，目前微信支付在中国移动支付市场占据的份额为 40% 左右，支付宝的份额为 54%。科技公司跃升为金融巨头给传统银行一记重击。据安永和新加坡星展银行 2016 年 11 月的一份报告，2015 年中国国有银行银行卡手续费收入流失近 23 亿美元。该报告预测，到 2020 年，每年损失的银行卡手续费收入或增至 600 亿美元。银行面临的更大问题可能是阿里巴巴和腾讯常常比他们更了解客户。
+➜中国加快研发癌症新药
+https://www.solidot.org/story?sid=55101	31637
+一种新药有望阻止癌细胞扩散到其他器官；另一种可以治疗血癌；还有一种利用人体的免疫系统来杀死肿瘤。这三种药都展示出令人鼓舞的效果，只需再过一道关坎就能获得在美国上市的批准。这些药还有另一个共同特点：<a href="https://cn.nytimes.com/business/20180104/china-drugs-health-care/" target="_blank"><u>它们都是中国创造的</u></a>。多年来，中国的制药业一直把注意力集中在仿制西药上。让新药获得批准是一个令人沮丧且耗时的过程。现在，中国正努力在全球制药业发挥更大的作用。中国有数百万癌症或糖尿病患者，政府已把创新药物作为国家重点。官员已承诺加快药品审批速度，为了扭转人才外流，还在大力吸引科学家回国工作。当局为研发提供土地、拨款、税收减免以及投资。
+➜治疗罕见失明的基因疗法报价 85 万美元
+https://www.solidot.org/story?sid=55102	38729
+第一种将 DNA 直接植入眼睛以逆转某类儿童视力丧失的基因疗法<a href="https://apnews.com/f0606c7d0f024d46b84648432c326189/Price-tag-on-gene-therapy-for-rare-form-of-blindness:-$850K" target="_blank"><u>报价 85 万美元</u></a>，虽然低于预期的 100 万美元，但仍然成为有史以来最昂贵的疗法之一。这种由 Spark Therapeutics 研发的基因疗法 Luxturna (Lux-turn-a) 通过植入缺失或变异基因的运转正常的副本来治疗疾病。价格之所以如此昂贵的原因是它面向的患有罕见类型失明症状的儿童数量非常少，在美国只有几千，要收回研发成本非常困难。Luxturna 单眼单次注射费用为 42.5 万美元。
+➜未来你的上司是算法
+https://www.solidot.org/story?sid=55103	42265
+以数据驱动的时代，机器或者算法被认为<a href="http://cn.wsj.com/gb/20180104/TEC164857.asp" target="_blank"><u>比人类更擅长做决策</u></a>。知名企业如壳牌就开始在企业雇员管理中引入算法。当壳牌打算评估汽车维修行业的数字化业务模式时，管理人员就会引入算法进行项目分析，算法会检索专业能力合适的壳牌员工，然后勾选他们，分派工作。壳牌使用波士顿 Catalant 公司设计的机器学习软件来匹配员工和项目。程序会追踪、评估他们的工作表现，并在下一次配对时进行修正和提升。壳牌表示，公司在 2017 年早些时候就开始测试这个系统，并打算于 2018 年 1 月在有 8,000 名员工的 B2B 市场部门 Shell Opportunity Hub 投入使用。
+➜美国发射数量 2003 年以来首次跃居第一
+https://www.solidot.org/story?sid=55104	44068
+2017 年美国执行了 29 次轨道发射，全部成功，自 2003 年以来<a href="https://arstechnica.com/science/2018/01/in-2017-the-us-led-the-world-in-launches-for-the-first-time-since-2003/" target="_blank"><u>发射数量首次跃居第一</u></a>。俄罗斯完成了 20 次，一次失败；中国完成了 19 次发射，一次失败，一次部分失败。2016 年美国的发射数量和中国相同，都是 22 次，而自 2003 年起俄罗斯的发射数量一直位居第一。在 29 次发射中，私人太空公司 SpaceX 一家就完成了 18 次，联合发射联盟 ULA 发射了 8 次，SpaceX 在成功率上仅比俄罗斯少一次。2018 年美国和中国预计会在发射次数上展开竞争，而俄罗斯则因为 SpaceX 的崛起而日益衰落。
+➜中国计划在今年执行至少 36 次发射
+https://www.solidot.org/story?sid=55105	44834
+官媒<a href="http://www.bjnews.com.cn/news/2018/01/04/471134.html" target="_blank"><u>报道</u></a>，2018 年中国航天科技集团将实施 35 次宇航发射任务，其中包括长征五号（去年的发射失败）将实施第三次发射，嫦娥四号探测器将在月球背面着陆，北斗卫星密集组网，另外民营火箭公司北京蓝箭空间科技有限公司将发射丹麦的 GomSpace 立方体卫星群，中国航天科工集团也计划进行一次发射。根据安排，长征五号成熟后将承担嫦娥五号、空间站发射等任务。北斗三号全球导航系统也将在今年迎来密集发射，北斗三号系统今年年底就将初步建成。
+➜研究发现酒精能对干细胞造成不可逆的基因损伤
+https://www.solidot.org/story?sid=55106	47093
+根据本周发表在《自然》期刊上的<a href="https://www.nature.com/articles/nature25154" target="_blank"><u>一项研究</u></a>，饮酒能在体内产生有害的化学物质，对干细胞 DNA <a href="https://www.theguardian.com/science/2018/jan/03/alcohol-can-cause-irreversible-genetic-damage-to-stem-cells-says-study" target="_blank"><u>造成永久性的遗传损害</u></a>，增加发展出癌症的风险。这项利用转基因小鼠的研究提供了至今最令人信服的证据，酒精能通过扰乱细胞中的 DNA 最终导致致命的突变而发展出癌症。过去十年，大量证据显示饮酒与某些癌症之间存在相关性。领导这项研究的剑桥大学 Ketan Patel 教授称，酒精如何导致损害仍有争议。他们的研究提供了强有力的证据表明酒精代谢物会对所有重要干细胞造成 DNA 损伤。早先的研究已经发现，乙醇的分解物乙醛会破坏细胞中的 DNA。

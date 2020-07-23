@@ -1,0 +1,45 @@
+➜巴基斯坦命令ISP屏蔽40多万个色情网站
+https://www.solidot.org/story?sid=47029	11321
+巴基斯坦据报道准备发起大规模打击网络色情的行动：监管机构巴基斯坦电信管理局下令ISP屏蔽<a target="_blank" href="http://www.independent.co.uk/news/world/asia/pakistan-launches-major-pornography-crackdown-and-provides-list-of-400000-adult-websites-to-be-a6834176.html"><u>多达40万个色情网站</u></a>。巴基斯坦最高法院最近要求电信部门对腐化巴基斯坦青年的邪恶色情现象采取补救措施。电信管理局随后向ISP提供了 429,343个色情网站域名，要求ISP屏蔽以遏制色情材料的传播。2011年，巴基斯坦曾采取过类似的打击色情行动，屏蔽了上千个色情网站，但没有什么效果，因为线下的色情光盘销量随之大增。
+➜Firefox 44发布，支持推送通知
+https://www.solidot.org/story?sid=47030	12645
+Mozilla发布了<a target="_blank" href="https://www.mozilla.org/en-US/firefox/44.0/releasenotes/"><u>桌面版</u></a>和<a target="_blank" href="https://www.mozilla.org/en-US/firefox/android/44.0/releasenotes/"><u>移动版</u></a>的Firefox 44。值得注意的新功能包括：<a target="_blank" href="https://blog.mozilla.org/blog/2016/01/25/firefox-can-now-get-push-notifications-from-your-favorite-sites/"><u>推送通知</u></a>；移除RC4加密支持；在支持H.264解码的系统上启用H.264，在不支持H.264的系统上启用WebM/VP9；新的开发者工具，等等。网站推送通知需要获得用户授权，也就是说如果用户不操作的话默认是不会收到任何通知的，用户可以在控制中心管理网站推送订阅，或者在about:config中直接关闭推送功能——修改两个选项：dom.webnotifications.enabled = false和 dom.webnotifications.serviceworker.enabled = false。
+➜AMD宣布GPUOpen计划
+https://www.solidot.org/story?sid=47031	16178
+AMD宣布了<a target="_blank" href="http://gpuopen.com/welcometogpuopen/"><u>GPUOpen</u></a>计划，此举显然有针对 NVIDIA之意。Nvidia的GameWorks中间件和CUDA分别支配了PC游戏和高性能计算领域，而两者都是闭源的。为了让更多开发商和开发者使用它的技术和标准，AMD只能选择拥抱开源和开放。GPUOpen计划向PC开发者提供访问显卡底层功能的代码和相关文档。AMD的高级工程经理Nicolas Thibieroz称，主机游戏访问底层GPU的功能在PC上很少见到，PC上实现了一套不同的、效率更低的代码路径。更糟糕的是，私有的库或有“黑盒”API的工具链防止了开发者为了维护、移植或优化目的访问代码（他指的无疑就是 NVIDIA），GPUOpen的计划就是试图解决这个问题。通过访问开源的库、工具和特效，开发者能修改、优化、移植和从软件学习。
+➜Twitter停止向部分重要用户展示广告
+https://www.solidot.org/story?sid=47032	17148
+Twitter的商业模式和其它社交网络类似，主要是依靠广告，它会在用户的时间线上展示广告。但它并没有在所有用户的时间线都展示广告：过去几个月，<a target="_blank" href="https://recode.net/2016/01/25/twitter-has-stopped-showing-ads-to-some-of-its-most-valuable-users/"><u>Twitter停止向部分重要用户展示广告</u></a>，或大幅减少广告数量。对这些重要用户来说，Twitter向他们提供了无广告或几乎没有广告的使用体验。Twitter是根据多个指标去挑选出不展示广告的用户，这些指标包括他们的发推数量和跟随者数量。分别有7万followers和100多万followers的两位Twitter用户透露，他们属于这个无广告组。
+➜苹果首次警告iPhone销量将会下滑
+https://www.solidot.org/story?sid=47033	19763
+苹果公布了<a target="_blank" href="http://www.apple.com/pr/library/2016/01/26Apple-Reports-Record-First-Quarter-Results.html"><u>2016年Q1财报</u></a>，截至12月26日的第一财季，iPhone销量为7477万部，高于上年同期的7450万部，增幅不到1%，低于分析师预期的7654万部。苹果CEO库克（Tim Cook）承认，iPhone销量在第二财季可能会下滑。苹果预计截至3月份的当前财季收入为500亿-530亿美元，远低于分析师预计的554.7亿美元。如果收入在上述预期区间的中点515亿美元，则同比下降11%，为2001年夏季以来最大降幅，也是2003年以来整体收入<a target="_blank" href="http://cn.wsj.com/gb/20160127/tec073501.asp"><u>首次下降</u></a>。
+➜微软的教育版Minecraft用C++开发
+https://www.solidot.org/story?sid=47034	25529
+Minecraft是用Java开发的，而微软准备在不久之后发布的教育版<a target="_blank" href="http://www.zdnet.com/article/minecrafts-new-education-edition-written-in-c-will-outrun-the-java-version/"><u>则是用C++开发的</u></a>，此举是为了改善游戏运行相关的性能问题，因为学校和学生使用的电脑配置未必高端，C++的效率要高于Java。微软程序员称，Minecraft教育版将支持Java版的所有功能，但不兼容所有的游戏模式，可以不需要服务器设置一个点对点的课堂网络。教育版是基于Pocket Edition of Minecraft (MCPE)版。传奇游戏程序员John Carmack在Mojang开发VR版Minecraft曾<a target="_blank" href="http://venturebeat.com/2015/09/24/how-john-carmack-pestered-microsoft-to-let-him-make-minecraft-for-gear-vr/"><u>免费帮助优化代码</u></a>。
+➜数学研究发现阴谋容易曝光
+https://www.solidot.org/story?sid=47035	29216
+阴谋是很难一直保守秘密的，迟早同谋者<a target="_blank" href="http://www.bbc.com/news/science-environment-35411684"><u>会将其曝光</u></a>。牛津大学的David Grimes博士在Plos One期刊上发表<a target="_blank" href="http://dx.plos.org/10.1371/journal.pone.0147905"><u>论文</u></a>，运用辐射物理学中的数学方法去分析阴谋保守秘密的时间。他研究的数学方程式考虑了三个因素：参与的同谋者数量，持续的时间，阴谋失败的固有概率。他随后将数学方程应用于四个著名的阴谋论：阿波罗登月是假的，气候变化是假的，疫苗导致了自闭症，制药公司压制了癌症治疗药物。如果这些阴谋是真的，那么伪造登月的阴谋会在3.7年内曝光，气候变化阴谋则会在 3.7年到26.8年内曝光，疫苗自闭症阴谋则是3.2 到34.8年，癌症治疗阴谋则是3.2年。以阿波罗登月阴谋论为例，参与该项目的NASA雇员多达41.1万，不可能人人都能保守秘密，因此数学方程式计算阴谋如果是真的会在3.7年内被人揭发。<br>
+➜研究称中国每天有7500病人死于癌症
+https://www.solidot.org/story?sid=47036	30256
+中国国家癌症中心的研究人员在《临床医师癌症期刊》上发表《<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.3322/caac.21338/abstract"><u>中国2015年癌症统计</u></a>》，报告称中国去年约有430万人确诊癌症，另外280万人因癌症去世，平均每天有1.2万人确诊患癌，<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/01/160127_health_china_cancer"><u>7500名病人因患癌死亡</u></a>。慢性感染、吸烟及污染都导致中国癌症个案急速上升的原因。报告显示，肺癌在中国是众多癌症之中的头号杀手，指出癌症是中国公共健康的主要问题之一。研究显示，男性最易患上的癌症包括肺癌、胃癌、食道癌、肝癌及大肠癌。乳癌是女性中最常见的癌症，在中国女性中，乳癌占全部癌症个案约15%。除乳癌外，肺癌、胃癌、大肠癌及食道癌亦是女性的常见癌症。在中国，男性因癌症死亡的比率比女性要高。每10万名患上癌症的男子中，166名会因癌死亡，比率比女性高一倍。
+➜维基媒体基金会回应社区的不信任投票
+https://www.solidot.org/story?sid=47037	31195
+维基媒体基金会本月早些时候任命Arnnon Geshuri为新的董事，在维基百科社区引发了争议，原因是他在Google任职期间参与了反挖角合谋，社区志愿者因此发起了对Arnnon Geshuri的不信任投票，<a target="_blank" href="http://www.solidot.org/story?sid=47016"><u>要求他卸任</u></a>。Geshuri本人和维基媒体基金会董事会都对此<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/wikimedia-board-official-responds-to-editors-geshuri-is-an-excellent-candidate/"><u>发表了正式回应</u></a>。Geshuri称他执行的是公司政策，当环境改变公司的政策会随时间而发生变化，表示他深刻理解和尊重自由表达和公开的分歧，未来会透明的工作，努力做正确的事。董事会副主席Alice Wiegand则说，Geshuri是一位出色的候选人，赢得了董事会的支持，对他的任命是没有异议的，相信他是一位有价值的成员。
+➜美国国会要求联邦政府调查是否使用了有后门的Juniper防火墙
+https://www.solidot.org/story?sid=47038	35384
+美国众议院监管与政府改革委员会<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/moment-of-truth-feds-must-say-if-they-used-backdoored-juniper-firewalls/"><u>要求联邦机构审计他们的网络</u></a>，调查是否使用了含有后门的Juniper防火墙，要求在2月4日前递交报告。如果使用了有后门的Juniper防火墙，委员会还要求他们回答说如何应对监听威胁的。Juniper防火墙产品运行的系统ScreenOS上月爆出了两个后门，一个后门与NSA设计的椭圆曲线伪随机数生成器Dual_EC_DRBG有关，允许攻击者解密VPN流量；第二个后门允许攻击者绕过 SSH和Telnet 的身份验证。该后门密码是“is &lt;&lt;&lt; %s”(un='%s') = %u，它没有在旧的版本中发现，只影响ScreenOS 6.3.0r17和6.3.0r19。
+➜中国考虑不再补贴粮食价格
+https://www.solidot.org/story?sid=47039	36519
+因为有政府补贴，中国的粮食价格高于世界市场的粮食价格，推动了国内产量增加，同时也刺激进口大增，最终导致库存大量积压。中共中央农村工作领导小组副组长陈锡文表示，政府正在考虑<a target="_blank" href="http://www.ftchinese.com/story/001065953"><u>让市场决定价格</u></a>，价格不再承担补贴农民的功能。陈锡文去年<a target="_blank" href="http://cn.reuters.com/article/cn-grain-price-idCNKCS0ST0HO20151104"><u>曾指出</u></a>，国内粮价高于国际粮价的原因很复杂，包括中国农业自身竞争力不足，保护政策使得粮价不断走高，国际粮价在下跌以及货运和汇率问题。未来粮食价格应当贴近市场，兼顾农民合法收益。他说下一步要把价格和补贴分开，如果市价过低政府就要采取适当的政策，直接补贴农民，但是和价格分开走。
+➜迪士尼前IT雇员起诉前雇主
+https://www.solidot.org/story?sid=47040	37220
+迪士尼公司的两位<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/ex-disney-it-workers-sue-after-being-forced-to-train-their-own-h-1b-replacements/"><u>前IT雇员起诉前雇主</u></a>，称该公司雇佣持H-1B签证的廉价外国工人然后解雇他们的做法违反了法律。在被解雇前，迪士尼给了他们90天时间去培训替代者。他们被告知，如果不留下来培训替代者，将会没有遣散金和奖金，大部分被解雇的人勉强同意了这一要求。两位原告指责迪士尼通过参与合谋取代美国工人而违反了RICO法令的反勒索的条款。H-1B签证原本设想是帮助美国公司吸引有杰出技能的外国人，填补空缺职位，但在现实中却被大型外包公司利用，被美国企业用来雇佣廉价的外国工人，而这些外包公司主要雇佣印度工人。迪士尼的回应是诉讼是基于不可证实的法律理论，弯曲了事实，迪士尼向这些被解雇的雇员提供了新的职位，超过100人获得重新雇佣。
+➜勒索软件作者要求移除开源勒索软件
+https://www.solidot.org/story?sid=47041	39664
+土耳其安全研究人员 Utku Sen发布了两个有漏洞的开源勒索软件：Hidden Tear有加密漏洞，被恶意程序运营者用于创建了 Cryptear.B勒索软件；EDA2有后门账号，被用于创建Magic勒索软件，但由于指令控制中心托管在一个免费的主机服务上，主机服务的运营者在接到举报后删除了账号和所有文件，导致受害者的文件无法恢复，Utku Sen对这一事件公开道歉，并从GitHub上移除了EDA2源代码。Magic的作者是俄罗斯人，而俄罗斯最近与土耳其关系闹僵，双方最终还是<a target="_blank" href="http://news.softpedia.com/news/ransomware-author-blackmails-security-researcher-who-refuses-to-give-in-499437.shtml"><u>勉强达成了协议</u></a>：如果Utku Sen在3天内从GitHub上移除Hidden Tear的源代码，Magic的作者将在15天内公开所有的加密密钥。<br>
+➜Uber测试使用智能手机监视司机行为
+https://www.solidot.org/story?sid=47042	42441
+Uber<a target="_blank" href="http://arstechnica.com/cars/2016/01/uber-tests-out-using-smartphones-to-monitor-driver-behavior/"><u>宣布</u></a>将在休斯敦测试使用智能手机监视司机的行为如超速或分心驾驶。Uber将利用陀螺仪、加速度计和GPS等手机传感器去判断司机是否超过了速度限制，或者在车辆移动时分心玩手机。在测试中，Uber将只访问遭客户投诉的司机的智能手机数据。以检查客户的投诉是否符合事实，确保其评分系统顺利运行。另一则与Uber相关的新闻是法国巴黎司机发起了<a target="_blank" href="http://www.usatoday.com/story/news/world/2016/01/27/french-taxi-drivers-anti-uber-strike/79390652/"><u>反Uber罢工</u></a>。
+➜大脑如何跟踪时间
+https://www.solidot.org/story?sid=47043	44439
+我们的大脑有着非同寻常的时间监控能力，但大脑如何跟踪时间仍然充满着神秘。研究人员已经确定了与运动、记忆、视觉和其它功能相关的大脑区域，但这些区域没有一个能监控时间。我们的神经记时员神出鬼没，以至于大多数科学家猜测这一机制分布在整个大脑，根据不同的需要，用不同的大脑区域使用不同的监控器去跟踪时间。过去几年，越来越多的证据表明，监控个人空间位置的细胞也<a target="_blank" href="https://www.quantamagazine.org/20160126-how-the-brain-maps-time/"><u>被用于标记时间的流逝</u></a>。这些发现暗示两个与记忆和导航相关的大脑区域——海马和内嗅皮层——能充当某种计时器。这些发现扩大了我们对于大脑记忆和导航系统如何工作的理解。形成大脑内部GPS系统的细胞很有可能不仅仅能调准空间，而且能编码相关属性，如时间、嗅觉甚至味觉。

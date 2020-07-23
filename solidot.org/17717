@@ -1,0 +1,47 @@
+➜Firefox 和 Chrome 下架流行扩展 Stylish
+https://www.solidot.org/story?sid=57084	12173
+用户样式管理器 Stylish 是一个非常受欢迎的浏览器扩展，但在被多次转手之后，这个扩展开始变得恶意了。软件工程师 Robert Heaton 对其代码进行分析后<a href="https://www.solidot.org/story?sid=57065" target="_blank"><u>指出</u></a>，Stylish 窃取了用户所有的浏览历史。在收到报告之后，Firefox 和 <a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe/reviews" target="_blank"><u>Chrome</u></a>  从其各种的扩展网站<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1472948" target="_blank"><u>移除了 Stylish</u></a>，Firefox 还建议所有用户禁用该扩展。想要继续使用自定义样式的用户可选择安装 Stylish 的分支 <a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/" target="_blank"><u>Stylus</u></a>（ <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne" target="_blank"><u>Google Chrome</u></a>）。
+➜入侵 Gentoo GitHub 账号的攻击者在构建脚本里加入 rm -rf /* 命令
+https://www.solidot.org/story?sid=57085	14298
+6 月 28 日 Gentoo Linux 项目在 GitHub 上的账号<a href="https://www.solidot.org/story?sid=57017" target="_blank"><u>遭到入侵</u></a>，攻击者随后对 Gentoo 的代码进行大肆修改，包括恶意在构建脚本 ebuild 里加入 rm -rf /* 命令。现在，Gentoo 项目公布了详细的<a href="https://wiki.gentoo.org/wiki/Github/2018-06-28" target="_blank"><u>事故调查报告</u></a>：<i>攻击发生在 28 日 20:19，攻击者使用管理员密码登录，随后创建了有管理访问权限的账号，着手踢出合法用户其中包含维护者——正是这一举动导致了入侵曝光并引起了 Gentoo 项目的注意，它的 GitHub 账号只是该组织的镜像，但移除用户会让用户收到通知，所以到 20:29 Gentoo 项目开始调查此事。
+攻击者从 20:34 开始修改文件，20:50 在所有  ebuild 加入 rm -rf /* 命令，21:05 Gentoo 项目向  GitHub 支持递交报告，21:28 Gentoo  GitHub 账号冻结。攻击者显然有点业余，整个入侵过程只持续了一个多小时。</i>
+➜美国放松中兴禁令至 8 月 1 日
+https://www.solidot.org/story?sid=57086	15237
+美国商务部<a href="http://www.ftchinese.com/story/001078323" target="_blank"><u>允许</u></a>中兴通讯暂时从事某些特定业务活动，以支持和维护设备与网络，为现有中兴手机提供服务与支持，接收有关网络安全与漏洞的披露，并支付或接收款项。这一有限授权的有效期为 7 月 2 日至 8 月 1 日。因中兴违反了美国对伊朗和朝鲜的制裁以及随后一份认罪协议的和解条款，美国商务部在今年四月对中兴实施为期七年的零部件出口禁令。6 月特朗普政府达成一项协议，允许中兴支付 14 亿美元罚款换取解除禁止其购买美国零部件的禁令。但美国参议院后来投票推翻了该协议。
+➜中国制造业加速自动化
+https://www.solidot.org/story?sid=57087	16060
+中国制造业<a href="https://cn.nytimes.com/technology/20180705/made-in-china-2025-dongguan/" target="_blank"><u>正在加速自动化</u></a>，这一趋势无论有没有《中国制造 2025》之类的国家计划都会进行下去。制造业的现代化可能不会在 2025 年实现。实际的实现可能需要 2025 年后的很长时间。但中国将实现这一目标，主要是因为它必须这么做。“如果中国制造 2025 是一辆车，车子已经发动了，而且肯定是在移动，” 张国军说，他是位于东莞的广东省智能机器人研究院的院长，该院是当地政府支持的、帮助工厂升级换代的地方研究所之一。他说，早在《中国制造 2025》在 2015 年出台之前，东莞就已经在进行自动化改造。过去的十年里，工人的平均收入增加了四倍。愿意从事枯燥的、压力很大的装配线工作的年轻人越来越少，更多的人想从事服务业工作——比如在饭馆当服务员、配送电子商务包裹等，这类工作让他们与人打交道，或能到处走动。一些工厂迁往成本更低的国家，一些永久停业了。东莞的企业和政府不得不做点什么。他们开始致力于现代化。其它地方的情况类似。
+➜更多维基百科语种抗议欧洲版权法提议
+https://www.solidot.org/story?sid=57088	17746
+2018 年 7 月 5 日，欧盟议会将投票决定是否继续一项版权指令提案。该提案被认为将会伤害到互联网的开放性。它要求用户生成内容的营利性网站采取措施阻止版权保护内容的发布。这项提案意味着网站将要在用户发帖前审查其内容，此举将会威胁到在线自由，对 Web 的访问施加新的限制。此前，维基百科意大利为了抗议这项提案而将所有意大利语页面<a href="https://www.solidot.org/story?sid=57071" target="_blank"><u>重定向</u></a>到一个声明页面。现在更多欧洲语种采取了类似的措施，其中包括<a href="https://es.wikipedia.org/" target="_blank"><u>西班牙</u></a>和<a href="https://pl.wikipedia.org" target="_blank"><u>波兰</u></a>。
+➜新西兰上诉法庭维持对 Kim Dotcom 的引渡裁决
+https://www.solidot.org/story?sid=57089	26390
+2015 年新西兰法官作出裁决，文件共享网站 Megaupload 的创始人 Kim Dotcom 及三位共同被告需要因大规模版权侵犯的犯罪指控被引渡到美国受审。现在，新西兰上诉法庭<a href="https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=12083480" target="_blank"><u>维持了原判</u></a>，Kim Dotcom 对此表示非常失望，称将会上诉到最高法院，表示他的律师团队相信最高法院会听取上诉，因为这一案件具有重要意义。Dotcom 表示相信他能赢得最高法院的判决。美国检方指控现已关闭的文件共享网站 Megaupload 从版权侵犯中获利超过 1.75 亿美元，导致版权所有者损失超过 5 亿美元。Dotcom 则一直坚称 Megaupload 和其它云储存服务并无区别，他已经努力的删除版权侵犯内容，表示网络服务商不应该为用户错误使用其服务而承担刑事责任。
+➜WhatsApp 向使用原生 Android API 的应用发去制止信
+https://www.solidot.org/story?sid=57090	26842
+世界最受欢迎的消息应用 WhatsApp 的律师向 <a href="https://medium.com/@lowcarbrob/cease-desist-can-using-androids-notification-listener-violate-another-apps-t-c-s-9bdd8d06059a">Can’t Talk</a> 和 <a href="https://www.reddit.com/r/Android/comments/8v9pb4/whatsapp_sent_me_a_cease_and_desist_letter_for/">DirectChat</a> 的开发者<a href="https://www.xda-developers.com/whatsapp-sends-cease-desist-apps-native-android-api/" target="_blank"><u>发去制止信</u></a>，要求他们移除功能，否则将面临诉讼。两个应用既没有使用 WhatsApp 的代码也没有使用其 API，它们使用了标准的 Android API、Notification Listener 和 Direct Reply 去实现其功能。移除功能的要求是可疑甚至可能是恶意的。制止信要求开发者在 7 天内遵守要求否则将可能遭到起诉。 Can’t Talk 目前已暂时从 Play Store 官方商店下架，开发者正在评估其选择。而 DirectChat 的开发者也考虑移除与 WhatsApp 的整合。
+➜爱因斯坦的强等效原理是正确的
+https://www.solidot.org/story?sid=57091	31217
+一个国际天文学家团队利用一个三星系统<a href="https://phys.org/news/2018-07-einstein-againweak-strong-gravity-fall.html" target="_blank"><u>验证了</u></a>爱因斯坦广义相对论的<a href="https://zh.wikipedia.org/wiki/%E7%AD%89%E6%95%88%E5%8E%9F%E7%90%86#%E6%84%9B%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E6%80%9D%E6%83%B3%E5%AF%A6%E9%A9%97" target="_blank"><u>强等效原理</u></a>。<a href="https://www.nature.com/articles/s41586-018-0265-1" target="_blank"><u>研究报告</u></a>发表在《自然》期刊上。阿波罗 15 号宇航员 David Scott 曾在月球上做过一个实验，在没有空气的月球引力场内，锤子和羽毛同时以相同的速率掉落。天文学家在 2011 年观察到了一个三星系统 PSR J0337+1715，距离地球约 4200 光年。三星系统中的两颗距离较近，一颗中子星和一颗白矮星围绕一周 1.6 天，它们围绕另一颗白矮星则需要 327 天。这颗中子星是脉冲星，可以充当高精度的时钟。
+中子星是一颗致密的天体，而内层的白矮星则没有中子星致密或重，因此有着更小的引力结合能。通过对这个三星系统细致的观察和仔细的计算，天文学家发现中子星和内白矮星之间的加速度差异太小而无法检测出。
+➜美国芯片制造商对中美贸易战感到焦虑
+https://www.solidot.org/story?sid=57092	32616
+当美国对数百亿美元进口中国商品加征关税的新政策明天生效时，仅有价值 2.5 亿美元的芯片会受到影响。但这些关税<a href="http://www.ftchinese.com/story/001078340?adchannelID=&amp;full=y" target="_blank"><u>引发了美国半导体企业更深切的焦虑</u></a>，它们担心与中国的紧密贸易联系被打断，而且华盛顿在试图保护美国科技产业的关键部分时瞄错了靶子。华盛顿的半导体行业协会 表示，半导体供应链的复杂性意味着美国公司的损失将超过中国同行。随着第二份拟议的关税清单即将发布——这一次芯片将占更大比重——焦虑情绪正在上升。美国企业表示，如果特朗普政府是想要保护他们免受中国人对其知识产权的盗用，那么他们使用了错误的武器。
+➜IBM 云业务销售明星起诉公司年龄歧视
+https://www.solidot.org/story?sid=57093	35994
+一名前 IBM 云业务销售明星<a href="https://www.theregister.co.uk/2018/07/03/ibm_langley_age_discrimination/" target="_blank"><u>起诉公司年龄歧视</u></a>，声称他是因为年龄太大而遭到解雇的。Jonathan Langley  于 1993 年加盟 IBM ，在之后的 24 年里一直干到了 Bluemix 软件即服务业务的全球项目总监和销售主管，他被认为是一名出色的销售，在 2017 年 1 月还得到了 2万美元的绩效奖金。但在 2017 年 3 月 60 岁的他被告知将在 6 月底被解雇，他认为自己如果是千禧一代就不会遭到解雇。尽管他的业绩达到或超过预期，并得到了最高的奖金，但他却被他的上司 Kim Overbay 评为是团队里表现最差的人。
+➜男子因网上点赞袭警行为被拘 10 天
+https://www.solidot.org/story?sid=57094	37864
+一名新浪微博网友 7 月 3 日在石家庄站一派出所民警执勤期间被人持利器刺伤的新闻下发表评论称“终于有一个找当事人报复而不是报复普通老百姓的了。为他点赞。”7 月 4 日， 南昌市东湖公安局大院派出所<a href="http://www.bjnews.com.cn/news/2018/07/04/493784.html" target="_blank"><u>宣布</u></a>这名网友因违反《治安管理处罚法》第二十六条被处行政拘留 10 日。中国的社交网络都已经采用实名制。《治安管理处罚法》第二十六条<a href="http://m.liuxiaoer.com/gz/2495_2.html" target="_blank"><u>规定</u></a>：“其他寻衅滋事行为”处 5 日以上 10 日以下的拘留。目前全国人大常委会正在制定《治安管理处罚法》的一个修订案。
+➜欧盟议会投票拒绝了版权法提议
+https://www.solidot.org/story?sid=57095	42621
+欧盟议会投票<a href="https://twitter.com/Senficon/status/1014814460488413185" target="_blank"><u>拒绝</u></a>了受争议的版权法提议。这项版权法提议被认为会危险到到互联网的开放性。它要求用户生成内容的营利性网站采取措施阻止版权保护内容的发布，这意味着网站将要在用户发帖前审查其内容，此举将会威胁到在线自由，对访问施加新的限制。因此专家和组织发起了拯救互联网的运动，维基百科多个欧洲语种将所有页面都<a href="https://www.solidot.org/story?sid=57088" target="_blank"><u>定向</u></a>到了一个抗议声明页面。现在，互联网至少短时间内被拯救了，但版权组织是不会放弃推动此类的提议的。
+➜两名英国公民遭神经毒剂中毒
+https://www.solidot.org/story?sid=57096	45006
+英国反恐高级官员周三<a href="https://cn.reuters.com/article/uk-nerve-agent-poison-0704-wedn-idCNKBS1JV009" target="_blank"><u>表示</u></a>，两名英国公民在接触诺维乔克 (Novichok) 神经毒剂后情况危急，这与 3 月时毒害前俄罗斯特工及其女儿的毒剂为同一种。两名中毒者为一男一女，均为本地人，女子 44 岁，男子 45 岁。他们周六在埃姆斯伯里被人发现失去知觉后送入医院治疗。埃姆斯伯里距离前俄罗斯间谍斯克里帕尔 (Sergei Skripal) 及其女儿 Yulia 在 3 月遇袭的索尔兹伯里仅数英里之遥。英国指控俄罗斯对斯克里帕尔投毒，诺维乔克神经毒剂是前苏联军方在冷战时期研制的。斯克里帕尔父女中毒是二战以来这样一种化学武器首次在欧洲被作为进攻手段来使用。俄罗斯否认参与投毒事件。
+➜中国回收公司到境外设厂
+https://www.solidot.org/story?sid=57097	46008
+中国限制洋垃圾不仅影响美欧国家也影响本国的回收企业。在限制进口之后，中国的部分回收公司<a href="https://www.reuters.com/article/us-china-pollution-waste/chinas-plastic-recyclers-go-abroad-as-import-ban-bites-idUSKBN1JM0L9" target="_blank"><u>开始在境外设厂</u></a>。 如距离上海 50 英里的 Taicang Jinhui Recycling Co 正将大部分产能转移马来西亚。Jinhui 的董事长称，他们公司是当地的产业园唯一还在运作的回收公司，其它 22 家公司都已经停止运转，只留下仓库，所有雇员都消失了。Jinhui 原来有 400 名员工，也裁掉了 250 名，但同时在马来西亚雇了 600 人。超过一千家回收企业开始将工厂搬到东南亚。
+➜NSO Group 的一名雇员被控盗取了公司的间谍软件
+https://www.solidot.org/story?sid=57098	46870
+以色列间谍软件公司 NSO Group 的间谍软件能入侵智能手机，记录按键、声音、消息和位置。该公司自称只向政府出售间谍软件，但它的间谍软件<a href="https://www.solidot.org/story?sid=49565" target="_blank"><u>被发现</u></a>用于跟踪记者和人权活动人士。现在，该公司<a href="https://motherboard.vice.com/en_us/article/9km99z/nso-group-employee-stole-code-sell-dark-web-50-million" target="_blank"><u>指控</u></a>一名雇员偷走了它的间谍软件产品 Pegasus，并试图将其出售给未授权方，换取价值 5000 万美元的数字货币。曾曝光商业间谍软件滥用情况的公民实验室称，新兴的商业间谍软件行业不受监管容易被滥用。这些黑客工具或漏洞利用工具很容易会落到恶意者手中。

@@ -1,0 +1,83 @@
+➜Windows Vista / 7的最新漏洞能够绕过UAC提升权限
+https://www.solidot.org/story?sid=21212	4380
+一个新的Windows Vista / 7的漏洞能够<a href="http://tech.slashdot.org/story/10/11/25/164238/New-Windows-Kernel-Vulnerability-Bypasses-UAC">绕过UAC提升权限</a>。它无法远程执行，只有配合没有打过补丁的IE浏览器来利用。<a href="http://nakedsecurity.sophos.com/2010/11/25/new-windows-zero-day-flaw-bypasses-uac/">漏洞是win32k.sys的一个bug，能够让攻击者通过修改注册表键值获得系统权限。</a>
+➜Crytek创始人称PC游戏领先主机一代
+https://www.solidot.org/story?sid=21211	4800
+Crytek联合创始人Cevat Yerli最近评论了<a href="http://games.slashdot.org/story/10/11/25/2126215/PC-Gaming-a-Generation-Ahead-of-Consoles-Says-Crytek-Boss">最新PC与游戏机如PS3和Xbox360之间日益拉大的差距</a>。
+<i>
+Yerli声称，多平台开发阻碍了创造性表达。PC平台现在已经领先一代。如果为360和PS3主机开发《孤岛危机2》及其它CryEngine引擎游戏，创造性表达及游戏内容都会受到很大限制，因为你不可能从石头中挤出汁水。PC游戏的销量之所以远不及主机板，原因在于绝大多数游戏开发商只关注主机。如果数字发行平台如Steam能披露他们的游戏销量，也许将会驳斥PC游戏衰落的神话。</i>
+另据台湾巴哈姆特<a href="http://gnn.gamer.com.tw/7/48847.html">报道</a>，Crytek于25日公开了在线FPS游戏《正面对战（WARFACE）》。《正面对战》采用CryEngine 3引擎开发，为以未来为背景，突出了电影般的视觉享受。游戏扩大了PvE的世界与结合故事性的概念，加上多人合作模式任务，与多样化的PvP模式等。
+➜香港科学家在1克细菌中储存90GB数据
+https://www.solidot.org/story?sid=21213	6480
+香港中文大学的科学家<a href="http://science.slashdot.org/story/10/11/25/1824252/Hong-Kong-Team-Stores-90GB-of-Data-In-1g-of-Bacteria">发现了一种方法</a>，用细菌加密和储存数据。<i>
+参加2010年度国际生物机器基因设计大赛的香港中文大学团队递交了<a href="http://2010.igem.org/Team:Hong_Kong-CUHK">Bioencryption项目</a>（<a href="http://2010.igem.org/files/presentation/Hong_Kong-CUHK.pdf">PDF</a>），在该项目中，研究人员探索了利用生物系统作为一种数据加密/解密和储存的替代方案。虽然先前的研究认为，由于插入细菌中的数据大小受限，因为不太可行。但香港中文大学的研究人员提出了一个模型，能真正实现大规模平行细菌数据存储系统。</i>
+➜Lua解析器的JS实现
+https://www.solidot.org/story?sid=21214	7200
+<a href="http://trow-game.info/joomla">BX_BOB</a> 写道 <i>"azakai@mozilla.com用它编写的LLVM to javascript(<a href="http://code.google.com/p/emscripten/">项目主页</a>)编译出了一个lua在js语言上的实现，虽然不知道运行效率如何，但是确实是从c翻译过来。有兴趣的可以<a href="http://syntensity.com/static/lua.html">点此</a>试试。当中的lua.js未混淆。"</i>
+➜土卫五Rhea上发现氧气
+https://www.solidot.org/story?sid=21215	9360
+NASA的<a href="http://saturn.jpl.nasa.gov/index.cfm">卡西尼号探测器</a>从土星卫星Rhea的薄大气层中<a href="http://www.guardian.co.uk/science/2010/nov/25/oxygen-saturn-moon-rhea">发现了氧气</a>，这是首次从另一个世界直接探测到氧气。<i>
+卡西尼号是在今年三月从97千米的高度掠过Rhea时，从大气层中捕捉到氧气的痕迹。在此之前，从另一个星球及其卫星上发现氧气只能通过间接方式。卡西尼号搭载的仪器发现了极其薄的氧气和二氧化碳大气层。<a href="http://zh.wikipedia.org/zh-cn/%E5%9C%9F%E5%8D%AB%E4%BA%94">土卫五Rhea</a>是土星已知62颗卫星中的第二大卫星，直径1500千米，大部分由冰构成。Rhea的大气层令它显得极其特别，在土星卫星中，只有Rhea和最大卫星Titan（土卫六）拥有足够质量能用引力维持大气层。Titan的大气层十分浓厚，主要是氮和甲烷，二氧化碳和氧气极少。卡西尼号的仪器数据显示，Rhea的大气层中，每立方米包含500亿氧分子和200亿二氧化碳分子。</i>
+➜Ubuntu工程总监驳斥滚动发布的流言
+https://www.solidot.org/story?sid=21216	12000
+此前有传言称，Ubuntu<a href="__SLASHLINK__" sect="linux" sid="10/11/24/0114254" sn="article" tid="111">考虑采用</a>滚动发布方式。Ubuntu工程总监Rick Spencer驳斥了<a href="http://linux.slashdot.org/story/10/11/25/1336203/Ubuntus-Engineering-Director-Debunks-Rolling-Release-Rumours">这条流言</a>，否认Ubuntu会改为滚动发布模式。<i>
+他说，客户、合作伙伴，以及FLOSS生态系统都在现有的半年发布模式下运作良好。流言中的滚动发布可能是指让开发者更易于获取Ubuntu中某些软件包的最新版本。Ubuntu发行版是一个大项目，他们会继续使用常规的定期发布模式。</i>
+➜Qt Creator 2.1 RC/KDE 4.6 Beta 1发布
+https://www.solidot.org/story?sid=21217	18000
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 <i>"<a href="http://www.kde.org/">KDE</a>项目组发布KDE工作空间、应用程序及框架4.6 Beta 1版本，带来QML支持和Dolphin平铺视图。<a href="http://dot.kde.org/2010/11/25/46-beta1-brings-improved-search-activities-and-mobile-device-support">KDE 4.6 Beta1</a>特性：Libplasma新增QML绑定。Plasma重新引入“活动”的概念。KWin性能提升并改善扩展处理，添加JavaScript脚本接口。Kontact 4.6引入Akonadi后端等功能。
+</i>
+<a href="http://qt.nokia.com/title-cn">Qt</a> Creator 2.1 RC特性：2.0版所不具备的Qt Quick工具组件。
+➜自我肯定有助于女性克服性别歧视
+https://www.solidot.org/story?sid=21218	20160
+根据最新一期《科学》杂志的<a href="http://www.sciencemag.org/content/330/6008/1234.abstract">报导</a>，写作练习可帮助女性<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-11/aaft-weh112210.php">克服性别歧视成见</a>。<i>
+科罗拉多大学的心理学家Akira Miyake和同事试了名为“自我肯定”的心理激励方法。他们对399名大学生进行了测试，这些学生修习了一门为期15周的物理课。在学期开始前，她们中有一半的人在2个不同的场合写下了个人最重要的价值。在物理课程结束的时候，自我肯定缩小了男女学生在课堂中的成绩差异，并帮助使更多女生的成绩从C提高到B的范围之内。研究人员说，成绩的提高在那些相信男性在物理课中的成绩总会更好的女性中最为显著。</i>
+➜黑客利用Twitter发送虚假海啸警告
+https://www.solidot.org/story?sid=21219	22200
+Twitter能快速的传播重要新闻，但假如传播的是虚假消息则另当别论了。<i>
+一位黑客窃取了印度尼西亚总统苏西洛（Susilo Bambang Yudhoyono）灾难应急管理顾问Andi Arief的Twitter帐户，发布了<a href="http://it.slashdot.org/story/10/11/26/0053256/Hacker-Sends-Out-Fake-Tsunami-Warning-On-Twitter">虚假的海啸警告</a>，声称海啸直扑雅加达。Andi Arief在几个小时后重新控制了帐号。</i>
+➜基因改造树木将能照亮城市街道
+https://www.solidot.org/story?sid=21220	25920
+《新科学家》<a href="http://www.newscientist.com/article/mg20827885.000-glowing-trees-could-light-up-city-streets.html">报导</a>，想象一下在午夜漫步，陪伴左右的一排如幽灵般发光的树木。剑桥大学的研究人员朝着这一梦想迈出了第一步。他们开发出遗传工具，能将生物发光特性转移至组织中。<i>
+大自然中有无数能在黑暗中发光的生物，但光的亮度太弱。为了提高亮度，参加2010年度国际生物机器基因设计大赛的<a href="http://2010.igem.org/Team:Cambridge">剑桥大学团队</a>，修改了萤火虫和海洋发光细菌Vibrio fischeri的遗传物质，提高发光酶的活性和产量，然后进一步修改，创造出能植入到基因组中的遗传元件（或者叫BioBricks）。</i>
+➜思维控制应用也许将在安卓手机上实现
+https://www.solidot.org/story?sid=21221	27300
+一家不知名的电脑公司想要将<a href="http://hothardware.com/News/Mind-Technologies-To-Offer-ThoughtControlled-Apps-For-Android/">思维控制</a>应用移植到安卓手机上。原理是利用<a href="http://hothardware.com/News/Gaming-Headset-30000-Pennies-For-Your-Thoughts/">Emotiv</a>头戴设备来读取脑电波，通过分析脑电波来操作游戏控制器、鼠标等。听起来遥不可及，现在只有脑电图控制器工作，离商品化阶段相差还很远。
+➜黑洞或提供额外空间维线索
+https://www.solidot.org/story?sid=21222	29280
+在我们所熟悉的三维空间外，是否有额外的空间维存在？粒子物理中有几个理论推测它们存在，但额外维可能卷成环形，而且小到只能在高能粒子碰撞中探测到。现在，一位理论物理学家认为可以通过巧妙的方式发现额外维：<a href="http://news.sciencemag.org/sciencenow/2010/11/black-hole-may-offer-clues-to-ex.html">黑洞</a>。<i>
+第一个理论是弦论，<a href="http://zh.wikipedia.org/zh-cn/%E5%BC%A6%E8%AE%BA">弦论</a>认为时空维数为10维，除了我们所知的四维时空外有6个额外维，我们看不见额外维是因为它们卷曲成极小的尺度。第二个理论是根据爱因斯坦的广义相对论，黑洞的强大引力会翘曲空间，恒星发出的光在黑洞附近经过时，会发生弯曲，使它们看起来位置发生了变化，这就是“<a href="http://zh.wikipedia.org/zh-cn/%E5%BC%95%E5%8A%9B%E9%80%8F%E9%95%9C">引力透镜效应</a>”。现在，宾夕法尼亚大学物理学家Amitai Bin-Nun指出，被认为是银河系超大质量黑洞所在位置的<a href="http://zh.wikipedia.org/zh-cn/%E4%BA%BA%E9%A9%AC%E5%BA%A7A*">人马座A*</a>，其引力透镜可以提供发现额外维的线索。根据额外维假说的一种版本，额外维的存在会增加黑洞附近的引力强度，换句话说，恒星在图像中看起来会更大更明亮。</i>
+➜贵州中学生拒抗涨价砸食堂
+https://www.solidot.org/story?sid=21223	30240
+bonnae1982 写道 "据<a href="http://biz.cn.yahoo.com/newspic/biz/2094/">雅虎财经</a>图片新闻，引述<a href="http://gzdsb.big5.gog.com.cn/system/2010/11/25/010957308.shtml">《贵州都市报》</a>的报道，“11月22日夜，贵州省六盘水市第二中学发生‘建校以来最暴力的’一次事件，校园大食堂被砸得面目全非，上千人参与，所幸无人受伤。学生们砸食堂的原因，在于学校食堂当晚宣布食物涨价。”
+<i>报导指出，学生们砸餐厅的原因，在于学校餐厅当天晚上宣布食物涨价。学校学生说，21日他们就发现餐厅的开水已从每瓶人民币7角，上涨到1元，隔天又发现每份餐点的价格标准上调5角，面包、饭食也都涨价。学校校长樊国庆说，菜价涨幅已达到37.5%，餐厅申请上调价格在2到5角之间。这是餐厅的第2次涨价，学生们都很不满，当时就商量在晚上把餐厅砸了。校方后来请来当地专办餐饮服务，搭建临时场地供应学生用餐。校方宣布，即日起收回学校餐厅的经营管理权，由学校直接派人管理，降低供应成本。这学校餐厅在2007年建成使用，采取社会化服务方式融资，由个体户老板出资修建，并负责经营24年。
+</i>中国通货膨胀在今年10月上升到两年来最高水平4.4%。<a href="http://news.xinhuanet.com/video/2010-11/12/c_12765388.htm">数据显示</a>，CPI月度4.4%的同比涨幅中，食品和居住价格继续延续了高涨态势。其中食品价格涨幅高达10.1%，而居住类价格的涨幅也达到了4.9%。"
+➜女子为地下组织拍摄虐兔视频
+https://www.solidot.org/story?sid=21224	32700
+《联合早报》<a href="http://www.zaobao.com/zg/zg101126_007.shtml">报道</a>，中国女子虐死兔子的视频近日在网上热传，引发社会一片哗然。有知情者揭露，女子行为的幕后推手是一个向国外出售变态视频的团体，参与视频拍摄的女子每次可获得约6000元的酬劳。
+<i>
+有网友透露，视频中的虐兔女子是“crushfetish”团体的成员。该团体有专门出售虐杀动物视频的网站，通过QQ群联系，将虐杀动物的行为拍成视频，在网上交易并销往国外。该网站只在晚上开放两三个小时，采取加入VIP会员等方式，视频女主角被称为“模特”或“施虐美女”，要熟人介绍才可以加入团体，“有大学生，最小的还只有19岁”。参加视频拍摄的女子，每次至少可获得6000元酬劳。一名自称是虐兔视频主角的女子<a href="http://www.wccdaily.com.cn/epaper/hxdsb/html/2010-11/25/content_259941.htm">告诉</a>《华西都市报》，自己是在大学四年级那年找到这份“视频销售”的兼职工作。起初老板要她穿上高跟鞋踩水果，说是“给国外某些变态病人看的，绝不会流传到国内”。但后来，老板逐步诱导她踩鲫鱼、面包虫、龙虾等活体，并威胁她，如果不继续干，就把她以前拍的视频在中国国内公布。</i>
+➜航天飞机照片发现埃及消失的大湖
+https://www.solidot.org/story?sid=21225	35100
+地质学家利用航天飞机拍摄的雷达图像，<a href="http://www.sciencenews.org/view/generic/id/66507/title/Shuttle_images_reveal_Egypts_lost_great_lake">发现了埃及撒哈拉沙漠深处消失的大湖</a>。报告发表在《地质学》杂志上。<i>
+照片证实，在尼罗河以西数百公里处，曾经有一个比伊利湖更大的湖泊存在，它在25万前出现，在8万年前逐渐消失。知道撒哈拉中绿洲和湖泊在何时何地存在，可以帮助考古学家了解智人从非洲迁移出去时候的环境。现代人类大约是20万年前在非洲出现。其它研究也发现，25万年前乍得、利比亚和苏丹等地都有湖泊。研究负责人、地质学家Ted Maxwell说，当人类向外探索未知世界时，这儿到处有湖泊。但自那以后，沙漠风暴的侵蚀，沙子将所有湖泊掩盖。</i>
+➜Tor 0.2.1.27稳定版发布
+https://www.solidot.org/story?sid=21226	37800
+互联网匿名服务Tor<a href="https://gitweb.torproject.org/tor.git/blob/release-0.2.1:/ChangeLog">发布</a>了<a href="https://www.torproject.org/download/download">v0.2.1.27</a>稳定版。<i>
+主要更新包括：中继能配合OpenSSL 0.9.8p和1.0.0.b工作，修正了多个崩溃bug，整合了新的认证目录，更新了GeoIP数据库。Tor目前最新的不稳定版本是<a href="https://gitweb.torproject.org/tor.git/blob/refs/heads/maint-0.2.2:/ChangeLog">v0.2.2.19-alpha</a>。</i>
+下载<a href="http://www.xun6.net/file/40618b446/vidalia-bundle-0.2.1.27-0.2.10.7z.html">Vidalia Bundle包</a>（Win/osx Intel）
+➜英国科学家称克隆动物的肉和奶食用安全
+https://www.solidot.org/story?sid=21227	38520
+英国独立科学家小组新食品加工顾问委员会（ACNFP）<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/11/101126_brief_clonedmeat.shtml">称</a>，食用克隆牛及其后代的肉和奶<a href="http://www.dailymail.co.uk/news/article-1333206/Cloned-meat-milk-greater-risk-conventional-food.html">是安全的</a>。<i>
+科学家说，他们认为这类食品和传统食品没有太大的不同，所以不太可能对人体造成任何健康威胁。但批评人士以道德和动物福利为理由，强烈坚持禁止食用克隆动物的肉和牛奶。在美国、南美和亚洲，农民已经被允许自由繁殖克隆奶牛、羊和猪的后代，以提高牛奶和肉类的产量。</i>
+➜JStock：股票管理软件
+https://www.solidot.org/story?sid=21228	39600
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "<a href="http://jstock.sourceforge.net/zh/index.html">JSrock</a> 能够轻松地处理股票投资。她提供了良好的股市讯息。JSrock支持25个国家股市。可以在Windows，Linux，Mac (OS X) 及Solaris等平台运行。JStock还能计算您目前的净资产，记录买入和卖出记录。甚至可在每笔交易上填上注解。"
+➜运行在闹钟上的网站
+https://www.solidot.org/story?sid=21229	40680
+Hacker News<a href="http://news.ycombinator.com/item?id=1941623">报导</a>了一个运行在闹钟上的简单网站：<a href="http://kwf.dyndns.org:5821/">kwf.dyndns.org</a>。<i>
+此闹钟不是普通的闹钟，而是Chumby Industries公司生产的消费电子产品<a href="http://www.chumby.com/pages/compare">Chumby</a>，售价120美元，配有3.5英寸LCD触摸屏，带动作传感器，支持WIFI，454 MHz ARM处理器，64 MB DDR内存，Linux系统安装在512MB大小的U盘上，其<a href="http://wiki.ladyada.net/chumbyhackerboard">实际规格</a>不逊于10年前的服务器。站长在自己的博客讲述了<a href="http://kennethfinnegan.blogspot.com/2010/11/chumby-webserver-without-flash-drive.html">建站经过</a>。 </i>
+➜俄下院承认斯大林下令卡廷屠杀
+https://www.solidot.org/story?sid=21230	51600
+杜马 写道 "俄国议会下院<a href="http://www.english.rfi.fr/europe/20101126-russia-admits-stalin-ordered-katyn-massacre">批准发表一项声明</a>，声明承认斯大林亲自下令执行<a href="http://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%BB%B7%E5%A4%A7%E5%B1%A0%E6%AE%BA">卡廷大屠杀</a>。<i>
+这项决定的背景是俄联邦总统梅德韦杰夫推动的去斯大林化，此前俄国一直不愿意承认斯大林在卡廷森林屠杀中的责任。声明说许多机密封存多年的档案现在公开，不仅是为了展示这件骇人悲剧到达了什么程度，也为了揭示卡廷罪行来自斯大林及其他苏联高官的直接命令。<br>
+二战期间斯大林和其他苏联领导人命令处死约14000名波兰军官，并在之后的50年内一直指称凶手是纳粹德国。今年五月，俄国将有关屠杀的文档移交波兰政府。解密苏联密档是去斯大林化行动的内容之一。"</i>

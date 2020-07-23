@@ -1,0 +1,67 @@
+➜Firefox 30和Firebug 2.0发布
+https://www.solidot.org/story?sid=39884	7203
+Mozilla<a target="_blank" href="http://www.mozilla.org/en-US/firefox/28.0/releasenotes/"><u>发布了Firefox 30</u></a>，相比Firefox 29大幅修改用户界面，Firefox 30只是一次小更新。主要变化包括：支持 VP9 视频解码，WebM视频支持Opus音频编解码器，水平HTML5音频视频音量控制，实现spdy/3支持，后台线程挂起报告，修正多个安全bug，等。<a target="_blank" href="http://www.mozilla.org/en-US/mobile/28.0/releasenotes/"><u>Android版Firefox</u></a>改进了原生文本选择、剪切和拷贝支持。Firefox上流行开发工具Firebug也在同一天<a target="_blank" href="https://blog.getfirebug.com/2014/06/10/firebug-2-0/"><u>发布了2.0版</u></a>。Firebug 2.0更新了用户界面，新的调试引擎JSD2， JavaScript语法高亮，改进代码自动完成，JavaScript表达式检查器，控制台日志分组，快速创建新的 HTML属性，等等。
+➜Google以5亿美元收购卫星成像公司Skybox
+https://www.solidot.org/story?sid=39885	9400
+<div align="center"><img src="http://img.solidot.com.cn/0/345/liZwqKpLlzxXE.png" align="" height="280" width="560"><br>
+<br>
+</div>
+Google和卫星成像创业公司<a target="_blank" href="http://www.skyboximaging.com/"><u>Skybox Imaging</u></a>达成了<a target="_blank" href="http://blogs.wsj.com/digits/2014/06/10/google-getting-more-than-pretty-pictures-with-skybox/"><u>5亿美元的收购协议</u></a>。Skybox成立于2009年，总部位于加州山景城，该公司专长于高清晰动态卫星成像技术。Skybox利用多颗微型卫星构成卫星网络，捕捉和收集同一个地区的卫星数据，拼接出该地区某一时间段内的卫星视频，其效果类似无人机实时视频，但覆盖范围要大得多。Skybox曾在今年初<a target="_blank" href="http://www.solidot.org/story?sid=38589"><u>公布了</u></a>北京机场飞机起飞的卫星视频，其效果令人印象深刻。Google计划在Google Maps等地图类应用中整合Skybox的技术。
+➜终极疯狂越野探险车和它的四岁女“指挥官”
+https://www.solidot.org/story?sid=39886	10326
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "61岁的工程师为带4岁女儿环游世界，花巨资制造一辆终极探险车。该车预计今年上路，六轮驱动，几乎适应所有地形；2000英里内无需补给；可爬45°斜坡；十几个内联通信系统；房车部分配有浴室、高级厨房和阁楼；座舱顶部有22个摄像头，可监测车外状况；另有可与车分离的无人机控制系统。——《<a href="http://www.wired.com/2014/04/worlds-biggest-rv/" target="_blank">连线</a>》报道（<a href="http://blog.jobbole.com/68989/" target="_blank">中文</a>）。"</i>
+➜中国调查汽车行业的垄断行为
+https://www.solidot.org/story?sid=39887	12588
+中国商务部表示<a target="_blank" href="http://www.ftchinese.com/story/001056667"><u>正调查汽车行业的潜在垄断行为</u></a>。商务部官员邱忠义证实，中国政府已要求很多行业协会分享从垄断做法到地方保护主义等种种问题的信息。5月15日发布的《<a target="_blank" href="http://www.cccla.org.cn/ShowHotNews.aspx?NewsID=5712"><u>商务部办公厅关于开展地区封锁行业垄断问卷调查活动的通知</u></a>》称，这些调查符合中国共产党去年11月作出的承诺，即确保市场力量在经济活动中发挥“决定性”作用。最新销售数据显示，外资汽车品牌的市场份额继续扩大，而挣扎中的国产品牌的市场份额进一步缩小。中国汽车市场上三款最畅销车型是福特的福克斯、以及大众的桑塔纳和朗逸。今年前5个月，仅这三个车型的销量就超过了50万辆。相比之下，最畅销国产品牌比亚迪和长安的2013年全年销量各为50万辆。
+➜Red Hat Enterprise Linux 7发布
+https://www.solidot.org/story?sid=39888	14692
+Red Hat<a target="_blank" href="http://www.redhat.com/about/news/press-archive/2014/6/red-hat-unveils-rhel-7"><u>发布了</u></a>最新的企业级发行版Red Hat Enterprise Linux 7。RHEL7的新功能主要针对数据中心、云计算和大数据，如裸金属服务器软件、虚拟机、基础设施即服务、平台即服务。<a target="_blank" href="https://access.redhat.com/site/sites/default/files/pages/attachments/rhel_whatsnewrhel7beta_techoverview_.pdf"><u>新版特性（PDF）</u></a>包括：Linux容器（<a target="_blank" href="https://linuxcontainers.org/"><u>LXC</u></a>），让用户更容易的创建和管理系统和应用程序容器；改进MS Active Directory / Identity Management(IdM)整合；默认文件系统XFS，支持最高500TB，可选文件系统 btrfs、ext3和ext4；增强网络文件系统NFS和GFS2；Linux服务器管理工具OpenLMI；优化网络管理和带宽；等等。Red Hat直接将<a target="_blank" href="https://git.centos.org/project/rpms"><u>RHEL7的源代码</u></a>发布到了Centos的网站上，鉴于Centos事实上是Red Hat资助的社区发行版，Centos 7应该很快会发布。
+➜DNA测试帮助诊断病因
+https://www.solidot.org/story?sid=39889	16320
+14岁的Joshua Osborn躺在威斯康星州的美国家庭儿童医院里，昏迷不醒。几个星期以来，他一直脑部水肿，医生已经进行了一连串的检测，均未能找到病因。医生告诉他的父母，他们想要使用一种实验性的新技术。科学家将在Joshua的脑脊液中搜索DNA片段，<a target="_blank" href="http://cn.tmagazine.com/health/20140611/t11diagnose/"><u>期望能从中找到发生脑炎的病原体DNA片段</u></a>。他的父母同意了。加州大学旧金山分校的研究人员成功在48小时内查明了病因。原来他感染了一种鲜为人知的细菌。在识别出细菌的庐山真面目之后，短短几天之内它就被清除得干干净净。
+《新英格兰医学杂志》<a target="_blank" href="http://dx.doi.org/10.1056/NEJMoa1401268"><u>报道了这一病例</u></a>，它标志着诊断科学的一个重大进步。旧金山分校的病理学家邱华彦(Charles Chiu)博士及其同事开发了可以将DNA片段与存储于网络数据库的基因序列进行快速比对的软件。使用邱博士的软件，研究团队把人类DNA片段抛在一边，开始识别其他的基因。仅仅96分钟之后，结果就出现在电脑屏幕上。Joshua的脑脊液中含有一种具有潜在致命性的细菌——钩端螺旋体(Leptospira)的DNA。钩端螺旋体虽然危险，但它很容易通过青霉素治疗。 <br>
+➜Google镜像sinaapp.co
+https://www.solidot.org/story?sid=39890	18474
+<a href="http://sinaapp.co">GreatFire.org</a> 写道<i> "Google所有服务在国内都被屏蔽，我们使用了 <a target="_blank" href="http://sinaapp.co">sinaapp.co</a> 搭建了好记Google镜像。此域名和新浪域名相似，GFW不容易封锁。其他镜像地址比较难记，请见这里<a target="_blank" href="https://github.com/greatfire/wiki"> https://github.com/greatfire/wiki
+</a>"</i>
+➜TrueCrypt安全审计团队发布验证版本
+https://www.solidot.org/story?sid=39891	19092
+加密软件项目TrueCrypt背后的匿名开发者上月底突然宣布终止开发，同时发布新版TrueCrypt 7.2a，清空了所有旧版本。<a target="_blank" href="https://github.com/warewolf/truecrypt/compare/master...7.2"><u>TrueCrypt 7.2</u></a>只支持解密，不支持加密，开发者警告说使用TrueCrypt不安全，并推荐了其它私有加密工具。TrueCrypt安全审计团队<a target="_blank" href="http://www.solidot.org/story?sid=39740"><u>声明</u></a>会继续进行第二阶段的安全审计，审计的版本将集中在上个版本7.1a上。在对比不同软件仓库托管的TrueCrypt 7.1a SHA2哈希之后，安全审计团队在Github上发布了<a target="_blank" href="https://github.com/AuditProject/truecrypt-verified-mirror"><u>7.1a的验证版本</u></a>。这个版本应该与官方发布的版本完全相同。
+➜阿里巴巴以现金加股票收购UC
+https://www.solidot.org/story?sid=39892	25217
+阿里巴巴与UC优视周三联合宣布，<a target="_blank" href="http://cn.wsj.com/gb/20140611/tec143602.asp"><u>UC全面融入阿里巴巴</u></a>，宣称将创中国互联网史上最大规模合并。UC优视创立于2004年，有超过5亿用户，旗下拥有UC浏览器、神马搜索、UC九游、PP助手。阿里巴巴表示将组建UC移动事业群，UC董事长兼CEO俞永福担任事业群总裁，并进入阿里集团战略决策委员会。此次整合将大部分以阿里巴巴股票，配合部分现金的方式进行，整个交易对UC的估值远远超过之前百度对91的19亿美元估值。阿里巴巴此前已分两次收购UC约66%股份。阿里巴巴正计划赴美上市，IPO规模可能超过200亿美元。
+➜Alienware用Windows替换SteamOS
+https://www.solidot.org/story?sid=39893	27384
+<div align="center"><img src="http://img.solidot.com.cn/0/348/li0jWKJC9QscE.png" align="" height="178" width="560"><br>
+<br>
+</div>
+Valve因为手柄的问题而<a target="_blank" href="http://www.solidot.org/story?sid=39715"><u>宣布</u></a>Steam主机延期到明年发布，而许多Steam主机的OEM厂商则面临如何处理现有产品的难题。戴尔旗下的游戏笔记本品牌Alienware<a target="_blank" href="http://arstechnica.com/gaming/2014/06/alienware-steam-machine-now-a-windows-pc-for-the-living-room/"><u> 率先做出了决定</u></a>：用微软的Windows替换基于Debian 的SteamOS，捆绑微软的Xbox无线手柄，推出了Windows主机 Alpha。Alpha将在今年发布，运行Windows 8.1，起售价549美元。其默认配置是 Core i3 Haswell 处理器，4GB内存和500GB硬盘，2GB NVIDIA 显卡，可选升级到 Core i5 和i7处理器，8GB内存和2TB硬盘。微软Windows 8.1虽然饱受批评，但相比SteamOS，它的一大优势是游戏数量要多得多。
+➜Linus Torvalds不认为人人都应该学编程
+https://www.solidot.org/story?sid=39894	30639
+Linus Torvalds接受采访<a target="_blank" href="http://www.businessinsider.com/linus-torvalds-qa-2014-6?op=1"><u>谈论了</u></a>Linux的无所不在，专利制度，开源，运行Linux的家庭电脑设备、日益复杂的Linux内核开发和编程。<br>
+<i>Linus认为应该避免使用术语“知识产权”，不是因为它是一个糟糕的术语，而是因为它混入了太多不应该混入的东西。有不同形式的“知识产权”，它们彼此之间几乎没有交集。他认为，美国的专利制度已支离破碎，许多专利本身就毫无意义，但美国专利商标局的官员却不愿对其说不，原因是在被拒后申请专利的公司略作修改会再次提起申请，给他们带了更多的工作负担。企业喜欢申请模糊而范围宽广的专利，因为可以将其应用到本来不适合的情况——也就是诉讼。Linus说，专利授权或专利交叉授权费用与专利本身的价值无关，而是与诉讼的成本有关。他指出，专利战已经制度化了，专利囚徒们在运行着这个疯狂的制度。Linus称，他的家里没有微软或苹果系统，他有一些电脑原来是预装Windows或OS X，但最后都装上了Linux。他以前使用的笔记本<a target="_blank" href="http://www.solidot.org/story?sid=31776"><u>是11英寸Macbook Air</u></a>，但因为Macbook Air屏幕太烂，他现在改用11英寸的索尼Vaio Pro，重量不到一公斤。他的家中还有一些Android手机和平板，还有两台Chromebook笔记本。Linus不认为人人都应该学编程，称编程具有相当的专业性，不同于读书写字算术之类的基本功。</i>
+➜思科反对网络中立
+https://www.solidot.org/story?sid=39895	32505
+互联网上的所有比特不是每一比特都平等的，不应该被平等对待。网络设备巨头思科公司发布了<a target="_blank" href="http://newsroom.cisco.com/press-release-content?type=webcontent&amp;articleId=1426270"><u>Visual Networking Index Predicts</u></a>报告，对目前流行的网络中立倡议<a target="_blank" href="http://yro.slashdot.org/story/14/06/10/2234218/cisco-opposes-net-neutrality"><u>提出了反对意见</u></a>。思科称，某些基于Web的应用，包括快速增长的视频服务、家庭健康监视和公共安全应用，将需要优化访问网络。而其它流量，包括大部分Web浏览和电子邮件，可以略微延迟而不会有什么问题。思科长期以来一直呼吁美国通信委员会（FCC）允许宽带服务供应商自主管理流量。<br>
+➜Google扫描图书不需要获得作者同意
+https://www.solidot.org/story?sid=39896	35526
+美国联邦第二巡回上诉法院作出<a target="_blank" href="http://cdn.arstechnica.net/wp-content/uploads/2014/06/guild.pdf"><u>裁决（PDF）</u></a>，美国大学及Google有权利<a target="_blank" href="http://arstechnica.com/tech-policy/2014/06/googles-university-book-scanning-project-wins-fair-use-protections/"><u>不经过作者同意</u></a>扫描图书馆的藏书，认为他们扫描数字化图书的行为受到了合理使用原则的保护。美国作家协会及其它作家组织指控13所大学未经作者授权扫描了超过千万册图书，其中多所大学是<a target="_blank" href="http://www.hathitrust.org/about"><u>HathiTrust数字图书馆</u></a>项目成员，HathiTrust数字图书馆的目的是保存文化。上诉法院认为，数字化图书副本的使用在法律允许的范围内，对于HathiTrust数字图书馆服务于公众、减轻灾难或数据损失风险的目的也是合理而必要的。
+➜Mozilla将发布25美元智能手机
+https://www.solidot.org/story?sid=39897	36633
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20140611/tec163220.asp"><u>报道</u></a>，
+Mozilla首席营运长宫力称，搭载Firefox OS的智能手机今年晚些时候将在印度和印尼发售，价格低至25美元。他说，1美元对于新兴国家的消费者来说意义非凡，在这些市场价格超过50美元的智能手机很难卖出去。为吸引下一波为数上十亿的首次使用智能手机的用户，Mozilla正与中国芯片生产商展讯合作，将在今年推出一款低成本芯片组，让智能手机能实现25美元的定价。25美元的价格意味着智能手机和功能手机之间已经不存在价格差距，会促使功能手机用户改用智能手机。Mozilla预计未来12个月搭载Firefox OS的智能手机发货量将超过1000万部。目前安装Firefox OS的智能手机超过100万部。
+➜Docker 1.0发布
+https://www.solidot.org/story?sid=39898	39940
+Docker开源项目<a target="_blank" href="http://blog.docker.com/2014/06/its-here-docker-1-0/"><u>发布了1.0版</u></a>（<a target="_blank" href="https://www.dockboard.org/its-here-docker-1-0/"><u>中文</u></a>）。Docker是一个创建轻量级、可移植和自给自足的应用程序容器的项目。容器类似于虚拟机，但不像虚拟机是一个完整的操作系统，容器是一个极其轻量级的虚拟机，它们共享操作系统，有一个隔离的进程空间，可以在隔离的环境内运行应用程序。Docker在2013年3月20日发布首个版本，15个月以来有超过460位贡献者贡献了8741次commit、两百七十五万次下载、超过一万四千个 Docker 化的应用，从在单台笔记本上运行单个容器，到在云中使用数千个容器进行生产，不一而足。
+➜P.F. Chang's中餐连锁店信用卡数据泄露
+https://www.solidot.org/story?sid=39899	42151
+美国中餐连锁店<a target="_blank" href="http://en.wikipedia.org/wiki/P.F._Chang%27s"><u>P.F. Chang's China Bistro</u></a>的信用卡和借记卡数据<a target="_blank" href="https://krebsonsecurity.com/2014/06/banks-credit-card-breach-at-p-f-changs/"><u>被黑客窃取</u></a>。批量销售失窃信用卡的地下商店rescator.so在6月9日上架了数以千计的新近被盗的信用卡和借记卡数据。相关发卡银行发现所有失窃卡在2014年3月初到2014年5月19日之间都在P.F. Chang's China Bistro连锁店内使用过。P.F. Chang's尚未证实数据泄露，表示正展开调查。P.F. Chang's在美国有至少200家连锁店。
+➜3000美元GeForce GTX TITAN Z游戏性能弱于1500美元R9 295X2
+https://www.solidot.org/story?sid=39900	43326
+NVIDIA发布了它的旗舰双卡显卡GeForce GTX TITAN Z，号称是世界最快的显卡，售价2999美元。而AMD也发布了它的旗舰交火显卡R9 295X2，售价1499美元。Pcper测试了<a target="_blank" href="http://www.pcper.com/reviews/Graphics-Cards/NVIDIA-GeForce-GTX-TITAN-Z-Review"><u>两款显卡的游戏性能</u></a>，结果发现GeForce GTX TITAN Z价高性能低。在2560x1440 和3840x2160(4K)测试项目中，R9 295X2提供了更高和更一致的帧速，有时候其优势甚至高达30%。而GeForce GTX TITAN Z的优势是更安静，耗电低于AMD显卡。但功率和安静度应该不在花钱购买3000美元显卡的玩家考虑范围内。
+➜iOS 8用随机MAC地址反击位置跟踪
+https://www.solidot.org/story?sid=39901	45404
+对苹果用户而言，iOS 8的一项新功能将能破坏无处不在的地理位置跟踪。苹果最近公布的iOS 8改变了网络内识别设备的MAC地址处理方式。当iOS 8设备寻找一个网络时，它会使用一个随机的MAC地址，<a target="_blank" href="http://mobile.slashdot.org/story/14/06/10/014254/ios-8-strikes-an-unexpected-blow-against-location-tracking"><u>有效掩饰设备的踪迹</u></a>，直到设备决定连接一个网络时它才会使用真实MAC地址。Android系统尚未有这项功能，但类似的免费工具早在官方商店上架，名叫<a target="_blank" href="https://play.google.com/store/apps/details?id=eu.chainfire.pryfi"><u>Pry-Fi</u></a>的概念验证工具也是使用随机的MAC地址隐藏设备，安装这款应用需要Root。
+➜雅虎金融开始提供实时比特币价格
+https://www.solidot.org/story?sid=39902	46194
+美国最受欢迎的金融信息网站Yahoo! Finance继<a target="_blank" href="http://www.solidot.org/story?sid=39365"><u>彭博终端</u></a>之后也开始提供<a target="_blank" href="http://finance.yahoo.com/q?s=BTCUSD=X"><u>实时比特币价格</u></a>。另外值得一提的是比特币价值在过去一个月又一次出现暴涨，从450美元涨到了650美元左右，导致新一轮上涨的原因未知。根据bitcoinity.org的<a target="_blank" href="http://bitcoinity.org/markets/list?currency=ALL&amp;span=24h"><u>统计</u></a>，交易量最大的两个平台都来自中国：okcoin和火币，两家的交易量超过了总交易量的六成。

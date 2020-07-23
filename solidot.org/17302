@@ -1,0 +1,45 @@
+➜科技行业组织呼吁中国推迟实施网络安全法
+https://www.solidot.org/story?sid=52413	9600
+代表美国、欧洲和亚洲公司的行业组织<a href="http://cn.wsj.com/gb/20170515/tec175943.asp" target="_blank"><u>呼吁</u></a>中国推迟定于 6 月 1 日生效的《<a href="http://www.solidot.org/story?sid=50277" target="_blank"><u>网络安全法</u></a>》，称该法规可能对外国企业构成歧视。去年年底通过的这项法规设立了一个委员会，负责对供应给中国政府和重要产业的科技产品实施安全审查。科技行业组织在一封信中说，法规在技术披露和加密等方面的要求可能令中国国内的公司具有竞争优势。美中贸易全国委员会、中国美国商会、欧洲企业组织协会、日本商工会议所等54个行业组织签署了这封信。
+➜WannaCry 与朝鲜恶意程序共享代码
+https://www.solidot.org/story?sid=52414	12194
+Google、赛门铁克和卡巴斯基的安全研究人员<a href="https://www.cyberscoop.com/wannacry-ransomware-north-korea-lazarus-group/" target="_blank"><u>报告</u></a>，正在全球传播的勒索软件 WannaCry <a href="https://securelist.com/blog/research/78431/wannacry-and-lazarus-group-the-missing-link/" target="_blank"><u>可能与朝鲜黑客组织 Lazarus Group 有关联</u></a>。Google 的 Neel Mehta 发现，2017 年 2 月的 WannaCry 与 2015 年发现的 Lazarus Group 后门程序 Contopee 共享代码。Lazarus Group 此前曾利用伪造的 SWIFT 交易从孟加拉国央行账号窃取了上亿美元。 后门程序 Contopee 被用于控制目标的计算机。研究人员发现，WannaCry 与 Contopee 有两个函数及其引用是相同的，此外还有其它多个相似之处。共享代码并不能确认 WannaCry 就是 Lazarus Group 开发的，还需要更多的证据和对勒索软件的早期版本进行更多的研究。
+➜黑客窃取了迪士尼尚未上映的《加勒比海盗5》
+https://www.solidot.org/story?sid=52415	14171
+迪士尼 CEO Bob Iger 周一透露黑客窃取了该公司一部尚未上映的电影拷贝，接触该公司勒索比特币赎金。迪士尼拒绝支付赎金，正在配合 FBI 调查此事。黑客威胁，如果他们的要求得不到满足，将会逐步公开这部电影，先是公开五分钟片段，然后是二十分钟。Bob Iger 没有披露电影的名字，而据 Deadline <a href="http://deadline.com/2017/05/pirates-of-the-caribbean-dead-men-tell-no-tales-hackers-ransom-1202094203/" target="_blank"><u>报道</u></a>，这部电影是即将在本月底中美同步上映的《<a href="http://www.imdb.com/title/tt1790809/" target="_blank"><u>加勒比海盗 5：死无对证</u></a>》。在这之前，黑客曾窃取 Netflix 一部尚未上映的剧集，也尝试勒索赎金，但也遭到了拒绝。
+➜法官命令 Uber 归还被指窃取自 Waymo 的机密文档
+https://www.solidot.org/story?sid=52416	17853
+Uber 的自主驾驶技术研发遭遇了重大挫折。美国地区法院法官 William Alsup <a href="https://arstechnica.com/wp-content/uploads/2017/05/Uber.Waymo_.Order_.pdf" target="_blank"><u>命令</u></a> Uber 高管 Anthony Levandowski 停止在激光雷达 LiDAR 上的任何工作，归还被指窃取自 Waymo 的 1.4 万份机密文件。法官要求 Uber 竭尽所能，确保文件物归原主。文件必须在 5 月 31 日前归还。法官认为，Uber 很有可能知道或应该知道 Levandowski 从 Waymo 带走了 1.4 万 份文件。据 Google / Waymo 透露，它的设计文件储存在一个密码保护的 SVN 库内，需要使用软件 TortoiseSVN 才能访问。Levandowski 在离职前在笔记本电脑上使用 TortoiseSVN 下载了 9.7 GB 的文件，其中 2 GB 与激光雷达相关。随后他将一个便捷式储存设备插在电脑上八个小时。几天后他格式化了电脑，一个月后在未提前通知的情况下离开了 Waymo。
+➜SpaceX 成功发射重型通信卫星 Inmarsat-5 F4，未尝试回收火箭
+https://www.solidot.org/story?sid=52417	19275
+SpaceX 本周一<a href="https://www.nasaspaceflight.com/2017/05/expendable-falcon-9-inmarsat-5-f4-launch/" target="_blank"><u>成功发射了</u></a>国际海事卫星组织的重型通信卫星 Inmarsat-5 F4，这是该公司今年内的第六次发射。因为重型卫星的性能要求，SpaceX 未尝试回收火箭推进级。卫星由波音公司制造，重 6,070公斤，接近 Falcon 9 火箭发射到地球同步转移轨道的最大载荷。为了最大化载荷，它没有回收火箭第一级。SpaceX 使用的火箭型号是 Falcon 9 v1.2。它的下一次发射预订在 6 月 1 日，为国际空间站执行  CRS-11 Dragon 补给任务。
+➜Google 占领了美国教室
+https://www.solidot.org/story?sid=52418	27052
+为什么微软匆忙推出围墙花园版的 Windows 10 S？一个原因可能是危机感，美国年轻一代如今是<a href="https://www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html" target="_blank"><u>用着 Google 的软件长大的</u></a>，他们不只是用 Google 搜索，还用 Google 的办公软件、Google 电子邮件服务和 Google 的 Android 手机。美国超过半数的小学和中学学生——超过三千万——使用 Google 的教育软件 Gmail 和 Docs，超过半数的 Chromebook 笔记本电脑是供应给学校。 Chromebook 非常便宜，而学校并不那么有钱。但 Google 从中得到的是未来几代的消费者。学生们的父母对此有些不安，他们担心 Google 会利用孩子的信息构建出更强大的营销工具。与微软和苹果不同， Google 的收入主要来自广告。
+➜英国小报挖出延缓勒索软件传播的匿名英雄的身份
+https://www.solidot.org/story?sid=52419	29296
+上周末勒索软件 WannaCry 在全世界广泛传播，一位英国安全研究人员在恶意程序内发现了一个硬编码域名可作为延缓传播的一个关闭开关。这位 22 岁研究人员没有披露身份，认为公开自己的个人信息没有意义，认为自己阻碍网络罪犯的行为不会让对方感到高兴。他被媒体誉为匿名英雄。但仅仅过了一天，邮报、太阳报、每日电讯报和镜报等英国小报就<a href="https://theoutline.com/post/1536/uk-tabloids-doxxed-the-hero-hacker-who-stopped-a-global-cyberattack" target="_blank"><u>挖出了他的身份</u></a>，公布了他的照片，跟踪采访了他的朋友。这位安全研究人员对此表示压力很大。小报的这种做法则<a href="https://it.slashdot.org/story/17/05/15/1830257/uk-tabloids-doxxed-the-hero-hacker-who-stopped-a-global-cyberattack" target="_blank"><u>招致了批评</u></a>。
+➜汽车行业的机器人革命
+https://www.solidot.org/story?sid=52420	29806
+福特汽车在杭州的汽车装配厂里至少有650台机器人。工厂里仍有蓝领工人在做一些焊接工作，但工艺流程的大部分都已自动化。这个最先进的工厂是中国制造业<a href="https://cn.nytimes.com/business/20170516/a-robot-revolution-this-time-in-china/" target="_blank"><u>正在发生的巨大转型的代表</u></a>。随着中国企业考虑提升它们在制造链上的地位，机器人对中国的经济野心至关重要。对汽车制造商来说，依赖机器人的部分原因是成本驱动。自动化也是竞争的必然。随着汽车制造商力求得到客户的关注，它们除了采用最新技术外别无选择，在研发上也是如此。它们面临的挑战是如何保持竞争优势，同时试图防止知识产权被中国对手很快抄袭。“机器人不是威胁，”通用汽车中国制造部门主管 Paul Buetow说。“不能让你的企业生产人们想购买的产品的经营方式才是威胁。”
+➜土耳其逮捕 Cumhuriyet 的主编
+https://www.solidot.org/story?sid=52421	30751
+土耳其<a href="http://www.aljazeera.com/news/2017/05/turkey-arrests-cumhuriyet-editor-chief-oguz-guven-170512075918483.html" target="_blank"><u>逮捕了</u></a>独立在线媒体 Cumhuriyet 的主编 Oguz Guven，逮捕原因据称是网站刊登了 Denizli 省首席检察官 Mustafa Alper 死亡的报道。Cumhuriyet 发表声明称他们没有没告知逮捕原因。Cumhuriyet 目前有 12 名记者和高管被捕，面临恐怖主义指控。土耳其去年在发生未遂军事政变后宣布进入紧急状态，紧急状态至今没有解除，而许多独立或反对现政府的媒体机构此后纷纷被关闭。Cumhuriyet 上一任主编被判了约六年徒刑。
+➜挖矿僵尸网络在 WannaCry 前利用相同的 NSA 的黑客工具
+https://www.solidot.org/story?sid=52422	32459
+勒索软件WannaCry 过去的一个周末引起了全球关注，它利用了 NSA 开发的网络战工具进行传播。安全研究人员发现，在 WannaCry 之前就有挖掘数字货币的僵尸网络<a href="https://arstechnica.com/security/2017/05/massive-cryptocurrency-botnet-used-leaked-nsa-exploits-weeks-before-wcry/" target="_blank"><u>使用了</u></a>相同的 NSA 黑客工具。这次攻击不是为了安装勒索软件，而是安装挖矿软件 Adylkuzz。攻击者利用了神秘组织 Shadow Brokers 泄漏的 NSA 工具，包括代号为 EternalBlue 的漏洞利用和名为 DoublePulsar 的后门。这次攻击比 WannaCry 早大约两周时间，最早始于 4 月 24 日，最晚不迟于 5 月 2 日。攻击者首先是扫描 TCP 端口 445，寻找潜在的目标，如果成功被 EternalBlue 利用，机器将会感染 DoublePulsar 后门，然后下载和运行 Adylkuzz，挖掘名为门罗币（Monero）的匿名数字货币。
+➜量子计算机未必能打败现有的加密技术
+https://www.solidot.org/story?sid=52423	35535
+数学很难，今天的大部分安全通信设施是建立在数学因式分解的困难之上。因式分解小的整数十分简单，但大数则需要耗费大量时间，无法在比较短的时间内成功分解。RSA 加密系统就是基于大数因式分解。研究人员认为，擅长并行计算的量子计算机将能快速分解大数，使得 RSA 加密算法失去用武之地。但研究人员发布了一篇<a href="https://eprint.iacr.org/2017/351" target="_blank"><u>预印本</u></a>，认为现有的加密系统仍然可以通过增加位数去加大分解难度，让量子计算机也束手无策。现有的 RSA 算法多使用几千位长的整数作为密钥，但如果将密钥增加到 TB 字节长度？论文作者估计，在量子计算机上使用 Shor 算法也需要  2<sup> 100</sup> 次操作，因此即使量子计算机变得切实可行 <a href="https://www.quantamagazine.org/why-quantum-computers-might-not-break-cryptography/" target="_blank"><u>RSA 也不会死亡</u></a>。量子计算机专家 Scott Aaronson 认为，如此长的密钥，对于大多数应用来说加密和解密的成本会变得难以忍受。
+➜科学家发现四万年前丹尼索瓦人制造的手镯
+https://www.solidot.org/story?sid=52424	39174
+科学家<a href="http://www.digitaljournal.com/science/40-000-year-old-bracelet-from-extinct-human-species-discovered/article/432798" target="_blank"><u>证实</u></a>，在西伯利亚丹尼索瓦人洞穴内发现的手镯有四万年历史，是至今发现的最古老珠宝。丹尼索瓦人是人类近亲，已经灭绝。丹尼索瓦人被认为比现代人类更原始，但手镯的发现暗示这一认识可能是错误的。科学家认为人类是在大约一万多年前发展出制造此类物品的能力，而丹尼索瓦人领先人类至少三万年。西伯利亚人类文化历史博物馆负责人 Anatoly Derevyanko 博士称，手镯创造者的技能近乎完美。
+➜魅族手机被发现系统截屏打上了全屏水印
+https://www.solidot.org/story?sid=52425	41056
+阿里巴巴持有股份的魅族被发现会在其手机系统截图内<a href="http://www.jianshu.com/p/a1119d547f3d" target="_blank"><u>打上全屏水印</u></a>，更重要的是水印包含了用户及设备的隐私信息。也就是说如果用户向外分享系统截图，那么其信息将会泄漏出去。水印是一个二维码，包括了 IP 地址、IMSI 码，设备序列号和设备型号信息。第三方软件的截图则不含有任何水印。目前不清楚魅族为什么要这样做。
+➜勒索软件攻击暴露中国对盗版软件的依赖风险
+https://www.solidot.org/story?sid=52426	43889
+勒索软件  WannaCry 正在全球传播，其中中国是重灾区。对此结果， 安全公司 F-Secure 的研究人员认为，大量运行盗版 Windows 的计算机<a href="https://cn.nytimes.com/china/20170516/china-ransomware-wannacry-hacking/" target="_blank"><u>或许为勒索软件的入侵打开了方便之门</u></a>。目前并不清楚是否所有遭该勒索软件入侵的中国企业与机构都在使用盗版软件。BSA 去年进行的一项研究发现，2015 年中国计算机上安装的软件有 70% 没有获得正当授权。一位学习网络工程的人士将这次袭击的大面积传播归因于许多问题，盗版是其中一个因素，“目前大多数的学校，全部都是用盗版软件的，包括操作系统和专业软件，在中国，大部分人用的 Windows 都是盗版的，这就是一个现状吧。”周一，中国的一些机构还在清理因这次袭击而瘫痪的系统。中国三大国营电信运营商之一中国电信上周末也出现了类似的混乱景象，该消息来自一名没有被授权谈判此事的员工。这名员工表示，公司提供的软件补丁不起作用，之后被告知使用奇虎 360 的一个补丁，后者支持盗版和授权过期的 Windows 系统。
+➜中国科学家首次实现反事实量子通信
+https://www.solidot.org/story?sid=52427	46602
+量子通信本已古怪之极，但它还有一种更古怪的形式叫<a href="https://en.wikipedia.org/wiki/Counterfactual_definiteness" target="_blank"><u>反事实通信</u></a>：两个接收者之间没有任何粒子传输的量子通信。理论物理学家早就提出此类的通信是可能的。现在第一次，中国科技大学的研究人员<a href="http://www.sciencealert.com/scientists-have-achieved-direct-counterfactual-quantum-communication-for-the-first-time" target="_blank"><u>成功实现了反事实通信</u></a>：在不发送任何物理粒子的情况下将一幅黑白位图从一个地点传送到另一个地点。常见的量子通信是基于纠缠原理，而反事实通信是基于量子芝诺效应，不发送粒子传输量子态。量子芝诺效应发生在不稳定的量子系统被反复的测量。在量子世界，观测或测量系统会导致系统发生改变， 在本例中，不稳定的粒子在反复观测时将永远不会衰减。量子芝诺效应创造了一个具有高可能性的事实上冻结的系统。<a href="http://www.pnas.org/content/early/2017/04/19/1614560114" target="_blank"><u>研究报告</u></a>发表在 PNSA 上。

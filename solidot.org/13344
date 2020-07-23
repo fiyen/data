@@ -1,0 +1,6 @@
+➜脑机结合的视觉系统
+https://www.solidot.org/story?sid=471	1860
+<a href="http://www.livepine.cn/">livepine</a> 写道 "<a href="http://www.wired.com/news/technology/medtech/0,71364-0.html?tw=rss.index">Wired消息</a>，美国哥伦比亚大学的科学家研究的“脑机结合视觉系统”利用人脑视觉处理能力来识别人脸等物体，这项由DARPA资助的脑机界面技术把人脑变成一部自动图像识别机，识别速度可达到一般人的10倍。潜在的应用可以在军事情报、脸部识别、反恐等。现有的机器视觉系统总得来讲应用面窄－它们多是为专有的目的建造，而且识别能力有限。相反，人脑是已知最好的视觉处理器，只是速度稍慢。这个新系统把传统的机器视觉技术同大脑视觉结合起来。当使用者看到感兴趣的物体时，大脑会发送特殊的信号，能够被脑电图机检测到。计算机分析这种信号，找到引发兴趣的物体，并在图像上根据大脑认为重要性的不同等级标记出来。这样使用者仅仅需要查看重要的信息，而不必在无数幅图像中寻找了。"
+➜完全支持NTFS 读写的Linux 驱动发布了
+https://www.solidot.org/story?sid=472	38580
+<a href="http://www.dup2.org/blog">qyb</a> 写道 "<a href="http://osnews.com/comment.php?news_id=15196">Osnews 报导</a>了这个<a href="http://sourceforge.net/mailarchive/forum.php?thread_id=23836054&amp;forum_id=2697">事件</a>。可能大多数人对 Linux 访问 NTFS 的印象还是'只读，写会很危险'，其实从 <a href="http://wiki.linux-ntfs.org/doku.php?id=ntfsmount">ntfsmount</a> 开始，就能够安全的在 NTFS 上写文件，或者创建文件了（但创建有 50% 的成功几率. This will either succeed or it will be refused, 50-50% at the moment）。现在发布的是在 ntfsmount 基础上改进的 ntfs-3g，也同样是利用 <a href="http://fuse.sourceforge.net/">FUSE</a> 内核模块实现的。<a href="http://mlf.linux.rulez.org/mlf/ezaz/ntfs-3g-20070714-BETA.tgz">下载</a>一份帮助作者测试性能和稳定性吧！"

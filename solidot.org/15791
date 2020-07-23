@@ -1,0 +1,122 @@
+➜首次发现用于针对性攻击的Android木马
+https://www.solidot.org/story?sid=34018	11239
+<p align="center"><img width="300" height="239" src="http://img.solidot.com.cn/0/249/lip0cOk3mqG8.png">
+</p>
+<p>卡巴斯基实验室的安全研究人员<a href="http://www.securelist.com/en/blog/208194186/Android_Trojan_Found_in_Targeted_Attack"><u>报告</u></a>发现了对西藏和维吾尔活动人士发动针对性攻击的Android木马。<br>
+<i>3月24日，一位知名西藏活动人士的电子邮件帐户遭黑客入侵，攻击者随后向邮件联系人列表中的用户发动了钓鱼攻击，发送的钓鱼邮件包含了Android可执行附件（APK文件）。邮件正文伪装来自<a href="http://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E7%BB%B4%E5%90%BE%E5%B0%94%E5%A4%A7%E4%BC%9A"><u>世界维吾尔代表大会</u>（</a>WUC），附件名称是“WUC's Conference.apk”。如果接收者安装了附件，其Android设备桌面上会出现名叫Conference的应用，启动该应用，会出现有关即将举行的WUC会议的信息（攻击者错误将世界的英文World拼写成了Word）。当受害者阅读信息的同时，木马会悄悄向命令控制服务器发送感染报告，然后开始收集信息，窃取联系人、呼叫日志、短信和地理位置数据。命令控制服务器所在的数据中心位于美国洛杉矶，托管公司叫Emagine Concept Inc，但机器运行的是中文配置的Windows Server 2003系统，其使用的域名DlmDocumentsExchange.com是在3月8日注册的，注册服务商是上海美橙科技信息发展有限公司。</i></p>
+➜普查显示中国河流数量大幅减少
+https://www.solidot.org/story?sid=34019	12796
+3月26日，中国水利部和国家统计局公布的《<a href="http://www.mwr.gov.cn/2013pcgb/merge1.pdf" target="_blank">第一次全国水利普查公报</a>》显示，中国流域面积在100平方公里及以上的河流仅有2.3万条，比此前长期沿用的5万多条的统计<a href="http://china.caixin.com/2013-03-26/100506643.html"><u>减少了一多半</u></a>。《公报》显示，目前，中国流域面积100平方公里及以上的河流有22909条，而过去这一统计为50000多条。水利部副部长矫勇表示，河流数据大幅减少，一方面确有一些河流因气候变化、社会经济发展等而萎缩消失，另一方面，此次普查利用了更精确先进的手段和技术，也是原因之一。对此数据巨大差异，中国水科院防洪减灾研究所学者陈晓陶认为，很可能是因为这次水利普查采用了更加精确的统计方法。而此前50000多条应该是多年前的一个概数，并不准确。但他同时认为，“中国河流数量大量减少是不争的事实。”
+➜研究称科学家都是工作狂
+https://www.solidot.org/story?sid=34020	14428
+大连理工大学的研究人员在《Journal of Informetrics》上发表论文《<a href="http://www.sciencedirect.com/science/article/pii/S1751157712000545"><u>探索科学家的工作时间表：科学家们经常加班吗？</u></a>》，提出了一种根据论文下载时间研究科学家工作时间规律的新方法。通过半个多月24小时监测和记录全球科学家下载科学论文的情况，最终收集了将近200万条数据。通过对这些论文下载时间数据的分析，作者提出了虽然科学家的时间看上去很自由，但是来自全球学术界同行的激烈学术竞争，以及科学家对科学研究的自主探索热情使得科学家们放弃了闲暇时间，经常熬夜加班和周末工作，<a href="http://news.sciencenet.cn/htmlnews/2013/3/276101.shtm"><u>科学家群体比其他人更辛苦</u></a>。
+➜微软因UEFI Secure Boot在欧洲面临反垄断投诉
+https://www.solidot.org/story?sid=34021	17606
+西班牙开源组织因<a href="http://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface"><u>UEFI Secure Boot</u></a>向欧盟委员会<a href="http://arstechnica.com/information-technology/2013/03/microsoft-accused-of-locking-out-linux-in-eu-antitrust-complaint/"><u>投诉微软垄断</u></a>，指控微软利用Secure Boot阻止Windows 8电脑买家安装基于Linux的操作系统。UEFI Secure Boot机制设计只允许启动有可信任证书签名的操作系统，用户可在固件设置中选择关闭这项功能，Linux基金会和流行发行版则提供了权宜方法允许用户在不关闭Secure Boot的情况下运行Linux操作系统。有8000名成员的开源组织<a href="http://www.hispalinux.es/"><u>Hispalinux</u></a>在投诉书中称，UEFI Secure Boot实际上是一种限制计算机启动系统的技术，使微软的Windows平台比以往任何时候都不中立。这个月早些时间，欧盟曾以未遵守IE浏览器反垄断和解协议为由处罚微软5.61亿欧元。
+➜你并不“拥有”自己的基因
+https://www.solidot.org/story?sid=34022	24058
+康乃尔大学Weill Cornell医学院研究人员发表论文，指出了美国专利制度中一个令人不安的趋势：<a href="http://weill.cornell.edu/news/releases/wcmc/wcmc_2013/03_25_13b.shtml"><u>人类并不“拥有”自己的基因</u></a>。基因是基本遗传单位，是携带有遗传信息的DNA序列，定义了生物个体的性状和潜在疾病风险。研究人员发现，至今有超过4万项专利涉及到DNA分子，企业出于盈利的目的宣称拥有了完整人类基因组。研究敲响了人类失去“基因自由”的警钟。研究人员检查了两类专利的DNA序列：长序列和短序列，发现人类41%的基因组包含在长DNA序列专利中。由于许多基因在遗传结构中共享相似的序列，如果将短DNA序列考虑在内，实际上人类100%的基因组都被专利了。
+➜GTK+ 3.8发布，支持Wayland
+https://www.solidot.org/story?sid=34023	25444
+GTK+ GUI框架<a href="http://article.gmane.org/gmane.comp.gnome.announce/10933"><u>发布了v3.8版</u></a>，主要新特性是支持Wayland 1.0，Wayland是设计替代 X 的显示服务器。其它新功能包括：改进主题支持，改变默认字体处理，修复几何管理（Geometry management），更好的支持触摸，单击激活GtkTreeView和GtkIconView，支持Window Manager帧同步协议草案，改进性能等等。
+➜河流污染：死猪之后是死鸭
+https://www.solidot.org/story?sid=34024	27393
+在上海从黄浦江及其支流里打捞出16000多头死猪之后没有几天，四川彭山县南河中<a href="http://www.bbc.co.uk/news/world-asia-china-21921145"><u>发现了上千死鸭</u></a>，死鸭被装在50个到60个塑料编织袋中，彭山县有关部门说，他们还没有查明鸭子的死因，但向当地民众保证说，死鸭不会对居民健康造成威胁。这种表态与上海市有关部门的说法如出一辙。<a href="http://cn.wsj.com/gb/20130327/ren114135.asp"><u>死猪死鸭丑闻</u></a>引发了人们对中国死亡禽畜无害化处理的质疑。日经的<a href="http://cn.nikkei.com/columnviewpoint/column/5129-20130322.html"><u>一篇报道</u></a>说，嘉兴作为生猪产地而闻名。据当地媒体报道，去年饲养了700万多头猪。不过这里的饲养技术并不先进，由于疾病等原因死亡的猪不在少数。去年仅得到确认的数字就达到了32万5600头，每个月就死亡约2万7000头。而今年到目前为止已死亡7万头。当地农民说：“在我们这里，随意抛弃死猪是一直以来的习惯。现在仍然有人这么做”。这是单纯的农民道德问题吗？其根本原因在于中国畜产业的近代化水平仍然落后，这一点不容忽视。问题在于供求失衡容易导致猪肉价格暴涨暴跌。只要这种猪价暴涨暴跌的情况没有改变，养猪业的投机活动就不会消失。而如果农民的生计不够稳定，吸收近代饲养技术和卫生管理经验的意识就无法提高。
+➜Google让ungoogleable从瑞典字典里消失
+https://www.solidot.org/story?sid=34025	29696
+瑞典语言委员会是一个半官方、政府资助的机构，主要任务是规范和跟踪瑞典语言的变化，它每年会发布一个新词名单。由于来自Google的压力，瑞典语言委员会从新词名单中<a href="http://www.itworld.com/it-management/349757/swedish-language-council-removes-ogooglebar-after-pressure-google"><u>删除了ungoogleable</u></a>。ungoogleable（或瑞典语ogooglebar）意思是某个东西从搜索引擎搜索不到结果，在去年12月新词公布之后，Google联络了瑞典语言委员会，要求改变定义和澄清Google是一个商标。但委员会不想按照Google的要求改变定义，因为事关原则，认为语言的发展与商标保护无关，Google并不拥有语言，但他们没有时间和精力与Google打一场长期的法律战，因此他们决定一删了之。
+➜Openssl renegotiation DoS攻击仍然难以解决
+https://www.solidot.org/story?sid=34026	30312
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "<a target="_blank" data-ke-src="http://www.ietf.org/mail-archive/web/tls/current/msg07553.html" href="http://www.ietf.org/mail-archive/web/tls/current/msg07553.html">2011年报出的Openssl重新密钥协商会导致DOS攻击</a>，漏洞报出后没多久一个黑客组织放出了<a target="_blank" data-ke-src="http://www.thc.org/thc-ssl-dos/" href="http://www.thc.org/thc-ssl-dos/">dos攻击工具</a>，这个代号<a target="_blank" data-ke-src="http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-1473" href="http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-1473">CVE-2011-1473</a>的漏洞至今openssl upstream并没有具体的修复方案，这个烂摊子留给了具体的应用程序开发者，比如Apache2给了相应的配置文件可以直接关闭密钥重新协商：
+</i>
+<!--more-->
+<p></p>
+</p>
+<p>
+</p>
+<p>shawn@fortress / $ openssl s_client -connect build.opensuse.org:443</p>
+<p>..............................</p>
+<p>..............................
+</p>
+<p>Timeout&nbsp;&nbsp; : 300 (sec)
+&nbsp;&nbsp;&nbsp;
+</p>
+<p>Verify return code: 20 (unable to get local issuer certificate)
+---
+</p>
+<p>R&nbsp;&nbsp; // 这里按R然后回车
+</p>
+<p>RENEGOTIATING
+140722018514592:error:1409E0E5:SSL routines:SSL3_WRITE_BYTES:ssl handshake failure:s3_pkt.c:592:</p>
+<p>
+</p>
+<p>服务器端的重新密钥协商的开销是客户端的15倍，在带宽足够的情况下一台i7的CPU可以fuc*掉足够多的服务器，以下是测评数据：</p>
+<p>
+</p>
+<p>
+</p>
+<p>测试环境：SLES 11 SP2 , 虚拟机中分配了2 cores + 1GB内存
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>Case I:</p>
+<p>
+Server: openssl s_server -key server-key.pem
+</p>
+<p>Client: thc-ssl-dos 192.168.0.1 4433 --accept -l 10000
+</p>
+<p>最坏的情况:
+</p>
+<p>Cpu0  :  1.3%us,  1.7%sy,  0.0%ni, 97.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+</p>
+<p>Cpu1  : 53.1%us,  5.1%sy,  0.0%ni, 37.1%id,  0.0%wa,  0.0%hi,  0.7%si,  0.0%st</p>
+<p>
+</p>
+<p>Case II:&nbsp; 使用了<a target="_blank" data-ke-src="https://github.com/vincentbernat/ssl-dos/blob/master/iptables.sh" href="https://github.com/vincentbernat/ssl-dos/blob/master/iptables.sh">开源加固方案</a>，在netfilter上限制连接的速率和用固定的特征码去匹配</p>
+<p>
+#sh iptables.sh</p>
+<p>
+#iptables -A INPUT -d 192.168.0.1 -p tcp --dport 4433 -j LIMIT_RENEGOCIATION</p>
+<p>
+Server: openssl s_server -key server-key.pem
+</p>
+<p>Client: thc-ssl-dos 192.168.0.1 4433 --accept -l 10000
+</p>
+<p>最坏的情况:
+</p>
+<p>Cpu0  :  0.0%us,  0.0%sy,  0.0%ni,100.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+</p>
+<p>Cpu1  :  0.0%us,  0.7%sy,  0.0%ni, 99.3%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st</p>
+<p>这个方案的确有效，但不确定是否有副作用，固定的特征如果跟其他hash or 其他xx碰撞是否会有false positive?"
+➜SpaceX Dragon返回地球，第二次空间站补给任务完成
+https://www.solidot.org/story?sid=34027	31115
+<div align="center"><img width="280" height="210" align="" src="http://img.solidot.com.cn/0/251/ligOAaffEYUlw.jpg"><br>
+<br>
+<div align="left">私人太空公司SpaceX的Dragon太空船<a href="http://www.spacex.com/webcast/"><u>已成功返回地球</u></a>，第二次国际空间站再补给任务圆满结束。Dragon太空船于3月1日发射升空，3月3日<a href="http://www.solidot.org/story?sid=33672"><u>成功对接</u></a>国际空间站，它搭载了575kg的负荷，而返回地球时的负荷重量高达1200kg，它为空间站送去了补给、设备和科学仪器，然后带着其它科学设备和一套用了两年的旧乐高玩具回到地面。SpaceX与NASA签署了16亿美元的空间站补给合同，执行12次补给任务，如今<a href="http://arstechnica.com/science/2013/03/spacex-dragon-returns-officially-completing-a-second-iss-resupply-trip/"><u>已成功完成两次</u></a>。</div>
+</div>
+➜中国制造：正面和反面
+https://www.solidot.org/story?sid=34028	32774
+黑客空间(Hackerspace)<a href="http://www.sector67.org/">Sector67</a>活跃成员、<a href="http://portablescores.com/">Portable Scores</a>创始人Bob Baddeley在MAKE杂志上发表文章，分析了<a href="http://blog.makezine.com/2013/03/26/made-in-china-the-case-for-and-against/"><u>在中国制造硬件的有利之处和不利之处</u></a>。他在深圳呆了三个月，发现中国制造虽然廉价，但隐藏成本和管理风险令他选择了“美国组装”。中国制造的有利之处众所周知：零部件和劳工费用低廉，供应链完整交通方便交货发货迅速。但中国制造的风险需要较长时间才能发现，零部件确实便宜，但更便宜假冒零部件更常见，成本节省其实是一场赌博，你采购的零部件寿命是否能撑过保修期，故障率是否足够低？如果不能那么成本不会减少反而会增加。虽然交货很快，但与工厂的交流问题和新年等假期都会导致产品延期，而海运所需的时间可能长达一个月。相比之下，美国组装的成本虽然高，但更透明更安全。
+➜互联网史上最大一宗DDoS攻击事件
+https://www.solidot.org/story?sid=34029	35588
+在反垃圾邮件组织<a href="http://www.spamhaus.org/"><u>Spamhaus</u></a>将荷兰网站托管公司Cyberbunker加入到垃圾邮件黑名单之后，Spamhaus遭受了<a href="http://www.nytimes.com/2013/03/27/technology/internet/online-dispute-becomes-internet-snarling-attack.html?adxnnl=1&amp;pagewanted=all&amp;adxnnlx=1364361111-eUkXDxM5etM8OLTP57gV7A"><u>互联网史上攻击流量最大</u></a>(<a href="http://cn.nytimes.com/article/world/2013/03/27/c27cyber/"><u>中文</u></a>)的分布式拒绝服务攻击（DDoS）。此次DDoS攻击的不同寻常之处是攻击者利用DNS域名系统放大攻击强度。域名系统的功能就如电话交换机，它把域名如Facebook.com或Google.com转换成一串IP地址数字。世界上有数百万台服务器在进行实际的转换工作。在最近的这起事件中，攻击者把自己的讯息伪装成Spamhaus发出的讯息，然后发给这些服务器，这些讯息随即被服务器急剧放大，造成大量数据返回Spamhaus的服务器。Spamhaus请求Cloudflare<a href="http://blog.cloudflare.com/the-ddos-that-knocked-spamhaus-offline-and-ho"><u>予以协助</u></a>，攻击者随即把他们的数字怒火转向了那些为Spamhaus和Cloudflare提供数据连接的公司。自称是攻击发言人的Sven Kamphuis说，Cyberbunker是在报复Spamhaus“滥用其影响力”的行为。
+➜世界第一台比特币自动取款机将部署到塞浦路斯
+https://www.solidot.org/story?sid=34031	40038
+<a href="http://stockhouse.com">Stockhouse.com</a>和<a href="http://tdvmedia.com">TDV Media</a>创始人Jeff Berwick<a href="http://motherboard.vice.com/blog/the-worlds-first-bitcoin-atm-to-dispense-cyprus-bills"><u>宣布</u></a>，世界第一台比特币自动取款机<a href="http://bitcoinatm.com/"><u>Bitcoin ATM</u></a>有望率先部署到塞浦路斯。这个时机可以说不能再及时了，塞浦路斯正经历金融危机，该国第二大银行Laiki将<a href="http://www.ftchinese.com/story/001049581"><u>被拆分好银行和坏银行</u></a>，10万欧元以上大额存款将被转移到“坏”银行，10万欧元以下的存款将获得担保，Laiki目前规定储户每日只能提取260欧元现金。也许比特币ATM将能成为塞浦路斯储户的救星？目前1比特币的价值已经<a href="http://bitcoincharts.com/markets/mtgoxUSD.html"><u>超过了85美元</u></a>。
+➜单细胞生物有7种性别
+https://www.solidot.org/story?sid=34032	41877
+如果你认为人类之间的<a href="http://en.wikipedia.org/wiki/Battle_of_the_sexes_%28game_theory%29"><u>性别战</u></a>很复杂，请设身处地为单细胞生物四膜虫考虑一下——<a href="http://news.sciencemag.org/sciencenow/2013/03/scienceshot-seven-sexes-on-the-m.html"><u>它有七种性别</u></a>。人类繁衍后代是靠一男一女，生出来的孩子要么是男要么是女，虽然偶尔会有变异，但四膜虫繁衍后代要复杂的多。它们的后代可能与父母不属于同一种性别，可以是七种性别中的任意一种。根据发表在《PLoS Biology》上的<a href="http://cts.vresp.com/c/?PublicLibraryofScien/f26dac5bdd/b37cbba577/5684cbce3a"><u>报告</u></a>，研究人员找到方法根据DNA判断性别，发现四膜虫的性别选择是随机的。四膜虫有两类细胞核，正常细胞核包含性别基因，另一种细胞核主要用于繁殖，它包含了所有7种性别基因的不完整版本，通过粘贴剪切组合成一个完整的基因。重新排列的新DNA成为后代正常细胞核的一部分，决定其性别类型。研究人员认为，这项研究有助于那些不同于男女性别的人类认识自己。
+➜地球比以前认为的更靠近太阳系适宜居住区域边缘
+https://www.solidot.org/story?sid=34033	45708
+地球比以前认为的<a href="http://physicsworld.com/cws/article/news/2013/mar/25/earth-is-closer-to-the-edge-of-suns-habitable-zone"><u>更接近太阳系适宜居住区域内边缘</u></a>。换句话说，如果地球的轨道略微移动一点，地球的气候将会发生剧烈变化。一颗恒星的适宜居住区域是指该区域内的行星表面能存在液态水，而液态水是演化出生命的重要先决条件。目前估计太阳的适宜居住区域始于0.95个天文单位，而地日距离是1个天文单位，因此地球轨道与边缘距离足够远。但NASA、滨州州立大学和法国波尔多大学的最新研究发现，太阳适宜居住区域内边缘始于0.99个天文单位。
+➜罗永浩公布了Smartisan OS
+https://www.solidot.org/story?sid=34034	46443
+牛博网创始人及老罗英语培训创办人罗永浩在国家会议中心<a href="http://cnetnews.com.cn/2013/0319/2149110.shtml"><u>公布</u></a>了<a href="http://www.smartisan.cn/"><u>Smartisan OS</u></a>，展示了...海量的图标。Smartisan OS是基于Android的定制系统，Android采用Apache 2.0 许可证，不清楚锤子科技的深度定制ROM是否修改了内核，还是仅仅是修改下UI，换换图标。罗永浩称，他的ROM修改了海豚浏览器的图标，百度著名的熊爪图标，甚至还有雅虎的图标，他称，“ROM内置1000多个图标，每一个图标，都有设计师的信息，你都可以联系他们，如果你喜欢某一个设计师的作品，甚至可以采用他的全部设计，而且设计师可以更好的展示他们的作品。”但问题是一个产品的图标是有商标权，这种美化式的修饰私下做做无妨，公开散播可行？
+➜SpaceX 在航天运载软件开发中的经验教训
+https://www.solidot.org/story?sid=34035	53139
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道 <i>"Robert Rose是SpaceX的航空电子学软件团队负责人。他曾经是一位视频游戏程序员，他觉得这段经历给他现在的工作留下了宝贵的经验教训。他从1994年开始接触到Slackware项目并开始他的Linux之路。
+在2013年嵌入式Linux大会（Embedded Linux Conference 2013）的第二天， Robert Rose 讲述了 “开发太空船软件过程中获得的经验教训”。在他的演讲中，他谈到了<a href="http://lwn.net/Articles/540368/"><u>SpaceX是如何开发基于Linux的软件</u></a>(<a href="http://blog.jobbole.com/36780/"><u>中文</u></a>)，使其控制太空船进入卫星轨道甚至飞越进入外太空所需完成的一系列任务。他说，从台式机到太空船，Linux在SpaceX是无所不在的。"</i>

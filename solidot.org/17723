@@ -1,0 +1,45 @@
+➜苹果前雇员被控窃取自动驾驶汽车机密
+https://www.solidot.org/story?sid=57152	12699
+苹果前雇员 Xiaolang Zhang <a href="https://www.reuters.com/article/us-apple-theft/ex-apple-worker-charged-with-stealing-self-driving-car-trade-secrets-idUSKBN1K02RR" target="_blank"><u>被控</u></a>在飞往中国前下载自动驾驶汽车相关蓝图到个人电脑，他于 7 月 7 日在San Jose 机场被捕。起诉书称，苹果雇佣  Zhang 为自动驾驶汽车项目开发软件和硬件，他的工作主要是设计和测试电路板去分析传感器数据。今年 4 月他在孩子出生之后休了陪产假，并与家人飞回了中国。返回之后他告诉上司准备辞职，回中国为小鹏汽车工作。起诉书指控他在 4 月 28 日回到苹果园区从自动驾驶汽车硬件实验室拿走了电路板和一台服务器。他当时告诉苹果官员称拿硬件是因为他的工位要转移。Zhang 还被控下载数据到个人电脑里，其中包括 25 页的电路板蓝图。FBI 在 6 月 27 日搜查了他的家，并获悉他准备在 7 月 7 日离境，当局随后在机场逮捕了他。
+➜RISC-V 社区回击 ARM
+https://www.solidot.org/story?sid=57153	14702
+7 月 9 日，统治嵌入式和移动平台的巨头 ARM <a href="https://www.solidot.org/story?sid=57144" target="_blank"><u>上线了</u></a>一个网站 <a href="https://riscv-basics.com/" target="_blank"><u>riscv-basics.com</u></a> 来攻击 RISC-V 开源指令集架构，试图阻止厂商设计和开发 RISC-V 处理器。RISC-V 社区随即上线了 <a href="https://www.arm-basics.com/" target="_blank"><u>arm-basics.com</u></a> 来回击 ARM。开源社区从费用、碎片化、改进、安全等多个方面指出私有指令集架构 ARM 相对于开源架构的缺陷，呼吁厂商采用真正自由的架构 RISC-V。
+➜特斯拉计划在上海建全资工厂
+https://www.solidot.org/story?sid=57154	16388
+美国电动汽车制造商特斯拉签署一份谅解备忘录，拟在上海<a href="http://www.ftchinese.com/story/001078427" target="_blank"><u>建造一家全资拥有的 “超级工厂”</u></a>。中国正在投资条款方面给予跨国公司更多 “甜头”，其背景是与华盛顿方面陷入一场贸易对峙。在过去几个月陆续出台的一系列政策中，北京方面取消或放宽了汽车企业和许多金融服务集团的外资持股上限，加快了境外制药公司的准入，令境外投资者对中国再度欢迎外资萌生希望。特斯拉将是中国新政策的第一个受益者；该项政策允许外国汽车制造商在中国全资拥有自己的生产业务，而不再需要找到本土合资伙伴。特斯拉表示，预计新厂将在两年后完工，并在完工两、三年后达到每年 50 万辆汽车的最高年产量。
+➜Arch Linux AUR 软件库发现恶意程序
+https://www.solidot.org/story?sid=57155	17846
+Arch Linux AUR 软件仓库<a href="https://www.bleepingcomputer.com/news/security/malware-found-in-arch-linux-aur-package-repository/" target="_blank"><u>发现了</u></a>至少三个恶意程序。AUR 是用户递交到 Arch Linux 项目的软件包仓库，恶意代码已经被 AUR 团队迅速移除。事故发生的原因是 AUR 允许任何人“领养”被原作者放弃的软件包。上周六，化名为 xeactor 的用户接管了一个被放弃的软件包 acroread，该软件允许 Arch Linux 用户浏览 PDF 文件。根据该软件源代码的 Git commit，xeactor 加入了恶意代码，从一个模仿 Pastebin 的文本分析网站 ptpb [dot] pw 下载名为 ~x 的文件。
+➜苹果修复了一个为迎合中国政府而引入的 bug
+https://www.solidot.org/story?sid=57156	18746
+苹果周一释出了  <a href="https://support.apple.com/en-us/HT208938" target="_blank"><u>iOS 11.4.1</u></a>，修复了多个漏洞，其中一个编号为 CVE-2018-4290，是一个拒绝服务类漏洞：当用户在消息应用里输入单词  Taiwan 或收到包含台湾青天白日满地红旗帜绘文字时，该 Bug 会导致部分设备崩溃。安全研究人员 Patrick Wardle 在其个人博客上<a href="https://objective-see.com/blog/blog_0x34.html" target="_blank"><u>详细分析了这一 bug</u></a>，认为该 bug 显然是苹果为了迎合中国政府而引入到系统中的。中国出售的 iPhone 不会显示台湾的旗帜，而是显示缺失字符。在未修复前，设备国家代码包含中国或语言设置包含中文时会触发这一 bug。
+➜Firefox 用 Clang 编译器编译 Windows 版本
+https://www.solidot.org/story?sid=57157	26177
+在 <a href="https://www.solidot.org/story?sid=55691" target="_blank"><u>Google Chrome</u></a> 之后， Mozilla 的 Firefox 浏览器开始用 Clang 编译器<a href="https://groups.google.com/forum/m/#!topic/mozilla.dev.platform/wwO48xXFx0A" target="_blank"><u>编译 Windows 版本</u></a>，之前它使用的是微软的 Microsoft C++ 编译器（MSVC）。开发者称，目前用 Clang 编译的版本相比 MSVC 编译的版本性能有升有降，原因是还没有启用  LTO(Link Time Optimization) 或 PGO（Profile Guided Optimization） 方法优化。MSVC 是 Windows 平台支持最好使用最广泛的编译器，而 Clang 则是流行的跨平台编译器，切换到 Clang 可以在各个平台上统一编译器，简化开发和 bug 处理。
+➜PayPal 通知客户她的死亡违反了它的规定
+https://www.solidot.org/story?sid=57158	27351
+PayPal 通知一名死于乳腺癌的客户，她的死亡违反了公司的规定，可能将面临诉讼。她的丈夫随后联络了 BBC ，<a href="https://www.bbc.com/news/technology-44783779" target="_blank"><u>曝光了这起事件</u></a>。PayPal 承认信函内容有欠考虑，向失去亲人的丈夫道歉，开始调查信函是如何发送出去的。Lindsay Durdle 死于 5 月 31 日，年仅 37 岁。她的丈夫 Howard Durdle 三周前向 PayPal 通知了 Lindsay 的死亡，并提供了死亡证明。然后 Howard 收到了 PayPal 的信函，告诉他这封信很重要，要仔细阅读。信中的内容称 Durdle 女士欠它 3,200 英镑，她的死亡违反了她与  PayPal Credit 达成的协议条款 15.4(c)条，这次违反将无法补救。PayPal 现在通知 Durdle 先生它已经购销了账务，表示它将优先解决这个问题。一名 PayPal 雇员解释说这个问题有三种可能原因：bug，糟糕的信函模板，人类错误。
+➜黑客入侵 Hola VPN 扩展将以太坊钱包用户定向到钓鱼网站
+https://www.solidot.org/story?sid=57159	29797
+一位黑客<a href="https://www.bleepingcomputer.com/news/security/hacker-breaches-hola-vpn-chrome-extension-to-go-after-cryptocurrency-wallet-site/" target="_blank"><u>入侵了</u></a>流行 VPN 扩展 Hola VPN 的开发者账号，在扩展中植入代码，将以太坊钱包 MyEtherWallet (MEW)的用户定向到黑客控制的钓鱼网站。MyEtherWallet (MEW) 团队称，攻击只持续 5 个小时。Hola VPN 承认遭到了入侵，称已经通知了 MEW 和 Google，遭到修改的 Chrome 版本也已经替换到了<a href="https://chrome.google.com/webstore/detail/unlimited-free-vpn-hola/gkojfkhlekighikafcpjkiklfbnlmeio?hl=en" target="_blank"><u>干净版本</u></a>。Hola 没有解释它的 Chrome Web 开发者账号是如何遭到入侵的。其他 Chrome 扩展开发者发生过类似的事件，多数是因为针对性的钓鱼攻击导致账号失窃。
+➜ARM 关闭了攻击 RISC-V 的网站
+https://www.solidot.org/story?sid=57160	30371
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "过去两年，面对RISC-V在嵌入式微控领域的快速崛起，ARM遭受到了一定的市场压力，近日开启了一个<a href="https://www.solidot.org/story?sid=57144" target="_blank">网站专门用于攻击RISC-V</a>(&nbsp;<a href="https://riscv-basics.com/" target="_blank" style="margin: 0px; padding: 0px; text-decoration-line: none; color: rgb(0, 93, 93); font-family: Arial; font-size: 13px; background-color: rgb(255, 255, 255);">riscv-basics.com</a><span style="color: rgb(71, 71, 71); font-family: Arial; font-size: 13px; background-color: rgb(255, 255, 255);">&nbsp;)</span>，但这种FUD市场策略的效果并不如ARM预期，并且遭到了不同领域的厂商和自由软件社区的反对，社区也建立了一个网站（<a target="_blank" rel="nofollow" href="https://www.arm-basics.com/">arm-basics.com</a>）进行对ARM的实际情况进行揭露，包括ARM的指令级授权必须占有产品1%的销售额提成，ARM指令级本质上非常的碎片化，由于其闭源的生态处理器的验证阶段消耗了巨大的时间成本以及ARM在安全方面的黑历史，这个反击ARM的网站同时也承认了当前RISC-V生态比ARM弱，但一直在高速成长。由于ARM的生态也重度依赖于自由软件的生态，可能是怕得罪了整个自由软件社区，ARM最终<a href="https://www.theregister.co.uk/2018/07/10/arm_riscv_website/" target="_blank">关闭了用于攻击RISC-V的网站</a>。"</i>
+➜黑客组织盗窃友讯证书传播后门恶意程序
+https://www.solidot.org/story?sid=57161	31883
+鲜为人知的网络间谍组织 BlackTech <a href="https://www.bleepingcomputer.com/news/security/blacktech-apt-steals-d-link-cert-for-cyber-espionage-campaign/" target="_blank"><u>被发现使用了</u></a>友讯科技（D-Link）的证书签名其恶意程序。相同的证书被用于签名友讯的官方软件，因此安全研究人员认为 BlackTech 使用的证书很有可能是窃取的。发现失窃证书的安全研究员 Anton Cherepanov 称，证书被用于签名两个恶意负荷，第一个是 PLEAD 后门，第二个是密码窃取程序。根据趋势科技去年发布的报告，BlackTech 过去使用过 PLEAD，它的攻击目标主要是在东亚地区，以台湾最为突出。它的密码窃取程序并不特别，只适应于四种程序——Internet Explorer、 Google Chrome、Mozilla Firefox 和 Microsoft Outlook。
+➜丹麦法庭判决流媒体音频下载网站非法
+https://www.solidot.org/story?sid=57162	40077
+在代表唱片行业的版权组织的要求之下，一家丹麦法庭在全世界<a href="https://torrentfreak.com/in-world-first-danish-court-rules-stream-ripping-site-illegal-180710/" target="_blank"><u>首次判决</u></a>流媒体音频下载网站 Convert2MP3 非法，命令 ISP 将其屏蔽。Convert2MP3 是一家允许用户从流媒体网站如 YouTube 下载音频，此类网站通常是基于开源流媒体下载和转码工具 <a href="https://rg3.github.io/youtube-dl/" target="_blank"><u>youtube-dl</u></a>，利用 youtube-dl，用户可以下载音频并将其转换到 MP3 格式，Convert2MP3 只不过是这种下载方式的一个在线入口。版权组织 Rights Alliance 称，Convert2MP3 对他们的对话要求置之不理，也根本没有理睬法庭听证会。
+➜西班牙环球宣布出售洋葱新闻和 Gawker Media
+https://www.solidot.org/story?sid=57163	40901
+西班牙环球在 2016 年分别<a href="https://www.solidot.org/story?sid=46952" target="_blank"><u>控股了洋葱公司</u></a>和以 1.35 亿美元<a href="https://www.solidot.org/story?sid=49347" target="_blank"><u>收购</u></a> Gawker Media 大部分资产，两年之后它宣布<a href="https://arstechnica.com/gaming/2018/07/two-years-after-buying-univision-wants-to-sell-its-gawker-onion-portfolios/#p3" target="_blank"><u>计划出售</u></a>所有相关的资产。该公司在一份<a href="https://corporate.univision.com/press/2018/07/10/univision-to-explore-potential-sale-of-gizmodo-media-group-and-the-onion/" target="_blank"><u>声明</u></a>中表示通过出售掉洋葱公司和 Gawker Media，它将把注意力集中到核心资产上，强化其作为服用于美国西班牙裔的头号媒体公司的地位。洋葱公司旗下包括了美国最好的新闻源洋葱新闻、AV Club 以及 Clickhole。Gawker Media 则是在 2016 年因为 Hulk Hogan 的色情录像带而遭到起诉，被法庭判罚 1.4 亿美元而宣布破产出售。
+➜澳大利亚的实验消灭了八成以上传播疾病的蚊子
+https://www.solidot.org/story?sid=57164	42985
+蚊子是一种关键的疾病传播媒介，控制传染病的一种方法就是控制蚊子数量，而控制蚊子数量的一种方法是创造出与雌性交配后无法产下后代的雄性蚊子。澳大利亚昆士兰州 Cassowary 海岸的一项实验显示，这种方法<a href="https://www.csiro.au/en/News/News-releases/2018/Trial-wipes-out-more-than-80-per-cent-of-disease-spreading-mozzie?featured=F29EDEB1728C4A92B579C7A5DC28BAD5" target="_blank"><u>消灭了八成以上传播疾病的蚊子</u></a>。这一结果被认为是对抗疾病传播蚊子的重大胜利。从 2017 年 11 月到今年 6 月，澳大利亚释放了数百万使用名叫昆虫不育术（Sterile Insect Technique）的技术处理过的雄性埃及伊蚊，它们与雌性交配后产下的卵不会孵化。这种技术诞生于 1950 年代，研究人员面临的挑战是培育出足够多的不育雄性蚊子。为了解决这一难题，作为 Debug 项目的一部分，Alphabet 的子公司 Verily 开发出了蚊子饲养、性别筛选和释放技术。
+➜FireEye 称中国黑客组织瞄准柬埔寨
+https://www.solidot.org/story?sid=57165	45883
+安全公司 FireEye <a href="https://www.ftchinese.com/story/001078439" target="_blank"><u>表示</u></a>，柬埔寨大选在即，一个中国黑客小组盯上了柬埔寨的反对派议员、政治机构、非政府组织以及媒体。FireEye 称，在柬埔寨即将于 7 月 29 日举行大选前，一个名为TEMP.Periscope 的网络间谍活动小组正使用一系列黑客工具获取柬埔寨个人和机构的计算机账户权限。这个小组连接到位于中国海南的服务器。FireEye 表示，这个小组在柬埔寨大选前很久就处于活跃状态了，并称该小组是近几个月最活跃的中国网络间谍小组之一。“我们预计其黑客活动能让中国政府纵览柬埔寨大选和政府运作，”FireEye 表示。中国政府否认其支持黑客攻击。
+➜足够多的眼睛，开源软件是否足够安全？
+https://www.solidot.org/story?sid=57166	46605
+ESR（Eric Raymond）在 1999 年创造出了 Linus' Law 这一术语，认为只要有足够多的眼睛，所有的 bug 都很容易发现。Linus' Law 的名字是为了纪念 Linux 之父 Linus Torvalds，多年来它被人们作为一个原则来解释开源软件的安全性应该更好。但过去几年，开源项目和开源软件曝出了多个严重安全漏洞，Linus' Law 是否无效了？VMware 副总裁兼首席开源官 Dirk Hohndel 认为 Linus' Law <a href="https://it.slashdot.org/story/18/07/10/1642226/with-so-many-eyeballs-is-open-source-security-better" target="_blank"><u>仍然有效</u></a>。他认为，无论是开源开发还是闭源开发模式，安全始终是一大挑战。开发者通常受到了创新的鼓舞，致力于找出能工作的方法，而安全通常不会优先考虑。安全不应该被视为开源或闭源概念的一部分，而是应该作为一个行业。

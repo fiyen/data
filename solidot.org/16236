@@ -1,0 +1,15 @@
+➜金士顿和必恩威在获得优评后改用廉价组件
+https://www.solidot.org/story?sid=39939	12623
+用户购买的产品常常被发现性能远不如媒体评测的同一款产品，原因是厂商改用了廉价组件以提高利润率。此类现象屡见不鲜。SSD制造商金士顿和必恩威（PNY）都被发现在评测公布之后<a target="_blank" href="http://www.extremetech.com/extreme/184253-ssd-shadiness-kingston-and-pny-caught-bait-and-switching-cheaper-components-after-good-reviews"><u>悄悄改变了配置</u></a>。媒体评测的必恩威Optima固态硬盘使用 Silicon Motion的控制器，但部分消费者购买的SSD使用了不同的固件和基于SandForce的控制器。必恩威承认有此事，但否认虚假宣传，声称满足宣传的最低性能水平。金士顿一年前推出的V300颇受好评，然而它在某个时候将同步NAND换成了异步NAND，异步NAND的性能目前远低于同步NAND。
+➜微软云计算用光了美国IPv4地址，开始使用全球库存
+https://www.solidot.org/story?sid=39941	35810
+如果你使用微软的Azure云服务，发现部署在美国的虚拟桌面使用的IP地址却是德国的，不要吃惊，原因是微软<a target="_blank" href="http://it.slashdot.org/story/14/06/14/1524254/microsoft-runs-out-of-us-address-space-for-azure-taps-its-global-ipv4-stock"><u>用光了</u></a>它拥有的美国IPv4地址空间，开始使用全球IPv4地址池。微软Azure官方博客<a target="_blank" href="http://blog.azure.com/2014/06/11/windows-azures-use-of-non-us-ipv4-address-space-in-us-regions/"><u>透露了这一消息</u></a>，指出IP地址不等于物理地址，例如你可能使用位于弗吉尼亚的服务器但分配到巴西的IP地址。微软声称，Azure支持IPv6的工作进展顺利，但没有公开启用IPv6的时间表。IPv6使用128位长的地址，有2^128个可用地址，其可用地址数量比IPv4多出几十个数量级。
+➜欧洲网购者将有14天时间决定是否退货
+https://www.solidot.org/story?sid=39942	39034
+欧盟地区的网购者可以放心在网上购买商品了，新的法律给予他们14个日历日的时间决定是否改变心意。在此时间段内，他们选择退货可以获得全额退款，而以前全额退款的有效期是7个工作日。新的法律还首次对数字内容如音乐电影电子书的退货<a target="_blank" href="http://www.bbc.co.uk/news/technology-27836293"><u>做出了规定</u></a>：消费者可以在14天内取消数字内容的订单，但前提是他们没有下载数字内容。一旦下载开始，他们取消订单的权利将会视为放弃。在线零售商需要提前向消费者发出警告，而消费者在开始下载前需要确认和同意这些条件。
+➜Deepin 2014 RC发布
+https://www.solidot.org/story?sid=39943	43950
+<a href="http://www.linuxdeepin.com/index.cn.html">Deepin</a> 写道 <i>"Deepin已经发布<a target="_blank" href="http://planet.linuxdeepin.com/archives/6800"><u>2014 RC版本</u></a>，对桌面环境和软件进行了诸多改进，更多详情请查看官方公告。Deepin是基于Ubuntu的发行版，新版的主要变化包括深度桌面环境2.0和深度安装器，小变化包括右键新增了“热区设置”功能，Dock和通知区合二为一；启动器新增了收藏界面和中文拼音搜索，右键增加“卸载软件 ”功能；等等。</i>
+➜前Mozilla CEO Brendan Eich辞职内情
+https://www.solidot.org/story?sid=39944	52244
+几十年前，CEO面临的主要问题是能为股东带来什么回报。而今天的CEO被问到的问题则是枪支控制、移民、堕胎、大政府和同性恋婚姻。这就是科技公司任期最短CEO的遭遇的大背景。Brendan Eich因为2008年支持加州反同性恋婚姻提案而在就任Mozilla CEO九天后辞职。CNET报道了<a target="_blank" href="http://www.cnet.com/news/mozilla-under-fire-inside-the-9-day-reign-of-fallen-ceo-brendan-eich/"><u>他的辞职内幕</u></a>。这位Mozilla联合创始人、最流行Web程序语言作者彻底离开了Mozilla，一度在社交媒体也销声匿迹，直到最近才重新活跃。在维护宪法第一修正案赋予的言论自由权利上，政治正确让硅谷高科技公司CEO面临比普通美国人更少的自由。Brendan和另一位联合创始人Mitchell Baker在1998年创建了基于Netscape源代码的开源浏览器项目，他是Mozilla真正的大脑，拥有最高的权威，过去十几年Mozilla的策略都是由Brendan做出的。在支持反同提案的争议日益高涨的时候，他选择了退出，在给雇员的告别邮件中，Brendan写到，“在目前的情况下，我不能成为Mozilla的有效领导人。”Mozilla基金会在同意他辞职时，提供了一个最高级的职位，但他拒绝了。

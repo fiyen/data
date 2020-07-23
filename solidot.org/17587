@@ -1,0 +1,38 @@
+➜GitHub 停止支持弱加密
+https://www.solidot.org/story?sid=55597	25479
+GitHub 通过官方博客宣布了网站的多个变化，从即日起 github.com 和 api.github.com<a href="https://github.com/blog/2507-weak-cryptographic-standards-removed" target="_blank"><u> 停止支持</u></a>弱加密标准（TLSv1/TLSv1.1，SHA1）； Gist 服务<a href="https://github.com/blog/2503-deprecation-notice-removing-anonymous-gist-creation" target="_blank">停止支持匿名</a>，从 3 月 19 日起创建 Gist 代码片段需要注册，GitHub 此举是因为该服务被滥用创建垃圾信息；问题和 pull request 标签<a href="https://github.com/blog/2505-label-improvements-emoji-descriptions-and-more" target="_blank"><u>支持</u></a>绘文字和悬停描述。
+➜1Password 用户无需发送密码即可检查密码是否已被泄露
+https://www.solidot.org/story?sid=55598	28362
+你也许担心自己的密码已被泄露，但又不愿意去查询密码是否真的泄露，因为你害怕提供查询服务的网站很可能本身就是某种蜜罐。但现在，新的工具可以让你<a href="https://arstechnica.com/information-technology/2018/02/new-tool-safely-checks-your-passwords-against-a-half-billion-pwned-passwords/" target="_blank"><u>在不透露密码的情况下查询密码是否遭到泄漏</u></a>。安全研究员 Troy Hunt 本周<a href="https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/" target="_blank"><u>发布了</u></a>新版的密码搜索工具 <a href="https://haveibeenpwned.com/Passwords" target="_blank"><u>Pwned Passwords</u></a>，包含了超过 5 亿被泄露的密码。1Password 随后在其管理工具中<a href="https://blog.agilebits.com/2018/02/22/finding-pwned-passwords-with-1password/" target="_blank"><u>整合了该服务</u></a>。1Password 查询的不是明文密码，而是 SHA-1 哈希后的密码，而且不是完整的哈希字符串，新版 Pwned Passwords 只需要 40 个哈希字符的前 5 个。Pwned Passwords 会向 1Password 发回包含这 5 个字符的所有泄漏密码哈希列表，然后 1Password 在本地将列表与密码的完整哈希进行对比，如果匹配的话你需要修改密码了。
+➜国产开源跨平台手游游戏引擎 Mojoc
+https://www.solidot.org/story?sid=55599	45111
+匿名读者 写道 "<a href="https://github.com/scottcgi/Mojoc" target="_blank">Mojoc</a>是一个开源(MIT License)，跨平台，使用C语言编写的游戏引擎。基于OpenGLES3的渲染和C99的语法写成。目前，可以跨平台工作在Android和IOS上，也很容易扩展到其它平台。源代码托管在GitHub。核心理念是：保持简单，追求简单，简单充满了力量。而简单的背后，是更多的思考，实践与重构。
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;主要特性：
+</p>
+<ul class="custom_dot para-list list-paddingleft-1" style="margin: 0px 0px 15px 2em; padding: 0px; list-style: none; font-size: 12px; text-indent: 0px;">
+<li class="list-dot list-dot-paddingleft" style="margin: 0px; padding: 0px; list-style: none;">
+所有的代码实现，只是用了C语言和C99的语法特性。
+</li>
+<li class="list-dot list-dot-paddingleft" style="margin: 0px; padding: 0px; list-style: none;">
+在平台独立的代码中，只使用了C语言的标准库，其它的功能手动实现。
+</li>
+<li class="list-dot list-dot-paddingleft" style="margin: 0px; padding: 0px; list-style: none;">
+使用了具有独特风格的C语言代码书写格式。
+</li>
+<li class="list-dot list-dot-paddingleft" style="margin: 0px; padding: 0px; list-style: none;">
+使用了非常简单，轻量级的，OOC面向对象抽象模型。
+</li>
+<li class="list-dot list-dot-paddingleft" style="margin: 0px; padding: 0px; list-style: none;">
+基于一种组件，状态机，消息驱动，三合一的游戏逻辑架构。
+</li></ul>"
+➜科学家利用大数据绘制全球渔业热图
+https://www.solidot.org/story?sid=55601	51312
+<div align="center"><img src="//img.solidot.org/0/547/li4YixWIR7UQ.png" width="450" height="295" align=""><br>
+</div>
+<br>
+科学家利用海上船只发送的 220 亿识别信息<a href="http://www.bbc.co.uk/news/science-environment-43169824" target="_blank"><u>绘制了</u></a>全球渔业活动热图。<a href="http://science.sciencemag.org/content/359/6378/904" target="_blank"><u>研究报告</u></a>发表在《科学》期刊上。船舶安装的自动识别系统会每几秒发送它的位置、航线和速度信息。研究人员分析了 2012 年到 2016 年的数据，发现超过  55% 的海洋遭到工业性的捕鱼。渔业从面积上看四倍多于农业。研究发现，对渔业活动的最大影响不是厄尔尼诺之类的环境因素而主要是政治和文化。中国、西班牙、台湾、日本和韩国的船队占到了公海捕鱼活动的 85% 以上。捕鱼热点区域包括了大西洋东北部和太平洋西北部，以及南美和西非周围的富营养区域。

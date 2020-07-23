@@ -1,0 +1,73 @@
+➜Mempo：对抗大规模监控的Debian
+https://www.solidot.org/story?sid=39541	5802
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "对于生活在后棱镜时代的黑客们日子真不是太好过，在Snowden爆光了NSA的一系列针对全球的监控以后，自由软件社区正在稳步的进行着有效的反击方案，<a target="_blank" href="http://mempo.org/">Mempo项目</a>就是其中之一，该项目的目的是提供最安全的桌面和服务器发行版，用以对抗类似棱镜计划的大规模监控，Mempo是由一个开放的团队组成，包括来自<a target="_blank" href="https://wiki.debian.org/Mempo">Debian和其他社区</a>，Mempo在第一阶段主要针对Debian进行了大规模的加固，包括Grsecurity/PaX内核加固，针对用户态程序的RBAC规则，GCC的mitigation编译选项，去除一些应用程序的JIT，iptables防火墙规则，简单的创建XEN虚拟机，对重要程序进行隔离，匿名网络TOR+VPN+Darknet以及build多签名等安全加固工作。在这里也呼吁中文社区的old school黑客们参与到社区中来，和捐赠给Mempo项目或者类似EFF的机构。
+</i>
+<p></p>
+<!--more-->
+<p></p>
+<p>btw: Debian社区可能是目前聚集old school黑客(包括无zf主义)最多的GNU/Linux distro社区，妈的...世界是RedHat的，也是SuSE，但最终是Debian的;-)</p>
+➜Mozilla与Adobe合作开发闭源的DRM，FSF深感失望
+https://www.solidot.org/story?sid=39542	12290
+W3C去年<a target="_blank" href="http://www.solidot.org/story?sid=34678"><u>发布了</u></a>加密媒体扩展（EME）的工作草案，在开放的HTML5标准中加入了闭源的DRM。EME草案引发了争议，自由软件基金会（FSF）将5月3日定义为<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=34521"><u>国际反DRM日</u></a>，呼吁W3C取消EME。虽然如此，EME仍然获得了主要浏览器开发商的支持。现在，Mozilla CTO Andreas Gal<a target="_blank" href="http://andreasgal.com/2014/05/14/eme/"><u>宣布</u></a>将与Adobe合作实现EME。他说，虽然Mozilla的开放Web哲学理念与限制用户访问内容的DRM理念相悖，但Firefox必须帮助用户访问他们喜欢的内容。他承认实现闭源DRM的决定是困难而不舒服，随后进一步阐述了如何在开源的Firefox代码中包含闭源的EME模块：EME利用Content Decryption Module(CDM)实现DRM功能，Firefox不直接载入这一模块，而是将其封装在开源的沙盒内；在Mozilla的实现中， CDM无权访问用户的硬盘或网络，而是由沙盒向CDM提供一个通讯机制接收加密数据。FSF已发表<a target="_blank" href="http://www.fsf.org/news/fsf-condemns-partnership-between-mozilla-and-adobe-to-support-digital-restrictions-management"><u>声明</u></a>，对Mozilla的决定深感失望，认为Mozilla是与自由软件运动的敌人为伍，违背了它的基本原则。
+➜KDE发布下一代Plasma Workspace的beta版
+https://www.solidot.org/story?sid=39543	14199
+<div align="center"><a href="http://img.solidot.com.cn/0/283/liUDtRQroufUo.png"><img src="http://img.solidot.com.cn/0/283/liUDtRQroufUo.png" align="" height="350" width="560"></a><br>
+<br>
+</div>
+KDE<a target="_blank" href="http://kde.org/announcements/announce-plasma-next-beta1.php"><u>发布了</u></a>下一代Plasma Workspace的首个beta版。Plasma Next是基于Qt5和KDE Frameworks 5，提供了现有KDE用户熟悉的桌面体验。根据发布计划，开发者计划在6月10日发布Beta2，7月8日发布RC版，7月15日发布正式版。Plasma Next的beta1 还不稳定，用户可选择下载<a target="_blank" href="http://files.kde.org/snapshots/neon5-latest.iso"><u> live OS</u></a>体验测试一下。<br>
+➜索尼将拍摄Edward Snowden电影
+https://www.solidot.org/story?sid=39544	14732
+索尼影业<a target="_blank" href="http://www.securityweek.com/sony-make-film-edward-snowden-story"><u>获得了</u></a>记者Glenn Greenwald刚刚出版的新书《<a target="_blank" href="http://us.macmillan.com/noplacetohide/GlennGreenwald">No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State</a>》的电影改编权。该书讲述了前NSA合同工Edward Snowden泄露NSA机密的经过。007邦德电影制作人 Michael Wilson和Barbara Broccoli将根据本书制作一部让今天的电影观众产生共鸣的政治影片。索尼子公司、哥伦比亚影业的Doug Belgrad对Michael、Barbara和Glenn选择索尼拍摄影片表无比荣幸。
+➜Deepin 2014 Beta发布
+https://www.solidot.org/story?sid=39545	16596
+<a href="http://distrowatch.com/table.php?distribution=deepin">Deepin</a> 写道 <i>""<a href="http://planet.linuxdeepin.com/archives/6295" target="_blank">Deepin2014 Beta</a>（Linux Deepin改名为Deepin)发布，修正了Deepin Alpha版本的大量Bug和新增功。主要变化是：增加系统级别托盘；控制中心功能完善和稳定；微质感主题；默认搭载更多软件；等等。"
+"</i>
+➜一细胞分子被发现或有助于延寿
+https://www.solidot.org/story?sid=39546	20710
+根据发表在《自然》期刊上的<a target="_blank" href="http://dx.doi.org/10.1038/nature13264"><u>一篇论文</u></a>，科学家发现一种细胞分子<a target="_blank" href="http://news.sciencemag.org/biology/2014/05/cellular-compound-may-increase-lifespan-without-need-strict-dieting"><u>可能有助于延寿</u></a>，而且不需要严格控制饮食。实验对象是线虫，不能保证对人类有同样效果。<br>
+<i>研究人员过去几十年已经知道，动物如果严格控制饮食（即限制热量摄入）将可以延长寿命或避免与年龄相关的疾病。但科学家至今并不清楚限制热量摄入为什么能延寿，而严格控制饮食也不是什么令人愉快的体验。研究人员开始寻找替代方法减缓衰老和延长寿命。哈佛公共卫生学院的研究人员对线虫测试了分子α-ketoglutarate (α-KG)，这种分子是代谢循环中的一种中间物，帮助细胞从食物中提取能量。当研究人员在线虫的培养皿中加入额外的α-KG，其寿命比普通线虫延长了最多70%。实验组线虫细胞内含有的α-KG水平比对照组高出50%。除了延寿，它还和限制热量摄入一样，能延迟线虫身体性能的退化。这种分子有一个副作用是阻止肌肉生长。</i>
+➜用扫描仪Google周围的物理世界
+https://www.solidot.org/story?sid=39547	24310
+<center>
+<iframe src="https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo/widget/video.html" scrolling="no" frameborder="0" height="360" width="480"> </iframe>
+</center><br>
+没有多少技术能像Google一样几乎无所不包，但世界上最大的搜索引擎仍然有一大短板：你周围的物理目标。你可以输入苹果这个词，但无法搜索厨房柜台里的苹果这个物理对象；你可以Google药物，但无法Google钱包里发现的药片。《连线》<a target="_blank" href="http://www.wired.com/2014/05/scio/"><u>报道了</u></a>一家以色列特拉维夫的创业公司 Consumer Physics，它准备用手持扫描仪去填补上这一空缺。扫描仪叫<span itemprop="articleBody"> Scio，和U盘一般大小，</span>能判断食物和药物的分子构成。Scio能发射一束光，你可以用它照射水果，设备将会根据近红外光谱透过智能手机应用告诉你水果的营养成分。Consumer Physics上个月在众筹网站Kickstarter发起集资，目标是20万美元，但至今已经超过了146万美元。
+➜IETF将无处不在的监视视为攻击
+https://www.solidot.org/story?sid=39548	27142
+互联网工程任务组（IETF）<a target="_blank" href="http://yro.slashdot.org/story/14/05/14/1248205/rfc-7258-pervasive-monitoring-is-an-attack"><u>决定</u></a>采用RFC 7258，将其作为一项政策，在可能的情况下设计新协议时需要考虑减轻无处不在的监视。RFC 7258的标题是“<a target="_blank" href="http://www.rfc-editor.org/rfc/rfc7258.txt"><u>无处不在的监视是一种攻击</u></a>”，IETF指出，许多财力雄厚的实体视监视用户使用互联网为理所当然，这种监视行为是对用户和组织隐私的攻击。它同时指出，随着技术的进步，监视技术变得平民化了，减轻无处不在的监视因此变成了抵抗类似攻击的保护措施。
+➜研究人员督促爱沙尼亚停用电子投票，爱沙尼亚拒绝警告
+https://www.solidot.org/story?sid=39549	29326
+爱沙尼亚政府去年在GitHub上<a target="_blank" href="http://www.solidot.org/story?sid=35572"><u>公开了</u></a>电子投票系统服务端的<a target="_blank" href="https://github.com/vvk-ehk/evalimine"><u>源代码</u></a>，希望全世界的专家帮助评估系统的安全性。现在，一组全球IT专家<a target="_blank" href="http://it.slashdot.org/story/14/05/14/1418256/estonia-urged-to-drop-internet-voting-over-security-fears"><u>发出了安全警告</u></a>，但爱沙尼亚国家选举委员会对警告不以为然。研究人员公开了<a target="_blank" href="https://estoniaevoting.org/"><u>报告</u></a>，称爱沙尼亚的电子投票系统存在严重安全隐患，操作安全太松散、透明措施不足、容易受到网络攻击，比如来自俄罗斯的国家资助的网络攻击。研究人员督促爱沙尼亚停止使用电子投票。对此警告，爱沙尼亚国家选举委员会回应说，研究人员没有发现任何在设计时没有考虑到的新攻击向量，称选举委员会有许多保障措施和安全机制检测对选举的攻击或操纵投票结果。
+➜美国会图书馆调查旧光盘的寿命
+https://www.solidot.org/story?sid=39550	31845
+<div align="center"><img src="http://img.solidot.com.cn/0/284/liXhDWdWjjEto.png" align=""><br>
+<br>
+</div>
+你精心收藏的宝贝CD光盘逐渐变成了废物。美国国会图书馆的研究人员<a target="_blank" href="http://www.theatlantic.com/technology/archive/2014/05/the-library-of-congress-wants-to-destroy-your-old-cds-for-science/370804/"><u>正在调查CD的老化</u></a>，试图计算CD的寿命，以更好的保存它们。但此事非常棘手，很大程度上是因为CD制造商改变工艺但又从未给出解释。而CD主要由一层聚碳酸酯塑料构成，表面上看不出年代多久。研究人员指出，不同的公司有不同的材料配方，而即使是同一批同一时期的产品，光盘的寿命也会千差万别。他们测试了两个完全相同的光盘，在175度以上高温和70度湿度下煮了几百小时加速老化，结果一张几乎没什么损伤，另一张的数据则完全破坏了（如图所示）。
+➜研究称考试压力是青少年自杀主因
+https://www.solidot.org/story?sid=39551	33366
+官方媒体引用21世纪教育研究院的研究称，<a target="_blank" href="http://cn.wsj.com/gb/20140515/rcu162210.asp"><u>自杀是导致15至34岁群体死亡的第一大原因</u></a>。研究人员考察了2013年79起中小学学生自杀案件，结果发现几乎所有的案件（92%）都发生在青少年经历了与学校有关的压力后，比如与老师发生争吵。约有63%的案件发生在高年级群体。高年级学生面临中考或高考，通常压力更大。中国的教育体系因为过于注重死记硬背以及激烈的竞争而饱受诟病。条件好的家庭常常会让孩子参加各种辅导班，指望他们比同龄孩子更有优势。从小学到大学，要想进入一所好学校，都要面临激烈的竞争。高考成绩优秀对整个家庭都是一种巨大的荣耀，许多中国家庭都只有一个子女，全家人的希望都寄托在孩子身上。
+➜银河超大质量黑洞也许是虫洞伪装的
+https://www.solidot.org/story?sid=39552	35416
+越来越多的证据表明，银河系中心有一个质量400万倍于太阳的神秘物体，称为人马座A *的物体被众多天文学家认为是超大质量黑洞，形成于创世大爆炸一亿年后。超大质量黑洞吸引了大量气体尘埃，最终形成了我们今天的银河系。但一个问题是，一亿年不足以让一个黑洞成长到如此巨大。人马座A *的另一种替代解释是：<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/bb5ae64fa4fa"><u>它是虫洞</u></a>，连接银河与宇宙的另外一个区域，甚至可能是连接另一个多重宇宙。宇宙学家相信，虫洞能在创世大爆炸后的瞬间形成，能在暴涨过程中幸存下来，这些超大质量物体会像黑洞一样藏身于视界之内。上海复旦大学物理系的两位科学家在预印本网站上<a target="_blank" href="http://arxiv.org/pdf/1405.1883v1.pdf"><u>发表论文</u></a>（PDF），提出了区分虫洞和黑洞的方法，但目前还没有望远镜能提供区分两者的高分辨图像。位于智利的超大望远镜干涉阵列(Very Large Telescope Interferometer)的升级仪器<a target="_blank" href="http://www.mpe.mpg.de/ir/gravity"><u>GRAVITY </u></a>或许能在未来几年解开这一谜团。
+➜Coinbase向大学生赠送10美元比特币
+https://www.solidot.org/story?sid=39553	37290
+在MIT比特币俱乐部上个月宣布向4528名本科生赠送<a target="_blank" href="http://www.solidot.org/story?sid=39352"><u>价值100美元</u></a>的比特币后，比特币交易网站Coinbase决定模仿这一活动，<a target="_blank" href="http://blog.coinbase.com/post/85758038492/10-of-free-bitcoin-for-college-students"><u>宣布</u></a>向所有大学生赠送10美元比特币。每一位用<span id="docs-internal-guid-6cde0a71-fcc0-35f8-5e6c-c29741b68a2e"><span> .edu邮箱注册</span></span>Coinbase账号的新用户都将一次性获得价值10美元的比特币。10美元的比特币礼物不局限于美国大学，Coinbase表示将支持排名全球前500位的大学，也就是说中国的一流大学如北大清华的学生也可能获得比特币礼物。
+➜太阳风或使得闪电数量增加
+https://www.solidot.org/story?sid=39554	39261
+科学家发现，太阳风抵达地球大气层后<a target="_blank" href="http://www.bbc.com/news/science-environment-27406358"><u>闪电数量随之增加</u></a>。根据北欧地区的监测数据，太阳风抵达40天内平均发生422次闪电，而之前40天平均发生 321次。研究还发现，太阳风的速度和强度增加，闪电频率也跟着增加。研究人员不确定背后的机制，推测可能是太阳风粒子渗透到暴风云中，使之更容易以闪电的形式放电。
+➜Google认为至少需要六年无人驾驶汽车才能真正上路
+https://www.solidot.org/story?sid=39555	39857
+谷歌无人驾驶汽车项目组总监厄姆森(Chris Urmson)表示，无人驾驶汽车距离问世<a target="_blank" href="http://cn.wsj.com/gb/20140515/tec081651.asp"><u>至少还需要六年</u></a>的时间。厄姆森和其他谷歌员工表示，谷歌尚未决定是自主设计汽车，还是将软件和操作系统提供给汽车厂商。厄姆森表示，谷歌无人驾驶汽车价格昂贵，但他未透露具体数字。厄姆森解释说，车辆顶端配置的激光传感器由位于硅谷的Velodyne制造，造价相当昂贵。这种激光设备每年的产量约为150个，从而拉升了汽车零部件的总价。但大批量生产后价格将会下降。谷歌无人驾驶汽车在复杂气候条件下的能力有限，如大雨或者暴雨天系统会要求切换到手动驾驶，而下雪天的驾驶尚未测试。
+➜神经元永远不会忘记一张脸
+https://www.solidot.org/story?sid=39556	40914
+人类的大脑大约有一千亿个神经元，每个神经元都有不同的功能，其中一个功能是识别脸，将一个人的外表与其对应起来。<a target="_blank" href="http://arstechnica.com/science/2014/05/neurons-never-forget-a-face/"><u>这种脸部识别能力能保存数年时间</u></a>，即便大脑一直持续的改变神经元的连接线路。美国国家卫生研究院的一组研究人员，使用功能性核磁共振成像记录猕猴观看脸部图像的大脑活动，定位了脸部识别神经元所在的大脑区域。他们发现，特定面孔的神经元以相同的方式对相同的面孔作出反应，不论是间隔几天还是间隔几年。研究暗示，大脑神经连线的重组对神经元的面部识别几乎不构成影响。<br>
+➜照片显示NSA在思科路由器中植入后门
+https://www.solidot.org/story?sid=39557	43808
+<div align="center"><img src="http://img.solidot.org/0/285/limf7Hhy2cfBk.jpg" width="560" height="290" align=""><br>
+<br>
+</div>
+记者Glenn Greenwald在新书《No Place to Hide》中提供的机密文档披露了NSA的Tailored Access Operations (TAO) 部门及相关雇员拦截运送给监视目标的服务器、路由器和其它网络设备，秘密植入定制的固件，最后再重新打包。日期为2010年6月的文档<a target="_blank" href="http://arstechnica.com/tech-policy/2014/05/photos-of-an-nsa-upgrade-factory-show-cisco-router-getting-implant/"><u>还包含了照片</u></a>（如图所示），显示NSA雇员正在打开思科路由器的包装箱，然后在路由器上安装执行特定任务的固件。NSA的管理人员在文档中描述了他们的工作方式：第一步截获运送给全世界各个监视目标的网络设备；第二步将设备运送到NSA雇员所在的秘密地点，安装信标植入物（beacon implants），最后重新打包运送到原始目的地。
+➜微软终于不再向XP发布补丁
+https://www.solidot.org/story?sid=39558	44908
+微软本周二发布的例行补丁<a target="_blank" href="http://blogs.windows.com/windows/b/windowsexperience/archive/2014/05/13/windows-xp-pcs-no-longer-receiving-updates.aspx"><u>不再包含XP平台</u></a>。Windows XP于4月8日终止支持，但在一个影响IE6的漏洞曝光之后，微软仍然向XP用户释出了安全更新。这只是一次特例。本周二例行补丁修复的一个漏洞也影响到了IE6浏览器，但这次微软没有向XP用户释出更新。Windows XP现在是一个容易被攻击者渗透的系统了，黑客已经准备好了。<br>

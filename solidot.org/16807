@@ -1,0 +1,56 @@
+➜中国股市交易15分钟收盘，四天两次触发熔断
+https://www.solidot.org/story?sid=46791	9536
+受人民币快速贬值等因素的冲击，中国股市周四出现暴跌，触发熔断机制，暂停交易15分钟后重新开盘继续暴跌，再次触发熔断机制，于是<a target="_blank" href="http://finance.caixin.com/2016-01-07/100896914.html">股市收盘了</a>。中国股票交易今年正式引入熔断机制以来，开年四天就有两天因为触发熔断机制提前收盘，周四的交易时间更是创下了记录。分析师对中国目前实行的熔断机制<a target="_blank" href="http://www.ftchinese.com/story/001065202?full=y"><u>持批评观点</u></a>，认为涨跌停板机制已经足够了，熔断设定的阈值过低，太容易触发了。
+➜Netflix服务扩大到全球，但不包括中国
+https://www.solidot.org/story?sid=46792	11201
+世界最大的流视频服务商Netflix发表<a target="_blank" href="https://media.netflix.com/en/press-releases/netflix-is-now-available-around-the-world"><u>新闻稿</u></a>，宣布将服务扩大到全球130多个国家，其中不包括中国。CEO Reed Hastings说，人们将见证新的全球互联电视网的诞生。全世界的消费者，从新加坡到圣彼得堡，从旧金山到圣保罗，都能同步享受电视剧和电影——不再需要等待。Netflix加入了对阿拉伯语、韩语、简体和繁体中文等语言的支持，去年早些时候有<a target="_blank" href="http://www.solidot.org/story?sid=44084"><u>报道</u></a>称Netflix正与中国媒体公司协商寻求进入中国的在线视频市场，目前看来Netflix进入中国已经万事俱备，就差中国政府批准了。在新闻稿中，Netflix说它正在继续探索进入中国的选项。
+➜报道称Facebook为测试用户忠诚度有意崩溃Android 应用
+https://www.solidot.org/story?sid=46793	14818
+The Information<a target="_blank" href="https://www.theinformation.com/facebooks-android-contingency-planning?unlock=3cadc6&amp;token=ba261613a50a28bcfcaa759c51ed3b4a99c213f4"><u>报道</u></a>（付费墙，<a target="_blank" href="https://i.imgur.com/umOEvs7.jpg"><u>镜像</u></a>），Facebook正秘密计划将其移动应用脱离Google Play平台，让用户直接从它的网站下载移动应用而不是通过Google控制的应用商店，这一做法类似亚马逊。它采取了一些措施去衡量用户的忠诚度，其中包括引入人为的错误每隔几小时自动崩溃一次它的Android 应用，观察用户抛弃其应用的临界值。报道援引知情人士的消息称，该公司至今没有触发到临界值，用户总是会回来。即使应用不能工作，Facebook的用户仍然会通过移动浏览器访问它的社交网站。Facebook的应用使用了Google Maps定位，如果两家公司爆发冲突，Google不允许它再使用Maps，Facebook也准备好迁移到HERE地图。Facebook的移动应用是Google Play上最受欢迎的应用之一，也被广泛预装到移动手机上。它的服务在中国被屏蔽，但小米和华为出口的手机仍然会预装Facebook。
+➜空客推出反无人机系统
+https://www.solidot.org/story?sid=46794	18211
+随着消费者无人机的爆炸式增长，它对空中安全的危险性也日益增大。客机的飞行员在降落时报告过近距离接触的无人机。现在，空中客车的防御和空间部门<a target="_blank" href="http://www.networkworld.com/article/3019660/security/not-in-my-airspace-airbus-rolls-out-anti-drone-system.html"><u>开发出了反无人机系统</u></a>，利用红外线相机、雷达和传感器去识别和跟踪6英里外的无人机。如果前方飞来的无人机被认为可疑，系统将使用电子信号干扰无人机的通信。干扰器根据控制信号的实时分析和已有的威胁信息库中断无人机与操作员之间的连接，它的探向器还能跟踪操作员的位置，让执法部门根据位置信息处理无人机操作者。
+➜苹果应用商店2015年销售额突破200亿美元
+https://www.solidot.org/story?sid=46795	19427
+苹果发表<a target="_blank" href="http://www.apple.com/pr/library/2016/01/06Record-Breaking-Holiday-Season-for-the-App-Store.html"><u>新闻稿</u></a>，宣布2015年应用商店销售额突破200亿美元。根据30%的收益分成，苹果在应用商店获得了超过60亿美元的收入。苹果应用商店里约150万个可供下载的应用，<a target="_blank" href="http://cn.wsj.com/gb/20160107/tec072816.asp"><u>提振了该公司利润丰厚的硬件吸引力</u></a>，也协助区隔了苹果和其竞争对手的产品。苹果表示，其应用商店于1月1日缔造史上最高的单日销售额，顾客当天消费了逾1.44亿美元。苹果表示，自2008年以来向开发商支付近400亿美元。
+➜HTTPS Bicycle攻击能在加密流量中发现密码的长度信息
+https://www.solidot.org/story?sid=46796	26641
+安全研究员 Guido Vranken报告了针对流加密的<a target="_blank" href="https://guidovranken.files.wordpress.com/2015/12/https-bicycle-attack.pdf"><u>HTTPS Bicycle攻击</u></a>（PDF），目前常用的加密技术是块加密，块加密的安全性高于流加密。HTTPS&nbsp; Bicycle攻击允许攻击者通过检查HTTPS加密流量提取出一些有用的信息，比如密码的长度，然后根据密码长度展开暴力破解攻击。这种攻击技术可以用于发现cookie头的长度， GPS地理位置信息、IPv4地址，等等。HTTPS&nbsp; Bicycle攻击可用于追溯分析许多年前的HTTPS流量。
+➜《精神世界2》众筹目标达成
+https://www.solidot.org/story?sid=46797	28537
+<center>
+<iframe src="https://www.youtube.com/embed/i7i2yfqp8pc" allowfullscreen="" frameborder="0" height="360" width="480"></iframe><br>
+<br>
+</center>
+Double Fine 在Fig上发起的《精神世界2》众筹活动，终于在活动结束前5天<a target="_blank" href="https://www.fig.co/campaigns/psychonauts-2?update=45#updates"><u>达成了330万美元的众筹目标</u></a>，超过2万名支持者承诺资助335万美元。《精神世界2》是备受好评但并不卖座的《<a target="_blank" href="https://en.wikipedia.org/wiki/Psychonauts">精神世界</a>》的续集，330万美元只是游戏开发费用的一小部分，Double Fine称其它的开发费用来自一位外部合作伙伴和它自己。Double Fine最著名的是众筹游戏是《Broken Age》，但整个开发过程出现了很多问题，导致了游戏延期。在新游戏的开发中，Double Fine大概会吸取《Broken Age》上的教训。《精神世界2》计划在2018年发布。
+➜Oculus Rift开放预售，中国不在发售国家内
+https://www.solidot.org/story?sid=46798	30306
+<div align="center"><img src="http://img.solidot.org/0/339/liv7yI2RCkxJE.jpg" align="" height="200" width="500"><br>
+<br>
+</div>
+虚拟现实显示器制造商Oculus<a target="_blank" href="https://www.oculus.com/en-us/blog/oculus-rift-pre-orders-now-open-first-shipments-march-28/"><u>宣布开放预售Rift</u></a>，预购价格599美元，将在3月28日发货，首批发售的<a target="_blank" href="https://support.oculus.com/hc/en-us/articles/216091397-Initial-Launch-Countries"><u>20个国家</u></a>没有中国。Oculus称未来会扩大销售的地区。预购的产品捆绑了虚拟现实网游《EVE: Valkyrie》和《Lucky’s Tale》。Oculus称，到2016年底会有超过100款游戏登陆Rift，其中包括《我的世界》。Oculus公布了支持Rift的PC规格，显卡要求NVIDIA GTX 970 / AMD R9 290，CPU要求 i5-4590 ，内存要求8GB以上。该公司计划在2月份推出Oculus Ready PC和Rift的捆绑，起售价1499美元。对于600美元的定价，Oculus创始人Palmer Luckey曾评价说没人会买，认为产品的合理价格区是200到400美元。
+➜快播CEO王欣当庭否认犯罪
+https://www.solidot.org/story?sid=46799	31745
+<a href="/~王明睿">王明睿</a> 写道 <i>"1月7日北京市海淀法院对快播CEO王欣等人<a target="_blank" href="http://www.techweb.com.cn/digitallife/2016-01-07/2254440.shtml">举行公开审理</a>。北京警方指控快播公司为牟利，放任淫秽视频传播，并认定21251个“淫秽视频”。在庭审现场，王欣否认公司和个人构成犯罪。他表示，用户点播什么文件快播是不掌握的,快播并不提供内容给网民。此外，快播从09年的时候就开始对于文件名进行了过滤，也有一个举报系统并一直在逐步完善。王欣对抽检视频中有“大概70%的视频都是淫秽视频”表示不解，他强调，目前技术上无法提前知道播放的视频是否是淫秽视频。"</i>
+➜法官认为猴子不拥有它的自拍照版权
+https://www.solidot.org/story?sid=46800	33474
+<div align="center"><img src="http://img.solidot.com.cn/0/498/liVcs9Hm1ZiCU.jpg" align="" height="415" width="300"><br>
+<br>
+</div>
+2011年，印度尼西亚国家公园的猴子在玩耍摄影师David Slater的相机时按动相机快门拍了多张著名的猴子自拍照。David Slater声称拥有这些自拍照的版权，未经许可不能擅自使用，他通过自出版平台Blurb发表了这些自拍照。动物保护组织PETA试图代表这只6岁大的猴子Naruto起诉David Slater和Blurb，宣称猴子拥有自拍照的版权，要求被告为侵犯猴子的版权赔偿经济损失。美国版权署在2014年<a target="_blank" href="http://www.solidot.org/story?sid=40849"><u>表示</u></a>，版权署不登记自然、动植物产生的作品。本周三，美国旧金山地区法官 William Orrick在听证会上表示，<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/judge-says-monkey-cannot-own-copyright-to-famous-selfies/"><u>猴子不拥有它的自拍照版权</u></a>，他同时认为猴子有没有自拍照版权的问题应该由国会和总统决定。
+➜伊斯兰国谋杀了一位活动人士，然后冒充她在社交媒体上诱捕其他人
+https://www.solidot.org/story?sid=46801	35972
+叙利亚反伊斯兰国抵抗组织称，伊斯兰国三个月前<a target="_blank" href="http://www.independent.co.uk/news/world/middle-east/ruqia-hassan-mohammed-the-activist-and-citizen-journalist-that-isis-murdered-and-then-posed-as-for-a6798111.html"><u>谋杀了一名叫Ruqia&nbsp;Hassan Mohammed的叙利亚活动人士</u></a>，劫持了她的Facebook账号去诱骗其他反对人士。她被认为是在去年7月在伊斯兰国的大本营Raqqa被捕，9月的某个时候被杀。在这之后， 伊斯兰国继续经营她的社交媒体账号，用于诱捕与她交流的朋友。直到2周前，伊斯兰国仍然发信息声称她还活着。Ruqia&nbsp;Hassan出生于1985年， 笔名Nisan Ibrahim，在大学主修哲学，她在Raqqa被温和反叛者以及后来的伊斯兰国占领后仍然留在那里。她在Facebook上的最后帖子是在去年7月发出的。<br>
+➜Google告诉甲骨文Android受到GPL的保护
+https://www.solidot.org/story?sid=46802	37826
+Google在下一个版本Android N中用甲骨文JDK（Java Development Kit）的开源版本OpenJDK替代了它的Java API实现，甲骨文在OpenJDK项目中使用的是GPL许可证。
+Google之后立即<a target="_blank" href="http://cdn.arstechnica.net/wp-content/uploads/2016/01/googandroid.pdf"><u>告诉法庭</u></a>（PDF），它已经发布了新版的Android平台，得到了甲骨文的明确授权，甲骨文在自由开源许可证GPL下授权Google自由使用OpenJDK。Google与甲骨文的法律诉讼还会继续下去，但争论的焦点将围绕着旧版的Android，新版的Android在Google看来是不受影响的。Google说Android N已经发布<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/android-n-switches-to-openjdk-google-tells-oracle-it-is-protected-by-the-gpl/"><u>是一个很有趣的声明</u></a>，实际上它只是改了下源代码，正式的商业版本还要等待一段时间后才会发布。
+➜Google中国通过LinkedIn 招募50多个岗位
+https://www.solidot.org/story?sid=46803	39454
+在职业社交平台LinkedIn上，Google过去几周发布了<a target="_blank" href="https://www.linkedin.com/vsearch/j?orig=FCTD&amp;distance=50&amp;locationType=I&amp;countryCode=cn&amp;trk=two_box_geo_fill&amp;rsid=334975141452129526122&amp;f_C=1441&amp;page_num=3&amp;pt=jobs&amp;openFacets=L,C"><u>50多个岗位的招聘信息</u></a>（需要登陆），工作地点在北京和上海，工作与Google Play在线商店和移动业务有关。这些招聘信息显示，自2010年因审查和网络攻击原因退出中国后Google<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-01-07/google-seeks-to-hire-more-than-50-to-expand-its-china-workforce"><u>准备重返</u></a>世界最大的移动市场。在54个招聘广告中，Google寻求软件工程师、产品经理、实习生和技术专家。Google新加坡发言人Robin Moroney说，搜索巨人在中国已经雇佣了超过500人服务于全球市场。Google的绝大部分服务都在中国遭到屏蔽，此前有报道称它试图通过应用商店让其部分服务能进入中国。
+➜Netflix CEO对于进入中国很有耐心
+https://www.solidot.org/story?sid=46804	41483
+Netflix宣布其流视频服务进入全世界130多个国家，但中国、朝鲜、叙利亚和克里米亚不包括在内，后三个国家和地区与美国政府的禁令有关，而中国则是另一种情况。政府的审查将是Netflix一道难以逾越的关卡，短时间内Netflix不太可能有机会获得政府的批准在中国提供流视频服务。<span id="articleText">Netflix CEO Reed Hastings接受路透采访时<a target="_blank" href="http://www.reuters.com/article/idUSL1N14Q2S720160106"><u>表示</u></a>，他希望在2016年能将该公司的服务带到中国，但世事难料。他说，“我们非常有耐心，无论是2016还是2017年，我们会继续努力。”在BBC的<a target="_blank" href="http://www.bbc.com/news/technology-35249033">采访</a>中，他说，他并不忙于将服务扩大到中国，将会学习苹果和迪士尼的经验。在中国，视频内容都需要接受审查。中国的审查机构不接受边审边播，所以现在很难在官方允许的视频网站上同步观看正在上映的电视剧。</span>
+➜快播CEO王欣讲述视频审查
+https://www.solidot.org/story?sid=46805	44636
+北京<a target="_blank" href="http://bjhdfy.chinacourt.org/zhibo/index.php?zb_type=3"><u>海淀法院</u></a>对快播CEO王欣等人<a target="_blank" href="http://old.chinacourt.org/zhibo/member/index.php?member_id=1140&amp;zhibo_id=42978&amp;domain=www.hdqcourt.org">进行公开审理（需要IE浏览器）</a>（法院微博的<a target="_blank" href="http://weibo.com/u/3927469685?topnav=1&amp;wvr=6&amp;topsug=1#_rnd1452169371937"><u>直播图文</u></a>），审理过程中透露了一些很有意思的信息。王欣以技术理由为自己进行无罪辩护。快播公司开发了一套嵌入在系统中的审查机制叫110，可以检测本地文件和网络文件，能对本地文件和网络文件进行关键字过滤，其关键字主要由深圳网警（快播总部在深圳）提供，但关键字过滤很容易通过修改名字绕过。所以快播的另一个审查机制是用户举报。公诉人质问王欣为什么不设立一个专人的审查团队，王欣回答用户量太大这是不可能的任务，称缓存服务器存储的文件是电子数据，不可能通过肉眼判断是什么内容的，也不可能通过技术手段提前判断发布者上传的视频是否是淫秽视频。110系统除了屏蔽关键字还屏蔽域名。快播是基于P2P的网络视频播放软件，2014年在净网行动中被关闭，被控传播淫秽色情内容信息。

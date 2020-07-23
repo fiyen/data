@@ -1,0 +1,12 @@
+➜Discord 服务被屏蔽
+https://www.solidot.org/story?sid=57202	34179
+在游戏玩家中非常受欢迎的即时通讯服务 Discord 从 7 月 13 日<a href="https://www.reddit.com/r/discordapp/comments/8ylu5p/discord_blocked_in_china/"><u>被屏蔽</u></a>，方法是 <a href="https://zh.greatfire.org/discordapp.com" target="_blank"><u>DNS 污染</u></a>，即域名返回了错误的解析结果。Discord 被屏蔽的原因未知，一种可能的解释是它在国内也非常受欢迎。另一种可能的原因与其 VoIP 的性质有关。Discord 被网络游戏玩家用于互相通信和交流，支持语音和视频聊天。国内玩家玩没有在中国境内运营的网络游戏时通常会使用 Discord。
+➜在最新测试中 Chrome 打败 Edge 和 Firefox
+https://www.solidot.org/story?sid=57203	51205
+VentureBeat <a href="https://news.slashdot.org/story/16/10/25/2050229/benchmark-battle-october-2016-chrome-vs-firefox-vs-edge" target="_blank"><u>测试了</u></a>三大主流浏览器 Chrome、Edge 和 Firefox，在九项测试中，Chrome 领先了四项，Edge 为三项，而 Firefox 为两项，但值得一提的是 Firefox 虽然只赢了两项，但九项测试没有一次屈居第三，三大浏览器的性能看起来<a href="https://news.slashdot.org/story/18/07/14/0132225/chrome-beats-edge-and-firefox-in-browser-benchmark-battle-july-2018----sometimes" target="_blank"><u>其实在伯仲之间</u></a>，用户未必能感知其中的性能差异。Edge 在 SunSpider、JetStream 和 MotionMark 测试中领先，而 Chrome 领先的测试包括 Octane、Speedometer、BaseMar 和 HTML5Test，Firefox 在 Kraken 和 WebXPRT 两项测试中领先。
+➜Google Maps API 将开始收费
+https://www.solidot.org/story?sid=57204	54083
+曾经免费的 Google Maps <a href="https://tech.slashdot.org/story/18/07/14/1837215/google-maps-api-becomes-more-difficult-and-expensive" target="_blank"><u>不再免费</u></a>。Google 将从 7 月 16 日起限制 API 请求次数，超过限制将收费，并强制要求所有项目必须使用官方的 API key，如果没有 API key，地图的质量可能会降级或地图将无法工作。API key 必须关联信用卡，如果超过限制的请求次数，那么 Google 将会开始从信用卡收费。搜索巨人先向用户免费提供了每月 200 美元的信用。Google 大幅削减了免费请求次数，从每天 2.5 万展示减少到每月 2.8 万次展示，也就是每天展示次数为 1000 次左右，减少到原来的二十五分之一。为了避免突然增加的信用卡账单，许多地图项目开始转移到其它地图服务。Openstreetmap 项目发表了一篇文章介绍<a href="https://www.openstreetmap.org/user/jbelien/diary/44356" target="_blank"><u>为什么要用 OpenStreetMap</u></a>。
+➜Winds : 用 Web 技术开发的 RSS 和 Podcast 软件
+https://www.solidot.org/story?sid=57205	56565
+<a href="mailto:xie@yahoo.com">Xie</a> 写道 <i>"Winds 是一款漂亮、现代的开源 RSS 阅读器和播客应用程序。它引起了开源爱好者的关注，在 GitHub 上获得了超过 5000 颗星，它支持 Linux、macOS 和 Windows 桌面系统，还提供了 Web 版本。Winds 是基于 React / Redux / Node 等 Web 技术， 其开发的一个意图是复兴 RSS ，鼓励出版社拥抱开放标准和 RSS。这篇文章简要<a href="https://www.linuxlinks.com/winds-rss-and-podcast-software-created-using-react-redux-node/" target="_blank"><u>介绍了 Winds</u></a>。</i><br>

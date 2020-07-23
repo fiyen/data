@@ -1,0 +1,10 @@
+➜Google 的 Bug 悬赏项目涵盖了所有安装量超过一亿的应用
+https://www.solidot.org/story?sid=61924	51769
+Google <a href="https://www.zdnet.com/article/google-adds-all-android-apps-with-100m-installs-to-its-bug-bounty-program/"><u>扩大了</u></a>它的 Bug 悬赏项目，加入了 Play Store 应用商店所有安装量超过一亿的应用。这意味着安全研究人员可以向 Google 报告这些应用的漏洞，对于有效的漏洞 Google 将会提供奖励。Google 会将漏洞报告转给应用开发商，如果开发商未能解决漏洞，Google 会将应用从商店里移除。Facebook、Microsoft 或 Twitter 等流行应用都有自己的 bug 悬赏项目，因此不会包含在内。Google 称研究人员可以向它或应用开发商两次报告漏洞，获得两次奖励——如果相关公司也有 Bug 悬赏项目的话。
+➜瑞典禁止学校部署面部识别技术
+https://www.solidot.org/story?sid=61925	52057
+在一所高中尝试使用面部识别技术跟踪学生出勤情况之后，瑞典数据保护机构<a href="https://www.neweurope.eu/article/sweden-bans-facial-recognition-technology-in-schools/"><u>发出禁令</u></a>，禁止学校部署面部识别技术。Skelleftea 市政当局因为在 Anderstorp 高中的试点项目中侵犯了 22 名学生的隐私而面临 20 万瑞典克朗的罚款。数据保护机构认为敏感的生物识别数据，特别是未成年人的面部图像收集是高度侵入性的。该项目旨在帮助教师跟踪学生的出勤率，节省教学时间。
+➜Google 披露被利用了两年的 iOS 漏洞
+https://www.solidot.org/story?sid=61926	54025
+Google Project Zero 安全博客<a href="https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html"><u>披露了</u></a>被利用了两年多时间的 iOS 漏洞，TechCrunch 则援引消息来源称<a href="https://techcrunch.com/2019/08/31/china-google-iphone-uyghur/" target="_blank"><u>此事与中国有关</u></a>。Google 称，今年早些时候，它的安全团队发现了一组遭到入侵的网站利用 iOS 0day
+漏洞对网站的访客不加区分的发动水坑攻击。如果成功利用，攻击者会在访客的 iPhone 手机上安装监视程序，这些网站每周大约有数千访客。攻击者使用可五个不同的 iPhone 利用链，组合了 14 个漏洞，其中浏览器 7 个，内核 5 个，还有两个沙盒逃逸，至少 1 个提权利用链属于 0day。研究人员 2 月 1 日通知了苹果，给了苹果 7 天的时间修复。苹果在 2 月 7 日释出了 <a href="https://support.apple.com/en-us/HT209520"><u>iOS 12.1.4</u></a> 修复了漏洞。

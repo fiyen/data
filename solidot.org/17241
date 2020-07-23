@@ -1,0 +1,58 @@
+➜AMD 宣布面向主流市场的 Ryzen 5 处理器
+https://www.solidot.org/story?sid=51706	10504
+<div align="center"><img src="http://img.solidot.org/0/220/liUJp31glpesw.jpg" width="450" height="253" align=""><br>
+</div>
+<br>
+在发布面向高端市场的 Ryzen 7 八核处理器之后，AMD <a href="https://arstechnica.com/gadgets/2017/03/amds-zen-goes-mainstream-with-ryzen-5-4-cores-8-threads-from-169/" target="_blank"><u>宣布了</u></a>面向主流市场的 Ryzen 5 处理器，将于 4 月 11 日发售，最低售价 169 美元。AMD 宣布了四款 Ryzen 5 处理器产品，其中最高端是六核十二线程的 R5 1600X，基频 3.6GHz， boost 频 4.0GHz，售价 249 美元；1600 核心和线程数与 1600X 相同，但基频 / boost 频略低，分别为 3.2/3.6GHz，售价 219 美元；1500X 是四核八线程，基频 / boost 频 为 3.5/3.7GHz，售价 189 美元；1400 也是四核八线程，基频 / boost 频 为  3.2/3.4GHz ，售价 169 美元。值得一提是 AMD 没有为六核专门设立生产线，它实际上和八核 Ryzen 7 相同，但有两个核心关闭了。Ryzen 5 针对的是英特尔的  i3-7350 到 i5-7600K，接下来 AMD 将会宣布 Ryzen 3。
+➜美国指控俄罗斯安全局特工卷入了对雅虎的入侵
+https://www.solidot.org/story?sid=51707	14208
+<div align="center"><img src="http://img.solidot.org/0/223/liQZfUsaA5yYs.jpg" width="500" height="164" align=""><br>
+</div>
+<br>
+美国司法部周三<a href="https://www.justice.gov/opa/press-release/file/948201/download" target="_blank"><u>指控</u></a>两名俄罗斯联邦安全局特工和两名黑客参与了对雅虎的入侵。如图所示，从左到右分别是俄罗斯特工 Dmitry Dokuchaev 和 Igor Sushchin，以及黑客 Alexsey Belan 和 Karim Baratov。俄罗斯联邦安全局的前身就是克格勃。<a href="https://arstechnica.com/tech-policy/2017/03/fbi-hints-that-hack-of-semi-privileged-yahoo-employee-led-to-massive-breach/" target="_blank"><u>FBI 特工称</u></a>，最初的攻击针对的是一名具有部分权限的雅虎雇员，方法是社交工程或钓鱼攻击，在获得这名雅虎雇员的凭证之后，Alexsey Belan 对雅虎的内部网络进行了侦查，在此过程中发现了两个关键的资源：雅虎用户数据库 Yahoo's User Database (UDB) 和管理工具 Account Management Tool。UDB 中的内容让 Belan 和两名联邦安全局特工能定位他们感兴趣的目标账号，而 Account Management Tool 让他们可以改变目标账号的密码。入侵者随后还发现了一个工具让他们可以伪造目标用户账号的 cookies，无需修改密码就能访问账号。UDB 数据库记录了用于在账号认证后生成 cookies 的随机数。利用这些信息，Belan 和两名俄罗斯特工能伪造 cookies 去访问目标账号。在 2014 年 11 月到 12 月之间，Belan 将部分 UDB 数据通过 FTP 传输到他的电脑上，不再需要访问雅虎网络就能伪造 cookies。Belan 和俄罗斯特工使用伪造的 cookies 访问了超过 6500 名用户的账号。根据起诉书，俄罗斯黑客和特工寻求访问俄罗斯记者、俄罗斯和美国官员，以及知名俄罗斯网络安全公司雇员的雅虎账号。
+➜中国公司投资 Google 和 Facebook 的太平洋海底光缆
+https://www.solidot.org/story?sid=51708	17171
+《华尔街日报》<a href="http://cn.wsj.com/gb/20170316/tec075940.asp" target="_blank"><u>报道</u></a>，中国一家房地产巨头正在为谷歌 和 Facebook 的新跨太平洋互联网光缆项目提供资金，这将是此类项目中首个由一家中资公司持有多数股权的项目。现年 56 岁的韦俊康是这条连接洛杉矶与香港的光缆项目的主要赞助人，这反映了中国投资者对高科技行业的兴趣日益浓厚。这将成为世界上连接亚洲和美国的容量最高的网络光缆。 对于谷歌和 Facebook 而言，该海底光缆项目为东南亚蓬勃发展的市场提供了一条新的数据高速公路。谷歌和 Facebook 在中国被封锁，但正在寻找方法回归该市场。两家公司对于进入中国市场的可能性不予置评。
+➜研究称中国严控空气质量每年可减少三百万人过早死亡
+https://www.solidot.org/story?sid=51709	17955
+中国和美国科学家在 BMJ 期刊上发表<a href="http://www.bmj.com/content/356/bmj.j667" target="_blank"><u>研究报告</u></a>，<a href="http://www.bbc.com/zhongwen/simp/chinese-news-39285272" target="_blank"><u>认为</u></a>如果中国根据联合国的标准强制实施严格的空气质量标准，每年可以防止 300 万人免于过早死亡。研究分析了 2010 到 2013 年之间 38 个中国大城市的空气中微小颗粒例如 PM10 与死亡之间的关系，发现 PM10 指数远超出世界卫生组织的标准。研究人员称， 38 个城市中所作的调查阶段共有 35 万人死亡。研究人员说，如果中国能把 PM10 的含量降到世界卫生组织的标准，那么在全国范围内将可以挽救 300 万人过早死亡。
+➜早期的星系没有多少暗物质
+https://www.solidot.org/story?sid=51710	27919
+根据欧洲南方天文台甚大望远镜的观察，暗物质对 100 亿年前星系的<a href="http://physicsworld.com/cws/article/news/2017/mar/15/early-galaxies-shunned-dark-matter" target="_blank"><u>影响没有今天这么大</u></a>。在现代宇宙中，星系外围的恒星旋转速度和核心的恒星一样快。这一结果出乎意料，因为星系内部可见物质的引力牵制没有足够强大到能阻止外围恒星进入太空。外围恒星与核心恒星一样快的原因被认为是看不见的暗物质提供了额外的引力。天文学家在《<a href="http://nature.com/articles/doi:10.1038/nature21685" target="_blank"><u>自然</u></a>》和《<a href="http://iopscience.iop.org/journal/0004-637X" target="_blank"><u>天体物理学</u></a>》期刊上发表了四篇论文，报告早期宇宙没有遵循相同的规则，暗示早期星系的暗物质没有今天的星系这么多，普通的可见物质占了支配地位。最新发现引发了暗物质与星系成长相关的疑问。<br>
+➜NSA 和美国能源部警告中国的超算威胁
+https://www.solidot.org/story?sid=51711	31161
+NSA 和美国能源部的专家在一份报告中<a href="http://computerworld.com/article/3180984/high-performance-computing/spy-agency-doe-see-china-nearing-supercomputing-leadership.html" target="_blank"><u>警告</u></a>，最早到 2020 年中国极有可能在超算领域占据领先地位，除非美国迅速行动起来增加投资。中国在超算上进步不仅威胁到美国的国家安全，还威胁到美国在高科技制造业的领导地位。报告呼吁美国增加在超算上的支出。中国的超算系统过去几年一直占据了 Top 500 的榜首。报告呼吁美国增加投资，但特朗普政府和共和党控制的国会则计划大幅削减政府预算。报告认为，中国投资超算的一个目标是实现从在中国制造到由中国制造。报告同时也指出，超算也可被用于设计武器系统。
+➜重拍《黑客帝国》凸显好莱坞创意枯竭
+https://www.solidot.org/story?sid=51712	32221
+好莱坞翻怕经典作品的时间间隔越来越短了。在《黑客帝国》上映 18 年之后，华纳兄弟正着手重拍这部以虚拟现实、人工智能和子弹时间著称的科幻电影。原作的主演  Keanu Reeves 以及导演 Wachowskis 姐弟预计都不会参与重拍片。目前还不清楚，华纳兄弟计划拍摄的是前传、衍生剧、或者真正意义上的重拍。《黑客帝国》将加入到其它被翻拍的知名电影行列，其中包括《星际迷航》和《捉鬼敢死队》，以及经常性重拍的超级英雄电影如《蜘蛛侠》、《蝙蝠侠》和《超人》。重拍《黑客帝国》是否凸显好莱坞<a href="https://qz.com/933122/the-matrix-reboot-hollywood-has-run-out-of-all-the-ideas/" target="_blank"><u>创意枯竭</u></a>，或者是利用成名的作品<a href="https://entertainment.slashdot.org/story/17/03/15/1954220/the-matrix-reboot-its-finally-happened-hollywood-has-run-out-of-all-the-ideas" target="_blank"><u>以坐享其成</u></a>？
+➜Canonical  将向 Ubuntu 12.04 付费用户继续提供安全补丁
+https://www.solidot.org/story?sid=51713	33383
+由于仍然有大量用户使用 Ubuntu 12.04 LTS 版，Canonical 将向付费用户<a href="https://www.theregister.co.uk/2017/03/15/ubuntu_12_04_extended_security_maintenance/" target="_blank"><u>继续提供安全补丁</u></a>。Ubuntu 12.04 LTS 将是 Canonical 第一个提供 Extended Security Maintenance 的版本。Canonical&nbsp; 为每个&nbsp; LTS 版提供为期五年的安全更新，Ubuntu 12.04 LTS 预计将于 2017 年 4 月 28 日停止安全更新，但 Canonical 的付费用户将能得到类似微软之于 Windows XP 的待遇，获得与内核和关键用户空间软件包相关的重要安全更新。
+➜很多智能手机用户没有采取措施保护手机
+https://www.solidot.org/story?sid=51714	34492
+根据皮尤研究中心的<a href="http://www.pewresearch.org/fact-tank/2017/03/15/many-smartphone-owners-dont-take-steps-to-secure-their-devices/" target="_blank"><u>一份报告</u></a>，有很多智能手机用户没有采取措施保护他们的手机。28% 的智能手机用户称，他们没有使用屏幕锁或其它安全功能访问手机；大部分用户表示他们会升级手机中的应用或操作系统，但 40% 的人表示只在方便的时候升级；14% 的用户表示从不升级操作系统，10% 的用户表示从不更新应用；只有 3% 的用户表示不升级操作系统或应用，也不使用屏幕锁。
+➜因同性恋片段迪士尼在马来西亚撤下《美女与野兽》
+https://www.solidot.org/story?sid=51715	35123
+在与马来西亚当局的一轮对峙中，迪士尼从该国电影院<a href="http://www.ftchinese.com/story/001071798" target="_blank"><u>撤下了</u></a>《<a href="http://www.imdb.com/title/tt2771200/" target="_blank"><u>美女与野兽</u></a>》。这一冲突凸显出跨国公司正越来越多地与亚洲保守的反同性恋态度发生冲突。马来西亚的电影审查委员会曾表示，在剪掉了所谓 “同性恋片段” 之后，该电影已获批上映。然而，迪士尼却在一份声明中表示，“该电影未曾也不会为了马来西亚而加以剪辑”。考虑到马来西亚票房的规模，这一决定对迪士尼的商业影响不大。不过，这次对峙是东南亚日益直言的同性恋社区与宗教保守主义者间越来越激化的紧张局面的最新表现，跨国公司也被置于风口浪尖。
+➜中国高山天文台探索宇宙射线的起源
+https://www.solidot.org/story?sid=51716	40426
+<div align="center"><img src="http://img.solidot.org/0/225/life1pCZ0ABU.jpg" width="400" height="404" align=""><br>
+</div>
+<br>
+《自然》<a href="http://www.nature.com/news/chinese-mountain-observatory-to-probe-cosmic-ray-origins-1.21631" target="_blank"><u>报道了</u></a>中国正在四川稻城县海子山建造的高海拔宇宙线观测站（Large High Altitude Air Shower Observatory，简写 <a href="http://www.ihep.cas.cn/dkxzz/lhaaso/jsfa/201311/t20131115_3979334.html" target="_blank"><u>LHAASO</u></a>），该项目造价约 12 亿元，旨在探索高能宇宙射线的起源。观测站占地面积 1.36 平方公里，海拔 4410 米，设计在三个能量范围内对宇宙线粒子和伽马射线在大气中产生的空气簇射（EAS）作多参数的精确测量。太空中的磁场力能在带电粒子通过时改变其方向，使其运动路径难以跟踪。但超高能的伽马射线没有电荷，其路径是直线。科学家怀疑某些发射伽马射线的机制可能也能发射宇宙射线，他们希望通过跟踪伽马射线去识别出宇宙射线的发射者。LHAASO 是第一个能搜寻伽马射线的观测站，科学家认为它将能打开伽马射线的一扇新窗口。
+➜伊朗政府打击 Telegram 用户
+https://www.solidot.org/story?sid=51717	42286
+伊朗可能是移动通信应用 Telegram 的最大使用国，Telegram 每月活跃用户 1 亿左右，而在伊朗就有 2000 万用户。伊朗人用 Telegram 做各种事情，其中也包括政治。Telegram 有一个类似微信公众号的功能叫频道，用户可以像订阅公众号那样订阅各种感兴趣的频道。类似中国对公众号的要求，伊朗政府也要求伊朗 Telegram 频道的管理员实名注册，要求订阅数超过 5000 的频道管理员向伊朗文化及伊斯兰教令部递交许可，否则他们将面临起诉。根据伊朗 Tasnim 新闻社的报道，截至今年 1 月底有大约 700 名频道管理员递交了申请。伊朗还要求申请者加入一个机器人程序作为频道的共同管理员。这些要求在伊朗 Telegram 用户中间引发了担忧。今年 1 月，伊朗 Hormozgan 省的官员关闭了 80 个频道，逮捕了 32 名频道管理员。他们被控传播谎言、扰乱公共秩序、制造恐惧和宣传不道德的和反文化的材料。<a href="http://www.latimes.com/business/la-fi-telegram-iran-20170313-story.html" target="_blank"><u>伊朗对 Telegram 打压仍然在继续</u></a>。Telegram 官方坚称他们没有与伊朗政府有任何的合作，否认参与任何的政治审查。中国在人权律师使用 Telegram 后已将其屏蔽。
+➜美军盟友用 300 万美元的爱国者导弹击落了 200 美元的无人机
+https://www.solidot.org/story?sid=51718	43262
+BBC 援引一名美国将军的话<a href="http://www.bbc.com/news/technology-39277940" target="_blank"><u>报道</u></a>，一个美国盟友用价值 300 万美元的爱国者导弹击落了一架 200 美元的无人机。David Perkins 将军称，这架四旋翼无人机在 Amazon.com 上售价 200 美元，根本没有机会赢爱国者。爱国者导弹通常被用于击落飞机和弹道导弹。结果显示爱国者导弹确实能击落无人机，将军接着说，“我们都爱爱国者导弹。”他同时指出，部署面对空导弹防御小型无人机可能在经济上不很明智。他说，如果我是敌方，我会去 ebay 上购买尽可能多的 300 美元旋翼无人机，消耗光所有的爱国者导弹。
+➜未证明的干细胞疗法致盲三名女性
+https://www.solidot.org/story?sid=51719	44355
+科学家一直希望干细胞能成为治疗疾病的强大工具，但如果不谨慎的话<a href="http://www.npr.org/sections/health-shots/2017/03/15/520118310/3-women-blinded-by-unproven-stem-cell-treatments" target="_blank"><u>它也可能非常危险</u></a>。发表在《New England Journal of Medicine》期刊上的两篇论文展现了干细胞疗法的希望和危险。其中一篇<a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1609583" target="_blank"><u>论文</u></a>记录了三名年长女性接受干细胞疗法后失明的病例。源自脂肪细胞的干细胞被用于治疗黄斑变性，被注入到三名女性的眼睛中。干细胞疗法是 U.S. Stem Cell 赞助的，该公司的科学总监 <a href="http://us-stemcell.com/en/about-us/">Kristen Comella</a> 拒绝讨论这些病例，称牵涉到法律诉讼，已经在保密协议下和解。Comella 为干细胞疗法辩护，称他们已经治疗了 7000 多名病人，只记录到很少的不良事件，安全记录良好。
+➜天文学家发现一颗恒星以百分之一光速围绕黑洞运动
+https://www.solidot.org/story?sid=51720	46057
+<div align="center"><img src="http://img.solidot.org/0/226/lix4uOO2HtZw.jpg" width="500" height="203" align=""><br>
+</div>
+<br>
+天文学家发现了一颗围绕黑洞旋转的恒星，恒星与黑洞的距离 2.5 倍于地月距离，但完成一周只需半个小时。相比之下，月球以时速 3,683 公里需要 28 天才能围绕地球运动一周。天文学家观察的是一个早在 1989 年就已发现的双星系统 47 Tuc X9，该双星系统最初被认为由一颗<br>
+白矮星和一颗类太阳恒星构成。但后续的观察发现，其中一颗是黑洞，正在剥离白矮星的物质。X射线观察发现，这颗恒星完成一周运动只需 28 分钟，其运动速度达到了<a href="https://www.sciencealert.com/astronomers-just-found-a-star-orbiting-a-black-hole-at-1-percent-the-speed-of-light" target="_blank"><u>百分之一光速</u></a>——时速 12,600,000 公里。论文预印本发表在 <a href="https://arxiv.org/pdf/1702.02167.pdf">arXiv.org</a> 上。<br>

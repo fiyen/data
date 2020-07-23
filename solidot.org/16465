@@ -1,0 +1,28 @@
+➜GNU Artanis 0.0.2发布
+https://www.solidot.org/story?sid=42883	4687
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "Scheme玩家一直为缺少一个真正可以实用的东东而苦恼，
+通常这种苦恼体现在学了
+<a target="_blank" href="http://www.scheme.com/tspl4/">TSPL</a>和<a target="_blank" href="http://mitpress.mit.edu/sicp/">SICP</a>之后不知道能拿来干什么——除了借用Scheme的方法论用到别的工
+程实践以外。现在他们有了<a target="_blank" href="http://www.reddit.com/r/scheme/comments/2u2i0h/ann_gnu_artanis_002_released_alpha/">Artanis</a>，这是一个用Guile实现的web框架，以
+GPLv3+ &amp; LGPLv3双协议发布。有人曾提出既然是用于后端的程序，AGPL或许更适
+合它。但由于Web框架的特殊性所以没有选择AGPL。RMS甚至考虑为它设计一个新的
+协议LAGPL，不过目前尚在内部讨论中。就算真的有，也不是一两年能出来。
+Artanis包含常用的http开发库(URL remapping, cookies, cache...)，除此之外
+该项目试图重新定义关系型数据库操作（主要是Relational Mapping），它<a target="_blank" href="http://www.gnu.org/software/artanis/manual/manual.html#sec-9-1">摒弃了
+ORM而尝试采用完全不同的方法</a>。另外貌似作者并不满足于当前的内置服务器
++Nginx反向代理的架构，他试图将Guile的delimited continuation特性发挥到极
+致以提供一个高性能的内置服务器
+。
+考虑到该项目才刚刚发布第二个版本，它似乎在死掉以前还有很长一段路要走。不
+管怎样，预祝这位闲的蛋疼的作者好运。
+值得一提的是，Artanis是深圳技术社区<a target="_blank" href="http://szdiy.org/">SZDIY</a>的爱好者项目之一，被用于构建其
+服务器端，但目前这帮家伙究竟在计划些什么无人知晓。该社区一向崇尚自由软件原教旨，Artanis已经捐赠给GNU社区成为GNU的官方项目之一。"</i>
+➜友讯路由器发现DNS劫持漏洞
+https://www.solidot.org/story?sid=42884	5444
+安全研究人员<a target="_blank" href="http://www.computerworld.com/article/2876292/dns-hijacking-flaw-affects-d-link-dsl-router-possibly-other-devices.html"><u>发现</u></a>，友讯至少一个型号的路由器被发现存在DNS劫持漏洞，可被远程改变DNS设置，劫持流量。伦理黑客（Ethical Hacker）研究组的Todor Donev称，漏洞存在于友讯科技的DSL-2740R ADSL路由器固件<a target="_blank" href="http://en.wikipedia.org/wiki/ZyNOS"><u>ZynOS</u></a>中，该固件被许多网络设备制造商所采用，其中包括了友讯、深圳普联和中兴公司。
+➜Mozilla上线了14个Tor中继
+https://www.solidot.org/story?sid=42885	6030
+Mozilla将其闲置和退役的硬件变成了Tor匿名网络的中继节点，开源浏览器开发商上线了<a target="_blank" href="http://www.theregister.co.uk/2015/01/29/mozilla_dusts_off_old_servers_lights_up_tor_relays/"><u>14个Tor中继</u></a>，其中包括：两个Juniper EX4200交换器，三台HP SL170zG6 (48GB内存、2*Xeon L5640、2*1Gbps NIC)服务器和一个专用的IP转接（2 X 10Gbps)。这一项目是Mozilla、Tor项目和民主技术中心的隐私合作项目Polaris的一部分，将为Mozilla产品引入更多隐私功能。
+➜微软向Cyanogen投资
+https://www.solidot.org/story?sid=42886	6634
+开发CyanogenMod的Cyanogen公司想要从Android中<a target="_blank" href="http://www.solidot.org/story?sid=42844"><u>剥离掉Google</u></a>，而微软准备助其一臂之力。《华尔街日报》<a target="_blank" href="http://www.wsj.com/articles/BL-DGB-40241"><u>报道</u></a>，Cyanogen从最新一轮的融资中获得7000万美元，其估值过亿，而微软是投资者之一。Cyanogen称它有5000万用户，公司CEO Kirt McMaster之前接受采访时<a target="_blank" href="http://www.solidot.org/story?sid=42844"><u>表示</u></a>，Cyanogen正致力于从Android中剥离掉Google，创造一个更开放的Android版本，深度集成合作伙伴的服务。

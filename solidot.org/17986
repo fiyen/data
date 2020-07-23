@@ -1,0 +1,12 @@
+➜Python 语言之父认为 996 是不人道的
+https://www.solidot.org/story?sid=60089	10364
+<a href="http://LifeIsShortRevolutionWithPython.com">匿名读者</a> 写道 <i>"Python 语言作者，授予自身永久假期的<a href="https://www.solidot.org/story?sid=57186" target="_blank">终身仁慈独裁者</a>（BDFL）Guido van Rossum <a href="https://twitter.com/gvanrossum/status/1111628076801236993" target="_blank">推文</a>阿里巴巴旗下南华早报<a href="https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github" target="_blank">新闻</a>认为 996 工作制是不人道的并且 <a href="https://github.com/gvanrossum?tab=stars" target="_blank">Star</a> 了 996.ICU 项目。Python 官方网站在几个月前上线了<a href="https://docs.python.org/zh-cn/3/" target="_blank">中文文档</a>，文档的<a href="https://www.transifex.com/python-doc/public/" target="_blank">翻译</a>进度目前只完成了 20% ，仍然需要大量的志愿者<a href="https://github.com/python/python-docs-zh-cn/" target="_blank">参与</a>翻译。"</i>
+➜Minecraft第三方着色器实现全局光照
+https://www.solidot.org/story?sid=60090	22085
+<a href="/~Arthur2e5">Arthur2e5</a> 写道 <i>"Sonic Ether 的 <a href="https://www.patreon.com/sonicether/" target="_blank">Minecraft 着色器</a>项目加入了<a href="https://en.wikipedia.org/wiki/Path_tracing" target="_blank">光路追踪</a>的功能，可以实现<a href="https://twitter.com/notglacier/status/1111845895287365632" target="_blank">质量极高的全局光照效果</a>，包括阴影、景深、环境光等。这个项目还实现了更准确的天空（散射光）和日光颜色（大气散射）效果，并提升了抗锯齿（T-AA）和长视距渲染的性能。"</i>
+➜网红播主及其制作团队
+https://www.solidot.org/story?sid=60091	52324
+从 2005 年到 2012 年，YouTube 的理念一直都是“展示自我”，但如今<a href="https://www.bbc.com/ukchina/simp/vert-cap-47737695" target="_blank"><u>要是没有团队的支持</u></a>，想要成为网红播主越来越难。伦敦大学国王学院数字人文学科的助教 Sophie Bishop 解释说：“训练算法和提供充足的内容是关键。善于创造有趣且引人入胜的内容，并不代表擅长时间管理和拉赞助，作为播主，你要确保有足够支撑整月收入的品牌合作。”每分钟有 400 多个小时的视频被上传到 YouTube 上，想要“突出重围”、“声名大噪”越来越难。播主还要与算法竞赛。如果把 YouTube 比作飞机，那么算法就是它的黑匣子，它会向 19 亿登陆用户推荐视频。虽然几乎人没什么知道其中的奥秘，但人们普遍认为算法倾向于推荐高质量的视频和经常上传视频的播主——这些内容吸引用户在 YouTube 逗留更长的时间。但 YouTube 并没有回应算法的推荐原理。
+➜研究人员演示英特尔 VISA 漏洞
+https://www.solidot.org/story?sid=60092	55322
+在本周举行的  Black Hat Asia 会议上，安全研究人员<a href="https://i.blackhat.com/asia-19/Thu-March-28/bh-asia-Goryachy-Ermolov-Intel-Visa-Through-the-Rabbit-Hole.pdf"><u>演示了</u></a>利用 Visualization of Internal Signals Architecture (VISA)查看芯片内部工作过程。VISA 是被称为 Trace Hub 的调试接口之一，它本身没有安全漏洞，但将它与其它提权漏洞组合利用，攻击者可以了解芯片组的内部工作，因此这个漏洞主要对想了解内部原理的研究人员和芯片设计师<a href="https://www.theregister.co.uk/2019/03/29/intel_visa_hack/"><u>有用</u></a>。<br>

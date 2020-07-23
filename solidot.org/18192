@@ -1,0 +1,45 @@
+➜热衷工作的新富豪
+https://www.solidot.org/story?sid=62333	12032
+多年来的研究表明，富人与那些悠闲的老绅士不同，他们的工作时间更长，社交时间更少。苹果首席执行官库克 (Tim Cook) 的身家估计在数亿美元，他说自己每天凌晨 3 点 45 分起床，向公司的竞争对手发起每日攻击。特斯拉和 SpaceX 的掌门人马斯克 (Elon Musk) 身家约 230 亿美元，他把自己每周 120 小时的 “疯狂” 工作时间调至更 “好对付” 的 80 或 90 小时，还觉得这是一种胜利。<a href="https://cn.nytimes.com/style/20191022/rich-people-things/"><u>为什么他们停不下来</u></a>？马丁内斯 (Antonio García Martínez) 说，“他们从资本主义中获得了卓越的意义。没了钱他们还能有什么？”他把自己的初创公司卖给了 Twitter，并在 Facebook 担任产品经理，之后于 2016 年出版了回忆录。哈佛大学最近对 4000 名百万富翁进行的一项调查发现，财富在 800 万美元以上的人并不比财富在 100 万美元以上的人更幸福。
+➜Firefox 70 发布
+https://www.solidot.org/story?sid=62334	12903
+Mozilla 释出了 <a href="https://www.mozilla.org/en-US/firefox/70.0/releasenotes/"><u>Firefox 70</u></a>。主要新变化包括：更新了 HTML &lt;input&gt; 元素，如果是输入密码则会提供选项生成安全密码，而生成的密码可以储存在 Firefox Lockwise中；社交网络跨站跟踪 cookies 屏蔽成为 Enhanced Tracking Protection 的一项标准功能；Lockwise 整合了来自 Firefox Monitor 的密码泄露警告；浏览器核心引擎改进了 Javascript Baseline Interpreter；采用集成显卡的 Windows 版本默认启用 WebRender 去改进图像渲染；macOS 版本改进了合成器减少电力消耗和加快页面加载；加入指示器显示使用地理位置的网站，等等。此外还有大量的与开发者相关的改进，具体可浏览<a href="https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/"><u>这篇介绍</u></a>。
+➜为什么不要使用 VPN 服务
+https://www.solidot.org/story?sid=62335	16187
+在流行 VPN 服务  NordVPN 证实遭到入侵但披露滞后的<a href="https://www.solidot.org/story?sid=62318"><u>新闻</u></a>传出之后，为什么<a href="https://gist.github.com/joepie91/5a9909939e6ce7d09e29" target="_blank"><u>不要使用</u></a> VPN 服务的<a href="https://news.ycombinator.com/item?id=21326484"><u>争论</u></a>再起。VPN 是一种代理服务器，服务商能看到用户的所有流量，虽然有服务商自称不记录用户的任何日志，但你根本无法验证这一声明，我们可以基本确定 VPN 服务商记录了用户日志，否则碰上法律问题，你每月 5 到 10 美元的费用根本连律师的咖啡钱都不够出的。如果你需要确保浏览的安全和隐私，那么最好的方法是自己购买一个 VPS，然后搭建 VPN 服务，有很多软件可以选择，比如 <a href="https://github.com/StreisandEffect/streisand/blob/master/README-chs.md"><u>Streisand</u></a>，<a href="https://github.com/trailofbits/algo"><u>Algo</u></a>。
+➜Tails 4.0 发布
+https://www.solidot.org/story?sid=62336	17754
+通过 Tor 实现匿名的隐私发行版 Tails <a href="https://tails.boum.org/news/version_4.0/index.en.html"><u>释出了 4.0 版本</u></a>。 Tails 4.0 是基于 Debian 10 (Buster)，主要变化包括：更活跃开发的密码管理器 KeePassXC 替代了 KeePassX；OnionShare 从 0.9.2 升级到 1.3.2；Tor Browser 9.0；MAT 从 0.6.1 升级到 0.8.0；Linux 5.3.2；Enigmail 2.0.12；gnupg 2.2.12； Electrum 3.3.8；GIMP 2.10.8；LibreOffice 6.1.5；等等。Tails OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下痕迹，会话结束之后所有痕迹就抹掉了。
+➜软银将接管 WeWork
+https://www.solidot.org/story?sid=62337	19361
+由于巨额亏损和异常的公司管理结构遭到投资人的质疑，WeWork 公司深陷困境，并于上个月取消 IPO 计划。软银已在 WeWork 上投资了约 105 亿美元，现在，它将不得不再次向该公司<a href="https://www.nytimes.com/2019/10/22/business/dealbook/wework-softbank.html" target="_blank"><u>注资数十亿美元</u></a>。WeWork 董事会周二<a href="http://www.ftchinese.com/story/001084857"><u>同意接受</u></a>软银数十亿美元纾困和投资方案，把这家资金短缺的公司的控制权交给软银，使之摆脱联合创始人亚当・诺伊曼 (Adam Neumann) 的掌控。软银将通过新的贷款和股本，向 WeWork 注资 65 亿美元，并将向诺伊曼提供近 17 亿美元的奖酬方案，以换取他退出董事会。
+➜Blue Origin 组建了一只团队帮助 NASA 重返月球
+https://www.solidot.org/story?sid=62338	26353
+Blue Origin 创始人贝佐斯（Jeff Bezos）在华盛顿举行的国际宇航大会上<a href="https://arstechnica.com/science/2019/10/blue-origin-announces-a-blue-chip-team-to-return-humans-to-the-moon/"><u>宣布了</u></a>一个帮助 NASA 在 2024 年重返月球的计划。Blue Origin 将与三家企业——洛克希德马丁、诺斯洛普格鲁曼和 Draper——进行合作，Blue Origin 将作为主承包商设计制造月球登陆器 Blue Moon，同时它还担任主要的项目管理；洛克希德马丁将负责载人飞行；诺斯洛普格鲁曼将建造“转移元素”；Draper 负责落点制导。贝佐斯为 Blue Origin 公司提供了大量资金，但该公司至今还没有将任何负荷发射到轨道上。
+➜Chrome 78 发布
+https://www.solidot.org/story?sid=62339	27515
+Google <a href="https://blog.chromium.org/2019/09/chrome-78-beta-new-houdini-api-native.html"><u>释出</u></a>了 <a href="https://www.google.com/chrome/"><u>Chrome 78</u></a>。主要变化包括：新标签页可定制菜单，为实验性功能，默认未激活，需要在 chrome://flags 中启用两个选项（chrome://flags/#ntp-customization-menu-v2 和 chrome://flags/#chrome-colors）；Tab Hover Cards，鼠标悬浮在一个标签上会显示标签的简略信息；对所有网站启用黑色模式 Forced Dark Mode；密码检查工具将警告用户密码是否泄漏，默认未启用，需要修改选项 chrome://flags/#password-leak-detection；实验性的 DNS-over-HTTPS (DoH)功能；移除旧的 XSS Auditor 功能；新 API 如  CSS Properties and Values API，Native File System API 等等。
+➜日本连锁酒店 HIS Group 称黑客可能通过室内机器人偷窥客人
+https://www.solidot.org/story?sid=62340	28749
+日本连锁酒店 HIS Group <a href="https://www.theregister.co.uk/2019/10/22/japanese_hotel_chain_sorry_that_bedside_robots_may_have_watched_guests"><u>为忽视警告道歉</u></a>，它的室内机器人能被入侵和远程查看视频片段。酒店配备的迎宾机器人允许客人通过面部识别技术办理入住。但一位安全研究人员在 Twitter 上透露，他曾在 7 月份警告 HIS Group 机器人存在容易利用的漏洞，在没有听到任何回应之后他于 10 月 13 日披露了漏洞。机器人的未签名代码允许客人在其头部安装 NFC 标签，远程访问其摄像头和麦克风，监视后续入住的客人。HIS Group 是日本十家使用机器人替代人类服务员的连锁酒店之一，该公司认为未经授权访问机器人的风险较低，但尽管如此他们还是更新了机器人。
+➜微软的 DreamWalker VR 将每日通勤变成沉浸式体验
+https://www.solidot.org/story?sid=62341	31857
+微软研究院的研究人员<a href="https://arstechnica.com/gadgets/2019/10/microsofts-dreamwalker-vr-turns-your-daily-commute-into-a-totally-different-one/"><u>开发出</u></a>一种新的 VR 技术，研究人员声称新的技术允许用户完全沉浸在虚拟世界的同时在现实世界里自由穿梭。微软称新的项目为 <a href="https://www.microsoft.com/en-us/research/publication/dreamwalker-substituting-real-world-walking-experiences-with-a-virtual-reality/">DreamWalker</a>，目前还较为原始，它引入了方法在现实世界里安全导航。研究人员将在 ACM Symposium on User Interface Software and Technology 研讨会上介绍<a href="https://www.microsoft.com/en-us/research/uploads/prod/2019/10/uist19a-DreamWalker_small.pdf"><u>他们的方法（PDF）</u></a>。真实世界的路线与相应的虚拟世界根据地理位置数据提前计划好，然后根据不受控的室外环境要求实时更新。用户在现实世界穿梭时遭遇的任何潜在障碍都会被 VR 设备上的实时传感技术记录下来。那些障碍可能会被虚拟世界里的障碍替换，类似游戏的任务导航箭头将会引导用户安全绕过障碍。研究人员的 DreamWalker VR 原型包括了 VR 头戴式设备、双频 GPS 手机以及背包里执行大量计算的高性能计算机。
+➜SpaceX 计划 2020 年开始提供 Starlink 宽带服务
+https://www.solidot.org/story?sid=62342	34947
+SpaceX 总裁兼首席运营官 Gwynne Shotwell 表示，在完成 6 到 8 次发射复盖足够大范围之后，该公司计划从 2020 年<a href="https://spacenews.com/spacex-plans-to-start-offering-starlink-broadband-services-in-2020/"><u>开始提供 Starlink 卫星宽带服务</u></a>。在这之前，SpaceX 还必须完成用户终端的设计和工程工作，Shotwell 承认这不是什么小的挑战。SpaceX CEO Elon Musk 拥有了一个 Starlink 终端，他通过 Twitter 宣布他的一则帖子是通过 Starlink 完成的。Shotwell 称，SpaceX 需要 24 次发射才能覆盖全球，每一次发射都会提供更大的容量。SpaceX 想要向美国政府提供服务，现在的重心则是如何为消费者市场提供服务。
+➜新基因编辑技术减少脱靶效应
+https://www.solidot.org/story?sid=62343	36008
+CRISPR–Cas9 基因编辑工具备受关注，虽然这种技术可以轻松地改变基因组，但它仍然容易出错，或者产生意外影响。新开发的替代方法可以更好地控制基因组编辑，这对于基因疗法尤其重要。Broad 研究所刘如谦（David R. Liu）教授领导的团队在《自然》期刊上发表<a href="https://www.nature.com/articles/s41586-019-1711-4"><u>论文</u></a>，报告开发了一种全新的精准基因编辑工具 —— 先导编辑（Prime Editor），这种方法融合了工程逆转录酶和 Cas9，将新的遗传信息直接写入到靶向 DNA 位点，从而使用 Prime 编辑导向 RNA 进行编辑。<a href="http://www.ebiotrade.com/newsf/2019-10/20191022172914332.htm"><u>作者表示</u></a>，这种方法可以降低 “脱靶” 效应，这是标准 CRISPR–Cas9 系统某些应用面临的主要挑战，从而带来更安全的基因疗法。
+➜中国涌现炒鞋和炒裙热潮
+https://www.solidot.org/story?sid=62344	38258
+中国现在最炙手可热的投资品是什么？耐克的球鞋和日本洛丽塔风格的裙子可能是出乎你意料的两个答案。“25 岁学生炒鞋月入百万”、“4 天暴涨 9 倍”…… 靠炒球鞋 “逆袭” 的传说过去几个月来频繁出现在中国社交媒体上。可以与之匹及的，是二次元文化爱好者常购买的洛丽塔风格洋裙，据报道，一条 1000 多元购买的裙子转手就可以卖近 5000 元。咨询公司艾媒咨询的数据显示，2019 年全球二手球鞋市场规模达 60 亿美元，其中中国二手球鞋转售市场规模超 10 亿美元。二手球鞋交易的火爆，被认为与球鞋发售的方式有很大关系。多年来，耐克、阿迪达斯等品牌都通过抽签等方式发售限量鞋与联名鞋。<a href="https://www.bbc.com/zhongwen/simp/chinese-news-50136810"><u>对于这股热潮</u></a>，央行上海分行警告称，“炒鞋” 是一种 “击鼓传花式的资本游戏”。官媒《光明日报》也发文号召有关部门 “给这场来得莫名其妙的炒作降降温”。
+➜中国独角兽创业公司数量超过美国
+https://www.solidot.org/story?sid=62345	39497
+胡润研究院的报告显示，中国独角兽创业公司的数量<a href="https://www.bbc.com/news/business-50134460"><u>超过了美国</u></a>。所谓独角兽是指估值超过 10 亿美元的创业公司。<a href="https://www.hurun.net/CN/Article/Details?num=E7190250C866"><u>报告称</u></a>，中国有 206 家独角兽，而美国为 203 家。两家的独角兽数量就占到了全世界的八成以上。阿里巴巴关联公司蚂蚁金融估值最高，达到了 1500 亿美元。字节跳动其次，估值 750 亿美元。嘀嘀打车第三，估值 550 亿美元。前十名中的非中国企业包括美国电子烟品牌 JUUL Labs、民宿短租平台 Airbnb和 SpaceX，以及最近卷入风波的 WeWork。
+➜英国研究显示青少年过度使用手机而缺觉
+https://www.solidot.org/story?sid=62346	41506
+英国一项研究<a href="https://www.bbc.com/zhongwen/simp/science-50149099"><u>显示</u></a>，每天使用社交网络超过三小时的青少年更有可能晚于晚上 11 点睡觉，且更可能在半夜醒来。由英国格拉斯哥大学进行的研究指出，每三个 13 至 19 岁的青少年当中就有一个受影响，而每五个青少年当中就有一个每天有五小时花在使用 Instagram、WhatsApp 和 Facebook 等社交软件上。研究人员表示，13 至 15 岁的青少年可能因为使用手机而导致睡觉时间延迟。该项研究对 1.2 万名青少年进行了调查，发现要让他们离开手机可能 “非常有难度”，因为这个年龄段正是独立自主意识越来越强的阶段，与朋友保持联络成为尤其重要的事。非常频繁地使用社交网络（每天 5 小时或以上）的青少年，在上学日较晚入睡或在非上学日晚于午夜入睡的几率，比每天使用 1 至 3 小时的人高大约 70%。<a href="https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2019-031161" target="_blank"><u>研究报告</u></a>发表在《BMJ Open》期刊上。
+➜IBM 反驳 Google 的“量子霸权”论
+https://www.solidot.org/story?sid=62347	42993
+Google 研究人员在发表在《自然》期刊的<a href="https://www.nature.com/articles/s41586-019-1666-5"><u>论文</u></a>中宣称，该公司的 53 量子比特处理器实现了“量子霸权”，最先进的超级计算机将需要一万年时间去执行相同的任务。IBM 认为这是夸大其词。它的研究人员<a href="https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/"><u>在官方博客上称</u></a>，经典超级计算机在两天半的时间里完成了相同的任务。IBM 的研究人员称，这还是一个保守的估计，在额外的改进之后所需时间还能进一步减少。Google 被指选择了一个量子计算机擅长而经典计算机不擅长的任务，Google 研究人员称，53 量子比特计算机能在 200 秒完成计算，而世界上最强大的美国橡树岭国家实验室的 Summit 超算将需要一万年。IBM 研究人员<a href="https://www.theregister.co.uk/2019/10/22/ibm_poopoos_google_quantum_claims/"><u>认为</u></a>，量子计算机将会与经典计算机共存，它们都有各自的优势。

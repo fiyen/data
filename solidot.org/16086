@@ -1,0 +1,42 @@
+➜微软延长Windows XP安全产品更新至2015年
+https://www.solidot.org/story?sid=38052	8380
+微软官方博客<a target="_blank" href="http://blogs.technet.com/b/mmpc/archive/2014/01/15/microsoft-antimalware-support-for-windows-xp.aspx"><u>宣布</u></a>，Windows XP安全产品将会继续提供更新至2015年7月14日。此前微软曾透露将在Windows XP终止支持后停止所有安全产品的更新。微软表示，此举旨在帮助企业机构完成迁移，而 Windows XP的终止支持日期不会改变。对XP消费者来说，这意味着免费杀毒软件Microsoft Security Essentials将会继续更新。
+➜病毒式推广威胁新闻业生态
+https://www.solidot.org/story?sid=38053	10022
+2013年增长最快的在线内容形式是像病毒一样四处传播的感人视频和各种段子，尽管记者以发掘坏消息和糗事为荣，感人视频却常常能引起人的正面情绪——爱、赞赏和敬畏。它们的包装方式就是为了便于与朋友分享，然后像病毒一样扩散。传统新闻业披露的丑闻影响力还赶不上可爱的猫咪视频。宾夕法尼亚大学沃顿商学院两位教授研究了《纽约时报》的7000篇文章，发现悲伤的报道被分享得最少，因为悲哀是一种刺激性较低的负面状态。人们更喜欢分享正面报道，因为这是一种体现宽容和提高声誉的方法。在公开场合分享愉快事物能令人们自身显得很善良。最初只是学术界信息共享手段的互联网，如今却主要成了一种娱乐媒介——在这种媒介上，一个吸引眼球的视频标题就足以替代所有文字。归根结底，<a target="_blank" href="http://www.ftchinese.com/story/001054429?full=y"><u>娱乐业的规模比新闻业更大</u></a>。
+➜比特币是什么？
+https://www.solidot.org/story?sid=38054	12131
+《华尔街日报》发表了三位独立研究员发表的《<a target="_blank" href="http://cn.wsj.com/gb/20140116/OPN073343.asp"><u>比特币是什么，政府应该做什么》</u></a>，文章驳斥了央行调查与统计司盛松成和张璇最近的文章《<a target="_blank" href="http://finance.sina.com.cn/zl/china/20140102/104117821795.shtml"><u>虚拟货币本质上不是货币──以比特币为例</u></a>》中的论点。文章指出，法币不是货币的唯一形态，比特币没有宣称要取代国家信用货币体系，只是通过技术改进支付和流通中的问题，提供另一种选择。国家信用货币也存在缺陷，法币的信用是建立在国家法律强制性基础上的，对于民众来说，这是国家强制力赋予的一种被动性“信任”，而不是具有主动性和自主性的“信任”。政府对限制甚至禁止比特币交易，似乎有很多理由，如不利于经济金融稳定、价格剧烈波动引致过度投机和操纵价格、为洗钱和地下交易提供便利、挑战外汇管理制度等。但政府合适的应对措施不应是直接限制和禁止，而是应该制定更加公平透明的交易规则，实施反洗钱措施。
+➜沃茨称赞小米产品
+https://www.solidot.org/story?sid=38055	13115
+苹果联合创始人沃茨（<span itemprop="articleBody description text">Steve Wozniak</span>）<a target="_blank" href="http://www.macworld.com/article/2087060/steve-wozniak-visits-xiaomi-in-china-endorses-its-products.html"><u>访问了中国小米公司</u></a>，称赞了小米的手机，表示相信小米的产品能在国际上取得成功。沃茨刚刚开始使用一款小米智能手机，称小米及其产品给他留下深刻印象。这不是第一次沃茨赞扬苹果的竞争对手，他曾说过三星制造出了优秀的产品，<span itemprop="articleBody description text">希望iPhone能做</span><span itemprop="articleBody description text">Android上能做的一些事情。小米的雷军说，他们邀请沃茨访问小米是为了鼓励工程师创造出像艺术一样精致的竞争性产品。</span>
+➜Songbird继承者Nightingale发布首个版本
+https://www.solidot.org/story?sid=38056	15018
+媒体播放器Nightingale发布了<a target="_blank" href="http://blog.getnightingale.com/2014/01/12/announcing-nightingale-1-12-1/"><u>v1.12.1版</u></a>本，这是自去年6月自由软件播放器Songbird<a target="_blank" href="http://www.solidot.org/story?sid=35188"><u>宣布</u></a>终止开发后发布的首个版本。Songbird因为资金枯竭终止开发，公司也被迫关闭。Nightingale是Songbird的社区维护分支，v1.12.1的<a target="_blank" href="http://wiki.getnightingale.com/doku.php?id=releases_notes:1.12.1_release_notes"><u>新特性和改进</u></a>包括：修正Ubuntu 13.04下的崩溃问题，改进本地化，更新启动画面，用ngale替代Songbird协议，Mac OS X版不再使用GPU，Unity整合，libnotify整合，改进稳定性，等等。
+➜安全研究人员开发出提取TrueCrypt主密钥插件
+https://www.solidot.org/story?sid=38057	34951
+加密软件TrueCrypt在机器休眠和正常运作时会将主密钥留在内存中，如果有人能物理接触TrueCrypt加密的机器，而机器并未关闭，那么他们将有可能从内存中提取出主密钥。Volatility项目安全研究人员<a target="_blank" href="http://volatility-labs.blogspot.com/2014/01/truecrypt-master-key-extraction-and.html"><u>已经开发出</u></a>提取TrueCrypt主密钥的插件如truecryptsummary，能自动寻找刷新到磁盘的内存转储中的TrueCrypt实例，提取出相关密钥和参数。研究向TrueCrypt用户<a target="_blank" href="http://it.slashdot.org/story/14/01/15/2214249/truecrypt-master-key-extraction-and-volume-identification"><u>发出警告</u></a>，如果他们不使用加密的机器，那么最好立即将其关闭。
+➜苹果就应用内购买指控与FTC达成和解
+https://www.solidot.org/story?sid=38058	35388
+苹果与美国联邦贸易委员会(FTC)就一项指控<a target="_blank" href="http://www.ftchinese.com/story/001054436"><u>达成了和解</u></a>。由于许多孩子在无意间从iPhone和iPad上购买了应用程序和游戏的更新软件，苹果须向他们的家长支付数千万美元赔偿金。FTC表示，受影响的美国消费者至少达到数万人，他们的孩子为一些游戏程序支付了几百甚至几千美元，但苹果事先没有得到家长对收费的“明确同意”。为达成和解，苹果同意向家长退还至少3250万美元，且退款总额没有上限，并同意最迟于2014年3月底前修改其应用商店(App Store)的“应用内支付”获得用户同意的方式。苹果在昨天发布的一份声明中说：“从一开始，保护孩子就一直是应用商店的头等大事。”
+➜为什么鸟儿形成V字飞行
+https://www.solidot.org/story?sid=38059	37253
+迁徙的候鸟会形成V字飞行，科学家对此一直有争论，认为可能有两种解释：其一是V字让飞行更容易，其二是它们不过是跟随着领飞的鸟。根据发表在《自然》上的<a target="_blank" href="http://www.nature.com/nature/journal/v505/n7483/full/nature12939.html"><u>最新研究报告</u></a>，科学家利用超轻型飞机引导人工饲养的濒危动物秃头鹮沿着祖先的迁徙路线飞行，他们给其中一些鸟安装了数据记录仪，记录仪中的GPS能精确定位每只鸟的飞行位置，精度为50厘米；而加速计则能显示鸟儿拍动翅膀的时机选择。结果发现，鸟儿会仔细安排翼尖位置，同步翅膀拍打，很可能是为了利用前面鸟儿的上升气流，节省飞行能耗。研究人员没有尝试计算鸟儿节省的能量，因为安装必要的生理测量仪器对濒危鸟儿过于侵略性。此前的研究估计，V字飞行能节省20%到30%的能量。
+➜华大基因认为IQ可遗传
+https://www.solidot.org/story?sid=38060	39044
+华大基因<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2014/1/287590.shtm"><u>宣称</u></a>他们正逐渐接近达成一项目标，即让父母们可以选择<a target="_blank" href="http://qz.com/166699/a-chinese-company-is-pioneering-the-technology-to-let-parents-pick-their-smartest-embryo/#"><u>最聪明的宝宝</u></a>。研究人员相信决定未来一个孩子是否聪明的因素中有大约50~80%是由遗传因素决定的。华大基因是全球规模最大的基因工程研究机构，目前该机构已经获得来自2000名高智商人群的基因样本。研究人员计划将这些高智商人群的基因与普通人群的基因组进行比对，从而查找那些让这些人显得更加优秀的基因根源。从理论上来说，这一研究一旦成熟，将有望让待生育的父母们“挑选”他们未来的孩子，从而确保其后代在智商上的优越性。目前该公司的一些部门已经开始接受相关测试工作，也由此引发了广泛的关注，人们担忧这种做法将导致一些较为激进的父母采取某种婴儿“筛选”的做法，而这样做的正当性是充满争议的。研究人员相信绝大多数儿童的智商值大约相当于其父母智商平均值，误差在13个点之内。然而科学家们也注意到，大约每100名孩子中会有2~3个孩子会异乎寻常的聪明。
+➜苹果设备销量将在今年超过Windows PC
+https://www.solidot.org/story?sid=38061	41042
+Asymco的Horace Dediu发表<a target="_blank" href="http://www.asymco.com/2014/01/13/when-apple-reached-parity-with-windows/"><u>文章</u></a>称，2013年Windows PC销量仅比苹果设备（包括Mac、iPad、iPhone和iPod touch）销量高出1.8%，根据目前的趋势，苹果设备销量将在今年超过Windows PC。Windows PC的使用寿命要比苹果移动设备长久得多，两者本来没多少可比性。但作者表示，这种对比<a target="_blank" href="http://www.fortunechina.com/column/c/2014-01/16/content_191107.htm"><u>反应了一个重要趋势</u></a>。上世纪八、九十年代，计算平台的决策权最初掌握在企业手中，后来转移到开发商手中，随后又转移到个人手中。那时，只要说服500名（CIO之类）有权设定采购标准的人就能使某个平台胜出。如今，移动产品存在着数十亿决策者。区区500个（采购）决策不值一提。事实上，虽然苹果至少有5亿忠实、而且掏得起钱的用户，它在华尔街眼中仍然朝不保夕。 归根结底，采购者和最终受益者之间的中间人消失，使得微软对于购买决策的控制权消失。这种情况不是不大可能扭转，而是根本不可能扭转。计算决策权已经转移到数十年的最边缘处。电脑不仅已经是个人使用，而且是个人拥有。
+➜网民人数超过6亿，微博用户减少2千万
+https://www.solidot.org/story?sid=38062	42707
+中国互联网络信息中心（CNNIC）<a target="_blank" href="http://www.cnnic.net.cn/gywm/xwzx/rdxw/rdxx/201401/t20140116_43823.htm"><u>发布</u></a>了第33次《<a target="_blank" href="http://www.cnnic.net.cn/gywm/xwzx/rdxw/rdxx/201401/W020140116475324694244.pdf"><u>中国互联网络发展状况统计报告</u></a>》（PDF）。报告称，截至2013年12月，中国网民人数达到6.18亿，全年新增网民5358万人。手机网民数达到5亿。微博、社交网站和论坛活跃人数都有所下降，其中微博相比2012年底其用户规模下降2783万人。人均每周上网时长达25.0小时，相比上年增加了4.5个小时。域名总数为1844万，其中.CN域名总数为1083万，中国网站总数是320万。截至2013年12月，IPv4地址数量为3.30亿，拥有IPv6地址16670块/32。国际出口带宽为3,406,824Mbps，这个数字正接近2008年的香港（2008年香港国际带宽3,826,000 Mbps）。《南华早报》<a target="_blank" href="http://www.nanzao.com/sc/china/19861/zhong-guo-wei-bo-yong-hu-qu-nian-jian-shao-2783mo-ren"><u>认为</u></a>，微博用户数量下降与下半年打击网络谣言行动有关。在去年8月的短短两周内，有数以百计的网民因“造谣传谣”被处理。
+➜传爱立信CEO成为微软下任CEO候选
+https://www.solidot.org/story?sid=38063	45057
+彭博社援引知情人士的话报道，遴选微软下任CEO的董事会将爱立信CEO卫翰思(Hans Vestberg)<a target="_blank" href="http://cn.wsj.com/gb/20140116/tec184728.asp"><u>作为潜在继任人选</u></a>。此前，热门候选人、福特CEO穆拉利(Alan Mulally)表示将继续留在福特汽车，从而结束了外界的猜测。目前所知的微软下任CEO候选人包括诺基亚前CEO埃洛普(Stephen Elop)、甲骨文总裁赫德(Mark Hurd)、Pivotal软件公司CEO Paul Maritz，以及微软高管Satya Nadella和贝茨(Tony Bates)。
+➜Google收购Nest的新闻帮助Nestor公司股价暴涨19倍
+https://www.solidot.org/story?sid=38064	46497
+在Google宣布32亿美元收购Nest公司之后，股票代号<a target="_blank" href="http://finance.yahoo.com/echarts?s=NEST+Interactive#symbol=nest;range=1d;compare=;indicator=volume;charttype=area;crosshair=on;ohlcvalues=0;logscale=off;source=undefined;"><u>NEST</u></a>的一家小公司股价<a target="_blank" href="http://www.businessinsider.com/investors-buy-nestor-not-nest-2014-1"><u>暴涨了19倍</u></a>。Nestor Inc.是一家出售交通执法系统的小公司，它的股票几乎一文不值。但在Google收购新闻传出之后，投资者混淆了Nest和Nestor，结果导致它的股价暴涨1900%。彭博社的Matt Levine提出了一个有趣的问题：如果你提前知道了Google收购Nest的消息，然后买入了部分Nestor股票，这算不算内幕交易？美国对内幕交易的执法很严厉。
+➜黄禹锡寻求救赎
+https://www.solidot.org/story?sid=38065	48327
+《科学》发表了一篇<a target="_blank" href="http://news.sciencemag.org/asiapacific/2014/01/after-fraud-korean-cloner-seeks-redemption"><u>长文</u></a>，介绍了八年前因为学术丑闻而身败名裂的韩国克隆专家黄禹锡的近况。在被首尔国立大学解雇八年之后，61岁的黄禹锡仍然拥有一个令许多研究人员羡慕的职位。他领导着40人的非营利组织Sooam生物科技研究基金会，年度预算400万美元，他的研究团队不断发表新论文。来自世界各地的宠物狗主人和韩国警察都寻求他的克隆狗服务。黄的团队正将克隆技术应用于拯救濒危动物甚至是已灭绝动物（如猛犸象），改进家畜品种，以及进行发育生物学方面的基础研究。黄禹锡希望有一天能继续人类胚胎干细胞上的工作。部分人认为他已得到了救赎。深圳华大基因的创始人杨焕明说，在动物克隆上，他的团队是世界最好的团队之一。杨焕明认为黄禹锡将会重新获得科学界的尊重。但其他人并不这么肯定，认为他的造假丑闻影响太恶劣了。

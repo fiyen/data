@@ -1,0 +1,57 @@
+➜海马的尾巴有望推进机器人技术
+https://www.solidot.org/story?sid=44645	7966
+<a href="/~HighRise">HighRise</a> 写道<i> "克莱姆森(Clemson)大学的研究人员最近在《科学》上发文，称找到了改进机器人手臂僵
+硬的理想方法：<a target="_blank" href="http://newsstand.clemson.edu/mediarelations/seahorse-tails-could-inspire-new-generation-of-robots/"><u>模拟海马的尾巴</u></a>。与大多数动物不同，海马的尾巴的是方的，而不是圆形或椭圆。研究人员用3D打印仿制了一条方巴，与圆形尾巴相比：“方形比圆形更僵硬，更强壮，也更容易从形变恢复; 方形的弯曲度只有圆形的一半，但这能帮海马更好地抵御伤害”。
+研究人员称：“搞清楚这些原型中的原理，有助于工程师研发海马尾巴的类似技术。
+模仿海马尾巴的抓握和防御功能，对机器人、防御系统以及生物医学都非常有用。”
+"</i>
+➜国家安全法对我们意味着什么
+https://www.solidot.org/story?sid=44646	10197
+中国于7月1日通过了受争议的《国家安全法》，法律于同一天生效。和许多重要的法律一样，《国家安全法》也充斥着模糊的措辞，为任意和选择性的执行留下了广阔的空间。根据官方公布的<a target="_blank" href="http://news.mod.gov.cn/headlines/2015-07/01/content_4592594.htm"><u>法律全文</u></a>，有多个条款值得注意，之前草案中受争议的不良文化和科技审查都得到了保留：<br>
+<i>第十五条...国家防范、制止和依法惩治任何叛国、分裂国家、煽动叛乱、颠覆或者煽动颠覆人民民主专政政权的行为；防范、制止和依法惩治窃取、泄露国家秘密等危害国家安全的行为；防范、制止和依法惩治境外势力的渗透、破坏、颠覆、分裂活动。<br>
+第二十三条国家坚持社会主义先进文化前进方向，继承和弘扬中华民族优秀传统文化，培育和践行社会主义核心价值观，防范和抵制<b>不良文化</b>的影响，掌握意识形态领域主导权，增强文化整体实力和竞争力。<br>
+第二十四条国家加强自主创新能力建设，加快发展自主可控的战略高新技术和重要领域核心关键技术，加强知识产权的运用、保护和科技保密能力建设，保障重大技术和工程的安全。<br>
+第二十五条国家建设网络与信息安全保障体系，提升网络与信息安全保护能力，加强网络和信息技术的创新研究和开发应用，实现网络和信息核心技术、关键基础设施和重要领域信息系统及数据的安全可控；加强网络管理，防范、制止和依法惩治网络攻击、网络入侵、网络窃密、散布<b>违法有害信息</b>等网络违法犯罪行为，维护国家网络空间主权、安全和发展利益。 <br>
+第五十九条国家建立国家安全审查和监管的制度和机制，对影响或者可能影响国家安全的外商投资、特定物项和关键技术、网络信息技术产品和服务、涉及国家安全事项的建设项目，以及其他重大事项和活动，进行国家安全审查，有效预防和化解国家安全风险。</i>
+《纽约时报》<a target="_blank" href="http://cn.nytimes.com/china/20150705/c05chinatech/"><u>援引跨国企业和行业的话称</u></a>，重要领域的技术“安全可控”可能会被用来逼迫企业设立“后门”——即允许第三方进入系统的手段——提供加密密钥，乃至交出源代码。纽约对外关系委员会的高级研究员Adam Segal说，“因为谁都不知道如何执行那个标准，外国公司对它的含义感到担忧。那是意味着它们不得不让人通过后门进入系统，还是得与中国公司搭档？”
+➜Firefox 39发布
+https://www.solidot.org/story?sid=44647	11896
+Mozilla上周末<a href="https://www.mozilla.org/en-US/firefox/39.0/releasenotes/"><u>发布了Firefox 39</u></a>。主要新特性包括：Firefox Hello视频聊天系统的<a target="_blank" href="https://support.mozilla.org/en-US/kb/share-firefox-hello-social"><u>社交分享工具</u></a>，简化第三方社交平台的聊天邀请分享；钓鱼和恶意程序检测工具支持检测下载文件；支持Unicode 8.0新增加的种族肤色绘文字符号；移除SSLv3支持（Mozilla从Firefox 34起就因为安全原因禁止使用SSLv3，这次是彻底移除），除了白名单中的域名外禁止使用RC4(进入白名单中的中国网站包括了华西证券等，具体名单可浏览<a target="_blank" href="http://mxr.mozilla.org/mozilla-release/source/security/manager/ssl/src/IntolerantFallbackList.inc"><u>这个网页</u></a>)，等等。
+➜Linux 4.2-rc1发布
+https://www.solidot.org/story?sid=44648	14413
+Linus Torvalds在内核邮件列表上宣布关闭合并窗口<a target="_blank" href="https://lkml.org/lkml/2015/7/5/218"><u>发布Linux 4.2-rc1</u></a>。Torvalds称根据commits数计算4.2是近期发布的最大的一个版本，而根据代码变更行数计算4.2则是领先于其它版本，它增加了超过100万行代码，移除了大约25万行代码。为什么会加入如此多的代码？原因是新合并的AMD GPU寄存器描述头文件和AMDGPU驱动，两者加起来就占了一半。Linux 4.2的新特性包括了：AMDGPU内核图形驱动，Intel Broxton支持，改进NCQ TRIM，F2FS文件系统加密，等等。
+➜太阳能飞机打破单人不间断飞行纪录
+https://www.solidot.org/story?sid=44649	17757
+跨越太平洋的太阳能飞机阳光动力2号（<a target="_blank" href="http://www.solarimpulse.com/rtw"><u>Solar Impulse 2</u></a>）<a target="_blank" href="http://www.dw.com/zh/%E5%A4%AA%E9%98%B3%E8%83%BD%E9%A3%9E%E6%9C%BA%E6%89%93%E7%A0%B4%E5%8D%95%E4%BA%BA%E4%B8%8D%E9%97%B4%E6%96%AD%E9%A3%9E%E8%A1%8C%E7%BA%AA%E5%BD%95/a-18559285"><u>打破了</u></a>单人驾机不间断飞行记录，连续飞行117小时52分钟（相当于5天5夜）。这架飞机6月29日从日本名古屋起飞，7月3日当地时间5点在夏威夷着陆。
+这段航程是此次太阳能飞机环球航行的一部分。环球飞行开始于今年3月9日，共计划了12段航程，总里程约3.5万公里，由瑞士探险家Andre Borschberg与Bertrand Piccard交替驾驶。而此次从日本飞往夏威夷的航程是整个环球飞行中最为艰难的一部分，飞行员需要在狭小的座舱中独自驾机飞行5天。飞机由Borschberg驾驶。在地面待命的Piccard在一份声明中说："难以想像，一架太阳能动力的飞机居然打破了喷气式飞机创造的飞行时长纪录。这是一个清晰的信号：清洁能源可以实现曾被认为不可能的目标。"
+对于这次飞行而言，最大的挑战并非太阳能本身，而是飞行员的体能极限。在极度疲劳的情况下，飞行员也只能在座椅上短暂小睡20分钟，期间的基本飞行操作暂时由自动驾驶仪接管。 <br>
+➜北美分配光了IPv4地址空间
+https://www.solidot.org/story?sid=44650	19407
+继亚太区、欧洲和中东区，拉美和加勒比区之后，负责北美区IPv4地址分配的机构ARIN<a target="_blank" href="http://arstechnica.com/information-technology/2015/07/us-exhausts-new-ipv4-addresses-waitlist-begins/"><u>也耗光了可分配的地址空间</u></a>，目前只剩下非洲地区的机构可以根据需要分配IPv4地址。ARIN手中仍然有约500个可用512个和256个地址的小地址段可供分配，但这些地址段只能满足2周到4周的需求。ISP如果需要IPv4地址它只有三种选择：请求小地址段，等待未来某个时间有更大可用数量的地址段释放出，从有多余地址的组织或机构购买。购买一个有 65,536 个可用地址的/16地址段的价格并不高，ARIN区只需要7到8美元，其它地区可能略贵。随着IPv6的广泛部署，IPv4地址段的价格会下跌。IPv6能提供接近无限的IP地址，但问题是大部分网络还没启用IPv6。
+➜Linus Torvalds不讨厌systemd，不担心人工智能
+https://www.solidot.org/story?sid=44651	28542
+Linux作者Linus Torvalds<a target="_blank" href="http://linux.slashdot.org/story/15/06/30/0058243/interviews-linus-torvalds-answers-your-question"><u>回答了/.读者提出的10个问题</u></a>，他表示不讨厌systemd，也不担心人工智能。<i>Linus创造了两大影响深远的开源项目：Linux和Git。他是如何做到的？Linus说他更倾向于“天赋加上努力加上幸运”这个传统说法，至于天赋占几成努力占几成幸运几成则由他人去说了。初始化系统systemd在社区引发了许多争议，甚至有人希望Linus亲自出手去解决这个问题，就像他开发内核和创造新的版本控制系统那样。Linus称他不怎么理解围绕systemd的仇恨，他个人认为systemd大大改进了初始化系统，他批评过systemd的维护者，但主要理由不是systemd本身而是bug报告的处理上，他对维护者的批评并不意味着他反对systemd。对于人工智能，Linus表示不理解所谓的人类存在性危机，而奇点则是科学幻想，他个人认为奇点也不是好的科幻。内核发展到今天是否已经称得上是一个完成的项目？Linus不这么看，今天的内核与40年前的内核并非截然不同，它一直在增量改进，这是好事。他认为人们通常过高估计了激进的新想法，真正重要的东西是让人感到枯燥的细节。技术就是这样演化的。</i>
+➜新地平线号未发现硬件软件故障
+https://www.solidot.org/story?sid=44652	31089
+新地平线号于7月4日<a target="_blank" href="http://www.solidot.org/story?sid=44644"><u>进入到安全模式</u></a>，调查认为飞船<a target="_blank" href="http://www.nasa.gov/nh/new-horizons-plans-july-7-return-to-normal-science-operations"><u>没有发生</u></a>硬件和软件故障。导致这起事件的根本原因是准备近距离飞越冥王星而执行一操作时飞船指令系列出现一个很难探测的时间设置错误。NASA在一份声明中称，新地平线号将于7月7日恢复正常，仍然按部就班的准备7月14日的冥王星飞越。NASA的行星科学总监Jim Green说，他很高兴任务小组快速识别出问题，确信飞船是健康的。新地平线号距离地球大约30亿英里，无线电信号传输到地球需要4.5小时。
+➜Hacking Team被攻击，攻击者公布400GB的文件
+https://www.solidot.org/story?sid=44653	32435
+臭名昭著的意大利安全公司Hacking Team被黑，攻击者控制了Hacking Team的Twitter账号，<a target="_blank" href="https://twitter.com/hackingteam/status/617852091390935040"><u>公布了</u></a>400GB的电子邮件、内部文件和源代码（mega<a target="_blank" href="https://mega.co.nz/#!Xx1lhChT!rbB-LQQyRypxd5bcQnqu-IMZN20ygW_lWfdHdqpKH3E"><u>下载地址</u></a>，<a target="_blank" href="magnet:?xt=urn:btih:51603bff88e0a1b3bad3962614978929c9d26955"><u>磁链</u></a>）。Hacking Team开发和销售互联网监控软件，被记者无国界组织列为“互联网的敌人”，虽然该公司坚称它不与专制政府做生意。<a target="_blank" href="http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html"><u>根据目前已分析的内部文件</u></a>，Hacking Team的客户包括了：埃及，埃塞俄比亚，摩洛哥，尼日利亚，苏丹，智利，哥伦比亚，厄瓜多尔，洪都拉斯，墨西哥，巴拿马，美国，阿塞拜疆，哈萨克斯坦，马来西亚，蒙古，新加坡，韩国，泰国，乌兹别克斯坦，越南，澳大利亚，塞浦路斯，捷克共和国，德国，匈牙利，意大利，卢森堡，波兰，俄罗斯，西班牙，瑞士，巴林，阿曼，沙特，阿联酋。Google也被发现与Hacking Team有业务往来，看起来是与地图和Google地球软件相关。
+➜一名受欢迎的Reddit管理员被解雇，版主集体抗议
+https://www.solidot.org/story?sid=44654	36023
+上周五，Reddit用户一觉醒来发现他们无法访问特定讨论主题或叫subreddit。原因是/r/IAmA的一名协调员、Reddit的全职雇员Victoria Taylor突然遭到解雇，<a target="_blank" href="http://arstechnica.com/business/2015/07/reddit-revolts-after-site-lays-off-ask-me-anything-employee/"><u>此举激怒了众多的版主或叫moderator</u></a>。在Reddit上，moderator可以访问subreddit的管理工具，将其设置为公开或私有，这些moderator都是志愿者，也就是说Reddit的大部分管理工作是不拿钱的志愿者完成的。此举有利有弊，而其弊处在整个事件中完全暴露出来。因为不满Victoria Taylor遭到解雇，许多subreddit的moderator们修改了设置将其设为私有，外人无法再访问这些subreddit。被临时设为私有的subreddit包括了受欢迎的/r/IAmA、/r/AskReddit、/r/Books、/r/TodayILearned、/r/Videos、/r/History、/r/Gaming、r/science、/r/Movies和/r/Music等等（大部分都已经<a target="_blank" href="https://np.reddit.com/live/v6d0vi6c8veb"><u>恢复公开访问</u></a>）。Reddit的管理层一开始不认为此事很严重，联合创始人Alexis Ohanian还就此开了玩笑，但事情的发展出乎他们的意外。Reddit的CEO鲍康如成为此事的一个焦点，用户在change.org上请愿<a target="_blank" href="https://www.change.org/p/ellen-k-pao-step-down-as-ceo-of-reddit-inc?recruiter=15598897"><u>解雇鲍康如</u></a>，署名人数超过了15.5万。在网站上，鲍康如也成为<a target="_blank" href="https://np.reddit.com/search?q=+Ellen+Pao&amp;sort=relevance&amp;t=all"><u>攻击的对象</u></a>，他们甚至修改了希特勒的维基百科页面，用鲍康如的肖像替代希特勒，认为她就是Reddit的希特勒。
+➜中国研究人员用动物预测地震
+https://www.solidot.org/story?sid=44655	37435
+官方媒体报道称，中国研究人员正使用鸡、鱼和蟾蜍<a target="_blank" href="http://phys.org/news/2015-07-china-animals-earthquakes.html"><u>去预测地震</u></a>。南京地震机构已将7家动物养殖场转变成地震监测站，养殖场被要求以每天两次的频率更新动物行为报告。鸡跳上树、鱼跃出水面和蟾蜍成群移动等异常行为可能暗示即将发生地震。南京今年还计划招聘另外7个养殖场。一家动物园的管理员说，他们没有变成地震监测站，因为动物很容易因为游客而表现出异常行为。中国经常发生地震，最近一次较大规模的地震发生在新疆，有3人死亡。
+➜三星因为手机预装臃肿软件在中国被起诉
+https://www.solidot.org/story?sid=44656	38719
+上海消费者权益保护委员会因为手机预装的臃肿软件而<a target="_blank" href="http://arstechnica.com/gadgets/2015/07/samsung-sued-for-loading-devices-with-unremovable-crapware-in-china/"><u>起诉</u></a>天津三星及广东欧珀电子。上海消保委委托专业机构<a target="_blank" href="http://www.315.sh.cn/news/detail.aspx?id=81"><u>检查了20款智能手机</u></a>，发现除系统软件外，手机均不同程度地预装了各类软件，最多的达到71个，少的也有近30个。模拟普通消费者的操作方式卸载预装应用软件时，有的手机无法卸载任何预装软件，有的手机虽可卸载部分，但仍有大量预装软件不能卸载。根据比较试验结果，欧珀X9007和三星SM-N9008S手机不可卸载软件数量位列前两位。欧珀手机总共预装了71个软件，其中不可卸载软件数量达47个，是所有受试手机中最多的。三星手机为44个，且所有预装软件均不可卸载。
+➜巴基斯坦第一部 Android One 手机发布，售价约702元人民币
+https://www.solidot.org/story?sid=44657	39438
+<a href="http://xitu.io/9">Glow</a> 写道 <i>"Google 在<a href="http://googleasiapacific.blogspot.com/2015/07/pakistan-youre-up-next-for-android-one.html" target="_blank">官方博客</a>宣布在巴基斯坦发布一款型号为&nbsp;<a href="http://www.qmobile.com.pk/phone-androidone.html" target="_blank">QMobile A1</a>&nbsp;的Android One手机，售价 115000 PKR，折人民币约702元。此款手机搭载联发科4核心1.3GHz 的 CPU，1GB的RAM，8GB的ROM，4.5英寸854×480显示屏，使用的是最新版本的 Android&nbsp;Lollipop 5.1.1 系统。Android One 是2014年 Google I/O 大会上最引人注意的项目，Android One的目的是为了让谷歌控制的Android快速吸引到下一个十亿（甚至二十亿）的用户群，方法是在本地OEM的协助下提供具备竞争力的入门级产品。通过这种方式，厂商们不必再去担心软件或硬件，这也让它们能够更快地推出更多产品。从谷歌的角度看，Android One让他们可以更加严密地控制Android生态系统，并确保自己的服务和设计语言(Material Design)被放在了最重要的位置。"</i>
+➜一次简单的牙科手术抹掉了病人形成新记忆的能力
+https://www.solidot.org/story?sid=44658	42668
+William的生物钟永久性的停留在了2005年3月14日13:40 ——预约的牙科手术时间。他是英国空军的一名军官，刚刚回国出席祖父的葬礼返回德国的驻地。那天早晨他还打了45分钟的排球，回办公室处理了积累的电子邮件，然后去见牙医进行一次简单的牙根管手术。他仍然记得坐到椅子上，牙医注射了局部麻醉剂。然而之后的记忆<a target="_blank" href="http://www.bbc.com/future/story/20150630-my-dentist-saved-my-tooth-but-stole-my-memory">却是一片空白</a>。他的<a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/25978125"><u>病例</u></a>报告发表在《Neurocase》期刊上。他失去了长期记忆能力，最长记忆时间只有90分钟。每天早晨醒过来，他仍然以为是在2005年的德国，等待访问牙医。他知道自己遇到了问题，他和妻子在智能手机上写下了详细的记录，文件名是”第一件事——读它“。医生至今仍然不知道是什么导致他失去了长期记忆能力。
+➜亚马逊开源它的TLS库
+https://www.solidot.org/story?sid=44659	44631
+亚马逊在Apache许可证下<a target="_blank" href="https://blogs.aws.amazon.com/security/post/TxCKZM94ST1S6Y/Introducing-s2n-a"><u>开源了</u></a>它的TLS实现库<a href="https://github.com/awslabs/s2n"><u>s2n</u></a>，代码托管在Github上。s2n只有6000多行代码，只相当于OpenSSL的1%多一点。OpenSSL备受人诟病的一点就是代码过于复杂，难以检查和安全评估，去年OpenSSL曝出高危漏洞Heartbleed之后，OpenBSD<a target="_blank" href="http://www.solidot.org/story?sid=39251"><u>就创建了分支LibreSSL</u></a>。亚马逊明确表示会支持OpenSSL，s2n并没有提供额外的加密功能，它只实现了SSL/TLS特性的一个相对小的子集。

@@ -1,0 +1,39 @@
+➜雄迈嵌入式设备固件发现 0day 漏洞
+https://www.solidot.org/story?sid=63434	10966
+基于华为海思 SoC 的杭州雄迈数字录像机、网络录像机和网络摄像头设备所用的固件<a href="https://habr.com/en/post/486856/" target="_blank"><u>被发现存在漏洞或后门</u></a>。存在漏洞的设备固件运行的都是 Linux 和一组 busybox 开源工具。busybox 采用的是 GPL 许可证，按许可证要求软件应该都应该提供源代码的，不提供源代码构成了对 GPL 的违反。漏洞设备会与 9530 端口进行通信，经过一系列程序可以激活 telnet daemon，使用硬编码的用户名密码组合如用户名 root 密码 xmhdipc 或 klv123、xc3511、123456、jvbzd 或 hi3518 登陆。
+➜FBI 在星巴克下载了 CIA 黑客工具集
+https://www.solidot.org/story?sid=63435	20980
+美国正在<a href="https://www.solidot.org/story?sid=56513"><u>起诉</u></a>泄露 CIA 黑客工具集 Vault 7 和 Vault 8 的前雇员  Joshua A. Schulte。根据<a href="https://www.emptywheel.net/2020/02/05/the-fbi-downloaded-cias-hacking-tools-using-starbucks-wifi/"><u>公开的法庭文件</u></a>，收集证据的 FBI 特工是在星巴克里通过无线网络下载了 Vault 7，因担心恶意程序没有使用现有的政府电脑，也没有通过 FBI 的 IP 地址。作证的 FBI 特工称，从网上下载任何东西都是有风险的，对于黑客工具和漏洞利用工具的下载，他们采取了额外的保护措施，避免危及内部计算机和网络。同时为了避免泄露调查，他们没有使用 FBI 的 IP 地址下载。特工用了一台非政府计算机，去了星巴克访问了 WikiLeaks 网站下载了文件。
+➜Chrome 广告屏蔽将扩大到视频
+https://www.solidot.org/story?sid=63437	23700
+Google 宣布 Chrome 的广告屏蔽功能将从 2020 年 8 月 5 日起<a href="https://venturebeat.com/2020/02/05/chromes-ad-blocker-will-expand-to-video-on-august-5/"><u>扩大到视频</u></a>。Chrome 内置的广告屏蔽器主要屏蔽广告商联盟 Coalition for Better Ads 定义的不可接受广告。作为最大的互联网广告服务商，Google 是该联盟的成员，联盟定义的不可接受广告包括自动播放的有声广告，带有倒计时的插播式广告等。 Coalition for Better Ads 刚刚宣布了视频广告的标准，对三类视频广告设限，包括：中间插播式广告，无法跳过的播放前长广告，占据屏幕过大的广告。<br>
+➜吉利德表示正加紧生产瑞德西韦
+https://www.solidot.org/story?sid=63438	26739
+吉利德公司的实验性药物瑞德西韦正在武汉进行三期临床试验，试验负责人、中日友好医院教授曹彬表示，“科学需要时间。随机双盲临床研究，不揭盲谁敢说疗效呢？”此前有消息称首批临床效果显著。<span style="text-indent: 2em;"><a href="http://news.sciencenet.cn/htmlnews/2020/2/435441.shtm"><u>吉利德公司称</u></a>，</span>瑞德西韦正用于<span style="text-indent: 2em;">两项临床</span>试验，<span style="text-indent: 2em;">以确定治疗新冠状病毒的安全性和有效性。</span>其中一项研究评估瑞德西韦用于确诊感染新型冠状病毒且已住院但未表现出显著临床症状（如需要额外吸氧）的患者的治疗效果，另一项研究则评估瑞德西韦用于出现较严重临床症状（如需要吸氧）的确诊病患的疗效。该公司表示，考虑到当前情况的紧迫性，它正在采取多种措施加快生产进度，增加供应。
+➜托管在 Bitbucket 上的恶意盗版软件被下载了 50 多万次
+https://www.solidot.org/story?sid=63439	27628
+安全公司 Cybereason 的研究人员<a href="https://www.cybereason.com/blog/the-hole-in-the-bucket-attackers-abuse-bitbucket-to-deliver-an-arsenal-of-malware"><u>报告</u></a>，源码托管平台 Bitbucket 被滥用托管了恶意盗版软件，这些软件被下载了 50 多万次。攻击者使用了多个账号去传播恶意盗版或破解软件，其恶意功能包括窃取电子邮件凭证和其它敏感用户信息，安装勒索软件，窃取数字货币，悄悄利用计算机资源挖掘数字货币等等。攻击者上传了 Adobe Photoshop 等商业软件的破解版本，安装文件捆绑了恶意程序，这些恶意程序包括：Predator、Azorult、Evasive Monero Miner、STOP Ransomware 等等。Bitbucket 在接到通知后已经删除了这些恶意程序。
+➜Google 能通过 Chrome 安装 ID 跟踪用户
+https://www.solidot.org/story?sid=63440	30133
+Google 想要封杀第三方 cookie，想要替换 User-Agent 字符串...Google 会提供很多理由，最主要的理由它未必会说出来：它有更多的方法跟踪用户。当竞争对手的可用跟踪方法少了之后它的竞争优势会更大，而 Google 的 Android 和 Chrome 都有无数用户在使用。在 W3C Technical Architecture Group 上，Google 工程师<a href="https://github.com/w3ctag/design-reviews/issues/467#issuecomment-581944600" target="_blank"><u>提出了 User-Agent 的替代</u></a>。在讨论中，有用户指出 Google 能通过 Chrome 安装 ID 跟踪用户。Chrome 在首次安装运行时会生成 Chrome-Variations 消息头，使用随机选择的种子数生成，如果浏览器禁用了使用统计和崩溃统计，种子数会在 0 -7999 之间选择。Google 称这个消息头不包含任何身份信息，但它可以组合收集的其它信息创造一个<a href="https://news.ycombinator.com/item?id=22236106"><u>独特 Chrome ID</u></a>，即使用户使用隐身模式，这个 ID 也不会发生变化。
+➜Windows 10 搜索功能因微软服务宕机而短暂不可用
+https://www.solidot.org/story?sid=63441	35599
+本周在 Microsoft Teams 之后，微软 Microsoft 365 的多个服务<a href="https://www.theverge.com/2020/2/5/21124204/windows-search-down-blank-results-issues-microsoft-bing-outage">发生了宕机事故</a>。并影响到了 Windows 10 的搜索功能。从周三东部时间八点左右起，Windows search 返回了空白的搜索结果页，问题到 11:35 止修复。微软称问题是第三方光纤网络运营商的网络中断导致的。微软发言人在一份声明中称，对大部分用户来说问题已经解决，少部分用户可能需要重启机器。Windows search 使用了 Bing 后端提供来自网络的搜索结果。用户如果不想要联网搜索结果，<a href="https://search.slashdot.org/story/20/02/05/2248212/windows-search-went-down-for-hours-because-of-a-microsoft-services-outage" target="_blank"><u>可以修改注册表</u></a>：
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]
+"BingSearchEnabled"=dword:00000000
+"CortanaConsent"=dword:00000000
+➜在硅谷工作的轮班工人
+https://www.solidot.org/story?sid=63442	40749
+硅谷高昂的房价让越来越多的人<a href="https://www.protocol.com/silicon-valley-tech-shuttles"><u>到离工作地点很远的地方居住</u></a>。凌晨 2:30，班车就会前往中加州的农场小镇 Salida 去接居住在当地的轮班工人。班车的下一站是 11 英里外的 Manteca，然后是 55 英里外的湾区 Fremont，凌晨 4 点特斯拉工厂的工人开始换班了。 十多年前，当硅谷科技公司为雇员提供班车服务时，它们是在硅谷的富裕区接送雇员，但现在班车延伸到了偏远农业区，这些偏远地区成为了硅谷生活的新前哨。智库 Joint Venture Silicon Valley 的总裁兼 CEO Russell Hancock 说，这就是现实，我们无法创造负担得起的住宅。高科技公司的薪水推高了硅谷、旧金山和东湾区的房价，迫使白领蓝领远离工作地点。这种情况是如此严重以至于 Google 和 Facebook 都计划建造数以千计的公寓。
+➜《自然》尝试公布同行评议报告
+https://www.solidot.org/story?sid=63443	44274
+同行评议的价值科学界是一致公认的，但增加同行评议流程透明度的要求也十分强烈。研究人员想要知道，发表的决定是如此做出的，他们想要确保推荐人和编辑是公正没有偏见的。论文作者、评审人以及期刊编辑之间的同行评议报告内容通常是保密的。但研究者想要改变这一惯例。根据《自然》期刊在 2017 年的一项调查，超过半数的人希望同行评议能更透明。从本周开始，递交到《自然》系列期刊的论文作者<a href="https://www.nature.com/articles/d41586-020-00309-9" target="_blank"><u>可以选择发表匿名推荐人的同行审议报告</u></a>，以及他们的回应和反驳。充当审议者的同行也将需要知道匿名报告有可能会发表，如果愿意的话他们还可以公布名字。
+➜出版商在增加读者的同时减少了内容
+https://www.solidot.org/story?sid=63444	45983
+数据显示，出版商<a href="https://digiday.com/media/publishers-growing-audiences-producing-less-content/"><u>在增加读者的同时减少了内容</u></a>。以英国《卫报》为例，它每周出版的内容减少了三分之一，但它的访问量在继续增长，2019 年 12 月《卫报》在英国的用户数有 2500 万，比前一年的 2340 万增加了 160 万。《法国世界报》从 2017 到 2019 年文章数减少了 四分之一，编辑部人数增加到 500 名，在线用户增加了 11%，印刷版和数字版发行量增加了 11%。2019 年 12 月它的法国用户有 910 万，而 2018 年 12 月是 840 万。分析师 Thomas Baekdal 认为发表 100 篇、500 篇或 1000 篇文章没多少区别，关键是文章的质量以及是否吸引人阅读。出版商现在也能更精确对读者进行量化分析。
+➜治愈癌症的叛逆者
+https://www.solidot.org/story?sid=63445	48201
+2014 年，免疫学研究员 James P. Allison 因其发展的癌症治疗新方法而获得 Louisa Gross Horwitz  奖，他的方法不是尝试用燃烧、中毒或手术方法移除恶性细胞，而是动员患者的免疫系统去攻击癌细胞。FDA 在三年前批准他开发的抗体 ipilimumab 治疗晚期转移性黑色素瘤，这是最致命的癌症之一。Allison 的药物不是第一种免疫疗法也不是免疫疗法的唯一形式，数十年来研究人员一直在研制抗癌疫苗。Allison 的免疫检查点疗法（immune checkpoint therapy）的独特之处在于它使用抗体释放免疫系统杀死癌细胞的潜力。<a href="https://www.quantamagazine.org/nobel-laureate-james-p-allison-cures-cancers-with-immunotherapy-20200203"><u>这种方法是 Allison 免疫研究生涯的最高点</u></a>。在 1980 年代初，他发现了一种受体能让免疫系统 T 细胞识别感染或异常细胞的抗原。10 年后，他显示 T 细胞需要来自共刺激分子的信号去发动攻击。他和同事发现了名叫 CTLA-4 的分子充当了 T 细胞的检查点或内置制动器，他们可以使用抗体—— ipilimumab——去抑制 CTLA-4 移除制动器，释放 T 细胞去攻击癌细胞。
+➜疫情如何影响全球经济
+https://www.solidot.org/story?sid=63446	52004
+新型冠状病毒疫情正在中国乃至全球范围蔓延，<a href="https://www.bbc.com/zhongwen/simp/business-51396378"><u>带来的经济代价也在增加</u></a>，主要在中国，但也不仅限于中国。在很大程度上，对经济的破坏力不是由于病毒本身造成的，而是由于为了阻止病毒扩散而采取的措施。病毒爆发地武汉，是一个有 1100 万人口的城市，目前对于人员流出武汉有严格的限制。封锁也扩展到了湖北省其他城市，阻断了与商务有关的旅行，以及货物和劳动力的流动。中国政府把春节假期延长了几天，一些省级政府进一步延长假期，这使一些企业需要更长时间才能在节后复工。生产和销售环节的任何延迟都可能导致现金流问题，<a href="https://cn.reuters.com/article/china-coronavirus-hea-coffee-shop-0206-idCNKBS2000EP" target="_blank"><u>对于规模较小的企业</u></a>，尤其如此。

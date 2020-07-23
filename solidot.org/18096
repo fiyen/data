@@ -1,0 +1,51 @@
+➜京都动画公司纵火案已致33人死亡
+https://www.solidot.org/story?sid=61410	7194
+匿名读者 写道<i> "据<a href="http://finance.sina.com.cn/roll/2019-07-19/doc-ihytcerm4665481.shtml" target="_blank" title="“京都动画”火灾已致33死">媒体报道</a>，当地时间18日上午10点半左右，日本京都动画公司在京都府伏见区的第一工作室发生火灾。截至目前，已经导致33人死亡，数十人受伤，该工作室被全部烧毁。现场共有35辆消防车参与灭火。燃烧约5个小时后，火焰在当地时间下午3点19分左右几乎全部扑灭。日本警察厅表示，这起事件是平成时代以来，纵火案中遇难人数最多的。</i><i>
+</i>
+<p><i>警方说，一名男性嫌疑人在纵火后曾企图逃离现场。工作室工作人员在其身后追赶。警察在距离火灾现场数十米处扣住了他，确认身份后将其控制。此人随后被送院治疗，暂时确认二度烧伤。
+</i></p>
+<i>
+</i>
+<p><i>另据<a href="https://www3.nhk.or.jp/news/html/20190718/k10011996981000.html" target="_blank" title="「现场に复数の刃物」 警察">NHK报道</a>，警方还在案发现场发现了多个刀具，但目前尚不确定这些刀具是否属于纵火男子。"</i></p>
+➜中国运用大数据构建信用监管
+https://www.solidot.org/story?sid=61411	12617
+中国宣布<a href="https://cn.reuters.com/article/china-data-credit-regs-legal-action-0718-idCNKCS1UD1N8">将利用大数据构建信用监管</a>。发改委副主任连维良指出，传统监管模式对所有监管主体平均用力，监管成本高，市场主体压力大，受干扰多。以信用为基础的新型监管机制按照市场主体信用状况采取差异化的监管措施，对信用较好、风险较低的市场主体，降低抽查比例和频次；对违法失信、风险较高的市场主场，适当提高抽查比例和频次，列入重点信用监管范围，使监管力量好钢用在刀刃上，对诚信守法者 “无事不扰”，对违法失信者 “利剑高悬”...
+➜哈萨克斯坦对所有 HTTPS 流量发动中间人攻击
+https://www.solidot.org/story?sid=61412	14002
+从 7 月 17 日开始，哈萨克斯坦发出<a href="https://i.imgur.com/WyKjOug.jpg"><u>通知</u></a>要求所有设备所有浏览器安装来自政府的 Root CA（qca.kz），这意味着该国 ISP 可以对所有 HTTPS 加密流量<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1567114"><u>发动中间人攻击</u></a>。HTTP 是明文传输，ISP 可以实时查看传输的内容，可以随时向 HTTP 流量插入信息比如广告；HTTPS 加密了客户端和服务器端之间的连接，使得 ISP 无法获悉传输的内容，但利用 Root CA 它可以伪造证书，解密加密的流量，发动中间人攻击。用户呼吁浏览器开发商如  Mozilla 和 Google 将哈萨克斯坦的 Root CA 加入到黑名单拒绝接受它的证书。已有<a href="https://i.imgur.com/rFEjXKw.jpg"><u>证据</u></a>显示，qca.kz 签发了 Facebook 的证书。
+➜中国科学家发现首个细胞核内 DNA 免疫识别受体
+https://www.solidot.org/story?sid=61413	15934
+南开大学的研究人员<a href="http://news.sciencenet.cn/htmlnews/2019/7/428529.shtm"><u>发现了</u></a>首个细胞核内 DNA 免疫识别受体。<a href="https://science.sciencemag.org/content/early/2019/07/17/science.aav0758?rss=1"><u>论文</u></a>发表在《科学》期刊上。被称为 hnRNP-A2B1 的受体分子，能够在细胞核内特异性地识别病毒 DNA，随后激活天然免疫信号通路和诱导干扰素产生，启动天然免疫应答反应以清除 DNA 病毒的感染。该工作开辟了天然免疫与炎症研究领域的新方向。免疫，是一种重要生理功能，机体依靠这种功能识别 “自己” 和 “非己”，破坏和排斥入侵的病毒等病原物质，维持自身稳定。经过多年探索，科学家们在识别外源病原体 DNA 的分子机制及其抗病毒免疫研究上取得长足进展。目前发现的能够识别病毒 DNA 的天然免疫受体都存在于细胞质中。
+➜Dropbox 为部分用户更新了新的“文件管理器”
+https://www.solidot.org/story?sid=61414	17298
+Dropbox 上个月宣布将向用户提供“全新的桌面体验”，现在部分用户通过社交媒体报告，他们体验到“新桌面体验”——文件同步应用<a href="https://arstechnica.com/gadgets/2019/07/dropbox-silently-installs-new-file-manager-app-on-users-systems/" target="_blank"><u>变成了文件管理器</u></a>。用户报告他们的软件被悄悄升级为一个完全不同的版本。新的版本包括了文件管理器的相同功能，比如文件搜索，按日期或名字排序，可以执行剪切、复制和粘贴操作，它的界面提供了多个面板和窗口，与之前的简约版本大相径庭。Dropbox 承认这是失误，新的版本现在是 Early Access，但由于一个错误部分没有参与 Early Access 的用户推送到了新的版本，问题现在已经解决，它对给用户造成的不便表示歉意。
+➜美国议员要求调查俄罗斯的 FaceApp
+https://www.solidot.org/story?sid=61415	24896
+FaceApp 过去几天在社交媒体上引发了热议，它的滤镜能把人的面容变老，人们纷纷分享了他们变老后的照片。但该应用也引发了隐私方面的担忧，一个原因是它来自俄罗斯。美国参议院民主党领袖 Chuck Schumer <a href="https://twitter.com/SenSchumer/status/1151645791796248576"><u>致函 </u></a>FBI 要求对美国公民的个人资料可能落入 “敌对外国势力” 手中<a href="https://www.bbc.com/news/world-us-canada-49027155"><u>展开调查</u></a>。FaceApp 由总部位于圣彼得堡的俄罗斯公司 Wireless Lab 研发，储存用户照片的服务器位于美国。该公司否认会收集用户的数据，称它只上传用户指定的照片到云端处理，而且不会永久保存，会在上传的 48 小时后删除。
+➜奥克兰成为美国第三个禁止公共场所使用面部识别的城市
+https://www.solidot.org/story?sid=61416	26833
+在旧金山、麻省萨默维尔之后，奥克兰成为美国第三个<a href="https://www.vice.com/en_us/article/zmpaex/oakland-becomes-third-us-city-to-ban-facial-recognition-xz" target="_blank"><u>禁止公共场所使用面部识别</u></a>的城市。市议会通过法令禁止该市获取或请求访问面部识别技术，而面部识别技术的定义是通过自动或半自动化的过程，根据一个人的脸部图像识别或验证其身份。根据市议会议长 Rebecca Kaplan 的一份公开的<a href="https://oakland.legistar.com/View.ashx?M=F&amp;ID=7313849&amp;GUID=19E37810-7388-432F-8764-F4213347FBD2"><u>备忘录</u></a>，禁令是基于这些事实：面部识别技术通常并不精确、缺乏既定道德标准、有侵入性，以及政府很容易滥用这项技术。
+➜保加利亚国家收入署被窃的数据库在黑客论坛分享
+https://www.solidot.org/story?sid=61417	27669
+一位神秘黑客上周末入侵了保加利亚国家收入署，下载了其数据库，然后将下载链接发送给了本地新闻机构。保加利亚内政部已经证实了这起黑客入侵事件。根据黑客透露给当地媒体的信息，他窃取了超过 500 万保加利亚人的个人信息。保加利亚全国人口只有 700 万。黑客从国家收入署下载了 110 个数据库，容量接近 21 GB，黑客分享了 57 个数据库，容量约 11 GB。泄露的信息包括姓名、个人识别号码 ((PINs)、家庭住址和财务收入。大多数信息都是旧的，可上溯到 2007 年，但也发现了较新的数据库条目。在黑客论坛 Instakilla <a href="https://www.zdnet.com/article/bulgarias-hacked-database-is-now-available-on-hacking-forums/" target="_blank"><u>分享的文件</u></a>容量约 10.7 GB，包括了 57 个文件夹，与当地媒体收到的数据库一致。
+➜Deep TabNine 帮助开发者自动完成代码
+https://www.solidot.org/story?sid=61418	28332
+TabNine 的开发商<a href="https://medium.com/syncedreview/deep-tabnine-a-powerful-ai-code-autocompleter-for-developers-70454a5953fe"><u>推出了</u></a>新的深度学习模型 <a href="https://tabnine.com/"><u>Deep TabNine</u></a>，能显著改善代码建议质量。TabNine 是一个代码自动完成工具，能在开发者输入代码时预测其余的代码，它支持 23 种编程语言和 5 种代码编辑器。Deep TabNine 使用了 GitHub 上的两百万文件训练，学习动态类型语言中的复杂行为如类型推动，预测标记。它能根据自然语言写的文档推测函数名、参数和返回类型。Deep TabNine 是基于 OpenAI 开发的 GPT-2。
+➜中国科学家释放 2 亿不育蚊子消灭了两个岛屿的蚊群
+https://www.solidot.org/story?sid=61419	33367
+中国科学家向广州的两个岛屿<a href="https://www.scmp.com/news/china/science/article/3019028/chinese-scientists-new-technique-wipe-out-mosquito-populations" target="_blank"><u>释放了</u></a> 2 亿失去生育能力的雄性蚊子，基本消灭了岛屿上的蚊群。<a href="https://www.nature.com/articles/d41586-019-02000-0"><u>研究报告发</u></a>表在《自然》期刊上。蚊子是疟疾等疾病的主要传播媒介，这些疾病每年导致了数百万人死亡，让蚊子绝育是一种阻止其传播疾病的方法。科学家向登革热疫情严重的广州沙仔岛和大刀沙释出了两亿多雄性亚洲虎蚊，这些蚊子通过短暂的暴露在伽玛射线下，感染三种不同的沃尔巴克氏体细菌，而失去了繁殖能力。雄性蚊子还喂养了糖，使其更大更强壮，在交配季更能吸引雌性蚊子，与这些雄性交配后的雌性产下的卵不会孵化。两年的实验之后野生蚊群基本消失。研究人员发现了岛上还生活着一些蚊子，但基因分析显示它们来源于其它地方，很可能是通过交通工具来到岛上的。岛民一开始对这项实验持怀疑态度，沙仔岛只有 13% 支持。虽然特别喂养的蚊子不会咬人，但岛民们对释出如此多的蚊子还是感到很不舒服。但在实验结束之际，持支持立场的人数大增，原因之一是被蚊子叮咬的记录下降了 96%。一位旅馆店主称，以前蚊子是如此之多，他们在午后都不敢在外面逗留太长时间，“这项技术简直是奇迹，我们过去是怀疑，现在都拥护了。”
+➜如果保存的密码出现在泄漏数据库内 Firefox 将发出警告
+https://www.solidot.org/story?sid=61420	39229
+从 Firefox 70 开始，如果浏览器保存的登录信息出现在已暴露数据库内  Mozilla <a href="https://www.bleepingcomputer.com/news/software/firefox-to-warn-when-saved-logins-are-found-in-data-breaches/" target="_blank"><u>将会发出警告</u></a>。该功能是 Mozilla 与 Have I Been Pwned 网站合作的成果。Mozilla 此前已经推出了使用 Have I Been Pwned 数据的独立服务 Firefox Monitor，它正缓慢整合这项服务和新的密码管理器 Firefox Lockwise 到 Firefox 中。Mozilla 还在考虑通过引入更多增值功能推出付费版本。作为整合的一部分，Firefox 将扫描所有保存的用户名和密码，查询 Have I been Pwned 观察是否出现在泄漏数据库内，如果匹配  Firefox 将会警告用户并建议修改密码。
+➜英特尔承认芯片工艺技术升级滞后
+https://www.solidot.org/story?sid=61421	40908
+英特尔 CEO Bob Swan <a href="http://www.fortunechina.com/business/c/2019-07/18/content_340473.htm" target="_blank"><u>承认</u></a>该公司芯片技术升级上出现重大失误，给了竞争对手机会。英特尔原计划在 2015 年推出 10 纳米芯片（技术上等价于台积电/三星的 7 纳米工艺），但一直到今年下半年才可能推出。Bob Swan 称，“从某种程度上说，（这种延迟）是我们过去的成功导致的，我们一直在成功地挑战困难。有一段时间，情况越来越艰难，我们却设定了越来越激进的目标。因此花费了太多时间。”他说：“总而言之，我们从中学到了一课。” 他说，下一代生产升级将在大约两年内完成。
+➜PyPI 软件仓库发现三个后门库
+https://www.solidot.org/story?sid=61422	42735
+安全公司 ReversingLabs 扫描了 Python Package Index (PyPI) 内的一百多万个库，<a href="https://www.zdnet.com/article/malicious-python-libraries-targeting-linux-servers-removed-from-pypi/?ftag=COS-05-10aaa0g&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_content=5d319bccb9415600019af9f7&amp;utm_medium=trueAnthem&amp;utm_source=twitter" target="_blank"><u>发现三个后门库</u></a>。这三个库 libpeshnx、libpesh 和 libari 都来自同一位作者、用户名 ruri12，上传时间是 2017 年 11 月，至今接近两年时间。PyPI 团队在收到通知后就移除了这三个库。三个库都没有描述，其用途难以区别。PyPI 的统计数据显示它们每个月有数十次安装。它的后门机制只在库安装到 Linux 系统后激活，后门允许攻击者向安装这三个库的计算机发送和执行指令。三个库中只有   libpeshnx 的后门是活跃的，其余两个恶意功能的代码是空的。
+➜越南避免使用华为 5G 设备
+https://www.solidot.org/story?sid=61423	43678
+越南主要的移动运营商被注意到正尽可能的<a href="https://cn.nytimes.com/technology/20190719/huawei-ban-vietnam/" target="_blank"><u>避免采用华为 5G 设备</u></a>。主要移动运营商已经在寻求与爱立信和诺基亚而不是华为进行 5G 合作。其中规模最大的越南电信目前的 4G 网络也没有使用华为的设备，不过该公司在柬埔寨、老挝和秘鲁等国的子公司在 4G 服务中使用了华为的技术。越南电信说，这都并不能说明这家由越南政府拥有的公司正在回避华为。越南电信副总经理汤陶德在接受采访时表示，河内从未禁止越南的电信商使用中国设备。“对于华为来说，越南并不是一个有力的 4G 市场，我们对那里的 5G 发展设想有限，” 华为发言人乔・凯利 (Joe Kelly) 说。
+➜警方称京都动画公司纵火者有精神疾病
+https://www.solidot.org/story?sid=61424	45458
+匿名读者 写道<i> "<a href="https://www3.nhk.or.jp/news/html/20190719/k10011998921000.html" target="_blank" title="nhk news">NHK报道</a>，此人曾在7年前持刀抢劫被判三年半，患有精神疾病，目前在领取低保。 "</i>警方在新闻发布会上<a href="https://edition.cnn.com/2019/07/19/asia/kyoto-animation-fire-investigation-intl-hnk/index.html" target="_blank"><u>披露了</u></a>纵火者的身份，41 岁的青叶真司。他目前因烧伤在医院治疗。警方称嫌疑人自称其作案动机是京都动画剽窃，但谨慎表示在正式问询前还无法确认这一动机。在 33 名死者中，有 12 名男性，20 名女性，还有一人性别未知。许多人是死在前往顶楼出口的楼梯上，因此建筑物的消防也被指存在问题。

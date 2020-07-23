@@ -1,0 +1,13 @@
+➜美国或限制中国人赴美读研
+https://www.solidot.org/story?sid=56346	23074
+<a href="/~jerry">jerry</a> 写道<i> "特朗普政府因为忧虑中国的技术进步，正在考虑<a href="https://www.nytimes.com/2018/04/30/us/politics/trump-china-researchers-espionage.html" target="_blank">限制中国学生和研究者在美国大学和研究所进行敏感领域的研究</a>。限制的领域还不清楚，可能包括前沿科技，比如高级材料、软件、高等芯片、人工智能和电动汽车等与“中国制造2025”计划有关的领域。限制的类型也不清楚，可能主要是研究生、博士后、用临时签证在美国技术公司工作的人员。每年有超过一百万外国学生在美国学习，其中约三分之一来自中国。限制是对于中国人的，但是有绿卡持有者、政治避难者、抛弃中国国籍的移民除外。数月来，政府官员在讨论攻击中国经济的措施，其中就再考虑限制给中国人发签证。奥巴马政府虽然也提出了禁止外国学生在美国从事公司赞助的研究，特朗普政府则更将限制扩展到了私人研究机构和新产品、新技术。美籍华人“百人会”批评政府所宣称的美国的中国教授、科学家、学生为中国收集情报的指称是“令人不安的、偏见的”。《纽约时报》认为这会使中美的“技术冷战”进一步升级。
+<p>《美国法典》<a href="http://uscode.house.gov/browse/prelim@title8&amp;edition=prelim" target="_blank">第8篇第7章就名为“排除华人”</a>，是第8篇（外国人和国籍）的15章里的唯一一个完全针对一个特定国籍或族群的章节。1882年至1943年，美国禁止华人移民美国。1904年，宣布之前临时禁令无限期延长后，激起中国人民极大愤慨，于1905年爆发了抵制美货运动，迫使美国政府下令<a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E6%8E%92%E5%8D%8E%E6%B3%95%E6%A1%88" target="_blank">放宽教师、学生、商人和旅游者的入境限制</a>。"</i></p>
+➜亚马逊开始关闭域前置
+https://www.solidot.org/story?sid=56347	49680
+在 Google 云服务 App Engine（GAE）之后，云计算巨头亚马逊的 AWS 服务也<a href="https://aws.amazon.com/blogs/security/enhanced-domain-protections-for-amazon-cloudfront-requests/" target="_blank"><u>宣布</u></a>关闭域前置 (Domain fronting) 功能。域前置是一种隐藏连接真实端点来规避审查的技术，其原理为在不同通信层使用不同的域名，在明文的 DNS 请求和 TLS 服务器名称指示中使用无害的域名来初始化连接，而实际要连接的被封锁域名仅在创建加密的 HTTPS 连接后发出，使其不以明文暴露给网络审查者。亚马逊给出的理由是为了阻止恶意程序，称包括恶意程序在内的工具可以利用这项技术逃避 TLS/SSL 层的屏蔽，称没有客户想要看到有人伪装成他们无辜的域名。亚马逊仍然允许域内的域前置，但不再允许用户伪装数据来源，降低了绕过屏蔽的可用性。
+➜中国审查小猪佩奇
+https://www.solidot.org/story?sid=56348	50975
+中国流行的短视频应用抖音<a href="https://www.ft.com/content/ece3df32-4ceb-11e8-8a8e-22951a2d8493" target="_blank"><u>封杀了</u></a>英国的儿童卡通小猪佩奇。官方环球时报英文版<a href="http://www.globaltimes.cn/content/1100136.shtml" target="_blank"><u>报道</u></a>，抖音删除了超过 3 万小猪佩奇的短视频，同时删除了 #PeppaPig 的标签。小猪佩奇的卡通剧仍然可以在中国的视频网站上观看，抖音封杀的是使用小猪佩奇元素创作的用户生成内容。对这个儿童卡通的封杀被认为与“小猪佩奇身上纹，掌声送给社会人”的流行有关，小猪佩奇被指具有负面意义的社会人，而社会人是黑社会的委婉说法。
+➜WhatsApp 创始人因分歧离开 Facebook
+https://www.solidot.org/story?sid=56349	57646
+在华盛顿邮报<a href="https://www.washingtonpost.com/business/economy/whatsapp-founder-plans-to-leave-after-broad-clashes-with-parent-facebook/2018/04/30/49448dd2-4ca9-11e8-84a0-458a1aa9ac0a_story.html" target="_blank"><u>披露</u></a> WhatsApp 联合创始人 Jan Koum 与母公司 Facebook 在用户数据使用上存在分歧后，Koum <a href="https://www.facebook.com/jan.koum/posts/10156227307390011" target="_blank"><u>证实</u></a>他离开公司，即时生效。邮报的报道称，Jan Koum 不同意 Facebook 过度使用 WhatsApp 用户个人数据和削弱加密的企图。双方的分歧发生在剑桥分析曝光丑闻之前。Facebook 在 2014 年 以 160 亿美元收购 WhatsApp，当时这一收购金额令人难以置信，但今天看来是超值的，WhatsApp 的用户数在去年已经突破了 10 亿。WhatsApp 的两位创始人都已是亿万富翁，但他们与母公司在许多问题上都存在分歧，另一位创始人 Brian Acton 去年 11 月离开公司，前不久公开对 #DeleteFacebook 运动表达了支持，他还投资了 5000 万美元给 WhatsApp 的竞争对手 Signal 基金会。

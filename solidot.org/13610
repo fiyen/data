@@ -1,0 +1,81 @@
+➜对Linux的5大看法
+https://www.solidot.org/story?sid=2402	13800
+尽管我每天都在享受着Linux所带来的种种便利，然而"痛"并快乐着，这其中还是有一些让我比较厌烦的特征：<br>
+<br>
+<span style="FONT-WEIGHT:bold">1. 缺少某些硬件产品的驱动<br>
+</span> <br>
+这一点大概是最令人头痛的问题，特别是一些最近升级了最新显卡的朋友，在他们的Linux发行版上找不到合适的驱动，甚至在相关发行版的社区里也找不到答案。为此他们不得不就此抛弃Linux而转移到Win阵营中。<br>
+<br>
+<span style="FONT-WEIGHT:bold">2. 充斥着大量半成品，对一些开源项目的糟糕支持<br>
+<br>
+</span>不可否认的是由于过多的开发小组而没有一个统一的标准， 使得各大发行版本着
+"取其精华，去其糟粕"的原则，对某些开发项目采取了无视的态度。为什么用引号？
+因为事情的确发生了，最典型的例子就是<a href="http://gyach.bc2va.org/" title="Gyach">Gyach</a>项目，很好的一个通信工具（本身有很多精彩的想法）但由于缺乏系统的管理，
+社区的支持而停滞不前。           <span style="FONT-WEIGHT:bold">3. GPL License的约束<br>
+<br>
+</span>在此之前，Solidot上曾经有好几篇文章阐述了最新的GPL v3对开源发展的种种不利，甚至连RMS也站出来对v3的种种不是大声疾呼。<br>
+<br>
+<span style="FONT-WEIGHT:bold">4. 对一些私有应用程序的偏见<br>
+</span> <br>
+或许这是一个难以调和的问题，根本问题在于GPL License，<span style="FONT-WEIGHT:bold"> </span>在GPL
+License约束下或许真正狂热的Linuxer会认为私有软件是一种危险的信号。<br>
+<br>
+<span style="FONT-WEIGHT:bold">5. 对Ubuntu Linux
+7.04版（Feisty）的硬件管理工具和</span> <span style="FONT-WEIGHT:bold">Linspire
+CNR的莫名仇视？</span> <br>
+<br>
+首先我是Ubuntu Linux坚定的支持者，而最近我经常听说Ubuntu用户抱怨"Feisty"鼓励一些私有的程序（一些显卡驱动）或者是一些解码器。
+对于Linspire，它提供了Win32和MAc的全面支持，但是它的"One-Click"
+特性却引起了不少Linuxer的不满，而Ubuntu和Linspire的合作被看作是一种妥协。
+➜开源软件偷取开源代码
+https://www.solidot.org/story?sid=2403	16260
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"OpenBSD从它的开源同胞Linux那里<a href="http://www.theinquirer.net/default.aspx?article=38746">拿了一些驱动程序代码</a>，可能会违反Linux所遵循的GPL许可，因为OpenBSD允许独占性使用。这些Linux代码是通过对Broadcom无线芯片组在Windows上的驱动程序进行逆向工程开发的，因为Broadcom不提供源代码。当然为了避免背上非法的名声，Linux开发者费了一番功夫最终开发了Linux下的按照GPL发放的驱动程序bcm43xx。负责开发的Michael Buesch发现OpenBSD开发者拷贝了那些代码，然后以BSD许可证公开，为了防止出现版权保护方面的问题，Buesch在<a href="https://lists.berlios.de/pipermail/bcm43xx-dev/2007-April/thread.html#4359">mailing list</a>上进行了善意的提醒。而BSD驱动作者Theo De Raadt认为 Buesch的公开宣扬是没有人性（inhuman）。"</i>
+➜最佳生活质量城市TOP50
+https://www.solidot.org/story?sid=2404	18240
+<a href="http://qidane.blogspot.com/">qidane</a> 写道
+<a href="http://www.mercerhr.com/knowledgecenter/reportsummary.jhtml/dynamic/idContent/1128060">Mercer人力资源顾问评选出了2007年最佳生活质量城市TOP50</a>,<a href="http://www.mercerhr.com/attachment.dyn;jsessionid=XX3HGNU2RCV5YCTGOUFCHPQKMZ0QUJLW?idContent=1128060&amp;idFile=234027">PDF文件</a>。排名基于2006九月到十一月期间收集到的数据，其中加拿大，欧洲，澳洲城市继续主导了今年的排名。苏黎世，日内瓦，维也纳，范库弗峰，和奥克兰卫冕生活质量最佳城市。
+今年进步最快的是大阪,从51名到42名。奥斯陆也有很显著的进步，从31到26。
+➜ZFS文件系统已经成为FreeBSD项目的一部分
+https://www.solidot.org/story?sid=2405	18420
+<a href="mailto:huaihuaixiaoshao@gmail.com">huaihuaixiaoshao</a> 写道
+SUN的zfs成为FreeBSD 7-CURRENT开发分枝的一部分 并且已经成为FreeBSD
+7.0-RELEASE的一个<a href="http://www.freebsd.org/zh_CN/news/newsflash.html#event20070406:01" title="试验性特性">试验性特性</a>
+。<br>
+➜FireFox Coop插件原型发布
+https://www.solidot.org/story?sid=2406	18420
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"几天前Mozilla Labs公开了一个项目“<a href="http://wiki.mozilla.org/Labs/The_Coop">The Coop</a>”，<a href="http://www.cnetnews.com.cn/2007/0405/385003.shtml">想让FireFox浏览器变成一个社交网络</a>。The Coop主要目的是开发一个浏览器插件，让人们共享各种Web服务。它的发展步伐确实很快，一个粗糙的原型已经发布（只是0.1版），目前集成了一些基本的Facebook服务，通过拖拉与朋友分享网页链接、图像、视频内容。"</i>
+<a href="http://people.mozilla.com/coop/the_coop-0.1-fx.xpi">插件下载</a>，<a href="http://www.techcrunch.com/2007/04/05/early-prototype-of-firefox-coop-released/">截图</a>。
+➜迅雷崇尚google文化
+https://www.solidot.org/story?sid=2401	18720
+Dang 写道 "一位新加入迅雷公司的员工说，<a href="http://www.maido.com.cn/xunlei">迅雷是一个充满激情与活力,提倡人人平等,没有阶级观,没有等级差异,正在飞速成长的公司</a>。<br> <br>
+他告诉大家，咖啡吧有各种新鲜的鲜榨水果汁,几十个品种,冰箱里的可乐,饮料,牛奶是随便喝,还有免费的苹果,梨,香蕉,小番茄,每天上午10点送到,还是洗好了的,几大盘,全都是免费的。下班了可以在咖啡厅看碟,昨天见一帮人在看,一般5:30的时候吃过下午饭一帮人就开始打星际,CS了,边打边骂，迅雷崇尚google文化。"
+➜谷歌输入法盗用搜狗词库或被证实
+https://www.solidot.org/story?sid=2407	18720
+<a href="mailto:docongwh@gmail.com">docong</a> 写道
+Google词库和搜狗词库高度重合，有完全的证据证明，google词库就是用的搜狗词库：为了搜狗的词库防止盗用，在搜狗词库建立之初就加入了词库指纹，即十几个很偏僻、但不影响输入的词汇。里面就有数位搜狗员工的名字。Google居然也能
+够打出来。例如：赵立洋、佟子健、吕杰勇。还有很多搜狗员工的名字，甚至内部绰号google都能打出来，就不一一列举了。<a href="http://minhoil.it.com.cn/articles/228224.htm">请大家看图</a>
+这次的事件据知情人士透露Google已于四月五日晚紧急召开会议商量对策，不知道Google会以何种方式来对此次事件进行公共。但就Google一贯的处世风格来看，公开道歉也说不一定。但从深远意义来说，一个国际性的企业涉嫌抄袭国内的民族企业这还是第一次。
+➜72名政协委员两会上书力救电子标签国
+https://www.solidot.org/story?sid=2408	19320
+<a href="mailto:docongwh@gmail.com">docong</a> 写道
+在国家信息安全为社会高度关注的时候，国产电子标签标准居然处于下风，美国标准却已登堂入室，一进一退之间，这里面有怎样的内情.<a href="http://www.ittime.com.cn/content.asp?id=4807">《IT时代周刊》</a>作了独家披露。以下是一些内幕摘要：<br>
+<br>
+“我国的RFID技术的发展应用为什么一直举步维艰？其中一个很重要的原因就是，国产强制性‘全国产品与服务统一代码编制标准’（NPC）被有关国家机构
+基于本部门利益而强行封停搁置。所以我们二次提案，就是希望能够阻止这种丑陋行为。”来自上海的全国政协委员杨匡满愤怒地在政协提案中陈述自己旧案重提的 理由。
+更为蹊跷的是，2007年1月，经国家质检总局监察局半年多的调查和局党委研究决定，给国标委和中国标准研究院一系列人员以行政记过和警告处分，理由是他
+们在NPC标准的制定和执行过程中论证不够，决策不慎，给国家带来重大经济损失等。至此，加上前年免职的国标委李忠海主任和降职调离的王忠敏副主任，国标
+委凡与NPC有关的干部，全都受到了各种形式的“处分”和“处理”，而把EPC引进中国的张成海却除外。<br>
+<br>
+“捧国标的人受到了处分，只有引入EPC的张成海安然无恙，这种结果实在引人联想，其倾向太明显了。”一位业界人士如此评价。不仅如此，有关机构还向支持NPC的民间法人采取过法律手段。有内情人士向《IT时代周刊》透露，在完全叫停NPC之前，国标委曾以“涉嫌违法、诈
+骗”的罪名，起诉NPC代理机构法人，从而导致该公司法人被关押38天、候审1年(该案经检察机关认定不构成犯罪，现已结案)，致使公司损失数千万元而破
+产。此后，NPC的股东及代理机构（三家民营企业），就国标委的多项行政行为向人民法院提起行政诉讼，但有关部门多次以国家行政机构名誉等说辞，赴法院干
+预、要求不予立案。致使该案件从2005年8月至今，无法立案。因此，《再提议案》还强烈呼吁有关部门追查追究有关主管部门为关停NPC标准，动用行政权力干预司法等滥权行为的责任。
+➜回顾基于开源的Quake3引擎的游戏
+https://www.solidot.org/story?sid=2409	22380
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"2005年夏天id software公布了<a href="http://games.slashdot.org/games/05/08/20/1329236.shtml?tid=112">Quake3引擎源代码</a>，许可证是GPL。从那时到现在差不多有两年了，开了花也要看结果。虽然Quake3已经有8年历史了，但在最近我们还是看到了两款完全版多人射击游戏放出，每一款游戏的大小都在550M左右。这就是<a href="http://www.urbanterror.net/">Urban Terror</a> 和 <a href="http://www.worldofpadman.com/">World of Padman</a>，以前的修改版还需要安装Quake III Arena，但现在它们都可以作为单机版独立游戏。Urban Terror 综合了一些真实环境要素及与Quake3类似的武器运动模式。而 World of Padman则从另一面来诠释游戏乐趣，它使用喜剧的风格，用搞笑的射击方式加上稀奇古怪的武器如水气球（water balloons）和水枪（water pistols）来进行射击。这两款是新游戏，以前的还有 <a href="http://tremulous.net/">Tremulous</a>，FPS加上即时战略元素，刚刚在4月1日发布了Tremulous1.1版，有意思的是，这款游戏的许可证是<a href="http://creativecommons.org/licenses/by-sa/2.5/">创作共享</a>（creativecommons）。以上三款游戏都使用了改进的Quake3引擎 <a href="http://www.ioquake3.org/">ioquake3</a>，自从 Quake3源代码公开以后，出现了许多改进版本，像 <a href="http://en.wikipedia.org/wiki/OpenAL">OpenAL</a>，<a href="http://www.vorbis.com/">Vorbis</a>和 <a href="http://www.libsdl.org/">SDL</a>。支持的平台非常广泛，Windows，Linux和MacOSX都包含在内，如果你想自己来编译引擎，还可支持更多的平台如Solaris或者*BSD。"</i>
+Urban Terror:<a href="http://media.digitalamusement.com/urt4/UrbanTerror40_full_Installer.exe">windows平台</a>，<a href="http://media.digitalamusement.com/urt4/UrbanTerror40_full.zip">Linux/mac</a> <br>
+World of Padman:<a href="http://thilo.kickchat.com/download/worldofpadman.exe">windows</a>，<a href="http://thilo.kickchat.com/download/worldofpadman.run">Linux</a>，<a href="http://thilo.kickchat.com/download/worldofpadman.dmg">mac</a> <br>
+Tremulous1.1:<a href="http://prdownloads.sourceforge.net/tremulous/tremulous-1.1.0-installer.exe?download">windows</a>，<a href="http://prdownloads.sourceforge.net/tremulous/tremulous-1.1.0.zip?download">Linux/mac</a>
+➜Yahoo发布Alpha搜索引擎
+https://www.solidot.org/story?sid=2410	53700
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "与Google发布的实验性搜索引擎<a href="http://www.searchmash.com/">Searchmash</a>相似，<a href="http://au.alpha.yahoo.com/">Yahoo Alpha</a>也分成两部分，左边为文字搜索结果，右边关联了Flickr，Yahoo Answers，YouTube，Yahoo新闻, 以及维基百科的搜索结果（Google则是关联图像，博客，视频，维基百科四种)。从界面上看要比Google的要更整洁美观一点。使用者还可以自己定制模块，当然这需要有Yahoo! ID。比如搜索<a href="http://au.alpha.yahoo.com/search/web?p=slashdot">slashdot</a>，点击右侧的模块来查找更接近的结果。"

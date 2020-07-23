@@ -1,0 +1,57 @@
+➜中国建立跟踪汽车行迹的电子识别系统
+https://www.solidot.org/story?sid=56844	10498
+华尔街日报援引相关记录和知情人士的消息<a href="https://www.wsj.com/articles/a-chip-in-the-windshield-chinas-surveillance-state-will-soon-track-cars-1528882203" target="_blank"><u>报道</u></a>（付费墙），中国正在建立一个全国性的电子识别系统去跟踪汽车。该计划将于 7 月 1 日推出，汽车在注册时将需要安装一个用于跟踪的 RFID 芯片。一开始车主可以选择安装或不安装芯片，但从 2019 年 1 月新车将被强制要求安装芯片。报道称，这项计划旨在改善公共安全，以及帮助缓解交通拥堵。中国现在是世界最大的汽车市场，在汽车上安装跟踪系统也将能极大的扩展监控网络。中国的国内安全支出过去几年一直高于国防开支。
+➜Intel 又公布了 Spectre 漏洞新变体——Lazy FP 状态还原漏洞
+https://www.solidot.org/story?sid=56843	10558
+匿名读者 写道<i> "今天，Intel <a href="https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html" target="_blank">公布了</a>又一个 Spectre 漏洞的新变体——Lazy FP 状态还原漏洞。如果操作系统在上下文切换时使用了 CPU 的 Lazy FP 功能进行系统状态的保存与还原，攻击者可以利用 CPU 的预测执行功能获取其他进程在寄存器中保存的数据。操作系统应使用 Eager FP 取代 Lazy FP。在漏洞公布之前，Lazy FP <a href="http://www.openwall.com/lists/oss-security/2018/06/13/7" target="_blank">有漏洞的流言就已经在系统开发者社区中流传</a>，并普遍相信是真实的。因此 OpenBSD <a href="https://marc.info/?l=openbsd-cvs&amp;m=152818076013158&amp;w=2" target="_blank">在 6 月 5 日</a>（墙）停止使用 Lazy FP，而 DragonFlyBSD 紧接着<a href="http://lists.dragonflybsd.org/pipermail/commits/2018-June/672324.html" target="_blank">也在 13 日修复漏洞</a>。
+巧合的是，曾经有 Linux 内核开发者发现 Lazy FP 有性能问题，因此在 2016 年 1 月就已经在受支持的 CPU 上<a href="https://github.com/torvalds/linux/commit/58122bf1d856a4ea9581d62a07c557d997d46a19" target="_blank">默认开启</a> Eager FP，无意中修复了漏洞。如果你的 Linux 内核使用的是 4.6-rc1 及其之后的版本，无需采取任何措施。否则需要在引导内核参数中加入 eagerfpu=on，手工开启并重启系统，也可以等待上游 backport 此补丁。其他操作系统的用户应当及时进行安全更新。"</i>
+➜研究认为去年比特币的价格被人为操纵
+https://www.solidot.org/story?sid=56845	13795
+在数字货币热的高峰，比特币的价格一度上涨到接近 2 万美元，今天它的币值只有当时的<a href="https://finance.yahoo.com/chart/BTC-USD" target="_blank"><u>三分之一</u></a>（6500 美元）。去年的价格是否虚高了或者是否被操纵了？得州大学的研究人员发表<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195066" target="_blank"><u>论文</u></a>，认为比特币和其它主要数字货币的价格<a href="https://www.nytimes.com/2018/06/13/technology/bitcoin-price-manipulation.html" target="_blank"><u>被人为操纵</u></a>。论文作者、得州大学金融学教授 John Griffin 和研究生 Amin Shams 分析了 Bitfinex 交易所数字令牌的流动。Bitfinex 是最大也是最少受到监管的交易所之一，它的注册地是加勒比群岛，在比特币价格疯涨的时期，许多专家对 Bitfinex 人为拉盘表达了担心，美国监管机构今年初对 Bitfinex 发出了传票。研究人员从 Bitfinex 的数字令牌流动中识别出多个明显模式显示 Bitfinex 交易所有人或有一部分人在其它交易所的价格下跌时拉盘成功推动价格上涨。他们利用了 Bitfinex 创造的次级数字货币 Tether 来买进数字货币。Bitfinex 的高管则再次否认它参与了任何价格操纵活动。
+➜苹果将堵上警方破解设备的安全漏洞
+https://www.solidot.org/story?sid=56846	15994
+苹果将 iPhone 定位为只有用户自己才能解锁的安全设备。2016 年，它拒绝了 FBI 开发后门固件解锁手机的要求，从而引发了一场大辩论。最终 FBI 通过付费给第三方破解了设备。此后，执法机构开始越来越多的利用这一策略破解锁定的设备寻找破案的关键线索。现在，苹果准备堵上这一技术漏洞，此举可能再次惹恼执法机构，引发了相关的争论。苹果宣布<a href="https://www.nytimes.com/2018/06/13/technology/apple-iphone-police.html" target="_blank"><u>它计划释出一个软件更新</u></a>，在手机锁定一小时后关闭充电和数据接口。手机仍然能充电，但传输数据将需要解锁手机。此举将能防止执法人员通过数据接口获取数据的能力。
+➜土耳其以侵犯版权为由封杀直播应用 Periscope
+https://www.solidot.org/story?sid=56847	18329
+土耳其法庭以侵犯当地企业 Periskop 的版权为由<a href="https://stockholmcf.org/turkish-court-bans-periscope-over-copyright-violation/" target="_blank"><u>屏蔽了</u></a> Twitter 旗下的直播应用 Periscope。Periscope 在土耳其的反对派中间非常受欢迎。在最后的法庭陈述中，Periskop 的代表声称  Periscope 系统性的侵犯了 Periskop 的商标权，periscope 这个术语早已受到版权保护。Twitter 的律师则辩护称，作为一家美国公司，Twitter 不可能知道土耳其有相同商标名的存在，此外 Periscope 和 Turkish Periskop 的业务完全不同。法庭最终裁决在土耳其屏蔽访问  periscope.tv 和 Twitter 账号 periscopeco。Periscope 成为继 Wikipedia、PayPal 和 WordPress 之后被土耳其屏蔽的漫长名单中的最新一个。
+➜联想提供内存达到 128 GB 的笔记本电脑
+https://www.solidot.org/story?sid=56848	25758
+128 GB 内存的笔记本电脑正向我们走来。戴尔今年 4 月<a href="https://www.techradar.com/news/dells-new-2-in-1-is-the-worlds-smallest-15-inch-mobile-workstation" target="_blank"><u>宣布了</u></a>新移动工作站 Precision 7730 和 7530，可选第八代 Intel CPU 或  Xeon 处理器，AMD Radeon WX 或 Nvidia Quadro 显卡，内存最高 128GB 3200MHz，固态硬盘容量最高 6TB。现在，联想<a href="http://blog.lenovo.com/en/blog/the-new-thinkpad-p52/" target="_blank"><u>宣布了</u></a>一款相竞争的产品 <a href="https://www.notebookcheck.net/Update-Lenovo-ThinkPad-P52-First-pictures-and-specs-of-the-new-Lenovo-workstation-have-been-leaked.307836.0.html" target="_blank"><u>ThinkPad P52</u></a>，内存 128GB，最高 6 TB 存储，4K 15.6 英寸显示屏，第八代 Intel 六核 CPU， Nvidia Quadro P3200 显卡，2 个 Thunderbolt 3 接口，HDMI 2.0，一个 DisplayPort，3 个 USB Type-A 接口，等等。联想还没有透露这款移动工作站的价格。
+➜法国美须暗网毒贩认罪
+https://www.solidot.org/story?sid=56849	27584
+<div align="center"><img src="http://img.solidot.org/0/433/li2rLpyxvGUHY.jpg" width="400" height="245" align=""><br>
+</div>
+<br>
+2017 年，法国男子 Gal Vallerius 去美国参加世界美须大赛，在机场上<a href="https://www.solidot.org/story?sid=54060" target="_blank"><u>遭到逮捕</u></a>。他被指控充当了暗网市场 Dream Market 的管理员、资深版主和毒贩。他在暗网市场用化名“OxyMonster”出售奥斯康定（OxyContin）和冰毒之类的受控毒品。本周二，Vallerius <a href="https://arstechnica.com/tech-policy/2018/06/dark-web-vendor-oxymonster-turns-out-to-be-a-frenchman-with-luscious-beard/" target="_blank"><u>承认了</u></a>合谋持有意图销售受控毒品以及合谋洗钱的指控，他将面临最高 20 年徒刑，法官将在 9 月 25 日宣布刑期。Vallerius 承认他一开始只是 Dream Market 上的一名毒贩，然后受雇成为管理员和资深版主。调查人员通过跟踪比特币交易识别其身份，OxyMonster 的 17 项交易有 15 项流向了 Gal Vallerius 在  Localbitcoins.com 控制的多个钱包。调查人员还对比了 Vallerius 的 Instagram 和 Twitter 账号与 OxyMonster 的写作风格，发现了两者在用词和标点符号上的相似性，比如都喜欢用 cheers 这个词，双感叹号和引号。美国联邦执法机构扣押了他的 99 个比特币和 121 个 Bitcoin cash，根据今天的汇率价值 100 万美元。
+➜机遇号漫游车在低功耗睡眠下迎接火星沙尘暴
+https://www.solidot.org/story?sid=56850	28251
+在火星上超期服役 15 年的漫游车机遇号<a href="https://www.nasa.gov/feature/jpl/opportunity-hunkers-down-during-dust-storm" target="_blank"><u>正面临一场危机</u></a>，巨大的沙尘暴遮住了太阳能电池板所需的阳光，极度缺乏电力的漫游车进入到了低功耗睡眠模式。NASA 工程师已经发出指令让漫游车休眠 48 小时，如果计算机唤醒后检查发现供电仍然不足，它将再次休眠 72 小时。漫游车机遇号和勇气号原本只设计工作三个月。勇气号在 2010 年停止工作，但机遇号一直向地球发回信息，它在火星上已经
+生存了 5,161 天，是至今服役时间最长的人类漫游车。没有电力产生热量可能会导致机遇号的关键组件因低温<a href="https://arstechnica.com/science/2018/06/massive-martian-dust-storm-has-put-opportunity-rover-in-a-low-power-sleep/" target="_blank"><u>发生故障</u></a>，它携带的 8 个钚驱动的核电设备每个只能产生 1 瓦电力。我们要等沙尘暴结束之后才能知道漫游车是否还能继续活动。
+➜美国准备对 500 亿美元中国产品开征关税
+https://www.solidot.org/story?sid=56851	30164
+特朗普政府准备在数天内对数额达到 500 亿美元的中国输美产品<a href="http://www.ftchinese.com/story/001078038" target="_blank"><u>征收关税</u></a>。上个月，白宫表示将在 6 月 15 日发布一份中国输美产品征税清单，作为对其所谓的中国系统性窃取美国知识产权行为的报复。此举并未顾及中国已承诺要进口约 700 亿美元的美国农产品和能源，并且计划推动作为世界最大的两个经济体进行更多磋商，以避免贸易战爆发。根据听取征税准备工作情况的人士表示，美国高层官员已达成一致，将更进一步，在发布清单后迅速开征 25% 的关税，其中一些关税有可能在周五就立即生效。这些人士说，根据相关法律，特朗普政府有 30 天时间来征收关税，但官员们决定加快步伐。
+➜微软修复 Cortana 智能助手提权漏洞
+https://www.solidot.org/story?sid=56852	33620
+在本周释出的 Windows 六月例行更新中，微软<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2018-patch-tuesday-fixes-50-security-issues/" target="_blank"><u>修复了数十个漏洞</u></a>，其中包括了一个利用 Windows 10 智能助手 Cortana 访问锁屏计算机，获取设备上的数据，执行恶意代码，甚至修改密码的提权漏洞。该漏洞编号 CVE-2018-8140，安全研究人员最早在今年 4 月向微软报告了这一漏洞。除了修复微软自家软件漏洞外，六月例行更新还包含了补丁修复 Adobe Flash Player 0day漏洞 CVE-2018-5002，Adobe 在上周释出了补丁，但可能不是所有 Flash 都及时打上补丁。
+➜新研究认为银河系是以前认为的两倍大
+https://www.solidot.org/story?sid=56853	38982
+根据发表在《Astronomy and Astrophysics》期刊上的<a href="https://www.aanda.org/articles/aa/abs/2018/04/aa32880-18/aa32880-18.html" target="_blank"><u>一项研究</u></a>，天文学家根据对大量恒星的分析<a href="http://www.astronomy.com/news/2018/06/supersize-me" target="_blank">估计</a>银河系圆盘直径是以前认为的两倍—— 20 万光年。银河系是一个螺旋星系，由圆盘和旋臂构成，外部是被称为银晕的稀疏星云。加拿大和中国国家天文台的研究人员利用光谱学分析了  4,600 多颗恒星的化学构成，发现圆盘恒星比以前认为的更远离星系中心。虽然直径变大了，但银河系仍然小于它的邻居仙女座星系。银河系变大并不意味着变得更重，因为外围的恒星密度比中心小得多，因此外围少量的恒星并没有让银河系变重，其质量和以前基本一致。
+➜Solidot 音频版本上线
+https://www.solidot.org/story?sid=56854	41539
+<div>固定时间，固定地点，我们为您精选全球最新科学、技术情报。“固定点” 内容由科技行者成员机构、中国领先的科技新闻社区 <a href="http://Solidot.org" target="_blank" rel="noopener noreferrer">Solidot.org</a> 独家授权呈现。<a href="http://Solidot.org" target="_blank" rel="noopener noreferrer">Solidot.org</a>
+创建于 2005 年，是伴随着全球 Blog 潮流兴起，和 Web 2.0 概念提出而创建的新型媒体。Solidot
+以言简意赅为特色，消息虽简短但信息量充分，在社交碎片化阅读的当下更显难能可贵。Solidot
+自建站以来受到各方关注，影响力与日俱增，国内众多媒体传播机构、科技企业高管、意见领袖把 <a href="http://Solidot.org" target="_blank" rel="noopener noreferrer">Solidot.org</a> 作为最值得信赖的信息源。从群众中来，到群众中去，《固定点》栏目名称即来自 Solidot 网友对网站的早年昵称。我们希望通过科技播报，让 Solidot 服务更多人，让听友在智能革命时代，始终快人一步。</div>
+<div>收听方式请在喜马拉雅搜索 “固定点科技播报” 或访问：<a href="http://m.ximalaya.com/93200995/album/16007374/" target="_blank" rel="noopener noreferrer">http://m.ximalaya.com/93200995/album/16007374/</a></div>
+➜南极洲 25 年内失去约 3 万亿吨冰
+https://www.solidot.org/story?sid=56855	42509
+南极洲的冰<a href="https://www.bbc.com/news/science-environment-44470208" target="_blank"><u>正在加速融化</u></a>。科学家在《自然》期刊上发表<a href="https://www.nature.com/articles/s41586-018-0179-y" target="_blank"><u>报告</u></a>，卫星监视显示南极洲一年有 2000 亿吨的冰融化进入海洋，推动海平面每年上涨  0.6 毫米。研究人员称，冰的融化主要发生在南极洲的西部与温暖的海水接触的地方，该地区失去的冰从 1992 年的 530 吨增加到了 2017 年的 1590 亿吨。在朝向南美的南极半岛，每年失去的冰从 70 亿增加到 330 亿吨。自 1992 年以来，南极洲总共失去了 2.7 万亿吨冰，推动全球海平面上升超过 7.5 毫米。
+➜石墨烯能增加神经元活动
+https://www.solidot.org/story?sid=56856	45634
+二维材料<a href="https://zh.wikipedia.org/wiki/%E7%9F%B3%E5%A2%A8%E7%83%AF" target="_blank"><u>石墨烯</u></a>具有许多神奇的属性，有着广泛的应用前景。现在，研究人员发现它也许还能成为治疗神经损伤和神经系统疾病的关键工具。根据发表在《Nature Nanotechnology》期刊上的一项<a href="https://www.nature.com/articles/s41565-018-0163-6" target="_blank"><u>研究</u></a>，意大利和西班牙的研究人员<a href="https://spectrum.ieee.org/nanoclast/semiconductors/materials/brains-improved-by-graphene-are-on-the-horizon" target="_blank"><u>发现</u></a>，石墨烯通过改变培养细胞中膜相关的功能来增加神经元放电活动。研究人员称，石墨烯具有改变离子迁移率调整神经活性的潜力。这项研究除了发现一种能用于神经医学的新工具外，还能提供工具获得其它生物进程的新见解。
+➜日本研发病毒抗癌疗法
+https://www.solidot.org/story?sid=56857	46861
+日本国立癌症研究中心研究所和鸟取大学分别通过动物试验<a href="http://cn.nikkei.com/industry/scienceatechnology/30781-2018-06-14-05-00-50.html" target="_blank"><u>确认</u></a>，改造传染病毒定向破坏癌细胞的技术对于难以治疗的胰腺癌具有效果。日本国立癌症中心的领域负责人青木一教等人改变了感冒病毒的一种基因，使其仅感染癌细胞。这种病毒瞄准癌细胞表面出现的分子，结合之后进入其中。通过迅速繁殖来破坏癌细胞。据称对正常细胞没有影响。研究团队培养了定向感染胰腺癌的病毒，注射到移植了人类胰腺癌细胞的小鼠体内。约 40 天后肿瘤消失，也没有出现副作用。研究人员力争 3 年后实施医生主导的临床试验。鸟取大学的中村贵史副教授等人将天花疫苗的病毒改良为仅在感染癌细胞之际繁殖。将人类胰腺癌移植到小鼠腹部，注射改良病毒 11 天后，癌细胞基本消失。研究人员力争 5 年后进行临床试验。
+➜Comcast 与迪士尼竞购福克斯资产
+https://www.solidot.org/story?sid=56858	47595
+康卡斯特 (Comcast)周三提议以 650 亿美元现金<a href="https://cn.reuters.com/article/comcast-disney-21century-fox-acquisition-idCNKBS1JA049" target="_blank"><u>收购</u></a>二十一世纪福克斯已同意售予迪士尼的资产，康卡斯特以高出先前提议 20% 的价格首度出手，美国两大媒体公司之间的竞购战俨然开打。康卡斯特执行长 Brian Roberts 表示，在 AT&amp;T斥资 850 亿美元收购时代华纳的交易周二获法院批准后，他对监管机关将允许该公司收购福克斯多数媒体资产信心满满。一些分析师认为康卡斯特 - 福克斯交易存在诸多困难，但 Roberts 在一封发给福克斯的信件中表示，将开出与迪士尼相同的条件，并誓言必要时将告上法庭，争取这宗交易。这项交易可能促成福克斯的电影和电视公司与康卡斯特的 NBC 环球的合并。

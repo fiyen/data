@@ -1,0 +1,9 @@
+➜调查发现约三分之一流行 VPN 由中国公司运营
+https://www.solidot.org/story?sid=61255	51696
+VPNpro <a href="https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/"><u>调查了</u></a> 97 个流行 VPN 服务，发现这些服务由 23 家母公司运营，大部分位于隐私法律比较宽松的国家。其中有 6 家中国公司运营了 29 个 VPN 服务。VPNpro 是通过调查域名和 IP 地址信息、地理位置数据、雇员简历汇集得出 VPN 服务的真实拥有者。运营这些 VPN 服务的中国公司包括：Innovative Connecting （10 个 VPN 应用），Hotspot VPN（5 个）、Hi Security (3 个)、 SuperSoftTech（2 个）、LEILEI (2 个)、Newbreed Network Pte.Ltd (6 个)——这家公司地址写的是新加坡但网站都是中文。
+➜Mozilla 将提供每月 5 美元的免广告订阅服务
+https://www.solidot.org/story?sid=61256	52399
+Mozilla 正在探索新的收入来源，此前它已经宣布将提供付费服务，比如付费 VPN。现在，它<a href="https://betanews.com/2019/07/05/mozilla-ad-free-internet-firefox/"><u>又透露了</u></a>每月 5 美元的无广告订阅服务。Mozilla 将与多家网络出版商合作，向用户提供没有广告的在线浏览。你支付给 Mozilla 的订阅服务将会在它的合作伙伴之间分享，该订阅服务将用于资助无广告的互联网体验。除了没有广告外，Mozilla 还将提供在线内容的音频版本，同步和书签等服务。Mozilla 还没有披露何时会对外提供<a href="https://qsurvey.mozilla.com/s3/2019-new-product-interest/"><u>这项服务</u></a>。
+➜Tor 将修复一个用于 DDoS 攻击的 Bug
+https://www.solidot.org/story?sid=61257	55194
+Tor <a href="https://www.zdnet.com/article/tor-project-to-fix-bug-used-for-ddos-attacks-on-onion-sites-for-years/" target="_blank"><u>将修复</u></a>一个过去几年被用于向暗网网站发动 DDoS 攻击的 Bug。即将释出的  Tor protocol 0.4.2 将修复该 bug。拒绝访问攻击的工作原理十分简单：攻击者向目标网站同时发送数千个连接，由于 Tor 的中继特性，每个连接都需要远程服务器与 Tor 网络协商一个复杂回路。这个过程是 CPU 密集，需要消耗 CPU 资源，连接越多，CPU 占用率就可能会达到 100% ，导致服务器无法再接受新的连接。由于缺乏人手以及缺乏简单的修复方法，该 bug 多年来一直没有解决，而暗网的 DDoS 攻击早已司空见惯。最新的修正没有完全解决问题，但会让  DDoS 攻击的效率降低。

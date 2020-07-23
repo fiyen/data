@@ -1,0 +1,40 @@
+➜微软，Linux在中国的不同命运
+https://www.solidot.org/story?sid=3275	2880
+几个月前，比尔盖茨访问了中国，每到一处他都会碰到拥挤的对其顶礼膜拜的欢迎人群，惊声尖叫的少女，目光迷离的少男。他被清华大学授予了荣誉博士学位，又成为北京大学的荣誉董事，这个国家的人民为他而疯狂，或者说<a href="http://money.cnn.com/magazines/fortune/fortune_archive/2007/07/23/100134488/index.htm?postversion=2007070910">他征服了中国</a>，没有一个商业领导人会有如此的待遇。而Ubuntu创始人Mark Shuttleworth访问复旦大学，看过视频的人都知道，演讲大厅里的听众是稀稀落落，这也是Linux在中国的现状。<br>
+微软在中国市场实行的是长期战略，它容忍了中国猖獗的盗版。而正是凭借盗版，Windows成为中国PC事实上的标准，即使有更好的选择也无法改变这一切。中国目前所有的大约1.2亿台电脑中90%使用的是Windows，Linux根本无法与之竞争，因为在这里，两者的价格是一样的，有时Linux还更贵。<br>
+微软中国以中国的方式运作，它与中国政府结盟。在它的推动下，去年政府要求电脑厂商必须预装正版软件。占据10%市场份额的联想以及许多国外电脑制造商在中国销售的很大部分都是裸机。另一个命令是要求国有企业的数百万台电脑要必须逐渐全部采用正版。面带微笑的比尔盖茨指出，过去的18个月里，新电脑预装正版软件的比率从20%上升到40%。"
+➜为GIMP收集用户数据的工具
+https://www.solidot.org/story?sid=3276	11400
+著名开源图像编辑软件GIMP的界面与photoshop完全不同，许多新手经常会被那个难以操作的用户界面吓到。为了帮助GIMP开发者了解使用者的习惯，提高可用性，加拿大Waterloo大学的Michael Terry教授和一组研究人员修改了GIMP软件，综合了一个能实时收集用户数据的工具——这就是<a href="http://ingimp.org/">ingimp</a>。Michael Terry教授在 <a href="http://www.csclub.uwaterloo.ca/media/Usability%20in%20the%20Wild.html">关于可用性的演讲</a>(网页上还提供了不同格式的视频下载)中介绍了ingimp及其数据收集功能。ingimp能自动的记录各类事件，诸如文档创建，窗口操作，工具使用等等，所有的数据都会在网站上公开。GIMP用户典型的显示器分辨率是多少，常用图像的大小，用多少图层，主要是被用来编辑图像还是绘图，这些问题的答案就是ingimp想要寻找的。
+➜韩寒的"愤怒"
+https://www.solidot.org/story?sid=3277	22980
+匿名懦夫 写道
+<a href="http://www.bullog.cn/blogs/twocold/archives/79832.aspx">这篇Blog</a>和Solidot、
+和Open
+Source、和IT、和Tech、和Science都无关系，但是在下认为他关系着所有的根源“智慧”。对一件事情应该有智慧的判断，比如某个"垄断组织"借助
+自己的权力封杀任何一个自己觉得令他不爽的人/团体。对一件事情的起因和经过需要有智慧的眼光，为何有这样组织？诱发其举动的根源在哪里？（大家琢磨透就
+行了），套用一句话： "老百姓一思考，XX就发飙"。<br>
+➜Linux 2.6.23 kernel采用CFS调度器
+https://www.solidot.org/story?sid=3278	23940
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "以前在Linux kernel中使用的调度器已被抛弃，被<a href="http://kerneltrap.org/node/11737">完全公平调度器</a>（Completely Fair Scheduler）所取代。CFS仍由Ingo Molnar主持开发，包含了一个可插拔的结构，其基本模式能更好的处理CPU多任务分工，最重要的任务将被分配到更多CPU时间。CFS能够提高用户体验，将成为未来的Linux 2.6.23 kernel一部分。更多可阅读<a href="http://www.linuxinsight.com/files/sched-design-CFS.txt">CFS设计文档</a>。"
+➜Ubuntu市场份额持续增长
+https://www.solidot.org/story?sid=3279	29100
+在Linux世界，随着市场占有率的增长，<a href="http://www.madpenguin.org/cms/?m=show&amp;id=7951">Ubuntu正逐渐成为最强势的发行版</a>。也许会有人提出这样一个问题：用户数量最多是否意味它就是最好的Linux发行版？很多人肯定不会同意，因为不同的人会有不同的需求，众多的发行版满足了各类人的需要。比如Slackwre的用户就比主流用户更喜欢命令行。最接近Ubuntu的三个竞争对手是Debian，Fedora和SuSE，在稳定性、可靠性上它们都互有长短，用户群其实也并不重叠。
+Linux世界有数百个发行版，用一句名言来说——存在就是合理。
+➜科学家在太阳系外发现有水行星
+https://www.solidot.org/story?sid=3280	29280
+科学家第一次在太阳系外的一颗巨大行星的大气里<a href="http://pressesc.com/01184180642_water_extrasolar">观察到了水蒸气的痕迹</a>，这一发现已经刊登在《自然》杂志上。科学家分析了NASA的Spitzer太空望远镜所收集到的大气红外线数据，找到了水的信号。
+这颗命名为HD189733b的行星被称为“热木星（hot jupite）”，它是一颗气体行星，体积和质量接近木星，但是由于轨道过于靠近恒星，因此表面非常炎热，所以也不可能存在生命。
+➜首个CMMB手机芯片涉嫌造假
+https://www.solidot.org/story?sid=3281	33720
+“中国制造”已因为一系列丑闻在国外披上危险物的外衣，政府高调喊的口号“创新”“中国创造”早就流于形式。几年来舆论更是披露了许多令人愤怒不已的造假事件，比如汉芯。而最近一段时间媒体频频报道的首个支持CMMB（中国自己开发的标准，也被认为抄袭了欧洲卫星广播系统DVB-SH）移动多媒体广播技术的<a href="http://blog.sina.com.cn/u/4dc0f648010009cz">手机芯片IF101被业内专家指出很可能是造假</a>。<i>
+IF101芯片由北京创毅视讯公司在2007年3月19日研发成功，是支持CMMB移动多媒体技术的解调芯片。<br>
+全球研发和生产专业接收芯片的基本程序是：在大规模仿真测试的基础上，先要进行信号发射系统和接受系统的外场测试，之后对接收芯片的设计方案予以修改验证，才能对芯片基本定型设计，从而生产出工程样片，最后生产出专用芯片。 然而，创毅视讯宣布3月就已生产出CMMB芯片，这显然违反基本科学规律。
+</i>
+不可思议的是愤青却还能对此扣上一顶损害国家利益的高帽，声称要无条件支持国货，难道他们真想吃上<a href="http://www.google.cn/search?complete=1&amp;hl=zh-CN&amp;newwindow=1&amp;client=firefox&amp;rls=org.mozilla%3Azh-CN%3Aofficial&amp;hs=uAF&amp;q=%E6%B3%A8%E6%B0%B4+%E7%8C%AA%E8%82%89&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;meta=">注水的猪肉</a>？
+➜任天堂：任何人都是玩家
+https://www.solidot.org/story?sid=3282	51360
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "<a href="http://www.e3expo.com/">E3 2007</a>游戏展会，虽然观众可能比往届少了一点，但火热程度绝不逊于任何一届。无数的新游戏上场，索尼、微软、任天堂互相PK。<a href="http://games.slashdot.org/games/07/07/11/2018259.shtml">索尼推出新版本PSP</a>—更轻，更小，电池寿命更长；透露了PS3游戏《<a href="http://kotaku.com/gaming/e307/killzone-2-e3-trailer-277084.php">杀戮地带2</a>》的一些细节。<a href="http://games.slashdot.org/games/07/07/11/0517219.shtml">微软宣布</a>《战争机器》将登陆PC平台，并再次展示了重磅游戏光晕3。但是没有人比<a href="http://games.slashdot.org/games/07/07/11/1727225.shtml">任天堂更了解玩家了</a>，它知道现在的宅男越来越多，特地为目前最流行的主机Wii开发了新的控制器——<a href="http://www.nintendowiifanboy.com/2007/07/11/e307-get-body-conscious-like-the-cho-aniki-dudes-with-wii-fit/">Wii Fit</a>，无线脚踏板，用脚和身体的平衡来控制游戏。为了健康，我们可以无视Xbox360，PS3，但绝对要拥抱Wii。<a href="http://www.youtube.com/watch?v=5oNVIcMnZh4">视频</a>。"
+➜环境保护与公众参与
+https://www.solidot.org/story?sid=3283	73140
+<a href="http://konitime/">konit</a> 写道 "南方都市报邀请马军先生在广州<a href="http://baoliao.oeeee.com/gz/29902.html">作了有关中国环境问题的演讲</a>。马军先生以一种大局的眼光，去描述这片曾经美丽富饶的土地，究竟被糟蹋到什么地步。<i>现在的情况中国不但是在自己发展的过程，而且日益成为一个世界工厂，珠三角、长三角正在比着谁最后成为一个世界工厂，但是我们是不是要成为世界的垃圾场、世界的烟囱、世界的垃圾场，不客气的说有一些地方已经成为世界的垃圾场。</i>演讲强调了公众参与对改善环保问题的重要性。并以乐观的态度，讨论了如何建设性地处理环保NGO与政府之间关系。"

@@ -1,0 +1,21 @@
+➜Frege：基于JVM的Haskell
+https://www.solidot.org/story?sid=41345	26847
+<a href="/~王拥军">王拥军</a> 写道<i> "Scala和Clojure组成的基于JVM的函数式编程语言家族又添了一位新成员。9.28-10.2在旧金山举行的JavaOne2014上<a target="_blank" href="http://www.infoworld.com/article/2690907/java/frege-adds-to-java-functional-language-realm.html">展示了一种新的基于JVM的纯函数式编程语言Frege</a>。<a target="_blank" href="https://github.com/Frege/frege">Frege</a>是一种具备类型推论特性的强静态类型语言，取名于德国数学家<a target="_blank" href="http://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E6%B4%9B%E5%B8%83%C2%B7%E5%BC%97%E9%9B%B7%E6%A0%BC">Gottlob Frege</a>。这门语言希望把Haskell的精神带入Java程序员世界。目前Frege完成了编译器、Eclipse插件、REPL以及对Maven的基本支持。"</i>
+➜叶刘淑仪：“香港不会发生天安门式的清场”
+https://www.solidot.org/story?sid=41346	32075
+<a href="/~mtjs">mtjs</a> 写道 <i>"<a href="http://www.bbc.co.uk/zhongwen/trad/china/2014/10/141006_hk_regi" target="_blank">BBC中文网今天下午2点报道</a>：前香港保安局长、现行政会议员叶刘淑仪接受BBC中文网访问时表示现阶段香港不可能发生所谓“小天安门镇压”。她指出，经过特首梁振英的两轮电视讲话呼吁占中人群离场，令集会人士和国际社会担心是否会发生武力清场行动，全世界都在看事件是否会演变成“小天安门”，对此她认为，现阶段不会发生这种情况，中央政府绝对支持特区政府依法处理“占中之乱”，而且是以文明合法处理，她称，当今中国领导人与时并进，有足够的智慧处理大规模人群事件，并且中央领导人对香港事情十分掌握，特区政府会采取对话的和平方式解决事件。对于戒严手段，她说，戒严是在人群没有大规模集结前采取的手段，现在人群已经汇集，戒严只能刺激更多的人走上街头。“目前要清场已经很大问题，没有可能宣布戒严”，她说道。 <br>
+</i>
+<p></p>
+<!--more-->
+<p></p>
+<br>
+<p>昨天我在NPR上看到<a href="http://www.npr.org/blogs/parallels/2014/10/04/353570578/the-dalai-lama-talks-chinese-reforms-tibetan-challenges" target="_blank">10月4日达赖喇嘛的最近访谈</a>，在访谈中达赖喇嘛也对现在的中国“总统”给予了赞誉，称赞他的反腐行动，对中国人日益包容开放的心态给予了肯定，对西藏事务走向双赢抱持了乐观的态度。"</p>
+➜Samsung Gear Live有新系统了！不过……是 Windows 95
+https://www.solidot.org/story?sid=41347	45720
+<a href="/~skyfiretime">skyfiretime</a> 写道<i> "可能作为可穿戴史上并不那么成功的一款产品，三星 Gear Live 换上了新装。据 <a href="http://www.theverge.com/2014/10/5/6910791/least-useful-hack-ever-puts-windows-95-on-your-smartwatch" target="_blank">The Verge 报道</a>，国外 Geek 们通过模拟器已经为三星 Gear Live 装上了新系统 Windows 95，而 Windows 95 已经有约20年历史了。"</i>
+➜三名科学家获得诺贝尔医学奖
+https://www.solidot.org/story?sid=41348	47084
+<a target="_blank" href="http://en.wikipedia.org/wiki/John_O%27Keefe_%28neuroscientist%29"><u>John O'Keefe</u></a>、<a target="_blank" href="http://en.wikipedia.org/wiki/May-Britt_Moser"><u>May-Britt Moser</u></a>和 <a target="_blank" href="http://en.wikipedia.org/wiki/Edvard_Moser"><u>Edvard Moser</u></a>因发现构成大脑定位系统的细胞而获得<a target="_blank" href="http://www.nobelprize.org/nobel_prizes/medicine/laureates/2014/press.html"><u>2014年度的诺贝尔生理学/医学奖</u></a>，其中来自挪威的May-Britt Moser和 Edvard Moser是诺贝尔奖历史上第五对同时获奖的夫妻。他们发现了大脑如何能够确定方位所在并能指引身体从一处到另一处。他们的发现有可能帮助解释为什么有阿兹海默症的病人认不出他们熟悉的环境。诺贝尔奖委员会<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/10/141006_nobel_medicine"><u>说</u></a>，“他们的发现解决了困扰哲学家和科学家数世纪的问题。”
+➜Linux 3.17 Kernel发布
+https://www.solidot.org/story?sid=41349	57379
+Linus Torvalds在邮件列表上<a target="_blank" href="https://lkml.org/lkml/2014/10/5/126"><u>宣布</u></a>发布Linux 3.17 Kernel。新版的<a target="_blank" href="http://kernelnewbies.org/Linux_3.17"><u>主要特性</u></a>包括：4个新的系统调用——新的随机数系统调用<a target="_blank" href="http://lwn.net/Articles/606141/"><u>getrandom()</u></a>，用于多线程程序的过滤器<a target="_blank" href="http://lwn.net/Articles/600250/"><u>seccomp(</u></a>)，以及<a target="_blank" href="http://lwn.net/Articles/593918/"><u>memfd_create()</u></a>和<a target="_blank" href="http://lwn.net/Articles/603116/"><u>kexec_file_load()</u></a>；解决2038年问题的一系列内部工作， SCSI层的多队列支持，Xbox One手柄驱动，东芝笔记本的防坠落支持，等等。Linus表示由于旅行出席会议的原因，3.18 的合并窗口可能会延长。

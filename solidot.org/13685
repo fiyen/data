@@ -1,0 +1,45 @@
+➜网民的愤怒
+https://www.solidot.org/story?sid=3077	1260
+图片共享网站Flickr.com被限制访问的事情确确实实惹火了无数网民，他们对这种过度关心网络环境的行为愤怒不已。是的，他们经常碰到网站无法访问，这已经习以为常了，多数时候他们觉得无所谓，事不关己。但是Flickr.com则不同，许多人将自己花心思倾注心血拍的照片保存到这家著名的网站上，他们已经与它紧紧联系在一起。<a href="http://www.cnn.com/2007/TECH/internet/06/19/china.great.firewall.reut/index.html">国外媒体特地关注了这种自发产生的愤怒情绪</a>，但生活决不会因此而改变。
+➜语音聊天能毁掉游戏兴致
+https://www.solidot.org/story?sid=3078	1560
+《连线》杂志讲述了一个<a href="http://www.wired.com/gaming/virtualworlds/commentary/games/2007/06/games_frontiers_0617">真实世界身份卷入虚拟世界</a>，从而毁掉游戏乐趣的怪事。语音聊天已极为普遍，成为了在线游戏一部分。无论是MMOG还是FPS类型，甚至还有游戏商把它捆绑进客户端。它确实很有用，也很高效；但是在社会交流上它会产生隔阂，误解和尴尬。
+以下是真实故事：<i>
+“最近我玩了下魔兽世界，和一个法师，两个矮族战士组队，我是一个低等级的新手，啥也不太懂，那个法师是队中的老大。他告诉我很多探险过程中需要注意的环节，如何安排作战位置和战斗策略。他真的像一位虚拟世界中循循善导的大哥：自信，勇敢，聪明。但在几个小时后他告诉我文字聊天太累了，建议转到语音聊天工具Ventrilo上，用麦克风来交谈。于是我下载了Ventrilo，登录，拨号.......意识到这位男性法师只有11岁大。”</i>
+➜24小时测试PC-BSD
+https://www.solidot.org/story?sid=3079	5880
+PC-BSD是FreeBSD的派生版，但是非常强调易用性。最新的PC-BSD 1.3基于FreeBSD 6.1，X.org 6.9，和KDE 3.5.5，没有一个是最新发布的版本，这正体现了PC-BSD的开发理念：稳定，安全，友好。Ars Technica推出了<a href="http://arstechnica.com/reviews/os/pc-bsd-a-24-hour-test-drive.ars">一篇PC-BSD的简短评论</a>，描述了安装过程，优点和问题。比如问题有PC-BSD能够识别硬件，但是所选择的显卡驱动不能工作，可能是由于X.org版本过旧。作者最后进行了总结“我愿意向新用户推荐这个发行版，如果他们担心安装过程出问题的话（PC-BSD的安装迅速而简单，安装程序也非常体贴用户）。我还愿意向那些精于Unix但从没有使用过的FreeBSD的用户推荐它，在经历一个简短的学习过程后你会喜欢上它的。”
+➜中国开源爱好者的可悲心态
+https://www.solidot.org/story?sid=3080	10860
+LUPA社区的负责人发表了一番感慨，总结了<a href="http://blog.sina.com.cn/u/4c50644a01000921">中国开源爱好者的几种心态</a>，开场还用足球打了个比喻，似乎在为自己<a href="__SLASHLINK__" sect="opensource" sid="06/11/16/1529212" sn="article" tid="54">曾经的收费行为</a>辩解。<i>
+不可取心态之一：鄙视商业化运作<br>
+看到有公司在炒作开源，在利用开源盈利，于是嗤之以鼻，抛出所谓的开源不需要这样发展，开源需要实实在在做技术。殊不知没有实际的盈利模式出现，那开源将始终在几个程序员手里玩弄，或者只有付出没有回报。这样的大环境是不利于产业发展的。<br>
+不可取心态之二：开源应该免费<br>
+有这些观点的通常是那些在偷取开源技术为自己牟利的人类，他们不想看到这份免费的午餐开始收费，于是大声呐喊开源万岁，但却是开源的小偷。<br>
+不可取心态之三：单枪匹马，没有团队精神<br>
+这些通常是所谓的中国的资深的开源前辈，在经历了几次开源大行动之后，就不可一世，不懂得团结协作，指望自己建个网站拉些人做项目，或者干脆去跨国公司谋份薪水，或者是对开源已经麻木，并有消极心态。"</i>
+➜80+ 个专业ajax解决方案
+https://www.solidot.org/story?sid=3081	11580
+<a href="http://www.interma.cn/">interma</a> 写道 "Smashing Magazine给出了<a href="http://www.smashingmagazine.com/2007/06/20/ajax-javascript-solutions-for-professional-coding/">80+个专业ajax解决方案</a>，它们几乎涵盖了所有的ajax使用场景<br>
+而且个个都带图，选你喜欢的，然后下载示例代码就是了！"
+➜NASA免费公开机器人软件
+https://www.solidot.org/story?sid=3082	23400
+机器人技术正在快速的走下神坛，走进普通人的生活。<i>
+NASA发布了<a href="http://claraty.jpl.nasa.gov/">CLARAty</a>（ Coupled Layer Architecture for Robotic Autonomy）V0.10-beta测试版，一种可复用机器人软件框架。根据喷气推进实验室（JPL）的<a href="http://www-robotics.jpl.nasa.gov/news/newsStory.cfm?NewsID=69">新闻公告</a>，机器人制造的所有组成部分都包含在内，从基本的数学构造到通用电动机和照相机的设备驱动，计算机视觉、图像和3D处理。软件采用的许可证是CLARAty Open Source License。</i>
+<a href="http://claraty.jpl.nasa.gov/man/software/download/index.php">下载</a>，<a href="http://claraty.jpl.nasa.gov/man/overview/movies/index.php">视频演示</a>。"
+➜微软恳求消费者现在就购买Vista
+https://www.solidot.org/story?sid=3083	29820
+在一封新闻稿中，微软承认“部分消费者对于是否购买Windows Vista处于观望状态，因为他们听到流言说设备或应用程序存在兼容性问题，所以觉得应该等到service pack发布后再购买。”微软可就等不及了，它<a href="http://apcmag.com/6458/dont_wait_for_vista_sp1_pleads_microsoft">恳求消费者不要等到年底SP1发布后再作决定</a>，微软特地发布了“fact rich”服务，试图给潜在用户<a href="http://news.com.com/Microsoft+flip-flops+on+Vista+virtualization/2100-1016_3-6191787.html">打上强心针</a>。
+➜戴尔拒绝把Ubuntu卖给商业用户
+https://www.solidot.org/story?sid=3084	30360
+在<a href="http://ubuntuforums.org/showthread.php?t=478975">ubuntu论坛</a>，一位用户<a href="http://linux.slashdot.org/linux/07/06/20/1215213.shtml">抱怨戴尔的销售策略</a>，将之称为超现实(surreal，这个词最近很流行)体验。作为一家小型非盈利公司雇员，boss叫他买台电脑，他打算支持Dell和Ubuntu。但当他以公司名义订购时，销售人员明确告诉他“预装Ubuntu的电脑只提供给个人用户，只有个人用户才能购买”。如果以公司名义购买，由于非盈利性质无需缴税；而个人购买则需要交90美元的税，公司可能不会返还这部分钱，最后他决定放弃戴尔。
+➜寻找模拟火星任务志愿者
+https://www.solidot.org/story?sid=3085	35520
+欧洲航天局（ESA）正在<a href="http://www.physorg.com/news101457611.html">寻找模拟火星旅行的志愿者</a>。6个人组成一队，在长达17个月（520天）的时间内与世隔绝，模拟飞行到火星及返回所花时间，包含30天的火星实地探索。队伍由4个俄罗斯人和2个欧洲人组成，还有一个预备队，所以ESA总共需要12位欧洲志愿者。这件事件与我们无关，但太空探险事关全人类，正如阿姆斯特朗所说“我的一小步是人类的一大步”。<a href="http://spaceflight.esa.int/users/index.cfm?act=default.page&amp;level=16&amp;page=2203">申请网站</a>。<br>
+什么时候中国牛了，搞不搞这种模拟实验？是不是还要挑选又红又专的？
+➜搜狐blog拒绝百度
+https://www.solidot.org/story?sid=3086	45300
+<a href="mailto:batfree@gmail.com">batfree</a> 写道 "在百度上使用site:blog.sohu.com 来看blog的收录情况，竟然只有惊人的2条结果。而google里面倒是正常，有3,520,000个结果。第一反应是百度封杀了sohu的blog，试着用curl伪装成百度的蜘蛛连接Sohu的blog页面，发现被引导到错误页面了，而换了其他的useragent则可以得到正确的页面。看来是<a href="http://blog.sina.com.cn/u/5567ac93010008vi">Sohu Blog拒绝百度</a>了。不过这是不是剥夺了Sohu Blog用户的权利呢？"           另：Msn space也存在着拒绝Firefox3的情况，我使用Firefox3的nightly build版本浏览sapces.live.com会得到语法错误的页面。通过修改useragent伪装成opera8,opera9,safari,IE6,IE7,Firefox2.0，Firefox1.5都可以得到正确的可以显示的页面。这个情况通过比较不同useragent的页面源代码，可以发现firefox3得到的是一个XML语法错误的页面，而其他的useragent得到的是可以显示的页面。这个情况已经存在了几个月了，但未见微软做出修改。
+➜垂直耕作生产粮食
+https://www.solidot.org/story?sid=3087	45480
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "纽约城内寸土寸金，是不可能种上粮食作物，因此big Apple的食物需要从去全国各地运来。现在哥伦比亚大学的科学家把手伸向天空，想出一种新方法来解决此类问题：<a href="http://news.bbc.co.uk/2/hi/americas/6752795.stm">垂直耕作</a>（vertical farm）。这种想法其实很简单，想象一下一座用玻璃墙建造的30层建筑物，上面覆盖太阳能电池板，每一层都铺上巨大的移植床，整座大楼具备高效的采光和浇灌系统。这种方法确实可以减少耕种对环境的冲击，并且能提高生产效率。更详细资料可浏览<a href="http://www.verticalfarm.com/">项目网站</a>。"

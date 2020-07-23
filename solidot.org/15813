@@ -1,0 +1,104 @@
+➜Tor需要更多网桥
+https://www.solidot.org/story?sid=34341	10258
+匿名暗网Tor项目需要更多网桥。Tor被广泛用于绕过政府监视和互联网审查，但在中国伊朗等屏蔽Tor入口节点的国家，私下传播的网桥正变得日益重要。网桥是一种不对外公开的Tor网络秘密入口，但网桥也容易被探针检测出<a href="http://www.solidot.org/story?sid=27835"><u>然后加以屏蔽</u></a>，所以能让中国伊朗叙利亚网民绕过防火墙的唯一方法是使用<a href="https://www.torproject.org/projects/obfsproxy.html.en"><u>obfsproxy</u></a>网桥和pluggable transport插件混淆流量避开检测。Tor开发者表示他们<a href="http://arstechnica.com/information-technology/2013/04/tor-calls-for-help-as-its-supply-of-bridges-falters/"><u>需要更多的志愿者</u></a>去运行混淆流量的Tor网桥。混淆网桥（<a href="https://www.torproject.org/docs/bridges#PluggableTransports"><u>obfuscated bridges</u></a>）地址没有储存在Tor主目录而是储存在分布式数据库<a href="https://bridges.torproject.org/?transport=obfs2"><u>BridgeDB</u></a>，为了避免完整网桥地址泄漏，BridgeDB每次请求只产生两个地址。但网桥地址和pluggable transport被探测出仍然只是一个时间问题，目前广泛使用的pluggable transport插件<code>obfs2已被中国封杀，但</code><code>obfs3仍然可以工作，但它只支持最新版的</code>混淆网桥代理，Tor网络现在只有40个 <code>obfs3网桥，开发者呼吁有更多人运行</code> <code>obfs3网桥，建议</code> <code>obfs2网桥用户升级到</code><code>obfs3。</code>
+➜福布斯认为比特币不是货币
+https://www.solidot.org/story?sid=34342	12471
+《福布斯》杂志主编Steve Forbes认为数字货币比特币不是美联储滥印钞票的答案，理由是<a href="http://www.forbes.com/sites/steveforbes/2013/04/16/bitcoin-whatever-it-is-its-not-money/"><u>它没有固定价值</u></a>，它的交易方式更像股票或商品。过去几天比特币的币值像过山车一样变动，如此剧烈的波动使它根本不适合用作货币。货币的唯一用途是交易，可以购买和出售商品、服务和证券，比物物交换方便和容易。货币的其它用途都源自于这个基本功能。只有在价值固定时货币才是最优的，就像只有在我们确定度量衡之后贸易才能获得发展。购买一磅汉堡你期望能看到16盎司的肉。一个小时有60分钟。一英里5280英尺。这些测量不会浮动。
+➜亚马逊收购Siri竞争对手Evi
+https://www.solidot.org/story?sid=34343	13234
+亚马逊以2600万美元收购了语音识别应用Evi，但无论是亚马逊还是Evi创始人都对此不予置评。Evi去年初<a href="http://www.solidot.org/story?sid=28053"><u>发布了</u></a>iPhone和Android应用，基于Nuance语音识别技术和 True Knowledge搜索引擎，由于功能与苹果的语音助手Siri过于相似苹果一度威胁要将其移除出应用商店。亚马逊目前并没有需要语音助手的智能手机，但Evi可以修改<a href="http://arstechnica.com/gadgets/2013/04/amazon-reportedly-buys-siri-like-voice-control-app/"><u>运行到kindle平板和阅读器</u></a>，一个语音助手可以根据用户需要快速选择打开某本书或运行某个应用。
+➜四成禽流感患者未曾接触禽类，不排除人传人
+https://www.solidot.org/story?sid=34344	15379
+中国疾病预防控制中心流行病学首席专家曾光<a href="http://www.scmpchinese.com/sc/china/6470/si-cheng-qin-liu-gan-huan-zhe-wei-ceng-jie-hong-qin-lei"><u>表示</u></a>，检验出H7N9禽流感病毒阳性的患者当中，四成近期未曾接触过禽类，因此尚不明确他们如何感染病毒。截至4月18日8时，中国共报告83例H7N9确诊病例，其中5人已治愈出院、死亡17人，河南省新增1例确诊病例。中国疾控中心卫生应急中心主任冯子健说，不排除H7N9禽流感病毒存在有限<a href="http://www.bbc.co.uk/zhongwen/simp/china/2013/04/130418_china_bird_flu.shtml"><u>人传人</u></a>的能力。上海目前已发现两起家庭聚集性病例，感染新型禽流感病毒H7N9，涉及一对父子和一对夫妻。冯子健表示，就目前两起家庭聚集性病例来看，也不能排除感染者共同或先后暴露于携带病毒活家禽环境，以及病毒污染的高危环境中的可能。中国已经将病毒样本<a href="http://news.sciencemag.org/scienceinsider/2013/04/more-h7n9-infections-reported.html"><u>送往</u></a>了全世界的科研实验室。
+➜东芝推出2560×1440显示屏超级本
+https://www.solidot.org/story?sid=34345	16982
+<p align="center"><img width="300" height="201" src="http://img.solidot.com.cn/0/308/liBCXTtRrFJtc.jpg">
+</p>
+你可能听过Linus Torvalds对笔记本显示屏分辨率的<a href="http://www.solidot.org/story?sid=32057"><u>抱怨</u></a>，以及对分辨率高达2560×1700的Chromebook Pixel的<a href="http://www.solidot.org/story?sid=33715"><u>称赞</u></a>。什么时候PC厂商能响应客户的呼声？至少东芝<a href="http://arstechnica.com/gadgets/2013/04/toshibas-2560x1440-kirabook-is-a-high-res-laptop-for-the-windows-world/"><u>听到了</u></a>。它宣布推出13.3英寸2560×1440显示屏的超级本Kirabook，虽然分辨率略低于Retina MacBook Pro的2560×1600和 Chromebook Pixel的2560×1700，但已经远胜于其它超级本了。但高分辨率的代价是高价格：Kirabook的起步价是1599美元，配备Ivy Bridge Core i5处理器，256GB SSD，8GB内存和背光键盘；1999美元型号的Kirabook配备了Core i7处理器和触摸屏。笔记本0.7英寸厚重 2.6磅，介于0.64英寸Chromebook Pixel和0.75英寸   Retina MacBook Pro之间。Kirabook从5月3日开始开放预订，5月12日出货。
+➜基督徒玩家拒绝接受《生化奇兵无限》的“洗礼”，获得全额退款
+https://www.solidot.org/story?sid=34346	18503
+<p align="center"><img src="http://img.solidot.com.cn/0/310/liQxI88MezL3k.jpg" height="253" width="450">
+</p>
+上月底上市的《<a href="http://en.wikipedia.org/wiki/BioShock_Infinite"><u>生化奇兵无限（BioShock Infinite）</u></a>》是一部探讨平行宇宙（或者说无限个宇宙）、父女关系、宗教信仰、种族暴力和工业革命的FPS游戏。在游戏开头，玩家要进入量子悬浮之天空城市哥伦比亚必须接受神父的洗礼。基督徒玩家Breen Malmber<a href="http://www.gamespot.com/news/valve-refunded-bioshock-infinite-gamer-upset-over-religious-scene-6407096"><u>拒绝接受数字洗礼</u></a>，认为是亵渎，要求出售游戏的Valve公司（PC版是通过Steam发行）退款，据报道他获得了全额退款。Malmber认为这段洗礼场景将迫使他从违背信仰以继续游戏和不违背信仰退出游戏中做出选择，他最终选择了后者。
+➜GNU/Linux内核的地址随机化
+https://www.solidot.org/story?sid=34347	22043
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i>"地址空间布局随机化(ASLR)是一项增加安全性的技术，攻击者发现漏洞之后开始编写exploit时如果要考虑绕过ASLR这会增加编写exploit的难度，最早是2001年<a href="http://grsecurity.net/" data-ke-src="http://grsecurity.net/">Grsecurity</a>社区(强悍的社区，直到今天还在为各种各样的加固为自由软件安全社区作出持续而杰出的贡献)针对GNU/Linux的PaX补丁中出现，后来GNU/Linux内核对<a href="https://lwn.net/Articles/121845/" data-ke-src="https://lwn.net/Articles/121845/">用户态地址随机化</a>的支持在2005年的<a href="https://lwn.net/Articles/126951/" data-ke-src="https://lwn.net/Articles/126951/">2.6.12</a>版本合并到了mainline，但直到今天内核中还是使用固定的虚拟地址。2011年的时候，Dan Rosenberg提议增加内核ASLR的功能但后来一直没有实施下去，最近Kees Cook向社区提交<a href="https://lwn.net/Articles/546035/" data-ke-src="https://lwn.net/Articles/546035/">内核地址随机化的补丁</a>，社区可能会在最近把这个补丁合并到mainline upstream repo里去。
+</i>
+<p></p>
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+</p>
+<p><br>
+绕过ASLR并不是一门新的技术，早在2002年的<a href="http://phrack.org/issues.html?issue=59&amp;id=9#article" data-ke-src="http://phrack.org/issues.html?issue=59&amp;id=9#article">Phrack Issue 59中就已经有一篇论文</a>详细的描述了原理和细节，个人认为内核空间的ASLR是非常有必要的，在内存和硬盘上隐藏内核空间地址是一个暂时的方案，比如:</p>
+<p>
+</p>
+<p>测试平台：SUSE Linux Enterprise Server 11 SP2</p>
+<p>
+</p>
+<p>[检查默认的内核配置]</p>
+<p>* 从硬盘镜像上获得地址</p>
+<p>shawn@linux-7kz0:~&gt; grep do_fork /boot/System.map-3.0.42-0.7-default
+ffffffff81058cd0 T do_fork</p>
+<p>ffffffff8143959a t do_fork_idle</p>
+<p>
+</p>
+<p>* 从内存中获得地址</p>
+<p>shawn@linux-7kz0:~&gt; cat /proc/kallsyms | grep do_fork</p>
+<p>ffffffff81058cd0 T do_fork</p>
+<p>ffffffff8143959a t do_fork_idle</p>
+<p>------------------------------------------------------------------</p>
+<p class="bz_comment_text" id="comment_text_0">[简单的加固]</p>
+<p class="bz_comment_text">* 使用root执行:</p>
+<p class="bz_comment_text">linux-7kz0:/home/shawn # chmod o-r /boot/System.map-3.0.42-0.7-default
+</p>
+<p class="bz_comment_text">linux-7kz0:/home/shawn # sysctl -w kernel.kptr_restrict=1</p>
+<p class="bz_comment_text">
+</p>
+<p class="bz_comment_text">[验证结果]</p>
+<p class="bz_comment_text">shawn@linux-7kz0:~&gt; grep do_fork /boot/System.map-3.0.42-0.7-default
+grep: /boot/System.map-3.0.42-0.7-default: Permission denied</p>
+<p class="bz_comment_text">shawn@linux-7kz0:~&gt; cat /proc/kallsyms | grep do_fork
+0000000000000000 T do_fork
+0000000000000000 t do_fork_idle</p>
+<p class="bz_comment_text">这个方法只能针对特殊定制的内核，但对于发部分GNU/Linux发行版，内核镜像都是一样的，攻击者可以通过其他方式获得固定地址，KASLR可以在一定程度上延缓攻击者的速度，但实现上可能带给内核一些副作用，有人<a href="http://forums.grsecurity.net/viewtopic.php?f=7&amp;t=3367" data-ke-src="http://forums.grsecurity.net/viewtopic.php?f=7&amp;t=3367">坚决反对在内核空间实现地址随机化</a>。"</p>
+➜微信收费事件背后的技术细节
+https://www.solidot.org/story?sid=34348	26749
+在微信收费事件中有一个名词频繁出现——所谓的“信令风暴（即Signaling Storm，福布斯曾<a href="http://www.forbes.com/sites/ciocentral/2012/03/21/how-the-new-ipad-creates-signaling-storm-for-carriers/"><u>报道</u></a>过iPad 3对LTE运营商信道畅通的挑战）”，通信行业专家谴责微信过于频繁的心跳和短包导致“信令风暴”，占用大量网络资源影响移动网络<a href="http://en.wikipedia.org/wiki/Signalling_%28telecommunications%29"><u>信令</u></a>处理能力。阿里巴巴的Oasis Feng发表文章<a href="http://blog.oasisfeng.com/2013/04/14/dirty-secret-behind-weixin-charge-gate/"><u>介绍了背后的技术细节</u></a>，指出这既是一个国际问题也有中国特色。Andriod手机占据了中国智能手机市场的大部分份额，但中国Andriod厂商制造的手机都剥离了Google的系统，其中就包括PUSH通道：Google在Android系统中使用蜂窝（2G/3G）网络连接GCM的PUSH通道时，默认采用的心跳周期是28分钟，但微信Android版本选择以5分钟为周期发送连接心跳，大陆行货渠道发售的Android手机都无法使用Google的PUSH通道，原本每个手机中只需要建立的唯一共享的PUSH通道，被人为分裂，以至于每一个声称为用户提供实时通知的国内App都在重复微信所做的行为。
+➜Ubuntu 13.04可选择GNOME桌面
+https://www.solidot.org/story?sid=34349	29225
+在默认界面改用Unity两年之后，Ubuntu 13.04将首次向不喜欢Unity的用户提供一个GNOME桌面版本。<br>
+<i>Ubuntu开发 Unity界面是为了创造统一平板、智能手机、电视和桌面的的用户界面，但自Unity随Ubuntu 11.04一同推给桌面用户之后，Unity饱受争议，不满的用户指责其在旧硬件工作表现不佳，存在许多bug，部分用户因此转向了继续使用GNOME桌面(2和3)的衍生发行版Linux Mint。现在，即将在下周发布的Ubuntu 13.04将正式为这部分用户<a href="http://thevarguy.com/ubuntu/ubuntu-1304-gnome-vs-unity-user-interface-update"><u>提供</u></a>一个GNOME版本<a href="https://wiki.ubuntu.com/UbuntuGNOME"><u>Ubuntu GNOME</u></a>。Ubuntu GNOME包括GNOME 3.6，Mozilla Firefox、LibreOffice和Ubuntu软件中心。   </i>
+➜阿里巴巴关闭中国雅虎邮箱服务
+https://www.solidot.org/story?sid=34350	30790
+阿里巴巴旗下的中国雅虎/雅虎中国<a href="http://mail.cn.yahoo.com/"><u>宣布</u></a>于8月19日停止服务，建议用户尽快登录邮箱注册和绑定一个阿里云邮箱收发原邮箱邮件，或者可选择搬迁至<a name="mail/migration/ep_tips" href="http://migration.cn.yahoo.com/?_show=y" target="_blank">Yahoo.com</a>或其他第三方电子邮件供应商。在2013年8月19日前，用户可以正常使用原有中国雅虎邮箱。但在此时间之后，若没有进行如上操作，原中国雅虎邮箱中的所有邮件和相关的帐户设置都将被删除且无法恢复。雅虎中国早在2005年就成为阿里巴巴旗下的网站。美国雅虎的子公司雅虎香港因为向中国政府披露异议人士的信息而受到<a href="http://en.wikipedia.org/wiki/Criticism_of_Yahoo!#Work_in_the_People.27s_Republic_of_China"><u>广泛批评</u></a>，中国官方向雅虎香港发送信函索要@yahoo.com.cn邮箱帐号信息、相关IP地址和邮件内容，雅虎披露的信息直接导致多位异议人士入狱。
+➜冰岛大学生开发反乱伦应用
+https://www.solidot.org/story?sid=34351	32671
+冰岛大学的学生团队“Sad Engineer Studios”开发出一个Android应用程序<a href="https://play.google.com/store/apps/details?id=is.ses.apps.islendingaapp"><u>ÍslendingaApp</u></a>，希望能帮助冰岛居民避免<a href="http://www.nbcnews.com/technology/gadgetbox/anti-incest-app-built-iceland-college-students-1C9392483"><u>与表亲约会</u></a>。应用程序从冰岛国家家谱数据库提取数据，该数据库包含了所有居民及其祖先的家谱信息，其家谱树一直上溯到一千多年前的中世纪。将两张照片放在一起，如果你们有共同的祖父母程序将会弹出警告。研究家谱是所有冰岛居民的爱好，平均而言，在街上任意选择两个人，他们向上的第六代或第七代祖先可能是亲戚。
+➜Geeksphone公布两款Firefox OS手机价格
+https://www.solidot.org/story?sid=34352	34484
+<div align="center"><img src="http://img.solidot.com.cn/0/129/liDMOzlOJmJEs.jpg" align="" height="324" width="500"><br>
+</div>
+Mozilla今年初<a href="http://www.solidot.org/story?sid=33234"><u>公布了</u></a>两款面向开发者的Firefox OS手机。开发者预览版手机原定于二月出货，但已经推迟到了第二季度，硬件规格属于中低端。其中基础型号Keon采用高通单核Snapdragon S1处理器，工作频率1Ghz，屏幕为3.5英寸HVGA多重触控屏，三百万像素摄像头，4GB ROM，512 MB RAM，电池容量1580 mAh；中端型号Peak采用高通双核Snapdragon S4处理器，运行频率1.2Ghz，显示屏4.3英寸qHD IPS触控屏，前置二百万像素摄像头后置八百万像素摄像头，4GB ROM，512 MB RAM，电池容量1800 mAh。销售两款手机的<a href="http://www.geeksphone.com/"><u>Geeksphone</u></a>刚刚公布了它们的价格：Keon 91欧元（约人民币700元），Peak为149欧元（约1200元），<a href="http://shop.geeksphone.com/en/"><u>网店</u></a>将于下周开放，目前维护中。价格和配置在中国可能缺乏竞争力。
+➜中兴抱怨不公，称已终止伊朗业务
+https://www.solidot.org/story?sid=34353	35876
+路透社去年<a href="http://www.solidot.org/story?sid=30473"><u>率先报导</u></a>中兴通过空壳公司向伊朗出售美国产的监控设备，正因此面临美国的犯罪调查。中兴董事长侯为贵接受<a href="http://www.reuters.com/article/2013/04/18/us-zte-iran-idUSBRE93H0A820130418?feedType=RSS&amp;feedName=worldNews"><u>采访</u></a>称该公司已基本停止伊朗业务，表示因为中断合同该公司必须向客户支付赔偿金。侯为贵抱怨中兴受到了<a href="http://cn.reuters.com/article/techMediaTelcoNews/idCNL3S0D53CI20130418"><u>不公待遇</u></a>，“我觉得我们在这个问题上是很冤屈的。一个是大家卖的东西都一样，我们卖的也不是最多的，现在限制我们了，其他同行都没有受到什么限制--都还在销售。这个显得有点不公平。”侯称，华为等中国同行企业还在伊朗开展业务，但他拒绝评论更多。侯为贵称，中兴已经同美国政府就此问题进行一些沟通，但他很难转变美国议员或其民众的看法。同时他也表示，中兴在美国将主要侧重手机业务。
+➜希格斯数据引发对创世大爆炸暴涨质疑
+https://www.solidot.org/story?sid=34354	39819
+普林斯顿大学天体物理学家<a href="http://wwwphy.princeton.edu/~steinh/"><u>Paul Steinhardt</u></a>和同事在预印本网站arXiv上发表了一篇有争议的<a href="http://arxiv.org/abs/1304.2785"><u>论文</u></a>，根据欧洲航天局普朗克项目最新公布的宇宙微波背景辐射地图和大强子对撞机的希格斯粒子数据，指出创世大爆炸<a href="http://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E6%9A%B4%E6%BC%B2"><u>暴涨理论</u></a>存在<a href="http://www.nature.com/news/higgs-data-could-spell-trouble-for-leading-big-bang-theory-1.12804"><u>致命缺陷</u></a>。简而言之，暴涨模型适合普朗克数据，但不适合希格斯场计算结果。大强子对撞机粒子物理学家的计算认为，希格斯场可能启动于高能量的亚稳态，而不是低能量的稳定态。不过，Steinhardt此前并不是没有发表过惊人之言，多年来他和同事开发了暴涨宇宙模型的替代“循环模型”，他认为宇宙经历了一系列的创世大爆炸和反弹，反复向外扩展和向内收缩。
+➜大公报“习近平乘出租车”报道为假新闻
+https://www.solidot.org/story?sid=34355	40746
+<a href="/~mtjs">mtjs</a> 写道<i> "今天想必很多人都通过各种渠道看到了“政府领导微服私访”的报道，现在，国家权威机构发出了决定性的声音，新华网<a href="http://news.qq.com/a/20130418/001313.htm">报道</a>：4月18日香港大公报刊登的《北京的哥奇遇：习总书记坐上了我的车》一文，经核实，此报道为虚假新闻。<span style="line-height: 28px;">大公报也因刊发了《北京“的哥”：习近平总书记坐上了我的车》虚假消息而向读者<a href="http://news.takungpao.com/mainland/focus/2013-04/1558289.html">致歉</a>。</span>"</i>
+➜美航上千航班因软件问题停飞
+https://www.solidot.org/story?sid=34356	41595
+美国航空（American Airlines）及其区域合作伙伴美鹰航空（American Eagle）周二由于订票系统通信问题而<a href="http://spectrum.ieee.org/riskfactor/aerospace/aviation/american-airlines-still-recovering-from-software-issue-that-grounded-flights-yesterday"><u>被迫取消</u></a>970个航班和推迟起飞至少1068个航班，被迫请求联邦航空局对其航班放置禁止起飞标志。订票系统通信故障事实上让美航完全瘫痪，由于牵涉到的航班数量太多，手动订票并不可行。美航CEO Tom Horton为此发表<a href="http://www.wfaa.com/news/consumer/aa-american-ceo-horton-apology-youtube-computer-delays-10-203326241.html#horton"><u>视频声明</u></a>对给乘客造成的不便道歉。软件故障与世博控股(Sabre Holdings)开发的订票系统无关，而是发生在美航自己的IT运营部门。美国航空是美国第三大航空公司，技术故障持续了一天才<a href="http://www.utsandiego.com/news/2013/apr/18/tp-some-american-problems-linger/"><u>基本解决</u></a>。普渡大学航空技术教授Brent Bowen说，当系统日益庞大和复杂，在某一点会发生系统性失灵。
+➜杀毒软件更新将系统文件识别为恶意程序
+https://www.solidot.org/story?sid=34357	44466
+全世界数以千计的电脑周二更新了安全供应商Malwarebytes的安全软件之后，将系统文件识别为恶意程序，<a href="http://www.v3.co.uk/v3-uk/news/2262234/malwarebytes-cripples-thousands-of-computers-with-faulty-software-security-update"><u>导致电脑无法启</u></a>动。Malwarebytes官方博客<a href="http://blog.malwarebytes.org/news/2013/04/yesterdays-database-update-issue/"><u>承认了事故</u></a>，称有问题的恶意程序定义只上线了八分钟就从服务器移除。更新的定义本质上是将Windows.dll和.exe文件识别为恶意程序，因此阻止这些文件运行，导致IT系统和电脑下线。一家英国公司的IT管理员称，事故导致八成的服务器下线。<br>
+➜亚马逊准备上映原创剧集
+https://www.solidot.org/story?sid=34358	46350
+过去电视剧集通常只通过一种方法获得：有线电视网投资数百万购买剧本和拍摄试播剧，向焦点群体展示其劳动成果，然后再由高管决定在电视上播出最有希望吸引大众的剧集。这种做法既不科学，又昂贵，而且往往无效。在Netflix的原创剧《纸牌屋》一炮打响之后，零售业巨头亚马逊也准备<a href="http://www.scmp.com/business/companies/article/1217286/amazon-debut-original-tv-shows-and-viewers-decide-which-stay-and"><u>尝试新的电视剧制作模式</u></a>：它准备不久后在网站上上线14部剧集的试播剧，允许美国、英国和德国的观众免费观看，根据观众评论和反馈决定剧集的生死。Amazon Studios主任 Roy Price指出，观众就在那里，为什么不让观众成为选片流程的一部分？完整版原创剧将免费提供给Amazon Prime订户观看，Amazon Prime的年费为79美元，亚马逊的Amazon Prime用户数量估计在600万到1千万之间。互联网公司正在踏入曾经由好莱坞独占的领土。

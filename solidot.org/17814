@@ -1,0 +1,48 @@
+➜仍然有很多网站使用赛门铁克旧证书
+https://www.solidot.org/story?sid=58157	13132
+由于赛门铁克 CA 过去几年被发现签发了大量有问题的证书，包括 2015 年在 Google 不知情下为 Google 域名颁发了有效期一天的预签证书，Google 去年宣布从 2018 年 10 月发布的 Chrome 70 将<a href="https://www.solidot.org/story?sid=57618" target="_blank"><u>停止信任</u></a>赛门铁克的旧证书，而 Mozilla 也将在 10 月底发布 Firefox 63 时停止信任赛门铁克的旧证书。尽管两大浏览器开发商已经提前一年宣布了停止信任赛门铁克证书的时间表，但很多网站还没有及时替换证书。这意味着 Chrome 70 和 Firefox 63 发布后访问这些网站<a href="https://it.slashdot.org/story/18/10/09/008210/chrome-70s-upcoming-security-change-will-break-hundreds-of-sites" target="_blank"><u>将会出现问题</u></a>。安全研究员 Scott Helme 分析了 Alexa 排名前 100 万的网站，发现有 1139 个网站没有切换到新证书，其中包括 Citrus、SSRN、Federal Bank of India、Pantone、Tel-Aviv 市政府，Squatty Potty 和 Penn State Federal。
+➜彭博社公布中国秘密后门芯片报道的新证据
+https://www.solidot.org/story?sid=58158	14600
+彭博商业周刊上周报道的中国硬件供应链攻击受到了广泛质疑，它引用多个匿名消息来源声称，中国军方利用在中国组装超微主板的机会秘密植入后门芯片。但相关企业以及美国英国的情报和安全机构都否认了这一报道。彭博社的报道描述了一种理论上可能的微型芯片植入技术，但缺乏实物证据。如果中国军方真的在超微主板广泛植入了秘密芯片，那么找到实物证据并非难事，超微是最大的服务器主板供应商。现在，彭博社再次引用消息来源<a href="https://www.bloomberg.com/news/articles/2018-10-09/new-evidence-of-hacked-supermicro-hardware-found-in-u-s-telecom" target="_blank"><u>支持它的报道</u></a>，这次它给出了消息来源的名字。报道称，美国的一家大型电信公司从其网络中发现了遭到纂改的超微硬件，于今年八月将其移除。在彭博商业周刊报道中国情报机构命令分包商在超微服务器主板植入恶意芯片后，来自以色列的安全专家 Yossi Appleboum 提供了与这次事故相关的文件、分析和其它证据。Appleboum 曾在以色列陆军情报机构的技术部门工作，现在是 Sepio Systems 的联席 CEO。他的公司主业是硬件安全，受雇扫描了电信公司的数据中心。因为保密协议，电信公司的身份未知。Appleboum 称，超微服务器的异常通信和随后展开的实地检查发现了服务器的 Ethernet 连接器中的植入物。然而该报道的可信度<a href="https://news.slashdot.org/story/18/10/09/1731207/new-evidence-of-hacked-supermicro-hardware-found-in-us-telecom-bloomberg" target="_blank"><u>仍然存疑</u></a>。
+➜微软修复数据删除 bug 重新释出 Windows 10 October 2018 Update
+https://www.solidot.org/story?sid=58159	17599
+在修复了数据删除问题之后，微软重新释出了 Windows 10 October 2018 Update。Windows Servicing and Delivery 的总监 John Cable 在官方博客上<a href="https://blogs.windows.com/windowsexperience/2018/10/09/updated-version-of-windows-10-october-2018-update-released-to-windows-insiders/#mdS5ob7Ao73Url36.97" target="_blank"><u>详细解释了这一问题</u></a>。John Cable 称遭遇数据丢失问题的用户很少，他们已经调查了所有数据丢失的报告，修复了所有已知的问题，并进行了内部验证。导致数据丢失的问题与文件夹重定向功能有关。当用户使用文件夹重定向将一个已知的文件夹重定向到另一个磁盘，比如为了节省 C 盘空间而将 c:\users\username\documents 重定向到 D:\documents，如果原文件夹中的内容没有移动，那么升级到 Windows 10 October 2018 Update 时原文件夹包括其中的文件会被删除，只保留新的文件夹。其它的数据删除案例与 OneDrive 有关。
+➜Google 曾计划尽可能快的发布审查版搜索引擎
+https://www.solidot.org/story?sid=58160	17795
+对于为中国开发的审查版搜索引擎 Project Dragonfly，Google 高管辩护称该项目是探索性的，尚未接近发布。但越来越多的证据显示 Google 是非常认真的对待这个项目，有数百名全职开发者，并计划一旦中国批准就准备上线。The Intercept <a href="https://theintercept.com/2018/10/09/google-china-censored-search-engine/" target="_blank"><u>报道称</u></a>，Google 搜索引擎负责人  Ben Gomes 在今年 7 月  18 日的一个内部会议上告诉 Project Dragonfly 团队成员，他们的工作很重要，表示希望这个审查版搜索引擎能在未来 6 到 9 个月内发布，但由于中美贸易战以及其它因素而无法给出一个明确的时间表。Gomes 解释说，重返中国的一个主要原因是中国有着 10 亿网民，是一个巨大的市场，是今天最令人感兴趣的市场。Google 是在 2010 年退出中国搜索市场的。
+➜索尼总裁证实在开发下一代 PS 主机
+https://www.solidot.org/story?sid=58161	19219
+索尼总裁吉田宪一郎接受金融时报采访时<a href="https://www.ft.com/content/25f9a068-c898-11e8-ba8f-ee390057b8c9" target="_blank"><u>确认</u></a>正在开发下一代 PlayStation，但是否叫 PlayStation 5 还未定，吉田宪一郎称，“我所能说的是下一代硬件是必要的”。金融时报的报道认为，下一代 PlayStation 的基础架构推测与 PS4 相似，而索尼目前看来并无计划转向基于云端的游戏服务，竞争对手如微软计划推出 Project xCloud，而 Google 也在测试它的游戏串流服务。PS4 是最近一代销量最高的主机。
+➜不满的 Google+ 用户起诉 Google 隐私侵犯
+https://www.solidot.org/story?sid=58162	28330
+在 Google 证实其社交服务平台 Google+ 发现数据泄露漏洞并宣布关闭消费者版本的 Google+ 后，两名 Google+ 用户向旧金山联邦法院<a href="https://www.documentcloud.org/documents/4997998-Gov-Uscourts-Cand-333123-1-0.html" target="_blank"><u>递交集体诉讼</u></a>，称他们的隐私<a href="https://arstechnica.com/tech-policy/2018/10/google-users-upset-over-data-leak-sue-google/" target="_blank"><u>被侵犯了</u></a>。Matt Matic 和 Zak Harris 指控搜索巨人在安全上疏忽而导致了暴露大约 50 万用户非公开信息的 API bug。起诉书称，更糟糕的是，在发现 Google+ 平台漏洞之后，被告保持沉默至少七个月，它有意不通知用户信息可能泄露，进一步危及了消费者的隐私，使他们面临身份被盗或更糟的风险。
+➜Google 对欧盟的反垄断罚款提起上诉
+https://www.solidot.org/story?sid=58163	28583
+今年 7 月，欧盟以 Google 违反反垄断法为由对其开出了 43.4 亿欧元的创纪录罚款。欧盟认为 Google 从 2011 年起对 Android 设备制造商和移动网络运营商施加了非法的限制，强化其在搜索市场的垄断地位。Google 必须在 90 天内改变这一行为，否则其母公司 Alphabet 将面临最高 5% 全球日均营业额的罚款。本周，在近 90 天后 Google 对这项裁决<a href="https://cn.reuters.com/article/google-eu-antitrust-fine-court-1010-idCNKCS1MK06N" target="_blank"><u>提起了上诉</u></a>。Google 称，“我们已向欧盟普通法院就欧盟执委会的 Android 相关决定提起上诉，”Google 提到了7 月欧盟做出裁决那天 CEO Sundar Pichai 提出的主张，其中主要的一条是，Android 给客户带来了更多选择，而不是减少选择。这宗复杂的案子可能需要几年时间审理，之后法官才会做出裁决。
+➜诺贝尔经济学奖得主是一位 Python 用户
+https://www.solidot.org/story?sid=58164	30721
+与 William Dawbney Nordhaus 共同获得 2018 年度诺贝尔经济学奖的 Paul Romer <a href="https://qz.com/1417145/economics-nobel-laureate-paul-romer-is-a-python-programming-convert/" target="_blank"><u>是一位 Python 编程语言的使用者</u></a>。他曾尝试使用 Mathematica 分享他的工作，在发现很难之后<a href="https://paulromer.net/my-unclear-comments-about-the-doing-business-report/" target="_blank"><u>切换到 </u></a>Jupyter notebooks 应用。Romer 使用的是 Python 语言， Python 是数据科学和统计学中最流行的语言。Romer 相信科学研究应该透明，研究方法的开放和清晰对于其获得信任至关重要。为了让自己的研究工作变得透明，他尝试用 Mathematica 软件去分享其工作的细节，但 Mathematica 是私有软件，开发商 Wolfram Research 加大了分享的难度。他发现 Jupyter notebooks 可以完成这项任务。Jupyter 支持数十种语言，允许程序员和研究人员分享包含代码、图表、方程式和数据的文档，它被认为有可能<a href="https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/" target="_blank"><u>取代 PDF 文档</u></a>。Jupyter 是开源程序，任何人都可以它的代码。
+➜英特尔委托进行的 Core i9-9900K 评测被指有误导性
+https://www.solidot.org/story?sid=58165	34795
+英特尔本周一发布了第九代 Core i9-9900K 处理器，媒体的评测由于保密协议要等待 10 天后才能解禁，但芯片巨人委托第三方公司 Principle Technologies 进行的<a href="http://www.principledtechnologies.com/Intel/PC_gaming_processor_study_interim_1018.pdf" target="_blank"><u>评测结果</u></a>（PDF）却已提前公布，而这一评测结果引发了<a href="https://slashdot.org/story/18/10/09/147245/commissioning-misleading-core-i9-9900k-benchmarks" target="_blank"><u>广泛质疑</u></a>，被指具有误导性。Principle Technologies 的测试显示，Core i9 9900K 的性能比竞争对手 AMD 的 Ryzen 7 2700X 最多高出 50%。TechSpot <a href="https://www.techspot.com/article/1722-misleading-core-i9-9900k-benchmarks/" target="_blank"><u>指出</u></a>，Principle Technologies 使用了最有利于英特尔处理器的方法进行测试的，比如 Ryzen 7 在双通道内存下的表现最佳，但测试使用了四个内存条。AMD 测试平台使用的内存也没有开启  XMP 设置，而是将频率固定在 2933 Mhz。
+➜旅行者 2 号接近星际空间
+https://www.solidot.org/story?sid=58166	38031
+NASA JPL <a href="https://www.jpl.nasa.gov/news/news.php?feature=7252" target="_blank"><u>报告</u></a>，旅行者2号（Voyager 2）探测到来自太阳系外部的宇宙射线增加，这意味着它接近进入到星际空间。1977 年发射的旅行者2号目前距离地球 177 亿公里，自 2007 年起它一直在穿越日光层的最外层，日光层是包裹太阳系的巨大气泡。一旦离开日光层，它将成为旅行者1号之后第二个人造星际物体。旅行者2号上的宇宙射线子系统设备从 8 月底开始探测到宇宙射线水平比 8 月初增加了 5%。高能宇宙射线也有类似幅度的增加。
+➜IPCC发布全球升温1.5℃特别报告
+https://www.solidot.org/story?sid=58167	39567
+<div align="center"><img src="//img.solidot.org/0/709/liUYIPVskpMjo.png" width="450" height="385" align=""><br>
+<br>
+</div>
+政府间气候变化专门委员会（IPCC）发布了《<a href="http://ipcc.ch/report/sr15/" target="_blank"><u>IPCC全球升温1.5℃特别报告</u></a>》。 IPCC在《报告》中<a href="http://news.sciencenet.cn/htmlnews/2018/10/418407.shtm" target="_blank"><u>表示</u></a>，与将全球变暖限制在2℃相比，限制在1.5℃对人类和自然生态系统有明显的益处，同时还可确保社会更加可持续和公平。报告称，全球每十年升温 0.2±0.1°C，目前已经升温 1℃，按照这一趋势，2030 年到 2052 年之间将达到 1.5℃。《报告》强调了将全球变暖限制在1.5℃而不是2℃或更高的温度，可以避免一系列气候变化影响。例如，到2100年，将全球变暖限制在1.5℃而非2℃，全球海平面上升将减少10厘米。与全球升温2℃导致夏季北冰洋没有海冰的可能性为至少每10年一次相比，全球升温1.5℃则为每世纪一次。随着全球升温1.5℃，珊瑚礁将减少70%~90%，而升温2℃珊瑚礁将消失殆尽（&gt;99%）。《报告》发现，将全球变暖限制在1.5℃需要在土地、能源、工业、建筑、交通和城市方面进行“快速而深远的”转型。到2030年，全球二氧化碳排放量需要比2010年的水平下降约45%，到2050年左右达到“净零”排放。这意味着需要通过从空气中去除二氧化碳平衡剩余的排放。
+➜Google Call Screening 帮用户处理广告电话
+https://www.solidot.org/story?sid=58168	43386
+Google 在周二的发布会上宣布了旗舰手机  Pixel 3 和 Pixel 3 X，Google Home Hub，Google Pixel Slate 等硬件产品，这些产品多结合了搜索巨人的 AI 技术，其中之一是个人电话助手 Google Call Screening。类似上半年宣布的电话智能助手 Duplex，Google Call Screening 能帮助用户<a href="https://arstechnica.com/gadgets/2018/10/google-call-screening-targets-spam-calls-may-usher-in-bot-on-bot-armageddon/" target="_blank"><u>应付各种垃圾电话</u></a>。接听到陌生电话后，用户可以激活该功能，然后智能助手将会告诉打电话的人，它会记录下电话内容，要求对方提供身份和说明来意。这项功能目前只支持美国的 Pixel 3 和 Pixel 3 X 用户，未来会支持旧型号的 Pixel 用户。
+➜从跟踪脚本数量看 Google 是 GDPR 的最大受益人
+https://www.solidot.org/story?sid=58169	46340
+欧洲数据保护法 GDPR 于 5 月 25 日生效，它设计给予欧洲用户控制其数据的使用，GDPR 带来的最显著效果是面向欧盟的网站嵌入的跟踪脚本减少了。但对广告跟踪技术市场的分析发现，GDPR 生效以来<a href="https://cliqz.com/en/magazine/study-google-is-the-biggest-beneficiary-of-the-gdpr" target="_blank"><u> Google 的市场份额增加了</u></a>，而 Facebook 以及其它技术供应商的份额则有显著的下降。对比 2018 年 7 月和 4 月，Google 的份额略微增加了 1%， Facebook 减少了 6.66%，其它的广告跟踪脚本的份额减少了 18% 到 31%。美国网站嵌入的跟踪脚本平均数量同期增加了 8%，而欧盟则较少了 3.4%，欧盟新闻网站嵌入的脚本数平均为 12.4 个，比 4 月份下降了 7.5%。
+➜网红戏唱国歌被封杀
+https://www.solidot.org/story?sid=58170	47253
+最近生效的《中华人民共和国国歌法》规定，在公共场合，故意篡改国歌歌词、曲谱，以歪曲、 贬损方式奏唱国歌，或者以其他方式侮辱国歌的，由公安机关处以警告或者十五日以下拘留；构成犯罪的，依法追究刑事责任。现在，唱国歌的网红成了这项法律的惩罚对方。虎牙直播一位有 200 万订阅网红主播戏唱国歌被网友举报<a href="http://www.bjnews.com.cn/news/2018/10/10/510039.html" target="_blank"><u>遭平台封杀</u></a>。虎牙直播发表声明称，身为公众人物，主播的行为违反了《中华人民共和国国歌法》中奏唱国歌时应当举止庄重的相关规定，反映了其法律意识的淡薄和社会责任感的缺失。对此，虎牙平台决定即日起封禁直播间，冻结直播账号，下架全部相关影像作品，对其进行整改教育。
+➜微软接近收购 Obsidian Entertainment
+https://www.solidot.org/story?sid=58171	48122
+由前黑岛工作室员工创办的 RPG 游戏开发商 Obsidian Entertainment <a href="https://kotaku.com/sources-microsoft-is-close-to-buying-obsidian-1829614135" target="_blank"><u>接近加盟微软</u></a>。Obsidian 开发了备受称赞的 RPG 游戏《星球大战：旧共和国武士II——西斯领主》、《辐射：新维加斯》、《南方公园：真理之杖》、《永恒之柱》和《暴君》等，但也开发了烂作如《地牢围攻3》，它的游戏经常因为赶工而在发布时存在大量 bug，或内容不完整（如旧共和国武士II）。加入微软大家庭的一个显著影响将是它不用再担心资金或破产了。

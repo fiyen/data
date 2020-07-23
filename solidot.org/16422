@@ -1,0 +1,64 @@
+➜索尼影业取消《刺杀金正恩》上映，可能永远不会上映
+https://www.solidot.org/story?sid=42329	7925
+索尼影业开启了一个先例，在黑客通过网络发出针对电影院的恐怖主义威胁之后，它正式宣布推迟《<a target="_blank" href="http://www.imdb.com/title/tt2788710/?ref_=hm_nw_tp1_lk1"><u>刺杀金正恩</u></a>》上映，而且“<a target="_blank" href="http://variety.com/2014/film/news/sony-has-no-further-release-plans-for-the-interview-1201382167/#comments"><u>没有进一步的发布计划</u></a>”。索尼一度考虑通过付费在线点播发布《刺杀金正恩》，但随后决定取消所有形式的放映，包括在线点播和DVD。这部电影的发行权如果出售给其它公司还是有可能上映。《刺杀金正恩》原定于圣诞节12月25日在美国上映，国外的上映时间是明年一月底。这一事件令人想起喜剧中心（Comedy Central）因穆斯林的抗议而<a target="_blank" href="http://en.m.wikipedia.org/wiki/201_%28South_Park%29"><u>审查</u></a>《南方公园》第201集中的穆罕默德肖像，但这部动画片并没有取消上映。这次针对索尼影业的黑客攻击与朝鲜政府黑客有关，《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20141218/bgh090718.asp"><u>报道</u></a>，美国官员已经得出结论，朝鲜在幕后操纵了攻击，这将一个事关企业安全的问题提升为一个事关国家安全的问题。调查人员强烈怀疑攻击是由朝鲜政府的一个名为“Unit 121”的黑客团队在 “侦查总局” 实施的。该团队此前曾被认为与针对韩国目标的网络攻击有关。<br>
+➜酷派在手机中植入后门
+https://www.solidot.org/story?sid=42330	11348
+<div align="center"><img src="http://img.solidot.com.cn/0/755/liWe7RXuGqcbQ.jpg" align="" height="463" width="585"><br>
+<br>
+</div>
+上个月，有黑客<a target="_blank" href="http://www.solidot.org/story?sid=41983"><u>透露</u></a>酷派手机通过酷云往用户的手机上悄悄推送和安装应用程序。安全公司现在证实这是一个<a target="_blank" href="http://threatpost.com/manufacturers-backdoor-found-on-popular-chinese-android-smartphone/109929">官方植入的后门程序</a>。酷派是中国第三大智能手机制造商。安全公司
+Palo Alto Networks的研究人员称，这个后门允许酷派未经用户授权下载安装和激活任何应用。它还能发送伪造的OTA更新，拨打电话号码，发送短信和彩信，向酷派上传设备和用户使用信息。安全研究人员称，酷派修改了Android系统，使得后门能躲避移动安全软件的检测。后门是深度植入在操作系统中，酷派植入该后门的动机是为了创造收入，但任何后门都可能会被滥用。Palo Alto Networks检查了酷派设备的77个ROM，有64个含有后门，41个官方的ROM镜像使用酷派的证书签名，后门的指令控制服务器是coolyun.com和51Coolpad.com，全都属于酷派所有。
+➜GnuPG项目寻求捐助
+https://www.solidot.org/story?sid=42331	14547
+<div align="center"><img src="http://img.solidot.com.cn/0/851/li2lubzjgeeig.png" align=""><br>
+<br>
+</div>
+即将过去的一年，多个基础性的开源软件被发现了严重安全漏洞。这些开源项目的一个共同点：被广泛使用，但维护人手匮乏。人手匮乏的一个原因是缺乏资金资助，无法雇佣多名全职的开发者。PGP加密软件的GPL替代GnuPG项目<a target="_blank" href="https://gnupg.org/blog/20141214-gnupg-and-g10.html"><u>存在类似的问题</u></a>，它只有一名工资很低的全职开发者，为了雇佣两名有经验的开发者它需要一年12万欧元的资金。GnuPG项目现有的资产余额只有4.7万，它发起了<a target="_blank" href="https://gnupg.org/"><u>筹款活动</u></a>，目标是12万欧元。开发者Werner表示，过去几年他们难以获得 GnuPG相关合同，导致最后只剩下一个人在维持，他早有关闭公司之意，但2013年Edward Snowden的勇敢行动让他意识到公众对隐私工具会有更高的需求，而继续维持GnuPG项目有其价值。
+➜中国计划到2020年用本土供应商替代外国技术
+https://www.solidot.org/story?sid=42332	17920
+彭博社援引匿名知情人士的消息<a target="_blank" href="http://www.bloomberg.com/news/2014-12-17/china-said-to-plan-sweeping-shift-from-foreign-technology-to-own.html"><u>报道</u></a>，中国计划到2020年将大部分外国技术清除出银行、军方、国企和关键政府机构，替代之中国本土的供应商。中国已在东北吉林的四平市完成了一次本土替代的测试。工作人员用Linux发行版中标麒麟(NeoKylin)替代了微软的Windows操作系统，用浪潮的服务器替代了IBM的服务器。知情人士称，用本土产品替换外国科技产品的计划受到了国家安全担忧的驱动，吉林的其它城市和机构也开始测试中标麒麟，这一实验最终将从吉林扩大全国。银监会副主席阎庆民在上个月的一个会议上说，中国银行的核心服务器和服务八成是外国品牌，大部分金融IT系统来自国外，从国家安全的角度看，它构成了潜在的威胁。
+➜版权局称关闭射手网缘起MPAA投诉
+https://www.solidot.org/story?sid=42333	19764
+国家版权局<a target="_blank" href="http://www.ncac.gov.cn/chinacopyright/contents/518/234577.html"><u>公布了</u></a>“剑网2014”专项行动第三批12起网络侵权盗版案件查办情况，透露了最大字幕共享网站射手网关闭的原因。公告称，2014年9月，在接受MPAA投诉之后，上海版权执法机构对射手网展开调查，发现：<br>
+<i>经营射手网的上海射手信息科技有限公司在网站上开设商城，以营利为目的，销售其复制于硬盘存储设备的“2TB高清综合影音合集资源”、“3TB高清超级影音合集”等产品，自2013年5月起共销售约100台。2014年10月20日，该公司主动向执法部门上缴“2TB高清综合影音合集资源”产品1台，内有其自行复制并可播放的200部电影作品，该公司无法提供上述电影作品的相关著作权许可证明材料。另查，该公司未经权利人许可，自2013年开始在“射手网”登载《驯龙高手》等影视作品的字幕，用户无需注册即可浏览、下载和使用，网站每日IP访问量20万左右，每日PV访问量40万左右，该公司无法提供上述影视作品字幕文件的相关著作权许可证明材料。经美国电影协会北京代表处认证，上述电影作品中79部、影视作品字幕文件中4部未经著作权人授权。上海射手信息科技有限公司在上海市文化市场行政执法总队开展调查后停止了侵权行为，并于2014年11月23日关闭了网站。
+</i>
+➜索尼影业黑客的恶意程序充斥着bug
+https://www.solidot.org/story?sid=42334	25059
+如果攻击索尼影业的黑客真的是来自朝鲜的网络战部队精英，那么他们一定是匆忙发动攻击的。思科的安全研究人员对恶意代码样本进行分析后<a target="_blank" href="http://blogs.cisco.com/security/talos/wiper-malware#more-160237"><u>发现</u></a>，其代码充斥着bug，它们就像是<a target="_blank" href="http://arstechnica.com/security/2014/12/state-sponsored-or-not-sony-pictures-malware-bomb-used-slapdash-code/"><u>软件中的“土制炸弹”</u></a>。相比其它国家级黑客开发的恶意程序，两者的质量是一个在天上一个在地上。思科的高级技术主管 Craig Williams称，代码非常简单，一点也不复杂，也没有混淆。研究人员发现，恶意程序代码不具有专业水准，不是某类耗费巨资开发的东西。当然旨在破坏抹掉数据的恶意程序并不需要多么复杂。Williams指出，攻击索尼影业的黑客深知其计算机网络架构。目前仍然不清楚恶意程序是如何植入到索尼影业的计算机网络中，以及攻击者如何在破坏前窃取数TB的数据。研究人员怀疑有内部人士协助，或有卧底潜入。<br>
+➜代买印度仿制药的白血病患者
+https://www.solidot.org/story?sid=42335	27503
+过去几年中国发生了多起代购印度仿制药而导致代购者被捕的案例。印度<a target="_blank" href="http://www.solidot.org/story?sid=28695"><u>允许</u></a>制药公司仿制受专利保护的癌症治疗药物，此举旨在让普通癌症患者能负担得起药物费用。中国国内的专利抗癌药物同样居高不下，因此许多人转向了印度的仿制药。但问题是中国将没有经过审批的仿制药视为假药，逮捕了代购者。《南方周末》<a target="_blank" href="http://www.infzm.com/content/106392"><u>报道了</u></a>一位因代购印度白血病仿制药格列卫而被捕的商人，而这个人本身就是白血病患者。此事引发了伦理方面的争议。经济学家胡释之在接受记者采访时说：“药品真假与否，销售是否有罪，不是看药品本身，而是看有没有经过政府部门的批准，这样一来，你就弄不明白这法律到底是意在保护受害者，还是要不惜制造受害者以保护政府部门的审批权？”上海金融与法律研究院研究员刘远举说，当个体国民在法律与规则之下陷入伦理困境的时候，往往意味着整体国民面临着极大的政治困境。可以说，小小的一盒格列卫，在生死之间，折射出我们身处的时代困境。负责起诉的检察官则表示，“ 法律应该惩治犯罪，但是你们媒体可以呼吁国家对相关法律的健全。”
+➜南梦宫在芝加哥开设吃豆人主题餐馆
+https://www.solidot.org/story?sid=42336	31110
+<div align="center"><img src="http://img.solidot.com.cn/0/852/liRMB1w0eifqQ.png" align="" height="176" width="480"><br>
+<br>
+</div>
+一家吃豆人主题的餐馆和娱乐场所将于明年初在伊利诺伊州绍姆堡（Schaumburg）<a target="_blank" href="http://arstechnica.com/gaming/2014/12/namco-to-open-pac-man-themed-restaurant-in-suburban-chicago/"><u>开业</u></a>。这个餐馆取名为<a target="_blank" href="http://level257chicago.tumblr.com/"><u>Level 257</u></a>，名字源于吃豆人经典版的一个著名的<a target="_blank" href="http://errors.wikia.com/wiki/Pac_Man_-_Infamous_Kill_Screen_Bug"><u>“乱码屏幕”bug</u></a>，发生在第256关，因为字节溢出错误导致玩家不可能通过这一关。Level 257由吃豆人街机游戏的开发商南梦宫投资建造，占地4万平方英尺。餐馆的开业时间可能是明年5月，目前还在建造之中。
+➜小保方未能重现STAP细胞
+https://www.solidot.org/story?sid=42337	32022
+日本理化学研究所的小保方晴子研究员在截至11月底的实验中始终<a target="_blank" href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/12362-20141218.html"><u>未能培育</u></a>出STAP细胞。理化学研究所计划最早于19日公布实验结果等。《自然》期刊今年初刊登的STAP细胞论文曾被誉为是一大突破，是新型的万能细胞，具有重要意义。但论文很快被发现存在问题，其他研究人员也无法重现结论。7月《自然》撤回了论文，8月小保方的导师<a target="_blank" href="http://www.solidot.org/story?sid=40613"><u>自杀身亡</u></a>。小保方自7月撤回论文以后，一直从事验证实验。在第三方监督且装有监控摄像头的前提下，小保方尝试了自己论文中提出的方法。理化学研究所针对被撤回的STAP细胞论文，正通过检验委员会来检验已被认定的研究违规以外的问题。
+➜Skype如何使用AI构建语言翻译器
+https://www.solidot.org/story?sid=42338	34944
+Skype准备测试英语到西班牙语的即时翻译功能Skype Translate。即时翻译功能首先需要识别你说的话，然后转换成文本，翻译到另一种语言，最后合成与你对话者的语言。它<a target="_blank" href="http://www.wired.com/2014/12/skype-used-ai-build-amazing-new-language-translator/"><u>利用了微软研究院的人工智能技术</u></a>去完成这一说起来但做起来极为艰难的挑战。Skype Translate借组了名为深度神经网络的人工智能研究成果，Google Now Android语音助手就依靠了深度神经网络的研究突破，而微软则将其应用于Skype翻译。微软研究院负责人 Peter Lee认为它将会改变世界。
+➜航海家一号在星际空间骑着“海啸波”前进
+https://www.solidot.org/story?sid=42339	36415
+星际空间的航行<a target="_blank" href="http://www.space.com/28028-voyager1-tsunami-wave-interstellar-space.html"><u>并不平静</u></a>。航海家一号是人类第一艘进入了星际空间的飞行器，它在今年初遭受了科学家称之为宇宙“海啸波”的冲击。航海家一号等离子波仪器的首席调查员、爱荷华大学物理教授Don Gurnett说，大多数人可能认为星际媒介安静而平稳，但星际空间的冲击波可能比我们认为的更常见。航海家一号在今年2月探测到第三次冲击波，根据11月的数据冲击波产生的振动仍然在继续，而在此期间飞行器飞行了4亿公里。
+➜Trinity Desktop Environment R14.0.0发布
+https://www.solidot.org/story?sid=42340	37261
+基于Qt3的桌面环境项目Trinity Desktop Environment (TDE) 宣布发布<a target="_blank" href="https://www.trinitydesktop.org/newsentry.php?entry=2014.12.16"><u>TDE R14.0.0</u></a>。TDE R14.0.0 经历了两年多时间的开发，开发者宣称更长的开发周期让他们可以创造出更好更可靠功能更丰富的产品。新功能包括了新的基于<span>udev的硬件管理器，网络管理器，全新的合成器，等等。</span>Qt3已被官方停止维护，TDE开发者自己维护起了Qt3，包括修补安全漏洞，他们创建了基于 Qt 3.3.8的分支TQt3。开发者<a target="_blank" href="http://lwn.net/Articles/626562/"><u>表示</u></a>最遗憾的是Qt3采用GPL而不是LGPL授权，否则的话他们说不定可以加入Wayland支持。
+➜Godot引擎1.0版发布
+https://www.solidot.org/story?sid=42341	38821
+MIT授权的游戏引擎Godot在宣布开源10个月后<a target="_blank" href="http://www.godotengine.org/wp/godot-engine-reaches-1-0-releases-first-stable/"><u>发布了1.0稳定版本</u></a>。Godot是一个全新开发的游戏引擎，其功能集类似跨平台游戏引擎Unity，可用于开发PC、主机、移动和Web游戏。Godot包含了代码编辑器、脚本、调试器、3D引擎、2D引擎、物理，等等，相比知名的商业游戏引擎Unreal和CryEngine，Godot和Unity仍然有着不小的距离。
+➜欧洲的Windows浏览器投票即将过期
+https://www.solidot.org/story?sid=42342	40685
+2009年12月，欧盟委员会与微软达成了协议，根据这一协议微软将在未来五年向欧盟的Windows用户展示一个浏览器投票（Browser ballot）”，允许用户选择除IE之外的其它常用浏览器。Windows捆绑IE浏览器被投诉上伤害了竞争，微软此举即为解决这一分歧。五年后的今天，“浏览器投票”的影响<a target="_blank" href="http://arstechnica.com/information-technology/2014/12/windows-browser-ballot-comes-to-an-end-as-ec-obligation-expires/"><u>看起来并不明显</u></a>，即时是欧洲本地的浏览器Opera的占有率在欧洲也出现了下架，IE和Firefox的情况类似，而Chrome的占有率则有明显的增长，这应该主要归功于
+Google的大力推广而不是浏览器投票。
+➜机器人开源革命
+https://www.solidot.org/story?sid=42343	42480
+NASA的Robo­naut 2、Rethink Robotics的Baxter和波士顿动力的Atlas，它们的共同之处是都运行机器人操作系统ROS（Robotics Operating System）——一个开源的操作系统，正迅速成为<a target="_blank" href="http://www.popsci.com/what-expect-2015-robots-join-open-source-revolution"><u>机器人行业的Android</u></a>。开源机器人基金会CEO Brian Gerkey称他们已经达到了临界点，过去一年ROS软件的下载量翻了一番，达到了350万次，随着ROS 2.0的发布普及率有望再次飙升。
+➜中国关押的记者人数最多
+https://www.solidot.org/story?sid=42344	43220
+保护记者委员会发表<a target="_blank" href="https://cpj.org/reports/2014/12/journalists-in-prison-china-is-worlds-worst-jailer.php"><u>报告</u></a>称，2014年中国关押了最多的记者。2014年全世界有220名记者被关押，中国关押了44名记者，而2013年是32人；其次是伊朗，关押了30名记者，比2013年的35人略有下降；之后是厄立特里亚，埃塞俄比亚，越南，叙利亚，埃及，缅甸，阿塞拜疆和土耳其。在220人中，在线记者超过半数达119人之多，有83人在纸媒工作，15人在电台，14人在电视台。
+➜ICANN遭黑客入侵
+https://www.solidot.org/story?sid=42345	45940
+互联网域名管理机构ICANN发表<a target="_blank" href="https://www.icann.org/news/announcement-2-2014-12-16-en"><u>声明</u></a>，不明身份的攻击者通过钓鱼攻击<a target="_blank" href="http://tech.sina.com.cn/i/2014-12-18/doc-iawzunex6994918.shtml"><u>攻破了该机构的敏感系统</u></a>，攻击者获得了员工电子邮件帐号，以及与ICANN有业务往来的人士的个人信息。在此次攻击中，黑客获得了保存在该机构中央区域数据系统的所有文件的管理员权限，以及该系统账号所有者的姓名、邮政地址、电子邮件地址、传真和电话号码、用户名，以及经过加密处理的密码。域名注册服务通常使用这一数据库，协助管理目前对数百个新的顶级域名的分配。黑客还获得了ICANN多个博客的内容管理系统的访问权限。

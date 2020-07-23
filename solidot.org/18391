@@ -1,0 +1,37 @@
+➜自由硬件工具链：OpenROAD
+https://www.solidot.org/story?sid=64303	10830
+<a href="http://https://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "过去的几十年芯片设计和制造的发展受益于摩尔定律的同时对于复杂性的不断增加也让相关研发人员不堪重负，现代的芯片设计周期一般长达12到36个月，这使得美国国防部的研发团队无力负担如此高昂的成本，<a href="https://theopenroadproject.org/" target="_blank">OpenROAD</a>是由DARPA(美国国防高级研究计划局)的<a href="https://www.darpa.mil/attachments/eri_design_proposers_day.pdf" target="_blank">IDEA项目</a>中的一个<a href="https://vlsicad.ucsd.edu/Publications/Conferences/370/c370.pdf" target="_blank">自由硬件工具链项目</a>，其目标是解决对抗芯片设计中的复杂性以及大幅度降低成本等重要问题，IDEA项目最终目标是开发基于机器学习完成无人监督的自动化芯片设计的系统，目标用户是非电子设计专家，为此OpenROAD(“Foundations and Realization of Open,
+Accessible Design”)于2018年6月作为IDEA的一个子项目发起，OpenROAD尝试<a href="https://github.com/The-OpenROAD-Project/OpenROAD-flow/blob/master/flow/docs/Known%20Issues%20and%20Limitations.pdf" target="_blank">开发和集成众多EDA领域的自由软件项目</a>，专注于SoC设计的RTL到GDSII阶段，标准单元库目前支持自由开源实现和商业实现，制作工艺从65nm到16nm。HardenedLinux使用45nm的标准单元库完成了对<a href="https://www.solidot.org/story?sid=64267" target="_blank">基于Yosys综合</a>的<a href="https://twitter.com/hardenedlinux/status/1258742701517869058" target="_blank">OpenTitan版本GDSII</a>阶段。自由硬件工具链的逐渐成熟虽然可增加硬件领域的透明度，这对于进一步解决供应链的审计问题奠定了基础，但和自由软件一样，单单依赖“many eyes"的透明度并不能成为银弹解决所有安全问题。另一方面，人人都能设计芯片的年代已经到来，至于是否人人都能制造芯片还得取决于<a href="https://www.solidot.org/story?sid=59129" target="_blank">类LibreSilicon方案</a>的发展。"</i>
+➜可口可乐中国发布“在乎体”
+https://www.solidot.org/story?sid=64304	12068
+可口可乐中国通过方正字库<a href="https://weibo.com/1835097604/J0W9ojAH5?from=page_1006061835097604_profile&amp;wvr=6&amp;mod=weibotime"><u>发布</u></a>了所谓的“<a href="https://www.foundertype.com/index.php/FontInfo/index/id/4792"><u>在乎体</u></a>”，取“放在心上”之意，表达中国人对“在乎”的理解和诠释——圆融、力量、担当、从容、进取。这套字体以可口可乐公司早期重返中国的商标字体作为灵感，由好字在和方正字库合作创造，包含 7745 个字符，其中汉字 6769 个，其他字符 976 个。字体采用两种授权形式：个人非商业授权（限制安装在一台计算机上，两台及以上需要购买商业授权）和商业发布授权。
+➜GCC 10.1 发布
+https://www.solidot.org/story?sid=64305	22045
+在第一个公开版本发布 33 年之后，GCC 编译器项目释出而来<a href="https://gcc.gnu.org/pipermail/gcc-announce/2020/000163.html"><u> 10.1 版本</u></a>。新版本的编译器和库改进了 C++20 语言支持，C2X 增强，多方面的优化增强和 bug 修正，多个编译器后端的硬件启用改变和增强，新的实验性<a href="https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/"><u>静态分析</u></a>，等等。更多可浏览<a href="https://gcc.gnu.org/gcc-10/changes.html"><u>发布公告</u></a>。
+➜WHO 称武汉华南海鲜市场肯定与疫情有关联
+https://www.solidot.org/story?sid=64306	23259
+世界卫生组织(WHO)周五表示，武汉华南海鲜市场与去年新冠病毒疫情的爆发<a href="https://cn.reuters.com/article/who-wuhan-market-covid-0508-idCNKBS22L01P"><u>有关</u></a>，该市场或为病毒源头，或可能“加剧了病毒的扩散”，世卫组织呼吁进行更多研究。中国在 1 月关闭了该市场，作为阻止病毒传播努力的一部分，并下令暂时禁止野生动物交易和消费。世卫组织食品安全和人畜共患病病毒专家 Peter Ben Embark 博士表示：“武汉批发市场与此次疫情爆发有关，这一点很清楚。但我们不知道它扮演了什么角色，是发源地还是加剧了病毒扩散，或者仅仅是巧合，在这个市场及其周围发现了一些病例。”他指出，研究人员花了一年时间才确定骆驼是MERS(中东呼吸综合征)病毒的源头，MERS也是一种冠状病毒，于 2012 年出现在沙特阿拉伯，并在中东传播，他补充称，“现在还不算太晚。”
+➜英特尔雇员指控公司优先考虑芯片生产而不是安全
+https://www.solidot.org/story?sid=64307	23935
+彭博社<a href="https://www.bloomberg.com/news/articles/2020-05-08/intel-accused-by-workers-of-prioritizing-chip-output-over-safety"><u>报道</u></a>（<a href="https://archive.md/8cE95"><u>存档</u></a>），英特尔雇员投诉公司优先考虑芯片的生产而不是雇员的健康。在亚利桑那州 Chandler 市的一座工厂，芯片巨人在有雇员确诊感染新冠之后没有隔离与其有亲密切接触的同事，也没有对他们进行测试。工厂经理对社交距离指导原则没有正确遵守的担忧不予理睬。英特尔表示，它的芯片属于“必需”因此需要确保工厂生产持续。公司副总裁 Darcy Ortiz 表示，公司的设施没有发现病毒的传播。英特尔称，它在第一季度按时履行了九成的订单。
+➜欧洲最大私人医院运营商遭勒索软件攻击
+https://www.solidot.org/story?sid=64308	25706
+运营欧洲最大私人医院的德国 Fresenius 集团<a href="https://krebsonsecurity.com/2020/05/europes-largest-private-hospital-operator-fresenius-hit-by-ransomware/"><u>遭勒索软件攻击</u></a>。Fresenius 称这起事故限制它的部分业务运作，但病人护理正常。Fresenius 总部位于德国，在一百多个国家雇佣了近 30 万人，在福布斯的  Forbes Global 2000 排行榜中排在第 258 位。本周二，有匿名工作人员披露 Fresenius 的计算机网络遭到了网络攻击，全球业务都受到影响。网络攻击的罪魁祸首是名叫 Snake 的勒索软件。Fresenius 发言人随后证实公司计算机感染了病毒，表示 IT 正在尽可能快的解决这个问题。和其它勒索软件类似，Snake 在加密计算机文件之后会要求限期支付比特币形式的赎金，否则会将公司内部文件发布到网上。
+➜科学家解释北磁极漂移原因
+https://www.solidot.org/story?sid=64309	31239
+北磁极正从加拿大向西伯利亚移动。根据发表在《Nature Geoscience》期刊上的<a href="https://www.nature.com/articles/s41561-020-0570-9"><u>一项研究</u></a>，科学家<a href="https://www.bbc.com/zhongwen/simp/science-52556314"><u>解释了</u></a>这背后的原因。英国利兹大学的研究团队说，这个现象是因为地球外核边缘，两个磁性“斑点”之间的双互竞争所致。行星内部熔融材料流动的变化，改变了上述负磁通量区域的强度。菲尔·利弗莫尔博士（Phil Livermore）解释说：“这种流动方式的变化削弱了加拿大底下的斑块，略微增加了西伯利亚的斑块的强度。”地球表面有三个极点。“地理极”是地球旋转轴与地表相交的地方；“地磁极”则是最切合传统偶极子的位置（其位置会有少许变化）。然后就是“北磁极”或称为“磁倾角”，这是磁力线垂直于地球表面的地方。正是这第三极一直在移动。
+➜Google 整合消息服务团队
+https://www.solidot.org/story?sid=64310	33378
+The Verge <a href="https://www.theverge.com/2020/5/7/21250790/google-android-messaging-duo-phone-g-suite-javier-soltero-hangouts-chat"><u>报道</u></a>，Google 再一次整合旗下的各种消息服务 Google Hangouts、Google Meet、Google Chat、Google Messages、Google Duo 和 Google Voice，组建一个统一的团队，由 G Suite 总经理和副总裁 Javier Soltero 负责领导。Google 发言人确认了此事。Soltero 是在去年 10 月才加盟 Google 的。他之前创造了 Acompli 电邮应用，该应用在 2014 年被微软收购，变成了 Outlook 移动应用。他表示 Google 目前没有计划立即改变或整合任何消息应用。他在加盟之后迅速处理了 Hangouts 消息产品的品牌混乱状况，将面向企业的 Hangouts Video 变成了 Google Meet，Hangouts Chat 变成了 Google Chat。Hangouts 的消费级产品则处理起来比较麻烦。
+➜研究称联合使用三种抗病毒药物对新冠疗效更好
+https://www.solidot.org/story?sid=64311	40684
+香港大学进行的一项小型试验<a href="http://www.ftchinese.com/story/001087596">发现</a>，面对症状较轻的新型冠状病毒肺炎患者时，联合使用三种抗病毒药物进行治疗能够比单一药物治疗更安全、更有效地降低患者病毒载量。这项研究的研究对象包括 127 名出现轻微至中度新冠肺炎症状的成年人。该研究团队发现，使用这三种药物——治疗艾滋病毒(HIV)的“洛匹那韦-利托那韦”(lopinavir-ritonavir)、治疗丙型肝炎的利巴韦林(ribavirin)、以及治疗多发性硬化症的干扰素β-1b——可以使完全缓解症状所需的时间减半，这意味着可以缩短住院时间。接受联合药物治疗的患者平均在 7 天内可以消除体内病毒，而单独使用洛匹那韦-利托那韦的患者则平均需要 12 天。
+➜Google 和 Facebook 考虑全年远程办公
+https://www.solidot.org/story?sid=64312	40813
+Google 和 Facebook 都准备将员工远程办公的时间<a href="https://www.bloomberg.com/news/articles/2020-05-08/internet-giants-to-staff-plan-to-work-from-home-for-the-year"><u>一直延续到 2021 年</u></a>。彭博社援引知情人士的消息报道，Google CEO Sundar Pichai 周四告诉员工，准备远程办公到 10 月甚至年底。Google 发言人证实了该消息，表示大部分员工预计将在家工作到 2021 年。两周前，Pichai 告诉员工他们最快六月回到办公室。但本周，员工被告知返回办公室的时间将因部门和地点而存在差异，绝大部分员工要到 10 月才能返回。社交媒体巨人 Facebook 也向员工传达了类似的消息，员工被告知，如果乐意他们可以全年远程工作。它预计最快到 7 月 6 日才会开放大部分办公室。
+➜调查显示 Go 是最受开发者青睐的编程语言
+https://www.solidot.org/story?sid=64313	47605
+根据 HackerEarth 对 76 个国家的 16,655 名开发者的<a href="https://www.hackerearth.com/recruit/developer-survey/" target="_blank"><u>调查</u></a>，Google 的 Go 语言最受开发者的青睐。调查显示，开发者多不喜欢会议，而跨国公司里的工作也不怎么让人开心。HackerEarth 在印度和美国旧金山都设有办事处，为招聘人员提供了工具远程评估程序员的编程技术。调查结果显示，Go 语言是开发者最想学的语言，在有经验的开发者中有 32% 的人想要学，相比下想要学 Python 的比例为 24%。这一结果与招募远程开发者的 HackerRank 公司的另一项调查相吻合。Google、Netflix、American Express、Salesforce、IBM、Target、Twitch、Twitter、Uber 和 Dropbox 都在使用 Go 语言。
+➜新冠表面的多聚糖可能提供疫苗的线索
+https://www.solidot.org/story?sid=64314	83379
+细胞有着绒毛状的表面。很多人对此可能会感到意外，因为教科书一直将细胞形容为有着光滑的表面，就像装满水的气球。但实际上，细胞表面点缀着由糖构成的树冠，复杂多变的碳水化合物簇在蛋白质树干上像枝叶一样向外伸展。这些被称为多聚糖的碳水化合物在与其它细胞或分子的接触和互动上扮演了重要角色。研究人员最近一直在探索多聚糖如何帮助激活、调节和引导免疫反应。多聚糖结构和功能在人类健康和疾病中的研究帮助科学家更好的理解病原体，推动了新疗法和疫苗的发现。正在流行的 COVID-19 疫情增加了研究的紧迫感。科学家认为<a href="https://www.quantamagazine.org/sugars-on-coronavirus-spike-protein-offer-vaccine-clues-20200505/" target="_blank"><u>它是对抗 SARS-CoV-2 病毒的关键</u></a>。多个研究小组已经发表了病毒多聚糖的<a href="http://doi.org/10.1126/science.abb9983"><u>详细模型</u></a>，指出了病原体的潜在弱点。

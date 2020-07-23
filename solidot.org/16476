@@ -1,0 +1,64 @@
+➜中国罚款高通10亿美元
+https://www.solidot.org/story?sid=43011	8111
+彭博社<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-02-09/china-fines-qualcomm-975-million-sets-patent-licensing-rates"><u>报道</u></a>，中国国家发改委以违反反垄断法为由罚款美国高通公司9.75亿美元(60.88亿人民币)。高通必须提供3G和4G基本专利授权和取消反授权协议。高通将不会对此决定提起上诉。作为对中国当局让步的一部分，高通在中国收取的移动专利费率将和世界其它地方相同，而不是此前担心的要求降低专利费。专利费将根据手机价格的65%计算。高通CEO  Steve Mollenkopf声称该公司在中国获得更有利的位置，消除了不确定性。高通手中拥有316亿美元的现金和有价证券，税前利润的58%来自专利授权。
+➜Chrome将在2016年停止支持SPDY
+https://www.solidot.org/story?sid=43012	11364
+Chrome官方博客<a target="_blank" href="http://blog.chromium.org/2015/02/hello-http2-goodbye-spdy-http-is_9.html"><u>宣布</u></a>将支持准标准协议HTTP/2，停止支持非标准协议的SPDY。HTTP/2已在去年底发布了<a target="_blank" href="https://tools.ietf.org/html/draft-ietf-httpbis-http2-16"><u>草案</u></a>，它支持HTTP/1.1的所有核心功能，但在许多方面更高效。它正走在标准化之路上。SPDY则是Google提出的基于TCP的应用层协议，设计充分利用带宽，降低页面载入时间。Chrome、Firefox和IE都加入了SPDY的支持。但SPDY并非标准协议，而HTTP/2包含了SPDY的大部分优化，所以Google决定是时候对SPDY说再见了。Chrome将在未来几周加入对HTTP/2的支持，到2016年初移除SPDY支持，届时还将用TLS扩展ALPN替代NPN。
+➜Linux 3.19 kernel发布
+https://www.solidot.org/story?sid=43013	13823
+Linus Torvalds在邮件列表上<a target="_blank" href="https://lkml.org/lkml/2015/2/8/199"><u>宣布</u></a>发布3.19 kernel，3.20合并窗口开启。新版的<a target="_blank" href="http://kernelnewbies.org/Linux_3.19"><u>主要特性</u></a>包括：Btrfs支持擦拭和RAID 5&amp;6快速设备替换；支持英特尔CPU指令集Memory Protection Extension(MPX)；异构系统架构HSA驱动支持AMD GPU；支持Altera Nios II 处理器架构；支持ARM Coresight；支持<a target="_blank" href="http://lwn.net/Articles/616859/"><u>设备树覆盖</u></a>，设备树是对内核描述硬件的文本文件；以及其它大量驱动、网络、加密更新，等等。
+➜你的三星智能电视将会监听你的私人谈话
+https://www.solidot.org/story?sid=43015	17384
+<div align="center"><img src="http://img.solidot.com.cn/0/979/lihYcod4iXKmE.png" align="" height="127" width="580"><br>
+<br>
+</div>
+根据三星智能电视的<a target="_blank" href="https://www.samsung.com/uk/info/privacy-SmartTV.html"><u>隐私保护政策</u></a>，如果你启用了电视机的语音识别功能，那么请注意不要在电视机前谈论私人或其它敏感信息，因为这些信息会被语音识别功能捕捉和传输给第三方。今天的语音识别功能需要借助基于云端的机器智能去处理和识别语音然后转变为文字，苹果、Google和微软的语音助手都是采用类似的方法，但不清楚它们是否在隐私条款中提醒用户在启用语音识别功能时不要谈论私人信息。三星还指出，你的语音命令还会被收集用于研究和改进这项功能。三星称，语音识别功能启用时会在屏幕上显示麦克风，用户可以选择不启用语音识别。三星在其声明中<a target="_blank" href="http://money.cnn.com/2015/02/09/technology/security/samsung-smart-tv-privacy/index.html"><u>强调</u></a>，它不会保留客户的语音数据或出售给第三方。<br>
+➜研究发现过度锻炼可能有害
+https://www.solidot.org/story?sid=43016	18529
+最近的一项报告指出，过度锻炼可能对身体有害。研究对象包括1098名慢跑者以及3950名不慢跑的民众。所有受测者在实验开始时皆身体健康。12年后，研究学者对比了两组人的健康状况。发现过度慢跑者的死亡率和不慢跑者的死亡率一样高。死亡率最低的则是那些每周运动不超过2.5小时的慢跑者。运动医学家Bernd Wolfarth教授<a target="_blank" href="http://www.dw.de/%E7%A0%94%E7%A9%B6%E8%BF%87%E5%BA%A6%E6%85%A2%E8%B7%91%E5%AF%B9%E5%81%A5%E5%BA%B7%E6%97%A0%E7%9B%8A/a-18240901"><u>认可研究结论</u></a>，他建议每周从事3到4小时的额外运动。"这指的当然不纯粹是密集的剧烈运动。"他认为三分之二的运动量应该专注于耐力训练，三分之一是肌力训练。过于密集的锻炼可能使心脏循环系统负荷过重。最糟的情况下会导致心脏肌肉发炎。如果未及早发现此症状则可能致命。这是否是导致过度慢跑者出乎意料高死亡率的原因，沃尔法特无法肯定。他认为还必须继续进行起因研究。
+年长者以及刚接触运动者必须注意不让软骨、关节和骨骼过度负荷。体育医学协会建议，35岁以上刚打算开始运动的民众，应该先接受身体检查，得知自己的基本健康状况。
+➜每月产出150万美元的中国比特币挖矿公司
+https://www.solidot.org/story?sid=43017	26414
+<div align="center"><img src="http://img.solidot.com.cn/0/980/ligQLsDjQjSYs.png" align="" height="297" width="500"><br>
+<br>
+</div>
+由四个人组成的神秘组织拥有中国6个比特币矿场，总体运算能力/哈希率8 PH/s，在2014年10月，这一运算能力占到了整个比特币网络的3%（上图是最新数字），这些矿场每个月能挖出4050枚比特币，其价值相当于150万美元。Vice旗下的Motherboard访<a target="_blank" href="http://motherboard.vice.com/read/chinas-biggest-secret-bitcoin-mine?gble"><u>问了位于辽宁省大连的一个矿场</u></a>，该矿场的总经理称大连是比特币矿业的一块特别之地，原因是此地的“环境、空气质量和条件相当比较好”，相比之下其它城市的条件要差的多。工作人员就生活在矿场内，每个月回家4到5天。在夏天，室内温度会超过100度，矿场使用工业风扇给3000台 ASIC矿机降温，每个月的电费在50万人民币左右。2014年对比特币行业来说是有喜有虑，一方面比特币获得了微软戴尔等公司的支持，但另一方面比特币币值下跌而挖矿难度同时增加。
+➜中国的移动应用刷榜生意
+https://www.solidot.org/story?sid=43018	30570
+<div align="center"><img src="http://img.solidot.com.cn/0/981/li7bUknFUfAcQ.jpg" align="" height="640" width="480"><br>
+<br>
+</div>
+上周，一张一位女子坐在三排iPhone 5C手机前的照片（如图所示）风靡了中国社交平台。虽然发布者没有披露照片的细节信息，但外界普遍推测照片<a target="_blank" href="https://www.techinasia.com/viral-photo-china-shows-manipulate-app-store-rankings-hard/"><u>展示的是中国的App Store刷榜工作室</u></a>。对应用开发商来说，苹果的App Store相比Google官方市场和其它第三方市场更有利可图，进入App Store榜单前列意味着更多的收入，这一动机催生了刷榜生意。根据一个网站提供的报价，进入免费应用Top10榜单需要7万元（一天的价格），如果想在一周内进入Top10则需要40万元。苹果曾采取措施打击刷榜行为，但如图显示的产业化刷榜，苹果恐怕也只能叹为观止。
+➜研究发现98%的Google广告是机器人点击的
+https://www.solidot.org/story?sid=43019	31980
+机器人程序的广告点击欺骗是互联网行业公开的秘密，无效点击每年给广告商造成了巨额损失，但其程度究竟有多广？Oxford BioChronometrics研究人员给出的结论令人触目惊心：98%的Google广告<a target="_blank" href="http://oxford-biochron.com/downloads/OxfordBioChron_Quantifying-Online-Advertising-Fraud_Report.pdf"><u>是机器人点击的</u></a>（PDF）。研究人员在今年1月使用Google、Yahoo、LinkedIn和Facebook的广告平台进行为期7天的测试。结果显示，88%到98%的广告点击量是机器人点击的，其中超过十分之一的机器人相当先进，能够模拟人类行为。
+➜安全研究员公开一千万密码库
+https://www.solidot.org/story?sid=43020	34726
+安全研究员 Mark Burnett<a target="_blank" href="https://xato.net/passwords/ten-million-passwords/"><u>公开了</u></a>一千万密码（<a target="_blank" href="magnet:?xt=urn:btih:32E50D9656E101F54120ADA3CE73F7A65EC9D5CB&amp;dn=10-million-combos.zip&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fi.bandito.org%2fannounce&amp;tr=http%3a%2f%2fopensharing.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftrackr.sytes.net%3a80"><u>磁链</u></a>）。作者表示他通常拒绝共享密码，但相当长时间里他希望与世界分享一个干净的密码集，一个仔细筛选的密码集将能对用户行为提供深刻见解，这对于未来的密码安全是具有价值的。所以他建立了一个一千万用户名和密码的数据集，将其发布到公共领域。Mark Burnett写了一篇长文为自己辩护，之所以这么做的原因是自封的匿名组织发言人Barrett Brown遭到逮捕，而他受到身份盗窃指控的一个证据就是他链接了泄漏的密码库。为了避免这些用户名和密码用于非法目的，Burnett移除了邮件地址的域名部分，移除了企业名字等指示登录信息源的关键词。
+➜微软三星和解Android专利费纠纷
+https://www.solidot.org/story?sid=43021	35737
+微软和三星联合<a target="_blank" href="http://global.samsungtomorrow.com/an-update-on-the-samsung-microsoft-contract-dispute/"><u>发表声明</u></a>，宣布和解Android相关专利费纠纷。三星和微软是在2011年9月达成了为期七年的交叉专利授权协议，但在2013年由于微软收购了诺基亚的手机业务，三星延期缴纳了10亿美元专利费，微软为此<a target="_blank" href="http://www.solidot.org/story?sid=41338"><u>提起了诉讼</u></a>，指控三星欠它690多万美元的利息。微软与许多家Android厂商达成了专利授权协议，但一直公开没有披露它持有的Android专利，直到去年4月它向中国商务部递交的文件中<a target="_blank" href="http://www.solidot.org/story?sid=39945"><u>列出了310项Android相关专利</u></a>。
+➜Silver将苹果的Swift引入.NET和Java世界
+https://www.solidot.org/story?sid=43022	37646
+苹果Swift语言的爱好者将可以用Swift<a target="_blank" href="http://arstechnica.com/apple/2015/02/silver-brings-apples-swift-language-to-the-net-and-java-worlds/"><u>为Windows和Android开发软件了</u></a>。<a target="_blank" href="http://elementscompiler.com/elements/silver/"><u>Silver编译器</u></a>能编译Swift代码运行在.NET和Java运行时上。开发Silver的公司RemObjects不允许开发者利用它开发完整的跨平台应用，理由是用户界面应该原生开发，iOS应用应该用iOS的用户界面库才会让人觉得在iOS上最合适，.NET应用应该用微软的Windows用户界面库，Java应用应该用Android或Java库。Silver在Windows上集成 Visual Studio 2013 和2015，在 OS X上集成RemObjects自己的集成开发环境 Fire。
+➜波士顿动力透露新的四腿机器人Spot
+https://www.solidot.org/story?sid=43023	39010
+<div align="center"><img src="http://img.solidot.com.cn/0/983/liPSBA0xh4OYE.png"><br>
+<br>
+</div>
+被Google收购的机器人研究公司波士顿动力透露了Big Dog的小型版Spot（<a target="_blank" href="https://www.youtube.com/watch?v=M8YjvHYbZ9w"><u>YouTube视频</u></a>）。Spot重160磅，相比下<a target="_blank" href="http://www.bostondynamics.com/robot_bigdog.html"><u>Big Dog</u></a>重240磅。Spot具有Big Dog一样的敏捷性和平衡性，在被人狠踢一脚的情况下仍然能维持平衡，可以在高低不平的坡地自由行走，它甚至还能爬楼梯。自被Google收购之后，波士顿动力就不再更新其<a target="_blank" href="http://www.bostondynamics.com"><u>官网</u></a>了。Google当时<a target="_blank" href="http://www.solidot.org/story?sid=37629"><u>表示</u></a>会继续履行与DARPA签署的合同，但没有透露未来计划。
+➜Kickass.so 域名被禁
+https://www.solidot.org/story?sid=43024	41225
+<a href="/~mtjs">mtjs</a> 写道 <i>"昨天和今天你是否无法访问 “Kickass.so”了呢？&nbsp;Kickass.so 这个域名已经<a href="http://torrentfreak.com/kickasstorrents-taken-domain-name-seizure-150209/" target="_blank">被域名管理机构封禁了</a>，作为互联网上数一数二的 Torrent 种子站点，Kickass 有比 PirateBay 更大的影响力，也因此成为了版权所有者的眼中钉，之前Kickass曾经换过多个域名来躲避版权者的追索，一度.SO域名被认为是一个适合Kickass的天堂，就目前来看，在这一方面来说显然不是，记者向.SO域名管理机构发出了对封禁 Kickass 的解释要求目前没有回应，而同为.SO域名的一个钓鱼网站 “kickasstorrents.so”（kickass团队与该网站毫无关系）也被封了，据与kickass团队的联络，他们目前已经将网站迁移到了<span style="font-size: 17.6000003814697px; line-height: 26.4000015258789px;"><a href="https://kickass.to/" target="_blank">kickass.to</a>。</span>"</i>
+➜地球气温数据是“最大的科学丑闻”？
+https://www.solidot.org/story?sid=43025	43225
+专栏作家Christopher Booker在《每日电讯报》上<a target="_blank" href="http://www.telegraph.co.uk/news/earth/environment/globalwarming/11395516/The-fiddling-with-temperature-data-is-the-biggest-science-scandal-ever.html"><u>发表文章</u></a>，指责官方的温度数据被系统性的修改，使得地球看起来比实际数据显示的更暖和。他给出的一个例子是巴拉圭三个气象台的官方气候趋势与原始数据显示的相反，降温的趋势被显示为暖化。这篇文章引发了热议，用户留言超过2万条。Ars的资深科学编辑John Timmer <a target="_blank" href="http://arstechnica.com/staff/2015/02/temperature-data-is-not-the-biggest-scientific-scandal-ever/"><u>回应了气温数据是史上最大科学丑闻的质疑</u></a>，解释了原始的数据必须先进行处理，处理数据不是因为阴谋论的“系统性调整”，而是因为气温记录数据是不连续的，气象站不仅变换位置，而且还改变温度记录的时间，用更现代的仪器替换旧的温度计，所有这一切都在每个地点创造了气温数据的不连续性。处理数据是为了创造单一的统一的记录。
+➜流感疫苗开发为何进展缓慢
+https://www.solidot.org/story?sid=43026	43780
+美国今年的流感疫情非常严峻。从去年秋天至今，已经有数千美国人死于流感，其中包括56名儿童。流感疫情如此严重的部分原因是，今年的流感疫苗注射效果是近十年来最弱的一次。流感疫苗有效率只有23%，远低于往年50%到60%的水平。流感疫苗并不是一项高新技术，但因为流感病毒的持续变异而难以创造出一种长期有效的流感疫苗。每年2月，世界卫生组织都会召集全球流感专家进行研讨，以确定下一季流感疫苗所使用的病毒株。去年二月中旬开始的疫苗研制过程，和往年没有什么差别。 然而在去年三月，一种流感病毒的变种突然出现了，科学家知道它有肆虐的可能，<a target="_blank" href="http://www.fortunechina.com/business/c/2015-02/10/content_236576.htm"><u>但为时已晚</u></a>。
+➜微软注册Windows 365商标
+https://www.solidot.org/story?sid=43027	45599
+Windows 7和Windows 8用户将能在发布一年内免费升级到Windows 10，微软的这一计划立即引发了微软想要在Windows操作系统中引入订阅模式的猜测。微软最近申请Windows 365商标一事令这一猜测<a target="_blank" href="http://news.slashdot.org/story/15/02/09/1518227/microsoft-trademarks-windows-365"><u>再次升温</u></a>。微软的Office 365就是一个付费订阅办公软件服务。微软尚未披露Windows 10的定价策略，Windows 365是否是付费订阅操作系统，只有时间能给出答案。
+➜香港严打奶粉走私
+https://www.solidot.org/story?sid=43028	46367
+香港入境处在2月5日到7日展开代号名为“风沙行动”的反非法劳工行动，三天拘捕了55名涉嫌非法从事水货活动的内地旅客，包括23男22女，年龄在20到70岁之间。走私货物包括奶粉、食品、酒、日用品、护肤品、化妆品、衣物、鞋、手机等。入境处称，从2012年9月至今，累计拘捕了1919名涉嫌从事水货活动的内地人，和14名香港居民。粉岭法院昨天处理12宗走私奶粉案，有本地女水货客在庭上称，自己不认识英文，也不看新闻，不知道带过量奶粉过关犯法。曾经斥责水货集团利用老人犯案是伤阴骘、国民不敢食用国产奶粉是国耻的女法官吴蕙芳，直斥该女水货客“<a target="_blank" href="http://www.nanzao.com/sc/hk/47834/gang-3tian-ju-55fei-fa-shui-huo-ke-shui-huo-cang-tui-tun-men-gong-sha-zu-ban-nian-zhang-wu"><u>不要说谎</u></a>”，并指出海关已经在关口张贴海报以及播放英语、广东话、普通话广播，质问被告，就算不看新闻，是否连广播也不听。吴蕙芳最终判女被告罚款5700港元。该名女被告2月1日在落马洲关口走私10.6公斤奶粉被捕，超过最多1.8公斤的“限奶令”上限超过5倍。上周日，香港还发生了针对大陆购物者的游行示威，主要由年轻人组成的示威者挤进了大陆游客热衷的商场，在一个满是大陆购物者的杂货店前集合，喊道“<a target="_blank" href="http://cn.nytimes.com/china/20150209/c09hongkong/"><u>蝗虫们，滚回大陆</u></a>”。

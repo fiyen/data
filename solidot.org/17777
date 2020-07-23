@@ -1,0 +1,45 @@
+➜中国品牌手机占据印度三分之二份额
+https://www.solidot.org/story?sid=57793	11095
+中国手机厂商统治了世界第一大和第二大智能手机市场。在印度，中国品牌手机打败了韩国公司，<a href="https://venturebeat.com/2018/09/01/chinese-smartphone-makers-are-winning-in-india-the-fastest-growing-market/" target="_blank"><u>占据三分之二的市场份额</u></a>，其中小米份额最高，它在去年超过了三星公司成为印度最大的手机供应商。根据 IDC 的数据，今年第二季度小米份额为 29.7%，该公司声称印度是它目前最重要的市场。印度前五的智能手机厂商有四家来自中国，小米之外还有 Oppo (7.6%)，Vivo (12.6%)和传音（5%)。2016 年初中国厂商的份额还只有 15% ，印度本土公司 Micromax、Karbonn Mobile 和 Lava 等的市场份额还有 46%。在中低端市场，中国手机厂商提供了价格低廉但质量尚可的产品，而在中高端市场，中国公司也逐渐超过竞争对手如三星和苹果。
+➜Google 将 Service Worker 用于重复搜索
+https://www.solidot.org/story?sid=57794	11995
+Google 工程总监 Dion Almaer 和产品高级总监 Ben Galbraith <a href="https://venturebeat.com/2018/09/01/google-search-now-uses-service-worker-for-repeated-searches/" target="_blank">透露</a>，搜索巨人正在将 Service Worker 用于缓存重复搜索，加快搜索结果的加载。Almaer 称，Google 搜索的使命是尽可能快的将相关结果提供给用户。他表示，Service Worker 能将搜索结果的加载时间减少到原来的二分之一。<a href="https://developers.google.com/web/fundamentals/primers/service-workers/" target="_blank"><u>Service Worker</u></a> 是浏览器在后台独立于网页运行的脚本，可被用于推送通知和后台同步等功能，它支持离线体验。你可以通过 about:serviceworkers 浏览已注册的 Service Worker，可以通过 about:config 搜索  dom.serviceWorkers.enabled 禁用 Service Worker（只限于 Mozilla Firefox，Google Chrome 没办法禁用）。
+➜中国证实屏蔽 ABC
+https://www.solidot.org/story?sid=57795	14450
+澳大利亚广播公司 ABC 网站和手机应用程序通常可供中国网民使用，不受“防火墙” 审查的限制，但从 8 月 22 日开始却突然无法登陆。 在多次发出澄清要求之后，网信办的一位官员向 ABC <a href="http://www.abc.net.au/chinese/2018-09-03/china-censors-abc-websites-in-china/10194504" target="_blank"><u>发出了声明</u></a>：“中国的互联网是完全开放的。我们欢迎来自世界各地的互联网企业向中国网民提供良好的信息。”“但是，对于一些违反中国法律法规，散布谣言、提供色情信息、赌博、暴力恐怖主义以及其他一些危害国家安全，损害民族自豪感的非法有害信息的海外网站，国家网络主权应得到维护。”这位拒绝透露姓名的官员表示，政府部门“有权采取技术措施以阻止传播”。其他两个中国政府部门的官员拒绝透露澳大利亚广播公司 ABC 是如何违反中国法律法规的，也拒绝引用任何内容作为案例。
+➜巴西国家博物馆被烧毁
+https://www.solidot.org/story?sid=57796	16843
+有 200 历史的巴西国家博物馆周日<a href="https://www.bbc.com/news/world-latin-america-45392668" target="_blank"><u>遭遇严重火灾</u></a>，整栋建筑物笼罩在大火之中，建筑物接近全毁。巴西国家博物馆位于里约热内卢，始建于 1818 年，它在今年初刚刚庆祝了建成二百周年。巴西国家博物馆有超过 2000 万件馆藏品，预计其中绝大部分毁于大火。博物馆受损程度和起火原因目前还没有公布。巴西总统 Michel Temer 通过 Twitter 说这是“巴西全国人难过的一天”、“我国历史价值无法以这栋建筑的损害来估量”。里约热内卢在 2016 年举办了奥运会，但这场奥运会给里约热内卢制造了更多的危机，公共预算大幅削减，暴力增加，游客人数下降。
+➜Chrome 发布十周年
+https://www.solidot.org/story?sid=57797	19288
+2008 年 9 月 1 日，Google <a href="https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html" target="_blank"><u>发布了</u></a>  Chrome 浏览器。十年后的今天，Chrome 已经是市场占有率最高的桌面和移动浏览器。根据 Netmarketshare 的<a href="https://www.theverge.com/2018/9/2/17811844/google-chrome-browser-10-years-history" target="_blank"><u>统计</u></a>，Chrome 在桌面浏览器市场的份额超过了六成，基于 Chrome 的操作系统 Chrome OS 被认为已经对微软在桌面操作系统的统治地位<a href="https://tech.slashdot.org/story/18/09/02/073214/is-chrome-os-threatening-windows" target="_blank"><u>构成了威胁</u></a>。Chrome 在浏览器市场的统治地位也让人越来越担心它会成为新时代的 IE。在中国很多流行的国产浏览器都是基于 Chrome，而在十年前它们多数是基于 IE。
+➜新浪审查湖南耒阳新闻
+https://www.solidot.org/story?sid=57798	25281
+官媒开始陆续报道湖南耒阳发生的一起群众性事件：当地部分公办小学的学生被分流到私立学校，但私立学校被指尚未装修完毕、甲醛超标，以及收费过高而引发了家长们的怒火，他们走上街头发起了抗议。在中国最受欢迎的新浪微博上，<a href="http://s.weibo.com/weibo/%25E8%2580%2592%25E9%2598%25B3?topnav=1&amp;wvr=6&amp;b=1#1535957579334" target="_blank"><u>耒阳</u></a>的新闻遭到了严格审查，所有官媒新闻下面都限制评论，<a href="https://weibo.com/1644114654/GxuYzrBlC?refer_flag=1001030103_&amp;type=comment#_rnd1535957464718" target="_blank"><u>显示</u></a>“抱歉，该内容暂时无法查看”。官媒引用通稿称，“湖南省委省政府主要领导对耒阳市部分群众聚集、反映学生相关诉求一事高度重视，作出批示，要求省教育厅、省公安厅、衡阳市委市政府领导赶到现场调查处理。”
+➜Google 发布加密库 Tink
+https://www.solidot.org/story?sid=57799	27324
+Google <a href="https://opensource.googleblog.com/2018/08/introducing-tink-cryptographic-library.html" target="_blank"><u>宣布了</u></a>一个新的加密库叫 <a href="https://github.com/google/tink" target="_blank"><u>Tink</u></a>，称 Tink 旨在提供安全、易于使用和难以误用的加密 API，它是基于现有的加密库 BoringSSL 和 Java Cryptography Architecture，加入了 <a href="https://github.com/google/wycheproof" target="_blank"><u>Project Wycheproof</u></a> 项目发现的弱点反制措施。这不是 Google 第一次推出所谓易于使用的加密库，早在 2009 年它就发布了 <a href="https://github.com/google/keyczar" target="_blank"><u>Keyczar</u></a> 加密库，但几年后就停止了开发。
+➜GlobalFoundries CTO 谈公司为什么放弃 7 纳米工艺研发
+https://www.solidot.org/story?sid=57800	28206
+上周，第二大芯片代工厂 GlobalFoundries <a href="https://www.solidot.org/story?sid=57726" target="_blank"><u>宣布</u></a>终止 7 纳米制造工艺研发，专注于现有的 14 纳米/12 纳米工艺（14LPP/12LP）。CTO Gary Patton 坚称该公司做出这一决定不是因为技术问题，而是在谨慎考虑了 7 纳米工艺的商业机会和财务问题后做出的。这一决定促使 AMD 将所有 7 纳米 CPU 和 GPU 订单全部交给台积电。Gary Patton 接受 IEEE Spectrum 的采访谈论<a href="https://spectrum.ieee.org/nanoclast/semiconductors/nanotechnology/globalfoundries-cto-on-why-the-company-abandoned-the-bleeding-edge" target="_blank"><u>为什么放弃 7 纳米工艺研发</u></a>。他称自己作为 CTO 乐于挑战尖端技术，但对于雇员、客户和股东，他们公司必须有一个可维持的有利可图的业务。很明显，研发尖端技术会持续侵蚀投资回报。需要 7 纳米工艺的客户很少，需求下降的同时研发成本则在飙升。所以他们最终选择了专注于现有的技术以获得最佳的投资回报。他认为 14LPP/12LP 还有很大的改进空间，改进现有技术所需的资源比研发 7 纳米甚至 5 纳米工艺要少得多。他认为即使到 2022 年，四分之三的芯片市场仍然只需要 12 纳米工艺。
+➜开源开发者撤销阻止 ICE 使用软件的决定
+https://www.solidot.org/story?sid=57801	32827
+开发者 Jamie Kyle 修改了开源管理工具 <a href="https://github.com/lerna/lerna" target="_blank"><u>Lerna</u></a> 的许可证，禁止与美国移民和海关执法局(ICE)有合作关系的企业和机构使用该软件，其中包括微软、Palantir、Amazon、Northeastern University、Johns Hopkins University、Dell、Xerox、LinkedIn 和 UPS。Kyle 承认开源软件可以被用于做邪恶的事，但他不忍看到自己帮助开发的软件被与 ICE 签有合同的企业使用。他的做法在开源社区引发了争议。开源促进会联合创始人 Eric Raymond 称， Kyle 的决定违反了开源定义的第五条款，该条款禁止歧视人或组织。他认为  Kyle 破坏了远离政治的开源社区准则。Kyle 并非是项目的核心开发者，也没有积极参与开发，核心开发者 Daniel Stockman <a href="https://motherboard.vice.com/en_us/article/pawnwv/open-source-devs-reverse-decision-to-block-ice-contractors-from-using-software" target="_blank"><u>决定移除</u></a> Kyle 访问该项目，<a href="https://github.com/lerna/lerna/pull/1616" target="_blank">撤销了</a>阻止相关企业和机构使用软件的许可证变更。Stockman 对此表示道歉，称许可证变更是“草率的决定”，是“不可执行的”。
+➜CRISPR 基因编辑修复犬的肌肉萎缩症
+https://www.solidot.org/story?sid=57802	36041
+根据发表在《科学》期刊上的<a href="http://science.sciencemag.org/content/early/2018/08/29/science.aau1549" target="_blank"><u>一项研究</u></a>，科学家<a href="http://www.time.com/5382101/crispr-muscular-dystrophy-in-dogs/" target="_blank"><u>报告</u></a>他们成功利用 CRISPR 基因编辑技术修复了四只猎犬的 Duchenne 肌肉萎缩症。这是 CRISPR 首次用于治疗大型动物的肌肉萎缩症。Duchenne 是肌缩蛋白基因突变导致的，该基因编码了正常肌肉功能所需的蛋白质。患有 Duchenne 肌肉萎缩症的人通常只能依靠轮椅，由于肌肉持续萎缩晚期病人需要依靠呼吸机呼吸，最终他们会发展出心脏和呼吸衰竭。
+➜限制在 10 小时内进食能克服遗传缺陷
+https://www.solidot.org/story?sid=57803	42981
+Salk 研究所的科学家<a href="https://www.salk.edu/news-release/eating-in-10-hour-window-can-override-disease-causing-genetic-defects-nurture-health/" target="_blank"><u>发现</u></a>，如果将进食时间限制在 10 小时内，缺乏生物钟的小鼠仍然能免受肥胖和代谢疾病。生物钟被认为对健康代谢至关重要。<a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30505-9" target="_blank"><u>研究报告</u></a>发表在《Cell Metabolism》期刊上。论文作者 Satchidananda Panda 教授称，大部分人类从起床到睡觉之间，进食时间在 14 到 15 小时。但不管生物钟如何，如果能将进食时间限制在 10 小时内，其余时间禁食，将能更有利于健康。实验中的小鼠都被关闭了负责管理生物钟的基因，研究人员将其分成两组，一组可以自由进食，另一组限制在 10 小时内，它们都给予了相同热量的食物。结果是自由进食的一组发展出肥胖和代谢疾病，另一组则仍然健康。
+➜微塑料污染遍及全球
+https://www.solidot.org/story?sid=57804	45387
+研究人员<a href="http://news.sciencenet.cn/htmlnews/2018/9/417169.shtm" target="_blank"><u>发现</u></a>，“微塑料”污染已成为一大问题，对 13 国的调查显示，自来水中“微塑料”的检出率高达 81%，大部分呈纤维状，估计来自纤维制品。虽然目前尚不清楚微塑料对人类健康造成的影响，但研究团队发出警示称“日常生活中无法避开的自来水污染在全球蔓延非常令人担忧”。该调查分析了在美国、英国、古巴、印度等 14 个国家采集的 159 个自来水样本。除意大利以外的 13 个国家自来水中都发现了微塑料。美国的水样中检测出每升约 60 个微塑料，据各国之首。印度和黎巴嫩也数量较多。98% 的微塑料呈纤维状，平均长度为 0.96 毫米。也存在 0.10 毫米的微塑料，估计很难用过滤设备完全去除。
+➜刘强东返回中国
+https://www.solidot.org/story?sid=57805	45570
+京东周一<a href="https://cn.reuters.com/article/jd-com-ceo-china-return-0903-idCNKCS1LJ0YL?il=0" target="_blank"><u>表示</u></a>，首席执行官刘强东已经返回中国进行工作。此前刘强东在美国涉嫌性侵被短暂拘留。美国警方称，<a href="https://cn.nytimes.com/business/20180903/richard-liu-arrest-minnesota-china/" target="_blank"><u>调查仍在进行</u></a>。根据明尼苏达州亨内平县治安官办公室的<a href="https://www4.co.hennepin.mn.us/webbooking/chargedetail.asp?v_booknum=2018021695">收监名册</a>，刘强东上周五晚间因涉嫌刑事性行为被明尼阿波利斯警方逮捕，周六下午在不需缴纳保释金的情况下释放。在明尼苏达州，“刑事性行为”这个说法涵盖了一系列非合意性接触。明尼阿波利斯警察局发言人表示，获释的刘强东“尚待正式起诉”。发言人 John Elder 称警方原本可以将刘强东关押至周二，但他们认为在展开调查期间没有必要这么做。经过调查后，警方会向检方建议，应该以轻罪、重罪起诉刘强东，还是不起诉——届时该案将予以结案。
+➜中国减个税增社保将遏制企业发展
+https://www.solidot.org/story?sid=57806	46305
+全国人大常委会上周通过了新个税法，起征点从 3000 提高到 5000 元，但以前企业可以根据最低起征点缴纳社保，而现在社保必须足额缴纳，因此个人的收入将会出现下降，而企业的负担也将会加大。企业将会面临更大的经营压力，而最终这一压力会转嫁到员工身上，以裁员、压低工资等方式呈现。政府的这一做法被认为是为了弥补养老金亏空。2015 年养老金亏空高达 1.2 万亿元，随着中国人口老化日渐严重，未来这一情况日渐严重。然而财政收入来自于国民财富的增加，依靠企业来创造收入的增长。目前的这种做法<a href="http://www.ftchinese.com/story/001079220" target="_blank"><u>只会遏制企业发展</u></a>，对长期发展的弊大于利。
+➜经济学人认为比特币和其它数字货币毫无用处
+https://www.solidot.org/story?sid=57807	47560
+经济学人发表文章<a href="https://www.economist.com/leaders/2018/08/30/bitcoin-and-other-cryptocurrencies-are-useless" target="_blank"><u>谈论了比特币和其它数字货币</u></a>，认为虚拟货币缺乏使用价值毫无用处。文章称，经济学家将货币定义为某种交换媒介，价值的储存和记账的单位。缺乏采用和币值的波动性意味着数字货币满足不了货币的标准。这并不意味着数字货币会消失。此外。数字货币底层的区块链技术被宣称具有革命性。然而许多关于区块链的宣传都来自数字货币投机者，他们希望区块链引发的兴奋能增加其持有的数字货币的价值。但现在越来越多的企业发现了区块链的局限性，相关的炒作正在降温，国际银行间交易网络 SWIFT 和支付服务 Stripe 已经放弃了区块链项目，他们认为其成本超过了收益。绝大多数区块链项目都是实验性的。虽然区块链被过度宣传了，但这并不意味着它没有用，只是它至今还没有证明价值。

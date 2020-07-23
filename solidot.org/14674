@@ -1,0 +1,77 @@
+➜Google创始人布林的简历
+https://www.solidot.org/story?sid=16597	7020
+在创建Google 之前，创始人之一<a href="http://infolab.stanford.edu/~sergey/resume.html">布林的简历</a>中有一些有意思的内容隐藏在HTML后面，被注释了但是可以通过<a href="http://www.reddit.com/r/programming/comments/b7qng/sergey_brins_resume_pregoogle/">查看源代码看到</a>。<br>
+第一个是：
+<blockquote> <div>&lt;!--&lt;H4&gt;Objective:&lt;/H4&gt;<br>
+A large office, good pay, and very little work.<br>
+Frequent expense-account trips to exotic lands would be a plus.--&gt;</div> </blockquote>
+第二个是：
+<blockquote> <div>&lt;!-- &lt;IMG ALIGN=LEFT SRC="pics/diamond.gif"&gt;<br>
+&lt;H4&gt;&lt;A HREF="/cgi-bin/sergey/HyperNews/get/forums/datamine.html"&gt;Data
+Mining&lt;/A&gt;&lt;/H4&gt;<br>
+I have recently acquired an interest in data mining and started up a<br>
+meeting group.&lt;P&gt;--&gt;</div> </blockquote>           其中提及到数据挖掘，也许就是Google 搜索的设计雏形。还有，从简历里可以看到，他使用Pyghon写出了让用户对电影评价的程序；LaTeX 到HTML的转换器等等。<br>
+或许他简历中所隐藏的这些文字代表了大多数程序员、工程师对工作的理想状态？
+➜NVIDIA新驱动导致显卡在游戏时过热
+https://www.solidot.org/story?sid=16596	8100
+参加《星际争霸II》beta测试的用户报告，他们的NVIDIA显卡在更新到196.75驱动后出现了技术故障。暴雪的技术支持团队发现，新版驱动在显卡风扇控制上存在问题，从而<a href="http://games.slashdot.org/story/10/03/05/0739241/NVIDIA-Driver-Update-Causing-Video-Cards-To-Overheat-In-Games">导致显卡在处理3D应用时过热</a>。
+<i>
+这意味着，使用新驱动的显卡运行任何3D应用程序（如游戏）都会引发过热情况，在某些极端的情况下可能导致显卡、主板或处理器烧毁。如果显卡或主板已经过了保修期，那么玩家在玩诸如《Prototype》、《魔兽世界》、《孤岛惊魂2》、《孤岛危机》，以及其它许多依靠显卡渲染出栩栩如生图形的游戏时将会遇到大麻烦。NVIDIA表示正在调查该问题，他们已经从官网移除了新驱动程序的链接，并建议用户在问题解决之前恢复到196.21。</i>
+➜甲烷气体渗漏比预期的更快
+https://www.solidot.org/story?sid=16598	8400
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道 "据<a href="http://www.sciencemag.org/cgi/content/short/327/5970/1211">3月5日的《科学》杂志报道</a>说，甲烷气体正从被北冰洋淹没的残余永冻土中渗漏到大气之中，其速度快于先前所预计的世界所有海洋的数据。这一发现披露了一个巨大的但被忽视的从水下永冻土（而非陆地）所逸出的甲烷气体来源；科学家们说，类似但却更为广泛的甲烷排放会在未来对全球暖化产生剧烈的影响。 <i>
+<a href="http://www.sciencemag.org/cgi/content/abstract/327/5970/1246">Natalia Shakhova及其同僚</a>从2003-2008年以来，每年都会登上俄国的破冰船来到East Siberian Arctic Shelf，并对那里的水体进行考察。 他们还从一架直升飞机上进行了一次考察。在经过5000多次艰苦的海上观测之后，这些研究人员报告说，在那里的大陆架上，有超过80%的底层水及超过50%的表层水处于源自水下永冻土的甲烷的过饱和状态。海底的永冻土中含有大量的碳，专家们担心，这些碳作为甲烷气体的排放会导致大气温度的变暖。因此，这只会造成一个从永冻土中有更多甲烷逸出及全球气温更为暖化的正反馈回路。有科学家预计，East Siberian Arctic Shelf的年度甲烷渗漏量约为7 telegrams(1 telegram 约为770万吨），而每年的全球甲烷排放量约为500 telegrams, 其中大约40%来自自然排放，比如湿地和永久冻土层的有机物分解。由于在East Siberian Arctic Shelf上的甲烷流动量如今看来与所有海洋加起来的甲烷流动的估计值不相上下，因此这些研究人员建议，他们的数据应该立刻在评估北极气候在不远的将来会如何变暖的时候被加以考虑。"</i>
+➜Valve宣布《Portal 2》
+https://www.solidot.org/story?sid=16599	9120
+《Portal》更新引发的<a href="__SLASHLINK__" sect="games" sid="10/03/04/0525214" sn="article" tid="121">无数推测</a>终于结束了，现在Valve<a href="http://store.steampowered.com/news/3559/">正式</a> <a href="http://games.slashdot.org/story/10/03/05/217251/Valve-Announces-Portal-2">宣布</a>了《Portal 2》，但是官网的声明就一句话，没有游戏本身的一丝一毫信息。不过Game Informer<a href="http://gameinformer.com/mag/portal2.aspx">透露</a>，它将从3月8日起，每隔2到3天公布一点《Portal 2》的游戏信息。又开始和玩家们玩捉迷藏游戏了吗？
+➜Adobe、微软论剑Flash、Silverlight与HTML5
+https://www.solidot.org/story?sid=16600	9600
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "大约3年前，微软推出 Silverlight 1.0，那时，Adobe 携 Flash 拥兵自重，尽管微软对 Silverlight 的推广力度非常强，却并没有撼动 Adobe 的霸主地位，或许市场为二者都保留了空间，如今 HTML5 风声鹤唳，informationweek.com 召集微软和 Adobe 就 Flash，Silverlight 和 HTML5 做了一番辩论。           以下是辩论赛的<a href="http://i.cmpnet.com/infoweek/audio/FritzAndDavidShow201004FlashVsSilverlight.mp3">录音</a>，现场包括 Techweb 的内容总编 <a href="http://www.informationweek.com/news/mobility/business/www.informationweek.com/david">David   Berlind</a> ，<a href="http://www.informationweek.com/fritz">本人 </a>，Dr. Dobbs 主编 Jon Erickson, 微软开发平台市场主管 Brian Goldfarb 以及 Adobe 的技术战略主管 Anup Murarka.
+<br> <br>
+吸引开发者
+<br> <br>开发者是两家公司争夺的核心，Adobe 几乎抢占了全部终端用户市场，互联网上 98% 的计算机运行 Flash，而 Flash 10 在一年之内就达到了 95%，这对开发者来说非常重要，虽然 Adobe 并不是操作系统提供商，但他们让 Flash 进驻到几乎每一个浏览器和平台。
+<br> <br>微软的 Silverlight 已经发展到 V4，声称拥有 45% 的市场，在欧洲和亚洲更高（60%）。它也提供跨平台和浏览器支持，尽管对 Linux 的支持不够及时。另外，微软声称，他们已经拥有近 50 万开发者。
+<br> <br>双方都有超级大客户，微软受益于体育运动赛事的泛滥，包括刚刚结束的冬奥会，以及即将开始的全美大学生篮球冠军赛，他们还为 Netflix 以及维多利亚内衣 Show 提供在线视频。Adobe 则涵盖了几乎所有大型视频网站，包括 YouTube 和 Hulu。
+<br> <br>辩论会上，双方就这些数字进行辩论，不过双方更多讲到另一个重点，就是他们为开发者提供的开发工具。微软在 Silverlight 的开发工具方面做得很好，他们在 Silverlight 刚刚推出时就向开发者社区提供了开发工具，微软 .NET 开发者可以直接在 Visual Studio 中开发 Silverlight 应用。Flash 开发者则使用 ActionScript， Flex， Flash Builder 等工具进行开发。
+<br> <br>另外，在编码器，API，音频处理，文件格式与尺寸，性能，动画模式等方面，双方也是各有千秋。不过，双方辩论的焦点最终放在如何同时吸引前端和后端开发者。微软的 <a href="http://www.microsoft.com/expression/">Expression </a>目前只支持 Windows，将那些 Mac 阵营的开发者拒之门外，同时，Adobe 也借 <a href="http://labs.adobe.com/technologies/flashcatalyst/">Catalyst</a> 吸引各个平台的开发者。
+<br> <br>微软的 Goldfarb 提到他们注重开发者的传统，Adobe 则强调他们的用户基础，双方都保证会为消费及企业用户提供跨媒体，富 Internet 体验。<br> <br>
+HTML5
+<br> <br>如果说 Silverlight 的推出让 Adobe 感到棘手，那么现在，双方都应该对 HTML5 感到棘手，HTML5 的使命是让富 Internet 应用成为 HTML 标准（<a href="http://analytics.informationweek.com/abstract/22/1237/SOA-App-Architecture/html-5-starts-looking-real.html?k=bxxe&amp;cid=blog_bxxe">Dr  Dobbs report</a>）。不过，双方都不承认 HTML5 对他们的威胁，相反，他们表示，要与 HTML5 和平共处，让 Flash 和 Silverlight 在 HTML5 下工作，并在他们的工具中对 HTML5 提供支持。他们同时提到，HTML5 前面还有很长的路，目前只是万里长征的第一步，前面还充满变数，与此同时，不管是 Flash 还是 Silverlight 都有属于自己的市场，即使在 HTML5 已经成熟的时候（<a href="http://blogs.gartner.com/ray_valdes/">Gartner 的 Ray Valdes 有一篇文章，将 HTML5， Flash 和 Silverlight 做了详细对比</a>）。
+<br> <br>像 YouTube，Vimeo 一类的站点已经开通了 HTML5 支持，不过，人们对 HTML5 的最大期待还是它将让富媒体更容易搜索。微软和 Adobe 都谈到了他们为使 Silverlight 和 Flash 变得容易搜索而做的努力。<br> <br>
+移动
+<br> <br>最后，谈到了移动。在移动市场，两家公司都刚起步，不过，Adobe 的 Murarka 提到，在日本，Flash 是除了短消息之外的第二大移动应用。根据他们的路线图，他们将在 19 到 20 家最大的 OEM 商那里提供 Flash 支持（Google 已经演示过 Android 中的 Flash）。
+<br> <br>谈到微软，虽然 Silverlight 甚至不支持微软自己的移动操作系统，但 Goldfarb 说这是他们的目标，他也没有回应有关 Windows Phone 7 支持 Silverlight 的传闻。不过，微软已经宣布同 Nokia 合作向 Symbian 系统提供 Silverlight。
+<br> <br>接着，大家谈到 iPhone，这个让 Adobe 如梗在喉的东西，Adobe 已经要求开发者编写可以在 iPhone 上运行的 Flash 程序，Murarka 表示，他们会继续同苹果沟通，但苹果不允许在 iPhone 上运行解释代码（Java, PHP, PERL）。
+<br> <br>鉴于将来会有比桌面电脑更多的移动设备投入使用，微软和Adobe必将在移动领域激烈竞争，目前的手机硬件还不适合运行太多富Internet应用，但随着硬件的发展，未来的两三年就可以实现。
+<br> <br>本文来源：<a href="http://www.informationweek.com/news/mobility/business/showArticle.jhtml?articleID=223101717&amp;pgno=1&amp;queryText=&amp;isPrev=">http://www.informationweek.com/news/mobility/business/showArticle.jhtml?articleID=223101717&amp;pgno=1&amp;queryText=&amp;isPrev=</a>
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜微软也向IE6葬礼献花
+https://www.solidot.org/story?sid=16601	12960
+3月4日，有超过100人身着黑衣给一个老朋友送葬。这位老朋友就是让Web开发者痛恨不已的<a href="http://www.cnn.com/2010/TECH/03/04/ie6.funeral/index.html?hpt=T2">IE6</a>。葬礼由科罗拉多州丹佛市的设计公司Aten Design Group主持。<i>
+IE6浏览器在2001年推出，已有近10年历史。尽管微软过去几年发布了新一代的IE7和IE8，而且竞争对手也推出许多新的浏览器。然而IE6依然僵而不死，至今全球份额近20%，在中国更是超过半数。赞礼上最出人意料的，也许是微软也很难得的<a href="http://tech.slashdot.org/story/10/03/05/1723215/Microsoft-Sends-Flowers-To-Internet-Explorer-6-Funeral">开起了玩笑</a>：<a href="http://blog.seattlepi.com/microsoft/archives/196608.asp">它向葬礼献花</a>，卡片署名人是IE团队，内容为：Thanks for the good times IE6, see you all @ MIX when we show a little piece of IE Heaven. The Internet Explorer Team @ Microsoft."</i>
+➜为什么人类不长浓密体毛
+https://www.solidot.org/story?sid=16602	13800
+《科学美国人》<a href="http://www.scientificamerican.com/article.cfm?id=the-naked-truth-why-humans-have-no-fur">报道</a>(台湾《科学人》中文<a href="http://sa.ylib.com/read/readshow.asp?FDocNo=1539&amp;CL=4">翻译</a>)，人类是灵长类中唯一没有浓密体毛的动物。<i>
+人类是如何变得如此赤裸的？几百年来，学者不断思索这个问题，然而要找出答案却不容易。化石虽记录着大部份人类特征的演化，例如直立行走，但没有任何化石保存了人类皮肤的印记。不过近几年来，研究人员意识到化石还是隐藏着人类从多毛转变到无毛的间接线索。人类无毛性状的演化，并不是为了适应地底或水中生活，也不是因为体型庞大，而是和我们演化出较佳排汗系统的理由相同：赤裸的皮肤可使人类保持凉爽。不是只有大型动物才有散热问题，对许多哺乳动物来说，如何保持凉爽也是个重要的问题，尤其是生活在炎热地区、需长时间行走或奔跑而产生大量热的动物，更需要注意核心体温的调控，否则组织和器官（尤其是脑）会因过热而受损。</i>
+➜浏览器厂商要求微软修改“随机浏览器选择”界面
+https://www.solidot.org/story?sid=16603	22800
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "多家小型浏览器生产商向欧盟<a href="http://www.eweekeurope.co.uk/news/small-browser-makers-petition-eu-over-ballot-5685">请愿</a>，要求欧盟给微软施加压力修改“随机浏览器选择”的用户界面。
+<i>
+经过马拉松式的谈判，微软终于和欧盟达成一致，于三月一日开始<a href="http://www.morgancheng.com/2010/02/20/%E5%BE%AE%E8%BD%AF%E5%B0%86%E8%AE%A9%E6%AC%A7%E6%B4%B2%E7%94%A8%E6%88%B7%E8%87%AA%E5%B7%B1%E9%80%89%E6%8B%A9%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%9Aie%E4%B8%A7%E5%A4%B1%E6%8D%86%E7%BB%91%E4%BC%98%E5%8A%BF/">在欧洲地区的Windows操作系统上实行“随机浏览器选择”</a>，这一措施旨在打破IE浏览器通过和Windows操作系统捆绑带来的垄断优势，但是并未平息其他浏览器对IE垄断优势的担忧。Opera发难，认为<a href="http://www.morgancheng.com/2010/02/24/%E4%B8%BA%E4%BB%80%E4%B9%88opera%E5%AF%B9%E5%BE%AE%E8%BD%AF%E7%9A%84ballot-screen%E8%BF%98%E6%98%AF%E4%B8%8D%E6%BB%A1%E6%84%8F/">微软通过IE图标和网页界面</a>，保留了IE的优势，要求微软在界面上删除浏览器图标，并使用Windows应用程序界面。对于小型浏览器厂商来说，微软未将他们的浏览器选项放在第一页是不可接受的，因为目前第一页只显示Safari、Firefox、Opera、Chrome和IE五大浏览器，他们要求微软在界面上显目地提示用户，有更多选择在第二页。"</i>
+➜137年的《科技新时代》杂志摆上网
+https://www.solidot.org/story?sid=16604	25200
+DNA24 写道 <i>"
+《科技新时代》杂志(<a href="http://www.popsci.com/archives">Popular Science</a>)与Google合作，将137年所有文章摆上网，<a href="http://books.google.com/books?id=wzsEAAAAMBAJ&amp;source=gbs_navlinks_s">免费浏览</a>。"</i>
+➜iPad将从4月3日起交付给美国消费者
+https://www.solidot.org/story?sid=16605	32700
+苹果在1月末公布了iPad——iPhone手机的放大版，运行相同的操作系统——表示将在今年晚些时候上市。现在苹果公司<a href="http://www.osnews.com/story/22965/iPad_To_Ship_April_3_to_US_Customers">透露</a>了iPad的<a href="http://www.apple.com/pr/library/2010/03/05ipad.html">预购和交付时间</a>。<i>
+苹果宣布，iPad将从4月3日起交付给美国消费者，澳大利亚、加拿大、法国、德国、意大利、日本、西班牙、瑞士和英国的消费者则要等到4月末才能拿到iPad。世界其它国家的消费者则要继续耐心等待。苹果还透露了不同型号iPad的价格——16GB+WiFi: 499美元；32GB+WiFi：599美元；64GB+WiFi：699美元；16GB+WiFi+3G：629美元；
+32GB+WiFi+3G: 729美元；64GB+WiFi+3G：829美元。</i>
+➜英国《独立报》评点“犀利哥”
+https://www.solidot.org/story?sid=16606	34320
+DNA24 写道 <i>"
+《独立报》<a href="http://www.independent.co.uk/news/world/asia/handsome-chinese-vagrant-draws-fans-of-homeless-chic-1915812.html">报道</a>：他是一个英俊的中国流浪汉，他被称为中国最酷的男人，他的名字我们不知道，只知道他的外号“犀利哥(BrotherSharp)，他是一个谜。相信不久之后犀利哥就会红遍全球。靠流浪“流出亚洲、流向世界”的“犀利哥”不敢说绝后，绝对是空前。现在大家已经知道他的名字，他要回家了！"</i>
+➜寻找地球最快浏览器
+https://www.solidot.org/story?sid=16607	36600
+Opera声称最新的Opera 10.5是地球最快的浏览器，现在<a href="http://www.tomshardware.com/reviews/firefox-chrome-opera,2558-3.html">Tom's Hardware</a>决定通过竞技场决出究竟<a href="http://news.slashdot.org/story/10/03/05/1544218/Web-Browser-Grand-Prix">哪一款浏览器称得上是地球最快</a>，它对比了Apple Safari 4.04、Google Chrome 4.0、Microsoft Internet Explorer 8、 Mozilla Firefox 3.6和Opera 10.50的启动时间（不同数量标签页），内存占用，页面载入速度，JavaScript等测试项目。<i>
+单一标签页启动速度，Chrome领先，但5标签页和8标签页启动速度，Opera独占鳌头；单标签页内存占用Safari最少，但Opera最多，而5标签页和10标签页内存占用Firefox独领风骚，此项测试Opera都是排在最末；不同网站的页面载入速度，Firefox最佳，Opera和Safari都很一般；JavaScript测试Opera和Chrome相当接近....综合考虑，Chrome仍然是目前最快的浏览器，Opera紧随其后。</i>

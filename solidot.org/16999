@@ -1,0 +1,18 @@
+➜CloudFlare并没有让网站变得更安全
+https://www.solidot.org/story?sid=48968	32184
+提供CDN加速及DDoS防护服务的云计算公司CloudFlare过去几个月深陷争议漩涡，Tor用户访问使用CloudFlare服务的网站经常被要求输入验证码，好像所有的Tor用户都是攻击者。CloudFlare自称可以帮助Web更快更安全，但有开发者认为CloudFlare实际上是让Web<a target="_blank" href="http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/"><u>变得更不安全</u></a>。举例来说，CloudFlare的Flexible SSL功能让用户觉得他们是在访问加密网站，但事实上CloudFlare和目标网站之间的通信是明文的，所谓的加密连接能被拦截和修改内容，海盗湾就在印度遭遇了这一问题。CloudFlare向网站提供了免费DDoS防护服务，然后它的服务实际上只是反向代理，并非真正的DDoS防护。网站管理员完全可以用免费的服务去替代CloudFlare的服务，如免费的SSL <a target="_blank" href="https://letsencrypt.org/"><u>Let's Encrypt</u></a>，免费的DNS <a target="_blank" href="http://dns.he.net/"><u>Hurricane Electric</u></a>。
+➜英国采用中国数学教学法
+https://www.solidot.org/story?sid=48967	32470
+<a href="/~wmr">wmr</a> 写道 "英国在英格兰地区一半的大约8000所小学在数学课堂上采用“中国模式”，向数千所小学提供支持和培训，<a target="_blank" href="https://m.sohu.com/n/459354789/">以改用上海的数学教学法</a>。同时，政府将斥巨资用于提供教科书和培训教师。英国计划在未来4年内投资4100万英镑，普及“中式教育”。按照英国教育部的新规，英国儿童从5岁开始就要进行计算练习，“必须先通过不断重复来掌握各个概念，然后再学习其他新的内容”。计算练习除了保障正确率之外，还要不断加快运算的速度，让孩子们做到“熟能生巧”。据悉，英国数学教育改革的重点，将放在全班教学法和纯数学上。为此，教师们也将接受培训，使用新教科书，学习如何采用上海式数学教学方法。为保障教学质量，每所小学将安排两名教师受训，通过专业书籍的学习和实践，来体会“上海式数学教学办法”。相关专家表示，中式教育，十分重视培养学生扎实的基础知识和基本功，要求学生通过“勤学苦练”达到学有所成的目的，因而基础教育雄厚，应试教育普及，题海式战术使他们吸收了丰富的基础知识，掌握了应试的技巧技能。而这恰恰是英国学生所缺乏的，英国学生的数学等基础学科水平普遍较差，甚至要低于中国同龄学
+生一两个年级。一些英国学生遇到考试如临大敌，甚至紧张得要哭。
+<p></p>
+<!--more-->
+<p></p>
+<p>问题是即使实行了上海教育，英国人的平均成绩就能达到上海人的平均吗？八十末时，中国人的平均智商是<a target="_blank" href="https://www.sbp-journal.com/index.php/sbp/article/view/633">英国常模的102</a>，而上海的平均智商是<a target="_blank" href="http://dx.chinadoi.cn/10.3760%2fcma.j.issn.1000-4955.2006.04.024">中国常模的115分</a>，也就是说上海的智商比英国高一个标准差，<a target="_blank" href="http://www.iqcomparisonsite.com/iqtable.aspx">上海的50分位相当于英国的87分位</a>。或者说如果把上海定为常模（M=100，SD=15），英国人的平均智商是83。可以比较一下，通常低于70就算为“弱智”，在美国可以免除死刑。环境解释是说不通的，因为上面中国智商估计是根据八十年代的样本，那时英国的人均GDP是中国的80倍。
+"
+➜在中国，Pokemon Go可能会帮助定位军事基地
+https://www.solidot.org/story?sid=48969	36042
+路透社<a target="_blank" href="http://www.reuters.com/article/us-nintendo-pokemon-china-idUSKCN0ZV0YD"><u>报道</u></a>了中国社交网络上流传的一个阴谋论以及中国外交部发言人对此的<a target="_blank" href="https://games.slashdot.org/story/16/07/15/1529256/in-china-fears-that-pokemon-go-may-aid-locating-military-bases"><u>回应</u></a>。这则阴谋论声称Pokemon Go能作为美国和日本发动进攻的特洛伊木马，阴谋论作者鼓励中国人不要玩Pokemon Go，因为它可能会被用于发现中国的秘密基地。因为中国的秘密基地禁止外人入内，所以任天堂和Google通过布置罕见的精灵从而发现玩家无法捕捉精灵的地方，进而推断出军事基地的位置。Pokemon Go尚未进入中国，还不清楚是否能在中国发布，今天的中国手游都要接受新闻出版广电总局的严格审批。外交部发言人陆慷在新闻发布会上回答了有关Pokemon Go的提问，称对于游戏会成为安全风险的报道不知情，他也没有时间玩手游，拒绝再作进一步的评论。
+➜研究称阿尔茨海默基因很早就会影响大脑
+https://www.solidot.org/story?sid=48970	51235
+一项新研究称阿尔茨海默基因在携带者3岁时候<a target="_blank" href="http://www.telegraph.co.uk/science/2016/07/13/alzheimers-gene-already-shrinking-brain-by-age-of-three/"><u>就会影响大脑和认知功能</u></a>。所谓的阿尔茨海默基因是指 APOEe4突变基因，携带者罹患痴呆症的风险会增加15倍。大约有14%的人携带了APOEe4突变基因。对 1187 名年龄在3岁到20岁之间的青少年的遗传测试和大脑扫描分析发现，阿尔茨海默基因在很早的时候就会对携带者的大脑产生影响。研究人员认为APOEe4基因会放缓大脑发育，他们同时表示解释这些结果需要慎重，需要在更大范围内重复研究结果。

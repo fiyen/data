@@ -1,0 +1,63 @@
+➜近半Vista下杀毒软件未过VB100
+https://www.solidot.org/story?sid=5775	1200
+<a href="http://www.comsharp.com/">35公里</a> 写道 "也许我们该庆幸 Vista 下的病毒仍处于襁褓期，因为最近一次 VB100 测试发现很多 Vista 下的<a href="http://www.infoworld.com/article/08/04/04/Vista-anti-malware-fails-VB100-tests_1.html">杀毒软件未能通过测试</a>。本次测试共选取了37种Vista下的杀毒软件，包括 McAfee, Sophos 和 Trend Micro 在内的17种未通过测试。 <br> <br>McAfee, Sophos 和 Trend 检测出99.99% 的病毒样本，Doctor Web 检测出 95.2%， Security Coverage PC Live 只检测出 84.35%，而微软自己的 Windows Live OneCare 和 ForeFront 则100%通过检测。 <br> <br>VB首席测试师 John Hawes 说，我们很失望地发现这么多杀毒软件在一些并不多么新的病毒面前束手无策，用户理当从他们的杀毒软件商那里获得更好的服务。随着 Vista SP1 的发布，我们看到 Vista 的用户数量在显著增长，杀毒软件商应当在这个新平台上推出更稳定的产品。 <br> <br>另有三种杀毒软件，出于未知的原因，甚至根本无法在 Vista 下运行，因而无法参与测试，其它参与测试的杀毒软件则勉强稳定运行，这些测试基于 SP1 之前的 Vista 版本。
+➜Epiphany 开始拥抱 Webkit
+https://www.solidot.org/story?sid=5776	1500
+<a href="mailto:darcsis@gmail.com">dhg</a> 写道 "愚人节那天 <a href="http://www.gnome.org/">Gnome</a> 的邮件列表上，<a href="http://www.gnome.org/projects/epiphany/">Epiphany</a> (Gnome 的网络浏览器) 的开发者<a href="http://mail.gnome.org/archives/epiphany-list/2008-April/msg00000.html">宣布</a> Epiphany 将向 <a href="http://webkit.org/">Webkit</a> (Safari 等浏览器的渲染引擎) 迁移，而逐渐放弃 <a href="http://wiki.mozilla.org/Gecko">Gecko</a> (Mozilla 的浏览器渲染引擎) 作为后端。但是，这显然不是一个愚人节玩笑。文中提到的一些原因：
+<i>Gecko 引擎开发周期太长。2005 年 Mozilla Firefox 1.5 使用 Gecko 1.8，到 Firefox 2.0 使用 Gecko 1.8.1。而 Geock 1.9 要到今年的某个时候才能释出。
+<br> Gecko 的开发动力主要来自 <a href="http://www.mozilla.com/en-US/firefox/">Firefox</a> 的进展，而 Firefox 浏览器是 Gnome 的 Epiphany 的主要竞争对手。
+<br> Gecko 提供的嵌入 API  (embedding API) 很长时间未更新了。
+<br> <a href="http://wiki.mozilla.org/Mozilla2:Home_Page">Mozilla 2.0</a> 给 Gecko 的 API 的稳定性带来不确定性。
+<br> 最后，缺乏足够的开发人员。
+</i>因此，Epiphany 最终决定将在 <a href="http://live.gnome.org/RoadMap">Gnome 2.24</a> 的开发周期中转而使用 Webkit 作为渲染引擎。"
+➜Yahoo! 拒绝微软的 "最后通牒"
+https://www.solidot.org/story?sid=5777	2400
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "针对前几日微软发出的 <a href="__SLASHLINK__" sect="mainpage" sid="08/04/06/0513211" sn="article" tid="32">"最后通牒"</a>, 雅虎将<a href="http://www.reuters.com/article/technologyNews/idUSSP22979320080407">再次予以了拒绝</a>. 拒绝的原因依旧是出价过低, 雅虎认为微软若想并购该公司至少每股需出价到 31 美圆才可接受."
+➜Unicode标准版本
+https://www.solidot.org/story?sid=5778	3300
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "Unicode开始于一个简单的目标：去统一无数种不同的<a href="http://www.yeeyan.com/articles/view/23493/6408">字符编码方法</a>，替换成一个简单的，全球统一标准，那些遗留下来的字符编码是不完整和不一致的：两种编码使用同样的内部编码表示不同的字符，使用不同的内部编码表示同样的字符，没有编码表示的一些小语种。文本数据在不同程序和平台之间转换时，就会有讹误的危险。"<i>
+过去程序通过“硬编码”去支持特别的编码，制作开发国际版本是昂贵的。对于公司和用户来说，产品投放在外国市场是高价和不令人满意的。发展中国家尤其困难，在支持小市场上行不通。他们被迫去使用特殊字体来代表任意字符。但是当字体无效时，内容将变得混乱。Unicode从根本上改变这种状况。现在对于所有文本，程序只需要一个唯一的表达来支持全世界的语言。程序结构能够容易地从程序代码中分离出来，提供了多语言RAD（快速开发工具）的基础。</i>
+➜汗液排泄管可当作测谎仪天线
+https://www.solidot.org/story?sid=5779	3600
+以色列的研究人员发现人体皮肤或许包含着数百万的微细天线，它们以极小的汗液排泄管的形式组成，这些天线可能会透露人的身体状态和反映情绪变动。<a href="http://technology.newscientist.com/channel/tech/dn13589-sweat-ducts-may-act-as-giveaway-antennas.html">这项发现将使未来能在远处操作的测谎仪成为可能</a>。在实验中，研究小组以100千兆赫的频率对测试目标发送定向无线电波，测量测试者皮肤反射的电磁波频率。最初测试是紧靠着测试者的手，以减少衍射效应。但是在22厘米的距离上，研究人员发现在测试者血压和脉搏频率之间有更强烈的相关性，和他们皮肤反射的频率。希伯来大学的<a href="http://aph.huji.ac.il/people/agranat/">Aharon Agranat</a>强调这项研究尚处于初步阶段。
+➜博客写手们感受到了报道的压力
+https://www.solidot.org/story?sid=5780	6120
+《纽约时报》报道，为了在信息时代同时满足消费者和广告商，<a href="http://www.nytimes.com/2008/04/06/technology/06sweat.html?em&amp;ex=1207627200&amp;en=69cf34c83a584d3f&amp;ei=5087%0A">多产的博客们已经感到了维护有稳定流量的内容的压力</a>。第一个发布爆炸性的消息会带来数以千计的页面浏览和点击，但许多博客发现他们已经和电脑锁在了一起，非常担心如果他们稍微离开就会错过某些重要的新闻。<i>
+“我还没死，”Michael Arrington说道，他是著名技术博客TechCrunch的创始人和编辑之一。这个网站带来了数百万美元的广告收入，但代价也不菲。Arrington表示过去3年他的体重已经增加了30磅，患上了严重的睡眠障碍，已经把家变成了他和其余4位员工的办公室。他说，“到某一点，我将会变得神经失常，需要上医院，或者发生其它什么事情。这不是很舒服的工作。”</i>
+➜可能是陨星把生命的种子带到了地球
+https://www.solidot.org/story?sid=5781	17100
+闪回到40亿年前，地球是一个炎热、干燥、无生命区。一片寂静，在没有预警的情况下，一颗流星以每小时超过1万英里的速度撞击了地面。这次猛烈的碰撞可能也将生命的种子带到了地球。美国化学协会的一次会议中，科学家拿出证据指出炎热的沙漠、少许水、加上陨星的冲击足以<a href="http://www.physorg.com/news126694357.html">创造生命形成的先决条件之一</a>。它们完全能酿造出“左手型”氨基酸，地球生命物质的“积木”。氨基酸链组成蛋白质，人类、植物以及地球上的所有生命形式身上都能发现蛋白质。 氨基酸有“左手型”和“右手型”两种，就像镜子里显示出的一模一样的手。这些氨基酸能在星际空间里形成，被小行星携带着穿越星空。起初左手型和右手型氨基酸的数量是等价的，但是当带有有机分子的太空石块遇到中子星后，光辐射可能会选择性的破坏其中一种氨基酸（有种理论说，来自中子星长驱直入的偏振光直接扭转了右旋氨基酸）。地球的生物体内主要是左手型氨基酸。
+➜时代周刊第一届年度博客评选
+https://www.solidot.org/story?sid=5782	19800
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.time.com/time/specials/2007/article/0,28804,1725323_1725329,00.html">时代周刊最近评选出 25 个最好的博客</a>，从政治，到全球时事，到体育，到购物，还包括几个大杂烩。            <div> <strong> <br>时代周刊评选25个最好的博客</strong> </div> <ol> <li> <a href="http://huffingtonpost.com/"> <strong>The Huffington Post</strong> </a> </li> <li> <a href="http://lifehacker.com/"> <strong>Lifehacker</strong> </a> </li> <li> <a href="http://www.metafilter.com/"> <strong>Metafilter</strong> </a> </li> <li> <a href="http://www.treehugger.com/"> <strong>TreeHugger</strong> </a> </li> <li> <a href="http://postsecret.blogspot.com/"> <strong>PostSecret</strong> </a> </li> <li> <a href="http://www.beppegrillo.it/english.php"> <strong>Blog di Beppe Grillo</strong> </a> </li> <li> <a href="http://engadget.com/"> <strong>Engadget</strong> </a> </li> <li> <a href="http://freakonomics.com/"> <strong>Freakonomics</strong> </a> </li> <li> <a href="http://www.gigazine.net/"> <strong>Gigazine</strong> </a> </li> <li> <a href="http://ace.mu.nu/"> <strong>Ace of Spades HQ</strong> </a> </li> <li> <a href="http://www.radosh.net/"> <strong>Radosh.net</strong> </a> </li> <li> <a href="http://gawker.com/"> <strong>Gawker</strong> </a> </li> <li> <a href="http://andrewsullivan.com/"> <strong>Andrew Sullivan</strong> </a> </li> <li> <a href="http://velveteenrabbi.blogs.com/"> <strong>Velveteen Rabbi</strong> </a> </li> <li> <a href="http://www.boingboing.net/"> <strong>Boing Boing</strong> </a> </li> <li> <a href="http://www.techcrunch.com/"> <strong>TechCrunch</strong> </a> </li> <li> <a href="http://2ohreally.wordpress.com/"> <strong>Web 2.Oh...really?</strong> </a> </li> <li> <a href="http://thesartorialist.blogspot.com/"> <strong>The Sartorialist</strong> </a> </li> <li> <a href="http://www.dailykos.com/"> <strong>Daily Kos</strong> </a> </li> <li> <a href="http://consumerist.com/"> <strong>The Consumerist</strong> </a> </li> <li> <a href="http://www.indexed.blogspot.com/"> <strong>Indexed</strong> </a> </li> <li> <a href="http://blog.wired.com/27bstroke6"> <strong>Threat Level</strong> </a> </li> <li> <a href="http://wibsite.com/wiblog/dull"> <strong>The Dullest Blog in the World</strong> </a> </li> <li> <a href="http://www.badjocks.com/"> <strong>Bad Jocks</strong> </a> </li> <li> <a href="http://reversecowgirlblog.blogspot.com/"> <strong>The Reverse Cowgirl</strong> </a> </li> </ol>
+➜自己动手造坦克
+https://www.solidot.org/story?sid=5783	21000
+Will Foster从来没为自己的第二辆车该停在哪里烦恼过，毕竟没人敢和一位驾驶着<a href="http://blog.mlive.com/flintjournal/newsnow/2008/04/post_moto_kid_death_story_here.html">一辆一半比例大小的坦克车</a>的家伙争论，更何况坦克上还装备能正常工作的大炮。<i>
+Will Foster是Kettering大学的学生，两年前他从无到有开始建造坦克。他的迷你坦克和小汽车差不多大，使用3缸柴油机，速度能达到每小时20英里。坦克上安装了一个可360度旋转的大炮，用水下呼吸器的压缩空气驱动。这辆坦克总共花了1万美元，Foster表示整个建造过程就是在反复的试验，“我买了一个200美元的零件但不能用，换成一个300美元的还是不行，最后用一个50美元的零件搞定了。”</i>
+<a href="http://www.youtube.com/watch?v=QH5eYCdheLw">坦克驾驶视频</a>
+➜单一DNA分子测序
+https://www.solidot.org/story?sid=5784	24300
+来自<a href="http://scipao.blogspot.com/2008/04/single-molecule-dna-sequencing.html">scipao的博客</a>：
+个人化医药时代将要来临，医学在处理人类的疾病会被复杂化成处理疾病、基因、药物与环境四者的关系——住在什么地方的人带有什么基因生什么病吃什么药。但首次有一件事需要做到，就是每个人的基因都要透明，如此才能有机会厘清与其他三者之间的关系。上周，同时有三个大型研究发表，扫瞄了所有受试者整个基因体上的基因序列变异跟肺癌的关系，结果找出会增加罹患肺癌风险的基因变异都落在第15对染色体上的某个位置上。这暗示着，将来一旦每个人的基因序列都是透明的，什么人有过什么病史，拿基因序列来比对统计一下，基因与疾病的关系也就跟着透明了，与药物跟环境的关系也是。
+<i>
+基因测序公司也紧锣密鼓力求降低测序成本以符合这个市场的需求，从一套几十万美金的价格看能不能降到一套一万美金的平民价格。上周五Helicos Biosciences发表在《Science》期刊的<a href="http://dx.doi.org/10.1126/science.1150427">单一DNA分子测序</a>技术看起来就很有这个潜力，虽然目前这个方法适用的每条DNA长度不能超过30个氮碱基，必需先把DNA切得碎碎的，再把小段的序列拼凑成完整的序列，但却省去了做PCR先复制DNA的步骤。同时，因为萤光侦测的灵敏度可以到达单一 DNA分子，它其实可以一次测定高达28000个DNA片段的序列。</i>
+据估算，如果用这个方法来做一个人的全基因测序大概需要八个礼拜，花费72000美金。但是当某人知道知道自己的基因没有潜在肺癌的风险时，旁人叫他少抽点烟他会有何反应？
+➜谷歌推出 Google App Engine
+https://www.solidot.org/story?sid=5785	26400
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "Google App 今日发布了 <a href="http://code.google.com/appengine/">Google App Engine</a>.
+<i>
+Google App Engine 是一个专为开发者而设的平台，目前支持 Python，Google 称以后会支持更多其它语言。Python 开发者现在可以完整的将编写的程序运行于 Google 的服务器里。
+</i>
+Google App Engine 目前是免费提供的，用户需要申请加入。"
+➜性格内向者如何使用即时聊天工具
+https://www.solidot.org/story?sid=5786	28200
+据说每个中国网民都有一个QQ，因此无论是平常聊天还是商业交流，你可能常常会听到同事或朋友问候“你有QQ号吗？”“加我”之类的话，作为一个有礼貌的文明人，你可能会告诉对方9位数号码，但会加上一句“我从不上线”。为什么？因为我们属于地球人口中25%至50%（这要看你怎么计算）的性格内向者。我们这群内向者心底里可能完全排斥IM，它与<a href="http://zh.wikipedia.org/w/index.php?title=%E5%A4%96%E5%90%91%E6%80%A7%E4%B8%8E%E5%86%85%E5%90%91%E6%80%A7&amp;variant=zh-hans">内向者的性格</a>是对立的：内向者一般是安静的、低调的、深思熟虑的，社交技能有点缺乏，习惯于在一个时间只专心于一个活动，并且通常是三思而后行。如何让痛恨IM的人也使用IM这种便捷的通讯工具，或者在爱恨之间架起一座桥梁？内向性格的Joe Kissell<a href="http://db.tidbits.com/article/9544">根据自己的经验提出许多宝贵的建议</a>，现在IM中的弱势一方的群体终于有人站出来发出令外向者不爽的声音。<i>
+“现在我能和你IM吗？<br>
+虽然理论上我不想被打扰，但当有急事时IM是一个完全可接受的工具。如果不能尽快联络可能会让你的同事或朋友误解。但显然大多数IM没有紧急聊天通道。我尝试使用<a href="http://www.apple.com/macosx/features/ichat/">iChat</a>(苹果的兼容Jabber协议的客户端)的安全特性允许或拒绝某个特定人的连接——例如仅让重要的同事看见我在线，这可以避免那些只想闲聊人的打扰，但我必须不定时手动更新上线情况，而工作中你常常会忘记。”</i>
+➜发现与太阳系非常酷似的行星系统
+https://www.solidot.org/story?sid=5787	30000
+天文学家发现了一个围绕一颗遥远恒星运行的<a href="http://news.bbc.co.uk/2/hi/science/nature/7333155.stm">行星系统与我们的太阳系非常酷似</a>。他们发现了两颗与木星和土星极其相配的行星，它们的恒星只有太阳的一半大。英国St Andrews大学的 Martin Dominik指出这项发现暗示酷似太阳系的行星系统比我们想象中的更为普遍，而类似的行星系统则可能存在与地球相似的行星。
+➜能自我复制的GNU开源3D打印机
+https://www.solidot.org/story?sid=5788	33600
+一位新西兰开源开发者正在研究能<a href="http://computerworld.co.nz/news.nsf/tech/2F5C3C5D68A380EDCC257423006E71CD">自我复制的3D打印机</a>，RepRap（代指Replicating Rapid-prototyper）将以GNU许可证发布。RepRap小组的核心成员、软件开发者和艺术家Olliver说，它能打印自己的零件，<a href="http://hardware.slashdot.org/article.pl?sid=08/04/07/210205">甚至可自我更新</a>。<i>
+3D打印机是一层层塑胶组件组成，塑胶的主要成分是聚乳酸(Polylactic acid，PLA)，是一种生物可降解聚合体，用乳酸进行聚合产生。技术是现成的，但商业机器非常昂贵。它们也不能复制自己，也不能被用户熟练操作。RepRap有着完成不同的创意。它的开发小组分布在新西兰、美国和英国，开发和分发他们设计的更便宜的机器，这些机器都具有自我复制的能力。Olliver说，任何人都可以制造这种机器，包括是发展中国家的小型团体，当然还有发达国家的人民。因此RepRap是分布式的，无成本，遵循GNU（General Public License）。</i>

@@ -1,0 +1,9 @@
+➜Linus Torvalds封杀了一名Red Hat的内核开发者
+https://www.solidot.org/story?sid=39028	43789
+Linus Torvalds在内核开发者邮件列表上<a target="_blank" href="http://lkml.iu.edu/hypermail/linux/kernel/1404.0/01331.html"><u>宣布</u></a>封杀一名Red Hat的内核开发者，<a target="_blank" href="http://linux.slashdot.org/story/14/04/04/1523231/linus-torvalds-suspends-key-linux-developer"><u>理由</u></a>是不想为他的代码“擦屁股”。Kay Sievers是一位知名的内核程序员，是systemd的关键开发者之一，然而他有一个不好的习惯是推卸责任，他递交的代码多次导致了内核问题，而他自己并不愿意去修正自己代码的问题，Torvalds表示在这种习惯改变前他不会向内核合并任何来自Kay的代码，他说“再说一遍，如果你导致了问题，你就应该去修正，而不是我想怎么做就怎么做”。
+➜中国搜索船探测到疑似黑匣子脉冲信号
+https://www.solidot.org/story?sid=39029	48737
+官方新华社<a target="_blank" href="http://www.nytimes.com/2014/04/06/world/asia/malaysia-airlines-plane.html?_r=0"><u>报道</u></a>，中国参与搜索马航失踪客机的海巡01周六在南纬25度、东经101度附近南印度洋海域侦听到频率37.5kHz每秒一次的脉冲信号。脉冲信号是否来自失踪的马航客机的黑盒子还有待<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/04/140405_mh370_search.shtml"><u>进一步鉴定</u></a>。黑盒子的电池可使用四周，而马航370客机已经失踪四周，它的电力预计将在下周耗尽。搜索失踪马航客机行动星期六继续进行，13架飞机和11艘船只在南印度洋参与搜索，其中两艘配有了美国海军的拖曳声波定位仪。
+➜P vs.NP问题与宇宙宏观量子效应的关系
+https://www.solidot.org/story?sid=39030	52821
+科学中的一大谜团是为什么我们无法观察到宏观的量子效应如量子叠加态。现在，一位以色列科学家将该问题<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/7ef5eea6fd7a"><u>与计算复杂性问题P vs.NP联系起来</u></a>（P指多项式时间，NP指非确定性多项式时间）。描述任何量子对象的方程式是<a target="_blank" href="http://en.wikipedia.org/wiki/Schrodingers_equation"><u>薛定谔方程</u></a>，物理学家相信它可以描述宇宙中的一切，包括宏观对象甚至宇宙本身。本古里安大学的Arkady Bolotin认为，用薛定谔方程描述宏观系统的一个隐含假设是方程能在合理的时间内计算出结果。这个隐含假设对于简单系统无疑是正确的，但计算复杂系统的量子属性是非常困难的。Bolotin提出一个假设：描述宏观系统的薛定谔方程没有办法在合理的时间内解出。他认为这是一个<a target="_blank" href="http://en.wikipedia.org/wiki/Np-hard"><u>NP-hard</u></a>问题。所有的NP-hard问题在数学上是等价的，如果P不等于NP，那么这就意味着宏观量子效应不可能存在，从而解释了为什么我们在现实世界中无法观察到量子叠加态。

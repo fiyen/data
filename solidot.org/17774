@@ -1,0 +1,45 @@
+➜Greg Kroah-Hartman 抨击英特尔在 Meltdown 和 Spectre 漏洞披露上的做法
+https://www.solidot.org/story?sid=57770	10663
+在本周举行的北美开源峰会上，Linux 稳定版内核维护者 Greg Kroah-Hartman <a href="http://www.eweek.com/security/linux-kernel-developer-criticizes-intel-for-meltdown-spectre-response" target="_blank"><u>抨击了</u></a>英特尔在 Meltdown 和 Spectre 漏洞披露上的做法。他说，Jann Horn 在 2017 年 7 月发现了漏洞，但直到 2017 年 10 月 25 日内核社区的少数人才听到漏洞传言，而他们能听到流言是因为有家大型操作系统开发商（推测是微软，微软的很多服务如今都运行在 Linux 上）施压英特尔向内核社区披露漏洞。英特尔直到今年 1 月 3 日才正式公布 Meltdown 和 Spectre 漏洞。Kroah-Hartman 说，英特尔向 Linux 发行版开发商 SUSE、Red Hat 和 Canonical 披露了漏洞，但没有告诉甲骨文也没有告诉流行的社区发行版 Debian，它禁止这些公司彼此交流信息。Linux 发行版开发商通常会在漏洞修复上进行合作，但这一次他们只能完全靠自己，因此每一家都提出了自己不同的修复方案。英特尔直到 2017 年 12 月的最后一周才允许内核社区交流信息，毁掉了内核开发者们的圣诞假期。他说，英特尔搞砸了这一切。Kroah-Hartman 表示英特尔在最近的漏洞披露上有了改进，如 Foreshadow 漏洞内核社区就提前收到了通知，因此社区能通过合作快速开发出补丁。
+➜美国司法部称哈佛大学使用“个人评分”歧视亚裔
+https://www.solidot.org/story?sid=57771	14168
+非营利组织 “大学生公平录取”（SFFA）起诉哈佛大学歧视亚裔申请者，招生时倾向于白人、黑人以及西语裔学生，而这些学生的考试成绩并不如亚裔学生。亚裔学生的录取机率低于白人，西语裔和非裔。现在美国司法部<a href="https://www.nytimes.com/2018/08/30/us/politics/asian-students-affirmative-action-harvard.html" target="_blank"><u>站在了原告这边</u></a>，称哈佛大学通过主观的“个人评分”伤害亚裔申请者。司法部部长 Jeff Sessions 在一份声明中称，作为税款的接收者，哈佛大学有责任确保其招生政策没有种族歧视。SFFA 称哈佛今天使用了与 1920 年代和 1930 年限制犹大申请者相同的招生歧视政策。哈佛则一直否认它歧视申请者。此案的庭审预订在 10 月进行。
+➜微软取消 Office 365 的设备安装数量限制
+https://www.solidot.org/story?sid=57772	14530
+微软正努力吸引传统 Office 用户转移到订阅模式，它<a href="https://tech.slashdot.org/story/18/08/30/221241/microsoft-removes-device-install-limits-for-office-365-subscribers" target="_blank"><u>宣布</u></a>取消 Office 365 的设备安装数量限制。订阅模式能给微软带来源源不断的收入，而旧的软件授权模式则是一次性付费。从 10 月 2 日起，Office 365 家庭版和个人版的订阅用户将不再限制设备安装数量。此前家庭版订阅用户限制为五名用户十台设备，现在家庭成员数量放宽到六名；个人版此前只能在安装在一台计算机和一部平板电脑上。不过微软仍然限制用户一次只能同时在五台设备上登录。用户将可以通过 Microsoft account 管理订阅。
+➜日本考虑禁止华为中兴的通信设备
+https://www.solidot.org/story?sid=57773	17717
+在美国和澳大利亚之后，日本也出于安全理由考虑在 5G 网络中<a href="https://www.computing.co.uk/ctg/news/3061878/now-japan-considers-ban-on-huawei-and-zte-networking-hardware" target="_blank"><u>禁止使用</u></a>华为和中兴的电信设备。上周，澳大利亚政府发表声明，“那些可能受制于外国政府法外指令的”供应商，将使其网络容易受到未经授权的访问或干预。虽然声明没有指明是哪家中国公司，但禁令针对的是华为和中兴。日本产经新闻称，政府最高层正在考虑类似澳大利亚的禁令，也就是不指明公司名字但在实际中排除华为和中兴。华为是世界上最大的移动网络基础设施供应商。
+➜电子竞技首秀亚运会
+https://www.solidot.org/story?sid=57774	19349
+电子竞技在亚运会<a href="https://www.bbc.com/zhongwen/simp/sports-45344946" target="_blank"><u>完成了国际性运动会首秀</u></a>，它距离真正的竞技体育，是否越来越近？2018 年，电子竞技（e-sports）第一次以表演项目的身份亮相雅加达亚运会；按照亚洲奥林匹克理事会的计划，四年之后它将在杭州亚运成为正式奖牌项目。在雅加达，职业电竞选手第一次以运动员身份站在国际综合性体育大赛的领奖台上。中国电竞队在 8 月 26 日率先进行的《Arena of Valor》（王者荣耀国际版）决赛中战胜中华台北队，夺得亚运电竞历史上的第一枚金牌；8 月 29 日的《英雄联盟》决赛，中国队又以 3 比 1 击败劲敌韩国队夺冠。国际奥委会（IOC）也已经开始考虑未来将电竞纳入奥运综合体育范畴的可能。
+➜Firefox 将屏蔽拖慢页面加载的脚本和跨站跟踪
+https://www.solidot.org/story?sid=57775	25211
+Mozilla <a href="https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/" target="_blank"><u>宣布</u></a> Firefox 将改变反跟踪的方法，默认屏蔽拖慢页面加载的脚本和跨站跟踪，同时提供选项给予用户更多的控制。Mozilla 称，Ghostery 的研究发现，网站页面加载所需的时间有 55.4% 是用在加载第三方跟踪脚本。如果用户的网速比较慢，加载问题将会更严重。Firefox Nightly 引入了屏蔽拖慢页面加载的脚本功能，如果该功能测试结果良好，那么 Firefox 63 将默认启用该功能。此外，Firefox 65 还将移除跨站跟踪。Mozilla 表示它会采取更多措施保护用户，屏蔽各种有害做法。
+➜人大通过个人所得税法草案
+https://www.solidot.org/story?sid=57776	27900
+中国<a href="http://www.npc.gov.cn/npc/cwhhy/13jcwh/node_35169.htm" target="_blank"><u>修改个人所得税法</u></a>的决定经十三届全国人大常委会第五次会议<a href="https://cn.reuters.com/article/people-daily-china-individual-income-tax-idCNKCS1LG0S2?il=0" target="_blank"><u>表决通过</u></a>，起征点确定为每月 5,000 元人民币，新个税法于 2019 年 1 月 1 日起施行，2018 年 10 月 1 日起施行最新起征点和税率。新个税法规定，居民个人的综合所得，以每一纳税年度的收入额减除费用六万元以及专项扣除、专项附加扣除和依法确定的其他扣除后的余额，为应纳税所得额。减税向中低收入倾斜。新个税法规定，历经此次修法，个税的部分税率级距进一步优化调整，扩大 3%、10%、20% 三档低税率的级距，缩小 25% 税率的级距，30%、35%、45% 三档较高税率级距不变。这是该法自 1980 年出台以来第七次修正。
+➜英国研究人员认为通勤时发工作电邮应算作工作
+https://www.solidot.org/story?sid=57777	28561
+英国研究人员<a href="https://www.bbc.com/news/education-45333270" target="_blank"><u>认为</u></a>，通勤者例行使用上下班时间发送和阅读工作电邮，这应算作是工作时间的一部分。西英格兰大学的研究发现，列车上的无线网络以及移动手机扩大了工作时间。研究调查了 5000 名通勤乘客，发现  54% 的人会使用无线网络发送工作电邮，其他人则使用他们手机连接访问工作邮件。这项发现引起了有关平衡工作和生活的疑问。如果通勤是工作的一部分，那么通勤时间是否也应该计算为工作时间。
+➜委内瑞拉的石油币无处可寻
+https://www.solidot.org/story?sid=57778	33573
+委内瑞拉今年初发行了国有加密数字货币石油币，承诺石油币有该国位于 Atapirire 地区的石油储备作为支持。它声称该地区蕴藏了 50 亿桶石油。但当地居民表示没有迹象显示他们居住的地方下面有石油。路透社<a href="https://www.reuters.com/article/us-cryptocurrency-venezuela-specialrepor/special-report-in-venezuela-new-cryptocurrency-is-nowhere-to-be-found-idUSKCN1LF15U" target="_blank"><u>花了四个月时间调查石油币</u></a>，咨询了数字货币和油田估值领域的专家，访问了 Atapirire 地区。结果发现石油币交易几乎不存在。这种数字货币不在任何大型交易所交易，也没有已知商店接受这种货币。总统马杜罗宣称石油币已经筹集到了 33 亿美元，正被用于支付进口。但参与该项目的内阁部长 Hugbel Roa 承认，石油币背后的技术还在开发之中，没有人能使用石油币。负责石油币的政府机构 Superintendence of Cryptoassets 在财政部没有实体存在点，它的网站也不能正常工作。
+➜GDPR 让欧洲新闻网站的第三方 cookie 数量减少了 22%
+https://www.solidot.org/story?sid=57779	36570
+欧洲数据保护法 GDPR 于 5 月25 日生效，它设计给予欧洲用户控制其数据的使用。根据  RISJ 的<a href="https://reutersinstitute.politics.ox.ac.uk/risj-review/third-party-cookies-down-22-europes-news-sites-gdpr?mod=djemCMOToday" target="_blank"><u>一项研究</u></a>，自 GDPR 生效以来，欧洲新闻网站的第三方 cookie 数量减少了 22%。研究人员分别在 4 月和 7 月跟踪了超过 200 个欧洲新闻网站上的第三方内容和 cookie，发现英国新闻网站的 cookie 数量减少幅度最大为 45%，德国减少幅度最小只有 6%。有第三方社交媒体内容的网站比例从 4 月的 84% 减少到 7 月的 77%。
+➜Adobe 下个版本的 Creative Cloud 停止支持旧版操作系统
+https://www.solidot.org/story?sid=57780	40980
+Adobe 切换到订阅模式没有影响到它的收入，虽然惹怒了少数用户。现在它正强迫用户升级到最新版的 Windows 10 和 Mac OS。Adobe 官方博客<a href="https://theblog.adobe.com/upcoming-changes-to-creative-cloud-os-support-for-windows-and-mac/" target="_blank"><u>宣布</u></a>，下个大版本的 Creative Cloud 将停止支持 Windows 8.1、Windows 10 v1511 和 v1607，以及Mac OS 10.11 (El Capitan)，理由是“为了利用最新操作系统的特性和技术”。如果你运行 Windows 8.1、Windows 10 v1511 和 v1607 或 Mac OS 10.11 (El Capitan)，可以继续运行和安装现有版本和旧版本的  Creative Cloud 应用，但如果没有升级到最新的 Windows 或 MacOS，你将无法安装下一个大版本的 Creative Cloud。
+➜推行 32 小时工作制的 CEO 表示后悔
+https://www.solidot.org/story?sid=57781	42740
+纽约时报上个月<a href="https://www.solidot.org/story?sid=57278" target="_blank"><u>报道称</u></a>，新西兰公司 Perpetual Guardian 今年三月和四月进行了一项试验，将每周工作时间从 40 小时减少至 32 小时，结果发现缩短工作时间实际上提升了 240 名员工的生产力；员工则表示他们有更多时间陪伴家人、锻炼、下厨，打理花园了。该公司表示将推行 4 天工作制。这家公司不是第一家这么做的，编程教育公司 Treehouse 的创始人和 CEO 在 2015 年宣布他的 87 名雇员将能享受一周工作 4 天。但他现在已经返回到了 5 天工作制，他<a href="https://www.businessinsider.nl/productivity-tips-four-day-workweek-2018-8/?international=true&amp;r=US" target="_blank"><u>解释说</u></a> 4 天工作创造了职业道德缺乏的问题。他没有<a href="https://news.ycombinator.com/item?id=17883289" target="_blank"><u>做出进一步的说明</u></a>。
+➜中国政府收紧游戏监管
+https://www.solidot.org/story?sid=57782	44884
+教育部发布的《<a href="http://www.moe.edu.cn/srcsite/A17/moe_943/s3285/201808/t20180830_346672.html" target="_blank"><u>综合防控儿童青少年近视实施方案</u></a>》透露了一个消息：已经因为监管部门重组而 5 个月没有批准新游戏的游戏行业还将面临更严厉的监管。《实施方案》称为了降低儿童近视率，需要各方面采取行动，其中家庭需要控制电子产品使用，学习目的的电子产品使用单次不宜超过 15 分钟，每天累计不宜超过 1 小时；学校需要“严禁学生将个人手机、平板电脑等电子产品带入课堂，带入学校的要进行统一保管”；国家新闻出版署则将实施网络游戏总量调控，控制新增网络游戏上网运营数量，探索符合国情的适龄提示制度，采取措施限制未成年人使用时间。这一消息公布之后，中国游戏巨头腾讯和网易的股价<a href="https://www.bloomberg.com/news/articles/2018-08-30/china-to-control-number-of-new-online-games-for-children-s-eyes" target="_blank"><u>重挫超过 5%</u></a>。
+➜AI 政策引发失业担忧
+https://www.solidot.org/story?sid=57783	46439
+政府智库——中国发展研究基金会和红杉中国的报告<a href="http://www.ftchinese.com/story/001079211" target="_blank"><u>显示</u></a>，中国出口制造业省份浙江、江苏和广东的几家公司在这三年内因自动化削减了 30% 至 40% 的劳动力。北京正在实施雄心勃勃的政策以升级制造技术。官方媒体对包括人工智能领域在内的政府发展目标的报道都集中在积极因素上。然而，有关当局悄然对此类政策导致的裁员表示了担忧。报告称，中国最知名的饮料品牌之一、总部位于杭州的娃哈哈在过去十年中将流水线工人人数从 200 至 300 人减少到最少只有几个人。中国人力资源和社会保障部表示，结构性失业的增加是低技术老年工人和受教育不足的年轻工人的供给，与需求向高技能人才转移不匹配的结果。许多工人由于缺乏教育而被自动化取代。
+➜为了治愈伤口成体细胞转变成胚胎细胞
+https://www.solidot.org/story?sid=57784	46891
+人体细胞的可塑性超出了许多人的想象。科学家发现了一种被称为“paligenosis”的新型伤口愈合，成体细胞恢复到了胚胎干细胞的状况，<a href="https://www.quantamagazine.org/in-paligenosis-adult-cells-turn-fetal-to-heal-wounds-20180829/" target="_blank"><u>再次利用胚胎干细胞快速增殖的能力</u></a>。胚胎始于单个细胞，然后分裂成两个、四个、八个，十六个...这是一个快速成长的过程。非特化细胞大量增殖构建出人体的所有组织。这些非特化的胚胎干细胞和胎儿干细胞逐渐特化，称为不同细胞谱系的前体，产生成体细胞如血细胞、神经细胞、肌肉细胞和肠细胞。到达成体细胞阶段后细胞的增殖程序静默了。但最新研究发现，这种增殖能力是有可能恢复的，受损的细胞将时钟拨会到了早期胚胎干细胞状态。

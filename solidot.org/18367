@@ -1,0 +1,37 @@
+➜GitHub 核心功能对所有开发者免费
+https://www.solidot.org/story?sid=64120	22292
+在私有库<a href="https://www.solidot.org/story?sid=59225"><u>免费</u></a>之后，GitHub 宣布其核心功能<a href="https://github.blog/2020-04-14-github-is-now-free-for-teams/"><u>对所有开发者免费</u></a>，私有库不再有限制，加入私有库的合作者数量也不再受限制。GitHub 同时宣布降低付费方案的<a href="https://github.com/pricing">金额</a>。团队开发者从每位用户每月 9 美元降至每月 4 美元。这一变更即时生效，现有付费用户将会看到账单金额自动减少。
+➜特朗普宣布美国将暂停资助 WHO
+https://www.solidot.org/story?sid=64121	23500
+美国总统特朗普在白宫的新闻发布会上<a href="https://cn.nytimes.com/morning-brief/20200415/coronavirus-briefing/" target="_blank">宣布</a>美国将暂停资助 WHO，并对该组织“严重管理不当和掩盖冠状病毒传播”的问题展开审查。特朗普对 WHO 的谴责主要集中在后者对中国旅行禁令的反对。他说，这个决定挽救了“成千上万人的生命”，而世卫组织“与我们作对”。特朗普称，世卫组织“捍卫了中国政府的行动，甚至对其所谓的透明度予以赞扬”。他指责该组织导致全球病例“增加了 20 倍”。他的决定引发了正反两方面的<a href="https://politics.slashdot.org/story/20/04/14/2316221/trump-halts-us-funding-for-world-health-organization-as-it-conducts-coronavirus-review"><u>争议</u></a>。
+➜能自我演化的机器学习算法
+https://www.solidot.org/story?sid=64122	28513
+研究人员<a href="http://news.sciencenet.cn/htmlnews/2020/4/438421.shtm">创造了一种新软件</a>，借用达尔文进化论“适者生存”等概念构建了人工智能程序，在没有人类输入的情况下，后者也能一代又一代地改进。这个程序在几天内重复了数十年来的人工智能研究，设计者认为，有一天它可能会带来人工智能的新方法。
+研究人员构建人工智能算法通常需要时间。以神经网络为例，这是一种常见的机器学习方法，用于翻译语言和驾驶汽车。这些网络能模仿大脑结构，并通过改变人工神经元之间的连接强度，进而从训练数据中学习。而更小的神经元亚回路能执行特定任务，例如识别路标，研究人员需要花几个月时间研究如何将它们连接起来，使其不间断工作。近年来，科学家通过使部分步骤自动化加快了这一过程。但这些程序仍然依赖于将人类设计的现成线路拼接在一起。这意味着产出仍然受到工程师的想象力和偏见的限制。Google 计算机科学家 Quoc Le 和同事开发了一个名为 <a href="https://arxiv.org/abs/2003.03384">AutoML-Zero</a> 的程序，这个程序可以只使用高中生都知道的基本数学概念，在零人为输入的情况下开发人工智能程序。
+➜微软新 Edge 对 Windows 7 的支持将于 2021 年 7 月结束
+https://www.solidot.org/story?sid=64123	28888
+微软最近正式发布的基于 Chromium 的新 Edge 浏览器除了支持竞争对手的平台如 macOS 外，还支持今年一月结束支持的 Windows 7。微软现在<a href="https://docs.microsoft.com/en-us/deployedge/microsoft-edge-supported-operating-systems"><u>更新了官方文档</u></a>，透露新 Edge 对 Windows 7 和 Windows Server 2008 R2 的支持将于 2021 年 7 月 15 日结束。微软称，这些操作系统已经结束支持，它推荐用户升级到支持的版本如 Windows 10。软件巨人表示它的浏览器能保护用户的 Web 安全，但操作系统本身在停止支持之后是存在安全风险的，除非用户付费获得 Windows 7 的扩展安全更新。
+➜AMD 发布三款高频 EPYC 处理器，其中 7F52 的 L3 缓存高达 256 MB
+https://www.solidot.org/story?sid=64125	31495
+AMD 发布了三款第二代 EPYC 处理器的高频型号，并制定了特别的价格：24核/48线的 EPYC 7F72 售价 2450 美元，L3 缓存 192 MB，基频 3.20 GHz，最高 3.70 GHz，功耗 240 W；16核/32线的 EPYC 7F52 售价 3100 美元，L3 缓存 256 MB，基频 3.50 GHz，最高 3.90 GHz，功耗 250 W；8核/16线的 EPYC 7F32 售价 2100 美元，L3 缓存 128 MB，基频 3.70 GHz，最高 3.90 GHz，功耗 180 W。型号中的 F 代表高频 High Frequency，这些企业级处理器是为需要高频的场景设计的，其中 16 核的 EPYC 7F52 最贵，这可能会令人感到困惑。为了提高性能，增加每个核心的缓存，这个 16 核处理器事实上是 64 核处理器进行特制而来，其中 75% 的核心关闭了，确保每个核心能拥有惊人 16MB L3 缓存。主要科技网站都发布了<a href="https://www.anandtech.com/show/15715/amds-new-epyc-7f52-reviewed-the-f-is-for-frequency"><u>评测</u></a>，主要针对的是 EPYC 7F52。Phoronix 也<a href="https://www.phoronix.com/scan.php?page=article&amp;item=amd-epyc-7f52&amp;num=1" target="_blank"><u>测试了</u></a>它在 Linux 平台的性能。
+➜软银投资亏损 240 亿美元
+https://www.solidot.org/story?sid=64126	42052
+日本软银集团去年的投资亏损<a href="https://techcrunch.com/2020/04/13/softbank-expects-24-billion-in-losses-from-vision-fund-wework-and-oneweb-investments/">高达 240 亿美元</a>。软银发布了<a href="https://china.kyodonews.net/news/2020/04/5c7410ca46c4-20197500.html" target="_blank">亏损预警</a>，它预计 2019 财年（ 2019 年 4 月至 2020 年 3 月）合并净利润转为亏损 7500 亿日元（约 70 亿美元）。软银上次出现亏损是在 15 年前的 2004 财年，此次亏损额创新高。由于其投资的企业业绩不振，投资业务方面列入巨额损失。新冠疫情蔓延导致全球股市恶化也造成了影响。它的旗下基金“软银愿景基金”产生 1.8 万亿日元的投资损失，其投资公司 OneWeb 因新冠疫情蔓延导致资金筹措困难于 3 月底经营破产，运营联合办公平台WeWork 的美国企业 We Company 陷入经营恶化。软银<a href="http://cn.nikkei.com/industry/itelectric-appliance/40173-2020-04-14-09-40-03.html">表示</a>今后将保守地运营业务，暂停新投资，它预计通过出售阿里巴巴集团股权等筹集 4.5 万亿日元。
+➜新冠病毒能在高温下生存
+https://www.solidot.org/story?sid=64127	43215
+根据法国科学家的一项实验，<a href="https://www.scmp.com/news/china/science/article/3079831/coronavirus-can-survive-long-exposure-high-temperature-threat">新冠病毒能在高温下生存</a>。 Aix-Marseille 大学的 Remi Charrel 教授和同事在 60 摄氏度下加热  Covid-19 病毒一小时，结果部分病毒株仍然能够复制。科学家必须加热到接近沸点才能完全杀死病毒。他们的研究报告发表在预印本网站 bioRxiv.org 上。研究人员在论文中称，加热的过程导致了病毒传染性的显著下降，但足够多的活跃病毒株能启动新一轮的传染。法国科学家称，将病毒加热到 92 摄氏度能使其完全失活。
+➜Pandownload 作者被抓
+https://www.solidot.org/story?sid=64128	48023
+根据扬州网警巡查执法一篇已经删除的<a href="https://m.weibo.cn/detail/4494022490302408?sudaref=t.co&amp;display=0&amp;retcode=6102">微博</a>（原因未知），百度网盘工具 Pandownload 的作者被抓。目前 Pandownload 官网  pandownload.com 已经无法访问（<a href="https://webcache.googleusercontent.com/search?q=cache:g4TCzgAbIwkJ:https://pandownload.com/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=in&amp;client=firefox-b-d">快照</a>）。微博称，“今年 2 月，受害人刘某报案称其下载的“Pandownload”软件会在未授权的情况下，将自己百度网盘的数据共享出去，导致隐私照片和文件泄露。宝应县局网安民警立即开展案情分析研判，研习法律条文，解剖软件结构。面对满屏的数据，一盯就是几个小时。经过梳理，警方发现该软件可以以非会员权限突破百度网盘官方设定，实现高速下载，系侵入、非法控制计算机信息系统的程序、工具，并且该软件的使用者达到数万人，致使北京百度网讯科技有限公司（“百度公司”）损失高达上千万元。”
+➜Stephen Wolfram 称找到了物理学基础理论的途径
+https://www.solidot.org/story?sid=64129	50525
+Wolfram Research 创始人、Mathematica 软件的创作者、数学家/物理学家 Stephen Wolfram 发表<a href="https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/"><u>博文</u></a>，宣称找到了通往物理学基础理论的途径。Wolfram 称，1980 年代初他开始研究简单程序产生的计算宇宙时得到了一个惊人而重要的发现：即使一个系统的底层规则十分简单，总体上的系统行为能任意的丰富而复杂。这促使他思考：宇宙是不是也是以此方式工作的？我们在物理中所看到的丰富性和复杂性其底层是否是简单的规则。他因此写下了 100 页的《一种新科学》。现在，在年轻物理学家的督促下，他再次发表了 448 页的<a href="https://www.wolframphysics.org/technical-introduction/" target="_blank">技术论文</a>，描述了我们宇宙的物理属性从简单通用可计算的规则产生出来。Wolfram 表示这些属性与相对论和量子理论一致。其他人<a href="https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/"><u>认为</u></a>他的理论和弦论一样难以验证。
+➜九省市启动新冠病毒血清流行病学调查
+https://www.solidot.org/story?sid=64130	53296
+中国在武汉、北京、上海、重庆，以及辽宁、江苏和浙江、广东和四川这 9 个不同地区启动针对新型冠状病毒的大规模<a href="http://www.ftchinese.com/story/001087246">流行病学调查</a>。这项调查将是全球首个覆盖地域如此之广的调查，尽管目前尚不清楚接受检测的总人数。全世界的流行病学家一直呼吁进行随机抽样调查，以便能对新冠病毒的传播得到更全面的认识——目前各国的治疗方案还无法提供这种认知，因为可能只有一小部分感染人群到过医院接受检测。这项调查将包括采集咽拭子进行病毒检测，并用抗体检测来确定居民体内是否已经产生抗体。武汉将在 1100 万居民中抽选 1.1 万人进行调查，并计划于本周四完成采样。
+➜微软修补了三个正被利用的 0day 漏洞
+https://www.solidot.org/story?sid=64131	53405
+在本周二释出的例行更新中，微软<a href="https://arstechnica.com/information-technology/2020/04/4-windows-0days-under-active-exploit-get-fixes-in-this-months-update-tuesday/"><u>修补了</u></a>三个正被利用执行恶意代码或提权的 0day 漏洞。其中两个 <a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1020">CVE-2020-1020</a> 和 <a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0938" target="_blank">CVE-2020-0938</a> 存在于 Adobe Type Manager Library 中，在非 Windows 10 系统中，成功利用漏洞的攻击者能远程执行代码；在 Windows 10 中，攻击者能在 AppContainer 沙盒中运行代码，虽然权限有限制，但仍然能创建账号，使用完整的用户权限安装程序，浏览、修改或删除数据。另一个 0day 漏洞  CVE-2020-1027，利用了 Windows 内核处理内存对象的漏洞进行提权。微软未提供利用漏洞进行攻击的细节。
+➜Google 开发自己的手机芯片
+https://www.solidot.org/story?sid=64132	54053
+媒体<a href="https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html">报道称</a>，Google 在自研 Pixel 手机芯片方面取得了重大进展。它自己设计的 SoC 预计最快明年发布。该项目代号为 Whitechapel，Google 的合作伙伴是三星。Google SoC 为 8 核 ARM 处理器，硬件上对 Google 的机器学习技术进行了优化，能让 Google Assistant 始终在线。芯片可能使用三星的 5 纳米工艺制造。除了被 Pixel 手机使用外，它还可能被 Chromebook 笔记本电脑使用。Google 手机使用过自研芯片，不是系统 SoC 而是被称为 Pixel Visual Core 和 Neural Core 的相机芯片。

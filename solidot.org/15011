@@ -1,0 +1,41 @@
+➜Google一主管可能被埃及逮捕
+https://www.solidot.org/story?sid=22372	4680
+o_O 写道<i> "半岛电视台一段视频显示失踪的Google中东及北非地区市场主管<a href="http://latimesblogs.latimes.com/babylonbeyond/2011/02/egypt-footage-of-google-exec-being-detained.html">Wael Ghonim</a>可能被埃及便衣逮捕。这段<a href="http://www.youtube.com/watch?v=mYShuvVVLDs&amp;feature=player_embedded">视
+频</a>(Youtube)上四个便衣盯住一群年轻人，并将其中一个很像Ghonim的人抓走。Ghonim失踪已经超过一周。半岛工作人员说他们不能确定此人是不是Ghonim，但此人在众人前被捕，旁观者不能或不愿插手，这说明了埃及现状。"</i>
+CBS<a href="http://www.cbsnews.com/8301-503543_162-20030485-503543.html">报导</a>，Wael Ghonim被象征性的任命为示威者的发言人。《华尔街日报》<a href="http://cn.wsj.com/gb/20110207/baf112044.asp">报道</a>称埃及将在周二释放Ghonim。
+➜Debian 6.0“Squeeze”发布
+https://www.solidot.org/story?sid=22373	5520
+历经两年时间开发，Debian项目正式发布了<a href="http://www.debian.org/News/2011/20110205a">最新的v6.0稳定版</a>，代号“Squeeze”。Debian 6.0首次包含Linux和BSD两个内核版本：Debian GNU/Linux和Debian GNU/kFreeBSD，后者是以技术预览版名义引入。<i>
+Debian 6.0更新了超过1000个软件包，加入了Chromium浏览器，监视工具Icinga，包管理前端Software Center，网络管理工具wicd，Linux容器工具lxc，集群框架Corosync，简化了安装进程，支持ext4和Btrfs文件系统，kFreeBSD支持ZFS，Debian GNU/Linux支持70种语言。软件方面的更新包括：KDE Plasma Workspaces和KDE Applications 4.4.5，GNOME 2.30，Xfce 4.6，LXDE 0.5.0，X.Org 7.5，OpenOffice.org 3.2.1，GIMP 2.6.11，Iceweasel 3.5.16（移除商标的Firefox），Icedove 3.0.11（移除商标的Thunderbird），PostgreSQL 8.4.6，MySQL 5.1.49，GNU Compiler Collection 4.4.5，Linux 2.6.32，Apache 2.2.16，Samba 3.5.6，Python 2.6.6、2.5.5和3.1.3，Perl 5.10.1，PHP 5.3.3，Asterisk 1.6.2.9，Nagios 3.2.3，Xen Hypervisor 4.0.1，OpenJDK 6b18，Tomcat 6.0.18等。</i>
+下载：<a href="http://www.debian.org/CD/torrent-cd/">BitTorrent</a> ，
+<a href="http://www.debian.org/CD/jigdo-cd/#which">jigdo</a>，
+<a href="http://www.debian.org/CD/http-ftp/">HTTP</a>。
+➜六款优秀的Linux字典工具
+https://www.solidot.org/story?sid=22374	15360
+<a href="mailto:alanf5gg@gmail.com">Alan Simpson</a> 写道 <i>"一类较少被人关注的计算机软件是字典。字典软件似乎不是特别有趣，但却是作家和学生的重要工具。如果你在学习一门新语言，或者想查下一个单词或短语的意思，一个好的字典软件是十分有用的。很多人查字典主要是想检查拼写是否正确，然而如今大量的软件都内内置了拼写检查功能。因此优秀的字典软件所包含的功能远远超过了简单的拼写检查，它们实际上能帮助改变写作方式。Linuxlinks的这篇文章收集了<a href="http://www.linuxlinks.com/article/20110205121007140/DictionaryTools.html">六款优秀的Linux字典工具</a>，它们的功能都十分丰富。这些软件包括：支持多种字典文件格式的<a href="http://goldendict.org/">GoldenDict</a>，<a href="http://elementary-project.com/news/">Purple</a>，<a href="http://stardict.sourceforge.net/">StarDict</a>，<a href="http://www.dict.org/">dict</a>，<a href="http://artha.sourceforge.net/">Artha</a>，等等。</i>
+➜美国政府推动穿墙工具开发
+https://www.solidot.org/story?sid=22375	19680
+美国政府的<a href="http://en.wikipedia.org/wiki/Broadcasting_Board_of_Governors">广播理事会</a>（BBG）在非营利组织GovernmentAttic根据信息自由法的要求下了公布了<a href="http://www.governmentattic.org/4docs/BBG-FOE-test_2010.pdf">官方报告</a>(PDF)，披露了帮助中国网民穿越防火长城的反审查系统Feed Over Email(F.O.E)的<a href="http://yro.slashdot.org/story/11/02/05/2036208/US-Govt-Pushing-News-Through-Chinas-Great-Firewall">内测情况</a>。<i>
+BBG的报告称，FOE系统运行良好，然而这项技术显然对类似埃及的断网情况无能为力。测试显示，至少在中国，FOE能有效的传输RSS feed、可下载文件、代理服务器网址等帮助用户获得浏览无审查网络的体验。<a href="http://code.google.com/p/foe-project/">FOE项目</a>由BBG的IT专家Sho Ho设计，托管在Google Code上，采用了GPLv3许可证。它采用的压缩和编码让普通的关键词过滤无法拦截。BBG的信息安全主管Ken Berman表示，FOE技术未来可以成为互联网反审查程序的一部分。FOE技术需要用户注册由外国供应商如Gmail提供的邮件，它可以向伊朗或中国的用户提供VOA或China Weekly的新闻源，以及匿名工具如Tor。</i>
+➜Mozilla宣布Game On比赛获胜者
+https://www.solidot.org/story?sid=22376	20880
+Mozilla宣布了Game On比赛的<a href="http://mozillalabs.com/gaming/2011/02/03/game-on-winners/">获胜者</a>，这项比赛的目的是鼓励开发基于Web技术的游戏。<i>
+最佳技术奖由太空多人游戏<a href="https://gaming.mozillalabs.com/games/133/far-7">Far 7</a>摘取；Fi和Google Chrome团队合作开发的<a href="http://sketch-out.appspot.com/">Sketchout</a>获最佳艺术奖；利用网站图标的<a href="https://gaming.mozillalabs.com/games/72/favimon">Favimon</a>获最佳创意奖；斯诺克台球多人游戏<a href="https://gaming.mozillalabs.com/games/148/websnooker">Websnooker</a>获最华丽奖；<a href="https://gaming.mozillalabs.com/games/149/robots-are-people-too">Robots Are People Too</a>获最好玩奖；<a href="https://gaming.mozillalabs.com/games/126/z-type">Z-Type</a>获社区选择奖；大奖由<a href="https://gaming.mozillalabs.com/games/130/marble-run">Marble Run</a>获得。</i>
+➜佩林试图注册自己名字为商标
+https://www.solidot.org/story?sid=22377	30960
+前阿拉斯加州州长、2008年共和党副总统候选人佩林，<a href="http://politics.slashdot.org/story/11/02/05/0013253/Sarah-Palin-Seeks-To-Trademark-Her-Name">已向美国专利和商标局递交文书申请注册其名字</a>。<i>
+佩林在申请中列出的商标使用范围包括政治信息网站，以及教育和娱乐服务等。法律专家称，政客注册商标极其少见，因为政客的名字一般与具有商业价值的产品没有联系，而将名字注册为商标常见于娱乐业、时装或运动行业的明星。</i>
+➜比尔盖茨称反疫苗运动是在屠杀儿童
+https://www.solidot.org/story?sid=22378	42480
+CNN<a href="http://edition.cnn.com/2011/HEALTH/02/03/gupta.gates.vaccines.world.health/index.html?hpt=C2">采访了</a>出席达沃斯经济论坛的慈善家比尔盖茨，微软创始人声称在发明新的疫苗和向需要的儿童提供疫苗方面取得了惊人的进步。疫苗的进步将能使儿童每年的死亡数目从900万减少一半。盖茨严厉批评了反疫苗行动，尤其是Andrew Wakefield用错误数据<a href="__SLASHLINK__" sect="science" sid="10/02/03/1547241" sn="article" tid="6">证明疫苗与孤独症有联系</a>，盖茨说谎言杀死了数以千计没有注射麻疹疫苗的儿童。
+➜疑似大使馆汽车冲撞开罗平民
+https://www.solidot.org/story?sid=22379	46800
+YouTube在2月3日<a href="http://www.youtube.com/watch?v=_cWOK0Lfh7w&amp;skipcontrinter=1">公布</a>（<a href="http://www.dailymotion.com/video/xgvr3j_the-diplomatic-car-that-ran-over-20-people-in-cairo_news">Dailymotion</a>，注：暴力视频）了一则录像，上传者声称1月28日晚上8:30，一辆大使馆汽车疯狂冲撞开罗示威人群，导致至少20受伤或死亡。squarefw 称此事“与某国几十年前某事件如出一辙，只不过车种不同。网上许多人都指出这是美国大使馆的车辆。”但目前没有证据证明汽车来自美国大使馆，发布者称该地区有很多使馆，包括英国、美国和加拿大的使馆。
+➜中国有意强化网络舆论管理
+https://www.solidot.org/story?sid=22380	47400
+《联合早报》<a href="http://www.zaobao.com/zg/zg110206_001.shtml">报导</a>，官方媒体新华社和<a href="__SLASHLINK__" sect="internet" sid="11/02/01/1047218" sn="article" tid="67">人民日报</a>最近发表了多篇文章表示要警惕网络舆论被误导，显示官方有意进一步加强网络监管。<i>
+有关报道引述多名学者对强化网络舆论管理提出的意见，如中国传媒大学网络舆情研究所副所长杨飞则认为，应运用ID分级机制，对经常发表网络信息并通过历史检验为真实信息的作者，评定为高级；对初次发表信息或匿名发表信息的作者，评定为低级。通过ID分级，实现对读者和跟帖者的提示，形成对信息的过滤网，同时也可以提高网络信息的可信度。中央民族大学文学与新闻传播学院教授张志说，发布虚假信息者，无论其行为是否造成后果，都应该承担相应的法律责任，而网络服务提供者如果为散布谣言者提供服务，应该承担连带责任。</i>
+➜大脑受电流刺激能让思考与众不同
+https://www.solidot.org/story?sid=22381	48960
+如何让想法变得与众不同？根据发表在开放获取期刊PLoS ONE上的<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0016655">研究报告</a>，<a href="http://arstechnica.com/science/news/2011/02/electrical-current-to-the-brain-can-get-people-to-think-different.ars">用电流刺激一下大脑前颞叶</a>。<i>
+按同样的思路思考在多数情况下相当有用，但特殊情况下可能并不适用，因此此时我们必须寻找不同的思路。研究人士设计了基于数学方程式的心理测试，其中1类问题可用常规方法解决，2类和3类问题需要不同的方法，在测试中，未受电刺激的对照组中只有20%能解开2类问题，而受到经颅直流电刺激的受试者中有60%能解开2类问题；对3类问题，则是45%对85%。逆转电流方向与不受电刺激在统计学上没有差异。</i>

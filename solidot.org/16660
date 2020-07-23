@@ -1,0 +1,55 @@
+➜天津港发生连环爆炸，17人死亡数百人受伤
+https://www.solidot.org/story?sid=45117	9114
+官方媒体<a target="_blank" href="http://china.caixin.com/2015/explosive/index.html"><u>报道</u></a>，2015年8月12日晚23时34分左右，天津滨海新区一处危险品物流仓库发生<a target="_blank" href="https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E6%96%B0%E5%8C%BA%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6"><u>爆炸事故</u></a>，随后引起周围多家工厂更强烈的二次爆炸，中国地震台网速报显示，第一次爆炸发生在8月12日23时34分6秒，近震震级约2.3级，相当于3吨TNT，第二次爆炸在30秒种后，近震震级约2.9级，相当于21吨TNT。截至8月13日8时13分，已造成17人死亡，32人伤势危重，283人入院观察治疗。发生爆炸的仓库属于瑞海国际物流有限公司，在消防队灭火过程中发生了第二次爆炸，有多名消防队员死亡。
+➜联想释出BIOS更新移除该公司的Lenovo Service Engine
+https://www.solidot.org/story?sid=45118	11563
+<div align="center"><img src="http://img.solidot.com.cn/0/887/liloMIy3CGkoY.png" align=""><br>
+<br>
+</div>
+联想电脑的BIOS<a target="_blank" href="http://www.solidot.org/story?sid=45099"><u>被发现</u></a>会向干净安装的Windows系统安装联想软件，并会在首次联网时访问该公司的一个网址。8月11日，联想发表<a target="_blank" href="http://news.lenovo.com/article_display.cfm?article_id=2013"><u>官方声明</u></a>，称该公司是在今年4月到5月之间为部分消费者品牌电脑（包括<a target="_blank" href="https://support.lenovo.com/us/en/product_security/lse_bios_desktop"><u>台式机</u></a>和<a target="_blank" href="https://support.lenovo.com/us/en/product_security/lse_bios_notebook"><u>笔记本</u></a>）引入了名为 Lenovo Service Engine的BIOS固件，该固件是基于微软的<a target="_blank" href="http://download.microsoft.com/download/8/A/2/8A2FB72D-9B96-4E2D-A559-4A27CF905A80/windows-platform-binary-table.docx"><u> Windows Platform Binary Table</u></a>（docx）机制，已被安全研究人员发现存在安全隐患，而微软最近更新了WPBT安全指南，LSE固件不符合新的安全指南。联想称它已经释出了新的固件和移除LSE功能的工具（<a target="_blank" href="http://support.lenovo.com/us/en/downloads/ds104370"><u>Lenovo LSE Windows Disabler Tool</u></a>），它建议用户立即更新（或如图所示在BIOS中关闭LSE）。联想称商用电脑品牌如Thinkpad不受影响，表示它并没有收集用户个人信息。
+➜复制NSA的间谍工具
+https://www.solidot.org/story?sid=45119	15181
+无论是NSA还是中国黑客，BIOS固件都是植入后门的最佳工具，因为后门可以在系统的重复安装中存活下来。NSA的机密文件显示，它修改了不同厂商的硬件固件，其中包括思科和华为。为NSA实施网络攻击的部门是 Tailored Access Operations（TAO）。公开的机密文件披露了TAO创造的许多间谍工具。硬件黑客和安全研究人员好奇是否能根据文件的描述复制出这些间谍工具。安全研究人员、射频硬件工程师 Michael Ossmann发起了<a target="_blank" href="http://www.nsaplayset.org/"><u>NSA Playset</u></a>项目，再现这些间谍工具。他在DEF CON 23安全会议上<a target="_blank" href="http://arstechnica.com/information-technology/2015/08/the-nsa-playset-espionage-tools-for-the-rest-of-us/"><u>谈论了这些工具</u></a>。
+➜当加密的手机影响警方调查
+https://www.solidot.org/story?sid=45120	16597
+今年6月，一名男子被人枪杀，现场留下了两部手机——一部是苹果的iPhone 6，一部是三星的Galaxy S6 Edg（运行Google的Android）。两部手机都有密码保护。法官向苹果和 Google发出搜查令，命令两家公司解锁手机和警方分享数据以破解这起谋杀案。 Apple 和Google表示无能为力，因为他们不知道用户的密码。这起案件仍然悬而未决，而凶手依旧在逃。随着越来越多的手机采用全盘加密，警方发现他们的调查遭到强加密的阻挠。从去年10月到今年6月，曼哈顿检方的调查人员无法访问74部运行 iOS 8的iPhone手机。美国、法国和英国的执法人员联合在《纽约时报》上发布评论文章，声称手机的强加密<a target="_blank" href="http://www.nytimes.com/2015/08/12/opinion/apple-google-when-phone-encryption-blocks-justice.html?_r=0"><u>增加了保护人民遏制犯罪的难度</u></a>。<br>
+➜联想裁员3200人
+https://www.solidot.org/story?sid=45121	18675
+在公布不如人意的最新财报之后，联想<a target="_blank" href="http://cn.wsj.com/gb/20150813/tec100640.asp"><u>宣布</u></a>将把非生产制造岗位裁撤10%。联想是全球第一大PC制造商，它还在努力整合去年收购的摩托罗拉移动和IBM x86服务器业务。市场研究公司IDC的数据显示，第二季度全球PC市场收缩了11.8%，而中国智能手机市场也已经饱和，今年出现六年来的首次收缩。数据显示，第二季度联想的智能手机发货量在全球同行中位居第五，市场份额为4.5%，而第一季度时联想位列第三。另外两家中国企业华为与小米当季的发货量均超过了联想。
+➜即使你说了不要，Windows 10还是忍不住联系微软
+https://www.solidot.org/story?sid=45122	26889
+Windows 10中有很多功能都需要联网，微软也提供了一些方法让你关闭联网功能。然而，即使你说了不要，Windows 10还是会<a target="_blank" href="http://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/"><u>忍不住访问微软服务器</u></a>。举例来说，即使你禁用了 Cortana和开始菜单的Web搜索，在开始搜索框打字时系统会向 www.bing.com 发出请求，请求名叫threshold.appcache的文件，其中包含了Cortana的信息。电脑连接到一个新网络时，机器会发出两个请求——www.msftncsi.com/ncsi.txt和ipv6.msftncsi.com/ncsi.txt，前者是IPv4，后者是IPv6。即使开始菜单没有固定实时磁贴， Windows 10还是会从MSN下载新磁贴信息，使用的连接是未加密的 HTTP。Windows 10还会定期访问微软服务器 ssw.live.com。最值得注意的是，即使你配置了代理，Windows 10会绕过代理发出请求。<br>
+➜为解决干旱洛杉矶向水库倾倒千万黑色塑料球
+https://www.solidot.org/story?sid=45123	28117
+<center>
+<iframe src="https://www.youtube.com/embed/lqhF2JpZBVs" allowfullscreen="" frameborder="0" height="262" width="442"></iframe><br>
+<br>
+</center>
+洛杉矶市市长LA<span style="line-height: 1.5em;">&nbsp;Eric Garcetti</span>本周帮助向水库倾倒了9600万黑色小塑料球。洛杉矶以及其所在的加州过去几年一直受到干旱的困挠，而黑色小塑料球是该市为改善干旱而采用的一种创新方法。为什么黑色小塑料球<a target="_blank" href="http://www.sciencealert.com/la-is-dumping-millions-of-small-plastic-balls-into-its-reservoir-to-tackle-the-drought?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencealert-latestnews+%28ScienceAlert-Latest%29"><u>可以帮助解决干旱</u></a>？因为它可以有效的保持水源干净，避免宝贵的水蒸发。其中最主要的是保持水源干净。在水库，自然存在的溴化物会与阳光和氯发生反应，产生有害的溴酸致癌物。塑料球可以阻止这种有害化学反应的大规模发生。
+➜文化部勒令在25日前清除“禁歌”
+https://www.solidot.org/story?sid=45124	29552
+文化部公布了120首禁歌，随后在中国网络上搜索这些歌曲多会返回404错误（找不到），但YouTube等境外网站不受中国管制，这些禁歌仍然存在。文化部<a target="_blank" href="http://www.nanzao.com/sc/national/14f25497ae07a06/120-hei-ming-dan-ge-25-hao-qian-xu-quan-shan-chu-zhi-zuo-ren-kou-shui-shen-qu-rang-yin-le-ren-shi-zun-yan"><u>现在又明确</u></a>，上榜禁歌必须在8月25日之前全部删除，否则将被从严查处，并向社会公布。当局禁止歌舞娱乐场所点播系统提供禁歌；禁止营业性演出活动表演违规音乐；禁止互联网上网服务营业场所下载、复制、发布、传播违规产品及视频；禁止音像制品、电子出版物含有有关内容。换言之，卡拉OK不能点唱“黑名单”歌曲，酒吧也不可以表演，音乐网站当然也不可以提供。<br>
+➜动物保护组织想要终止所有猫狗研究
+https://www.solidot.org/story?sid=45125	31943
+动物保护组织采用众包方法试图终止所有猫和狗的研究和实验。洛杉矶的动物保护组织Beagle Freedom Project（BFP）今年三月份发起了Identity Campaign运动，鼓励访问该网站的公众“领养”网站列出来的1200只猫和狗中的一个，BFP向他们寄去自由信息法请求表格，请求公众填写表格，然后寄给相关研究机构，要求回答与猫和狗有关的健康报告和验尸报告。公众收集的信息将转发给BFP，BFP会据此创建一个猫猫狗狗的传记网页，作为一种方法去鼓励更多公众向大学研究机构施压释放动物终止研究。BFP的协调员Jeremy Beckham说，这是动物保护机构第一次运用众包自由信息法请求。<a target="_blank" href="http://news.sciencemag.org/policy/2015/08/animal-advocacy-group-targets-cat-and-dog-research-using-novel-crowdsourcing-campaign"><u>有科学家认为这是一种恐吓</u></a>。
+➜生物学家带头反对北京冬奥会高山滑雪场选址
+https://www.solidot.org/story?sid=45126	34083
+北京成功申办了2022年冬奥会，但冬奥会高山滑雪场设在松山小海坨国家保护区一事引发了争议。《自然》网站<a target="_blank" href="http://www.nature.com/news/chinese-biologists-lead-outcry-over-winter-olympics-ski-site-1.18174"><u>也报道了这起事件</u></a>，称领导这起抗议的人是科学家：在上海中科院工作的Wang Xi博士在微博上根据评估报告描述了高山滑雪场的路线图，他说其主要动机是担心滑雪场对当地植被的影响，他不反对奥运会，但应该以环境友好的方式举办。他的帖子获得了大量转发，但两天之后就销声匿迹。北京的昆虫学家Yun Ji拷贝了Wang Xi的地图，添加了更多信息，他的微博帖子也得到了大量转发，但在4小时内就再次消失。上周五，北京市副市长<a target="_blank" href="http://epaper.bjnews.com.cn/html/2015-08/07/content_591870.htm?div=0"><u>宣布</u></a>调整松山小海坨国家保护区范围，调整之后冬奥会的雪橇雪车和高山滑雪比赛场地将不在保护区范围内。北京大学的博士后研究员Lei Gu说，松山在生态多样性上并不具有重要性，但最大的问题是政府在环境保护承诺上的退却。
+➜俄罗斯封杀Reddit
+https://www.solidot.org/story?sid=45127	36112
+俄罗斯联邦毒品控制中心<a target="_blank" href="https://meduza.io/en/news/2015/08/12/russia-bans-reddit"><u>下令屏蔽Reddit</u></a>，因为它发现该网站的内容鼓励使用非法毒品。俄罗斯政府发现了一个网页叫“<a target="_blank" href="https://www.reddit.com/r/rudrugs/comments/1derq9/"><u>Minimal and Reliable Methods for Growing&nbsp;Psilocybe [Mushrooms]（俄语）</u></a>.”，由于Reddit默认启用HTTPS，俄罗斯无法屏蔽单个网页而只能屏蔽整个网站。俄政府说，他们联系不上Reddit的管理员，推测是是因为现在是夏季该公司人手不足，但这无法作为借口。<br>
+➜网络游戏将在215,358,979次游戏内死亡后永久关闭
+https://www.solidot.org/story?sid=45128	37317
+<center>
+<iframe src="https://www.youtube.com/embed/GMjScoeTymU" allowfullscreen="" frameborder="0" height="240" width="480"></iframe>
+</center>
+《<a target="_blank" href="http://www.vogelsap.com/theflock/"><u>The Flock</u></a>》是一款类似《Evolve》的怪兽大战人类的多人不对称游戏，区别是人类没有武器只有手电筒。《The Flock》将在8月21日上市（PC版），它采用了一种不同寻常的宣传/运营机制：当游戏内死亡人数达到215,358,979，服务器将永久关闭，游戏将无法再玩，开发商不会退款。游戏的创意总监<a target="_blank" href="http://arstechnica.com/gaming/2015/08/upcoming-online-game-the-flock-will-shut-down-after-215358979-deaths/?comments=1"><u>Jeroen van Hasselt说</u></a>，此举是为了解决网络游戏体验中的虎头蛇尾问题，他们希望给予玩家一个高潮的结局，而不是像《Evolve》那样虽然玩家人数越来越少却依旧苦苦支撑。如果玩家利用游戏漏洞故意死亡的话，这些死亡数字将不会计入统计。
+➜Google和中国争相为古巴提供网络服务
+https://www.solidot.org/story?sid=45129	41362
+古巴的互联网远远落在时代后面，如果你想上网，要么支付高昂的网费，要么为政府工作。它的互联网基础设施需要升级。Google在今年7月向古巴提出建议，以低成本提供高速移动互联网接入，但古巴似乎并不乐意接受Google的提议。现在，它有了新的选项，中国电信公司中兴和华为向古巴提议提供基于ADSL 的宽带服务，Baruch 学院教授Ted Henken认为古巴不会选择Google，因为中国的提议对古巴政府两大优势：获得收益和<a target="_blank" href="http://www.cnbc.com/2015/08/12/the-challenge-of-bringing-internet-to-cuba-.html"><u>监视网民在线活动</u></a>。
+➜肉食者加速物种灭绝
+https://www.solidot.org/story?sid=45130	43631
+根据发表在《Science of the Total Environment predicts》期刊上的研究，肉食者可能<a target="_blank" href="http://news.sciencemag.org/environment/2015/08/meat-eaters-may-speed-worldwide-species-extinction-study-warns"><u>加速了全球的物种灭绝</u></a>。原因是为了满足肉食者的胃口需要养殖大量牲畜，而养殖大量的牲畜需要大块的土地和大量作物，这就导致了大量栖息地的丧失，加速了物种的灭绝。栖息地的丧失是灭绝的主要因素。研究人员估计，到2050年，用于牲畜养殖的土地将会增加30%到50%。他们建议肉食者限制肉食消费，吃更多的水果和蔬菜，用猪肉、鸡肉和鱼肉替代红肉如牛肉。
+➜微软重写Windows 10激活规则
+https://www.solidot.org/story?sid=45131	44893
+Windows的产品密钥正成为过去。微软为升级版Windows 10<a target="_blank" href="http://www.zdnet.com/article/microsoft-quietly-rewrites-its-activation-rules-for-windows-10/"><u>重写了激活规则</u></a>。OEM版本的激活方式没有发生改变，改变的是从正版Windows 7/8升级到Windows 10的激活方式。最大的改变是设备的Windows 10激活状态将储存在网上，如果你首次成功激活Windows，那么以后重新安装的话它将会自动激活，无需输入产品密钥。微软没有公开讨论新激活方式的细节，此举可能是出于反盗版的考虑。<br>

@@ -1,0 +1,38 @@
+➜Debian 7.0“wheezy”发布
+https://www.solidot.org/story?sid=34575	9848
+开发者按计划如期<a href="http://www.debian.org/releases/wheezy/"><u>发布</u></a>了<a target="_blank" href="http://www.debian.org/releases/wheezy/releasenotes"><u>Debian 7.0“wheezy”</u></a>。相比两年前的Debian 6.0，wheezy增加了12800 个新软件包，软件包总数共计37493个，更新了 20160软件包，删除了4125个软件包，在包管理软件中它们会被标记为“过时”。主要新特性包括：从X.Org 7.5更新到X.Org 7.7；桌面环境GNOME 3.4、KDE 4.8.4、Xfce 4.8和LXDE；LibreOffice 3.5替换 OpenOffice.org；Calligra 2.4&nbsp;替代KOffice；GNUcash升级到2.4；GIMP更新到2.8； Linux 3.2（<a target="_blank" href="http://www.solidot.org/story?sid=34514"><u>Linux 3.9 kernel</u></a>刚刚发布）；初步支持systemd；提供蓝光光盘镜像；包管理器支持多架构，如64位机器安装64位和32位软件，自动正确处理依赖关系；改善多媒体支持功能；支持AppArmor强制访问控制系统；等等。详细可参考<a target="_blank" href="http://www.debian.org/releases/wheezy/amd64/release-notes/ch-whats-new.zh-cn.html#newdistro"><u>发行注解</u></a>。
+➜pdf2htmlEX: PDF至HTML的精确转换
+https://www.solidot.org/story?sid=34576	19051
+<a href="http://https://github.com/coolwanglu/pdf2htmlEX">tezcat</a> 写道 "PDF是个好东西，由于支持内嵌字体和丰富的绘图指令，是科学论文，排版印刷的不二之选。几乎任何文档都可以转化成PDF。<i>
+<p>但是在线看PDF的体验通常比较糟糕。官方插件丑不说，抢夺鼠标键盘焦点，崩溃，安全问题无一不让人懊恼。现在有很多文库类网站，大多是使用基于Flash的插件；Firefox和Chrome都有了内置PDF阅读器，然而本质问题还是没有解决，比如说PDF文件一定是完全下载下来之后才能看，而网页通常是边下边看；比如说PDF页面通常独立于引用的网页，无法交互，而网页间可以很好地互动；再比如说PDF的页面不能跟网页融为一体，设计的再好的网页，嵌一个PDF进去形象立马打折。</p>
+<p>这么说其实有点不公道，因为PDF本来就不是为了网页设计的。但是PDF如此流行在互联网如此发达今天，就没有什么好办法在线浏览PDF文档么？</p>
+<p>
+</p>
+<p>那么来看看这几个链接</i>
+<p></p>
+<!--more-->
+<p></p>
+</p>
+<p><a target="_blank" href="http://coolwanglu.github.io/pdf2htmlEX/demo/geneve.html">排版</a></p>
+<p><a target="_blank" href="http://coolwanglu.github.io/pdf2htmlEX/demo/geneve.html"></a><a target="_blank" href="http://coolwanglu.github.io/pdf2htmlEX/demo/demo.html">论文</a>
+</p>
+<p><a target="_blank" href="http://coolwanglu.github.io/pdf2htmlEX/demo/issue65_en.html">杂志</a></p>
+<p>你花了多久意识到它们是HTML而不是PDF呢？</p>
+<p>这几个HTML都是利用<a href="https://github.com/coolwanglu/pdf2htmlEX">pdf2htmlEX</a>从PDF转换而来，在保持显示准确的同时，加入了自定义主题，边下边看等功能。在Linux/Mac下，由于系统的字体渲染方式和PDF的比较接近，显示效果可以以假乱真。在Windows下，Firefox/IE的效果会不错，Chrome的效果尚可。</p>
+<p>使用pdf2htmlEX，你可以用LaTeX精心设计个人简历，然后转换成HTML，加入自定义样式，甚至于Google Analytics，而后无缝嵌入个人主页里。</p>
+<p>使用pdf2htmlEX，网盘类服务可以提供更好的文档预览界面，用户再也不用看到各种丑陋的插件了。
+</p>
+<p>pdf2htmlEX基于GPLv3发布，项目主页是 <a target="_blank" href="https://github.com/coolwanglu/pdf2htmlEX">https://github.com/coolwanglu/pdf2htmlEX</a> 在那里可以找到上面几个原始PDF的链接，你可以点开比较一下显示效果和用户体验。当然这个界面只是pdf2htmlEX作为演示用，并没有仔细设计。网盘MediaFire目前利用pdf2htmlEX实现PDF的功能，比如<a target="_blank" href="http://www.mediafire.com/view/?3d0mcs4bdc07bb9">这个链接</a>。也可以自己上传PDF测试。
+"
+➜英国福利部门要求申请人必须用XP和IE6
+https://www.solidot.org/story?sid=34577	31765
+一位英国残疾人如想申请补助，他或她可以访问<a target="_blank" href="http://www.dwp.gov.uk/eservice/"><u>英国就业与退休保障部网站</u></a>填写在线表格，不再需要寄信或亲自访问办事处，方便了许多。但他们<a target="_blank" href="http://www.theinquirer.net/inquirer/news/2265744/government-forces-benefits-claimants-to-use-windows-xp-and-ie6"><u>面临的一个障碍</u></a>是使用的电脑必须运行微软即将淘汰的过时操作系统Windows XP和浏览器IE6。原因是就业与退休保障部的系统和服务不兼容新一代的操作系统和浏览器，如Internet Explorer 7、8、9和10, Safari、Google Chrome和Firefox。不支持Mac OS X或Linux。此外，系统每周三天还有几小时不能使用，因为系统要维护。
+➜Fedora 19默认明文显示密码
+https://www.solidot.org/story?sid=34578	35977
+通常，我们在一个网站的密码区输入密码时都是以*******形式显示，密码不可见。可用性大师Jakob Nielsen认为用户输入密码应该以明文形式显示。安全专家Bruce Schneier也说，*****形式隐藏密码的方法困扰了他很久，他认为透过肩膀偷窥密码其实<a target="_blank" href="http://www.out-law.com/page-10152"><u>不是一个真正的安全问题</u></a>，如果有人靠近，输入者会知道并会提高警惕。于是，Fedora的Anaconda安装程序维护者立即将其付诸实践，Fedora 19在输入密码时以明文显示。结果这一对用户友好的可用性改进<a target="_blank" href="http://it.slashdot.org/story/13/05/04/1248242/fedora-19-to-stop-masking-passwords"><u>引发了争议</u></a>，有用户递交了<a target="_blank" href="https://bugzilla.redhat.com/show_bug.cgi?id=958608"><u>bug报告</u></a>，在邮件列表上展开了<a target="_blank" href="http://lists.fedoraproject.org/pipermail/devel/2013-May/thread.html#182196"><u>辩论</u></a>。<br>
+➜网民向白宫请愿调查朱令铊中毒案
+https://www.solidot.org/story?sid=34579	51525
+当中国出现了一个司法不公的可疑案件，你会怎么做？喊冤上访，别逗了，去白宫请愿吧。清华大学<a target="_blank" href="http://zh.wikipedia.org/wiki/%E6%9C%B1%E4%BB%A4%E9%93%8A%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6"><u>朱令铊中毒案</u></a>的一个主要嫌疑人是孙维，孙维是朱令的室友，被认为有动机也有机会接触到铊。她曾在1997年作为嫌疑人接受警方调查，但之后由于其家庭的政治关系案件被神秘终止（另有一说是没有确凿证据）。孙维目前居住在美国，因此有人在白宫发起<a target="_blank" href="https://petitions.whitehouse.gov/petition/invest-and-deport-jasmine-sun-who-was-main-suspect-famous-thallium-poison-murder-case-victimzhu-lin/Rd8C54p1"><u>请愿</u></a>，要求美国以“保护本国公民”的名义调查这起投毒案件。仅仅两天请愿署名人数已超过五万，还差四万九白宫将要做出正式回应。朱令及相关关键词已被新浪微博<a target="_blank" href="http://www.solidot.org/story?sid=34574"><u>屏蔽</u></a>。更新<b>5/6</b>：签名数已超过10万。<br>
+➜优秀的Scala编程语言电子书
+https://www.solidot.org/story?sid=34580	53672
+<a href="mailto:aneville@bakerstreet.org">Alison Neville</a> 写道<i>"<a target="_blank" href="http://zh.wikipedia.org/wiki/Scala"><u>Scala</u></a>是一种面向对象和函数、多范式的编程语言，运行于Java平台，在BSD许可证下发布。它集成面向对象编程和函数式编程的各种特性，引入了多种创新的语言结构，可堆叠，没有构造函数参数，提供了Python和Ruby等动态语言采用的闭包特性。Scala对于构建SaaS之类云服务平台特别有用，可以帮助程序员写出更紧凑的代码。这篇<a target="_blank" href="http://www.linuxlinks.com/article/2013042810415329/BestFreeScalaBooks.html"><u>文章</u></a>介绍了可帮助程序员学习Scala编程语言的免费下载图书，包括《<a target="_blank" href="http://www.artima.com/pins1ed/"><u>Programming in Scala</u></a>》、《<a target="_blank" href="http://ofps.oreilly.com/titles/9780596155957/"><u>Programming Scala</u></a>》和《<a target="_blank" href="http://exploring.liftweb.net/"><u>Exploring Lift</u></a>》等。"</i>

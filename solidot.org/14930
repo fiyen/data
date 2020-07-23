@@ -1,0 +1,77 @@
+➜200+行Kernel补丁显著改善桌面性能
+https://www.solidot.org/story?sid=21047	5400
+Magicloud 写道<i> "200+行的内核补丁被<a href="http://marc.info/?l=linux-kernel&amp;m=128978361700898&amp;w=2">Linus Torvalds称赞为“a killer feature”</a>。</i>
+补丁的作者是Mike Galbrai，他刚刚发布了第三个修正版。该补丁为内核的调度器加入了224行代码，同时去除9行代码，起作用的代码总共233行。补丁的用途是设计自动为每个TTY创建任务组，降低延迟改进桌面交互性能。Mike完成的测试发现，最大延迟下降10倍以上，桌面的平均延迟下降60倍。Phoronix的测试<a href="http://www.phoronix.com/scan.php?page=article&amp;item=linux_2637_video&amp;num=1">显示</a>，在Core i7 970机器上编译内核时，同时播放的1080p《大雄兔》视频仍然很流畅。该补丁预计将合并到Linux 2.6.38中。
+视频演示：<a href="http://www.youtube.com/watch?v=uk70SeGA7pg&amp;feature=player_embedded">一</a>，<a href="http://www.youtube.com/watch?v=prxInRdaNfc&amp;feature=player_embedded">二</a>（YouTube）
+➜隼鸟号收集到小行星尘埃标本
+https://www.solidot.org/story?sid=21048	6300
+日本科学家<a href="http://www.voanews.com/chinese/news/20101116-JAPAN-ASTEROID-108384199.html">证实</a>，今年6月<a href="__SLASHLINK__" sect="science" sid="10/06/14/1025210" sn="article" tid="102">返回地球</a>的隼鸟（Hayabusa）号无人宇宙飞船收集到了小行星尘埃标本，隼鸟号成为世界上从一颗小行星上收集到物质标本的第一个飞行器。日本宇航局（JAXA）的官说，对“隼号”探测器收集到的大约1500粒细小颗粒所做的详细分析已证实了其来源自Itokawa号小行星。科学家们将展开进一步试验，希望能从中获得了解太阳能系形成与结构的线索。
+➜光学错觉能增加LED亮度和功率
+https://www.solidot.org/story?sid=21049	8700
+Physorg<a href="http://www.physorg.com/news/2010-11-anti-mirror-optical-illusion-luminosity-laser.html">报道</a>（<a href="http://only-perception.blogspot.com/2010/11/led.html">中文</a>），科学家展示了一种新型光学错觉，可用到实际的应用中，增强照明系统的亮度。<i>
+通常，一面镜子让一个物体看起来像是二个物体。苏州大学的<a href="http://www.sciencenet.cn/blog/kenyonchen.htm">陈焕阳</a>教授及其同事则反其道而行之，他们提出“反镜像效应”，使用“叠加错觉光学”让多个物体看起来像一个物体。反透镜效应可用于增强LED的亮度和功率。</i>
+<a href="http://prl.aps.org/accepted/L/b007fYe4F111f92c3571068733bd27a4b849af037?ajax=1&amp;height=500&amp;width=500">报告</a>发布在PRL上，<a href="http://arxiv.org/abs/1011.0542">预印本</a>
+➜Parrot 2.10.0发布
+https://www.solidot.org/story?sid=21050	9720
+Parrot虚拟机<a href="http://lwn.net/Articles/415739/">发布</a>了<a href="ftp://ftp.parrot.org/pub/parrot/releases/devel/2.10.0/">2.10.0版</a>。Parrot是设计旨在运行所有动态语言的虚拟机。<i>
+新版本已经迁移到<a href="https://github.com/parrot/parrot">github</a>；配置、编译和测试子系统都做到Git-aware；优化了垃圾收集器，修正了内存泄漏；等等。</i>
+➜科学家破译并复原鸟类叫声
+https://www.solidot.org/story?sid=21051	10920
+<a href="http://horflu.com/">horf</a> 写道 "technology review的<a href="http://www.technologyreview.com/blog/arxiv/26025/">消息</a>：神经科学一直以来的一个挑战就是如何去解释这样一种现象：神经网络的集合是如何产生信号序列来导致动物的行为，例如动物间的交流，鸟儿的鸣叫和人类的说话的？<i>
+研究发现这种鸟类的音节序列可以通过马尔可夫模型进行精确的重现，过程当中每个音节都被当作系统的一个状态来处理。每一个 音节仅仅取决于之前一个音节的统计学性质，这一结论表明音节和创造它的神经网络有着一对一的关系模式。然而很多其他鸟类的鸣叫并不能简单地用马尔可夫模型来描述，比如白腰文鸟。不过最近关于白腰文鸟的研究有了突破性进展。最近两个提交到arxiv的论文对白腰文鸟的鸣叫作出了巧合一般的类似解释。
+研究小组首先把白腰文鸟关在隔音的房间里，然后持续几天记录它们的叫声，然后他们把几个研究人员关到同一个房间里，让他们对所有记录下来的叫声进行人工注解。他们发现白腰文鸟的叫声不仅取决于之前的音节，同时取决于更早的几个音节。</i>
+最后他们发现对于白腰文鸟来说，这种音节和神经回路的关系是多对一的。然后他们就重建了这个音节的序列。（复原图点<a href="http://horflu.com/2010/11/scientists-decode-birdsong/">这里</a>)"
+➜18分钟内，15%的互联网流量都流经中国
+https://www.solidot.org/story?sid=21052	12600
+一条旧闻突然之间又开始<a href="http://www.foxnews.com/politics/2010/11/16/internet-traffic-reportedly-routed-chinese-servers/">流传</a>，媒体还声称此前<a href="http://thenextweb.com/apps/2010/11/16/china-hijacked-15-of-us-internet-traffic-and-no-one-noticed/">无人知道</a>，实际上在事件发生后就被<a href="__SLASHLINK__" sect="it" sid="10/04/09/1249239" sn="article" tid="100">广泛报道</a>了：今年4月8日，在18分钟时间内，<a href="http://tech.slashdot.org/story/10/11/16/1838223/For-18-Minutes-15-of-the-Internet-Routed-Through-China">中国劫持了15%的互联网流量</a>，其中包括来自美国政府gov和军方mil域名的流量。<i>
+原因是一家叫IDC China Telecommunication的小型ISP的错误路由数据，经过中国国有电信运营商中国电信的二次传播，影响了整个互联网。整件事暴露了互联网基础结构的脆弱，此类事故以前也发生过：10年前，佛罗里达的一家小型ISP同样让全世界的流量都经过它的服务器。有人<a href="http://tech.slashdot.org/comments.pl?sid=1871102&amp;cid=34246436">建议</a>，美国的ISP不应该过于信任其它ISP的路由通告，而应对其进行筛选，相比较下，欧洲的ISP就实行了严格筛选的措施。</i>
+➜中医针灸和京剧入选非物质文化遗产
+https://www.solidot.org/story?sid=21053	19680
+联合国科教文组织<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/11/101117_brief_unesco_china_list.shtml">宣布</a>，将中国的中医针灸和京剧列入<a href="http://www.unesco.org/new/zh/media-services/single-view/news/songs_dances_and_traditional_know_how_from_31_countries_proposed_for_inscription_on_unesco_lists_of_intangible_heritage/">联合国科教文组织非物质文化遗产名录</a>。<i>
+在11月15至19日于肯尼亚首都内罗毕举行的会议上，保护非物质文化遗产政府间委员会对29个国家的47项遗产申报展开审议，决定是否将其列入《人类非物质遗产代表作名录》和《急需保护的非物质文化遗产名录》。除了中医针灸和京剧外，中国还想让“麦西来甫”、“帆船水密舱壁制作”和“木版活字印刷术”进入《急需保护的非物质文化遗产名录》。</i>
+➜大亚湾核电站再度延迟发布辐射泄漏消息
+https://www.solidot.org/story?sid=21054	21600
+bonnae1982 写道 "据<a href="http://www.rfa.org/mandarin/yataibaodao/da-11162010144104.html">RFA</a>报道，距离香港只50公里的由香港中华电力公司建造、法国电力公司提供工程技术的大亚湾核电厂，再度发生辐射泄漏事件，但如同上次一样，厂方在事发后延迟向公众公布有关意外。香港中电集团旗下负责大亚湾营运的香港核电投资有限公司周一在网页上<a href="https://www.hknuclear.com/HKNIC/media/Documents/Press%20Release_c_20101115.pdf">公布</a>(pdf)：大亚湾核电厂10月23日发生一级“异常事故”，并在当晚召开记者会，通报上月23日例行检查时发现一条冷却水系统钢管出现两条分别3吋及一条1.5吋的裂纹，但有关管道及余热排出系统安装在全密封的安全壳厂房内，不会对电站的运作及附近地区构成健康及环境影响。属国际核事故级别中第一级（最高为七级），曾在11月2日通报香港政府。
+<i>港核投董事总经理陈绍雄记者会上对于延迟了二十三天才公开事件的解释是按照“国际惯例”，声称凡列为2级以下的事故，毋须实时向公众交代，为免造成公众不必要的担忧，如果事事公布，就会变成“狼来了”。“如果事无大小都公布，公众会不厌其烦，造成不必要的担忧。”另据<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20101116-%E9%A6%99%E6%B8%AF%E4%B8%AD%E7%94%B5%E5%86%8D%E5%BA%A6%E5%BB%B6%E8%BF%9F%E5%8F%91%E5%B8%83%E6%A0%B8%E7%94%B5%E5%8E%82%E8%BE%90%E5%B0%84%E6%B3%84%E6%BC%8F">RFI</a>报道香港有部分传媒较早前已经获悉有关最新一宗的辐射泄漏事件，并曾致电中华电力公司查询，但一直未获回复，及至15日才由中电旗下的香港核电投资有限公司董事总经理陈绍雄召开记者会，发布有关消息。
+</i>大亚湾核电厂今年5月23日曾有一条盛载核原料铀元素的<a href="__SLASHLINK__" sect="hardware" sid="10/06/15/0021228" sn="article" tid="100">金属棒出现裂痕</a>，但中电以不影响公众健康为由，事隔半个月被传媒踢爆才公开事件。"
+➜Genode Live CD 2010.11发布，让内核像浏览器插件一样运行
+https://www.solidot.org/story?sid=21055	24300
+<a href="http://genode.org/">Genode项目</a>发布了<a href="http://genode.org/download/live-cds">Live CD 2010.11版</a>，开发者推荐使用VirtualBox或联想Thinkpads笔记本（因为上述平台经过了测试）。Genode是一种新型的操作系统架构，能动态的适应工作负荷，保持安全性和可靠性。Live CD主要是演示它的架构功能。<i>
+Live CD 2010.11的特性包括：启动不到10秒即可进入完整功能的图形界面（VirtualBox），用户界面列出了五大子系统，每个子系统演示了其架构的不同方面，其中最引人注目的功能是在微内核上本地执行的Web浏览器，能像浏览器插件那样运行一个沙盒化的Linux kernel。</i>
+➜英国警方审查为学生抗议者提供建议的网站
+https://www.solidot.org/story?sid=21056	25800
+为抗议英国政府调涨大学学费，上周大学生举行了游行示威，<a href="http://www.bbc.co.uk/ukchina/simp/uk_education/2010/11/101110_uk_edu_students_violence.shtml">游行中出现了一些暴力行为</a>，部分抗议学生破坏了英国保守党总部的一座建筑物，一些警察受伤被送往医院。伦敦市长表示，参与暴力的人将面临法律制裁。<i>
+一个反警察的博客Fitwatch则向抗议的学生提供了<a href="http://www.guardian.co.uk/education/2010/nov/16/web-advice-students-avoid-arrest">如何避免被逮捕的建议</a>：包括扔掉游行时穿的衣服，改变外表等等。伦敦警方联系了Fitwatch的托管商JustHost.com，以“犯罪活动”的理由让该博客下线。然而警方的审查是毫无效果的，有大约70个网站随后公布了Fitwatch的建议，还有无数人透过Twitter散播材料。</i>
+➜用亚马逊EC2集群GPU实例破解密码
+https://www.solidot.org/story?sid=21057	27900
+11月15日，亚马逊和NVIDIA联合推出了新的EC2“集群GPU实例”，云服务中的每个实例能用两个NVIDIA Tesla“Fermi”M2050 GPU加速。一位用户<a href="http://stacksmashing.net/2010/11/15/cracking-in-the-cloud-amazons-new-ec2-gpu-instances/">尝试</a>用它去<a href="http://it.slashdot.org/story/10/11/16/1549245/Cracking-Passwords-With-Amazon-EC2-GPU-Instances">破解密码</a>，他在“集群GPU实例”上安装了基于CUDA的哈希破解程序，使用云破解，他在49分钟内破解了一个<a href="http://stacksmashing.net/blogfiles/2010_11_15/sha1_hashes.txt">文件</a>中的所有哈希数，文件使用的密码长度为1到6位。
+➜微软认证了第一个开源Web应用程序
+https://www.solidot.org/story?sid=21058	29400
+微软<a href="http://port25.technet.com/archive/2010/11/16/silverstripe-achieves-windows-server-2008-r2-certification.aspx">宣布了</a>第一款“Certified for Windows”的开源Web应用程序。微软认证代表着该程序在Windows上运行毫无问题。<i>
+被微软认证的开源软件是<a href="http://silverstripe.org/silverstripe-cms-the-first-ever-open-source-web-app-to-become-microsoft-certified/">SilverStripe CMS</a>，使用PHP编写的网站内容管理系统，采用BSD许可证授权。如果有更多开源应用程序能得到微软认证，这将代表着它们<a href="http://developers.slashdot.org/story/10/11/17/030232/Microsoft-Finally-Certifies-an-Open-Source-Web-App">已经为商业使用做好了准备</a>。</i>
+➜上海高层公寓楼火灾原因被怀疑是保温材料
+https://www.solidot.org/story?sid=21059	30720
+11月15日下午，上海市静安区的一座高层公寓楼<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%9D%99%E5%AE%89%E5%8C%BA%E2%80%9C11%C2%B715%E2%80%9D%E7%89%B9%E5%88%AB%E9%87%8D%E5%A4%A7%E7%81%AB%E7%81%BE">发生了严重火灾</a>，目前已造成53人死亡，受伤人数超过126人，另有约40人失踪。警方迅速断定起火原因是无证电焊工人违规电焊施工所致，至今已有八人被拘捕。<i>
+《经济观察报》<a href="http://www.eeo.com.cn/Politics/by_region/2010/11/17/186057.shtml">报道称</a>，上海市消防局局长陈飞在新闻发布会上称大火蔓延的主要原因是“尼龙织网、脚踏板为竹片版，都是易燃物”以及“大风”，但真正的“导火索”有可能是施工队所使用的保温材料——聚氨酯（PU）材料。还有评论认为，将事故归罪于临时工，而不问责政府以及<a href="http://www.eeo.com.cn/Politics/by_region/2010/11/17/186140.shtml">主要承包商</a>，对未来防止此类悲剧再次发生毫无帮助。</i>
+➜KK出版新书《技术到底想要什么》
+https://www.solidot.org/story?sid=21060	33000
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"2010年10月14日，<a href="http://en.wikipedia.org/wiki/Kevin_Kelly_(editor)">Kevin Kelly</a>的第三部作品<a href="http://www.amazon.com/exec/obidos/ASIN/0670022152/downandoutint-20">What Technology Wants</a>由Viking Adult出版社出版，比起他的上一部作品<a href="http://www.amazon.com/Out-Control-Biology-Machines-Economic/dp/0201483408">《Out of Control: The New Biology of Machines, Social Systems, &amp; the Economic World(失控：机器的新生物技术，社会系统以及经济世界)</a>》要薄一些。KK的确影响了一代黑客，更是通过<a href="http://www.wired.com/">连线杂志</a>把黑客伦理发挥到了极致，而<a href="http://en.wikipedia.org/wiki/Wachowski_brothers">两位犹太兄弟</a>在好几年的时间中和KK一直交流，而这一思想碰撞的结果就直接导致了我们今天看到的<a href="http://en.wikipedia.org/wiki/The_Matrix">经典电影《Matrix(黑客帝国)》</a>。</i>
+KK是一个个人魅力十足的家伙，27岁在耶路撒冷的经历让他坚信了一些事情，3000英里的biking让他重新思考了人生，2002年KK接受<a href="http://en.wikipedia.org/wiki/Christianity_Today">基督教今天</a>关于他的<a href="http://www.christianitytoday.com/ct/2002/novemberweb-only/11-18-31.0.html">神哲学观的访谈</a>中，他明确的谈到对科幻小说的热爱，"对我而言，科幻小说可以说是圣经学习的一部分"。一位没有很"出色"的学历的怪杰hacker，是如何看待这个世界的呢？还是留给solidoter们自己去hacking吧~"
+➜Tor发布年度报告
+https://www.solidot.org/story?sid=21061	33840
+互联网匿名服务Tor项目<a href="https://blog.torproject.org/blog/2009-annual-report">发布</a>了<a href="https://www.torproject.org/about/findoc/2009-TorProject-Annual-Report.pdf">2009年的年度报告</a>（PDF），介绍了过去一年的开发进展，资金来源和开销，以及未来的计划。<i>
+过去一年，Tor帮助数以万计的中国、伊朗、缅甸和阿联酋居民获得无过滤的信息；帮助美国FBI、司法部，以及其它执法机构匿名在线调查儿童色情、有组织犯罪和其它犯罪活动；Tor的资金主要来自于政府（72%），其次是个人（20%），开支的最大头是程序开发（79%），2009年总资金为125万美元；一些参与过Google Summer of Code的学生已成为Tor的全职开发者；未来的开发包括：Torbutton将提供屏蔽流媒体的功能，虚拟机版Tor，为低带宽环境开发低体积的Tor程序等等。</i>
+➜用食糖制造石墨烯
+https://www.solidot.org/story?sid=21062	36720
+在最新一期的《自然》杂志上，休斯顿莱斯大学化学家James Tour报告了一种<a href="http://www.futurity.org/science-technology/sweet-graphene-made-from-sugar/">新的制造高质量石墨烯的方法：食糖</a>。<i>
+论文主要作者是Tour实验室的研究生孙正宗（Zhengzong Sun），他发现在铜和镍基底上沉淀富碳物质，可以制作出各种形式的石墨烯。孙在1平方厘米的铜箔上放置10毫克的食糖，它在800摄氏度左右的温度下迅速转化为单层石墨烯。他本以为食糖中含有两种化学成分(碳和氧)，因此最终产品会有缺陷，但在形成石墨烯过程中潜在的拓扑缺陷被自我修复了。</i>
+➜福音教会称USB是魔鬼的连接
+https://www.solidot.org/story?sid=21063	38160
+巴西基督教福音教派最近<a href="http://idle.slashdot.org/story/10/11/16/2146213/USB-Is-the-Devils-Connection">禁止使用USB连接</a>，原因是USB的<a href="http://www.guardian.co.uk/science/the-lay-scientist/2010/nov/15/3">logo</a>类似一个三叉戟，他们声称USB是拜撒旦教的标记。在基督教中，<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%89%E5%8F%89%E6%88%9F">三叉戟</a>是魔鬼撒旦的武器（二短一长的形体有男性阳具的象征）。
+➜最详尽的暗物质分布图公布
+https://www.solidot.org/story?sid=21064	39900
+基于哈勃望远镜<a href="__SLASHLINK__" sect="science" sid="10/03/29/0124258" sn="article" tid="102">获得的数据</a>，NASA喷气推进实验室的天文学家利用引力透镜，揭示了至今最详尽的<a href="http://news.discovery.com/space/mapping-dark-matter-with-a-cosmic-lens.html">暗物质分布图</a>。<i>
+暗物质占了宇宙质量的约五分之一，它不能直接观察到，因为暗物质不与电磁辐射发生相互作用，它不发射出任何光和电磁辐射。 但是，暗物质的引力影响着周围的时空，附近的光线经过时会发生扭曲，这就是所谓的“引力透镜”效应。因此我们能通过这种效应间接的观察到它的存在</i>
+➜加拿大将强制要求ISP安装深度包检测设备
+https://www.solidot.org/story?sid=21065	40800
+加拿大政府提出了一项新法案，将<a href="http://news.slashdot.org/story/10/11/16/1616209/Canada-To-Mandate-ISP-Deep-Packet-Inspection">强制要求ISP安装深度包检测设备</a>。提案包括一系列监视要求清单，三管齐下，集中在信息披露，强制性监视技术，以及警察的新权力上。提案要求ISP在没有法庭监视的情况下披露信息，而现有的隐私法并没有强制性要求。新的系统将要求ISP提供客户的姓名、地址、电话号码、电子邮件地址，IP地址，以及设备识别码。

@@ -1,0 +1,70 @@
+➜Herb Sutter：欢迎来到丛林
+https://www.solidot.org/story?sid=28522	1080
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "<a href="http://en.wikipedia.org/wiki/Herb_Sutter">Herb Sutter</a>在2004年发布的著名论文<a href="http://www.gotw.ca/publications/concurrency-ddj.htm">不再有免费午餐</a>，总结了过去几十年中软件行业的发展和摩尔定律带给CPU主频的飞速提升有着重要的联系，一直以来软件在性能方面的考虑都依赖着更高主频的CPU。到2004年时，CPU主频已经接近物理的极限3.6GHZ左右，x86的厂商Intel和AMD都开始试着降低主频而增加更多的执行单元，即所谓的多核处理器，Herb在04年的论文中谈到了硬件架构的改变对软件开发人员的影响，经过了七年之痒，时间证明了Herb的总结和预测是正确的。1975年到2005年是单核的时代(从8080一直到Pentium IV)，也是免费午餐的黄金年代，软件开发人员在这一时期是最幸福的，不用考虑并行的问题；2005年开始进入了通用多核的时代，开发人员必须编写并行代码以提升性能，Intel的TBB和微软PPL都是为通用多核计算所提供的库；2011年开始，异构众核时代来临，Nvidia GPUs, APU, Cell(用于PS3游戏主机), Intel Xeon + MIC都是这个时代的产物，面对多核难题开发人员更多的情况是和库打交到。</i>           从IDF 2011(<a href="http://hfg-resources.googlecode.com/files/idf2011.tar.bz2">下载slide</a>)的介绍上看，虚拟化的大规模应用开始于2005年，之后跟随着多核CPU的普及而急速增长，虚拟化的普及也带动了云计算。Herb在2012年的开端又写了一篇值得一读的文章：<a href="http://herbsutter.com/welcome-to-the-jungle/">欢迎来到丛林</a>，这篇文章谈到，从1975年到2005年，整个行业在30年里完成了一个惊人的任务：把个人电脑放进了每张桌子上，每个家庭和每个人的口袋。而从2005开始了一个新的任务，即把多核电子设备带入每张桌子，每个家庭和每个人的口袋，2011年是奇特的一年，因为这一年双核设备成为了主流，包括ipad2, Playbook, Kindle Fire, Nook Tablet, Galaxy S II, Droid X2, iPhone 4S，2012年将会继续向主流4核和8核的方向进化。Herb把多核进化分为三部曲：首先是2005年开始的双核，之后黑客们发现<a href="__SLASHLINK__" sect="developers" sid="11/11/15/0059249" sn="article" tid="5">GPU的功效而产生了GPGPU的异构计算</a>，2010年之后开始的可塑性的云计算，比如2011年夏天<a href="http://blog.cyclecomputing.com/2011/09/new-cyclecloud-cluster-is-a-triple-threat-30000-cores-massive-spot-instances-grill-chef-monitoring-g.html">亚马逊30，000核的集群只收费1,300美刀/小时</a>。<br> <br>
+今天的软件开发人员已经不得不面对多核编程的挑战，而<a href="__SLASHLINK__" sect="hardware" sid="11/11/17/030212" sn="article" tid="80">众核的时代</a>也快要来到，开发人员是应该采用<a href="http://www.intel.com/technology/architecture-silicon/mic/index.htm">Intel众核</a>编程的库，还是基于APU平台的异构编程，或是寻找诸如hacking from scratch或者openMP的传统通用计算的做法？"
+➜PHP 5.4.0发布
+https://www.solidot.org/story?sid=28523	4320
+PHP开发团队宣布<a href="http://php.net/releases/5_4_0.php">发布PHP 5.4.0</a>，它将是最后一个支持Windows XP和Windows 2003的版本，在PHP 5.4.0之后，开发者不会再发布针对这些平台的二进制包。PHP 5.4.0主要特性包括：新语法如<a href="http://php.net/traits">Traits</a>和<a href="http://docs.php.net/manual/language.types.array.php">shortened array syntax</a>等；改进性能减少内存消耗；内置web server；修正bug等等。详细变化参阅<a href="http://www.php.net/ChangeLog-5.php#5.4.0">ChangeLog</a>。
+➜Kubuntu 12.04将提供五年支持
+https://www.solidot.org/story?sid=28524	5760
+Canonical<a href="__SLASHLINK__" sect="linux" sid="12/02/07/0358209" sn="article" tid="82">宣布</a>将不再支持基于KDE桌面的Ubuntu分支，但社区开发者<a href="http://www.kubuntu.org/news/12.04-lts-announce">承诺</a>将一如既往的提供高水平的支持，称即将发布的Kubuntu 12.04的支持时间为五年。<i>
+开发者称，Kubuntu始终是一个社区项目，Council委员会和开发者社区再次重申，Kubuntu 12.04的支持水平与之前的版本保持一致，保证Canonical停止支持不会影响到支持的水平和质量。开发者说，Kubuntu 11.10就没有Canonical雇员参与开发，未来也会如此，Kubuntu社区将会和以往一样每半年发布一个版本。
+</i>
+➜Khan Academy选择JavaScript为入门语言
+https://www.solidot.org/story?sid=28525	7200
+儿童应该选择什么语言作为学习编程的入门语言，<a href="http://news.slashdot.org/story/12/03/01/1459209/khan-academy-chooses-javascript-as-intro-language">是一个争论不休的问题</a>。颇受欢迎的在线教育项目<a href="http://www.khanacademy.org/">Khan Academy</a>给出了它的选择：JavaScript。它刚刚发布了第一门计算机语言<a href="http://www.youtube.com/watch?v=k0Fi8EnSInE">视频</a>(Youtube)。Khan Academy的目标对象是青少年，因此需要用有趣且图形化的东西去确保孩子不转移注意力。
+➜Ubuntu 12.04 LTS Precise Pangolin Beta 1发布
+https://www.solidot.org/story?sid=28526	10080
+Canonical<a href="https://lists.ubuntu.com/archives/ubuntu-announce/2012-March/000156.html">发布了</a>Ubuntu 12.04 LTS Precise Pangolin的<a href="https://wiki.ubuntu.com/PrecisePangolin/TechnicalOverview/Beta1">第一个Beta</a>。<i>
+Beta 1首次发布了一个针对ARM平台的版本，其它主要新特性包括：最新引入的HUD（抬头搜索）功能，但存在大量bug；Unity更新到5.4；加强ClickPad 支持；默认音乐播放器改用 Rhythmbox，整合UbuntuOne音乐商店；LibreOffice 更新到3.5 beta 2；当从软件中心下载程序，相应的语言包能自动安装；等等。</i>
+➜《生化奇兵无限》将于10月16日上市
+https://www.solidot.org/story?sid=28527	12300
+《生化奇兵无限（BioShock Infinite）》的开发商Irrational Games<a href="http://irrationalgames.com/insider/bioshock-infinite-release-date-announced/">宣布</a>，游戏将于10月16日在北美上市，10月19日起在全球发售。Irrational主席兼创意总监Ken Levine 在声明中说，《生化奇兵无限》是他们四年努力的结晶，他们迫不及待要与粉丝分享他们的成果。2010年发布的《生化奇兵2》并非Irrational Games开发。索尼同时<a href="http://blog.us.playstation.com/2012/03/01/bioshock-infinite-ps3-release-date-announced/">透露</a>PS3版本的《生化奇兵无限》蓝光光盘将包含第一代《生化奇兵》拷贝。《<a href="http://zh.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%A5%87%E5%85%B5">生化奇兵</a>》故事发生在水下城市Rapture，而《<a href="http://en.wikipedia.org/wiki/BioShock_Infinite">生化奇兵无限</a>》发生在飞翔的城市Columbia。
+➜亚洲污染出口到美国
+https://www.solidot.org/story?sid=28528	19200
+根据发表在《<a href="http://www.agu.org/journals/jgr/">Journal of Geophysical Research</a>》上的报告，一组科学家跟踪和分析了亚洲污染进入美国<a href="http://news.sciencemag.org/sciencenow/2012/03/scienceshot-imported-air-polluti.html?rss=1">对美国空气质量的影响</a>。<i>
+对2010年春天污染情况的研究显示，亚洲污染对美国西南地区的臭氧水平贡献了15ppb（十亿分之一），目前美国空气标准臭氧水平上限值是75ppb。研究人员发现一半的超标事件都是由亚洲污染导致的。研究人员担心，未来几十年如果进入美国的亚洲污染增多，那么可能会带来更多问题。</i>
+另据中国环保部门官员周五的<a href="http://www.washingtonpost.com/world/asia_pacific/official-two-thirds-of-chinese-cities-fail-to-comply-with-chinas-new-air-quality-standards/2012/03/02/gIQAldpxlR_story.html">说法</a>，中国三分之二的城市都不能达到即将推行的严格空气质量标准。
+➜拘留所条例颁布，警察问责条款删除
+https://www.solidot.org/story?sid=28529	20400
+中国国务院上个月通过了《<a href="http://www.chinalaw.gov.cn/article/xwzx/fzxw/201203/20120300361104.shtml">拘留所条例</a>》，该法律将于4月1日起施行。引人注目的是正式通过的版本完全删除了《<a href="http://old.chinacourt.org/html/article/200911/09/380319.shtml">拘留所条例（征求意见稿）</a>》中的警察问责条款，引发了对警察滥用权力的担忧。<i>
+《拘留所条例（征求意见稿）》第三十五条规定，拘留所警察在执行拘留工作中，如果有侮辱、体罚、虐待等行为，依法给予处分；构成犯罪的，依法追究刑事责任。正式通过的《拘留所条例》规定：“拘留所应当依法保障被拘留人的人身安全和合法权益,不得侮辱、体罚、虐待被拘留人或者指使、纵容他人侮辱、体罚、虐待被拘留人。”没有追究警察的责任。</i>
+➜《刺客信条III》背景设为美国独立战争
+https://www.solidot.org/story?sid=28530	22680
+根据育碧<a href="http://www.facebook.com/media/set/?set=a.10150594293448068.391304.6119163067&amp;type=1">Facebook主页</a>和Game Informer的<a href="http://www.gameinformer.com/b/news/archive/2012/03/01/april-cover-revealed-assassin-39-s-creed-iii.aspx">报道</a>，即将于10月30日上市的《刺客信条III》将以美国独立战争为背景。《刺客信条》第一代是十字军东征，第二代则为意大利文艺复兴。育碧将在5日举行的GDC大会上公布更多信息。从目前公布的图像看，第三代的主角将是一位美国原住民，时间是在18世纪后段，刺客组织和圣殿骑士团之间的战斗延伸到了新大陆。
+➜99%的NASA便捷设备没有加密
+https://www.solidot.org/story?sid=28531	24000
+根据美国众议院发布的一份<a href="http://science.house.gov/sites/republicans.science.house.gov/files/documents/hearings/HHRG-112-SY21-WState-PMartin-20120229.pdf">报告</a>（PDF），NASA需要加强数据安全，该机构大多数便捷电子设备都没有加密，而在2009年4月到2011年4月之间有48部便捷式设备丢失或失窃，其中一台未加密笔记本中包含有国际空间站的命令和控制算法。报告指出，美国政府机构54%的设备采用了加密，<a href="http://arstechnica.com/science/news/2012/03/99-percent-of-nasas-portable-devices-are-unencrypted.ars">而这个数字在NASA是1%</a>。NASA的信息安全专家也不称职，根本不清楚有多少敏感数据失窃。该机构自己在安全检查中发现，航天飞机和国际空间站的支持系统中存在多个安全漏洞，可被攻击者利用控制系统。2011年11月，喷气推进实验室曾遭到攻击，让使用中国IP地址的攻击者获得了网络的完全控制权限。
+➜考古学家抗议电视美化抢劫
+https://www.solidot.org/story?sid=28532	25680
+美国考古学家抗议两部新美剧，称它们<a href="http://news.sciencemag.org/scienceinsider/2012/03/archaeologists-protest-glamorizan.html">鼓励和美化了历史文物抢劫</a>。Spike TV将在3月20日播出新剧《American Digger》，《国家地理频道》则于2月28上映了《Diggers》。美国考古学会主席William F. Limp称，两剧都宣扬和美化了对考古遗址的洗劫。《American Digger》的故事背景是一群挖掘者在历史遗址如独立战争战场或不知情的居民后院，寻找埋藏的历史宝藏。《Diggers》的背景与之类似。
+➜你愿意让QQ服务器记录你的生物数据？
+https://www.solidot.org/story?sid=28533	27000
+<a href="http://security.maidong100.com/">bolo</a> 写道<i> "利用人脸识别取代密码作为网络服务登录手段，这对于保护用户数据安全是否真的够安全？<a href="http://reteng.qq.com/info/16101.html">腾讯宣布</a>将推出<a href="http://maidong100.com/news/2012/03/02/093250A20201.html">人脸识别系统(TRFA)</a>，未来腾讯旗下的产品将可用人脸来代替密码作为登录。用户登录时，终端通过摄像头将用户图像传入人脸识别系统，系统分析鉴定后，确定用户是否合法，该系包含认证和识别两种模式，在使用前，用户必须要进行人脸注册，服务器将记录该注册请求的账号和客户端设备号，将接收到的照片生成该用户的人脸特征模板。
+也就是说QQ将建立一个用户生物数据库，它的服务器会一直存储着用户的生物数据，由于QQ有着亿级单位的用户群这个生物数据库也是巨大的，不知这样的生物数据库是否合法，你愿意让它记录你的数据生物数据吗？"</i>
+➜芬兰公民行动法案生效，每位公民都可参与立法
+https://www.solidot.org/story?sid=28534	28200
+从三月份开始，如果一项公民提案获得五万达到投票年龄的公民的支持，<a href="http://www.hs.fi/english/article/Workshop+of+volunteers+is+building+a+website+to+facilitate+the+launching+of+citizens%E2%80%99+initiatives+/1329103525835">芬兰国会将必须处理该提案</a>。<i>
+芬兰公民行动法案（Citizens’Initiative Act）于三月份正式生效，任何人都可以在Open Ministry网站上提出关于新法律的设想，如果设想得到了足够多的支持，网站的志愿者们将把它变成一个正式的法案，交给议员们仔细考虑。
+</i>
+➜超过20万美元比特币失窃
+https://www.solidot.org/story?sid=28535	30240
+网站托管供应商Linode的服务器超级管理密码泄露，价值228,845美元的<a href="http://arstechnica.com/business/news/2012/03/bitcoins-worth-228000-stolen-from-customers-of-hacked-webhost.ars">46703比特币失窃</a>。超过4.3万失窃比特币属于一家比特币交易平台<a href="https://www.bitcoinica.com/">Bitcoinica</a>，另外3094比特币为捷克程序员Marek Palatinus所有，比特币首席程序员Gavin Andersen失去了他所有的5比特币。Linode在<a href="http://status.linode.com/2012/03/manager-security-incident.html">声明</a>中称，骇客的目标就是储存在服务器上的Bitcoin钱包。Bitcoinica最初称它失窃了1万多比特币，但随后CEO Zhou Tong证实确切数字为43554比特币。
+➜彭泽核电站引发争议
+https://www.solidot.org/story?sid=28536	32400
+《金融时报》报道了<a href="http://www.ftchinese.com/story/001043416/?print=y">围绕彭泽核电站引发的争议</a>，日本发生的罕见核灾难在中国引发了哄抢碘酒和碘，也引发了对核电站的恐慌。<i>
+<a href="http://zh.wikipedia.org/wiki/%E5%BD%AD%E6%B3%BD">彭泽</a>位于江西，是毗邻长江的内陆县，而彭泽核电站是在建的26座核反应堆之一。过去一年，反对彭泽核电站的声音日益高涨。其他在建的核反应堆也遭到了更加强烈的反对。尽管这些抗议活动彼此似乎并没有相呼应，中国也不存在全国性的反核游说团体，但任何公共骚乱事件都会引起北京方面的担忧——中国领导人对社会动荡感到日益不安。物理学家何祚庥说，“中国在核电问题上必须停止‘大跃进’，中国必须得有核能——我们离不开核能——但应当放缓步伐，采取一种更慎重的思路，并且真正从福岛核事故当中汲取教训。”他表示，如果发生核事故，居住在长江下游的广大居民都将受到威胁。</i>
+➜Windows 8 Consumer Preview首日下载量百万
+https://www.solidot.org/story?sid=28537	35400
+微软Windows8开发团队在Twitter上<a href="https://twitter.com/#!/BuildWindows8/status/175296911966875649">宣布</a>，Windows 8 Consumer Preview发布24小时下载量<a href="http://arstechnica.com/microsoft/news/2012/03/windows-8-consumer-preview-hits-1-million-downloads.ars">达到一百万</a>。这一数字至少显示用户对大幅变化的视窗操作系统仍有浓厚兴趣。当然一百万下载量并不意味着真有一百万人在使用Windows8，很多人可能只是出于习惯下载后便遗忘。Windows 8 CP版的表现好于几年前的Windows 7 beta版，微软当时设置了250万的下载目标，但之后将截至日期延长两周。按照目前的速度，Windows 8 CP版的下载量在周末可能达到三百万。
+➜大麻如何让你遗忘
+https://www.solidot.org/story?sid=28538	37920
+研究人员发现了<a href="http://www.nature.com/news/how-marijuana-makes-you-forget-1.10152">大麻如何干扰短期记忆的机制</a>。<a href="http://www.cell.com/retrieve/pii/S0092867412001420">报告</a>发表在《Cell》上。<i>
+大麻会削弱使用者的工作记忆，工作记忆能记住和使用短时间内的信息。法国Bordeaux大学神经学家Giovanni Marsicano和渥太华大学心理健康研究院Xia Zhang发现，大麻的这一副作用是一种此前未知的神经元和星形胶质细胞之间的信号机制导致的。星形胶质细胞长期以来一直被认为不过是保护神经元的支持细胞，但Zhang说，他们的研究提供了星形胶质细胞控制神经元和记忆的令人信服的证据，曾经被认为的配角其实是主角。大麻的主要成分是四氢大麻酚（THC），通过在麻醉的老鼠大脑中植入微电极，研究人员发现THC会削弱海马区神经元之间的连接突触，进一步研究发现THC真正削弱的是星形胶质细胞上的CB<sub>1</sub>受体。
+</i>
+➜Twitter出售用户数据
+https://www.solidot.org/story?sid=28539	39600
+《环球邮报》<a href="http://www.theglobeandmail.com/news/technology/digital-culture/social-networking/twitter-sells-your-feed-to-big-data/article2355287/">报道</a>，Twitter向数据挖掘公司出售用户数据。Boulder、Gnip和DataSift获得Twitter授权分析其存档的tweet和访问用户基本信息如地理位置。隐私保护组织担心这对用户隐私影响深远。Privacy Rights Clearinghouse组织主席Paul Stephens说，收集一个人在一年多时间内说的话具有颠覆性意义，用户的思考过程可能会被挖掘出来。另一位隐私专家说，商家正在了解用户正在想什么。
+➜英国计划立法禁止马戏团使用野生动物
+https://www.solidot.org/story?sid=28540	41280
+英国政府计划立法禁止巡回马戏团<a href="http://www.bbc.co.uk/ukchina/simp/entertainment/2012/03/120302_ent_circus_ban.shtml">用野生动物表演</a>。负责动物权益保护的政府部门指出，在现代文明社会，不应该强迫野生动物在巡回马戏班子里演出供人娱乐。人类应该尊重野生动物。政府的计划里包括设专职督察员职位，负责检查获得许可证的马戏团的动物演员的生存和工作条件。这位督察员的薪水将由来自马戏团缴纳的赋费里开支。英国各地的巡回马戏团对政府的计划表示极为不满，并威胁说，政府的如此行径会让它吃官司。

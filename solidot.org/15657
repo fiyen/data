@@ -1,0 +1,61 @@
+➜黑莓10将于明年1月30日发布
+https://www.solidot.org/story?sid=32227	4320
+RIM<a href="http://arstechnica.com/gadgets/2012/11/blackberry-10-new-blackberry-smartphones-will-arrive-january-30/">正式声明</a>，BlackBerry 10操作系统和智能手机将于2013年1月30日发布，关于智能手机的细节将在发布会上宣布。RIM在2011年10月首次提到了BlackBerry 10——结合BlackBerry 7和QNX OS的新操作系统，部分披露的新特性包括：通过来回切换处理后台运行应用，集中管理通知和所有信息接收的BlackBerry Hub，等。黑莓手机在智能手机市场份额正在持续下滑，BB 10逆转趋势颇受怀疑。
+➜HTC不向512MB内存手机提供Android 4.1升级
+https://www.solidot.org/story?sid=32228	5760
+Android 4.1 Jelly Bean被认为能让旧手机和平板<a href="__SLASHLINK__" sect="opensource" sid="12/11/08/1442255" sn="article" tid="26">焕发新生</a>，但手机厂商的更新策略却可能会让旧型号手机用户<a href="http://arstechnica.com/gadgets/2012/11/htc-hangs-up-on-jelly-bean-for-phones-with-512mb-of-ram/">大失所望</a>。HTC<a href="http://www.htc.com/www/help/android41faq/">表示</a>，内存容量512MB或以下的智能手机将不能升级到 Android 4.1，HTC将优先为新型号手机如HTC One X和One S推送Jelly Bean更新，它同时表示会为不能升级到Android 4.1的手机提供常用软件更新，安全升级和技术支持。512MB的硬件并不是不能升级到Jelly Bean，比如旧型号的Kindle Fire平板就能流畅的运行4.1系统。
+➜中国将加大软件盗版处罚力度
+https://www.solidot.org/story?sid=32229	6600
+新闻出版总署署长柳斌杰<a href="http://wbnews.sxrb.com/news/gn/1659144.html">表示</a>，正在修改《著作权法》，未来销售盗版光盘处罚门槛将大幅降低。《著作权法》修改有两个重点：一个重点就是加大数字版权保护的力度，第二个就是强化法律惩罚的措施，盗版的处理判刑可能要再增加，罚款判刑门槛将降低，过去销售600张盗版光盘才判刑，以后销售一张两张就会判刑。商业软件联盟（BSA）<a href="__SLASHLINK__" sect="software" sid="12/10/24/0721209" sn="article" tid="33">估计</a>，去年中国软件盗版率为77%。
+➜微软让Direct X 11.1成Windows 8独占
+https://www.solidot.org/story?sid=32231	9720
+微软<a href="http://social.msdn.microsoft.com/Forums/en/parallelcppnative/thread/774a19a5-4bf4-42dd-bee7-4cf2a74bfdb6">证实</a>，DirectX 11.1将成为Windows 8独占，它没有计划支持Windows 7。独占的原因是DirectX 11.1与新操作系统内核<a href="http://tech.slashdot.org/comments.pl?sid=3247815&amp;cid=41962871">整合紧密</a>。<i>
+从DX 10开始，DirectX工作将需要支持Windows显示驱动模型（WDDM）的GPU。Window7支持的是WDDM 1.1，而Windows 8支持的是WDDM 1.2，新版WDDM不支持之前的内核版本。如果要让WDDM 1.2支持Windows 7，微软将需对其进行重写，而这可能会让视频和CAD软件工作不正常。这也是为什么IE10目前只支持Windows 8的原因，微软需要重写才能让IE10支持Windows 7的WDDM 1.1和DIrectX 11。</i>
+➜迈克菲创始人因涉嫌谋杀被伯利兹警方通缉
+https://www.solidot.org/story?sid=32232	11880
+迈克菲杀毒软件创始人John McAfee<a href="http://arstechnica.com/tech-policy/2012/11/mcafee-security-founder-wanted-for-murder-in-belize/">因涉嫌谋杀被伯利兹警方通缉</a>，他被怀疑谋杀了另一位美国移民Gregory Faull，Faull上周六晚上在家中遭枪杀。<i>
+John McAfee在1990年代被迫离开他创建的安全公司，但在此过程中获得了1亿美元左右的补偿。在离开公司后，McAfee开创了极限运动aerotrekking，以及试图净化精神化合物“浴盐”。他多次受到指控，最近一次是今年5月份，他因为未获得制药许可和非法持有枪支<a href="__SLASHLINK__" sect="it" sid="12/05/04/0717259" sn="article" tid="6">而遭逮捕</a>。</i>
+➜中国屏蔽Google旨在测试外界反应
+https://www.solidot.org/story?sid=32233	13200
+Google服务上周五被屏蔽了大约十二个小时，《好莱坞报道》引用分析人士的话称，中国此举旨在测试政府的控制能力和<a href="http://www.hollywoodreporter.com/news/googles-china-shutdown-a-test-389600">观察外界的反应</a>。greatfire.org的博客<a href="https://zh.greatfire.org/blog/2012/nov/google-unblocked-again-was-it-mistake-or-test">认为</a>，“可能是某人不小心按错了按钮，对错误的域名进行了DNS污染。他们可能只想封锁 mail.google.com”，但“中国政府不仅封锁了google.com 和其子域名 (比如 mail.google.com, play.google.com, maps.google.com 等)，他们还DNS污染了google.com.hk 和google-analytics.com. 这不可能是一个错误导致的-他们必须添加3个封锁规则. 如果这不是因为错误导致, 这次对Google封锁还可能因为什么？”作者认为，中国可能旨在测试人民的反应，例如新浪微博就没有屏蔽Google搜索。
+➜泰坦领衔Top500超级计算机榜单
+https://www.solidot.org/story?sid=32235	19680
+美国橡树岭国家实验室的超级计算机<a href="__SLASHLINK__" sect="hardware" sid="12/10/30/0729210" sn="article" tid="124">泰坦</a>正式被冠名为世界最快计算机。<i>
+Top500刚刚<a href="http://www.top500.org/blog/lists/2012/11/press-release/">公布了</a>最新超计算机榜单，泰坦在Linpack基准测试中达到了17.59 Petaflop/s，它有560,640个处理器，其中包含261,632个NVIDIA K20x加速核心。第二是先前的第一，劳伦斯利弗莫尔国家实验室的Sequoia，运算能力16.32 Petaflop/s，第三是日本的K computer（10.51Petaflop/s），阿贡国家实验室的Mira(8.1624 Petaflop/s)，德国尤利西研究中心的JUQUEEN(4.14 Petaflop/s)，德国莱布尼茨超级计算中心的SuperMUC（2.897Petaflop/s），德州大学奥斯丁分校的Stampede（2.66Petaflop/s），中国天津超算中心天河1号A（2.566 Petaflop/s），意大利的Fermi（1.726Petaflop/s），IBM的DARPA Trial Subset（1.515Petaflop/）。在Top500中，有62台超算系统使用了加速器/协同处理器；84.6%的超算系统使用6核以上的处理器；英特尔处理器占了76%，AMD占12%，IBM Power占10.6%；美国的超级计算机正好占一半（250/500），欧洲105，亚洲124，中国有72台超级计算机系统入榜，仅次于美国；469台使用了Linux，3台使用Windows。</i>
+➜中情局长与情人共享Gmail帐号，情人或复用密码
+https://www.solidot.org/story?sid=32236	21360
+美国中央情报局局长彼得雷乌斯（David Petraeus）将军因与传记作家Paula Broadwell搞婚外恋而宣布辞职，他的外遇遭曝光起因是Broadwell因嫉妒以化名向彼得雷乌斯的一位女性密友Jill Kelley发送骚扰邮件，而Kelley向FBI投诉<a href="__SLASHLINK__" sect="it" sid="12/11/12/0233220" sn="article" tid="58">要求调查骚扰邮件</a>。结果是FBI发现Broadwell（使用化名）和彼得雷乌斯<a href="http://www.theatlantic.com/technology/archive/2012/11/gmails-location-data-led-to-the-discovery-of-the-petraeus-affair/265093/">共享了一个Gmail帐号</a>，两人在邮件草稿中分享了情人之间的甜言蜜语。除了Gmail帐号外，Broadwell还有一个雅虎帐号，她使用该帐号订阅了私人情报分析公司Stratfor的服务，Stratfor曾遭匿名黑客攻击，大批信息泄漏，其中包括了Broadwell的帐号paulabroadwell@yahoo.com，以及哈希密码deb2f7d6542130f7a1e90cf5ec607ad1。有人利用暴力破解方法破译密码，耗时17个小时破解出密码是“<a href="http://erratasec.blogspot.co.uk/2012/11/the-hacking-of-generals-mistress.html">vsKLVg8L</a>”。这是一个强密码。这件事引发了<a href="http://arstechnica.com/tech-policy/2012/11/petraeus-affair-offers-unintentional-lesson-on-password-reuse/">密码复用问题</a>，如果Broadwell的雅虎登录密码、Stratfor密码和Gmail密码都相同？匿名黑客将可能访问她的雅虎邮箱甚至是Gmail邮箱。
+➜Mozilla开发开源SWF运行时项目Shumway
+https://www.solidot.org/story?sid=32237	24840
+Mozilla官方博客<a href="https://blog.mozilla.org/research/2012/11/12/introducing-the-shumway-open-swf-runtime-project/">宣布了</a>一个开源自由软件项目<a href="http://mozilla.github.com/shumway">Shumway</a>，源码托管在Github上。<i>
+Shumway是<a href="http://www.adobe.com/devnet/swf.html">SWF文件格式</a>的实验性Web原生（Javascript）运行时实现，其意图一则是推动开放Web平台，安全处理此前只有闭源和私有实现的富媒体格式；二则是为没有运行时实现的平台提供SWF和其它富媒体格式的运行时处理器。Firefox beta版现在支持<a href="mozilla.github.com/shumway/extension/firefox/shumway.xpi">安装</a>Shumway的测试版扩展，预览SWF内容。</i>
+<a href="http://mozilla.github.com/shumway/">Demo演示</a>
+➜BeOS克隆Haiku发布R1 Alpha 4
+https://www.solidot.org/story?sid=32238	25200
+<a href="http://www.haiku-os.org/">Haiku OS</a>发布了第四个也是<a href="http://www.haiku-os.org/news/2012-11-12_haiku_release_1_alpha_4">最后一个Alpha版本</a>，距离第三个Alpha版本一年零四个月，Haiku R1A4主要变化包括大量bug修正，初步IPv6支持，改进驱动，改进文件系统支持，改善本地化，增强支持Intel和Radeon HD显卡，等等。Haiku项目启动于2001年，始于BeOS被Palm收购后不久，目标是将BeOS的先进技术与开源的自由结合起来，Haiku专为桌面系统设计，桌面用户体验是优先事项。开发者计划在2013年出发布R1。
+➜新技术能让光盘容量达到15TB
+https://www.solidot.org/story?sid=32239	27600
+富士胶片开发出了利用双光子吸收热量的新型光盘记录方式，可实现每层25GB的记录密度，并且有可能实现多达20层的多层化。利用该技术可实现双面双层、总容量为1TB的光盘，<a href="http://china.nikkeibp.com.cn/news/elec/63506-20121112.html?ref=ML">未来则有望能实现容量为25GB/层×3倍（8值）×100层×2倍（双面）＝15TB的光盘</a>。除了高容量外，双光子吸收光盘在成本上能与磁带等同，访问时间在几百毫秒～几十毫秒左右，略逊于硬盘的几毫秒，但HDD硬盘的成本是光盘/磁带的三倍。富士计划在2015年前投产。
+➜无意识大脑能算术和处理语言
+https://www.solidot.org/story?sid=32240	29100
+无意识的大脑可能不会让你在SAT测试中脱颖而出，然而根据发表在PNAS上的最新<a href="http://www.pnas.org/content/early/2012/11/07/1211645109">研究</a>，无意识大脑所具有的能力超出你的想象，<a href="http://spectrum.ieee.org/tech-talk/biomedical/diagnostics/your-unconscious-brain-can-do-math-process-language">它能处理复杂的语言处理和算术任务</a>。<i>
+在实验中，以色列希伯来大学研究人员利用最先进的<a href="http://en.wikipedia.org/wiki/Continuous_flash_suppression">连续闪现抑制技术</a>将志愿者保持在无意识状态下。他们先向志愿者的一只眼睛快速展示一系列彩色图案，明亮的图案会占据大脑的意识，大脑需要几秒钟时间才能控制意识，期间研究人员会向另一只眼睛展示非闪烁内容如文字或方程式，志愿者会看到句子I ironed coffee 或I ironed clothes，简单加减法9 − 3 − 4 =。结果发现，志愿者能下意识的迅速解答减法方程，但不能迅速回答加法方程。
+</i>
+➜PSP Emulator For Android发布
+https://www.solidot.org/story?sid=32241	30960
+开源PSP掌机模拟器项目<a href="http://www.ppsspp.org/">PPSSPP项目</a>发布了Android平台上的<a href="http://www.github.com/hrydgard/ppsspp">第一个PSP模拟器</a>。模拟器让玩家可以在触摸屏上玩游戏，但它离完美还很玩，仅有少数游戏的模拟达到可玩，如Puzzle Bobble Deluxe，Puyo Pop Fever和Pinball Fantasies，其它游戏还存在大量bug。相信模拟器的完善不需要PS2模拟器那样漫长。直到最近几年，<a href="http://zh.wikipedia.org/wiki/PCSX2">PS2模拟器</a>才在现代硬件上实现流畅运行游戏，主要原因是本世纪初发布的PS2主机使用了<a href="http://en.wikipedia.org/wiki/Emotion_Engine">不寻常的私有架构</a>，而PSP使用的是标准的CPU和GPU，模拟的难度<a href="http://games.slashdot.org/story/12/11/12/1629215/psp-emulator-for-android-released">不会太高</a>，今天智能手机上的GHz+ CPU能提供足够的运算能力。
+➜超对称理论面临危机
+https://www.solidot.org/story?sid=32242	33900
+<a href="http://en.wikipedia.org/wiki/Supersymmetry">超对称理论</a>（缩写Susy）是粒子物理标准模型的一个扩展，用于解释标准模型中的不一致之处。然而，标准模型历经数十年而不倒，<a href="http://www.bbc.co.uk/news/science-environment-20300100">但超对称理论却可能要送进医院大大修理一番了</a>。<i>
+大强子对撞机LHCb探测器探测到了自然界最罕见的<a href="https://cdsweb.cern.ch/record/1493302/files/PAPER-2012-043.pdf">粒子衰变事件之一</a>(PDF)，首次观察到一个B<span style="display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:85%; text-align:left;"> <br>
+s</span> </span>介子衰变成两个μ子(μ+和μ-)。根据研究人员的计算，每10亿次B<span style="display:inline-block; margin-bottom:-0.3em; vertical-align:-0.4em; line-height:1.2em; font-size:85%; text-align:left;"> <br>
+s</span> </span>介子会以这种方式衰变三次，如果超粒子存在，衰变频率应该更频繁。结果的统计可信度为3.5 sigma。</i>
+➜Windows部门总裁离职，接替者是女性
+https://www.solidot.org/story?sid=32243	35640
+Windows 8发布仅仅过了两周，项目总负责人、下一任微软CEO热门人选、Windows部门总裁Steven Sinofsky就被<a href="http://www.microsoft.com/en-us/news/Press/2012/Nov12/11-12AnnouncementPR.aspx">突然宣布了离职而且是立即生效</a>，接替他主管Windows工程业务的人选是<a href="http://www.zdnet.com/who-is-julie-larson-green-meet-the-new-head-of-windows-7000007292/">Julie Larson-Green</a>。现年47岁的Sinofsky<a href="http://cn.wsj.com/gb/20121113/tec112415.asp">主导了</a>微软旗舰产品Windows两个版本的开发，即2009年发布的Windows 7和上个月推出的Windows 8，微软CEO巴尔默(Steve Ballmer)在声明中称赞了Sinofsky的贡献。Larson-Green曾主管Windows计划，她的同事Jon DeVaan主管开发，Grant George主管测试，三人核心团队直接向Steven Sinofsky汇报。在这之前，Larson-Green参与过微软的Visual C++、IE 3.0和4.0，Office项目，是Office XP、Office 2003和Office 2007用户界面设计主管。
+➜新浪屏蔽毛派学者博文
+https://www.solidot.org/story?sid=32244	37500
+毛派评论家司马南<a href="http://www.voachinese.com/content/PRO-AND-CON-sima-nan-20121109/1542736.html">参加了</a>美国之音节目<a href="http://bbs.wenxuecity.com/currentevent/524796.html">辩论中国政改</a>（文字稿），他在新浪博客上<a href="http://blog.sina.com.cn/s/blog_4b4e0e980102e6xc.html">转发了</a>文字记录稿，但几小时后就被新浪以“该文章已经被加密”屏蔽之。司马南在辩论中捍卫了中国的政治制度，例如说“关于民主最本质的定义，即是‘人民最高主权’（卢梭），在中国的话语当中，就叫‘人民当家作主’...十八大的代表，以及遴选中央委员，难道没有一定的民主程序吗？只不过...”对于新浪屏蔽博文，司马南<a href="http://www.voachinese.com/content/hk-maoist-blog-20121113/1544539.html">认为</a>，这反映的是执政党需要提高执政能力，有关当局不能将网络管死。
+➜美国公民白宫请愿脱离联邦
+https://www.solidot.org/story?sid=32245	42300
+在奥巴马重新当选美国总统之后，多达20个州的公民在白宫<a href="https://wwws.whitehouse.gov/petitions">We The People</a>网站请愿要求和平脱离联邦。其中，内布拉斯加州（Nebraska）的<a href="https://petitions.whitehouse.gov/petition/peacefully-grant-state-nebraska-withdraw-united-states-and-create-its-own-new-government/Jf5xVXrS">联署人数</a>已获得超过4千签名（修正错误）；德州<a href="https://petitions.whitehouse.gov/petition/peacefully-grant-state-texas-withdraw-united-states-america-and-create-its-own-new-government/BmdWCP8B">联署人数</a>超过8万；路易斯安那州<a href="https://petitions.whitehouse.gov/petition/peacefully-grant-state-louisiana-withdraw-united-states-america-and-create-its-own-new-government/1wrvtngl">联署人数</a>超过3万。按照规定，如果签名超过2.5万，白宫需要对此<a href="http://www.politico.com/politico44/2012/11/secession-petitions-flood-white-house-website-149291.html">作出回应</a>。

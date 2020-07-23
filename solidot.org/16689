@@ -1,0 +1,52 @@
+➜微软不问用户就下载Windows 10
+https://www.solidot.org/story?sid=45460	11718
+微软证实，不管用户有没有决定“升级”到Windows 10，它在例行更新中<a target="_blank" href="http://www.theinquirer.net/inquirer/news/2425381/microsoft-is-downloading-windows-10-to-your-machine-just-in-case"><u>向他们推送了Windows 10</u></a>。一位没打算升级的用户在系统内发现了Windows 10的镜像，镜像放在一个名叫$Windows.~BT的隐藏文件夹内，占据了 3.5GB到6GB的空间，而Windows更新历史中出现了Windows 10升级失败的记录。微软对此回应说，如果用户有一天决定升级，那么升级文件就已准备就绪了，他们推送Windows 10是帮助设备做好升级准备。硬盘容量有限的人注意了，微软悄悄的吞掉了一大块空间。<br>
+➜美国情报主管称中国网络间谍威胁美国利益
+https://www.solidot.org/story?sid=45461	12578
+美国国家情报局局长克拉珀（James R. Clapper）周四在<a target="_blank" href="https://intelligence.house.gov/hearing/world-wide-cyber-threats"><u>众议院情报委员会听证会</u></a>上说，中国继续对美国发起网络间谍活动，针对的目标包括美国国家安全信息，敏感的经济数据和知识产权。克拉珀说，虽然中国的网络行动能力很强，但中国黑客经常能在不使用尖端手段的情况下攻入他们的目标。
+他说，美国应该通过“应对不太尖端的威胁，并且在中国坚持继续网络间谍活动的时候增加他们的代价和风险”，这样就能干扰中国网络间谍活动，改善美国的网络安全。“目前，来自任何一方的灾难性攻击的可能性并不大”，但他<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2015/09/150910_us_china_cyber_threat"><u>预测</u></a>，持续的“低水平网络攻击”能破坏美国的经济竞争力和国家安全。
+➜研究人员开发会说话的人工智能监控探头
+https://www.solidot.org/story?sid=45462	15277
+监控探头已经变得无处不在。据估计中国有大约2000万到3000万个探头，它们一次又一次的捕捉你我的图像，将这些图像储存在某个地方。它们悄无声息，以至于我们很多时候都忘记了有人在时刻注视着我们。现在，纽约大学的研究人员 <a target="_blank" href="http://www.thehypertext.com/"><u>Ross Goodwi</u></a>n 和Gene Han想提醒公众对监控设备在生活中渗透的关注，他们的最新项目是<a target="_blank" href="https://github.com/rossgoodwin/photosynthesis"><u>会说话会与人交流的人工智能探头</u></a>。它会高声说出它看到的东西。项目本身是一个交互式艺术项目，设计目的是促使我们去思考人类与周围监视我们的机器人之间的日益复杂的关系。
+➜Ashley Madison用户密码被破解
+https://www.solidot.org/story?sid=45463	16542
+黑客上个月公开了3600万Ashley Madison注册用户的密码，其中密码是用哈希函数bcrypt加密的，破解难度较高。理论上需要几年时间才可能破解出其中一小部分密码，但实践中的一些错误会大大降低破解难度。名叫 CynoSure Prime的组织就发现了网站的编程错误，该组织的成员利用弱点已经破解出了1100多万Ashley Madison用户的密码。CynoSure Prime<a target="_blank" href="http://arstechnica.com/security/2015/09/ashley-madison-password-crack-could-spell-trouble-across-the-internet/"><u>没有将破解出的密码公开</u></a>，但他们发现的漏洞不可避免会被其他人重新发现。如果Ashley Madison用户重复使用了密码，那么他们需要尽快更换密码。
+➜RMS谈软件的“货币化”，软件即服务、智能手机和隐私
+https://www.solidot.org/story?sid=45464	22014
+自由软件基金会主席RMS<a target="_blank" href="http://news.slashdot.org/story/15/09/09/2252212/interviews-rms-answers-your-questions"><u>接受了/.读者的采访</u></a>，回答了软件的“货币化”、软件即服务、智能手机、隐私、自由技术的未来，微软开源努力等方面的问题。<i>对于软件的“货币化”，RMS说他必须运用全身心的自控能力才能文明的回答这个问题，因为“货币化”这个词内含的一层意思是要将所有的一切都变钱，于是写程序的唯一目的就是为了转化成钱。他不反对以道德的方式赚钱，自由软件也能以道德的方式筹资，但“货币化”这个词会扭曲你的思想，将你变成一只寄生虫。RMS不喜欢软件即服务这个名字，他更喜欢称之为服务即软件替代，服务能做你电脑上软件能做的工作。他坚持将服务和客户端程序区分开来，实现服务的服务器软件不直接影响服务的使用者，他只希望服务器运行的是自由软件。但Web服务的一大问题是它会以JS脚本的形式向浏览器发送自动运行的代码，这些代码多是私有的，RMS会阻止这些代码执行。对于智能手机，他坚持称它们为跟踪设备，指出手机的一个问题它的无线调制解调器没有自由软件替代，始终运行的是私有软件，它有一个后门，能通过无线电发送命令修改。无线调制解调器能控制手机的主处理器，替代它运行的软件。很不幸的，目前不存在能完整运行自由软件的手机。另一个问题是，手机一直在发送信号，蜂窝网络使用这些信号判断手机的位置，所以每一台手机都是跟踪设备。RMS反对使用开放或开源的名字，因为开放的意思是不充分的，我们需要的是自由。RMS称，过去20年技术被日益用于实现监视，大多数美国公民受到的监视更甚于苏联公民。他认为我们需要重新设计数字系统避免积累过多的用户资料，我们需要热情的称颂Edward Snowden在揭发美国大规模监视活动上的贡献。微软最近开始开源它的软件，但RMS指出微软最重要的软件仍然是私有的，仍然是恶意程序，Windows 10是比Windows 8更糟糕的恶意程序。我们不能仅仅因为微软开发了一些自由软件就原谅它，这是一个巨大的错误。</i>
+➜研究称发现阿尔茨海默病特征人际传播的证据
+https://www.solidot.org/story?sid=45465	24812
+科学家在《自然》期刊上发表<a target="_blank" href="http://www.nature.com/nature/journal/v525/n7568/full/nature15369.html"><u>研究报告</u></a>，称首次发现了阿尔茨海默病临床特征可在人际间传播的证据。当然阿尔茨海默病并非是传染病，研究人员所发现的是构成阿尔茨海默病的某个元素可能会在人与之间传播，他们表示需要更多研究才能确认。研究人员在克雅二氏病(CJD)死者的大脑中发现了发展中的阿尔茨海默病病状迹象。克雅二氏病可通过受感染的生长激素患上。论文作者科林奇(John Collinge)教授说，“我不认为有任何理由感到恐慌，要评估这里面可能存在何种风险——假设风险真的存在的话——需要进行深入得多的研究。”
+<a target="_blank" href="http://www.ftchinese.com/story/001063905"><u>他补充道</u></a>：“你与阿尔茨海默病患者一起生活或照顾他们，是不会被传染上那种病的。”
+➜Android勒索软件改变锁屏PIN锁住受害者
+https://www.solidot.org/story?sid=45466	31195
+针对Android设备的勒索软件<a target="_blank" href="http://arstechnica.com/security/2015/09/new-android-ransomware-locks-out-victims-by-changing-lock-screen-pin/"><u>正变得日益先进</u></a>。一种新发现的勒索软件能重设设备的PIN锁。修改PIN码恢复对设备的控制将需要用户恢复出厂设置。名叫<a target="_blank" href="http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/"><u>Dubbed Android/Lockerpin.A</u></a>的恶意程序首先诱骗缺乏经验的用户给予它管理员权限，它用假的补丁安装窗口覆盖在激活通知上。当用户点击了继续按钮，他们事实上是授予了恶意程序管理员权限，允许它改变设备设置。当恶意程序修改PIN码后，用户要么付钱要么恢复出厂设置抹掉设备上的数据。
+➜Epic免费发布《无尽之剑》游戏素材
+https://www.solidot.org/story?sid=45467	32055
+虚幻引擎开发商Epic宣布<a target="_blank" href="https://www.unrealengine.com/blog/free-infinity-blade-collection-marketplace-release"><u>免费公开</u></a>《无尽之剑》的素材库，开发者可以在自己的游戏中自由利用这些素材。《无尽之剑》是以画面著称的iOS动作游戏。Epic在网站上称，这些艺术和音频素材是300万美元投资的成果。Epic的虚幻4引擎可供开发者免费使用，非商业使用无需支付任何后续费用，但商业发行收入超过一定金额后需要支付5%的版费。另外游戏开发商宣布最新的《<a target="_blank" href="https://itunes.apple.com/us/app/infinity-blade-iii/id610003290?mt=8"><u>无尽之剑III</u></a>》限时免费。
+➜3D打印酒店套房
+https://www.solidot.org/story?sid=45468	33317
+<center>
+<iframe src="https://www.youtube.com/embed/g6u5FPdPMWE" allowfullscreen="" frameborder="0" height="240" width="427"></iframe><br>
+<br>
+</center>
+在亚洲，3D打印建造于已蔚然成风。中国的盈创新材料有限公司<a target="_blank" href="http://www.solidot.org/story?sid=39188"><u>去年称</u></a>，它使用巨大的3D打印机一天内在上海郊区建起了10栋200平方米的别墅。现在在菲律宾，工程师Lewis Yakich用3D打印机<a target="_blank" href="http://www.treehugger.com/modular-design/first-3d-printed-hotel-suite-built-phillipines.html"><u>打印了</u></a>一间1500平方英尺的酒店套房。他表示，第一台打印机的组装花了2个月时间，以后组装打印机不要这么长时间，因为流程已经掌握了。Yakich说花了一个月时间研制和测试打印材料，称当地混合火山灰的沙子很难挤出来，他们找到了可靠的工艺能打印出更坚固的墙壁，层与层能更好粘合在一起。他表示，使用3D打印大幅减少建造成本。
+➜长寿基因可能藏在长寿吸烟者的基因里
+https://www.solidot.org/story?sid=45469	34546
+Jeanne Calment在1997年去世时享年122岁，被认为是世界上最长寿的人，她有一个与众不同的养生习惯：饮食无度，爱好抽烟。她从21岁起开始抽烟，每周吃掉两磅巧克力，还爱饮波特酒。众所周知，吸烟对健康有害，吸烟者的平均寿命比非吸烟者短10年。但Calment的故事告诉我们总是会有例外发生。加州洛杉矶分校的研究人员分析了Calment等长寿吸烟者的基因组成，<a target="_blank" href="https://www.washingtonpost.com/news/to-your-health/wp/2015/09/10/long-lived-smokers-may-be-a-biologically-distinct-group-with-an-extraordinary-gene-network/"><u>发现了</u></a>一组被认为能更好的承受和减轻环境伤害的遗传标记。研究人员认为这些基因可能通过增加细胞维护和修补去促进了长寿。<a target="_blank" href="http://biomedgerontology.oxfordjournals.org/content/early/2015/09/08/gerona.glv141.full%5Bbiomedgerontology.oxfordjournals.org"><u>研究论文</u></a>发表在《Journals of Gerontology, Series A: Biological Sciences &amp; Medical Sciences》期刊上。
+➜法国法庭判决孟山都犯有化学毒害罪
+https://www.solidot.org/story?sid=45470	36068
+法国里昂的一家上诉法庭<a target="_blank" href="http://www.reuters.com/article/2015/09/10/france-monsanto-court-idUSL5N11G3GH20150910"><u>维持了原判</u></a>，判决孟山都犯有化学毒害罪，一位法国农民在吸入了该公司的杀虫剂后出现了神经性问题。法庭裁决孟山都要对中毒负责，向农民作出赔偿。孟山都律师表示会继续上诉至法国最高的上诉法院。
+➜Uber的上诉又一次失败
+https://www.solidot.org/story?sid=45471	38392
+在加州劳工委员会裁决Uber司机是该公司的雇员而不是合同工之后，Uber的三次上诉<a target="_blank" href="http://yro.slashdot.org/story/15/09/10/1410228/california-overturns-ubers-appeal-its-drivers-are-employees-not-contractors"><u>都遭到了失败</u></a>，加州就业发展局驳回了上诉。加州劳工委员会最早的判决认为，Uber需要根据加州劳工法的规定向雇员提供满足法规要求的福利。而Uber则主张司机是合同工，它本身只是一个中立的技术平台。
+➜Debsources：观察自由软件的二十年历史
+https://www.solidot.org/story?sid=45472	40951
+<a target="_blank" href="https://sources.debian.net/"><u>Debsources</u></a>项目提供了Debian软件库所有软件源码的Web访问界面，但它不只是一个源码浏览工具，它还提供了一个可搜索的<a target="_blank" href="http://lwn.net/Articles/656294/"><u>20年自由软件历史的观察窗口</u></a>。Debsources的数据库索引了1998年以来Debian发布的所有稳定版、不稳定版和实验版分支的软件包，包含了推送到官方库所有的更新，每次有一个文件上传到 Debian 存档，数据库都会自动增加一个变化，它还整合了Debian自己的代码搜索工具<a target="_blank" href="http://codesearch.debian.net/"><u>codesearch</u></a>和<a target="_blank" href="https://tracker.debian.org/"><u>包跟踪器</u></a>。它跟踪了每一个文件的 SHA-256哈希值，能快速识别重复文件，比如它发现存档里有 4309个GPL3版权声明文件。为了节省磁盘空间，开发者正计划实现文件水平的重复删除功能，因为在unstable库内储存 4309份GPL3版权文件是没有必要的。研究人员认为，Debsources可以成为一个研究平台，可以观察流行编程语言在过去二十年的演变等。
+➜一窥惠普的The Machine
+https://www.solidot.org/story?sid=45473	43966
+惠普研究人员<a target="_blank" href="https://lwn.net/Articles/655437/"><u>谈论了</u></a>该公司正全力研发的<a target="_blank" href="http://www.hpl.hp.com/research/systems-research/themachine/"><u>The Machine</u></a>——采用忆阻器的新型计算机以及相应的操作系统。忆阻器是一种有记忆功能的非线性电阻器，关闭电源后仍具有记忆数据的能力。忆阻器记忆体可被同时用于短期和长期的数据储存。<i>今年初加盟惠普的知名X Window System开发者Keith Packard认为，传统计算机的计算需要移动内存，涉及到CPU中的电子，光连接器中的光子和存储器中的离子。The Machine改变了这一切，所有的计算节点都在内存级别连接起来，每个处理器都能加载或储存指令去访问任何系统的内存。它正在研发的The Machine节点的计算部分使用了1个64位ARM SoC，256GB本地内存，用FPGA去实现下一代内存互联协议NGMI，存储部分有4个内存组，每个1TB，每个都有自己的NGMI FPGA。选择ARM SoC是因为ARM供应商对该项目很热情。8个节点构成一个5U机箱，10个机箱构成一个机架，1个机架有80个处理器，320TB内存。多个机架组合起来可以让每个处理器能访问的内存容量增加到32ZB。Packard说，曾经有人说640KB内存就足够了，而他现在面临的挑战是64位ARM和 Intel CPU所用48位地址的限制，它允许的最大寻址空间是256TB。The Machine运行的系统是GPL系统，Packard称，如果华盛顿的某家私有公司想将它的系统移植到The Machine，它肯定可以。</i>
+➜八成创业公司融资造假，但SEC文件没造假
+https://www.solidot.org/story?sid=45474	45303
+腾讯本月初<a target="_blank" href="http://tech.qq.com/a/20150901/009759.htm"><u>报道</u></a>，夸大虚报融资金额，正成为创投圈公开的潜规则，并在外界不痛不痒的批评声中愈演愈烈。
+“80%以上的创业公司都会虚报融资，人民币变美元，融资金额乘以3倍5倍太平常，甚至乘以10倍的都大有人在，而把根据业绩情况分阶段到位的投资变成一次性融资更是普遍做法。”国内科技公司中实际融资额能达到1亿美元以上的少之又少，A轮融资真达到1亿人民币的公司2015年也很难超过15家——但统计显示目前A轮对外宣称融资亿元及以上的公司至少有60家，水分不言而喻。虽然在媒体宣传中造假，而这些数据在创业公司递交SEC文件中<a target="_blank" href="https://www.techinasia.com/chinas-startups-lying/"><u>则大大缩水</u></a>。比如窝窝团在2011年声称B轮融资2亿美元，但<a target="_blank" href="http://fortune.com/2011/06/30/10-largest-vc-deals-of-q2/"><u>SEC文件</u></a>中说该公司在2011获得6600万美元投资。<br>

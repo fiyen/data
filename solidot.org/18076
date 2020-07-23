@@ -1,0 +1,15 @@
+➜微软公开 WSL2 使用的 Linux 内核源代码
+https://www.solidot.org/story?sid=61170	50017
+根据 GPL 许可证要求，微软<a href="https://github.com/microsoft/WSL2-Linux-Kernel"><u>公开了</u></a> WSL2 使用的 Linux 内核源代码，源代码托管在 GitHub 上。微软今年早些时候<a href="https://www.solidot.org/story?sid=60985"><u>透露</u></a>，它的第二代  Windows Subsystem for Linux 或 WSL2 将使用真正的 Linux 内核，第一代 WSL 只是提供了等价的 Linux API，性能比原生 API 差很多，但第二代将使用 Hyper-V 创建一个轻量级虚拟机运行真正的 Linux 内核。按照 Linux 内核使用的 GPLv2 许可证要求，微软需要公布它修改的内核源代码。
+➜特朗普表示允许美国公司向华为供货
+https://www.solidot.org/story?sid=61171	51130
+中美宣布重启贸易谈判，美方不再对中国出口产品加征新的关税。美国总统特朗普在新闻发布会上<a href="https://www.bbc.com/zhongwen/simp/chinese-news-48809873"><u>表示</u></a>，他已经允许美国公司向华为继续销售产品。“我们向华为销售大量产品用于制造他们的各种产品，我说没事，我们将继续销售这些产品。"特朗普称，"这都是美国公司在生产产品......（因为不能卖东西）我们的公司不是很高兴，这都是些伟大的公司，你们都认识......华为是一个复杂的问题，我们需要把华为问题留到最后。”
+➜Firefox 69 将加入随机密码生成器
+https://www.solidot.org/story?sid=61172	52672
+预计将在 9 月初发布的 Firefox 69 将<a href="https://www.zdnet.com/article/firefox-to-get-a-random-password-generator-like-chrome/" target="_blank"><u>包含一个随机密码生成器</u></a>。Chrome 则早在一年前就提供了类似的功能。目前用户可通过测试版本 Firefox Nightly 使用随机密码生成器，该功能位于设置—“隐私和安全”的“登陆和密码”下。Firefox 应该使用的是操作系统提供的随机数生成器去生成足够随机的密码。随机的密码比重复使用相同的密码要安全得多。根据 Mozilla 的时间表，Firefox 69 还将默认禁用 Flash。
+➜伊朗扣押了一千台比特币矿机
+https://www.solidot.org/story?sid=61173	55048
+伊朗当局在两家废弃的工厂内<a href="https://www.reuters.com/article/us-crypto-iran/iran-seizes-1000-bitcoin-mining-machines-using-subsidized-power-idUSKCN1TS2VL" target="_blank"><u>查获了一千台比特币矿机</u></a>。挖掘比特币使用的矿机需要消耗大量的电力，而伊朗的电力比较便宜，电价有政府补贴。伊朗电力官员称，两个比特币矿场消耗了一兆瓦电力。矿机被认为导致该地区该月电力消费增长了 7%。伊朗已经禁止了比特币，2016 年央行以担忧洗钱为由禁止银行处理比特币在内的加密数字货币。
+➜苹果公司将 Mac Pro 生产转移到中国
+https://www.solidot.org/story?sid=61174	55177
+苹果公司正将 Mac Pro 工作站的组装工作<a href="https://www.wsj.com/articles/apple-moves-mac-pro-production-to-china-11561728769?mod=rsswn"><u>转移到中国</u></a>。自 2013 年起苹果在得州奥斯丁拥有一座 Mac Pro 的组装工厂，由 Flex 运营，但工厂遇到了问题，它招不到愿意拿最低工资的熟练工人。随着 Mac Pro 销量的下降，工厂也开始了裁员。Mac Pro 将转移到位于上海的组装工厂。苹果称这将能降低运输费用，更接近它在亚洲的供应商。苹果<a href="https://www.cnbc.com/2019/06/28/apple-moves-mac-pro-production-from-the-us-to-china.html" target="_blank">表示</a> Mac Pro 的工程和设计都是在美国完成的，也使用了美国生产的组件。<br>

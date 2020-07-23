@@ -1,0 +1,66 @@
+➜苹果继续信任CNNIC的根证书
+https://www.solidot.org/story?sid=43648	11589
+在CNNIC被发现签发了一个允许签发假的Google域名证书的中级CA后，Google和Mozilla先后宣布不再信任CNNIC的根证书。为了减少对用户的影响，Google和Mozilla仍然信任现有的CNNIC证书，但不再接受其新签发的证书。CNNIC的主管单位是中国互联网最高监管机构网信办。苹果本周三向 iOS和OSX释出了一个重大安全更新，但CNNIC的根证书<a target="_blank" href="https://threatpost.com/apple-leaves-cnnic-root-in-ios-osx-certificate-trust-lists/112086"><u>仍然在苹果的信任列表中</u></a>。对于苹果的iOS设备，用户无法像Linux和Windows那样手动删除根证书。苹果对于伪造证书一事至今没有发表公开声明，而微软则屏蔽了中级CA但没有吊销CNNIC根证书。
+➜OS X隐藏了一个root提权后门API
+https://www.solidot.org/story?sid=43649	12689
+OS X的管理框架<a target="_blank" href="https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/"><u>隐藏了一个后门API</u></a>，允许将任何用户帐户的权限提升到root。这个漏洞存在了许多年，安全研究人员在2014年10月发现了这个漏洞，苹果在刚刚释出的<a target="_blank" href="https://support.apple.com/en-us/HT204659"><u>OS X 10.10.3</u></a> 中修正了该漏洞。但OS X的旧版本没有修正，使用旧版本的用户最好升级到OS X 10.10。苹果决定不修正旧版的理由是它需要对系统进行大量的变动，太麻烦了所以就不弄了。
+➜遭黑客攻击的法国电视台在电视采访中曝光了自己的密码
+https://www.solidot.org/story?sid=43650	15863
+<div align="center"><img src="http://img.solidot.com.cn/0/157/lidKSgBgAGto.jpg" align="" height="297" width="540"><br>
+<br>
+</div>
+法国电视国际五台（TV5Monde）<a target="_blank" href="http://cn.rfi.fr/%E6%B3%95%E5%9B%BD/20150409-%E6%B3%95%E5%9B%BDtv5monde%E7%94%B5%E8%A7%86%E5%8F%B0%E5%8F%97%E6%81%90%E6%80%96%E9%AA%87%E5%AE%A2%E8%A2%AD%E5%87%BB/"><u>遭伊斯兰黑客组织的攻击</u></a>，电视频道、网站和社交平台（如<a target="_blank" href="https://www.facebook.com/tv5mondeofficiel"><u>Facebook</u></a>）全面瘫痪。电视屏幕变成了黑屏。法国总理瓦尔斯称，攻击TV5Monde电视台的行为是对新闻和言论自由的侵犯，是不能令人接受的。法国文化和通讯部长佩瑞琳称，TV5Monde电视台是恐怖主义行为的受害者。但TV5Monde自身也反映出其安全意识极其淡薄：在该台记者接受电视采访的时候，摄像机拍下了TV5Monde的Twitter和 Instagram 帐户的<a target="_blank" href="http://arstechnica.com/security/2015/04/hacked-french-network-exposed-its-own-passwords-during-tv-interview/"><u>用户名和密码</u></a>。<br>
+➜Linux基金会将托管Let's Encrypt项目
+https://www.solidot.org/story?sid=43651	17215
+<div align="center"><img src="http://img.solidot.com.cn/0/750/liv1oNHXc0lNM.png" align="" height="246" width="480"><br>
+<br>
+</div>
+Linux基金会<a target="_blank" href="http://www.linuxfoundation.org/news-media/announcements/2015/04/linux-foundation-host-open-encryption-project"><u>宣布</u></a>它将托管<a target="_blank" href="https://letsencrypt.org/"><u>Let's Encrypt</u></a>项目和互联网安全研究组（ISRG）。Let’s Encrypt CA项目由Mozilla、思科、Akamai、IdenTrust和EFF等组织发起，向网站自动签发和管理免费证书，加速将Web从HTTP过渡到HTTPS。ISRG则是开发Let’s Encrypt CA的非营利组织。Linux基金会执行董事Jim Zemlin说，Web作为我们生活的一部分已有几十年了，但网络中的数据共享仍然面临危险。
+➜海洋酸化导致2,52亿年前的二叠纪-三叠纪之交生物大灭绝
+https://www.solidot.org/story?sid=43652	18250
+<a href="mailto:w214304975@163.com">Evol</a> 写道<i> "发生于2.52亿年前的二叠纪-三叠纪之交生物大灭绝是地球地质历史以来的一次规模最大的生物灭绝事件。科学家提出了众多大灭绝发生的机制，如全球变暖、海洋酸化、海洋缺氧等。<a href="http://www.sciencemag.org/content/348/6231/229.abstract" target="_blank">最近</a>，研究人员利用硼同位素以及定量模型揭示了这段时间的高精度的海水P-T值曲线。通过数据分析，他们认为西伯利亚大火成岩省的爆发可能在晚二叠世向大气和海洋中注入了两波的二氧化碳。二叠纪末较高碱度的海水和低二氧化碳的大气对第一幕缓慢注入海水和大气的的碳起到了缓冲作用，海水的PH值保持稳定。但是第二幕的快速而大量的碳注入导致了海洋的快速酸化，对钙质海洋生物的灭绝起到了重要作用。"</i>
+➜DARPA想要开发出能运行百年的软件系统
+https://www.solidot.org/story?sid=43653	25159
+普通消费者已习惯了软件的升级换代，但对军方而言软件的升级并非是一个小问题。美国国防部高级研究计划署（DARPA）<a target="_blank" href="http://www.darpa.mil/NewsEvents/Releases/2015/04/08.aspx"><u>为此发起了一个为期四年的研究项目</u></a>，调查能在百年时间内保持软件和数据的鲁棒和功能所需的基本计算理论和算法。该项目被称为The Building Resource Adaptive Software Systems（BRASS），旨在寻求理解能动态适应资源和运作环境变化的长寿软件系统的设计和实现的基础性理论。实现长寿软件系统将需要开发新的语言抽象，形式化方法和资源敏感程序分析去发现和指定程序转变，以及设计监视数字生态系统环境变化的系统。
+➜Google招募人才的秘密
+https://www.solidot.org/story?sid=43654	28304
+Google人力运营高级副总裁Laszlo Bock刚刚出版了一本新书叫《<a target="_blank" href="http://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790/"><u>Work Rules!</u></a>》，畅谈了搜索巨人<a target="_blank" href="http://www.wired.com/2015/04/hire-like-google/"><u>招募人才的秘密</u></a>。《连线》摘录了书中的一部分。Laszlo援引研究称，大部分面试是浪费时间，因为面试官在前10秒钟就会根据第一印象作出判断，面试官之后的询问是在确认他们的判断而不是去真正评估应聘者。心理学家称这一现象为“确认偏见”。Google当然想要避开这些偏见，它开发了一个叫qDroid的内部工具去帮助面试官，从各个角度去真正评估应聘者。Laszlo说，Google有一个跨职能面试官，与应聘者所应聘工作基本无关的人参加面试，以提供有关应聘者的一个更公平的评估。
+➜超级稻被指隐瞒缺陷
+https://www.solidot.org/story?sid=43655	29366
+袁隆平农业高科技股份有限公司的超级稻“两优0293”因受稻瘟病影响，在安徽出现大面积绝收，受灾农民质疑种子生产企业涉嫌虚假宣传，隐瞒品种缺陷。《南方周末》<a target="_blank" href="http://www.infzm.com/content/108763"><u>报道称</u></a>，“500公斤的产量变成了50公斤，甚至颗粒无收”，受灾面积超过万亩。当地农民发现，“两优0293”内外包装不一致，外包装显示抗性5.6级，即发病率不到25%，内包装又说明抗性最高9级（级别越高，抗病能力越差），即发病率有可能超过50%，甚至达到100%，其中涉嫌虚假宣传、刻意隐瞒品种缺陷，招致重大损失。公司执行总裁彭光剑<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/4/316663.shtm"><u>回应称</u></a>，绝收主要是自然灾害导致，主要是因为区域性的突发异常天气。除安徽外，“两优0293”还在江苏多次出现绝收情况，公开信息显示，2014年底，“两优0293”使得当地一百多户800亩水稻减产绝收。
+➜夏威夷原住民以玷污神圣土地为由阻止建造最大望远镜
+https://www.solidot.org/story?sid=43656	31717
+<div align="center"><img src="http://img.solidot.com.cn/0/158/liTIwccDQrs.jpg" align="" height="338" width="450"><br>
+<br>
+</div>
+夏威夷Mauna Kea火山上正在建造世界最大的陆地望远镜<a target="_blank" href="http://www.tmt.org/about-tmt"><u>Thirty Meter Telescope</u></a>（TMT），但这一项目遭到了夏威夷原住民的抗议，抗议者声称建造望远镜是在玷污神圣的土地。夏威夷州州长David Ige<a target="_blank" href="http://news.sciencemag.org/people-events/2015/04/hawaii-protests-force-pause-construction-world-s-largest-telescope"><u>宣布本周暂停建造活动</u></a>，表示将就火山的神圣性和望远镜科学研究的重要性与原住民展开进一步对话。警方上周逮捕了31名堵住前往望远镜建造地点公路的抗议者。但逮捕在原住民活动人士中间激起了愤怒，他们在全州举行集会。州长认为暂停建造将为多方讨论留出更多时间。抗议者对此表示怀疑，他们坚称望远镜项目是非法的。Mauna Kea自然保护区已有13座望远镜，但占地2公顷18层楼高的TMT将让其它望远镜相形见绌。夏威夷原住民将Mauna Kea火山视为神居住的神圣之地，只有在重大仪式时人类才能前往访问。
+➜印度将用装备胡椒喷雾器的无人机遏止骚乱
+https://www.solidot.org/story?sid=43657	33852
+印度北方邦Lucknow市的警察总监<a target="_blank" href="http://www.telegraph.co.uk/news/worldnews/asia/india/11521639/Indian-police-to-use-pepper-spray-drones-on-protesters.html"><u>告诉媒体</u></a>，他们获得了五架能用胡椒喷雾器驱赶不守规矩人群的无人机。每架无人机的价格大约6万人民币（60万印度卢比），飞行距离1公里，飞行高度600米，能携带2公斤负荷。这不是警方第一次部署无人机，北方邦政府曾租赁了一些监控无人机，对无人机的表现印象深刻，就直接买下而不是租赁无人机。
+➜意大利暗物质项目观察到的信号源既不是暗物质也不是μ介子
+https://www.solidot.org/story?sid=43658	36746
+自1998年起，意大利Gran Sasso国家实验室DAMA-LIBRA实验每年都报告从暗物质探测器上观察到周期性的振荡信号。部分物理学家<a target="_blank" href="http://www.solidot.org/story?sid=5939"><u>相信</u></a>这是第一次直接探测到暗物质粒子，是地球穿过银河暗物质光晕的结果。过去17年收集的数据使统计显著性达到了9.3σ，远远超过粒子物理发现所需要的5σ。但除了美国的暗物质实验 CoGENT ，没有其它搜寻暗物质的探测器观察到类似效应。英国谢菲尔德大学的Vitaly Kudryavtsev和 Joel Klinger的最新研究认为，DAMA观察的信号源可能既不是来自暗物质也不是μ介子，而很可能是数据收集装置的<a target="_blank" href="http://physicsworld.com/cws/article/news/2015/apr/09/dark-matter-and-muons-are-ruled-out-as-dama-signal-source"><u>一个故障导致的</u></a>。
+➜硅谷秘密的共和党人
+https://www.solidot.org/story?sid=43659	39721
+被自由市场统治的激荡着创意的硅谷，<a target="_blank" href="http://www.nationaljournal.com/politics/gop-silicon-valley-20150408"><u>有一群人隐藏着真实的自我</u></a>。他们是投票或捐款给共和党候选人的高科技公司员工、创业者和CEO。统治旧金山湾区的是自由主义思想，这群少数派因担心受到指责而只能隐藏自己的政治观点。硅谷长期以来是自由主义的堡垒，自乔治 H.W.布什在1988年赢下纳帕县后，共和党总统候选人再也没有赢下硅谷任何一个县。2012年的大选，奥巴马在旧金山获得了84%的选票，而罗姆尼只有13%。工作在硅谷的共和党支持者常常保持着缄默。在工作场所谈论政治，人们都基本假定每个人有着相似的政治观点。2014年Brendan Eich被提拔为Mozilla CEO，他仅仅上任两周时间就因为在2008年支持反同性恋婚姻提案Proposition 8而下台。在湾区，身为共和党人是很难找到工作的，他们的简历会被剔除出去。
+➜中国造海水淡化工厂为京城供水
+https://www.solidot.org/story?sid=43660	41081
+在唐山附近的渤海湾，中国<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-04-09/china-embraces-desalination-to-ease-water-shortages"><u>启动</u></a>了一项就中国人标准来说也是雄心勃勃的工程：从2019年开始，海水淡化工厂将每天淡化12万吨海水，产生的5万吨可饮用水将输送到270公里外的北京。中央政府的海水利用特别计划目标是到2020年每天产生300万吨的饮用水——是目前海水淡化能力的四倍。中国668个大城市中至少400个面临缺水问题。中国将成为外国海水淡化公司的最大市场。渤海湾淡化工厂将耗资70亿，而连接北京的管道将耗资100亿。这还没有包含工厂启动消耗的电力，淡化海水需要消耗大量的电力。
+➜NASA认为我们将在10到20年内发现外星生命
+https://www.solidot.org/story?sid=43661	43490
+“我们在宇宙中是孤独的吗？”NASA给出了差不多否定的答案。NASA首席科学家Ellen Stofan称她相信我们能在10年内看到地球之外存在生命的明显迹象，在10到20年内<a target="_blank" href="http://phys.org/news/2015-04-nasa-alien-life-years.html"><u>发现外星生命的确凿证据</u></a>，“我们知道去哪里看，我们知道如何去看，大部分情况下我们也有技术。”另一名NASA官员说，外星生命不是有没有的问题，而是何时会发现的问题。NASA行星科学主任 Jim Green引用火星极地冰盖上空大气层的分析称，火星北半球的一半曾有1英里深的海洋，火星在很长一段时间里是有水的。Green说，我们现在知道宜居区不仅仅是位于恒星周围，而且还可能位于巨大行星周围。
+➜新浪被约谈，被勒令整改
+https://www.solidot.org/story?sid=43662	43784
+官方媒体<a target="_blank" href="http://www.bjnews.com.cn/news/2015/04/10/359583.html"><u>报道</u></a>，国家互联网信息办公室有关业务局及北京市互联网信息办公室的负责人对近期受到大量网民举报、违法问题突出的新浪公司的负责人进行了联合约谈。互联网违法和不良信息举报中心2015年接到涉新浪的举报6038件，其中4月份仅前8天就达1227件，居主要网站之首。举报集中在传播谣言、暴恐、淫秽色情、诈骗、宣扬邪教等违法信息及歪曲事实、违背社会公德、炒作恶俗低俗信息等行为。此外，新浪存在违法登载新闻信息、账号审核把关不严、抢发散播不实消息等问题，破坏了正常的网络传播秩序，侵犯了公共利益，造成不良社会影响。国家互联网信息办公室有关业务局负责人表示，此次约谈要求新浪依据《互联网信息服务管理办法》、《互联网新闻信息服务管理规定》进行整改，加强内部管理和自律。若整改不符合要求，或者整改期间继续出现违法违规行为，将依法严肃查处，直至依法停止其互联网新闻信息服务。
+➜三星和IBM在比特币块链技术上开发新应用
+https://www.solidot.org/story?sid=43663	45328
+彭博社的<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-04-10/samsung-plans-to-take-bitcoin-technology-beyond-virtual-currency"><u>报道</u></a>，三星正与IBM合作利用比特币块链技术开发新应用。硅谷的三星美国研究院的研究人员正研究使用块链去设计出更好的验证方式。研究院的战略总监 Steven Rahman说，块链是一种有趣的技术，能被应用于许多领域。三星美国研究院开发的技术通常会在2到5年内用于商业产品，Rahman拒绝提供该公司比特币项目的进一步细节。报道称，比特币块链可被用于储存音乐视频等文件。
+➜分析进攻性的大炮
+https://www.solidot.org/story?sid=43664	48151
+<div align="center"><img src="http://img.solidot.com.cn/0/159/liYwNHMgi79Yk.png" align="" height="442" width="560"><br>
+<br>
+</div>
+过去三个月发生的事情充分显示，过滤入境流量的防御性的大防火墙正逐步演变成<a target="_blank" href="https://krebsonsecurity.com/2015/04/dont-be-fodder-for-chinas-great-cannon/"><u>进攻性的大炮</u></a>。首先是使用真实的IP地址污染域名，让无辜的网站或服务器遭受DDoS攻击；然后是选择性的劫持百度的出境流量，替换恶意代码攻击GitHub。这种攻击方法已被命名为“大炮”，研究员Nicholas Weaver说，它选择性的丢弃发送给百度服务器的请求，伪造恶意响应包回应。此类的攻击并非没有先例，NSA有一个叫<a target="_blank" href="https://www.schneier.com/blog/archives/2013/10/how_the_nsa_att.html"><u>QUANTUM</u></a>系统，能向个别目标注入内容和修改Web结果。Weaver指出，中国可以辩解称美国在过去也做过类似的事情，不过美国没有以这种方法发动大规模的DDoS攻击。Weaver称，这一攻击带来的教训是它演示了加密的必要性，使用HTTPS能阻止攻击。但加拿大公民实验室的 Bill Marczak认为，启用加密未必能有效遏制这种攻击。公民实验室发布了“大炮”的<a target="_blank" href="https://citizenlab.org/2015/04/chinas-great-cannon/"><u>详细技术分析报告</u></a>，指出此次攻击是由一个独立的系统——也就是“大炮”——发动的。大炮与GFW不同，它是一个路内系统（in-path system，GFW是旁路系统），不仅仅能注入流量，而且能直接压制流量。它不主动检查所有的链路流量，而只是拦截一组目标地址的流量，可能是通过减少数据流让系统能及时处理。它只检查个别的数据包去判断是否采取行动，避免TCP字节流重组装的计算开销。大炮和GFW在许多方面也具有相似性：多进程集群，共享代码。在针对GitHub的攻击中，大炮只劫持了 1.75%的百度境外流量。研究人员利用TTL技术去定位大炮的位置，观察到它是处于17跳到18跳（不同位置跳数有差异）之间，与GFW是同一链路，属于中国联通，这与先前的分析相同。
+➜百度搜索默认启用加密
+https://www.solidot.org/story?sid=43665	55716
+中国最大的搜索引擎开始<a target="_blank" href="https://www.baidu.com"><u>默认启用加密</u></a>，但只限于搜索功能，如新闻和贴吧仍然是非加密的，广泛使用的<a target="_blank" href="http://cbjs.baidu.com/js/m.js"><u>百度广告</u></a>和统计脚本仍然是非加密的，此举对于防御中间人劫持效果有限。Firefox在中国的默认搜索引擎是百度，在Firefox搜索框搜索返回的仍然是非加密版本。只有完全启用加密百度才有可能防止上个月底发生的脚本劫持替换恶意代码DDoS攻击GitHub事件。

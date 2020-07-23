@@ -1,0 +1,42 @@
+➜为防止 Zombieload v2 攻击 Windows 和 Linux 引入选项关闭英特尔 TSX
+https://www.solidot.org/story?sid=62615	12383
+为防止刚刚曝光的 Zombieload v2 攻击，微软 Windows 和 Linux 内核团队<a href="https://www.zdnet.com/article/windows-linux-get-options-to-disable-intel-tsx-to-prevent-zombieload-v2-attacks/" target="_blank"><u>都引入了方法</u></a>关闭英特尔 TSX（Transactional Synchronization Extensions）。Zombieload 漏洞与 TSX 有关，它与之前披露的 Meltdown、Spectre 和 Foreshadow 漏洞类似，都是利用预测执行去实现跨线程、权限边界和超线程的数据泄露。本周披露的 Zombieload V2 漏洞能影响最近发布的英特尔处理器。英特尔释出了微码更新去修正最新的漏洞，但补丁会对性能产生严重影响。为了避免影响性能，许多企业可能会选择不更新微码，或者宁愿选择禁用漏洞相关的技术。<a href="https://support.microsoft.com/en-us/help/4531006/guidance-for-disabling-intel-transactional-synchronization-extensions"><u>微软</u></a>和 Linux 内核团队先后发布了<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c2955f270a84762343000f103e0640d29c7a96f3"><u>方法</u></a>去关闭 TSX。
+➜PayPal 停止支持 Pornhub
+https://www.solidot.org/story?sid=62616	13760
+成人网站 Pornhub 宣布 PayPal <a href="https://www.vice.com/en_us/article/d3abgv/paypal-pulls-out-of-pornhub-payments" target="_blank"><u>不再为其提供支付服务</u></a>，这一决定影响到了数以千计靠 Pornhub获取收入的表演者。Pornhub 绝大多数访客可能以为它只提供免费的成人色情，但网站还允许表演者上传销售其制作的视频内容。这些表演者通常使用  PayPal 获取收入，但现在他们必须寻找其它支付方法。Pornhub 介绍了设置新支付选项的方法，对此造成的不便表示歉意。PayPal 停止支持 Pornhub 可能是<a href="https://news.slashdot.org/story/19/11/14/1525256/paypal-pulls-out-of-pornhub-hurting-hundreds-of-thousands-of-performers"><u>经常遭遇</u></a> PayPal 表演者和其客户之间的支付纠纷，比如客户不满意要求退款。
+➜机器学习之父认为美国对 AI 竞争反应过度
+https://www.solidot.org/story?sid=62617	15879
+机器学习之父、卡内基梅隆大学机器学习系主任 Tom Michell 教授认为<a href="https://www.bbc.com/zhongwen/simp/science-50390427" target="_blank"><u>美国对 AI 竞争反应过度</u></a>。他说，美国有更多研发人工智能训练和经验积累的公司，而中国的优势可能更多体现在以大数据为依托的 AI 应用方面。如医疗行业，美国 20 多年前就开始有医疗文件电子存档，但到今天为止还做不到把全国各地医疗系统所有的电子文档集中起来，为机器学习算法提供数据库。客观原因是美国法律对个人隐私的保护，也跟医疗行业 “城堡” 林立、相互隔绝、盈亏自负的状况有关。中国的情况大不相同。“一旦政府决定建立覆盖全国的医疗记录电子文档数据库…… 那这件事就能办到。”Michell 教授呼吁华盛顿区别对待 “双赢” 类 AI 应用和那些确实敏感、竞争激烈的 AI 科技，比如军用 AI。他还担心华盛顿甚嚣尘上的民粹主义论调将把美国学术和教育圈的外国学者置于孤立处境，而他们许多人为美国保持世界科技领先地位担当了关键角色，其中不少是华人。
+➜台湾监管机构威胁禁售华为手机
+https://www.solidot.org/story?sid=62618	18949
+台湾 NCC（中华民国国家通讯传播委员会）<a href="https://www.dw.com/zh/%E5%8F%B0%E6%B9%BEncc%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE-%E5%B0%86%E4%BA%88%E7%A6%81%E5%94%AE/a-51235931"><u>表示</u></a>，华为在台湾市场销售的三款手机在更新时 “偷偷将台湾标示改为中国台湾”。NCC 要求业者签署切结书，不得再出现标为 “中国台湾” 的情况，否则无法在台贩售。台湾 NCC 指出的华为问题手机包括 HUAWEI P30、P30 Pro 和 Nova 5T 三个机型。台湾方面认为这一事件涉及主权问题，是极其敏感的政治事件。
+➜有毒细菌可能是酒精肝致命的原因
+https://www.solidot.org/story?sid=62619	19550
+于肝脏被酒精破坏的重度酗酒者来说，一次器官移植通常是唯一现实的选择。但由于供体肝脏储量不足，以及相关规定禁止那些尚未戒除酒瘾的人进行移植，许多人最终只能等待死亡。在美国，每年有成千上万人死于酒精性肝病，而且有些人病情恶化的速度比其他人快得多。如今，科学家找到了造成这种差异的原因 —— 由一种普通肠道细菌的某些菌株产生的毒素。研究人员<a href="http://news.sciencenet.cn/htmlnews/2019/11/432688.shtm"><u>发现</u></a>，与不饮酒的人相比，在酒精性肝病患者的粪便样本中，粪便肠球菌的含量是前者的 2700 倍，尽管细菌的数量与病人最终的结果并没有直接关系。相反，研究人员发现，一种被称为细胞溶酶素的由特定粪便肠球菌菌株产生的细胞破坏毒素，可能是导致一些酒精性肝病患者出现严重症状的原因。
+➜统计局将统一核算地区 GDP
+https://www.solidot.org/story?sid=62620	25009
+国家统计局将于 2020 年初正式实施地区 GDP 统一核算改革<a href="https://www.thepaper.cn/newsDetail_forward_4966126"><u>以解决地方统计数据造假问题</u></a>。中国普遍存在地方 GDP“增速高于全国、总量大于全国”的情况。2017 年初，辽宁省省长在政府工作报告中确认，全省所辖市县在 2011 年至 2014 年存在财政数据造假的问题，部分区县经济数据 “掺水” 20% 至 30%。去年 5 月，陕西平利、宁陕两县公布了五一小长假期间旅游收入，因数字巨大遭到质疑。随后，宁陕官方回应，“旅游收入 13.99 亿元” 系笔误，应为 “1.399 亿元”，平利也将此前公布的 “旅游收入 8.2 亿元” 修正为 “0.82 亿元”。
+➜地产大亨宣布学习 Python 语言
+https://www.solidot.org/story?sid=62621	28400
+在新浪微博上有超过千万粉丝的地产大亨潘石屹宣布他开始学习 Python 语言了。Python 由前“终身仁慈独裁者”Guido van Rossum 创造，是世界上最流行的编程语言之一，因为其易用性在科学界广泛使用，也是机器学习等热门领域常用语言之一。潘石屹<a href="https://weibo.com/1182391231/IgiQkyrAc?refer_flag=1001030103_"><u>声称</u></a>，“今天，我们要让机器听我们的指挥，我们就要学习机器能听懂的语言。这类语言也在不断的进化中，越来越接近我们的日常语言。我们选择了进化最好的一种：Python 语言...在信息时代，信息量变得越来越大，我们的头脑显得越来越小。如果问我在这个时代什么知识和技能是最有用的、最值得去学习的、最值得让它占据我们的大脑的，Python 应该在其中。”
+➜中国完成首次火星探测任务着陆器悬停避障试验
+https://www.solidot.org/story?sid=62622	29722
+中国<a href="http://www.cnsa.gov.cn/n6758823/n6758838/c6808103/content.html"><u>完成</u></a>首次火星探测任务着陆器悬停避障试验。该试验在亚洲最大的地外天体着陆综合试验场进行，模拟了着陆器在火星重力环境 (火星重力加速度约为地球的 1/3) 下悬停、避障、缓速下降的过程，对其设计正确性进行了综合验证。试验场位于北京西北的河北怀来县。国家航天局局长张克俭表示，2016 年中国正式启动火星探测工程，目前各项研制工作进展顺利，本次着陆器悬停避障试验，是工程研制进程中的重要环节。中国首次火星探测任务计划于 2020 年择机实施，目标是通过一次发射任务，实现火星环绕和着陆巡视，开展火星全球性和综合性探测，并对火星表面重点地区精细巡视勘查（<a href="http://www.cnsa.gov.cn/n6758823/n6758838/c6808108/content.html">视频</a>）。
+➜1Password 得到了两亿美元风投
+https://www.solidot.org/story?sid=62623	32268
+流行的密码管理器 1Password 宣布得到了风投公司 Accel <a href="https://blog.1password.com/accel-partnership/"><u>两亿美元的投资</u></a>。Accel 将获得少数股权，双方将展开合作。公司创始人 Dave Teare 称每天有数百万用户使用 1Password，他们拥有超过 5 万付费企业用户，其中包括 Basecamp、Slack 和 IBM。Teare 表示有 Accel 的帮助他们将能更快的开发 1Password，实现他们在隐私、安全方面的愿景，为用户提供最佳的使用体验。但很多人<a href="https://www.osnews.com/story/130921/1password-takes-200-million-in-venture-capital/"><u>并不信任风投</u></a>。
+➜报告称气候变化影响儿童健康
+https://www.solidot.org/story?sid=62624	35267
+《柳叶刀》发表<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32596-6/fulltext"><u>报告</u></a>称，气候变化<a href="http://news.sciencenet.cn/htmlnews/2019/11/432719.shtm" target="_blank"><u>影响儿童健康</u></a>。报告由世界卫生组织、世界银行、英国伦敦大学学院、中国清华大学等 35 个机构的 120 位专家共同完成。报告追踪了 41 项关键指标的进展变化，分析了为实现《巴黎协定》的目标采取的相关行动对人类健康的意义，总结了不采取措施将对人类健康尤其是儿童健康造成的后果。报告说，如果全球不采取任何行动，任由高碳排放和气候变化以目前的速度继续发展，那么现在出生的孩子到他们 71 岁时，全球平均气温将比现在高 4 摄氏度以上，这将威胁他们人生各个阶段的生命健康。报告称，如果不采取措施控制气候变化，那么气温上升和极端天气事件多发，将导致儿童容易受到营养不良和食品价格上涨的影响，且易成为传染性疾病的主要受害群体。
+➜Google Chrome 实验功能导致浏览器标签崩溃
+https://www.solidot.org/story?sid=62625	38973
+Google Chrome 的一项实验功能导致浏览器标签<a href="https://www.zdnet.com/article/google-chrome-experiment-crashes-browser-tabs-impacts-companies-worldwide/"><u>发生崩溃</u></a>，全世界有大量企业受波及。问题持续了两天，没有影响所有 Chrome 用户，而是主要影响运行在 Windows Server terminal server 设置——这是企业网络中非常常见的设置——下的 Chrome 浏览器。数以百计的用户通过 Google 支持论坛<a href="https://support.google.com/chrome/thread/19713332?hl=en"><u>报告</u></a>，雇员使用的 Chrome 标签突然变成空白，这一错误被称为“白屏死亡”。一位使用 Costco 邮箱地址的系统管理员称，崩溃影响了所有呼叫中心的工作人员，他们无法再与客户进行聊天。另一名系统管理员称其公司有 4000 雇员受影响，还有一人称影响到了数百人。导致标签崩溃的原因已经找到，是 Chrome 名叫 WebContents Occlusion 的实验功能：当用户移动到另一个应用窗口时，将 Chrome 当前活动标签作为背景标签暂停其活动减少资源占用。Google 是在周二早晨在稳定版 Chrome 启用该功能，结果 bug 导致  terminal server 设置下的 Chrome 标签发生崩溃。一位愤怒的系统管理员说，“我们不是你们的实验鼠。”
+➜献身于上帝的程序员
+https://www.solidot.org/story?sid=62626	42317
+2018 年 8 月 11 日，当一名流浪汉在俄勒冈州达尔斯被一辆火车撞死，没人意识到这会影响到多少人。这名流浪汉是程序员 <a href="https://www.solidot.org/story?sid=57886"><u>Terry Davis</u></a>，他肩负着上帝的使命。他独自一人设计了一个完整的操作系统叫 TempleOS，声称得到了上帝本人的直接指示。一名程序员解释说，你可以想象一个人建造一座房子需要的时间，而这相当于建造一栋摩天大楼。而在这期间  Davis 还要与精神分裂症做斗争。BBC 做了一个<a href="https://www.bbc.co.uk/programmes/m000b4r3"><u>节目</u></a>纪念这名“<a href="https://www.solidot.org/story?sid=42033"><u>上帝的程序员</u></a>”。
+➜日本长寿老人体内发现特殊免疫细胞
+https://www.solidot.org/story?sid=62628	45827
+日本研究人员在 110 岁以上长寿者的血液中<a href="http://cn.nikkei.com/industry/scienceatechnology/38149-2019-11-15-05-00-20.html" target="_blank"><u>发现了特殊的免疫细胞</u></a>，或能揭示免疫与老化的关系，延长健康寿命。研究人员对比了 7 名 110 岁以上与 5 名 50～80 岁人的血液中的免疫细胞，发现了特殊免疫细胞“CD4 阳性杀伤性 T 细胞”。这种免疫细胞具有制造为了杀死癌细胞等而需要的分子的性质。几乎所有这些免疫细胞表面都含有可与特定抗原相结合、被称作受体的蛋白质。研究小组认为，当受体与特定的抗原结合时，CD4 阳性杀伤性 T 细胞就会增殖。
+➜威尼斯被水淹
+https://www.solidot.org/story?sid=62629	47533
+意大利著名旅游城市威尼斯本周经历了半个世纪以来<a href="https://www.bbc.com/zhongwen/simp/world-50433284"><u>最严重的水灾</u></a>。水城遭遇水灾并不罕见，但此次为自 1966 年以来<a href="https://www.cnn.com/2019/11/14/europe/venice-floods-problems-intl/index.html" target="_blank"><u>最严重的一次</u></a>， 水深达 1.87 米。由于威尼斯 80% 以上的地方<a href="https://thepointsguy.com/news/shocking-photos-venice-flood/">被淹</a>，情况非常严重。威尼斯市长路易吉·布鲁尼亚罗（Luigi Brugnaro）宣布全城进入紧急状态。现在还不完全清楚水灾给整座城市带来多大的损害，但目前已知，威尼斯多处世界知名的景点被淹，其中包括各国游客必去的圣马可广场（St Mark's Square）、凤凰剧院（La Fenice Theatre）等等。威尼斯当局已经报告有两人死亡。

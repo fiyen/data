@@ -1,0 +1,16 @@
+➜Google 正让区块链变得可搜索
+https://www.solidot.org/story?sid=59533	23194
+去年 12 月，在 Google 亚太总部工作的数据科学家 Allen Day 使用自己开发的工具，在以太坊区块链中发现了异常的自动交易，他怀疑是数字货币交易所试图通过大量自动交易人为操纵币值。去年 Day 和同事开始将比特币和以太坊区块链整个的加载到了 Google 的大数据分析平台 BigQuery，<a href="https://www.forbes.com/sites/michaeldelcastillo/2019/02/04/navigating-bitcoin-ethereum-xrp-how-google-is-quietly-making-blockchains-searchable/#546440714248"><u>创造了软件去搜索区块链</u></a>。这个项目被称为“<a href="https://github.com/blockchain-etl" target="_blank"><u>Blockchain ETL</u></a> (其中 ETL 代表 extract, transform, load)”，项目的重心是探索区块链如何被使用，以及被何人使用。在这之前，搜索区块链需要使用专门的软件 block explorers，它允许用户跟踪特定的交易。相比之下，Blockchain ETL 允许对整个区块链交易进行更广泛的搜索。举例来说，比特币在 2017 年发生了分裂，社区创造了硬分支 bitcoin cash，支持者认为它可以用于更快更廉价的小额交易。但 Day 发现，事实上相反，bitcoin cash 被少数持有者大量囤积。研究以太坊智能合约的  Tomasz Kolinko 使用 Google 的工具分析了具有自毁功能的智能合约——这项功能设计限制智能合约的生命期，他搜索了 120 万智能合约，发现有 700 个开放了自毁功能，允许任何人即时杀死合约。
+➜VLC 4.0 将引入新的用户界面
+https://www.solidot.org/story?sid=59534	24137
+VLC 开发负责人 Jean-Baptiste Kempf
+<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=VLC-2019-Feature-Talk"><u>谈论了</u></a>正在开发的 VLC 4.0 的新特性。VLC 4.0 代号为 Otto Chriek，新变化包括了新的播放列表、新的用户界面，支持 VR/3D 的新视频输出架构，移除对旧平台的支持，支持 360 度视频，3D 音频，支持  HTC Vive 和 Oculus 等 VR 设备，改进 HDR 支持，改进支持 Wayland 和 X11.。VLC 4.0 将停止支持 Windows XP/Vista，对  macOS、iOS, 和 Android 版本也提高要求，
+➜Google 开源 ClusterFuzz
+https://www.solidot.org/story?sid=59535	28124
+Google <a href="https://opensource.googleblog.com/2019/02/open-sourcing-clusterfuzz.html"><u>开源了</u></a>它的模糊测试系统 ClusterFuzz，<a href="https://github.com/google/clusterfuzz" target="_blank"><u>源代码</u></a>发布在 Github 上。Google 称，ClusterFuzz 整合到了它的工作流中，至今在 Chrome 项目中发现了超过 1.6 万个 bug，通过整合到 OSS-Fuzz 作为免费服务提供给开源项目使用，在 160 多个开源项目中发现了 1.1 万多个 bug。ClusterFuzz 能在 bug 引入的数小时内将其检测出来，能在一天内验证补丁。
+➜Windows 7 付费安全更新有多贵
+https://www.solidot.org/story?sid=59536	31200
+Windows 7 将到 2020 年 1 月结束支持，之后企业和教育用户可以获得三年的付费扩展安全更新，消费者用户如果要获得安全更新只剩下升级到 Windows 10 这一选项了。那么扩展安全更新的付费<a href="https://www.zdnet.com/article/how-much-will-staying-patched-on-windows-7-cost-you-heres-the-price-list/"><u>究竟有多贵</u></a>？根据微软向合作伙伴和销售人员透露的信息，相当贵，尤其是当你有多台设备需要打补丁的话。付费扩展安全更新根据设备数量收费，第一年企业版用户每台设备 25 美元，第二年 50 美元，第三年 100 美元；专业版用户更贵，第一年每台设备 50 美元，第二年 100 美元，第三年 200 美元。
+➜限制华为将影响英国 5G 的推出
+https://www.solidot.org/story?sid=59537	47657
+围绕华为在英国角色的政治氛围升温，手机运营商正等政府决定是否继续使用这家中国巨头的设备。他们预计将在 3 月底或 4 月初有裁决，届时将对英国电信网络供应链进行审查，以确保其安全性和适应性。<a href="https://www.bbc.com/zhongwen/simp/business-47167608"><u>运营商忧虑的是</u></a>，政客们对华为所谓的安全威胁的担心，将导致他们能选择的供应商数量严重缩减。在一场涉及三家主要运营商的背景介绍会，大家持续讨论到同一个主题 ：我们知道需要让华为远离我们网络中最敏感的部分，但全面禁止使用华为，这无论对 5G 技术的推出还是英国在这关键技术领域的角色都是灾难性的。他们已经为今年年底的 5G 网络商业发布提前做好了充足的准备，他们计划使用大量华为设备，但不是在核心网络中使用华为，而是在手机蜂窝站（基站／发射站／发射台）和硬件中将其连接到手机中央大脑的技术。他们希望继续使用这家中国公司的设备，因为其产品物美价廉。“他们有两个独特的优势，”一位技术主管说， “与其他供应商相比，他们拥有更多的研发工程师，他们准备为特定的客户群创新。”

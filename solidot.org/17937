@@ -1,0 +1,9 @@
+➜使用 IE 作为默认浏览器的危险
+https://www.solidot.org/story?sid=59542	46094
+微软也在呼吁用户停止使用 IE。网络安全专家 Chris Jackson 在官方的 Windows IT Pro 博客发帖历数<a href="https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/The-perils-of-using-Internet-Explorer-as-your-default-browser/ba-p/331732"><u>使用 IE 作为默认浏览器的危险性</u></a>，鼓励用户停止使用在 2015 年就终止发展的 IE 浏览器。 Jackson 称，微软客户仍然在询问与 IE 相关的业务问题。虽然绝大部分用户已经迁移到了 Google Chrome、Firefox 或 Microsoft Edge，但部分企业仍然在使用针对 IE 设计的旧 Web 应用或网站，继续使用旧浏览器的企业兼容模式而不是升级。Jackson 称，是时候停止称 IE 是浏览器了，IE 是一种兼容解决方案，不支持新的 Web 网站，今天的大部分网站没有在 IE 下进行测试。他认为企业可以把 IE 作为在需要时使用的解决方案，但不应该将 IE 作为默认浏览器使用。
+➜组装一台 RISC-V PC
+https://www.solidot.org/story?sid=59543	48170
+RISC-V 过去几年吸引了越来越多企业的注意，它是基于精简指令集（RISC）的一个开源指令集架构。相比其他指令集，RISC-V 指令集可以自由地用于任何目的，允许任何人设计、制造和销售 RISC-V 芯片和软件。RISC-V 正被用于物联网和边缘计算，你可能想问，那么我们何时能组装一台 RISC-V PC？<a href="https://abopen.com/news/building-a-risc-v-pc/"><u>答案是现在就能</u></a>。SiFive 发布了首个能运行 Linux 的 RISC-V 开发板 <a href="https://www.crowdsupply.com/sifive/hifive-unleashed" target="_blank"><u>HiFive Unleashed</u></a>，配备的处理器是 64 位 4核 RISC-V 处理器，使用台积电 28 纳米工艺制造，搭配了 8GB DDR4 ECC 内存，有 FPGA Mezzanine Connector (FMC)连接器，可连接 FPGA 开发板。
+➜肯尼亚国家身份证强制关联 DNA
+https://www.solidot.org/story?sid=59544	55020
+Mozilla 对肯尼亚的新国家身份证<a href="https://blog.mozilla.org/netpolicy/2019/02/08/kenya-government-mandates-dna-linked-national-id-without-data-protection-law/"><u>发出了警告</u></a>。肯尼亚议会上个月通过了对国家身份法的修订，国家综合身份管理系统（National Integrated Identity Management System，缩写 NIIMS）现在要求所有肯尼亚人，移民和难民交出 DNA，住宅地址 GPS 坐标、视网膜扫描、虹膜，语音波形和耳垂几何图。NIIMS 将整合其它政府数据库信息，生成名为 Huduma Namba 的唯一识别码。修正案是在没有公开辩论的情况下通过的，Mozilla 对中心化身份识别系统的安全问题、监控问题和歧视问题提出了担忧，认为推行数字身份识别系统至少需要配合强有力的隐私数据保护法规。

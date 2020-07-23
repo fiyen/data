@@ -1,0 +1,65 @@
+➜改变计算技术的伟大算法
+https://www.solidot.org/story?sid=38792	5422
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "在过去，很多巧妙的计算机算法设计改变了我们的计算技术。通过操作标准计算机中提供的中间运算符，可以产生很多的高效函数。这些函数导致了计算机程序的复杂性和多样性，这也是今天计算机时代快速发展的重要原因。docsity 为我们<a href="http://en.docsity.com/news/interesting-facts/great-algorithms-revolutionized-computing/" target="_blank">列举</a>了一些算法（<a href="http://blog.jobbole.com/61815/" target="_blank">中文</a>），它们改变了我们的计算机使用，其中包括：哈夫曼编码、公共密钥加密、Dijkstra 最短路径、二分搜索、快速排序、Karatsuba快速相乘、欧几里得算法、Bresenham直线算法等。"</i>
+➜Full-Disclosure邮件列表关闭
+https://www.solidot.org/story?sid=38793	5563
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "Old school黑客社区的三大邮件列表之一<a target="_blank" href="http://yro.slashdot.org/story/14/03/19/1218252/full-disclosure-security-list-suspended-indefinitely">Full-Disclosure宣布无限期的关闭</a>，John Cartwright在最后的一封标题为“<a target="_blank" href="http://seclists.org/fulldisclosure/2014/Mar/332">Administrivia: The End</a>"的邮件中写道：“当Len和我在2002年7月创建Full-Disclosure邮件列表的时候我们就知道麻烦一定会不少，我们是对的。一些人要求我们删除一些信息，另外一些人则要求不要删除任何信息..........在今天的环境下运作一个安全相关的开放论坛是很困难的，今天的黑客已经没有了荣耀，也没有了真正的社区，而非“社区”.........."。这封邮件让无数的黑客们展开了<a target="_blank" href="https://news.ycombinator.com/item?id=7427865">讨论</a>，黑客伦理的确渗透到了很多领域，new school黑客们更多关注于快速开发app原型，创业，融资，而今天能自己写操作系统内核，编译器，网络协议栈，设计自己的硬件电路的old school黑客从比例上的确是在减少，更为重要的是，<a target="_blank" href="http://www.phrack.org/issues.html?issue=64&amp;id=4&amp;mode=txt">地下精神</a>或许已经仅存于少数的黑客社区。"</i>
+➜《虚幻引擎4》和《CRYENGINE》皆采用订阅模式
+https://www.solidot.org/story?sid=38794	9925
+<div align="center"><img src="http://img.solidot.com.cn/0/105/liju5jIH0TqMc.jpg" align="" height="156" width="480"><br>
+<br>
+</div>
+两大次世代游戏引擎《虚幻引擎4》和《CRYENGINE》先后宣布了付费订阅模式，降低使用门槛，吸引更多游戏开发者用他们的引擎开发游戏。Epic Games<a target="_blank" href="https://www.unrealengine.com/blog/welcome-to-unreal-engine-4"><u>宣布</u></a>，每月只要支付19美元，你就可以访问虚幻引擎4的所有功能，包括编辑器和源代码，游戏引擎完整的<a target="_blank" href="https://github.com/EpicGames"><u>C++源码库</u></a>托管在GitHub上，但不对外公开，只向订阅用户开放。如果开发者发布了用虚幻引擎4制作的游戏，他们需要将5%的营业收入上交给Epic Games。开发CRYENGINE引擎的Crytek公司也同时<a target="_blank" href="http://www.crytek.com/news/crytek-announces-its-cryengine-as-a-service-program-for-990-usd-per-month"><u>宣布了</u></a>Engine-as-a-Service计划，独立开发者只需要每人每月支付9.90美元/欧元就可以使用CRYENGINE的全部功能。以前要授权使用虚幻或CryEngine引擎，开发商需要支付数十万乃至数百万美元。新的订阅模式费用相比简直是不值一提。
+➜OpenSUSE 13.2将默认使用Btrfs文件系统
+https://www.solidot.org/story?sid=38795	11409
+OpenSUSE发行版的下一个版本13.2将延期到11月发布，开发者公布了新版本包含的<a target="_blank" href="https://news.opensuse.org/2014/03/19/development-for-13-2-kicks-off/"><u>主要新变化</u></a>：默认使用Btrfs文件系统，YaST的Qt5前端，KDE Frameworks 5，wayland 1.4，postgresql 9.3，GCC 4.9 ，等等。其中Btrfs文件系统目前仍然处于测试阶段，尚未发布稳定版本，OpenSUSE将是第一个用Btrfs替代EXT4作为默认文件系统的主要发行版，它有尝试新文件系统的传统，SUSE发行版就曾将<a target="_blank" href="http://en.wikipedia.org/wiki/ReiserFS"><u>ReiserFS</u></a>作为默认文件系统。
+➜中媒炮制“韩国抢夺中国文化”类新闻热情不减
+https://www.solidot.org/story?sid=38796	13510
+<a href="/~NYPD">NYPD</a> 写道<i> "近日中国媒体报道说韩国拟将暖炕技术申请世界文化遗产，并称韩媒担心拥有火炕生产技术的中国可能成为韩国申遗的主要障碍。而实际上韩国计划申报的取暖设施学名为"温突"（Ondol），专指朝鲜民居特色的地热取暖系统，并非中国人熟知的东北火炕。<a href="http://view.163.com/special/reviews/korea0320.html" target="_blank">网易“另一面”专题栏目</a>还总结了以往的类似新闻，如韩国抢夺中医、抢夺端午节等等。这些新闻要么是中媒凭空捏造，要么就是带有事实偏差的误导性报道。
+"</i>
+➜为什么说Linux桌面已经不重要了
+https://www.solidot.org/story?sid=38797	14438
+<a href="/~linux">linux</a> 写道<i> "Readwrite.com 最近发布了一篇<a href="http://readwrite.com/2014/01/23/why-the-linux-desktop-never-mattered#feed=/hack&amp;awesm=~oz0ZFqn99Vcpxp" target="_blank">评论文章</a>（<a href="http://linux.cn/article-2696-1.html" target="_blank">中文译文</a>）：Linux桌面系统是一个难用的集合。尽管已经有非常明显的证据显示，Linux桌面没有任何一丝机会让自己变成主流，那些为Linux辩护的人仍然扭着手说：“我们基本上已经成功了！……某种程度上…… ”当然，确实可以说Linux借助Android的身份已经稳坐了“桌面系统”冠军，但这恰恰证明了Linux在桌面操作系统领域中的彻底失败。"
+</i>
+Infoworld的Simon Phipps则给出了不同的答案，他相信<a target="_blank" href="http://www.infoworld.com/d/open-source-software/2014-the-year-of-the-linux-desktop-238358"><u>2014年是Linux桌面年</u></a>，理由是Chrome OS和Web应用如Google Apps的兴起降低了用户对传统桌面及相关软件的需求。
+➜Enlightenment E19将完整支持Wayland
+https://www.solidot.org/story?sid=38798	16230
+Enlightenment E19<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTYzNDY"><u>加入了</u></a>对Wayland显示服务器的<a target="_blank" href="http://git.enlightenment.org/core/enlightenment.git/tree/README.wayland"><u>完整支持</u></a>，成为第一个完整支持Wayland的Linux桌面。Enlightenment对Wayland的支持被认为处于试验阶段，某些功能的运行还存在问题。Enlightenment开发者重写了自己的合成器，与内核的DRM（Direct Rendering Manager）驱动直接通信，不依赖Wayland的合成器Weston。
+➜iPhone占中国八成高端手机市场
+https://www.solidot.org/story?sid=38799	18058
+根据移动应用分析公司<a target="_blank" href="http://www.umeng.com/"><u>友盟</u></a>发布的报告，Android手机占中国中低端市场的份额遥遥领先，但<a target="_blank" href="http://www.fortunechina.com/column/c/2014-03/19/content_197879.htm"><u>高端市场八成为iPhone</u></a>。报告称，2013年中国开发者在对待知识产权问题上更加慎重，截至年底，游戏榜单前100名的游戏中已经有20%与第三方签署了授权协议，而在6月份时，这个数字还仅为13%。高端智能手机用户所偏爱的应用程序呈现多元化：新闻、导航、金融理财、电子商务。低端用户则爱好专一，墙纸成为最受欢迎的应用。2013年，中国市场越狱版iPhone比例从30%下降到13%。友盟表示：“用户已逐渐认识到了使用越狱iPhone的安全风险。”
+➜减少热量延寿或与肠道微生物有关
+https://www.solidot.org/story?sid=38800	24484
+有<u><a target="_blank" href="http://www.solidot.org/story?sid=31179">多项</a></u>  <u><a target="_blank" href="http://www.solidot.org/story?sid=37720"> 研究</a></u>发现减少热量摄入能延长寿命，科学家还不清楚这一现象背后的真正原因，最近有研究认为可能与<a target="_blank" href="http://www.solidot.org/story?sid=38586"><u>低蛋白质</u></a>有关。另一种解释<a target="_blank" href="http://www.nanzao.com/sc/lifestyle/23541/jian-shao-re-liang-she-qu-you-wang-chang-ming-bai-sui"><u>认为</u></a>与肠道微生物群构成有关。<br>
+<i>中国科学家去年宣布，把小鼠摄入的热量减少三分之一，能够促进与长寿有关的肠道细菌生长。上海交大的科学家在小鼠存活期间限制它们摄取​​​​的热量，并记录它们的肠道微生物群成分的变化。某些种类的细菌已知与长寿有关。研究人员发现，小鼠进食较少时，这些细菌数量会增加，而与短寿有关的细菌数量则减少。赵立平表示，把饮食摄取量减少约三成，能显着改变肠道微生物群的组成成分。限制热量摄取能促进益菌数量增加，如乳酸杆菌，同时可减少对人体有害的机会致病菌的数量。减少热量摄入，会降低导致炎症的脂多糖（LPS）结合蛋白水平。赵立平解释说，脂多糖结合蛋白由肝脏合成，主要用来结合肠道细菌产生的内毒素脂多糖。如果把肠道微生物群的组成成分变成更健康的状态，就意味着制造内毒素的物质会减少，益菌会增加，进入血液的内毒素亦会更少。慢性低级炎症一直与肥胖、糖尿病和老年疾病联系在一起。新加坡保健促进局营养师Benjamin Lee就减少热量摄取时如何避免饥饿感提出建议：食量不变，但选择能量密度低的食品，如清汤、全谷物、水果和蔬菜。</i>
+➜中国的人口流动趋势
+https://www.solidot.org/story?sid=38801	25554
+香港中文大学和英国利兹大学学者组成的研究团队对过去25年内中国人口迁徙的趋势进行系统性的分析，<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-03/aaft-mic031914.php"><u>发现</u></a>由于知识密集型产业高度集聚于中国沿海的大城市，西部省份仍然是人才流失的重灾区。然而随着国家区域经济和产业政策的调整，越来越多的受教育程度不高的外出务工人员选择在其家乡附近的城市就业。<a target="_blank" href="http://link.springer.com/article/10.1007%2Fs12061-014-9102-6"><u>研究报告</u></a>（摘要）发表在《Applied Spatial Analysis and Policy》上。1980年代初开始的跨地区人口迁徙流是区域经济发展不平衡及人口流动管制放松的结果。有1亿6340万名外出务工人员离开了较不发达的内陆地区，他们中的大多数来到了沿海地区。估计到2025年，城市中居留的流动人口将增加2.4亿人。研究人员认为，国家最近十年所致力的区域均衡发展战略，目前还没有扭转劳动力和人才向沿海地区流动的势头。
+➜佛山引入实名足疗桑拿制度
+https://www.solidot.org/story?sid=38802	26592
+官方媒体<a target="_blank" href="http://news.xinhuanet.com/local/2014-03/20/c_126291668.htm"><u>报道</u></a>，广东佛山市禅城区将从4月8日起实行足疗桑拿<a target="_blank" href="http://www.scmp.com/news/china/article/1453182/id-card-checks-introduced-foshan-massage-parlours-and-spas"><u>实名制</u></a>，水疗、沐足场所每天零时起需登记场内人员身份信息并录入与公安机关联网的信息管理系统。警方的理由是出于安全考虑，强调“目的是挤压违法犯罪活动空间，消除治安隐患”。警方将对区内旅馆业、酒店式公寓、水疗、沐足场所实行“每日一检”，发现相关场所不按要求录入人员信息的，严格依照相关规定处理，如场所不依法依规经营，涉嫌违法犯罪的，将依法追究法人、经营者及从业人员的法律责任。
+➜玉兔仍然活着，但无法再移动
+https://www.solidot.org/story?sid=38803	27353
+1月下旬发生故障的玉兔月球车仍然活着，<a target="_blank" href="http://www.forbes.com/sites/alexknapp/2014/03/20/chinas-lunar-rover-is-working-but-not-roaming/"><u>但已无法再移动</u></a>，一侧太阳能电池板的机构控制问题至今还没有解决，故障发生原因尚不清楚。官方媒体是在玉兔第二个月夜休眠前报告“机构控制出现异常”，导致太阳能电池板无法向内折叠，将敏感设备暴露在寒冷的月夜中。玉兔目前已在月球上度过了三个月，虽然无法移动，但全景相机、探地雷达和其它设备都工作正常。中国计划在2015年发射嫦娥四号。
+➜新缓存设计减少芯片15%的处理时间
+https://www.solidot.org/story?sid=38804	30748
+晶体管越来越小，芯片也越来越快，但无论芯片有多快，将数据从一边移动到另一边仍然需要时间。到目前为止，芯片设计师是通过放置充当缓存的本地存储器解决这个问题。缓存被用于储存最频繁访问的数据，便于访问。但让一个缓存服务于一个处理器或一个核心的时代已经过去，缓存的管理变成了一大挑战，而处理器核心之间需要共享数据，连接核心的通信网络的物理布局也必须考虑在内。现在，MIT和康涅狄克大学的研究人员为多核芯片设计了一套新的缓存管理规则，能显著改进芯片性能，降低能耗。论文《<a target="_blank" href="http://people.csail.mit.edu/devadas/pubs/adaptive-isca.pdf"><u>The Locality-Aware Adaptive Cache Coherence Protocol</u></a>（PDF）》发表在IEEE International Symposium on Computer Architecture会议上，新缓存设计减少芯片<a target="_blank" href="http://arstechnica.com/science/2014/03/new-cache-design-speeds-up-processing-time-by-15/"><u>15%的执行时间</u></a>，节省25%的能耗。
+➜研究称缺少睡眠会对大脑造成永久性损伤
+https://www.solidot.org/story?sid=38805	35460
+研究称长期缺少睡眠<a target="_blank" href="http://edition.cnn.com/2014/03/19/health/sleep-loss-brain-damage/index.html?hpt=hp_t2"><u>会对大脑造成永久性损伤</u></a>，至少对老鼠大脑是如此。这一结论对人类可能也有效。<a target="_blank" href="http://www.uphs.upenn.edu/news/News_Releases/2014/03/veasey/"><u>研究报告</u></a>发表在《Neuroscience》上。宾夕法尼亚大学神经学家Sigrid Veasey说，长期缺少睡眠会削弱大脑功能，即使在补觉之后也是如此，她认为这可能是持续脑损伤的一个信号。她和同事试图找出答案。她们为实验鼠安排了与轮班工人相似的睡眠计划，让老鼠小睡，然后在短时间和长时间后叫醒它们。研究人员观察了老鼠大脑中与警觉性和认知功能相关的神经元数量，发现缺少睡眠对大脑的损害是实实在在的。Veasey说，老鼠失去了四分之一的神经元。科学家推测，当老鼠缺少睡眠，神经细胞会做出反应，制造出更多的去乙酰化酶III型蛋白质，目的增强活力和进行保护。然而当缺觉成为习惯，这一反应将会关闭，几天之后神经细胞开始加速死亡。
+➜Tor社区警告假的Tor iOS应用
+https://www.solidot.org/story?sid=38806	36745
+<div align="center"><img src="http://img.solidot.com.cn/0/106/lit7E5qtqV7g.jpg" align="" height="411" width="240"><br>
+<br>
+</div>
+Tor匿名社区的成员对苹果应用商店中的<a target="_blank" href="https://itunes.apple.com/us/app/tor-browser/id712805884?mt=8"><u>Tor浏览器</u></a>应用程序<a target="_blank" href="http://arstechnica.com/security/2014/03/fake-tor-browser-for-ios-laced-with-adware-spyware-members-warn/"><u>发出警告</u></a>，称它是间谍软件和广告软件伪装的。这款付费应用在苹果应用商店中已经存在了好几个月，使用了Tor的logo，售价0.99美元，其描述包含了Tor官网的链接，看起来好像真的Tor项目出品，但Tor社区成员指出它是冒牌货，是间谍软件和广告软件，用户已经向苹果投诉，但至今还没有从商店中下架。
+➜Musl-libc 1.0版发布
+https://www.solidot.org/story?sid=38807	40969
+C语言标准库Musl-libc项目发布了<a target="_blank" href="http://www.musl-libc.org/download.html"><u>1.0版</u></a>。Musl是一个轻量级的C标准库，设计作为GNU C library (glibc)、 uClibc或Android Bionic的替代用于嵌入式操作系统和移动设备。它遵循POSIX 2008规格和 C99 标准，采用MIT许可证授权，使用Musl的<a target="_blank" href="http://wiki.musl-libc.org/wiki/Projects_using_musl"><u>Linux发行版和项目</u></a>包括sabotage，bootstrap-linux，LightCube OS等等。
+➜英国设立图灵研究院研究大数据
+https://www.solidot.org/story?sid=38808	41812
+英国设立了一家以计算机科学奠基人名字命名的研究院，主要研究大数据。BBC<a href="http://www.bbc.co.uk/news/technology-26651179"><u>报导</u></a>（<a target="_blank" href="http://www.bbc.co.uk/ukchina/simp/uk_life/2014/03/140320_life_research_alanturing.shtml"><u>中文</u></a>），财政大臣奥斯本在本周推出新预算案的同时也宣布成立一家新的研究所，大规模收集分析有利市场发展的数据。该机构以图灵（Alan Turing）为名。
+新机构的焦点将集中在研发新的方法，大量收集、整理和分析有用的数据。英国政府认为，这种数据有利于企业准确应付市场所需，调整自己的生产和服务，达到最高的效益和业绩。英国当局将以五年为期，向这个项目提供共计4200万英镑的资助。有兴趣的大学或者其他机构可以投标。图灵在二次世界大战期间帮助破解了德国密码，之后由于同性恋者被施以化学阉割刑罚，1954年服毒自杀。英国去年12月宣布赦免其生前的罪名。
+➜Larry Page称NSA的监控威胁民主，担心网络隐私
+https://www.solidot.org/story?sid=38809	45259
+在加拿大温哥华举行的TED大会上，Google CEO Larry Page称，NSA的大规模监控计划<a target="_blank" href="http://www.forbes.com/sites/jeffbercovici/2014/03/19/at-ted-googles-larry-page-says-nsa-spying-threatens-democracy/"><u>威胁民主制度</u></a>，阻碍科技创新。他说，政府秘而不宣的收集行动令人失望，如果我们必须要保护用户避开没有开诚布公讨论过的事情，那么我认为这不是民主制度。 Page还认为，NSA的监控引发了用户的恐慌，迫使用户对隐私保护过于偏执，对创新构成了阻碍，比如医疗信息因为有过多的隐私控制，妨碍了医生和研究人员帮助患者的能力。Larry Page还在大会上<a target="_blank" href="http://www.wired.com/business/2014/03/larry-page-using-google-build-future-well-living/"><u>讨论了未来的智能搜索</u></a>，认为科技领域需要革命性的变革，而不是缓慢的递增变化。

@@ -1,0 +1,47 @@
+➜研究人员找到方法利用英特尔的 Management Engine
+https://www.solidot.org/story?sid=53914	11389
+Positive Technologies 的安全研究人员将在 12 月举行的欧洲 Black Hat 安全会议上<a href="https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668" target="_blank"><u>报告</u></a>针对英特尔 Management Engine 的漏洞利用。从 2008 年起，英特尔处理器平台都内置了一个低功耗的子系统 Management Engine(ME)，它包含了一个或多个处理器核心，内存，系统时钟，内部总线，保留的受保护内存，有自己的操作系统和程序，能访问系统主内存和网络。ME 能完全访问和控制 PC，能启动和关闭电脑，读取打开的文件，检查所有运行的程序，跟踪按键和鼠标移动，甚至能捕捉屏幕截图，其功能可视为系统的“上帝模式”。研究人员称，ME 运行了一个修改版的 MINIX 操作系统——就是与 Linus Torvalds 展开著名论战的荷兰 Vrije 大学教授 Andrew Tanenbaum 开发的微内核。研究人员在 Intel ME v11+ 上发现了一个漏洞，允许攻击者在 ME 所在的平台控制单元运行未签名代码。主系统的用户可能察觉不到他们的计算机包含了一个无法清除的恶意程序。
+➜东芝以 180 亿美元出售闪存业务
+https://www.solidot.org/story?sid=53915	12044
+东芝董事会以 180 亿美元将其闪存芯片业务<a href="http://www.ftchinese.com/story/001074390" target="_blank"><u>出售</u></a>给一个由美国私人股本集团贝恩资本牵头的国际财团。该财团成员还包括苹果、戴尔、希捷、金士顿和韩国 SK 海力士。大规模资产减记再加上东芝 2015 年会计丑闻的余波，让该公司面临从东京证交所退市。分析人士表示，该芯片业务的出售应会消除这种威胁，不过由于反垄断审查以及东芝合作伙伴西部数据提起诸多法律诉讼，预计这笔交易的实际完成日期将推迟。知情人士称，台湾富士康的竞标“直到当天最后一刻都极具竞争力”。
+➜Google 收购 HTC 部分手机业务
+https://www.solidot.org/story?sid=53916	13922
+宏达电（HTC）发表<a href="http://mops.twse.com.tw/mops/web/t05sr01_1" target="_blank"><u>新闻稿</u></a>，宣布以 11 亿美元出售其部分手机业务和知识产权。Google 的 Pixel 手机由 HTC 代工，此次交易原参与打造 Pixel 手机的 HTC 团队成员及相关员工<a href="https://www.blog.google/topics/hardware/google-signs-agreement-htc-continuing-our-big-bet-hardware/" target="_blank"><u>将加入 Google</u></a>。HTC 还将世界通全球验证股份有限公司的全部股权出售给 Google，此外还有部分资产和部分知识产权非专属授权予 Google。Google 预计将在下个月发布第二代 Pixel 手机，这笔交易显示了搜索巨人对打造自己的硬件业务的重视。但 Pixel 手机的销量相比其它 Android 厂商仍然相距甚远。 HTC 声称它还会继续发展其自有品牌的智能手机业务。
+➜特斯拉和 AMD 合作开发 AI 芯片
+https://www.solidot.org/story?sid=53917	18150
+为降低成本减少对 Nvidia 的依赖，特斯拉正和 AMD 合作<a href="https://www.cnbc.com/2017/09/20/tesla-building-an-ai-chip-for-its-cars-with-amd-globalfoundries.html" target="_blank"><u>开发自主驾驶 AI 芯片</u></a>。这一消息导致 Nvidia 股价下跌 AMD 股价上涨。Nvidia 的硬件非常昂贵，特斯拉引入竞争的做法并不令人感到意外。此外，特斯拉负责自动驾驶的高管 Jim Keller 是前 AMD 的芯片架构师，帮助设计了 Zen 架构处理器。知情人士称，有超过 50 人在 Keller 手下工作。在雇佣 Keller 后，特斯拉还招募了多名前 AMD 资深员工。
+➜政法委书记提出用 AI 研究公共安全事件演变规律
+https://www.solidot.org/story?sid=53918	19590
+中央政法委书记孟建柱在一个会议上<a href="http://www.bjnews.com.cn/news/2017/09/21/458749.html" target="_blank"><u>称要用 AI 研究公共安全事件演变规律</u></a>，“在新业态安全监管方面，要利用人工智能深度学习、自我更新的原理，深入研究暴恐极端案件、公共安全事件等产生演变规律，并根据其特征构建数据研判模型，完善基础管控标准，增强防控工作精准性、时效性。人员密集场所安全风险防控方面，要善于应用智能探测传感技术敏锐感知危险源，增强安全防控智能化水平。”他要求建立一个统一的数据库，加快推进 “雪亮工程” 建设，推动城乡视频监控连接贯通，整合各类视频监控资源。
+➜CEO 下班后逮住一个陌生人，引发经济间谍调查
+https://www.solidot.org/story?sid=53919	26595
+《华尔街日报》<a href="https://www.wsj.com/articles/an-after-hours-company-visit-spurs-espionage-charges-1505813401" target="_blank"><u>报道了</u></a>（付费墙）一起奇怪的经济间谍案件。
+<i> 8 月 28 日晚上 7:30 左右，波士顿医疗技术创业公司 Medrobotics 的 CEO Samuel Straface 以为他是最后一个离开公司的。他在二楼路过了一个玻璃墙会议室，看到里面有个不认识的人，坐在两台笔记本电脑和平板电脑前。他继续走向出口，但感到不安后折回，进入会议室向这名男子自我介绍说他是这家公司的 CEO ，询问对方在这里做什么。这名叫 Dong Liu 的男子一开始声音很低，随后说他是来和知识产权负责人和销售主管谈生意的，他一度提到要和 CEO 谈生意，却忘了他正看着 CEO 。Straface 博士叫来了警察逮捕了他。Dong Liu 拥有中国和加拿大双重国籍，44 岁，自称是<a href="http://www.boss-young.com.cn/" target="_blank"><u>北京邦信阳专利商标代理有限公司</u></a>的专利律师。Straface 博士称没有人安排了与他会面的计划。Dong Liu 被控企图窃取商业机密和未经授权访问计算机系统，面临最高 15 年徒刑。他随身携带的除了笔记本和平板外，还有 U 盘，两部手机、一个智能手表，两台摄像机，几个 SIM 卡和大容量存储设备。
+</i>
+➜CCleaner 攻击者以思科微软等公司为目标
+https://www.solidot.org/story?sid=53920	29434
+32 位版的 CCleaner v5.33 被人悄悄<a href="http://www.solidot.org/story?sid=53877" target="_blank"><u>植入了恶意代码</u></a>，收集有关被感染机器的特征信息，似乎危险性并不大，但这些情报显然是为第二阶段的针对性攻击做准备。思科 Talos安全团队分析了第三方提供的恶意程序指令控制服务器上的 MySQL 文件，<a href="http://blog.talosintelligence.com/2017/09/ccleaner-c2-concern.html" target="_blank"><u>发现</u></a>攻击者的真正感兴趣的目标是一些著名的科技企业，包括了新加坡电信、宏达电、三星、索尼、VMware、英特尔、微软、思科、沃达丰、微星科技、友讯科技等。研究人员称，至少有 20 个主机遭到了第二阶段的攻击。研究人员建议被感染的用户使用备份或镜像重新安装系统。对植入 CCleaner 的恶意代码的分析还显示，它与 Operation SMN 背后的中国 ATP 组织 APT17 共享了代码，但并不能证明攻击者来自中国。
+➜中国比特币信徒到香港商讨对策
+https://www.solidot.org/story?sid=53921	30473
+中国主要比特币交易平台被要求在 9 月 30 日终止人民币交易，北京地区交易平台的高管被限制离京，此外还有传言称中国考虑彻底屏蔽比特币区块链网络。在这一背景下，数百名比特币交易员和区块链技术专家齐聚香港，<a href="http://cn.wsj.com/gb/20170921/fin143436.asp" target="_blank"><u>召开为期两天的会议</u></a>，会议原计划在北京召开。McAfee 创始人 John McAfee 表示，在这里我们都是逃亡者。McAfee 称中国政府这些举动只是严冬的开始，情况将越来越糟。他将中国的数字货币禁令与美国上世纪的禁酒令相提并论。币看联合创始人刘洋表示，现在人们利用微信结识他人、沟通、买卖、转账，没人知道别人为什么要转账，现在这种行为无处不在。比特大陆 CEO 吴忌寒表示，假如比特币挖矿公司面临更严格的监管，这不会终结比特币，但肯定会打击比特币的价格。
+➜AMD 服务器处理器性能在十年内提升了 40 倍
+https://www.solidot.org/story?sid=53922	32606
+Phoronix 先后<a href="https://www.phoronix.com/scan.php?page=article&amp;item=epyc-7601-linux" target="_blank"><u>评测了</u></a> AMD 32 核服务器处理器 EPYC 7601 与英特尔 Xeon Gold 6138 在 Linux 上的性能， 与 AMD 十年前的服务器处理器 Opteron 2300 系列<a href="https://www.phoronix.com/scan.php?page=article&amp;item=amd-epyc-opteron&amp;num=1" target="_blank"><u>进行了对比</u></a>，发现处理器的性能在十年内提升了 40 倍之多。Opteron 2300 有 4 个物理核心，而 EPYC 则是 32 核 64 线，线程数是 Opteron 的 16 倍，EPYC 有着较低的基频，但boost 频更高，在 NASA 的  Lower-Upper Gauss-Seidel solver 测试中，一颗 EPYC 的性能 25 倍于两颗 Opteron 处理器，每瓦性能同样达到 25 倍左右；John The Ripper's Blowfish 测试中，性能提升 10 倍，每瓦性能 8 倍左右。
+➜数学公式预言 2100 年物种大灭绝事件
+https://www.solidot.org/story?sid=53923	37549
+地球在过去 5.4 亿年中经历了五次物种大灭绝事件，其中 2.5 亿年的一次事件导致 95% 的物种灭绝。发表在《Science Advances》的一篇<a href="http://advances.sciencemag.org/content/3/9/e1700906" target="_blank"><u>论文</u></a>发现，向海洋中人为加入的碳数量到达一定的阈值将会触发新的灭绝事件。这个阈值是 3100 亿吨。联合国政府间气候变化专门委员会预测，地球在 <a href="https://motherboard.vice.com/en_us/article/ne7zyw/mathematical-formula-predicts-global-mass-extinction-event-in-2100" target="_blank"><u>2100 年前将达到这个数字</u></a>，从此将跨入未知领域。过去的大灭绝事件的时间跨度在数千年甚至数百万年，而我们正经历的周期变化最多持续了几百年。许多专家认为我们已经在经历第六次物种大灭绝，其余则是一个科学问题。
+➜科学家发现一对相距一光年的超大质量黑洞双星系统
+https://www.solidot.org/story?sid=53924	39511
+根据发表在《Nature Astronomy》期刊上的<a href="https://www.nature.com/articles/s41550-017-0256-4" target="_blank"><u>一篇论文</u></a>，科学家在螺旋星系 NGC 7674 <a href="https://www.theregister.co.uk/2017/09/20/closest_supermassive_black_hole_binary/" target="_blank"><u>发现了</u></a>一对相距不到一光年的超大质量黑洞双星系统。在这之前，科学家发现的距离最近的超大质量黑洞双星系统相距 24 光年。研究人员利用甚长基线干涉测量技术在 NGC 7674 的中央区域探测到了两个指示存在超大质量黑洞的射电源。超大质量黑洞通常存在于大型星系的中心，而两个相邻大型星系的合并通常也会导致黑洞的合并，在合并前它们会形成距离越来越近的黑洞双星系统。
+➜研究发现计算机科学学位并不能给程序员带来相应的投资回报
+https://www.solidot.org/story?sid=53925	39651
+Stack Overflow 在英国<a href="https://www.theregister.co.uk/2017/09/20/compsci_degrees_not_landing_lucrative_jobs/" target="_blank"><u>调查了</u></a> 4700 名程序员，发现计算机科学的学士学位并不能给程序员带来相应的投资回报，有学士学位的人比没有学位的人一年多挣 3000 英镑，而为了获得学位每年仅学费就要支出 9000 英镑，学生的贷款平均超过 5 万英镑。调查发现，无高等学位的程序员年薪中位数为 3.5 万英镑，而有学士学位的人是 3.8 万英镑，研究生是 4.2 万英镑。调查还发现，JavaScript 程序员需求最高，其次是 Java、Python、 C# 和 ReactJS。
+➜比尔盖茨再次为 CTRL+ALT+DEL 表示歉意
+https://www.solidot.org/story?sid=53926	43626
+在彭博社全球商业论坛上，微软联合创始人比尔盖茨再次被问到为什么要用 CTRL+ALT+DEL 三个按键去锁定或登录 Windows，为什么他会认为使用这个组合键是个好主意？盖茨做了个鬼脸，然后推卸了下责任，称相关人士本应该提供另一个按键完成这项功能。他说，你不能回到过去去改变生命中的一件小事同时不会把其它事情置于危险境地。他表示确实对这一组合键<a href="https://qz.com/1083143/bill-gates-doesnt-like-ctrlaltdelete-either/" target="_blank"><u>感到后悔</u></a>，如果可以的话能用另一个按键替代。盖茨在 2013 年<a href="http://www.solidot.org/story?sid=36600" target="_blank"><u>回答了同样的问题</u></a>，但将责任归咎于 IBM，表示如果 IBM 键盘设计师给微软一个单键用于登录的话，Ctrl+Alt+Del 本来不会见到光的。微软在 Windows 中给 Ctrl+Alt+Del 这个组合键加入了许多额外选项，不同于过去<a href="http://www.solidot.org/story?sid=35593" target="_blank"><u>重启机器</u></a>的功能。
+➜研究称体型最大最小的动物面临最高的灭绝风险
+https://www.solidot.org/story?sid=53927	46137
+研究称体型最大最小的动物面临<a href="http://www.bbc.com/news/science-environment-41279470" target="_blank"><u>最高的灭绝风险</u></a>。大型动物面临的最大威胁是人类的猎杀，而小型动物因为受限于地理范围而容易受到生态环境退化的风险。研究人员分析了数千种面临灭绝的鸟类、哺乳类动物、鱼类、两栖类和爬行类动物的数据，发现面临灭绝风险的大型和小型动物不成比例的高。受到保护的大象、犀牛和狮子，以及鲸鲨、索马里鸵鸟和中国大鲵在各自物种中体型都比较大。研究人员称，面临风险的小型动物受到的关注比较小，它们主要面临森林砍伐和污染等风险。
+➜进退维谷的中国比特币矿工
+https://www.solidot.org/story?sid=53928	47573
+如果比特币被定为非法，你还公开做这门非法的生意？中国的比特币算力和产量占到了全世界约 7 成，比特币矿场主要建在偏远地区，靠近发电站，利用了电费便宜的优势。比特币的主要成本就是电费，挖掘一枚比特币大约需要花费 1 万人民币，而比特币的售价则在 2 万到 3 万左右，因此去除成本能给矿工带来巨大的投资回报。但这个月，中国政府先后宣布了首次代币发行非法，下令关闭比特币人民币兑换交易，而总部位于北京的火币网和 OKCoin 高管<a href="http://cn.wsj.com/gb/20170921/fin162751.asp" target="_blank"><u>还被限制出境</u></a>，在香港召开会议的矿工们<a href="http://www.scmp.com/news/china/economy/article/2112085/chinas-bitcoin-miners-limbo-after-beijing-shuts-down-exchanges" target="_blank"><u>对此颇感不安</u></a>，计划投资一千万人民币在甘肃建造矿场的一位投资人不得不三思而行。这位投资人已经与当地政府建立了良好的关系，但如果北京进一步施加禁令这一切将会变得徒劳。在新疆和云南有两个矿场的 ViaBTC CEO 也对中国比特币挖矿的未来感到不乐观，考虑结束生意。ViaBTC 占到了 7% 的全球比特币网络算力。

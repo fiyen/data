@@ -1,0 +1,39 @@
+➜苹果提供免费皮套解决iPhone 4天线问题
+https://www.solidot.org/story?sid=18964	20160
+苹果在新闻发布会上<a href="http://www.engadget.com/2010/07/16/live-from-apples-iphone-4-press-conference/?sort=newest&amp;refresh=60">宣布</a>(Engadge的liveblog)，为解决iPhone 4的天线问题将向所有购买者<a href="http://apple.slashdot.org/story/10/07/16/1741212/Apple-Offers-Free-Cases-To-Solve-iPhone-4-Antenna-Problems">提供免费皮套</a>。<i>
+从发布会一开始，苹果CEO乔布斯（Steve Jobs）就声称天线问题不只限于iPhone 4，他以黑莓Bold 9700、HTC Droid Eris和三星Omnia 2为例，指出在某种握持方式下它们的信号也会掉落。“这是智能手机的现实，手机并不完美，信号接收问题是整个行业面临的挑战，每部手机都有弱点。”乔布斯表示只有0.55%的iPhone 4用户抱怨信号接收问题，到目前为止iPhone 4的退货率不到3GS的三分之一。乔布斯称，iPhone 4的掉话率只比3GS多出1%。他继续指出，由于iPhone 3GS是基于iPhone 3G，因此Bumpers原装皮套供应十分充足，但iPhone 4不能使用旧的Bumpers皮套，因此消费者购买和使用原装皮套的比例并不高。为解决天线问题，苹果决定9月30日前购买iPhone 4的用户将能免费获得原装皮套，已经购买皮套的用户将能得到退款。由于Bumpers原装皮套供应未必能及时满足用户需求，苹果还将提供其它的第三方产品。</i>
+➜Wine 1.2发布
+https://www.solidot.org/story?sid=18965	22800
+WineHQ宣布发布<a href="http://www.winehq.org/announce/1.2">Wine 1.2版</a>。主要的新特性包括：支持64位，支持WoW64文件系统重定向和注册表重定向；DirectX 9和DirectX 10支持改进；翻译成30种语言等等。开发者表示新版有23,000多处改动，修正了超过3,000个bug。
+➜开源硬件Ben NanoNote平台下的开源软件
+https://www.solidot.org/story?sid=18966	23400
+<a href="mailto:xiangfu@openmobilefree.net">xiangfu</a> 写道 "向大家介绍一个 Ben NanoNote 平台下的开源项目：<i> <strong>1. IRIS</strong> <br> <a href="http://en.qi-hardware.com/wiki/Iris">Iris</a> 是以 Ben NanoNote 为平台的微内核系统，主要目的是发挥硬件的最大性能。 IRIS 是用 python 格式的C++语言写的（我喜欢）。用户可以在不刷机的情况下测试使用这个系统。它是由 Bas 从 0 开始写的一个专门在 Ben NanoNote 上运行的系统。对想学习操作系统的人来说是一个很好的例子。<a href="http://projects.qi-hardware.com/index.php/p/iris/">这里</a>是所有的源代码。（我们总是公开源代码，因为我们相信共享总是激发创造力。</i>           <strong>2. GPS</strong> <br> <a href="http://en.qi-hardware.com/wiki/GPS">这里</a>是英文的介绍，教大家如果将 GPS 模块连接到 Ben NanoNote 上。<br>并使用 <a href="http://www.tangogps.org/">TangoGPS</a> 和 <a href="http://jlime.com/mw4/index.php/Jlime_Muffinman">Jlime</a> 系统如果使GPS工作。 （Jlime 在我的上一个文章里已经介绍过了），对GPS感兴趣可以参考一下。<br> <br>另外一个关于GPS 的软件项目叫 <a href="http://projects.qi-hardware.com/index.php/p/nanomap/">NanoMap</a>. 是以QT + Openstreetmap.org 写成的。<br> <br> <strong>3. setfont2</strong> <br>Neil 给写了一个补丁。可以让FBCONSOLE 支持 32bit color 字体，<a href="http://en.qi-hardware.com/wiki/Ben_NanoNote_fonts#32-bit_color_fonts">setfont2</a>   一个有意思的小程序。字休文件格式是 pnm。<br>一种图片格式。 :)<br> <br> <strong>4. 新的软件包 </strong> <br>最近在 nanonote 很多人一起努力，移植了很多的软件包，包括 jfbterm， 这样我们就可以在 Ben NanoNote  的终端下使用中文了。<a href="http://projects.qi-hardware.com/index.php/p/openwrt-packages/source/changes/master/">这里</a>凡是以 [new package] 开头的都是新的软件包。<br> <br>happy hacking"
+➜Google收购Metaweb
+https://www.solidot.org/story?sid=18967	23700
+<a href="http://www.hi2020.com/">书评客</a> 写道<i> "Techcrunch<a href="http://techcrunch.com/2010/07/16/google-acquires-metaweb-to-make-search-smarter/">报道</a>，谷歌已经收购数据库公司<a href="http://www.metaweb.com/">Metaweb</a>，提升复杂搜索效果。Metaweb位于美国旧金山，它管理着一个<a href="http://www.freebase.com/">开放式对象数据库</a>，并维护对象之间的关系。本次收购交易具体条款尚未公布。Metaweb开放式数据库目前拥有大约1200万条对象信息，包括地点、名人、公司和电影等。<a href="http://googleblog.blogspot.com/2010/07/deeper-understanding-with-metaweb.html">谷歌表示</a>，Metaweb公司的技术将提升谷歌搜索结果的相关性。“我们相信收购Metaweb公司后，谷歌将有能力为用户提供更好的搜索结果。”谷歌全球搜索项目经理杰克·门泽尔（Jack Menzel）表示。"</i>
+➜研究人员合成实时破裂声音
+https://www.solidot.org/story?sid=18968	25200
+脆弱的酒杯掉在地上，变成碎片了。现实中我们很容易看到或想象出这样的场景，但要在电脑的虚拟世界中实现却并非易事。<i>
+现在，康奈尔大学的计算机科学家<a href="http://www.cs.cornell.edu/~cxzheng/">Changxi Zheng</a>和<a href="http://www.cs.cornell.edu/~djames/">Doug L.James</a>开发出一种<a href="http://www.cs.cornell.edu/projects/FractureSound/">算法</a>，能在计算机生成脆性破裂动画的同时<a href="http://www.news.cornell.edu/stories/July10/AnimateSounds.html">实时合成出破裂的声音</a>。过去，电影工作室使用的预先记录的声音，但破裂的声音通常无法与动作相一致；而在游戏或虚拟现实中，程序员也不可能提前知道酒杯的硬度和掉落的高度。新的基于物理的算法能让计算机自动合成破裂事件的声音、动作和图像。研究人员将于7月25日到29日在洛杉矶举行的ACM SIGGRAPH 2010会议上介绍他们的成果。</i>
+<a href="http://www.cs.cornell.edu/projects/FractureSound/files/fractureSoundH264_30FPS.mov">HD视频</a>(211M，30FPS)，<a href="http://www.youtube.com/watch?v=nHH8N_lNZzI">Youtube</a>
+➜伯克利心理学家要在中国推广快乐科学
+https://www.solidot.org/story?sid=18969	27000
+中国的百万富翁数量在增多，但财富的增长并没有促进全国的幸福指数。加州大学伯克利分校的心理学家认为，中国对财富的追求远远超过了精神的健康和幸福，<a href="http://www.physorg.com/news198511459.html">他们试图通过推广快乐科学来弥补这种不平衡状态</a>。伯克利将与清华大学合作在八月举办中国首届正向心理学会议。伯克利心理学家Kaiping Peng表示，他们希望中国能将注意力从国内生产总值转移到幸福快乐和谐上，从竞争的文化转移到共同利益上。
+➜日本太阳帆飞船Ikaro成功实现太阳光驱动
+https://www.solidot.org/story?sid=18970	28800
+日本太阳帆飞船Ikaros在6月份成功的在太空中<a href="__SLASHLINK__" sect="science" sid="10/06/11/058257" sn="article" tid="102">展开了太阳帆</a>，现在它有达到了新的里程碑：<a href="http://inhabitat.com/2010/07/16/japans-ikaros-spacecraft-successfully-propelled-by-solar-sail/">首次在太空中成功利用光驱动</a>。<i>
+Ikaros的3000平方英尺已经成功扑捉到了太阳光线，利用光压在太空加速。光压是光对暴露在其下的物体表面所施加的压力。每个光子能对3000平方英尺的太阳帆施加0.0002磅的压力，源源不断的太阳光射线流能驱动700磅的飞船。</i>
+➜美国关闭73000个博客
+https://www.solidot.org/story?sid=18971	41400
+美国一主机服务商关闭了一个基于WordPress的博客服务网站，<a href="http://yro.slashdot.org/story/10/07/16/171201/US-Govt-Orders-73000-Private-Websites-Offline">导致73000多个博客完全下线</a>。
+<i>
+博客服务网站<a href="http://blogetery.com/">Blogetery.com</a>已由主机商BurstNet托管了7个月，然而7月9日，BurstNet突然关闭了Blogetery.com的服务器，声称是遵守执法机构的命令，原因可能是该网站的部分内容涉及盗版。BurstNet表示它已经宣誓保密，目前既无法归还网站数据也不能透露细节。现在并不清楚网站关闭的确切原因。美国在一次行动中关闭了<a href="https://webcache.googleusercontent.com/search?q=cache:kg7EPbQlvSgJ:blogetery.com/contact/+blogetery.com/contact&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us&amp;client=firefox-a">73000个个人博客</a>无疑是一个极其引入注目的事件，中国的一家博客托管平台也曾经发生过类似事件。</i>
+➜印度的新货币符号无法在电脑上显示
+https://www.solidot.org/story?sid=18972	44700
+印度联邦政府内阁<a href="http://www.pib.nic.in/release/release.asp?relid=63284">批准</a>了一个新的“<a href="http://pib.nic.in/archieve/others/2010/jul/image2010071501.jpg">印度卢比</a>”符号。电脑、手机制造商和软件开发商表示将支持新的符号，但分析师认为电脑和手机要能真正显示卢比符号<a href="http://www.itworld.com/business/114207/indias-new-rupee-symbol-wont-show-soon-computers">可能需要经过两年时间</a>。<i>
+印度政府已经将新符号递交到Unicode组织，以便在Unicode标准中为新卢比符号分配一个编码。最新的Unicode标准是V5.2.0，为卢比编码并纳入标准至少需要18个月。许多电脑手机厂商还没有决定是否让键盘和小键盘支持新卢比，或在软件的字符集中加入新符号。诺基亚发言人表示支持新符号，但对于实施表示现在发表评论为时过早。</i>
+➜DARPA研究人体发电技术
+https://www.solidot.org/story?sid=18973	58320
+美国国防部高级研究计划署（DARPA）正在研究一个将<a href="http://idle.slashdot.org/story/10/07/16/1310210/DARPA-To-Turn-Humans-Into-Batteries">人体变成电池</a>的项目：<a href="http://www.smithsonianmag.com/specialsections/40th-anniversary/Embedded-Technologies-Power-From-the-People.html">利用体热能和机械能为微型军用设备充电</a>。
+<i>
+人体能产生热能，运动时也能产生振动。热能和机械能都能转化为电能。MIT的电气工程教授Anantha Chandrakasan认为，挑战在于如何从人体收集到适量的能量，并高效的转化为电能直接驱动嵌入式设备。为了收集振动能量，Chandrakasan和同事采用压电材料，这种材料在受到压力后能直接转化为电流。为了收集热能，他们采用了热电材料，它能根据温度差异产生电流。</i>

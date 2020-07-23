@@ -1,0 +1,100 @@
+➜盖茨为费曼物理讲座建立网站Tuva
+https://www.solidot.org/story?sid=12383	1500
+time 写道<i> "比尔.盖茨本周<a href="http://tierneylab.blogs.nytimes.com/2009/07/15/gates-puts-feynman-lectures-online/">宣布</a>他已经购买了费曼在康奈尔大学所做的7集讲座的视屏版权。讲座名为"<a href="http://en.wikipedia.org/wiki/The_Character_of_Physical_Law">The Character of Physical Law</a>"。目前正筹备放上英特网。Microsoft Research周三表示，比尔.盖茨在微软员工Curtis Wong的帮助下，建立了网页"<a href="http://research.microsoft.com/apps/tools/tuva/index.html">Tuva</a>"，建立这个网页的目的是提供和讲座视频对应的数字材料。Tuva这个名字来自于费曼常年向往但终究没去成的<a href="http://zh.wikipedia.org/w/index.php?title=%E5%9B%BE%E7%93%A6%E5%85%B1%E5%92%8C%E5%9B%BD&amp;variant=zh-cn">图瓦共和国</a>。Tuva建成后，将提供可检索的讲座文本以及著名物理学家的评注。</i>
+盖茨数年前偶尔发现了这些视频，但他没有透露购买价格。"
+➜苹果更新禁止Palm Pre与iTunes同步
+https://www.solidot.org/story?sid=12384	5400
+Palm推出的Pre手机能伪装成Apple iPod，从而实现<a href="__SLASHLINK__" sect="hardware" sid="09/06/05/0319237" sn="article" tid="38">与苹果的iTunes软件同步</a>。现在苹果释放了iTunes的最新版本8.2.1，在changelog中，苹果声称它修正了一些bug，解决了苹果设备的验证问题，这意味着Palm Pre不会再被识别成苹果的设备，因此<a href="http://apple.slashdot.org/story/09/07/15/221238/Apple-Update-Means-Palm-Pre-Can-No-Longer-Sync-With-iTunes">与iTunes同步的特性被禁止了</a>。
+➜12%的E-mail用户回应Spam
+https://www.solidot.org/story?sid=12385	7500
+Ars Technica报道，反滥发信息工作小组（Messaging Anti-Abuse Working Group，缩写MAAWG）发布的最新研究报告称，<a href="http://arstechnica.com/web/news/2009/07/12-of-e-mail-users-try-to-buy-stuff-from-spam-e-mail.ars">有12%的E-mail用户会回应垃圾邮件</a>，并试图购买Spam推销的产品或服务。<i>
+MAAWG通过电话和互联网采访了800名拥有电子邮件的用户。不到一半（48%）的用户表示他们从未点击过一封Spam邮件，这是好消息。不过从另一方面说有超过的一半的人点击甚至回复了垃圾邮件。令人惊讶的是，其中12%的E-mail用户回应垃圾邮件，是因为他们对产品和服务感兴趣。17%的人表示他们无意点击了垃圾邮件，这是可理解的；但另外13%的人表示他们就是想点击，没有出于什么理由。还有6%的人表示他们只想看看会发生什么事情。</i>
+➜整个net.ru域名无法访问
+https://www.solidot.org/story?sid=12386	8100
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 <i>"有人报告说，“整个俄罗斯net.ru域名都无法访问”。很奇怪，维基百科上所有带“俄罗斯”的条目也被屏蔽。另外，Youtube改host访问的方法被公布，导致googlevideo.com被屏蔽，以至于方法失效。强烈谴责公布的人，而不是像<a href="__SLASHLINK__" sect="internet" sid="09/04/24/1458229" sn="article" tid="120">我</a>。"</i>
+damn最大公约数 写道 "著名P2P电视TVUNetworks无法访问。官方网站及最新版软件皆无法使用。           以下是Tranceroute 日志<br>Traceroute has started ...<br> <br>traceroute to www.tvunetworks.com (38.103.62.161), 64 hops max, 40 byte packets<br>
+&nbsp; 1  hn (125.40.168.1)  22.028 ms  13.411 ms  19.923 ms<br>
+&nbsp; 2  pc253.zz.ha.cn (61.168.61.253)  12.533 ms  12.446 ms  11.704 ms<br>
+&nbsp; 3  pc181.zz.ha.cn (61.168.254.181)  14.269 ms  13.946 ms  14.719 ms<br>
+&nbsp; 4  hn.kd.smx.adsl (221.13.223.89)  35.174 ms  35.205 ms  35.120 ms<br>
+&nbsp; 5  219.158.12.197 (219.158.12.197)  46.847 ms  47.564 ms  46.167 ms<br>
+&nbsp; 6  219.158.4.234 (219.158.4.234)  45.096 ms !H *  46.499 ms !H<br> <br>其实，我只是想看一下环法直播."
+➜嵌入式Linux实现1秒启动
+https://www.solidot.org/story?sid=12387	9720
+嵌入式Linux公司MontaVista Software<a href="http://www.mvista.com/press_release_detail.php?fid=news/2009/Ultra-fast-boot.html">宣布</a>它的产品MontaVista Linux实现了<a href="http://tech.slashdot.org/story/09/07/15/1812226/Embedded-Linux-Achieves-One-Second-Boot-Time">超快启动</a>。<i>
+在<a href="http://www-2.virtualevents365.com/freescale_vftf/index.php">Virtual Freescale Technology</a>论坛上，MontaVista演示了1秒冷启动，一个仪表盘（dashboard）应用程序在一秒内便能完全可操作。MontaVista声称这一成就是之前其它任何嵌入式Linux无法达到的。在工业自动化和其它类似应用中，快速启动和响应时间对于成功运作是至关重要的。演示所用的程序是基于MontaVista Professional Edition Linux，运行在飞思卡尔的基于Power架构的MPC5121e硬件上。</i>
+➜未完成的0 A.D.即时战略游戏开源
+https://www.solidot.org/story?sid=12388	11520
+<a href="http://en.wikipedia.org/wiki/0_A.D._(game)">0 A.D.</a>是<a href="http://os.wildfiregames.com/">Wildfire Games</a>开发的3D、跨平台、历史题材即时战略开源游戏，游戏发生年代是公元前500年到公元500年。它最初是《帝国时代II：国王时代》的MOD，后演变为一款完整的独立游戏。游戏的开发从2000年就开始了，2003年进入实际开发阶段。<i>
+2009年7月10日，Wildfire Games宣布游戏从闭源开发模式变为<a href="http://games.slashdot.org/story/09/07/15/170217/0-AD-Goes-Open-Source">开源模式</a>。所有代码将以GPL许可证发布，所有艺术作品将以<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.zh">署名-相同方式共享 3.0 Unported</a>许可证发布。0 A.D.目前尚未完成，当游戏完成之后，它将会放在互联网上免费下载。它现有超过150k行的C++代码，外加25k行开发工具。从<a href="http://wildfiregames.com/0ad/album_cat.php?cat_id=49">屏幕截图</a>上看，游戏相当精致，值得期待。</i> <a href="http://www.youtube.com/watch?v=hJG8SHH39W4">演示视频</a>(Youtube)。
+➜Google向黑莓和Android发布Google Voice软件
+https://www.solidot.org/story?sid=12389	13200
+Google向黑莓和Android<a href="http://tech.slashdot.org/story/09/07/15/1518240/Google-Voice-Apps-Arrive-For-Android-and-Blackberry">发布</a>了<a href="http://www.google.com/voice">Google Voice</a>软件。其中Android版功能最完善，当程序安装完之后，Google Voice将取代本地的拨号程序、联系人程序和呼叫历史。<i>
+根据谷奥的<a href="http://google.org.cn/2009/07/16/say-hello-to-google-phone-company/">介绍</a>，有了Google Voice客户端软件，你不仅可以管理Google Voice的连接，读取语音邮件，收发短信并进行语音阅读，还可以通过手机进行本地和长途通话。Google Voice软件通过PSTN公共交换电话网络来进行语音连接，被拨打人看到的是你Google Voice的号码而非你真实的电话号码。这个服务需要数据连接来完成，但并不要求必须是WiFi，一般的3G也可以。Google Voice等于将运营商踢到了一边。</i>
+➜中国禁止用电击疗法治疗网瘾
+https://www.solidot.org/story?sid=12390	14400
+山东临沂精神病医院对近3000名青少年动<a href="__SLASHLINK__" sect="internet" sid="09/05/07/1555243" sn="article" tid="100">用电击法治疗网瘾</a>的做法受到了极大的争议。<i>
+路透社<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-73320090715">报道</a>，中国卫生部下达通告，<a href="http://www.moh.gov.cn/publicfiles/business/htmlfiles/mohyzs/s3586/200907/41730.htm">禁止</a>用电击法治疗网瘾，称尚不能确认该方法的安全性和有效性。通告称，“国内外并无电击疗法的相关临床研究和循证医学依据，暂不宜应用于临床”。 据中国互联网络信息中心统计数字，去年中国网民数量达到3亿人，为全世界最高。但有上网带来的问题也随之增多，特别是那些无法排解压力的青少年。中国已有超过200家治疗网瘾的诊所。</i>
+➜阿波罗11号发射40周年
+https://www.solidot.org/story?sid=12391	17100
+<a href="http://blog.zhangsen.org/">zhangsen</a> 写道<i> "<a href="__SLASHLINK__" sect="science" sid="09/07/14/0138242" sn="article" tid="90">原来</a>今天是<a href="http://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7">阿波罗11号</a>发射40周年，<a href="http://www.boston.com/bigpicture/2009/07/remembering_apollo_11.html">The Big Picture</a>上有一些很好看的图片。“40年前，三个人 - 在其他几千个人的帮助下 -，离开我们的星球，成功地到达月球，第一次踏足另一个世界。旅行持续了8天，而他们在月球只待了二又二分之一个小时。 在这里是 40 张来自40年前的照片，那时，"the world came together in peace for all mankind"。”"</i>
+➜Visa用户收到$23 quadrillion账单
+https://www.solidot.org/story?sid=12392	21000
+程序故障让一些Visa信用卡用户收到了<a href="http://edition.cnn.com/2009/US/07/15/quadrillion.dollar.glitch/index.html">天文数字的23,148,855,308,184,500美元账单</a>，这一数目是目前美国国债的2007倍。22岁的Josh Muszynski在例行的余额查询时<a href="http://i2.cdn.turner.com/cnn/2009/US/07/15/quadrillion.dollar.glitch/art.statement.jpg">发现</a>，他的债务超过了美国GDP。Visa发表声明称是软件的故障，表示错误已经修正。<i>
+整件事最令人感兴趣的是账单的数目实际上<a href="http://it.slashdot.org/story/09/07/15/2050215/Software-Glitch-Leads-To-23148855308184500-Visa-Charges">透露了程序错误的类型</a>：23,148,855,308,184,500.00 * 100（可能的数字实际储存方式）等于2314885530818450000，把2314885530818450000转换成16进制便是<a href="http://stackoverflow.com/questions/1133581/is-23-148-855-308-184-500-a-magic-number-or-sheer-chance/1133612#1133612">20 20 20 20 20 20 12 50</a>，C/C++程序员应该很容易判断问题出在什么地方了，16进制数字20代表的是空格。程序出错的原因是将空格覆盖了二进制数字“0”。</i>
+➜印度老虎国家公园内没了老虎
+https://www.solidot.org/story?sid=12393	23100
+印度一个主要的老虎保护区，位于中央邦的<a href="http://en.wikipedia.org/wiki/Panna_National_Park">Panna国家公园</a>正式宣布公园内<a href="http://news.bbc.co.uk/2/hi/south_asia/8150382.stm">已经没有了老虎</a>。<i>
+国家森林部长Rajendra Shukla称，Panna保护区内3年前有24头老虎，但今年一头都没有发现(唯二的两头雌虎已在3月份迁往其它保护区)。Panna国家公园是印度第二大老虎保护区。野生动物部门的官员表示没有可解释的理由说明老虎数量的下降。但Rajendra Shukla部长仍然很乐观，他称Panna是唯一一个失败的国家公园，其它三个保护区Kanha、Bandhavgarh和Pench管理状况都良好。</i>
+➜警方认定：杰克逊的死为”凶杀案”
+https://www.solidot.org/story?sid=12394	24480
+<a href="http://liduan.cn/">inputx</a> 写道<i> "<a href="http://www.tmz.com/2009/07/15/michael-jackson-homicide-death-dr-conrad-murray-lapd-propofol/">美国娱乐网站TMZ今天报导</a>，洛杉矶警察局将流行音乐天王迈克尔.杰克逊之死视为他杀，目标锁定医生康拉德莫瑞。莫瑞开给杰克逊的药物证实强度已至麻醉剂的程度，极可能导致他猝死。执法人士告诉TMZ，已有“足够的有力证据”指出，51岁的莫瑞为杰克逊施打名为“得普利麻”(Diprivan)的麻醉药物。<a href="http://u21.me/8c">普立麻的滥用问题在美国十分普遍</a>。"</i>
+➜尼日利亚政府投资5百万美元重塑互联网形象
+https://www.solidot.org/story?sid=12395	26160
+<a href="http://zh.wikipedia.org/w/index.php?title=%E5%A5%88%E5%8F%8A%E5%88%A9%E4%BA%9E&amp;variant=zh-hans">尼日利亚</a>奥马鲁·亚拉杜瓦（Umaru Yar’adua）政府编制了500万美元预算去<a href="http://www.saharareporters.com/index.php?option=com_content&amp;view=article&amp;id=3024%3Aumaru-yaradua-regime-launches-5-million-online-war-&amp;catid=1%3Alatest-news&amp;Itemid=18">创建和资助支持政府的网站</a>。<i>
+据与政府计划密切相关的内部人士透露，尼日利亚总统亚拉杜瓦上周批准了一项秘密行动，试图压制对尼日利亚民众有举足轻重影响力的网站和博客，这项名为“反博客”的计划主旨是建立新网站，用爱国主义口号去迷惑不明真相的读者。尼日利亚政府还付费雇用了一批人，在流行的邮件列表，聊天室，评论社区和论坛上注册，发表赞扬政府的言论，对抗反政府的负面批评。计划招募700人，目前已雇了超过200人</i>
+➜NASA 30年前拒付的400美元垃圾费被一位DJ付清了
+https://www.solidot.org/story?sid=12396	29400
+去年11月，国际空间站宇航员在太空行走时不小心<a href="__SLASHLINK__" sect="science" sid="08/11/20/086248" sn="article" tid="90">丢失了特别定制的工具包</a>。消息传出之后，很多美国人担心工具包会掉到他们头上，为了让这些杞人忧天者放心，NASA发表声明称工具包会在大气层中烧光。此事引起了加州高速公路电台DJ Scott Barley的兴趣，他带着好奇去调查NASA有没有朝地球上扔下没有被大气层烧光的东西。<i>
+结果发现真的有：1979年7月11日，NASA空间站天空实验室（<a href="http://en.wikipedia.org/wiki/Skylab">Skylab</a>）的残骸最后掉落在澳大利亚，让希望郡（Shire of Esperance）的居民大吃一惊，他们开玩笑的要求NASA支付400美元的垃圾丢弃费，每年有数百亿美元预算的NASA拒绝支付区区400美元的罚款。Scott Barley通过电台请求听众捐钱，凑足了400美元帮助NASA<a href="http://science.slashdot.org/story/09/07/14/1556228/NASAs-Skylab-400-Littering-Fine-Paid-By-DJ">付清了拖欠30年的罚款</a>。更有趣的是，Barley所在的Barstow市还与澳大利亚的希望郡结成了姐妹城市，并作为Barstow市的代表前往澳大利亚小城(没有直达飞机，必须通过公路)进行庆祝，而7月13日则被永远的命名为“<a href="http://blogs.discovery.com/space_disco/2009/07/skylab-esperance-july-13.html">Skylab-Esperance Day”。</a> </i>
+➜Opera 10 beta 2放出，强调全网加速
+https://www.solidot.org/story?sid=12397	31320
+<a href="http://thruth.ixiezi.com/">Truth</a> 写道<i> "<a href="http://www.opera.com/">Opera 浏览器</a>放出了 Opera 10.0 beta2 版本，此版本不含 <a href="http://unite.opera.com/">Opera Unite</a>，依然强调Opera Turbo全网加速，配合引擎速度提升。中国用户可以通过手动配置使用本土 Turbo 加速服务器。此外，此版本全面提升了 Linux 上中文字体表现，加入了可视化标签，可配置快速拨号等 Opera 对原有创新的改良。</i>
+<a href="http://www.opera.com/download/?ver=10.00b2">下载页面</a>&nbsp;&nbsp;<a href="http://bbs.operachina.com/download/file.php?id=17873">Win版镜像下载</a>&nbsp;&nbsp;<a href="http://bbs.operachina.com/viewtopic.php?t=48819">详细更新</a>"
+➜经济物理学家预测上海股市崩盘日期—7月17日到27日之间
+https://www.solidot.org/story?sid=12398	33000
+经济的繁荣和萧条是当今世界最令人困惑的问题之一，去年很多人都见识到了一次巨大经济泡沫的破灭。一个越来越引人注目的问题是：泡沫的发生和破灭能预测吗？一群经济物理学家表示他们能，并以上海综合股票市场为例，称他们已经从上海股市指数反常的增长中发现了警告信号，指出此轮泡沫的破灭日期发生在<a href="http://www.technologyreview.com/blog/arxiv/23839/">7月17日到27日之间</a>。<i>
+瑞士苏黎世联邦理工学院Didier Sornette称，泡沫的预警信号是比指数增长更快的速度，这轮非线性增长是一种正回馈机制触发的。从去年10月起，上海沪指上升了69%，虽然并不清楚是否是正回馈机制导致了这次增长，但研究人员暗示它与中国政府制定的大幅度发放银行贷款以维持8%年度增长率有关。他们预测上海股市快速增长的趋势将在7月17日和27日之间停止。当然这只是预测，股票崩盘未必会在这两个日期之间发生。</i>
+<a href="http://arxiv.org/abs/0907.1827">预印本</a>
+➜Google开始建造无冷却器的数据中心
+https://www.solidot.org/story?sid=12400	34500
+<a href="http://www.wordpress.la/">WordPress啦!</a> 写道 "谷歌已经开始在比利时<a href="http://www.wordpress.la/google-build-chillerless-datacenter.html">建立一个无冷却器的数据中心</a>。此举将会提高它的能源使用效率，不过当地的天气将是影响数据中心管理的一个重要因素。冷却器，是数据中心冷却系统广泛用来冷却水的，不过要耗费大量的电能。随着对电力成本越来越关心，很多数据中心都在降低对冷却器的依赖，以提高设备的能源使用效率。这使得“免费冷却”日益盛行。“免费冷却”主要是使用数据中心外部的空气来支持冷却系统。当数据中心外部的气温很凉的时候，就可以使用外部空气来冷却，气温变暖时仍使用冷却器。谷歌在这方面更进一步，它不是部分时间使用外部空气冷却，部分时间使用冷却器。它在比利时的Saint-Ghislain附近的数据中心完全<a href="http://www.datacenterknowledge.com/archives/2009/07/15/googles-chiller-less-data-center/">不用冷却器</a>。这个数据中心2008年末就开始建立了，它现场的水净化设备也是非常出色的，因此可以直接使用附近的一条工业运河而不用市政供水。           全年免费冷却<br> <br>据谷歌的工程师称，比利时的气候可全年支持免费冷却系统，全年平均大约只有七天的气温会比要求的高些。布鲁塞尔气温 夏季最高值达到66-71 华氏度，而谷歌的数据中心能在80华氏度下运行。<br> <br>如果天气变热了怎么办呢？谷歌说必要时会关闭比利时的设备转移到其他数据中心。由于谷歌在全球范围内都有数据中心，这点还是能实现的。<br> <br>在三月份的采访中，谷歌高级执行副总裁Urs Holzle说，公司主要是使用手动工具来管理故障停机。“我们的团队会定期维护具体的数据中心”他说道：“有时会出现新问题，我们需要建立新的工具。”<br> <br>工作立刻转向<br> <br>上个月召开的2009结构会议上，谷歌公司的 Vijay Gill暗示他们公司已经开发了管理数据中心热负荷的自动化工具，一旦出现数据中心过热立刻转移工作(Register上也谈论到了这个话题)。<br> <br>“你必须自始至终对冷却器和CPU之间所有的环节综合考虑。”， 谷歌的工程建筑总经理Gill说道，“有时数据中心温度升高了，可能会想快速减轻热负荷，嗨，别忘记了，数据中心没有冷却器，你只好转移运行负荷，减少CPU和一些在RAM里的进程。”<br> <br>当被问道谷歌目前使用的算不算是谷歌的专利技术时， “我不能对此做出评论。”Gill回答道。<br> <br>快看：居然没有冷却器!<br> <br>不过在四月份哈里发 Mountain View城举行的谷歌数据中心效能首脑会议上，谷歌的工程师就已经透露了比利时无冷却器数据中心。那时，我们特意问道：“现场的冷却器是比较少用还是完全不用？”<br> <br>回答是：完全不用。数据中心的设备完全依靠免费冷却系统，如果哪天太热设备无法运作，立刻转移工作。虽然天气象预报能帮助谷歌预计哪天需要从比利时数据中心转移工作，当地的天气仍是网络管理中要考虑的一个因素。<br> <br>虽然如此，谷歌定期会受到转移整个数据中心的挑战，二月份Gmail的停机 就是一个例子，向一个数据中心转移工作的时候超负荷了。五月份的停机简介 中也提到了流量的改道也会引起问题。<br> <br>“跟随月亮工作”成为可能？<br>谷歌可以实现毫无漏洞地在数据中心之间转移工作，也创造了长久能源管理的可能，包括利用夜间电力和冷却成本低的优势的“跟随月亮工作”策略。该策略的实现手段是通过向不同时区的数据中心转移虚拟工作，尽量避开高峰使用时间。<br> <br>这个方法，其实Cloud的技术人员Geva Perry 和 James Urquhart 已经探讨过。当时，cloud为了实现它的全球网络服务，在电力便宜的地方建立数据中心。不过，现在这种方法也可以让一个像谷歌这样拥有全球网络的公司节省能源。"
+➜软件版本号的奇特历史
+https://www.solidot.org/story?sid=12401	38400
+理论上，<a href="http://zh.wikipedia.org/w/index.php?title=%E8%BB%9F%E4%BB%B6%E7%89%88%E6%9C%AC%E8%99%9F&amp;variant=zh-hans">软件版本号</a>应该和序列号、家庭号码、车牌号一样闪耀无比，而不是只是平淡无奇的跟踪软件的大小版本变化。然而现实中，版本号早就成为一种销售的工具，软件版本被随意的用年份等不同方式制定。Harry McCracken的一篇<a href="http://technologizer.com/2009/07/14/version-numbers/">文章</a>介绍了<a href="http://tech.slashdot.org/story/09/07/14/1546253/The-Amazing-World-of-Software-Version-Numbers">软件版本号的历史</a>：<i>
+软件版本号从什么时候开始使用：早在1958年，FORTRAN II程序语言便开始使用数字去跟踪软件版本。70年代初Unix开发者使用第一版，第二版，第三版等等去展示软件的进化。<br>
+最高的版本号：Broderbund的<a href="http://www.broderbund.com/store/broder/en_US/DisplayProductDetailsPage/productID.110148100/categoryID.13528500">The Print Shop 23</a>，有27年历史，几乎每年发布一次更新；其次是著名的文本编辑器Emacs，目前版本是<a href="http://en.wikipedia.org/wiki/Emacs">22.3</a>。<br>
+最著名的版本号：WordPerfect 5.1，Windows for Workgroups 3.11.<br>
+Windows 95是不是第一个用年份作为版本号的？当然不是，是<a href="http://en.wikipedia.org/wiki/Fortran#FORTRAN_66">Fortran 66</a>，此外有80年推出的NewDOS/80操作系统，和Adobe于88年发布的Illustrator 88。<br>
+Windows XP中XP的意思是？——Experience.....<br>
+传统版本号的典型例子：Linux kernel，最新版本 2.6.30.1。<br>
+最有趣的版本号： Donald Knuth发布的<a href="http://zh.wikipedia.org/wiki/TeX">TeX</a>排版软件。“从TeX第三版开始，之后的升级是在小数点后加入一个新数位，使之越来越接近圆周率π的值。TeX目前的版本是3.1415926。这显示了TeX已经十分稳定，任何的升级都十分细微。Donald曾表示‘（于我过世后的）绝对最后改变’为把版本数改为π，那时任何余下的漏洞都成程序的点缀了。”<br>
+版本号为13的幸运产品：Office 2007是Office 12，下一个版本微软跳过了13变为Office 14，CorelDraw和WordPerfect的第13个版本称为 “X3（10+3）”。</i>
+➜马英九将通过网络与台湾民众交流
+https://www.solidot.org/story?sid=12402	41100
+<a href="http://digu.com/azuccc">azuccc</a> 写道 "台湾中央社<a href="http://www.cna.com.tw/SearchNews/doDetail.aspx?id=200907160109">报道</a>，马英九先生将从18日开始，亲自录制影音，每周六上午9时固定于<a href="http://www.president.gov.tw/">“总统府”网站</a>发表3至5分钟的“治国周记”。
+<i>
+据了解，马英九首次“治国周记”，将以《在网路海滩上，筑起对话营火》为题，向网友们报告他如何透过网络，让大家知道“马英九在想什么？在做什么？”。根据调查，目前台湾上网人口已达1580万，民众一个月在家上网天数达21.8天。据转述，马英九相信，很多政策若经大家讨论，政府就能提出符合人民期待的公共方案，这就是Web2.0强调的集体智慧的精神，也是政府应该尽速学会并熟悉的能力。"</i>
+➜软件使用(A/L)GPL许可证发布的6大理由
+https://www.solidot.org/story?sid=12403	43500
+Python语言的开发者最常用的是比较宽松的许可证如BSD、MIT，GPL不受欢迎。但Python开发者Zed Shaw却喜欢采用GPL许可证。他在<a href="http://zedshaw.com/blog/2009-07-13.html">博客</a>上给出了<a href="http://developers.slashdot.org/story/09/07/14/1414259/6-Reasons-To-License-Software-Under-the-ALGPL">软件使用(A/L)GPL许可证发布的6大理由</a>：<i>
+他不想被再次忽视；要求企业承认他们使用了他的软件；程序员剽窃开源软件，当作自己开发的，却不告诉老板或投资者；GPL是为了保证人能诚实，程序员使用了GPL代码后将不得不告诉上司；开源对开源，企业对企业——如果你是开源开发者，那么你便是英雄，如果是企业，那么就谈生意；价值——如果一个人免费使用了一样东西，却没留下任何想法，那么他可能会认为这个产品没有付费的产品价值大。</i>
+➜民政部向社会征求月球标准中文地名
+https://www.solidot.org/story?sid=12404	45900
+民政部向社会发出月球标准中文地名的征求意见，以消除月球中文地名使用中的混乱。<a href="http://www.mca.gov.cn/article/zwgk/tzl/200907/20090700033027.shtml">征求意见</a>中说：
+<i>在IAU公布的月球地名录中包括18种月球地理实体类型（feature type），即月球通名。在相关出版物和学术期刊上关于月球通名的译法不一，特别是关于“Crater”这一通名的译法更是多种多样。这种状态的存在，必然会影响月球地名的正确使用。为此，有必要集思广益，对月球地名通名进行系统性的标准化处理。现面向社会广泛征求意见，欢迎有关方面单位及专家对月球地名通名的译写形式提出宝贵建议。</i>
+➜imageshack.us 无法访问？
+https://www.solidot.org/story?sid=12405	47640
+匿名读者 写道 "在某论坛浏览时突然发现来自<a href="http://imageshack.us/">imageshack</a>的图都显示不了，直接输入地址栏后显示Connection: close（我有用Privoxy做过滤）。开Wireshark后发现被插了5、6个rst。<br>
+<i>google.cn上有一个2009年7月16日 11:51:17 GMT抓到的imageshack.us快照，换成北京时间就是今天晚上7点51分，这应该可以说明此时imageshack网站本身没有异常</i>
+搜索中发现极限也有人提到<a href="http://bbs.themex.net/showthread.php?t=16853934">这事</a>"

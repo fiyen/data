@@ -1,0 +1,61 @@
+➜Fedora 25 正式发布
+https://www.solidot.org/story?sid=50468	5875
+<a href="/~Ray">Ray</a> 写道 <i>"今天，Fedora 项目组很荣幸地宣布 Fedora 25 发布了，这是我们进入容器化，模块化的未来的一大步！
+<p></p>
+<p>Fedora 是一个全球性社区，共同致力于推动自由和开源软件的发展。作为我们使命的一部分，该项目提供三个版本，每一个基于 Linux 的免费的操作系统，都专为满足特定用例而定制：Fedora 25 Atomic Host，Fedora 25 Server 和 Fedora 25 Workstation。</p>
+<p>每个版本都是从一组常见的基础软件包构建的，这些软件包构成了 Fedora 操作系统的基础。 与所有新版本的 Fedora 一样，Fedora 25 修复了许多错误，且对底层组件进行了调整，并提供新的增强包，包括：</p>
+<p>Docker 1.12 用于构建和运行容器化应用程序</p>
+<p>Node.js 6.5，非常流行的最新版服务器端 JavaScript 引擎</p>
+<p>支持 Rust，一个更快更稳定的系统编程语言</p>
+<p>多个 Python 版本支持 - 2.6,2.7,3.3,3.4 和 3.5 - 帮助运行跨多个 Python 配置的测试套件，以及 PyPy，PyPy3 和 Jython</p></i>
+<a href=" https://www.fdzh.org/blog/2016/11/22/fedora-25/" target="_blank"><u>Source</u></a>"
+➜Facebook为入华开发专门的审查工具
+https://www.solidot.org/story?sid=50469	8734
+《纽约时报》援引匿名的Facebook前雇员和现雇员的消息<a href="http://www.nytimes.com/2016/11/22/technology/facebook-censorship-tool-china.html?_r=0" target="_blank"><u>报道</u></a>，社交巨人正在悄悄的开发软件审查特定地理区域用户新闻流上显示的帖子。Facebook开发该功能是为了能进入中国。知情人士称，CEO Mark Zuckerberg支持这一努力并为之辩护。Facebook在2009年被中国屏蔽，此后Zuckerberg尝试通过与中国领导人建立关系的方式重返中国市场，他学普通话，与负责审查的中国官员会面，甚至看起来还在读习选。知情人士称，Facebook并不想利用这项功能自己去审查内容，而是提供给第三方——也就是可能的中国合作伙伴，让中国人去监视和审查中国人的帖子。这项功能也许永远不会正式启用，但该项目说明了Facebook为进入中国在多大程度上愿意妥协——它不惜破坏自己的一项核心使命“让世界更开发和连接起来”。Facebook发言人表示该公司尚未决定如何进入中国。
+➜恶意视频链接会导致任何iOS设备死机
+https://www.solidot.org/story?sid=50470	13045
+苹果iOS系统新发现了<a href="https://it.slashdot.org/story/16/11/22/2255241/malicious-video-link-can-cause-any-ios-device-to-freeze" target="_blank"><u>一个严重bug</u></a>，用户只要在 Safari上播放一个<a href="https://vk.com/doc106491973_439166823" target="_blank"><u>.mp4视频</u></a>（iOS设备不要打开）就能导致任何iOS设备死机，必须硬重启。YouTube视频播客 EverythingApplePro演示了<a href="https://www.youtube.com/watch?v=B15nBZ7pjLs" target="_blank"><u>该bug</u></a>，它会导致系统逐渐失去响应。一种可能的解释是该视频在播放时会导致某种内存泄漏，系统无法正确处理。受影响的iOS版本从iOS 5到iOS 10.2，基本上涵盖了所有的用户使用版本。
+➜北极异常升温令科学家不解
+https://www.solidot.org/story?sid=50471	14172
+北极11月温度通常在零下25摄氏度左右，但本月最高曾逼近零下5度，<a href="http://www.ftchinese.com/story/001070271" target="_blank"><u>专家称这种情况从未有过</u></a>，并正在分析原因。
+“我们从1958年开始处理这些数据，我们确实没有在一年中的这个时候看到过这么高的气温，”丹麦气象研究所的海冰专家Rasmus Tonboe表示，“我们正在关注这一情况，试图分析其中的原因，但这非常奇怪。”
+在北极出现不同寻常的变暖之际，联合国世界气象组织的官员称，他们有95%的把握相信，2016年将是自19世纪有记录以来最热的一年。
+➜澳大利亚盗版者是优质客户
+https://www.solidot.org/story?sid=50472	18743
+如果你有合法的内容消费渠道，你还会盗版吗？澳大利亚政府委托的进行一项研究报告称该国的盗版率在2016年出现了下降，原因被认为主要是由于合法内容源改进了可得性。报告<a href="https://torrentfreak.com/surprise-aussie-internet-pirates-are-the-best-customers-161121/" target="_blank"><u>还揭示盗版者通常是娱乐业的优质客户</u></a>。报告发现，以周计算消费者串流的电影、电影、音乐和游戏内容出现了显著的增长。报告还发现，盗版者同时也是合法内容的消费者。在2016年，仅有6%的网民完全从盗版源消费内容，37%的人消费过至少一个非法来源文件，低于2015年的43%。
+➜沃通开始转售Certum的证书
+https://www.solidot.org/story?sid=50473	28510
+遭到 Google 和 Mozilla 浏览器停止信任的沃通CA并没有退出CA市场，它开始推出<a href="http://www.wosign.com/news/certificate_pre.htm" target="_blank"><u>新的产品</u></a>，转变为Certum CA的SSL证书转售商。有人因此质疑对<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/YAZAr1UXjl8" target="_blank"><u>沃通</u></a>的制裁现在似乎毫无意义了。Certum CA 隶属于波兰公司Asseco Data Systems S.A.，是浏览器信任的 Root CA 之一，该公司的分析师Arkadiusz Ławniczak 证实沃通是该公司分销网络的合作伙伴，他们最近向沃通签发了一个中级证书，允许沃通使用自己的品牌发行 Certum 的证书，但私钥等仍然控制在 Certum 手中。沃通的王高华仍然在职，他表示没有规定禁止沃通转售其他CA的证书。
+➜Tor手机“化解”Google对Android的“敌意”
+https://www.solidot.org/story?sid=50474	29400
+Tor 开发者 Mike Perry 在加固版 Android 发行版 Copperhead OS 的技术上发布了 <a href="https://blog.torproject.org/blog/mission-improbable-hardening-android-security-and-privacy" target="_blank"><u>Tor手机原型</u></a>（<a href="https://github.com/mikeperry-tor/mission-improbable/blob/master/README.md" target="_blank"><u>安装指南</u></a>发布在Github上），演示构建一款尊重用户选择和自由、大幅减少攻击面的安全手机是可能的。Tor手机原型使用防火墙 OrWall 经过 Tor 路由流量，屏蔽所有其他流量，但可以为 Signal 等端对端加密的语音消息应用添加例外。原型只能工作在 Google Nexus 和 Pixel 等少数硬件上，Perry 称， Google <a href="http://arstechnica.com/security/2016/11/tor-phone-prototype-google-hostility-android-open-source/" target="_blank"><u>对 Android 作为一个完整开源平台的“敌意”日益增加</u></a>。苹果的 iOS 被认为比
+Android更安全，但 Perry 相信 Android 的安全性会不断改进，而闭源的系统如苹果的 iOS 比开源系统更容易被迫部署软件后门。为了解决 Android 的安全问题，Google 采取的方法伤害了用户自由，这一趋势令人不安。
+➜日本为无人驾驶绘制高清3D地图
+https://www.solidot.org/story?sid=50475	31472
+包括丰田、本田、日产和三菱电机在内的15家日本公司组建财团共同为无人驾驶安全行驶<a href="http://spectrum.ieee.org/cars-that-think/transportation/self-driving/japans-upgraded-mobile-mapping-technology-aims-to-make-autonomous-driving-safer" target="_blank"><u>绘制详细的高清3D地图</u></a>。该项目得到了日本政府的支持，以在2020年日本东京奥运会期间提供无人驾驶汽车服务。被称为
+<a href="http://asia.nikkei.com/Tech-Science/Tech/Japan-to-develop-3-D-maps-for-self-driving-cars"> Dynamic Map Planning</a> 的项目由三菱电机领导，其任务是绘制日本长3万公里的高速公路地图，装备移动地图系统MMS-G220的汽车配置使用激光雷达、摄像机、GPS和其它传感器，以40公里的巡航速度测绘地图，它能以10厘米的绝对精度捕捉7米外的物体，每秒能收集100万个数据点。
+➜Twitter 不小心关闭了 CEO 的账号
+https://www.solidot.org/story?sid=50476	33504
+Twitter CEO Jack Dorsey的账号周三短暂消失，重新出现后其follower人数只有100多，目前已经恢复。Dorsey随后发帖<a href="https://twitter.com/jack/status/801270269184647168" target="_blank"><u>证实</u></a>，其账号因为内部出错被关。今年对Twitter来说是艰难的一年，长期亏损存在财政问题的微播客服务找不到感兴趣收购的买家，前不久它宣布了<a href="http://www.solidot.org/story?sid=50158" target="_blank"><u>重组计划</u></a>，宣布裁员雇员总数的7%。
+➜BMJ呼叫结束毒禁毒战争
+https://www.solidot.org/story?sid=50477	34879
+<div align="center"><img src="http://img.solidot.com.cn/0/330/limn7vQqbSLmw.png" height="350" width="350" align=""><br>
+<br>
+</div>
+知名医学期刊《英国医学杂志（BMJ）》发表<a href="http://www.bmj.com/content/355/bmj.i6067" target="_blank"><u>社论</u></a>，呼叫结束毒品战争。期刊主编 Fiona Godlee等人指出，毒瘾是一种健康问题，而不是道德缺失问题。医生应该倡导公共政策的转变，将治疗放在第一位，逆转荒诞的禁毒战争。所有战争都会导致人权的侵犯，禁毒战争也不例外。禁毒战争每年给社会带来了至少1千亿美元的损失，但毫无成效，既没有减少毒品供应，也没有降低上瘾率或伤害。期刊呼吁医生作为专业人士应该站出来呼吁改革禁毒政策。美国的许多个州和欧洲多个国家已经合法化了大麻使用，而全球毒品政策委员会的最新报告<a href="http://www.solidot.org/story?sid=50462" target="_blank"><u>认为</u></a>是时候合法化毒品了。
+➜微软一边加入Linux基金会，一边收Linux专利费
+https://www.solidot.org/story?sid=50478	38729
+微软加入了非营利的Linux基金会，斥资50万美元成为基金会的白金会员，其Azure架构师John Gossman也进入了董事会。但软件巨人真的爱Linux？不要忘记了，微软的手机战略虽然失败了，但它从竞争对手Android厂商和其它Linux开发商那里收取了不菲的专利授权费，其中与Android相关的专利<a href="http://www.solidot.org/story?sid=39945" target="_blank"><u>共310项</u></a>。根据2013年的估计，每售出一部Android手机微软从中收取了5到15美元的专利费，华尔街分析师推测，微软每年光专利授权就产生了20亿美元到60亿美元的收入。它向Linux基金会支付的50万美元<a href="https://meshedinsights.com/2016/11/22/microsoft-linux-patents-tweets/" target="_blank"><u>只相当于从对Linux的专利威胁中所获取收入的0.25%。</u></a>
+➜中国的在家学习现象
+https://www.solidot.org/story?sid=50479	41334
+越来越多的中国家长开始<a href="http://www.solidot.org/story?sid=36207" target="_blank"><u>热衷在家教子</u></a>，避开应试教育给孩子带来的压力。官方新京报<a href="http://www.bjnews.com.cn/inside/2016/11/23/424582.html" target="_blank"><u>报道</u></a>了多名坚持在家学习的学生。文章称：<br>
+<i>对他们和他们的父母而言，家的意义远远不只是休憩的港湾，更是一个探索新教育方法的乌托邦。这批特立独行的小众家庭，在通往各自理想教育的道路上艰难前行，尽管他们奋力挣扎，但大多数不得不接受“失败”的结局。”2006年前后，作家郑渊洁在家教育儿子郑亚旗、上海读经私塾“孟母堂”被官方取缔等新闻引起舆论关注，在家上学进入公众视线。经过几年酝酿发展，越来越多中国家庭开始尝试这种“不可思议”的教育方法。2013年，民办非营利机构21世纪教育研究院发布《中国在家上学研究报告》：中国大陆约有1.8万名学生在家接受教育。 石磊是江南大学设计学院研究生，正在主导进行一项关于中国“在家上学”现状的科研项目。通过中外数据对比和案例分析，他认为中国的在家上学还处于“启蒙前阶段”。美国的在家教育经过几十年的发展，目前在各州均已合法，逐渐建立起了与之相匹配的社会认可度、社区支持和资源共享体系等。相比之下，中国在家上学的孩子和家长还在“黑暗中摸索前行”。</i>
+➜滥用 Telegram API 的勒索软件被破解
+https://www.solidot.org/story?sid=50480	43440
+名叫 TeleCrypt 的勒索软件滥用 Telegram API，将流行的即时通讯软件作为CC指令控制中心。该勒索软件<a href="http://www.solidot.org/story?sid=50337" target="_blank"><u>针对的是俄罗斯用户</u></a>，用Delphi编写，大小3MB，感染之后会向受害者勒索5000卢布。幸运的是， TeleCrypt 使用的加密并不强，Malwarebytes的研究人员发现它的加密方法十分简单，<a href="https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/" target="_blank"><u>因此开发出了破解程序</u></a>，帮助受害者解密加密的文件。破解程序需要 .NET 4.0。
+➜VPN服务商寻求挫败英国的网络历史记录法律
+https://www.solidot.org/story?sid=50481	43867
+英国上周<a href="http://www.solidot.org/story?sid=50417" target="_blank"><u>通过了</u></a>受争议的新监视法律，将强迫要求ISP记录用户域名访问日志一年时间。英国以帮助打击恐怖主义的理由为其辩护，但批评者认为是监视法律，指出其要求记录这些信息将容易被黑客窃取，因为信息保存者总是难免会发生失误的。VPN服务商<a href="http://www.bbc.com/news/technology-38068078" target="_blank"><u>开始兜售他们的服</u></a>务，称使用VPN可以避免遭到监视，挫败日志记录法律，ISP无法记录到他们访问的网址，因为用户的网络流量都路由通过了VPN的服务器，ISP只知道用户使用了VPN。NordVPN的发言人称，当澳大利亚的数据保留法律生效之后，他们注意到了用户数量的增长，他们现在观察到来自英国的请求增加。NordVPN称他们的政策是不记录日志。
+➜Google将实时告诉你酒吧或商店是否拥挤
+https://www.solidot.org/story?sid=50482	47349
+在你动身前，Google将实时告诉你要去的地方<a href="https://www.theguardian.com/technology/2016/nov/22/google-bar-shop-busy-real-time-live-data-black-friday" target="_blank"><u>是否人很多</u></a>。Google Maps为Popular Times功能引入了Live Feed，能显示特定场所此时此刻是否拥挤。它利用了Google用户的匿名位置数据和搜索查询，去分析特定场所的实时拥挤情况。Live Feed在黑色星期五前推送给了用户。在Google官方博客上，Google产品经理 Jamie Aspinall<a href="https://blog.google/products/search/know-you-go-google/" target="_blank"><u>表示</u></a>，用户可以在Popular Times查询人们在特定地点的典型停留时间长度，可以在最后一分钟时安排出行计划。Google还计划未来向用户提供常去场所的更精确商务情况。

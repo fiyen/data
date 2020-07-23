@@ -1,0 +1,9 @@
+➜jQuery 跨站脚本漏洞影响大量网站
+https://www.solidot.org/story?sid=62551	47413
+Snyk 发布了 <a href="https://snyk.io/wp-content/uploads/snyk-javascript_report_2019.pdf"><u>2019 年度的 JavaScript 框架安全状况报告</u></a>（PDF），除了最流行的 JS 框架  Angular 和 React 外，报告还观察了其它三个流行 JS 前端框架 Vue.js、Bootstrap 和 jQuery 的<a href="https://www.i-programmer.info/news/167-javascript/13232-the-perils-of-jquery.html" target="_blank"><u>安全漏洞</u></a>。jQuery 过去 12 个月的下载量超过了 1.2 亿次，是 Vue.js 的 4000 万次和 Bootstrap 的 7900 万次之和。Vue.js 发现了 4 个漏洞，都已经修复。Bootstrap 发现了 7 个跨站脚本漏洞，3 个是在 2019 年披露的，无安全修正。jQuery 发现了 6 个影响所有版本的安全漏洞，4 个是中等危险级别的跨站脚本漏洞，1 个是中危 Prototype Pollution 漏洞，还有一个是低危拒绝服务漏洞。jQuery&nbsp;3.4.0 以上版本不受漏洞影响。jQuery 生态系统还发现了多个恶意的扩展包，其中包括 jquery.js、jquery-airload、github-jquery-widgets、 jquery-mobile、jquery-file-upload 和 jquery-colorbox，这些包过去一年的下载量从几百到几千不等。
+➜微软 Defender 杀毒软件将发布 Linux 版
+https://www.solidot.org/story?sid=62552	48394
+在本周举行的 Ignite 会议上，微软<a href="https://www.zdnet.com/article/microsoft-defender-atp-is-coming-to-linux-in-2020/"><u>宣布</u></a>其杀毒软件 Microsoft Defender 明年将发布 Linux 版本。微软今年初将其安全软件 Windows Defender 重命名为 Microsoft Defender，代表它不仅仅在 Windows 平台释出，它已经发布了 Mac 版本。微软 M365 Security 业务企业副总裁 Rob Lefferts 称，Microsoft Defender for Linux 将在 2020 年提供给客户。Lefferts 表示该公司的安全产品 2019 年至今已经屏蔽了 135 亿恶意电子邮件，预计到年底将达到 140 亿。<
+➜Python 超过 Java 成为 GitHub 第二流行的语言
+https://www.solidot.org/story?sid=62553	50067
+根据 GitHub 的<a href="https://octoverse.github.com/" target="_blank"><u> State of the Octoverse</u></a> 年度报告，Python 超过 Java 成为第二流行的语言，稳居第一的则是 JavaScript。报告称，其平台有超过 4000 万开发者，其中 2019 年新增 1000 万用户；美国之外开发者最多的国家地区包括中国、印度、德国、英国、日本、加拿大、法国、俄罗斯、巴西以及香港特区。报告特别突出了中国，称中国开发者过去一年创建分支和克隆的项目比前一年增加了 48%。过去一年使用增长最快的语言是 Dart，之后是 Rust、HCL、Kotlin、TypeScript、PowerShell、Apex、Python、Assembly 和 Go。其中 Dart 增长率高达 532%，而 Rust 为  235%。

@@ -1,0 +1,69 @@
+➜紫坪铺水坝与地震
+https://www.solidot.org/story?sid=9704	6120
+英国《电讯报》报道，去年中国四川发生的里氏7.9级，可能与<a href="http://www.telegraph.co.uk/news/worldnews/asia/china/4434400/Chinese-earthquake-may-have-been-man-made-say-scientists.html">建成的紫坪铺水坝的地面应力有关</a>。<i>
+511英尺高的紫坪铺水坝能储存3.15亿吨水，离<a href="http://zh.wikipedia.org/wiki/%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87">汶川大地震</a>的断层线仅仅550码，距离震中心只有3英里。中国和美国的科学家相信，水的重量及水渗透入岩石后的效应，可能影响了地下断层线上的压力，或许因而就释放出了导致大地震的断裂连锁效应。
+</i>历史上水坝诱发地震并不鲜见，比如美国的<a href="http://zh.wikipedia.org/wiki/%E8%83%A1%E4%BD%9B%E6%B0%B4%E5%9D%9D">胡佛水坝</a>就导致了小规模地震，但没有见过震级如此之高的。
+➜中国科学家宣布成功克隆人类胚胎
+https://www.solidot.org/story?sid=9705	6480
+<a href="mailto:a2158670@163.com">匿名读者</a> 写道 "<a href="http://news.163.com/09/0202/19/5161EV670001124J.html">中国科学家宣布成功克隆人类胚胎</a>：<i>
+山东省干细胞工程技术研究中心2月2日宣布，由这个中心李建远教授率领的科研团队，攻克人类胚胎克隆技术，成功克隆出5枚符合国际公认技术鉴定指标的人类囊胚。这一研究成果发表于2009年1月27日《<a href="http://www.liebertpub.com/Products/Product.aspx?pid=9">CLONING AND STEM CELLS</a>》杂志网络版。</i>
+➜马来西亚发现180万年历史的石头工具
+https://www.solidot.org/story?sid=9707	6900
+马来西亚考古学家宣布发现了一些石头工具，<a href="http://www.google.com/hostednews/afp/article/ALeqM5j4NR2q7FWeVMwDjWVzYcF_R4qXEg">他们相信有180多万年历史</a>，是东南亚最早的人类祖先的证据。<i>
+石头手斧是去年在马来西亚北Perak州Lenggong市的一个史前遗迹中发现的。研究人员相信它是人类早期始祖直立人（Homo erectu）制造的，这个工具的实际日期比在格鲁吉亚（180万年）和中国（170万年到180万年）发现的最早直立人化石还要老。日本的一个实验室对石头成分检测后，得出结论它有183万年历史。然而至今还没有在马来西亚发现年代如此遥远的远古人类尸体残骸。马来西亚发现的最早人类残骸有11000年历史。</i>
+➜用Ubuntu安装Gentoo
+https://www.solidot.org/story?sid=9706	7920
+<a href="http://danmarner.yo2.cn/">DaNmarner</a> 写道 "今天在Ubuntu的Gnome终端下在本本硬盘上<a href="CLONINGANDSTEMCELLS">安装了Gentoo</a>。
+<i>其实整个过程和<a href="http://www.gentoo.org/doc/zh_cn/handbook/handbook-x86.xml">官方安装教程</a>里用install CD的方法没有太大区别，如果非要叫真的话，我这个方法和官方的方法相比还省掉了不少步骤。官方安装教程的方法简单说就是在一个现成的系统上给新系统创建分区/文件系统， 下载基本结构stage3和portage，然后chroot到新系统里用emerge继续进行安装。"</i>           教程中这个“现成的系统”说白了不过就是install cd上的一个Linux，它生存在CD上，可以从光驱加载，尽可能多的探测和驱动你的硬件，内置一堆程序来辅助你配置网络和构建新系统chroot之前的部分——说这么一堆不知道有没有证明这一点：它和你硬盘上已经装好的其他Linux没有区别！
+<br> <br>其实已经说得差不多了，不管你在用什么发行版，打开一个终端，然后跟着教程走就OK。在chroot之前的步骤你可以尽情发挥，比如忽略所谓安装方式的选择以及网络配置，用Gparted的图形界面分区，用你最喜欢的浏览器下在stage3和portage等等。其实安装Gentoo的难点都在chroot之后，不过Gentoo官方的文档里对此有超详细的介绍，它也和本文所讨论的内容无关，所以我只能祝你好运了。
+➜Vista在企业的采用率不到10%
+https://www.solidot.org/story?sid=9708	8640
+Windows Vista从未获得企业IT用户的青睐，根据Forrester的报告，在发布两年之后，<a href="http://www.forrester.com/Research/Document/Excerpt/0,7211,46555,00.html">Vista仍然受困于企业市场</a>。<i>
+去年7月Forrester的报告指出，Vista在企业的采用率为8.8%，相比较下Windows XP是87.1%，甚至企业用户称Vista为“新焦炭”。最新的报告称略少于10%。也许令微软略感宽心的是有31%的IT决策者正开始从XP迁移至Vista；然而另一个坏消息则是同室操戈，Windows 7已在远方，企业为什么不等几个月直接迁移到7呢？微软已表示不再推出第二个Windows 7 beta，<a href="http://www.cnetnews.com.cn/2009/0203/1329877.shtml">而是直接进入RC</a>，所有迹象都指示<a href="http://osnews.com/story/20897/Vista_Adoption_in_Enterprises_Less_than_10_">Windows 7将在2009年发布</a>。</i>
+➜Mac OS X、Windows 7喜悦，Linux失落
+https://www.solidot.org/story?sid=9709	9000
+Net Applications 2009年1月<a href="http://marketshare.hitslink.com/report.aspx?qprid=8&amp;qptimeframe=M&amp;qpsp=120">发布的数据显示</a>，Mac OS X以及iPhone和iPod Touch继续上升，此外Windows 7同样表现抢眼。<i>
+在Net Applications测量的网站中，Mac OS X占到总流量的9.93%，iPhone从2008年12月的0.44%增加到0.48%，iPod Touch升至0.11%。其中最失意者莫过于Linux，它下降了3.53%从0.85%下滑至0.82%。Windows从88.68%下降到88.27%，而<a href="http://news.cnet.com/8301-10805_3-10154133-75.html?tag=newsEditorsPicksArea.0">Windows 7则从零增至0.23%</a>，对仅是beta发布的它而言实属不易。</i>
+➜费米悖论的新解释
+https://www.solidot.org/story?sid=9710	9600
+如果宇宙中充满了能在星际距离内互相通讯的先进文明，那么到如今我们应当能见到他们。为什么人类至今还没有发现它们呢？这就是物理学家恩里科·费米在1950年提出的<a href="http://en.wikipedia.org/wiki/Fermi_paradox">悖论</a>。<i>
+从那时起，费米悖论就让搜寻地外文明计划（SETI）的研究人员烦心。尤其是如果能在我们银河系中通讯的智能文明数量大于1，那么最终我们也应该能听到他们的声音。现在一位物理学家认为，费米悖论未考虑到ET（外星人)发送出的信号，在<a href="http://arxivblog.com/?p=1167">弱到无法听见前</a>能传输多远的局限性。这一因素加入之后，一切事情就会发生改变。假设能进行星际通讯的文明平均寿命为1000年，银河系中最低需要超过300个文明才能保证我们能看见他们。如果少于这个数字，终其一生不同文明之间是无法知道其他文明的存在的。费米悖论解决了，对不对呢？</i>
+<a href="http://arxiv.org/abs/0901.3863">预印本</a>
+➜伊朗发射人造卫星
+https://www.solidot.org/story?sid=9711	12600
+伊朗在2月3日凌晨发射了它的第一颗人造卫星。伊朗总统艾哈迈迪内贾德宣布，“亲爱的伊朗国民，你的孩子将<a href="http://www.nytimes.com/2009/02/04/world/middleeast/04iran.html?ref=world">首颗自制的卫星发射到轨道上</a>。”这颗卫星命名为Omid (意即为‘希望’)，发射也是为了纪念伊斯兰革命30周年。<a href="http://news.bbc.co.uk/1/hi/world/middle_east/7866357.stm">视频</a>显示卫星是用“Safir-2”号火箭发射的，它在去年八月进行了点火测试。
+➜学生用自制无线电呼叫国际空间站
+https://www.solidot.org/story?sid=9712	20400
+四位多伦多的大学生完成了一次技术上的壮举，他们的教师称之为第一次。<i>
+Humber大学的高年级学生<a href="http://www.theglobeandmail.com/servlet/story/RTGAM.20090202.wcollegeradio0202/BNStory/Technology/home">用自制和自己设计的无线电系统</a>在周一与国际空间站进行了联系。学校官员称，就他们所知，之前还没有大学生能完成这一切。项目从一年前启动，当时学生们正在寻找一种方式，去应用他们从无线电通信课程中所学到的知识。周一下午12:29，他们在10分钟窗口时间内与宇航员Sandra Magnus谈论了一些技术问题。</i>
+➜如何为服务器命名
+https://www.solidot.org/story?sid=9713	22800
+大多数人为他们的硬盘分区起名时，多数只是按照字母排序的默认命名方式，顶多是再根据游戏、软件或视频等类别去分门划类。但是这些命名方式太单调乏味了。如果你维护着数量庞大的服务器，<a href="http://tech.slashdot.org/article.pl?sid=09/02/02/2228254">你将采用何种命名方案</a>？<i>
+美国中央情报局（CIA）是以州的名字为它的服务器命名，如阿拉斯加州；每个子网络下的客户端系统则用相关州的城市命名，如朱诺（阿拉斯加州首府）。还有一家公司以非洲国名命名，因此会出现下列有趣<a href="http://itworld.com/offbeat/61750/would-server-any-other-name-be-functional">但毫无恶意的场景</a>：安哥拉电脑死亡了，刚果取而代之。</i>
+➜Torvalds拒绝“通用版”Linux
+https://www.solidot.org/story?sid=9714	24600
+Linus Torvalds拒绝了<a href="http://www.pcpro.co.uk/news/246534/torvalds-rejects-onesizefitsall-linux.html">单一Linux发行版的观点</a>，在Linux桌面市场欲振乏力，<a href="__SLASHLINK__" sect="linux" sid="09/02/04/0222206" sn="article" tid="95">份额反而呈现下降趋势之际</a>，Linux社区呼吁开发者应该集中资源于一个发行版。<i>
+但创始人Torvalds认为：“我认为多种发行版不只是好事，我认为它是绝对必要的。我们有数百发行版，它们中的许多真的填补了市场空缺。你需要它们，只是因为不同的市场有不同的需求。没有单一的发行版能覆盖一切。”</i>
+➜美国公司驻北京办事处入乡随俗用盗版
+https://www.solidot.org/story?sid=9715	26700
+/.上一位美国西海岸设计公司的IT经理称，他所在的公司在北京有个小办事处，有五位雇员，一些工作站和几台服务器。他注意到北京分部的雇员在他们的电脑上<a href="http://ask.slashdot.org/article.pl?sid=09/02/04/022257">安装和使用盗版软件</a>——MS Office 和Adobe Creative Suite。
+<i>
+一般情况下，人们通常会对自己公司的软件合法性情况守口如瓶。但令这位经理吃惊的是分部主管在回答他询问时，不以为然的耸耸肩，称“所有公司都是如此”。他表示对雇员的个人电脑他管不着，但在属于公司的电脑上安装盗版软件则是不允许的。况且北京分部的盈利丰厚，根本无需通过使用盗版软件去节省开销。因此他推测使用盗版已成为文化中根深蒂固、难以根除的、甚至无需思考的看法。</i>
+➜IBM将为美国政府建造20 Petaflop超级计算机
+https://www.solidot.org/story?sid=9716	28800
+IBM宣布将为美国政府建造<a href="http://www.theinquirer.net/inquirer/news/772/1050772/ibm-petaflops-supercomputer-tabs-us-nukes">有史以来最强大的超级计算机</a>。命名为“Sequioa”的超级计算机将部署在劳伦斯利弗莫尔国家实验室，包含96个机架，速度高达20 Petaflop(每秒千万亿次浮点计算)，预计在2012年完成。
+<i>
+“在它建成之日，Sequioa将胜过今日TOP 500名单上的每一台超级计算机。”Sequioa有超过160万处理器和若干1.6TB内存，其中160万处理器并不是指核心。这台超级计算机的用途除了跟踪核废料，模拟核武器爆炸之外，还将用于研究天文学、能源、人类基因和气候变化。</i>
+➜60年寿命的超级灯泡
+https://www.solidot.org/story?sid=9717	31320
+<a href="http://tuxfans.com/">windrose</a> 写道 <i>"耗电多、发热量大的白炽灯泡随着环保潮流的汹涌而越来越像是过街老鼠，逐渐被节能灯泡取而代之。但是，节能灯泡的好日子也许不会太长。剑桥大学的科学家近来发明出一种用硅取代蓝宝石的生产工艺，由此生产出的<a href="http://www.dailymail.co.uk/sciencetech/article-1131183/Scientists-invent-2-bulb-60-years--theyre-greener-eco-bulbs.html?ITO=1490">发光二极管（LED)家用灯泡</a>的成本可望由20英镑降到2英镑。这种灯泡的效率是白炽灯泡的12倍、低耗能节能灯泡的3倍，而寿命最长能达到60年。</i>
+这种超级灯泡预计在2年后可以推向市场。假如这种LED灯泡真的席卷世界，会有多少灯泡厂倒闭？"
+➜人兽杂交尝试失败
+https://www.solidot.org/story?sid=9718	31800
+猫女、兔女或诸如此类兽人的粉丝们可能要失望了，<a href="http://www.google.com/hostednews/ap/article/ALeqM5iPHLGwIeNTSqX5OhfAz5P60q01gAD963LLQO0">创造人兽杂交的尝试已经失败</a>。<i>
+美国科学家试验将人类DNA注入母牛或兔子卵细胞内，产生干细胞和制造杂交克隆用胚胎，该试验引发了道德伦理方面的争论。但研究人员报告，动物卵细胞并没有以正确的方式重编人类DNA，以生成干细胞。因此疑问是，我们是否需要等到找出制造兽人方法之后，再去考虑如何对待这些亚人类？</i>
+研究论文发表在最新一期的《<a href="http://www.liebertpub.com/products/product.aspx?pid=9">Cloning and Stem Cells</a>》杂志上
+➜互联网连接+英语=大学学位
+https://www.solidot.org/story?sid=9719	37800
+“<a href="http://www.uopeople.com/">人民大学</a>（University of the People）想要让每一个能使用互联网和讲英语的人接受在线教育，在这里一门课程只需花费15美元。<i>
+在Shai Reshef设想中，任何一位能上网和精通英语的人<a href="http://arstechnica.com/web/news/2009/02/internet-connection-english-college-degree.ars">都能在他的“人民大学”里在线学习</a>，这所学校在质量上将是合格的，将提供如计算机科学等科目的真实学位，收费也将根据各国的情况而略有不同，最低为15美元。这一切听起来好得不像是真的，但Reshef认为只要在全世界有1万名学生，这所学校就能成为一所独立自主的非营利实体。为了让想象变为现实，“人民大学”将拥抱两大概念：开放课件和同等学习（peer learning）。</i>

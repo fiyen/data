@@ -1,0 +1,12 @@
+➜Windows证书管理器没有完整展示信任的证书
+https://www.solidot.org/story?sid=45317	23259
+Windows的证书管理器certmgr.msc没有完整展示所有信任的root CA，它只展示证书信任列表的很小一部分。为什么这件事<a target="_blank" href="http://hexatomium.github.io/2015/08/29/why-is-windows/"><u>值得重视</u></a>？因为它会让许多人其中包括安全专家误以为Windows只信任几十个而不是几百个root CA，而微软的更新服务还会定期加入新的root CA。通过逆向工程微软的证书信任列表，安全研究人员发布了一个能展示信任root CA关键信息的软件<a target="_blank" href="http://trax.x10.mx/apps.html">CTLInfo</a>。微软有一个官方的<a target="_blank" href="http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx"><u>信任root CA页面</u></a>，它列出的中国CA包括了CNNIC Root，China Financial CA、CFCA EX ROOT、上海电子证书机构的UCA Global Root和UCA Root，沃通的WoSign，以及<a target="_blank" href="https://cabforum.org/pipermail/public/2015-August/005847.html"><u>最近加入</u></a>的广东证书机构的GDCA TrustAUTH R5 ROOT（国家列出的是加拿大，应该是写错了）。
+➜中国将在2016年启用量子通信网络
+https://www.solidot.org/story?sid=45318	25111
+中国将在2016年完成建造和<a target="_blank" href="http://www.scmp.com/news/china/article/1631479/china-launch-hack-proof-quantum-communication-network-2016"><u>启用</u></a>世界最长的量子通信网络。中国正在建造长约2000公里的北京至上海量子光纤线路。官方新华社称它无法被监听，能向用户提供最安全的加密保障。新华社称到2030年中国的量子网络将延伸到全世界。这条线路将被中央政府、军方和重要企业机构如银行使用。领导该项目的中国科技大学量子物理学家潘建伟称，任何中国城市，只要想要，都可以建造量子通信网络。他称中国在该领域领先世界。
+➜EFF称强行删除代码侵犯人权
+https://www.solidot.org/story?sid=45319	31998
+电子前哨基金会（EFF）的Danny O'Brien发表<a target="_blank" href="https://www.eff.org/deeplinks/2015/08/speech-enables-speech-china-takes-aim-its-coders"><u>文章</u></a>，综述了多名中国代理软件开发者在压力之下被迫删除软件源代码。文章认为，代码也是一种言论，警方强迫作者删除源代码类似强迫作家焚书，是对人权的严重侵犯。O'Brien认为，删除Github上的源代码也是徒劳的，数以千计软件源代码仍然在互联网上流传。他认为，新的代码将会再次兴旺起来。另外根据微博的<a target="_blank" href="http://s.weibo.com/weibo/VPN&amp;Refer=STopic_box"><u>搜索</u></a>，大批VPN服务已经无法使用。
+➜马来西亚在抗议前夕威胁屏蔽网站
+https://www.solidot.org/story?sid=45320	54629
+本周末，马来西亚总理的贪腐丑闻引发了大规模的群众抗议。在抗议前，马来西亚政府<a target="_blank" href="http://www.bignewsnetwork.com/news/236194891/malaysia-blocking-websites-to-prevent-protest-violates-international-law"><u>威胁屏蔽</u></a>鼓励民众走上街头或报道这次抗议的网站。内务部和警方声称这次抗议是非法的。批评人士称，试图阻止人民行使权利和讨论重要的公共兴趣问题的做法是不可接受的。本周末有数十万人参加被称为<a target="_blank" href="https://en.wikipedia.org/wiki/Bersih_4_rally"><u>Bersih 4</u></a>的集会抗议。这次抗议由公民权利联盟组织，呼吁政府机构改革和增加透明度。内务部声称，组织者没有按照法律要求登记，因此是非法的。

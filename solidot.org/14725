@@ -1,0 +1,100 @@
+➜X264项目宣布支持蓝光编码
+https://www.solidot.org/story?sid=17514	4800
+在蓝光赢得与HD DVD的视频格式大战两年之后，自由软件编码器终于跟上了时代步伐。<i>
+X264项目<a href="http://x264dev.multimedia.cx/?p=328">宣布</a>支持蓝光编码，支持创建蓝光格式的视频，它也成为<a href="http://developers.slashdot.org/story/10/04/25/1840219/X264-Project-Announces-Blu-ray-Encoding-Support">第一个自由软件蓝光编码器</a>。开发者称，借助X264强大的压缩比，蓝光光盘能写入DVD9光盘，在一个合理的质量水平上蓝光光盘也能写到DVD5光盘。凭借自由软件编码器，不需要昂贵的蓝光刻录机，让每个用户都能轻松的创建高清媒体。X264项目还提供了一个完全用X264编码的蓝光Demo下载（<a href="http://x264.nl/x264_Demo_Blu-ray.torrent">种子</a>），文件大小2.22GB，内容为采用创作共用许可证的开放视频，包括Open Movie Project的《<a href="http://www.bigbuckbunny.org/">Big Buck Bunny</a>》和《<a href="http://www.elephantsdream.org/">Elephant’s Dream</a>》。</i>
+➜3.5英寸软盘时代的结束
+https://www.solidot.org/story?sid=17515	7200
+索尼在其官网上公布了一则简要的新闻稿，宣布将在2011年3月<a href="http://hardware.slashdot.org/story/10/04/25/0635218/The-End-of-the-35-inch-Floppy-Continues">停止销售3.5英寸软盘</a>。
+<i>
+索尼公司是在1981年率先向世界推出<a href="http://zh.wikipedia.org/zh-sg/%E8%BD%AF%E7%9B%98">3.5英寸软盘</a>，软盘的销量在2000年左右达到顶峰，销售量达到4700万张，而到2009年下降到850万，在当年3月索尼宣布停止生产3.5英寸软盘，需求不振是索尼作出这一决定的理由。而其它大型软盘生产厂商多数早就退出了市场，CD、DVD和USB已经取代了软盘的地位。 </i>
+➜《阿凡达》创造DVD和蓝光销售记录
+https://www.solidot.org/story?sid=17516	9000
+《阿凡达》<a href="http://news.yahoo.com/s/nm/20100425/film_nm/us_avatar">正在家用娱乐市场续演其横扫电影院的现象</a>。<i>
+20世纪福克斯家用娱乐部门宣布，自周四正式上市以来，《阿凡达》在美国和加拿大售出了670万张DVD和蓝光影碟，总销售额达到了1.3亿美元，刷新了家用娱乐市场影碟4天销售的新纪录，之前的记录是2008年电影《蝙蝠侠前作2：黑暗骑士》创下的。福克斯称，其中270万是蓝光影碟。2009年12月上映的《阿凡达》电影在全球席卷了27亿美元票房。</i>
+➜德国上诉法庭支持微软的FAT长文件名专利
+https://www.solidot.org/story?sid=17517	10800
+德国联邦专利法庭在2007年作出裁决，认为微软的FAT长文件名（描述了在FAT文件系统储存长文件名的机制）专利缺少发明元素，因此是无效的。现在，德国联邦上诉法庭推翻了这一裁决，<a href="http://arstechnica.com/microsoft/news/2010/04/german-appeal-court-upholds-microsoft-long-file-name-patent.ars">支持微软的长文件名专利</a>。<i>
+2007年的专利纠纷案件在微软和Rock Ridge公司之间进行，Rock Ridge声称它在CD光盘使用的ISO9660文件系统中解决了相同的问题，它开发的长文件名方法早于微软。德国上诉法庭认为，两个系统之间存在技术差异，微软解决了Rock Ridge没有解决的问题。尤其值得注意的是，FAT的长文件方法设计不会破坏旧应用程序的兼容性。FAT和FAT32系统正成为嵌入式设备如照相机和手机的一部分，而微软持有的FAT长文件名专利允许它向使用FAT系统的企业收取专利许可费。去年汽车导航设备制造商TomTom就曾被微软起诉侵犯了长文件名专利。</i>
+➜如何给多核处理器编程
+https://www.solidot.org/story?sid=17518	13200
+《MIT技术评论》<a href="http://www.technologyreview.com/computing/21806/">报道</a>（<a href="http://www.mittrchinese.com/article.jsp?id=468">中文</a>），2002年英特尔公司曾自信满满的表示，奔腾4处理器已经达到了3GHz，他们将在2010年开发出30GHz的芯片，采用10纳米或更小的制作工艺，实现万亿指令级别的性能。然而至今处理器的频率仍然低于4GHz，而硅芯片正受困于发热等问题。虽然多核芯片部分解决了过热问题，但新的问题随之而产生：如何给多核处理器编程？<i>
+哈佛大学计算机科学与应用数学教授Leslie Valiant说，高性能计算领域的并行原理几十年前就解决了。“现在的挑战，是寻找让这些老玩意儿依然有效工作的方法。”“我们从高性能计算的早期工作了解到，有些问题适合平行，但是这些平行应用程序不容易编写....现在仍没有好的工具来隐藏并行，或令其浅显易实现。”...这就是为什么微软一直在尽早发布并行编程工具。例如，F#，是微软通用ML编程语言的并行版本。它不仅使一些功能平行化，而且防止它们之间不当的相互影响，从而使并行软件变得更易于编写。在商业和开源市场，其它新的语言和工具要么利用了多核处理的能力，要么掩盖了它的复杂性。其中包括谷歌MapReduce架构，它使并行计算更易于在集群计算机上运行；Hadoop，一个MapReduce的开源实施项目，可以为数千个节点分配程序。类似Clojure和 Erlang等新的编程语言完全以并行计算为根本而设计，风靡全球的Facebook聊天程序就部分使用Erlang编写。
+</i>
+➜中国首套高效能分布式GPU超级计算系统
+https://www.solidot.org/story?sid=17519	16920
+<a href="mailto:jiazhen@pub.xaonline.com">thinpig</a> 写道<i> "我国首套分布式GPU超级计算系统<a href="http://www.cas.cn/xw/zyxw/ttxw/201004/t20100424_2829187.shtml">在中国科学院建成并正式启用</a>。中国科学院在财政部专项资金的支持下，成功建立了基于GPU的双精度峰值超过千万亿次、单精度峰值超过三千万亿次的高效能超级计算系统，并与联想和曙光两家公司合作在中科院内不同领域的研究所推广了十套百万亿次系统，从而构建了聚合计算能力近六千万亿次的分布式GPU超级计算系统。"</i>
+➜94岁老太高中毕业78年后大学毕业
+https://www.solidot.org/story?sid=17520	20160
+<a href="http://www.nfdaily.net/">百丽女鞋</a> 写道<i> "来自美国加州圣里安卓的94岁老太太<a href="http://www.taobaowang9.com/2010/04/94-university-graduate/">海苏.苏亚雷斯</a>（<a href="http://www.tonic.com/article/hazel-soares-94-year-old-college-graduate/">英文</a>），在高中毕业78年后，将于下月从密尔斯女子大学毕业.亚雷斯于1915年6月21日在列治文出生，曾是单亲职业妇女、护士、音乐会主办人和艺术爱好者,育有6名子女，现有40多名孙子女,看着15任美国总统上台下台.苏亚雷斯这么年老了还去上大学并不是为了创纪录，苏亚雷斯说："我对任何事一直都有求知欲，不论是食谱或监定艺术品的历史背景，我都非常有兴趣。"<br>苏亚雷斯打算在毕业后开始找工作，运用她在大学时学到的知识和技能，她说：“我希望能在博物馆里当导游。”苏亚雷斯身体非常健康，还能开车。根据吉尼斯世界纪录，她是全世界年纪第二老的大学毕业生。95岁的诺拉.欧克斯是至今全世界最年长的大学毕业生，欧克斯于2007年从堪萨斯州海斯堡州立大学取得历史学学位。"</i>94岁的<a href="http://www.washingtonpost.com/wp-dyn/content/article/2007/08/03/AR2007080300358.html?referrer=yahoo">Phyllis Turner</a>在2007年获得了医学硕士学位，是世界上年纪最大的硕士学位获得者。世界上年龄最大的博士学位获得者是<a href="http://www.guardian.co.uk/education/2004/feb/27/highereducation.uk3">Rev Edgar Dowse</a>，他在93岁时获得了伦敦神学院的博士学位。
+➜从个性化搜索结果重建用户的Web历史
+https://www.solidot.org/story?sid=17521	21840
+《MIT技术评论》<a href="http://www.technologyreview.com/web/25159/?a=f">报道</a>，个性化是互联网搜索的关键部分，它能提供更多相关的搜索，并在此过程中让用户更忠诚。但一项新的研究凸现了个性化搜索带来的隐私问题。
+<i>欧洲研究人员与加州大学Irvine分校的研究人员合作发现，他们能劫持Google的个性化搜索建议<a href="http://arxiv.org/PS_cache/arxiv/pdf/1003/1003.3242v3.pdf">去重建用户的Web历史</a>(PDF)。在研究过程中Google已经堵上了多数的能被识别的漏洞，但研究人员指出其它个性化服务很可能有类似的缺陷。Claude Castelluccia指出，此项研究的目的是暴露出个性化服务在隐私方面的危险性，因为它们会泄漏信息。</i>
+➜男性把游戏当成社会性挑战
+https://www.solidot.org/story?sid=17522	25200
+如果哪天女友、妻子或母亲抱怨你在游戏上投入太多时间，<a href="http://arstechnica.com/science/news/2010/04/unreal-hormones-males-treat-games-as-social-competitions.ars">你或许能回答视频游戏的吸引力实际上是进化的副产品</a>。
+<i>
+密苏里大学科学家发现，男性玩家在多人对战暴力视频游戏中激增的激素与其它物种雄性在繁殖和捍卫领土的挑战中的激素反应类似。研究中，42位大学生志愿者被随机分配成3人一组的团队，玩两轮不同的竞赛——在《虚拟竞技场2004》中分别进行团队之间的竞争和队内玩家之间的竞争。在正式比赛前给予每个团队6小时的训练磨合时间。所有竞赛的时间都安排在冬天的下午，持续时间30分钟，比赛前后都固定的检测激素水平。在团队间竞赛中，取得胜利的团队成员比失败一方有更高的睾丸激素，在贡献最大的玩家身上这种效应最为明显。但有意思的是，在团队内竞赛中，所有玩家的睾丸激素水平都下降了，胜利者的睾丸激素水平最低。这种反常的反应可能是一种进化机制，是为了防止内部竞争过于激烈。</i>
+➜孪生儿研究发现好教师确实很重要
+https://www.solidot.org/story?sid=17523	26100
+根据最新一期《科学》杂志的<a href="http://www.sciencemag.org/cgi/content/abstract/328/5977/512">报告</a>，<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-04/potn-tsd041910.php">教师对儿童阅读能力的影响明显</a>。好教师能提高学生阅读能力，差的教师则让学生表现出均一的低水平。
+<i>
+佛罗里达州立大学的遗传学家Jeanette Taylor及其同僚研究了佛罗里达州小学中的同卵双生儿及异卵双生儿的Oral Reading Fluency的测试得分。通过比较这些孪生儿的分数（这些孪生儿的基因或是有50%相同，或是具有100%的相同性），研究人员可对其阅读测试分数的差异中有多少是由遗传因素造成的，有多少是由环境因素造成的进行估计。研究人员将双胞胎的同学在一年中的成绩改善来作为对教师素质的测定。他们的研究结果显示，遗传学造成的测试分数上的差异在那些有好老师的班级上的学童之间，其差异要比那些教师素质差的班级中的学童之间的差异要更大。</i>
+➜山寨版iPad现身
+https://www.solidot.org/story?sid=17524	26640
+路透社<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-2173620100426">报道</a>，iPad平板电脑上市仅过三周，中国的互联网与商店已经出现山寨版的iPad。
+<i>路透社记者在深圳的电子商场找到了一家山寨iPad卖家。山寨版的iPad看起来更像是放大版的iPhone，长方形的结构更加突出，机身自带三个USB插口，使用Windows操作系统，售价为2800元，合410美元，比正版iPad的售价499-699美元要便宜一些。经销商用广东话说，“这只是第一版，比较粗糙。虽然形状不大一样，但外观与iPad非常相像，所以我认为这不会对我们的销售造成太大影响。”</i>
+➜Steve Wozniak声援Gray Powell
+https://www.solidot.org/story?sid=17525	27480
+ZDNET<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20145221,00.htm">报道</a>，苹果工程师的守护神Steve Wozniak 对Gray Powell（丢失iPhone 4G原型机的员工）伸出友谊之手。
+<i>
+Woz最近自拍了一张照片，里面他一面喝着啤酒，盯着 iPhone，并穿着“我和Gray Powell去喝酒，而我只拿到一台很烂的iPhone原型机”T-Shirt。苹果软件工程师Gray Powell因为在酒吧里<a href="__SLASHLINK__" sect="apple" sid="10/04/20/0312235" sn="article" tid="100">丢失了苹果下一代iPhone原型机而声名大噪</a>。Woz说，“很明显苹果一定是信得过他（Powell）才让他保管iPhone原型机。而这种不幸有可能发生在任何人身上。”
+</i>
+另外，硅谷警方正在调查遗失的苹果iPhone原型被科技博客网站Gizmodo以5千美元收购一事，<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20145219,00.htm">这笔交易可能涉及犯罪</a>。根据1972年制订的加州法律，任何人若发现遗失的财物，且知道所有人可能是谁，却“占用此财物为己用”，等同于偷窃。若该财物的价值超过400美元，可面临重大窃盗的严重刑责。此外，另一项州法律明确，任何人在知情状况下，收受非法取得的财物，最高可被判刑1年。
+➜“代理”为乌干达数字鸿沟架起桥梁
+https://www.solidot.org/story?sid=17526	30000
+数字鸿沟在乌干达表现的最为明显，这里要么没有互联网接入，要么网速很慢，因此乌干达人民无法利用数字经济的诸多优势。而信用卡或PayPal付款的屏蔽则进一步加剧了这种社会和经济孤立现象——多数商家和支付网关供应商会自动屏蔽来自非洲的信用卡，因此在许多非洲国家PayPal帐户不可能获得验证。现在，一家叫<a href="http://www.easypayuganda.com/">EasyPayUganda</a>的乌干达公司帮助用户<a href="http://news.slashdot.org/story/10/04/25/0336207/Bridging-the-Digital-Divide-In-Uganda-By-Freight">避开这些限制</a>，利用代理让消费者能进行网上支付，以购买服务和商品。由于大多数网上商家不向非洲发货，EasyPayUganda还提供了物流方案，将消费者订购的货物转发到乌干达。
+➜Techcrunch称Facebook将主导未来十年
+https://www.solidot.org/story?sid=17527	30600
+<a href="http://yi-it.com/blog/">money.is.easy</a> 写道 "国外科技博客今天发表迈克·阿灵顿(Mike Arrington)分析性文章"<a href="http://techcrunch.com/2010/04/25/the-age-of-facebook/">the age of facebook</a>"称， <a href="http://tech.sina.com.cn/i/2010-04-26/14554111486.shtml">Facebook将主导未来十年的互联网</a>。
+<i>Facebook实现了盈利，预期营收超过10亿美元。此外，Facebook网站拥有4亿用户，每月访客高达5亿。在月访客数量方面，仅次于谷歌、微软和雅虎。在页面浏览量方面，仅次于谷歌。Facebook仍在继续发展，一年之后，其独立IP访问量有望排名第二；两年之后，有望上升到第一位。
+..
+</i>现在，Facebook正为互联网和文化带来重大变革，因此具有巨大的潜力。上周，Facebook推出了一系列新的开发者工具和应用，这些新功能不久就会上线。这些功能的影响将是积极的，还是消极的？这些解决方案是否具有开放性？对这些问题的讨论并不是最重要的。"
+➜IEEE宣布超级玛丽关卡生成挑战赛
+https://www.solidot.org/story?sid=17528	32700
+2009年的IEEE计算智能和游戏会议(CIG 2009)举办了最佳<a href="http://julian.togelius.com/mariocompetition2009/index.php">超级玛丽机器人挑战赛</a>，让参与者编写出能完美通过超级玛丽游戏关卡的人工智能程序（获胜者<a href="http://www.youtube.com/watch?v=DlkMs4ZHHr8">Youtube视频</a>）。今年的CIG 2010会议仍将举行<a href="http://www.marioai.org/">超级玛丽挑战赛</a>，但这次竞赛<a href="http://games.slashdot.org/story/10/04/24/2327249/IEEE-Introduces-Mario-Level-Generation-Competition">将加入关卡生成跟踪</a>，目标是生成新的富有娱乐性的新关卡程序。关卡生成DEMO<a href="http://users.soe.ucsc.edu/~bweber/mario.jar">下载</a>(JAVA应用程序)
+➜Adobe将用苹果的新API加速Flash视频
+https://www.solidot.org/story?sid=17529	34500
+Adobe和苹果现已成了冤家死对头。苹果CEO乔布斯（Steve Jobs）曾声称Flash导致Mac OS X性能低下和可靠性下降。Adobe高管表示这是因为OS X系统上缺乏与Adobe在Windows使用的类似API，包括硬件加速解码H.264视频。<i>
+在最新的Mac OS X 10.6.3更新中，苹果加入了<a href="http://developer.apple.com/mac/library/technotes/tn2010/tn2267.html">Video Decode Acceleration Framework</a>，用以访问NVIDIA GeForce 9400M、320M和GT 330M GPU中的H.264硬解码。这显然是Adobe所希望看到的API。Adobe发言人Matt Rozen表示，Mac版Flash播放器<a href="http://arstechnica.com/apple/news/2010/04/adobe-will-accelerate-flash-video-using-new-apple-api.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss">将支持硬件加速视频解码</a>，预计在Flash Player 10.1后的版本中将加入该功能。</i>
+➜史上最昂贵的苹果笔记本
+https://www.solidot.org/story?sid=17530	36900
+<a href="http://stuarthughes.com/newdawn/product_info.php?products_id=83">Macbook Air SUPREME FIRE版</a>是世界上<a href="http://hardware.slashdot.org/story/10/04/21/148258/Most-Expensive-Laptop-Ever">最昂贵的笔记本</a>：在24K黄金烧成的苹果logo上，镶嵌了53颗完美无暇的25.5克拉钻石。笔记本重2600克，是普通MacBook Air电脑的2倍重，售价339,826.00美元（约232万人民币）。这款限量版MacBook Air总共只有10台。
+➜科学家发现工作梦能改进工作表现
+https://www.solidot.org/story?sid=17531	43200
+俗话说，“日有所思夜有所梦”，如果你在小睡时梦到的恰好与刚刚做的工作有关，那么醒来后大脑在工作时会愈加得心应手。<a href="http://www.sciencenews.org/view/generic/id/58525/title/Dream_a_little_dream_of_recall">哈佛研究人员在《当代生物学》杂志上报告了这一令人惊讶的发现</a>。如果梦与工作无关，那么就没有上述的好处。论文合作者、认知神经科学家Robert Stickgold说，他当时也为这项发现大吃了一惊。他认为沉睡中的大脑试图去巩固有挑战性的信息和试图找出如何使用信息的方法时会引发工作相关的梦境。<i>
+在新的研究中，研究人员让99名年龄在18岁到30岁的大学生花一个小时在计算机上练习虚拟迷宫任务。练习之后，研究人员安排学生休息90分钟，他们可以选择小睡或者观看视频等静止性活动，期间传感器会记录下学生的脑电波活动。休息之后继续玩迷宫。梦到迷宫的志愿者的表现上比上一次要更加熟练、反应更敏锐，而在小睡之前所有梦见迷宫的志愿者的表现可以用惨不忍睹去形容。研究人员认为，沉睡的大脑进行了记忆处理，以更好的迎接挑战。</i>
+➜Solidot 5年来的点滴
+https://www.solidot.org/story?sid=17532	45300
+Solidot，在这个2010年4月，已经度过了5周年，5年来的<a href="http://skylover.org/buzz/solidot-5-years-anniversary">Solidot一直在成长</a>。
+<i>
+在2005年4月，两篇由Cathayan发表的文章标志着中文化的slashdot网站开始成型；<br>
+从一个Google Group 的讨论组到实际用Geeklog程序搭建，后来有转换为使用<a href="http://code.google.com/p/solidot/">中文化的Slashcode</a>；<br>
+从一个个人站长维持的网站到ZDNet 接手提供硬件和支持，继而快速成长；<br>
+</i>
+<a href="http://skylover.org/buzz/solidot-5-years-anniversary">回顾一下Solidot的历史</a>，算得上是在一路坎坷中成长。这是一个奇客的社区，只要有Geek 的存在，就有Solidot 存在的动力和价值。
+<br>作为一个读者，你有什么样的感言或者建议呢？
+➜LAMOST望远镜正式命名为“郭守敬望远镜”
+https://www.solidot.org/story?sid=17534	52980
+LAMOST位于河北兴隆国家天文台,以前的全称是 Large Sky Area Multi-Object Fiber Spectroscopic Telescope，即“大天区多目标光纤光谱望远镜”，现在被冠名为“<a href="http://www.guoshoujing.org/website/news/201004201700.html">郭守敬望远镜</a>”。<br>
+<i>LAMOST是我国自主设计的新型大视场和大口径的光学天文望远镜，单次观测最多可同时获取4000条天体光谱，是目前国际上光谱获取率最高的大视场望远镜。<br>
+今后在各种文件、函件、论文以及其他公开正式场合中均使用“郭守敬望远镜”称谓。在英文论文中建议使用 “Guoshoujing Telescope（LAMOST）”称谓。
+</i>
+➜Google因匿名帖子内容而在巴西被罚款
+https://www.solidot.org/story?sid=17533	53400
+Google因为一位匿名用户在其社交网站Orkut发布了一则“诽谤信息”而被巴西法庭<a href="http://yro.slashdot.org/story/10/04/26/073243/In-Brazil-Google-Fined-For-Content-of-Anonymous-Posting">罚款9100美元</a>。
+<i>
+该匿名帖子指控一位54岁的神父是“恋童癖”，一家低等法院于2008年作出了有利于神父的判决。Google的上诉昨天再次遭到了法院的驳回。法官Alvimar de Avila称，虚拟网络空间允许任何用户不经过事先核查发布任何类型的帖子，某些帖子的内容可能是攻击性的和有害的，但在大多数情况下这些帖子来源未知，而Google对于帖子可能对他人的伤害负有责任。</i>
+➜雄蜘蛛与姐妹交配更安全
+https://www.solidot.org/story?sid=17535	55800
+众所周知，雄蜘蛛和雌蜘蛛的交配是一种致命游戏，身材矮小的雄性常常在交配之后成为雌性的腹中之食物，因此雌性蜘蛛也被称为<a href="http://zh.wikipedia.org/zh-cn/%E9%BB%91%E5%AF%A1%E5%A6%87%E8%9C%98%E8%9B%9B">黑寡妇</a>。另一个众所周知的事实是，动物界不存在什么乱交之说，如果雄蜘蛛的交配对象是其姐妹亲属，那么它的被吃率是否与非亲属交配对象有差异呢？根据发表在《生物学快报》上的报告，研究人员发现，<a href="http://www.sciencenews.org/view/generic/id/58451/title/Male_spiders_have_safe(r)_sex_with_siblings">与姐妹交配的雄蜘蛛被吃下的比例下降了一半</a>。他们还发现，交配持续的时间也明显短于非亲属交配对象。目前还不清楚雄蜘蛛是如何识别出亲属的。

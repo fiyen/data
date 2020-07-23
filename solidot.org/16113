@@ -1,0 +1,61 @@
+➜Debian Jessie将默认使用Systemd
+https://www.solidot.org/story?sid=38298	10370
+Debian技术委员会对Debian Jessie默认使用的init系统<a target="_blank" href="http://www.solidot.org/story?sid=38265"><u>进行了投票</u></a>，采用的是孔多塞投票法，也就是每位成员根据喜好对五个候选选项进行排名，最后选出第一意愿最多的选项。systemd和upstart获得的投票数相同，技术委员会主席Bdale Garbee投出了决定性的一票，他选择systemd<a target="_blank" href="https://lists.debian.org/debian-ctte/2014/02/msg00405.html"><u>为获胜者</u></a>。技术委员会的投票结果还需要经过评估，但成为最终结果的几率<a target="_blank" href="http://lwn.net/Articles/585363/"><u>非常高</u></a>，也就是Linux版的Debian Jessie将会默认使用Systemd。
+➜富士康与谷歌合作研发机器人
+https://www.solidot.org/story?sid=38299	10805
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20140211/tec191530.asp"><u>援引知情人士的话称</u></a>，富士康去年以来一直与Android之父鲁宾(Andy Rubin)合作，以实现谷歌在机器人方面的想法。为了加快在自家工厂部署机器人设备，富士康董事长郭台铭最近与鲁宾在台北会面，讨论了新的机器人技术。会面中，郭台铭对鲁宾展示的新型自动化技术表达了兴奋之情。鲁宾还请郭台铭帮助整合谷歌将收购的一家科技公司，因为富士康的强项在于机械工程。谷歌去年成立了机器人团队，收购了八家机器人公司，其中包括著名的波士顿动力。
+➜央行等将对余额宝进行监管
+https://www.solidot.org/story?sid=38300	11201
+<a href="/~抽头">抽头</a> 写道<i> "中国互联网金融产品对传统国有银行产生强大冲击。以余额宝为例，截至2014年1月中旬，余额宝已吸引超过400亿美元的资金。<a href="http://tech.qq.com/a/20140211/019244.htm" target="_blank">据腾讯网报道</a>，一些官员对投资人不了解自己的钱被放在何处以及他们的个人信息安全感到担忧。据传，目前中国人民银行正和银监会、证监会和保监会协作，制定措施保护消费者信息、确保风险披露，并抑制非法集资。
+"</i>
+➜Red Hat雇用CentOS开发者
+https://www.solidot.org/story?sid=38301	14670
+<span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px"> CentOS项目负责人</span><span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px">Karanbir Singh和其他几位核心开发者现已成为</span>Red Hat的<a target="_blank" href="http://sdt.bz/content/article.aspx?ArticleID=68721&amp;page=1"><u>全职雇员</u></a>，他们专职于CentOS开发，不会参与<span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px"></span>Red Hat企业发行版的工作。CentOS发行版本身并无变化，其开发过程和方法都非常透明，只是CentOS的身份变成了Red Hat资助的社区发行版，类似桌面发行版Fedora。CentOS本质上是<span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px"> Red Hat Enterprise Linux的免费版本，但</span><span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px">如今Red Hat不只是一家Linux公司，</span>CentOS没有威胁到<span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px">Red Hat的核心商业模式。公司执行副总裁</span><span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px">兼CTO Brian Stevens说，公司的未来计划是围绕着</span><span id="content_Placeholder_articleBody_Label" class="arial_12_14 normalLink" style="width: 400px">OpenStack，而不只是Linux。</span>
+➜IBM雇员被发现编辑维基百科条目
+https://www.solidot.org/story?sid=38302	17318
+作为一家百年企业，IBM对于科技行业具有非常深远的影响力，维基百科上与IBM相关的<a target="_blank" href="http://en.wikipedia.org/wiki/Category:IBM"><u>条目</u></a>也是数以千计。Wikipediocracy的一篇文章<a target="_blank" href="http://wikipediocracy.com/2014/02/09/elementary-my-dear-watson/"><u>指出</u></a>，IBM雇员被发现编辑了与他们自己或公司相关的维基百科条目，违反了维基百科反对付费编辑和利益冲突的规定。文章举例说，一位名叫<a target="_blank" href="http://en.wikipedia.org/wiki/User:Tagthestar14"><u>Tagthestar14</u></a>的用户重写了IBM计算机科学家<a target="_blank" href="http://en.wikipedia.org/wiki/Barry_Leiba"><u>Barry Leiba</u></a>的条目，而这位用户正是Barry Leiba本人；<a target="_blank" href="http://en.wikipedia.org/wiki/IBM_Distinguished_Engineer"><u>IBM杰出工程师</u></a>条目完全是由一名叫IBMDE的用户编写的；IBM资深程序员<a target="_blank" href="http://en.wikipedia.org/wiki/John_Paul_Morrison"><u>John Paul Morrison</u></a>编写了他自己和另一位硬件架构师<a target="_blank" href="http://en.wikipedia.org/wiki/Nate_Edwards"><u>Nate Edwards</u></a>的条目；David Mertz是IBM开发者园地的专栏作家，他编写了自己的条目，<a target="_blank" href="http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/David_Mertz_%283rd_nomination%29"><u>被删除了三次</u></a>；最离奇的一个故事是IBM Watson项目雇员<a target="_blank" href="http://en.wikipedia.org/wiki/User:Fluffernutter"><u>Karen“Fluffernutter”Ingraffea</u></a>，在工作时间编写维基百科条目如<a target="_blank" href="http://en.wikipedia.org/wiki/Watson_%28computer%29"><u>Watson</u></a>，她在维基百科IRC频道非常活跃，2011年被选为维基百科管理员，2013年与另一名维基百科管理员/仲裁人结婚。然而，尽管IBM的雇员被发现编辑了与IBM相关的条目，其总体质量仍然欠佳。<br>
+➜Flappy Bird开发者因游戏容易上瘾而将其下架
+https://www.solidot.org/story?sid=38303	18600
+Flappy Bird的开发者阮哈东公开解释了下架的原因：<a target="_blank" href="http://cn.wsj.com/gb/20140212/tec100146.asp"><u>游戏太容易上瘾</u></a>。阮哈东表示，他只想打造一款人们可以玩上几分钟的游戏，结果这款游戏却变成了全球性现象。最近几周，Flappy Bird在苹果App Store和谷歌Play商店迅速跃升至排行榜第一位。阮哈东说，下架只是因为游戏太容易令人上瘾了。他说，自己并未打算让人们每次玩这个游戏都花上几个小时，而这似乎正是许多玩家的实际情况。他说，这是主要的负面因素，因此自己才决定将游戏下架。阮哈东说，他喜欢在业余时间开发视频游戏，而Flappy Bird引发的关注极大地束缚了他的风格。他的日常工作是编写固件程序，用了三天时间开发出Flappy Bird。
+➜交易平台遭遇拒绝服务攻击，多家暂停比特币提款
+https://www.solidot.org/story?sid=38304	25936
+本周一，第三大比特币交易平台MtGox<a target="_blank" href="http://www.solidot.org/story?sid=38279"><u>宣称</u></a>，它暂停比特币提款是因为比特币协议存在缺陷，称攻击者可以伪造交易哈希。结果是，真的有人对比特币交易平台发动了伪造交易哈希的<a target="_blank" href="http://arstechnica.com/security/2014/02/bitcoin-exchanges-buckle-under-strain-of-phantom-transactions/"><u>拒绝服务攻击</u></a>，比特币币值再次出现下跌，攻击者成功的操控了比特币价格。攻击者向交易平台发送了大量与合法交易号相似但不同的伪造交易号，如果一个交易平台信任了一个假的交易，那么它会与比特币网络的官方块链失去同步，必须重新计算资金余额。异常交易数量过去2天出现了爆炸式增长，交易平台<a target="_blank" href="https://www.bitstamp.net/article/bitcoin-withdraws-suspended/"><u>Bitstamp</u></a>和<a target="_blank" href="http://www.reddit.com/r/BitcoinMarkets/comments/1xlbby/btce_btc_withdrawal_delays/"><u>BTC</u></a>等因此暂停或延迟比特币提款。
+➜Bing审查国际版搜索结果
+https://www.solidot.org/story?sid=38305	27425
+微软的Bing是少数能在中国使用的国外搜索引擎，它的中国版本遵守中国法律实行了严格审查——例如，<a target="_blank" href="http://cn.bing.com/search?q=%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6&amp;qs=n&amp;form=QBRE&amp;pq=%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6&amp;sc=0-0&amp;sp=-1&amp;sk="><u>这个</u></a>搜索结果下面显示“依据中国的法律法规，我们屏蔽了特定的相关搜索结果”；如果切换到英文版，<a target="_blank" href="http://www.bing.com/search?q=+tank+man&amp;qs=n&amp;form=QBRE&amp;pq=tank+man&amp;sc=8-8&amp;sp=-1&amp;sk=&amp;cvid=762e29df01fa40888671e406ef981c96"><u>某些搜索结果</u></a>也会显示“Some results have been removed”（英文版搜索中文关键词会触发防火墙而被重置）。Greatfire的<a target="_blank" href="https://zh.greatfire.org/blog/2014/feb/bing-practicing-chinese-censorship-globally"><u>研究</u></a>称，即使在美国搜索中国关键词其结果也会被审查，他们联系微软后对方拒绝回应“感谢你的询问. 我们拒绝回答”。
+➜韩国是互联网时代的恐龙
+https://www.solidot.org/story?sid=38306	30812
+韩国自认为是全球互联网的领导者，它的平均宽带速度位居世界前列，在4G尚未普及的情况下已经宣布了5G计划。然而在另一方面，<a target="_blank" href="http://www.economist.com/blogs/economist-explains/2014/02/economist-explains-3"><u>韩国的互联网还停留在黑暗时代</u></a>。记者无国界组织将韩国排在与泰国、埃及和俄罗斯相同的互联网审查级别中。每周，韩国的政府审查员都会移除部分网页。2013年有23,000 个网页被删除， 63,000个被屏蔽。韩国的主要审查目标是色情、卖淫和赌博。但审查范围还扩大到了网游，它禁止青少年在午夜到早上6点之间玩游戏，一位15岁的电竞玩家参加法国举行的《星际争霸2》比赛在午夜时被强迫下线；朝鲜的网站以及同情朝鲜的内容都被屏蔽；源自韩战的一项法律禁止将地图出口到国外，这项法律覆盖了电子地图，导致Google无法在其服务器上处理韩国地图信息。<br>
+<br>
+➜维珍用Google Glass识别乘客身份
+https://www.solidot.org/story?sid=38307	31327
+下次到机场，为你办理登机手续的工作人员或许不等你开口，就知道你的姓名、目的地及饮食要求。在伦敦希思罗机场头等舱贵宾室，维珍航空公司<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2014/2/288395.shtm"><u>已开始测试</u></a>用Google Glass<a target="_blank" href="http://www.dailymail.co.uk/sciencetech/article-2555981/Google-Glass-takes-Virgin-Atlantic-air-hostesses-use-wearable-tech-greet-passengers-exactly-want.html"><u>识别乘客</u></a>。这项技术将可以识别乘客的身份，看到他们的航班信息以及偏好，随后会将他们的航班信息呈现给空姐。接着，Google Glass立即开始为乘客办理登记手续，向空姐提供这位乘客目的地的最新旅行信息、天气情况及活动。另外，这项个性化服务能够存储乘客偏好信息以备日后旅行使用。
+➜索尼利用水瓶销售防水随身听
+https://www.solidot.org/story?sid=38308	32487
+<center><iframe src="https://www.youtube.com/embed/USJSOPPZoKI?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center><br>
+如何使得潜在顾客确信他们所销售的产品是真的防水的？让产品直接浸泡在水中。索尼的防水随身听<a target="_blank" href="http://www.trustedreviews.com/news/sony-walkman-nwz-w270-lands-as-waterproof-mp3-player"><u>NWZ-W270</u></a>已经推出了一段时间，它最近雇用了广告公司DraftFCB帮助在新西兰推销这款产品。他们于是设想出了<a target="_blank" href="http://thenextweb.com/shareables/2014/02/11/sony-sells-waterproof-mp3-player-inside-bottle-water/"><u>瓶装随身听</u></a>（Bottled Walkman）
+，通过自动售货机在公共场所如游泳池销售浸泡在一瓶水中的随身听。
+➜Mozilla将在Firefox上展示“广告”
+https://www.solidot.org/story?sid=38309	34930
+<div align="center"><img src="http://img.solidot.com.cn/0/14/lieZw9uJLkwtA.png" align="" height="324" width="420"><br>
+</div>
+Mozilla官方博客<a target="_blank" href="https://blog.mozilla.org/advancingcontent/2014/02/11/publisher-transformation-with-users-at-the-center/"><u>宣布</u></a>，它将在Firefox新标签页面展示广告或者叫赞助磁贴。在Firefox中打开新标签页，会显示9个矩形磁贴（Tiles），展示了用户经常访问的9个网站截图；如果用户是第一次使用Firefox，那么新标签页的磁贴内容将是空白的。Mozilla表示，它提出了一个叫目录磁贴（Directory Tiles）的计划，用预先包装的内容替代空白内容展示给第一次用Firefox的用户(<a target="_blank" href="https://twitter.com/clarkbw/status/433333066514198528"><u>如图</u></a>)。这些内容部分来自Firefox生态系统，部分将根据地理位置展示当地的流行网站，另外一部分将是来自Firefox合作伙伴的赞助内容，赞助磁贴将会有明显的标记。Mozilla目前的主要收入来自Google，目录磁贴广告一开始将只针对初次使用浏览器的用户，据估计Firefox每月有3100万新用户。如果这项计划推广到所有用户，那么Mozilla无疑将会一个<a target="_blank" href="http://adage.com/article/special-report-iab-annual-meeting/mozilla-sell-ads-firefox/291641/"><u>新的收入来源</u></a>：仅仅美国每年就有一千亿展示量。
+➜Enlightenment E19 Pre-Alpha发布
+https://www.solidot.org/story?sid=38310	38052
+窗口管理器/桌面环境Enlightenment V0.17用了12年才发布正式版。但它的后续版本的开发要快得多，<a target="_blank" href="http://www.solidot.org/story?sid=37728"><u>E18</u></a>的发布只间隔1年，而<a target="_blank" href="http://anzwix.com/a/Elementary/190Alpha1Release"><u>E19 Pre-Alpha</u></a>也已经发布给了早期试用者。E19的新功能<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTYwMTI"><u>包括</u></a>： 重写合成器，不再依赖 Wayland的合成器Weston；改进X11和 Wayland支持；支持OpenGL画布过滤器； 大量bug修正，等等。
+➜在线线索定位朝鲜导弹发射载具组装工厂
+https://www.solidot.org/story?sid=38311	40633
+<div align="center"><a href="http://img.solidot.com.cn/0/366/li6tEXUW2s3po.jpg"><img src="http://img.solidot.com.cn/0/366/li6tEXUW2s3po.jpg" align="" height="244" width="420"></a><br>
+<br>
+</div>
+几秒钟的<a target="_blank" href="https://www.youtube.com/watch?v=1WmymIPWwTI"><u>视频</u></a>，几张照片，部分回忆录细节，再加上Google Earth上的卫星照片，网络特工<a target="_blank" href="http://www.itworld.com/internet/404320/how-online-clues-located-north-koreas-missile-launcher-factories"><u>锁定了朝鲜导弹发射器工厂的位置</u></a>。这一切始于2012年4月15日朝鲜庆祝金日成诞辰一百周年的阅兵式。朝鲜在阅兵式上首次展示了移动式洲际导弹大浦东C，导弹本身<a target="_blank" href="http://www.solidot.org/story?sid=34623"><u>被认为是模型</u></a>，但发射载具使用的重型卡车引起了注意。中国网民发现，朝鲜的卡车与中国军方使用的卡车存在相似之处。中国官员一开始否认向朝鲜出口军用卡车——因为这严重违反了联合国对朝鲜的制裁规定——但随后承认万山特种车辆制造厂向朝鲜出口了民用的重型卡车，朝鲜方面的借口是林业工作的需要，中国方面称朝鲜肯定是在后来为卡车安装了导弹发射载具。2013年，朝鲜公布了一则宣传性质的视频，展示了导弹发射载具组装工厂的内部画面。研究人员根据中国卡车的大小数据，推断出朝鲜工厂建筑物的大小，并生成了建筑物的一个3D结构模型。朝鲜叛逃者曾在回忆录中提到了一个叫 Hakmu的小镇有军用工厂，研究人员从Google Earth的Hakmu卫星照片上<a target="_blank" href="http://38north.org/2014/02/jlewis020314/"><u>发现了两座大小吻合的建筑物</u></a>。
+➜丰田因软件问题召回190万辆普锐斯
+https://www.solidot.org/story?sid=38312	41251
+丰田周三宣布<a target="_blank" href="http://cn.reuters.com/article/CNTopGenNews/idCNCNEA1C74M20140212"><u>在全球召回</u></a>售出的190万第三代Prius汽车，原因是混合动力系统软件程序存在问题。丰田表示，问题出在混合动力系统模组中控制升压转换器的软件，“这项软件的设定有可能导致升压转换器内的特定电晶体产生较高温度压力，这些电晶体可能因而变形或损坏，这会导致多种警示灯亮起，并可能导致车辆进入故障安全模式，”丰田指出，车辆可以驾驶，但驱动力减弱。某些情况下混合动力系统可能关闭，导致车辆停止，而且可能会发生在驾驶途中。目前还<span class="focusParagraph">没有传出因这项瑕疵而引发事故。</span>
+➜欧盟计划推动互联网管理国际化
+https://www.solidot.org/story?sid=38313	44052
+目前互联网域名和IP地址的管理机构是位于美国的非营利民间组织<a target="_blank" href="http://en.wikipedia.org/wiki/ICANN"><u>ICANN</u></a>。在NSA大规模监视活动曝光之后，美国对互联网的影响力引起了一些国家的担心，其中就包括了欧盟。欧盟<a target="_blank" href="http://cn.wsj.com/gb/20140212/tec144302.asp"><u>提议推动</u></a>互联网管理的国际化，建议为 ICANN全面国际化设立一个明确的时间表。欧盟早在几年前就敦促美国加快互联网管理国际化的步伐，目前立场更加强硬，欧盟也期望在接下来就互联网管理方面技术规定进行磋商时发挥关键作用——为美国与俄罗斯和中国等严格控制互联网的国家之间搭建沟通桥梁。
+➜科学家创造出第一架量子纠缠显微镜
+https://www.solidot.org/story?sid=38314	45712
+量子力学的一个令人兴奋的可能性是它能比经典工具更精确的测量世界。现在，日本北海道大学的研究人员表示，他们利用量子纠缠创造出了世界上<a target="_blank" href="http://www.technologyreview.com/view/524521/worlds-first-entanglement-enhanced-microscope/"><u>第一架量子强化版显微镜</u></a>，用纠缠光子产生出更锐利的图像。量子纠缠是指两个粒子具有关联作用，即使它们相距很遥远。研究人员称，这一属性对于微分干涉差显微镜很有用，因为测量一个光子能获得另一个光子相关的信息，因此能比单独一个光子提供更多信息。<a target="_blank" href="http://arxiv.org/abs/1401.8075"><u>论文</u></a>发表在预印本网站上。

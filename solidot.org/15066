@@ -1,0 +1,65 @@
+➜Twitter的5年发展史
+https://www.solidot.org/story?sid=23284	1440
+<a href="http://www.520566.net/">moonswamp</a> 写道 <i>"2006年，Twitter正式推出；2006年，Google收购Youtube并且进军中国；2006年Facebook正式开放注册；2006年注定是不平凡的一年，<a href="http://www.520566.net/5-years-history-of-twitter.html">可2006年，你在哪里？</a>"</i>
+➜Google Chrome继续挑战IE
+https://www.solidot.org/story?sid=23285	4800
+三月是浏览器的重要月份，IE9和Firefox 4相继发布，鉴于正式推出时间不长，它们对整体市场份额的影响还很小。<i>
+根据Net Applications的<a href="http://netmarketshare.com/report.aspx?qprid=0&amp;qptimeframe=M&amp;qpsp=146">统计</a>，2011年3月，Firefox的份额基本没变动占21.80%，IE下降到55.92%，Chrome现在是IE的最主要挑战者，上升0.64%至11.57%，Safari占6.61%增加0.25%，Opera占2.15%，Opera Mini占1.06%。不同浏览器版本<a href="http://netmarketshare.com/browser-market-share.aspx?qprid=2&amp;qpcal=1&amp;qpstick=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qpcal=1&amp;qptimeframe=M&amp;qpsp=146">统计</a>，IE8为34.41%，Firefox 3.6为17.18%，IE6为10.97%，IE7为7.87%，Chrome 10.0为6.69%，Firefox 4.0占1.68%，IE9占1.04%。</i>
+StatCounter的统计<a href="http://gs.statcounter.com/#browser-CN-monthly-201103-201104-bar">显示</a>，中国的IE浏览器份额仍接近九成，其中IE6为40%，IE9只有0.6%，比较出人意料的是Chrome达到了4%，但最惊人的是Chrome 6占了1.25%，Firefox为3.44%。
+➜李敖之子因网瘾被北大会商
+https://www.solidot.org/story?sid=23286	5100
+《广州日报》<a href="http://gzdaily.dayoo.com/html/2011-04/02/content_1310982.htm">报导</a>，承认<a href="__SLASHLINK__" sect="internet" sid="10/09/06/1343215" sn="article" tid="120">翻墙访问</a>Facebook的李敖之子、北大经济学院学生李戡上了北大的“会商名单”。北大此前曾宣布从五月起对学业困难、思想偏激、心理脆弱、经济贫困、学籍异动、生活独立、网络成瘾、就业困难、罹患重大疾病、受到违纪处分等十类学生<a href="__SLASHLINK__" sect="mainpage" sid="11/03/25/0151215" sn="article" tid="71">进行会商</a>，李戡上榜的原因是“上网成性”。
+➜Google在华业务每况愈下
+https://www.solidot.org/story?sid=23287	5580
+在退出中国大陆搜索市场一年之后，<a href="http://www.cn.wsj.com/gb/20110401/bch103622.asp">Google在华业务每况愈下</a>。Gmail服务遭干扰，新浪停止使用Google搜索服务，地图服务前途未知，中国研究机构易观国际的数据显示搜索市场份额已经下降到19.6%，百度占75.5%，摩托罗拉Android手机只预装了百度和必应搜索，网络过滤导致Google搜索不时被重置，天涯和TOM也都终止和Google的合作，唯一的好消息是它的在华广告收入仍然在继续增长。
+➜卡车司机重建原子弹
+https://www.solidot.org/story?sid=23288	7140
+前卡车司机John Coster-Mullen没有接受过大学教育，通过自学<a href="http://www.amazon.com/Atom-Bombs-Secret-Inside-Little/dp/B0006S2AJ0">他掌握了原子弹的建造方法</a>。他说，原子弹的秘密在于它十分容易制造。他将自己的发现写成一本书《<a href="http://www.amazon.com/Atom-Bombs-Secret-Inside-Little/dp/B0006S2AJ0">Atom Bombs：The Top Secret Inside Story of Little Boy and Fat Man</a>》，并持续更新内容。美国国家资源保护委员会对该书的评价是“没有其它曼哈顿工程文学作品能达到他对原子弹零件的精确剖析”。Coster-Mullen花了大约十年时间研究原子弹的技术细节。
+➜如何改进SSL证书安全性
+https://www.solidot.org/story?sid=23289	11520
+Google安全博客讨论了最近CA认证机构Comodo遭黑客入侵的事件，提出了<a href="http://googleonlinesecurity.blogspot.com/2011/04/improving-ssl-certificate-security.html">两种改进SSL证书安全性的方法</a>。<i>
+第一种方法是Google Certificate Catalog，Google爬虫在索引互联网的同时会记录所有的SSL证书，Google Certificate Catalog就是这些证书的数据库。如果一个证书没有出现在Google的数据库内，即使有正确的CA签名，它极有可能是伪造的。Google正考虑在Chrome浏览器中加入Google Certificate Catalog数据库支持功能，其它浏览器未来可能跟进。第二种方法是互联网工程任务组(IETF)正在讨论的<a href="https://datatracker.ietf.org/wg/dane/charter/">DANE</a>，DANE代表基于DNS的域名实体认证，允许域名商发布SSL证书信息，利用DNS记录鉴定特定证书是否有效。这两种方法都是依靠DNS记录，但DNS可能会被污染，安全性值得质疑，Google认为加密保护DNS数据的DNSSEC协议可以解决安全问题。
+</i>
+➜JavaEye商标侵权最早是Sun提出
+https://www.solidot.org/story?sid=23290	17640
+JavaEye于四月一日<a href="__SLASHLINK__" sect="developers" sid="11/04/01/0146252" sn="article" tid="81">宣布</a>，Oracle通过律师指其域名涉嫌误导JAVA商标，称“javaeye.com域名完整包含了JAVA注册商标，与其构成近似，而且该网站登载有商业性质广告，满足域名争议以及计算机网络域名侵权的法律要件”。前Sun中国技术社区高级经理蒋清野在<a href="http://www.qyjohn.net/?p=1155">博客</a>上称，商标侵权早在2006年Sun公司内部已进行过讨论。Sun律师在2006年底发电子邮件，指出JavaEye社区的域名对Sun 公司的Java商标构成侵权，希望JavaEye社区能够改用其他域名提供服务。蒋清野根据《中国商标法实施条例》“商标正当善意使用”等条例进行解释，最后此事不了了之。但当Oracle收购Sun获得Java商标后，对Java社区采取了强硬的立场。
+➜卡梅隆希望电影以每秒60帧放映
+https://www.solidot.org/story?sid=23291	19440
+卡梅隆（James Cameron）是新兴电影技术的应用先锋，他率先采用了数字放映、3D和表演捕捉技术。现在，这位著名导演希望电影行业<a href="http://latimesblogs.latimes.com/movies/2011/03/james-cameron-champions-faster-film-projection-rates.html">能推广更快的放映帧数</a>。<i>
+电影的标准帧数是每秒24帧，卡梅隆指出这项标准年代已久，最早是1927年电影《The Jazz Singer》设定的，早已过时。他希望帧数能提高到48帧/秒，或者是60帧/秒。他在本周举行的CinemaCon电影展览会上逐一演示了24fps、48fps和60fps的电影片段，他承认24fps到48fps之间的质量改进明显，但48fps到60fps之间的差异人眼难以分辨。视频显示48 fps更清晰更逼真。
+</i>
+➜便捷式电脑Osborne三十周年
+https://www.solidot.org/story?sid=23292	21840
+笔记本电脑、平板电脑和智能手机等便捷式设备的先驱Osborne电脑本周日迎来了是<a href="http://technologizer.com/2011/04/01/osborne-computer/">三十周年纪念</a>。<i>
+1981年4月3日，Osborne电脑公司推出了世界上第一台商业化便捷式个人电脑<a href="http://en.wikipedia.org/wiki/Osborne_1">Osborne 1</a>，它重10.7公斤，售价1795美元，运行CP/M 2.2操作系统，显示屏只有5英寸，配有两个软盘驱动器，Z80微处理器，64k内存，电脑大小可塞到飞机座椅下。Osborne公司创始人Adam Osborne出生于泰国，父亲是英国人，母亲是波兰人。</i>
+➜CEO射杀大象，PETA抵制GoDaddy
+https://www.solidot.org/story?sid=23293	24480
+互联网域名商GoDaddy的CEO Bob Parsons最近<a href="http://latimesblogs.latimes.com/technology/2011/04/peta-closes-godaddy-account-after-ceo-shoots-elephant.html">引起了争议</a>。他在津巴布韦射杀了一头大象，并在自己的博客上贴出猎杀视频，称此举是为了帮助庄稼遭大象破坏的农民。动物保护团体善待动物组织（PETA）关闭了它的GoDaddy帐号，并呼吁其他人一起抵制GoDaddy。<i>
+PETA表示，Parsons保护农作物免受大象破坏的借口是站不住脚的，实际上有很多有效却非致命的方法阻止破坏农作物的大象，如浸泡过辣椒油的绳子，或者利用蜂巢创造廉价的“栅栏”。Parsons则为自己辩护称，当地农民几乎一无所有，杀死大象还能为他们提供一些蛋白质。</i>
+➜开源工具Creepy终结隐私
+https://www.solidot.org/story?sid=23294	26700
+<a href="http://ilektrojohn.github.com/creepy/">Creepy</a>是一个地理位置信息聚合工具，可以收集目标用户在社交网站和图像托管网站上的地理位置信息。它采用GPLv3授权，支持Ubuntu 10.10和Windows（Mac OS X版开发之中）。<i>
+Creepy虽然还处于早期开发阶段，但成效瞩目。当你在程序界面中输入Twitter或Flick用户名，内置的搜索工具会帮你寻找到用户，当点击“地理目标（Geolocate Target）”按钮后，Creepy会下载所有照片或Twitter帖子，分析关键信息，识别某一时刻的位置。虽然Twitter的地理位置共享是可选的，但用户利用手机拍摄和发布到Twitpic和Yfrog的照片却包括了地理位置。Creepy可以找到它们，下载照片，提取出地理数据。Creepy开发者Yiannis Kakava<a href="http://www.thinq.co.uk/2011/3/30/creepy-app-warns-end-privacy/">解释说</a>，他的意图是警醒社交平台的隐私问题，以及为研究人员提供一种信息收集工具。</i>
+➜Windows 8将引入自动备份功能History Vault
+https://www.solidot.org/story?sid=23295	28080
+WinRumors<a href="http://www.winrumors.com/windows-8-to-include-its-own-time-machine-rival-history-vault/">透露</a>，Windows 8将引入一项名为History Vault的新功能。<i>
+这项功能将允许Windows 8用户利用Shadow Copies功能自动备份文件和数据。据熟悉这项计划的消息人士披露，自动备份功能能恢复到某一特定时刻或日期，用户可以选择文件然后恢复到不同时间戳的版本。苹果Mac OS X的Time Machine功能与之相似。Windows Vista/7中引入的Shadow Copies已提供了恢复某一还原点的功能。History Vault扩展这项服务，提供了完整图形用户界面和编辑功能。微软还在为Windows 8设计新的图形界面Metro。
+</i>
+➜IEEE批准4G标准WiMAX 802.16m
+https://www.solidot.org/story?sid=23296	31500
+IEEE-SA标准委员会于3月31日<a href="http://www.enterpriseefficiency.com/author.asp?section_id=1077&amp;doc_id=205290">批准了</a>4G无线通信标准IEEE Std 802.16m/<a href="http://grouper.ieee.org/groups/802/16/">WiMAX 802.16m</a>。4G标准主要有两种：WiMAX 802.16m和LTE Advanced，前者是全新的通信网络，而后者则是现有WCDMA网络的升级。WiMAX传输距离更远更快，可能更适合企业应用，LTE则更有利于现有的移动用户。
+➜程序出错后，程序员与测试人员的对白
+https://www.solidot.org/story?sid=23297	34020
+匿名读者 写道 "国外程序员 Katelynn Eaton 在其博文总结分享了<a href="http://underthesunz.blogspot.com/">程序员和测试人员之间的高频对话</a>(<a href="http://www.jobbole.com/entry.php/606">中文</a>）。             　20. "That’s weird…" 很奇怪……<br>　　19. "It’s never done that before." 以前没这样过的。<br>　　18. "It worked yesterday." 昨天还好好的。<br>　　17. "How is that possible?" 那怎么可能？（怎么会出问题？）<br>　　16. "It must be a hardware problem." 这一定是硬件问题。<br> <br>　　15. "What did you type in wrong to get it to crash?" 你输入什么东西后才崩溃的？<br>　　14. "There is something funky in your data." 你的数据有问题。<br>　　13. "I haven’t touched that module in weeks!" 我好几个礼拜没动那个程序了！<br>　　12. "You must have the wrong version." 你一定在用错误的版本。<br>　　11. "It’s just some unlucky coincidence." 这只是凑巧。<br> <br>　　10. "I can’t test everything!" 我无法测试所有东西。（我的机器环境下，无法测试所有的可能情况。）<br>　　09. "THIS can’t be the source of THAT." “这”不可能是问题的原因。<br>　　08. "It works, but it hasn’t been tested." 程序能用，不过还没有测试。<br>　　07. "Somebody must have changed my code." 一定有人改了我的代码。<br>　　06. "Did you check for a virus on your system?" 你的电脑扫描病毒了么？<br> <br>　　05. "Even though it doesn’t work, how does it feel? 即便程序不行了，（你觉得）程序写得如何？<br>　　04. "You can’t use that version on your system." 你不能在你系统上使用那个版本的程序。（程序版本和系统有冲突。）<br>　　03. "Why do you want to do it that way?" 你怎么会想着那样操作啊？<br>　　02. "Where were you when the program blew up?" 程序崩溃时，你在做什么呢？（做了哪些操作？）<br> <br>　　第1条会是什么？猜猜看吧！<br> <br>　　01. "It works on my machine" 在我机器上好好的！！！（潜台词：怎么在你那就出问题了呢！！！）<br> <br>　　编者后话：虽然已经远离编程，但经常还是会用到第20、19条，当然也不会“错过”第1条。各位看过之后，不知你都用上了哪几条哦~"
+➜如何发现小行星带里的外星矿船？
+https://www.solidot.org/story?sid=23298	35760
+开拓宇宙的外星文明需要开采矿石去建造基地，飞船，或者是类似《环形世界》中描述的那种无与伦比的超级世界。而每个星系的小行星带通常蕴藏着大量稀有金属，外星文明的矿船可能会源源不断的在其间穿梭。那么人类<a href="http://news.discovery.com/space/asteriod-forensics-may-point-to-alien-space-miners-110401.html#view-comments">如何发现外星矿船</a>？<i>
+根据预印本网站arXiv上刊登的一篇<a href="http://arxiv.org/abs/1103.5369">论文</a>，苏格兰Edinburgh大学的Duncan Forgan 和哈佛史密森天体物理中心Martin Elvis，提出发现外星矿船的方法：例如，特定元素的开采会导致小行星带化学元素分布出现差异；开采产生的灰尘可能会使温度分布出现异常；开采会导致较大的小行星数量减少碎片增多，碎片分布差异也可成为一种线索。</i>
+➜Google CEO曾要求删除政治性捐赠信息
+https://www.solidot.org/story?sid=23299	37500
+《纽约时报》周五<a href="https://www.nytimes.com/2011/04/01/business/01author.html?_r=1">报导</a>了一本即将于4月12日出版的关于Google的新书，透露了Google退出中国的一些内幕，以及即将卸任CEO一职的Eric Schmidt的一些往事。<i>
+这本名为《<a href="http://books.simonandschuster.com/In-The-Plex/Steven-Levy/9781416596585">In the Plex: How Google Thinks, Works and Shapes Our Lives</a>》的新书披露，Google CEO Eric Schmidt曾要求工程师从搜索引擎中<a href="http://www.physorg.com/news/2011-04-google-ceo-political-donation.html">删除一项政治性捐赠有关的信息</a>，但被负责在线营销的副总裁Sheryl Sandberg拒绝。Sandberg在2008年跳槽去了Facebook。该书也透露了Google在中国遇到的一系列麻烦，例如它因为一位负责政府关系的高管向中国政府官员赠送iPod并用公司账户支付费用而将其开除。该书称，Google于2006年在中国正式建立分公司后，两位创始人再也没访问过中国，它还屏蔽谷歌中国工程师访问源代码库，因为它担心中国政府会强迫其工程师透露私人信息。
+</i>
+➜愿为友谊品尝痛苦
+https://www.solidot.org/story?sid=23300	39600
+牛津大学动物学系Freya Harrison博士让19研究人员背对墙做90度屈膝动作——这是一种滑雪训练动作，随时间推移人会越来越疼痛。每人做5次，一次独自一人做，另外四次是和关系度不同的四位同伴一起做。参与者每忍受一秒可以获1便士，他们想做多长时间都可以。<a href="http://www.physorg.com/news/2011-04-painful-price-friendship.html">结果发现</a>，如果当和亲密朋友一起时，他们会愿意做更长时间的屈膝训练，平均时间为朋友的1.5倍。研究结果发表在PLoS ONE上。研究人员相信，在人类中间，社交关系能增强合作。

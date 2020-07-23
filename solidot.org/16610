@@ -1,0 +1,58 @@
+➜6年的Beta测试后，Gmail用户迎来了“撤消发送”
+https://www.solidot.org/story?sid=44539	6112
+<a href="/~HighRise">HighRise</a> 写道 "翻译自 <a href="http://tech.slashdot.org/story/15/06/23/2052208/after-6-year-beta-test-all-gmail-users-get-undo-send" target="_blank" title="After 6-Year Beta Test, All Gmail Users Get 'Undo Send'">slashdot</a>：<i>据悉，09年开始，Google开始了Beta测试，针对的是一项称为“撤消发送”的功能。这个功能允许你撤销刚发送的邮件。时间限制是30秒。从你按下“发送”按钮开始，30秒内，如果你觉得真不该发这个邮件（当然可能是发错了），你可以撤消发送。Google在<a target="_blank" href="http://googleappsupdates.blogspot.com/2015/06/undo-send-for-gmail-on-web.html"><u>博客上</u></a>宣布，这项功能很快会正式启用。已经在试用这项功能的用户，不会有任何变化，继续使用就好。没有打开此选项的用户，可以到“设置－通用”里打开此功能。同时可以设置“后悔”的有效期：5秒，10秒，20秒，30秒。"</i>
+➜Facebook开源Nuclide IDE
+https://www.solidot.org/story?sid=44540	12041
+Facebook开源了基于Atom编辑器的<a target="_blank" href="http://nuclide.io/"><u>Nuclide</u></a> IDE，<a target="_blank" href="https://github.com/facebook/nuclide"><u>代码</u></a>托管在Gtihub上。Nuclide是Atom编辑器的软件包库，提供了类似IDE的功能，设计简化原生移动应用的开发。 Facebook 软件工程师 Michael Bolin说，他们没有fork编辑器的代码，所以Nuclide能安装在标准版的Atom编辑器上，用户可以继续使用除Nuclide外的其它社区软件包。Nuclide的功能包括了全局搜索、自动完成、错误高亮、支持Mercurial、Hack和Flow，通过SSH连接远程服务器。
+➜NSA监听最近三任的法国总统
+https://www.solidot.org/story?sid=44541	12930
+WikiLeaks公布了最新泄密文件《<a target="_blank" href="https://wikileaks.org/nsa-france/"><u>Espionnage Élysée</u></a>》，称NSA<a target="_blank" href="http://cn.reuters.com/article/2015/06/24/france-wikileaks-idCNKBS0P404920150624"><u>监听了</u></a>最近三任的法国总统：奥朗德（<a href="https://wikileaks.org/nsa-france/intercepts/#intercept3">Francois Hollande</a>）、萨科齐（<a href="https://wikileaks.org/nsa-france/intercepts/#intercept4">Nicolas Sarkozy</a>）、希拉克（<a href="https://wikileaks.org/nsa-france/intercepts/#intercept2">Jacques Chirac</a>），以及法国内阁部长和法国驻美大使。WikiLeaks创始人Julian Assange在声明中称：“法国人民有权知道，他们选出来的政府被以为是盟国的一方进行恶意监控。”他补充道，很快还会有“重磅披露”。WikiLeaks披露的文件包括对法国政府官员间谈话内容的总结，话题涉及全球金融危机、欧盟的未来、奥朗德政府和德国默克尔政府的关系、法国为决定联合国高层人员组成所作努力、以及法国和美国政府间围绕美国针对法国进行间谍行动的争议，此外还有许多法国官员的手机号码，包括总统的手机号码。
+➜有千万人因饮用水氟超标患病
+https://www.solidot.org/story?sid=44542	14351
+官方新华社旗下的《瞭望东方周刊》刊登的文章《<a target="_blank" href="http://news.xinhuanet.com/local/2015-06/21/c_1115683069.htm"><u>潜伏的水病</u></a>》称，中国有8000万人饮用氟含量超标的水，有可能<a target="_blank" href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E9%A5%AE%E7%94%A8%E6%B0%B4%E8%87%B4%E5%8D%83%E4%B8%87%E4%BA%BA%E6%82%A3%E7%97%85/a-18536382"><u>导致氟中毒</u></a>，氟中毒最典型的症状是氟斑牙和氟骨症，病情严重者会出现骨头畸形、瘫痪等症状。……截至2013年底，全国氟斑牙和氟骨症病人高达2094万。适当的氟是人体所必需的，适当摄入能减少龋齿的发生，但长期大量接触会引起氟牙症和氟骨症，进而造成骨质硬化、肌腱和韧带的钙化以及骨骼畸形。除了高氟水问题外，中国还存在严重的水污染。中国官方数据显示，中国三分之一的主要河流以及60%的地下水受到污染，给公众健康和粮食安全造成了极大的威胁。
+➜Adobe紧急释出Flash补丁修复0day漏洞
+https://www.solidot.org/story?sid=44543	16063
+Adobe紧急释出了<a target="_blank" href="https://helpx.adobe.com/security/products/flash-player/apsb15-14.html"><u>Flash补丁</u></a>，修复了一个正被中国黑客组织APT3(aka UPS)利用的0day漏洞。受影响的版本包括：Windows和OSX版的Adobe Flash Player 18.0.0.161及早期版本，Linux版的Flash Player 11.2.202.466及早期版本， Flash Player扩展支持版13.0.0.292 及早期版本。Adobe建议用户立即升级。该0day漏洞是美国安全公司Fireeye在调查APT3时发现的，它在两周前通知了Adobe。Fireeye公布了APT3钓鱼攻击行动<a target="_blank" href="https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html"><u>Operation Clandestine Wolf </u></a>的报告，称APT3在几周前针对航空航天和国防等高科技领域的公司发动了大规模钓鱼攻击，受害者如果点击了钓鱼邮件中的网址，会被攻击者利用Flash漏洞安装后门。
+➜维基百科的移动危机
+https://www.solidot.org/story?sid=44544	17052
+维基百科的未来充满了不确定性，它面临的最大威胁之一<a target="_blank" href="http://cn.nytimes.com/opinion/20150624/c24wikipedia/"><u>是智能手机的崛起</u></a>。对向来依靠志愿者在键盘前弓身查找参考文献、讨论变更并用一种特殊的标记代码撰写文章的维基百科来说，这是一个挑战。在维基百科巅峰时期的2005年，几个月里被升为管理员的编辑超过60人。而过去一年里，有时候每月提升一名管理员都很难。
+随着移动用户人数持续增加，潜在的维基百科编辑群可能会消失。在一个小屏幕上操作复杂代码实在太难了。
+非营利性的维基媒体基金会正在研究解决办法。一些想法包括设置触摸屏工具，让维基百科的编辑能在手机上仔细检查信息并分享内容。
+➜Facebook说即使看不清你的脸它也知道你是谁
+https://www.solidot.org/story?sid=44545	18837
+Facebook人工智能实验室<a target="_blank" href="http://www.newscientist.com/article/dn27761-facebook-can-recognise-you-in-photos-even-if-youre-not-looking.html"><u>开发的一种实验性算法</u></a>，能在脸部被遮住看不清的情况下识别照片中的人脸。算法利用了其它独特的线索如发型、着装、体型和姿势。Facebook人工智能负责人Yann LeCun说，即使没看见Mark Zuckerberg的脸，你也能从他独特的着装上认出他。研究人员测试了来自Flickr的大约4万张照片，算法能以83%的准确率识别照片中的人。名为《<a target="_blank" href="https://research.facebook.com/publications/1388608378133800/beyond-frontal-faces-improving-person-recognition-using-multiple-cues/"><u>Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues</u></a>》的研究报告已发表在Facebook研究院的网页上。
+➜吃豆人创作人谈日本游戏
+https://www.solidot.org/story?sid=44546	26976
+岩谷彻的吃豆人是历史上最成功最知名的游戏之一，这位已经退休的游戏开发者说，“《吃豆人》之美在于，任何上手玩的人都能立刻明白这款游戏是怎么回事。这就是为什么如果你今天用智能手机下载它的话，还仍然可以玩。35年前，我们受到CPU运算能力的限制，现在我们不再有这些限制，但游戏制作商需要思考一个问题：是什么让这些老款游戏如此有魔力？”他说，以前一直拒绝将《超级马里奥》和《马里奥赛车》搬到手机上的任天堂必须拥抱新的领域。“日本游戏公司曾是完全自由的地方。我们几乎无所顾忌——除了制作有趣的游戏，”<a target="_blank" href="http://www.ftchinese.com/story/001062657?full=y"><u>如今这个时代的风险在于</u></a>，在竞争加剧和关注股东回报的大背景下，日本游戏公司已经不再善于重现灵感迸发的时刻，而更热衷于推出热门游戏的续集，制作《吃豆人2》和《吃豆人3》总比拿出一个全新的创意更容易，因为新的创意失败的几率比成功更大，而股东们不喜欢这样。
+➜中国河流中的抗生素污染
+https://www.solidot.org/story?sid=44547	27653
+<div align="center"><img src="http://img.solidot.com.cn/0/821/liPukjeD7GH.gif" align=""><br>
+<br>
+</div>
+中国主要河流存在<a target="_blank" href="http://www.solidot.org/story?sid=42447"><u>抗生素污染问题</u></a>早就不是新闻，最新的一项研究只是再次确认了这一事实。中科院广州地球化学研究所的研究人员在《Environmental Science &amp; Technology》期刊上发表<a target="_blank" href="http://pubs.acs.org/doi/abs/10.1021/acs.est.5b00729?journalCode=esthag&amp;"><u>研究报告</u></a>，由于人类和农场的抗生素滥用，北京和天津附近及南方珠江三角洲的河流中的抗生素含量，在中国水道中<a target="_blank" href="http://cn.nytimes.com/china/20150623/c23sino-antibiotics/"><u>居于最高水平</u></a>。过量使用抗生素的一个主要担心是导致耐药细菌的增殖，从而降低现存药物的效力。研究员应光国称，大多数药物都是通过人类和动物的排泄物进入这些水道的，而且北方的海河和南方的珠江周边地区的人口密度很高。他说，“这里还有许多养殖场，尤其是家禽和猪的养殖场。”
+“中国还没有关于如何处理畜禽养殖场废水的规定。”
+➜三星被发现故意关闭Windows更新
+https://www.solidot.org/story?sid=44548	29058
+一名三星电脑的客户遇到了系统自动更新问题，一名微软的MVP分析了他的问题，发现是三星<a target="_blank" href="http://bsodanalysis.blogspot.com/2015/06/samsung-deliberately-disabling-windows.html"><u>故意关闭</u></a>Windows自动更新。OEM通常会在电脑上预装相关软件，三星电脑上预装的一个软件叫SW Update，自动检测硬件安装驱动。但三星软件与其它OEM软件的一个区别是它会禁用系统更新，会自动安装名为Disable_Windowsupdate.exe的应用程序，禁止Windows自动更新，即使用户启用了自动更新，重启之后自动更新又会再次被禁用。禁止自动更新会导致系统不会安装关键的安全补丁，使系统容易感染恶意程序。
+➜Android设备被指对IPv6支持不佳
+https://www.solidot.org/story?sid=44549	32775
+IPv4地址空间即将枯竭，但如果没有硬件支持的话IPv6也难以普及起来。运行Google Android系统的设备数以十亿计，今年第一季度出货的智能手机中Android手机就占了78%。然而Android被批评<a target="_blank" href="http://www.networkworld.com/article/2939436/lan-wan/it-pros-blast-google-over-android-s-refusal-to-play-nice-with-ipv6.html"><u>对IPv6支持不佳</u></a>。移动设备常常要在无线网络中不断切换，它分配到的是动态地址。DHCP是在一个网络内自动分配地址的网络协议，Android却不支持它的升级版 DHCPv6。但DHCPv6标准RFC 3315的作者<a target="_blank" href="http://tech.slashdot.org/story/15/06/23/2047259/it-pros-blast-google-over-androids-refusal-to-play-nice-with-ipv6"><u>认为</u></a>，Google Android不支持DHCPv6算不上什么错误，他声称用DHCPv6去分配地址是个糟糕的主意。
+➜空气污染可能会加速大脑衰老
+https://www.solidot.org/story?sid=44550	33333
+美国科学家在《Annals of Neurology》期刊上发表<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/ana.24460/pdf"><u>研究报告</u></a>（PDF）称暴露在空气污染中可能会加速大脑衰老。研究对象为1403名未患痴呆症的女性，她们曾在1996年至1998年间参与过另一项大型健康研究。在2005年和2006年，研究人员用磁共振成像扫描测量了这些女性的脑容量，利用居住记录和空气污染数据，对她们从1999年到2006年暴露在空气污染中的情况进行了估算，发现每立方厘米中累积污染物每增加3.49微克，脑白质就会减少6.23立方厘米，相当于大脑衰老一到两年。根据多个变量进行了调整后，<a target="_blank" href="http://cn.nytimes.com/health/20150623/c23brf-2-behavior/"><u>这种相关性依然存在</u></a>。
+➜火星在50万年前还有许多水
+https://www.solidot.org/story?sid=44551	35481
+发表在《Nature Communications》期刊上的<a target="_blank" href="http://nature.com/articles/doi:10.1038/ncomms8543"><u>一项研究</u></a>认为，在50万年前火星的某些角落里<a target="_blank" href="http://www.popularmechanics.com/space/moon-mars/a16156/mars-water-crater-study/"><u>还有许多水</u></a>。科学家分析了有一百万年历史的火星陨石坑 Istok， Istok如今已经干涸，但其斜坡上的沟壑和沉积物是被大量泥冰水反复冲刷导致的。它所需要的冰水量十倍于火星气候模型的预测。也就是说当地球上的人类祖先开始学习控制火的时候，火星上还是有许多水的。<br>
+➜《蝙蝠侠:阿卡姆骑士》PC版遭遇恶评
+https://www.solidot.org/story?sid=44552	37359
+<div align="center"><img src="http://img.solidot.com.cn/0/822/li6enTaDETbHc.gif" align=""><br>
+<br>
+</div>
+刚刚上市的AAA级动作游戏《蝙蝠侠：阿卡姆骑士》备受游戏媒体评论家的好评，它的PS4评分达到了<a target="_blank" href="http://www.metacritic.com/game/playstation-4/batman-arkham-knight"><u>91/100</u></a>。但它的PC版则是另一回事了：在Steam商店页面，这款备受期待的大作、蝙蝠侠系列的终篇<a target="_blank" href="http://store.steampowered.com/app/208650"><u>遭遇了铺天盖地的恶评</u></a>，原因是严重的优化问题。游戏开发商 Rocksteady为此修改了<a target="_blank" href="http://steamcommunity.com/gid/103582791433980826/announcements/detail/145587678164818505"><u>最低配置要求</u></a>，现在AMD显卡用户需要3GB显存的Radeon HD 7950才能关闭所有特效在1280x720@30fps下游戏。
+事实上，无论是 NVIDIA还是AMD显卡，游戏的运行都有问题。Rocksteady<a target="_blank" href="http://community.wbgames.com/t5/Support-for-PC/PC-Performance-issues-we-hear-you/m-p/571341#U571341"><u>承认</u></a>它已经知道PC版存在性能问题，正与PC版的合作伙伴密切合作尽可能快的解决问题。《蝙蝠侠：阿卡姆骑士》的PC版是由<a target="_blank" href="https://en.wikipedia.org/wiki/Iron_Galaxy_Studios"><u> Iron Galaxy</u></a>负责的。<b>更新</b>：游戏已经暂停销售，等待发行商解决性能问题。
+➜德国成人电子书只能在晚上10点早上6点之间出售
+https://www.solidot.org/story?sid=44553	40255
+德国青少年保护机构将青少年媒体保护法扩大到电子书，结果是色情电子书的销售商被命令只能在当地时间晚上10点和早上6点之间出售成人电子书。这个规定让<a target="_blank" href="https://www.techdirt.com/articles/20150620/14190531401/germany-says-you-cant-sell-adult-ebooks-until-after-10-pm.shtml"><u>很多人觉得不可思议</u></a>。青少年媒体保护法最初针对的是电影院，只允许电影院在晚上10点和早上6点之间放映成人电影是有意义的，毕竟这个时间段多数孩子们都上床睡觉了。但将这个法律应用于互联网真有效？通过无线网络我们随时都能购买电子书。而且这个法律怎么实施？让人家色情电子书网站一天关闭16小时，只能在晚上10点之后上线？
+➜高通与中芯合作研究14纳米工艺
+https://www.solidot.org/story?sid=44554	43448
+中国最大的芯片制造商中芯国际<a target="_blank" href="http://www.smics.com/chn/press/press_releases_details.php?id=289922"><u>宣布</u></a>与美国最大的移动芯片制造商高通合作研发14纳米工艺。高通前不久因为垄断被中国<a target="_blank" href="http://www.solidot.org/story?sid=43011"><u>罚了</u></a>61亿人民币。中国最高领导人参加了在人民大会堂举行的签约仪式，显示了其重要性。参与合资的还有华为和比利时微电子研究中心（imec），合资公司将在imec半导体工艺上基础上研发14纳米CMOS量产技术，研发将在中芯国际的生产线上进行。

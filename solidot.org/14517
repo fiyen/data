@@ -1,0 +1,120 @@
+➜Microsoft Security Essentials 1.0正式版发布
+https://www.solidot.org/story?sid=13938	1440
+<a href="http://livesino.net/">picturepan2</a> 写道<i> "微软已<a href="http://livesino.net/archives/2274.live">发布</a>了 Microsoft Security Essentials 正式版，并且现在所有用户均能通过官方网站<a>下载该正式版</a>，正式版版本号为 1.0.1611.0。Microsoft Security Essentials 1.0 正式版支持 32 位和 64 位 Windows XP, Windows Vista, Windows 7，甚至是 Windows XP Mode。而 Microsoft Security Essentials 1.0 正式版的界面与之前的 Beta 版一样。"</i>
+➜鲍尔默不认为Chrome和Safari是威胁
+https://www.solidot.org/story?sid=13939	3600
+<a href="http://yi-it.com/blog/">易IT</a> 写道 "在<a href="http://www.techcrunch.com/2009/09/29/ballmer-microsoft-interview-chrome-windows-internetexplorer/">Techcrunch上周对微软CEO鲍尔默的采访</a>中，鲍尔默谈到了Chrome的IE Plugin，他说：<i>
+至今为止最成功的（浏览器）要算Firefox。<a href="http://yi-it.com/blog/pivot/entry.php?id=107">谷歌浏览器Chrome到目前为止还不算啥，Safari也是小意思</a>。但Firefox并非如此。事实上有很多竞争者对我们来说是一种优势。是的，粗略来说，在浏览器市场我们现在大概占有74%的市场份额。但是我们还会用更强更新的功能和在IE中增加plugin这种行为来竞争，Google昨天宣称说他们会替代IE，但没告诉怎样替代。为什么我这么说呢？他们所有针对IE的动作都不是他们真正的目。他们真正的目的是志在操作系统。现在用做浏览器来掩盖，用在IE中做一个插件来遮掩。所以，你知道，我们不得不和这样的行为竞争，走着瞧吧，看将来会怎样。不过，有件事我不是很清楚，就是其他人在浏览器级别上和我们竞争是否是一招经济的棋呢。这是关于控制搜索盒子（指搜索框）还是关于其他什么呢？</i>
+在采访中，他还谈了对谷歌的Chrome OS的看法，他对Google想创建两个操作系统而感到困惑（Chrome OS和Andriod）。
+"
+➜Google Docs提供免费OCR服务
+https://www.solidot.org/story?sid=13940	5100
+Google Docs API<a href="http://googlesystem.blogspot.com/2009/09/google-docs-ocr.html">正在测试</a>一项新特性，<a href="http://googlecodesamples.com/docs/php/ocr.php">允许对用户上传的图像执行OCR</a>(光学字符识别)。用户可以上传JPG、GIF或PNG格式的高分辨率图像，图像大小最大限制为10MB，分辨率最高为25兆像素。Google表示可以在40秒内完成OCR处理，不过测试显示这项服务显然还<a href="http://blog.gslin.org/archives/2009/09/30/2101/">不太稳定</a>，可能是因为人多，而OCR对系统资源的要求也较高。目前还不清楚是否支持中文图像文件（因为测试总是出错）。
+➜窃听SSL可能吗？
+https://www.solidot.org/story?sid=13941	9000
+Hillstone山石网科公司声称开发出一种名叫<a href="http://www.tektalk.cn/2009/09/25/%E8%BF%9B%E5%8C%96%E7%9A%84%E8%89%BA%E6%9C%AF%E2%80%94%E2%80%94hillstone%E5%B1%B1%E7%9F%B3%E7%BD%91%E7%A7%91sg-6000-g5150%E4%BA%A7%E5%93%81%E8%AF%84%E6%B5%8B/">SG-6000的防火墙设备</a>，能利用SSL代理去截断所有单向验证的SSL请求，然后对解密后的内容进行控制和审查，据称能过滤Gmail等采用HTTPS登录的Webmail。窃听<a href="http://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82%E5%AE%89%E5%85%A8">SSL</a>的噩梦前景无疑令很多人不寒而栗。随后狂人山庄博客利用Sohu邮箱的漏洞（该漏洞已被<a href="http://www.dup2.org/node/1178">修正</a>）实际操作了一次<a href="http://wuhongsheng.com/it/2009/09/ssl-hijack/">SSL中间人攻击</a>，有人评论认为这并非是SSL协议的漏洞，而是搜狐不应该让自己的域名（Sohu.com）开放邮件注册，如Gmail的SSL就是使用的是mail.google.com。
+➜Web易用性大师Jakob Nielsen访谈录
+https://www.solidot.org/story?sid=13942	9600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "他被纽约时报称为“Web 易用性大师”，被 Internet Magazine 称为 “易用之王”，1995年以来，他通过自己的 <a href="http://www.useit.com/alertbox/">Alertbox</a> 邮件列表以及 <a href="http://www.useit.com/">useit.com</a> 网站，向成千上万的 Web 设计师传授 Web 易用性方面的知识，尽管他的一些观点可能带来争议，至少在 Web 设计师眼中，他是 Web 易用性领域的顶尖领袖，他的名字叫 <b>Jakob Nielsen</b>， 本文是 <a href="http://www.webdesignerdepot.com/">WDD</a> 网站对他做的专访（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K849.aspx">图文版</a>）。           能否谈一下你自己，你是如何进入这个领域的？
+<br> <br>我<a href="http://www.useit.com/alertbox/25-years-usability.html">1983年就进入易用性这个领域</a>了，我的第一个项目是大型机上的基于字符的界面。后来则主要研究图形用户界面，比如我和我的学生做了很多 Mac 软件的研究，那时的 Mac 软件还不够好用。我早期的经历对以后的研究很有帮助，因为早期的 Web 界面和 IBM3270 大型机程序差不多。
+<br> <br>总的来说，对于一个这方面的专业人士来说，在各个时代的计算机系统上的经历是很有用的，因为你可以在宏观的人类行为的发展趋势中看问题。
+<br> <br>我技术生涯的前十年主要解决两个问题，怎样让那些易用性方法更广泛地应用；适应那些那些<a href="http://www.useit.com/alertbox/discount-usability.html">大打折扣的易用性</a>以及如何改善在线信息的易用性。鉴于此，我后来<a href="http://www.useit.com/jakob/hthmbook.html">在1989年写了自己的第一本关于超文本的书</a>（1990年出版），以及一本在软件项目中<a href="http://www.useit.com/jakob/useengbook.html">被广泛采用的易用性工程教材</a>。
+<br> <br>1994年，我开始研究 Web 易用性，刚好将这两种兴趣融合在了一起，早期的 Web 易用性很有趣，人们评批它，说这不能用在 Web 上，因为这是给软件程序用的。
+<br> <br>相反，近年来，那些易用性的对立者们开始声称这些研究只能用于 Web，无法推诸程序以及 AJAX 这些，于是人们总是想着法子忽略他们的用户。当然，现实是，易用性对任何拥有用户界面的东西都适用，不管是网站，程序，手机，DV 还是其它的什么。具体的规则可能不同，但总的原则都源自人类10000 多年来形成的思维方式。
+<br> <br>
+近年来宽带发展迅猛，我们是否还需要关注页面尺寸和加载速度？
+<br> <br>是的，但已经不象 28.8K 拨号上网时代那样苛刻了。
+<br> <br>不过反应时延原则什么时代都是一样的，因为互联网连接的是人，那些哪怕是二战时期的研究仍然是成立的。一个主要的原则是，人们点击下一页的时候，时延不应该超过1秒钟，否则就会觉得卡，在宽带时代，美国的接入用户1秒钟可以下载大约1MB的数据（那些亚洲国家还要快，但不包括中国 - 译者），因此，现在的问题并不是出在网速上，而是处在服务器端，人们在网页中塞入了太多饰件和动态对象。
+<br> <br>记住，1秒钟，否则用户会觉得卡，这还是就整个页面而言，那些页面内部嵌套的 AJAX 控件要求更高，是01.秒，否则会觉得卡。
+<br> <br>
+在你看来，测试网站易用性的最好方式是什么？
+<br> <br>遵循三个基本原则，找一个值得信赖的客户，让他们实际访问你的站点，然后，闭上嘴让他们说给你听。你只需要5个用户就能发现足够多的易用性问题并让你忙活几个月。尽管只有这三个简单的原则，很多研究发现人们仍不能完全遵守。
+<br> <br>比如，你不能让朋友或同事去测试，你应当找那些对你的项目一无所知的外部用户，他们还不能敷衍了事，必须实际去用，同时，你不能对他们施加影响，不能暗示他们该如何操作。这就是闭嘴原则如此重要的原因，最好的方式是找那些富有经验的大型测试团队去做，当然，小团队仍然可以做好，这样很经济，如果能遵守基本原则的话，<a href="http://www.useit.com/alertbox/own-usability.html">开发者自己也可以很好地进行易用性测试</a>。
+<br> <br>
+人们应当如何在移动设备上测试网站易用性？
+<br> <br>基本原理都是一样的，现在就来了第4条规则，就是在一个代表设备上测试。对桌面而言，有 Mac 和 PC，但这无所谓，关键是什么屏幕尺寸，最近几年，我们主要在 1024 x 768 尺寸上测试，但我们现在使用一个屏幕做所有测试。
+<br> <br>对移动设备，很难使用一个代表设备，因为手机之间的差异比电脑大得多。在我们的<a href="http://www.useit.com/alertbox/mobile-usability.html">移动研究</a>中，我们测试了3大门类手机，低端手机，智能手机，触摸屏手机。
+<br> <br>我们招募了一些用户，他们带着自己的手机前来测试，我们需要测试很多用户，因为不同门类的手机之间差别太大了。理想状态下，我建议站点设计者为这三类设备设计三个版本的站点，因为它们之间差异太大，但只有那些特别有钱的站点才可以，因此我希望他们至少单独为移动设备设计一个独立站点，那些为桌面电脑用户设计的网站对移动用户来说太难用了。
+<br> <br>Web 最初的使命原本是强调跨平台设计的，以便在任何地方都能访问，但从可用性角度，这不可行，即使技术上能够实现，要么对桌面用户来说太简陋，要么对移动用来说太复杂，这两种情形差别太大了，需要不同的设计。<br> <br>
+假如我们要做一个能负担得起的网站易用性测试，最好的方式是什么？
+<br> <br>唯一不能省的是招募测试代表用户，因为如果你找错了人，要么是那些并不用这个网站人参与测试，要么是那些对背景太了解会主动绕过易用性问题的人，这两种类型的测试者都不是理想的测试者。
+<br> <br>其它的都可以商量，可以省。我说过，你可以自己测试，那样就不用花钱，除了费点时间，要完成5个测试者的测试工作量只要几个小时。你不需要什么设备，不需要分析软件，甚至都不需要电脑，假如你是在<a href="http://www.nngroup.com/reports/prototyping/video_stills.html">纸面原型</a>上进行测试的话，如果不是，一台笔记本或普通电脑就够了，这样的测试在小会议室或普通办公室就能进行。
+<br> <br>当然你需要关上门，避免被打断。
+<br> <br>
+就导航而言，面包屑导航条是否已死？
+<a href="http://bell.ca/home/"> </a>
+<br> <br>没有，我们在测试中经常看到用户使用面包屑导航，要么用来确认他当前的位置，要么退回上级菜单。因此，面包屑导航绝对有用，但同样重要的是，不要影响到那些不用面包屑的用户，测试发现有人是不用这个的。
+<br> <br>但这没问题，因为面包性不会给这些用户带来任何麻烦，而且它们是很简单的东西，因此应当包含。
+<br> <br>
+对 Web 设计师而言，如果他们设计的是艺术类或作品展示类站点，是否可以打破 Web 易用性规则？
+<br> <br>是的。首先艺术的定义原本就是你可以任意发挥，艺术不是给普通人看到，即使确实是商业用地，比如作品展示，也不必拘泥，有两个原因：
+<br> <br>第一，这类站点的受众一般用于比较高级的 Web 技术（设计师，Internet 经理等等），第二，人们访问这类站点的时候一般除了充满敬意地欣赏也不做什么事。因此，它不必象那些民用站点那样易用，对于民用站点，比如网上银行，如果不好用，转错了账将是灾难性的。
+<br> <br>
+Amazon.com 被视为最成功的电子商务站点，是什么让他们这样成功，你是否从他们的站点中发现过易用性方面的错误？
+<br> <br>Amazon 是一个站内站外拥有不同用户体验的很好的例子。他们的成功要归功于站外功夫，包括非常丰富的产品，非常详细的<a href="http://www.useit.com/alertbox/confirmation-email.html">确认邮件</a>，非常稳固的订单执行能力，他们的价格也很好，尽管不是最低的。
+<br> <br>他们的站内体验也不错，包括丰富的产品信息，客户评论，Amazon 是第一家愿意接受用户负面评价的公司，这位 Amazon 增强了信用，如果用户不看好某个产品，可以买其它的。
+<br> <br>然而 <a href="http://www.useit.com/alertbox/20050725.html">Amazon 的模式并不适合其它站点</a>，它的页面太拥挤，功能太多，新用户往往无所适从，Amazon 的用户都是那些熟悉电子商务的老用户，他们经常在上面买东西，因此，他们可以越过这些不便，但新用户还是会觉得有些难用。因为大多数别的电子商务站点并没有 Amazon 这么大的规模，他们更需要简单的设计。
+<br> <br>Amazon 的产品区也很难用，因为他们是一个综合性网店，它的前身是个网上书店，对书籍来说，信息要简单得多。Amazon 能很好地向用户展示单个产品，但在展示全部产品目录方面很不理想。而对那些专门的某类产品网店来说是个很好的机会。<br> <br>
+易用性规则是否对所有网站一视同仁，还是要针对不同目标用户使用不同的规则（比如技术类站点或新闻站点）？
+<br> <br>易用性总是涉及两件事，谁是用户，以及他们想借助这个 UI 实现什么？
+<br> <br>因此我们不可能做一个普适的设计，比如，如果人们只是要看数量有限的内容，你可以全部列给他们，如果要展示的内容是海量的，你就需要一些功能让用户选择，排序等等。
+<br> <br>如果是一家只有三家分店的酒店，这样做就有些过了，但如果是麦当劳，你就需要一个<a href="http://www.useit.com/alertbox/location-finders.html">分店查询工具</a>，甚至需要语言选项以区别不同国家和地区。
+<br> <br>同样，对那些在某个领域很精通的用户，相对于普通用户，我们需要提供不同的设计，最好的例子是，比如医疗信息，对医生和对病人需要提供不同的东西。
+<br> <br>
+如今，多数站点都在页面上塞入了大量内容，如新闻摘要，Twitter 或 RSS 订阅，这些拥有大量内容的页面仍人是易用的吗？
+<br> <br>是的。但，你往页面中塞入的东西越多越难保证易用性。
+<br> <br>简洁始终是更好的选择，但如果你的用户确实需要那么多内容，你需要不断进行易用性测试，对于这些问题，你需要付出更多努力，如果要推出未经用户测试的东西，复杂的比简单的包含更多风险。
+<br> <br>本文国际来源：<a href="http://www.webdesignerdepot.com/2009/09/interview-with-web-usability-guru-jakob-nielsen/">http://www.webdesignerdepot.com/2009/09/interview-with-web-usability-guru-jakob-nielsen/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜三峡可能成为一个巨大的甲烷产生源
+https://www.solidot.org/story?sid=13943	13320
+宇宙的<a href="http://zh.wikipedia.org/wiki/%E7%86%B5">熵</a>始终趋于增加，世界上究竟是否存在真正绿色的能源？太阳能？但太阳能电池制造过程中会造成大量污染。水电？淹没在水中的植物在腐烂过程中会释放出强温室气体甲烷。《自然》网站报道，中国的三峡水库淹没了大量陆地，水库的水位并不会保持平衡，比如夏天它的水位会下降，从而创造出大片湿地。<a href="http://www.nature.com/news/2009/090929/full/news.2009.962.html?s=news_rss">研究人员发现这些湿地可能成为重要的甲烷产生源</a>。<a href="http://www.agu.org/pubs/crossref/2009/2009JD012410.shtml">报告</a>发表在《地球物理学研究杂志》上。这项研究是对水力发电是否环保的最新质疑。甲烷对全球变暖的影响是二氧化碳的20倍。<i>
+论文第一作者、重庆大学的生态学家Huai Chen认为，以前对水位下降区域的关注不够，可能主因是水库的表面积不够大。但是世界上最大水坝的水位下降区域的面积达到了350平方公里，占到了总的水库面积的三分之一，甲烷的排放不能再被忽视。研究人员将注意力集中在长江支流澎溪河附近面积为37平方公里的湿地。通过多次测量之后，他们发现湿地会在一年的不同时间释放出不同数量的甲烷。研究人员计算出，澎溪河附近每平方米湿地平均每小时能释放出6.7毫克甲烷，高于其它热带地区水库湿地的甲烷排放速度。研究人员还没有精确测量三峡水库排放的甲烷总量。</i>
+➜中国人口结构倒挂
+https://www.solidot.org/story?sid=13944	14700
+<a href="http://adxon.com/">halinjo</a> 写道 "都说80后是蜜罐里泡大的，90后更是无忧无虑，以至于“非主流”到让“主流们”觉得其脑残的程度。现在好了，出来混总是要还的，系统是守恒的。郭凯博士最近的一篇博客：<a href="http://adxon.com/kaiecon/4456.htm">人多力量大</a>，与曼昆教授近期的一篇博客：<a href="http://adxon.com/gregmankiw/intergenerational-redistribution.htm">代际再分配</a>，不约而同地从各自角度谈到了人口。很明显，郭凯谈到的中国人口问题要更加严重，用郭凯的原话说是“恐怖的人口结构”。"           <a href="http://adxon.com/">halinjo</a> 写道 "不知道人口倒挂结构与自杀率之间有没有强联系。至少，在日本，长寿和自杀都不是什么稀奇的事情。这是我刚在本站看到的一则新闻：<a href="__SLASHLINK__" sect="society" sid="09/09/12/0358253" sn="article" tid="67">日本百岁老人突破4万</a>。这是我搜索到的一则来自新华网消息：<a href="http://news.xinhuanet.com/world/2008-05/28/content_8266226.htm">日本自杀人数连续10年超过3万</a>如果是的话，可以预计中国在非常不远的将来，自杀率也会显著提升了。"
+➜RMS撤回Mac OS X有后门的声明
+https://www.solidot.org/story?sid=13945	20880
+愤世嫉俗的自由软件基金会主席Richard Stallman一向对非自由软件十分苛刻，他曾经声称苹果的OS X系统中包含后门，现在RMS<a href="http://www.fsf.org/blogs/rms/mac-osx-mistakes-and-malfeatures">宣布</a> <a href="http://www.osnews.com/story/22259/Stallman_No_Evidence_of_Backdoor_in_Mac_OS_X">撤回这一没有根据的声明</a>。<i>
+Stallman曾指责Mac OS X包含了一个类似Windows的后门，允许苹果强制的、秘密的改变Mac OS X及其软件。现在他表示这番言论是错误的，并为此道歉。他说，“我们没办法验证Mac OS X中不包含能在用户不知情下改变系统的后门，但也没有根据说它包含后门。”Stallman说他是从Mac社区听到后门的谣言，他认为自己被误导了。但之后Stallman反复强调Mac OS X和苹果不讲道德，比如用户在安装iTunes更新后，系统中便被加入了新的DRM功能。</i>
+➜美国科学基金会雇员沉迷于色情网站
+https://www.solidot.org/story?sid=13946	21840
+《华盛顿时报》<a href="http://washingtontimes.com/news/2009/sep/29/workers-porn-surfing-rampant-at-federal-agency/">报道</a>，雇员访问色情网站的问题在美国国家科学院是如此的普遍，<a href="http://science.slashdot.org/story/09/09/29/1430259/Porn-Surfing-Rampant-at-US-Science-Foundation">以至于监管人员难以招架</a>，迫使内部的监管机构减少了调查虚假经费认领和找回被浪费税金的主要任务。记录显示，一位国家科学家的高级官员花了至少331天时间寻找他的政府电脑里的色情图像。而这一任务花费的税金为58000美元。
+➜中国矮人建立了自己的村庄
+https://www.solidot.org/story?sid=13947	23280
+Metro.co.uk报道，<a href="http://www.metro.co.uk/weird/article.html?Chinese_dwarves_set_up_their_own_village&amp;in_article_id=745272&amp;in_page_id=2">中国的矮人们建立了自己的村庄</a>，以避开正常人对侏儒的歧视。这个村庄位于云南昆明的一个山区，居民身高全都低于1.30米。他们的人数总共为120人，然而分工明确，甚至有警察部队和消防队。由于外形如蘑菇的奇特建筑物，以及穿着类似童话中人物的衣着，这个村庄正成为旅游胜地。
+➜Google Wave中文入门指南
+https://www.solidot.org/story?sid=13948	27360
+<a href="http://www.kangye.org/">康爷</a> 写道 <i>"Google Wave马上又要发放100000个邀请了，具体的邀请政策可以看<a href="http://www.readwriteweb.com/archives/everything_you_need_to_know_about_the_google_wave.php">ReadWriteWeb的文章</a>。如果你想第一时间收到我的邀请或者提名，欢迎在博客中留下你的EMail或者在Twitter上回复我。（我的Twitter:@lookon)本文为<a href="http://www.kangye.org/google-wave-tuterial/">Google Wave中文入门文档</a>，会持续更新的，希望大家多多宣传~"</i>
+➜用GPS测量积雪的厚度
+https://www.solidot.org/story?sid=13949	27900
+全球定位仪（GPS）可以帮助你找到餐厅旅馆，现在科学家发现了另一种用途：将其放置于地面的一个平台上，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/929/2?rss=1">GPS接收器可以测量积雪的厚度</a>，研究人员因此可以创建一个实时的降雪地图。<a href="http://www.agu.org/pubs/crossref/2009/2009GL039430.shtml">报告</a>发表在《地球物理学研究》杂志上。这项研究有助于改进天气预报和更好的追踪降雪模式。<i>
+研究地球表面微观运动的研究人员常发现GPS接收器带来的麻烦多过好处，因为GPS卫星信号会在地面反弹后被接收器的天线接收到，形成的共鸣在信号中产生了噪音。此种共鸣使得精确测量变得更困难，比如研究地球板块移动需要毫米精确度。科罗拉多大学的地球物理学家Kristine Larson和同事试图找到一种方法能让共鸣变成好事。她们在校园内安装了GPS接收器，以检查土壤湿度是否会影响信号。结果却有了一个意料之外的发现：雪会减慢反射回去的GPS信号，而延迟相当于雪的深度。研究人员相信这一发现可用于直接测量积雪。最近美国国家科学基金会安装了一个由1100个GPS接收器组成的网络，以测量板块移动和火山活跃度。Larson认为收集到数据可同时用于测量积雪厚度。</i>
+➜埃及学者要求严惩人工处女膜进口商
+https://www.solidot.org/story?sid=13950	28800
+雅虎台湾报道，<a href="http://tw.news.yahoo.com/article/url/d/a/090929/5/1s17n.html">埃及商人进口人工处女膜装置遭查获并引发争议</a>(<a href="https://mosesproxy.appspot.com/tw.news.yahoo.com/article/url/d/a/090929/5/1s17n.html">Https</a>)，一位埃及学者要求将进口商判处死刑。<i>
+这种装置能在女性发生性行为时，排出类似血液的液体。这样就能在新婚之夜伪装成处女。部分保守的阿拉伯社会认为，婚前性行为是奇耻大辱。这项巧妙的设计是处女膜修补手术之外，较为廉价又简便的选择。处女膜修补手术在中东地区，只能秘密地到某些诊所进行。人工处女膜由中国制造，在叙利亚的上市价格为15美元。al-Azhar大学教授 Abdul Mouti Bayoumi认为这会削弱吓阻通奸的道德规范力，表示供应这类装置等同在社会各角落散播罪恶，依照伊斯兰律法可处以死刑。埃及国会议员也要求禁止进口这种装置。</i>
+➜历史上的阅兵仪式
+https://www.solidot.org/story?sid=13951	32400
+《纽约客》的一篇文章以问答的形式，请澳大利亚历史学教授<a href="http://rspas.anu.edu.au/people/personal/barmg_pah.php">Geremie R. Barmé</a>回答了与大阅兵相关的各种问题，解释<a href="http://www.newyorker.com/online/blogs/evanosnos/2009/09/geremie-r-barme.html">为什么有些国家会举行阅兵</a>这样的仪式，比如明天的纪念60周年的大阅兵。
+<i>
+一个有意思的问题是：共产党统治之前中国是否有阅兵的传统？Barmé教授回答是：中国历史上第一次记录表达“胜利”的阅兵是在公元前八世纪的经典占卦著作《<a href="http://zh.wikipedia.org/zh-cn/%E6%98%93%E7%BB%8F">易经</a>》中。根据1973年出土的、公元前二世纪的《易经》版本，第三十卦<a href="http://zh.wikisource.org/wiki/%E5%91%A8%E6%98%93/%E9%9B%A2">离卦</a>中有以下描述：“上九：王用出征，有嘉折首，获其匪丑，无咎。象曰：王用出征，以正邦也。”中国古代的君王经常举行阅兵庆典。以清朝（1644-1911）为例，皇帝是在紫禁城正门的午门城头检阅部队，作为奴隶的俘虏和获取战利品会在底下排列成一个大的正方形，战利品包括掠夺来的财产，俘虏的头颅及割下来的左耳。值得注意的是，古中文字“国”刻画的就是一个割掉左耳的囚犯。</i>
+➜Mozilla抨击Chrome Frame是“把浏览器搞乱”
+https://www.solidot.org/story?sid=13952	35640
+对于Google释出的改进IE糟糕性能的插件Chrome Frame，Mozilla的一位高层进行了抨击，<a href="http://tech.slashdot.org/story/09/09/29/2052248/Mozilla-Slams-Chrome-Frame-As-Browser-Soup">认为Google此举是将浏览器搞得乱七八糟（browser soup）</a>。Mozilla就此也卷入了Chrome Frame引发的争论当中，并站在了竞争对手微软的同一阵线。Mozilla前CEO，现Mozilla基金会主席Mitchell Baker<a href="http://blog.lizardwrangler.com/2009/09/28/browser-soup-and-chrome-frame/">在博客上</a>称：<i>
+“Chrome Frame的整体效果不是很好。我认为它带来的好处将难以持久——这将取决于其被采用的程度。最终它将变得分崩离析，包括Web开发者在内的大多数用户都将难以驾驭。”Chrome Frame采取的浏览器置入策略会使用户感到困惑，并使用户已熟悉的工具失效。“一旦浏览器置入了多个核心，就很难在多个网站间管理数据。有些数据从IE管理，有些则是Chrome Frame。浏览器的重要作用之一帮助用户管理上网体验，而Chrome Frame会导致浏览器在这一点上失力。” Baker<a href="http://it.sohu.com/20090930/n267111416.shtml">认为</a>Chrome Frame最大的问题，是将浏览器的控制权交给了网站，而不是上网用户，“对大多数而言，Chrome Frame会导致互联网更加不可知和令人困惑。想象一下，你下载了Chrome Frame，然后浏览某个网站，你使用的是哪个核心？现在这取决于网站，而不是你。”</i>
+➜谷歌推出北京交通限行地图
+https://www.solidot.org/story?sid=13953	46800
+谷歌中国博客<a href="http://googlechinablog.com/2009/09/blog-post_3638.html">宣布</a>，“<a href="http://ditu.google.cn/maps/mpl?moduleurl=http:%2F%2Fchinamaps.googlecode.com%2Fsvn%2Ftrunk%2Fapps%2Fnational_day%2Fnational_day.xml&amp;ie=UTF8&amp;ll=40.145289,116.195526&amp;spn=0.558472,0.883026&amp;z=10&amp;brcurrent=3,0x35f0f06ba870ac75:0x470cc62b53ab9e78,1%3B5,0,1">国庆北京交通限行地图</a>”上线，以谷歌地图的形式图示北京市在国庆期间，即10月1日至8日国庆长假期间的交通限行区域和路线。<i>
+谷歌“国庆北京交通限行地图” 包括机动车限行、载货汽车和载客汽车限行、机动车绕行路线，针对不同车型的限行道路可以根据道路的颜色明显地区分，在地图上分别标志为红色线路、蓝色线路和绿色线路。地图页面同时提供了一份北京国庆交通限行的日历表，默认显示“今日交通管制”，点击日期，就可以看到其他日期的详细交通限行信息，其中包括了限行的路段和时间段，以及限行车辆的类型。</i>
+➜appspot无法访问
+https://www.solidot.org/story?sid=13954	48360
+<a href="mailto:ryutlis@gmail.com">ryutlis</a> 写道 "前几天tor工作不正常了，而一直庆幸自己依然可以利用<a href="https://www.appspot.com/">appspot</a>做点事情的，今天也终于被墙了。<br>很是郁闷了...           ＃ tracert www.appspot.com<br>traceroute to www.appspot.com (74.125.19.141), 30 hops max, 40 byte packets<br>
+&nbsp; 1  －.－.－.－ (－.－.－.－)  3.654 ms  3.919 ms  4.229 ms<br>
+&nbsp; 2  －.－.32.0 (－.－.32.0)  4.576 ms  4.855 ms  5.222 ms<br>
+&nbsp; 3  －.10.2.246 (－.10.2.246)  6.777 ms  7.128 ms  7.435 ms<br>
+&nbsp; 4  * * *<br>
+&nbsp; 5  * * *<br>
+&nbsp; 6  * * *<br>
+&nbsp; 7  * * *<br>
+&nbsp; 8  * * *<br>
+&nbsp; 9  * 202.99.57.42 (202.99.57.42)  8.531 ms  8.709 ms<br>10  221.239.18.133 (221.239.18.133)  20.933 ms  21.811 ms  22.194 ms<br>11  221.239.7.49 (221.239.7.49)  23.514 ms  23.900 ms  24.241 ms<br>12  221.238.222.157 (221.238.222.157)  12.706 ms * *<br>13  * * *<br>14  * * *<br>15  * * *<br>16  * * *<br>17  * * *<br>18  * * *<br>19  * * *<br>20  * * *<br>21  * * *<br>22  * * *<br>23  * * *<br>24  * * *<br>25  * * *<br>26  * * *<br>27  * * *<br>28  * * *<br>29  * * *<br>30  * * *"

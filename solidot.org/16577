@@ -1,0 +1,56 @@
+➜中国的图书审查
+https://www.solidot.org/story?sid=44157	10375
+美国笔会中心<a target="_blank" href="http://www.pen.org/censorship-and-conscience"><u>发表了</u></a>一份中国图书审查报告《<a target="_blank" href="http://www.pen.org/sites/default/files/PEN_Censorship-and-Conscience_5-20-15.pdf"><u>审查和良心——外国作者和中国的审查挑战</u></a>》(PDF)。报告称中国是最大的图书市场之一，每年有数以万种的外文书籍被引入中国。但在翻译出版过程中，有许多书籍遭到了内容审查。报告列举了一系列图书被审查的案例，有基辛格的《论中国》和傅高义《邓小平时代》等政治性著作，也有非政治性的但涉及到性的著作。<i>美国笔会中心执行主任苏珊·诺瑟称，“当中国读者阅读外国作品的大陆中译本时，他们并不知道那些历史或政治读物已经根据中国政府的需要被审查和删减过，而这并非外国作者的意愿。”对中国读者来说，<a target="_blank" href="http://www.voachinese.com/content/pen-china-censorship-20150521/2782141.html"><u>他们有权了解他们并没有得到全部内容</u></a>；“阅读是读者与作者之间的私密关系，现在在这一关系中插进了一个中间人，那就是中国政府。因此，读者和作者双方有权知道政府在他们中间做了什么。”傅高义表示，“没有人愿意自己的作品被审查，但是为了要在大陆出版，他们说如果你不删减，就不可能在中国出版。”在畅销小说《每个女人都应知道男人的秘密》的经纪人同意后，中国出版商在小说中译本中删除了30%的内容，而作者巴巴拉·德·安格雷丝却完全不知情。报告说，因为中国出版商认为小说中描述睡房秘密和建议的性内容太露骨。美国笔会中心表示，中国现在提高了图书的出版预付版税和版税，因此外国作者和出版商可能做出更多妥协和让步，这对言论自由造成的影响引起了该组织的严重关切。</i>
+➜斯诺顿在莫斯科的生活充实
+https://www.solidot.org/story?sid=44158	11460
+曝光NSA机密的斯诺登(Edward Snowden)是叛徒还是爱国者？在上周五斯坦福大学的“杰出人士演讲”中，斯诺登被问道了这个问题，他的回答说“这不是关于我的问题，而是关于我们大家的。我不是英雄。不是叛徒。我跟房间里的每一个人一样，就是一名普通的美国人。”
+他希望有机会能重返美国。斯诺登目前在俄罗斯莫斯科避免，他通过视频的方式在全世界虚拟出席各种活动，生活相当的充实。斯诺登的批评者在2013年曾预测，在俄罗斯等待他的将是无人过问的苦涩生活。斯诺登的律师称，“他现在过得非常丰富多彩，<a target="_blank" href="http://cn.nytimes.com/usa/20150521/c21snowden/"><u>非常充实</u></a>”。“他已经成为了一位如此杰出的公众公民。他能够利用技术克服被放逐的窘境，参与到由他发起的讨论之中，多完美啊。”演讲费是斯诺登的主要收入来源，有时露一次面可以拿到超过1万美元。他的女友Lindsay Mills已经在莫斯科跟他团聚了。
+➜NSA劫持访问Google Play商店的连接，利用UC浏览器泄露的信息
+https://www.solidot.org/story?sid=44159	15078
+<div align="center"><img src="http://img.solidot.com.cn/0/739/liN8IWSfrbAOk.png" align="" width="480" height="368"><br>
+<img src="http://img.solidot.com.cn/0/740/lixjYvg0sP7MA.png" width="480" height="372"><br>
+<br>
+</div>
+原来NSA和GCHQ早就知道UC浏览器的秘密，并将其用于它们的情报收集工作。根据 Edward Snowden提供的<a target="_blank" href="https://www.documentcloud.org/documents/2083944-uc-web-report-final-for-dc.html"><u>NSA机密文件（PDF）</u></a>，NSA及其五眼同盟在2011年和2012年举行了一系列研究会，寻找新方法去监视智能手机。NSA利用它的网络监视系统XKEYSCORE去识别智能手机的流量，跟踪访问三星和Google应用商店的连接。作为代号为 IRRITANT HORN的试点项目的一部分，NSA<a target="_blank" href="https://firstlook.org/theintercept/2015/05/21/nsa-five-eyes-google-samsung-app-stores-spyware/"><u>开发出中间人攻击技术去劫持智能手机用户访问应用商店的连接</u></a>，允许他们向目标设备植入间谍软件，在用户不知情的情况下收集数据。根据机密文件（如图所示），NSA和GCHQ发现中国的UC浏览器会泄露用户手机的特征信息，部分泄露信息可能有助于情报机构发现正在策划的针对西方国家军事机构的秘密行动相关的通信通道。公民实验室刚刚发表报告称，UC浏览器会收集和传输设备识别码、手机塔和WIFI信息，以及DNS查询历史。
+➜qboot：运行在QEMU上的极简x86固件
+https://www.solidot.org/story?sid=44160	18157
+英特尔有一个叫Clear Containers的实验性项目，利用KVM和一些内核技巧创造极其轻量级的虚拟机。Clear Containers启动一个虚拟机只需要18-20 MB，启动时间只需要60ms。现在，Red Hat的 Paolo Bonzini<a target="_blank" href="http://lwn.net/Articles/645455/"><u>宣布了qboot</u></a>，运行在QEMU上的极简x86固件，它在Ivy Bridge Core i7上启动一个虚拟机只需要40ms，<a target="_blank" href="https://github.com/bonzini/qboot"><u>代码</u></a>托管在Github上，只有8KB大小。
+➜惠普将其中国网络及服务器业务出售给紫光
+https://www.solidot.org/story?sid=44161	18987
+清华紫光在周四晚间递交给深圳交易所的公告中称，公司将斥资至少23亿美元，收购惠普华三通信的51%股权。惠普在周四的公告中称，将与清华控股缔结伙伴关系，在中国建立一家集团公司，纳入华三通信的网络业务及其在中国的服务器、数据存储以及技术支持业务。惠普在公告中称，对华三的估值为45亿美元。路透<a target="_blank" href="http://cn.reuters.com/article/2015/05/22/hp-ziguang-idCNKBS0O708820150522"><u>援引知情人士的消息称</u></a>，惠普之前对华三的估值为55亿美元。自从前NSA合同工斯诺登(Edward Snowden)揭露美国企业涉入网络间谍计划之后，西方科技公司就一直难以争取到中国客户。很多西方企业目前正在寻找中国合作伙伴，或干脆向中国买家悉数出售资产。惠普<a target="_blank" href="http://cn.wsj.com/gb/20150521/tec125927.asp"><u>将保留</u></a>一些在政治上不太敏感的业务。
+➜浦志强因微博言论遭起诉
+https://www.solidot.org/story?sid=44162	24959
+被捕近一年的律师<a target="_blank" href="https://zh.wikipedia.org/wiki/%E6%B5%A6%E5%BF%97%E5%BC%BA"><u>浦志强</u></a>被正式遭到起诉，而根据起诉书，他的罪名主要是微博言论，被认为“利用信息网络，煽动民族仇恨，情节严重”，“公然辱骂他人，情节恶劣，破坏社会秩序”。北京大学宪法学家张千帆在《金融时报》上发表评论称<a target="_blank" href="http://www.ftchinese.com/story/001062147?full=y"><u>这是以言定罪</u></a>，警方的做法涉嫌违宪：
+<i>涉嫌侵犯被告受宪法第35条保护的言论自由，而且体现了公安与检察对于公民的基本人身自由缺乏敬畏，而在行使剥夺这一自由的公权力过程中显得过于轻率。浦志强的表达方式或许辛辣尖刻，但都是经过自己思考发表的负责任的言论。究竟是对是错，应该在言论自由、畅所欲言的环境下让每一个听众来决定，而不是被国家机器动用刑法手段强制沉默。如果把公安和检察比作国家机器的“胳膊”，那么让他们来决定公民能说什么、不能说什么，就如同“胳膊管脑袋”一样，如此治国显然是极其危险的...言论当中可能包含某些错误或有害信息，但是这些错误只有在一个自由交流和交锋的环境下才能得到辨别。换言之，要纠正言论的错误，必须通过更多的自由言论，而不是强迫沉默；如果国家强行中断讨论，真理和谬误反而会变得不清不楚。
+</i>
+➜中国最富有的人一小时内财富缩水150亿美元
+https://www.solidot.org/story?sid=44163	29399
+汉能董事局主席在一个小时内<a target="_blank" href="http://money.cnn.com/2015/05/21/investing/china-hanergy-stock-plunge/index.html"><u>财富缩水150亿美元</u></a>，而公司的市值蒸发了186亿美元。在香港股票交易市场，汉能的股价周三暴跌47%至50美分，目前其股价仍然只有56美分。汉能主席李河君未出席股东大会，官方<a target="_blank" href="http://cn.wsj.com/gb/20150521/biz093614.asp?source=mostpopular"><u>声明</u></a>称他去参加了在北京举行的清洁能源展示中心的开馆仪式。李河君持有公司超过8成的股权。另一家光伏产品生产商英利绿色能源周二在美国纽约股市暴跌37%。分析师指出，光伏产能扩大以及低迷经济导致需求降温，中国光伏电池生产商受到供需不平衡的冲击而陷入困境。在崩盘之前，汉能的股票在一年内增长了625%，在今年4月公司的市值超过450亿美元，让李河君超过阿里巴巴的马云成为中国最富有的人。
+➜Google Tone 让你用声音发送网址
+https://www.solidot.org/story?sid=44164	29859
+<a href="http://kejixianfengdui.blogspot.com/">fredericktcw</a> 写道 "一般上我分享网站网址都是Copy and paste，相信很多人都是一样。不过今天在<a href="http://techcrunch.com/2015/05/19/googles-tone-chrome-extension-lets-you-share-urls-by-sound/" target="_blank">TechCrunch</a>看到Google<a target="_blank" href="http://googleresearch.blogspot.co.uk/2015/05/tone-experimental-chrome-extension-for.html"><u>推出了</u></a>一个特别的<a target="_blank" href="https://chrome.google.com/webstore/detail/google-tone/nnckehldicaciogcbchegobnafnjkcne"><u>Chrome插件</u></a>，名为Google Tone。Google Tone特别的地方在于它是利用声音来分享网址的。<i>
+使用方法分常简单，在Chrome网络商店下载安装之后，当使用者想分享网址时，只需要点击Chrome右上方的Google Tone扬声器图标，就可以用自身的电脑发出声音分享网址。当其他同样安装了Google Tone插件的使用者的电脑听到该声音后，Chrome便会弹出通知并询问使用者是否要开启该网页。由于这个插件是基于声音操作，因此存在一个限制：声音的信息传递距离限制，特别是遇到墙壁等阻挡。因此这个插件更适用于小组讨论、聚会的时候使用。开发这一个插件的谷歌研究团队说，这一个插件的第一版非常有效，但声音听起来也很可怕。随后，他们尝试使用人们耳朵听不到的声音频段进行编解码。但是，一般的克风通常只针对人声进行了优化，因此效果不是很好。而刚推出的版本采用了与电话系统类似的“双音多频信号”系统，使用者在点击Google Tone图标之后只会听到短促的哔哔哔声。"</i>
+➜量子物理：真实究竟是什么？
+https://www.solidot.org/story?sid=44165	33147
+Owen Maroney担心物理学家花了上百年的时间去从事欺骗。他本人是牛津大学的物理学家。量子理论符合观察，但从未有过确凿无疑的证据。他认为，如果没有证据，我们不是在搞科研，而仅仅是解释黑板上有趣的波浪线。正是受这一想法的影响，Maroney和其他人<a target="_blank" href="http://www.nature.com/news/quantum-physics-what-is-really-real-1.17585"><u>设计出一系列新实验去揭开波函数的秘密</u></a>。波函数是物理学家用希腊字母Ψ去表示的一个数学对象，描述了粒子的量子行为，可用于计算出在特定位置观察到一个电子的概率，或计算出电子自旋方向是向上还是向下的可能性。但数学没有告诉我们波函数究竟是什么。它是一个物理实体？或者只是一种处理一个一无所知的世界的计算工具？到目前为止，这些实验还没有产生明确答案。但研究人员对于给出答案相当乐观。物理学家们将能真正回答诸如：一个粒子是否能同时出现在多个位置？客观真实是否真的存在？平行宇宙中是否真的有我们自身的替代版本？
+➜一种中药有效成分被发现能抑制食欲
+https://www.solidot.org/story?sid=44166	34809
+肥胖是现代生活的一种流行现象，世界卫生组织的数据显示，全世界有14亿成年人超重，其中5亿人（2亿男性3亿女性）肥胖，有研究预测到2030年肥胖人口将会超过10亿。肥胖会伴生许多慢性疾病，是发展出II型糖尿病的重要因素，肥胖会降低我们的生活质量。现在，哈佛医学院的研究人员在《细胞》上发表<a target="_blank" href="http://www.cell.com/cell/fulltext/S0092-8674%2815%2900559-0"><u>论文</u></a>（可阅读全文）称，一种中药有效成分被发现具有抑制食欲的效用。这种中药就是雷公藤（thunder god vine），它的有效成分雷公藤红素能增强一种叫瘦素（leptin）的食欲抑制激素的作用，<a target="_blank" href="http://www.ebiotrade.com/newsf/read.asp?page=2015521143900193"><u>发挥其强有力的减肥效应</u></a>。对实验鼠的研究发现，雷公藤红素通过减少食物摄取，燃烧储存脂肪减掉了45%的初始体重。
+➜程序员爸爸设计APP让哭闹的孩子睡觉
+https://www.solidot.org/story?sid=44167	37516
+<a href="http://blog.jobbole.com/all-posts/">程序员</a> 写道<i> "孩子出生后，无数个不眠之夜带来的疲惫和小沮丧，相信很多父母都（将会）熟悉。不过现在有个新 APP，或许能让那些睡眼惺忪的父母们美美地睡上几个小时。据每日邮报报道（<a href="http://blog.jobbole.com/85139/" target="_blank">中文</a>），这个专为三岁以下的小孩设计的应用名叫 <a target="_blank" href="http://sleepheroapp.com/"><u>SleepHero</u></a>，在检测到孩子哭声后，APP 能自动播放各种缓和的声音，包括鸟鸣声、心跳声、蟋蟀叫声等等。父母们也可以录音，比如读书或唱摇篮曲，来安抚宝宝们继续睡觉。"</i>
+➜阿里巴巴宣称UC浏览器的数据传输标准已经升级
+https://www.solidot.org/story?sid=44168	39557
+阿里巴巴旗下的UC浏览器被发现会被动的向自己的服务器传输用户设备识别码及其连接的移动或Wifi网络位置信息，这些信息传输到阿里巴巴服务器是没有经过加密的，很容易在传输中间拦截，用来实时或是事后跟踪目标所在的位置。美国情报机构NSA早在2012年就已掌握了这一信息，<a target="_blank" href="http://www.solidot.org/story?sid=44159"><u>并将其用于情报收集分析工作</u></a>。公民实验室<a target="_blank" href="https://citizenlab.org/2015/05/%E5%95%B0%E5%97%A6%E7%9A%84%E6%9D%BE%E9%BC%A0%EF%BC%9Auc%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E9%9A%90%E7%A7%81%E4%B8%8E%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98/"><u>称</u></a>，他们在5月19日检查了UC 10.4.1-576版，发现定位数据的传输已经加密，但其它信息没有加密。阿里巴巴<a target="_blank" href="http://tech.sina.com.cn/i/2015-05-22/doc-icpkqeaz5181788.shtml"><u>回应称</u></a>，UC浏览器已经发布新版，全面提升了信息安全加密级别，并指出百度、腾讯的应用也都存在明文传输问题。
+➜Mozilla将根据你的设置在Firefox新标签页展示广告
+https://www.solidot.org/story?sid=44169	42813
+在目录磁贴之后，Mozilla的数字广告计划<a target="_blank" href="https://blog.mozilla.org/futurereleases/2015/05/21/help-test-changes-to-new-tab-in-firefox-beta/"><u>进入到下一步</u></a>：<a target="_blank" href="https://wiki.mozilla.org/Tiles"><u>建议磁贴</u></a>——即在新标签页展示推荐的广告。这一功能将在下周合并到Beta版本中。作为一家开源以及注重隐私保护的公司，如何在不收集用户数据的情况下推荐广告？Mozilla<a target="_blank" href="https://blog.mozilla.org/advancingcontent/2015/05/21/providing-a-valuable-platform-for-advertisers-content-publishers-and-users/"><u>作出了一番解释</u></a>（<a target="_blank" href="https://blog.mozilla.org/advancingcontent/files/2015/05/How-data-is-protected-Infographic1.pdf"><u>示意图</u></a>）：整个过程，Mozilla不会使用Cookies或用户身份识别码跟踪用户，不会收集用户数据，也不会与广告商分享用户数据，浏览历史不会发送到Mozilla的服务器，一切都在浏览器本地完成，推荐系统将根据国家和语言从本地挑选出合适的磁贴广告在新标签页展示，用户能控制和关闭建议磁贴。如果浏览器的请勿跟踪（DNT）选项已经启用，你可能不会看到建议磁贴。
+➜LHC对撞能级达到创纪录的13TeV
+https://www.solidot.org/story?sid=44170	44190
+<div align="center"><img src="http://img.solidot.com.cn/0/741/liRSVj86WLu5s.png" align="" width="500" height="258"><br>
+<br>
+</div>
+欧洲粒子物理研究所<a target="_blank" href="http://press.web.cern.ch/"><u>宣布</u></a>，大强子对撞机（LHC）的质子测试对撞能级首次达到了创纪录的13TeV，比之前的记录高出60%。花了两年时间升级改造的LHC从今年4月开始重启，13TeV是LHC升级后能完成的标准对撞能级。LHC的测试还将会持续数周，预计将于6月初正式启动第二阶段的对撞实验。
+➜美国警方从比萨饼壳上发现谋杀案嫌疑人DNA
+https://www.solidot.org/story?sid=44171	46960
+华盛顿特区一个著名家庭一家三口加上管家全被人杀死，房屋也被人纵火烧毁。但警方最终还是识别了一名嫌疑犯，这名嫌疑人的DNA留在犯罪现场的<a target="_blank" href="http://edition.cnn.com/2015/05/21/us/dc-house-fire-money-motive/"><u>一块比萨饼壳上</u></a>。34岁的嫌疑人Daron Dylon Wint曾在American Iron Works工作过，而受害者Savvas Savopoulos是该公司的CEO兼主席。他及其妻子、10岁儿子和一名管家的尸体是于5月14日被前来扑火的消防员发现的。这起谋杀案被认为是为了钱，遇害者被扣押了可能超过一天，孩子也被认为在死前遭到折磨，在他们死前有人订购了达美乐比萨饼。Wint已于美国时间周四晚上11点<a target="_blank" href="https://www.newsday.com/news/nation/daron-dylon-wint-suspect-in-deaths-of-savvas-savopoulos-family-arrested-authorities-say-1.10457699"><u>被捕</u></a>，被控一级谋杀罪。

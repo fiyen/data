@@ -1,0 +1,52 @@
+➜广泛使用的 NPM 库被发现植入窃取比特币的后门
+https://www.solidot.org/story?sid=58728	13297
+广泛使用的 NPM 库 <a href="https://www.npmjs.com/package/event-stream">event-stream</a> 在被转让给新维护者之后<a href="https://arstechnica.com/information-technology/2018/11/hacker-backdoors-widely-used-open-source-software-to-steal-bitcoin/" target="_blank"><u>被发现</u></a>植入了窃取比特币的后门。这个库有 200 万下载量，被包括财富五百强在内的大小企业使用。它在 9 月 8 日释出的更新中加入了叫 flatmap-stream 的模块，当时这个模块没有恶意功能，但在 10 月 5 日释出的更新中该模块加入了窃取比特币钱包并转移出余额的功能。上周二 Github 用户 Ayrton Sparling <a href="https://github.com/dominictarr/event-stream/issues/116#issuecomment-440927400"><u>报告了</u></a>后门，本周一 NPM 才正式发出警告。恶意代码针对的是 Copay 钱包用户。Copay 开发的钱包应用在其代码中使用了 event-stream 依赖库。该公司一开始否认但最后<a href="https://blog.bitpay.com/npm-package-vulnerability-copay/"><u>承认</u></a>它释出的应用包含了后门版本的 event-stream。该公司称使用 versions 5.0.2 到 5.1.0 的用户受到了后门影响。使用这些版本的用户应该假定他们的私钥已经被窃取了，需要尽可能快的升级到 5.2.0 版本。过去几年，此类的软件供应链攻击已经日益常见。
+➜监管导致中国流感疫苗短缺
+https://www.solidot.org/story?sid=58729	13623
+针对中国疫苗制造商的更严格检查<a href="http://www.ftchinese.com/story/001080396"><u>导致流感疫苗短缺</u></a>，增加了大面积感染的风险，并突显出中国最高医药监管机构人手不足。在两家企业被曝销售了数十万支不合格的狂犬病以及百日咳、白喉、破伤风三合一疫苗后，国家药品监督管理局要求疫苗制造商接受生产现场检查。处于丑闻中心的长生生物科技公司去年生产的流感疫苗约占中国流感疫苗产量的 15%，现已被勒令停产。据分析师和业内人士透露，由于缺乏能够对其他生产商进行生产现场检查的人员，审批已被延迟。今年获准销售的流感疫苗数量已较去年同期下降 43%，至 1440 万支。
+➜event-stream 作者谈库的维护
+https://www.solidot.org/story?sid=58730	16720
+广泛使用的依赖库 event-stream 在被原维护者 <a href="https://github.com/dominictarr" target="_blank"><u>Dominic Tarr</u></a> 转让给 <a href="https://github.com/right9ctrl" target="_blank"><u>right9ctrl</u></a> 之后<a href="https://www.solidot.org/story?sid=58728" target="_blank"><u>被植入了</u></a>窃取比特币的后门，原维护者因此<a href="https://github.com/dominictarr/event-stream/issues/116"><u>遭到了谴责</u></a>，他在 GitHub 上发表声明<a href="https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a"><u>做出了回应</u></a>。他说，使用者将维护的负担压在作者身上，而他开发这个库不是出于利他动机，是因为好玩。从开发中学习并获得乐趣，将维护交给另一个人是因为分享也是一种学习。为什么要把这个软件包项目交给一个陌生人？因为当它不再有趣，你从维护中得不到任何东西。一开始他并没有从 right9ctrl 身上感受到恶意，他以为这是一位真心想帮助他的人。与其他贡献者分享 commit access/publish 权力在 node/npm 社区是很流行的。他认为有两种方法解决这个问题：给维护者钱，或者使用者也应该承担部分维护的责任。
+➜NASA InSight 在火星成功着陆
+https://www.solidot.org/story?sid=58731	18433
+NASA InSight 探测器在近 7 个月的飞行之后在火星表面<a href="https://www.nasa.gov/press-release/nasa-insight-lander-arrives-on-martian-surface-to-learn-what-lies-beneath"><u>成功着陆</u></a>。InSight 代表 Interior Exploration using Seismic Investigations, Geodesy and Heat Transport，通过测量热传输和地震活动探索红色星球的内部秘密，更深入的了解包括地球和月球在内的天体如何形成岩石表面。InSight 于今年 5 月 5 日在范登堡空军基地发射升空，11 月 26 日 15:01 EST 在 Elysium 平原着陆。探测器进入火星大气层时的时速 19,800 公里，通过一系列制动和减速历时 6 分半钟在火星着陆，它的任务将持续两年。
+➜华为在其手机上测试 Google 的 Fuchsia
+https://www.solidot.org/story?sid=58732	19319
+Google 正在开发替代 Android 的新操作系统 Fuchsia，它没有使用 Linux 内核，而是使用名叫 Zircon 的微内核，它设计能运行在手机和 PC 上。暂时还不清楚 Google 对 Fuchsia 究竟有何计划。Fuchsia 是一种开源操作系统，因此通过跟踪代码的变化我们能了解其开发进度和观察谁对该项目感兴趣。过去一年，华为的工程师向 Fuchsia 项目递交了一系列 commits，但没有迹象显示该公司计划使用 Fuchsia。但在上周，华为的工程师<a href="https://fuchsia-review.googlesource.com/c/zircon/+/228577"><u>透露</u></a>该公司正在其手机上<a href="https://9to5google.com/2018/11/22/google-fuchsia-huawei-honor-play/" target="_blank"><u>测试运行</u></a> Fuchsia。华为的 Honor Play 是首批测试 Fuchsia 的消费者智能手机。
+➜Windows 10 最新更新发现更多 bug
+https://www.solidot.org/story?sid=58733	25319
+Windows 10 最新更新  October 2018 Update 经历了一个月的延期，但延期并没有修复所有 bug，事实上<a href="https://arstechnica.com/gadgets/2018/11/latest-windows-10-update-breaks-windows-media-player-win32-apps-in-general/">用户发现了更多 bug</a>：Windows Media Player 在播放特定文件时拖动条失效，部分 Win32 应用无法被设置为特定文件类型的默认打开应用，比如你想用笔记本应用打开特定类型文件，你现在没办法做到。微软的 Windows 即服务策略最近受到了<a href="https://www.solidot.org/story?sid=58640" target="_blank"><u>越来越多的批评</u></a>，批评者呼吁软件巨人放慢脚步，花更多时间测试系统。
+➜特朗普预计对来自中国的 iPhone 和笔记本等产品加征 10% 关税
+https://www.solidot.org/story?sid=58734	26701
+美国总统特朗普接受华尔街日报<a href="https://www.wsj.com/articles/trump-expects-to-move-ahead-with-boost-on-china-tariffs-1543266545?mod=breakingnews">采访</a>（付费墙）时表示准备对来自中国的 iPhone 和笔记本等产品<a href="https://cn.reuters.com/article/trump-china-tariff-1126-mon-idCNKCS1NV2RD"><u>加征关税</u></a>。特朗普称他预计将 2,000 亿美元中国输美商品关税税率由目前的 10% 上调至 25%，并重申将对其余所有中国商品加征关税的威胁。特朗普称他接受北京要求推迟上调关税的可能性“非常低”。美国定于 1 月 1 日将 2,000 亿美元中国输美商品关税税率由 10% 上调至 25%。特朗普说，下一轮还可能对进口自中国的笔记本电脑和苹果的 iPhone 加征关税，这些商品在尚未被加征关税的 2,670 亿美元的中国输美商品之列。<a href="https://apple.slashdot.org/story/18/11/27/0157240/trump-suggests-us-could-slap-10-percent-tax-on-iphones-laptops-from-china" target="_blank"><u>特朗普说</u></a>，“我是说，税率可以定在 10%，这样大家就很容易承受。”
+➜美国最高法院听取苹果反垄断案
+https://www.solidot.org/story?sid=58735	28160
+苹果的用户只能通过官方的应用商店购买下载应用，而每次购买苹果会收取 30% 的提成。一群消费者提起集体诉讼，指控苹果滥用 iPhone 应用市场的垄断违反了联邦的反垄断法律，并导致消费者支付更高的费用。美国最高的九位大法官<a href="https://www.reuters.com/article/us-usa-court-apple/how-much-for-that-app-u-s-top-court-hears-apple-antitrust-dispute-idUSKCN1NU0JV" target="_blank"><u>周一开始审理此案</u></a>，决定消费者是否可以在这样的反垄断案中要求赔偿。苹果称法官站在原告一边将威胁到每年销售额数千亿美元的电子商务新兴领域 。原告及反垄断组织则称，法官如果站在苹果一边则可能导致垄断行为不受限制的扩大。苹果称它只是充当了向消费者销售应用的开发者的代理人。
+➜德国仿星器聚变装置实现最长 100 秒放电
+https://www.solidot.org/story?sid=58736	30142
+德国仿星器聚变装置 Wendelstein 7-X <a href="https://www.ipp.mpg.de/4550215/11_18" target="_blank"><u>报告</u></a>在 7 月 到 11 月的实验中实现了最长 100 秒的放电时间，这是仿星器类型聚变装置的最高纪录。Wendelstein 7-X 已经启动了下一轮升级以实现更大的热功率和更长的放电时间。它还将研究在发电厂使用此类设备的适用性。仿星器是与托卡马克相竞争的聚变装置，托卡马克是利用磁约束实现受控核聚变，而<a href="https://zh.wikipedia.org/wiki/%E4%BB%BF%E6%98%9F%E5%99%A8" target="_blank"><u>仿星器</u></a>模拟恒星内部的核聚变，是以磁场约束核聚变等离子体，稳定运行提供动力的实验装置。
+➜德国制定路由器安全指南
+https://www.solidot.org/story?sid=58737	34307
+德国政府<a href="https://tech.slashdot.org/story/18/11/26/1638216/germany-proposes-router-security-guidelines"><u>公开了</u></a>保护 Small Office and Home Office (SOHO)路由器的安全指南草案，结合了来自硬件厂商、电信公司和社区的意见。这个安全指南是自愿性质的，批准之后路由器厂商也不需要必须遵守，但如果遵守的话他们可以在产品上添加合规的特殊标签。安全指南规定，路由器只开放 DNS、HTTP、HTTPS、DHCP、DHCPv6 和 ICMPv6 服务，秘密后门显然是违反规定的。
+➜澳大利亚留学生在学习一年后英语沟通能力仍然欠佳
+https://www.solidot.org/story?sid=58738	35413
+在澳大利亚一所顶尖大学中，一名人文类学科高级讲师打开她办公室的门，一名神情紧张的年轻留学生在另一名女性的陪同下前来。这名学生事先给这位讲师发送了邮件，表示想要换一个学位。但是马上问题就来了。“她没法讲英语，她无法理解我所说的任何东西，” 陪同这名学生的女子，讲师本以为是她的朋友，但其实只是她为这次会面雇的一位口译员。这个学生读完了她学位的第一年，却没有说英语的能力。数据显示，澳大利亚目前拥有大约 75.3 万名国际学生，其中有约 38 万名在接受高等教育。来自中国的学生占总数的 30%。<a href="https://www.abc.net.au/chinese/2018-11-27/are-australian-universities-using-intl-students-as-cash-cows/10558224"><u>国际学生普遍存在沟通问题</u></a>。皇家墨尔本理工大学的 Jenny Weight 说，“我读过许多国际学生写的作业，看着就像用中文写完后使用谷歌翻译成英文的一样。” 在该校攻读媒体专业硕士的 Lu Yi 称 “语言是一个大问题” ，并补充道国际学生通常在教室中讲英语时会感到气馁或者不自在。“他们[中国学生]不和本地学生讲话因为他们以为本地学生也不想和他们讲话，而且他们倾向于在大学当中组成小圈子，” 她说。
+➜研究发现被感染的蚂蚁会主动隔离
+https://www.solidot.org/story?sid=58739	37685
+根据发表在《科学》期刊上的一项<a href="http://science.sciencemag.org/content/362/6417/941"><u>研究</u></a>， 瑞典洛桑大学的科学家利用自动化的蚂蚁追踪系统研究了黑蚁群。这些蚁群中的工蚁被分成在巢穴内照顾幼蚁的护理者和在外面搜集食物的觅食者。后者很有可能被感染。研究人员将一些觅食者暴露在棕色绿僵菌的孢子中。这些孢子粘在蚂蚁的表皮层上，会在一两天后进入蚂蚁体内然后将其杀死。在暴露于这种病原体的一天内，工蚁群体之间的隔离被强化。暴露的觅食蚂蚁改变了行为，花更多时间呆在巢穴外并减少同其他工蚁的接触。未暴露于病原体的觅食者也在逐步将自己隔离，同时护理者将幼蚁移动到巢穴深处。目前尚不清楚蚂蚁是<a href="http://news.sciencenet.cn/htmlnews/2018/11/420412.shtm"><u>如何识别感染的</u></a>，它们或许能探测到其他蚂蚁以及自己身上的孢子。研究人员承认，“我们无法真的让病人像蚂蚁一样将自己隔离然后死去”。
+➜YouTube 将删除所有注释
+https://www.solidot.org/story?sid=58740	40941
+使用 Google 的服务总是要做好服务关闭或有用功能移除的准备。YouTube 曾提供了一个注释功能，可用于修正视频内容，显而易见这不是一项高使用频率的功能，Google 也知道这一点，所以它决定杀死它，连同所有的注释。因为使用量下降，Google 于 2017 年 5 月 2 日起停用注释编辑器功能。现在它<a href="https://support.google.com/youtube/answer/7342737"><u>宣布</u></a>，从 2019 年 1 月 15 日起，将不再向观看者显示现有注释。系统将移除所有现有的注释。
+➜Chrome 和 Firefox 开发者计划移除对 FTP 的支持
+https://www.solidot.org/story?sid=58741	43546
+Chrome 和 Firefox 开发者<a href="https://www.bleepingcomputer.com/news/google/chrome-and-firefox-developers-aim-to-remove-support-for-ftp/" target="_blank"><u>都计划移除对 FTP 协议的支持</u></a>，理由是 FTP 不安全会增加攻击面。目前用户在浏览器地址栏输入一个 FTP 服务器图像文件地址，浏览器会尝试直接渲染，在浏览器里直接显示图像。Google 开发者多年来一直都试图移除对 FTP 的支持，改变浏览器行为，不在浏览器里直接渲染图像而是下载文件，而 FTP 服务器的目录则会继续显示。FTP 的 RFC 文件最早是在 1971 年发表的，它在 BBS 时代得到了广泛传播，被用于下载软件和共享文件。但它的协议非常繁琐，两个主机之间需要大量的对话才会开始传输数据，而且不支持原生的加密。<a href="https://www.solidot.org/story?sid=52216"><u>Debian</u></a> 和&nbsp; Linux内核官网 kernel.org 都<a href="https://www.solidot.org/story?sid=51218"><u>关闭了</u></a> FTP 服务器，而 Chrome 也把 FTP 网站<a href="https://www.solidot.org/story?sid=53854"><u>标记为不安全</u></a>。
+➜基因编辑婴儿令科学家震惊
+https://www.solidot.org/story?sid=58742	44718
+南方科技大学的科学家贺建奎宣布了诞生首例基因编辑婴儿，虽然他没有公布任何研究细节，也没有向科学期刊递交同行审议论文，但熟悉他的专家表示他确实完全有可能做到。122 名中国科学家随后发表联署声明，称贺建奎的行为“疯狂”，他的言论“对于中国科学在全球的声誉和发展都是巨大的打击”。<span>贺建奎则表示，</span>他希望成为以正当理由进行基因编辑的榜样，“我有强烈的责任感，不仅要做第一个，而且要让它成为样本，社会会决定下一步该做什么。”俄勒冈健康与科学大学胚胎细胞和基因治疗中心主任<span> Shoukhrat Mitalipov <a href="https://cn.nytimes.com/science/20181127/gene-editing-babies-china/"><u>也倍感震惊</u></a></span><span>，他说他的工作主要是编辑导致严重疾病的突变，而且这种突变无法以任何其他方式被阻止，与他的工作不同，贺建奎做的工作并没有任何医学上的必要。还有其他方法可以防止新生儿的 HIV 感染。</span>这不是中国基因编辑研究第一次因为伦理问题遭到质疑。2015 年 4 月，中山大学教授黄军的团队完成了全球第一次在人类胚胎进行的基因修改实验。<a href="http://zqb.cyol.com/html/2018-11/27/nw.D110000zgqnb_20181127_7-01.htm"><u>但贺建奎试验的性质被认为与黄军截然不同</u></a>。中国医学科学院生命伦理学研究中心执行主任、北京协和医学院教授翟晓梅说，“就是学术失范，有很大的问题。”她说，“孩子都生出来了，才跟学术界报道，太过分了！而且我们国家的现有的法律法规都是禁止这么做的。”“这就是一个广告。”翟晓梅说，贺建奎在实验完成后不进行同行评议，先向媒体发布非常不妥当，“媒体不了解这种情况，会铺天盖地地向公众传递一些可能不准确的信息。”
+➜因 Google 未屏蔽“非法网站”俄罗斯提起民事诉讼
+https://www.solidot.org/story?sid=58743	46548
+俄罗斯对 Google <a href="https://venturebeat.com/2018/11/26/russia-launches-civil-case-against-google-over-non-removal-of-search-results/" target="_blank"><u>提起民事诉讼</u></a>
+，指控搜索巨人未遵守法律要求从搜索结果里移除某些条目。俄罗斯指责 Google 没有加入它认为含有非法信息的网站黑名单，因此违反了法律。最终裁决预计会在 12 月宣布。过去五年，俄罗斯推出了更严的网络法，要求搜索引擎删除一些搜索结果，要求即时通讯服务与安全服务分享加密密钥，并要求社交网络将俄罗斯用户的个人数据存储在俄罗斯国内的服务器上。但目前俄罗斯的主要惩罚手段是罚款，且金额不高，这起诉讼对 Google 的罚款预计最高 70 万卢布约 1 万多美元。俄罗斯正在考虑<a href="https://www.solidot.org/story?sid=58722"><u>加大处罚力度</u></a>。
+➜只需照束光就能诊断早期糖尿病和心脏病
+https://www.solidot.org/story?sid=58744	56336
+<a href="/~千面">千面</a> 写道 <i>"代谢疾病来势汹汹，尽早诊断能得到及时治疗。荷兰格罗宁根大学的研究人员<a href="https://www.ncbi.nlm.nih.gov/pubmed/30460578"><u>根据</u></a>血糖在体液中会与其他蛋白质结合，血糖过高，与血糖结合的蛋白质含量就越高，这些糖基化终产物会发出和未糖基化蛋白质不一样的荧光，并根据荧光信号进行诊断分析，这是目前最简单方便的诊断糖尿病和心脏病的方法，可以对人口进行简单筛查，有望促进公共健康。"</i>

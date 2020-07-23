@@ -1,0 +1,59 @@
+➜卡内基梅隆大学计算机系如何把女生比例从7%提高到42%
+https://www.solidot.org/story?sid=36420	7160
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道 <i>"计算机专业在全美排名第一的卡内基梅隆大学，1995年时发现其计算机系的新生中女生比例仅为7%。当时的副系主任Allan Fisher高瞻远瞩，本着为男生谋福利的精神，和社会学家Jane Margolis一起努力，到2000年就成功地把新生小师妹的比例提高到42%，获得了高年级师兄们的一致赞誉。 他是怎么做到的呢？主要有以下<a href="http://www.hackingplay.com/carnegie-mellon-study-on-gender-and-computer-science/#sthash.fgP7HCa1.z7dKNqm8.dpbs" target="_blank">4点经验</a>（<a href="http://www.jobbole.com/news/337" target="_blank">译文</a>）：&nbsp;
+①把"魔爪"伸向中学。
+②在录取过程中"做手脚"。
+③在新生课程里"偷梁换柱"。
+④鼓励女生"拉帮结派"。"</i>
+➜Valve宣布Steam游戏分享功能
+https://www.solidot.org/story?sid=36421	11798
+<div align="center"><img src="http://img.solidot.com.cn/0/670/liafxxhgAfYv.jpg" align="" height="180" width="320"><br>
+<br>
+</div>
+Valve<a target="_blank" href="http://store.steampowered.com/news/11436/"><u>宣布了</u></a>一个杀手级PC服务：数字游戏发行平台Steam将引入了<a target="_blank" href="http://store.steampowered.com/sharing/"><u>家庭分享功能</u></a>，允许玩家与家庭成员和亲密朋友分享Steam游戏库中的游戏。不是所有Steam游戏都支持家庭分享，需要第三方客户端像育碧uplay的游戏就不支持。除了这些游戏外，你可以与家人和朋友分享几乎完整的Steam游戏库，他们可以获取成就和储存进度存档。如果你想玩家人或朋友游戏库中的游戏，可以发送请求，验证机器，验证之后游戏库中就会出现该游戏，然后就可以安装和游戏。家庭分享机器验证的数量有限制，不能超过10台。这项功能类似于数字出租，一个分享的游戏只能同时由一个人玩，如果你开始玩一款分享给朋友的游戏，对方需要在几分钟内退出或者选择付费购买。家庭分享服务将在一周内开始beta测试。
+➜斯蒂芬·金雇人检查自己是否参考了斯蒂芬·金的作品
+https://www.solidot.org/story?sid=36422	14233
+斯蒂芬·金写了数十本恐怖、悬疑、科幻和奇幻小说，是历史上最畅销的小说家之一，其著作至今售出了<a target="_blank" href="http://en.wikipedia.org/wiki/List_of_best-selling_fiction_authors"><u>超过3亿本</u></a>。他的小说包含了无数的故事和错综复杂的人物，为了防止在新书中把旧的故事写进去，他需要有能熟知其小说的人帮他进行事实核查。他<a target="_blank" href="http://www.wired.com/underwire/2013/09/ap_doctorsleep/"><u>因此雇用了</u></a>澳大利亚恐怖小说作家Rocky Wood——斯蒂芬·金作品的权威专家，编辑了6000页的百科全书《斯蒂芬·金作品完整指南》——没有人，甚至包括金本人，比他更了解金的作品了。
+➜FreeBSD默认不再用GCC构建
+https://www.solidot.org/story?sid=36423	16431
+FreeBSD<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTQ1ODc"><u>默认不再用GCC构建</u></a>。早在去年底，FreeBSD就<a target="_blank" href="http://www.solidot.org/story?sid=32164"><u>宣布</u></a>用Clang/LLVM替代GCC作为默认的C/C++编译器。相比采用GPLv3许可证的GCC，Clang有更自由的授权。根据最新的<a target="_blank" href="http://svnweb.freebsd.org/base/head/UPDATING?r1=255348&amp;r2=255347&amp;pathrev=255348"><u>报告</u></a>，GCC和libstdc++ C++标准库已各自被LLVM Clang和libc++所取代。到目前为止，GCC仍然是FreeBSD基本系统的一部分，但对于Clang支持的处理器架构如x86和x86_64/amd64，GCC已经被移除。FreeBSD项目正在开发<a target="_blank" href="https://wiki.freebsd.org/WhatsNew/FreeBSD10"><u>FreeBSD 10</u></a>，计划在2014年发布，其中一个重要新功能是全新开发的BSD管理程序 <a target="_blank" href="https://wiki.freebsd.org/action/show/bhyve"><u>Bhyve</u></a>。
+➜平板电脑销量即将超过PC
+https://www.solidot.org/story?sid=36424	16794
+研究公司IDC称，受年底假日购物季推动，预计今年第四季度全球平板电脑发货量将达到8410万台，<a target="_blank" href="http://cn.wsj.com/gb/20130912/tec100317.asp"><u>超过</u></a>该公司对PC发货量8310万台的预期。2013年全年的PC销量依然会高于平板电脑。IDC认为平板电脑的销量要到2015年才会超过PC。过去几年， PC市场经历了从停滞到负增长的过程。分析师指出，就算是在中国和其他新兴市场，多数平板电脑购买者同时也拥有PC，表明平板电脑还没有取代PC，尽管平板电脑推迟了消费者更换老化笔记本电脑的时间。
+➜下一代Kindle Fire HD配置与Nexus平板相差无几
+https://www.solidot.org/story?sid=36425	25072
+<div align="center"><img src="http://img.solidot.com.cn/0/671/liaZRfYzpojMs.jpg" align="" height="186" width="280"><br>
+</div>
+<br>
+BGR<a target="_blank" href="http://bgr.com/2013/09/11/amazon-kindle-fire-hd-2-pictures-exclusive/"><u>公开了</u></a>多张亚马逊下一代Kindle Fire HD的照片和相关信息，亚马逊的新平板在配置上与Google最新2013年版Nexus 7平板相差无几。报道称，亚马逊将会在未来几周公开新平板。Kindle Fire HD包括7英寸和8.9英寸型号，具有全新的外形设计，采用了矩形圆角设计风格。配置方面的信息是：7英寸型号1920×1200分辨率，2GHz+ Snapdragon 800处理器，2GB内存，可选16、32或64GB，可选WIFI或手机网络；8.9英寸型号的配置与7英寸基本一致，显示屏分辨率达到了2560×1600，8百万像素摄像头。平板将运行亚马逊深度定制的Android 4.2.2系统，7英寸的Kindle Fire HD将在未来几周发布，8.9英寸型号发布时间则是在年底。
+➜微软例行补丁引发更多问题
+https://www.solidot.org/story?sid=36426	28830
+微软周二发布了例行补丁，但用户自动更新之后却<a target="_blank" href="http://www.infoworld.com/t/microsoft-windows/microsoft-botches-still-more-patches-in-latest-automatic-update-226594"><u>引发了更多问题</u></a>。存在问题的补丁包括 <a target="_blank" href="http://support.microsoft.com/kb/2817630/en-us"><u>KB 2817630</u></a>、<a target="_blank" href="http://support.microsoft.com/kb/2810009/en-us"><u>KB 2810009</u></a>、<a target="_blank" href="http://support.microsoft.com/kb/2760411/en-us"><u>KB 2760411</u></a>、<a target="_blank" href="http://support.microsoft.com/kb/2760588/en-us"><u>KB 2760588</u></a>和<a target="_blank" href="http://support.microsoft.com/kb/2760583/en-us"><u>KB 2760583</u></a>。KB 2817630和KB 2810009是Microsoft Office 2013的bug修正补丁，但却引入了新的bug，许多用户<a target="_blank" href="http://social.technet.microsoft.com/Forums/lync/en-US/8ebce46d-1645-4909-8951-d1ca954179ac/outlook-2013-folder-pane-is-empty?prof=required"><u>反映</u></a>称Outlook 2013的文件夹窗格消失了，卸载之后又恢复了。另外三个是Office 2007的补丁，但出现了反复更新的情况，也就是你安装一次之后自动更新程序会再次试图更新，一次又一次。
+➜Linux 3.12代号Suicidal Squirrel
+https://www.solidot.org/story?sid=36427	31192
+为了追思微软的Windows for Workgroups 3.11，Linus Torvalds给Linux 3.11起了一个代号“Linux for Workgroups”并设计了<a target="_blank" href="http://www.solidot.org/story?sid=35600"><u>一个新的logo</u></a>。现在他也给正在开发的Linux 3.12起了<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTQ1OTg"><u>带有自嘲意味的代号</u></a>“Suicidal Squirrel（自杀的松鼠）”。此前他的工作站SSD发生故障导致Linux 3.12合并暂时停止。公布新的代号显示他的工作站已经恢复，预计Linus会在未来几天发布 Linux 3.12-rc1。Linus<a target="_blank" href="http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=d5d04bb48f0eb89c14e76779bb46212494de0bec&amp;utm_source=anzwix"><u>表示</u></a>，至少在可预见的未来几年内，不会有Linux 95发布。
+➜艾滋病候选疫苗能清除体内所有病毒
+https://www.solidot.org/story?sid=36428	33151
+俄勒冈健康科学大学研发的一种艾滋病候选疫苗在动物实验中<a target="_blank" href="http://www.ohsu.edu/xd/about/news_events/news/2013/09-11-ohsu-vaccine-candidate-a.cfm"><u>显示能清除体内所有的艾滋病病毒的能力</u></a>。<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12519.html"><u>论文</u></a>发表在最前一期的《自然》期刊上。这项研究针对的是猴免疫缺陷病毒（SIV）——即猴子版艾滋病病毒，研究人员希望能进一步发展出人类艾滋病候选疫苗。至今为止，艾滋病治愈病例寥寥无几，仅有的几例是在感染早期使用干细胞移植进行治疗。研究人员的方法是利用一种常见病毒巨细胞病毒（CMV），他们注意到配对CMV和SIV产生了意想不到的效果。研究人员发现，一种修改版的CMV能改变SIV蛋白质生成的表达，无限期维持效应记忆T细胞，T细胞是免疫系统的重要组成部分，能搜索和消灭SIV感染的细胞。在实验中，感染SIV的猴子在注射疫苗后体内的病毒痕迹被全部清除。
+➜研究人员在活体内制造干细胞
+https://www.solidot.org/story?sid=36429	34725
+据发表在《自然》上的一篇<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12586.html"><u>报告</u></a>，研究人员没有借助培养皿，而是直接在活鼠身上将成年细胞<a target="_blank" href="http://www.nature.com/news/stem-cells-created-in-living-mice-1.13725"><u>重新编程为胚胎干细胞</u></a>。通过略过在体外培育干细胞然后再移植到体内这个过程，新的方法将能加快发展再生疗法。为了在活体内重新编程细胞，研究人员首先创造出转基因老鼠，转基因老鼠能表达四种用于培育诱导多功能干细胞（iPS） 的基因，通过喂养抗生素doxycycline激活基因。
+➜NSA与以色列分享情报，其中包括美国公民的信息
+https://www.solidot.org/story?sid=36430	36983
+美国国家安全局（NSA）甚至帮助外国情报机构<a target="_blank" href="http://arstechnica.com/tech-policy/2013/09/nsa-hands-over-data-on-signals-intelligence-data-to-israel/"><u>监视美国公民</u></a>。根据前NSA合同工Edward Snowden泄漏的<a target="_blank" href="http://www.theguardian.com/world/interactive/2013/sep/11/nsa-israel-intelligence-memorandum-understanding-document"><u>文件</u></a>，NSA与以色列<a target="_blank" href="http://www.theguardian.com/world/2013/sep/11/nsa-americans-personal-data-israel-documents"><u>分享包括美国公民信息在内的未处理情报</u></a>。分享的情报包括了语音转录文本、要点摘录、传真、电报、语音，以及Digital Network Intelligence元数据和内容。NSA和以色列的情报分享是单方面的，并不需要以色列给予同等的回报，但要求以色列人尊重美国人隐私，限制数据使用，不能保留美国人身份数据超过一年。协议要求以色列立即销毁任何美国政府官员——包括行政立法司法官员——的来往通信。
+➜母亲为培养女儿独立谎称是后妈
+https://www.solidot.org/story?sid=36431	38771
+虎妈狼父之后多了一位<a target="_blank" href="http://www.scmp.com/news/china-insider/article/1308773/im-not-your-real-mother-chinese-mother-lies-daughter-encourage"><u>伪后妈</u></a>。十几年前，为了防止女儿在优越的环境中被宠坏，一位沈阳的母亲欺骗上小学的女儿说，“不是亲生的，你妈早死了”，声称大学毕业后就要她独自生活，此后女儿开始发奋读书，之后事业有成。很多人不赞同这位母亲的教育方式，一位大学毕业生站在女儿的角度指出，母爱在孩子心中是无法替代的，虽然现在事业有成，但当年的那句话，很有可能会在心中留下一道伤疤。心理咨询师黄宇女士<a target="_blank" href="http://www.chinareviewnews.com/doc/1027/3/4/6/102734672_2.html?coluid=7&amp;kindid=0&amp;docid=102734672&amp;mdate=0912092320"><u>认为</u></a>，教育孩子，让孩子独立是好的，但是这种教育方式并不适用于每个家庭，“我们更应该关注的是孩子的心灵成长，而不仅仅是孩子的学习成绩。”
+➜科学家直接改变大脑创造新记忆
+https://www.solidot.org/story?sid=36432	40951
+UC Irvine的科学家通过直接操纵大脑<a target="_blank" href="http://www.bio.uci.edu/2013/09/uci-led-study-creates-new-memories-directly-changing-brain/"><u>创造出了新的记忆</u></a>。研究报告发表在《Neuroscience》上。在研究中，研究人员首先向实验鼠播放特定的声音，然后直接刺激其大脑基底核，释放放乙酰胆碱(ACh)，乙酰胆碱是一种参与记忆形成的化学物质。此举增加了响应特定声音的脑细胞数据。接下来一天，研究人员向实验对象播放了多种不同的声音，当它们听到认识的特定声音之后，呼吸出现了加快的迹象，显示对大脑的直接改变创造出了特定的记忆内容。
+➜Edward Snowden获萨哈罗夫奖提名
+https://www.solidot.org/story?sid=36433	42604
+欧盟议会成员<a target="_blank" href="http://en.rian.ru/world/20130911/183359483/Snowden-Nominated-for-Freedom-of-Thought-Prize.html"><u>提名</u></a>前NSA合同工Edward Snowden为萨哈罗夫奖候选人。<a target="_blank" href="http://zh.wikipedia.org/zh-cn/%E8%90%A8%E5%93%88%E7%BD%97%E5%A4%AB%E5%A5%96"><u>萨哈罗夫奖</u></a>由欧洲议会设立，用以表彰捍卫人权及思想自由的个人和组织，名字来自俄罗斯物理学家、异议人士及诺贝尔和平奖得主安德烈·萨哈罗夫。共同提名Snowden的瑞典海盗党成员Christian Engstrom说，敢于提供庇护的政府面临来自美国政府的可怕后果，但讽刺的是，存在独裁倾向和民主问题的俄罗斯却成了他唯一的庇护所。
+➜抬头显示器走进普通人生活
+https://www.solidot.org/story?sid=36434	44414
+抬头显示器正从奢侈品变成普通人能负担得起<a target="_blank" href="http://spectrum.ieee.org/tech-talk/green-tech/advanced-cars/head-up-displays-go-down-market"><u>的大众消费品</u></a>。抬头显示器是一种投影系统，能将信息投影到透明材质上，汽车上使用抬头显示器的优点是司机可以将注意力集中在道路上，不用低头查看仪表盘了解信息。此前抬头显示器多见于战斗机和豪华汽车，在宝马上安装抬头显示器需要花费超过一千美元。汽车零部件制造商开始向市场提供廉价的抬头显示器替代： Pioneer的<a href="http://www.pioneer.eu/eur/newsroom/news/hud/page.html">NavGate HUD</a>将于十月在欧洲上市，售价约900美元左右；Garmin的HUD仅仅只需150美元。这些廉价替代需要司机有智能手机下载应用程序。
+➜家在此山中，云深不知处
+https://www.solidot.org/story?sid=36435	56638
+<a href="/~mtjs">mtjs</a> 写道 <i>"俄罗斯是个神奇的国度，不时会有一些神奇的事情让世界知晓，9月11日，西伯利亚时报<a href="http://siberiantimes.com/other/others/news/english-speaking-forest-boy-nicknamed-siberian-mowgli-was-born-and-raised-in-the-altai-wilderness/" target="_blank">报道了</a>一个出生在隐居野外密林与世独立的家庭的男孩被发现的报道，该阳光男孩自称20，看起来只有15，6，出生之后就生活在野外的密林中，他的父亲是一个画匠，母亲是个音乐工作者，他从没有上过学，也极少与外人交往，他的教育工作是由父母完成的，他的父母教他所有他们所会的，用字典教他英语，他的母亲说，我们的教育棒极了，比传统的学校教育更宽泛，更深入，更好。他的一家生活在一间棚屋里，父亲靠采蘑菇和绘画与外界保持经济往来，母亲和他则很少与外人交往，极偶然的会有在林中打猎的猎人拜访一下他们的家，在1997年后他们生活在俄罗斯阿尔泰共和国<a href="http://en.wikipedia.org/wiki/Belokurikha" target="_blank">Belokurikha</a>地区（与哈萨克斯坦交界），而在此前生活在别的地方。最近他的父母去<a href="http://en.wikipedia.org/wiki/Sakhalin" target="_blank">Sakhalin</a>岛（海参崴附近）旅游，留下他一人，时间一长，他孤单寂寞跑了出来，被3公里外的林场妇女发现，引起了注意，由于他没有出生证明也从没有接种过任何疫苗，在人群中生活是不合适的，当地的政府已经准备给他补办身份证和出生文件。据采访报道，他的父母对他的期望是做一个善良的人，一个真实的人。
+其实在俄罗斯更早的时候也有类似的家庭主动与世隔绝，例如在俄国红白军大乱斗时期逃至西伯利亚密林深处与世隔绝40年不知道第二次世界大战的<a href="http://www.smithsonianmag.com/history-archaeology/For-40-Years-This-Russian-Family-Was-Cut-Off-From-Human-Contact-Unaware-of-World-War-II-188843001.html" target="_blank">卢克夫（Lykov）家庭</a>，被地质学家发现于上世纪50年代，并震惊世界。"</i>

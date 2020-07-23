@@ -1,0 +1,81 @@
+➜微软关闭源代码托管平台 CodePlex
+https://www.solidot.org/story?sid=51904	8139
+微软通过官方博客<a href="https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/" target="_blank"><u>宣布</u></a>将关闭它的源代码托管平台 <a href="https://www.codeplex.com/" target="_blank"><u>CodePlex</u></a>，并与 GitHub 合作帮助开发者将项目迁移到 GitHub 上。这一做法与 Google 类似。Google 是 在 2015 年<a href="http://www.solidot.org/story?sid=43299" target="_blank"><u>宣布</u></a>于 2016 年 1 月关闭它的源代码托管平台 Google Code。GitHub 成为了一家独大的源代码托管平台，但它的独大也在开源社区引发了担忧，自由软件基金会就建议开发者选择其它更自由的平台。微软称，CodePlex 从即日起关闭新项目创建， 2017 年 10 月进入只读模式，12 月 15 日完全关闭。另一家源代码托管平台 Sourceforge 发表<a href="https://sourceforge.net/blog/codeplex-shuts-down-sourceforge-is-here/" target="_blank"><u>声明</u></a>希望能吸引 CodePlex 开发者到它的平台。
+➜Wikileaks 公布 CIA 的代码混淆工具 Marble
+https://www.solidot.org/story?sid=51906	11551
+<div align="center"><a href="http://img.solidot.org/0/263/li8FlLKJuh67.png"><img src="http://img.solidot.org/0/263/li8FlLKJuh67.png" width="560" height="209" align=""></a><br>
+</div>
+<br>
+Wikileaks 释出了<a href="https://wikileaks.org/ciav7p1/cms/page_14588467.html?marble=1" target="_blank"><u>第三批 CIA 机密文件</u></a>，曝光了情报机构的代码混淆框架 Marble。代码混淆工具被设计用于躲避杀毒软件的检测和隐藏代码的真正来源，如将 CIA 开发的恶意程序伪装成来自其它国家。该框架对于开发者和安全研究人员具有参考价值。如图所示，源代码文件披露了 Marble 中名叫“adding foreign language”的功能，在程序中混入其它国家的语言，包括阿拉伯语、中文、俄语、韩语和波斯语。通过混入外国语言，一个 CIA 开发的恶意程序可能会被视为是另一个国家开发的，比如混入中文可能会被认为是中国开发的，但实际上背后是山姆大叔。现在源代码曝光之后，CIA 看起来需要更新一下它的混淆工具了。<br>
+➜亚马逊封杀盗版流媒体播放器设备
+https://www.solidot.org/story?sid=51907	14266
+流行媒体播放中心 Kodi 是一个中立的平台，但其第三方扩展可以将它变成一个盗版流媒体内容的终极机器。部分媒体播放设备制造商甚至在其设备中预装了含有盗版扩展的  Kodi ，这些设备甚至还被放到电商平台如亚马逊上销售。亚马逊通常对此睁一只眼闭一只眼。但在版权机构反复投诉之后，电商巨头开始<a href="https://torrentfreak.com/amazon-bans-sales-of-pirate-media-players-will-destroy-them-170331/" target="_blank"><u>对这些侵犯版权的设备动真格</u></a>。亚马逊发表<a href="https://www.amazon.com/gp/help/customer/display.html/?&amp;nodeId=200277240" target="_blank"><u>声明</u></a>，禁止销售侵权设备。亚马逊称，一旦发现它会终止销售并销毁库存。
+➜FBI 逮捕了远程访问工具的作者
+https://www.solidot.org/story?sid=51908	17689
+FBI <a href="http://www.thedailybeast.com/articles/2017/03/31/fbi-arrests-hacker-who-hacked-no-one.html" target="_blank"><u>逮捕了</u></a> 26 岁的远程访问工具的作者 Taylor Huddleston。他在阿肯色州的家去年 12 月遭到 FBI 特工的突袭，被控合谋和帮助计算机入侵。他开发的远程访问工具 NanoCore 在黑客中间比较流行，与至少 10个国家的入侵事件相关联，其中包括在 2015 年入侵了一家中东能源公司。Huddleston 不是黑客，他认为自己也是受害者。他的软件多年来被黑客们盗版和用于犯罪活动，但美国司法部认为他是共犯。这就是引发了一个疑问：程序员是否需要为其软件用户的非法活动负责？他的律师说，这就好像是有人买了一把枪去打劫，而枪的制造商是共犯。
+➜中国智能手机用户无视风险投资众筹
+https://www.solidot.org/story?sid=51909	19613
+中国大约有 7 亿人使用智能手机，其中许多人都在放心地通过全世界最繁忙的移动支付网络在手机上划出资金。这已<a href="http://cn.wsj.com/gb/20170329/fin171016.asp" target="_blank"><u>创造出全球最大的众筹浪潮</u></a>，成为这种线上投资模式的一个实时试点。中国最大的网贷机构之一称，中国百万家公司已转向互联网融资，推销监管宽松、通常风险较大的投资项目。互联网融资正逐步推动投资大众化，缓解了资本市场紧张状况。这种融资方式还使负债累累的中国企业得以维持运营，刺激了债券等各种资产类别泡沫，并且还将中国企业债务风险越来越多地转嫁给消费者。业内许多人士称，除了所宣传的回报外，投资者几乎不关注细节。通常资金的占用时间只有几天或几周，因而投资者也就不那么在意其中蕴含的风险。虽然大多数借款人能够偿还贷款（通常以借入一轮新贷款来偿还旧债的方式），但投资者还是蒙受了几十亿美元的损失。
+➜俄罗斯屏蔽组织新抗议的网页
+https://www.solidot.org/story?sid=51910	26475
+俄罗斯<a href="http://www.reuters.com/article/us-russia-protests-idUSKBN1721Y4" target="_blank"><u>屏蔽了多个组织新的反政府抗议的网页</u></a>。上周的反政府抗议导致数百人被捕，其中包括反对派领导人 Alexei Navalny。新的反政府抗议计划在周日举行，组织者自称自己是莫斯科的年轻人和普通学生，与Navalny 毫无关系。截至周五下午，有大约 2000 人签名参加抗议。当局认为这次抗议是非法的，组织者没有提前征得同意。根据周五一封泄漏到网上的俄罗斯总检察长办公室发给通信监管机构 Roskomnadzor 的信函，当局以呼吁骚乱和极端活动为由下令屏蔽五个网页。当天下午，其中三个网页遭到了屏蔽。准备寻求第四个总统任期的普京称，任何违法的人都应该受到惩罚。
+➜DDR5 内存速度两倍于 DDR4
+https://www.solidot.org/story?sid=51911	28179
+行业标准组织 JEDEC <a href="http://www.pcworld.com/article/3186737/components/staying-alive-ddr5-memory-is-on-its-way.html" target="_blank"><u>宣布开始</u></a>着手制定 DDR5 内存的规格，预计将在明年完成。DDR5 将是 DDR4 的继承者，速度和储存密度两倍于 DDR4，比 DDR4 更节能。业内分析人士没有预期到 DDR5 的研发，他们认为 DDR DRAM 应该终止于 DDR4。然而 PC 和服务器的设计过去几年没有发生多少改变，对 DDR5 的需求依然存在。科技公司已经开发出了多种 DDR DRAM 的替代，其中包括 HBM2、GDDR5X、HMC，甚至英特尔的 Optane 存储器也作为内存使用。
+➜LastPass 释出安全更新修复高危漏洞
+https://www.solidot.org/story?sid=51912	30511
+流行的密码管理器 LastPass <a href="https://blog.lastpass.com/2017/03/security-update-for-the-lastpass-extension.html/" target="_blank"><u>释出了</u></a>紧急安全更新修复 Google Project Zero 研究员 Tavis Ormandy 报告的严重漏洞，它建议用户尽可能快的升级到 4.1.44 版本。漏洞影响 LastPass 的客户端，能通过钓鱼网站或恶意广告利用去窃取用户的密码。Ormandy 上周将漏洞报告和 POC 原型<a href="https://arstechnica.com/security/2017/03/potent-lastpass-exploit-underscores-the-dark-side-of-password-managers/#p3" target="_blank"><u>发送给  LastPass</u></a>，根据 Project Zero 的漏洞披露政策，LastPass 有 90 天时间完成修复。不过，LastPass 只用了一周时间。Ormandy 认为这个漏洞是一个大的架构问题，LastPass 可能需要花比较长的时间修复。LastPass 在官方博客上解释了漏洞的细节，称它是一个 DOM(Document Object Model)操作漏洞，允许恶意网站远程执行代码。
+➜美国全球撒网抓捕俄罗斯黑客
+https://www.solidot.org/story?sid=51913	32952
+网络犯罪是没有边界的，但<a href="http://www.mcclatchydc.com/news/nation-world/national/national-security/article141997444.html" target="_blank"><u>今天美国的执法能力也已经跨越了国界</u></a>。上个月中旬，美国司法部<a href="http://www.solidot.org/story?sid=51707" target="_blank"><u>公开指控</u></a>两名俄罗斯联邦安全局特工和两名黑客参与了对雅虎的入侵。对遭到通缉的俄罗斯黑客来说，他们暂时没事，但其行动范围将会受到制约。过去几年，美国通过国际刑警组织发出逮捕令，在世界各地逮捕了多名俄罗斯黑客：一人在跨越芬兰边界时被捕，一人在抵达西班牙机场时被捕，一人在葡萄牙餐厅吃饭时被捕，还有人则是在马尔代夫和泰国的豪华度假村被捕。他们大多数都引渡到了美国受审。网络罪犯并不是人人都无比富有，很多参与黑客攻击的人并没有得到多少钱。
+➜纽约时报透露屏蔽内幕
+https://www.solidot.org/story?sid=51914	37584
+早在 2001 年，《纽约时报》就一度遭到屏蔽。当年 8 月在采访时任国家主席江泽民时，时报出版人当面询问了这个问题。江泽民看起来并不知情，但他表示会调查此事。没几天，网站解除了屏蔽，此后这一状况一直持续了十年。但到 2012 年，情况发生了变化，纽约时报英文版和中文版因为对中国的报道而一直屏蔽至今，除了网站外，社交媒体的账号也都被删除。《纽约时报》<a href="http://cn.nytimes.com/china/20170401/the-new-york-times-vs-the-great-firewall-of-china/" target="_blank"><u>此后一直游说中国解除屏蔽</u></a>，但没有任何效果。在游说过程中，一名年轻的中国外交部官员曾激动地喊，“我爱党！”《纽约时报》如今主要通过镜像网站和新闻订阅服务接触中国大陆的读者，这些方法无法被屏蔽，中文版的浏览量也超过了 2012 年的水平。
+➜我们现在知道霸王龙的脸是什么模样了
+https://www.solidot.org/story?sid=51915	39395
+<div align="center"><img src="http://img.solidot.org/0/264/liywIEeCaUCU.png" width="450" height="361" align=""><br>
+</div>
+<br>
+美国 Carthage 学院的古生物学家 Thomas Carr 和他的团队在《Scientific Reports》发表<a href="http://www.nature.com/articles/srep44942#s3" target="_blank"><u>论文</u></a>，描述了霸王龙 Daspletosaurus horneri 的<a href="https://arstechnica.com/science/2017/03/new-discovery-reveals-tyrannosaur-faces-for-the-first-time/#p3" target="_blank"><u>脸部特征</u></a>。这种霸王龙生活在距今 1 亿到 6600 万年前，平均身长约 9 米高 2.2 米。通过仔细分析恐龙的一个保存良好的头颅的不同部分结构，研究人员能够重组出头颅上的组织类型和神经系统，通过与已有的霸王龙骨骼数据库进行对比，研究人员可以排除出在化石过程中因受损导致的结构。研究人员发现，霸王龙的下颌表现出了与今天鸟类相似的神经血管结构的证据。
+➜笔记本电池的寿命没有厂商估计的长
+https://www.solidot.org/story?sid=51916	41840
+一项新研究发现，<a href="http://www.digitaltrends.com/computing/battery-life-lie/" target="_blank"><u>笔记本电池的使用时间没有厂商估计的长</u></a>，苹果是一个例外，其电池续航力估计与现实相差不远。研究测试了 67 款不同的笔记本电脑型号，其中包括华硕、苹果、宏碁、惠普、戴尔、联想和东芝等知名厂商的产品。结果显示，苹果宣称的 10 小时续航力是正确的，某些情况下甚至还超过了，比如 MacBook Pro 13 的续航力标称是 10 小时，实际测试达到了 12 小时。相比之下，戴尔公司过高估计了电池寿命超过 4 小时，而惠普接近 5 小时。联想的  Yoga 510 声称有 5 小时的续航力，实际只持续了 2 个小时；惠普 的 Pavilion 14-al115na 自称能续航 9 小时，但实际只有 4 小时 25分钟；华硕 E15 声称能使用 5 小时，但实际只有 3 小时。<br>
+➜SpaceX 之后看 Blue Origin
+https://www.solidot.org/story?sid=51917	43936
+通过重复使用火箭核心推进级，SpaceX <a href="https://www.nasaspaceflight.com/2017/03/spacex-new-spaceflight-successful-core-reuse/" target="_blank"><u>开启了太空飞行的新时代</u></a>。SpaceX 不是唯一一个研究火箭重复使用的私人太空公司。新晋世界第二富豪 Jeff Bezos 的 Blue Origin 正准备测试其新一代火箭引擎 BE-4。相比<span style="font-weight: 400;"> Falcon 9 的引擎，</span>BE-4 在设计时就考虑了重复使用，它设计能重复使用多达 100 次，除此之外它的海平面推力超过了航天飞机的主引擎。BE-4 使用了液态甲烷作为燃料。火箭常用燃料液氢虽然比冲较高，但因为密度低需要更大的燃料储存箱，而更容易使用和收集的甲烷则被视为是未来的燃料。SpaceX 的下一代引擎也将使用液态甲烷和液氧燃料。如果 BE-4 测试能取得成功引擎得到证明，Blue Origin 将能跻身全球火箭发射市场，<a href="https://arstechnica.com/science/2017/03/heres-why-the-imminent-test-of-jeff-bezos-be-4-rocket-engine-is-a-huge-deal/#p3" target="_blank"><u>向 SpaceX 发起挑战</u></a>。
+➜邮件快件实名收寄启动试点
+https://www.solidot.org/story?sid=51918	44661
+国家邮政局宣布从今年 4 月起，将启动在全国 31 个省（区、市）相关试点城市邮件快件实名收寄信息系统推广应用，力争到 2018 年底基本实现实名收寄信息化全覆盖。国家邮政局市场监管司相关负责人表示，实名收寄制度是《反恐怖主义法》提出的刚性要求。但从前期一些地区的实践看，有的通过人工填写等方式推行实名收寄制度，效率不高，造成用户抵触；有的相关部门开展了信息化试点，但不同程度地存在标准规范不统一、信息不共享、多头采集等问题，造成资源浪费。为此，必须坚持全国一盘棋，统一标准规范、实现数据共享，全面推进落实实名收寄信息化。这位负责人还表示，实名收寄信息系统由国家邮政局统一指导建设，邮件快件揽收人员利用巴枪、手机 APP 等，结合身份证识读设备，对寄递用户身份信息进行数字化、自动化采集，并利用移动通信网络进行实时传输，一次性比对采集、重复共享使用。对于隐私泄漏的担忧，<a href="http://china.caixin.com/2017-04-01/101073764.html" target="_blank"><u>当局尚未给出进一步说明</u></a>。
+➜“已验证”在 Twitter 上成为贬义词
+https://www.solidot.org/story?sid=51919	46749
+自 2009 年起，Twitter 为部分账号加入了蓝色勾选符号代表该账号“已验证”，其身份是真实的。对一些人来说，已验证勋章令人羡慕；但对另一些人来说，<a href="https://theoutline.com/post/1323/verified-blue-checkmark-derogatory-insult-twitter" target="_blank"><u>它已经变成了贬义词</u></a>。已验证或蓝色勾选代表着精英和建制派。而很多新闻行业的成员都“已验证”，于是对一部分人来说，他们能从中感知新闻界的自由主义偏见。保守派、极右派和特朗普的粉丝发现，每当特朗普发推，总有一大群蓝色勾选在前面冷嘲热讽。他们认为 Twitter 也持有自由主义的偏见。过去几个月，Twitter 封杀了多名极右派和国家主义者的账号，认为 Twitter 将蓝色勾选勋章送给了那些社会正义战士。
+➜CERN 与 NASA 在火星上发现了古代的粒子加速器
+https://www.solidot.org/story?sid=51920	53654
+<div align="center"><a href=""><img src="http://img.solidot.org/0/265/lioGcB4k4V7lA.png" width="500" height="250" align=""><br>
+</a><br>
+</div>
+<a href="">高到不知到哪去了</a> 写道 "<i>
+美国宇航局火星侦察轨道探测器拍摄的火星表面的新图像显示了最早的粒子加速器的存在。火星上寻找水，甚至是生命的迹象一直在持续。但是，随着<a href="http://home.cern/about/updates/2017/04/ancient-particle-accelerator-discovered-mars" target="_blank">CERN和NASA科学家今天的公布</a>，对红色星球的探索揭示了一个重大的新发现。由地质学，考古学和粒子物理学领域的跨学科专家小组分析，NASA的“火星侦察轨道”探测器拍摄的火星表面的新图像揭示了曾经建成的最大的粒子加速器的存在。该团队已经表明，以前被认为是太阳系中最大的火山形成的奥林匹斯蒙斯实际上是一个古代粒子加速器的遗体，它被认为是在几百万年前就已经运作过的。由探测器的高分辨率相机发现的几公里处的滑坡引发了科学家的关注。这个显然最近的事件揭示了许多结构，这使科学家感兴趣，因为它们的形状清楚地类似于超大型加速腔，例如在大型强子对撞机（LHC）中使用的那些。这个粒子加速器的周长将近2000公里，将比LHC大约75倍，数百万倍的强大。然而，尚不知道在这种机器中加速的是哪种类型的粒子。古埃及象形文字，其意义以前是一个谜，似乎证实了这些观察结果，导致科学家相信金字塔可能已经成为巨大的天线。
+<p>
+</p>
+这一重大发现也有助于解释埃及金字塔，考古学中最古老的奥秘之一。奥林匹斯蒙斯附近的图像上也出现类似金字塔的严重侵蚀的结构。此外，古代的埃及象形文字，其意义以前是一个谜，似乎证实了这些观察结果，导致科学家相信金字塔可能是巨大的天线。因此，地球上的金字塔可能允许远程控制加速器。 CERN的技术设计主管Friedrich Spader说：“加速器控制室可能在金字塔下方。
+<p></p>
+<p>
+</p>
+<p>这个粒子加速器 - 一个名副其实的“星际” - 被认为是以殖民化为目标的高技术先进文明的太阳系门户。科学家团队领导人Fadela Emmerich说：“最近解密的纸莎草纸表明，强大的磁场和加速器中颗粒的运动使得它们将创造出一个通过时空的门户。 “这是CERN全新的现象，我们迫不及待地想了解！”这样的技术可以革新空间旅行，开辟星际探索的道路。&nbsp;</p>
+<p>
+</p>
+<p>
+</p>
+到目前为止，奥林巴斯山将被认为是太阳系最大的火山，其最近的熔岩流估计约为二百万年。科学家认为，这个估计是相当准确的，根据NASA的火星探测器进行的最新测量。导致这一研究领域的地质学家埃尔特·奥尼尔（Eilert O'Neil）说：“这意味着粒子加速器最近在二百万年前被使用。
+<p></p>
+<p>
+</p>
+粒子加速器发射的强大的同步辐射产生强烈的热量，这解释了火山结构和熔岩流的存在。 “我们也怀疑很长一段时间，火星表面上必须有大量的水。弗里德里希·斯帕德（Friedrich Spader）表示，我们只能假设当时用这种水来冷却机器。&nbsp;
+<p></p>
+<p>
+</p>
+<p>
+</p>
+Eilert O'Neil说：“我们可能在谈论被遗忘的技术和高度古老的文明。” “也许是我们自己遥远的祖先。”
+"</i>

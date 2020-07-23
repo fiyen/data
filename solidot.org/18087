@@ -1,0 +1,48 @@
+➜美国上诉法庭禁止特朗普在 Twitter 拉黑美国网友
+https://www.solidot.org/story?sid=61295	12328
+美国联邦上诉法庭周二<a href="https://politics.slashdot.org/story/19/07/09/1722233/trump-cant-block-critics-from-his-twitter-account-appeals-court-rules"><u>裁决</u></a>，总统特朗普在 Twitter 上拉黑批评或嘲笑他的网友的做法违反了宪法。法官给出的理由是特朗普使用他的个人账户从事政府公务，因此他不能因为不喜欢对方的观点而禁止美国人阅读他的推文和通过回复的方式进行对话。特朗普通过个人账户发表了大量推文，其中有很多与政府事务相关，而白宫的官方 Twitter 账户 <a href="https://twitter.com/WhiteHouse" target="_blank"><u>@WhiteHouse</u></a> 也有很大一部分内容是转推特朗普的推文。这项裁决可能会对在社交媒体时代如何应用美国宪法第一修正案产生广泛的影响。
+➜美国将在不危及国家安全的前提下发放对华为的出口许可
+https://www.solidot.org/story?sid=61296	13682
+美国商务部长罗斯周二发表谈话称，美国政府将在不会对国家安全构成威胁的情况下，向寻求对华为销售产品的公司<a href="https://cn.reuters.com/article/usa-china-huawei-conditional-easing-0709-idCNKCS1U5010"><u>发放许可证</u></a>。不过行业观察人士并不确定哪些产品符合要求。在将华为加入到限制出口的实体清单之后，为重启与中国的贸易谈判，美国总统特朗普上月宣布，将允许美国公司向华为销售产品。尽管美国芯片制造商对特朗普的声明表示欢迎，但许多行业人士和政府官员对这项新政策感到困惑。罗斯确认华为仍将继续留在实体清单上，这意味着许可证申请可能会被拒绝，他表示需要申请许可证的产品项目范围不会改变。不过，他也为一些申请获批打开了大门。
+➜Firefox 68 发布
+https://www.solidot.org/story?sid=61297	15159
+Mozilla <a href="https://www.mozilla.org/en-US/firefox/68.0/releasenotes/"><u>释出了 Firefox 68</u></a>，它同时也是一个<a href="https://www.mozilla.org/en-US/firefox/68.0esr/releasenotes/"><u>扩展支持版本</u></a>（ESR）。主要新特性包括：阅读器视图支持暗模式；改进扩展的安全和发现功能，通过推荐扩展，向用户建议高质量的安全的扩展；WebRender 支持 AMD 显卡；Windows Background Intelligent Transfer Service (BITS) 支持在浏览器关闭之后继续下载更新；尝试自动修复杀毒软件导致的 HTTPS 错误；摄像头和麦克风访问要求使用 HTTPS 连接；改进了企业的定制化配置；等等。
+➜IBM 完成对 Red Hat 的收购
+https://www.solidot.org/story?sid=61298	15414
+IBM <a href="https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future"><u>完成了</u></a>对 Red Hat 的收购。这笔收购案是在去年 10 月<a href="https://www.solidot.org/story?sid=58380"><u>宣布</u></a>的，收购金额为 340 亿美元，当时震撼了整个开源社区。Red Hat 在开源社区有着举足轻重的影响力，它资助了发行版 Fedora 和 GNOME/GTK 桌面等项目，收购了 CentOS，雇佣了很多内核开发者，它的企业级发行版 RHEL 是其收入的主要来源。在收购完成之后，Red Hat 隶属于 IBM 混合云部门，现任 CEO Jim Whitehurst 将直接向 IBM CEO Ginni Rometty 汇报工作。IBM 希望收购 Red Hat 有助于扩大其云计算业务。在云基础设施业务领域，IBM 落后于亚马逊和微软。Fedora 项目负责人  Matthew Miller 称 IBM 收购 Red Hat <a href="https://lwn.net/Articles/793189/" target="_blank">对该项目没有影响</a>。
+➜空客将超过波音成最大飞机制造商
+https://www.solidot.org/story?sid=61299	16963
+因 737 MAX 机型两起致命空难以及随之而来的全面停飞影响，波音全年飞机交付量预计将会落后，<a href="https://cn.reuters.com/article/boeing-delivery-down-0709-tues-idCNKCS1U503V"><u>这将是八年来首次</u></a>。空客上半年交付 389 架飞机，同比增长 28%，而波音上半年飞机交付量减少 37%。MAX 飞机的复飞因为新发现问题将推迟至至少 9 月底。波音今年上半年的净订单数居然为负，共计负 119 架。同期空中客车的净订单数为 88 架。
+➜Raspberry Pi 承认没有正确设计 USB-C 端口
+https://www.solidot.org/story?sid=61300	25545
+两周前 Raspberry Pi 发布了最新的产品 Raspberry Pi 4 Model B，提供了一个 USB-C 供电端口。Pi 4 是 Raspberry Pi 第一款支持 USB-C 的设备，结果它还是搞砸了。USB-C 充电端口被发现与许多它本应该支持的充电器不兼容。对 Pi 4 <a href="https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_4b_4p0_reduced.pdf"><u>电路图</u></a>的分析<a href="https://www.scorpia.co.uk/2019/06/28/pi4-not-working-with-some-chargers-or-why-you-need-two-cc-resistors/"><u>发现</u></a>，Raspberry Pi 没有正确设计 USB-C 端口。USB-C 端口上的两个"CC" 插脚本应该都有自己的 5.1K 欧姆电阻器，结果 Raspberry Pi 的电路设计允许它们共享单一的电阻器，这一设计破坏了与许多 USB-C 充电器的兼容性。Raspberry Pi 联合创始人 Eben Upton <a href="https://arstechnica.com/gadgets/2019/07/raspberry-pi-4-uses-incorrect-usb-c-design-wont-work-with-some-chargers/"><u>表示</u></a>未来的电路板将会修正这一设计，但现有用户只能采用权宜方法了。
+➜GitHub 移除色情应用 DeepNude 的开源库
+https://www.solidot.org/story?sid=61301	27934
+GitHub <a href="https://www.vice.com/en_us/article/8xzjpk/github-removed-open-source-versions-of-deepnude-app-deepfakes"><u>移除了</u></a>用神经网络算法脱掉图像中女性身上衣服的代码库。被称为 DeepNude 的应用上月底引发广泛争议之后被原作者关闭。类似 Deepfake，DeepNude 使用女性裸照训练之后能将图像中女性身上的衣服替换掉，创造出逼真的合成裸照。DeepNude 是付费软件（有免费受限版本），在作者停止提供下载之后，有人对其进行了逆向工程，开发出了 DeepNude 的开源版本。GitHub 以违反其政策为由将托管在它平台上的相关开源代码库移除。根据 GitHub 的<a href="https://help.github.com/en/articles/github-community-guidelines"><u>协议</u></a>，它禁止儿童色情内容，但不禁止所有的色情。
+➜华纳宣布流媒体服务 HBO Max，从 Netflix 收回《老友记》
+https://www.solidot.org/story?sid=61302	28992
+华纳<a href="https://www.theverge.com/2019/7/9/20687792/hbo-max-warnermedia-announcement-friends-streaming-details-subscription-service"><u>宣布了</u></a>自己的流媒体服务 HBO Max，与 Netflix、Hulu、迪士尼的 Disney+ 和苹果的 TV+ 展开竞争。HBO Max 将在 2020 年初上线，将提供来自 HBO 和其它华纳媒体部门的内容，其中包括了从 Netflix 收回的热门情景喜剧《老友记》。NBC 环球上个月<a href="http://www.ftchinese.com/story/001083565"><u>也宣布</u></a>从 Netflix 收回《办公室》(The Office) 的版权。《办公室》和《老友记》是 Netflix 上收视率最高的两档美剧。
+➜暴雪发布星际争霸卡通版
+https://www.solidot.org/story?sid=61303	31036
+<div align="center"><img src="https://img.solidot.org/0/895/liy5zHS1UH772.jpg" width="450" height="253" align=""><br>
+</div>
+<br>
+暴雪<a href="https://us.forums.blizzard.com/en/starcraft/t/patch-1-23-0-notes/323"><u>发布了</u></a>《星际争霸：重制版》的卡通皮肤，它被称为“爆笑星际包”，<a href="https://shop.battlenet.com.cn/zh-cn/product/starcraft-cartooned"><u>国区售价 60 元</u></a>（需要《重制版》）。爆笑星际包使用 Carbot 动画制作的可爱卡通形象重做了全部单位、建筑、地图、菜单，多人对战以及剧情战役，为单人游戏战役增添全新外观，将卡通化的大乱战搬上互联网，让玩家用全新的方式体验这款经典的即时战略游戏。
+➜Zika 病毒延迟儿童神经发育
+https://www.solidot.org/story?sid=61304	34303
+根据《Nature Medicine》期刊上的<a href="https://www.nature.com/articles/s41591-019-0496-1"><u>报告</u></a>，UCLA 和中科院研究人员报告了 2015 年至 2016 年巴西里约热内卢 Zika 病毒大流行期间，感染病毒的孕妇生下的 216 名婴儿的神经发育情况，<a href="http://www.ebiotrade.com/newsf/2019-7/201979172244773.htm" target="_blank"><u>结果显示</u></a>，约 1/3 的儿童神经发育或视力/听力异常。绝大多数 Zika 病毒感染者症状温和，但孕妇感染病毒可能损害胎儿大脑，导致新生儿小头症及其他神经系统病变。对 216 名儿童的研究发现，在 7~32 个月大的儿童中，有 31.5% 的儿童神经发育低于平均水平，而且视力或听力评估异常；语言功能受影响最大，146 名儿童中有 35% 低于平均水平。
+➜报告预测全球食品消费未来十年上涨 15%
+https://www.solidot.org/story?sid=61305	37686
+经济合作与发展组织（OECD）和粮食及农业组织（FAO）模拟未来十年的情景，<a href="https://www.abc.net.au/chinese/2019-07-10/global-food-demand-to-grow-15-per-cent-2028/11296074" target="_blank"><u>预测</u></a>全球食品消费将上涨 15%。 名为《2019-2028 年农业展望》（Agricultural Outlook 2019-2028）的报告反映出人口增长和发展中国家饮食习惯的改变。随着发展中经济体达到市场饱和，人们对谷物等主食的需求可能会原地踏步，但对肉类的强劲需求将导致畜群规模的扩大，以及对集约化畜牧生产所需动物饲料的空前需求。该项展望显示，全球城市人口将达到总人口的 60%，高于 2018 年的 55%。由此导致的对加工、可运输食品的偏好，尤其是在发展中国家，将导致对某些商品的需求增长。
+➜多地将垃圾分类与信用评分关联起来
+https://www.solidot.org/story?sid=61306	39017
+如果你经常扔错垃圾，你的社会信用分数可能会下降。社会信用体系正逐渐深入到我们的生活之中。主要城市开始推进垃圾分类，垃圾分类也将进行立法。住建部<a href="http://www.xinhuanet.com/fortune/2019-07/07/c_1124719389.htm"><u>表示</u></a>，到 2020 年年底，将会先行先试的 46 个重点城市基本建成垃圾分类处理系统。46 个重点城市中，有 25 个城市明确了对个人和单位违规投放生活垃圾的处罚，针对个人违规投放，多数城市最高罚 200 元，单位违规投放或随意倾倒堆放生活垃圾的，最高处以 5 万元罚款。　太原、铜陵、杭州等城市还对违规投放垃圾增加了信用惩戒措施，违反生活垃圾分类有关规定，且拒不改正，阻碍执法部门履行职责的，相关信息将被依法纳入个人单位的信用档案。在北京等地，扔垃圾<a href="https://finance.sina.com.cn/roll/2019-07-10/doc-ihytcerm2674499.shtml"><u>还引入了人脸识别</u></a>：居民扔垃圾前得先刷脸，系统识别后自动打开分类投放口，并根据所投垃圾为投放人进行积分。
+➜Mozilla 拒绝信任 DarkMatter CA
+https://www.solidot.org/story?sid=61307	44340
+阿联酋的监视公司 DarkMatter 最近向 Mozilla <a href="https://www.solidot.org/story?sid=59696" target="_blank"><u>递交请求</u></a>，要求将它的 root 证书加入到 Firefox 的证书白名单。该公司此前被发现向中东国家出售监视和入侵服务。在 Google Groups 和 Bugzilla 的相关讨论中，DarkMatter 否认它做错事或意图不轨。该公司已经通过第三方公司 DigiCert 旗下的 QuoVadis 获得了证书签发能力。DarkMatter 代表还表示 CA 部门将会独立出去，完全独立运营。Mozilla 的代表提出质疑，称 DarkMatter 以及 CA 子公司的所有者都是同一个人，完全独立不可信。Mozilla 表示，出于对用户的安全考虑，它<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/nnLVNfqgz7g%5B1-25%5D" target="_blank"><u>决定拒绝信任</u></a> DarkMatter 中级 CA。
+➜中科大少年班是中国 AI 人才的摇篮
+https://www.solidot.org/story?sid=61308	45975
+对中国大型科技公司和创业公司 AI 负责人的教育背景的调查发现，中科大少年班<a href="http://cn.nikkei.com/columnviewpoint/column/36359-2019-07-10-05-00-10.html"><u>可能是中国 AI 人才的摇篮</u></a>：百度张亚勤来自 1978 年少年班；阿里云人工智能首席科学家闵万里来自 1992 年少年班；寒武纪科技 CEO 陈天石来自 2001 年少年班...　到目前为止中科大少年班已经培养了约 4 千名毕业生，引领了企业、学校、政府之间的合作。中科大还培育了超过 100 家高科技企业，包括被认为拥有世界顶级 AI 语音识别技术的科大讯飞等。
+➜中国空气污染遮蔽阳光降低太阳能电池板效率
+https://www.solidot.org/story?sid=61309	47402
+根据发表在《Nature Energy》期刊上的<a href="https://www.nature.com/articles/s41560-019-0412-4"><u>一项研究</u></a>，燃煤导致的空气污染遮蔽阳光<a href="https://arstechnica.com/science/2019/07/air-pollution-costs-china-1-9-billion-in-solar-electricity-each-year/#p3" target="_blank"><u>降低了太阳能电池板效率</u></a>。中国正致力于降低对燃煤火电的依赖，每年新增光伏装机容量高居世界第一，2017 年的装机容量占到了全世界的一半以上。从 2010 年到 2017 年，中国的光伏发电容量从不到一千兆瓦增加到了 130  千兆瓦，并计划到 2030 年达到 400  千兆瓦。然而，光伏发电也受制于现有的环境问题：雾霾遮黯了阳光，导致了光伏发电效率的下降。在最新研究中，苏黎世联邦理工学院的研究人员发现，从  1960 到 2015 年，光伏发电潜力平均下降了 13%。这一影响不是在每一个地方都相同。有五个省份的发电潜力下降了&nbsp; 20-28%。这包括了东部的工业中心，也包括西部的高海拔地区——这些地区少量污染会产生巨大的影响。如果中国空气质量回到 1950 年的水平，那么 2016 年的光伏装机容量就能产生 14 万亿瓦时额外的电。这意味改进空气质量将能提高光伏发电效率，使其更具有竞争力。

@@ -1,0 +1,85 @@
+➜FBI：监控Skype和Gmail是2013年的“重中之重”
+https://www.solidot.org/story?sid=34036	6056
+<a href="/~Aceuler">Aceuler</a> 写道 <i>"
+FBI几乎可以在短短的几分钟内找到任何与你有关的事情，这是一个众所周知的事实。它也可以监视你所有的在线通信。不过，FBI做不到的是——实时地监视你。经过一段时间之后，美国联邦调查局已可全部掌控Google Voice、Gmail和Dropbox之类的服务——尽管可能已经太晚。在华盛顿特区的一次谈话中，FBI的总顾问Andrew Weissmann称：除了其它服务，该部门也已能够监测Gmail、Google Voice和Dropbox等服务，现他们的“重中之重”(top priority)是，恐怖分子们正转向在线讨论他们的计划。
+<p></p>
+联邦调查局没能有效监控电子邮件和社交网络的原因是1994年的《通信协助执法法案》(CALEA)，这使得政府可以强制互联网服务提供商及电话公司，在它们的网络上安装监控软件，但这并没有包括电子邮件、SkyDrive和Dropbox等云服务、或Skype之类的聊天工具在内。
+<p></p>
+政府当前可以要求提供必要的技术援助，以完成在"窃听法"第三章(Title III Wiretap Act)下的拦截。不过FBI在Gmail的监控上面遇到了点问题，因为Google使用一个SSL级别的加密来将用户的邮件发送到它的服务器上。这使得FBI在未征得Google同意时，很难有效地监控其通讯。不过，Google是很乐意答应它的。
+<p></p>
+微软公司的Skype也被放到了聚光灯下，因其<u><a target="_blank" href="http://www.skype.com/en/security/" style="margin: 0px; padding: 0px; color: rgb(0, 51, 102); text-decoration: none;">提供了一个安全的聊天方式</a></u>。Skype是微软的产品，我们已向它询问其是否会遵从FBI的请求以实时监视Skype的通话，如有回复，我们会随时更新文章。
+"</i>
+➜朝鲜切断韩朝之间8条军事热线
+https://www.solidot.org/story?sid=34037	7543
+ibtimes写道<i>"朝鲜从昨天起<a href="http://cn.ibtimes.com/articles/24559/20130328/395235.htm"><u>切断</u></a>朝鲜和韩国之间的军事通信线路，这意味着韩朝的所有政府和军事联系都已中断，两国之间仅剩三条用作交换空中交通信息的电话线路。据朝中社报道，在战争随时可能爆发的情况下，双方军队间开设通信线路已变得毫无必要。报道援引一名军事发言人的话说，只要韩国继续反朝的敌对行为，朝鲜将彻底执行所应采取的措施，朝美和朝韩之间将不存在任何对话和通信管道。"</i>朝鲜还发表<a href="http://chinese.yonhapnews.co.kr/international/2013/03/26/0301000000ACK20130326003100881.HTML"><u>声明</u></a>称，包括战略导弹部队、远程炮兵部队在内的所有野战炮兵部队进入“一号战斗值勤状态”。
+➜支付宝漏洞曝光交易记录
+https://www.solidot.org/story?sid=34038	8163
+支付宝的交易信息被发现泄露<a href="http://tech.163.com/13/0328/02/8R17OBP1000915BF.html"><u>并被搜索引擎抓取</u></a>，使用搜索引擎可以搜出大量支付宝交易记录，包括付款账户、收款账户、姓名、日期等。目前Google.com.hk仍能搜索出2300多条记录，只要在搜索引擎中<a href="https://www.google.com/search?q=site:shenghuo.alipay.com&amp;hl=en&amp;safe=off&amp;client=safari&amp;ei=NXNTUaXxNcW0qAHcu4GgDg&amp;start=40&amp;sa=N&amp;biw=320&amp;bih=504#q=site:shenghuo.alipay.com&amp;hl=en&amp;safe=off&amp;client=safari&amp;psj=1&amp;ei=M55TUb2gE8GLkQXnsIG4AQ&amp;start=50&amp;sa=N&amp;bav=on.2,or.r_cp.r_qf.&amp;bvm=bv.44442042,d.dGI&amp;fp=b11b7bec5fd23e85&amp;biw=1252&amp;bih=607"><u>输入</u></a>“site: shenghuo.alipay.com”就可以查看记录。该记录只有账户名、交易时间、用途等，并没有密码等核心数据。有技术人士表示，这些结果被披露，有可能是非授权访问出现的问题，这让后台验证不严的漏洞使得外部的搜索能看到半公开的页面。
+➜Google Reader的开源替代
+https://www.solidot.org/story?sid=34039	11928
+Google关闭Google Reader让所有人认识到过于依赖他人免费服务的后果。如果你有能力和资源，你完全可以自己<a href="http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html?page=3"><u>搭建一个RSS阅读器服务</u></a>，或者是改用本地客户端。<a target="_blank" href="http://owncloud.org/" rel="external">ownCloud</a>是一个完整的开源自托管服务平台，提供了文件共享和协作功能，它也包含了一个feed reader应用<a href="https://github.com/owncloud/news"><u>ownCloud News</u></a>，该应用仍然处于实验阶段，开发者正在积极完善，<a href="http://algorithmsforthekitchen.com/blog/?p=479"><u>自信</u></a>可以在Google Reader于7月1日关闭前发布稳定版。<a target="_blank" href="https://launchpad.net/gregarius" rel="external">Gregarius</a>和<a target="_blank" href="http://feedonfeeds.com/" rel="external">Feed on Feeds</a>是另外两个基于Web的开源RSS阅读器，但开发已经停滞，功能也不完整。GNOME和KDE桌面环境都包含了阅读器客户端，GNOME下是<a target="_blank" href="http://lzone.de/liferea/" rel="external">Liferea</a>，支持离线阅读，同步Google Reader与Tiny Tiny RSS的已读和未读条目。KDE下是<a target="_blank" href="http://userbase.kde.org/Akregator" rel="external">Akregator</a>，功能类似，它整合了KDE内置浏览器和桌面通知系统，当有新feed条目可读时会通知用户。<a target="_blank" href="https://dwim.me/blam/" rel="external">Blam</a>是基于GTK+的一个轻量级阅读器。<a target="_blank" href="http://www.rssowl.org/" rel="external">RSSOwl</a>是跨平台的阅读器，支持与Google Reader同步，整合了分享功能，可以与多个Web服务分享阅读，它还包含了插件框架可扩展功能。鉴于Google Reader即将关闭，开发者正在思考如何在未来支持同步已读和未读条目。<a target="_blank" href="https://code.google.com/p/rss-guard/" rel="external">RSS Guard</a>是另一个轻量级的跨平台RSS阅读器，与Blam一样只支持最基本的功能。<a target="_blank" href="http://www.newsbeuter.org/" rel="external">Newsbeuter</a>是最受Linux用户欢迎的命令行RSS阅读器，它有一个大的功能集，可自行定制。<a target="_blank" href="https://kiza.eu/software/snownews/" rel="external">Snownews</a>是另一个命令行RSS阅读器，但功能没有Newsbeuter丰富...记住，Google Reader有大量开源替代，目前功能上最接近Google Reader的是开源阅读器是<a target="_blank" href="http://newsblur.com" rel="external">NewsBlur</a>，采用MIT许可证，开发者以每年24美元的费用提供了一个付费托管版，免费Web版只支持64个新闻源，阅读器视图每次只展示不到10个条目。用户如果想自托管可在项目的<a href="https://github.com/samuelclay/NewsBlur"><u>GitHub主页</u></a>找到详细的安装指南。
+➜官媒指责苹果傲慢，但消费者认为央企更傲慢
+https://www.solidot.org/story?sid=34040	13599
+中国官方媒体仍然在继续发动舆论攻势抨击苹果公司。《人民日报》连续第四天<a href="http://paper.people.com.cn/rmrb/html/2013-03/28/nbs.D110000renmrb_09.htm"><u>刊登文章</u></a>（整版全是关于苹果）批评苹果在中国的保修政策，昨天的文章标题是《打掉苹果“无与伦比”的傲慢》，称苹果为其客户服务辩护的做法非常傲慢。今天的文章则说苹果的售后规定涉嫌违反中国法规，并首次提到苹果可能偷税，<a href="http://paper.people.com.cn/rmrb/html/2013-03/28/nw.D110000renmrb_20130328_4-09.htm?div=-1"><u>质疑</u></a>苹果应用商店是否纳税。偷税是中国对付跨国公司的杀手锏。对于谁更傲慢，媒体调查显示消费者<a href="http://cn.wsj.com/gb/20130328/rlw095705.asp"><u>更不满的是</u></a>垄断性质的央企，如三大石油公司，三大电信运营商，四大国有银行...很多中资银行和政府机构都提供电子评价器，让用户对服务体验进行评价。但用户也不敢多按“不满意”键，否则银行柜员的脸色可不好看。
+➜Google Glass将是“美国制造”
+https://www.solidot.org/story?sid=34041	14760
+《金融时报》<a href="http://www.ftchinese.com/story/001049668"><u>报导</u></a>，谷歌将在硅谷生产数字眼镜——谷歌眼镜(Project Glass)，凸显电子产品的制造正在回归美国。熟悉谷歌计划的人士表示，该公司正与台湾代工商鸿海精密/富士康合作，在加州圣克拉拉的一处设施组装这款头戴式设备。这一决定将支持奥巴马总统确保“制造业的下一场革命是‘美国制造’”的努力。去年12月，苹果首席执行官蒂姆•库克承诺，将投资1亿美元在美国从事制造活动。富士康也表示在考虑拓展其美国业务。
+➜朝鲜关闭仅开放一个月的3G服务
+https://www.solidot.org/story?sid=34042	17252
+朝鲜<a href="http://www.ibtimes.com/north-korea-halts-3g-internet-service-visitors-after-one-month-1155297"><u>关闭了</u></a>仅仅开放一个月的3G数据网络。3G数据网络服务是朝鲜专门提供给外国游客使用的，从2月22日开始启用，外国游客可使用朝鲜国有移动运营商发行的SIM卡上网冲浪，访问Facebook和Twitter等网站和服务。朝鲜官方没有解释为什么要关闭3G网络。从目前面临联合国制裁的形势和切断与韩国通信管道等一系列动作看，朝鲜看上去是在试图加强通信限制。但和朝鲜发生的大多数事情一样，我们可能永远不会知道真正的答案。
+➜埃及军方抓住三名试图切割海底光缆的男子
+https://www.solidot.org/story?sid=34043	25592
+埃及海军宣布<a href="http://www.bbc.co.uk/news/world-middle-east-21963100"><u>抓住了</u></a>三名试图割断地中海海底光缆的潜水员。军方发言人Ahmed Mohammed Ali上校称，三名男子是在距亚历山大港口仅几百米的一艘渔船上被抓住的。三名男子试图切割的是埃及电信使用的海底光缆SEA-ME-WE 4（South East Asia Middle East Western Europe 4）——该光缆连接了中东、东南亚和西欧等国。3月27日，切割光缆<a href="http://en.wikipedia.org/wiki/SEA-ME-WE_4#Mar_27.2C_2013_fault"><u>导致</u></a>埃及和巴基斯坦等国的网速恶化，速度下降60%。埃及没有提供他们为什么切割光缆的原因。海底光缆直径通常为69毫米，每米重大约10公斤，使用的元件有铜管或铝管等。
+➜企业可否用空闲处理器挖矿最大化效益？
+https://www.solidot.org/story?sid=34044	27352
+/.上有一个有趣的<a href="http://ask.slashdot.org/story/13/03/27/1437246/ask-slashdot-enterprise-bitcoin-mining-for-go-green-initiatives"><u>讨论</u></a>：当比特币的价值达到了令人瞠目的<a href="http://bitcoincharts.com/markets/mtgoxUSD.html"><u>90美元/比特币</u></a>，挖矿对大型企业的诱惑力大增。鉴于比特币不是无限发行，而是有限的，即使它的价值未来出现下滑，它的保值力也相当可观。如果一家大型企业有上万台电脑，每隔几年更换一次，大多数情况下空闲（甚至HPC的利用率也只有50%），是否可以用空闲处理器能力去挖矿？这不同于志愿性质的SETI@home网格计算，而是能真正带来金钱回报。比特币采矿收入可用于支付电费甚至是硬件采购费用，甚至可能盈利。
+➜黄河浮尸每年约100具，未影响水质
+https://www.solidot.org/story?sid=34045	27537
+<a href="/~mtjs">mtjs</a> 写道 <i>"<a href="http://zh.wikipedia.org/wiki/File:Yellowrivermap-zh-hans.jpg">黄河</a>，中国古代称河，发源于中国青海省巴颜喀拉山脉噶达素齐老峰，流经青海、四川、甘肃、宁夏、内蒙古、陕西、山西、河南、山东9个省区，最后于山东省东营市垦利县注入渤海。从源头到内蒙古自治区托克托县河口镇为上游。
+由于近日网络传播报道称“<a href="http://news.qq.com/a/20121009/000234.htm">媒体调查称黄河兰州段浮尸超1万具 无人愿管</a>”消息，兰州市委宣传部于28日<a href="http://www.bjnews.com.cn/news/2013/03/28/255519.html">通报媒体称</a>，综合数据显示，平均每年从黄河兰州段漂浮的尸体约有100具;目前该市正在加紧制定《关于加强黄河兰州段浮尸处理工作》，组建专业打捞队。针对黄河兰州段的确切浮尸数量，兰州市公安局提供了2008年以来的相关数据：“2008年至2012年间，兰州市水上派出所和皋兰县公安局在该区域共计处理尸体417具，属于刑事案件的尸体2具，治安处理的尸体415具。“另外，也存在极少数农民自行打捞尸体的情况。综合三部分的数据，平均每年从黄河兰州段漂浮的尸体约有100具左右。” &nbsp;浮尸是否会污染黄河水质?兰州市环保局副局长李磊称：“该局在什川设立专门的监测站点，每月都会有相应的数据反馈回来，数据显示水质正常，符合标准，没有出现因浮尸影响黄河水质的情况。”
+附：<a href="http://zh.wikipedia.org/wiki/File:Yellowrivermap-zh-hans.jpg">黄河流经线路图</a>"</i>
+➜加拿大最高法院裁决短信是私人通信
+https://www.solidot.org/story?sid=34046	29637
+加拿大最高法院<a href="http://scc.lexum.org/decisia-scc-csc/scc-csc/scc-csc/en/item/12936/index.do"><u>作出裁定</u></a>，短信属于私人通信，警方必须获得法院的搜查令才能调阅公民的私人短信。最高法院大法官 Rosalie Silberman Abella<a href="http://www.cbc.ca/news/technology/story/2013/03/27/technology-telus-text-messages-scc-decision.html"><u>说</u></a>，短信和传统语音通信之间唯一的实际区别是传输过程，这种区别不应该将短信置于私人通信的保护范畴之外。
+➜Linux Deepin 12.12 Beta 发布
+https://www.solidot.org/story?sid=34047	30510
+<a href="http://www.linuxdeepin.com">tuhaihe</a> 写道 <i>"Linux Deepin 项目组<a title="Linux Deepin 12.12 Beta 发布" target="_blank" href="http://planet.linuxdeepin.com/2013/03/28/linux-deepin-12-12-beta-release-out/">发布</a>了 Linux
+Deepin 12.12 Beta 版本。Beta 版本集成了 Linux Deepin 两个多月以来的工作成果，带来了许多新功能与特性改进，主要有首次亮相的<b>搜狗输入法
+Linux Deepin 社区版</b>、功能与稳定性得到极大优化增强的深度桌面环境。同时，深度软件中心升级到 3.0 Beta，对性能进行了优化，提升启动速度；深度音乐播放器升级到 2.0 Beta、深度影音播放器升级到 2.0 Beta、深度截图工具升级到 2.0 Beta。还有系统的开关机主题、图标主题等也进行了更新。"</i>
+➜文本即时通讯动了移动运营商的蛋糕
+https://www.solidot.org/story?sid=34048	32740
+移动平台上的文本即时通讯软件WhatsApp、微信、Kakao Talk和Line，正日益取代短信成为数亿人不可或缺的通讯工具。文本即时通讯的费用主要来自使用的流量，相比短信要低得多，因此<a href="http://cn.wsj.com/gb/20130328/tec143628.asp"><u>严重冲击了</u></a>移动运营商。用户收发一条短信可能需要支付高达20美分的费用，而运营商的成本仅为0.01美分。根据市场研究公司Ovum的数据，截止2012年底，文本即时通讯应用程序的崛起已导致运营商损失了230亿美元的收入。中国也传出了中移动中联通等移动运营商试图对微信收费的<a href="http://it.people.com.cn/n/2013/0328/c1009-20950920.html"><u>传言</u></a>。
+➜黑客爱用Evernote储存窃取的数据
+https://www.solidot.org/story?sid=34049	35981
+黑客在恶意程序中利用公有云服务已经屡见不鲜，最新的一个例子是疑似中国籍黑客利用Evernote笔记服务<a href="http://arstechnica.com/security/2013/03/evernote-so-useful-even-malware-loves-it/#p3n"><u>与恶意程序通信</u></a>。<br>
+<i>趋势科技的安全研究人员发现了一个后门恶意程序<a href="http://blog.trendmicro.com/trendlabs-security-intelligence/backdoor-uses-evernote-as-command-and-control-server/"><u>BKDR_VERNOT.A</u></a>，一旦安装之后，恶意程序能执行多种后门功能，如下载、执行和重命名文件。它会先收集受害者计算机系统的信息，包括计算机名字、用户名字，注册所有人和机构，操作系统版本和时区。但令人感兴趣的部分是，BKDR_VERNOT.A将某个中文Evernote帐号作为命令控制服务器和储存窃取的数据。帐号被硬编码在程序中，目前已被关闭，但原因是Evernote因安全入侵重置了所有用户的密码。
+</i>
+➜Mozilla要让虚幻引擎3能运行在浏览器上
+https://www.solidot.org/story?sid=34050	38477
+Mozilla相信Web能成为满足任何需求的平台，这是它为什么投资基于Web的移动操作系统Firefox OS，参与开发WebGL（为了将3D图形带到浏览器），Emscripten（C++应用编译成的JavaScript的工具），asm.js（高性能JavaScript子集）的原因。现在，在GDC大会上，Mozilla<a href="https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/"><u>宣布</u></a>与 Epic Games合作将虚幻引擎3移植到浏览器上，它希望浏览器不仅仅能运行休闲游戏，还能运行大型AAA级3D游戏。但Mozilla面临的问题要比JavaScript和WebGL难得多，目前概念验证的WebGL应用一大问题是载入时间。传统3D游戏需要高速载入本地储存的大量纹理和模型，而从服务器上载入1GB大小的地图数据和纹理将是对耐性的一大考验，<a href="http://arstechnica.com/information-technology/2013/03/mozilla-making-the-web-a-gaming-platform-with-unreal-3-engine-in-a-browser/"><u>用户不会希望为玩30秒而等待30分钟载入</u></a>。
+➜GNOME 3.8发布
+https://www.solidot.org/story?sid=34051	40093
+<div align="center"><a href="http://img.solidot.com.cn/0/258/li0QdpLAtZ5aU.png"><img src="http://img.solidot.com.cn/0/258/li0QdpLAtZ5aU.png" align="" height="180" width="320"></a><br>
+<br>
+<div align="left">GNOME桌面项目宣布发布<a href="https://www.gnome.org/news/2013/03/gnome-3-8-released/"><u>GNOME 3.8</u></a>。新版包含了大量新特性、新应用、bug修正和增强。主要新特性包括：重新设计应用程序启动视图，更容易找到应用程序；增强搜索，更新搜索结果视图和结果控制；新的隐私设置；为喜欢传统桌面体验的用户提供新的经典模式；新的时钟应用程序；大幅更新设置，增加了4个新的设置面板；更新大量应用程序，改进了Web性能（浏览器采用WebKit2后端），Documents增强UI，新的联系人编辑模式，等等。
+</div>
+</div>
+➜OpenOffice仍是开源办公软件之王
+https://www.solidot.org/story?sid=34052	42978
+虽然最近两年LibreOffice风头正盛，但OpenOffice依旧是<a href="http://arstechnica.com/information-technology/2013/03/libreoffice-adoption-soaring-but-openoffice-still-open-source-king/"><u>开源办公软件之王</u></a>，LibreOffice的流行度和下载量仍然远低于OpenOffice，它还有很长的路要走。LibreOffice赢得了主要Linux发行版的青睐，取代OpenOffice成为默认的办公软件，但Linux用户如果愿意可以随时下载OpenOffice，而Linux桌面的市场占有率只在1%上下，因此影响有效。自2011年1月发布以来，大约有2100万用户活跃使用LibreOffice，相比之下2012年5月发布的OpenOffice 3.4下载量已经超过了4千万次，当然LibreOffice只计算了活跃用户，不包含只下载不使用的用户。但根据每天的下载量仍然能看出哪个软件更受欢迎：LibreOffice每天的最高下载量10万以上，而OpenOffice日均下载量有16万左右。
+➜新型冠状病毒比SARS更致命
+https://www.solidot.org/story?sid=34053	44244
+《南华早报》<a href="http://www.scmp.com/news/hong-kong/article/1201377/hk-researchers-find-mysterious-new-coronavirus-could-be-deadlier-sars"><u>报导</u></a>（<a href="http://www.scmpchinese.com/sc/international/5768/xin-xing-guan-zhuang-bing-du-bi-sha-shi-geng-zhi-ming"><u>中文</u></a>），中东发现的<a href="http://www.solidot.org/story?sid=33851"><u>新型冠状病毒</u></a>至今已造成11人死亡，世界卫生组织刚刚<a href="http://www.who.int/csr/don/2013_03_26/en/index.html#"><u>通报了</u></a>第17例确诊病例及第11名死者。香港大学一项研究发现，这种病毒可能比SARS更加致命，而且更容易杂交，能够感染很多不同物种。SARS属于冠状病毒家族。研究人员表示，新型冠状病毒可以影响体内多个器官，并迅速杀死细胞。欧洲专家认为传染源尚不明确，但似乎源自于蝙蝠。港大研究团队的调查发现，这种病毒感染人类之前，猴子、猪、果子狸、甚至兔子等动物都曾为这种病毒的携带者，这意味着很难追溯人类感染的源头。对人体细胞系的测试发现，新型病毒可造成多个器官感染，侵袭下呼吸道、肝脏、肾脏和肠道，甚至感染吞噬人体死细胞的巨噬细胞。因此，感染了这种新型冠状病毒的患者会出现多处器官衰竭，死亡率高达56%，而SARS的死亡率只有11%。
+➜地球在燃烧，恐龙遭灭绝
+https://www.solidot.org/story?sid=34054	47163
+<div align="center"><img src="http://img.solidot.com.cn/0/259/liCOJv3WnNytk.jpg" align="" height="158" width="280"><br>
+<div align="left"><br>
+造成白垩纪末期恐龙灭绝的大灾难对整个地球造成了什么影响？根据发表在<em>《Journal of Geophysical Research</em> 》上的<a href="http://onlinelibrary.wiley.com/doi/10.1002/jgrg.20018/abstract;jsessionid=C488895479277EC3338281F29C961592.d04t04"><u>论文</u></a>，研究人员认为，撞击的碎片<a href="http://arstechnica.com/science/2013/03/dinosaur-killing-impact-set-the-world-on-fire/"><u>点燃了全世界的森林</u></a>。他们认为，撞击释放的能量将大量物质溅射到大气层之上，许多碎片的运动速度接近逃逸速度，因此能绕着地球轨道散播到各个地方，当它们落回地面，重入大气层产生的热量将其变成火球点燃植物。</div>
+</div>
+➜美国国会以安全为由限制政府机构采购中国IT设备
+https://www.solidot.org/story?sid=34055	47679
+美国国会在奥巴马本周签署的减支法案中<a href="http://www.theverge.com/2013/3/27/4154442/us-congress-restricts-purchase-of-chinese-computer-equipment-fearing-cyber-espionage"><u>加入网络间谍新审查流程</u></a>，禁止NASA、司法部和商务部购买中国IT系统——除非得到联邦执法官员允许。<a href="http://www.chinadaily.com.cn/hqzx/2013-03/28/content_16354055.htm">其中一条规定要求</a>，有关部门在考虑购进IT设备之前，必须和法律执行部门一起对“网络间谍或破坏”风险作出正式评估。而评估的对象必须包括由中国“所有、领导或补贴的一个或多个实体生产、制造、装配的IT系统”。
+➜学习粉丝团可以有，国母粉丝团真不可以有
+https://www.solidot.org/story?sid=34056	48082
+中国新任国家主席习近平的夫人彭丽媛在国际舞台上成功亮相，引发了中国网民对她的优雅风度和精心装扮的<a href="http://cn.wsj.com/gb/20130326/rcu115451.asp"><u>狂热追捧</u></a>。28岁的厦门大学MBA学生王健模仿“学习粉丝团”，在微博上创建了一个“国母粉丝团”，迅速吸引了大量粉丝关注。<a href="http://news.jnwb.net/2013/0326/58513.shtml"><u>他说</u></a>，自己并不是追星一族，之所以开这个微博也是突发奇想，觉得是件很有意义的事，今后他会一直关注“第一夫人”的。然而新浪及审查机构并没有让他如愿以偿，“国母粉丝团”<a href="http://www.scmp.com/news/china/article/1201366/weibo-shuts-down-popular-first-lady-fan-club"><u>已被关闭</u></a>，新浪还删除了大量相关帖子，屏蔽了相关搜索，淘宝网也采取行动关闭了与彭丽媛出访时所穿服饰类似的商品广告。
+<p></p>

@@ -1,0 +1,121 @@
+➜法国科学家宣布实现数据超快存取
+https://www.solidot.org/story?sid=11617	3600
+time 写道 "法国科学家<a href="http://www.physorg.com/news162995052.html">周日表示</a>，<a href="http://www.rp-photonics.com/ultrafast_lasers.html">超快激光</a>技术可以让硬盘读取和检索加速10万倍。<i>
+这项技术建立在Albert Fert 和&nbsp;Peter Gruenberg（2007年诺贝尔物理学奖）的成果上。Fert和Gruenberg在1990年代的工作奠定了小型存储技术的物理基础，他们的研究打开了<a href="http://www.sciencenet.cn/html/showsbnews1.aspx?id=191802">利用自旋电子学原理</a>实现硬盘高密存储的通途。但是磁传感器一直是读取速度的瓶颈周六出版的<a href="http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys1285.html">Nature Physics</a>特刊刊载了法国斯特拉斯堡Jean-Yves Bigot研究小组的成果。他们使用飞秒激光改变电子的自旋，从而提高检索和存储速度。该小组称这种方法为自旋光子学(photonics of spin)，因为是光子改变了存储介质表面的电子的磁化向量(magnetization)。 </i>
+飞秒激光器现在体积过大，还不适合用于消费性电器。Bigot表示它的微型化可能在十年内实现。IBM 和 Hitachi均表示对这项研究“极为感兴趣”。"
+➜当HTML 5遇见Google
+https://www.solidot.org/story?sid=11618	4800
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "在 <a href="http://code.google.com/events/io/">Google I/O</a> 的开发者大会，Google 工程副总裁 Vic Gundotra 表示了他们对下一代 HTML语言，HTML 5的承诺。尽管 <a href="http://www.whatwg.org/specs/web-apps/current-work/">HTML 5</a> 还处在草案阶段，W3C 的委员会还在针对这一草案进行漫长的讨论，然而 <a href="http://www.webmonkey.com/blog/How_HTML_5_Is_Already_Changing_the_Web">HTML 5 已经被广泛实现</a>，或者作为一种实验性的演示，或者已经成为某些Web程序的核心。HTML 5 为我们提供了不同的机会，Gundotra说，他同时提到，在过去的10年，JavaScript在主流浏览器中的速度已经提升了接近100倍，这大大改善了 Web 程序的速度。Gundotra 还提供了<a href="http://htmlfive.appspot.com/">多个 HTML 5 演示</a>，包含一个<a href="http://www.youtube.com/html5">使用 HTML 5 实现的 YouTube 页</a>，所有的视频播放均以 HTML 5 实现。           Gundotra 说，现在的视频，问题在于有甚多东西是我们所不能控制的，HTML 5 为我们提供了一个 &lt;video&gt; 标签，就像使用 &lt;img&gt; 标签一样简单。
+<br> <br>Demo 中还有一个使用 JavaScript 实现的移动跟踪视频程序，全部使用 HTML 实现视频播放。一个妇女在摄像机前面走过，JavaScript 实时对她的图像进行跟踪，在她身体不同部位用方框标识出来。过去，这类应用通常会让浏览器崩溃或失去反应，但 HTML 5 的 “web workers”后台处理能力很强，浏览器在该程序运行期间几乎看不到任何卡的现象。这个演示赢得全场4000个与会者的热烈鼓掌。<br>另一个 Demo 是类似 Doom 的<a href="http://htmlfive.appspot.com/static/gifter.html">第一人称设计游戏</a>，全部由 JavaScript 和 HTML5 的 Cavas 矢量图引擎实现。Gundotra 还演示了一个基于 canvas 的 Google Analytics 应用，2D 图表可以实时缩放，还有一个完全基于 HTML 5 和 JavaScript 的 3D 海滩镜像，翻涌的海浪，跳动的火炬，随风摆动的棕榈树。
+<br> <br>Gundotra 演示的主题为，Google 倍感兴奋的 5 个 HTML 5 部件，它们是 Canvas, Video, web workers, geolocation, app 缓存, 以及数据库访问。
+<br> <br>最新的 Android 浏览器以及即将发布的 Mobile Safari 移动浏览器会支持部分  HTML 5 功能，因此 Google I/O 上也提供了移动演示。演示中，一个 Gmail 用户在没有网络连接的状态下，使用移动浏览器中访问自己的邮件，利用的是 HTML 5 的离线数据库功能，另外一个演示是，一个 iPhone 用户在 Google Latitude 中更新自己的地理位置信息，最新的 iPhone 软件将支持 HTML 5 的 geolocation 地理信息功能。
+<br> <br>HTML 5 获得 Google 的青睐并不奇怪，Web 是 Google 的核心，任何让 Web 程序更快，更好，更实用的技术都在 Google 那里得到支持，只要这种技术够开放。不过，事情也并非始终乐观，很多文章指出，微软的最新浏览器 IE8 不支持 HTML 5 的绝大多数功能，包括视频播放，Canvas，以及 Web workers。
+<br> <br>微软的回应是，对于那些未经测试的技术应该抱谨慎态度，然而更接近事实的解释恐怕是，微软在自己的 Silver light 中有自己的播放技术。微软曾发誓将支持 HTML 5，但同时表示那将是很远的事。然而 Gundotra 的演示却显示，HTML 5 已经长大，所有别的浏览器都在这方面努力作为，这对微软或许会是一种触动。
+<br> <br> <strong>延伸阅读</strong>
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K701.aspx">深入了解 HTML 5</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K804.aspx">让 JavaScript 拯救 HTML5 的离线存储</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K745.aspx">Web Forms 2.0 行将被 HTML 5 代替</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K511.aspx">HTML 5 正在改变 Web</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K667.aspx">HTML 5 令人期待的 5 项功能</a> </li>
+</ul>
+<br> <br>本文国际来源：<a href="http://www.webmonkey.com/blog/Google_Throws_Its_Weight_Behind_HTML_5">http://www.webmonkey.com/blog/Google_Throws_Its_Weight_Behind_HTML_5</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜FBI电邮系统被病毒攻击，服务器被迫关闭
+https://www.solidot.org/story?sid=11619	5760
+<a href="http://szlug.org/">权相龙</a> 写道<i> "FBI已正式报告关闭其非保密电邮系统(G-men's vast communications network)长达九天，<a href="http://www.daniweb.com/blogs/entry4393.html#">原因是为了防范一种恶意计算机病毒的攻击</a>。怪不得最近奥巴马政府要成立一个网络安全小组。"</i>
+➜Bing，Google，Yahoo的终极比拼
+https://www.solidot.org/story?sid=11620	6840
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "微软 Bing 的出现让新一轮搜索引擎大战一触即发。Bing 提供了许多实用的新功能，Google 则始终以高质量搜索结果坚守阵地，而 Yahoo，凭借其在内容领域的优势，为搜索结果提供更多有意义的内容。这三个搜索引擎到底孰优孰劣，PC World 的编辑通过实际使用对三者做了一番对比(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K815.aspx">完整图文版</a>)。           首页对比
+<br> <br>Bing 的首页很绚丽，使用了漂亮的照片，但导航很方便，Bing 的首页还链接了微软自己的一些产品，如 MSN， Windows Live, Bing Travel 等。Google 则是一贯的简洁大方，大面积的空白加搜索条，以及一些指向 Google 产品的蓝色链接。Yahoo 的首页最拥挤，因为 Yahoo 并非单纯的搜索引擎，还是一个互联网门户。
+<br> <br>
+搜索结果
+<br> <br>Bing 的搜索结果包括两大部分，一个位于左侧的导航面板，包含一些快速标签，可以更快地定位搜索结果；位于中间的按类别归纳的搜索结果，搜索结果包含即时回答，深度链接以及多媒体。Google 和 Yahoo 的搜索结果则是老老实实的链接内容，虽然这些内容中也可能包括即时回答，深度链接以及多媒体。<br> <br>
+流行音乐搜索
+<br> <br>Yahoo 的结果中不仅包含歌手及其粉丝站点的链接，还包含可以直接在搜索结果中播放的视频链接，Bing 的结果中包含视频预览，Google 则提供专门的视频搜索结果标签窗口。<br> <br>
+机票搜索
+<br> <br>由于 Bing 包含了 Bing Travel 的 <a href="http://www.pcworld.com/article/134739/best_travel_planning_sites.html">Farecast technology</a> 技术，微软在发现最便宜机票方面略高 Google 和  Yahoo 一筹。Farecast 列出某条线路最近的价格升降图表，可以籍此预测未来的价格。Yahoo 提供了类似工具，通过价格对比表，你可以调整自己的线路。<br> <br>
+酒店搜索
+<br> <br>Farecast 技术同样可用于酒店预订，Bing Travel 结果中包含详细的酒店信息，甚至包括指定酒店历史房价对比。Yahoo Travel 则会为你找出酒店的特价，当给出的价格是促销价的时候，还会显示一个“好价钱”标签。Yahoo 还可以根据你的价位进行搜索，并显示用户评价。Google 不提供旅行服务。<br> <br>
+搜索结果再提炼
+<br> <br>Bing 提供搜索结果提炼工具，直接显示在所有搜索结果，Google 和 Yahoo 也包含类似功能，但需要额外点一次键。Google 在左上角提供 “选项”，让你对搜索结果分类，Yahoo 则要求你点击搜索条旁边的标签，滑出一个搜索助手。<br> <br>
+Bing 视频搜索
+<br> <br>Bing 在显示，浏览，提炼搜索结果方面比它自己的上一代产品 Windows Live 要好得多。位于屏幕左侧的工具，提供详细的提炼工具，比如，视频长度，尺寸，分辨率，来源。将鼠标放到视频上即可预览，点击一下就可以在上方的播放器中播放。<br> <br>
+Google 视频搜索
+<br> <br>Google 允许你根据视频来源和视频长度提炼结果，还可以选择结果布局方式，点击视频，会在右上角直接播放。<br> <br>
+Yahoo 视频搜索
+<br> <br>Yahoo 也提供了类似的视频搜索提炼工具，可以选定“Official Video”，但我不知道这个 Official Video 是什么意思。一些视频可以直接在搜索结果播放，一些则需要进入来源站点播放，不过 Yahoo 通过 frame 将来源站点嵌入到自己的页面。<br> <br>
+Bing 购物搜索
+<br> <br>基于 Bing 购物服务，Bing 的产品搜索结果中会显示来自多个站点的用户评价，还可以通过标签窗口显示产品的详细资料和预览。搜索结果还可以链接到 <a href="http://www.pcworld.com/article/157293/gates_announces_live_search_cashback.html">Bing Cashback 计划</a>，微软在这方面花了大本钱。<br> <br>
+Google 购物搜索
+<br> <br>Google 在其购物服务中将价格加亮，和 Bing 一样，也提供用户评价，技术规格以及相关产品标签窗口。<br> <br>
+Yahoo 购物搜索<br> <br>
+Yahoo 购物搜索为你提供产品的放大预览，提供价格信息，提供用户评价，产品规格，价格对比等。<br> <br>
+本地搜索
+<br> <br>Bing 提供了很好的本地酒店概览，包括关于总体质量，环境以及一些具体细节的综合评分。Google 提供地图，星级，照片等，Yahoo 提供的结果比较有限，包括星级，地图，营业时间以及价格。<br> <br>
+医疗保健搜索<br> <br>
+Bing 在搜索糖尿病，流感等疾病的时候，会返回最好的医疗资源，如 Mayo Clinic，使用左侧的导航，你可以细化到具体症状。Yahoo 的结果中会显示这些疾病的资料，包括症状，病因，治疗。Google 在搜索流感的时候会显示 Wikipedia 中的相关条目，以及来自疾控中心的一些资料。Google 对医疗卫生的关注并非体现在其搜索中，他们有一个专门的 <a href="http://www.pcworld.com/businesscenter/article/146070/google_health_beta_service_goes_live.html">Google Health</a> 计划。<br> <br>
+地图搜索
+<br> <br>Bing Maps 提供的东西和 Live Search 别无二致，Bing 和 Google 都会在专门的气球式窗口中显示你所要找到地点的信息，Google 在地图中提供街景服务，而 Bing 则提供多数城市的鸟瞰图。Yahoo 在页面一侧提供方向控制工具，Yahoo 也提供卫星图照片，但照片比起 Google 和 Bing 的似乎有点老。<br> <br>
+本文国际来源：<a href="http://www.pcworld.com/article/165749/bing_vs_google_vs_yahoo_feature_smackdown.html">http://www.pcworld.com/article/165749/bing_vs_google_vs_yahoo_feature_smackdown.html</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+"
+➜10大改变IT行业的软件
+https://www.solidot.org/story?sid=11621	9360
+Vnunet列出了<a href="http://www.vnunet.com/vnunet/news/2243224/top-industry-changing">10大改变IT行业的软件</a>(<a href="http://www.vnunet.com/articles/print/2243224">全文</a>)：<i>
+第一个可以显示图片的浏览器Mosaic，最成功的排版软件Quark Xpress，电子表格程序Lotus 1-2-3，最早的邮件程序 SNDMSG，图形编辑软件Adobe Photoshop，最早的杀毒软件Dr. Solomon的Antivirus Toolkit（后被McAfee收购），办公软件Microsoft Office，开源Web服务器Apache，基于公钥系统的加密和/或签名工具PGP，数据库Oracle。荣誉提名：扫雷和短信SMS。</i>
+➜雅虎统计关闭 用户被引导定向转移
+https://www.solidot.org/story?sid=11622	10800
+<a href="http://www.ioio.name/">始作俑者</a> 写道 "从今日起<a href="http://tongji.cn.yahoo.com/">雅虎统计</a>开始向<a href="http://www.linezing.com/">量子恒道</a>迁移，此事在国内站长群众引起了广泛的讨论，许多站长对此褒贬不一。的确根据域名linezing.com的<a href="http://whois.domaintools.com/linezing.com">WHOIS信息</a>目前尚无法确定其所属公司，可能是利用员工个人身份注册的；但根据DNS服务器来看，推测应该是隶属于阿里妈妈，而且根据网站信息里面对自身的市场定位来看，也是属于阿里妈妈的业务范畴。相信在近期该域名会过度到阿里巴巴名下。           至于为什么雅虎统计关闭，新立门户为量子恒道，一些人认为是马云在瞎折腾，我并不这么认为，反而这是马云聪明的表现。一是因为阿里旗下没有一款专用的统计系统供淘宝店铺用户和阿里妈妈用户使用，以前一直都是使用的雅虎统计，毕竟雅虎统计是雅虎的平台，谁都不希望自己给别人养儿子，同样马云也不愿意为雅虎培养这么一个品牌；二是马云“帮助”雅虎关闭业务，将原来的雅虎用户转移到阿里巴巴的业务旗下，不费力气的从雅虎得到粘性高的用户群体。
+<br> <br>
+也有人说从量子恒道的网站本身，看不到任何阿里集团的字样，的确是这么回事，但是当初阿里妈妈出来的时候不也是这么一种情况么，这只能说马云开始学会了打舆论牌，相信在不久的将来便会出来正名，像当初对待阿里妈妈如出一辙。"
+➜科学上的弄虚作假行为有多普遍？
+https://www.solidot.org/story?sid=11623	12900
+弄虚作假行为在国内相当普遍，<a href="http://www.xys.org/">新语丝网站</a>上经常揭露各种丑闻，如最近一例<a href="http://159.226.26.14/m/user_content.aspx?id=234374">论文全文抄袭事件</a>（发表在备受争议的《<a href="http://159.226.26.14/m/user_content.aspx?id=234786">Chaos, Solitons &amp; Fractals</a>》杂志上）。但问题是科学界中的<a href="http://www.physorg.com/news162795064.html">行为不检究竟有多常见</a>(<a href="http://only-perception.blogspot.com/2009/05/blog-post_31.html">中文</a>)？爱丁堡大学的Daniele Fanelli在开放获取杂志PLoS ONE发表了第一份<a href="http://science.slashdot.org/article.pl?sid=09/05/30/147221">对科学家不当行为的调查分析报告</a>，结果指出改变或编造数据比先前所估计的更频繁，而且在医学研究中特别高。
+<i>
+最近发生的丑闻如黄禹锡的<a href="http://www.medicalnewstoday.com/articles/78745.php">假干细胞系</a>或者挪威Jon Sudbo<a href="http://www.bbc.co.uk/science/horizon/2004/hendrikshontrans.shtml">捏造的癌症试验</a>，戏剧性的证明不实研究很容易发表，即使是在最有名望的期刊上。调查中，大约2%的科学家承认他们至少一次曾杜撰、伪造或修改资料以“改善结果”，而多达33.7%的人承认其它可疑的研究行为（research practices）包含了“无法提出能反驳某人自己先前研究的数据”以及“基于某种直觉（gut feeling）：它们是不正确的，从分析中抛弃观测数据或数据点“。在讯问关于同僚行为的调查中，14%知道谁曾杜撰、伪造或修改数据，而多达72%的人知道某人曾犯下其它可疑的研究行为。
+</i>
+<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0005738">论文全文</a>
+➜食品安全法今日实施
+https://www.solidot.org/story?sid=11624	17400
+<a href="http://szlug.org/">权相龙</a> 写道 "
+<a href="http://news.xinhuanet.com/newscenter/2009-02/28/content_10918376.htm">食品安全法</a>今日实施，<a href="http://news.xinhuanet.com/legal/2009-05/31/content_11459132.htm">全面取消食品免检制度</a>。如果食品出了问题，你可以将产品生产企业、播放广告的媒体、广告公司、产品代言人，统统告上法庭，并且可以获得产品价值10倍的赔偿。"
+➜微软的必应（bing）上线
+https://www.solidot.org/story?sid=11625	19680
+微软的<a href="http://cn.bing.com/">bing</a>(中文名必应)搜索引擎beta版正式上线，除了细节上有差异外，整个界面与原来的Live搜索相比变化不大，并不能让人产生惊艳的感觉。<i>
+Bing中文版目前只有网页，图片，视频，资讯和地图搜索功能，没有提供微软在宣布时特别强调的“购物搜索，本地搜索和医疗保健搜索”。bing的主要引入注目的特色是：搜索图片时候，将鼠标放在图片上就能看到关于该图片的更多信息；搜索视频时，将鼠标放到视频上即可预览播放，包括Youtube在内的视频都可以用这种方法预览，如<a href="http://bit.ly/EDSA6">示例</a>。</i>
+➜数学Geek想要改革华尔街的定量分析
+https://www.solidot.org/story?sid=11626	23520
+想象一下，一位航空工程师设计一架超级先进的客机，为了能在天上飞行，工程师需要让飞机满足基于牛顿第二动力学(F=ma，力等于质量乘以加速度)的空气动力学方程式。问题是工程师无法让飞机和方程式和谐统一起来，飞机超重，而且也没有足够的推力。然后令人意外的是工程师没有去修改他的设计，而是去改造方程式去满足飞机设计。从纸上看，飞机能飞，但当它被造出来并运载乘客时，开始的旅途一切正常，但最终它却坠机了。这就是过去几个月里定量金融学发生的事情。<i>
+现在，业内最有影响力的定量分析师，毕业于牛津大学的数学家，49岁的<a href="http://wilmott.com/">Paul Wilmott</a>表示他知道<a href="http://www.newsweek.com/id/200015">从何处开始改造定量分析</a>。曾预言过华尔街崩溃的定量分析师和《黑天鹅》作者Nassim Taleb说，Wilmott是唯一一位真正理解发生了什么事情的人。Wilmott正通过<a href="http://wilmott.com/cqf.cfm">CQF</a>(Certificate in Quantitative Finance)<a href="http://science.slashdot.org/article.pl?sid=09/05/31/098218">拯救定量数学家</a>，让人们远离未来的灾难。Wilmott说，“我们必须回去再测试模型，而不是敬畏它们。”他指出工作是艰苦卓绝的，认为一些重要的控制金融业方向的原则可能是错误的。</i>
+➜日本大学分发iPhones以遏制逃课
+https://www.solidot.org/story?sid=11627	26640
+日本青山学院大学向社会信息学院的550名学生分发了苹果的iPhone 3G手机，目的是利用iPhone上的GPS功能<a href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;objectid=10575661">抓住逃课的学生</a>。<i>
+出席次数是该所大学学生毕业的要求之一，因此有很多逃课的学生会让他们的同学在点名时代替回答。iPhone手机的GPS导航系统能自动检查位置，可以很方便的知道谁是否出席了。当然想旷课的学生仍然可以通过把手机借给同学去逃避检查，但由于手机中含有个人信息和电子邮件，因此出借的可能性不大。<a href="http://tech.slashdot.org/article.pl?sid=09/06/01/0312200">/.</a>评论称，大学生已经到了可以判断去上课是不是浪费时间的年龄。</i>
+➜常州城管网站被黑客恶搞
+https://www.solidot.org/story?sid=11628	27720
+《扬子晚报》报道，从29日到31日上午，<a href="http://epaper.yangtse.com/yzwb/2009-06/01/content_12731487.htm">常州城管网站被黑客恶搞</a>：<i>
+首页被加上“城管队员武艺高强，菜农溃不成军”，“城管队员按摩女河蟹一家齐欢乐”。下面则是一排类似内容的小标题：“城管队员深入实践，集体视察洗头房”；“城管队员深入实践，集体殴打小贩”；“城管队员武艺高强，菜农溃不成军”等小标题。但点击后并没有多少恶意攻击的内容，只有一幅<a href="http://combatsim.bbs.net/bbs/01/1458446.html">情色图片</a>：一男子衣衫不整搂着两个浓妆的女子。目前，常州警方已介入调查。</i>
+➜Linux移植到丁果A-320掌机
+https://www.solidot.org/story?sid=11629	30300
+深圳<a href="http://www.dingoo888.com/">丁果</a>数码产品有限公司最近推出了<a href="http://www.dingoo888.com/product.asp?id=1">丁果A-320掌机</a>，与DS Lite的下半部分差不多大小，显示屏2.8英寸，支持电视输出，支持RMVB、RM、AVI、WMV、FLV、MPEG、DAT、MP4、ASF等格式视频，4GB内存，支持外插MINI SD卡，由于没多少游戏开发能力，因此掌机捆绑了GB、GBC、GBA、SNES、CPS1、CPS2、NEO街机模拟器。<i>
+丁果A-320掌机不支持linux，但linux会主动提供支持。现在一位开发者<a href="http://games.slashdot.org/article.pl?sid=09/06/01/042251">发布</a>了<a href="http://code.google.com/p/dingoo-linux/downloads/list">Dingoo Linux</a>，并将<a href="http://dingoo-a320.dcemu.co.uk/scummvm-on-dingoo-linux-210993.html">ScummVM</a>和<a href="http://dingoo-a320.dcemu.co.uk/prboom-doom-running-on-dingoo-video-211725.html"> PRBoom(Doom引擎)</a>移植到Dingoo Linux中。</i>
+➜PSP Go 基本资料泄露
+https://www.solidot.org/story?sid=11630	31800
+<a href="http://szlug/">权相龙</a> 写道 "
+定在E3展出的<a href="http://www.electronista.com/articles/09/05/30/psp.go.leak/">PSP Go掌机</a>，其基本资料已经<a href="http://www.electronista.com/articles/09/04/29/psp.go.launch.rumor/">泄露出来</a>：PSP Go的屏幕尺寸从PSP3000的4.3英寸降低到了3.8英寸，取消了UMD光驱，重量3.8盎司，内置16GB闪存,支持微型记忆棒以及无线蓝牙技术，支持蓝牙耳机。"
+➜Sourceforge收购Ohloh
+https://www.solidot.org/story?sid=11631	31920
+<a href="http://szlug/">权相龙</a> 写道 "SourceForge公司的业务，除了我们熟知的开源项目托管网站SourceForge.net外，还有 Slashdot，ThinkGeek和freshmeat。现在<a href="http://arstechnica.com/open-source/news/2009/05/sourceforge-acquires-foss-code-metric-web-site-ohloh.ars">Sourceforge宣布收购Ohloh</a>。
+<i>
+成立于2004年的<a href="http://www.ohloh.net/">Ohloh</a>，是开源程序员社区。其投资主要来自于个人风险投资者，如SoftTechVC的Jeff Clavier、知名的开源投资人Larry Augustin。该网站已经收集了最大的开源项目目录和程序开发者群体（来自3500个网站，数量均超过30万）。Ohloh也根据对重要的开源项目的贡献对程序员进行了评级。SourceForge称，Ohloh的数据趋势将帮助SourceForge实现广告计划，目标人群推测是开源程序员以及电脑发烧友构成核心用户。这笔收购预计将在6月初完成，<a href="http://www.oschina.net/news/1906">双方未透漏合同条款</a>。"</i>
+➜Linux份额回落到1%以内
+https://www.solidot.org/story?sid=11632	36600
+根据Net Applications的监视，4月份的Linux市场份额首次突破了1%，<a href="__SLASHLINK__" sect="linux" sid="09/05/01/1657226" sn="article" tid="94">达到1.02%</a>。五月份的数据显示Linux略有下降，再次回落到1%以内，<a href="http://marketshare.hitslink.com/os-market-share.aspx?qprid=9">为0.99%</a>。Windows从87.90%下降至87.75%，Mac小有上升至9.80%，其中Windows XP为61.54%，Windows Vista占24.35%，Windows 7仍然只有0.42%。<i>
+<a href="http://marketshare.hitslink.com/browser-market-share.aspx?qprid=0">浏览器市场</a>波澜不惊，Internet Explorer从66.10%降至65.50%，Firefox从22.48%略微增加到22.51%，Safari从8.21%增至8.43%， Chrome增长幅度最大，从1.42%增加到1.80%，Opera变化甚微，从0.68%升到0.72%。</i>
+➜欧盟考虑在新PC中捆绑多种浏览器
+https://www.solidot.org/story?sid=11633	38520
+《华尔街日报》<a href="http://online.wsj.com/article/SB124362706194767281.html?mod=googlenews_wsj">报道</a>，欧盟正在考虑强迫Windows用户在首次使用浏览器访问互联网时，<a href="http://yro.slashdot.org/story/09/05/30/2011248/EU-Wants-Multiple-Browser-Bundling-On-New-PCs">选择一款浏览器应用程序下载和安装</a>。欧盟将在未来几周宣布最终决定。<i>
+虽然最新的Windows 7已经允许用户卸载IE8软件，但是浏览器生产商如Opera，Mozilla和Google希望欧盟能对微软采取更严厉的制约。
+欧盟可能宁愿设定一个“投票栏” ，让用户选择任意一个浏览器下载及安装，将其中一个设为默认。捆绑浏览器的要求最终可能成为OEM制造商的一项责任。</i>
+➜新HDMI 1.4规格可能让消费者感到困惑
+https://www.solidot.org/story?sid=11634	40080
+制定高清多媒体接口规格的机构HDMI Licensing LLC宣布将在6月30日<a href="http://hardware.slashdot.org/article.pl?sid=09/05/31/0128242">发布新HDMI 1.4规格</a>。现有规格HDMI 1.3a是在2006年11月公布的，<a href="http://tech.qq.com/a/20090531/000282.htm">新版规格</a>将包括车载产品，3D影像支持，网络功能强化和音频功能扩展等方面。但不幸的是，新的规格可能会让购买家庭影院的消费者感到更困惑，他们必须仔细的观看说明，因为HDMI 1.4有5种连接线供选择——HDMI Ethernet Channel，Audio Return Channel，3D Over HDMI，4K x2K分辨率支持和新的Automotive HDMI。

@@ -1,0 +1,58 @@
+➜基础架构联盟新项目：Census
+https://www.solidot.org/story?sid=44729	7068
+<a href="http://hardenedlinux.org/">Shawn the R0ck</a> 写道 <i>"2014年的<a target="_blank" href="http://www.solidot.org/story?sid=41423">OpenSSL heartbleed漏洞</a>影响面过大，虽然今天的IT基础设施都重度依赖自由软件，但这些基础架构的自由软件项目有一些在设计和实现上有安全的考虑，有一些由于资源有限一直都对安全的投入有限，Linux基金会的<a target="_blank" href="https://www.coreinfrastructure.org/">CII（基础架构联盟）</a>最近的一个<a target="_blank" href="https://raw.githubusercontent.com/linuxfoundation/cii-census/master/OSS-2015-06-19.pdf">新项目Census</a>，计划针对Debian下的软件包包括OpenSSH,OpenSSL,NTP等基础软件进行安全审计工作，所有的工作成果都会<a target="_blank" href="https://github.com/linuxfoundation/cii-census">公布在github上</a>，目前这个项目的资金方是来自CII和<a href="http://www.gtri.gatech.edu/ctisl/host">HOST(美国国土安全部的开放安全技术项目）</a>，HOST项目直接得到美国国土安全部（注：不是NSA）的资助，这是因为在<a target="_blank" href="http://www.gpo.gov/fdsys/pkg/FR-2013-02-19/pdf/2013-03915.pdf">13636号行政命名</a>中直接描述了：“这是美国改善安全和国家重要基础设施的防御能力的政策，去维护一个鼓励高效，创新和经济繁荣同时保证安全，商业机密和人生自由的网络环境。“</i>HOST认为Census项目符合这项行政命令，美国国土安全部曾经发起了著名的自由软件入侵检测项目Surricata。类似的国家资助的项目还有欧洲议会今年也拨款100万欧元对重要的<a target="_blank" href="https://fsfe.org/news/2014/news-20141219-01.en.html">自由软件进行审计</a>。
+"
+➜任天堂总裁岩田聪去世，享年55岁
+https://www.solidot.org/story?sid=44730	8270
+任天堂沉痛<a target="_blank" href="http://www.nintendo.co.jp/ir/pdf/2015/150713e.pdf"><u>宣布</u></a>（PDF），现任总裁兼CEO 岩田聪因胆管肿瘤（胆管增长）于7月11日去世，享年55岁。<a target="_blank" href="https://zh.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%AA"><u>岩田聪</u></a>是游戏程序员出身，2002年被任命为任天堂社长，是第一位非山内溥家族成员出任任天堂社长。2013年他担任美国任天堂CEO，2014年披露因患有早期胆管肿瘤而接受了手术。
+➜中国多名维权律师被捕
+https://www.solidot.org/story?sid=44731	9692
+中国政府羁押、讯问了数十名人权律师，人权组织称中国政府的这一行动<a target="_blank" href="http://cn.wsj.com/gb/20150713/bgh094609.asp"><u>前所未有</u></a>。中国官方媒体上周六<a target="_blank" href="http://cn.nytimes.com/china/20150713/c13lawyers/"><u>公开指责</u></a>其中部分律师运作了一个“犯罪团伙”，从事给共产党抹黑、并通过诉讼“扰乱社会秩序”的活动。国际组织人权观察和国际特赦组织称，上周四以来，在北京、上海和广州，至少有六名律师遭拘留，另有超过50名律师被警方带走接受讯问。目前还不清楚引发政府突然展开打击律师行动的原因。《人民日报》在报道这些针对律师的指控时，称“他们的目的就是扬名获利、制造社会混乱”，报道同时刊登在官方通讯社新华社及其它网站上。官方新闻报道说，“这些‘死磕’律师在庭内、网上公开对抗法庭，并幕后指使挑头滋事骨干组织访民”进行抗议活动。
+➜Telegram遭遇DDoS攻击
+https://www.solidot.org/story?sid=44732	14969
+流行即时通讯软件Telegram过去几天<a href="https://telegram.org/blog/ddos"><u>遭遇了</u></a>DDoS攻击，导致亚洲以及全球用户出现登录和收发信息问题。Telegram CEO Pavel Durov在Twitter上<a target="_blank" href="https://twitter.com/durov/status/619486763032182784"><u>发帖</u></a>暗示攻击与竞争对手LINE有关。Pavel Durov<a target="_blank" href="https://twitter.com/durov/status/619501642199793665"><u>称</u></a>，因为Telegram的活跃用户过去两个月增长了3倍，让竞争对手感到了压力。DDoS攻击始于7月10日，一开始针对的是亚太区服务器，主要影响印度和东南亚用户，之后攻击范围<a target="_blank" href="https://twitter.com/telegram/status/619515927353278464"><u>扩大到了全球</u></a>，影响到了所有用户。攻击方法是TCP SYN洪水攻击，峰值攻击流量高达 200Gbps。Telegram称攻击源头在东亚。在中国，Telegram的网站以及Web版本已被封杀，但应用还没有被封。
+➜随着栖息地消失，候鸟群集朝鲜海岸
+https://www.solidot.org/story?sid=44733	17371
+随着全球各地栖息地的消失，大批候鸟群集到了<a target="_blank" href="http://phys.org/news/2015-07-habitats-migratory-birds-flock-korea.html"><u>朝鲜海岸</u></a>。鸟类学家只能飞到朝鲜去研究候鸟。他们表示，虽然手机和计算机访问受到限制，以及某些地方被禁止拍摄，朝鲜总体上还是很配合的，只要他们不涉及敏感主题。在三天的现场观察中，研究团队共数到了大约2万只候鸟，最远的候鸟来自南亚和澳大利亚。鸟类学家称，塍鹬是一种非常神奇的鸟类，它们从新西兰飞到中国，连续飞行7天，飞行距离8000公里，一个月后再飞行5000公里到阿拉斯加去繁殖。最后飞越太平洋返回新西兰，在9天内飞行1.1万公里。但随着中国和韩国沿海的快速发展，朝鲜沿海成为少数几个能提供鸟类偏爱食物的地方。
+➜苹果一家的利润占智能手机行业的92%
+https://www.solidot.org/story?sid=44734	24329
+生产智能手机的公司大约有1000家，但几乎所有的利润<a target="_blank" href="http://cn.wsj.com/gb/20150713/tec105116.asp"><u>都被苹果一家收入囊中</u></a>。Canaccord Genuity的Mike Walkley估计，第一季度苹果占八家领先的智能手机生产商总体营业利润的92%，上年同期这一比例为65%。Canaccord说，三星电子占比为15%。苹果和三星合计占行业利润的比重超过100%，因为其它智能手机生产商处于盈亏平衡或亏损状况。去年苹果iPhone的全球平均售价为624美元，而Android手机为185美元。
+➜Hacking Team通过虚假BGP路由广播劫持IP段
+https://www.solidot.org/story?sid=44735	30064
+Hacking Team雇员之间的电子邮件通信显示，该公司曾在2013年通过伪造BGP路由广播<a target="_blank" href="https://labs.opendns.com/2015/07/12/how-hacking-team-helped-italian-special-operations-group-with-bgp-routing-hijack/"><u>劫持了一个IP段</u></a>。<br>
+<i>Hacking Team向执法机构和情报机构出售远程控制工具，它的一个客户是监视有组织犯罪和恐怖主义的意大利国家军事警察的特别行动组，特别行动组利用钓鱼邮件等手段让远程控制工具感染目标的计算机，远程控制工具通过指令控制服务器记录按键和通信，上传收集的数据，收集目标的各种信息。2013年8月特别行动组失去了对指令控制服务器（IP地址46.166.163.175）的访问，原因是在一系列宕机事件后主机托管商Santrex（自治编号AS57668）的IPv4前缀46.166.163.0/24永久性无法访问（Santrex在当年10月破产）。为了恢复对服务器的访问，特别行动组寻求Hacking Team的帮助。Hacking Team与意大利网络运营商Aruba S.p.A（AS31034 ）合作，通过BGP路由广播向对等网络宣布它拥有46.166.163.0/24地址段，在对等网络接受之后，46.166.163.175地址再次可以访问。Aruba是在8月16日劫持该地址段，8月22日撤回了路由广播，显然特别行动组已成功修改了远程控制工具的配置，使其可以连上其它IP地址。这是已知的第一起ISP欺骗性的宣布拥有另一家供应商IP地址的<a target="_blank" href="http://arstechnica.com/security/2015/07/hacking-team-orchestrated-brazen-bgp-hack-to-hijack-ips-it-didnt-own/"><u>案例</u></a>。</i>
+➜任天堂关闭JavaScript GBA模拟器网站
+https://www.solidot.org/story?sid=44736	31253
+有开发者利用 HTML5 canvas和JavaScript audio API开发出了可以在浏览器上运行的GBA模拟器，让玩家可以在浏览器上玩经典GBA游戏如龙珠Z、超级马里奥A和口袋怪物翡翠版。任天堂对这个粉丝项目并不高兴，向托管浏览器版GBA模拟器的GitHub发出了<a target="_blank" href="https://github.com/github/dmca/blob/master/2015-07-06-nintendo.md"><u>DMCA删除通知</u></a>，要求关闭JavaScript GBA模拟器网站<a target="_blank" href="http://jsemu.github.io/gba/"><u>jsemu.github.io/gba/</u></a>的访问。该网站如今<a target="_blank" href="https://torrentfreak.com/nintendo-shuts-down-javascript-gameboy-emulator-150712/"><u>已被关闭</u></a>，但有意思的是模拟器的代码是<a target="_blank" href="https://github.com/taisel/IodineGBA"><u>开源</u></a>的，它们仍然可以被托管在其它地方。
+➜计算机系统故障有可能成为航空公司一大风险
+https://www.solidot.org/story?sid=44737	32038
+专家称，美国联合航空公司上周三因电脑系统故障而停飞数百航班的事件，不过是业务越来越自动化的航空公司未来可能面临状况的一次预演，而技术故障带来的冲击<a target="_blank" href="http://cn.reuters.com/article/2015/07/13/ual-flights-delays-idCNKCS0PN0AB20150713?sp=true"><u>将会越来越大</u></a>。这意味着一旦发生技术故障，航空公司会损失更多金钱。美联航的技术故障导致其无法提取机票预订记录，因而影响办理登机。航空业顾问ScottNason指出，其实发生系统故障的次数并未随着自动化程度上升而增加。他说：“区别在于，一旦发生（故障）后，可能（比以前）更容易影响到航空公司执飞航班的能力。”
+➜鸟瞰世界上最大的漂浮设备
+https://www.solidot.org/story?sid=44738	33534
+<center>
+<iframe src="https://www.youtube.com/embed/pqREfZNFGDc" allowfullscreen="" frameborder="0" height="240" width="480"></iframe><br>
+<br>
+</center>
+韩国的三星重工正在为壳牌公司建造世界上最大的漂浮设备Prelude FLNG。它长488米宽74米，满载超过60万吨，设计用于在海上生产液化天然气，能抵抗五级飓风，每年能生产360万吨天然气。它将作为远程基地在西澳大利亚外海工作25年。Prelude FLNG于2013年下水，至今上部模块已全部安装完毕，我们现在可以通过<a target="_blank" href="https://youtu.be/pqREfZNFGDc"><u>鸟瞰镜头</u></a>（YouTube）<a target="_blank" href="http://gcaptain.com/prelude-flng-taking-shape-birds-eye-view-of-largest-floating-structure-ever-built/"><u>体会一下</u></a>该设备的庞大。
+➜天河二号第五次称霸Top500榜单
+https://www.solidot.org/story?sid=44739	39579
+天河二号第五次<a target="_blank" href="http://top500.org/lists/2015/06/"><u>称霸Top500榜单</u></a>，Top10变化不大，唯一新入选的是第七名沙特的Shaheen II，它是一台Cray XC40系统，安装在阿卜杜拉国王科技大学，峰值运算速度5.536 petaflop/s。中国的天河二号有312万个核心，峰值运算速度33.86 petaflop/s，功率17,808KW，浮点运算性能是第二名的两倍，短时间内没有其它超级计算机能挑战它。第二名是美国橡树岭国家实验室泰坦，峰值运算速度17.59 petaflop/s；之后是劳伦斯利物莫国家实验室的Sequoia（17.17 petaflop/s），日本的K computer（10.51 Pflop/s），阿贡国家实验室的Mira（8.59 petaflop/s），瑞士的Piz Daint（6.27 petaflop/s）。包括天河二号和泰坦，有33个超算系统使用了英特尔的Xeon Phi协处理器加速计算。在Top500中，美国的超算数量遥遥领先，从上次的231台增加到233台，中国的超算数量减少到37台，落后于日本的39台，与德国相同。天河一号A的排名从上次的第17位降至了第24位。惠普制造的超算最多（178），之后是 IBM（91）和克雷（71）。
+➜曙光声称在研制1000petaflop/s的超算
+https://www.solidot.org/story?sid=44740	41521
+官方通讯社新华社援引曙光公司总裁历军的话<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/7/322760.shtm"><u>报道</u></a>，曙光正在研制运算速度达到1000 petaflop/s的超级计算机曙光7000，而且“从处理器、高速通信网络、大规模存储系统、系统软件到应用软件全面采用自主技术，安全可控。”自主技术和安全可控是目前当局在NSA大规模监控曝光之后在基础设施等重要领域推行的新政策。自主技术这句话颇值得玩味，在x86处理器领域，中国应该没有自主技术，但中国官方正大力推动开发基于IBM Power8架构的定制芯片，这或许能称得上是自主技术，曙光7000可能是基于 Power8。
+➜算法将40年的难民数据变成音乐
+https://www.solidot.org/story?sid=44741	43062
+<center>
+<iframe src="https://player.vimeo.com/video/132833445" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="281" width="500"></iframe><br>
+<br>
+</center>
+一位艺术家写了一个算法，将联合国过去40年的难民数据<a target="_blank" href="https://datadrivendj.com/tracks/refugees"><u>翻译成音乐</u></a>，并在世界地图上运用可视化技术将其表现出来（如果你只想听音乐的话，<a target="_blank" href="https://soundcloud.com/functionfoo/distance-from-home"><u>这里有纯音乐</u></a>）。音乐完全由算法控制：每年的难民人数控制乐器演奏的数量，难民人数越多乐器越多；难民迁移的平均距离控制了乐器演奏的时间和音调，距离越长乐器将会演奏更长更低音调的音符。
+➜黑客正利用Java 0day漏洞发动攻击
+https://www.solidot.org/story?sid=44742	44278
+趋势科技研究人员发现，被称为Operation Pawn Storm的网络间谍行动正利用一个Java 0day漏洞<a target="_blank" href="http://www.net-security.org/secworld.php?id=18618"><u>发动攻击</u></a>。Pawn Storm针对的是西方政府、军方、国防企业和媒体记者，被认为与俄罗斯政府有关。目前它的行动目标是北约成员国和美国国防机构。新的漏洞允许攻击者在默认Java设置下执行任意代码。漏洞主要影响 Java版本1.8.0.45，但不影响旧的版本v1.6和1.7。甲骨文公司正在开发补丁，目前用户最好禁用Java。
+➜距离新地平线飞越冥王星还有一天，NASA公布最新照片
+https://www.solidot.org/story?sid=44743	45585
+<div align="center"><img src="http://img.solidot.com.cn/0/835/liWDzhWjgoMQ.png" height="298" align="" width="560"><br>
+<br>
+</div>
+在历经9年和近50亿公里的飞行之后，NASA的新地平线号探测器即将在23小时后近距离飞越冥王星，目前它距离冥王星不到160万公里。NASA<a target="_blank" href="http://www.nasa.gov/feature/one-million-miles-to-go-pluto-is-more-intriguing-than-ever"><u>公布了最新照片</u></a>，揭示了冥王星表面可能的特征，如山崖和陨石坑。新地平线号的飞越地点是在9年前确定的，一个电脑程序<a target="_blank" href="http://cn.nytimes.com/science/20150713/c13pluto/"><u>计算了必要的飞行轨迹</u></a>，包括借助木星引力获得加速度。计算得把太阳和各行星的引力作用考虑进去。

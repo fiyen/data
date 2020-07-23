@@ -1,0 +1,48 @@
+➜中国科学家发现水稻富集镉的分子机制
+https://www.solidot.org/story?sid=61090	11304
+水稻富集镉会严重影响到人体健康，摄入过量的镉会引发<a href="https://zh.wikipedia.org/wiki/%E9%8E%98%E4%B8%AD%E6%AF%92"><u>中毒性疾病</u></a>，造成肾、骨骼、肺等多种器官病变。中国的镉污染问题过<a href="https://www.solidot.org/story?sid=34988" target="_blank"><u>去几年非常严重</u></a>，其中南方稻米镉污染情况尤为严重，而籼稻较粳稻具有更强的镉积累能力。中科院的研究人员在水稻中鉴定到一个镉的次级主动转运蛋白，主要在水稻根的质膜上表达，参与了水稻根部镉吸收和籽粒镉积累过程，该蛋白缺失可显著降低水稻对镉的吸收效率和籽粒镉积累量。研究人员进一步研究发现，在籼稻和粳稻中，基因型出现显著分化。田间试验表明，将粳稻基因型导入籼稻品种后，含有该基因型的水稻近等基因系籽粒镉含量可显著降低。该研究<a href="http://news.sciencenet.cn/htmlnews/2019/6/427682.shtm"><u>表明</u></a>，该基因型在低镉籼稻育种方面具有很大的应用潜力。<a href="https://www.nature.com/articles/s41467-019-10544-y" target="_blank"><u>研究报告</u></a>发表在《Nature Communication》期刊上。
+➜联邦快递可能会被列入 “不可靠实体清单”
+https://www.solidot.org/story?sid=61091	12333
+官媒环球时报称，受华为包裹事件影响，联邦快递可能会<a href="https://cn.reuters.com/article/fedex-china-unreliable-entities-list-062-idCNKCS1TP024" target="_blank"><u>被列入</u></a>中国的 “不可靠实体清单”，“中国网民不接受联邦快递的再次道歉”。 。距离联邦快递上次为 “误送” 华为包裹道歉还不到一个月，该公司周日又称，因操作失误导致一华为包裹被禁止寄往美国，“联邦快递可以接受和运送所有华为产品，但被列入美国实体清单的华为实体除外。”此前联邦快递将两个寄给华为亚洲地址的包裹转运至美国，并试图改变另外两个包裹的运输路径，且没有给出具体解释。中国国家有关部门随后对联邦快递未按名址投递快件行为依法启动调查程序，已经于 6 月 14 日向联邦快递（中国）有限公司送达了询问通知书。
+➜Ubuntu 19.10 仍然能运行 32 位应用
+https://www.solidot.org/story?sid=61092	13578
+Canonical 开发者上周<a href="https://www.solidot.org/search?tid=111"><u>宣布</u></a>，即将在下半年发布的 Ubuntu 19.10 将停止支持 x86_32 架构。对于 32 位应用，开发者建议采用 snaps 包格式封装，因为 snaps 会捆绑必要的 32 位库。这一消息导致 Valve 开发者 Pierre-Loup Griffais <a href="https://twitter.com/Plagman2/status/1142262103106973698"><u>宣布</u></a>  Steam 将不支持 Ubuntu 19.10，Steam 也不再向用户推荐使用 Ubuntu。Canonical 开发者随后<a href="https://discourse.ubuntu.com/t/i386-architecture-will-be-dropped-starting-with-eoan-ubuntu-19-10/11263/84"><u>澄清说</u></a>，Ubuntu 19.10 仍然能运行 32 位应用，他们只是停止更新 32 位的 i386 库，它将冻结在 18.04 LTS 版本。
+➜Google 正在实现自己的 curl
+https://www.solidot.org/story?sid=61093	17303
+curl 开发者 Daniel Stenberg 称，<a href="https://daniel.haxx.se/blog/2019/06/19/google-to-reimplement-curl-in-libcrurl/"><u>Google 正在实现自己的 curl</u></a>。Google 使用 Chromium 的网络协议栈 Cronet 去实现名为<a href="https://crbug.com/973603" target="_blank">  libcrurl</a> 的库，并将提供  libcurl API。Google 将使用自己的库去创造自己的 curl 工具。为什么要重新发明轮子？Google 认为使用 Cronet 允许开发者无需再去学习新的接口和相应工作流，能通过第一方或第三方应用增加 Cronet 的使用。
+➜盖茨称他最大的错误是未能开发出统治移动的 Android
+https://www.solidot.org/story?sid=61094	19134
+已退休的微软联合创始人比尔盖茨念念不忘的是他的公司<a href="https://www.inc.com/chris-matyszczyk/bill-gates-just-confessed-his-greatest-ever-mistake-he-still-hasnt-got-over-it.html"><u>在智能手机操作系统领域失败了</u></a>。在风险投资公司 Village Global 举办的活动上，盖茨被问到他所犯下的最大错误。他的回答是未能开发出 Android 去统治苹果之外的智能手机操作系统市场。微软统治了桌面操作系统市场，但在移动领域输给了苹果和 Google。这个市场已经比桌面更大，价值高达 4000 亿美元。在盖茨以及他的继任者鲍尔默的统治下，微软并不是一家拥抱开源模式的公司，而 Google 收购的 Android 之所以能填补空白，一个重要原因是选择了开源模式，盖茨的微软即便有机会<a href="https://tech.slashdot.org/story/19/06/23/172245/bill-gates-shares-his-greatest-mistake-ever"><u>也未必会这么做</u></a>。
+➜微软将 Slack 列入内部的禁用和不鼓励使用名单
+https://www.solidot.org/story?sid=61095	24360
+微软内部有一个禁止员工在日常工作中使用的软件和在线服务名单。<a href="https://www.geekwire.com/2019/no-slack-microsoft-puts-rival-app-internal-list-prohibited-discouraged-software/" target="_blank"><u>被列入禁止使用的软件</u></a>包括了企业消息应用 Slack，微软称 Slack Free、Slack Standard 和 Slack Plus 没有提供所需要的控制去正确保护微软的知识产权，它建议员工使用自己的 Microsoft Teams 服务。其它列入禁止名单的软件还包括 Grammarly 语法检查程序（因为它能访问邮件和文档中 Information Rights Management 保护的内容）和卡巴斯基安全软件，被列入不鼓励使用的服务包括亚马逊的 AWS、Google Docs、PagerDuty，甚至该公司去年收购的 GitHub 的云版本。
+➜微软发布 Windows 终端预览版
+https://www.solidot.org/story?sid=61096	24945
+<div align="center"><a href="https://img.solidot.org/0/891/lilrIZfhgiDIs.jpg"><img src="https://img.solidot.org/0/891/lilrIZfhgiDIs.jpg" width="450" height="237" align=""></a><br>
+</div>
+<br>
+微软在 Microsoft Store <a href="https://devblogs.microsoft.com/commandline/windows-terminal-microsoft-store-preview-release/"><u>发布</u></a>了 Windows Terminal 的<a href="https://www.microsoft.com/zh-cn/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab"><u>预览版</u></a>。Windows Terminal 是微软上个月在开发者大会上宣布的新命令行终端，<a href="http://www.github.com/microsoft/terminal"><u>源代码</u></a>发布在 GitHub 上。Windows Terminal 支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。下载安装 Windows Terminal&nbsp; 需要  Windows 10 version 18362.0 及更新版本。
+➜Raspberry Pi 4 发布
+https://www.solidot.org/story?sid=61097	26076
+流行单板电脑 Raspberry Pi <a href="https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/"><u>发布</u></a>了最新的 <a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b">Raspberry Pi 4 Model B</a>，该公司称其桌面性能接近入门级的 x86 PC 系统。Raspberry Pi 4 使用了博通的 BCM2711 SoC，包含四个 1.5GHz Cortex A72 CPU 核心，内存可选 1GB、2GB 和 4GB DDR4，2 个 USB 2 端口 2 个  USB 3 端口，通过一个 USB-C 端口供电，此外还有  Gigabit Ethernet 接口和耳机接口，2 个 micro HDMI 端口，支持两台 4K 显示器。最低配的 1GB 内存版本售价 35 美元，最高配的 4GB 内存版本售价 55 美元，2GB 版本 45 美元。
+➜中科曙光被美国列入黑名单
+https://www.solidot.org/story?sid=61098	28472
+在华为之后，美国政府又将五个中国实体列入出口管制黑名单，禁止它们在没有得到美国政府豁免的情况下购买美国的技术和零部件。<a href="https://cn.nytimes.com/usa/20190624/us-china-trade-blacklist/" target="_blank"><u>这些企业和研究机构包括</u></a>：中科曙光；曙光设计芯片的子公司天津海光、成都海光集成电路和成都海光微电子技术；以及无锡江南计算技术研究所。美国商务部称，这些实体是中国高性能计算机发展的领导者，它们的一些产品用于军事领域，比如核爆炸的模拟。其中天津海光与 AMD 成立了合资企业开发基于 Zen 机构的服务器处理器。美国将中国最主要的超算制造商和研究机构都列入了黑名单（曙光、江南所和国防科技大学），根据最新的 Top 500 名单，中国的超算数量高居世界第一，绝大部分超算使用了英特尔处理器。
+➜比特币币值一度突破 1.1 万美元
+https://www.solidot.org/story?sid=61099	31838
+在时隔一年半之后，比特币币值再次突破了 1 万美元和<a href="https://finance.yahoo.com/chart/BTC-USD?p=BTC-USD" target="_blank"><u> 1.1 万美元</u></a>。上一次突破 1 万美元是在 2017 年 11 月，之后在 12 月达到了 1.95 万美元的历史记录，但此后一路下滑，最低跌至了 3200 美元。这一波上涨势头能持续多久难以预料，上涨原因<a href="https://arstechnica.com/tech-policy/2019/06/bitcoin-rises-above-10000-for-the-first-time-in-a-year/" target="_blank"><u>也没有清楚的答案</u></a>，一种可能的解释是社交巨人 Facebok 上周宣布了自己的数字货币 Libra。Libra 有可能成为比特币等的竞争对手，但也给数字货币市场带来了合法性。除了比特币外，其它数字货币如以太坊、莱特币、门罗币、比特币现金等也都达到或接近 2019 年的最高点。
+➜和平抵抗如何改变世界
+https://www.solidot.org/story?sid=61100	32771
+1986 年，数百万菲律宾人走上马尼拉的街头，以和平抗议与祈祷的方式发起人民力量运动。运动第四天，总统马科斯的统治宣告结束。2003 年，格鲁吉亚人民手拿鲜花包围了议会大楼，在没有流血冲突的玫瑰革命中推翻了总统 Eduard Shevardnadze。在这些事件中，普通民众的和平抵抗战胜了政治精英，<a href="https://www.bbc.com/ukchina/simp/vert-fut-48720142"><u>实现了彻底的变革</u></a>。哈佛大学政治学家 Erica Chenoweth 的研究发现，和平抗议不仅是个道德的选择，也是改变世界政治最有力的手段，且比其他手段有效得多。对 20 世纪数百场运动的<a href="https://www.nonviolent-conflict.org/resource/success-nonviolent-civil-resistance/"><u>研究发现</u></a>，非暴力运动达到目标的可能性是暴力运动的两倍。尽管影响因素有很多，但她发现，当有超过人口 3.5% 的民众参与抗议时，就能带来重大的政治变革。研究共汇总了 323 起暴力及非暴力活动，最后出版成书，名为《<a href="https://cup.columbia.edu/book/why-civil-resistance-works/9780231156820"><u>和平抗议何以有效：非暴力冲突的策略逻辑</u></a>》。总体而言，非暴力运动的成功率是武装运动的两倍，有 53% 的非暴力运动导致了政治变革，而武装运动则为 26%。
+➜科学家发现与鼻咽癌相关的病毒亚型
+https://www.solidot.org/story?sid=61101	34283
+鼻咽癌在地理分布上呈现出明显的地域聚集性特征，欧洲和非洲大部分地区鼻咽癌非常罕见，但东南亚、中国华南地区鼻咽癌的发病率却明显较高。其中广东地区鼻咽癌的发病率甚至是其它低发病率地区的 20 倍。因此鼻咽癌也被称为 “广东癌”。Epstein-Barr 病毒（EB 病毒）是最早被鉴定的人类肿瘤病毒，EB 病毒感染在世界范围内随处可见，并与包括鼻咽癌在内的多种癌症相关。但鼻咽癌却集中在以广东省为主的华南地区，引发了越来越多的猜想，其中就包括 EB 病毒亚型与鼻咽癌的关系。根据发表在《Nature Genetics》期刊上的<a href="https://www.nature.com/articles/s41588-019-0436-5"><u>论文</u></a>，中国科学家发现，鼻咽癌的发生与存在于该区域的 EB 病毒高危亚型<a href="http://news.sciencenet.cn/htmlnews/2019/6/427678.shtm"><u>相关</u></a>。 EB 病毒主要通过口腔唾液等传染，比如在亲吻时传播，又被称为 “亲吻病毒”。因此 EB 病毒感染普遍存在，全世界有九成以上的人类都感染过 EB 病毒。在大部分免疫力正常的人群中，EB 病毒并不会引起临床症状或疾病，EB 病毒携带者也无需展开针对性治疗，做好定期体检即可。
+➜众筹飞船 LightSail 2 准备借太阳光航行
+https://www.solidot.org/story?sid=61102	38546
+Planetary Society 众筹的太阳帆飞行器 LightSail 2 将在美国时间本周一搭乘 SpaceX 的 Falcon Heavy 火箭升空，如果一切进展顺利，LightSail 2 将在一周之后展开太阳帆<a href="https://techcrunch.com/2019/06/21/crowdfunded-spacecraft-lightsail-2-prepares-to-go-sailing-on-sunlight/" target="_blank"><u>开始借助太阳光航行</u></a>。LightSail 2 没有任何太阳驱动的引擎，它是靠轰击巨大风帆的光子的物理力量推动的，就像 17 世纪大航海时代靠风航行的帆船。Planetary Society 的第一艘太阳帆飞行器 LightSail 是在 2015 年<a href="https://www.solidot.org/story?sid=44395"><u>发射的</u></a>，飞船的目的主要是验证技术。LightSail 2 进行了改进，解决了第一代遇到的主要问题。
+➜Google 将在一个月后释出 Manifest v3 预览版
+https://www.solidot.org/story?sid=61103	41489
+Google 开发者<a href="https://www.theregister.co.uk/2019/06/21/google_chrome_manifest_v3/"><u>宣布</u></a>，备受争议的 Manifest v3 预览版将在 7 月底或 8 月初<a href="https://www.theregister.co.uk/2019/06/21/google_chrome_manifest_v3/"><u>发布</u></a>。在安全、隐私和性能的名义下，Chrome 的新扩展系统 Manifest v3 限制了广告和内容屏蔽功能。Manifest v3 用 declarativeNetRequest API 取代了 webRequest API，允许设置模式匹配规则探测所请求流量并采取行动，但 Google 对规则的数量设置了上限。目前的数量上限是 30k 静态规则和 5k 动态规则。在扩展开发者的抱怨之后，Google 为了息事宁人而决定将全局规则数量上限从 30k 增加到 150k。这个数量听起来很多，但许多广告屏蔽扩展的规则多达数十万。硬限制将会严重影响这些扩展的可用性。
+➜当创新和伦理发生冲突
+https://www.solidot.org/story?sid=61104	44155
+工程师想要改变世界，但他们如何确信自己没有把世界改变得更糟？工程师创造了互联网、手机、GPS、激光、电脑等等，它们已构成了现代生活的一部分。与此同时，<a href="https://spectrum.ieee.org/at-work/innovation/when-innovation-and-ethics-collide" target="_blank"><u>问题也紧跟着而来</u></a>。我们失去了隐私，手机上瘾变得一大问题，阴谋论假新闻无处不在，垄断者比以前更强大，AI 正在替代人类。问题是如此之多，以至于许多人呼吁对技术的演化进行更多的控制。试图对工程技术进行道德约束意味着技术所做的事情可能是不道德的，或者可能变得不道德。没有人会去争辩他们支持不道德的工程，但问题是谁又能去决定什么是道德，以及如何决定去控制技术的演化。

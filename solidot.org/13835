@@ -1,0 +1,21 @@
+➜云计算--IBM的未来策略
+https://www.solidot.org/story?sid=4438	5400
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "IBM计划建立一个相当规模的商业模式，为主流的企业客户引入Google风格的计算方式。今天，IBM宣布了自己的策略，在大型数据中心方面进行有意义的技术开拓工作，激发大家的商业兴趣，利用遍布于互联网上的远程主机进行更高效的运行，搜索信息以及编写程序。这种基于互联网的超级计算模式，就是大家<a href="http://www.yeeyan.com/articles/view/gaozhiling/3088">所熟知的云计算</a>.即把存储于个人电脑移动电话和其，他设备上的大量信息和处理器资源集中在一起，协同工作。"<i>IBM把自己的创意称为“蓝云（Blue Cloud）”。云计算所需要的绝大部分基础软件都是开源的，这意味着用户可以自由的得到那些代码并修改。数据中心使用的硬件设备，是典型的成千上万的工业标准的服务器电脑，它们由Intel或AMD生产的处理器，以及其他硬件厂商的产品组成。</i>
+➜普林斯顿大学“城市挑战赛”由于程序BUG而失利
+https://www.solidot.org/story?sid=4439	15600
+2005年在美国国防部高级计划署（DARPA）举办的无人汽车沙漠挑战赛上，<a href="http://pave.princeton.edu/main/">普林斯顿大学的车队</a>是领先者；但到了<a href="__SLASHLINK__" sect="science" sid="07/11/05/0527234" sn="article" tid="40">2007年的“城市挑战赛”</a>，这个车队却没有完成比赛，设计人员开始寻找原因。无人驾驶汽车的控制代码编写是采用c#，一共有多达10000行代码，是从无到有完全重写的，没有继承和修改自以前的可靠代码。在仔细逐行检查源代码后，他们最终确认，“探测障碍物”代码存在<a href="http://www.codeproject.com/showcase/IfOnlyWedUsedANTSProfiler.asp">一个内存泄漏bug</a>，应该属于很低级的调试错误。他们编写代码时以为C#的垃圾收集机制会帮助处理这类问题，<a href="http://developers.slashdot.org/article.pl?sid=07/11/17/0552247">这是新手常犯的错误</a>。"
+➜Vista 面临被商业用户放弃的危险
+https://www.solidot.org/story?sid=4440	18000
+分析人士认为，随着Windows 7将在2009年底或2010年上市，<a href="http://it.slashdot.org/article.pl?sid=07/11/17/1959214">vista面临被商业用户放弃的危险</a>，他们可能宁愿等待下一代的视窗系统而不会转向Vista。Vista重新获得企业用户青睐的希望，现在都寄托在将于2008年第一季度发布的Vista SP1是否足够好，是否能解决大多数问题，如硬件兼容性。如果不能，多数公司可能会坚持使用XP。
+➜钱财到手，AMD可以继续和老对手Intel斗
+https://www.solidot.org/story?sid=4441	21600
+DigitalPig 写道 "根据<a href="http://www.pcworld.com/article/vote/id,139768/thanks.html">PC World</a>的报道，阿联酋一家名为Mubadala发展公司（Mubadala Development Company）向AMD公司注资6亿两千万美元，相当等于AMD的的8.1%的股票。以帮助AMD公司在处理器芯片制造技术上赶超他的老对头Intel公司。Intel公司在不久前发布了45nm制造技术的Penryn芯片，而AMD公司还停留在65nm技术。
+有意思的是，AMD和Intel不总是冤家对头，曾经还是一对双赢的<a href="http://googlechinablog.com/2007/11/intel.html">好伙伴</a>。正验证了一句话，没有永恒的朋友，只有永恒的利益。"
+➜机器人蟑螂诱使真蟑螂放弃本能
+https://www.solidot.org/story?sid=4442	21900
+许多母亲经常说，“你的朋友跳过了一道悬崖，你是否会跟着跳呢？”答案，至少就蟑螂而言，可能会是“是的”。科学家使用机器蟑螂诱使真的蟑螂<a href="http://www.nytimes.com/2007/11/16/science/16roach.html?_r=1&amp;oref=slogin">做一些违反他们本能的事情</a>。<i>机器人蟑螂不仅融合进了蟑螂群体，甚至还控制了它们。这项实验综合了昆虫学，机器人技术和复杂、甚至智能的行为模式可能来源于简单个体行为的研究理论。实验中，机器蟑螂涂上了与蟑螂气味相似的信息素，成功诱导喜欢阴暗的蟑螂呆在光线充足的地方。动物行为研究显示，群体行为的实现来自于个体权力的丧失。机器蟑螂让一小撮真蟑螂聚集成群，如同集体一般行动。BBC上的相关<a href="http://youtube.com/watch?v=BeEhnPgGMq0">视频报道</a>（Youtube）。</i>
+➜MIT学生展示如何建造秘鲁印加吊桥
+https://www.solidot.org/story?sid=4443	32700
+工业文明可能让我们忘记什么是鬼斧神工、巧夺天工。古代的人民是如何在简陋的技术条件下创造出无数不可思议的建筑和奇迹？
+<i>15、16世纪，秘鲁处于印加帝国时代。1562年当西班牙征服者踏上这块土地时，他们惊讶的发现<a href="http://www.nytimes.com/2007/05/08/science/08bridg.html?_r=1&amp;em&amp;ex=1178769600&amp;en=77dd0177c75e9c9d&amp;ei=5087%20&amp;oref=slogin">印加人的吊桥跨度至少有150英尺</a>，而当时的西班牙最长的罗马大桥也只有95英尺。记事者描述了西班牙士兵敬畏和恐惧的站在一条跨越深深的峡谷的吊桥边，狭窄的通道下垂，摇摇晃晃看似弱不禁风。难以置信的是，吊桥完全成能承受西班牙人和他们的马匹，观察者如此描述，吊桥和“Seville大街一样坚韧”。为了建造这座吊桥，首先粗绳索被细绳拉过大河，牢牢绑在每一边的石柱上；桥基由三个粗绳索组成，两个粗索当作栏杆，桥基上先铺上树枝以供建造者立足，然后用木头一块块的拼接起来。今年早些时候，MIT的学生建造了<a href="http://web.mit.edu/newsoffice/2007/inca-bridge-0516.html">一座70英尺长的仿印加风格的绳索吊桥</a>。原材料是取自中美洲尤卡坦半岛（Yucatan Peninsula）的麻绳，包一大堆混凝土块，好将其抛掷。光把绳卷起来就花了360个小时，用掉了50英里长的麻线。这项工程属于<a href="http://web.mit.edu/newsoffice/2007/inca-bridge-0516.html">《人类材料史(Materials in Human Experience)》课程的一部分</a>。
+</i>

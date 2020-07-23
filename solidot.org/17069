@@ -1,0 +1,21 @@
+➜500米口径射电望远镜正式启用
+https://www.solidot.org/story?sid=49802	37863
+<div align="center"><img src="http://img.solidot.org/0/902/lizbEzGR8qWEw.jpg" align=""><br>
+</div>
+<br>
+位于贵州黔南州平塘县大窝凼的世界最大单口径射电望远镜——500米口径球面射电望远镜（FAST）全部竣工并于周日<a href="http://news.sciencenet.cn/htmlnews/2016/9/357089.shtm" target="_blank"><u>正式投入使用</u></a>。FAST的接收面积有30个足球场大，由4450块的反射面板单元构成，耗资12亿元。FAST工程总工艺师王启明称，“启用并不意味着最优，我们希望在未来2年内完成FAST的调试，通过观测已经发现的天体目标，来持续调试验证它的性能。”
+➜KrebsOnSecurity重新上线，这次由Google托管
+https://www.solidot.org/story?sid=49803	38543
+记者 Brian Krebs 的知名安全网站 <a href="http://krebsonsecurity.com/" target="_blank"><u>KrebsOnSecurity</u></a> 已经重新上线，这一次托管商从 Akamai <a href="https://who.is/dns/krebsonsecurity.com" target="_blank"><u>切换到了 Google</u></a>，下线期间它的IP地址曾被解析到 127.0.0.1，如今它使用的是属于 Google 的IP地址 130.211.45.45。网站的下线引发广泛的讨论，被认为翻开了<a href="https://news.slashdot.org/story/16/09/24/028228/why-the-silencing-of-krebsonsecurity-opens-a-troubling-chapter-for-the-internet" target="_blank"><u>互联网令人不安的一章</u></a>：如果 Akamai 这样的全球最大 CDN 服务商之一都无法承担抵御 DDoS 攻击的代价，还有什么网站是安全的？KrebsOnSecurity 被认为是曝光了付费DDoS服务而遭到了<a href="http://www.solidot.org/story?sid=49796" target="_blank"><u>创纪录流量的攻击</u></a>。
+➜恶意程序通过计算Word文档数躲避检测
+https://www.solidot.org/story?sid=49804	49819
+<div align="center"><img src="http://img.solidot.org/0/903/liRqRA69ga14o.png" align="" height="589" width="420"><br>
+</div>
+<br>
+卡巴斯基实验室的安全研究人员<a href="https://sentinelone.com/blogs/anti-vm-tricks/" target="_blank"><u>发现了</u></a>一种Word宏恶意程序能通过计算运行环境的Word文档数量去躲避检测。安全研究人员通常利用虚拟机测试可疑程序，虚拟机环境一般缺乏多个Word文档和其它类型的文件，这意味着如果恶意程序在系统中没有找到2个以上的Word文档，那么它可以假设自己正在被研究。研究人员发现了该恶意程序如果在本地磁盘内没有发现2个以上的文档就会拒绝执行。如果发现两个以上的Word文档，它会执行PowerShell脚本，从<a href="https://who.is/whois/silkflowersdecordesign.com" target="_blank"><u>silkflowersdecordesign.com</u></a>这个网站下载按键记录程序。
+➜思科称可能是宇宙射线触发了路由器bug
+https://www.solidot.org/story?sid=49805	51623
+<div align="center"><img src="http://img.solidot.org/0/904/litT6BZiEcJQg.png" align="" height="232" width="450"><br>
+</div>
+<br>
+思科报告了一个影响 ASR 9000系列路由器的数据流量丢失bug，声称原因可能是宇宙射线诱发了单翻转软错误。这一消息引起了<a href="https://science.slashdot.org/story/16/09/24/185231/cisco-blamed-a-router-bug-on-cosmic-radiation" target="_blank"><u>媒体的关注</u></a>——宇宙射线触发了路由器bug？思科随后删掉了宇宙射线这几个字（<a href="https://quickview.cloudapps.cisco.com/quickview/bug/CSCuz62750" target="_blank"><u>修改后</u></a>，<a href="https://webcache.googleusercontent.com/search?q=cache:5PFaLAce-rYJ:https://quickview.cloudapps.cisco.com/quickview/bug/CSCuz62750+&amp;cd=1&amp;hl=zh-CN&amp;ct=clnk&amp;gl=us" target="_blank"><u>修改前</u></a>）。宇宙射线对于卫星和太空飞行器是一大难题，但它真的会影响到地面上的电子设备？思科2012年的一篇官方博客解释说<a href="http://blogs.cisco.com/sp/can-the-internet-survive-a-cosmic-ray" target="_blank"><u>是可能的</u></a>，认为随着硅芯片密度的增加，宇宙射线可能会影响路由器或网关的性能。

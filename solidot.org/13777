@@ -1,0 +1,120 @@
+➜USB 3.0 2008年面世，速度10倍于2.0
+https://www.solidot.org/story?sid=3915	2400
+Intel在IDF论坛上展示了USB 3.0 连接器原型。 Intel及其合作伙伴计划在2008年上半年<a href="http://www.news.com/8301-10784_3-9780794-7.html">发布新版通用串行总线技术</a>规格。通过在传统的铜线旁加入光纤连接，USB 3.0的数据传输速度比2.0快10倍。目前的USB 2.0 最高数据传输速度为每秒480M，10倍意味着速度将达到4.8G每秒，未来USB硬盘的应用将更广泛。
+➜未来硬盘的读写头
+https://www.solidot.org/story?sid=3916	3000
+<a href="mailto:tangkesas@gmail.com">hashish</a> 写道<a href="http://www.sciscape.org/news_detail.php?news_id=2266">未来硬盘读写头</a> ：荷兰的科学家证明了利用激光来作为全光学式磁纪录读写头的可能性。<i>"
+目前商业上所使用的磁性记忆装置，例如硬碟等，都是利用一个磁铁制的读写头来存取磁区的资料。最大的问题就是读写速度太慢。因此荷兰Radboud University Nijmegen的研究人员便利用激光来取代磁性读写头来进行纪录。激光事实上就是一种强磁场，可以达到5T的强度。在适当的聚焦之后，可以将所要读写的磁区以圆形偏振光垂直照射在磁区上，用来改变磁区的磁性方向。利用磁区的磁性方向可以表示为二进位的0与1。<br>
+研究人员将激光仔细聚焦使其照在要改变磁性方向的区域。读写的速度为40fs。在论文中，他们的磁区大小为5um，但是研究人员之一的Daniel Stanciu表示，磁区将可以有效缩小到100nm，并有可能在未来成为最快速的磁性资料储存装置。  "</i>
+➜如果IT有工会，我们会提11个要求
+https://www.solidot.org/story?sid=3917	4200
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "IT业有工会吗？美国咱不知道，至少在中国是没有。IT从业人员是这个星球上特殊的一群人，承受着巨大的工作压力，做着世界上最先进的工作之一，当然，收入也算不错。但是，IT业一样需要一个工会，来保障IT从业人员的一些权益，并且提出进一步的要求。如果有IT业工会，你会提出什么要求呢？这里是<a href="http://www.yeeyan.com/articles/view/6559/2080">IT业工会提出的11个要求</a>，看看哪些是你也需要的？<i>1.再培训：如果我的技术过时了，请付费让我重新学习六个月；<br>
+2.符合人体构造的椅子：这样我们才会坐的舒服，也会减少颈椎、腰间盘等问题；<br>
+......</i>
+➜RSS营销的十个步骤
+https://www.solidot.org/story?sid=3918	4320
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"虽然RSS已经被证明为行之有效的营销方式，但大部分商家都不能充分发挥其优势。当初电子书《释放RSS营销和出版的潜力》向我们展示了RSS是如何在市场营销起步的，而2007年版主要讲的是优化你的RSS营销，使它物尽其用！<a href="http://www.yeeyan.com/articles/view/%E9%A9%AC%E5%A4%AB/2040">这里</a>介绍了进行RSS营销的十个步骤。"</i>
+➜可找出炸弹制作者的喷雾剂
+https://www.solidot.org/story?sid=3919	7800
+耶路撒冷希伯莱大学的法医化学家<a href="http://blog.wired.com/wiredscience/2007/09/spray-on-test-f.html">开发出一种变色的喷雾剂</a>，可找出制造或安装炸弹的嫌疑犯。当喷出的化学气凝胶碰到硝酸脲（urea nitrate）时颜色会从黄色变为鲜红色，恐怖分子拿过炸弹的手上都会留下这种常见炸药的残余物质。硝酸脲是一类非常容易制造的爆炸物，多为恐怖分子使用。在最新一期的《法医化学》杂志上，化学家<a href="http://chemistry.huji.ac.il/casali/almog.htm">Joseph Almog</a>解释了化学药剂的工作原理。他修的是有机化学，花了很长的时间研究变色化学剂，发明过可显露隐藏指纹的媒介，以及可识别多种爆炸物的工具。
+➜幽默的UNIX命令行
+https://www.solidot.org/story?sid=3920	8580
+zigzed 写道 "技术人员太死板？操作系统也会懂幽默？<a href="http://frankmash.blogspot.com/2006/03/linux-commands-funny-linux-commands.html">有趣的linux命令</a>
+<br>
+% cat "food in cans"<br>
+cat: can't open food in cans<br>
+<br>
+% nice man woman<br>
+No manual entry for woman.<br>
+<br>
+% "How would you rate Quayle's incompetence?<br>
+Unmatched ".<br>
+<br>
+% Unmatched ".<br>
+Unmatched ".<br>
+<br>
+% [Where is <a href="http://en.wikipedia.org/wiki/Jimmy_Hoffa">Jimmy Hoffa</a>?<br>
+Missing ].           % ^How did the sex change operation go?^<br>
+Modifier failed.<br>
+<br>
+% If I had a ( for every $ the Congress spent, what would I have?<br>
+Too many ('s.<br>
+<br>
+% make love<br>
+Make: Don't know how to make love. Stop.<br>
+<br>
+% sleep with me<br>
+bad character<br>
+<br>
+% got a light?<br>
+No match.<br>
+<br>
+% man: why did you get a divorce?<br>
+man:: Too many arguments.<br>
+<br>
+% !:say, what is saccharine?<br>
+Bad substitute.<br>
+<br>
+% %blow<br>
+%blow: No such job.<br>
+<br>
+% \(-<br>
+(-: Command not found.<br>
+<br>
+$ PATH=pretending! /usr/ucb/which sense<br>
+no sense in pretending!<br>
+<br>
+$ drink matter<br>
+matter: cannot create"
+➜GPL将接受法庭考验
+https://www.solidot.org/story?sid=3921	12540
+<a href="http://blog.tuxfans.com/">windrose</a> 写道 "自由软件基金会(FSF)创立以来，就一直与各种违反GPL授权的情况做斗争。以往发现的违反GPL的情况，都是在FSF或者其他开源组织发信指出后就得到了解决，所以一直流传着一种说法：GPL虽然是用得最广泛的开源软件许可证，但是由于没有经过诉讼的检验，它是否有法律效力还不得而知。<br> <br>
+现在GPL将第一次在美国的法庭上<a href="http://www.linux.com/feature/119355">受到考验</a>。<a href="http://www.busybox.net/">BusyBox</a>的两位开发者发现<a href="http://www.monsoonmultimedia.com/">Monsoon Multimedia</a>公司在它的产品<a href="http://www.myhava.com/">Hava</a>中使用了GPL授权的BusyBox，但是Monsoon Multimedia既没有开放源代码，也没有按GPL“传染性”的要求对自己的软件沿用GPL授权。在致信Monsoon Multimedia却没有得到任何回复的情况下，他们通过<a href="http://www.softwarefreedom.org/">Software Freedom Law Center</a>(SFLC)对Monsoon Multimedia公司提起了诉讼。<br> <br>
+目前还不清楚两位开发者要求的赔偿金的数额，但其中比较确定的部分包括该公司从侵权行为中获得的利益以及造成的实际损害。SFLC还可能要求在聆讯期间禁止Hava的发行。"
+➜12岁少年获得650万美元风险投资
+https://www.solidot.org/story?sid=3922	21000
+一家硅谷游戏公司，共同创始人是一位12岁的少年，<a href="http://games.slashdot.org/games/07/09/20/052223.shtml">刚刚获得了650万美元风险投资</a>。<i>
+<a href="http://www.playspan.com/company.html">PlaySpan</a>是一家在线游戏代理商，位于加利福尼亚圣克拉拉，主要向游戏发行商提供虚拟商品交易技术。12岁的六年级学生Arjun Mehta在网站表示，他对创造一个让游戏过程更刺激和获得更多奖励的软件充满热情。2006年PlaySpan公司在Arjun的车库里建立，启动资金源自他在在线游戏里出售的虚拟物品的收入。</i>
+➜新的核动力推进宇宙飞船
+https://www.solidot.org/story?sid=3923	23400
+一家美国公司<a href="http://www.andrews-space.com/">Andrews Space &amp; Technology</a> (AS&amp;T)向外公开了一种<a href="http://www.tfot.info/news/1006/mini-mag-orion-will-reach-for-the-stars.html">革命性的核动力推进系统</a>，能大大缩短飞船从地球到火星的往返时间（从2年缩短到仅6个月），未来宇宙飞船飞往木星的飞行时间也只需一年。这套被称为Miniature Magnetic Orion (简写Mini-Mag Orion)的系统，可能将对太阳系太空旅行具有显著地影响，是1958年Orion星际间推动力系统初始概念的最佳选择。Orion概念最初是由美国著名的核武器设计师Ted Taylor和著名物理学家Freeman Dyson提出。
+➜顶级域名的政治纷争
+https://www.solidot.org/story?sid=3924	27000
+每一个国家都有国旗、国歌，并都被赋予了TLD(顶级域名)，譬如中国是.CN，台湾是.tw，香港是.hk。但世界不是一成不变的，改变国家只要换个旗帜就行了，<a href="http://www.newscientist.com/blog/technology/2007/09/does-top-level-domain-make-nation.html">但改变顶级域名听起来就像一场噩梦</a>。十多年来，苏联解体了，南斯拉夫分裂了，捷克斯洛伐克变成了捷克和斯洛伐克。非盈利机构ICANN对新成立国家的顶级域名进行了重新分配，退役了旧域名，如苏联的.su，南斯拉夫的.yu。<i>
+事情并不如想象中那么简单，不应该存在的顶级域名却还在继续使用。目前.su域名有9648个，而且还很流行，比上一年增加了近2500。注册商无视ICANN冻结新域名注册的命令，他们回应的方式是降价80%。媒体大肆报道的.xxx域名争论与之相比显得微不足道。美国商业部背景的非盈利机构ICANN可能无法处理这种上升到外交层面的纷争，<a href="http://slashdot.org/articles/07/09/20/1958210.shtml">也许联合国是一个恰当的选择</a>。</i>
+P.S. 敏感时期，大家这种论调还是稍微收敛一点！
+➜最糟糕的死亡方式
+https://www.solidot.org/story?sid=3925	30600
+<a href="http://www.news.com.au/dailytelegraph/story/0,22049,22447050-5001028,00.html">6个埃及人一个接一个的死于农村的化粪池里</a>，他们进入化粪池是为了拯救一位前去修理排泄管道问题的17岁年轻人。<i>年轻的Ayman Mohamed Gumaay被化粪池气味熏倒后掉入了池底的淤泥中，首先遭遇了不幸。由于化粪池的水流到了家里，他的母亲派他去修，在他没有回来后惊慌不已，又叫上Gumaay的叔叔去查看，接着是一位邻居，Gumaay的兄弟，另外一个邻居，另外两位兄弟，他们都因为吸入化粪池里的有毒气体窒息后死亡。</i>
+➜北京猪肉交易市场使用RFID追踪来源
+https://www.solidot.org/story?sid=3926	34620
+北京最大的猪肉交易平台在八里桥<a href="http://news.google.cn/news?ie=UTF-8&amp;oe=UTF-8&amp;rls=org.mozilla%3Azh-CN%3Aofficial&amp;client=firefox&amp;um=1&amp;tab=wn&amp;q=RFID++%E7%8C%AA&amp;btnG=%E6%90%9C%E7%B4%A2%E8%B5%84%E8%AE%AF">农产品中心批发市场开业</a>，开始了试运行。一位当地官员称这是第一次在北京引入<a href="http://www.rfidglobal.org/">RFID</a>电子追踪系统，每一次猪肉交易都会记录在电子文档内。如果出现质量问题，可以跟踪到屠宰场和销售终端。批发市场的官员表示这将提高销售效率，“每一头猪都有一个电子标识码“，使用RFID电子记录系统后取消了传统的人工记录和核查，”我们能在30分钟内处理100头猪。”
+➜卡耐基梅隆大学科学家率先挑战Google登月X大奖
+https://www.solidot.org/story?sid=3927	53820
+卡耐基梅隆大学机器人学院的科学家William Whittaker宣布将组建一个团队开发登月机器人，<a href="http://www.tgdaily.com/content/view/33978/113/">竞争Google的登月X大奖</a>。Whittaker可能是第一位正式的参与者，但对其他人有点不公平，因为Whittaker先前为NASA设计过登月机器人。NASA的机器人被用来测量月球氢气浓度，寻找可能存在的水，以及其它挥发性化学物，目的是为未来的登月前哨基地生产燃料，制造水和空气。Google登月X大奖结束日期是2012年底，卡耐基梅隆大学的参与显示了科学家是严肃对待这一挑战的。
+➜用Google日历准备自传
+https://www.solidot.org/story?sid=3929	54780
+<a href="http://ashan.yo2.cn/">ashan3</a> 写道
+曾经有人建议：过一段时间就要留点时间给自己撰写自传；我认为：每一篇日记和日程表就是自传的素材，日程表就是我的自传的线索，日记就是我的心路历程。自传这种文体还是留待我"行将就木"的时候才开始吧，现在应该把更多的精力放在学习和面对未来的不确定性上。<br>
+<br>
+但是自传的方式还是能够很好地记录自己的生命轨迹的，所以我今天忽然想到可以用<a href="http://www.google.cn/pagead/iclk?sa=l&amp;ai=BBWqZAN3zRoy-IKDusQKuleCcD4rmkBSCmsuOAvLDnrwKoNEZCAAQARgBOABQ3oa_kQFgndHUgbAFoAHen8z7A8gBAdkDDfrPA2YDnh8&amp;adurl=https://www.google.com/accounts/ServiceLogin%3Fservice%3Dcl%26passive%3Dtrue%26nui%3D1%26continue%3Dhttp%253A%252F%252Fwww.google.com%252Fcalendar%252Frender%253Fhl%253Dzh_CN%26utm_campaign%3Dzh_CN%26utm_source%3Dzh_CN-ha-ww-google%26utm_medium%3Dha%26utm_term%3Dgoogle%2520%25E6%2597%25A5%25E5%258E%2586%26hl%3Dzh_CN" title="Google日历">Google日历</a>来进行自传的写作的准备。
+Google日历是进行日程安排的，怎么可以变成自传写作的准备呢？原理我前面已经讲了，要怎么做呢？
+1。从现在开始养成习惯将你每天的生活和工作记录下来（使用ppc手机是比较好的方式，可以随时好Outlook同步备份）
+2。当你回想起以前的事情或者你的母亲唠叨你以前发生的事情的时候，不妨也记录下来，丰富、完善你过去的经历。
+3。找个时间将你现在还记得的过去每一年当中发生的重大的事情都记录下来，如果这些事件对你现在的生活有影响的话不妨在事件的说明中加以记录事情的起因、经过、结果或者影响等。
+4。如果不能记录事情发生的准确时间，可以在事情发生所在的月份进行记录。
+5。在Google的日历上创建一个事项为日历，设置每天循环；每天可以在日程之外进行心情的记录。
+提醒，由于日程具有分享功能因此关于你的个人经历如果不想不小心被分享的话，那就请设置该事项为私人。 Microsoft的Outlook也可以实现这个目的。
+智能手机的用户在日程管理软件上也可以同样实现这个目的。 效果好不好要看你坚持的时间有多少 。<br>
+➜Chinglish记录本－英语词典杂交中文语法
+https://www.solidot.org/story?sid=3930	54840
+<a href="mailto:z12y12l12@gmail.com">z12y12l12</a> 写道 "在网上，有一个<a href="http://www.chinglish.de/">Blog</a>专门记录了中国的城市中所使用各种Chinglish，其中有令人发笑的，也有很多让人觉得很令人难堪的。博主纪韶融在德国海德堡大学汉语系毕业，并在中国生活了一段时间，令他感兴趣的是Chinglish中的中国式思维，所以他建立了这个博客来记录这一切。
+<br>纪韶融已经出版了一本书，叫做‘Chinglish - Found in Translation’，可以在<a href="http://www.amazon.com/Chinglish-Oliver-Lutz-Radtke/dp/1423603354/ref=pd_bbs_sr_1/102-3585860-7148153?ie=UTF8&amp;s=books&amp;amp;qid=1184492235&amp;sr=8-1">Amazon.com</a>上买到它。
+<br>世界博览杂志的文章 on sina blog：<a href="http://blog.sina.com.cn/s/blog_3e7850a501000agc.html">第9期 [中国通] “chinglish”记录本</a>"
+➜Chinglish记录本
+https://www.solidot.org/story?sid=3931	54900
+<a href="mailto:z12y12l12@gmail.com">z12y12l12</a> 写道
+有一个<a href="http://www.chinglish.de/">Blog</a>专门记录了中国的城市中所使用各种Chinglish，其中有令人发笑的，也有很多让人觉得很令人难堪的。博主纪韶融在德国海德堡大学汉语系毕业，并在中国生活了一段时间，令他感兴趣的是Chinglish中的中国式思维，所以他建立了这个博客来记录这一切。目前纪韶融已经出版了一本书，叫做<b>Chinglish
+- Found in
+Translation</b>，感兴趣的读者可以在<a href="http://www.amazon.com/Chinglish-Oliver-Lutz-Radtke/dp/1423603354/ref=pd_bbs_sr_1/102-3585860-7148153?ie=UTF8&amp;s=books&amp;amp;qid=1184492235&amp;sr=8-1">Amazon</a>购买。
+或者到他的<a href="http://blog.sina.com.cn/s/blog_3e7850a501000agc.html" title="博客">博客</a>中管中窥豹一番。<br>

@@ -1,0 +1,45 @@
+➜Mozilla停止开发和销售Firefox OS智能手机
+https://www.solidot.org/story?sid=46453	7890
+再见，Firefox OS智能手机。Mozilla<a target="_blank" href="http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/"><u>宣布</u></a>终止它的智能手机实验，停止开发和销售Firefox OS智能手机。但它将继续探索Firefox OS是否能工作在物联网等联网设备上。Mozilla高级副总裁Ari Jaaksi在一份声明中称，他们没能提供最佳用户体验，因此将停止通过运营商渠道提供Firefox OS智能手机。Firefox OS针对的是发展中国家和入门级智能手机市场，但在这些市场Android 的竞争力远高于Firefox OS。
+➜中本聪可能是Craig Steven Wright
+https://www.solidot.org/story?sid=46454	10665
+比特币匿名创始人中本聪的真实身份一直吸引着媒体，《新闻周刊》曾发表调查文章宣称中本聪的真实名字就是中本聪，一位居住在加州的日裔工程师，但遭到当事人的否认。现在，《连线》报道称有充分的证据证明<a target="_blank" href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/"><u>中本聪是44岁的澳大利亚男子Craig Steven Wright</u></a>。Wright拥有法学硕士、统计学硕士和几个博士学位。2008年11月中本聪在一个邮件列表上发表了比特币白皮书，而在之前的8月，Wright在博客上称他计划发布一篇加密货币论文，同年11月他公开了一个PGP公钥，这个公钥与邮箱satoshin@vistomail.com相关联，而中本聪在邮件列表上使用的邮箱名字是satoshi@vistomail.com，两者就差了一个字母。Wright在一篇发表时间为2009年1月10月被删除的博文中写道，比特币的Beta版将在明天发布。比特币软件的正式公开日期是2009年1月9日，但Wright住在东澳大利亚，博文发表时间是9日晚午夜过后，早于比特币的正式发布时间9日 3pm EST。
+➜雅虎将宣布出售核心业务
+https://www.solidot.org/story?sid=46455	12743
+路透社<a target="_blank" href="http://cn.reuters.com/article/yahoo-alibaba-idCNKBS0TS07620151209?sp=true"><u>报道</u></a>，试图重整雅虎核心业务的CEO Marissa Mayer遭遇挫折：该公司最早将在周三宣布出售核心业务保留阿里巴巴的股份。雅虎的核心业务包括新闻和体育网站、广告、电子邮件服务和Tumblr等产品。分析师和银行家估计这些业务的价格可能介于20-80亿美元，很多人预计价格可能为40亿美元，但也有人认为价值低于零。完成这些出售交易后，雅虎基本上只剩下对阿里巴巴和雅虎日本的持股。雅虎若出售核心业务，实际上将等于让雅虎身为一家重要的美国科技公司的地位划下终点，同时也等于承认了Mayer重振业务的努力几乎功败垂成。
+➜网民因在微博上转发ISIS纪录片被捕
+https://www.solidot.org/story?sid=46456	14014
+<a href="mailto:admin@imlibra.org">imlibra925</a> 写道 <i>"近日，知乎的一个<a href="http://www.zhihu.com/question/38112167" title="问题" target="_blank">问题</a>引起了网民的关注。提问者的男友由于在微博上发布了一个关于ISIS如何教授儿童用枪的<a href="http://www.pbs.org/wgbh/frontline/" title="纪录片" target="_blank">PBS纪录片</a>被以散发宣扬恐怖主义视频资料罪刑拘，而且不允许律师会见。后据说被批捕，预计要判处2-3年有期徒刑，且无取保候审或减刑的可能。截至9日，提问者已经删除了大部分答案内容，但由于知乎的回答日志功能，<a href="http://www.zhihu.com/question/38112167/log" title="历史记录" target="_blank">历史记录</a>依然可见。"</i>
+➜Xboxlive.com数字证书私钥泄露
+https://www.solidot.org/story?sid=46457	15064
+微软发布<a target="_blank" href="https://technet.microsoft.com/en-us/library/security/3123040"><u>安全公告</u></a>，*.xboxlive.com SSL/TLS数字证书使用的私钥不小心泄露。证书可被用于尝试发动中间人攻击，但私钥并不能被用于签发其它证书或代码，或假冒其它域名。微软目前还没有发现利用私钥的攻击。微软正在更新 Certificate Trust list (CTL) 撤销对该证书的信任。这一事件影响所有的Windows支持版本。
+➜Mozilla发布iOS内容屏蔽工具Focus By Firefox
+https://www.solidot.org/story?sid=46458	24017
+Mozilla<a target="_blank" href="http://venturebeat.com/2015/12/08/mozilla-launches-focus-by-firefox-a-content-blocker-for-ios-9/"><u>宣布</u></a>发布iOS 9内容屏蔽工具Focus By Firefox，它能屏蔽广告，但最重要的是能屏蔽跟踪程序。它利用了iOS 9内置的内容屏蔽功能，用户下载之后需要进行一些设置激活该功能。Focus只能工作在Safari浏览器上。Mozilla称，原因是苹果没有向iOS上的第三方浏览器开放内容屏蔽功能。<a target="_blank" href="https://github.com/mozilla/focus">程序源代码</a>发布在GitHub上。另外Mozilla开发者<a target="_blank" href="https://twitter.com/rustlang/status/674243649987850240"><u>宣布</u></a>，Firefox将整合Rust代码和Servo布局引擎，用户将能在2016年用上整合后的版本。但目前还不清楚明年何时推出。
+➜Craig Wright的家遭到澳大利亚警方突击搜查
+https://www.solidot.org/story?sid=46459	25803
+《<a target="_blank" href="http://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/"><u>连线</u></a>》以及<a target="_blank" href="http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692"><u>Gizmodo</u></a>先后发表详细报道，指出澳大利亚人<a target="_blank" href="https://www.linkedin.com/in/craigswright"><u>Craig Steven Wright</u></a>很可能就是比特币的匿名创始人中本聪。Craig Wright并非是比特币社区的陌生人，他曾公开宣布要建立第一家比特币银行。他的密友 Dave Kleiman被认为持有价值数亿美元的比特币，Kleiman已在2013年死亡。在这些报道发表之后，澳大利亚联邦警方在悉尼<a target="_blank" href="http://www.theguardian.com/technology/2015/dec/09/bitcoin-founder-craig-wrights-home-raided-by-australian-police"><u>突击搜查了</u></a>登记在他名下的房产。突击搜查被认为与澳大利亚税务局的调查有关。警方发表声明称他们的行动与比特币无关。
+➜网信办主任称：我无法改变你但有权选择朋友
+https://www.solidot.org/story?sid=46460	28751
+在今天举行的<a target="_blank" href="http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/2015/33885/index.htm"><u>国务院新闻办新闻发布会</u></a>上，负责互联网审查的最高机构国家互联网信息办公室主任鲁炜<a target="_blank" href="http://www.nanzao.com/sc/national/1518538cfdd5fce/lu-wei-hui-ying-shan-tie-shen-zha-fan-qiang-wo-wu-fa-gai-bian-ni-dan-you-quan-xuan-ze-peng-you"><u>回应</u></a>了删帖、审查、“防火墙”、国安法、网安法、反恐法等问题。CNN记者询问了内容审查和防火长城导致的局域网化。鲁炜反驳称，“内容审查”用词不当，管理网络，中国政府是向西方学的，而且学得还不够，如果中国真有网络审查，网民就不会有增无减。“第二个问题，关于你说的‘局域网’。我去年讲过这个话，我没有办法改变你，但是我有权利选择朋友。谁到我家来，我确实是要选择的，来的要是朋友。我们不欢迎那些挣了中国钱、占了中国市场，还诬蔑中国的人。就像每一个家庭，都不欢迎不友好的人来做客一样。第三个问题，就是所谓‘封锁’‘翻墙’，是不是体现中国政府对言论越来越严格的控制。我要告诉你的是，我们越来越多的是依照法律来加强网络空间的治理，也依照法律来对外开放。”
+➜Google发现D-Wave执行退火算法的速度是经典计算机的10^8倍
+https://www.solidot.org/story?sid=46461	30845
+D-Wave的量子计算机<a target="_blank" href="http://www.solidot.org/story?sid=38287"><u>一直受到争议</u></a>，现在Google提供了证据证明D-Wave确实利用了量子效应加速计算。 Google Research<a target="_blank" href="http://googleresearch.blogspot.ca/2015/12/when-can-quantum-annealing-win.html"><u>博客称</u></a>，他们的测试显示D-Wave执行量子退火算法（quantum annealing）的性能远远胜过经典计算机执行<a target="_blank" href="https://en.wikipedia.org/wiki/Simulated_annealing"><u>模拟退火</u></a>的性能：D-Wave的速度比单核上运行模拟退火的速度快10^8倍。在另一项量子蒙特卡罗算法测试中，量子计算机的速度同样比经典计算机快10^8倍。研究人员的<a target="_blank" href="http://arxiv.org/abs/1512.02206"><u>论文</u></a>发表在预印本网站arXiv上。
+➜中国的新一代网吧改变形象
+https://www.solidot.org/story?sid=46462	32630
+今天的连锁网吧已经<a target="_blank" href="http://motherboard.vice.com/read/china-has-had-enough-of-its-illegal-internet-cafs"><u>和我们所熟知的网吧大不相同</u></a>。随着越来越多的人都能在家里上网，网吧的主要消费群体变成了游戏玩家而不是上网聊天的网民。在网吧里，如果你觉得一个人玩无聊，你可以打开一个手机应用花钱找陪玩的女孩，陪玩过后你还可以根据她们的游戏表现和交流能力进行评分。你可以雇佣一个团队，而不只是一个人。陪玩的女孩或者是自由职业者，或者是学生，她们更喜欢游戏而不是一起去就餐。与客户熟悉之后他们可能会成为朋友，甚至可能会同意做爱。沉迷于游戏的玩家通常会一玩就玩很多个小时，在十几个小时征战之后他们的身上会有味道，网吧现在向他们提供淋浴，强迫他们去洗一洗，否则就切断电源。部分网吧甚至还会向经济状况不佳的长期玩家提供帮助如支付药费，它们将玩家视为朋友。<br>
+➜施密特提议开发过滤仇恨和恐怖主义内容的拼写检查器
+https://www.solidot.org/story?sid=46463	35876
+Google执行主席施密特（Eric Schmidt）在《纽约时报》上发表<a target="_blank" href="http://www.nytimes.com/2015/12/07/opinion/eric-schmidt-on-how-to-build-a-better-web.html?_r=0"><u>评论文章</u></a>，提议开发出工具去限制恐怖主义信息的传播。他在文章中写道：“专制政府告诉他们的公民审查是维持稳定所必不可少的。我们有责任展示稳定和言论自由表达可以并行不悖。我们应该让来自另一个国家的观点的新闻更容易被看到，理解没有经过过滤或偏见的全球意识。我们应该开发工具缓和社交媒体上的紧张关系——某种拼写检查工具，但针对的是仇恨和骚扰。我们需要瞄准恐怖主义组织如伊斯兰国的社交媒体账号，在流传开前移除视频，或帮助反恐信息找到自己的声音。”他的观点<a target="_blank" href="http://tech.slashdot.org/story/15/12/08/1941227/eric-schmidt-proposes-hate-spell-checker-for-radical-and-terrorist-content">引发了争议</a>。
+➜NetHack 3.6.0发布
+https://www.solidot.org/story?sid=46464	37893
+NetHack是80年代开始开发的地下城类游戏，以其复杂的系统和高难度著称，让许多地下城和RPG游戏相形见绌。但过去12年，它的版本号一直停留在3.4.3。12月7日，NetHack开发团队<a target="_blank" href="http://www.nethack.org/v360/release.html"><u>宣布了最新版本3.6.0</u></a>。新的版本特别纪念了前不久去世的作家、同时也是游戏粉丝的特里·普拉切特。游戏中的角色类Tourist就是受普拉切特的《碟形世界》系列启发而开发的，新版也将包含大量来自小说的语录。NetHack的开发已经迁移到GitHub，将Bugzilla用于bug跟踪。
+➜特朗普说关闭互联网是打击恐怖主义的好方法
+https://www.solidot.org/story?sid=46465	40506
+共和党总统候选人特朗普（Donald Trump）在珍珠港日纪念活动上说，他想和比尔盖茨谈论在某种程度上<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/trump-wants-bill-gates-to-help-close-that-internet-from-terrorists/"><u>关闭互联网</u></a>，以防止伊斯兰恐怖组织伊斯兰国招募儿童。他说，年轻的孩子容易被蛊惑而想加入伊斯兰国。他将这一切归罪于互联网。他说，“因为互联网我们失去了很多人，我们需要采取一些措施。我们需要去见见比尔盖茨和其他理解这一切如何发生的人。”他将那些高呼言论自由的人称为是愚蠢的人。这只是特朗普最近发表的一系列惊人言论之一。
+➜DNS根服务器遭到DDoS攻击
+https://www.solidot.org/story?sid=46466	42756
+DNS根服务器管理员<a target="_blank" href="http://root-servers.org/news/events-of-20151130.txt"><u>报告</u></a>在11月30日和12月1日遭到两波攻击，攻击时间分别是在30日06:50 UTC到09:30 UTC，1日05:10 UTC到06:10 UTC。攻击使用的IP是随机分布的，但查询的域名不是，攻击流量大约为最高每秒500万次查询。管理员称，终端用户没有受到攻击影响。管理两个服务器的Verisign提供的<a target="_blank" href="http://a.root-servers.org/metrics.html"><u>统计数据</u></a>显示，它平均每天的 UDP查询不超过100亿，而攻击期间每天的查询数量超过500亿次。管理员认为可以利用源地址验证和 BCP-38去减少滥用网络发动攻击的能力。
+➜.NET开源一年之后，社区贡献几成
+https://www.solidot.org/story?sid=46467	45551
+微软在一年前开源了.NET核心框架，欢迎开源社区向项目贡献代码。那么一年之后，社区的贡献究竟占了几成？一位.NET开发者<a target="_blank" href="http://mattwarren.org/2015/12/08/open-source-net-1-year-later/"><u>调查了三个.NET项目</u></a>：.NET编译器平台Roslyn， .NET Core运行时 CoreCLR和基础库CoreFX ，查看了三个项目社区报告的问题数，以及合并的Pull Request数。统计显示，社区报告的问题占了相当大的比例，但合并代码主要仍然是微软核心开发者和合作者完成，社区只占12%左右，这一比例与大部分开源项目相似。

@@ -1,0 +1,121 @@
+➜关于HTML5 应用现状与前景的思考
+https://www.solidot.org/story?sid=18481	1920
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "现在的 HTML5 就像当年崭露头角时的 Ajax，有人在做，但不知道叫它什么。最近，<a href="http://www.apple.com/html5/">苹果在 HTML5 上大做文章</a>，而著名的 Web 设计师 Eric Meyer 则提出了 <a href="http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/">Web   Stacks</a> 的概念。<b>Alex Kessinger </b>是 Yahoo 的一名前端工程师，本文是他对 HTML5 应用现状与前景的思考（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K987.aspx">完整图文版</a>）。           术语
+<br> <br>首先说说 HTML5 应用中的几个定义。<br> <br>
+HTML5
+<br> <br>HTML5 最好的定义来自  <a href="http://sixrevisions.com/html/Being%20Processed/Alex_Kessinger_the_State_of_HTML5_Webapps/diveintomark.org">Mark  Pilgrim</a> 的 <a href="http://diveintohtml5.org/introduction.html">Dive Into  HTML5</a>：
+<br> <br>"<i>HTML5 是继 HTML4.01，XHTML 1.0/1.1 之后的下一代 HTML</i>"
+<br> <br>值得一提的是，我们或许能看到 HTML6，然而按 Pilgrim 在 <a href="http://blog.whatwg.org/whats-next-in-html-episode-1">WHATWG 博客</a>中的说法，下一代 HTML 很可能去掉版本号这一概念。<a href="http://blog.whatwg.org/whats-next-in-html-episode-1"> </a> <br> <br>
+应用
+<br> <br>来自 <a href="http://en.wikipedia.org/wiki/Application_(computing">Wikipedia</a> 的解释：
+<br> <br>"<i>应用程序是计算机用来执行特定任务的软件</i>"<br> <br>
+HTML5 应用
+<br> <br>从用户的角度，HTML5 应用和其它的计算机应用程序还不完全一样，但已经很接近。从开发者的角度，HTML5 应用是一些基于 HTML，JavaScript，CSS 的程序，它们使用开放技术，可以离线使用，可以取代诸如 Silverlight 及 Flash 等专用平台的部分工作。或者说，多年来，你用来创建 Web 页面的东西，现在可以用来创建类似桌面和智能手机程序的应用。
+开源模式带来转变
+<br> <br>O’Reilly 创始人，Tim O’Reilly，一位开源的支持者，曾在《<a href="http://tim.oreilly.com/articles/paradigmshift_0504.html">Open   Source Paradigm Shift</a>》中如是说：
+<br> <br>"<i>IBM 对个人电脑设计的商品化使利润从硬件转移到软件这一层面，而开源将带来新的财富</i>"
+<br> <br>价值在不同的层面转移，HTML5 将成为新的层面，商品的价值在下降，现时的浏览器已经成为商品，但这并没有问题，只要它们都遵守标准。人们说，我们可以将操作系统置入浏览器中，但这行不通，如果我们可以从过去的经历中学到些什么，那就是，不能简单照抄过去的模式，好比广播到电视的变迁，你不能简单地在一个播音员面前放台摄像机完事，将操作系统置入浏览器未必比 HTML5 离线应用本身更有价值。
+发布渠道的重要
+<br> <br>诸如 苹果应用商店，Android 应用商店一类的渠道将成为主导，另外，一些新的，象 Valve 游戏渠道，Netflix 电影渠道一类的东西将会出现，在”云“时代，这些发布渠道将像桌面时代的操作系统一样用来对用户进行组织和归类。<br> <br>
+我们是如何到达现在这个阶段的?
+<br> <br>有两个关键的因素。<br> <br>
+感谢 Web 标准
+<br> <br>尽管浏览器市场并不统一，但至少他们都运行 HTML，JavaScript 和 CSS。当我们希望通过 Web 推出一些东西的时候，我们知道，无论如何，用户都能看到，然而你能想象人们都自己定义 Web 时的情景吗，假如有人不使用 HTTP协议，或者不使用 HTML，那才是世界的末日。W3C 一类的组织让各个浏览器厂家都保持同一个方向。<br> <br>
+还好，我们并没有很多渲染引擎
+<br> <br>浏览器并不好做，数十亿的网页，参差不齐的代码，这些东西让独立开发者没有机会单独设计浏览器，因此，有能力设计浏览器的始终是那么一小撮厂商，事实上，时至今日，我们只有四种主要的浏览器渲染引擎，Trident (IE), Gecko  (Mozilla, Firefox), WebKit (Chrome, Safari), 以及  Presto (Opera)，而众多浏览器都是建立在这些渲染引擎之上的。这意味着，不管在什么样的设备上，我们不用太担心它使用什么样的浏览器，不管什么设备，只要它有一个浏览器，就有一个可以运行 HTML5 的环境。
+标准何日面世？
+<br> <br>关于 HTML5 成为标准的时间，<a href="http://ln.hixie.ch/">Ian  Hixie</a> 的说法最受认可:
+<br> <br>"<i>根据估计，HTML5 直到 2022 年才会形成 W3C 推荐标准</i>"
+<br> <br>然而，虽然标准的形成尚待时日，但浏览器厂商已经在实现各种 HTML5 功能。<br> <br>
+功能探测 vs 浏览器探测
+<br> <br>如果你是开发者，你可以使用那些高级功能，但需要进行功能探测并提供渐进式设计。坊间有大量的功能探测库，如 <a href="http://www.modernizr.com/">Modernizer</a> ，另外，Mark Pilgrim 有一个清单，<a href="http://diveintohtml5.org/everything.html">它可以让你探测任何功能</a>。<br> <br>
+离线 API
+<br> <br>离线 API 是一切 HTML5 应用的基础，不单单是离线数据的事，对开发者来说，拥有本地存储（<a href="http://dev.w3.org/html5/webstorage/#the-localstorage-attribute">localStorage</a>）自然很好，但如何让程序完全离线运行？<a href="http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#appcache">Application   Cache</a> 是答案。如果不能离线保存源文件和数据，我们就无法实现离线的 HTML5 应用。
+<br> <br>我们目前有几种离线存储机制，简单的如 <a href="http://dev.w3.org/html5/webstorage/#the-localstorage-attribute">localStorage</a> 和 SQL 存储引擎，已经有一些浏览器在支持了，而最新的明星是 <a href="http://www.w3.org/TR/IndexedDB/">Indexed  Database</a>，它得到了所有主流浏览器支持。这些离线保存应用和数据的能力，是 HTML5 的基础，目前，Webkit，Firefox 已经可以实现，而 IE9 也即将实现。即时 IE9 的支持还需要等待，想一下，最需要离线应用的场合是哪里，自然是智能手机和上网本，智能手机多数都是用 Webkit。<br> <br>
+W3C Web 应用工作组：HTML5 应用的下一步
+<br> <br>W3C <a href="http://www.w3.org/2008/webapps/">WebApp</a>s 标准已经做了大量工作，包括 API 及 HTML5 Web 程序细则。<br> <br>
+HTML5 应用的打包部署
+<blockquote> <div> <a href="http://www.quirksmode.org/blog/archives/2010/03/html5_apps.html">HTML5  apps – QuirksBlog</a> 博客文章中说，"<i>对于本地/离线 HTML5 应用，<a href="http://www.w3.org/TR/widgets/">W3C Widget packaging and   configuration</a> 是首选机制，并将成为事实标准，很多厂商已经开始对之进行实现。W3C Widgets 支持任意平台的 <a href="http://jil.vodafone-developer.com/">Vodafone  S60 和 Samsung  手机</a>, <a href="http://www.opera.com/business/solutions/widgets/benefits/index.dml">Opera 桌面与移动浏览器</a>，<a href="http://boltbrowser.com/home.html">Bolt 浏览器</a> 以及 <a href="http://msdn.microsoft.com/en-us/library/dd721906(loband).aspx">Windows   Mobile 6.5</a>。<a href="http://www.intomobile.com/2009/05/11/web-based-blackberry-widgets-en-route.html">BlackBerry</a> 也支持，不过需要特殊的 Java 包。</i>"</div> </blockquote>
+<br> <br>这些都是标准，本质上讲，如果你有一个 HTML5 应用，它就会包含 HTML, CSS, 以及 JS，这些标准只不过偶是帮助开发者将他们的程序打包发行，如果你熟悉 <a href="http://pear.php.net/">PEAR</a>, 它们是很相似的概念。你可能需要一些元数据，告诉系统你的程序是如何打包在一起的，在支持这些标准的平台上，你就可以保证你的用户可以顺利运行这些程序。<br> <br>
+其它
+<br> <br>HTML5 还有更多 API 可以帮助开发者创建应用，这些 API 可以让你的程序访问诸如<a href="http://dev.w3.org/2006/webapi/FileAPI/">本地文件</a>，<a href="http://www.w3.org/TR/2010/WD-capture-api-20100401/">摄像头</a>，<a href="http://dev.w3.org/html5/websockets/">SOCKET 通信服务</a>，以及硬件动画加速等。这些 API 仅仅是开端，这样的 API 后期会越来越多。
+HTML5 程序可以应用在哪里？
+<br> <br>当然是浏览器，如果一个设备拥有一个浏览器或渲染引擎，而且这个引擎是现代引擎，它就可以运行 HTML5 程序。HTML5 程序会应用在以下几种场合。<br> <br>
+桌面
+<br> <br>如果你拥有一个符合 Web 标准的浏览器，就可以运行 HTML5 应用。桌面仍然很重要。<br> <br>
+指定站点浏览器
+<br> <br>诸如 Gmail 一类的站点可以看做一个应用，使用<a href="http://en.wikipedia.org/wiki/Site-specific_browser">专门的浏览器</a>运行，这样的浏览器没有地址栏，是专门用来运行指定站点应用的，甚至可以制作一个安装包来分发。以下资源值得一看，<a href="http://mozillalabs.com/prism/">Prism</a>, <a href="http://fluidapp.com/">Fluid</a>/<a href="http://fluidium.org/">Fluidium</a> 以及 <a href="http://cappuccino.org/discuss/2010/05/13/nativehost-run-your-cappuccino-applications-on-the-desktop/">NativeHost</a>。<br> <br>
+移动领域
+<br> <br>这是 HTML5 最热门的运行场所。iPhone 可以和很多程序集成，将你的程序显示在它的今日桌面（<a href="http://sixrevisions.com/web-development/html5-iphone-app/">这里有一个教程</a>），Android 也支持需要的 HTML5 API，但集成不够好。未来几年，支持 HTML5 的移动浏览器将如雨后春笋，将你的应用向 HTML5 迁移是很明智的，因为 HTML5 将很好地运行在这些设备上。<br> <br>
+跨界领域
+<br> <br>已经有公司即将发布电视平台，<a href="http://www.google.com/tv/">Google TV</a> 以及 <a href="http://www.apple.com/appletv/">Apple TV</a>，Google 表示，他们的 TV 平台将支持 HTML5，我们不知道苹果的 TV 平台将支持什么，鉴于<a href="http://www.apple.com/html5/">他们最近对 HTML5 的一系列炒作</a>，很有可能也支持。另外一些电视盒厂商，如 <a href="http://www.boxee.tv/">Boxee</a> 业已开始支持 HTML5，如果你想为 Boxee 开发应用，与其专门为它开发，不如直接使用 HTML5。
+<br> <br>跨界领域拥有大量的平台，那些可以连接电脑的电视的数量在不断增长，我们已经可以在电视上全屏观看 YouTube，而备受欢迎的 Wii 则内置了 Opera。所有这些，都将借助 HTML，CSS 与 JavaScript。<br> <br>
+HTML5 应用商店
+<br> <br>Eric Meyer 讲到了 HTML5 应用程序问题，他将 HTML5 应用成为 <a href="http://meyerweb.com/eric/thoughts/2010/05/19/the-web-stack/">Web   Stack Apps</a>， HTML5 要获得更多关注，<a href="http://meyerweb.com/eric/thoughts/2010/06/03/app-shopping/">可以建立 HTML5 应用商店</a>。<a href="https://chrome.google.com/webstore">Chrome</a> 正在这样做，而 <a href="http://www.palm.com/us/products/software/mobile-applications.html">Palm   已经有了一个这样的东西</a>。
+<br> <br>应用商店是很好的东西，开发者可以直接得到报酬，而无需像现在这样靠广告维持，同时，用户也将有一个地方去为他们的设备寻找程序。<br> <br>
+HTML5 市场前景
+<br> <br>HTML5 在快速成长，值得所有人密切关注，最近的一两年，会有很多公司进入这个领域，我们或许会在 Chrome 应用商店看到一些重量级厂商，我们也有希望在 Google TV 和 Apple TV 领域看到一些应用商店的出现。HTML5 会像传统的 Flash，Flex，Silverlight，Objective-C 那样，形成自己的生态系统。HTML5 将比 Flash, Flex, Silverlight 以及 Objective-C 更容易出现在任何设备。
+<br> <br>对于年轻一代开发者，HTML5 应当是他们首选技能，HTML5 会形成很大的市场，很有很多公司需要这方面的人才。<br> <br>
+延伸阅读
+<ul>
+<li> <a href="http://sixrevisions.com/web-development/html5-iphone-app/">How  to Make an HTML5 iPhone App</a> （如何设计 HTML5 iPhone 应用）</li>
+<li> <a href="http://sixrevisions.com/interviews/six-questions-eric-meyer-on-css3/">Eric  Meyer on CSS3 （Eric Meyer 谈 CSS3）</a> </li>
+<li> <a href="http://sixrevisions.com/web-technology/anatomy-of-a-website/">The  Anatomy of a Website （网站剖析）</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K964.aspx">HTML5 到底是什么？</a> </li>
+</ul>
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K957.aspx">HTML5： 实至名归还是言过其实？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K918.aspx">关  于 HTML5，开发者可以期待什么？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K885.aspx">HTML    5 之后是什么？HTML</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K701.aspx">深入了解     HTML 5</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K804.aspx">让     JavaScript 拯救 HTML5 的离线存储</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K745.aspx">Web     Forms 2.0 行将被 HTML 5 代替</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K511.aspx">HTML     5 正在改变 Web</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K667.aspx">HTML     5 令人期待的 5 项功能</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K816.aspx">当   HTML   5 遇见 Google</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K823.aspx">HTML     5 会为 Flash 和 Silverlight 送终吗？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K824.aspx">Firefox     访谈：OGG, HTML 5 与 Web 视频的未来</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K828.aspx">XHTML     2: 出师未捷身先死, HTML 5:万千宠爱于一身</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K834.aspx">HTML5   File API：把文件从桌面拖放到 Web</a> </li>
+</ul>
+原文作者<br> <br>
+Alex  Kessinger 是一名 Yahoo 前端工程师，他的博客地址是 <a href="http://alexkessinger.net/">alexkessinger.net</a>，他还是 <a href="http://tastestalkr.com/">Tastestalkr   Network</a> 的合伙创始人，现居旧金山湾区。
+<br> <br>本文国际来源：sixrevisions.com <a href="http://sixrevisions.com/html/the-state-of-html5-apps/">The State of HTML5 Apps</a>
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜四款优秀的Linux计量经济自由软件
+https://www.solidot.org/story?sid=18482	6840
+<a href="mailto:ccameron@yahoo.com">Colin Cameron</a> 写道<i> "<a href="http://zh.wikipedia.org/zh-cn/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6">计量经济学</a>是统计学或定量方法的一种应用，以帮助理解经济问题、检验理论和模型。它所涉及的研究领域覆盖了经济模型、数理统计和经济数据。计量经济学也有一系列工具，可用真实世界的数据集去验证或反驳经济理论。计量经济学软件是一种统计学软件，专门用于计量分析，这类软件提供了回归分析，包括时间序列分析和横断面分析。SAS软件研究所开发的SAS软件包统治着计量经济软件市场，其它著名的商业软件包括GAUSS、OxMetrics、Stata和SPSS。linuxlinks的这篇文章列出了<a href="http://www.linuxlinks.com/article/20100619070210831/Econometrics.html">4种计量经济软件的自由软件替代</a>，包括<a href="http://gretl.sourceforge.net/">gretl</a>；
+<a href="http://approximatrix.com/products/draco">Draco</a>；<a href="http://www.r-project.org/">R</a>等。
+"</i>
+➜人民网推出“GOSO”
+https://www.solidot.org/story?sid=18483	13800
+中国官方媒体人民网和人民日报正式<a href="http://politics.people.com.cn/GB/11915277.html">推出了“人民搜索”</a>，域名为<a href="http://www.goso.cn/">goso.cn</a>。goso目前包括了新闻搜索、网页搜索、图片搜索、博客搜索、论坛搜索等，官方声明声称要“建立具有权威性的综合中文搜索引擎”和“提供具有公信力的搜索结果”。巧合的是在此之前，世界上最大的搜索引擎Google出现了<a href="__SLASHLINK__" sect="it" sid="10/06/19/0320234" sn="article" tid="26">大部分服务无法使用的情况</a>。对比下<a href="http://www.goso.cn/search_web.jsp?q=%E5%A4%A9%E5%AE%89%E9%97%A8">goso</a>、<a href="http://www.baidu.com/baidu?wd=%CC%EC%B0%B2%C3%C5&amp;tn=monline_dg">百度</a>和<a href="https://www.google.com/search?hl=en&amp;source=hp&amp;q=%E5%A4%A9%E5%AE%89%E9%97%A8&amp;btnG=Google+Search">Google</a>搜索“天安门”的结果。
+➜ipad和iPhone将不能互换SIM卡
+https://www.solidot.org/story?sid=18484	15120
+<a href="http://www.hi2020.com/">书评影评</a> 写道 "padgadget<a href="http://www.padgadget.com/2010/06/15/ipad-and-iphone-4g-micro-sim-cards-incompatible/">报道</a>，即将上市的第四代iPhone手机和iPad平板电脑不能互换SIM卡。
+<i>
+本月初，苹果CEO史蒂夫·乔布斯(Steve Jobs)发布了第四代iPhone手机，从6月15日开始，用户可以进行<a href="http://cn.wsj.com/gb/20100617/tec080910.asp">预定</a>。6月24日，新版iPhone将率先在美国、法国、德国、英国和日本上市。9月，新版iPhone将在全球88个国家推出。苹果在公司网站上称，第四代iPhone和iPad平板电脑将不能互换SIM卡。苹果称：“iPad的micro-SIM卡将不能被用于iPhone。”对于用户而言，这无疑是个不小的失望。新版iPhone和iPad均采用micro-SIM卡，很多用户都希望两款设备能够互换SIM卡。移动运营商O2表示，尽管都采用micro-SIM卡，但iPad的micro-SIM卡不支持语音服务，主要以数据服务为主。"</i>
+➜研究称茶与咖啡能降低心脏病风险
+https://www.solidot.org/story?sid=18485	17400
+BBC<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/06/100619_tea_coffee_heart.shtml">报道</a>（physorg<a href="http://www.physorg.com/news196090637.html">报道</a>），一项长达13年的研究发现，每天适量地喝几杯茶或咖啡将有助于防止患心脏疾病。
+<i>这项对4万人所作的调查研究显示，如果每天喝六杯以上热茶，患心脏疾病的可能性比每天喝不到一杯热茶的人少36%；如果每天喝三杯到六杯热茶，患心脏疾病的风险将会减少45%。而每天喝两至四杯热咖啡，也有助于减少患心脏疾病的风险。每天喝两至四杯咖啡的人可以减少患心脏疾病几率20%。但研究结果表明，如果每天所喝咖啡超过四杯，保护作用将会消失。但即使如此，多喝咖啡者也不会比不喝咖啡者更容易死于任何疾病，包括癌症和脑血栓。从理论上讲，咖啡中含有同时增加和减少疾病的物质。它既能导致血脂上升，也能消除同心脏疾病相关的炎症。</i>
+➜“干细胞旅游者”死于干细胞治疗
+https://www.solidot.org/story?sid=18486	25200
+干细胞疗法的疗效和安全性至今未获验证，FDA也没有在美国批准试验此种疗法，但在中国、墨西哥和哥斯达黎加等地，干细胞疗法却相当流行，没有受到管制，因此吸引了无数患者前往治疗，出现了所谓的“干细胞旅游业”。上周哥斯达黎加政府取缔了一家干细胞治疗诊所。本周有报道称，<a href="http://blogs.discovermagazine.com/80beats/2010/06/18/danger-stem-cell-tourists-patient-in-thailand-dies-from-treatment/">一位患者在泰国一家诊所接受干细胞治疗后死亡</a>。<i>
+一位患有“狼疮性肾炎”的女性患者，在曼谷一家私人诊所接受了干细胞治疗。医生从她自身的骨髓中提取出干细胞，直接注入到患者的肾脏。根据发表在《美国肾脏病学会》杂志上的病例分析<a href="http://jasn.asnjournals.org/cgi/content/abstract/ASN.2009111156v1">报告</a>，患者在接受治疗后就开始出现肾衰竭，一年后她的一个肾脏已经坏死，两年后她因此而死亡。尸检发现干细胞治疗未对其肾脏产生任何好处，反而在注射部位观察到了病变。</i>
+➜天文学家见证恒星诞生
+https://www.solidot.org/story?sid=18487	30960
+天文学家利用斯皮策太空望远镜和夏威夷的亚毫米波阵列，<a href="http://opa.yale.edu/news/article.aspx?id=7628">在附近的一个恒星形成区域发现了已知最年轻的恒星</a>。这颗恒星尚未真正形成，而是处于恒星发育的早期阶段。<i>
+名为L1448-IRS2E的天体位于英仙座，距离银河系800光年。恒星通常是从名为原始分子云的巨大致密气体和尘埃团中形成，这类分子云广泛存在于星系之中。天文学家认为L1448-IRS2E处于早期恒星发展阶段，分子云团刚刚开始聚集起来。在原始恒星阶段，引力将足够多的物质凝聚形成一个致密和炎热的核心。论文主要作者、耶鲁大学博士后副研究员<a href="http://www.astro.yale.edu/people/xuepeng-chen">Xuepeng Chen</a>表示，恒星形成的最初阶段很难观察到，因为时间很短，发射出的光也很弱。L1448-IRS2E的亮度不到太阳的十分之一，而大多数原始恒星的亮度是太阳的1到10倍，因此天文学家认为L1448-IRS2天体还不是原始恒星。</i>
+➜未来电池由土豆制造
+https://www.solidot.org/story?sid=18488	35400
+Yissum研发公司，利用耶路撒冷希伯来大学的技术，正在开发名为“solid organic electric battery based upon treated potatoes（基于马铃薯涂层的固体有机电池）”的新电池，简单来说就是<a href="http://hothardware.com/News/Potatoes-May-Power-The-Batteries-Of-The-Future/">马铃薯驱动的电池</a>。这种电池为世界上缺乏电力设施的地区提供了一种简单的、可持续的、可靠的满足电力需求的廉价方案。<i>
+希伯来大学的研究人员发现，马铃薯涂层增强了盐桥能力，因此有马铃薯涂层的电池产生的电能是无马铃薯涂层电池的十倍。成本分析显示，新的电池比现有的商业电池如1.5 Volt D电池和Energizer E91电池便宜5到50倍。</i>
+➜美国14年来首次枪决死刑犯
+https://www.solidot.org/story?sid=18489	45600
+<a href="http://cnnet.us/taobao/">Taobao</a> 写道 "<a href="http://news.163.com/10/0619/02/69GQ6FKF00014AED.html">网易</a>：美国当地时间6月18日凌晨零时5分，加德纳在犹他州监狱内被执行枪决，这是该州乃至美国14年来首次枪决死刑犯。他临刑前最后一天据说很“放松”。他见了律师和宗教人员，读了一本畅销小说《天道》，并睡了一会儿。加德纳最后的几个小时在看电影“指环王”三部曲。"
+➜80+个您应该在Twitter上追踪的设计博客
+https://www.solidot.org/story?sid=18490	46920
+<a href="mailto:godsea8@sina.com">我想网</a> 写道 "设计界的博客每天都在新增，而且发展速度越来越快。为了帮助您跟上步伐，这里列出的是<strong> <a href="http://www.iwanna.cn/archives/2010/06/16/4010/">您应该在Twitter上追踪的设计类博客集合</a> </strong>。我想列出 一张设计类图标清单，然后不停地往里面添加博客地址。如果您比较懒惰，那么请追踪这个<a href="http://twitter.com/Inspirationf/graphic-design">地址</a>吧。我的目标是使得这篇文 章对所有人来说都是有用的资源。经常会有更新。请注意，下面所有的设计类博客都是通过2个月的评估得出来的。他们之所以被列在这里，无非是因为他们提供了 有用且有帮助的资源、链接及从设计到开发的文章。           如果您觉得您的博客也应该在这里列出，那么请留言，我们会来确认的。
+<br> <br>国际来源：<a href="http://inspirationfeed.com/2010/06/80-design-blogs-to-follow-on-twitter/">inspirationfeed</a>
+<br> <br>中文来源：<a href="http://www.iwanna.cn/">我想网</a> 板凳 翻译"

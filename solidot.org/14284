@@ -1,0 +1,96 @@
+➜回顾2000年的Linux发行版
+https://www.solidot.org/story?sid=9769	60
+2000年的Linux发行版是什么模样？TuxRadar<a href="http://www.tuxradar.com/content/archives-best-distros-2000">重新发表了第一期的Linux Format杂志</a>。该期杂志上比较了当时的Linux发行版：Corel Linux 1.0、Definite Linux 7.0、WinLinux 2000、Red Hat 6.1、SuSE Linux 6.3、Caldera OpenLinux 2.3、Mandrake 7.0、Debian GNU/Linux 2.1。<i>
+2000年时Linux仍鲜为人知，主要被一些geek使用，不像今日它被广泛应用于上网本、Dell电脑，几乎无处不在。这些发行版中，<a href="http://zh.wikipedia.org/wiki/Corel_Linux">Corel</a>已死许久，尽管它一度很是高调；<a href="http://en.wikipedia.org/wiki/Caldera_OpenLinux">Caldera OpenLinux</a>发展势头也不错（在SCO终止之前）；SUSE、Mandrake、Red Hat和Mandriva现在依旧活得很精神，WinLinux只发布2003版，英国的发行版Definite Linux也早消失。</i>
+➜分析泄漏的PHPBB网站密码
+https://www.solidot.org/story?sid=9770	1440
+开源论坛系统<a href="http://zh.wikipedia.org/w/index.php?title=PhpBB&amp;variant=zh-hans">PHPBB</a>的<a href="http://www.phpbb.com/">网站</a>遭黑客攻击，黑客<a href="http://hackedphpbb.blogspot.com/">公开</a>了大约2万名用户的密码。<i>
+安全研究人员<a href="http://www.darkreading.com/blog/archives/2009/02/phpbb_password.html">使用工具对密码进行了一番分析</a>，结果丝毫不出人意料，“123456”和“password”是<a href="http://www.whatsmypass.com/?p=415">最流行的口令</a>。研究人员还特别从心理学角度分析密码的使用模式：14%的密码是严格遵循键盘布局，如“1234”或“qwerty”或“asdf”；另有一些略有变化，如“1qaz2wsx”或“1q2w3e”，“159357”则是根据数字键盘布局。研究人员推测右撇子喜欢用“1234”之类，左撇子常用“159357”。</i>
+➜微软可能视Ubuntu Desktop为对手
+https://www.solidot.org/story?sid=9771	2160
+微软正在招聘一位<a href="http://www.linkedin.com/jobs?viewJob=&amp;jobId=652401&amp;fromSearch=0&amp;sik=1233902901473">开源桌面战略主管</a>，这位主管将有一个特别的目标：打败Linux桌面。“Windows Competitive Strategy团队正在寻找一位强有力的团队成员，领导指向开源桌面竞争对手的微软全球桌面竞争战略。团队的使命是集智广益.....”<i>
+开源竞争对手？目前比较有实力的对手是Red Hat、Novell和Canonical，其中Red Hat对桌面没多少兴趣，它专注于服务器领域，而Novell与微软关系很铁，<a href="http://news.cnet.com/8301-13505_3-10159100-16.html">毫无疑问微软的目标是Ubuntu</a>。根据最近的桌面操作系统市场统计，是Mac而不是Linux，<a href="__SLASHLINK__" sect="linux" sid="09/02/04/0222206" sn="article" tid="95">在吞食微软的Windows市场份额</a>。为什么微软要特别针对Ubuntu，它到底想在背后搞什么鬼？</i>
+➜BOSS是最容易受计算机攻击的人
+https://www.solidot.org/story?sid=9772	3000
+为了保护电脑远离病毒和黑客攻击，企业会要求计算机“锁死”，不允许运行未授权的软件、CD或DVD。但是地位低下的IT部门主管是不可能要求公司老大的电脑去采取类似的限制。<i>
+因此五角大楼网络安全任务小组的技术专家Glenn Zimmerman在伦敦举行的网络战争会议上警告：<a href="http://www.newscientist.com/article/mg20126946.500-bosses-to-blame-for-computer-attacks.html">大多数高管的电脑对威胁都是大开方便之门</a>，而他们的电脑也常常保存了重要数据。以色列的网络战争专家Yael Shahar认为解决之道是使用更宽松的安全措施。“锁死”的政策也会让高手去寻找权宜之计，从而引入安全漏洞。</i>
+➜摩斯电码爱情
+https://www.solidot.org/story?sid=9773	10080
+一位百度用户在“密码吧”中<a href="http://tieba.baidu.com/f?z=529691897&amp;ct=335544320&amp;lm=0&amp;sc=0&amp;rn=30&amp;tn=baiduPostBrowser&amp;word=%C3%DC%C2%EB&amp;pn=0">发贴</a>称，“最近和一个心仪的女生告白，谁知道她给了一个摩斯密码给我，说解出来了才答应和我约会....唯一给我的提示就是这个是5层加密的密码..也就是说要破解5层密码才是答案..”密码如下：<i>
+“****-/*----/----*/****-/****-/*----/---**/*----/****-/*----/-****/***--/****-/*----/----*/**---/-****/**---/**---/***--/--***/****-/ ”
+</i>发贴时间是2008年1月23日凌晨4点23分。<a href="http://www.my1510.cn/article.php?97f0cc55818c434b">这个帖子很快引起了网友的关注</a>，并且就在23日当天晚上20点02分，注册名字为片羿天使的网友在第207楼解开了谜底。答案为“I LOVE YOU TOO”。转换过程是：
+<i>先将摩斯密码对应的数字“41 94 41 81 41 63 41 92 62 23 74”转换成了手机键盘字母，以41为例，它对应的就是传统手机键盘上的“4”的第一个字母，“94”则是“9”的第4个字母...因此得到“G Z G T G O G X N C S ”。接着，这些英文字母被转换成了用电脑键盘打出来的字母。码表QWE=ABC依次类推。按照次序，就转换到了第三步答案：“O T O E O I O U Y V L”。在第四步中，片羿天使用了包括凯撒、乘法等等方法，对第三步几乎可以看出来的答案进行了进一步的解码，最后发现只有栅栏才能读得通。片羿天使将这组字母分成了“O T O E O I”和“ O U Y V L”两排，然后对插重组得到第四步的字母排列：“OOTUOYEVOLI”。第五步就是将“OOTUOYEVOLI”倒序排列，即“I LOVE YOU TOO”。</i>这件事太富有戏剧性了，似乎也与“情人节遥相呼应”，因此有人评论其为百度的一次“<a href="https://groups.google.com/group/mindex/browse_thread/thread/4962c2900ef4038?hl=zh-CN">营销</a>”行为。这位名叫“<a href="http://passport.baidu.com/?business&amp;aid=6&amp;un=%C6%AC%D2%EE%CC%EC%CA%B9#0">片羿天使</a>”的用户注册信息中性别为女，注册时间就是1月23日。
+➜2月13日，UNIX时间抵达1234567890
+https://www.solidot.org/story?sid=9774	14400
+2009年2月13日星期五，协调世界时（UTC）晚上11:31:30，<a href="http://www.linuxpromagazine.com/online/blogs/paw_prints_writings_of_the_maddog/one_of_those_magic_times_on_friday_the_13th?blogbox">UNIX时间将抵达1234567890秒</a>。<i>
+<a href="http://zh.wikipedia.org/w/index.php?title=UNIX%E6%97%B6%E9%97%B4&amp;variant=zh-hans">UNIX时间</a>是UNIX或类UNIX系统使用的时间表示方式：从协调世界时1970年1月1日0时0分0秒起至现在的总秒数，不包括闰秒。由于大部分UNIX的系统都是32位，因此到<a href="http://zh.wikipedia.org/w/index.php?title=2038%E5%B9%B4%E5%95%8F%E9%A1%8C&amp;variant=zh-hans">2038年</a>时间计数就可能溢出，解决方法是更换为64位模式。Linux内核开发者Alan Cox表示，Linux现在都运行64位时间模式，它可以记录到2900亿年后，因此即使太阳燃料用尽也不会出问题。</i>
+➜Nvidia正着手准备制造x86芯片
+https://www.solidot.org/story?sid=9775	18720
+去年就有流言称Nvidia计划制造x86芯片，现在迹象越发明显：<a href="http://www.pcauthority.com.au/News/136603,nvidia-is-trying-to-make-an-x86-chip.aspx">Nvidia正在硅谷大规模招聘x86工程师</a>。但问题仍然存在，x86 CPU的主要专利都掌握在Intel和AMD手中，没有专利许可收购再多X86团队也没用。Nvidia制造x86芯片的机会渺茫，除非它不介意打官司。
+➜OpenDNS将封锁和监控Conficker蠕虫
+https://www.solidot.org/story?sid=9776	21000
+<a href="http://en.wikipedia.org/wiki/Conficker">Conficker</a>（又名Downup，Downadup和Kido)）是2008年底出现的，专门针对微软Windows服务器已知漏洞的蠕虫，至今全世界大约有1千万台电脑感染了这一恶意程序，相信很多系统管理员对网络是否为蠕虫所寄居是毫不知情。<i>
+现在<a href="http://www.opendns.com/">OpenDNS</a>计划在周一引入一项新的服务，<a href="http://www.theregister.co.uk/2009/02/07/opendns_conficker_protection/">阻止被感染的电脑与攻击者所控制的服务器联系</a>，管理员也可以很容易的了解到他管理的网络中有哪台计算机被Conficker感染。“从星期一开始，网络中的任何电脑，如果尝试连接到Conficker地址，它将被标记在管理员的私人统计页上。该服务免费提供给企业和家庭用户。”</i>
+➜卡巴斯基客户数据库内容曝光
+https://www.solidot.org/story?sid=9777	23280
+利用卡巴斯基美国网站上的一个SQL注入漏洞，一位黑客成功获得了<a href="http://www.theregister.co.uk/2009/02/08/kaspersky_compromise_report/">访问多台服务器的权限</a>。黑客随后<a href="http://hackersblog.org/2009/02/07/usakasperskycom-hacked-full-database-acces-sql-injection/">贴出</a>了一些屏幕截图和一个表格，并明确表示不会在网上<a href="http://hackersblog.org/2009/02/08/response-for-theregistercouk/">发布任何机密信息</a>。从所公布的信息看，他访问的数据库包含了bug列表，用户和代理商帐号等。卡巴斯基拒绝对此事作出评论。虽然黑客人为模糊了URL地址，但只根据可见部分，其他人设法复制只是时间的问题。
+➜Nokia将推出Symbian软件商店？
+https://www.solidot.org/story?sid=9778	25200
+<a href="http://xizhizhu.blogspot.com/">Xizhi Zhu</a> 写道 <i>
+"有<a href="http://news.csdn.net/n/20090209/123003.html">报道</a>称，芬兰手机巨头诺基亚公司正在筹划推出自己的Symbian<a href="http://www.unwiredview.com/2009/02/07/nokia-to-launch-its-own-app-storeportal-at-mwc-09/">应用程序商店</a>。报道称，Nokia正在等待巴塞罗那移动世界大会（Mobile World Congress）的召开，并会在会上正式公布软件商店。"</i>
+➜Wikileaks公开价值10亿美元的公有领域研究报告
+https://www.solidot.org/story?sid=9779	29760
+Wikileaks公开了容量超过2G的、<a href="http://wikileaks.org/wiki/Change_you_can_download:_a_billion_in_secret_Congressional_reports">号称价值有10亿美元的准秘密级研究报告</a>，这些报告皆是美国国会委托完成智囊团“国会研究机构（Congressional Research Service，CRS）完成的。<i>
+报告数量共计6780份，超过127000页。内容覆盖了大量敏感问题，从美国与以色列关系，到金融危机，到<a href="http://wikileaks.org/leak/crs/RL31827.txt">DRM和合理使用</a>（Fair use），到堕胎法。其中有大约2300份报告是在过去12个月内更新的，年代最久的报告要回溯到1990年。CRS每年的预算有1亿美元，拿得是纳税人的钱。<a href="http://opencrs.com/about.php">依照法律</a>，分析报告理应在公有领域发布，包括麦凯恩在内的政府立法者多年一直呼吁并提出议案公开CRS报告，但每次都被拒绝。CRS的报告只提供给国会议员，国会委员会成员，和其它姐妹机构如美国总审计局（GAO）。国会成员如果觉得报告对他们有利，则会选择性的发布其中一部分。对他们不利的也就视作保密了。
+</i>
+<a href="http://thepiratebay.org/torrent/4713076">BT</a>(海盗湾种子)，<a href="http://mirror.wikileaks.morphium.info/wikileaks-crs-reports/">在线浏览</a>，<a href="http://mirror.wikileaks.morphium.info/wikileaks-crs-reports.zip">压缩档下载</a>(2.3 Gb)
+➜CCP宣布终止EVE Online支持Linux
+https://www.solidot.org/story?sid=9780	33900
+星际网络游戏EVE Online的开发商CCP在2007年11月提供了Mac OS X和Linux客户端。自那以后，Mac OS X平台的用户数量在缓慢和稳定的增长，但Linux平台用户数量却始终停滞不前。<i>
+鉴于此，CCP正式宣布，自3月10日起<a href="http://myeve.eve-online.com/ingameboard.asp?a=topic&amp;threadID=993361">终止对Linux的支持</a>。如果玩家需要继续在Linux平台玩EVE Online，CCP也提供了一些选择，其中有的是免费的，有的是需要购买软件的。如果玩家想停止游戏，CPP也将按照未使用时间退款。一些Linux玩家回帖称EVE Online的Windows版在Wine下运行良好，抱怨官方的Linux客户端质量太次。</i>
+➜德国国防军征募黑客
+https://www.solidot.org/story?sid=9781	36600
+德国国防军<a href="http://tech.slashdot.org/article.pl?sid=09/02/08/2246251">正在征募黑客</a>，目的的渗透、操控和破坏敌方网络。<i>
+“该团驻扎于波恩附近的Rheinbach，包括几十名国防大学的毕业生。他们目前正在接受训练，这些穿制服的黑客，推测将运作到明年。这个团属于战略侦察部队，由准将Friedrich Wilhelm Kriesel指挥。”</i>
+➜Google Latitude 试用手记
+https://www.solidot.org/story?sid=9782	47520
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "上周五，Google<a href="http://www.pcworld.com/businesscenter/article/158907/article.html?tk=nl_bdxnws">发布</a>了一款备受期待的位置跟踪服务：<a href="http://www.pcworld.com/article/158909/google_latitude_service_lets_you_track_your_friends_how_it_works.html">Latitude</a> 。该服务使用智能手机（如 Google Android, BlackBerry, Windows Mobile）内置的 GPS 将你当前位置定位到地图以向朋友们分享。Robert Strohmeyer 在 <a href="http://www.pcworld.com/">PC World</a> 撰文分享了他对 Google Latitude 的试用手记(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K722.aspx">完整图文版</a>)。
+"           关于 Latitude 的其它资料请参阅<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K717.aspx">Google Latitude 能否成为所有移动社会网络的杀手？</a> <br> <br>
+Web 注册
+<br> <br>如果你拥有 Google 账户，可以直接在 iGoogle 中添加 Latitude 服务，使用鼠标和键盘添加你的朋友列表，你也可以使用智能手机访问 <a href="http://google.com/latitude">google.com/latitude</a>  并下载最新的 Google 移动程序，该程序中内置 Latitude 功能。
+<br> <br>
+添加朋友
+<br> <br>在一切开始之前，你需要添加希望和自己分享位置信息的朋友列表。Gmail 用户可以从自己的联系人中直接选择，当然也可以手工添加。
+<br> <br>添加了朋友列表之后，他们的图标将显示在 Google 地图中，你可以通过点击他们的图标或查看列表，知道多久前他们刚刚更新了自己的位置信息。如果他们并没有输入自己的位置信息，或未启用 GPS 跟踪，他们的名下将显示未知位置。在某些情形下，你的朋友旁边会显示一个小眼球图标，画着一条斜线，好像是说他们隐藏了自己的位置，事实上正好相反，是他们看不到你的位置，这时，你可以选中这个朋友然后选择希望和他分享哪种等级的位置信息。
+<br> <br>
+隐私
+<br> <br>你有三种选项来分享自己的位置，你可以让 Latitude 探测你的位置并自动分享，或者手工输入自己的位置，或者完全隐藏。这些选项放在“隐私”菜单下。该设置对所有联系人有效，不过，你也可以单独为每个朋友设置不同的隐私选项。
+<br> <br>因为你可以手工输入任何位置信息，所以，你可以很容易设置一个假位置。比如你可以装作阔佬，说自己在马里的Timbuktu驾驶私人飞机享受异域郁风光。
+<div>
+移动版 Latitude
+<br> <br>移动版 Latitude 的界面因手持设备而异，以下截图都是基于 BlackBerry Curve.
+Google Mobile &amp; Maps
+<br> <br>在 BlackBerry，Latitude 内置在 Google Mobile 程序中，在 <a href="http://www.google.com/mobile">www.google.com/mobile</a>  可以下载。即使你以前已经安装过 Google Mobile 和 Google 地图，你仍需要下载一个最新版。
+<br> <br>在 Google Mobile 程序中，从菜单中选择 Maps，如果你的 Google Maps 是来版本，系统会提示你下载一个新的升级。
+<br> <br>一开始，Latitude 不会启用，你需要点击菜单按钮，选择“Latitude” 来启用它。然后输入你的 Google 账户的用户名和密码，最后，就像前面说的那样，需要在 Web 界面中添加朋友列表。
+<br> <br>
+Mobile Friends List
+<br> <br>移动版的朋友清单和 Web 版的一样，只是因为屏幕小，会被截掉一部分。它们会悬浮在地图上。
+<br> <br>要添加新朋友，在朋友菜单的顶部点击“点按菜单添加朋友”，就会进入一个界面，可以访问和 Web 界面中一样的联系人列表，也可以自己手工添加。为了避免从上百个用户中翻找，你可以使用“常用联系人”选项。
+<br> <br>
+朋友选项
+<br> <br>如果要单独设置某个朋友的选项，可以在朋友列表中将他选中，按回车键激活上下文菜单，在这里你可以获取朋友的位置信息，或者在你当前位置的附近查找感兴趣的东西，也可以调整隐私级别，或者删除该联系人。
+<br> <br>
+卫星图与交通图
+<br> <br>因为是内建在 Google 地图中，Latitude 包含同样的交通图和卫星图功能。
+<br> <br>通过交通图，你可以知道你准备约见的朋友是否会按时到达，查看一下你们之间的那些红线，表示那些路线交通拥挤，如果全是绿线，你的朋友就没有理由迟到。
+<br> <br>
+存在的问题
+<br> <br>Latitude 是全新的服务，自然不会一点问题都没有，不过很难分辨哪些问题是 Latitude 系统本身的问题，哪些是由于手机的 GPS 供电不足而引起的。移动电话的 GPS 问题很多，常导致不准确的 GPS 识别。
+<br> <br>因此，不奇怪，Latitude 经常报告不一致的位置信息。在实际使用中，我在朋友那里显示的位置有时是几个街区，有时是几英里之外。同样，我自己显示的自己的位置也经常变来变去，一会儿显示是在家里，一会儿是在东边5个街区之外的地方，或者在西边一英里之外。
+<br> <br>结论，Latitude 是个让人印象深刻的小工具，对<a href="http://www.pcworld.com/businesscenter/article/158975/spy_on_your_workers_with_google_latitude.html">和朋友们保持联系</a> 非常有用，但并不是很精确，当然，很多人是不喜欢暴露自己的隐私的，因此，这点偏差可能并不紧要。
+<br> <br>本文国际来源：<a href="http://www.pcworld.com/businesscenter/article/159137/google_latitude_an_indepth_look.html">http://www.pcworld.com/businesscenter/article/159137/google_latitude_an_indepth_look.html</a> <br> 中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站</div>
+➜网友报道CCTV配楼大火
+https://www.solidot.org/story?sid=9785	52800
+今日是元宵节，通常人们都会燃放烟花爆竹之类庆祝。然而今年中国许多地方皆已干旱了很长时间，如北京已有百多天没有下雨。<i>
+据网友通过twitter<a href="https://twitter.com/shizhao">连续报道</a>：大约在8点左右，CCTV新址配楼配楼即TVCC，疑似因<a href="https://docs.google.com/View?docid=dggh5mp6_0cmqqrrdb">烟花而引起火灾</a>。到22点火势已蔓延到<a href="http://wonitata-com.spaces.live.com/">底部</a>，整座大楼都处于浓烟之中，目前尚不清楚伤亡情况。据一位北京居民告诉<a href="http://www.alertnet.org/thenews/newsdesk/PEK193732.htm">路透社</a>，“碎片坠落，火焰喷向四面八方。”据悉烧毁的建筑物中有一座新的超五星级酒店“文华东方酒店”，它预订于2009年开放。</i>

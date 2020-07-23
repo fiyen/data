@@ -1,0 +1,45 @@
+➜马云宣布将于明年 9 月 10 日辞去董事局主席一职
+https://www.solidot.org/story?sid=57877	8549
+在通过彭博社采访放出风声之后，阿里巴巴联合创始人马云在教师节这天<a href="https://alibabanews.com/article/alibabajituangongbudongshijuzhuxichuanchengjihua" target="_blank"><u>正式宣布了</u></a>他的退休计划：辞去董事事局主席一职，专心搞教育慈善。马云在公开信中称，2019 年 9 月 10 日，现任阿里巴巴集团首席执行官张勇将接替他担任董事局主席一职。未来一年，他会继续担任董事局主席，并全面配合张勇，为完成过渡做好准备。此后他将继续担任阿里巴巴集团董事会成员，直至 2020 年阿里巴巴年度股东大会。马云即将退休的决定，正值中国的商业环境出现恶化。分析人士<a href="https://cn.nytimes.com/technology/20180908/alibaba-jack-ma-retiring/" target="_blank"><u>认为</u></a>，“不管他乐不乐意，他的退休将被解读为不满或担忧”。
+➜用功能机代替智能手机帮助摆脱手机上瘾
+https://www.solidot.org/story?sid=57878	12905
+许多人无法放下手中的智能手机。一些人从手机上瘾中看到了商机，他们推出了<a href="https://www.bbc.com/ukchina/simp/vert-fut-45437234" target="_blank"><u>功能非常有效的功能机</u></a>，这种手机只能打电话，但让用户重新获得他们失去的“自由”。特文特大学的范龙佩（Thomas van Rompay）认为，精简的风格使这些手机能真正有效地改变用户的行为。他说，iPhone 不停地有嗡嗡声，随时提醒有通知进来，所以人们频频拿起手机查看。“iPhone 本身更像是一个中介，因为它一直在吸引你的注意力。”由于一次又一次地响应这些刺激，从而形成了一个依赖循环。他说，功能机几乎无法显示除来电或短信以外的任何通知，用户自然就不会老碰它们。媒体理论家拉什科夫（Douglas Rushkoff）认为这都是朝着正确方向迈出的一步。
+➜SiFive正式公开HiFive Unleashed固件以及bootloader源代码
+https://www.solidot.org/story?sid=57879	13047
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "几个月前coreboot在移植HiFive Unleashed的过程中发现其内存初始化并不是开源的，之后在询问SiFive后得知只能通过逆向工程，但后来<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RISC-V-Not-All-Open-Yet" target="_blank">媒体曝光了此事</a>，让一些社区成员认为RISC-V一直都是以开放作为卖点（虽然ISA的开放和厂商SoC的开放程度并没有直接联系）并没有达到预期目的，但<a href="https://www.solidot.org/story?sid=57053" target="_blank">SiFive最终还是于2018年7月决定会开放其固件代码</a>，近日<a href="https://www.sifive.com/blog/2018/09/06/an-open-source-release-of-the-freedom-u540-c000s-bootloader/" target="_blank">SiFive终于开放了所有启动过程的代码</a>，<a href="https://github.com/sifive/freedom-u540-c000-bootloader" target="_blank">代码</a>是GPLv2和Apachev2的双许可证，虽然FSBL此前的不公开并不会影响自由固件项目比如coreboot和u-boot的移植工作，但全开放的平台会大大加速这一进程，<a href="https://twitter.com/hardenedlinux/status/1032843896017977344" target="_blank">HardenedLinux社区一直都在支持coreboot的RISC-V工作</a>，也希望更多人来一起参与。"</i>
+➜特朗普呼吁苹果在美国制造产品以避免关税
+https://www.solidot.org/story?sid=57880	14416
+美国正威胁对所有进口自中国的产品征收 25% 的关税，而很多征收目标实际上是在中国组装的美国产品。如果  iPhone 成为征收目标，那么毫无疑问它的美国零售价格将会上涨。美国总统特朗普通过 Twitter<a href="https://apple.slashdot.org/story/18/09/09/0158227/trump-tells-apple-to-make-products-in-the-us-to-avoid-china-tariffs" target="_blank"><u> 呼吁苹果在美国制造产品</u></a>，声称避免被征收关税的最简单方法是在美国制造其产品，他表示 iPhone 将会为变为零。但美国制造的成本可能比中国更贵，而且中国有完整的产品供应链，除非供应链也迁移到美国，否则 iPhone 的价格不可能会降低。
+➜趋势的 Dr. Unarchiver 被发现会上传用户的浏览记录
+https://www.solidot.org/story?sid=57881	19011
+安全公司趋势科技开发的 Dr. Unarchiver 应用<a href="https://9to5mac.com/2018/09/09/additional-mac-app-store-apps-caught-stealing-and-uploading-browser-history/" target="_blank"><u>被发现</u></a>会将用户的浏览历史上传到其服务器上。该应用已被 Mac App Store 下架。在这之前，另一款 Mac App Adware Doctor <a href="https://www.buzzfeednews.com/article/nicolenguyen/apple-removes-adware-doctor-browsing-history" target="_blank"><u>被发现存在类似行为</u></a>，会将用户的浏览历史上传到中国一家公司的服务器。Dr. Unarchiver 会在解压缩时询问是否快速扫描垃圾文件（Quick Clean Junk Files），用户选择扫描目录之后它被发现会在扫描时将 Safari、Chrome、Firefox 的浏览历史打包成一个压缩文件，上传到趋势的服务器。这一行为显然存在严重的隐私问题。目前尚未看到<a href="https://twitter.com/TrendMicro" target="_blank"><u>趋势</u></a>对此的回应。
+➜研究称炎热天气与自杀相关
+https://www.solidot.org/story?sid=57882	26905
+斯坦福大学和加州伯克利分校的研究人员<a href="http://www.ftchinese.com/story/001079331?adchannelID=&amp;full=y" target="_blank"><u>分析了</u></a>美国和墨西哥的大量自杀事件及天气数据，并分析了人们在社交媒体上发布的 50 多万条帖子，以评估社会普遍情绪。他们的研究表明，炎热的天气不仅与精神不稳定状况急剧增加——用社交媒体上出现的与自杀相关的关键词来衡量——存在关联，也伴随着自杀率的升高。最值得注意的是，气温每变化 1%，美国各县的自杀率就会升高 0.7%，而墨西哥各城市的自杀率则会上升 2.1%——不管正常的基准气温冷热与否。研究显示气候变化导致的自杀率变动，与经济衰退、自杀预防方案或枪支限制法的预期影响相当。气候不仅影响着我们的有形环境，还可能影响着我们的大脑化学，尽管研究人员们承认他们并不完全清楚气候以何种途径造成了上述影响。
+➜Mozilla 正在 Firefox 中整合 Google 翻译
+https://www.solidot.org/story?sid=57883	28237
+在整合了必应翻译和 Yandex 翻译之后，Mozilla 开始在 Firefox 内置的翻译引擎中<a href="https://www.ghacks.net/2018/09/09/mozilla-working-on-google-translate-integration-in-firefox/" target="_blank"><u>加入 Google 翻译支持</u></a>。在 Firefox 地址栏输入 about:config，然后搜索 translation，用户可以发现翻译引擎相关的选项，Firefox 浏览器目前内置的翻译引擎是必应，它还不支持 Google 翻译，而必应翻译实际上在浏览器上也无法正常工作。Google 翻译所需的 API 访问密钥只提供给付费用户，暂时还不清楚 Mozilla 是否会与 Google 达成使用 API key 的交易。
+➜寻找阿尔茨海默病的传染源
+https://www.solidot.org/story?sid=57884	30710
+Leslie Norins 医生愿意拿出一百万美元给任何能证明阿尔茨海默病是细菌导致的人，<a href="https://www.npr.org/sections/health-shots/2018/09/09/645629133/infectious-theory-of-alzheimers-disease-draws-fresh-interest" target="_blank"><u>也就是它是一种传染性疾病。</u></a>如果细菌传染的理论得到证实，未来有一天我们将可能看到阿尔茨海默病能用疫苗预防，或使用抗生素和抗病毒药物治疗。Norins 医生在 2017 年建立了公益性公司 <a href="https://alzgerm.org/about/">Alzheimer's Germ Quest</a>，希望能推动阿尔茨海默病细菌理论的兴趣。他不是唯一这么想的人。2016 年，32 名研究人员联名呼吁进一步研究感染因子在阿尔茨海默病因中的作用。Joel Dudley 教授的团队今年 6 月在《Neuron》上报告，他们发现疱疹病毒可能与阿尔茨海默病相关。
+➜SpaceX 完成今年的第十五次发射
+https://www.solidot.org/story?sid=57885	32698
+私人太空公司 SpaceX 使用 Block 5 版本的 Falcon 9 火箭从佛罗里达的卡纳维拉尔角空军基地将通信卫星 Telstar 18 Vantage 发射到地球同步转移轨道，并在海上无人驳船<a href="https://twitter.com/SpaceX/status/1039014220837216256" target="_blank"><u>成功回收</u></a>火箭第一级，<a href="https://www.nasaspaceflight.com/2018/09/spacex-falcon-telstar-18v-launch/" target="_blank"><u>完成了今年的第十五次发射</u></a>。Telstar 18 V 重 7,060kg，是 SpaceX 发射过的第二重的卫星。Telstar 18 V 将取代 2004 年发射的 Telstar 18，设计服役 15 年，将为亚太地区提供视频、数据和通信服务。Falcon 9 的下次发射不迟于 10 月 7 日，将为阿根廷发射 SAOCOM-1A 雷达成像卫星。
+➜TempleOS 作者去世
+https://www.solidot.org/story?sid=57886	33897
+<a href="http://templeos.org/" target="_blank"><u>TempleOS(née LoseThos)</u></a>唯一的程序员 Terrence Andrew Davis 去世，<a href="http://www.osnews.com/comments/30710" target="_blank"><u>年仅 48 岁</u></a>。Terry Davis 出生于 1969 年 12 月，是父母八个孩子中的第 7 个，在亚利桑那州立大学获得了电机工程的硕士学位。他最早接触的电脑是 Apple II，之后在 Commodore 64 上学习过汇编语言。他一开始是天主教徒，之后拥抱了无神论，认为大脑就是一台计算机，视自己为一位科学的唯物论者。他至今仍然认为自己有科学的头脑，是一位与上帝交谈过的无神论者。1996 年初，他出现了精神分裂症状。在精神状况转好之后，他搬回家与父母住在一起，着手写一本《1984》的续集。这本书没有完成。在想象中的上帝的要求下，他<a href="https://www.solidot.org/story?sid=42033" target="_blank"><u>开始全心全意开发</u></a> TempleOS，这个操作系统有着来自 DOS 时代的图形用户界面。
+➜传销可能不被认为是绑架
+https://www.solidot.org/story?sid=57887	37709
+匿名读者 写道 <i>"春城晚报报道了<a href="http://ccwb.yunnan.cn/html/2018-09/05/content_1240022.htm" target="_blank">勒死传销监工</a>的新闻再一次引发对于正当防卫的<a href="https://www.zhihu.com/question/293462463" target="_blank">讨论</a>，部分人仿佛才突然意识到(限制人身自由并进行恐吓的)传销不是绑架？而在花名繁多的犯罪中，受害者甚至可能会遭受谴责。"</i>
+➜纪录片探索科学出版领域的开放获取运动
+https://www.solidot.org/story?sid=57888	39717
+Jason Schmitt  在为 Atlantic Records 工作的时候，Napster 通过免费提供版权音乐而冲击了唱片业；现在作为一名通信和媒体研究员，科学出版行业正遭遇类似的冲击：以 Sci-Hub 为代表的免费论文网站冲击了利润丰厚的学术出版业。他制作的纪录片《<a href="https://paywallthemovie.com/" target="_blank"><u>付费墙</u></a>》<a href="http://www.sciencemag.org/news/2018/09/documentary-puts-lens-open-access-movement-upending-scientific-publishing" target="_blank"><u>探索了</u></a> Sci-Hub 及开放获取运动的影响。他认为学术出版业 35%–40% 利润率是难以让人接受的。期刊出版商也开始拥抱开放获取运动，但相比付费墙期刊它们出版的开放获取期刊是微不足道的。他预言十年内高质量的期刊将会免费。他认为美国拖慢了开放获取运动，因为有太多的大学与期刊出版商分别协商。
+➜迪拜公司计划从南极拖一座冰山
+https://www.solidot.org/story?sid=57889	45900
+迪拜的一家公司计划从南极<a href="https://www.stuff.co.nz/world/middle-east/106941489/plan-to-tow-icebergs-from-antarctica-to-parched-dubai" target="_blank"><u>拖一座冰山</u></a>来为这个沙漠城市快速增长的人口提供淡水。私营公司 National Advisor Bureau (NABL) 计划从南极向迪拜拖运一座 1 亿吨重的冰川，将澳大利亚珀斯或南非开普敦作为中途停靠站。如果冰山抵达迪拜后没有融化掉，该公司计划将水卖给迪拜政府。它计划在 11 月试点研究项目的可行性。该公司将使用卫星图像寻找合适的冰山，然后尝试将其拖到澳大利亚或南非。由于冰川很重，该公司需要多艘船的协助，它将利用洋流来帮助运输。即使有 30% 的冰山在途中融化，它仍然能提供 1 亿到 2 亿立方米的淡水，足够一百万人使用五年。该公司表示成功的话这将能帮助全人类。
+➜法国努力摆脱 CIA 的代码
+https://www.solidot.org/story?sid=57890	46374
+在马克龙 (Emmanuel Macron) 就任法国总统后不久，他的团队发现该国的情报机构使用源自 CIA 的软件去跟踪本土恐怖分子或无政府主义活动人士。马克龙政府将技术独立作为优先任务，希望摆脱对美国技术的依赖。在特朗普将欧盟称为敌人的今天，<a href="https://www.bloomberg.com/news/articles/2018-09-06/macron-push-to-drop-cia-code-turns-serious-as-trump-calls-eu-foe" target="_blank"><u>这一紧迫性变得更为重要了</u></a>。法国国内情报机构负责人 Laurent Nunez 称目前没有法国公司能提供类似软件。随着旧的联盟关系出现裂缝，法国及其它欧洲国家开始寻求在技术上独立，并进而推动未来的经济发展。
+➜调查发现三分之二的千禧年一代裸睡
+https://www.solidot.org/story?sid=57891	47977
+25 岁的 Anna Swanson 并不羞于承认她睡觉时不穿衣服。她的同龄人中裸睡的比例占绝大多数。根据 MattressAdvisor.com 的一项调查，三分之二的千禧年一代<a href="https://www.usatoday.com/story/news/2018/09/07/study-two-thirds-millenials-sleep-nude/1225852002/" target="_blank"><u>报告他们裸睡</u></a>。MattressAdvisor 调查了一千多人，结果有 58% 的人报告裸睡，婴儿潮一代裸睡的比例较低只有 39%，而千禧年一代接近 65%。裸睡者报告他们的睡眠质量比穿衣服睡觉的人更好。处于恋爱关系的人有 72% 报告裸睡，而单身者只有一半。超过半数的裸睡者表示伴侣也会裸睡。研究发现不穿衣服似乎有助于更频繁的做爱，裸睡者报告的性生活频率高于穿衣服睡觉的人。70% 的裸睡者表示不穿衣服更舒服，58% 的人表示更放松，54% 的人表示有助于睡眠改善。15% 的人表示裸睡能解放他们的生殖器。

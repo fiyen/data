@@ -1,0 +1,74 @@
+➜汉语编程，第二个麒麟？
+https://www.solidot.org/story?sid=4159	300
+konit 写道<i> "还记得“<a href="http://www.kylin.org.cn/">银河麒麟操作系统</a>”吗？那个被列入863计划的项目，被网友发现其内核使用了FreeBSD开源代码，但却抹去了版权声明，自称拥有自主知识产权。同样的伎俩再次出现在前阵子网上高调宣传推广的“汉语编程”身上。据网友分析发现（<a href="http://bbs.tiexue.net/post_2304429_1.html">链接一</a>，<a href="http://www.xycq.net/forum/thread-152078-1-1.html">链接二</a>）：汉语编程编译器实际上是由<a href="http://zh.wikipedia.org/wiki/Forth">Forth语言</a>的开源实现<a href="http://win32forth.sourceforge.net/">win32forth</a>修改而来的。win32forth是GPL授权发布。汉语编程并没有开放源码并保留原开发者版本声明，而却同样高调宣称拥有自主知识产权。<a href="http://blog.sina.com.cn/s/blog_49332a8301000dl8.html">徽剑博客</a>把汉语编程和汉芯联系在一起称之为大骗局。骗子的行骗手法并不高明，为什么总能一而再，再而三地出现并达到目的？谁来制止和杜绝这种高科技诈骗行为？"</i>
+➜BulletProof-x - Ubuntu的全金属外壳？
+https://www.solidot.org/story?sid=4160	1200
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 <i>"升级Ubuntu6.10（Edgy Eft）到了7.04（Feisty
+Fawn）由于某些方面融合不够好，不停Reboot成了家常便饭。后来试用了一款被很多Ubuntu Fans"谴责"的程序 -
+<a href="http://people.ubuntu.com/~bryce/BulletProofX/">BulletProof-x</a>，
+有什么用？类似于Windows
+Safe-mode，能够追踪到异常的reboot，尝试着初步调试系统的实用工具；最绝的一点一旦你放入Windows启动（安装）光盘，启动之后进入X
+server，BulletProof-x会自动解析其中的<a href="http://zh.wikipedia.org/wiki/Autorun">.inf</a>文件，一旦解析完毕你的光驱会自动"吐出"那张光盘。想想之前的Windows
+Safe-mode倒是没有光盘内容解析这个功能，也算是对Xorg一个非常不错的补充:-）"</i>
+➜YouTube不能访问
+https://www.solidot.org/story?sid=4161	3900
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "来自<a href="http://transpacifica.net/2007/10/18/youtube-blocked-in-beijing/">Graham Webster</a>的报告说，在北京已经不能访问<a href="http://www.youtube.com/">youtube</a>。我证实在北京确实不能访问了。又一个顶级的优秀网站要离我们而去了么？           测试如下：<br>C:\Documents and Settings\shizhao&gt;ping youtube.com <br> <br>Pinging youtube.com [208.65.153.238] with 32 bytes of data: <br> <br>Request timed out.<br>Request timed out.<br>Request timed out.<br>Request timed out. <br> <br>Ping statistics for 208.65.153.238:<br>&nbsp;&nbsp;&nbsp; Packets: Sent = 4, Received = 0, Lost = 4 (100% loss), <br> <br>C:\Documents and Settings\shizhao&gt;Tracert youtube.com <br> <br>Tracing route to youtube.com [208.65.153.238]<br>over a maximum of 30 hops: <br> <br>&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; 1 ms&nbsp;&nbsp;&nbsp; &lt;1 ms&nbsp;&nbsp;&nbsp; &lt;1 ms&nbsp; 10.143.53.241<br>&nbsp; 2&nbsp;&nbsp;&nbsp;&nbsp; 1 ms&nbsp;&nbsp;&nbsp;&nbsp; 1 ms&nbsp;&nbsp;&nbsp;&nbsp; 1 ms&nbsp; 10.143.211.1<br>&nbsp; 3&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp; 210.72.12.*<br>&nbsp; 4&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp;&nbsp;&nbsp;&nbsp; 1 ms&nbsp; 210.72.12.*<br>&nbsp; 5&nbsp;&nbsp;&nbsp; 22 ms&nbsp;&nbsp;&nbsp; 14 ms&nbsp;&nbsp;&nbsp; 15 ms&nbsp; 192.168.51.53<br>&nbsp; 6&nbsp;&nbsp;&nbsp;&nbsp; 4 ms&nbsp;&nbsp;&nbsp;&nbsp; 2 ms&nbsp;&nbsp;&nbsp;&nbsp; 4 ms&nbsp; 8.200 [159.226.254.181]<br>&nbsp; 7&nbsp; 8.198 [159.226.254.102]&nbsp; reports: Destination host unreachable. <br> <br>Trace complete."
+➜格式标准委员会面临“OOXML附带损害”
+https://www.solidot.org/story?sid=4162	6600
+OOXML文件格式第一次投票表决因为没有获得足够多的赞同票而未通过。我们所了解到的事实是许多国家是在投票表决结束前几个月内新加入文档格式和语言委员会的，无一例外它们都投了OOXML赞同票。但更不幸的是，这些国家多数都获得了P级成员资格，这意味着具有更高的影响力，现在OOXML表决引发的<a href="http://www.consortiuminfo.org/standardsblog/article.php?story=20071016092352827">附带损害已经开始显现</a>。每项标准的每次投票表决至少需要50%的P级成员参与（赞同，反对或弃权）。令人惊奇的是这些新成员一点也不觉得投票无聊，无视委员会成员重复再三废话的辩论。自OOXML投票后没有一项标准获得通过。用主席的话来说，委员会陷入停滞（ground to a halt），<a href="http://slashdot.org/articles/07/10/16/207205.shtml">他悲伤的说</a>，看不到以前那个忙碌、有影响力的标准委员会了。
+➜Hatebook：邪恶版的Facebook
+https://www.solidot.org/story?sid=4163	16380
+<a href="http://www.chandamon.com/">大文</a> 写道 "Sucker大本营丶三八乐团丶英文粗口学习班丶Hate Group安乐窝，以仇恨交友，尽情讨厌丶咒骂和怨恨，当自己的魔鬼，在<a href="http://www.hatebook.org/">Hatebook</a>之内，一个只有敌人的社交网群。<a href="http://www.littleoslo.com/cns/home/?p=343">大家仍然在Facebook里忙于扮演天使的游戏</a>?
+➜打破穿越美国的记录
+https://www.solidot.org/story?sid=4164	16800
+警察和飙车族总是死对头，如果想创造什么公路速度记录，首要注意点的就是别被警察盯上。《连线》杂志报道了一位试图打破<a href="http://www.wired.com/cars/coolwheels/magazine/15-11/ff_cannonballrun">穿越美国最短时间记录</a>的奇客 Alex Roy，他意识到打破记录的最大障碍之一是：公路巡逻警察，一路上大约会有32000名巡警陪伴他。为此他改装了自己的 E39 BMW M5汽车，安装了用于夜间驾驶的热成像摄像机，雷达/激光探测仪，GPS装置，预制程序的警察无线电扫描仪以及其它高科技的玩具。
+➜猛急的长臂猿诞生
+https://www.solidot.org/story?sid=4165	18600
+Ubuntu新版7.10 Gusty Gibbon今天发布！
+<br> <br>
+马上下载：<br>
+<a href="http://releases.ubuntu.com/releases/7.10/">Ubuntu 7.10下载</a>： <a href="http://releases.ubuntu.com/releases/7.10/ubuntu-7.10-desktop-i386.iso.torrent">i386-desktop.torrent</a>,
+<a href="http://releases.ubuntu.com/releases/7.10/ubuntu-7.10-desktop-amd64.iso.torrent">amd64-desktop.torrent</a>
+<br>
+<a href="http://releases.ubuntu.com/releases/kubuntu/gutsy/">Kubuntu 7.10下载</a>；
+<a href="http://cdimage.ubuntu.com/xubuntu/releases/gutsy/release/">Xubuntu 7.10下载</a>；
+<a href="http://cdimage.ubuntu.com/gobuntu/releases/gutsy/release/">Gobuntu 7.10下载</a>；
+<br> <br>
+<b>现有用户请运行</b>：
+<i>sudo apt-get update<br>
+sudo apt-get dist-upgrade</i>
+<br>
+<b>非Linux用户可试用Live CD版。</b> <br> <br>
+新特性包括：桌面三维效果；桌面搜索；用户快速切换；动态屏幕设置；全自动打印机安装；受限驱动管理；NTFS读写；电源节省；等等等等。           感谢faif的提醒。
+➜国内这些号称开源的程序真的开源了吗？
+https://www.solidot.org/story?sid=4166	20220
+自从2005年底discuz 4.0宣布开源以来，国内很多程序都陆续宣布开源，个个都把开源当作一把大旗来鼓吹自己，但<a href="http://www.laogui.com/80/">它们真的是开源了吗？</a> <br> <br>
+dedecms是国内用户最多的CMS，自己<a href="http://bbs.dedecms.com/read.php?tid=14893">搞了个协议</a>。<br>
+discuz最初叫CDB，基于XMB 1.5 Silver开发的，CDB代码中也写了遵循BSD许可协议，但CDB后来名字变为discuz，discuz1.X已经去除了BSD授权说明……<br>
+cmsware也很可笑，减少了加密文件的数量，就宣称自己在“走向开源”。<br>
+上个月PHPCMS宣布开源了，下载了个看看，里面竟然连个license说明文件都没？难道没有任何约束和限制？<br> <br>
+<b>希望这些国内的优秀程序更规范一些，开源不仅仅是让别人看到源代码，也不仅仅是供别人免费使用，这不是开源的精神，开源的真正目的是让更多的人参与进来，让软件更完美。</b>           P.S.slashcode中文版也应该release一下了。
+➜百度一统江湖
+https://www.solidot.org/story?sid=4167	21600
+nings 写道 <i>"今天根据大面积的反馈，发生了一起大规模DNS劫持事件，劫持方式为将众多包含搜索功能网站或网站模块劫持到百度搜索，受影响网站包含国内（<a href="http://hi.baidu.com/selangmm/blog/item/3d1bebc4a49e25aa8226ac85.html">如</a>淘宝的搜索模块）和国外（如microsoft.com的搜索模块），受影响范围为中国大陆，发生时间多为今天，持续时间不等。
+<br>
+如www.live.com，cn.msn.com的搜索结果都转向了百度一个错误页；而谷歌博客搜索(<a href="http://blogsearch.google.cn/">blogsearch.google.cn</a>)甚至直接被转向了百度。如果用国外代理服务器访问，一切都是正常的。
+<br>
+通常“认为”，域名解析放到国内我们自己做比较安全，现在来看，真的是这样的吗？
+这次百度不知是被谁当做了垫脚石（亦或它自己成了疯狂的石头）。</i>
+希望国家安全部门能迅速行动，追究此次严重互联网事故的责任人，并绳之以法。
+➜匿名懦夫是维基百科可信赖的编辑者
+https://www.solidot.org/story?sid=4168	23100
+开源软件在使用和关心它的人手中不断改进和更新。同样的过程也在在线百科全书<a href="http://www.wikipedia.org/">维基百科</a>上发生着。Dartmout大学的研究人员<a href="http://www.dartmouth.edu/~news/releases/2007/10/17.html">研究了维基百科上的文章编辑者</a>，注册用户和匿名用户，根据文章质量来判定谁是最值得信赖的维护者。他们惊讶的发现如果匿名编辑者的编辑频率很低，其质量与那些经常更新并有很高声誉的注册用户的一样，甚至更高。他们在<a href="ftp://ftp.cs.dartmouth.edu/TR/TR2007-606.pdf">研究报告</a>（PDF，31页）中用一幅图像进行了对比，显示注册用户编辑的质量与数量成正比（数量越多，质量越高），而匿名用户正好相反，质量与数量成反比（编辑数量越少的，质量越高）。其实这并不出人意料，读者在阅读文章过程中发现错误，有时就会顺手修改一下（偶的几次编辑经历就是在中文版上修改死链，略微修改了文章中几个字）。
+➜数字内容如何长期保存？
+https://www.solidot.org/story?sid=4169	24600
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "为了应对论文等数字内容的迅猛增长所造成现在与未来的数字化信息长期存取的问题，包括英国数字管理中心（DCC）、欧洲数字保存机构（Digital Preservation Europe）、欧洲数字储存基础设施研究项目（DRIVER）、数字化资源储存技术网络（nestor）在内的多家机构，将于2007年11月27日至28日在柏林洪堡大学召集一场有关<a href="http://www.wepreserve.eu/events/dr-2007/">科学与学术数字内容长期保存的研讨会</a>。将讨论存储格式、联合元数据的捕获，前摄性保存措施、知识库的感知信任等话题。"
+➜天体物理学家用PS3代替超级电脑
+https://www.solidot.org/story?sid=4170	28800
+索尼的PS3游戏主机被冠以昂贵及缺乏重镑游戏，因此销量不佳。但在另一领域它却可大有作为，那就是科学研究。现在8台PS3连接成的集群正忙于<a href="http://www.wired.com/techbiz/it/news/2007/10/ps3_supercomputer">计算神秘的重力波</a>，以及超大型黑洞周围会发生什么。Massachusetts大学的助教称PS3是一个开放性平台，可方便安装Liunx，它的性能执行科学计算任务有许多优势，比如Folding@home分布式计算。8台PS3仅花费了3200美元，同样的资金是不可能购买到性能强劲的计算机的。
+➜在工作场所说脏话有益员工健康
+https://www.solidot.org/story?sid=4171	31500
+这是一条人力资源主管不想听到的消息，英国东英格兰大学（UEA）的研究人员声称让员工<a href="http://www.networkworld.com/community/node/20718">在工作场所随意说脏话</a>对雇员和老板都有益。研究发现脏话可以用来团结员工，让他们表达自己的感受如挫折，和发展社交关系。研究人员称这项研究的目的是挑战现有的领导模式，寻找最优方法。研究认为“员工说脏话不一定是针对他人，并不会产生负面效应，或是认为不礼貌。脏话其实反映了团结和团队凝聚力的提升，或是作为释放压力的心理学现象...年轻员工之间说脏话会有很好的效果，但老板讲脏话则会影响士气。”
+➜ubuntu7.10发行
+https://www.solidot.org/story?sid=4172	36480
+<a href="mailto:faifcn@gmail.com">faif</a> 写道 "今天应该是Ubuntu7.10的发行的日子，希望这次这个号称“以人为本”的操作系统让大家在从老版本升级的时候可以更加流畅一些。"

@@ -1,0 +1,66 @@
+➜Firefox 15发布，修正扩展内存泄漏
+https://www.solidot.org/story?sid=31149	4500
+Mozilla发布了<a href="http://www.mozilla.org/en-US/firefox/new/?from=getfirefox">Firefox 15</a>（ <a href="http://www.mozilla.org/en-US/firefox/15.0/releasenotes/">桌面版</a>和<a href="https://www.mozilla.org/en-US/mobile/15.0/releasenotes/">移动版</a>），新版带来了许多引人注目的变化：首先，Firefox正式切换到了后台自动更新，此举显是回应用户对快速发布周期的抱怨；其次是修正了扩展内存泄漏，浏览器增加了一个检测和回收内存的机制；第三是原生支持WebGL压缩纹理，改进3D游戏性能，Mozilla发布了一个3D FPS游戏演示<a href="https://developer.mozilla.org/en-US/demos/detail/bananabread">BananaBread demo</a>，用户可在三张地图中选择不同武器与bot对战。其它方面的更新<a href="http://arstechnica.com/information-technology/2012/08/firefox-15-arrives-supports-compressed-textures-for-impressive-3d-gaming/">包括</a>：全屏展示内容的API，支持鼠标锁定和实时混合音频功能，新的开发者工具<a href="https://hacks.mozilla.org/2012/07/debugger-responsive-design-view-and-more-in-firefox-aurora-15/">交互式JavaScript调试器</a>，等等。
+➜以色列游乐园推出毛驴Wi-Fi
+https://www.solidot.org/story?sid=31150	5520
+你还认为毛驴和WIFI接入没有任何交集？《今日以色列报》<a href="http://www.israelhayom.com/site/newsletter_article.php?id=5466">报导</a>，一个以古代生活为主题的公园推出了毛驴Wi-Fi，让游客能够在骑着毛驴时查阅电子邮件、在Facebook页面上发布照片。游乐园的经理<a href="http://cn.wsj.com/gb/20120829/bog075706.asp">表示</a>，他们已经给五头毛驴配备了无线路由器，正考虑给更多驴子装备无线互联网设备。
+➜好奇号向地球传回流行歌曲
+https://www.solidot.org/story?sid=31151	6120
+<a href="https://moses.appspot.com/">Moses</a> 写道<i> "历史上第一次, 从另一个行星传来了歌曲. 学生, 特邀嘉宾和新闻媒体聚集在 NASA 喷气推进实验室的总部, <a href="http://www.washingtonpost.com/national/health-science/new-william-song-reach-for-the-stars-broadcast-from-mars/2012/08/28/665c8d94-f178-11e1-b74c-84ed55e0300b_story.html">收听了正在火星表面的好奇号传回的 will.i.am 歌曲 "Reach for the Stars"</a>. 热心科学和教育的 will.i.am 演唱的 "Reach for the Stars" 是 NASA 的非官方局歌, 首次的跨行星歌曲播放跨越 7 亿英哩在大礼堂中响起. NASA TV 直播了这场音乐会."</i>
+➜陪审团应被排除出专利诉讼案
+https://www.solidot.org/story?sid=31152	8280
+GigaOM的Jeff John Roberts<a href="http://gigaom.com/2012/08/27/3-reasons-juries-have-no-place-in-the-patent-system/">认为</a>，陪审团应被排除出专利诉讼案，他以苹果三星专利案为例说明陪审团如何在此类案中<a href="http://yro.slashdot.org/story/12/08/28/1930211/why-juries-have-no-place-in-the-patent-system">造成不公正的</a>。他说，庭审持续了三周，期间提交了数以百计的文档，并讨论了美国专利法律的细节，然而陪审团只花了三天时间审议和作出结论。他认为，专利的复杂度不下于产业政策如补贴或监管制度，当争议出现时，应该先交给专家法庭而不是陪审团，因为陪审团很容易被道貌岸然的抄袭故事所折服。
+➜IBM大型机装备世界最快的芯片
+https://www.solidot.org/story?sid=31153	9360
+IBM的最新大型机<a href="http://www.computerworld.com/s/article/9230661/IBM_goes_big_on_new_mainframe_with_fastest_chip_flash_memory">采用了世界最快的处理器</a>和硬件事务内存。<i>
+<a href="http://www-03.ibm.com/press/us/en/pressrelease/38653.wss">zEnterprise EC12</a>包含了一颗5.5-GHz的六核处理器，相比下上一代大型机zEnterprise 196采用的是5.2-GHz的四核处理器。分析师认为新处理器可能是世界最快的商业处理器，IBM声称单核性能提升25%，某些工作负荷性能提升多达45%。新处理器采用32纳米工艺制造，二级缓存(L2)增加33%，L3缓存和L4缓存翻了一番。IBM负责System Z的CTO Jeff Frey说，单线程性能对连续进程执行应用程序的客户仍然重要，例如批处理程序。</i>
+➜左撇子科技产品用户的告白
+https://www.solidot.org/story?sid=31154	10800
+这个世界右撇子占多数，只有10%的人类生来是左撇子。左撇子用户经常会发现，许多产品是为方便右撇子用户设计的，例如笔记本的光驱在右边，键盘上数字小键盘在右边，电源按钮一般也是在右边，甚至PDA PalmPilot也带有固有的右撇子偏见。但情况正在发生改变，相比之前的科技产品，新一代智能手机和平板的操作<a href="http://techland.time.com/2012/08/27/left-handed-technology/">对左撇子用户更友好</a>。
+➜程序员将流行结对写代码？
+https://www.solidot.org/story?sid=31155	18000
+两位程序员结对编程的形式正在科技新贵如Facebook和移动支付创业公司Square中流行起来。<a href="http://zh.wikipedia.org/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B">结对编程</a>是指两位程序员在同一台计算机上共同工作。一个人输入代码，而另一个人审查他输入的每一行代码。输入代码的人称作驾驶员，审查代码的人称作观察员。支持者声称，结对的程序员能发现以后需要昂贵成本修复的程序bug，也不会浪费时间在上网冲浪上。结对编程的拥护者、Facebook程序员Kent Beck说，双方是如此默契，交流甚至不需要语言，<a href="http://online.wsj.com/article/SB10000872396390443855804577599993053055030.html?mod=WSJ_Tech_TECHEDITORSPICKS_1">简直是心有灵犀</a>。但理想化的结对在现实中实现起来困难重重，结果常常是乱点鸳鸯。澳大利亚软件公司 Atlassian在今年的愚人节制作了一个恶搞结对编程的<a href="http://www.youtube.com/watch?v=dYBjVTMUQY0">视频</a>(YouTube)，两位程序员手搭着手，搂着腰，交换着坐在对方的膝盖上写代码。
+➜百度重定向360搜索结果
+https://www.solidot.org/story?sid=31156	19200
+8月28日晚上，百度开始对360搜索<a href="http://companies.caixin.com/2012-08-29/100430076.html">采取反制措施</a>：用户使用360搜索访问百度新闻、MP3、地图等服务时，将不会直接得到百度给出的搜索结果，而是直接跳转至百度首页。此前，百度对通过360搜索进入的用户进行提示，引导用户将百度设为首页。至8月29日中午，奇虎360作出反击，将网址导航搜索框中的新闻、地图、MP3等子搜索有此前默认的百度产品全部撤换，分别换成360自有、谷歌和搜狗的产品。
+➜美国总统竞选中的数据挖掘
+https://www.solidot.org/story?sid=31157	23100
+美国共和党和民主党都在数据挖掘上下注。美联社<a href="http://www.google.com/hostednews/ap/article/ALeqM5jWB34vK51YnQhuI_AO0AyVeS-ZPw?docId=4a60c0d7700d4c95a2ea22568a731007">报导</a>，共和党总统候选人罗姆尼的竞选团队与费者分析公司<a href="http://www.buxtonco.com/">Buxton Co.</a>签署合同，<a href="http://slashdot.org/topic/bi/can-data-mining-win-a-presidential-campaign/">通过分析消费者数据挖掘出富有和尚未开发的捐赠者</a>。奥巴马竞选团队也正利用数据挖掘寻找潜在的投票者。竞选经理使用Facebook等在线资源编辑了一个潜在投票者的数据库，以更好的为特定人群设计竞选广告。奥巴马的竞选经理还雇用了数字媒体总监、软件工程师和统计专家。奥巴马竞选网站的<a href="https://my.barackobama.com/page/s/o2012-analysts-job-app#Digital">招聘广告</a>声明在寻找定量媒体分析师、分析工程师和建模分析师。在竞争激烈的州，通过数据挖掘获得微弱优势可能对竞选成功至关重要。
+➜定居海外的中国公民回国定居需申请
+https://www.solidot.org/story?sid=31158	23760
+中国明年7月1日起将实施新的《<a href="http://www.fmprc.gov.cn/chn/pds/fw/lsfw/fgzl/t9782.htm">中华人民共和国出境入境管理法</a>》，其中规定：“出境定居，须提交拟定居地亲友同意去定居的证明或者前往国家的定居许可证明...定居国外的中国公民要求回国定居的，应当在入境前向中国驻外国的外交代表机关、领事机关或者外交部授权的其他驻外机关提出申请，也可由本人或者经由国内亲属向拟定居地的市、县公安局提出申请，由省、自治区、直辖市公安厅（局）核发回国定居证明。”新规定如何执行<a href="http://goabroad.sohu.com/20120827/n351610842.shtml">引发了争议</a>，如何定义“回国定居”也没有任何说明。在记者招待会上，公安部<a href="http://www.china.com.cn/policy/txt/2012-07/01/content_25776662_5.htm">称</a>已经储存了400多万出入境游客的指纹。
+➜EFF 2012 Pioneer奖授予黄欣国和Tor等
+https://www.solidot.org/story?sid=31159	25920
+电子前哨基金会（EFF）<a href="https://www.eff.org/press/releases/hardware-hacker-anti-acta-activist-and-groundbreaking-anonymity-group-win-eff-pioneer">宣布</a>2012 Pioneer Awards授予了硬件黑客黄欣国（Andrew“bunnie”Huang）、反ACTA活动家Jérémie Zimmermann、匿名网络工具Tor。黄欣国是一位开放硬件的拥护者，他的逆向工程著作《Hacking the Xbox》在硬件黑客中备受推崇。他还发布过一个HDCP中间人攻击的开放实现。他目前是 MIT Media Lab的研究员，在多家硬件创业公司和《MAKE》杂志担任技术顾问。Jérémie Zimmermann是法国一个有影响力的捍卫互联网自由组织Quadrature du Net的共同创始人，Tor Project则是开发匿名上网工具的组织。
+➜黑猩猩中间的爱因斯坦
+https://www.solidot.org/story?sid=31160	27120
+黑猩猩中间也有天才。乌干达Ngamba Island黑猩猩保护区中有一只与众不同的黑猩猩Natasha，她学会了如何从围栏内逃脱，如何作弄人类照料者，她在交流测试中的得分高于同伴。她现在有了一个新头衔：天才。研究人员测试了106只黑猩猩，<a href="http://news.sciencemag.org/sciencenow/2012/08/chimps-answer-to-einstein.html">Natasha是其中最聪明的</a>。研究显示，黑猩猩里面也是有爱因斯坦的。
+➜PS Vita现在能成为PS3的控制器
+https://www.solidot.org/story?sid=31161	28800
+索尼发布了PlayStation Vita的v1.8新固件，用户升级之后<a href="http://www.joystiq.com/2012/08/27/ps-vita-v1-80-update-now-live-or-say-hello-to-psone-classics/">可把掌机作为PS3主机的控制器</a>，同时可安装九款PSOne经典游戏，包括《最终幻想VII》、《古墓丽影》、《极限滑板2》、《旋转钢铁2》、《虹吸战士》等。新固件还增加了新功能，如允许用方向键导航，改进地图和控制器，等。
+➜Craigslist采用OpenStreetMap作为地图数据源
+https://www.solidot.org/story?sid=31162	30720
+继Foursquare、苹果和维基百科之后，分类广告Craigslist成为<a href="http://arstechnica.com/business/2012/08/craigslist-is-on-board-openstreetmap-continues-soaring-to-new-heights/">最新一个采用OpenStreetMap</a>而不是Google Maps作为地图数据源的高流量网站。OpenStreetMap是一个众包性质的开放地图服务，其地图数据可免费使用，无需获得许可。创始人Steve Coast对Craigslist的决定表示了欢迎。更多人使用OpenStreetMap也意味着众包地图数据的可靠性得到了认可。
+➜新浪微博移除测试版标志
+https://www.solidot.org/story?sid=31163	31500
+<a href="http://www.justsilvery.tk/">Silver Bullet</a> 写道 <i>"新浪微博今日移除了<a href="http://weibo.com/static/logo?bottomnav=1&amp;wvr=4">“Beta”标识</a>，被业界认为“转正”，新浪公关称不知情，表示需要向负责部门询问。与此同时，腾讯微博的“Beta”字样、搜狐微博的“测试”字样仍未去除以及搜狐、网易，包括独立微博饭否依然保存测试标识。"</i>
+新浪网易腾讯饭否一开始是没有测试版beta标识的，2010年7月<a href="__SLASHLINK__" sect="internet" sid="10/07/14/0537258" sn="article" tid="120">发生一次大事后</a>所有中国微博服务都打上了beta标识。
+➜新一代四核Intel Atom瞄准PC、平板和服务器
+https://www.solidot.org/story?sid=31164	34200
+有人向百度文库<a href="http://wenku.baidu.com/view/c12aeac008a1284ac9504301.html">上传了</a>(已删除)一份英特尔年度培训材料，<a href="http://arstechnica.com/gadgets/2012/08/new-quad-core-intel-atom-socs-targets-pcs-servers-and-tablets/">透露了英特尔下一代Atom平台的细节</a>。下一代Atom代号Bay Trail，有多个不同版本，分别针对台式机和笔记本、嵌入式设备以及平板，预计将在2013年底发布。Bay Trail平台的核心是Valleyview系统级芯片，集成CPU和GPU，其中CPU代号Silvermont，采用22纳米工艺，频率在1.2GHZ到2.4GHZ之间，有单核双核和四核设计，GPU有四个执行单元，采用Ivy Bridge中HD 4000（16个执行单元）和HD 2500（6个）相同的图形技术，支持API如DirectX 11、OpenGL 4.0和OpenCL 1.1。Bay Trail支持最高8GB 1066MHz或1333MHz DDR3，平板版本支持 800MHz LPDDR2，它也支持英特尔虚拟化技术。
+➜老大哥在看着你：深度包检测，PB级别的数据分析
+https://www.solidot.org/story?sid=31165	37080
+当去年利比亚起义军最终推翻卡扎菲的独裁统治，他们发现卡扎菲政权的盟友给予了不同寻常的礼物：外国公司提供了能让安全部队监控该国所有网民活动的技术。利用深度包检测技术（DPI），他们捕获了网民发送的电子邮件和聊天信息，以及访问的网站地址。利比亚使用深度包检测技术并不出人意料，许多政府都在封包检测和相关技术上大举投资，以建立进出网络和进出国境的数据完整画面，防御网络攻击，同时帮助标记每一位网民。Bivio Networks公司 CEO说，DPI是网络的安全摄像头。完美的监控不存在，DPI也有成本，深度包检测技术是设计探测特定模式的网络流量，每一种观察的流量模式都需要耗费计算运算能力，而DPT收集的海量数据很难实时处理，因此大规模的网络监控通常需要国家级预算。Ars Technica的一篇<a href="http://arstechnica.com/information-technology/2012/08/big-brother-meets-big-data-the-next-wave-in-net-surveillance-tech/">特稿</a>详细介绍了DPI和PB级的数据分析如何创造网络CCTV。
+➜Google加密搜索解封
+https://www.solidot.org/story?sid=31166	38700
+<a href="http://www.percy.in/">percyalpha</a> 写道 <i>"Google的加密搜索在两年前被<a href="http://www.williamlong.info/archives/2263.html">封锁</a>，今天却解封了。根据我的分析，其解封是相关人员的故意操作，而不是因为Google更换IP导致封锁失效。因为对其encrypted.google.com的关键字封锁<a href="https://zh.greatfire.org/msn.com/encrypted.google.com">被解开</a>，对其域名的DNS污染也解开了。但是因为其网页载入速度过慢，所以依然被我们的网站标记为<a href="https://zh.greatfire.org/https/encrypted.google.com">被封锁</a>。"</i>
+➜研究显示大麻使用和IQ下降有关联
+https://www.solidot.org/story?sid=31167	39000
+刊登在PNAS上的一篇论文<a href="http://www.pnas.org/content/early/2012/08/22/1206820109.abstract?sid=d5fa7409-54da-4489-8c95-3999a8febf1d">指出</a>，青少年时期经常性的使用大麻和IQ降低之间<a href="http://www.bbc.co.uk/news/health-19372456">存在相关性</a>。研究跟踪了新西兰1000居民在20多年内的生活习惯，发现在未成年大脑尚在发育时期开始抽大麻的人会遭遇IQ下降。研究显示，即使考虑了酒精或烟草依赖等因素，那些从青少年到20多岁期间经常抽大麻——每周至少抽四次——的人会出现IQ下降，抽的越频繁，IQ下降幅度越大。不过，英国伦敦大学学院的Prof Val Curran谨慎提出了另一种解释，抑郁症可能会同时导致IQ下降和大麻使用。研究也没有排除<a href="http://science.slashdot.org/story/12/08/28/1311212/study-shows-marijuana-use-in-teens-correlates-to-decreasing-iq">反安慰剂效应</a>。
+➜偷自行车的人去了哪里
+https://www.solidot.org/story?sid=31168	41040
+从犯罪风险和回报率看，绑架回报最高但风险也最大，银行抢劫次之，偷汽车、电视和iPhone也都有不小的风险。但有一种东西偷了几乎是零犯罪风险——<a href="http://blog.priceonomics.com/post/30393216796/what-happens-to-stolen-bicycles">那就是偷自行车</a>。这便是美国每年有价值3.5亿美元的自行车失窃的原因所在。即使风险为零，并不意味着犯罪分子真会去做，因为零犯罪风险的东西多了去了，比如偷报纸，关键在于如何将赃物变成收入。在变换现金上看，业余的和专业的相去甚远。业余的小偷偷了之后通常在街头抛售，快速变换少量现金，他们不管自行车的实际价值多少，50美元的和2000美元的在他们眼里都一样。专业的窃贼有专业的工具，他们主要瞄准昂贵的自行车，通常通过在线网站出售，以最大化价值。
+➜百度也开始屏蔽谷歌
+https://www.solidot.org/story?sid=31169	53100
+wmr 写道 <i>"现在，360搜索到的百度结果<a href="http://so.360.cn/s?q=site%3Abaidu.com">会自动进入快照</a>，等于没有了影响。而谷歌的百度结果<a href="http://203.208.46.206/search?q=site:zhidao.baidu.com">也会跳转到百度首页了</a>。"</i>
+360搜索发表<a href="http://it.sohu.com/20120829/n351843748.shtml">声明</a>称要建立有效竞争的互联网搜索市场，程苓峰则<a href="http://www.ftchinese.com/story/001046253">认为</a>中国的互联网大公司多是拼资源而不是拼创新。

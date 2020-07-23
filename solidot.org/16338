@@ -1,0 +1,71 @@
+➜苹果撤回iOS 8.0.1更新
+https://www.solidot.org/story?sid=41263	9924
+<div align="center"><img src="http://img.solidot.com.cn/0/641/liqsnIHPH9BmI.png" align="" height="158" width="480"><br>
+<br>
+</div>
+修正bug的iOS 8.0.1更新被发现存在严重bug，苹果<a href="http://arstechnica.com/apple/2014/09/apple-releases-ios-8-0-1-with-healthkit-keyboard-iphone-6-fixes/" target="_blank"><u>紧急取消了更新</u></a>。已安装的用户如遇到问题可通过 iTunes重新安装 iOS 8.0。用户投诉称， iOS 8.0.1更新关闭了无线功能、让TouchID指纹传感器失效。在这一软件故障发生之前，有顾客报告将iPhone 6 Plus装在裤袋里，在坐下时不小心将其折弯，而有人徒手将手机掰弯的视频则在社交媒体上快速传播。在苹果希望创下手机销售记录之际，<a href="http://cn.wsj.com/gb/20140925/tec084545.asp" target="_blank"><u>这两件事让该公司窘迫不堪</u></a>。<br>
+<br>
+<center>
+<iframe width="480" height="270" src="//www.youtube.com/embed/znK652H6yQM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+</center>
+➜埃博拉感染者可能在四个月内增至140万
+https://www.solidot.org/story?sid=41264	11758
+美国疾病控制与预防中心发布了<a target="_blank" href="http://www.cdc.gov/mmwr/preview/mmwrhtml/su63e0923a1.htm?s_cid=su63e0923a1_w"><u>一份报告</u></a>，对西非的埃博拉疫情做出了不乐观的预测。报告使用计算机建模，针对利比里亚和塞拉利昂的疫情，进行了最坏和最好情况的估计。在最坏的情况下，到9月30日，两个国家可能共有2.1万宗埃博拉病例，如果病情不断蔓延，缺乏有效的方法来遏制它，那么到明年1月20日，<a target="_blank" href="http://cn.nytimes.com/world/20140924/c24ebola/"><u>会增至140万宗</u></a>。CDC考虑到很多病例都没有被发现，估计实际病例可能是统计数据的2.5倍，据此得出了以上预测。CDC主任Thomas R. Frieden博士表示，随着更多的援助逐渐抵达了该地区，疫情似有所改善。“我的直觉是，鉴于我们目前采取的行动，最坏的情况不会应验。”WHO目前的<a target="_blank" href="http://www.who.int/csr/disease/ebola/en/"><u>数据</u></a>显示，病例数目已达5843例，其中死亡2803例。
+➜黑莓方屏手机发布，售价599美元
+https://www.solidot.org/story?sid=41265	13516
+<div align="center"><img src="http://img.solidot.com.cn/0/642/liKDPLm5pWvc.jpg" align="" height="336" width="480"><br>
+<br>
+</div>
+黑莓发布了正方形屏幕的智能手机Passport，非合约机售价599美元，合约机售价249美元——以Passport命名的原因是其大小与美国和加拿大护照相同。Passport吸引人的地方就是其4.5英寸 1400×1400分辨率的正方形屏幕，配有实体键盘，键盘在横屏模式下可以充当触控板。黑莓声称这款产品是针对企业级用户，称正方形屏幕能提高生产力，能更好的读取电子表格和文档。黑莓CEO程守宗明确<a href="http://www.ftchinese.com/story/001058374" target="_blank"><u>表示</u></a>，该设备不针对消费市场，黑莓在该市场的份额已在过去几年里缩水至微不足道的水平。Passport获得广泛好评，虽然一些分析师警告称，它最终可能只能在金融、医疗和政府等“受监管产业”的目标市场取得少量份额。早期评论者认为Passport仍然是<a href="http://arstechnica.com/gadgets/2014/09/blackberrys-square-screened-passport-launches-today-for-599/" target="_blank"><u>一部典型的黑莓手机</u></a>，缺乏足够的应用。
+➜Bash shell发现严重安全漏洞
+https://www.solidot.org/story?sid=41266	16206
+Unix和Linux操作系统广泛使用的GNU Bourne Again Shell(Bash)发现了一个<a target="_blank" href="http://arstechnica.com/security/2014/09/bug-in-bash-shell-creates-big-security-hole-on-anything-with-nix-in-it/"><u>允许远程执行代码的严重安全漏洞</u></a>。该<a target="_blank" href="http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-6271"><u>漏洞</u></a>是<a target="_blank" href="http://stephane.chazelas.free.fr/"><u>Stephane Schazelas</u></a>发现的，与Bash处理来自操作系统或调用Bash脚本的应用程序的环境变量有关。如果Bash是默认的系统shell，网络攻击者可以通过发送Web请求、secure shell、telnet会话或其它使用Bash执行脚本的程序攻击服务器和其它Unix和Linux设备。该漏洞在影响范围上与Heartbleed漏洞相当，在危险程度上也许没有Heartbleed高。漏洞影响GNU Bash v1.14到v4.3，主要Linux发行版如Red Hat Enterprise Linux (v4到7)、Fedora、CentOS、Ubuntu和Debian都已经发布了补丁。但补丁尚未<a href="https://bugzilla.redhat.com/show_bug.cgi?id=1141597#c24"><u>完全修复问题</u></a>。你可以输入命令env x='() { :;}; echo vulnerable' bash -c "echo this is a test"测试你的系统是否存在漏洞，如果存在漏洞会返回“vulnerable
+this is a test”。
+➜为什么印度的MOM火星探测项目如此便宜？
+https://www.solidot.org/story?sid=41267	16834
+<a href="/~mtjs">mtjs</a> 写道 "<a href="http://www.bbc.com/news/science-environment-29341850" target="_blank">BBC报道</a>：印度的火星在轨任务Mars Orbiter Mission (MOM)的成功让世人惊艳，它在印度时间8点被宣告入轨成功，该项火星任务预算为45亿卢比折合为美元是7千4百万，只有美国同类项目的十分之一，印度总理莫迪称之为“几乎不可能”，这笔钱还不够拍一部好莱坞的《地心引力》（Gravity）电影。印度的诀窍是什么呢？有三点：<i>
+<p>1，人员费用低，众所周知，在世界所有的空间项目中科学家和工程师的薪酬是最大的预算成本构成。</p>
+<p>2，尽量用国产元件，印度这次火星项目所有元件都本着本国产品优先采用的原则。&nbsp;</p>
+<p>3，保持有效载荷最小，印度的火星探测器只有15公斤，当然这也对它的性能造成了限制，不过印度很精明的将目标定位在最重要的方面即火星大气层甲烷气体探测上，这是当前最令人瞩目的火星探测领域，甲烷气体的形成据信与行星生命有着重要联系。</p>
+</i>
+<p><i>&nbsp;由于这次成功，印度国内的“应该将钱花在卫生福利上面的舆论消失了”，太空任务是对国家发展有不可估量推动力的引擎，英国在近年不断加大太空科技开发投入，并将卫星技术其视为能够再平衡和促进英国经济发展的最重要的8个技术发动机之一。
+"</i></p>
+➜无人机坠毁后德国男子被禁止进入黄石公园一年
+https://www.solidot.org/story?sid=41268	23574
+这是美国国家公园无人机禁令<a target="_blank" href="http://arstechnica.com/tech-policy/2014/09/german-man-banned-from-yellowstone-for-one-year-after-drone-crash/"><u>引发的第一起诉讼</u></a>，一位德国男子因为将无人机/遥控飞机坠毁在黄石公园的湖泊中而<a target="_blank" href="https://www.documentcloud.org/documents/1304875-gov-uscourts-wyd-29196-5-0.html"><u>被判</u></a>一年缓刑，被禁止进入黄石公园一年，罚款1600美元。美国国家公园管理处于2014年6月宣布了无人机禁令，德国男子Andreas Meißner表示他并不是有意违反禁令，他根本不知道公园禁止飞行无人机。他是在湖边起飞了一架安装了GoPro相机的Phantom 2无人机，但由于技术故障或者是没电了或其它原因，无人机进入了安全模式试图立即着陆，这意味着着陆在水面。黄石公园已经捞出了无人机收回了GoPro相机上的SD卡，表示将在其服完缓刑后归还给他。
+➜俄罗斯宣布2030年登月计划
+https://www.solidot.org/story?sid=41269	25572
+俄罗斯航天局<a target="_blank" href="http://en.itar-tass.com/non-political/750900"><u>宣布了</u></a>在2030年左右载人登月的计划。航天局局长Oleg Ostapenko说，俄罗斯计划在下一个十年完成超重型运载火箭的测试，开始对月球展开全面的探索。他们将根据无人探测器对月球表面的探测结果，挑选出月球基地和月面探索的最有前途的地点。Ostapenko表示，月球探索任务的准备工作已经启动。俄罗斯和美国目前的太空合作因为政治等相关因素而出现了分歧。美国和中国都有各自的登月计划。
+➜海王星大小的系外行星大气中发现水的痕迹
+https://www.solidot.org/story?sid=41270	27923
+天文学家首次在一颗海王星大小的系外行星的大气中<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201409/t20140925_4214535.shtml"><u>发现了</u></a>水的痕迹。<a target="_blank" href="http://www.nature.com/nature/journal/v513/n7519/full/nature13785.html"><u>研究报告</u></a>发表在《自然》期刊上，此前发现有水的系外行星都是木星大小的气态巨行星。这颗编号为HAT-P-11b的行星位于天鹅座，距地球约120光年，大小是地球的4倍，可能有固态的核，有大气层，与母星较近，运行周期只有5天，表面温度高达605摄氏度。天文学家是根据行星从恒星前方飞过时获得的光谱数据判断其大气层构成。除了水蒸气，这颗行星的大气中还发现了大量的氢气和其他一些未知分子。
+➜GNOME 3.14发布
+https://www.solidot.org/story?sid=41271	30764
+桌面环境GNOME项目<a target="_blank" href="https://www.gnome.org/news/2014/09/gnome-3-14-released/"><u>发布</u></a>了GNOME 3.14（<a target="_blank" href="https://download.gnome.org/misc/promo-usb/gnome-3.14.iso"><u>基于Fedora的镜像</u></a>）。<a target="_blank" href="https://help.gnome.org/misc/release-notes/3.14/"><u>主要新变化</u></a>包括：Wayland显示管理器已适合日常使用，其它方面的改进包括重新设计天气应用，改进 Wi-Fi热点支持，照片应用支持浏览Google图片，改进触摸屏支持，改进网络共享应用，重新设计了文档浏览器Evince，虚拟机应用Boxes支持快照，Activities Overview加入了新的动画，大幅修改主题，改善系统搜索的可用性，改进多显示器支持，等等。下一个版本GNOME 3.16将在2015年3月发布。
+➜愤怒的比特币用户投诉矿机制造商
+https://www.solidot.org/story?sid=41272	32453
+Ars根据信息自由法获得的数据<a target="_blank" href="http://arstechnica.com/tech-policy/2014/09/angry-customers-tell-feds-about-unresponsive-bitcoin-miner-makers/#p3"><u>显示</u></a>，从2013年1月到2014年7月全世界有80名比特币客户向美国联邦贸易委员会投诉两家矿机制造商CoinTerra和HashFast，这些用户大部分是美国人，但还有来自意大利、澳大利亚、印度、台湾和比利时的居民。他们投诉的原因都差不多，都是因为订单没有执行，没有退款，也没有从矿机厂商收到任何回应，发出去的电子邮件都是石沉大海。未履行的订单总价值超过120万美元。除了CoinTerra和HashFast，矿机制造商如Butterfly Labs也都收到过投诉甚至被起诉。联邦贸易委员的数据显示，Butterfly Labs收到283起投诉，未履行订单总价值在100万美元左右。
+➜中科院启动中国特色的改革
+https://www.solidot.org/story?sid=41273	34962
+中国科学研究的心脏启动了被称为“<a target="_blank" href="http://www.cas.cn/xw/zyxw/yw/201408/t20140818_4186714.shtml"><u>率先行动</u></a>”的改革。支持者认为此举将帮助中国成为神经学到粒子物理学等领域的领导者，但批评者质疑<a target="_blank" href="http://www.nature.com/news/chinese-science-gets-mass-transformation-1.15984"><u>现代中国是否还需要中科院这个庞大组织</u></a>。中科院有6万名员工，共有104个研究机构和大约420亿人民币的预算，不到半数预算来自政府，其余部分来自竞争性的政府资助。中国在科研上的投入仅次于美国，但多数人都认同投资并没有获得很好的回报。中科院院长白春礼接受采访时表示，表现不佳的部分原因是科学家的薪水较低，他们不得不竭尽全力争夺多方面的资助以补贴薪水，导致研究支离破碎。他还指出，科学家羞于合作，原因是在拨款委员会的眼中，联合署名的身份会稀释他们的成绩。为了解决这些问题，科学家的薪水将会上涨，七成的收入将来自薪水，而资助将只会占三成。一位匿名的科学家称，中科院的根本问题是雇佣了太多没有证明过自己的年轻科学家。但白春礼反驳说，他的计划是鼓励表现不佳的人做的更好，而不像美国那样解雇表现不好的人，称“这是有中国特色的改革”。诺丁汉大学的科学政策专家Cong Cao说，中科院太大太笨拙，世界上没有这样一个有如此多功能的组织。大学和个别研究机构完全可以取代中科院，为科学家提供更好的环境，中科院现在没有存在的理由。白春礼则说，中科院能对中国做出广泛的贡献，“你必须理解历史。”
+➜X和SteamOS
+https://www.solidot.org/story?sid=41274	37284
+资深X开发者Keith Packard在 LinuxCon大会上谈论了来自Valve的<a target="_blank" href="http://lwn.net/Articles/611969/"><u>新Linux“发行版”SteamOS</u></a>。Packard的雇主英特尔在解决与SteamOS相关图形问题上与Valve合作密切。SteamOS试图将Linux桌面转变成主机，它是基于Debian Linux，使用了标准的 X Window System ，由于担心会<a target="_blank" href="https://www.youtube.com/watch?v=gWaG9hOvNn0#t=1887"><u>破坏</u></a>(YouTube)游戏兼容性，在可预见的未来SteamOS不会切换到X的接替者Wayland上。SteamOS使用Valve自己定制的基于X合成管理器的steamcompmgr。Steam客户端和SteamOS使用基本相同的软件，但提供了不同的体验 ：SteamOS UX 有两个模式，桌面模式是一个运行 Steam客户端的标准GNOME桌面， 大屏幕模式（Big picture mode）使用 SteamOS Console UX。Packard说， SteamOS的开发显示了从Linux桌面转变到主机体验是如此的简单。但 SteamOS还需要在市场上证明它是否能取得成功。
+➜巴西释放“好”蚊子对抗登革热
+https://www.solidot.org/story?sid=41275	39037
+BBC<a target="_blank" href="http://www.bbc.com/news/world-latin-america-29356232"><u>报道</u></a>，巴西里约热内卢<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2014/9/304228.shtm"><u>释放</u></a>近万只感染沃尔巴克氏菌的蚊子，用来抑制登革热的传播。这项实验由巴西国家实验室Fiocruz发起，致力于消除登革热传染病对人类的危害。沃尔巴克氏菌可在60%的昆虫体内找到，可阻断登革热病毒在蚊子体内的繁殖，并不会传染到人体内。此外，沃尔巴克氏菌具有极强的繁殖性。当被感染沃尔巴克氏菌的雄性蚊子授精时，体内没有该菌的雌性蚊子所排卵子不会形成幼虫。当雄性与雌性蚊子都携有沃尔巴克氏菌或只要雌性蚊子感染该菌，其后代都将携有沃尔巴克氏菌。
+➜苹果被指早在今年三月就知道了iCloud 暴力破解漏洞
+https://www.solidot.org/story?sid=41276	39925
+上月底到本月初，匿名黑客在4chan的/b/上<a target="_blank" href="http://www.solidot.org/story?sid=40971&amp;from=rss"><u>公布了</u></a>多位好莱坞知名女星的裸照和私密视频，这些私密信息是从名人的iCloud账号中窃取到的。但苹果<a target="_blank" href="http://www.solidot.org/story?sid=40988"><u>否认</u></a>iCloud或Find My iPhone系统存在漏洞，称黑客是通过社会工程技术针对性破解了名人账号。现在，根据泄露出的苹果公司与一名安全研究员之间的电邮通信，苹果早在今年三月<a target="_blank" href="http://apple.slashdot.org/story/14/09/24/1747228/apple-allegedly-knew-of-icloud-brute-force-vulnerability-since-march"><u>就知道了</u></a>iCloud的暴力破解漏洞。安全研究员 <a target="_blank" href="https://twitter.com/IbrahimBalic"><u>Ibrahim Balic</u></a>在一封发送时间为3月26日的邮件中告诉苹果官员，他成功绕过了设计防止暴力破解攻击的安全机制，称他能对任何账号尝试超过2万次密码组合。
+➜三名爱尔兰女生赢得Google科学竞赛大奖
+https://www.solidot.org/story?sid=41277	41233
+<div align="center"><img src="http://img.solidot.com.cn/0/649/ligQDGQzwD3A.jpg" align="" height="228" width="480"><br>
+<br>
+</div>
+三名爱尔兰16岁十年级女学生Ciara Judge、Émer Hickey和Sophie Healy-Thow<a href="http://googleblog.blogspot.ca/2014/09/for-those-who-dream-big-announcing.html" target="_blank"><u>赢得了</u></a>Google资助的2014 Google Science Fair科学比赛大奖，获得了5万美元的奖学金、10天加拉帕戈斯群岛游，乐高奖杯和参与维珍银河太空游训练的机会。她们的<a href="http://www.googlesciencefair.com/projects/en/2014/b69203da66c44d96e4fb3d6fd88d47a6eb3c927805255d7f4c7c439fddd9c256" target="_blank"><u>对抗全球粮食危机</u></a>的项目提供了一种增加粮食产量的方案，她们发现土壤中存在的固氮菌能加速某些庄稼的发芽过程，测试显示庄稼的发芽时间减少了一半，而产量比平常增加了74%。
+➜三星退出欧洲笔记本电脑市场
+https://www.solidot.org/story?sid=41278	43136
+三星<a target="_blank" href="http://www.bbc.com/news/technology-29350022"><u>宣布</u></a>将停止在欧洲销售旗下的笔记本电脑产品，其中包括畅销的Chromebook型号，它暗示考虑在全球其它市场采取类似的措施。三星此举是跟随索尼，索尼在今年初宣布出售了Vaio电脑部门，退出PC市场。三星在一份声明中说，公司必须快速适应市场需求。IDC预测今年的便捷式电脑在成熟市场的销量将会增长5.6%，但三星没有挤入PC销售者名单的前五位。
+➜物理学家声称黑洞在数学上不存在
+https://www.solidot.org/story?sid=41279	46128
+持续捕捉科学家和科幻作家想象力的黑洞<a target="_blank" href="http://science.slashdot.org/story/14/09/24/1530249/physicist-claims-black-holes-mathematically-dont-exist"><u>也许并不存在</u></a>。北卡大学物理教授 Laura Mersini-Houghton和多伦多大学数学教授 Harald Pfeiffer在预印本网站arXiv.org上发表<a target="_blank" href="http://arxiv.org/abs/1409.1837"><u>论文</u></a>称，恒星塌陷的引力场变化产生了霍金辐射，但质量的大幅减少显示它缺乏形成黑洞所需要的密度——奇点和视界从未形成。这篇论文尚未通过同行评审，但Mersini-Houghton教授的另一篇<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0370269314006686"><u>相关论文</u></a>已经发表在了《物理快报B》上。实验证据可能有一天会证明黑洞是不是在宇宙中存在，Mersini-Houghton说，在数学上黑洞不存在已经是定论了。

@@ -1,0 +1,43 @@
+➜Windows 纸牌游戏入选游戏名人堂
+https://www.solidot.org/story?sid=60479	13960
+Strong National Museum of Play 玩具博物馆<a href="https://www.museumofplay.org/press/releases/2019/05/5369-2019-world-video-game-hall-of-fame-inductees-announced" target="_blank"><u>公布了</u></a>进入 2019 年游戏名人堂的经典游戏，包括了文字冒险游戏《Colossal Cave Adventure》、《微软纸牌》、《真人快打》和《超级马里奥卡丁车》。Windows 操作系统自带的纸牌游戏是历史上最常用的 Windows 程序之一，它的开发者 Wes Cherry 是微软的实习生，他没有从这款游戏上获得任何版税。微软开发纸牌和地雷等游戏并非是出于娱乐目的而是<a href="https://www.solidot.org/story?sid=45157"><u>出于教育目的</u></a>，纸牌最早出现在 1990 年的 Windows 3.0 中，它是设计教育用户如何用鼠标拖拽，当时鼠标还是新颖的计算机外置组件
+；基于数字逻辑的扫雷是在 Windows 3.1 中加入的，它是为了教育用户用鼠标快速精确的点击。捆绑在操作系统中意味着游戏的安装量数以十亿计，它的玩家数量也是数以亿计。
+➜GNU Guix 1.0.0  释出
+https://www.solidot.org/story?sid=60480	16438
+2012 年宣布的 GNU Guix 包管理器项目<a href="https://www.gnu.org/software/guix/blog/2019/gnu-guix-1.0.0-released/" target="_blank"><u>正式释出了 1.0.0 版本</u></a>。在过去七年中，260 名开发者递交了超过 4 万个 commits，此外还有文档、翻译、设计等方面的大量工作。GNU Guix 是事务性包管理器，可以安装在 GNU/Linux 发行版上，也可以作为 i686、x86_64、ARMv7 和 AArch64 机器的独立操作系统发行版。用户可使用 Guix 安装应用程序并保持程序在最新状态，软件开发者可以产生一次性的软件环境，系统管理员可以更容易的部署复杂服务。感兴趣的用户可以使用<a href="https://www.gnu.org/software/guix/manual/en/html_node/Running-Guix-in-a-VM.html"><u>虚拟机镜像</u></a>体验 Guix。
+➜DuckDuckGo 提出请勿跟踪法案
+https://www.solidot.org/story?sid=60481	17363
+主要浏览器都支持的隐私保护功能——请勿跟踪（Do Not Track，DNT）<a href="https://www.solidot.org/story?sid=58245" target="_blank"><u>实际上没有任何作用</u></a>。如果你启用请勿跟踪，在访问某个网站时，浏览器向网站服务器发送的 HTTP 头文件将包含请勿跟踪的信息，但网站可以置之不理，继续收集你的信息，因为 DNT 是一个志愿遵守的系统，没有法律要求网站遵守 DNT，因此包括 Google 和 Facebook 在内的科技公司都选择忽视 DNT。为了堵上这个漏洞，匿名搜索引擎 DuckDuckGo <a href="https://spreadprivacy.com/do-not-track-act-2019/" target="_blank"><u>提出</u></a>了<a href="https://duckduckgo.com/download/The_Do-Not-Track_Act_of_2019.pdf"><u>请勿跟踪法案</u></a>（PDF）。如果法案成为法律，那么网站将不得不停止使用部分跟踪用户的方法。在 GDPR 生效一年之后，随着数字隐私越来越引起关注，法案成为法律还是有可能的。
+➜世界货币基金组织支持二氧化碳税
+https://www.solidot.org/story?sid=60482	18865
+世界货币基金组织总裁拉加德和该组织财政事务部主任加斯帕（Vitor Gaspar）<a href="https://www.dw.com/zh/%E5%85%A8%E7%90%83%E5%BE%81%E6%94%B6%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E7%A8%8E/a-48601336"><u>表示</u></a>，为恪守巴黎气候协议目标，至 2030 年，必须使全球碳排放量降低三分之一，为此应对二氧化碳征收每吨约 70 美元的排放税。他们指出，人们对此越来越有共识，即：为限制化石能源消费及由此而来的二氧化碳排放，征税是 "最行之有效的工具"，此外，相关税收能为实现再生能源转型提供必要资金。不同规模的征税对各个国家二氧化碳排放造成的影响各不相同。在全球最大排放国中国，若每吨征收 35 美元能导致该国二氧化碳排放下降 30%。
+➜研究发现不吃早餐和死亡风险增加相关
+https://www.solidot.org/story?sid=60483	19663
+由美国 7 所大学的医生和研究员组成的一个研究小组，分析了近 7000 人的数据。这些人年龄在 40-75 岁之间。他们参加了长达 7 年（1988-1994）的有关健康与饮食营养的一项实验。参加实验的志愿者们要填写他们每天进食早餐的情况，结果发现，那些经常不吃早餐的人死于心脑血管疾病的可能性更高。截止到 2011 年，这 6000 多名志愿者中已经有 2000 多人死亡。研究人员分析了这些人吃早餐的习惯，并结合了其他高风险因素，例如他们是否吸烟、是否肥胖等，发现不吃早餐者死于任何种疾病的风险增加了 19％。与此同时，他们死于心血管疾病的风险则增加了 87%。对于这一发现，NHS 认为，该研究无法证明不吃早餐与心脏病死亡之间的直接联系，<a href="https://www.bbc.com/zhongwen/simp/science-48149175" target="_blank"><u>最多只是相关性</u></a>。
+➜甲骨文如何杀死 Java EE
+https://www.solidot.org/story?sid=60484	27423
+甲骨文两年前宣布向开源基金会 Eclipse Foundation <a href="https://www.solidot.org/story?sid=53821"><u>捐赠</u></a> Java Platform Enterprise Edition (Java EE)，并在基金会的董事会获得了一个席位。但它拒绝让出 Java 商标，<a href="https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/" target="_blank"><u>双方的磋商以失败告终</u></a>。在协商期间，甲骨文向 Eclipse 提出了一系列它无法接受的要求，包括基金会发行的产品必须只能捆绑由甲骨文认证的 Java 运行时，这意味着 Eclipse 基金会的产品将不再是供应商中立，基金会的免税状态将可能不再有效，这对基金会而言将是财务上的灾难，有可能导致基金会关闭。除此之外，EF 基金会还被要求不能修改旧的代码，要修改的话就要重命名，包括项目名称和软件包的名称。这意味着现有的应用程序无法在没有重构和重新编辑的情况下运行在更新后的平台上。这又是一个灾难，Java 著名的 WORA (Write Once Run Anywhere)原则将不再有效，这在现实中不可能发生。没有软件供应商仅仅为了更换名称而花费时间和金钱去重编译所有客户的版本。甲骨文还利用它在董事会的席位去干预决策。Java EE 事实上被甲骨文杀死了。
+➜伦敦女孩可能成为第一个将空气污染列为死因的人
+https://www.solidot.org/story?sid=60485	28344
+9 岁女孩可能成为第一个<a href="https://www.cbsnews.com/news/ella-kissi-debrah-could-become-first-death-attributed-to-air-pollution-in-united-kingdom/" target="_blank"><u>将空气污染列为死因</u></a>的英国人。Ella Kissi-Debrah 在患有严重哮喘三年后于 2013 年去世，她的死因被判断是严重哮喘发作导致的呼吸衰竭。她的法律团队声称，新证据显示她是死于所呼吸空气中的污染。南安普敦大学教授 Stephen Holgate 的报告发现，Ella 的哮喘发作与她家附近空气污染水平高于法律限制相一致。如果空气污染不超标，那么 Ella 有可能不会死。Ella 的律师认为英国政府未能遵守欧洲人权公约所规定的职责。
+➜如何修复 Firefox 的扩展签名过期
+https://www.solidot.org/story?sid=60486	31032
+Mozilla 未能及时更新证书的失误导致无数用户受到影响，它的扩展强制签名政策本意是出于安全方面的考虑，如今却给用户带来了巨大的麻烦。Mozilla 通过名为 <a href="https://wiki.mozilla.org/Firefox/Normandy/PreferenceRollout" target="_blank"><u>Normandy</u></a> 的推送机制<a href="https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/"><u>紧急释出了更新</u></a>。Normandy 允许 Mozilla 在不释出更新的情况下改变目标用户某个偏好的默认值。紧急更新利用了名叫 <a href="https://support.mozilla.org/zh-CN/kb/shield-studies?as=u&amp;utm_source=inproduct" target="_blank"><u>Shield Studies</u></a> 的功能，需要用户启用“允许 Firefox 安装并运行一些实验项目”的选项（在 Firefox 数据收集与使用下），然后在地址栏输入 about:studies，可以看到修正补丁“hotfix-update-xpi-signing-intermediate-bug-1548973”。用户也可以<a href="https://news.ycombinator.com/item?id=19826903" target="_blank"><u>绕过</u></a> Shield Studies 直接<a href="https://storage.googleapis.com/moz-fx-normandy-prod-addons/extensions/hotfix-update-xpi-intermediate%40mozilla.com-1.0.2-signed.xpi"><u>安装官方补丁</u></a>（xpi）。
+➜中国一智能城市监控系统数据库被发现没有密码保护
+https://www.solidot.org/story?sid=60487	32113
+智能城市设计旨在让居民生活更轻松，但如果它的监控系统数据泄露？John Wethington 报告一个智能城市数据库没有密码保护可以直接通过浏览器访问。该数据库是一个 Elasticsearch 数据库，储存了数 GB 数据，包括数百个人的人脸识别扫描。数据储存在阿里云上。阿里巴巴发言人称，数据库是客户创造的，托管在阿里云，他们总是建议客户使用安全密码保护其数据。他们已经通知了客户，迅速解决了问题。数据库<a href="https://techcrunch.com/2019/05/03/china-smart-city-exposed/"><u>提供了部分智能城市工作的见解</u></a>。
+➜健康素食可能有助于保护肾脏
+https://www.solidot.org/story?sid=60488	34433
+根据发表在《美国肾病学会临床杂志》上的一项研究，约研究人员分析了 1.4 万多名成年人的饮食习惯和肾功能状况，并对其中一半人开展 24 年以上的追踪调查。总计 4343 人在研究期间患上慢性肾病。研究<a href="http://news.sciencenet.cn/htmlnews/2019/5/425911.shtm"><u>发现</u></a>，与很少吃健康素食的人相比，坚持健康素食的人患肾病风险要低 14%；与很少吃不健康素食的人相比，常吃不健康素食的人患肾病风险会高出 11%。健康素食饮食包括经常吃全谷物食品，苹果、梨、橙子等水果，深色绿叶菜、西兰花、四季豆等蔬菜，坚果、纯天然花生酱等；而不健康素食饮食主要指常吃土豆等富含淀粉的食物，用喝果汁来代替吃水果，喝含糖饮料，吃糖、蛋糕和巧克力等。
+➜如何让过期证书事故不再发生
+https://www.solidot.org/story?sid=60489	36477
+证书过期是一种常见的问题，但其影响面却可能极其广泛。此类事故频繁发生是因为安装和更新证书是一个乏味的手动过程。证书过期的现象已经有了改善，Let’s Encrypt 和 SSLMate 等 CA 开始提供证书自动更新的方法。但 Firefox 扩展停止工作的事故证明，2019 年证书过期仍然会发生。DNSCrypt 开发者称他们<a href="https://00f.net/2019/05/04/fixing-expired-certificates/"><u>解决了证书过期问题</u></a>，DNSCrypt 服务器过去几年没有发生任何证书过期的问题。DNSCrypt 项目设计加密 DNS 流量，阻止常见的 DNS 攻击，如重放攻击、观察攻击、时序攻击、中间人攻击和解析伪造攻击。DNSCrypt 的解决方法是证书有效期不应该超过 24 小时，它的 dnscrypt 服务器 docker 镜像每 8 小时轮换证书。即使使用长期证书，它会在证书过期 30 天前开始发出一系列警告信息。
+➜EFF 认为审查反疫苗信息不是解决方法
+https://www.solidot.org/story?sid=60490	39842
+EFF <a href="https://www.eff.org/deeplinks/2019/05/censorship-cant-be-only-answer-disinformation-online"><u>认为</u></a>，审查不能成为对抗反疫苗误导性信息的唯一答案，因为这对解决问题无济于事。科技公司和在线平台有其它方法去解决错误信息的快速扩散，包括解决算法的扬声器问题，给予用户去控制他们的信息源。EFF 认为，反疫苗信息之所以能够快速扩散，部分原因在于它填补了空白，疫苗的优点被认为是确定无疑的，结果是几乎没有近期的文献或材料可用于反驳大量的反疫苗虚假信息。因此搜索疫苗科学文献的人可能会发现反疫苗的信息比支持疫苗的医学研究更多。审查反疫苗信息不能解决这个问题。出于善意的反疫苗信息审查反而可能会让问题恶化。EFF 认为，平台应该开放 API，允许用户创建自己的过滤规则，而不是使用同一个算法。用户不应该成为平台私有算法的人质。
+➜中国 5G 专利申请占 34%
+https://www.solidot.org/story?sid=60491	44731
+关于新一代通信标准 “5G” 的专利申请数量，<a href="http://cn.nikkei.com/china/ccompany/35412-2019-05-05-09-01-00.html" target="_blank"><u>中国占比达到 34%</u></a>，是现有 4G 标准的 1.5 倍以上。在 4G 标准中，欧美掌握了产品制造不可或缺的标准必要专利（SEP），在作为新一代产业的基础设施备受关注的 5G 中，中国正在增加存在感。专利数将关系到自动驾驶等各国新产业培育和将来的国力。标准必要专利是在业务发展过程中不可替代的技术型专利，目前的 4G 智能手机供货价格的近 2% 是专利使用费。5G 标准必要专利中申请数量最多的企业是华为，占到 15.05％。中国企业中，中兴通讯排名第五，中国电信科学技术研究院（CATT）排名第九。
+➜中国 PC 玩家人数将超过美国人口
+https://www.solidot.org/story?sid=60492	45008
+根据咨询公司 Niko Partners 的<a href="https://nikopartners.com/china-pc-online-games/"><u>中国网游市场报告</u></a>，虽然中国在 2018 年的大部分时间里停止了游戏审批，中国 PC 游戏市场收入仍然达到了 152.1 亿美元，总 PC 玩家人数达到 3.124 亿，其中 7970 万玩家在网游中花钱了。报告预测到 2023 年， 玩网游的中国 PC 玩家人数将达到 3.54 亿，<a href="https://www.pcgamer.com/China-PC-online-game-market-report-2019/"><u>超过美国总人口数</u></a>，PC 游戏收入将达到 160 亿美元。这个数字不包括手游，在中国手游市场比 PC 市场更大收入更多。

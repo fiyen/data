@@ -1,0 +1,46 @@
+➜LLVM将包含Fortran编译器
+https://www.solidot.org/story?sid=46173	13287
+美国能源部<a target="_blank" href="https://www.llnl.gov/news/nnsa-national-labs-team-nvidia-develop-open-source-fortran-compiler-technology"><u>宣布</u></a>与Nvidia合作，为LLVM编译器集<a target="_blank" href="http://arstechnica.com/information-technology/2015/11/llvm-to-get-fortran-compiler-that-targets-parallel-gpus-in-clusters/"><u>加入一个</u></a>针对大规模并行GPU计算的Fortran编译器，开源代码预计将在明年下半年发布。Fortran不再是主流语言，但在科学计算领域仍然被广泛使用，有大量的旧代码依赖于Fortran。很多代码都是由能源部下属的国家实验室的工作人员维护的。他们将与Nvidia合作移植现有的Fortran编译器代码，整合现在的编译器工具，填补LLVM在Fortran上的空白。
+➜Intel 4004处理器44周年
+https://www.solidot.org/story?sid=46174	14074
+英特尔于1971年11月15日<a target="_blank" href="http://www.edn.com/electronics-blogs/edn-moments/4401541/Intel-4004-is-announced--November-15--1971?_mc=sm_edn&amp;hootPostID=bb26124c8ce81ebfc63e8bbda3c037e4"><u>宣布了</u></a>4004处理器及其芯片集，它是芯片巨人第一个完整的单片机和第一个商业微处理器。<a target="_blank" href="http://www.intel.com/content/www/us/en/history/museum-story-of-intel-4004.html"><u>4004处理器</u></a>有2300个晶体管，手指甲大小，计算性能与第一代电子计算机相当，但第一代计算机需要占据整间房子。Intel 4004成为市场上第一种通用可编程处理器。曾有流言说NASA的先锋10飞行器使用了Intel 4004，但NASA表示它在评估后认为4004对飞船来说太新了。
+➜导致布洛芬发现的宿醉
+https://www.solidot.org/story?sid=46175	16486
+Stewart Adams博士在一次重要演讲前因为宿醉而头疼不已，他服用了600mg剂量的布洛芬，头疼好了，他意识到了自己<a target="_blank" href="http://www.bbc.com/news/health-34798438"><u>发现了一种潜在的新止痛药</u></a>。今天，布洛芬已经成为世界上最流行的止痛药之一，成为现代家庭不可缺少的必备药，甚至在偏远的阿富汗乡村药店都有售。感冒了？头疼了？背痛了？牙疼了？你都可以服用布洛芬，它见效很快。Adams博士和他的同事花了十多年时间寻找没有副作用的抗炎类药物，他自己作为实验鼠亲自测试了多种新药物成分。
+➜伊斯兰国使用Telegram传播宣传材料
+https://www.solidot.org/story?sid=46176	17580
+伊斯兰国<a target="_blank" href="http://www.foreigndesknews.com/breaking-news/isis-using-encryption-app-to-spread-propaganda-and-gain-recruits/"><u>越来越多的利用</u></a>移动通信应用Telegram去传播宣传材料和招募信息。 Telegram Messenger支持端对端加密，它最近推出了一个频道功能。伊斯兰国创建了自己的频道频繁更新信息，向订阅者展示在哈里发统治下的日常生活、战斗、烈士、伊斯兰教法的实施、焚烧香烟、扣押和销毁酒精。Telegram的创始人 Pavel Durov证实伊斯兰国在使用Telegram，但辩护说隐私权比对恐怖主义的恐惧更重要，而伊斯兰国总是能找到其它方法进行通讯。
+➜互联网是最容易工作时浑水摸鱼的发明
+https://www.solidot.org/story?sid=46177	18349
+工作日我们都有一些时间并没有真正在工作，一个例子是“饮水机时刻”，另一个例子是吸烟。香烟可能会让你少活数年，但它们同样能让你每天上班偷懒大约20分钟。互联网改变了曾经许多上班偷懒的方式。人们在电脑上花如此多的时间，屏幕变成了我们翘班的地方。我们一边假装工作，一边发送个人邮件，或者查看天气预报。互联网无所不包，既能帮助人们提高工作效率，同时也是有史以来<a target="_blank" href="http://www.ftchinese.com/story/001064833"><u>最适合工作摸鱼的发明</u></a>。企业可以通过监控程序来对滥用互联网进行监视。但是，就像抽烟和茶歇一样，短时间的偷懒往往是可以通融的——而且很多员工也是这么认为的。
+➜中国的约会克隆App不安全也无隐私
+https://www.solidot.org/story?sid=46178	25724
+Pay4Bugs的创始人Larry Salibra<a target="_blank" href="https://www.larrysalibra.com/how-chinese-tinder-clone-screws-you/"><u>分析了约会软件Tinder的中国克隆探探</u></a>，发现它内置了关键词，所有通信都是明文传输。<br>
+<i>使用Xcode浏览手机的控制台日志，他发现探探的开发者没有关闭调试信息，发送到控制台的信息透露探探有一个关键词名单，被禁止使用的关键词包括了“约炮”和“裸聊”等。利用tcpdump和 Wireshark程序观察手机到探探服务器的流量，他发现所有发送到服务器的信息都是未加密的，包括用户输入的密码、手机号码和性取向，以及匹配的用户信息。每一个探探应用都内置了一个固定密码，目的是为了防止第三方程序连上探探的服务器。探探鼓励用户出卖朋友，也就是将你的联系人信息分享给它，而你则可以隐藏起来。探探每分钟会多次将你的位置信息发送到它的服务器。</i>
+➜Edward Snowden的隐私保护建议
+https://www.solidot.org/story?sid=46179	29405
+Edward Snowden接受采访谈论了<a target="_blank" href="https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/"><u>如何保护你的隐私</u></a>：加密电话和短信，推荐使用Open Whisper Systems开发的 Signal，免费且易于使用，有<a target="_blank" href="https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8"><u>iOS</u></a>和<a target="_blank" href="https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"><u>Android</u></a>版；加密硬盘，以防万一电脑被偷后私人信息不会泄露；使用密码管理器，推荐开源且跨平台的<a target="_blank" href="https://www.keepassx.org/"><u>KeePassX</u></a>；启用二步认证，Gmail、Facebook、Twitter、Dropbox、GitHub等服务都支持二步认证。Snowden认为，<a target="_blank" href="https://www.torproject.org/"><u>Tor</u></a>是目前最重要的隐私增强技术，整个Tor网络的节点是志愿者维护和运行的。他建议专制政权下的网民使用Tor。他还建议每一个人都使用广告屏蔽软件。和RMS一样，Snowden也认为手机是一个监视工具，它会持续跟踪你。
+➜清华紫光计划未来五年投资3000亿打造芯片帝国
+https://www.solidot.org/story?sid=46180	30117
+路透社<a target="_blank" href="http://news.yahoo.com/chinas-tsinghua-unigroup-invest-47-billion-build-chip-060411416--finance.html"><u>报道</u></a>（<a target="_blank" href="http://cn.reuters.com/article/2015/11/16/unigroup-chip-idCNKCS0T50JQ20151116"><u>中文简讯</u></a>），国企清华紫光集团董事长赵卫国周一称，未来五年公司将投资3000亿人民币打造全球第三大芯片厂商。目前全球的三大芯片公司是英特尔、三星和高通。赵卫国表示，紫光集团正在与一家美国的芯片产业相关公司进行谈判。赵卫国还表示，该项交易最早或在本月末敲定，不过他拒绝透露相关细节，称不太可能收购多数股权，因这对美国政府来说过于“敏感”。紫光集团也搁置了投资台湾科技公司的计划，因存在监管障碍。
+➜Linux 4.4 RC1发布
+https://www.solidot.org/story?sid=46181	32397
+Linus Torvalds在内核邮件列表上宣布释出<a target="_blank" href="http://lkml.iu.edu/hypermail/linux/kernel/1511.1/04984.html"><u>Linux 4.4 RC1</u></a>，关闭合并窗口。新版本四分之三的变化与驱动有关，十分之一是架构更新，其余则是文档、文件系统、核心网络等。<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&amp;item=linux-44-features&amp;num=1"><u>主要包括</u></a>：初步支持即将发布的AMD Stoney APU、Raspberry Pi KMS驱动、支持高通Snapdragon 820、支持 Google Fiber TV遥控器；重要的EXT4加密修正，曹予德推荐用户更新；英特尔硬件更快的SHA加密支持，Open-Channel SSD支持，等等。
+➜中国研究人员透露雷达吸波主动探测隐身材料
+https://www.solidot.org/story?sid=46182	34976
+美国的隐形战斗机和轰炸机如F-22、F-35和B-2所用的隐身蒙皮都有一大缺陷：无法躲避甚高频雷达（UFH）的探测。武汉华中科技大学电子信息功能材料教育部重点实验室的研究人员在《Journal of Applied Physics》上发表了一篇<a target="_blank" href="http://scitation.aip.org/content/aip/journal/jap/118/18/10.1063/1.4934683"><u>论文</u></a>，透露了一种适用于甚高频应用的超薄宽波段主动频率选择性表面吸收器，新的吸波材料能防御UFH主动探测。为什么中国<a target="_blank" href="http://arstechnica.com/information-technology/2015/11/chinese-scientists-develop-radar-absorbing-active-stealth-material/"><u>要公布这种技术</u></a>？隐身战斗机是美国的一大军事优势，通过公开先进隐身蒙皮技术，可以降低发展隐身战斗机的技术门槛，同时也让其他人更容易的开发出破解技术。
+➜天文学家发现产生伽玛射线的脉冲星
+https://www.solidot.org/story?sid=46183	37509
+费米伽玛射线太空望远镜在大麦哲伦星云的蜘蛛星云探测到了一个伽玛射线源，该星云此前发现过脉冲星。通过匹配伽玛射线的脉冲和脉冲星在不同波长下的时序，费米团队在银河系外发现了<a target="_blank" href="http://arstechnica.com/science/2015/11/pulsar-spotted-outside-the-milky-way-is-one-of-the-most-energetic-ever-seen/"><u>第一颗产生伽玛射线的脉冲星</u></a>。这颗脉冲星是1100年前爆发的超新星残骸，编号为 PSR J0540–6919，它每次脉冲输出的能量超过10<sup>15</sup>兆吨。<a target="_blank" href="http://www.sciencemag.org/content/350/6262/801"><u>研究报告</u></a>发表在《科学》期刊上。
+➜GPS总是过高估计距离
+https://www.solidot.org/story?sid=46184	42783
+你是否怀疑过GPS应用过高估计了行驶距离？如果有，你的感觉是正确的。误差不是算法故障导致的，<a target="_blank" href="http://www.i-programmer.info/news/145-mapping-a-gis/9164-gps-always-over-estimates-distances.html"><u>误差来自统计学</u></a>。在进行测量时，我们总是会遭遇随机的无偏误差（unbiased error）。我们知道两点A和B之间直线最短，但两个点的测量不可避免的出现误差，假设误差值分别为X和Y，A和B之间的平方距离肯定大于两点的直线距离，除非我们能将A和B的位置误差修正恰好相同的距离，这在实际中是不可能做到的。GPS路径上有许多的配对点构成，误差的累积将会相当大。欧洲的研究人员估计GPS估计的距离误差在12%到20%之间，某些情况会超过20%。<a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/13658816.2015.1086924"><u>论文</u></a>发表在《International Journal of Geographical Information Science》上。
+➜中核阿根廷签署150亿美元核电合同
+https://www.solidot.org/story?sid=46185	43442
+中国核工业集团周一<a target="_blank" href="http://cn.wsj.com/gb/20151116/biz120400.asp"><u>宣布</u></a>与阿根廷核电公司正式签署阿根廷重水堆核电站商务合同及压水堆核电站框架合同，双方将合作建设阿根廷第四、第五座核电站，“华龙一号”核电技术落地阿根廷，合同价格150亿美元。中核集团表示，通过实施阿根廷核电项目合同，将带动超过人民币300亿元核电装备出口。华龙一号是基于法国的反应堆技术。核电站显然需要来自中国的资金才可能建造起来，阿根廷<a target="_blank" href="http://cn.reuters.com/article/2015/11/16/idCNL3S13B08V20151116"><u>声明称</u></a>，它与中国谈论了18年期接近150亿美元的融资问题
+➜人类的太空冒险难以逾越火星
+https://www.solidot.org/story?sid=46186	45062
+Planetary Society的联合创办人Louis Friedman（其他创始人是Carl Sagan和Bruce Murray）出版了一本新书《<a target="_blank" href="http://www.uapress.arizona.edu/Books/bid2540.htm"><u>Human Spaceflight: From Mars to the Stars</u></a>》，预言人类的太空冒险<a target="_blank" href="http://www.scientificamerican.com/article/oh-the-places-we-won-t-go-humans-will-settle-mars-and-nowhere-else-excerpt/"><u>难以超越火星</u></a>。他在书中写道，通过在火星定居，人类将成为一种多行星种族，但它不会再走得更远。人类无法旅行到火星之外。Friedman解释说，火星将是人类唯一和最终的太空飞行目的地，之后的探索将是虚拟的，人类的肉身将会留下地球和火星。人类的宇宙探索将会永远持续下去，但人类的太空飞行将会停留在火星。宇宙是无限的，但宇宙也是极其空旷的，要探索无限的宇宙只可能通过机器人使者、生物工程负载和人工智能。火星是人类已知唯一一颗能够居住的星球。
+➜土耳其屏蔽Reddit
+https://www.solidot.org/story?sid=46187	46766
+土耳其的Reddit用户在Reddit的/r/Turkey上<a target="_blank" href="https://www.reddit.com/r/Turkey/comments/3svsch/reddit_is_banned_in_turkey/"><u>报告</u></a>土耳其屏蔽了Reddit。根据土耳其政府的声明，它是根据互联网法案Internet Law Number 5651屏蔽Reddit，该法案<a target="_blank" href="http://globalexpressnews.com/turkey-bans-reddit-under-internet-censorship-law/"><u>允许</u></a>政府屏蔽多种在线内容的网站，包括色情、毒品、卖淫、以及反对土耳其国父凯末尔。Reddit不是唯一一个被土耳其屏蔽的网站，YouTube和Twitter也多次被短暂屏蔽。

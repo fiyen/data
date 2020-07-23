@@ -1,0 +1,19 @@
+➜Facebook 遭网络攻击影响五千万用户
+https://www.solidot.org/story?sid=58098	12418
+Facebook 举行<a href="https://fbnewsroomus.files.wordpress.com/2018/09/9-28-press-call-transcript.pdf" target="_blank"><u>新闻发布会</u></a>（发布会文字记录，PDF 格式），宣布<a href="https://newsroom.fb.com/news/2018/09/security-update/"><u>遭到网络攻击</u></a>，可能有多达五千万用户信息泄露，它已经根据欧洲数据保护法规 GDPR 要求通知了爱尔兰数据保护委员会。漏洞是三个 bug 组合的结果：第一个 bug 与 View As
+功能有关，<a href="https://www.facebook.com/help/288066747875915?helpref=faq_content" target="_blank"><u>View As</u></a> 允许用户以他人的角度查看自己个人主页，在特殊情况下 View As 会展示视频上传功能（比如鼓励用户发生日快乐祝贺）；第二个 bug 存在视频上传功能中，它不正确的使用了单点登录功能，会产生访问令牌，访问令牌可以让浏览器记住用户的登录状态；第三个 bug 是 View As 显示的视频上传功能不是为你而是为你查看的特定用户产生访问令牌。存在漏洞的 View As 工具是在 2017 年 7 月加入到系统中的，9 月 16 日 Facebook 监视到了异常活动，9 月 25 日它发现了攻击以及攻击使用的漏洞。它迅速修复了漏洞并通知了执法部门，重置了受影响的五千万用户的访问令牌，并出于谨慎考虑重置另外四千万过去一年使用该功能的用户的访问令牌。大约有九千万用户需要重新登录。Facebook  还临时关闭了 View As 功能。
+➜Cerberus：微软云计算开放硬件安全方案
+https://www.solidot.org/story?sid=58099	27468
+<a href="http://github.com/hardenedlinux">HardenedLinux</a> 写道<i> "微软作为<a href="https://www.opencompute.org/" target="_blank">OCP</a>(开放计算节点基金会)的<a href="https://www.opencompute.org/membership/membership-organizational-directory" target="_blank">白金会员</a>，此前<a href="https://github.com/opencomputeproject/Project_Olympus" target="_blank">贡献</a>了名为<a href="https://www.opencompute.org/wiki/Server/ProjectOlympus" target="_blank">Olympus</a>的微软下一代数据中心的机架项目给OCP，其中服务器规格是基于x86/arm64处理器的1U/2U机型，而Olympus有一个衍生的开放硬件安全项目：<a href="https://github.com/opencomputeproject/Project_Olympus/tree/master/Project_Cerberus" target="_blank">Cerberus</a>，Cerberus使用一个安全处理器对SPI总线和主板硬件设备之间进行拦截，作为信任根对固件（UEFI，OptionROMs，BMC，Intel ME/SPS以及其他外设的固件）的签名合法性和完整性进行检查，这一过程对于主CPU是无感知的。Cerberus目标是满足<a href="https://hardenedlinux.github.io/system-security/2017/06/15/firmware_compliance.html" target="_blank">NIST SP 800-193固件合规指南</a>的要求，随着NIST SP 800-193于2018年5月定稿，未来像Cerberus，OpenTITAN这类开放可审计的方案会更受欢迎。"</i>
+➜香港报告首例人类感染大鼠类戊型肝炎病例
+https://www.solidot.org/story?sid=58100	33043
+香港<a href="https://www.bbc.com/zhongwen/simp/science-45675006" target="_blank"><u>报告</u></a>全球首例人类感染大鼠类戊型肝炎病例。此前，医学界对于鼠类戊型肝炎病毒能否传染人类一直没有定论。香港大学李嘉诚医学院的团队表示，患者是一名接受过肝脏移植的男性乙型肝炎带菌者，但检测结果发现让他发病的是大鼠戊肝病毒。这名患者住所附近有明显鼠患，但其具体感染途径目前仍不明确。研究人员表示，他们已在进一步研究有否涉及病毒变异等议题。相比于其他类型肝炎，戊肝一般只导致轻微病情，甚少引致可致命的急性肝衰竭。但参与研究的香港传染病学者袁国勇认为，这起病例是防治老鼠传播疫病的“警钟”。 研究团队说，这次发现的大鼠戊肝患者经处方利巴韦林（ribavirin）治疗后已康复出院。
+➜Haiku R1/beta1 发布
+https://www.solidot.org/story?sid=58101	39674
+开源 BeOS 操作系统 Haiku 在历尽 17 年开发之后<a href="https://www.haiku-os.org/news/2018_09_28_haiku_r1_beta1/" target="_blank"><u>正式释出</u></a>首个 Beta 版本。BeOS 操作系统在 2001 年被 Palm 收购后停止开发，Haiku 项目在这之后不久正式启动，2002 年发布了首个版本，上一个版本 Haiku  R1 Alpha 4.1 还是在 2012 年发布的，距今已有六年。Haiku R1/beta1 的<a href="https://www.haiku-os.org/get-haiku/release-notes/" target="_blank"><u>主要特性</u></a>包括：包管理系统 HaikuDepot，改进了基于 WebKit 的浏览器的稳定性，能正常播放 YouTube 视频了；重写了网络系统 preflet；更新了用户界面；改进了媒体子系统；改进了远程桌面；支持 EFI bootloader 和 GPT；默认调试器 Debugger；新的线程调度器；实现和启用 ASLR、DEP 和 SMAP 等安全功能；更新了 Ethernet 和WiFi 驱动，更新文件系统驱动，等等，更多可浏览发布公告。
+➜微软开源 MS-DOS 1.25 和 2.0
+https://www.solidot.org/story?sid=58102	41317
+微软通过其 GitHub 账号公开了 MS-DOS 1.25 和 2.0 的<a href="https://github.com/Microsoft/MS-DOS" target="_blank"><u>源代码</u></a>，表示“仅供参考”。计算机历史博物馆早在 2014 年就公开了  MS-DOS 早期版本的源代码，微软重新发布一遍是为了 让源代码更容易发现和引用。源代码采用 MIT 许可证，是作为历史参考文件发布的，微软希望开发者不要发 Pull Requests 提出任何修改的建议。
+➜Duck Duck Go 流量一个月内增长 10%
+https://www.solidot.org/story?sid=58103	57198
+根据官方的<a href="https://duckduckgo.com/traffic" target="_blank"><u>统计数据</u></a>，匿名搜索引擎 Duck Duck Go 流量过去一个月同比增长了 10%，而之前几个月流量增长相对缓慢。Duck Duck Go 九月份的日均直接访问量超过 2700 万，而八月份是 2452 万，七月份是 2353 万，一个月内流量增长 10% 相对瞩目了。Google 仍然是目前占据市场统治地位的搜索引擎，但建立在用户隐私基础上的商业模式正日益受到质疑。

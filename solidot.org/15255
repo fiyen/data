@@ -1,0 +1,70 @@
+➜软件问题导致卫星故障
+https://www.solidot.org/story?sid=26325	4800
+本周，加拿大卫星电视通信公司的<a href="http://boeing.com/defense-space/space/bss/factsheets/702/anik_f2/anik_f2.html">Anik F2</a>卫星发生故障，导致努勒维特等北部地区的通信<a href="http://www.cbc.ca/news/canada/north/story/2011/10/06/north-satellite-phone-outage.html">陷入停顿</a>：飞机停飞，ATM不吐现金，手机不能通信，居民收不到有线电视频道，基于卫星的互联网和数据服务也都受到影响。该公司发表声明称，使卫星停止工作的异常是<a href="http://netnewsledger.com/2011/10/07/anik-f2-satellite-returns-to-full-service/">软件错误导致的</a>。故障发生时，卫星正进行例行的轨道机动，结果触发了姿态控制问题，脱离了原来锁定的地球轨道，卫星随后进入了安全模式，面向太阳以确保有足够动力。目前卫星问题已经修正，通信服务正在恢复。
+➜甲骨文将Dtrace移植到Linux
+https://www.solidot.org/story?sid=26326	7200
+在本周举行<a href="http://www.oracle.com/openworld/index.html">Oracle OpenWorld 2011</a>上，首席架构师Edward Screven<a href="http://www.h-online.com/open/news/item/Oracle-works-on-Dtrace-for-Linux-1356200.html">透露</a>甲骨文计划将Solaris系统的多项重要特性移植到<a href="http://www.oracle.com/us/technologies/linux/index.html">Oracle Enterprise Linux</a>，其中包括了动态跟踪工具（DTrace）和系统级虚拟化技术Zones。<i>
+DTrace提供了高级性能分析和调试功能，其源代码采用的开源协议是CDDL，不兼容与Linux内核使用的GPLv2协议。为了解决许可授权问题，甲骨文可以选择用CDDL和GPLv2双许可证授权内核组件。但甲骨文<a href="http://dtrace.org/blogs/ahl/2011/10/05/dtrace-for-linux-2/">没有这么做</a>，它设法绕过了许可问题，没有在内核中直接加入Dtrace，而是以扩展方式加入。
+</i>
+➜因乔布斯三星和Google推迟发布Nexus Prime
+https://www.solidot.org/story?sid=26327	8700
+三星和Google<a href="http://arstechnica.com/gadgets/news/2011/10/samsung-and-google-postpone-launch-event-out-of-respect-for-steve-jobs.ars">取消了</a>原定于10月11日在圣迭戈举行的Nexus Prime手机和Android 4.0的正式发布会。在给媒体的通知中，他们表示，两家公司一致同意，在全世界对离世的史蒂夫·乔布斯表达敬意之际，目前不是宣布新产品的合适时机。三星可能在10月27日在伦敦举行的Samsung Unpacked活动上宣布新款Android手机。
+➜BIOS不支持导致Linux内核耗电增加
+https://www.solidot.org/story?sid=26328	11700
+几个月前，Phoronix<a href="__SLASHLINK__" sect="linux" sid="11/06/27/0950235" sn="article" tid="7">报道说</a>，自Linux 2.6.38开始，移动Linux用户发现电力消耗迅速飚升，电池续航时间迅速减少，它声称电源退化问题是PCI接口动态电源管理（ASPM）中的一个改变导致的。现在，它再次<a href="http://www.phoronix.com/scan.php?page=article&amp;item=ubuntu_linux_epb&amp;num=1">报道称</a>Linux 3.0和3.1都<a href="http://linux.slashdot.org/story/11/10/07/237222/kernel-bug-means-linux-power-usage-remains-high">没有解决</a>电源退化问题。实际上，耗电量增加并不是内核，而是<a href="https://lwn.net/Articles/449448/">BIOS不支持ASPM导致的</a>。ASPM设计是让PCI接口设备在空闲时进入低耗电状态，以节省电力。然而，如果BIOS通知内核它不支持ASPM，但不知为何BIOS却仍然在某些设备上默认启用ASPM，问题就出现了。RedHat内核开发者已经<a href="https://bugzilla.redhat.com/show_bug.cgi?id=681017">发布了补丁</a>修正问题：补丁的功能是让BIOS不支持ASPM时让ASPM进入关闭状态。但关闭ASPM会导致耗电量<a href="http://www.fewt.com/2011/09/about-kernel-30-power-regression-myth.html">略微上升</a>，笔记本用户可以使用<a href="http://www.jupiterapplet.org/">Jupiter</a>或<a href="https://fedorahosted.org/tuned/">tuned</a>优化电力消耗。
+➜Google Apps Engine支持SQL
+https://www.solidot.org/story?sid=26329	17100
+Google的云计算平台Apps Engine<a href="http://googleappengine.blogspot.com/2011/10/google-cloud-sql-your-database-in-cloud.html">宣布</a>支持关系型数据库服务<a href="http://code.google.com/intl/zh-CN/apis/sql/">Google Cloud SQL</a>。Cloud SQL是基于开源的MySQL。<i>
+此前Apps Engine只支持基于Google File System和BigTable数据库的schemaless数据存储，提供了类SQL的查询语言<a href="http://code.google.com/appengine/docs/python/datastore/gqlreference.html">GQL</a>，但不支持关系功能，例如在同一查询中加入和过滤结果，或者是过滤子查询结果。因而，由于缺乏基于SQL的数据库服务，将现有基于SQL的应用迁移到AppEngine上就显得举步维艰了。Google Cloud SQL的产品经理Navneet Joneja也承认，SQL是用户最迫切需要的功能，有助于<a href="http://arstechnica.com/business/news/2011/10/google-puts-mysql-in-app-engine-cloud.ars">简化传统数据库驱动应用程序的开发</a>。</i>
+➜美国参议院通过《排华法案》道歉决议
+https://www.solidot.org/story?sid=26330	19200
+美国参议院<a href="http://latimesblogs.latimes.com/nationnow/2011/10/us-senate-apologizes-for-mistreatment-of-chinese-immigrants.html">一致通过决议</a>就1882年《<a href="http://zh.wikipedia.org/wiki/%E6%8E%92%E5%8D%8E%E6%B3%95%E6%A1%88">排华法案</a>》道歉。<i>
+《排华法》阻止华人移民到美国，同时禁止当时的美国华人归化美籍。参议院星期四晚间<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/10/111008_us_china_immigration.shtml">一致通过了这部法案</a>，承认法案违反美国《独立宣言》与宪法的平等原则和精神。主导这项决议案的议员们接下来将推动通过众议院版本的决议案。参议院对当年因这些歧视性立法所造成的错误而受伤害的华人及其后人表示遗憾，并重申承诺保障华人及其他亚裔在美国享有与其他种族完全相同的权益。</i>
+➜RMS的乔布斯评语引发争议
+https://www.solidot.org/story?sid=26331	21240
+自由软件基金会主席Richard Stallman（RMS），对刚逝世的前苹果CEO史蒂夫·乔布斯发表了被认为“荒诞、不得体及残酷的”<a href="http://stallman.org/archives/2011-jul-oct.html#06_October_2011_(Steve_Jobs)">评语</a>，<a href="http://it.sohu.com/20111008/n321438518.shtml">他说</a>，“乔布斯是计算机领域的先驱，他建造了一个牢笼，用很酷的设计将傻瓜们与自由隔开，现在他去世了。正如芝加哥市长<a href="http://en.wikipedia.org/wiki/Harold_Washington">Harold Washington</a>谈及腐败的前市长<a href="http://en.wikipedia.org/wiki/Richard_J._Daley">Daley</a>时说的：‘他去世我一点也不高兴，但他离开我很高兴。’没有人应该死，乔布斯不该，比尔先生也不该，就连有罪的人、比他们还要邪恶的人也不该。不过，乔布斯对个人电脑的有害影响也应该终结了。不幸的是，尽管他不在了，影响还是在继续。他们的继任者会继承其遗产，我们希望它们的影响力会小些。”自由软件基金会成员Larry Cafiero以辞职<a href="https://larrythefreesoftwareguy.wordpress.com/2011/10/07/time-to-fork-the-fsf/">表达对RMS评论的不满</a>。
+➜惠普打印机将运行webOS
+https://www.solidot.org/story?sid=26332	23520
+虽然惠普停止了webOS平板和手机的开发，但软件本身并没有彻底死亡，<a href="http://www.pocket-lint.com/news/42334/webos-hp-printers-coming-december">它将在惠普打印机上复活</a>。一位惠普发言人称，该公司正在评估让webOS运行在其专业打印机Designjet上。惠普随后还补充说，正继续评估是否要将webOS整合到其它产品中。前惠普CEO赫德（Mark Hurd）去年辞职前曾宣布要让webOS运行在任何联网的打印机上，虽然到兑现之日已经经历了两任CEO。
+➜在浏览器上运行《军团要塞2》
+https://www.solidot.org/story?sid=26333	24960
+摩托罗拉移动的一位开发者Brandon Jones成功的将《军团要塞2》的一个关卡<a href="BrandonJones">移植到WebGL</a>，不用任何插件就可以在浏览器上运行。WebGL是基于OpenGL、在浏览器中实现3D的技术。虽然移植远不够完美，缺乏如天空、水面和刷面等特性，但速度相当流畅，能达到60fps，某些场景最高能达到100fps。<a href="https://github.com/toji/webgl-source">源代码</a>发布在GitHub上。由于游戏资产属于Valve，因此他没有提供在线可玩的版本。
+➜火星漫游车“好奇号”整装待发
+https://www.solidot.org/story?sid=26334	26400
+火星科学实验室“好奇号”<a href="http://news.discovery.com/space/curiosity-gets-sealed-up-111007.html">已经安装上了防热罩</a>，随时准备飞往火星的漫长旅途。防热罩被用于保护漫游车，抵御进入火星大气层时所产生的高温（<a href="http://www.youtube.com/watch?v=MIpFgump7so&amp;feature=player_embedded">视频</a>）。“好奇号”计划于11月底和12初在卡纳维拉尔角空军基地择期发射，它将飞行八个多月时间于2012年8月抵达火星，预计服役1个火星年（相当于23个地球月），寻找火星生命的证据。如果运作良好的话，它也会像前任勇气号和机遇号那样超期工作。
+➜美国无人机舰队遭病毒攻击
+https://www.solidot.org/story?sid=26335	27900
+《连线》<a href="http://www.wired.com/dangerroom/2011/10/virus-hits-drone-fleet/">报导</a>，美国捕食者和收割者无人机的“驾驶舱”遭到了病毒攻击，病毒记录了遥控飞机的飞行员的所有按键操作。<i>
+病毒是大约两周前被军方的<a href="http://www.disa.mil/Services/Information-Assurance/HBSS">Host-Based安全系统</a>首次检测到的，目前美国军方无人证实是否有机密信息泄露。消息人士透露，病毒极难清除，总是反反复复出现。安全专家也不清楚病毒传播范围究竟有多广。美国空军拒绝对此事件发表评论。</i>
+➜虚幻引擎3支持Flash
+https://www.solidot.org/story?sid=26336	29400
+Adobe<a href="__SLASHLINK__" sect="software" sid="11/10/06/079238" sn="article" tid="15">发布了</a>Flash Player 11，最大特性在于完全支持3D加速，新版Flash加入了GPU加速API <a href="https://www.adobe.com/devnet/flashplayer/stage3d.html">Stage3D</a>，其2D和3D图像渲染性能比Flash Player 10快千倍，允许开发者创造出主机质量的游戏。Epic Games<a href="http://epicgames.com/community/2011/10/unreal-engine-3-support-for-adobe-flash-player-announced/">宣布</a>它的著名虚幻引擎3（UE3）支持Flash，并演示了运行在Flash环境中的UE3(<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=xzyCTt5KLKU">Youtube视频</a>)。
+➜惠普将在2013年推出替代闪存的忆阻器芯片
+https://www.solidot.org/story?sid=26337	30960
+惠普和海力士(Hynix)正在<a href="http://www.hpl.hp.com/news/2008/apr-jun/memristor.html">忆阻器</a>基础上开发的新内存技术。忆阻器是具有记忆功能的非线性电阻器。<i>
+在国际电子论坛上，惠普实验室资深研究员Stan Williams<a href="http://www.electronicsweekly.com/Articles/06/10/2011/51988/ief2011-hp-to-replace-flash-and-ssd-in-2013.htm">表示</a>，该公司计划在一年半时间内向市场推出闪存芯片（Flash）的替代芯片，以及固态硬盘（SSD）的替代存储器。他说，可能到2014年，或者到2015年，惠普将有DRAM的竞争产品，接下的一步是去替代SRAM。他声称，新芯片的每比特交换能量比Flash改进了两个数量级。
+</i>
+➜天文学家从哈勃旧照片中发现了三颗地外行星
+https://www.solidot.org/story?sid=26338	32400
+1998年，哈勃天文望远镜瞄准了一颗类太阳恒星HR 8799，寻找可能的系外行星，结果却一无所获。2008年，天文学家从双子座望远镜的照片中在HR 8799附近发现了多颗行星。事实上，这些行星<a href="http://blogs.discovermagazine.com/badastronomy/2011/10/06/exoplanets-seen-by-hubble-in-1998-finally-revealed/">原本就存在于哈勃的照片中</a>。原因是恒星太亮了，1998年的软件技术不足以移除恒星的光芒，揭露晦暗的行星。13年的新软件技术已经能过滤图像，天文学家对旧照片分析后<a href="http://www.nasa.gov/mission_pages/hubble/science/elusive-planets.html">发现了HR 8799的三颗行星</a>。HR 8799距离150光年，它的三颗巨型气态行星轨道周期分别为100年、200年和400年。旧数据正成为验证天文发现的新信息源。
+➜微软再次传出收购雅虎
+https://www.solidot.org/story?sid=26339	33240
+大约4年前，微软尝试以450多亿美元收购雅虎，但最终因雅虎高层的抵制而撤回报价。现在，雅虎再次传出了出售的流言，而微软再次出现在流言中。<i>
+路透社独家<a href="http://www.reuters.com/article/2011/10/05/us-yahoo-microsoft-idUSTRE79458Y20111005">报道</a>，微软再次考虑收购雅虎。目前雅虎市值为200亿美元。随后彭博社<a href="http://www.bloomberg.com/news/2011-10-05/microsoft-said-nowhere-close-to-yahoo-bid.html">报道</a>，微软没被雅虎认为是一位严肃的买家。上周，阿里巴巴的马云也表示有意收购雅虎。</i>
+➜在微博上轻念 "我爱你"
+https://www.solidot.org/story?sid=26340	36000
+<a href="http://weibo.com/cuthead">I'm not cuthead</a> 写道"我爱你, 与你无关. 只因情不知所起, <a href="http://www.google.com/search?&amp;q=%E6%83%85%E4%B8%8D%E7%9F%A5%E6%89%80%E8%B5%B7+%E4%B8%80%E5%BE%80%E8%80%8C%E6%B7%B1+site%3Asolidot.org">一往而深</a>. <i>在中国微博上, <a href="http://weibo.com/1936795403">一位用户</a>从6月9日开始就发送 "我爱你。♥" 的微博. 据了解, 该用户主要通过<a href="http://www.uc.cn/product/product_browser.shtml">某手机浏览器</a>进行更新, 且个人简介与先前报道的<a href="__SLASHLINK__" sect="internet" sid="11/09/23/2350211" sn="article" tid="17">另一位用户</a>相近. 但与先前某美国微博的用户不同, 该用户<a href="http://weibo.com/1936795403/follow">关注</a>了2个用户, 而且他/她关注的用户会为他/她的行为进行<a href="http://weibo.com/2142351613/xq0kPqmC7#a_comment">解释</a>. 暂时没有资料来厘清以上各用户的关系."</i>
+➜香港大学生设计乔布斯纪念图案
+https://www.solidot.org/story?sid=26341	37920
+在苹果前CEO史蒂夫·乔布斯病逝之后，一位无名的平面设计学生几乎在一夕间成名，他设计了一个被认为具有“千言万语难敌一幅图”效果的图案，被大量媒体和网站转载，并被印在了T恤上：<a href="http://jmak.tumblr.com/post/9377189056#disqus_thread">他巧妙的将苹果著名logo的缺口和乔布斯的侧影结合在一起</a>。这幅图是19岁的香港理工大学设计系学生麦朗（Jonathan Mak Long）在8月份乔布斯辞去CEO一职后设计的。他在接受采访时<a href="http://www.zaobao.com/special/hotspot/pages1/hotspot111008d.shtml">称</a>，因为这幅图，已有公司即时表示有意聘请他。他形容“这是疯狂的一天。”他正在考虑和苹果接触，讨论版权事宜，因为他的设计其实是建立在苹果本身标志的基础上。他<a href="http://www.dailydot.com/news/jonathan-mak-steve-jobs-apple-image/">表示</a>最近才成为苹果产品用户，有iPod和MacBook Pro，但仍然使用PC，也没有iPhone。
+➜近看印度35美元平板
+https://www.solidot.org/story?sid=26342	39600
+印度本周宣布了<a href="__SLASHLINK__" sect="hardware" sid="11/10/05/1135248" sn="article" tid="68">35美元7英寸平板</a>，称每位印度学生将人手一部平板。<a href="http://www.aakashtablet.com/">Aakash平板</a>的更多细节逐渐公开，实际上它的价格不止35美元，它的原价是2276 印度卢比，相当于300人民币，印度政府补贴后的学生价为1730 印度卢比，约225人民币（35美元），它的商业零售价为2999印度卢比，约390元。<a href="http://www.thinkdigit.com/Mobiles-PDAs/Your-guide-to-the-new-35-Aakash_7700.html">其硬件规格为</a>：分辨率800x480，366 MHz + HD协同处理器，内置WiFI，支持3G和GPRS数据卡，内存256 MB RAM，储存空间2GB，可通过microSD扩展到32GB，电池容量2,100 mAh，使用时间最高3小时。
+➜RAGE不是一个大错误
+https://www.solidot.org/story?sid=26343	40500
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "随着2011年10月4日基于<a href="http://www.idsoftware.com/">id software</a>的id tech 5引擎的大作RAGE发售，无数的玩家却发现RAGE的画面并不是想象中的那么好，而更让玩家们难以接受的则是主机版(PS3/XBOX 360)的画质优于PC版，<a href="http://www.gamespot.com/">Gamespot</a>把PC版RAGE的评分调到了7.0，而主机版也才8.0，这个分数对于这款大作来讲无疑是难以接受的，制作商<a href="http://www.bethblog.com/index.php/2011/10/07/playing-rage-on-pc/">Bethesda已经开始了补救方案</a>，安装修复bug的补丁和显卡驱动的升级是PC玩家必须的工作。<i>
+由于这次RAGE的PC版的质量不如主机版，<a href="http://forums.gametrailers.com/thread/john-carmack--developing-rage-/1253465?page=1">玩家社区在愤怒之后开始讨论</a>造成这次"事故"的原因，不论是游戏开发者还是狂热的id玩家都还清楚的记得在今年6月份id software的创始人(3D FPS游戏的开创者、DOOM、Quake的缔造者)John Carmack谈到关于<a href="http://www.rockpapershotgun.com/2011/06/08/get-with-the-programmer-carmack-speaks/">开发主机版的RAGE是一个大的错误</a>："当我们6年前开始游戏引擎的开发时，那时主机的性能就像PC一样的棒，之后我们的开发战略就是针对所有的平台(PC/PS3/Xbox360)。但现在我们都知道PC的性能已经是主机的10倍以上。我们真的应该先开发PC版然后再根据其他平台的硬件特性来做移植工作。"</i>
+但也有不少玩家还是认为RAGE的画质就今天的游戏而言并不算太糟糕，而且我们应该耐心的等待补丁,id tech 5引擎在技术上的确是有了不少的突破，或许DOOM IV会带给玩家更多的aha!"
+➜《辛普森一家》已获续订
+https://www.solidot.org/story?sid=26344	50400
+kuailong 写道<i> "之前的<a href="__SLASHLINK__" sect="society" sid="11/10/07/0157255" sn="article" tid="71">一篇文章</a>中提到FOX电视台的老牌动画片《辛普森一家》面临停播窘境，人们都为这个已经播出23季节目的命运而担心。现在担心的人们可以长舒一口气了，<a href="http://www.tvguide.com/News/Fox-Order-Simpsons-1038529.aspx">FOX已经宣布再续订两季《辛普森一家》</a>，这样，这部长寿将会在明年2月份迎来它的第500集。新一季的《辛普森一家》将于10月30日开播."</i>

@@ -1,0 +1,50 @@
+➜政治正确席卷自由和开源软件社区
+https://www.solidot.org/story?sid=58065	10567
+<a href="/~拉丁裔黑人同性恋">拉丁裔黑人同性恋</a> 写道<i> "自二十世纪70年代就已经开始的长达近半世纪的自由和开源软件运动可能会以一种出乎意料的方式迎来终结。政治正确对社区决策的干预正在以难以置信的速度分裂社区成员。更为致命的是，这些打击几乎在同一时间爆发，即使是顶级社区也难以幸免。近期的<a href="http://lists.llvm.org/pipermail/llvm-dev/2018-May/122922.html" target="_blank">LLVM的修改CoC争议</a>，<a href="https://github.com/lerna/lerna/pull/1616" target="_blank">Lerna的封禁ICE争议</a>，<a href="https://bugs.python.org/issue34605" target="_blank">Python的避免敏感词争议</a>，<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=8a104f8b5867c682d994ffa7a74093c54469c11f" target="_blank">Linux的修改CoC争议</a>等一系列事件已经导致包括核心成员在内的大量开发者被迫离开其所在的社区。两方之间的争辩通常迅速演变为<a href="https://twitter.com/_sagesharp_/status/1042769399596437504" target="_blank">对对方的人身攻击</a>。然而类似事件却完全没有停止的迹象，由政治正确所引发的战火正在席卷到无论大小的几乎每一个开源社区之中。"</i>
+➜Google 宣布改变 Chrome 的自动登录功能
+https://www.solidot.org/story?sid=58066	11765
+在 Chrome 69 的自动登录功能引发广泛争议之后，Google 宣布将在下个版本中<a href="https://www.blog.google/products/chrome/product-updates-based-your-feedback/" target="_blank"><u>进行调整</u></a>。Chrome 69 改变了 Chrome 处理登录的方式：当用户登录任何 Google 网站，用户也将同时用相同的账号登录 Chrome。Chrome UI 将会展示 Google 账号图片。Google 称，这可以让用户更清楚的看到登录状态，从 Chrome 或 Google 网站登出时也将会完全登出 Google 账号。Google 称这并不意味着自动启用了 Google 同步功能。在听取用户反馈之后，Chrome 70 将提供选项允许用户关闭关联基于 Web 的登录和基于浏览器的登录。Chrome 70 也将更新 UI 更好的通知用户同步状态。Google 还将改变清空 cookies 的方法，包括 Google cookies 在内的所有 cookies 将能全部清空。
+➜高通指控苹果窃取其商业机密帮助英特尔
+https://www.solidot.org/story?sid=58067	12414
+高通<a href="https://cn.reuters.com/article/qualcomm-apple-intel-chip-0926-idCNKCS1M604I" target="_blank"><u>指控</u></a>苹果窃取其商业机密并转交给英特尔，目的是改进英特尔的芯片，进而替代高通的芯片。高通在修改去年 11 月提交的指控后做出上述新的指控。高通在 11 月提交的指控中称，苹果与英特尔分享了有关高通芯片的机密细节，违反了软件许可协议。新的指控进一步称苹果窃取高通商业机密，“多年来采取草率、不恰当和欺骗行为...目的是改进质量较低的调制解调器芯片，包括高通竞争对手英特尔生产的芯片，使这些芯片能够在苹果设备中应用，最终目标是将高通的苹果业务转给英特尔。” 高通为 iPhone 提供调制解调器芯片，可使 iPhone 与无线数据网络连接。从 iPhone 7 开始，苹果在某些机型上使用英特尔的调制解调器芯片。
+➜Firefox Monitor 发布
+https://www.solidot.org/story?sid=58068	13876
+今年六月，Mozilla 与 Have I Been Pwned?（HIBP） 的维护者 Troy Hunt 宣布合作开发一个通知系统，当用户访问的网站遭遇过数据泄露时向其展示安全警告。通知系统将使用 Have I Been Pwned? 网站提供的数据，允许用户查询其信息是否泄漏。这个工具被称为 <a href="https://monitor.firefox.com" target="_blank"><u>Firefox Monitor</u></a>，现在它正式提供给用户。用户输入自己的电子邮件地址，点击扫描可以查看自己的账号在哪些数据泄漏事件里被泄露了。HIBP 的数据库也包含了来自中国网站和服务泄漏的数据，比如天涯网站曾在 2011 年泄漏了超过 2900 万账号。
+➜Fedora 29 Beta 释出
+https://www.solidot.org/story?sid=58069	16795
+Fedora 项目<a href="https://fedoramagazine.org/announcing-fedora-29-beta/" target="_blank"><u>宣布释出 Fedora 29 Beta</u></a>。Fedora 29 采用 GNOME 3.30 桌面环境，Fedora Atomic Workstation 重命名为 Fedora Silverblue，单系统安装将隐藏 GRUB 菜单，   Python 3.7，Perl 5.28，glibc 2.28，Gloang 1.11 和 MySQL 8。其他变化包括引入了模块化，用户可通过容器试用相同软件的不同版本，改进了 ARM 单板电脑如  Raspberry Pi 的性能和可靠性，等等，更多变化可查看 <a href="https://fedoraproject.org/wiki/Releases/29/ChangeSet" target="_blank"><u>Changes 页面</u></a>。
+➜Google CEO Sundar Pichai 前往华盛顿讨论审查和中国
+https://www.solidot.org/story?sid=58070	18772
+Google CEO Sundar Pichai 计划周五前往华盛顿与两名共和党议员<a href="https://politics.slashdot.org/story/18/09/25/028252/google-ceo-sundar-pichai-is-headed-to-washington-this-week-to-discuss-censorship-china" target="_blank"><u>举行一个非公开的会议</u></a>，讨论该公司在中国发布审查版搜索引擎的受争议计划，以及搜索结果被认为对保守派有偏见等问题。美国司法部长 Jeff Sessions 也将在周二与各州的检察长讨论 Google 被指对保守派的审查事宜。科技公司都否认其产品存在自由派的偏见，现在 Pichai 将要被迫回答这些问题。这次会议由众议院多数党领导人 Kevin McCarthy 组织。Pichai 还计划在今年底美国中期选举之后出席众议院司法委员会的一次听证会，Google 联合创始人 和 Alphabet CEO Larry Page 本月初拒绝出席了参议院情报委员会的听证会。
+➜在华外企调整生产地点
+https://www.solidot.org/story?sid=58071	19258
+在美国总统特朗普宣布对中国进口产品加征关税之后，从存储器芯片到机床，越来越多的亚洲制造业者正在着手将生产从中国转移到其它亚洲工厂。路透社<a href="https://cn.reuters.com/article/usa-china-tariff-asia-0923-sun-idCNKCS1M4073" target="_blank"><u>报道</u></a>，自 7 月美国对中国首批关税生效，包括韩国的 SK海力士和日本的三菱电机、东芝机械以及小松制作所在内的多家公司便开始筹划转移生产事宜，目前转移工作正在进行当中。而其它如台湾电脑企业仁宝和韩国的LG电子等公司也在制定应急计划，以防贸易战延续或扩大。企业对美国的关税行动迅速作出反应并不足为奇，因为许多大型制造企业在多个国家设有生产点，至少可以在不用建新厂的情况完成少量生产的转移。中国工人平均工资近年不断上涨，外资公司把业务搬到越南、斯里兰卡等东南亚国家已经不是新鲜事。总部在伦敦的全球零售市场分析研究公司 Euromonitor 去年一份报告显示，中国工人的每小时平均工资约 3.6 美元，比 2011 年上升约 64%，是印度的五倍。中美贸易战可能会加速外资工厂把业务<a href="https://www.bbc.com/zhongwen/simp/business-45637146" target="_blank"><u>搬离中国的决定</u></a>。但北京大学汇丰商学院英国校区主任刘芍佳教授认为这可能是一种讨价还价策略。
+➜你懂 COBOL 吗？这里有份工作给你
+https://www.solidot.org/story?sid=58072	27920
+虽然 <a href="https://zh.wikipedia.org/wiki/COBOL" target="_blank"><u>COBOL</u></a> 已有六十年历史，但它仍然是全世界金融服务行业最流行的编程语言，每天有数百万银行交易使用的是 COBOL 编程的软件。COBOL 不会很快消失，银行和相关企业已认识到替换陈旧的大型机昂贵且复杂，而很多旧的技术工作良好。问题在于老一辈的程序员正逐渐老去，而年轻一代的程序员却对它没有兴趣，企业在寻找新 COBOL 程序员方面困难重重。最关键的是他们<a href="https://developers.slashdot.org/story/18/09/25/1759250/do-you-know-cobol-if-so-there-might-be-a-job-for-you" target="_blank"><u>不愿意为此支付太高的薪水</u></a>，所以培训公司只能找退伍军人或印度、菲律宾等国的程序员学习 COBOL 语言。发展中国家是银行业关键的技术外包中心。
+➜凤凰网全面整改
+https://www.solidot.org/story?sid=58073	28848
+凤凰网遭到了网信部门的约谈，多个频道被命令停止更新两周到一个月时间。根据网信北京的<a href="https://tech.sina.com.cn/i/2018-09-26/doc-ifxeuwwr8411332.shtml" target="_blank"><u>消息</u></a>：<i>
+国家互联网信息办公室指导北京市互联网信息办公室，针对凤凰网部分频道、“凤凰新闻”客户端及WAP网站传播违法不良信息、歪曲篡改新闻标题原意、违规转载新闻信息等问题，依法约谈凤凰网负责人，责令立即停止违法违规行为，全面深入整改。整改期间，凤凰网资讯频道、财经频道自9月26日15时至10月10日15时停止更新，科技频道自9月26日15时至10月26日15时停止更新；“凤凰新闻”客户端自9月26日15时至10月10日15时停止更新；凤凰WAP网自9月26日15时至10月10日15时停止更新。</i>
+这不是凤凰网第一次<a href="https://zh.wikipedia.org/wiki/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86#%E9%B3%B3%E5%87%B0%E7%B6%B2" target="_blank"><u>被命令整改</u></a>，但这一次受到的惩罚显然要严重得多。
+➜机器学习直面“房间里的大象”
+https://www.solidot.org/story?sid=58074	31538
+AI 不具有人类那种对异常现象感到难以置信但同时能坦然接受的能力，比如房间里突然出现一只大象。根据发表在预印本网站 arxiv.org 上的<a href="https://arxiv.org/abs/1808.03305" target="_blank"><u>一项研究</u></a>（PDF），计算机科学家发现深度学习并不真的“深度”，<a href="https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/" target="_blank"><u>AI 在发现难以置信的事情后会“发疯”</u></a>。在计算机视觉领域，人工智能系统会尝试识别和分类对象。在这项研究中，研究人员向计算机视觉系统展示了一幅客厅的场景，系统正确的识别了椅子、人和书架上的书。研究人员随后向场景中引入了异常对象：一只大象的图像。然后 AI 系统疯了，它忘记了已经识别的对象，将椅子识别为沙发，将大象识别为椅子，其它此前已经识别的对象都视而不见了。论文合作者  Amir Rosenfeld 称，研究显示了目前的对象识别系统是多么的脆弱。研究人员仍然在尝试理解为什么计算机视觉系统如此容易犯错。他们猜测是 AI 缺乏人类那种从容处理海量信息的能力。
+➜Java 11 发布
+https://www.solidot.org/story?sid=58075	35359
+Oracle 宣布发布 <a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank"><u>Java 11</u></a>。Java 11 是甲骨文计划中的第一个长期支持版本，<a href="https://www.infoq.com/news/2018/09/java11-released" target="_blank"><u>主要新特性</u></a>包括：基于 Nest 的访问控制 (aka "Nestmates")，动态类文件常数(aka "condy")，实验性的垃圾收集器 ZGC，Flight Recorder，新的标准 HTTP 库，TLS 1.3 等等。其它变化包括：如果需要应用程序需要显示依赖 Java EE 和 CORBA 模块；移除 Web Start；完全移除早已弃用的 Applets，JavaFX 库迁移到 OpenJFX 项目。Java 现在是每半年发布一个版本。
+➜一个基因突变对睡眠有显著影响
+https://www.solidot.org/story?sid=58076	42490
+根据发表在 PNAS 期刊上的<a href="http://www.pnas.org/content/early/2018/09/24/1810823115" target="_blank"><u>论文</u></a>，对小鼠的研究发现，SIK3 的特定突变能对睡眠<a href="http://www.ebiotrade.com/newsf/2018-9/2018925183753231.htm" target="_blank"><u>产生深远影响</u></a>。研究小组发现，睡眠和清醒时的脑波活动的特定模式反映，改变 SIK3 蛋白质的第 551 位氨基酸可使非梦睡眠时间延长，这种小鼠在夜间的清醒时间更短，而正常小鼠（夜行动物）通常是很活跃的。研究小组还关注了突变发挥作用的分子机制，他们发现，突变形式的 SIK3 不能结合或修饰 PKA 和 14-3-3 蛋白质等其他分子，阻止了下游信号，最终影响了调节睡眠/唤醒周期系统。
+➜WHO 称酒精导致 300 多万人死亡
+https://www.solidot.org/story?sid=58077	43216
+根据 WHO 发布的报告《2018年酒精与健康全球状况报告》，2016 年有 300 多万人<a href="http://www.who.int/zh/news-room/detail/21-09-2018-harmful-use-of-alcohol-kills-more-than-3-million-people-each-year-most-of-them-men" target="_blank"><u>因有害使用酒精而死亡</u></a>，占死亡总数的二十分之一。这些死亡中四分之三以上为男性。总体而言，有害使用酒精导致全球疾病负担的 5% 以上。在所有可归因于酒精的死亡中，28% 系因伤害所致，例如交通事故，自我伤害和人际暴力等；21% 源自消化功能紊乱；19% 源自心血管疾病，其余则由传染病、癌症、精神障碍和其它病症所导致。全球估计有 2.37 亿男性和 4600 万女性患有酒精使用障碍，欧洲区域和美洲区域的男性和女性患病率最高。饮酒者日均消费 33 克纯酒精，大约相当于 2 杯葡萄酒（每杯 15 0毫升），一大瓶（即 750 毫升）啤酒或两瓶烈酒（每瓶 40 毫升）。
+➜Vivaldi 2.0 发布
+https://www.solidot.org/story?sid=58078	45683
+Vivaldi 项目正式<a href="https://vivaldi.com/zh-hans/blog/vivaldi-2-0-your-browser-matters/" target="_blank"><u>释出</u></a>了 <a href="https://vivaldi.com/zh-hans/" target="_blank"><u>2.0 版本</u></a>。Vivaldi 是谭咏文离开 Opera 后在 Chromium 基础上开发的浏览器，Vivaldi 2.0 的主要特性包括：同步功能，包括同步密码、书签、自动完成信息和历史，Vivaldi 使用了自己的服务器，所有数据使用端对端加密保存；面板可通过侧边栏访问；改进标签管理；提供新的方法跟踪浏览历史，包括生成可视化的统计。谭咏文接受了 /. 的采访<a href="https://tech.slashdot.org/story/18/09/26/0713254/vivaldi-20-desktop-browser-featuring-expanded-customization-sync-across-devices-and-privacy-tools-released-qa-with-founder" target="_blank"><u>谈论了</u></a>浏览器内存占用、微软和 Google 推广自家浏览器的方法、浏览器市场的竞争等问题。谭咏文称 Vivaldi 使用了标签的延迟加载来减少浏览器的内存占用；科技巨头如微软和 Google 都没有改变受争议的推广和限制竞争对手的做法，这些事情令人感到可悲。他说，健康的竞争有助于促进创新，而垄断则减缓创新。
+➜星际天体 'Oumuamua 的四个候选母星
+https://www.solidot.org/story?sid=58079	47158
+<div align="center"><img src="http://img.solidot.org/0/475/liPISKXI3EpcE.jpg" width="450" height="281" align=""><br>
+</div>
+<br>
+去年 10 月，天文学家利用夏威夷的巡天望远镜 Pan-STARRS1 发现了一颗奇怪的天体 `Oumuamua。`Oumuamua 在夏威夷语中的意思是 “第一信使”，它被认为是人类已知的第一颗星际天体。访问太阳系的星际天体很多，而它是第一颗被人类密切观察并确认的星际天体。`Oumuamua 有着雪茄外形，与我们在太阳系观察到的天体存在显著差异，它正在加速远离太阳系。德国普朗克天文研究所的一组天文学家利用欧洲航天局 Gaia  卫星对大量恒星的观测数据，跟踪到了`Oumuamua 的<a href="http://www.mpia.de/news/science/2018-09-oumuamua" target="_blank"><u>四个候选母星</u></a>。多项研究认为‘Oumuamua 是母星的行星系统在行星形成阶段驱逐出去的，这意味着‘Oumuamua 的轨道与恒星的轨道在很多年前至少靠得非常近。此外，两者的相对速度也应该相对比较慢。天文学家发现了四颗候选恒星，它们都是矮星，其中红矮星 HIP 3757 在一百万年前距离‘Oumuamua 最近在 1.96 光年内，相对速度 25 km/s（较快，母星的可能性不高）；另一颗恒星  HD 292249 类似我们的太阳，380 万年前距离最近，相对速度 10 km/s；另外两颗分别在 110 和 630 万年前靠近‘Oumuamua 的轨道。

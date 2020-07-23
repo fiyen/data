@@ -1,0 +1,15 @@
+➜十款传统的Linux文件管理器
+https://www.solidot.org/story?sid=29893	43920
+<a href="mailto:ddrake@gmail.com">Devon Drake</a> 写道<i> "文件管理器是提供用户界面管理文件的软件，帮助处理日常工作，管理储存在本地和网络中的文件。所有文件管理器都提供了基本的操作如重命名、创建、打开、查看、编辑、移动和删除文件。传统文件管理器是文件管理器的古老家族成员，在键盘为主要或唯一输入设备时十分有效，熟悉鼠标操作的人对此的第一印象可能不会太好，但在学会按键组合之后他们会发现能更快和更高效的管理文件。Linux平台下<a href="http://www.linuxlinks.com/article/2012053114312121/OrthodoxFileManagers.html">不缺乏传统的优秀文件管理器</a>，如<a href="http://krusader.sourceforge.net/">Krusader</a>、受Total Commander启发的<a href="http://doublecmd.sourceforge.net/">Double Commander</a>和<a href="http://emelfm2.net/">Xfe</a>，等。" </i>
+➜Flame恶意程序允许蓝牙访问
+https://www.solidot.org/story?sid=29894	46800
+安全研究人员本周报告发现了<a href="__SLASHLINK__" sect="internet" sid="12/05/29/0652253" sn="article" tid="100">Flame恶意程序</a>，主要针对了伊朗的计算机网络，感染最多的也是伊朗的计算机系统。根据赛门铁克的<a href="http://www.symantec.com/connect/blogs/flamer-recipe-bluetoothache">报告</a>，Flame将间谍程序推到了新的高度，它包含了蓝牙访问功能，允许攻击者<a href="http://arstechnica.com/security/2012/06/spy-softwares-bluetooth-capabilty-allowed-stalk-of-iranian-victims/">物理跟踪受害者的计算机</a>。研究人员发现了名叫BeetleJuice的模块，会扫描所有的蓝牙设备，收集发现的每个设备的状态和唯一ID，上传到命令控制服务器。它还会在每个被感染的有蓝牙功能的计算机上嵌入编码指纹。BeetleJuice模块不仅仅能让攻击者跟踪感染设备的物理位置，而且还能跟踪感染设备一定范围内的智能手机和其它蓝牙设备的位置。
+➜维基百科争论色情内容过滤
+https://www.solidot.org/story?sid=29895	50700
+2011年，维基媒体基金会理事会决定开发和实现<a href="http://wikimediafoundation.org/wiki/Resolution:Controversial_content">一个争议内容过滤器</a>，隐藏可能会导致部分读者感到不舒服或不合适的内容如色情，暴力或宗教性质材料。但此后，这一决定在维基百科社区受到了越来越多的反对，部分维基媒体理事会成员明确<a href="http://www.gossamer-threads.com/lists/engine?do=post_view_flat;post=273633;page=1;sb=post_latest_reply;so=ASC;mh=25;list=wiki">表示</a>，希望过滤器永远也不会完成和安装。另一方面，维基百科托管了大量父母不希望儿童看到的色情和其它内容，而这些内容同时也是网站浏览量最多的条目。维基百科创始人吉米·威尔斯（Jimmy Wales）重申支持安装过滤器，但维基媒体基金会在此问题上还<a href="http://news.slashdot.org/story/12/06/01/2119248/what-should-we-do-about-wikipedias-porn-problem">没有发表任何声明</a>。
+➜Gliese 581没有探测到外星智能
+https://www.solidot.org/story?sid=29896	51900
+Gliese 581星系被认为存在<a href="__SLASHLINK__" sect="science" sid="11/05/18/0221204" sn="article" tid="102">适宜生命居住的类地行星</a>。该星系共发现了六颗行星，其中两颗位于恒星的适宜生命区域。天文学家利用澳大利亚的超长基线阵列( Very Long Baseline Array)的三台射电望远镜对该星系进行了8个小时的观察，<a href="http://news.discovery.com/space/no-intelligent-aliens-in-gleise-581-are-home-120602.html">没有探测到外星人信号</a>。结果并不出人意料，因为发现外星人的无线电信号本来就极其渺茫。
+➜Red Hat付费购买UEFI安全证书，Windows OEM机器将支持Fedora
+https://www.solidot.org/story?sid=29897	53100
+Windows 8 OEM机器将采用UEFI安全启动，启动进程内的所有固件和软件都需要可信CA签名，限制用户安装无签名的操作系统。Fedora 18将在Windows 8差不多时间发布，为了避免Linux用户在Windows 8机器上启动Fedora 18时遇到兼容性问题，Matthew Garrett<a href="http://mjg59.dreamwidth.org/12368.html">表示</a>将以一次性99美元的价格从Verisign购买UEFI安全证书。一次性付费后可以签名任意多的可执行文件，比其它现实替代方案更廉价。

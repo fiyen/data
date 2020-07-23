@@ -1,0 +1,15 @@
+➜知名哈佛化学家被控未披露与中国关系
+https://www.solidot.org/story?sid=63368	19131
+哈佛大学化学与化学生物学系主任 Charles Lieber <a href="https://www.sciencemag.org/news/2020/01/us-charges-prominent-harvard-chemist-failing-disclose-china-ties" target="_blank"><u>遭联邦调查局（FBI）逮捕</u></a>，<a href="http://news.sciencenet.cn/htmlnews/2020/1/435245.shtm"><u>原因是</u></a>向联邦调查人员提供了与中国一所大学资金关系和中国外国人才招募计划的虚假陈述。Lieber 今年 60 岁，是纳米领域的知名科学家。他被指曾从武汉理工大学哈佛大学纳米联合实验室获得 5 万美元的月薪、15.8 万美元的生活费以及 174 万美元研究经费。检方指控说，Lieber 对哈佛大学以及美国国防部和国立卫生研究院隐瞒了上述实情。他们指控 Lieber 在 2018 年 4 月向一名国防部调查人员做了虚假陈述。该调查人员询问了他与中国的关系，后来当国立卫生研究院询问哈佛大学他与武汉理工大学的关系时，Lieber 误导了哈佛大学。在另一起不相关的案件中，检方指控了两名中国籍研究员。
+➜WireGuard 正式进入内核主线
+https://www.solidot.org/story?sid=63369	42923
+Linus Torvalds 刚刚发布了 Linux 5.5，开启了 Linux 5.6 合并窗口，他<a href="https://lists.zx2c4.com/pipermail/wireguard/2020-January/004906.html">合并了</a> Dave Miller 的 net-next 树，这意味着 WireGuard 正式进入内核主线。WireGuard 是一种新兴的 VPN 实现，比 OpenVPN 和 IPSec 速度更快、攻击面更小，配置更简单。进入内核主线对这个开源项目而言是一个重要的里程碑。WireGuard 是基于 UDP，数据包在一端加密之后封装在 UDP 包内发送到远程端点，然后解密。
+➜量子纠缠相遇超导性
+https://www.solidot.org/story?sid=63370	46045
+休斯顿 Rice 大学的一项实验<a href="https://spectrum.ieee.org/nanoclast/computing/hardware/quantum-entanglement-superconductivity-technology-news-novel-experiment" target="_blank"><u>将量子纠缠和量子临界关联起来</u></a>。两种此前被认为区别的量子现象在最新实验中显示背后存在相同的物理学规律，未来也许能发展出将纠缠和超导结合起来的大一统理论。<a href="https://science.sciencemag.org/content/367/6475/285"><u>研究报告</u></a>发表在《科学》期刊上。研究集中在由镱、铑和硅构成的金属薄膜，Rice 大学的研究团队分析了金属薄膜的性质，他们观察到了量子临界行为，同时还在数以亿计的电子中观察到了广泛的量子纠缠。Rice 大学量子材料中心主任 Qimiao Si 教授说，10 个量子比特就已经足够大了，如此多的电子被量子纠缠使其潜在能成为一种量子工程资源。
+➜Thunderbird 项目将由 MZLA Technologies Corporation 负责
+https://www.solidot.org/story?sid=63371	48314
+邮件客户端项目 Thunderbird 将由  Mozilla 基金会的全资子公司 MZLA Technologies Corporation <a href="https://blog.thunderbird.net/2020/01/thunderbirds-new-home/"><u>负责运营</u></a>。这一变动不会影响 Thunderbird 项目的日常活动或使命，它仍然是一个开源自由软件项目，发布时间表没变，开发团队也没变。在  Mozilla Corporation 宣布不再支持它之后 Thunderbird 项目的未来一度悬而未决，但最近几年来自用户的捐赠允许该项目在 Mozilla 基金会下继续成长和有机发展。转到 MZLA Technologies Corporation 之后 Thunderbird 项目将能更灵活，探索新的可能，通过合作和非慈善捐赠获得收入。
+➜调查显示有更多的美国人去图书馆而不是去电影院
+https://www.solidot.org/story?sid=63372	48994
+美国电影行业去年创下了票房记录，但在吸引人数上它还无法比得上公共图书馆。根据一项盖洛普<a href="https://news.gallup.com/poll/284009/library-visits-outpaced-trips-movies-2019.aspx"><u>民意调查</u></a>，访问本地图书馆仍然是美国人<a href="https://lithub.com/in-2019-more-americans-went-to-the-library-than-to-the-movies-yes-really/"><u>最常见的文化活动</u></a>。调查显示，美国成年人去年访问图书馆平均为 10.5 次，电影院 5.3 次，体育比赛 4.7 次，音乐会或戏剧 3.8 次，国家公园或历史古迹 3.7 次，博物馆和赌场都是 2.5 次，主题公园 1.5 次，动物园 0.9 次。

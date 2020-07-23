@@ -1,0 +1,63 @@
+➜Debian Bug让秘密的SSL/SSH钥匙容易猜测
+https://www.solidot.org/story?sid=6212	1200
+Debian 软件包的维护人员时不时的修改他们维护的包的源代码，以更适合发行版。但是很多时候，他们的改变并没有回馈给上游开发者确认，因而在<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=477454">上游的开发者和Debian维护人员之间引发了某些紧张局面</a>。<i>
+现在一项<a href="http://article.gmane.org/gmane.linux.debian.security.announce/1614">严重的安全警告</a>已经正式公布：一位Debian 包维护者在2006年修改了OpenSSL 的源代码，删除了OpenSSL随机数生成器的种子，这使得Debian系统中所有透过随机数生成的加密钥匙很容易被猜测到。解决方法是升级OpenSSL，重新生成所有的SSH和SSL钥匙。这个问题不仅仅影响Debian，而且还影响它所有的派生版，包括Ubuntu。</i>
+更详细内容可见<a href="http://lists.debian.org/debian-security-announce/2008/msg00152.html">Debian的公告</a>，<a href="https://lists.ubuntu.com/archives/ubuntu-security-announce/2008-May/000705.html">Ubuntu的公告</a>，及一位<a href="http://people.debian.org.tw/~chihchun/2008/05/14/time-to-generate-new-ssh-keys/">台湾开发者的分析</a>。
+➜火卫一（Phobos）可能会变成火星的环
+https://www.solidot.org/story?sid=6213	2100
+天文学家已经发现火星的卫星Phobos正在以每年20厘米的速度逐渐接近红色行星的表面。按照此速度，大约1100万年后它将与火星碰撞。但现在一位研究人员提出了Phobos的另一种可能的命运：他计算出，在Phobos撞击之前，火星的引力潮汐力就可能会将它撕成碎片。如果真是如此，<a href="http://arxivblog.com/?p=416">Phobos将形如土星环那样围绕在火星周围</a>(<a href="http://arxiv.org/abs/0805.1454">论文摘要</a>)：时间是从现在起760万年后。
+➜从常识、批判思考和科学哲学角度谈地震预报
+https://www.solidot.org/story?sid=6214	5400
+<a href="http://shenwen.org/">southchinatiger</a> 写道 "网上流传关于所谓政府隐瞒地震“预报”的阴谋说，<a href="http://shenwen.org/?p=47">实际上完全经不起推敲。</a>上过一点点批判思考或者最基本的科学哲学课的人，都能通过常识自己做出同样的判断。
+<i>关于所谓“世界上唯一一次成功预报”的海城大地震。根本不用科学家，只读这一句话就能发现问题。这句话逻辑和概念上有问题，所以根本不用在经验上看实例验证。就成功了一次，那能叫预报吗？换个例子说：只成功一次的天气“预报”，能叫预报吗？或者说：牛顿定律只成功应用了一次，那还叫定律吗？“预报”这个概念，背后是基于一个或者一些列被证实的科学理论的。否则跟撞运气或者算命有什么区别？瞎猫碰到死耗子不能算预报。我们根据牛顿定律成功预报小球将以5m/S的速度移动，之所以能“预报”，是因为牛顿定律是一个被广泛证实了的理论，之前已经有无数次的成功预报了。同样道理，如果我们要说海城的地震被“预报”了，那么我们做出预报所基于的理论，应该能够重复使用，不断被验证。这是科学理论的最基本的一个特点。"</i>
+➜英国解密UFO“X档案”
+https://www.solidot.org/story?sid=6215	8400
+英国国防部公开了1978年到1987年之间UFO目击事件调查的报告。接下来的3到4年，将有160份文件移交给英国国家档案馆。<a href="http://ufos.nationalarchives.gov.uk/">首批公布了8份文件</a>(皆为PDF格式)，其中一份超过了450页。<a href="http://www.guardian.co.uk/science/2008/may/14/spaceexploration.military">英国《卫报》</a>详细分析这些可疑的事件，有的很有趣，多数只是希奇古怪。其中一份调查断定，“没有任何证据证明外星人飞船光临地球。”去年法国航天局也公开了类似的UFO调查档案，第一天就吸引了多达22万用户访问，导致服务器崩溃。为了避免出现同样的问题，英国国家档案馆使用了一家外部网络服务公司，提供了额外的处理网络通讯的能力。
+➜两个灾难，截然不同的反应
+https://www.solidot.org/story?sid=6216	12000
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 "在缅甸遭受特大自然灾害袭击的一周后，当世界各国对缅甸军政府的麻木不仁感到不齿之际，又是一个亚洲国家 - 中国遭受了自1976年唐山大地震以来最大规模的破坏性地震的袭击。当西方媒体对于中国政府所能采取的措施众说纷纭之时，中国政府，中国人民在最短的时间内集合了大批救灾人员赶赴灾难现场出乎了所有国家政府，媒体包括民众的意料。为此英国广播电台（BBC）外事部门的专职记者撰写一篇名为"<a href="http://news.bbc.co.uk/1/hi/world/asia-pacific/7399004.stm">两个灾难，截然不同的反应</a>"，文章的客观性毋庸置疑，难得的是BBC所持有的立场让人深思。
+<i>
+中国四川大地震继缅甸风灾大约一个星期之后出现，两国政府的应对态度同能力有极大差异。两次巨大的天灾，破坏了大片地区。两个亚洲国家伤亡枕籍，数以十万计的灾民顿失家园。两个政府，一个是军事政权，一个是共产政权，两者传统上都对外部势力介入本国事务甚为猜疑。</i>           但是这两次天灾，两国政府的处理手法却大相径庭。 强烈对比缅甸在5月3日受暴风侵袭，缅甸政府拒绝让外国人进入本国救灾，本身的反应迟缓，又不愿意考虑灵活处理。从一开始，缅甸军政府只容许极少数援助专家入境来评估风灾的破坏程度，及制定援助灾民的供应线。记者，一般来说在这种情况下都会受到欢迎，以便让全世界知道灾情。但是现在他们却要偷偷地潜入缅甸。远至美国都即时提出空投物资及海军支援，但是都遭受冷待。即使后来勉强接受外来物资，缅甸政府发言人还是坚持只欢迎援助物资，不欢迎援助人员，缅甸军队可以自行处理。不过，灾情的重大程度显然并非缅甸凭自己力量可以妥善解决的。在某些地区，幸运的灾民似乎得到政府分发的帐幕。但是，在其他地区，被洪水淹没的稻田浮尸处处；在仰光机场卸下的救援物资需要士兵徒手运送，这些影像显示这个不开放的政权缺乏装备来应付这场巨灾。显然，人命不是首要考虑。缅甸宪法公投如期在上星期六举行，除了受淹浸的伊洛瓦底江三角洲地区。对缅甸军头来说，抓紧政权显然比满足部分国民迫切的需要来得重要。<br>
+<br>
+<br>
+相对于此，本星期面对大地震的中国共产政府的反应给人一个迅速、灵活及异常开放的印象。中国反应迅速地震发生后几个小时，中国总理温家宝已经飞往受灾地区，中国国营电视台对灾情作出从未有过的快速反应，推出地震灾情特辑。倒塌楼宇及被困生还者的照片迅即发遍全世界。一些外国记者可以抵达该地区发出目击报道。相对于缅甸死硬要举行公民投票，中国迅速决定降低北京奥运火炬传递的规模，并且传递前默哀，悼念死难者。在接受外来援助方面，中国政府欢迎援助物资。即使中国政府像缅甸政府一样，不接受外国援助人员，但是却能迅速调集本身大量资源，进行令人印象深刻的拯救行动。 数以万计的中国警察和士兵乘坐卡车、飞机，使用降伞甚至徒步赶往灾区。他们的救灾行动是否收效，在事发后几天，最多几个星期就可以看到。不同动机究竟外国记者同救援人员是否可以继续获准接近灾区还是个问题。中国外交部已经警告说，外国记者将不准进入地震区，原因是为了他们的安全。 m但是至少，中国政府明确地希望向本国人民，以至向国外显示，中国能够应付，并且关心本国国民的福祉。<br>
+<br>
+<br>
+平心而论，虽然两场大灾难的强烈程度颇堪对比，但是暴风及洪水造成救灾的困难，同人口密集地区的重大地震造成的灾难难以划上等号。即使可以划上等号，但是以中国的人力物力及基础建设的稳健，对比缅甸，自然是更能挑起救援的重担。但是令人更为惊讶的事，中国这个星期的反应同过去反应迟缓，试图隐藏敏感的政治讯息的灾后反应截然不同。本年初，中国爆发严重雪灾，中国政府迅速及妥善处理，调派成千上万军人，以纾解危机为第一要务。无论这是因为是奥运年的原故，还是因为中国越来越富裕的城市中等收入人士对政府的要求增加，今日的中国看来已经对于向人民负责这个观念有越来越深的体会。"
+➜80 Gbps的深度包检测硬件上市
+https://www.solidot.org/story?sid=6217	18000
+众所周知，我国的防火墙应用了<a href="http://wesleybao.spaces.live.com/blog/cns!B8C72620C46CF4CA!1428.entry">深度包检测</a>（<a href="http://en.wikipedia.org/wiki/Deep_packet_inspection">Deep packet inspection</a>，简写DPI）技术，监控和检查各类非加密信息的流动，非常先进，它可将信息包从L2一直解析到L7，判断是否有违禁内容，是谁在向谁发的，然后看看这些内容是否应该重置，还是低优先级（延迟）处理，或是插播广告。<i>如此先进的东东你现在也可以使用了，只要有钱。<a href="http://www.proceranetworks.com/">Procera Networks</a>推出了具有深度包检测能力的硬件——单价80万美元，<a href="http://hardware.slashdot.org/article.pl?sid=08/05/12/1648223">可应付80Gbps流量的PacketLogic PL10000</a>。PL10000可处理500万用户，跟踪4800万实时数据流。这当然是一个强大的平台，但大型ISP们可能需要处理能力更强的硬件。因此Procera 设计的这种新机器还支持信息流同步化，流数据可以分配到不同的PL10000机器上，减少单台机器压力。新的统计引擎还可以让管理员更深入和更精确的查看异常会话。</i>
+➜译言翻译《地震搜救手册》&《地震安全手册》
+https://www.solidot.org/story?sid=6218	20520
+<a href="http://www.yeeyan.com/">maoxinyu</a> 写道 "
+地震的发生牵动着每一个中国人的心，全国各地都在以各自的形式为抗震救灾做着贡献。作为翻译社区，<a href="http://www.yeeyan.com/">译言</a>利用维基平台，组织译者通力协作，翻译了一系列与抵抗赈灾相关的资料，包括地震搜救、地震安全、疫情防治、救援等等。目前，前两本《地震搜救手册》和《地震安全手册》已经发布，您可以：<i>
+查看文字版：<a href="http://www.yeeyan.com/articles/view/zww/7740">地震搜救手册</a>，<a href="http://www.yeeyan.com/articles/view/zww/7802">地震安全手册</a>。<br>
+下载PDF电子书：<a href="http://innobook.googlecode.com/files/Earthquake_Search_Strategy_and_Tactics_Yeeyan.pdf">地震搜救手册</a>，<a href="http://innobook.googlecode.com/files/Earthquake_Safety_Check_List_Yeeyan.pdf">地震安全手册</a>。</i>
+后续还有更多的内容发布，敬请关注！
+您也可以访问<a href="http://pro.yeeyan.com/">译言维基平台</a>，加入协作翻译，为抗震救灾尽一份力。"
+➜Mono的WinForms 2.0实现完成
+https://www.solidot.org/story?sid=6219	22200
+4年的开发、11.5万源代码、6,434次提交，<a href="http://jpobst.blogspot.com/2008/05/big-finale.html">Jonathan Pobst宣布</a>Mono的<a href="http://www.mono-project.com/">WinForms 2.0</a>实现全部完成。现在那些等待了许久的.NET WinForms 开发者可以尝试通过使用Mono让应用程序运行在 Linux平台。下一步，Mono开发者请求用户递交BUG报告，以尽快修复。WinForms 2.0将会随同Mono 2.0 一起发布。
+➜中国留学生发明硅芯片的替代物
+https://www.solidot.org/story?sid=6221	26400
+远在Weixiao Huang获得Rensselaer理工学院的博士学位之前，他的新晶体管就吸引了几家美国和日本最大的汽车生产商的注意。<a href="http://esciencenews.com/articles/2008/05/13/rensselaer.student.invents.alternative.silicon.chip">这位在2008年毕业的博士生的发明</a>可能会取代世界上最常见的一种技术——高功率和高温电导特性的硅晶体管。Huang出生低微，是中国乡下一位农民的儿子。他发明的新晶体管使用的一种被称为镓氮化物（aN）的混合材料，具有非同寻常的属性。新的GaN 晶体管能减少能耗，改进功率电子系统的效率，应用范围从电动汽车和混合动力汽车到家用设备和国防设备。
+➜中国向美购买“声波”武器
+https://www.solidot.org/story?sid=6222	29400
+它外表看似是普通的扬声器，但实际上是高科技警用设备。长程声波设备（<a href="http://www.atcsd.com/site/content/view/27/41/">Long Range Acoustic Device</a>，LRAD）由美国<a href="http://www.atcsd.com/">American Technology Corporation</a>（ATC） 研制，是一种超高功率扬声器，可用于驱散人群，2005年它曾被用于击退<a href="http://en.wikipedia.org/wiki/Seabourn_Spirit">索马里海盗</a>。ATC公布的2007年财政报告中指出，LRAD已销售给澳大利亚、新加坡、韩国和中国。问题是根据Public Law 101-246，美国禁止向中国出口武器，<a href="http://www.newscientist.com/blog/technology/2008/05/loudhailer-or-weapon.html">LRAD到底是归类为武器还是归为某种“设备”</a>？Public Law 101-246中定义禁运的是标准武器，没有预见到未来可能出现的“声波”武器。LRAD能够产生150分贝的声波，足以损害听力和造成皮肤疼痛。
+➜叙利亚博客被判入狱三年
+https://www.solidot.org/story?sid=6223	30000
+美联社报道，24岁的叙利亚博客Tarek Bayassi<a href="http://www.iht.com/articles/ap/2008/05/14/africa/ME-GEN-Syria-Blogger.php">被判入狱三年</a>，他被起诉破坏了国家的威望，削弱了民族的士气。人权组织称Bayassi的判决从最初的6年减刑为3年。他是在去年5月被捕的，起因是在反叙利亚组织网站的上浏览并留言。叙利亚政府经常逮捕在网上发表批评政府言论的激进分子。
+➜凤凰号准备着陆火星
+https://www.solidot.org/story?sid=6224	32100
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道<i> "凤凰号火星着陆器已经接近其漫长旅程的终点，其接下来的三个月的任务将分析火星土壤和冰。<a href="http://science.nasa.gov/headlines/y2008/13may_phoenix.htm?list973396">凤凰号定于 2008 年 5 月 25 日星期日着陆火星</a>。
+凤凰号将以 13,000 mph 的速度进入火星大气。在七分钟内，飞船在着陆前必须完成一系列任务将速度降至 5 mph。着陆时间定于 7:53 p.m. EDT。"</i>
+➜85%的中国公民赞同网络审查
+https://www.solidot.org/story?sid=6225	34500
+皮尤研究中心（Pew Internet &amp; American Life Project）的一项调查显示在中国中有压倒性的多数人赞同<a href="http://www.pewinternet.org/PPF/r/246/source/rss/report_display.asp">对互联网进行控制和管理</a>（<a href="http://www.pewinternet.org/pdfs/PIP_China_Internet_2008.pdf">PDF</a>）。大多数西方民众猜测中国网民会对政府控制网络<a href="http://news.slashdot.org/article.pl?sid=08/05/14/1337223">感到不快</a>，但实际上85%的人乐意政府控制互联网，显示中国和西方在对待互联网审查问题上存在代沟。<i>
+根据调查，多数人对网络环境的印象是负面的，认为互联网内容不可靠，上网有风险。过去4年里，信任在线内容的人从2003年的52%下降到现在的26%。对于不同来源的信息，有三分之一的受调查者表现相信政府网站上所有或多数内容，相比较下，媒体网站的可信度只有46%，搜索引擎结果为28%，BBS公告栏和广告为11%，个人网站仅为4%，聊天室为3%。此外有93%网民称多数网络内容不适合儿童。<br>
+在被问到互联网上哪种内容需要受到控制时，多数网民认为是最令人愤怒的和生气的内容：87%的网民希望控制色情文学；86%是暴力内容；83%是垃圾邮件；66%是广告；64%是攻击个人的言论。对于在线游戏，有一半受调查者认为网络游戏应该受到控制；27%的人说在线聊天需要被控制。对于政治方面内容，结果有点令人迷惑。说政治方面内容应该控制和管理人的百分比从2005年的8%猛增到41%。
+</i>
+➜天文学家发现最年轻的银河超新星，没有找到外星人
+https://www.solidot.org/story?sid=6226	38700
+前几天NASA在网站上刊登了一条通知：宣称“<a href="http://www.nasa.gov/home/hqnews/2008/may/HQ_M08089_Chandra_Advisory.html">在银河系发现了某样天文学家找了50多年的东西</a>”，这勾起了无数人的好奇心，其中一些人猜想是<a href="http://digg.com/space/Aliens_found_NASA_to_Announce_Success_of_Long_Galactic_Hunt">外星人</a>。现在谜团正式揭开，<a href="http://blog.wired.com/wiredscience/2008/05/liveblog-nasa-a.html">是最年轻的超新星</a>，<a href="http://www.badastronomy.com/bablog/2008/05/12/no-nasa-hasnt-found-aliens/">没有外星人</a>。<i>
+天文学家利用新墨西哥州的射电天文台和钱德拉X射线天文台发现了这颗银河系中<a href="http://chandra.harvard.edu/photo/2008/g19/press_051408.html">最年轻的超新星</a>，它的位置靠近银河系中心，距离我们26,000光年，年龄仅仅只有140岁。</i>

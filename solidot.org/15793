@@ -1,0 +1,71 @@
+➜中国要求在2014年7月前完成网络实名登记
+https://www.solidot.org/story?sid=34057	7745
+国务院发布了《<a href="http://www.gov.cn/zwgk/2013-03/28/content_2364821.htm"><u>国务院办公厅关于实施《国务院机构改革和职能转变方案》任务分工的通知</u></a>》的通知，其中规定“<font id="Zoom">出台并实施信息网络实名登记制度。（工业和信息化部、国家互联网信息办公室会同公安部负责。2014年6月底前完成）。中国从2003年开始推行<a href="http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%9E%E5%90%8D%E5%88%B6"><u>网络实名制</u></a>，首先是网吧要求</font>顾客提供身份证实名登记（网吧管理系统与网警监控系统直接相连）。去年3月，新浪、搜狐、网易和腾讯的微博服务开始实行微博实名制。去年12月28日，全国人大常委会审议通过了网络实名制法律。最新的通知规定了实名制完成时间，互联网言论自由空间将进一步受到钳制。
+➜中国官方连续批判苹果
+https://www.solidot.org/story?sid=34058	10531
+官方喉舌《人民日报》连续<a href="http://paper.people.com.cn/rmrb/html/2013-03/29/nw.D110000renmrb_20130329_1-09.htm?div=-1"><u>第五天</u></a>，CCTV连续几个小时<a href="http://so.cntv.cn/search.php?qtext=%E8%8B%B9%E6%9E%9C&amp;sid=0088&amp;pid=0000&amp;type=-1"><u>批判</u></a>苹果公司，在官方媒体协同发表一系列措辞严厉且明显精心策划的报道后，国家质检总局周四表示，苹果必须修改一部分保修政策，否则将“由行政执法部门按照有关法律法规予以严肃处理”。<a href="http://www.ftchinese.com/story/001049697"><u>分析人士认为</u></a>，中国政府此举是希望削弱苹果和其他全球企业在中国市场的主导地位，以便让国内企业如联想、华为和中兴得益。上个月工信部智囊机构发表的研究报告称，中国过于依赖Google Android操作系统。同时北京方面已宣布，将对智能手机制造商实行更高的标准和限制，包括要求它们帮助中国政府监控在线活动。为中国官方媒体工作的人士透露，苹果出名的神神秘秘和不愿理睬媒体的习惯，过去就曾惹恼官员。该公司在央视最初报道播出后不买账的态度，很可能促使相关官员加大攻击火力。
+➜当Open DNS解析服务器成为DDoS攻击帮凶
+https://www.solidot.org/story?sid=34059	14303
+反垃圾邮件组织Spamhaus将荷兰托管公司Cyberbunker加入到垃圾邮件黑名单，<a href="http://www.solidot.org/story?sid=34029"><u>引发了一场规模惊人的DDoS攻击</u></a>，Spamhaus、云服务商Cloudflare以及上游网络运营商遭到了最高流量300 Gb/s的直接攻击。这场攻击被渲染成<a href="http://arstechnica.com/security/2013/03/spamhaus-ddos-grows-to-internet-threatening-size/"><u>直接威胁</u></a>整个互联网的基础架构，但上游运营商<a href="http://cluepon.net/ras/gizmodo"><u>表示</u></a>他们处理的流量动辄数Tb/s，突然增加300 Gb/s的新流量虽然会有些措手不及，但算不上什么大事。攻击者之所以能发动如此大规模的DDoS攻击，主要是利用了错误配置的Open DNS解析服务器，因此只要很小的开销就能将攻击强度放大一百倍。<a href="http://openresolverproject.org/"><u>Open DNS Resolver</u>项目</a>报告全世界有2500万台Open DNS解析服务器，2500万服务器可以产生巨大的流量，更重要的是它们通常有更快的网络连接。由于Open DNS解析服务器不验证包发送者的IP地址，因此攻击者可以伪装成受害者的IP地址发动DNS解析请求轰炸，令受害者遭到100倍于请求流量的攻击。<a href="http://tech.slashdot.org/story/13/03/28/1938237/misconfigured-open-dns-resolvers-key-to-massive-ddos-attacks"><u>为了防止滥用</u></a>，Open DNS解析服务器管理者要么必须启用源地址验证要么限制速率。
+➜美国法院裁决数学不能被专利
+https://www.solidot.org/story?sid=34060	16648
+Red Hat和<a href="http://www.rackspace.com/blog/mathematics-cannot-be-patented-case-dismissed/"><u>Rackspace</u></a>赢得了一场具有历史意义的专利诉讼：<a href="http://www.redhat.com/about/news/press-archive/2013/3/rackspace-red-hat-win-decisive-patent-victory"><u>法官裁决数学不可专利</u></a>。<br>
+<i>专利勒索公司Uniloc去年对主要科技企业发起了专利诉讼，被控的企业包括 Adobe、微软、索尼、赛门铁克，以及Red Hat和Rackspace。Uniloc指控Red Hat和Rackspace的Linux操作系统浮点数处理侵犯了它的专利（美国专利号5,892,697）。德州东区法院主审法官Leonard Davis驳回了诉讼，认为根据最高法院禁止专利数学算法的判例法，Uniloc的声明是不可专利的。Red Hat执行官表示，这是开源软件的一场重大胜利。
+</i>
+➜Google许诺不起诉使用其专利的开源项目
+https://www.solidot.org/story?sid=34061	18444
+Google<a href="http://googlepublicpolicy.blogspot.com/2013/03/taking-stand-on-open-source-and-patents.html"><u>宣布</u></a>了<a href="http://www.google.com/patents/opnpledge/pledge/"><u>Open Patent Non-Assertion(OPN)</u></a>保证书，承诺不会就特定专利起诉任何开源软件的用户、发行商或开发者，除非对方率先发起攻击。Google首批不起诉的10项专利涉及MapReduce——由Google最早开发的大数据集处理技术，Google表示会逐渐增加覆盖其它技术的专利。保证书看上去<a href="http://tech.slashdot.org/story/13/03/28/194207/google-pledges-not-to-sue-any-open-source-projects-using-their-patents"><u>没有涵盖</u></a>闭源版的fork，开源软件许可证中的MIT/BSD/Apache许可证允许企业使用开源代码发布闭源版本（GPL许可证不允许）。换句话说，如果企业发布了闭源版的MapReduce，它就需要向Google支付专利使用费。
+➜传中国版Kindle即将开售
+https://www.solidot.org/story?sid=34062	22790
+有匿名用户透露，亚马逊Kindle电子书阅读器入华阻碍已经全部打通，Kindle Paperwhite的中国版将于4月16日起接受预定。Kindle Paperwhite中国版的售价为599元，并且会赠送皮套，前期预定用户可获得Kindle 电子书商城（中国区）50元代金券。但熟悉亚马逊中国的人士<a href="http://tech.qq.com/a/20130329/000087.htm"><u>表示</u></a>，Kindle入华的形势已经非常明朗，在近期就将敲定，但是其指出4月16日这个时间点并不正确。亚马逊中国已经发布了Kindle商店和kindle软件，而Kindle Paperwhite也已经有了中文用户界面、字体和输入法。
+➜来自好奇号的40亿像素360度全景
+https://www.solidot.org/story?sid=34063	26480
+<center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" id="_360_krpano_id_731229" name="_360_krpano_name_731229" height="315" width="425"><param name="movie" value="http://www.360cities.net/javascripts/krpano/krpano.swf"><param name="quality" value="autohigh"><param name="allowScriptAccess" value="always"><param name="flashvars" value="pano=http://www.360cities.net/krpano/external_embed/mars-gigapixel-panorama-curiosity-solar-days-136-149.xml&amp;epd=http://www.360cities.net/data/embed/plugin_data/mars-gigapixel-panorama-curiosity-solar-days-136-149"><param name="allowFullScreen" value="true"><embed src="http://www.360cities.net/javascripts/krpano/krpano.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" allowfullscreen="true" allowscriptaccess="always" quality="autohigh" flashvars="pano=http://www.360cities.net/krpano/external_embed/mars-gigapixel-panorama-curiosity-solar-days-136-149.xml&amp;epd=http://www.360cities.net/data/embed/plugin_data/mars-gigapixel-panorama-curiosity-solar-days-136-149" height="315" width="425"></object>
+<br>
+<br>
+</center><br>
+火星漫游车好奇号因多次技术故障暂停运作了一段时间，本周早些时候刚刚恢复工作，继续其科学探索使命。现在，爱沙尼亚摄影师 <a href="http://www.360cities.net/profile/bodrov"><u>Andrew Bodrov</u></a>让任何人都可以站在好奇号的位置去看看火星四周的环境，他根据好奇号MastCams照相机拍摄的295幅照片，<a href="http://www.360cities.net/image/mars-gigapixel-panorama-curiosity-solar-days-136-149#-31.41,0.71,103.2"><u>制作了一幅360度彩色全景图</u></a>。全景图包含40亿像素，浏览者最好点击全屏拖动鼠标去欣赏红色星球的地貌和天气。
+➜研究人员设计出基因晶体管
+https://www.solidot.org/story?sid=34064	30470
+斯坦福大学生物工程师团队在《科学》杂志<a href="http://med.stanford.edu/ism/2013/march/bil-gates.html"><u>发表论文</u></a>，描述了一种由DNA和RNA构成的生物晶体管。他们称这种生物晶体管为“transcriptor”。transcriptor将允许工程师在活细胞内创建计算机去记录细胞暴露在某种外部刺激或环境因素，或者是根据需要关闭和开启细胞繁殖。这种计算机理论上可通过用基因功能作为电路组件来进行运作。数字计算机的逻辑门只有两种AND和OR，或者是0和1，但生物计算机可能的逻辑门是无限制。研究人员创建的transcriptor和逻辑门<a href="http://chinese.eurekalert.org/zh/pub_releases/2013-03/aaft-ce032513.php"><u>是基于</u></a>2种丝氨酸重组酶的活性基础之上的。每个逻辑门由3个基因组成：2个为编码输入的基因，一个为输出基因，该基因含有备置不同的转录控制元件（启动子，终止子），而这些转录控制元件在其侧面上具有重组酶识别位点。
+➜当垃圾邮件发送者开战：Spamhaus DDoS攻击背后的故事
+https://www.solidot.org/story?sid=34065	34366
+<div align="center"><img src="http://img.solidot.com.cn/0/260/liE3PB0NXUXA.jpg" align="" height="214" width="320"><br>
+<br>
+</div>
+荷兰托管公司CyberBunker的数据中心坐落在一个退役的冷战核碉堡内，它于1998年成立，曾经托管过BT网站海盗湾，最近因为被非盈利组织Spamhaus列为垃圾邮件黑名单和涉嫌发动DDoS攻击而备受瞩目，但CyberBunker发言人Sven Olaf Kamphuis在Facebook上<a href="https://www.facebook.com/cb3rob/posts/348246075277329"><u>否认</u></a>该公司参与或发动了DDoS攻击（上图即为Kamphuis在碉堡前挥动海盗旗），声称是在为互联网自由而战，并参与发起了一个名叫STOPhaus的组织，指责Spamhaus试图以卑鄙的手段控制互联网。顾名思义，<a href="http://stophaus.com/forum.php"><u>STOPhaus</u></a>是为了反对Spamhaus，它宣称得到了半数俄罗斯和中国互联网行业的支持。<br>
+<br>
+<a href="http://www.spamhaus.org"><u>Spamhaus</u></a>是一个位于伦敦的非营利国际组织，专注于跟踪电子邮件垃圾发送者和垃圾邮件相关活动。只要看一下自己的电子邮件垃圾邮件文件夹，我们会很清楚的知道每天收到的垃圾邮件远远多于正常邮件。Spamhaus提供了一个垃圾邮件发送者IP地址的黑名单，提供给ISP使用，过滤掉相关地址的SMTP流量。SMTP(Simple Mail Transfer Protocol) 是电子邮件传输标准，它的缺陷是没有对发送方进行身份验证的机制，能被垃圾邮件发送者滥用，也因此ISP级别的电子邮件服务多设立了黑名单，丢弃黑名单地址发送的邮件。实施黑名单的决定权在ISP手中，Spamhaus的名单因为可靠而得到广泛使用。
+<br>
+<br>
+<a href="http://arstechnica.com/security/2013/03/when-spammers-go-to-war-behind-the-spamhaus-ddos/"><u>但Spamhaus的做法并不是没有争议</u></a>，它与CyberBunker的争执早在两年前就<a href="http://www.solidot.org/story?sid=26454"><u>出现</u></a>了。Spamhaus会要求某些ISP屏蔽掉发送垃圾邮件的地址，这种权力本应该掌握在法院手中，如果该ISP反复拒绝Spamhaus的要求，后者会将包括ISP在内的地址段包含在黑名单内。这种做法曾被Cyberbunke的上游ISP A2B指责滥用权力。
+<br>
+➜科学家设计出超薄隐身屏风
+https://www.solidot.org/story?sid=34066	34913
+德克萨斯大学奥斯汀分校的研究人员<a href="http://www.cas.cn/xw/kjsm/gjdt/201303/t20130328_3806354.shtml"><u>开发出</u></a>一种只有微米厚的“隐形斗篷”，可以在自然环境下将一个三维物体隐藏于微波之中，从每个角度都无法看到。<a href="http://iopscience.iop.org/1367-2630/15/3/033037/article"><u>研究结果</u></a>刊登在《新物理学杂志》上。<i>该斗篷的超薄层称为<a href="http://physicsworld.com/cws/article/news/2013/mar/28/ultrathin-metascreen-forms-latest-invisibility-cloak"><u>“元屏风”（metascreen）</u></a>，其由66微米厚的铜带附着在一个100微米厚聚
+碳酸酯膜上，编制成斜纹网眼图案，是目前类似研究中最薄的。元屏风被套在长约18厘米的圆柱管上，再用微波照射圆柱管，由于避开了能量谱中的微波光线而达
+到“隐形”效果。当微波频率为3.6GHz和超过适度范围的带宽，会表现出最佳的功能。形状奇特和不对称的物体同样会被隐形研究人员说，当被斗篷消散的微波和对物体的干预相互抵消，那么从任何角度观察，“斗篷”都是透明和隐蔽性的。这项技术可以用来让“隐形斗篷”在可见光中隐身。</i>
+➜日本研究身份验证新方法
+https://www.solidot.org/story?sid=34067	35700
+日本东京大学将联手信用卡运营商<a href="http://cn.nikkei.com/industry/scienceatechnology/5170-20130329.html"><u>开发新一代个人认证技术</u></a>，研究通过个人电脑键盘敲击方式等个人特有的癖好和身体特征来进行身份认证的方法，这有助于防止信用卡遭盗用等。这种技术在自家的个人电脑和智能手机上也能使用，因此有望推动网络销售和电子书籍等数字内容的普及。在很多情况下，信用卡只要输入印在卡上的16位号码和有效期限，即可用于网络结算。而为了防止遭到盗用，在结算时需要输入其他号码（如身份证号、密码）的作法正在普及，但号码管理非常麻烦。由于行政手续电子化和社交游戏的普及，身份验证的重要性日趋提高。在这样的背景下，该研究将力争使无需本人记忆即可准确进行身份验证的技术早日投入实用化。
+➜将自己卖身给投资者的男子
+https://www.solidot.org/story?sid=34068	38752
+2008年1月26日，时年30岁的兼职创业家Mike Merrill<a href="http://www.wired.com/business/2013/03/ipo-man/all/"><u>决定向市场公开出售自己</u></a>。他将自己分成10万股，IPO定价设为每股1美元。每股都可以从其兼职创业收益中获得回报。随后的10天里，他的12位朋友认购了929股，他自己保留99.1%的股份，但表示这部分股份无投票权，他让其他小股东决定自己该干什么。但是就像他之前的创业家一样，Merrill很快感受到自己成为相抵触的股东利益、股价操纵和损害长期福祉的短期投机的受害者。他的女友（现在是前女友）Willow McCormick虽然只持有19股，但却是一位活跃的股东，两人在约会早期曾经私下讨论过是否应该切断输精管。2008年8月10日，股东们就是否应该让Merrill进行输精管切断手术进行了公开投票，但拥有绝对股份的CEO本人并没有提前告知McCormick这件事，结果McCormick很生气，认为其朋友的投票是对他们是否应该有后代所进行的公开表决。她最后设法拉拢一个有500股的股东站在反对切断输精管的一边。
+➜Google公布福岛浪江町核灾难后街景图
+https://www.solidot.org/story?sid=34069	41277
+Google<a href="http://googleblog.blogspot.com/2013/03/imagery-on-google-maps-of-fukushima.html"><u>公布了</u></a>日本福岛县浪江町镇在2011年3月11日九级大地震和核灾难后的<a href="https://maps.google.com/maps?q=Namie+town,+Fukushima+Prefecture,+Japan&amp;hl=en&amp;sll=37.492171,140.990038&amp;sspn=0.082539,0.116386&amp;hnear=Namie,+Futaba+District,+Fukushima+Prefecture,+Japan&amp;t=m&amp;layer=c&amp;cbll=37.492224,140.994449&amp;panoid=3rOEd0YGyfBfYiQq6OjGjA&amp;cbp=12,354.16,,0,-5.97&amp;ie=UTF8&amp;hq=&amp;ll=37.492226,140.994447&amp;spn=0.005891,0.011501&amp;z=14&amp;source=embed"><u>街景图</u></a>。浪江町是一个小镇，在大地震引发的核泄漏事故发生之后，2.1万名居民全部撤离。在灾难发生两年之后，镇民仍然不被允许回家，他们都迫切希望了解家乡的情况。受镇长Tamotsu Baba的邀请，Google街景服务工程师驾驶着街景车本月进入了小镇，利用摄像机为Google地图和Google地球拍摄了灾难后的360度街景图，供全世界人纪念和浏览。
+➜美国商会称商业机密遭窃取，外交部否认
+https://www.solidot.org/story?sid=34070	43122
+<a href="http://www.amchamchina.org/"><u>中国美国商会</u></a>发表调查报告称，接受调查的大约26%的会员声称自己的商业机密遭到窃取。美国商会<a href="http://www.bbc.co.uk/zhongwen/simp/china/2013/03/130329_china_us_hacking.shtml"><u>称</u></a>，在中国经商的美国公司机密遭到窃取的事件为发展在华业务构成了障碍。特别是同时考虑到知识产权问题和中国提出的转让技术要求，情况更是如此。外交部发言人洪磊对此予以否认，<a href="http://www.fmprc.gov.cn/mfa_chn/fyrbt_602243/t1026758.shtml"><u>表示</u></a>“<br>
+关于所谓网络窃密问题，中方已多次表明立场。我们反对‘有罪推定’。在未经彻底调查、没有根据的情况下就对中国妄加指责，是不负责任的做法。我们敦促美方不要把经贸问题政治化，停止炒作网络安全问题，多做促进中美两国互信的事情。”<br>
+➜2045计划：你会投资未来吗？
+https://www.solidot.org/story?sid=34071	43479
+创业公司想出各种非常聪明的办法来向投资者推销自己的商业模式，但俄罗斯创业家Dmitry Itskov的最新事业<a href="http://www.fortunechina.com/business/c/2013-03/25/content_149440.htm"><u>本身就是卖点</u></a>：投资他的新项目<a href="http://2045.com/"><u>2045行动（</u><u>2045 Initiative）</u></a>，回报可能会是获得永生。“2045行动”是一向异常复杂、耗资巨大的研究项目，但它的目标相当明确。首先，到2020年，科学家们将解决如何通过脑机接口（也就是意识控
+制）来控制机器人的问题。到2025年，目标是把人脑移植到机器人身上，让那个人的意识（记忆，性格以及构成“自我”的其他所有东西）也一同转移。此后则进入了科幻领域。这个项目后期阶段的目标是创造具有人工大脑的机器人，接着把人的意识上传到人工大脑（到2035年），最后使意识彻底脱离肉体，就好比是个人意识的全息图。
+➜“我的银行账户被欧盟委员会抢走了”
+https://www.solidot.org/story?sid=34072	45050
+塞浦路斯本周<a href="http://www.ftchinese.com/story/001049700"><u>公布了纾困计划</u></a>，实行金融管制，为储户的10万欧元及以下的存款提供保护，高于这一水平的存款将参与“内部纾困”，以拯救塞浦路斯两家最大的银行。一位被“参与内部纾困”的银行顾客在比特币论坛上抱怨这项计划<a href="https://bitcointalk.org/index.php?topic=160292"><u>毁了他的企业</u></a>，企业流动性资产账户被封锁，超过70万的资金被用于拯救银行，他怀疑这部分钱在6到7年内只会归还五分之一。他说，数千家塞浦路斯企业都面临同样情况，生意注定是毁了，所有浦路斯工人将被解雇。他表示他们将迁往更尊重财产的加勒比小国，并考虑使用比特币支付工资和合作伙伴之间的交易。
+➜银河系周围可能有数千流浪黑洞
+https://www.solidot.org/story?sid=34073	46596
+科学家估计可能有多达2000个脱离其宿主星系的<a href="http://www.newscientist.com/article/mg21729104.800-outcast-black-holes-surround-the-milky-way.html"><u>黑洞环绕着银河系</u></a>。每一个星系的核心可能都有一个黑洞，当星系合并，它们的黑洞也会合并，形成一个超大质量黑洞。但黑洞碰撞创造的引力波可能会将新形成的黑洞从宿主星系弹出。加州大学 Santa Cruz分校研究人员的计算机模型显示，可能70个到2000个黑洞分布在银晕上。他们的<a href="http://arxiv.org/abs/1303.3929"><u>研究论文</u></a>发表在预印本网站arxiv上。

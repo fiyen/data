@@ -1,0 +1,80 @@
+➜DNS 漏洞发现者 Dan Kaminsky 访谈录
+https://www.solidot.org/story?sid=7351	1800
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://en.wikipedia.org/wiki/Dan_Kaminsky">Dan Kaminsky</a> 便装出现在今年的黑帽大会，他刚刚于昨天结束<a href="http://venturebeat.com/2008/08/06/black-hat-dan-kaminsky-explains-the-bug-that-threatened-the-internet/#slide_4">一场现场观众达1000人的演示会</a>，这是10年来，他第9次在黑帽大会上发言。现年29岁的<a href="http://en.wikipedia.org/wiki/Dan_Kaminsky"> Dan</a> 自称为 DNS 达人，<a href="http://venturebeat.com/2008/07/08/web-companies-organize-massive-effort-to-patch-fundamental-internet-flaw/#slidem_1">在今天早些时候曾发现了 DNS 系统的一个严重漏洞</a>，为了不让 Internet 遭受重创，他一直不肯透露漏洞的细节（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K434.aspx">DNS 漏洞细节被泄露，攻击即将开始</a>）。VentureBeat （VB） 的记者 <a href="http://venturebeat.com/author/dean-takahashi/">Dean Takahashi</a> 在黑帽大会上对 Dan Kaminsky （DK） <a href="http://venturebeat.com/2008/08/07/black-hat-an-interview-with-dan-kaminsky-the-dns-dude-who-saved-the-internet/#slide_4">进行了采访</a>。            <strong>VB: 如何描述这个漏洞?</strong>
+<br> <br> <strong>DK:</strong> DNS 问题一直存在，我们有 65000/1 的机会被攻击，但我们觉得，你每天只有一次攻击机会，尝试65000天不是件容易事，所以并不见得多么危险，然而这种低概率攻击总是一种隐患。现在，在这种新漏洞下，一个黑客可以在10秒内发起65000次攻击，这很容易得逞。
+<br> <br> <strong>VB: 你是否觉得自己是个安全方面的大人物？</strong>
+<br> <br> <strong>DK:</strong> 将这个漏洞补上面临着诸多噪音。如果你发现了一个安全漏洞，这个漏洞可能影响很多人，你将有三件事要做。第一，找到漏洞，这并不难，不需要花太多时间；接着，你需要写一个补丁，因为写补丁牵扯到太多公司，我们必须找到一个办法，让这些公司坐到一起商谈，我们要让很多人明白这件事的重要性；但这仍不够，因为这个漏洞是结构性漏洞，我们第三步必须在让那些网络运营者知道这个漏洞，说服他们升级系统。我们做出了补丁，需要他们参与测试。
+<br> <br> <strong>VB: 你是如何开始安全工作生涯的?</strong>
+<br> <br> <strong>DK:</strong> 我曾在<a href="http://cisco.com/">思科</a>从事一项非常枯燥的工作。
+<br> <br> <strong>VB: 起因是什么?</strong>
+<br> <br> <strong>DK:</strong> 我长期以来就是个 Geek.
+<br> <br> <strong>VB: 在安全领域你最早的经历是什么?</strong>
+<br> <br> <strong>DK:</strong>在大学时，我发现，任何人想使用学校的打印机，需要在自己的电脑中执行学校的一段代码，这让我不胜其烦，我就写了一个叫做Docsprint 的系统，你不必登陆到学校的系统，只需将打印数据发送到我的服务器，那一阵，Santa Clara 大学学生宿舍有一半的打印任务是通过我们宿舍进行的，那很有趣。我后来到思科做网络，使用那些非常蹩脚的语言做一些连文档都没有的东西。我发现了代码中的一些错误，就修改那些代码。我开始学习安全，很投入，读了一大堆这类的书。一个叫 Ryan 的朋友给我发邮件，他说写作水平不错，就请我帮他写一本书中的一个章节，但不给我署名，那本书叫做《网络攻击预防》，我没告诉过任何人。那一年，有一个安全寻宝活动，你可以赢得一件 T 恤衫，或者一张去黑帽大会的门票，我很想得到黑帽大会的门票。我已经准备去参加 Defcon 了，书上都有我的署名，署的还是 Cisco 的 Dan Kaminsky。我没有告诉思科我署名的时候用了公司的名字，没有人拿我这样一个实习生当回事。在黑帽大会，我去了一个会场，Mudge 在那主持，他是当时最老的黑客之一。他提问了一个问题，我回答上了，他问我多大，我说20，他说，永远不要告诉别人你多大，否则他们会信不过你。那是我第一次参加黑帽，这次是第10次。
+<br> <br> <strong>VB: 你今年多大？</strong>
+<br> <br> <strong>DK:</strong> 我不会告诉你的。我29。
+<br> <br> <strong>VB: 是什么背景让你发现了这个漏洞?</strong>
+<br> <br> <strong>DK:</strong> 我长期以来一直研究 DNS。这是我在黑帽大会上第三次谈这个话题。第一次的时候，讲的全是这个，我讲到如何使用DNS系统做数据隧道，作数据存储，或用作通用通讯通道。去年，我讲到如何使用 DNS 同 Web 浏览器交互以绕过防火墙。我并不想破坏 DNS 系统，只是想创建一种新的 CDN 网络，我想将人们从慢的服务器转到快的上面。我可以利用 DNS 实现吗？从去年开始，我就有了这样的工具，如果我使用这个方法，就必须解决 <a href="http://en.wikipedia.org/wiki/Time_to_live">TTL</a> 问题，是 TTL 拖慢了速度。我想慢的原因是为了防止缓存毒药，但那完全是可行的。我惊得目瞪口呆，我联系上 ISC 的总裁 Paul Vixie，他研究 DNS 20年了，是 BIND 的设计者。我说，Paul，我们有麻烦了。我们便开始联系我们所知道的人，所有的人都很合作。
+<br> <br> <strong>VB: 要找到16个你信任的人是不是很难?</strong>
+<br> <br> <strong>DK:</strong> DNS 圈子本来就不大。
+<br> <br> <strong>VB: 人们理解其中的意味吗?</strong>
+<br> <br> <strong>DK:</strong> 一切都很明确，这个漏洞会将所有东西都打破，一个如此简单的漏洞导致大量问题是不应该的。
+<br> <br> <strong>VB: 你提到这个结构性漏洞从1983年就存在了，这是不是意味着 Internet 需要一次彻底的改造?</strong>
+<br> <br> <strong>DK:</strong> 1983年设计 DNS 的时候，不需要考虑安全问题，甚至1993年都不存在这个问题，直到90年代末，人们才在安全上大量投入，也就是从那时起，开始有人盯上了网络中的资产并实施破坏。各种系统中的安全漏洞五花八门，但我们都习惯于以一种根本不安全的方式使用 Internet。每次我们使用 SSL 的时候，都会碰到问题，有时候问题在一些方面得到缓解，在另一些方面恶化。
+<br> <br> <strong>VB: 你说过这个漏洞影响广泛，为什么?</strong>
+<br> <br> <strong>DK:</strong> DNS 的准确性非常重要，一旦遭到破坏，会将所有的东西都搞乱。最初，7月8日，我指出这个问题将导致用户浏览到伪造的网站，邮件可能被发送到错误的方向。这对安全来讲已经够坏了。然而这还不够，DNS 是整个 Internet 的心脏，SSL 要求你得到证书，但要获取证书你需要 DNS 并通过 email 发送，如果 DNS 崩溃了，SSL 根本就无法安全地工作。
+<br> <br> <strong>VB: 你还提到，几乎所有登陆网页上的密码找回功能也会出现安全问题，能解释一下吗?</strong>
+<br> <br> <strong>DK:</strong> 如果你忘记了密码，他们会发个邮件给你，里面包含一个链接让你重设密码，他们并不验证你是谁，想象一下，如果是别人得到了这封邮件会怎么样？
+<br> <br> <strong>VB: 你说，很幸运是一个安全专家而不是其他人发现了这个问题.</strong>
+<br> <br> <strong>DK:</strong> 服务能力是一个被忽视的安全问题，我今年得到的最大教训就是这个。你必须假设你的架构的某一部分会出现问题，而你时刻准备去迅速解决。我们需要一个过程，从得到警告到花费多少天去解决问题。人们购买这类系统的时候需要考虑这个问题，这个系统应当容易修补漏洞。一个可以在8小时内补上漏洞的系统，比90天才能修补的系统更能承受攻击。一个随机的黑客和一个安全专家的区别在于是否有灾难计划与缓解意识。
+<br> <br> <strong>VB: 还有更多漏洞会被发现吗?</strong>
+<br> <br> <strong>DK:</strong> 钱是好东西了，这里有一个会场就是关于漏洞的几率，这个漏洞有太多钱景。
+<br> <br> <strong>VB: 是否有证据表明攻击正在进行?</strong>
+<br> <br> <strong>DK:</strong> 我知道<a href="http://www.darknet.org.uk/2008/07/exploit-for-kaminsky-dns-bug-goes-wild/">在 Austin 出了点问题</a>，我相信那牵扯的 Google 并与点击欺诈有关。但我们在等待更多数据，有一些事正在进行但我不便说，我有一些数据在手，我们仍在分析。
+<br> <br> <strong>VB: 但你有信心，整个行业的合作将来会带来好的结果，是吗?</strong>
+<br> <br> <strong>DK:</strong> 我认为我们目前的模式可以解决这类的问题，但不认为已经做得够好。我们失去了 NAT 与防火墙商，我们失去了一整个行业。我们应当让他们加入进来，但你不能去争论一些数字，今天，1亿2000万宽带用户得到保护。最初，在我的网站进行测试的用户中，84%的人存在漏洞，现在是30%，这就是我们得到的结果。
+➜aMule 2.2.2 发布
+https://www.solidot.org/story?sid=7352	2400
+Airate 写道<i> "与OG同一天，<a href="http://www.amule.org/">aMule 2.2.2</a>发布，新版本代号Similarity。同今年6月发布的2.2.1相比这次主要是为了除虫。"</i>
+➜WordPress 衍生产品 BuddyPress 年底发布
+https://www.solidot.org/story?sid=7353	6000
+<a href="http://www.comsharp.com/">35公里</a> 写道 "在 <a href="http://www.thestartconference.com/">The Start Conference</a> 接受采访期间，<a href="http://wordpress.org/">WordPress</a> 创始人 Matt Mullenweg （<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K299.aspx">访谈录</a>）宣布，WordPress 的衍生产品 <a href="http://buddypress.org/">BuddyPress</a> 即将于年底发布。<a href="http://www.webmonkey.com/blog/Social_WordPress_to_Launch_in_December">BuddyPress 基于多用户版的 WordPress</a>，可以用来创建社会网络站点。
+<br> <br>就象 WordPress 让任何都可以拥有一个博客一样，BuddyPress 让任何人都可以拥有一个社会网络站点。另外，<a href="http://www.webmonkey.com/blog/WordPress_Mulls_Social_Network_Expansion">很多人希望 BuddyPress 更进一步，成为一个分布式社会网络项目（DiSo）</a>。
+<br> <br>Mullenweg 最初于今年3月份宣布这个项目的开始，BuddyPress 由 Andy Peatling 创建，他受雇于 Mullenweg 的 <a href="http://automattic.com/">Automattic</a> 公司。
+<br> <br>如果你对这个项目好奇，可以下载一个<a href="http://trac.buddypress.org/wiki/installing-buddypress">开发版</a>体验一下，也可以查看 BuddyPress 的开发<a href="http://trac.buddypress.org/wiki/roadmap">路线图</a>与<a href="http://www.google.com/calendar/embed?src=46c3sjdmpi9gribubnk0gaa19o%40group.calendar.google.com&amp;ctz=America/Los_Angeles">日程</a>。
+➜8个人用1000美元购买了无意义的“I Am Rich”iPhone程序
+https://www.solidot.org/story?sid=7354	7500
+在它上线的24小时内，<a href="http://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html">有8个人以1000美元的价格</a>购买了毫无意义的“I Am Rich”iPhone程序。<i>
+该程序除了在iPhone手机的屏幕上显示一颗闪闪发亮的宝石，向其他人展示你多么有钱之外毫无任何意义。程序的开发者为其制定了Apple store中最高的$999.99售价。苹果已经将其下架，和平常一样没有给出任何理由（可能的原因是一位购买者的<a href="http://i35.tinypic.com/vfeo5.png">留言</a>，他起初以为是玩笑）。德国程序员Heinrich将可以轻轻松松拿到$5,600（不过应该不会拿到了，Heinrich证实苹果已经将钱退给了购买者）。</i>
+➜记者在黑客大会上黑其它媒体，最后被踢出会议
+https://www.solidot.org/story?sid=7355	22800
+法国《全球安全杂志》的三位记者因为窃取其它媒体记者的帐号而被<a href="http://hosted.ap.org/dynamic/stories/T/TEC_REPORTERS_HACKING_REPORTERS?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2008-08-08-09-22-23">踢出了Black Hat大会</a>。<i>
+Black Hat大会设置了名为The Wall of Sheep（绵羊墙）的曝光台，监控和公开会议参与者在大会无线网络上使用的帐号和密码，提醒人们时刻注意隐私和安全。但大会也为记者们提供了独立的有线网络连接，该网络是被禁止非法破解的，即使记者们没有采用额外的安全保护如虚拟个人网络登录，他们的个人信息也是不会被暴露在绵羊墙上的。而这三位法国记者却设置了个人服务器，监控通过媒体室中央路由器的网络通信，他们至少获得了eWeek和CNET News两家媒体记者使用的帐号和密码。他们想把这些公开在绵羊墙上，却因为违反规定而被赶出了大会。《全球安全杂志》是大会的赞助者之一，这三位记者分别是Dominique Jouniot，Marc Brami，Mauro Israel，其中Israel是肇事者，其余两位并不知情，杂志负责人Brami对此事情非常恼火。</i>
+➜美国警告奥运会游客小心网络间谍
+https://www.solidot.org/story?sid=7356	24960
+美国情报机构发出<a href="http://www.ncix.gov/publications/reports/traveltips.pdf">强烈警告</a>，提醒北京奥运会的游客注意个人的电子信息被偷，警告称“所有以电子方式发送的信息——传真机，PDA，电脑和电话——都可能被截取”。美国政府的网络安全官员在采访中督促所有的美国人<a href="http://www.cbsnews.com/stories/2008/08/07/eveningnews/main4329769.shtml">将电子设备留在家中</a>。中国是世界上最大的以美国为目标的网络间谍国家，已经给美国造成数十亿美元损失。
+➜Google 推出奥运会主题专页
+https://www.solidot.org/story?sid=7357	25800
+<a href="http://sites.google.com/site/Moses">Moses</a> 写道 <i>"Google 适时的推出了 <a href="http://www.google.cn/intl/zh-CN/landing/summergames2008/">2008 夏季奥运会赛事主页</a>，在这个页面里，集中了 Google 提供的奥运会相关的各种服务，用户可以实时追踪奖牌榜的变化，找到赛事场地，也可以用 Google 地球体验三维立体的奥运场馆图像的虚拟游览。"</i>
+➜超级计算机战胜围棋职业8段选手
+https://www.solidot.org/story?sid=7358	30000
+美国围棋大会举办的比赛中，人工智能实现了历史性突破：<a href="http://www.usgo.org/index.php?%23_id=4602">围棋程序MoGo战胜了职业8段选手Myungwan Kim</a>（Kim让9子）。程序运行的超级计算机有800个处理器，频率4.7 Ghz，总体性能15 Teraflops。Kim估计<a href="http://senseis.xmp.net/?MoGo">MoGo</a>目前的实力约为业余2到3段。但与会者仍然被程序的表现惊住了，认为其中的一些走法达到了5段的水准。与人类相比，计算机程序依旧是被屠杀的对象。<a href="http://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B">围棋</a>被认为是棋类游戏中人类智能超越电脑的最后堡垒，但是如果摩尔定律能延续下去，人类胜过电脑的时间不会维持太久。
+<i>
+虽然有了一点进步，计算机要战胜最强的人类棋手其实还有漫长的路要走。以过去的历史事件为例，1997年当时还是职业一段选手的Janice Kim轻松战胜了最强的计算机程序Handtalk，而且还是让25子。计算机围棋程序性能只在最近几年有了飞跃。今天的顶级围棋程序，包括MoGo，都是使用了<a href="http://zh.wikipedia.org/wiki/%E8%92%99%E7%89%B9%C2%B7%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95">蒙特卡罗方法</a>（也称统计模拟方法），它们以当前位置为初始，以每秒数千步随机模拟此后的走法，统计结果以树表现，最后给出当前盘面最有可能获胜的走法。</i>
+➜互联网文化流行时间线
+https://www.solidot.org/story?sid=7359	33480
+一位用户在在线时间线制作网站dipity.com上创造了<a href="http://www.dipity.com/user/tatercakes/timeline/Internet_Memes">互联网流行文化的Timeline</a>，非常的有创意，其中许多内容真的是深深的镌刻在我们的脑海中。<i>时间轴从第一台计算机ENIAC开始，到“<a href="http://en.wikipedia.org/wiki/Goto_considered_harmful">Go To语句有害无益</a>”，仿造苏格拉底问和答的<a href="http://cgi.cs.indiana.edu/~oracle/index.cgi">Internet Oracle</a>，表情符号，<a href="http://zh.wikipedia.org/wiki/%E9%AB%98%E5%BE%B7%E6%B8%A9%E6%B3%95%E5%88%99">高德温法则</a>（在在线讨论不断变长的情况下，把用户或其言行与纳粹主义或希特勒类比的概率会趋于100%），标志着《南方公园》诞生的<a href="http://en.wikipedia.org/wiki/The_Spirit_of_Christmas#Jesus_vs._Santa">The Spirit of Christmas</a>，<a href="http://www.youtube.com/user/NewNuma">numa numa</a>，<a href="http://www2.jpl.nasa.gov/sl9/">彗星撞木星</a>，甚至还有国内人熟知巴士阿叔，<a href="http://en.wikipedia.org/wiki/Xiao_Xiao">小小</a>。</i>
+➜Linux基金会发布杀手锏开发工具
+https://www.solidot.org/story?sid=7360	36300
+Linux基金会发布了Beta版程序检测工具，<a href="http://ldn.linuxfoundation.org/lsb/check-your-app">Linux Application Checker</a>(AppChecker)，从此让独立软件开发商和程序员<a href="http://osnews.com/story/20165/Linux_Foundation_Launches_Killer_Development_Tool">爱上为Linux开发程序</a>。<i>
+AppChecker可以检查软件在Linux Standard Base (LSB)不同版本、LSB数据库中的所有Linux发行版的兼容性情况。测试完成后会返回一份软件在不同发行版下兼容情况的报告，以及哪些外部库和软件使用接口。</i>
+➜DIY人工肾血液透析机
+https://www.solidot.org/story?sid=7361	46800
+Millie Kelly生来就患有腹裂畸形（<a href="http://en.wikipedia.org/wiki/Gastroschisis">gastroschisis</a>），即内脏露出到身体外面了。<i>她面临肾脏衰竭，虽然有人工肾血液透析机可代替，不过医生指出她太小而无法使用，医生告诉她的父母孩子不可能活下去。但是Newcastle维多利亚女王医院的Coulthard博士和同事为小女孩动手打造了<a href="http://news.bbc.co.uk/2/hi/health/7542404.stm">适合的小型人工肾</a>，机器很成功，这个绿色的金属盒子与一般的人工肾血液透析机不太相同，有许多线露在外面。小女孩与机器连在一起超过了7天，直至她自身的肾脏恢复工作。2年后，她的母亲Rebecca表示孩子非常健康。</i>
+➜人类和穴居人在66万年前分道扬镳
+https://www.solidot.org/story?sid=7362	48600
+从克罗地亚发现的、距今38000年的女性穴居人腿骨化石中恢复的DNA使科学家首次有机会了解<a href="http://www.guardian.co.uk/science/2008/aug/08/evolution.genetics">人类与穴居人的区别联系</a>。<i>
+研究人员分析了穴居人线粒体的DNA中的13种基因，发现与现代人类截然不同，这意味着穴居人和早期人类几乎没有联系。遗传物质显示，生活在66万年前的穴居人之母“Eve”是最后一种与人类有共同祖先的人种。穴居人的头骨平均比现代人类要大。</i>
+➜世界最小气球只有原子厚
+https://www.solidot.org/story?sid=7363	52020
+一种只有单原子厚的碳薄膜被用于<a href="http://technology.newscientist.com/article/dn14501-worlds-smallest-balloon-inflated.html">创造一个施压而不会漏气的“气球”</a>。<i>
+Cornell大学的研究人员给石墨烯气球充满气，这种材料被认为可取代硅，制造超小的晶体管。除了可以申请吉尼斯世界纪录外，石墨烯薄膜还可用于给微小物体称重。石墨烯薄片过去常被用于密封石英玻璃层中产生的微型井，类似鼓状的头（或是高帽）。薄膜会在范德瓦耳斯力（<a href="http://en.wikipedia.org/wiki/Van_der_Waals_forces">van der Waals forces</a>）下固定好位置，在微观尺寸下，范德瓦耳斯力会使彼此粘在一块。井的面积约1到100平方微米，深度约在250纳米到3微米。</i>

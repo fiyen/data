@@ -1,0 +1,16 @@
+➜Firefox 52借鉴Tor浏览器引入防指纹跟踪功能
+https://www.solidot.org/story?sid=50921	21478
+Firefox 52将引入<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1121643" target="_blank"><u>新的隐私保护功能</u></a>，防止网站利用系统字体作为指纹跟踪用户。该隐私保护功能借鉴自Tor浏览器，基于Firefox ESR版的Tor浏览器利用类似的机制阻止网站利用设备上安装的字体识别用户。Firefox 52的beta版本已经激活了该功能，正式版预计将在3月释出。Firefox 52将利用白名单响应网站对系统字体的查询，每个操作系统将返回相同的默认字体列表，使得字体指纹跟踪对Firefox用户不再有意义。Mozilla在去年7月启动了<a href="https://wiki.mozilla.org/Security/Tor_Uplift/Tracking" target="_blank"><u>Tor Uplift 项目</u></a>，利用Tor浏览器的隐私保护机制改进Firefox的隐私保护功能。
+➜2016年是 Torrent 巨人倒下的一年
+https://www.solidot.org/story?sid=50922	52532
+对Torrent用户而言，2016年是难忘的一年，但并非是从好的方面。在短短几个月内，最受欢迎的几家Torrent网站<a href="https://torrentfreak.com/2016-was-the-year-torrent-giants-fell-161228/" target="_blank"><u>全都倒下了</u></a>：有的是被执法部门关闭，如KickassTorrents（KAT），网站创始人遭到逮捕；有的则是在面临不确定的情况下主动关闭，如Torrent搜索引擎Torrentz.eu和TorrentHound，受欢迎的音乐分享网站 What.cd则是在其服务器被法国警方扣押后宣布了关闭。而屡次受到打击的Torrent网站海盗湾<a href="https://torrentfreak.com/pirate-bay-wil-continue-to-stick-it-to-the-man-in-2017-161231/" target="_blank"><u>仍然很坚挺</u></a>。
+➜加密电子邮件服务Lavabit即将回归
+https://www.solidot.org/story?sid=50923	53751
+加密电子邮件服务Lavabit在官网<a href="https://lavabit.com/" target="_blank"><u>展示了一个倒计时</u></a>，宣布其服务将在19天后重新上线。Lavabit的创始人Ladar Levison为保护用户数据而在2013年8月关闭服务并破坏服务器。NSA告密者Edward Snowden在2013年6月公开身份时提供了一个电子邮件地址Ed_Snowden@lavabit.com，随后美国政府就取得秘密法庭命令，要求加密邮件服务商Lavabit提供Edward Snowden的登录信息，接着又进一步要求Lavabit交出SSL私钥，使当局能访问所有用户的信息。Ladar
+Levison一开始抵制了交出密钥的要求。由于不配合法庭，Levison被要求每天支付罚款5千美元，最终于当年8月8日关闭Lavabit并彻底破坏了服务器。
+➜部分DNS查询因闰秒bug报错
+https://www.solidot.org/story?sid=50924	53955
+2016年12月31日增加了一闰秒，31日11点59分59秒之后不是2017年，而是59分60秒。增加闰秒在过去几年发生过多次，主要互联网公司都对此已有经验。但云计算公司Cloudflare<a href="https://www.cloudflarestatus.com/incidents/1fczgjmknplp" target="_blank"><u>报告</u></a>，它的DNS查询服务由于闰秒bug而导致了5xx错误。Cloudflare称，闰秒bug影响了部分权威DNS和原点DNS查询。问题从2017月1月1日00:00 UTC开始出现，Cloudflare在一个半小时后开始部署补丁。
+➜中国通过中医药法
+https://www.solidot.org/story?sid=50925	56204
+匿名读者 写道 <i>"中国于2016年12月25日第十二届全国人民代表大会常务委员会第二十五次会议通过了<a href="http://www.npc.gov.cn/npc/xinwen/2016-12/25/content_2004972.htm" target="_blank">中华人民共和国中医药法</a>。会议以144票赞成、3票反对、3票弃权，表决通过了中医药法。该法自2017年7月1日起施行。"</i>

@@ -1,0 +1,54 @@
+➜“波士顿病人”艾滋病复发
+https://www.solidot.org/story?sid=37540	11262
+艾滋病病毒<a target="_blank" href="http://www.nature.com/news/hopes-of-hiv-cure-in-boston-patients-dashed-1.14324"><u>再次回到了</u></a>两名“波士顿病人”身上，研究人员治愈艾滋病的希望再次落空。两名艾滋病患者接受了类似“柏林病人（Timothy Ray Brown）”的骨髓干细胞移植手术，但不同的是 Brown所接受的干细胞能抵抗艾滋病感染，而波士顿病人——他们在波士顿接受手术——所接受的干细胞不能抵抗艾滋病感染。今年早些时候，“波士顿病人”主治医师在国际艾滋病协会会议上<a target="_blank" href="http://www.solidot.org/story?sid=35442"><u>宣布</u></a>，两名患者在接受干细胞移植后停止了抗逆转录病毒药物治疗，其中一名患者在停药近四个月后没有出现复发症兆。其他研究人员表示，波士顿病人的结果并非完全出乎意料，因为他们并没有接受与Brown相同的治疗。
+➜两种价格不同的药物具有等效疗效，多数医生选择更贵的
+https://www.solidot.org/story?sid=37541	14755
+两种眼疾治疗药物具有等效疗效，它们在生物学上属于表亲，甚至是由同一家公司（罗氏集团旗下的Genentech）生产。但它们之间具有完全不同的定价：Avastin每次注射费用50美元，Lucentis每次注射费用约2000美元.。大部分医生选择Lucentis，每年医保要为此多花10亿美元。《华盛顿邮报》<a target="_blank" href="http://www.washingtonpost.com/business/economy/an-effective-eye-drug-is-available-for-50-but-many-doctors-choose-a-2000-alternative/2013/12/07/1a96628e-55e7-11e3-8304-caf30787c0a9_story.html"><u>援引</u></a>熟悉医疗行业的科学家的话称，Avastin和Lucentis的生产成本相差无几。文章推测，优先选择昂贵替代的原因可能是医生能从中受益，而由于Lucentis的利润更高生产商Genentech也为廉价替代设立障碍。有眼科医生对该文发表了<a target="_blank" href="http://www.reddit.com/r/politics/comments/1sdxz6/an_effective_eye_drug_is_available_for_50_but/cdwoh5j"><u>不同看法</u></a>，称Lucentis由制造商提供保存在无菌环境中随时可用；而Avastin则由本地合成药厂提供，监管质量堪忧。
+➜将密码储存到一个专用的离线设备上
+https://www.solidot.org/story?sid=37542	16060
+Hackaday作者Mathieu Stephan<a target="_blank" href="http://hackaday.com/2013/12/06/developed-on-hackaday-lets-build-some-hardware/"><u>发起了一个软硬件开源项目</u></a>，目的是最小化密码被破解的风险，方法是开发专用的智能卡硬件设备离线储存密码，为不同网站生成长而复杂的随机密码。该项目包括开发一个使用智能卡的硬件，通过USB端口连接到电脑上，设备将储存用AES-256加密的密码，而智能卡将记录你的AES-256密钥，智能卡将使用一个读保护的EEPROM，需要PIN码解锁内容。和信用卡一样，如果尝试次数太多，智能卡将会永久性锁住。软件端很简单，只需要写一个能运行在浏览器上的简单脚本。
+➜英语高考将可分为多次进行
+https://www.solidot.org/story?sid=37543	18026
+教育部副部长刘利民接受官媒新华社采访时<a target="_blank" href="http://www.nanzao.com/sc/china/17608/jiao-yu-bu-gao-kao-wai-yu-jiang-ke-duo-ci-xuan-ze-shi-jian-ci-shu"><u>表示</u></a>， 高考改革的总体目标是形成分类考试、综合评价、多元录取的基本模式；健全考试与招生相对分离，学生考试可多次选择、学校依法自主招生。对于目前设定的主要改革路径，刘利民称，共七条改革路径，贯穿义务教育到高等教育全程。在小学阶段，探索义务教育阶段免试就近入学的多种实现形式，包括小学初中对口直升等；在初中阶段，建立健全初中学业水平考试和综合素质评价制度，鼓励各地积极探索以初中学业水平考试成绩和综合素质评价情况为依据的招生方式；在高中阶段，建立健全高中学业水平考试和综合素质评价制度，和建立健全适合高等职业教育特点的“文化素质＋职业技能”考试招生制度。刘利民表示，2014年上半年，国家将发布总体方案及高考改革等各领域的改革实施意见。2020年基本形成新的考试招生制度。省级地区最迟2014年年底前出台本地区具体实施办法。<br>
+➜Google发现法国政府伪造CA证书
+https://www.solidot.org/story?sid=37544	24225
+Google安全博客<a target="_blank" href="http://googleonlinesecurity.blogspot.com.au/2013/12/further-improving-digital-certificate.html"><u>发表声明</u></a>，他们在12月3日发现一个与法国信息系统安全局（ANSSI）有关系的中级CA发行商向多个Google域名发行了伪造的CA证书。Google称，他们立即更新了Chrome的证书撤销元数据，并通知了ANSSI和其它浏览器供应商。ANSSI随后发表<a target="_blank" href="http://www.ssi.gouv.fr/en/the-anssi/events/revocation-of-an-igc-a-branch-808.html"><u>声明</u></a>，称发行伪造证书是一次人为错误，表示没有对整体网络安全造成任何影响。该中级CA发行商发行的证书主要在私有网络中使用，用于在用户知情的情况下监视加密网络流量。
+➜三星试图封口Galaxy S4手机着火的用户
+https://www.solidot.org/story?sid=37545	26161
+如果一部手机着火了而它又在保修期内，作为厂商的你会有什么反应？显然是换一部手机。然而，如果要换三星手机你可能必须先满足它提出的条件。YouTube用户GhostlyRich本月初上传了Galaxy S4手机着火的<a href="https://www.youtube.com/watch?v=dc4duKuPrQ0"><u>视频</u></a>，幸运的是电池没爆炸，只是留下了烧焦的充电端口，但充电端口坏了之后手机也基本报废了。这部手机还在保修期内。三星随后联系GhostlyRich，称只有他从YouTube移除视频后才能更换有缺陷的手机。GhostlyRich又上传了<a target="_blank" href="https://www.youtube.com/watch?v=2QHd-_qncEU&amp;feature=c4-overview&amp;list=UURtoa8ZwGrsh4LgWM4rXLOA"><u>新的视频</u></a>，第一部视频浏览量只有7万，而新视频超过了32万。三星<a target="_blank" href="http://www.neowin.net/news/samsung-tries-to-silence-user-whose-s4-caught-fire-it-doesnt-go-over-well"><u>没听过史翠兰效应</u></a>？
+➜无人再出于乐趣而建造核反应堆
+https://www.solidot.org/story?sid=37546	29799
+1956年的夏天，一群那个时代最富有想象力的科学家和工程师聚集在一起，目标是设计出一种安全的核反应堆。他们中包括了通用原子的总裁Frederic de Hoffmann、普林斯顿高等研究院的 Freeman Dyson，以及《奇爱博士》的原型Edward Teller。核反应堆TRIGA 成功的关键不是技术创新，而是开放讨论的气氛：每天Teller会提出十个想法，其中大部分听起来非常疯狂；Dyson 等人则通过耐心的工作去芜存菁。TRIGA 受益于最大程度的自由探讨和个人创造力发挥，以及最小程度的官僚干扰。用Dyson的话来说，TRIGA可能是唯一一种让创造者赚钱的反应堆。为什么其它核反应堆没有如此成功？Dyson说，核工业的根本问题不是​​反应堆安全，不是核废料处理，不是核扩散，虽然它们都是真正的问题。核工业的根本问题是，没有人<a target="_blank" href="http://hardware.slashdot.org/story/13/12/07/2111259/nobody-builds-reactors-for-fun-anymore"><u>再出于乐趣而建造反应堆</u></a>。大约在1960年到1970年的某个时候，乐趣被赶出了行业，冒险家、实验家和发明家都被赶了出去。会计师和经理控制了行业。他们认为，让聪明的人玩奇怪的反应堆不符合成本效益。从此以后，奇怪的反应堆消失，同时消失的还有激进改进现有系统的机会。核工业只剩下少数几种反应堆类型，它们中的每一种都演变成了一个巨大的官僚机构，虽然它们并不比被抛弃的替代反应堆设计安全。没有人再出于乐趣而建造反应堆。
+➜美国科技公司联合要求政府彻底改革监控法
+https://www.solidot.org/story?sid=37547	31955
+美国最主要的科技巨头AOL、苹果、Facebook、Google、LinkedIn、微软、雅虎和Twitter联合向总统奥巴马和国会议员发表公开信，要求政府<a target="_blank" href="http://www.theguardian.com/world/2013/dec/09/nsa-surveillance-tech-companies-demand-sweeping-changes-to-us-laws"><u>彻底改革监控法</u></a>。他们的声明发表在<a target="_blank" href="http://reformgovernmentsurveillance.com/"><u>Reform Government Surveillance</u></a>网站上。公开信称，NSA的监控偏离了个人权利，危及人们所珍惜的自由，因此是时候做出改变了。公开信要求政府改革监控法律，确保政府的监控是在法律限制范围内，与威胁级别相称，需要透明，并接受独立监督。
+➜科学家模拟中土气候
+https://www.solidot.org/story?sid=37548	33085
+有没有想过霍比人、精灵、矮人和兽人居住的中土世界的气候？英国布里斯托大学的气候学家 Dan Lunt（又名褐袍巫师Radagast）利用气候模型，模拟了中土世界的气候，并与地球气候进行了一番比较。<a target="_blank" href="http://www.bristol.ac.uk/news/2013/10013.html"><u>结果显示</u></a>，霍比人巴金斯居住的夏尔，气候类似英国的林肯郡和莱斯特郡；索隆的魔多，气候类似洛杉矶和德州西部。Dan Lunt的<a target="_blank" href="http://www.bristol.ac.uk/news/2013/10013-english.pdf"><u>论文</u></a>（PDF）已被翻译到<a target="_blank" href="http://www.bristol.ac.uk/news/2013/10013-elvish.pdf"><u>精灵语</u></a>和<a target="_blank" href="http://www.bristol.ac.uk/news/2013/10013-dwarfish.pdf"><u>矮人语</u></a>。
+➜猫眼看世界
+https://www.solidot.org/story?sid=37549	34438
+<center>
+<iframe src="https://www.youtube.com/embed/rT3Iz5VA2eQ?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+猫、狗、老鼠、老鹰和蜜蜂的视觉都和人类不同，它们眼里的世界显然和人类不同，但究竟如何不同？法国3D设计公司<a target="_blank" href="http://www.3ds.com/"><u>Dassault Systèmes</u></a>和兽医眼科医生Didier Schmidt-Morand合作，根据科学证据重建了不同动物的视觉，推出了一个<a target="_blank" href="http://www.alleyesonparis.com/index_en.html"><u>在线动物视觉模拟</u></a>，从猫、狗、老鼠、老鹰和蜜蜂的眼里<a target="_blank" href="http://www.newscientist.com/article/dn24716-experience-the-world-like-a-hawk-rat-or-bee-in-3d-game.html"><u>体验不同的世界</u></a>。每种动物都有不同的视野、颜色感知和夜视能力，比如猫和狗难以区分红色阴影，老鹰的视觉敏锐超过人类，狗的视野更宽擅长识别移动物体，老鼠是近视眼看不清15厘米外的东西所以要靠墙导航。
+➜研究发现素食和低自杀风险存在相关性
+https://www.solidot.org/story?sid=37550	36438
+日本国立国际医疗研究中心等研究团队的一项调查<a target="_blank" href="http://china.kyodonews.jp/news/2013/12/65191.html"><u>发现</u></a>，越是爱吃蔬菜、大豆、海草、蘑菇等健康食品的人自杀风险越低。调查对约9万名40～69岁男女的饮食倾向进行了调查，平均追踪时间达8.6年。期间共有249人自杀。研究人员向调查对象询问了摄取134种食品饮料的频度，根据饮食偏好将其分成三大类：（1）蔬菜、大豆等“健康型”；（2）肉类、面包、果汁等“欧美型”；（3）米饭、味增汤等“日本型”。研究人员又根据“健康型”饮食倾向的强弱将调查对象分成4个组别并调查与自杀的关系，结果显示“健康型”饮食倾向最强的组别与最弱的组别相比，自杀风险低五成。但“欧美型”和“日本型”不存在类似差异。
+➜日本公司推出特供PM2.5环境使用的图像处理芯片
+https://www.solidot.org/story?sid=37551	38250
+日本公司哉英电子开始出货<a target="_blank" href="http://www.thine.co.jp/zh_cn/news_details/id=768"><u>图像处理器THP7312</u></a>的样品，可用于智能手机、车载摄像机和行车记录仪、安防监控等。THP7312支持1600万像素HD摄像头，可实现通过图像处理器进行硬件防抖修正以及同时拍摄视频加相片等高级功能，且不需要以往必须的DRAM等存储设备及图像处理软件的辅助。为了满足行车记录仪客户在充满PM2.5等颗粒物质及雾霾状态的外部环境中自动读取并记录下前后方车辆车牌号码的需求，THP7312在固件中加入了防雾功能。它也可应用监控街道马路及酒店等公共场所，提高在室外拍摄的画质效果。
+➜恶意程序BlackHole作者Paunch的地下黑客帝国
+https://www.solidot.org/story?sid=37552	41062
+俄罗斯在今年10月初逮捕了恶意程序工具包Blackhole的作者Paunch，上周俄罗斯内政部公布了关于Paunch的<a target="_blank" href="http://mvd.ru/news/item/1387267/"><u>更多信息</u></a>，揭开了Paunch的<a target="_blank" href="http://krebsonsecurity.com/2013/12/meet-paunch-the-accused-author-of-the-blackhole-exploit-kit/"><u>地下骇客帝国</u></a>。27岁的Paunch有超过一千名客户，每月可赚到5万美元。他的Blackhole工具包设计通过被黑的网站和恶意网站，利用浏览器漏洞入侵客户机器安装恶意程序。Blackhole的租赁价格为每月500到700美元，每月额外支付50美元，Paunch还可以提供加密服务，模糊恶意程序减少被安全软件检测出的可能性。Paunch还与另一名同伙合作购买0day漏洞，今年10月，两人将漏洞价格提升到了45万美元。俄罗斯内政部估计，Paunch和他的同伙通过非法活动赚到了7千万卢布，约230万美元。
+➜Fedora 20延期一周发布
+https://www.solidot.org/story?sid=37553	41803
+Fedora 20 Heisenbug的正式发布日期因为重大bug的存在而<a target="_blank" href="http://www.zdnet.com/fedora-20-delayed-for-another-week-due-to-anaconda-7000024071/"><u>延期一周</u></a>，从原计划的12月10日推迟到12月17日。Fedora 20的发布日期此前已经因为bug而延期了二次，最早计划是在11月26日发布，这次需要处理的<a target="_blank" href="https://qa.fedoraproject.org/blockerbugs/milestone/20/final/buglist"><u>bug</u></a>主要存在于安装程序Anaconda中。Fedora是Red Hat资助的社区发行版，发布周期类似Ubuntu的一年两次，上一个版本Fedora 19 Schrödinger's Cat在7月2日发布。
+➜Soylent 1.0配方敲定
+https://www.solidot.org/story?sid=37554	44482
+开发替代食物的Soylent HQ创始人Rob Rhinehart<a target="_blank" href="http://blog.soylent.me/post/68180382810/soylent-1-0-macronutrient-overview"><u>宣布</u></a>，Soylent 1.0配方已经敲定下来。该公司计划最快明年一月向众筹支持者运送Soylent，延期交付的原因是需要解决批量生产问题，beta版其实都是手动包装的。1.0版和beta版配方成分有许多变化：500克一包的Soylent由210g燕麦粉，132g麦芽糖糊精，102g糙米分离蛋白（beta版使用了米和豌豆的蛋白混合物），56g芥花油，6.4g鱼油，38g燕麦纤维、黄原胶和树胶粉构成。每包Soylent含有2400热卡，碳水化合物/脂肪/蛋白质比是50/30/20。
+➜中移动本周接受iPhone订单
+https://www.solidot.org/story?sid=37555	45688
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20131209/bog175823.asp"><u>报导</u></a>，全球用户最多的移动运营商即将在中国推出4G移动服务，而上海移动将从周四起接受iPhone手机的预购订单。中移动的一位客服代表称，用户可以从12月12日起在公司网站和上海一些指定营业网点预订4G服务，但商业化的4G服务只能在12月18日之后开始提供。他表示，中国移动正在为新iPhone准备定价方案，但公司尚未告知客服部门具体细节。分析师称，中移动急于尽早推出4G服务，希望凭藉新iPhone手机来吸引用户使用其利润更高的数据服务。中移动在3G上输给了联通和电信。
+➜中国抢在Google Lunar XPrize获胜者前登月
+https://www.solidot.org/story?sid=37556	46689
+嫦娥三号携带的玉兔月球车计划于12月14日登月，届时中国将成为美国和苏联之后第三个将月球车送上月球表面的国家，而中国也<a target="_blank" href="http://news.discovery.com/space/private-spaceflight/is-china-about-to-scoop-the-lunar-xprize-131208.htm"><u>抢在Google Lunar XPrize获胜者之前</u></a>完成登月任务。总奖金3000万美元的月球XPrize竞赛将向第一位发射月球车登月，行驶至少500米和向地球发送信号的团队奖励2000万美元。中国不可能获得XPrize奖，因为该奖是授予私人团队，而不是政府机构。中国曾有团队参与月球XPrize竞赛，但很早就退出了。 X Prize基金会的项目总监Alexandra Hall说，私人团队不可能在投入上与中国这样的国家展开竞争。

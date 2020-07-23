@@ -1,0 +1,81 @@
+➜韩国实行网络实名制
+https://www.solidot.org/story?sid=4900	1200
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "<a href="http://www.jmnews.com.cn/c/2008/01/07/04/c_5671104.shtml">国内媒体</a>报道，韩国从2008年1月28日起，35家日均页面浏览量在30万以上的门户网站和日均页面浏览量在20万以上的媒体网站，将按照韩国信息通信部将于本年7月27日生效的《促进使用信息通信网络及信息保护关联法》（编者按：哪里能找到该法规原文？）的规定，陆续实施网络实名制。其他网站将在7月27日前实施。35家网站之中，韩国最有影响力的两大商业性门户网站<a href="http://www.daum.net/">DAUM</a>和<a href="http://www.naver.com/">NAVER</a>将率先执行。
+<i>
+根据该法规，登陆这些网站的用户在输入个人身份证号码等信息并得到验证后，方可发帖。此前，韩国已要求网民在注册邮箱和聊天室用户名时使用实名制。为便于网络运营商和使用者适应这一新规定，同时保护网络信息发布者的隐私，韩国信息通信部允许网民在通过身份验证后，用代号等替代自己的真实姓名在网上发布信息。
+<br> <br>
+对违规网站，政府将处以最高3000万韩元(约合25万元人民币)的罚金。根据该法，今后韩国网站如果不主动屏蔽有关淫秽、违法和涉嫌诋毁他人名誉的网络文章和影像资料等，将要对由这些不良信息引发的纠纷负相关法律责任。
+</i> <a href="http://suren.blogbus.com/logs/13498548.html">这里</a>有一篇blog文章对于此事的点评。"
+➜2009：国际天文年
+https://www.solidot.org/story?sid=4901	1800
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "2009年是联合国宣布的国际天文年（IYA2009）。恰值伽利略发明天文望远镜400周年。到目前为止，已有99个国家地区和14个组织加入参与2009国际天文年的活动。(今年则是<a href="__SLASHLINK__" sect="science" sid="07/12/15/0112201" sn="article" tid="50">国际马铃薯年</a>。)
+<i>
+在<a href="http://www.astronomy2009.org/">国际天文年的官方网站</a>上已经能够看到<a href="http://www.astronomy2009.hk/">香港分站</a>，可是中国大陆的分站在哪里呢？"</i>
+➜写一本通俗易懂的FOSS理念与实践指南
+https://www.solidot.org/story?sid=4902	2700
+<a href="http://www.douban.com/people/Google.de">Tony</a> 写道 "祈愿行网站上最近出现一个<a href="http://www.zh.pledgebank.com/gnubook">祈愿</a>：
+"我将 写一本基于Creativecommons协议的关于自由软件(FOSS)理念以及其实践的书，只要10个当地的其他人将 做同样的事情。"
+在讨论栏里，祈愿发起者表示这样一本书将把重点放在FOSS理念的推广与普及方面，特别是下一代的计算机教育……显然，我们在FOSS遍地开花的今天，是该考虑一下把FOSS从神坛上请下来了。"
+➜2008年Linux10个热点技巧
+https://www.solidot.org/story?sid=4903	3600
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "在2008年新年伊始，我想要和大家分享一些Linux技巧。你使用什么版本的Linux并不重要，因为我说的大多数和Linux命令行有关。大多数windows用户可能会对Linux下的命令行怀有一点恐惧之情，不过当真正需要的时候，你会注意到这是高效工作<a href="http://www.yeeyan.com/articles/view/888888/3931">最好的方式</a>。
+阅读、练习下面的指示，舒适的使用Linux；
+<i>
+1. 尽量不要使用命令Ctrl+D结束会话或关闭终端D
+<br>
+&nbsp; &nbsp; * set -o  忽略错误激活 Ctrl+D<br>
+&nbsp;&nbsp; * set +o 忽略错误禁用 Ctrl+D<br>
+.......</i>
+➜Flickr将支持OpenID?
+https://www.solidot.org/story?sid=4904	4200
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "ReadWriteWeb<a href="http://www.readwriteweb.com/archives/flickr_to_authenticate_openid.php">爆料</a>说，Yahoo旗下的图片共享网站<a href="http://www.flickr.com/">Flickr</a>将可能支持OpenID。你将可以用Flickr上的用户页URL作为一个OpenID登录其他支持OpenID的网站。
+<i>查看Flickr上用户页面的源代码，可以看到一行：&lt;link rel=&quot;openid2.provider&quot; href=&quot;https://open.login.yahooapis.com/openid/op/a uth&quot; /&gt;
+<br>但是目前对OpenID似乎还没有开始正式支持。如果直接进入<a href="https://open.login.yahooapis.com/openid/op/auth">https://open.login.yahooapis.com/openid/op/auth</a>, 只有一行提示： This is not a valid OpenID request!
+<br>另外一个有趣的发现是，有一个<a href="https://me.yahoo.com/">https://me.yahoo.com/</a>的网址，进入后提示 ：The user's OpenID provider is <a href="https://open.login.yahooapis.com/openid/op/auth">https://open.login.yahooapis.com/openid/op/auth</a>
+</i>看来Yahoo对OpenID的支持马上就要开始了。"
+➜多样性等于生产力
+https://www.solidot.org/story?sid=4905	6300
+关于中国教育同质性的问题已经讨论了无数次，但从理论上证明同质化的缺陷并不多见。《纽约时报》报道，密歇根大学的复杂系统、政治学和经济学教授Scott E. Page在最近出版的新书《多样性：差异性如何塑造更好的组织、公司、学校和社会》（The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools and Societies）中，用数学模型和案例研究展示按才录用的<a href="http://www.nytimes.com/2008/01/08/science/08conv.html">多样性是如何产生活力的</a>。<i>不是去追问道德，Page博士只是提出了这样一个很实际的问题，“我们一起如果才能有更高的生产率？”他表示不同背景的人会为所在团体提供更多角度看待同一问题的方法，因此能更快/更好的解决问题。如果把不同的方法视作“工具”，那么这些工具集合在一起将会比另一个团体——其中每一个人都来自相似的学校、经过相似的训练和用几乎无差别的思维思考——更强大。我们所处的世界非常复杂，每个人都有可能被欺骗，犯错误。如果团队中每一个人想法都相似，那么每一个人都可能在相同的地方犯错。如果团队中的成员想法都不尽相同，他们犯错的地方也会不同。许多经验数据显示多样性更有效率，最具创造力的公司都具有多样性。Page博士和芝加哥Loyola大学的经济学家Lu Hong一起用数学模型来证明这个理论，论文已经刊登在《<a href="http://www.pnas.org/cgi/reprint/101/46/16385.pdf?ck=nck">美国国家科学院学报</a>》(PDF)上。模型显示差异性团体比由最聪明的人组成的团体在解决难题上做的更好，因为聪明的人想法差不多。</i>
+➜比尔盖茨无意间透露，Vista确实不受欢迎
+https://www.solidot.org/story?sid=4906	17400
+比尔盖茨在CES大会上<a href="http://slashdot.org/article.pl?sid=08/01/08/036204">不经意透露的数据证实</a>，与XP发布第一年的表现相比，<a href="http://www.itnews.com.au/News/67663,majority-of-new-pcs-ship-without-windows-vista-gates-unintentionally-reveals.aspx">Windows Vista确实不怎么受欢迎</a>。
+<i>
+比尔盖茨在消费电子展览会（CES）上宣布，自去年1月发布以来，Windows Vista已经售出了1亿份拷贝。比尔盖茨声称2007年PC总出货量的39%都安装了Vista。从数量上看，Vista比XP第一年的销售量高出10%。但是现在的PC市场是当年的两倍，根据盖茨在2003年CES上公布的数字，Windows XP第一年销售了0.89亿拷贝，占当年PC总出货量的67%。两者一比较，Vista受欢迎程度远不如XP。
+</i>
+➜Torvalds仍然不打算采用GPL V3许可证
+https://www.solidot.org/story?sid=4907	21000
+1月7日，Linux基金会的执行董事Jim Zemlin采访了Linux的创始人Linus Torvalds。采访中，Torvalds依旧表示<a href="http://linux.slashdot.org/article.pl?sid=08/01/08/1431238">不打算改变Linux kernel现有的许可证</a>，他认为与最新的GPL v3相比，<a href="http://computerworlduk.com/toolbox/open-source/kernel-systems/news/index.cfm?newsid=6882">GPL第二版对Linux kernel最有意义</a>。GPL 3，自由软件基金会（FSF）于去年6月发布，反映了FSF自己的目标，但GPL 2却依然是最符合Torvalds所想的许可证。Torvalds称：<i>“我想要选择一个最适合我需求的许可证。在这一点上，目前GPL第二版满足我的需要，比第三版更好。”Linus Torvalds现在为Linux基金会的工作，自GPL v3草案公布以来一直持批评态度。Torvalds指出Linux项目目前存在明显的裂痕，自由软件基金会鼓吹的自由主义宗教信仰和开源运动崇尚的技术优先性之间有冲突</i>
+<a href="http://www.linux-foundation.org/weblogs/openvoices">Open Voices</a>采访录音：<a href="http://linux-foundation.org/weblogs/openvoices/files/2008/01/torvalds5-section1.mp3">MP3</a>，<a href="http://linux-foundation.org/weblogs/openvoices/files/2008/01/torvalds5-section1.ogg">OGG</a>格式。
+➜Shimmer project：隐藏TCP端口
+https://www.solidot.org/story?sid=4908	25800
+<a href="http://shimmer.sourceforge.net/">Shimmer project</a>是用Perl开发一款能不断改变开放连接端口的<a href="http://it.slashdot.org/article.pl?sid=08/01/08/1417214">安全程序</a>，软件分为服务端和客户端，执行方式类似端口碰撞（<a href="http://en.wikipedia.org/wiki/Port_knocking">port knocking</a>），用于隐藏重要的端口(如web服务或SSH)。Shimmer的工作原理是以加密形式改变一组16个端口，其中只有一个是真实的，其余15个是用来欺骗记于黑名单的攻击者。这16个端口每分钟还能自动变化一次，加大攻击难度。合法用户则可以通过客户端和服务端软件识别真实端口，避开黑名单，进行连接。
+<a href="http://sourceforge.net/projects/shimmer/">Shimmer project</a>刚刚发布了0.1版，运行平台Linux/BSD/UNIX-like。
+➜哈勃望远镜将再次升级，观测能力将为最初设计的90倍
+https://www.solidot.org/story?sid=4909	27900
+根据《新科学家》报道，宇航员将在今年8月的飞行任务（除非发射日期推迟）中再次对1990年发射升空的哈勃太空望远镜<a href="http://space.newscientist.com/article/dn13160-upgraded-hubble-telescope-to-be-90-times-as-powerful.html?feedId=online-news_rss20">进行修复和更新设备</a>(第五次检修，新安装的设备将使得哈勃望远镜的观测能力达到最初设计的90倍。由于光学镜头的缺陷，哈勃望远镜在1993年实施了首次大修，大幅度提高了观察能力，但最新的升级仍然比这次修复后的观测能力强60%。预计到时太空望远镜将能够拍摄到创世大爆炸4亿年后的图像。
+➜在移动硬盘上启动Linux的专利
+https://www.solidot.org/story?sid=4910	30000
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道 "<a href="http://forum.ubuntu.org.cn/viewtopic.php?t=100047">原文出处</a>
+<br>大家看看出处的讨论吧。有一点要说的是，我也了解一些专利申请，一般应该是自申请日后6个月就可以公开（公告）以征求意见，但是这个专利拖了一年半，不知道其中是否有什么猫腻~~
+<i>申 请 号： 200610038885.X 申 请 日： 2006.03.16
+<br>名 称： 在移动硬盘上实现启动Linux操作系统的方法
+<br>公 开 (公告) 号： CN101038551 公开(公告)日： 2007.09.19
+<br>
+摘要<br>
+本发明涉及将移动硬盘插入PC的USB端口后，在移动硬盘上实现启动Linux操作系统的方法，其通过在移动硬盘中建立Linux操作系统；进入PC机的 BIOS，将PC机设置为USB-HDD或USB-ZIP方式启动；启动系统引导程序，用户选择Linux的版本，系统引导程序将Linux内核及 Initrd从移动硬盘载入到PC机的内存中；启动 Linux内核，初始化系统并加载任务；进入Initrd的文件系统，切换到移动硬盘上的根文件系统；自动检测硬件设备并自动安装驱动程序，并进行自动配置；启动桌面系统，用户输入用户名和密码后，自动检测硬盘分区，并自动挂载硬盘分区等步骤来实现。"</i>
+➜派拉蒙要放弃HD DVD，Xbox考虑支持蓝光
+https://www.solidot.org/story?sid=4911	31500
+继华纳兄弟之后，<a href="http://hardware.slashdot.org/article.pl?sid=08/01/08/1220213">派拉蒙也准备放弃HD DVD</a>，转向支持蓝光，但这一切短时间内不会发生，因为派拉蒙和梦工厂曾经签署了排他性的HD DVD支持协议；而微软，另一个HD DVD的主要支持者，在CES上表示<a href="http://news.yahoo.com/s/cmp/20080109/tc_cmp/205600852">考虑支持蓝光</a>。这些姿态和话语听起来就像是HD DVD的丧钟，最后的视频格式之争可能真的要结束了。现在只剩下环球，成为最后一个只支持HD DVD的大电影公司，虽然有流言称环球签署的排外性协议有类似派拉蒙那样的终结条款。
+➜基于Firefox浏览器的个人事务助理工具
+https://www.solidot.org/story?sid=4912	44040
+<a href="mailto:zysno1@126.com">匿名懦夫</a> 写道 "国内的在线协作类网站<a href="http://www.mangbar.com/">忙吧</a>推出了一个基于Firefox的toolbar，它们的口号是"把Firefox浏览器变成你的工作台, 上网冲浪再也不会耽误工作!"。
+<br> <br>
+这个toolbar主要提供以下功能:<br>
+<ul>
+<li>在侧栏列出你最近两天的待办事项<br> </li>
+<li>给任务设好闹钟, 时间到了屏幕上跳出提醒窗口<br> </li>
+<li>随时添加新的任务和笔记, 而且可以通过鼠标右键摘抄选中的网页内容作为笔记的内容</li>
+<li>随时通过鼠标右键收藏网页上的图片</li>
+</ul>
+除了这些个人功能，你还可以通过这个toolbar来了解你在忙吧上的好友的最新动态以及参与的群组的最近更新。<br>
+如果你经常使用Firefox浏览器，并且希望使用GTD工具来管理自己的工作和生活,你可以到<a href="http://www.mangbar.com/firefox/extension">这里</a>下载试用一下，也许会对你有所帮助。"

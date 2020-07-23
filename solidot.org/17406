@@ -1,0 +1,50 @@
+➜《半条命 2》 beta 版地图泄漏
+https://www.solidot.org/story?sid=53617	10224
+在《半条命 3》/《半条命 2：第三章》剧情大纲<a href="http://www.solidot.org/story?sid=53599" target="_blank"><u>泄漏</u></a>之后，Mod 开发者根据今年早些时候泄漏的地图发布了后续游戏的 beta 版地图，取名为《<a href="http://www.moddb.com/mods/hl2aftermath/downloads/hl2aftermath-release-1" target="_blank"><u>Half-Life 2: Aftermath - Release 1</u></a>》，内容托管在 Mod 网站 Moddb 上。该 Mod 需要用户安装《半条命 2：第一章》和《第二章》，以及 Source SDK Base 2013 Singleplayer（点击库——工具，搜索 Source），它包含了 Valve 在 2012 年和 2013 年之间创造的 11 个关卡，是为实验游戏玩法设计的，而不是为故事线服务的，其中包含了一种新颖的资源收集原型装置，这些内容可能来自 《半条命 3》/《半条命 2：第三章》项目的早期开发阶段。
+➜BGP 泄漏导致日本网络发生故障
+https://www.solidot.org/story?sid=53618	13641
+上周五，部分地区的网民遭遇了网络连接性故障，网速缓慢或部分网络无法访问。这次事故影响最大的是日本网民。<a href="https://bgpmon.net/bgp-leak-causing-internet-outages-in-japan-and-beyond/" target="_blank"><u>事故是 Google 引发的</u></a>。Google 拥有世界最大的 CDN 网络之一，它不是 ISP ，但 ISP 为了优化与 Google 服务的连接性能而与 Google 建立直接对等联系。但上周五 Google 错误宣布了一个BGP 路由公告，声称它拥有某个 IP 前缀，这一公告被对等的 Verizon 接受了，然后转发给它的下游对等网络，导致了该 IP 前缀的流量路由到 Google 网络，但 Google 不是 ISP ，它不转发目的地是非 Google 网站的流量，于是整个路由路径发生了故障。
+➜中国完成首个水下量子通信实验
+https://www.solidot.org/story?sid=53619	16025
+官媒<a href="http://news.sciencenet.cn/htmlnews/2017/8/386356.shtm" target="_blank"><u>报道</u></a>，上海交通大学金贤敏团队成功进行了首个海水量子通信实验，观察到了光子极化量子态和量子纠缠可在海水中保持量子特性，首次通过实验验证了水下量子通信的可行性。该成果发表在最新一期的《光学快报》杂志上。在实验中，研究人员选择光子的极化作为信息编码的载体，并通过模拟证明，在非常大的损耗和散射下，极化编码的光子只会丢失，而不会发生量子比特翻转。也就是说，即使经历了海水巨大的信道损耗，只要有少量单光子存活下来，仍可被用于建立安全密钥。目前的结果显示，水下量子通信可达数百米。官媒称其具有巨大的军用价值。
+➜中国 ICO 项目备受质疑
+https://www.solidot.org/story?sid=53620	17522
+在美国 SEC <a href="http://www.solidot.org/story?sid=53245" target="_blank"><u>宣布</u></a>对 ICO(首次代币发行)进行监管后，中国也考虑采取类似的行动，并考虑将其列入非法集资予以取缔。在中国，ICO 项目极其火热。业内人士称，中国 ICO 的发行门槛更低，项目发行方甚至没有注册公司，也没有任何的程序。这些 ICO 发行者，往往通过比特币交易所平台如云币网等进行代币发行。云币网由李笑来管理的比特基金投资。李曾是新东方讲师，投资过烤猫矿机，现在是持有比特币最多的人之一。由于现在比特币的价格一涨再涨，李笑来也成为业内神话。公开消息显示，李笑来发布了 EOS、Press.one 等 ICO 项目，但有些项目没有出具 “白皮书”，即项目融资说明书。有业内人士认为，李笑来自己发行 ICO 项目，并将其放到自己投资的平台上进行交易，“相当于交易所参与 IPO”。<a href="http://finance.caixin.com/2017-08-28/101136510.html" target="_blank"><u>并非只有李笑来的项目受到质疑</u></a>。
+➜汉堡王在俄罗斯发行自己的数字货币
+https://www.solidot.org/story?sid=53621	19231
+在数字货币时代，汉堡王重新发明了代金券，叫数字货币显然比叫代金券更动听。汉堡王的俄罗斯子公司<a href="http://fortune.com/2017/08/25/burger-king-russia-cryptocurrency-whoppercoin/" target="_blank"><u>发行了</u></a>名叫 Whoppercoin 的数字货币，客户每购买一个华堡（Whopper）就能在一个特别的数字钱包内收到一个 Whoppercoin。目前还不清楚如何使用 Whoppercoin，可能就像代金券一样能在汉堡王的俄罗斯店面付费时替代部分现金。汉堡王据报道发行了 10 亿 Whoppercoin。
+➜网络买家爱参考评论做出购物决策
+https://www.solidot.org/story?sid=53622	26888
+根据发表在《Psychological Science》期刊上的<a href="https://www.eurekalert.org/pub_releases/2017-08/afps-pfh082117.php" target="_blank"><u>一项研究</u></a>，没有评论就没有收入，如果两个同类商品有着相同的评级，网络买家会购买评论更多的商品。而当购物者面临两个低评级的同类商品，一个有很多评论，另一个评论比较少，购物者仍然会选择评论多的。斯坦福大学的研究员 Derek Powell 认为，从统计学上说，评论少的低评分产品有更大的几率质量还可以。他认为偏爱流行的产品会导致他们做出糟糕的决策。其他人认为他的统计方法<a href="https://tech.slashdot.org/story/17/08/27/1833213/people-are-complete-suckers-for-online-reviews" target="_blank">是错误的</a>：评论少的产品更可能通过虚假评论来提高其评级——即其真实评级比结果更低，而评论多的产品则能让买家对产品的问题更深入的理解，从而做出更好的判断。
+➜《权力游戏》盗版之都
+https://www.solidot.org/story?sid=53623	29349
+《权力游戏》的第七季刚刚落下帷幕，剧情走向和提前剧透的内容基本一致，尽管如此，第七季的《权力游戏》仍然吸引了大量观众，如第一集的官方收视人数超过了 1600 万，全球盗版人数则超过了 9000 万。加州伯克利的副教授 Abigail De Kosnik 和她的丈夫分析了 BitTorrent 上的《权力游戏》非法下载数据，<a href="https://qz.com/1063142/how-people-are-watching-game-of-thrones-online-illegally/" target="_blank"><u>发现 BT 下载量最多的城市</u></a>是韩国首尔、其次是希腊雅典、巴西圣保罗、中国广州、印度孟买、印度班加罗尔、中国上海、沙特利雅得、印度德里和中国北京；但盗版下载比例最高的城市是美国达拉斯，广州排在第十位。研究者承认他们的分析无法区分出 VPN 下载。
+➜实验证明天王星和海王星会下钻石雨
+https://www.solidot.org/story?sid=53624	31544
+科学家根据计算推测，气态巨行星天王星和海王星表面下方数千公里处的压力是如此之大，以至于碳原子被挤压形成了钻石，这些钻石以雨的形式落在行星的固态核心，固态核心的外层可能覆盖了厚厚的一层钻石。但至今没有人观察到钻石雨。现在，斯坦福直线加速器中心的科学家首次在实验室受控环境下<a href="https://cosmosmagazine.com/space/scientists-recreate-diamond-rain-of-uranus-and-neptune-in-lab" target="_blank"><u>创造出了钻石雨</u></a>。研究人员模拟行星内部环境，利用激光让塑料暴露在致密能量产生的冲击波下，导致塑料上的几乎所有碳原子结合成了类似钻石的结构。<a href="https://www.nature.com/articles/s41550-017-0219-9" target="_blank"><u>研究报告</u></a>发表在《Nature Astronomy》期刊上。
+➜亚马逊会员计划为何在中国不成功
+https://www.solidot.org/story?sid=53625	32639
+亚马逊去年在中国推出了 Prime 会员计划，当时该公司押注，通过提供在中国不容易找到的西方商品和免费国际配送服务，亚马逊足以在这个全球最大电商市场获得增长动能。但据零售行业分析人士，<a href="http://cn.wsj.com/gb/20170828/tec150103.asp" target="_blank"><u>这种情况并没有发生</u></a>，从中可以看出美国科技公司尝试在中国这样一个对外来公司设立很高壁垒且本国竞争对手日益老练的市场上展开竞争所面临的困难。零售行业分析人士称，亚马逊在中国的挑战，主要来自中国市场的竞争，而不是在华经商的基本规则。亚马逊的一位发言人说，自去年 10 月在中国推出 Prime 以来，中国消费者反响强烈，会员数量自今年年初以来增加了一倍以上。她没有提供具体数字。
+➜中国首例人体冷冻
+https://www.solidot.org/story?sid=53626	33715
+新京报报道了<a href="http://www.bjnews.com.cn/inside/2017/08/28/455830.html" target="_blank"><u>中国本土首例人体冷冻者</u></a>。<i>冷冻者的遗体保存在零下 196 度、高约 4 米的不锈钢液氮罐中，每隔 10-12 天需要补充液氮。人体冷冻价格不菲，固定支持包括液氮罐、程序降温仪、体外循环机、呼吸机、实验室搭建等费用加起来至少接近 700 万，而此后每隔十几天就需补充一次液氮，每年大概需投入 5 万元。这些费用大部分来自银丰生命科学公益基金会的资助，冷冻者的丈夫向基金会捐了一笔款，但他并未透露具体数额，只说 “尽自己能力捐了很少一笔”。</i>
+➜中小学语文历史等三门课将使用统一教材
+https://www.solidot.org/story?sid=53627	38349
+官媒<a href="http://china.caixin.com/2017-08-28/101136760.html" target="_blank"><u>报道</u></a>，9 月 1 日秋季开学时，中国所有地区的公立中小学初始年级的三个科目将启用教育部统编的教材。三科目为 “道德与法治”“语文” 和“历史”。此举意味着此前在这三个科目上使用的 “人教版” “粤教版” “苏教版” 等多种形态的教材将告别历史舞台。教育部部长助理、党组成员、教材局局长郑富芝介绍，新启用的教材由教育部根据中央要求，从 2012 年开始统一组织编写，历时 5 年编审完成，于 2017 年上半年经国家教材委员会审查通过。 郑富芝介绍，此三科教材意识形态属性比较强，国家统一编写、审查和使用三科教材，有利于更好地 “强化国家意志”“贯彻党的教育方针”“落实社会主义核心价值观”。
+➜欺诈性捐款涌向 MalwareTech 的法律辩护基金
+https://www.solidot.org/story?sid=53628	42515
+英国安全研究员 Marcus Hutchins，aka MalwareTech，本月早些时候因被控开发和传播了银行木马  Kronos 而在美国遭到逮捕，他否认了所有指控，目前已经保释，停留在美国等待审讯。然而，为 Hutchins 一案辩护而筹集的诉讼基金<a href="https://arstechnica.com/tech-policy/2017/08/malwaretechs-legal-defense-fund-bombarded-with-fraudulent-donations/" target="_blank"><u>面临一大波欺诈性的捐款</u></a>，至少 15 万美元的捐款来自于被盗窃的信用卡或虚假的信用卡号码。为基金提供支付处理的服务商拒绝了大部分捐款，出于谨慎 5 千到 1 万美元的捐款都被退回。代表 Hutchins 筹集诉讼基金的 Tor Ekeland 称，他们不想要冒风险收取欺骗性的捐款。
+➜古代泥板透露巴比伦人发现了三角法
+https://www.solidot.org/story?sid=53629	43302
+对有 3700 年历史的泥板 Plimpton 322 的最新研究认为，巴比伦数学家比希腊人<a href="http://www.sciencemag.org/news/2017/08/ancient-babylonian-tablet-may-contain-first-evidence-trigonometry" target="_blank"><u>早一千多年发现了三角法</u></a>。但其他专家认为这项工作最多是猜测。Plimpton 322 由 4 列 15 行数字构成，其中并不存在我们所熟悉的正弦、余弦和角的概念。Plimpton 322 的每条包括了一个直角三角形的两条边的信息：短边与长边的比，短边与斜边的比。新南威尔士大学的数学家认为，巴比伦表达三角学使用的是他们的 60 进制数而不是我们所熟悉的角。<a href="http://www.sciencedirect.com/science/article/pii/S0315086017300691" target="_blank"><u>研究报告</u></a>发表在《Historia Mathematica》期刊上。有兴趣的人可以看他们的 <a href="https://youtu.be/L24GzTaOll0" target="_blank"><u>YouTube 视频</u></a>。他们认为三角法不用到角打开了新的思路。
+➜无人机快递在东非起航
+https://www.solidot.org/story?sid=53630	45504
+<div align="center"><img src="http://img.solidot.org/0/405/li4yY42YmZzaw.gif" width="500" align="" height="272"><br>
+</div>
+<br>
+无人机快递创业公司 <a href="http://flyzipline.com/">Zipline</a> 宣布其服务从卢旺达扩大到坦桑尼亚，该公司主要是利用无人机向大医院和农村的小诊所<a href="http://spectrum.ieee.org/the-human-os/robotics/drones/africa-leads-the-world-on-drone-delivery" target="_blank"><u>空投紧急的医疗物品和补给</u></a>。公司 CEO Keller Rinaudo 称，当世界著名的企业如 Google 和亚马逊还在尝试如何商业化无人机快递时，世界上第一个按需无人机配送服务已经在卢旺达运作了。Zipline 计划在坦桑尼亚建立四个配送中心，装备最多 30 架固定翼无人机，每个配送中心每天能处理 500 次配送飞行。他们将为医院送去血液包、疫苗、艾滋病药物、抗疟疾药物，以及缝合线和 IV 管之类的重要医疗供应物品。自 2016 年 10 月以来，Zipline 执行了 1400 次配送飞行。
+➜你的个人信息是世界最有价值的商品
+https://www.solidot.org/story?sid=53631	47204
+数据是<a href="http://www.cbc.ca/news/technology/data-is-the-new-oil-1.4259677" target="_blank"><u>新时代的石油</u></a>，虽然大石油公司从收入上看仍然比主要科技公司高，但数据代表着未来，它们的股价<a href="https://yro.slashdot.org/story/17/08/25/2143228/your-personal-information-is-now-the-worlds-most-valuable-commodity" target="_blank"><u>反应了这一预测</u></a>，苹果、亚马逊、Facebook、微软以及 Google 母公司 Alphabet 如今是世界上市值最高的五家企业，而苹果的市值被认为有望突破一万亿美元，这些企业的影响力和实力已经超过了许多国家。五大巨头中的
+Google 和 Facebook 提供的是免费服务，在用户使用他们的平台时，他们会收集我们各个方面的数据。这些数据给了他们巨大的权力，权力产生了更多的权力和更多的利润。数据可以改进他们的工具和服务，企业能根据我们使用他们产品的方式进行学习，根据需求进行调整，并能更早的识别出新的趋势，他们能在小型企业或
+竞争对手在成为威胁前将其收购。当 Google 和 Facebook 控制 88% 的互联网广告时，其它互联网经济则为了有限的资源在挣扎。

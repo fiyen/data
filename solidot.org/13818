@@ -1,0 +1,29 @@
+➜科学家首次观察到恐龙群体活动的化石证据
+https://www.solidot.org/story?sid=4292	600
+《侏罗纪公园》中关于迅猛龙（"raptor" dinosaurs）描述看起来是正确的，它们是一群可怕的（对食草恐龙而言）、喜欢扎堆的恐龙——至少1.2亿年至1亿年前生活在中国山东的那一种类是如此。中美古生物学家首次从恐龙留下的脚印痕迹化石中观察到了<a href="http://www.newscientist.com/article.ns?id=dn12843&amp;feedId=online-news_rss20">群体活动行为</a>。
+<i>
+由青岛海洋地质学院的李立辉（Rihui Li）和山东第四地质矿石资源勘查队的刘明威（Mingwei Liu）在2005年发现的古痕迹显示了6只恐龙（Dromeosaurs）以平行的方式步行，没有交叉（化石分析显示脚印是同时留下的）。虽然没有证据认为它们是一起去捕猎，但是这些食肉动物留下了致命的爪印，脚印显示每一只脚上都有一个尖爪。这种群居性，可能是食肉的恐龙属于兽脚亚目，正式名称Dromaeopodus shandongensis。它的大小与人相近，两脚行走。通过测量脚印，科学家估计它们的站立高度大约1.2米，重量大约为90公斤。有爪子的恐龙最著名的就是侏罗纪公园里的迅猛龙。“<a href="http://deseretnews.com/article/1,5143,695222763,00.html">成群活动一般总是和智能行为联系在一起</a>。一起活动，很有可能也是一起捕捉猎物。”</i>
+<a href="http://uk.youtube.com/watch?v=bIQJ86kiXcg">电脑模拟动画</a>
+➜Google即将推出“Gmail 2.0”
+https://www.solidot.org/story?sid=4293	8100
+Google首次承认将<a href="http://www.informationweek.com/news/showArticle.jhtml?articleID=202800313">改变Gmail的UI</a>。博客Philipp Lenssen<a href="http://blogoscoped.com/archive/2007-10-29-n47.html">公布了Gmail新界面截图</a>，少数用户已可使用新界面的Gmail。他们把新Gmail称为Gmail 2.0，虽然Google并没有认同这一名称。Google的发言人表示，大约有1%的Gmail用户现在可以使用新版Gmail，以后会陆续扩大到其余用户。
+在多个利好消息的刺激下，昨天Google的股票上升到了<a href="http://www.techweb.com/financialCenter/index.jhtml?Account=techweb&amp;Page=QUOTE&amp;Ticker=GOOG">707美元</a>，比前天上涨了12%。
+➜Ubuntu也许将成为你的笔记本硬盘杀手
+https://www.solidot.org/story?sid=4294	17400
+Ubuntu系统的ACPI电源管理默认设置<a href="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258">存在问题</a>，当用户切换到电池供电模式时，/etc/acpi/power.sh向所有块设备发出一个hdparm -B 1命令，这会导致出现频繁的负荷循环（load cycles）。发现<a href="https://launchpad.net/bug59695.html">Bug #59695</a>的用户称仅在100小时内就出现了7000次负荷循环。大多数笔记本硬盘只能承受至多60万次此类循环，这意味着它会大幅度减少笔记本硬盘的寿命。SATA硬盘用户可以输入“smartctl -d ata -a /dev/sda”命令来查看负荷循环次数，但需要先安装Smartmontools软件包（apt-get下）。
+➜搜寻海盗的机器人
+https://www.solidot.org/story?sid=4295	21600
+世界范围内配备有高科技装备的海盗在公海上是越来越猖獗了。为了搜寻这些出没不定的海上强盗，美国海军（Navy）和海岸警卫队投资研究了一种<a href="http://www.popularmechanics.com/science/robotics/4229443.html">新型的超高速装备武器的无人驾驶舰艇</a>（USV），Navy正在测试两种小型USV验证原型。Navy和海岸警卫队都对英国BAE系统公司、洛克希德马丁公司以及以色列国防设备公司RAFAEL设计建造的30英尺长的Protector号无人驾驶舰艇极感兴趣。Protector装备了7.62mm机枪，它的设计意图最初并非是搜寻海盗。但BAE的发言人声称机器人完全可以满足此项特别任务，它的改良型还具有潜在商业用途。为了防止误击商业船只，非致命性的变型可以更多用来执行危险性较低的任务。以色列和新加坡海军目前已经部署了Protector。
+➜Opensolaris：Project Indiana预览版发布
+https://www.solidot.org/story?sid=4296	23100
+Sun的开源项目OpenSolaris（Project Indiana）今天正式发布了<a href="http://opensolaris.org/os/about/">开发者预览版</a>，同时放出了基于x86的LiveCD 镜像。预览版可能不太稳定，它包含了许多独特的技术：单LiveCD镜像，先试用再安装；Caiman安装程序，改进安装体验；默认文件系统ZFS；镜像包管理系统，可从网络上下载软件；GNOME 2.20桌面环境。更多可查看<a href="http://opensolaris.org/os/project/indiana/resources/getit/">说明文档</a>，<a href="http://dlc.sun.com/osol/indiana/downloads/current/in-preview.iso">下载</a>（ISO）。
+➜BitTorrent协议不确定的未来
+https://www.solidot.org/story?sid=4297	26460
+新版的BitTorrent协议正在开发之中，<a href="http://securep2p.net/index.php/ProtocolDesgin">它将成为目前协议的继任者</a>。最初协议作者Bram Cohen创建的BitTorrent公司已经在不久前宣布闭源，新协议中的一些新功能将不对外公开，赋予了这家公司更强大的权力和影响力。海盗湾已经宣布要开发自己的协议，替代BitTorrent协议的新协议将改变文件格式，从以前的.torrent格式<a href="http://torrentfreak.com/the-pirate-bay-sees-a-future-without-bittorrent-071030">转变成.p2p</a>，但仍然向后兼容目前的.torrent文件。
+➜大脑会对特定的数字产生反应
+https://www.solidot.org/story?sid=4298	29700
+新科学家报道，科学家发现<a href="http://www.newscientist.com/article/dn12849-monkeys-reveal-brain-is-hardwired-for-counting.html">非人属的灵长类动物确能理解数字的意义</a>。对两只猕猴的研究显示它们的脑细胞会响应特定的数值——无论是屏幕上的点的数量还是阿拉伯数字。例如猴子的脑细胞会对数字3作出反应，但对数字1完全没有反应。研究结果也可以延伸到人类的大脑，人脑中某个特定的细胞也许会偏爱某个数值。研究论文发表在PLoS Biology，标题是<a href="http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0050294&amp;ct=1">Semantic Associations between Signs and Numerical Categories in the Prefrontal Cortex</a>。
+➜香港就是中国的未来？
+https://www.solidot.org/story?sid=4299	31500
+香港的流行文化对当前中国的影响是深远的。当今<a href="http://www.time.com/time/magazine/article/0,9171,1675626,00.html">中国的“Me”一代</a>强调自我，对政治不感冒，崇尚实用主义和消费主义。许多现象都显示着大陆<a href="http://www.mindmeters.com/showlog.asp?log_id=6383">正与特区香港越来越相像</a>。89年以前的文化热转变成了政府积极推动的重商主义，高速增长的经济政策对中国的文化体制和现状产生了翻天覆地的影响。高速增长容易变成暴发，暴发文化就是一种反智投机的价值观。作者认为：<i>
+中国人现是享有着前所无有的自由。表面上是各百花齐放，但实质上来说，中国文化近几年是向下走，原因首先是大学扩招政策，大学生人数几何级数向上；大学不再是精英培养的场所，而只是职业训练学校又或者是减低失业率的机器，人文艺术学科在大学没有了市场，中国社会再不需要“曲高和寡”的精英了，而一些反智学科如工商管理便成为天之骄子，简单一点来说，有钱最主要，这就是暴发文化的源头。</i>

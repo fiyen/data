@@ -1,0 +1,69 @@
+➜安全部署：STIG for Debian
+https://www.solidot.org/story?sid=44494	8678
+<a href="http://hardenedlinux.org/">Shawn the R0ck</a> 写道<i> "2015年6月19日，<a target="_blank" href="http://hardenedlinux.org/">Hardened GNU/Linux社区</a>公布了<a target="_blank" href="http://hardenedlinux.org/jekyll/update/2015/06/19/STIG-4-Debian.html">STIG for Debian</a>的第一个版本，<a target="_blank" href="http://iase.disa.mil/stigs/Pages/index.aspx">STIG（安全技术实现指南）</a>是由DISA为了给DoD(美国国防部）提供的一套防御指南，随着Sn0wd3n曝光BIG BROTHER在攻击方面的信息越来越多，关注老大哥怎么做防御是需要的，在今年的某会上，有一位speaker在其题目为《<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzA4Nzk5Njc5NQ==&amp;mid=205819513&amp;idx=1&amp;sn=7651f64ebc58a9a2daa04640d9027143&amp;scene=2&amp;from=timeline&amp;isappinstalled=0&amp;key=af154fdc40fed00308a85e8b2070e02f34e782bed534fc9b0cfe382ca0c1598dc594e152f2a7f00c2bb555bfbe7d956b&amp;ascene=1&amp;uin=MjM2NzUwNTkzMA%3D%3D&amp;devicetype=webwx&amp;version=70000001&amp;pass_ticket=IfKaQhXmF38D7r8KF5YkqZllY7nkhVqAt4Zk0KkoSdpUjftjiQIFQoy%2BX0HthvEN">从工程化实施角度构建私有云安全防护体系</a>》也曾经提到过STIG的参考价值。为什么会选Debian GNU/Linux呢？有几点原因：1,Debian的稳定性非常好，运行在世界很多数据中心的生产环境。 2, Debian的安全性较好，除了Gentoo外几乎其他GNU/Linux发行版无法比拟,而Debian也有<a target="_blank" href="http://www.solidot.org/story?sid=39541">Mempo项目支持</a>和独一无二的<a target="_blank" href="https://wiki.debian.org/ReproducibleBuilds">ReproducibleBuilds</a>。 3, Debian社区有大量的高质量贡献者（Security team超过20个人业余时间贡献）。STIG for Debian是参考了STIG for RHEL的实现，去除了一些Debian没有的或者以另外方式实现的功能，具体请<a target="_blank" href="https://github.com/hardenedlinux/STIG-4-Debian">查询porting log</a>。
+</i>btw：棱镜事件的影响之一是导致国内产生了开源咨询这个快速增长的行业，而GNU/Linux作为基础架构也是充满了机遇，希望STIG for Debian能为Debian GNU/Linux在数据中心的推进助力一把。
+"
+➜Adblock Plus加入大规模部署功能
+https://www.solidot.org/story?sid=44495	12156
+Adblock Plus<a target="_blank" href="http://www.techweekeurope.co.uk/e-marketing/adblock-plus-it-administrators-deployment-170466"><u>释出了一个新功能</u></a>，允许IT管理人员在企业或机构内大规模部署广告屏蔽软件。这项功能被称为LSD (Large Scale Deployment) ，是 Adblock Plus 1.9的一部分， IT管理人员可以一次性的在数千台电脑上安装Adblock Plus。开发商还表示它解决了广告过滤影响影响的问题。Mozilla曾经发表<a target="_blank" href="http://www.solidot.org/story?sid=39539"><u>一项研究报告</u></a>，指出使用AdBlock Plus会大幅增加内存占用和导致载入很慢。
+➜NASA的尿液处理工程师
+https://www.solidot.org/story?sid=44496	13473
+Jennifer Pruitt的职位可能是NASA，甚至是全球航天工业中最有意思的一个，<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2015/06/150618_vert_fut_space_station_toilet"><u>她是尿液处理首席工程师</u></a>。“这一头衔是我喜欢这个工作的其中一个原因，”她自豪地说道，“世界上并没有很多人从事这项技术。”Pruitt的目标是设计出最高效的方式来从宇航员的尿液中提取出饮用水。尿液中含有大约95%的水，其余部分由人体废弃的化学物质构成，如果从国际空间站的厕所中可以循环使用更多的水，那么以昂贵成本将饮用水运到空间站的量就会少很多。“当宇航员使用卫生间时，我们不能听凭尿液自己进入系统中，”Pruitt解释道，“我们必须在其中加入额外的外学物质，来阻止尿液的分解，并防止细菌滋生。”这一预处理步骤只是的空间站厕所水回收系统复杂流程的第一步。回收的饮用水除了从尿液回收的之外，还包括了从国际空间站空气中过滤出来的水分，其中大部分是宇航员的汗水。NASA估计，平均每位宇航员在长达一年的任务中需要喝下730升回收自尿液和汗水的水。
+➜LibreOffice进入苹果Mac应用商店，提供付费版本
+https://www.solidot.org/story?sid=44497	15763
+最流行的自由软件办公软件LibreOffice<a target="_blank" href="http://www.itworld.com/article/2935631/open-source-tools/libreoffice-now-available-on-apples-mac-app-store.html"><u>进驻了苹果Mac应用软件商店</u></a>，Mac用户将可以选择专业技术支持服务。苹果商店里的LibreOffice有两个版本：LibreOffice from Collabora和LibreOffice Vanilla，后者是免费的，而前者提供了来自 Collabora的技术支持，费用为10美元。Collabora是一家英国的开源咨询服务公司。付费版本主要针对的是企业和公共服务部门，提供了三年的更新支持。LibreOffice Vanilla是最新版本，而LibreOffice from Collabora则是基于稳定分支。根据自由软件基金会的<a target="_blank" href="https://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement"><u>说法</u></a>，GPL协议与苹果商店的用户许可协议存在冲突，GPL软件无法进入苹果应用商店，但LibreOffice采用的不是GPL而是<a target="_blank" href="http://www.libreoffice.org/download/license/"><u>MPL许可证</u></a>。
+➜阿里巴巴的云服务得到政府的青睐
+https://www.solidot.org/story?sid=44498	17824
+阿里巴巴与中国十几个省市签署云计算协议，其中包括海南、广东、天津及上海。 它也与中国气象局、中央国家机关政府采购中心、中国铁路客户服务中心进行合作。本周它在大连达成一笔交易建立云计算中心提供在线政务服务如缴费。<a target="_blank" href="http://news.yahoo.com/still-underdog-china-govt-deals-help-alibabas-cloud-015951440--finance.html"><u>阿里巴巴的云服务得到政府青睐</u></a>的背景是北京对外国技术日益偏执。Greater China的James McGregor说，阿里巴巴跟进了政治趋势，抓住了商业机会，“中国想要控制它的信息，控制它的数据，控制它的新闻，控制科技食物链，所以这里有着巨大的机会。”
+➜狒狒们共同决定去哪儿
+https://www.solidot.org/story?sid=44499	18736
+一个国际研究团队在《科学》期刊上<a target="_blank" href="http://www.sciencemag.org/content/348/6241/1358.abstract"><u>发表论文</u></a>，称他们在野生狒狒中找到了共同决策的证据，这一发现支持民主可能是集体行为的一种固有特性的结论。研究人员一直想知道，有着明确社会等级的动物（如灵长类或狼）是以民主方式来取得共识，还是由处于支配地位的首领做出决定。研究人员给25只野生狒狒装了GPS颈圈，记录一天中狒狒在每一秒的位置，分析它们相互间的移动。他们的数据发现了狒狒<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-06/aaft-bdw061515.php"><u>协商决定去哪里的证据</u></a>。这一发现表明，共同的、民主性的决策是广泛存在的，即使在有着高度层级化社会等级的物种中也是如此。
+➜小米路由器劫持特定网页插入应用推广广告
+https://www.solidot.org/story?sid=44500	26920
+<a href="mailto:oshirisu.red@gmail.com">陈少举</a> 写道 "2015年06月19日，V2EX社区<a href="https://www.v2ex.com/t/199701" target="_blank">有用户报告称</a>，访问豆瓣电影时，网页上会出现小米路由手机App的广告信息。虽然小米路由器劫持<a href="http://weibo.com/1130847487/ChlFCe3tV" target="_blank">HTTP404错误页面</a>、<a href="http://weibo.com/3659458434/Cig7qBkwV" target="_blank">HTTP403错误页面</a>，已经遭人诟病，不过事后小米官方推出了<a href="http://www.miui.com/thread-2569023-1-1.html" target="_blank">关闭HTTP错误劫持功能的开关</a>。<i>
+通过<a href="http://pastebin.com/4t7eKNsA" target="_blank">进一步分析</a>小米路由器的页面劫持广告原理，发现存在一个具体的劫持清单，若用户访问的网址存在于此清单中，则会劫持页面并插入广告代码，而此代码存储于&nbsp;<a href="http://api.miwifi.com/toolbar?device_id=58cd969a-6bdf-4997-88cc&amp;host=yueyu.cntv.cn&amp;uri=/2015/06/18/ARTI1434593299845352.shtml&amp;rom=2.3.31&amp;hardware=R1D&amp;channel=stable" target="_blank">api.miwifi.com</a>&nbsp;，全程明文通信，并且没有任何加密。
+<p></p>
+<p>
+</p>
+<p>
+</p>
+<p>由于目前小米路由器没有加密认证机制确保传输的广告内容不被更改，若小米路由器的广告代码访问域名&nbsp;api.miwifi.com 被网络运营商或恶意劫持，则可能可以推送任意内容，包括恶意内容给小米路由器的用户。</p>
+<p>
+</p>
+<p>
+</p>
+此类智能路由器作为用户的入口，<a href="http://www.solidot.org/story?sid=35860" target="_blank">可能存在较多隐患</a>，加上厂商对于用户所传输的数据进行<a href="http://www.solidot.org/story?sid=38268" target="_blank">精确掌控</a>与<a href="http://www.solidot.org/story?sid=44154" target="_blank">收集</a>，以及进行<a href="http://www.solidot.org/story?sid=31641" target="_blank">大数据的处理与分析</a>，<a href="http://www.solidot.org/story?sid=42553" target="_blank">未来可能会对用户的隐私产生难以预料的影响</a>。"</i></p>
+➜IPv6普及度近况
+https://www.solidot.org/story?sid=44501	29244
+<div align="center"><img src="http://img.solidot.com.cn/0/801/libKIqjNWidhY.png" align="" width="480" height="596"><br>
+<br>
+</div>
+未来几周，又有一个地区性IP地址分配机构将面临IPv4地址空间枯竭：2011年初IANA分配掉了最后可用的IPv4地址池，之后我们看到亚太区的IPv4地址空间在2011年4月枯竭，欧洲和中东地区是2012年9月，拉美和加勒比地区是2014年5月，最新一个是负责北美地区的分配机构ARIN。截至2015年6月中旬，ARIN的可用池里只剩下220万个IPv4地址，按照目前的分配速度，大约30天后这些地址将会被分配光。地球上大约100亿个联网设备，而IPv4地址空间大约有40亿个，真正使用的地址大约有10亿到20亿个，有大量的地址被共享。尽管空间告急，但<a target="_blank" href="http://www.potaroo.net/ispcol/2015-06/ipv6.html"><u>IPv6的普及度仍然不足1%</u></a>。普及度最高的国家是比利时，超过40%的用户使用IPv6，之后是美国、德国、秘鲁和卢森堡。美国的IPv6用户高达6274万，占人口比例的22.21%，远远超过其它任何国家，中国IPv6用户不到500万，可能大部分都是<a target="_blank" href="http://www.edu.cn/ip6_6476/"><u>教育网</u></a>的用户。
+➜美国研究人员认为衰老是一种可治疗的健康状况
+https://www.solidot.org/story?sid=44502	33402
+美国的医生和科学家准备在下周与美国食品药品管理局的监管者<a target="_blank" href="http://www.nature.com/news/anti-ageing-pill-pushed-as-bona-fide-drug-1.17769"><u>讨论抗衰老临床测试</u></a>。研究人员认为，抗衰老治疗能通过延缓衰老相关疾病的过程去延长人的健康年份。爱因斯坦医学院的Nir Barzilai指出，现有的衰老相关疾病治疗只是用一种疾病交换另一种疾病，因为接受一种衰老相关疾病治疗的人最终会死于另一种衰老相关疾病，他们认为延缓衰老是推迟疾病的最佳方法。他们准备测试的抗衰老药物是一种治疗糖尿病的药物二甲双胍（Metformin），他们准备向数千患有一种或两种或三种衰老相关疾病的病人测试二甲双胍的疗效，II型糖尿病的患者不参与测试。如果临床测试有效，研究人员相信他们就证明了这种药物能延缓衰老。
+➜Facebook的审查：内容限制
+https://www.solidot.org/story?sid=44503	34427
+电子前哨基金会（EFF）<a target="_blank" href="https://www.eff.org/deeplinks/2015/06/why-facebook-failed-our-censorship-test"><u>称</u></a>，Facebook在它的“<a target="_blank" href="https://govtrequests.facebook.com/"><u>政府请求报告</u></a>”中列举了大量“内容限制”案例。而所谓的内容限制其实就是审查的别名。举例来说，去年下半年Facebook在印度境内限制用户访问<a target="_blank" href="https://govtrequests.facebook.com/country/India/2014-H2/"><u>5832个内容条目</u></a>，这些内容被印度认为是可能会导致社会动乱和破坏社会和谐的反宗教言论和仇恨言论。但在美国，内容限制一栏是空的，看起来美国不存在内容限制。但EFF指出这是不真实的，因为他们已经知道Facebook收到了大量隐藏账户的要求。Facebook没有坦诚它在美国收到的内容限制访问要求。
+➜reddit准备默认启用HTTPS
+https://www.solidot.org/story?sid=44504	35558
+reddit成为最新一个宣布默认启用HTTPS的网站。这家社交新闻网站<a target="_blank" href="https://www.reddit.com/r/redditdev/comments/39zje0/reddit_will_soon_only_be_available_over_https/"><u>宣布</u></a>从6月29日起拒绝明文HTTP流量。reddit从去年9月<a target="_blank" href="http://www.redditblog.com/2014/09/hell-its-about-time-reddit-now-supports.html"><u>开始支持HTTPS</u></a>，但当时没有默认启用。在本月早些时候，维基百科宣布<a target="_blank" href="http://www.solidot.org/story?sid=44425"><u>默认启用HTTPS</u></a>；白宫也要求所有提供公开访问联邦机构网站必须<a target="_blank" href="http://www.solidot.org/story?sid=44402"><u>切换到HTTPS</u></a>；而Let's Encrypt项目准备在今年9月<a target="_blank" href="http://www.solidot.org/story?sid=44479"><u>开放免费证书签发</u></a>。
+➜Unicode 8.0发布，包括37个新绘文字
+https://www.solidot.org/story?sid=44505	38983
+<div align="center"><img src="http://img.solidot.com.cn/0/802/liHJKT44scuUc.png" align="" width="360" height="344"><br>
+<img src="http://img.solidot.com.cn/0/803/liW4gdTQXkNGA.png" width="420" height="224"><br>
+</div>
+<br>
+Unicode联盟公布了<a target="_blank" href="http://www.unicode.org/versions/Unicode8.0.0/"><u>Unicode 8.0</u></a>正式规格，增加了7716个字符，包括加入6种新文字和更新中日韩统一表意文字。此外Unicode 8.0还<a target="_blank" href="http://blog.emojipedia.org/unicode-8-what-and-when"><u>加入了</u></a>37个新绘文字和5个实现肤色多元化的绘文字修饰符（下图，苹果已经支持）。你使用的浏览器和操作系统应该还没有完全支持这些新的字符，需要等待未来的更新。37个新绘文字包括了<a target="_blank" href="http://emojipedia.org/burrito/">玉米煎饼</a>、独角兽的头部、爆米花、热狗、<a target="_blank" href="http://emojipedia.org/nerd-face/"><u>Nerd Face（</u></a>上图）等等。
+➜美团应用被发现硬编码杀死竞争对手应用的进程
+https://www.solidot.org/story?sid=44506	41811
+一位程序员在反编译美团外卖商家版Android应用后<a target="_blank" href="http://www.zhihu.com/question/31413252"><u>发现了</u></a>一个杀死后台运行进程的权限，而调用该权限杀死的是美团外卖商家版的四个竞争对手饿了么商家版、点评商家版、淘点点商家版和百度外卖商家版，美团的程序员直接将这四个应用程序的名字硬编码在程序中。这一发现引发了许多人对3Q大战的记忆，但美团的程序员/前程序员<a target="_blank" href="http://www.zhihu.com/question/31413252/answer/51839267"><u>回应称</u></a>，这段代码与恶意杀死竞争对手应用无关，而是为了处理蓝牙打印机打印小票的问题。商家版应用是提供给商家，而商家可能是出于最大化收入的考虑会同时安装多种商家应用。蓝牙打印机只能连接一个应用，如果美团的应用需要使用已被其它应用占用的蓝牙端口时会出现打印失败，这段硬编码的代码就是在出错时杀死占用端口的进程。美团副总裁王慧文<a target="_blank" href="http://www.zhihu.com/question/31413252/answer/51834580"><u>也持同样的说法</u></a>。
+➜视频游戏有助于人们应对恐怖袭击的紧急状况
+https://www.solidot.org/story?sid=44507	44189
+<div align="center"><img src="http://img.solidot.com.cn/0/804/li9QU1DWOpxjM.jpg" align=""><br>
+<br>
+</div>
+发表在《Computers in Human Behavior》的<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0747563215002757"><u>一篇论文</u></a>指出，严肃游戏有助于人们应对恐怖袭击之类的紧急状况。所谓严肃游戏是指具有训练和教育目的的视频游戏。在实验中，参与者前往车站开始普通的一天，他们购买了一张车票找到了一辆火车或地铁。他们突然发现自己身处一个必须求生的爆炸情景之中。研究发现，无论是亲自玩游戏的玩家还是观看游戏视频的人，视频游戏能大大增加他们应对紧急状况的准备知识。
+➜在网上看猫咪视频对你有益
+https://www.solidot.org/story?sid=44508	46345
+印第安纳大学的Jessica Myrick教授<a target="_blank" href="http://arstechnica.com/science/2015/06/watching-cats-on-the-internet-is-good-for-you/"><u>定量分析了</u></a>在网上欣赏猫视频的影响。<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0747563215004343"><u>论文</u></a>发表在《Computers and Human Behavior》期刊上。6795名参与者参与了调查，其中88.4%是女性，90.4%是白人。他们平均每天都要看猫咪视频或照片，平均拥有2.3只猫。大多数人有着内向害羞的性格，但他们很快乐。而欣赏猫视频可能对他们的快乐有很大的贡献。参与者报告在观看一则猫的有趣视频之后他们的负面情绪减少了，正面情绪增加了。<br>

@@ -1,0 +1,47 @@
+➜Google 演示电话智能助手 Duplex
+https://www.solidot.org/story?sid=56432	13787
+下层阶级未来将要与中上层阶级的智能助手而不是真人通话了。在 2018 年度的 Google I/O 开发者大会上，Google 演示了能通过电话完成真实世界任务的 AI 系统 <a href="https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html" target="_blank"><u>Duplex</u></a>。为了展示其能力，CEO Sundar Pichai 使用 Google Assistant 通过 Duplex 安排了理发预约和订餐。两次任务中，接电话的人都没有意识到他们是在和计算机对话。即使对话没有按照预计的进行，Google 的智能助手也能理解上下文，做出恰当的回应。Google 称它利用大量的匿名通话数据训练 Duplex。目前这项技术还比较初级，还只能支持一小部分询问，AI 的回应也不是很自然。
+➜Chrome OS 将能运行 Linux 应用
+https://www.solidot.org/story?sid=56433	15688
+开发者现在可以把 Chrome OS 笔记本电脑做开发机了。通过一个运行 Debian Stretch 的定制虚拟机，Chrome OS <a href="https://techcrunch.com/2018/05/08/you-can-now-run-linux-apps-on-chrome-os/" target="_blank"><u>将能运行 Linux 应用</u></a>。这意味着你可以在  Chrome OS 电脑上运行 Linux 版的 Visual Studio Code，或用 Android Studio 构建 Android 应用然后测试。Linux on Chrome OS 的首个预览版已经提供给 Pixelbook，Google 会在以后支持更多设备。通过 WINE，Chrome OS 以后也有可能支持运行 Windows 应用了。
+➜特朗普宣布美国退出伊朗核协议
+https://www.solidot.org/story?sid=56434	16735
+美国总统特朗普<a href="https://politics.slashdot.org/story/18/05/08/2220218/trump-withdraws-us-from-iran-nuclear-deal" target="_blank"><u>宣布</u></a>美国退出与伊朗签订的国际核协议，令中东地区爆发冲突的风险升高，欧洲盟友对此深感不安，全球石油供应也笼罩上不确定性。特朗普在白宫发表电视讲话称，他将恢复美国对伊朗实施的经济制裁，打破这个” 糟糕的、片面的，根本就不该签订的协议”。美国以及中俄英法德在 2015 年同伊朗签订协议，决定取消对伊制裁，而作为交换，伊朗的核项目受到限制。该协议旨在阻止伊朗制造出核弹。但特朗普抱怨称，该协议并不能制约伊朗的弹道导弹项目、2025 年以后的核活动，以及伊朗在也门和叙利亚冲突中所起的作用。特朗普<a href="https://cn.reuters.com/article/trump-withdraws-iran-nuclear-deal-0508-t-idCNKBS1IA00B" target="_blank"><u>明确表示</u></a>，将对伊朗重新开始全面制裁，几乎没有回旋余地。在此形势下，试图与伊朗做生意的外国企业陷入了困难的境地。伊朗已经表示，该国准备重新启动铀浓缩项目。
+➜以色列用鞋子形状容器为安倍晋三装甜点
+https://www.solidot.org/story?sid=56435	18717
+<a href="/~看起来像皮鞋寿司">看起来像皮鞋寿司</a> 写道<i> "上周在以色列总理本雅明·内塔尼亚胡(Benjamin Netanyahu)举办的一场晚宴上，把给日本首相安倍晋三的甜点盛在了<a href="http://www.the-japan-news.com/news/article/0004423932" target="_blank">一只形状像鞋子的容器</a>里。
+</i>
+<p><i>这款甜点受到了以色列媒体和民众的批评，称其不尊重日本领导人，因为日本有一种脱鞋的习俗。"</i></p>
+➜Ubuntu 考虑基于 HTML5 的安装程序
+https://www.solidot.org/story?sid=56436	19185
+Ubuntu 自封的仁慈独裁者 Mark Shuttleworth <a href="https://lists.ubuntu.com/archives/ubuntu-devel/2018-May/040301.html?anz=show" target="_blank"><u>正在考虑</u></a>基于 HTML5 的操作系统安装程序。这个目前还只是存在于理论中的安装程序将复用 Ubuntu 用于管理  MAAS 安装的现有 HTML5 代码，整合 HTML5 应用框架 Electron，能更好的支持 Snap 打包格式。Mark Shuttleworth 还同时<a href="https://news.slashdot.org/story/18/05/08/1712221/ubuntu-considering-an-html5-based-os-installer" target="_blank"><u>宣布</u></a> Ubuntu 下一个版本 18.10 的代号为 Cosmic Cuttlefish。
+➜微软修复正被利用的 Windows 漏洞
+https://www.solidot.org/story?sid=56437	26917
+本周二微软释出了五月例行更新，<a href="https://arstechnica.com/information-technology/2018/05/microsoft-patches-critical-windows-bug-actively-exploited-in-the-wild/" target="_blank"><u>修复了</u></a>两个正被攻击者利用的漏洞。第一个漏洞位于  VBScript Engine 中，引擎处理内存的方式存在一个释放后使用的漏洞，允许攻击者利用用户登录系统的相同权限执行任意代码，如果用户以管理员身份登录，这意味着攻击者可以完整控制系统；如果用户的权限较低，那么攻击者也可以组合利用提权漏洞控制系统。该漏洞编号为<a href="https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8174" target="_blank"><u> CVE-2018-8174</u></a>，属于高危级漏洞，正被攻击者利用。第二个漏洞则是  Win32k 组件的提权漏洞，编号<a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8120" target="_blank"><u> CVE-2018-8120</u></a>，成功利用该漏洞的攻击者可以在内核模式执行任意代码。微软的例行更新共修复了 68 个漏洞，其中 21 个属于高危漏洞。
+➜苹果要求应用更新必须支持 iPhone X 和 iOS 11
+https://www.solidot.org/story?sid=56438	27833
+苹果向开发者发出<a href="https://developer.apple.com/news/?id=05072018a" target="_blank"><u>通知</u></a>，从 2018 年 7 月起，所有递交到 App Store 的应用更新都<a href="https://arstechnica.com/gadgets/2018/05/apple-all-app-updates-must-support-the-iphone-x-and-ios-11-come-july/" target="_blank"><u>必须支持 </u></a>iPhone X 的显示屏和 iOS 11 SDK。苹果预计将会在今年晚些时候推出更多屏幕形状类似 iPhone X 的设备，要求应用支持  iPhone X 对它而言显然非常重要。大多数流行应用都已经更新支持新的特性，但还有很多应用没有更新。这不是第一次苹果对支持某些特性发出最后期限。
+➜Excel 加入 JavaScript 自定义函数支持
+https://www.solidot.org/story?sid=56439	28468
+在西雅图举行的 Build 2018 开发者大会上，微软<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-support-for-javascript-functions-in-excel/" target="_blank"><u>宣布</u></a>它的电子表格程序 Excel 支持自定义 JavaScript 函数。这意味着 Excel 用户可以使用 JavaScript 代码创建自定义 Excel 公式，然后在电子表格内插入或调用这些公式。Excel 将使用一个 JavaScript 解释器而不是原生引擎计算电子表格数据。微软称，Office 开发者有很多理由想要写  JavaScript 自定义函数，如计算数学运算，加入来自 Web 的信息，以及串流实时数据。<a href="https://github.com/OfficeDev/Excel-Custom-Functions" target="_blank"><u>该功能</u></a>目前已经提供给预览版测试者。
+➜微软希望通过提高销售分成吸引应用开发者
+https://www.solidot.org/story?sid=56440	29769
+应用商店典型的分成是三七开，也就是开发商拿到收入的七成，另外三成则归应用商店。现在，为了吸引更多开发者光顾 Microsoft Store，微软宣布从今年晚些时候开发，除游戏之外的所有应用和应用内消费收入开发商<a href="https://developers.slashdot.org/story/18/05/08/1143255/microsoft-hopes-money-will-entice-more-developers" target="_blank"><u>将得到 95%</u></a>。如果用户是通过某种微软帮助的促销方法购买应用，比如应用商店的精选推荐，开发商将得到收入的 85%。85% 到 95% 的分成对开发商相当有利，但如果 Microsoft Store 的用户群仍然不多，它对应用开发商的吸引力仍然有限。
+➜MIT 研究人员称自主驾驶不需要精确地图
+https://www.solidot.org/story?sid=56441	34414
+自主驾驶行业的一大挑战是绘制超高精度的数字地图。如果你的母公司是 Google，那么这不是大问题，因为 Google 本身就具有庞大的地图测绘能力。但即便是 Google 也不可能每一两个月更新一下每一条乡村公路的变更，你还是可能遇到意外情况。MIT 计算机科学和人工智能实验室的研究人员开发了 <a href="https://toyota.csail.mit.edu/sites/default/files/documents/papers/ICRA2018_AutonomousVehicleNavigationRuralEnvironment.pdf" target="_blank"><u>MapLite</u></a>（PDF），让自主驾驶<a target="_blank" href="https://spectrum.ieee.org/cars-that-think/transportation/self-driving/mit-experts-selfdriving-cars-wont-need-accurate-digital-maps"><u>不再需要精确地图</u></a>。他们的系统目前仅在麻省的乡村公路上测试过。MapLite 只需要非常简单的地图，使用传感器识别公路，利用类似人类司机的方法在不熟悉的公路上导航。研究人员称，他们的系统不是只依赖基于神经网络的机器学习，他们的路径寻找来源于基于模型的方法。他们的系统面临的一大障碍是确认目标，以确保汽车能在不熟悉的公路上安全行驶。
+➜Windows 记事本将支持 Unix 换行符
+https://www.solidot.org/story?sid=56442	38051
+Windows 自带的记事本程序以功能简单著称，但对软件开发者来说，记事本的一大问题是它只识别 Windows 换行符，如果用记事本打开一个 Linux 文本文件，其内容不会正确显示。微软也知道这个问题，官方博客<a href="https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/" target="_blank"><u>宣布</u></a>下一次 Windows 10 大更新将升级记事本程序，支持 Unix 和 Mac 换行符。记事本将默认使用 Windows 换行符，能正确显示 Linux 和 Mac 文本内容。该功能已经提供给 Windows 10 的预览版测试者。<br>
+➜Uber 展示飞行出租车原型
+https://www.solidot.org/story?sid=56443	42961
+Uber <a href="https://www.cnbc.com/2018/05/08/uber-flying-car-prototype.html" target="_blank"><u>展示了</u></a>它的电动飞行出租车原型，打车巨头希望在 2 到 5 年内提供服务。飞行汽车能从地面或屋顶的飞机场垂直起飞和着陆。Uber 声称这些飞机场能每小时处理 200 次起飞和着陆。一开始飞行汽车将有驾驶员，该公司的目标是最终能实现无人驾驶。它的原型机更像是无人机而不是直升飞机，机翼上有四个旋翼。Uber 称其安全性高于直升飞机，飞机能依靠一个旋翼工作。它的飞行高度大约 1000 到 2000 英尺。
+➜招行纽约分行被控种族歧视
+https://www.solidot.org/story?sid=56444	46350
+招商银行及其三名高管遭该行一名前高级雇员<a href="http://www.ftchinese.com/story/001077484" target="_blank"><u>起诉</u></a>。原告方称，在她就招行纽约分行的歧视性贷款做法投诉后，她遭到该分行解雇。今年 2 月被解职前，Xin Wang 负责招行纽分美国公司银行业务。据她说，在她进一步表达了对该分行 “划红线注销” 做法的担忧后，只过了 5 天她就被解雇了。所谓划红线注销，是指拒绝对特定社区或群体发放贷款，特别是基于种族的理由。在向纽约南区法院提交的诉状中，Xin Wang 称，招行拒绝全面参与涉及哈莱姆区某房地产项目的贷款，公司风控主管称哈莱姆区“不是高阶层人士聚集之地，非洲裔居民比较集中”。
+➜中兴下架手机
+https://www.solidot.org/story?sid=56445	47022
+中兴全面下架手机，官方的<a href="https://www.myzte.com/" target="_blank"><u>手机商店</u></a>停止工作，跳转到了官网 <a href="http://www.zte.com.cn/china/" target="_blank">www.zte.com.cn</a>，声称正在改版。天猫 ZTE 中兴官方旗舰店页面也显示 “网站改版中”。中兴深圳总部内的直营店据报道已经下架全部商品。中兴今年四月遭到美国商务部的制裁，美国企业已经停止向其供应零部件。美国启动制裁至今已过去 3 周，中兴的智能手机销售<a href="http://cn.nikkei.com/china/ccompany/30401-2018-05-09-08-53-18.html" target="_blank"><u>陷入困难局面</u></a>。 中兴是中国代表性的大型国有上市企业，智能手机全球份额排在第 9 位，是美国第四大智能手机供应商。该公司与美国、日本的众多企业存在业务往来，如果长期停售、停产，将给全球供应链带来很大影响。
+➜因误读英特尔文档主要操作系统曝出新内核漏洞
+https://www.solidot.org/story?sid=56446	47366
+Linux、Windows、macOS、FreeBSD 和 Xen 实现<a href="https://www.theregister.co.uk/2018/05/09/intel_amd_kernel_privilege_escalation_flaws/" target="_blank"><u>曝出了一个设计漏洞</u></a>，允许攻击者劫持或崩溃运行英特尔和 AMD 处理器的计算机。修复补丁基本上都已经释出，Linux 内核早在 3 月份就已经修复。漏洞编号为 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-8897" target="_blank"><u>CVE-2018-8897</u></a>，原因被认为是微软、苹果和 Linux 开发者误读英特尔和 AMD 处理器处理特定例外的文档有关。问题的核心是 POP SS 指令。

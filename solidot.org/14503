@@ -1,0 +1,125 @@
+➜Chrome推出3.0稳定版
+https://www.solidot.org/story?sid=13669	2880
+<a href="http://yi-it.com/blog/">yi-it</a> 写道 <i>"在Chrome浏览器一岁生日之际，Google推出了最新<a href="http://www.google.cn/chrome">3.0稳定版Chrome</a>。Google周二在<a href="http://googleblog.blogspot.com/2009/09/google-chrome-after-year-sporting-new.html">官方博客</a>中表示：“这次新版发行依托51名程序员的努力，以及过去一年的21次测试版、15个稳定版和3505次BUG修改。3.0版Chrome的速度进一步加快，Javascript速度比上一个稳定版提升了四分之一。新版重新设计了标签；优化了地址栏的功能，允许用户区分浏览历史、推荐网站、书签等；整合了HTML5的一些特色，比如视频标签。另外Google提供了一个主题库，用户可以将软件定制得更加个性化。"</i>
+➜ARM加入Linux基金会
+https://www.solidot.org/story?sid=13670	5520
+移动设备和嵌入式设备微处理器和微控制器的制造商ARM宣布<a href="http://www.heise.de/english/newsticker/news/145342">加入Linux基金会</a>。负责销售和开发者计划的副总裁Amanda McPherson在Linux基金会发表声明称，通过加入基金会，ARM展示了它支持开放标准和Linux的决心。到目前为止，ARM向移动设备交付了超过100亿个微处理器，其中大部分移动设备运行Linux。
+➜Windows 7升级最多要花大约1天时间
+https://www.solidot.org/story?sid=13671	7800
+一位微软软件工程师公布了<a href="http://arstechnica.com/microsoft/news/2009/09/microsoft-upgrade-to-windows-7-can-take-up-to-a-day.ars">Windows 7升级所需时间的测试结果</a>。测试比较了不同的用户软件配置（不同大小的数据集和安装的软件数量）和硬件配置。在干净安装的条件下，低端配置所需时间32位版为40分钟，64位版为50分钟；中高端配置分别是30分钟和35分钟。对于中等规模的数据集（70GB数据和安装了20款软件），升级安装所需时间开始大幅上扬，高端配置也至少需要1.5小时左右，低端配置则超过了3个小时。而如果用户数据规模达到650GB，安装了40款软件，升级安装便成为几乎不可能完成的任务，其中低端配置无法完成升级，而<a href="http://tech.slashdot.org/story/09/09/14/1338207/Windows-7-Upgrade-Can-Take-Nearly-a-Day?from=rss">中端配置需要1220分钟</a>，也就是20小时20分钟。另外值得注意的是，32版本的干净安装比64位版本要快，但升级安装则慢得多。           <table>
+<tbody>
+<th>Data Profile</th> <th>Low End Hardware</th> <th>Mid End Hardware</th> <th>High End Hardware</th>
+</tr>
+<tr>
+<td> <b>Clean</b> <br>
+No data and 0 applications<br> </td>
+<td>32-bit: 40 minutes<br>64-bit: 50 minutes<br> </td>
+<td>32-bit: 30 minutes<br>64-bit: 35 minutes<br> </td>
+<td>32-bit: 30 minutes<br>64-bit: 35 minutes<br> </td>
+</tr>
+<tr>
+<td> <b>Medium User</b> <br>
+70Gb of data and 20 applications<br> </td>
+<td>32-bit: 175 minutes<br>64-bit: 185 minutes<br> </td>
+<td>32-bit: 115 minutes<br>64-bit: 95 minutes<br> </td>
+<td>32-bit: 100 minutes<br>64-bit: 85 minutes<br> </td>
+</tr>
+<tr>
+<td> <b>Heavy User</b> <br>
+125Gb of data and 40 applications<br> </td>
+<td>32-bit: 345 minutes<br>64-bit: 355 minutes<br> </td>
+<td>32-bit: 185 minutes<br>64-bit: 165 minutes<br> </td>
+<td>32-bit: 160 minutes<br>64-bit: 150 minutes<br> </td>
+</tr>
+<tr>
+<td> <b>Super User</b> <br>
+650Gb of data and 40 applications<br> </td>
+<td>N/A</td>
+<td>32-bit: 1220 minutes<br>64-bit: 675 minutes<br> </td>
+<td>32-bit: 610 minutes<br>64-bit: 480 minutes</td>
+</tr>
+</tbody>
+</table>
+➜新生儿缺陷病例上升
+https://www.solidot.org/story?sid=13672	10800
+《中国日报》<a href="http://www.chinadaily.com.cn/china/2009-09/15/content_8690859.htm">报道</a>，北京地区过去10年新生婴儿中发现有出生缺陷的比率<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8250000/newsid_8256800/8256881.stm">几乎翻了一番</a>。<i>
+去年北京每10000名新生婴儿就有170名带有缺陷，而1997年是90。一位匿名的卫生部门官员表示，缺陷案例的上升与技术和检测能力提高有关，与女性推迟生育有关。《中国日报》引用《财经》的报道推测，环境污染可能也是一个因素。《财经》杂志报道，2003年，浙江省每10000个新生婴儿有115个有出生缺陷，这一数据在四年中增加到了208个。湖南省2001年每10000个新生婴儿有91个有缺陷，5年中上升到了166个。江西省在2000年每10000人中有102个缺陷案例，6年中增加了50%。广东省的每万人出生缺陷，2003年是186例，2007年是249例。</i>
+➜美国国土安全部调查中国科学家的电网攻击报告
+https://www.solidot.org/story?sid=13673	13200
+大连理工大学的网络安全专家Jian-Wei Wang和同事Li-Li Rong研究了美国电网的缺陷，他们的发现<a href="http://news.slashdot.org/story/09/09/15/1758216/DHS-To-Review-Report-On-US-Power-Grid-Vulnerability?art_pos=9">让美国国土安全局感到不安</a>。<i>
+根据发表在2009年12月一期《安全科学》杂志上的<a href="http://dx.doi.org/10.1016/j.ssci.2009.02.002">报告</a>(摘要)，两位研究人员利用公开的数据建立了美国西海岸电网的模型。他们的目的是调查美国电网<a href="http://www.newscientist.com/article/mg20327255.900-how-to-shortcircuit-the-us-power-grid.html">发生级联故障（cascade failure）的可能性</a>，即当电网的一个子网络发生大的停电事故引起临近子网络的电力也中断，从而导致停电的连锁反应。他们着手寻找电网的弱点，常识告诉他们，当主要的高负荷电网下线后，剩余的电量会倾泻到小的子网络中而引发过载。研究人员分析了电力负荷和子电网连接数量，制定次序模拟大的停电事故是否能诱发级联故障。结果令他们感到惊讶，在特定的负荷下，轻负荷的子电网反而比高负荷的网络造成更大的破坏。Jian-Wei Wang表示，对低负荷节点的攻击是瘫痪美国西海岸电网的最有效方式。美国国土安全部发言人指出他们正在调查中国科学家的报告，称工程师正在研究高温超导技术，以防止停电事故蔓延到其它变电站。</i>
+➜Brain Fuck调度器为桌面提速
+https://www.solidot.org/story?sid=13674	16560
+两年前曾高调宣布退出Linux kernel的<a href="__SLASHLINK__" sect="linux" sid="07/07/25/0610256" sn="article" tid="7">开发者Con Kolivas</a>，<a href="http://ck.kolivas.org/patches/bfs/bfs-faq.txt">带着</a>替代完全公平调度器（Completely Fair Scheduler）的<a href="http://en.wikipedia.org/wiki/Brain_Fuck_Scheduler">Brain Fuck Scheduler</a>(BFS)新调度器回归了。以下引用<a href="http://thruth.ixiezi.com/2009/09/16/bfs-intro-future-of-linux-desktop-kernel/">Truth Telling博文</a>的介绍：<i>
+BFS就在（扩展性和桌面性能）其间做了取舍，仅仅支持最多16个CPU ，把问题外沿做小，让算法更简单精悍高效...现在 BFS还在测试期，没有完全成熟，但已经相当可用。编译的时候有什么需要配置的？不需要，Scheduler这东西太底层了，打上补丁就把原来的CFS替换掉了，没什么选项给你选....BFS原理上讲，机器配置越低，感受会越明显。Phoronix这个专业的Linux测评网站也<a href="http://www.phoronix.com/scan.php?page=article&amp;item=bfs_scheduler_benchmarks&amp;num=1">出了一份</a>。我可以提前剧透结论，区别都很小，BFS胜出绝大部分测试，然而优势不明显。</i>
+➜Facebook用户达到3亿
+https://www.solidot.org/story?sid=13675	19800
+《华尔街日报》报道，<a href="http://cn.wsj.com/gb/20090916/bog113926.asp?source=UpFeature">社交网站Facebook的增长势头不减</a>，其用户数量已达到了3亿人，而该公司在7月份时宣布跨过了2.5亿用户大关，这意味着两个月内它的用户便增加了5千万。Facebook表示，现在有70%的用户是在美国以外的地区，表明增长有很大一部分来自海外。Facebook首席执行长扎克博格(Mark Zuckerberg)在一篇博客文章中说，公司上个季度提前实现了现金流为正的目标。
+➜北极东北航道通航
+https://www.solidot.org/story?sid=13676	20880
+由于北极冰层融化，使得大型船只有可能通过北极东北航道从亚洲直接到达欧洲，东北航道（Northeast Passage）是指沿欧亚大陆北岸、主要为俄罗斯西伯利亚岸外的一条海上航道。<i>
+从太平洋到欧洲，穿过这条东北航道比航行通过苏伊士运河能减少将近五千公里的航程。两艘德国商船试图通过北极航道<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8250000/newsid_8251800/8251894.stm">完成首次商业航行</a>，它们从韩国蔚山港出发，上周末<a href="http://tw.news.yahoo.com/article/url/d/a/090914/1/1r3ly.html">通过</a>了西伯利亚的北海航道，进入欧洲北部，预计月底抵达荷兰的鹿特丹港。根据货船的报告，航线最北端的“维尔吉兹吉海峡”还有些冰层，不过有一道大约一百海里的通道可供船只通过。</i>
+在北极冰层变薄的同时，<a href="__SLASHLINK__" sect="science" sid="09/04/19/0711238" sn="article" tid="48">南极的冰层却发现在变厚</a>。
+➜Zune软件4.0发布
+https://www.solidot.org/story?sid=13677	22800
+<a href="http://livesino.net/">picturepan2</a> 写道<i> "Zune HD 正式发售的同时，微软发布了<a href="http://www.zune.net/en-us/products/software/default.htm">Zune 软件 4.0</a>，以及更新版<a>Zune Social</a>、Zune Marketplace，并且今秋Xbox LIVE用户将可通 Zune 服务购买或租赁电影。<a href="http://livesino.net/archives/2246.live">本文重点</a>则是介绍专门为Windows 7优化的Zune播放软件 4.0，以及其Quickplay，Smart DJ，迷你模式等新特性。"</i>
+➜北京将启用客流预警系统
+https://www.solidot.org/story?sid=13678	22800
+从9月22日开始，北京将在人员密度的西单地区启用<a href="http://news.xinhuanet.com/auto/2009-09/14/content_12046505.htm">客流预警系统</a>。<i>
+研究开发该系统的北京市劳动保护科学研究所介绍，预警系统一旦出现报警点位，指挥中心会立即通知其他点位的值班人员，引导游人绕行报警区域。引导疏散客流的主要途径有3个方面，即地铁、公交和天桥。例如北京地铁四号线西单站已在西单大街西侧设立出口，若西单大街东侧的地铁站人潮超越警戒数值，工作人员会疏导人潮从西侧进入地铁。西单地区现有的4座天桥也是重点区域。一旦天桥客流猛增，天桥上现有的执勤保安、民兵都会立即对客流进行疏散。预警系统还能监测人群非正常聚集、非法入侵、人包（随身行李）分离等异常行为。这套系统由各个不同地点的视频监控设备即时搜集信息，再以无线网络传到指挥中心分析，系统会预测十分钟后人潮是否达到警报数值并通知管理部门预警，一旦出现警报即由工作人员引导行人绕道。</i>
+➜Opera Mini 5 Beta 隆重登场
+https://www.solidot.org/story?sid=13679	24120
+<a href="http://bbs.operachina.com/">linuxrocks</a> 写道 "Opera Mini 是全球使用量最多的手机浏览器，它不但能够为您节省流量还能让您获得和电脑一样的浏览体验！<i>
+2009年9月16日，经过一年多的研发，Opera 软件公司为手机用户带来了下一代的手机上网利器 —— <a href="http://bbs.operachina.com/viewtopic.php?f=10&amp;t=54112">Opera Mini 5</a>。此次发布的 <a href="http://bbs.operachina.com/viewtopic.php?f=10&amp;t=54112">Opera Mini 5 beta</a> 版中新增了多标签浏览、快速拨号、文本复制、密码管理等诸多新功能，使您更加愉悦更加轻松的用手机上网！</i>
+<a href="http://mini.operachina.com/next/">点此下载 Opera Mini 5 中国版</a>， <a href="http://bbs.operachina.com/viewtopic.php?t=54108">点此查看 Opera Mini 5 截图</a>， <a href="http://bbs.operachina.com/viewtopic.php?f=10&amp;t=54112">点此观看 Opera Mini 5 视频</a>"
+➜罗技发布带有可伸缩滑鼠垫的散热板
+https://www.solidot.org/story?sid=13680	25200
+<a href="mailto:sunkniss@qq.com">canaan</a> 写道<i> "笔记本的伟大之处在于它的便携性，但由此也会带来操作上的诸多不便。比如触控板和鼠标相比之间你更习惯使用后者，但很多情况下你虽然可以随身携带鼠标，但未必能找到一个适合放置鼠标的地方。于是罗技便退出了这样<a href="http://www.logitech.com/index.cfm/notebook_products/stands/devices/6162">一款产品</a>。地板表面有粗糙的凸起可以防滑，右侧配有可伸缩的鼠标垫。该产品有望本月上市，售价$29.99。如果打不开，请看这里<a href="http://www.closhow.cn/post/350.html">这里</a>。"</i>
+➜让沙漠变森林，让地球冷却
+https://www.solidot.org/story?sid=13681	26400
+让沙漠变绿州是无数人的梦想。现在研究人员声称他们找到一种方法可以让森林遍布沙漠，同时能缓慢改变全球变暖的进程。ScienceNOW报道，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/914/2?rss=1">他们的计划每年要耗资2万亿美元</a>。<i>
+这项计划出自Mount Sinai医学院的细胞生物学家Leonard Ornstein，他得到NASA Goddard太空研究院的两位气候模型专家的帮助。他们设想在撒哈拉沙漠的周边海域淡化海水，然后通过管道运往内陆，采用最小化水分蒸发的滴灌方式使砂土能种上树木。研究人员估计，通过种植耐高温、快速生长的热带树种，森林能让撒哈拉的某些地区冷却最高8°C，带来更多降雨和云层，让更多阳光反射回太空。森林在一年内还能减少80亿吨碳排放。当然这一切的代价并不低廉，建造、运行和维护海水淡化和灌溉设备的费用一年高达2万亿美元。Ornstei称，任何改变气候的方案都肯定是一个数以万亿美元计的项目，这要看回报是什么。他指出这些树木在数十年内便能砍伐充当燃料，成为一个碳中立的能量来源。但森林带来的一个副作用是蝗灾增加，进入大西洋的养分减少。</i>
+➜互联网协会理事长认为必须实行实名制
+https://www.solidot.org/story?sid=13682	27360
+腾讯科技报道，中国互联网协会理事长胡启恒表示，<a href="http://tech.qq.com/a/20090914/000426.htm">实施网络实名制是势在必行</a>。她声称实施网络实名制的目的是为了让每个人有责任心。胡主张互联网治理要政府主导，多方参与，依法行政，社会监督，不过她认为这个过程不会一蹴而就。她说，<i>
+“为什么社会要有国家，要有法律，要有道德约束，因为你不能为所欲为，每个人都要知道你做了坏事要付出代价，这样我们这个社会态度成为有秩序的。互联网是社会是毫无疑问的，因为这么多人在里面，难道互联网社会就不需要责任感吗，如果每个人认为在互联网上可以为所欲为，不会受到职责，那么互联网难道不会成为可怕的地方吗？我认为实名制是势在必行，但是实名制的目的是为了让每个人有责任心，但是实名制还和现实社会有所不同，你可以在网络上登记自己我叫花猫，白孔雀，如果你没有违反社会公德，没有侵犯别人的利益，没有做违法的事情，你就叫花猫好了，但是你做了坏事就可以找到你。我所主张的实名制是这样的实行制，不是说要取消所有的网名，不是说每个人要用自己的真名在网上说话，你可以用自己喜欢的名字来说话，如果没有侵犯法律，没有侵犯公众利益，没有人找你，但是你做了坏事那么要为此付出代价。”</i>
+➜两个Linux文件系统性能测试工具
+https://www.solidot.org/story?sid=13683	28860
+DNA24 写道 "<i>
+Linux Magazine用了四篇文章（<a href="http://www.linux-mag.com/cache/7525/1.html">第一部分</a>，<a href="http://www.linux-mag.com/cache/7518/1.html">第二部分</a>）介绍了两个Linux文件系统性能测试工具，<a href="http://www.ftree.org/">fdtree</a>和iozone。fdtree比较少听说，它可以测ext3, ext4, nilfs2, btrfs, xfs, jfs, reiserfs, ext2, resier4（后五个需要附加工具
+xfs: xfsprogs pulled via git as of 9/5/2009，
+jfs: jfsutils-1.1.14，
+reiserfs: reiserfsprogs-3.6.21，
+ext2: e2fsprogs 1.41.9，
+reiser4: resier4progs-1.0.7）
+<a href="http://www.iozone.org/">iozone</a>见得比较多，从第一部分看，它可以测Reiser4, ext3, ext4。fdtree和iozone测试方法文中有详细说明，请查阅。"</i>
+➜色情制作人入选“2009年度企业家”
+https://www.solidot.org/story?sid=13684	30480
+上周，成人电影工作室pinkvisual.com主席Allison Vivas收到了<a href="http://www.americansolutions.com/">American Solutions for Winning the Future</a>公司主席Newt Gingrich的传真，称她因为在刺激经济和创造新工作岗位方面的贡献而<a href="http://idle.slashdot.org/story/09/09/15/179232/Gingrich-Applauds-Porn-For-Stimulating-Economy">入选了“2009年度企业家”</a>。Gingrich透过传真发出邀请，表示愿意与她私下里“面对面”交谈，听取她的意见和观点。显然，Gingrich选择网络色情巨头作为年度企业家候选人的做法受到了媒体和政客的批评指责，所以他很快<a href="http://www.examiner.com/examiner/x-1916-Sex--Relationships-Examiner~y2009m9d11-Newt-Gingrichs-Business-Defense--Advisory-Council-names-porn-producer-Entrepreneur-of-the-Year">宣布废除这一邀请</a>，借口是一次失误。
+➜研究称淋浴对身体有害
+https://www.solidot.org/story?sid=13685	32400
+根据发表在《美国国家科学院学报》上的一项<a href="http://www.pnas.org/content/early/2009/09/11/0908446106">研究报告</a>（摘要），研究人员分析了美国9座城市的50个淋浴喷头，发现30%携带相当浓度的鸟分支杆菌，这种病菌会引起肺感染。
+<i>
+虽然此种病菌在城市供水系统中常见，但是<a href="http://news.xinhuanet.com/world/2009-09/16/content_12061279.htm">研究人员发现</a>，以粘稠的生物膜形式附着在喷头上的病菌浓度是水中原有病菌浓度的100多倍。研究人员说，如果你在刚打开淋浴时喷一脸水，意味着你很可能接触到特别多的鸟分支杆菌，这可能<a href="http://science.slashdot.org/story/09/09/15/1523250/Taking-Showers-Can-Be-Harmful-To-Your-Health">对健康有害</a>，因为喷头喷射出的充满病菌的水滴可以轻易地被人吸入肺最深的部位。研究人员发现，在使用井水而非市政供水的小城镇，淋浴喷头上的病菌浓度较低。他们还发现，金属喷头上的病菌浓度要远远低于塑料喷头。改用金属喷头，尤其是滤网可以定期更换的那种金属喷头，能有助于减少病菌的聚集。</i>
+➜你可以相信群众的智慧吗？
+https://www.solidot.org/story?sid=13686	34200
+《MIT技术评论》报道，研究人员指出<a href="http://www.technologyreview.com/web/23477/?a=f">在线推荐系统很容易被少数活跃用户操控</a>。<i>
+西班牙Madeira大学助理教授和卡内基梅隆大学兼任助理教授<a href="http://dme.uma.pt/people/faculty/vassilis.kostakos/">Vassilis Kostakos</a>称，评分系统是利用“群众的智慧”提供有价值的视角，但它们很容易被少数积极投票的用户所扭曲。他指出人们的投票模式是截然不同的。Kostakos研究了亚马逊，IMDB和图书评论网站BookCrossings的投票模式。在上个月举行的2009 IEEE International Conference on Social Computing会议上他介绍了这项研究。他的研究小组分析了这三个网站上的数十万条目和数百万投票，发现大部分投票是少数用户完成的。例如，只有5%的亚马逊活跃用户在超过10项产品上投票，而同时有少数用户在数百个条目上投票。Kostakos说，如果有2到3个人投了500次票，其结果显然无法代表社区所有人的意见。他怀疑这可能就是为什么有些评分会表现出极端的趋势。</i>
+➜松下LED灯能照亮19年
+https://www.solidot.org/story?sid=13687	37200
+日本松下公司将在10月21日上市一款<a href="http://news.cnet.com/8301-17938_105-10350053-1.html">新型家用LED灯</a>，它声称其使用寿命是白炽灯40倍。<i>
+松下称，如果每天用上5.5个小时，这种LED灯可以用最高19年，是白炽灯的40倍。它所耗电力是白炽灯的八分之一，这意味着一支60瓦等值LED灯泡一年只只需花300日元（人民币22.5元）电费，而白炽灯需2380日元（约178元）。这种灯泡的售价预计将为4000日元（300元），相对于10元左右的白炽灯来说价格不是很友好。</i>
+➜科学教育在美国
+https://www.solidot.org/story?sid=13688	39600
+Makzhou博士同学在他的博客上贴了<a href="http://www.makzhou.warehouse333.com/2009/09/15/2077/">过去5年美国高中生ACT考试成绩的分析</a>，2009年参加ACT考试的学生中，英语、数学、科学和阅读全部达标的仅仅占23%，其中数学、科学的达标率分别为42%和28%。根据ACT多年的追踪，凡是高中毕业时考试能超过标准线的，在大学里就有75%的可能在相应课程中拿到C或者以上。显然大部分参加ACT考试的美国学生未达标准。他认为美国的教育制度看上去并不是很完美。无独有偶，/.上也有一篇文章讨论如何<a href="http://science.slashdot.org/story/09/09/14/1444218/How-To-Make-Science-Popular-Again">提高美国人整体的科学素养</a>。
+➜科学家发现地球大气未知的模式
+https://www.solidot.org/story?sid=13689	42000
+UCLA大气气候学家发现了之前未知的太阳风和地球大气之间的<a href="http://newsroom.ucla.edu/portal/ucla/scientists-discover-surprise-in-101025.aspx">能量交换基本模式</a>。<a href="http://science.slashdot.org/story/09/09/12/239208/Surprise-Discovery-In-Earths-Upper-Atmosphere">这项研究</a>将有助于改进在大气层内运作的飞行器的安全性和可靠性。
+<i>
+论文合著者、UCLA大气和海洋科学教授Larry Lyons称，这相当于在太阳之外，大气层还有别的热能量来源，就像太阳下山后大气层还在持续升温。太阳除了产生辐射外，还射出被称为太阳风的带电粒子流。太阳风会在3到4天后接触地球大气层，与地磁圈交互作用。Lyons、Heejeong Kim及其他同事分析了电离层交互作用强度的雷达数据，结果让他们感到惊讶。太阳系磁场和地球电离层之间的对流强度足以产生热交换。
+"</i>
+➜微软称不会为XP发布TCP/IP补丁
+https://www.solidot.org/story?sid=13690	44100
+微软安全公告<a href="http://www.microsoft.com/china/technet/security/bulletin/ms09-048.mspx">MS09-048</a>称，TCP/IP中存在多个安全漏洞，攻击者能向开启监听服务的计算机发送特制的TCP/IP包，漏洞允许远程执行代码，使攻击者控制被攻击的计算机。对于Windows Vista和Windows Server 2008，安全更新等级为“严重”；对于Windows 2000 Service Pack 4和 Windows Server 2003，安全更新等级为“重要”。<i>
+但在微软的补丁列表上<a href="http://tech.slashdot.org/story/09/09/15/0131209/Microsoft-Says-No-TCPIP-Patches-For-XP?from=rss">没有Windows XP SP2和 SP3</a>，微软安全项目主管Adrian Stone声称为XP发布补丁是不切实际的，不可行的。微软解释，在默认情况下，Windows XP SP2、Windows XP SP3和Windows XP Professional x64 Edition SP2的客户端防火墙配置没有开启监听服务，因此不会受到TCP/IP漏洞的影响。XP是目前市场上最流行的操作系统。
+"</i>

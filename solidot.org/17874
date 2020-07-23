@@ -1,0 +1,9 @@
+➜IBM 出售 Lotus Notes
+https://www.solidot.org/story?sid=58883	51865
+IBM 将 Lotus Notes <a href="https://newsroom.ibm.com/2018-12-06-HCL-Technologies-to-Acquire-Select-IBM-Software-Products-for-1-8B"><u>全部出售给了</u></a> HCL Technologies。Lotus Notes 是一个协作客户端-服务器软件平台，最早由 Lotus Development Corporation 开发，1995 年 IBM 以 35 亿美元将其收购，主要产品包括 Lotus Notes、Domino 和 Portal，在很长一段时间里它曾是蓝色巨人企业级业务的重要组成部分。去年 IBM 将 Lotus Notes 的开发部分出售给了 HCL，继续维持对软件销售和营销的控制。在以  340 亿美元收购 Red Hat 之后，IBM 可能意识到继续保留 Lotus Notes 不再有价值。
+➜Linux.org 的 DNS 被劫持
+https://www.solidot.org/story?sid=58884	53462
+本周五 Linux.org 的网页<a href="https://web.archive.org/web/20181206232921/https://www.linux.org/"><u>展示了</u></a>（镜像）NSFW 图像，并<a href="https://it.slashdot.org/story/18/12/08/0355227/linuxorgs-dns-got-hijacked" target="_blank"><u>留言</u></a>“G3T 0WNED L1NUX N3RDZ RIP MY NIGGA TERRY DAVIS LINUX IS FOR NIGGERS”。Linux.org 的管理员在重新控制域名后解释了<a href="https://www.linux.org/threads/linux-org-dns-hijack-incident.21073/"><u>事故原因</u></a>：他们的域名注册账号被人入侵，攻击者将 DNS 指向了另一台服务器，并锁定了账号，他们与域名注册商反复交涉之后终于恢复了控制。攻击者并没有真正入侵 Linux.org 的服务器，用户数据没有受到影响。管理员认为是 Whois 泄露了信息，让攻击者能入侵其账号，承认没有启用<a href="https://www.theregister.co.uk/2018/12/07/linuxorg_hacked/"><u>二步认证</u></a>。
+➜爱立信软件证书过期导致 O2 网络故障
+https://www.solidot.org/story?sid=58885	55416
+本周英国移动运营商 O2 网络<a href="https://www.bbc.co.uk/news/business-46464730"><u>发生大规模故障</u></a>，导致数以百万计的手机用户失去了数据访问。O2 的核心网络设备由爱立信提供。爱立信发表<a href="https://www.ericsson.com/en/press-releases/2018/12/update-on-software-issue-impacting-certain-customers"><u>声明</u></a>称，故障是软件 SGSN–MME (Serving GPRS Support Node – Mobility Management Entity)的两个特定版本导致的，其根本原因是安装在客户设备上的软件使用的证书过期了。除了英国外，多个使用爱立信设备的国家也因为软件证书过期发生网络故障。

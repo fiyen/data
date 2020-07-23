@@ -1,0 +1,103 @@
+➜经济危机中Linux获得青睐
+https://www.solidot.org/story?sid=10315	60
+2月份IDC对IT主管们的一项调查显示，<a href="http://www.networkcomputing.in/Server-Storage-016Mar009-Linux-Gaining-Strength-In-Downturn.aspx">经济衰退正加速开源操作系统Linux的采用</a>，同时也正在巩固它在数据中心市场的地位。<i>
+330位被调查者中有65%的人表示计划到年底Linux服务器工作量增加10%或更多，63%的人说在桌面上他们将增加使用10%以上的Linux，但是此类增长仍然只是整个桌面市场份额的很小部分。49%的人预期五年内Linux将成为主要的服务器平台。此外，62%的被调查者称他们面临IT预算削减，或资金将使用在必要的领域。</i>
+➜教皇允诺关注互联网
+https://www.solidot.org/story?sid=10316	1800
+教皇本笃十六世给全世界的罗马天主教主教写信，讨论他最近的让一位受争议的英国籍主教重返教廷的决定。<i>
+主教Richard Williamson曾在接受瑞典电视台的采访中<a href="http://www.telegraph.co.uk/news/newstopics/religion/4976109/Pope-pledges-to-take-more-notice-of-the-internet.html">否认奥斯威辛存在毒气室</a>，因而在互联网上引发了轩然大波，教皇让其重返教廷的决定也招致了广泛批评，其中许多是来自天主教内部。梵蒂冈声称当时他们并不知道Williamson的言论，教皇也保证将从此事中吸取教训，去充分利用互联网。教皇说“我被告知，互联网上可供查询的信息本来能更早的发现问题。我吸取了教训，<a href="http://news.bbc.co.uk/2/hi/europe/7938827.stm">未来教廷将更多关注新闻来源</a>。”教皇向主教们解释他的行为并承认错误，这在天主教历史上也是罕见的。在给全世界主教的信中，梵蒂冈表示Williamson事件处理不当。</i>
+➜9个基于JavaScript和CSS的Web图表框架
+https://www.solidot.org/story?sid=10318	2520
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "jQuery, MooTools, Prototype 等优秀的 JavaScript 框架拥有各种强大的功能，包括绘制 Web 图表，使用这些框架以及相应插件，我们可以非常轻松地实现曲线图，圆饼图，柱状图等 Web 图表的绘制，而不必象以往那样通过复杂的 Flash 技术实现。本文介绍了9个优秀的基于 JavaScript 与 CSS  的 Web 图表框架（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K751.aspx">图文版</a>）。
+"           1. Flot
+<br> <br> = <a href="http://code.google.com/p/flot/">Flot</a> 是一个纯粹的 jQuery JavaScript 绘图库，可以在客户端即时生成图形，使用非常简单，支持放大缩小以及鼠标追踪等交互功能。该插件支持 IE6/7/8, Firefox 2.x+, Safari 3.0+, Opera 9.5+ 以及 Konqueror 4.x+。使用的是 Safari 最先引入的 Canvas 对象，目前所有主流浏览器都支持该对象，除了 IE, 因此在 IE中使用 JavaScript 进行模拟。这里有一些<a href="http://people.iola.dk/olau/flot/examples/">实例</a>。<br> <br>
+2. JS Charts
+<br> <br> <a href="http://www.jscharts.com/">JS Charts</a> 是一个免费的基于 JavaScript 的图表生成器，表格绘制非常简单，几乎不需要编码，也不需要插件和服务器模块，使用XML 或 JavaScript 数组缓存数据。<br> <br>
+3. TableToChart
+<br> <br> <a href="http://www.copix.org/index.php/wiki/Mootools/Charts/en">TableToChart</a> 是一个 MooTools 脚本，可以将 HTML Table 对象中存储的数据绘制成图表。你可以使用 table 标签生成图表，柱状图，曲线图，圆饼图等。
+4. PlotKit
+<br> <br> <a href="http://www.liquidx.net/plotkit/">PlotKit</a> 是一个 JavaScript 绘图库，支持 HTML Canvas 标签，也支持 SVG。<br> <br>
+5. Yahoo UI Charts Control
+<br> <br> <a href="http://developer.yahoo.com/yui/charts/">YUI Charts Control</a> 可以在网页上将表格数据转换为图表，支持柱状图，曲线图以及圆饼图。支持 DataSource 工具，可设置的轴，鼠标盘旋提示，图表组合，以及皮肤等功能。<br> <br>
+6. ProtoChart
+<br> <br> <a href="http://www.deensoft.com/lab/protochart/">ProtoChart</a> 是一个基于 Prototype 和 Canvas 标签的开源库，这个库深受 Flot, Flotr, Plotkit 等启发，支持曲线图，柱状图，圆饼图等，可以在同一个图表上显示多套数据，支持可定制的图例，网格，边界以及背景图。支持 IE6/7, Firefox 2/3 以及 Safari，甚至支持 iPhone.<br> <br>
+7. EJSChart
+<br> <br> <a href="http://www.ejschart.com/">EJSChart</a> 支持鼠标追踪，鼠标事件，按键追踪与事件，缩放，滚动，交互等功能，将用户体验上升到一个新高度。支持曲线图，面积图，离散图，圆饼图，柱状图等形式，拥有完备文档的属性和方法可以帮助实现很好的定制。<br> <br>
+8. fgCharting
+<br> <br> <a href="http://www.filamentgroup.com/lab/creating_accessible_charts_using_canvas_and_jquery/">fgCharting</a> 是一个很出色的 jQuery 插件，支持多种图形。<br> <br>
+9. Pure Css Data Chart
+<br> <br>以往的数据展示往往通过 flash 实现，现在，我们可以通过纯粹的 CSS 实现类似的功能。<a href="http://cssglobe.com/post/1272/pure-css-data-chart">CSSGlobe 有一个非常实用的教程帮你实现基于 CSS 的绘图</a>，甚至不需要 JavaScript。
+<br> <br>本文国际来源：<a href="http://woork.blogspot.com/2009/03/useful-scripts-to-plot-charts-in-web.html">http://woork.blogspot.com/2009/03/useful-scripts-to-plot-charts-in-web.html</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+➜Linux内核导览图
+https://www.solidot.org/story?sid=10319	2880
+<a href="http://bbs.operachina.com/">Truth</a> 写道 <i>"Linux 的 Kernel 是一个很复杂的东西，而<a href="http://makelinux.net/">makelinux.net</a>做了这样一件事情，他们花了很多时间把 Linux 内核中的各个部分和子系统用图形连线的形式表现出来，并做成可以互动的网页。<a href="http://www.makelinux.net/kernel_map">可以去这里</a>欣赏他们的劳动成果，像 google Map 一样可以鼠标滚轮缩放，点击可以查看相应文档/源码。"</i>
+➜IBM开发会说话的互联网
+https://www.solidot.org/story?sid=10320	5100
+IBM印度研究实验室已经开发出一项技术，<a href="http://economictimes.indiatimes.com/Infotech/Internet-/IBM-develops-a-technology-that-will-allow-users-to-talk-to-web/rssarticleshow/4267597.cms">允许用户与Web对话</a>，并用移动手机创造声音网站。<i>
+实验室副总监Manish Gupta称，人们将与Web交流，Web也将以声音回答。该技术不涉及个人电脑，而是工作在移动平台上。IBM已经为这项技术开发了新的协议——Hyperspeech Transfer Protocol(超语音传输协议，简写HSTP)，类似于超文本传输协议（HTTP）。此外IBM并没有透露更多细节。Gupta指出语音Webz针对的是手机用户，他们中有许多人并没有读写能力。会说话的Web将是一个声音网站或用声音交流的网络。</i>
+➜超级浮力船
+https://www.solidot.org/story?sid=10321	7500
+哈尔滨工业大学的科学家开发出了<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-03/acs-nsm031209.php">微型的超级浮力船</a>，它们的浮力如此之强，以至用同样材料制成的救生衣可能支撑一匹马不沉入水中。但研究人员表示，这项技术可能很难应用于全尺寸的船只，但可能开发出新一代的用于侦查任务的水上机器人和其他先进装置。<a href="http://pubs.acs.org/doi/abs/10.1021/am800116d">研究论文</a>(摘要)发表在《美国化学会应用材料与界面》月刊上。<i>
+研究人员是从能在水面上行走的水蜘蛛上汲取了灵感。Qinmin Pan和Min Wang制造了数艘邮票大小的微型船。他们利用硝酸银和其他物质处理过的铜网从而让船的表面超憎水。与没有这种新型表面的类似的铜船相比，这种憎水船漂浮得更平滑，而且表现出了令人惊讶的大负载能力。</i>
+➜GNOME Do 0.8.1：Linux上的快速启动程序
+https://www.solidot.org/story?sid=10322	9000
+<a href="http://szlug.org/">DNA24</a> 写道 "<a href="http://do.davebsd.com/">GNOME Do</a>是一款Linux桌面下的快速启动程序，主要提供便捷的程序运行和任务管理方式。<a href="http://arstechnica.com/open-source/reviews/2009/03/get-it-done-with-gnome-do-081.ars">它最新的版本为0.8.1</a>，于上周五正式发布。GNOME Do是一款类似于Mac OS X平台下Quick Silver的软件。它隐藏运行在后台，当用户使用键盘快捷键呼出时它才会出现。
+<i>它允许用户输入程序的名称或者其他一些项目，之后执行选定的目标，它拥有预先自动完成特性使得任务执行得十分迅速。同时它还拥有高度的可扩展性，并提供有效的插件框架，可以扩展它的功能。除了可以运行程序和打开文件或者文件夹，它还可以用来向Twitter发送信息，查看股票行情，向Google日历添加约会，以及其他一系列任务。之前的0.8.0版引人了新的用户界面模式docky，模仿OS X的dock。0.8.1版对docky进行了大幅更新。"</i>
+➜GTK+ 2.16.0发布
+https://www.solidot.org/story?sid=10323	10080
+跨平台图形用户界面开发工具<a href="http://zh.wikipedia.org/wiki/GTK%2B">GTK+</a>发布了<a href="http://mail.gnome.org/archives/gtk-list/2009-March/msg00075.html">2.16.0</a>版。新版在源代码和二进制上兼容先前的GTK+版本，主要的特性和改进包括：新的API—GtkOrientable和GtkActivatable，改进了GtkEntry、GtkScale和GtkStatusIcon，文件选择器可以选择显示文件大小等等。
+➜科幻频道更名为“Syfy”
+https://www.solidot.org/story?sid=10324	12960
+NBC环球旗下科幻频道（Sci Fi Channel）正式被<a href="http://www.tvweek.com/news/2009/03/sci_fi_channel_aims_to_shed_ge.php">改名</a>为“<a href="http://www.syfy.com/press.html">Syfy</a>”（令人联想到梅毒syphilis这个字的变种），目的是为了更好的吸引主流观众。<i>
+因为“Sci Fi”这个名字总是与那些喜欢在地下室里捣鼓视频游戏或诸如此类东西的Geek，性格比较BT的和不擅社交的男孩联系在一起，与普通大众和女性观众恰好是针锋相对，互不兼容。帮助成立科幻频道的电视历史学家Tim Brooks说，那些声称不喜欢科幻电影的观众陶醉于《星球大战》之类的影片中，他们不认为它是一部科幻电影，而是好电影。但是Syfy这个名字<a href="http://entertainment.slashdot.org/article.pl?sid=09/03/16/1852223">确实很雷人</a>，有人称它令他觉得智商下降20点。</i>
+➜Linux上网本大势已去？
+https://www.solidot.org/story?sid=10325	17100
+ZDNet台湾报道，<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20136883,00.htm">上网本市场Linux占有率正在坠落</a>。<i>
+MIC发布的<a href="http://mic.iii.org.tw/intelligence/reports/pop_Doc_review.asp?docid=CDOC20090306003">报告</a>(摘要)称，08年初还占有整体Netbook市场七成比重的Linux操作系统，到去年11月已然下滑至二成五，预估到了09年将仅剩下一成。原因即在于消费者的使用经验仍然依赖Windows操作系统；而Linux亦有周边设备及应用软件支持不足等困境。报告也指出，Linux Netbook将不会就此人间蒸发。原因即在于还是有国际大厂计划在2009年推出采用Linux系统的Netbook，预期在特定的分众市场将有较高的市场占有率。华硕表示，“消费者还是比较习惯Windows XP。至于到时候是不是全面升级成Windows 7，就得看价格差距和硬件执行效能如何。”</i>
+➜瑞士试图立法阻止裸体爬阿尔卑斯山
+https://www.solidot.org/story?sid=10326	20100
+《纽约时报》报道，瑞士人对保密是相当的热衷，尤其是银行业。但在其它方面，他们却是相当的开放的，例如远足。最近几年，越来越多的人，有瑞士人也有外国人，<a href="http://www.nytimes.com/2009/03/17/world/europe/17swiss.html">都热衷于裸体爬山</a>，并已蔚然成风。他们全身上下，除了鞋子和背包，没有任何遮盖物。<i>
+去年9月，山城的警察拘留了在山里闲逛的裸体远足者，但最后无可奈何的将其释放，因为没有阻止裸体步行的相关法律。和所有的偏远小城一样，这里很保守，市议员们对山城可能成为裸体主义者的麦加圣地而忧心忡忡。政府试图通过法律去阻止裸体旅行，法律专家认为这是违宪。当地的居民有的深以为然，有的不以为然，有30年裸体徒步旅行历史的Hepenstrick先生坚决反对，“这是自由。首先是头脑中的自由，随后是身体的自由。”Edith Sklorz女士承认裸体步行令她困惑，但反对政府干涉，她指出临近的城市通过了禁止在公共场所吐痰的法律，“对于每一件最微小的事情，那儿都有一个法律。”</i>
+➜ReadAIR: 非官方桌面版Google Reader
+https://www.solidot.org/story?sid=10327	21900
+<a href="mailto:uuhappy@yahoo.cn">Sheik</a> 写道 "如果你是<a href="http://google.com/reader">Google Reader</a>的忠实粉丝，相信你会喜欢上这个<a href="http://www.iwanyo.cn/catalog.asp?tags=Adobe+Air">Adobe AIR</a>的应用<a href="http://code.google.com/p/readair/">ReadAIR</a>，它的基本用户界面几乎是Google Reader的翻版，很熟悉~。
+<i>如果没人提示，你兴许会认为这是<a href="http://www.iwanyo.cn/catalog.asp?tags=Google">Google</a>官方发布的AIR应用程序，它能完美同步你的Google Reader，搜索、标签、添加/删除订阅等功能也一应俱全。它比Google Reader好用的地方，除了可以离线使用（不需要Google Gears支持）外就是只有在你点击了Labels或Tags项时，它才会加载一下，之后当你点击文章标题时，文字内容就会直接显示，无需再等待。UI默认用的是OS X风格，很漂亮(不管你使用的是Windows 还是Mac OS X) ，对中文支持不错（字体不像<a href="http://www.iwanyo.cn/post/338.html">GMDesk</a>那么小）。
+</i>GR的fans就来试试吧！<a href="http://code.google.com/p/readair/downloads/list">进入官方下载列表</a>（无法打开，<a href="http://cid-00656e8d32b971fc.skydrive.live.com/self.aspx/.Public/ReadAir.0.31.air">请点这里</a>）。PS：<a href="http://www.iwanyo.cn/post/385.html">ReadAIR</a>第一次打开界面有错位，退出后再登陆就行了~还有就是记得要先装上<a href="http://get.adobe.com/cn/air/">Adobe AIR</a>哦^_^"
+➜英特尔称AMD违背了2001年的交叉专利协议
+https://www.solidot.org/story?sid=10328	23400
+AMD正忙着与阿联酋政府合作建造一座新的芯片制造工厂Global Foundries，但Intel却非常不开心，它声称<a href="http://osnews.com/story/21138/Intel_AMD_Has_Broken_2001_Cross-Licensing_Deal">AMD破坏了2001年达成的交叉专利协议</a>。<i>
+Intel发言人说，Global Foundries不是交叉专利协议下的子公司（它55.6%的股份属于阿联酋），因此AMD的行为就是违反了交叉专利协议。而AMD的解释却是Intel试图终止交叉专利协议的行为本身就是对协议的破坏。</i>
+➜小偷在Google Earth上寻找铅皮屋顶
+https://www.solidot.org/story?sid=10329	25200
+《每日电讯报》报道，Tom Berge利用Google Earth<a href="http://www.telegraph.co.uk/news/uknews/4995293/Google-Earth-used-by-thief-to-pinpoint-buildings-with-valuable-lead-roofs.html">识别出建筑物的铅皮屋顶</a>，然后飞檐走壁窃走铅皮。<i>
+这位27岁的建筑工人首先在电脑上寻找到有价值的目标建筑物，然后爬上目标建筑物屋顶，带着铅皮沿绳子滑下，最后卖给废品商人。在6个月时间里，他偷走了价值1万欧元（约8.9万人民币）的铅，受害者包括了Honeywood博物馆，萨顿女子中学，Croydon大教堂。他的朋友称因为铅皮屋顶比普通屋顶颜色要深，所以他能在Google Earth上将其区分开来。Berge在二月份被逮捕，法院宣判他有罪，判处6个月缓刑，100小时社区服务。</i>
+➜iPod Shuffle没有硬件DRM
+https://www.solidot.org/story?sid=10330	27000
+最近有流言称苹果的新iPod Shuffle播放器内置了一种特殊的芯片，除了苹果的耳机，其它耳机它都不认，因此有人称其为<a href="http://www.eff.org/deeplinks/2009/03/apple-adds-still-more-drm-ipod-shuffle">硬件DRM</a>（电子前哨基金会）。<i>
+但流言是错误的，iPod Shuffle耳机控制中确实有一个私有芯片，但它仅仅是一个编码器芯片。<a href="http://gadgets.boingboing.net/2009/03/16/manufacturer-confirm.html">没有DRM</a>，它也不会挑耳机，没有理由相信第三方耳机会无法在新Shuffle播放器上工作，或者DRM会控制并影响耳机内音乐的播放。</i>
+➜澳大利亚威胁处罚公开黑名单超链接的网站
+https://www.solidot.org/story?sid=10331	30720
+澳大利亚政府官员警告，如果谁将其黑名单中被禁网站的超链接公布在网站或论坛中，他将被处以罚款等惩罚。
+<i>
+前不久Wikileaks<a href="http://wikileaks.org/wiki/Australian_Government_censorship_of_US_anti-abortion_site_abortiontv.com%2C_21_Jan_2009">披露</a>了澳大利亚通信与媒体管理局（ACMA）维护的黑名单中的一个网站——反堕胎网站abortiontv.com，澳大利亚一个受欢迎论坛Whirlpool上的一个<a href="http://forums.whirlpool.net.au/forum-replies.cfm?t=1158941&amp;p=44#r873%23%23e873">帖子</a>内容包含了该网站的超链接，ACMA恐吓对方，声称将<a href="http://www.smh.com.au/articles/2009/03/17/1237054787635.html">处以每日$11,000的罚款</a>。在线公民自由运动成员以此为证据，指责政府的审查计划是何等容易的扩大到合法网站——因为审查的第一条规则就是你不能讨论审查。</i>
+➜不要用锤砸子弹
+https://www.solidot.org/story?sid=10332	34080
+每个人都须知道一些基本生存规则：不要拿炸弹像西瓜一样滚动，不要在指定地点示威，不要在屋檐边缘附近跑，不要用锤敲击子弹。21岁的Matthew F.Dugger<a href="http://www.abc-7.com/articles/readnews.asp?articleid=27043&amp;z=2">没有学过子弹规则</a>，他在自家的车道上用锤砸子弹，结果子弹爆炸碎片击中他的一条腿，随后他就被送入了医院。爆炸现场还有几位儿童，他们属于Dugger室友，警方正在调查他的室友是否犯有监护儿童不当罪。
+➜wordpress.com可以在大陆境内访问
+https://www.solidot.org/story?sid=10333	35400
+<a href="mailto:wmr89502270@gmail.com">wmr</a> 写道<i>"不慕荣利的科学家会直接把自己最新的科研成果在公布在互联网上，<a href="http://zh.wikipedia.org/wiki/%E9%99%B6%E5%93%B2%E8%BD%A9">Terence Tao</a>就是如此。我订阅了他的<a href="http://terrytao.wordpress.com/">blog</a>（虽然看不懂），今天发现上面的图片可以显示了，尝试后发现整个wordpress.com都能访问了。这是在<a href="http://translate.google.cn/translate_t#en%7Czh-CN%7CGreat%20Firewall%20of%20China">Great FireWall of China</a>2007年中旬封锁后的解封。"</i>
+➜脾气古怪的开发者是救星还是灾星？
+https://www.solidot.org/story?sid=10334	37200
+IT业是一个英雄辈出的领域，而英雄崇拜也是IT文化的象征。但是程序员们是如何看待身边的英雄的，尤其是一位特立独行，脾气怪异的英雄？Eric Spiegel提到了他所在公司的<a href="http://itmanagement.earthweb.com/features/article.php/3810466/Are-Quirky-Developers-Brilliant-or-Dangerous.htm">一位怪人Josh</a>。<i>
+Josh是公司的顶梁柱，但却与其他人格格不入。他的聪明才干和解决问题的能力能为企业节省数百万美元。但另一方面，他着装随便，披头散发，身穿印有攻击性口号的T恤，言语中常侮辱女性的同事，贬低向他请教的其他开发者，他会突然的从工作中失踪几天。为了让他留在公司，他拿着程序员中最高的薪水，有自己的私人办公室。而他的上级主管也处处维护他，支持他，因为没有他，工作就完不成了。Spiegel问他为什么不愿帮助其他程序员，他漫不经心的回答，他不会向一个白痴去解释如何做好份内的工作，如果他不够聪明，就不应该在呆在这里。</i>
+这样的人<a href="http://developers.slashdot.org/article.pl?sid=09/03/16/1355203">值得留下吗</a>？
+➜诺基亚宣布最新裁员计划
+https://www.solidot.org/story?sid=10335	46080
+杨华子毛 写道 "从消息灵通人士的<a href="http://joyloft.net/">博客</a>上获悉，诺基亚在几个小时之前刚刚宣布最新的成本削减方案，通俗的说，就是<a href="http://www.nokia.com/A4136001?newsid=1298174">裁员计划</a>。全球范围内，大约会有1700名员工受此计划影响。nokia目前全球约有雇员13万，照此推算，受影响的员工不足百分之二。<i>
+这是三个月来诺基亚第三次宣布类似成本削减计划。前两次分别是：今年2月24日宣布的主动离职的员工将会得到<a href="http://www.nokia.com/A4136001?newsid=1292827">特别奖励</a>以及去年年底宣布的<a href="http://it.sohu.com/20081222/n261361467.shtml">鼓励15年以上工龄的老员工主动离职</a>。"</i>
+➜Firefox3.5默认Mibbit为IRC应用程序
+https://www.solidot.org/story?sid=10336	47400
+<a href="http://reversethis-moc.liamgtaoahzihs/">shizhao</a> 写道<i> "<a href="http://hg.mozilla.org/releases/mozilla-1.9.1/rev/e8a40aa2120a">最新的Firefox 3.5 nightly build</a>将<a href="http://mozlinks-zh.blogspot.com/2009/03/mibbit-web-irc-firefox-35.html">Mibbit作为IRC的网页应用程序</a>。点击包含irc://（或是加密的ircs://）的链接，firefox将会自动转到 <a href="http://www.mibbit.com/">Mibbit</a>，通过网页界面连接选定的服务器。如果现在就想把Mibbit加入到浏览器中，可以参看<a href="http://mozlinks-zh.blogspot.com/2008/07/mibbit-firefox-irc.html">这个教程</a>。"</i>
+➜在Google上寻找Chuck Norris
+https://www.solidot.org/story?sid=10337	49200
+打开<a href="http://www.google.com/">Google.com</a>；在搜索栏内输入“find chuck norris”，点击“手气不错（I'm Feeling Lucky）”；瞧瞧结果<a href="http://www.reddit.com/r/funny/comments/857vz/1_go_to_googlecom_2_type_in_find_chuck_norris_and/c08a67y">是什么</a>。（注：<a href="__SLASHLINK__" sect="internet" sid="07/12/24/0654237" sn="article" tid="71">Chuck Norris</a>是美国版的芙蓉姐姐，或者芙蓉姐姐是山寨版的Chuck Norris）。如果手比较懒，请点击<a href="http://lmgtfy.com/?q=find+chuck+norris&amp;l=1">这个链接</a>帮你自动完成上述过程。           nochucknorris.com在关键词“Chuck Norris”上排名第一，所以“手气不错”就会跳到这个恶搞Chuck Norris的网站上。

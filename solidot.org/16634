@@ -1,0 +1,18 @@
+➜垃圾邮件流量比重十年来首次低于50%
+https://www.solidot.org/story?sid=44808	38402
+根据赛门铁克2015年6月的《<a target="_blank" href="http://www.symantec.com/content/en/us/enterprise/other_resources/intelligence-report-06-2015.en-us.pdf"><u>Intelligence Report</u></a>》（PDF），垃圾邮件占所有电子邮件流量的比率从今年4月的52.1%、5月的51.5%降至49.7%。十多年来首次低于50%。垃圾邮件流量的下降要感谢邮件服务商改进垃圾邮件过滤以及发送垃圾邮件的僵尸网络遭到执法机构的关闭。垃圾邮件不会消失，但至少我们会更少的看到它们。
+➜Renderman发布支持Blender的扩展
+https://www.solidot.org/story?sid=44809	40409
+皮克斯的著名渲染<u>工具</u>Renderman今年开始向用户<a target="_blank" href="http://renderman.pixar.com/view/non-commercial-renderman"><u>免费提供非商业版本</u></a>，而用户对Renderman的一个请求是支持开源3D图形编辑和渲染软件Blender。皮克斯满足了这一要求，Renderman 20<a target="_blank" href="http://www.blendernation.com/2015/07/09/pixars-renderman-for-blender/"><u>加入了对Blender的支持</u></a>。<a target="_blank" href="https://github.com/bsavery/PRMan-for-Blender"><u>PRMan for Blender扩展</u></a>由Brian Savery领导的一个团队开发，目前还是alpha版本，源代码托管在Gtihub上。
+➜新地平线号在冥王星上发现“冰冻平原”
+https://www.solidot.org/story?sid=44810	42797
+<div align="center"><img src="http://img.solidot.com.cn/0/852/litRm5PnXU2pM.jpg" align="" height="315" width="560"><br>
+<br>
+</div>
+在新地平线号拍摄的飞跃冥王星照片中，中央位置有一大块区域形似心形，它被非正式的命名为Tombaugh区，以纪念冥王星的发现者Clyde Tombaugh。在心形区域中心偏左的位置，NASA科学家注意到有一块巨大的没有陨石坑的<a target="_blank" href="http://www.nasa.gov/press-release/nasa-s-new-horizons-discovers-frozen-plains-in-the-heart-of-pluto-s-heart"><u>冰冻平原</u></a>，其形成历史可能不超过一亿年，很可能仍然处于地质进程之中。新地平线号地质研究发展人Jeff Moore说，这一地形很难解释，称在冥王星上发现巨大的无陨石坑平原超出了之前的预期。冰冻平原被不规则的分裂成多个片段。科学家对此有两种解释：其一是表面材料收缩的结果，类似泥浆变干；其二是对流的产物，可能发生在冰冻一氧化碳、甲烷和氮气构成的表层之中，由内部微量的热能驱动。
+➜哪些电影真实可信的刻画了人工智能？
+https://www.solidot.org/story?sid=44811	49150
+最新一期的《科学》杂志是<a target="_blank" href="http://www.sciencemag.org/content/349/6245/248.full"><u>人工智能专辑</u></a>（付费墙），讨论了机器的崛起，人工智能专家的担忧、机器学习、自然语言处理等方面的研究进展。《科学》<a target="_blank" href="http://news.sciencemag.org/2015/07/which-movies-get-artificial-intelligence-right"><u>还讨论了10部人工智能电影</u></a>，询问了一组AI专家，请他们就AI是否真实可信上进行评分。AI专家一致认为1960年代的《2001太空奥德赛》在AI刻画上最为正确。这十部电影是：《Chappie》 (1/10)、《A.I.》（3/10）、《Blade Runner》（4/10）、《Ex Machina (2015)》（5/10）、《 Transcendence (2014)》（ 6/10）、《I, Robot (2004)》（6.5/10）、《Colossus: The Forbin Project》（ 7/10）、《Bicentennial Man (1999)》（7.5/10）、《Her (2013)》（8/10）、《2001: A Space Odyssey》（9/10）。
+➜Linus也用Gmail，他对Gmail的垃圾邮件过滤有意见
+https://www.solidot.org/story?sid=44812	50902
+Linux作者Linus Torvalds在其G+账户上发表了一封<a target="_blank" href="https://plus.google.com/+LinusTorvalds/posts/DiG9qANf5PA"><u>致Gmail团队的公开信</u></a>，他发现Gmail的垃圾邮件过滤存在严重的误报问题，也就是将正常邮件归类为垃圾邮件过滤掉。Linus检查了大约3000封“垃圾邮件”，发现其中1190封是被错误归类为垃圾邮件。垃圾邮件误报率在0.1%左右是可以接受的，但超过30%绝对是无法接受的，Linus形容为“that sucks”和“Get your shit together”。如果垃圾邮件过滤导致你错过了一封重要邮件比如应聘相关信息？Linus称Gmail的垃圾邮件过滤是从7月13开始出现大量误报，将内核邮件列表lkml标记为Spam，他称Gmail过滤器仇恨邮件列表。

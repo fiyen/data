@@ -1,0 +1,22 @@
+➜分析彩票获胜的数字
+https://www.solidot.org/story?sid=4324	4800
+每个人都梦想一夜暴富，尤其是那种只需要付出一美元代价的方法，政府主持的彩票抽奖活动就为梦想实现提供了一个捷径。彩票的最终结果是一个随机数字，投注人依靠电脑随机或自选来猜测可能的结果以获取最大的蛋糕。在互联网上也流传着许多作弊的方法和理论，不可当真。但人们都很好奇彩票的抽奖结果到底在多大程度上是随机的。Matt Vea对美国最流行的抽奖“成为百万富翁”抽彩（MegaMillions lottery）进行了<a href="http://www.omninerd.com/articles/Pattern_Analysis_of_MegaMillions_Lottery_Numbers">细致的图样分析</a>，目前MegaMillions累积奖金高达3.70亿美元（每注1美元）。Matt的分析结果显示获胜数字并非随机，摇奖系统似乎偏爱某些数字。花1美元购买一注，玩家有1.75711536亿之一的机会获得累积奖金...通过选择部分有利的数字，购买者将有更好的机会分到部分蛋糕。
+➜在自造的CPU上运行Minix
+https://www.solidot.org/story?sid=4325	17700
+Bill Buzbee，惠普实验室的高级研究员，从事于编译和语言工具开发。进惠普在前，他曾在Transmeta公司工作过一段时间（ Linus Torvalds那时也在Transmeta）。他过去的经历为现在的成就打下了基础，Bill Buzbee在Vintage计算机节(<a href="http://www.vintage.org/2007/main/">Vintage Computer Festival</a>)首次向公众展示了开源的<a href="http://www.minix3.org/">Minix OS</a>——Linux的堂兄弟——<a href="http://www.linuxdevices.com/news/NS5804062141.html">运行在自己制造的微处理器上</a>。<i>
+Magic-1小型机包含了200多个电子元件（IC），用数以千计的电线将这些电子元件互相连接起来，计算机有6个外部中断控制器，最高8M内存（目前只有4M）。不采用商用处理器，Buzbee使用了自己创造的处理器，执行8086标准，运行频率4.09 MHz。CPU拥有一个22位的物理地址总线，和一个8位数据总线。</i>
+➜卡耐基梅隆大学赢得城市挑战赛
+https://www.solidot.org/story?sid=4326	19500
+美国国防部高级研究计划署（DARPA）举办的无人驾驶汽车城市挑战赛（Urban Challenge），目的是考验机器人汽车是否能应付各种突变的城市交通情况。<a href="http://www.darpa.mil/grandchallenge/">挑战赛的结果已经揭晓</a>，卡耐基梅隆大学的<a href="http://www.tartanracing.org/">Tartan Racing</a>团队获得第一，同时赢得200万美元奖金；紧随其后的是斯坦福大学的<a href="http://cs.stanford.edu/group/roadrunner/">Stanford Racing</a>团队，赢得100万美元奖金；维吉尼亚理工大学的<a href="http://www.victortango.org/">Victor Tango</a>车队获第三，赢得50万美元奖金。科内尔（Cornell）大学的<a href="http://www.cornellracing.com/">Team Cornell</a>，宾夕法尼亚大学和理海大学的<a href="http://www.benfranklinracingteam.org/">Ben Franklin Racing Team</a>，以及<a href="http://grandchallenge.mit.edu/">MIT</a>都顺利完成了比赛。
+➜CentOS是否在伤害Red Hat？
+https://www.solidot.org/story?sid=4327	23700
+CentOS（Community ENTerprise Operating System）是Linux发行版之一，它是将Red Hat Enterprise Linux的源代码重新编译而成（主要是去除Red Hat商标）。<a href="http://www.interopnews.com/news/how-badly-is-centos-hurting-red-hat.html">为什么Red Hat容忍CentOS的这种行为</a>？CentOS从Red Hat 服务器下载源代码，编译，免费发放，不提供付费商业支持。Red Hat发布升级补丁，几小时后或至多几天，CentOS也会跟着放出补丁。CentOS这样做完全合法，Red Hat也无可奈何，它的商业就是基于开源模式。但CentOS确实在不断吞食Red Hat的市场，从<a href="http://www.google.com/trends?q=rhel,+centos">Google趋势</a>上也能观察到。从目前的情况来看，CentOS造成的伤害还没有到达让Red Hat不得不改变商业模式的地步。而好处是它迫使Red Hat加快创新，使之始终走在其它Linux服务器发行版的前面。CentOS巨大成功的真正的受害者是其它的发行版，如Novell的SLES，Ubuntu Server。
+➜图像密码比文字更安全
+https://www.solidot.org/story?sid=4328	26400
+人类在回忆图像方面拥有显著的的能力，纽卡斯尔大学的研究人员就利用这种特性，创造出一种图像加密法，<a href="http://www.ncl.ac.uk/press.office/press.release/content.phtml?ref=1193215475">他们声称它比普通的文字密码安全千倍</a>。使用Draw a Secret(DAS)技术，用户只需在背景上画一幅图，之后图像被编码成一个有序的单元，软件会记录笔划和笔尖移动的次数。如果用户以花为背景，在上面画上蝴蝶当作图像密码，用户必须记住网格的起始位置，安排自己的笔划顺序。图像加密法将对其编码进行验证是否相同，验证的并非是图画本身，它允许少数误差幅度存在，重新绘图无需完全精确。软件最初将设计用于手持设备如iPhones，Blackberry和智能手机，以后会扩大使用范围。计算机科学家Jeff Yan称，“最令人兴奋的特点是它同时增强了易用性和安全性。”
+➜终极电容器不久将取代部分锂电池？
+https://www.solidot.org/story?sid=4329	28800
+终极电容器——或叫超级电容器和双层电容器——最古老的非化学反应能量储存技术，依旧在快速成长。<a href="http://www.spectrum.ieee.org/nov07/5636">IEEE Spectrun</a>报道，终极电容器也许将和电池一样成为<a href="http://hardware.slashdot.org/article.pl?sid=07/11/04/2259232">不可或缺的便捷式能量来源</a>。一些研究人员称不久之后就可创造出一种电容器，与锂电池相同大小，储存的能量能达到锂电池的50%。这种电容器在移动设备、电力推进的交通工具上大有可为。
+➜Hans Reiser接受ABC 20/20采访
+https://www.solidot.org/story?sid=4330	31800
+ABC电视台《20/20》电视杂志<a href="http://abcnews.go.com/2020/story?id=3807336&amp;page=1">在狱中采访了Hans Reiser</a>——被指控谋杀妻子、医生、两个孩子的母亲Nina Reiser。采访没有提供多少与谋杀案相关的信息，主要围绕Reiser与Nina相遇，结婚，以及婚后的矛盾。采访描述了许多让我们陌生的故事，例如Reiser希望Nina在家专心做职业母亲，他负责养家糊口。在Nina失踪后，他一直试图逃避警察的质询，甚至跳出汽车跑走，在审判之前他的律师现在要求不要谈论案件相关的证据。Nina的母亲认为Nina与一个错误的男人相爱，而Reiser依旧对Nina耿耿于怀，一提起就勃然大怒。现在他的两个孩子跟俄罗斯的祖母生活在一起，他写给孩子的信中绝口不提他们的母亲，但孩子的回信始终在问，“我们的妈妈在哪里？”<a href="http://abcnews.go.com/Video/playerIndex?id=3813355">采访视频</a>。

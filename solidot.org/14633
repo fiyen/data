@@ -1,0 +1,100 @@
+➜为什么中国如此偏爱IE6
+https://www.solidot.org/story?sid=15919	4680
+根据Statcounter统计的<a href="http://gs.statcounter.com/#browser_version-CN-daily-20090101-20100124">浏览器市场份额</a>，IE6在中国大陆的地位几乎从未发生变化，从2009年1月1日到2010年1月23日，IE6的份额从58.26%增加到59.67%，期间峰值为70.11%。Firefox的份额几乎可以忽略不计。这是让人觉得匪夷所思的事情，为什么中国如此偏爱IE6？<i>
+Mozzila中国负责人、谋智网络董事长兼CEO宫力在官方博客上描述了<a href="http://blog.mozilla.com/ligong/2010/01/22/china%E2%80%99s-strange-fixation-on-ie6/">中国对IE奇怪而固执的热爱</a>。宫博士称，中国的在线银行都严重依赖于Windows和IE6，甚至开源企业如Sun Microsystems和Red Hat中国分公司的金融部门都必须部署Windows PC，否则就干不成事。IE和IE克隆软件（研究公司iResearch跟踪到中国有35款以IE为核心的修改软件，如TT、360、Maxthon等），它们统治着中国的浏览器市场。Google被攻击事件与IE6的0day漏洞有关，法国德国都建议居民不要用IE，但在中国，似乎没人在意。宫力认为出现这种现象是源自于“无知”。但有博客表达了<a href="http://www.morgancheng.com/">异议</a>，认为“IE6在中国的统治地位，很大程度上是因为Windows XP太成功了，中国大量的PC上安装的都是盗版Windows XP，而Windows XP上的预装浏览器就是IE6”</i>
+➜戴尔电脑标错价事件，法官判免出货
+https://www.solidot.org/story?sid=15920	5760
+TVBS<a href="http://tw.news.yahoo.com/article/url/d/a/100123/8/1zbae.html">报道</a>，去年台湾喧腾一时的戴尔电脑标错价事件，当时戴尔不承认下单，拒绝出货，有网友愤而提告，如今判决出炉，判原告败诉。<i>
+法官林呈樵在判决书里头，承认自己也是乡民，亲眼见到网友争相转告下单的“盛况”，法官就分析，多数网友可能抱持这样的心态，就是明知道戴尔不会履约，但还是可以赌一把，「因为赌输了没损失，赌赢了就赚到」，所以就算明知判决出炉，会引来为虎作伥的批评，还是坚决要判网友败诉。原告之诉驳回，还得负担1千元的诉讼费用，这个就是网友告戴尔诈欺的判决书，结果就是戴尔不必出货。</i>去年12月，卓越也发生了类似的<a href="__SLASHLINK__" sect="it" sid="09/12/26/0129252" sn="article" tid="53">标错价事件</a>，同样出现了网民争相转告下单的“盛况”。
+➜4套在线翻译Web API
+https://www.solidot.org/story?sid=15921	7200
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "在线自动翻译不再是神话，虽然机器的翻译质量仍不能和专业翻译人员相提并论，但已经发展到可以让人大体理解的地步，目前，最著名的4个翻译引擎包括 Google Translate, Babel Fish, Promt or FreeTranslations，其中 Google Translate 发展最为迅猛，本文介绍4个在线翻译 Web API，它们绝大多数都基于 Google Translate（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K890.aspx">完整图文版</a>）。           <a href="http://translate.google.com/translate_tools">Google  Translate Tools </a>
+<br> <br>首先，<a href="http://translate.google.com/translate_tools">Google  Translate</a> 提供了一个简单的 widget，你可以直接将这个 widget 复制粘贴到你的 Web 页面，这个 widget 会显示一个 52 种语言的下拉菜单，选中相应语言，用户会被重定向到 <a href="http://translate.google.com/">translate.google.com</a> 进行翻译，并看到前页的翻译结果。
+<br> <br>虽然这个 widget 很简单，但缺点是有点过时，而且，用户会被重定向到 Google 站点，用户的访问体验会被打断。
+<br> <br>译者注：事实上，除了这个简单的 widget ，Google 还提供一整套非常强大的<a href="http://code.google.com/apis/ajaxlanguage/documentation/">翻译 API</a>，基于这套 API 你可以设计出非常好用的在线翻译工具。以下的第三方翻译 API 都是基于 Google 翻译 API。<br> <br>
+<a href="http://translateth.is/">The TranslateThis Button </a>
+<br> <br>Google Translate Tools 的一个替代品是 <a href="http://translateth.is/">The  TranslateThis Button</a>。这也是一个翻译 widget，可以被复制粘贴到你的网页，该 widget 基于 Google 翻译 API，因此，也提供52种语言的翻译，但用户界面更漂亮一些，使用了灯箱式对话框，现实不同语种的图标，更重要的是它不会将用户重定向到 Google 站点。
+<br> <br>该 widget 使用 JavaScript，将 Google 的翻译结果替换到当前页面，它的速度也很不错。整个 API 的尺寸不少过12 k，相当小巧。
+<br> <br> <a href="http://translateth.is/docs">阅读该 API 文档和更多资料</a> <br> <br>
+<a href="http://code.google.com/p/jquery-translate/">jQuery  Translate Plugin </a>
+<br> <br>另一个客户端翻译 API 为 <a href="http://code.google.com/p/jquery-translate/">jQuery Translate   Plugin</a>。这个 API 也是对当前页面内容进行识别，并用 JavaScript 送到 Google 翻译 API 那里翻译。
+<br> <br>该 API 的优点是，它可以将多段分散的文本连起来，一次性送给 Google 翻译 API 进行翻译，这样可以显著降低请求的次数，不过它的速度比 TranslateThis Button 慢，而且，即使不考虑 jQuery 框架的尺寸，单纯这个插件的尺寸也和 TranslateThis 一样大。<br> <br>
+<a href="http://wordpress.org/extend/plugins/global-translator/">Global  Translator (Wordpress)</a>
+<br> <br>客户端的翻译 API 速度很快，也容易部署，但，如果你的站点流量很大，为了提高性能，因该考虑服务器端的翻译API。
+<br> <br>Davide Pozza 设计的 <a href="http://wordpress.org/extend/plugins/global-translator/">Global   Translator</a> 是一个 WordPress 插件，可以为任何基于 WordPress 的站点提供 41 个语种的翻译，它的功能包括快速缓存以及 SEO 友好的静态永久链接，另外，该API允许你选用4种不同的翻印引擎，包括  Google  Translate, Babel Fish, Promt or FreeTranslations。
+在线翻译将何去何从？
+<br> <br>自动在线翻译近年来获得长足发展，并变得越来越好，Google 翻译 API 支持的语种越来越多，而翻译质量已经速度也在稳步提高。
+<br> <br>将来，Google 有可能允许更长的文本提交到他们的 API，目前是 1000 字，如果提高到 2000 字，那些基于它的 API 的速度可能会明显提高。
+<br> <br>另外，Google 翻译最近又推出了 <a href="http://googleblog.blogspot.com/2009/11/new-look-for-google-translate.html">Text   to Speech</a> 支持，Weston Ruter 还推出了一个<a href="http://weston.ruter.net/projects/google-tts/">基于该 API 和 HTML5  音频标签的脚本</a>。
+<br> <br>本文国际来源：<a href="http://sixrevisions.com/tools/reach-a-larger-audience-with-content-translation-tools/">http://sixrevisions.com/tools/reach-a-larger-audience-with-content-translation-tools/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS 网站内容管理系统</a>官方站"
+➜Google创始人计划套现55亿美元
+https://www.solidot.org/story?sid=15922	8400
+Google创始人Larry Page和Sergey Brin向美国证券管理机构<a href="http://news.slashdot.org/story/10/01/23/1756220/Larry-amp-Sergey-To-Cash-In-55B-of-Google-Chips">提出申报</a>，计划在未来五年，各自分阶段出售五百万股，如果以星期五的收盘价计算，一千万股<a href="http://tw.news.yahoo.com/article/url/d/a/100123/1/1zb30.html">市价达55.001亿美元</a>。Page和Brin目前持有Google股权比例接近59%，在减持之后，两人持股占公司股权比例将降到48%，Google的股票星期五盘后交易下跌了0.5%，目前股价547.30美元。
+➜PayPal冻结Wikileaks帐户
+https://www.solidot.org/story?sid=15923	9000
+/.<a href="http://yro.slashdot.org/story/10/01/23/2138204/PayPal-Freezes-the-Assets-of-Wikileaksorg">报道</a>，PayPal已经冻结了泄密网站Wikileaks.org的资产。<a href="http://www.wikileaks.org/">Wikileaks</a>在发表在网站首页上的声明中称：<i>“
+PayPal在1月23日冻结了WikiLeaks的资产。这是第二次发生这种情况。上一次我们用了超过半年的时间才解决这一问题。通过与备受尊重和认可的德国基金会Wau Holland合作，我们试图避免此种事情再次发生的努力——（然而最新的事件证明）是徒劳的。”WikiLeaks表示他们会尽可能快解决问题，想向Wikileaks捐款的人目前只能使用直接的银行转帐。</i>
+➜Google工程师爆出Windows系统17年高危漏洞
+https://www.solidot.org/story?sid=15924	27120
+<a href="http://3seconds.cn/">3秒</a> 写道 <i>"computerworld消息:导致谷歌遭受严重入侵的“极光”IE漏洞引发的大规模攻击刚开始，谷歌工程师Tavis Ormandy又曝出一个名为Windows“<a href="http://3seconds.cn/2010/01/24/google-windows-32bit-17years-bug.html">本地提权</a>”的高危0day漏洞，该漏洞从1993年到现在已存在17年。传闻针对这一漏洞的利用代码已在网上流传，很可能引发新一轮挂马攻击。该漏洞存在于Windows系统中Windows Virtual DOS Machine (VDM)部件，而自从1993年7月份开始VDM部件就被加入到了微软的第一个32位操作系统Windows NT中，之后它一直都是Windows系统的重要组成部分，使用它你可以用户运行DOS和16位的Windows软件，所以这个漏洞会影响到Windows XP、Vista、Windows7、Server 2003以及Server 2008等主要的32位版本Windows操作系统的安全。新一轮的媒体关注和口水又将到来。"
+</i>
+微软17年高危漏洞<a href="http://xianguo.org/vdmexploit.rar">利用工具及源码下载 </a>
+➜1992年的Windows 3.1在Web上复活
+https://www.solidot.org/story?sid=15925	30600
+Osnews<a href="http://www.osnews.com/story/22783/Re-Live_1992_With_Windows_3_1">报道</a>，一位喜欢浪费时间的web开发者在浏览器上重现了1992年的Windows 3.1的完整体验。<a href="http://www.michaelv.org/">Michaelv.org</a>包含了游戏、记事本和网络浏览器。其中的浏览器可能有几分时光超越了，因为它甚至兼容2010年的网站。在浏览器上重现旧事物的行为艺术并不少见，比如有开发者制作的<a href="http://osx.portraitofakite.com/">复古OS X</a>和<a href="http://ossdb.quebecgeeks.net/ossdt/www.protic.net/heritage_2007/lepagee/windows/frame2.htm">复古Ubuntu 6.06</a>。
+➜粘菌是网络工程大师
+https://www.solidot.org/story?sid=15926	39120
+konit的<a href="http://solidot.org/~konit/journal/">日志</a>引用了一则<a href="http://discover.news.163.com/10/0123/11/5TN9945V000125LI.html">网易</a>翻译自《Science News》的<a href="http://www.sciencenews.org/view/generic/id/55512/description/Slime_mold_is_master_network_engineer">新闻</a>：日本和英国的研究人员发现粘菌是网络工程大师。
+<i>
+根据发表在最新一期《科学》杂志的<a href="http://www.sciencemag.org/cgi/content/abstract/327/5964/439">报告</a>，日本北海道大学的淳泰罗（Atsushi Tero）和同事认为人类工程师可以向低等的粘菌学习可靠和经济高效的网络建设技术。“粘菌是一种大型、单细胞变形虫有机体，能够寻找到不规则分布的食物来源。它可以在一个迷宫里找到最短路径，或以高效的方式连接不同的食物阵列，而且不会出现故障容差，它只是很自然地做到这一切。由于粘菌一直受到无数的进化选择，其食性使它们更有效地形成交通和通信网络系统。”</i>
+➜评点2010技术商业的5大趋势
+https://www.solidot.org/story?sid=15927	43800
+<a href="http://iflonely.com/">iflonely.com</a> 写道 "《时代》周刊在去年12月大喊一句：终于再见了，“地狱十年”！虽然我不惮以最坏的预期来面对2010年，但是一个坏年代会毁了一代的年轻人。作为一个迎来人生第二个本命年的年富力强者，我大喊一句，希望2010年最黑暗中给我透出点曙光！以下是<a href="http://ces.cnet.com/">CES 2010</a>归纳出的<a href="http://ces.cnet.com/8301-31045_1-10436094-269.html?tag=mncol;title">5大趋势</a>（详细介绍：<a href="http://iflonely.com/wordpress/2010/01/tech_trend_2010/">请看这里</a>）<i>No.5 Mobile TV 移动电视<br>
+No.4 Apps 应用<br>
+No.3 EBook 电子书<br>
+No.2 Tablet or  “Slate” 平板<br>
+No.1 3D"</i>
+➜Linux EXT4新文件系统
+https://www.solidot.org/story?sid=15928	45420
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "Linux Kernel开始正式支持新的<a href="http://news.wangmeng.cn/detailNews/1680-linux-ext4-the-new-file-system">文件系统EXT4</a>，在EXT3的基础上增加了大量新功能和特性，并能提供更佳的性能和可靠性。
+<i>EXT3其实只是在EXT2的基础上增加了一个日志功能，而EXT4的变化可以说是翻天覆地的，比如向下兼容EXT3、最大1EB文件系统和16TB文件、无限数量子目录、Extents连续数据块概念、多块分配、延迟分配、持久预分配、快速FSCK、日志校验、无日志模式、在线碎片整理、inode增强、默认启用barrier等等。   正因为迁移方便，性能令人满意，<a href="__SLASHLINK__" sect="linux" sid="10/01/15/037233" sn="article" tid="26">Google都已经宣布正在从EXT2转向新的EXT4</a>。
+<br>不过在实际应用中，EXT4文件系统的性能表现却难以令人满意，甚至有随着系统内核升级而逐步下滑的趋势。其实这并不是EXT4本身的错，而是开发人员为了充分保证新文件系统的数据可靠性，不断引入新的安全保护措施，从而在性能上有所牺牲，毕竟鱼与熊掌不可兼得。"</i>
+➜大片新特性：野蛮强拆引发的血案
+https://www.solidot.org/story?sid=15929	45660
+<a href="http://iflonely.com/">iflonely.com</a> 写道 "《阿凡达》、《飞屋环游记》、《第九区》的共同点：<a href="http://iflonely.com/wordpress/2010/01/%E3%80%8A%E9%98%BF%E5%87%A1%E8%BE%BE%E3%80%8B%E3%80%81%E3%80%8A%E9%A3%9E%E5%B1%8B%E7%8E%AF%E6%B8%B8%E8%AE%B0%E3%80%8B%E3%80%81%E3%80%8A%E7%AC%AC%E4%B9%9D%E5%8C%BA%E3%80%8B%E7%9A%84%E5%85%B1%E5%90%8C/">野蛮强拆引发的血案</a>
+<i>
+《阿凡达》（Avatar）是一个下肢不能动的人类本来作为城管的奸细去钉子户大本营探明敌情，没想到因为钉子户的房子和花园都太美了，外加找到个以后能当精神首领的女娃当老婆，当然摇身一变，从城管变为钉子户的大首领，统帅万千纳威钉户，最后赢得胜利。
+<br>
+《飞屋环游记》(UP)则源自美国西雅图关于老太伊迪丝·梅斯菲尔德（Edith Macefield）的真实故事。一个孤老不为开发商的金钱诱惑，只希望静静缅怀自己已过世的老伴，在推土机的威胁下，使出妙招，连人带房子飞向天使瀑布（Angel Falls)。
+<br>
+《第九区》（District 9)给我的感动其实比《阿凡达》更多。本来耀武扬威、看上很装模作样、拿别人的痛苦作为自己邀功晋升工具的一个城管，不想被无可挽回的成了钉子户部族。于是一个尖锐的问题暴露出来，钉子户自身也不想成为钉子户的。《第九区》其实很有隐喻，或者我们这些自作聪明，非要说出点道道的人，很可以想想这层隐喻。它们影响市容、它们是犯罪的来源、它们对“我们”造成伤害，这些是赶走他们的理由吗？“我们”中间没有犯罪吗？再退一步说，他们其实很想离开地球，离开不了；他们终于有了办法离开地球，离开不了。对话的平台在哪里，互相信任的机制在哪里，一切都如此武断暴力。"</i>
+➜朝鲜人以物易物
+https://www.solidot.org/story?sid=15930	45900
+Stranger 写道 "宗教网站AsiaNews.it报道，<a href="http://www.asianews.it/news-zh/%E5%8C%97%E6%9C%9D%E9%B2%9C%E9%99%B7%E5%85%A5%E5%8D%B1%E6%9C%BA%E9%9D%A0%E4%BB%A5%E7%89%A9%E6%98%93%E7%89%A9%E7%94%9F%E5%AD%98-17402.html">北朝鲜政府灾难性的货币改革政策最终将不堪一击的独裁政权经济体系推向彻底瘫痪</a>。目前，两千二百万人口只能靠以物易物维持生存，等待政府推出新的货币兑换。
+<i>身在韩国的北逃证实了这一消息。其中一人同其家人取得了联系，据说，“情况无法描述，比以前更加可怕：只能靠换东西生存”。北朝鲜人彼此心照不宣，以物换物完全按照旧价格计算。换言之，一只鸡价值1,500圆、一公斤小麦价值900圆。现在，一只鸡能换大约三斤谷物。</i>
+他们可以延长自己的独裁时间：“这是我家的孩子，我们家情况不同，要怎么管教我们自己拿主意，是打是杀你们外人管不着。你们反对家庭暴力是打着法律旗号干预我家内政。”（via @wenyunchao）"
+➜我如何退订Solidot的邮件订阅？
+https://www.solidot.org/story?sid=15931	46020
+<a href="mailto:lhggame@gmail.com">Reinhardt</a> 写道 "每天一封，而且编码还是ISO的？<br>
+……下面附上2010-1-21日的新闻：<br>
+Solidot Daily Headline Mailer<br>
+GoogleæŽ¨è¿Ÿåœ¨ä¸­å›½å‘å¸ƒä¸¤æ¬¾Androidæ‰‹æœº<br>
+from the Androidç½‘ç«™è¿˜æœ‰æ²¡æœ‰å° dept.<br>
+posted by matrix on æ˜ŸæœŸä¸‰ 1æœˆ 20, @08:45 (Google)<br>
+<a href="__SLASHLINK__" sect="it" sid="10/01/20/0047259" sn="article" tid="26">http://it.solidot.org/article.pl?sid=10/01/20/0047 259</a>
+ç ”ç©¶å‘çŽ°è‡ªç„¶ä½“å‘³æ›´å¸å¼•å¼‚æ€§<br>
+from the æ½œæ„è¯† dept.<br>
+posted by matrix on æ˜ŸæœŸä¸‰ 1æœˆ 20, @09:08 (å¨±ä¹)<br>
+<a href="__SLASHLINK__" sect="science" sid="10/01/20/018243" sn="article" tid="71">http://science.solidot.org/article.pl?sid=10/01/20 /018243</a> <br>
+<br>
+å¾®è½¯æ‰¿è¯ºå°†æå‰å‘å¸ƒIEæ¼æ´žè¡¥ä¸<br>
+from the kill-IE6 dept.<br>
+posted by matrix on æ˜ŸæœŸä¸‰ 1æœˆ 20, @09:36 (å¾®è½¯)<br>
+<a href="__SLASHLINK__" sect="software" sid="10/01/20/0139242" sn="article" tid="32">http://software.solidot.org/article.pl?sid=10/01/2 0/0139242</a> <br>
+<br>
+ç™¾åº¦èµ·è¯‰ç¾Žå›½åŸŸåæ³¨å†ŒæœåŠ¡å•†<br>
+from the ä¼Šæœ—ç½‘å†›ç½®èº«äº‹å¤– dept.<br>
+posted by matrix on æ˜ŸæœŸä¸‰ 1æœˆ 20, @09:48 (ç™¾åº¦)<br>
+<a href="__SLASHLINK__" sect="internet" sid="10/01/20/0149249" sn="article" tid="110">http://internet.solidot.org/article.pl?sid=10/01/2 0/0149249</a> <br>
+<br>
+<strong>NOW，How can I quit the subscription？</strong>"

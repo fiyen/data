@@ -1,0 +1,81 @@
+➜西厢计划原理
+https://www.solidot.org/story?sid=16751	3600
+4G Space博客简要介绍了<a href="http://blog.youxu.info/2010/03/14/west-chamber/">西厢计划的原理</a>，认为修复墙的漏洞并不是一件很容易的事。<a href="__SLASHLINK__" sect="internet" sid="10/03/10/1343245" sn="article" tid="120">西厢计划</a>背后的中国黑客是从<a href="http://www.faqs.org/rfcs/rfc793.html">TCP 协议</a>中找到了可用的方法：<i>“
+可以说处理这些七七八八的漏洞是非常困难的，迫使墙的设计者‘拆东墙，补西墙’。这样补来补去，外表看起来好像很牛逼的墙，其实有很多本质上无法简单修补的漏洞，其中有一个致命的，就是 TCP 连接状态的判定问题。 出于入侵检测系统这种设计的局限，墙没有，也没办法准确判定一条 TCP 连接的状态，而只是根据两边收到的数据来‘推测’连接的状态....西厢计划的实现，因为依赖于 Linux 内核模块 netfilter, 在 Linux上如鱼得水，但往其他平台的移植可能是个亟待解决的问题。”</i>根据<a href="https://groups.google.com/group/scholarzhang-dev/browse_thread/thread/55fe473897657e22">邮件列表</a>，开发者已经<a href="http://code.google.com/p/scholarzhang/downloads/list">发布</a>了Windows移植测试版（仅适用于32位操作系统）。
+➜SETI启动50周年，尚未发现ET信号
+https://www.solidot.org/story?sid=16752	5100
+1960年，康乃尔大学的天文学家德雷克（Frank Drake）在美国国家射电天文台使用无线电开始了首次寻找地外文明的试验——<a href="http://zh.wikipedia.org/zh-cn/%E5%A5%A7%E8%8C%B2%E7%91%AA%E8%A8%88%E7%95%AB">奥兹玛计划</a>。1961年，首次搜寻地外文明计划（SETI）的会议在西维吉尼亚州举行，德雷克正式提出了著名的计算外星智能生命数量的<a href="http://zh.wikipedia.org/zh-cn/%E5%BE%B7%E9%9B%B7%E5%85%8B%E6%96%B9%E7%A8%8B%E5%BC%8F">德雷克方程式</a>。下个月，SETI迎来了50周年，但至今天文学家仍然没有找到任何外星智能生命的信号。SETI Post-Detection Taskgroup主席Paul Davies<a href="http://science.slashdot.org/story/10/03/14/2219246/SETI-Is-50-Years-Old-No-Sign-of-ET">认为</a>需要重新思考和扩大ET搜寻。
+➜相关部门警告Google主要合作伙伴
+https://www.solidot.org/story?sid=16753	7200
+东施物语 写道 "一位业界专家透露，相关部门对基于中国的Google中文搜索引擎的主要合作伙伴<a href="http://www.nytimes.com/2010/03/15/world/asia/15google.html?ref=business">发出警告</a>，要求他们必须配合当局继续审查。<i>
+周五相关部门警告一些Google最大的合作伙伴（如新浪和赶集网都使用Google作为默认搜索引擎），要求他们准备好后备计划，以防备Google取消中文搜索引擎的内容审查。但是这位专家未透露遭警告者为哪些企业。这一警告预示着Google两月来和中国当局的谈判进入僵局，极可能以Google关闭中文搜索引擎为结局。</i>
+3月14日新华网发表<a href="http://news.xinhuanet.com/comments/2010-03/14/content_13170336.htm">评论文章</a>，指责Google此举是想靠炒作提高知名度。"
+➜网络的暗流
+https://www.solidot.org/story?sid=16754	7680
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道<i> "在Google索引的网页后面是一个鲜有人知的网络世界。那是一个宏大的世界，包含了秘密而又有价值的信息，由庞大的数据库，隐秘的网站和黑暗的论坛组成。这个世界包含着学术研究者们梦寐以求的数据，可用来解决与人类相关的某些最重大的问题。但它也是犯罪财团出没，恐怖主义手册和儿童色情自由传播之地。<a href="http://www.pcpro.co.uk/features/356254/the-dark-side-of-the-web">这个深度世界（the deep web)和它的“暗网”(darknets)</a>已成为新的战场，交战的一方坚定地维护网络隐私权，另一方则认为权利应为社会安全而作牺牲。同时它也是试图在搜索领域挑战Google的人的新的前线。不过战况并不激烈，暗网也与远没有它听起来得那么诡异和罪恶。从计算机科学的角度来看，它只是互联网的一部分，由于各式各样的原因，不被Google之类的传统搜索引擎检索到。"</i>
+➜微软雇员爱iPhone
+https://www.solidot.org/story?sid=16755	8100
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424052748703455804575057651922457356.html">报道</a>，微软雇员都是最新电子设备的狂热爱好者，但是有一种设备大家都是心照不宣：<a href="http://apple.slashdot.org/story/10/03/14/208200/Microsoft-Employees-Love-Their-iPhones">iPhone</a>。<i>
+iPhone是微软的长期竞争对手苹果所造，它的成功反衬出微软在移动行业的每况愈下。让雷德蒙巨人尤其感到伤害的是它的雇员对iPhone是如此痴迷。去年9月的微软员工大会上，一位倒霉蛋拿出iPhone给微软CEO鲍尔默拍照，鲍尔默劈手抢过iPhone，据现场人士描述：鲍尔默将iPhone放在地上，假装要在众目睽睽之下用脚踏碎它。微软发言人拒绝对此事发表评论。据来自高层的小道消息，去年大约有1万名雇员通过iPhone访问了微软的雇员邮件系统，这个数字约占到微软全球员工总数的10%。苹果的雇员看起来对自家的iPhone十分忠诚，很少有苹果员工被看到使用其它公司的手机。截至1月31日，iPhone占据了美国智能手机市场的25.1%，相比之下运行Windows Phone的手机只占15.7%。</i>
+➜月球测距后向反射器信号神秘老化
+https://www.solidot.org/story?sid=16756	10800
+arXiv blog<a href="http://www.technologyreview.com/blog/arxiv/24892/">报道</a>（台北天文馆网站中文<a href="http://tamweb.tam.gov.tw/news/2010/201003/news2010031201.htm">报道</a>）：月球激光测距实验提供了关于月球的重要信息，例如它正以每年38毫米的速度远离我们。月球测距原理十分简单：天文学家向月球反射器发射一束激光，然后用望远镜寻找反射光，根据地月距离大约两秒后就能收到反射信号。<i>
+1960年代阿波罗11、14、15号任务在月球表面安置了月球测距后向反射器（LRRRs），然而现在它们已出现老化迹象，因此信号观察正逐渐成为一大挑战。天文学家通常会在4-8分钟内发射一束激光至阿波罗15号放置的LRRRs，每次约发射1017个光子，只会探测到1个返回光子的信号，因此每回开始进行测距工作时，都得以20Hz的频率发出数千激光信号，才能收到足够的数据。LRRRs设计是即使在阳光直射下也能维持恒温，避免阳光直射导致温度上升而无法运作的状况，反射器只有在满月时才会被太阳直接照射到。除了阳光因素外，月尘是一个可能影响信号强度的因素。比较历年来各天文台所接收的数据，在1973～1975年间，没有任何满月衰减的状况；但1979～1984年间，开始出现满月衰减现象。研究人员发现过去40年内，信号衰减率达十五分之一左右。</i>
+➜无缝迁移现有应用到云端
+https://www.solidot.org/story?sid=16757	15480
+<a href="http://iflonely.com/">iflonely.com</a> 写道 "对于云计算来说，设计并建造基于云的软件是一回事，而迁移现有的应用到云又是另外一回事了。而很多公司恰恰都会走迁移的路线。这意味着为了符合特定云计算提供商的构架，应用的所有代码都必须重写。CloudSwitch公司设计了一种<a href="http://iflonely.com/wordpress/2010/03/%E6%97%A0%E7%BC%9D%E6%97%A0%E7%BC%9D%E8%BF%81%E7%A7%BB%E7%8E%B0%E6%9C%89%E5%BA%94%E7%94%A8%E5%88%B0%E4%BA%91%E7%AB%AFcloudswitch/">新型软件</a>，可以轻而易举地把现有应用移到云端，易如文件夹之间的文件拖曳。
+<i>
+<a href="http://www.cloudswitch.com/">CloudSwitch Explorer</a>最近释出了<a href="https://home.cloudswitch.com/signup?user%5Bcustomer_attributes%5D%5Bdesired_product_type%5D=Explorer">免费Beta</a>(需注册)版本。在公司安装之后，管理员可以将5台windows或Linux虚拟机移到Amazon EC2，随后就可以像管理本地软件那样管理他们。公司的最终目的是能够把试用客户转化成付费用户并管理更多虚拟机。"</i>
+➜SpaceX完成Falcon 9火箭首次发射台点火测试
+https://www.solidot.org/story?sid=16758	19200
+私人太空公司SpaceX的<a href="__SLASHLINK__" sect="science" sid="10/02/24/115228" sn="article" tid="102">Falcon 9火箭</a>于3月9日执行了首次<a href="http://spacex.com/updates.php">静态点火测试</a>，但高压氦气阀未能按点火指令打开，氦气被用于加速火箭引擎的涡轮泵；从3月10到12日，雷暴雨和大风阻碍了SpaceX的测试计划；直到3月13日，Falcon 9火箭的9个引擎才成功完成了<a href="http://spaceflightnow.com/falcon9/001/100313staticfire/">首次发射台点火测试</a>，这次关键测试为火箭在4月发射扫清了障碍。SpaceX在一份书面声明中称，15层楼高的Falcon 9火箭第一节九颗Merlin引擎在3.5秒内根据发射指令成功点火。Falcon 9的首次发射时间预计不会早于4月12日。
+➜调查称多数读者只看不到5个新闻网站
+https://www.solidot.org/story?sid=16759	23400
+《纽约时报》<a href="http://www.nytimes.com/2010/03/15/business/media/15pew.html">报道</a>，皮尤研究中心的<a href="http://www.stateofthemedia.org/2010/">一项调查</a>发现，虽然读者可以选择的在线新闻媒体数不胜数，但多样化的新闻消费远远未成为现实。<i>
+35%的在线新闻读者有一个偏爱的网站，21%的人主要依靠一个单一的互联网新闻来源，57%的读者依靠2到5个网站，只有7%的人表示愿意为新闻付费，即使在那些依靠单一网站的读者群中，也只有19%的人表示愿意为内容付费。《纽约时报》已经宣布将在明年启动收费系统。</i>
+➜德国开发人眼控制系统
+https://www.solidot.org/story?sid=16760	25200
+<a href="mailto:threejek@gmail.com">threejek</a> 写道 "德国雷根斯堡大学研究人员开发出一种<a href="http://www.uni-regensburg.de/Universitaet/Pressemitteilungen/Pressemitteilungen/0310_Maerz/bright-eyes.htm">人眼控制系统</a>(德语)，名为<a href="http://news.wangmeng.cn/detailNews/1960-german-development-of-the-human-eye-recognition-software">亮眼晴系统</a>（Bright Eyes/EyeMouse）的一个基本功能是可以通过装在电脑显示屏下方的眼动跟踪器捕捉电脑用户的目光移动。
+<i>当用户眼晴注视显示屏上的一个指令，光标就会移到相应的位置，用户按空格键就可以执行有关命令。如果用户目光对光标的操控不够准确，用户还可以通过调节软件中的设置来校准。亮眼晴系统可以有很多应用，比如用户在浏览网上学习网页时，装有这套系统的电脑可以分析用户的学习习惯并作出相应反应。"</i>
+视频演示：<a href="http://www.cnyoutube.com/watch?v=XGuqsm8nJwY">cnyoutube</a>，<a href="http://www.youtube.com/watch?v=XGuqsm8nJwY">Youtube</a>
+➜手机游戏联机无需服务器
+https://www.solidot.org/story?sid=16761	27900
+《MIT技术评论》<a href="http://www.technologyreview.com/communications/24624/?a=f">报道</a>（<a href="http://www.mittrchinese.com/news/226">中文</a>），移动终端设备上运行的多人游戏通常需要远程服务器的支持，但一种新的游戏可以通过3G或者Wi-Fi在两台Android 手机上联机运行而无需额外的服务器。这项技术十分有利于野外工作或军事用途。<i>
+游戏开发者、荷兰阿姆斯特丹自由大学计算机科学家<a href="http://www.few.vu.nl/~rkemp/">Roelof Kemp</a>表示希望借此打开分布式计算应用的大门。游戏使用了一种名为“朱鹭(Ibis)”的中间件计算系统，该系统最初是为了诸如图像处理和航天研究之类的高性能、分布式计算任务而开发的，但是Kemp和他的同事对其做了改进使其能在Android手机上运行。</i>
+➜黑洞可以形成环形、螺旋形，甚至是土星形状
+https://www.solidot.org/story?sid=16762	30000
+<a href="http://zh.wikipedia.org/zh-cn/%E5%BC%A6%E7%90%86%E8%AB%96">弦论</a>是物理学家追求的大一统理论（结合量子力学和广义相对论），它有许多外行看来很古怪的预测，其中一项预测认为时空有10个维度，而不是我们所熟悉的4个维度，这就引起了许多有意思的问题。比如在高维度下<a href="http://www.technologyreview.com/blog/arxiv/24923/">奇点会是什么形状</a>？<i>
+在4维时空中，黑洞的唯一形状只可能是球形。但在更高维度下，黑洞的形状可能有很多不同的方案。德国马普引力物理学院的Maria Rodriguez列出了<a href="http://arxiv.org/abs/1003.2411">黑洞的所有可能形状</a>：黑色土星形，黑色螺旋带形，黑色环形，DI-环形，蝶形领带形，自行车式的环形，以及黑色褶形等。所有这些形状在数学上都是可能存在的，在真实宇宙中它们也可能存在，也可能不存在。Rodriguez指出列表并不为完整，他正在制定标准以使得一种形状能满足现实世界存在的需求。</i>
+➜方滨兴建议中国学习Google的过滤机制
+https://www.solidot.org/story?sid=16763	31800
+《人民邮电报》<a href="http://www.c114.net/news/16/a488591.html">报道</a>，全国人大代表、被誉为中国国家防火墙（GFW）之父的北京邮电大学校长方滨兴建议学习Google的过滤机制。他说：<i>
+“谷歌有一套自己的体制去过滤网上不良信息，他们成立了一些由大学生参加的组织，专门接受人们关于网上不良信息、不良网页的投诉。虽然谷歌没有办法将这些网页或信息删除，但一旦接受投诉，且确认投诉情况确实，谷歌会承诺搜索结果的网页中不会把这些不良网页展示出来。同时，这个过滤制度还可面向大众，比如一个公民在网上发现一个网页对自己进行了侮辱或人身攻击，可向谷歌进行投诉，谷歌进行审查核实后，可以进行过滤，即使这个网页存在，网民也无法通过搜索引擎找到。企业有关知识产权和产品方面的问题也可以向此组织投诉，对侵权网页实施过滤。目前谷歌已经在全球至少140个国家建立了这种过滤制度。建议我国也可以建立这种过滤制度，有几个好处，一就是给大众一个投诉的渠道，针对网上人身诽谤、人身攻击、知识产权侵犯等问题进行投诉，相关部门受理后，有可能这个网页在境外删不掉，但起码不会被展示出来。”</i>
+➜山达基教试图封杀德国纪录片
+https://www.solidot.org/story?sid=16764	33360
+英国《卫报》<a href="http://www.guardian.co.uk/world/2010/mar/11/scientologists-try-block-german-film">报道</a>了山达基教和德国政府之间的紧张关系，山达基教<a href="http://yro.slashdot.org/story/10/03/15/0734203/Scientology-Tries-To-Block-German-Documentary">试图阻止</a>德国公共广播公司Southwest Broadcasting放映纪录片《<a href="http://www.spiegel.de/international/germany/0,1518,675298,00.html">Until Nothing Remains</a>》。<i>
+这部耗资250万欧元、90分钟长的纪录片计划在本月底的黄金手段播出。电影本身是基于Heiner von Rönns的真实故事，讲述了当Heiner von Rönns试图离开山达基教时他及其家人的遭遇。山达基教发言人指责这部纪录片是虚假的，是褊狭的，表示正在寻找法律手段以阻止其上映。</i>
+➜中国网络文学的影响
+https://www.solidot.org/story?sid=16765	34560
+BBC<a href="http://www.bbc.co.uk/zhongwen/simp/indepth/2010/03/100303_internetliterature2.shtml">评论</a>了中国<a href="http://zh.wikipedia.org/zh-cn/%E7%BD%91%E7%BB%9C%E6%96%87%E5%AD%A6">网络文学</a>的发展和对社会的影响。
+<i>
+作为新型文学样式的一种，网络文学在中国十年来的大规模飞速发展，使之被誉为互联网时代的“奇迹”...许多人认为网络文学对社会和公众的影响是有限的...中国第一代知名网络作家路金波把网络文学的社会影响比喻为卡拉OK式的影响，能起到宣泄的效果。路金波说，在中国，年轻人的娱乐和自我表达的机会很少，所以卡拉OK式的公众参与方式，能够让年轻人找到一条感情宣泄的渠道。上海复旦大学中文系教授严锋解释中国网络文学如此发达的原因，最重要的就是给了一个众生喧哗的空间，使他们在平时生活中受到抑制的情绪，在网上有一个宣泄的地方。从理论上讲，年轻人这一群体是最具活力、最有追求欲望、也是最不稳定的群体，让这个群体有一条足够宣泄的正常渠道，也应该被看作是对社会稳定的巨大贡献...也有人抨击快餐化的网络文学没有多少文学性。</i>
+➜ChromePlus for Liunx发布
+https://www.solidot.org/story?sid=16766	35760
+<a href="mailto:threejek@gmail.com">threejek</a> 写道 "ChromePlus是一款基于Chromium的浏览器，目前支持广告过滤，鼠标手势，超级拖拽，IE标签等主要功能，并在用户体验细节上做了许多优化和改进。
+昨天CP基于Windows的1.3.3.0版本发布了Linux1.3.3.1版本，支持Ubuntu/Debian/Fedora/openSUSE（包括32位和64位）。
+<br>
+这是国内首款适用于主流Linux桌面发行版的基于Chromium的浏览器。
+<a href="http://www.chromeplus.org/download.php?hl=zh-cn">用户可以点此下载</a>"
+➜奥巴马支持MPAA、RIAA和ACTA
+https://www.solidot.org/story?sid=16767	37200
+很多人原本指望奥巴马能支持版权改革，但现在越来越多的迹象显示奥巴马站在了版权持有人如MPAA、RIAA一边，<a href="http://politics.slashdot.org/story/10/03/14/1956251/Obama-Backs-MPAA-RIAA-and-ACTA">支持ACTA（国际反假冒贸易协议）</a>，当然这一Change已经不会让人感到惊讶。
+<i>
+奥巴马上周在华盛顿举行的进出口银行)年会演讲时明确表示，他的政府会“<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20144603,00.htm">积极保护美国的知识产权</a>”。奥巴马称，“我们最伟大的资产就是创新，以及美国民众的发明与创意...这是维持我国繁荣所不可或缺的，在本世纪的重要性只会有增无减。这是一项相对竞争优势...别人不能只是窃取这些创意，然后加入少许的东西并用较低廉的劳力加以复制。”奥巴马表示，美国政府计划协助扫荡全球盗版行为，包括支持反仿冒贸易协定(ACTA)。目前ACTA的提案内容还不明朗，各国代表的商议情形也未对外公布，但一些支持版权改革的人士担心，ACTA可能呼吁ISP封杀掉被指控为非法共享的文件。</i>
+➜中国的社交媒体非你所想象
+https://www.solidot.org/story?sid=16768	39600
+在西南偏南（South by Southwest，缩写<a href="http://sxsw.com/">SXSW</a>）音乐与媒体节上，其中一个讨论会是关于“社交媒体与中国”，以下引用自“<a href="http://www.google.com/buzz/xiaomi2020/6D7t61fp1TN/%E5%8D%9A%E5%AE%A2-%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B8%8E%E4%B8%AD%E5%9B%BD-%E5%B9%B6%E9%9D%9E%E5%A6%82%E4%BD%A0">译者</a>”翻译的“<a href="http://www.ignitesocialmedia.com/social-media-and-china-its-not-what-you-think-notes-from-sxsw/">会议札记</a>”：<i>
+中国目前有2.21亿个博客，1.17亿个BBS用户 以及1.76亿 社交媒体用户。由于Facebook被封，大部分人使用的是一个中国当地的社交网站，腾讯公司的QZone...腾讯（超过10亿个帐号，活跃帐号4.85亿），Qzone（3.1亿个帐号）；人人网（2亿个帐号，其中有5000万手机帐号）；开心网（7500万个帐号）；51.com（1.6亿个帐号）...人们都在网上干什么？2.72亿人使用网上即时通讯，2.22亿人观看在线视频，1.08亿人在线购物，2.65亿人玩在线游戏，以及3.21亿人收听在线音乐...中国参与原创的人则有40%...人们在线讨论的话题包括：1.汽车（大约1300万相关讨论）；2.手机（大约700万相关讨论）；3.体育（大约300万相关讨论）；4.电脑；5.婴儿产品；6.美容产品；7.保健....</i>
+➜Tweet能受版权保护吗？
+https://www.solidot.org/story?sid=16769	42480
+去年，达拉斯小牛队老板库班（Mark Cuban）在他的个人twitter上质疑裁判，EPSN引用他的Tweet报道之后引起了NBA官方的关注，结果就是库班被罚款了2.5万美元。库班<a href="__SLASHLINK__" sect="internet" sid="09/04/01/035233" sn="article" tid="67">随后指责ESPN侵犯了他的版权</a>，称没有允许任何人在杂志报纸或网站上重新发表他的私人推特。<i>
+昨天举行的西南偏南（SXSW）讨论会的一个主题就是关于<a href="http://blogs.telegraph.co.uk/technology/shanerichmond/100004758/sxsw-2010-can-you-copyright-a-tweet/">Tweet内容是否能受版权保护</a>。会议的一个共识是有些Tweet可以有版权，但大部分Tweet应该没有版权，而如何判断哪些Tweet可以被保护则尚不明朗。这可能取决于内容中包含的独特或原创想法的份量。还有人建议Tweet采用创作共用授权。</i>

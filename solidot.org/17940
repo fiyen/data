@@ -1,0 +1,15 @@
+➜前 GCHQ 主管批评对华为的封杀
+https://www.solidot.org/story?sid=59557	35810
+政府通信总部(GCHQ)前负责人汉尼根(Robert Hannigan)<a href="http://www.ftchinese.com/story/001081429"><u>呼吁</u></a>结束围绕中国科技的“歇斯底里”。他称经 GCHQ 审查的国家网络安全中心（NCSC）数年来一直在研究英国电信网络中的华为设备系统，这使其获得对华为的洞察，这在西方安全机构中是独特的。西方政府有理由警惕中国的网络间谍活动，NCSC 的报告也指出“全球各地IT管理服务提供商受到的攻击”。但此类攻击不需要依赖一家中国基础设施企业的存在，这意味着全面禁止中资集团将无济于事。他认为，考虑到 5G 升级的巨大规模和经济重要性，现在不是西方国家将一个新兴全球科技强国的产品与服务拒之门外的时候。
+➜VFEmail 服务器和备份被人全部格式化
+https://www.solidot.org/story?sid=59558	47238
+电子邮件服务商 <a href="https://www.vfemail.net/"><u>VFEmail</u></a> 报告它遭到<a href="https://arstechnica.com/information-technology/2019/02/catastrophic-hack-on-email-provider-destroys-almost-two-decades-of-data/"><u>毁灭性攻击</u></a>，数据和备份全部被人在几小时内重新格式化。 VFEmail 创始人 Rick Romero 在 Twitter 上<a href="https://twitter.com/Havokmon/status/1095297448082317312"><u>称</u></a>，@VFEmail 实际上已经完了，不太可能恢复。攻击发生在周一，VFEmail 的整个基础设施，包括邮件主机、虚拟机主机、SQL 服务器集群，全部被破坏，攻击者格式化了能找到的所有服务器。目前不清楚攻击者的动机，不能排除私人恩怨的可能性。VFEmail 创办于 2001 年，至今有近 20 年历史。
+➜微软修复 IE 和 Exchange 的 0day 漏洞
+https://www.solidot.org/story?sid=59559	53148
+微软本周二释出的例行安全更新<a href="https://arstechnica.com/information-technology/2019/02/microsoft-patches-zero-day-vulnerabilities-in-ie-and-exchange/#p3"><u>修复了</u></a>正在被利用的一个 IE 0day 漏洞和一个漏洞利用概念验证代码已公布的  Exchange Server 漏洞。对于 IE 漏洞，微软称攻击者首先需要引诱用户访问一个恶意网站，该漏洞允许攻击者测试 PC 磁盘上是否储存一个或更多文件。该漏洞是 Google Project Zero 安全团队成员发现的，编号 <a href="https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0676"><u>CVE-2019-0676</u></a>，影响  IE v 10 和 11，正被活跃利用。  Exchange Server 漏洞编号 <a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0686"><u>CVE-2019-0686</u></a>，允许攻击者利用普通权限的账号获取服务器的管理权限。微软称它没观察到该漏洞正被利用。
+➜中国科学家研制出可净化室内雾霾的“智能窗纱”
+https://www.solidot.org/story?sid=59560	55500
+根据发表在 iScience 期刊上的<a href="https://www.cell.com/iscience/pdf/S2589-0042(19)30014-8.pdf"><u>论文</u></a>，中科大<a href="http://staff.ustc.edu.cn/~yulab/windex.html" target="_blank"><u>俞书宏教</u></a>授团队通过“浸染自组装”方法，研制出一种制备速度快、成本低廉的“<a href="http://news.sciencenet.cn/htmlnews/2019/2/422893.shtm"><u>智能窗纱</u></a>”材料，对室内空气的净化效率最高可达 99.65%，能在 50 秒内将空气中的 PM2.5 浓度从“严重污染”净化至“优”。制备约 7.5 平方米的“智能窗纱”成本仅需约 100 元。这种材料不仅能够和热致变色染料相结合，改变室内的光照强度，还能作为高效的雾霾收集器净化室内空气。同时，这种“智能窗纱”在净化雾霾之后，只需在乙醇中浸泡 20 分钟，就可以清洗干净并再次使用。经过上百次的重复循环，其净化效率依然保持稳定。
+➜研究人员使用 Intel SGX 让杀毒软件无法扫描恶意程序
+https://www.solidot.org/story?sid=59561	57260
+研究人员找到了方法让杀毒软件<a href="https://arstechnica.com/gadgets/2019/02/researchers-use-intel-sgx-to-put-malware-beyond-the-reach-of-antivirus-software/" target="_blank"><u>无法分析或识别恶意程序</u></a>，方法是使用英特尔处理器提供的代码保护功能 SGX（代表 Software Guard eXtensions）。Intel SGX 是自 Skylake 处理器发布起引入的功能，其目的是保护软件的代码和相关的数据，确保其机密性和完整性。但如果 SGX 保护的代码是恶意的？如果恶意程序能做到，那么 SGX 的设计将让杀毒软件无法检查或分析恶意程序。为了实现 SGX 保护恶意程序的目的，研究人员利用了英特尔处理器的另一项功能 Transactional Synchronization eXtensions (TSX)。

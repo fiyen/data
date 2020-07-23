@@ -1,0 +1,68 @@
+➜苹果1月13日开始在中国发售iPhone 4S
+https://www.solidot.org/story?sid=27766	3360
+苹果官网<a href="http://www.cn.wsj.com/gb/20120105/tec072619.asp">宣布</a>从1月13日起在中国和其他21个国家<a href="http://www.cn.wsj.com/gb/20120105/tec072619.asp">发售</a>iPhone 4S。iPhone 4S首批发售的国家是美国、加拿大、澳大利亚、英国、法国、德国和日本。1月13日开始销售的国家除了中国外，还有安圭拉，玻利维亚，博茨瓦纳，维京群岛，喀麦隆，开曼群岛，中非共和国，多米尼加，厄瓜多尔，关岛，几内亚，牙买加，肯尼亚，马达加斯加，马里，毛里求斯，尼日尔等。中国对苹果产品的需求日益高涨，对苹果产品的成功也具有重要影响。苹果CEO Tim Cook<a href="http://arstechnica.com/apple/news/2012/01/january-13-the-start-of-an-iphone-4s-feeding-frenzy-in-china.ars">去年指出</a>，苹果在中国的收入年比增长了270%，占2011财年总收入的12%。
+➜Linux kernel 3.2发布
+https://www.solidot.org/story?sid=27767	6000
+Linus Torvalds在邮件列表上<a href="https://lkml.org/lkml/2012/1/4/395">宣布</a>发布<a href="http://kernelnewbies.org/Linux_3.2">Linux kernel 3.2</a>。<i>
+主要新特性包括：Ext4文件系统支持更大的块大小，从最大4KB增加到1MB，改进了大文件储存性能；更新了Btrfs文件系统，支持更快的文件系统校验，关键元数据自动备份，手动检查工具，改进性能；扩展验证模块；CPU调度器带宽控制；Google开发的<a href="https://lwn.net/Articles/458610/">TCP Proportional Rate Reduction</a>算法，改进了丢包后的带宽恢复；支持高通<a href="https://developer.qualcomm.com/hexagon-processor">Hexagon DSP</a>架构；<a href="https://lwn.net/Articles/456904/">I/O-less dirty throttling</a>；<a href="https://lwn.net/Articles/405346/">Cross memory attach</a>等等。</i>
+➜新浪密码也用明文保存
+https://www.solidot.org/story?sid=27768	7200
+一位安全博客发现<a href="http://www.youxia.org/2012/01/2012-SINA-weibo-user-password-lose.html">新浪存在SQL注入漏洞</a>，可被用于获取iask数据库内用户的uid、电子邮件和密码等。令人不再吃惊的是它的<a href="__SLASHLINK__" sect="internet" sid="11/12/22/0648252" sn="article" tid="100">密码也是明文</a>。<i>
+这位安全博客演示了入侵魔术师刘谦的新浪微博帐号，获得刘谦的密码，登录后看到了刘谦的各种私信和聊天记录。目前新浪已经修复了漏洞。新浪此前在CSDN、天涯等用户库泄露后称新浪数据库并没有泄露，而且密码是密文保存。但现在看来显然是在说谎。为什么这么多大网站用明文保存密码？</i>
+➜Nginx超过微软成为世界第二Web服务器
+https://www.solidot.org/story?sid=27769	9360
+开源新贵Nginx超过微软的IIS，<a href="http://www.infoworld.com/t/application-servers/nginx-overtakes-microsoft-no-2-web-server-183079">成为世界第二流行的Web服务器</a>。<i>
+世界1000大最流行网站中有25%使用了Nginx，其中包括Facebook、Zappos、Groupon、Hulu、Dropbox和WordPress。该项目去年10月从迈克戴尔等人手中获得了300万美元的风投。根据Netcraft的统计，Nginx市场占有率12.18%，比上月增加0.57%；IIS是12.14%，比上月减少0.17%；Apache第一的位置相对稳固，占57.93%，但比上个月58.2%的仍略有下降；Google从8.13%下降至7.9%。Nginx的竞争对手份额都普遍下滑。</i>
+➜文件共享成为瑞典官方认可的宗教
+https://www.solidot.org/story?sid=27770	13500
+瑞典政府正式承认<a href="http://kopimistsamfundet.se/english/">Missionary Church of Kopimism</a>为<a href="http://idle.slashdot.org/story/12/01/04/1817255/filesharing-now-an-official-religion-in-sweden">新的宗教教派</a>。<i>
+Kopimism由20岁的哲学系学生<a href="http://twitter.com/#!/IsakGerson">Isaac Gerson</a>创建，入教者皆相信复制和共享信息是全世界最美好的事物。宗教的神圣符号是CTRL+C和CTRL+V，信仰信息的自由流动是道德权利，闭源软件相当于奴隶制。去年上半年他们的<a href="__SLASHLINK__" sect="internet" sid="11/04/18/0557243" sn="article" tid="119">申请</a> <a href="__SLASHLINK__" sect="internet" sid="11/07/10/0110213" sn="article" tid="71">遭到了拒绝</a>，下半年信徒人数增加了2倍，从1000人增至3000多人。它预计最近的新闻会让追随者数量再创新高。</i>
+➜五角大楼实验用“时间洞”隐藏事件
+https://www.solidot.org/story?sid=27771	18300
+小心驶得万年船 写道 <i>"五角大楼高级研究计划局资助的一批Cornell University物理学家在《<a href="http://www.nature.com/nature/journal/v481/n7379/full/nature10695.html#/author-information">自然</a>》杂志上发表文章，<a href="http://www.wired.com/dangerroom/2012/01/time-hole/">介绍了</a>他们让事件隐身40皮秒的实验。University of Texas (Dallas)的科学家曾利用蜃景效应(mirage effect)让物体消失，University of St. Andrews的学者在2010年使用超材料(Metamaterial)让人眼看不见面前的物体，而康奈尔的实验则是首次隐藏了一个事件。人眼看见一个动作需要连续的光线，康奈尔的实验是让连续的光线扭曲，使得一个公开做出的动作不能被观察到。虽然时间很短，但是揭示了隐藏动作是可能的。"</i>
+➜FreeDOS 1.1发布
+https://www.solidot.org/story?sid=27772	19440
+在1.0版发布五年之后，MS-DOS开源替代FreeDOS发布了<a href="http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.1/announce.txt">1.1正式版</a>（<a href="http://www.freedos.org/freedos/files/">下载</a>）。<i>
+FreeDOS的历史要上溯至1994年的夏天，当时微软宣布终止支持独立产品的MS-DOS，但作为Windows 95和98的一部分它暂时延续了生命。此时还是威斯康星大学河滨校区物理专业学生的Jim Hall认为这远远不够，他决定开发一个开源替代。FreeDOS项目于1994年6月28日正式启动，它最初的名字是PD-DOS，1994年7月16日改名为Free-DOS，1996年开始使用名字FreeDOS。FreeDOS于2006年9月23日发布了1.0版本。FreeDOS不是一个过时的旧操作系统，它还是相当有用，支持FAT32、硬盘的直接访问UDMA和DVD光驱，甚至还有杀毒软件和BitTorrent客户端。
+</i>
+➜PayPal要求买家毁掉小提琴以获得退款
+https://www.solidot.org/story?sid=27773	21360
+一位小提琴卖家<a href="http://www.regretsy.com/2012/01/03/from-the-mailbag-27/">非常恼火</a>。他拥有一把二次世界大战幸存下来的法国小提琴，在Ebay上以2500美元出售给一位加拿大买家。在出售之前这把小提琴经过了一流制琴师的鉴定，但买家坚信它是伪造品，要求退钱。为了退款，PayPal要求买家毁掉小提琴并提供毁灭的证据。买家很乐意的招办了。卖家损失了小提琴以及2500美元。<a href="http://idle.slashdot.org/story/12/01/04/1512247/paypal-orders-buyer-of-violin-to-destroy-it-for-a-refund">为什么PayPal可以要求毁掉商品</a>？原来，它的服务条款<a href="https://cms.paypal.com/al/cgi-bin/?cmd=_render-content&amp;content_ID=ua/BuyerProtComp_full">买家保护</a>中已经列出了相关规定：“PayPal may also require you to destroy the item and to provide evidence of its destruction.”
+➜中国有四分之一用户用IE6
+https://www.solidot.org/story?sid=27774	23280
+根据微软<a href="http://www.ie6countdown.com/">IE6倒计时网站</a>的统计，美国的<a href="http://windowsteamblog.com/ie/b/ie/archive/2012/01/03/the-us-says-goodbye-to-ie6.aspx">使用率不到1%</a>，而中国仍有四分之一。中国铁道部的<a href="http://www.12306.cn/mormhweb/">官方订票网站</a>支持IE6，却不支持IE9和其它非IE浏览器。<i>
+微软官方博客庆祝了美国IE6使用率掉到1%以下，加入了奥地利，波兰，瑞典，丹麦，芬兰和挪威等国的1%阵营。至今IE6的全球占有率为7.7%，其中中国最高为25.2%，日本5.9%，韩国7.2%，台湾4.9%，香港4.4%，泰国2.3%，印度5.4%，越南5.5%，沙特4.2%，俄罗斯2.1%。使用IE6的主力在亚洲。微软鼓励用户升级到IE8或IE9。</i>
+➜Silk浏览器被移植到其它Android设备
+https://www.solidot.org/story?sid=27775	25200
+亚马逊Kindle Fire的Silk浏览器可利用亚马逊的云计算平台加速，是平板的一大卖点。现在，XDA开发者TyHi已经<a href="http://forum.xda-developers.com/showthread.php?t=1418480">将Silk移植到其它Android设备上</a>。安装移植版本需要Root设备。TyHi<a href="http://arstechnica.com/gadgets/news/2012/01/kindle-fires-silk-browser-can-be-ported-to-other-android-devices.ars">表示</a>移植Silk只是为了让它能工作在运行CyanogenMod 7的Kindle Fire平板上，但其他人反应移植版支持其它Android设备。
+➜"第六感"以GPLv3开源
+https://www.solidot.org/story?sid=27776	26880
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "2009年的TED视频<a href="http://v.163.com/movie/2011/7/A/T/M7A0V2B14_M7A0VBEAT.html">第六感技术的惊异潜力</a>让很多人记忆犹新，之后MIT媒体实验室的博士生<a href="__SLASHLINK__" sect="opensource" sid="09/11/10/1149231" sn="article" tid="105">Pranav Mistry决定会将第6感作为开源</a>项目发布，上个月Pranav上传了0.1版本的源代码（<a href="http://sixthsense.googlecode.com/files/wuw_v0.1.zip">下载地址</a>），sixthsense项目使用了<a href="http://code.google.com/p/sixthsense/wiki/Licensing">GPLv3自由软件许可证</a>，软件使用C++和C#作为开发语言，<a href="http://code.google.com/p/sixthsense/wiki/Hardware">硬件包括</a>摄像头，投影器等。"</i>
+➜NASA上线开源网站
+https://www.solidot.org/story?sid=27777	27720
+NASA<a href="http://open.nasa.gov/blog/2012/01/04/the-plan-for-code/">上线了</a>一个专门的开源网站<a href="http://code.nasa.gov/">code.nasa.gov</a>，由项目、指南和论坛三部分组成，它将成为NASA开源的核心部分。<i>
+网站将托管NASA的开源项目，指导内部和外部团队在开源项目中的开发合作，提供论坛讨论项目。NASA的William Eshagh表示，明天的太空和科学系统将建筑在开放的基础上。网站目前还处于早期alpha阶段，分布式版本控制，问题跟踪，文档等等将会逐步加入。</i>
+➜环球呼吁美国改革开放
+https://www.solidot.org/story?sid=27778	28440
+中国官煤《环球时报》发表了一篇评论，<a href="http://news.xinhuanet.com/world/2012-01/04/c_122533656.htm">呼吁美国改革开放</a>，作者自称是瑞士苏黎世州银行北京代表处首席代表。<i>
+文章称，“美国应当认真考虑改革现有的美式两党制。这个制度在过去100多年曾发挥巨大能量，为美国跻身世界超级大国提供有力的制度保障。但在最近一二十年，这个制度的衰老和疲惫已暴露无遗...美国应当开放思想和言论领域的真正自由。美国离真正的言论自由王国还相距很远，美国报刊的言论取向一边倒，基本看不到违背所谓美国精神，抵触美国价值观，或批评美国政治制度的文章，尤其是来自其他国家，如中国的批评...中国推崇的‘有容乃大’，应当成为美国为人处事的理论基石。”</i>
+➜Vint Cerf认为网络接入并非人权
+https://www.solidot.org/story?sid=27779	32400
+从突尼斯街道到埃及解放广场，过去一年中，全世界的抗议者利用互联网和移动设备互通信息。如果没有互联网的通信、组织和开放功能，抗议运动可能不会如火如茶的展开。因此有些人主张网络接入应该是基本人权。
+然而，TCP/IP之父Vint Cerf<a href="http://www.nytimes.com/2012/01/05/opinion/internet-access-is-not-a-human-right.html?_r=2&amp;hpw">表达了不同看法</a>。<i>
+他认为这些善意的主张漏掉了重要一点：技术是权利的促成者，而不是权利本身。人权需要有更高的标准，它必须是创造健康和有意义生活所必不可少的部分，例如不受酷刑和信仰自由，将特定技术列入这一范畴是错误的。Vint Cerf认为，互联网应该和电话、电力一起列入“民权”，确保人人能访问是政府的一项政策。民权和人权不同，它由法律赋予，而不是我们作为人类的内在本质。</i>
+➜ATM虚拟机保护客户银行数据
+https://www.solidot.org/story?sid=27780	34320
+自动取款机制造商Diebold公司<a href="http://it.slashdot.org/story/12/01/04/2110202/diebold-marries-vms-with-atms-to-secure-banking-data">正采取新的方法</a>保护客户的重要银行数据：虚拟化。<i>
+虚拟化的ATM机器将所有数据都储存到一个中央服务器，而不储存在ATM本地上，这将使犯罪分子难以从机器上窃取数据。在巴西等国，当犯罪分子偷走或炸毁ATM机器后，客户的数据将面临失窃风险。Diebold公司想要加强其管理的五万台ATM机器的安全措施，它去年和虚拟技术供应商VMware合作生产一种虚拟化ATM，它不会储存任何客户数据。</i>
+➜用伪装技术避开探头面部识别
+https://www.solidot.org/story?sid=27781	37500
+一位纽约设计师<a href="http://www.itproportal.com/2012/01/04/avoiding-facial-recognition/#ixzz1iWJIK7uj">发明了一种伪装技术</a>，能让基于计算机的面部识别技术难以辨认。<i>
+无处不在的摄像头（CCTV）已是城市生活的一部分，如果再加上面部识别技术，人们免不了会担心奥威尔的1984或菲利浦·K·迪克的《黑暗扫描仪》成为现实。<a href="http://www.cvdazzle.com/">CV Dazzle</a>可以帮助你在面部识别探头下隐形。它的名字源于一次大战期间的<a href="http://en.wikipedia.org/wiki/Dazzle_camouflage">军舰迷彩</a>，用于形成鲜明的几何图案，掩盖军舰轮廓，使人从远处难以辨别。它解决了传统的脸部隐藏方法如戴口罩和墨镜的问题，让躲避计算机脸部识别的伪装方法更具有社会性，在法律上也更容易接受。游戏《刺客信条》的粉丝对此<a href="http://yro.slashdot.org/story/12/01/04/2017215/avoiding-facial-recognition-of-the-future">可能倍感亲切</a>，因为刺客的隐身就是发生在众目睽睽之下。</i>
+➜美议员要求国务院调查华为伊朗业务
+https://www.solidot.org/story?sid=27782	38400
+《华尔街日报》<a href="http://www.cn.wsj.com/gb/20120105/bus132744.asp">报导</a>，六名美国议员要求美国国务院调查中国电信设备生产商华为向伊朗供应用于审查的敏感通信技术是否违反了美国对伊朗的制裁法。这项法律禁止美国政府与向伊朗出口用于干扰、监听或限制自由言论技术的公司签订合约。此前有报导称华为<a href="__SLASHLINK__" sect="internet" sid="11/10/27/0551247" sn="article" tid="120">帮助伊朗审查互联网</a>，华为否认了报导，表示遵守国际法律，称它正在伊朗缩减业务。
+➜天文学家发现四颗系外行星
+https://www.solidot.org/story?sid=27783	39600
+2012年刚刚过去四天，天文学家<a href="http://news.discovery.com/space/first-four-exoplanets-of-2012-discovered-120104.html">已发现了四颗太阳系外行星</a>。<i>
+四颗行星都属于“热木星”——即近距离环绕恒星的气态行星。它们是通过行星<a href="http://zh.wikipedia.org/wiki/%E5%87%8C%E6%97%A5">凌日</a>现象观察到的，不是使用太空的开普勒太空望远镜，而是利用位于亚利桑那Fred Lawrence Whipple天文台的广域自治望远镜网和夏威夷次毫米波阵列望远镜发现的。四颗行星的公转周期分别是5.5天，3.6天，1.3天和2.8天，相比之下地球是365天。<a href="http://arxiv.org/abs/1201.0659">报告</a>发表在预印本网站arXiv上。</i>

@@ -1,0 +1,35 @@
+➜Firefox 3.6的“零日漏洞”：至今未被修
+https://www.solidot.org/story?sid=16342	12540
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "
+<i>俄罗斯安全公司Intevydis已经发现了<a href="http://www.h-online.com/open/news/item/Zero-day-exploit-for-Firefox-3-6-936124.html">基于Windows的Firefox 3.6上的一个安全漏洞</a>，该漏洞可以让黑客远程控制被攻击的个人电脑。发现该漏洞的程序员Evgeny Legerov称该漏洞利用的是“缓冲区溢出”，而且在Windows XP(SP3)和Vista上可被稳定利用。</i>
+尽管这一问题在二月初就被公布，但是这个问题到Firefox 3.6发布之日也未被解决，Mozilla Firefox似乎没有对此问题引起足够的重视。这不的不让人怀疑，<a href="http://www.morgancheng.com/2010/02/16/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E4%B8%8D%E4%BC%9A%E6%AF%94%E9%97%AD%E6%BA%90%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8%EF%BC%9F/">开源软件是否真的更安全</a>。"
+➜芯片信用卡的漏洞
+https://www.solidot.org/story?sid=16344	17940
+剑桥大学的学生发现了一个芯片卡 <a href="http://zh.wikipedia.org/zh-tw/EMV">EMV </a>认证机制的 <a href="http://cn.engadget.com/2010/02/19/cambridge-university-finds-credit-card-security-flaw-uses-the-m/">漏洞</a>。
+<i>一般正常的芯片卡交易的程序依循为：输入认证码＞终端机将输入的密码送给芯片卡＞芯片卡进行认证＞确认结果。而这个称之为<a href="http://www.cl.cam.ac.uk/research/security/banking/nopin/">Man-in-the-middle的破解方法</a>，主要就是在输入密码的终端机与芯片卡之间加入一个中间人，不管终端机送什么样的密码过去，中间人都会回传认证成功的讯息，因此终端机就会以为芯片卡已经确认过这组密码而准许进行交易。</i>
+这份论文将会发布在今年五月的 IEEE Security and Privacy 期刊上。（<a href="http://www.bbc.co.uk/blogs/newsnight/susanwatts/2010/02/new_flaws_in_chip_and_pin_syst.html">视频</a>）
+➜谷歌品牌全球排名第二
+https://www.solidot.org/story?sid=16343	19080
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "英国品牌顾问公司Brand Finance日前<a href="http://news.wangmeng.cn/detailNews/1858-google-brands-the-world-39-s-second-">公布2010年全球最具价值</a>品牌<a href="http://www.brandfinance.com/Uploads/pdfs/BrandFinanceGlobal500_UmbrellaRelease.pdf">报告</a>，报告显示谷歌品牌价值大幅攀升，由去年的第五位上升至第二位，品牌价值高达361.91亿美元。
+Brand Finance发布该报告的主要依据是各个品牌的实力、冒险精神、未来发展潜质以及经济实力。榜单显示，美国连锁超市沃尔玛成为榜单第一名，谷歌第二，可口可乐排名第三。此外，IBM、微软、通用电气、沃达丰、惠普、丰田都在前十名之列"
+➜中国遥感一号卫星爆炸？
+https://www.solidot.org/story?sid=16345	19260
+一个关注大规模杀伤性武器的英文blog<a href="http://www.armscontrolwonk.com/2625/yaogan-1-erupts">报道说</a>，上周中国的<a href="http://space.skyrocket.de/index_frame.htm?http://space.skyrocket.de/doc_sdat/yaogan-1.htm">遥感一号卫星</a>发生了爆炸。
+<i>遥感一号卫星是<a href="http://news.xinhuanet.com/video/2006-04/27/content_4481535.htm">2006年发射升空</a>的<a href="http://zh.wikipedia.org/wiki/%E5%90%88%E6%88%90%E5%AD%94%E5%BE%84%E9%9B%B7%E8%BE%BE">合成孔径雷达</a>卫星，曾经在四川大地震时用来<a href="http://news.qq.com/a/20080526/003520.htm">监测唐家山堰塞湖</a>。这个爆炸发生在2月4日，引起关注的一个原因是外界认为它是一颗<a href="http://bbs.cjdby.net/thread-866213-1-1.html">间谍卫星</a>。</i>
+➜干细胞技术治愈糖尿病有望
+https://www.solidot.org/story?sid=16346	21420
+illusiwind在<a href="http://solidot.org/~illusiwind/journal/1391">日志</a>中说道，<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/02/100219_stem_cell.shtml">BBC报道</a>说，预计在10年多一点的时间内就能有治愈糖尿病的方法。
+<i>美国加利福尼亚再生医学研究所所长艾伦‧特伦森（<a href="http://en.wikipedia.org/wiki/Alan_O._Trounson">Alan Trounson</a>）教授说，他们正在进行的研究是用将胚胎干细胞转变为能制造胰岛素的细胞的方式治疗老鼠的糖尿病。 他说，同样的方法也可用于人类。 特伦森教授还表示，他们的工作最终还可能研究出一种以干细胞为基础的预防艾滋病疫苗。 不过也有专家说，干细胞技术的潜能被夸大了，还看不到实在的基于干细胞的治疗手段。</i>
+➜中央委员会总书记使用微博客
+https://www.solidot.org/story?sid=16347	23040
+Stranger 写道 "中国共产党中央委员会总书记、中华人民共和国国家主席、中华人民共和国中央军事委员会主席<a href="http://t.people.com.cn/microblog/userpage.action?userId=8796">胡锦涛</a>使用<a href="__SLASHLINK__" sect="internet" sid="09/12/22/0919203" sn="article" tid="71">人民微博</a>。
+<a href="http://www.infzm.com/content/41658">胡锦涛的微博后面有个“人”符号</a>，表示这是经过人民网实名认证的用户。
+➜在iPhone上重新创造Photoshop 1.0
+https://www.solidot.org/story?sid=16348	35100
+Photoshop创始人之一的Russell Brown请Ansca Mobile在iPhone<a href="http://apple.slashdot.org/story/10/02/21/0156210/Photoshop-10-Recreated-On-iPhone">重新实现Photoshop 1.0</a>，Photoshop 1.0于1990年发布，当时只能运行的苹果电脑上。结果是，Ansca Mobile使用Corona SDK在3天内便开发出了<a href="http://developer.anscamobile.com/documentation/making-of-photoshop-20th-anniversary">“复刻”软件</a>，并在庆祝<a href="http://av.adobe.com/russellbrown/AnniversaryiPhone_SM1.mov">Photoshop诞生20周年</a>(MOV)的会议上分发给与会者。Ansca用该项目证明Corona SDK能加快iPhone应用程序开发速度。
+➜火箭创造出可见的音爆
+https://www.solidot.org/story?sid=16349	36720
+2月11日，Atlas V号火箭从肯尼迪太空中心升空，在飞过一个幻日（<a href="http://en.wikipedia.org/wiki/Sundog">Sun dog</a>，一种大气现象，为天空中的一个明亮亮斑）时<a href="http://science.slashdot.org/story/10/02/21/0620233/Atlas-Vs-Sonic-Boom-Made-Visible-By-Sundog">创造出</a>一个清晰可见的<a href="http://www.youtube.com/watch?v=SsDEfu8s1Lw&amp;feature=player_embedded#">音爆</a>(Youtube)。非常壮观。
+➜Windows Live Writer Wave 4 新特性截图
+https://www.solidot.org/story?sid=16350	52560
+匿名读者 写道 "<a href="http://livesino.net/archives/2486.live">Windows Live Writer Wave 4 的截图</a>已经流传出来了，很显然，目前 Windows Live Writer Wave 4 也只是刚刚到达 M3 版。从界面来看，和之前泄漏的 Wave 4 M1 版没有太大的区别。"

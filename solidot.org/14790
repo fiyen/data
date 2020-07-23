@@ -1,0 +1,190 @@
+➜eMule 0.50a Xtreme 8.0正式版发布
+https://www.solidot.org/story?sid=18659	4080
+<a href="http://emulefans.com/emule-0-50a-xtreme-8-0-final/">终于等到</a> 写道 "2010年6月30日晨，zz_fly发布了基于eMule 0.50a的Xtreme 8.0正式版。同时更新的还有官方DLP库，最新版本为<a href="http://emulefans.com/dlp-v42/">v42</a>。Xtreme主要更新有：代码与官方eMule 0.50a同步；MediaInfo.dll同步更新；DLP v42；地区旗帜库更新；双UPNP库支持；AICHHashset缓存算法；可保存URL来源；clients.met文件备份；优化下载队列；Vista下界面；修正部分bug；提升稳定性；等等。具体请见更新日志一节。           注意：Xtreme 8.0使用VS2008 SP1和Windows 7 SDK编译，不再支持XP SP2以下的Windows操作系统。
+<br> <br>eMule 0.50a Xtreme 8.0 Final 正式版下载：
+<br> <br> <a href="http://sourceforge.net/projects/emulextreme/files/emulextreme-mod/emule%20Xtreme%208.0/emule0.50a-Xtreme8.0.7z/download">eMule v0.50a Xtreme 8.0 正式版</a>（解压直接运行，即“绿色版”）
+<br> <br> <a href="http://sourceforge.net/projects/emulextreme/files/emulextreme-mod/emule%20Xtreme%208.0/emule0.50a-Xtreme8.0-sources.7z/download">Xtreme 8.0 源代码</a>（C++源代码）
+<br> <br>另外还根据国内ADSL Modem的特殊情况，提供了包含ACAT UPnP库的双UPnP库版本，供国内用户选用。还有一个驴榜专用版本，供中国驴的驴榜用户使用。
+<br> <br> <a href="http://emule-edit.googlecode.com/files/eMule0.50a-Xtreme8.0_upnp.7z">Xtreme 8.0 双UPnP库版本</a>（针对国内ADSL Modem的特殊情况的版本。<a href="http://u.115.com/file/t038463e53">网盘下载</a>）
+<br> <br> <a href="http://emule-edit.googlecode.com/files/eMule0.50a-Xtreme8.0_cn.7z">Xtreme 8.0 驴榜版本</a>（供中国驴的驴榜用户使用。<a href="http://u.115.com/file/t0c24e6de9">网盘下载</a>）
+<br> <br>如果您不喜欢默认的皮肤外观以及地区旗帜，完全可以更换。请见：更多精选的<a href="http://emulefans.com/emule-skin-100417/">皮肤外观</a>、<a href="http://emulefans.com/countryflag-dll-3fam-flagfox/">更多地区旗帜库</a>。
+<br> <br>作者的话
+<br> <br>作者zz_fly的话（转自中国驴原帖）：
+<br> <br>大家好。
+我相信大家等待Xtreme 8.0已经很久了，我想告诉大家，你们的等待是值得的。
+<br> <br>在BETA测试中我发现并解决了一个影响Xtreme很久的BUG，这可以使得Xtreme的稳定性有很大的提升。
+<br> <br>在这里我要感谢BETA使用者和我的测试员，没有你们的帮助，我无法发现这个BUG。
+<br> <br>由于Xtreme采用精确的额外开销计算方法，因此Xtreme显示的速度可能比其他MOD低。
+<br> <br>建议使用Clean Install，即把原来的 preferences.ini 删除，重新配置。特别是原VCD用户，务必使用干净安装。
+<br> <br>如果你的上传&gt;500，并且发现Xtreme的上传不是很稳定的时候，请在 prefercence.ini 中找到 “sendbuffersize=####” 这一行，并将这一行修改为 “sendbuffersize=24000″，使用24k发送缓存。在大部分情况下，它能改善大水管的上传能力。"
+➜谷歌将获30亿美元信贷额度
+https://www.solidot.org/story?sid=18660	5040
+<a href="http://www.hi2020.com/">书评影评</a> 写道<i> "路透社<a href="http://www.reuters.com/article/idUSN2915473620100629">报道</a>，谷歌预计于本周获得近30亿美元的3年期循环信贷额度，标志着谷歌首次通过银团贷款市场筹资。摩根大通、摩根士丹利和高盛担任此次交易的牵头银行。据该报道援引银行方面的消息称，该交易款项将用作一般流动资金，并将以近来最顶级的信贷交易作为谷歌的基准定价。今年大公司已经确定了基准价格，沃尔玛公司获得112.25亿美元的信贷额度，未提取款项为2.5个基点，创下新低。根据公司1年期的信用违约掉期定价，最低价为10个基点，最高价为75个基点。"</i>
+➜希捷发布3TB外置硬盘，售价250美元
+https://www.solidot.org/story?sid=18661	5400
+Engadget<a href="http://www.engadget.com/2010/06/29/seagate-busts-out-3tb-external-hard-drive-for-250/">报道</a>，希捷正式推出了3TB FreeAgent 3.5英寸外置硬盘，售价250美元。它提供了一个USB 2.0适配器，能升级到USB 3.0或Firewire 800。希捷的新闻稿称，3TB容量的硬盘可以储存120部高清电影，1,500个视频游戏，以及数以千计的照片和无数小时的音乐。
+➜“电脑鼠标之王”上市
+https://www.solidot.org/story?sid=18662	6900
+WarMouse去年曾在OpenOffice.org的一个会议上展示了<a href="__SLASHLINK__" sect="hardware" sid="09/11/07/0535213" sn="article" tid="79">多重按钮鼠标</a>：它有多达18个支持双击功能的可编程按钮，1个模拟小操纵杆，1个滚轮，1个激光传感器。现在“电脑鼠标之王”WarMouse Meta<a href="http://warmouse.com/pr062810.html">正式上市</a>，售价79.99美元，暂时只支持Windows操作系统，未来将支持Linux和OS X。<i>
+WarMouse表示，鼠标默认指令支持的应用程序包括了：Mozilla Firefox和Thunderbird、Microsoft Outlook、Word和Excel，OpenOffice.org Writer、Calc和Impress，3D Studio Max，Autodesk AutoCAD，Adobe Photoshop，Adobe Reader，Gnu Image Manipulation Program，《魔兽世界》，《使命召唤：现代战争2》，以及多种街机模拟器。Meta Modeware软件采用LGPL3授权。WarMouse的新闻稿还表示它的鼠标给游戏设计师和医学软件公司总裁等人留下了深刻影响，称它的鼠标用途广阔。</i>
+➜德国机场用蜜蜂监测空气质量
+https://www.solidot.org/story?sid=18663	9360
+Düsseldorf国际机场和其它7个德国机场提出了一种独一无二的检测空气质量的方法：<a href="https://www.nytimes.com/2010/06/29/business/29airports.html">使用蜜蜂</a>。<i>
+《纽约时报》报道，德国机场把蜜蜂作为一种生物侦探，一年两次检测空气中的毒素。今年的第一次检测使用了20万只蜜蜂，结果显示空气中的毒素远低于官方标准。德国机场协会环境工程师表示，使用活生物检测环境健康，并不是要取代传统的检测方法，而是这种方法传递的信息公众很容易理解。佛罗里达大学蜜蜂研究和推广实验室昆虫学助理教授Jamie Ellis认为，把蜜蜂作为“陆地生物指标”去评估环境是一种全新的事业，他相信蜜蜂能做到，但将结果转变成现实世界的解决方案或答案可能还为时过早。</i>
+➜Firefox 4.0 Beta1 Candidate发布
+https://www.solidot.org/story?sid=18664	10800
+Mozilla没有正式发布Firefox 4.0 Beta 1，仅仅是<a href="https://groups.google.com/group/mozilla.dev.planning/browse_thread/thread/74f09f777426e4cf#">接近代码冻结</a>。用户现在可以从官方的FTP下载到<a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/4.0b1-candidates/build1/">Firefox 4.0 Beta1 Candidate</a>。已有网站对这个beta版的候选版进行了<a href="http://www.conceivablytech.com/1572/products/mozilla-posts-firefox-4-0-beta-1/">测试</a>，结果显示Firefox的JavaScript性能仍然远远落在竞争对手的后面，比IE9的第三个平台预览版还要慢。
+➜高德纳将在周三宣布重大消息
+https://www.solidot.org/story?sid=18665	12300
+计算机科学大师、图灵奖获得者、斯坦福大学荣誉退休教授<a href="http://zh.wikipedia.org/zh-hans/%E9%AB%98%E5%BE%B7%E7%BA%B3">高德纳</a>（Donald Knuth）计划于周三（北京时间周四）在TeX的32周年纪念会议上<a href="http://www-cs-faculty.stanford.edu/~uno/news.html#lectures">宣布一项重大消息</a>。不幸的是，没人知道高德纳将宣布什么。到目前为止的推测<a href="http://news.slashdot.org/story/10/06/29/2233219/Knuth-Plans-Earthshaking-Announcement-Wednesday">包括</a>：他证明了P!=NP，将宣布《计算机程序设计艺术》的第四卷，TeX被W3C接受为HTML标准等等。
+➜Google力挺FlashPlayer
+https://www.solidot.org/story?sid=18666	16080
+<a href="http://www.goozo.net/">Rinick</a> 写道 "FlashPlayer10.1是Android2.2一大卖点，而其对手iPhone则坚决抵制FlashPlayer。那么Google有什么理由继续支持HTML5的video呢？果然不出所料，<a href="http://apiblog.youtube.com/2010/06/flash-and-html5-tag.html">Youtube在最近的一篇官方博客中开始力挺Flash视频</a>。内容摘要如下：           HTML5的video很好，我们也已经开始支持video标签，<b>但是</b>，<br>
+1）<b>我们需要一个标准的格式</b>。目前的video标签支持的格式还无法兼容所有平台的浏览器。Google正在为推广WebM格式而努力，Mozilla和Opera也已经加入进来。Adobe也会从下个版本的FlashPlayer开始支持WebM格式。<br>
+2）<b>我们需要稳定的视频流</b>。video标准本身所做的只是把视频地址交给客户端，并不能很好的控制缓冲，也无法只获取视频的一部分。而FlashPlayer则提供了很好的支持。<br>
+3）<b>视频内容需要受到保护</b>。有些内容必须保证不能被客户端提取去进行再发布，FlashPlayer的RTMPE协议很好的满足了这个要求。<br>
+4）<b>我们需要封装自己的播放器</b>。这样才能让其他的网站方便得引用Youtube的视频。当然这其中也包括注释及广告之类的需求。<br>
+5）<b>全屏播放也很重要</b>。目前只有FlashPlayer可以提供很好的全屏播放支持。<br>
+6）<b>摄像头和麦克风支持</b>。通过FlashPlayer用户可以直接从web录制视频上传到Youtube。而HTML在这方面则只是刚刚起步。<br>
+总结：HTML5支持是为了让那些不支持FlashPlayer的设备可以看到Youtube视频，但是FlashPlayer才是我们主要的播放手段。"
+➜韩国国民议会通过化学阉割法律
+https://www.solidot.org/story?sid=18667	18000
+韩国国会议员周二以137票对13票通过了<a href="http://www.mail.com/intl/article.aspx/science/0/apnews/science/20100629/u_as-skorea-chemical-castration?pageid=1">一项化学阉割法律</a>，以惩罚被判有罪的儿童性罪犯。<i>
+化学阉割法于2008年首次提出，最近韩国发生的一系列针对儿童的恶劣性侵犯案件推动了该法律提案的讨论。周二进行的国民议会投票中，有超过140名议员未投票。化学阉割法还需等待韩国总统李明博的签署，它将在签署成为法律一年后生效。对于侵犯16岁以下未成年人的成年性罪犯，在被诊断为性变态之后，这项法律将允许法官宣布对其实施化学阉割。</i>
+➜思科公司宣布商业Android平板电脑
+https://www.solidot.org/story?sid=18668	20700
+思科公司宣布计划<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20146397,00.htm">推出</a>一款采用Android操作系统、面向企业用户的平板电脑<a href="http://www.cisco.com/en/US/prod/collateral/voicesw/ps6789/ps7290/ps11156/solution_overview_c22-608594.html">Cisco Cius</a>。<i>
+Cisco Cius大约重1.15磅，运行Google Android OS，7英寸触摸屏，1.6GHz Intel Atom处理器，8小时电池寿命，32GB固态硬盘，支持SD卡，有一个迷你USB端口，支持Wi-Fi、3G和蓝牙，集成思科协同作业软件，虚拟桌面与高清视频应用。平板电脑有一个前置视频摄像头，能以30fps记录720p视频，后置一个5百万像素摄像头，能拍摄高清视频和静止图片。商业用户可使用Cisco Cius进行实时电视会议。这款产品将于2011年初上市，预计价格将会低于1000美元。</i>
+➜泰国屏蔽10万网站
+https://www.solidot.org/story?sid=18669	24120
+泰国政府认为需要加大控制互联网的力度。《曼谷邮报》<a href="http://www.bangkokpost.com/tech/techscoop/39224/a-dubious-distinction">报道</a>，政府内阁已经同意设立一个新的机构，专门用于“预防和制止”互联网上任何攻击皇室或可能攻击皇室的内容。机构名称可能借鉴了奥威尔的小说，政府将其命名为“预防和消灭计算机犯罪局”。<i>
+媒体观察FACT Thailand称，被屏蔽和进入黑名单的网站数量已经跨过了10万关口，标准着泰国成为世界上第一个实现该目标的国家。泰国是从4月份红衫军运动之后开始大规模屏蔽和关闭反对泰国政府的网站。泰国互联网审查部和实施紧急状态的政府屏蔽了6.5万家网站，到6月15日总的屏蔽网站数量已经达到了11.3万。“预防和消灭计算机犯罪局”预计将采用关键词过滤的方法，从泰国网站上删除任何提及前总理政府官员等敏感词的内容，试图将这段记忆从泰国人民的大脑中抹掉。
+</i>
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424052748704103904575336573647639754.html?mod=WSJASIA_hpp_MIDDLETopStories">报道</a>，泰国警方指控一些个人和企业是红衫军的幕后支持者，向他们提供财政支持。
+➜IT普及意味着低教育水平工人薪水更少
+https://www.solidot.org/story?sid=18671	27900
+每个人都可以回想一下，10年前电脑并不像今日这般普及，IT技术也没有渗透到几乎所有角落。现在，每一家公司都有电脑，但是坐在电脑后的IT工人的薪水与以前相比有怎样的变化？他/她的教育水平是否会影响薪水？电脑是否取代了某些简单任务？香港的一项研究<a href="http://arstechnica.com/business/news/2010/06/workers-need-education-to-stay-ahead-of-it-curve.ars">发现</a>，高教育水平的人能从IT的普及中受益，而低教育水平的IT工人则会被压低薪水。<a href="http://edr.sagepub.com/cgi/content/abstract/39/5/401">研究报告</a>发表在《教育研究》杂志上。<i>
+研究人员通过分析香港2006年的人口普查数据，调查薪水、教育水平和各行业IT技术普及程度之间的相互联系。数据显示，IT的普及度与相匹配的教育对薪水有有利影响。一个高教育水平的个人在IT高度普及的行业如金融业，可以挣到更多钱；而一个低教育水平的个人在低IT普及的行业如建筑业则未能得到什么好处。研究人员发现，高教育水平的个人可以抵消电脑取代个人所带来的不利影响，而低教育水平的个人由于技能缺乏而很容易被取代，他们失业之后很难再找到工作。研究人员建议，政府应该建立一个系统为低教育水平的工人提供再培训服务。他们还同时鼓励在教育中促进学生的复杂推理、问题解决、批判性思维的能力。</i>
+➜SSH服务推荐
+https://www.solidot.org/story?sid=18670	28680
+<a href="mailto:gentoo@126.com">gentoo</a> 写道 "推荐一个专业的SSH服务网站,大家有需要可以保存着。个人觉得它是国内用过的最好的，与其他的很不同。
+<i>他们的广告标语。
+<br>
+为什么选择Usessh?
+24小时自助服务，不再为到期烦恼。<br>
+网站帐号即为SSH服务帐号，支持HTTPS端口。<br>
+丰富、详细的图文视频教程帮助您快速上手。<br>
+现已支持各种平台: Windows, Linux, Mac。<br>
+24小时之内如有任何不满意，全额退款保证。 <br>
+成功推荐一名付费包年用户，推荐者将赠送一个月使用期。<br>
+<a href="http://www.usessh.com/">www.usessh.com</a>"</i>
+➜戴尔因出售“问题电脑”遭起诉
+https://www.solidot.org/story?sid=18672	29520
+《纽约时报》<a href="http://www.nytimes.com/2010/06/29/technology/29dell.html?pagewanted=2&amp;ref=technology">报道</a>，PC制造商戴尔公司在明知机器内含有缺陷部件的情况下，仍然继续出售电脑。<i>
+最近公开的一项诉讼指控戴尔公司在过去两年出售了1200万台有缺陷的Optiplex电脑，这些电脑中的电容器存在泄漏问题。当电容器爆裂，不仅电脑会立即死机，甚至还可能会燃烧。电容器的制造商是日本尼吉康(nichicon)公司，起诉书指控戴尔知道电容器存在问题，却继续销售电脑。戴尔公司拒绝对此案发表评论。</i>
+➜Jared Smith将成为Fedora项目新负责人
+https://www.solidot.org/story?sid=18673	32100
+即将离任的Fedora项目负责人Paul Frields宣布，<a href="http://lwn.net/Articles/394188/">他的职位将由Jared Smith继任</a>。他在邮件列表上简单回忆他的过往历程，详细介绍了Jared Smith对Fedora项目作出的贡献：<i>
+Frields称：他在2003年加入Fedora项目，前任Max Spevack于2007年联系他，称将要离职，询问他是否有兴趣接任，他当时倍感惊讶，认为这是服务于社区的一个千载难逢的机会....Fedora项目负责人职位可从Red Hat公司领取薪水，Fedora理事会和其他利益相关者都会参与新负责人的公开招聘。挑选的原则是基于Fedora项目的需要，确保新的领导人擅于倾听，演说等....Frields宣布Jared Smith将在数周内作为Fedora项目的负责人加入Red Hat公司。</i>
+➜科学史学家破译柏拉图密码
+https://www.solidot.org/story?sid=18674	34560
+英国曼彻斯特大学的科学史学家Jay Kennedy博士声称他<a href="http://www.manchester.ac.uk/aboutus/news/display/?id=5894">破解了柏拉图密码</a>，揭开了柏拉图著作中<a href="http://news.slashdot.org/story/10/06/28/2149249/Science-Historian-Deciphers-Platos-Code">隐藏的秘密</a>。<i>
+柏拉图是古希腊的爱因斯坦，他的工作为西方文化和科学奠定了基础。Jay Kennedy博士说，“我已经严格表明（柏拉图的）书籍中确实包含有密码和符号，从而解开了隐藏的柏拉图哲学。这是一个真正的发现，不是简单的重新诠释....隐藏的密码显示，比艾萨克牛顿早2000多年，柏拉图就预料到了科学的革命——自然之书是用数学语言写就的....柏拉图不是为了好玩而隐藏这些密码——而是为了自己的安全。他的思想是对希腊宗教的一个威胁。他认识到是数学规律而不是神控制着宇宙。”柏拉图的老师苏格拉底已经因为异端邪说而被处决。古时候保密是一件十分正常的事情，尤其是对于深奥的理论和宗教的学识，但保密对柏拉图而言则是攸关生死。</i>
+<a href="http://personalpages.manchester.ac.uk/staff/jay.kennedy/Kennedy_Apeiron_proofs.pdf">论文</a>（PDF）
+➜淘宝开源平台“淘蝌蚪”正式上线
+https://www.solidot.org/story?sid=18675	35520
+<a href="http://yi-it.com/">易IT</a> 写道 <i>"淘宝开源平台"<a href="http://code.taobao.org/">淘蝌蚪</a>“（taobaocode）正式上线，默认使用SVN管理代码，有trac可以跟踪 bug和项目进度。现在的项目分类为：system，Storage ，utils，development四个分类。每个项目下有相关的Wiki。"</i>
+➜Web设计师的50个超便利工具（上）
+https://www.solidot.org/story?sid=18676	37200
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "作为一个 Web 设计师并不容易，不仅考虑设计与架构，还要时刻注意各种小细节，设计师的工作被各种各样的问题包围，你需要一套超级便利的工具帮你解决各种消耗时间和精力的问题。本文介绍了50个非常强大的工具，你会发现，其中的一些工具会让你感到惊艳在，这是第一部分（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K994.aspx">完整图文版</a>）。           <a href="http://launchlist.net/">LaunchList</a>
+<br> <br>站点发布前的工作清单，预设了28个需要检查的事项，也可以自定义。同类工具： <a href="http://www.boxuk.com/blog/the-ultimate-website-launch-checklist">Ultimate   Website Launch Checklist</a> 以及 <a href="http://boagworld.com/business-strategy/pre-launch-checklist">The   Ultimate Website Prelaunch Checklist</a>。
+<br> <br> <a href="http://launchlist.net/"> </a>
+<a href="http://pencil.evolus.vn/en-US/Home.aspx">Pencil  Project: Sketching and Prototyping with Firefox</a>
+<br> <br>一个开源 GUI 原型设计工具。
+<br> <br> <a href="http://pencil.evolus.vn/en-US/Home.aspx"> </a>
+<a href="http://zootool.com/">Zootool</a>
+<br> <br>一个非常漂亮的书签工具，可以将你收集的各种素材，图片，文档，链接，视频等在线组织到一起。
+<br> <br> <a href="http://zootool.com/"> </a>
+<a href="http://www.bounceapp.com/">Bounce</a> （推荐）
+<br> <br>输入一个站点地址，该程序会给该站点截图，然后，你可以在上面批注，加评论，并和朋友分享。非常适合用来和您的客户在线就某个站点的设计进行讨论。
+<br> <br> <a href="http://www.bounceapp.com/"> </a>
+<a href="http://ninite.com/">Ninite  Batch Installer</a>
+<br> <br>这个站点可以将很多免费的流行软件（最好的版本）打包在一起，一次性安装到你的机器，支持 Windows7，Vista 和 XP。
+<br> <br> <a href="http://ninite.com/"> </a>
+<a href="http://www.supportdetails.com/">Support Details</a> （强烈推荐）
+<br> <br>假如你想让你的用户提供他/她所使用的浏览器环境，比如 Flash 版本，操作系统，屏幕分辨率，Cookie，JavaScript 状态等，可以让他/她访问一下这个站点，这个站点或自动将这些内容探测出来，并允许用户现场通过邮件将报告发送给你。
+<br> <br> <a href="http://www.supportdetails.com/"> </a>
+<a href="http://mugtug.com/darkroom/">MugTug’s Darkroom</a>
+<br> <br>一个在线图片处理程序，可以调整对比度，白平衡，曝光，饱和度等，可以从 Picasa 及 Flickr 上传图片，同类产品：<a href="http://www.pixlr.com/">Pixlr</a> 及 <a href="http://www.sumopaint.com/home/">Sumo Paint</a>。
+<br> <br> <a href="http://mugtug.com/darkroom/"> </a>
+<a href="http://visualwebsiteoptimizer.com/">Visual Website Optimizer</a> （强烈推荐）
+<br> <br>Visual  Website Optimizer 绝对是你所能见到的最好的 A/B 测试工具。
+<br> <br> <a href="http://visualwebsiteoptimizer.com/"> </a>
+<a href="http://keyonary.com/">Keyonary</a>
+<br> <br>这个简单的在线工具可以帮你列出 Mac OS X， Photoshop 等工具的快捷键清单。
+<br> <br> <a href="http://keyonary.com/"> </a>
+<a href="http://gridr.atomeye.com/">gridr  buildrrr</a>
+<br> <br>一个在线网格设计工具，选择你希望使用的网格布局，帮你预览并生成 CSS 代码。
+<br> <br> <a href="http://gridr.atomeye.com/"> </a>
+<a href="http://instantblueprint.com/">Instant Blueprint – Create a web  project framework in seconds.</a>
+<br> <br>帮你瞬间生成一个 Web 项目框架，基于合法 HTML/XHTML 和 CSS。
+<br> <br> <a href="http://instantblueprint.com/"> </a>
+<a href="http://mnutt.github.com/hummingbird/">Hummingbird</a>
+<br> <br>一个实时的（真正的实时，每秒刷新20次）站点流量分析工具，基于 Node.js.
+<br> <br> <a href="http://mnutt.github.com/hummingbird/"> </a>
+<a href="http://www.jsfiddle.net/">jsFiddle</a>
+<br> <br>在线 Web 编辑器，支持 JavaScript, MooTools, jQuery,  Prototype, YUI, Glow, Dojo, HTML 以及 CSS。
+<br> <br> <a href="http://www.jsfiddle.net/"> </a>
+<a href="http://mygengo.com/string/about">String: create a multi-language  website or app</a>
+<br> <br>帮你创建多语种 Web 应用的资源文件，
+<br> <br> <a href="http://mygengo.com/string/about"> </a>
+<a href="http://titanpad.com/">Titanpad</a>
+<br> <br>可以多人同时编辑同一个文档，别的改动会实时以不同颜色标识，可以是同一个办公室的多个用户，也可以是地球另一边的多个用户。
+<br> <br> <a href="http://titanpad.com/"> </a>
+<a href="http://pixelnovel.com/timeline/">Pixelnovel Timeline: Version  Control for Adobe Photoshop</a>
+<br> <br>该工具通过插件方式集成 Subversion 客户端，可以在 Photoshop 中实现版本控制。非免费工具。
+<br> <br> <a href="http://pixelnovel.com/timeline/"> </a>
+<a href="http://0to255.com/">0to255</a>
+<br> <br>给出一种颜色，会帮你列出这种颜色由浅入深的各种颜色变化，并特别针对 Web 做了优化。
+<br> <br> <a href="http://0to255.com/"> </a>
+<a href="http://loadimpact.com/index.php">Load Impact: Website load/stress  test</a>
+<br> <br>一个在线压力测试工具，模拟多用户同时访问你的站点，并出具报告以分析你的站点可以支撑的访问者数量。
+<br> <br> <a href="http://loadimpact.com/"> </a>
+<a href="http://ideone.com/">Ideone:  Online IDE &amp; Debugging Tool</a>
+<br> <br>一个在线 IDE 和调试工具，支持多达40种语言，包括 C++, Java, JavaScript, Perl,  PHP, Python and Ruby，同类产品：<a href="http://phpanywhere.net/">PHP  Anywhere</a> 以及 <a href="http://www.coderun.com/">CodeRun</a> 。
+<br> <br> <a href="http://ideone.com/"> </a>
+<a href="http://dummyimage.com/">Online  Dummy Image Generator</a>
+<br> <br>快速帮你生成一个在线虚拟图片，以便您进行某些测试。
+<br> <br> <a href="http://dummyimage.com/"> </a>
+<a href="http://gethifi.com/regexp/">HiFi  RegExp Tool</a>
+<br> <br>在线正则表达式工具。
+<br> <br> <a href="http://gethifi.com/regexp/"> </a>
+<a href="http://tableizer.journalistopia.com/">Tableizer</a> （推荐）
+<br> <br>将你 Excel 表格中的内容复制粘贴到这个站点，它会帮你生成 HTML 格式的表格（HTML Table）。
+<br> <br> <a href="http://tableizer.journalistopia.com/"> </a>
+<a href="http://www.followupthen.com/">FollowUpThen: Easy Email Reminder</a>
+<br> <br>-假如你希望有人提醒你什么时候该做什么事，你可以给比如 1day@followupthen.com 一类的地址发个邮件，1day 表示一天后，这样，一天后，你会收到他们的提醒邮件，1day 可以改成人和别的时间间隔。
+<br> <br> <a href="http://www.followupthen.com/"> </a>
+<a href="http://www.divine-project.com/">Divine: Conversion tool from PSD  to HTML</a>
+<br> <br>这个工具是一个 Photoshop 插件，可以将你的 PSD 转换成 WordPress 主题。（译者：有待验证）
+<br> <br> <a href="http://www.divine-project.com/"> </a>
+本文国际来源：Smashing Magazine <a href="http://www.smashingmagazine.com/2010/06/28/50-powerful-time-savers-for-web-designers/">50 Powerful Time-Savers For Web Designers</a> （原文作者：<a href="http://www.smashingmagazine.com/author/vitaly-friedman/">Vitaly Friedman</a>）
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜互联网教育先锋Salman Khan
+https://www.solidot.org/story?sid=18677	40560
+<a href="http://www.khanacademy.org/">Salman Khan</a>是一位充满热情的<a href="http://news.slashdot.org/story/10/06/27/2047233/Khan-Academy-Delivers-100000-Lectures-Daily">互联网教育家</a>，他在家中录下超过1500个小型教育讲座，主题覆盖了数学、物理学、金融、生物和当代经济学，通过<a href="http://www.youtube.com/khanacademy">Youtube</a>向世界义务传播知识。<i>
+<a href="http://en.wikipedia.org/wiki/Salman_Khan_(educator)">Salman Khan</a>现年33岁，出生于新奥尔良，3岁时父母离异，13岁时父亲去世，他与母亲和一位姐姐生活在一起。他的SAT数学成绩是满分，他从MIT获得了数学学士和电气工程和计算机科学学士，以及电气工程和计算机科学硕士，还从哈佛商学院获得了一个工商管理硕士学位。他最初是在远程帮助自己表妹学习数学的过程中开始教育的尝试。他于2006年11月在Youtube开设了<a href="http://www.youtube.com/user/khanacademy">Khan Academy</a>频道，2009年末从Hedge Fund辞职，开始全职做Khan Academy。Khan接受过PBS和NPR的采访，他是如此形容自己的动机：“我个人的努力微不足道，却能让无数人汲取力量，我想象不出有比这更好的时间使用方式”。他的视频总观看次数超过了1750万，每日的观看次数超过10万，平均每堂课有1万人观看。Khan从未学过教育学，也没有教师资格，他凭借的是在卧室内拍摄的低技术视频，工具是200美元的Camtasia录像机、80美元的Wacom Bamboo手写板，SmoothDraw3软件的免费版，他创作的所有内容都采用创作共用3.0授权。虽然他的讲解达不到费曼的水平，但为许多无法获取到多少学习资源的学习者提供巨大的帮助。</i>
+➜网站不及时删帖负连带责任
+https://www.solidot.org/story?sid=18678	41400
+stranger ( @wmrofficial ) 写道 "<a href="http://www.022net.com/2010/6-30/445651402776031.html">7月1日正式实施的《侵权责任法》就“网络侵权”确立了两大规则</a>：<i>
+一是提示规则，即“网络用户利用网络服务实施侵权行为的，被侵权人有权通知网络服务提供者采取删除、屏蔽、断开链接等必要措施。网络服务提供者接到通知后未及时采取必要措施的，对损害的扩大部分与该网络用户承担连带责任”。当局借颁布该法律来进一步打压网络言论自由。
+<br>
+二是明知规则，即“网络服务提供者知道网络用户利用其网络服务侵害他人民事权益，未采取必要措施的，与该网络用户承担连带责任”。
+</i>
+法学专家指出，两个规则既规范了网民在网络上的言论自由，又规范了网站的审查责任，还平衡了网站与受害人之间的利益。"
+➜代号为Ceilidh的KDE SC 4.4.5发布
+https://www.solidot.org/story?sid=18679	48600
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 <i>"KDE 社区刚刚<a href="http://www.ownlinux.cn/2010/06/30/kde-sc-4-4-5-released-codename-ceilidh.html">发布了代号为 Ceilidh 的 KDE SC 4.4.5 </a>。<a href="http://kde.org/announcements/announce-4.4.5.php">KDE SC 4.4.5</a> 是 KDE SC 4.4.X 系列的最终版，KDE 社区建议正在使用 KDE SC 4.4.4 或者更老版本的 KDE 用户升级到此版本，因为它修正了很多已经知的bug(修正Konsole中的bug，修正导致PDF浏览器崩溃的bug，修正PIM中的bug)，并且对各个国家的语言支持也更加完善。现在，KDE SC 4.4.5 已经支持55个国家及地区的不用语言，并将支持更多的语言。KDE的下一个版本将会是KDE SC 4.5.0，它将在今年八月发布。"</i>
+➜美国国会讨论中国的网络化威权主义
+https://www.solidot.org/story?sid=18680	57000
+前CNN驻华记者、现普林斯顿大学信息技术政策中心访问学者麦康瑞（<a href="http://en.wikipedia.org/wiki/Rebecca_MacKinnon">Rebecca MacKinnon</a>），在美国国会举行的“中国信息控制政策及对美国影响”的听证会上作证时，将中国的网络审查描述为“<a href="http://rconversation.blogs.com/files/rm_uscc_final.pdf">网络化的威权主义</a>”（PDF），指出美国人和美国投资者也<a href="http://yro.slashdot.org/story/10/06/30/1452229/Congress-Mulls-Chinas-Networked-Authoritarianism">积极参与了中国的审查</a>。她以百度公司为例，其董事会五名成员中有两名是美国人。中国政府将大部分审查成本转嫁给私营部门，至今为止，美国投资界在资助中国审查技术创新方面没有表达过任何异议或抱怨。在这种情况下，中国的行业领袖也没有什么动机或激励去抵制政府的要求，即使此类要求与中国自己的法律和宪法相抵触。

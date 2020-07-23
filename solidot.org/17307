@@ -1,0 +1,22 @@
+➜新 SMB 僵尸网络利用了 7 个 NSA 工具
+https://www.solidot.org/story?sid=52477	38333
+勒索软件 WannaCry 在两个 NSA 工具的帮助下利用 Windows SMB 实现漏洞进行传播，现在研究人员<a href="https://www.bleepingcomputer.com/news/security/new-smb-worm-uses-seven-nsa-hacking-tools-wannacry-used-just-two/" target="_blank"><u>发现了</u></a>一个新的 SMB 蠕虫利用了 7 个泄漏的 NSA 工具，但现阶段该蠕虫没有试图向被感染的系统传播勒索软件或其它恶意程序，而是试图建立一个僵尸网络。研究人员将这个蠕虫命名为 <a href="https://github.com/stamparm/EternalRocks/" target="_blank"><u>EternalRocks</u></a>，它远比 WannaCry 更复杂，设计推迟 24 小时完成安装以躲避沙盒环境。它还使用了 WannaCry 相同的文件名以迷惑研究人员，但没有包含类似 WannaCry 的可作为关闭开关的硬编码域名。此外，蠕虫使用 DOUBLEPULSAR 恶意程序的方式允许其他攻击者劫持僵尸网络传递恶意程序。
+➜报道称中国处决关押了近 20 名 CIA 线民
+https://www.solidot.org/story?sid=52478	41811
+《纽约时报》援引匿名现任和前任官员的消息<a href="https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html?_r=0" target="_blank"><u>报道</u></a>，中国自 2010 年起系统性的破坏了 CIA 在中国的间谍网络，处决或关押了至少 18 到 20 名 CIA 线民，其中一人被带到大院在同事面前公开处决以儆效尤和震慑其他人。导致  CIA 中国间谍网破坏的原因至今不明，有人认为 CIA 出了内奸，或者中国破解了 CAI 与中国情报源通信的加密系统。FBI 和 CIA 对这起事件展开了代号为 Honey Badger 的联合调查，他们发现了一名可能的内鬼，这位嫌疑人长期住在亚洲，他被引诱到美国进行询问，但他否认有任何错误，之后就返回了亚洲。中国对 CIA 间谍网的打击到了 2013 年就基本停止，CIA 随后开始重建间谍网。<br>
+➜Uber 开始根据客户愿意支付的价格收费
+https://www.solidot.org/story?sid=52479	50914
+同样的距离，同样的交通状况，但你打车的费用却可能与别人不同，因为 Uber 现在开始根据客户愿意支付的价格<a href="https://www.bloomberg.com/news/articles/2017-05-19/uber-s-future-may-rely-on-predicting-how-much-you-re-willing-to-pay" target="_blank"><u>收取费用</u></a>。新的票价系统叫基于路线的定价，根据乘客的起点和终点制定不同的价格。比如说你从一个富裕的小区打车，前往另一个富裕的场所，那么 Uber 估计你为了打到车会愿意支付更高的价格。Uber 产品负责人 <span>Daniel Graf 称，该公司运用机器学习技术去估计不同群体的顾客愿意支付的价格，根据特定时间特定路线推测乘客对价格的承受能力。</span>
+➜中国社科院大学获准创办
+https://www.solidot.org/story?sid=52480	51038
+<a href="http://bugmenot.com">㚣舞毛大冶</a> 写道 "据<a href="http://epaper.gmw.cn/gmrb/html/2017-05/20/nw.D110000gmrb_20170520_7-01.htm?div=-1" target="_blank">光明日报</a>报导，<a href="http://news.xinhuanet.com/politics/2017-05/20/c_129609843.htm" target="_blank">新华社</a>引用 19 日电，从共青团中央获悉，
+<i>
+教育部批准中国社会科学院、共青团中央关于申请创办<a href="http://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6" target="_blank">中国社会科学院大学</a>相关事项的请示和关于成立中国社会科学院大学的论证报告，同意创办中国社会科学院大学，将以中国社会科学院研究生院为基础，整合<a target="_blank" href="https://zh.wikipedia.org/zh-hans/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%94%BF%E6%B2%BB%E5%AD%A6%E9%99%A2">中国青年政治学院</a>本科教育及部分研究生教育资源创办，而中国青年政治学院不再举办本专科学历教育。
+<p></p>
+<p>对此，国务院副总理刘延东同志指出，创办中国社会科学院大学是中央交给中国社会科学院的重要任务，要坚持有特色、高水平、高起点的办学方针，以创建具有中国特色的社会主义 “<a href="http://baike.baidu.com/item/%E5%8F%8C%E4%B8%80%E6%B5%81" target="_blank">双一流</a>” 文科大学。
+</p>
+<p>该则喜讯立刻引发了一些学者和学子积极的反响（<a href="https://www.zhihu.com/question/54999793" target="_blank">一</a>、<a href="https://www.zhihu.com/question/55030606" target="_blank">二</a>、<a href="https://www.zhihu.com/question/60045346" target="_blank">三</a>、<a target="_blank" href="http://blog.sciencenet.cn/blog-3180745-1053923.html">四</a>），以及部分网友对于重拾马克思列宁主义、毛泽东思想的<a href="http://www.guancha.cn/politics/2017_05_20_409260.shtml#comment" target="_blank">热情和信心</a>。</p>
+<p>此前，支名 “打假斗士” 方舟子之妻、前中国社科院疑似在读学生刘菊花女士的硕士论文剽窃事件曾被一些学术人员斥责为 “<a href="http://blog.sciencenet.cn/blog-460310-437091.html" target="_blank">史上最恶劣的剽窃</a>”；中国青年政治学院的学子亦因在 “反美斗士” 司'马'南先森主讲的一场关于《文化强则中国强》的主题座谈会辩论阶段对其进行一系列尖锐而具有自由主义倾向的提问使其疲于招架而在中文因特网路上蜚声遐迩。"</i>
+➜西方文明将会如何崩溃
+https://www.solidot.org/story?sid=52481	51460
+不论是哪个文明，不论它多么伟大，<a href="http://www.bbc.com/zhongwen/simp/39989261" target="_blank"><u>都存在导致其终结的弱点</u></a>。不管现在如何，情况总会发生变化。排除物种灭绝事件，如小行星撞击地球，核冬天或致命流行病，历史告诉我们，通常有许多因素会导致社会崩溃。马里兰大学系统科学家莫帖夏瑞（Safa Motesharrei）使用计算机模型更深入地了解可能带来当地或全球可持续发展或导致崩溃的机制。根据他和同事的研究结果，存在两个重要因素：生态压力和经济分层。生态原因可能会导致毁灭是一种广受理解和认可的说法，特别是在诸如地下水、土壤、渔业和森林等自然资源枯竭的情况下。另一方面，经济分层因素可能导致社会崩溃，该发现让莫帖夏瑞及其同事感到有点吃惊。假想的情况是，精英阶层囤积大量的财富和资源，将社会推向不稳定，最终导致社会崩溃。人数上占大多数的普通人，通过劳动支持精英阶层，但分配给他们的资源极少。最终劳动人口崩溃，原因是分配给他们的财富不足。随之而来的是劳动力的缺乏，这会导致精英阶层崩溃。我们今天看到的国内和国家之间的不平等现象已经说明了这种阶层分化。

@@ -1,0 +1,12 @@
+➜比尔盖茨向开源学习
+https://www.solidot.org/story?sid=4688	15300
+在自由开源软件社区看来，微软被认为是以“大教堂”风格进行软件生产的典型代表。比尔盖茨曾经把开源运动<a href="http://www.news.com/Bill-Gates-and-other-communists/2010-1071_3-5576230.html">比喻为共产主义</a>，但以开源为核心的软件开发现象正越来越盛行，比尔盖茨似乎也认识到向开源学习的重要性。最近一次由微软委托的对约500名董事级别的行政人员的<a href="http://news.zdnet.com/2100-9595_22-6222828.html">调查结果显示</a>，61%的人认为团队合作技能比IT编程技能更重要，<a href="http://slashdot.org/article.pl?sid=07/12/15/1252218">盖茨对此的评论更像是某位开源基金会的成员</a>，“软件创新，和所有其它类型的创新一样，需要具有协助的能力和与他人分享观点和想法，坐下来和消费者交谈，得到他们的回馈，理解他们的需要。”
+➜计算机历史博物馆在Youtube开设频道
+https://www.solidot.org/story?sid=4689	18000
+大学、政府机构甚至是总统竞选人都已经把Youtube作为一个重要的战场和技术传播工具。<a href="http://youtube.com/ucBerkeley">伯克利</a>、<a href="http://youtube.com/unsw">澳大利亚新南威尔士</a>等大学都开设了频道，上传了许多视频课程。此外不能不提Youtube风云人物大名鼎鼎的共和党总统候选人<a href="http://youtube.com/results?search_query=Ron+Paul&amp;search=Search">Ron Paul</a>，他被视为美国自由主义者的希望之星。现在<a href="http://www.youtube.com/computerhistory">计算机历史博物馆</a>也在Youtube创建了一个新频道，上传讲述计算机历史的系列视频。最新的视频是12月10的<a href="http://www.youtube.com/watch?v=NBvbsPNBIyk">纪念Commodore 64诞生25周年</a>，目前一共23个视频，时长基本在7到8分钟。
+➜科幻作家Arthur C. Clarke90岁生日
+https://www.solidot.org/story?sid=4690	19200
+著名英国科幻作家，《2001：太空漫游（2001: A Space Odyssey）》作者<a href="http://en.wikipedia.org/wiki/Arthur_C._Clarke">Arthur C. Clarke</a>在<a href="http://blog.wired.com/underwire/2007/12/arthur-c-clarke.html">12月16日迎来了90岁生日</a>。 Clarke是“科幻三巨头”中唯一仍然健在的成员，其他两位是艾萨克艾西莫夫（<a href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>）和罗伯特海因莱因（<a href="http://en.wikipedia.org/wiki/Robert_A._Heinlein">Robert Heinlein</a>）。为了纪念这位伟大的科幻作家，人造卫星对地静止轨道被命名为Clarke Belt；1970年阿波罗13号登月飞船的指挥中心被命名为Odyssey，以纪念科幻史诗2001: A Space Odyssey；还有小行星和一种新种类的恐龙都用他的名字命名。奇客们应该都比较喜欢看科幻小说，你们最喜欢哪位科幻作家和哪一本科幻小说？
+➜Amazon提供付费数据库服务
+https://www.solidot.org/story?sid=4691	29100
+Amazon发布了一个新的web数据库服务—<a href="http://www.amazon.com/gp/browse.html?node=342335011">SimpleDBM</a>，看起来就像<a href="http://hardware.slashdot.org/article.pl?sid=07/12/16/0012213">一个简单的目录服务</a>。本身不支持SQL ，操作非常简单——如CREATE：创建一个新域；GET，PUT，DELETE：对域进行各种处理；QUERY：在域进行查询。数据储存在单元中，可带有多种属性，单个属性可包含多类值（Values）。例如：(name, bob)，(favoriteFruit, apple)，(favoriteFruit, banana)。比较有趣的是这项服务的费用结构：你需要分别为数据储存，数据传输，以及在使用数据库过程中所使用的CPU时间付费。“Amazon SimpleDB设计针对的是非海量的关系型数据，为快速数据连接进行了优化。”

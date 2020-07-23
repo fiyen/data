@@ -1,0 +1,109 @@
+➜你需要重新关注家庭网络的安全
+https://www.solidot.org/story?sid=47185	8822
+<a href="mailto:reg@solidot.iworm.net">立厂三口</a> 写道 "今天早上，岳父拿着他的手机，让我输入一下WiFi密码。我纳闷了，昨天还能连上我家无线，今天为什么要输入密码了？仔细一看，原来他用了腾讯WiFi管家。我猜测是腾讯把WiFi管家的安装通知推送过来，他估计不懂，就直接安装了。
+<p></p>
+<p>
+</p>
+<p>我对Android不熟，而且早上时间紧，就没仔细研究，于是输入了密码。现在仔细想想，这还是一件很可怕的事情。我不算是一个相信阴谋论的人，但在这个信仰缺失的年代，不能不提防着点。
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>5年以前，如果说你家WiFi密码设置的很简单，所造成的后果无非就是别人蹭网，拖慢你家的网速。严重一点就是有人可以通过你的无线网络发起网络攻击，最后如果追查责任的话，肯定会追查到你家。因为是通过你的IP发起的。
+</p>
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p>
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>现在情况变得更复杂了，因为最近几年大量可以联网的设备进入家庭。就拿我家来说，电视机、Apple TV、小米盒子、PS 4、手机、平板、电脑、网络存储设备（NAS）、摄像头、空气净化器都是联网的，更别说其他人家所拥有的冰箱、灯光、窗帘、安防了。一旦有人拿到了你WiFi密码，他或许就能控制你电视上播放的内容、传播病毒/木马、通过摄像头看到你家、访问你网络存储设备里的照片，可以说你整个家都暴露在别人面前。这些还不够恐怖吗？</p>
+<p>
+</p>
+<p>对于家庭网络安全的要求已经上升到了一个新的高度，你需要重新审视。在没有特别简单、有效的防范手段出来之前，只能按照以下要求来做：</p>
+<p>
+</p>
+<p><b>给WiFi设置一个长且复杂的密码</b></p>
+<p><b>
+</b></p>
+<p>如果WiFi密码太简单，很容易被猜到。所以一定要用一个长且复杂的密码。</p>
+<p>
+</p>
+<p>比如我曾经用过的密码是：%58XiangGaoSuNi%，其实就是取了“我不想告诉你”的谐音和拼音，外加符号，足够安全了。</p>
+<p>
+</p>
+<p><b>使用安全的无线安全协议</b></p>
+<p>
+</p>
+<p>还在使用WEP和WPA吗？赶紧改成WPA2吧。</p>
+<p><b>只使用系统自带的无线连接工具</b></p>
+<p>也就是说，你不能安装任何第三方的无线连接工具，比如WiFi管家、WiFi助手之类的东西。</p>
+<p>
+</p>
+<ul>
+<li>在Android和iOS上，没有root/越狱时，系统本身会保护WiFi密码。如果一旦root/越狱，手机上的程序就能读取到已保存的WiFi密码了。即使无法读取，可能也会诱导你在他们的程序里输入密码。这里是别人写的<a href="http://blog.csdn.net/xxdddail/article/details/20522233" target="_blank">Android WiFi密码查看器的说明和代码</a>。</li>
+<li>在OS X和Windows上，都可以直接拿到已保存的WiFi密码（OS X上可能会让你再次输入用户密码；Windows上可能会让你点击UAC对话框中的确认按钮）。<a href="https://helpdesk.lastpass.com/importing-from-other-password-managers/" target="_blank">这里是LastPass的使用说明里提到的</a>。</li></ul>
+<p></p>
+<p>因为一旦你把无线密码告知了第三方程序，就无法知道他们会怎么使用你的密码。即使他们不会把密码分享给其他人，只是为了你以后用起来方便，把密码在他们自己服务器上存了一下，他们怎么能保证没人得到他们服务器上存储的密码呢？</p>
+<p><b>使用2个无线ID（SSID）以及两个虚拟子网</b></p>
+<p>如果你的路由器支持的话，开启两个无线ID，且密码也不同。比如一个叫myhome，一个叫myhome-guest。再为这两个无线ID分配两个虚拟子网(VLAN)。比如myhome的网段是192.168.1.x，而myhome-guest的网段是192.168.2.x，让他们从网络层完全隔离开。一个是完全可信任的设备使用的，比如家人的iPhone、Apple TV、电视、摄像头、网络存储等。还有一个是不怎么可信的国产Android设备、客人的手机等。</p>
+<p>这样两个子网互相不联通，在保证保证家庭网络的安全的同时，还能照顾到来到你家第一件事就是索要WiFi密码的朋友。</p>
+<p><b>尽量不使用国内的系统/固件</b></p>
+<p>之前热卖的翻墙路由器，你怎么知道它不会把你的VPN账号共享出来呢？就算不共享，是不是会向公安备案呢？同样的，某些国产的Android手机会不会已经内置了WiFi密码搜集功能？同理，在百度上都能搜到的VPN会不会根本就是被老大哥监视的VPN呢？这些都是需要我们思考的地方。</p>
+<p>推荐使用DD-WRT或者OpenWRT固件，前提是你的路由器能刷此固件，并且你需要从官网下载（还记得2015年的<a href="http://www.feng.com/Story/A-threat-to-hundreds-of-millions-of-XcodeGhost-what-ghost_625317.shtml" target="_blank">XCodeGhost</a>事件吗），还得会刷路由器。</p>
+<p><b>总结</b></p>
+</i>
+<p><i>家庭网络其实是一个虚拟的家，也需要有隐私。正如你会安装防盗门+指纹锁来保护你家一样，虚拟的家也需要你的保护。"</i></p>
+➜Google CEO表态支持苹果
+https://www.solidot.org/story?sid=47186	10640
+苹果以爱国和尊重民主的名义宣布<a target="_blank" href="http://www.solidot.org/story?sid=47179"><u>拒绝执行法庭的命令</u></a>，拒绝开发固件帮助FBI解锁恐怖袭击案枪手的iPhone手机。前NSA合同工Edward Snowden<a target="_blank" href="https://twitter.com/Snowden/status/699997565987745792"><u>呼吁</u></a>Google对此事作出公开表态，他认为此案将是十年来最重要的科技案件，如果Google保持沉默，这意味着搜索巨人选择了一方，但选择的不是代表公众的一方。Google CEO Sundar Pichai随后在Twitter上发表了<a target="_blank" href="https://twitter.com/sundarpichai/status/700104298600886272"><u>五个帖子</u></a>，表态支持苹果。他认为强迫公司去破解加密将会危及用户的隐私，将会开启一个令人不安的先例。
+➜ePSXe 2.0发布
+https://www.solidot.org/story?sid=47187	12466
+最流行的索尼PS主机模拟器ePSXe<a target="_blank" href="http://www.epsxe.com/index.php"><u>发布了2.0版本</u></a>，上一个大版本1.9版是在2013年8月发布的。ePSXe 2.0的主要变化包括：运行需要Windows Vista及以上的版本，可能能工作在Windows XP SP2上，但未测试；支持英语、西班牙语、日语和意大利语，开发者欢迎其它语种的翻译者；改进了CPU/总时序精度，新的 GPU Core需要显卡支持 OpenGL2 + GLSL着色器；改进HLE bios模拟，改进了40多个游戏的可玩性，等等。
+➜Go 1.6 发布
+https://www.solidot.org/story?sid=47188	15444
+Go语言项目<a target="_blank" href="https://blog.golang.org/go1.6"><u>宣布发布1.6版</u></a>。新版的特性包括： net/http支持HTTP/2，使用HTTPS时服务器和客户端默认启用HTTP/2；Go命令默认启用 vendor特性，Go 1.7将移除环境变量支持；用Go 1.6构建Go程序的性能和构建时间与Go 1.5相差不大；改进 sort.Sort的算法，速度加快了10%，但这一改进可能会破坏某些程序，等等。
+➜亚马逊在中国推出Kindle Unlimited包月服务
+https://www.solidot.org/story?sid=47189	17240
+亚马逊在中国推出了<a target="_blank" href="https://www.amazon.cn/gp/kindle/ku/sign-up"><u>Kindle Unlimited包月服务</u></a>，月费12元，花0.1元可试用7天。<a target="_blank" href="https://www.amazon.com/gp/kindle/ku/sign-up"><u>这项服务已在美国推出</u></a>，美国的月费是9.99美元，可免费试用1个月。亚马逊称，Kindle Unlimited用户可以自由选择阅读40000余本中文电子书，3500余本英文进口书。没有多少热门书和专业技术类书籍进入到<a target="_blank" href="http://www.amazon.cn/s?ie=UTF8&amp;bbn=116169071&amp;page=1&amp;rh=n%3A116087071%2Cn%3A!116088071%2Cn%3A116169071%2Cp_n_feature_nineteen_browse-bin%3A1338154071"><u>Kindle Unlimited包月电子书单</u></a>（比如只有两本O'Reilly），你可以去搜索里面有多少感兴趣的书，然后再决定是否包月。
+➜最廉价的Android智能手机仅售24元
+https://www.solidot.org/story?sid=47190	28198
+印度公司Ringing Bells<a target="_blank" href="http://arstechnica.com/gadgets/2016/02/worlds-cheapest-android-smartphone-goes-on-sale-yours-for-just-2-50-no-really/"><u>开始销售</u></a>世界上最廉价的Android智能手机<a target="_blank" href="http://freedom251.com/home"><u>Freedom 251</u></a>，其售价为251卢比，约合人民币24元。手机的硬件规格看起来并不差，它并不是合约机。Freedom 251配备了4英寸960×560显示屏，1.3 GHz四核处理器（制造商未知），电池容量1450mAh，1GB内存，8GB ROM，支持32GB SD卡，后置摄像头320万，前置30万，运行Android 5.1系统，它预装的软件包括了WhatsApp、Facebook、YouTube、Women Safety和Swachh Bharat等。Ringing Bells成立于2015年，自称是印度成长最快的智能手机制造商之一。
+➜教宗的飞机遭激光照射
+https://www.solidot.org/story?sid=47191	29550
+上周五，罗马天主教教宗方济各乘坐的意大利航空公司空客A330-200飞机在墨西哥国际机场降落时<a target="_blank" href="http://www.usatoday.com/story/news/world/2016/02/17/popes-flight-flashed-laser-light/80495728/"><u>遭到激光束照射</u></a>。飞行员安全降落了飞机，警告了空管，空管随后又通知了当地警方。激光束可能不是特别针对教皇的飞机的，该地区还有多名飞行员报告了激光照射事故。飞机遭到激光束照射的事件正越来越常见，美国联邦航空管理局在2015年就记录了超过7000起激光照射。本周一，英国媒体<a target="_blank" href="http://www.standard.co.uk/news/london/the-distress-call-from-airline-pilot-after-laser-is-shone-into-cockpit-a3180256.html">报道</a>维珍航空的一架客机因为激光照射而被迫返回起飞机场。这架客机原计划是从伦敦飞往纽约，机上有252名乘客，飞机从Heathrow机场起飞后不久，一位飞行员报告驾驶舱遭到了激光照射，导致另一位飞行员出现了“健康问题”，作为预防措施而请求返回伦敦。
+➜CloudReady让Windows PC双启动运行Chrome OS
+https://www.solidot.org/story?sid=47192	31306
+Neverware在开源Chromium OS基础上开发了一个版本CloudReady，将普通的Windows PC变成Chromebook。CloudReady主要针对的是负担不起购买全新Chromebook电脑的教育机构。Neverware刚刚<a target="_blank" href="http://www.neverware.com/blogcontent/2016/2/17/cloudready-release-v453-and-dualboot"><u>宣布了</u></a>CloudReady v45.3，支持双启动，也就是用户可以在保留Windows操作系统的情况下尝试Chromium OS。CloudReady 45.3<a target="_blank" href="http://www.neverware.com/installation#installnotes"><u>支持双启动</u></a>有一个要求：Windows PC需要有UEFI。如果你的旧电脑不支持UEFI，可以选择直接通过U盘运行CloudReady。
+➜好莱坞长老会医院被迫支付赎金以恢复网络服务
+https://www.solidot.org/story?sid=47193	33706
+洛杉矶好莱坞长老会医院的计算机系统本月5日感染了勒索软件，勒索软件通过加密文件锁定系统阻止电脑工作。医院的管理层因为担心恶意程序扩散而一度禁止雇员开启电脑，于是雇员被迫重新使用纸和笔，用传真机代替电子邮件。病人没有受到影响，但一些急症病人<a target="_blank" href="http://www.cnbc.com/2016/02/16/the-hospital-held-hostage-by-hackers.html"><u>被转移到其它医院</u></a>。攻击者向医院勒索多达9000比特币——约合360万美元。《洛杉矶时报》报道称，为了尽快恢复计算机工作，医院<a target="_blank" href="http://www.latimes.com/local/lanow/la-me-ln-hollywood-hospital-bitcoin-20160217-story.html"><u>选择了支付赎金</u></a>。报道称医院只支付了40比特币——约合1.7万美元。<br>
+➜官方否认1996年长三乙事故导致500人死亡
+https://www.solidot.org/story?sid=47194	37232
+<center>
+<iframe src="https://www.youtube.com/embed/HHwm1v6NKmE" allowfullscreen="" frameborder="0" height="360" width="640"></iframe><br>
+<br>
+</center>
+1996年2月15日，运载国际通信卫星组织<a target="_blank" href="https://en.wikipedia.org/wiki/Intelsat_708"><u>708号通信卫星</u></a>的<a target="_blank" href="https://zh.wikipedia.org/wiki/%E9%95%BF%E4%B8%89%E4%B9%99"><u>长三乙</u></a>首次发射失败，起飞约2秒后由于导航系统故障导致火箭在飞行中倾斜翻转，约22秒后头部撞到离发射架1200米处的山坡上，发生爆炸。官方报道称事故造成6人死亡，但外界估计有200到500人死亡，当时有“数百人”在现场观看发射。记者被扣留了5小时，他们报道称周围的建筑物遭到了严重破坏。一位网友在观看了相关纪录片后采纳了外界的估计，发微博表示愤怒。国有的中国航天科工集团公司回应称这是谣言， 表示这一数字“应该是造谣者根据图片数窗户，然后根据标准间的标准推算出来的。”航天科工称“因安全和保密原因，火箭发射场周围绝不允许有家属区或者居民区，也不允许任何闲杂人等入内”。 发布微博的网友因发布的内容涉及“不实信息”，<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/2/338475.shtm"><u>已被禁言15天</u></a>。
+➜NSA局长称巴黎恐怖袭击如果没有使用加密将不会发生
+https://www.solidot.org/story?sid=47195	38401
+美国政府正准备与硅谷科技公司打一场可能将会影响深远的加密技术诉讼，它们的第一个对手将是苹果公司。苹果公开拒绝了帮助FBI解密手机的要求。双方都为这场官司最终<a target="_blank" href="http://cn.wsj.com/gb/20160218/tec152615.asp"><u>将打到最高法院做准备</u></a>，并且案件可能会促使国会采取行动。而在另一方面，政府官员继续宣称加密通信与恐怖袭击的关联性，即使目前并没有确凿证据。NSA局长Michael Rogers说，参与去年11月巴黎恐怖袭击的恐怖分子至少部分使用了加密通信，使得NSA无法提前对法国发出警告，他表示如果没有加密通信恐怖袭击<a target="_blank" href="http://arstechnica.com/tech-policy/2016/02/nsas-director-says-paris-attacks-would-not-have-happened-without-crypto/"><u>将不会发生</u></a>。他承认加密增加了NSA执行任务的难度。
+➜复活节岛文明不是毁于战争
+https://www.solidot.org/story?sid=47196	41701
+数百年前，<a target="_blank" href="https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%B2%9B"><u>复活节岛</u></a>上的拉帕努伊人（Rapa Nui）建造了超过800个巨型石像，这些石像重达几十吨高数米，至今仍然被神秘所笼罩。复活节岛的人口被认为曾经历过灾难性的崩溃，它的人口最多可能有2万人左右，但在18世纪欧洲人发现复活节时岛上的人口仅剩下约3000人。这一局面是如何导致的？地理学教授Jared Diamond在其畅销书《大崩溃》中给出的解释是：拉帕努伊人消耗了岛上的所有资源，食物耗尽，树木砍光，他们没有木材制造船出海捕鱼，于是战争爆发，人以人为食，最后只剩下几千人迎接欧洲人的到来。但研究人员根据最新的考古证据给出了截然不同的解释：复活岛文明不是毁于战争，而是毁于欧洲人带来的疾病，天花和鼠疫在极短的时间里杀死了大部分人口。<a target="_blank" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=10183558&amp;fileId=S0003598X15001891"><u>研究报告</u></a>发表在《Antiquity》期刊上。
+➜性工作者利用百度推广招揽生意，百度怪SEO
+https://www.solidot.org/story?sid=47197	42259
+多名性工作者利用百度推广招揽生意，由于性交易在中国仍然属于非法，她们遭到了逮捕。此事引发了对百度如何管理广告发布的关注。这家最大的中文搜索引擎随后发表声明，<a target="_blank" href="http://www.nanzao.com/sc/national/152f3b7f047dec2/bai-du-hui-ying-duo-nv-zhi-ding-zhao-piao-bu-fa-fen-zi-yong-sou-suo-yin-qing-you-hua"><u>将责任归于SEO</u></a>——即搜索引擎优化。百度的声明中称，他们第一时间进行了线上排查，目前并没有发现相关违规推广。他们初步判断是不法分子通过SEO（搜​​索引擎优化）的方式将其网站或图片推倒自然搜索结果的靠前位置，吸引点击以达到实施违法行为的目的。
+➜人类在10多万年前就开始与尼安德特人交配
+https://www.solidot.org/story?sid=47198	42864
+现代人类与近亲尼安德特人之间发生性关系的历史比科学家以前认为的更早。根据以前公认的理论，现代人类是在6万多年前离开非洲进入到欧亚地区，与早已在欧洲定居的尼安德特人以及丹尼索瓦人等近亲相遇，最后尼安德特人等人种灭绝了。但这一说法遭到了质疑，科学家在《自然》期刊上发表<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature16544.html"><u>论文</u></a>，对西伯利亚阿尔泰山发现的尼安德特人和丹尼索瓦人骨骼的遗传分析显示，现代人类的DNA在10多万年前就混入到了近亲的基因组内。这一证据暗示某些尼安德特人<a target="_blank" href="http://arstechnica.com/science/2016/02/humans-started-having-sex-with-neanderthals-over-100000-years-ago/"><u>在很久以前就与现代人类有过接触</u></a>。
+➜科学家在盐摄入量上的立场呈两极分化
+https://www.solidot.org/story?sid=47199	45214
+一部分科学家警告，我们正在被盐杀死——每天饮食中摄入的盐过量；另一部分科学家则认为我们的盐摄入量并没有高到危及健康。到底摄入多少盐对人体是健康的？<a target="_blank" href="https://www.washingtonpost.com/news/wonk/wp/2016/02/17/scientists-cant-agree-whether-salt-is-killing-us-heres-why/"><u>科学家对此呈两极分化</u></a>。对数百篇论文的分析显示，两组立场不同的科学家生活在不同的平行科学宇宙内。一部分科学家写论文谈论摄入盐过量的危险性，通常引用支持他们结论的论文；一部分科学家写论文驳斥或淡化危险性，通常引用支持他们立场的论文。这一现象显示了在盐的消耗上科学界的两极分化。

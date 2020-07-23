@@ -1,0 +1,51 @@
+➜剑桥数学家解决赛艇摇摆问题
+https://www.solidot.org/story?sid=14904	60
+赛艇比赛是剑桥大学的传统赛事，剑桥是非常严肃的对待这项运动，甚至让一位数学研究员John Barrow去研究赛艇的振荡非零横向移动，也就是所谓的“摇摆（wiggle）”。<i>
+<a href="http://www.technologyreview.com/blog/arxiv/24437/?a=f">如何安排赛艇运动员的位置对于减少或消除摇摆至关重要</a>。传统的方式是安排八位划桨手交替的在赛艇的每边划桨。1956年，一只意大利赛艇队发现了一种排列方式能让横向力消失，该赛艇队成员随后还在当年的墨尔本奥运会上代表意大利获得了金牌。他们所采用的安排方式是最前方的一侧安排一人，后面紧跟着两人在另一侧划桨，第四人与第一人同侧。Barrow研究了划桨手的排列组合，他共找到了4种零横向力的可能安排方式，其中两种已用于赛艇竞技运动，一种就是意大利组合，还有一种在1950年代被著名的德国赛艇俱乐部Ratzeburg训练所采用。另外两种则鲜为人知。Barrow证明，只要划桨手的数量能被4整除，这些组合方式都不会产生摇摆。或许我们能在2012年的伦敦奥运会上看到英国人发现的新排列方式。</i> <a href="http://arxiv.org/abs/0911.3551">预印本</a>
+➜波兰：90后比80后更认同自由民主制
+https://www.solidot.org/story?sid=14905	8100
+time 写道 "华沙公共事务研究所的研究员格热夫斯基最近<a href="http://dailynews.sina.com/gb/news/int/dwworld/20091127/0710911016.html">做了一项针对二十多岁波兰人的调查</a>，调查主题是关于波兰变革前后的生活。他吃惊地发现，20多岁这代人对前共产主义时期的生活有着不切实际的幻想。许多人认为那时候没什么压力，国家更好地服务于国民，而现今体制则导致腐败。<i>
+但是同15到17岁的中学生对话则发现这一人群更了解历史。这些中学生知道“（过去）所有观点都要与党报《论坛报》保持一致”，“如果没有这个自由，今天我们就不能在这里聚会，否则将给我们带来后果”，还有学生表示无法理解人们不能自由选举的生活。格热夫斯基认为，当这群中学生到30岁时，他们的民主见解会超越前一代人，而经历转变的一代人则难以承受社会的变化。"</i>
+➜iRedMail 即将支持 FreeBSD
+https://www.solidot.org/story?sid=14906	9480
+<a href="http://atyu30.cublog.cn/">atyu30</a> 写道 "Hi, all.
+<a href="http://code.google.com/p/iredmail/">iRedMail</a> 团队正在将 iRedMail 移植到 FreeBSD 平台，喜欢 FreeBSD 的朋友很快就可以方便地通过 iRedMail 部署邮件服务了。
+目前基于 FreeBSD-7.2-RELEASE 做基本系统，使用最新的 ports tree，所有软件都通过 ports tree 安装。
+如果大家有更好地建议，欢迎在这里回复，或直接邮件联系我 (michaelbibby  gmail)
+进度：
+- 2009-11-26：iRedMail 需要的组件都已可顺利编译安装上。全部源码包下载下来之后的编译时间，大概是 2 小时。"
+➜全民学习符号数学
+https://www.solidot.org/story?sid=14907	10560
+DNA24 写道 "<a href="http://en.wikipedia.org/wiki/Symbolic_computation">符号数学</a>即符号计算，属于代数和<a href="http://baike.baidu.com/view/14041.htm">高等数学</a>，使用<a href="http://en.wikipedia.org/wiki/Computer_algebra_system">计算机代数系统</a>作为它的工具。所有行业，包括文科，在实际应用中都需要<a href="http://baike.baidu.com/view/133261.htm">数学建模</a>，所以符号数学(或称计算机代数)是一门必须掌握的技能。(我学材料科学的时候，老师也没提到过，不过已经是很久以前的事了)。掌握这门技能并不难，如果你是在校学生，那就更应该抽空把弄把弄。以下是一些书籍和工具，大家也可以根据自己情况在网上和图书馆搜：           1、启蒙书《<a href="http://books.google.cn/books?id=dhZDAAAACAAJ&amp;dq=Maple">Maple计算机代数系统应用及程序设计</a>》(已绝版，但在图书馆有藏，或者网上买影印版)<br>
+2、基础书《<a href="http://www.dushu.com/book/11774312/">高等数学</a>》《<a href="http://www.dushu.com/book/11781067/">计算机代数</a>》《<a href="http://www.dushu.com/book/11781067/">计算机代数基础：代数与符号计算的基本原理</a>》<br>
+3、实用教程《<a href="http://www.dushu.com/book/11944826/">经济数学简明教程</a>》(因为现在在搞金融，所以看看这个；大家根据自己的专业上谷歌图书和读书网搜)<br>
+4、工具MatLab 13、Mathematica、Sage 4.5 (还有很多在维基上这里有)
+<br>
+为美好的明天加油！"
+➜Dell发布实验性的Chrome OS镜像
+https://www.solidot.org/story?sid=14908	10800
+看起来戴尔对Google Chrome OS也很感兴趣，它<a href="http://www.osnews.com/story/22546/Dell_Releases_Experimental_Unsupported_Chrome_OS_Image">释出</a>了一个<a href="http://en.community.dell.com/blogs/direct2dell/archive/2009/11/25/chrome-os-wi-fi-support-running-on-a-mini-10v-source-code-available.aspx">实验性的Chrome OS USB key镜像</a>，针对的是Dell Mini 10v上网本，并支持Broadcom Wi-Fi适配器。开发者声称新操作系统的无线功能运行良好。不过，整个镜像高达<a href="http://linux.dell.com/files/cto/">7.5GB</a>，所以至少需要8GB的U盘(用户密码和root密码都是dell）。
+➜Windows XP上网本将于明年一季度退出市场
+https://www.solidot.org/story?sid=14909	20100
+制造商表示，在现有预装XP的上网本出货清空之后，<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20143063,00.htm">将不会再推出新的XP上网本</a>。微软最受欢迎的操作系统将走入历史。
+<i>
+华硕称，现在新推出来的上网本，预装的是Windows 7，预装XP的Eee PC型号主要为10英寸的1005、1001和1008。接下来只会从Eee PC 1005和1001之中挑选一种预装XP，当做入门型号。明基表示，XP上网本卖完为止，不会再推出新品。过去一两年里，由Vista的硬件要求过高，致使原本该淡出市场的XP意外长寿。而目前市场的初步反馈显示，消费者对Windows 7的关注度很高，零售表现也不错。华硕预期，明年初的时候，Eee PC采用Win 7和XP的比重，就会从现在的7：3变至8：2。</i>
+➜武装免疫系统对抗猪流感
+https://www.solidot.org/story?sid=14910	24300
+《MIT技术评论》报道，病毒的繁殖速度是如此之快，以至于众多抗病毒药物只能在病人感染最初几天生效。在此之后，患者就不能仅仅依靠一类药物去对抗病毒。现在，研究人员使用了一种不同的方法去治疗HINI（猪流感）。新的方法不是让病毒失去活性，<a href="http://www.technologyreview.com/biomedicine/24001/">而是用疫苗激活和控制人体免疫系统抵御入侵者</a>。<i>
+位于美国弗吉尼亚州<a href="http://www.cel-sci.com/">Cel-Sci</a>公司的研究人员创造出被称为LEAPS的筛选平台，它能识别抗原决定基（epitope）——可用来引诱出特定免疫反应的病毒片段。组成抗原决定基的DNA片段非常短，只有8到30个氨基酸长，因此可在实验室中制造出来。Cel-Sci的研究人员让这些DNA片段捆绑在与免疫细胞结合的配体分子上，这种分子能直接作用于免疫细胞，启动和引导免疫反应，抵抗HINI病毒。与Cel-Sci合作的东北俄亥俄大学医药学院的免疫学家<a href="http://www.neoucom.edu/audience/about/departments/ims/faculty/krosenthal">Kenneth Rosenthal</a>称，这就像活病毒疫苗，更高效，但并没有真正的活病毒。研究人员已在老鼠身上进行了测试。</i>
+➜武术是神秘主义玄学
+https://www.solidot.org/story?sid=14911	26880
+中国的电视电影荧屏充斥着廉价的武打镜头，武打明星更是无数人儿时的偶像。人们对于历史上的武术名家几乎是如数家珍，虽然他们的经历多为虚构。武术其实就中医一样，它们都是皇帝的新装。中国的许多传统，包括武术、中医和气功，都有一个共同点，<a href="http://immusoul.com/index.php/archives/1486.html">就是充满玄学式的神秘主义气质</a>，一句“科学无法解释”就把所有说不通的东西全说通了。21世纪了还有人把这里江湖把戏当成瑰宝不得不说是一种悲哀.....
+➜谁在议论我？
+https://www.solidot.org/story?sid=14912	28800
+《MIT技术评论》<a href="http://www.technologyreview.com/web/23968/?a=f">报道</a>（<a href="http://www.mittrchinese.com/zh/2009/1125/article_624.html">中文</a>），受欢迎的视频和吸引人的文章会在数十乃至数百家网站转载或讨论，但如何去追踪这些分散在四面八方的评论呢？一些新的协议正试图解决这一问题。
+<i>
+新的协议是当内容出现时主动通知，而不是被动等候搜索爬虫或阅读器feed去发现它们。如<a href="http://code.google.com/p/pubsubhubbub/">pubsubhubbub</a>，这是一种可用于同步内容协议扩展，即时更新feed。上个月提出的<a href="http://www.salmon-protocol.org/">Salmon</a>协议原型，能让各处的评论链接到原始文章。今日的互联网，内容往往从一个站点流到另一个，所以它需要这样的技术。快速地收集分散的数据块，对于希望参与围绕他们在网上发布的内容进行讨论的人来说至关紧要。为了让Salmon协议正常工作，它需要得到内容发布者和可能订阅或讨论该内容的服务双方的采用。当有内容发布时，发布者使用pubsubhubbub通知订阅者。然后，如果一位用户对在另一站点发布的内容做出评论，Salmon协议就将此信息送回发布者。发布者可以依次将这些评论向下传递给所有其他的订阅者，这保证了无论评论出现在什么地方，都被整合在一起。</i>
+➜台湾《苹果日报》分级
+https://www.solidot.org/story?sid=14913	35400
+stranger 写道<i> "由于台湾《苹果日报》出现一些少儿不宜的新闻，<a href="http://news.google.com/news/more?q=%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5&amp;oe=utf-8&amp;client=firefox-a&amp;rlz=1R1GGGL_en&amp;um=1&amp;ie=UTF-8&amp;ncl=dEM41Sg7Z7yLEfM8qoY1kKTd8XfKM&amp;hl=zh-CN&amp;ei=xPMQS8OzIZGGkAWA2JSjBw&amp;sa=X&amp;oi=news_result&amp;ct=more-results&amp;cd=1&amp;resnum=1&amp;ved=0CAoQqgIoADAA">台北市政府决定处罚 100 万元新台币并且禁止辖区学校订阅该报纸</a>。《苹果日报》表示对这一行为“完全不能接受”，将在下周起诉台北市长。其实还是接受了一些，将按规定对报纸<a href="http://news.cts.com.tw/cts/politics/200911/200911280351732.html">内容分级</a>(视频)，限制级部分标明未对成年人的警示。"</i>
+《<a href="http://tw.nextmedia.com/">苹果日报</a>》推出了“动新闻”栏目，尺度大胆，台北市长郝龙斌因此下令学校使用防火墙屏蔽《苹果日报》网站。
+➜从月球、火星以及更远处看地球
+https://www.solidot.org/story?sid=14914	37200
+过去40多年里，人类发射的飞行器几乎已经遍及整个太阳系，它们从遥远的深空看我们的母亲地球又会是何等景象？《科学美国人》网站收集了10幅<a href="http://www.scientificamerican.com/slideshow.cfm?id=earth-from-space">从月球、火星、金星（途中）等处看地球的照片</a>。

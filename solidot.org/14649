@@ -1,0 +1,101 @@
+➜Pinta：Paint.NET的Gtk+克隆
+https://www.solidot.org/story?sid=16195	2880
+GTK+发行版上缺少类似<a href="http://getpaint.net/">Paint.NET</a>这样强大但易于使用的图像处理和照片编辑软件，现在Novell公司的雇员Jonathan Pobst利用Cairo创建了一个<a href="http://www.osnews.com/story/22843/Introducing_Pinta_a_Gtk_Clone_of_Paint_NET">Paint.NET的Gtk+克隆</a>。<i>
+该克隆项目叫<a href="http://pinta-project.com/">Pinta</a>，当前的版本号为0.1版，换句话说它的功能并不完整。Pinta的界面类似Paint.NET，由于它是基于GTK+，因此可以运行在Linux、Windows和Mac OS X上。目前它提供了SUSE的rpm包。</i>
+➜微软称电池“bug”是电池引起的，与Windows 7无关
+https://www.solidot.org/story?sid=16196	4800
+最近几周有许多用户<a href="__SLASHLINK__" sect="it" sid="10/02/03/036207" sn="article" tid="53">抱怨</a>：在Windows XP或Vista下工作良好的电池，在Windows 7上却出现“替换电池”的警告；以及Windows 7笔记本上电池寿命明显下降。
+<i>
+对于前一个问题，微软的Steven Sinofsky在Engineering 7 blog上<a href="http://blogs.msdn.com/e7/archive/2010/02/08/windows-7-battery-notification-messages.aspx">指出</a>：用户的电池确实有问题了，<a href="http://www.osnews.com/story/22849/Battery_quot_Bug_quot_Caused_by_Batteries_Not_by_Windows_7">这不是Windows 7的错误</a>。Sinofsky称电池通知功能是Windows 7特有的，在XP或Vista上并不存在，Windows 7能更精确的检测出有故障的电池，因此虽然用户的电池需要更换，但XP或Vista无法向用户发出警告。</i>
+➜10倍寿命的锂离子电池
+https://www.solidot.org/story?sid=16197	5520
+<a href="http://www.chnec.com/">DoubleX</a> 写道 "日本Eamex研究人员发现了一种技术可以大大延长锂离子电池的寿命，新的方法通过多涂层树脂吸收，保持了电池内部元素和电极结构的稳定，长时间在充电造成的压力下性状保持不变。<i>
+预计这种锂电池可以持续工作20年，并重复重复10000次以上，<a href="http://www.pcworld.com/article/188624/LithiumIon_Battery_Life_Could_Reach_20_Years.html?tk=rss_news">是今天大多数锂电池寿命的10倍</a>。Eamex计划推出一系列产品来驱动电动车、摩托车，并实现太阳能和小型化，最终装备到便携设备中，减少锂电池报废对环境造成的压力。"</i>
+➜奇虎宣布起诉瑞星
+https://www.solidot.org/story?sid=16198	7500
+在<a href="__SLASHLINK__" sect="it" sid="10/02/05/0936240" sn="article" tid="29">争论CNNIC根CA证书安全性</a>问题时候，很多人主张的一个理由是CNNIC曾开发过一个著名的流氓软件“<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%AD%E6%96%87%E4%B8%8A%E7%B6%B2%E5%AE%98%E6%96%B9%E7%89%88%E8%BB%9F%E4%BB%B6">中文上网官方版软件</a>”，但是另一家占领了中国安全市场的公司，其前身却是更为臭名昭著的流氓软件<a href="http://zh.wikipedia.org/zh-cn/3721">3721</a>。<i>
+最近关于奇虎360安全卫士存在后门的争吵颇为热闹，发起争论的主要一方是另一家受人争议的杀毒软件公司瑞星，它在官网上公布了“<a href="http://it.rising.com.cn/info/2010-02-02/6604.html">360本地提权后门详细分析报告</a>(<a href="http://rsdownauto.rising.com.cn/msginfo/media/360bkdr.wmv">视频演示</a>)”，“<a href="http://www.rising.com.cn/about/news/rising/2010-02-04/6663.html">安全软件不安全 奇虎360给用户装后门</a>”，而奇虎则公开声明<a href="http://news.xinhuanet.com/newmedia/2010-02/09/content_12956792.htm">指责瑞星造谣</a>，称已经提起诉讼，并向北京市公安机关报案。奇虎声称后门“实际上是一种高端的反木马侦测、清除与修复技术(Anti-rootkit)。”</i>
+➜Gmail服务增加微博功能
+https://www.solidot.org/story?sid=16199	14280
+<a href="mailto:jmss160@126.com">threejek</a> 写道<i> "谷歌将在本周<a href="http://http//news.wangmeng.cn/detailNews/1833-google-gmail-services-to-increase-the-function-of-micro-bo">发布Gmail即时发布功能</a>。谷歌已经提醒其Gmail用户<a href="http://cn.wsj.com/gb/20100209/tec100207.asp">添加新的模块</a>，并表示：这将能告诉关注你的人你在做什么，或者向他们分享照片、视频和网页。该功能将于谷歌旗下视频网站Youtube和照片网站Picasa融合。谷歌称这将让Gmail用户更清楚地看到他们要联系的人都即时状态。雅虎在去年八月曾在其邮箱上推出过类似功能"</i>
+➜中国野生虎不足50只
+https://www.solidot.org/story?sid=16200	14880
+路透社<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-1686320100208">报道</a>，国际野生生物保护学会中国项目主任解焱周一表示，中国仅存不足50只野生老虎。<i>
+解焱称云南省大约还有10头野生虎，西藏有15头，吉林和黑龙江省有20头左右。华南虎可能已经绝迹。“中国现存野生老虎数量非常少，野生老虎不足50头，西藏和南方的老虎数量也在下降。”虽然中国的东北虎数量少，但在中俄边境东北虎数量要多一些，大约现存500只。</i>
+➜Google的神秘域名流量占全世界的3%
+https://www.solidot.org/story?sid=16201	16800
+根据Alexa的最新统计，<a href="http://www.alexa.com/siteinfo/1e100.net">1e100.net</a>被<a href="http://tech.slashdot.org/story/10/02/08/132212/Google-Mystery-Domain-Reroutes-3-of-Net-Surfers">接近3%</a>的互联网用户访问过，在全球排名中排在第44位，超过BBC、AOL和Apple.com。<i>
+<a href="http://www.ip-adress.com/whois/1e100.net">1e100</a>是Google名字含义的科学记数法——1 * 10^100（10 <sup>100</sup>），Google表示该域名是被用于识别其网络中的服务器——确定哪个域名分配到哪一个IP地址，以确保网络的工作正常。Google在去年9月注册了该域名，10月启用，在同一时间Google透露了Spanner，设计在数据中心之间自动转移负载。</i>
+➜IBM发布Power7处理器
+https://www.solidot.org/story?sid=16202	19500
+IBM去年便表示将在2010年上半年推出Power 7系列处理器及相关服务器产品。本周一，蓝色巨人正式公布了<a href="http://hardware.slashdot.org/story/10/02/09/0053248/IBM-Releases-Power7-Processor">它的最新武器</a>。<i>
+Power 7处理器家族有更多的核心，改进了多线程功能，提高了服务器性能。Power7芯片的运行频率在3.0GHz到4.14GHz之间，核心有四核、六核或八核，采用45纳米工艺。每个核心4个线程，8个核心可同时执行32个任务，其核心数4倍于Power6芯片，线程数则是Power6的8倍。Power7有名叫TurboCore的功能——让不活动核心资源转移到忙碌的核心，以增强内存、带宽和时钟频率。Power7的Intelligent Threads（智能线程）技术能根据工作量动态分配资源；内存扩展技术使用压缩技术，向应用程序提供2倍的物理内存。IBM表示，新的Power7服务器能提供旧Power6系统2倍的性能，而在节能方面则是旧系统的4倍。Power7将运行AIX和Linux操作系统。</i>
+Intel在几乎同一时间宣布了<a href="http://www.ibtimes.com/articles/20100208/intel-unleashes-itanium-server-chip.htm">新的Itanium服务器芯片</a>，Itanium 9300的运行频率只有1.73 GHz，使用65纳米工艺，有四个核心。
+➜无聊真的致死
+https://www.solidot.org/story?sid=16203	33480
+<a href="http://3seconds.cn/">3秒</a> 写道 "<a href="http://3seconds.cn/2010/02/09/bored-kill-people.html">无聊</a>真的可以杀死你！<i>首先，伦敦大学学院的研究人员在1985年到1988年间对7524名年龄在35岁到55岁之间的公务员进行了调查，记录下了他们当时感到无聊的程度。然后，研究人员在去年四月份调查当时的受采访者是否已经死亡。最后，他们发现那些当时感觉到重度无聊的人比一般人死亡的可能性大37%。科学家称这可能是由于不愉快的人通常伴随有不健康的生活习惯(如吸烟、酗酒等)所造成的，这削减了他们的寿命。"</i>
+➜从Google代码库找到的好东西
+https://www.solidot.org/story?sid=16204	41880
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "Google代码库是一个类似 SourceForge 的开源社区，大量开发者在那里上传自己的代码或素材同他人分享，Google代码库于 2006 年启动，至今已积累了大量的好东西，本文从 Google 代码库搜集到 15 个非常出色的工具与素材，它们都基于 GPL， BSD， MIT 或 Creative Common 协议，可以免费使用（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K901.aspx">完整图文版</a>）。           <a href="http://sixrevisions.com/resources/15-fantastic-finds-on-the-google-code-repository/"> </a>
+1. <a href="http://code.google.com/p/twotiny/">Twotiny</a>
+<a href="http://code.google.com/p/twotiny/"> </a>
+<br> <br>这是一套由Paul Jarvis设计的<a href="http://twothirty.com/">微图标</a>系列，这些图标拥有各种尺寸，提供分层 PSD 文件，非常适合做 Web 设计。<br> <br>
+2. <a href="http://code.google.com/p/minify/">Minify</a>
+<br> <br> <a href="http://code.google.com/p/minify/"> </a>
+多数 CMS 系统都包含内置的代码精简工具，用来过滤生成的页面代码中的空格，注释，以最大程度地加快页面加载速度。该工具可以对 PHP 文件进行精简，对 JavaScript 和 CSS 进行压缩。<br> <br>
+3. <a href="http://code.google.com/p/cleanstickyfooter/">Cleanstickyfooter</a>
+<a href="http://code.google.com/p/cleanstickyfooter/"> </a>
+<br> <br>该项目由 <a href="http://www.trevorsheridan.com/">Trevor Sheridan</a> 创建，旨在不借助 CSS Hack 或 CSS z-index 技术实现让 Web 页面的页脚部分自动附着在指定对象下方。<br> <br>
+4. <a href="http://code.google.com/p/sexybuttons/">Sexy Buttons</a>
+<a href="http://code.google.com/p/sexybuttons/"> </a>
+<br> <br>这个 ZIP 压缩包包含了 1500 个各种颜色，各种尺寸的图标，还提供相应的 CSS/HTML 框架来实现 Web 按钮，支持所有主流浏览器。<br> <br>
+5. <a href="http://code.google.com/p/php-email-address-validation/">php-email-address-validation</a>
+<br> <br>这是 <a href="http://www.addedbytes.com/">AddedBytes.com</a> 的 Dave Child 从 2004 年就开始的一个项目，实现高级 PHP email 地址验证。<br> <br>
+6. <a href="http://code.google.com/p/hartija/">Hartija – CSS Print  Framework</a>
+<a href="http://code.google.com/p/hartija/"> </a>
+<br> <br>作为 Web 设计师，我们经常忘记一件事，就是用于打印的 CSS 设计。Hartija 针对页面打印设计了一个干净，巧妙的模式。<br> <br>
+7. <a href="http://code.google.com/p/a-slideshow/">a-slideshow</a>
+<a href="http://code.google.com/p/a-slideshow/"> </a>
+<br> <br>这是为 jQuery 1.3 以上版本设计的幻灯插件，这里有个<a href="http://slideshow.hohli.com/docs/demo02.html">演示</a>。<br> <br>
+8. <a href="http://code.google.com/p/jquery-largephotobox/">LargePhotoBox</a>
+<a href="http://code.google.com/p/jquery-largephotobox/"> </a>
+<br> <br>这是一个 jQuery 插件，用一种很巧妙的方式显示大型图片，点击缩略图，大图很完美地适应浏览器窗口，用鼠标拖动，可以在大图的各个部分浏览。这里有个<a href="http://www.interag.net/largephotobox/">演示</a>。<br> <br>
+9. <a href="http://code.google.com/p/php-akismet-contact/">php-akismet-contact</a>
+<br> <br>这个工具使用 WordPress 的 Akismet 反垃圾回复功能，实现 PHP 表单的反垃圾功能。<br> <br>
+10. <a href="http://code.google.com/p/lovely-css/">lovely-css</a>
+<a href="http://code.google.com/p/lovely-css/"> </a>
+<br> <br>这个由 <a href="http://www.ohmylovely.com/">Constantinos  Demetriadis</a> 创建的项目是一个 CSS 框架，基于 960.gs，还拥有一个插件可以扩充该框架。1.0 版基于 MIT 协议，这里有个<a href="http://ohmylovely.com/css-framework/example.html">演示</a>。<br> <br>
+11. <a href="http://code.google.com/p/css3-mediaqueries-js/">css3-mediaqueries-js</a>
+<br> <br>该工具借助 JavaScript 在所有主流浏览器实现 CSS3 Media Queries 功能，包括 IE。CSS3 Media Queries 根据用户的视窗尺寸调整 CSS ，使你的设计可以被各种浏览器友好访问。<br> <br>
+12. <a href="http://code.google.com/p/wp-constructor/">wp-constructor:  WordPress Constructor Theme</a>
+<a href="http://code.google.com/p/wp-constructor/"> </a>
+<br> <br>这个 WordPress 主题由 <a href="http://anton.shevchuk.name/">Anton Shevchuk</a> 设计，是一个用于 WordPress 2.7+ 的通用主题。使用这个主题，用户可以快速实现个性化博客设计，该项目每天的下载频率超过 1000 次。<br> <br>
+13. <a href="http://code.google.com/p/mysql-db-php-class/wiki/Documentation">mysql-db-php-class</a>
+<br> <br>这是一个 PHP 类，实现 PHP 同 MySQL 的沟通，非常灵活。<br> <br>
+14. <a href="http://code.google.com/p/jquery-twit/">jquery-twit</a>
+<a href="http://code.google.com/p/jquery-twit/"> </a>
+<br> <br>这个 jQuery 插件可以实现在个人的博客中，显示 Twitter 用户资料。这里有个<a href="http://www.mudaimemo.com/p/twit/">演示</a>。<br> <br>
+15. <a href="http://code.google.com/p/peertracker/">peertracker</a>
+<br> <br>如果你想创建第二个海盗港湾，这个2010年1月20日刚刚发布的项目可以帮你实现。
+<br> <br>本文来源：<a href="http://sixrevisions.com/resources/15-fantastic-finds-on-the-google-code-repository/">http://sixrevisions.com/resources/15-fantastic-finds-on-the-google-code-repository/</a> <br>中文编译：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b>网站内容管理系统</a>官方站"
+➜3D HDMI规范免费下载
+https://www.solidot.org/story?sid=16205	44400
+负责HDMI(高清多媒体接口)规范许可的机构HDMI Licensing<a href="http://www.hdmi.org/press/press_release.aspx?prid=119">宣布</a>让HDMI 1.4规范的3D部分<a href="http://hardware.slashdot.org/story/10/02/08/0231234/3D-HDMI-Specification-Is-Set-Free">免费公开下载</a>。HDMI Licensing认为3D是一个新兴的市场，但发展极为迅速。它希望通过免费下载，能推动行业对3D HDMI技术的采用。不过，只有3D部分免费对未获得HDMI规范许可的厂商来说是没有任何价值的。
+➜黑客入侵Google的理论推演
+https://www.solidot.org/story?sid=16206	45360
+《大西洋月刊》网站上的一篇文章从理论上介绍了<a href="http://politics.theatlantic.com/2010/02/how_the_hackers_took_google_a_theory.php">黑客如何入侵Google及其它美国公司</a>。
+Fred Chang是得州大学计算机学科教授、前NSA研究主管，他的理论是：<i>
+在攻击前黑客需要做大量的情报收集工作，第一步是收集数据；第二步识别网络中的系统管理员，利用社交网站如Facebook上的公开数据锁定系统管理员；第三步是伪装成朋友向目标发送带有恶意链接的电子邮件，利用旧版IE上的漏洞入侵计算机系统；当不知情的系统管理员点击链接后，恶意程序在主机和黑客控制的计算机之间建立SSL加密通道。</i>Google正与NSA合作找出黑客是如何入侵系统。
+➜Nexus One是第一款Linus Torvalds“不讨厌”的手机
+https://www.solidot.org/story?sid=16207	46200
+Linux kernel创始人Linus Torvald表示<a href="http://tech.slashdot.org/story/10/02/08/1551220/Nexus-One-First-Phone-Linus-Torvalds-Doesnt-Hate">他喜欢Google手机Nexus One</a>。<i>
+Torvalds在<a href="http://torvalds-family.blogspot.com/2010/02/happy-camper.html">博客</a>上<a href="http://www.zdnet.com.tw/news/comm/0,2000085675,20144202,00.htm">说</a>，“我很讨厌电话，它们在你工作或是阅读或是其他随便什么时候干扰打扰你，而手机对我来说则是一个可以在任何地点被打扰的机会，但是我得承认，Nexus One是个赢家。”“无论如何我想要在车上有一台GPS装置，而 Google的导航可能终于让一台手机有了用处。而它真的是如此，这真的很不一样。我再也不需要在身上拖着一支手机只为了以防我需要和某人联络，现在我有一款有用（而且真的还蛮好看）的玩意。而你可以拿它来讲电话这件事情仅是其次。”Torvalds说。</i>
+➜GIMP 2.8将引入全新的UI
+https://www.solidot.org/story?sid=16208	47400
+Ars Technica<a href="http://arstechnica.com/open-source/reviews/2010/02/hands-on-new-single-window-mode-makes-gimp-less-gimpy.ars">报道</a>，即将发布的GNU图形处理软件GIMP 2.8将引入新的用户界面，并提供了单窗口模式选择。<i>
+Ars Technica是通过编译开发者版本<a href="http://www.gimp.org/release-notes/gimp-2.7.html">GIMP 2.7.1</a>去预览新版将带来的不同体验。可用性一直是GIMP备受人诟病的缺陷，它独具的多窗口界面让新手感到无处下手。为了改进用户体验，开发者们重新设计了新的用户界面，其中最主要的是让用户可以选择单窗口界面，消除众多分散注意力的漂浮窗口。开发者仍然保留了多窗口界面，但也对其进行了大刀阔斧的改进。GIMP 2.8预计将在2010年12月发布，它将是首个提供单窗口的版本。</i>
+➜航天飞机间谍被判入狱15年
+https://www.solidot.org/story?sid=16209	55500
+《华尔街日报》<a href="http://cn.wsj.com/gb/20100209/bus111400.asp">报道</a>，一名中国出生的工程师周一在美国被判处15年零八个月监禁，罪名是<a href="http://news.slashdot.org/story/10/02/09/1435230/Space-Shuttle-Spy-Gets-15-Years">私藏有关美国航天飞机的敏感信息</a>。检察官说，他的目的是与中国分享情报。
+<i>
+74岁的钟东蕃(Dongfan 'Greg' Chung）是波音公司前工程师，他将300,000页的敏感信息私藏在家中，其中包括有关一个助推火箭燃料系统的敏感信息。联邦法官称钟东蕃与中国政府的合作关系长达30年，积累了超过300万美元的个人财富。审判文件称，当联邦调查人员2006年搜查钟东蕃家时，他们发现了225,000多页有关波音公司所开发的航天和国防技术的文件。这些技术用于一种相控阵天线以及一种1,600万美元的燃料装置，该天线是为美国航天飞机上的雷达和通讯设备开发的，而这一燃料装置则用于发射载人航天器的Delta IV型助推火箭。联邦调查人员还发现了有关C-17军用运输机的文件。</i>

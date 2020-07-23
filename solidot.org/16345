@@ -1,0 +1,32 @@
+➜Xen漏洞曝光
+https://www.solidot.org/story?sid=41326	536
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "<i>Xen是大规模部署的虚拟化方案之一，这一轮的<a target="_blank" href="http://xenbits.xen.org/xsa/">*EMBARGO*一共曝光了5个漏洞</a>，其中最后一个已经于北京时间2014年10月1日晚上披露，这个编号CVE2014-7188的<a target="_blank" href="http://xenbits.xen.org/xsa/advisory-108.html">漏洞</a>是由SUSE Linux的工程师Jan Beulich发现的，Xen和KVM的实现略有不同，在x86架构上，其hypervisor是运行于RING-0的，而传统的linux内核host运行于RING-1，通常的系统调用是直接CALL到RING-1，只有hypercall才是CALL到RING-0，引发这个漏洞的代码在于对于高级电源管理的hypercall中的实现本来只能访问到256个MSR(Model-specific Register)，而事实上是可以读写访问1024个MSR的，对于写并不会出现什么问题，而读的话则造成了安全隐患，攻击者利用的方式包括：1，读到超过一个页表的地址然后引用造成物理机crash； 2，读取同一台物理机上其他guest的信息从而造成信息泄漏。目前Xen社区已经修复，从<a target="_blank" href="http://xenbits.xen.org/xsa/xsa108.patch">补丁</a>看，只是简单的调整了读写范围。这个漏洞只影响了x86平台的实现，ARM平台未受影响。
+<p>
+</p>
+</i>通常XEN的利用难度都很高，有兴趣的读者可以去看看曾经著名的<a target="_blank" href="http://www.vupen.com/blog/20120904.Advanced_Exploitation_of_Xen_Sysret_VM_Escape_CVE-2012-0217.php">虚机逃逸漏洞CVE-2012-0217的分析</a>，目前虚机逃逸的成本Xen &gt; KVM &gt; docker。
+"
+➜中国谴责Facebook和Youtube删帖不力
+https://www.solidot.org/story?sid=41327	3373
+中国互联网举报中心官网在一篇<a target="_blank" href="http://www.net.china.com.cn/jbqk/txt/2014-09/30/content_7275384.htm"><u>新闻稿</u></a>中谴责Facebook和Youtube删帖不力，“网民举报，脸谱（Facebook）、优兔（Youtube）等境外网站传播暴恐有害信息，发布恐怖组织‘东伊运’宣扬‘圣战’的暴恐视频。经举报中心转交后，两家网站对有害信息的处置反应滞后、删除率很低。举报中心对脸谱（Facebook）、优兔（Youtube）等网站消极对待网民举报暴恐信息予以谴责。”Facebook和Youtube都是从2009年开始封锁至今，新闻稿没有提举报的网民是通过什么方法访问到Facebook和Youtube。
+➜安全公司发现针对iOS越狱用户的国产木马
+https://www.solidot.org/story?sid=41328	11747
+<div align="center"><img src="http://img.solidot.com.cn/0/663/lig7VIIt3Vs.png" align="" height="266" width="480"><br>
+<br>
+</div>
+Lacoon移动安全公司的研究人员<a target="_blank" href="https://www.lacoon.com/lacoon-discovers-xsser-mrat-first-advanced-ios-trojan/"><u>报告了</u></a>一个感染iOS越狱手机的中国间谍程序Xsser mRAT，它的主要攻击目标是香港的抗议者。Xsser与此前发现的Android间谍程序共享了相同的指令控制服务器域名。之前发现的Android间谍程序伪装成协调占中示威者的应用，通过Whatsapp传播。研究人员认为，针对 iOS 和Android设备的跨平台攻击与中国政府有关联。Xsser mRAT是至今发现的第一个也是最先进的中国产 iOS木马。感染Xsser需要设备越狱和安装 Cydia。在中国，iOS设备的越狱相当流行，iOS 7的越狱方式是中国黑客组织haX0r发现的。在感染了Xsser后，恶意程序会窃取短信、电子邮件、照片、即时通讯、位置数据、用户名和密码，呼叫日志和联系人信息。Xsser mRAT在设备启动后会立即运行，能动态更新。
+➜Shellshock后续漏洞
+https://www.solidot.org/story?sid=41329	25237
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "CVE-2014-6277和CVE-2014-6278终于曝光，POC：bash -c "f() { x() { _; }; x() { _; } &lt;&lt;a; }"，漏洞的发现者Michal Zalewski给出了<a target="_blank" href="http://lcamtuf.blogspot.de/2014/10/bash-bug-how-we-finally-cracked.html">详细的分析</a>，BASH社区补丁还在紧急的修复中，因为涉及backporting中的一些比较蛋疼的问题，预计UPSTREAM得到这个礼拜末才能完成修复工作，也就是说GNU/Linux发行版最早应该会在本周末或者下个礼拜才能修复，在这一段时期特别对于生产环境的服务器是比较危险的，有2个方法来降低风险：1，ASLR/PIE/NX/CANARY/RELRO加固Bash重新部署；2，保证你的机器至少使用了<a target="_blank" href="http://ftp.gnu.org/gnu/bash/bash-4.3-patches/bash43-028">Florian Weimer的补丁</a>。"</i>
+➜Microsoft账户疑似遇到SSL中间人攻击
+https://www.solidot.org/story?sid=41330	26332
+匿名用户 写道 "2014-10-2下午14点左右，发现无法登入microsoft账户。后在访问login.live.com发现证书错误，证书使用者和颁发者为：<i>
+<p>CN = hotmai.com
+O = hotmail.com
+C = cn </p>
+<p>有效期从‎2014‎年‎9‎月‎23‎日 19:34:03到‎2015年‎9‎月‎23‎日 19:34:03</p>
+<p>公钥为30 81 89 02 81 81 00 9d 00 fb f7 e7 36 6c 25 78 c7 f1 4d 10 52 e6 26 24 c2 ae 23 74 ec dd 5c c7 56 c4 98 d8 08 94 8b 8b 37 72 07 69 5f 47 55 05 2b 44 3a db 7d 07 90 86 2a 51 5c da 50 2e 21 b1 2f 67 be 29 f7 8d 00 77 ed 6e 54 11 25 c0 7b 1b 4d 08 88 29 49 0f 4d 05 a7 f8 b7 9a b9 b9 dd c0 91 b4 75 d6 b7 5b e7 9f 5e ff 03 0b cc 6b 32 0f 80 8c 2f 71 e5 27 08 1c 7f 86 47 02 da ca 21 56 db 05 17 06 b7 ce 89 02 03 01 00 01</p>
+<p>Netscape Comment为example comment extension</p>
+</i>之后没几分钟又恢复。"
+➜统计学家用数学模型预测《权力游戏》的未来
+https://www.solidot.org/story?sid=41331	48523
+预测未来的一种方式是研究过去事件的数据，建立能产生相同数据模式的数学模型，然后用它预测未来。这说起来容易做起来难。统计模型有许多需要拟合数据的参数，统计学家需要重复拟合过程许多次，才能建立预测的概率分布，发现某些事件发生的可能概率。新西兰 Canterbury大学的Richard Vale利用这一方法建立数学模型，<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/statistician-creates-mathematical-model-to-predict-the-future-of-game-of-thrones-63944d4225c0"><u>预测尚未出版的两卷《冰与火之歌》</u></a>。奇幻小说《冰与火之歌》系列已经出版了五卷，作者乔治RR马丁计划写七卷，至少还有两卷没有发表。小说采用了POV视角叙述故事，至今为止，有24名角色担当了POV人物。Vale根据角色的章节分布预测他们在未来两卷的分布。比如琼恩·雪诺（Jon Snow）的POV在第一卷有9章，第二卷8章，第三卷12章，第四卷没有，第五卷13章；塔斯的布蕾妮（Brienne of Tarth）只在第四卷有8章POV，其余四卷都没有。他运行了计算机程序寻找拟合数据的参数，建立数学模型预测未来角色在第六卷和第七卷的POV分布。他的模型预测某些角色不会再有任何POV，预测某个特定角色是死还是活着。

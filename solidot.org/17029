@@ -1,0 +1,64 @@
+➜PGP 短 ID 碰撞攻击持续蔓延，Linus Torvalds 已中招
+https://www.solidot.org/story?sid=49328	5259
+<a href="http://https://biergaizi.info/">biergaizi</a> 写道 "六月份起，<a target="_blank" href="http://www.solidot.org/story?sid=48493">互联网上出现了真正的 PGP 短 ID 碰撞攻击</a>：这些短 ID 碰撞的假 PGP 密钥的姓名、邮箱和真密钥完全一样，而且还完全的复制了真实密钥的信任签名，形成了和真实密钥相对称的，假密钥构成的完整假信任网络。这些密钥可以用来进行中间人攻击。而最近几天，攻击则继续持续扩大，网络上已经出现的<a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0x00411886&amp;op=index">假冒的 Linus Torvalds 密钥</a>：
+<i>
+<p>假冒: 0F6A 1465 32D8 69AE E438&nbsp; F74B 6211 AA3B [0041 1886]</p>
+<p>真实: ABAF 11C6 5A29 70B1 30AB&nbsp; E3C4 79BE 3E43 [0041 1886]</p>
+<p>
+</p>
+<p>
+</p>
+<p>和<a target="_blank" href="https://pgp.mit.edu/pks/lookup?search=0x6092693E&amp;op=index">假冒的 Greg Kroah-Hartman 密钥</a>：</p>
+<p>假冒：497C 48CE 16B9 26E9 3F49&nbsp; 6301 2736 5DEA [6092 693E]
+</p>
+<p>真实：647F 2865 4894 E3BD 4571&nbsp; 99BE 38DB BDC8 [6092 693E]
+</p>
+</i>开发者 <a target="_blank" href="http://gwolf.org/node/4070">
+Gunnar Wolf 呼吁</a>，仅仅把短 ID 改成长 ID 并不解决根本问题，因为把完整密钥指纹切割出一部分来当 ID 本身就是一个糟糕的主意。我们要么展示完整的密钥指纹，要么就什么都不展示让软件自动完成，展示不完整的密钥 ID 没有意义。用户和开发者应该尽快使用完整的指纹来表示密钥，杜绝问题。
+"
+➜中国成功发射量子实验卫星
+https://www.solidot.org/story?sid=49329	9774
+中国于今天凌晨1时40分（UTC时间15日17:40 ）在酒泉卫星发射中心使用长征二号丁火箭<a target="_blank" href="https://www.nasaspaceflight.com/2016/08/long-march-2d-quantum-communications-satellite/"><u>成功发射了</u></a>第一颗量子实验卫星“墨子号”。量子实验卫星将测试量子纠缠现象，重500公斤，包括了一个量子密钥通讯器，量子纠缠发射器，纠缠源，处理单元和一个激光通讯器。卫星将在中国和奥地利两个地面站之间中继传输量子密钥。卫星将进行卫星地面之间的高速量子密钥分发实验，卫星地面之间的广域量子密钥网络实验，进行安全量子通信实验，测试卫星到两个地面站之间的量子纠缠分发和量子隐形传态实验等。
+➜北京法院维持对质疑狼牙山五壮士的历史学者的判决
+https://www.solidot.org/story?sid=49330	12733
+历史学者洪振快在2013年分别在财经和《炎黄春秋》发表了两篇文章《<a target="_blank" href="http://comments.caijing.com.cn/2013-09-09/113275007.html"><u>小学课本&lt;狼牙山五壮士&gt;有多处不实</u></a>》和《<a target="_blank" href="http://www.yhcqw.com/html/qsp/2013/118/13118161626B7H749310H7F149GKB1K6HFJ.html"><u>“狼牙山五壮士”的细节分歧</u></a>》，对狼牙山五壮士的官方版本提出了质疑。狼牙山五壮士的后人葛长生、宋福保对洪振快提起了诉讼，北京西城区法院今年6月宣布了<a target="_blank" href="http://www.solidot.org/story?sid=48736"><u>一审结果</u></a>，判决洪振快损害了英雄的名誉，要求他公开道歉。洪振快不服判决提起了上诉。本周一，北京第二中级法院<a target="_blank" href="http://cn.nytimes.com/china/20160816/china-hong-zhenkuai-langya/"><u>作出终审裁决</u></a>，驳回上诉，维持原判。洪振快接受采访时表示拒绝道歉，称将坚持学术自由，称审判是“政治性的”。洪振快的律师周泽称裁决制造了一个“恶性先例”，让意识形态的考虑压倒了法律和正义。“裁决维持的是一种特定的意识形态，”周泽说，“人民不能自己决定该相信什么，他们不能自由思考。”
+➜Google将在9月12日关闭 Google+ Hangouts On Air
+https://www.solidot.org/story?sid=49331	13205
+Google通过它的帮助网站悄悄<a target="_blank" href="https://support.google.com/youtube/answer/7083786"><u>宣布</u></a>将在9月12日<a target="_blank" href="http://venturebeat.com/2016/08/15/google-is-discontinuing-google-hangouts-on-air-on-september-12-pushes-users-to-youtube-live/"><u>关闭 </u></a>Google+ Hangouts On Air，使用这项功能的用户被要求转移到YouTube Live。Hangouts On Air是Hangouts 视频群聊服务的一项流媒体直播功能，Google最早是在2011年9月推出该功能，但当时只提供了部分挑选出来的用户，直到2012年5月Google才将这项功能提供给所有用户，现在Google要收回这项功能，将其与YouTube Live直播功能合并。
+➜对冲基金使用卫星照片进行数据分析
+https://www.solidot.org/story?sid=49332	16452
+为了挖掘交易数量，对冲基金不想再依赖于滞后的交易数据和不可靠的经济数据，而是想要利用微型卫星群<a target="_blank" href="http://cn.wsj.com/gb/20160816/fin073918.asp"><u>提供的近乎实时的观察</u></a>。卫星公司Planet Labs 开始向Orbital Insight 提供如零售商停车场、储油罐或农田等经济敏感地点的高频率更新卫星图，而Orbital的客户主要是大型对冲基金及其他投资公司。Orbital和Planet Labs的公司领导人表达了雄心壮志，希望揭示官方数据被认为不甚可靠的经济体（如中国）的状况。一项正在进行的工作是衡量中国内地钢产量，办法是跟踪从铁矿石开采场地到炼钢厂再到钢铁运输港口的整个供应链。根据新建筑物高度变化和施工车辆数量变化反映的建设速度，Orbital已编制出一项中国经济指数。
+➜棱镜计划的第一个确认监视目标是一位民主活动人士
+https://www.solidot.org/story?sid=49333	25865
+如果你是一位专制国家的亲民主活动人士，当西方想要和这个国家建立贸易关系，你将成为政治交易的一部分，成为他们眼中潜在的“恐怖分子”。<a href="https://www.tvnz.co.nz/one-news/new-zealand/special-investigation-inside-one-siss-biggest-anti-terrorism-operations">Television New Zealand</a> 和 The Intercept 根据前 NSA 合同工 Edward Snowde 泄漏的机密文件报道了NSA棱镜计划（Prism）的<a target="_blank" href="https://theintercept.com/2016/08/14/nsa-gcsb-prism-surveillance-fullman-fiji/"><u>第一位确认监视目标</u></a>。<i>
+Tony Fullman 是一位亲民主活动人士，1965年出生于斐济，21岁移民新西兰，在新西兰生活了数十年，已是新西兰公民。他长期在政府税务部门工作，2009年返回斐济的经历改变了他的生活，他回到澳大利亚和新西兰后成为了一位斐济的民主倡导者，是2006年通过政变夺取权力的军事统治者 Frank Bainimarama 的批评者。2012年的NSA拦截通信日志显示，该机构使用棱镜监视系统监听Fullman 和其他斐济亲民主人士的 Gmail 和 Facebook消息。他们被怀疑参与了恐怖主义阴谋。Fullman是至今第一位确认的棱镜目标。在NSA监视Fullman等人的时候，新西兰的间谍机构 GCSB 被禁止监视本国居民。尽管如此，GCSB与NSA合作监听了 Fullman 的通信。2012年7月17日，在Fullman从新西兰回到澳大利亚的亲戚家一周之后，澳大利亚安全机构和警察突袭他在悉尼的家寻找武器和其它恐怖阴谋的证据，他们扣押了计算机、手机和文件，代表新西兰政府扣押了他的护照，新西兰随后宣布撤销他的护照。4天之后，新西兰外交部长访问斐济展开贸易谈判，Fullman相信这一时机并不是巧合，对斐济亲民主人士的突袭行动可作为谈判筹码讨好 Bainimarama 政权。Fullman等人没有受到任何指控，但从此一直受到骚扰，每次搭乘飞机都会受到额外对待。他对新西兰政府非常失望，打算留在澳大利亚不再返回新西兰。</i>
+➜Windows 10 无缘中国政府采购
+https://www.solidot.org/story?sid=49334	28112
+官媒《21世纪经济报道》援引中国工程院院士倪光南的话称，“2015年，中国智能终端操作系统产业联盟委托一些权威测评机构就Win8和Win10的相似度进行了测评，证明Win8与Win10内核基本一致，政府采购部门将Win10与Win8同等对待，<a target="_blank" href="http://epaper.21jingji.com/html/2016-08/16/content_45157.htm"><u>不列入政府采购目录</u></a>，也没有另行发布通知。”已经造势接近一年的“中国政府定制版Win 10”，或将就此夭折。报道称：<i>倪光南8月15日在一个操作系统座谈会上发表署名文章《中国发展关键核心技术的指导方针——解读习主席2013年12月20日的批示》，首次对外公布了习近平2013年12月20日《在中国工程院一份建议上的批示》（1220批示）。倪光南介绍：“1220批示此前是机密文件，目前已经解密。”1220批示指出：“计算机操作系统等信息化核心技术和信息基础设施的重要性显而易见，我们在一些关键技术和设备上受制于人的问题必须及早解决。要着眼国家安全和长远发展，抓紧谋划制定核心技术设备发展战略并明确时间表，大力发扬‘两弹一星’和载人航天精神，加大自主创新力度，经过科学评估后选准突破点，在政策、资源等各方面予以大力扶持，集中优势力量协同攻关实现突破，从而以点带面，整体推进，为确保信息安全和国家安全提供有力保障。”以操作系统为主题的座谈会，不可避免会在部分主题中涉及到占据中国97%市场的Windows操作系统。“这些年来，中国人为Windows花费的钱以千亿元计。但这么大的市场、这么多的钱并没有换来或买到什么Windows的核心技术”，倪光南引用习近平的话说道：“市场换不来核心技术，有钱也买不来核心技术，必须靠自己研发、自己发展。”</i>
+➜中国心血管疾病发病率攀升
+https://www.solidot.org/story?sid=49335	28972
+发表在《美国心脏病学会杂志》上的一篇<a target="_blank" href="https://content.onlinejacc.org/article.aspx?articleID=2544535"><u>论文</u></a>分析了中国九个省份的2.6万人在1991年到2011年的数据，结果显示心血管疾病发病率<a target="_blank" href="http://cn.nytimes.com/china/20160816/china-health-cardiovascular-disease/"><u>持续攀升</u></a>。过去三十年里，中国经济快速增长，由此带来的生活方式上的变化是心肌梗死和脑卒中等心血管疾病发病率急剧上升的原因之一。在经济开放的1979年，中国只有约8%的成年人患有高血压。到2010年，这一比例上升至34%。研究人员发现，中国对红肉和汽水等西方食品的欣然接纳导致问题加剧。快餐店在中国很多省份大受欢迎，肥胖症的问题也日益严重，特别是在农村孩子当中。研究人员还发现，在2011年，35岁以上的死者中，44%死于心血管疾病。<br>
+➜黑客公开拍卖NSA开发的网络武器
+https://www.solidot.org/story?sid=49336	32652
+<div align="center"><img src="http://img.solidot.org/0/806/liwEBqnWdAP0c.png" height="300" align="" width="450"><br>
+</div>
+<br>
+黑客组织 <a target="_blank" href="https://theshadowbrokers.tumblr.com/"><u>Shadow Brokers（已经删除）</u></a> 声称<a target="_blank" href="http://motherboard.vice.com/read/hackers-hack-nsa-linked-equation-group"><u>攻破了</u></a>为NSA开发网络武器的美国黑客团队Equation Group，并公开拍卖据称为美国政府使用的黑客工具。为了证明自己的说法，Shadow Brokers贴出似乎为针对路由器安全软件的攻击代码。该组织表示，如果得到100万比特币（现价约合5.68亿美元），将公开这些工具（它的<a target="_blank" href="https://blockchain.info/address/19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK"><u>比特币地址</u></a>目前只有0.12 BTC）。网络安全专家怀疑该组织是否获得了其所宣称的黑客工具，不过几位专家称，该组织所公布的代码看起来像是真的。该事件对五家路由器制造商造成影响，即三家美国公司──思科、瞻博网络(Juniper)、Fortinet和两家中国公司── 西网云信息技术有限公司、北京天融信网络安全技术有限公司。<a target="_blank" href="http://cn.wsj.com/gb/20160816/tec150540.asp"><u>思科发言人称</u></a>，该公司正在调查该事件，但迄今为止尚未发现任何新漏洞。
+➜Windows 7和 8.1切换到累积更新模式
+https://www.solidot.org/story?sid=49337	34049
+微软正将Windows 7和 8.1<a target="_blank" href="http://arstechnica.com/business/2016/08/windows-7-8-1-moving-to-windows-10s-cumulative-update-model/"><u>切换到</u></a>类似Windows 10 使用的累积更新模式，即用户的操作系统如果长时间没有更新或重新安装时将不再需要个别的下载一个个补丁（数量可能多达数百），而可以下载一个包含所有补丁的累积更新包。旧的方法对用户十分不便，在安装个别补丁时可能还需要频繁重启。Windows 10采用累积更新模式，一个月可以只下载一到两个包含所有已发布补丁的累积更新包。根据微软的计划，从2016年10月开始Windows 7和 8.1将逐渐切换到累积更新模式。
+➜内部错误导致澳洲统计局网站下线
+https://www.solidot.org/story?sid=49338	38533
+上周，进行五年一次人口普查的澳大利亚统计局（ABS）网站<a target="_blank" href="http://www.solidot.org/story?sid=49277"><u>因DDoS攻击下线</u></a>。总理 Malcolm Turnbull 表示要严惩责任人，但统计局内部人士则抱怨说，责任人恐怕就是总理本人，他的政府大幅削减了统计局的预算，并导致该局在长达一年时间里没有负责人。根据<a target="_blank" href="http://www.cso.com.au/article/605085/census-fail-recipe-poor-planning-poor-risk-management-irresponsibility/"><u>匿名消息来源</u></a>， DDoS攻击的规模并不大，导致澳洲统计局网站下线的原因是<a target="_blank" href="https://yro.slashdot.org/story/16/08/15/0244238/internal-set-of-blunders-crashed-australias-census-site"><u>一系列内部错误</u></a>：上游供应商NextGen Networks向 IBM 和 ABS提供 DDoS防护服务，但<a target="_blank" href="http://risky.biz/censusfail"><u>他们说不需要</u></a>；他们的计划是在攻击发生时让 NextGen Networks屏蔽澳大利亚境外流量；当小规模攻击发生后，该计划激活了，不幸的是随后的攻击是从澳大利亚境内发起的，利用了DNS反射攻击；攻击淹没了防火墙状态表，他们使用了两个防火墙，于是选择重启主防火墙，但第二个防火墙忘记同步规则集，于是网站崩溃了。IBM的安全警告系统不久之后开始标记一些不同寻常的活动，网站的运营者将其解释为成功的入侵，以为DDoS是某种掩护，于是在紧张下直接让网站下线。ABS的网站并没有使用IBM SoftLayer云平台，因为它还没有获得<a target="_blank" href="http://www.asd.gov.au/infosec/irap.htm"><u> IRAP 证书</u></a>。
+➜俄罗斯航天局考虑减少空间站驻扎人数
+https://www.solidot.org/story?sid=49339	39514
+为了减少开支，俄罗斯航天局正在考虑减少空间站驻扎人数，<a target="_blank" href="http://arstechnica.com/science/2016/08/space-station-crew-may-drop-to-five-because-of-russia/"><u>从3人减少到2人</u></a>。减少国际空间站上的俄罗斯宇航员数量将能减少补给飞船的飞行次数。俄罗斯同时计划减少国际空间站的维护费用：俄罗斯计划在2016年到2025年之间将空间站维护费用减少到41亿美元，只比NASA每年的空间站运营和运输费用多一点，NASA在2016年的空间站预算是37亿美元。NASA在国际空间站的美国部分上有3名宇航员，2名来自NASA，还有1人来自ESA或加拿大、日本。如果NASA保持人数不变，那么空间站上的人数将减少到5人。
+➜Indus OS 超过iOS成为印度第二大移动操作系统
+https://www.solidot.org/story?sid=49340	42243
+在Google Android统治的印度智能手机市场，名叫 Indus OS的操作系统在短短三年内超过 iOS <a target="_blank" href="http://scroll.in/article/811848/an-indian-operating-system-youve-never-heard-of-has-taken-the-shine-off-apple"><u>成为印度第二大移动平台</u></a>。 Indus OS占据了5.1%的智能手机市场份额，iOS占3%，Windows 在 1%-2%之间。 Indus统治的是一个大的竞争对手失败或未充分认识到的市场：不会说英语、负担不起过高价格的农村用户。 Indus OS是基于Android，兼容于Android应用，支持印度的当地语言，它捆绑的应用商店App Bazaar包含了3万个应用，大部分都支持两种以上的当地语言。
+➜物理学家可能发现了第五种基本力
+https://www.solidot.org/story?sid=49341	44346
+加州 Irvine的理论物理学家在《Physical Review Letters》上发表<a target="_blank" href="http://arxiv.org/abs/1608.03591"><u>论文</u></a>（预印本），检查了匈牙利科学院的一个实验室去年在放射性衰变中发现的一个异常， 该异常暗示了一种质量30倍于电子的轻粒子的存在。这种未知亚原子粒子可能是<a target="_blank" href="http://www.solidot.org/story?sid=48368"><u>自然界第五种基本力</u></a>的证据。 Irvine的研究小组认为证据强有力的否定这种未知亚原子粒子是物质粒子和暗光子，他们提出了一种新理论。组合现有的所有数据，这项新发现可能指示了第五种基本力。Irvine的物理学家将新的粒子取名为X玻色子，X代表未知，称它的特征与已知玻色子不同。论文合作者、物理学家Jonathan Feng<a target="_blank" href="http://phys.org/news/2016-08-physicists-discovery-nature.html"><u>表示</u></a>，需要进一步的实验去检验，如果得到验证，将具有革命意义。
+➜大脑主动摄取糖
+https://www.solidot.org/story?sid=49342	46066
+慕尼黑工业大学的研究人员发现，我们的大脑<a target="_blank" href="http://www.psypost.org/2016/08/sugar-addiction-discovery-of-a-brain-sugar-switch-44348"><u>会主动从血液中摄取糖</u></a>。在这之前，研究人员普遍认为糖的摄取是一种纯粹被动的过程。<a target="_blank" href="http://www.cell.com/cell/abstract/S0092-8674(16)30974-6"><u>论文</u></a>发表在《细胞》期刊上，研究人员报告对荷尔蒙如胰岛素和瘦素做出反应的神经胶质细胞监管了糖到大脑的输入。肥胖的快速上升和2型糖尿病的流行是当今社会面临的巨大挑战，目前没有有效且安全的治疗方法去防止或阻止糖尿病的发展，原因可能是控制全身新陈代谢的分子机制尚未搞清楚。

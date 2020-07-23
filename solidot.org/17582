@@ -1,0 +1,15 @@
+➜飞行模拟模组开发商将窃取密码的恶意程序作为 DRM 使用
+https://www.solidot.org/story?sid=55573	30289
+为飞行模拟游戏 Flight Simulator X 开发模组的开发商 Flight Sim Labs <a href="https://forums.flightsimlabs.com/index.php?/announcement/11-a320-x-drm-what-happened/" target="_blank"><u>承认</u></a>在安装文件中捆绑了一个从 Chrome 浏览器中窃取密码的恶意程序，<a href="https://www.rockpapershotgun.com/2018/02/19/flight-sim-group-put-malware-in-a-jet-and-called-it-drm/" target="_blank"><u>声称</u></a>该恶意程序是 DRM 的一部分。在安装文件中，该恶意程序取名为 test.exe，模组在安装过程中会验证序列号，查询是否是正版，如果它认为是盗版，将会调用 test.exe 窃取 Chrome 保存的密码，然后用 base6 编码通过 HTTP 上传到其服务器上（http://installlog.flightsimlabs.com/LogHandler3.ashx）。该公司开发的 A320-X 模组售价将近 100 美元。在用户投诉之后，该公司已经从最新安装文件里移除了 test.exe，但如果你从 BT 下载（如 FSLabs_A320X_P3D_v2.0.1.215.exe）的话，该恶意程序仍然包含在内。
+➜苹果更新操作系统修复导致应用崩溃的 bug
+https://www.solidot.org/story?sid=55574	35481
+过去几天，苹果的系统曝出了一个 bug，印度 Telugu 语的字符能让应用和系统崩溃。受影响的应用包括了苹果的 iMessage，第三方应用如 WhatsApp、Facebook Messenger、Gmail 和 Outlook，以及浏览器如 Safari 或 Chrome 。苹果用户还发现，如果 Telugu 语字符出现在通知中，那么整个系统将会崩溃。苹果在收到报告之后已经快速<a href="https://www.macrumors.com/2018/02/19/apple-releases-macos-10-13-3-supplemental-update/" target="_blank"><u>释出了更新</u></a>，修改了导致崩溃的 bug。
+➜越南政府加强互联网审查
+https://www.solidot.org/story?sid=55575	51346
+越南政府正以对抗网络安全威胁和有害内容的名义<a href="https://www.washingtonpost.com/news/theworldpost/wp/2018/02/19/vietnam-internet/" target="_blank"><u>加强互联网审查</u></a>。执政的越南共产党反复督促 Google 和 Facebook 屏蔽和移除被指诽谤该国领导人的有害内容。越南政府去年发布了一个类似中国网络安全法的草案，征询公众意见，其中包括要求 Facebook 和 Google 在越南设立办事处和数据服务器。越南的网络安全法也引发了激烈的争议。该国网络基础设施的发展速度超过了政府能监管和控制它的能力，它现在能做的是限制访问部分网站，以及部署网军引导网络舆论。它也一直尝试建立自己能有效控制的社交平台，但在 Facebook 独大的情况下这些计划都是不现实的。Facebook 在越南有 5200 万活跃账号，而它的网民总数也就 5000 万左右。它没有类似中国的防火长城，批评者认为建立越南版防火长城只会让越南与文明世界隔离开来。
+➜Chrome 64 将为用户移除地址中的跟踪代码，Google 的跟踪除外
+https://www.solidot.org/story?sid=55576	52279
+当你尝试分享一个链接，你经常会发现链接地址中含有长长的跟踪字符串，因此你常常需要在分享链接地址时将某个问号后面的字符串手动删除。现在，Chrome 64 将为用户<a href="https://www.theverge.com/2018/2/19/17029162/google-chrome-64-link-trim-feature" target="_blank"><u>自动完成这一工作</u></a>。当你拷贝网址分享时浏览器会自动移除其中的跟踪代码。然而有人测试<a href="https://tech.slashdot.org/comments.pl?sid=11766280&amp;cid=56155048" target="_blank"><u>发现</u></a>，这一功能对 Google 自己平台的跟踪代码无效。Google 是最大的网络广告服务商之一，而跟踪对网络广告的定向服务至关重要。
+➜360 被指拷贝竞争对手的内容包括用户名和评论
+https://www.solidot.org/story?sid=55577	53124
+前不久因为隐私方面的争议，奇虎 360 <a href="https://www.solidot.org/story?sid=54923" target="_blank"><u>关闭了</u></a>它的视频服务水滴直播。现在，奇虎推出了新的视频服务叫快视频。然而快视频很快被发现搬运了竞争对手 B 站的内容，甚至包括 B 站的用户名和评论。B 站的部分用户还报告他们可以直接用 B 站的用户名密码登录快视频，因此许多用户担心 B 站可能被拖库了，包含用户密码的数据库可能泄露。哔哩哔哩官方微博帐号发表<a href="https://weibo.com/1748075785/G41qprOw0?refer_flag=1001030103_&amp;type=comment#_rnd1519137350688" target="_blank"><u>调查报告</u></a>，否认它的数据库泄露。报告称，能直接登陆快视频的用户大多数是因为使用了相同密码注册了 360 旗下产品如安全卫士和云盘，它目前没有发现账号有异地登录的情况。哔哩哔哩称，快视频还搬运了微博、快手等平台的视频和用户名。

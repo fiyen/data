@@ -1,0 +1,98 @@
+➜Last.fm将向国际用户收费
+https://www.solidot.org/story?sid=10488	60
+全球最大音乐网站<a href="http://last.fm/">Last.fm</a>宣布，英国、美国和德国之外的国际用户将需要每月支付3欧元（约28人民币）才能继续使用它的在线电台服务。<i>
+Last.fm没有透露太多收费的理由，<a href="http://blog.last.fm/2009/03/24/lastfm-radio-announcement">官方博客</a>称，用户可以免费试听30首歌曲，他们希望以此能让用户相信订阅和继续收听电台是值得的。但是到目前为止，所有国家的订阅用户和非订阅用户都对此表示了强烈的不满，博客上<a href="http://blog.last.fm/2009/03/24/lastfm-radio-announcement#comments">留下了</a>无数谴责的言论。看来广大国际用户需要学习使用Tor，通过美国、英国和德国的出口节点访问Last.fm。</i>
+➜Linux Mint 4.0将于今年4月18日停止支持
+https://www.solidot.org/story?sid=10489	1500
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "Linux Mint团队刚刚<a href="http://www.ownlinux.cn/2009/03/26/linux-mint-40-end-of-life/">宣布代号为 Daryna 的 Linux Mint 4.0 将于今年4月18日停止提技术支持</a>，这是在 <a href="http://www.ownlinux.cn/2009/03/24/ubuntu-710-reaches-end-of-life-on-april-18-2009/">Ubuntu官方宣布将于2009年4月18日停止对Ubuntu 7.10提技术支持</a>后不久做出的决定。因为Linux Mint 4.0 是基于 Ubuntu 7.10 的一个发行版。Linux Mint 官方建议 Linux Mint 4.0的用户把系统升级到 Linux Mint 5.0，因为它是LTS（长技术支持周期）版本，将提供较长技术周期同时也相对成熟和稳定， Linux Mint 5.0的支持将到 2011年。"
+➜云数据库 VS 传统数据库
+https://www.solidot.org/story?sid=10491	2520
+以前如果你要储存数据，答案很简单，“找一个传统的数据库，在数据库搞定你的数据的同时，给你的数据库制造商写支票。现在一切都变了，新的令人兴奋的工具把“DB”两个字丢到了云里，旧数据库管理员称它们为“玩具”，并提醒那些自以为是的年轻人里面存在可怕的风险。<i>
+InfoWorld的Peter Wayner<a href="http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&amp;A=/article/09/03/24/12TC-databases_1.html">仔细分析了目前最为流行的云数据库</a>——Amazon SimpleDB，Apache CouchDB，Google App Engine和Persevere——观察它们如何影响IT业的发展。</i>
+➜所有智能手机都在Pwn2Own竞赛中幸存
+https://www.solidot.org/story?sid=10492	6480
+Pwn2Own黑客竞赛中，安全研究人员Charlie Miller和德国黑客Nils<a href="__SLASHLINK__" sect="apple" sid="09/03/21/0540206" sn="article" tid="95">拿下</a>了Safari，IE和Firefox三大浏览器，但始终无人能攻破Chrome的防线，最终Chrome成为桌面浏览器中唯一没有<a href="http://www.h-online.com/security/Pwn2Own-2009-ends-Smartphones-Chrome-unbroken--/news/112907">被成功Exploit的</a>。但许多人没有注意到的是：<a href="http://mobile.slashdot.org/article.pl?sid=09/03/25/1238246&amp;art_pos=27">所有智能手机都在竞赛中幸存</a>，没有一个被成功<a href="http://en.wikipedia.org/wiki/Exploit_(computer_security)">Exploit</a>。<i>
+五种智能手机平台分别为iPhone和BlackBerry，以及运行Windows Mobile，Symbian和Android系统的手机，TippingPoint为每一种手机的Exploit提供了1万美元奖金。TippingPoint的Terri Forslof指出，如此难以成功Exploit的原因是，智能手机的内存和处理器能力有限，多数现有的Exploit技术都无法工作。举例来说，Charlie Miller早在一年前就发现了Safari浏览器的漏洞，在竞赛中他利用未修复的漏洞在10秒内就攻陷了MacBook，Forslof说，“很多人都惊讶它对iPhone无效，为什么他没有追逐1万美元奖金？漏洞毫无疑问存在，但在iPhone上Exploit难度太大。”但也有人指出，由于Pwn2Own竞赛规则限制了一种漏洞无法使用两次，所以iPhone才幸免遇难。</i>
+➜Ubuntu 9.04 Beta发布
+https://www.solidot.org/story?sid=10493	8700
+<a href="http://www.ubuntu.com/testing/jaunty/beta">Ubuntu 9.04 Jaunty Jackalope beta</a>已正式发布。主要的特性为：<i>GNOME 2.26，其中有Brasero光盘烧录工具和对多显示器的支持；X.org 1.6；新的通知系统（<a href="http://www.markshuttleworth.com/wp-content/uploads/2008/12/jaunty904_notifications_example1_web_092.swf">演示</a>）；启动时间减少；Linux kernel 2.6.28；支持Ext4文件系统；突出云计算；Turn-key邮件服务器等等。</i>
+下载：<a href="http://releases.ubuntu.com/releases/9.04/">桌面和服务版</a>，<a href="http://releases.ubuntu.com/releases/edubuntu/9.04/">教育版</a>，<a href="http://releases.ubuntu.com/releases/kubuntu/9.04/">Kubuntu</a>等。
+➜Valve称Steamworks更新将让“DRM过时”
+https://www.solidot.org/story?sid=10494	10620
+Steam正在采用<a href="http://store.steampowered.com/news/2372/">新的反盗版方案</a>，它声称将<a href="http://kotaku.com/5182197/new-steamworks-feature-makes-drm-obsolete">让DRM过时</a>。它的免费发行和开发工具Steamworks更新将引入名叫Computer Executable Generation(CEG)的新技术，使用100%独一的keygen系统为通过Steam购买的游戏创造唯一的拷贝。游戏可以不受限制的安装到多台机器上，但一次只能允许一位玩家可玩。这句声明<a href="http://games.slashdot.org/article.pl?sid=09/03/24/1853257&amp;art_pos=42">存在疑问</a>，因为Steam客户端可以离线运行。
+➜MIT研究人员开发基于石墨烯的芯片，能运行在1000GHz
+https://www.solidot.org/story?sid=10495	12600
+MIT研究人员开发出基于石墨烯的芯片，<a href="http://web.mit.edu/newsoffice/2009/graphene-palacios-0319.html">能运行在1000GHz</a>，实现硅基处理器无法企及的梦想速度。它将能大幅改进手机、电脑和其它电子设备的数据传输。<i>
+MIT研究小组成员包括电机工程和计算机科学（EECS）系助理教授<a href="http://web.mit.edu/tpalacios/">Tomás Palacios</a>和<a href="http://www.rle.mit.edu/rleonline/People/JingKong.html">Jing Kong</a>，及他们的学生Han Wang和Daniel Nezich。他们开发出一种类似倍频器的石墨烯芯片，它能输入特定频率的电子信号，然后电子信号的频率乘倍输出。硅基芯片要产生4或5G以上的频率非常困难，但石墨烯芯片可以很容易实现500到1,000GHz频率。</i>
+➜Opera浏览器推出地理位置共享服务
+https://www.solidot.org/story?sid=10496	15900
+<a href="http://szlug.org/">DNA24</a> 写道<i> "
+<a href="http://labs.opera.com/news/2009/03/26/">Opera</a>周四推出了浏览器的一个最新版本，该版本<a href="http://arstechnica.com/software/news/2009/03/location-awareness-spreads-to-opera-browser.ars">支持地理位置共享服务</a>。对于开发者来说，该版本浏览器提供了地理位置API，使开发者能够在应用程序中使用用户地理位置信息。Opera浏览器的这一功能是与Skyhook Wireless共同开发的，使用了后者的WiFi定位系统。这意味着用户不必使用带GPS的设备，而只要通过带WiFi的设备就可实现地理位置共享。这一功能未来可能被应用在本地生活搜索、地理位置社交网络、照片和视频的地理位置标签等服务中。"</i>
+➜14岁女孩贴裸照，被控制作儿童色情
+https://www.solidot.org/story?sid=10497	19800
+一名新泽西14岁女孩在MySpace.com上贴了约30张自己的裸照，<a href="http://app.com/article/20090326/NEWS/90326030">被指控制作儿童色情</a>。如果被判有罪，她将被州有关部门登记为“性犯罪者”，可能限制她进入学校。<i>
+女孩贴裸照上为了让她的男朋友浏览，当地司法办公室发言人称，浏览照片是无罪的，但是下载则是违法的。官方有意扩大逮捕行动，但并没有计划去指控那些无意间浏览到裸照的过客。鉴于年龄关系女孩的姓名并没有曝光，她因非法持有儿童色情照片和传播儿童色情照片而被拘留，目前已经释放交给其母看管。</i>
+➜Opera Mobile 9.7加入支持Ajax和Flash
+https://www.solidot.org/story?sid=10498	21600
+<a href="http://szlug.org/">DNA24</a> 写道"
+Opera<a href="http://www.opera.com/press/releases/2009/03/26/">宣布</a>将在下周美国CTIA无线通讯行动大会上，发布专为智能手机与便捷式设备的<a href="http://news.networkmagazine.com.tw/web/2009/03/27/11723/">Opera Mobile 9.7网页加速版</a>。 <i>
+Opera Mobile 9.7将俱备最新的网页压缩技术Turbo，使用最新版本Presto 2.2引擎(与Opera 10桌面浏览器相同)。此外Opera Mobile 9.7将全面支持动态网页技术如Ajax与Flash，使用者浏览Facebook与YouTube会更加顺畅。搭载Opera Turbo的Opera Mobile 9.7将有助于减少网路雍塞情况，提升网络浏览的速度，传递更加丰富的网络浏览经验给客户或终端使用者。俱备Opera Turbo模式的Opera Mobile 9.7可压缩网页资料达80%，将大幅减少网络的资料传输量与减少网络塞车的状况，让使用者可不受网路频宽的限制而快速浏览网页。Opera Mobile 9.7百分之百通过Acid 3测试，并支持开发者工具、硬件加速的OpenGL ES、Google Gears等。"</i> <a href="http://www.opera.com/discover/video/mobileturbo/">DEMO演示</a>
+➜希捷新款8TB BlackArmor NAS跑的是Linux
+https://www.solidot.org/story?sid=10500	24840
+<a href="http://szlug.org/">DNA24</a> 写道 "<i>
+希捷针对中小企业发布了<a href="http://arstechnica.com/hardware/news/2009/03/seagates-new-8tb-blackarmor-nas-runs-linux.ars">新的网络存储产品</a>系列BlackArmor。 BlackArmor NAS 440存储服务器可以安装四块硬盘；有液晶显示屏，显示设置和设备状态；可以同时连接50台计算机进行自动备份操作；所有存储在该设备上的文件都经过了自动加密。有趣的是，这款新的BlackArmor NAS是基于Linux操作系统，现在找不到它的评测，不过LinuxDevice.com上有一些<a href="http://www.linuxdevices.com/news/NS3377512150.html">它的技术资料细节</a>。"</i>
+➜Ubuntu 9.04 Beta 正式发布
+https://www.solidot.org/story?sid=10499	24960
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "<a href="http://www.ownlinux.cn/2009/03/27/ubuntu-904-beta-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83/">Ubuntu 9.04 Beta版本今日清晨低调发布了</a>，在官方主页http://www.ubuntu.com/上可以看到Download the beta now的字样。
+<br>
+据悉，Ubuntu 9.04 Beta版本将比Alpha-6更为稳定，因此现在是想尝鲜的朋友最佳的尝试时机：）
+<br>
+Ubuntu 9.04 主要的变更有：
+<br>
+1、更新内核至2.6.28系列（8.10目前是2.6.27系列）。
+<br>
+2、更新gnome至2.25系列版本（8.10目前是2.24系列）。
+<br>
+3、更新OpenOffice.org到3.0版本（原来是2.4）。
+"           由此带来的新特性主要有：（分别与以上条目对应）
+<br>
+1、加入对ext4文件系统的支持。
+<br>
+2、系统通知的显示方式更加灵活，并支持皮肤；“控制中心”增加了对即插即用设备挂载的选项设置；“回收站”中仿照Windows加入了“永久删除 ”和“恢复”的上下文菜单项；音量控制通知区图标的功能更加细致全面；新加入“系统垃圾清理”功能；Nautilus中增加了文件排列方式，可以把文件按照“大小”、“类型”、“徽标”等进行排列。
+<br>
+3、OpenOffice对ODF 1.2支持，并兼容微软Office 2007的docx、xlsx、pptx等文件格式。
+<br>
+对Ubuntu 9.04 Beta有兴趣的朋友可以直接到以下链接下载：
+<br>
+x86：
+<a href="http://cdimage.ubuntu.com/releases/jaunty/beta/ubuntu-9.04-beta-dvd-i386.iso">http://cdimage.ubuntu.com/releases/jaunty/beta/ubu ntu-9.04-beta-dvd-i386.iso</a>
+x64：
+<a href="http://cdimage.ubuntu.com/releases/jaunty/beta/ubuntu-9.04-beta-dvd-amd64.iso">http://cdimage.ubuntu.com/releases/jaunty/beta/ubu ntu-9.04-beta-dvd-amd64.iso</a>
+➜在硅芯片上模拟大脑
+https://www.solidot.org/story?sid=10501	30300
+欧洲研究人员向创造基于硅的大脑前进了一大步。他们创造了一个硅芯片，功能上相当于<a href="http://www.technologyreview.com/computing/22339/">20万神经元和5千万突触链接的回路</a>。这一名叫Fast Analog Computing with Emergent Transient States（<a href="http://facets.kip.uni-heidelberg.de/">FACETS</a>）项目目的是为了更好的理解如何去构建生物大脑模型，以计算形式重现大脑结构，帮助开发一个大规模并行计算系统。<i>
+不同于IBM的“<a href="http://bluebrain.epfl.ch/">蓝色大脑</a>”项目，IBM的计划是<a href="http://seedmagazine.com/content/article/out_of_the_blue/">用软件模拟大脑</a>，而FACETS的方法是在硬件上创造一个具有大脑功能的并行计算系统。研究人员<a href="http://bmi.epfl.ch/page61216.html">Henry Markram</a>称，“不是模拟神经元，我们是建造神经元”。突触使用了Markram开发的一种强大分布式算法，具有可塑性，能使电路学习和适应新环境。研究人员计划连接数以千计的芯片，创造一个包含10亿神经元和10^13突触的回路（其复杂性相当于人类大脑的十分之一）。</i>
+➜Youtube恢复访问
+https://www.solidot.org/story?sid=10502	31800
+3月27日，世界上最受欢迎的视频网站<a href="http://www.youtube.com/">Youtube</a>在中国境内<a href="http://www.herdict.org/web/explore/detail/id/CN/2071">恢复</a>了访问。
+<i>
+自3月23起，大陆用户就无法再能<a href="__SLASHLINK__" sect="internet" sid="09/03/23/1343214" sn="article" tid="120">访问Youtube</a>。此事经国际媒体传播和渲染，最后除了<a href="__SLASHLINK__" sect="internet" sid="09/03/25/022219" sn="article" tid="17">外交部发言人</a>之外几乎无人不知，报道的著名媒体包括《<a href="http://www.nytimes.com/2009/03/25/technology/internet/25youtube.html?scp=1&amp;sq=youtube%20%20china&amp;st=cse">纽约时报</a>》、<a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/03/24/AR2009032401599.html">美联社</a>、<a href="http://www.reuters.com/article/internetNews/idUSTRE52N1VN20090324?feedType=RSS&amp;feedName=internetNews&amp;rpc=22&amp;sp=true">路透社</a>、<a href="http://www.physorg.com/news157140113.html">法新社</a>、<a href="http://blog.wired.com/business/2009/03/google-tries-to.html">《连线》网站</a>、<a href="http://edition.cnn.com/2009/TECH/ptech/03/25/youtube.china/">CNN</a>、<a href="http://yro.slashdot.org/article.pl?sid=09/03/25/1424231&amp;from=rss">/.</a>等。多数报道都认为Youtube的屏蔽可能与上传的某一视频有关。</i>
+➜Sun在6.7震级地震中测试服务器
+https://www.solidot.org/story?sid=10503	34560
+在一次里氏6.7震级地震中，数据中心的服务器<a href="http://hardware.slashdot.org/article.pl?sid=09/03/26/1448216&amp;art_pos=22">会出现什么惨状</a>？Sun在加州圣迭戈分校的地震模拟平台上进行了一次服务器黑盒测试试验，模拟了6.7级地震后服务器的生存情况。从<a href="http://link.brightcove.com/services/player/bcpid1640183659?bctid=1667900590">视频</a>上看，地震中的机架就像跳舞一样晃动。测试结果令人印象深刻，绝大多数设备都几乎完好无损，只有少数电源线掉落和螺丝松动。
+➜戴尔宣布192GB内存的电脑
+https://www.solidot.org/story?sid=10504	36000
+戴尔宣布了一款新型号电脑Precision T7500，最最引人注目的是它提供了12个内存插槽，每个插槽都能容纳最高16 GB PC-106000(1333 MHz)DDR3内存，<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9130538">内存总数可以达到192GB</a>。<i>
+Precision T7500并不是高端游戏电脑，而是一台针对游戏开发者、工程师和动画设计师的工作站电脑，标准配置售价1,800美元。戴尔并不是第一家，联想的ThinkStation D20工作站支持最高96GB 1333 MHz DDR3内存，思科的刀片服务器支持最高384GB DDR3内存。苹果是一个例外，它的新Mac Pro工作站限制内存最高为32GB DDR3。这么多内存对于32位的桌面电脑是没有任何意义的，如32位XP和Vista只能处理3G内存。但5年前的64位Windows Server就能处理最高1TB内存，新的Windows Server 2008则能利用2TB内存。</i>
+➜人愈多，竞争性越少
+https://www.solidot.org/story?sid=10505	38400
+UM Ross商学院助理教授<a href="http://www.bus.umich.edu/Academics/Departments/MO/FacultyBio.asp?id=000657601">Stephen Garcia</a>完成的一系列研究发现，<a href="http://www.physorg.com/news157134296.html">竞争者数量增加会减少竞争的动机</a>(<a href="http://only-perception.blogspot.com/2009/03/blog-post_5043.html">中文翻译</a>)。Garcia与以色列海法大学的Avishalom Tor合作进行三项研究，发现了被称为N-效应（N-effect）的现象：当一场竞争中的参与者数量（N）增加时，个别竞争者的竞争性会减少。研究者表示，因为<a href="http://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E6%AF%94%E8%BE%83%E7%90%86%E8%AE%BA">社会比较</a>时常刺激个人去竞争，当竞争者的数量增加时，社会比较会变得分散。<i>
+另一项研究中，参与者被告知尽快完成它，不需要对正确性妥协。与其他10位一同测验的参与者，其完成测验的速度与同其他100位参与者进行测验时的速度相比，会更加快速。Garcia与Tor也进行数次测试以探讨社会比较在N-效应的角色。社会比较在个人开始将自己与周遭其他人相比时发生。Garcia说，“某些人指出，学校中班级的大小无足轻重，但其他人则认为那很重要....N-效应解释了这种争论。”研究人员指出雇主若想要员工表现更好，他们周围的共同工作者或许要少一点（他们也能被视为潜在的竞争者）。</i>
+➜Google Chrome绿色便携版更新
+https://www.solidot.org/story?sid=10506	48000
+<a href="http://www.iwanyo.cn/">Sheik</a> 写道 "<a href="http://www.google.com/chrome">Google Chrome</a>目前风头正劲，连Mozilla都不得不坦言以后Firefox面临的主要威胁将来自这个目前市场份额不足1%的小鬼头~但是，就个人观点而言，尚处在发展初期的<a href="http://www.iwanyo.cn/catalog.asp?tags=Chrome">Chrome</a>要想在短时间内替代技术相对成熟、插件丰富的火狐成为No.2，那只能是痴人说梦。目前<a href="http://www.iwanyo.cn/post/371.html">Google Chrome</a>已经更新到1.0.154.53 Final（正式版）和2.0.171.0（Beta版），可爱“好事”的外国志愿者们很快就更新了<a href="http://www.iwanyo.cn/post/392.html">Google Chrome绿色便携版</a>的程序包（包括开放源代码的Chromium）。           <a href="http://www.iwanyo.cn/post/392.html">下载Google Chrome绿色便携版请猛击这里</a>
+<br> <br>希望大家喜欢~"
+➜截图显示微软将在5月发布Windows 7 RC
+https://www.solidot.org/story?sid=10507	54000
+或许是微软的某位员工犯了一个错误，也可能是故意的：在TechNet的<a href="http://technet.microsoft.com/nb-no/evalcenter/dd353205(en-us).aspx">Windows 7下载页</a>，原来的Windows 7 Beta被提前更换成了Windows 7 Release Candidate，内容显示Windows 7 RC将在5月发布，而不是之前流言声称的4月。目前下载页已恢复到原来的Beta，但<a href="http://arstechnica.com/microsoft/news/2009/03/windows-7-rc-download-page-goes-up-early-coming-in-may.ars">Ars Technica保留下了截图和内容副本</a>：<i>
+RC版至少在2009年6月之前会一直提供下载，微软不会限制产品密钥的数量。RC版的过期日期是在2010年6月1日，到时候或过期之前必须升级到正式版。硬件要求：1G以上32位或64位处理器，1 GB内存，16G可用空间，128M以上显存和支持DirectX 9的显卡，DVD-R/W光驱。Windows 7 RC将发布5种语言的版本：英语，德语，日语，法语，西班牙语；不提供印地语和阿拉伯语。</i>

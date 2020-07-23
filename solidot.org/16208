@@ -1,0 +1,17 @@
+➜英语将在2017年退出高考
+https://www.solidot.org/story?sid=39580	30323
+英语将在<a target="_blank" href="http://www.solidot.org/story?sid=39478"><u>2016年</u></a>退出高考是谣言，真相是2017年退出。中国教育学会会长顾明远透露，全国将在<a target="_blank" href="http://qjwb.zjol.com.cn/html/2014-05/18/content_2662116.htm?div=-1"><u>2017年</u></a>执行高考新方案，语文、数学重要性提升，英语退出高考。他说，“教育部前天刚举行相关会议，近期估计就要发文了。在新高考方案里，英语不叫退出高考，而是改成社会考试。也就是说，英语不再和以前一样，集中在6月7、
+8、9日统一考试，而是由社会机构组织考试，学生高中三年可以考多次，成绩和大学英语四六级一样分等级，全国都如此。高考招生时，不同的学校会对英语提出
+不同的等级要求。不太会按照等级折算成分数，计入高考成绩，而是以等级为主。”社会机构组织的英语等级考试，不意味就是现在的高中英语会考。顾明远透露，以后高校自主招生考试会增加，比如大学要招生物专业的，自主招生时就会多考生物这块，以后大学自主招生会偏重，你要学什么就考什么。
+➜爱默里大学不小心格式化所有Windows电脑
+https://www.solidot.org/story?sid=39581	34337
+爱默里大学使用的微软<a target="_blank" href="http://en.wikipedia.org/wiki/System_Center_Configuration_Manager"><u>系统中心配置管理器</u></a>（SCCM）<a target="_blank" href="http://it.slashdot.org/story/14/05/17/051214/emory-university-sccm-server-accidentally-reformats-all-computers-campus-wide"><u>不小心</u></a>对学校管理的所有Windows电脑重新分区、格式化和安装Windows 7。事故发生在5月14日，受影响的机器包括笔记本、台式机甚至服务器。有趣的是，当管理员<a target="_blank" href="http://it.emory.edu/windows7-incident/"><u>发现出错时</u></a>，系统中心配置管理器服务器也关闭了，因为它也重新分区、格式化安装Windows 7。IT团队已经紧急行动起来修复问题。这一事故凸显了中心化管理系统既有利也有弊。
+➜Tux3文件系统有望合并到Linux Kernel
+https://www.solidot.org/story?sid=39582	38174
+<a target="_blank" href="http://en.wikipedia.org/wiki/Tux3"><u>Tux3</u></a>文件系统可能<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTY5MjQ"><u>很快会合并</u></a>到Linux内核主支。Tux3主要作者Daniel Phillips提出了对合并到内核的代码审查请求。Tux3版本控制文件系统设计接替遭遇专利问题的Tux2，其开发始于2008年，Phillips描述它是一种轻量级的现代文件系统，具有最小的资源消耗，包括磁盘空间、CPU开销和高速缓存，适合个人和嵌入式系统使用，目前还缺乏企业级的可靠性。
+➜考古学家在阿根廷发现迄今最大恐龙化石
+https://www.solidot.org/story?sid=39583	43200
+<a href="/~进击的巨人">进击的巨人</a> 写道<i> "近日，阿根廷一位农民在<span class="st">巴塔哥尼亚以西250公里处的沙漠中意外<a target="_blank" href="http://www.bbc.com/news/science-environment-27441156">发现</a>巨型恐龙化石，当地考古学家进行挖掘分析后，认为化石属于泰坦龙（</span>titanosaur）的新品种，属于白垩纪晚期草食性生物，其体型完全超越了目前已知所有大型恐龙。按大腿骨长度估算，该物种身长约40米，站立高度约20米，体重约77吨，比此前认为最重的阿根廷龙（Argentinosaurus）还要重7吨。全部挖掘工作由来自阿根廷埃吉迪奥‧费鲁利奥古生物博物馆一队考古学家完成，挖掘区域内发现了7具恐龙遗骸，共计150块化石。尽管该发现震惊了整个考古学界，来自伦敦自然历史博物馆的保罗·巴瑞特博士则对测量结果表示了质疑，认为化石体型的计算方式不尽相同，数据的不确定性很大。"</i>
+➜LibreSSL一月谈
+https://www.solidot.org/story?sid=39584	52107
+OpenSSH和LibreSSL开发者、<a target="_blank" href="http://www.openbsdfoundation.org/"><u>OpenBSD基金会</u></a>董事Bob Beck用了<a target="_blank" href="http://www.openbsd.org/papers/bsdcan14-libressl/"><u>一系列图片</u></a>讨论了OpenSSL的问题。LibreSSL是OpenBSD创建的OpenSSL分支。Bob Beck声称<a target="_blank" href="http://www.solidot.org/story?sid=39328"><u>OpenSSL基金会</u></a>只是一家盈利机构，OpenSSL里面没有人真的有兴趣维护OpenSSL，只是加入一个又一个的功能，而几年前的bug都没人除。<a target="_blank" href="http://it.slashdot.org/story/14/05/17/2250242/30-day-status-update-on-libressl"><u>他指出</u></a>，被OpenSSL抛弃的bug跟踪系统对于帮助开发者发现和修正bug非常有用，称LibreSSL项目修复的许多bug上游的OpenSSL项目至今还没有修正。Bob Beck还批评了负责拨款的Linux基金会，称他们蒙蔽了双眼，只资助安全意识缺乏的OpenSSL项目，呼吁社区通过资助OpenBSD基金会资助LibreSSL的开发。

@@ -1,0 +1,142 @@
+➜Digg与Reddit加入NoSQL阵营
+https://www.solidot.org/story?sid=16953	1200
+fenglanchi 写道<i> "在<a href="http://www.infoq.com/cn/news/2010/03/Digg-Reddit-NoSQL-Cassandra">infoq</a>上看到的: "Digg和Reddit在这个月都宣布了将转向Cassandra ，因为MySQL对他们来说伸缩性不够了。一些人认为MySQL+memchche不再是事实上的伸缩解决方案了。Digg在去年九月宣布了他们转向Cassandra的计划，而这一过程在这个月完成了。仔细比对了其它项目——HBase，Hypertable，Tokyo Cabinet/Tyrant，Voldemort，以及Dynomite——，他们最终选择了Cassandra，出于以下的考虑：每个系统都有它自己的强项和弱项，但是Cassandra综合了各个方面。它提供了面向列的数据存储，因此这相比纯粹的key/value存储又更结构化一些。它通过分布式高可用的点对点集群来运作。尽管目前它的核心功能还有一些欠缺，但相较于其它方案而言，它更接近我们想要的。Digg几乎重建了整个基础设施，跳出了LAMP栈。主要的起因是MySQL，如同任何其它的SQL数据库一样，它是为读取而作的优化，而不能很好的处理写入。
+另一个网站，Reddit，曾经出现过memcacheDB相关的问题，一开始他们通过增加更多的RAM来处理，但他们需要一个长久的解决方案是再明显不过的。他们在十天之内完成了向Cassandra的转换，在Cassandra开发者和社区的帮助以及EC2在测试和部署Cassandra的实例方面的支持下，只用了一名开发者就做到了。""</i>
+➜戴尔否认将中国采购业务迁往印度
+https://www.solidot.org/story?sid=16954	4200
+印度总理辛格（Manmohan Singh）告诉《印度时报》，戴尔公司董事长Michael Dell向他保证，将会把<a href="http://hardware.slashdot.org/story/10/03/25/2054238/Dell-To-Leave-China-For-India">价值250亿美元的电脑零部件采购业务</a>从中国迁往印度，原因是印度拥有“更安全的利于企业发展的环境”。<i>
+对此，戴尔公司新闻发言人称，目前戴尔没有撤出中国的计划，戴尔和辛格的谈话<a href="http://company.nbd.com.cn/newshtml/20100326/20100326041005396.html">被误解了</a>。他说，实际上双方讨论了在印度建立硬件生产  “生态系统”，戴尔称该公司每年在中国投资达到250亿美元。戴尔相信印度也有机会成为硬件生产枢纽。</i>
+➜入侵奥巴马Twitter帐号的法国黑客自称“好黑客”
+https://www.solidot.org/story?sid=16955	5520
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道<i> "被控入侵美国总统奥巴马和著名歌星“小甜甜”布兰妮的法国黑客Francois Cousteix（aka HackerCroll）<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-1960720100325">近日落网</a>，让人吃惊的是这名黑客目前失业而且没有多少计算机知识，他在接受法国电视三台采访的时候说，他只是想证明互联网上的数据有多么不安全，可以轻易被入侵，而且他说他这么做并没有恶意：“<a href="http://celebrifi.com/gossip/Britneys-Twitter-hacker-is-caught-1980028.html">我是一个好黑客</a>。”他声称这么做只是为了警告互联网数据安全的重要性。</i>           <a href="http://www.morgancheng.com/">译者</a>简评：这名黑客并自己并没有太多计算机知识，只不过使用别人开发的工具和方法就能够侵入别人的账号，因为别人的账号在互联网上是暴露给全世界的，谁都可以发起入侵，不限于黑客专家，“好黑客”也可以。入侵和反入侵，是一个永远不休止的战争。"
+➜调查称女性常做噩梦是掉发而男性是撞车
+https://www.solidot.org/story?sid=16956	5760
+英国《每日邮报》<a href="http://www.dailymail.co.uk/health/article-1259961/The-secrets-nightmares-leave-sweat.html">报道</a>(科学网<a href="http://news.sciencenet.cn/htmlnews/2010/3/230001.shtm?id=230001">中文</a>)，德国的一项调查发现男性和女性噩梦梦境有所不同。调查人员向2000人询问他们做梦的情况。<i>
+研究显示，女性比男性更容易做噩梦，梦境内容包括牙齿或头发脱落，从特别高的地方摔下；男性梦境多为撞车或坠机。心理学家解释说：梦到牙齿或头发脱落表示担心随着年龄增长而容颜衰老；从高处摔下意味着坠入爱河或者结束一段恋情；当与伴侣关系处于纠缠状态，无法摆脱时可能会梦到瘫痪；对生活失去控制时，梦境中容易出现撞车或坠机情景；梦到考试不及格或许是现实生活中缺乏自信心的表现。心理学家归纳出五种最常见的噩梦：由高处摔落、被人追赶、瘫痪、迟到、心爱的人死去。</i>
+➜Google想成为我们的能源管家
+https://www.solidot.org/story?sid=16957	7500
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道<i> "《电子工程专辑》（EE Times）报道，Google准备联合微控制器制造商Microchip，开发一款被称为“Google能量仪表”（Google PowerMeter）的API。为什么呢？因为Google想<a href="http://www.eetimes.com/224200147">帮助我们管理家中的所有能源消耗</a>。Google打算在用户的iGoogle主页显示用户在何时何地消耗能源的信息，从而促使用户节约能源。当然，这项服务是可选的，是否让Google成为你的能源管家，由你自己决定。"</i>
+➜中国DNS污染通过根服务器影响全世界
+https://www.solidot.org/story?sid=16958	9900
+Ars Technica<a href="http://arstechnica.com/tech-policy/news/2010/03/china-censorship-leaks-outside-great-firewall-via-root-server.ars">报道</a>，据IETF DNS operations邮件列表的<a href="https://lists.dns-oarc.net/pipermail/dns-operations/2010-March/005260.html">讨论</a>，一位来自智利域名注册商的技术人员周三称，他们在DNS根服务器“i.root-servers.net”的一个节点上观察到了奇怪的响应行为，当用户查询facebook.com、youtube.com和 twitter.com等域名时，返回的是虚假的IP地址，没有转到.com。正常情况下，DNS根服务器只会提供一个正确的顶级域名服务器指示，在此例中用户查询的.com顶级域名服务器由美国弗吉尼亚州的VeriSign公司运行。他们根据路由追踪发现这个节点位于中国。i.root-servers.net的一位工作人员表示正对此展开调查。很多人指出中国根服务器DNS污染已经发生过多次，而一位自称管理根服务器中国镜像的ICANN机构的人员<a href="https://lists.dns-oarc.net/pipermail/dns-operations/2010-March/005280.html">声明</a>，ICANN与此事无关。
+➜Miro推出开源视频转换器，Miro 3.0版发布
+https://www.solidot.org/story?sid=16959	10920
+<a href="http://www.mirovideoconverter.com/">Miro 视频转换器</a>是可以转换几乎所有格式的视频到.MP4, .OGG(Theora)格式，或者选择特定的播放平台来转换，支持Android phone, iPhone, iPod, 和PSP。
+<i>
+a. Miro Video Converter (MVC) 基于FFMPEG，强大的视频引擎。<br>
+b. 转换Theora 视频的话, MVC 使用ffmpeg2theora, 是最新及最好用的ogg 编码器，Firefox 现在支持.ogg 音频、视频。<br>
+c. 程序源代码使用GPL发布。
+</i>
+Miro同时也发布了<a href="http://www.getmiro.com/">Miro 3.0</a>，新特性包括：字幕；加快了从torrent下载到删除文件的速度；更容易的编辑文件信息；视频最高音量增加至少一倍；启动速度改进和bug修正等等。           另外，推荐一个广受好评的视频转换器<a href="http://handbrake.fr/">Handbrake</a>。
+➜慈善机构鼓动佩雷尔曼接受百万美元，然后捐出去
+https://www.solidot.org/story?sid=16960	11760
+俄罗斯数学天才和隐士佩雷尔曼（Grigory Perelman）目前隐居在圣彼得堡，他曾透过紧闭的门告诉记者“<a href="__SLASHLINK__" sect="science" sid="10/03/24/1015251" sn="article" tid="41">我已经拥有了我想要的一切</a>”，言外之意是要回绝克莱数学研究所为表彰他在证明庞加莱猜想过程中的决定性贡献，而授予他的百万美元奖金。<i>
+现在，一家圣彼得堡儿童慈善机构Warm Home正<a href="http://science.slashdot.org/story/10/03/26/0139230/Perelman-Urged-To-Accept-1m-Prize">鼓励佩雷尔曼接受奖金</a>，然后捐赠给他们。据英国《卫报》<a href="http://www.guardian.co.uk/world/2010/mar/23/grigory-perelman-rejects-1m-dollars">报道</a>，有人曾设法打通了佩雷尔曼的手机，结果佩雷尔曼回应“别来烦我，我正在采蘑菇”。</i>
+➜印度军方试图将“鬼魂椒”变成武器
+https://www.solidot.org/story?sid=16961	17400
+印度军方正考虑<a href="http://science.slashdot.org/story/10/03/24/1830205/Indian-Military-Hopes-to-Weaponize-the-Searing-Ghost-Pepper">武器化世界最辣辣椒</a>——断魂椒（Bhut Jolokia），又称销魂椒、鬼魂椒。<i>
+<a href="http://zh.wikipedia.org/zh-cn/%E6%96%B7%E9%AD%82%E6%A4%92">断魂椒</a>是盛产于印度东北部阿萨姆邦的一种辣椒，在2007年的《吉尼斯世界纪录大全》中被确认为世界最辣辣椒，实验最高辣度为1,041,427 SHU(史高维尔指标)。<a href="http://zh.wikipedia.org/zh-cn/%E5%8F%B2%E9%AB%98%E7%B6%AD%E7%88%BE%E6%8C%87%E6%A8%99">史高维尔指标</a>（Scoville Scale）是1912年美国化学家韦伯·史高维尔所制订的度量辣椒素含量的一项指标。军用催泪瓦斯的辣度是5,300,000SHU，民用催泪瓦斯为2,000,000SHU，其后便是断魂椒，第二辣的魔鬼椒只有577,000SHU，仅为断魂椒的一半。</i>
+➜Google香港在搜索结果中加入Twitter
+https://www.solidot.org/story?sid=16964	21600
+《洛杉矶时报》<a href="http://latimesblogs.latimes.com/technology/2010/03/google-adds-twitter-feed-in-china-again-defying-that-countrys-rules.html">报道</a>，Google在google.com.hk引擎的搜索结果中加入了Twitter信息源，但不是所有的搜索结果会显示出实时的Twitter信息。<i>
+实时信息搜索支持中文和英文，比如“<a href="http://www.google.com.hk/search?hl=en&amp;safe=strict&amp;tbo=1&amp;tbs=mbl%3A1&amp;q=%E4%B8%AD%E5%9B%BD&amp;meta=&amp;aq=f&amp;aqi=&amp;aql=&amp;oq=&amp;gs_rfai=">中国</a>”、“<a href="http://www.google.com.hk/search?hl=en&amp;safe=strict&amp;tbo=1&amp;tbs=mbl%3A1&amp;q=%E8%89%BE%E6%9C%AA%E6%9C%AA&amp;meta=&amp;aq=f&amp;aqi=g10&amp;aql=&amp;oq=&amp;gs_rfai=">艾未未</a>”，“<a href="http://www.google.com.hk/search?q=google%20china&amp;hl=en&amp;safe=strict&amp;tbo=1&amp;output=search&amp;tbs=mbl:1&amp;ei=hKCrS9-rLcKclgfmsrCmDg&amp;sa=X&amp;oi=tool&amp;resnum=5&amp;ct=tlink&amp;ved=0CAwQpwU&amp;cad=h">google china</a>”。一位Google发言人<a href="http://www.dailyfinance.com/story/company-news/google-adds-twitter-to-hong-kong-search-as-china-clamps-down/19414547/">表示</a>，他们从本月初开始在google.com.hk中整合实时搜索，这项功能在一周前便已经完全可用。</i>
+➜BoneCP 0.6.4发布
+https://www.solidot.org/story?sid=16962	22800
+<a href="mailto:threejek@gmail.com">三剑客</a> 写道 "BoneCP 0.6.4版本发布！BoneCP是一个快速高效，开源<a href="http://news.wangmeng.cn/detailNews/1924">免费的Java数据库连接池</a>。创作者称，BoneCP在性能上会完全超越所有主流的Java连接池。它可以帮你管理数据连接让你的应用程序能更快速地访问数据库。比C3P0/DBCP连接池快25倍。
+<a href="http://jolbox.com/about.html">新特性</a>：
+延迟加载特性，允许BoneCP 0.6.4初始化的时候延迟加载连接池；
+DynamicDataSourceProxy类，允许BoneCP 0.6.4在运行时可无缝切换数据源；
+启动之前增加了测试连接功能；
+在应用没有释放连接的情况下发出警告信息的功能；
+改进了Statement缓存机制，该功能让获取Statement更快；
+完善了更丰富的文档功能；
+修复了大量bug(包括显示错误时丢失异常信息的bug)；"
+➜Linux Deepin 9.12.1 修正版发布
+https://www.solidot.org/story?sid=16963	22860
+<a href="mailto:jmss160@126.com">threejek</a> 写道 "Deepin 9.12.1<a href="http://news.wangmeng.cn/detailNews/1927-revised-version-of-linux-deepin-9-12-1-release"> 修正版</a>，是对 9.12 正式版的安全升级、 Bugs 修正和兼容性提高。
+修正版 iso 可以在这儿下载。如果您已经安装了 Deepin 9.12 正式版，那并不需要重新安装，而只需要在终端里执行如下命令：
+sudo apt-get update
+sudo apt-get dist-upgrade
+就可以把系统升级到最新的 9.12.1。
+修正记录： 安全升级
+同步 Ubuntu 9.10 所更新的安全升级包，
+去掉不安全的 CNNIC 证书（Fireox 新加入了 CNNIC 信任证书）
+完善软件包管理
+更新 Ubuntu-Tweak（Ubuntu 优化大师）以便支持从新版 UTCOM 网站在线更新应用程序列表，让用户可以在类似 360 软件管理器的界面里挑选和管理应用程序（主要针对第三方应用程序）
+重新加上【Ubuntu 软件中心】以照顾原 Ubuntu 用户习惯
+修正网络管理器的 Bug
+Deepin 9.12 发布后更新了修正版 NetworkManager 网络管理器，9.12.1 中自带修正后的版本
+修正 xfce 桌面系统的 bug
+修正 U 盘自动挂载等兼容问题
+提高 MS Office 兼容性
+升级 OpenOffice.org 3.2 以支持打开带密码保护的 MS Office2007 docx 文档。
+在软件仓库中提供可选的 永中 Office （跟 Office2003 文档有更好的兼容性）
+更新 wine 以支持免费版 MS Office 2010
+提供 QQ 语音视频支持
+更新 wine 以支持深度单文件版腾讯 QQ
+提供 ibus-sunpinyin 拼音输入法
+在软件仓库提供可选的 ibus-sunpinyin 输入法，以实现类似搜狗拼音的整句输入
+提高 Ubuntu Gnome 的兼容性
+有些喜欢探索的用户会搜索 Ubuntu 的文章来调整系统，不过由于桌面系统的差异，针对 Ubuntu Gnome 下的某些操作在 XFCE 下无法直接套用。
+Deepin 9.12.1 提供了封装脚本模拟 Ubuntu Gnome 桌面的常见工具（gedit、gnome-open，gnome-mount，nautilus 等命令的包装），让常见 Gnome 下特有操作无需调整即可继续套用
+提高显卡和显示器兼容性
+将预设的显示设置调整保守，以避免用户因为 显卡或显示器较老，或者使用了兼容性较差的非公版显卡而遇到显示问题
+更新 linux-backports-modules 以便修正某些新硬件的兼容问题
+修正 sis 和 s3 等低功耗计算机有用到的显卡驱动
+<a href="http://linux.deepin.org/download">点此下载Linux Deepin</a>"
+➜IE8、Safari、iPhone在Pwn2Own竞赛中落马
+https://www.solidot.org/story?sid=16965	24600
+温哥华CanSecWest安全展的年度Pwn2Own竞赛<a href="http://www.zdnet.com.tw/news/web/0,2000085679,20144766,00.htm">正在火热进行中</a>，黑客在第一天便<a href="http://it.slashdot.org/story/10/03/25/2227231/IE8-Safari-iPhone-All-Fall-At-Pwn2Own-Contest">成功攻陷</a>了未解锁的iPhone、在Snow Leopard执行的Safari，和64位Windows 7系统上的运行Internet Explorer 8及Firefox。
+<i>
+Independent Security Evaluators安全分析师Charlie Miller，在没有实际接触目标电脑的情况下，成功入侵一台MacBook Pro的Safari，赢得1万美元奖金。Miller去年利用Safari的一个漏洞完成入侵，夺得5,000美元奖金。2008年他突破MacBook Air，赢得1万美元。来自荷兰的独立安全研究员Peter Vreugdenhil，利用自制程序绕过IE 8的防卫功能，也获得1万美元奖金。同样赢得1万美元的还有英国MWR InfoSecurity研究主管Nils，他的目标是Firefox。Miller拒绝提供入侵Safari的详细方式，他说自己不会公开在苹果、Adobe和微软软件中发现的20个安全漏洞，他认为微软苹果Adobe应该自己找出这些bug。</i>
+➜Google称Youtube宕机与中国无关
+https://www.solidot.org/story?sid=16966	28080
+流行视频分享网站<a href="__SLASHLINK__" sect="it" sid="10/03/25/1059250" sn="article" tid="26">Youtube下线</a>了1个多小时，很多人的第一反应是此事肯定与某个最近和Google有恩怨的组织或政府有关。但<a href="http://www.cnn.com/2010/TECH/ptech/03/25/youtube.down/index.html?hpt=T2">Google予以否认</a>，称Youtube宕机的原因是技术问题，已经很快修复，对给用户造成的不便表示歉意。<i>
+美国东部时间3月25日早晨7点到8点，用户打开Youtube的首页会看到“Http/1.1 Service Unavailable”的错误信息，但Youtube上的个别视频仍然可以播放。据来自Youtube的消息来源称，Youtube宕机并非是受到攻击或与中国有关，消息来源称Google的预设政策是不透露下线原因的细节。另据最新的纳斯达克股票信息，3月25日Google的股票上涨了<a href="http://www.google.cn/finance?q=NASDAQ%3AGOOG">1.00%</a>，一改过去几天下降趋势，百度股票在同一天<a href="http://www.google.cn/finance?q=NASDAQ:BIDU">下降了2.71%</a>。</i>
+➜Facebook导致英国性病发生率上升
+https://www.solidot.org/story?sid=16967	29100
+BBC<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2010/03/100324_life_facebook_syphilis.shtml">报道</a>，英国桑德兰、杜伦和提兹塞德等地区的用户使用社交网站的比例最高，统计显示因为人们在线寻找多重性伴侣而导致这些地区梅毒病例增加了400%。<i>
+提兹塞德地区公共卫生负责人Peter Kelly教授表示，他们发现梅毒病例的增加与社交网站之间有密切关系，尤其是在年轻女性之间。他们发现梅毒病例增加了四倍，其中年轻女性患者特别多，而很多病患都是在社交网站上认识他们的性伴侣的。Facebook发言人对此表示，在与网友见面的时候，必须采取“预防措施”。</i>
+➜火星漫游车变老但变得更睿智
+https://www.solidot.org/story?sid=16968	31500
+NASA<a href="http://www.nasa.gov/mission_pages/mer/news/mer20100323.html">宣布</a>，在登陆火星6年之后，他们升级了火星漫游车机遇号上的软件，现在漫游车在执行任务期间可以自主选择观察哪一块岩石。<i>
+NASA去年冬天给机遇号的计算机更新了名为“Autonomous Exploration for Gathering Increased Science”的软件。现在漫游车在行驶到一个新地点之后，计算机能检查车载广角导航照相机拍摄的照片，识别出符合特定规则的岩石，如圆形或浅色。然后让选定的目标处于窄角全景照相机的中心位置，通过色彩滤镜拍摄多张照片。旧的系统是先将整个岩石区域的图像传输给控制中心，然后再由控制中心的科学家选择调查哪一块岩石，接着再发送命令给漫游车，整个过程耗费大量时间。新的程序也将安装在新一代火星漫游车上。</i>
+➜在朝鲜观看电影《2012》是禁忌
+https://www.solidot.org/story?sid=16969	33900
+《朝日新闻》<a href="http://www.asahi.com/english/TKY201003250328.html">报道</a>，2012年在朝鲜具有非同寻常的意义，因为这一年是伟大领袖金日成诞辰100周年。而好莱坞推出的科幻灾难片《2012》显然让平壤感到不安。<i>
+在朝鲜政府眼里，电影把2012年这么一个具有重大纪念意义的年份刻画成人类的末日是不可接受的。据来自朝鲜的消息来源透露，朝鲜政府逮捕了观看盗版科幻电影《2012》的居民。逮捕行动在全国各地都有发生。一位居住在该国北部城市的男子被熟人告发而遭逮捕，这位男子从中国的一个未透露的来源获得了《2012》的盗版DVD。这位男子被告知观看《2012》构成了对“国家发展的严重挑衅”，他将面临5年以上的监禁。</i>
+➜解决云南干旱饮水困难的土法
+https://www.solidot.org/story?sid=16970	36300
+<a href="http://goofegg.blog.163.com/">goofegg</a> 写道 <i>"网上看到那边的小孩因为渴极而<a href="http://news.163.com/10/0325/01/62J9HEB3000146BB.html">喝脏水</a>，真没必要，网上有很多净水的制作方法，对于沙漠取水的经验也有很多，真希望电视多放放，让西南那边很多人都知道。在网上看到两个很好的东西，在这推荐一下：<a href="http://hi.baidu.com/madesign/blog/item/cd2b070895d00c30e9248889.html">洁水器</a>，
+<a href="http://hi.baidu.com/madesign/blog/item/0047fbf27d78df1bb07ec512.html">简易滤水器</a>"</i>
+➜国际空间站将新增“避难所”
+https://www.solidot.org/story?sid=16971	38880
+今年晚些时候，国际空间站将新增一个的模块。第131远征队的宇航员预计将在2010年9月飞往空间站，<a href="http://www.universetoday.com/2010/03/24/iss-to-get-man-cave-complete-with-robot-butler/">为空间站带去多用途后勤舱</a>（Multi Purpose Logistics Module），它将变成一个永久多用途模块（Permanent Multipurpose Module，PMM），用于储藏供应物质。<i>
+肯尼迪太空中心波音公司经理Mike Kinslow称，PMM可以成为某种形式的“庇护所”，里面没有实验室中风扇、计算机和其它设备运行的背景噪音，它可成为宇航员的理想休息场所。Kinslow称PMM模块不会安装大屏幕电视，但可以连上电脑，宇航员可以在此给爱人写邮件，或者上Twitter。</i>
+➜食用高果糖玉米糖浆的老鼠体重大幅上升
+https://www.solidot.org/story?sid=16972	41760
+普林斯顿大学研究人员完成的一项实验<a href="http://www.princeton.edu/main/news/archive/S26/91/22K07/">显示</a>，摄入高果糖玉米糖浆的老鼠增加的体重比摄入蔗糖的老鼠高得多，体重变化的效果十分显著，即使在实验中老鼠整体摄取的卡路里是一致的。
+<i>
+除了导致体重大增加外，长期食用玉米糖浆还导致体内脂肪的增加，它们大量堆积在腹部，同时被称为三酸甘油脂的血脂含量也在上升。心理学教授Bart Hoebel称，许多人认为高果糖玉米糖浆和其它增甜剂在体重增加和肥胖方面没有什么区别，但他们的研究显示这不是真的，至少是在这项研究中。<a href="http://www.afic.org/FFA%20Issue%2032%20Obesity-Is%20HFCS%20to%20Blame_CH.htm">高果糖玉米糖浆</a>（HFCS）由42％或55％的果糖组成，在1983年被美国食品药品管理局（FDA）划分为通常认为是安全（GRAS）的食物。HFCS是一种甜味剂，在美国作为蔗糖的替代物被加入到饮料和食物中。有些科学家认为，肥胖人群的增加部分与高果糖玉米糖浆的摄入增加有关。</i>
+➜通过打字习惯追踪恋童癖
+https://www.solidot.org/story?sid=16973	43200
+恋童癖现在与时俱进的利用互联网去寻找青少年目标，但一项新研究显示可以通过他们使用键盘的习惯<a href="http://science.slashdot.org/story/10/03/25/1240200/Tracking-Pedophiles-By-Their-Typing-Habits">追踪他们的踪迹</a>。
+<i>
+使用键盘记录程序监测打字速度和节奏，研究人员可以判断出打字者的性别、年龄和文化。纽卡斯尔大学副教授Roy Maxion正在美国开展此项研究。一位前警官称，这项技术也用于追踪欺诈者和恋童癖。在研究中，Maxion教授仅仅凭借10次按键就能以95%的精度识别出键盘使用者。</i>
+➜中国出现31手指脚趾人
+https://www.solidot.org/story?sid=16974	50880
+Stranger 写道 <i>"初看照片还以为是后期拼接的，看了<a href="http://news.163.com/10/0323/07/62EPFGE9000146BB.html">163</a>才知道是真的：今年6岁的小鹏鹏手指有15根，脚趾有16根，加起来就是31根。<a href="http://blog.est.im/archives/1825">est</a>评论说：“三聚氰胺和地沟油立功了！”"</i>
+这种现象被称为“<a href="http://en.wikipedia.org/wiki/Polydactyly">多指畸形</a>”，多数时候都是与单一基因的体染色体显性的突变有关。根据维基百科的记录，去年有一个婴儿生来<a href="http://www.ktvu.com/news/18608582/detail.html">有12个手指和12个脚趾</a>。多余的手指和脚趾通常可以通过手术切除。
+➜苹果iPad应用商店提前外泄
+https://www.solidot.org/story?sid=16975	54000
+yaohua2000 写道<i>"在研究 App Store 时意外<a href="http://www.appannie.com/blog/ipad-app-store-screenshots/">发现了尚未发布的 iPad 应用商店的截图</a>。更有意思的是截屏中的 Top Paid 排名已经有了不少 iPad 专用应用，这些应用以“HD”结尾，包括 Labyrinth 2 和 Flight Control。"</i>
+➜微软表示会扎根中国
+https://www.solidot.org/story?sid=16976	59760
+希望有更多负责任西方科技公司追随谷歌反审查步伐的人要失望了：世界最著名的高科技龙头微软公司仍然表示<a href="http://yro.slashdot.org/story/10/03/26/1256216/Were-Staying-In-China-Says-Microsoft">将会扎根中国</a>，并推动Bing搜索引擎在中国的发展。<i>
+Google联合创始人Sergey Brin本周公开指责微软的人权和言论自由政策，他说，“我对微软尤其感到失望。我原本希望一家大企业不应该把利润置于一切之上。一般来说，企业应该关注他们的产品是怎样使用，又使用在何地。”微软拒绝了Brin的批评，称将继续遵守中国的审查法律。一位微软发言人表示，不同的企业会根据自己的经验和看法作出决定，微软在华经营了20多年，它会继续在华经营。</i>
+➜百度“笨” 专业搜集百度的搜索建议
+https://www.solidot.org/story?sid=16977	60960
+<a href="http://www.xiaozhan.org/">酷站集中营</a> 写道 <i>"今日浏览网页，无意中发现了<a href="http://www.baiduben.com/">百度“笨”</a>，这样一个酷站。该网站仅仅是为了搜集中国最著名搜素引擎百度给用户提供的搜索建议的截图。通过这些搜索引擎建议我们可以发现很多有趣的事情。如：当您在百度中输入：怎么老，这三个字的时候，百度会提供如下几个选项供你快速搜索:怎么老掉线？怎么老地震？怎么老放屁？怎么老打嗝？怎么老是你？怎么老断网？怎么老感冒？很有意思，你可以看出中国的互联网基础服务还不是很好，“怎么老断网？”在关键词中竟然出现了两次。“怎么老地震？”体现出近段时间地震很频繁。我联系联系“百度笨”的站长采访，站长表示，网站今年一月份上线，影响还不是很大，但是很多用过的网友都表示支持。他表示会一直坚持下去。"</i>
+➜Google正在修复中国访问故障
+https://www.solidot.org/story?sid=16978	61200
+<a href="http://www.y3y.org/">Y3Y.org-3秒</a> 写道<i> "自从<a href="http://www.y3y.org/2010/03/23/google-com-hk.html">Google离开中国</a>之后，中国大陆用户使用Google香港或Google英文时就经常会出现访问故障，大陆用户无法通过点击Google.com.hk页面下部的链接，或者直接在地址栏输入google.com/ncr访问Google英文。Google网页搜索小组发文申明他们已经意识到问题的存在了，他们解释说：google.com.hk有一个bug需要解决，用户点击页面下部的“Google.com in English”链接时，其实是被重新定向会了<a href="http://www.y3y.org/2010/03/23/google-cn-google-com-hk-coming.html">google.com.hk</a>。这个Bug很偶然，将会在几天内修复。</i>另外Google管理员验证工具倒下了，官方说有bug，很多站长都已经遇到此问题，这是Google方面的原因，并不是站长出问题了，相信Google很快就能修复。"

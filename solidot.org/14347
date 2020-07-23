@@ -1,0 +1,87 @@
+➜瑞典税务当局要向网络色情表演者征税
+https://www.solidot.org/story?sid=10774	60
+瑞典税务当局力图打击<a href="http://news.bbc.co.uk/2/hi/europe/7993694.stm">逃税的网络色情表演者</a>，他们试图鉴定通过网络摄像头表演脱衣舞的女性，以便要求她们报税。税务官员估计有数百位瑞典女子逃避了税收法律，每年造成大约4000万瑞典克朗(约3300万人民币)的损失。<i>
+官员们目前正在检查脱衣舞网站，一个小时接一个小时的观察脱衣舞娘的表演，当然这一切都是出于合法的目的。气喘吁吁的互联网交易项目负责人Dag Hardyso称，到目前为止已经调查了200位脱衣舞娘，他说总数可能高达500位。Hardyso先生表示，“从照片上看，她们都是年轻女孩。我们猜想她们可能不是十分了解法规。”</i>
+➜母亲因给儿子打电话次数过多而被罚
+https://www.solidot.org/story?sid=10776	1500
+一位73岁的奥地利女子因为在两年半时间里向儿子进行电话轰炸，而被法庭<a href="http://news.yahoo.com/s/nm/20090409/od_nm/us_phonecall">判处罚款</a>。
+<i>
+这位老母亲一天给儿子打电话多达49次，法庭判决她罚款360欧元(约人民币3237元)。她说，“我只想和他谈谈。我既不能和儿子谈，也不能和女儿谈。我从来没见过孙子——他已经15岁了。”</i>
+➜付费广告登陆Twitter
+https://www.solidot.org/story?sid=10777	2400
+ReadWriteWeb<a href="http://www.readwriteweb.com/archives/how_to_sell_your_soul_on_twitter_and_whos_buying.php">报道</a>，名叫<a href="http://be-a-magpie.com/">Magpie</a>的广告服务网站，付费让Twitter用户在Twitter上发布广告主的产品广告信息。<i>
+ReadWriteWeb发现了一些家喻户晓的企业名字出现在广告商名单之列——包括苹果、Skype、Kodak、Cisco、Adobe、Roxio、PC Tools和Box.net——Twitter“托”们使用相同的词语去宣传企业的产品。一位Box.net发言人回帖称，该公司并没有参与Twitter营销，因此可能是下属的销售人员干的。这对鼓吹“实时搜索”的Twitter而言可并不是值得庆祝的消息。</i>
+➜Twitter两度遭垃圾蠕虫攻击
+https://www.solidot.org/story?sid=10778	4200
+匿名读者 写道 "<a href="http://lucifr.com/2009/04/13/twitter-attacked-by-stalkdaily-and-mikeyy-worms-and-how-to-prevent-and-remove/">Twitter两度遭垃圾蠕虫攻击</a>。<i>
+从11日开始，Twitter就开始受到可自动散布垃圾信息的蠕虫攻击。先是StalkDaily，后是mikeyy。蠕虫实施的是XSS攻击，所利用的是最近Twitter更新引入对OAuth支持后出现的安全漏洞。蠕虫在如Bio，及在CSS的#color后面插入可执行的脚本来控制API，以达到在受感染用户的账户上发送Tweet的目的，而通过发送Tweet，其又可以进一步吸引其它用户follow，进而扩大感染范围。17岁的StalkDaily网站站长Mikeyy Mooney已经<a href="http://www.bnonews.com/news/242.html">承认</a>对事件负责，目前Twitter<a href="http://status.twitter.com/post/95332007/update-on-stalkdaily-com-worm">表示</a>漏洞已经堵上。"</i>
+➜亚马逊从搜索系统中移除同性恋等题材书籍
+https://www.solidot.org/story?sid=10779	5700
+同性恋作家<a href="http://markprobst.livejournal.com/15293.html">Mark Probst</a>刚刚出版了一本引人注目的同性恋浪漫题材小说，近几天他发现这部畅销小说从销售排名中消失了，然后他又注意到其它一些同性恋和性主题小说都从畅销榜销声匿迹。<i>
+他向亚马逊询问了此事，亚马逊承认他们采取了行动将“成人”题材排除在搜索结果和畅销榜之外。但讽刺的是纳粹崇拜类的书籍却没有受影响，在<a href="http://latimesblogs.latimes.com/jacketcopy/2009/04/amazon-deranks-gayfriendly-books-the-twitterverse-notices.html">被搜索降级的著作</a>中包括了1992年美国国家图书奖得主Paul Monette的《Becoming a Man》。因此有博客声称亚马逊是一家<a href="http://www.fictioncircus.com/news.php?id=346&amp;mode=one">仇恨同性恋</a>的纳粹公司。而博客Ed Champion呼吁<a href="http://www.edrants.com/amazonfail-a-call-to-boycott-amazon/">抵制亚马逊</a>，要求网友从他们的网页上删除亚马逊链接，在修改政策之前停止从亚马逊网上零售店购买书。</i>
+➜Facebook的网站架构
+https://www.solidot.org/story?sid=10780	8160
+在QCon 2008旧金山会议上，Facebook的技术主管Aditya Agarwal讨论了<a href="http://www.infoq.com/presentations/Facebook-Software-Stack">Facebook的网站架构</a>（视频和<a href="http://www.slideshare.net/guest65a0aec/qcon">幻灯片</a>），讨论主要集中在运行的软件方面。Facebook采用的是典型的LAMP（Linux、Apache、MySQL和PHP）架构，后台服务器是使用C++和Java编写的，其它主要组件包括Memcache缓存管理, Thrift RPC框架和Scribe分布式日志服务器。部分中文介绍可参见<a href="http://www.dbanotes.net/arch/facebook_arch_note.html">DBA notes</a>。<i>
+Facebook有1.2亿活跃用户，每月500亿+页面浏览量，100亿+照片，10亿+连接，5万+Apps，40万App开发者....</i>
+➜志愿者恢复月球轨道1号所拍摄的照片
+https://www.solidot.org/story?sid=10781	10800
+1960年代，NASA忙于与苏联竞争谁第一个登陆月球，却忽视了月球探测器的数据保存。大量使用脆弱磁带保存的数据，无声无息的丢弃在了仓库内，其中包括了1966年8月10日发射的月球轨道1号（<a href="http://en.wikipedia.org/wiki/Lunar_Orbiter_1">Lunar Orbiter 1</a>）拍摄的照片。月球轨道1号的目的是挑选择阿波罗计划的登陆地点，并首次拍摄到了月球看地球的历史性照片，在轨道上运行了80天577圈后，于1966年10月29日撞击在月球背面。<i>
+现在一组获得NASA资助的志愿者开始<a href="http://www.moonviews.com/archives/2009/03/newly_restored_picture_of_the.html">努力恢复月球轨道1号的照片</a>，总共约2000幅照片被储存在磁带上，只能为33万美元的FR-900 Ampex磁带阅读器阅读，这群志愿者由NASA档案专家Nancy Evans，Dennis Wingo，NASA Watch的Keith Cowing，和在修复视频设备上富有经验的Ken Zim组成，两周前他们公开了修复的第二幅照片：<a href="http://www.latimes.com/news/nationworld/nation/la-na-lunar_kgtpyinc,0,4148844.photo">哥白尼火山口</a>，第一幅照片就是著名的<a href="http://images.spaceref.com/news/2008/assembledimage.w.jpg">地出</a>。<a href="http://lunarscience.arc.nasa.gov/files/LOVframe162h3.tif">原始版本</a>有2.2G大。</i>
+➜中国发布《国家人权行动计划》
+https://www.solidot.org/story?sid=10782	14400
+国务院新闻办公室13日发布了《<a href="http://www.scio.gov.cn/gzdt/ldhd/200904/t294680.htm">国家人权行动计划（2009－2010年）</a>》，承诺加强公民的法律保护，保障表达权和知情权，司法公正，保护被羁押者的权利，人权教育等等。中国试图以此<a href="http://www.scmp.com/portal/site/SCMP/menuitem.2af62ecb329d3d7733492d9253a0a0a0/?vgnextoid=1de9efaecad90210VgnVCM100000360a0a0aRCRD&amp;ss=China&amp;s=News">回应</a>国内外对中国人权的批评，《人民日报》也在周一发表社论，表示共产党领导仍然是立国之基。引用该文：<i>
+尊重遇难者，对地震中遇难和失踪人员登记造册并予以公布.....严禁刑讯逼供....严禁执法人员实施非法拘禁行为.....公开审理时，公开举证、质证、辩论，并公开宣判。公民持有效证件，可以旁听......加强对新闻机构和新闻记者合法权利的制度保障.....完善治理互联网的法律、法规和规章，促进互联网有序发展和运用，依法保障公民使用互联网的权益...</i>
+➜环球联手YouTube推全球最大MV网站
+https://www.solidot.org/story?sid=10783	18000
+<a href="http://szlug/">权相龙</a> 写道<i> "
+环球唱片和YouTube将于今年稍后合作<a href="http://news.yahoo.com/s/nm/20090409/media_nm/us_google_universal">推出音乐录像(MV)分享网站</a>，环球旗下近万个音乐录像，包括U2、50 Cent和Kanye West等王牌巨星的作品均可免费收看，望能打造全球最大型的“优质网上音乐录像中心”。
+环球和YouTube发表联合声明介绍说，他们将会设立<a href="http://www.vevo.com/">Vevo网站</a>、在YouTube开设Vevo频道，并推出一个可装嵌于社交网站的Vevo影音播放器。两大公司将共享广告收益，网民播放影片前须观看最多15秒的广告短片。"</i>
+➜移民政策影响硅谷公司招募新员工
+https://www.solidot.org/story?sid=10784	20520
+Andrew S. Grove，出生于匈牙利，Intel创始人之一；杨致远，出生于中国，雅虎创始人之一；Vinod Khosla来自印度，Andreas von Bechtolsheim来自德国，他们俩是Sun的创始人；Google的共同创始人Sergey Brin出生于俄罗斯....无数硅谷精英都是技术移民出生，然而目前美国实行的移民政策却<a href="http://www.nytimes.com/2009/04/12/business/12immig.html?_r=1&amp;ref=WRH">阻碍了硅谷公司继续招募出生于国外的工程师</a>。<i>
+Sanjay G.Mavinkurve，出生于印度，是Google Maps项目组的关键工程师，但他并不住在Google位于硅谷的总部Mountain View附近，而是居住在加拿大。他说，“我认为现在的立法议员正意识到他们是多么愚蠢。”Google和许多硅谷企业都招募了大量来自印度、中国、俄罗斯等国的技术移民，Google的2万名雇员中有10%（约2000名）是移民。Mavinkurve曾为Facebook的成功打造了坚实的基础，2003年后他加入了Google，被Google Maps项目组负责人称赞为最好的UI设计师。他的妻子也是出生于印度，2008年来到美国，但获得绿卡需两年时间，所以她无法在美国境内工作，他们只好暂时居住在多伦多。</i>
+➜微软称将通过自动更新发行IE8
+https://www.solidot.org/story?sid=10785	21900
+微软IE博客透露了<a href="http://blogs.msdn.com/ie/archive/2009/04/10/prepare-for-automatic-update-distribution-of-ie8.aspx">更多透过自动更新程序发行IE8的细节</a>：
+两周前微软通过自动更新让运行预发布版IE8的用户升级到最终正式版。现在它计划从四月的第三周起，Windows XP、Windows Vista、Windows Server 2003、或Windows Server 2008的IE6或IE7的用户将会收到IE8自动更新的通知。在Windows XP和Server 2003，IE8更新将是高优先级。IE8不会自动安装到用户机器上，用户可以选择安装或不安装，也可直接从网站下载。
+➜朝鲜发射的是史上最牛的卫星？
+https://www.solidot.org/story?sid=10786	22800
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道<i> "据<a href="http://military.people.com.cn/GB/1077/52987/9118164.html">人民网报道</a>，朝鲜劳动党机关报《劳动新闻》10日在题为《人造卫星的总类和功能》的报道中介绍称，“<a href="http://zh.wikipedia.org/wiki/%E5%85%89%E6%98%8E%E6%98%9F2%E5%8F%B7">光明星2号</a>”人造卫星属于低高度、倾斜轨道卫星。而低高度卫星所在高度为数百米至数千米，倾斜轨道卫星是指轨道倾斜角（地球赤道平面和卫星运行轨道之间形成的倾斜角）在0度至90度之间的卫星。"</i>
+➜发帖被拘，政府称原因是诽谤
+https://www.solidot.org/story?sid=10787	27360
+24岁的王帅在上海工作，原籍是灵宝市大王镇南阳村，2月12日以46岁农民王二宝名义在天涯发贴暗示政府<a href="http://www.tianya.cn/publicforum/content/no04/767148/1/0/1.shtml">贪污500万抗旱资金</a>，帖子迅速被数十家网站转载，2月23日灵宝抗旱工作指挥部一名工作人员报案，3月6日王帅被拘留，之后他一共在上海和灵宝的拘留所呆了8天。3月13日，王帅被解除刑事拘留转取保候审。4月7日，王帅发表<a href="http://www.tianya.cn/publicforum/content/news/1/121917.shtml">公开信</a>，公开前因后果，称是为了维护农民的合法权益。4月8日，《中国青年报》新闻报道《<a href="http://zqb.cyol.com/content/2009-04/08/content_2613911.htm">一篇帖子换来被囚八日</a>》，讲述王帅因在网上发帖遭跨省追捕的故事。4月10日，灵宝党政公众网的管理员<a href="http://www.lbwbw.com/guestbook/Guest_Reply.asp?TopicID=2890&amp;page=1">发贴</a>称，王帅是因为对征地地上附着物赔偿款项不满，而借征地问题进行炒作，声称他的帖子严重损害了灵宝的形象，伤害了抗旱工作指挥部和水利局负责同志。声明称是根据《刑法》第246条第二款和最高人民法院关于执行《刑事诉讼法》若干问题的解释第一条第一项第一目的规定和《刑事诉讼法》第86条的规定立案侦查王帅的诽谤案。           《<a href="http://zh.wikisource.org/w/index.php?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%88%91%E6%B3%95/1997%E5%B9%B4&amp;variant=zh-cn">刑法</a>》<b>第246条第二款</b>：<br> <br>
+以暴力或者其他方法公然侮辱他人或者捏造事实诽谤他人，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。<br>
+前款罪，告诉的才处理，但是严重危害社会秩序和国家利益的除外。
+<br> <br>
+<b>执行《刑事诉讼法》若干问题的解释第一条第一项第一目</b>
+<br> <br>
+第一条 人民法院直接受理的自诉案件包括：<br>
+(一)告诉才处理的案件：1、侮辱、诽谤案(刑法第二百四十六条规定的，但是严重危害社会秩序和国家利益的除外）.....
+<br> <br>
+<b>《刑事诉讼法》第86条</b> <br> <br>
+第八十六条　人民法院、人民检察院或者公安机关对于报案、控告、举报和自首的材料，应当按照管辖范围，迅速进行审查，认为有犯罪事实需要追究刑事责任的时候，应当立案；认为没有犯罪事实，或者犯罪事实显著轻微，不需要追究刑事责任的时候，不予立案，并且将不立案的原因通知控告人。控告人如果不服，可以申请复议。
+➜匈牙利，鞑靼斯坦拥抱开源
+https://www.solidot.org/story?sid=10788	29400
+越来越多的政府<a href="http://linux.slashdot.org/article.pl?sid=09/04/11/2332244">拥抱自由开源软件</a>：<i>
+匈牙利政府宣布将修改采购政策，<a href="http://www.heise.de/english/newsticker/news/135835">允许在公共部门使用开源软件</a>。先前的采购政策明确指定了供应商如微软和Novell，新的采购政策将分配相同比例的资金给开源产品和私有产品。这意味着大约有4千万欧元预算可用于开源产品的招标。匈牙利开源解决方案供应商ULX Open Source Consulting对此表示欢迎。
+与此同时，俄罗斯联邦鞑靼斯坦共和国<a href="http://opendotdotdot.blogspot.com/2009/04/all-tatarstan-schools-moving-to-free.html">宣布</a>，到年底，鞑靼斯坦所有学校将迁移到基于Linux的自由软件操作系统上。这一决定是基于2008年小规模试验成功的基础之上。</i>
+➜卵母细胞在出生后还能继续产生
+https://www.solidot.org/story?sid=10789	32400
+《纽约时报》<a href="http://www.nytimes.com/2009/04/14/science/14cell.html?ref=science">报道</a>，上海交大生命科学技术学院吴际教授领导的研究小组发现，卵母细胞在出生后<a href="http://www.sjtu.edu.cn/newsnet/shownews.php?id=20427">还能继续产生</a>，论文发表在最新一期的《自然细胞生物学》杂志上。<i>
+传统观点认为，女性和绝大多数雌性哺乳动物<a href="http://zh.wikipedia.org/wiki/%E5%8D%B5%E6%AF%8D%E7%BB%86%E8%83%9E">卵母细胞</a>(成熟卵细胞形成以前的状态)的产生仅发生在胎儿期，出生后卵母细胞数目不再增加，反而逐年减少, 这意味着出生后卵巢无生殖干细胞存在。新的发现改变了教科书的观点，研究人员首次在出生后的小鼠（包括成年和出生后五天的小鼠）卵巢中发现了生殖干细胞。这一研究可能为动物生物技术和人类提供卵母细胞新来源。堪萨斯州大学的生殖专家David F.Albertini称这是“一项令人兴奋的发现”，但结果很难解释，不排除误报的可能性，Albertini博士也指出老鼠和人类的生物学差异，称没有相关临床观察结果。</i>
+➜硅藻或能提高太阳能电池效率两倍
+https://www.solidot.org/story?sid=10790	33900
+俄勒冈州立大学和波特兰州立大学的研究人员发现，一种名叫<a href="http://zh.wikipedia.org/wiki/%E7%A1%85%E8%97%BB">硅藻</a>的有机微生物可能帮助提升太阳能电池转换效率<a href="http://www.eetimes.com/showArticle.jhtml?articleID=216500176">达两倍之多</a>(<a href="http://www.stdaily.com/gb/stdaily/2009-04/11/content_928073.htm">科技日报</a>)。
+<i>
+利用生物学而非传统的半导体生产方式，研究人员开发出了制作染料敏化太阳能电池的新方法。新的制造方法基于硅藻类生命体，这些极小单细胞硅藻具有人们所需的纳米结构外壳。为制造染料敏化太阳能电池，研究人员先让硅藻“定居”在透明的导电玻璃板面上，然后去掉构成硅藻生命的有机物质，仅留下它们微小的硅壳构成所需的模板。研究人员接着用一种生物制剂将溶解的钛沉积在模板硅壳中，获得了微小的二氧化钛纳米粒子，这些粒子形成的薄膜与染料敏化太阳能电池中的半导体具有相同的作用。他们制造的太阳能电池转换效率有望提升至目前效率的3倍，用料简便且价格低廉。</i>
+➜用rev="canonical"拯救互联网
+https://www.solidot.org/story?sid=10791	36720
+除了Twitter之类限制文字长度的网站之外，对其他人来说，URL缩写（简称缩址）<a href="http://joshua.schachter.org/2009/04/on-url-shorteners.html">是恼人的事情</a>。它给网址解析增加了额外的负担，一个固定的URL涉及浏览器、DNS解析器，DNS服务器和网站，缩址却又增加了一层复杂性。缩址诞生的最初源由是一些过长的网址会在BBS论坛或电子邮件客户端中被截断，但那已是遥远的过去了。2009年该问题已不再存在。<i>
+现在大量的缩址更多是Spam的伪装，无处不在的缩址正在伤害互联网。解决方法包括用<a href="http://userscripts.org/scripts/show/40582">greasemonkey脚本</a>恢复原网址。而Chris Shiflett则<a href="http://developers.slashdot.org/article.pl?sid=09/04/12/1834205">提议</a>用rev="canonical"<a href="http://shiflett.org/blog/2009/apr/save-the-internet-with-rev-canonical">去替换缩址服务</a>，将自己网页的网址缩短，比如http://shiflett.org/articles/cross-site-request-forgeries缩短为http://shiflett.org/csrf（其中csrf可自由指定），这种方法完全可以替代TinyURL.com等第三方的缩址服务。由于域名是自己的，缩写也是有意义的（如csrf由首字母组成），安全性也可以得到保证。</i>
+➜庆祝第10亿个App下载，苹果承诺提供丰厚礼品
+https://www.solidot.org/story?sid=10792	38520
+苹果发布了一个App Store下载<a href="http://www.apple.com/itunes/billion-app-countdown/">计数器</a>，以庆祝应用程序下载量向10亿迈进。从现在起到第10亿个App下载为止，期间下载任何程序的用户都有机会赢得1万美元的iTunes礼物卡，一台iPod Touch、一台Time Capsule或一台MacBook Pro电脑。目前下载量在9.46亿上下。
+➜Softpedia.com上的广告
+https://www.solidot.org/story?sid=10793	50400
+<a href="http://szlug.org/">权相龙</a> 写道 "<i>
+<a href="http://www.softpedia.com/">Softpedia.com</a>有一个汽车网站的广告（此网站存在有一段时间了），是同其同一机构SoftNews Net创建的。我不是给它买广告或给里面的汽车买广告，我只是觉得是一个<a href="http://en.wikipedia.org/wiki/Business_Transformation">企业转型</a>和产品多元化的很好的例子。说实话，发现这两个网站后，让我感觉SoftNews Net很好、很强大。可惜Google了一下，找不到SoftNews Net的官网，还请业内认识指教。"</i>

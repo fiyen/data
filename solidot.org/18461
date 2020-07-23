@@ -1,0 +1,15 @@
+➜Twitter 公布账号劫持事故细节
+https://www.solidot.org/story?sid=64981	21592
+Twitter <a href="https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html"><u>公布了</u></a>周三发生的大规模账号劫持事故的初步调查报告。Twitter 称，攻击者利用了社会工程。所谓社会工程就是操纵他人去执行某些动作泄露机密信息。攻击者成功操纵了一小部分 Twitter 雇员，使用雇员的凭证登陆内部系统，访问了只提供给内部支持团队的工具以 130 个账号为目标，对其中 45 个目标，攻击者重置了密码，登录进账号发推。攻击者还使用下载了 8 个账号的信息档案。这 8 个账号都不是认证账号。Twitter 表示它还在继续调查，正在配合执法机构，思考改进系统安全的措施。
+➜Thunderbird 78 将加入端对端加密支持
+https://www.solidot.org/story?sid=64982	24870
+Thunderbird 项目<a href="https://blog.thunderbird.net/2020/07/whats-new-in-thunderbird-78/"><u>释出了</u></a>最新的扩展支持版本 v78。主要新特性包括：重新设计了撰写邮件的窗口；暗模式；整合了日历和任务扩展；更新了账号设置和帐户中心；更新了文件夹图标和颜色；Windows 版本可以最小化到托盘；未来几个月内释出的 Thunderbird 78.2 将支持端对端加密，通过 OpenPGP 加密邮件，不再需要 Enigmail 扩展，开发者对 Enigmail 作者 Patrick Brunschwig 为这一整合功能奠定基础表示感谢。
+➜Cloudflare 宕机导致众多网站受影响
+https://www.solidot.org/story?sid=64983	26304
+Cloudflare <a href="https://blog.cloudflare.com/cloudflare-outage-on-july-17-2020/"><u>发布事故报告</u></a>，称骨干网络的配置错误导致了持续 27 分钟的宕机。Cloudflare 称，在处理一个不相关的问题时它的工程师为缓解拥堵而更新了位于亚特兰大的路由器配置，但配置中包含了一个错误，导致它的骨干网流量全都发送给了亚特兰大，亚特兰大的路由器过载引发了宕机。Cloudflare 为 2600 万网站提供服务，这次宕机导致了大量网站受影响无法访问，其中知名的网站和服务<a href="https://tech.slashdot.org/story/20/07/18/0434221/cloudflares-23-minute-outage-today-also-took-down-major-web-sites"><u>包括了</u></a>：Discord、Patreon、Deliveroo、GitLab、 Zendesk、Medium、Feedly、Politico、Shopify 和英雄联盟。
+➜ESA 发布太阳最近距离的照片
+https://www.solidot.org/story?sid=64984	32349
+ESA 的 Solar Orbiter 项目<a href="https://www.nature.com/articles/d41586-020-02136-4"><u>发布了</u></a>太阳最近距离的照片。Solar Orbiter 极紫外成像仪首席调查员 David Berghmans 称，乍一看太阳可能很平静，但仔细看会发现微型耀斑无处不在。这些耀斑是地球上能看到的太阳耀斑大小的百万分之一或十亿分之一。太阳耀斑是太阳磁场作用所引发的剧烈喷发。研究人员尚未断定微型耀斑是否是同样的过程驱动的。照片是在 5 月 30 日使用极紫外成像仪拍摄，ESA 在 7 月 16 日公布，拍摄时距离太阳 7700 万公里。NASA 的 Parker 太阳探测器曾从距离太阳表面 620 万公里处飞过，但由于环境险恶它没有携带面向太阳的相机。夏威夷的 Daniel K. Inouye 太阳望远镜最近拍摄了更高分辨率的太阳照片，但由于地球大气层过滤掉了部分紫外线和 X 射线波长的光，它没有完全捕捉到所有太阳光。
+➜前 ICANN CEO 成为 Ethos Capital 的联席 CEO
+https://www.solidot.org/story?sid=64985	46018
+前 ICANN CEO  Fadi Chehadé <a href="https://domainnamewire.com/2020/07/16/fadi-chehade-is-now-co-ceo-of-ethos-capital/" target="_blank"><u>现在被列</u></a>为私募股权公司 Ethos Capital 的联席 CEO。Ethos Capital 此前曾尝试收购管理 .org 域名的非盈利机构 Public Interest Registry（PIR），但在交易引发广泛关注后最终被 ICANN 否决。当 Ethos Capital 宣布收购 PIR 时 Chehadé 的名字并没有出现在网站上，但域名的 Whois 数据将他的名字暴露在公众面前。几个月来，Ethos Capital 的网站只列出了两名雇员：CEO Erik Brooks 和 Chief Purpose Officer Nora Abusitta-Ouri。Abusitta-Ouri 曾与 Chehadé 在 ICANN 共事过。最新更新的名单包含了 8 名雇员，其中 3 人有 ICANN 工作经历。

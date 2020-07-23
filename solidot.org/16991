@@ -1,0 +1,15 @@
+➜男子因从QQ上下载“暴恐视频”被拘留半个月
+https://www.solidot.org/story?sid=48880	38569
+官媒<a target="_blank" href="http://news.sohu.com/20160709/n458519325.shtml"><u>报道</u></a>，山东的一位男子通过QQ群下载了他人传播的恐怖主义视频并保存到网盘，当地警方随后声称获得有人下载并存储涉及恐怖主义视频的线索。报道没有详细描述警方是如何知道的，推测是下载链接为HTTP形式并一直被监视，如果是HTTPS那么监视者只知道域名而不知道具体链接。警方声称在这位男子的网盘内识别出了4个恐怖主义视频。这位男子因为被控违反反恐法而被判拘留15天罚款1万元。在腾讯网站上，转载<a target="_blank" href="http://news.qq.com/a/20160709/020658.htm"><u>报道</u></a>中的“QQ”全部被移除，显示是腾讯自己的审查。
+➜Facebook Messenger整合 Signal 协议支持端对端加密
+https://www.solidot.org/story?sid=48881	40427
+Facebook Messenger开始向用户推送新的“<a target="_blank" href="https://newsroom.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/"><u>秘密会话</u></a>”功能，它与 Open Whisper Systems 合作整合 Signal 协议加入了<a target="_blank" href="https://whispersystems.org/blog/facebook-messenger/"><u>端对端加密支持</u></a>。但和 Google Allo 等消息应用类似，端对端加密支持没有默认启用。Facebook在应用中使用了开源的 Signal 协议库，Open Whisper Systems 表示虽然强加密功能没有默认启用，但这仍然是巨大的一步。启用端对端加密后将使得消息应用服务商也不知道用户的消息内容，但元数据仍然被记录下来。
+➜达拉斯警方用机器人炸死嫌疑人引发争议
+https://www.solidot.org/story?sid=48882	44128
+美国时间7月7日晚上，在达拉斯举行的抗议警察杀死两名黑人男子的示威活动结束之际，美国陆军预备役军人 、参加过阿富汗战争的Micah Xavier Johnson开火击中了12名警察和2名平民，有5名警察被杀死。他在一个停车场被警方围住，在<a target="_blank" href="http://www.bbc.com/news/world-us-canada-36752603"><u>拒绝放下武器投降</u></a>后警方使用拆弹机器人部署 C-4 炸弹炸死了他。<a target="_blank" href="https://en.wikipedia.org/wiki/2016_shooting_of_Dallas_police_officers"><u>这起枪击案</u></a>是911之后美国执法机构死伤最严重的事件，同时也被认为是美国历史上警察第一次将机器人作为致命武器使用杀死嫌疑人。这件事<a target="_blank" href="https://hardware.slashdot.org/story/16/07/08/1752214/using-a-bomb-robot-to-kill-a-suspect-is-an-unprecedented-shift-in-policing"><u>引发了争议</u></a>，因为当时并不存在迫在眉睫的危险需要警方立即采取行动。接下来是否要允许警方在本土使用无人作战飞机或更多武装化机器人？警方远程杀死嫌疑人的能力引发了正当程序的担忧。
+➜研究人员发现超过100个Tor节点在监视隐藏服务
+https://www.solidot.org/story?sid=48883	52726
+两名研究人员通过设置蜜罐发现超过100个Tor节点<a target="_blank" href="https://www.schneier.com/blog/archives/2016/07/researchers_dis.html"><u>正在监视隐藏服务</u></a>。这些节点都是普通节点而非出口节点，它们对经过的流量进行分类，寻找与隐藏服务相关的流量，识别隐藏服务的位置，然后利用其所运行软件的常见漏洞进行攻击试图控制服务器。研究人员设置在实验室里的蜜罐隐藏服务网站不存在任何让人感兴趣的东西，也没有对外公开，只是了连接了Tor网络，向Tor节点发送了它们存在的信息。如果有新连接尝试登陆，那么研究人员推断是Tor节点回路遭到了监视。没人知道这些节点是谁运行的，可能是犯罪组织，可能是政府或政府的承包商，独立研究人员或学者。但学者通常不会尝试入侵服务器。Tor项目已经了解了这一攻击，正在重设系统屏蔽这些节点。
+➜比特币采矿回报减半
+https://www.solidot.org/story?sid=48884	54214
+比特币采矿<a target="_blank" href="http://www.bitcoinblockhalf.com/"><u>回报减半</u></a>，每区块的比特币收入从25 BTC减少到12.5 BTC，也就是如果币值不变的话，矿工的回报也减半了。比特币网络中运算难度是自动调节的，最初的四年里有1050 0000个BTC被制造出来，这个数值大约每四年减半，所以在第四到第八年中会有525 0000个BTC被制造，在第8到第12年中会生产262 5000个BTC，以此类推。最终比特币的数额会趋近于2100 0000个BTC。上一次采矿回报减半发生在2012年11月28日，从每区块50 BTC降至25 BTC。比特币的采矿和交易主要被中国公司控制，还不清楚这一变动如何影响他们。但毫无疑问，规模较小的矿工正被日益排挤出去。<br>

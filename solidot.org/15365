@@ -1,0 +1,36 @@
+➜惠普在Apache下开源webOS Enyo框架
+https://www.solidot.org/story?sid=28021	6300
+惠普在Apache许可证下开源了webOS的JavaScript框架<a href="https://github.com/enyojs/enyo">Enyo</a>，webOS的完整源代码<a href="http://arstechnica.com/gadgets/news/2012/01/hp-publishes-webos-enyo-framework-under-open-source-apache-license.ars">将在9月前公布</a>。<i>
+webOS基于Linux，之上是一个由HTML和JavaScript组成的私有应用层。惠普在2010年收购了Palm，但去年在推出webOS新智能手机和平板仅仅几个月就宣布放弃webOS平台，上个月该公司宣布将开源webOS。通过开源<a href="http://enyojs.com/">Enyo 1.0</a>，惠普表示webOS应用开发者可以将其应用发布到其它平台。惠普还公开了尚在开发中的Enyo 2.0源代码，更适合独立使用，支持非移动的桌面浏览器。根据惠普的<a href="http://www8.hp.com/us/en/hp-news/press-release.html?id=1164460">新闻稿</a>，在未来几个月，它将逐步开源不同组件如Ares 2.0、系统管理器Luna，9月份发布Open webOS 1.0。</i>
+➜反美斗士在美头被门夹
+https://www.solidot.org/story?sid=28022	18000
+hualala 写道<i> "据媒体<a href="http://news.house365.com/gbk/whestate/system/2012/01/25/020273091.html">报道</a>，1月20日，反美斗士司马南发布了最后一条反美微博后，即赴美欢度春节。不料在华盛顿国际机场竟扑朔迷离地被美国电梯门夹住脑袋，被急救车送往医院。事后司马南称美国人人情淡漠，帮忙叫急救的都是中国人，<a href="http://club.kdnet.net/dispbbs.asp?BoardID=1&amp;id=8067798&amp;page=1&amp;1=1#8067798">有网友称</a>其实救护车是美国人叫来的，同时机场工作人员和警察也来帮忙，因司马南不懂英语，才有同机华人送其去医院。"</i>
+➜Firefox Javascript引擎变成单线程
+https://www.solidot.org/story?sid=28023	24120
+Firefox已是内存使用最高效的浏览器之一，然而Mozilla工程师仍在<a href="http://blog.mozilla.com/luke/2012/01/24/jsruntime-is-now-officially-single-threaded/">继续节省内存</a>：<a href="http://developers.slashdot.org/story/12/01/25/1738231/firefox-javascript-engine-becomes-single-threaded">Javascript引擎实现了单线程化</a>。<i>
+旧的JavaScript运行时支持多线程，需要复杂的线程/锁定代码确保数据能正确访问，结果是导致难以维护，消耗更多内存，降低垃圾收集速度。新的JavaScript运行时采用单线程，每个<a href="http://dev.w3.org/html5/workers/">WebWorkers</a>都有自己的单线程JS运行时实例，每个运行时因此能简化表达，引擎能在线程之间优化工作，能更好的执行代码生成，更快的垃圾收集。
+</i>
+➜KDE 4.8发布
+https://www.solidot.org/story?sid=28024	25200
+KDE项目 <a href="http://www.kde.org/announcements/4.8/">宣布</a>发布
+<a href="http://www.kde.org/announcements/4.8/plasma.php">KDE Plasma
+Workspaces</a>、<a href="http://www.kde.org/announcements/4.8/applications.php">KDE
+Applications</a>和 <a href="http://www.kde.org/announcements/4.8/platform.php">KDE Platform</a>
+4.8，改进了稳定性和性能，增加一些新特性。<i>
+Plasma Workspaces优化了窗口管理器，重设了电源管理，整合了Activities。KDE applications包含了采用新显示引擎的Dolphin文件管理器，KDE Telepathy beta1，虚拟地球 Marble加入了交互式的Elevation Profile、卫星跟踪、Krunner整合；等等。</i>
+➜MIT设计出可折叠汽车
+https://www.solidot.org/story?sid=28025	26640
+城市中停车经常会成为一个大难题，MIT媒体实验室<a href="http://singularityhub.com/2012/01/24/mit-media-lab-rolls-out-folding-car/">设计出一款微型汽车</a>，在泊车时可折叠起来，仅占一般汽车停车空间的三分之一。他们将建造20辆原型车在2012年中进行测试。<i>
+名叫<a href="http://www.media.mit.edu/research/groups/1458/hiriko-citycar-denokinn">Hiriko</a>的城市汽车由MIT媒体实验室和7家西班牙公司联合设计，主要被租车公司使用，但感兴趣的人也可以以1.25万欧元购买一辆。Hiriko为两座、电力驱动，充满电可行驶120公里，最高速度将编程遵循市内限速。<a href="http://www.youtube.com/watch?v=G1MSMj08BVU&amp;feature=player_embedded">原型演示</a>(YouTube) </i>
+➜Ubuntu将用搜索界面HUD取代菜单
+https://www.solidot.org/story?sid=28026	42480
+Mark Shuttleworth在博客上宣布Ubuntu将<a href="http://www.markshuttleworth.com/archives/939">用搜索界面HUD取代菜单</a>。<i>
+菜单是施乐PARC在1970年代发明图形用户界面时的核心元素，此后几乎被所有的计算环境采用。然后在所谓的后PC时代，触控操作对用户界面设计正产生越来越大的影响。微软已经决定在Windows 8用开始屏幕<a href="__SLASHLINK__" sect="software" sid="11/10/05/1241255" sn="article" tid="33">取代开始菜单</a>。而在Ubuntu 12.04中，搜索界面HUD（Head-Up Display）<a href="http://www.osnews.com/story/25539/Ubuntu_To_Replace_Menus_with_Search_Field_Dubbed_HUD_">将取代Unity应用程序的菜单</a>，用户可以在所有的Ubuntu独立应用程序中打开搜索界面。虽然初看起来很有趣味，但用户需要记住命令，对新手来说不太友好，仅仅是提供一种键盘输入代替鼠标点击的方式。
+</i>
+➜革命者想用技术改变利比亚
+https://www.solidot.org/story?sid=28027	45720
+在推翻卡扎菲暴政的利比亚革命中，电信工程师帮助起义军<a href="__SLASHLINK__" sect="it" sid="11/04/14/0255223" sn="article" tid="127">创造了独立工作的通信网络</a>；在革命之后，<a href="http://blogs.wsj.com/tech-europe/2012/01/24/quiet-revolutionary-wants-technology-to-transform-libya/">他们正试图利用技术改变利比亚</a>。<i>
+Khaled el Mufti是一位革命者，现在他是临时政府的电信顾问，电子利比亚计划的负责人，正雄心勃勃的利用技术的力量现代化利比亚。Mufti毕业于伦敦帝国学院，革命发生时正好在利比亚为英国电信的一个项目工作，在劝说同事离开后他加入了反叛武装，帮助建立了移动通信网络。在卡扎菲政权被推翻之后，Mufti的任务转向了和平重建。他称，利比亚的九大电信运营商全是国有，它们大约雇用了2.5万员工，但实际只需要7千到8千，其中7千人被告知呆在家中，但仍然拿全薪，临时政府不能开除他们，因为私有部门还没有做好准备，必须有一个过渡，他们还在投资大工程以创造工作岗位。电子利比亚有两大目标：通过技术改善生活质量，以及创建新的市场环境。它有四大计划：公开和透明的政府，电子政务，电子商务和电子学习。</i>
+➜英国就是否应该给女王买游艇起争议
+https://www.solidot.org/story?sid=28028	48240
+wmr 写道 <i>"根据一个<a href="http://www.youtube.com/watch?v=bhyYgnhhKFw">视频</a>（youtube，有中文字幕），英国每年从王室赚走1.6亿英镑地租。就今年6月女王登基六十周年，英国围绕着<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/on_britain/120125_suping_royalyacht.shtml">该不该送一国之君一艘新游艇展开了辩论</a>。支持者认为，这样可以展现国家形象，为纪念2012年伦敦奥运会作为永久性的标志，也借此表达全国人民对女王“多年来孜孜不倦地为国家做出杰出贡献”的感谢。萨尔科齐就花1.8亿欧元买了总统专用空中客车。反对者认为，英国面临钱紧的窘境，连航母都造不起了，普通人需要勒紧裤腰带，而能享受到游艇的特权阶层的少数人。</i>           wmr补充了中国的例子："三年自然灾害时期中的1959、1960年，<a href="http://history.book.163.com/10/0122/16/5TL653R2009243E2.html">茅台酒的产量分别达到820吨、912吨</a>。前《人民日报》副总编周瑞金<a href="http://magazine.caijing.com.cn/2012-01-15/111618696_1.html">撰文</a>披露“大跃进”时期饿死3千多万人，<a href="http://www.voanews.com/chinese/news/20120121-Great-Leap-Casualty-137818883.html">海外有报道</a>说，这是中共核心媒体负责人首次公开承认这一有争议的数据。"

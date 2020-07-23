@@ -1,0 +1,60 @@
+➜携程称网站瘫痪是因为员工误操作
+https://www.solidot.org/story?sid=44240	10057
+携程旅行网昨天瘫痪了大约10个小时，该公司昨天宣称是服务器遭到不明攻击，但这家纳斯达克上市公司今天则承认是<a target="_blank" href="http://companies.caixin.com/2015-05-29/100814144.html"><u>员工误操作</u></a>。携程称，经技术排查已确认，此次事件是由于员工错误操作，删除了生产服务器上的执行代码导致。经技术人员抢修，除个别业务外，携程官方网站及APP 恢复正常，经过排查确认用户数据没有丢失，预订数据也保存完整。携程解释了为什么要花如此长时间恢复网站功能：<i>后台是一个由SOA（面向服务）架构组成的庞大服务器集群，看似简单的一个页面背后由上千个应用子系统以及上千个Web Service组成，而每个应用子系统和每个Web
+Service之间都存在着相互调用的依赖关系。事故发生后，技术人员除了需要恢复生产服务器上的执行代码，还要恢复并确保每个应用子系统以及每个
+Web Service的功能正常，并保证应用子系统与Web Service间的调用关系得以正常执行。</i>
+➜Avago以370亿美元收购博通
+https://www.solidot.org/story?sid=44241	11719
+芯片制造商Avago Technologies Ltd同意以<a target="_blank" href="http://www.reuters.com/article/2015/05/28/us-broadcom-m-a-avago-idUSKBN0OD18120150528"><u>370亿美元现金加股票</u></a>的方式收购竞争对手博通（Broadcom），这是芯片行业至今最大的一宗交易。Avago将支付170亿美元现金和价值200亿美元的Avago股票。按照收入计算，合并后的公司将成为仅次于英特尔和高通的第三大半导体制造商。芯片行业预计会发生更多的重磅交易：恩智浦（NXP）半导体今年3月以118亿美元收购了飞思卡尔，当时Avago也向飞思卡尔提出了报价；英特尔正与Altera 谈判收购交易，收购价预计将达到100亿美元。Avago最早在去年10月接触博通讨论收购事宜，但在价格上没有达成一致，今年4月Avago再次接触博通，提高了报价。
+➜硅谷工程师青睐Soylent等替代营养物
+https://www.solidot.org/story?sid=44242	12224
+软件开发者Aaron Melocik过去几个月一直喝Schmoylen营养物，以便于将注意力集中在工作而不是寻找食物上。处在繁荣时期的硅谷需要人们努力工作，而努力工作——至少在科技领域——意味着程序员、工程师和风投资本家要转而食用Schmoylent、Soylent、Schmilk和People Chow等液态营养物。这些富含蛋白质的粉末状产品价格不高，制作起来也方便快捷——加水搅拌即可；或者像Schmilk这样加牛奶搅拌。运动员和节食者多年前就已经在食用液态晚餐，<a target="_blank" href="http://cn.nytstyle.com/living/20150527/t27schmilk/"><u>现在越来越多硅谷员工也开始用喝这种东西代替吃饭</u></a>，以便能以更快的速度回到电脑前工作。Soylent、Schmilk和其他一些产品一般吃起来都像是味道寡淡的煎饼面糊。但这并不要紧，因为这种代餐食品为技术人员节省了金钱和时间。一般而言，在硅谷区的餐厅吃一顿饭至少要花50美元以上，而吃一周Soylent或Schmoylent的总花销只需要85美元。
+➜Google宣布Android M、Android Pay和容量不限的Google Photos
+https://www.solidot.org/story?sid=44243	14824
+<div align="center"><img src="http://img.solidot.com.cn/0/749/li1GwIp6KoM0g.png" align=""><br>
+<br>
+</div>
+在Google I/O 2015大会上，Google宣布了一系列重要产品和新功能。其中包括：Google Maps支持离线搜索和导航；物联网操作系统<a target="_blank" href="https://developers.google.com/brillo/"><u>Brillo</u></a>；与Apple Pay相竞争的移动支付系统<a target="_blank" href="http://officialandroid.blogspot.com/2015/05/pay-your-way-with-android.html"><u>Android Pay</u></a>；独立于Google+的照片共享服务 <a target="_blank" href="http://photos.google.com/"><u>Google&nbsp;Photos</u></a>，Google Photos不需要Google+账号，免费而且容量无限，但有一个限制，像素超过1600万的照片会被压缩，它能根据照片内容自动添加标签，用户也可以上传最高1080p的视频，但4K分辨率的视频会被压缩；Android下一个版本的技术预览版 <a target="_blank" href="http://android-developers.blogspot.com/2015/05/android-m-developer-preview-tools.html"><u>Android M</u></a>，其中值得注意的功能是权限控制，可以选择性的向应用授予权限，而不是目前Android采用的批量授权，此外还有改进电池使用的Doze，简化应用间连接的App links，等等。
+➜15名中国公民涉嫌雇人代考被起诉
+https://www.solidot.org/story?sid=44244	15680
+美国司法部<a target="_blank" href="http://www.justice.gov/opa/pr/fifteen-chinese-nationals-charged-fraud-scheme"><u>宣布</u></a>，15名中国公民<a target="_blank" href="http://cn.reuters.com/article/2015/05/29/usa-china-justice-idCNKBS0OE04E20150529"><u>被控涉嫌</u></a>进行找人替考以被美国高校录取等欺诈行为。司法部公布了其中12个人的身份：Han Tong、Xi Fu、Xiaojin Guo、Yudong Zhang、Yue Zou、Biyuan Li aka
+“Jack Li”、Jia Song、Ning Wei、Gong Zhang、Songling Peng、Siyuan Zhao和 Yunlin Sun，另外3人的身份还没有公开。声明称，被告雇佣的“枪手”利用伪造的中国护照欺骗考试管理人员，让后者相信他们就是考生，此类行为一次收费最多600美元。在2011年至2015年期间，上述被告花钱找人冒充参加SAT、托福及GRE考试。替考“枪手”及被顶替者都被起诉。被告有男性也有女性，年龄介于19-26岁之间。他们将面临最高20年徒刑和25万美元罚款。
+➜环保部门用无人机监视污染
+https://www.solidot.org/story?sid=44245	18808
+5月18日，环保部网站<a target="_blank" href="http://www.mep.gov.cn/gkml/hbb/qt/201505/t20150518_301736.htm"><u>通报了</u></a>2015年3月无人机执法检查及处理处罚情况。环保部利用无人机执法<a target="_blank" href="http://weekly.caixin.com/2015-05-22/100811606_all.html#page2"><u>早已不是什么新鲜事</u></a>。资料显示，在2012年至2013年间，环保部卫星环境应用中心先后组织开展30多次无人机遥感应用，作业面积超过4000平方公里。中国各地的环保部门也开始使用无人机。据公开资料显示，内蒙古包头市环保局曾在2011年就购置了无人机，开展了环境保护的空中监管模式。辽宁省环保局2012年采用了无人机遥感系统，对辽河流域进行了辽河治理现状航拍和遥感监测，以便及时掌握辽河治理重点区域的状态变化情况。扬州、济南、天津等多地都进行了环保无人机应用或探索。
+➜众筹影片《Kung Fury》上映
+https://www.solidot.org/story?sid=44246	25084
+<center>
+<iframe src="https://www.youtube.com/embed/bS5P_LAqiVg" allowfullscreen="" width="480" frameborder="0" height="260"></iframe><br>
+<br>
+</center>
+希特勒、会发射激光的恐龙、街机机器人、雷神托尔、黑客、时空旅行、忍者、功夫...你能在喜剧片《Kung Fury》看到上面的一切。《Kung Fury》是 David Sandberg自导自演的一部短片，背景设定在1980年代，警察Kung Fury试图返回到过去杀死希特勒终结纳粹德国。2013年12月他在Kickstarter上发起<a target="_blank" href="https://www.kickstarter.com/projects/kungfury/kung-fury/description"><u>集资</u></a>，制作30分钟短片的集资目标是20万美元，最终筹集到630,019美元， 但没有达到100万美元的长片集资目标。《Kung Fury》于5月28日上映，可以在<a target="_blank" href="https://www.youtube.com/watch?v=bS5P_LAqiVg"><u>YouTube</u></a>和<a target="_blank" href="http://store.steampowered.com/app/374570/">Steam</a>等网站上免费观看。<br>
+➜Neil DeGrasse Tyson建议美国对中国展开太空竞赛
+https://www.solidot.org/story?sid=44247	29410
+知名美国天体物理学家Neil DeGrasse Tyson认为美国与中国之间展开的一场新太空竞赛<a target="_blank" href="http://www.smh.com.au/technology/sci-tech/neil-degrasse-tysons-answer-to-innovation-stagnation-a-space-race-to-mars-20150526-gh9gys"><u>将有助于驱动创新和推动行业增长</u></a>。冷战时期的太空竞赛如阿波罗登月计划，就在美国创造了一个科学研究和工程发展的黄金时代。他说，如果中国领导人的备忘录泄露到西方，其中透露了在火星上建造军事基地的计划，那么美国肯定会感到不安并会快速做出反应，在10个月内造出飞船登陆火星。他说太空竞赛将会重新点燃创新的火焰。
+➜中国科技公司寻求在国内上市
+https://www.solidot.org/story?sid=44248	29708
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20150529/tec124344.asp"><u>报道</u></a>，火爆的中国股市和更有利的国内法规正在推动多家科技公司打消在美国上市的念头，转而计划在中国上市。中国的银行家、律师和初期投资者称，近几个月来中国企业在国内上市的意愿显著增强。这些公司称，在中国上市使得它们更容易向投资者解释自己的业务，而这些投资者往往会又是它们的客户。中国市场的诱惑正吸引着那些已在美国上市的公司。这些公司中的一部分已经进行了私有化，以便能够在中国重新上市，另外的数十家公司也正计划采取这种做法。中国的监管规定禁止外资在中国上市的互联网内容相关公司中持有高比例股份。
+➜预测你的下一步行动是可能的
+https://www.solidot.org/story?sid=44249	31372
+通过观察大脑中的神经活动信号来弄清楚你下一步将去到哪里<a target="_blank" href="http://www.ebiotrade.com/newsf/read.asp?page=2015528160813340"><u>是有可能的</u></a>。挪威科技大学的研究人员在《自然》期刊上发表<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14396.html"><u>论文</u></a>，证实从内侧前额叶皮质经由丘脑核到达海马的一条信号通路与定位有关。他们训练大鼠在一个连续的T形迷宫中以一种交错的方式跑动。当大鼠在迷宫中跑动时，研究人员对前额皮质、丘脑和海马进行了电生理记录，分析了大鼠在迷宫干道上，必须在即将出现交叉口处做出向左走或是向右行的决定时神经元的活动。他们观察到，可以根据放电的强度而非放电的细胞类型或位置获得关于下一步行动的信息。
+➜中国将加强软件安全
+https://www.solidot.org/story?sid=44250	36031
+国外科技企业将在中国面临更多的限制。《中国日报》援引工信部软件服务业司司长陈伟的话<a target="_blank" href="http://www.chinadaily.com.cn/cndy/2015-05/28/content_20840514.htm"><u>报道</u></a>（付费墙，Google<a target="_blank" href="http://webcache.googleusercontent.com/search?q=cache:VdB21szSrO8J:usa.chinadaily.com.cn/epaper/2015-05/28/content_20845386.htm+&amp;cd=2&amp;hl=zh-CN&amp;ct=clnk"><u>快照</u></a>），十三五计划（2016-2020）将包含信息安全计划，该计划旨在加强政府部门、国有企业和金融机构所使用软件的安全性。计划将突出强调关键技术的国内开发和控制，其细节尚未披露。陈伟说，他们期望未来五年国内先进软件的开发将会取得突破。根据工信部提供的数据，WPS Office以及其他国有办公软件产品占到了去年政府部门采购的三分之二。陈伟称，中国的目标是提升基础软件如操作系统和数据库的开发能力。他说，在基础软件市场国内软件占了不到三成。Forrester Research的分析师Charlie Dai说，国外企业应加深与现有合作伙伴的合作，增加团队合作和专利转让。
+➜中国发现首例MERS确诊病例
+https://www.solidot.org/story?sid=44251	37651
+国家卫计委员会官网发表<a target="_blank" href="http://www.nhfpc.gov.cn/yjb/s3586/201505/eed09df7a9a847559be7f2e0e575fa21.shtml"><u>通报</u></a>，广东惠州市出现首例输入性中东呼吸综合征（MERS）确诊病例。患者为韩国男性，系韩国MERS病例的密切接触者。26日乘坐OZ723航班抵达香港，经深圳沙头角口岸入境惠州。该男子已被隔离治疗。截至目前，该病例的38名密切接触者未发现异常。2012年9月，沙特的一位病毒学家在一位患急性肺炎和肾衰竭的病人身上发现了一种新型冠状病毒。MERS之后开始在中东地区蔓延。至今MERS造成400多人死亡，死亡率40%。<span id="articleText">韩国首例MERS患者是一名68岁男子，曾在四五月份去过巴林，并经卡塔尔返回韩国。中国的首例</span><span id="articleText">MERS</span><span id="articleText">患者正是<a target="_blank" href="http://cn.reuters.com/article/2015/05/28/health-mers-southkorea-idCNKBS0OD07A20150528"><u>这名男子的儿子</u></a>。</span>
+➜LibreOffice Viewer for Android发布
+https://www.solidot.org/story?sid=44252	39266
+The Document Foundation<a target="_blank" href="http://blog.documentfoundation.org/2015/05/28/the-document-foundation-announces-libreoffice-viewer-for-android/"><u>宣布</u></a>发布了在Android上浏览ODF文档的应用<a target="_blank" href="http://www.libreoffice.org/download/android-viewer"><u>LibreOffice Viewer for Android</u></a>。用户可以在直接在Google Play Store上安装该应用，或者到官网地址下载APK文件。除了浏览ODF文档外，LibreOffice Viewer还提供了简单的编辑功能，像修改现有段落中的单词，或者修改字体样式如粗体和斜体。编辑功能仍然是实验性的，还不足够稳定，未来它会提供更完整的编辑功能。
+➜Android不是一个商业成功的产品？
+https://www.solidot.org/story?sid=44253	42432
+Google主席Eric Schmidt曾开玩笑的说，他根本就没有注意到Larry Page和Sergey Brin收购了Android公司。如今Android已被视为是Google的未来，是Google I/0开发者大会的焦点，去年出售的Android设备超过10亿部，它是至今最流行的操作系统。但《纽约时报》的一篇<a target="_blank" href="http://www.nytimes.com/2015/05/28/technology/personaltech/a-murky-road-ahead-for-android-despite-market-dominance.html?ref=technology"><u>文章</u></a>认为，对Google而言Android不是一个商业上成功的产品，理由是苹果获取了90%的智能手机市场利润。Google的大部分收入来自广告，而Android的广告价值远不如苹果的iOS，因为苹果用户通常被认为更愿意花钱，因此广告的价值更高。为成为iOS上的默认搜索引擎Google向苹果支付了数十亿美元，Google在苹果用户身上赚的钱可能比Android用户还要多。Andr​​oid还面临一个问题，即Andr​​oid用户可能会变成苹果用户。Tim Cook曾声称有大量用户在用了Andr​​oid手机后选择了苹果手机。调查发现，16%的用户在购买苹果设备前拥有Android设备。而在中国，这一比例高达29%。其他人<a target="_blank" href="http://tech.slashdot.org/story/15/05/28/0320249/the-tricky-road-ahead-for-android-gets-even-trickier"><u>认为</u></a>作者没有考虑到用户在Goolge眼里本身就是商品，越多人使用它受益越多，而用户对于苹果而言则是<u>顾客</u>。
+➜美国毒品中国制造
+https://www.solidot.org/story?sid=44254	43451
+今年3月，数十名从中国乘飞机来美国的旅客下了飞机，走进洛杉矶国际机场。但有一名乘客没能走到行李领取处，他是一名33岁的中国化学家。
+这个名叫田海军（音）的乘客在机场<a target="_blank" href="http://cn.nytimes.com/usa/20150529/c29arrest/"><u>被美国禁毒署特工逮捕</u></a>，一场精心策划的诱捕行动在此收网。这场行动的目的是阻止进口及销售“香料”。“香料”是一类看起来像是大麻的合成毒品的别称，这些毒品上会添加一种危险的致幻化学品，之后用于抽吸。
+美国禁毒署表示，田海军是制造“香料”所需的化学品的主要制造商和出口商。他的被逮捕突显了一种日益加剧的担忧，即由于中国的制药行业规模庞大，监管不力，中国可能会成为“香料”的主要产地，正如哥伦比亚或秘鲁之于可卡因，阿富汗之于海洛因。报告显示，自2009年以来，至少有1000名美国人死于吸食“香料”。
+➜丝绸之路站长被判终生监禁
+https://www.solidot.org/story?sid=44255	85961
+丝绸之路创始人Ross Ulbricht<a target="_blank" href="http://arstechnica.com/tech-policy/2015/05/ulbricht-at-sentencing-i-respect-the-law-and-its-authority/"><u>被判终生监禁</u></a>，他的毒贩指控的最小刑期是20年，但检方要求更长的刑期。在宣判前，Ulbricht做了长达20分钟的声明，请求法官宽大。他宣称自己已经变了，不再是那个创建丝绸之路的人了，他已经变得更成熟，更明智和更谦虚了。Ulbricht说，虽然他不认同他被定罪的法律，但他尊重法律和法律的权威。法官Katherine Forrest则给予了Ulbricht最严厉的惩罚，认为他所谓的丝绸之路减少伤害的论点是一种幻想。

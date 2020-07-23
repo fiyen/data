@@ -1,0 +1,60 @@
+➜Javascript 是一个错误吗？
+https://www.solidot.org/story?sid=7554	60
+<a href="http://www.comsharp.com/">35公里</a> 写道 "对 Web 标准的修订做得越多，Web 开发的正确方向越值得怀疑。<a href="http://www.infoworld.com/">InfoWorld</a> 的 <a href="http://weblog.infoworld.com/fatalexception/">Neil McAllister</a> 对 Web 开发的现状与未来<a href="http://weblog.infoworld.com/fatalexception/archives/2008/08/was_javascript.html">做了很好的思考</a>。
+<i>最近， <a href="https://mail.mozilla.org/pipermail/es-discuss/2008-August/003400.html">ECMAScript 4 标准被弃用</a> （请参阅：<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K463.aspx">Javascript 2 前途尘埃落定</a>），统一为 ECMAScript 3.1，如果任 ECMAScript 4 发展，Javascript 将带来巨大变化，Adobe 的 Ed Rowe 告诉作者，大部分人对 Javascript 一类语言存在障碍，这是为什么 Adobe 当初加入 ECMAScript 4 阵营的原因，Adobe 以及 ECMAScript 4 希望带来一些适于大规模程序的概念。然而，尽管大规模程序的开发对 Adobe 可能是好的，可以肯定它未必对任何人都可行，传统程序语言就是一个例子。对任何 Java 程序开发正规军来说，强类型，包装，以及命名空间尽管对维护大型程序来说可能很容易，但对 Web 程序员来说几乎没有什么用处，Web 程序员仅仅想通过编程对 UI 搞一点花样。</i>           事实上，ECMAScript 委员会想创造一种万能编程语言的初衷非常值得置疑，曾经，有一群非常聪明的人联合起来，想写一个终极语言，这种语言非常安全，有活力，且非常标准化，几乎没有需要解释的地方，这就是 Ada，现在没有人还记得 Ada，因为这种语言非常严格，缺乏灵活，人们宁愿使用 C。
+<br> <br>既然没有人能够创造一个终极的，完美的传统编程语言，又怎么能指望我们可以为 Web 创造一个这样的语言？我们越多讨论大规模 Web 程序，越应该知道，单一的编程语言将永远无法适合任何工作。
+<br> <br>作者非常喜欢 Model-View-Controller 设计模式，然而这个模式并不适合于任何场合，不过这个模式可以为程序开发提供一套指南，总体上说，Model-View-Controller 的核心是从数据层，业务逻辑层，分离展示层。浏览器可以算作 View （展示层），我们不应强迫它同时成为业务逻辑层。
+<br> <br>自从有了 Javascript，我们对它的指望越来越多，企图用它来创建整个程序，事实上，Javascript 不可能适合任何任务。我们不应该将越来越多的业务功能硬塞进浏览器，应该让浏览器专心作展示，而在其它地方展开业务逻辑。
+<br> <br>比如，插件。当然，很多 Web 开发者会告诉你插件不是好东西，每次你强迫用户下载安装插件，都相当于在你的代码前面设置了障碍，事实是这样吗？
+<br> <br>早期的插件绝大多数用来提供多媒体功能，很快就成为在线营销工具，那时，人们使用拨号上网，但很少有人怀疑人们对插件的耐心。
+<br> <br>现在的例子是 Google Gears，一次性安装 Google Gears，任何基于 Google Gears 的程序都获得额外的功能。目前，基于 Google Gears 的站点不仅包含 Goolge Docs 与 Google Reader，也包含 MySpace, Picasa 甚至 Wordpress。
+<br> <br>人们倾向于 Google Gears 的离线运行 Web 程序的能力，却忽视了 WorkerPool 模块，WorkerPool 允许 Javascript 在后台执行，独立于网页代码。WorkerPool 是独立的代码执行引擎，只不过刚好象普通浏览器那样运行相同的 Javascript 代码。
+<br> <br>为什么要用 JavaScript，而不是 Python, Lisp 或其它。如果有一种应用有足够的说服力，就有足够的动力将它设计成插件，尤其是在现在的宽带世界。这样的例子已经存在，Adobe 的 Flash 插件就可以执行  ECMAScript 4 标准的脚本，其它平台还包括 Curl 与 REBOL。
+<br> <br>作为 Web 开发者，我们羞于选择其它道路，只是在无休止地对 JavaScript 进行改进和标准化。因为那是 Web 标准，我们告诉自己，JavaScript 是一个纯净的选项。
+<br> <br>但如果只拘泥于单一的方式，我们为什么还要费这番力气？我们已经拥有一个功能齐备的客户端做任何事情，从数据库，到 e-mail，它已经安装到成千上万的企业，这就是 Lotus Notes。
+<br> <br>这就是我们前进的方向？这就是将来的浏览器模型？或者，对 Web 开发界来说，我们是否应该跳出这个圈子思考问题？
+➜如果看见四维物体
+https://www.solidot.org/story?sid=7555	2160
+认为处于三维世界的人类不可能看见四维物体吗？这儿有几个视频可以帮助你，数学家们突破自身的限制，通过了合理的想象<a href="http://www.sciencenews.org/view/generic/id/35740/title/Seeing_in_four_dimensions">描绘了多维世界的物体</a>。<i>他们首先想象了二维世界的生物是如何看待世界，就像19世纪的<a href="http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott">Edwin Abbott</a>在《<a href="http://www.gutenberg.org/etext/97">二维国：一个多维的传奇</a>》中所描述的那样——一个平面社会，其中的人物是三角形，正方形，圆和线段，主人公是一个六边形，通过不断对其他维数的了解而离开了平面。数学家所创造的视频其实就是几个月前提到的<a href="__SLASHLINK__" sect="science" sid="08/06/27/0056202" sn="article" tid="41">《维度》电影</a>。</i>
+➜科学家解决了黑洞周围的恒星形成之谜
+https://www.solidot.org/story?sid=7556	6300
+超大质量黑洞周围为何能形成恒星？其形成之谜迄今科学家未能理解，恒星形成的气体云本应该会被黑洞巨大的引力吸走。根据发表在最新一期《科学》杂志上的论文（<a href="http://www.sciencemag.org/cgi/content/abstract/321/5892/1060">摘要</a>），科学家使用了超级计算机的一年计算时间，<a href="http://www.stfc.ac.uk/PMC/PRel/STFC/YoungStars.aspx">解开了恒星为何能在黑洞的引力范围内产生的谜团</a>。以下引自<a href="http://only-perception.blogspot.com/2008/08/blog-post_271.html">Only Perception</a>：<i>
+天文学家在银河超大质量黑洞周围观察到了数百颗年轻的高质量恒星，它们的轨道呈椭圆形，这是近年天体物理学中最令人振奋的发现之一，科学家推测此种恒星的形成需要大量的气体云。他们使用计算机模拟了两个独立的、质量达到太阳10万倍的气体云的演化，它们正向黑洞坠落。模拟显示了气体云如何被黑洞的巨大引力拉开。当这些分裂的星云绕行黑洞时，形成了<a href="http://www.stfc.ac.uk/resources/image/SolarMass.jpg">螺旋形样式</a>；它们从那些接近通过黑洞的气体移除动能，并将其转移到在较远之处通过的气体。这允许部份的星云被黑洞捕捉而让其他逃脱。在这些情况中，只有高质量恒星能够形成，而且这些恒星继承了来自于椭圆形圆盘的偏心轨道。</i>
+➜清华大学网站被黑，黑客宣称大学就是“在往学生们的脑子里灌屎”
+https://www.solidot.org/story?sid=7557	7800
+清华大学网站<a href="http://news.tsinghua.edu.cn/new/news.php?id=18735">被黑</a>，黑客宣称现行的大学教育制度就是“<a href="http://fishy.buddie5.com/item/674">在往学生们的脑子里灌屎</a>”。黑客捏造了一篇清华大学校长顾秉林接受采访的新闻报道，批评现行教育制度：<i>顾秉林校长表示，在二十世纪初至40年代，可以说是中国教育界的黄金时期，在这段时间以内中国的大学为社会培养出了大批的优秀人才，他们中有伟大的思想家、教育家，有革命义士、抗日英雄，有科学骨干、民族精英。而这种盛况自从解放后尤其是九十年代开始衰落。现在的各高校，包括清华与北大在内，已经没有将培养人才作为大学教育的目标。严重的学术腐败，枯燥且与社会脱节的课程，死记硬背的教育方式，将导致学生们的思想僵化，对课程失去兴趣，对大学乃至整个中国的教育失去信心，退学正是表达他们对大学教育失望的最极端方式.......顾秉林先生表示，中国的高等教育体制改革势在必行，“应该停止再扼杀人才了！应该停止再向学生们的脑子里灌屎了！”</i>
+➜GNOME Do 0.6.0 发布
+https://www.solidot.org/story?sid=7558	14160
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道<i> "<a href="https://wiki.ubuntu.com/GnomeDo">GNOME Do</a>是 Linux 操作系统中与 MAC 平台下的<a href="http://www.blacktree.com//"> Quicksilver</a>极为相似的一个软件，其开发的灵感也是源于 Quicksilver , 你通过 GNOME Do 来快速启动你想打开的应用程序、登录你的Gmail、播放你喜欢的音乐、打你想要去的网站、与你通信录中的好友进行聊天等等。总之，它的作用就找你很方便地查找到你要用的，并且快捷地启动。现在，<a href="http://www.ownlinux.cn/2008/08/24/gnome-do-060-released/">GNOME Do 0.6.0 已经发布了</a>，GNOME Do 0.6.0 是一个稳定的版本。</i> <a href="https://wiki.ubuntu.com/GnomeDo/Installation">安装指南</a>
+➜对比Puppy, CDLinux, DSL, Slitaz 四大迷你系统
+https://www.solidot.org/story?sid=7559	16500
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "近日，国家加大了对软件盗版的打击力度，XX花园、XX家园、XX论坛都进入改版或维护之中。DB没得用了？别了我亲爱的盖子！别伤心，我们还有 Linux呢。Linux是开源系统，免费、自由、安全，down下来都是正版，不会有知识产权等问题。如果说使用Win感觉象客人或小偷，那么用Linux你就会找到主人的感觉了。目前国内的红旗Linux、共创linux、新华linux都不错，但对于初次尝试linux的朋友来说，个头还是有点大（一般都要好几个CD）。既然大餐一时难以享用，先来四盘小菜尝尝鲜也不错。下面这四个迷你linux系统，个头都在100MB以下，下载下来后，一般情况下可以在15分钟内搞定安装和基本配置。<a href="http://www.ownlinux.cn/2008/08/24/puppy-cdlinux-damnsmal-slitaz-mimi-linux-os/">四个迷你linux系统分别是</a>：<a href="http://puppy.cnbits.com/">Puppy</a>（中文版），<a href="http://cdlinux.berlios.de/">CDlinux</a>，<a href="http://www.damnsmalllinux.org/">DamnSmall</a>，<a href="http://www.slitaz.org/">Slitaz</a>。"
+➜FSF赞助的发行版gNewSense 2.1发布
+https://www.solidot.org/story?sid=7561	18720
+gNewSense，自由软件基金会（FSF）推荐的<a href="http://www.gnu.org/links/links.html#FreeGNULinuxDistributions">完全自由的GNU/Linux发行版</a>，发布了<a href="http://lists.gnu.org/archive/html/gnewsense-users/2008-08/msg00069.html">2.1 live CD</a>(<a href="http://torrent.gnewsense.org/gnewsense-livecd-deltah-2.1.iso.torrent">torrent</a>)。gNewSense 2.1 DeltaH基于Ubuntu Hardy，移除了其中的<a href="http://www.gnewsense.org/index.php?n=FAQ.FAQ#toc3">非自由软件和非自由驱动</a>。2.1版是gNewSense发布的第10个版本，正好也是<a href="http://www.mail-archive.com/gnewsense-users@nongnu.org/msg03872.html">第一个版本发布2周年</a>。<i>新版与<a href="__SLASHLINK__" sect="linux" sid="08/05/02/0950217" sn="article" tid="44">2.0版</a>的区别是：清除了Linux-ubuntu-modules中的非自由Blobs，加入Usplash，新主题和图案，LiveCD sudo不再询问密码，以及许多修正。</i>
+➜Ubuntu Eee 8.04.1 RC 发布
+https://www.solidot.org/story?sid=7560	19680
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道<i> "华硕 Eee PC 自带的是 Xandros Linux ，从功能和易用性来说和 Ubuntu 都有一定的差距，然后安装 Windows XP 对 华硕 Eee PC 来说略显吃力。 Ubuntu Eee 是一个非常不用的选择。自从上个月 Ubuntu 8.04.1 发布后，基于 Ubuntu 的发行都纷纷发布了 基于 Ubuntu 8.04.1 的版本，<a href="http://www.ownlinux.cn/2008/08/25/ubuntu-eee-8041-rc-released/">当然 Ubuntu Eee 也跟进了步伐。</a>"</i>
+➜土卫六泰坦或许适合嗜极生物生存
+https://www.solidot.org/story?sid=7562	20400
+一项新的研究指出，<a href="http://www.astrobio.net/news/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=2841">嗜极微生物或许能在泰坦上生存</a>。<i> <a href="http://zh.wikipedia.org/w/index.php?title=%E5%9C%9F%E5%8D%AB%E5%85%AD&amp;variant=zh-cn">泰坦</a>是土星的第六颗也是最大的一颗卫星，它还是太阳系唯一拥有浓厚大气层的卫星，泰坦星的表面覆盖了厚冰和<a href="http://news.bbc.co.uk/2/hi/science/nature/6230381.stm">液体甲烷湖</a>。现在泰坦加入了<a href="http://science.slashdot.org/article.pl?sid=08/06/26/2123256&amp;tid=226">火星</a>，<a href="http://www.space.com/scienceastronomy/080811-mm-venus-microbes.html">金星</a>，<a href="http://www.sciencedaily.com/releases/2008/08/080806210116.htm">木卫二欧罗巴</a>，<a href="http://www.astrobio.net/news/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=2669&amp;mode=thread&amp;order=0&amp;thold=0">土卫二</a>(Enceladus)的队列，成为太阳系中潜在的嗜极微生物（<a href="http://en.wikipedia.org/wiki/Extremophile">extremophile</a>）之家。</i>
+➜世贸中心7号楼倒塌原因是火灾
+https://www.solidot.org/story?sid=7563	23400
+<a href="http://zh.wikipedia.org/w/index.php?title=%E4%B9%9D%E4%B8%80%E4%B8%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6&amp;variant=zh-cn">911袭击</a>中，纽约的世界贸易中心除了被飞机直接撞击的双塔倒掉之外，还有一座47层高的7号楼也被余波波及并最终倒塌。关于这座大厦倒塌的原因众说纷纭，甚至还有阴谋论称是某组织故意拆毁的。<i>美国国家标准和技术协会（<a href="http://www.nist.gov/">NIST</a>）经过3年的研究调查，刚刚发布了<a href="http://www.nist.gov/public_affairs/releases/wtc082108.html">世贸中心7号楼倒塌的分析报告</a>。主要结论是建筑物倒塌原因为火灾，而不是双塔碎片的破坏或者其它阴谋理论。世贸中心一号楼倒塌之后这座建筑物燃起了小火，不久后完全的烧毁了几层大楼。报告的重要发现是大楼倒塌是被横梁热膨胀诱发的，它导致了主结构支架的不均衡负荷，有限的几层地板的层叠塌陷引发了横向支承力的缺乏，使立柱弯曲，这诱使建筑物核心结构的崩溃，最终整座大厦倒塌。</i>NIST还发布了<a href="http://www.nist.gov/public_affairs/releases/wtc_videos/wtc_videos.html">模拟视频</a>。
+➜多种加密技术面临攻击
+https://www.solidot.org/story?sid=7564	27720
+<a href="http://en.wikipedia.org/wiki/Adi_Shamir">Adi Shamir</a>，图灵奖获得者，同时也是<a href="http://zh.wikipedia.org/wiki/RSA">RSA</a>公钥加密技术中的“S”，最近在<a href="http://www.iacr.org/conferences/crypto2008/">Crypto 2008</a>大会上介绍了一篇论文，声称<a href="http://www.computerworld.com.au/index.php/id;1395888957%20;fp;16;fpid;1">一种新的密码分析技术能攻击范围广泛的加密方法</a>。Shamir的论文还没有公开。<i>
+新的攻击可能影响到<a href="http://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8">哈希函数</a>（如MD5，SHA-256），<a href="http://en.wikipedia.org/wiki/Stream_cipher">流密码</a>（如RC4），<a href="http://en.wikipedia.org/wiki/Block_cipher">分组密码</a>（如DES，Triple-DES，AES）。这种新的密码分析方法称为“cube attacks”，基于代数密码分析学。暂时还不会对上述列出加密方法有效，但它提供了一种新形式的攻击方法。</i>
+密码专家Bruce Schneier在博客上称，这种攻击<a href="http://www.schneier.com/blog/archives/2008/08/adi_shamirs_cub.html">不适用于任何分组密码</a>。
+➜Nvidia称Intel的Larrabee是“来自2006年的GPU”
+https://www.solidot.org/story?sid=7565	30600
+Nvidia<a href="http://www.pcpro.co.uk/news/220947/nvision-larrabee-like-a-gpu-from-2006.html">给予了Intel的独立显卡Larrabee以尖锐的批评</a>，将多核CPU/GPU描述成痴心妄想，同时也承认需要追赶上AMD目前的Radeon显卡。<i>
+John Mottram，GT200核心的主架构师，对Intel Larrabee显卡的真实性能表达了怀疑，他称，“Intel不是一家愚蠢的公司，他们在上面投入了很多人力，相信它是切实可行的。但是我们的产品线比他们描绘的更有竞争力，现实并没有他们设想的那么乐观。”博客和CPU架构师Peter Glaskowsky说，2010年推出的Larrabee在性能上只相当于2006年的Nvidia或ATI显卡。Mottram是在一年一度的Nvision大会在周一开幕之前发表了这番言论，他同时承认Nvidia低估了ATI的产品。</i>
+➜Google 正迁移 Jaiku 到己方平台
+https://www.solidot.org/story?sid=7566	33000
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.jaiku.com/">Jaiku</a> Down 机了，据说 <a href="http://jaikuinvites.com/jaiku-is-now-on-the-google-app-engine/">Google 最终决定将 Jaiku 迁移到 Google 自己的 App Engine 平台</a>，Google 官方并没有关于此事的说法，但他们的<a href="http://blogs.zdnet.com/Google/?p=1124">网站解释说是服务器维护</a>。
+<i>什么是 Jaiku, Jaiku 类似于 <a href="http://www.twitter.com/">Twitter</a>，由 Google 拥有并维护，Jaiku 的主要目标是让人们相互靠得更近，Jaiku 让用户共享他们当前的状态，就是将他们每天的活动与琐事发到 Jaiku 上面，通过即时消息与短信与其他用户分享。Google 收购 Jaiku 之后，曾有一段时间似乎忘记了这个产品（Google 经常这样 - 译者），Twitter 受 Down 机之累期间，Google 似乎也没有立即抓住那个机会大力推广 Jaiku。
+很快，我们将看到新的 Jaiku，由 Google 自己的 App Engine 托管的 Jaiku。即使服务内容并未改变，相信其稳定性与可靠性会大大增强。 <a href="http://www.flickr.com/photos/ciaranr/2789720965/">tarceroute</a> 报告可以证明 Jaiku 确实已经由 Google 自己托管。</i>
+➜“最年轻行星”可能只是“恒星上的斑点”
+https://www.solidot.org/story?sid=7567	33600
+今年一月，天文学家<a href="__SLASHLINK__" sect="science" sid="08/01/04/0729203" sn="article" tid="102">报道</a>，在恒星 TW Hydrae周围的宇宙尘埃和气体中探测到<a href="http://www.dailymail.co.uk/sciencetech/article-505817/Astronomers-identify-youngest-planet-discovered.html">一颗为木星质量6倍的最年轻行星</a>，而恒星TW Hydrae年龄仅仅为800万到1000万年。现在，一个西班牙研究小组得出结论，<a href="http://arxiv.org/abs/0808.2386">类似木星的气体行星并不存在</a>，恒星表面的冷点实际上是亮度下降产生的，而不是一颗凌日行星（transiting planet）。

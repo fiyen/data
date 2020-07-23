@@ -1,0 +1,57 @@
+➜招一名软件工程师的平均时间： 35天
+https://www.solidot.org/story?sid=44570	8554
+<a href="/~HighRise">HighRise</a> 写道<i> "尽管对软件工程师（各类）的需求一直居高不下，但是招聘一名软件工程师的过程<a target="_blank" href="http://developers.slashdot.org/story/15/06/25/2121204/average-duration-of-hiring-process-for-software-engineers-35-days"><u>仍然是令人心力交瘁的长</u></a>：平均35天。
+这是职业网站 Glassdoor 的<a target="_blank" href="http://www.glassdoor.com/research/studies/time-to-hire-study/"><u>最新研究结果</u></a>。 该研究由Glassdoor的首席经济学家(Chief Economist)Andrew Chamberlain博士主导。
+他分析了2009年到2015年2月期间提交到Glassdoor网站上的信息，这包括 340,000
+场面试的复审，涵盖了74,000种职位（非重复）。Andrew Chamberlain发现，从2010至今平均招聘时间变长了80%（从12.6天变为22.9天）。
+这一飞速增长最大的原因是面试环节变得复杂了，五花八门，无所不包：
+从传统的背景调查、技能测试，发展到毒品测试（药检）、品格测试等。"</i>
+➜Atom 1.0发布
+https://www.solidot.org/story?sid=44571	12427
+GitHub主导开发的开源编辑器项目Atom正式<a target="_blank" href="http://blog.atom.io/2015/06/25/atom-1-0.html"><u>发布了1.0版</u></a>。GitHub于去年2月宣布Atom的封闭测试，至今它已被下载了130万次，每月活跃用户35万，并成为多个编辑器的基础，如微软的Visual Studio Code。围绕Atom而建立起来的社区开发了660个主题和2090个软件包。Atom是基于Chromium，整合了Node.js，它不是一个轻量级的编辑器，但开发者表示Atom的滚动、输入和启动时间都比以前更快了。
+➜美国国家情报局局长认为中国是联邦人事局黑客攻击的主要嫌疑人
+https://www.solidot.org/story?sid=44572	14091
+《华尔街日报》<a target="_blank" href="http://www.wsj.com/articles/SB10007111583511843695404581069863170899504"><u>报道</u></a>（付费墙），美国最高级别的情报官员公开声明中国是联邦人事局雇员数据窃取事件的主要嫌疑人。联邦人事局估计有多达1800万现任和前任联邦雇员的敏感信息遭到窃取。此前美国政府官员只是私下表示中国是主要嫌疑人，没有公开指责中国。国家情报局局长James Clapper在一个华盛顿的情报会议上说：“考虑到这一黑客攻击的难度，你不得不在某种程度上要佩服中国人。”他<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/06/150625_us_china_hacking"><u>指出</u></a>，入侵政府的网络系统，其难度非常大。
+➜Rust 1.1发布
+https://www.solidot.org/story?sid=44573	16168
+Rust编程语言项目采用六周的发布周期：在1.0稳定版发布六周之后它正式宣布了<a target="_blank" href="http://blog.rust-lang.org/2015/06/25/Rust-1.1.html"><u>1.1稳定版</u></a>和1.2的beta版。Rust 1.1的主要改进是编译时间，相比1.0版，1.1的编译时间减少了32%。另一个主要改进是编译中产生的错误信息。其它特性包括：新的std::fs API，支持musl，cargo rustc等等。1.2 beta版也将再次改进编译性能，测试显示它的编译时间又比1.1版减少了30%。Rust项目计划在六周之后发布1.2版的稳定版和1.3版的beta。
+➜即将到来的机器人反乌托邦
+https://www.solidot.org/story?sid=44574	19023
+“机器人革命”这个词会让人联想到一个与现在截然不同的未来，然而事实是革命已经发生了。今天，军用机器人已现身战场，无人机在天空中飞翔，无人驾驶汽车行驶在公路之上，远程呈现机器人让人可以在距离实际位置半个世界远的地方显身。有关人类与机器人互动增加对社会意味着什么这个问题，在更吸引人的技术进步面前，可能会让人感到扫兴。机器人代表政府、企业和普通人收集大量的真实世界数据，并作出解释和响应，无疑会促进人类生活。<a target="_blank" href="https://www.foreignaffairs.com/articles/2015-06-16/coming-robot-dystopia"><u>但也有可能性会变成反乌托邦</u></a>。好莱坞黑暗的未来幻想《黑客帝国》和《终结者》中蕴含着真理的种子：未来机器人技术涉及到的某些问题可能会导致人类的集体身份危机。想象一下，一个自适应机器人和人类主人生活和学习在一起，它的行为逐渐受到了环境的影响，如果它造成了伤害，谁应该负责？机器人本身？它的主人，还是它的程序员？它的行动除了由原始的计算机代码决定外，还包括了深度神经网络从多个来源的学习成果。
+➜中国互联网的权力游戏
+https://www.solidot.org/story?sid=44575	26087
+在中国，有一股影响广泛的力量，其触角几乎深入到每个人的生活。这股力量不是共产党，后者对人们日常生活的影响已经减弱——尽管这种影响是实实在在的——而且那些并不试图反抗当前制度的人几乎可以对之视而不见。
+如今，更具颠覆性且不容忽视的力量主要以三家大型互联网集团为代表，即百度阿里巴巴腾讯，合称BAT。当我们想到中国互联网时，我们往往想到国家通过审查制度施加的巨大影响。然而互联网也是一种解放力量，它正在释放创业活力，让市场力量进入经济的各个角落，扩大私营部门的作用，同时削弱根深蒂固的国有企业。即使是中国互联网先驱中最强悍的企业也并未在一个自由市场中运营。首先它们在长城防火墙背后经营业务，后者是一个为政治目的设置的屏障，但保护了中国企业免受来自Google、Twitter以及Facebook等企业的竞争。实际上，BAT三巨头与政府的关系如此密切，<a target="_blank" href="http://www.ftchinese.com/story/001062702?full=y"><u>以至于它们经常表现得像“准国企”</u></a>，甚至到了帮助形成规章的程度。
+➜苹果因南方联盟国旗帜封杀美国内战游戏
+https://www.solidot.org/story?sid=44576	27770
+如果你跟踪最近的美国新闻，你会知道1860年代的美国内战再次引起了关注和争论，争论的焦点是被打败的南方联盟国的旗帜。一位年轻白人枪杀了多名黑人，他手持南方联盟国旗帜的照片随后被媒体广泛报道。作为对此事件的回应，亚马逊和沃尔玛禁止销售任何与南方联盟国旗帜有关的商品，而苹果公司则干脆在其应用商店<a target="_blank" href="http://toucharcade.com/2015/06/25/apple-removes-confederate-flag/"><u>封杀了</u></a>任何与南方联盟国旗帜有关的应用，其中包括刻画美国内战历史的游戏，如《<a target="_blank" href="http://www.ultimategeneral.com/">Ultimate General: Gettysburg</a>》。 游戏开发商Game Labs在一份声明中说，我们无法改变历史，但我们能改变未来。它表示接受和理解苹果的决定。苹果在一份声明中说，他们封杀的是那些以冒犯或卑鄙的方式使用南方联盟国旗帜的应用。
+➜美国政府向Reason发传票要求提供匿名评论者身份
+https://www.solidot.org/story?sid=44577	31204
+自由意志论网站Reason最近收到美国联邦政府的<a target="_blank" href="http://reason.com/blog/2015/06/19/government-stifles-speech"><u>传票</u></a>，要求提供一篇博客文章中匿名评论者的身份信息。除了提供身份信息外，Reason<a target="_blank" href="http://popehat.com/2015/06/22/dojs-gag-order-on-reason-has-been-lifted-but-the-real-story-is-more-outrageous-than-we-thought/#more-24009"><u>还被封口</u></a>，禁止向律师之外的任何人谈论此事。Reason的编辑 Nick Gillespie质疑匿名评论者是否真的会对美国构成严重的危险。从发出传票到获得回应需要时间，事实上在网络上搜索你在几分钟内就能获得一些评论者的公开信息。
+➜牛津辞典加入色情短信和众筹等新词
+https://www.solidot.org/story?sid=44578	33969
+牛津辞典在<a target="_blank" href="http://public.oed.com/the-oed-today/recent-updates-to-the-oed/june-2015-update/"><u>最新的更新</u></a>中加入了大约500个单词和词组，其中包括了色情短信（sexting）、众筹（crowdfunding）、推特精英（twitterari）等。牛津辞典每年定期更新词汇，以<a target="_blank" href="http://arstechnica.com/the-multiverse/2015/06/sexting-crowdfunding-and-twitterari-hit-oxford-english-dictionary/"><u>反映英语在21世纪的演化</u></a>，大部分新增加的单词和词组都与科技和数字文化相关，比如自动调谐、环保猪、电子皮肤、网民、JavaScript、上网本、页面访问量、SD卡、发推、拇指驱动器，等等。新增词组包括了网址、网络过滤、网上论坛，等等。
+➜中国查扣有最长40年历史的冻肉
+https://www.solidot.org/story?sid=44579	34392
+“如果你还没有把元素周期表上的所有东西都尝过一遍，就不要说自己是中国人，”中国人用这句俗话暗示近年来的一连串食品安全丑闻。最新的一个丑闻是：据官方通讯社新华社报道，<a target="_blank" href="http://cn.nytimes.com/china/20150625/c25sino-meat/"><u>中国查获了10万吨走私冻肉</u></a>，其中一些是40多年前生产的。海关在14个省和地区开展的行动中，发现了货值超过30亿元人民币的鸡翅、牛肉和猪肉等冻品，已有20人遭到逮捕。“理论上讲，中国有严格的食品安全法规，但问题往往出在执行上，”香港中文大学食品及营养科学学科主任张志强在接受采访时说。“我自己不会在网上购买肉类。”
+➜铃木裕澄清《莎木三》众筹中的混乱信息
+https://www.solidot.org/story?sid=44580	35971
+<div align="center"><img src="http://img.solidot.com.cn/0/824/liGxJmCBzxe5U.png" align="" width="480" height="360"><br>
+<br>
+</div>
+《莎木三》的<a target="_blank" href="https://www.kickstarter.com/projects/ysnet/shenmue-3"><u>众筹活动</u></a>是在索尼的E3新闻发布会上宣布的，索尼公司随后也证实它会资助《莎木三》的开发，众筹主要是了解玩家对游戏的兴趣。《莎木》系列的制作人铃木裕在reddit的AMA上<a target="_blank" href="http://www.reddit.com/r/IAmA/comments/3ahcwf/i_am_yu_suzuki_new_posting/cscnel3"><u>回答了玩家的提问</u></a>，<a target="_blank" href="http://arstechnica.com/gaming/2015/06/shenmue-3-creator-yu-suzuki-tries-to-clarify-crowdfunding-kerfuffle/"><u>试图澄清</u></a>《莎木三》众筹中的混乱信息。《莎木》是最早的开放世界游戏之一，而众所周知开发一款开放世界的成本不菲。铃木裕承认200万美元根本不足以开发《莎木三》这样规模的游戏，要知道15年前的《莎木》的制作费用就高达4700万美元。他说，<a target="_blank" href="https://www.kickstarter.com/projects/ysnet/shenmue-3/posts/1273833"><u>至少需要1000万美元</u></a>才能让《莎木三》真正拥有开放世界的特征。目前《莎木三》共获得365万美元的资助承诺，1000万美元的目标很难达成。《莎木三》的开发显然需要外部资金的资助。
+➜腾讯移除手机QQ共享WiFi密码功能
+https://www.solidot.org/story?sid=44581	38102
+腾讯QQ Android版包含了共享WiFi密码功能，在遭到用户批评威胁隐私之后腾讯宣布<a target="_blank" href="http://tech.sina.com.cn/i/2015-06-26/doc-ifxemzau8641016.shtml"><u>移除这项功能</u></a>。Android用户发现，在参加手机QQ推出的“分享得好礼”的活动后，QQ会自动分享用户家里的WiFi密码，而且WiFi的SSID和MAC地址也会被直接上传QQ服务器。而想要将自家的WiFi密码从腾讯服务器上删除，则要给公司客服发邮件，且要等到半个月之后才能解决问题。在接到大量用户投诉后，手机QQ移除了该功能，取消了分享得好礼的活动。在这之前，小米的WiFi密码自助分享功能也在遭到用户的批评之后取消。
+➜DuckDuckGo每日搜索量突破一千万次
+https://www.solidot.org/story?sid=44582	39843
+匿名搜索引擎DuckDuckGo<a target="_blank" href="https://duck.co/blog/post/176/-why-duckduckgo-is-giving-away-shirts"><u>宣布</u></a>它的每日搜索量首次突破一千万次。相比之下Google的日均搜索量是大约43亿次。DuckDuckGo说，如今切换到DuckDuckGo比以前更容易，浏览器如Safari和Firefox都内置了DuckDuckGo搜索选项。DuckDuckGo默认启用HTTPS加密搜索，不记录用户的搜索内容，在Snowden曝光NSA大规模监视后日益受到欢迎。皮尤研究中心最近公布的<a target="_blank" href="http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/"><u>调查</u></a>发现，40%的美国人认为搜索引擎供应商不应该保留他们活动的信息。
+➜法国下令查封UberPOP
+https://www.solidot.org/story?sid=44583	41641
+在法国出租车司机周四（暴力）抗议打车软件Uber之后，法国内政部长以非法为由<a target="_blank" href="http://edition.cnn.com/2015/06/25/europe/france-paris-uberpop-protests/"><u>下令关闭UberPOP</u></a>。法国政府先前对这家美国打车软件公司在法国扩展UberPOP业务并不支持，但也没有强行禁止。法国出租车司机需要付数千欧元才能获得开出租执照，但Uber可以低成本与之竞争。投诉Uber公司的法律案件有近500起，最近几周还有大约100名Uber出租司机和乘客受到攻击的报告。出租汽车司机感到非常愤怒，他们要求政府有效执行禁止没有出租执照司机的运营。法国出租司机说由于<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/06/150626_france_uber_ban"><u>Uber抢他们的生意</u></a>，他们的收入降低了30%到40%。
+➜是时候改变BGP了
+https://www.solidot.org/story?sid=44584	44162
+过去5年发生的诸多事件完美的展示了BGP出错会发生什么。无论是恶意攻击还是失误而导致路由信息泄露，我们每一个人都会受到影响。BGP有能力在短时间内影响几乎所有的大型互联网服务。BGP是基于供应商之间的信任，而不是基于安全。前不久，马来西亚的一家ISP错误的向外通告了它的路由策略，Tier 1 供应商Level3错误接受了这个通告，将互联网流量重定向流经这家马来西亚的网络，其流量超过了这家ISP能处理的能力，导致 Snapchat、Skype和 Google等服务在3个小时内出现性能问题。这只是路由劫持和泄露的一个例子，<a target="_blank" href="https://blog.opendns.com/2015/06/25/bgp-and-the-system-of-trust-that-runs-the-internet-pt-2/"><u>但要修正BGP错误并不是简单的事情</u></a>。
+➜数学焦虑症
+https://www.solidot.org/story?sid=44585	44832
+<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2015/06/150625_vert_fut_maths_anxiety"><u>数学焦虑症</u></a>是一种对数字的恐惧。研究发现，虽然数学并不会带来真正的危险，但它会引发一种真实的身体反应，包括释放出应激激素，比如皮质醇，这些激素是典型的会引起争斗或争斗反应的物质。一项研究甚至发现一次数学测试会激活大脑中的疼痛脑网络”——一旦你自己受到了伤害，大脑的这块区域就会活跃起来。我们并不清楚为什么同地理相比数学会引起这么大的恐惧感。数学中只有对与错，没有任何可以欺骗的余地，这一事实可能会让你担忧自己表现不佳。这种感觉同其他的恐惧感一样，经常不为人所发现，并可能导致你的失败。对七到九岁的美国孩子的大脑脑扫描，对数学尤为恐惧的孩子的扁桃体区域非常活跃——这一区域一般负责处理对威胁的反应；恐惧还会抑制前额皮质的活动——而前额皮质主要负责大脑中抽象过程的进行。

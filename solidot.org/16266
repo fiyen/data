@@ -1,0 +1,61 @@
+➜Hidden From Google记住被Google遗忘的网页
+https://www.solidot.org/story?sid=40332	8753
+在欧盟法院裁决允许个人在特定情况下要求搜索引擎删除指向个人信息的链接后，Google上个月开始执行所谓的“被遗忘权”，但Google在删除链接的同时会通知相关网站，网站随后的报道又曝光了想要被遗忘的人。<a target="_blank" href="http://hiddenfromgoogle.com/"><u>Hidden From Google</u></a>建立了一个单一的网站，收录所有Google被要求删除的网页链接，人们现在可以知道哪些链接和哪些搜索关键词在欧盟遭到了审查。维基百科也在<a target="_blank" href="http://en.wikipedia.org/wiki/Censorship_by_Google"><u>Censorship by Google</u></a>条目中加入了申请被遗忘的人的信息。
+➜美国司法部宣称境外的服务器都是美国的
+https://www.solidot.org/story?sid=40333	10470
+美国司法部宣称微软公司必须交出储存在爱尔兰都柏林服务器上的电子邮件。奥巴马当局本质上是宣称任何在美国有业务的公司<a target="_blank" href="http://arstechnica.com/tech-policy/2014/07/obama-administration-says-the-worlds-servers-are-ours/"><u>都必须遵循有效的数据搜查令</u></a>，即使数据储存在美国境外的服务器上，而微软和苹果等公司此前所主张的美国法律只适用于美国境内的论点是错误的。一位美国地方法官在今年四月裁决微软有法律义务交出信息，而不管信息储存在哪个地方。微软提起了上诉，上诉听证会将在7月31日举行。司法部上周向法庭递交了陈辩书，认为线上内容不享有与线下内容相同的美国宪法第四修正案的保护。微软认为，议会并没有授权发出能延伸到境外的搜查令。
+➜Google Glass创始人跳槽到亚马逊
+https://www.solidot.org/story?sid=40334	12981
+Google Glass在今年的I/O开发者大会上几乎没有被提到，而Android Wear已经取代Glass成为Google的新宠，现在它的创始人Babak Parviz也离职<a target="_blank" href="http://arstechnica.com/gadgets/2014/07/founder-of-google-glass-leaves-for-amazon/"><u>加盟了亚马逊</u></a>。Parviz是在Google+上<a target="_blank" href="https://plus.google.com/100149980664588993669/posts/gWj6d17AiB7"><u>宣布</u></a>了他的离职，而Google+和Glass一样，未来充满了不确定性。Parviz除了创建Google Glass项目外，还领导了Google Contact——帮助糖尿病患者检测葡萄糖水平的隐形眼镜。
+➜LibreSSL的伪随机生成器不安全
+https://www.solidot.org/story?sid=40335	14195
+&nbsp;OpenSSL分支LibreSSL portable刚刚发布了第一个版本2.0.0（已更新到2.0.1），虽然版本号是2.0.0，但它只是一个预览版，不应该用于生产环境。测试已经发现，LibreSSL的伪随机生成器（PRNG）<a target="_blank" href="https://www.agwa.name/blog/post/libressls_prng_is_unsafe_on_linux"><u>存在安全漏洞</u></a>，安全性不如它fork的OpenSSL PRNG：OpenSSL PRNG的两次不同调用返回不同的结果，而LibreSSL PRNG的两次不同调用返回的却是相同结果，它检测fork()函数创建父进程克隆的机制存在安全漏洞。
+➜德国议会NSA调查委员会为安全着想考虑使用打字机
+https://www.solidot.org/story?sid=40336	16560
+德国议会正对NSA的监视活动展开调查，调查委员会主席Patrick Sensburg表示，出于安全着想他们正认真<a target="_blank" href="http://arstechnica.com/tech-policy/2014/07/in-the-name-of-security-german-nsa-committee-may-turn-to-typewriters/"><u>考虑使用手动打字机</u></a>。他说，他们非常严肃的对待安全问题，目前已经有了一台非电动打字机。俄罗斯联邦安全机构去年曾宣布为了防止数据泄露而采购德国制造的电动打字机。上周，德国间谍机构情报人员Markus R.因涉嫌向中情局出售情报<a target="_blank" href="http://www.solidot.org/story?sid=40216"><u>被捕</u></a>，中情局驻德国情报站站长因此遭到驱逐。除了打字机，Sensburg还表示要求对委员会成员的手机进行安全检查，因为之前一天德国议会两名成员的手机遭到了入侵。
+➜声称担心气候变化的人并没有削减能耗
+https://www.solidot.org/story?sid=40337	18946
+英国政府能源与气候变化部委托进行的一项研究<a target="_blank" href="http://www.telegraph.co.uk/earth/greenpolitics/10965887/People-who-claim-to-worry-about-climate-change-use-more-electricity.html"><u>发现</u></a>，声称担心气候变化的人并没有削减家里的电力使用；而担心气候变化的人比太遥远而不担心气候变化的人使用了更多电力；年龄超过65岁的人更节俭用电，更少担心全球变暖。<a target="_blank" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/326075/Electricity_Survey_2_-_Savings__beliefs__demographics_150514.pdf"><u>研究报告</u></a>(PDF)是基于家庭用电调查，由Loughborough大学和剑桥建筑研究的专家撰写。英国保守党议员认为，许多自称环保的人其实很虚伪。
+➜每天写一万篇维基百科文章的瑞典人
+https://www.solidot.org/story?sid=40338	24980
+瑞典Dalarna大学的Sverker Johansson可能是最多产的作者，但你有可能从未听说过他。过去7年，这位53岁的维基百科志愿者<a target="_blank" href="http://online.wsj.com/news/article_email/for-this-author-10-000-wikipedia-articles-is-a-good-days-work-1405305001-lMyQjAxMTA0MDEwMzExNDMyWj">贡献了270万篇文章</a>，远远超过任何人。但他创建文章的方法不受纯粹主义者的待见——绝大部分文章是用机器人程序<a target="_blank" href="https://sv.wikipedia.org/w/index.php?title=Special:Logg/Lsjbot"><u>Lsjbot</u></a>创建的。Johansson说，Lsjbot最多一天可以创建一万篇新条目。他贡献的文章三分之一是维基百科的瑞典语版本，其余是菲律宾语的两个版本——菲律宾语是他妻子的母语。41岁的德语维基百科爱好者Achim Raschka反对使用机器人生成内容，认为机器人内容对维基百科的读者和用户没有帮助。Raschka经常花几天时间写一个条目的深入文章。他认为机器人程序注重数量而不是质量，条目只包含最基本的信息。 Johansson承认他的机器人创建的条目可能很无趣，但坚持认为其中的信息仍然是有价值的。
+➜想象没有现金的未来
+https://www.solidot.org/story?sid=40339	27419
+想象一下在2020年，你去便利店买了一盒牛奶准备付钱，发现没带现金，卡也忘在家中。你伸出食指，绿光闪烁，付款完成。未来是否真的会出现这样的场景？Sage Pay公司CEO Simon Black相信科技的不断进步<a target="_blank" href="http://techcrunch.com/2014/07/12/money-at-our-fingertips/"><u>最终会宣判现金的死刑</u></a>（<a target="_blank" href="http://techcrunch.cn/2014/07/14/money-at-our-fingertips/"><u>中文</u></a>）。最近的研究显示，许多人认为在不远的将来，我们将完全停止使用纸币及硬币。新兴的支付技术快速改变着我们的生活方式。目前，在美国所有销售网点的交易中66%用卡完成，而在英国这一数字也将近50%。虽然离真正的无现金社会出现还有相当长的时间，但大量革命性技术的出现会让现金在不远的将来变得可有可无。许多人<a target="_blank" href="http://news.slashdot.org/story/14/07/13/2013250/predicting-a-future-free-of-dollar-bills"><u>认为</u></a>，没有现金的未来更有利于银行或支付公司，因为它们可以从每一笔交易中提取部分收入。
+➜新疆一地集中销毁2万盒火柴
+https://www.solidot.org/story?sid=40340	28979
+官方新华社引用当地公安局网站信息<a target="_blank" href="http://news.xinhuanet.com/mil/2014-07/15/c_126755805.htm"><u>报道</u></a>，昌吉回族自治州阜康市上周集中销毁查缴及群众主动上交的<a target="_blank" href="http://www.cjzga.gov.cn/html/article/62690/254941.shtml"><u>20223盒火柴</u></a>。报道称，“阜康市公安局结合严厉打击暴力恐怖专项行动，按照火柴尽快退出阜康市消费市场要求，逐户做好宣传告知工作并全力收缴现流通环节和群众持有的火柴，严防暴恐团伙、个人极端分子利用其实施犯罪活动，确保易制爆危险物品‘不漏管流失、不被盗被抢、不造成社会危害’。”今年5月，库尔勒市一家宾馆因给客人提供火柴<a target="_blank" href="http://news.ts.cn/content/2014-05/30/content_9718699.htm"><u>被责令整改</u></a>。
+➜微软对Chromebooks发起价格战
+https://www.solidot.org/story?sid=40341	30328
+微软准备对Google的廉价笔记本电脑Chromebooks<a target="_blank" href="http://www.theverge.com/2014/7/14/5897641/microsoft-launches-a-price-assault-on-chromebooks"><u>发起价格战</u></a>。在微软的合作伙伴会议上，首席运营官Kevin Turner透露，惠普公司计划在今年年底的假季推出运行Windows的199美元笔记本电脑。Turner没有透露惠普Stream设备的规格，但公开了宏碁和东芝249美元笔记本产品的细节：宏碁的廉价笔记本配备15.6英寸显示屏，2.16GHz英特尔赛扬处理器，而东芝的屏幕只有11.6英寸。Turner还表示，惠普将以99美元的价格推出7英寸和8英寸的Stream型号，它们都将预装Windows。微软在今年5月<a target="_blank" href="http://www.solidot.org/story?sid=39669"><u>宣布了</u></a>运行在廉价PC上的Windows 8.1 With Bing，上述廉价笔记本电脑应该都运行的是这款操作系统。
+➜研究发现密码管理工具的严重安全缺陷
+https://www.solidot.org/story?sid=40342	33943
+加州伯克利的研究人员发现了流行密码管理工具的<a target="_blank" href="http://arstechnica.com/security/2014/07/severe-password-manager-attacks-steal-digital-keys-and-data-en-masse/"><u>严重安全缺陷</u></a>。他们将在下个月举行的安全会议上公开<a target="_blank" href="http://devd.me/papers/pwdmgr-usenix14.pdf"><u>报告</u></a>（PDF）。<br>
+<i>研究人员检查了LastPass和其它四个基于Web的密码管理器，发现它们都存在致命缺陷，允许攻击者远程从用户密码库提取出明文密码。LastPass和三家密码管理器已经修正了漏洞。这一发现敲响了警钟，如果学术研究人员能找到破解密码管理器的方法，那么那些经常窃取用户银行账户的骇客应该也能做到。研究人员说，密码管理器的漏洞将允许攻击者一次性的窃取密码库中的所有密码，因此密码管理器的流行将恶化问题。他们在LastPass发现了一个最严重漏洞，密码管理器的书签功能用于自动在网站上填写密码，书签功能的一个bug允许一个网站上嵌入的恶意代码可以窃取其它网站的凭证。攻击者能利用该漏洞入侵使用LastPass登录的用户，只要用户点击书签，攻击者可悄悄窃取属于其它网站的明文密码。</i>
+➜Windows 9开始菜单曝光
+https://www.solidot.org/story?sid=40343	35323
+<div align="center"><img src="http://img.solidot.com.cn/0/438/liDTruEDrstTE.jpg" align="" height="302" width="480"><br>
+<br>
+</div>
+过去几天，Windows 9的一个早期版本的屏幕截图在网上<a target="_blank" href="http://www.extremetech.com/computing/186212-leaked-build-of-windows-9-shows-reborn-start-menu-metro-apps-running-on-the-desktop"><u>广泛流传</u></a>，其中一张截图展示了开始菜单——揉合Windows 7开始菜单和Windows 8磁贴风格，与微软在4月的Build大会演示的开始菜单基本相同，但略有变化；其它截图演示了运行在桌面窗口内的Metro应用。泄露的Windows 9的版本号是build 9788，编译时间2014年7月4日，Windows NT内核版本号 6.4.9788。其中一张截图打着Windows 8.1 Pro的水印，这在Windows的早期版本中并不罕见。这个版本应该就是明年发布的Windows 9而不是Windows 8.2。
+➜为什么DOS仍然重要
+https://www.solidot.org/story?sid=40344	37560
+20年前，大学物理专业的本科生Jim Hall发起了FreeDOS项目。他如今是Minnesota-Morris大学的IT总监，仍然积极参与该项目。他称，FreeDOS项目目前有30到50名活跃开发者。大部分开发者是出于智力挑战为FreeDOS做贡献，如向FreeDOS贡献内核的Pasquale "Pat" Villani曾是DEC、康柏和惠普的软件总工程师，常年在Unix操作系统上工作。<a target="_blank" href="http://arstechnica.com/information-technology/2014/07/it-may-be-barely-an-operating-system-but-dos-still-matters-to-some-people/#p3"><u>DOS仍然重要的一个原因</u></a>是它允许开发者接近硬件，FreeDOS比其它现代操作系统对虚拟化和硬件模拟更友好——它甚至成为 DOSEMU模拟器的核心。Jim Hall两年前分析了DOS用户群，发现DOS主要用于运行三类程序：旧的软件、经典DOS游戏和嵌入式系统。DOS的核心用户群比大多数人想象的要大得多，至今仍然有许多公司在为DOS开发程序，如National Health Systems仍然销售运行在DOS上的药房系统。FreeDOS不是市场上唯一的玩家，还有许多商业嵌入式DOS供应商出售他们的MS-DOS兼容操作系统，而微软还在向设备制造商供应MS-DOS的一个嵌入式版本。因为FreeDOS接近底层硬件，它被用于串行设备编程和驱动开发的教育工具，作为其它嵌入式DOS环境的开发平台。FreeDOS的资深开发者Eric Auer说，DOS是真正的经典，你可以在上面运行标准的编译器和编辑器。
+➜英国情报机构GCHQ如何在互联网上散播虚假信息
+https://www.solidot.org/story?sid=40345	42121
+<div align="center"><img src="http://img.solidot.com.cn/0/439/liv3J6oja8pEo.jpg" align="" height="231" width="560"><br>
+<br>
+</div>
+Glenn Greenwald根据前NSA合同工Edward Snowden提供的<a target="_blank" href="https://firstlook.org/theintercept/document/2014/07/14/jtrig-tools-techniques/"><u>机密文件</u></a>&nbsp; <a target="_blank" href="https://firstlook.org/theintercept/2014/07/14/manipulating-online-polls-ways-british-spies-seek-control-internet/"><u>报道</u></a>，英国情报机构GCHQ开发了秘密工具在互联网上散播虚假信息，包括操控在线投票结果，人为增加网页的PV数，放大YouTube上的制裁信息，审查被认为是极端主义的视频内容。这些工具由GCHQ的Joint Threat Research Intelligence Group(JTRIG)开发，包含了最惊人的宣传和互联网欺骗方法：改变投票结果（UNDERPASS）；破坏托管极端主义的视频网站(SILVERLORD)；记录Skype通话、即时信息和联系人列表(MINIATURE HERO)；永久性的关闭目标账户(ANGRY PIRATE)；人为增加网站流量(GATEWAY)和人为增加PV数(SLIPSTREAM)；监视目标使用 英国eBay的工具(ELATE)；伪装电子邮件地址发送邮件（CHANGELING）；等等。
+➜俄罗斯黑客组织入侵CNET，窃取百万用户信息
+https://www.solidot.org/story?sid=40346	43301
+<div align="center"><img src="http://img.solidot.com.cn/0/440/li3gb14llUq5E.jpg" align=""><br>
+<br>
+</div>
+自称w0rm的俄罗斯黑客组织<a target="_blank" href="http://www.bbc.com/news/technology-28289975"><u>入侵了CNET服务器</u></a>，窃取了一百多万用户的信息，包括用户名、加密密码和电子邮件地址。w0rm以1比特币的价格公开出售窃取的数据库文件。w0rm的代表称，他们是抱着改进互联网安全的伟大目的去入侵CNET服务器的，以知名网站为目标就是为了增强人们的安全意识。
+➜微软从新Lumias手机中移除Google搜索
+https://www.solidot.org/story?sid=40347	44894
+在最新的Lumias WP手机中，微软<a target="_blank" href="http://www.theverge.com/2014/7/15/5900895/microsoft-wont-let-you-set-google-default-search-new-lumias"><u>关闭了将Google设为默认搜索引擎的选项</u></a>。微软在今年4月完成对诺基亚手机业务的收购，之后发布的最新手机Lumia 630和Lumia 930，预装了Windows Phone 8.1，关闭了选项（部分欧洲型号仍然支持）。以前用户可以在WP手机上修改IE设置启用Google 搜索，但现在用户在IE上已经无法设置Google为默认搜索引擎。
+➜Google发布Project Zero
+https://www.solidot.org/story?sid=40348	53404
+<a href="http://www.devspaper.com">devspaper.com</a> 写道 <i>"Google在线安全Blog<a href="http://googleonlinesecurity.blogspot.com/2014/07/announcing-project-zero.html" target="_blank">宣布了Project Zero</a>，目的是方便黑客找出Google产品的Bug，减少Google产品对用户造成的安全隐患，并巧妙的通过这个平台招安到技术一流的黑客。"</i>

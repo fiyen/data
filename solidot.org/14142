@@ -1,0 +1,70 @@
+➜新一轮Javascript速度竞赛
+https://www.solidot.org/story?sid=7915	1500
+aaaa007cn 写道 <i>"<a href="http://webkit.org/blog/189/announcing-squirrelfish/">SquirrelFish</a> 发表3个月之后，今天，Apple 发表了他们新的 Javascript 引擎—— <a href="http://webkit.org/blog/214/introducing-squirrelfish-extreme/">SquirrelFish Extreme</a>（缩写为SFX）。按开发小组的说法，目前 SquirrelFish Extreme 比 SquirrelFish 快1倍，比 Safari3.0 快10倍，而且还有进步的空间。SquirrelFish Extreme 的进步的得益于4种技术：Bytecode Optimizations、Polymorphic Inline Cache、Context Threaded JIT、Regular Expression JIT。这里有两份测试报告：<a href="http://summerofjsc.blogspot.com/2008/09/squirrelfish-extreme-has-landed.html">1</a>、<a href="http://www.satine.org/archives/2008/09/19/squirrelfish-extreme-fastest-javascript-engine-yet/">2</a>，以 Apple 自家的 <a href="http://www2.webkit.org/perf/sunspider-0.9/sunspider.html">Sunspider</a> 为基准，结论（毫无悬念地）都是 SquirrelFish Extreme 快于 V8 快于 TraceMonkey。我试了一下 Google 的 <a href="http://code.google.com/apis/v8/benchmarks.html">V8 Benchmark Suite</a>，SquirrelFish Extreme 的得分远远超过了 Safari 3.1.2，和 Google Chrome 的不相上下。</i>要体验 SquirrelFish Extreme 请用今日的 <a href="http://nightly.webkit.org/">Nightly Build</a>（需要先行安装 Safari）"
+➜10个最好的照片分享网站
+https://www.solidot.org/story?sid=7916	5400
+<a href="http://www.comsharp.com/">35公里</a> 写道 "照片分享市场在稳步发展，新的服务层出不穷。<a href="http://www.readwriteweb.com/archives/photo_sharing_round_up.php">ReadWriteWeb 的编辑们为我们筛选了10个最好的照片分享网站</a>（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K518.aspx">翻译</a>），还提供了一个非常详细的功能分布表展示不同网站所提供的不同功能。
+<i>
+Flickr——在 Web 2.0 世界，Yahoo's  <a href="http://flickr.com/">Flickr</a> 可能是最知名的照片分享站点了（虽然被墙了）。就其社会和社区功能而言，没有哪个网站能出其右。但最近两年新功能不多，正被一些新的服务所赶超。不过，尽管 Flickr 没有空间限制，但你每个月只能上传100MB的文件。优点: 活跃的社区，方便的分享，群，RSS feed 等。缺点: 对主流用户来说稍嫌复杂。
+"</i>           Picasa Web Albums
+<br> <br>Google 的 <a href="http://picasaweb.google.com/home">Picasa Web  Albums</a> 因与 Picasa 紧密绑定而占了大便宜。Picasa 也是 Google 简单哲学的受益者，这个服务非常易用，最新的 Picasa Web Albums 升级包含了很多社会功能，但和 FLickr 比还略差一些。<br> <br> <b>优点</b>: 简单易用，面部识别，同 Picasa 集成<b>。<br>缺点</b>: 1GB容量限制。
+SmugMug
+<br> <br>如果你乐意花钱买一个照片分享服务，<a href="http://smugmug.com/">SmugMug</a> 是推荐人选，你的付出是值得的。该网站非常好用，还是为数不多的支持 RAW 格式的服务， SmugMug 对专业摄影师来说很有吸引力，它允许你为你的空间设定主题。在所有这些照片分享网站，SmugMug 提供主题模板最出色。<b> <br> <br>优点</b>: 容易使用，选项众多，功能丰富<b> <br>缺点</b>: 不免费
+Me.com
+<br> <br>苹果的 <a href="http://me.com/">Me.com</a> 有点另类。Me.com 是一个完整的产品套件，照片分享只是其功能的一小部分。同 iLife 紧密集成，但对 Windows 用户不太适合。这个站点设计出色，但功能有限（苹果一贯如此 - 译者）。<b> <br> <br>优点</b>: 同 OSX 以及 iLife 紧密集成，设计非常漂亮，易用。<b> <br>缺点</b>: 功能非常有限，几乎没有社会功能。
+Photobucket
+<br> <br> <a href="http://photobucket.com/">Photobucket</a> 非常受欢迎，但对免费帐户来说，限制实在很多。照片的尺寸不能高于 1027x768。它同 Facebook 集成，很适合大学生使用，但和 Flickr 相比还无法同日而语。<br> <br> <b>优点: </b>易用。很容易在社会网络站点中分享照片。<b> <br>缺点</b>: 广告太多，功能有限，没有上传客户端，免费帐户的限制更多。
+Kodak Gallery
+<br> <br> <a href="http://kodakgallery.com/">Kodak  Gallery</a> 主要面向照片打印服务。功能有限，但很容易上手。包含一些简单的编辑功能，如去红眼，边界效果等。当年只要在该站消费一次，就可以获得无限空间。优点: 易用，空间无限。缺点: 没有社会网络功能，分享功能有限。
+Shutterfly—— <a href="http://shutterfly.com/">Shutterfly</a> 同样面向照片打印市场，但功能更广一些，包括打印不感胶贴，书籍，卡片等。用户界面设计得也很出色。
+<br> <br> <b>优点</b>: 空间无限，打印选项众多，易用。<b> <br>Cons</b>: 分享和社会功能有限<br> <br>
+Webshots—— <a href="http://webshots.com/">Webshots</a> 界于主流市场和社会网络市场之间。包含不少社会功能，如标签，群，全站搜索，以及大量分享选项。同时，它也提供一些供普通非技术用户使用的非常简单的功能，以及照片打印服务功能。<br> <br> <b>优点</b>: 易用，功能丰富，拥有大量用户<b> <br>缺点</b>: 太多广告，上传限制。<br> <br>
+Snapfish—— <a href="http://snapfish.com/">Snapfish</a> 主要面向主流打印用户市场，它界面欠直观，它提供的服务在近几年也没有多少改进。它的社会功能仅限于在 Email 中分享照片链接。<br> <br> <b>优点</b>:支持主题模板，打印选项众多，可打印成书籍，不干胶贴，咖啡杯等。<b> <br>缺点</b>: 没有社会功能，晦涩的用户界面。<br> <br>
+Phanfare—— <a href="http://phanfare.com/">Phanfare</a> 会给人一些惊喜，它的功能十分丰富，包含可选主题模板，可以从别的照片分享站点导入照片，还包含一个 <a href="http://blog.phanfare.com/2008/08/phanfare-iphone-app-version-13-released/">iPhone 程序</a>，以及设计出色的用户界面。优点: 易用，分享功能很好用。<b> <br>缺点</b>: 免费帐户有1GB空间限制，无限制的帐户有些贵。
+Bonus: Gallery—— <a href="http://gallery.menalto.com/">Menalto's Gallery</a> 是一个照片分享程序，可以用来设计照片分享网站，拥有众多插件与主题模板。<br> <br> <b>优点</b>: 免费程序，非常灵活，出色的主题和插件，不含广告，容易安装<b> <br>缺点</b>: 需要自己找空间，没有社会功能
+➜思科收购Jabber
+https://www.solidot.org/story?sid=7917	6000
+大型IT巨头收购小型开源公司的趋势正在延续，<a href="http://bits.blogs.nytimes.com/2008/09/19/cisco-is-jabbering-its-way-into-office-cubicles/">思科公司宣布</a>收购开源即时通讯技术公司Jabber。<i>但思科的<a href="http://newsroom.cisco.com/dlls/2008/corp_091908.html">新闻稿</a>并没有突出<a href="http://zh.wikipedia.org/wiki/Jabber">Jabber</a>的开源特色，仅仅是强调Jabber的通讯技术可以与其它系统如Microsoft Office Communications Server，IBM Sametime，AOL AIM，Google和Yahoo!的IM协作。而<a href="http://www.jabber.org/web/Main_Page">Jabber的官方网站</a>也没有提及此次收购。目前还不清楚思科是否会在未来改变Jabber的开源立场。</i>
+➜SGI的OpenGL现在是自由软件
+https://www.solidot.org/story?sid=7918	7200
+<a href="http://zh.wikipedia.org/w/index.php?title=OpenGL&amp;variant=zh-hans">OpenGL</a>是个定义了一个跨程式语言、跨平台的编程接口的规格，GNU/Linux中的3D加速就主要使用OpenGL代码，但是SGI在1999年发布时采用了一个既不被自由软件基金会（FSF）接受也不被开源促进会（OSI）接受的许可证。<i>现在FSF宣布，受争议的许可证<a href="http://oss.sgi.com/projects/FreeB/">SGI Free License B</a>和<a href="http://www.sgi.com/products/software/opensource/glx/license.html">GLX Public License</a>，经过FSF和SGI之间多月的磋商之后<a href="http://www.linux.com/feature/148339">进行了重写</a>，问题已经完美<a href="http://www.sgi.com/company_info/newsroom/press_releases/2008/september/opengl.html">解决</a>，OpenGL代码成为了自由软件，FSF的执行董事Peter Brown说，“这是给予自由软件社区的大礼”。</i>
+➜Canonical出售私有解码器和DVD软件
+https://www.solidot.org/story?sid=7919	12480
+在Linux上播放DVD总会碰到令人头大的私有多媒体解码器问题，Ubuntu或其它发行版都没有获得合法授权，被允许重新发行这些多媒体解码器，因此留给用户的是不甚理想的选择。<i>
+将多媒体文件转换到一种开放格式，或者使用从网络上“找到”的解码器，很有可能都是非法的。毫无疑问这会影响到用户体验，为了改变这种状况，Canonical公司作出了一些艰难的决定，<a href="http://ostatic.com/173388-blog/canonical-opens-codec-sales-and-potential-can-of-worms#rss">开始出售合法的私有解码器和DVD播放软件</a>，用户可以在<a href="https://shop.canonical.com/index.php?cPath=19">Ubuntu商店</a>购买。不同软件价格不同，比如Linux版PowerDVD，价格为£24.58。购买所有私有解码器可能总共需要$30—$45，相比Windows仍然便宜很多。</i>
+➜印度将在下个月发射月球探测器
+https://www.solidot.org/story?sid=7920	15120
+印度月球探测器计划在10月22日到10月26日之间<a href="http://specials.rediff.com/news/2008/sep/18sd1.htm">择机发射</a>。<i>
+印度“<a href="http://news.xinhuanet.com/tech/2008-09/19/content_10079834.htm">月球初航1号</a>”飞船本身并不登陆月球，它会作为卫星环绕月球飞行，派遣一个机器人登陆。飞船携带了11个有效载荷（其中一个来自NASA），执行遥感和研究月球表面的任务。该计划预计耗资38.6亿印度卢比（约合人民币5.76亿）。</i>
+➜微软Exchange的替代Zarafa开源
+https://www.solidot.org/story?sid=7922	16920
+<a href="http://en.wikipedia.org/wiki/Zarafa_(software)">Zarafa</a>是一个商业性协作式软件解决方案，提供了email和webmail服务，地址簿，日历，笔记，任务等。其设计目的是与微软的Office Outlook整合，替代Microsoft Exchange。<i>
+9月18日，Zarafa宣布在AGPL许可证下发布完整的<a href="http://www.zarafa.com/?q=en/content/products">服务端源代码</a>，这不仅包括了可与Outlook结合的邮件服务器，还包括了100% MAPI，web access，tasks，iCal和Activesync。Zarafa的开源社区版本可以在<a href="http://www.zarafa.com/community">www.zarafa.com/community</a>下载。</i>
+➜Webkit 最新 Javascript 引擎领先 Chrome
+https://www.solidot.org/story?sid=7921	17280
+<a href="http://www.comsharp.com/">35公里</a> 写道 "几周前 <a href="http://www.readwriteweb.com/archives/google_to_offer_its_own_browser_chrome.php">Google Chrome 发布</a>之后，因其创新的 UI 以及出色的 JavaScript 执行效率而<a href="http://www.readwriteweb.com/archives/chrome_test_it_with_us_live.php">备受赞誉</a>。最近，作为 Safari 与 Chrome 浏览器内核的 <a href="http://webkit.org/">WebKit</a> <a href="http://webkit.org/blog/214/introducing-squirrelfish-extreme/">发布了一个新 JavaScript 引擎</a>，SquirrelFish Extreme，经过测试，该引擎的在执行速度上<a href="http://www.readwriteweb.com/archives/browser_wars.php">明显超过 Chrome 的 V8</a>。
+<br> <br> <a href="http://code.google.com/p/v8/">V8</a> 是 Chrome 自己 JavaScript 引擎，虽然 Chrome 基于 Webkit，但 Google 开发了自己的 JavaScript 引擎取代 Webkit 的 JavaScript 引擎，Google 称，V8 可以更好的利用现代的多核心处理器以获得性能的提升。
+评测结果（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K519.aspx">请到 COMSHARP CMS 网站阅读全文</a>）
+"           使用的评测工具是 <a href="http://www2.webkit.org/perf/sunspider-0.9/sunspider.html">SunSpider  benchmark</a> ，结果令人印象深刻。使用了 SquirrelFish Extreme 引擎的 Webkit 在1235毫秒内完成了测试，而 Chrome花了1598毫秒。Firefox 最新的版本 Firefox 3 用了3424毫秒。在测试 Firefox 时候，TraceMonkey 并没有启用（启用后，浏览器崩溃了），但<a href="http://summerofjsc.blogspot.com/2008/09/squirrelfish-extreme-has-landed.html">另一份测试结果</a>也表明，它比 ScquirrelFish Extreme 和 Chrome V8 都要慢。<a href="http://www2.webkit.org/perf/sunspider-0.9/sunspider.html"> </a>
+<br> <br>测试者还使用 Mozilla 自己的 <a href="http://dromaeo.com/">Dromaeo  benchmark</a> 做了进一步测试，结果 SquirrelFish Extreme 仍以 4522毫秒领先 Chrome V8 的 5206毫秒。如果你想自己对 SquirrelFish Extreme 做一番测试，你可以<a href="http://nightly.webkit.org/">到这里下载包含 SquirrelFish Extreme 的 Webkit</a>。
+➜不需要Flash的在线图片编辑器
+https://www.solidot.org/story?sid=7923	20400
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道<i> "
+网上有许多Web-based图片编辑器，如Picnik,Fotoflexer,Splashup，但<a href="http://www.drpic.com/">Drpic</a>却可以做到其他网站不能做的，那就是在一台<a href="http://www.downloadsquad.com/2008/09/10/dr-pic-a-no-flash-online-image-editor/">没有安装Flash的电脑上进行操作</a>。
+原因是Drpic使用Ajax技术，大部份浏览器都支持，可以处理基本的图片编辑功能。你可以调整图片的尺寸或剪切，并添加一个少数的效果，例如，您可以模糊，锐化，或添加文字，图片等。
+Drpic支持JPG、BMP、GIF、PNG等图片格式。"</i>
+➜Google 跻身全球 10 大品牌
+https://www.solidot.org/story?sid=7924	22140
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.interbrand.com/">Interbrand</a> 刚刚发布今年的<a href="http://www.interbrand.com/best_global_brands.aspx?langid=1000">全球最佳品牌排名</a>，高科技企业，包括 Google, IBM 以及  Nintendo排名上升，而金融巨头以及微软的排名比上一年有所下滑。<a href="http://arstechnica.com/news.ars/post/20080919-google-now-one-of-the-top-10-most-valuable-brands.html">Google 今年跻身全球10大品牌</a>。
+<i>可口可乐连续8年位居第一的宝座，Google 与2007年相比，上升了43%，从第20名一跃进入前10名，位居第10。IBM 上升了3%，从2007年的第3名上升至第2，并将微软挤下一个名次至第3名。前10名的其它品牌包括第4名的通用,以及紧排其后的诺基亚，丰田，Intel，麦当劳，与 Disney。Google 跃居前10名仅仅用了10年，得益于其业务的快速增长以及在搜索领域的主导地位，同时，Google 在移动，商务服务等业务上大肆扩张，成功地将自己发展成人人皆知的品牌。Interbrand 称他们使用专门的公式计算这个排名，他们的计算方法涉及到公司品牌的几个方面，财务状况，在消费者中的影响力，留住客户的能力以及未来的营收预期。其它几个排名明显上升的品牌包括任天堂，上升了13%，从2007年的44名上升到40名，苹果从33名上升到24名，Amazon 从 62 上升到58。"</i>
+➜LHC发生第二次故障
+https://www.solidot.org/story?sid=7925	23100
+自<a href="__SLASHLINK__" sect="science" sid="08/09/19/065204" sn="article" tid="105">变压器出现问题</a>后，大强子对撞机（LHC）又遭遇第二次打击——这次可能比上一次更严重。<i>《科学》杂志网站报道，在物理学家加速第一束粒子9天之后，LHC的超过1700个超导磁体中至少有一个发生了故障，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2008/919/2">氦气被泄露到地下隧道之中</a>。研究人员至今还不清楚损坏的范围，但其中至少有一些机器需要被换掉，整个过程至少要几周时间。修复的时间从某种程度上依赖于LHC何时能加热到维修室温。如果损害的部分很小，修复起来应该会很快。但机器是建造在45度角（octant）处，因此修复后单独的冷却也需要几周时间。</i>
+<a href="http://news.bbc.co.uk/2/hi/science/nature/7626256.stm">BBC的报道</a>
+➜微软的“I'm a PC”广告是用苹果机制作
+https://www.solidot.org/story?sid=7926	37800
+继两支失败的、意思含糊的Jerry Seinfeld广告之后，微软决定用更直接的方式，用“<a href="http://www.microsoft.com/presspass/windows/Default.aspx">I'm a PC</a>”向苹果发起冲击。在<a href="http://www.custompc.co.uk/news/604881/video-microsoft-goes-straight-for-the-apple-ads/page1.html">最新的这部宣传广告里</a>，不同的角色不断的说出“I'm a PC”这句对白，其中包括了宇航员Bernard Harris，宗教作家Deepak Chopra，《绝望主妇》演员Eva Longoria，以及学生和教师。<i>而让人觉得讽刺的是，一位Flickr用户<a href="http://www.flickr.com/photos/ldiazsantana/2869094754/">LuisDS</a>从微软官网“I'm a PC”系列照片的元数据上发现它们都是在Macs上<a href="http://www.roughlydrafted.com/2008/09/19/microsofts-im-a-pc-ads-created-on-macs/">使用Adobe Creative Suite 3制作的</a>。不过当LuisDS第二天再去官网上核查的时候，发现微软已经删除了作品的制作细节，结果是照片的容量从272 KB膨胀到852 KB。此外据一未透露名字的消息来源，广告的声音也都是在苹果机上合成的。</i>
+微软并不喜欢员工用Macs。2003年，它曾经因为一位雇员在博客上张贴一张运到公司的新PowerMac G5系统的照片而将其开除。当然微软公司确实购买了许多苹果机，主要用于测试Mac版的Office和其它软件。
+➜函数语言在多核时代可能获得快速发展
+https://www.solidot.org/story?sid=7927	46440
+计算机科学家<a href="http://en.wikipedia.org/wiki/Simon_Peyton_Jones">Simon Peyton Jones</a>是函数语言<a href="http://zh.wikipedia.org/wiki/Haskell">Haskell</a>社区的领袖，目前在英国剑桥的微软研究所工作。<i>在一篇采访报告中，<a href="http://www.techworld.com.au/article/261007/-z_programming_languages_haskell">Techworld与他进行了深入交谈</a>，讨论了Haskell语言的开发，和他做一件事、并把它做好的处世哲学，及现在的工作情况。Peyton-Jones描述在纯函数语言方面的兴趣，认为随着处理器多核架构和集群的快速发展，世界会对函数语言越来越关注，用户将会日益关注如Haskell这类的语言。"</i>

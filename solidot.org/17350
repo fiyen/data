@@ -1,0 +1,49 @@
+➜JCP EC 批准 Java 9 模块化系统
+https://www.solidot.org/story?sid=52940	11456
+Java Community Process Executive Committee（JCP EC） 以 24:0 <a href="http://www.infoworld.com/article/3203931/java/the-road-to-java-9-modular-java-finally-gets-okd.html" target="_blank"><u>一致通过了</u></a>模块化系统提议 Java Platform Module System（Jigsaw）。今年五月，JCP EC 以 10 票赞成 13 票反对<a href="http://www.solidot.org/story?sid=52346" target="_blank"><u>否决了</u></a> Jigsaw 提议，原因是反对者担心模块化系统会引发问题，支持者和反对者之间缺乏共识。上个月，甲骨文<a href="http://www.solidot.org/story?sid=52640" target="_blank"><u>提议</u></a> Java 9 Standard Edition 延期到 9 月 21 日发布，给开源社区时间去解决争执达成共识。在最新一轮的投票中，Red Hat 选择了弃权，认为 Jigsaw 提议仍然需要更多的工作，但表示它不想再次推迟 Java 9 的发布。
+➜美国政府考虑禁止军方使用卡巴斯基，卡巴斯基表示愿意提供源代码
+https://www.solidot.org/story?sid=52941	13786
+因为担心卡巴斯基与俄罗斯政府之间存在潜在联系，美国参议院<a href="http://cn.wsj.com/gb/20170703/bgh075717.asp" target="_blank"><u>正在考虑</u></a>禁止军方使用这家俄罗斯安全公司开发的商业软件。卡巴斯基因向全球数百万机构提供商业反病毒软件而闻名，其客户包括一些美国政府机构。为了消除对该公司的怀疑，卡巴斯基的创始人 Eugene Kaspersky <a href="http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_KASPERSKY?SITE=KVUE&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank"><u>表示</u></a>，他愿意提供软件源代码供美国政府检查，他甚至考虑将部分研发工作转移到美国。Eugene Kaspersky 早年就读于克格勃赞助的学校，曾在俄罗斯国防部工作过，他的公司长期以来一直受到了竞争对手的怀疑。怀疑者认为，在一个国企在经济中占据支配地位的国家，在普京大幅扩大其间谍机构权力的国家，他的公司不可能独立运营。卡巴斯基的部分雇员是前间谍。Eugene Kaspersky 对此予以承认，但表示这些前间谍主要在销售部门工作，因为他们与政府部门关系密切。他声称，公司的内部网络是隔离的，不会遭到个别的恶意雇员的滥用。
+➜寻求在 YouTube 一鸣惊人，年轻女子开枪杀死男友
+https://www.solidot.org/story?sid=52942	15703
+为了在 YouTube 上吸引更多浏览者，一名 19 岁的明尼苏达女子朝男友胸部开枪，男友在胸前举了本书，他们以为书能挡住点50 口径沙漠之鹰射出的子弹。他们的实验失败了，但结果部分成功了：他们拍摄的<a href="https://www.youtube.com/watch?v=hr8VlTZMNn0" target="_blank"><u>最后一个视频</u></a>（YouTube）获得了约&nbsp; 140 万浏览量。根据法庭文件，Monalisa Perez 在 6 月 26 日下午6点半左右呼叫 911，称她向男友  Pedro Ruiz III 开了枪。在事故发生前几小时，她在 Twitter 上发帖，表示要和男友拍摄有史以来最危险的视频，称这个主意是男友提出的，不是她的。Ruiz 的姑妈知道他们的计划，曾劝说他们放弃，但他们的回答说，“我们想要更多浏览者，我们要成名。”两人已经有一名 3 岁大的女儿，事发时女儿就在旁边，Perez 已经怀了他们的第二个孩子，她被控二级谋杀罪，面临最高 10 年徒刑和最高 2 万美元罚款。当地的一位警长<a href="https://www.nytimes.com/2017/06/29/us/shooting-youtube-stunt-minnesota.html" target="_blank"><u>表示</u></a>，他无法理解年轻一代对成名 15 分钟的追求。
+➜Linux 4.12 释出
+https://www.solidot.org/story?sid=52943	18470
+Linus Torvalds 在内核邮件列表上<a href="http://lkml.iu.edu/hypermail/linux/kernel/1707.0/00325.html" target="_blank"><u>宣布</u></a>释出 Linux 4.12。Linux 4.12 的<a href="https://kernelnewbies.org/Linux_4.12" target="_blank"><u>主要特性</u></a>包括：<pangu> </pangu><a href="https://lwn.net/Articles/720675/">BFQ 和 Kyber block I/O 调度器</a>，livepatch 改用<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d83a7cb375eec21f04c83542395d08b2f6641da2" target="_blank"><u>混合一致性模型</u></a>，<a href="https://lwn.net/Articles/717125/" target="_blank"><u>信任的执行环境框架</u></a>，epoll 加入 busy poll 支持，等等。其它还包括文件系统、加密和安全方面的改进，架构更新、新硬件支持和驱动如 AMD Radeon RX Vega 显卡支持，初步的 Nvidia GeForce GTX 1000 "Pascal"加速支持，等等。
+➜中国加强内容审查
+https://www.solidot.org/story?sid=52944	19155
+中国上周五<a href="http://www.solidot.org/story?sid=52930" target="_blank"><u>公布了一份文件</u></a>，列出了 84 类不能展示的话题。北京的电影观众表示，自上周六起，电影院在放映正片之前先放映一段政府制作的短片，名称为《我们的中国梦》。分析人士说，在今年晚些时候举行政治敏感的中共全国代表大会之前，北京加强了<a href="http://www.ftchinese.com/story/001073242" target="_blank"><u>对在线内容的审查</u></a>。上周，291 个表演平台被关闭，近万名主播被解约。在社交媒体上流传的文章抱怨突然加大力度的审查和民族主义宣传，这些文章也被审查者删除。“我们预计，政府在网络空间中的执法频度和力度都会加大，不仅涉及内容审查，还会涉及更多相关领域，”西盟斯律师事务所驻上海律师杨迅表示。
+➜从数学的陌生人到站在数学的顶峰
+https://www.solidot.org/story?sid=52945	29082
+Quanta Magazine 发表了一篇文章介绍了普林斯顿高等研究院数学家 June Huh <a href="https://www.quantamagazine.org/a-path-less-taken-to-the-peak-of-the-math-world-20170627/" target="_blank"><u>不同寻常的数学职业生涯</u></a>。<i>Huh 于 1983 年出生于加州，当时他的父母在美国读研，2 岁时随父母回到韩国首尔。他相信自己并不擅长数学，小学的数学成绩很糟糕，他因此梦想成为诗人，写了很多诗和小说，但都没有发表，他发现成为诗人谋生困难，转而决定当科学记者，在大学主修天文学和物理学。大学本科最后一年，24 岁的他遇到了改变生活的人——日本数学家广中平佑（Heisuke Hironaka）到首尔大学担任访问教授，他在 1970 年赢得了菲尔茨奖——这是数学界的诺贝尔奖。他在首尔大学教一年的代数几何，Huh 选修了这门课，认为广中平佑可以成为他作为科学记者的第一位采访对象。一开始有 100 多名学生选修了这门课，但很快出席的人数越来越少。Huh 对这门课有着不同的态度，尽管他对老师讲的内容也不太懂，但仍然坚持下去。他与老师的关系越来越密切，开始与老师一起吃饭。广中承认他不太接近学生，但也不排斥学生接近他，而 Huh 是主动找他的。Huh 尝试利用午餐向他提问，但对话总是会回到数学。Huh 努力不让自己显得对数学很无知，他缺乏数学的正式训练。他掩饰的很好，广中平佑对他留下了深刻影响。Huh 毕业后，广中继续留在首尔大学，他开始在广中指导下读数学硕士学位。2009 年，在广中的督促下他向美国大学申请读数学博士，因为缺乏数学背景，他的申请几乎在所有大学都遭到拒绝，只有伊利诺伊大学香槟分校接受了他的申请。在伊利诺伊期间他在 <a href="https://en.wikipedia.org/wiki/Rota%27s_conjecture" target="_blank"><u>Rota 猜想</u></a>方面的工作将他带到了数学的顶峰。Huh 在图论问题上运用了广中的奇异点理论，证明了 Rota 猜想的一个特例 Read 猜想，为证明 Rota 猜想奠定了基础。Huh 如今是菲尔茨奖的候选人了。</i>
+➜新烟碱类杀虫剂被认为对蜜蜂有害
+https://www.solidot.org/story?sid=52946	31582
+新烟碱类杀虫剂生产商赞助的一项大型研究<a href="https://www.nature.com/news/largest-ever-study-of-controversial-pesticides-finds-harm-to-bees-1.22229#/b1" target="_blank"><u>认为</u></a>，这种杀虫剂对蜜蜂有害。<a href="http://science.sciencemag.org/content/356/6345/1393" target="_blank"><u>研究发表</u></a>在上周的《科学》期刊。赞助商们对研究结论提出了质疑，为它们生产的杀虫剂辩护。此类杀虫剂在一些国家已经受到了限制或禁止。过去几年，科学家和政策制定者对新烟碱类杀虫剂伤害蜜蜂的担忧日益增长。这种杀虫剂通常在种子播种前喷洒，它们之后仍然残留在花粉中。研究人员利用了两大杀虫剂厂商拜耳和先正达赞助的 300 万美元资金在英国、德国和匈牙利展开了实地研究，发现杀虫剂对蜜蜂总体上呈现负面影响。但结果并非一目了然，杀虫剂在英国和匈牙利的地点显示出了负面影响，但在德国却表现出了正面影响。研究人员称，积极效应的影响是短期的，原因还不清楚。先正达的资深环境专家认为，“非常负面”的研究结论是不公平的。
+➜AMD 的 CPU 市场份额在一个季度内增加了 10%
+https://www.solidot.org/story?sid=52947	32166
+在时隔多年之后，AMD 再次向英特尔发起了挑战，它发布的  Zen 架构处理器  Ryzen 赢得了广泛的赞誉，将曾经高高在上的 8 核/16 线处理器平民化。根据 PassMark 的报告，在 2017 年第二季度，AMD 的 CPU 市场份额<a href="http://wccftech.com/amd-takes-10-4-cpu-share-intel-q2-2017-largest-single-quarter-share-gain-history/" target="_blank"><u>增加了 10%</u></a>，英特尔下跌了 10%。AMD 在 Q1 的市场份额是 20.6%，Q2 增加到了 31%，而英特尔的市场份额从 Q1 的 79.3% 跌至了 69%。此消彼长的态势非常明显， Ryzen 可能是 AMD 历史上最成功的 CPU。
+➜顺丰获中国首张无人机空域许可证
+https://www.solidot.org/story?sid=52948	33560
+顺丰速运<a href="http://www.ftchinese.com/story/001073251" target="_blank"><u>拿到了</u></a>中国首张无人机空域许可证，随后完成了多次商业化无人机送货。上海大学代物流学教授储雪俭表示，对于萌芽状态的无人机送货行业来说，顺丰获颁无人机许可证是一项 “重大” 举措，因为中国对空域管得很严。分析师表示，顺丰获颁许可证表明，国家监管机构如今有更大的意愿向无人机送货企业开放空域。顺丰是中国最大的物流服务企业之一。该公司在江西省赣州市南康区运营着一个包括多款无人机的机群，其中一些机型最多可携带 25 公斤货物，航程最高可达 100 公里。中国民用航空局一位代表表示，监管机构正在想办法支持无人机行业的发展。
+➜用普朗克常数重新定义千克
+https://www.solidot.org/story?sid=52949	34873
+美国标准技术局研究员<a href="https://zh.wikipedia.org/wiki/%E6%99%AE%E6%9C%97%E5%85%8B%E5%B8%B8%E6%95%B0" target="_blank"><u>公布了</u></a>其测得的普朗克常数迄今为止最精确数值，赶在国际度量衡委员会（CIPM）规定的最后期限——7 月 1 日之前，向《度量学》期刊提交了这一结果。CIPM 计划在 2018 年 11 月召开大会，对质量单位 “千克” 进行重新定义，改用普朗克常数测量值为基准。在国际单位制的 7 个基本单位中，只有质量单位 “千克” 用实物定义。因为实物容易存在误差，国际度量衡委员会决定在 2018 年改用普朗克常数为基准，重新定义质量单位。根据最新的测量结果，h= 6.626069934 x 10^−34 J s，取代了<a href="http://physics.nist.gov/cgi-bin/cuu/Value?h" target="_blank"><u>旧的值</u></a>  6.62607004 x 10^−34 J s。
+➜Ubuntu 被指向用户展示广告，产品经理否认
+https://www.solidot.org/story?sid=52950	41396
+<div align="center"><img src="http://img.solidot.org/0/367/lixlrRJZigWmA.jpg" height="133" width="500" align=""><br>
+<br>
+</div>
+Ubuntu 在 MOTD 终端插入了一则消息，<a href="https://mobile.twitter.com/astarrb/status/880170781841514496" target="_blank"><u>标题是</u></a>“How HBO's Silicon Valley built 'Not Hotdog' with mobile TensorFlow, Keras &amp; React Native.”
+它被指向用户<a href="https://news.slashdot.org/story/17/07/01/0550251/ubuntu-disputes-ads-in-motd-claims" target="_blank"><u>展示广告</u></a>。但设计该功能的产品经理 Dustin Kirkland <a href="https://news.ycombinator.com/item?id=14663947" target="_blank"><u>对此否认</u></a>，称 MOTD 设计向用户提供突发科技新闻，包括重要的安全通知，如<span class="bodytext"> Shellshock 或 Heartbleed 之类的高危漏洞。他表示，这则消息是来自一个开源库，</span>Canonical 没有从展示这条消息上获取任何报酬，称用户也可以递交自己的消息提供给 Ubuntu 用户。他提供了关闭消息展示的方法：修改  /etc/default/motd-news 中的变量，默认是 ENABLED=1 ，将值改为 0 也就是 ENABLED=0 将可以完全关闭新闻功能。
+➜中药企业寻求通过临床试验证明中药疗效
+https://www.solidot.org/story?sid=52951	42771
+在引发争议的《中医药法》正式施行之际，中药企业以岭药业董事长吴以岭表示，中药需要通过严格的临床试验<a href="http://www.ftchinese.com/story/001073250" target="_blank"><u>证明其价值</u></a>。这部新法旨在提振 400 亿美元的中药行业。中药销售大多数都是相对廉价的非处方药，许多中国医生不愿开中药处方，因为缺乏证据证明这些中药的疗效。吴以岭举例说，来自北京大学和卡迪夫大学 的研究人员测试了以岭药业的中药 “养正消积胶囊” 的治疗效果，他们在《国际肿瘤学期刊》上发表的论文显示这种药可以减缓癌症肿瘤的生长。“理论和配方是中医药的，但在实践中，我们对药物的评估是根据西方以证据为基础的方法进行的，” 吴以岭说。
+➜泰诺林与同情心下降相关
+https://www.solidot.org/story?sid=52952	44455
+科学家在《Social Cognitive and Affective Neuroscience》期刊上发表<a href="https://academic.oup.com/scan/article/11/9/1345/2224135/From-painkiller-to-empathy-killer-acetaminophen" target="_blank"><u>研究报告</u></a>，称对乙酰氨基酚（Acetaminophen）<a href="https://www.washingtonpost.com/news/to-your-health/wp/2016/05/12/this-popular-painkiller-also-kills-kindness/" target="_blank"><u>会减少</u></a>一个人对另一个人痛苦的移情能力。对乙酰氨基酚是一种广泛使用的非处方止痛及退烧药，泰诺林是使用对乙酰氨基酚的常见药物品牌。科学家对两百多名大学生进行了两项实验，其中一项实验一半的被试服用了含有对乙酰氨基酚的液体，另一半是对照组服用的是安慰剂，结果显示服用对乙酰氨基酚的人认为他们阅读的痛苦经历没有安慰剂组认为的严重。论文作者之一的 Baldwin Way 对此结果表达了担忧，称他们不清楚对乙酰氨基酚为什么会有此类效应。
+➜中国企业海外大兴煤电
+https://www.solidot.org/story?sid=52953	45654
+中国今年停止了 100 多个燃煤电厂的在建计划，而与此同时美国总统特朗普誓言要“把煤带回”美国，这种对比似乎确认了北京应对气候变化领导者的新角色。然而，和全球最大燃煤电厂开发商有关的新数据却勾勒出了一幅不同的图景：预期在未来十年并网的新增煤电生产中，近一半将来自中国的能源公司。环保组织 Urgewald 汇编的数据显示：全球 62 个国家计划修建或正在建设 1600 座煤电厂。有了这些新工厂，全球的燃煤电厂的装机容量将增加 43%。Urgewald 发布的资料显示，全球 20 家最大的煤电开发商中，有 11 家来自中国。Urgewald 估计，总的来说，全球煤电从 34 万兆瓦扩张到 38.6 万兆瓦的计划后面，<a href="https://cn.nytimes.com/china/20170703/china-energy-companies-coal-plants-climate-change/" target="_blank"><u>是中国公司在打主力</u></a>。
+➜硅谷巨头将面临更大监管压力
+https://www.solidot.org/story?sid=52954	47163
+美国和欧洲对硅谷科技公司的监管存在巨大的文化差异，相比之下，欧洲的做法更像是全球科技行业的警察。围绕监管机构是否应该以及如何保护汽车生产商、新闻机构及其他行业免受科技巨头破坏性影响的问题，各界争论不已。上述分歧导致的后果就是，许多争辩率先在布鲁塞尔、巴黎和柏林爆发，而不是华盛顿或者旧金山。但欧洲的相关决定也会影响全球的监管机构、法院及政府官员。欧洲面临的一些问题在美国也逐步浮现，只是不太突出。美国决策者在某些情况下也在反思其政策，这些政策的初衷是培育处在起步阶段的科技公司，而如今这些科技公司已经把触角伸到了经济的各个领域。美国的监管审查力度可能不会达到欧洲那么高的水平，但一些美国政界人士已经表示，<a href="http://cn.wsj.com/gb/20170703/tec162208.asp" target="_blank"><u>对科技企业的体量及其对市场的影响力感到担忧</u></a>。

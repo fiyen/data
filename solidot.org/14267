@@ -1,0 +1,55 @@
+➜Mono 2.2或在一些关键领域超过.NET
+https://www.solidot.org/story?sid=9583	60
+微软.NET技术的开源实现、Novell资助的Mono项目在本周发布了<a href="http://www.mono-project.com/Release_Notes_Mono_2.2">2.2版</a>，其中一个最令人感兴趣的特性提供了对<a href="http://www.betanews.com/article/Mono_22_may_overtake_NET_in_some_critical_categories/1232551276">SIMD扩展</a>的完整支持。<i>
+扩展对SIMD代码进行了优化，使其在加速后速度超过过去的Mono版本和当前的.NET版本。新版大幅改进了图形、多媒体或3D操作的性能。InfoQ的Johnathan Allen对此也留下了深刻的印象，<a href="http://www.infoq.com/news/2008/11/Mono-SMID">他在博客中指出</a>：Mono的发展速度超过了标准。Mono不再玩着你追我赶的游戏，在一些领域它正超越通用语言运行库（CLR）。作为一个开源项目，它能做的比微软更好。</i>
+➜治疗失明的新希望
+https://www.solidot.org/story?sid=9584	1500
+英国科学家透露，他们将开创性的<a href="http://www.dailyexpress.co.uk/posts/view/80629">用干细胞手术去治疗角膜盲病人</a>。<i>
+他们即将对试验志愿者执行世界首例眼睛干细胞手术，并希望能为其它类型的失明患者寻找到治疗方法。角膜盲病人是由于角膜细胞损失引起的，眼科专家将用取之捐赠者遗体或实验室培育的健康细胞去替换患病细胞，希望健康细胞能促进成长，最终修复角膜表面。目前失明常用的治疗方法是移植或组织移植，两者都存在感染风险，并常常面临捐赠短缺问题。</i>
+➜裹了糖衣的毒品交易游戏获苹果批准
+https://www.solidot.org/story?sid=9585	2100
+<a href="http://en.wikipedia.org/wiki/Dope_Wars">Dope Wars</a>是一款模拟违禁毒品交易的策略游戏，玩家将扮演一位毒品商人，要在限制时间内获得最多的金钱。这种下流游戏显然不会入神圣的App Store的法眼。因此苹果拒绝了Catamount软件开发的Dope Wars的remake版《Prohibition 2: Dope Wars》。随后<a href="http://www.pocketgamer.co.uk/r/iPhone/Prohibition+3%3A+Candy+Wars/news.asp?c=11065">Catamount为原游戏裹了一层糖衣</a>（字面意义），推出了《Prohibition 3: Candy Wars》，本质上是同一款游戏，苹果这次批准了。<i>
+该游戏背景是2040年，为了对付全世界的肥胖流行病，糖果被禁了，玩家将扮演一位甜食投机商从事非法的糖果交易，游戏中用魔法粉(pixie dust)代替枪，糖棒代替可卡因...</i>
+➜Shuttleworth称赞Windows 7
+https://www.solidot.org/story?sid=9586	3000
+Ubuntu发行版创始人Mark Shuttleworth<a href="http://osnews.com/story/20822/Shuttleworth_Windows_7_To_Be_a_quot_Great_Product_quot_">称赞了微软的最新操作系统</a>。他指出微软这次将注意力集中在用户体验上，Windows 7确实是一款很棒的产品，它将被人们预想的更早进入到市场。<i>
+他希望Windows 7将终结快速成长的上网本市场上Windows和Linux对峙状态。他解释到：目前OEM购买廉价的Windows XP而不是更昂贵的Vista，微软采用了侵略性的销售手段，导致市场上出现Linux上网本比Windows XP版更昂贵的局面。他希望微软为了推广Windows 7，将加速XP的退市，最终让Linux和Windows展开公平的竞争。</i>
+➜微软、英特尔、IBM裁员
+https://www.solidot.org/story?sid=9587	7200
+没有人能置身经济危机于事外：微软<a href="http://www.theglobeandmail.com/servlet/story/RTGAM.20090122.wmicrosoftjobs0122/BNStory/Technology/home">裁员5000人</a>；英特尔<a href="http://money.cnn.com/2009/01/21/technology/intel/index.htm?postversion=2009012117">裁员5到6千人</a>；IBM也从周三开始<a href="http://www.wral.com/business/story/4375560/">对北美部门下手</a>，谣言称数目可能高达16000人之多，而一天前蓝色巨人刚刚公布了超出华尔街预计的<a href="http://news.cnet.com/8301-10787_3-10146285-60.html?tag=mncol">盈利报告</a>。
+➜Adobe将公开实时消息传送协议（RTMP）
+https://www.solidot.org/story?sid=9588	15480
+Adobe<a href="http://www.adobe.com/aboutadobe/pressroom/pressreleases/200901/012009RTMP.html">宣布</a>将<a href="http://www.infoq.com/news/2009/01/rtmp-to-open">公开实时消息传送协议（Real-Time Messaging Protocol，RTMP)规范</a>，RTMP是设计在Adobe Flash平台技术之间提供高性能音频、视频和数据传输。之前Adobe公开<a href="http://www.infoq.com/news/2007/12/blazeds">AMF规范</a>就收到了RIA社区不同程度欢迎。<i>
+实时消息传送协议是Adobe Systems公司为Flash播放器和服务器之间音频、视频和数据传输开发的私有协议。它有三种变种：1）工作在TCP之上的明文协议，使用端口1935；2)；RTMPT封装在HTTP请求之中，可穿越防火墙；3)RTMPS类似RTMPT，但使用的是HTTPS连接。</i>
+➜置盖茨预言不顾，Spam迎来黄金时代
+https://www.solidot.org/story?sid=9589	16920
+2004年，比尔盖茨在瑞士的世界经济论坛上宣称，五年之内Spam将成为往事。今年是预言的五周年，Spam不仅没成为往事，预言人盖茨却淡出人们的视野。Sophos公司的高级技术顾问Graham Cluley在博客上表示，<a href="http://www.pcauthority.com.au/News/135100,spammers-defy-gatess-junk-mail-predictions.aspx">Spam继续成为企业和家庭用户的烦恼</a>，而且甚于过去，变得更狡猾，更恶毒，更具有威胁性。
+➜Red Hat市值即将超过Sun
+https://www.solidot.org/story?sid=9590	19800
+Sun，或许不公平，代表着一个衰退的Unix市场；Red Hat，代表着一个上升的Linux市场。现在Red Hat的市值<a href="http://news.cnet.com/8301-13505_3-10146879-16.html?tag=newsEditorsPicksArea.0">首次无比接近于Sun</a>。<i>
+目前<a href="http://finance.yahoo.com/q?s=RHT,JAVA&amp;d=s">两家公司的市值</a>分别是26.6亿美元和26.7亿美元，但两家的收入完全不是在一个数量级上的：Red Hat2008年收入为<a href="http://finance.yahoo.com/q/ks?s=RHT">6.27亿美元</a>，Sun则超过<a href="http://finance.yahoo.com/q/ks?s=JAVA">130亿美元</a>。但是只要给Sun的开源战略足够的时间，它的市值肯定能恢复上升并胜过Red Hat。</i>
+➜百度日文不是被GFW屏蔽
+https://www.solidot.org/story?sid=9591	25800
+<a href="mailto:wmr89502270@gmail.com">王明睿</a> 写道<i> "<a href="http://baidu.jp/">百度日文</a>无法访问。人民网说，《<a href="http://media.people.com.cn/GB/40606/5617000.html">百度日本站被GFW屏蔽&nbsp;疑与色情内容有关</a>》。但是在Firefox下，境外被GFW屏蔽的网站如果屏蔽网络地址，会显示“连接超时”，若屏蔽网址或正文，会显示“连接被重置”。而百度日文却是显示为空白，应该是自我屏蔽了中国IP。"</i>
+➜裸奇点违反了物理法则？
+https://www.solidot.org/story?sid=9592	35400
+《科学美国人》报道，常识认为巨大的恒星最终会崩溃成黑洞，但一些理论模型暗示<a href="http://www.sciam.com/article.cfm?id=naked-singularities">更可能是崩溃成裸奇点</a>（<a href="http://en.wikipedia.org/wiki/Naked_singularity">Naked singularity</a>）。确定究竟是哪一个是天文物理学中最重要的未解之谜之一。裸奇点的发现将改变物理学统一场理论的寻找，尤其是通过直接的观察检验该理论。<i>
+现代科学引入了许多奇特理论，其中最奇特理论之一是关于大质量恒星的命运：在其生命的终结，它耗尽了燃料，无法再维持自身重量，最终开始了坍塌。类似太阳的恒星也会崩溃，但能在一个较小的体积上稳定下来。如果恒星质量足够大，它会坍塌成比一个点都小。大多数物理学家和天文学家相信结果是<a href="http://zh.wikipedia.org/wiki/%E9%BB%91%E6%B4%9E">黑洞</a>。黑洞由两部分组成，核心是奇点，外围是视界。物理学关于奇点的理论是比较清晰的，但关于视界则是模糊的。许多物理学家相信视界必须要形成，但也有一些人对此表示怀疑，他们发现许多恒星坍塌的设想中视界并没有形成，因此奇点暴露在我们的视野之中，这就是所谓的裸奇点。如果裸奇点存在，它所蕴含的意义是巨大的，它可能动摇物理学的根基。</i>
+➜用卫星看奥巴马就职
+https://www.solidot.org/story?sid=9593	41280
+早在1月20日奥巴马总统就职典礼之前，为Google提供卫星照片的GeoEye公司就宣布，将用最大分辨率为41厘米的GeoEye-1卫星从天上对典礼拍照。美国东部时间20日上午11点左右卫星拍下了<a href="http://www.sciam.com/slideshow.cfm?id=obama-inauguration-satellite">多幅照片</a>，展示了密密麻麻如蚂蚁般聚集的人群。GeoEye公司<a href="http://www.geoeye.com/CorpSite/gallery/Default.aspx?gid=1">提供</a>了在Google Earth上观看的<a href="http://mw2.google.com/mw-earth-vectordb/outreach/obama/obama_inauguration_imagery.kml">KML文件</a>和高分辨率图像<a href="http://geoeyemediaportal.s3.amazonaws.com/assets/images/gallery/ge1/hires/inauguration1_final.jpg">下载</a>。波士顿环球报的Big Picture博客也提供了包括卫星照片在内的<a href="http://www.boston.com/bigpicture/2009/01/the_inauguration_of_president.html">48幅各类大图</a>。
+➜Apple iWork 09盗版中藏有木马
+https://www.solidot.org/story?sid=9594	43500
+苹果iWork 09办公组件的盗版已现身于P2P共享网络，但一家安全公司发现<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9126609">盗版拷贝中包含了一个特洛伊木马</a>，它试图劫持电脑，为未来的攻击打开大门。<i>
+开发Mac安全软件的公司Intego指出，<a href="http://www.intego.com/news/ism0901.asp">OSX.Trojan.iServices</a>木马寄生于iWork的安装程序中，当用户安装iWork时，木马的安装程序就立即启动，要求用户输入管理员密码。一旦被安装之后，木马就将信息上传到攻击者的服务器上，通知黑客采取下一步攻击。</i>
+➜大不列颠百科全书学习维基百科
+https://www.solidot.org/story?sid=9597	50040
+大不列颠百科全书(Encyclopedia Britannica)也开始思变，向人人可编辑的在线百科全书维基百科学习，<a href="http://www.smh.com.au/news/technology/biztech/battle-to-outgun-wikipedia-and-google/2009/01/22/1232471469973.html">邀请大众去它的在线版编辑、加强和贡献</a>。大不列颠百科全书网站（<a href="http://www.britannica.com/">Britannica.com</a>）将增加用户产生内容的<a href="http://www.britannica.com/blogs/2009/01/britannicacom-new-features-and-a-clarification/">新特性</a>。从下周开始，网站加入的主要特性包括：<i>
+“Suggest Edit”按钮允许用户编辑文章的任何部分，向大不列颠编辑递交改变，在发布之前编辑将检查和核实。<br>
+文章修改建议被接受的用户名字将列入条目捐赠者名单之中，这意味着用户需要先注册。<br>
+浏览者将能看到文章的修改历史，以及捐赠者的名单。</i>
+看来还是过于复杂了。
+➜华为Android智能手机2月亮相
+https://www.solidot.org/story?sid=9598	53400
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道"据<a href="http://www.huawei.com/exhibition/barcelona2009.do">华为官方英文网站信息</a>，该公司将在2月16日西班牙巴塞罗那召开的“2009全球移动大会”上首次展出<a href="http://tech.sina.com.cn/t/2009-01-22/10252772677.shtml">基于谷歌Android操作系统的智能手机</a>。<i>
+一封署名为CEO任正非的邀请函邀请内部员工参加2009全球移动大会，邀请函中提到了华为此次将展出的新品，其中包括Android智能手机、全球最小无线Modem及全球首个商用HSPA+上网卡等。去年12月，华为宣布正式加入谷歌领衔的开放手机联盟(Open Handset Alliance)，并将于2009年推出基于Android平台的智能手机。</i>

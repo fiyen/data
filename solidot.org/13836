@@ -1,0 +1,21 @@
+➜微软的野心--媒体之王
+https://www.solidot.org/story?sid=4444	1680
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 "微软是个巨无霸：软件，游戏，硬件，网络服务无所不包。但微软究竟想做什么呢？微软<a href="http://www.yeeyan.com/articles/view/gaozhiling/3095">最大的野心</a>是什么呢？现在已经多少能看出些名目了，微软想做的是媒体之王。虽然微软的Zune和Xbox看起来是风马牛不相及的两个产品战略，但是J Allard却透露这两个产品迟早会融合到一起，而微软将成为娱乐内容和信息流量的交换平台。将来，微软可以对ESPN说：我们能够提供偏好信息，因此可以让你以前所未有的方式工作。而且你不必担心多种格式，我们会在后台为你完成一切。而且你可以轻而易举获得众多眼球的关注。"
+➜gcc不能区分正数和负数
+https://www.solidot.org/story?sid=4445	18600
+<a href="http://panbohui.spaces.live.com/">bhpan</a> 写道 "linux程序不能区分正数和负数，例如，-10和10会被认为是相等的。真的是这样吗？试试以下的C代码：<blockquote> <div> <tt>int main () {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; int i=2;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if( -10*abs (i-1) == 10*abs(i-1) )<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; printf ("OMG,-10==10 in linux!\n");<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; else<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; printf ("nothing special here\n");<br>}</tt> </div> </blockquote>同样的C代码，在windows和unix系统中编译运行的结果是nothing special here，只有linux得到是-10==10。<br>恩，我们的gcc在这里犯了一个低级错误。"
+➜美国网络公司的烦恼
+https://www.solidot.org/story?sid=4446	19200
+凡是国外成功的网站，中国都想复制；凡是想在中国获得成功的国外网站，中国会坚决给予打压。也许这个描述并不正确，毕竟本地化并不是轻而易举的。根据<a href="http://www.commiepod.org/?p=13">《南华早报》的报道</a>，<a href="http://slashdot.org/article.pl?sid=07/11/18/1824230">第三季度Google在中国搜索市场的占有率</a>仍然远远落在百度后面：百度占了61.5%的份额，Google为22.5%，雅虎第三为10.6%。雅虎落后并不令人惊讶，毕竟它目前处境困难，正在寻求新的方向；但Google则让人颇感意外。一些人推测Google永远也无法在中国获得成功，因为政府不想让它成功。从进入中国第一天开始，它就成为MII的目标，它在背后使坏。当一家中国公司拷贝了美国成功典范，以.cn域名为标记，之后这个克隆对象就面临域名解析或带宽受限问题。几周前google.com和google.cn的域名解析被定向到了中国竞争对手百度，也许这能解释Google为何失败。
+➜3D 说明大脑如何处理记忆
+https://www.solidot.org/story?sid=4447	23700
+<a href="mailto:anquan11@gmail.com">Rui</a> 写道 "<a href="http://www.nationalgeographic.com/">国家地理杂志</a>制作了一个很有意思的<a href="http://magma.nationalgeographic.com/ngm/2007-11/memory/brain-interactive.html">3D FLASH</a>，告诉人们大脑如何产生，保存甚至忘掉记忆。用非常直观的方式说明大脑将不同的信息保存在脑部的哪些不同位置上。还有一些<a href="http://magma.nationalgeographic.com/ngm/2007-11/memory/memory-game.html">记忆力小游戏</a>。"
+➜如果恐怖分子用数学发动恐怖攻击
+https://www.solidot.org/story?sid=4448	26700
+据说美国国家安全局推荐的基于椭圆曲线加密技术的<a href="__SLASHLINK__" sect="it" sid="07/11/16/084225" sn="article" tid="70">随机数字生成器暗藏后门</a>。因此安全专家推而广之，发出警告如果一个<a href="http://www.networkworld.com/community/node/22026">未知的数学错误被恐怖分子发现和利用怎么办</a>？比如芯片制造商犯了一个它没有注意的数学错误，被一位高科技恐怖分子发现，这可能导致严重的后果。还记得英特尔在1996年造成的大错吗？一个高科技犯罪团伙在一个广泛使用的芯片上发现了一个数学错误，电脑上的安全防护软件就会像纸一样撕开。高科技罪犯只要掌握相关数学漏洞的知识和能发送“有害”加密信息就行了。
+➜2007年度最佳新发明
+https://www.solidot.org/story?sid=4449	30900
+《大众科学》评选出2007年度最佳发明“<a href="http://www.popsci.com/popsci/flat/bown/2007/index.html">Best of What's New</a>”，分成汽车、航空航天、计算机、小器件（毋庸置疑肯定有iphone）、绿色科技、个人健康和休闲共10个类别。<i>年度最佳发明并非是iphone，而是Nanosolar公司推出的太阳能电池<a href="http://www.popsci.com/popsci/flat/bown/2007/green/item_59.html">PowerSheet</a>，使用的不是通常的矽硅太阳能而是铜铟镓二硒（CIGS）薄膜，就像是涂了一层油漆，可以方便的安装在屋顶或者门窗玻璃上，将太阳能转化为电能，<a href="http://www.hi-id.com/?p=1390">电池的成本也比较低</a>。其它引人注目的发明包括<a href="http://www.popsci.com/popsci/flat/bown/2007/recreation/item_98.html">无级变速自行车</a>，基于达芬奇的设计草图；<a href="http://www.popsci.com/popsci/flat/bown/2007/space/item_16.html">COROT卫星</a>，其使命是寻找另一颗地球；<a href="http://www.popsci.com/popsci/flat/bown/2007/innovator_3.html">仿生手</a>，五指可以灵活使用(<a href="http://www.youtube.com/watch?v=PMFrL7xt7kI">视频</a>)。</i>
+➜三峡大坝引发的话题
+https://www.solidot.org/story?sid=4450	35760
+《纽约时报》报道，去年在庆祝工程完工时宣布三峡大坝创造了10项世界记录：最大的水坝，最大的发电站，最大的...第10项是迁移了多达113万居民。不过<a href="http://www.nytimes.com/2007/11/19/world/asia/19dam.html?_r=1&amp;oref=slogin">三峡的环境和外部问题也正日益突出</a>。牵一发而动全局，这里没有一个问题是能单独拿出来解决的。

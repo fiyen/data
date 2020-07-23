@@ -1,0 +1,90 @@
+➜不用墨的打印机
+https://www.solidot.org/story?sid=16265	7200
+<a href="http://docs.google.com/View?id=d7w7twp_2563g4shrtc">泄密文件，非常非常有意思</a> 写道 "<a href="http://hardware.slashdot.org/story/10/02/13/161242/A-Printer-That-Uses-No-Consumables">日本Sanwa Newtec公司发明了一个叫“PrePeat RP-3100 ”的打印机</a>。打印机打印在A4的塑料纸上。公司称，这样的纸可以重复使用1000次。打印机使用传热技术，而不是墨水，因此不使用任何耗材。<a href="http://www.crunchgear.com/2010/02/08/toner-ink-and-paperless-printer-video/">链接</a>里有一个视频。PrePeat 打印机大约价值$5,600，附送1000张塑料纸可以节省$3,300。
+<i>
+该公司提供了一个例子，<a href="http://www.sanwa-newtec.co.jp/english/products/rp_print_e.html#cost">一家公司节省了耗材每年$7360</a>，并减少了二氧化碳排放。到目前为止，PrePeat 只在日本供应。本人的看法：纸不在于重复利用而在于保存，平常办公时如果想省纸可以使用云计算在线保存文档，这样还可以避免火灾、地震、小偷带来的损失。"</i>
+➜有关JavaScript的10件让人费解的事情
+https://www.solidot.org/story?sid=16266	16320
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "JavaScript 可算是世界上最流行的编程语言，它曾被 Web 开发设计师贴上噩梦的标签，虽然真正的噩梦其实是 DOM API，这个被大量的开发与设计师随手拈来增强他们的 Web 前端的脚本语言，如今越来越被重视，虽则如此，JavaScript 仍然拥有很多让人费解的东西（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K902.aspx">完整图文版</a>）。           1. 它以 Java 命名，但并不是 Java
+<br> <br>它最初叫 Mocha， 接着改名为 LiveScript，最后才确定命名为 JavaScript，根据历史记录，Java 的命名与 Netscape 和 Sun 之间的合作有关，作为交换条件，Netscape 在他们备受欢迎的浏览器中创建了 Java 运行时。值得一提的是，这个名字的出台几近一个玩笑，要知道，LiveScript 和 Java 在客户端脚本方面存在敌对关系。
+<br> <br>不管怎么说，人们后来不得不一再澄清的一件事就是，JavaScript 和 Java 毫无关系。<br> <br>
+2. Null 是个对象？
+<br> <br>看看这段代码，它返回的是 object。
+<br> <br>这实在令人费解，假如 null 表示空值，它怎么可以是对象？简单说，它是 JavaScript 最初版本的错误，这个错误甚至被微软的 JScript 直接借用。<br> <br>
+3. NaN  !== NaN
+<br> <br>NaN，表示一个非数字的值，然而问题是，NaN不等于任何东西，甚至不等于它自己。
+<br> <br>这显然不对，事实上，如果要判断一个值确实是 NaN，你需要用 isNaN() 函数。<br> <br>
+4. 全局变量
+<br> <br>对全局变量的依赖一直被视为 JavaScript 最坏的部分（ECMA 的 JavaScript 5 已经去掉了全局变量，请参阅 <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K875.aspx">ECMA 推出 JavaScript 5</a> - 译者注）。对简单的页面，这无所谓，但复杂的页面，如果包含大量 JavaScript 脚本，你很难知道某个全局变量是在哪里声明的，如果几个全局变量不小心重名，就会引发错误。<br> <br>
+5. 那些统统被探测为 Mozilla User-Agent 的浏览器
+<br> <br>必须承认，事实上，这不是 JavaScript  的错，是各个浏览器有意为之。比如，以下是用 JavaScript 探测 Safari 时得到的结果：
+<br> <br>是否注意到其中的第一个单词 <b>Mozilla/5.0</b>，为什么 Safari 会被探测为 Mozilla，尽管 Safari 后来已经纠正这一问题，但仍然不能解释为什么它们要这样误导开发者。事实上，你会发现，绝大多数浏览器把他们的 User Agent 设置为 Mozilla，答案要回到10年前，这更多是一种策略。
+<br> <br>User Agent 是一段用来标识当前浏览器身份的字符串，世界上第一个浏览器 Mosaic， 曾这样标志自己：
+<br> <br>这很合理，因此当 Netscape 出来的时候，它保留了 Mosaic 这个传统，还在后面添加了一个加密方式部分。
+<br> <br>到目前为止，一切安好，直到 IE3 发布，当 IE3 发布的时候，Netscape 正如日中天，那时，很多服务器和程序已经部署了客户端探测机制，以便认出 Netscape，虽然现在看来，这很值得争议，但当时并没什么。当 IE 初次推出它们的 User Agent 标志的时候，是这个样子：
+<br> <br>这让 IE 很被动，因为 Netscape 已经能被很多服务器识别，因此，开发者们干脆希望 IE 被误认为 Mozilla，然后，再单独加一个 IE 的标签。
+<br> <br>如今，几乎所有浏览器都步 IE 后尘，将自己标识为 Mozilla，这大概是一种连锁反应。<br> <br>
+6. 不一致的函数范围
+<br> <br>参看以下代码：
+<br> <br>foo(bar.method) 返回结果不同原因是，method 函数是被当作 windows 对象，而不是 bar 下的对象调用的。要解决这个问题，我们必须从传递的匿名函数中调用 bar.method() 。<br> <br>
+7. 位操作符
+<br> <br>JavaScript 和 Java 有不少共同之处，如位操作。
+<ul>
+<li> <b>&amp;</b> - <i>and</i> </li>
+<li> <b>|</b> - <i>or</i> </li>
+<li> <b>^</b> - <i>xor</i> </li>
+<li> <b>~</b> - <i>not</i> </li>
+<li> <b>&gt;&gt; </b> - <i>signed right shift</i> </li>
+<li> <b>???</b> - <i>unsigned  right shift</i> </li>
+<li> <b> - <i>left shift</i> </b> </li>
+</ul>
+看看第一个 &amp; 操作符，使用 &amp;&amp; 应该更有效，因为 JavaScript 和 Java 不一样，JavaScript 没有整数，需要来回转换，因此，转换操作花的时间更长。<br> <br>
+8. 太多的空值类型
+<br> <br>诸如 null, false, undefined 一类的值几乎表示同样的意思，它们之间的不同又让人很迷惑。<br> <br>
+9. 算术问题
+<br> <br>虽然 JavaScript 包含很多算术操作，但你不妨运行一下下面的算式，".2+.4" 应该等于 ".6" 是不是，然而返回的确是 "0.6000000000000001"。JavaScript 在小数计算访问存在一些小问题。
+<br> <br>为什么会这样？简单说，因为 JavaScript 使用 IEEE 标准进行二进制浮点运算，不过，对整数计算是没问题的。<br> <br>
+10. 莫名其妙的代码错误
+<br> <br>看看以下两段代码：
+<br> <br>它们应该是一样的，只是 { 位置不同而已，是吧。然而我们再看下面的代码：
+<br> <br>如果我们把其中的
+<br> <br>换成
+<br> <br>就会引发错误，这是因为 JavaScript 有一个功能，会纠正它认为错误的代码书写，它会自作聪明地在 return 这个词后面插入一个 ";" ，错误因此而生。
+<br> <br>本文来源：<a href="http://net.tutsplus.com/tutorials/javascript-ajax/top-10-things-that-javascript-got-wrong/">http://net.tutsplus.com/tutorials/javascript-ajax/top-10-things-that-javascript-got-wrong/</a> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b>网站内容管理系统</a>官方站"
+➜交互式黑洞模拟
+https://www.solidot.org/story?sid=16267	20700
+据发表在《美国物理学》杂志上的一篇<a href="http://dx.doi.org/10.1119/1.3258282">报告</a>，德国<a href="http://www.uni-stuttgart.de/index.en.html">Stuttgart大学</a>的研究人员制作了一个基于Qt的<a href="http://www.vis.uni-stuttgart.de/~muelleta/IntBH/">交互式的黑洞模拟程序</a>（<a href="http://www.vis.uni-stuttgart.de/~muelleta/IntBH/LinuxDssBH.tgz">Linux</a>，<a href="http://www.vis.uni-stuttgart.de/~muelleta/IntBH/WinDssBH.zip">Windows</a>）,演示了从近处（如果真能近距离接触的话）<a href="http://science.slashdot.org/story/10/02/14/0145252/New-Interactive-Black-Hole-Simulation-Published">观察黑洞看到的情景</a>。<i>
+程序使用了大约118,000颗恒星的真实位置，模拟了黑洞对光的扭曲，频移，引力透镜，以及对空间外观产生的像差。模拟程序提供了“quasi static”和“freely falling”两种模式，允许使用者自行探索黑洞周围的星际空间。</i>
+<a href="http://www.vis.uni-stuttgart.de/~muelleta/IntBH/movies/bh_rot_r5_1200x600.mp4">视频</a>(MP4)
+➜17岁德国作家称作品不是抄袭而是取样
+https://www.solidot.org/story?sid=16268	25800
+《纽约时报》报道了<a href="http://www.nytimes.com/2010/02/12/world/europe/12germany.html">一个似曾相识的故事</a>，17岁德国少女作家Helene Hegemann的处女作在短短数周内便跻身德国畅销书榜第五名，并入选了一个大图书奖的决赛圈。<i>
+这部小说名为《<a href="http://www.amazon.de/Axolotl-Roadkill-Helene-Hegemann/dp/3550087926">Axolotl Roadkill</a>》，讲述了一位16岁的少女在母亲去世后沉迷于吸毒和泡酒吧的故事。这部小说非常成功，甚至已有戏剧和电影改编计划。然而，一位博客上周透露，小说抄袭了另一部不太知名的小说《Strobo》，其中一页未作多少修改完整拷贝。更让人感到惊讶的是，Hegemann没有否认，但坚持称自己没做错，声称<a href="http://news.slashdot.org/story/10/02/12/1832257/Is-Plagiarism-In-Literature-Just-Sampling?from=rss">不是抄袭而是取样和混搭</a>。她说她是生长的各种媒体混搭的新一代人，混搭在现代文化中是合法的。</i>
+➜AOL中国含恶意软件
+https://www.solidot.org/story?sid=16269	26700
+<a href="http://3seconds.cn/">3秒</a> 写道 <i>"使用谷歌Chrome和火狐浏览器访问美国在线（AOL）中文版的chinese.aol.com和cn.aol.com这两个域名时，你会收到来自浏览器的警告，<a href="http://techcrunch.com/2010/02/13/aol-china-malware/">称网站含有恶意软件</a>，甚至在使用谷歌搜索“AOL China”时，也会出现“该网站可能危害您的电脑”安全提示。浏览器安全分析称“恶意软件托管在 2 个域上，其中包括 xzgfgh.8866.org/, qq88.in/，1 个域以传播媒介的身份向此网站的访问者散发了恶意软件，其中包括 tq121.com.cn/。”像AOL如此规模的网络公司的网站竟也遭到了恶意软件的侵蚀，这是颇值得一提的。更令人担忧的是在谷歌和火狐已经发出了警告的情况下，微软和雅虎这样的巨头仍然没有意识到安全风险的存在，所以请勿使用IE等浏览器访问AOL中文版。"</i>
+➜什么是TMI？
+https://www.solidot.org/story?sid=16270	32700
+linjunhalida 写道<i> "今天我在reddit上面看到了一个新的词语，TMI(Too much information)。意思大概是你听说了，或者经历了一些不想知道的事情。比如正在吃冰淇淋的时候看到了两女一杯。国内外是否有专门分享这类内容的网站？</i>  <a href="http://www.reddit.com/r/AskReddit/comments/b1mpv/whats_your_worst_tmi_too_much_information_moment/">链接如下</a>，猎奇注意。"
+➜Google Reader使用https连接?
+https://www.solidot.org/story?sid=16271	33900
+匿名读者 写道 "刚才进入google reader, 突然发现地址栏是https://www.google.com/reader/view/
+之前记得greader没有使用https连接, 不知道谁还有这样的情况?"
+➜Windows 7新的反盗版技术
+https://www.solidot.org/story?sid=16272	41520
+微软即将发布Windows 7<a href="http://yro.slashdot.org/story/10/02/11/1735210/Anti-Piracy-Windows-7-Update-Phones-Home-Quarterly?from=rss">新的反盗版技术</a>，<a href="__SLASHLINK__" sect="it" sid="10/02/12/1352228" sn="article" tid="33">暂时中国用户还不需要为此担忧</a>。Genuine Windows blog介绍了<a href="http://windowsteamblog.com/blogs/genuinewindows/archive/2010/02/11/windows-activation-technologies-update-for-windows-7.aspx">反盗版技术的细节</a>：<i>
+新的补丁Update for Microsoft Windows(KB71033)将在2月16日起在Genuine Microsoft Software网站提供手动下载，从2月23日起通过自动更新传递给用户（中国推迟到夏天部署），更新等级为“重要”。补丁将改变Windows 7目前采用的激活和反盗版技术，打上补丁后它将每隔90天自动连接到微软的服务器检查是否为正版，服务器上的数据库包含了最新的盗版系统数字指纹（目前数据库内有超过70种破解方法）。如果用户的系统与指纹相吻合，那么系统将会降级到“非正版”状态。</i>
+➜永远不需要更换电池的微型传感器
+https://www.solidot.org/story?sid=16273	42720
+密歇根大学的研究人员将ARM Cortex-M3微控制器、薄膜电池、太阳能电池一起打包成只有<a href="http://www.ns.umich.edu/htdocs/releases/story.php?id=7520">9立方毫米大小</a>，它是至今最小的能从周围环境永久性（几乎）获取能量的系统。
+<i>
+计算机科学和工程博士生Greg Chen在2月9日的国际固态电路会议介绍该成果。系统可以在合理的光照条件下几乎永久性的工作，薄膜电池可用太阳能电池充电，唯一的限制是电池损耗，但电池应该能工作好多年。</i>
+➜科学家首次发现与口吃相关的基因突变
+https://www.solidot.org/story?sid=16274	45600
+研究人员首次发现<a href="http://sciencenow.sciencemag.org/cgi/content/full/2010/210/3">与口吃相关的基因突变</a>。有5%的儿童和1%的成人受口吃困扰，新发现或能开拓新的治疗方法。<i>
+分子遗传学家Dennis Drayna领导的团队在2005年首次发现了与口吃有关的基因线索。研究人员在对比了46个有口吃遗传的巴基斯坦家庭的DNA后，追踪到了第12号染色体的一个区域。在最新的研究中，Drayna和他的团队分析了超过1000万的DNA字母，最终找到了一个基因突变。突变发生在一个名叫GNPTAB的基因上，该基因帮助细胞中叫溶解体(lysosomes)的微细结构分解营养物和回收细胞成分。当研究人员确认了GNPTAB基因是口吃的首要怀疑目标后，他们集中注意力到另外两个基因GNPTG和NAGPA上，它们在溶解体功能中也扮演着十分重要的角色。研究人员随后在46个巴基斯坦家庭、另外77个有口吃的巴基斯坦人以及270个美国和英格兰口吃志愿者身上寻找这三个基因的突变。研究人员同时调查了无口吃的控制组志愿者基因。研究人员发现——4个人在GNPTAB基因上有突变、3个在GNPTG、3个在NAGPA——占口吃调查者比例的6%，但在控制组中只有不到0.5%的人在这三个基因上有突变。报告发表在《新英格兰医学杂志》上。</i>
+➜Google Buzz有重大的隐私问题
+https://www.solidot.org/story?sid=16275	46800
+匿名读者 写道 "Nicholas Carlson 写道 <i>“<a href="http://www.businessinsider.com/warning-google-buzz-has-a-huge-privacy-flaw-2010-2">Google Buzz 有重大的隐私问题</a>，当您第一次登录 Google Buzz 时，它会自动根据联系人设置关注，并会公开给所有人。但这个特性并没有任何提示。”
+有些人可能并不希望将自己的联系人公开，<a href="http://blogoscoped.com/archive/2010-02-11-n25.html">这个特性会给他们带来灾难</a>。"</i>
+《连线》上的一篇文章也<a href="http://www.wired.com/epicenter/2010/02/buzz-poll/">指责Google滥用用户数据库</a>，未经用户同意让成千上万人进入社交网络，甚至有人呼吁Google CEO为此公开道歉。

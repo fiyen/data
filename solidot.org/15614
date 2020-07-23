@@ -1,0 +1,15 @@
+➜Linux kernel 3.6发布
+https://www.solidot.org/story?sid=31646	42120
+Linus Torvalds宣布<a href="https://lkml.org/lkml/2012/9/30/152">发布</a>kernel 3.6。主要新特性<a href="http://kernelnewbies.org/Linux_3.6">包括</a>：<i>
+Btrfs文件系统支持为每个子卷设置容量限制，在达到限制值后将不能再写入数据，该功能可作为配额的替代，支持创建配额组，自动化子卷管理；Btrfs能计算出两个快照之间的差异，并将差异内容储存在单一文件内；挂起到磁盘和内存，电池耗尽时，可将休眠镜像写入磁盘挂起；客户端<a href="http://lwn.net/Articles/508865/">TCP Fast Open</a>实现（服务器端将在3.7中引入），减少流行网站的页面载入时间4%到41%；另一个减少网络拥堵的机制<a href="http://lwn.net/Articles/507065/">TCP small queues</a>；<a href="https://lwn.net/Articles/439298/">Swap over NFS</a>；VFIO设备虚拟化机制；改进内存管理；驱动更新，等等。</i>
+➜日本非法下载者将面临入狱或罚款惩罚
+https://www.solidot.org/story?sid=31647	44400
+非法下载版权材料的日本网民<a href="http://www.bbc.com/news/technology-19767970">将面临</a>最高2年徒刑或200万日元（折合人民币16万）的罚款。<i>
+自2010年起，非法下载在日本就已经是民事违法行为，但如今又在日本唱片协会的游说下加大了惩罚力度：非法上传版权音乐和视频将面临最高10年徒刑和1千万日元的罚款。根据2010年的一项研究，日本付费下载和非法下载的比例是1：10——43.6亿次盗版唱片和视频下载，4.4亿次付费购买。支持严惩盗版的日本索尼唱片CEO相信新修订法律将能遏制互联网上侵权活动的传播。</i>
+➜10美元机器人挑战赛获胜者宣布
+https://www.solidot.org/story?sid=31648	45900
+<a href="http://robotics-africa.org/">African Robotics Network (AFRON)</a> 宣布了10美元机器人设计挑战赛的<a href="http://spectrum.ieee.org/automaton/robotics/diy/winners-of-10-robot-challenge-announced">获胜者</a>。AFRON是一个机器人学家组织，旨在帮助非洲国家改进沟通和合作。10美元机器人挑战赛在年初宣布，目的是创建负担得起的教育用机器人。有28个设计方案报名参赛，最后选出了10个获胜者。分别是：<i>
+tethered组（机器人的计算和编程通过外部设备如笔记本完成）：1. <a href="http://www.tomtilley.net/projects/suckerbot/">Suckerbot(泰国)</a>；2.<a href="http://baobot.org/">Baobot(美国)</a>；3.<a href="http://www.afrobot.org/">Afrobot(美国)</a>；4. <a href="http://www.roboarmblog.wordpress.com/">RoboArm (Nigeria)</a>。传统组（机器人的编程通过外部设备完成，但自身有计算能力）1.<a href="https://sites.google.com/site/afron10dollarrobot">Kilobot (美国)</a>；2.<a href="http://wiki.xinchejian.com/wiki/Xinchejian_Shanghai_Hackerspace_AFRON_$10_Competition_submission"> SwarmRobot(中国)</a>；3.<a href="http://people.csail.mit.edu/cagdas/tmpAFRON//SEG/SEG__MITs_Origami_Inspired_Submission.html">SEG(美国)</a>；4. <a href="http://arcbotics.com/afron-submission">DiscBot(美国)</a>。all-in-one组（编程计算于一身）：1.<a href="http://mitbots.com/proposal_3">MITBOTS(印度)</a>；2.N-Bot (巴西)。</i>
+➜研究发现左派最具女性化
+https://www.solidot.org/story?sid=31649	51600
+个性对形塑政治理念的影响至少与环境、背景和他人影响不相上下。研究人员比较了自由意志派和保守派及左派（即西方自由派），发现相比保守派和左派，自由意志论者表现出更少的感情、同情和厌恶。他们发现自由意志论者的精神状况最具有男性化，<a href="http://online.wsj.com/article/SB10000872396390444358804578016291138331904.html">而左派最具有女性化</a>。这或许解释了为什么自由意志论者更多是男性而不是女性。自由意志论者更尊重自由，相信人类的命运应由自己决定，认为这不是政府的责任，他们相信自由是目的本身，胜过其它任何道德观念。社会保守派认为，自由意味着福利社会趋势，宽松道德和税收再分配的终结，即相信个人隐私权利可被侵犯。左派认为，自由是一种让集体感受到压迫的权利扩张方式，即相信企业自主经营权利可被侵犯。

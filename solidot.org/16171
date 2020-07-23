@@ -1,0 +1,74 @@
+➜Heartbleed代码作者称是无心之过
+https://www.solidot.org/story?sid=39092	6336
+OpenSSL的<a target="_blank" href="https://github.com/openssl/openssl/commit/4817504d069b4c5082161b02a22116ad75f822b1"><u>日志</u></a>显示，在程序代码中引入高危漏洞Heartbleed的责任人是德国程序员Robin Seggelmann。他在接受采访时表示，错误是<a target="_blank" href="http://www.smh.com.au/it-pro/security-it/man-who-introduced-serious-heartbleed-security-flaw-denies-he-inserted-it-deliberately-20140410-zqta1.html"><u>无心之过</u></a>，不是有意加入的。2011年新年前夕，他向OpenSSL项目递交了一系列bug修正和新增功能。但其中一个功能，他忘记去验证一个长度的变量。代码审查人Stephen Henson博士在审查代码时也没有注意到这个错误，这个严重bug随后就包含在了新版OpenSSL中。
+➜比特币币值跌至400美元以内
+https://www.solidot.org/story?sid=39093	8449
+<div align="center"><img src="http://img.solidot.com.cn/0/183/li9YA9baFq5SM.jpg" align=""><br>
+<br>
+</div>
+比特币币值在一天之内从450美元跌至<a target="_blank" href="http://bitcoinity.org/markets"><u>350美元</u></a>（单位是USD/mBTC，1mBTC=0.001BTC），下跌的原因被认为与中国有关。本月初的<a target="_blank" href="http://www.solidot.org/story?sid=38975"><u>消息</u></a>称，中国央行已要求国内商业银行和第三方支付机构在两周内关闭比特币交易账户，两周的截至日期已经逼近。4月10日，中国最大的比特币交易平台火币网<a target="_blank" href="http://www.huobi.com/news/index.php?a=show_notice&amp;id=303"><u>发布公告</u></a>宣布暂停工商银行卡充值业务，“接到工行中关村支行客户经理通知，接到上级行的通知，要求停止工行为火币网提供服务，在4月18日前完成火币网工行账户的销户。”比特币币值随后发生了暴跌。
+➜思科发现13款产品存在Heartbleed漏洞
+https://www.solidot.org/story?sid=39094	10481
+世界最大网络设备供应商之一的思科公司向客户发出了<a target="_blank" href="http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140409-heartbleed"><u>安全警告</u></a>，<span style="line-height: 1.5em;"><span style="line-height: 1.5em;">OpenSSL的</span>Heartbleed</span>安全漏洞不只是影响Web服务器，该公司至少有13款产品发现存在<span style="line-height: 1.5em;">Heartbleed漏洞，其中包括了</span><span style="line-height: 1.5em;">IOS XE操作系统。为网络设备打上补丁要比</span>Web服务器要困难得多，思科目前为其中两款产品发布了补丁。已知受影响的产品包括：Cisco AnyConnect iOS移动客户端、Cisco Desktop Collaboration Experience DX650、Cisco Unified 7800系列IP电话、Cisco Unified 8961 IP电话、Cisco Unified 9951 IP电话、Cisco Unified 9971 IP电话、Cisco TelePresence Video Communication Server(VCS)、Cisco IOS XE、 Cisco UCS B-Series (Blade) Servers、Cisco UCS C-Series (Stand alone Rack) Servers、 Cisco Unified Communication Manager (UCM) 10.0、 Cisco Registered Envelope Service (CRES)和Cisco Webex Messenger Service。
+➜Firefox OS 2.0初现峥嵘
+https://www.solidot.org/story?sid=39095	12772
+<div align="center"><img src="http://img.solidot.com.cn/0/184/lin5KuOvAiPYg.jpg" align=""><br>
+<br>
+</div>
+Mozilla德国代表Sören Hentzschel在其个人博客上公布了<a target="_blank" href="http://www.soeren-hentzschel.at/mozilla/firefox-os/2014/04/06/design-vorschau-auf-firefox-os-2-0/#!prettyPhoto"><u>一系列截图</u></a>，展示了即将发布的Firefox OS 2.0的全新界面。在Android和iOS统治的移动市场，Firefox OS主打中低端，才刚刚起步，它面临Googe的Android和微软最近免费的Windows Phone的激烈竞争，需要加倍努力才有可能占据一席之地。Firefox OS 2.0的<a target="_blank" href="http://www.cnet.com/news/new-features-and-appearance-for-firefox-os-2-0-emerge/"><u>新功能</u></a>包括：支持拷贝和粘贴；新的启动应用和切换应用的全局搜索机制；更有用的锁屏，能展示音乐播放器控制和可滑动的通知列表；FindMyFox手机定位功能，支持远程删除，位置跟踪和激活手机发声；整合 Firefox Accounts；NFC支持；更智能的输入；等等。
+➜联合国报告称新加坡最安全
+https://www.solidot.org/story?sid=39096	14432
+根据联合国毒品和犯罪办公室的最新<a target="_blank" href="https://www.unodc.org/gsh/en/data.html"><u>全球谋杀率报告</u></a>，新加坡是全世界最安全的地方，2012年每48万人才有1人被谋杀（总共有11人被杀死）。洪都拉斯是世界上最暴力的地方，一个人在其一生中有九分之一的几率被谋杀（1:1100）。《经济学人》的<a target="_blank" href="http://www.economist.com/news/international/21600713-un-offers-some-hints-how-avoid-being-bumped-dicing-death"><u>评论</u></a>说，如果你想要生命安全，不要生活在美洲或非洲，两大洲的谋杀率分别为1:6100和1:8000，四倍于世界其它地方；其次你要成为一名女人，女性被谋杀的几率仅仅是男性的四分之一；你最好远离男性，因为接近一半的谋杀案女性受害人是被配偶或家庭男性成员杀死的；日本和韩国是一个例外，超过半数的谋杀案受害人是女性；接着坐下来等待变老，在世界大多数地方，30岁以上的人被谋杀的几率显著下降；但不是所有地方都一样，在欧洲，年龄超过60岁的人比15-29岁的人更可能被谋杀。<br>
+➜Google Chrome漏洞将你的电脑变成窃听工具
+https://www.solidot.org/story?sid=39097	18326
+<center>
+<iframe src="https://www.youtube.com/embed/K1BbPLkN-hg?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+以色列程序员Guy Aharonovsky向Google递交<a target="_blank" href="https://code.google.com/p/chromium/issues/detail?id=360448"><u>bug报告</u></a>一天之后在个人博客上披露了Chrome上的<a target="_blank" href="http://blog.guya.net/2014/04/07/to-listen-without-consent-abusing-the-html5-speech/"><u>一个安全漏洞</u></a>， 他称Google一开始不重视他报告的bug，贴上了低优先级的标签。他<a target="_blank" href="http://yro.slashdot.org/story/14/04/10/2112216/google-chrome-flaw-sets-your-pcs-mic-live"><u>发现</u></a>，Google Chrome漏洞允许浏览器访问的任何网站在用户不知情下监听电脑附近的对话，网站并不能访问用户的麦克风音频，而是能访问发送到Google由Google识别的录音文本。他的测试平台是Mac。
+➜秦火火表示认罪
+https://www.solidot.org/story?sid=39098	24348
+秦火火（秦志晖）被指控诽谤、寻衅滋事一案于今日在北京朝阳区法院开庭受审，此案引发了打击整顿网络舆论的<a target="_blank" href="http://www.dw.de/%E7%A7%A6%E7%81%AB%E7%81%AB%E6%8D%9F%E5%AE%B3%E8%B0%81%E7%9A%84%E5%BD%A2%E8%B1%A1/a-17553189"><u>争议</u></a>。秦火火及其合作伙伴立二拆四于去年8月被捕。在法庭上，秦火火<a target="_blank" href="http://china.caixin.com/2014-04-11/100663891.html"><u>表示认罪</u></a>，称“我没有认识到网络不仅仅是一个虚拟空间，网络是自由的，我越过了红线，我严重损害了他人的名誉和声誉...网络不是法外之地，我恰恰是忽视了这一点，也忽视了法律和道德的存在，扰乱了网络的正常秩序。”公诉机关展示了秦火火发微博时的IP地址，IP地址应该是新浪提供，显示部分IP地址来自中山、深圳和上海，而秦火火声称他一直在北京或沈阳。不知道为什么IP地址会出现如此大的偏差。他的辩护律师认为检方的指控事实不清，证据不足，秦火火所发微博未达到严重影响社会秩序的程度，不构成寻衅滋事罪。
+➜释永信称谷歌搜索在中国不好用
+https://www.solidot.org/story?sid=39099	25273
+《新京报》<a target="_blank" href="http://www.bjnews.com.cn/inside/2014/04/11/312592.html"><u>采访了</u></a>最近访问过加州谷歌和苹果总部的少林寺CEO释永信。释永信谈了他的感想，“谷歌的氛围很动感很生活很快乐，就像少林功夫，而苹果公司从建筑到装修都很简洁很宁静，苹果的产品设计在简洁中充满想象力，便捷又好用，这有点像少林禅。一点苹果，就能和整个世界连通。”释永信称他曾用过谷歌地图，谷歌搜索。但后来谷歌不好用了，现在国内都主要用百度。谷歌搜索在2010年退出中国大陆，其搜索经常会触发防火墙的关键词重置。
+➜澳大利亚总理相信探测到了MH370黑匣子信号
+https://www.solidot.org/story?sid=39100	27657
+澳大利亚总理Tony Abbott周五<a target="_blank" href="http://www.bbc.com/news/world-asia-26984162"><u>表示</u></a>（<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/04/140411_abbott_mh370.shtml"><u>中文</u></a>），他相信搜索人员在南印度洋收到的脉冲信号确系来自马航MH370失踪客机的黑匣子。Abbott说，自从澳大利亚海盾号辅助舰上周末首次收到疑似来自飞机黑匣子的脉冲信号以来，搜索人员已经极大地缩小了搜寻范围。目前搜索范围已经缩小到了1300平方公里。他警告说，黑匣子信号正在减弱，搜索人员希望能在信号消失前尽可能搜集足够的信息以便确认黑匣子所在的方位。此前中国利用手持侦测器（据称探测距离只有200米）探测到的信号被广泛认为<a target="_blank" href="http://blog.sciencenet.cn/blog-51597-782695.html"><u>是误报</u></a>。
+➜报告称中国军方黑客活动再度活跃
+https://www.solidot.org/story?sid=39101	29550
+安全公司Mandiant的<a target="_blank" href="http://connect.mandiant.com/m-trends_2014?source=blog"><u>最新报告</u></a>（需要注册）称，与中国军方有关系的黑客在短暂休眠后<a target="_blank" href="http://www.ft.com/intl/cms/s/0/a6785a6c-c029-11e3-bfbc-00144feabdc0.html?siteedition=intl#axzz2yYjqCwAs"><u>再度活跃</u></a>。Mandiant去年二月发表了一份<a target="_blank" href="http://assets.sbnation.com/assets/2187805/Mandiant_APT1_Report.pdf"><u>报告</u></a>（pdf），指出总参三部二局（aka 解放军61398部队）涉嫌攻击了140多家公司，随后国军方黑客的活动有所下降，但到了当年夏末，在更换了IP地址后，黑客攻击规模恢复到了以往水平。Mandiant分析师Laura Galante称，黑客针对的仍然是知识产权和研发目标。Mandiant认为短暂的平静是为了评估政治损害，重组网络攻击行动，更好的隐藏攻击。Mandiant指出，伊朗黑客的水平不如中国黑客，攻击范围也没有中国黑客广泛。伊朗黑客的目标主要是能源和政府机构，使用的是公开的黑客工具；而中国黑客开发和使用了特别定制的工具。
+➜《星际争霸2》：玩家24岁后反应速度开始下降
+https://www.solidot.org/story?sid=39102	31703
+<div align="center"><img src="http://img.solidot.com.cn/0/185/liHGkPfDBly6.png" align=""><br>
+<br>
+</div>
+人们普遍相信，与年龄相关的认知运动功能显著下降是从45岁左右的中年开始。要完全理解这种“走下坡路”的直觉，科学家还需要从真实世界表现的直接测量中寻找出年龄相关的功能衰退。即时战略游戏《星际争霸2》需要玩家有较高的微控技术才有可能击败对手，它虽然不属于日常活动，但和棋类游戏和篮球一样都是一种真实世界任务。加拿大的两位心理学家和一位统计学家合作，分析了3305名16岁到44岁《星际争霸2》玩家的表现，发现与年龄相关的反应速度下降是从24岁开始。<a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094215"><u>研究报告</u></a>发表在PLOS ONE上。<br>
+➜荷兰下载盗版材料将是非法
+https://www.solidot.org/story?sid=39103	33889
+昨天在荷兰下载盗版材料还不算犯罪，但今天这已经变成了一项罪名。欧洲最高法院作出<a target="_blank" href="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140058nl.pdf"><u>裁决（PDF）</u></a>，荷兰政府可以采取法律手段阻止非法来源的下载。荷兰议会随后发表<a target="_blank" href="http://www.rijksoverheid.nl/ministeries/venj/nieuws/2014/04/10/uitspraak-hof-van-justitie-vergt-aanpassing-thuiskopieheffingen.html"><u>声明</u></a>，宣布禁止下载盗版材料的禁令<a target="_blank" href="http://www.zdnet.com/downloading-pirate-material-finally-becomes-illegal-in-the-netherlands-7000028330/"><u>即时生效</u></a>。欧洲法院还裁决荷兰对空白储存媒介征收的个人拷贝税为非法，认为这是对公民没有做的事情进行罚款。
+➜法国工会禁止下班后检查工作邮件
+https://www.solidot.org/story?sid=39104	35542
+法国两大企业联盟和两大工会签署了新的劳动协议，宣布雇员在下班后不需要去检查或感觉有压力<a target="_blank" href="http://tech.slashdot.org/story/14/04/10/143213/new-french-law-prohibits-after-hours-work-emails"><u>去检查工作邮件</u></a>，确保他们每天在离开办公室后可以尽情放松十几小时。新协议将影响大约100万科技和咨询行业的雇员，其中包括Google和Facebook的法国分公司。普通雇员必须在享受国家规定的甜蜜生活时间时抵制在电脑或手机上查看工作邮件的诱惑，但管理人员<a target="_blank" href="http://arstechnica.com/business/2014/04/france-orders-no-work-e-mail-after-hours-but-only-for-managers/"><u>不在协议覆盖范围内</u></a>。法国法律强制规定每周工作时间为35小时，每年最少有五周法定假期。新的协议允许在上午9点到下午6点的工作时间外发送工作邮件，但仅限于特殊情况。
+➜研究人员发现上万存在Heartbleed漏洞的网站
+https://www.solidot.org/story?sid=39105	38215
+密歇根大学的一个安全研究团队利用开源网络扫描工具ZMap搜索存在Heartbleed漏洞的网站。Heartbleed漏洞可以让攻击者从使用OpenSSL 1.0.1加密库的Web服务器内存中提取用户名密码等敏感信息。研究人员<a target="_blank" href="https://zmap.io/heartbleed/"><u>完整扫描了地址空间</u></a>，截至4月10日2:00 PM，Alexa排名前百万的网站中有32%支持SSL，在支持HTTPS的网站中，9%存在漏洞，31.9%安全的支持OpenSSL TLS Heartbeat Extension， 59%不支持Heartbeat Extension（也就是安全的）。对IPv4地址空间的完整扫描显示，支持HTTPS的主机5.7%仍然存在漏洞，5.3%安全， 90%不支持Heartbeat Extension。研究人员根据Alexa排名公开了前1000个存在漏洞的网站名单，其中包括twitpic.com和一家深圳公司<a target="_blank" href="http://www.dji.com/">大疆创新</a>。
+➜索尼就电池过热警告Vaio Fit 11A用户
+https://www.solidot.org/story?sid=39106	40721
+索尼<a target="_blank" href="http://www.sony.net/SonyInfo/News/ServiceArea/140411E/index.html"><u>警告</u></a>Vaio Fit 11A消费者立即停止使用笔记本，原因是笔记本电池存在过热问题，可能有起火的风险。Vaio Fit 11A笔记本今年2月发售，至今共售出25905部，其中中国市场为2088部。索尼表示它考虑召回笔记本，计划在未来几周公布与维修有关的信息，目前它要求用户尽可能快的停止使用这款笔记本电脑。《华尔街日报》<a target="_blank" href="http://online.wsj.com/news/articles/SB10001424052702303603904579494772786758600"><u>报道</u></a>，Vaio Fit 11A已经发生了三起起火事故，第一起3月19日发生在日本，之后是3月30日发生在香港和4月8日发生在中国。该型号的笔记本是Vaio系列的最后一款，索尼已宣布出售Vaio业务。Vaio Fit 11A于本月初停止销售，它使用的电池由松下制造。
+➜王石声称将用3D打印机造房
+https://www.solidot.org/story?sid=39107	41726
+《南华早报》<a target="_blank" href="http://www.nanzao.com/sc/money/24931/wang-shi-mo-ke-san-nian-hou-3dda-yin-chu-fang-zi"><u>报道</u></a>，
+万科董事长王石表示，万科下一步准备用3D打印机打印房子，三年后实现。<a target="_blank" href="http://zh.wikipedia.org/wiki/%E4%B8%87%E7%A7%91"><u>万科</u></a>是中国最大的房地产公司。<u>王石</u>在上海同济建筑设计研究报告厅的主题演讲中表示，“万科下一步准备做什么呢？我们要用3D打印机打印房子。三年之后万科的建研中心就会用3D打印机打印出一个房子，万科要集中资源，集中全球最优秀的资源，在中国广阔的城镇化进程中，做很多以前想不到的事情。”报道对此并没有深入下去，<a target="_blank" href="http://www.vanke.com"><u>万科网站</u></a>也没有关于3D打印技术的任何消息。
+➜Google希望女生学编程，男生一边玩去
+https://www.solidot.org/story?sid=39108	44172
+Google赞助的一个<a target="_blank" href="https://www.khanacademy.org/donors-choose"><u>教育项目</u></a>希望女生能<a target="_blank" href="http://tech.slashdot.org/story/14/04/10/1235219/google-teach-girls-coding-get-2500-teach-boys-get-0"><u>爱上编程</u></a>。可汗学院（Khan Academy）称，Google希望公立学校的学生，尤其是女生，能发现编程的魔力。如果学校教师能帮助女生完成他们的计算机编程课程，那么每通过一名女生，教师将能奖励100美元的DonorsChoose.org礼品卡；四个以上女生还能获得额外的500美元奖励，每名教师最高可以获得2500美元。帮助男生完成计算机编程课程没有任何奖励。对参与该项目的教师来说，女孩是宝贝男孩则一钱不值。
+➜脸部老化软件向你展示孩子的未来
+https://www.solidot.org/story?sid=39109	45138
+<div align="center"><img src="http://img.solidot.com.cn/0/186/liQS8oBuOb42.png" align="" height="138" width="540"><br>
+<br>
+</div>
+世界上第一款<a target="_blank" href="http://grail.cs.washington.edu/aging/"><u>脸部老化软件</u></a>能在30秒内，根据输入的儿童的脸部照片<a target="_blank" href="http://spectrum.ieee.org/tech-talk/computing/software/face-aging-software-can-show-your-childs-future"><u>预测他们成年和老年时候的脸部肖像</u></a>。华盛顿大学计算机科学家的这项研究获得了Google和英特尔的资助。软件的预测魔力来源于对互联网上1500幅不同人在相同年龄段的照片分析，寻找人的脸部随着年龄增长的老化效应，计算脸部老化效应的平均值，然后向儿童照片应用这些变化。这项技术能成为警方调查和想知道未来的好奇网民的有用工具。研究人员称，他们向被试展示了计算机生成的照片和真实的照片，然后请他们挑选出真实照片，结果参与者更多选择了人工渲染的照片。<br>
+<br>
+<center>
+<iframe src="https://www.youtube.com/embed/bXsIE-3PBQo?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>

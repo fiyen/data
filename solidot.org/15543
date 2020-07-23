@@ -1,0 +1,30 @@
+➜奥地利古堡发现15世纪胸罩
+https://www.solidot.org/story?sid=30596	4680
+woodhead 写道<i> "奥地利茵斯布鲁克大学（University of Innsbruck）<a href="http://phys.org/news/2012-07-year-old-linen-bras-austrian-castle.html">周三宣布</a>考古学家们在奥地利Tyrol州的Lemberg Castle中发现4件亚麻胸罩。2008年这里出土2700件15世纪的衣物，其中包括这4件呈现出现代样式的亚麻胸罩。其中一件极像现在的胸罩，有宽肩带，从残迹中判断可能还有背带。衣物里还有两件女式紧身内裤（panties），不过参与本次发掘的考古学家Beatrix Nutz说当时这是男士衣物，那时候的女性在长裙下是不穿东西的。现在看来女性内衣的时间线可能是胸罩——紧身内衣——重新发明胸罩。"</i>
+➜Linux 3.5发布
+https://www.solidot.org/story?sid=30597	7920
+Linus Torvalds <a href="https://lkml.org/lkml/2012/7/21/114">宣布</a>发布3.5 kernel。主要<a href="http://kernelnewbies.org/Linux_3.5">新特性</a>包括：
+<i>
+<a href="http://lwn.net/Articles/496509/">CoDel队列管理算法</a>，
+<a href="http://lwn.net/Articles/475043/">seccomp filters</a>沙盒机制，Android风格的
+<a href="http://lwn.net/Articles/479841/">自动休眠和唤醒锁机制</a>，用户空间探测子系统<a href="http://lwn.net/Articles/433568/">uprobes</a>，TCP连接修复，减少重复确认加快转发的TCP Early Retransmit，
+<a href="http://lwn.net/Articles/486301/">连续性内存分配器</a>，
+<a href="http://lwn.net/Articles/478111/"> <tt>kcmp()</tt> </a>系统调用，ext4文件系统加入<a href="http://lwn.net/Articles/469805/">元数据校验和</a>，改进Btrfs，更新驱动等等，
+更多信息可浏览
+<a href="http://kernelnewbies.org/Linux_3.5">KernelNewbies</a>。</i>
+➜北京因暴雨至少死亡10人，一名男子淹死在马路上
+https://www.solidot.org/story?sid=30598	11520
+官方媒体新华社<a href="http://www.reuters.com/article/2012/07/22/us-china-beijing-weather-idUSBRE86L01C20120722">报道</a>，北京昨天因暴雨导致至少有10人死亡。新华社称，北京昨天的平均降雨量为170毫米，其中房山区达到460毫米。暴雨淹没了一些交通要道，二环路广渠门桥下一片汪洋，五辆车搁浅水中，其中一辆越野车中被困男子虽被救出，<a href="http://news.ifeng.com/photo/hdnews/detail_2012_07/22/16203972_0.shtml#p=1">但送医抢救无效身亡</a>。消防员需要穿着救生衣、拿着绳子和救生圈才能走进水内拉回被困车辆。抢救人员称，死亡男子为江苏人，34岁左右，被救出来时已无生命迹象，主要原因是溺水。这场暴雨号称六十年一遇。
+➜HTML5分裂成两个标准
+https://www.solidot.org/story?sid=30599	19440
+一度在HTML5标准上合作的标准制定组织<a href="http://www.whatwg.org/">WHATWG</a>和<a href="http://www.w3.org/">W3C</a> <a href="http://developers.slashdot.org/story/12/07/21/2040257/html5-splits-into-two-standards">分崩离析</a>了。WHATWG宣布正在为HTML<a href="http://www.i-programmer.info/news/191-htmlcss/4531-which-html5-whatwg-and-w3c-split.html">制定一个活的标准</a>，它将随着新技术的加入而不断进化。而万维网联盟(W3C)则依旧采用传统的方法制定传统的标准，需要耗费许多时间。W3C的标准被WHATWG认为是它的活标准的一个快照。与W3C保守迟缓的做法相比，WHATWG能更快的为HTML5引入新技术。HTML5的未来变得复杂起来。
+➜优秀的Linux CAD工具
+https://www.solidot.org/story?sid=30600	36600
+<a href="mailto:sjenkins@gmail.com">Stuart Jenkins</a> 写道 <i>"计算机辅助设计（CAD）是利用计算机技术去设计真实或虚拟的对象。它通常是指产品或零件的制图（技术图纸和工程图纸）。CAD软件被广泛用于设计汽车，航天、舰船和假肢，建筑的模型或原型。软件能帮助设计师检验设计创意，通过动画和效果图可视化概念，模拟设计在真实世界中如何表现。专业的CAD软件动辄数千美元，对独立的设计师而言，软件的成本可能成为一大障碍。幸运的是，开源软件能<a href="http://www.linuxlinks.com/article/20120721030347887/CADTools.html">提供许多优秀的替代</a>：如2D CAD软件<a href="http://librecad.org/">LibreCAD</a>，<a href="http://gcad3d.org/">gCAD3D</a>，设计电路图的<a href="http://www.kicad-pcb.org/">KiCad</a>，<a href="http://www.openscad.org/">OpenSCAD</a>等等。
+"</i>
+➜苹果Mac应用内购买流程同样可被绕过
+https://www.solidot.org/story?sid=30601	39600
+俄罗斯黑客Alexey Borodin<a href="__SLASHLINK__" sect="apple" sid="12/07/15/0315216" sn="article" tid="100">发现了</a>绕过iOS应用内付费流程的方法，现在他发现同样的方法<a href="http://www.zdnet.com/apple-mac-in-app-purchases-hacked-everything-free-like-on-ios-7000001323/">也适用于Mac应用内购买</a>。他的方法可以让Mac用户绕过购买流程，不花一分钱就窃取到应用内内容，用户所需要做的只是“安装CA和in-appstore.com的证书，改变Wi-Fi设置中的DNS记录，运行Grim Receiper应用程序”。除非苹果采取措施，应用程序开发者无能为力。
+➜圆周率我们需要精确多少位？
+https://www.solidot.org/story?sid=30602	42120
+除了庆祝3月14日π日外，圆周率的爱好者也许更应该庆祝7月22日，因为22/7约等于3.142857，它比3.14更接近π的真实值。3.14和22⁄7都是圆周率的近似值，如果我们在实际中使用π，<a href="http://blogs.scientificamerican.com/observations/2012/07/21/how-much-pi-do-you-need/">需要取多少位才合适</a>？显然是根据实践需要，如为半径100米的游泳池建造防护栏，与总长度628.3185米相比，差几毫米并不重要；国际空间站的引导与导航控制系统使用的π要精确到15位，空间一体化全球定位系统/惯性导航系统（SIGI ）需要取16位，SIGI被用于控制和稳定宇宙飞船；物理学宇宙基本常数使用的π要精确到32位。

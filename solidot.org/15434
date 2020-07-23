@@ -1,0 +1,20 @@
+➜研究人员揭开中国屏蔽Tor的诡计
+https://www.solidot.org/story?sid=29016	39600
+2011年10月4日，一位中国Tor用户在Tor bug tracker上报告说，未公开网桥在连上数分钟之后就被切断。此前防火墙屏蔽Tor主要是通过IP地址黑名单和HTTP头过滤。Team Cymru的研究人员研究后发现，<a href="__SLASHLINK__" sect="internet" sid="12/01/10/0222205" sn="article" tid="120">中国防火墙的深度包检测设备已能识别Tor指纹</a>，它会尝试用探针与秘密网桥进行连接，成功连上会就将其加入黑名单。现在，瑞典Karlstad大学的两位研究人员通过模拟测试，<a href="http://www.v3.co.uk/v3-uk/news/2165733/swedish-researchers-uncover-key-chinas-tor-blocking">揭示了最新的防火墙诡计</a>，并提供了应对之策。<a href="http://arxiv.org/pdf/1204.0447v1.pdf">报告</a>(PDF)发表在预印本网站上。<i>
+研究人员在新加坡亚马逊EC2云服务器和瑞典Karlstad校园网中建立了秘密网桥，Tor客户端则使用中国的SOCKS代理服务器和一个VPS。他们发现，防火墙在搜索到Tor流量后，会使用来自中国电信和中国联通IP池中的随机IP地址扫描主机，连上就加以屏蔽。防火墙最常用的IP地址是202.108.181.70，Whois记录显示该地址属于Beijing Guanda Technology Co.Ltd，但研究人员推测这家公司对扫描活动并不知情，它的地址被防火墙冒用了。防火墙的扫描活动持续3分钟，间隔15分钟，类似[0; 3]，[15; 18]，[30; 33]和[45; 48]。在测试中，他们发现了令人迷惑的扫描长时间中止现象，如1月25日到1月28日（中国春节），3月8日17:30到3月9日 10:00，3月14日10:30到3月16日4:30。长时间的中断可能是因为假期，而短时间的中断可能属于系统的计划维护窗口。对于如何应对中国的Tor流量识别，研究人员认为obfsproxy能打败防火墙，不过目前公开的obfsproxy网桥已经被中国加入到黑名单，秘密obfsproxy网桥未受影响。此外，包分割工具也可以隐藏Tor流量。
+</i>
+➜Rybka破解王翼弃兵开局
+https://www.solidot.org/story?sid=29017	41520
+国际象棋程序Rybka（曾被发现<a href="__SLASHLINK__" sect="opensource" sid="11/06/30/0346259" sn="article" tid="5">剽窃了</a>开源国际象棋引擎）宣称<a href="http://chessbase.com/newsdetail.asp?newsid=8047">破解了</a>曾经非常流行的开局走法<a href="http://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BF%BC%E6%A3%84%E5%85%B5">王翼弃兵</a>(1.e4 e5 2.f4 exf4)。Rajlich在IBM POWER 7服务器并行集群上运行了4个多月，获得了关于王翼弃兵的一些有趣发现。服务器共包括2880个核心，运行频率4.25 GHz，内存16TB，硬件配置接近IBM Watson。所谓“破解”的意思是知道开局位置后结局已经明了。
+➜Facebook反诉雅虎侵犯其10项专利
+https://www.solidot.org/story?sid=29018	42480
+没人感到惊讶，Facebook对雅虎<a href="http://www.zdnet.com/blog/facebook/facebook-countersues-yahoo-over-10-patents/11370">提起了专利侵权诉讼</a>，声称雅虎侵犯了它的10项专利。此前雅虎曾起诉社交巨人侵犯了它的10项专利，Facebook的反诉可能会促使双方达成某种和解协议。Facebook表示，雅虎的主页、内容优化、关联引擎、Flickr照片分享服务、雅虎旗下不同网站的广告展示侵犯了它的专利。
+➜Github发布主页生成器
+https://www.solidot.org/story?sid=29019	44100
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道 <i>"如果你以前在Github创建过项目，是不是期望找个时间去（找个设计师）做一个漂亮的项目主页吧？不要这样想啦。Github推出了一个<a href="http://blog.jobbole.com/16657/">新功能</a>：<a href="http://pages.github.com/">Github主页生成器</a>（GitHub Page Generator）。Github官方博客在4月2日发表了一篇<a href="https://github.com/blog/1081-instantly-beautiful-project-pages">说明文章</a>，讲解如何使用该功能。项目主页目前只有 8 种风格（还在增加中），都由 Github 设计师和开发人员完成。"</i>
+➜RockYou因为明文储存密码被罚25万美元
+https://www.solidot.org/story?sid=29020	44400
+2009年，社交游戏开发商RockYou的主页被发现存在SQL注入漏洞，黑客利用漏洞窃取了用户资料，发现RockYou<a href="__SLASHLINK__" sect="internet" sid="09/12/15/114224" sn="article" tid="100">用明文储存了用户密码</a>，此事导致上千万用户资料被公布在网络上，其中包括大约18万未成年人。现在，RockYou因为未能保护用户隐私而被联邦贸易委员会罚款<a href="http://www.zdnet.com/blog/security/ftc-fines-rockyou-250000-for-storing-user-data-in-plain-text/11274">25万美元</a>，并因收集儿童信息而被控侵犯了儿童隐私保护法。它被要求删除儿童信息，并在未来二十年内接受第三方的独立审计。
+➜微软是第17位Linux贡献者
+https://www.solidot.org/story?sid=29021	46080
+Linux基金会发布了<a href="http://go.linuxfoundation.org/who-writes-linux-2012">2012年Linux开发报告</a>(PDF)，分析了Linux kernel 2.6.36到 3.2的开发者和贡献者。十大贡献者是：Red Hat、Intel、Novell、IBM、德州仪器、Broadcom、诺基亚、三星、Oracle和Google。而软件巨人的贡献<a href="http://linux.slashdot.org/story/12/04/03/193222/microsoft-counted-as-key-linux-contributor">排在在第17位</a>，该公司CEO曾声称Linux是一种癌症。微软工程师贡献了688个补丁，主要和Hyper-V虚拟机技术有关。排在前10的开发者是：Thomas Gleixner、Joe Perches 、Chris Wilson、David S. Miller、Axel Lin、Eric Dumazet、K. Y. Srinivasan、Johannes Berg 、Al Viro和Tejun Heo。

@@ -1,0 +1,12 @@
+➜土耳其政变，社交网络被屏蔽
+https://www.solidot.org/story?sid=48963	2930
+土耳其<a target="_blank" href="http://www.bbc.com/news/world-europe-36809083"><u>发生了军事政变</u></a>，目前局势还不明朗，军方声称接管了国家，土耳其总统埃尔多安（Recep Tayyip Erdogan）则声称挫败了政变阴谋。社交网络上流传的视频显示，坦克开到了街上，武装直升飞机<a target="_blank" href="https://twitter.com/bm21_grad/status/754051534086897664?ref_src=twsrc%5Etfw"><u>对着地面开火</u></a>。政变发生之后，埃尔多安利用 FaceTime 通过<a target="_blank" href="http://qz.com/733810/after-the-military-seized-state-media-turkeys-president-took-to-facetime-to-urge-citizens-to-resist/"><u>CNN土耳其</u></a>发表声明，呼吁民众上街捍卫民主。与此同时， Facebook、Twitter和YouTube等社交网站<a target="_blank" href="https://techcrunch.com/2016/07/15/facebook-twitter-and-youtube-blocked-in-turkey-during-reported-coup-attempt/"><u>都遭到屏蔽</u></a>，但在VPN和其它代理工具的帮助下，土耳其人仍然通过社交网络直播政变。
+➜英国政府称它有权力禁止端对端加密
+https://www.solidot.org/story?sid=48964	41482
+在英国下议院委员会审议辩论中，国防大臣 Howe 伯爵表示调查权力法（Investigatory Powers Bill）给予内政大臣权力<a target="_blank" href="http://www.theregister.co.uk/2016/07/14/gov_says_new_home_sec_iwilli_have_powers_to_ban_endtoend_encryption/"><u>强迫通信服务提供商移除或禁止端对端加密</u></a>。自由民主党成员Strasburger勋爵认为政府的话暗示没有人可以开发端对端加密。他说，加密是通信双方用户之间的隐私，端对端加密意味着通信服务提供商也无法破解加密。如果内政大臣有权移除加密，那么这意味着加密能被破解，没有真正的端对端加密，而下一个版本的Apple iPhone在理论上将是非法的。Howe伯爵回答，他没有暗示政府希望禁止端对端加密，政府也没有寻求禁止任何类型的加密，而是希望企业能提供合理可行的方法去解密通信内容。
+➜Ubuntu论坛遭到入侵，用户数据泄露
+https://www.solidot.org/story?sid=48965	43490
+Ubuntu官方论坛Ubuntu Forums遭到攻击者入侵，200多万用户数据如IP地址、用户名和电子邮件地址被窃取。负责Ubuntu开发的Canonical公司通过官方博客<a target="_blank" href="http://insights.ubuntu.com/2016/07/15/notice-of-security-breach-on-ubuntu-forums/"><u>解释了这一事件</u></a>：7月14日20:33 UTC接到通知称有人获取了论坛数据库拷贝，初步调查确认数据有泄露，因此作为预防措施立即关闭论坛。进一步调查发现，论坛使用的插件Forumrunner存在一个已知SQL注入漏洞没有及时打上补丁。利用这个漏洞攻击者下载了与用户相关的数据库，但不包括密码。论坛使用的是Ubuntu单点登录，数据库储存的密码字段是随机字符串。
+➜伪造及恶意的Pokemon Go应用现身Google Play
+https://www.solidot.org/story?sid=48966	44522
+Pokemon Go短短一周多的时间里成为了一种现象级的手游，它的火爆吸引了网络犯罪分子，恶意修改版本的出现并不出人意料，但令人意外的是其中部分应用出现在Google官方商店Google Play中。Google Play对开发者递交的应用主要是通过程序自动扫描，基本上不存在人工审核，扫描没有问题的话会迅速批准上线，因此会不时发现漏网之鱼。安全公司Eset的研究人员在Google Play中<a target="_blank" href="http://www.welivesecurity.com/2016/07/15/pokemon-go-hype-first-lockscreen-tries-catch-trend/"><u>至少发现了三款利用Pokemon Go热的虚假和恶意应用</u></a>。其中叫Pokemon Go Ultimate的应用危险性最大，它在安装之后会立即锁定屏幕，重启也没有用，要解锁屏幕需要卸下电池（可今天的很多智能手机都不能移除电池）或使用 <a href="https://www.google.com/android/devicemanager">Android Device Manager</a>。解锁之后该应用并没有卸载而是继续在后台运行，悄悄点击广告为开发者带来收入。

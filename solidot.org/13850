@@ -1,0 +1,30 @@
+➜KDE 4将在明年1月11日正式发布
+https://www.solidot.org/story?sid=4571	1500
+这是官方的正式公告：<a href="http://dot.kde.org/1196525703/">KDE 4.0将在08年1月11日发布</a>。这个日期貌似还不是很确定，因为“开发者还需要时间解决几个重要的问题，以确定能在发布时候提供一个更强大和工作更良好的KDE”。在今年3月11日发布<a href="http://www.kde.org/announcements/announce-4.0-alpha1.php">第一个Alpha</a>测试版时，预报的正式发布日期是2007年10月，在<a href="http://www.kde.org/announcements/announce-4.0-beta2.php">第二个Beta测试</a>时，发布日期跳到了今年年底。虽然如此，<a href="http://en.wikipedia.org/wiki/KDE_4">KDE 4.0</a>还是值得用户等待的。
+➜IPv9：无以更深的悲哀
+https://www.solidot.org/story?sid=4572	4500
+palxex 写道 "华南虎事件尘埃落定之后，<a href="http://en.wikipedia.org/wiki/IPv9">IPv9</a>(是的，你没看错，不是v6是v9)闪亮登场——也许说是重返视线更合适，因为最近跟它相关的新闻投递突然多了起来。<a href="http://tech.sina.com.cn/i/w/2004-06-28/2328380917.shtml">1</a>，<a href="tech.sina.com.cn/i/w/2004-06-28/2331380918.shtml">2</a>，<a href="http://www.google.com/search?q=IPv9">google more</a>（<a href="http://news.google.cn/news?q=IPv9&amp;oe=UTF-8&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;tab=wn">google news</a>）..... <br>
+一份<a href="http://www.ietf.org/rfc/rfc1606.txt?number=1606">ietf数年前的愚人节文档</a>(<a href="http://blog.delphij.net/archives/000498.html">译文</a>)，一位网友<a href="http://w.org.cn/user1/4/subject/72.html">孜孜不倦的调查</a>，一个<a href="http://ceo.ttwv.com/marketing/case/118244326628027.shtml">两万亿级别的骗局</a>？"
+➜Blizzard和Activision宣布合并
+https://www.solidot.org/story?sid=4573	12000
+游戏《使命召唤》和《魔兽世界》的制作公司<a href="http://www.nytimes.com/2007/12/03/technology/03activision.html?em&amp;ex=1196744400&amp;en=bb1fbffb03160c20&amp;ei=5087%0A">宣布合并</a>，预计将震撼全球的视频游戏产业。暴雪（Blizzard）和Activision合并后的新公司今年销售收入超过了EA，跃居全球第一。Activision的CEO Bobby Kotick将担任新公司的CEO，维旺迪（Vivendi，暴雪的母公司）成为新公司最大的单一股东。Activision的著名游戏有《吉他英雄》、《使命召唤》、Tony Hawks滑板系列；暴雪则拥有《星际争霸》、《魔兽争霸》、《暗黑破坏神》，和圈钱机器《魔兽世界》。两家合并后的公司规模依旧比行业巨头EA要小。新公司的名称为<a href="http://www.activisionblizzard.com/">Activision Blizzard</a>，官方网站已经上线。
+➜MD5算法攻陷实例
+https://www.solidot.org/story?sid=4574	19800
+2004年中国数学家<a href="http://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E9%9B%B2">王小云</a>证明MD5数字签名算法可以产生碰撞（即两个不一样的文件数字签名可以相同）后，就不断有人尝试进行进一步攻击。Marc Stevens，Arjen K. Lenstra，和Benne de Weger最近发表了一篇论文“<a href="http://www.win.tue.nl/hashclash/SoftIntCodeSign/">Vulnerability of software integrity and code signing applications to chosen-prefix collisions for MD5</a>”。论文描写了一种可重复性攻击MD5算法的方法，即伪造软件签名。<a href="http://blog.gslin.org/archives/2007/12/03/1378/">新的攻击手段可以骗过验证</a>，让恶意程序在windows下执行。研究人员用了两个简单化的windows应用程序证明——用C++编写的HelloWorld.exe和GoodbyeWorld.exe，使用前缀碰撞法（chosen-prefix collision），就是使程序前端包含恶意程序，利用后面的空间添上垃圾代码'凑出'同样的MD5 哈希值。研究人员指出，“如果要滥用这种方法，攻击者需要能够在文件获得哈希值或签名之前对其进行操作。”安全警告：<a href="http://it.slashdot.org/article.pl?sid=07/12/02/0651221">不要随便执行不可靠来源的程序</a>。
+➜是时候修理修理HTML了
+https://www.solidot.org/story?sid=4575	23100
+著名的Yahoo架构师和JSON发明者Douglas Crockford在最新的一篇文章《<a href="http://www.crockford.com/html/">Fixing HTML</a>》中谈论了<a href="http://en.wikipedia.org/wiki/HTML5">HTML 5</a>标准，谈了谈自己的想法。他认为，“HTML需要修改，HTML 4标准是在1999年公开的。从那时起，web从文档检索系统成长为应用交付系统。在聪明的web开发社区和令人惊讶的JavaScript推动下，我们已经取得重大的进步，但是我们现在受到了限制：HTML不再成为创新的驱动力，而是变成了阻碍。”新的HTML 5标准不完全兼容于HTML 4，HTML 4其实也不完全兼容于HTML 3，XHTML也是，所以这没关系。<a href="http://developers.slashdot.org/article.pl?sid=07/11/30/1415235">在Crockford看来</a>，新标准将简化而非复杂化，这将以减少web开发者的培训费用，综合AJAX开发的最优方法。
+➜Mozilla COO称FireFox用户1.25亿（属实与否未知）
+https://www.solidot.org/story?sid=4576	24000
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道 "<a href="http://arstechnica.com/news.ars/post/20071202-mozilla-coo-over-125-million-people-use-firefox.html">Ars的一篇报道</a>，标题很简单，每个单词我都认识，但是连起来的这句话，很震撼──Mozilla COO称有1.25亿用户使用FireFox──如果不加上括号的话，定会被认为是标题党。
+<i>过多的详情大家自己去看报道的正文，一般来说Ars还是比较不太夸大事实来报道的，不知道这一次是Mozilla在做PR还是Ars在做PV。
+<br>不过前两天我发现一个有趣的东西，甚至想来投递。<a href="http://www.taobao.com/">淘宝网</a>，那个对FireFox说“不”的支付宝的同胞兄弟，支付宝在若干个月前可以说十分绝情地以技术借口拒绝了FireFox等非IE浏览器的登录，但是淘宝网却对FireFox广告拦截功能研究有加，十分轻松地在我的Linux下的FireFox(2.0.0.9)中弹出了一个宽度600px左右的大pop-up广告窗口。我目前只看到过破解网站有FireFox的强制弹出广告，另外一个就是taobao了。不知taobao对FireFox的钻研，是否从侧面证明了FF的流行。"</i>
+➜Google Pages将被JotSpot取代
+https://www.solidot.org/story?sid=4577	27300
+根据Scott Johnson（前<a href="http://jotspot.com/">JotSpot</a>执行官，现Google员工，去年10月Google收购了JotSpot 维基应用服务网站）的介绍，Google自己的 <a href="http://pages.google.com/">Pages</a>服务将被JotSpot取代，新的服务被称作<a href="http://www.yoursearchadvisor.com/blog/google-apps-presentation-ann-arbor">Google Sites</a>，将在明年发布。“以JotSpot协助工具为基础，Google Sites将允许企业用户建设自己的内部网络，项目管理跟踪，消费者外延网，和许多基于多用户协作的可定制服务。”
+➜世界上最难的简单几何题
+https://www.solidot.org/story?sid=4578	30300
+<a href="http://blog.tuxfans.com/">windrose</a> 写道 <i>"还记得初中学过的平面几何基本定理吗？这里有两条<a href="http://thinkzone.wlonk.com/MathFun/Triangle.htm">世界上最难的简单几何题</a>（the world's hardest easy geometry problem）。网页作者声称解题只需用到最简单的几个几何定理：三角形内角之和为180度、等腰和等边三角形的特性，平行线的对顶角相等，证明全等三角形的角边角、边角边、边边边定理以及三角形相似的角角角定理。想挑战一下吗？"</i>
+➜第一批OLPC笔记本真正交付
+https://www.solidot.org/story?sid=4579	31200
+上周，<a href="http://radian.org/notebook/first-deployment">乌拉圭成为世界上首个真正开始部署OLPC XO笔记本的国家</a>(有大量图片)，它将载入史册。一千台笔记本在三天内分发给到孩子手中，未来2周还将获得7000多台，剩余的9万台笔记本将在接下来的几个月内全部交付完毕（乌拉圭订购了10万台）。<a href="http://news-you-can-digg.blogspot.com/2007/12/laptop-per-child-peru-orders-260000.html">秘鲁将是下一位用户</a>，它订购了26万台。

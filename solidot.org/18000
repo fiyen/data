@@ -1,0 +1,12 @@
+➜星战官方正史游戏《陨落武士团》将在 11 月 15 日发布
+https://www.solidot.org/story?sid=60232	16906
+在本周末举行的星战庆典活动上，EA 发行 Respawn Entertainment 开发的星战官方正史游戏《<a href="https://www.origin.com/hkg/zh-tw/store/star-wars/star-wars-jedi-fallen-order"><u>绝地陨落武士团</u></a>》宣布将于 11 月 15 日发售，并公布了首个<a href="https://www.imdb.com/title/tt5691474/?ref_=fn_al_tt_1"><u>预告片</u></a>。玩家将扮演从 66 号密令的肃清行动中死里逃生的绝地学徒，在完成训练学会原力掌握光剑之道的同时必须躲避判官二姐及其清洗兵的追杀。这款游戏没有多人模式和内购，使用虚幻引擎 4 开发，有官方简体中文和繁体中文字幕。主角的演员是《哥谭》中小丑的扮演者 Cameron Monaghan。
+➜中国唯一雌性斑鳖人工授精后死亡
+https://www.solidot.org/story?sid=60233	41060
+国内媒体<a href="http://www.sohu.com/a/307843839_313745"><u>报道</u></a>，中国唯一雌性斑鳖在人工授精过程中去世。目前全球斑鳖仅剩三只：苏州市动物园一只（雄性）、越南两只。4 月 12 日，由国际专家组成的团队，在苏州市动物园对中国仅存的一只雄性斑鳖和一只雌性斑鳖进行了采精和人工授精工作。在正式采精和授精之前，专家团队对两只斑鳖进行了理化指标和超声波健康检查，发现它们健康状况良好。与过去的四次人工授精活动相似，人工授精过程顺利，没有出现复杂情况，但之后，雌性斑鳖出现昏迷状态，经过24小时的抢救，雌性斑鳖没有苏醒过来，不幸死亡。专家团队采集了卵巢组织并保存到液氮中，以备未来使用。苏州市动物园表示，课题组商定组建由国内外专家组成的尸检团队，以查明死因。去世的这只雌性斑鳖来自长沙市动物园，据长沙市动物园饲养记录显示，它的年龄应该超过 90 岁了，苏州市动物园的雄性斑鳖据推测年龄在 100 多岁。
+➜Emacs 26.2 发布
+https://www.solidot.org/story?sid=60234	53012
+Emacs 文本编辑器释出了最新的 <a href="https://www.gnu.org/software/emacs/news/NEWS.26.2"><u>v26.2</u></a>。主要新特性包括：Emacs 模块可以在源码树外构建，支持 Unicode 11 标准，单键压缩整个文件目录，等等。其他还有 shadowfile.el 重写支持  Tramp 文件名，imenu-auto-rescan-maxout 的值增加到 600000，更多变化可浏览 etc/NEWS 文件。
+➜GPL 是黑洞照片的核心
+https://www.solidot.org/story?sid=60235	57274
+事件视界望远镜（EHT）组织本周<a href="https://www.solidot.org/story?sid=60197"><u>宣布</u></a>成功获得了超大黑洞的第一个直接视觉证据。许多人不知道的是，自由开源软件是这个在公共许可证下发布的黑洞照片的核心。研究团队使用了三种不同的图像软件库，其中两种<a href="https://www.tfir.io/gnu-gplv3-at-the-heart-of-black-hole-image/" target="_blank"><u>是完全开源的库</u></a>，它们是 <a href="https://github.com/kazuakiyama/wise/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">Sparselab</a> 和 <a href="https://github.com/achael/eht-imaging/blob/master/LICENSE.txt" target="_blank" rel="noopener noreferrer">ehtim</a>。Sparselab 是用 Python 语言开发的库，而 ehtim 则是一个 Python模块，用于模拟和操纵 VLBI 数据，使用正则最大似然法生成图像。两个库都是在  GNU GPL v3 许可证下公开源代码的。

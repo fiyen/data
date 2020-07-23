@@ -1,0 +1,31 @@
+➜STIG for Debian 9发布
+https://www.solidot.org/story?sid=52922	7160
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道 <i>"随着 Debian"Stretch" 9 的<a href="http://www.solidot.org/story?sid=52774" target="_blank">正式发布</a>和大规模部署，HardenedLinux 社区也发布了 <a href="https://github.com/hardenedlinux/STIG-4-Debian" target="_blank">STIG(安全技术实现指南) for Debian 9</a> 的版本，<a href="http://iase.disa.mil/stigs/Pages/index.aspx" target="_blank">STIG</a> 是美国国防部对 IT 设施的安全防护合规，其中也包含了 GNU/Linux 操作系统，自 <a href="http://www.solidot.org/story?sid=44494" target="_blank">STIG for Debian 8 发布</a>已经有两年时间，Debian 9 的 <a href="http://iasecontent.disa.mil/stigs/zip/U_Red_Hat_Enterprise_Linux_7_V1R1_STIG.ZIP" target="_blank">STIG 实现参照 RHEL 7</a>，相比上一版，STIG for Debian 9 和 RHEL-STIG 有更高的耦合度，除了 SELinux 和<a href="https://github.com/hardenedlinux/STIG-4-Debian/blob/master/manual.txt" target="_blank">少量条目</a>需要手工检测外，大部分都已经在 Debian 9 上实现了自动化，未来我们会继续完善 MAC/RBAC 基于 Debian 9 的替代方案以满足 STIG 的标准化合规。"</i>
+➜Google 表态将加倍努力打击极端主义
+https://www.solidot.org/story?sid=52923	14137
+Google 高级副总裁兼总法律顾问 肯特 • 沃克在《金融时报》上刊文表态搜索巨头<a href="http://www.ftchinese.com/story/001073217" target="_blank"><u>将加倍努力打击极端主义内容</u></a>。他表示，“恐怖主义是对开放社会的一种攻击，应对暴力和仇恨造成的威胁对我们大家而言是一项重大挑战。Google 和 YouTube 正致力于成为解决方案的一部分。我们正在与政府、执法机构和公民社会团体合作，共同对付网上暴力极端主义的问题。在我们的服务上，不应该有恐怖主义内容的空间。”为了识别极端主义内容，Google 将更多地使用技术来帮助识别与极端主义和恐怖主义相关的视频，增加 YouTube 的 Trusted Flagger 计划中独立专家的数量，对于含有煽动性的宗教内容或种族优越论内容的视频采取更严厉的立场，将伊斯兰国的潜在被招募人员引向反恐怖主义视频。
+➜《星际争霸》高清重制版售价 15 美元
+https://www.solidot.org/story?sid=52924	18265
+暴雪<a href="https://arstechnica.com/gaming/2017/06/hands-on-with-starcraft-remastered-ahead-of-its-august-14-launch-for-15/?comments=1" target="_blank"><u>公布了</u></a>《星际争霸》高清重制版的更多细节，这款重制版游戏将于 8 月发布，售价<a href="https://us.battle.net/shop/zh/product/starcraft-remastered" target="_blank"><u> 15 美元</u></a>。暴雪 3D 艺术总监 Brian Sousa 证实，该公司丢失了大部分原版的源代码和素材，只有音频还有备份。他的团队利用原版的艺术概念图、草图和手册作为参考去开发重制版。重制版是基于原版，可以与原版无缝切换，用户按下&nbsp; F7 键可以在原版与重制版之间自由切换。暴雪已经在今年 4 月发布 《星际争霸：母巢之战》的 1.18 更新档时将这款经典即时战略游戏<a href="http://www.solidot.org/story?sid=52101" target="_blank"><u>免费提供给玩家</u></a>。
+➜中国最大国产战舰下水
+https://www.solidot.org/story?sid=52925	19257
+国防部称，中国<a href="http://www.mod.gov.cn/power/2017-06/28/content_4783872.htm" target="_blank"><u>下水了</u></a>一艘万吨级驱逐舰。官方没有披露太多这艘驱逐舰的信息。根据简氏等消息来源<a href="http://www.janes.com/article/71903/china-launches-largest-surface-combatant-to-date" target="_blank"><u>报道</u></a>，这艘驱逐舰是第一艘 <a href="https://zh.wikipedia.org/wiki/055%E5%9E%8B%E5%AF%BC%E5%BC%B9%E9%A9%B1%E9%80%90%E8%88%B0" target="_blank"><u>055 型导弹驱逐舰</u></a>，长 180 米，总宽 19 米，吃水 6.6 米，是中国至今建造的最大战舰，其最高航速约为 30 节，能以 12 节的速度行驶 5000 海里。这艘驱逐舰配备了 128 个垂直发射单元，能发射鹰击-100 远程反舰导弹，以及反潜和防空导弹。其它武器包括 130 毫米舰炮，1130型 30 毫米近程防御系统。
+➜Let's Encrypt 签发了 1 亿个证书
+https://www.solidot.org/story?sid=52926	20039
+Let's Encrypt 项目宣布它<a href="https://letsencrypt.org/2017/06/28/hundred-million-certs.html" target="_blank"><u>签发了超过 1 亿个证书</u></a>。对这家非营利 CA 来说这是一个里程碑意义的时刻，距离它开始提供 CA 服务仅仅相隔 19 个月。在 19 个月内，浏览器加载的加密网页比例从 18% 增加到了约&nbsp; 58%。Let's Encrypt 项目由 EFF、 Mozilla、Akamai、密歇根大学和思科等组织发起，其使命是让每个网站都能使用 HTTPS 加密。中国网站启用 HTTPS 的比例仍然很低，但过去两年越来越多的主流网站开始启用 HTTPS。
+➜Windows 10 将引入防止勒索软件加密特定文件夹的功能
+https://www.solidot.org/story?sid=52927	28719
+Windows 10 计划于今年 9 月释出下一个大更新 Fall Creators Update 时引入防止勒索软件访问特定文件夹对文件进行加密的功能。流行的勒索软件如 WannaCry 主要影响 Windows 7 而不是 Windows 10。Windows 10 测试者现在已经可以预览这项控制文件夹访问的安全功能。如果该功能启用，它将只允许特定应用访问和读/写一个文件夹，它默认防止应用访问桌面、电影、图片和文档文件夹。微软 Windows Insiders 项目负责人 Dona Sarkar <a href="https://www.theverge.com/2017/6/29/15892658/microsoft-windows-10-controlled-folders-feature" target="_blank"><u>解释说</u></a>，该功能监视应用对特定保护文件夹中文件的动作，如果应用尝试修改文件，该应用将会被加入到黑名单，用户将会收到通知。
+➜内蒙古遭遇严重旱灾
+https://www.solidot.org/story?sid=52928	29917
+内蒙古自治区部分地区遭遇了<a href="https://cn.nytimes.com/china/20170630/china-drought/" target="_blank"><u>有记录以来最严重的旱灾</u></a>，农作物枯萎，农牧民为农田、草原、动物和家人找水发愁。近年来，中国科学家把中国，特别是中国北方的极端天气模式归结于气候变化。天气的大幅波动对内蒙古地区及其居民的影响尤其严重。在呼伦贝尔市，官员说，全市草场受旱面积 9876 万亩。他们表示，地方政府投入抗旱资金 1.09 亿元，投入抗旱人员 13.3 万人。国家新闻媒体上个月开始报道这场旱灾，称自从 4 月中旬以来，由于缺少降水，旱情正在恶化。
+➜斗鱼成立网红党支部
+https://www.solidot.org/story?sid=52929	31595
+官媒长江日报<a href="http://cjrb.cjn.cn/html/2017-06/30/content_5621800.htm" target="_blank"><u>报道</u></a>，直播平台斗鱼成立了网红党支部。过去一年，直播平台遭到了官方的<a href="http://www.solidot.org/story?sid=47856" target="_blank"><u>多次</u></a> <a href="http://www.solidot.org/story?sid=48875" target="_blank"><u>打击</u></a>，斗鱼上个月就遭到了文化部的<a href="http://www.solidot.org/story?sid=52533" target="_blank"><u>查处和罚款</u></a>。报道称，“在全国 500 多家直播平台中，这个 ‘网红党支部’系首家，直属于斗鱼党委，已有 18 名网络主播党员。去年 5 月，斗鱼刚成立党组织时，党员人数为 65 人。经过 1 年发展，党员人数增加到 178 人，占员工总数的一成多...&nbsp;&nbsp; 斗鱼公司 CEO 张文明表示，全力支持在斗鱼建立党组织，直播到哪里，党建就推进到哪里。”也许下一次网红会直播党组织生活。
+➜《网络视听节目内容审核通则》公布
+https://www.solidot.org/story?sid=52930	33760
+中国网络视听节目服务协会发布了《<a href="http://www.cnsa.cn/2017/06/30/ARTI0Qg4cp7jtd1Z5o0RnfzM170630.shtml" target="_blank"><u>网络视听节目内容审核通则</u></a>》，对视频内容施加了众多的限制。过去几年，火爆的网络视频是中国互联网的一大亮点，涌现了数百家直播平台和视频网站，但如今它们正受到越来越多的限制。《通则》针对的不是直播，而是视频内容本身。<i>《通则》要求先审后播；要求每部网络剧、微电影、网络电影、影视类动画片、纪录片应由不少于三人的审核员审核，每期（条）专业类网络视听节目应由不少于两人的审核员审核，需要递交节目审核意见；内容要求突出所谓的正能量和传统文化；要求删除或禁播 “宣扬消极、颓废的人生观、世界观和价值观，渲染、夸大社会问题，过分表现、展示社会阴暗面”——此类内容并没有精确的定义，看起来只能靠审查员的自我判断；要求禁止 “以反面角色为主要表现对象，或为反动的、落后的、邪恶的、非法的社会势力、社会组织和人物立传、歌功颂德，着重表现其积极的一面” 的内容；同性恋行为也被列入禁止内容之列，尽管同性恋在中国并不是非法；“人物造型过分夸张怪异”——不清楚官方对此的具体定义；等等，被限制和禁止的内容非常多。
+</i>
+➜中国互联网巨头面临的新挑战
+https://www.solidot.org/story?sid=52931	37092
+中国的互联网巨头的影响力早已不限于线上，它们的势力范围扩大到了各个领域，从零售、媒体和娱乐，到医疗、支付、银行、物流和运输，有些是直接控制，有些是间接控制。涉足未知疆域的互联网巨头<a href="http://cn.wsj.com/gb/20170630/LLW140534.asp" target="_blank"><u>也正面临新的挑战</u></a>。中共执政近70年来，还从未有民营公司对经济和社会有如此之大的影响力。今后若干年，如何处理好与竞争对手、传统企业和不习惯分享权力的威权政府的关系，将是它们面临的一大挑战。对阿里巴巴和腾讯来说，最重要的制衡力量可能不是来自竞争对手，而是来自中国政府和被冲击的传统行业。阿里巴巴和腾讯都需要谨慎行事。一些最终身陷囹圄的中国富商往往都是因为失去了政府的青睐。

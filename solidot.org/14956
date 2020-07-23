@@ -1,0 +1,58 @@
+➜21款值得关注Linux游戏（第二部分）
+https://www.solidot.org/story?sid=21495	4200
+<a href="mailto:sally_jenkinson12@yahoo.com">Sally Jenkinson</a> 写道 "我们推崇电脑游戏，它不会让大脑生锈，因为它是一种人机互动的方式，能传授基本生活技能，激发学习兴趣。很多研究也证明，游戏能增强创造力，促进合作和团体行动，鼓励创新，提高战略思维，改进手眼协调等。<i>
+Linux上有无数免费游戏，其中不乏让人上瘾，富有娱乐性和挑战性的游戏。linuxlinks的这篇文章是<a href="http://www.linuxlinks.com/article/2010121106112994/NotableGamesPart2.html">值得关注Linux游戏的第二部分</a>。包括：开源多人角色扮演游戏<a href="http://themanaworld.org/">The Mana World</a>，揉合FPS和运动游戏的<a href="http://www.fullmetalsoccer.com/">Full Metal Soccer</a>，<a href="http://fretsonfire.sourceforge.net/">Frets on Fire</a>分支、音乐游戏<a href="http://code.google.com/p/fofix/">FoFiX</a>；街机动作解密游戏<a href="http://zaz.sourceforge.net/">Zaz</a>，等等。</i>
+➜Frogatto：非常有意思的 2D 横幅过关游戏
+https://www.solidot.org/story?sid=21496	5760
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "<a href="http://www.frogatto.com/">Frogatto</a>一款复古风格的2D横过关游戏，由Battle for Wesnoth团队开发。主角是一只小青蛙，用户将操作这只小青蛙与各种怪物战斗。
+方向键上下左右、A键跳跃、S键吐舌。方向键与A键或S键组合具有不同效果。双击方向键可以快速奔跑，桥可以下去，水里面有好东西。
+<a href="http://www.osmsg.com/2010/12/frogatto%EF%BC%9A%E9%9D%9E%E5%B8%B8%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84-2d-%E6%A8%AA%E5%B9%85%E8%BF%87%E5%85%B3%E6%B8%B8%E6%88%8F/">查看详细信息</a>"
+➜Gawker源代码和数据库被黑客放到BT网站
+https://www.solidot.org/story?sid=21497	7500
+130万Gawker Media读者的密码、用户名和电子邮件等个人数据<a href="http://yro.slashdot.org/story/10/12/12/2234252/Gawker-Source-Code-and-Databases-Compromised">被自称Gnosis的黑客组织以BT文件的形式公开</a>(<a href="http://thepiratebay.org/torrent/6034669/Gawkmedia_source_code___database_release_">海盗湾</a>，487.57 MiB)。Gawker Media旗下媒体包括了Gizmodo、Lifehacker、Kotaku和io9等。<i>
+黑客还入侵了<a href="http://www.mediaite.com/online/worse-than-previously-thought-gawker-content-management-system-hacked/">Gawker的内容管理系统(CMS)</a>和<a href="http://blogs.villagevoice.com/runninscared/2010/12/anonymous_hacks.php">Twitter帐号</a>。Gawker已经证实了此事，<a href="http://gawker.com/5712615/commenting-accounts-compromised-++-change-your-passwords">并鼓励用户立即修改密码</a>。它声称用户的密码已经加密，但简单的密码可能会被暴力破解。为谨慎起见，用户最好也修改电子邮件的密码。他们对此感到十分尴尬，表示它本不应该将希望寄托在发现系统漏洞的黑客的善意上。黑客已经在Pastebin.com上<a href="http://pastebin.com/9rRmf6W5">公开了部分用户的密码明文</a>，指出Gawker使用了一种已经过时的哈希算法<a href="http://zh.wikipedia.org/zh-cn/DES">DES</a>，它只加密前八位字符，换句话说，如果你的密码长度超过八位，只要输入前八位就能登陆。</i>
+➜BBC和CNN的封锁被解除
+https://www.solidot.org/story?sid=21498	8280
+自12月9日起，中国大陆的用户无法<a href="__SLASHLINK__" sect="internet" sid="10/12/09/1129223" sn="article" tid="120">访问</a>英国<a href="http://www.bbc.co.uk/">BBC英文</a>和<a href="http://www.cnn.com/">CNN</a>等西方媒体的网站。BBC今天报道<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/12/101213_brief_china_bbc.shtml">称</a>，BBC和CNN的网站已经能恢复访问，但挪威广播公司<a href="http://www.nrk.no/">NRK</a>的网站依旧被封锁。
+➜科学家开发出自我修复塑料
+https://www.solidot.org/story?sid=21499	12000
+亚利桑那州立大学研究人员开发出一种“自我修复”的聚合物，<a href="http://www.itnews.com.au/News/241156,researchers-build-self-healing-plastic.aspx">利用光纤“神经网络”探测和修复裂缝</a>。<i>
+研究人员在变形记忆聚合体中嵌入光纤网络，聚合体在加热后能恢复到原始形状。光纤网络传输一瓦激光器产生的红外光，其作用相当于神经网络，如果出现裂缝，光会泄漏到周围的聚合体，加热材料。加热时塑料的硬度会增强11倍，阻止裂纹扩散。聚合体然后恢复到原始形状。在实验室测试中，材料恢复了96%的原始强度。这项研究可用于人类修理起来很困难的大型复合材料结构，例如风力涡轮机、卫星、飞机，或者火星漫游者。</i>
+➜新研究反驳循环宇宙模型
+https://www.solidot.org/story?sid=21500	17700
+上个月，英国牛津大学著名理论物理学家罗杰彭罗斯爵士和亚美尼亚Yerevan物理研究所的Vahe Gurzadyan在预印本网站arXiv上发表了<a href="http://arxiv.org/abs/1011.3706">一篇论文</a>，<a href="__SLASHLINK__" sect="science" sid="10/11/25/1127255" sn="article" tid="102">引起了广泛的讨论</a>。他们声称在威尔金森微波各向异性探测器(WMAP)的数据中发现了前宇宙的证据。他们的发现支持循环宇宙论。<i>
+本月，arXiv上连续<a href="http://arxiv.org/abs/1012.1268">发表</a>了<a href="http://arxiv.org/abs/1012.1305">三篇</a> <a href="http://arxiv.org/abs/1012.1656">论文</a>，都<a href="http://www.nature.com/news/2010/101210/full/news.2010.665.html">驳斥了循环宇宙模型</a>。研究人员从WMAP的宇宙微波背景辐射数据中寻找同心圆的温度差异模式，他们推测差异性是暴涨宇宙的基本属性。他们认为彭罗斯和Gurzadyan的发现，并没有在标准的宇宙膨胀理论上提供证据支持彭罗斯的循环宇宙模型。Gurzadyan驳斥批评者的分析是微不足道的。他们也<a href="http://arxiv.org/abs/1012.1486">更新了论文</a>，提供了更多证据。</i>
+➜Wine 1.3.9 发布
+https://www.solidot.org/story?sid=21501	20700
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道<i> "<a href="http://www.winehq.org/">Wine</a>社区宣布开发版分支1.3.9发布。新特性包括内置浏览器开始对ActiveX进行支持、在菜单项增加Internet快捷方式图标、代码实现标准化COM接口、新的自动生成的DLL注册方案、对OpenCL库进行封装、更新翻译、修复各种错误。"</i>
+➜保罗艾伦专利诉讼案被驳回
+https://www.solidot.org/story?sid=21502	21600
+保罗艾伦旗下的研究机构Interval Research试图将IT界一网打尽，起诉Apple、Google、AOL、Facebook、Yahoo等知名公司<a href="__SLASHLINK__" sect="it" sid="10/08/28/1356222" sn="article" tid="130">侵犯了它的四项专利</a>。这项诉讼案<a href="http://www.osnews.com/story/24126/Paul_Allen_s_Patent_Infringement_Case_Dismissed">已被法官驳回</a>。法官同意Google的辩词，即缺乏足够的事实细节。
+➜谁在用Twitter
+https://www.solidot.org/story?sid=21503	23040
+皮尤研究中心“互联网和美国生活项目”首次调查了<a href="http://pewresearch.org/pubs/1821/twitter-users-profile-exclusive-examination">美国Twitter用户构成</a>，它发现8%的美国成年网民用Twitter，而74%的美国成年人是网民，意味着6%的美国成年人用Twitter。<i>
+调查显示了Twitter的用户群组成：7%的男性、10%的女性；18-29岁中有14%的人在用；18%的西班牙裔、13%的非西班牙裔黑人用；11%的城市居民。36%的Twitter用户每天至少登陆一次，了解跟随者的信息。72%的Twitter用户称他们发布的帖子主要是关于个人生活、活动或兴趣爱好；19%的用户每日至少发一推...</i>
+➜卫星在海地大地震前探测到大量超低频无线电波
+https://www.solidot.org/story?sid=21504	24300
+一颗法国人造卫星在今年一月发生的<a href="http://zh.wikipedia.org/zh-tw/2010%E5%B9%B4%E6%B5%B7%E5%9C%B0%E5%9C%B0%E9%9C%87">海地大地震</a>前，<a href="http://www.technologyreview.com/blog/arxiv/26114/">观察到超低频无线电波显著增加</a>。<i>
+法国航天局在2004年发射了一颗专门探测地震所产生无线电信号的人造卫星Demeter（“地震区电磁放射侦测”的英文缩写）。上周，一组地质学家公布了与海地大地震相关的数据，他们称DEMETER在地震区域观察到超低频无线电波明显增加了。希腊Serres理工大学Michael Athanasiou和同事发现，在大地震前一个月内，超低频无线电波能量增至360%，在大地震一个月后发射出的电波逐步回落。研究人员认为，超低频电磁波可作为可能的地震前兆现象 。</i>
+➜《上古卷轴5：天际》和《质量效应3》预告片发布
+https://www.solidot.org/story?sid=21505	27360
+Bethesda在年度VGA视频游戏奖（<a href="http://www.spike.com/event/vga">2010 Video Game Awards</a>）大会上<a href="http://arstechnica.com/gaming/news/2010/12/elder-scrolls-5-skyrim-coming-next-november-first-trailer-released.ars">宣布</a>了角色扮演游戏《上古卷轴》的最新系列。<i>
+Bethesda正式公开了《上古卷轴5：天际》（天际是<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%8A%E5%8F%A4%E5%8D%B7%E8%BD%B4%E7%B3%BB%E5%88%97">上古卷轴</a>系列中泰姆瑞尔大陆一行省名字）的首个<a href="http://www.elderscrolls.com/?country=en-GB">预告片</a>（官网，<a href="http://v.youku.com/v_show/id_XMjI5NDI3MjAw.html">Youku</a>）。Bethesda声称它使用了全新的引擎。它的发布日期为2011年11月11日。</i>
+EA和BioWare也<a href="http://content.usatoday.com/communities/gamehunters/post/2010/12/mass-effect-3-announced-watch-the-trailer/1">宣布</a>了《质量效应3》（<a href="http://www.gametrailers.com/video/vga-10-mass-effect/708362">Gametrailers</a>），《<a href="http://masseffect.bioware.com/">质量效应</a>》三部曲的最后一部。这次指挥官Shepard将为保护地球而战。
+➜熊猫烧香黑客捐钱认养熊猫
+https://www.solidot.org/story?sid=21506	31920
+2006年10月，李俊编写并传播了著名的<a href="__SLASHLINK__" sect="it" sid="07/02/13/0320226" sn="article" tid="115">熊猫烧香病毒</a>，并通过出售病毒牟利。熊猫烧香病毒被认为是至今中国破坏性最大的病毒。李俊于2007年被捕，随后被判4年徒刑。但他在2009年12月获得减刑提前一年出狱。李俊表示要改过自新，从“黑猫（black hat）”变成“白猫（white hat）”。<i>
+现在官方媒体新华社<a href="http://news.xinhuanet.com/society/2010-12/11/c_12869424_2.htm">报道</a>，李俊向成都大熊猫饲养基地捐赠了5万人民币，他表示病毒销售的所有收入都已经上交给了政府。新华社报道还声称他担任熊猫安全（中国）的安全顾问，并受邀成为熊猫安全中国区总代理软众信息科技旗下买软件网的首席安全官。《华尔街日报》<a href="http://blogs.wsj.com/chinarealtime/2010/12/12/panda-hacker-donates-for-cloud%E2%80%99s-future/">询问了熊猫安全公司</a>，该公司否认雇用了病毒作者，它内部有规定不允许雇用黑客。李俊很受中国年轻人的欢迎，他的<a href="http://t.sina.com.cn/xiongmaoshaoxiang">新浪微博</a>有7万多名粉丝；<a href="http://t.qq.com/junlee">腾讯微博</a>有11,600名粉丝。</i>
+➜盲鼹鼠进化出应对缺氧环境的机制
+https://www.solidot.org/story?sid=21507	42720
+没有氧气，人类会在数分钟内昏迷，但生活在地下的鼹鼠却能继续挖掘地道。研究人员发现，<a href="http://arstechnica.com/science/news/2010/12/mole-rats-regulate-globins-to-cope-with-the-hypoxia-of-their-tunnels.ars">鼹鼠已经进化出能忍受却氧环境</a>，它们的载氧珠蛋白表达比普通老鼠更多，帮助其在低氧气浓度下生存。<i>
+珠蛋白家族是生物体负责运载和储存氧气的蛋白质。<a href="http://zh.wikipedia.org/zh-cn/%E8%A1%80%E7%BA%A2%E8%9B%8B%E7%99%BD">血红蛋白</a> 是通过血液从肺部向内部器官运送氧气；<a href="http://zh.wikipedia.org/zh-cn/%E8%82%8C%E7%BA%A2%E8%9B%8B%E7%99%BD">肌红蛋白</a>能在肌肉组织中有储存氧气，就近为消耗量大的肌肉细胞供氧。过去10年，科学家还发现了另外两种珠蛋白：<a href="http://zh.wikipedia.org/zh-cn/%E7%A5%9E%E7%BB%8F%E7%8F%A0%E8%9B%8B%E7%99%BD">神经珠蛋白</a>和<a href="http://en.wikipedia.org/wiki/Cytoglobin">细胞珠蛋白</a>，前者是中央或外围神经系统的神经元中发现的，后者存在于纤维母细胞，功能还不清楚。研究人员分析了四种盲鼹鼠，根据居住地气候的不同，它们的耐低氧程度也不同。结果发现，与普通老鼠相比，盲鼹鼠的血红蛋白、肌红蛋白、神经珠蛋白和细胞珠蛋白表达要多得多</i>
+➜已婚男人趋向于不反社会
+https://www.solidot.org/story?sid=21508	42960
+已经结婚的男性较少反社会。但婚姻和反社会之间有因果联系吗？反社会的男性不太可能结婚，或是结婚会减少反社会倾向？《心理学档案期刊》上的<a href="http://archpsyc.ama-assn.org/cgi/content/abstract/67/12/1309">一项研究</a>认为是<a href="http://arstechnica.com/science/news/2010/12/weird-science-sings-the-praises-of-sex-among-the-neurotics.ars">兼而有之</a>。
+反社会的人不太可能结婚，但如果他们能与人结成一对，伴侣会帮助处理与他人之间的不适。研究人员采用与众不同的方法研究反社会和婚姻关系，他们的研究对象是已婚和未婚的男同卵双胞胎，同卵双胞胎之间通常有很多共同特性。
+➜竞争对手指责Google未能不偏不倚
+https://www.solidot.org/story?sid=21509	43200
+《华尔街日报》的<a href="http://online.wsj.com/article/SB10001424052748704058704576015630188568972.html?mod=WSJASIA_hpp_LEFTTopStories">一篇报道</a>称，Google在搜索结果排名中将自己的内容链接提高到前面，如本地商业信息和Google Health服务。Google为自己辩护称，称此举是为用户提供更有用的信息，而不只是展示排名高的网站链接。批评者包括了旅游网站TripAdvisor.com，卫生保健网站WebMD.com，本地商业评论网站Yelp.com 和Citysearch.com等。欧盟反托拉斯机构已经宣布正式调查Google的行为，调查是否操控搜索结果，贬低竞争对手，或者是偏袒自己的服务。Google坚决否认利用算法干扰竞争对手的网站，称向欧盟投诉的公司与微软有联系。最新的投诉则集中在Google展示自家服务方面。

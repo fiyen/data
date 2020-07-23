@@ -1,0 +1,62 @@
+➜银行业安全新规迫近外国科技公司为难
+https://www.solidot.org/story?sid=43324	11731
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20150316/tec102454.asp"><u>报道</u></a>，中国商业银行将在3月15日截止期限之前向有关部门提交方案，详细说明将如何把其内部技术转化为政府认为安全可控的系统。新规要求供应商提交源代码和保护敏感数据的密匙，使用中国的加密标准，并接受高强度的测试。这些新规引发了美国和欧洲行业组织的批评，认为这些措施干预性太强。科技公司高管私下表示，他们认为中国可能放弃提交源代码的要求；提交源代码是最为棘手的问题。但随着中国寻求摆脱对外国技术的依赖，全球科技公司正在权衡若干有限的选择方案：提交自主产权信息以换取市场准入，与中国公司组建合资企业，提供仅针对中国市场、符合北京要求的产品或服务，抑或离开。业内人士称，银行业最关键的一些业务对外国科技的依赖程度非常高。
+➜雅虎透露Yahoo Mail的端对端加密插件
+https://www.solidot.org/story?sid=43325	13837
+<div align="center"><img src="http://img.solidot.com.cn/0/87/liH2JyxSgeWQ.gif" align="" height="307" width="450"><br>
+<br>
+</div>
+雅虎官方博客<a target="_blank" href="http://yahoo.tumblr.com/post/113708033335/user-focused-security-end-to-end-encryption"><u>透露了</u></a>Yahoo Mail的端对端加密插件，<a target="_blank" href="https://github.com/yahoo/end-to-end"><u>源代码</u></a>已发布在GitHub上。雅虎宣布，基于OpenPGP的端对端加密插件将在今年年底提供给所有Yahoo Mail用户。OpenPGP是最流行的电子邮件加密软件，但对普通用户而言它很难用。雅虎和Google合作，致力于简化端对端加密，让用户单击一次就能完成操作。端对端加密插件允许用户加密、解密、签名和验证信息。
+➜Windows 10允许在桌面和平板模式之间无缝切换
+https://www.solidot.org/story?sid=43326	17409
+<div align="center"><img src="http://img.solidot.com.cn/0/88/li08pe1eT2dgw.jpg" align="" height="316" width="420"><br>
+<br>
+</div>
+Windows 8引入了Modern UI，微软试图统一传统桌面和移动触控设备的体验，结果遭遇恶评。在Windows 8.1中，微软根据设备类型默认使用Modern UI或传统桌面，但对传统桌面用户而言它本质上仍然是略作修改的Modern UI。Windows 10依旧采用混合方法，但交给用户自行选择，用户可以在经典桌面和全屏移动体验之间选择。这项功能的开发代号为Continuum，正式名字是平板模式（如图所示）。在Windows 10技术预览版 build 9926中，用户可以试用这项功能。而在泄露的build 10036中，用户可以在桌面和平板模式之间<a target="_blank" href="http://www.neowin.net/news/windows-10-microsoft-streamlines-switching-between-desktop-and-tablet-mode"><u>无缝的切换</u></a>。
+➜人类在20世纪杀死了至少280万头鲸鱼
+https://www.solidot.org/story?sid=43327	18478
+根据一项<a target="_blank" href="http://spo.nmfs.noaa.gov/mfr764/mfr7643.pdf"><u>新研究</u></a>，人类在20世纪至少杀死了<a target="_blank" href="http://www.vocativ.com/culture/science/nearly-3-million-whales-killed-20th-century/"><u>280万头鲸鱼</u></a>。最新的数据首次包含了前苏联的精确捕鲸数据。人类捕杀鲸鱼的历史已有几个世纪，但科学家相信20世纪的捕鲸杀死了90%的蓝鲸，其它鲸鱼种群的数量也出现了大幅下滑。部分鲸鱼种类的数量已逐渐恢复，但座头鲸和蓝鲸仍然濒临灭绝。论文合作者、新贝德福德捕鲸博物馆的Robert C. Rocha说，捕鲸业不是一个可持续的行业。
+➜Windows 10支持P2P应用和补丁下载
+https://www.solidot.org/story?sid=43328	25042
+在最近泄露的Windows 10技术预览版build 10036中，最令人感兴趣的新功能是<a target="_blank" href="http://arstechnica.com/information-technology/2015/03/windows-10-to-support-peer-to-peer-downloading-of-apps-and-updates/"><u>支持P2P应用和操作系统补丁下载</u></a>。P2P下载是可选的，启用该功能后，系统将会从本地网络的其它机器上获取更新，或从本地和联网PC上获取更新。随着Windows采用一个快速释出更新的模式，微软可使用P2P加速下载和降低带宽使用。对于一个数GB大小的大更新，一个网络中的所有机器都靠自己下载既浪费时间又浪费带宽。Windows自XP SP1起就加入了 P2P API，但它很少被使用。微软在2013年收购了一家开发P2P下载技术的公司Pando Networks。
+➜中国暂缓反恐法立法三审
+https://www.solidot.org/story?sid=43329	26621
+路透社<a target="_blank" href="http://cn.reuters.com/article/2015/03/16/china-security-usa-idCNKBS0MC0CG20150316"><u>报道</u></a>，美国白宫网络安全协调员迈克尔·丹尼尔（Michael Daniel）称，中国已暂缓了反恐法的立法进程。反恐法要求科技企业交出加密密钥并安装信息安全“后门”，以方便中国有关部门进行监控。“他们已决定暂缓该反恐法案的三审，在某种程度上是将其暂时搁置起来，”丹尼尔在信息技术与创新基金会上周四举办的一场网络直播讨论中说道，“我们认为该法案不仅损害美国企业，而且对全球经济整体不利，因此我们觉得非常有必要清晰地向中国方面传达这个信息。”一位匿名业内消息人士表示，立法暂缓给了企业“一些喘息空间，但未令企业完全放松”，因为全国人大常委随时可通过该法案。另一位匿名专家认为此事已经结束，中国做出了让步。
+➜丝绸之路论坛版主认罪
+https://www.solidot.org/story?sid=43330	28100
+42岁的丝绸之路论坛版主Peter Nash<a target="_blank" href="http://arstechnica.com/tech-policy/2015/03/silk-road-moderator-samesamebutdifferent-pleads-guilty-faces-life-in-prison/"><u>认罪</u></a>，他受到了合谋走私毒品和洗钱的指控，面临最高终身监禁的处罚。丝绸之路创始人Ross Ulbricht上个月已被陪审团定罪。Nash是Ulbricht的助手，在2013年1月到10月之间担任论坛版主一职，根据法庭文件他使用过Samesamebutdifferent、Batman73、Symmetry,或Anonymousasshit之类的化名。法庭文件称，论坛版主主要任务是监视用户活动，为用户提供如何完成交易的指导，向管理员和Ulbricht报告论坛上讨论的重要问题。他的年薪大约在5万美元到7.5万美元之间。丝绸之路的两名管理员Andrew Michael Jones（aka Inigo）和Gary Davis（aka Libertas）也都已经被捕，Jones在去年10月认罪，而Davis则在冰岛等待引渡。
+➜科学家用网页排名算法给足球队排名
+https://www.solidot.org/story?sid=43331	30669
+科学家利用Google的网页排名算法<a target="_blank" href="http://www.technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"><u>创建了世界各国的足球队历史排名</u></a>。根据自1930年以来210个国家之间进行的7000多场比赛2万多个进球，研究人员创建了一个网络，其中各国的足球队是一个节点，两国如果进行过比赛则建立一个链接，根据比赛结果衡量链接的重要性和极性，然后应用网页排名算法创建排名。结果显示，赢得过5次世界杯的巴西历史排名第一，之后是意大利、德国、<span id="result_box" class="short_text" lang="zh-CN"><span class="">荷兰、</span><span>阿根廷、</span><span>英格兰</span><span>、</span><span>西班牙、法国和</span><span>捷克。这个排名与</span></span>FIFA的历史排名略有不同，<span id="result_box" class="short_text" lang="zh-CN"><span></span></span>FIFA排名是巴西，德国、意大利、阿根廷、西班牙和英格兰。
+➜智能手机让你变蠢了？
+https://www.solidot.org/story?sid=43332	33620
+发表在《Computers in Human Behavior》上的<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0747563215001272"><u>研究报告</u></a>发现，过度依赖智能手机的人可能会将思考“卸载”给智能手机，导致他们懒于思考。但心理学家认为人们并不<a target="_blank" href="http://arstechnica.com/science/2015/03/is-your-smartphone-making-you-dumb/"><u>需要为此恐慌起来</u></a>，因为智能手机对于解决问题来说相比书本并无本质上的区别。研究人员利用亚马逊Mechanical招募志愿者去完成多项测试，测试结果显示，智能手机用户和非智能手机用户之间的表现并无多大区别，但重度依赖于智能手机的用户相比轻度依赖者在分析思维上的测试得分较低，尤其是那些在手机上频繁使用搜索引擎的用户。论文作者认为，直觉认知风格的人实际上可能受益于智能手机的使用。
+➜日本的网吧难民
+https://www.solidot.org/story?sid=43333	35219
+郁弥第一次在网吧过夜，因为别人的打鼾声和脚步声一夜未眠。十个月过去，小小的噪声已经不再能打扰到他。在习惯之后，他说生活在网吧里并不算糟糕。网吧在日本已有十多年历史，但在2005年左右，日本出现了一种可以让人可以住宿的网吧，为客户提供了一个有门的小小私人隔间，有淋浴和洗衣服务，价格也合理，<a target="_blank" href="http://disposableworkers.com/?page_id=37"><u>于是就有人开始生活在网吧里</u></a>。郁弥选择住在网吧是因为单人公寓负担不起，网吧一天的费用是25美元，住一个月750美元，比住单间便宜，而且网吧还提供了不受限制的免费饮料、毛毯和垫子，虽然隔间的大小只有5.9英尺x 3.9英尺。郁弥现在的职业是保安，一周工作六天，一天八小时，月薪2900美元，而在东京租一间公寓，保证金、经纪人费用和家具费用加起来需要支付1.3万美元。根据日本政府部门在2007年的数据，任意一天有6.09万人住在网吧里，其中 5400人是常住，他们被称为网吧难民。2011年大地震中失去住房的一对母女也以网吧为家。
+➜黑莓发布2300美元的“安全平板”
+https://www.solidot.org/story?sid=43334	39708
+<div align="center"><img src="http://img.solidot.com.cn/0/89/liqbzgqxbynHo.jpg" align="" height="320" width="480"><br>
+<br>
+</div>
+在正方形智能手机之后，黑莓公司的最新实验是<a target="_blank" href="http://www.pcworld.com/article/2897012/blackberry-teams-with-samsung-and-ibm-to-offer-governments-a-secure-tablet.html"><u>售价2380美元、卖点是安全性的平板电脑SecuTablet</u></a>。平板由黑莓公司、三星和IBM共同研发，基于三星的Galaxy Tab S 10.5 LTE 16GB（零售价约500美元），捆绑了IBM的软件，Secusmart的数据保护MicroSD卡 ，三星的防系统纂改安全引导技术。黑莓在去年11月收购了Secusmart，安全平板的立项则要早得多。在收购之后，黑莓决定继续该项目。
+➜科学家发现研究论文太多了
+https://www.solidot.org/story?sid=43335	42194
+一篇论文得出结论：科学家也<a target="_blank" href="http://science.slashdot.org/story/15/03/15/1611231/scientific-study-finds-there-are-too-many-scientific-studies"><u>无法跟踪</u></a>其所在研究领域的所有论文。名为《<a target="_blank" href="http://arxiv.org/pdf/1503.01881v1.pdf"><u>科学中的注意衰减</u></a>》（预印本）的论文观察了 Thomson Reuters Web of Scienc数据库截至2010年年底前出版的所有英文学术论文和评论，分析了论文出版年份和引用次数的相关性，引用的峰值以及最后的销声匿迹。通常一篇论文在出版之后的几年里引用数量会逐渐提高，然后到达峰值后迅速下降。研究人员发现，今天的论文被更快的遗忘。研究人员认为一个原因是论文太容易出版。
+➜发送中国第一封电子邮件的德国教授
+https://www.solidot.org/story?sid=43336	44431
+72岁的通信工程教授维尔纳·措恩(Werner Zorn)在人群中绝对是个毫不起眼的人物，但在中国他却是名声远扬。<a target="_blank" href="http://www.dw.de/%E5%8F%91%E9%80%81%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B0%81%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%E7%9A%84%E5%BE%B7%E5%9B%BD%E6%95%99%E6%8E%88/a-18318041"><u>他发送了中国的第一封电子邮件</u></a>。
+"1987年的9月14日，我在北京科技大学输入了中国第一封电子邮件的文本。然后又折腾了一个星期，9月20日才成功发送。"
+在那封邮件的正文中，措恩教授用德语和英语分别写道："越过长城，我们抵达世界的每一个角落。""当时还是冷战时期啊，美国人当然不希望互联网、电子邮件这些东西连接到苏联、中国这些国家去。中国和美国的电子邮件互通，在当时是不可能的；而西德当时却相对更加中立。" 可以说，当时的冷战环境造成中国不可能通过美国来发送电子邮件，而一系列人际关系带来的因缘巧合，使得中国的第一封电子邮件用德语写就。他同样也注意到了中国互联网正面临日益收紧的互联网管制与审查。他认为，网络管制与审查可能和中国文化有关，中国在近代历史上常对异质文化持抗拒态度。
+➜中国准备大力发展足球教育
+https://www.solidot.org/story?sid=43337	45151
+国务院办公厅发布了《<a target="_blank" href="http://www.gov.cn/zhengce/content/2015-03/16/content_9537.htm"><u>中国足球改革总体方案</u></a>》，设定了大力发展足球的<a target="_blank" href="http://www.gov.cn/2015-03/16/content_2835013.htm"><u>计划方案</u></a>。该草案在今年2月27日由中国国家主席习近平主持的中央深改小组会议通过。会议<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2015/03/150316_china_football_reform"><u>指出</u></a>，“实现中华民族伟大复兴的中国梦与中国体育强国梦息息相关，发展振兴足球是建设体育强国的必然要求，也是全中国人民的期盼。”有关方案共有50条改革措施，将发展中国足球运动纳入经济社会发展规划，实行三步走战略。远期目标包括中国成功申办世界杯足球赛，男足打进世界杯、进入奥运会。方案提出至2025年建5万所足球特色学校。
+➜二氧化碳排放量在2014年停止增长
+https://www.solidot.org/story?sid=43338	46148
+根据国际能源署的初步数据，二氧化碳排放量在2014年<a target="_blank" href="http://www.newscientist.com/article/dn27165-co2-emissions-may-have-stalled-in-2014--why.html"><u>停止增长</u></a>。2014年能源产生的二氧化碳排放量约 323亿吨，与2013年持平。之前只发生过三次碳排放量与前一年持平或下降，而所有这些都与全球经济放缓有关：1980年代初、1992年和2009年。但2014年全球经济增长了3%。这一数据出乎人意料。能源署认为原因是中国能源消费模式的改变，以及温暖的气候和较低的油价——温暖的气候降低了建筑物供暖的排放，而较低的油价使得企业倾向于选择石油而不是煤炭，煤炭的排放要高于石油。<br>
+➜TED神教：新时代的精神鸦片？
+https://www.solidot.org/story?sid=43339	84632
+<a href="http://buta.moe/">反竹川</a> 写道"
+TED 2015年大会于<a href="https://www.ted.com/attend/conferences" target="_blank">今天在加拿大温哥华市开幕</a>，将会持续5天时间。<a href="http://www.nytimes.com/2015/03/15/opinion/sunday/the-church-of-ted.html" target="_blank">纽约时报上的一篇评论文章</a>将 TED 与基督教福音教派进行了比较。
+<i><a href="https://www.ted.com/playlists/171/the_most_popular_talks_of_all" target="_blank">TED 上最受欢迎的20个演讲</a>不过是一些人所周知的常识，而信徒们则将这些显而易见的道德准则奉为人生信条，并通过传教一般的行为不断扩散。<a href="http://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice?language=en" target="_blank">监狱里关押的人的确很多</a>，<a href="http://www.ted.com/talks/willie_smits_restores_a_rainforest?language=en" target="_blank">雨林也的确在崩溃的边缘</a>。<a href="http://www.ted.com/talks/capt_charles_moore_on_the_seas_of_plastic?language=en" target="_blank">我们生活在垃圾之中</a>，<a href="https://www.ted.com/topics/happiness" target="_blank">幸福感达到了历史新低</a>，<a href="http://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?language=en#t-75311" target="_blank">而科学家们面对大数据不知所措</a>。我们应该做这件事，不能做那件事，购买这个 App 来妥善管理日常生活……TED 过于强调了人的主观能动性，犹如新教早期传教士一般试图用平均长度仅为15分钟的演讲来兜售宇宙终极问题的解决方案，而观众们则通过在 Facebook 上点赞来寻找人生意义，以及显示他们是多么的一个关爱他人、热爱生活的人啊。对于这种“<a href="http://www.nytimes.com/2015/03/15/opinion/sunday/the-church-of-ted.html#permid=14422243" target="_blank">廉价的精神鸦片</a>”，我们中国人有个绝妙的词来形容：<a href="https://en.wikipedia.org/wiki/Chicken_Soup_for_the_Soul" target="_blank">心灵鸡汤</a>。"
+</i></p>

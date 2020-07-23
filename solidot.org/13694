@@ -1,0 +1,37 @@
+➜GPLv3正式发布
+https://www.solidot.org/story?sid=3175	14340
+<a href="http://gplv3.fsf.org/">GPLv3正式发布</a>。促使新版GPL推出的关键因素是微软和Novell的专利交易，微软获得了SLES的销售许可，接下来就对自由软件和开源社区发出专利侵犯恐吓，GPLv3削弱了微软专利威胁，参考1975年颁布的保护消费者权利的Magnusson-Moss Warranty法后用更明确的术语取代了GPLv2中模糊的声明。此外，新版阐明使用BitTorrent工具分发GPLed软件是合法的，没有破坏许可证（从技术上讲，GPLv2不允许这种方式，90年代的旧版GPLv2根本没有预料到会出现现在流行的P2P下载方式），<a href="http://www.gnu.org/licenses/gpl-faq.html">GPL FAQ</a>也对新版的变化进行了说明。<a href="http://www.linux.com/feature/115650">Linux.com</a>的一篇文章对此进行了详细解释。
+➜2007年年度Eclipse发布版本Europa"在此"
+https://www.solidot.org/story?sid=3177	18240
+<a href="http://www.eclipse.org/europa/">Eclipse Europa</a>是Eclipse项目下一代发布版本(正如去年的Callisto)，Eclipse同时发布了21个项目，将其统称为Europa，它包含一千七百多万行代码，由19个不同国家的310多个开源开发者共建而成。<br>
+Europa开始了新的Eclipse包发布，分为Eclipse IDE <a href="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/20070628/eclipse-java-europa-linux-gtk.tar.gz">for Java Developers</a>, <a href="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/20070628/eclipse-cpp-europa-linux-gtk.tar.gz">for C/C++ Developers</a>, <a href="http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/20070628/eclipse-rcp-europa-linux-gtk.tar.gz">for RCP/Plug-in Developers </a>,和<a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.3-200706251500/eclipse-SDK-3.3-linux-gtk.tar.gz">经典Eclipse</a>。<br>
+Europa的一些<a href="http://www.eclipse.org/europa/projects.php">精彩特性</a>包括：<br>
+* The Eclipse Platform 3.3 - 无数改进<br>
+* Data Tools Platform 1.5 - 支持SQL开发者和数据库开发商<br>
+* SOA Tools Project 0.6 - SOA开发者的工具支持<br>
+* Mylyn 2.0 - 开发团队以任务为中心的协作方式<br>
+* Dynamic Language Toolkit 1.0- Ruby和其他动态语言
+➜Windows模仿Ubuntu Linux
+https://www.solidot.org/story?sid=3176	21000
+许多人想用Linux但又放不下熟悉的Windows，这里有个简单的方法：用一套皮肤让<a href="http://lifehacker.com/software/friday-fun/make-windows-look-like-ubuntu-linux-273005.php">Windows XP模仿成Ubuntu Linux</a>，从启动画面、登录、到使用界面、程序图标和主题都与Ubuntu下一般无二，还可以用上3D桌面Beryl。
+➜五个彻底改造电脑的想法
+https://www.solidot.org/story?sid=3178	24420
+PC Magazine访问了5个著名的高科技研发中心：Bell实验室，HP实验室，IBM研究中心，Microsoft研究中心，以及Palo Altou研究中心(PARC)，探讨了计算机的未来。这里列出的<a href="http://www.pcmag.com/print_article2/0,1217,a=209783,00.asp">5个想法</a>也许不久就能成真。<i>
+1.在家中就能欣赏超炫的IMAX电影<br>
+2.无需依附任何平面的鼠标，用手就可以精确定位<br>
+3.家用量子计算机<br>
+4.直接在路由器上进行P2P下载的系统（好像有了）<br>
+5.人造大脑</i>
+➜改造患有孤独症的实验室老鼠
+https://www.solidot.org/story?sid=3179	31500
+决定性别的X染色体非常脆弱，许多疾病的发作与此相关。据BBC报道，MIT的科学家似乎已能够成功<a href="http://news.bbc.co.uk/2/hi/health/6245742.stm">逆转由X染色体</a>引发的自闭症和智力障碍综合症的老鼠。研究人员发现了一种能改变脑细胞连接结构的酶，针对它进行特殊处理可修复结构异常现象，这意味着如果儿童身上出现类似的智力发育不良和孤独症症状，采用相似方法也许能成功治疗。科学家是怎么确定老鼠有孤独症？
+➜平行地球模拟器
+https://www.solidot.org/story?sid=3180	36180
+平行宇宙是科幻小说的热门话题，其实这一概念离我们并不遥远，现实世界就有一个平行地球。你可能早就被五角大楼拷贝了一份放到了一台超级计算机上——地球最强的<a href="http://www.theregister.com/2007/06/23/sentient_worlds/">美国军方正在模拟我们的地球</a>——通过不同设定预测不同的结局（类似模拟游戏）。比如说他们会设定这样几个情节:"没有水或食物，你能撑多久"，“电视之类的宣传媒介对你有何影响”。这套叫Sentient World Simulation (SWS)的系统创造了数十亿个节点，反映每一个男人女人儿童的行为和想法，用真实世界的信息自动进行微调，最终综合反映真实世界面貌。这套系统由<a href="http://www.simulexinc.com/">Simulex</a>公司开发，它的顾客有制药巨头Eli Lilly，著名国防承包商洛克希德马丁（Lockheed Martin）公司，而美国军方则是它最大的用户。五角大楼可能正在运行着这家公司有史以来最为复杂的系统，目前<a href="http://www.jfcom.mil/about/experiments/uresolve.htm">JFCOM-9能实时模拟62个国家</a>，其中包括了伊拉克，阿富汗，中国。模拟器汇聚了各类新闻，普查资料，经济指标和一些秘密信息如军事情报。"
+➜利用命令行来观看Youtube视频
+https://www.solidot.org/story?sid=3181	49260
+之前在Solidot上曾经有一篇<a href="__SLASHLINK__" sect="internet" sid="07/06/11/0732232" sn="article" tid="67">文章</a>是讲述用一个非标准语言来实现简单的字符串"Hello
+World"
+，大家是否知道现在非常流行的Youtube播放的视频可以通过命令行，通过函数来实现，以下一段<a href="http://www.youtube.com/watch?v=ji0A3kOAc9U" title="视频">视频</a>就是非常好的一个论证。使用者通过Fedora
+Core
+6，利用Lynx这个纯文本浏览器在Youtube上搜索视频，然后通过网页过滤，解析找到视频的源代码，调用命令行模式的Mplayer来播放。这让我们很震惊。<br>

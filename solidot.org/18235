@@ -1,0 +1,41 @@
+➜恶意 Python 库被发现会窃取 SSH 和 GPG 密钥
+https://www.solidot.org/story?sid=62845	10530
+Python 安全团队从  PyPI (Python Package Index) <a href="https://www.zdnet.com/article/two-malicious-python-libraries-removed-from-pypi/" target="_blank"><u>移除了</u></a>两个被发现会窃取 SSH 和 GPG 密钥的恶意 Python 库。两个库都由同一名开发者创建，利用名字相似的方法去模仿已知的流行库：python3-dateutil 试图模仿流行的 dateutil 库，jeIlyfish 模仿 jellyfish 库。德国开发者 Lukas Martini 上周日发现了这两个恶意库，在通知安全团队之后它们被立即移除。Martini 称，恶意代码只存在于 jeIlyfish 中，python3-dateutil 本身不包含恶意代码，但它会导入  jeIlyfish 库。dateutil 开发团队成员 Paul Ganssle 分析后认为，恶意代码是尝试从用户计算机上窃取 SSH 和 GPG 密钥，然后发送到一个 IP 地址。
+➜大量台湾半导体人才跳槽到大陆
+https://www.solidot.org/story?sid=62846	11978
+日经<a href="http://cn.nikkei.com/china/ccompany/38449-2019-12-05-05-00-00.html" target="_blank"><u>报道</u></a>，中国大陆正加快从拥有高端半导体人才的台湾引进人才，对象从台积电的经营高管到一线技术人员，范围广泛。在中国大陆 2015 年提出加强半导体产业后，引进速度加快，截至目前，累计从台湾引进相关人才 3000 多人。在与美国的贸易战中暴露出半导体这一弱点，中国大陆今后将进一步以资金实力为武器，加快从台湾争取人才。半导体人才流向大陆的历史可追溯至 2000 年。张汝京在台湾创建的半导体厂商被台积电收购后，带领数百名部下前往大陆，在上海成立了中芯国际。
+➜字节跳动在美国被控收集儿童数据
+https://www.solidot.org/story?sid=62848	12432
+TikTok 母公司北京字节跳动在美国<a href="https://www.theverge.com/2019/12/4/20995974/bytedance-tiktok-musically-coppa-childrens-privacy-lawsuit-youtube" target="_blank"><u>被控</u></a>违反了儿童隐私保护法。字节跳动在 2017 年收购了面向青少年的对口视频应用 Musical.ly，将其重命名为 TikTok。<a href="https://www.courtlistener.com/recap/gov.uscourts.ilnd.371242/gov.uscourts.ilnd.371242.1.0.pdf"><u>诉状称</u></a>，字节跳动未经父母明确同意从年龄低于 13 岁的 Musical.ly 用户收集数据，并将数据出售给第三方广告商。儿童在线隐私保护法  COPPA 禁止社交媒体公司未经父母明确同意收集儿童数据。TikTok 发言人表示他们已经知道诉状中的指控，虽然他们不同意大部分指控，但正与各方合作去解决问题。
+➜人脸的“自我驯化”
+https://www.solidot.org/story?sid=62847	13603
+读者 写道<i> "<a href="https://advances.sciencemag.org/content/5/12/eaaw7908" target="_blank">科学家们近日</a>发现控制人类脸型发育的主要基因。该基因也参与了狗脸型的发育——与狼相比，狗的脸型相对较短，通常有小牙齿和松软的耳朵。与其他人种，比如尼安德特人，人类的脸看起来更像“家养的”。我们的脸比较平坦，没有突出的眉骨，而且非常善于社交和合作。因此，一些科学家怀疑，在我们驯化狗和牛之前，我们首先驯化了自己。
+<br>
+所有受驯化影响的身体部分都来自于胚胎中一个叫做神经嵴的细胞簇。改变神经嵴，也就产生了驯化。该科学团队发现了一个叫做 BAZ1B 的基因对人脸部发育至关重要。该基因突变会导致威廉斯综合征，患者会有明显的面部特征并过度社交。研究人员在胚胎干细胞中，敲除了该基因，发现下游有 448 个对人类进化关键的基因受到影响，并且胚胎发育缓慢。这项研究为“不同于尼安德特人和丹尼索瓦人，智人是通过自我驯化形成的”这一假设提供了很大的支持。"</i>
+➜华为起诉 FCC
+https://www.solidot.org/story?sid=62850	18731
+华为向美国联邦通信委员会 (FCC) <a href="https://cn.reuters.com/article/huawei-sue-us-fcc-1205-idCNKBS1Y90BU?il=0"><u>发起法律挑战</u></a>，此前该委员会认定华为具有安全威胁，将该公司排除在一项政府补贴项目之外。FCC 上月一致投票认为，华为和中兴对国家安全构成风险，禁止美国乡村电信运营商客户动用 85 亿美元的政府资金购买这两家公司的设备或服务。华为首席法务官宋柳平周四在一则声明中称，公司向新奥尔良第五巡回上诉法庭提起诉讼，对 FCC 的上述决定发起挑战。宋柳平在声明中称，“仅仅因为华为是一家中国公司就禁止我们，不能解决任何网络安全问题。”
+➜《Tron: Evolution》因 SecuROM DRM 过期而变得不可玩
+https://www.solidot.org/story?sid=62852	25361
+《Tron: Evolution》的玩家<a href="https://community.pcgamingwiki.com/topic/4476-tron-evolution-securom-drm-expiration-makes-game-unplayable-9-years-after-release"><u>发现</u></a>，游戏在启动时会出现序列号过期的错误信息。零售版和 Steam 版本都存在该问题，而 Steam 版本最近已经从商店下架。导致这一问题出现的原因是游戏发行商迪士尼公司没有更新  SecuROM 激活系统的订阅。玩家询问了迪士尼的技术支持，得到的回答是考虑未来释出补丁，但目前没有发布时间表。这是又一个由于 DRM 而导致合法购买的用户无法使用其商品的例子。以前因为 DRM 过期而导致玩家无法运行旧游戏时，开发商会释出补丁，利用的是早先破解团队的破解补丁——育碧<a href="https://www.solidot.org/story?sid=7093"><u>就发现是这么做的</u></a>。
+➜萨摩亚官员建议未打疫苗的家庭挂红旗
+https://www.solidot.org/story?sid=62853	27468
+太平洋岛国萨摩亚<a href="https://www.solidot.org/story?sid=62821"><u>正在爆发麻疹疫情</u></a>，至今有四千多人感染，60 人死亡，其中 52 人是不到 4 岁的婴儿。现在，萨摩亚官员<a href="https://arstechnica.com/science/2019/12/unvaccinated-samoans-must-identify-themselves-with-red-flags-officials-say/#p3"><u>公布了一项建议</u></a>，呼吁没有接种疫苗的家庭悬挂红旗。麻疹爆发的一个原因是疫苗接种率过去两年大幅下降，2018 年降至了 31%，接种率下降是因为 2018 年两名婴儿在接种麻疹疫苗后死亡，但后续调查发现死亡原因并不是疫苗而是护士的错误导致的，然而反疫苗组织利用这一悲剧助长了对疫苗的恐惧。总理 Tuilaepa Sailele Malielegaoi 早些时候宣布政府将于 12 月 5 日 和 6 日关闭，以帮助公务员进行挨家挨户的疫苗接种行动。官员之后还宣布了新的要求，如果一户家庭有成员没有接种疫苗，那么需要在家门口悬挂红色衣服或红色旗帜。反疫苗组织则将政府的接种行动比喻为纳粹。
+➜狗与人感知话语的方式相同
+https://www.solidot.org/story?sid=62854	29894
+一项新研究<a href="https://royalsocietypublishing.org/doi/10.1098/rsbl.2019.0564"><u>表明</u></a>，狗以一种复杂的方式<a href="http://news.sciencenet.cn/htmlnews/2019/12/433464.shtm"><u>感知话语</u></a>，而这长期以来被认为是人类独有的。在这项新研究中，英国布莱顿苏塞克斯大学认知生物学家 Holly Root-Gutteridge 和同事进行了一项测试，证明狗能通过吠叫认出其他狗。研究人员对 42 只不同品种的狗进行了录像，让它们和主人坐在一个音频扬声器旁边，播放 6 个单音节、非命令词，声音类似，如 “吃”“撞” 和 “谁”。这些词语不是狗主人说的，而是几个不同年龄、不同口音的陌生人说的。每当听到一个新单词的元音稍有不同时，狗狗就会把耳朵向前或向扬声器移动 —— 这两种都是专注的表现。研究人员说，这表明它们发现了差异。但当其他不同口音的人重复这个词时，它就失去了兴趣，表明狗知道说的是同一个词。当一个人说了一个新单词时，它又会振作起来，但是当一个新声音再说时，它的注意力再次下降。这些反应表明狗狗不管说话者是谁，都能识别单词，而且不需要任何训练。
+➜伊朗新数据破坏恶意程序正在攻击中东企业
+https://www.solidot.org/story?sid=62855	31323
+IBM 的安全部门 X-Force <a href="https://arstechnica.com/information-technology/2019/12/new-iranian-wiper-discovered-in-attacks-on-middle-eastern-companies/"><u>披露了</u></a>一种新的数据删除恶意程序被用于对中东企业发动破坏性攻击。该恶意程序被称为 ZeroCleare，被认为是多个伊朗黑客组织协作行动的一部分。攻击的初始阶段从阿姆斯特丹 IP 地址发动，该 IP 与伊朗黑客组织 TG13 Group aka Oilrig 和 APT34 有关联。攻击者通过暴力破解攻击窃取目标的网络账号，利用一个 SharePoint 漏洞向 SharePoint 植入 web shell，尝试安装 TeamViewer 远程访问工具，使用修改版的 Mimikatz 窃取更多网络凭证。渗透到企业网络之后，攻击者开始传播 ZeroCleare 恶意程序，在被感染的机器上覆写主引导记录和硬盘分区。受害者主要位于被伊朗视为竞争对手国家的能源和工业部门。
+➜Reddit 月活跃用户数突破 4.3 亿
+https://www.solidot.org/story?sid=62856	34768
+Reddit 官方博客在<a href="https://redditblog.com/2019/12/04/reddits-2019-year-in-review/"><u>年度总结</u></a>中称，截至今年 10 月底，其用户人数较去年同期增长了 30%，月活跃用户<a href="https://techcrunch.cn/2019/12/05/reddits-monthly-active-user-base-grew-30-to-reach-430m-in-2019/"><u>达到了 4.3 亿</u></a>。用户共发布了 1.99 亿则帖子和 17 亿条评论。去年，Reddit 报告称拥有 3.3 亿月活跃用户，数量超过了 Twitter。今年 2 月，Reddit 获腾讯领投 3 亿美元 D 轮融资，当时该网站被估值为 30 亿美元。用户担心这笔投资会影响 Reddit 内容，他们纷纷涌入 Reddit 并上传各种政治敏感图片。
+➜一月只需服一次的口服避孕药
+https://www.solidot.org/story?sid=62857	35626
+根据发表在《Science Translational Medicine》期刊上的<a href="https://stm.sciencemag.org/content/11/521/eaay2602.editor-summary"><u>一项研究</u></a>，研究人员设计了一种药物输送系统，能缓慢释放一种避孕药到胃中，然后在血液中持续数周，让避孕药一个月<a href="http://news.sciencenet.cn/htmlnews/2019/12/433500.shtm" target="_blank"><u>只需服用一次</u></a>。新的避孕药胶囊里是一种由 6 个附在中心体上的分支组成的结构。每个分支都装有孕激素避孕药 —— 左炔诺孕酮。胶囊内部的结构会被折叠起来。一旦到达胃部，胶囊便开始降解。这释放了上述结构，从而使 6 个分支展开。在接下来的几周内，药物会逐渐释放，直到分支最终脱落。研究人员目前只在猪身上测试了这种避孕方法。服用该胶囊的 3 头猪体内的避孕药含量，与每日口服避孕药的 5 头母猪血液中的含量相似，但在一个月的时间里确实有所下降。研究人员计划在对这种胶囊进行人体试验之前，将雌激素和孕激素结合起来。
+➜臃肿的维基媒体基金会
+https://www.solidot.org/story?sid=62858	42487
+在生物学上，普通细胞不受限制的增殖是癌症的一个显著特征，无限增殖通常会在宿主死亡时终止。对一个组织而言，不断增长的支出可能会导致类似的结果。负责管理在线百科全书的非营利组织维基媒体基金会存在类似的机构臃肿<a href="https://en.wikipedia.org/wiki/User:Guy_Macon/Wikipedia_has_Cancer"><u>支出不断增长的问题</u></a>。根据维基百科联合创始人 Jimmy Wales 给出的数字，2005 年维基百科每月浏览量 14 亿，托管费 5000 美元，只有一名雇员。今天维基百科每月浏览量 160 亿，托管费 200 万美元，有 300 名雇员。过去三年维基媒体基金会的支出增长了最高 85%，维基媒体究竟有何必要使得支出多达数千万美元？它在 2015-2016 年度的支出是 6500 万美元，2017-2018 年度的支出超过 8100 万美元。好消息是在支出增长的同时捐款也在增长。
+➜Visual Studio 2019 整合 GitHub
+https://www.solidot.org/story?sid=62859	46100
+微软释出了 Visual Studio 2019 16.4，<a href="https://www.zdnet.com/article/microsofts-visual-studio-2019-new-16-4-version-brings-github-integration/"><u>加入了</u></a>对旗下流行代码托管平台 GitHub 的整合。微软在 2018 年以 75 亿美元收购 GitHub，而根据对 Stack Overflow 上开发者的调查，Visual Studio 是仅次于 VS Code 的第二流行开发平台。最新版本的 Visual Studio 允许用户直接将代码发布到 GitHub。在 Team Explorer Synchronization 页面，用户可以点击 Publish to GitHub 按钮将本地代码库复制到 GitHub 代码库。Visual Studio 开发团队称，很多开发者都想要这项功能。

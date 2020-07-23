@@ -1,0 +1,29 @@
+➜邪恶的联想：剽窃Linux的专利？
+https://www.solidot.org/story?sid=635	2760
+<a href="http://www.pkblogs.com/zhcn/">afa</a> 写道 "<a href="https://www.xfocus.net/bbs/index.php?act=ST&amp;f=1&amp;t=61204">xfocus论坛</a>上面引述<a href="http://www.lenovo.com.cn/">某公司</a>申请的专利:
+<br>
+一种获取Linux操作系统信息的方法，通过Linux操作系统的proc文件系统，读取Linux内核中各模块的信息；对读出的信息进行处理；将处理后的信息输出到指定的接口文件。本发明通过读取和处理Linux操作系统proc目录下的内核信息文件，获得运行该LINUX操作系统服务器的完整信息，并可独立于不同的Linux发行版本，而仅仅依靠标准的Linux内核就可以实现服务器信息的获取，具有广泛的兼容性。<a href="http://211.157.104.94/sipo/zljs/hyjs-yx-new.jsp?recid=CN02129337.6&amp;leixin=fmzl&amp;title=%BB%F1%C8%A1Linux%B2%D9%D7%F7%CF%B5%CD%B3%D0%C5%CF%A2%B5%C4%B7%BD%B7%A8&amp;ipc=G06F17/40">链接</a>           　本发明公开了一种运用Linux完成操作系统自动安装的方法，采用开放源代码的Linux作为底层运行环境，在计算机内存中建立一RamDisk，将 Linux运行环境移到RamDisk中，以XML格式构造配置文件结构，通过不同的OS构建相应的操作系统自动安装应答脚本，实现了自动检测计算机硬件设备、安装硬件设备驱动程序，从而完整地自动安装计算机操作系统。本发明根据目标计算机上硬件设备的实际情况，自动生成操作系统自动安装应答脚本和系统设置脚本，在真正意义上实现了不同操作系统的自动安装，使得自动安装完成的系统随机可用，并且不必再额外配置其他装置，成本低。<a href="http://211.157.104.94/sipo/zljs/hyjs-yx-new.jsp?recid=CN02153393.8&amp;leixin=fmzl&amp;title=%D4%CB%D3%C3Linux%CD%EA%B3%C9%B2%D9%D7%F7%CF%B5%CD%B3%D7%D4%B6%AF%B0%B2%D7%B0%B5%C4%B7%BD%B7%A8&amp;ipc=G06F9/45">链接</a>
+<br> <br>此外，还有另一项<a href="http://211.157.104.94/sipo/zljs/hyjs-yx-new.jsp?recid=CN03100003.7&amp;leixin=fmzl&amp;title=%D2%BB%D6%D6%D7%BC%C8%B7%BF%D8%D6%C6%CD%E2%B2%BF%B3%CC%D0%F2%B5%C4%B7%BD%B7%A8&amp;ipc=G06F9/52">专利</a>。<br>
+发贴人fatb质问道：“而此两项目的专利申请者竟是“联想(北京)有限公司”。一家曾经彻底封杀过Linux的商业公司。他目的何在？”"
+➜显卡的功耗
+https://www.solidot.org/story?sid=636	3900
+<a href="http://yjl.spaces.live.com/">cyberScorpio</a> 写道 "Jeff Atwood在他的<a href="http://www.codinghorror.com/blog/archives/000662.html">网志</a>上比较了各种显卡以及cpu的功耗，得出结论说：“随着intel的core duo和core 2 duo的上市，主流显卡GPU终于取代CPU成为PC里功率最大的器件。”我们可以看到，显卡中功率最大的是Radeon X1900 XTX，它的峰值功率是121瓦，CPU中功率最大的是Pentiumn D   840，它的功率达到了可观的130瓦，紧随其后的是Athlon 64 FX-62，它的功率是125瓦。而Intel新发布的Core 2 DUO的功率只有65瓦。"
+➜微软台湾开年会 国内员工数百人参加
+https://www.solidot.org/story?sid=637	4500
+<a href="mailto:RuiS22Aug@anquan11.cn">Rui</a> 写道 "微软公司首度在台湾举行“高级经理年会”，数百位国内员工陆续抵达赴会。这是单一公司大陆员工赴台人数最多的一次。据台湾中央社报道，由于中国大陆籍员工到台湾与会多达400人，因此台湾微软先前相当低调，奔走行政院陆委会等单位，希望能突破邀请中国大陆人士每年30人上限，最后顺利化解困难，让400位大陆的微软员工来台湾。
+微软表示，除了400位员工从大陆来，另外还有台湾、新加坡、香港、微软美国总部等地主管分批抵达，总人数近700人，会议时间从8月22日到8月24日。详情见BBC<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_5270000/newsid_5270200/5270294.stm">报道</a>"
+➜Google Earth上的商机
+https://www.solidot.org/story?sid=638	11160
+chaos 写道 " 之前<a href="http://chinese.wsj.com/gb/20060407/tec143449.asp?page=article_technology_gb_tech">GE与Discovery合作</a>（需注册）推出了美国十大国家公园的视频剪辑，虽然只有几分钟，但比空洞的景观要生动多了，可以当做导游。Discovery的赢利方式是“计划通过销售屏幕影像或视频剪辑广告，以及向用户提供付费下载某一地区更长时间视频的服务，来赚取收入。”虽然大家都很想赚钱，但让顾客掏钱的做法不是很赞同。现在GE上一些<a href="http://earth.google.com/showcase/">有趣的地标</a>里出现了一个新的东东，<a href="http://turnhere.com/">Turnhere.com</a>，<a href="http://services.google.com/earth/kmz/TurnHere_films.kml">城市介绍大集合</a> ，目前几乎全是美国的一些城市，以此还有首尔（可能他们的团队里有韩国人）！"           他们制作一些值得信赖的城市经历，里面包括了当地居民的评价以及当地的娱乐活动，这些视频不仅非常专业，而且易于在互联网上发布。Turnhere可以帮助旅游者提前了解当地的风俗民情和诸如当地旅店之类的有用信息，这些对旅游者来说都是免费的，他们通过制作<a href="http://turnhere.com/advertise.aspx">广告视频</a>来获取收入，这些广告就是当地的一些服务提供商了（餐厅，酒店之类）！虽然Discovery也提到了视频广告。这种类似的网站在大陆还没有，如果有正中下怀的兄弟阅读了，可要抓紧筹备了，免得贻误商机，并且这样的网站利国利民呀，不仅可以让我们更加了解我们的国家，而且增加旅游的收入。<br>
+➜第25届世界数学家大会召开
+https://www.solidot.org/story?sid=639	29280
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "8月22日第25届世界数学家大会在西班牙马德里举行。菲尔兹奖以及图灵奖和首次颁发的高斯奖将在22日大会开幕之后颁发。其中俄罗斯数学家<a href="http://www.deccanherald.com/deccanherald/aug222006/snt1124152006821.asp">Grigory Perelman</a>由于成功解决了庞加莱猜想将获得菲尔兹奖和1500美元,而他也被称为<a href="http://english.pravda.ru/society/stories/21-08-2006/84013-Perelman-0">世界上最聪明的人</a>。在解决庞加莱猜想的过程中中国数学家朱熹平和曹怀东完善了证明。"
+➜爱尔兰公司声称发明Free Energy：永动机？
+https://www.solidot.org/story?sid=640	30840
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "一个爱尔兰公司向全球的科学家扔出一枚炸弹，声称自己成功发展出一种<a href="http://news.yahoo.com/s/afp/20060818/bs_afp/irelandscienceenergy">Free Energy</a>。这家叫<a href="http://www.steorn.net/frontpage/default.aspx">Steorn</a>的公司表示此项发明是基于磁场感应，物体在磁场周围运动，就可以创造能量。它可产生清洁的丰富的持续的能量由此将挑战物理学的能量守恒定律。这家公司还引用了英国著名作家萧伯纳的名言：“所有伟大的真理最初都被看作是大逆不道的谬论。”<a href="http://slashdot.org/articles/06/08/21/173253.shtml">slashdot</a>的评论说他已经等不及用这种能源来驱动飞行跑车和加热美人鱼的水池."
+➜首款XBox360 Mod芯片发布
+https://www.solidot.org/story?sid=641	35940
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "这种称为<a href="http://www.dvorak.org/blog/?p=6704">NME-360</a>的芯片可用来备份XBox360上的游戏，可解决当前市场上所有的XBox360游戏。忘记过去那种疯狂的修改方法比如用flash刷DVD驱动的固件来破解，使用NME-360将不接触原始固件，它将仍然是完整无缺的，它不需要任何固件修改。NME-360可自动检测插入的媒体，无论它是拷贝的或者原始的光盘，NME-360都可平稳的导入必要的信息。导入之后NME-360就进入休眠状态也就是说不再需要任何外部的开关。当然这种方法不能避开在线游戏的在线检测。XBox360的又一轮销售高潮即将来临。"
+➜GPLv3:开源间公开冲突的导火索
+https://www.solidot.org/story?sid=642	42360
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "商业周刊的文章探讨了最新版本的GPLv3可能会导致<a href="http://www.businessweek.com/technology/content/aug2006/tc20060818_977941.htm">开源软件流派的公开冲突</a>。文章讨论了Stallman和Torvalds的冲突，DRM问题，一步许可（one-stop licensing）的目的。利益的驱动已经产生自由软件信念的裂痕，这已经反映在上周在San Francisco的LinuxWorld 大会上。一边是Richard Stallman和他的自由软件基金会。当Richard Stallman说“free”的时候，并不是指价格，它的意思是自由。他认为所有的软件都应该自由的使用公开的修改。另一边是Linus Torvalds，Linux之父，他相信简单自由的共享代码能够产生最好的软件，如果其它人想藏起代码，这也是可接受的。那些公司将用他们的脚投票！<a href="http://linux.slashdot.org/linux/06/08/21/1315221.shtml">slashdot</a>的报道。"

@@ -1,0 +1,45 @@
+➜Twitter大中华区总经理成了光杆司令
+https://www.solidot.org/story?sid=50183	9556
+Twitter上周宣布了裁员和重组，作为全球重组的一部分，Twitter香港办事处的大部分雇员<a href="https://www.hongkongfp.com/2016/10/28/exclusive-twitter-to-close-greater-china-operations-amid-global-restructuring-layoffs-in-hong-kong/" target="_blank"><u>将被解雇</u></a>，大中华区的主要业务将从香港转移到新加坡。Twitter在香港设立办事处主来是为了进入中国广告市场，虽然Twitter遭到屏蔽，但包括中国官媒在内的中国客户都在Twitter上注册和积极宣传中国的官方消息。Twitter称，香港的广告销售支持和媒体合作业务将转移到新加坡，但香港办事处并不会关闭，大中华区总经理陈葵<a href="https://www.techinasia.com/twitter-downsizes-hong-kong-office-kathy-chen" target="_blank"><u>将仍然会留在那里</u></a>。Twitter在今年初对陈葵的任命引发了争议，陈葵被认为有着公安和军方背景。
+➜中国限制刷卡购买境外保险产品
+https://www.solidot.org/story?sid=50184	13982
+中国的银行卡垄断机构<a href="http://www.ftchinese.com/story/001069925" target="_blank"><u>表示</u></a>，将限制使用信用卡和借记卡购买某些海外保险产品的做法。进入下半年以来中国的资本外流大增。上周六，中国唯一提供银行卡交易清算服务的中国银联表示，其观察到中国内地发行的银行卡发生的海外保险交易大幅增加，将试行禁止以银联卡购买香港的投资相连保险产品。根据香港保险业监理处的<a href="http://cn.wsj.com/gb/20161031/fin090327.asp" target="_blank"><u>数据</u></a>﹐今年上半年﹐来自中国大陆的游客总共购买了301亿港元（合38.5亿美元）的保险产品﹐已经可与2015年全年的水平（316亿港元）相当。虽然据估计，购买保险产品造成的资本流出在资本流出总量中还不到一个百分点，但散户现金源源流入境外金融产品的现象已引起了中国外汇管理机构的注意。
+➜iptables之后是nftables
+https://www.solidot.org/story?sid=50185	15025
+Red Hat 开发者博客<a href="http://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/" target="_blank"><u>介绍了</u></a>设计取代 iptables、ip6tables、arptables 和ebtables 的新包分类框架 nftables。nftables 旨在解决现有 ip/ip6tables 工具存在的诸多限制。相对于旧的 iptables，nftables 最引人注目的功能包括改进性能如支持查询表；事务型规则更新，所有规则自动应用；等等。nftables诞生于2008年，2013年底<a href="http://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/" target="_blank"><u>合并到Linux内核</u></a>，从 Linux 3.13起开始作为 iptables的替代提供给用户。 nftables实现了一组被称为表达式的指令，可通过在寄存器中储存和加载来交换数据。也就是说， nftables的核心可视为一个虚拟机， nftables的前端工具nft可以利用内核提供的表达式去模拟旧的iptables匹配，维持兼容性的同时获得更大的灵活性。
+➜下一次拒绝服务攻击将针对你的汽车
+https://www.solidot.org/story?sid=50186	18907
+在上周举行的 <a href="http://www.armtechcon.com/">ARM TechCon</a>会议上，Uber的安全研究员Charlie Miller称汽车制造商尚未对黑客劫持行驶中的汽车的风险做好准备。Miller说，有两类对汽车的劫持，其一针对的是移动应用或音频系统，其二是汽车的控制器局域网总线（CAN bus）。后一种危险更大，因为汽车的刹车、制动等关键控制都与CAN bus相关联。他认为将出现<a href="http://spectrum.ieee.org/view-from-the-valley/transportation/safety/why-the-next-denial-of-service-attack-could-be-against-your-car" target="_blank"><u>针对汽车的拒绝服务攻击</u></a>。Miller和同行曾演示过对CAN bus的攻击。他发现，车载娱乐系统的ARM芯片虽然不直接连接到CAN bus，但却连接到CAN bus的关联芯片，而这个芯片可以被重新编程。他认为一个简单的解决方法是不要将两个芯片连接起来，但车主可能更感兴趣将这些功能都串联起来。
+➜莎士比亚17部剧作有合著者
+https://www.solidot.org/story?sid=50187	19463
+莎士比亚也许是所有时代最伟大的剧作家，不过他在创作时并非单枪匹马。据牛津大学出版社公布的<a href="https://global.oup.com/academic/product/the-new-oxford-shakespeare-modern-critical-edition-9780199591152?cc=us&amp;lang=en&amp;" target="_blank"><u>消息</u></a>，一个国际研究小组认为，莎翁的44部剧作中<a href="http://www.dw.com/zh/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98%E8%8E%8E%E7%BF%8117%E9%83%A8%E5%89%A7%E4%BD%9C%E6%9C%89%E5%90%88%E8%91%97%E8%80%85/a-36181703" target="_blank"><u>有17部为合著</u></a>。Christopher Marlowe从18世纪以来就被视为莎士比亚的竞争对手，现在他被鉴定为《亨利六世》三部曲的联合作者，Thomas Middleton则是《终成眷属》的改编者之一。来自5个国家的18名专家从2009年1月以来参加了新版莎士比亚作品合集的研究工作。有关Marlowe并非竞争对手，而是合著者的发现改变了长期以来对两人关系的看法。研究小组使用大数据对莎士比亚和诸多同时代作家的作品进行了精确比较，研究人员分析了某些独特遣词造句在莎士比亚和当时其他作家的作品中出现的频率。研究人员并不清楚这些作家是如何合作的。有可能是Marlowe先写文稿，然后由莎士比亚修改润色。
+➜贝索斯认为我们应该保护地球而不是什么备用计划
+https://www.solidot.org/story?sid=50188	27680
+贝索斯（Jeff Bezos）的Blue Origin和马斯克（Elon Musk）的SpaceX是两大炙手可热的私人火箭研发公司，两位创始人都幻想着人类真正走向外太空。但两人的看法在很多方面是截然不同的。贝索斯想象了未来将有数百万人生活在太空，人类将重工业搬离地球，将地球变成天堂般的花园。而马斯克上个月畅谈了雄心勃勃的火星殖民计划，他打算将火星变成人类的一个“备用星球”。贝索斯<a href="http://arstechnica.com/science/2016/10/jeff-bezos-dismisses-idea-of-a-backup-plan-says-we-must-protect-earth/#p3" target="_blank"><u>公开摈弃了所谓的备用计划</u></a>，他认为人类探索外星球不是为了给地球找个备份，而是要保护地球，事实上地球是太阳系中最适宜人类生活的行星。他说，人类进入太空是因为作为一个种族人类需要成长，否则将会面临停滞。
+➜Soylent 停售代餐粉
+https://www.solidot.org/story?sid=50189	29217
+在<a href="http://www.solidot.org/story?sid=49982" target="_blank"><u>停售能量棒</u></a>之后，Soylent的开发商Rosa Labs宣布<a href="http://blog.soylent.com/post/152400464282/soylent-bar-powder-update" target="_blank"><u>停售粉状代餐产品</u></a>，它现在怀疑1.6版配方与客户的不良反应有关。过去几个月， Soylent客户报告食用能量棒后出现不同程度的呕吐和腹泻等肠胃不适反应，还有用户投诉食用代餐粉后也出现类似的问题。遭投诉的产品都与1.6版配方有关，1.5版配方没有收到不良反应报告。Rosa Labs 认为这一联系有助于他们识别问题根源。在1.6版配方中，黑米蛋白替换为大豆蛋白，首次加入海藻粉和海藻油作为辅助碳水化合物和脂肪来源。有消息来源<a href="http://arstechnica.com/science/2016/10/amid-illnesses-soylent-halts-powder-sales-and-zeroes-in-on-bad-ingredients/" target="_blank"><u>认为</u></a>，大豆蛋白可能是导致疾病的罪魁祸首。Rosa Labs表示，更换配方的代餐粉和能量棒将于2017年初推向市场。
+➜男性避孕注射被发现有效
+https://www.solidot.org/story?sid=50190	31777
+激素注射被证明是<a href="http://www.bbc.com/news/health-37790450" target="_blank"><u>男性安全而有效的避孕方法</u></a>。年龄在18到45岁的270名男性参与了试验，结果显示有效率达到96%，只有4人的伴侣怀孕。但有较多的人出现了副作用，其中包括粉刺和情绪障碍。研究人员对男性激素类避孕药的潜力已经调查了大约20年。男性会持续的生产精子，因此需要高浓度的激素将精子数量从正常水平的每毫升超过1500万减少到每毫升100万。在试验期间，男性被试每八周接受两次激素注射，研究人员对他们监视了最长半年时间。在停止注射后有8个人的精子数量在一年之后没有恢复到正常水平。试验期间，还有20个人因为副作用退出。
+➜NASA科学家认为我们低估了海平面上升
+https://www.solidot.org/story?sid=50191	35916
+大约71%的地球表面被水覆盖，因此衡量海平面变化是一次不小的壮举。截至目前，科学家认为20世纪海平面平均每10年上升了大约0.6英寸。这一上升趋势部分被归因于海水温度的上升。但NASA JPL的科学家在《 Geophysical Research Letters 》期刊上发表<a href="http://motherboard.vice.com/read/nasa-scientists-suggest-weve-been-underestimating-sea-level-rise" target="_blank"><u>研究报告</u></a>，认为我们<a href="http://motherboard.vice.com/read/nasa-scientists-suggest-weve-been-underestimating-sea-level-rise" target="_blank"><u>低估了海平面上升</u></a>。科学家认为低估的比例在5%到28%之间，海平面在过去一个世纪的上升幅度不会少于5.5英寸，有可能上升了6.7英寸。科学家认为，作为测量海平面上升的主要仪器海岸潮汐探测器的读数不能精确指示海平面上升，原因是海平面不是以相同的步伐同时在所有地方发生改变，而仪器的主要安装位置是在北半球。
+➜PM2.5暴露可导致中国每年130万人过早死亡
+https://www.solidot.org/story?sid=50192	38119
+北京大学与中科院的研究员根据中国500多个地面观测站的PM2.5数据估算全国PM2.5的暴露。研究<a href="http://cese.pku.edu.cn/dispart.asp?id=2358" target="_blank"><u>显示</u></a>，2013年中国83%的人口暴露于PM2.5年均浓度超过35 μg m-3大气污染中，PM2.5暴露可导致中国每年130万成年人过早死亡。其中缺血性心脏病、脑血管疾病、慢性阻塞性肺病和肺癌分别占28%、50%、12%和10%。超大城市的PM2.5浓度高、人口密度大，是最高风险地带。研究指出，若采取污染减排措施，将PM2.5浓度削减到WHO三个过渡时期目标值和空气质量准则以下，可分别降低23%、39%、66%和83%的过早死亡风险，揭示了PM2.5削减与健康改善的非线性关系。在经济条件允许情况下，未来有必要进一步提高环境空气质量标准，以达到保障人群健康的目的。此外，联合国儿童基金会<a href="http://cn.nytstyle.com/international/20161031/unicef-children-toxic-air/" target="_blank"><u>发表报告称</u></a>，世界上约有3亿儿童在呼吸着被高度污染的空气。
+➜华尔街疯狂追求程序员
+https://www.solidot.org/story?sid=50193	39781
+Gregory Furlong有大约5年的时间是在百思买做装运工，每周需要工作50小时。对于一位痴迷于计算机的人来说，这几乎是他职业生涯的炼狱。因此在去年，30岁的他参加了一个为期三个月的编程训练营，使用HackerRank训练编程技能和竞争排名。在赢得了Java编程技能的高排名之后，他被摩根大通银行雇佣。<a href="http://www.bloomberg.com/news/articles/2016-10-28/wall-street-coders-wanted-elite-college-degrees-not-necessary" target="_blank"><u>这是华尔街新兴的编程择优录取制</u></a>。金融机构传统上是雇佣名牌大学的毕业生，通常会忽视那些非名牌大学的优秀程序员或有天赋的辍学生。但如今金融机构有大量的名牌大学毕业生填不满的编程工作，他们只能放眼其它地方，根据客观的衡量标准而不是名门血统招募优秀程序员。HackerRank的联合创始人 Vivek Ravisankar说，这纯粹是关于技能。他称，优秀的程序员通常是自学，他们中间的许多人可能是大学辍学生。摩根的高管Michael Zbranak说，五年前从替代渠道寻找人才还是不可思议的事情。全世界的银行业需要50万的技术人员，由于减员每年还需要替换其中的10%。摩根大通有4万技术人员，每年需要雇佣数千人去替换离开的人。
+➜打破多核芯片的瓶颈
+https://www.solidot.org/story?sid=50194	43136
+北卡州立大学和英特尔公司的研究人员提出了一个方案去解决现代处理器的一个最具持久性的难题：<a href="http://spectrum.ieee.org/semiconductors/processors/breaking-the-multicore-bottleneck" target="_blank"><u>处理器多个核心之间的通信</u></a>。他们的方法是一组被称为 Queue Management Device 或QMD的专门逻辑回路。在模拟中，处理器整合QMD后其片上网络核心对核心的通信速度最低提升了一倍，某些情况下提升更多。更令人称奇的是，随着核心数量的增加，速度提升将更为显著。多核处理器面临的一个问题是多个核心有时候需要同时在相同的数据上工作，它们使用锁保护软件队列防止一个核心覆写了另一个核心需要的信息，这种方法性能开销很大，核心越多恶化更严重。电机和计算机工程教授<a href="http://www.ece.ncsu.edu/people/solihin">Yan Solihin</a>和他的学生 Yipeng Wang的方法是将软件队列变成硬件，将三步软件队列操作变成三个简单的指令：从队列中加入数据，从队列中减去数据，将数据放到需要的地方。
+➜新药物有助于消灭四分之一的癌症类型
+https://www.solidot.org/story?sid=50195	44228
+研究人员发现了一种新化合物S63845<a href="http://www.sciencealert.com/a-new-compound-could-help-treat-up-a-quarter-of-all-cancers" target="_blank"><u>能有效的遏制蛋白质MCL1的活性</u></a>。MCL1是一种重要的蛋白质，很多类型的癌症都依赖于MCL1才能生长，如果不能访问到MCL1，癌细胞将会死亡。但MCL1对于人体的基本功能如造血也是至关重要的，所以不能完全遏制蛋白质的活性，否则人就会死亡。所以任何形式的遏制都必须把握好这个狭窄的治疗窗。研究人员声称S63845能在这个治疗窗内工作。对实验鼠的治疗显示，新的药物没有损害其造血功能。
+➜CenturyLink 以340亿美元收购Level 3
+https://www.solidot.org/story?sid=50196	46064
+CenturyLink同意以现金加股票合340亿美元<a href="https://www.bloomberg.com/news/articles/2016-10-31/centurylink-agrees-to-buy-level-3-for-34-billion-in-cash-stock" target="_blank"><u>收购Level 3通信</u></a>。<a href="https://en.wikipedia.org/wiki/Level_3_Communications" target="_blank"><u>Level 3</u></a>是一家Tier 1级网络运营商，其通信网络覆盖全球，是Netflix和苹果音乐视频服务的网络服务商。两家公司的交易是今年通信行业最大的一笔交易之一：Level 3市值194亿美元，债务110亿美元；CenturyLink市值166亿美元，债务190亿美元。
+➜中国的网络间谍活动减少的背后
+https://www.solidot.org/story?sid=50197	46611
+自2014年中期起，中国的网络间谍行动数量出现了显著的下降。对此结果，奥巴马政府的一些人士可能相信，他们采用的胡萝卜加大棒策略生效了。美国的策略包括公开起诉或者叫羞辱中国军方的黑客，以及奥巴马总统的外交努力。但前政府官员和网络安全专家现在提出了一些新的理论，认为在奥习会去年9月达成协议前，<a href="https://www.technologyreview.com/s/602705/the-decline-in-chinese-cyberattacks-the-story-behind-the-numbers/" target="_blank"><u>中国的网络攻击策略就已经发生改变了</u></a>。中国从以前“真空吸尘器”那样无所不包的间谍行动转向了更具有针对性的网络攻击。解放军61398部队或APT1被发现的一个原因被认为是黑客使用了位于防火长城外的军方专用基础设施访问了他们个人的 Facebook和 Twitter账号。

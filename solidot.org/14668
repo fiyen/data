@@ -1,0 +1,48 @@
+➜达尔文帮助预言智利大地震
+https://www.solidot.org/story?sid=16473	9900
+2010年2月27日凌晨，智利发生里氏<a href="http://zh.wikipedia.org/zh-cn/2010%E5%B9%B4%E6%99%BA%E5%88%A9%E5%A4%A7%E5%9C%B0%E9%9C%87">8.8级地震</a>，震中位于智利外海，距智利第二大城市康赛普西翁北东北方向115公里处，目前已经造成200余人死亡，并引发环太平洋沿岸的中等规模海啸。智利大地震是有记录以来威力最强的10次大地震之一，而进化论创始人达尔文（Charles Darwin）帮助<a href="http://news.sciencemag.org/sciencenow/2010/02/did-darwin-predict-chilean-quake.html?rss=1">预言了昨天的大地震</a>。<i>
+1835年智利发生了8.5级地震后，达尔文搭乘贝格尔号环球航行期间，曾探访了智利中部，他发现地震重塑了地质面貌。达尔文的观察为地震学家预测这个断层带发生另外的里氏8级地震提供了线索。原理很简单：在过去的大地震中裂开的断层带——一旦有了足够的累积应力，可能会引发另外一起规模相似的地震。在达尔文地震之后，这个断层带在很长时间内一直很平静，直到1960年发生了里氏9.4级地震——近两个世纪内的最大地震。去年，地球物理学家Jean-Claude Ruegg和同事在《Physics of the Earth and Planetary Interiors》上发表了根据GPS观察的报告，通过测量因Nazca板块挤压海岸导致的陆地的缓慢上升和下降，他们计算了新的累积应力，预测未来几十年内可能发生里氏8.0至8.5级大地震。海地大地震和智利大地震发生的时间要比地震学家预言的早得多。</i>
+➜Firefox 最新 JavaScript 引擎初探
+https://www.solidot.org/story?sid=16474	10200
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "自从 Google 推出含 V8 JavaScript 引擎的 Chrome 以来，公众对 JavaScript 引擎执行效率的胃口又一次被提高，众多浏览器的开发者们绞尽脑汁提升他们的 JavaScript 性能，Opera 最新的10.50 版的 <a href="http://www.downloadsquad.com/search/?q=Carakan">Carakan</a> 引擎据称已经超过 V8，而 Firefox 的开发者们也不甘示弱（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K907.aspx">完整图文版</a>）。<i>
+最近升级到 Firefox 3.6 的用户已经发现他们的 JavaScript 速度有了非常明显的改善，虽然Firefox 的 TraceMonkey 引擎和 Googel V8 比仍有差距，不过，这个状况即将改变，Mozilla 团队正在开发一个新的 JavaScript 引擎，JägerMonkey，期待将 Firefox 的 JavaScript 性能提升到一个新的水平。</i>           当前，Firefox TraceMonkey 引擎之所以性能不佳的一个原因是，它的追踪（trace）算法仍存在问题，Trace 是一种可以将 JavaScript 中的循环语句进行快速编译执行的算法，但这个算法在遇到复杂的，嵌套的，尤其是递归的循环语句时，并不能正确执行（详见<a href="http://www.bailopan.net/blog/?p=683">这篇文章</a>），Firefox 因此会退回解释执行方式，而解释执行的效率是很低的。
+<br> <br>Mozilla 团队正在解决这一问题，新的 JägerMonkey 引擎在测试中已经显露出非常积极的结果，最终的性能提高可能高达 30% ～ 40%。<a href="http://blog.mozilla.com/dmandelin/2010/02/26/starting-jagermonkey/">Mozilla 的 Dave Mandelin 对此表示乐观</a>，他说，JägerMonkey 在执行执行全部 SunSpider 脚本的时候，Jäger 模式比解释模式快了18%，这还不算其它方面的优化与改进，他们在新引擎中所作的改进包括很多方面。
+<br> <br>如果你对此感兴趣，<a href="http://blog.mozilla.com/dmandelin/2010/02/26/starting-jagermonkey/">Mandelin 的博客文章 </a>很值得一读。简单说，起用了 JägerMonkey 引擎的 Firefox 将更加引人注目。关于 Firefox 的最新版本的相关文件，你可以到这个地址获取：<a href="http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/">http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/</a>。
+<br> <br>本文来源：<a href="http://www.downloadsquad.com/2010/02/27/early-work-on-mozilla-firefox-new-javascript-engine-nets-big-speed-gai/">http://www.downloadsquad.com/2010/02/27/early-work-on-mozilla-firefox-new-javascript-engine-nets-big-speed-gai/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方站"
+➜联合国将成立一个独立委员会评审IPCC
+https://www.solidot.org/story?sid=16475	12300
+《纽约时报》<a href="http://www.nytimes.com/2010/02/27/science/earth/27climate.html">报道</a>，
+联合国将成立一个由科学家组成的独立小组去<a href="http://news.slashdot.org/story/10/02/27/1455220/UN-To-Create-Independent-Panel-To-Review-IPCC">审议</a>世界顶级气候学家的工作，气候学家们于2007年公布的IPCC全球气候报告存在很多错误，比如他们根据科普杂志上的一篇报告错误的预言<a href="__SLASHLINK__" sect="science" sid="10/01/21/0858249" sn="article" tid="6">喜马拉雅山冰川可能在2035年消失</a>。联合国环境计划署发言人Nick Nuttall称，独立小组由著名的科学家组成，他们预计将于10月份在韩国举行的气候会议上公布审议报告。
+➜美法院裁定僵尸也有言论自由权
+https://www.solidot.org/story?sid=16476	14160
+一家美国法院本周作出裁决，“僵尸”<a href="http://news.yahoo.com/s/afp/uscourtjusticeoffbeat;_ylt=Agm7kNY07SEZ3Wf6iSlLXYYeO7gF">也有言论自由权</a>。
+<i>
+2006年7个抗议者扮成“僵尸”在一家购物中心外抗议，结果被警察以行为不检为由拘留。明尼阿波利斯一家上诉法庭推翻了下级法院的裁决，指出警方没有恰当利用逮捕“僵尸”。上诉法庭的裁决称，以行为不检名义逮捕那些播放音乐，发表声明和打扮成僵尸的和平抗议者是不合适的。这项裁决将允许“僵尸”起诉明尼苏达和警察，寻求每人至少5万美元的赔偿。</i>
+➜李开复讽刺微软缺乏市场竞争力
+https://www.solidot.org/story?sid=16477	18120
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "李开复在<a href="http://t.sina.com.cn/kaifulee">新浪微博</a>上留言：微软2000年：“科技公司应该靠产品在市场竞争，不应该用法律取代产品竞争” 微软2010年：“谷歌越来越强大，受到谷歌伤害的公司应该到竞争法律机构抱怨。”
+<br>
+近日和微软相关的若干企业在欧洲起诉Google垄断，并发表言论称<a href="http://www.reuters.com/article/idUSTRE61Q02H20100227">Google可能通过其在搜索领域的垄断地位打击竞争对手</a>。李开复的微博留言明显是针对此事，最近李开复频繁发表关于谷歌和微软关系的微博，上一次是爆料<a href="http://www.morgancheng.com/2010/02/26/microsoft-bug-google-china-ad-word">Google在对“谷歌中国”的搜索结果显示微软官方网页。</a>"
+➜丘成桐荣获2010年的沃尔夫数学奖
+https://www.solidot.org/story?sid=16478	19740
+<a href="http://peterhertz.blog.163.com/">Riemann</a> 写道 "2010年的<a href="http://www.cas.cn/xw/zyxw/yw/201002/t20100203_2739912.shtml">沃尔夫数学奖授予丘成桐</a>和丹尼斯·苏利文，丘成桐教授获奖是因为他“在几何分析方面的贡献已对几何和物理的许多领域产生深远而引人瞩目的影响”，苏利文教授则因对代数拓扑和共形动力系统的贡献而获奖。<br> <br>
+苏利文教授现任教于纽约州立大学石溪分校，丘教授曾在那里当过助教，所以两位获奖者也许曾经是同事甚至合作过。
+丘成桐的数学成就有卡拉比猜想的证明（卡拉比-丘流形已成为弦论的数学基础之一)，广义相对论正质量猜想的证明等等。以证明奇异四维流形存在性而闻名的Simon Donaldson（阿提雅的学生）曾把丘教授誉为“近1/4世纪里最有影响的数学家”。<br>
+丘教授是继陈省身之后第二位获沃尔夫数学奖的华裔数学家，也是第一位获得菲尔茨奖的华裔数学家。作为有世界级声誉的数学家，跟其他老一辈华人数学家一样，丘教授的中国古典文学修养也积淀深厚，不信可以在网上搜搜丘教授演讲的PPT看看，比如《几何: 魅力及应用》、《几何三十载》、《廿一世纪的数学展望》、《时空的历史》、《数学和中国文学的比较》、《数学家的志气与操守》、《一个数学家的心路历程 》等。"
+➜戈尔成苹果股东大会争议中心
+https://www.solidot.org/story?sid=16479	27120
+本周举行的苹果股东大会上，前副总统、诺贝尔和平奖获得者和苹果董事会成员戈尔（Al Gore）因为其在全球气候变化上的鲜明立场而受到了<a href="http://news.cnet.com/8301-31021_3-10459872-260.html">尖锐的批评</a>。<i>
+在大会上，苹果股东Shelton Ehrlich反对戈尔再次入选苹果董事会。他说，戈尔已成为一个笑柄，冰川并未融化。他认为如果戈尔给予苹果的建议与其全球变暖上的观点一样有错误，那么戈尔就不应该再次当选。很快便有另一位股东站起来支持戈尔。两人的不同立场反映了苹果在气候政策方面的摇摆不定。苹果股东递交了两项不同的气候政策提案，其一来自非盈利组织As You Sow，要求苹果公开承诺减少温室气体排放的目标，并公布可持续发展报告；另一提案；来自投资商，建议苹果董事会成立一个可持续发展委员会。两项提案都遭到股东否决。尽管戈尔受到了指责，但初步投票结果显示，<a href="http://apple.slashdot.org/story/10/02/27/1924221/Unfriendly-Climate-Greets-Gore-At-Apple-Meeting">他再次当选为苹果董事</a>。</i>
+➜苹果承认代工厂有雇用童工现象
+https://www.solidot.org/story?sid=16480	42960
+《每日电讯报》<a href="http://www.telegraph.co.uk/finance/newsbysector/mediatechnologyandtelecoms/7332405/Apple-admits-child-labour-used-at-its-assembly-plants.html">报道</a>，苹果公司代工厂<a href="http://203.75.155.20/gb/www.cna.com.tw/ShowNews/Detail.aspx?pNewsID=201002280062&amp;pType0=aIT&amp;pTypeSel=0">有雇用童工现象</a>。
+<i>
+去年至少有11名15岁员工被发现在3座苹果代工厂上班，不过苹果并未公布这些工厂名称，也未透露地点；但是苹果大部分产品在中国组装。苹果表示，目前已没有工厂雇用童工或未成年工人。苹果屡次因工厂剥削员工和工作环境恶劣而备受抨击，上周才传出62名苹果和诺基亚代工厂员工正己烷（n-Hexane）中毒，这种有毒化学物会引起肌肉退化和视力模糊。这起事件的厂商是台湾胜华科技在中国苏州子公司联建科技。苹果并未评论这起事件。</i>
+➜谷歌搜索增加地理位置过滤
+https://www.solidot.org/story?sid=16481	51360
+<a href="mailto:jmss160@126.com">三哥</a> 写道 <i>"Google<a href="http://googleblog.blogspot.com/2010/02/refine-your-searches-by-location.html">官方博客</a>称，用户在键入关键词后，在<a href="http://news.wangmeng.cn/detailNews/1900-google-search-for-new-features-geographical-location-filter-search-results">返回结果中可看到</a>“附近”的选项，以方便用户更快速查找到相应信息。新增“附近”优化搜索选项所提供的信息，是基于用户IP地址而得出，因此用户不必键入自己目前所在地等信息，谷歌搜索会自动判断用户当前所在位置，然后再将合适的“附近”内容返回给用户。如用户经常会查找离自己居处最近的宾馆、农贸市场等信息。在这种情况下，谷歌的‘附近’优化搜索选项就很有帮助."</i>
+➜金融市场图灵测试
+https://www.solidot.org/story?sid=16482	54000
+经济学家们争论说，市场的效率要看它产生的回报。市场越有效，那么回报越随机，而一个完美的市场应该是完全随机的。那么<a href="http://www.technologyreview.com/blog/arxiv/24861/">人类是否能区分出真实金融市场数据和随机数据</a>？研究人员进行的测试显示，人类能很快分辨真实市场的数据。
+<i>
+投资策略公司AlphaSimplex的Jasmina Hasanhodzic，MIT斯隆管理学院的Andrew Lo（同时是AlphaSimplex的创始人）， 西北大学的Emanuele Viol共同开发出一个<a href="http://arora.ccs.neu.edu/">人类金融图灵测试</a>（需注册，使用Java开发）。这个基于Web的游戏向玩家展示金融市场曲线图，一幅图是随机，另一幅来自真实市场。对78个人的试验显示，人类能很快找出规律，识别哪个是真实，哪个是随机。他们指出，真实的市场比随机市场更平滑。研究结果显示，我们的金融市场绝不是随机的，虽然难以预测，但能用十分简单的原理描述。<a href="http://science.slashdot.org/story/10/02/26/1751201/Scientists-Develop-Financial-Turing-Test">人类十分擅长于模式识别</a>。</i>

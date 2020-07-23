@@ -1,0 +1,12 @@
+➜哔哩哔哩上意外流行的数据可视化视频
+https://www.solidot.org/story?sid=57702	12333
+匿名读者 写道 <i>"在 Jannchie(见齐)根据 TIOBE 的数据制作了<a href="https://www.bilibili.com/video/av22824043" target="_blank">编程语言排名</a>视频后，数据可视化视频意外的在视频弹幕网站哔哩哔哩上流行了起来，其随后将数据可视化项目<a href="https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js" target="_blank">开源</a>于 GitHub。项目衍生了根据 Newzoo 数据制作的<a href="https://www.bilibili.com/video/av27789464" target="_blank">全球上市公司游戏收入排行榜</a>，根据百度指数数据制作的<a href=" https://www.bilibili.com/video/av27904147" target="_blank">手机品牌流量发展史</a>等视频作品。呈现世界变化的视频显然是数据可视化受欢迎的一种形式。"</i>
+➜Elon Musk 撤回特斯拉私有化的声明
+https://www.solidot.org/story?sid=57703	51375
+本月早些时候，特斯拉 CEO Elon Musk 通过 Twitter 宣布他考虑私有化特斯拉。通过社交媒体率先公布公司重大事件被认为违反了 SEC 的规定，而这一消息引发了特斯拉的股价出现显著波动。 Elon Musk 之后通过官方博客更详细的解释了私有化的理由，称私有化将为 “特斯拉创造最佳运营环境”，使其免受 “股价剧烈波动的影响，股价波动可能严重分散在特斯拉工作的所有人的注意力”，公司将从 “季度盈利周期” 中解脱出来。现在，在听取了股东以及投行的反馈和意见之后，Musk <a href="https://www.tesla.com/blog/staying-public" target="_blank"><u>宣布撤回私有化</u></a>。Musk 称，大部分股东相信特斯拉作为一家上市公司更为明智，而私有化的过程不仅富有挑战性，而且将比预计的耗费更多时间分散更多注意力，而特斯拉目前必须将注意力集中在生产和盈利上。Musk 表示，他仍然坚信能筹集到足够私有化的资金，但综合考虑各种因素，他决定维持现状。
+➜你应该用哪个内核稳定版本
+https://www.solidot.org/story?sid=57704	56565
+内核稳定分支维护者 Greg Kroah-Hartman 在个人博客上谈论了<a href="http://kroah.com/log/blog/2018/08/24/what-stable-kernel-should-i-use/" target="_blank"><u>稳定内核版本的选择</u></a>。Kroah-Hartman 认为，对所有 Linux 用户来说，最明智的选择是使用自己喜欢的发行版所支持的内核，他个人偏爱滚动更新发行版，滚动更新发行版包括了  Fedora、openSUSE、Arch、Gentoo、CoreOS 等等。所有这些发行版都使用了最新的稳定版本，并定时打上必要的补丁。还有许多用户偏爱传统的发行版模式，这些发行版选择了一个特定的内核版本，然后提供五年甚至十年的更新（比如 RHEL）。Kroah-Hartman 认为，用户在选择时需要确保使用的内核得到支持，如果支持结束之后应该及时升级。当然 Android 系统的情况则另当别论。鉴于整个移动开发模式的特殊性，Android 使用的内核版本都相当古老，许多代码都没有合并到主线，Android 厂商会向内核加入超过 200 万行代码，以至于内核实际上已经面目全非，他因此将这些内核称之为“类 Linux”。绝大多数 Android 设备在发布两年之后就停止更新了，给世界留下了数以百万计的不安全设备。
+➜IRC 诞生三十周年
+https://www.solidot.org/story?sid=57705	57504
+IRC（Internet Relay Chat）在 30 年前诞生于芬兰奥卢大学信息处理科学系，开发者是做暑期工的 Jarkko Oikarinen。30 年后的今天，<a href="http://www.oulu.fi/university/node/54247" target="_blank"><u>人们仍然在使用 IRC</u></a>。IRC 主要用于群聊，但同样也可以用于个人对个人的聊天。<a href="https://zh.wikipedia.org/wiki/IRC" target="_blank"><u>IRC</u></a> 是一种公开的协议，采用 TCP 和 SSL 协议。一个 IRC 服务器可以连接其他的 IRC 服务器以扩展为一个 IRC 网络。IRC 用户透过客户端软件和服务器相连。大多数的 IRC 服务器不需要客户注册登录，虽然在连接前必须设定好昵称，但客户端一般都会自动分配一个。

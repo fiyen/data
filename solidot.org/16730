@@ -1,0 +1,52 @@
+➜西部数据190亿美元收购闪迪
+https://www.solidot.org/story?sid=45884	9395
+<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-10-21/western-digital-agrees-to-buy-sandisk-for-about-19-billion"><u>彭博社</u></a>和WSJ<a target="_blank" href="http://cn.wsj.com/gb/20151022/tec075052.asp"><u>报道</u></a>，西部数据同意以190亿美元现金加股票收购闪迪(SanDisk)。西部数据的核心硬盘业务正面临来自闪存和SSD的挑战，收购闪迪有助于获得新的增长动力。大约三周前，中国国企紫光同意斥资37.8亿美元购入西部数据15%的股份。在商业环境艰难之际，西部数据成为最新一家寻求与具有政治背景的中资企业展开合作的美国科技公司。西部数据称，预计该交易将在完成后的12个月里帮助提升公司利润；在完成交易后的18个月，将产生5亿美元的年协同效应。
+➜DNSSEC开放beta测试
+https://www.solidot.org/story?sid=45885	12308
+当我们输入一个域名，浏览器需要查询和解析域名，确定域名对应的IP地址。解析域名是一个递归过程，它第一步是查询本地，本地没有的话第二步就是找最近的DNS缓存服务器，通常是你的ISP，如果这个服务器也没有记录它会找上一层的DNS服务器，然后是权威DNS服务器（也就是域名whois信息里指定的DNS服务器）。在整个解析过程中，一位处于中间位置的攻击者能返回任意的IP地址，而浏览器会信任返回的结果，原因是DNS不执行身份验证。DNSSEC便是试图解决这个问题的一个方案，它为验证的DNS记录加入加密哈希和签名，阻止DNS投毒攻击。CloudFlare<a target="_blank" href="https://blog.cloudflare.com/dnssec-is-open-for-beta/"><u>宣布</u></a>，它的DNSSEC服务开放beta测试。
+➜日本大量建造火电站，它应该重启核电站
+https://www.solidot.org/story?sid=45886	13123
+2011年福岛核电站核泄露事故发生之后，日本于2013年7月前关闭了所有核电站。2015年至今，只有九州电力的川内核电站1号和2号机组重启，伊方核电站3号机组<a target="_blank" href="http://china.kyodonews.jp/news/2015/10/107590.html"><u>即将重启</u></a>（可能）。日本国内仍然有强大的反核声音。核电站关闭了，那么日本人用的电从哪里来？火电站。全球灾难风险研究所的执行董事Seth Baum<a target="_blank" href="http://thebulletin.org/japan-should-restart-more-nuclear-power-plants8817"><u>认为</u></a>，日本应该重启更多核电机组。日本正在建造45座燃煤火电站，火电站产生的污染对健康构成的风险高于核电站，如果重启核电站，日本的煤炭消费能减少一半。
+➜中国商飞未获FAA认证情况下交付ARJ-21
+https://www.solidot.org/story?sid=45887	16163
+中国商飞将在<a target="_blank" href="http://cn.reuters.com/article/2015/10/22/cn-plane-idCNKCS0SG07F20151022?sp=true"><u>没有获得FAA认证</u></a>的情况下向<span id="articleText">成都航空</span>交付ARJ-21支线客机。ARJ-21去年12月获得了<span id="articleText">中国民用航空局(CAAC)的认证，没有FAA的证书意味着它很难在全球销售和运营，只能在中国和</span><span id="articleText">认可CA</span><span id="articleText">AC证书的亚洲、非洲</span><span id="articleText">和南美洲国家运营。知情人士称，</span><span id="articleText">自2010年以来，FAA一直进行影子认证工作以评估CAAC对飞机进行技术审核的能力。但在2015年初美国影子认证工作结束前，双方就因技术和官僚政治等不同问题关系紧张。</span><span id="articleText">接近中国商飞的人士认为，出于两国政治和经济上的考虑，FAA的工作有些拖泥带水。</span><span id="articleText">FAA回应称，ARJ-21飞机从没有打算通过影子评估工作获得FAA的认证，中国商飞计划使</span><span id="articleText">ARJ-21的一款衍生机型符合FAA标准。</span>
+➜中国向英国出口国产反应堆技术
+https://www.solidot.org/story?sid=45888	19152
+中国国家主席习近平与英国<a target="_blank" href="http://cn.reuters.com/article/2015/10/21/cn-uk-idCNKCS0SF36V20151021?sp=true"><u>签署了</u></a>价值数百亿美元的协议，包括为英国核电站提供资金和技术。中国广核集团将在计划耗资180亿英镑兴建的欣克利角核电厂持有三分之一股份，该核电厂由法国电力集团控股。这是中国对西方核能设施进行的首次大笔投资。 中广核还将持有伦敦Bradwell核电厂三分之二的股份，并计划在那里兴建由中方设计的反应堆；另外也将取得在Sizewell核电厂由法国核能公司阿海珐设计的反应堆项目的五分之一股权。Bradwell核电站将采用被中国称为华龙一号的第三代核反应堆技术，华龙一号之前<a target="_blank" href="http://www.world-nuclear-news.org/NN-Pakistan-breaks-ground-for-new-Karachi-units-21081501.html"><u>已出口</u></a>到中国的传统盟友巴基斯坦。<a target="_blank" href="http://www.world-nuclear-news.org/NN-Construction-cleared-for-Chinas-first-Hualong-One-units-1604154.html"><u>华龙一号</u></a>是基于中国核工业集团的ACP1000反应堆技术与中广核的CPR1000，标准化核电设计，但各自的华龙一号版本存在少许差异。
+➜Ahmed Mohamed一家将移民卡塔尔
+https://www.solidot.org/story?sid=45889	26410
+得州高中生Ahmed Mohamed上个月因自制闹钟被怀疑是定时炸弹而遭到拘留，他的被捕引发了外界的广泛关注，他也因此获得了成名15分钟的机会，被邀请参观Google和白宫，与Google的联合创始人Sergey Brin和美国总统奥巴马见面，在与奥巴马会面后他的家人<a target="_blank" href="http://news.slashdot.org/story/15/10/21/1224204/clock-kid-ahmed-mohamed-and-his-family-to-leave-us-move-to-qatar"><u>宣布将移民卡塔尔</u></a>。<a target="_blank" href="http://news.slashdot.org/story/15/10/21/1224204/clock-kid-ahmed-mohamed-and-his-family-to-leave-us-move-to-qatar"><u>目前所知</u></a>的是他并没有真的自制闹钟，他只是移除了一款沃尔玛零售闹钟的外壳，将闹钟放在公文包内，然后在上英语课时将其插在一个电源插座上，闹钟就发出了响声，公文包就被英语教师没收了。他的家人说，卡塔尔的教育、科学和社区发展基金邀请Ahmed加入该基金的年轻发明家项目，他们在仔细考虑后决定接受这一邀请。
+➜奥斯陆将禁止汽车进入市中心
+https://www.solidot.org/story?sid=45890	28420
+挪威首都奥斯陆将从2019年起<a target="_blank" href="http://www.techinsider.io/oslo-bans-cars-from-its-city-center-2015-10"><u>禁止</u></a>任何汽车进入市中心，以减少污染和增加行人安全。禁令将会影响大约35万车主，奥斯陆将成为第一个禁止汽车进入市中心的大都市。奥斯陆此举被认为将会鼓励更多城市禁止汽车。西班牙马德里也有类似计划，马德里宣布到2020年禁止汽车进入市中心大约500英亩的区域。
+➜模块化智能手表BLOCKS众筹突破一百万美金
+https://www.solidot.org/story?sid=45891	29723
+<center>
+<iframe src="https://www.kickstarter.com/projects/2106691934/blocks-the-worlds-first-modular-smartwatch/widget/video.html" scrolling="no" frameborder="0" height="360" width="480"> </iframe><br>
+<br>
+</center>
+<a href="http://chooseblocks.com">Edam</a> 写道 "全球首款模块化智能手表BLOCKS自10月14日登陆Kickstarter后，一小时内即完成了25万美金的众筹目标。目前众筹人数已近3400，共筹集资金超过<a target="_blank" href="https://www.kickstarter.com/projects/2106691934/blocks-the-worlds-first-modular-smartwatch"><u>一百万美金</u></a>。BLOCKS团队近日还开通了微博<a href="weibo.com/ChooseBLOCKS" target="_blank" title="@ChooseBLOCKS">@ChooseBLOCKS</a>并表示会增强与中国网民的互动。微博将同步更新BLOCKS项目的最新进展并分享BLOCKS背后的故事。
+➜纽约警方驾驶X射线汽车监视未知目标
+https://www.solidot.org/story?sid=45892	31204
+纽约警方<a target="_blank" href="http://www.theatlantic.com/politics/archive/2015/10/the-nypd-is-using-mobile-x-rays-to-spy-on-unknown-targets/411181/?single_page=true"><u>装备了未知数量的X射线面包车</u></a>，可以穿透建筑物墙壁或汽车外壳观察内部状况。每一辆X射线面包车的花费估计为72.9万到82.5万美元。纽约警方拒绝透露如何使用这些汽车。纽约警察局长Bill Bratton声称，X射线没有被用于扫描民众是否携带了武器，其它问题则拒绝回答。美国的执法机构不仅仅有X射线，还有穿墙雷达。今年早些时候，《今日美国》报道称至少有50个执法机构装备了穿墙雷达，可以透过墙壁观察室内情况。
+➜天文学家观察到两颗连体的恒星
+https://www.solidot.org/story?sid=45893	33650
+<div align="center"><img src="http://img.solidot.com.cn/0/116/liXTT2AP1Z41U.jpg" align="" height="205" width="500"><br>
+<br>
+</div>
+天文学家利用欧洲南方天文台的甚大望远镜（VLT）<a target="_blank" href="http://www.eso.org/public/news/eso1540/"><u>观察到</u></a>一个双星系统的两颗恒星正连接在一起，它们的结局可能是形成一颗单一的巨型恒星或是双黑洞。双星系统 VFTS 352位于16万光年外的蜘蛛星云，两颗恒星中心距离仅仅相距1200万公里，它们是如此紧密相连以至于表面已经有了部分重叠。它们是至今发现的最大的最炙热的过相接双星，它们的质量是太阳的57倍，表面温度超过4万摄氏度。两颗恒星的质量相近，所以没有发生大恒星吞食小伴星物质的现象。此类的双星系统相当罕见，科学家预测VFTS 352将面临两种厄运：其一是合并成一颗大型恒星，最终可能会以伽玛射线暴的形式死亡；没有合并最终各自以超新星爆炸的方式死亡，形成一个紧密双黑洞系统。
+➜科学家利用Twitter帮助论文在线盗版
+https://www.solidot.org/story?sid=45894	35819
+在大多数国家，不付钱下载版权材料是违法的——不管你下载的是音乐、电影还是期刊论文。期刊论文的单篇费用十分昂贵，它主要以订阅的形式提供给科学家和学术机构。但一些科学家以需要获取最新知识为由为自己知法犯法的做法辩护，他<a target="_blank" href="http://www.bbc.com/news/blogs-trending-34572462"><u>们正利用Twitter hash标签的方式盗版学术论文</u></a>。他们方法是Twitter发帖告诉别人需要访问某篇期刊论文，帖子中包含了论文链接、电子邮件地址，和I can haz PDF标签。然后某位订阅了该期刊的人会发邮件给你，联系上之后你们的所有邮件交流将脱离社交媒体，原始的帖子会被删除，不会留下论文换手的公开记录。科学家辩护说，这对于发展中国家的科学家获取最新研究是必要的，他们将盗版视为某种对抗制度的公民不服从运动。<br>
+➜噪音引来抗议法庭命令关闭巴黎一个数据中心
+https://www.solidot.org/story?sid=45895	38339
+因为噪声引发当地居民的抗议和投诉，巴黎Montreuil区行政法院命令数据中心公司Interxion<a target="_blank" href="http://www.datacenterdynamics.com/critical-environment/court-orders-interxion-to-close-paris-data-center/95059.article"><u>关闭</u></a>它的巴黎数据中心。该地区的一个居民组织Urbaxion ’93 Association投诉了数据中心的噪音和附近的柴油储存罐，法院随后撤回了该公司的运用许可，Interxion有2个月时间决定是否上诉。该地区的其它数据中心可能会成为抗议者的新目标。
+➜华为超过小米成为中国最大智能手机制造商
+https://www.solidot.org/story?sid=45896	40014
+Canalys发布的最新数据<a target="_blank" href="http://cn.wsj.com/gb/20151022/tec104741.asp"><u>显示</u></a>，第三季度华为取代小米成为中国第一大智能手机生产商。截至9月30日的第三季度华为智能手机发货量同比增长81%，这是该公司首次成为中国第一大智能手机生产商。相比之下，当季小米发货量则首次出现同比下滑。第三季度的数据表明小米在中国市场可能正在失去动能。
+➜黑客利用社工法破解中情局长的邮箱
+https://www.solidot.org/story?sid=45897	42465
+Wikileaks<a target="_blank" href="https://wikileaks.org/cia-emails/"><u>公布了</u></a>中情局长John Brennan的部分私人电子邮件，局长偶尔会利用该账号转发一些情报相关工作相关的事情比如SF-86申请文件。John Brennan使用的是一个AOL邮箱，他的账号是被几名年轻的黑客<a target="_blank" href="http://www.wired.com/2015/10/hacker-who-broke-into-cia-director-john-brennan-email-tells-how-he-did-it/"><u>利用社工法破解的</u></a>。其中一名黑客说他们查询Brennan手机号码时发现他是一名Verizon客户，于是他们装成Verizon的技术人员打电话给公司要求Brennan账号的细节信息，理由是他们要对这名客户进行一次例行回访，因为工具故障他们无法访问客户的数据库。在提供了一个伪造的Verizon雇员代码后，他们获得了Brennan的账号、4位PIN码、备份手机号码、AOL电子邮箱地址和银行卡的后4位数。接下来他们打电话给AOL称账号被锁定了，他们利用Verizon获得的信息回答了账号安全问题，成功访问了Brennan的私人邮箱。
+➜Visual C++ 将整合Clang
+https://www.solidot.org/story?sid=45898	44660
+微软在11月释出的Visual C++更新将整合<a target="_blank" href="http://www.theregister.co.uk/2015/10/21/microsoft_promises_clang_for_windows_in_november_visual_c_update/"><u>Clang开源C和C++编译器</u></a>，开发者将可以用Clang编译Windows应用程序。Visual Studio 2015已经整合了Clang编译器，但它是被用于Android和 iOS上的应用开发，而这一次整合是用之开发Windows程序。Visual C++由多部分构成，其中包括前端编译器，用于生成代表程序内容的抽象语法树；后端编译器则读取抽象语法树生成执行代码。前端编译器称为C1，后端称为 C2，由微软的不同团队开发。最新的整合将用Clang取代C1，后端继续用C2。微软推出Clang/C2 for Windows的目的是改进跨平台支持。

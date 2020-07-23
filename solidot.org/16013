@@ -1,0 +1,59 @@
+➜美国科技公司强化信息加密对抗政府监控
+https://www.solidot.org/story?sid=37078	9094
+谷歌耗时数月，花费数百万美元为其电子邮件、搜索关键词及其分布在世界各地的数据中心之间的信息流进行了加密。Facebook首席执行官在今年秋天举行的一次会议上表示，政府把事情“搞砸了”。而Twitter虽然还未公开宣布，但也计划建立新型的加密系统以保护信息免受窥探。种种报道显示，政府的做法已经过分到了何等地步：它在监视互联网用户，并且绕过科技公司，在企业不知情或拒绝配合的情况下，偷偷潜入了它们的系统。上述的反应正是源于这些报道。对于美国科技公司而言，情况已经从起初的公关困境，上升为道德及商业危机，开始威胁它们开展业务的根基，那就是消费者和企业信任这些科技公司，并将自己的数字生活的托付给这些公司。<a target="_blank" href="http://cn.tmagazine.com/technology/20131104/t04pushback/"><u>科技公司正在构筑技术堡垒</u></a>，以期确保它们在经营中所需的那些私人信息，不会被政府和其他有间谍嫌疑的人取得。
+➜两名囚犯开发的程序能为俄克拉荷马州节省两千万美元
+https://www.solidot.org/story?sid=37079	10528
+俄克拉荷马州众议院公共安全委员会主席Bobby Cleveland对Joseph Harp惩教中心的开支有些疑问。他与两位同事前往调研，<a target="_blank" href="http://www.washingtonpost.com/blogs/govbeat/wp/2013/10/29/did-a-murderer-and-a-sex-offender-just-save-oklahoma-20-million/"><u>发现了他们未曾预料到的真相</u></a>：两名狱友开发的一个程序能为监狱，甚至整个俄克拉荷马州的监狱系统节省一大笔钱。程序能跟踪领取过食物的囚犯，防止犯人两次冒领；它还能跟踪哪些食物比较受欢迎，采购人员将能知道哪些食物需要多采购；它还能跟踪从事工作的囚犯领取的工具。Cleveland表示，如果程序能在全州推广实现，俄克拉荷马州每年将能节省最多2000万美元。开发程序的囚犯真实身份没有公开，只知道他们一人是谋杀犯一人是性罪犯。
+➜电子邮件真的过时了？
+https://www.solidot.org/story?sid=37080	12066
+得克萨斯州大学阿灵顿分校的教授Cedrick May注意到，他的学生没有定时查阅电子邮件，有些人甚至都不知道自己还有一个学校电邮帐户。其他学校的教师都有同感，以至于需要特别强调学生去查看电子邮件。学生们表示，<a target="_blank" href="http://cn.tmagazine.com/lifestyle/20131104/t04email/"><u>电子邮件是个无趣的东西</u></a>。根据普度大学图书馆学副教授Reynol
+Junco的一项调查发现，学生每天使用电子邮件的时间是6分钟，而他们平均每天在电脑上花费123分钟，当中遥遥领先排在第一位的，是社交网络，用时31分钟。他们比电子邮件用时更少的事情只有一样：用搜索引擎查东西（仅4分钟）。一些人抱怨写邮件太正式，在格式上所浪费的时间如果改用短信已经能收到回复了。
+➜Google雇员讲述Google最糟糕的地方
+https://www.solidot.org/story?sid=37081	13965
+Businessinsider的一篇<a target="_blank" href="http://www.businessinsider.com/google-employees-confess-the-worst-things-about-working-at-google-2013-11"><u>文章</u></a>摘录了Quora上Google前雇员和现雇员关于公司最糟糕一面的<a target="_blank" href="http://www.quora.com/Working-at-Google-1/Whats-the-worst-part-about-working-at-Google?share=1"><u>讨论</u></a>，值得一读。这些问题许多在Google工作过的人（比如曾在Google实习过的<a target="_blank" href="http://www.solidot.org/story?sid=30965"><u>王垠</u></a>）都谈论过：大材小用，招募了来自一流大学的优秀毕业生，但却干一些最基本的工作，如给广告产品做技术支持，手动删除YouTube上被标记的内容，写一些测试按钮颜色的代码；Google不再是一家创业公司，而是一家巨型企业；工程师水平一般都却非常自大；Google太庞大以至于很难对其产生影响；Google也许能懂工程，但不懂设计；办公空间可能很小；口头承诺美好但不兑现；不能远程工作....
+➜Linux 3.12发布，Linus提出4.0计划
+https://www.solidot.org/story?sid=37082	17424
+Linus Torvalds<a target="_blank" href="http://lkml.indiana.edu/hypermail/linux/kernel/1311.0/00914.html"><u>宣布</u></a>发布Linux 3.12。主要新特性<a target="_blank" href="http://www.solidot.org/story?sid=36503"><u>包括</u></a>：EXT4文件系统引入了两项新功能，支持主动extent缓存，减少主读工作负荷的内存使用，改进异步I/O；改进损坏后的恢复；改进较新型号Radeon GPU的动态电源管理；大幅改进Radeon GPU帧速，游戏性能最高<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&amp;item=linux_312_performance&amp;num=1"><u>提速90%</u></a>；支持AMD Berlin APU；改进英特尔Haswell图形性能；新的驱动，bug修正，等等。Linus Torvalds同时<a target="_blank" href="http://linux.slashdot.org/story/13/11/04/011227/linux-312-released-linus-proposes-bug-fix-only-40"><u>还讨论了</u></a>Linux 4.0发布计划：他考虑在Linux 3.19之后发布Linux 4.0，和Linux 3.0发布策略相同，4.0并不代表着巨大变化，他只是想避免3.x的版本号超过20。目前Linux内核仅仅1个半月就发布一个新版，按照这个速度，大约明年我们就有望看到Linux 4.0了。Linus考虑采用英特尔开发者 Dirk Hondel的提议，在内核版本发布周期中专门加入一个只修复bug不加入功能的版本，Linux 4.0可作为Linux 3.19的增强版推出。<br>
+➜RIAA警告侵权网站开始接受比特币
+https://www.solidot.org/story?sid=37083	24565
+RIAA在递交到美国政府的最新<a target="_blank" href="http://zh.scribd.com/doc/180164717/Notorious-Markets-Report-2013-10-25-13-1-pdf"><u>恶名市场报告</u></a>中，特别<a target="_blank" href="http://rt.com/usa/riaa-bitcoin-pirate-bay-notorious-993/"><u>提到</u></a>BT网站海盗湾开始接受数字货币比特币和Litecoin的捐赠。报告称，虽然ISP在版权组织的压力下采取了封锁屏蔽的措施，但海盗湾发布了PirateBrowser，让用户能绕过屏蔽。报告并没有提到如何应对上述数字货币。报告提到到其它恶名P2P网站包括了KickAss.to、Torrentz.eu、Bitsnoop.com、ExtraTorrent.cc等，非P2P网站包括了虾米音乐，RIAA指出在阿里巴巴收购之后，虾米与索尼、环球和华纳签署了协议开始提供合法内容，但同时仍然在传播侵权音乐。
+➜美国在各国领馆安装先进监听设备
+https://www.solidot.org/story?sid=37084	26232
+德国《明镜》周刊上周<a target="_blank" href="http://www.spiegel.de/international/germany/cover-story-how-nsa-spied-on-merkel-cell-phone-from-berlin-embassy-a-930205.html"><u>爆料</u></a>，美国不仅监听了默克尔的手机，还将驻柏林使馆当作监听站，通过楼顶的神秘装置<a target="_blank" href="http://www.scmpchinese.com/sc/international/15588/mei-ling-guan-tian-tai-zhuang-zhi-jian-ting-xiang-gang-ye-jian-shen-mi-bai-he"><u>「白盒子」</u></a>来监听德国政界通讯。美国驻特拉维夫、马德里、莫斯科、北京、柏林、斯德哥尔摩使馆的屋顶都安装有相似的神秘白色装置。报导将这一装置称作「间谍窝」，这种装置被伪装成建筑的一部分，但实际上内部隐藏了被用于复杂电子监视的技术，其上覆盖了一种「甚至能被微弱无线电信号穿透的」材料。香港《明报》报导，美国驻港领事馆的天台亦出现如上述报道相若的「白盒子」。有军事专家和时事评论员指出，在各国领事馆安装监听系统是国际常态。 <br>
+➜臭鼬工厂研制SR-71接替者
+https://www.solidot.org/story?sid=37085	28255
+《航空周刊》<a target="_blank" href="http://www.aviationweek.com/Article.aspx?id=/article-xml/awx_11_01_2013_p0-632731.xml"><u>报导</u></a>，自从洛克希德的SR-71黑鸟二十年前退役之后，一个永恒的问题是：它是否会有接替者？如有，何时会出现？现在，洛克希德马丁的臭鼬工厂透露了下一代高超音速间谍侦察飞机SR-72的研制计划。SR-72计划在2018年进入到试飞演示阶段，采用双引擎结构，能以6马赫速度飞行，设计填补卫星和亚音速侦察平台之间日益扩大的快速反应情报收集空缺。高超音速飞行面临的一个挑战是：目前的涡轮引擎最大速度2.5马赫，而高超音速冲压引擎需要在3到3.5马赫才能启动，
+如何在引擎的推力鸿沟之间架起桥梁？臭鼬工厂没有披露它的方法。<br>
+➜微软演示Kinect手语翻译器
+https://www.solidot.org/story?sid=37086	30913
+<div align="center"><img src="http://img.solidot.com.cn/0/783/linRhw78km16g.jpg" align=""><br>
+<br>
+</div>
+全世界估计有3.6亿人失聪或存在听力障碍。微软亚洲研究院、中科院和北京联合大学的研究人员利用Kinect体感控制器创造出Kinect手语翻译器（Kinect Sign Language Translator），能将手语实时翻译成书面文字，帮助聋人和非聋人进行交流。这项研究早在今年7月就有<a target="_blank" href="http://www.solidot.org/story?sid=35690">报导</a>，刚刚在微软园区的活动上进行了<a target="_blank" href="http://research.microsoft.com/en-us/collaboration/stories/kinect-sign-language-translator.aspx"><u>技术演示</u></a>。中科院计算机技术研究院副主任陈熙霖教授称，他花了近十年时间研究口语识别，希望能找到方法让听力障碍者能与邻居交流。这套系统组合了 Kinect和gesture API、机器翻译、文本转语音。有微软雇员<a target="_blank" href="http://science.slashdot.org/comments.pl?sid=4396701&amp;cid=45290275"><u>认为</u></a>，十年前这套系统即使存在也不可能推向市场，因为用户基数太小。但今天技术的进步让我们可以提供一种低成本的服务于少数人群的解决方法。
+➜发展中国家的雷击问题
+https://www.solidot.org/story?sid=37087	32320
+发展中国家有许多问题，如文盲、疾病、饥饿和腐败。但还有一个问题直到最近才引起重视：<a target="_blank" href="http://news.nationalgeographic.com/news/2013/11/131102-lightning-deaths-developing-countries-storms/"><u>雷击</u></a>。雷击造成了高死亡率——印度，仅仅十月的一场雷暴就导致32人雷击致死；尼泊尔在2012年有超过130人被雷电杀死，南非每年大约260人，印度的精确统计数据不详，但科学家估计每年超过3000人。相比之下，美国今年至今只有23人死于雷击。在发达国家，打雷之后居民会立即进入室内躲避。但发展中国家的居民却很少有这一意识。每年雷击造成了成千上万人死亡或受伤。专家认为主要原因是缺乏教育。科学家正试图逆转这一局面。
+➜德国男子在手臂上嵌入巨大芯片
+https://www.solidot.org/story?sid=37088	35374
+德国的一位生物黑客Tim Cannon在没有医生监督情况下，给自己的手臂前臂皮肤下<a target="_blank" href="http://motherboard.vice.com/blog/the-diy-cyborg"><u>植入了一块计算机芯片</u></a>，芯片和电池封装在一个密封盒子内，电池能无线充电。这个植入物被称为<a target="_blank" href="http://hplusmagazine.com/2013/10/21/grinder-update-tim-cannon-implants-circadia-1-0/"><u>Circadia 1.0</u></a>，能记录体温数据，并通过蓝牙将数据发送到一个Android移动设备上，它还有三个LED灯，能控制照亮Cannon前臂上的纹身。Circadia 1.0为开源系统，<a target="_blank" href="https://code.google.com/p/heledd/"><u>代码</u></a>采用 GNU GPL v3许可证发布在Google Code上。Circadia 1.0由Tim和同事共同打造，他的团队包括了黑客和艺术家。
+➜白鳍豚基因组测序揭示了其低遗传多样性
+https://www.solidot.org/story?sid=37089	36634
+中国科学家完整测序了白鳍豚的基因组，发现它的遗传多样性较低，但它灭绝的主要原因仍然是<a target="_blank" href="http://www.cas.cn/xw/kjsm/gndt/201311/t20131104_3967425.shtml"><u>由于人类活动</u></a>。 <a target="_blank" href="http://www.nature.com/ncomms/2013/131029/ncomms3708/full/ncomms3708.html#affil-auth"><u>研究报告</u></a>发表在《Nature Communications》上。研究人员发现，与其他哺乳动物的基因组相比，白鳍豚的基因组在进化过程中多显现出遗传多样性低的特征。大约在2万年前至1万年前的冰川消失期的末尾，由于恶劣的环境，白鳍豚曾遭遇过一次严重的“种群瓶颈”。但冰川消失期结束后，海平面的上升与海体的扩大为白鳍豚提供了良好的生存环境，种群数量大幅回升。 论文合作者之一的南师大教授杨光表示，这就证明，所谓遗传上的衰退因素其实并非白鳍豚灭绝的原因，相反正是由于目前白鳍豚种群的衰落，才造成了其遗传多样性过低的结果。“过度捕捞、船舶航运、环境污染……这些人类活动加剧了白鳍豚生存环境的不断恶化，这才是白鳍豚灭绝的主因。”
+➜Schmidt称中国审查制度在Google退出后恶化
+https://www.solidot.org/story?sid=37090	38824
+NSA据报导监视了Google数据中心之间的未加密数据流，Google执行主席 Eric Schmidt称这一行动骇人听闻，如果获得证实可能将是非法的。他说，NSA为了识别大约300位潜在具有危险性的嫌疑人而收集3.2亿美国人的电话数据，这是一项糟糕的公共政策。他认为需要在隐私和安全之间保持恰当的平衡。他说，恶人确实存在，但你不能为了除恶而侵犯每一位美国公民的隐私。Schmidt还表示，Google并不匆忙去扩大中国市场，因为中国审查制度<a target="_blank" href="http://blogs.wsj.com/digits/2013/11/04/googles-schmidt-on-nsa-china-and-north-korea/"><u>在Google退出后急剧恶化</u></a>，“除非发生改变我们不会返回”。他认为，营造开放氛围，允许言论自由，将有助中国免于落入所谓的“中等收入陷阱”。他表示中国面临的最严重问题是人口老龄化，“<a target="_blank" href="http://www.scmpchinese.com/sc/china/15632/gu-ge-dong-shi-chang-du-jia-zhuan-fang-zhong-guo-xia-yi-bu-gai-ge-zhong-dian-wei-yan-lun"><u>独生子女政策是个可怕的错误</u></a>。”
+➜HealthCare.gov上线第一天仅6人成功注册
+https://www.solidot.org/story?sid=37091	40768
+奥巴马医保信息交换平台HealthCare.gov于10月1日正式上线，之后立即遭遇了大量技术问题。根据众议院督察和政府改革委员会成员公布的<a target="_blank" href="http://msnbcmedia.msn.com/i/MSNBC/Sections/NEWS/A_U.S.%20news/US-news-PDFs/10.2.2013-am.pdf"><u>报告</u></a>（PDF），上线第一天，有470万独立访问者访问网站，但成功注册的人数<a target="_blank" href="http://arstechnica.com/information-technology/2013/11/just-six-people-got-insurance-through-healthcare-gov-on-day-one/"><u>仅为六人</u></a>。第二天情况略好一点，有248人成功注册。
+➜微软承认Windows 8.1可能导致鼠标工作不正常
+https://www.solidot.org/story?sid=37092	43002
+微软给出了多个令人信服的理由说服用户升级到Windows 8.1，但玩家在点击Windows商店下载链接时需要三思，因为目前已知Windows 8.1存在一个bug会导致玩家的鼠标在游戏中<a target="_blank" href="http://hothardware.com/News/Microsoft-Admits-Windows-81-Update-May-Bork-Your-Mouse-Promises-a-Fix/"><u>工作不正常</u></a>。微软已经证实该问题，表示正积极调查和开发补丁。微软的一位雇员<a target="_blank" href="http://it.slashdot.org/comments.pl?sid=4407441&amp;cid=45321293"><u>表示</u></a>，这个问题恐怕很难用补丁修复，因为不同的应用程序需要单独修正。问题的根源在于Windows 8.1在检测到高DPI显示屏时会自动放大菜单和文本，但如果应用程序不是DPI Aware，而操作系统却放大了它请求的窗口，混乱就会出现。解决方法实际上很简单，关闭自动放大，在分辨率设置中选择“小”。
+➜芯片设计师从比特币采矿中看到了赚钱良机
+https://www.solidot.org/story?sid=37093	44748
+<span id="articleText"> Ravi Iyengar第一次听说比特币是在六个月前，之后他辞掉了三星电子的高级芯片架构师的工作，筹集到150万美元创办矿机硬件制造公司</span><span id="articleText">CoinTerra，他至今已经预售出了价值超过500万美元的硬件。他说，半导体行业的军备竞赛强度完全赶不上比特币采矿，比特币采矿的一个月就相当于</span><span id="articleText"><span id="articleText">半导体行业的</span>一年。矿工们现在已经认识到，真正赚到大钱的不是他们<a target="_blank" href="http://www.reuters.com/article/2013/11/03/us-technology-bitcoins-idUSBRE9A209P20131103"><u>而是矿机制造商</u></a>。</span><span id="articleText"></span><span id="articleText">CoinTerra相信，未来三年比特币采矿芯片上的投入预算每年很容易就能突破1亿美元。目前比特币网络共挖出1100万BTC，据最近的币值计算约24亿美元。未来三年比特币网络预计每年能挖出140万BTC，根据目前币值相当于每年2.8亿美元。</span>
+➜巴特老师的配音演员去世
+https://www.solidot.org/story?sid=37094	57612
+<div align="center"><img src="http://img.solidot.com.cn/0/784/li0E8tHR8zPZc.jpg" align=""><br>
+</div>
+<a href="/~wmr"><br>
+wmr</a> 写道 "<i>Bart Simpson老师Edna Krabappel的配音演员<a target="_blank" href="http://www.bbc.co.uk/news/world-us-canada-24690452">Marcia Wallace于70岁去世</a>。她配音的角色将不再继续。卫报上标出了<a target="_blank" href="http://www.theguardian.com/tv-and-radio/tvandradioblog/2013/oct/28/marcia-wallace-edna-krabappel-best-simpsons-episodes">她最好的剧集</a>。Marcia死于肺炎并发症。</i>"

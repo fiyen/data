@@ -1,0 +1,76 @@
+➜约翰麦凯恩想让鲍尔默加入他的内阁
+https://www.solidot.org/story?sid=2918	1620
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"美国共和党总统候选人约翰麦凯恩一贯对互联网持中立态度，但很少有人注意到这位越战老兵<a href="http://www.thedailybackground.com/2007/05/30/mccain-comes-out-against-net-neutrality-says-would-hire-microsoft-ceo-steve-ballmer/">很喜欢微软</a>。
+这位70岁的总统候选人表示如果他当选的话他希望微软CEO史提夫鲍尔默能加入他的内阁，处理技术方面的问题。他并没有细说将为鲍尔默先生提供什么职位，但开玩笑的说他考虑为鲍尔默安排一个外交事务职位，比如驻中国大使。"</i>
+➜GPLv2  VS  GPLv3
+https://www.solidot.org/story?sid=2919	2640
+"传道士Richard Stallman发表文章鼓吹自由软件从GPLv2移向GPLv3.
+“<a href="http://gplv3.fsf.org/rms-why.html">为什么要升级到GPLv3</a>”的文章列举了很多理由，解释了升级到GPLv3的重要性。
+<br> <br>
+首先，升级是选择性而非强迫性的。继续采用GPLv2也不是什么灾难，GPLv2与GPLv3许多地方不一致，但这不是严重的问题。
+<br> <br>
+GPLv2与GPLv3不一致不是指在一个程序中把GPLv2许可的代码和GPLv3的代码放在一起是非法的。因为这两个许可证其实都是copyleft：只是许可证认为在一个大程序里使用了遵循GPL的代码后这个程序就应该采用该许可证。GPLv3可以加入GPLv2兼容条款，但这没有什么用，因为要两者兼容的话GPLv2也要追加相似条款。而这不太可能。<br> <br>
+未来许可证的问题仅仅会出现在一个程序中链接或合并两个不同许可证的代码这方面。使用不同许可证的软件是你的自由，比如TeX和Apache许可证与GPLv2不兼容，但这不妨碍我们在Linux，Bash和GCC操作系统中使用这些采用不同许可证的软件。           GPLv3最主要的目标是tivoization。Tivoization是一种电脑工具，它包含在GPL软件内但你却不能修改它，因为一旦发现软件
+遭到修改它就会自动关闭。Tivoization 这类工具的目的是厂家在软件中加入了它认为绝大多数用户不会喜欢的功能（比如DRM），
+为了自己的利益，他们利用自由软件的自由性而强行加入，但是却不允许用户强行把它移除。竞争也许可以避免在软件中加入此类无意义的
+令人讨厌的功能，比如“在每个星期四下午1点到5点关闭”。但是自由的主动权却不在你手上，自由意味着你可以控制软件的行为，而不是
+去乞求某人为你做点什么。<br> <br>
+数字版权管理（DRM）显然限制了你在自己的电脑上使用数据的能力。在这里竞争是没有用的，因为相应的竞争是禁止的。在数字千年版权法
+和其它类似的法律保护下，这是非法的。即便你购买了一个非DRM播放器，你还是无法拒绝DRM。无论你作出何种选择，你都会带上一副数字手套。
+GPLv3保证了你可以自由的脱下这副手套。它并没有禁止DRM，或其它相似的功能。它没有限制你在程序中加了各种功能或移除这些功能。
+但是GPLv3确保你自由的移除拷贝发行者加入的无耻的功能。Tivoization就是他们限制你自由的一种途径；为了保卫自由，GPLv3禁止Tivoization。
+<br> <br>
+对Tivoization的禁止可运用到任何消费者使用的产品上，只有在Tivoization寄生于商业公司或政府机构的专有产品上，GPLv3才会容忍这种情况（微软的WVA？）。
+GPLv3瞄准的另一方面是反抗类似Novell—Microsoft的专利交易。微软想要GNU/Linux用户支付专利使用费，通过交易Novell的消费者可以获得
+限制性的专利保护。但是微软在与Novell的交易中犯了一些错误，GPLv3可以用它来反对微软——把限制性专利保护扩展到整个开源社区。为了利用
+这一点，程序必须升级到GPLv3。微软的律师不蠢，下次他们不会犯同样的错误。GPLv3让下一次不再发生。
+<br> <br>
+软件专利确实是一套险恶的可笑的系统，它让所有的软件开发者置身于被一个从没有听说过的公司或一个超级巨无霸公司起诉的境地中。一个大的
+程序肯定会包含数百个创意，极有可能可实现的创意可能涉及到数百个专利。一些大公司专门收集数以千计的专利来打压小的开发者。软件专利已经阻碍了自由软件的开发。<br> <br>
+安全进行软件开发的唯一途径是废除软件专利。我们期望某一天能够实现。采用CPLv3可以让这一天更早到来。
+<br> <br>
+GPLv3的优点还有很多，国际化，温和的终止，对BitTorrent的支持，与Apache 许可证兼容。总之，升级的理由数也数不清。
+<br> <br>
+变化不会随着GPLv3的发布而终止。如果有一天新的威胁再次危害到用户的“自由”开发，我们将会去发展GPLv4。"
+➜搜狐支持国学，邀风水大师考察
+https://www.solidot.org/story?sid=2920	6540
+奇门遁甲 写道 "最近搜狐广州分公司邀请了华南著名风水大师董易奇先生和他的团队造访搜狐，<a href="http://blog.sina.com.cn/u/4d1b1dce010008fb">对公司目前办公室的空间进行实地的考察和布局</a>。<br> <br>
+根据这家风水网站的介绍说，“在对公司大环境布局、财位选择、吉凶定位、入门通道的详细勘测中，董易奇先生及时的向全程陪同自己考察的搜狐广州分公司提供自己的调整意见，甚至细节到室内吉祥物、壁画摆设、坐椅方向、主管方位、门的朝向与室内环境的相应调整等。整个考察过程宾主双方和谐圆满，气氛极为融洽。”<br> <br>
+在网上Search了下，<a href="http://www.sjzyxh.com/xunshi/News_View.asp?NewsID=101">这个风水大师有诸多成功案例</a>，如：普天利会计事务所。普天利用《周易》的八十一数理来分析，就是有权威的意思，一个会计事务所出具的法律文书是真实的。那当然就是权威的呀！？权威文书自可赚钱；第二个是武汉弘盛科贸公司。用《周易》来分析，就是大事大业，繁荣昌隆。科技产生的力量是弘大的。经过几年的运作，该公司反馈给我们的信息是他们的利润在2002年的基础上翻了三番了。第三是华宇宝石厂。这间在惠州的企业得到这个名号，他就喜欢得不了了。“华丽高雅的宝石，全世界的人都喜爱”，现在他的公司在广州荔湾广场的生意越做越大，收到了很好的经济效益。"
+➜中国应对气候变化国家方案
+https://www.solidot.org/story?sid=2923	18780
+<a href="http://www.gmw.cn/content/2007-06/05/content_617886.htm">《中国应对气侯变化国家方案》今天正式颁布实施</a>，这是我国第一部应对气侯变化的全面的政策性文件。<br>
+按照《国家方案》的部署，到2010年，我国将努力实现控制温室气体排放和增强适应气候变化能力两大目标，其中包括实现单位国内生产总值能源消耗比 2005年降低20％左右，相应减缓二氧化碳排放；努力实现森林覆盖率达到20％；自然保护区面积占国土总面积的比重达到16％等量化指标。<br>
+<a href="http://environment.newscientist.com/article.ns?id=dn11986&amp;feedId=online-news_rss20">国家发改委主任马凯表示</a>，发达国家已经把制造业转移到了像中国这样的发展中国家，然后指责他们造成污染，同时要求他们承诺共享环保技术，“中国不会保证任何减排目标，但那并不意味着我们不会承担应付气候变化的责任。”
+➜内存生产商没有从Vista大卖中获利
+https://www.solidot.org/story?sid=2921	19440
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"研究经济增长，分析人士经常会引用化肥产量，能源消耗量作为佐证。Vista对内存的需求远比XP等更为强烈，Vista大卖预计也能让内存生产商得到不少好处，但分析家指出，事实并非如此。<a href="http://www.marketwatch.com/news/story/dram-chipmakers-suffer-worst-quarter/story.aspx?guid=%7BB15928E6-7034-4FAB-86C0-45CBA08AAD68%7D">DRAM内存芯片生产商面临十年来最糟糕的销售季度</a>。当然还有一种可能，也许聪明的用户能让终极版Aero Glass Vista完美的运行在他们的旧电脑上。"</i>
+➜Stroustrup关于C++历史的新著与HOPL
+https://www.solidot.org/story?sid=2922	19560
+<a href="http://www.mingli-yuan.info/blog/">Mountain</a> 写道 <i>"Bjarne Stroustrup最近撰写了一篇关于C++历史的新著“<a href="http://www.cs.tamu.edu/news/items?id=1797">Evolving a language in and for the real world: C++ 1991-2006</a>”。近日关于编程语言历史的著作颇多，因为ACM举办的十五年一次的<a href="http://research.ihost.com/hopl/">HOPL</a>（History of Programming Languages conference）将于6月9日至10日在圣迭戈召开。这是一次真正的盛会。哪门语言可以入选该会议的条件颇为严苛。这次会议将探讨AppleScript, Lua, Modula-2 and Oberon, C++, Statecharts, Erlang, High Performance Fortran, ZPL, Self, BETA, Emerald, Haskell，最后一个Panel中还有一些其他的语言参与讨论。"</i>
+➜Xandros Linux成为微软新的开源合作伙伴
+https://www.solidot.org/story?sid=2925	21180
+<a href="http://www.builderau.com.au/news/soa/Microsoft-teams-with-Linux-distributor-Xandros/0,339028227,339278183,00.htm">微软和Linux发行商Xandros于本周一宣布技术和法律上的合作</a>，这是软件巨头正在执行的开源公司合作计划的继Novell和Zend之后的新步伐。<br>
+未来五年内，他们将改善服务器间的互操作性来加强系统管理。<br>
+合同要求微软为Xandros提供专利保护，而Xandros也将提供ODF和OpenXML文档转换的桌面软件。
+➜用FireGPG给Gmail邮件加密和签名
+https://www.solidot.org/story?sid=2924	21660
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"Gmail是一个极其强大的Web应用程序，但没有一个容易使用的像GnuPG那样的隐私保护工具。Firefox上的扩展插件<a href="http://firegpg.tuxfamily.org/index.php?page=home&amp;lang=en">FireGPG</a>可以很好的解决这一问题。它能与Gmail无缝整合，轻松的<a href="http://applications.linux.com/article.pl?sid=07/05/31/1643208&amp;from=rss">对邮件进行加密或签名</a>。"</i>
+➜ATI/AMD与NVIDIA: 有关Linux图形驱动
+https://www.solidot.org/story?sid=2928	28920
+phoronix.com最近获取了特许权利来和大家共享ATI/AMD不为人所知的驱动开发模型，这篇文章<a href="http://www.phoronix.com/scan.php?page=article&amp;item=735&amp;num=1">"The Truth About ATI/AMD &amp; Linux“</a>公开了ATI/AMD驱动开发周期，以及他们为了改善在Linux社区中的形象究竟在做什么。<br>
+文中不可避免地谈到竞争对手NVIDIA，文章认为ATI/AMD最近一年投入的工作并不比NVIDIA少，一路走来的NVIDIA驱动已经分展出独立x86和x86_64包和发行版本无关脚本，所以他们并不依赖于发行商和社区，而AMD的依赖性很强。<br> <br>
+而捷克网站abclinuxu.cz也对NVIDIA的Unix软件负责人进行了<a href="http://www.abclinuxu.cz/clanky/rozhovory/andy-ritger-nvidia?page=1">相对轻松的采访</a>，提到的是NVIDIA的新进展等等，“NVIDIA Linux图形驱动团队上下都有自己喜欢的Linux发行版本作为主要桌面：Debian, Gentoo, Ubuntu, RHEL, Fedora, SuSE (和Solaris, 虽然它当然不是Linux发行版本)，自然而然我们 在一个很广泛的发行版本范围里做驱动兼容性测试。”
+➜声波让热能变成电能
+https://www.solidot.org/story?sid=2926	29040
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"环境保护我们人人都要身体力行，第一步就要从电脑做起。电脑一天消耗多少电能，产生多少热能，又有多少热能被白白浪费掉，想想真是太可惜了，据非精确计算三峡大坝发的电其实都是用来补充我们浪费掉的那部分。让这部分废弃的热能变成可更新能源是一个绝佳的科学研究课题，可是老外又比我们先行一步。科学日报报道：犹他大学的物理学家发明了一种小装置可以把<a href="http://www.sciencedaily.com/releases/2007/06/070603225026.htm">热能先转变成声波，再进一步转变成电能</a>。Orest Symko教授说“我们能简单的利用声波高效的把废弃的热能转变成电能。”这项技术将使废热成为可更新能源的新来源，提高太阳能转化效率，冷却电脑和雷达。"</i>
+➜EyeOS 1.0发布
+https://www.solidot.org/story?sid=2927	31440
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道<i> "Web操作系统<a href="http://www.eyeos.org/">EyeOS</a>发布了它的1.0版。在经历重写和重新设计后，<a href="http://www.readwriteweb.com/archives/eyeos_10_launches.php">EyeOS仍旧是一个开源项目</a>，采用GPL许可。“eyeOS 1.0最值得注意的地方并非是它的外表和应用程序，而是它的内核。”</i>
+<a href="http://www.eyeos.org/screenshots">屏幕截图</a>，<a href="http://demo.eyeos.org/">DEMO</a>，<a href="http://www.eyeos.org/about">视频介绍</a>。
+➜MovableType 4.0回归 movabletype.org
+https://www.solidot.org/story?sid=2929	58920
+<a href="http://www.chedong.com/blog/">chedong</a> 写道 "MovableType 开源BLOG发布平台项目4.0 beta发布，并重新启用了<a href="http://www.movabletype.org/">movabletype.org</a> （pagerank为8），并希望成为一个更好的MT开源项目开发者的交流平台。早先sixapart.com曾尝试将movabletype.org转向到sixapart.com： 但是很多开源/免费版本MT发布系统的用户寻找相关资料时：movabletype.org 仍然是首先会打入地址栏的地址。<br> <br>MovableType 4 的新特性包括：<br>
+&nbsp; &nbsp; &nbsp; 更容易的安装（担心：基于perl脚本的cgi）；<br>
+&nbsp; &nbsp; &nbsp; 所见即所得编辑器；<br>
+&nbsp; &nbsp; &nbsp; 更好的注册/交流平台：促进blogger和和读者之间交流；<br> <br>但做为用户，我更关心的是：如何解决trackback和留言的spam识别和性能问题！<br> <br>注：movabletype的<a href="http://www.chedong.com/blog/archives/001158.html">原意是：活字印刷术</a>。做为一种很成功的基于perl的blog发布平台，在全世界有上百万用户，在国内早期的blog尝试者中也有很高的知名度。也是互联网上被link spam最多的blog发布平台之一。"

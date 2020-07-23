@@ -1,0 +1,73 @@
+➜iPhones再次出现时间错误bug
+https://www.solidot.org/story?sid=22963	3600
+上周日，美国开始实行夏时制，即时间将拨快一小时，<a href="http://news.yahoo.com/s/digitaltrends/20110314/tc_digitaltrends/iphonesstillcanthandledaylightsavingstime">苹果的iOS设备再次出现问题</a>，它不是向前拨快一小时，而是向后拨慢了一小时，结果导致周日早晨用户发现少了两小时。去年11月夏时制结束时iOS设备也出现过类似问题，不过当时不是拨快或拨慢，而是没有响应时间调整。解决新问题的方法很简单，关闭手机然后重启；或者切换到“飞行模式”。
+➜FFmpeg起义者创建分支libav
+https://www.solidot.org/story?sid=22964	5100
+2个月前，一群“心怀不满”的FFmpeg开发者<a href="__SLASHLINK__" sect="software" sid="11/01/20/0759213" sn="article" tid="44">发动“起义”</a>，占领了官网，关闭了其他人访问源码库的写访问权限。现在，这群开发者宣布了<a href="http://lwn.net/Articles/433347/">新行动</a>：<a href="http://lists.mplayerhq.hu/pipermail/ffmpeg-devel/2011-March/109281.html">关闭FFmpeg开发者邮件列表</a>，关闭bug tracker，宣布项目<a href="http://article.gmane.org/gmane.comp.video.ffmpeg.devel/129579">重命名为Libav</a>，所有内容都将迁移到新域名下，FFmpeg中的相应副本将被禁用。<a href="http://libav.org/">Libav项目</a>开发者制定了一系列<a href="http://thread.gmane.org/gmane.comp.video.ffmpeg.devel/129537">规章制度</a>，表示要建立一个和谐兴旺友好的FFmpeg开发社区。
+➜GNU Free Call项目宣布
+https://www.solidot.org/story?sid=22965	6660
+旨在建立和部署一个自组织的全球通信服务的<a href="http://planet.gnu.org/gnutelephony/?p=14">GNU Free Call</a>项目正式<a href="http://lwn.net/Articles/433320/">宣布成立</a>。<i>
+创建人表示，GNU Free Call的目标是在普及和可用性上接近Skype，但不需要一个中央服务器注册，也不会使用一个可能存在后门的不安全的二进制秘密协议，不存在可被滥用的网络监控点。
+该项目具有明显的长期社会和政治影响，它可以在紧急情况下不通过现有的通信设施保持联络，
+</i>
+➜中国超过美国成为世界头号生产国
+https://www.solidot.org/story?sid=22966	8520
+<a href="http://www.ihsglobalinsight.com/">IHS Global Insight</a>一份最新研究报告中的数字，美国在2010年丢掉了它雄踞榜首长达110年的制造业生产国头号交椅；<a href="http://www.voanews.com/chinese/news/20110314-China-Top-Goods-Producer-117976834.html">取而代之的是经济高速扩张的中国</a>。<i>
+报告说，2010年中国制造业产出为1.99万亿美元；而去年美国的制造业产出规模为1.95万亿，落在中国之后。牛津大学纳菲尔德学院的知名经济史学家Robert Allen对《金融时报》说，中国成为最大的生产国标志着“500年经济历史轮回的终结。”美国竞争力委员会总裁则认为，美国未来的竞争优势不是商品制造，而是在创新和由制造产业摧生的新型服务业。该委员会高级副总裁Jack McDougle则认为，虽然中国在以名义价值计算的产出总量上超过了美国，但是它的增长模式却是不可持续的。McDougle同时指出中国缺乏公平竞争环境，在中国加入世贸组织时，获准对83个产品门类征收高额税；而如今，它在大约350个产品门类上的做法却与其义务背道而驰。</i>
+➜微软将取消Zune硬件开发
+https://www.solidot.org/story?sid=22967	9120
+彭博社<a href="http://www.bloomberg.com/news/2011-03-14/microsoft-said-to-stop-releasing-new-zune-models-as-demand-ebbs.html">引用消息来源称</a>，由于需求不振，微软公司将取消新版Zune音乐和视频播放器的开发，将力量集中到手机上。了解微软决策的消息人士表示，微软会继续在Windows Phone等手机平台发布Zune软件，Zune软件允许消费者购买音乐和电影，或者支付月费不受限制的收听在线音乐。这位内部消息人士拒绝透露姓名，因为微软尚未正式宣布该决定。
+➜松下展示可无线充电的太阳能电池板
+https://www.solidot.org/story?sid=22968	10380
+松下公司在“2011安全设备展览会”上展示了<a href="http://inhabitat.com/panasonic-unveils-solar-power-table-that-wirelessly-charges-your-gadgets/">无线电力传输站概念原型</a>，它可以通过无线方式为手机等电子设备充电。<i>
+无线电力传输系统是利用太阳能电池板收集能量，使用QI无线传输技术传输电力。QI技术支持手机、移动设备、PDA。利用无线充电，用户不再需要到处找电源插孔了。无线电力传输系统目前只支持松下的移动设备，它将在2011年底或2012年初上市。</i>
+➜IE9正式发布
+https://www.solidot.org/story?sid=22969	16860
+微软发布了<a href="http://www.beautyoftheweb.com/">IE9浏览器</a>，新浏览器支持大量新的HTML5标准，支持硬件加速，大幅改进了性能。IE9不支持Windows XP操作系统，只支持Windows Vista/7/Server 2008（<a href="http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages">下载</a>）。Mozilla开发者Robert O'Callahan分析了Firefox 4和IE9之间的<a href="http://weblogs.mozillazine.org/roc/archives/2011/03/investigating_p.html">性能差异</a>，<a href="http://weblogs.mozillazine.org/roc/archives/2011/03/the_myth_of_ful.html">认为</a>微软的“IE9支持完全硬件加速”<a href="http://blogs.msdn.com/b/ie/archive/2011/03/08/comparing-hardware-accelerated-svg-across-browsers-with-santa-s-workshop.aspx">声明</a>是一种夸大其辞的说法。
+➜俄罗斯涨价：每位美国宇航员需支付6300万美元
+https://www.solidot.org/story?sid=22970	17580
+去年四月份，NASA和俄罗斯<a href="__SLASHLINK__" sect="science" sid="10/04/08/1443245" sn="article" tid="102">签署了一项合同</a>，使用俄罗斯的联盟号宇宙飞船在2013年和2014年送6位美国宇航员进入太空，每位宇航员为一个座位支付5580万美元。现在俄罗斯<a href="http://abcnews.go.com/Technology/wireStory?id=13134958">提高了价格</a>——每位美国宇航员将需要支付约6300万美元。NASA官员表示，涨价的一个理由是通货膨胀。俄罗斯航天局将在2014年到2016年送12位宇航员进入国际空间站，合同总金额为7.53亿美元。NASA的航天飞机到今年夏天将全部退役。
+➜赚钱的股票交易者所见略同
+https://www.solidot.org/story?sid=22971	18960
+熟话说，英雄所见略同，虽然股票交易者不是英雄，但如果他们之间能产生共鸣——不是关于具体的股票买卖，而是同一时间进行交易——<a href="http://www.sciencenews.org/view/generic/id/71196/title/Jumping_on_the_bandwagon_brings_rewards">那么他们可以赚到更多钱</a>。<i>
+西北大学的Brian Uzzi和同事分析了一家股票交易公司的66位交易员，在一年半中的大约一百万次交易。交易行为被一直解析到一秒内，研究人员发现了奇特的相关性：平均每位交易员能在55%的交易中赚到钱，但同步的交易员能在60%的交易中赚到钱。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-03/aaft-ssm031111.php">研究人员称</a>，即时通信（IM）模式的分析显示，随着IM的随机性变得较少，交易的同步性增加。他们推测：当不同的观点汇聚到一起的时候，股票交易员无意识地在一个自发产生的群体智慧点上同步进行交易。</i>
+➜沙特派驻部队进入巴林帮助镇压骚乱
+https://www.solidot.org/story?sid=22972	23520
+bonnae1982 写道<i> "据<a href="http://www.voanews.com/chinese/news/20110314-Bahrain-117940659.html">VOA</a>报道，在巴林的什叶派反政府示威者前天（周日）占据首都麦纳麦的金融中心后，巴林当局昨天向邻国求助，请求以沙特为首的海湾合作委员会出兵平乱。沙特阿拉伯领导的一支军队星期一<a href="http://www.wired.com/dangerroom/2011/03/next-mideast-flashpoint-saudis-enter-bahrain">进入海湾小国巴林</a>，以支持巴林的逊尼少数派政府。</i>           大约1000名沙特军人和约500名阿联酋警察跨过了沙特阿拉伯和巴林的堤道，以回应巴林君主请求帮助保护政府建筑的呼吁。巴林寻求六国海湾合作委员会（沙特，科威特，阿联酋，卡塔尔，阿曼和巴林）的集体安全协议提供帮助。巴林什叶派反对派立刻谴责这些干预是侵占行为。在巴林大部分居民是什叶派穆斯林，而王室则是同沙特王室一样的逊尼派穆斯林，波湾的阿拉伯国家多由逊尼派家族领导。大多数什叶派穆斯林示威者抗议的<a href="http://www.voanews.com/chinese/news/20110312-GATES-BAHRAIN-117859654.html">主要不满</a>是外籍工人。巴林逊尼派领导人将逊尼派穆斯林引入国内从事体力劳动并获得公民身份。巴林的什叶派穆斯林多数说这危及政治平衡，也剥夺了他们工作的权利。据<a href="http://tw.news.yahoo.com/article/url/d/a/110315/78/2o1zt.html">Yahoo!奇摩新闻</a>的报道，巴林警方十三日发射催泪瓦斯及橡胶子弹，与试图占领首都麦纳玛金融中心的示威者发生冲突，成为巴林上月爆发反政府运动以来最血腥的一日。警方表示，约三百五十名示威者以路障和人墙封锁麦纳玛金融港商业区区。消息人士表示，这起暴力冲突造成约两百人受伤；稍早也有数千名留在珍珠广场示威者遭军警开枪驱离，造成七死。
+<br> <br>据<a href="http://www.aboluowang.com/news/data/2011/0315/article_120932.html">香港苹果日报</a>报道，沙地国王阿卜杜拉早前已表明，假如巴林无法压住什叶派示威者，沙地将派军镇压，而沙地向来对威胁王权及逊尼派统治的打击都是绝不手软，上周沙地国内爆发多次小规模的什叶派教徒示威者，都遭军警镇压。 在<a href="http://www.voanews.com/chinese/news/20110314-Bahrain-117940659.html">华盛顿</a>，白宫的一名发言人呼吁海湾地区各国保持克制，但是这名发言人说，美国不认为外国军队进驻巴林是入侵行为。他没有呼吁沙特和阿联酋的军队撤军。"
+➜10款优秀的替代操作系统
+https://www.solidot.org/story?sid=22973	23760
+在世界的某一个角落，有人正在开发或许会改变未来的操作系统，它们可能会成为我们生活中缺一不可的东西，让人产生缺少它就活不下去的感觉。Techradar介绍了<a href="http://www.techradar.com/news/software/operating-systems/10-best-alternative-operating-systems-934484">10款优秀的替代操作系统</a>，它们没有大型企业为后盾，多由社区的开发者业余开发。主流的操作系统来自微软、苹果和Linux，替代操作系统包括了：<i>
+处于早期开发阶段的<a href="http://www.gnu.org/software/hurd/">GNU/HURD</a>，主要用Java语言开发的<a href="http://www.jnode.org/">JNode</a>，工业级操作系统<a href="http://www.freevms.net/">FreeVMS</a>，类主机界面的<a href="http://www.dex4u.com/">DexOS</a>，分布式操作系统<a href="http://www.vitanuova.com/inferno/">Inferno</a>，汇编语言开发的操作系统<a href="http://www.kolibrios.org/">KolibriOS</a>，<a href="http://www.openbsd.org/">OpenBSD</a>，Amiga 研究操作系统<a href="http://aros.sourceforge.net/">AROS</a>，开源Windows兼容系统<a href="http://www.reactos.org/en/index.html">ReactOS</a>，开源BeOS系统<a href="http://www.haiku-os.org/">Haiku</a>（前称OpenBeOS）。</i>
+➜日本大地震提高至9.0级
+https://www.solidot.org/story?sid=22974	24480
+美国地质勘探局（USGS）周一将上周五发生的<a href="http://zh.wikipedia.org/wiki/2011%E5%B9%B4%E6%97%A5%E6%9C%AC%E4%B8%9C%E5%8C%97%E5%9C%B0%E6%96%B9%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%BF%91%E6%B5%B7%E5%9C%B0%E9%9C%87">2011年日本本州岛海域地震</a>的震级从8.9级提高至<a href="http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0001xgp.html">9.0级</a>。USGS使用的震级是<a href="http://zh.wikipedia.org/wiki/%E7%9F%A9%E9%9C%87%E7%BA%A7">矩震级</a>，9级地震释放的能量是8级的31.6倍，9.0级释放的能量大约是8.9级的1.5倍。此前，日本气象厅已经将地震规模从之前的里氏8.8级增加到9.0级。此次大地震是自1900年以来的第四大地震。目前4级以上余震<a href="http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/quakes_all.php">仍然不断</a>。
+➜日本核电站事故后的全球反应
+https://www.solidot.org/story?sid=22975	26280
+日本福岛核电站因为9.0级地震而受损，至今其机组已经发生了4次爆炸，周围地区的辐射水平正在<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/03/110315_japan_nuclear_quake.shtml">快速增加</a>，东京宣布检测到辐射水平超过平常放射量的20倍，东京周边的琦玉县测得40倍，不过都不影响人体健康。日本的核事故也在<a href="http://news.sciencemag.org/scienceinsider/2011/03/roundup-global-reaction-to-nuclear.html?rss=1">全球引发了核电恐慌</a>：<i>
+瑞士<a href="http://www.thestar.com/news/world/article/953524--switzerland-suspends-plans-for-new-nuclear-plants">宣布</a>暂停三座新核电站的寻址工作，等待安全评估；德国总理默克尔决定暂停一项与核工业相关的新法律，意味着该国的几个旧核反应堆可能在未来几周关闭；意大利将在下个月举行全民公决，投票决定是否重启核电项目；波兰表示它不在地震活跃地区，因此不会取消第一座核电站建造计划；英国表示不会建造新核电站，并展开安全评估；中国环保部宣布，<a href="http://cn.wsj.com/gb/20110315/ren161843.asp">核能发展计划不会改变</a>，称中国建造的是第三代核反应堆，冷却水会随重力流动，不需要日本那种在地震和海啸后失灵的水泵。</i>
+➜大地震对日本互联网的影响
+https://www.solidot.org/story?sid=22976	30240
+9.0级地震对日本互联网通信的影响十分有限。虽然灾区发生了火灾、洪水肆掠、断电，但日本互联网经受了考虑，流量几乎未有多大波动，故障在几小时内就自我修复。<i>
+根据Renesys的<a href="http://www.renesys.com/blog/2011/03/japan-quake.shtml">分析</a>，在全球路由表中日本共有大约6000个路由前缀，其中100个因地震短暂消失，但大部分在几小时内重新出现。ISP如Japan Internet Exchange和JPNAP的出入流量在地震后有过小幅下降，但很快恢复并升到新高度。大地震破坏了亚太环通的光缆系统，导致在之后的几小时内香港和菲律宾到日本的连接出现困难，但受影响的网络只占到各个国家和地区网络的很小一部分。日本互联网的冗余和良好规划，使它能安然度过混乱和不确定性。</i>
+➜古巴判美国社会工作者15年徒刑
+https://www.solidot.org/story?sid=22977	32040
+《华尔街日报》<a href="http://online.wsj.com/article/SB10001424052748704838804576196784145868002.html">报导</a>，美国社会工作者Alan Phillip Gross被控帮助古巴人颠覆政府，而于上周六被古巴判处15年徒刑。<i>
+61岁的Alan Gross是美国国际开发署的一位合同工，他秘密为古巴人提供计算机和通信设备，以鼓励进行民主改革。他于2009年被捕，被控从事了“破坏古巴独立和领土完整的行为”，试图通过不受官方控制的通信系统破坏革命政权。古巴检察官寻求判刑20年。美国国务院一直认为 Gross受到了不公正的关押，要求古巴无条件释放他。
+</i>
+➜Gmail服务疑遭防火墙不定时封锁
+https://www.solidot.org/story?sid=22978	34200
+过去几周，中国的Gmail用户发现访问十分困难，经常出现“找不到服务器”等错误信息。有人利用2台VPS服务器，一台在上海，一台在香港，运行测试程序，对Google的HTTP服务和HTTPS服务同时进行测试。<i>
+<a href="http://www.williamlong.info/archives/2579.html">结果显示</a>，HTTP服务连接正常，HTTPS服务连接失败的周期为15分钟左右（最初几天是间隔10分钟）,15分钟正常访问服务，15分钟TCP协议无法建立连接，周而复始。而同时香港的测试结果全部可以正常访问服务。作者认为，在国内到Google的HTTPS服务中的某个路由器上，在周期性地阻断Google服务器的HTTPS端口443。</i>
+➜《人民日报》两年内使用完全相同的头版版面
+https://www.solidot.org/story?sid=22979	35340
+3月14日全国政协十一届四次会议闭幕，去年同一天是全国政协十一届三次会议闭幕。非常有意思的是，《华尔街日报》比较了两年里中国共产党党报《人民日报》同一天头版新闻，发现除了三和四有差异外，<a href="http://blogs.wsj.com/chinarealtime/2011/03/15/china-npc-people%E2%80%99s-daily-two-years-two-editions-one-front-page/?mod=WSJBlog&amp;mod=chinablog">两者布局甚至照片都几乎一模一样</a>，版面差异微乎其微。当然，类似的事情在《人民日报》上并不是第一次出现。知名论坛天涯曾贴出了多年来《人民日报》两会报道的<a href="http://www.tianya.cn/publicforum/content/no04/1/788778.shtml">版面图片</a>。
+➜Google和NASA发布日本地震卫星照片
+https://www.solidot.org/story?sid=22980	38880
+Google和NASA<a href="http://www.pcworld.com/article/222106/Google_NASA_release_satellite_images_of_Japan_disaster.html">都发布了</a>日本地震卫星照片。<i>
+Google和卫星图像公司GeoEye合作，为<a href="http://mw1.google.com/crisisresponse/2011/japan_earthquake_2011/earthquake/google/Japan_earthquake2011_nl.kml">Google Earth</a>(KML)或<a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=200910826786863242067.00049e4d08c67e68fe83e&amp;ll=38.272689,140.756836&amp;spn=22.232593,53.569336&amp;t=h&amp;z=5">Google Maps</a>用户提供地震地区的卫星图像。Google灾难应急团队成员Ryan Falor<a href="http://googleblog.blogspot.com/2011/03/post-earthquake-imagery-of-japan.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+blogspot%2FMKuf+(Official+Google+Blog)&amp;utm_content=Google+Feedfetcher">表示</a>，他们希望这些图像能帮助人们了解地震破坏情况。NASA的科学家使用Terra卫星上的多角度成像光谱仪展示了<a href="http://photojournal.jpl.nasa.gov/catalog/PIA13913">海啸袭击前后的图像</a>。到目前为止，<a href="http://en.wikipedia.org/wiki/2011_Sendai_earthquake_and_tsunami#Casualties">大地震</a>已经造成至少3,373人死亡，1,897人受伤，6,746人失踪。</i>
+➜新浪微博官方辟谣核污染
+https://www.solidot.org/story?sid=22981	48060
+地震海啸以及核事故发生后，网络流传了无数流言，有人纯粹是编段子，有人可能是追求耸人听闻。在日本核电发生爆炸事故之后，微博等处流传了核辐射扩散到中国等消息。<i>
+<a href="https://twitter.com/photobluer">Pb</a> 写道 "3月15日，新浪微博的用户收到新浪微博官方的通知（ <a href="http://thumbsnap.com/f/jqrUmsDW">截图</a>）。一条标题为“新浪微博辟谣消息”，另一条为“分析称未来三天日本核泄漏污染物对我国无影响”。"</i>
+《南方周末》制作的<a href="http://www.infzm.com/contents/498">地震特辑</a>

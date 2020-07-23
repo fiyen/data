@@ -1,0 +1,58 @@
+➜Live Patching有望合并到Linux 3.20
+https://www.solidot.org/story?sid=43029	11910
+Linux 3.19发布之后3.20的合并窗口正式开启，SUSE Labs的工程师Jiri Kosina已递交了Live Patching的<a target="_blank" href="https://lkml.org/lkml/2015/2/9/534"><u>Pull请求</u></a>，这个备受瞩目的为内核打补丁而无需重启的机制有望合并到3.20。Kosina还在邮件中简要回顾了Live Patching的发展史：起初一个独立项目 kSplice实现了基于stop_machine()的内核打补丁机制，后来这个项目被甲骨文收购作为一个专属服务提供给客户。随着用户/客户的需求上升，Red Hat和SUSE不约而同的启动了自己的Live Patching实现，而且几乎在相同的时间宣布了各自的项目（SUSE的kGraft和Red Hat的kpatch）。一个任务的多个独立方案在内核中并存是绝对不现实的，所有利益相关方在 Linux Plumbers Conference 2014会议上<a target="_blank" href="http://linuxplumbersconf.org/2014/wp-content/uploads/2014/10/LPC2014_LivePatching.txt"><u>同意</u></a>为Live Patching功能提供一个基础架构，包括内核模块API和用户空间API/ABI。
+➜微软修复了被中国黑客组织利用的漏洞
+https://www.solidot.org/story?sid=43030	14301
+微软二月例行安全更新<a target="_blank" href="http://www.bbc.com/news/technology-31381892"><u>修复了</u></a>一个被中国黑客组织<a target="_blank" href="http://www.isightpartners.com/2015/02/codoso/"><u>Codoso</u></a>利用的漏洞。安全公司iSight Partners从2010年起就一直在跟踪Codoso的间谍活动，该组织的主要目标是国防、金融、能源、政府、中国政治异议人士和智囊机构。Codoso在2010年利用诺贝尔和平奖委员会网站发动水坑式攻击（watering hole attack），通过Mozilla Firefox的一个漏洞感染访问者的电脑；2013年对维吾尔族和智囊机构发动水坑式攻击，利用的是IE的漏洞。最新的攻击<a target="_blank" href="http://www.ftchinese.com/story/001060596"><u>利用的是福布斯网站</u></a>，攻击者修改了福布斯的一个Flash扩展，组合利用Adobe Flash和一个0day漏洞（CVE-2014-9163）和Windows的一个0day漏洞（CVE-2015-0071）感染电脑。从去年11月28日至12月1日的4天内，福布斯网站的任何访问者的Windows电脑都会被感染。Adobe已经在12月9日修复了Flash的漏洞，微软则在周二释出了它的补丁。福布斯表示，漏洞已被封堵，称调查发现“没有迹象表明存在另外或正在发生的破坏”。
+➜中美科学家提出地球内核新理论
+https://www.solidot.org/story?sid=43031	15145
+中美科学家在《自然·地球科学》杂志上<a target="_blank" href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2354.html"><u>发表论文</u></a>，认为地球内核是由两个存在巨大差异的部分组成的。地球内核最中心部分（内内核）的铁晶体结构同地球内核外部（外内核）的铁晶体结构存在着差异。由于科学家无法通过钻探的手段探索地球核心，其组成和结构一直是个谜。为了解地球核心状况，科学家选择了观察地震波折射的方法，分析了地震波在穿过地球内部不同层面时发生的变化。<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2015/02/150210_erath_core"><u>地震波数据显示</u></a>，如果从地球北极的上方观察，“内内核”的铁晶体是沿着一个东西走向的轴排列的，晶体取向仅沿轴的侧方向发生变化。但“外内核”晶体则是沿着一个南北走向轴排列的。剑桥大学的雷德芬（Simon Redfern）教授指出，曾经有研究认为，地磁场可能在大约5亿年前有过变化，在赤道轴和南北极轴之间发生了转变。内核晶体的奇怪排列也许能解释这一转变。
+➜三星智能电视向第三方应用插入广告
+https://www.solidot.org/story?sid=43032	17542
+三星智能电视用户抱怨他们在使用第三方应用看本地电影中途被插播的广告打断了观影过程。一位用户<a target="_blank" href="http://www.reddit.com/r/PleX/comments/2va6k9/plex_stops_half_way_through_and_plays_a_pepsi_ad/"><u>说</u></a>，每部电影看到20到30分钟时三星智能电视插入了一个百事可乐广告，而且广告还没有声音。他使用的第三方应用Plex允许在电视上播放储存在电脑或NAS设备中的视频。Plex播放器的开发商否认这件事与它有关，而其它智能电视应用的用户也报告遇到了相同问题。这件事<a target="_blank" href="http://arstechnica.com/gadgets/2015/02/samsung-smart-tvs-inserting-ads-into-third-party-apps/"><u>很有可能与三星有关</u></a>，因为广告出现的时候有关闭的提示， “To disable: press Menu on your Samsung Remote and scroll to Smart Hub
+&gt; Terms &amp; Policy &gt; Yahoo Privacy Policy. Scroll to 'I disagree
+with the Yahoo Privacy Notice' and you can toggle the option on to
+opt-out.”三星和雅虎合作为智能电视提供了弹出式广告。
+➜库克将苹果的成功归功于中国市场
+https://www.solidot.org/story?sid=43033	18481
+苹果CEO库克(Tim Cook)在高盛科技与互联网大会上发言（<a target="_blank" href="http://www.imore.com/tim-cook-goldman-sachs-conference"><u>文字稿</u></a>），谈论了第四季度财报、中国和 Apple Watch，这一天苹果成为首家市值突破7000亿美元的美国公司。库克称，苹果能向中国消费者出售高价产品，并且克服了人们对于大公司的通常看法，<a target="_blank" href="http://cn.wsj.com/gb/20150211/tec093201.asp"><u>借此取得了成功</u></a>。苹果没有理会“中国消费者对苹果高端产品的价格太敏感”的传统理念而在中国快速增长。苹果曾面临很大的压力去推出一款更便宜的智能手机，在中国市场与小米低成本对手竞争。库克说，这种传统理念都是一派胡言，事实并非如此。库克称，该公司2014年的大中华区年销售额从五年前的10亿美元增长到了380亿美元。他说，中国经济的快速增长以及中产阶级的壮大对苹果而言意味着一个重大的机会。<br>
+➜杀手使用SnapChat发送自己和被害者的自拍照
+https://www.solidot.org/story?sid=43034	28527
+<div align="center"><img src="http://img.solidot.com.cn/0/984/li0nwVdgdb966.png" align=""><br>
+<br>
+</div>
+一位少年在射杀另一名少年后使用SnapChat<a target="_blank" href="http://arstechnica.com/tech-policy/2015/02/selfie-with-dead-victim-is-key-piece-of-evidence-in-teen-murder-case/"><u>发送了自己和被害者的自拍照</u></a>。被害者Ryan Mangan，16岁，Westmoreland县居民；行凶者Maxwell Morton，也是16岁，他已在上周被捕，被控谋杀，谋杀动机没有被披露。当地警方称，Morton通过阅后即焚应用SnapChat发送了自己和被害者尸体的自拍照，照片在接收者收到数秒后消失，但在消失前接收者将照片保存了下来。Westmoreland县的检察官表示他以前从来没看过类似事情，这张自拍照作为关键证据引导调查人员找到了被告。
+➜RapidShare宣布下个月关闭
+https://www.solidot.org/story?sid=43035	30011
+德国文件共享网站RapidShare<a target="_blank" href="http://www.rapidshare.com/"><u>宣布</u></a>将于3月31日关闭，3月31日之后所有用户帐户都将会无法访问，将会被自动删除，用户需要尽快备份其数据。RapidShare成立于2002年，它在2010年一度挤入全球50大流行网站之一，但也在当年被反盗版机构列为六大<a target="_blank" href="http://www.solidot.org/story?sid=17950"><u>P2P邪恶轴心</u></a>之一（另外5家是海盗湾、IsoHunt、百度、Mp3fiesta和RMX4U）。在受到版权组织起诉后，RapidShare改变了商业模式，专注于B2B云储存，但收入也随之骤降，访问量大减，直至宣布关闭。
+➜互联网带来了垄断而非自由与解放
+https://www.solidot.org/story?sid=43036	32661
+2014年，全世界30亿网民每分钟发送了2.04亿封邮件、上传72小时YouTube视频、400万次Google搜索、27.7万推文，21.6万张Instagram照片，在亚马逊上花了8.3万美元。无论以何种标准衡量，这些数据都极为惊人。互联网完全改变了我们的生活。但作家Andrew Keen写了本名为《<a target="_blank" href="http://www.amazon.com/Internet-Not-Answer-Andrew-Keen-ebook/dp/B00JLQ4Q9A"><u>互联网不是那个答案</u></a>》的新书。互联网曾经被视为将权力赋予人民的平等平台，一种开放的、去中心化的、民主的技术。但结果呢？它<a target="_blank" href="http://www.theguardian.com/technology/2015/feb/09/andrew-keen-internet-not-answer-interview"><u>将特权和财富赋予极少数的人</u></a>，加重了不平等。对个人而言，互联网也许为我们创造了奇迹。但从总体上说，互联网并没有将社会变得更美好。它本应该是双赢，网络用户本应该是受益人，但在许多方面，我们却变成了受害者。我们签署了一个浮士德协议，广为宣传的个人增权却变成了暴民统治，监视和无情的收割。
+➜一部制作的很烂的《时光之轮》先行剧突然上映
+https://www.solidot.org/story?sid=43037	34279
+长达14部的《时光之轮》是与《冰与火之歌》齐名的著名奇幻小说，虽然作者罗伯特·乔丹没有写完就去世了，但最后三部的作者布兰登·桑德森续写的很出色。在本周之前，《时光之轮》还没有出现类似《权力游戏》的电视剧改编。但在本周一，一部制作的超级烂的《时间之轮》<a target="_blank" href="http://io9.com/the-real-story-about-that-wheel-of-time-pilot-that-aire-1684773094"><u>先行剧</u></a>（<a target="_blank" href="https://www.youtube.com/watch?v=cvNYIEN1vIg"><u>YouTube 链接</u></a>）突然<a target="_blank" href="http://arstechnica.com/the-multiverse/2015/02/you-probably-missed-the-terrible-wheel-of-time-tv-series-pilot-on-monday/"><u>悄无声息的上映</u></a>，电视剧本身简直不堪入目。为什么会出现这样一部电视剧改编？原因与版权有关。 Red Eagle Entertainment拥有《时光之轮》的电视剧改编权已将近十年，除非制作出某些东西，该公司的改编权将在2月11日过期后收回。为了保留其改编权， Red Eagle匆匆忙忙制作了一部超级烂的先行剧，这部先行剧长30分钟。乔丹的遗孀Harriet P McDougal发表声明表达了强烈不满，称将采取行动防止此事再次发生。
+➜量子方程式认为宇宙没有开始
+https://www.solidot.org/story?sid=43038	36293
+根据一个应用量子修正项补充爱因斯坦广义相对论的新模型，宇宙也许会<a target="_blank" href="http://phys.org/news/2015-02-big-quantum-equation-universe.html"><u>永远存在</u></a>。该模型还能解释暗物质和暗能量，一次解决了多种问题。<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0370269314009381"><u>论文</u></a>（<a target="_blank" href="http://arxiv.org/abs/1404.3093"><u>预印本</u></a>）发表在《Physics Letters B》期刊上。该模型既没有预言创世大爆炸奇点，也没有预言宇宙大塌陷奇点。广义相对论预言的一个宇宙命运是它会开始收缩最终塌陷成一个无限密度点。新模型的提出者强调，他们的量子修正项并不是专门用来消除大爆炸奇点，认为量子校正可被视为宇宙学常数项（不再需要暗能量）和辐射项，使宇宙维持在一个有限尺寸，给予它无限的生命。
+➜阿里巴巴的来往被指抄袭香港的Worthy
+https://www.solidot.org/story?sid=43039	36476
+<a href="http://https://pp8.global.ssl.fastly.net/article/363">paopao</a> 写道<i> "<span><span>马云在香港出资10亿成立“香港青年企业家基金”，但香港startup</span></span><span><span><span><span>公司Innopage创办人Keith Li日前发布一封“<a href="https://pp8.global.ssl.fastly.net/article/363">未</a></span></span></span><span><a target="_blank" href="https://pp8.global.ssl.fastly.net/article/363">寄出的公开信</a>”，指</span></span><span><span><span><span>2013年10月，阿里巴巴一个10人团队来港参观了该公司，</span><span>当时Keith Li团队开发的交友应用Worthy，被苹果挑选作为iOS 7的推荐产品</span></span>。</span></span><span><span><span><span>阿里巴巴团队在会面过后，便和他们失去联络，而且还将Worthy的创意，包括概念、玩法、流程，甚至介面设计，几乎倒模一样照抄地山寨到阿里巴巴的交友</span><span>App“来往”里面，并成为重点功能，名为“敲门”</span></span></span><span>。Keith Li指出，“至于究竟马云是来拯救香港年轻人的阿里巴巴还是四十大盗，我暂且不就此表态，相信日后自有公论。”</span></span>"</i>
+➜微软修正了一个有15年历史的bug，影响所有Windows版本
+https://www.solidot.org/story?sid=43040	39047
+微软的例行更新<a target="_blank" href="https://technet.microsoft.com/library/security/MS15-011"><u>修正了</u></a>一个有15年历史的bug，该bug允许攻击者在某些情况下完全控制运行所有Windows支持版本的电脑。微软花了超过12个月时间修正被称为“Jasbug”的漏洞，它影响所有使用 Active Directory服务连接企业和政府网络的用户。<a target="_blank" href="http://zh.wikipedia.org/wiki/Active_Directory"><u>Active Directory内</u></a>置于Windows中，它处理在组织中的网络对象，具有权限控制管理等功能，Jasbug允许攻击者监视用户和Active Directory网络之间的流量，发动类似的中间人攻击，在机器上执行恶意代码。利用VPN访问企业Active Directory网络的机器面临更高的风险，但微软没有详细解释。漏洞是在2014年1月报告给微软的，能被远程利用，给予攻击者目标机器或设备管理级别的权限。Windows Server 2003尚未修复这个高危漏洞，微软将在五个月后停止支持这一版本。
+➜杰布·布什公开了大量私人电子邮件地址和住址，甚至还有社保号码
+https://www.solidot.org/story?sid=43041	40917
+前佛罗里达州州长杰布·布什虽然还没有正式宣布竞选下一任美国总统，但他已经着手了公开透明的工作。他的团队建立了名为“<a target="_blank" href="http://jebemails.com/"><u>杰布的邮件”</u></a>的网站，公开了担任州长期间选民发送给他的所有邮件。但这一透明化的工作却变成了一场<a target="_blank" href="http://arstechnica.com/tech-policy/2015/02/addresses-ssns-phone-numbers-released-by-former-gov-jeb-bush-in-e-mail-dump/"><u>隐私噩梦</u></a>，因为公开的数据不仅仅包括了邮件内容，还包括了邮件地址，发送者的名字和住址，甚至还有社保号码。根据佛罗里达的法律，发送给官员的书面通信都属于公共记录，电子邮件通讯适用于这一信息披露法律。杰布·布什团队公布的PDF版本经过了编辑，但同时公开的Outlook文件却是原始文件，没有任何编辑。这些信息可被用于身份盗用。
+➜暴露Ross Ulbricht秘密的五种技术
+https://www.solidot.org/story?sid=43042	43265
+丝绸之路创始人Ross Ulbricht已被陪审团判定有罪，他将面临最长终身监禁。检方公开的大量证据显示，Ulbricht使用的众多技术并没有保护他的匿名身份。<a target="_blank" href="http://www.itworld.com/article/2881775/four-technologies-that-betrayed-silk-roads-anonymity.html"><u>这些并不匿名的技术</u></a>包括：第一是比特币，去中心化数字货币并不匿名，你的所有交易都记录在块链中，可被公开查找，虽然用户可以创建无数个比特币钱包地址，但绝大多数人不会这么做，因此很容易发现交易之间相关联系，在Ulbricht案件中，检方就发现比特币转移的记录。丝绸之路提供了模糊发送者和接收者的tumbler服务，但Ulbricht没有使用tumbler，但即使使用了tumbler也不会有什么帮助。第二是加密通讯工具 TorChat，Ulbricht选择将聊天日志明文保存在电脑上。第三是加密，联邦特工在他登录进加密计算机时获得了他的电脑，拷贝了硬盘镜像。第四，在社交网站上留下了痕迹，Dread Pirate Roberts在聊天中透露去泰国旅游，然后同一时间Ross Ulbricht在Facebook帐户上发了泰国旅游照片。第五是自动登录服务器，丝绸之路服务器有两个管理权限的帐户，其中之一由用户frosty使用，该用户的机器名字也叫frosty，FBI扣押的Ulbricht笔记本的名字就叫frosty，事实上这台笔记本能自动登录丝绸之路服务器。
+➜VLC开发者谈VLC 2.2和VLC 3新增功能
+https://www.solidot.org/story?sid=43043	44497
+领导开源媒体播放器VLC开发的Jean-Baptiste Kempf在前不久的FOSDEM会议上<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=VLC-2.2-VLC-3.0-Media-Player"><u>谈论了</u></a>（<a target="_blank" href="https://fosdem.org/2015/schedule/event/vlc/attachments/slides/751/export/events/attachments/vlc/slides/751/vlc202.pdf"><u>PDF</u></a>）VLC 2.2和VLC 3和开发和新增功能。VLC 2.2即将推出，目前的最新测试版本是2.2-rc2。VLC 2.2新功能包括：GPU加速视频旋转支持，改进扩展和重新播放处理，支持新的编解码器/格式，重写了部分支持的格式，VDPAU GPU零拷贝支持，x265编码器支持，等等。VLC 3.0的新功能则包括： Wayland支持，OpenMAX IL的GPU零拷贝支持，ARIB字幕支持，Android版加入HEVC / VP9硬件解码支持，等等。
+➜官媒称国产软硬件和国产操作系统蓄势待发
+https://www.solidot.org/story?sid=43044	45634
+新华社旗下的《财经国家周刊》发表了同一作者的两篇文章《<a target="_blank" href="http://www.ennweekly.com/2015/0209/15246.html"><u>国产软硬件：春天里的逆袭</u></a>》和《<a target="_blank" href="http://www.ennweekly.com/2015/0209/15247.html"><u>国产操作系统：跳出死循环</u></a>》。前者证实了中国启动的“去IOE（IBM、Oracle、EMC）行动，但硬件易换软件难换，文章引用浪潮公司高级副总裁王恩东的话说，国产主机天梭K1的推广，配套的数据库软件至关重要，但国外主流的基础软件，包括占据主流市场地位的美国数据库公司，甲骨文、IBM等，都不愿意给天梭K1提供支持，“技术上不存在什么大障碍，资金上也不需要巨大投入，几乎是举手之劳，但他们就是希望通过产业链优势来遏制你。”第二篇文章的主角是工程院院士倪光南，他的最新标签已经变成“中国智能终端操作系统推动人”。
+文章称，“在最高决策层的推动下，政企用户市场已经破冰，横亘在国产操作系统面前的，是个人消费市场这座大山。”
+➜无神论者杀害穆斯林
+https://www.solidot.org/story?sid=43045	52993
+<a href="http://blog.mingrui.wang/">wmr</a> 写道<i> "美国北卡罗莱纳州的穆斯林一家三人被一名<a target="_blank" href="http://www.independent.co.uk/news/world/americas/chapel-hill-shooting-three-young-muslims-gunned-down-in-north-carolina-at-their-family-home-10037734.html?origin=internalSearch">曾发帖反对宗教</a>的无神论者杀害。凶手喜欢托马斯·潘恩的《理性时代》和道金斯的《上帝错觉》。道金斯发<a target="_blank" href="https://twitter.com/RichardDawkins/status/565439089038852097">tweet</a>谴责这一袭击。道金斯（<a target="_blank" href="https://www.youtube.com/watch?v=dEFWmyRa9kc">YouTube</a>）和<a target="_blank" href="https://www.youtube.com/watch?v=yRhq-yO1KN8">其他</a>无神论者认为，宗教承诺的“天堂”是作恶的重要动机，宗教在世界历史上的不少战争上有着重要角色。此事件应该会让反宗教者十分难堪，恐怕穆斯林国家会出现对无神论的抗议。"</i>

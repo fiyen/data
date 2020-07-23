@@ -1,0 +1,73 @@
+➜科学家将研究火星和地球生命关联
+https://www.solidot.org/story?sid=20854	900
+火星叔叔马丁和他的贤侄们 写道 <i>"地球和火星之间大约交换了一万亿吨石头，科学家猜想这其中的一块或一些石头可能成功地把少量微生物从一个星球带到另一个星球。2018年科学家将在火星表面寻找类似地球生命的DNA，以<a href="http://www.physorg.com/news/2010-11-scientists-life-mars-earth.html">检验这一假想</a>。<br>
+此计划名为"The Search for Extraterrestrial Genomes (<a href="http://web.mit.edu/setg/SETG/Mainpage.html">SETG</a>)"，由NASA提供资金。如果火星上有类似地球生物所有的DNA或RNA，将会被仪器检测到。参与此项目的科学家Christopher Carr说如果我们花了大笔时间寻找不同的东西而不去花点时间找类似的东西，那我们就太愚蠢了，相互独立的生命起源是可能的，但这并不是最可能的故事。"</i>
+➜Ubuntu 决定未来将启用 Wayland X-Server
+https://www.solidot.org/story?sid=20855	4080
+<a href="http://wowubuntu.com/">riku</a> 写道<i> "根据 Ubuntu 创建人 Mark Shuttleworth 昨天在其 Blog 上<a href="http://www.markshuttleworth.com/archives/551">透露的消息</a>，Canonical 做出了一个重大的决定，那就是在未来将启用基于 OpenGL 的 Wayland 作为 X Server ， Ubuntu 自身开发的桌面环境 Unity 也将运行于 Wayland 之上。当然，由于目前 Wayland 还是一种比较新的技术，接下来的 Ubuntu 11.04 还不会采用该技术，依旧会使用当前的 X.org Server 。如果时机成熟的话，也许会在 Ubuntu 11.10 上部署这一新的显示管理系统。
+Wayland 是一个全新的 X Server ，采用了很多如 GEM，KMS，DRI2，EGL 等新的前沿技术，第一个部署该技术的 Linux 发行版是 Intel 的 MeeGo ，但在桌面发行版领域，目前还没有一个发行版采用了该技术。另外，Mark 承诺有能力会把现有的 X 程序运行于兼容模式上，所以对于桌面软件的整体格局来说并不会产生过多的影响。 <a href="http://wowubuntu.com/unity-on-wayland.html">详细介绍</a>"</i>
+➜Linux Kernel 2.6.12到2.6.37性能对比
+https://www.solidot.org/story?sid=20856	6480
+Phoronix<a href="http://www.phoronix.com/scan.php?page=article&amp;item=linux_2612_2637&amp;num=1">对过去5年发布的25个稳定内核和最新开发内核进行了性能测试</a>：从2005年发布的2.6.12起，到刚刚推出的Linux 2.6.37开发版本。测试使用了一台中等配置的Core i7 970台式机，主系统是64位Ubuntu 10.10系统，在Fedora Core 4虚拟机（能访问12个处理器线程，2GB内存，32GB储存空间）中逐一测试了26个内核。测试结果显示，虽然Linux Kernel过去几年增加了大量特性，但在大多数测试中，<a href="http://linux.slashdot.org/story/10/11/04/0332254/5-Years-of-Linux-Kernel-Releases-Benchmarked">新特性并没有影响性能</a>。
+➜来自1987年的苏联图像编辑软件
+https://www.solidot.org/story?sid=20857	8100
+修改历史照片在专制国家是司空见惯之事，比如在斯大林当政期间，他大规模清洗党内的竞争对手，除了流放、关押到古拉格和处决外，<a href="http://en.wikipedia.org/wiki/Censorship_of_images_in_the_Soviet_Union">他们的形象还在历史照片中被悄悄抹除</a>。在Photoshop软件没有出现的年代，苏联摄影师们便开发出了先进的剪切润色技术。事实上，苏联的软件工程师早在1987年——即Photoshop 1.0版推出3年前——已经有了自主研发的PS软件。BoingBoing<a href="http://www.boingboing.net/2010/11/03/soviet-proto-photosh.html">介绍</a>了一则前苏联的<a href="http://www.youtube.com/watch?v=t2PsiJXswiM">视频</a>(Youtube)，演示了如何利用计算机修改图像。
+➜Flash耗掉MacBook Air两小时电池寿命
+https://www.solidot.org/story?sid=20858	11100
+新版MacBook Air笔记本没有预装Flash，这或许会让一些用户感到恼火，但它却带来了一个意想不到的好处。Ars Technica的<a href="http://arstechnica.com/apple/reviews/2010/11/the-future-of-notebooks-ars-reviews-the-11-macbook-air.ars/3">11英寸MacBook Air评测</a>显示：<i>
+安装Flash会大幅减少电池续航力——减少多达33%的时间。当Safari载入了多个富媒体网站，基于Flash的广告会让CPU持续运行。在最好的情况下，安装Flash的MacBook Air笔记本的电池续航力只有4小时，而在卸载Flash后，MacBook Air能运行6:02小时。</i>
+➜福布斯推世界权力人物排行榜
+https://www.solidot.org/story?sid=20859	12300
+<a href="http://cnnet.us/taobao/">淘宝网首页</a> 写道<i> "<a href="http://www.forbes.com/wealth/powerful-people?boxes=Homepagetopspecialreports">福布斯杂志</a>2010年度 “<a href="http://news.ifeng.com/world/detail_2010_11/04/3003067_0.shtml">世界最有权力人物排行榜</a>”出炉，中国国家主席胡锦涛位列榜首，而去年排名第一的奥巴马由于影响力跌落和公信力下降位居第二，而世界巨富的沙特国王阿卜杜拉位居第三。福布斯评选的人物包括各行各业，以其影响力和财富为主。其中国家领导者和宗教领袖拥有绝对的优势，而在福布斯榜单中也有另类人物的存在，如世界头号恐怖组织首领本·拉丹，墨西哥大毒枭华金·古兹曼和印度头号通缉犯达乌德·易卜拉欣·卡斯卡尔。说起影响力和知名度确实没几个人比的上拉登，这个让无数人视为噩梦的通缉犯上榜也是名至实归。据消息声称，此份榜单原有100位人物，后来不知为何删减到75人。此外中国主席胡锦涛排名第一说明中国在世界的影响力已经越来越大了。"</i>
+➜互不兼容？让我们眼不见心静
+https://www.solidot.org/story?sid=20860	18000
+360和QQ之间的战火刚刚落幕，在“有关部门”插手之下有息事和解之势，然而另外五家至少在中国知名的互联网公司却掀起了另一轮用户桌面之战：<a href="http://news.baidu.com/z/r/tx360q03rrelclstopwheretoppage/index.html">金山搜狗可牛傲游百度宣布不兼容360</a>，“金山、搜狗、傲游、可牛、百度五家厂商举行发布会，表示将不兼容360系列软件。”<i>
+在IT行业，<a href="http://zh.wikipedia.org/zh/%E4%BA%92%E6%93%8D%E4%BD%9C%E6%80%A7">互操作性</a>，或者至少互不冲突是默守的原则，不遵守原则的企业会被市场淘汰，或者至少会受到惩罚，软件巨人微软的反托拉斯案件屡屡被提及的是要求改进“互操作性”。中国IT行业正背道而驰，知名IT企业能公开宣称要“互不兼容”，“如果你有***那么我就不运行”，侵犯公众权利。他们没有政府的权力，却秉承着政府的脾气。还记着政府在美好的口号下如何一步步侵蚀我们的权利？尾号限行、安全检查都从特殊时期的政策演变成一种常规，权力的裂口开了它不会主动缝合。腾讯公司带头掀起不兼容行动正被另外一些大公司模仿，<a href="http://blog.donews.com/keso/archive/2010/11/04/1583617.aspx">丛林时代</a>难道只有<a href="http://zh.wikipedia.org/zh-cn/%E6%A3%AE%E6%9E%97%E6%B3%95%E5%89%87">森林法则</a>一种规则？我们没有选择的权利？我们有，我们可以用脚投票，抛弃这些公司的软件，改用其它替代：浏览器<a href="http://www.mozillaonline.com/products/firefox/">Firefox</a>/<a href="http://www.opera.com/">Opera</a>/<a href="http://www.google.com/chrome?hl=zh-cn">Google Chrome</a>，办公软件<a href="http://www.openoffice.org/">OpenOffice.Org</a>/<a href="http://www.documentfoundation.org/download/">LibreOffice</a>，翻译软件及在线版<a href="http://stardict.sourceforge.net/">StarDict</a>/<a href="http://www.google.com.hk/dictionary?hl=zh-CN">Google字典</a>/<a href="http://dict.bing.com.cn/">微软英库</a>，IM客户端<a href="http://www.google.com/talk/intl/zh-CN/">Google Talk</a>/<a href="http://www.pidgin.im/">Pidgin</a>，输入法<a href="http://tools.google.com/pinyin">Google拼音</a>/<a href="https://code.google.com/p/sunpinyin/">SunPinyin</a>，安全系统<a href="http://www.ubuntu.com/">Ubuntu</a>/<a href="http://www.microsoft.com/security_essentials/">MS Security Essentials</a>/<a href="http://www.avast.com/">avast</a>....</i>
+➜上传照片就能复制自己
+https://www.solidot.org/story?sid=20861	21840
+<a href="http://www.google.com/profiles/baultien">枪手福音</a> 写道 "<a href="http://www.ixiqi.com/archives/22007">爱稀奇</a>报道：一家名为“那是我的脸” (<a href="http://www.thatsmyface.com/">Thatsmyface</a>)的网站推出的超搞怪服务，只要你提供自己的照片，他们就能按照你的长相做一张超级逼真的“人皮面具”出来……<i>
+好吧，我乱说的，不是人皮……估计是硅橡胶材质，类似的东西好莱坞电影中时有出现，比如最近安杰利娜·茱莉才在一部名为《特工邵特》(Salt)中展示了一番，将自己变成了一个拥有健壮胸肌的男人~用来参加化妆舞会之类的场所是相当赞的，想想看，找上几个朋友，每个人都戴了同样你的脸出席，那效果该有多惊悚，哈哈。当然，即便你和我一样都是智慧和美貌的化身，要按照自己的面孔做一张定制面具出来，也是需要些勇气和心理建设的，所以，Thatsmyface公司还提供相对温柔的业务，那就是用你的脸来定制玩偶——身子、pose和场景似乎都可以自选，有12英寸高和6英寸高两种大小可选，做一个来放在案头，倒也是种很自恋的摆设。而以上这些，只需要打开你的钱包——面具是300美元一张，玩偶则分别是99美元和49美元一个，并提供正面和侧面照片各一张。"</i>
+➜为什么有些HIV病毒携带者不会发展出艾滋病
+https://www.solidot.org/story?sid=20862	21900
+一些携带有高浓度HIV病毒的人不会发展成艾滋病，也不需要服药。根据发表在最新一期《科学》杂志上的<a href="http://www.sciencemag.org/cgi/content/abstract/science.1195271">报告</a>，研究人员已经发现了一组遗传变异，它们可能决定了哪些人能成为<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-11/aaft-gdi110110.php">HIV“控制者”</a>。<i>
+遗传变异一共有300多个，它们会通过HLA蛋白识别HIV感染的细胞，影响人的免疫系统。大约每300个感染HIV的人中会有一位是HIV控制者。研究人员希望通过了解控制者如何抑制该病毒的复制过程，发现研发疫苗或其它治疗方法的新线索。研究人员将欧洲人、非洲裔美国人及西语裔的后裔中的HIV控制者与HIV的进展者进行了比较。他们发现了300多个具有变异体。所有这些变异体都位于第6条染色体的某个区域，而该区域正是HLA基因所在的地方。他们接着分析了位于HLA蛋白内的个体氨基酸的功效，他们发现了6个独立的有意义的残基，其中有5个残基是顺着与病毒颗粒结合的肽的沟槽排列的。</i>
+➜中日钓鱼岛撞船录像泄露
+https://www.solidot.org/story?sid=20863	24960
+前一段时间颇受关注的中日钓鱼岛撞船事件的录像已经泄漏到互联网上。
+<i>日本共同社<a href="http://china.kyodo.co.jp/modules/fsStory/index.php?sel_lang=schinese&amp;storyid=87048">报道</a>，录像中，中国渔船撞上日本巡逻船“水城”号右舷后部的状况清晰可见，海上保安厅认为这是“真实的录像”。众参两院约30名议员1日观看了海保拍摄的撞船录像，但该录像并未向民众公开。录像分六个部分，全长约44分钟，比议员们观看的6分50秒版本更详细。BBC<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/11/101105_japan_china_diaoyu_video.shtml">介绍</a>称，<a href="http://www.youtube.com/watch?v=J0Op2oGFHog">录像第一部分</a>(Youtube)对着渔船“闽晋渔5179”，海上保安厅巡逻舰上用汉语重复叫喊：“这里是日本海上保安厅的巡逻舰，贵国渔船进入了日本领海，请退出去”的广播；<a href="http://www.youtube.com/watch?v=1VOKyCcxx-s">第二部分</a>(Youtube)时广播已停止，渔船停下来，船尾部分有几个人在收网。第三部分是收网后渔船又起航；第四部分后(后面几段已被删除)都是渔船掉转方向撞向巡逻舰的录像。撞船部分的录像看来分别来自当时现场两艘不同的日本巡逻舰、从不同角度拍摄到渔船看来是故意冲撞的意图。</i>
+➜微软在Apache许可证下发布F#
+https://www.solidot.org/story?sid=20864	27360
+微软在<a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>许可证下发布了F# 2.0编译器和核心库的源代码，软件巨人在其开源托管网站Codeplex上发布了<a href="http://fsharppowerpack.codeplex.com/">F# PowerPack</a>项目。<i>
+<a href="http://zh.wikipedia.org/zh-cn/F%E2%99%AF">F#</a>是由微软为.NET运行环境开发的函数编程语言，集成在Visual Studio 2010中。之前微软已经提供了F#编译器的源代码，但这次在Apache许可证下重新发布，意味着用户可以更自由的使用，无需担心专利诉讼。</i>
+➜一架A380客机发动机发生小型爆炸
+https://www.solidot.org/story?sid=20865	28800
+gentboy 写道 "<a href="http://military.people.com.cn/GB/13136825.html">人民网</a>报道，新加坡时间11月4日11时45分，澳大利亚航空公司一架空客A380客机因一台发动机发生小型爆炸事故紧急迫降在樟宜机场，乘客和机组人员安全无恙。澳航首席执行官艾伦·乔伊斯说：“这是重大事故。在弄清楚事故的原因之前，澳航所有A380飞机都不得飞行。”据报道，这架从新加坡飞往悉尼的飞机从樟宜机场起飞后不久，驾驶舱显示器上反复显示发动机故障。驾驶员迅速关闭故障发动机，并在印尼巴淡岛上空甩掉燃料箱，返回樟宜机场。部分乘客回忆说:“在飞行过程中，他们看到飞机的一个发动机冒烟，后来还听到爆炸声。”<a href="http://www.metro.co.uk/news/846149-qantas-passenger-tweeted-photos-of-engine-damage">这里</a>还有更多图片。从图片上来看，发动机后部的罩子整个被炸飞了。而且机翼被穿透，很有可能是发动机叶片掉了。如果是这样的话，那他们真的很幸运，因为如果穿透部位是油箱，那么飞机就会立刻起火并在空中解体，不会有人幸存。"
+➜电刺激大脑能提高数学成绩
+https://www.solidot.org/story?sid=20866	34320
+牛津大学神经科学家<a href="http://www.ox.ac.uk/media/news_stories/2010/101104.html">发现</a>，大脑经受电流刺激后能增强数学能力达6个月之久。<a href="http://www.cell.com/current-biology/abstract/S0960-9822(10)01234-0">研究结果</a>发表在本周出版的《当代生物学》杂志上。<i>
+在新研究中，15名年龄在20-21岁的志愿者先学习了代表数值的字符，然后安排完成一系列基于字符的数学谜题，观察他们的正确率和速度。部分志愿者接受安慰剂，部分接受了1mA电流刺激（从右到左或从左到右流过顶骨叶）。结果显示，从右到左流过顶骨叶的志愿者表现最优秀，六个月后的第二次测试仍然如此。领导这项研究的Cohen Kadosh博士说，“我们绝对没说，应该用这项技术去治疗学习有困难的学生或任何人...”但他们对这项发现感到十分兴奋。</i>
+➜极夜之城有了模拟太阳的照明灯
+https://www.solidot.org/story?sid=20867	36300
+10月26日，大约有2000名挪威居民观看了日落，下一次看到日出要等到明年2月。挪威的<a href="http://zh.wikipedia.org/zh-cn/%E6%9C%97%E4%BC%8A%E7%88%BE%E5%9F%8E">朗伊尔城</a>是世界极北之城，它位于北纬78°，由于处于北极圈的极北位置，从十月末至二月中为极夜，四月中至八月中为极昼。为了让似乎无尽的黑暗变得更短暂，<a href="http://idle.slashdot.org/story/10/11/05/0038233/Worlds-Northernmost-Town-Gets-Nightlights">菲利普公司展开了一项社会试验</a>，为几百名志愿参加的居民安装名为“Wake-up Light”的智能灯，这种照明灯能模拟太阳升起，慢慢增加室内的亮度——身体感觉到后会自然醒来。
+➜Netflix正成为互联网的“流量黑洞”
+https://www.solidot.org/story?sid=20868	38700
+DVD租赁巨头<a href="http://en.wikipedia.org/wiki/Netflix#Internet_video_streaming">Netflix</a>早就开始提供在线点播流视频服务，但很少有人知道，Netflix的在线点播<a href="http://tech.slashdot.org/story/10/11/04/153242/Will-Netflix-Destroy-the-Internet">正成为互联网的“流量黑洞”</a>。<i>
+Netflix从9月22日开始向加拿大居民提供在线视频服务，月费7.99加元。分析互联网流量模式的网络公司Sandvine发现，10%的加拿大网民访问观看了Netflix的视频。Netflix加拿大订户占据的带宽迅速飚升，并超过YouTube用户一倍。美国的情况同样如此，Sandvine的《<a href="http://www.sandvine.com/news/global_broadband_trends.asp#Download">全球互联网现象报告</a>》称，从晚上8点到10点，Netflix占据了20%以上的美国下行带宽——超过了YouTube、iTunes、Hulu、以及P2P共享协议BitTorrent，BitTorrent在高峰时占到了8%的带宽。</i>
+➜雌蟒蛇能无性繁殖
+https://www.solidot.org/story?sid=20869	40560
+研究人员目睹了多次爬行动物界的“<a href="http://zh.wikipedia.org/zh-cn/%E8%81%96%E6%AF%8D%E7%84%A1%E6%9F%93%E5%8E%9F%E7%BD%AA%E7%9E%BB%E7%A6%AE">圣母无原罪</a>”，也就是“处女生子”。<i>
+根据发表在《生物学快报》上的<a href="http://rsbl.royalsocietypublishing.org/">报告</a>，一只雌性蟒蛇通过无性繁殖方式产下了两代后代，共22只小蟒蛇，全是雌性，它们只分享了母亲的一半基因构成。DNA指纹排除了雄性父亲的可能性。所有后代都有着非同寻常的性染色体。人类的性染色体是X或Y，蛇类是Z或W，其中雄性是ZZ，雌性是ZW，而这只雌蟒蛇产生的后代全是WW。研究人员说，从本质上说它们是母亲的一半克隆。“处女生子”在昆虫等动物中很常见，在脊椎动物中比较罕见，蟒蛇这样的原始爬行动物则是首次观测到无性繁殖。</i>
+➜Linux Tux不是腾讯企鹅
+https://www.solidot.org/story?sid=20871	40920
+对于360和腾讯QQ的种种恩仇，意见不一。有某taobao店以此话题制作了<a href="http://item.taobao.com/auction/item_detail.htm?item_num_id=8233108436">T-shirt商品</a>，但是明显的T-shirt的设计者使用了360的图标，但是却通过修改并丑化<a href="http://www.isc.tamu.edu/~lewing/linux/">Linux Tux</a>来表达腾讯企鹅的形象。
+<br> <br>
+该商品的设计者对于此设计挪用了Tux的形象如是说：
+<i>
+<a href="http://twitter.com/#!/flypig/status/404135266488320">言论1</a>：<code>关于新T恤那支企鹅看起来是 Linux 吉祥物的问题，答案是：我太知道 Tux 是谁了，我只不过是不想用 QQ 那只难看的企鹅而已。</code>
+<br>
+<a href="http://twitter.com/#!/flypig/status/404621436653568">言论2</a>：<code>还有，我很讨厌某些 Linux 用户身上那股子「用其他操作系统的都是傻逼」的劲儿。</code>
+</i>
+对此，LinxuToy网站已发起了<a href="http://linuxtoy.org/archives/protect-tux.html">“保卫Tux”</a>的行动。
+➜富士康一名员工自杀
+https://www.solidot.org/story?sid=20870	41400
+中国"奥派"的统计难题 写道 <i>"《<a href="http://tech.sina.com.cn/it/2010-11-05/18484834309.shtml">财经网</a>》消息，周五深圳富士康一名员工坠楼死亡事件，新华网英文网报道说此起跳楼事件已得到深圳市政府确认。富士康已发生10名员工坠楼事件。其后曾经两次大幅度提高员工薪酬，并改善员工居住环境等。"</i>

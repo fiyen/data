@@ -1,0 +1,83 @@
+➜Lisp作者和人工智能之父约翰·麦卡锡去世
+https://www.solidot.org/story?sid=26613	3900
+Lisp作者和人工智能之父<a href="http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)">约翰·麦卡锡（John McCarthy）</a>于10月24日<a href="http://techcrunch.com/2011/10/24/creator-of-lisp-john-mccarthy-dead-at-84/">去世</a>，终年84岁。<i>
+1927年，麦卡锡出于于波士顿的一个美国移民家庭，他很早就表现出了数学方面的天赋，青少年时期开始自学加州理工的大学数学教科书，使他能在进入加州理工学习时跳过前两年的数学学习。他于1951年在普林斯顿大学获得数学博士学位，是约翰·纳什的同学。1955年，他提出了人工智能概念。麦卡锡相信人工智能需要交互。1958年，他发明了最早的高级语言之一<a href="http://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>，它很快成为人工智能研究最受欢迎的程序语言。1971年麦卡锡因人工智能研究上的贡献而获得图灵奖。</i>
+➜openSUSE 12.1 RC1发布
+https://www.solidot.org/story?sid=26614	5040
+openSUSE项目发布了<a href="http://en.opensuse.org/Portal:12.1">openSUSE 12.1</a>的<a href="http://mid.gmane.org/%3C201110241831.56477.jos%40opensuse.org%3E">第一个预发布版本</a>。正式版将在2011年11月16日发布。<i>
+主要的更新包括了：Firefox 7.0， GNOME 3.2 KDE Plasma Workspace 4.7，Linux kernel 3.1，Google的新语言Go，针对学生用户的软件包Calligra Suite 2.4，基于文件系统BTRFS的快照Snapper，新的初始化工具systemd和Grub2，等等。</i>
+➜Google与FTC达成隐私和解协议
+https://www.solidot.org/story?sid=26615	7200
+<a href="http://weibo.com/calvinkevin">kevin.van</a> 写道<i> "《华尔街日报》<a href="http://cn.wsj.com/gb/20111025/tec093100.asp">报道</a>，谷歌同意在今后20年接受第三方隐私审查，以和解有关谷歌滥用用户个人信息的指控。与美国联邦贸易委员会(FTC)达成的最终和解协议解决了该机构针对Google Buzz的指控。Google Buzz是谷歌去年在Gmail中添加的社交通知服务。根据和解协议，谷歌同意在向第三方转移用户信息时以显著方式进行披露、确定接受数据的第三方的类型并解释共享数据的目的。此项披露将与谷歌的标准最终用户授权协议分开。
+"</i>
+➜Linux kernel 3.1发布
+https://www.solidot.org/story?sid=26616	7920
+Linus Torvalds<a href="https://lkml.org/lkml/2011/10/24/212">宣布</a>发布了<a href="http://kernelnewbies.org/Linux_3.1">kernel 3.1</a>。<i>
+主要新特性包括：支持开源处理器架构<a href="http://opencores.org/or1k/Main_Page">OpenRISC</a>；改进<a href="https://lwn.net/Articles/405076/">动态writeback throttling</a>性能，writeback是指将内存页数据写入硬盘永久储存和释放内存页的过程，对系统I/O性能有重要影响，throttling则是在数据写入硬盘前暂时阻止新数据写入内存的过程，Linux在writeback上的性能被认为不尽人意，开发者Wu Fengguang提出了改进方法；支持近场通信NFC；提高Slab分配器速度；改进VFS可扩展性；新的iSCSI实现；软件磁盘阵列坏块管理；电源管理工具<a href="http://lwn.net/Articles/433002/">cpupowerutils</a>；支持Wii控制器；以及许多新驱动等等。
+</i>
+➜研究称147家跨国企业控制全球经济
+https://www.solidot.org/story?sid=26617	10320
+瑞士苏黎世联邦理工学院的研究人员<a href="http://www.newscientist.com/article/mg21228354.500-revealed--the-capitalist-network-that-runs-the-world.html">找出了</a>控制全球大部分经济的“<a href="http://arxiv.org/PS_cache/arxiv/pdf/1107/1107.5728v2.pdf">资本主义网络</a>（PDF）”。<i>
+研究人员分析了43,060家跨国公司股东之间的关系，根据股东网络建立了企业控制的计算机模型，找出了1318家所有权错综复杂的公司，每家公司平均与20家公司有联系。他们还确定了147家控制全球四成以上经济的超级实体。这些跨国企业包括了巴克莱银行、美国资本投资集团公司、富达母公司，法国安盛，道富集团，JP摩根大通，法通保险公司，摩根士丹利，中国石化，中国化工装备总公司，永明金融，等等。新英格兰复杂系统研究所所长Yaneer Bar-Yam指出了研究的缺陷，称这项研究假设所有权等同于控制，但实际上并不总是如此，如基金管理者拥有企业股份并不意味着他们能对其实行控制。</i>
+➜中国希望加强文化软实力
+https://www.solidot.org/story?sid=26618	12600
+playfish 写道 <i>"<a href="http://theory.gmw.cn/2011-10/25/content_2845534.htm">光明网</a>发表理论文章指出，任何国家都需要两条腿走路，一是物质硬实力，一是文化软实力。苏联亡党亡国就是因为软实力不行导致价值观扭曲。西方和平演变我们，主要靠的就是思想文化渗透。美国文化产业产值占国内总产值的25%，而我们还不到4%，这就使我们文化传播收到局限，抵御西方渗透的能力不强。中华传统文化源远流长，党的各项理论凝聚了整个国家，因此只要做到把住社会主义核心价值体系、切实搞好宣传教育、在弘扬主旋律的前提下做大文化产业等措施，文化强国必然建成。"</i>《每日镜报》<a href="http://www.dw-world.de/dw/article/0,,15481923,00.html">评论称</a>，中国执政党是害怕失去文化控制。
+➜广电总局下发“限娱令”
+https://www.solidot.org/story?sid=26619	12720
+广电总局向各大电视台<a href="http://gcontent.oeeee.com/0/70/07042ac7d03d3b99/Blog/308/cac06b.html">下发了“限娱令”</a>，在2012年1月1日前，卫视频道在晚上7：30- 10：00的黄金时间，每周娱乐节目不能超过两档；全国卫视选秀节目一年加起来总量不超过10档，类型不得重复；每个卫视频道必须设一档道德类栏目；减少台湾艺人内地上节目的数量，加强审批控制。<i>
+知情人士透露：“相亲类节目被归属为娱乐节目，情感类节目如《幸福魔方》、竞技类节目如《智勇大冲关》、包括央视的《开心辞典》都归为娱乐节目。总局的态度是凡是涉案、记录社会阴暗矛盾面的节目都要受到限制，同时鼓励制作和谐、健康、主旋律的节目，如文化艺术鉴赏类或历史地理天文类节目。”</i>
+➜BSA要向中国软件盗版开战
+https://www.solidot.org/story?sid=26620	16800
+商业软件联盟BSA称，明年微软和Adobe等公司在中国发起的盗版软件诉讼案<a href="http://blogs.wsj.com/chinarealtime/2011/10/24/software-group-more-piracy-more-lawsuits-coming-in-china/">将可能大幅增加</a>。<i>
+BSA首席执行长Robert Holleyman说，盗版问题在中国日益严重，BSA的会员企业或BSA代表会员企业发起的诉讼有可能越来越常见。他指出，中国个人电脑市场的增长率超过了中国逐步下降的盗版率，盗版问题越来越严重，盗版现象野越来越猖獗。据BSA估计，去年中国安装的个人电脑软件有78%是盗版的，与2006年的82%相比有所下降。但从整体上看，盗版现象是<a href="http://www.cn.wsj.com/gb/20111025/rlw114914.asp">越来越多</a>。</i>
+➜中国西南冰川首先感受到气候变化
+https://www.solidot.org/story?sid=26621	18900
+全球气候变暖对中国西南山区冰川<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-10/aaft-gis101811.php">产生了严重影响</a>。
+刊登在《环境研究通讯》的一篇<a href="http://iopscience.iop.org/1748-9326/6/4/045404">研究报告</a>（尚未上线）称，科学家研究了中国西南地区111个气象站的数据后发现，1961年至2008年间的气候模式与气候变暖高度一致。<i>
+在111个气象站中，其中77％的数据都表现出年气温显著升高的趋势。研究人员确定了三个与气温升高趋势相一致的特点：冰川后退，大量冰消失和冰湖扩大。比如，在喜马拉雅的朋曲盆地，999座冰山在1970年至2001年年间总共失去了131平方公里的面积，而岗日噶部山脉的亚隆冰川在1980年至2001年间后退了不止1500米。不过降水结果不那么明显。</i>
+➜匿名组织公开美国银行CEO个人信息
+https://www.solidot.org/story?sid=26622	21240
+为响应“占领华尔街”运动，匿名组织分支CabinCr3w在<a href="http://tumblr.com/ZGRLpwB2BBq3">其Tumblr博客</a>公布了美国银行CEO Brian Moynihan的个人信息，包括出生日期、住址，电话号码，房屋价值（326万美元），等等。匿名组织从上周开始公开华尔街银行高管的个人信息，如花旗集团CEO Vikram S.Pandit和高盛主席Lloyd Blankfien。欧洲太平洋资本总裁Peter Schiff<a href="http://www.newsmax.com/StreetTalk/Schiff-Jobs-Minimum-Wage/2011/10/21/id/415293">认为</a>，最快创造工作岗位的方法是废除最低工资。他作为1%的银行家代表与占领华尔街的支持者公开<a href="http://www.youtube.com/watch?v=f7cDO2jAwOs&amp;feature=related">进行了舌战</a>(YouTube)。
+➜缅甸解禁Twitter和Facebook
+https://www.solidot.org/story?sid=26623	23280
+兴传统灭洋教 写道<i> "《<a href="http://industry.caijing.com.cn/2011-10-25/110915795.html">财经网</a>》
+消息，缅甸宣布对Facebook和Twitter解禁，同时解禁的国外网站还有BBC、VOA和Youtube。缅甸长期以来被认为是管制最严厉的国家。现在世界上封禁Facebook的国家还剩四强：中国、朝鲜、伊朗和古巴。"</i>
+➜为什么东海第二核电站安全度过海啸
+https://www.solidot.org/story?sid=26624	25200
+今年3月11日日本沿海发生九级大地震，同时引发巨大海啸，<a href="http://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B2%9B%E7%AC%AC%E4%B8%80%E6%A0%B8%E7%94%B5%E7%AB%99">福岛第一核电站</a>四座工作的核反应堆发生了严重的堆芯熔毁事故，而东海第二核电站在发生类似的紧急发电机因故障停止发电后却能安全无恙。《日本时报》<a href="http://www.japantimes.co.jp/text/nn20111024x1.html">报导</a>，调查事故的政府委员会认为，一个重要原因是第二核电站的海堤高6.1米。海堤增高项目是在2010年底完成的，但东京电力公司没有改造福岛第一核电站的海堤。3月11日袭击福岛核电站的海啸高5.3米到5.4米，比该公司原先预期的海啸最高高度高30到40厘米。东海第二核电站在海啸之后也出现停电，但冷却系统的三个海水水泵只有一个遭到破坏，另外二个水泵正常工作，为反应堆紧急冷停机提供了降温所需要的海水。
+➜Google Dart语言分析
+https://www.solidot.org/story?sid=26625	28080
+Google最新推出的Dart语言引发了<a href="http://developers.slashdot.org/story/11/10/24/2320244/analysis-of-google-dart">热议</a>。它是一种适合服务器端和客户端应用程序开发的程序语言。<i>
+InfoQ的一篇<a href="http://www.infoq.com/articles/google-dart">分析文章</a>认为，Dart的一些特性解决了Java或Javascript语言长期以来没有解决的问题。它的Snapshots特性类似Smalltalk images，允许应用程序即时启动。Isolates特性类似Erlang的processes和Javascript的WebWorkers，保持代码无共享单线程，支持消息传递并发。Dart其它的特性能实现伸缩性和模块化开发。它的代码可以使用编译器翻译成Javascript代码，或者直接在Dart虚拟机中执行。
+</i>
+➜HTC与Dropbox合作为所有Android用户提供5GB云储存
+https://www.solidot.org/story?sid=26626	29520
+HTC通过Twitter<a href="https://twitter.com/#!/htc/status/128546238999175168">证实</a>，所有HTC Android智能手机用户可以访问Dropbox的云储存，<a href="http://www.pocket-lint.com/news/42694/htc-dropbox-free-5gb-android">获得额外的5GB存储空间</a>。此前有传闻称，云储存只提供给新Android智能手机如HTC Sense 3.5的用户，但HTC的声明则明确表明是其旗下的“所有的Android手机”。
+➜美国陆军试图创造真实版的“盗梦”
+https://www.solidot.org/story?sid=26627	31320
+遭受创伤后应激障碍（PTSD）的士兵生活在黑暗之中，夜不能眠，常在噩梦中惊醒，仿佛耳边枪炮声仍然不绝于耳，生死与共的战友依旧聚在一起。他试图摆脱这一切。在一遍遍经历相同的梦境之后，他的内心终于获得了宁静。美国陆军<a href="http://www.wired.com/dangerroom/2011/10/real-life-inception/">正试图将这一场景变成现实</a>。陆军资助的<a href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;tab=core&amp;id=939b2de37222d7ed93f5cd043b8ea5c5&amp;_cview=0">Power Dreaming</a>实验将帮助受PTSD折磨的士兵战胜困扰他的梦魇——他们将在虚拟环境中重复数字版的噩梦。实验还在策划之中，可能要到明年才会启动。根据项目描述，“Power Dreaming”可以在笔记本上观看，在家中训练，利用3D眼镜增强感官印象。
+➜地球人口正式达到70亿
+https://www.solidot.org/story?sid=26628	34080
+地球人口正式<a href="http://7billionactions.org/data">达到了70亿</a>。地球每小时增加1万人，每年增加8000万，13年增加10亿。2011年预测约有1.35亿人出生，5700万人去世。联合国<a href="http://science.slashdot.org/story/11/10/24/207259/earth-officially-home-to-7-billion-humans">预测</a>到2050年人口将增加到93亿。每增加一个人将需要提供食物、水和能量，1973年的科幻电影《<a href="http://zh.wikipedia.org/wiki/%E8%B6%85%E4%B8%96%E7%BA%AA%E8%B0%8D%E6%9D%80%E6%A1%88">Soylent Green</a>》就刻画了一个因人口过剩导致资源枯竭的未来世界。
+➜研究发现网络色情成瘾者可能会对真实女性失去兴趣
+https://www.solidot.org/story?sid=26629	36720
+<a href="http://www.phone-sir.com/">手机先生</a> 写道 "意大利帕多瓦大学的一份研究报告表明，长期沉迷于网络色情的成年男性<a href="http://www.dailymail.co.uk/sciencetech/article-2051902/Men-use-internet-porn-likely-hopeless-bedroom.html">可能会对床伴失去兴趣</a>。<i>
+对28,000名用户的调查发现，许多意大利男性最早是从14岁开始访问色情网站，然后每天访问的习惯能一直保持到25岁左右。研究结果表明过度消费色情会导致男性对于性刺激麻木。性刺激会使人体分泌出多巴胺，而假如这种刺激的发生过于频繁，刺激的来源多于多样，将使得人体的感官变得迟钝，进而弱化了受到刺激时的兴奋反应。因此，当观看过多色情视频的人面对眼前的异性时，会对这种本应该让人兴奋的场景感到麻木，整个身体也就很难被调动起来。研究还发现，“戒掉”色情会让人产生类似失眠、流感等症状。
+"</i>
+➜马英九在公投问题上摇摆不定
+https://www.solidot.org/story?sid=26630	37560
+bonnae1982 写道 <i>"据<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111020_taiwan_maying-jeou.shtml">BBC</a>报道，台湾总统马英九就其此前提出在台湾引起巨大争议的两岸和平协议表示，未来若要推动此一协议一定会交付人民公投，若公投未过就不会推动签署，且签署协议无时间表。马英九在提出两岸签署和平协议的第一时间并未提及公投，其后由总统府发言人表示将先经公投，而他此后又再度举行记者会说明时则又修正立场说民调或立法院决议也可取代公投，就此台湾在野的民进党立法院党团<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111024_ddpreferendum_byjameslin.shtml">提出了公投法修正案</a>，加列两岸政治协商须经人民公投授权及复决，而掌握立法院的多数席位的国民党立院党团则表示反对。"</i>
+➜突尼斯首次获得大选Doodle
+https://www.solidot.org/story?sid=26631	37920
+wmr 写道 "每当一个国家举行大选的时候，Google都会在该国<a href="https://www.google.com/search?q=google+%E5%A4%A7%E9%80%89+logo">更改图标</a>，提醒人民参与选举。现在，Google突尼斯第一次<a href="http://feedproxy.google.com/~r/GoogolLogos/~3/gS5PVx5wN6I/%E6%9C%88-%E6%97%A5-google-%E7%AA%81%E5%B0%BC%E6%96%AF%E6%8F%90%E9%86%92%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD%E5%BE%8C%E7%9A%84%E9%A6%96%E6%AC%A1%E5%A4%A7%E9%80%89-">换</a>上了<a href="http://www.google.com/logos/2011/Tunisia_Elections-2011-hp.jpg">大选的Doodle</a>。
+<i>
+以色列电视10台网站23日报道，卡扎菲死后，被拘押的穆巴拉克的精神已经崩溃，因受惊吓，目前他的大脑功能已丧生。报道说，“据穆巴拉克住院的工作人员透露，穆巴拉克的<a href="http://news.xinhuanet.com/world/2011-10/24/c_122189384.htm">大脑已经死亡</a>，大夫想尽了各种办法，已经无力回天。”<a href="http://news.xinhuanet.com/world/2011-10/24/c_122189384_2.htm">一张照片中</a>，卡扎菲（执政42年）靠着两人的肩，右肩是病危的穆巴拉克（执政30年）、左肩是正在顽强抵抗的也门总统<a href="http://zh.wikipedia.org/wiki/2011%E5%B9%B4%E8%91%89%E9%96%80%E5%8F%8D%E6%94%BF%E5%BA%9C%E7%A4%BA%E5%A8%81">萨利赫</a>（执政33年）、最左边是已经逃亡的突尼斯前总统本·阿里（执政24年）"</i>
+➜下一代主机还需要至少二年
+https://www.solidot.org/story?sid=26632	39600
+Playstation Vita掌机和任天堂的Wii U将在明年上市，而索尼的PS4和微软的下一代Xbox Next则没有正式消息。<a href="http://games.slashdot.org/story/11/10/24/1943254/next-gen-game-consoles-still-years-off">一些流言</a>和推测认为PS4不会在2014年前发布，而Xbox Next最早可能会在2013年圣诞节或2014年初现身。<i>
+来自芯片制造商和中间件公司的业内消息来源<a href="http://www.develop-online.net/news/38917/Sources-point-to-2013-launch-for-Xbox-Next">指出</a>，微软可能会在2013年的E3游戏展上透露下一代Xbox，可能会在2013年圣诞假期或2014年初开始销售。另一个可信任消息来源<a href="http://www.develop-online.net/news/38916/Sony-studios-begin-PlayStation-4-projects">认为</a>，游戏业内人士几乎没人会认为索尼的下一代PlayStation 会在2014年前推出。</i>
+➜攻击RSA的源头位于中国
+https://www.solidot.org/story?sid=26633	54900
+两周前举行的RSA安全会议上，RSA执行总裁Art Coviello声称两个为某一国家服务的黑客组织<a href="__SLASHLINK__" sect="it" sid="11/10/12/0259233" sn="article" tid="70">入侵了其服务器</a>。他没有指明是哪个国家，但普遍怀疑是中国。新的证据<a href="http://krebsonsecurity.com/2011/10/who-else-was-hit-by-the-rsa-attackers/">显示</a>黑客窃取的数据<a href="http://arstechnica.com/business/news/2011/10/data-points-to-chinese-as-source-of-march-rsa-breach-and-wider-attacks.ars">都发送给了中国</a>。<i>
+黑客利用Flash 0day漏洞，通过嵌入恶意Flash的电子表格入侵RSA网络，获取SecurID令牌相关认证信息。安全博客Brian Krebs称，全球有超过700个组织的网络被发现向用于发动协同攻击的命令控制服务器发送数据。被攻击的组织有ISP，有金融和科技企业，还有政府机构，其中一些著名的企业和机构包括RIM、思科、Google、诺思罗普格鲁曼、嘉信理财、美国联邦总务署、美国国税局和密歇根州。在被用于Flash 0day漏洞协同攻击的300多个命令控制服务器中，有299个位于中国。
+</i>

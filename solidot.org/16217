@@ -1,0 +1,60 @@
+➜传鲍尔默正谈判收购洛杉矶快船队
+https://www.solidot.org/story?sid=39693	9131
+洛杉矶快船队的老板斯特林（Donald Sterling）迫于联盟压力同意出售球队，因为遭联盟封杀他已将控制权交给了他的妻子 Shelly Sterling。据正在流传的谣言，他的妻子正与亿万富翁、前微软CEO鲍尔默(Steve Ballme)<a target="_blank" href="http://wind8apps.com/steve-ballmer-nba-clippers/"><u>谈判收购事宜</u></a>。流言中的球队售价估计为20亿美元。《华尔街日报》本月早些时候曾询问鲍尔默是否对收购一支NBA球队感兴趣，鲍尔默给予了肯定的回答。他曾多次尝试收购NBA球队，他一度接近收购萨克拉门托国王队和将国王队迁到西雅图，但交易遭到联盟的否决。在超音速队2008年从西雅图迁到俄克拉何马城前他也尝试留住这支球队。如果这次鲍尔默真的收购了快船队，那么他也可能将快船队搬到西雅图，成为开拓者队老板艾伦（Paul Allen）之后第二位拥有NBA俱乐部的前微软高管。
+➜修改注册表可让XP继续接收更新
+https://www.solidot.org/story?sid=39694	10090
+Betanews<a target="_blank" href="http://www.zdnet.com/registry-hack-enables-continued-updates-for-windows-xp-7000029851/"><u>报道</u></a>，简单的修改Windows XP的注册表可以欺骗Windows Update 继续提供更新。但这未必能确保系统的安全。修改注册表只需要简单创建一个文本文件，文件扩展名使用.reg，然后输入“Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\WPA\PosReady]
+"Installed"=dword:00000001”（不包括前后引号），执行之后就能将已经终止支持的桌面系统XP伪装成嵌入式系统<a target="_blank" href="http://www.microsoft.com/en-us/news/press/2009/jan09/01-12weposready2009pr.aspx"><u>Windows Embedded POSReady 2009</u></a>，后者的终止支持日期为2019年4月9日。运行Windows Update后你会找到多个系统组件更新。但嵌入式系统是设计运行嵌入式应用<a target="_blank" href="http://www.zdnet.com/registry-hack-enables-continued-updates-for-windows-xp-7000029851/"><u>而不是桌面应用</u></a>，所以XP用户还是应该尽快更新到新的操作系统。
+➜苹果准备推出智能家居平台
+https://www.solidot.org/story?sid=39695	11281
+《金融时报》引用知情人士的消息<a target="_blank" href="http://www.ftchinese.com/story/001056438"><u>报道</u></a>，苹果计划于6月2日在旧金山举行的苹果全球开发者大会推出智能家居软件平台，这种软件平台可以将iPhone变成灯光、安保系统及其他家用电器的遥控器。随着发达市场智能手机销售放缓，家居自动化将成为高科技领域的下一个前沿。苹果的集成系统将使设置和控制新的“智能家居”设备更容易。比如，通过iPhone发出的主人到家的无线信号，家里的灯光能够在主人迈进家门时自动点亮。
+➜B-52同温层堡垒升级IT系统
+https://www.solidot.org/story?sid=39696	14043
+<div align="center"><a href="http://www.defenseindustrydaily.com/b52h-receiving-216m-communications-upgrade-0278/"><img src="http://img.solidot.com.cn/0/303/lis7dN9pfi9Us.jpg" align="" height="319" width="480"></a><br>
+<br>
+</div>
+美国空军第十飞行测试中队接收了<a target="_blank" href="http://arstechnica.com/information-technology/2014/05/b-52-gets-first-full-it-upgrade-since-60s-now-lan-party-ready/"><u>第一架完成IT系统改造的B-52同温层堡垒</u></a>。系统升级将冷战时代的重型轰炸机带到了21世纪，或至少进入到了1990年代。这是B-52服役50年里信息技术首次进行全面改造。根据美国今年的财政拨款，总共将有30架B-52升级IT系统。升级带来的最明显变化是工作终端。多功能彩色显示器取代了旧的模拟仪表和单色显示器。工作终端将通过机载网络连接在一起，每个终端有键盘和轨迹球，可以通过客户端服务器架构控制多个机载系统。乘员之间的内部通信可通过新的数字对讲机进行。B-52升级的核心是改进了卫星和战术网络，其中包括了数据链，以前任务计划是写在纸上，现在可以通过数据链直接在空中发送任务计划和目标数据。
+➜2013年全球商业太空活动增加
+https://www.solidot.org/story?sid=39697	15418
+The US Space Foundation发布的《<a target="_blank" href="http://www.spacefoundation.org/programs/research-and-analysis/space-report"><u>太空报告2014</u></a>》称，2013年全球在太空方面的花费达3141.7亿美元，较2012年的3022.2亿美元增长了4%。报告称，太空商业活动是<a target="_blank" href="http://china.caixin.com/2014-05-27/100682603.html"><u>主要经济增长动力</u></a>。相比之下，2013年政府在太空方面的支出下降1.7%。美国政府2013年太空总支出约为413亿美元，中国在太空方面的花费约为35亿美元。2013年全球共进行了81次发射尝试，比上一年的78次增长4%。其中，俄罗斯以32次仍位居第一，其次是美国19次、中国15次和欧洲7次。美国在连续两年落后中国后，2013年再次反超。报告指出，这主要归因于美国商业公司向国际空间站运送货物的业务增多。
+➜DOS投票机软件bug扰乱比利时大选
+https://www.solidot.org/story?sid=39698	17426
+比利时内政部周一<a target="_blank" href="http://www.ibz.rrn.fgov.be/index.php?id=3402&amp;no_cache=1&amp;L=1"><u>表示</u></a>，全国209个行政区有20个区的计票工作<a target="_blank" href="http://www.itworld.com/legal/420316/software-bug-disrupts-e-vote-count-belgian-election"><u>受阻于旧投票机的软件bug</u></a>。这些投票机是DOS时代的x86电脑，有两个串口，一个并口，内存只有1MB RAM，投票软件使用3.5英寸磁盘驱动器加载。软件的一个bug影响了计票，软件开发商Stesud连夜提出了一个解决方案，解决方案将允许计票工作继续进行。其它基于Linux的电子投票机器没有发生问题，而比利时法语地区Wallonia的选民大部分仍然用纸质选票选举。
+➜NSA工作出色的原因之一是软件漏洞百出
+https://www.solidot.org/story?sid=39699	24629
+记者Quinn Norton根据其亲身经历称，她的一位朋友发现了一个软件漏洞，找到了获得网络管理访问权限的方法，他写了一个脚本看看会发生什么。结果一觉醒来他发现自己能控制5万台电脑。因为担心被FBI抓到监狱里，他毁灭了所有证据，甚至将硬盘扔进火里。这个故事一点也不特别，安全领域的许多故事比这更糟糕，<a target="_blank" href="https://medium.com/message/81e5f33a24e1"><u>因为计算机和互联网上一切都是支离破碎的</u></a>。NSA不是互联网上最大的食肉动物，它不过是最大的食腐动物，它的工作之所以出色只是因为软件本身实在在太糟糕了。软件之所以变烂是因为它太复杂了，要么它需要与同一台电脑上的其它程序通信，要么它需要通过网络连接与其它电脑通信，你的电脑不只是一台电脑，盒子里面套着盒子，每个都装满了小小的软件试图协调动作互相通信。计算机日益变得复杂，而人类仍然那个自命不凡的烂泥巴。
+➜马来西亚公布马航370航班卫星通信日志
+https://www.solidot.org/story?sid=39700	26466
+马来西亚当局周二<a target="_blank" href="http://edition.cnn.com/2014/05/27/world/asia/malaysia-missing-plane/index.html"><u>公布了</u></a>47页的<a target="_blank" href="http://i2.cdn.turner.com/cnn/2014/images/05/27/flight.370.data.logs.pdf"><u>文档</u></a>（PDF），公开了外界期待已久的失踪马航370航班与英国国际海事卫星组织卫星之间的通信日志。马航370航班自3月初失踪以来至今下落不明，国际海事卫星组织的工程师根据马航370航班ping信号的多普勒频移推断其最终位置，然而搜索依旧一无所获，专家开始怀疑<a target="_blank" href="http://www.solidot.org/story?sid=39497"><u>是否计算错误</u></a>。但国际海事卫星组织一直表示它无权公开通信日志，称需要获得马来西亚当局的批准，表示卫星日志早在搜救早期就提供给了马来西亚。上周马来西亚和国际海事宣布将会公开卫星通信日志供专家进行分析验证。
+➜Twitter将向科学家提供所有数据
+https://www.solidot.org/story?sid=39701	28490
+每天有五亿Twitter帖子向世界广播用户的私人生活细节，对研究人类行为模式的科学家来说，Twitter是一座数据宝库。例如，微软研究人员就通过分析孕妇帖子中的情感线索开发出算法预测产后忧郁症风险；美国地质调查局根据Twitter用户的地震帖跟踪地震位置。但Twitter API只向研究人员开放其档案的1%的帖子。这一情况正在发生改变，Twitter已经表示<a target="_blank" href="http://www.scientificamerican.com/article/twitter-to-release-all-tweets-to-scientists-a-trove-of-billions-of-tweets-will-be-a-research-boon-and-an-ethical-dilemma/"><u>将会免费向科学家提供所有帖子</u></a>。但新的问题则随之产生：Twitter是否保留科学发现的法定权利？将Twitter作为研究工具是否合乎道德，假设用户并未打算贡献帖子用于研究？对研究人员而言，大数据也伴随着巨大的责任。
+➜中国要求银行弃用IBM服务器
+https://www.solidot.org/story?sid=39702	30494
+彭博社<a target="_blank" href="http://www.bloomberg.com/news/2014-05-27/china-said-to-push-banks-to-remove-ibm-servers-in-spy-dispute.html"><u>报道</u></a>，中国政府要求银行移除IBM的高端服务器，<span class="focusParagraph">用国内品牌替换。</span>彭博引用匿名消息来源称，中国央行及财政部等政府机构正在评估商业银行使用IBM的服务器是否会危及中国的金融安全。在美国司法部上周指控五名军方黑客参与经济间谍活动之后，中国就对美国科技公司展开了一系列报复行动，要求政府采购的计算机类产品禁止预装Windows 8，要求关系国家安全和公共利益的系统使用的重要信息技术产品和服务通过网络安全审查，要求国企与美国咨询公司断绝关系。IBM在华业务在今年第一季度下跌了五分之一，它的低端x86服务器在今年1月出售给了联想。消息人士称，除了担心安全威胁外，中国政府还认为IBM服务器售价比其它地区贵。
+➜超文本的秘密史
+https://www.solidot.org/story?sid=39703	32749
+二次大战期间担任美国科学研究和发展办公室主任的Vannevar Bush，在1945年发表在《大西洋月刊》上的一篇文章“<a target="_blank" href="http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"><u>As We May Think</u></a>”中设想了一种想象中的机器Memex，描述了一种超文本和超链接的结构，能允许用户搜索储存在微型胶卷上的大量文件。Bush被广泛认为是超文本概念的最早提出者，Douglas Engelbart、Ted Nelson和Tim Berners-Lee等人都承认他们深受Bush的影响。但《大西洋月刊》最近发表的一篇文章指出，Bush不是超文本的最早提出者，在Bush之前<a target="_blank" href="http://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/"><u>有许多欧洲思想家探索了类似的概念</u></a>，其中一位是比利时的书目编制者和企业家Paul Otlet，他在1934年设想一个全球网络，允许任何人访问图书、文章、照片、录音和电影的存档库。Paul Otlet也设想将数据储存在微型胶卷上，通过一个复杂的链接系统构建一个可搜索的文档网络。Otlet还想象了无线网络，语音识别和社交网络。
+➜调查称九成高校学生满意反腐和中国梦
+https://www.solidot.org/story?sid=39704	33884
+教育部公布了<a target="_blank" href="http://www.moe.gov.cn/publicfiles/business/htmlfiles/moe/s5987/201405/169412.html"><u>高校学生思想政治状况滚动调查</u></a>，结果显示，2013年政府的一系列重大决策中，九成学生对中央坚持“老虎、苍蝇一起打”的反腐行动最为满意。调查表明，当前高校学生思想主流继续呈现积极、健康、向上的状态。高校学生坚决拥护中国共产党的领导，拥护社会主义制度，对中国特色社会主义道路自信、理论自信和制度自信进一步提升，对实现中国梦充满信心。高校学生的思想动态<a target="_blank" href="http://www.nanzao.com/sc/china/28289/diao-cha-yu-jiu-cheng-gao-xiao-xue-sheng-man-yi-bei-jing-fan-fu-wai-jiao"><u>一直是北京密切关注的领域</u></a>。今年年初，教育部曾组织“当代社会思潮对高校师生的影响及对策研究”课题组，针对高校师生受反马克思主义思潮如历史虚无主义、新自由主义等的影响情况进行调研，结果称随着历史虚无主义思潮多年的传播和蔓延，一部分师生已接受了它的观点，或者对主流意识形态关于中国近现代历史的观点产生了怀疑。
+➜美国医生准备进行世界首例人类假死试验
+https://www.solidot.org/story?sid=39705	36019
+为了拯救重伤患者的生命，匹兹堡大学医学中心长老医院的医生<a target="_blank" href="http://www.newscientist.com/article/mg22129623.000-gunshot-victims-to-be-suspended-between-life-and-death.html"><u>准备让患者进入到假死状态</u></a>，以争取得到更多做手术的时间。医院的一名外科医生说，“我们是暂停生命，我们不喜欢称其为假死，因为听起来太科幻了点，所以我们称之为紧急保护和复苏术。”医生将用冰冷的生理盐水替换患者体内的所有血液，快速冷却人体，停止所有的细胞活性。帮助开发这项技术的外科医生 Peter Rhee说，如果患者在死亡两小时后送到医院，医生无法复活他们。但如果患者濒临死亡，被暂停生命，给予医生时间修复身体的结构性问题，那么救活还是有可能的。在正常体温下，细胞需要氧气供应产生能量，当心脏停止跳动，氧气将会无法输送到细胞。如果没有氧气供应，大脑在损害不可逆转前只能存活5分钟。但在低温下，因为化学反应放慢细胞需要的氧气量减少了，人体在停止呼吁后能存活更长时间。
+➜中国开展微信等移动IM专项整治行动
+https://www.solidot.org/story?sid=39706	37280
+官方新华社<a target="_blank" href="http://china.caixin.com/2014-05-27/100683025.html"><u>报道</u></a>，国家互联网信息办公室联合工业和信息化部、公安部等部门于27日上午召开专门工作会议，从即日起在全国范围内开展为期一个月的微信等移动即时通信工具专项治理行动，重点整治公众账号。互联网信息办负责人称，微信等移动即时通信服务发展迅猛，用户突破8亿，已成为移动互联网最重要、最受欢迎的应用之一，成为广大网民沟通交流的重要平台和获取信息的重要入口，对于促进经济社会发展发挥了重要作用。与此同时，一些人借助这一平台向公众发布不良或违法有害信息，严重破坏网络传播秩序和危害公共利益，引起了网民的不满。为维护公共利益和公民合法权益，维护国家安全和社会稳定，国信办、工信部、公安部三部门联合开展此次专项治理行动。
+➜游戏让玩家像精神变态者一样行动
+https://www.solidot.org/story?sid=39707	41046
+生存类大型网络游戏《DayZ》和《Rust》不同于其它游戏的一个地方是死亡惩罚，一旦死亡你将会回到原点，失去全部装备，必须孤身一人在一个危机四伏的地方生存下来。在一个开放世界里，游戏只给你一个生存的目标和一些工具，你必须自己去寻找乐趣。虚拟世界的机制鼓励玩家在游戏表现出精神分裂者的行为，比如某天滥杀无辜，另一天却救死扶伤。《连线》的一篇文章讨论了玩家在《DayZ》和《Rust》中<a target="_blank" href="http://www.wired.com/2014/05/psychopaths-dayz-rust/"><u>表现出的违反文明道德准则的变态行为</u></a>。《The Psychopath Test》一书的作者 Jon Ronson指出，我们保持道德观念的一种方式是想象做可怕的事情，比如在车站站台上想象将一个人推到行驶的火车前面，这个想法会从你脑袋冒出来，但不会让你成为疯子，因为你并没有真的去做。但虚拟世界中的行为<a target="_blank" href="http://games.slashdot.org/story/14/05/26/146206/games-that-make-players-act-like-psychopaths"><u>是否等同于</u></a>在真实世界中想象但从未做的可怕事情？在真实世界中做可怕会有后果，比如被关到监狱里，如果没有后果我们是否会真的去做可怕的事？
+➜传新疆和田将临时管制微信和QQ
+https://www.solidot.org/story?sid=39708	42176
+<div align="center"><img src="http://img.solidot.com.cn/0/304/liJYdhxfTJ7Lk.jpg" align="" height="560" width="420"><br>
+<br>
+</div>
+《南华早报》<a target="_blank" href="http://www.nanzao.com/sc/china/28310/xin-jiang-he-tian-di-qu-chuan-jiang-lin-shi-feng-suo-wei-xin-qq"><u>报道</u></a>，多名新疆网民今日在微博等社交网络上传照片并发贴称，新疆和田地区将从明日零时起，对即时通信工具微信和QQ进行临时管制，不过当地居民仍可正常上网。《关于对部分即时通讯工具临时管制的通告》称，为切断境内外“三股势力”勾联、宣传、造谣、煽动渠道，从明日起，在保障正常上网、通话、短信的情况下，对和田地区即时通信工具微信和QQ先行采取临时管制措施。通告同时表示，对陌陌、米聊、YY语音、啪啪、易信等17种即时通讯工具，将根据实际适时采取临时管制措施。
+➜黑客能利用不安全的cookies劫持你的WordPress博客
+https://www.solidot.org/story?sid=39709	43533
+HTTPS Everywhere和Privacy Badger Firefox维护者Yan Zhu<a target="_blank" href="https://zyan.scripts.mit.edu/blog/wordpress-fail/"><u>发现了WordPress的一个安全漏洞</u></a>，该漏洞将允许黑客劫持你的WordPress博客。她发现一个重要的cookies“wordpress_logged_in”在输入有效的用户名和密码后通过HTTP明文发送到WordPress的一个认证端点。也就是说，你可以拷贝这个cookies到另一个浏览器内，然后在cookies有效期内直接登录到WordPress帐号，绕过了二步认证，不需要再输入用户名和密码。她测试后发现，这个cookies拥有发表文章阅读私人帖子和留言等诸多权限，甚至能修改帐号相关的电子邮件地址。WordPress首席开发者Andrew Nacin<a target="_blank" href="http://arstechnica.com/security/2014/05/unsafe-cookies-leave-wordpress-accounts-open-to-hijacking-2-factor-bypass/"><u>已经证实了这个漏洞</u></a>，称将在下个WordPress 版本中修复该问题，指出漏洞不允许修改密码，因为修改密码需要使用到另一个认证cookies“wordpress_sec”。<br>
+<br>

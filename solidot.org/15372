@@ -1,0 +1,69 @@
+➜Facebook正式宣布IPO计划
+https://www.solidot.org/story?sid=28085	2520
+社交巨人<a href="http://www.cn.wsj.com/gb/20120202/tec071352.asp">宣布了</a>首次公开募股(IPO)计划，向美国证券交易委员会递交了初步募股说明书，申请规模为50亿美元，但可能会在投资者的高涨需求下扩大数倍。Facebook没有说明IPO的确切日期、发行价区间或股票发行规模，但据《华尔街日报》报道，预计它将筹集高达100亿美元的资金，对公司的估值在750亿至1000亿美元之间。该公司应会在第二季度启动IPO。Facebook<a href="http://www.bbc.co.uk/zhongwen/simp/business/2012/02/120201_faceboo_ipo.shtml">将取代</a>Google，成为历年来最大的互联网企业初IPO。Google于2004年的IPO筹资近17亿美元，当时公司市值估计约230亿美元。
+➜IE6市场份额增加，Chrome下跌
+https://www.solidot.org/story?sid=28086	6300
+冬天即将过去，春天即将到来。但有许多人并没有接到春暖花开的信号，2012年仿佛又回到了2001年。微软IE浏览器的市场份额在多年下跌后出现了反弹，然而反弹的主力<a href="http://arstechnica.com/business/news/2012/02/2001-all-over-again-internet-explorer-6-share-grows-and-chrome-falls.ars">却是2001年发布的IE6</a>。<i>
+根据Net Market的<a href="http://www.netmarketshare.com/browser-market-share.aspx?qprid=0&amp;qpcustomd=0">统计</a>：2012年1月，IE增加了1.09个百分点至52.96%，Firefox减少0.95个百分点至20.88%，Chrome首次出现下滑，下跌0.15%至18.94%，Safari为4.9%，Opera是1.67%。其中，IE6增加了0.6个百分点至7.93%，IE8为27.45%，IE9为11.64%。IE6只能运行在Windows XP上，XP的份额也略有增加，上升0.67百分点至47.19%，Windows 7出现下滑，减少0.59%至36.40%。Chrome下滑的一个可能原因是Google因为付费链接而惩罚性的降低了Chrome官网的PR值。</i>
+➜Greg Kroah-Hartman加盟Linux基金会
+https://www.solidot.org/story?sid=28087	7920
+Linux kernel稳定分支和Linux驱动项目维护者Greg Kroah-Hartman离开了SUSE，<a href="http://arstechnica.com/open-source/news/2012/01/linux-kernel-chief-leaves-suse-expands-linux-oversight-role.ars">加盟Linux基金会</a>。Kroah-Hartman表示，为SUSE工作并无直接冲突，但在一个厂商中立的环境如Linux基金会工作，他将可以用大部分时间与企业和厂商交流，不需要将精力集中在前雇主上。Kroah-Hartman在SUSE项目上工作了七年，SUSE之前为Novell所有，现已被Attachmate收购。Linux基金会的最著名成员是Linux创始人Linus Torvalds。
+➜维基百科选择Lua为新的模板语言
+https://www.solidot.org/story?sid=28088	10080
+维基百科现用的<a href="http://en.wikipedia.org/wiki/Help:Template">模板系统</a>既复杂又无效率，为了解决这一问题，维基百科将<a href="http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2012-01-30/Technology_report">采用</a>Lua脚本语言为新的模板语言。社区关于选择Lua还是选择Javascript有过<a href="http://www.mediawiki.org/wiki/User:Sumanah/Lua_vs_Javascript">热烈讨论</a>，Lua因为执行速度更快<a href="http://www.gossamer-threads.com/lists/wiki/wikitech/269254">而获胜</a>。从旧模板过渡到新模板将在MediaWiki 1.19发布后开始，预计它将在五月份发布。<a href="http://lua.org/">Lua</a> 是一种轻量级的可扩展脚本语言，易于集成到现有的应用程序中，许多视频游戏如《魔兽世界》就采用Lua为自己的嵌入式脚本语言。
+➜盗版商人因销售“Apple iPad6 TV”被捕
+https://www.solidot.org/story?sid=28089	12720
+澳大利亚新南威尔士警方<a href="http://www.itnews.com.au/News/288813,fake-apple-tv-salesman-nabbed-in-sydney-raid.aspx">逮捕了一名出售伪造苹果产品的商人</a>。<i>
+被捕的男子以99美元和月费50美元价格出售名叫“Apple iPad6 TV”的印有苹果logo的U盘，购买者可以通过它访问1100多个盗版付费电视和电影频道，包括MTV、探索频道、ESPN、CNN、HBO、Fox和BBC；以及1000多部新上映的电影，600多部成人电影，并可以下载流行的电视剧如《生活大爆炸》等。插上U盘后，它会自动运行iptv6.exe可执行文件，弹出定制的<a href="http://www.itnews.com.au/Gallery/288816,photos-apple-tv-pirates-raided.aspx/3">中英文屏幕</a>，中间是苹果logo，两边是中文和英文按钮。分析显示，U盘是通过代理和P2P访问网站，内容托管在中国，但点播服务器和域名是托管在美国。</i>
+➜提高团队编程水平
+https://www.solidot.org/story?sid=28090	14400
+<a href="http://www.jobbole.com/">伯乐</a> 写道 "Gregory Brown 在 Mendicant大学（一个Ruby开发者在线大学）工作一年半后，总结了<a href="http://blog.rubybestpractices.com/posts/gregory/062-practicing-programming-group.html">一些Mendicant大学深受好评的方法</a>(<a href="http://blog.jobbole.com/11835/">中文</a>)。希望这些经验能帮助更多本地团队和在线团队，这样会有更多优秀的场所供程序员学习和成长。1. 强调个人目标与团队兴趣； 2. 实行正式的代码审查； 3. 倾向有理有据的争论； 4. 寻找有效的练习和学习方法； 5. 在技术与社交之间建立良好的平衡； 6. 建立参与和分享的团队文化； 7. 了解社交习惯，切记不要排斥边缘团体
+"
+➜中国电影实际上只是个“镀金时代”
+https://www.solidot.org/story?sid=28091	16200
+中国电影不经典 写道 <i>"大陆泛商业杂志<a href="http://www.hudong.com/wiki/%E3%80%8A%E5%85%A8%E7%90%83%E5%95%86%E4%B8%9A%E7%BB%8F%E5%85%B8%E3%80%8B">《全球商业经典》</a>最新一期封面故事：“<a href="http://dongxi.net/b14jp">空心，中国电影的镀金时代</a>”，文章说：从数字上看，国产电影市场在过去八九年间进入了一个黄金时期，年票房总收入几乎以年均增长超过30%的速率快速增长，直至去年创纪录地超过130亿。而针对观众需求的类型片市场也在逐渐形成。不过，商业利益过度驱动也在导致电影制作者们把一切都数字化和量化—数字往往会欺骗我们，正如围棋如果一味算计就会输棋，电影算计得太深，就会失败。因为电影的本质是一份情感，而不是明星派对和马戏团表演。"</i>
+➜NASA探测器发回月球南极视频
+https://www.solidot.org/story?sid=28092	18000
+重力回溯及内部结构实验室（GRAIL）探测器发回了<a href="http://www.nasa.gov/mission_pages/grail/news/grail20120201.html">第一批月球背面的照片和视频</a>。GRAIL包含两台探测器，分别于2011年12月31日和2012年1月1日进入月球轨道。照片和视频让人们清晰看到了跨越月球正面和背面一个直径149公里的陨石坑，以及在月球南极附近的一个巨大的坑洞。<a href="http://www.voanews.com/chinese/news/20120201-Lunar-Probe-138537324.html">科学家称</a>，一颗彗星或者一颗小行星在几十亿年前撞击了月球，形成了凹坑。
+➜彭博社开放其市场数据API
+https://www.solidot.org/story?sid=28093	19440
+<a href="http://www.jobbole.com/">伯乐</a> 写道<i> "国际金融数据供应商彭博公司已<a href="http://www.computerworlduk.com/news/it-business/3334375/bloomberg-market-data-api-made-public/">公开其宝贵的市场数据的应用编程接口（API）</a>(<a href="http://blog.jobbole.com/12631/">中文</a>)，交易公司和软件开发人员现在可免费访问（之前需要付费）。<a href="http://open.bloomberg.com/">API</a> 可用于多种编程语言，包括 Java、C、C++、.Net 和 Perl等。API 访问入口，该页面包括开发指导和使用案例。"</i>
+➜中印两国网速排名滞后
+https://www.solidot.org/story?sid=28094	20520
+CDN服务商Akamai公布了2011年第三季度的“<a href="http://www.akamai.com/stateoftheinternet/">State of the Internet</a>”报告，显示全球两大发展中国家在全球网速排名上<a href="http://arstechnica.com/tech-policy/news/2012/02/asian-economic-powerhouses-are-also-broadband-slowpokes.ars">位于末尾位置</a>。<i>
+全球网速排名显示：韩国平均网速最快16.7 Mbps，香港以10.5 Mbps位居第二，之后是日本8.9 Mbps，台湾4.1Mbps，排在第33位，中国大陆1.4Mbps，排名第90位，印度0.9Mbps，第110位。其中印度29%的网民、中国3.3%的网民网速低于256Kbps。截至第三季度，中国IPv4地址总数达到81,661,744个，仅次于美国的145,452,027个。</i>
+➜微软发布Kinect For Windows
+https://www.solidot.org/story?sid=28095	21600
+微软正式<a href="http://blogs.msdn.com/b/kinectforwindows/archive/2012/01/31/kinect-for-windows-is-now-available.aspx">发布</a>了<a href="http://www.microsoft.com/en-us/kinectforwindows/develop/new.aspx">Kinect For Windows及其SDK工具包</a>。硬件零售价为249美元，比Xbox 360版本贵90美元。微软解释说，Xbox 360版本之所以价廉是因为有来自游戏购买和Xbox Live订阅的补贴。它表示今年晚些时候，获得授权的教育机构用户可以以149美元优惠价购买设备。Kinect For Window支持Windows 7、Windows 8开发者预览版和 Windows Embedded 7，主要新特性包括新的“Near Mode ”模式，最小姿态识别距离减少到40厘米；最新的微软语音组件（V11），等等。
+➜Google博客服务开始基于国别的审查
+https://www.solidot.org/story?sid=28096	24600
+未来几周，Google将开始把博客服务的域名重定向到用户所在国的特定网址，<a href="http://yro.slashdot.org/story/12/02/01/2012211/google-begins-country-specific-blog-censorship">内容将遵守当地的审查法律法规</a>。<i>
+根据Blogger帮助论坛的<a href="http://support.google.com/blogger/bin/answer.py?hl=en&amp;answer=2402711">帖子</a>：用户将会在未来几周发现Blogger域名后缀出现国家特色，如果你在澳大利亚浏览Blogger，你访问的网址将从[blogname].blogspot.com重定向到[blogname].blogspot.com.au，网址将会根据用户所在的地理位置发生变化。Google表示，此举将在保证言论自由的基础上提供更大的灵活性，利用基于国别的顶级域名，满足根据当地法律发出的合法内容删除要求，确保内容审查影响的范围最小化，内容删除只影响与该国相关的国家顶级域名。
+</i>
+➜网友请愿苹果保护中国工人
+https://www.solidot.org/story?sid=28097	25440
+在《纽约时报》苹果中国代工厂<a href="__SLASHLINK__" sect="apple" sid="12/01/29/0254205" sn="article" tid="129">恶劣工作环境</a>的报道之后，Change.org上发起了一项签名请愿活动，请求苹果公司尽最大努力<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/02/120201_apple_petition.shtml">保护中国的工人</a>，这项活动至今获得超过16万人<a href="http://www.change.org/petitions/apple-ceo-tim-cook-protect-workers-making-iphones-in-chinese-factories">签名</a>。苹果CEO表示该公司关心每个为苹果工作的工人。
+➜Facebook称它被四个国家屏蔽
+https://www.solidot.org/story?sid=28098	28080
+社交巨人<a href="__SLASHLINK__" sect="internet" sid="12/02/02/0155212" sn="article" tid="54">准备上市</a>，向美国证券交易委员会递交了<a href="http://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm#toc">初步募股说明书</a>。CE0扎克伯格（Mark Zuckerberg）还发表了<a href="http://international.caixin.com/2012-02-02/100352715_all.html#page2">一封公开信</a>，表示Facebook的存在并不是仅仅成立一家公司，它是为了完成自身的社交使命——推动世界更加开放、加强人与人之间的联系，宣布至今已经帮助世界上8亿多人建立了超过1000亿个联系。在申请文件中，Facebook称它目前被四个国家全部或部分屏蔽：这四个国家是中国、伊朗、朝鲜和叙利亚。由于访问受限，Facebook在中国的占有率为零，它表示在继续评估是否进入中国；称中国是最大的潜在市场，但无法知道是否能找到让它和中国政府都接受的内容管理方法；如果进入中国的话，它将面临来自人人、新浪和腾讯的竞争。
+➜N9可能远比Lumia畅销
+https://www.solidot.org/story?sid=28099	30480
+诺基亚智能手机N9和Lumia硬件基本相同，仅操作系统存在差异，前者运行MeeGo，后者运行Windows Phone 7，它们各自销量有多少是一个令人好奇的问题。根据分析师的<a href="http://communities-dominate.blogs.com/brands/2012/01/how-many-lumia-sales-as-nokia-and-microsoft-ashamed-to-reveal-number-lets-count-and-compare-to-n9-me.html">估计</a>，<a href="http://www.osnews.com/story/25569/Nokia_N9_Outselling_Lumia_">N9可能远比Lumia畅销</a>。诺基亚没有公布出货量或销售数据，因此估计和实际数据可能有差距。分析师估计，在去年第四季度，诺基亚共售出60万部Lumia，在有微软资助的广告宣传之下，这个成绩并不能让人满意。而Nokia N9只有很少的广告费，但却在第四季度售出了150万到200万部。简而言之，N9与Lumia的销量比是3比1。当然，在去年第四季度N9在37个国家销售，而Lumia只有6个，现在谈胜负还早。
+➜转基因大肠杆菌将海藻变成生物燃料
+https://www.solidot.org/story?sid=28100	32880
+用玉米和甘蔗生产生物燃料面临的主要问题是可能会影响食品价格，但如果生物燃料原料是不需要耕地、化肥，或淡水的海藻？那么，这个问题显然将不会再存在。然而，将海藻转化成乙醇同样面临很多困难，因为海藻的主要糖成分——海藻酸钠难以用微生物处理。现在，研究人员在《科学》上发表<a href="http://www.sciencemag.org/content/335/6066/308">论文</a>，他们研发出一种转基因大肠杆菌，能分解海藻酸钠，<a href="http://arstechnica.com/science/news/2012/02/engineered-e-coli-produces-ethanol-from-seaweed.ars">让海藻去生产乙醇</a>。此前的研究显示，在理想条件下，海藻能产生两倍于甘蔗、五倍于玉米的乙醇。
+➜张思之致函最高法称吴英案难服众
+https://www.solidot.org/story?sid=28101	35280
+RomeoMustDie 写道<i> "中国律师张思之<a href="http://finance.ifeng.com/news/people/20120202/5525312.shtml">致函</a>最高人民法院一级大法官张军，称吴英案若执行死刑恐难服众。信中说（吴英）集资对象都是本地亲友及放贷人而非社会不确定公众；其资金去向大多流入当地实业领域，属合法经营范畴。也即吴英未利用信息不对称，虚构投资项目诈骗债权人，经营手段和目的不仅合情且未违法。至于吴英是否“以非法占有为目的”，张思之称自己未见全部证据，但以常理度之，吴英如有心诈骗，则会仿效中国巨贪们变卖资产卷款逃逸，而不会在当地留下大量资产。除以上两点外，诸多涉案债权人对吴英鲜有指控，而且有重要举报线索尚未加追查。如对吴执行死刑恐难服众。"</i>
+➜美国印第安纳州参议院通过在生命起源课程中加入宗教解释的法案
+https://www.solidot.org/story?sid=28102	36000
+美国印第安纳州参议院通过了一项法案，允许学校在讲授生命起源的课程中<a href="http://arstechnica.com/science/news/2012/02/indiana-senate-passes-bill-putting-religion-in-science-class.ars">加入不同宗教的起源解释</a>。该法案还需要通过众议院的讨论，但提案人之一是众议院议长。法案发起人、参议员Dennis Kruse明确表示希望在科学课程中教授创造论，他贬低了演化论，称它只是一种“新来”的理论。
+➜Unicode 6.1发布
+https://www.solidot.org/story?sid=28103	37080
+最新的Unicode文字编码标准v 6.1.0<a href="http://www.unicode.org/versions/Unicode6.1.0/">正式发布</a>。主要变化包括：新增732个新字符，7种全新文字，支持通过变量选择符区分绘文字（emoji）风格和文本风格的符号和表情符号；更新断行算法以更准确反映日本和希伯来文文本，等等。
+➜海盗湾创始人终审败诉
+https://www.solidot.org/story?sid=28104	38700
+2009年4月，瑞典斯德哥尔摩地区法院<a href="__SLASHLINK__" sect="internet" sid="09/04/17/1232205" sn="article" tid="48">做出判决</a>，裁定文件共享网站海盗湾违法，四名创始人协助违反版权法，被判处监禁一年，并赔偿原告3千万瑞典克朗。2010年11月，瑞典上诉法院的裁决<a href="__SLASHLINK__" sect="internet" sid="10/11/27/0545244" sn="article" tid="17">认为</a>海盗湾的三名创始人犯有侵犯版权法的罪行，减少刑期同时增大罚款，另外一人未能达成申诉。海盗湾三名创始人继续向最高法院提出上诉，试图推翻有罪判决。现在，瑞典最高法院<a href="http://torrentfreak.com/pirate-bay-founders-prison-sentences-final-supreme-court-appeal-rejected-120201/">驳回了上诉</a>，意味着这三人将面临8个月到10个月的徒刑。海盗湾创始人在官方博客上<a href="http://thepiratebay.se/blog/204">表示</a>，他们坚信自己没有做错，称就连朝鲜每日都有超过100次访问。
+➜蛛网为何能韧如钢铁
+https://www.solidot.org/story?sid=28105	41280
+根据刊登在今天出版的《自然》上的<a href="http://www.nature.com/nature/journal/v482/n7383/full/nature10739.html">一篇论文</a>，最新分析揭示了蛛网设计的错综复杂，显示蛛丝的独特属性如何<a href="http://news.sciencemag.org/sciencenow/2012/02/how-to-build-a-hardy-web.html">将网变成既柔又韧的陷阱</a>。计算机模拟发现，重的力会分散到整个网而不是滞留在某个区域。蛛丝是一种神奇的材料，可以在不同时间或伸展或拉紧，恰到好处的弯曲然后断裂，避免破坏附近的蛛丝。

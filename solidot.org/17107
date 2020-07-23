@@ -1,0 +1,49 @@
+➜微软称与俄罗斯有关联的黑客组织正在利用新发现的Windows漏洞
+https://www.solidot.org/story?sid=50213	12791
+微软<a href="http://www.reuters.com/article/us-microsoft-cyber-russia-idUSKBN12W4ZK" target="_blank"><u>表示</u></a>，被认为入侵民主党全国委员会计算机系统的俄罗斯黑客正在利用新发现的Windows漏洞。微软称，被称为 Strontium（aka Fancy Bear，aka APT 28）的黑客组织正通过发送钓鱼邮件的方式利用该漏洞。微软表示，它计划在11月8日释出修复该漏洞的补丁。微软称攻击者组合利用了一个 Flash漏洞和一个Windows漏洞。Adobe已经释出了补丁修复了其产品的漏洞，而Google的安全研究人员则在Adobe释出补丁后披露了Windows的漏洞，微软谴责了Google在它没有发布安全补丁前就披露漏洞的做法。
+➜公民实验室逆向工程中国直播软件的关键词名单
+https://www.solidot.org/story?sid=50214	14198
+2015年8月，加拿大多伦多大学公民实验室的研究人员及其同行<a href="http://www.solidot.org/story?sid=45084" target="_blank"><u>逆向工程了</u></a>中国流行直播服务多玩、新浪秀、9158和<span class="st">呱呱的客户端应用，观察他们是如何进行审查的。当时研究人员认为中国的互联网审查是在统一指导下进行的。过去一年，研究人员继续跟踪了YY、</span>新浪秀和9158的<a href="https://github.com/citizenlab/chat-censorship/blob/master/livestream/livestream_keywords_10_15_09_16.csv" target="_blank"><u>关键词名单变化</u></a>，发现关键词审查的实现并不统一，中国政府没有向这些服务提供一个统一的过滤名单。研究人员发现关键词过滤都是在客户端进行的，也就是说审查是通过运行在你的智能手机或电脑上的应用执行的。对名单变化的观察发现：审查通常是对当前事件的反应；被审查的关键词通常与集体行动和对政府的批评有关；关键词包含了竞争对手的名字，这些明显是出于企业的商业兴趣而不是政府压力加入到过滤名单中的。公民实验室的研究人员<a href="https://citizenlab.org/2016/11/harmonized-histories-year-fragmented-censorship-across-chinese-live-streaming-applications/" target="_blank"><u>公布</u></a>了关键词及<a href="https://netalert.me/harmonized-histories.html#toc" target="_blank"><u>详细的报告</u></a>。
+➜特朗普集团注册了3600多个域名
+https://www.solidot.org/story?sid=50215	17984
+研究公司DomainIQ<a href="https://politics.slashdot.org/story/16/11/01/2055202/trump-organization-owns-more-than-3600-domain-names-many-of-which-bash-trump" target="_blank"><u>跟踪了</u></a>美国两大党的总统候选人特朗普和希拉里的竞选团注册的域名。他们发现特朗普集团拥有3600多个域名，其中包括与他的财产、产品和子女相关联的域名，以及辱骂他的域名，比如donaldtrumpsucks.com、no2trump.com、trumpmustgo.com，等等，有8个域名以scheme结尾，8个以fraud结尾，8个以sucks结尾，还有274个域名与特朗普的女儿Ivanka相关。相比之下，希拉里竞选团队只有70个域名，没有像特朗普团队那样注册带有贬义词的域名。
+➜报道称Wii U将在本周停产
+https://www.solidot.org/story?sid=50216	18600
+Eurogamer援引多个消息来源<a href="http://www.eurogamer.net/articles/2016-11-01-nintendo-to-end-wii-u-production-this-week" target="_blank"><u>报道</u></a>，任天堂将于本周停产Wii U主机，产品的最后一批订单将在本周完成履行。这一传闻与今年早些时候的报道一致，但当时停产的消息遭到了任天堂的公开否认。Wii U是任天堂历史上最短命的主机之一，该公司已经宣布了下一代主机 Nintendo Switch。Wii U共生产了大约1400万部，相比之下上一代的Wii 售出了1.01亿部，而索尼的PS4售出了4700万部。
+➜Gitless：让Git更易于使用
+https://www.solidot.org/story?sid=50217	27757
+开源分布式版本控制系统Git在程序员中间有着两极分化的声誉：它被认为是帮助跟踪代码变化的强大工具，但另一部分人认为它太难用了。MIT计算机科学和人工智能实验室的研究团队<a href="http://news.mit.edu/2016/gitless-making-it-easier-to-collaborate-on-code-1025" target="_blank"><u>开发</u></a>了<a href="http://gitless.com/" target="_blank"><u>Gitless</u></a>，让Git对用户更友好更易于使用，同时也不作任何根本性的改变。研究人员通过观察编程问答社区StackOverflow上2400多个与Git相关的问题，概括出Git最主要的问题，然后提出旨在最小化这些问题的改变。Gitless是基于Git的实现，用户无需迁移代码就能在两者之间切换。他们的<a href="http://people.csail.mit.edu/sperezde/pre-print-oopsla16.pdf" target="_blank"><u>论文</u></a>（PDF）将在本月举行的ACM SIGPLAN会议上发表。研究人员认为，他们改进软件可用性的方法适用于其它软件系统，如Dropbox 和 Google Inbox。Gitless的主要改变是隐藏了暂存区域（staging area）和移除了储存（stashing）概念。
+➜为什么Windows文件系统压缩性能很烂
+https://www.solidot.org/story?sid=50218	30660
+Windows操作系统的文件系统压缩性能要远落后于专门的文件压缩软件如Winzip，微软资深程序员、《Old New Thing》作者Raymond Chen<a href="https://blogs.msdn.microsoft.com/oldnewthing/20161101-00/?p=94615" target="_blank"><u>对此解释说</u></a>，文件系统的压缩算法必须是系统独立，也就是不能根据你运行的机器改变压缩算法。所以在考虑性能指标和确保在一个系统压缩的文件能被任何系统读取的要求下，微软选择了一个比较弱的压缩算法。Raymond Chen称，影响压缩算法选择的一个限制因素是 Alpha AXP处理器， Alpha AXP的位操作指令比较弱，在不拖慢系统的情况下他们选择的压缩流编码最小单元是半字节。他说，Windows 已经停止支持Alpha AXP，在理论上微软可以选择压缩比更高的算法了，但如今我们生活在一个可以用120美元从新蛋上购买到5TB容量硬盘的时代，而很多文件格式已压缩了，所以文件系统压缩无需再提高，“我们生活在一个后文件系统压缩的世界”。
+➜移动浏览首次超过了桌面浏览
+https://www.solidot.org/story?sid=50219	31604
+根据互联网监视公司 StatCounter的数据，移动浏览流量<a href="https://hardware.slashdot.org/story/16/11/01/1840229/mobile-browsing-just-overtook-the-desktop-for-the-first-time" target="_blank"><u>首次超过了桌面浏览流量</u></a>：来自手机和平板设备的流量占到了51.3%，而来自桌面计算机的流量占48.7%。StatCounter CEO Aodhan Cullen相信这一数据对那些将移动优化视为二等公民的专业人士敲响了警钟。他说，移动兼容性正日益变得重要，这不仅是因为移动流量的增长，而且Google的移动搜结果也更偏向对移动友好的网站。
+➜因隐私担忧 Firefox 移除对电池状态API的支持
+https://www.solidot.org/story?sid=50220	32863
+2015年8月，隐私专家发表了一篇论文《<a target="_blank" href="http://eprint.iacr.org/2015/616.pdf"><u>The leaking battery</u></a>》，指出
+HTML5电池状态API( Battery Status API)存在隐私风险，可被用于作为设备指纹<a href="http://www.solidot.org/story?sid=45012"><u>跟踪用户</u></a>。上个月底，Firefox <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1313580" target="_blank"><u>移除了</u></a>对电池状态API的支持。苹果Safari浏览器使用的开源引擎WebKit随后也跟着<a href="https://bugs.webkit.org/show_bug.cgi?id=164213" target="_blank"><u>停止支持</u></a>电池状态API。这可能是首次浏览器开发商因为隐私风险报告决定<a href="https://www.theguardian.com/technology/2016/nov/01/firefox-disable-battery-status-api-tracking" target="_blank"><u>减少功能</u></a>。
+➜微软停止向OEM厂商出售Windows 7和8.1
+https://www.solidot.org/story?sid=50221	34089
+微软<a href="https://hardware.slashdot.org/story/16/11/01/1625209/microsoft-stops-selling-windows-7-and-windows-81-to-computer-makers" target="_blank"><u>停止</u></a>向OEM厂商出售Windows 7专业版和Windows 8.1的许可证。这意味着，从现在开始你只能从现有存货中购买到运行Windows 7或8.1的电脑了。微软是在两年前宣布停止向OEM厂商出售Windows 7家庭版、家庭高级版、旗舰版的许可证，现在Windows 7专业版和8.1也不可选了，Windows 10成了唯一的选择。此举意味着微软正试图让所有的Windows 电脑只能运行Windows 10。
+➜W3C 发表 HTML 5.1 推荐规格
+https://www.solidot.org/story?sid=50222	38762
+负责制定Web标准的World Wide Web Consortium (W3C)正式发表了<a href="https://www.w3.org/blog/news/archives/5932"><u>HTML5.1推荐规格</u></a>，规格定义了HTML语言第五大版本的第一个小版本。W3C已在着手制定下个版本<a href="https://www.w3.org/TR/html52/" target="_blank"><u>HTML5.2</u></a>。大部分浏览器已经实现或即将实现HTML5.1引入的新特性和变化。根据HTML5.1<a href="http://w3c.github.io/test-results/html51/implementation-report.html" target="_blank"><u>实现报告</u></a>，Edge/IE在实现进展上要落在Chrome和Firefox后面。
+➜德国阻止中国收购爱思强，中国发出警告
+https://www.solidot.org/story?sid=50223	40147
+中国福建宏芯基金今年上半年<a href="http://www.solidot.org/story?sid=48322" target="_blank"><u>宣布</u></a>以6.76亿欧元收购德国芯片生产商爱思强（Aixtron），上周德国经济部<a href="http://www.dw.com/zh/%E5%8A%A0%E5%B8%83%E9%87%8C%E5%B0%94%E5%91%BC%E5%90%81%E5%85%AC%E5%B9%B3%E4%B8%8D%E4%BC%9A%E7%89%BA%E7%89%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BC%81%E4%B8%9A/a-36151812" target="_blank"><u>撤回了</u></a>同意其收购爱思强的批准令，令交易生变。德国经济部担心这项收购会导致与安全相关的技术，尤其是与国防相关的技术公开，而德国经济部长加布里尔则指德国企业在中国没有得到同等的机会。本周三，中国政府<a href="http://cn.wsj.com/gb/20161102/biz173314.asp" target="_blank"><u>警告称</u></a>，德国作出撤回批准中国企业收购芯片生产商爱思强的决定将不利于中德两国的经贸合作大局，并表示，德国对中国企业赴德投资并购的担忧是不必要的。商务部发言人沈丹阳称，中国政府尊重各国在其法律框架下开展安审，同时也希望在安审中提高透明度，明确判断标准，给予各方投资者平等待遇。
+➜科学家发现人类细胞和中子星有相似结构
+https://www.solidot.org/story?sid=50224	41495
+<div align="center"><img src="http://img.solidot.org/0/943/liN1NrVT4irl6.jpg" align="" height="192" width="450"><br>
+</div>
+<br>
+人类与宇宙保持一致的地方可能比我们以为的要更多。根据发表在《 Physical Review C》期刊上的<a href="https://journals.aps.org/prc/abstract/10.1103/PhysRevC.94.055801" target="_blank"><u>一项研究</u></a>，科学家发现细胞质和中子星<a href="http://phys.org/news/2016-11-scientists-similarity-human-cells-neutron.html" target="_blank"><u>有着相似的结构</u></a>：该结构类似多层室内停车场（如图所示，a是细胞质，b是中子星）。2014年，UCSB软凝聚-物质物理学家Greg Huber和同事探索了一种被称为寺崎斜坡（Terasaki ramps）的细胞结构，该结构以发现者Mark Terasaki的名字命名。他以为这种结构在类似细胞内部的软物质中是独一无二的，直到他偶然了解到了核物理学家Charles Horowitz 的研究。利用计算机模拟，Horowitz的团队发现中子星内部有着类似的结构。软硬物质结构的相似性引起了物理学家的浓厚兴趣。
+➜Wix被发现偷了WordPress的GPL代码
+https://www.solidot.org/story?sid=50225	42511
+上周五， WordPress 的创始人 Matt Mullenweg 发表<a href="https://ma.tt/2016/10/wix-and-the-gpl/" target="_blank"><u>公开信</u></a>，指责博客网站 Wix 的开发商窃取WordPress 编辑器的开源代码用于其闭源移动应用，侵犯了 WordPress 代码采用的GPL许可证。他指责Wix没有注明出处、来源和遵守许可证的情况下拷贝了 WordPress 的代码，连 bug 都拷贝得一模一样。他指责对方连公司的名字 Wixpress 实际上也是抄袭了 WordPress 。Wix CEO 兼联合创始人 Avishai Abrahami 回应了 Mullenweg 的指责，<a href="http://www.wix.com/blog/2016/10/dear-matt-mullenweg-an-open-letter-from-wix-coms-ceo-avishai-abrahami/" target="_blank"><u>否认侵犯GPL</u></a>，称 WordPress 编辑器的代码最早是在授权更宽松的MIT许可证下发布的。专家认为<a href="http://arstechnica.com/information-technology/2016/11/wordpress-and-wix-trade-shots-over-alleged-theft-of-open-source-code/" target="_blank"><u>这是一起典型的GPL侵犯案例</u></a>。
+➜研究称暗网中的大部分活动是合法而平凡的
+https://www.solidot.org/story?sid=50226	45997
+暗网，顾名而思义，听起来是互联网上一个黑暗的角落。主流媒体报道过很多与暗网相关的毒品或儿童色情案件。但Terbium Labs的一项研究<a href="http://www.digitaljournal.com/pr/3126193" target="_blank"><u>发现</u></a>，暗网和明网并无本质上的区别，大部分的暗网活动是合法的，大约55%的暗网内容是合法的。Terbium Labs的分析主管Emily Wilson说，他们所发现的是暗网并没有我们想象的那么黑暗。对暗网的研究过多的关注了非法活动而不是合法内容的存在。匿名并不意味着犯罪，色情内容虽然突出但不是所有都非法的，毒品是个流行的主题，45%的非法内容都是与毒品有关。
+➜电动滑板火灾受害者起诉亚马逊
+https://www.solidot.org/story?sid=50227	46876
+电动滑板是去年炙手可热的产品，但很快因为起火隐患而被召回和停售。美国 Nashville市 的一对夫妇就是电动滑板火灾的受害者，他们的房屋被烧毁，一对子女也差点死于火灾。他们是从亚马逊网站一家叫W-Deals的店铺购买了电动滑板，但如今根本找不到店主，W-Deals注册地址是纽约布鲁克林的一栋公寓楼。所以他们转而起诉了为这家店提供销售平台的亚马逊，<a href="http://arstechnica.com/tech-policy/2016/11/hoverboard-catches-fire-destroys-familys-1m-home-they-sue-amazon/" target="_blank"><u>寻求赔偿3000万美元</u></a>。他们的房屋估值100万美元，包括其它财产损失大约190万美元。

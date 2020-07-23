@@ -1,0 +1,45 @@
+➜研究发现不平等加剧并非全球化所致
+https://www.solidot.org/story?sid=61845	13214
+花旗全球首席经济学家的 Catherine Mann 的研究<a href="https://www.ft.com/content/c8eacdfa-c375-11e9-a8e9-296ca66511c9"><u>发现</u></a>，过去 10 年全球化停滞，不应将金融危机以来出现的不平等加剧归咎于全球化。报告发现，与全球化相比，技术和消费从商品向服务转移是发达经济体制造业岗位流失的更大原因。报告显示，贸易在全球产出中的占比从 1980 年代起开始加速增长，但最近十年陷入停滞，并开始下降，反映了多边贸易协定的崩溃和越来越多的国家正在实施的贸易保护主义措施。作者认为，全球化在全世界倒退将导致 “以更糟糕的分配方式分割一个更小的经济蛋糕”。全球供应链解体可能会使较贫穷国家更难在全球贸易中获得立足点、并提高生活水平。
+➜流行 Javascript 库在安装时展示广告
+https://www.solidot.org/story?sid=61846	16028
+如何支持开源开发者？捐赠还是广告？多个流行的 NPM JS 库选择了广告，core-js 的作者通过广告<a href="https://github.com/zloirock/core-js/issues/548"><u>推销自己</u></a>，而 Standard 的作者则决定在安装时<a href="https://github.com/standard/standard/issues/1381" target="_blank"><u>展示广告</u></a>，这些做法都引发了<a href="https://news.slashdot.org/story/19/08/25/1813213/standard-a-javascript-style-guide-library-with-3m-downloads-per-month-now-showing-ads-when-installed-via-npm"><u>争议</u></a>。Standard 是一个 Javascript 风格指南库，每月下载量大约 300 万次，开发者 Feross Aboukhadijeh 表示这是一项实验，旨在找到支持开源开发的可持续方法。他表示，在安装 Standard 14 会展示赞助商的信息，赞助费用直接支付了维护时间，包括新功能、修正、回答用户提问和改进文档。
+➜7 纳米和 14 纳米 CPU 的超频差异
+https://www.solidot.org/story?sid=61847	17119
+DragonFly BSD 项目负责人 Matthew Dillon 在个人博客上谈论了<a href="http://apollo.backplane.com/2019-Zen2Missive.html"><u> AMD 的 Zen 2 CPU</u></a>，分析了台积电 7 纳米节点和英特尔 14 纳米+++...节点芯片在超频上的差异。因为物理节点的差异，英特尔 14 纳米节点的温度和频率并非线性相关，超频 9900K 到它的温度上限之后可以继续增加更多功率去获得更高的频率。但 7 纳米的 Zen 2 不是这么工作的，它的温度和频率是直接线性相关的，提高频率会带来温度的上升。在 Zen 2 系统上，超频的关键是用冷却器降低温度而不是增加功率。另一个差异是提升单核的频率。作者认为，随着英特尔工艺节点的改进，芯片巨人也将会面临相同的温度频率关联问题，增加功率去实现超频将走入死胡同。
+➜超级火山爆发是人类最大的自然威胁
+https://www.solidot.org/story?sid=61848	18379
+人类面临的灭绝风险有很多，比如行星撞击地球、核战争、或者超级火山喷发。在一个人的生命中，它们发生的可能性都不高。虽然小行星备受媒体和迈克尔・贝 (Michael Bay) 电影的关注，但存风险专家们在很大程度上同意，<a href="https://cn.nytimes.com/opinion/20190823/supervolcano-yellowstone/" target="_blank"><u>超级火山才是人类灭绝的最大自然威胁</u></a>，地球上分布着 20 座超级火山。爆发的可能性都不大。黄石公园在任何一年里发生超级喷发的概率是 73 万分之一。但非常不可能并不等于完全不可能，尽管人类的天性就是把两者混为一谈。将生存风险与日常危险区分开来的不是可能性，而是后果。
+➜《中华人民共和国药品管理法》修订版通过
+https://www.solidot.org/story?sid=61849	20071
+人大常委会<a href="https://finance.sina.com.cn/roll/2019-08-26/doc-ihytcern3577704.shtml" target="_blank"><u>批准了</u></a>修定的《中华人民共和国药品管理法》，将于 12 月 1 日开始施行。新修订的法律对何为假药劣药，作出重新界定。第九十八条中明确规定，假药包括：所含成份与国家药品标准规定的成份不符的药品，以非药品冒充药品或者以他种药品冒充此种药品，变质的药品，所标明的适应症或者功能主治超出规定范围的药品。未经批准进口少量境外已合法上市的药品，情节较轻的，可以依法减轻或者免予处罚。此前，中国患者代购的印度仿制药常<a href="https://www.solidot.org/story?sid=36323" target="_blank"><u>被视为假药扣押</u></a>，代购人士也曾遭到逮捕。新法律略微放宽了海外代购，但并没有放开。
+➜英国警方计划出售扣押的黑客比特币去赔偿受害者
+https://www.solidot.org/story?sid=61850	27188
+英国警方扣押了一名已定罪黑客价值 110 万美元的比特币，它<a href="https://www.zdnet.com/article/police-to-sell-hackers-1-1-million-bitcoin-stash-to-compensate-victims/" target="_blank"><u>计划出售比特币去赔偿受害者</u></a>。 Grant West 在 2017 年 9 月被捕，12 月认罪，今年初法庭判处了他十年零八个月徒刑。当局称，West 使用名叫 Sentry MBR 的工具对 17 家公司发动暴力攻击，窃取用户帐户，然后在暗网出售。在被捕前他用化名 Courvoisier 在暗网进行了 4.7 万次交易。他还在暗网出售大麻。他做这一切使用的都是女友的笔记本电脑，警方在笔记本电脑上发现了超过 10 万用户的详细信息，他们还在一个 SD 卡发现了 7800 万个人用户名和密码，以及 6.3 万信用卡和借记卡信息。他的大部分交易都是使用比特币。他最初不想放弃比特币，但法官告诉他如果不放弃其刑期将会增加四年。
+➜Linux Kernel 宣布 28 周年
+https://www.solidot.org/story?sid=61851	28648
+1991 年 8 月 25 日， 21 岁的芬兰学生 Linus Benedict Torvalds 在 comp.os.minix 新闻组里<a href="https://groups.google.com/forum/#!original/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ" target="_blank"><u>宣布了</u></a> Linux 项目，声称它只是一个业余性质的项目，不会像 gnu 那样庞大和专业。他并没有在这天发布 Linux，而是在 9 月 17 日向一部分朋友私下公开了 Linux，当时只有一到两个人下载，首个公开发布的版本 Linux 0.02 是在 10 月 5 日，首个不需要 Minix 的独立版本是在当年圣诞节发布的 <a href="https://www.cs.cmu.edu/~awb/linux.history.html"><u>0.11</u></a>。近三十年后的今天，<a href="https://www.androidauthority.com/linux-1022218/"><u>Linux 已经统治了世界</u></a>：绝大部分服务器运行的都是 Linux；基于 Linux 的 Android 是目前最流行的操作系统，运行在超过 20 亿台设备上；NASA 国际空间站上的大部分计算机运行的是 Linux；, SpaceX 的 Dragon 飞船和 Falcon 9 火箭也是运行 Linux。
+➜智能烤箱夜间激活预加热到 400 度
+https://www.solidot.org/story?sid=61852	31316
+至少三位智能烤箱 June Ovens 的客户报告烤箱在午夜激活<a href="https://www.theverge.com/2019/8/14/20802774/june-smart-oven-remote-preheat-update-user-error"><u>预加热到华氏 400 度</u></a>。客户不知道是什么原因导致的，而 June 公司则声称这通常是客户的错误导致的，该公司计划释出更新进行补救，防止问题再次发生。烹饪设备是火灾的一个重要源头。一位客户称他的烤箱在凌晨 2:30AM 激活，家中的 Nest 摄像头记录下了激活的时刻：黑暗中烤箱突然变亮了。June Oven 于 2015 年上市，使用摄像头和计算机视觉技术去识别放置在里面的食物，第一代售价 1,495 美元，2018 年上市的第二代只要 599 美元。June CEO Matt Van Horn 辩解说，他们看到很多情况是用户的误操作导致的，他说，想象下打开 June 应用浏览菜谱，无意中点击了预热烤箱，很多意外都是这样发生的。
+➜《魔兽世界》经典怀旧服上线
+https://www.solidot.org/story?sid=61853	35129
+《魔兽世界》经典怀旧服<a href="https://www.bbc.co.uk/news/technology-49448935"><u>今天上线</u></a>，<a href="https://wow.blizzard.cn/minisite/classic"><u>中国版</u></a>是明天早上 6 点，英国是周一当地时间 23:00。《魔兽世界》于 2004 年发布，之后变化巨大，它最多的时候有 1200 万活跃玩家。经典怀旧服与原版并非完全一致，而是复制了原版的大部分功能，战斗机制、角色模型、技能树、玩家互动与原版保持一致。准备重返艾泽拉斯的英国老玩家的表示，他们会去看看，但可能没有太多时间投入进去了。暴雪制作人 Harding-Rolls 称，对多年前离开的玩家来说，经典服是一次怀旧之旅；对晚些时候进入的玩家而言则是一次新体验。他承认大部分玩家可能会在一两个月内享受下旧的记忆，之后就会离开。
+➜开源峰会 FreeBSD 相遇 Linux
+https://www.solidot.org/story?sid=61854	37419
+在上周 Linux 基金会主办的<a href="https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/"><u>圣迭戈开源峰会</u></a>上，FreeBSD 基金会执行董事  Deb Goodkin 接受了<a href="https://www.tfir.io/2019/08/24/freebsd-meets-linux-at-the-open-source-summit/"><u>采访</u></a>（视频）谈论了 FreeBSD 项目和基金会。采访者开玩笑的问 Linux 基金会怎么让 FreeBSD 基金会的人进来的，Goodkin 开玩笑的回答，他们没有意识到 FreeBSD 不是 Linux 发行版；严肃的说，Linux 社区欢迎 FreeBSD 社区，想要在开源对话中包含 FreeBSD 的声音。 FreeBSD 基金会成立于 2000 年，Goodkin 是在 2005 年加入基金会负责日常运行，基金会是 501(c)(3) 公共慈善机构，相比下 Linux 基金会是一个  501(c)(6) 行业协会。FreeBSD 项目有约 400 名贡献者，它以出色文档闻名。FreeBSD 源自于早期的 Berkeley Unix 项目，部分在 Berkeley Unix 项目上工作的人<a href="https://bsd.slashdot.org/story/19/08/25/1637253/some-original-berkeley-unix-pioneers-still-work-on-the-freebsd-project" target="_blank"><u>仍然参与 FreeBSD 项目</u></a>。
+➜转基因作物种植面积继续增长
+https://www.solidot.org/story?sid=61855	40829
+国际农业生物技术应用服务组织（ISAAA）<a href="https://www.thepaper.cn/newsDetail_forward_4258113"><u>发布了</u></a>《2018 年全球生物技术 / 转基因作物商业化发展态势》（下称 “报告”），2018 年全球 26 个国家种植了 1.917 亿公顷转基因作物，比 2017 年的 1.898 亿公顷增加了 190 万公顷，增幅比例为 1%。2018 年是转基因作物商业化的第 23 年，除 2015 年的种植面积有所下降以外，这是第 22 个增长年份。从全球范围来看，转基因大豆仍是最主要的转基因作物，美国、巴西、阿根廷、加拿大和印度这五大转基因种植大国对转基因作物的平均应用率已接近饱和；亚太地区仍以种植非人类直接食用的棉花为主。中国种植了 290 万公顷转基因棉花和木瓜。
+➜腾讯推出车载版微信
+https://www.solidot.org/story?sid=61856	40901
+腾讯与长安汽车合作<a href="https://www.thepaper.cn/newsDetail_forward_4256230"><u>推出了车载版微信</u></a>。微信是目前中国最流行的消息应用。车载版由腾讯微信团队主导设计研发，腾讯车联团队协同打造。为保障用户行驶安全，微信车载版只提供驾驶环境中最常用的功能：消息播报与回复、查看未读消息、发送消息以及语音通话。没有提供刷朋友圈、看公众号、发红包、发表情包等功能。可以实现全语音交互和方向盘上的按键进行操作。
+➜美国企业难以离开中国
+https://www.solidot.org/story?sid=61857	44517
+特朗普命令美国企业离开中国，这是否可行？从短期来看，<a href="https://cn.nytimes.com/business/20190826/trump-china-trade/"><u>这并不可行</u></a>。美国企业与中国紧密相联，解除这种关系将是一个充满混乱的过程，并有可能对全球经济造成破坏性的影响。但是，长期的转移已在进行中。美国的关税以及华盛顿与北京之间日益紧张的关系，正迫使许多企业重新考虑它们对中国的依赖。然而，中国提供的便利，以及庞大且不断增长的消费市场，让许多企业很难将其彻底放弃。中国是生产种类繁多的商品效率最高的地方。中国已经建起了小工厂的庞大网络，为大工厂提供必要的零部件。中国有数以亿计的劳动力，他们知道如何在装配线上工作。中国有高速铁路、平坦的高速公路，以及高效的港口，可以可靠地将货物从工厂运往世界各地。全球四分之一的制成品是中国制造。这在短期内是无法取代的。
+➜中国黑客搜寻医疗数据库
+https://www.solidot.org/story?sid=61858	47319
+安全公司 FireEye <a href="https://www.wired.co.uk/article/china-hackers-medical-data-cancer"><u>报告</u></a>，多个中国黑客组织正以医疗系统和数据库为目标。该公司称，最近几年与中国有关联的黑客组织  APT41、APT22、APT10 和 APT18 被观察到在尝试获取医疗数据。FireEye 首席分析师 Luke McNamara 称中国黑客尝试获得临床试验数据、研究情报和医疗设备的知识产权。比如最近黑客瞄准了一家专注于癌症研究的美国医疗中心，APT41 在 2015 年攻击了正被收购的一家生物技术公司。研究人员认为这些目标与中国的 2025 年计划相一致。
+➜SpaceX 建议火箭发射基地周围居民暂时离开
+https://www.solidot.org/story?sid=61859	48241
+SpaceX 准备测试它的火星火箭飞船系统原型，它通过当地的警长挨家挨户向发射基地周围居民发出<a href="https://www.businessinsider.com/spacex-starhopper-launch-sheriff-issues-explosion-risk-safety-warning-notice-2019-8"><u>警告通知</u></a>，建议居民采取行动，暂时离家。通知称火箭有可能造成“超压事件”。也就是火箭可能会在测试中发生爆炸，爆炸产生的冲击波会创造所谓的超压事件，破坏门窗。因此出于谨慎考虑 SpaceX 建议居民离开或在测试期间远离建筑物避免被砸伤或减少受伤风险。SpaceX 最近的一次发射无意中点燃草地引发了一场火灾。

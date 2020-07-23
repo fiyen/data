@@ -1,0 +1,85 @@
+➜Rails 2.1发布
+https://www.solidot.org/story?sid=6449	600
+<a href="http://weblog.rubyonrails.org/2008/6/1/rails-2-1-time-zones-dirty-caching-gem-dependencies-caching-etc">Rails 2.1</a>已正式提供给广大开发者，新版包含了许多新特性和自2.0公布6个月以来发现的bug修正。有1400多名开发者贡献了补丁，一共发布了1,600+的补丁，多数随新版一同发布。主要的新特性是：时区（Geoff Buesing开发）；脏跟踪（dirty tracking），Gem Dependencies，named scope，基于UTC的数据迁移，更好的缓存。你现在可以用gem install rails安装，或者使用<a href="http://github.com/rails/rails/commits/v2.1.0">Git tag for 2.1.0</a>。
+➜奥巴马竞选团队寻找LAMP开发者
+https://www.solidot.org/story?sid=6450	3600
+<a href="http://news.slashdot.org/article.pl?sid=08/05/31/2341201">/.</a>报道，目前势头最旺的美国民主党总统候选人巴拉克奥巴马（Barack Obama）竞选团队正在寻找<a href="http://my.barackobama.com/page/s/techinterest">LAMP（Linux、Apache、MySQL和PHP）开发者</a>，奥巴马的官方网站使用的是Linux/Apache服务器，主机商GoDaddy；<a href="http://www.hillaryclinton.com/">希拉里克林顿官方网站</a>使用的是Windows/IIS服务器，主机商Rackspace。奥巴马竞选团队还在<a href="http://my.barackobama.com/page/s/sectechinterest">寻找安全专家</a>，以便补上允许黑客重定向网站的漏洞。
+➜140字符的获奖小说
+https://www.solidot.org/story?sid=6451	5100
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "Copyblogger举办的<a href="http://www.copyblogger.com/twitter-writing-contest-winners/">twitter写作比赛获奖名单</a>发布了。该项比赛要求写一篇140字符的小小说，不多不少，要刚好140字符（这正好是一条Twitter短消息的字符数）。<a href="http://smithereensblog.blogspot.com/2008/05/all-331-entries-to-copybloggers-twitlit.html">共有300余篇作品</a>参赛。第一名是<a href="http://twitter.com/rgouldtx/statuses/818253230">Ron Gould写的的一篇科幻小说</a>：
+<i>"Time travel works!" the note read. "However you can only travel to the past and one-way." I recognized my own handwriting and felt a chill.<br>
+“时光旅行是真的”，纸条上写道，“然而你只能单程回到过去”。当发现那是我自己的笔迹时我不寒而栗。(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K374.aspx">中译</a>)</i>
+➜凤凰号任务刚开始就已经完成?
+https://www.solidot.org/story?sid=6452	7200
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "<i>凤凰号的一个主要任务就是在火星北极地寻找水冰。而<a href="http://www.nasa.gov/mission_pages/phoenix/news/phoenix-20080531.html">这项任务现在被发现甚至不费机器人一钻一铲可能就已经完成了</a>！凤凰号传回的照片在增强处理后显示，地质机器人的着陆腿下就有一团怀疑为水冰的物质。科学家相信这些冰是被凤凰号尾部引擎在降落时，剥离了表面土层而露出火星地表的。
+</i>
+<a href="http://spaceweather.com/swpod2008/31may08/ice1_anim.gif">点此查看对比度增强处理后的照片</a>"
+➜向Jim Gray致敬
+https://www.solidot.org/story?sid=6453	9600
+<a href="http://www.mingli-yuan.info/">Mountain</a> 写道<i> "5月31日在UC Berkeley举行了由IEEE、ACM和UC Berkeley联办的“<a href="http://www.eecs.berkeley.edu/IPRO/JimGrayTribute/index.html">向Jim Gray致敬</a>”的会议。Jim Gray于去年1月28日在海上失踪，他之前获得了1998年ACM的图灵奖，他还曾获IEEE的Charles Babbage奖。"</i>
+➜微软警告：苹果Safari浏览器存在安全
+https://www.solidot.org/story?sid=6454	11100
+<a href="http://www.moshouzhengba.org/">魔兽秘籍</a> 写道 "6月1日消息，微软周五发出警告称，微软正在调查安装苹果Safari网络浏览器后Windows XP或Windows Vista系统可能存在的远程代码攻击混合威胁。<br> <br>　　据国外媒体报道，雅虎称攻击者可能诱骗用户访问存在恶意脚本的某一站点，从而通过安全漏洞发动攻击，比如可以在用户不知情的情况下下载恶意软件并安装运行。<br> <br>　　微软安全应急通信部门主管提姆·瑞恩斯在声明中表示，“在默认情况下Safari并不会安装到Windows XP或Windows Vista操作系统中：Safari的安装一定是独立进行的，或通过苹果软件升级程度完成的。”<br> <br>　　今年3月，作为iTunes音乐商店升级的一部分，苹果打算使Safari浏览器成为Windows操作系统的默认应用，然而这一行动引起了业界大量批评的声音。火狐浏览器开发商Mozilla基金会首席执行官约翰·利莉表示，苹果的这一决定“与传播恶意软件别无二致”。<br> <br>　　微软就此发表了一份安全建议，对这一安全风险做了解释，并提供规避风险建议。微软称，用户在对Safari的默认下载位置修改之后就不存在安全风险了。<br> <br>　　安全研究人员尼特什·达杰尼将这一安全风险称之为Safari Carpet Bomb(地毯轰炸)威胁，“恶意网站可能利用该漏洞向Windows系统填大量充恶意软件，或下载指令列表。”<br> <br>　　达杰尼说：“之所以出现上述情况，是因为Safari并不要求在下载内容前得到用户的同意，Safari总是不经用户同意下载资源，并将其存储在默认地址(除非对默认地址进行修改)，所以用户可能对于下载到本地硬盘的大量恶意软件一无所知。”<br> <br>　　达杰尼透露，他已将发现的三个Safari漏洞向苹果进行了报告，苹果称将对其中之一进行修补。"
+➜为什么BitTorrent会导致延迟，如何解决这个问题
+https://www.solidot.org/story?sid=6455	19200
+每一位VoIP用户或在线游戏玩家都清楚，当室友或家人开始使用BitTorrent或其它P2P软件下载文件时，他就能体验到噩梦开始了。ping值（Round-Trip Latency，双程滞后）变大，信息包丢失，导致通讯或游戏不能继续进行下去。George Ou对此深有体会，他为此进行了一番研究，<a href="http://www.formortals.com/Home/tabid/36/EntryID/57/Default.aspx">为什么BitTorrent会引起严重的延迟</a>？他发现同样的速度，HTTP下载和FTP上传造成的延迟比BitTorrent要小得多，原因应该是BitTorrent有几十个乃至数百个数据来源，挤满了整个传输通道。他推荐的解决方法是修改P2P客户端，至少是限制上传，让其它应用程序能与P2P软件平等获得传输带宽。
+➜丹麦、巴西、南非和印度抗议OOXML被接受为ISO标准
+https://www.solidot.org/story?sid=6456	21600
+<a href="http://www.groklaw.net/article.php?story=20080531134006167">丹麦</a>、<a href="http://www.groklaw.net/article.php?story=20080523130503456">南非</a>、<a href="http://www.pcworld.com/businesscenter/article/146468/india_and_brazil_file_appeals_against_ooxml_standardization.html">巴西和印度</a>已经正式抗议OOXML被接受为ISO标准。根据ISO规定，在4月的投票结束后的两个月之内，会员有资格对结果提出起诉。在最终期限到来前，丹麦成为第4个国家提出了上诉的国家。<i>
+根据Groklaw翻译的丹麦原文，丹麦标准组织抱怨：ISO的规则被破坏，在丹麦没有取得多数赞同，ISO快速通道程序有问题。丹麦标准协会（DS）主任Jacob Holmblad 称将在本周亲赴日内瓦讨论OOXML相关问题。丹麦还抱怨微软的文档格式存在兼容性问题，XML Schema有缺失，最终的规格没有正式发布，存在自相矛盾的措词， ISO/DIS29500标准的维护问题还没有决定等等。</i>
+➜品客罐头的发明者葬于品客罐头
+https://www.solidot.org/story?sid=6457	25200
+品客罐头（Pringles Can）的发明者Fredric J. Baur博士对自己的发明是如此的自豪，以至他提出了别人听来奇怪的要求：去世后，<a href="http://news.enquirer.com/apps/pbcs.dll/article?AID=/20080531/NEWS0104/805310357/1060/NEWS01">要将骨灰葬在品客罐头里</a>。<i>
+Fredric J. Baur博士，宝洁公司研发和质量控制部门的一位退休有机化学家和食品存储技术专家，于2008年5月4日去世，享年89岁。家人遵照他的遗属，将部分骨灰放进品客罐头中，其余部分放在传统的骨灰瓮中。他开发过许多产品，包括煎炸油，冻干冰激凌....但品客罐头是他的最伟大成就，他在1970年获得品客罐头包装和包装法的专利。</i>
+➜中国的网络民兵
+https://www.solidot.org/story?sid=6458	28200
+最新一期的美国《National Journal》杂志用了<a href="http://www.nationaljournal.com/njmagazine/cs_20080531_6948.php">长篇幅描绘了可怖的中国网络民兵</a>，宣传来自中国的网络威胁论。文章称中国的黑客渗入了政府、企业和军事机构。并且暗示中国网络士兵可能卷入了最近发生的美国部分地区的电力中断事故。<i>
+中国的计算机黑客，其中包括一些为中国政府和军方工作的，已经深深的渗透进了美国公司和政府机构的信息网络，他们在美国公司行政主管前往中国召开商业会议之前窃取其私人信息。在一些案件中，中国黑客可能接管了美国的发电厂。美国政府和计算机安全专家称，最近在佛罗里达和东北地区发生的两起大范围电力中断事件可能就是中国网络士兵操控的。一名著名的专家Tim Bennett告诉《National Journal》，中国人民解放军（PLA）扮演了重要角色，美国情报机构官员曾告诉他PLA在2003年控制了美国东北地区的电网。
+</i>
+➜人脑控制机械义肢的一次巨大飞跃
+https://www.solidot.org/story?sid=6459	30600
+Dean Kamen在D6大会上展示了几个<a href="http://blog.wired.com/gadgets/2008/05/dean-kamens-rob.html">令人印象深刻的、大脑控制的机械义肢视频</a>。<i>
+Kamen发明的机械臂被命名为“卢克（Luke）”（猜想用的是星球大战天行者的名字），比目前截肢者使用的只能“抓”的机械臂先进无数倍。这个机械臂有许多关节，使用者可以像普通的手臂那样灵活的操纵，它非常灵敏，可以拣起一张纸，一个酒杯，甚至可以拿起葡萄（不捏碎它）。
+</i>
+<a href="http://link.brightcove.com/services/link/bcpid452319854/bctid1576332530">视频1</a>，<a href="http://www.youtube.com/watch?v=R0_mLumx-6Y">视频2</a>
+➜UML(统一建模语言)死亡的13个理由
+https://www.solidot.org/story?sid=6460	33000
+<a href="http://www.littletutorials.com/">Little Tutorials</a>的一篇文章断言：<a href="http://littletutorials.com/2008/05/15/13-reasons-for-umls-descent-into-darkness/">UML(统一建模语言)正在死亡</a>：<i>
+1.由一个委员会设计；
+2.他们老想着把UML转化成金钱；
+3.试图统一所有的东西包括厨房水池（规格文本大于800页）；
+4.想要一步登天，违反了程序员的认知；
+5.观念膨胀；
+6.总是在追赶新的语言和新的概念；
+7.UML试图成为一个程序语言；
+8.需要昂贵的工具；
+9.模式不清晰；
+10.真正的软件设计问题缺乏解决方法；
+11.在你写第一行代码前就假设你知道一切；
+12.对待软件开发就像对待制造业；
+13.UML工具针对了错误的目标。
+</i>
+➜史玉柱称将大举并购网络社区
+https://www.solidot.org/story?sid=6461	34920
+<a href="http://www.moshouzhengba.org/">魔兽秘籍</a> 写道 "　　5月29日上午消息，巨人网络董事长兼CEO史玉柱近日对外表示，今年将投入大量资源用于网络社区的建设与并购。原因是，他认为网络游戏社区化和网络社区游戏化是今年以来产业发展的重要趋势。<br> <br>　　史玉柱是在与投资者交流时作出上述表态的。<br> <br>　　他表示，目前在线人数曾经超过40万的网络游戏均表现良好，主要原因是自身形成了网络社区。玩家在游戏中不仅为了玩游戏，还因为有朋友而难以割舍。<br> <br>　　据悉，巨人网络从去年开始即非常重视加强《征途》、《巨人》两款自主研发产品的社区建设。《征途》推出资料片“同城约会”，《巨人》强调不同等级玩家配合的军团战玩法，以及推出男女玩家合作完成的任务等，都是在尝试营建良好的社区环境。<br> <br>　　另外，史玉柱认为许多社区类网站推出网络游戏也取得不错成绩，腾讯就是先有社区后发展网络游戏获得成功的典型案例。巨人网络在上市后拥有充足的现金储备，同时拥有强大的地面推广团队，可以通过购并一些社区类网站实现双赢。<br> <br>　　网络社区与网游产业结合的趋势，在国内最早一批网游企业中也有体现。盛大为了完善其网游战略布局，此前已相继投资起点中文网与文学原创网站晋江原创网。九城创始人朱骏一开始的思路即是做一个网络生活社区“第九城市”，只是社区概念在早期不成熟，九城“阴差阳错”做起了网游。<br> <br>　　史玉柱此番表态容易让人联想起近日一桩关于巨人网络将入股51.COM的传闻。有未经双方确认的消息称，巨人网络已持有51.COM大约40%股权，变身其最大的股东，并有增持到超过50%优先控股权。<br> <br>　　不过，史玉柱与51.COM创始人庞升东目前仍未正面回应该传闻。"
+➜中国2084
+https://www.solidot.org/story?sid=6462	36900
+《滚石》杂志了报道了<a href="http://www.rollingstone.com/politics/story/20797485/chinas_allseeing_eye/print">中国“金盾2.0”工程在深圳的试点情况</a>，它采用了IBM、GE和华为等公司的技术。金盾工程是一个极其庞大的工程，它包括了居民电子身份证、高清晰闭路电视网络和面部识别软件。虽然现在它还没有完成，但一旦实现，它将令英国的“伦敦监控系统”小巫见大巫。文章写道，“中国的居民将被昼夜不停的CCTV网络和远程监控计算机观察着，他们的电话交谈将被窃听，数字声音识别技术监控交谈双方。”....就像所有的美国零件中国装配，金盾2.0还将向国外出口。
+➜吃冰淇淋头疼的原因？
+https://www.solidot.org/story?sid=6463	82860
+<a href="http://www.yeeyan.com/">maoxinyu</a> 写道 "大部分人都曾经经历过那使人惧怕的因吃冰淇淋所引致的头痛。你正做着某些事情，同时吃着诸如沙冰、奶昔、雪糕之类的冰淇淋，然后突然之间被<a href="http://www.yeeyan.com/articles/view/33385/8905">一阵极其折磨人的头痛</a>所袭击！
+根据Temple大学的Joseph Hulihan教授所说，冰淇淋所引致的疼痛也即“脑袋结冰”是头痛所形成的最普遍的形式，它的发病率大约占随机抽的人口里面的1/3。"
+➜Facebook平台部分开源
+https://www.solidot.org/story?sid=6464	82860
+<a href="http://webabie.com/">blacktulip</a> 写道 <i>"在放出开源风声约一周后，Facebook今天正式把平台代码放出，官方下载地址为<a href="http://developers.facebook.com/fbopen/">http://developers.facebook.com/fbopen/</a>
+Facebook称此举是为了回报开源社区，但瞎子都知道，实际目的是为了对抗google，yahoo和myspace力推的opensocial平台。Facebook的源代码大部分采用Common Public Attribution License (CPAL)，除了FBML parser部分采用的是Mozilla Public License (MPL)。
+Facebook现有超过24000个应用，世界各地有超过40万开发者在为其开发应用程序，每天都有140个左右的应用上线。"</i>
+➜Google 发布实时 NASDAQ 股价查询网站
+https://www.solidot.org/story?sid=6465	82860
+<a href="http://www.comsharp.com/">35公里</a> 写道 "经过一年多的开发,<a href="http://googleblog.blogspot.com/2008/06/at-long-last-real-time-stock-quotes-are.html">Google 今早宣布</a>,<a href="http://finance.google.com/finance">Google Finance</a> 上线,为用户提供免费的 NASDAQ 实时股票价格查询服务。 <i> <a href="http://www.alleyinsider.com/2008/6/google_yahoo_s_real_time_stock_quotes_stink">Silicon Alley Insider</a> 的 Henry Blodget 撰文说，Yahoo! Finance 早些时候已经开始提供实时股价查询系统，现在，两家公司似乎在暗暗较力，看看谁的系统更实时，对我们而言，这更重要，更多的较量将集中在系统是否稳定，以及是否同时提供更多实时资讯上。</i>
+➜KDE 4.1 最新默认主题欣赏
+https://www.solidot.org/story?sid=6466	82980
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "就目前发布的 Linux 桌面环境来看，最新版的 KDE 是众多 Linux 桌面环境中最华丽的一个桌面环境，而且功能也相当的强大。开发中的 KDE 4.1每次改变都能给我们带来不少的惊喜，其最终版将在2008年7月29日发布。KDE 4.1外表的巨大变化都是有目共睹的，带了 Linux 全新的用户视觉体验。相信它的发布必将是 Linux 桌面环境一次革命性的变化！下面就来欣赏一下 <a href="http://www.ownlinux.cn/2008/06/02/kde-4-1-new-theme/">KDE 4.1 最新的默认主题吧。</a>"
+➜关于 Web 未来的思辩
+https://www.solidot.org/story?sid=6467	82980
+<a href="http://www.comsharp.com/">35公里</a> 写道 "今年6月11日，<a href="http://www.rpi.edu/">Rensselaer Polytechnic 学院</a>将和 Tetherless World Research Constellation 联合召开一次辩论会，探讨 Web 的未来。与会者将包括 Web 的发明人 Berners-Lee。论题将全部由普通用户提出，目前最受欢迎的论题包括：           <a href="http://tw.rpi.edu/twc/All/Semantic_Web_a_dream"> <strong>语意的 Web 是个梦吗？</strong> </a>  <br> <br>90年代后期互联网应用爆发的原因是，一个懂得适当技术的人可以通过 HTML 编码或 Web 编辑器创建网站，然而我所知道的语意 Web 的知识对非技术人员来说是令人费解的。Web 语言是否过于技术化而难以普及？在网站结构中运用语意技术的动机是什么？ <br> <a href="http://tw.rpi.edu/twc/Category1/Is_net_neutrality_essential_for_democracy">网络中立是否民主的根基？</a> <div> <br> <br>Berners-Lee 曾说，“网络中立性是民主的媒体基础”，大家是否同意？ <br> <br> <a href="http://tw.rpi.edu/twc/All/Muttilingual_Internet_Fracturing_or_Blossoming"> <strong>多语种互联网 - 兴起还是衰败？</strong> </a>  <div> <br> <br>互联网目前仍以英文为主，随着越来越多的人访问互联网，但其它语种的重要性正在凸显，我们将如何越过语言的障碍，你能预见一种翻译工具可以帮我们实现跨文化交流吗？ <br> <a href="http://tw.rpi.edu/twc/All/Can_you_imagine_the_future_of_the_world_wide_Web_without_the_Semantic_Web_What_would_such_a_world_wide_Web_look_like">你能想象将来一个没有语意的 Web 吗？这样的 Web 是什么样？</a> <div> <br> <br>如果 Berners-Lee 从未有过语意 Web 的思考，同时，诸如 RDF/S, OWL, SPARQL 一类的技术也没有发展起来，你认为 Web 发展到现在会是什么样？它的将来能？语意 Web 是否不可避免？<br>  <a href="http://tw.rpi.edu/twc/All/How_do_we_make_sense_of_the_proliferation_of_data_from_the_ever_growing_number_of_Users_social_activity_feeds">我们如何应对用户在社会网络中的数据爆炸？</a> <div> <br> <br>MySpace， Facebook 一类的社会网络，以及 Flickr, YouTube, Twitter 一类的应用产生的大量数据将用户包围，而用户没有有效的语意过滤，这将导致怎样的后果？ <br> <br> <br> <a href="http://tw.rpi.edu/twc/Category1/What_controls_should_be_in_place_on_the_Web_if_any"> <strong>我们是否应当对 Web 进行控制？</strong> </a>  <div> <br> <br>Berners Lee 曾说过，虽然他设计了 Web，Web 的全面发展却是成千上万的人各尽所能的结果。他曾不断呼吁真正开放的 Web，Web 需要代表任何思想，任何资料，任何观点，然而，多年来的儿童色情，恐怖主义，乃至于人类妄为都可以借助 Web 进行，我们是否应当对 Web 进行控制？ <br> <br>&#160; <br> <br>全部论题可以在以下地址获得：<a href="http://tw.rpi.edu/twc/published/top365days">http://tw.rpi.edu/twc/published/top365days</a>  <br> <br>&#160; <br> <br>本文国际来源：<a href="http://www.readwriteweb.com/archives/future_of_the_web_debate_needs_your_votes.php">http://www.readwriteweb.com/archives/future_of_the_web_debate_needs_your_votes.php</a> <br>中文编译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站</div> </div> </div> </div> </div>"

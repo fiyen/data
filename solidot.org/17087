@@ -1,0 +1,50 @@
+➜奇虎360拥有沃通和StartCom被调查
+https://www.solidot.org/story?sid=49975	5880
+<a href="http://www.percya.com/">Percy</a> 写道 <i>"奇虎360现在拥有沃通和StartCom两个根证书。因此Google和火狐开<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/TbDYE69YP8E" target="_blank">始调查奇虎360的劣迹</a>, Google已经列出了360卸载竞争对手软件，假装Windows系统更新，360浏览器完全没有办法防止中间人攻击，等等行为。现在已经有很多中国网友回帖揭露奇虎360 。<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/TbDYE69YP8E " target="_blank"><u>请大家也积极揭露</u></a>。"</i>
+➜兵马俑的灵感来自古希腊
+https://www.solidot.org/story?sid=49976	12071
+考古学家的最新研究<a href="http://www.bbc.com/zhongwen/simp/china/2016/10/161012_terracota_greek" target="_blank"><u>显示</u></a>，秦始皇帝陵墓里兵马俑可能从古希腊获得灵感；古希腊人甚至可能早在公元前3世纪就抵达秦国，培训了当地工匠。秦始皇帝陵博物院考古学家李秀珍说，“有证据表明，早在丝绸之路正式开通之前，始皇帝的中国跟西方就有密切接触。”另一项研究显示，在新疆发现的欧洲人线粒体DNA遗传密码表明，欧洲人可能在秦朝之前就在中国西部地区定居、繁衍。在秦兵马俑之前，中国没有大规模铸造真人大小塑像的传统。兵马俑出土的真人大小的塑像，在技术和风格上都跟之前只有20厘米高的粗制塑像相去甚远。李秀珍用外来影响解释这种差距。维也纳大学的Lukas Nickel教授认为，古希腊雕塑艺术流入中亚的时间可以追溯到亚历山大大帝（公元前323年去世）之后的一个世纪。
+➜为什么内核开发仍然使用电子邮件
+https://www.solidot.org/story?sid=49977	12298
+在日新月异的今天，Linux内核开发项目仍然依赖于古老的电子邮件和邮件列表。稳定内核维护者Greg Kroah-Hartman 指出，<a href="http://lwn.net/Articles/702177/" target="_blank"><u>电子邮件仍然是管理如内核这样庞大项目的最佳方法</u></a>。去年，Greg一个人就接受了9,781个补丁，而整个项目平均每小时接受8个补丁。他尝试过替代方法，但在对比之后认为电子邮件仍然是最好的方法。Greg试用过GitHub后认为它比较适合小的项目，对于大的项目并不好：它的pull request 讨论只向特定人开放，它需要网络访问，而开发者由于种种原因在工作时候未必能访问网络。Greg还测试了<a href="https://www.gerritcodereview.com/">Gerrit</a>，Google的Android项目就使用 Gerrit 管理，Greg认为 Gerrit 加大了补丁递交的难度。Greg列举了电子邮件的诸多好处：明文的邮件让任何人都能访问，非母语用户可以方便使用自动翻译工具翻译邮件内容，写脚本处理电子邮件发来的补丁也非常容易，开发者也无需学习新的接口，电子邮件很容易整合到其它系统。
+➜Google DeepMind 创造可微分神经计算机
+https://www.solidot.org/story?sid=49978	17816
+名叫神经网络的人工智能算法完全依赖于基于现有训练模型的模式识别，它不具有额外的记忆去储存和获取信息。现在，Google旗下的人工智能公司DeepMind<a href="http://spectrum.ieee.org/tech-talk/computing/software/googles-deep-mind-boosts-memory-to-navigate-london-underground" target="_blank"><u>创造了可微分神经计算机</u></a>（<span>differentiable neural computer</span><span>，DNC</span>），改进机器学习的能力，给予神经网络额外的记忆储存以后使用的信息。<a href="http://nature.com/articles/doi:10.1038/nature20101" target="_blank"><u>研究报告</u></a>发表在本周出版的《自然》期刊上。DNC能在没有先验知识的情况下解决各种小规模问题，比如在两个相距遥远的伦敦地铁车站之间规划最佳路线，或者厘清家谱上亲属之间的关系。DNC可以访问之前不兼容的外部数据。“麻烦在于，神经网络中的记忆被绑定在计算内部，这使得它相当脆弱，难以扩展，”DNC项目负责人Alex Graves表示。“我们得出结论，使其更强大的方法是分离记忆，以便我们可以扩展它，而不会影响处理器。”斯坦福大学心智、脑和计算中心主任Jay McClelland称<a href="http://www.ftchinese.com/story/001069696" target="_blank"><u>DeepMind的这篇论文</u></a>是“人工智能研究中非常有意思的重要里程碑”。
+➜病毒盗窃了黑寡妇的制毒基因
+https://www.solidot.org/story?sid=49979	18657
+名叫WO的病毒<a href="http://www.bbc.com/zhongwen/simp/science/2016/10/161012_black_spider_virus_gene" target="_blank"><u>被发现盗窃了</u></a>毒蜘蛛黑寡妇制造毒素的基因编码。<a href="http://nature.com/articles/doi:10.1038/NCOMMS13155" target="_blank"><u>研究报告</u></a>发表在《Nature Communications》期刊上。研究人员发现，WO携带的一些基因跟昆虫和蜘蛛携带的基因十分相近。研究人员猜测，WO 很可能需要借助这些基因的力量才能渗透到动物细胞里，进而袭击它要感染的细菌。WO属于噬菌体病毒，专门感染沃尔巴克氏体细菌；被WO感染的沃尔巴克氏体菌再去感染昆虫和蜘蛛的细胞。病毒“抄袭”了黑寡妇生成蛛毒素的基因编码。研究报告作者推测，偷基因编码的动机可能是拥有这种基因编码，WO就可以在细胞膜上打洞。这是WO病毒出入真核细胞的可能途径之一。WO抄袭的不仅是黑寡妇的基因编码，它的染色体内还发现若干其他基因。
+➜中国提议为保护未成年人预装过滤软件
+https://www.solidot.org/story?sid=49980	19580
+国家互联网信息办公室上月底公布了《<a href="http://www.cac.gov.cn/2016-09/30/c_1119656665.htm" target="_blank"><u>未成年人网络保护条例（草案征求意见稿）</u></a>》，意见递交截至日期10月31日。草案提议禁止未成年人在每日的0:00至8:00期间使用网络游戏服务，鼓励并支持研发、生产和推广未成年人上网保护软件，智能终端产品制造商在产品出厂时、智能终端产品进口商在产品销售前应当在产品上安装未成年人上网保护软件，或者为安装未成年人上网保护软件提供便利并采用显著方式告知用户安装渠道和方法。预装保护软件（即过滤软件）的要求如果严格执行的话，外国公司或许会被迫也使用中国的审查软件，而这类软件不受其控制，有可能成为中国政府用以进行监控的后门。这些规定可能影响所有在中国销售计算设备的生产商，包括苹果、戴尔和惠普等。 中国国家互联网信息办公室表示，为保障未成年人网络空间安全，将支持网络过滤软件的开发，并将确定哪些产品符合其要求。该草案是一系列要求科技公司帮助将中国网络过滤系统（名为防火长城）<a href="http://cn.wsj.com/gb/20161013/TEC113407.asp" target="_blank"><u>打造得更为严密而采取措施中的最新一个</u></a>。
+➜360再次否认参与防火长城项目
+https://www.solidot.org/story?sid=49981	25800
+2005年完成的<a href="http://gfwrev.blogspot.com/2010/01/blog-post.html" target="_blank"><u>搜索引擎安全管理系统</u></a>是前北邮校长在其<a href="http://www.bupt.edu.cn/content/content.php?p=1_5_42" target="_blank"><u>个人页面</u></a>列出重大科研成果之一，
+参与者除了方校长外，还有三际无限公司（即奇虎）的齐向东和石晓虹。齐向东是今天奇虎360的总裁，石晓虹是副总裁。该项目被普遍视为是奇虎参与防火长城的证据。但在2012年，奇虎360董事长周鸿祎通过微博<a href="http://tech.163.com/12/0703/08/85FOLDDR00094MOK.html" target="_blank"><u>公开否认</u></a>参与过防火长城项目。现在，在Mozilla的安全邮件列表，奇虎首席安全官谭晓生给出了更进一步的<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/TbDYE69YP8E" target="_blank"><u>说明</u></a>，他指出项目完成之日奇虎尚未成立：搜索引擎安全管理系统是在2005年2月完成的，而奇虎则是在2005年8月成立的。搜索引擎安全管理系统既不是防火长城的一部分，也不是由奇虎完成的，它实际上是雅虎中国本地化搜索工作的一部分。谭晓生声称他是当事人之一，因为他当时是雅虎中国技术团队的负责人，担任过工程总监和CTO。但为什么安管中心的负责人会参与该项目？
+➜Soylent 停售能量棒
+https://www.solidot.org/story?sid=49982	28874
+在多位客户报告食用 Soylent 能量棒后<a href="http://www.solidot.org/story?sid=49914" target="_blank"><u>出现了</u></a>不同程度的呕吐和腹泻反应后，作为预防措施，生产商 Rosa Labs <a href="http://blog.soylent.com/post/151720602057/update-on-soylent-bar" target="_blank"><u>决定停止销售和出货能量棒</u></a>。Rosa Labs 同时督促客户丢弃手中剩余的能量棒，它将通过电子邮件通知客户退款。Rosa Labs 称，它仍然在调查导致客户食用能量棒后出现不良反应的原因，但目前尚未找到，粉末和瓶装的Soylent 产品看起来没有受到该问题影响。他们对来自生病客户的能量棒的测试没有发现微生物污染。
+➜可乐生产商赞助了96个健康研究机构
+https://www.solidot.org/story?sid=49983	29768
+含糖饮料今天已被普遍认为会导致健康问题，但许多鼎鼎大名的健康科研机构对此问题长期保持沉默，刊登在《American Journal of Preventative Medicine》期刊上的<a href="http://www.ajpmonline.org/article/S0749-3797(16)30331-2/abstract" target="_blank"><u>一项研究</u></a>显示：因为它们拿了含糖饮料生产商的钱。从2011年到2015年，可口可乐和百事可乐公司<a href="http://arstechnica.com/science/2016/10/big-soda-is-buying-off-big-health-orgs-to-keep-profits-and-americans-fat/" target="_blank"><u>赞助了96家健康机构</u></a>，其中包括著名的美国糖尿病协会、美国心脏协会和美国营养学会。与此同时，来自含糖饮料生产商的说客成功遏制了约20项旨在保护公众健康的联邦和州的含糖饮料监管提议。2012年，当时的纽约市长布隆伯格提议禁售大杯的含糖饮料，可口可乐赞助的全美有色人种协会及其盟友递交了反对意见，尽管该市非洲裔美国人的肥胖比例高于平均水平。
+➜纽约市选举委员会长官在偷拍视频中承认民主党投票舞弊
+https://www.solidot.org/story?sid=49984	33148
+匿名读者 写道<i> "美国保守派组织Project Veritas的一名成员在去年的教师联盟圣诞晚会和民主党在纽约市的选举事务官Alan Schulkin谈话并偷偷录下<a href="https://www.youtube.com/watch?v=jUDTcxIqqM0" target="_blank" title="https://www.youtube.com/watch?v=jUDTcxIqqM0">视频</a>（对话中文<a href="https://www.zhihu.com/question/51494768/answer/126155267" target="_blank" title="https://www.zhihu.com/question/51494768/answer/126155267">翻译</a>）。Alan Schulkin在视频中<a href="http://www.washingtontimes.com/news/2016/oct/11/alan-schulkin-nyc-democrat-election-commissioner-a/" target="_blank" title="http://www.washingtontimes.com/news/2016/oct/11/alan-schulkin-nyc-democrat-election-commissioner-a/">承认</a>由于纽约法律没有规定投票要检验身份，所以民主党会组织少数族裔去重复投票，而且穆斯林可以穿着长袍蒙着脸来投票，政府无法确定这些人是不是真正的选民。他说选举中存在各种各样的舞弊，“你们的投票并没有什么用”。"</i>
+➜摄像机拍到野生黑猩猩母亲教孩子使用工具
+https://www.solidot.org/story?sid=49985	38232
+刚果共和国Nouabalé-Ndoki国家公园的摄像机首次拍到了野生黑猩猩母亲教她的孩子使用工具的视频。<a href="http://www.nature.com/articles/srep34783" target="_blank"><u>研究报告</u></a>及视频（<a href="http://www.nature.com/article-assets/npg/srep/2016/161011/srep34783/extref/srep34783-s2.avi" target="_blank"><u>视频1</u></a>，<a href="http://www.nature.com/article-assets/npg/srep/2016/161011/srep34783/extref/srep34783-s3.avi" target="_blank"><u>视频2</u></a>，avi格式）发表在《Scientific Reports》期刊上。传授知识是人类文化积累的重要组成，但在灵长类动物中间这种知识传授现象很少看到。录像显示了雌雄成年黑猩猩向技能缺乏的未成年黑猩猩传授如何使用工具刺探和收集洞穴里的白蚁，有助于我们更好的理解人类文化和技术的演化起源。
+➜微信公众号的刷阅读量现象
+https://www.solidot.org/story?sid=49986	41378
+《南方周末》<a href="http://www.infzm.com/content/120170" target="_blank"><u>发表</u></a>了多篇文章谈论了微信平台公众号的<a href="http://www.infzm.com/content/120163" target="_blank"><u>刷阅读量现象</u></a>。微信是中国最大的封闭式移动即时消息平台，一篇文章的阅读量是其在微信上受欢迎程度的关键指标，就像广告有刷点击量的，微信上也有刷流量的，微信上的刷流量市场价值据称高达数百亿元。然而在9月29日，因为微信接口升级和刷量程序升级之间存在时间差，很多公众号的阅读量因此出现了大幅下降，有公众号的阅读量甚至下跌了98%。《南方周末》的文章援引一位前微博水军从业者的话称，“能做水军工程师，找个月薪五万的工作不会有任何问题。水军的软件原理虽然很简单，但是技术难度高，而且是个大数据搜集的工作。所以水军的学历普遍挺高，国内某著名杀毒互联网公司就有工程师兼职干这个。”
+➜如果ET是AI ?
+https://www.solidot.org/story?sid=49987	42693
+近100年来，我们一直在向宇宙发出信号，表示我们的存在。今年人类向宇宙发出的最早的电视信号——1936年由纳粹德国举办的奥运会电视直播信号——已经越过了几颗潜在宜居的行星。而美剧《权力的游戏》第一季的信号也已经抵达了距离太阳系最近的恒星。为什么到现在都还没有外星人回应我们？一种可能的解释是：外星人或许和我们完全不一样。SETI的天文学家Seth Shostak说，“如果我们哪天真的探测到一个信号，我们不应该预期在望远镜的另一端的是某种柔软的原生质形态外星人。”他说：“我们正在做的最重要的事情或许就是开发自己未来的继承者。如果我们能够在无线电技术发明后的数百年内，发展出一种人工智能，那么当我们接来自外星文明的信号时，他们很有可能已经超越了这一发展阶段。”“换句话说，我猜测宇宙中大部分的智慧文明可能<a href="http://www.bbc.com/ukchina/simp/vert_fut/2016/10/161012_vert_fut_what-if-the-aliens-we-are-looking-for-are-ai" target="_blank"><u>都是某种合成智能</u></a>，这可能会让很多与电影迷的期待不符。他们希望见到的外星人可能是中那种大眼睛、没有衣服、没有毛发、毫无幽默感的灰色小矮人。”
+➜GlobalSign OSCP 故障致使大量网站证书被 revoke
+https://www.solidot.org/story?sid=49988	43183
+匿名读者 写道<i> "GlobalSign OSCP 故障致使大量网站证书被 revoke。目前已知影响较大的有 淘宝、AlphaSSL 二级证书下的所有证书、bootstrapcdn。GlobalSign官方Twitter账号<a href="https://twitter.com/globalsign/status/786505261842247680" target="_blank"><u>表示</u></a>，正致力于尽可能快的修复问题。
+"</i>
+➜Google 和 Facebook 合建连接洛杉矶和香港的跨太平洋海底光缆
+https://www.solidot.org/story?sid=49989	44483
+Google 和 Facebook <a href="https://techcrunch.com/2016/10/12/google-and-facebook-are-building-the-fastest-trans-pacific-cable-yet/" target="_blank"><u>正合作铺设</u></a>连接洛杉矶和香港的跨太平洋海底光缆。海底光缆长12,800 km，连接带宽将达到 120 Tbps，Google 和 Facebook的合作伙伴是 Pacific Light Data Communication——<a href="http://www.cspthl.com/sc" target="_blank"><u>中国软实力科技集团</u></a>的全资子公司。一旦建成，它将成为跨太平洋带宽最高的海底光缆。这条海底光缆由五条光纤对构成，每条能提供24 Tbps的带宽。Google 和 Facebook将拥有自己的光纤对，确保其流量私有。跨太平洋海底光缆是Google投资的第六条海底光缆。
+➜伦敦警方指控一名ISIS嫌疑犯使用加密
+https://www.solidot.org/story?sid=49990	45660
+伦敦警方本月早些时候<a href="http://news.met.police.uk/news/man-charged-with-terror-offences-189511" target="_blank"><u>以六项恐怖主义罪名</u></a>起诉了33岁的 Samata Ullah。他被认为属于或自称忠于伊斯兰国（ISIS）。<a href="http://www.zdnet.com/article/london-police-charge-man-with-terrorism-over-use-of-encryption/" target="_blank"><u>值得注意是</u></a>的他的一项罪名是向一位准备发动恐怖行动的人提供如何使用加密的说明。他的另一项指控是研究加密程序，开发了一个个人博客的加密版本，在网站上介绍如何使用加密程序的方法。指控中的加密版本很可能是为网站加入SSL加密保护，就和今天的无数网站一样。

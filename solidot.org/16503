@@ -1,0 +1,49 @@
+➜研究人员计算出18x18格围棋的精确合法位置数
+https://www.solidot.org/story?sid=43235	10543
+<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B"><u>围棋</u></a>棋盘上的每一个位置都有3种可能性：留空、落黑子或白子。一个有N个格子的棋盘总共有3^N个可能的位置数，但根据围棋规则，不是所有位置都可合法落子，在围棋术语中没有气的位置就不能落子。普林斯顿高等研究所自然科学学院的研究人员使用一台戴尔Dell PowerEdge R280服务器耗时9个月时间终于计算（<a target="_blank" href="http://tromp.github.io/go/gostate.ps"><u>算法细节论文</u></a>）出了<a target="_blank" href="http://tromp.github.io/go/legal.html"><u>18x18格围棋的精确合法位置数</u></a>。接下来他们将计算19x19格围棋。19x19格围棋的合法位置数估计为 2.08168199381982*10^170 ，但精确数字未知。研究人员称，他们需要10到13台服务器，每台至少有8核和512GB内存磁盘空间10-15TB，需要运行5到9个月。
+➜联想仍然出货预装Superfish的笔记本电脑
+https://www.solidot.org/story?sid=43236	14893
+在广告软件/恶意程序Superfish引发广泛争论两周之后，联想仍然向客户<a target="_blank" href="http://arstechnica.com/security/2015/03/two-weeks-on-superfish-debacle-still-causing-pain-for-some-lenovo-customers/"><u>提供预装Superfish的笔记本电脑</u></a>。在Superfish引发争议之后，联想发布了开源的清除工具，宣称它从去年12月起就已停止捆绑Superfish。但客户2月初订购2月末送达的550美元Lenovo G510笔记本电脑仍然预装了Superfish。电脑安装的Windows系统是在12月构建的，联想显然没有为库存产品重新安装系统镜像。客户下载了联想的Superfish清除工具，发现它没有彻底删除所有Superfish数据。清理工具删除了自签名证书，但将Superfish软件本身保留了下来，留下了Superfish的VisualDiscovery.exe、SuperfishCert.dll和VisualDiscovery注册表设置。
+➜Google Chrome将不支持旧版本的Linux内核
+https://www.solidot.org/story?sid=43237	16191
+去年Chrome/Chromium的Linux用户<a target="_blank" href="https://code.google.com/p/chromium/issues/detail?id=401655"><u>递交bug报告</u></a>，称安装扩展报错。部分用户称浏览器建议他们升级内核，原因是Chrome/Chromium需要名为TSYNC的内核特性。Google开发者<a target="_blank" href="https://lists.debian.org/debian-kernel/2015/03/msg00133.html"><u>已经宣布</u></a>，下一个版本的Chromium将停止支持没有TSYNC的内核版本，这意味着Linux用户使用新版Chromium将至少需要内核版本Linux 3.17。在Debian内核邮件列表上，有开发者<a target="_blank" href="https://lists.debian.org/debian-kernel/2015/03/msg00134.html"><u>呼吁</u></a>是时候停止使用Google的“间谍软件”。
+➜Chrome OS用Freon替换X11
+https://www.solidot.org/story?sid=43238	18360
+Google发布了基于Linux的<a target="_blank" href="http://googlechromereleases.blogspot.ru/2015/03/stable-channel-update-for-chrome-os.html"><u>Chrome OS M41</u></a>，引入了新的图形栈Freon<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-OS-Freon-Graphics"><u>替换X11</u></a>。Freon不是基于Google计划未来支持的显示服务器Wayland 或Mir，通过移除对X11的依赖，Freon旨在提供更好的性能，降低能耗和二进制文件大小。从技术上说，Freon不是显示服务器。在Freon驱动模块下，Chrome浏览器直接与内核的DRM/KMS API通信，3D绘图功能也是通过直接与OpenGL ES通信。Freon目前没有支持所有Chrome OS设备，支持的型号包括Chromebook Pixel、Acer C720、ASUS Chromebox、 HP Chromebox等。
+➜在3A级游戏引擎的免费时代，开源引擎如何立足？
+https://www.solidot.org/story?sid=43239	25306
+游戏开发行业迎来了3A级游戏引擎的免费潮，虚拟引擎4、Unity 5和 Source 2都免费提供给开发者。尽管免费是有条件的，普通游戏开发者对此显然并不会在意。在3A级引擎都免费的时代，<a target="_blank" href="http://jmonkeyengine.org/301602/in-the-age-of-free-aaa-game-engines-are-we-still-relevant/"><u>开源引擎将如何立足呢</u></a>？开源引擎jMonkeyEngine的开发者认为，开源游戏引擎仍然有对抗3A级游戏引擎的资本，那就是自由，不会受限于私有数据交换格式，不会陷入充斥着版权的雷场，在社区的支持的能更快发展，更快的推出新产品，等等。
+➜树莓派2评测
+https://www.solidot.org/story?sid=43240	28326
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "树莓派的最新篇章承诺了许多，<a target="_blank" href="http://www.linuxlinks.com/article/20150305172256427/RaspberryPi2-Introduction.html"><u>但兑现了几成</u></a>？树莓派是一系列信用卡大小的单板计算机。树莓派的最早产品作为桌面PC的替代颇受评论家的好评，但现实没有如此美好。单核CPU和256MB内存对于大部分桌面任务来说实在是太慢了。它从来不是桌面PC的替代。树莓派基金会希望它能激发儿童对计算机编程的兴趣，鼓励学生申请计算机专业。第一代树莓派取得了惊人的成功，售出了500多万片。基金会利用所获款项培训教师，提供教育资源和资助众多开源项目。树莓派2承诺比第一代快6倍，最主要的突破来自CPU和内存，它用四核 Broadcom BCM2836 CPU替代了第一个的单核CPU，内存也增加到了1GB，<span class="articleBody sharing-tools-top" itemprop="reviewBody text" style=""> VideoCore IV 3D图形处理器没变</span>。结果显示，在能利用多核的测试中树莓派2的表现确实能达到第一代的7倍。"</i>
+➜海思麒麟：值得西方关注的处理器
+https://www.solidot.org/story?sid=43241	29901
+xda-developers发表了<a target="_blank" href="http://www.xda-developers.com/kirin-a-processor-the-western-world-should-look-out-for/"><u>一篇文章</u></a>，谈论了海思麒麟，认为这款处理器值得西方关注，有朝一日也许能成为高通处理器的强有力挑战者。中国电信巨头华为拥有一家芯片设计子公司叫海思（Hisilicon），海思成立于2004年，其总部设在深圳，在北京、上海、硅谷和瑞典设有办事处。它已经成为中国排名第一的IC设计公司，2013年收入14亿美元。海思的麒麟系列处理器主要供华为的荣耀和Ascend系列智能手机使用。有流言称Google的Nexus设备未来也有可能采用麒麟处理器。虽然未获证实，但对高通而言这不是好消息。麒麟家族的最新产品是麒麟 930，big.LITTLE架构，64位，8核2.0 GHz，16nm工艺，支持最高3200万像素的摄像头。相比之下高通的Snapdragon 805是28nm工艺。目前手机芯片市场上的三巨头是高通（66%）、联发科（15%），Spectrum Communications（5%）。海思去年宣布将开始向其它公司出售芯片。
+➜基因工程完美婴儿
+https://www.solidot.org/story?sid=43242	33522
+科学家正在研究方法编辑明日婴儿的DNA，<a target="_blank" href="http://www.technologyreview.com/featuredstory/535661/engineering-the-perfect-baby/"><u>他们是否应该被阻止以免为时已晚</u></a>？
+<i>如果谁真的找到方法创造基因工程的婴儿，哈佛医学院的George Church可能会知道是谁。在他迷宫一样的实验室内，研究人员正为大肠杆菌加入自然界中没有的遗传编码，或试图复活猛犸象。来自北京的博士后研究员Luhan Yang是名为CRISPR-Cas9的DNA编辑技术的核心研究员，她和Church联合创办了一家小公司研究猪和牛的基因工程。她相信基因工程能改进人类的基因池，而这个哈佛实验室事实上已经存在研究改变人类基因的项目。生殖细胞系是生物学家对卵子和精子的称呼，通过编辑生殖细胞或胚胎本身的DNA，消除致病基因和将修复后的基因遗传给后代是可能的。此类技术也可能用于为人类加入能提供终生抗感染、老年痴呆症甚至可能抗衰老的基因。这是美好的承诺。但另一大担忧是生殖细胞系基因工程可能会通往一个只有有钱人才能负担得起的超人和设计婴儿的反乌托邦未来。</i>
+➜“棉条快跑”：计算机程序是女性主义的新战场
+https://www.solidot.org/story?sid=43243	34051
+<a href="http://https://dex582tcn7be8.cloudfront.net/article/382">paopao</a> 写道 <i>"打开皮包不小心卫生棉条掉出来了、到超市买棉条卫生棉结帐时觉得别扭…这样的经验虽然很难说是“普世”经验，但对占了地球人口一半以上的女性来说，应该一点也不陌生。既然月经是每个女人共有的经验，它的历史远比人类这种物种还要悠久，为什么大家对这么寻常的事还是这么大惊小怪？别忘了还不只是这些小别扭而已，月经也充满了禁忌，比如说经期来潮的女性被视为不洁，不应该祭拜神明或祖先；也有人说女人的经血会带来衰运，甚至可以拿来当武器攻击牌桌上的对手了。
+为了对抗月经这个寻常生理现象上的众多荒谬禁忌，美国两个少女开发一个叫做<a href="http://tamponrun.com/" rel="nofollow">“棉条快跑”（Tampon Run）</a>的游戏，让女英雄们向禁忌抛掷棉条，消灭所有可笑的月经禁忌。开发“棉条快跑”的Andrea Gonzales （16岁）与Sophie Houser （17岁）结识于Girls Who Code（“编程女孩”）夏令营，事实上“棉条快跑”就是她们夏令营的结业作品。不同于早已对程式设计充满兴趣的Andrea，Sophie之前并没有任何程式设计的经验，也就是说她完全是到夏令营后才学会编写程式的。经过七周的密集训练后，她已经可以制作“棉条快跑”游戏软体了，让人不得不开始思考女性学习程式设计的无限可能。这个游戏问世之后，不仅是游戏一炮而红，Andrea与Sophie也瞬间成为新闻热门人物。"</i>
+➜军事法庭裁决军方不能再将Manning称为男性
+https://www.solidot.org/story?sid=43244	35525
+一家军事上诉法庭作出裁决，政府不能再提到WikiLeaks泄密者Chelsea Manning（旧名Bradley Manning）时<a target="_blank" href="http://arstechnica.com/tech-policy/2015/03/military-court-army-must-not-refer-to-wikileaks-leaker-manning-as-a-male/"><u>将其称为男性</u></a>。Manning因为将超过70万机密文件和视频泄露给WikiLeaks而被判35年徒刑。在被判刑之后，Manning宣布她要作为一名女性生活，并改名为Chelsea。法官批准了她的改名要求。她被诊断有性别焦虑症。美国陆军刑事上诉法庭上周裁决，要求以后用中性或女性的代称指代Manning。军方之前反对在法庭文件中将Manning称为女性。
+➜伊斯兰国有大约4.6万个Twitter账号
+https://www.solidot.org/story?sid=43245	38747
+极端组织伊斯兰国以擅于利用社交媒体传播宣称视频和照片著称。智库布鲁克林研究院发表报告《<a target="_blank" href="http://www.brookings.edu/~/media/research/files/papers/2015/03/isis-twitter-census-berger-morgan/brookings-analysis-paper_jm-berger_final_web.pdf"><u>ISIS Twitter Census</u></a>》，估计Twitter上有最多7万个亲伊斯兰国账号，保守估计<a target="_blank" href="http://arstechnica.com/business/2015/03/islamic-state-takes-to-social-media-has-about-46k-twitter-accounts/"><u>有大约4.6万个</u></a>。其中四分之一的账号是英文，其余四分之三是阿拉伯文。4%的账号有超过5000名跟随者，但没有一个超过5万。69%的账号使用Android客户端，30%使用iOS客户端，还有1%使用黑莓。在2014年9月到12月之间，有至少1千个支持伊斯兰国的Twitter账号被关闭，上周Twitter又至少关闭了2000个伊斯兰国相关账号。FBI发出警告，美国青少年可能会被伊斯兰国的招聘策略迷惑。
+➜假冒小米手机预装恶意程序
+https://www.solidot.org/story?sid=43246	40492
+安全公司Bluebox测试了小米4手机（购自中国），发现手机上<a target="_blank" href="https://bluebox.com/blog/technical/popular-xiaomi-phone-could-put-data-at-risk/#_march8"><u>预装了恶意程序</u></a>，但最后他们才从小米获知手机是高仿产品。假冒的高仿手机甚至打败了小米自己的应用程序验证，假冒的结论是小米自己作出的。Bluebox最初的测试发现，手机上预装的可疑程序包括Yt Service（软件包的名字伪装成来自Google：com.google.hfapservice），PhoneGuardService（被归类为木马），AppStats（被归类为危险程序）和SMSreg（恶意程序）。小米在测试后声称，这款假冒手机使用了修改版的 MIUI ROM，绕过AntiFake app的身份检查。Bluebox还发现，小米的应用商店未告知Bluebox的情况下上传了该公司的移动安全应用，要求对方作出解释。这一事件从侧面展示了中国手机行业的状况。
+➜市场份额萎缩的Firefox成为“濒危物种”？
+https://www.solidot.org/story?sid=43247	43012
+虽然最新版的Firefox在众多的测试中战胜了Chrome，但这并没有阻止其市场份额下滑的趋势。Net Applications的数据显示，到2月底Firefox的份额降至了11.6%，自2006年7月以来的最低点，比占有率最高的2010年4月少了54%。市场份额萎缩的Firefox<a target="_blank" href="http://www.computerworld.com/article/2893514/an-incredibly-shrinking-firefox-faces-endangered-species-status.html"><u>正成为浏览器市场的“濒危物种”</u></a>？Mozilla自己否认其市场份额下滑，公司副总裁 Johnathan Nightingale称，该公司自己的数据显示呈上升幅度，今年1月的桌面下载量是过去几年里最好的。
+➜佳洁士因在广告中使用PS被罚603万
+https://www.solidot.org/story?sid=43248	43621
+官方新华社<a target="_blank" href="http://news.xinhuanet.com/2015-03/09/c_1114576606.htm"><u>报道</u></a>，佳洁士双效炫白牙膏因使用PS技术美白牙齿构成虚假广告被处罚603万元，这也是目前针对虚假违法广告的最大罚单。根据上海市工商局的调查，佳洁士牙膏广告画面中突出显示的美白效果是后期通过电脑修图软件过度处理生成的，并非牙膏的实际使用效果。“牙膏的作用一般是清洁，偶尔有防酸或脱敏等功能，美白实际上是很难做到的。”一位业内人士表示，根据国家已经实施的《功效型牙膏标准》，必须出具“功效作用验证报告”才能宣传功效。根据2014年底提交给全国人大审议的广告法修订草案，明星未来不能再凭一句“不知道”就轻松推卸掉所有代言责任。草案中，不仅明确了广告责任主体，还加大对虚假广告相关人员的惩处力度，例如规定，“明知或者应知广告虚假仍在广告中对商品、服务作推荐、证明的广告代言人，依法给予行政处罚。”
+➜百度妇女节Doodle引发争议
+https://www.solidot.org/story?sid=43249	44520
+<div align="center"><img src="http://img.solidot.com.cn/0/73/liArOsSAZhLA.png" align=""></div>
+<br>
+百度和Google都在3月8日用Doodle庆祝国际妇女节。但百度的插图（如图所示）却<a target="_blank" href="http://cn.nytimes.com/china/20150309/c09baidu/"><u>引发了性别歧视的争议</u></a>。百度在首页上呈现了一个在音乐盒上旋转的小公主玩偶的形象，周围环绕着首饰等物件。在清华大学社会学家郭于华看来，这可不是女性获得更大力量的表现。她说，这恰恰是男权社会给女性的典型定位，而中国仍然是这样一个男权社会。百度媒体总监郭怡广在电子邮件中说这个设计本意“绝非物化女性，或鼓励物质主义或消费主义”。他写道：“百度公司雇员的男女比例是100名女性比108名男性——这不仅优于国内科技公司，在全球范围内也是很好的。每天，我们都在宣扬女性在职场中的成就。”郭怡广说，百度聘请的插画师也是女性，她设计妇女节图标的灵感来自“她小时候特别喜爱的八音盒”。

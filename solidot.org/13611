@@ -1,0 +1,77 @@
+➜Google语音电话搜索引擎，挑战“114”
+https://www.solidot.org/story?sid=2411	12960
+哈利波特 写道 "Google从周五开始测试<a href="http://labs.google.com/goog411/">本地黄页的语音搜索业务goog411</a>，任何人可以拨打一个免费电话800-GOOG-411 (1-800-466-4411)，来体验谷歌还在开发过程中的语音搜索服务。 <br> <br>
+用户可以说出想要搜索的关键词，系统将会给出当地的商务机构、餐饮设施等黄页信息，并且把用户转接到最佳搜索结果的电话号码上。分析人士称Google的服务将威胁传统电信黄页服务（比如中国传统的114服务）。<br> <br>
+Google的竞争对手微软最近宣布收购一家语音技术公司Tellme，从事的也是语音搜索等语音服务。"<p>
+刚查了下，goog411.com.cn/.cn域名已经被抢注，国内玉米族的人真够快。</p>
+➜微软等支持美国下周向WTO起诉中国知识产权问题
+https://www.solidot.org/story?sid=2412	13560
+<a href="mailto:cnzmd@126.com">biocpu</a> 写道 "<a href="http://tech.163.com/07/0408/10/3BI6EBFP000915BD.html">外电4月7日报道 美国政府准备向世界贸易组织（WTO）正式起诉，指控中国打击盗版电影、音乐和软件不力。</a>这也是自中国在2001年加入WTO后，美国首次针对中国提起的知识产权诉讼。此项预计在下周提交给WTO的诉讼，可能会加剧两国贸易的紧张关系。<br> <br>《华尔街日报》也报道，布什政府将针对中国的反盗版法律执行不力，及严格限制外国电影、音乐和印刷资料的发行，提起两份诉讼。华盛顿指责中国政府保护知识产权不力，损害了美国从汽车零部件到电影、书籍和科学期刊等产品的出口。《纽约时报》在另一份报道中称，近几周美国政府官员已经强烈暗示，他们准备不久后向WTO提交正式指控。<br> <br>《华尔街日报》称，一些行业团体预计会支持美国政府的行动，值得注意的是这些团体的成员包括微软、苹果和辉瑞等知名企业。（Tony）"
+➜Gaim项目更名为Pidgin，一个被长期延误的重要事件
+https://www.solidot.org/story?sid=2413	14880
+<a href="http://gnap-an.livejournal.com/">gnap</a> 写道 "译者：George Ang 来自：<a href="http://pidgin.im/">Gaim项目主页</a> <br>
+多年前项目伊始时，命名叫"GTK+ AOL Instant Messenger".AOL自然不乐意，于是Mark Spencer将项目更名为Gaim。这下AOL满意了，因为没人听过这个名字，用户也不多。<br>
+<br>
+几年之后AOL为AIM申请了专利，并且开始对使用这个名字的IM服务说事。还发起了诉讼。这个话题当年Slashdot讨论过，也有人一度向Gaim的开发人员提供法律支持。法律支持认为在持续同AOL的对话最终下定结论前可以保持信息，事态也如法律支持所料。公众认为这个话题已经过去。可以说AOL一度对Gaim的法律支持不再回应。<br>
+<br>
+我们的法律支持几度换人，并且每批律师都建议沉默和保密。在Gaim2.0.0的第一个beta前后，AOL卷土重来，这次威胁要告的是Sean。<br>
+<br>
+事情已经明了。当年AOL得到了比预期要多的阻力，所以把事情搁置一段时间。然后他们换一名开发人员威胁要起诉。每次一位新的Gaim开发人员被威胁，我们得求助于新的法律支持,以避免利益冲突。<br>
+<br>
+事情不能永远拖延下去。于是我们以建立Instant Messaging Freedom Corporation的形式终结，以为Gaim承担法律责任。我们责令我们的法律支持着手同AOL达成一个永久的和解，以让这个话题在我们有生之年永远不再提及。           同AOL比我们猜的要远困难得多。依照法律上的建议，我们在和解过程中避免了任何非beta版本的发布，以表示我们的诚意，并且要防止AOL单方面放弃和解。再一次，法律支持建议，我们还要保持这个消息不被宣扬。<br>
+最终，我很高兴宣布我们签署了和解并且可以发布我们新的版本了。不过有一个条件：我们不得不更换项目的名字。<br>
+<br>
+在长时间，很不幸是秘密的争论（我们说不好为什么要选择更换名称，于是我们只是单方面这样做了）之后。我们将Gaim更名为Pidgin，libgaim（作为2.0.0beta6）更名为libpurple，以及gaim-text改名为Finch。Pidpin这个发音也尤其特定的意义。参见：<a href="http://en.wikipedia.org/wiki/Pidgin.">http://en.wikipedia.org/wiki/Pidgin.</a> <br>
+<br>
+因为2.0.0发布的名称和本身都改变得太多，我们打算一不做二不休。我们在DVLabs的赞助下建立了自己的服务器。于是我们的新主页现在成了<a href="http://www.pidgin.im/">www.pidgin.im</a>和developer.pidgin.im 我们，至少是现在，会坚持使用SF的镜像系统来发布。然而，错误报告系统不会再在SF上使用，邮件列表也将移动到其他某个地方。同样，我们选择了monotone作为我们的版本控制系统，放弃了SF的cvs和svn。<br>
+<br>
+大概是上周，一次SF基础设施的升级导致一个老版的gaim-cabal列表变得完全公开。而我们的原本的打算是停止这个列表，并且在和解签署后在公布这个列表的存档。幸运的是，法律过程已经有了结论，我们现在可以发布正式的声明，而不是几个月之后。<br>
+<br>
+我以及所有的Pidgin的开发小组成员一度憎恶把我们的工作分几个部分，秘密的讨论和决策。我们对由此没有给大家提供援助和反馈的机会表示严正的歉意。<br>
+<br>
+现在和解已经签署，我们希望本周末和下周初就可以发布Pidgin2.0.0了。<br>
+<br>
+我们希望以2.0.0的版本号发布，并且为插件作者提供一个API兼容层。项目没有改变，这是我们的2.0.0发布，不像某个新的程序，需要新的版本号。"
+➜外国人看中国系统性科技发展规划
+https://www.solidot.org/story?sid=2414	17640
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 <i>"<a href="http://science.slashdot.org/science/07/04/06/1641218.shtml">/.</a>介绍了很多人耳朵都听出老茧的科技发展规划，也许能提供不同角度看待我们国家雄心勃勃的科技战略。“中国已经认识到了在科学和技术领域存在巨大差距，因此公布了<a href="http://newsblaze.com/story/20070406073613rahu.nb/newsblaze/TOPSTORY/Top-Story.html">科技发展计划</a>。计划覆盖了5个方面：地质学（geology）：机械工程，开发高端的数控设备等；冶金工程和航空工程。 优先发展空间技术并且宣布了6个大的目标。温家宝总理之前还提到了振兴中国这一首要历史使命，或者称<a href="http://newsblaze.com/story/20070405223845rahu.nb/newsblaze/OPINIONS/Opinions.html">百年复兴</a>。这些目标似乎让中国人没有多少喘息机会。也许要给自己留下一些空间，计划里也向世界表明愿意与其它国家一起合作。公布的实现目标从某种方式上而言就像几十年前肯尼迪总统对美国某些重要科技计划所发表的讲话。</i>”"
+➜“Word之父”成为世界第五位太空游客
+https://www.solidot.org/story?sid=2415	20160
+<a href="http://reversethis-moc.liamgtarekusiq/">qidane</a> 写道 "<a href="http://news.163.com/07/0408/04/3BHGVIDI0001125G.html">新华网4月8日报道 搭载国际空间站两名宇航员和世界第五位太空游客——美国亿万富翁查尔斯·希莫尼的俄罗斯“联盟ＴＭＡ－10”载人飞船成功与运载火箭分离，于莫斯科时间7日21时40分(北京时间4月8日1时40分)进入预定轨道并开始自主飞行。</a> <br> <br>
+希莫尼今年58岁，是微软公司创始人之一，因参与开发了核心软件Word和Excel而声名鹊起，被誉为“Word之父”。他为这次为期13天的太空之旅，支付了超过2000万美元的费用。"
+➜MIT使用了这本书作为Python教材
+https://www.solidot.org/story?sid=2416	22500
+<a href="http://my.opera.com/interma/">interma</a> 写道
+续早先的MIT使用python来替代scheme进行教学的报道。最终MIT使用了这本教材：<a href="http://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1887902996/ref=pd_bbs_sr_2/104-3032892-3290341?ie=UTF8&amp;s=books&amp;qid=1176007862&amp;sr=8-2">Python
+Programming: An Introduction to Computer Science</a>，作者为Wartburg College
+professor, John
+Zelle。更详细的报道，请看<a href="http://public.wartburg.edu/trumpet/2007/04-03/python.html">这里</a>。
+➜宏碁在美国被惠普起诉
+https://www.solidot.org/story?sid=2417	28200
+<a href="mailto:docongwh@gmail.com">docong</a> 写道 "根据<a href="http://chinese.wsj.com/gb/20070405/atc133428.asp">华尔街日报</a>4月5日的报道，惠普公司(Hewlett Packard Co.)将之前美国人很少听说过的一家台湾个人电脑制造商告上了法庭，它就是宏碁(Acer Inc.)。惠普指控该公司侵犯其专利，要求其停止在美国销售部分型号的电脑。 <br>
+美国法院尚未对此案做出裁决。但惠普等全球电脑巨头还有其他理由对这家崭露头角的竞争对手感到担忧。<br>
+宏碁已经成为个人电脑业发展史上最成功的东山再起的企业之一。10年前，由于发展策略含糊不清，为塑造品牌投入了大量资金的宏碁一蹶不振。<br>
+如今，宏碁的电脑销量在全球排名第四，预计很快将超过联想集团(Lenovo Group Ltd.)，成为惠普和戴尔公司(Dell Inc.)之后的第三大电脑厂家。宏碁预计今年其电脑销售量增幅仍将达到业界平均水平(10%)的三到四倍，同去年的成绩一致。而且，宏碁在全球的笔记本电脑销量也与戴尔相差无几。<br>
+宏碁管理人员称，这还只是个开始。宏碁董事长王振堂(J.T. Wang)在最近接受采访时表示，公司仍有很大的增长空间。"
+➜Debian将在一天内发布两个重要版本
+https://www.solidot.org/story?sid=2419	31740
+<a href="http://qidane.blogspot.com/">qidane</a> 写道
+<a href="http://linux.slashdot.org/linux/07/04/08/017241.shtml" title="Slashdot消息">Slashdot消息</a>如果一切按计划执行，<a href="http://www.debian.org/">Debian</a>应该同时发布一个Debian
+Sarge(3.1r6,老的稳定版本)和一个新的稳定版本(Debian 4.0, 代号Etch) － 并且宣布Debian Project Leader选举结果
+－ 12小时内全部发生。Sarge将在UTC 4月7日更新，Sam Hocevar在大约UTC 00:30被宣布成为DPL，而Debian
+Etch的发布准备工作也随之进行，希望8号能看到好结果。<br>
+➜拼凑的暴风影音收购原创的超级解霸
+https://www.solidot.org/story?sid=2420	49200
+木鱼 写道 "酷热科技（今暴风网际公司）自今年1月份收购暴风影音之后，最近<a href="http://it.sohu.com/20070407/n249272128.shtml">合并了原超级解霸的部分技术力量及全部源代码</a>。2005年6月，原金山软件的数名员工成立了酷热科技，获得了IDG的300万美元投资。<br> <br>
+酷热成立之初，公开指责暴风影音内嵌垃圾插件获得知名度。前不久，酷热又分析超级解霸因为未能抓住互联网机会丢掉市场。现在这两个对手都被它吃到手。超级解霸和酷热有一些关于金山的渊源，因为超级解霸的前身是金山影霸。<br> <br>
+超级解霸这几年在研发的一个核心技术就是DVS，据说：“<a href="http://news.cnfol.com/070322/101,1587,2815855,00.shtml">DVS文件不需要任何播放器，就可以直接进行播放</a>，而且效果跟现在通用的MPEG和RMVB等文件差不多，体积却像Flash文件那样小。”<br> <br>
+暴风影音前不久发布暴风影音2.0时宣布，用三年左右将公司上市。"<p>
+➜O'Reilly开通IT网校
+https://www.solidot.org/story?sid=2421	55920
+<a href="http://hi.baidu.com/jinxiaozhi/">jinxiaozhi</a> 写道 "<a href="http://oreillyschool.com/">O'Reilly 技术学校（O'Reilly School of Technology)</a>已经开通了它的虚拟教育门户向IT专业学生提供在线教育及毕业证书的颁发。O'Reilly技术学校和伊利诺斯大学合作提供专业信息技术开发证书的颁发及相关技能。其中还包括Linux／Unix系统管理、开放源代码、Java编程、C语言等。"
+➜三大商业巨头携手加入Linux基金会
+https://www.solidot.org/story?sid=2422	57300
+<a href="http://qidane.blogspot.com/">qidane</a> 写道
+<a href="http://www.linux-foundation.org/weblogs/press/2007/04/03/linux-foundation-expands-membership-with-marvell-nokia-and-virtuallogix/">近日Linux基金会新加了三位重量级成员:Marvell,存储通讯以及电子消费产品的领导者;Nokia,全球移动通讯领导者;和VirtualLogix,联通设备实时virtualization™技术的领导者.</a> <br>
+<a href="http://www.enet.com.cn/article/2007/0406/A20070406525883.shtml">对于诺基亚等公司的到来</a>，Linux基金会执行主管Jim
+Zemlin表示赞赏态度，他称，“目前Linux迎来了在多个环境下的发展机遇，除了诺基亚之外，Marvell和VirtualLogix公司的加盟，都有助于我们加深和推进Linux的开发进程。

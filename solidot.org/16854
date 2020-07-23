@@ -1,0 +1,58 @@
+➜支付宝被发现会悄悄偷拍
+https://www.solidot.org/story?sid=47235	12611
+国产移动应用的权限需求和后台活动再次引发了关注，这一次又是支付宝。支付宝是最流行的中国移动应用之一，安装量有数亿之多，它的体积庞大功能庞杂，用户根本无法了解它在后台究竟会干什么。Twitter用户typcn<a target="_blank" href="https://twitter.com/typcn_com"><u>报告称</u></a>，“支付宝安卓版每隔X分钟（服务器指定）会在后台开启摄像头拍照，录音X秒，然后上传到服务器上。”作者进一步指出，支付宝的偷拍是“开启相机预览，设置相机预览回调，然后从相机预览的画面里面拿一帧，这样不会调用 takePhoto ，在部分强制开启拍照声音的手机上，也不会出现声音，因为是在预览缓冲中拿的图像。”知乎上有<a target="_blank" href="https://www.zhihu.com/question/40638556"><u>相关讨论</u></a>，尚未看到支付宝官方的回应。<b>更新</b>：支付宝官方给出了公关式的回应。
+➜GNU C Library 2.23发布
+https://www.solidot.org/story?sid=47236	13379
+<a target="_blank" href="http://www.gnu.org/software/libc/"><u>GNU C Library (glibc)</u></a> 项目<a target="_blank" href="https://www.sourceware.org/ml/libc-alpha/2016-02/msg00502.html"><u>发布</u></a>了v2.23版。新版的主要特性是支持Unicode 8.0.0，最低要求GCC 4.7+编译器构建，修正了上周曝出的DNS查询缓存溢出bug(CVE-2015-7547)。其它包括：大量API改变，性能改进和bug修正等等。
+➜苹果iphone是“西部执法官”和犯罪分子的“上帝”吗？
+https://www.solidot.org/story?sid=47237	13988
+<a href="http://weibo.com/riorita2015">lam20102010</a> 写道 "当苹果与美国联邦调查局在为苹果是否该为恐怖分子的手机解密争得脸红耳赤之际，美国纽约地区最高检察官—曼哈顿首席检察官 Cyrus Vance和纽约市警察局局长 Bill Bratton在2月18日联手举行记者招待会，<a target="_blank" href="http://abcnews.go.com/Technology/york-da-access-175-iphones-criminal-cases-due/story?id=37029693"><u>向媒体控诉苹果iphone</u></a>。<i>
+发布会桌上一字排开175部iPhone手机。2014年9月为挽回因斯诺登风波而导致的消费者信心下降，苹果宣布为所有安装ios8及以上版本操作系统的iPhone手机实施默认全盘数据加密。这些手机均为2014年9月以来纽约警方在办案中无法解密的涉案为手机，约占这一时期缴获的与作案有关的675部手机的四分之一。这些案件包括凶杀，贩毒，强奸案件。</p>
+<p> Vance检察官说，面对遇害者家属，他不知道如何去解释——为什么警方已获得犯罪嫌疑人手机，也获得了法官授权，却无法破解手机。</p>
+<p> Vance检察官说，苹果出于保护隐私的籍口，拒绝提供解密，而地方检察官办公室又没有联邦执法机构这样的技术支持，在面对加密手机时束手无策 。</p>
+<p>他说，根据警方的监听记录，一名被关押在大牢里的重案犯，竟然在电话里告诉在狱外的喽啰——用iPhone手机加密，这样地区检察官办公室就无能为力了。这是上帝赐予我们的礼物。 Vance检察官说 :“这是上帝的礼物吗？不是，是硅谷赐予(罪犯)的礼物。”
+</p>
+<p>在被记者问及可否不通过破解手机密码而是通过保存在云端的备份数据来破案时，Vance检察官说:“如果你是一个罪犯，你知道iphone会自动备份数据到云端，然后你当然就关掉了数据备份功能。”他说：“这简直是成了技术造就的野蛮西部世界，唯一的执法官就是苹果和谷歌，没有任何其他规则。”</p>
+</i>
+<p><i>纽约市警察局局长 Bill Bratton说，他也尊重个人隐私，但现在这个局面实在是太过分了，“我们今天讨论的这些问题有任何合理之处吗？”
+"</i></p>
+➜文化塑造了政治领导人如何微笑
+https://www.solidot.org/story?sid=47238	15963
+<div align="center"><img src="http://img.solidot.org/0/390/lilRV0TvHErC.jpg" align="" height="318" width="500"><br>
+</div>
+<br>
+斯坦福的一项研究<a target="_blank" href="http://news.stanford.edu/news/2016/february/smiles-jeanne-tsai-021516.html"><u>发现</u></a>，政治领导人的微笑反应了该国人民如何表达自身的文化观念。在美国，政客及其他领导人的微笑通常是嘴巴张开的又大又宽；而在东亚国家如中国和台湾，领导人微笑时嘴张开的是非常适度的。在研究中，研究人员对比了美国和中国政府高官、CEO和大学校长的官方照片，他们发现在所有领域美国领导人的微笑都要比中国领导人显得更兴奋。研究人员还发现，不管结果如何美国领导人都表现出更兴奋和激动。研究人员认为这一现象与各国的文化差异有关，东亚的文化注重冷静的价值观念，所以领导人表现的很冷静，而美国等国家则相反，所以他们的领导人表现的很兴奋。<a target="_blank" href="http://psycnet.apa.org/psycinfo/2016-01247-001/"><u>研究报告</u></a>发表在《Emotion》期刊上。
+➜支持者周二苹果商店集会支持苹果
+https://www.solidot.org/story?sid=47239	17399
+如果你赞同苹果抵制政府解锁手机的命令，你可以在本周二参与<a target="_blank" href="https://www.dontbreakourphones.org/"><u>一个全球集会活动</u></a>：在当地时间 5:30pm前往附近的苹果商店<a target="_blank" href="http://arstechnica.com/tech-policy/2016/02/want-to-support-apple-in-its-fight-against-doj-show-up-at-an-apple-store-tuesday/"><u>支持苹果</u></a>，中国香港是集会地点之一。上周苹果公开拒绝帮助FBI开发后门固件解锁手机的法庭命令，Google CEO、华为CEO以及Facebook CEO <a target="_blank" href="http://www.nytimes.com/2016/02/23/technology/mark-zuckerberg-backs-apple-in-its-refusal-to-unlock-iphone.html?ref=technology"><u>Mark Zuckerberg</u></a> 都表态支持苹果。苹果CEO库克周一<a target="_blank" href="http://arstechnica.com/tech-policy/2016/02/want-to-support-apple-in-its-fight-against-doj-show-up-at-an-apple-store-tuesday/"><u>重申了</u></a>该公司对于隐私的承诺，库克<a target="_blank" href="http://www.ftchinese.com/story/001066289"><u>表示</u></a>“最佳出路”将是美国政府撤销上周发布的司法命令。他提出，苹果将“很高兴参加”一个“涵盖情报、技术和公民自由的委员会或者其他专家小组，讨论这件事对执法、国家安全、隐私和个人自由的潜在影响”。
+➜李世石九段将于3月9日对垒Google的围棋AI
+https://www.solidot.org/story?sid=47240	18379
+<span class="dropcap-paragraph"> Google DeepMind CEO Demis Hassabis与韩国九段棋手</span>李世石在伦敦的新闻发布会上<a target="_blank" href="http://www.businesskorea.co.kr/english/news/ict/13921-human-ai-match-lee-se-dol-vs-alphago-broadcast-live-youtube"><u>宣布</u></a>，Google的围棋AI AlphaGo将于3月9、10、12、13和 15日在首尔的四季酒店挑战李世石。<span class="dropcap-paragraph">AlphaGo运行在</span><span class="dropcap-paragraph"> Google Cloud上，它的物理地点是美国中西部，Google将通过高速线路将AI系统连接到比赛地点的酒店。比赛将通过</span> Google DeepMind的YouTube频道直播，而中日韩的棋友则可以通过电视观看。李世石如果赢得比赛将可以获得100万美元奖金。
+➜美国一学区宣布全面数字化计划
+https://www.solidot.org/story?sid=47241	26625
+<a target="_blank" href="http://convalsd.net/"><u>ConVal学区</u></a>的每一位初高中学生到2017-18学年<a target="_blank" href="http://www.ledgertranscript.com/home/21090549-95/district-goes-digital-with-one-laptop-for-every-student#main"><u>将有一台Chromebook笔记本电脑</u></a>，教科书、家庭作业和课程将全面数字化。学区董事会已经批准了用于设备采购的拨款。选择Chromebook而不是其它设备主要是因为其价格低廉，运行Chrome OS的Chromebook价格比其它笔记本电脑或平板的价格便宜三分之一，比如11英寸的Chromebook价格为205美元，而13英寸是325美元，它们可以在线管理。全面转向数字化后可以节省一大笔教科书购买费用。
+➜FBI能使用酸和激光提取iPhone上的数据
+https://www.solidot.org/story?sid=47242	27258
+FBI要求苹果开发软件帮助解锁枪手iPhone的一个重要理由是它的调查人员没有其它方法可以从扣押的设备上提取出可能的关键证据。但从技术上说，它有其它方法的，只是失败率太高。研究员Andrew Zonenberg<a target="_blank" href="http://arstechnica.com/security/2016/02/how-the-fbi-could-use-acid-and-lasers-to-access-data-stored-on-seized-iphone/#p3"><u>描述了如何使用强酸和激光提取加密数据的方法</u></a>：从设备上拆下记忆芯片，利用强酸移除芯片的封装，然后利用聚焦的离子束小心的钻进芯片内，寻找 iPhone UID（这需要提前做研究），用极小的探针去读取  UID数据，最后超级计算机上加载UID、算法和加密数据，去尝试所有加密组合暴力破解加密数据，整个破解过程是在系统之外进行的，所以不会触发系统的自毁功能。
+➜中国叫停“奇奇怪怪的建筑”
+https://www.solidot.org/story?sid=47243	29931
+《纽约时报》<a target="_blank" href="http://cn.nytimes.com/china/20160223/c23chinaurban/"><u>报道</u></a>，中国境内至少修建了10座白宫、三座凯旋门和一座艾菲尔铁塔。但是从2016年开始，可能不会再有更多这样的浮夸建筑物出现了。中共中央和国务院周日印发<a target="_blank" href="http://news.xinhuanet.com/politics/2016-02/22/c_128738587.htm"><u>指示</u></a>，要求防止修建“贪大、媚洋、求怪，特色缺失和文化传承堪忧”的建筑物，而是要坚持“适用、经济、绿色、美观”的方针。该指示还呼吁不再修建封闭住宅小区。专家表示，由于新的指导方针传达了最高领导层的意见，他们认为，公共建筑将会采用更严格的设计标准。党报《人民日报》预测，“北京市今后不太可能再出现如同‘大裤衩’一样奇形怪状的建筑了”。“大裤衩”指的是中央电视台总部大厦。
+➜NSA监听贝卢斯科尼、默克尔和潘基文
+https://www.solidot.org/story?sid=47244	31611
+没有人惊讶于NSA监听其它国家的领导人，惊讶的是它的成功率如此之高。WikiLeaks刚刚<a target="_blank" href="https://wikileaks.org/nsa-201602/"><u>公布了</u></a>NSA的多份机密文件，分别针对了<a target="_blank" href="https://wikileaks.org/nsa-eu/"><u>欧盟</u></a>、<a target="_blank" href="https://wikileaks.org/nsa-italy/"><u>意大利</u></a>和<a target="_blank" href="https://wikileaks.org/nsa-un/"><u>联合国</u></a>的领导人。机密文件透露了NSA监听了潘基文和德国总理默克尔有关气候变化的计划，以及以色列总理内塔尼亚胡请求意大利总理贝卢斯科尼应对奥巴马的内容，以及时任法国总统萨科齐告诉贝卢斯科尼意大利银行系统将在不久后像软木塞那样蹦出。NSA的成功监听给予了美国很多优势。
+➜中国盗版iOS应用商店骗过苹果的审查登陆官方应用商店
+https://www.solidot.org/story?sid=47245	34596
+苹果官方应用商店以审查严格著称，然而一款整合了第三方应用商店的应用<a target="_blank" href="http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/"><u>却骗过了它的审查</u></a>。这款叫“开心日常英语”的iOS应用由<a target="_blank" href="http://www.xyzs.com/zhushou/"><u>XY助手</u></a>的开发商上海恺英网络科技有限公司开发，原始应用是一个开源软件，恺英重新进行了编译，嵌入了它的XY苹果助手，骗过了苹果的审查，于2015年10月30日成功登陆了官方应用商店，直到安全研究人员通知苹果之后才于2月19日下架。安全研究人员没有在应用中发现恶意功能，但它本身是一种有风险的软件，提供了安全无法保障的修改版iOS应用。“开心日常英语”根据不同的物理位置而表现出不同的行为，在其他国家它看起来就是英语学习软件，但在中国它变成了XY助手。研究人员发现，它使用了新颖的方法在非越狱设备上安装应用：它重新实现了一个iTunes for Windows 客户端去登陆、购买和下载应用，它实现了 Xcode IDE的某些功能自动生成免费的个人开发证书去签名应用，还与用户共享了某些有效的 Apple ID。由于功能复杂，目前还不清楚它是否会窃取账号信息发送到其服务器，但它会自动收集设备信息。
+➜中国计划2020年发射火星探测器
+https://www.solidot.org/story?sid=47246	37767
+中国正准备第一次独立火星探索任务。中科院国家空间科学中心主任<a target="_blank" href="http://sourcedb.nssc.cas.cn/zw/rck/200910/t20091029_2641405.html"><u>吴季</u></a>称，
+<a target="_blank" href="http://gbtimes.com/china/china-racing-make-2020-launch-window-mars"><u>目标发射窗口是2020年</u></a>，如果错过了则推迟到2022年。中国雄心勃勃的火星任务包含了轨道器、登陆器和漫游车。吴季透露，轨道器搭载了空间粒子探测器、甲烷探测相机和雷达传感器；漫游车则会搭载探地雷达。发射载具可能会使用长征五号重型运载火箭。该火箭预计将会在今年首次亮相。欧洲、俄罗斯和美国都有火星探索计划。
+➜比尔盖茨站在FBI一边
+https://www.solidot.org/story?sid=47247	38506
+在苹果与美国政府之间的这场对决上，微软创始人比尔•盖茨<a target="_blank" href="http://www.ftchinese.com/story/001066299"><u>站在了执法部门一边</u></a>。库克认为FBI的要求是创建后门，将会开启危险的先例。盖茨认为这不会成为一个更深远的先例，“这是政府要求获得信息的一件个别案例。他们不是为了一般事提出要求，而是为了一个特例而提出要求。”“这个问题就好比，任何人都可以要求电话公司提供信息吗？任何人都可以取得银行记录吗？比方说银行在磁盘驱动器上绑了一条缎带，然后说‘不要让我割断这条缎带，因为你还会多次要求我割断它。’”
+➜中国磷矿储量有可能在35年内耗尽
+https://www.solidot.org/story?sid=47248	40839
+南京大学的研究人员在PNAS上发表了一篇<a target="_blank" href="http://www.pnas.org/content/early/2016/02/17/1519554113.abstract"><u>论文</u></a>，分析了中国自17世纪以来的磷循环。磷是粮食种植的关键元素，但随着磷流失到湖泊、河流和海洋而难以回收利用，磷矿的储量正日益枯竭。研究人员估计，现有的储量可能会<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-02/aaft-cpu021916.php"><u>在35年内耗尽</u></a>，提高使用效率的话可以再延长20年。此外大规模的磷流失导致了富营养化。
+➜呼吸北京空气的实验鼠被发现体重增加
+https://www.solidot.org/story?sid=47249	43892
+中科院、北京大学、杜克大学等大学和研究机构的研究人员在《FASEB》期刊上发表了一份<a target="_blank" href="http://www.fasebj.org/content/early/2016/02/18/fj.201500142"><u>研究报告</u></a>，认为空气污染可能是儿童肥胖的<a target="_blank" href="http://www.scienceworldreport.com/articles/37495/20160222/air-pollution-exposure-increase-risk-obesity.htm"><u>一个风险因素</u></a>。研究人员同时表示目前还没有数据直接支持空气污染和非饮食诱导的体重增加之间的关联性。在实验中，研究人员将怀孕的老鼠及其后代分别放在两个房间，一个房间直接暴露在北京空气下，另一个房间有空气过滤器。19天后，直接呼吸北京空气的怀孕鼠出现了组织炎症增加，肺和肝脏增重的现象，它们的低密度脂蛋白胆固醇高50%， 三酸甘油脂高46%，总胆固醇高 97%。预示II型糖尿病的胰岛素抵抗水平也比呼吸清洁空气的同类更高。

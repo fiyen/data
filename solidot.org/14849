@@ -1,0 +1,72 @@
+➜用 HTML5消磨时光
+https://www.solidot.org/story?sid=19737	11700
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "HTML5 渐入佳境，它强大的功能正被逐渐挖掘出来，各种实验性应用层出不穷，本文介绍几个由 <a href="http://hakim.se/">Hakim El Hattab</a> 设计的 HTML5 趣味小应用，它们非常有趣，我刚刚在它们身上消磨了两个小时。当你体验完这几个小应用，会发现 HTML5 比你想象的更强大（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K1013.aspx">完整图文版</a>）。           Sinuous
+<a href="http://hakim.se/experiments/html5/sinuous/01/"> </a>
+<br> <br>在浩瀚的星系间履行，小心装上些红色的星球，绿色的星球可以吃掉，可以增加体能。
+<br> <br> <a href="http://hakim.se/experiments/html5/sinuous/01/">开始体验 &gt;&gt; </a> <br> <br>
+Bakemono
+<a href="http://hakim.se/experiments/html5/bakemono/01/"> </a>
+<br> <br>鼠标在页面空白位置点击，这个小怪物会扑过去。
+<br> <br> <a href="http://hakim.se/experiments/html5/bakemono/01/">开始体验&gt;&gt; </a> <br> <br>
+Keylight
+<a href="http://hakim.se/experiments/html5/keylight/03/"> </a>
+<br> <br>我太喜欢这个小程序了，在一个空房间，双击鼠标，会放置上一个小球，当放进两个小球的时候，一道粒子束在两个球之间撞击，并发出悦耳的声音，随着小球的增多，粒子束在每个小球之间穿梭撞击，离你越近的小球，声音越清脆，音调越高，这样就形成了连续的音乐。
+<br> <br> <a href="http://hakim.se/experiments/html5/keylight/03/">开始体验&gt;&gt; </a> <br> <br>
+Blob
+<a href="http://hakim.se/experiments/html5/blob/03/"> </a>
+<br> <br>一些果冻样的东西，会滑向你鼠标点击的位置，在果冻球体中间点击，会将它扯成两半，它们在到处滑动的时候，还会再溶合到一起。
+<br> <br> <a href="http://hakim.se/experiments/html5/blob/03/">开始体验&gt;&gt; </a> <br> <br>
+Magnetic
+<a href="http://hakim.se/experiments/html5/magnetic/02/"> </a>
+<br> <br>也是我最爱的一个小程序。鼠标在夜空中双击，可以创造一颗恒星，同时创造出十几颗卫星绕着它转，你可以创造很多这样的恒星系，当它们中的某些靠近到一起形成质量比较大的恒星系的时候，可以吸引更多的卫星绕着它们转。
+<br> <br> <a href="http://hakim.se/experiments/html5/magnetic/02/">开始体验&gt;&gt; </a> <br> <br>
+Trail
+<a href="http://hakim.se/experiments/html5/trail/03/"> </a>
+<br> <br>五颜六色的彩带，随着鼠标飘动，鼠标不动的时候，便围着鼠标箭头旋转，非常简单，但很流畅，视觉效果很漂亮。
+<br> <br> <a href="http://hakim.se/experiments/html5/trail/03/">开始体验&gt;&gt; </a> <br> <br>
+Particle Depth
+<a href="http://hakim.se/experiments/html5/particledepth/02/"> </a>
+<br> <br>很 Cool 的三维效果。
+<br> <br> <a href="http://hakim.se/experiments/html5/particledepth/02/">开始体验&gt;&gt; </a> <br> <br>
+Wave
+<a href="http://hakim.se/experiments/html5/wave/03/"> </a>
+<br> <br>水面随着鼠标形成波浪，水面的浮球也随着沉浮，效果非常棒。
+<br> <br> <a href="http://hakim.se/experiments/html5/wave/03/">开始体验&gt;&gt; </a> <br> <br>
+Particles
+<a href="http://hakim.se/experiments/html5/particles/02/"> </a>
+<br> <br>粒子在屏幕上飘动，遇到鼠标的时候膨胀。
+<br> <br> <a href="http://hakim.se/experiments/html5/particles/02/">开始体验&gt;&gt; </a> <br> <br>
+译者注
+<br> <br>这组 HTML5 实验应用加载速度非常慢，初以为是 HTML5 本身性能的问题，研究过源代码才发现，原来页面上调用了 Twitter 的饰件（<a href="http://www.comsharp.com/Admin/Knowledge/view-source:http:/platform.twitter.com/widgets.js">http://platform.twitter.com/widgets.js</a>），因为世界上压根没有 Twitter，我们早就知道，但这些网页不知道，所以还傻傻地去连接，浪费了大量的时间。使用 Godaddy 的服务器测试，每个页面大约需要 0.2 秒就打开了。有人说，他们代表先进生产力。
+<br> <br>本文素材来源：<a href="http://hakim.se/experiments/">http://hakim.se/experiments/ </a> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Google宣布不出席JavaOne会议
+https://www.solidot.org/story?sid=19738	13920
+Google开源博客<a href="http://google-opensource.blogspot.com/2010/08/update-on-javaone.html">宣布</a>，该公司的雇员将<a href="http://lwn.net/Articles/402540/">不会参与本年度的JavaOne会议</a>。这一举动应该不会让太多人感到意外。<i>
+Google表示，他们遗憾的宣布将不会出席今年的JavaOne会议，Googe原本希望参加会议，但是Oracle公司最近发起的针对Google和开源社区的专利诉讼，让Google无法心无旁骛的分享它关于Java未来和开源的想法。</i>
+➜软件开发者希望海盗湾不要删除破解软件种子
+https://www.solidot.org/story?sid=19739	14400
+<a href="http://www.visame.org/">Slashdot每日精选</a> 写道<i> "本周海盗湾接到了一封有趣的<a href="http://torrentfreak.com/pirate-bay-receives-notice-to-keep-a-torrent-100825/">电子邮件</a>，这份邮件发自一个名叫<a href="http://www.codingrobots.com/">Coding Robots</a>的软件公司。原来海盗湾上有这家公司的一个已经被破解的软件Memoires的种子。这款名叫Memoires的软件可以让你在Mac电脑上方便地写日志，原价29.99美元。Dmitry Chestnykh是Coding Robots的创始人，他从海盗湾上将这个软件下载下来，结果非常失望。原来这位名叫Minamoto的破解者活生生的把这样一款优秀的软件破解成了废柴。在给海盗湾的电子邮件中，Dmitry Chestnykh这样写道：“我要求海盗湾不要删除这款破解软件的种子，让大家都来嘲笑Minamoto和他的蹩脚破解技术吧！希望能有更好的破解版出现，以免影响了用户对我这款优秀程序的体验。”"</i>
+➜使用Firefox登陆中国农业银行
+https://www.solidot.org/story?sid=19740	17400
+<a href="mailto:ryan@ryanium.com">ryanli</a> 写道 <i>"一直以来, 中国大陆的银行只有浦发能够完全地支持Firefox等非IE浏览器。而其实中国农业银行的用户登录界面只是有少许的HTML不规范写法, 通过Greasemonkey脚本修改一下就可以正常登陆了。<a href="http://userscripts.org/scripts/show/54005">下面是一个Greasemonkey脚本</a>, 可以用来修复农行网站上HTML的错误。安装之后即可通过<a href="https://easyabc.95599.cn/commbank/netBank/zh_CN/CommLogin.aspx">以下链接</a>登陆农行。不过需要提醒的是, 这样的一个修改过后也只是能够登陆农行进行查询等功能而已, 网上银行依然无法使用.
+个人还是推荐使用浦发的网上银行."</i>
+➜植物利用“以夷制夷”保护自身
+https://www.solidot.org/story?sid=19741	18000
+根据发表在《科学》杂志上的<a href="http://www.sciencemag.org/cgi/content/abstract/329/5995/1075">报告</a>，一种烟草植物在受到害虫入侵后会释放出化学求救讯号，<a href="http://news.sciencemag.org/sciencenow/2010/08/caterpillars-sign-their-own-death.html">引诱害虫的天敌前来帮忙</a>。<i>
+当烟草天蛾的幼虫在烟草叶上大快朵颐时，<a href="http://www.sciscape.org/news_detail.php?news_id=2532">它们可能是在自寻死路</a>，因为让天蛾幼虫给嚼咬过的烟草叶，会快速释放讯号吸引烟草天蛾的天敌－大眼虫也来共襄盛举。德国耶拿马克斯普朗克化学生态学研究所的Silke Allmann和Ian Baldwin，发现被天蛾幼虫嚼咬过的烟草叶释放出的“绿叶挥发性物”（GLVs）和非幼虫破坏而释放出的GLVs原来是有些微差异的。他们发现，原来天蛾幼虫的唾液和烟草的GLVs作用之后，才会释放出吸引大眼虫的讯号。</i>
+➜联想将推出中国特色的游戏机eBox
+https://www.solidot.org/story?sid=19742	28560
+电脑制造商联想公司<a href="http://cn.wsj.com/gb/20100828/tec090919.asp">宣布</a>，该公司已经建立了一家名叫<a href="http://www.eedoo.cn/default.aspx">北京联合绿动科技有限公司</a>的游戏机公司，开发名为<a href="http://www.eedoo.cn/ebox.aspx">eBox</a>的娱乐游戏机。<i>
+联想组建了一支包含40名工程师的游戏机开发团队。eBox的早期样机所采用的技术允许用户不使用手柄、通过摄像头和游戏机互动，类似于微软今年初推出的Xbox游戏机Kinect动作技术。联想没有透露eBox将使用何种操作系统。eBox将于2010年底在中国发布。它将兼容高清电视，用户将能够通过互联网向游戏机下载新游戏。</i>
+➜很多黑客会不小心将代码发给微软
+https://www.solidot.org/story?sid=19743	30480
+微软公司的高级安全架构师Rocky Heckman称，黑客在开发出恶意程序让Windows崩溃过程中，<a href="http://www.zdnet.com.au/hackers-accidentally-give-microsoft-their-code-339305548.htm">经常会不小心直接将程序代码发送给微软</a>。<i>
+黑客在微软操作系统中测试恶意程序，每当让系统崩溃后，Windows会询问是否愿意将错误细节——包括恶意程序代码——发送给微软，有趣的是很多人选择同意发送。Heckman说，你想象不到微软得到了多少内容。Heckman在Microsoft Tech.Ed 2010会议上详细介绍了<a href="http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">黑客们常用的攻击手段</a>，包括跨站脚本和SQL注入。他指出黑客们一开始总会拿微软官网练手，Microsoft.com平均每秒会受到7000次到9000次攻击。</i>
+➜“河南航空公司”因坠机事故改回原名“鲲鹏航空”
+https://www.solidot.org/story?sid=19744	35760
+“河南航空公司”由深圳航空公司控股，原名鲲鹏航空公司，2009年改名为河南航空公司，但与河南没有多少关联。最近发生的伊春坠机事件，给河南带来了误解和负面影响，河南工商管理局因此<a href="http://www.haaic.gov.cn/ContentDetaillUI.action?contentId=5421">发布公告</a>，<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/08/100828_henan_airline_renamed.shtml">宣布</a>“河南航空公司”改回原名“鲲鹏航空”。<i>
+公告说，“依据国家工商行政管理总局发布的《企业名称登记管理实施办法》，已经登记注册的企业名称，在使用中对公众造成欺骗或者误解的，或者损害他人合法权益的，应当认定为不适宜的企业名称予以纠正。河南航空有限公司作为企业名称，在使用中已对公众造成误解，给本来未在该公司投资的河南造成极大的负面影响。据此，河南省工商行政管理局依法作出决定，撤销鲲鹏航空有限公司将企业名称变更为河南航空有限公司的登记行为，恢复其原有企业名称，即鲲鹏航空有限公司。”</i>
+➜保罗艾伦起诉Google、苹果和Facebook
+https://www.solidot.org/story?sid=19745	49920
+微软联合创始人、亿万富豪保罗艾伦（Paul Allen）早在1983年便离开了软件巨人，但仍然是微软的大投资人之一，他此后做起了风险投资家，但投资的企业没几个取得理想中的成功。如今，他旗下的一家研究机构Interval Research Corp面临破产，这家机构雇用了许多一流的专家如<a href="http://en.wikipedia.org/wiki/Robert_Shaw_(physicist)">Robert Shaw</a>和<a href="http://en.wikipedia.org/wiki/Max_Mathews">Max Mathews</a>等，因此它手中持有了某些极具价值的软件专利。现在，该公司起诉Apple、Google、AOL、Facebook、ebay、Netflix、Office Depot、OfficeMax、Staples、Yahoo和YouTube<a href="http://www.osnews.com/story/23740/Paul_Allen_Files_Patent_Suit_Against_Apple_Google_Others">侵犯了它的四项专利</a>，行业内的顶尖企业几乎一网打尽，除了微软和亚马逊明显置身事外。<i>
+此案涉及的专利主要是：<a href="http://www.google.com/patents/about?id=IQEWAAAAEBAJ&amp;dq=6,263,507">利用导航快速浏览大量信息</a>；在使用一个设备时，以至少确保用户保持<a href="http://www.google.com/patents/about?id=PHSpAAAAEBAJ&amp;dq=6,788,314">周边注意力</a>的情况下<a href="http://www.google.com/patents/about?id=PHSpAAAAEBAJ&amp;dq=6,034,652">管理信息</a>；<a href="http://www.google.com/patents/about?id=QncSAAAAEBAJ&amp;dq=6,757,682">提醒用户</a>感兴趣的条目。保罗艾伦的发言人说，“我们认识到创新有价值，而专利是一种保护创新的方式。”Google认为诉讼毫无意义，只是在滥用专利系统。</i>

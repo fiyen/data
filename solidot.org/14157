@@ -1,0 +1,54 @@
+➜Google Gears：离线应用并非唯一的使命
+https://www.solidot.org/story?sid=8118	300
+<a href="http://www.comsharp.com/">35公里</a> 写道 "提起 Google 的下一代 Web 平台 Google <a href="http://gears.google.com/">Gears</a>，人们对它通常的误解是离线Web应用。然而事实上，Google 的野心远不在此，这个浏览器扩展拥有<a href="http://www.techcrunch.com/2008/10/04/googles-gears-not-just-for-offline-accessibility/">比离线应用多得多的使命</a>。Google Gears 面世已经超过1年了，最早的版本发布于2007年5月。<a href="http://code.google.com/apis/gears/upcoming/history.html">Google Gears 主要版本历史如下</a>，但总体来讲，一共经历了4个主要版本，每一个版本都有新增的功能。最近一个版本发布于今年8月。Gears 的总体目标是为浏览器带来桌面功能，这是通过为浏览器提供相应扩展实现的，目前支持 Google Gears 的浏览器有 Firefox, Safari, IE，支持的平台包括 Windows, Windows Mobile, Mac OS, 以及 Linux。<a href="http://www.techcrunch.com/2008/09/01/no-joke-google-introduces-its-own-browser-with-a-cartoon/">随着 Google 自己的浏览器 Chrome 的发布</a>，Chrome 用户甚至不必费心去安装这个扩展，Gears 已经内置在 Chrome 浏览器中。
+"           Google Gears 的长期路线非常明确：随着浏览器越来越强大，在 Gears 一类的技术的帮助下，人们越来越不必将软件应用安装到桌面。但在实现这个目标之前，Gears 以及类似技术需要在浏览器中真正实现桌面功能。目前，我们已经走到了哪一步？目前，Gears 可以帮助开发者在以下几个方面改善 Web 应用：
+<ul>
+<li> <strong>客户端数据库存储</strong> - 多数交互式网站靠数据库采集，组织，分发信息内容，而传统模式下，几乎所有的数据库都位于服务器端，用户即使做一个小小的动作，都需要在数据库和客户端往返。使用 Gears 数据库 API，网站可以将数据库建在用户的电脑上，使得对数据库的操作直接在本地进行，实现更好的速度与离线功能。</li>
+<li> <strong>客户端网页服务</strong> - Gears 可以将你自的客户端电脑变成网页服务器，当远端的网站服务器无法到达的时候，LocalServer API 可以将在线时缓存的网页推出，这个功能也可以用作加速。</li>
+<li> <strong>桌面快捷方式</strong> -  要让 Web 程序象桌面程序那样工作，它们至少应当可以象桌面程序那样打开。Gears 很容易帮你在桌面上创建 Web 程序快截方式，可以双击打开运行。Gears 让 Web 程序的桌面快截方式比传统的 Web 快截方式更直观，图形质量更高，支持多种尺寸，甚至可以多层堆积，在诸如 Gmail 一类的 Web 应用中，可以通过这种方式直接在快截图标上看到你有多少封未读邮件。</li>
+<li> <strong>多文件同时上传</strong> - 在正常情况下，如果你要向网站上传多个文件，你只能一个一个上传，除非使用一些基于 Flash 或 Java 的扩展。使用 Google Gears 你可以实现一次上传多个文件。</li>
+<li> <strong>地理信息</strong> - 对于那些支持地理信息的移动设备，Gears 可以实现直接在浏览器中获得你当前的位置，geolocation API 可以随时获悉你的地理位置，当然，实现必须通过一个特殊的对话框获得用户的允许以防泄露隐私。</li>
+<li> <strong>后台处理</strong> - 对于那些使用了大量 JavaScript 的 Web 程序，你必须等待 JavaScript 执行完才能继续进行。使用 Gears 中的 WorkerPool API，你可以让那些耗时的 JavaScript 在后台运行，使你的 Web 程序运行更流畅。</li>
+</ul>
+Google Gears 开发团队还将实现 Gears 的以下功能：
+<ul>
+<li> <strong>进度条</strong> - 在上传大文件的时候，你需要知道真实的进度，在传统 web 程序中这是无法实现的，除非使用基于 Flash 或 Java 的部件。Google Gears 可以让你看到真正的进度条。</li>
+<li> <strong>断点续传</strong> - Google Gears 将来可以在文件上传中实现断点续传。</li>
+<li> <strong>屏幕通知</strong> - Growl 以及微博客等系统的桌面客户端，如 Twhirl 可以定制桌面通知窗口，在屏幕的右下角滑出，Gears 将在所有网站实现这样的功能。</li>
+</ul>
+在更远的将来，我们还可以看到 Gears 对复杂 3D 图形加速，直接使用客户端电脑中的图形加速卡。上传功能可以直接结合菜单系统，在文件上点右键直接上传文件。Web 程序可以随着系统一起启动。
+<br> <br>以下视频来自 Google 的 Chris Prince 在5月份的 <a href="http://www.techcrunch.com/2008/05/28/live-from-google-io/">Google I/O 开发者大会</a>中做的一个演示，可以很好地对 Google Gears 做一诠释。
+<br> <br>
+Nik Cubrilovic 的 <a href="http://www.techcrunch.com/tag/nextgenweb/">next generation web</a> 也对下一代 Web 平台之争做了很好的讲述。
+➜索尼在日本博览会推出11寸0.3厘米厚的OLED
+https://www.solidot.org/story?sid=8119	7800
+cuthead 写道<i> "索尼在日本博览会推出11寸0.3厘米厚的<a href="http://www.engadget.com/2008/09/30/sonys-0-3mm-oled-gets-all-bent-at-ceatec/">超薄OLED显示器</a>。去年<a href="http://www.sony.net/">索尼</a>就推出了 <a href="http://www.engadget.com/2007/05/24/sonys-worlds-first-16-7-million-color-flexible-oled/">同类型OLED的迷你版</a>，<a href="http://www.youtube.com/watch?v=NcAm3KihFho">极致轻薄，极致省电，极致柔韧。</a>还有<a href="http://www.engadget.com/2007/04/12/sony-1-000-000-1-oled-tv-on-sale-in-2007/">11寸的OLED 1000000:1对比度的TV</a>，<a href="http://www.engadget.com/2005/05/20/samsungs-40-inch-oled-tv-pics/">三星也有40inch的OLED TV</a>。本着美国概念，日本设计，台湾投产，深圳零件的顺序，我们还有足够的时间继续使用LCD。"</i>
+➜Facebook创建人Dustin Moskovitz辞职
+https://www.solidot.org/story?sid=8120	10800
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "
+<a href="http://www.facebook.com/">Facebook</a>创建人之一莫斯科维茨(<a href="http://en.wikipedia.org/wiki/Dustin_Moskovitz">Dustin Moskovitz</a>)周五在其Facebook上称，他将在大约一个月内<a href="http://chinese.wsj.com/gb/20081004/tec090855.asp?source=whatnews3">离职</a>。
+<i>
+这一社交网站是几年前莫斯科维茨与扎克博格(Mark Zuckerberg)一起在哈佛大学上学时共同创办的，后者目前是Facebook的首席执行长。Facebook的设计经理罗森斯坦(Justin Rosenstein)也将离开公司，并将与莫斯科维茨一起创办一家新的软件公司。"</i>
+➜Nokia推出触摸屏手机
+https://www.solidot.org/story?sid=8121	11700
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "<i>
+<a href="http://chinese.wsj.com/gb/20081003/tec084906.asp">《华尔街日报》报道</a> ,
+全球最大移动电话生产商诺基亚公司周四宣布推出<a href="http://www.engadget.com/2008/10/02/the-nokia-5800-xpressmusic/">触摸屏手机</a>，旨在提高该公司的市场占有率，并对苹果公司的创意手机iPhone发出挑战。诺基亚耗时一年多研发生产这款旨在与iPhone竞争的5800 XpressMusic触摸屏智能型手机，其硬件及服务项目必将能吸引主流大众市场，包括8G内存、3.2英寸触摸屏及诺基亚Ovi互联网服务平台连接功能等。这款5800手机将于第四季度推出，初定税前价格为279欧元，比部分欧洲运营商对全新8G内存iPhone的定价499欧元便宜近一半。诺基亚表示已与百代公司签署音乐服务协议，此前它已与Vivendi SA旗下环球唱片、Sony BMG及华纳音乐三大唱片巨头签约。"</i>
+➜CERN启动世界上最大的计算机网格
+https://www.solidot.org/story?sid=8122	15120
+尽管大强子对撞机(LHC)目前处于<a href="__SLASHLINK__" sect="science" sid="08/09/25/0017203" sn="article" tid="19">修理停工</a>阶段，欧洲粒子物理研究所（CERN）仍然宣布发布将用于分析世界上最大对撞机所产生数据的<a href="http://devicedaily.com/misc/cern-launches-the-biggest-computing-grid-in-the-world.html">最大计算机网格</a>。<i>
+这个网格由超过140个分布在全世界的计算机中心组成，能够分析LHC每年产生的1500万GB数据。CERN的全球LHC计算网格（<a href="http://lcg.web.cern.ch/LCG/Default.htm">WLCG</a>）最大的捐赠者是美国，有15所大学和3个能源部下属机构参与。原始数据将移交给全世界7000名科学家进行分析，WLCG还维护着一个<a href="http://lhcathome.cern.ch/lhcathome/">LHC@Home</a>志愿者的分布式网格。</i>
+<a href="http://www.youtube.com/watch?v=fM7YIHsgZtc">视频</a>
+➜中国奶农称他们是牺牲者
+https://www.solidot.org/story?sid=8123	18600
+《纽约时报》报道，数十年来中国最恶劣的食品安全灾难还在持续恶化，牛奶产品链的源头奶农们<a href="http://www.nytimes.com/2008/10/04/world/asia/04milk.html">发现他们已经处于绝望的关头</a>。<i>
+在一个村庄里，一位奶农对着政府官员怒吼，“我们失去了一切，但你还开着漂亮的汽车。”一位饲养了56头奶牛的奶农说，“我是这个村庄损失最严重的人之一，省电视台说政府会照顾我们，不让我们杀奶牛或倾倒牛奶。但他们说谎。过去10天，我们一直在倒掉牛奶。”当地的奶农坚称他们从没有使用三聚氰胺，真正的罪犯是牛奶公司和他们经营的奶站。他们抱怨去年的食品价格控制严重挤压了他们的收入，可能诱使一些人和大公司铤而走险，稀疏牛奶，添加化学物质。而制度的漏洞和腐败也是问题的一部分，该地区的许多奶农都说奶站受贿是普遍现象。事故的焦点三鹿集团仍然将之归罪于奶农和奶站。牛奶专家表示1986年的牛奶质量法规早已经过时了，江南大学食品科学和技术学院的教师张国农（Zhang Guonong）称他和其他专家一直在呼吁修订规章制度，以对付行业内普遍的欺骗现象。他说，“2004年，我是《中国乳制品质量检查报告》的作者之一，我发现掺杂是极端广泛的：尿素，洗衣粉和淀粉是最受欢迎的添加剂。我们建议针对这些添加剂的检验方法应该写入制度中。但另一方面我们担心，当在制度中写进这些东西后，会有更多的奶制品制造商知道欺骗方法，或者甚至创造新的欺骗手段。”</i>
+随着事态的发展奶农们正越来越愤怒，政府则试图压制他们的声音。一位奶农对记者说，“我相信共产党，在英明的党的领导下我有权拒绝你的采访。”
+➜Softmaker Office 2008 beta免费发布
+https://www.solidot.org/story?sid=8124	21360
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "
+如其名，<a href="http://www.softmaker.com/english/oflbetareg_en.htm">Softmaker Office</a>是办公软件套件如同MS Office和OpenOffice，包括PlanMaker、TextMaker和Presentations。<a href="http://www.downloadsquad.com/2008/10/03/softmaker-releases-free-office-apps-for-windows-and-linux/">其2008 BETA版发布</a>，Linux版本提供免费下载(需要登记)，支持x86_64。"
+➜报告称中国要求外国公司提供硬件源代码
+https://www.solidot.org/story?sid=8125	35400
+<a href="http://it.slashdot.org/article.pl?sid=08/10/05/0124249">/.</a>报道，日本报纸和美联社两周前的一篇新闻报道，虽然没能引起人们注意，但内容确令人惊讶。据一消息来源，中国政府计划在明年5月引入一套新制度，<a href="http://www.yomiuri.co.jp/dy/business/20080919TDY01306.htm">要求外国硬件制造商透露它们产品的秘密信息</a>。如果一家公司拒绝透露类似信息，它的产品将被禁止出口到中国市场，或在中国销售。<i>
+中国称其为“IT安全产品的必要认证制度”，批评者担心此举会让外国公司的知识产权传递给中国竞争对手，或在其它国家数字产品所使用的编码技术泄漏给中国。预计需要向这一制度递交安全信息的产品包括了索尼公司开发的Felica非接触式智能卡系统，数字复印机和计算机服务器。中国政府称需要源代码去防止计算机病毒利用软件的漏洞，和将黑客阻挡在系统之外。但这一解释无法令担心中国政府将机密信息转交给中国公司的人放心，日本公司还担心中国情报机构可能利用此类机密信息更轻松的破解数字设备使用的代码。源代码是公司的知识产权，微软就一直不透露Windows的源代码，并依靠出售许可证获取巨额利润。</i>

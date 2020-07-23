@@ -1,0 +1,51 @@
+➜Linux 4.3发布
+https://www.solidot.org/story?sid=46007	11919
+Linus Torvalds在内核邮件列表上<a target="_blank" href="https://lkml.org/lkml/2015/11/1/202"><u>宣布</u></a>发布Linux 4.3。Linux 4.3七成的变化与驱动有关，一成与架构有关，其余部分是文件系统、网络、文档方面的更新。主要新特性包括：支持英特尔最新的Skylake显卡，初步支持AMD R9 Fury "Fiji"显卡，修改了NVIDIA开源驱动Nouveau；移除了EXT3驱动，EXT4 驱动能支持现有的EXT3文件系统；SMP调度器优化；文件系统修正和bug修复，驱动更新，等等。Linus同时宣布 4.4合并窗口开始，4.4将是一个长期支持版。
+➜紫光收购台湾力成股份，愿与联发科合并
+https://www.solidot.org/story?sid=46008	12964
+有国家开发银行等金融机构支持的国企紫光集团正通过收购的方式成为芯片行业的巨头。它宣布以6亿美元<a target="_blank" href="http://cn.wsj.com/gb/20151102/tec075553.asp"><u>收购</u></a>台湾力成科技四分之一的股权，成为该公司最大的股东。力成科技是一家芯片封装和测试公司，它将成为紫光主要的芯片封装和测试合作伙伴。<span id="articleText"><span class="focusParagraph">紫光集团董事长赵伟国表示，</span></span><span id="articleText"><span class="focusParagraph">若台湾的法令能够开放两岸半导体业合作，</span></span><span id="articleText">紫光旗下的芯片子公司展讯和锐迪科<a target="_blank" href="http://cn.reuters.com/article/2015/11/02/unigroup-mrg-tw-idCNKCS0SR02M20151102"><u>愿意与联发科合并</u></a>，超越高通成为最大的移动芯片制造商。</span><span id="articleText"><span id="articleText"><span class="focusParagraph">赵伟国</span></span>指出，全球化经营趋势是企业所有决策追求获利，与红色供应链议题及政治色彩完全无关。</span>
+➜用开源工具优化Web传输
+https://www.solidot.org/story?sid=46009	14946
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "Web代理软件能以不修改流量的方式转发HTTP请求，它们可被配置为不需要客户端配置的透明代理，或作为网站的反向代理前端使用，或充当Web服务器的缓存。这篇<a target="_blank" href="http://www.linuxlinks.com/article/20151101020309690/WebDelivery.html"><u>文章</u></a>介绍了五款优化Web传输的开源工具，包括高性能代理缓存服务器和web缓存守护进程<a target="_blank" href="http://www.squid-cache.org/"><u>Squid</u></a>，<a target="_blank" href="http://www.privoxy.org/"><u>Privoxy (Privacy Enhancing Proxy)</u></a>，<a target="_blank" href="https://www.varnish-cache.org/"><u>Varnish Cache</u></a>，<a target="_blank" href="http://www.pps.univ-paris-diderot.fr/%7Ejch/software/polipo/"><u>Polipo</u></a>，<a target="_blank" href="https://banu.com/tinyproxy/"><u>Tinyproxy</u></a>等。
+"</i>
+➜张生家被清华解聘
+https://www.solidot.org/story?sid=46010	17078
+被北京大学研究员谢灿<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=45595"><u>指责</u></a>抢发论文的清华大学独立项目负责人张生家，10月19日收到了来自清华大学人事处的<a target="_blank" href="http://learning.sohu.com/20151031/n424789817.shtml"><u>解聘书</u></a>。身在挪威的张生家通过电话告诉记者，他在3天前收到来自清华大学人事处的解聘信，信件告知学校已中止对其外国专家证的申请。据称，信中未给出任何解聘理由，但表示张生家可在一个月内向学校申诉。张生家称，他自己至今没有收到清华大学校方的任何调查回馈。“整个调查过程中，我收到的唯一反馈是在每次按要求向科研院递交完申诉材料后，科研院简短的回复：‘收到材料，谢谢。’我们从来没有机会和其他当事人当面对质。”张生家在电话中说。财新网的<a target="_blank" href="http://china.caixin.com/2015-10-30/100868477.html"><u>报道</u></a>和科学时报的<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2015/10/330703.shtm"><u>转载</u></a>都被删除了，原因未知，这是一种常态。
+➜新疆日报社总编辑赵新尉被双开
+https://www.solidot.org/story?sid=46011	17264
+<a href="/~周历王">周历王</a> 写道 "据<a target="_blank" href="http://www.xjjct.gov.cn/zhuzhan/toutwiaoy/20151101/5570.html">新疆维吾尔自治区监察厅</a>消息，新疆日报社原党委书记、总编辑、副社长赵新尉在反对民族分裂主义、暴力恐怖主义、宗教极端主义等重大原则问题上，言行不能与中央和自治区党委保持一致，被开除党籍、开除公职。<i>
+发文称：“经查，赵新尉严重违反政治纪律和政治规矩，妄议中央和自治区党委的重大工作方针、决策和决定，公开发表反对中央和自治区党委关于新疆工作重大部署要求的言
+论；故意作出与中央和自治区党委重大新闻工作部署相违背的决定；在反对民族分裂主义、暴力恐怖主义、宗教极端主义等重大原则问题上，言行不能与中央和自治
+区党委保持一致；干扰、妨碍组织审查，伪造证据、订立攻守同盟。严重违反廉洁纪律，挥霍浪费公共财产；利用职务上的便利，在干部人事调动、退休、选拔任用
+及企业经营等方面为他人谋取利益并收受财物。严重违反工作纪律，不履行全面从严治党主体责任，对本单位内设机构私设“小金库”行为不制止、不查处；不按照
+预算核拨国家财政资金，将预算款挪作他用。其中，利用职务上的便利为他人谋取利益，收受财物问题涉嫌违法犯罪。”"</i></p>
+➜详解百度应用的WormHole后门
+https://www.solidot.org/story?sid=46012	18874
+安全研究人员<a target="_blank" href="http://drops.wooyun.org/papers/10061"><u>公布了</u></a>百度旗下应用WormHole漏洞的详细分析报告。百度旗下应用安装到手机上之后，它会打开40310/6259端口，任何IP都可以连接该端口。被百度称为immortal service的HTTP服务监视来自该端口的信息，之所以被称为immortal（不朽），原因是它“会在后台一直运行，并且如果你手机中装了多个有wormhole漏洞的app，这些app会时刻检查40310/6259端口，如果那个监听40310/6259端口的app被卸载了，另一个app会立马启动服务重新监听40310/6259端口。 ”连接端口的IP需要验证一些头文件，但很容易通过伪装绕过。成功与该服务进行通讯后，就可以通过URL给APP下达指令，比如获取用户手机的GPS位置，给手机增加联系人，下载任意文件到指定路径如果文件是apk则进行安装。趋势科技发表了一篇报道<a target="_blank" href="http://blog.trendmicro.com/trendlabs-security-intelligence/setting-the-record-straight-on-moplus-sdk-and-the-wormhole-vulnerability/"><u>描述了百度的WormHole后门</u></a>。
+➜研究人员发现中国超市出售食盐内含有塑料颗粒
+https://www.solidot.org/story?sid=46013	26716
+华东师范大学的研究人员从中国各地的超市购买了15种品牌的食盐，<a target="_blank" href="http://www.scientificamerican.com/article/plastic-contaminates-table-salt-in-china/"><u>分析发现了塑料污染颗粒</u></a>，包括塑料瓶的聚对苯二甲酸乙二酯、聚乙烯和玻璃纸。<a target="_blank" href="http://pubs.acs.org/doi/abs/10.1021/acs.est.5b03163?source=cen">研究论文</a>发表在《Environ. Sci. Technol.》期刊上。海盐的塑料污染最严重，研究人员发现每磅海盐有1200多个塑料颗粒。来自咸湖、咸井和盐矿的食盐也都有微量的塑料。海盐中的塑料来自海洋中漂浮的塑料污染物，研究人员认为在盐的处理、干燥和打包过程中也都可能会混入塑料颗粒。<br>
+➜SEC允许通过众筹投资创业公司
+https://www.solidot.org/story?sid=46014	28589
+美国证券交易委员会（SEC）上周以3比1通过决议，允许小投资人通过在线众筹<a target="_blank" href="http://arstechnica.com/business/2015/11/sec-moves-to-allow-crowdfunding-investments/">购买创业公司的股份</a>。在这之前，私人公司只能通过“合格投资者”寻求投资。而所谓的合格投资者是指拥有100万美元以上资产的投资者，或至少两年收入超过20万美元。根据新的规则，年收入或净值低于10万美元的人允许最多投资其年收入或净值的5%——也就是最多2000美元。收入更高的人则可以投资最多10%。个人投资者12个月的众筹投资总和不能超过10万美元，他们也不能在一年内转售其众筹证券。
+➜国产干线客机C919下线
+https://www.solidot.org/story?sid=46015	30326
+官方新华社<a target="_blank" href="http://www.bbc.com/zhongwen/simp/business/2015/11/151102_china_big_airplane"><u>报道</u></a>，由中国自主研制的首款大型干线客机C919周一在中国商飞公司新建成的总装制造中心浦东基地厂房内正式下线。<a target="_blank" href="https://en.wikipedia.org/wiki/Comac_C919"><u>C919</u></a>设计与波音的737和空客的A320展开竞争，有158个到174个座位，最大航程5555公里，预计将在2016年首飞，目前已有517架订单，但绝大部分来自国有航空公司，只有一家外国公司——通用电气的飞机租赁服务公司订购了20架，另外三家国外航空公司签署了订购意向或表达了兴趣。
+➜中国透露超级对撞机计划
+https://www.solidot.org/story?sid=46016	33510
+官方媒体报道，中国计划从2020年起<a target="_blank" href="http://www.theguardian.com/science/2015/oct/29/china-supercollider-higgs-boson-science-leader"><u>建造世界最强大的超级对撞机</u></a>。中科院高能物理研究所所长王贻芳说，对撞机的最终版概念设计预计将在2016年底完成，它设计将能产生7倍于LHC的对撞能量，能生成数百万希格斯玻色子。王贻芳称，LHC已经达到了它的能级设计限制，无法再在现有设施上大幅提升对撞能力。欧洲粒子物理研究所也有LHC升级计划。中国的超级对撞机计划始于2013年，候选建造位置是秦皇岛。
+➜苹果禁止混沌计算机俱乐部的Apple TV App
+https://www.solidot.org/story?sid=46017	34507
+苹果以违反开发者条款的名义<a target="_blank" href="https://unthoughted.wordpress.com/2015/10/31/apple-verbietet-inhalte-vom-chaos-computer-club-auf-ihrer-plattform/"><u>未批准（德语）</u></a>混沌计算机俱乐部（CCC）的Apple TV App。混沌计算机俱乐部是欧洲最大的黑客组织，它每年都主办一个混沌通信大会（也叫CCC），演讲嘉宾将在会上讨论各种安全相关的话题。它开发的App就是展示会议的演讲视频。苹果拒绝批准App上架的理由就是CCC视频介绍的安全漏洞能帮助越狱苹果设备，安装和使用苹果没有批准的应用。CCC也将演讲视频上传到了YouTube，苹果用户仍然可以通过YouTube的Apple TV App观看CCC黑客演讲。
+➜岛民创建自己的互联网服务
+https://www.solidot.org/story?sid=46018	37231
+当你生活在一个网络接入不可靠和缓慢的地方，你可能除了抱怨什么也不会去做。但美国华盛顿州<a target="_blank" href="https://en.wikipedia.org/wiki/Orcas_Island"><u>奥斯卡岛</u></a>的居民在遭遇10天断网后选择联合起来<a target="_blank" href="http://arstechnica.com/information-technology/2015/11/how-a-group-of-neighbors-created-their-own-internet-service/"><u>创建自己的互联网服务</u></a>。由当地居民Chris Sutton等人组建的非营利组织Doe Bay Internet Users Association向居民提供了无线互联网接入服务，该服务由微波塔、安装在树和房屋上的无线电网络设备构成。DBIUA于2014年9月上线，服务于大约50户居民，它的网络下载速度30Mbps上传速度40Mbps。相比之下以前的网速只有大约700kbps。
+➜美国担心IBM等公司与中国的合作威胁国家安全
+https://www.solidot.org/story?sid=46019	39543
+与美国科技巨头IBM、思科和微软合作的中国企业中间，有许多与中国军方存在紧密联系。美国担心这种合<a target="_blank" href="http://cn.nytimes.com/technology/20151102/c02chinatech/"><u>作会威胁到国家安全</u></a>。美国安全公司国防集团公司发表报告称，IBM与中国的合作——IBM全球计划Open Power的一部分——已经危害到美国的国家安全。该报告称，“IBM危及美国的国家安全及经济安全，将其全球客户的网络安全置于风险之中，破坏了美国数十年来采用的高性能计算不扩散政策。”IBM发言人称国防集团公司“完全曲解了IBM在中国的计划。”今年2月，美国商务部称，中国四所超级计算机中心通过英特尔中国合作伙伴浪潮取得了英特尔芯片，这些设施“参与了危及美国国家安全和外交政策利益的活动”。英特尔表示，公司现已遵照美国法律，停止向中国出售这些芯片。分析师指出，任何限制美国公司和中国伙伴在商用技术上合作的政策，都有可能损害公司的竞争力。“中国企业被要求对政府尽心尽力，美国企业则说它们只听命于股东，”咨询公司安可顾问的大中国区主席麦健陆说。“那么，谁为美国谋求利益？”
+➜NASA研究显示南极冰层变厚
+https://www.solidot.org/story?sid=46020	43873
+发表在《Journal of Glaciology》上的一项<a target="_blank" href="http://www.ingentaconnect.com/content/igsoc/jog/pre-prints/content-ings_jog_15j071;jsessionid=pi1c23u2cqo4.alexandra"><u>NASA研究</u></a>得出与联合国政府间气候变化专门委员会相反的结论：最近几十年<a href="http://www.upi.com/Science_News/2015/10/31/NASA-study-Net-gains-for-Antarctic-ice-sheets/9711446321864/"><u>南极冰</u><u>盖在变厚而不是在变薄</u></a>。冰盖冰增加的速度超过了融化速度。最新研究并没有完全推翻冰川、冰盖和海冰大幅减少的结论，而是提供了证据解释先前未说明的部分地区冰层变厚。最新卫星数据显示，南极半岛和西南极洲在1992年到2001年之间每年冰净增1120亿吨，2003年到2008年之间每年净增820亿吨。最新发现可能迫使科学家重新思考试图解释海平面上升的模型。
+➜格陵兰岛的雪没有变暗，是卫星传感器的错
+https://www.solidot.org/story?sid=46021	45645
+过去几年的卫星观测数据显示，格陵兰岛的明亮区域——也就是被雪覆盖的区域——在变暗，地面吸收了更多热量导致融化在加速。一些研究认为，格陵兰岛的“脏冰”或“<a target="_blank" href="http://www.motherjones.com/environment/2014/09/why-greenland-dark-snow-should-worry-you"><u>暗雪</u></a>”是化石燃料污染或森林火灾导致的。但最新研究认为格陵兰岛没有变暗，<a target="_blank" href="http://www.sciencedaily.com/releases/2015/10/151030220525.htm"><u>是卫星上的老化传感器在捣蛋</u></a>。研究人员分析了过去十年的样本，然后与早年的雪样本进行比较，没有发现格陵兰岛上的黑炭沉积物显著增加。他们<a target="_blank" href="http://news.slashdot.org/story/15/11/01/1939240/greenland-ice-sheet-not-covered-in-soot"><u>认为</u></a>，是NASA卫星MODIS上的老化不精确的传感器导致了这一结果。

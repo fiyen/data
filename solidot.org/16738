@@ -1,0 +1,55 @@
+➜Google将Chrome OS合并到Android
+https://www.solidot.org/story?sid=45984	11483
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://www.wsj.com/articles/alphabets-google-to-fold-chrome-operating-system-into-android-1446151134"><u>报道</u></a>（付费墙），Google正计划将桌面操作系统Chrome OS合并到其移动操作系统Android中。Chrome OS是基于Linux的Web OS，所有的应用都是Web应用，但被包装成桌面应用，通过Google Web Toolkit启动。但在Android上，浏览器只是其中一个应用，它拥有着完整的应用平台，有大量的非Web应用。有用户<a target="_blank" href="https://news.ycombinator.com/item?id=10474206"><u>指出</u></a>两个操作系统在设计模式上的差异：Android对多任务的支持不如Chrome OS，因为它是基于单任务模式，而Chrome OS则是基于多任务模式。
+➜美国教育方法遇到中国应试制度
+https://www.solidot.org/story?sid=45985	12120
+一位在中国高中执教和开展教育改革实验的美国教师<a target="_blank" href="http://cn.nytimes.com/education/20151029/c29teacher/"><u>分享了他的经历</u></a>：自主学习是课程的核心，但中国的应试教育却强烈排斥以学生为中心的学习方式。在考试的重压之下，学生们往往不看重批判性思维和课堂上的口头发言。他注意到了中美教育理念的差异：中国侧重最终结果；美国则关注获得最终结果的过程。在与学生的交流互动中，他最终得出了一个结论：中国学生只能完全靠自己学会自主学习的能力，而不能通过学校。
+➜Google的互联网气球将为印尼人提供网络接入服务
+https://www.solidot.org/story?sid=45986	15284
+Google的互联网气球 Project Loon将为1亿印尼人<a target="_blank" href="http://www.thestar.com/business/2015/10/29/google-project-loon-balloons-to-blanket-indonesia-with-internet.html"><u>提供高速网络接入服务</u></a>。气球将悬浮在印尼上空的同温层。印尼是一个岛国，2.5亿人口分散在1.7万个岛屿上，其中只有4200万人能访问互联网。Project Loon试图改变这一状况，它现在隶属于Alphabet而不再是靠数字广告赚钱的Google。互联网接入服务将通过印尼的无线运营商提供给用户。如果一切顺利，Google将在印尼的上空部署数百个气球去充当手机塔。印尼总统支持这项计划，但无线运营商没有总统这么热衷。印尼最大的电信公司Telkom持保留意见，因为Project Loon将对该公司的网络建设项目展开竞争。Project Loon表示将与运营商分享收入。
+➜Tor Messenger客户端发布beta版
+https://www.solidot.org/story?sid=45987	17418
+Tor Project<a target="_blank" href="https://blog.torproject.org/blog/tor-messenger-beta-chat-over-tor-easily"><u>宣布</u></a>发布Tor Messenger客户端的beta版。Tor Messenger基于Mozilla的 Instantbird，所有聊天流量都通过Tor传输，支持Jabber(XMPP)、IRC、Google Talk、Facebook Chat、Twitter和Yahoo，自动启用<a target="_blank" href="https://otr.cypherpunks.ca/"><u>Off-the-Record (OTR) Messaging</u></a>。选择Instantbird而不是 Pidgin的原因是可以利用现有的Tor项目代码。下载：<a target="_blank" href="https://dist.torproject.org/tormessenger/0.1.0b2/tor-messenger-linux32-0.1.0b2_en-US.tar.xz"><u>Linux </u></a>(32-bit)，<a target="_blank" href="https://dist.torproject.org/tormessenger/0.1.0b2/tor-messenger-linux64-0.1.0b2_en-US.tar.xz"><u>Linux </u></a>(64-bit)，<a target="_blank" href="https://dist.torproject.org/tormessenger/0.1.0b2/tormessenger-install-0.1.0b2_en-US.exe"><u>Windows</u></a>和<a target="_blank" href="https://dist.torproject.org/tormessenger/0.1.0b2/TorMessenger-0.1.0b2-osx64_en-US.dmg"><u>OS X</u></a>。
+➜百度声称修复旗下手机应用的WormHole漏洞
+https://www.solidot.org/story?sid=45988	19009
+安全研究人员在10月21日称，百度旗下的手机应用百度地图、百度浏览器等存在名为<a target="_blank" href="http://wooyun.org/bugs/wooyun-2015-0148406"><u>WormHole</u></a>的安全漏洞。如果用户的手机中安装有这些存在漏洞的应用软件，手机在连接网络后就有被远程控制的风险。漏洞细节没有公开，360的安全专家称，百度的广告端口存在身份验证和权限控制缺陷，攻击者拿下这个端口的权限，便可以获得手机近乎全部的控制权。攻击者事先无需接触手机，就可以达到远程安装和启动应用、获取用户地理位置信息等目的。漏洞只与手机的应用软件有关，不受手机本身系统版本的影响。百度表示<a target="_blank" href="http://china.cnr.cn/xwwgf/20151029/t20151029_520327385.shtml"><u>已经修复了漏洞</u></a>，正在更新旗下所有的手机应用。
+➜Steam上线人民币结算
+https://www.solidot.org/story?sid=45989	24366
+<div align="center"><img src="http://img.solidot.com.cn/0/123/lidyb1bw0cY6E.png" align="" height="185" width="500"><br>
+<br>
+</div>
+PC数字游戏发行平台<a target="_blank" href="http://store.steampowered.com/"><u>Steam</u></a>正式通过邮件通知中国用户，宣布将于11月3日（美国时间）起改以人民币作为中国地区的默认商店货币单位，用户钱包中的美元资金将根据当时的汇率转换成人民币。Steam已经在许多地区采用当地货币结算（可查看<a target="_blank" href="https://steamdb.info"><u>SteamDB</u></a>了解），发行商一般会根据当地的情况设定不同的定价，比如俄区游戏的定价通常都远低于其它区域，但同时会伴随着一些其它限制如禁止跨区交易。目前还不知道中国区的游戏是否会降价，如果降价的话，中国数字游戏分销商可能会受到冲击。
+➜英国警方利用反恐法扣押BBC记者的笔记本电脑
+https://www.solidot.org/story?sid=45990	27205
+英国警方利用反恐法授予的权力<a target="_blank" href="http://www.independent.co.uk/news/uk/crime/police-use-terror-powers-to-seize-bbc-newsnight-journalists-laptop-a6712636.html"><u>扣押了</u></a>BBC时事节目新闻之夜记者Secunder Kermani的笔记本电脑。Kermani发表了一系列有关出生于英国的圣战士的报道，警方根据反恐法律获得法庭授权扣押电脑去跟踪Kermani的消息来源。此事震惊了他的BBC同事和新闻自由组织，一位BBC记者说，警方此举将使得记者难以报道重要的公众利益问题。媒体律师认为这会产生寒蝉效应。
+➜Windows 10将被列为“推荐更新”
+https://www.solidot.org/story?sid=45991	28649
+微软<a target="_blank" href="https://blogs.windows.com/windowsexperience/2015/10/29/making-it-easier-to-upgrade-to-windows-10/"><u>官方博客</u></a>称，从明年初起，通过Windows Update推送的Windows 10升级将从“可选更新”变为“推荐更新”。推荐更新意味着系统将会下载Windows 10，通知用户升级已经准备就绪只需要点击允许就会开始改变用户现有的操作系统。本月早些时候微软已经不小心让部分用户提前“享受”到了Windows 10“推荐更新”。微软正努力让所有Windows用户升级到Windows 10，并准备提供方便的方法让试图升级到Windows 10的盗版用户购买正版。
+➜欧盟议会通过无约束力决议保护 Edward Snowden
+https://www.solidot.org/story?sid=45992	30518
+欧盟议会以285票赞成281票反对，通过一项<a target="_blank" href="http://www.europarl.europa.eu/news/en/news-room/content/20151022IPR98818/html/Mass-surveillance-EU-citizens'-rights-still-in-danger-says-Parliament"><u>没有约束力的决议</u></a>，呼吁成员国放弃任何针对Edward Snowden的犯罪指控，给予他保护，阻止他被引渡。欧盟承认Snowden是一名告密者，一名国际人权的捍卫者。Snowden在Twitter上<a target="_blank" href="https://twitter.com/Snowden/status/659735556868435968"><u>称</u></a>欧盟的投票表决有可能改变现状。美国国家安全委员会发言人<a target="_blank" href="http://arstechnica.com/tech-policy/2015/10/european-parliament-votes-to-shield-snowden-from-extradition-to-us/"><u>表示</u></a>，美国的立场没有发生改变，Snowden泄露机密信息，面临重罪指控，他应该尽可能快的返回美国，按照法律程序接受审判。Snowden目前正在俄罗斯避难。
+➜游戏开发商向认真看EULA的玩家送礼
+https://www.solidot.org/story?sid=45993	32597
+在你安装一个程序前，它会弹出最终用户许可协议(EULA)要求你同意。大部分人都会看也不看就同意。角色扮演游戏《神界:原罪加强版》的开发商Larian Studios在EULA内<a target="_blank" href="http://arstechnica.com/gaming/2015/10/divinty-original-sin-developer-hides-giveaway-in-eula-fine-print/"><u>植入了一个彩蛋</u></a>，向读完EULA并向他们发送邮件的前100名正版玩家赠送特殊礼物——以物质或非物质形式。《神界:原罪加强版》于本周在Steam上发布，Larian Studios<a target="_blank" href="https://www.facebook.com/LarianStudios/posts/1000420420018156"><u>表示</u></a>它很高兴玩家真的会读EULA。它没有透露究竟送了什么礼物。
+➜秦俑VPN服务明文发送用户账号
+https://www.solidot.org/story?sid=45994	38364
+<div align="center"><img src="http://img.solidot.com.cn/0/125/li80wjUVxen2s.jpg" align="" height="319" width="560"><br>
+<br>
+</div>
+今年8月，RSA研究人员公布<a target="_blank" href="https://blogs.rsa.com/wp-content/uploads/2015/08/Terracotta-VPN-Report-Final-8-3.pdf"><u>报告</u></a>（PDF）称，中国的黑客组织通过入侵Windows服务器创建了一个庞大的商业VPN服务，研究人员将其称之为<a target="_blank" href="http://security.solidot.org/story?sid=45023"><u>秦俑</u></a>。秦俑VPN包含了1800个节点，其中572个位于美国，204个位于韩国。黑客组织以网游加速器和翻墙工具的名义出售这个商业VPN服务，它也被中国的APT组织如Deep Panda用作隐藏身份的跳板，没有证据显示两者有联系。RSA研究人员前不久又<a target="_blank" href="http://www.theregister.co.uk/2015/10/28/chinese_popped_box_vpn_crims_screamed_hacker_booty_in_cleartext/"><u>发表报告</u></a>称，秦俑节点以明文形式发送用户账号凭证，VPN设立后的第一个测试帐号是Wang Jia "testwj"。<br>
+<br>
+➜独生子女政策的终结
+https://www.solidot.org/story?sid=45995	40205
+路透社称，劳动年龄人口数量逐年下降、社会养老压力日益增大，促使人口红利逐渐消失的中国决定抓住修复人口结构的最后“窗口期”，<a target="_blank" href="http://cn.reuters.com/article/2015/10/30/cn-child-plcy-idCNKCS0SO0Y320151030?pageNumber=1"><u>全面放开二胎政策</u></a>。但二胎全面放开，并不意味着生育率就会有明显提升。在经济和社会观念快速发展变化之际，年轻一代生育观念已发生重大变化，而购房、医疗、养老和教育等重重压力，更是让年轻人生育意愿和动力大大减弱。分析人士认为，现阶段全国符合全面两孩政策条件的夫妇约有9000万对，即便按偏低的生育率来看，放开二胎带来的新增婴儿数量亦不容小觑，将在未来四年内集中释放，每年可创造千亿消费，长期亦有助于补充劳动力供给、修复扭曲的人口结构。“今后几年，劳动力资源比较丰富，社会抚养负担较轻，是调整完善计划生育政策的有利时机，”国家卫生计生委副主任王培安称。“实施全面两孩政策，短期可以直接拉动对妇幼健康、婴幼用品、托幼服务、教育等领域的消费，”王培安称，“长期看，到2050年，15-59岁劳动年龄人口将增加3000万左右，有利于稳定经济增长预期。”
+➜中国需要Facebook吗？
+https://www.solidot.org/story?sid=45996	41837
+扎克伯格（Mark Zuckerberg）正在想尽方法进入中国：上个月他邀请习近平为他未出生的女儿取名；他告诉网信办主任他在读习近平的著作，不仅他自己读，还介绍给朋友和同事；上周他在清华大学用口语严重的普通话做了20分钟演讲。中国有着世界上最多的网民，如果扎克伯格想要实现连接全世界的梦想，那么他需要找到方法进入中国。但问题是<a target="_blank" href="http://www.bloombergview.com/articles/2015-10-28/does-china-even-need-facebook-"><u>中国需要Facebook</u></a>吗？2008年，Facebook推出了中文简体版本，当时它还没有被封锁，但几个月只吸引了28.5万中国用户，一周注册人数约3000。2009年7月它遭到了封锁。它旗下的移动通信工具WhatsApp没有被封锁，但中国用户也是寥寥无几。它相对于中国竞争对手如腾讯的QQ和微信，并没有多少优势。它唯一的优势也许是不审查内容，但要进入中国，审查是不可避免的。
+➜北美发现了一种混合狼、郊狼和狗基因的新物种
+https://www.solidot.org/story?sid=45997	44372
+在北美，狼的生活环境因为人类的到来而发生巨大改变，郊狼和狗跟着人类的脚步进入了曾经由狼独占的土地，<a target="_blank" href="http://www.economist.com/news/science-and-technology/21677188-it-rare-new-animal-species-emerge-front-scientists-eyes?cid1=cust/ednew/n/bl/n/20151029n/owned/n/n/nwl/n/n/NA/n"><u>产生了一种多重杂交的新物种</u></a>。跨物种杂交后代如果能生存下来的话通常被认为会比父母弱，但结合狼、郊狼和狗基因的新物种则是一个例外。它被称为Coywolf，为郊狼coyote 和狼wolf单词的组合。基因分析显示，Coywolf的遗传物质主要来自郊狼，有十分之一来自狗，四分之一来自狼。多数Coywolf有两倍于纯种郊狼的体重。它有着更大的颌、更多的肌肉和更快的脚。单个的Coywolf能捕捉小鹿，一群Coywolf甚至能杀死大型的驼鹿。狼爱在森林里捕猎，Coywolf不喜欢，它能在开阔环境和茂密林区里捕捉猎物。
+➜研究发现常用解充血药无效
+https://www.solidot.org/story?sid=45998	46182
+解充血药能在你呼吸不畅帮助呼吸顺畅，但研究发现市场上销售的常用解充血药苯肾上腺素<a target="_blank" href="http://arstechnica.com/science/2015/10/common-decongestant-may-be-worthless-study-finds/"><u>是无用的</u></a>，效果并不比安慰剂好，即使增加了剂量也没用。研究人员呼吁FDA将苯肾上腺素从有效鼻解充血药的名单上移除。<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S2213219815002524"><u>论文</u></a>发表在《The Journal of Allergy and Clinical Immunology: In Practice》期刊上。它不是第一个发现苯肾上腺素无效的研究。苯肾上腺素的有效性早就受到了质疑。
+➜谷歌创始人：Alphabet业务可分步进入中国
+https://www.solidot.org/story?sid=45999	55117
+<a href="mailto:xibaozi@sigaint.org">Obago</a> 写道<i> "据《华尔街日报》<a title="报道" href="http://blogs.wsj.com/digits/2015/10/29/some-google-units-may-return-to-china-ahead-of-others-brin-says/" target="_blank">报道</a>，谷歌联合创始人谢尔盖·布林（Sergey Brin）周三在接受采访时表示，公司于近期完成的企业重组将有助于让部分业务先于整个集团重新进驻中国市场。“我们已经在中国开展了大量业务，尽管这并不容易。”布林表示。谷歌目前可以在中国销售广告，不过其搜索引擎却无法在该地区使用。然而上个月有报道称，谷歌正在考虑让旗下Android应用商店先入驻中国。本人全文在<a title="这里" href="http://www.cnbeta.com/articles/443325.htm" target="_blank">这里</a>。（本人发现大概从前两天开始，<a href="http://www.google.com/ncr">www.google.com/ncr</a>已经不能搜索了，键入关键词回车之后不会显示搜索结果，而是一片空白，而用<a href="http://www.google.com.hk">www.google.com.hk</a>才能正常搜索，这是否是墙内谷歌即将来临的一个明显的信号？）"</i>

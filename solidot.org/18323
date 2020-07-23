@@ -1,0 +1,24 @@
+➜微软和 Google 的浏览器竞争
+https://www.solidot.org/story?sid=63675	10312
+当基于 Chromium 的 MS Edge 用户访问 Google 的 Chrome Web Store 下载扩展，Google 会以安全理由建议用户切换到 Chrome。接近 Google 的知情人士称用的是 Chrome 的话，如果因某种缘故认为扩展不安全，Chrome 团队可以远程禁用扩展。但如用的是 MS Edge，Google 是无法远程禁用扩展的，因此 Google 才推荐用户切换到 Chrome。然而，Google 并未对同样基于 Chromium 的 Opera 用户发出相同的警告。Google 在恐吓用户，<a href="https://www.pcworld.com/article/3528753/google-and-microsoft-are-killing-the-new-edge-browser-with-scare-tactics-over-extensions.html"><u>而微软也在做同样的事情</u></a>：当 MS Edge 用户尝试添加 Chrome 扩展，微软警告从非 Microsoft Store 来源安装的扩展是未经验证过的，可能会影响浏览器性能。来自任何地方的扩展都会影响浏览器性能，这是其本质所在。如果你在微软搜索引擎搜索“<a href="https://cn.bing.com/search?q=Chrome+web+store&amp;qs=n&amp;form=QBLHCN&amp;sp=-1&amp;pq=chrome+web+store&amp;sc=8-16&amp;sk=&amp;cvid=66E017D059E9467F9F6B2EAC642FAF34"><u>Chrome Web Store</u></a>” ，第一个结果是微软的 Edge 浏览器广告。 两家公司都在做自己所认为的<a href="https://tech.slashdot.org/story/20/02/29/066211/is-microsoft-retaliating-for-chromes-warnings-about-extension-security-in-edge"><u>最正确的事情</u></a>。
+➜Ghostcat 漏洞影响过去 13 年发布的所有 Apache Tomcat 版本
+https://www.solidot.org/story?sid=63676	17358
+Ghostcat 漏洞<a href="https://www.zdnet.com/article/ghostcat-bug-impacts-all-apache-tomcat-versions-released-in-the-last-13-years/" target="_blank"><u>影响</u></a>过去 13 年发布的所有 Apache Tomcat 版本，该漏洞允许攻击者控制系统。<a href="https://www.chaitin.cn/zh/ghostcat"><u>Ghostcat</u></a> 是中国安全公司长亭科技发现的，存在于  Tomcat AJP 协议中，攻击者通过 Tomcat AJP Connector 可以读取或包含 Tomcat 上所有 webapp 目录下的任意文件，例如可以读取 webapp 配置文件或源代码。此外在目标应用有文件上传功能的情况下，配合文件包含的利用还可以达到远程代码执行的危害。
+➜《Plague Inc: Evolved》Steam 版封锁国区
+https://www.solidot.org/story?sid=63677	21575
+在<a href="https://www.solidot.org/story?sid=63652"><u>苹果 App Store</u></a> 之后，传染病主题的策略游戏《<a href="https://store.steampowered.com/app/246620/Plague_Inc_Evolved/"><u>瘟疫公司（Plague Inc: Evolved）</u></a>》Steam 版也封锁了国区。中国区用户访问该网页会显示“您所在的地区目前不提供此物品”，暂时不清楚这是 Steam 运营商 Valve 收到了通知还是开发商 Ndemic Creations 主动限制中国区用户。但在《瘟疫公司》 从苹果 App Store 中国区下架之后，开发商发表<a href="https://www.ndemiccreations.com/en/news/174-app-store"><u>声明</u></a>称，它收到苹果的通知称，“经中国国家网信办审查存在违反国内法律内容”，表示情况已完全超出其控制，“我们尚不清楚游戏下架是否与中国当下正在应对的冠状病毒疫情有关。然而，《瘟疫公司》在教育领域的重要作用业已屡获 CDC 等组织认可。我们正与世界主要卫健机构开展合作，以期为抗击 COVID-19 贡献力量。我们正在全力以赴争取游戏重返中国 — 我们不会置亲爱的中国玩家于不顾 — 然而我们作为偏居英国的小型独立游戏工作室，自知面前仍有长路要走。我们的当务之急是尝试联络中国国家互联网信息办公室（www.cac.gov.cn）以了解其关切并共同寻求解决方案。”
+➜12 个国家考虑发行央行数字货币
+https://www.solidot.org/story?sid=63678	23601
+现金不再为王，随着移动支付和支付卡的流行，各国央行开始考虑发行自己的数字货币（Central bank digital currencies 或 CBDC）。根据国际清算银行的<a href="https://www.bis.org/publ/qtrpdf/r_qt2003.htm"><u>报告</u></a>，12 个国家的央行在研究或试验 CBDC。现金在绝大部分地区并没有消失，但在部分国家其使用率大幅下降。韩国的非现金交易占到了 86%，瑞典和芬兰占到了 80%， 美国、英国和荷兰等也都超过了 50%。数字化物理货币面临<a href="https://qz.com/1810727/central-banks-are-researching-digital-currencies-to-replace-cash/"><u>巨大的挑战</u></a>，此类的虚拟货币必须具有类似现金的免于违约，具有隐私，不受断电影响，易于使用，能在传统账务系统中使用，或不容易受到单点故障的影响。各国在发行 CBDC 时必须权衡利弊。
+➜流媒体音乐拯救唱片公司
+https://www.solidot.org/story?sid=63679	36934
+唱片行业（或主要唱片公司）几年前还岌岌可危，销量从其顶峰下滑了一半，单次下载、YouTube 和盗版让唱片专辑几近消失。但新的商业模式让唱片公司的收入<a href="https://edition.cnn.com/2020/02/28/media/music-industry-streaming/index.html" target="_blank"><u>再次实现了增长</u></a>。去年美国唱片收入增长了 13% 至 111 亿美元，为 2006 年以来的最高水平。流媒体音乐在快速增长，唱片行业以前依赖于消费者购买黑胶唱片和 CD，如今则转移到流媒体订阅服务如 Spotify。RIAA 的研究高级副总裁 Josh Friedlander 称，唱片行业比十多年前更健康。流媒体音乐的收入在 2009 年只占到行业总收入的 5%，2019 年占到了约 80%，而流媒体的增长目前还看不到放缓的趋势，Spotify 的付费订阅用户数量比一年前增长了 30% 至 1.24 亿，亚马逊的音乐订阅服务同比增长了 50% 至 5500 万，苹果音乐订阅用户数突破了 6000 万。
+➜亚马逊下架了百万声称能治疗新冠的商品
+https://www.solidot.org/story?sid=63680	42214
+电商巨头从其平台<a href="https://www.siliconvalley.com/2020/02/28/amazon-bans-1-million-products-due-to-coronavirus-claims/" target="_blank"><u>下架了</u></a>超过一百万声称能治愈或防止新冠病毒扩散的商品。在这之前，Facebook 宣布在其平台禁止治疗新冠的产品广告。新冠病毒目前感染了超过 8 万人，还不存在有效治疗药物。亚马逊除了下架虚假产品之外，还吊销或封杀了数千家商户账号，这些商户被指对口罩、消毒液等用于防止新冠状病毒扩散的商品收取过高的费用。亚马逊发言人在一份声明中称，该公司要求商家在产品页提供精确的信息，移除违反其政策的商品。
+➜SpaceX 赢得 NASA 合同发射飞船探索小行星带天体灵神星
+https://www.solidot.org/story?sid=63681	43976
+SpaceX <a href="https://www.teslarati.com/spacex-falcon-heavy-nasa-psyche-mission-asteroid/"><u>赢得</u></a>了 NASA <a href="https://www.nasa.gov/press-release/nasa-awards-launch-services-contract-for-the-psyche-mission"><u>Psyche 任务</u></a>的 1.17 亿美元发射合同，将在 2022 年左右发射探测器探测小行星带的金属天体灵神星（16 Psyche）。<a href="https://en.wikipedia.org/wiki/16_Psyche"><u>灵神星</u></a>是小行星带最大的天体之一，直径超过 200 公里，其质量占到了小行星带总质量的约 1%。小行星带的大部分天体都是由岩石和冰构成，而灵神星由铁和镍构成，这使得它成为一个引入关注的对象，被认为能提供行星如何形成的见解。它被认为是一个巨大天体的核心残骸，这个天体在数十亿年前与木星发生碰撞。我们无法研究地核，但也许能通过灵神星更深入的理解行星的金属核心。这是 SpaceX 重型火箭 Falcon Heavy 获得的第一份发射合同。
+➜天文学家观测到已知最大的爆炸
+https://www.solidot.org/story?sid=63682	50488
+天文学家在 3.9 亿光年外蛇夫座星系团的一个超大质量黑洞附近<a href="https://www.newscientist.com/article/2235649-astronomers-have-discovered-the-biggest-explosion-in-the-universe/" target="_blank"><u>观测到</u></a>一个奇怪的空洞，它被认为是一场巨大爆炸留下的，而这次爆炸是已知最大的，所释放的能量是此前记录的五倍多。<a href="https://arxiv.org/abs/2002.01291"><u>研究报告</u></a>发表在预印本网站上。此类爆炸发生在大量物质被超大质量黑洞吞噬过程中，当黑洞旋转和扭曲时空，物质转变成一个强大的射流飞离而去。这个空洞有 75 万光年宽，创造这一空洞所需的能量大约为太阳一生所释放能量的 100 亿倍。天文学家不清楚这个不再活跃的黑洞是如何释放出如此巨大的能量。

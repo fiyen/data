@@ -1,0 +1,46 @@
+➜日产芥末酱中甲苯含量的意义
+https://www.solidot.org/story?sid=8483	3000
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "国家质检总局发布<a href="http://www.aqsiq.gov.cn/zjxw/zjxw/zjftpxw/200810/t20081030_95559.htm">公告</a>，说从从日本进口的日式酱油、芥末酱中检测出了甲苯和乙酸乙酯。其中甲苯的最高检出值为0.0053mg/kg，乙酸乙酯最高检出值为0.537mg/kg。
+<i>先不说乙酸乙酯，先说<a href="http://zh.wikipedia.org/wiki/%E7%94%B2%E8%8B%AF">甲苯</a>：甲苯作为汽油中的主要成分，会随尾气排放到空气中。<a href="http://www.ep.net.cn/msds/wuzhi3/32052.htm">城市空气中的甲苯浓度</a>通常为112.5-150µg/m3。它会通过吸入、食入、经皮吸收侵入人体。在1个大气压，20摄氏度时，空气密度为1.204公斤/立方米。换算可得：112.5 / 1.204=93.4385382微克/公斤=0.0934385382毫克/公斤
+</i>这个数值是质检总局从食品中检出的甲苯含量0.0053毫克/公斤的17倍多。也就是说，通常城市空气中的甲苯含量都要比这些食品中的甲苯含量高很多。"
+➜Fedora Sugar Spin发布
+https://www.solidot.org/story?sid=8484	11880
+OLPC项目在其XO笔记本上运行的是Fedora发行版的一个衍生产物，最主要的特性是叫Sugar的由Red Hat和其他开发者合作开发、目前由非赢利组织Sugarlabs维护的桌面环境。<i>
+现在Fedora项目发布了<a href="https://www.redhat.com/archives/fedora-announce-list/2008-October/msg00012.html">Sugar Spin</a>，一个live CD，默认桌面为Sugar，<a href="http://osnews.com/comments/20463">增加了一些额外的功能</a>，包括基于XULRunner的Sugar浏览器，基于Abiword的sugar写作软件，Fedora liveusb-creator软件也在更新中加入了Sugar Spin支持。许多人现在都没有尝试过XO笔记本，这个live CD可让你体会一下。</i> <a href="http://sdz.fedorapeople.org/olpc/sugar-spin.iso">下载</a>
+➜OpenBSD 4.4发布
+https://www.solidot.org/story?sid=8485	16500
+OpenBSD团队正式发布了<a href="http://marc.info/?l=openbsd-announce&amp;m=122547376504077&amp;w=2">OpenBSD 4.4</a>。新版本有许多重大改进和新特性，包括：<i>支持新平台如富士通的SPARC64-V、VI和VII处理器，Sun的UltraSPARC VI、T1和T2处理器；改进了硬件支持，如Intel G33和G35芯片组，Attansic L2 10/100网卡等；增加了新工具，如监控计算机状态的程序rpc.statd(8)；此外还有许多新增功能和众多大大小小的改进，OpenSSH 5.1增加了新的试验性指纹ASCII艺术视觉系统。你可以在<a href="http://www.openbsd.org/getting.html">下载页</a>选择不同方式下载。</i>
+➜莫里斯蠕虫诞生20周年
+https://www.solidot.org/story?sid=8486	18300
+1988年11月2日，康乃尔大学研究生莫里斯（Robert Morris）释放了莫里斯<a href="http://zh.wikipedia.org/w/index.php?title=%E8%A0%95%E8%99%AB%E7%97%85%E6%AF%92&amp;variant=zh-hans">蠕虫</a>的第一个版本，病毒迅速在网络上蔓延，造成了近1亿损失。<i>
+作为病毒对网络的<a href="http://www.networkworld.com/cgi-bin/mailto/x.cgi?pagetosend=/export/home/httpd/htdocs/news/2008/103008-morris-worm.html&amp;pagename=/news/2008/103008-morris-worm.html&amp;pageurl=http://www.networkworld.com/news/2008/103008-morris-worm.html&amp;site=printpage">第一次大规模攻击</a>，莫里斯充当了软件bug存在风险的警钟，并促使网络安全成为计算机科学的重要领域。这也是对技术并不了解的民众首次在主流媒体的报道中听到网络这一概念。至于肇事者<a href="http://www.itworld.com/security/57045/where-robert-morris-now">莫里斯</a>，现在是MIT一位受人尊敬的计算机科学<a href="http://pdos.csail.mit.edu/~rtm/">副教授</a>。在莫里斯蠕虫事件中，他<a href="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D71038F936A35756C0A966958260&amp;scp=2&amp;sq=robert+tappan+morris&amp;st=nyt">被判处</a>三年缓刑，1万美元罚款和400小时社区服务。</i>
+➜PMOG 0.5.12发布
+https://www.solidot.org/story?sid=8487	19920
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "
+<i>
+<a href="http://linux.softpedia.com/get/Internet/Firefox-Extensions/PMOG-38327.shtml">PMOG是用Firefox玩的被动多人在线游戏</a>，一个免费MMO游戏，您可以与朋友们一起玩，同时浏览网页。PMOG允许我们利用工具帮助你注释网络上的街道和建筑物。使用Firefox在几乎所有的网站上扔掉武器、笔记或礼物。我们将创建一个个性化的你；马上来玩吧！"</i>
+➜Solaris 10 10/08发布
+https://www.solidot.org/story?sid=8488	19920
+Sun发布了<a href="http://www.sun.com/software/solaris/get.jsp">Solaris 10 10/08</a>。<i>最主要的变化是在ZFS文件系统方面，自5月OpenSolaris使用ZFS为root filesystem之后，<a href="http://zh.wikipedia.org/w/index.php?title=Solaris&amp;variant=zh-cn">Solaris</a>最新版也支持了这一特性。<a href="http://docs.sun.com/app/docs/doc/817-0547/ghgdx?l=de&amp;a=view">其它的改进</a>包括Solaris Zones增强，64位版本支持最多256个处理器，SPARC bootstrap进程重新设计，支持Flash 9.0.124.0和Adobe Reader 8.1.2等。</i>
+➜Fedora 7至10性能几乎无变化
+https://www.solidot.org/story?sid=8489	21600
+Phoronix不久前对Ubuntu 7.04、7.10、8.04、8.10四个发行版性能做了一次全面测评，显示<a href="__SLASHLINK__" sect="linux" sid="08/10/28/0159224" sn="article" tid="111">Ubuntu似乎在变慢</a>，而7.04在测试得分中是一枝独秀。<i>
+现在Phoronix又对另一个主流发行版Fedora进行测试，结果令人颇感意外，7、8、9、和最新的10 Snapshot 3仅仅从工具测试上看<a href="http://www.phoronix.com/scan.php?page=article&amp;item=fedora_test_2008&amp;num=1">几乎没有多少差异</a>。而每一个版本内部变化还是很大的，如Fedora 7的内核是Linux 2.6.21，Fedora 8是2.6.23，9是2.6.25，10 Snapshot 3是2.6.27。从性能上看Fedora 9和Fedora 10与Ubuntu 8.04和Ubuntu 8.10相近。</i>
+➜连接地球和太阳的磁场入口
+https://www.solidot.org/story?sid=8490	24600
+科学家发现了每隔8分钟出现的<a href="http://science.nasa.gov/headlines/y2008/30oct_ftes.htm">连接地球和太阳的磁场之门的证据</a>。当入口开放之时，无数的高能粒子将穿越地球和太阳之间长达9300万英里长的通道。Goddard太空飞行中心的太空物理学家 David Sibeck称，“它被称作通量传输事件（flux transfer event）或FTE。10年前，我相当确定它不存在，但现在证据是勿容置疑的。”研究人员阐述了FTE形成：<i>
+在地球的日照面（对着太阳的一边），地球的磁场贴着太阳的磁场。大约每8分钟，两个磁场会短暂的合并或叫“联通”，形成一个粒子可以通过的入口，入口形成一个与地球一样宽的磁通道。ESA的4颗<a href="http://sci.esa.int/science-e/www/area/index.cfm?fareaid=8">Cluster</a>卫星和NASA的5颗<a href="http://www.nasa.gov/mission_pages/themis/main/index.html">THEMIS</a>探测器飞跃了这些磁通道，测量了它们的规模并探测到了快速飞过的粒子。</i>
+➜Ubuntu 8.10胜过Windows Vista
+https://www.solidot.org/story?sid=8491	38700
+Ubuntu 8.10带来了<a href="http://www.markshuttleworth.com/archives/233">许多改进和新特性</a>，初步评估显示Ubuntu 8.10在性能上<a href="http://www.crn.com/software/211800390">毫不逊色于Vista</a>。<i>
+暂不考虑用户体验和游戏，与Windows Vista Business版相比，在相同的机器上，Ubuntu安装更快，测试（如多平台测试工具Geekbench，Vista得分2838，Ubuntu得分3367）得分更高，管理无线连接更容易（安装后，只有点击两次就能管理无线设备控制台），启动时间也比Vista略快（Vista启动时间56秒，Ubuntu50秒）。</i>
+➜澳大利亚ISP反对网络过滤
+https://www.solidot.org/story?sid=8492	41100
+澳大利亚三大网络服务供应商（ISP）的领导人——Telstra Media的Justin Milne，iiNet的Michael Malone和Internode的Simon Hackett在接受ZDNet.com.au的视频采访中，详细的从技术、法律和道德方面的理由说明<a href="http://www.zdnet.com.au/insight/communications/soa/ISP-level-content-filtering-won-t-work/0,139023754,339292158,00.htm">为什么ISP层面的过滤是无法运作的</a>。<i>
+从技术上讲，引入过滤是昂贵的，会降低网络性能和令人恼火。过滤技术是“在互联网上我们要更快这个概念的对立面”，肯定会拖慢整个系统，带来许多负面影响。过滤政策的批评者还表示用户可能<a href="http://www.computerworld.com.au/index.php/id;355409327;fp;16;fpid;0">根本不知道什么内容会被过滤</a>，这是一种暗箱操作，监视者无法被监督。</i>
+➜私人公司计划机器人月球探索
+https://www.solidot.org/story?sid=8493	44100
+私人公司<a href="http://astrobotictechnology.com/">Astrobotic Technology</a>透露了一项计划，<a href="http://www.space.com/news/081030-astrobotic-lunar-exploration.html">用机器人进行月球探索</a>。<i>月球车将勘查月球表面的最引入关注的区域，向地球传回数据。这家公司的第一目标是角逐Google 3千万美元奖金的<a href="http://www.google.com/educators/xprize.html">Lunar X Prize</a>挑战赛，在2010年5月向<a href="http://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9711%E5%8F%B7">阿波罗11号</a>的登陆地点静海基地(Tranquillity Base)发射一辆月球车。该公司计划建立一个<a href="http://astrobotictechnology.com/wp-content/uploads/2008/10/astrobotic-technology-product-and-service-announcement-data-licensing.pdf">规模庞大的月球数据库</a>(PDF)，出售给政府和私人企业，类似<a href="http://www.navteq.com/about/index.html">Navteq</a>的数字地图服务。</i>
+➜x264开发者送蛋糕去DivX总部
+https://www.solidot.org/story?sid=8494	48240
+基于H.264/MPEG-4的自由软件视频解码库<a href="http://en.wikipedia.org/wiki/X264">x264</a>迎来了<a href="http://x264dev.multimedia.cx/">第1000次修订</a>，开发者决定用蛋糕庆祝一下。但是选择庆祝地点却成了问题，要找个人多的地方太不容易了。思来想去他们<a href="http://forum.doom9.org/showthread.php?t=142482">选定了一个地点</a>——<a href="http://en.wikipedia.org/wiki/DivX_Media_Format">DivX</a>总部——因为DivX推出了第一款H.264编码器<a href="http://labs.divx.com/ProjectRemoulade">Project Remoulade</a>，自2007年收购Mainconcept后它已宣布以DivX 7进入H.264市场。<i>于是一位前DivX员工带着x264的自由软件开发者和印有x264 logo的蛋糕驱车前往DivX总部。进入大门前，他们用纸和光盘遮住了x264的logo，不过这种小伎俩很快就被揭开了。当天正好是DivX的万圣节宴会，于是在南瓜的陪伴下，在“Congratulations on Project Remoulade”文字和x264的大logo的照耀下，一次热闹的party成功举行了。当然，自由软件开发者忘不了提醒DivX他们软件的种种限制，宴会在友好的气氛中进行。</i>

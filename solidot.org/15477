@@ -1,0 +1,54 @@
+➜Guile可以用于编写exploit测试代码
+https://www.solidot.org/story?sid=29636	2100
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "安全领域的黑客都喜欢使用perl/python这类脚本语言来写针对exploit的测试程序，一个偶然的机会打算试试用<a href="http://www.gnu.org/software/guile/">GNU Guile</a>，都是要调用C的接口system()函数，之后发现同样的功能在python 2.6下可以正常运行，而在Guile上却不行，之后把这个bug报给了<a href="__SLASHLINK__" sect="opensource" sid="12/04/03/0210254" sn="article" tid="44">Ragranok的作者（一个信奉GNUist的狂热分子-_-）</a>，几天之后Nalaginrut和Andy Wingo的讨论和测试结果出来了，<a href="http://en.wikipedia.org/wiki/String_(computer_science)">字符串(String)</a>的实现有两种：1，传统C语言使用的byte string；2，Guile和python 3使用的character string。Guile由于使用了character string所以导致传递值时大于ascii码时会被直接代替成"?"，这主要是由于locale环境造成的，要让byte string能运行正常必须使用en_US.ISO-8859-*，<a href="https://github.com/citypw/SCFE/tree/master/security/shellcode/overwrite_eip">完整的示例代码和解决过程在这里</a>，以后黑客们可以使用Guile来写exploit测试了。"</i>           Happy Hunting!!!
+➜谁拥有你的数据？
+https://www.solidot.org/story?sid=29637	6120
+一位2030年代的历史学家如果想研究今年的美国大选，他可能会发现寻找可用的数据和信息困难重重：曾经刊登新闻和评论的网站关闭了，以数字格式储存的数据无法解读。如果幸运的话，他也许能从图书馆找到一些竞选材料和解密政府文档。你可能会认为能以CD或其它储存媒介的形式长久保持数据。但问题是阅读这些数据需要软件，而软件如果失效，数据又如何能提取出来？如果光盘嵌入了DRM等防盗版措施呢？如何长久保存人类的<a href="http://www.economist.com/node/21553445">数字遗产</a>？DRM可能是个问题，但与私有格式相比是小巫见大巫。因为在一次次的更新之后，旧的私有格式会在不知不觉被私有软件开发商放弃支持，Linux开发者Jake Edge认为，面向未来的数据格式必须是<a href="http://lwn.net/Articles/496418/">自由和开放的格式</a>。
+➜印度提议建立政府间组织控制互联网
+https://www.solidot.org/story?sid=29638	7920
+印度提议设立一个政府间组织去制定互联网政策，监管所有互联网标准机构和政策组织，协商互联网相关的条约，对互联网相关争议作出判决。该组织将由联合国提供资金和人员，直接向联合国大会汇报。本周晚些时候在日内瓦举行的联合国大会<a href="http://www.thehindu.com/news/national/article3423018.ece">将讨论印度的建议</a>。俄罗斯和中国，以及乌兹别克斯坦和哈萨克斯坦已对政府控制互联网表达了强烈立场。前中国政府官员、国际电信联盟标准化局局长赵厚麟说，整个世界都在寻找更好的管理互联网方案，不愿意再维持现状。
+➜最糟糕的两个变量名
+https://www.solidot.org/story?sid=29639	8400
+<a href="http://blog.jobbole.com/category/programmer/">程序员</a> 写道<i> "作为一个程序员，“起名字”是他们工作中非常重要的一部分。Phil Karlton就说过：“在计算机科学领域，有两大难题，如何验证缓存和如何给各种东西命名。”虽然很难，但是每次在写代码的时候，给事物起名字又是不可回避的工作。无论是程序变量名还是数据库表名或者是表里的列名，甚至是文件系统中的文件名，以及你的项目名称、产品名称，给这些东西起名字可不是个轻松活儿。Andy Lester 近期<a href="http://petdance.com/2012/04/the-worlds-two-worst-variable-names/">分享了一篇博文</a>(<a href="http://blog.jobbole.com/18304/">中文</a>)，他眼中最糟糕的两个变量名：data 和 data2 ，也就是 a 和 a1 一类的。"</i>
+➜日本研究人员利用Terahertz频谱以3Gbps传输数据
+https://www.solidot.org/story?sid=29640	10080
+日本研究人员在Terahertz频谱上<a href="http://www.bbc.co.uk/news/science-environment-18072618">打破了无线数据传输记录</a>。Terahertz频谱介于微波和远红外线之间，目前完全未受电信机构和标准组织管制。新的系统工作在300GHz到3THz频段，数据传输率达到了3Gbps，是目前WiFi标准的40倍。Terahertz wi-fi的工作范围可能只有10米，但理论上最大数据传输率能达到100Gb/s。日本东京工业大学研究人员在542GHz频率上演示了他们的概念验证设备，他们正在改进设备，使其频率能真正深入到Terahertz频谱范围。
+➜开源的名字逐渐销声匿迹
+https://www.solidot.org/story?sid=29641	12240
+Open Source Training改名为OSTraining，因为开源（Open Source）的名字容易让客户联想到免费和社区志愿者义务劳动的意思，因此它<a href="http://www.ostraining.com/blog/general/the-dissapperance-of-open-source/">决定从网站上移除Open Source字眼</a>。无独有偶，开源一词也逐渐从开源企业网站上销声匿迹。例如RedHat.com主页在2004提到4次开源，2012年降到一次；SugarCRM.com在2008年提到了18次，2012年只有一次；Alfresco.com在2006年提到了8次，2012年一次也没有；MySQL.com在2003年提到了14次，2012年也降低一次...看起来开源运动几十年以来，大众仍然没能正确区分免费软件、自由软件和开源软件的意思。
+➜Lotus Symphony代码即将合并到OpenOffice
+https://www.solidot.org/story?sid=29642	18720
+IBM<a href="http://lwn.net/Articles/497392/">宣布</a>签署了把Lotus Symphony源代码捐赠给Apache OpenOffice项目的正式文件，合并预计将在下周完成。OpenOffice网站建立了一个<a href="http://wiki.services.openoffice.org/wiki/Symphony_contribution">WIKI页面</a>，列出了Lotus Symphony将能为OpenOffice带来的新特性和改进。Lotus Symphony是基于OpenOffice的分支，在捐赠给Apache基金会后IBM宣布终止其开发，但会继续维护和支持现有的Lotus Symphony客户。
+➜自毁SSD能物理毁灭所有数据
+https://www.solidot.org/story?sid=29643	20400
+下次毁灭证据你不需要借助<a href="__SLASHLINK__" sect="internet" sid="12/05/14/0520205" sn="article" tid="100">武士刀</a>了，你只需要简单的<a href="http://gizmodo.com/5910937/self+destruct-buttons-on-this-ssd-ensure-your-data-dies-a-quick-death">按一下按钮</a>。RunCore公司推出了带自毁模式的<a href="=%E2%80%9Chttp://www.runcore.com/en/RC-SSDnewsdetail-262.html%E2%80%9D">InVincible固态硬盘</a>。它有两个自毁按钮，颜色分别是绿色和红色，可以从机箱外接触到。按下绿色按钮，启动智能破坏模式，它会用随机的无意义的数据复写整个硬盘，原来储存的文件将完全无法恢复；按下红色按钮，启动物理破坏模式，它会向SSD的NAND flash记忆体施加强电流，完全破坏设备，在视频演示中它还<a href="http://youtu.be/GLxaVFBXbCk">冒出了烟</a>。
+➜海盗湾因DDoS攻击下线
+https://www.solidot.org/story?sid=29644	21840
+在批评了匿名组织黑客之后，海盗湾（http://thepiratebay.se/）<a href="http://arstechnica.com/security/2012/05/massive-ddos-attack-keeps-the-pirate-bay-offline-for-over-a-day/">遭遇了大规模DDoS攻击</a>，至今已下线超过一天。海盗湾通过Facebook<a href="http://facebook.com/thepiratebaywarmachine">证实了攻击</a>，表示不清楚幕后攻击者的身份。上周，海盗湾批评匿名组织发动针对维珍媒体的DDoS攻击，表示他们不鼓励此类行动，他们相信互联网的自由和开放，任何人都可以表达己见，即使他们对此极不赞同。海盗湾认为，DDoS和屏蔽是审查的两种形式。现在如果想访问海盗湾上的文件，你只能通过<a href="http://about.piratereverse.info/proxy/list.html">代理和镜像</a>。
+➜腾讯起诉PPS，PPS起诉腾讯
+https://www.solidot.org/story?sid=29645	24600
+<a href="http://www.ailajin.com/">拉筋凳</a> 写道<i> "5月13日，腾讯<a href="http://tech.sina.com.cn/i/2012-05-17/11597123581.shtml">起诉PPS网络电视</a>，称其盗播了独家视频。表示“曾经与PPS多次交涉，但对方根本不予理会”。5月14日，PPS宣布“将对腾讯盗播其独家视频在上海、深圳、香港三地正式提起上诉，索赔将过亿”，表示几乎每天都通过书面形式通知对方将盗版内容下线，而腾讯方面对此置若罔闻。5月14日，搜狐视频也向PPS“发难”。但PPS也同时指责搜狐盗播173部PPS独家影视剧。类似的事件以前发生过。
+"</i>
+➜Linux Mint 13 “Maya” RC发布
+https://www.solidot.org/story?sid=29646	25440
+基于Ubuntu 12.04的Linux Mint 13 “Maya”<a href="http://blog.linuxmint.com/?p=2010">发布</a>了RC版，针对两个桌面发布了两个不同镜像，一个采用成熟稳定的MATE 1.2，另一个采用最新潮的Cinnamon 1.4。MATE是基于Gnome 2的分支，Cinnamon则是基于Gnome 3。主要新特性包括：MATE 1.2，Cinnamon 1.4，MDM，改进Artwork和搜索引擎。
+➜审理甲骨文和Google案件的法官会写程序
+https://www.solidot.org/story?sid=29647	31200
+Oracle v. Google一案目前的焦点是9行代码的rangeCheck和8个反编译测试文件，而这些文件和任何Android收入之间<a href="http://www.groklaw.net/article.php?story=20120516083919975">没有任何因果联系</a>。法官Alsup<a href="http://www.groklaw.net/article.php?story=20120515120106322">忍不住告诉甲骨文</a>，他本人用其它语言写过很多程序，他写过无数个类似rangeCheck的代码块，人人都能写rangeCheck，Google程序员拷贝9行代码是失误，因为他们自己能写，而拷贝这些代码并不能加速Android推向市场。他反问甲骨文的律师，作为美国最优秀的律师之一，怎么能坚持说rangeCheck很重要？甲骨文律师回答说他不是Java专家。
+➜智利最高法院阻止水坝项目
+https://www.solidot.org/story?sid=29648	35640
+智利最高法院最近<a href="http://news.sciencemag.org/scienceinsider/2012/05/chiles-supreme-court-blocks-dam.html">阻止了一项水坝建造项目</a>，要求大型建筑工程采取更严格的环境评估，以平息反对者的疑虑。高等法院以3比2废除了最近批准的Río Cuervo水坝项目。法官裁决，项目支持者在地区政府机构批准前没有完成必要的地质调查。水坝的批准是不合法的，因为政府没有考虑到地质方面的调查，法庭认为这对于批准或拒绝项目是必不可少的。
+➜NASA估计有4700个具有潜在危险的近地天体
+https://www.solidot.org/story?sid=29649	37200
+一直在跟踪近地天体的NASA称，它共计算出大约<a href="http://www.networkworld.com/community/blog/nasa-counts-4700-potentially-hazardous-near-earth-asteroids">4700个具有潜在危险的近地小行星</a>。NASA将这些小行星称为PHA（代表Potentially Hazardous near-Earth Asteroids），它说PHA是轨道与地球最近距离小于800万公里的近地小行星中的一个子集，它们的体积大到穿过地球大气层后仍能生存下来，对一个区域或更大范围的面积造成危害。根据样本数据它预测PHA数量大约4700个，正负1500，它们的直径大于100米，目前估计只发现20到30%的PHA天体。
+➜基于 Bitcoin 的分布式 DNS: Namecoin
+https://www.solidot.org/story?sid=29650	39000
+<a href="https://moses.appspot.com/">Moses</a> 写道 <i>"<a href="http://dot-bit.org/Namecoin">Namecoin</a> 是一个基于比特币技术的分布式域名系统. 其原理和 Bitcoin 一样, 但产生于一个不同于 Bitcoin 主交易区块的起源块. 因为是基于 Bitcoin , 域名的安全性, 分布性, 鲁棒性, 加密性, 迁移都有数学保证. 矿工们现在在一些矿池中可以在挖 Bitcoin 的同时挖出 Namecoin. 出于对目前 DNS 系统的不满由 bitdns 讨论并提出. 目前, Namecoin 惟一的顶级域名是 .bit, <a href="http://register.dot-bit.org/">注册 .bit 域名</a>需要花费 Namecoin. 浏览架设在 .bit 分布式域名上的网站已有<a href="http://dot-bit.org/HowToBrowseBitDomains">多种方法</a>."</i>
+➜英国政府仍然用IE6
+https://www.solidot.org/story?sid=29651	39900
+英国的部分中央政府部门<a href="http://www.computerworlduk.com/news/public-sector/3358244/government-faces-ie6-barrier-social-media/">仍然使用有11年历史的IE6</a>，致使政府雇员无法通过社交网络接触公民。英国政府现在已认识到IE6已再不适合充当企业浏览器。政府信息安全小组也强烈建议升级到最新版本，因为旧版本不具有新版本的安全特性。英国政府现在希望公务员们能多多通过社交媒体渠道与公民进行交流。然而阻碍浏览器升级的常见障碍是设计运行在IE6上的旧Web应用程序。
+➜瘫痪患者利用意念操控机械臂喝咖啡
+https://www.solidot.org/story?sid=29652	41760
+两位身体完全瘫痪的病人利用他们的大脑信号直接控制机械臂运动，成功握住小泡沫球和咖啡瓶。这是人类受试者完成的首次成功意念操控，<a href="http://news.sciencemag.org/sciencenow/2012/05/paralyzed-patients-control-robot.html">瘫痪患者恢复运动能力正进一步变成现实</a>。<i>
+人机接口并非新概念，但科学家并不了解人类是否能控制机械臂执行更精细和复杂的任务。布朗大学的神经学家对两位瘫痪患者测试了人机接口，两位病人代号为S3和T2，S3是一位58岁的女性，15年前脑中风而失去移动四肢和说话能力，T2是一位66岁的男子，也因为脑中风而瘫痪，只能移动眼睛和眉毛。他们大脑的运动皮质植入了电极阵列BrainGate，能阅读大脑信号然后无线发送到外部电脑，翻译成指令。在超过200次测试中，S3和T2能以49%到95%的成功率接触6厘米直径的泡沫球，其中三分之二的接触能成功握住球。S3能抬起桌子上的瓶子，放到嘴边用吸管饮咖啡。这是15年第一次她能靠自己喝咖啡。
+</i>

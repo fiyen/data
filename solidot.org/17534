@@ -1,0 +1,45 @@
+➜英特尔处理器发现严重设计漏洞，AMD 不受影响
+https://www.solidot.org/story?sid=55077	11782
+英特尔处理器架构<a href="https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/" target="_blank"><u>曝出了严重设计缺陷</u></a>，目前漏洞细节还没有完全披露，而 AMD <a href="https://lkml.org/lkml/2017/12/27/2" target="_blank"><u>已经确认</u></a>它不受影响。修正这个芯片级的安全漏洞将会导致严重的性能惩罚，估计使用英特尔处理器的系统性能将会出现 5%- 30% 的下降。该漏洞影响所有使用英特尔处理器的操作系统，包括 Linux、Windows 和 macOS，并且迫使 Linux 和  Windows 重新设计内核的虚拟内存系统，而微码更新无法解决该问题，过去十年的英特尔处理器被认为都存在该 bug。Linux 的修复代码已经释出，被称为 Kernel Page Table Isolation（KPTI）的修正完全隔离了内核内存和用户进程，Phoronix 的<a href="https://www.phoronix.com/scan.php?page=article&amp;item=linux-415-x86pti&amp;num=1" target="_blank"><u>初步测试</u></a>证实性能出现了显著的下降，不过 Linux 下的游戏性能没有受到影响。微软预计会在这个月的例行更新中释出它的补丁，beta 版本已经提供给测试者。
+➜Fuchsia OS 现在能运行在 Pixelbook 上
+https://www.solidot.org/story?sid=55078	16139
+Google 正在开发的实验性操作系统 Fuchsia OS 现在能<a href="https://arstechnica.com/gadgets/2018/01/googles-experimental-fuchsia-os-can-now-run-on-the-pixelbook/" target="_blank"><u>运行</u></a>在 Pixelbook 笔记本电脑上。Fuchsia 是 Google&nbsp; 在 Chrome OS 和 Android 之后开发的第三种操作系统，没有使用 Linux 内核，而是使用名叫 Zircon 的内核，它设计能运行在手机和 PC 上。Fuchsia 是一种开源操作系统，它没有使用 GPL 组件，源代码混合采用了三种许可证——BSD 3 clause、MIT 和 Apache 2.0。除了 Pixelbook 外，Fuchsia 目前只支持 Acer Switch Alpha 12 笔记本电脑和 Intel NUC。
+➜LinuxJournal 被 Private Internet Access 拯救
+https://www.solidot.org/story?sid=55079	17314
+诞生于 1994 年 4 月的 Linux 期刊 Linux Journal 上个月<a href="http://www.solidot.org/story?sid=54710" target="_blank"><u>宣布</u></a>因资金耗尽而停止出版。现在，Linux Journal 宣布它还没有死，事实上活得比以前更滋润了。它宣布得到了运营 <a href="https://chi.privateinternetaccess.com/" target="_blank"><u>Private Internet Access</u></a> (PIA) VPN 服务的 London Trust Media 的资金资助。PIA 是 freenode 和自由软件开源社区的热心支持者，关注 Linux 和隐私、加密、自由、个体自理性，在此基础上重写商业和政府规则，以及各种建设性的黑客技术。Linux Journal 将从 1.x 版走到 2.0 版。
+➜北京加快发展 AI
+https://www.solidot.org/story?sid=55080	18450
+北京出台《加快科技创新培育人工智能产业的指导意见》，制定了北京人工智能发展时间表：到 2020 年，新一代人工智能总体技术和应用达到世界先进水平，部分关键技术达到世界领先水平，并形成若干重大原创基础理论和前沿技术标志性成果。截至 2017 年 9 月，北京拥有人工智能企业近 400 家，居全国首位，其中中科院自动化所孵化成立的<a href="http://www.watrix.cc/" target="_blank"><u>银河水滴科技</u></a>（北京）有限公司<a href="http://www.bjnews.com.cn/feature/2018/01/03/470978.html" target="_blank"><u>开发了</u></a> “全视角步态识别 + 全类型人脸识别 + 高精度人群计数” 的身份识别平台。全视角步态识别在超高清摄像头下，识别距离可达 50 米，无需识别对象主动配合参与。因步态难以伪装，不同体型、头型、肌肉力量特点、运动神经灵敏度、走路姿态等特征共同决定了步态具有较好的区分能力。虹膜识别需要目标在 30 厘米以内、要有红外光照条件，人脸识别需在 1-5米以内，基本正面，光照良好的条件，步态识别打破这些条件的限制。“远距离人脸识别”可实现 25 米外人脸识别，准确率为 90% 以上，达到刑侦可用水平。利用 “人脸 + 步态” 双模式识别, 可最大化地辨识可疑人员, 提高安全等级，也可以在公交领域应用，实现安防布控、无卡出行、人群密度、超流量预警等。
+➜美国以国家安全阻止蚂蚁金服收购速汇金
+https://www.solidot.org/story?sid=55081	19820
+蚂蚁金服与速汇金 (MoneyGram)周二表示，美国外资审议委员会 (CFIUS) 以国家安全为由<a href="https://cn.reuters.com/article/focus-us-block-ant-financial-moneygram-0-idCNKBS1ES07B" target="_blank"><u>否决了</u></a>二者的合并计划。这是特朗普上台以来触礁的最新一起中资企业并购交易。这宗价值 12 亿美元的交易破裂，对于阿里巴巴集团董事局主席马云是一个打击，他与其他阿里巴巴高管拥有蚂蚁金服。由于在中国面临来自腾讯微信支付平台的激烈竞争，他正在寻求向其他地区扩张蚂蚁金服的业务。CFIUS 予以否决，是为了减轻对于可用于识别美国公民身份的数据的安全性担忧。此前已有多项中资企业收购美国公司的交易未能获得 CFIUS 的批准。
+➜英特尔处理器硬件设计漏洞
+https://www.solidot.org/story?sid=55082	28078
+英特尔处理器曝出了一个严重的硬件设计漏洞，迫使主要操作系统和云计算服务商都忙着打补丁。因为漏洞信息没有解密，所以目前只能通过已发布的补丁<a href="http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table" target="_blank"><u>反推这个漏洞</u></a>。该漏洞是奥地利格拉茨技术大学（TU Graz）的一组研究人员发现的，他们在去年十月发布了最早的<a href="https://lwn.net/Articles/738975/" target="_blank"><u> KAISER</u></a> 补丁集。去年 12 月，在内核邮件列表上，应 Linus 等人的要求，KAISER <a href="https://www.mail-archive.com/linux-kernel@vger.kernel.org/msg1553070.html" target="_blank"><u>被改名</u></a>，内核开发者提出了一系列技术上正确的首字母缩写，包括 User Address Space Separation（uass）和 Forcefully Unmap Complete Kernel With Interrupt Trampolines（fuckwit），最后出于政治上正确的理由改名为 Kernel Page Table Isolation（KPTI）。从表面上看，KPTI 补丁是为了确保 ASLR 仍然有效。ASLR 是现代操作系统的一项安全功能，通过引入虚拟地址随机化阻止攻击者定位目标程序数据的位置。而在去年底举行的 34C3 会议上，TU Graz 的研究人员描述了一种<a href="https://www.youtube.com/watch?v=ewe3-mUku94" target="_blank"><u>纯 Javascript 的 ASLR 攻击</u></a>（YouTube），通过组合高精度测时和选择性驱逐 CPU 缓存行，一个运行在浏览器上的 Javascript 程序能还原一个 Javascript 对象的虚拟地址，然后再利用浏览器的内存管理 bug 进行攻击。从表面上看，KAISER（KPTI）补丁的作者们演示了一种技术能暴露 ASLR 化的地址。问题看起来也和虚拟内存也有关。每当一些机器代码尝试加载、储存或跳到一个内存地址，CPU 都必须首先通过其管理的页表将这个虚拟地址翻译到物理地址。虚拟内存可能是现代操作系统最重要的特性之一，它能防止一个死亡的进程崩溃操作系统，一个浏览器 bug 崩溃桌面环境，或者一个虚拟机能影响到同一主机上的其它虚拟机。TU Graz 的研究人员此前曾在一篇论文里描述了一种<a href="https://arxiv.org/abs/1710.00551" target="_blank"><u>新的 Rowhammer 提权攻击</u></a>。
+➜亚马逊的软肋
+https://www.solidot.org/story?sid=55083	29854
+从某种意义上说，亚马逊可以被视为是将 Facebook 的数据收集能力与沃尔玛的供应链帝国结合在一起，但电商巨人面临的最大软肋是它的策略<a href="http://cn.wsj.com/gb/20180103/tec140312.asp" target="_blank"><u>不适用于高价、高利润率的商品</u></a>。诚然，亚马逊善于发现商品，并在最大程度上降低这些产品的价格以及最大化提升购物便利。亚马逊的 Lab126 因 Echo 的成功和 Fire 电话的失败而闻名，但它能够生产出像 iPhone 或 OLED 电视这样的高端产品吗？Lab126 的成功在于其能够将电子产品价格压至最低。亚马逊其他的业务也是如此。例如，Amazon Studios 能制作出像 Marvel 的《复仇者联盟》或者 HBO 的《权力的游戏》这样的影视作品吗？目前还基本上看不出亚马逊这项业务具备创造热门的能力。
+➜NSA 人才流失加剧
+https://www.solidot.org/story?sid=55084	30067
+《华盛顿邮报》<a href="https://www.washingtonpost.com/world/national-security/the-nsas-top-talent-is-leaving-because-of-low-pay-and-battered-morale/2018/01/02/ff19f0c6-ec04-11e7-9f92-10a2203f6c8d_story.html" target="_blank"><u>报道</u></a>，NSA 正以令人担忧的速度失去它的优秀人才。报道援引知情人士的消息称，自 2015 年以来，NSA 失去了数百名黑客、工程师和数据科学家。知情人士称这将严重影响到国家安全。一名前官员称，NSA 的部分团队失去了近一半的雇员。结果是部分项目被砍掉或放慢进度。流失人才的原因被认为是 NSA 给的薪水无法与私企竞争，士气低迷以及不受欢迎的重组。NSA 发言人表示，雇员担心的高流失率正促使 NSA 提高薪水，增加升职和工作机遇。
+➜NASA 首次在太空完成测序
+https://www.solidot.org/story?sid=55085	31630
+NASA 首次在太空<a href="https://www.nasa.gov/feature/genes-in-space-3-successfully-identifies-unknown-microbes-in-space" target="_blank"><u>完成测序</u></a>。之前的样本都是送回地球进行样本制备、测序和分析。这种在太空中鉴定微生物的能力将有助于实时诊断和治疗宇航员的疾病，并协助鉴定其他星球的生物。这个名为 “Genes in Space-3” 的项目试图在微重力环境下建立一个完整的微生物鉴定过程，具体包括：微生物样本的采集，PCR 扩增，然后是测序和鉴定微生物。NASA <a href="http://www.ebiotrade.com/newsf/2018-1/201812164739374.htm" target="_blank"><u>表示</u></a>，Genes in Space-3 实验证明了这种便携式的实时 DNA 测序技术可应用于低重力环境下，从而有助于识别太空中的微生物，诊断传染病，并监控宇航员的健康。同时，这种技术还有望应用在新的环境中（比如国际空间站的机舱或火星表面），为微生物生态学和传染病监控提供有价值的信息。
+➜口袋妖怪 GO 准备进入中国
+https://www.solidot.org/story?sid=55086	35630
+“口袋妖怪 GO（Pokemon Go）” 开发商 Niantic <a href="http://cn.nikkei.com/industry/itelectric-appliance/28626-2018-01-03-08-58-33.html" target="_blank"><u>透露</u></a>它计划与网易合作将这款 2016 年的现象级手游带到中国。公司 CEO John Hanke 强调，“毫无疑问，我们想把这款游戏带到中国”，暗示最早将在 2018 年进驻中国市场。这款基于地理位置的虚拟实景手游大量使用了 Google 的服务，而 Google 的服务在中国大都被封杀了，因此要进入中国显然必须本地化。报道称，Niantic 将从网易等企业手中筹集 2 亿美元资金，通过建立合作体制满足中国的政策要求。
+➜边缘计算需求上升
+https://www.solidot.org/story?sid=55087	42550
+成百上千万的机器和物体正首次接入互联网，对过去几十年中为人类使用者设计的架构形成挑战。因此，企业正纷纷<a href="http://cn.wsj.com/gb/20180103/tec172532.asp" target="_blank"><u>将更多计算资源投入网络边缘</u></a>，例如车辆、电梯、工厂机器等。在这种新架构中，数据在产生这些数据的设备现场或附近得到处理和分析，而不是首先传送至企业云或数据中心。这样设备可以实时计算并分析数据，而不像通常那样依赖连接至企业云。新的架构还将为一些服务提供便利，比如基于实时分析的个性化移动应用推广。自动驾驶技术彰显出对边缘计算的需求。自动驾驶汽车必须实时做出生死攸关的判断。其中部分计算将由汽车自己进行，而不是等候数据传输到云端再传回，而且有时自动驾驶汽车可能甚至根本无法连接到云。
+➜Google 利用荷兰三明治避税至少 37 亿美元
+https://www.solidot.org/story?sid=55088	45520
+荷兰监管文件显示，Google 在 2016 年向百慕大的壳公司转移了 159 亿欧元（约 192 亿美元），至少<a href="https://www.bloomberg.com/news/articles/2018-01-02/google-s-dutch-sandwich-shielded-16-billion-euros-from-tax" target="_blank"><u>避开了 37 亿美元</u></a>的税。Google 利用了两种避税方案，分别被称为“双爱尔兰（Double Irish）”和“荷兰三明治”，以让将大部分国际利润免于纳税。这些避税方案涉及到将收入从一家爱尔兰子公司转移到一家没有员工的荷兰公司，然后再转移到另一家爱尔兰注册公司在百慕大的邮箱。Google 在 2016 年的避税金额比前一年高出 7%。
+➜生病会表现在脸上
+https://www.solidot.org/story?sid=55089	45840
+根据发表在《皇家学会学报 B》上的<a href="http://rspb.royalsocietypublishing.org/content/285/1870/20172430" target="_blank"><u>一项研究</u></a>，生病的人拥有一些<a href="http://news.sciencenet.cn/htmlnews/2018/1/398963.shtm" target="_blank"><u>共同的面部特征</u></a>——脸色苍白、面部浮肿、眼皮下垂并且看上去很疲倦。这些特征表明，他们可能被疾病传染了。尽管这些迹象可能看上去很明显，但此前并没有人针对它们开展明确的测试。研究人员向 16 名高加索志愿者注射了安慰剂或者细菌，从而使其感觉生病并且引发免疫系统作出响应，仿佛他们被感染了。几个小时后，研究人员拍摄了这些志愿者的面部照片，将这些照片拿给 62 个人看。这些人要在不到 5 秒钟的时间里根据面部评判此人是 “生病” 还是“健康”。评分者在 81% 的时间里辨别出生病的人，比猜好很多。
+➜台湾推动能源转型
+https://www.solidot.org/story?sid=55090	46168
+台湾<a href="http://www.ftchinese.com/story/001075738" target="_blank"><u>正在推动</u></a>一项优化电力结构的雄心勃勃的计划，尽管存在着能源安全方面的担忧。目前，台湾政府正面临越来越大的压力，要求其解决日益严重的空气污染问题。蔡英文和她领导的民进党正在推动一项减少使用煤炭和促进可再生能源发电的提议。但成本的不确定性、台湾尖锐的能源供应问题，以及在这个地震多发海岛上逐步淘汰核电的承诺，都有可能让这一计划节外生枝。台湾政府的目标是，通过兴建海上风电场和安装太阳能装置，在未来 7 年内将可再生能源占台湾电力构成的份额从 6% 提高到 20%，到 2030 年时将碳排放量削减至 2005 年水平的 20%。台湾政府还承诺到 2035 年禁止销售使用化石燃料的摩托车、到 2040 年禁止销售使用化石燃料的汽车——随着消费者改用电动车，电力需求将会面临更大压力。
+➜今日头条使用更复杂的算法审查内容
+https://www.solidot.org/story?sid=55091	47209
+今日头条上周末被指传播色情而遭到网信办的约谈， 不得不进行整改。在利用推荐算法为用户提供内容的同时，今日头条需要确保应用上的内容不会越过审查机构的界限。这是一项艰巨的任务，尤其是考虑到它的绝大部分内容都来自个人博客作者，而不是专业的新闻机构或其他权威机构。今日头条人工智能实验室主任马维英说，只有少数人观看的视频不会被自动审查。但是，一旦视频吸引了几千名观众，系统就<a href="https://cn.nytimes.com/business/20180103/china-toutiao-censorship/" target="_blank"><u>会启动一种更复杂的算法</u></a>，来检查内容是否可以接受。某些内容还会由人工进行检查，作为最后一道关卡。来自政府的重要最新报道有时会被固定在用户页面的顶部。这可能会导致一些内容尴尬地出现在一起，比如官方媒体对国家主席习近平主席最近决策的报道和六名女子的幻灯片在同一个页面上出现。后者的标题是 “因长得太漂亮，刚出道就被富商‘牢牢盯上’的 6 大女星！”

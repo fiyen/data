@@ -1,0 +1,62 @@
+➜大众开发了多个版本的尾气排放作弊软件
+https://www.solidot.org/story?sid=45836	13499
+路透社援引知情人士的消息<a target="_blank" href="http://cn.reuters.com/article/2015/10/19/vw-spam-idCNKCS0SD02V20151019"><u>报道</u></a>，大众汽车开发了多个版本的“作弊软件”用于柴油尾气排放造假，这可能说明了这家德国车厂舞弊行为的复杂性。知情人士称，在大众汽车承认的存在排放检测舞弊的七年间，该公司为四款发动机换上了作弊软件。其中一位知情人士是了解相关情况的大众公司经理，另外一人是接近对大众调查的美国官员。一些业内专家和分析师表示，多个版本作弊软件的存在，说明有不少员工牵涉其中。他们说，软件技术人员需要资金，并需知晓发动机项目计划。
+➜Google部分服务在中国可访问
+https://www.solidot.org/story?sid=45837	14264
+此前有流言说，Google正努力将其与Google Play相关的服务带回中国。上周的<a target="_blank" href="https://performancegurus.net/google-reappears-in-china/"><u>一些迹象</u></a>显示Google正朝着这一目标前进。政治敏感性较低的地图服务（浏览器版的Google Maps和Google Earth软件）被发现在中国可以部分访问；IP显示Google将它的部分服务器迁移到北京、上海和广州，租的是国有的中国电信的服务器。但Gmail和Google Play等服务仍然被完全屏蔽，Google.cn搜索仍然被定向到香港，依旧无法访问。
+➜中国考虑建立月球基地
+https://www.solidot.org/story?sid=45838	16808
+官方新华社报道，国防科工局探月与航天工程中心主任刘继忠<a target="_blank" href="http://news.sky.com/story/1570718/china-wants-a-moon-base-and-space-ants"><u>谈论了中国未来的月球探索计划</u></a>。他谈论了比漫游车更灵活的类似蚂蚁的设备，向月球背面发射登陆器，发射卫星探索月球的南北极，载荷10吨的重型运载火箭，等等。为建立月球基地这些工作都是必须先进行的。刘继忠称，探索未知时，我们不应该只是跟随，还需要更多自己的创新。
+➜看穿网络协议混淆
+https://www.solidot.org/story?sid=45839	19410
+国家级审查者使用深度包检测系统（DPI）去探测和屏蔽翻墙工具的使用。它们是通过协议头或其它应用层网络数据包中的指纹发现此类的翻墙工具。研究人员和活动人士因此相对应的提出了混淆协议方法。协议混淆工具采用的方法包括随机化所有发送的字节，模仿未封锁的协议如HTTP，通过未屏蔽协议的实现隧道流量。Tor匿名网络就开发了多种协议混淆，包括obfsprox（obfsproxy3和obfsproxy4）和meek。目前它们都没有遭到DPI的封锁。但审查者是否可以轻易的改变和部署新的DPI算法去精确的探测这些协议混淆工具？威斯康星大学的研究人员发表了一篇论文《<a target="_blank" href="http://pages.cs.wisc.edu/~liangw/pub/ccsfp653-wangA.pdf"><u>Seeing through Network-Protocol Obfuscation</u></a>》（PDF），他们给出的答案是肯定的。研究人员发现，现有的协议混淆机制都能很容易的探测出，使用机器学习对流量进行分类，一个国家级的审查者能达到99%的准确率。
+➜网易邮箱用户信息大规模泄露
+https://www.solidot.org/story?sid=45840	25057
+安全研究人员<a target="_blank" href="http://www.wooyun.org/bugs/wooyun-2015-0147763"><u>表示</u></a>，网易163/126邮箱过亿数据泄漏，涉及到邮箱账号、密码、用户密保等。网易邮箱自称是中国的第一大电子邮件服务。邮箱泄露的问题上周末已经开始流传，有用户称自己的网易邮箱被攻击者利用窃取了Apple ID，抹掉了苹果设备上的内容。但网易<a target="_blank" href="http://www.chinanews.com/cj/2015/10-19/7575821.shtml"><u>否认</u></a>邮箱数据遭到窃取。目前研究人员没有披露网易邮箱的漏洞细节。
+➜中国黑客继续渗透美国企业窃取商业机密
+https://www.solidot.org/story?sid=45841	26875
+安全公司CrowdStrike<a target="_blank" href="http://blog.crowdstrike.com/the-latest-on-chinese-affiliated-intrusions-into-commercial-companies/"><u>发表报告称</u></a>，在中美两国宣布不参与或支持网络经济间谍活动后的三周之内，与中国政府有关联的黑客组织不成功的入侵至少7家美国企业。这7家公司属于科技或制药业，黑客的动机被认为是窃取知识产权或商业机密。入侵行动由不同的黑客组织执行，其中一个是DEEP PANDA。黑客尝试通过SQL注入植入China Chopper webshells，使用恶意程序如Derusbi。中国黑客继续渗透美国企业是否意味着两国签署的协议失败了？这倒未必，签署协议到协议执行总有一段时间间隔。
+➜俄罗斯与欧洲联合探索月球背面，建造基地
+https://www.solidot.org/story?sid=45842	29012
+俄罗斯官方媒体RT<a target="_blank" href="https://www.rt.com/news/319015-luna-moon-russia-esa/"><u>报道</u></a>，欧洲航天局将加入俄罗斯雄心勃勃的月球殖民计划。俄罗斯的 <a target="_blank" href="https://en.wikipedia.org/wiki/Luna_27"><u>Luna 27</u></a>任务计划在月球背面的南极Aitken盆地发射机器人登陆器，南极极端寒冷，可能存在水冰，能为未来的月球基地提供资源。欧洲航天局将为这项计划提供关键的技术，包括飞行驾驶仪、激光导航着陆系统以及识别最佳探索位置的摄像设备。Luna 27计划在2020年发射。
+➜CacheBrowser：利用CDN内容缓存绕过长城
+https://www.solidot.org/story?sid=45843	33662
+互联网审查仍然是言论自由的一个全球性威胁，很大程度上是因为互联网依赖于旧的端对端通信范式。审查者能以低成本通过IP屏蔽等方式阻止端对端连接。但互联网正在逐渐演变，越来越多的网站开始使用CDN托管内容，改进内容访问的性能、可靠性和安全性。以Akamai为例，它托管了三成互联网静态内容。Akamai在中国有服务器节点，在中国境内实行自我审查（只限于中国的边缘服务器），这是在中国做生意所必须的。IP屏蔽对传统的网站内容是有效的，但对于CDN托管的内容，审查者无法简单的将其屏蔽，因为这会带来巨大的附带损害。麻省大学安默斯特分校的研究人员因此提出了一种不需要代理服务器的翻墙方法，他们称之为publisher-centric。研究人员设计出新的翻墙系统<a target="_blank" href="http://delivery.acm.org/10.1145/2820000/2813696/p70-holowczak.pdf?ip=118.67.127.168&amp;id=2813696&amp;acc=OPEN&amp;key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437&amp;CFID=540989635&amp;CFTOKEN=89642168&amp;__acm__=1445231077_93be38e45356ba674ac40f7dc17f1dc8"><u>CacheBrowser</u></a>（PDF），绕过DNS干扰直接从CDN供应商的内容托管服务器之一上获取被屏蔽的内容。这种方法的优点是下载延迟比Tor之类的方法小得多，但缺点是只适用于使用CDN的被屏蔽网站，但幸运的是被中国屏蔽的大型网站都使用CDN。
+➜亚马逊起诉1000多名付费评论者
+https://www.solidot.org/story?sid=45844	34586
+亚马逊公司在华盛顿州西雅图<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-10-16/amazon-targets-web-freelancers-peddling-fake-customer-reviews"><u>提起诉讼</u></a>，对1114名在其网站上留下虚假评论者采取法律行动。这些人提供付费虚假的评论发帖服务，在Fiverr.com上以最低只有5美元的价格，为某个卖家的产品留下了表示好评的五星评价。亚马逊<a target="_blank" href="http://www.bbc.com/zhongwen/simp/business/2015/10/151018_amazon_reviews"><u>在诉讼中称</u></a>：“虽然这些评论数量不多，但是却很严重地破坏了消费者、绝大多数的卖家和生产商给予亚马逊的信任，反过来也使亚马逊的品牌受损。”
+➜大众车主不愿修车
+https://www.solidot.org/story?sid=45845	35038
+因为尾气排放丑闻，德国大众公司不得不在全世界召回上千万辆柴油汽车。它需要对召回的汽车进行改造，可能会影响汽车的性能。对此大众车主可就不乐意了。一位车主说，“如果会影响车的性能的话，我不希望我的车被以任何方式召回或重新编程或改装，因为我花钱买的不是这样的车。”美国环保署说，该机构无法迫使车主返修车辆。汽车商也无法强迫车主返修汽车。<a target="_blank" href="http://cn.nytimes.com/business/20151019/c19repair/"><u>这个漏洞意味着</u></a>，如果很多车主拒绝返修车辆，大众汽车的行为——至少在小范围内——造成的空气污染后果将是无法挽回的。
+➜OpenBSD 5.8发布，庆祝二十岁生日
+https://www.solidot.org/story?sid=45846	38019
+在OpenBSD源码树创建二十周年之际，开发者<a target="_blank" href="http://www.openbsd.org/58.html"><u>释出了5.8版</u></a>。这次的发布歌曲有四首而不是通常的一首：<a href="http://www.openbsd.org/lyrics.html#58a">"20 years ago today"</a>,
+<a href="http://www.openbsd.org/lyrics.html#58b">"Fanza"</a>,
+<a href="http://www.openbsd.org/lyrics.html#58c">"So much better"</a>,
+<a href="http://www.openbsd.org/lyrics.html#58d">"A Year in the Life"</a>。主要新变化包括：改进硬件支持、OpenSMTPD 5.4.4、OpenSSH 7.0、LibreSSL将拒绝小于1024位的DH密钥，等等。OpenBSD创始人Theo de Raadt 在邮件列表上<a target="_blank" href="http://thread.gmane.org/gmane.os.openbsd.announce/251"><u>回顾了</u></a>二十年前创建OpenBSD的经历。他称，整个项目至今有322,000 commits，平均每天44 commits，356位贡献代码的黑客。
+➜利用无线电波劫持Android和iPhone
+https://www.solidot.org/story?sid=45847	39627
+<center>
+<iframe src="https://www.youtube.com/embed/8zI1k0ROVpc" allowfullscreen="" frameborder="0" height="240" width="427"></iframe><br>
+<br>
+</center>
+法国研究人员José Lopes Esteves和Chaouki Kasmi<a target="_blank" href="http://news.softpedia.com/news/hackers-can-use-radio-waves-to-hijack-androids-and-iphones-via-siri-and-google-now-494754.shtml"><u>发现了一种方法</u></a>，利用Android和iPhone的语音助手Google Now和Siri在用户不知情下执行恶意指令。他们的设备包含了天线、软件无线电平台USRP、放大器和运行GNU Radio的笔记本电脑。劫持方法需要手机上插着耳机，耳机线作为接收器接收发送来的无线电波，然后中继发送来的命令给语音助手。手机系统会执行攻击者发送来的恶意指令，用户不注视屏幕不会察觉。
+➜CNET赴美报道Twitter开发者大会，征集网友提问
+https://www.solidot.org/story?sid=45848	40516
+Twitter开发者大会将于美国时间本周三在旧金山举行，CNET/ZDNet China是获邀唯一赴美参加报道的国内媒体，我们记者将进行一对一的采访，为了更好的报道此次会议，现向网友征集提问，有任何问题可提交给CNET科技资讯网官方微信账号：科技树。<br>
+<div align="center"><img src="http://img.solidot.com.cn/0/108/liEMXkihXQygE.jpg" align="" height="300" width="300"></div>
+科技树二维码图
+Twitter开发者大会介绍：
+为了帮助更多移动应用开发者打造应用程序，Twitter在去年举行了首次移动应用开发者大会，与开发人员进行沟通并向他们介绍方法。
+大会命名为Flight。Flight大会由开发人员参与，为开发人员举行。
+去年Twitter开发者大会亮点是移动应用崩溃分析工具Crashlytics、专注于移动业务的广告交易平台MoPub，以及倍受欢迎的Digits。
+据悉，Twitter举办的Flight大会只限受邀者参加。开发人员想参加的话可以在线填写并提交参会申请表。
+➜阿里巴巴游说美国政府将其从恶名市场名单中移除
+https://www.solidot.org/story?sid=45849	42136
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20151019/tec175726.asp"><u>报道</u></a>，在面临越来越多有关网站售假的投诉之际，阿里巴巴正游说美国政府不要把淘宝商城以及其他交易平台纳入美国政府列出的侵权商品市场名单。阿里巴巴的游说与美国贸易代表对“恶名市场”名单的年度审核有关；恶名市场包括销售假货的在线及实体市场。淘宝曾被列入售假问题市场名单，但美国贸易代表在2012年将淘宝网从名单中移除，理由是阿里巴巴着手解决品牌所有者的投诉问题。
+➜我们也许并不需要8小时睡眠时间
+https://www.solidot.org/story?sid=45850	43146
+因为电力的普及和各种电子电器设备的流行，现代人的睡眠时间被认为遭到了部分剥夺，绝大部分人都没有睡足8小时，只有6个半小时左右。但<a target="_blank" href="http://www.npr.org/sections/health-shots/2015/10/15/448932273/up-late-looks-like-our-paleo-ancestors-didnt-sleep-much-either?utm_medium=RSS&amp;utm_campaign=news"><u>我们真的需要8小时睡眠时间吗</u></a>？没有电的原始部落成员是否睡足8小时？UCLA的睡眠研究员Jerome Siegel调查了非洲和南美的三个狩猎部落，他们都没有电，没有任何现代电器设备。狩猎部落成员每晚花7到8小时躺在床上，但真正的睡眠时间只有5.7到7.1小时。<a target="_blank" href="http://www.cell.com/current-biology/abstract/S0960-9822(15)01157-4"><u>论文</u></a>发表在上周的《Current Biology》期刊上。原始部落的睡眠时间看起来和现代社会没有区别。更短的睡眠时间被认为与寿命减少或肥胖等存在相关性，但这些原始部落成员都很健康，没有肥胖，许多人的寿命都很长，几乎没人有睡眠问题。这项研究对传统的结论提出了疑问。
+➜构建现代社会的集装箱
+https://www.solidot.org/story?sid=45851	45894
+我们使用的进口电子设备、电器和汽车主要不是通过航运而是海运运到我们身边的。海运是现代运输系统的重要一环，是现代生活的引擎。而<a target="_blank" href="http://nautil.us/issue/29/scaling/the-box-that-built-the-modern-world-rp"><u>海运中的关键是集装箱货船</u></a>。去年全世界的集装箱码头搬运了5.6亿个20英尺长集装箱，相当于15亿吨货物。石油、铁矿和煤炭主要是通过特别设计的散装货船运输，而其它消费者产品从衣服到汽车到计算机都是通过集装箱货船运输。一件T恤在北京的工厂缝制完成后通过集装箱打包运输到欧洲，耗时大约35天，而每件衣服的费用仍然能不足1美元，因为运输成本所占比重非常低。

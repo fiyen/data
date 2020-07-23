@@ -1,0 +1,21 @@
+➜多个香港泛民网站被植入恶意代码
+https://www.solidot.org/story?sid=41422	30527
+<div align="center"><img src="http://img.solidot.com.cn/0/668/liNxk0X56WRVg.png" align=""><br>
+<br>
+</div>
+路过式下载是一种常见的入侵特定人群计算机系统的攻击方式。安全公司Volexity<a target="_blank" href="http://www.volexity.com/blog/?p=33"><u>报告了</u></a>针对香港占中民主运动支持者的路过式下载攻击：多个香港泛民网站被植入了恶意脚本，访问者的电脑如果运行了存在漏洞的软件，有可能会被安装恶意程序，成为监视的目标。被入侵的网站包括了Alliance for True Democracy in Hong Kong (www.atd.hk)、Democratic Party Hong Kong (www.dphk.org)，People Power in Hong Kong (www.peoplepower.hk)和The Professional Commons (www.procommons.org.hk)。恶意程序托管在域名java-se.com和IP地址58.64.178.77上，使用了短域名伪装真实网址，利用的是Java漏洞安装恶意程序。对java-se.com上托管的Java恶意程序的分析显示，恶意程序使用的签名证书来自韩国游戏公司WindySoft，它会访问网易的一个博客jduhf873jdu7.blog.163.com（如图所示）。
+➜Google工程师Neel Mehta如何发现Heartbleed漏洞
+https://www.solidot.org/story?sid=41423	34200
+Google工程师Neel Mehta最早发现了 OpenSSL的Heartbleed漏洞，他现在首次披露了<a target="_blank" href="http://www.smh.com.au/it-pro/security-it/revealed-how-google-engineer-neel-mehta-uncovered-the-heartbleed-security-bug-20141009-113kff.html"><u>发现的经过</u></a>。Mehta说，他当时正逐行的检查OpenSSL的SSL堆栈，他决定检查SSL堆栈的主要原因是今年早些时候发现了多个加密漏洞，其中一个是<a target="_blank" href="http://www.solidot.org/story?sid=38459"><u>GoToFail</u></a>，另一个是<a target="_blank" href="http://www.solidot.org/story?sid=39803"><u>GnuTLS的缓冲溢出bug</u></a>。Mehta说，SSL堆栈漏洞发现的速度在加快，他很好奇SSL堆栈的安全现状，所以想去了解一下。他没有预计到主流媒体会对该bug产生如此大的热情，认为另一个同时发现该漏洞的安全公司的营销手段让Heartbleed吸引了主流媒体的关注。安全公司Codenomicon为这个漏洞制作了一个logo，起了很炫的名字Heartbleed。
+➜匿名黑客公布窃取的中国政府网站数据
+https://www.solidot.org/story?sid=41424	50411
+支持占中运动的松散黑客组织匿名者<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2014/10/141012_hongkong_occupy_anonymous"><u>开始公布</u></a>入侵的中国政府网站数据库。<a target="_blank" href="http://pastebin.com/kPNXLXhP"><u>数据</u></a>大多发布在pastebin上（如浙江省长兴县人力资源和社会保障局<a target="_blank" href="http://pastebin.com/Z3aEVE0q"><u>数据库</u></a>，宁波市保税区管理委员会<a target="_blank" href="http://pastebin.com/i76Yet69"><u>数据库</u></a>）。匿名黑客表示，“中国，你无法阻止我们。你在滥用权力反对香港公民的时候就应该预料到我们的力量。”香港警察公共关系科公共关系科总警司许镇德周日说，现实世界的许多法律同样适用于互联网上，警告香港市民不要以身试法。匿名黑客成员在其个人推特帐户透露，已经攻陷了52个中国政府网站的数据库，获得超过4.2万个电邮帐户的使用者名称和密码等，并会在网上公开这些资料。
+➜手机成为脱北者联系朝鲜亲人新途径
+https://www.solidot.org/story?sid=41425	51302
+越来越多脱北者<a target="_blank" href="http://www.dw.de/%E6%89%8B%E6%9C%BA%E6%88%90%E4%B8%BA%E8%84%B1%E5%8C%97%E8%80%85%E8%81%94%E7%B3%BB%E6%9C%9D%E9%B2%9C%E4%BA%B2%E4%BA%BA%E6%96%B0%E9%80%94%E5%BE%84/a-17981533"><u>通过中间人和朝鲜的亲人取得了联系</u></a>。来自中国的走私手机在朝鲜一侧扮演了重要角色。一部走私到朝鲜的手机帮助40岁的脱北者Lee Seo Yeon完成了两个使命：情感上的和经济上的。不过一开始，她还担心搞错了。从1998年以来，她们就没有通过话。那一年，Lee Seo Yeon趟过齐胸高的冰冷的河水逃到中国。她说，姐姐不比她大多少，但电话里听起来却像一位老年妇女。当Lee Seo Yeon确信自己在和姐姐通话后，一位中间人拿走了电话。在Lee Seo Yeon向一位在韩华人的韩国银行帐户汇去200万韩元（折合1880美元）并得到此人证实后，那位中间人又把电话给了Lee女士的姐姐。按照约定，70%的钱会到姐姐手中，另外30%是中介费。走私的手机和朝鲜内外活跃的中介地下网络让脱北者们不仅和长期失去联系的亲人取得了联系，也给他们送去了亟需的现金。中国手机在朝鲜是非法的，但便宜，也容易得到。几年来，它们越来越成为在韩国的大约2.5万名脱北者以及藏在中国的脱北者和朝鲜亲人联系并且为她们提供帮助的途径。
+➜被封杀作家著作脱销
+https://www.solidot.org/story?sid=41426	52035
+<div align="center"><img src="http://img.solidot.com.cn/0/669/lifkTTbkB4Tk2.jpg" align="" height="150" width="480"><br>
+<br>
+</div>
+新闻出版广电总局以不明原因封杀了多位作家的作品，门户网站确认这一信息的文章多数已被删除（比如<a target="_blank" href="http://ent.sina.com.cn/m/c/w/2014-10-11/18034222524.shtml"><u>新浪</u></a>）。这些书尚未从网上书店下架，封杀令导致的一个结果是这些作者的作品脱销，如亚马逊上历史学者余英时的多部作品已经<a target="_blank" href="http://www.amazon.cn/s/ref=nb_sb_noss_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&amp;url=search-alias%3Daps&amp;field-keywords=%E4%BD%99%E8%8B%B1%E6%97%B6"><u>没有了库存</u></a>，另一家网上书店当当还制作了一个专题叫“<a target="_blank" href="http://book.dangdang.com/20141011_mfyx"><u>那些即将买不到的书</u></a>”。

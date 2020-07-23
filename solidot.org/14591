@@ -1,0 +1,47 @@
+➜WPF开始成形？
+https://www.solidot.org/story?sid=15157	14160
+<a href="mailto:xiangwangfeng@gmail.com">M80</a> 写道 "Tiobe发布的<a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">12月份编程语言版</a>显示，微软的C#达到了它的最高评级，且很可能在年度编程语言的评比中获胜。而随着C#的被重视度越来越高，它所包含的各种框架也越来越被企业重视，而最为明显的就是它的显示框架：<a href="http://zh.wikipedia.org/wiki/Windows_Presentation_Foundation">Windwos Presentation Foundation</a>。在Windows客户端开发或者说桌面开发方面，众所周知的问题两个：<i>
+1.语言对不同系统的支持问题:在未来2 3年内很可能是XP，Win7而分Windows天下（Vista可以忽略不计，因为出来时机不对，导致名声太臭了），而顺着硬件的越来越强大，用户渐渐会发现自己的硬件的优势在XP上很难再得到体现，大内存的管理对于XP来说简直是噩梦。而转移到Win7上的用户又很可能直接选择X64而导致一系列的软件兼容性问题，而C#因为其解释性而不存在这样那样的问题。
+<br>
+2.UI的表现，传统的C++开发的软件界面上很难达到WIN7这种炫的效果，UI表现极其呆板，而使用WPF则可以轻易达到各种效果。
+但是WPF程序的部署是一个较大的问题。曾经也有过大公司用WPF做客户端失败的教训：yahoo WPF版的messager。这个产品最终还是以失败告终:只是以一个技术预览版的形式在私底下传播而已。而随着Win7的推进，WPF技术似乎看到了一线曙光，国内各大公司也纷纷试水WPF，阿里推出了自己<a href="http://open.taobao.com/rwt/win7.html">Lab产品</a>，网易也推出了自己的基于WPF的<a href="http://ephoto.163.com/">网易相片管家</a>。期待WPF技术的流行。"</i>
+➜读写网报道中国关闭P2P网站消息
+https://www.solidot.org/story?sid=15155	14880
+<a href="http://www.dongxi.net/">东西</a> 写道 "
+<i> <a href="http://www.readwriteweb.com/archives/torrent-china-government.php">读写网报道中国关闭P2P网站消息</a>，文中题头图为绿坝娘，描述了大家在最后时候疯狂下载资源，然后加了一句解释“中国网民可能并不完全是因为免费而去下载这些资源，而是因为除此以外没有其他途径可以获得这些资源。”另外，在读写网文章<a href="http://www.readwriteweb.com/archives/top_10_failures_of_2009.php">《2009年十大令人失望产品》中，请大家点击链接看第五条。</a>"</i>
+➜新词：Prayer Tweet, ROS, Bokodes
+https://www.solidot.org/story?sid=15156	15180
+<a href="http://www.dongxi.net/">东西</a> 写道 "美国《连线》杂志12月刊文章，<a href="http://www.dongxi.net/article/1138">《新词：Prayer Tweet, ROS, Bokodes》</a>
+<i> Prayer tweet（祈祷推文）：名词，通过Twitter向上帝祈祷。犹太极客，基督徒极客们可以发祈祷推文，这些推文可以在约旦河西岸哭墙或圣墓教堂（Church of the Holy Sepulchre）的显示屏上显示。
+<br> ROS：名词，Robot Operating System（机器人操作系统）首字母的缩写。这一开源软件就如DOS之于家用电脑一样，能控制机器人。通过提供一个普通平台，开发者们就可以平稳地在火星探测车和室内清洁机器人这些应用之间切换。
+<br> Bokodes（焦外点技术）：名词，复数，小条形码（barcode）可容纳的信息量是现今可扫描条纹（scannable stripe）的一百万倍。焦外点技术通过一种基于在日本名为“bokeh”（焦外）的摄像概念a而存储数据。
+<br> Cn：名词，预计将成为copernicium元素的化学符号。为纪念尼古拉·哥白尼(Nicolaus Copernicus)而将该元素命名为copernicium。已知元素中最重的一种，是氢元素的277倍；它还是最稀少的元素之一，只检测到34个原子。（译名国家教育部未下文定，故未翻——译者注）"</i>
+➜让Geek痛不欲生的事情
+https://www.solidot.org/story?sid=15158	17520
+<a href="http://3seconds.cn/">添油加醋-3秒</a> 写道 "《连线》<a href="http://www.wired.com/gadgetlab/2009/12/computing-for-dummies-five-ways-that-n00bs-annoy-geeks/">文章</a>(<a href="http://3seconds.cn/2009/12/12/5-ways-annoy-geek.html">中文)</a>：你是Geek，你已经成为了家人和朋友中的计算机专家，随着长假即将到来，等着你去排除的故障可能比上次多了好几倍。而你的眼睛也会由于你“无知的客户”而睁得比正常大上好几倍。下面，我们来看看那些经常发生而且即将再次发生的最荒谬和令人沮丧事情，苦笑吧。           1.内存 VS 硬盘<br>你刚刚排除了一个故障然后你的朋友决定扔另一个问题给你。”我的电脑运行有点慢！”，他说。你没有去检查他的电脑，取而代之你问他”你的机器内存多大？”。在茫然当中，我不得不告诉你，你已经进入了一个，就像Walter Sobchak所说的那样一个”充满苦痛的世界”。<br> <br>“我没存多少照片，”他说，”这会使电脑很慢吗？”<br> <br>然后你使尽全身解数来给他解释1GB硬盘与1GB内存有什么区别（我经常会这样说:RAM就像厨房台面而硬盘像是储物柜，台面越大你做饭时到储物柜取东西的次数就越少，做饭的速度也就相对要快）。你高兴地以为终于解释清楚了。<br> <br>“那就是说如果增加一些内存，我就能多存一些照片了？”<br> <br>天呐！..<br> <br>2.Wi-Fi 不是 Internet<br>家人:我连不上网!<br> <br>你：你连上Wi-Fi了吗？<br> <br>家人:是的，但是我登不上Google。<br> <br>你：我想是你的路由器没连上。<br> <br>家人:(想了一下)我连了。我能看到信号是满格的。<br> <br>你：(已经不能呼吸了)。。<br> <br>3.单击 双击<br>这不是个要你排除的故障，但这会让你想杀了自己:看着别人双击网页中的超链接。为什么？为什么？<br> <br>4.“过度整洁”导致破坏<br>这种情况有很多种形式，但是通常只要你陷入其中一种就危险得无法脱身了。这可能是关于各种程序在文件夹中排序的问题，既可以按字母也可以按用途排序。也可能是关于重命名系统文件夹的问题(我有个朋友决定把系统建立的iPhoto文件夹改成全部大写形式，因为这样看起来更好些)。<br> <br>当你遇到这种人，你会发现两件事：第一，他们从来且永远不会把图片(或文档)放在叫做”图片”(或”文档”)的文件夹里(他们在根目录下面创建了另外的文件夹来存放这些文件)。第二，当他们来找你帮忙的时候，他们从来且永远不会承认他们做了任何错事，就算你已经”破获”他们。<br> <br>5.“神秘”热电脑<br>朋友：我的电脑很热，还发出很大的声响。<br> <br>你：我看看吧。把它带到 [在这里填上你最喜欢的酒吧名称]。<br> <br>你到了酒吧，看到朋友在光滑、清洁的大理石桌旁等你。笔记本是开着的，下面垫着一个极软、绝缘的氯丁橡胶书套。问题解决了。<br> <br>然而这只是个开始，现在该轮到你了。你的朋友和家人当中，谁对他们自己的电脑做过的什么事情，最令到你无语且”永生难忘”呢？请留言告诉我。"
+➜/.文章数超过10万篇
+https://www.solidot.org/story?sid=15159	19800
+从1997年到2009年，由用户递交新闻的知名科技网站/.(Slashdot)文章数量<a href="http://meta.slashdot.org/story/09/12/11/1615202/Slashdot-Turns-100000">超过了10万篇</a>。从技术上讲，这个数据有些滞后，因为最初几个月的文章在数据库中丢失了。顺便说一下：不包括旧站，我们（Solidot）数据库中的文章数刚刚超过15000篇。
+<i>从/.<a href="http://slashdot.org/hof.shtml">名人堂</a>看，用户讨论最热烈的文章是布什、奥巴马、萨达姆、进攻伊拉克，911，以及智能设计等与创造论相关文章；<br>浏览量最多的文章则偏向了技术面，主要是<a href="http://slashdot.org/article.pl?sid=04/02/12/2114228">Windows 2000 &amp; Windows NT 4 源代码泄漏</a>，《半条命2》<a href="http://games.slashdot.org/article.pl?sid=03/10/02/1547218">源代码泄漏</a>等文章；<br>投票最多的是“<a href="http://slashdot.org/pollBooth.pl?qid=749">Will you marry me?</a>”，/.创始人CmdrTaco以其向现在的妻子求婚。</i>
+➜视错觉经典：Rotating Snake
+https://www.solidot.org/story?sid=15160	24900
+<a href="http://xirang.us/">freezeblue</a> 写道 "Rotating Snake视错觉属于<a href="http://en.wikipedia.org/wiki/Illusory_motion">运动错觉</a>范畴。Gregory和Heard于1983在论文<a href="http://www.richardgregory.org/papers/visual_dissoc/visual-dissociation.pdf">"Visual dissociations of movement, position, and stereo depth: Some phenomenal phenomena"</a> 中首次描述了这种由非对称亮度变换导致的视错觉现象。而日本京都<a href="http://www.ritsumei.ac.jp/">立命馆大学</a>的Akiyoshi Kitaoka（北冈明佳）则是对这一现象所能产生的奇幻视觉效果作了深入的研究，他在2003年的论文<a href="http://www.psy.ritsumei.ac.jp/~akitaoka/PDrift.pdf">"Phenomenal Characteristics of the Peripheral Drift Illusion"</a>中指出，这种视错觉现象可以称之为余光游移视错觉，只有用余光观察才能看到视错觉发生，并且<a href="http://xirang.us/2009/12/rotating-snake-visual-illusion#color-arrangement">四种不同亮度的颜色的巧妙安排</a>是产生这种视错觉的必须条件，据估计这种非对称的亮度变换会触发人类的运动探测神经。           接下来Akiyoshi Kitaoka更是将此理论发挥到极致，制作了一副<a href="http://xirang.us/2009/12/rotating-snake-visual-illusion">魔幻般的Rotating Sanke视错觉图像</a>。这不是一张动画图片！但是，当观察者的目光在图中游移时，这些盘踞的“蛇”们会翩翩起舞，跳出不可思议美妙的旋转舞蹈。不过它们还是很害羞的，当观察者的目光聚焦在某条“蛇”身上时它便会立刻安静下来。<strong>！！！注意：当您的大脑不能再容忍两只眼睛所传达的相互矛盾的信息时，Rotating Sanke视错觉图像便会成为眩晕或癫痫发作的潜在诱发源！请三思而后看！</strong>"
+➜好莱坞助力科学研究
+https://www.solidot.org/story?sid=15161	32040
+《自然》报道，在圣迭戈举行的美国细胞生物学学会会议上，科学家表示，曾用于制作如《怪物史莱克》之类动画电影的<a href="http://www.nature.com/news/2009/091211/full/news.2009.1132.html?s=news_rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+news%2Frss%2Fmost_recent+(NatureNews+-+Most+recent+articles)">计算机软件可帮助细胞细胞学家诠释假说</a>，甚至有新发现。<i>
+他们使用软件在三维虚拟细胞中构建蛋白质结构，但软件无法展示出细胞内的蛋白质行为。为此他们转而求助于动画制作软件Maya——皮克斯和好莱坞电影工作室常用的计算机程序。但让科学数据进入Maya平台仍然是一大难题，在哈佛大学医学院教授分子视觉化的专家Gaël McGill创建了一个名叫<a href="http://www.molecularmovies.com/learning/index.html">Molecular Maya</a>的免费软件。该软件允许研究人员使用在线数据库，自动的将蛋白质结构引入细胞环境中。出席会议的印第安纳大学科学家Patrick Huehls称，科学家也在依靠动画，动画正成为发现的一部分，而不是发现的终结。</i>去年获奖的<a href="http://www.nature.com/nature/newsvideo/endocytosis.mov">细胞动画</a>（mov）
+➜支付宝可购买GoDaddy域名
+https://www.solidot.org/story?sid=15162	35640
+<a href="http://3seconds.cn/">3秒-域名</a> 写道<i> "<a href="https://www.godaddy.com/">Godaddy</a>是世界第一大域名注册商，之前中国用户只能通过信用卡购买该公司的域名，很不方便。昨日(2009-12-12)GoDaddy宣布将<a href="http://3seconds.cn/2009/12/13/alipay-buy-godday-domain.html">支持中国用户通过支付宝购买GoDaddy域名和主机</a>。IP地址在中国大陆和香港的用户将可以在支付选择中看到支付宝的选项。<br>
+同时Godaddy在主机领域非常强大，据多家监测机构显示，放置在Godaddy上的网站数量已经越居第一位。Godaddy对内容没什么要求(未申明不允许成人内容)。但这也可能也会导致很多事情的发生。"</i>
+➜日渐成熟的WPF技术
+https://www.solidot.org/story?sid=15163	36960
+<a href="mailto:xiangwangfeng@gmail.com">M80</a> 写道 "&nbsp;&nbsp;&nbsp;Tiobe发布的<a href="http://news.csdn.net/a/20091207/215582.html">12月份编程语言榜</a>显示，微软的C#达到了它的最高评级，且很可能在年度编程语言的屏蔽中获胜。而随着C#的被重视度越来越高，它所包含的各种框架也越来越被企业重视，而最为明显的就是它的显示框架：<a href="http://zh.wikipedia.org/wiki/Windows_Presentation_Foundation">Windwos Presentation Foundation</a>。
+<br> <br>&nbsp; &nbsp;在Windows客户端开发或者说桌面开发方面，众所周知的问题有两个:
+<br> <br>&nbsp;&nbsp; 1.语言对不同系统的支持问题:在未来2 3年内很可能是XP，Win7而分Windows天下（Vista可以忽略不计，因为出来时机不对，导致名声太臭了），而顺着硬件的越来越强大，用户渐渐会发现自己的硬件的优势在XP上很难再得到体现，大内存的管理对于XP来说简直是噩梦。而转移到Win7上的用户又很可能直接选择X64而导致一系列的软件兼容性问题，而C#因为其解释性而不存在这样那样的问题。
+<br> <br>&nbsp;&nbsp; 2.UI的表现，传统的C++开发的软件界面上很难达到WIN7这种炫的效果，UI表现极其呆板，而使用WPF则可以轻易达到各种效果。 但是WPF程序的部署是一个较大的问题。曾经也有过大公司用WPF做客户端失败的教训：yahoo WPF版的messager。这个产品最终还是以失败告终:只是以一个技术预览版的形式在私底下传播而已。而随着Win7的推进，WPF技术似乎看到了一线曙光，国内各大公司也纷纷试水WPF，阿里推出了自己基于WPF的<a href="http://open.taobao.com/rwt/win7.html">Lab产品</a>（试验版，只号称支持WIN7），网易也推出了自己的基于WPF的<a href="http://ephoto.163.com/">网易相片管家</a>。相比而言，网易的相片管家更像一款产品，提供了一套完整的部署方案，而阿里的任我淘更像一个实验产品，只号称支持Win7。
+<br> <br>&nbsp; 期待WPF技术的流行。"
+➜Google向雇员提供实验性的“Google Phone”
+https://www.solidot.org/story?sid=15164	47400
+Google向部分雇员提供了一台运行Android的新型手机，再次引发了<a href="http://mobile.slashdot.org/story/09/12/13/0034219/Google-Releases-Experimental-Phone-To-Employees">Google是否将推出自有品牌手机的流言</a>。<i>
+根据Google官方博客的<a href="http://googlemobile.blogspot.com/2009/12/android-dogfood-diet-for-holidays.html">说法</a>，分发手机是为了让雇员尝试新的移动功能，它并没有声称是Google Phone。这款叫<a href="http://news.yahoo.com/s/nm/20091213/tc_nm/us_google">Nexus One</a>的手机由台湾智能手机制造商HTC生产，没有锁定运营商，运行的是Android 2.1软件。Mario Queiroz，Google的产品管理副总裁，表示该公司最近提出了移动实验室的新概念，移动实验室设备由合作伙伴生产的创新硬件和基于Android的软件组成，给员工的目的是试验新的移动特性和功能。自Google透露Android之后，关于其推出自有品牌手机的传言便不绝于耳。</i>

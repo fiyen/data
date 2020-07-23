@@ -1,0 +1,60 @@
+➜印度CA发行商伪造Google雅虎证书，微软紧急更新吊销证书
+https://www.solidot.org/story?sid=40289	10847
+印度国家信息安全中心NIC<a target="_blank" href="http://googleonlinesecurity.blogspot.com/2014/07/maintaining-digital-certificate-security.html"><u>被发现</u></a>使用<a target="_blank" href="http://cca.gov.in/cca/index.php"><u>Indian CCA</u></a>发行的次级CA证书发行了多个假的Google和雅虎SSL证书（三个Google域名和一个雅虎域名，此外还有yahoo-inc.com、yahooapis.com、static.com和gstatic.com等）。未授权的SSL证书可被用于发动中间人攻击，如嗅探内容和钓鱼。Indian CCA被微软的Root Store所信任，伪造证书事件主要影响使用微软IE和其它Windows应用程序的用户，Firefox用户不受影响。Indian CCA已经撤销了NIC持有的次级CA证书，声称原因是NIC的证书发行系统遭到了黑客入侵。微软已经向其支持的操作系统<a target="_blank" href="http://arstechnica.com/security/2014/07/emergency-windows-update-revokes-dozens-of-bogus-google-yahoo-ssl-certificates/"><u>发布了紧急更新</u></a>，屏蔽了黑客发行的45个高度敏感的伪造SSL证书。运行Windows 8、8.1、RT、RT 8.1、Server 2012、Server 2012 R2、Phone 8和Phone 8.1的系统将会收到撤销证书的更新；运行Windows Vista、7、Server 2008或erver 2008 RS的用户可以查看微软的<a target="_blank" href="https://support.microsoft.com/kb/2677070"><u>说明</u></a>。
+➜赛门铁克在产品被禁后与中国政府举行会谈
+https://www.solidot.org/story?sid=40290	12033
+在中国官方媒体报道公安部下令禁用其一款产品后，赛门铁克公司正与中国政府<a target="_blank" href="http://www.reuters.com/article/2014/07/10/us-symantec-china-idUSKBN0FF1V320140710?feedType=RSS"><u>就此事进行磋商</u></a>。官方媒体上周报道，公安部下发通知，要求各级公安机关卸载赛门铁克的数据防泄漏(Symantec DLP)产品，理由是这款产品可能存在后门和安全风险，通知没有对此说法作出进一步解释。赛门铁克是最新一家在中国遭遇挑战的美国科技公司。思科路由器、IBM高端服务器和微软的Windows 8都可能被中国政府机关限制采购。
+➜GNOME准备沙盒化桌面应用程序
+https://www.solidot.org/story?sid=40291	15157
+过去几个月，GNOME开发者开始制定初步计划，准备沙盒化桌面应用程序。开发者Allan Day在其博客上<a target="_blank" href="https://afaikblog.wordpress.com/2014/07/10/sandboxed-applications-for-gnome/"><u>谈论了</u></a>沙盒桌面应用程序的好处：安全和隐私是自由软件的核心信念，用户信任自由软件开发者会以他们的利益为重，他们对自由软件比私有软件有更多的信心。但让人感到遗憾的是，自由软件桌面在安全上做的并不好。桌面开发者依靠是透明和善意确保应用程序不会侵犯用户隐私，而不是依靠稳健的技术架构。GNOME计划将Docker<a target="_blank" href="http://blogs.gnome.org/uraeus/2014/07/10/desktop-containers-the-way-forward/"><u>作为桌面容器</u></a>，安全运行桌面应用程序。Red Hat的GNOME开发者正致力于将Docker整合到系统中。
+➜亚马逊向FAA请求测试无人机快递
+https://www.solidot.org/story?sid=40292	17134
+上个月，美国联邦航空管理局（FAA）<a target="_blank" href="http://www.solidot.org/story?sid=40077"><u>明令</u></a>禁止使用无人机快递包裹，但亚马逊向FAA申请<a target="_blank" href="http://www.regulations.gov/#!documentDetail;D=FAA-2014-0474-0001"><u>豁免</u></a>，允许它<a target="_blank" href="http://techcrunch.com/2014/07/10/amazon-asks-faa-for-permission-to-test-its-delivery-drones/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29"><u>测试无人机快递</u></a>。亚马逊的无人机快递服务被称为 Prime Air，号称能在半小时内将包裹交付到客户手中。亚马逊相信，未来无人机快递将会和今天的邮政车一样司空见惯。它请求FAA在无人机相关法律完善之前让它能做好准备。亚马逊的无人机最高时速为50英里。
+➜Yelp指责Google过度推广自家内容
+https://www.solidot.org/story?sid=40293	18488
+Yelp称，搜索巨人正在以牺牲用户利益为代价<a target="_blank" href="http://cn.wsj.com/gb/20140711/tec111514.asp"><u>宣传自己的内容</u></a>。它在内部报告中指责Google故意提供与用户意图不符的搜索结果，以推广Google+本地链接。举例来说，在智能手机上用Google搜索旧金山餐厅Gary Danko的yelp页面，输入关键词“gary danko yelp”，返回了Google+社交网络上的评论链接和谷歌地图的链接，然后才显示指向Yelp上这家餐厅页面的链接。报告称，接受Yelp测试的用户中有20%的人在搜索“gary danko yelp”后点击了Google+上的结果。
+➜《振动与控制》期刊同行评审团伙曝光，60篇论文撤回
+https://www.solidot.org/story?sid=40294	24514
+我们听说过卖淫团伙，赌博团伙，勒索团伙，现在又多了<a target="_blank" href="http://www.washingtonpost.com/news/morning-mix/wp/2014/07/10/scholarly-journal-retracts-60-articles-smashes-peer-review-ring/"><u>一个同行评审团伙</u></a>。SAGE学术出版集团下属《<a target="_blank" href="http://jvc.sagepub.com/content/current"><u>振动与控制</u></a>》期刊的同行审议系统发现被人操控，操控者伪造了多达130个评审者的马甲和电子邮件，审议团伙成员甚至本人递交的论文。团伙的核心成员是台湾国立屏东教育大学的 Peter Chen。SAGE在声明中指出，至少有一次，Peter Chen用他建立的马甲审议了他自己的论文。国立屏东教育大学通知SAGE，Peter Chen已经在今年2月辞职。由该同行评审团伙成员审议的60篇论文已经<a target="_blank" href="http://retractionwatch.com/2014/07/08/sage-publications-busts-peer-review-and-citation-ring-60-papers-retracted/"><u>全部撤回</u></a>。<br>
+➜The Oatmeal说服Elon Musk向特斯拉博物馆捐赠百万美元
+https://www.solidot.org/story?sid=40295	26318
+2012年，网络漫画The Oatmeal的作者Matthew Inman发起了众筹，计划募集85万美元购买尼古拉·特斯拉实验室所在地，建造特斯拉博物馆和科学中心。他最终成功筹集到了137万美元，非营利组织Tesla Science Center利用这笔钱<a target="_blank" href="http://www.solidot.org/story?sid=31707"><u>买下了地皮</u></a>。但剩余的钱不足以建造特斯拉博物馆和科学中心。Matthew Inman通过<a target="_blank" href="http://theoatmeal.com/comics/tesla_model_s2"><u>漫画</u></a>请求特斯拉电动汽车的创始人Elon Musk捐款，而特斯拉家族成员William H. Terbo也在一封信里请求Musk捐款，指出特斯拉公司未经其家族同意使用了特斯拉的名字。Elon Musk最终决定向特斯拉博物馆<a target="_blank" href="http://arstechnica.com/gadgets/2014/07/the-oatmeal-convinces-elon-musk-to-donate-1-million-to-tesla-museum/"><u>捐款一百万美元</u></a>（虽然数额没达到Inman希望的八百万美元）。
+➜美国向上万死人寄去征兵通知
+https://www.solidot.org/story?sid=40296	29921
+美国征兵局向超过1.4万出生于1893年到1897年的宾州男子寄去了征兵通知，命令他们去登记兵役，警告违反命令将会处以罚款和监禁。73岁的Chuck Huey说，他收到了寄给祖父Bert Huey的通知，他的祖父是一战老兵，出生于1894年，于1995年去世。Huey称，他们收到征兵通知后完全惊呆了。这一乌龙事件是因为一位工作人员在数据库里根据出生年代筛选数据犯错，本应该输入1993年到1997年结果输成了1893年到1897年，相差了一百年。数据被寄给了征兵局，而由于宾州使用的是二位数字代码表示年代，所以征兵局没有发现错误，于是向大部分已去世的百岁老人寄去了征兵通知，到接到错误警告时它<a target="_blank" href="http://www.wpxi.com/ap/ap/strange/pa-men-get-draft-notices-100-years-after-the-fact/ngckk/"><u>已经寄出了14,250份通知</u></a>。
+➜Google短暂解禁，之后一切照旧
+https://www.solidot.org/story?sid=40297	31834
+<div align="center"><img src="http://img.solidot.com.cn/0/429/liBPvoyxW1bp2.png" align=""><br>
+<br>
+</div>
+路透社昨天<a target="_blank" href="http://www.reuters.com/article/2014/07/10/us-google-china-idUSKBN0FF18520140710?feedType=RSS"><u>报道</u></a>，在封锁一个多月后Google及其在线服务在中国解禁。但今天一觉醒来，生活还是和以前一样。路透社引用中国用户的话称，<span id="articleText">Google Maps和 Google.com都能正常访问。但今天看来这显然只是防火墙偶然松一下绑。Google中国流量报告<a target="_blank" href="https://www.google.com/transparencyreport/traffic/explorer/?r=CN&amp;l=WEBSEARCH&amp;csd=1404310864655&amp;ced=1405062000000"><u>显示</u></a>，在短暂的解禁期间，中国流量短时间出现了大幅增长，但今天已经恢复了常态。</span>
+➜南方科技大学向学生颁发文凭
+https://www.solidot.org/story?sid=40298	32719
+<div align="center"><img src="http://img.solidot.com.cn/0/430/liwtaxAM0MV3.jpg" align="" height="564" width="480"><br>
+<br>
+</div>
+南方科技大学向两位本科毕业生<a target="_blank" href="http://www.sustc.edu.cn/cn/news/view/alias/QQk5IAS0qe"><u>授予了学士学位</u></a>。这是近半个世纪以来，首次有中国高校<a target="_blank" href="http://china.caixin.com/2014-07-11/100702764.html"><u>自颁毕业证书和文凭</u></a>。此前中国高校的所有毕业证书和文凭均由教育部统一授权颁发。其中一名毕业生已经被英国伦敦大学学院和布里斯托大学录取，将于今年9月份选择前往其中一所学校继续深造。而另一名计划于10月前往牛津大学攻读博士学位。即将离任的南方科技大学首任校长朱清时在接受媒体采访时称，“我希望中国的高校以后都逐步走向自授文凭的路子，因为只有自授的文凭才跟学生的真实能力挂钩。而且，高校才能够竞争，没有行政保护。如果你办得不好，学生没有真本事，你的文凭社会不接受，学校就有危机，就要垮。如果你搞得好，文凭含金量高，社会就接受。这是世界上所有一流大学通常的做法。” <br>
+➜三星中国供应商被指使用童工
+https://www.solidot.org/story?sid=40299	34568
+<div align="center"><img src="http://img.solidot.com.cn/0/431/limhLoHgk1pM.png" align=""><br>
+<br>
+</div>
+中国劳工观察在针对三星及其供应商工厂的<a target="_blank" href="http://chinalaborwatch.org/pdf/2014.07.10_Shinyang_Electronics_report__FINAL.pdf"><u>最新卧底调查报告</u></a>（PDF）中声称发现了东莞三星供应商新洋电子<a target="_blank" href="http://www.ftchinese.com/story/001057201"><u>有5名童工的证据</u></a>。在上周发表的年度《可持续发展报告》中，三星披露其供应商广泛存在工作超时等非法行为，但表示没有发现使用童工的证据。 中国劳工观察谴责此类保证是“虚假广告，意在强化其‘负责任企业公民’的形象”。该组织的一名调查员卧底进入新洋电子工作，发布了经过部分遮盖的照片、员工通行证和身份证，以支持其说法，即新洋电子有5名14岁至15岁的工人，全都来自附近的同一所中学。三星表示正在紧急调查最新指控。
+➜复活ISEE-3卫星的故事没有幸福结局
+https://www.solidot.org/story?sid=40300	36607
+<div align="center"><img src="http://img.solidot.com.cn/0/317/liJqgLZ4eE5EI.jpg" align="" height="295" width="480"><br>
+<br>
+</div>
+一群民间爱好者组成了重启团队，利用筹集到的16万美元，试图复活已经在太空飞行了36年的NASA日地探测卫星ISEE-3。他们在今年5月成功与已经中断联系16年的ISEE-3<a target="_blank" href="http://www.solidot.org/story?sid=39749"><u>建立了联系</u></a>。本月早些时候，重启团队报告他们<a target="_blank" href="http://www.solidot.org/story?sid=40204"><u>成功启动了</u></a>卫星的推进器。一切看起来都非常顺利，但最新的消息<a target="_blank" href="http://arstechnica.com/science/2014/07/recently-revived-isee-3-probe-cant-fire-engines-cant-change-orbit/"><u>不是好消息</u></a>：卫星使用的火箭推进器需要氮气才能正常工作，但卫星储备的氮气可能已经耗光或泄漏到了太空中，推进器在短暂启动后关闭，如果无法启动推进器改变轨道，卫星将会沿着目前的日心轨道远离地球。下次卫星飞近地球需要数十年时间。
+➜iPhone位置跟踪功能被指威胁国家安全
+https://www.solidot.org/story?sid=40301	38578
+官方媒体CCTV在其新闻节目中称，iOS 7的“常去地点”功能跟踪并记录了手机所有者活动的位置和时间，如果有人获取这些数据，就能了解中国的更多情况<u><a target="_blank" href="http://cn.wsj.com/gb/20140711/tec171353.asp">甚至国家机密</a></u>。中国第一夫人彭丽媛去年曾被拍到使用iPhone，但最近被发现已经改用了运行Android系统的国产品牌手机。对iPhone的抨击是中国对美国科技公司发起的最新抵制。iPhone是中国最受欢迎的高端智能手机品牌之一，此前政府已经要求出售iPhone的三大移动运营商减少对iPhone等产品的补贴。
+➜美国空军研制下一代远程轰炸机
+https://www.solidot.org/story?sid=40302	41067
+美国空军<a target="_blank" href="http://arstechnica.com/information-technology/2014/07/air-force-launches-new-bomber-program-with-secret-specs-but-clear-aim/"><u>启动了下一代远程轰炸机（LRS-B）的设计竞赛</u></a>，将在2015年春选出获胜设计。LRS-B设计替代B-52轰炸机和昂贵的B-2隐形轰炸机，其设计要求属于机密，但推测轰炸机必须能在中国航母杀手（反舰弹道导弹）和其它远程战术武器攻击范围外起飞，能躲避中国海军的探测，能攻击海上目标。LRS-B特别对成本提出了要求，B-2隐形轰炸机造价高达20亿美元，因此只造了20多架，而LRS-B的计划单价为低于5.5亿美元，计划生产80到100架，将在10年内交付。LRS-B的主要假想敌是中国海军：中国海军的防御能力在过去十年有了显著进步，没有护航的载人轰炸机是否能有效打击中国海军颇受质疑，中国的神盾级导弹驱逐舰为中国海军提供了先进的空中防御能力。
+➜Google地图黑客如何随心所欲破坏一家企业
+https://www.solidot.org/story?sid=40303	44452
+餐馆Serbian Crown在开业近40年后关闭，业主Rene Bertagna<a target="_blank" href="http://www.wired.com/2014/07/hacking-google-maps/"><u>将原因归罪于Google</u></a>。从2012年初开始，餐馆的生意一下子一落千丈，周末的客户数量下降了75%。在惨淡经营数个月后，他不得不裁员，但仍然没有搞清楚问题出在什么地方。直到有一天，一位常客打电话询问，为什么他的餐馆周六周日和周一都要关闭。原来在Google的企业目录Google Places里，Serbian Crown的经营时间是错误的，因此任何在Google或Google Maps上搜索Serbian Crown的人都会被告知餐馆周末关闭。作为一家偏离繁忙马路的餐馆，这是一个致命问题。这不是一起个案。Google Maps上充斥着垃圾信息，合法的企业不时会看到他们的位置被竞争对手劫持。今年1月，有人在Google Maps上纂改了数千家酒店的网址，将它们修改到一家商业性的第三方预订网站。小企业也常常成为目标，比如一家商店Barbara Oliver &amp; Co Jewelry在收到大量虚假评论的同时发现它在Google Maps上被列为永久关闭。这些破坏和攻击之所以能发生的原因是Google Maps的核心是一个众包项目，能熟练操作Google's Mapmaker或Google Places for Business等工具的人可以对其进行修改。
+➜密西西比女童再次发现艾滋病病毒
+https://www.solidot.org/story?sid=40304	45034
+曾经被认为经过<a target="_blank" href="http://www.solidot.org/story?sid=33677"><u>早期治疗消灭体内艾滋病毒</u></a>的密西西比女童被发现体内<a target="_blank" href="http://www.npr.org/blogs/health/2014/07/10/330538734/mississippi-child-thought-cured-of-hiv-shows-signs-of-infection?ft=1&amp;f=1001"><u>仍带有病毒</u></a>。研究人员本来认为密西西比女童可以一辈子不用担心艾滋病的问题。使用抗艾滋病药物可以令感染者血液中检验不到病毒，但是目前也知道艾滋病病毒会藏身在肠和脑等器官中。所谓早期治疗，就是在新生儿出生几个小时之内，给予抗艾滋病病毒逆转药物，在病毒进入所谓藏身区之前，将其消灭。这一病例显示根治艾滋病<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2014/07/140711_hiv_baby_mississippi.shtml"><u>仍然困难无比</u></a>。

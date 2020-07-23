@@ -1,0 +1,18 @@
+➜Debian再次展开Systemd的讨论
+https://www.solidot.org/story?sid=41512	41730
+今年初，Debian技术委员会在下一代Debian 8 Jessie初始化系统的投票中选择了Systemd，但Systemd备受争议，连带着Debian社区也是<a target="_blank" href="http://www.solidot.org/story?sid=41309"><u>争论不休</u></a>。开发者现在又展开了<a target="_blank" href="http://linux.slashdot.org/story/14/10/17/1424246/debian-talks-about-systemd-once-again"><u>Systemd的讨论</u></a>。资深Debian开发者 Ian Jackson想要一个<a target="_blank" href="https://lists.debian.org/debian-vote/2014/10/msg00001.html"><u>共同的决议</u></a>，让每一位Debian开发者投票作出决定，而不是少数几位Debian技术委员会的委员。他的提议已经获得许多人的支持。<br>
+➜韩国考虑彻底重建国家身份证系统
+https://www.solidot.org/story?sid=41513	47102
+在发生了大量用户身份信息泄露和盗用之后，韩国正在考虑<a target="_blank" href="http://www.bbc.com/news/technology-29617196"><u>彻底重建</u></a>国家身份证系统。政府计划向年龄大于17岁的成年人发行新的身份证，这项工程可能将需要耗费数十亿美元，历时十年。旧的身份证是在1960年代开始发行的，至今仍然基于相同的模式，身份证的广泛使用使其成为黑客手中的万能钥匙。韩国五千万居民中有四千万人的身份证和个人信息被窃取，二千万人成为三大信用卡公司数字偷窃的受害者，其中包括现任总统朴槿惠。
+➜Kickstarter撤下Tor路由器项目集资活动
+https://www.solidot.org/story?sid=41514	49340
+<div align="center"><img src="http://img.solidot.com.cn/0/677/liZ9gD7wr7nPc.png" height="180" width="300" align=""><img src="http://img.solidot.com.cn/0/678/lit5ZkcDKp.jpg"><br>
+<br>
+</div>
+Kickstarter以违反其条款为由<a target="_blank" href="http://tech.slashdot.org/story/14/10/17/2136212/kickstarter-cancels-anonabox-funding-campaign"><u>撤下了</u></a>受争议的Tor路由器项目<a target="_blank" href="https://www.kickstarter.com/projects/augustgermar/anonabox-a-tor-hardware-router/"><u>Anonabox</u></a>的集资活动，支持者不需要支付其许诺的款项。Anonabox的集资目标是7500美元，但短短数天时间就筹集到了58万美元，它声称能将网络流量通过Tor匿名网络，让用户可以匿名上网。但这个项目很快<a target="_blank" href="http://www.solidot.org/story?sid=41471"><u>引发了争议</u></a>，开发者August Germar被发现有虚假宣传。Germar声称他从零开始设计了路由器，但实际上路由器的外形和主要部件和中国公司的一款产品几乎完全相同（如图），而且中国的产品要便宜得多（75元包邮，Anonabox的零售价是50美元）。在受到质疑后，Germar<a target="_blank" href="http://www.wired.com/2014/10/kickstarter-suspends-anonabox/"><u>承认</u></a>硬件是来自中国的供应商。Anonabox的软件同时也受到了批评，被发现在默认设置下容易受到监视或入侵。
+➜匿名应用Whisper被发现跟踪“匿名”用户
+https://www.solidot.org/story?sid=41515	51121
+匿名应用Whisper号称是互联网上最安全的地方，结果它被发现<a target="_blank" href="http://www.theguardian.com/world/2014/oct/16/-sp-revealed-whisper-app-tracking-users"><u>一直在跟踪“匿名”用户</u></a>，即使用户要求不被跟踪，关闭了地理位置服务，它还是会利用IP地址估计用户位置。Whisper还被发现与美国国防部分享从军事基地使用其服务的用户信息，以及开发了一个遵守中国审查法律的版本。逆向工程研究人员<a target="_blank" href="http://www.zdziarski.com/blog/?p=4056"><u>对Whisper进行分析后发现</u></a>，Whisper是基于Fiksu平台。Fiksu是一个专注于分析、社交跟踪，数据挖掘和广告的平台，Whisper本身是作为一个二级模块打包在应用，其主要模块是Fiksu。Whisper应用包括了多种不同的分析包，应用内的所有活动都可能被收集，应用程序在首次运行时会生成一个唯一的识别码，它相当于指纹，即使用户想匿名使用也能被跟踪。
+➜X-37B飞行674天后返回地面
+https://www.solidot.org/story?sid=41516	57613
+美国空军执行机密任务的太空飞机/轨道飞行器X-37B在轨飞行674天后返回地面，<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/10/141018_usa_spaceship"><u>在加州着陆</u></a>。这是X-37B的第三次飞行任务，前两次分别在太空中飞行了225天和469天。X-37B由波音公司制造，能利用太阳能电池板供电，共制造了两架。X-37B被广泛认为是一种<a target="_blank" href="http://www.solidot.org/story?sid=27793"><u>太空间谍飞行器</u></a>，曾被发现飞经过伊朗，中国和朝鲜的上空，甚至还靠近中国太空站天宫一号飞行。 美国空军官员只是对美国媒体表示，Orbital Test Vehicle执行了“减少危险、实验以及可重复使用航天技术概念发展”的任务。美国计划在2015年在佛罗里达卡纳维拉尔角发射第四次Orbital Test Vehicle任务。

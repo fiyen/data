@@ -1,0 +1,42 @@
+➜little b：用于构建复杂系统的 Lisp 方言
+https://www.solidot.org/story?sid=5240	900
+<a href="mailto:solo.lich@gmail.com">lichray</a> 写道 "<a href="http://www.littleb.org/">little b 编程语言</a>刚刚发布了新版本。该项目的初衷是为生物学家提供一个开源的、模块化的、重用能力强的编程语言。在 Common Lisp 的基础上，little b 提供了优秀的模块化系统和一个完整的、超越当前大多数自命为“面向对象语言”所能提供的面向对象系统。关于这一点，可以从其 <a href="http://www.littleb.org/tutorial-defcon.html">class 定义语法</a>中看出端倪。
+此外，little b 还整合了 Prolog 的规则推理机制，数学系统中常见的符号计算等功能。语法方面，大多数语法设计都集中在了 OOP 系统上（花括号用于创建对象，方括号用于指定对象的域，奢侈的设计）；支持中缀算符。这里有一个<a href="http://www.littleb.org/tutorial-biochem-quickstart.html">使用 little b 快速建模生物化学系统的例子</a>。"
+➜穿衣服来供电
+https://www.solidot.org/story?sid=5241	1800
+<a href="http://talk.blogbus.com/">shizhao</a> 写道 "佐治亚理工学院的纳米技术科研人员正在开发一种衬衣，它可以从穿着者的物理运动中获取能量，并把它转换成电，用于给战场上的士兵、徒步旅行者和其他使用者佩戴的小型电子设备供能，例如<a href="http://chinese.eurekalert.org/zh/pub_releases/2008-02/nsf-rnc021208.php">iPod</a> 。
+<i>这种衬衣采用纳米级的<a href="http://www.nature.com/nature/journal/v451/n7180/abs/nature06601.html">压电纤维</a> 制成，通过缠绕两根纤维和将与它们相关的纳米线刷到一起，机械能便会通过一个耦合的压电-半导体过程被转换成电能。两条纤维相互摩擦，就像两把瓶刷的刷毛接触，而压电半导体过程把机械运动转化成了电能。这只需要身体运动或者微风拂衣的能量就已足够。
+<br> <br>目前由各长1厘米的两条纤维组成的纳米发电机的电流大约是4纳安，输出电压大约是4毫伏。经过显著改进后，用这种特殊纤维制成的一平方米织物理论上最多可能产生80毫瓦的功率。
+</i>目前唯一的缺点是不能洗涤。"
+➜太空军备竞赛下的阴影
+https://www.solidot.org/story?sid=5242	3000
+据说哈勃太空望远镜在上个世纪90年代发射升空后，有科学家在新闻上将其描述为“基本上是一颗指向不正确方向的<a href="http://science.slashdot.org/article.pl?sid=08/02/13/1334210">过时间谍卫星</a>”。PBS频道NOVA最近播出的一部纪录片“<a href="http://www.pbs.org/wgbh/nova/astrospies">Astrospies</a>”（在线剪辑只能在美国范围内观看），讲述的就是此类鲜为人知的太空军备竞赛，它的作者和共同制作人是记者和国家安全局专家James Bamford。<i>
+纪录片详细讲述了美国空军从1960年代开始的轨道间谍卫星计划：<a href="http://www.astronautix.com/craft/mol.htm">载人轨道实验室</a>（Manned Orbital Laboratory，简写MOL）。MOL的设计修改自Gemini 2太空舱，用Titan III火箭发射。MOL的意图可以简单的用镜头指向地球的哈勃望远镜来形容，目的只有一个——收集照片情报，由一位经过特别训练的宇航员在太空站上操作先进的阵列陀螺仪平衡照相机。但这个轨道实验室从未升空，原因是它的竞争对手，NASA和美国侦查局资助的<a href="http://samadhi.jpl.nasa.gov/msl/Programs/corona.html">Corona</a>无人间谍卫星计划在最后取代了有人太空站。与此同时，受到阿波罗登月计划刺激的苏联人则成功的将宇航员送人到它自己的轨道间谍侦查平台，<a href="http://www.astronautix.com/project/almaz.htm">Almaz</a>。这个太空站除了装备了影像实验室和空对地图像传播系统外，还首次安装了令人恐怖的太空武器，一个23mm的机载机关炮——从某种意义上说这让俄罗斯和中国最近提出的<a href="http://ap.google.com/article/ALeqM5hp4Aa1aSOekBsFFPeCRkOjfUOOzgD8UP1AD03">禁止太空武器</a>的建议具有极大的讽刺性。这是一段迷人的科技历史，虽然美国人可以兴奋的从空中自由的俯瞰邻国围墙上边的青苔，却没有发现9/11这么一件本国内部监视惨败的事件。</i>
+➜网络性视频引发言论自由争论
+https://www.solidot.org/story?sid=5243	5760
+《纽约时报》终于发现了最近<a href="http://www.nytimes.com/2008/02/13/business/worldbusiness/13internet.html">半个月席卷中国大地的大事件</a>：除了讲述一些众所周知的事实外，《纽约时报》主要强调了警察的有选择执行和言论自由方面的争议。<i>
+“一些网民认为警察的行动侵犯了个人自由，并在上周日发起了抗议游行，争论香港的反色情法规太广太模糊，称这是一个不平等对待的案件。”一些受访的香港居民则表示网民在无理取闹，其实是想要传播淫秽图片。还有一些观察人士把这个案件称作香港警察的一次热身活动，因为在今年8月，香港将举办6项奥运会赛马比赛。《纽约时报》还提到这件丑闻在私下里已经和香港黑帮联系起来，一些小报报道黑帮想要教训教训陈冠希，甚至还可能要干掉他、长期以来有组织犯罪团伙就在香港娱乐界扮演重要角色。据陈的发言人说，陈冠希将在本周末返港，并举行记者招待会。</i>
+➜Sun收购开源虚拟软件VirtualBox的开发商Innotek
+https://www.solidot.org/story?sid=5244	8400
+Sun已经正式收购了开源虚拟软件<a href="http://it.slashdot.org/article.pl?sid=08/02/13/218247">VirtualBox的开发商Innotek</a>。Steve Wilson，Sun的副总裁，在博客上称，“VirtualBox仍然会是免费的，它将被整合进Sun的xVM虚拟产品包中”。Sun旗下已经拥有了许多著名的开源软件产品，NetBeans，MySQL，VirtualBox，OpenSparc，OpenOffice，OpenSolaris，OpenJDK，等等，难道它要成为开源界的微软？
+➜真男人用RFID标签控制一切
+https://www.solidot.org/story?sid=5245	20100
+为什么要用钥匙去开大门，当你能用手臂上植入的RFID标签做同样事情的时候？Computerworld报道了一位<a href="http://hardware.slashdot.org/article.pl?sid=08/02/14/0419227">澳大利亚最Geek的男人</a>，即将离任的Linux Australia group负责人、一家Web应用开发公司的技术主管，<a href="http://www.computerworld.com.au/index.php/id;224511212">Jonathan Oxer的黑客之家</a>。<i>
+在他的家里，任何事情，从给草坪浇水、打开百叶窗，到检查邮件，都可以被一套软件控制。Jonathan Oxer是位电子学和编程方面的奇才，他在自己的手臂上植入RFID芯片，可以打开前门，而他的前门和邮箱都和以太网连接在一起，当某人靠近大门或者邮递员送信，传感器就会通知他，用虚拟的邮件或短信告诉他谁来了，或是去收真实的邮件。Oxer目前正在开发一种更集中化的控制系统，他是从 iPod Touch 上得到灵感，他想把所有的硬件通过无线网络连接到一个软件控制的小触摸设备上。Steve Jobs肯定没有想到多点触摸技术可以这么搞。
+</i>
+Jonathan Oxer在linux.conf.au大会上作了这方面的<a href="http://linux.conf.au/programme/detail?TalkID=39">演讲</a>，视频（<a href="http://mirror.linux.org.au/pub/linux.conf.au/2008/Wed/mel8-039a.ogg">第一部分</a>，<a href="http://mirror.linux.org.au/pub/linux.conf.au/2008/Wed/mel8-039b.ogg">第二部分</a>，ogg格式），<a href="http://mirror.linux.org.au/pub/linux.conf.au/2008/slides/039-20080130-RealWorldSecondLife-slides.pdf">幻灯片</a>。
+➜联想挑战MacBook Air的武器
+https://www.solidot.org/story?sid=5246	22800
+上个月，苹果公开了号称世界最薄的笔记本MacBook Air，联想对此的回应是<a href="__SLASHLINK__" sect="hardware" sid="08/01/22/0039224" sn="article" tid="112">推出ThinkPad X300</a>。不过前者已经上市，后者依旧朦胧。Walt Mossberg透露了ThinkPad X300<a href="http://mossblog.allthingsd.com/20080213/x300/">更多的细节</a>，他的评论是X300与Air一样薄一样轻，还有许多Air没有的设备和特色，最大的弱点是价格和硬盘限制：它比MacBook Air更贵，并且只提供64G的固态硬盘。“Apple的Air可以选购容量高、价格低的硬盘，但是ThinkPad只提供了昂贵的、容量有限的固态硬盘。它的起始价在$2500到$2800之间，比 Apple的底价高出1000美元。”
+➜欧盟提议版权保护期限延长至95年
+https://www.solidot.org/story?sid=5247	25500
+欧盟采用的版权保护期是50年，<a href="http://slashdot.org/article.pl?sid=08/02/14/1626228">欧盟委员会</a>现在正式提议将版权保护期限<a href="http://www.iht.com/articles/ap/2008/02/14/business/EU-FIN-EU-Music-Royalties.php">延长至95年</a>。负责欧盟内部市场的委员Charlie McCreevy希望歌手和音乐家能够获得更长时间的版权，因为人类的寿命延长，版税将是许多人年老时唯一的收入来源。“如果不采取行动，1950年代和1960年代活跃在舞台上的数千欧洲艺人将在未来10年里失去所有的版权收入。”他还希望修改空白光盘、数据存储和音视频播放器的税收，因为人们购买此类产品主要是为了复制。美国的版权保护期同样是95年。
+➜激光创造实验室中的“黑洞”
+https://www.solidot.org/story?sid=5248	29400
+<a href="http://www.eurekalert.org/pub_releases/2008-02/ns-llc021308.php">《新科学家》报道</a>，英国的研究小组将一束激光脉冲射入光学纤维，在实验室里<a href="http://science.slashdot.org/article.pl?sid=08/02/14/1633250">重现了黑洞视界</a>。研究小组的观察证实了宇宙学家的预测，他们现在正试图证明霍金的逃逸粒子假说，也就是所谓的霍金辐射(<a href="http://en.wikipedia.org/wiki/Hawking_radiation">Hawking radiation</a>)。
+<i>第一束光脉冲的通过扭曲了光纤的光学属性。当探测波（probe wave）赶上慢脉冲，并试图通过时，这种扭曲会迫使快速的探测波戏剧性的减速。事实是，探测波被捕获了，它将永远也超越不了脉冲的前端边缘，于是这就是变成了黑洞视界，光永远也无法逃逸。</i>
+➜科学家发现与我们太阳系相似的星系
+https://www.solidot.org/story?sid=5249	31500
+一个国际天文学家组成的研究小组在2月15日出版的《科学》杂志上报告说，<a href="http://chinese.eurekalert.org/zh/pub_releases/2008-02/nsf-and021208.php">他们发现了距离我们将近5000光年的一个太阳系</a>，它拥有缩小版本的木星和土星。他们的发现提示我们的银河系可能令人信服地拥有许多与我们的太阳系类似的行星系。<i>
+新的行星系看上去是我们太阳系的缩小版本。它的其中一颗行星的质量是木星的70%，另一颗是土星质量的90%。它们所环绕的恒星大约是太阳质量的 50%。尽管这颗恒星远远比我们的太阳更暗，这两颗行星的温度很可能与木星和土星的温度类似，因为它们更加接近它们的恒星。天文学家在地球上观察这颗恒星在一颗更遥远的恒星前面越过的时候，发现了围绕它运行的两颗行星。在从2006年3月底到4月初的两星期里，距离地球较近的恒星放大了较远的恒星发出的光。这种现象被称为引力微透镜——来自较远恒星的光被放大了500倍。
+这种引力微透镜方法是建立在20世纪早期首先由爱因斯坦讨论的一个概念之上。当天文学家观测一颗恒星的时候，光波通常从恒星沿直线传播到望远镜中；然而，如果另一颗恒星在中间经过，即便两者之间距离很远，较近的物体的引力就会发挥类似于透镜的作用，把到来的光放大。</i>

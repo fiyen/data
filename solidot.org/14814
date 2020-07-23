@@ -1,0 +1,106 @@
+➜Qomo 0.8.0 发布
+https://www.solidot.org/story?sid=19092	10560
+<a href="http://www.osmsg.com/">nsdy</a> 写道 "经过<a href="http://zh.wikipedia.org/zh-cn/Qomo_Linux">Qomo Linux</a>开发团队近一个月的努力，<a href="http://www.linux-ren.org/modules/newbb/viewtopic.php?topic_id=55436&amp;forum=21">Qomo 0.8.0</a>正式发布了，此版本基于6月18日发布的Qomo 0.7，在此基础上进行了Bug修复，新功能的添加，并将体积成功精简为一张CD的容量。较0.7的主要更新：<i>
+1. 采用lzma压缩， 实现700M以内LiveCD ISO， 含有office等组件；2. 集成ibus输入法框架, 默认支持拼音输入法, 可yum install ibus-table-chinese 安装更多的汉语输入法；3. 去掉了QQ 以及 amsn组件, 引入pidgin ，openfetion, flashget等组件；4. 集成firefox prism扩展功能, 实现了WebQQ, Gmail桌面化, 实现系统托盘消息提示功能；5. 更新xine-lib, 解决开关机没有系统声音, 无法正常关机,注销,重启问题；6. 更新kde-settings, 解决任务栏没有100%自适应长度问题；7. 修正了一些yum update冲突问题, 解决scim与firefox更新后崩溃现象</i>
+➜因价格错误苹果修改用户的订单
+https://www.solidot.org/story?sid=19093	15360
+苹果台湾官网发生了产品标价错误，Mac mini加购8GB内存条原价47100台币，现在却变成19900元。于是台湾网民互相转告纷纷抢购。<i>
+本来根据“<a href="http://store.apple.com/Catalog/Taiwan/Images/salespoliciesedindiv.html">销售和退款</a>”条款的规定，如果出现价格错误，商家可以决定不履行合约。然而有些网友发现Mac mini with Snow Leopard Server变成了Mac mini CTO（Configure To Order）版，<a href="http://tw.nextmedia.com/rnews/article/SecID/105/ArtID/76746/IssueID/20100723">价格也被拉回到45,438元</a>。也就是说苹果在发现标价错误后，采用了最糟糕的<a href="http://blog.ijliao.info/archives/2010/07/23/4178/">修改用户订单的做法</a>。此举在台湾网民中间引发了强烈不满。</i>
+➜俄罗斯政府开发基于Linux的国家操作操作系统
+https://www.solidot.org/story?sid=19094	18000
+Lwn.net引用《<a href="http://www.themoscowtimes.com/business/article/government-computers-to-get-linux-based-operating-system/410915.html">莫斯科时报</a>》的<a href="http://lwn.net/Articles/397201/">报道</a>称，俄罗斯政府正在开发一个基于Linux的“国家操作系统”。<i>
+通信和新闻部长Ilya Massukh表示，国家操作系统将提供给政府机构和国有企业的计算机系统使用，其中90%将是基于开源的Linux操作系统。他补充说操作系统供所有机构选择使用。</i>
+➜Google计划在今年发布Chrome 6、7和8
+https://www.solidot.org/story?sid=19095	23040
+Chromium官方博客宣布<a href="http://blog.chromium.org/2010/07/release-early-release-often.html">将会加快Chrome稳定版本的发布速度</a>。Google表示，他们希望在新功能开发完毕之后能尽可能快的传递到用户手中，而不需等待数月的时间才能使用。<i>
+Google称，速度重要，但维持高品质同样重要，他们不会匆忙发布新版本。Google计划每6周发布一个新的稳定版，回想一下一年半前Chrome不过才1.0版，而如今<a href="http://tech.slashdot.org/story/10/07/23/2114230/Google-Schedules-Chrome-6-7-and-8-For-This-Year">它即将要发布Chrome 6、7和8</a>了。没人抱怨它的发布周期太长，现在它还要提速。在这种激烈竞争下，Google的竞争对手也都在加快开发脚步，Mozilla计划在一年内发布两个版本，即将发布Firefox 4.0 Beta 2，刚刚发布Firefox 3.6.7，而3.6.8版的候选版已蓄势待发。微软IE的发布周期仍然要18到24个月。</i>
+➜五角大楼雇员卷入儿童色情调查
+https://www.solidot.org/story?sid=19096	24000
+《波士顿环球报》<a href="http://www.boston.com/news/nation/washington/articles/2010/07/23/pentagon_workers_tied_to_child_porn/">报导</a>（美国之音<a href="http://www1.voanews.com/chinese/news/20100723-US-PENTAGON-CHILD-PORN-99151254.html">中文</a>），五角大楼正在购买和下载儿童色情的军队和国防部合同公司员工。<i>
+五角大楼星期五发布了名为<a href="http://www.dodig.mil/fo/Foia/PDFs/OperationFlickerReportsJuly2010pdf.pdf">“闪烁行动（Operation Flicker）”</a>(PDF)的调查结果，调查确认了五千多名订阅儿童色情片的人，包括了同美国国家侦察办公室和国家安全局密切相关的雇员。这两个机构处理敏感的政府机密和情报。调查员说，这些获得顶级安全许可的政府雇员链接这些网站的行为将国家安全机构置于被勒索和收买的风险。</i>
+➜淘宝引领中国开源革命
+https://www.solidot.org/story?sid=19097	29100
+作为一家使用Linux和开源自由软件的企业，淘宝首次开始回报社区，它于上个月宣布了“<a href="http://code.taobao.org/">淘蝌蚪</a>”开源项目平台。ZDNet博客Fred Muller认为淘宝<a href="http://www.zdnetasia.com/blogs/taobao-initiates-chinese-open-source-revolution_bp-63019929.htm">正在引领中国开源革命</a>，他相信淘蝌蚪是中国第一家企业支持的开源平台，托管自己的项目，并与全世界分享。淘蝌蚪的第一个项目是<a href="http://code.taobao.org/project/view/2/">TAIR</a>——分布式、高性能key/value存储系统，已在淘宝内部使用多年。Muller认为未来淘宝将会向Linux kernel捐赠代码。<i>
+几年前Oreilly举行的一个会议上，<a href="http://assets.en.oreilly.com/1/event/12/Open%20Source%20in%20China%20Presentation%201.pdf">试图在中国推广开源运动的分析人士指出</a>(PDF)，中国开源社区规模很小，几乎没有影响力，也缺少大项目，参与者很少，当然也没有什么钱，他们认为中国和美国的文化差异可能阻碍了开源运动的发展：美国的文化崇尚个人主义、平等主义、寻求真理和好辩论，而中国文化是集体主义、等级划分、以关系为导向、好扯皮。<a href="http://linux.slashdot.org/story/10/07/23/1949259/Open-Source-Participation-Gains-Support-In-China">但淘宝开源平台的出现打破了这一说法</a>。</i>
+➜深水地平线钻井爆炸前电脑曾发生“蓝屏死机”
+https://www.solidot.org/story?sid=19098	31680
+《纽约时报》<a href="https://www.nytimes.com/2010/07/24/us/24hearings.html">报道</a>，墨西哥湾深水地平线钻井技术总监Mike Williams周五告诉美国政府的一个事故调查小组，4月20日钻井原油起火和爆炸时，警报没有全部激活。这场事故导致11人丧生，并酿成了美国历史上最大的环境灾难。<i>
+Williams称，一般安全警报通常设置为“关闭”，避免在深夜用汽笛和紧急灯吵醒工作人员。他说他们不想因为虚假警报在凌晨3点惊醒工人。工人只能是通过扩音器了解紧急情况。虽然不清楚警报声是否能拯救更多工人的生命，但Williams表示功能不完整的警报阻碍了疏散的工作。除了警报之外，深水地平线号在爆炸前还发生了许多其它问题，比如断电，计算机崩溃等。Williams说计算机死机，屏幕变蓝，产生了被船员称为“蓝屏死机”故障。更换的硬件已经订购，但在灾难发生前还没有安装。</i>
+➜UI设计师的盛宴：Web UI设计资源大系
+https://www.solidot.org/story?sid=19099	40320
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "每个 Web 设计师都在 UI 设计上费尽了心血，即使这样，资源的匮乏，视野的狭窄，也常常让他们的呕心沥血之作并不为人看好，事实上，UI 设计并不需要闭门造车，很多 UI 元素是通用的。本文收集了 20 套非常前端的 UI 元素库，它们多数是可以后期修改的 PSD 或 SVG 版（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K1005.aspx">完整图文版</a>）。           Modern  Web UI Set (.psd)
+<br> <br> <a href="http://feedgrids.com/originals/post/freebie_modern_web_ui_set/"> </a>
+这套 UI 库包括了从按钮，到渐变，到文字各种 UI 元素，非常整齐地存放在不同目录下，由于是 PSD 矢量分格式，里面的任何元素都是可以修改的。<br> <br>
+Massive  Web UI &amp; Button Set (.psd)
+<br> <br> <a href="http://medialoot.com/blog/freebie-massive-web-ui-button-set/"> </a>
+这套 UI 元素库包含3种风格，水晶，渐变色，单色，渐变色还包含7种颜色组合。<br> <br>
+Web  UI Element Pack (.psd)
+<a href="http://www.webstuffshare.com/2010/04/free-web-ui-element-pack/"> </a>
+<br> <br>包含 19 个 UI 元素，从加载进度条，到按钮，到页码，到滑动条。<br> <br>
+<a href="http://www.fuelyourinterface.com/free-web-ui-wireframe-kit/"> Web  UI Wireframe Kit (.psd)</a>
+<br> <br>这套 UI 库中的元素全部基于 Photoshop 矢量图案。<br> <br>
+Browser  Form Elements (.psd)
+<a href="http://www.teehanlax.com/blog/2008/12/16/browser-form-elements-psd/"> </a>
+<br> <br>如果你想设计浏览器，会发现这套 UI 很有用（设计浏览器在国内很时髦，是不是）。<br> <br>
+Web  Page Elements (for Omnigraffle)
+<a href="http://re-run.com/article/omnigraffle-stencil"> </a>
+<br> <br>这套 UI 库几乎包含了全部常用 Web 元素，Header，表单元素，图标等等。<br> <br>
+Wireframe  Kit (Google Drawings)
+<a href="http://mortenjust.com/2010/04/19/a-wireframe-kit-for-google-drawings/"> </a>
+<br> <br>这是一套用于 Google Drawing 的 UI 库。<br> <br>
+Sketching  &amp; Wireframing Kit (.ai, .eps, .pdf &amp; .svg)
+<a href="http://www.jankoatwarpspeed.com/post/2009/12/24/sketching-wireframing-kit.aspx"> </a>
+<br> <br>这是一套用于原型草图设计的 UI 库，包含的元素有表单，图标，指示器，反馈消息，工具提示，导航元素，图片框，内嵌视频，滑动条以及广告 Banner，包括 Illustrator 和 SVG 两种矢量格式。<br> <br>
+Wireframe  Symbols (.ai)
+<a href="http://www.johnnynines.com/2009/03/wireframe-symbols/"> </a>
+<br> <br>这套 UI 包含一个 Illustrator 符号库和一个 Illustrator 文件，可以用来创建设计原型。<br> <br>
+Yahoo  Design Stencils (.xml, .pdf, .svg, .png and Omnigraffle)
+<a href="http://developer.yahoo.com/ypatterns/about/stencils/"> </a>
+<br> <br>Yahoo! 为 Web 设计师们贡献过很多好东西，包括著名的 YUI 框架，还有这套 UI 元素库，包括广告单元，日历，图表，表单，网格，菜单，按钮，导航等等，提供多种矢量和非矢量格式。<br> <br>
+Ext  JS v3.0 Stencil (for Omnigraffle)
+<a href="http://cloverleafllc.com/content/omnigraffle-stencil-ext-js-v30"> </a>
+<br> <br>这是一套用于可以著名 JavaScript 框架 Ext JS 的 UI 库。<br> <br>
+165  Vector Icons in 5 Colours (.ai, .jpg and .svg)
+<a href="http://www.gosquared.com/liquidicity/archives/122"> </a>
+<br> <br>这套来自 Liquidicity 海量图标库包括 5 种不同配色。<br> <br>
+Flex  3 Stencil (for Omnigraffle)
+<a href="http://www.graffletopia.com/stencils/431"> </a>
+<br> <br>这套流程图 UI 包含 Flex 3 风格的面板，表格，按钮，链接，菜单，滚动条，手风琴式菜单，选项卡等等。<br> <br>
+Twitter  Widget Stencil  (for Omnigraffle)
+<a href="http://www.patsheridan.com/content/omnigraffle-twitter-widget-stencil"> </a>
+<br> <br>Twitter 相关的 UI 图库。<br> <br>
+Web  Designer Toolkit (.psd)
+<a href="http://templay.de/Downloads/39/Webdesigner-Toolkit.html"> </a>
+<br> <br>这个 PSD 格式的 UI 库包含非常整洁的 Web 元素库。<br> <br>
+Facebook  GUI (.psd)
+<a href="http://surgeworks.com/blog/design/facebook-gui-free-psd-resource"> </a>
+<br> <br>大名鼎鼎的 Facebook UI<br> <br>
+Facebook  Applications (Omnigraffle)
+<a href="http://www.graffletopia.com/stencils/410"> </a>
+<br> <br>如果你要创建 Facebook 应用，这套 UI 库非常有用。<br> <br>
+Web  Elements Kit (.psd)
+<a href="http://bestblogbox.com/freebies/all-in-one-web-elements-kit/"> </a>
+<br> <br>这套 Web 元素库包括 17 个模块，每个模块包含四种配色。<br> <br>
+Flex  Darkskin UI (.psd)
+<a href="http://psdthemes.com/theme-406-marvelous-flex-darkskin-psd-ui.html"> </a>
+<br> <br>漂亮的 Flex UI 皮肤。<br> <br>
+<a href="http://lazycrazy.deviantart.com/art/WEB-UI-Treasure-Chest-v-1-0-139165343"> WEB  UI Treasure Chest</a>
+<br> <br>非常值得收藏的 Web 元素库，卷边效果很漂亮。
+<br> <br>本文国际来源：<a href="http://speckyboy.com/">speckyboy.com</a> <a href="http://speckyboy.com/2010/07/21/20-free-web-ui-element-kits-and-stencils/">20 Free Web UI Element Kits and Stencils</a>
+<br> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜世界手机使用排行
+https://www.solidot.org/story?sid=19100	42300
+<a href="http://blog.lobqol.com/?584">foxc188</a> 写道 "今天根据flickr的照片数量整理了<a href="http://blog.lobqol.com/?uid-584-action-viewspace-itemid-134">一份世界手机使用的排行</a>。因为照片量上传的多少可以体现这款手机的受欢迎度和上传照片的容易度的综合体现。 首先是手机照片总量的品牌排名，排名前三的是诺基亚、索爱、苹果：            <p> <table border="1" cellpadding="1" cellspacing="1" width="360"> <tbody> <tr> <td>&nbsp;</td> </tr> <tr> <td height="19" width="72">排名</td> <td width="72">品牌</td> <td width="100">照片总量</td> </tr> <tr> <td height="19">1</td> <td>nokia</td> <td>34,509,086</td> </tr> <tr> <td height="19">2</td> <td>sony-ericsson</td> <td>30,590,398</td> </tr> <tr> <td height="19">3</td> <td> <a> <strong>apple</strong> </a> </td> <td>27,843,077</td> </tr> <tr> <td height="19">4</td> <td>blackberry</td> <td>5,658,015</td> </tr> <tr> <td height="19">5</td> <td>HTC</td> <td>3,683,104</td> </tr> <tr> <td height="19">6</td> <td> <a> <strong>moto</strong> </a> </td> <td>1,172,620</td> </tr> </tbody> </table>
+</p> <p>但是在实际现在的手机使用量上索爱却掉出了前三，排名前三的是苹果，诺基亚，黑莓</p> <p> <table border="1" cellpadding="1" cellspacing="1" width="360"> <tbody> <tr> <td>&nbsp;</td> </tr> <tr> <td height="19" width="72">排名</td> <td width="72">品牌</td> <td width="72">使用量</td> </tr> <tr> <td height="19">1</td> <td>apple</td> <td>8119</td> </tr> <tr> <td height="19">2</td> <td>nokia</td> <td>3332</td> </tr> <tr> <td height="19">3</td> <td>blackberry</td> <td>1994</td> </tr> <tr> <td height="19">4</td> <td>sony-ericsson</td> <td>1396</td> </tr> <tr> <td height="19">5</td> <td>HTC</td> <td>1380</td> </tbody> </table> </p>
+➜社交网络，几家欢喜几家愁
+https://www.solidot.org/story?sid=19101	47700
+<a href="http://www.dongxi.net/">东西网</a> 写道 "Facebook 刚刚宣布了有5亿用户，但是不是每家社交网站都这么牛的。尼尔森最新的<a href="http://www.dongxi.net/b01x7"> 数据图表</a>足以一览社交网络的发展形势（<a href="http://www.bbc.co.uk/news/nol/shared/spl/hi/technology/10/facebook_users/data/raw_data.xls">原始.xls数据</a>）。
+<i>
+Facebook用了短短6年便拥有了5亿的活跃用户。该网站已经成为了社交网站的典范。虽然其他一些社交网站也看得到增长，但根据尼尔森的数字，MySpace，Flickr和Bebo似乎在过去一年有所下降。有趣的是， Facebook的用户每月在该网站停留的时间，和其他社交网站在受欢迎的程度，在不同的国家都是不一样的。
+"</i>
+➜Android在中国崛起，Google未必是赢家
+https://www.solidot.org/story?sid=19102	54840
+<a href="http://www.dongxi.net/">东西网</a> 写道 "由于中国移动产业创造了自己“定制版”的操作平台、架空了Google的作用，Android在中国的占有率增长<a href="http://www.dongxi.net/b01xZ"> 或许并不是Google的胜利</a>。
+<i>
+作为Android主要应用软件获得渠道的唯一裁决方，Google对这个平台及其使用有极大的控制权。这种控制是防止平台层分裂非常有效的工具。但是中国目前运营商和手机制造商都开发“定制版”的Android系统，绕过Google的核心部分：Android市场和几个Google品牌的应用，架空了Google的作用。如此一来他们便可以自己的网络服务实现自己设计的用户体验。
+"</i>

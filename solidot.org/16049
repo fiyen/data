@@ -1,0 +1,62 @@
+➜台湾电子业的困境
+https://www.solidot.org/story?sid=37557	9361
+台湾电子业面临前被韩国甩开、<a target="_blank" href="http://www.nanzao.com/sc/opinion/17649/tai-wan-dian-zi-ye-mian-lin-qian-hou-jia-gong"><u>后被大陆紧追的双重困境</u></a>。除了台积电和联发科等少数外，多数电子企业亏损严重：面板制造商友达与奇美光电累计负债已高达台币3000亿以上；DRAM制造商累计亏损台币4000亿。被韩国甩开，处境已经够惨，岂料大陆政府决定针对关键技术扶植民族企业，大陆企业急起直追的迅猛态势，也让台商大感不妙：大陆第二大IC设计公司锐迪科11月12日突然宣布以9.1亿美元卖给北京清华紫光，不过在半年前，紫光集团才刚以17.8亿美元收购大陆第一大IC设计公司展讯通讯。紫光集团身为北京清华大学校办企业，市值只有30亿人民币，如何连续发动两次蛇吞象的巨额并购？唯一解释就是参与增资股东，背后有政府支持。
+➜中国专利申请数量2012年增长24%
+https://www.solidot.org/story?sid=37558	11532
+<div align="center"><img src="http://img.solidot.com.cn/0/921/liH89mUVsDX06.jpg" align="" height="353" width="640"><br>
+</div>
+<br>
+世界知识产权组织公布了<a target="_blank" href="http://www.wipo.int/export/sites/www/freepublications/en/intproperty/941/wipo_pub_941_2013.pdf"><u>2013年度知识产权报告</u></a>（PDF）。报告称，2012年全球专利申请数量增长9.2%，为过去18年来最高，其中中国专利申请数量增长24%。中国已在2011年成为世界专利申请数量最多的国家，2012年则首次在四类知识产权（专利，实用新型、商标和工业设计）的申请数量上全都占据第一位。中国国家知识产权局成为这四类知识产权的世界最大申请接收方。2012年，中国居民申请了560,681项专利，日本居民486,070项，美国居民460,276；中国国家知识产权局共收到652,777项申请，美国专利商标局（USPTO）收到542,815项申请，日本专利厅收到342,796项申请。
+世界知识产权组织负责人加利<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2013/12/131209_patent.shtml"><u>表示</u></a>，“整体来说，专利申请通常与经济表现相吻合。更加具体地来说，中国仍然属于发展中状态，目前中国也在这个领域继续发展。”全球专利申请数量的三分之二通常来自高收入的国家，而中国2012年的专利数量则占到全球专利申请数量的28%。
+➜CyanogenMod整合短信加密协议TextSecure
+https://www.solidot.org/story?sid=37559	14675
+<div align="center"><img src="http://img.solidot.com.cn/0/922/liFDnMRoGcyEg.png" align="" height="558" width="360"><br>
+<br>
+</div>
+过去几个月里，Open WhisperSystems团队一直与CyanogenMod合作开发<a target="_blank" href="https://github.com/WhisperSystems/TextSecure/wiki/ProtocolV2"><u>TextSecure</u></a>短信加密协议实现WhisperPush，现在WhisperPush正式整合到了<a target="_blank" href="http://www.cyanogenmod.org/blog/whisperpush-secure-messaging-integration"><u>CyanogenMod 10.2 nightly版</u></a>中，CyanogenMod用户之间将能通过端对端加密发送短消息。Open WhisperSystems团队在其博客上解释了<a target="_blank" href="https://whispersystems.org/blog/cyanogen-integration/"><u>WhisperPush的工作原理</u></a>：如果一条准备发送的短信的收信方是另一位CyanogenMod或TextSecure用户，那么短信将会被透明的加密，通过数据通道作为推送信息发送到接收方的设备上，接收方的设备然后自动解密信息，作为正常的传入短信呈现在系统中。CyanogenMod用户可以任意选择他们喜欢的短信应用，而他们与其他 CyanogenMod 或TextSecure 用户的通讯将会自动通过数据通道端对端加密，整个过程不需要用户干预。用户不会看到任何视觉上的变化，整个过程是完全透明的。WhisperPush的加密层是TextSecure V2协议，使用的加密算法是 Curve25519、AES-256和HmacSHA256；传输协议是TextSecure Push API（图片来自WhisperSystems）。
+➜亚马逊中国开始销售第二代Kindle Paperwhite
+https://www.solidot.org/story?sid=37560	16069
+亚马逊中国正式开始销售<a target="_blank" href="http://www.amazon.cn/gp/product/B00CWPIDHI/ref=amb_link_382772722_img?pf_rd_m=A1AJ19PSB66TGU&amp;pf_rd_s=gateway-center-column&amp;pf_rd_r=0DAMJVN3F4YQBTRZXFG3&amp;pf_rd_t=101&amp;pf_rd_p=107057292&amp;pf_rd_i=899254051"><u>第二代Kindle Paperwhite</u></a>，售价899元，比第一代贵50元。新版的主要亮度是改进了显示屏的对比反射和内置灯，改进了触摸屏技术，处理器速度提升25%（1GHz），增加了快速翻书（快速浏览全书，保留当前阅读进度）和生词本（所有查询的单词会自动添加到生词本）功能。第二代Kindle Paperwhite与第一代的分辨率相同，都是212PPi，美国版是在9月30日上市，中国版晚了两个多月，美国版的WIFI无广告售价是139美元，约合人民币844元，也只比中国版便宜50元左右。日本版仍然是目前最廉价的版本，WIFI版仅售<a target="_blank" href="http://www.amazon.co.jp/gp/product/B00CTUMNAO/ref=bb1_tex_pin35/375-2794334-1996917?ie=UTF8&amp;nav_sdd=aps&amp;pf_rd_m=AN1VRQENFRJN5&amp;pf_rd_s=center-1&amp;pf_rd_r=18G2G59S7FGFJC29TE1P&amp;pf_rd_t=101&amp;pf_rd_p=155245209&amp;pf_rd_i=489986"><u>9980日元</u></a>，约合人民币589元。
+➜Sailfish移植到N9
+https://www.solidot.org/story?sid=37561	17513
+诺基亚早就停止更新N9的<a target="_blank" href="http://en.wikipedia.org/wiki/MeeGo">Meego系统</a>。诺基亚忘记了N9用户，但社区没有忘记。基于Meego的Sailfish OS<a target="_blank" href="http://www.jollausers.com/2013/12/sailfish-ported-to-n9-mini-tutorial/"><u>已经完整移植到了N9</u></a>，N9用户可以在保留原有系统的情况下安装Sailfish，因为Sailfish支持双启动。详细的安装步骤可参考jollausers的指南。
+➜Firefox支持VP9视频编解码器
+https://www.solidot.org/story?sid=37562	18813
+最新的<a target="_blank" href="http://nightly.mozilla.org/"><u>Firefox nightly版</u></a>默认启用VP9视频编解码器。VP9是下一代视频编解码器，其压缩效率比H264高一倍，同样压缩比下画面质量与H265非常接近，仅相差1%，但VP9相比H265的一大优势是开源和免专利费。此前只有Google的Chrome浏览器<a target="_blank" href="http://www.solidot.org/story?sid=35200"><u>支持V9</u></a>。明年发布的Firefox 28预计将正式支持VP9。
+➜Windows Threshold可选开始菜单，桌面运行Metro应用
+https://www.solidot.org/story?sid=37563	25307
+报道微软新闻的资深记者Mary Jo Foley称，未来的Windows系统将是“<a target="_blank" href="http://www.zdnet.com/more-on-microsofts-sku-morphic-windows-vision-7000024092/"><u>一个核心多个版本</u></a>（或称之为SKU，即库存单位的缩写）”，通过Threshold，微软希望从用户体验的角度让Windows 8.x、Windows Phone和Xbox One能更紧密的联系起来，最终形成一个统一的操作系统。Paul Thurrott则援引内部人士的消息给出了<a target="_blank" href="http://winsupersite.com/windows-8/further-changes-coming-windows-threshold"><u>更具体的更新细节</u></a>：下一代Windows将允许用户选择在传统桌面环境中运行Metro应用，Metro应用能以浮动窗口的形式在桌面上运行；Windows 8.1引入了开始按钮，但没有开始菜单，下个版本合乎逻辑的下一步也就是用户可选开始菜单。开始菜单将会真正回归。<br>
+➜中国积极研究隐身衣
+https://www.solidot.org/story?sid=37564	27801
+中国科学家相信他们能研制出全球第一件隐身衣。过去三年，政府府资助了至少40个研究团队<a target="_blank" href="http://www.nanzao.com/sc/china/17707/zhong-guo-ke-xue-jia-dui-yin-xing-yi-yan-fa-qian-jing-le-guan"><u>开发隐身技术</u></a>。从事相关研究的科学家说，该技术有明显的军事作用，例如用于开发隐形飞机。浙江大学光学工程专家马云贵教授说，实用型隐身衣恐怕还要几十年后才能开发出来，因为当前技术无法生产出需要的超材料，但政府仍在大量投入资金，因为研发过程中获得的理论知识，有可能带来额外收获。武汉大学物理系教授汪国平也在研究隐形技术，他也认为中国科学家现在已经具备了研发该技术的优势。他说，内地科学家并不擅长提出开创性的理论，但能在实验室辛勤工作，完善技术和所需材料。
+➜苹果要求Gliph移除比特币交易功能
+https://www.solidot.org/story?sid=37565	29236
+过去几年，苹果应用商店<a target="_blank" href="https://blog.gli.ph/2013/12/09/the-state-of-bitcoin-mobile-applications-in-the-app-store-and-google-play/"><u>移除或拒绝了</u></a>多款比特币应用程序，最新的目标是Gliph。苹果<a target="_blank" href="http://www.coindesk.com/apple-gliph-remove-app-bitcoin-transfer/"><u>要求</u></a>iOS版Gliph移除比特币交易功能。Gliph是一款移动消息应用，支持多个平台，允许在消息中附加比特币金额。它已经发布更新，移除了应用内比特币交易功能，同时实现了一个HTML5版的相同功能，支持通过移动版Safari浏览器交易比特币。Android版Gliph可正常使用该功能。根据Blockchain.info 创始人Ben Reeves提供的拒绝理由，苹果称，比特币不是在任何地方都合法，而在应用商店促进虚拟货币交易是不合适的。苹果并没有从应用商店中移除所有包含比特币功能的应用，比如XYZ应用仍然留在商店内。
+➜当政府切断互联网
+https://www.solidot.org/story?sid=37566	31588
+Christopher Beam在《New Republic》上发表了一篇<a target="_blank" href="http://www.newrepublic.com/article/115709/chinas-aba-county-where-government-shut-internet"><u>文章</u></a>，讲述了在四川阿坝县的断网经历：当巴士驶近阿坝县，微信和QQ不再有消息传来，<span class="char-style-override-2">Instagram停止刷新，电子邮件显示出错信息。过去几年，</span>阿坝县经历过了多次的断网“事件”，最长持续了几个月。但不是所有人没有互联网接入，政府办公室有网络。对于没有互联网，政府宣传官员给出的理由是在偏远地区安装联网设备太难，费用太高。真正的理由彼此都心照不宣。在回成都的巴士上，Christopher与一位年轻的建筑师同行，他需要亲自向上司递交文件，因为不能发电子邮件。
+➜好奇号发现火星古代湖泊
+https://www.solidot.org/story?sid=37567	33011
+NASA好奇号团队在《科学》上发表了<a target="_blank" href="http://mars.jpl.nasa.gov/msl/mission/science/researchpapers/"><u>六篇论文</u></a>，报告了火星漫游车的<a target="_blank" href="http://news.sciencemag.org/chemistry/2013/12/new-results-send-mars-rover-quest-ancient-life"><u>最新发现</u></a>。好奇号在一个名叫Yellowknife Bay的地点发现了细、中及粗粒的沉积岩排列，显示当地曾有过一个存在数万年之久的湖泊。探测器在湖底钻取了5厘米深的岩石样本，用火星样本分析器（缩写SAM）对样本进行分析后<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-12/aaft-mrf120213.php"><u>发现</u></a>，这一远古的火星湖应有相当中性的pH值、低盐度，以及关键性的生物元素如碳、氢、氧、硫、氮、及磷，显示湖泊能支持原核微生物的生存。SAM团队成员Daniel Glavin称结果令人兴奋。
+➜欧盟警告诺基亚不要成为专利勒索者
+https://www.solidot.org/story?sid=37568	33898
+昔日的手机巨人诺基亚将其手机业务出售给了微软，但保留了潜在价值巨大的移动专利组合。它将会如何使用这些专利？不仅仅移动制造商想知道，欧盟也想知道。欧盟委员会竞争事务副主席Joaquín Almunia称，委员会不希望诺基亚变成一位专利勒索者（patent troll）。Almunia发表措辞强硬的声明：如果未来诺基亚用它的专利获得非法优势，<a target="_blank" href="http://www.pcpro.co.uk/news/385906/eu-warns-nokia-not-to-become-a-patent-troll#ixzz2mzJbAk9Q"><u>欧盟将展开反托拉斯调查</u></a>。
+➜亚马逊物流中心用机器人加快配货
+https://www.solidot.org/story?sid=37569	36117
+<center>
+<iframe src="https://www.youtube.com/embed/Fr6Rco5A9SM?feature=player_detailpage" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+《华尔街日报》从亚马逊Q3财报中<a target="_blank" href="http://blogs.wsj.com/digits/2013/12/06/amid-drone-talk-amazon-has-real-robots/"><u>发现</u></a>，零售巨人在三个物流中心使用了超过1400个机器人。机器人由创业公司Kiva Systems制造，该公司于2012年被亚马逊以7.75亿美元收购。Kiva机器人不会取代人类配货员的工作，它不是帮助人类挑选客户订购的商品，而是高效的移动货架，提高工人的配货效率。机器人<a target="_blank" href="http://technologyadvice.com/kiva-systems-changing-future-warehouse-work/"><u>逆转了配货员的工作方式</u></a>：以前配货员需要走到货架前找到相关商品，现在是机器人直接将堆满商品的货架送到工人面前(视频演示了Kiva机器人的工作方式)。分析师估计，如果亚马逊在物流中心推广 Kiva机器人，通过提高效率它将能每年节省4.58亿到9.16亿美元。
+➜NSA监视魔兽世界玩家的聊天记录
+https://www.solidot.org/story?sid=37570	39462
+根据前NSA合同工Edward Snowden泄漏的<a target="_blank" href="http://www.theguardian.com/world/2013/dec/09/nsa-spies-online-games-world-warcraft-second-life"><u>文件</u></a>（<a target="_blank" href="http://www.propublica.org/documents/item/889134-games"><u>原始文档</u></a>），NSA和GCHQ开发出技术去监视《魔兽世界》、《第二人生》和 Xbox Live玩家之间的通讯。根据NSA的一份日期为2007年1月的报告，报告指出监控目标如基地恐怖分子、中国黑客、伊朗核科学家、真主党和哈马斯成员的网络流量中都有玩虚拟游戏的记录，涉及的游戏和游戏服务包括《魔兽世界》、《第二人生》和 Xbox Live等。报告提议，游戏和虚拟世界不仅能提供一种方法监视目标个人之间的通信，而且能从中了解目标的地理位置、社交网络信息（从好友列表），以及潜在可以在目标计算机上安装恶意程序收集更多数据。报告称，英国情报总监GCHQ已经开发出技术监视Xbox Live 和《魔兽世界》，建议NSA也开发类似的工具，同时指出随着目标改玩其它虚拟游戏，因此需要不断更新相关监控工具。NSA的文档也<a target="_blank" href="http://arstechnica.com/gaming/2013/12/snowden-leak-examines-gaming-as-a-terrorist-propaganda-and-training-tool/"><u>提醒</u></a>，虚拟游戏可以成为极端组织招募、训练和宣传的工具。比如911攻击中的基地组织飞行员从没有飞过真正的飞机，而是用微软飞行模拟训练。
+➜诺贝尔奖得主抵制《科学》《自然》《细胞》
+https://www.solidot.org/story?sid=37571	41774
+2013年度诺贝尔生理学或医学奖得主Randy Schekman<a target="_blank" href="http://www.theguardian.com/science/2013/dec/09/nobel-winner-boycott-science-journals?CMP=twt_fd"><u>宣布</u></a>，他的实验室将不会再向三大顶级科学期刊《科学》、《自然》和《细胞》递交论文。Schekman称，这些世界最著名的期刊扭曲了科学进程，鼓励研究人员走捷径，在华而不实而不是真正重要的领域进行研究。他说，问题正在恶化，期刊的编辑不是活跃的科学家，而是那些追求轰动效果的所谓专业人士。Schekman指出，如果能成功在这些著名期刊上发表论文，中科院将奖励作者大约3万美元，某些研究人员的半数收入就来自此类“贿赂”。Schekman在《卫报》上<a target="_blank" href="http://www.theguardian.com/commentisfree/2013/dec/09/how-journals-nature-science-cell-damage-science"><u>发表文章</u></a>，呼吁科学界集体采取行动。
+➜Google放弃在港建数据中心计划
+https://www.solidot.org/story?sid=37572	42790
+由于无法购买到大块土地，谷歌<a href="http://cn.wsj.com/gb/20131210/bog172701.asp"><u>放弃了</u></a>在香港兴建数据中心的计划，改为扩建台湾和新加坡的数据中心。谷歌亚太区公关经理Taj Meadows表示，公司将不再推进香港项目，成本肯定是一个原因，他指出公司难以在香港购买大块土地用于建设数据中心。谷歌在全球运营12个数据中心，其中7个位于美洲，已宣布投资3亿美元在台湾彰化、投资1.2亿美元在新加坡建设数据中心。Meadows称，虽然放弃了兴建数据中心的计划，但公司没有收缩香港业务。
+➜FireEye称中国黑客攻击欧盟电脑
+https://www.solidot.org/story?sid=37573	43460
+安全公司FireEye<a href="http://cn.nytimes.com/technology/20131210/c10hacks/"><u>声称</u></a>，中国黑客曾在9月份圣彼得堡20国峰会前攻击了捷克共和国、葡萄牙、保加利亚、拉脱维亚和匈牙利五国外交部电脑。黑客通过向政府外交部雇员发送一些题为“美国军方在叙利亚的选择（<a target="_blank" href="http://cyprus-mail.com/2013/12/10/chinese-hackers-spied-on-europeans-before-g20-meeting-claims-fireeye/"><u>US_military_options_in_Syria</u></a>）”，含有法国前总统尼古拉·萨科齐(Nicolas Sarkozy)的妻子卡拉·布吕尼-萨科齐(Carla Bruni-Sarkozy)裸照的链接等带病毒文件，渗透进电脑系统。调查人员表示，他们无法看出攻击者盗走了哪些文件。研究人员曾成功侵入了该组织23个指挥控制服务器中的一个，时间长达一周。其间他们发现，该服务器侵入了21个不同的目标，其中包括前述五个欧洲国家的政府部门。他们观察到了攻击者探查受害者的电脑网络并寻找高权限用户的过程，这类用户能让攻击者进入价值较高的目标的电脑。

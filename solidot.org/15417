@@ -1,0 +1,27 @@
+➜DARPA希望创造没有密码的世界
+https://www.solidot.org/story?sid=28764	33600
+美国国防部高级研究计划署（DARPA）希望雇员在电脑上工作前<a href="http://www.nytimes.com/2012/03/18/business/seeking-ways-to-make-computer-passwords-unnecessary.html?_r=1">不需要输入密码</a>。<i>
+DARPA的项目经理<a href="http://www.darpa.mil/Our_Work/I2O/Personnel/Mr_Richard_Guidorizzi.aspx">Richard Guidorizzi</a>说，如6tFcVbNh^TfCvBn之类的密码满足强密码的定义，但不满足人类需要，因为人类无法牢牢记住随机字符串。他在<a href="http://www.youtube.com/watch?v=fgNpOzvwOiU">Beyond Passwords</a>的视频中描述了没有密码的认证系统：当用户在主机前开始工作时，验证会在后台悄悄进行，用户注意不到，他们的工作不会受到干扰。认证系统不使用生物识别技术，而是寻求根据每个人独特的字符输入行为。举例来说，一位计算机用户的按键平均长度100毫秒，如果另一个人按键长度是90毫秒，那么他可能就会被怀疑。但DARPA要求能快速认证，而不是耗费一段时间收集数据。一位计算机科学家提出了根据用户在电脑上搜索文件的习惯是否与期望搜寻模式匹配的方法，如果不匹配，系统会发出警告要求用户验证身份。
+</i>
+➜Van Rossum称Python不慢
+https://www.solidot.org/story?sid=28765	35520
+InfoWorld <a href="http://www.infoworld.com/d/application-development/van-rossum-python-not-too-slow-188715">采访了Python语言作者Guido van Rossum</a>，回答了Python 3、Unicode和全局解释器锁等问题。对于Python速度太慢的批评，van Rossum说，如果你开发的系统发现了性能瓶颈，通常最有效率的做法是找到出问题的代码块，用速度较快的语言如C或C++写一些代码替换该功能或该模块，而不是用C或C++重写整个系统，因为对大部分代码而言，语言的速度是无关紧要的。
+➜Google考虑惩罚过度优化的网站
+https://www.solidot.org/story?sid=28766	36600
+Google<a href="http://news.cnet.com/8301-1023_3-57399425-93/google-plans-to-penalize-overly-optimized-sites/">考虑惩罚过度使用SEO优化的网站</a>。<i>
+负责Spam的工程师Matt Cutts表示，Google希望那些没有优化的网站能与SEO优化的网站站在同一起跑线上，创造公平竞争的环境。Cutts说，他们希望Google索引爬虫能更智能，能找到更相关的结果，他们正调查滥用情况，如一个页面使用过多关键词，或通过交换链接提升排名。Cutts预计，对搜索引擎的调整将在未来一个月或未来几周内生效。
+</i>
+➜100个最受欢迎的句子29个属于同一位科幻作家
+https://www.solidot.org/story?sid=28767	39600
+亚马逊<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;p=irol-newsArticle&amp;ID=1673532&amp;highlight=">宣布</a>，一位科幻作家成为Kindle历史上最畅销作品作者。<i>
+苏珊·柯林斯的青少年科幻小说《饥饿游戏》三部曲是亚马逊最畅销作品，这个记录相当惊人，因为小说第一部是在三年半前出版的。苏珊·柯林斯是少数几位电子书销量过百万的作家。Kindle允许用户高亮他们最喜欢的句子，与朋友共享。根据亚马逊的<a href="https://kindle.amazon.com/most_popular">统计</a>，100个读者高亮次数最多的段落中有<a href="http://news.slashdot.org/story/12/03/17/2021239/one-sci-fi-author-wrote-29-of-the-kindles-100-most-highlighted-passages">29句</a>属于《饥饿游戏》，前十占七，前五占三，另外两句属于简•奥斯汀的《傲慢与偏见》（如著名的有钱的单身汉都要娶妻）。
+</i>
+➜使用激光，拯救树木
+https://www.solidot.org/story?sid=28768	40200
+剑桥大学研究人员<a href="http://www.physorg.com/news/2012-03-laser-tree.html">发现</a>可以用激光将印刷文字删除，<a href="http://www.cna.com.tw/News/aIT/201203160064.aspx">使纸可重复使用</a>。<i>
+这项技术利用短脉冲激光将印刷原料加热至蒸发，以删除文字和图像。研究人员表示，将纸张上碳粉印刷字迹去除就可重复使用，无需回收、焚化或丢到垃圾掩埋场​​，大大减少对环境的冲击。但他们也表示，仍需更多研究才会将这产品上市。
+</i>
+➜新研究未能发现心灵能力存在的证据
+https://www.solidot.org/story?sid=28769	41760
+一项新研究<a href="http://science.slashdot.org/story/12/03/16/2235200/psychic-ability-claim-doesnt-hold-up-in-new-scientific-experiments">未能发现心灵能力存在的证据</a>。<i>
+2010年，《人格与社会心理学杂志》宣布接受康奈尔大学Daryl Bem完成的一项研究论文，这篇论文用实验证明心灵能力不存在。该研究在心理学家中引发了争议。但科学研究成果的一个重要特征是可重复性。如果一项研究不能再现，那么它是可信性会受到质疑。爱丁堡大学心理学家模仿了Bem的实验，验证了结果，<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0033423">报告</a>发表在PLoS One上。自称有心灵能力的人会宣称能预测未来。</i>

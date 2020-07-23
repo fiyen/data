@@ -1,0 +1,57 @@
+➜Slashdot，SourceForge下线5小时
+https://www.solidot.org/story?sid=6048	30300
+美国时间4月30日凌晨，SourceForge集团即现在的VA Software，下属的几大网站<a href="http://news.netcraft.com/archives/2008/04/30/slashdot_sourceforge_back_online_after_outage.html">断线数小时</a>，这些网站包括科技网站Slashdot，开源软件平台和仓库<a href="http://www.sourceforge.net/">SourceForge.net</a>，软件发布网站<a href="http://www.freshmeat.net/">Freshmeat</a>和在线零售商<a href="http://www.thinkgeek.com/">ThinkGeek</a>。服务供应商计划中的下线维护<a href="http://news.slashdot.org/article.pl?sid=08/04/30/1455205">似乎出了些问题</a>，几大网站没有及时上线。目前他们正在更新硬件，以提供更稳定和更快捷的服务。PS：solidot在4月28日也临时性下线数小时，CNET称是转移服务器，没有及时解释实在抱歉。
+➜OpenBSD 4.3发布
+https://www.solidot.org/story?sid=6049	31800
+Theo de Raadt<a href="http://osnews.com/story/19700/OpenBSD-4.3-Released">揭开了OpenBSD 4.3的面纱</a>，“我们高兴的宣布OpenBSD 4.3正式发布。这是第23版，以CD-ROM为载体发布（第24版只通过FTP形式发布）。我们仍然以过去十多年里OpenBSD仅仅只发现两个小安全漏洞而自豪。”总是这般吹嘘，但他有狂妄的资本。<a href="http://www.openbsd.org/zh/43.html">OpenBSD 4.3中文页</a>详细列出了变动、改进、修正、新工具和新增特性。<i>
+新特性包括：<a href="http://www.openbsd.org/sparc64.html">sparc64</a>支持 SMP；<a href="http://www.openbsd.org/hppa.html">hppa</a>支持 K-class 服务器；<a href="http://www.openbsd.org/mvme88k.html">mvme88k</a>在MVME188 和 MVME188A 系统中支持 SMP，支持 88110 处理器，MVME197LE/SP/DP 主板。更多修改记录可浏览 <a href="http://www.openbsd.org/plus43.html">changelog</a>。</i>
+可以选择镜像<a href="http://www.openbsd.org/zh/ftp.html">下载</a>，或以<a href="http://www.openbsd.org/zh/orders.html">订购CD</a>的形式支持OpenBSD。
+➜KDE 4.1 Alpha 1 发布
+https://www.solidot.org/story?sid=6050	34200
+KDE 4.1的首个alpha测试版已经发布，尽管还有不少bug，但<a href="http://arstechnica.com/news.ars/post/20080430-first-look-kde-4-1-alpha-1-very-promising.html">还是让人感觉到眼前一亮</a>。 KDE Plasma桌面外壳现在提供了对Mac OS X dashboard widgets 和SuperKaramba的初步支持。面板可通过上下文菜单选项增加和移除。alpha测试版的发布标志着KDE 4.1进入<a href="http://www.kdecn.org/announcements/announce-4.1-alpha1.php">功能冻结状态</a>，正式版将于今年7月发布。KDE 4.1主要集中于bug修正，稳定性和外观。<i>
+其新增特性包括：Akonadi，不依赖于特定桌面的个人信息管理(PIM)数据存储引擎。KDE 4.1 Alpha1在Qt 4.4的基础上构建，它为KDE 4.1引入了许多性能和功能上的提升，如SVG渲染速度大幅度提高、部件和布局现在可应用于Plasma桌面和面板一类幕布上。</i>如果开发者真能实现他们的承诺，4.1的用户体验将更胜 4.0一筹。更详细的介绍可浏览<a href="http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan">wiki</a>。
+➜生男孩的秘诀
+https://www.solidot.org/story?sid=6051	36000
+<a href="mailto:seth.hg@gmail.com">seth.hg</a> 写道 "对英国妈妈们的一项研究表明：多吃谷物，特别是在早餐中，更容易怀上男孩。<i>
+英国生物学家Fiona Mathews和她的同事们对从英格兰南部随机选取的721名孕妇进行了调查，结果表明卡路里摄入较多的孕妇怀上男孩的机会更大。研究小组将接受调查的孕妇分为按照能量摄入的多少分为三组。摄入最多的一组中，有56%生下了男孩；而最少的一组中只有45%。特别地，每天至少吃一碗谷制品的妈妈中，有59%生了男孩；而每天食用谷制品不到一碗的妈妈中，只有43%生了男孩。由于吃早餐的女性越来越少，Mathews认为这至少部分解释了男性出生率下降的问题。</i>
+<a href="http://sciencenow.sciencemag.org/cgi/content/full/2008/423/3">原文</a>见于ScienceNOW"
+➜维基百科临时屏蔽美国司法部的IP
+https://www.solidot.org/story?sid=6052	37200
+去年<a href="http://en.wikipedia.org/wiki/WikiScanner">Wikiscanner</a>的公布引发了人们对一系列有争议条目美化性质编辑行为的关注。最近美国司法部的某人被发现试图篡改内容，在获悉这一丑闻后，维基百科很生气，决定<a href="http://www.theregister.co.uk/2008/04/29/wikipedia_blocked_doj_ip/">临时屏蔽美国司法部的IP</a>。这件事情的起因是：<i>
+上周，亲以色列的“美国中东报道准确性委员会（<a href="http://www.camera.org/">Committee for Accuracy in Middle East Reporting in America</a>，简写CAMERA）”被指控组织发起一项秘密行动，去修改“人人可编辑”维基百科上的特定文章内容——“确保与以色列相关的条目不受反以人士的恶意修改”。几天后，美国司法部的一IP被发现编辑了<a href="http://en.wikipedia.org/wiki/Committee_for_Accuracy_in_Middle_East_Reporting_in_America">CAMERA</a>的条目，移除了描述这一指控的内容(看起来是美国政府中亲犹或亲以色列分子干的)。</i>
+➜Google正在开发3D海洋地图
+https://www.solidot.org/story?sid=6053	40800
+Google给我们带来地球和太空、火星和月球之后，下一个令人瞩目的项目将是<a href="http://www.news.com/8301-10784_3-9931412-7.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5">3D海洋地图</a>（<a href="http://www.cnetnews.com.cn/2008/0501/843165.shtml">中文版</a>）。<i>
+此一工具初步定名为Google海洋（Google Ocean），正式名字可能会变，它将和其它在线3D地图应用软件类似。用这个工具，人们可以观察海底地形，搜索特定海域或名胜的情况，通过放大缩小数字环境进行定位。Google可能通过哥伦比亚大学的Lamont-Doherty地球观测部门编辑这些数据。编辑以后，Google海洋能够向用户展示全球海洋的景观信息。哥伦比亚大学的地球与环境研究的教授B. F. Ryan说：“这一程序可以通过互联网连接数据库，用户不需要了解这些数据库的名称，以及如何连接它们。Google程序将与我们的数据库进行会话。”
+</i>
+➜微软帮助警察攻破你的电脑
+https://www.solidot.org/story?sid=6054	43800
+微软开发了一种小型的即插即用设备，警方的调查人员能用它快速的<a href="http://seattletimes.nwsource.com/html/microsoft/2004379751_msftlaw29.html">从电脑中寻找到犯罪证据</a>。<i>
+COFEE，代表“计算机在线法庭科学证据提取器（Computer Online Forensic Evidence Extractor）”，是一种USB闪存，已于去年6月悄悄的分发给司法部门，微软总法律顾问Brad Smith在有350名法律专家出席的会议上透露它的使用情况。该设备包含了150条命令，可以快速的绕过了所有Windows的安全措施（破译密码，分析网络活动等等）。数字证据，在网络犯罪猖獗的今日变得更为重要。而微软的设备可以帮助警察在能直接访问用户电脑的情况下，排除各种烦恼的干扰。有15个国家的2000余名警官使用了该设备，其中包括波兰、菲律宾、德国、新西兰和美国，这些设备是微软免费供应的。
+</i>
+另一个<a href="http://tech.slashdot.org/article.pl?sid=08/04/29/1441215">不使用Windows的理由</a>。
+➜施乐演示“自我擦除，生态友好”的复印纸
+https://www.solidot.org/story?sid=6055	45600
+曾经为世界带来了Ethernet，GUI和鼠标的施乐帕洛阿尔托研究中心（<a href="http://www.parc.com/">Xerox Palo Alto Research Center</a>）演示了可重复使用的<a href="http://www.xerox.com/innovation/exp_paper.shtml">复印纸</a>，<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyName=storage&amp;articleId=9080978&amp;taxonomyId=19&amp;intsrc=kc_top">印在表面的文字会在一天内自动删除</a>。<i>不同于其它的用过一次后扔掉或循环利用，这种打印纸可重复使用100次。它包含了经过特别编码的分子，打印机中有一个薄部件，能发射出紫外线，纸在紫外线照射下就能打印出文字。紫外线部件很小，因此可安装在移动打印机上。该技术也可用于网络打印。
+</i>
+➜1964年的今天，第一个BASIC程序运行！
+https://www.solidot.org/story?sid=6056	47700
+<a href="http://reversethis-moc.liamgtahs.g.jxw/">vvoody</a> 写道
+<i>"来自<a href="http://www.wired.com/science/discoveries/news/2008/04/dayintech_0501">连线</a>。上世纪50年代，<a href="http://www.dartmouth.edu/">Dartmouth 大学</a>的数学家 John G. Kemeny 和 Thomas E. Kurtz(<a href="http://www.wired.com/imageviewer/?imagePath=/images/article/full/2008/05/kemeny_and_kurtz_250px.jpg&amp;imageCaption=John+G.+Kemeny+(left)+and+Thomas+E.+Kurtz+made+a+truly+Basic+contribution+to+computer+science+in+1964.%3Cbr%3E%3Cem%3ECourtesy+Dartmouth+Library%3C%2Fem%3E&amp;imageCredit=">两人合照</a>)觉得当时的 Fortran、Algol 太复杂，所以在 1956 年开始着手开发易于使用的语言。于 1964年5月1日凌晨4点在 GE-225 主机成功运行第一个 BASIC 程序。从此 BASIC 迅速风靡。两位 BASIC 之父后来又成立公司开发了 <a href="http://cis-alumni.org/TKurtz.html">True BASIC</a>。
+</i>
+值得一提的是，Kemeny 后来成为了 Dartmouth 大学的校长，并在 1972 年实行男女同校制（该校两百多年来都是 all-male）。
+<b>
+各位 geek 有多少是 BASIC 启蒙呢？
+</b>"
+➜Psystar苹果克隆电脑：性能测试和视频演示
+https://www.solidot.org/story?sid=6057	49200
+苹果采用了软件搭配硬件的市场垄断销售战略，OSX需要使用苹果指定的硬件。不过在换用Core 2 Duo处理器后，这个限制已经大大缩小。最近更有<a href="http://www.psystar.com/shop/openmac.html">Psystar公司</a>宣布将销售廉价的Mac克隆电脑Open Computer，分为399.99美元的低端和$999.99高端两种。最初人们觉得这是场骗局，但事实并非如此。<a href="http://www.engadget.com/2008/04/30/psystar-open-computer-notes-benchmarks-and-video/">Engadget</a>已拿到了一台Open Computer，进行了一系列的性能测试，并录制了<a href="http://www.viddler.com/explore/engadget/videos/11/">视频</a>。<i>
+“我们还没有进行压力测试。基于我们的体验，基本操作流畅。但开发商称肯定会出现些小毛小病，因为OS X不是专为这套硬件开发的。”Open Computer高端的硬件配置是Intel G31 Express 主板，2.6GHz Intel Core 2 Duo E6750 处理器，512M显存的NVIDIA GeForce 8600GT，2GB  DDR2 667内存。</i>
+➜中国人最难达到性高潮
+https://www.solidot.org/story?sid=6058	55200
+<a href="http://in.reuters.com/article/entertainmentNews/idINIndia-33300720080429?sp=true">路透社报道</a>---中国人可能是做生意的高手，但在房事上，他们却为达到高潮头痛不已。<i>
+据一项<a href="http://shanghaiist.com/2008/04/30/durex-lots-of-sex-but-few-orgasms.php">全球性调查</a>，中国大陆和香港人最难在性行为中达到高潮；意大利和西班牙人则宣称对此没有问题。调查显示，中国大陆和香港受访者能于每次房事时“尽兴”的概率是24%；意大利、西班牙和墨西哥则在“高潮”排名上位居前列，高潮率达66%。这项杜蕾斯(<a href="http://www.durex.com/cm/sexual_wellbeing_globeflash.asp?browser=ok&amp;flash=ok">Durex</a>)性调查涉及26个国家的2.6万人。
+以浪漫着称的法国，则在排名中表现平平，高潮率为48%。其他亚洲国家如日本、新加坡，也表现不佳，高潮率分别为27%和36%。
+在达到高潮的人群中，日本人的“尽兴度”最低，墨西哥人和巴西人则对此最满意。
+女性达到高潮的机率低于男性，前者为32%，后者63%。
+调查显示，提高高潮的因素包括延迟达到高潮的时间，更长的前戏和强烈的爱意。调查还发现，男性容易与性伴侣出现高潮，女性则更易靠自慰获得。</i>

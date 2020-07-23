@@ -1,0 +1,45 @@
+➜美国中小型 ISP 对 FCC 封杀华为中兴的决定表示震惊
+https://www.solidot.org/story?sid=64834	1762
+美国联邦通讯委员会(FCC)周二正式发表声明，认定华为和中兴对美国国家安全构成威胁，禁止美国公司利用 83 亿美元的政府资金购买这两家公司的设备。对这一决定， 代表中小型 ISP 的贸易组织 Rural Wireless Association (RWA)发表<a href="https://ruralwireless.org/rwa-stunned-by-fccs-decision-to-immediately-bar-use-of-usf-funds-on-huawei-and-zte-equipment-and-services-during-a-time-when-it-is-critical-to-keep-rural-americans-connected/"><u>声明</u></a>，<a href="https://arstechnica.com/tech-policy/2020/07/small-isps-stunned-by-fcc-move-to-ban-huawei-zte-gear-during-pandemic/#p3" target="_blank">表示震惊</a>，称华为中兴的设备和服务对维持美国农村网络连接至关重要。禁令的结果是农村的运营商将缺乏能力支持其关键网络。美国国会尚未提供拨款资助这些受影响的 ISP 替换华为和中兴的网络设备。
+➜新 Mac 勒索软件具有间谍软件功能
+https://www.solidot.org/story?sid=64835	1810
+勒索软件很常见，但针对苹果 Mac 计算机的勒索软件不常见，因此安全研究员  Dinesh Devadoss 本周发现的针对 Mac 的勒索软件 ThiefQuest 引发了广泛关注。ThiefQuest 除了是勒索软件外<a href="https://www.wired.com/story/new-mac-ransomware-thiefquest-evilquest/" target="_blank"><u>还包括一组间谍软件功能</u></a>，能从被感染的计算机上获取文件，搜索密码和加密钱包数据，能运行键盘记录器抓取密码、信用卡号码、或其他用户输入的金融信息。它还能充当后门，重启后仍然会留在系统中。Jamf 公司的首席安全研究员 Patrick Wardle 认为，这个勒索软件最初是作为 Mac 恶意程序开发的，只是为了获得额外的收入而加入了勒索软件功能。ThiefQuest 目前主要通过盗版的 Mac 软件传播。
+➜迪士尼研究院演示照片视频的高分辨率人脸替换
+https://www.solidot.org/story?sid=64836	1867
+迪士尼研究院和苏黎世理工学院合作发表<a href="https://studios.disneyresearch.com/2020/06/29/high-resolution-neural-face-swapping-for-visual-effects/"><u>论文</u></a>，描述了一种全自动的、基于神经网络的照片和视频换脸方法。研究人员称他们首次实现了高分辨率、百万像素分辨率的人脸替换。<a href="https://techcrunch.com/2020/06/29/disney-research-neural-face-swapping-technique-can-provide-photorealistic-high-resolution-video/"><u>这项技术</u></a>可用于电视和电影制作，使得换脸后的结果能让观众感觉以假乱真。研究人员的意图是用替补演员的脸去替换现有演员，如降低或增加一个人的年龄，或参演的演员去世了，或替换特技演员的脸部。研究人员发布了一则<a href="https://www.youtube.com/watch?v=yji0t6KS7Qo"><u>视频</u></a>（YouTube），演示了他们的方法，并与现有的其它换脸技术进行对比。
+➜印度封禁 59 款中国应用的背后
+https://www.solidot.org/story?sid=64837	20213
+印度政府宣布封杀 59 个来自中国的流行应用，命令 ISP 将这些应用的域名屏蔽，并要求苹果和 Google 从各自的应用商店（限于印度）下架这些应用。中国的应用开发商似乎第一次体会到了 Google 和 Facebook 等公司的感受。除了政治原因外。印度封杀的背后<a href="http://www.ftchinese.com/story/001088389?adchannelID=&amp;full=y"><u>还有推动本国应用发展的考量</u></a>。印度移动互联网是一个仍在发展中的金矿，印度政府会轻易拱手让给海外企业吗？答案恐怕是否定的。中国在互联网和移动互联网行业发展过程中的监管手段给印度政府留下了深刻的印象。在中国监管部门对数据安全性和其它方面的要求下，一些国际互联网巨头如 Google、Facebook 和 Twitter 等最终放弃了中国市场，其它的一些互联网巨头如苹果和 Amazon 等通过本地化落地合作构建了和全球不同的运营与管理模式，这些都为中国的本地互联网服务商如百度、新浪、阿里的快速成长在客观上创造了条件。印度认为，中国能打造成功的本国企业，我们为什么不采取同样的做法？”
+➜全球电子垃圾五年增长五分之一
+https://www.solidot.org/story?sid=64838	21069
+联合国多个机构联合发布了《<a href="https://publications.globalewaste.org/v1/file/271/The-Global-E-waste-Monitor-2020-Quantities-flows-and-the-circular-economy-potential.pdf"><u>2020 年全球电子垃圾监测</u></a>（PDF）》。数据显示，全球 2019 年产生了创纪录的 5360 万吨电子垃圾，5 年内<a href="http://news.sciencenet.cn/htmlnews/2020/7/442279.shtm"><u>增长了 21%</u></a>。 报告还预测，到 2030 年，全球电子垃圾将达到 7400 万吨，在 16 年内几乎翻了一番。电子垃圾成为世界上增长最快的家庭垃圾流，这主要是由相关设备较高的消耗率、较短的生命周期和很少进行维修造成的。2019 年，只有 17.4% 的电子垃圾被回收。这意味着金、银、铜、铂和其他价值高的可回收材料（保守估计价值为 570 亿美元）大多被丢弃或焚烧，而不是被收集处理和再利用。亚洲 2019 年产生的电子垃圾最多，约 2490 万吨，其次是美洲（1310 万吨）和欧洲（1200 万吨），非洲和大洋洲分别产生 290 万吨和 70 万吨。
+➜苹果中国应用商店冻结数千未获版号的应用
+https://www.solidot.org/story?sid=64839	21325
+苹果<a href="http://www.ftchinese.com/story/001088382"><u>冻结了</u></a>中国区 App Store 成千上万款手机游戏的更新，因为它面临越来越大的遵守当地法规的政府压力。数据显示，中国是苹果最大的 App Store 市场，年销售额为 164 亿美元，超过美国的 154 亿美元。大部分收入来自游戏。本周三，苹果表示，没有版号，开发者将无法更新他们的游戏。尽管官方迄今对苹果的 App Store 睁一只眼闭一只眼，但国内应用商店，如由手机厂商华为和小米运营的应用商店，在下架未获批准的游戏方面更加积极。根据 AppinChina 的数据，苹果目前在中国上架约 6 万款付费或应用内购买的游戏，但自 2010 年以来，中国监管机构仅批准了略多于 4.3 万款游戏。2019 年仅批准了 1570 款游戏。
+➜美国买光新冠药物瑞德西韦的库存
+https://www.solidot.org/story?sid=64840	24130
+美国卫生部周二<a href="https://www.bbc.com/zhongwen/simp/world-53261078"><u>宣布</u></a>已同意购买 50 万剂瑞德西韦，供美国医院使用。相关实验证实，瑞德西韦缩短了肺炎病人的恢复时间，但尚不清楚是否可以提高生存率。吉利德公司已于  5月签署了在美国外生产的许可协议，但项目仍处于初期阶段。美国卫生与公共服务部部长 Alex Azar 在一份声明中称：“特朗普总统已经达成了一项了不起的协议，以确保美国人能够获得针对新冠肺炎的首批授权疗程。”在美国，一个这种疗程的费用为2340美元。根据 2016 年 1 月的<a href="https://www.fool.com/investing/general/2016/01/31/3-surprisingly-controversial-stocks-in-donald-trum.aspx"><u>报道</u></a>，特朗普持有吉利德公司的股票。
+➜欧洲警方破解犯罪组织使用的加密通讯网络数百人被捕
+https://www.solidot.org/story?sid=64841	28682
+在法国警方破解犯罪组织使用的加密通讯网络植入间谍程序监视其通讯之后，欧洲警方通力协作<a href="https://www.bbc.com/news/uk-53263310" target="_blank"><u>逮捕了数百人</u></a>，扣押了大量的毒品、枪支和现金，如英国扣押了 5400 万英镑现金，荷兰扣押了 8000 公斤海洛因和 1200 公斤冰毒以及 2000 万欧元现金。本案的规模前所未见。<a href="https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked"><u>犯罪分子使用的加密网络是名叫 Encrochat 的加密 Android 手机</u></a>。Encrochat 自称是一个端对端的安全解决方案，其部分型号是基于西班牙公司的 BQ Aquaris X2 手机，手机可以切换运行两个系统，一个是未加密的标准 Android 系统，另一个则是加密版本，安装了 Encrochat 加密消息应用，所有消息都路由经过其服务器，手机还移除了 GPS、摄像头和麦克风功能。Encrochat 以订阅的模式出售手机，一部手机一年的订阅费用多达数千美元。Encrochat 自称是一家合法的公司，但没人知道公司所有者和位置。它的很多客户被认为都是犯罪分子，法国当局称超过九成的法国 Encrochat 客户从事犯罪活动。Encrochat 手机有一项功能，在需要的时候可以输入 Pin 码清空手机。正是这项功能的失效让 Encrochat 注意到它成为了政府机构的目标。今年 5 月 Encrochat 用户报告清空手机的功能失效了。在调查之后 Encrochat 发现手机功能失效的原因是手机被安装了恶意程序。恶意程序能在消息加密发送前读取和将其储存，恶意程序是专门为 X2 型号手机定制的。Encrochat 随后推送了更新恢复了功能，但恶意程序也紧跟着更新并变得更强大。Encrochat 还意识到它的 SIM 卡供应商 KPN 可能正在与当局合作。它决定立即关闭 SIM 和其网络。它向所有客户发去通知，警告设备已经不再安全，建议立即关机并将其抛弃。但为时已晚，欧洲各国警方发起了大规模行动，逮捕了数以百计的毒贩和武器交易商。
+➜openSUSE Leap 15.2 发布
+https://www.solidot.org/story?sid=64842	29782
+openSUSE 项目释出了 <a href="https://zh-tw.opensuse.org/Release_announcement_15.2"><u>openSUSE Leap 15.2</u></a>，新版最引人注目的是整合了 AI 和机器学习库，其中包括 Tensorflow、PyTorch、ONNX、Grafana 和 Prometheus。openSUSE Leap 15.2 还加入了实时核心去管理微处理器的时序。软件方面的<a href="https://en.opensuse.org/Portal:15.2/Features"><u>更新</u></a>包括：Plasma 5.18 LTS，GNOME 3.34，Xfce 4.14，Wayland 合成器 Sway，Go，Rust，Haskell，C++，Ruby on Rails，Java，Python，Perl 等语言。
+➜山东通报苟晶被冒名顶替上学事件
+https://www.solidot.org/story?sid=64843	31858
+中新网<a href="http://news.sciencenet.cn/htmlnews/2020/7/442302.shtm"><u>报道</u></a>，2020 年 6 月 24 日，山东省纪委监委机关、省教育厅、省公安厅等部门单位组成的工作专班，与济宁市、任城区有关单位一起，对苟晶反映的“连续两年被冒名顶替上学”等问题进行了调查核实。目前，反映的问题已经查清，并依规依纪依法对相关人员作出处理...经过调查，苟晶1997年高考成绩达到济宁市中专(理科)委培录取分数线，但本人未填报志愿，其个人身份、高考成绩等被邱小慧（其班主任次女）冒用。苟晶 1998 年高考成绩达到济宁市中专(理科)统招录取分数线，本人填报志愿并服从调剂，被录取到湖北黄冈水利电力学校上学，系按程序正常录取，不存在其当年被他人冒名顶替上学问题。
+➜123456 是最常用的密码
+https://www.solidot.org/story?sid=64844	32008
+对十多亿泄露密码的分析发现，123456 <a href="https://www.zdnet.com/article/one-out-of-every-142-passwords-is-123456/" target="_blank"><u>是最常用的密码</u></a>。土耳其学生 Ata Hakçıl 在分析后<a href="https://github.com/FlameOfIgnis/Pwdb-Public" target="_blank"><u>发现</u></a>，这 10 亿多个密码中，不重复的密码数为 168,919,919 个，超过 700 万个以 123456 为密码，每 142 个密码就有一个用 123456。这是 123456 连续五年成为最常用的密码。Hakçıl 还发现密码的平均长度为 9.48 个字符，包含特殊符号的密码只占 12%，29% 的密码只使用字符，13% 的密码只使用数字， 42% 的密码很容易使用字典攻击暴力破解。
+➜《死亡搁浅》PC 版测试显示 AMD 的开源 FidelityFX CAS 表现强于英伟达的 DLSS
+https://www.solidot.org/story?sid=64845	47691
+小岛秀夫的末世送快递游戏《<a href="https://store.steampowered.com/app/1190460/DEATH_STRANDING/" target="_blank"><u>死亡搁浅</u></a>》将于 7 月 14 日正式发布 PC 版本，主要新闻媒体如 Ars 都发表了预览报道。Ars <a href="https://arstechnica.com/gaming/2020/07/why-this-months-pc-port-of-death-stranding-is-the-definitive-version/"><u>透露</u></a>， 《死亡搁浅》PC 版实现了两种利用深度学习改进采样的技术：英伟达私有的  DLSS，以及 AMD 开源、平台中立的  <a href="https://www.amd.com/en/technologies/radeon-software-fidelityfx"><u>FidelityFX CAS</u></a>。DLSS 只能运行在英伟达显卡上，而 CAS 既支持 AMD 显卡也支持英伟达的，它是中立的。因为下一代 PS 和 Xbox 主机都采用 AMD 的方案，PS5 和 Xbox Series X 也都将支持 CAS。Ars 在测试中意外的发现，启用 FidelityFX CAS 之后系统的表现明显强于启用英伟达的 DLSS。相比在 1080p 下未启用 CAS，在 1440p 下启用 CAS 后速度提升了 5fps。这可能只是个案，与游戏开发商的优化有关联。
+➜摩根大通从内部代码和材料中替换术语  Master 和 Slave
+https://www.solidot.org/story?sid=64846	48811
+为了试图解决公司内部的种族主义问题，摩根大通（JPMorgan Chase）正从内部代码和技术材料中<a href="https://www.reuters.com/article/us-minneapolis-police-jp-morgan-race-exc/exclusive-jpmorgan-drops-terms-master-slave-from-internal-tech-code-and-materials-idUSKBN2433E4?il=0"><u>替换掉</u></a> blacklist、master 和 slave 等术语。它不是第一家这么做的公司和机构，但可能是金融行业首个采取这一措施的投行。在程序或硬件中，master 和 slave 被用于描述一个进程控制另一个进程或一个设备控制另一个。blacklist 则被用于描述被自动拒绝的条目，Whitelist 意思相反表示自动批准。哥伦比亚商学院编程教授 Mattan Griffel 称，此类的术语长期受到争议，很难改变。在银行内部代码中替换掉这些术语可能需要花费数百万美元和数个月的工作。
+➜亚马逊制作《辐射》电视剧
+https://www.solidot.org/story?sid=64847	50788
+Hollywood Reporter <a href="https://www.hollywoodreporter.com/live-feed/fallout-tv-series-westworld-creators-works-at-amazon-1301570" target="_blank"><u>报道</u></a>，亚马逊工作室获得了著名游戏《辐射》系列的电视改编权，HBO 《西部世界》系列的创始人  Lisa Joy 和 Jonah Nolan 夫妇去年与亚马逊签署了五年合作协议，他们将监督这部剧。如果亚马逊工作室的高管对剧本满意，那么可能会直接开拍绕过制作先行剧的阶段。<a href="https://zh.wikipedia.org/wiki/%E7%95%B0%E5%A1%B5%E9%A4%98%E7%94%9F%E7%B3%BB%E5%88%97"><u>《辐射》系列</u></a>设定发生在 22 世纪，其背景受到了 1950 年代核恐慌的影响，2077 年中美之间因争夺能源而发生了大规模核战，世界遭到毁灭，故事就发生在核战一百年后，藏身于避难所的人走出地下探索核战后的世界。如果这部剧想要进入中国，那么背景可能会发生改变。
+➜Android 11 引入多个系统安全加固
+https://www.solidot.org/story?sid=64848	53236
+Google 官方博客<a href="https://security.googleblog.com/2020/06/system-hardening-in-android-11.html"><u>介绍了</u></a>将于秋季发布的 Android 11 操作系统的新安全加固功能。Android 11 的用户空间和内核将启用自动内存初始化，消除内存未初始化 bug；用户空间启用自动堆栈变量初始化；内核的自动堆栈和堆初始化；默认分配器用 Scudo 替换了jemalloc，对内存分配器进行了加固；生产中堆内存安全 bug 检测工具 GWP-ASan；支持内核 HWASAN，Android 10 的用户空间已经支持 HWASAN；等等。

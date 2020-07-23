@@ -1,0 +1,45 @@
+➜Uber 解雇 Anthony Levandowski
+https://www.solidot.org/story?sid=52584	9186
+《<a href="https://www.nytimes.com/2017/05/30/technology/uber-anthony-levandowski.html?_r=0" target="_blank"><u>纽约时报</u></a>》、<a href="https://www.bloomberg.com/news/articles/2017-05-30/uber-fires-executive-at-center-of-self-driving-car-legal-fight" target="_blank"><u>彭博社</u></a>和《<a href="http://cn.wsj.com/gb/20170531/tec080426.asp" target="_blank"><u>华尔街日报</u></a>》等报道，Uber 解雇了它与 Google/Waymo 自主驾驶诉讼案的中心人物 Anthony Levandowski。Waymo 指控 Levandowski 窃取了 1.4 万份机密文件，它起诉了 Levandowski 的现雇主，要求归还窃取的文件，但 Levandowski 以宪法第五修正案赋予的权利拒绝配合调查。法官 William Alsup 两周前<a href="http://www.solidot.org/story?sid=52416" target="_blank"><u>作出裁决</u></a>，命令 Uber 归还窃取的文件。因为 Levandowski 的不配合，Uber 别无选择只能进行切割。Uber 发言人称，公司解雇了Levandowski，之前公司要求他协助内部调查已有数月，而他未能在 Uber 设定的最后期限前交出相关文件。
+➜Chrome 将停止支持 PNaCl ，拥抱 WebAssembly
+https://www.solidot.org/story?sid=52585	12422
+Chrome 从 2013 年开始<a href="http://www.solidot.org/story?sid=37205" target="_blank"><u>支持</u></a> PNaCl（Portable Native Client），为开发者提供了一种技术去构建高性能的 Web 应用，但这项技术只有 Google 支持。源自 Mozilla Asm.js 项目的 WebAssembly 技术<a href="http://www.solidot.org/story?sid=51660" target="_blank">则得到了</a>所有浏览器开发商的一致拥护： Chrome 和 Firefox 已经原生支持 WebAssembly，Edge 和 Safari 也在预览版中加入了 WebAssembly 支持。在这一背景下，Google 决定停止支持 PNaCl。Chromium 官方博客<a href="https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html" target="_blank"><u>宣布</u></a>，在 2018 年第一季度移除对 PNaCl 的支持，表示  WebAssembly 生态系统更适合高性能 Web 应用。Google 发布了帮助开发者将现有的 PNaC 实现迁移到 Web 平台的<a href="https://developer.chrome.com/native-client/migration" target="_blank"><u>指南</u></a>。
+➜中国放宽对外国电影的审查
+https://www.solidot.org/story?sid=52586	12638
+中国的一条审查政策是禁止电影宣传迷信或超自然。这意味着以僵尸、吸血鬼、狼人、木乃伊和鬼魂为主题的境外影片几乎一律被禁止。然而，过去几个月中国电影院上映了僵尸片《生化危机：终章》，鬼片《加勒比海盗 5：死无对证》，暴力变种人《Logan》等外国影片，<a href="http://www.ftchinese.com/story/001072783?full=y" target="_blank"><u>显示审查放宽了</u></a>。电影业内人士认为原因是中国票房经过多年令人眩晕的高涨后，今年面临自上世纪 90 年代以来的首次下滑危险。为提高票房收入，防止其下滑，审查制度被悄悄放宽了。2016 年中国电影票房销售同比仅增长 3%，而 2015 年这一数字为 49%。今年第一季度中国电影收入 136 亿元人民币，同比下降 7%，引发了全年票房收入下滑的前景。允许引进更多外国大片被认为是提振票房的最主要方式。
+➜美国成功拦截洲际弹道导弹
+https://www.solidot.org/story?sid=52587	15318
+五角大楼<a href="https://www.defense.gov/News/Article/Article/1197192/defense-department-makes-successful-missile-intercept-in-test/" target="_blank"><u>宣布</u></a>一枚升级后的拦截火箭在太平洋上空<a href="https://cn.nytimes.com/usa/20170531/missile-defense-test-north-korea/" target="_blank"><u>击中了一枚模拟洲际弹道导弹</u></a>，这是国防部测试是否能击落朝鲜以接近实战的速度向美国本土发射的弹头首次获得成功。目前美国与朝鲜之间的局势越发紧张，本次测试成功是国防部备受诟病的导弹防御计划取得的一个胜利。国防部官员说，初步迹象表明，这次测试击中目标，达到了它的主要目的，他们没有提供任何细节。该部门将继续评估其他数据，以确定该拦截系统的整体性能。周二的测试针对的是单一导弹，但朝鲜已经开始尝试发射多枚导弹，以突破美国的防御。
+➜Node.js 发布 v8.0.0
+https://www.solidot.org/story?sid=52588	18298
+Node.js 基金会宣布发布 <a href="https://nodejs.org/en/blog/release/v8.0.0/" target="_blank"><u>Node.js v8.0.0</u></a>。新版主要的特性包括：npm 客户端升级到 5.0.0 版；基于 Chrome JS 引擎 V8 升级到 v5.8；Node.js API (N-API)允许创建原生扩展，编译一次可在多个 Node 版本中使用；更新  async_hooks 模块；完整支持 WHATWG URL API 解析器；Buffer API 引入了大量新变化；新的  util.promisify() API； console 模块加入 console.log() 和 console.error()，等等。Node.js v8 将是下一个长期支持版（LTS）。
+➜英国无线电台封杀抗议歌曲《Liar Liar GE2017》
+https://www.solidot.org/story?sid=52589	27568
+英国即将于 6 月 8 日举行大选，最新民调显示执政的保守党的领先优势已经收窄。现任首相特雷莎·梅提出了一系列收缩政策引发了民众抗议。一首抗议收缩的流行歌曲《<a href="https://www.youtube.com/watch?v=HxN1STgQXW8" target="_blank"><u>Liar Liar GE2017</u></a>》（YouTube）登上了英国 iTunes 下载榜的榜首，这首歌曲称特雷莎·梅是说谎者。英国人不可能通过无线电台听到这这首歌，因为它已经<a href="http://money.cnn.com/2017/05/30/media/theresa-may-liar-liar-song-radio/" target="_blank"><u>遭到封杀</u></a>。英国通信监管机构 Ofcom 不会在竞选过程中封杀政治歌曲，但要求无线电台不偏向特定党派或候选人。违反规定的广播机构会遇到麻烦。批评者认为这是审查的一个例子。
+➜改良万古霉素能消灭超级细菌
+https://www.solidot.org/story?sid=52590	28911
+根据发表在 PNAS 期刊上的<a href="http://www.pnas.org/embargo?embargoed-uri=http%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2017%2F05%2F23%2F1704125114" target="_blank"><u>一项研究</u></a>，美国科学家<a href="http://www.bbc.com/news/health-40091179" target="_blank"><u>改造了</u></a>一种已逐渐失效的广谱抗生素万古霉素（vancomycin），使其能再次消灭已经产生抗药性的超级病菌。改良后的万古霉素是第一款能通过三种不同的药理作用机制杀死病菌的抗生素。万古霉素于 1954年投入使用。新版万古霉素的杀菌效力是旧版的 1000 倍，对病菌三路出击，使得病菌难以抵抗。又因为药效强，剂量可以减少。经过三种改造的新版万古霉素不但能杀死普通肠球菌，也能杀死抗万古霉素肠球菌。即使病菌对一种杀菌机制产生了抗药性，<a href="http://www.bbc.com/zhongwen/simp/world-40093250" target="_blank"><u>另外两种机制仍可以把它杀死</u></a>。
+➜Windows XP 基本对 WannaCry 免疫
+https://www.solidot.org/story?sid=52591	30252
+对感染设备的统计显示，勒索软件 WannaCry 的绝大部分受害者<a href="http://www.solidot.org/story?sid=52474" target="_blank"><u>运行的是 Windows 7</u></a>，原本认为是重灾区的 Windows XP 基本不受影响。为什么会出现这一局面？安全公司 Kryptos 的研究发现，原因是 WannaCry 会导致 XP&nbsp; 崩溃或蓝屏死机，<a href="https://blog.kryptoslogic.com/malware/2017/05/29/two-weeks-later.html" target="_blank"><u>无法成功安装或传播</u></a>。WannaCry 的核心是利用 Windows 文件共享系统 SMB 中的漏洞无需用户干预就能在未打上补丁的系统之间快速传播。但当勒索软件传播到 XP 计算机时，勒索软件要么安装失败要么导致了蓝屏死机，要求硬重启计算机。在 XP 系统上手动安装 WannaCry 仍然是可能的，但勒索软件使用的方法对这款已经停止支持的旧操作系统并不那么有效。
+➜网络安全法将于明天生效
+https://www.solidot.org/story?sid=52592	32256
+受争议的<a href="http://www.solidot.org/story?sid=50277" target="_blank"><u>网络安全法</u></a>将于<a href="http://www.reuters.com/article/us-china-cyber-law-idUSKBN18P0G9" target="_blank"><u>明天正式生效</u></a>，官方新华社称，违反法律者将面临重罚。网络安全法加强了对科技产品和互联网的限制，包括强推实名制，网络服务商必须为国家安全部门和公安部门提供技术支持（可能包括解密加密信息），个人信息必须储存在中国境内，关键基础设施运营商采购的网络产品和服务必须接受国家安全审查（外资公司担忧需要披露和审查源代码），特殊时刻可断网，政府可以采取技术措施去阻断被认为非法信息的传播。网络安全法包含了很多模糊的措辞和术语也引发了众多外国企业的<a href="http://www.solidot.org/story?sid=52534" target="_blank"><u>担忧</u></a>。
+➜Facebook 批评德国针对社交媒体的新法律
+https://www.solidot.org/story?sid=52593	33829
+德国在今 3 月<a href="http://www.solidot.org/story?sid=51694" target="_blank"><u>提议制定一项新法律</u></a>，要求社交网站如 Facebook 迅速删除仇恨言论和假新闻，否则将面临最高 5000 万欧元的罚款。德国内阁上个月批准了这项计划，新的法律将被称为“Network Enforcement Act”。Facebook 对此<a href="http://www.businessinsider.com/facebook-says-germany-fake-news-plans-comply-with-eu-law-2017-5" target="_blank">提出了批评</a>，认为新法律可能会导致社交媒体公司删除合法内容。社交巨人在一份声明中称认为该法律并不适合打击仇恨言论和假新闻，面临巨额罚款的社交媒体公司可能会有动机去删除合法的内容。
+➜Shadow Brokers 公布 2.1 万美元的 0day 订阅服务
+https://www.solidot.org/story?sid=52594	35586
+神秘黑客组织 Shadow Brokers <a href="https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-june-2017" target="_blank"><u>宣布</u></a>将向支付 2.1 万美元 0day 订阅服务的个人公布最新一批的 NSA 工具，这一声明给全世界的白帽子黑客或安全研究人员<a href="https://arstechnica.com/security/2017/05/new-shadow-brokers-0day-subscription-forces-high-risk-gamble-on-whitehats/" target="_blank"><u>造成了一场伦理危机</u></a>。一方面，Shadow Brokers 此前释出过创造出勒索软件 WannaCry 的 NSA 工具，如果这次它公布了 Windows 10 或主流浏览器的 0day 漏洞，安全研究人员需要尽可能快的访问这些代码以及时发布补丁修复漏洞防止类似的攻击发生。另一方面，付钱给 Shadow Brokers 这样组织是不道德的，虽然 2.1 万美元并不是很高的价格。Hacker House 的联合创始人 Matthew Hickey 认为，付钱相当于发出了支持犯罪行为的错误信息。Shadow Brokers 使用的付费方式不是比特币，而是匿名数字货币零币（<pangu> </pangu><a href="https://z.cash/">Zcash</a>），这种数字货币难以跟踪，订阅者需要支付相当于 2.1 万美元 的 100 零币。
+➜来自埃及木乃伊的基因组分析
+https://www.solidot.org/story?sid=52595	42602
+一个国际科学家团队<a href="https://www.mpg.de/11317890/genome-ancient-egyptian-mummies" target="_blank"><u>成功获取和分析了古埃及木乃伊的 DNA</u></a>，这些木乃伊生活在公元前 1400 年到 公元 400 年之间。科学家发现，今天的埃及人与撒哈拉沙漠以南非洲人的亲缘关系高于古埃及人，而古埃及人与生活在近东的古人关系更密切。研究人员从 151 具木乃伊上取样，恢复了 90 个人的线粒体基因组。埃及在历史上多次被外族征服，通过对比古代和现代居民的 DNA ，研究人员想知道这些征服如何在基因层面对当地人口产生影响。研究发现，古埃及人更接近古黎凡特人。
+➜CRISPR 技术可能会产生大量不希望的突变
+https://www.solidot.org/story?sid=52596	43616
+新科学家<a href="https://www.newscientist.com/article/2133027-crispr-causes-many-unwanted-mutations-small-study-suggests/" target="_blank"><u>报道</u></a>，对小鼠的研究显示，CRISPR 基因编辑技术可能会产生大量不想要的突变。基因编辑的想法是改变细胞基因组中某个单一的 DNA 序列，而不触及其他的基因组序列。实际上，每个基因编辑方法有时候都会导致不希望的改变。如果不希望改变的基因比率较低，这并不是什么问题，因为大多数突变都没有影响。但一些特定的基因变异却会导致癌症，CRIPSR 技术的安全性取决于它产生的脱靶变异宾律有多高。如果说 CRISPR 技术存在不希望的突变，大多数研究发现的突变都很少。哥伦比亚大学医学中心的 Stephen Tsang 和团队利用一个更加广泛的方法，测序两只经过 CRISPR 技术编辑的小鼠的基因，并将其与未经过基因编辑的控制组进行对照。他们通过这种方法在两只基因修饰小鼠中鉴定出超过 1000 个普通基因突变，<a href="http://news.sciencenet.cn/htmlnews/2017/5/377813.shtm" target="_blank"><u>并认为这是由 CRISPR 技术导致的</u></a>。
+➜四川多个比特币矿场关闭迁移
+https://www.solidot.org/story?sid=52597	45713
+在媒体广泛关注之后，建在四川水电站内的多个比特币矿场关闭迁移。在关闭之前，政府派人进行了检查，但并没有发现什么违法活动。这些比特币矿场利用弃水电量（也就是不用白白浪费的发电量）挖比特币，每个月要给水电站缴 100 多万元的电费，它们的关闭导致水电站损失了一大笔钱。矿工们拒绝透露搬迁的真正原因，媒体推测与监管相关，比特币挖矿被认为处于监管空白，<a href="http://www.nbd.com.cn/articles/2017-05-30/1111957.html" target="_blank"><u>报道称：</u></a>“比特币矿工们是个联系紧密的群体，知道同行的情况后，全国各地的比特币矿场多对媒体全线封闭，处处低调行事。”
+➜忘记密码能否作为有效的辩词？
+https://www.solidot.org/story?sid=52598	47607
+电子设备已经是我们生活的一部分，它储存了大量的私人信息，其中的一些信息可能会作为证据指控我们。一个疑问是，如果警方要求你交出密码，<a href="https://arstechnica.com/tech-policy/2017/05/jail-looms-large-for-suspects-ordered-to-reveal-forgotten-passwords/#p3" target="_blank"><u>你是否以忘记密码为由拒绝提供</u></a>？本周美国审判的两起案件<a href="http://www.miamiherald.com/news/local/community/broward/article153373524.html" target="_blank"><u>给出了先例</u></a>：但一位法官表达了支持，另一位给予了惩罚。41 岁的 Christopher Wheeler 因为拒绝向警方提供 iPhone 密码而被判入狱 180 天，他受到了虐待儿童的指控，他向警方提供了密码，但密码不正确，他发誓给了密码。另一位被告 Wesley Victor 则被控和他的女友利用窃取的色情录像敲诈一位 Snapchat 名人。他声称忘记了手机密码，法官认为没有办法证明他是否真的忘了密码，毕竟过了近一年了。法官没有给予他任何惩罚。<br>

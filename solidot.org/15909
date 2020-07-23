@@ -1,0 +1,64 @@
+➜Google占据北美网络流量的四分之一
+https://www.solidot.org/story?sid=35695	4682
+<a href="http://www.igghh.com/">www.igghh.com</a> 写道 <i>"连线的的<a href="http://www.wired.com/wiredenterprise/2013/07/google-internet-traffic" target="_blank">一篇文章</a>称Google正在变得无孔不入，所有通过北美ISP的流量中有25%与Google直接相关，比Facebook, Netflix, 和 Instagram加起来还要多。根据<a href="http://www.deepfield.net/2013/07/google-sets-new-internet-record/" target="_blank">DeepField</a>的统计，62%的互联网终端每天至少连接Google的服务器一次，既包括主动使用Youtube等服务，也包括被动向Google Analytics等发送数据。Google在全球四大洲均有<a href="http://www.google.com/about/datacenters/inside/locations/index.html" target="_blank">数据中心</a>，并且全球主要ISP都有<a href="https://peering.google.com/about/faq.html" target="_blank">Google Global Cache（GGC）节点</a>。GCC存储最热门的Youtube视频，Android应用等，提高网页加载速度。过去Google热衷于建立数据中心，现在Google不仅仅有数据中心，还将无数服务器节点嵌入互联网的每一个角落。"</i>
+➜苹果开发者网站下线或与Struts 2漏洞有关
+https://www.solidot.org/story?sid=35696	11844
+<a target="_blank" href="https://developer.apple.com/"><u>苹果开发者网站</u></a>因为<a target="_blank" href="http://www.solidot.org/story?sid=35679"><u>黑客攻击</u></a>下线了五天，此次入侵被认为可能与Struts 2漏洞有关。Struts是开发Web应用的Java开发框架，开发者于7月17日<a target="_blank" href="http://struts.apache.org/release/2.3.x/docs/s2-016.html"><u>发布了</u></a>安全更新<a target="_blank" href="http://struts.apache.org/download.cgi#struts23151"><u>2.3.15.1</u></a>，修复了一个远程执行命令的高危漏洞，开发者表示针对该漏洞的攻击代码已出现。Struts 2在国内也被大量使用，因此淘宝，国家电网、浦发银行信用卡服务中心、中国银行等网站被报告受到该漏洞影响，淘宝还传出被拖库——即数据库数据被窃取，但淘宝予以否认，<a target="_blank" href="http://companies.caixin.com/2013-07-22/100559160.html"><u>声称已经修复了漏洞</u></a>。
+➜计算机识别出狼的“声音指纹”
+https://www.solidot.org/story?sid=35697	12565
+野狼的嚎叫各有不同，发表在《Bioacoustics》上的<a target="_blank" href="http://www.tandfonline.com/doi/full/10.1080/09524622.2013.817317#.Ue33GW1GOAV"><u>一篇论文</u></a>称，利用计算机软件分析狼叫，可以以100%精度分辨狼的个体。英国诺丁汉大学研究人员<a target="_blank" href="http://www.tandfonline.com/doi/pdf/10.1080/09524622.2013.817317"><u>开发的软件</u></a>（PDF）不仅可以分析狼叫的音频，也可以分析狼叫的音量。野狼通过各自不同特征的嚎叫来保护自己的地盘，或召唤同群的伙伴。科学家应用这个软件对从加拿大Algonquin 野生动物保护区搜集的狼嚎录音进行分析。结果，对单个狼叫的准确率达到100%。<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2013/07/130722_scinece_wolf_howl.shtml"><u>这意味着</u></a>，如果你在夜晚听到了狼嚎声，就可以确定以后再听到的狼嚎是否是同一只狼。
+➜中国黑客利用0day漏洞攻击宗教和军事机构
+https://www.solidot.org/story?sid=35698	14925
+安全公司AlienVault Labs<a target="_blank" href="http://www.techweekeurope.co.uk/news/china-zero-day-malware-attacks-falun-gong-philippines-122508?ModPagespeed=noscript"><u>透露</u></a>，中国黑客利用微软软件的0day漏洞对法轮功和菲律宾军方发动钓鱼攻击。黑客向法轮功支持者发送伪装求助信，内容类似“We are Falun Gong/Dafa (you may hear about it, it is our religion) practicers（原文如此）, persecuted by the Chinese government”。如果受害者点击了附件，恶意程序将利用Microsoft Word的漏洞安装远程访问工具和密码窃取工具，窃取Outlook登录信息和访问邮件内容。如果恶意程序探测到杀毒软件如卡巴斯基、迈克菲，趋势，江民，金山和腾讯，它能表现出不同的行为。一封日期为2013年5月16日的钓鱼邮件发送给了菲律宾空军总部的工作人员，内容是关于最近发生的一起直升机坠毁事件。AlienVault在分析了命令控制服务器IP地址，注册的域名和代码后认为幕后攻击者是中国的黑客。<br>
+➜Canonical寻求集资3200万美元制造智能手机Ubuntu Edge
+https://www.solidot.org/story?sid=35699	17585
+<div align="center"><img src="http://img.solidot.com.cn/0/565/liKgrjHXZmBy2.jpg" align="" height="282" width="360"><br>
+</div>
+<br>
+Canonical在大众融资平台indiegogo上发起了一项高达<a target="_blank" href="http://www.indiegogo.com/projects/ubuntu-edge"><u>3200万美元</u></a>的Ubuntu Edge智能手机集资制造项目。Ubuntu Edge只限量制造4万部，其中One day版售价600美元（已售光），之后发售的版本价格提高到810美元。价格高到令人觉得荒诞的一个原因是其配置超豪华：4GB内存，128GB存储空间，4.5英寸 1280 x 720 HD显示屏，最快的多核处理器，800万像素低光后置摄像头，200万像素前置摄像头，硅阳极锂离子电池，支持 Ubuntu phone OS和Android双启动。Canonical计划在2014年5月开始交付Ubuntu Edge。目前该项目已集资到320万，也就是目标的十分之一已经达成。
+➜迪士尼演示2D照片生成高清3D模型算法
+https://www.solidot.org/story?sid=35700	24888
+<center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Vf12mepOqNY?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+</center>
+迪士尼研究院<a target="_blank" href="http://www.disneyresearch.com/project/lightfields"><u>开发出一种算法</u></a>，可以将2D照片生成高清3D模型。和此前的<a target="_blank" href="http://www.solidot.org/story?sid=35290"><u>3D全景技术</u></a>类似，这项技术也有十多年的历史。但迪士尼的新算法赋予了3D模型更多的细节，能计算每个像素的深度，足以满足视频游戏和电影制作的需要。它的3D模型仍然受限于原始2D照片提供的视觉信息，不能自动填充数据。
+➜PIN码破解机器人将在Defcon上亮相
+https://www.solidot.org/story?sid=35701	25937
+破解智能手机的四位数PIN码并不难，只要尝试1万种组合就行了，但要用手指一个个按显然不是一种可行的方法，因此黑客创造出了手指形状的机器人，简化整个破解过程，让机器人替你一个个尝试PIN码组合暴力破解，它能在20小时内破解一部Android手机。安全研究员Justin Engler和Paul Vines计划在 Defcon上<a target="_blank" href="http://www.forbes.com/sites/andygreenberg/2013/07/22/pin-punching-robot-can-crack-your-phones-security-code-in-less-than-24-hours/"><u>展示</u></a>他们开发的廉价PIN码破解机器人R2B2。R2B2的硬件成本大约为200美元，部分零件使用了3D打印机打印，它配备了Web摄像头去检测是否正确猜出PIN码。R2B2通过USB连接到运行简单破解程序的Mac或Windows PC进行控制。并不是所有手机都容易被R2B2暴力破解，例如苹果的iPhone在输入错误的PIN码后需要等待一些时间才能再次输入，多次输入错误后会锁住数小时。
+➜亚马逊的.Amazon顶级域名申请暂时遭拒
+https://www.solidot.org/story?sid=35702	28035
+ICANN的政府咨询委员会（GAC）上周发表<a target="_blank" href="http://durban47.icann.org/meetings/durban2013/presentation-gac-communique-18jul13-en.pdf"><u>建议</u></a>（PDF），认为.amazon<a target="_blank" href="http://cn.nytimes.com/business/20130722/c22amazon/"><u>不应被批准</u></a>作为通用顶级域名，.spa，.yuan，.广州，.深圳，.indians，.wine，.vin等域名也都被暂时搁置。包括巴西、阿根廷、智利、秘鲁和乌拉圭在内的南美国家<a target="_blank" href="http://www.solidot.org/story?sid=32385"><u>反对</u></a>亚马逊的.Amazon顶级域名申请，他们在致函ICANN的信中称，“具体地说，‘amazon’是个地理名称，它代表着我们这些国家中的重要领土，那里居住着相关的社区，他们的文化和认同与这个名字直接相连。除了这些具体的原因，这也应该被理解为是一个原则问题。”亚马逊公司在一份声明中说，“我们正在仔细考虑GAC的建议，我们期待着与Icann以及其他利益相关方合作，随着程序的进展，一起来解决这些问题。”
+➜苹果开发大屏智能手机和平板
+https://www.solidot.org/story?sid=35703	28641
+《华尔街日报》引用苹果供应商内部人士的话<a target="_blank" href="http://cn.wsj.com/gb/20130722/tec141512.asp"><u>报导</u></a>，苹果正在为其智能手机和平板电脑测试更大的屏幕，以回应日渐加剧的有关其产品线以及三星电子的竞争的担忧。苹果最近几个月定制了比目前iPhone尺寸更大的智能手机原型机的屏幕，并要求为尺寸略低于13英寸的新款平板电脑进行屏幕设计。这些设计是否会成功进入市场还不清楚，但这可能意味着苹果将推出比目前的4英寸屏幕iPhone 5和9.7英寸iPad尺寸更大的手机和平板电脑。苹果在想办法将消费者的兴趣从竞争对手推出的不同尺寸智能手机和平板电脑上吸引过来。苹果在平板电脑和智能手机市场最大的竞争对手三星提供功能和尺寸各异的产品。
+➜X染色体或部分决定男性的生育能力
+https://www.solidot.org/story?sid=35704	31838
+每一位伟大的男人背后都有一位伟大的女人。而每一个精子后面也可能都有一个X染色体基因。研究人员以前认为，在人类中Y染色体让男人成为男人，它包含了负责性别决定、男性发育和生育能力的基因。但根据发表在《Nature Genetics》上的<a target="_blank" href="http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.2705.html"><u>最新研究报告</u></a>，研究人员发现“女性染色体”X可能在生育能力上起着重要作用，它包含了大量只在发育成精子的组织中活跃的基因。这项发现动摇了我们关于性染色体如何影响性别的想法，暗示X染色体在演化中<a target="_blank" href="http://news.sciencemag.org/sciencenow/2013/07/female-chromosome-may-leave-a-ma.html"><u>至少起着部分能动作用</u></a>。
+➜狗的模仿能力堪比人类和猩猩
+https://www.solidot.org/story?sid=35705	32985
+<center>
+<object seamlesstabbing="undefined" class="BrightcoveExperience" id="myExperience2555548325001" data="http://c.brightcove.com/services/viewer/federated_f9?&amp;width=320&amp;height=250&amp;flashID=myExperience2555548325001&amp;bgcolor=%23FFFFFF&amp;playerID=614958745001&amp;playerKey=AQ~~%2CAAAADFlexpk~%2CloqkjB2yVJxZQOYgHHvPaY0JnZAYG4d7&amp;isVid=true&amp;dynamicStreaming=true&amp;%40videoPlayer=2555548325001&amp;autoStart=&amp;debuggerID=&amp;startTime=1374569629510" type="application/x-shockwave-flash" height="250" width="320"><param value="always" name="allowScriptAccess"><param value="true" name="allowFullScreen"><param value="false" name="seamlessTabbing"><param value="true" name="swliveconnect"><param value="window" name="wmode"><param value="high" name="quality"><param value="#FFFFFF" name="bgcolor"></object>
+</center>
+下次你看到狗狗在后院挖洞，不要去惩罚它，它只是在模仿你。根据发表在《Animal Cognition》上的<a target="_blank" href="http://link.springer.com/article/10.1007/s10071-013-0656-5"><u>研究报告</u></a>，人类最好的朋友能在动作示范最长10分钟后<a target="_blank" href="http://news.sciencemag.org/sciencenow/2013/07/your-dog-is-a-copycat.html"><u>模仿人类的行为</u></a>，这种模仿能力对智力要求很高，此前被认为只存在于人类和猩猩中。在实验中，研究人员测试了8只成年狗，它们都完成了18次测试，几乎都能得到满分，六只狗犯了一次错误，一只犯了两次，还有一只犯了六次。统计结果非常有说服力。
+➜致命的山寨iPhone充电器
+https://www.solidot.org/story?sid=35706	35405
+一周多前，有<a target="_blank" href="http://www.solidot.org/story?sid=35597"><u>报道</u></a>称南方航空空姐马爱伦使用正在充电的苹果iPhone 5接电话时，遭电击身亡，根据目前所了解的情况，罪魁祸首应该是一个第三方iPhone充电器。上周五，中国又出现了一例与iPhone有关的触电事故，同样也是因为第三方充电器以及接触不良的壁式插座。为什么<a target="_blank" href="http://www.fortunechina.com/column/c/2013-07/23/content_167315.htm"><u>山寨iPhone充电器致命</u></a>？工程师肯•谢里夫<a target="_blank" href="http://www.righto.com/2012/05/apple-iphone-charger-teardown-quality.html"><u>解释说</u></a>（<a target="_blank" href="http://tech.sina.com.cn/mobile/n/apple/2013-07-18/11468552326.shtml"><u>中文翻译</u></a>），“充电器中有340伏直流电，足以致命。在廉价充电器中，输出端与340伏元件之间的距离可能不到1毫米，远小于推荐的安全距离。在某些情况下，充电器可能发生输出短路，这导致通过USB线输出较高的电压。如果用户靠近，例如用手触摸接地的金属表面，那么触电完全可能发生。而在潮湿的环境下，例如浴室中，这样的短路更容易发生。”
+➜为拯救物种动物园将尝试姐弟交配
+https://www.solidot.org/story?sid=35707	39571
+生活在东南亚地区的<a target="_blank" href="http://zh.wikipedia.org/wiki/%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E7%8A%80%E7%89%9B"><u>苏门答腊犀牛</u></a>已濒临灭绝，野生苏门犀数量已经自1980年代中期以来锐减90%，目前可能仅仅只剩下100头左右。为了拯救这一物种，辛辛那提动物园将希望<a target="_blank" href="http://www.sfgate.com/news/science/article/APNewsBreak-Ohio-zoo-tries-to-mate-rhino-siblings-4677623.php"><u>寄托于姐弟交配</u></a>，试图让孤独的8岁雌性苏门犀Suci与6岁的小弟Harapan交配繁殖后代。动物园濒危野生动物研究中心主管Terri Roth说，他们需要尽可能快的增加苏门犀种群数量。人工繁殖计划批评者称，这么做有害无益，会导致后代难以在野外生存，后代也可能会出现遗传问题。
+➜英国首相许诺默认屏蔽色情
+https://www.solidot.org/story?sid=35708	40899
+英国首相卡梅伦（David Cameron）<a target="_blank" href="http://www.techweekeurope.co.uk/comment/comment-networking/uk-isps-will-have-to-block-porn-122524"><u>承诺</u></a>，英国ISP提供的网络接入服务将被要求默认过滤色情。卡梅伦发表声明说，在互联网的阴暗角落，有些东西会直接危害到我们的孩子，必须将其消灭。根据新的规定，所有新用户和现用户的网络连接将自动切换到成人内容过滤器，用户可以联系ISP要求关闭过滤器。此外，搜索引擎也被要求在10月前引入新措施屏蔽非法内容。政府还计划在用户访问这些内容时弹出警告框。ISP多对屏蔽色情计划表示反对，认为不会起到什么作用。
+➜五百万年前南极冰盖融化导致海平面上升20米
+https://www.solidot.org/story?sid=35709	41015
+随着全球温度持续升高，科学家一直担心南极冰盖的融化可能会导致海平面上升，淹没沿海地区。此类的未来水世界现象<a target="_blank" href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo1889.html"><u>并非没有先例</u></a>。根据发表在《Nature Geoscience》上的<a target="_blank" href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo1889.html"><u>报告</u></a>，研究人员发现有证据显示，五百万年的全球变暖可能致使部分南极洲冰盖融化，导致全球海平面上升约20米。<br>
+<br>
+➜Fedora开发者提议Fedora转向层次化敏捷开发
+https://www.solidot.org/story?sid=35710	44564
+<div align="center"><img src="http://img.solidot.com.cn/0/566/liNepTFURDJ6.jpg" align="" height="186" width="200"><br>
+<br>
+<div align="left">Fedora云架构师Matthew Mill<a target="_blank" href="https://lists.fedoraproject.org/pipermail/devel/2013-July/186323.html"><u>提出了一项计划</u></a>（<a target="_blank" href="http://mattdm.org/fedora/next/"><u>幻灯演示</u></a>），重新设计Fedora发行版的构建方式。他提议重组Fedora包含的软件包和上游项目构成方式，让Fedora由一系列环组成，每个环都有各自的发布和打包要求，他希望将敏捷设计引入到发行版中。最核心的部分可以被称为Fedora Core，由环0和环1构成，环2则是堆栈和桌面环境，环3是应用程序。Fedora开发者邮件列表正在讨论这项冠名为Fedora.Next的敏捷开发计划。</div>
+</div>
+➜GSK内部审计发现在华研发中心存在伦理问题
+https://www.solidot.org/story?sid=35711	46039
+根据《纽约时报》获得的机密内部审计报告，葛兰素史克公司（GSK）发现该公司中国药物研发中心<a target="_blank" href="http://cn.nytimes.com/business/20130723/c23drug/"><u>存在严重操作不当</u></a>。审计人员发现，有一种药物已在进行人体测试，研究人员却并未报告其动物试验结果，这一违规行为被一名医学伦理学家称为药品研究领域的“弥天大罪”。审计人员还得出结论，该研发中心的雇员并未适当地监测临床试验，并且以可以被视为行贿的方式向医院付钱。根据审计报告，该中心发展迅速，雇员从2007年的一名扩大到了2011年的460名。但审计人员发现，随着它的增长，管理人员并不总是能确保工作的高水准。伦理学家称，动物研究可以指明安全风险，是制药公司决定是否继续进行人体测试的主要依据之一。审计人员发现，GSK雇员未能记录研究参与者是否在临床试验过程中签了新的同意表格，没有记录参与者是否服用了计划剂量的药物，也没有记录他们是否在发现参与者不遵守临床试验规定的情况下进行了跟进。在华研发中心负责人今年初因为论文数据造假而<a target="_blank" href="http://www.solidot.org/story?sid=35136"><u>被解雇</u></a>。

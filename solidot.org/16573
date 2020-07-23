@@ -1,0 +1,45 @@
+➜Yum已死，DNF万岁
+https://www.solidot.org/story?sid=44102	15063
+Linux发行版Fedora的最新版本Fedora 22将抛弃Yum包管理器，替代之DNF，原因是Yum已被认为<a target="_blank" href="http://dnf.baseurl.org/2015/05/11/yum-is-dead-long-live-dnf/"><u>是一个死亡的项目</u></a>。Yum有三大缺陷：无文件描述的API，坏掉的依赖解决算法，无力重构内部功能。而第三个问题与第一个问题息息相关。DNF是Yum的一个分支，致力于避免这些问题。DNF能运行在 Python 2 和Python 3上，也能与Yum在系统中共存。用户仍然可以下载Yum包，但Yum可执行文件会被重命名为 yum-deprecated。
+➜英国悄悄重写黑客法律赋予GCHQ豁免权
+https://www.solidot.org/story?sid=44103	16254
+英国政府<a target="_blank" href="http://arstechnica.co.uk/tech-policy/2015/05/uk-government-quietly-rewrites-hacking-laws-to-grant-gchq-immunity/"><u>悄悄通过了一项新的法案</u></a>，赋予GCHQ、警方和其他情报官员免于因入侵计算机和手机而起诉的权利。GCHQ是NSA在大规模电子数据监视项目上的主要合作方。2014年5月，隐私国际和7家ISP联合向英国独立司法机构<span class="def"> </span>Investigatory Powers Tribunal投诉，指控 GCHQ违反计算机滥用法，存在非法黑客行为。当年6月6日，英国政府引入了新的法案赋予GCHQ豁免权。今年3月3日，法案被批准。新的法律于5月3日正式生效。隐私国际称，新的法律在正式颁布前没有经过公开的辩论。
+➜阿联酋计划2020年发射火星探测器
+https://www.solidot.org/story?sid=44104	18138
+阿联酋<a target="_blank" href="http://www.forbes.com/sites/brucedorminey/2015/05/13/uae-space-agency-finalizes-first-arab-mars-probe/"><u>宣布了</u></a>在2020年7月发射火星探测器的计划。探测器被取名为al-Amal，意思是希望，它将围绕红色星球飞行数年，分析火星大气层、观测云和沙尘暴，帮助科学家更好的理解火星上的水是如何逐渐逃逸出大气层的。希望号探测器预计将在2021年抵达火星，进入一个环绕一周需要55小时的椭圆型轨道，在22000-44000公里的海拔高度上执行为期两年的任务。
+➜售价210元人民币的智能手机
+https://www.solidot.org/story?sid=44105	19621
+嵌入式系统开发者Angus Gratton在深圳的电子商城<a target="_blank" href="http://projectgus.com/2015/05/inside-a-34-dollar-smartphone/">购买了一部仅售价210元人民币的智能手机</a>。这是一部典型的山寨手机，名字的样式拷贝了华为和小米（华米），宣传的规格也是不实的（号称八核实则是双核），但比较神奇的是它真的能正常工作，内存只有200MB，但却能运行 Android 4.4，Android 4.4的官方需求最低需要340MB 。 Gratton分析后发现它使用了一个技巧，用zram压缩内存创造出假的swap空间，而所谓的Android 4.4也是假的，实际上运行的是Android 4.0.3 Ice Cream Sandwich，但版本中的描述被修改为4.4。
+➜The Next Web主编称屏蔽广告是不道德的
+https://www.solidot.org/story?sid=44106	29803
+欧洲移动运营商正计划屏蔽其网络中传输的广告，The Next Web主编Martin Bryant就此表达了他的观点，同时抨击<a target="_blank" href="http://thenextweb.com/insider/2015/05/17/adblockers-are-immoral-and-mobile-networks-should-know-better/"><u>使用广告屏蔽软件是不道德的</u></a>。他说，在线出版商正努力使收入多元化，但展示广告提供了最基本的收入来源，乐见出版商的收入被剥夺要么展示了反社会的趋向要么是展示了对经济现实的无知。这句话相当难听，他还将使用广告屏蔽软件的用户<a target="_blank" href="http://mobile.slashdot.org/story/15/05/17/1426246/editor-in-chief-of-the-next-web-adblockers-are-immoral"><u>称为是罪人</u></a>，称广告驱动大部分的互联网，屏蔽广告将会扼杀在线声音和出版商的多样性——消费者不会喜欢看到这一结果。
+➜哈佛大学被控歧视亚裔申请人
+https://www.solidot.org/story?sid=44107	30981
+64个亚裔团体组成的联盟向美国教育部投诉，称<a target="_blank" href="http://www.nanzao.com/sc/international/14d65fbc087b201/64-ge-ya-yi-tuan-ti-kong-ha-fo-shou-sheng-qi-shi"><u>哈佛大学歧视亚裔美国申请人</u></a>，给亚裔申请者设定的录取标准高于其他族裔。根据第三方调查，亚裔学生的SAT测试得分要比白人学生高140分，比西班牙裔学生高270分，比非洲裔学生高450分才可能获得与其他种族相等的录取机会。在加州理工学院，40%的本科生是亚裔人，是哈佛的两倍。亚裔联盟寻求联邦调查，要求哈佛“立即停止通过一些成见、种族偏见和其他歧视方式评估亚裔申请者。”哈佛大学回应说，该校的录取政策“完全符合法律”，表示录取会考虑除学术外的很多因素，包括申请人的课外活动和领导质素等。联盟组织者表示，有长期成见认为亚裔申请人“不够有创意、不够有冒险精神，但这不对。将近一半的新兴科技公司由亚洲人创立，每个亚裔人都是具有创新、冒险精神和领导力的范例。”
+➜中国风电产能五分之一闲置
+https://www.solidot.org/story?sid=44108	33629
+路透社<a target="_blank" href="http://cn.reuters.com/article/2015/05/18/china-wind-power-idCNKBS0O306E20150518"><u>报道</u></a>，中国风电产能五分之一闲置，因为国有电网公司不愿意购买高价的风电。<i>得益于可再生能源扶持政策，中国风能发电量居全球之首，总装机容量超过100千兆瓦，占到全球总装机容量的四分之一。但风电发电能力已远远超过电网建设速度，对国有电网企业来说，只要利润率不如火电，它们就不愿意接入这种偏远地区的风电。电网企业采取了“弃风”举措，即放慢风电并网速度，限制风电使用。这反过来又导致风电产能浪费，以及风电投资回报下降。官方数据显示，在今年前三个月，“弃风”规模几乎较上年同期增长一倍，达到107亿千瓦时，接近中国风力发电总量的五分之一。这相当于大约350万吨煤的发电量，或中国第一季煤炭进口量的7%。
+</i>
+➜非圈子化群组为什么生产不出营养
+https://www.solidot.org/story?sid=44109	35258
+<a href="http://https://pao-pao.net/article/445">paopao</a> 写道<i> "做新媒体创新研究的阿志近日有些烦恼，因为他在微信拉了一个大型群聊，数百人的规模，据他讲“都是新媒体、互联网技术业界精英”，也包括一些急于转型的传统媒体工作者，阿志的初衷是希望集思广益，汇拢业内智识，在相关话题的交流中调动和激发创意。但事实并不如他所期待的这般美好。 “没办法，大家对专业问题发言积极性提不上来，说着说着就跑题了。说正经事就冷场，其实都在线，就是不说话，如果这时候谁发个红包，瞬间抢光”，阿志说...“群体的凝聚力”是指个性心理特征中的统一相应的整体配合效能、归属心理在意志过程中的“共同责任利益意识”的作用下而形成的一种士气状态。简单来说，就是无顾忌的积极发言、贡献智识和资讯资源，<a target="_blank" href="http://https://pao-pao.net/article/445"><u>是一种只能来自于主动的行为</u></a>。“归属心理”很好理解，就是群体认同，大致表现为人们对涉及某一特定概念的群体的认识、情感和意向的相应统一，其典型表现为人们对某社会群体及其中个体的亲近和认同。很明显，相比圈子化组合，非圈子化群体在此方面是薄弱的。
+"</i>
+➜北京开征充电服务费
+https://www.solidot.org/story?sid=44110	37831
+北京发改委以促进电动汽车推广的名义宣布<a href="http://www.bjpc.gov.cn/tztg/201505/t9040414.htm"><u>开征充电服务费</u></a>，从6月1日开始执行，每度电收费上限为92号汽油每升最高零售价的15%。电动汽车充的电本来就需要收费，而服务费某种程度上被认为相当于另一层的税。这一政策意味着使用电动汽车的成本将会上升。 《中国经营报》<a target="_blank" href="http://www.cb.com.cn/index.php?m=content&amp;c=index&amp;a=show&amp;catid=22&amp;id=1131797&amp;all"><u>报道称</u></a>，部分车主已经表示要延缓或放弃购买新能源汽车，转向传统汽车。北京市政府专家顾问、清华大学汽车工程系教授任宋健表示：“像其他一切新兴产业一样，充电桩行业也需要政策约束。加收服务费实际是在对行业进行规范的同时向消费者明确收费明细，此项费用的性质也并不是‘加收’，而是让费用透明化。”
+➜荷兰城市将抗洪变成新的发展机遇
+https://www.solidot.org/story?sid=44111	40937
+<div align="center"><img src="http://img.solidot.com.cn/0/729/liAaVc0prHSkg.png" align="" height="370" width="480"><br>
+<br>
+</div>
+荷兰最古老的城市奈梅亨（Nijmegen）坐落于瓦尔河(River Waal)河畔，多年来饱受洪涝灾害的影响。该市拥抱庞大的抗洪项目并不出人意料。但<a target="_blank" href="http://www.citylab.com/design/2015/05/a-dutch-city-makes-room-for-its-river-and-a-new-identity/393404/"><u>它采用了一种不同寻常的、值得其它沿河城市学习的方法</u></a>。首先是奈梅亨没有简单的提升或加固堤坝，而是让部分堤坝后退，创造一个更大的泛滥平原，他们开凿出新的河道，让未来的洪水有更多的流动空间。其次是伴生的工程项目，开凿出新河道的同时他们在瓦尔河的中间建造了一座新岛屿，让它成为市区的一部分，他们建造了四座桥梁去连接新的岛屿。市中心成为真正的市中心。
+➜蚂蚁使用颚将自己弹射出死亡陷阱
+https://www.solidot.org/story?sid=44112	42609
+<center>
+<iframe src="https://www.youtube.com/embed/ET4v48deZhs" allowfullscreen="" frameborder="0" height="300" width="480"></iframe><br>
+<br>
+</center>
+齿猛蚁以其强有力的颚闻名于昆虫王国。根据发布在PLOS ONE一项<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124871"><u>最新研究</u></a>，研究人员发现齿猛蚁还会以一种不可思议的方法使用它的大颚——<a target="_blank" href="http://arstechnica.com/science/2015/05/ants-use-jaws-to-catapult-themselves-out-of-death-traps/"><u>将自己弹射出捕食者设置的死亡陷阱</u></a>。研究人员发现，齿猛蚁快速将嘴张开到180度然后收缩回来，像弹簧一样将自己弹射出去（如视频所示），其飞行时速能达到惊人的225公里。研究人员的沙地陷阱实验显示，齿猛蚁有时也会适得其反，将自己弹进到陷阱深处。
+➜解码中本聪之谜
+https://www.solidot.org/story?sid=44113	45703
+去年《新闻周刊》刊登了一篇<a target="_blank" href="http://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html"><u>封面报道</u></a>，宣称比特币创始人就是住在洛杉矶郊区的失业工程师中本聪。这很快被证明是错误的。中本聪之谜仍然在继续。中本聪究竟是谁？Nathaniel Popper在《纽约时报》上发表<a target="_blank" href="http://www.nytimes.com/2015/05/17/business/decoding-the-enigma-of-satoshi-nakamoto-and-the-birth-of-bitcoin.html"><u>文章</u></a>称，中本聪的一个候选人是匈牙利籍美国人Nick Szabo。Szabo本人当然对此坚决予以否认，但承认他和许多人一起帮助奠定了比特币的基础。Szabo是松散的数字隐私社区Cypherpunks的成员，他最瞩目的工作是创造了比特币的前任 <a target="_blank" href="http://unenumerated.blogspot.com/2005/12/bit-gold.html"><u>bit gold</u></a> 。Cypherpunks奠定了比特币核心概念——英国研究员Adam Back创造了比特币核心的hashcash算法，一位叫Wei Dai的工程师创造了b money。对比特币的未来而言，创始人的身份其实已不再重要。中本聪从2011年起就停止参与比特币项目，比特币的大部分开源代码已被一群身份公开的程序员重写了。中本聪有很多理由保持匿名，一个原因可能是面临的威胁。他一个人在比特币诞生的第一年挖掘出了大约100万枚比特币，按照今天的价格，价值约有2.4亿美元。他很容易成为一个目标。

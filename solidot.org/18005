@@ -1,0 +1,49 @@
+➜Ubuntu 19.04 Disco Dingo 发布
+https://www.solidot.org/story?sid=60308	11320
+Canonical 宣布释出 <a href="https://wiki.ubuntu.com/DiscoDingo/ReleaseNotes" target="_blank"><u>Ubuntu 19.04“Disco Dingo”</u></a>，同时发布的还有各个衍生版本，其中包括专为中国用户打造的<a href="http://www.ubuntukylin.com/news/shownews.php?lang=cn&amp;id=921"><u>优麒麟</u></a>。Disco Dingo 不是长期支持版本，仅支持到 2020 年 1 月，但它为下一个长期支持版本打好了基础。Ubuntu 19.04 的新特性包括：桌面环境 GNOME 3.32，引入了新的视觉体验，更高的帧率，更流畅的启动动画，更快的图标加载，减少了 CPU+GPU 负荷， X-org 和 Wayland 支持 HiDPI 显示屏的分数缩放。其它变化包括内核升级到 Linux 5.0，QEMU 3.1、libvirt 5.0、glibc 2.29、OpenJDK 11、boost 1.67、rustc 1.31、GCC 8.3、可选 GCC 9，默认 Python 3.7.3 等等。中国的优麒麟则还有搜狗拼音输入法 Linux 版和金山 WPS 等。
+➜OpenSSH 8.0 发布
+https://www.solidot.org/story?sid=60309	14214
+流行的远程访问和管理工具 OpenSSH <a href="http://www.openssh.com/txt/release-8.0"><u>释出了 8.0 版本</u></a>，新版本包含了众多新特性和 bug 修复。其中安全相关的变化包括 scp(1)工具和协议(CVE-2019-6111)弱点的缓解措施：从一个远程系统向本地目录拷贝文件时，scp(1)没有验证服务器发送的文件名是否就是客户请求的，这允许恶意的服务器利用其控制的内容创建用户不想要的本地文件。OpenSSH 8.0 加入了客户端的文件名检查。开发者称 scp  协议已经过时，没有准备好修复，他们推荐用户使用更现代的协议如 sftp 和 rsync 用于文件传输。
+➜Windows 8 应用停止更新提前到 7 月 1 日
+https://www.solidot.org/story?sid=60310	15238
+去年 8 月，微软官方博客<a href="https://www.solidot.org/story?sid=57646"><u>宣布</u></a>： 2019 年 7 月 1 日微软将停止更新 Windows Phone 8 应用，到 2023 年 7 月 1 日微软就将停止更新 Windows 8 商店应用。微软最近更新了它的<a href="https://blogs.windows.com/buildingapps/2018/08/20/important-dates-regarding-apps-with-windows-phone-8-x-and-earlier-and-windows-8-8-1-packages-submitted-to-microsoft-store/"><u>博客文章</u></a>，将Windows 8 应用停止更新时间提前到 7 月 1 日，与 Windows Phone 8 相同，而 Windows 8.1 应用停止更新时间则仍然是此前宣布的 2023 年 7 月 1 日。
+➜英国研究发现宠物犬有助于健身
+https://www.solidot.org/story?sid=60311	16215
+英国研究人员的一项研究<a href="http://news.sciencenet.cn/htmlnews/2019/4/425400.shtm"><u>发现</u></a>，养狗人士达到健康指南推荐活动量的可能性估计为不养狗成年人的 4 倍。研究结果突出了狗在帮助人类保持健康方面的潜在作用。<a href="https://www.nature.com/articles/s41598-019-41254-6" target="_blank"><u>研究报告</u></a>发表在《Scientific Reports》期刊上。健康指南建议，成年人每周至少应进行 150 分钟中等至高强度的身体活动。利物浦大学的研究人员对英国西柴郡 385 个家庭（191 名养狗成年人、455 名不养狗成年人、46 名儿童）自我报告的身体活动进行了评估。结果显示，养狗人士的散步频率比不养狗人士更高、散步时间也更长。此外，该群体将遛狗作为其他身体活动的补充，而非替代。
+=
+➜Google 开始向欧盟用户提供可选的浏览器和搜索引擎
+https://www.solidot.org/story?sid=60312	18613
+为遵守欧盟的反垄断裁决，<a href="https://www.bloomberg.com/news/articles/2019-04-18/google-offers-europeans-choice-to-download-rival-web-browsers"><u>Google</u></a> 宣布从周四开始为欧盟 Android 手机用户提供可选的浏览器和搜索应用。在软件更新之后，欧盟用户打开 Google Play 应用商店将会看到替代的浏览器和搜索应用。Google 称，替代选项在不同市场存在差异。微软的 Bing 和挪威的 Opera 是 Google 在欧洲的主要竞争对手。欧盟去年就 Google 滥用 Android 市场垄断地位而开出了 43 亿欧元的罚单，欧盟要求 Google 改变做法否则将会面临额外的罚款。由捷克搜索引擎 Seznam.cz 和甲骨文公司等组建的 FairSearch 组织则认为 Google 的做法不够，没有真正解决问题。
+➜FCC 主席提议禁止中国电信公司进入美国市场
+https://www.solidot.org/story?sid=60313	18829
+美国联邦通信委员会（FCC）主席 Ajit Pai <a href="https://cn.nytimes.com/business/20190418/fcc-china-mobile-block/"><u>表示</u></a>，出于安全考虑，他将否决中国移动向美国公民提供手机服务的申请，这降低了该公司进入美国市场的可能性，他在声明中称，“很显然，中国移动申请在我国提供电信服务会引发切实的、严重的国家安全和执法风险。”他表示，委员会将在 5 月就提议予以表决。这一否决加剧了美国对中国在科技和电信行业扩大影响力的斗争。中国移动是世界上最大的手机运营商之一，它在 2011 年提交了连通美国及其他国家通话的许可申请。该公司未寻求提供美国国内手机服务，在美国与 AT&amp;T 和 Verizon 这样的企业展开竞争。但中国移动连接美国公民与海外通话的能力仍令 FCC 感到担忧。
+➜科学家发现不会变胖的基因突变
+https://www.solidot.org/story?sid=60314	25328
+剑桥大学的一项新研究<a href="http://www.ebiotrade.com/newsf/2019-4/2019418160817114.htm"><u>表明</u></a>，英国约有四百万人携带能保护他们免受肥胖，2 型糖尿病和心脏病困扰的遗传变异。多年来科学家们已经知道基因可以影响一个人的体重。在调节体重中起关键作用的基因之一是 MC4R，它编码的是黑皮质素 4 受体。这种受体就像大脑中的开关，可以抑制食欲。如果体内这种受体出现了突变，那么就会很人容易增加体重。在最新的一项研究中，研究人员发现 MC4R 基因其它可以增加这种大脑受体活性的遗传突变，可以让人体不会超重，这一新发现将有助于新药去 “拷贝” 这种遗传突变，以达到或保持减肥的效果。<a href="https://www.cell.com/cell/pdf/S0092-8674(19)30345-9.pdf" target="_blank"><u>研究报告</u></a>（PDF）发表在《Cell》期刊上。
+➜King Arthur's Gold 开源
+https://www.solidot.org/story?sid=60315	26644
+2D 物理和合作建造独立游戏《King Arthur's Gold》<a href="https://steamcommunity.com/games/219830/announcements/detail/1654419750107816065"><u>宣布</u></a>免费并公开源代码，<a href="https://github.com/transhumandesign/kag-base"><u>源代码</u></a>托管在 GitHub 上。《<a href="https://store.steampowered.com/app/219830/King_Arthurs_Gold/"><u>King Arthur's Gold</u></a>》混合了失落的维京人的合作元素，加上了百战天虫中可完全摧毁地形的能力以及合金弹头系列里的视觉效果和动作元素。免费玩家限制了定制性，但可以通过购买 DLC 或  patreon 捐款支持解锁所有定制选项。
+➜NASA 卫星发现其第一颗类地行星
+https://www.solidot.org/story?sid=60316	27642
+NASA 的凌日系外行星巡天卫星（Transiting Exoplanet Survey Satellite，TESS）<a href="http://news.mit.edu/2019/tess-discovers-first-earth-sized-planet-0416"><u>发现了</u></a>它的第一颗类地行星。<a href="https://iopscience.iop.org/article/10.3847/2041-8213/ab12ed"><u>研究报告</u></a>（<a href="https://arxiv.org/abs/1901.00051"><u>预印本</u></a>）发表在《Astrophysical Journal Letters》期刊上。新发现的类地行星围绕恒星 HD 21749 运动，这颗恒星距离地球 52 光年。HD 21749 有两颗行星，另一颗是类海王星，公转一周 36 天。类地行星 HD 21749c 是一颗岩石行星，但不适宜居住，公转一周 7.8 天，表面温度可能高达 800 摄氏度。这项发现证明 TESS 能识别临近恒星的小型行星。
+➜BGP 路由表即将突破 768k，可能会引发网络故障
+https://www.solidot.org/story?sid=60317	28509
+768k 日<a href="https://www.zdnet.com/article/some-internet-outages-predicted-for-the-coming-month-as-768k-day-approaches/"><u>即将临近</u></a>，它有可能会导致部分网络发生故障，但不用恐慌，你也可能会很幸运的体验不到任何问题。768k 日发源于<a href="http://www.serverspace.co.uk/blog/blog/512k-day" target="_blank"><u> 512k 日</u></a>，512k 日是指路由器耗尽了储存全球 BGP 路由表的内存，它于 2014 年 8 月 12 日到来，导致了全世界数以百计的 ISP 发生网络故障。在 512k 日来临之际，许多旧的路由器收到了紧急更新，分配了更多内存去储存 BGP 路由表，而新分配的值是 768k 或 768,000。现在 768k 的限制又要突破了。根据最新的数据，全球路由表已经达到了 767,392，无限接近 768k。网络工程师和专家预测，768k 日将会在下个月到来，但这一次应该不会发生像 2014 年那样严重的网络问题，不过小型的地区 ISP 可能会遇到问题。
+➜能 100% 防疟疾的疫苗将进行大规模临床测试
+https://www.solidot.org/story?sid=60318	32227
+一种能对疟疾提供 100% 防护的疟疾疫苗将首次在一项大规模临床试验中<a href="http://news.sciencenet.cn/htmlnews/2019/4/425402.shtm"><u>进行测试</u></a>。试验将于 2020 年初在赤道几内亚海岸外的比奥科岛实施，将有 2100 名年龄在 2 至 50 岁之间的受试者参与。领导这项研究的疟疾研究人员 Steve Hoffman 表示，这项试验的目的是提供监管机构批准该疫苗所需的有效性和安全性数据。Hoffman 同时还是美国马里兰州罗克维尔市 Sanaria 公司的首席执行官，该公司开发了这种疫苗。赤道几内亚政府和私营能源公司正在赞助这项试验。在实验室研究中，这种名为 PfSPZ 的疫苗已被证明是迄今开发的最有效的疟疾疫苗，能为健康的志愿者提供完全的保护。PfSPZ 疫苗的工作原理是激发对恶性疟原虫的一种免疫反应。
+➜微软收购 Express Logic
+https://www.solidot.org/story?sid=60319	35686
+微软以未披露的数字<a href="https://arstechnica.com/gadgets/2019/04/microsoft-buys-express-logic-adds-a-third-operating-system-to-its-iot-range/#p3"><u>收购了</u></a> Express Logic 及其 ThreadX 实时操作系统(RTOS)。ThreadX 曾被用于 NASA 的 Deep Impact 任务和苹果 iPhone 4 的蜂窝无线电控制器，它被广泛嵌入到 Wi-Fi 设备的固件中。ThreadX 的最小硬件需求远比 Linux 更低，它的安装只需要 2,000 bytes，内存只需要 1KB。ThreadX 的部署数量可能有 62 亿之多。微软可能计划将 ThreadX 用于其物联网/嵌入式服务。
+➜Mozilla 宣布 WebThings
+https://www.solidot.org/story?sid=60320	40685
+Mozilla 物联网团队<a href="https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/"><u>宣布</u></a>了物联网开放平台 <a href="https://iot.mozilla.org/"><u>WebThings</u></a>。Mozilla 的使命是确保互联网是一个全球公共资源，对所有人开放，所有人都可以访问。互联网将真正把人民放在第一位，个人能获得赋权、安全和独立。而 Mozilla 物联网团队的使命则是创建一种 Web of Things  实现去体现那些价值，帮助推动制定物联网的安全、隐私和互操作标准。它包括两个项目：用于家庭智能网关的软件发行版 WebThings Gateway，将突出隐私、安全和互操作；WebThings Framework，帮助开发者构建 web things 的可重复利用软件组件集。
+➜Blackberry Messenger 将于 5 月 31·日关闭
+https://www.solidot.org/story?sid=60321	43289
+黑莓消息应用的消费者版本 Blackberry Messenger <a href="https://www.cnet.com/news/blackberry-messenger-to-shut-down-in-may/#ftag=CAD590a51e"><u>宣布</u></a>将于 5 月 31 日关闭。负责运营 Blackberry Messenger 的公司 Emtek 在官方博客上<a href="https://blog.bbm.com/2019/04/18/time-to-say-goodbye-english-version/"><u>表示</u></a>科技行业的流动性很高，虽然他们付出了艰巨的努力，但用户已经迁移到了其它消息平台。黑莓首席运营官 Mark Wilson 对此局面表达了失望，称 BBM 用户可以前往 Google Play 商店下载 BBMe，它是该公司消息应用的企业级版本，这个版本在第一年免费，随后六个月的订阅费是 2.49 美元。黑莓正在开发它的 iOS 版本。
+➜现代民主制度的缺陷
+https://www.solidot.org/story?sid=60322	44623
+苏格兰哲学家休谟（David Hume）认为，政府的起源，是人们舍远图近的偏狭心理，无法根本地救治自己或他人 。休谟相信，政府机构，如政治代表和议会辩论，有助于缓和我们冲动、自私的欲望，促进社会的长期利益和福祉。在今天看来，休谟的观点似乎是一厢情愿，因为我们的政治制度<a href="https://www.bbc.com/ukchina/simp/vert-fut-47967054"><u>显然已经变成了短视泛滥的原因</u></a>，而不是消除短视的良药。当新闻媒体一周 7 天、一天 24 小时不间断报道英国脱欧谈判的最新进展，或对美国总统的即兴推文喋喋不休时，现代民主政治的短视昭然若揭。那么，有没有针对政治短视的解药，能够长远地考虑后代子孙的利益呢？
+➜科学家在太空中探测到宇宙最早的分子
+https://www.solidot.org/story?sid=60323	46690
+宇宙最初是由三种简单的单原子元素构成，恒星要在创世大爆炸一亿年之后才会形成。但在一万年内，最早的分子出现了，它是氦和氢的一种组合，<a href="https://phys.org/news/2019-04-elusive-molecule-universe-space.html" target="_blank"><u>被称为氢化氦离子或 HeH+</u></a>。它的形成是宇宙日益复杂之路的第一步，类似地球的生命从单细胞转变到多细胞。科学家早于 1925 年就在实验室里研究过 HeH+，但在自然环境中一直没有检测到它的存在。1970 年代的模型预测 HeH+ 应该大量存在于死亡的类太阳恒星喷射出的气体中。问题是地球大气层会消除这种分子所在电磁波段，它无法从地面探测到。因此 NASA 和德国宇航中心联合打造了空中观测站，使用了一架波音 747 飞机，安装了 2.7 米的巨大望远镜和红外光谱仪。在 2016 年 5 月进行的一系列飞行中，他们的设备探测到了 HeH+ 存在的证据。

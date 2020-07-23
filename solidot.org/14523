@@ -1,0 +1,53 @@
+➜上万Hotmail帐户密码被泄露到网上
+https://www.solidot.org/story?sid=14005	9300
+一位匿名用户在10月1日将超过1万个帐户密码公布在代码共享网站<a href="http://pastebin.com/">Pastebin.com</a>上，以a和b字母开头，包括了@hotmail.com, @msn.com和@live.com帐户。目前Pastebin.com<a href="http://www.neowin.net/news/main/09/10/05/thousands-of-hotmail-passwords-leaked-online">已经删除了该帖</a>，微软公司表示<a href="http://www.bbc.co.uk/zhongwen/simp/world/2009/10/091005_hotmail_accounts_posted.shtml">正对此展开调查</a>。泄露的帐户都被确认属实，大多来自欧洲。一些分析认为这些帐户资料可能是作为网络诈骗活动的一部分被盗的，并建议Hotmail的用户立即更改密码。
+➜研究人员劫持Mebroot僵尸网络，研究路过式下载
+https://www.solidot.org/story?sid=14006	25920
+《MIT技术评论》<a href="http://www.technologyreview.com/computing/23566/page1/">报道</a>，加州大学圣巴巴拉分校的研究人员<a href="http://it.slashdot.org/story/09/10/05/1651209/Researchers-Hijack-Mebroot-Botnet-Study-Drive-By-Downloads">劫持了僵尸网络Mebroot</a>，用了一个月时间研究木马传播的“路过式下载（<a href="http://en.wikipedia.org/wiki/Drive-by_download">drive-by download</a>）”。在浏览有恶意代码的网页时，用户常会在不知情下下载间谍软件、病毒或其它任何恶意软件。<i>
+通过对木马用于判断连接域名的算法进行逆向工程，研究人员设法拦截了木马的通信，让木马将链接定向到他们的服务器上。Mebroot木马利用合法网站，将用户的访问重新定向到恶意网站，以试图在受害人的电脑上安装恶意程序。研究人员在6500个网站上发现了恶意代码，这些代码将大约34万访问者转向到了恶意网站。他们发现13.3%连接被重新定向的系统之前就已经感染了其它木马，70%的系统是被40种常见的攻击方式入侵的。这些电脑中超过一半—大约54%—安装了杀毒软件，但其中仍然有12%被木马感染。研究人员还发现，被链接到他们服务器的浏览者中，有64%运行的是Windows XP，23%运行Windows Vista，Mac OS X 10.4和 Mac OS X 10.5共占6.4%。</i>
+➜浏览器20年图说简史
+https://www.solidot.org/story?sid=14007	26280
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "这是 <a href="http://sixrevisions.com/">Six Revisions</a> 制作的一幅浏览器近20年来的发展简史图，从最早的 WorldWideWeb Browser 到现在最新的 Google Chrome，期间包含了 Mosaic， Netscape， IE， Opera， Mozilla， Safari， Firefox。（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K851.aspx">完整图文版</a>）。           <b>1991年，WorldWideWeb 浏览器发布</b>
+<br> <br>这款由 Web 之父 Tim Berners-Lee 亲手设计的图形化浏览器还包含一个所见即所得 HTML 编辑器，为了避免同 WWW 混淆，这个浏览器后来改名为 Nexus。
+<br> <br> <b>1993年，Mosaic 发布</b>
+<br> <br>Internet 的流行应该归功于 Mosaic，这款浏览器将 Web 带向了大众。诸如 IE, Firefox 一类的当代浏览器仍然在延用 Mosaic 的图形化操作界面思想。
+<br> <br> <b>1994年，Netscape 成立</b>
+<br> <br>Marc Andreessen 带领 Mosaic 的程序员成立了 Netscape 公司，并发布了第一款商业浏览器 Netscape Navigator。
+<br> <br> <b>1995年，IE 发布，浏览器之战即将爆发</b>
+<br> <br>微软针对 Netscape 发布了他们自己的浏览器，IE，第一场浏览器之战爆发。
+<br> <br> <b>1996年，Opera 发布</b>
+<br> <br>Telenor 是挪威最大的通讯公司，他们推出了 Opera，并在两年后进军移动市场，推出 Opera 的移动版。
+<br> <br> <b>1998年，Mozilla 项目成立</b>
+<br> <br>Netscape 成立 Mozilla 开源项目，开发下一代浏览器，后来证明，使用原有代码开发新东西是一种负担，接着他们着手从新开发。
+<br> <br> <b>1998年，Netscape 浏览器走向开源</b>
+<br> <br>随着同 IE 征战的失利，Netscape 市场份额急剧下降，Netscape 决定将自己的浏览器开源以期重整山河。
+<br> <br> <b>2002年，IE 开始主导浏览器市场</b>
+<br> <br>市场份额达到95%，借助同操作系统的捆绑优势，IE 赢得第一场浏览器之战。
+<br> <br> <b>2003年，苹果 Safari 浏览器登场</b>
+<br> <br>苹果进入了浏览器市场，推出自己的 Webkit 引擎，该引擎非常优秀，后来被包括 Google， Nokia 之类的厂商用于手机浏览器。
+<br> <br> <b>2004年，Firefox 引发第二场浏览器之战</b>
+<br> <br>Firefox 1.0 推出。早在 Beta 测试期间就积累了大量人气的 Firefox 引发了第二场浏览器之战，当年年底，Firefox 已经赢得 7.4% 的市场份额。
+<br> <br> <b>2006年，IE7 发布</b>
+<br> <br>IE6 发布后的第六年，迫于 Firefox 的压力，微软匆匆推出 IE7 应战，吸取了 Firefox 的一些设计思想，如标签式浏览，反钓鱼等。但这款浏览器现在看来并不成功。
+<br> <br> <b>2008年，Google 携 Chrome 参战</b>
+<br> <br>Google 发布了他们自己的浏览器，加入这场战争。轻量，快，异常的稳固让这款浏览器成为不可轻视的一个对手。
+<br> <br>本文来源：<a href="http://sixrevisions.com/web-development/the-history-of-web-browsers/">http://sixrevisions.com/web-development/the-history-of-web-browsers/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜第三次世界大战或爆发于互联网
+https://www.solidot.org/story?sid=14008	27600
+<a href="http://yi-it.com/blog/">易IT</a> 写道 <i>"<a href="http://tech.yahoo.com/news/pcworld/20091005/tc_pcworld/worldwariiicouldbefoughtoninternetsaysituhead">Yahoo Tech报道</a>，国际电信联盟(<a href="http://www.itu.int/">ITU</a>)秘书长Hamadoun Touré周一表示，<a href="http://tech.sina.com.cn/t/2009-10-06/09113488124.shtml">第三次世界大战可能爆发于互联网上</a>。Touré说：“下一次世界大战可能爆发于互联网上，而这种非传统战争也很难通过传统的外交途径解决，因为在网络上没有所谓的超级大国，任何一位公民都相当于超级大国。”在这场虚拟战争中，通过“僵尸网络”大军，几乎每个人都可能拥有超级力量，这点从近期发生的大量拒绝服务攻击中即可略窥一斑。</i>
+➜PhotoSketch：基于网络的图像蒙太奇
+https://www.solidot.org/story?sid=14009	28200
+只要随手勾勒几个线条，就可以用计算机自动生成一幅<a href="http://initiative.yo2.cn/archives/642903">逼真的匹配图像</a>。清华大学计算机科学系的一群学生创建了<a href="http://blogs.zdnet.com/weblife/?p=965">PhotoSketch</a>项目——基于互联网的图像蒙太奇技术。<i>
+你只要手绘出一个框架，加入一些描述性的文字，然后PhotoSketch便能搜索网络上与之匹配的图像，利用算法将多幅图片中相对应的部分无缝的整合成一张逼真的匹配图像。PhotoSketch系统能自动的选择合适的图像生成高质量的合成图。混合后的图像还可以打分，以寻找到最优化的合成图。研究人员表示试验结果非常成功。</i>
+<a href="http://vimeo.com/6496886">视频</a>，<a href="http://cg.cs.tsinghua.edu.cn/montage/files/montage.pdf">论文</a>（PDF），<a href="http://cg.cs.tsinghua.edu.cn/montage/files/Binary.zip">源代码</a>（zip）
+➜Chrome添加原生码客户端解释技术
+https://www.solidot.org/story?sid=14010	34200
+DNA24 写道<i> "Google发布的最新开发者版Chrome<a href="http://www.h-online.com/security/Chrome-adds-Native-Client-technology--/news/114390">添加原生码客户端解释技术</a>，让Web应用可以直接运行x86架构的原生码，Firefox通过添加<a href="http://nativeclient.googlecode.com/svn/trunk/src/native_client/documentation/getting_started.html">complex-up插件</a>也可以实现该技术。"</i>
+➜高锟等三名科学家获得诺贝尔物理学奖
+https://www.solidot.org/story?sid=14011	36300
+拥有美国和英国双重国籍的光纤通讯专家<a href="http://zh.wikipedia.org/zh-hans/%E9%AB%98%E9%8C%95">高锟</a>与贝尔实验室的加拿大籍物理学奖<a href="http://en.wikipedia.org/wiki/Willard_Boyle">Willard S.Boyle</a>和美国籍科学家<a href="http://en.wikipedia.org/wiki/George_E._Smith">George E.Smith</a>共同分享了2009年度的<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2009/index.html">诺贝尔物理学奖</a>，高锟将获一半的奖金，后两位则各获四分之一奖金。负责评奖的瑞典皇家科学院在<a href="http://nobelprize.org/nobel_prizes/physics/laureates/2009/press.html">新闻稿</a>中指出：高锟教授在光纤通信技术上取得了突破性的成就，而Willard S.Boyle和George E.Smith的获奖则是因在1969年共同发明了CCD（电荷耦合元件）传感器。<i>
+<a href="http://www.networkchinese.com/whoswho/gaoqun.html">高锟</a>于1933年出生于中国上海金山区，1957年获得英国伦敦大学理学学士，1965年获得伦敦大学哲学博士学位。他在1965年发表的论文中提出了用石英基玻璃纤维进行长距离信息传递，他的研究为人类进入光纤通讯时代打开了大门，他因而也被广泛誉为“光纤通讯之父”。1957年，他进入英国国际电话电报公司(ITT)公司，在其子公司“标准电话与电缆有限公司”任工程师。1960年，他进入ITT设于英国的欧洲中央研究机构--标准电信实验有限公司，在此服务了十年，职位从研究科学家升至研究经理。正是在这段时期，高锟教授成为光纤通讯领域的先驱。他在1987-1996年之间担任香港中文大学校长，现在是香港高科桥有限公司主席兼行政总裁。他是美国国家工程院院士、英国皇家工程科学院院士、英国皇家艺术学会会员、瑞典皇家工程科学院外籍院士，台湾中央研究院院士、中国科学院外籍院士。他获得的荣誉包括爱迪生电信奖、马可尼国际奖、贝尔奖、巴伦坦奖章、利布曼奖和光电子学奖金等。</i>
+➜Linux拯救澳大利亚电网
+https://www.solidot.org/story?sid=14012	52320
+澳大利亚国家电网的控制室电脑<a href="http://www.theinquirer.net/inquirer/news/1556944/linux-saves-aussie-electricity">感染了病毒</a>。电力供应商Integral Energy承认了此事，表示为了清除病毒，该公司正请专家重装1000台电脑的系统。<i>
+Integral Energy计算机网络感染的病毒是<a href="http://www.symantec.com/connect/blogs/w32virutcf-collateral-damage">W32.Virut.CF</a>变种，它能感染.exe可执行程序和.scr屏幕保护程序，病毒的传播非常快，移除相当不容易。该病毒成功渗透到了控制室的显示终端。但幸运的是，<a href="http://www.osnews.com/story/22289/Linux_Saves_Aussie_Electrical_Grid">系统管理终端服务器运行的是基于Linux的系统</a>，因此系统管理员可以关闭Windows机器连接。这一事件再次暴露Windows机器容易受到病毒影响，不适合用于维护基础设施之类的关键任务。</i>

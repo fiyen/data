@@ -1,0 +1,44 @@
+➜FreeRTOS Kernel v10 从 GPL 切换到 MIT
+https://www.solidot.org/story?sid=54694	13542
+用于物联网等嵌入式设备的实时操作系统 FreeRTOS 项目<a href="https://amazonaws-china.com/cn/blogs/opensource/announcing-freertos-kernel-v10/" target="_blank"><u>宣布</u></a>发布 kernel version 10，源代码<a href="https://sourceforge.net/p/freertos/code/2519/#diff-1" target="_blank"><u>许可证</u></a>从修改版 GPLv2  切换到 MIT。FreeRTOS 诞生于 2003 年，至今已有 15 年历史，已成为一个相当受欢迎的实时操作系统，其创始人 Richard Barry 去年加入了亚马逊，因此该项目现在得到了亚马逊资助。简化许可证是 FreeRTOS 社区的长期要求，选择 MIT 是基于嵌入式设备社区的需求： MIT 许可证常用于开放硬件项目，可供企业自由使用。亚马逊同时宣布了 <a href="https://amazonaws-china.com/freertos/">Amazon FreeRTOS</a>，基于 FreeRTOS 内核，加入了对 AWS 和物联网用例的支持。
+➜报告认为 Steam 平台带来了监管挑战
+https://www.solidot.org/story?sid=54695	14957
+过去几个月，Valve 的 Steam 平台遭遇了多次访问故障。这家 PC 数字游戏平台在中国非常受欢迎，也在某种程度上推动了中国 PC 游戏的正版化。中国曾是最大的盗版软件市场之一，数字游戏平台的流行逐渐改变了这一状况。当局显然也注意到了 Steam 在中国的影响力，官方在最新报告中对 Steam 带来的监管挑战<a href="http://news.xinhuanet.com/info/2017-11/29/c_136786870.htm" target="_blank"><u>发出了警告</u></a>。根据本周发布的《2017 年中国游戏行业发展报告》，“美国 Steam 平台通过跨境支付模式在中国境内运营，给管理部门及客户端游戏运营企业带来较大挑战。11 月，Steam 平台的中国区玩家约为 3000 万，持续保持大幅增长，该数据也表明客户端游戏在中国仍有较大市场潜力。”
+➜编程错误导致俄罗斯卫星发射失败
+https://www.solidot.org/story?sid=54696	18044
+俄罗斯本周在东方港航天发射场使用 Soyuz-2-1b 火箭<a href="https://www.nasaspaceflight.com/2017/11/soyuz-2-1b-launch-meteor-m/" target="_blank"><u>发射了</u></a> Meteor-M 气象卫星和 18 颗小卫星，但由于 Fregat 上面级发生故障导致所有卫星被送入了亚轨道，在大气层中烧毁。根据俄罗斯太空网站的报道，一个编程错误<a href="https://arstechnica.com/science/2017/11/this-weeks-failed-russian-rocket-had-a-pretty-bad-programming-error/" target="_blank"><u>导致</u></a> Fregat 无法自己确定方向。报道称，Fregat 的飞行控制系统仍然是为拜科努尔发射场设置的，没有为新的东方港发射场正确设置。因此，当 Fregat 与火箭分离后，它未能发现正确的方向。当它点燃引擎将卫星送入轨道时，它仍然在尝试修正方向，它事实上是向下对着地球推送卫星的，导致卫星被送到了致命的亚轨道。
+➜中国卫星可能探测到暗物质存在证据
+https://www.solidot.org/story?sid=54697	20153
+中国科学家在《自然》上<a href="http://nature.com/articles/doi:10.1038/nature2447" target="_blank"><u>发表了</u></a>暗物质粒子探测卫星 “悟空” 卫星在轨运行前 530 天采集的数据，称在太空中测量到了电子宇宙射线的一处异常波动。这一波动此前从未被观测到，<a href="http://www.bjnews.com.cn/news/2017/12/01/466498.html" target="_blank"><u>有可能与暗物质相关</u></a>。“悟空号”在前 530 天共采集了约 28 亿例高能宇宙射线，其中包含约 150 万例 25GeV 以上的电子宇宙射线。基于这些数据科研人员成功获取了目前国际上精度最高的 TeV 电子宇宙射线探测结果。暗物质卫星工程首席科学家常进介绍，电子宇宙射线的正常能谱变化应该是一条平滑曲线，但根据 “悟空” 的观测数据，在 1.4 万亿电子伏特（TeV）的超高能谱段突然出现剧烈波动，呈现一个“尖峰”。这表明，此处必然有一个全新的物理现象。
+➜研究发现狗的大脑比猫大
+https://www.solidot.org/story?sid=54699	30034
+猫聪明还是狗聪明，人们对此争执不休，现在科学家<a href="https://news.vanderbilt.edu/2017/11/29/grumpy-cat-study-dogs/" target="_blank"><u>给出了证据</u></a>：至少就思维相关的脑细胞而言，狗比猫多得多。<a href="https://www.frontiersin.org/articles/10.3389/fnana.2017.00118/abstract" target="_blank"><u>研究报告</u></a>发表在开放获取期刊《Frontiers in Neuroanatomy》上。研究发现，狗有 5.3 亿皮质神经元，而猫只有 2.5 亿，相比之下人有 160 亿。皮质神经元与思考、计划和复杂行为相关。研究还对比了食肉动物和食草动物，发现两者的神经元与大脑大小的比率相同，意味着演化压力让食草动物发展出与捕食者相当的脑力，以躲避和逃脱猎杀。
+➜PHP 7.2.0 发布
+https://www.solidot.org/story?sid=54700	30961
+PHP 开发团<a href="http://php.net/releases/7_2_0.php" target="_blank"><u>宣布</u></a>释出 7 系列的第二个功能更新版。PHP 7.2.0 的主要更新和改进包括：转换对象/数组转换中的数值键，不可数对象的计数，对象类型提示，HashContext 作为对象，Mcrypt 扩展移除，新的 sodium 扩展，整合 libsodium 加密库，等等。详细变化可阅读 <a href="http://www.php.net/ChangeLog-7.php#7.2.0" target="_blank"><u>ChangeLog</u></a>。
+➜System76 的 Linux 笔记本电脑将关闭英特尔的 ME
+https://www.solidot.org/story?sid=54701	31797
+System76 <a href="http://blog.system76.com/post/168050597573/system76-me-firmware-updates-plan" target="_blank"><u>宣布</u></a>向它最近推出的 Linux 笔记本电脑推送固件更新，关闭英特尔的 Management Engine（ME）。ME 是一个内置于英特尔处理器平台的低功耗子系统，独立于主系统，过去几个月它引发了许多争议，甚至英特尔自己上个月也承认发现了多个漏洞，其中包括允许本地访问的攻击者执行任意代码的漏洞。System76 还宣布将向使用第六代、第七代或第八代 Core 处理器的现有笔记本电脑推送更新关闭 ME，该公司表示 ME 没有向它的客户提供任何功能性，关闭它是安全的。目前释出的固件更新只提供给运行 Ubuntu 16.04 及以上版本的计算机，但该公司表示正在开发命令行工具能工作在运行其它 GNU/Linux 操作系统的计算机上。
+➜Google 禁止锁屏广告
+https://www.solidot.org/story?sid=54702	32997
+Google Play 官方应用商店<a href="http://www.androidpolice.com/2017/11/30/google-finally-bans-apps-include-shady-lock-screen-ads/" target="_blank"><u>将禁止</u></a>锁屏广告。Google 开发者政策中心的“<a href="https://play.google.com/about/monetization-ads/ads/lockscreen/" target="_blank"><u>获利和广告</u></a>”增加了一条：“除了专为锁屏功能开发的应用之外，其他应用不得提供通过设备锁定屏幕获利的广告或功能。”利用锁屏展示广告的最著名公司可能是亚马逊，它的一些产品有便宜的广告版，其中主要的广告展示方式就是锁屏广告。Google 此举应该与亚马逊无关。
+➜中国发现数百颗翼龙蛋化石
+https://www.solidot.org/story?sid=54703	38993
+根据发表在《科学》期刊上的<a href="http://science.sciencemag.org/content/358/6367/1197" target="_blank"><u>一项研究</u></a>，古生物学家在中国戈壁沙漠<a href="https://cn.nytstyle.com/science/20171201/pterosaur-eggs/" target="_blank"><u>发现了</u></a>超过 200 颗翼龙蛋化石。这是迄今发现的数量最多的翼龙蛋。
+该发现有助于帮助我们进一步理解这种已灭绝的有翼生物的早期生活，包括与父母的关系。
+翼龙是恐龙时代的一种飞行爬行动物，也是地球上最大的飞行动物。 研究团队认为，一场强烈的暴风雨很可能将翼龙蛋冲入湖中，与翼龙骨一起埋藏在那里并保存了数百万年。研究小组还发现了一些证据表明，翼龙幼体的腿骨比前肢更发达，表明幼年的翼龙很可能不会飞，只能在地面上爬行，必须依赖它们的父母。
+➜失去意识的病人身上有不要急救的纹身
+https://www.solidot.org/story?sid=54704	40365
+《New England Journal of Medicin》医学期刊上<a href="http://www.nejm.org/doi/full/10.1056/NEJMc1713344" target="_blank"><u>报告了一个不同寻常的病例</u></a>：一位失去意识的 70 岁患者被送到佛罗里达的一家医院急救，但医生吃惊的发现患者的胸部刻有“不要急救（DO NOT RESUSCITATE）”的纹身，NOT 下面还有签名。纹身让医生们面临一个道德难题，他们需不需尊重这一请求？纹身是否真正代表了患者的愿望？这位患者患有慢性阻塞性肺病、糖尿病和心房颤动。医务人员选择忽视不要急救的请求，但接到通知的医院伦理小组有不同看法。伦理小组在检查了患者的病史后认为推断纹身代表了患者真实想法是合理的。社会工作部门随后从佛罗里达卫生局获得了他的不要急救的医嘱拷贝，这与纹身一致。医生们遵守了这一医嘱，病人的症状整个晚上恶化了，去世时没有对他采取心肺呼吸之类的急救措施。
+➜中国科技巨头为何对驱逐“低端人口”噤声
+https://www.solidot.org/story?sid=54705	41754
+在一场致命大火后，北京政府<a href="https://cn.nytimes.com/china/20171201/china-beijing-migrants/" target="_blank"><u>展开了</u></a>近年来最为强势的街区清理活动。大批租户遭到驱离，其中多为外来务工者。数万人在寒冬中流离失所，引发民众激烈批评。正是这些外来务工人员推动了中国蓬勃发展的科技行业。他们从事着共享汽车司机、快递员和外卖送餐员等职业。而对于在中国最大的互联网中心之一北京发生的清退行动，中国科技公司却没有任何抗议。事实上，在线新闻和社交媒体平台删除了各自网站上的批评帖。中国科技公司对本次大规模清退行动<a href="http://cn.wsj.com/gb/20171201/llw170548.asp" target="_blank"><u>集体噤声</u></a>可以看出他们在中国的真实地位。尽管这些公司为中国的经济发展、就业和创新做出贡献，但它们依然依附于中国的威权政府，而这限制了它们自身的影响力。
+➜73% 的 Reddit 用户在投票前没有点击阅读内容
+https://www.solidot.org/story?sid=54706	44262
+Reddit 提供了新闻聚合功能，它允许读者对新闻链接投票将其顶到热度前列。但进行投票的人有多少真的点开链接阅读了内容？根据发表在《IEEE Transactions on Computational Social Systems》上的<a href="http://ieeexplore.ieee.org/document/8026184/" target="_blank"><u>一项研究</u></a>，Notre Dame 大学的研究人员<a href="https://www.reddit.com/r/science/comments/7gn1ne/new_study_finds_that_most_redditors_dont_actually/" target="_blank"><u>发现</u></a> 73% 的 Reddit 用户在投票前没有点击阅读内容。这项研究是基于在一年时间内  309 个网站的 Reddit 用户活动<a href="http://dsg.nd.edu/reddit_activity_study" target="_blank"><u>数据集</u></a>的分析。Reddit 是美国第四大网站，月活跃用户 2.34 亿。这一现象部分可能与网站内容有关，今天的许多新闻只需要标题就足够了。
+➜俄罗斯表示它将会无视杀人机器人的联合国禁令
+https://www.solidot.org/story?sid=54707	45387
+上个月初日内瓦举行的联合国致命自主武器系统会议<a href="http://www.defenseone.com/technology/2017/11/russia-united-nations-dont-try-stop-us-building-killer-robots/142734/?oref=d-topstory" target="_blank"><u>没有取得进展</u></a>，俄罗斯在会议上公开表示它不会遵守任何对杀人机器人的禁令。这次会议的与会国尝试定义自主武器系统和制定相关限制。俄罗斯在一份<a href="https://admin.govexec.com/media/russia.pdf" target="_blank"><u>声明</u></a>中表示，由于缺乏自主武器系统的工作样品，因此很难制定此类武器的禁令。俄罗斯国防承包商据报道已经在开发利用人工智能判断和射击目标的武器系统。俄罗斯被认为从年初开始就一直在拖延，它甚至不希望举行会议。
+➜新付费墙时代
+https://www.solidot.org/story?sid=54708	47289
+在 Google 和 Facebook 统治网络流量的时代，大大小小的媒体都不怎么好过。出版商的广告收入普遍有所下滑，即便其中一部分有着足够高的流量。为了支持新闻内容尤其是调查性内容的创作，许多出版商选择了付费墙。《华尔街日报》、《纽约时报》、《华盛顿邮报》、《金融时报》、《连线》，甚至 CNN 等媒体要么已经建立要么计划<a href="https://www.theatlantic.com/technology/archive/2017/11/the-big-unanswered-questions-about-paywalls/547091/" target="_blank"><u>建立付费墙</u></a>。其中一部分成果相当显著。中国也有类似的现象，如财新网也设立了付费墙，此外还有各种知识经济名义的付费内容源。

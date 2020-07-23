@@ -1,0 +1,145 @@
+➜Google表示准备退出中国，CEO称很快会有结果
+https://www.solidot.org/story?sid=16684	2700
+法新社<a href="http://tw.news.yahoo.com/article/url/d/a/100311/19/21uan.html">报道</a>（<a href="http://news.yahoo.com/s/afp/20100310/ts_alt_afp/uschinaitmediarightsinternetgoogle_20100310195938">原文</a>），Google副总裁黄安娜（Nicole Wong）在美国众议院外交委员会的听证会上表示，“Google的立场很坚定，即Google决定停止对中国的搜索结果进行审查。如果那项抉择是我们必须关闭我们的.cn业务并撤离中国，我们准备这么做。”黄安娜指出，Google很关心它在中国的数百名员工，且理解本身决定的“严重性或敏感性”，但“我们将停止审查”谷歌中国的搜索结果。<i>
+另据《华尔街日报》<a href="http://cn.wsj.com/gb/20100311/tec084134.asp">报道</a>，Google首席执行长施密特(Eric Schmidt)周三说，他预计谷歌与中国政府就谷歌在华业务未来命运所进行的谈判很快会有结果。施密特在阿布扎比的一个媒体峰会上对记者说，我们正在与中国政府进行积极的磋商。他说，谷歌已决定不公开谈判的进展情况，不过很快会有些事情发生。</i>
+➜第一个开放版权的硬件产品 :Ben NanoNote
+https://www.solidot.org/story?sid=16686	3900
+<a href="http://www.openmobilefree.net/">xiangfu</a> 写道 "<a href="http://www.sharism.cc/">NanoNote</a>(<a href="http://www.openmobilefree.net/wp-content/uploads/2010/03/a_html_m5d138557.gif">gif</a>)是开放版权(简称开权)的硬件：一但购买了开权硬件的产品，其它关于硬件产品的资料你将一起获得如（原理图，源代码）。我们的使命是：为自由软件开发人员提供一个稳定 并达到量产质量的硬件平台，方便自由软件开发人员在上面开发有趣的程序。我们见证过一些硬件不稳 定，没有为消费者准备好的例子。那样的开放硬件无法克服不稳定的问题，软件开发总在不停地挣扎，受 到硬件不断改动的影响。我们在选择硬件设计时，一方面考虑硬件的稳定性和是否已大量生产，另一方面考 虑到它是否开放，是否为自由软件的开发提供保护措施和可能性。在某些情况下，硬件设计的确已经能运 行一些 Linux 内核版本，但内核却是过时的，很难去修改内核代码来达到其它的目的。我们让这一过程变 得容易。我们的主要承诺是给自由软件开发人员提供稳定，工作，高质量的硬件。有了这一坚实的基础， 软件开发人员能将精力放在为终端用户创造出绝优的应用软件上。
+<br> <br>
+我们所有的步骤开始于寻找可以开放并且已经量产的硬件。我们与亚洲的制造商、硬件可以开放的或 是能够合作设计开权硬件的公司合作。我们的硬件设计工作的重点是记录这些设计，在开放版权下发布这 些设计，然后建立一个协作社区努力来改善设计。这些工作将利用自由软件工具如 KiCAD、 HeeksCAD，并且会以开放版权发布完整的硬件和机械设计。
+<br> <br>开权硬件有着很好的前景。在专利系统下，终端用户受制于产品的生命周期。在专利的世界里有一个 预定的生命周表－EOL(End Of Life)。届时软件支持会停止，产品的计划会停止。而开权硬件是没有 EOL 的。设计始终为加强和扩展敞开大门;由于运行的是 GPL 的软件，终端用户总是可以自由地为自己 和其他人提供帮助支持。硬件的计划是开放 的。因为设计是基于开放版权，任何一个有新创意的工程师都 可以创建一个新的设计，当然只有那些愿意共享设计的才能享受到这种优势。我们的NanoNote发展计划很简单－ 循序渐进，不断提高。这确保了软件的开发工作。
+配置:
+<ul>
+<li>CPU：336 MHz XBurst Jz4720 MIPS兼容 CPU </li>
+<li>显示： 3.0” color TFT </li>
+<li>分辨率： 320 x 240， 16.7M color </li>
+<li>尺寸 (mm)： 99 x 75 x 17.5 (lid closed) </li>
+<li>重量： 126 g (包括电池) </li>
+<li>内存： 32MB DRAM </li>
+<li>2GB NAND 闪存</li>
+<li>mini-USB: USB 2.0 High-Speed Device </li>
+<li>外放，内置MIC </li>
+<li>耳机接口 (3.5 mm) </li>
+<li>SDHC microSD </li>
+<li>电池：850mAh Li-ion battery</li>
+<li>系统：OPENWRT （GNU/LINUX）</li>
+</ul>
+NanoNote 应用：
+<ol>
+<li>维基百科   离线版本，这样你就可以把世界上最大的知识共享库放到你的口袋里。</li>
+<li>电子词典 NanoNote 可以运行   星际译王， 有了星际译王NanoNote 比任何一个电子词典产品的字典都要多。</li>
+<li>PDF 阅读器，虽然屏幕有点小。</li>
+<li>嵌入式开发实验平台，NanoNote 的所有的文档都是可以自由免费的获得。另外NanoNote 有一个从USB启动的功能，如果你不小心把 NanoNote 刷坏了。你总是可以从USB 启动来修复你的 NanoNote。</li>
+<li>自学平台，对于很多刚入门学习 GNU/Linux 的朋友来说不知道怎么下手。有了OPENWRT系统，你只需要输入两个命令等上～1个小时就可以完整的从0开始编译你的嵌入式开发环境。如果是最小化配置NanoNote 的文件系统只有 1.4M。</li>
+</ol>
+相关链接：
+<ol>
+<li> <em>官方网址：http://www.sharism.cc </em> </li>
+<li> <em>官方网上商店：http://www.nanonote.cc </em> </li>
+<li> <em>文档相关：http://www.qi-hardware.com </em> </li>
+<li> <em>NanoNote 源代码：http://projects.qi-hardware.com/ </em> </li>
+<li> <em>NanoNote 刷机文件：http://downloads.qi-hardware.com/software/images/Ben_NanoNote_2GB_NAND/ </em> </li>
+<li> <em>关于购买与使用问题可以发邮件到 ：discussion@lists.qi-hardware.com </em> </li>
+<li> <em>到这里定阅：http://lists.qi-hardware.com/cgi-bin/mailman/listinfo </em> </li>
+<li> <em>NANONOTE的QQ群：90586412 欢迎加入。 </em> </li>
+<li> <em>中文BLOG：http://www.openmobilefree.net</em> </li>
+</ol>
+<a href="http://www.openmobilefree.net/wp-content/uploads/2010/03/a_html_m64f825c6.gif"> </a>
+<div>
+维基百科   离线版本，这样你就可以把世界上最大的知识共享库放到你的口袋里。
+</div>"
+➜旧闻一则：维基百科不会屈于审查制度
+https://www.solidot.org/story?sid=16685	4620
+Stranger 写道 "维基百科于2005年10月被禁止在中国访问。2006年9月11日，吉米·威尔士<a href="http://www.guardian.co.uk/technology/2006/sep/10/news.china">拒绝屈服</a>于中国政府对维基百科条目审查。
+他反对其他互联网公司，包括Google妄图证明和北京合作的互联网审查是利大于弊的。
+<br>
+虽然谷歌、微软和雅虎进入瓷器国同意对在线内容审查，吉米·威尔士认为维基百科应该<a href="http://yro.slashdot.org/article.pl?sid=06/09/11/1758209&amp;from=rss">宁为玉碎，不为瓦全</a>（all or nothing for Wikipedia）。
+我们占据的文化立场，我希望谷歌会做，这是我们对信息自由的立场。
+<br>
+“我希望Google可以有所担当，在信息自由上挺身而出。”"
+➜美国会提案资助反审查研究
+https://www.solidot.org/story?sid=16687	5280
+因应Google等公司受到攻击事件，新泽西共和党众议员<a href="http://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)">Christopher Smith</a>和俄勒冈州民主党众议员吴振伟(David Wu)提出一项<a href="http://chrissmith.house.gov/UploadedFiles/2010-03-09_Statement_on_Global_Internet_Freedom_Caucus.pdf">法案</a>(PDF)，希望提供美国联邦补助与奖励金给Google、微软、Yahoo这类公司以及大学研究员，鼓励他们发展“<a href="http://www.zdnet.com.tw/news/web/0,2000085679,20144536,00.htm">击败网络镇压与资讯审查的可行部署技术</a>”。“2010年互联网自由法案”(Internet Freedom Act of 2010) 提议在国家科学基金会(NSF)内部成立新的机构，称为“互联网自由基金会”。Smith说：“和平的表达政治理念与意见，正遭到有计划的攻击。”他表示，众议院议长Nancy Pelosi“希望不久后就能在众院议事厅看到互联网自由立法”。
+➜看电视导致儿童肥胖，玩电脑不会
+https://www.solidot.org/story?sid=16688	5700
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道<i> "玩电脑不会让孩子变胖，但<a href="http://translate.google.se/translate?u=http%3A%2F%2Fwww.expressen.se%2Fhalsa%2F1.1912420%2Fdator-pa-rummet-gor-inte-barn-tjocka&amp;sl=sv&amp;tl=en&amp;hl=&amp;ie=UTF-8">看相同时间的电视则会</a>。注册护士Pernilla Garmy对瑞典隆德郡（Lund's county）的所有小学生进行调查后得出了这一结论。很明显：在孩子房间放一台电视会直接导致儿童肥胖，放一台电脑却不会。对此的一种解释是，孩子悠闲地边看电视边吃零食很普遍，但玩电脑却需要更多的运动，比如语音聊天和玩游戏。"</i>
+➜BASIC作为入门编程语言的价值
+https://www.solidot.org/story?sid=16689	6720
+<a href="mailto:happyjdk@gmail.com">jdk137</a> 写道<i> "计算机科学界的传奇人物Edsger W. Dijkstra有一个著名的论断：“指导早年学过BASIC的学生成为编程高手是不可行的，他们的思维已受到摧残且不可重塑。”（ It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.）但博客The Reinvigorated Programmer指出<a href="http://reprog.wordpress.com/2010/03/09/where-dijkstra-went-wrong-the-value-of-basic-as-a-first-programming-language/">世界上有很多以BASIC作为入门语言的优秀程序员</a>，甚至这正是他们成为优秀程序员的原因（作者强调Visual Basic.NET不在此列）。"</i>
+➜OpenSSH 5.4发布
+https://www.solidot.org/story?sid=16690	7200
+<a href="http://www.openssh.com/">OpenSSH</a>发布了<a href="http://undeadly.org/cgi?action=article&amp;sid=20100309072751">5.4版</a>。新版的特性包括：默认不再启用SSH协议1.0，完整支持SSH协议1.3、1.5和2.0版，支持CA证书；新增netcat模式；sftp-server增加只读模式，sftp客户端和服务器端的大量改进和众多bug修正等等。
+➜Google推出Reader Play服务：让Reader更有趣
+https://www.solidot.org/story?sid=16691	7800
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "Google Reader推出<a href="http://googlereader.blogspot.com/2010/03/and-now-for-something-completely.html">Reader Play服务</a>，用户在浏览器界面上每次可以看到一个有趣的视频或者图片，可以对内容进行标注和推荐，访问<a href="http://www.google.com/reader/play">http://www.google.com/reader/play</a>可以立刻感受一下。
+<i>
+即使没有用Google账号登陆，依然可以使用这个服务，但是如果登录了的话，Google可以根据你的喜好提供量身定做的内容。这个服务目前还处于实验阶段，而且不是为了替换Google Reader，只不过是另外一种形式的Reader。
+</i>           <a href="http://www.morgancheng.com/">译者简评</a>：这个服务并无什么新意，有的网站早已提供了类似的功能，其目的，就像官方博客说得，主要是为了让Reader更加有趣，Google Reader虽然强大，但是相对于Reader Play，的确界面死板很多。"
+➜研究称体罚会降低儿童智商
+https://www.solidot.org/story?sid=16692	9300
+新罕布夏大学的科学家Murray Straus教授<a href="http://tw.news.yahoo.com/article/url/d/a/100311/91/21toy.html">调查</a>了1510位2到4岁、和5到9岁美国儿童，先记录他们的智商，然后在4年后追踪智商变化。<i>
+结果发现，在年纪较小的调查组(2到4岁)中，常遭受体罚的孩童平均智商低于未受体罚孩童平均智商约5分之多。至于另外年纪较长的受测组中，也有同样结果，不同在于平均智商分数间距为2.5分。研究还发现，遭受体罚的年纪愈小，受到的影响愈大。结果推翻了有些家长认为幼童被体罚时还小，不会记得曾被体罚，也因此不会有后遗症的说法。除了研究美国孩童外，Straus还分析来自32个国家，将近18,000个学生的资料，他表示明文禁止体罚的国家，其国民平均智商也相对较高。然而其中却有5个国家例外，分别是香港、日本、韩国、台湾和新加坡，Straus教授认为或许是因为这些亚洲国家对于学生的学业成绩都相当重视。全世界约24个国家立法禁止任何人（包括父母和教师）体罚孩子。</i>
+也有人评论这项研究<a href="http://www.physorg.com/news173077612.html">毫无意义</a>，认为体罚和智商之间不存在因果关系，研究人员的推断属于逻辑学中的“<a href="http://zh.wikipedia.org/wiki/%E5%90%8E%E6%AD%A4%E8%B0%AC%E8%AF%AF">后此谬误</a>”(即认为如果A事件先于B事件发生，A事件则是B事件的原因)。
+➜前Sun CEO披露乔布斯和盖茨不见光的丑事
+https://www.solidot.org/story?sid=16693	12240
+前Sun微系统公司CEO Jonathan Schwartz在<a href="http://jonathanischwartz.wordpress.com/2010/03/09/good-artists-copy-great-artists-steal/">个人博客</a>上曝光了<a href="http://slashdot.org/story/10/03/10/1320246/Ex-Sun-Chief-Dishes-Dirt-On-Gates-Jobs">乔布斯和盖茨见不得光的往事</a>。<i>
+苹果起诉HTC侵犯专利一事让Schwartz<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20144543,00.htm">回忆起了旧事</a>，苹果CEO乔布斯和微软CEO盖茨都曾经威胁起诉Sun侵犯专利。比尔盖兹、Steve Ballmer曾威胁Sun的Open Office必须取得MS Office专利授权，称OpenOffice中肯定包含有微软的专利，因为他们统治着办公软件市场；乔布斯曾亲自打电话到他的办公室，指责Sun操作系统的3D界面侵犯了苹果的知识产权，如果Sun胆敢发行产品，“我一定会告你”，乔布斯撂下狠话。Schwartz表示，Sun是通过专利反诉应付了这些事情，比如Sun持有Unix（OS X基于Unix）和Java专利（.Net在很多方面是基于Java）。Schwartz认为苹果起诉HTC，其实瞄准的还是Google，称靠着软件专利来威胁别人已经几近狗急跳墙，因为这是试图靠官司来战胜对手，而不是市场竞争力。</i>
+➜日本开发让老板能监视员工的手机
+https://www.solidot.org/story?sid=16694	18480
+日本手机巨头<a href="http://www.kddi.com/english/index.html">KDDI</a>开发出<a href="http://news.bbc.co.uk/2/hi/technology/8559683.stm">一项技术</a>能跟踪雇员的最微小动作，并能<a href="http://yro.slashdot.org/story/10/03/10/2354209/New-Phone-Allows-Bosses-To-Snoop-On-Staff">将信息返回给雇主</a>。<i>
+它的工作原理是分析手机上的加速计，研究人员称，无论是步行还是爬楼梯，甚至是扫地，都能清楚的分辨出来。该公司计划向经理、主管和雇佣机构等客户销售此款移动手机。日本国际大学移动消费者实验室主任Philip Sugai称，从技术说这是一个创新，但将其用于监视雇员则会产生负面影响。</i>
+➜OnLive云游戏服务将在6月17日推出
+https://www.solidot.org/story?sid=16695	20880
+历尽8年开发之后，云游戏服务商<a href="http://www.onlive.com/">OnLive</a>计划于6月17日正式<a href="http://games.slashdot.org/story/10/03/10/2239224/OnLive-Remote-Gaming-Service-Launches-In-June">向Windows和Mac平台推出</a>。<i>
+OnLive同时公布了价格：用户需要每月花14.95美元才能访问云游戏服务提供的PC或主机游戏，它没有透露租用或购买游戏的价格。OnLive的合作伙伴包括了电子艺界、育碧、2K Games、THQ和华纳兄弟互动娱乐。它列出的游戏包括了很多最近刚刚上市的新游戏，如《质量效应2》、《Borderlands》、《刺客信条2》等。公司CEO Steve Perlman称，到发布日，美国任何地方的玩家预计能玩到12款到25款游戏，之后根据与其它游戏发行商谈判的进展，玩家能玩到的游戏数量将会越来越多。</i>
+➜酸、甜、苦、咸和蛋白质之外，还有“脂肪味”
+https://www.solidot.org/story?sid=16696	22680
+人类的舌头能鉴别出甜、酸、咸、苦与蛋白质形成的味觉，现在科学家称<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-1852320100310">舌头还能识别“脂肪味”</a>。<i>
+澳大利亚迪肯大学研究人员Russell Keast博士称，该研究基于美国先前一项利用动物模型来发现脂肪味道的研究，“有意思的是，我们还发现，如果对脂肪味道的敏感度较高，那么脂肪摄入量以及体重指数均会较低。”研究人员发现，人们对脂肪味道的敏感度存在个体差异。“现在脂肪非常普遍且经常被食用，说明我们的味觉系统可能随着时间的推移降低了对于脂肪的敏感度，导致一些人趋于过量食用高脂肪食品。”Russell Keast博士还<a href="http://science.slashdot.org/story/10/03/10/2114204/Sweet-Sour-Salty-Bitter-Protein--and-Now-Fat">指出</a>，这项发现在逻辑上是说的通的，人类根据甜味去鉴别碳水化合物/糖类，根据鲜味鉴别蛋白质/氨基酸，我们肯定还有另一种味道去鉴别其它的营养素：脂肪。</i>
+➜Mozilla将更新Mozilla Public License
+https://www.solidot.org/story?sid=16697	25500
+所有的Mozilla项目都是在Mozilla Public License V1.1下发布。这个许可证已有超过十年的历史，Mozilla基金会<a href="http://www.osnews.com/story/22988/Mozilla_To_Update_the_Mozilla_Public_License_Invites_Input">认为</a>是时候<a href="http://mpl.mozilla.org/2010/03/10/announcing-the-process/">更新许可证</a>了，修改将集中在某些过时的措辞上。<i>
+Mozilla将公开征询各界对修订MPL的看法，它<a href="http://www.zdnet.com.tw/news/software/0,2000085678,20144554,00.htm">计划</a>让修订后的许可证能兼容Apache许可证，更新源代码/可执行文档的区别，更适用于遍布全球的社区志愿者，符合自由软件基金会(FSF)对“自由”的定义和开源促进会(OSI)对“开源”的定义，条款将予以简化等等。Mozilla称，许可证的版本号最终可能叫“MPL 2.0”，计划于2010年10月或11月完成修订。</i>
+➜汉语拼音方案或将修订
+https://www.solidot.org/story?sid=16698	25560
+据<a href="http://news.china.com.cn/rollnews/2010-03/11/content_987866.htm">媒体报道</a>，已经使用了52年的<a href="http://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3">汉语拼音方案</a>或将在今年开始进行修订。
+<i>全国政协委员、中国社科院语言学家李蓝已经两次提交提案，呼吁修订<a href="http://www.edu.cn/20011114/3009777.shtml">1958年版《汉语拼音方案》</a>。他认为目前的方案存在很多问题，包括12个在《方案》中做了规定，但现在计算机中仍然不能正确显示和输入的字符。这些字符在已出版的汉语字典、词典中都只能靠人工造字，因为电脑中没有对应的编码。此外，字母表与韵母表不统一，韵母表里有“ü”，但在字母表中没有规定与之对应的拉丁字母。而近年有专家曾在武汉地区进行过汉语拼音字母认读情况的调查，在接受调查的610人中，77.2%的人是用英文字母的读音来读汉语拼音字母，14.1%的人读成“<a href="http://jsyw.jsjyt.edu.cn/list.asp?id=3896">呼读音</a>”(即老师教学时的一种读法)，不会读或错读的人有8.7%，而能够按照《方案》规定读出字母的人一个也没有。</i>
+➜一男子威胁发动Spam攻击，勒索20万美元
+https://www.solidot.org/story?sid=16699	27360
+《纽约邮报》报道，52岁的Anthony Digati因为涉嫌勒索一家保险公司20万美元<a href="http://yro.slashdot.org/story/10/03/10/1711254/Man-Threatened-Spam-Attack-In-200000-Extortion-Plot">而遭逮捕</a>：他向对方发出威胁，如果不限期支付钱的话将发送600万封垃圾邮件。Digati宣称将使用一个“spam service”，表示他能像一个网络巨无霸那样将这家公司拖进可以想象到的浑水中。他说，如果该公司在周一前不交钱的话，金额将上升到300万美元。
+➜NSA在加密技术领域仍领先，但幅度很小
+https://www.solidot.org/story?sid=16700	30720
+在上周举行的RSA安全会议上，前美国国家安全局(NSA)技术负责人Brian Snow称他不信任云计算，并告诫说软件供应商有时让漏洞在几年时间里都不修正。<a href="http://www.networkworld.com/news/2010/030410-rsa-cloud-security-warning.html">在谈及加密技术时</a>，Brian Snow表示，过去的20年里NSA相对于大学和安全厂商中的同行正节节的败退，目前NSA保持领先优势的领域主要是复杂的加密系统及其解密的能力。<i>
+Snow说他相信<a href="http://news.slashdot.org/story/10/03/09/0158205/NSA-Still-Ahead-In-Crypto-But-Not-By-Much">NSA仍然保持领先</a>，但领先幅度很小，顶多数年，“我认为我们仍然站在最高峰”。Snow指出，在1980年代，NSA的实力和商业加密技术之间存在巨大的鸿沟，而现在加密技术领域越来越成熟，鸿沟逐年缩小，进展也相对缓慢。除了NSA拥有大批数学领域的博士研究人员和加密专家外，NSA还有一个优势是他们能阅读外界研究人员发表的论文，但不公开自己的研究成果。Snow这番NSA领先的言论激怒了几位著名的安全专家，Adi Shamir——RSA算法中的“S”——称，他阅读了NSA解密的截至1983年的论文标题，没有一篇论文涉及到公钥系统，他说这证明NSA落后了。Snow解释说，当技术并行而独立的发展时，开发人员并不一定会在同一技术上使用相同的术语。</i>
+➜微软在Windows Phone上演示全3D XNA游戏
+https://www.solidot.org/story?sid=16701	34500
+微软正试图将Windows Phone 7系列手机变成类似PSP的掌机平台。在GDC游戏开发者大会上，微软在ASUS生产的Windows Phone 7原型机上<a href="http://games.slashdot.org/story/10/03/11/0751254/Microsoft-Shows-Full-3D-XNA-Games-On-Windows-Phone">演示了全3D的XNA游戏</a>。<i>
+Windows Phone 7系统内置了全新的XNA Game Studio 4.0，包含了硬件加速的3D API。微软<a href="http://www.engadget.com/2010/03/09/microsoft-shows-off-xna-games-running-on-windows-phone-full-3d/">演示了两款游戏</a>：《The Harvest》，Luma Arcade开发的一款触摸控制的地下城探险游戏，游戏内环境可以毁掉；《Battle Punk》，一对一的对打游戏。微软介绍了它的Direct3D开发平台，称《The Harvest》的开发仅仅花了两到三周，已在Visual Studio中开发过XNA游戏开发者将会很容易上手。</i>
+➜摩托罗拉在中国上市的Android手机上使用Bing的搜索和地图服务
+https://www.solidot.org/story?sid=16702	36000
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 <i>"当Google一而再再而三地<a href="http://www.morgancheng.com/2010/01/13/a-new-approach-to-china-google%E5%8F%AF%E8%83%BD%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD/">威胁退出中国市场的时候</a>，摩托罗拉也在中国的确寻找搜索服务的替代品，而显然摩托罗拉找到了Google的竞争对手微软。摩托罗拉公司已经宣布将会在中国地区和微软的Bing搜索和地图服务合作，在第一季度中国地区上市的Android手机上，<a href="http://www.engadget.com/2010/03/10/motorola-partners-with-microsoft-will-use-bing-search-and-maps/">缺省的搜索和地图服务将来自于微软</a>，而不是Android的本家Google。
+</i>           <a href="http://www.morgancheng.com/">译者</a>简评：尽管摩托罗拉这一举措也许和<a href="http://www.morgancheng.com/2010/01/13/a-new-approach-to-china-google%E5%8F%AF%E8%83%BD%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD/">Google威胁退出中国没有直接联系</a>，但是很明显摩托罗拉不想自己和Google绑得太紧，毕竟，<a href="http://www.morgancheng.com/2010/01/15/%E5%BE%AE%E8%BD%AF%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%8B%E4%B8%9A/">微软可是明确表态无论如何都会继续在中国的运营的</a>，鸡蛋不要都放在一个篮子里，摩托罗拉是明智的。"
+➜中国挑选出两名已婚女航天员
+https://www.solidot.org/story?sid=16703	37500
+中国从空军运输航空兵部队挑选出它的<a href="http://news.yahoo.com/s/space/20100311/sc_space/justonehitchinchoosingchinasfirstwomenastronauts">首批女性宇航员</a>，女航天员选拔的条件和标准跟男航天员差不多，唯一的区别是必须已婚。<i>
+中国载人航天工程原副总指挥张建启称，<a href="http://news.xinhuanet.com/tech/2010-03/10/content_13141200.htm">已婚女性身体、心理更成熟一些</a>。在接受官方媒体新华社的采访中，张建启表示，女性从事航天飞行有自己的独特优势，“女性的忍耐性和细致程度，从科学分析来讲，比男性要强一些，这可能使她们在太空表现优秀。当然，我们会通过她们在空间的实际表现得出结论。”中国计划在2011年发射空间站模块舱<a href="__SLASHLINK__" sect="science" sid="10/03/03/0926253" sn="article" tid="102">天宫一号</a>，张建启<a href="http://news.xinhuanet.com/tech/2010-03/10/content_13137820_1.htm">表示</a>短期进驻空间站的航天员可能采取男女混合搭配方式。</i>
+➜Google香港和澳门地图开放街景浏览
+https://www.solidot.org/story?sid=16704	39000
+Google香港和澳门地图<a href="http://gspy.blogspot.com/2010/03/google-maps-street-view-in-hong-kong.html">加入</a>了<a href="http://maps.google.com.hk/">街景浏览</a>功能，用户拖动左上角的小人到地图中，便能360度浏览大香港的大街小巷。台湾地图是在去年8月加入了街景浏览功能。而早在2009年1月，就有几位香港用户<a href="http://www.thomascrampton.com/hong-kong/google-street-view-comes-to-hk/">报告</a> <a href="http://www.hksilicon.com/kb/articles/2147/1/-Google-StreetView-/Page1.html">发现</a>了Google街景车的身影。
+➜压力让男性迷恋大不相同的女性
+https://www.solidot.org/story?sid=16705	41280
+浪漫的人可能会说这是异性相吸，但根据一项研究，如果你发现无法抑制的爱上一位与你丝毫没有相同点的女性，<a href="http://news.sciencemag.org/sciencenow/2010/03/stressed-men-fancy-someone-diffe.html?rss=1">那么你可能是因为工作太劳累了</a>。根据发表在《英国皇家学会学报B》的一篇<a href="http://rspb.royalsocietypublishing.org/content/early/2010/03/04/rspb.2010.0258.abstract">报告</a>，德国科学家发现，有压力的男性在挑选伴侣时，<a href="http://tw.news.yahoo.com/article/url/d/a/100310/19/21s8f.html">会出现不寻常的选择</a>。<i>
+过去的研究提出大量证据说，彼此心有灵犀的男女往往在许多方面有相似之处，特别是脸部特征。Trier大学Johanna Lass-Hennemann根据实验室动物身上的经验，调查面临压力的男性，是否会对女性产生不同的反应。他们找来50名健康的学生，把他们分为两组。其中一组人必须把手浸到冰水中，模拟受压环境；另一组则把手泡在与体温相同的水里，没有精神压力。所有学生都贴着电极，浏览电脑上40名年轻女性的图片，其中30张是性感撩人的裸照，图中人物并直盯着受试者，另外10张属中性。科学家在实验前，先PS其中10张裸照的女性脸孔，让这些女生面貌与正在接受测试的男生神似。结果显示，没感到压力的男性偏好和自己长得最像的女性。另外一组有压力的男性，则独爱不像自己的女生。研究人员计划进一步研究女性在不同压力下的性选择。</i>
+➜谷歌测试电视搜索服务
+https://www.solidot.org/story?sid=16706	48600
+DNA24 写道<i> "<a href="http://chinese.wsj.com/gb/20100309/tec121551.asp">华尔街日报</a>，知情人士透露，谷歌正在与卫星电视运营商Dish Network Corp.合作测试一项新的电视节目搜索服务。将互联网内容与传统的电视结合起来是当前的一场紧张竞赛，而谷歌此举则是这场竞争的最新进展。这项服务通过装有谷歌软件的电视机顶盒运行，用户可以通过它找到Dish卫星电视的节目，以及谷歌旗下YouTube之类的网站上的视频。"</i>
+➜另一种更常见的逻辑错误：轻率归纳
+https://www.solidot.org/story?sid=16707	55200
+<a href="http://www.jiaoyan.org/">jfly</a> 写道 "<a href="__SLASHLINK__" sect="science" sid="10/03/11/0236241" sn="article" tid="68">昨天一篇文章</a>提到“后此谬误”，其实本朝最常见的是<a href="http://www.jiaoyan.org/wiki/%E6%8E%A8%E8%AE%BA#.E4.B8.8E.E5.BC.82.E8.B4.A8.E6.80.A7.E6.9C.89.E5.85.B3">轻率归纳</a>(hasty generalization)，即基于不充足的样本建立一般化结论的错误推论。在中国大陆的政治考试的试题中这样的错误非常普遍，比如：北京市水价格听证会的25个参加听证会的人员名单，其中包括消费者代表、专家学者、市人大代表和政协委员、用水企业负责人、社会组织人员、政府部门负责人等等。上述材料表明：<i>
+A.人民民主的主体具有广泛性<br>
+B.我国公民享有的民主权利具有广泛性和真实性<br>
+C.人民民主专政是民主和专政的统一<br>
+D.我国公民是国家权力的直接行使者 </i>
+（答案B）
+<br>
+且不管其使用的政治概念是否准确，其推论在逻辑上是错误的。根据一次价格听证会显然不能作出如此广泛的推论。 考过政治的人就知道这种题目贼多，除了用来伪造自己的光辉形象，还可以挑一个别人的毛病就证明别人是大坏蛋。再或者在本朝找一件好人好事就说明我们的制度无比正确，在别人的地盘找一个小偷就说明他们的制度病入膏肓。凡此种种……"

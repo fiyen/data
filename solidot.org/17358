@@ -1,0 +1,55 @@
+➜中国限制微博评论普京
+https://www.solidot.org/story?sid=53040	9748
+《金融时报》<a href="http://www.ftchinese.com/story/001073359" target="_blank"><u>报道</u></a>，北京方面已阻止在新浪微博上发表的高人气帖子评论普京 (Vladimir Putin)，使俄罗斯总统得到通常只有中国共产党精英成员才能享受到的免受公众批评的待遇。这一审查制度在周末执行，当时美国总统特朗普 (Donald Trump) 正在德国举行的 20 国集团峰会期间会晤普京。此举还突显了中俄关系目前所处的黄金时期。粉丝超过 1000 的任何微博用户，如果提到普京，都会触发一条通知：此条微博禁止评论。用户仍可自由评论特朗普和其他 20 国集团领导人。分析人士说，外国领导人很少得到通常只有中国高官才能享受的免受群众评判的安全，部分原因是批评特朗普和其他人有利于突显民主制度的缺陷。
+➜抢注权威域名服务器控制所有.io 域名
+https://www.solidot.org/story?sid=53041	11229
+我们知道域名会过期，如果域名的原拥有者忘记了续期，那么该域名有可能会被其他人抢注。想象一下，如果过期的域名是权威域名服务器的域名？.io 的域名注册商就发生了这一严重的安全事故。如果有恶意人士控制了权威域名服务器，那么所有下级域名都会被控制，可以对所有下级域名的 DNS 解析下毒或重定向。安全研究人员上周发现 .io 的 7 个域名服务器域名有 4 个（ ns-a1.io/ns-a2.io/ns-a3.io/ns-a4.io） 可以花 90 美元直接购买。在通知了域名注册商之后<a href="https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/" target="_blank"><u>这些被购买的域名才被撤回</u></a>。安全研究人员建议域名注册商启用 DNSSEC。
+➜济南成功试验量子通信网络
+https://www.solidot.org/story?sid=53042	12976
+<div align="center"><img src="http://img.solidot.org/0/936/livZrIvKr6p92.jpg" height="411" width="450" align=""><br>
+</div>
+济南政府各部门计划最迟在 8 月底<a href="http://www.ftchinese.com/story/001073360" target="_blank"><u>开始使用量子通信网络</u></a>。这一成果是对正在建设中的京沪量子网络的一个推动。<a href="http://www.solidot.org/story?sid=50144" target="_blank"><u>京沪量子通信线路</u></a>连接北京、济南、合肥和上海四个城市。中国计划将该线路用于广域量子保密通信，使用量子密钥分发（QKD）加密和解密数据。QKD 在理论上是无法被恶意第三方监听的，当然实践中总是需要有所取舍的。因为受限于光子的传输距离，QKD 光纤线路需要每隔 100 公里刷新信号。京沪量子通信线路使用了 32 个信任节点创造出一条长 2000 公里的量子通信线路。在济南进行的试验涉及在该市的 200 个不同终端之间发送高度安全的信息，整个网络覆盖数百平方公里。自斯诺登 (Edward Snowden) 爆料美国领头的互联网监听以来，随着各方日益意识到黑客攻击的代价，中国政策制定者一直关注保护国内网络空间。其结果是，政府支持大量涌入量子研究领域。
+➜俄罗斯人需要护照才能浏览 Pornhub
+https://www.solidot.org/story?sid=53043	16531
+世界最大的色情网站 Pornhub <a href="https://news.vice.com/story/russians-now-need-a-passport-to-watch-pornhub" target="_blank"><u>现在要求</u></a>俄罗斯用户使用关联护照和电话号码的社交媒体账号登陆。这一变动是 Pornhub 和俄罗斯政府之间争执的最新一章。去年九月，俄罗斯以传播有害儿童发育的信息为由屏蔽了 Pornhub。为了解除屏蔽，Pornhub 曾向俄罗斯政府<a href="https://twitter.com/Pornhub/status/776192618166452224" target="_blank"><u>提议</u></a>提供免费的 Pornhub Premium 账号，但遭到了拒绝。今年 4 月，在设立年龄门槛制度屏蔽被解除。但上个月 Pornhub 再次卷入了俄罗斯的政治漩涡，普京的反对者利用 Pornhub <a href="http://www.solidot.org/story?sid=52604" target="_blank"><u>上传了</u></a>遭俄罗斯封杀的反腐纪录片。该纪录片之后被删除。Pornhub 的最新要求可能不是为了方便用户登陆，而是方便俄罗斯监控。
+➜火狐准备完全取消对沃通、Startcom 和 CNNIC 的信任
+https://www.solidot.org/story?sid=53044	16661
+匿名读者 写道<i> "本星期 <a href="http://www.solidot.org/story?sid=53016" target="_blank">Google 宣布完全取消对沃通和 StartCom 的信任</a>。现在火狐也跟进，准备<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/Aljvh8FiROk" target="_blank">完全取消对沃通</a>, <a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/1bM5Q9MgPx4" target="_blank">Startcom</a> 和 <a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/9Ha5dKTjLsQ" target="_blank">CNNIC 的信任</a>。火狐，Google 和苹果已经不信任沃通, Startcom 和 CNNIC 新颁发的证书，但是已经颁发的证书目前已白名单的形式信任。当 Google 和火狐完全取消沃通, Startcom 和 CNNIC 证书后，所有使用这些证书的网站都会报错，无法访问。Google 和火狐都督促使用以上证书的网站，“立即” 更换证书。"</i>
+➜香港登记的新特斯拉汽车从 3 月的 2939 辆减少到 4 月的 0 辆
+https://www.solidot.org/story?sid=53045	18748
+《华尔街日报》<a href="https://www.wsj.com/articles/teslas-hong-kong-sales-gutted-by-tax-change-1499598003" target="_blank"><u>报道</u></a>，香港交通局登记的新特斯拉汽车从 3 月份的 2939 辆减少到 4 月的 0 辆，原因是电动汽车不再免税。香港特区政府以应对交通堵塞的理由开始对电动汽车征税，导致特斯拉汽车的售价从不到 7.5 万美元增加到 13 万美元。征税影响了特斯拉汽车的销售，在没有征税前的 2016 年 12 月和 2017 年 1 月，新特斯拉的每月登记数量仅为 168 辆，2 月增加到了 590 辆，3 月增加到 2939 辆，新车主显然是试图在征税生效前赶紧购买。
+➜Windows Store 开始提供 Ubuntu 下载
+https://www.solidot.org/story?sid=53046	25415
+微软官方应用商店 Windows Store 开始提供 Ubuntu 发行版的<a href="https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6?tduid=(f3714eb0a1c129385fa76ee5c01dfd15)(259740)(2542549)(UUwpUdUnU49407)()" target="_blank"><u>下载</u></a>。用户可以像安装和运行 Windows 应用一样使用 Ubuntu 终端和运行命令行工具。微软是在今年上半年举行的  Build 开发者大会<a href="http://www.solidot.org/story?sid=52377" target="_blank"><u>宣布</u></a> Ubuntu、SuSE 和 Fedora 三大发行版将进入 Windows Store。此举旨在吸引 Linux 开发者使用 Windows，是微软拥抱 Linux 和开源社区的众多举措的一部分。
+➜研究称 100 家公司负责 71% 的全球排放
+https://www.solidot.org/story?sid=53047	27880
+<div align="center"><img src="http://img.solidot.org/0/371/lizC0TR1z6Ac.png" height="277" width="500" align=""><br>
+</div>
+<br>
+一项受争议的研究<a href="https://news.slashdot.org/story/17/07/10/2129220/only-100-companies-are-responsible-for-71-percent-of-global-emissions-says-study" target="_blank"><u>声称</u></a>全球 100 家公司要为 71% 的全球温室气体排放负责。报告作者的计算方式引发了争议：汽车使用了一家石油生产商的汽油产品，那么汽车产生的排放应该算在石油生产商的头上？名为 <a href="https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240" target="_blank"><u>Carbon Majors Report</u></a>（PDF）的报告就是根据这种方式计算的，认为自 1988 年以来超过半数的全球工业排放可追溯到 25 家企业和国有实体。埃克森美孚、壳牌、英国石油和雪佛龙是谁 1988 年以来排放最高的私有企业。如图所示，中国煤炭的累积排放最高。
+➜中国科学家破解反应堆中微子反常
+https://www.solidot.org/story?sid=53048	30039
+实验探测到的反应堆中微子数目总比理论模型预期的少，这就是所谓的“反应堆中微子反常” 现象。现在，中国大亚湾核电站的研究人员在《物理评论快报》上发表<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.251801" target="_blank"><u>论文</u></a>，表示他们解开了中微子反常现象，<a href="http://news.sciencenet.cn/htmlnews/2017/7/381951.shtm" target="_blank">原因是计算错了</a>。中科院高能物理所的曹俊研究员解释说：大部分核反应堆使用铀 235、铀 238、钚 239 和钚 241，中微子来自它们裂变产物的后续衰变，大约带走 5% 的能量。现在主要采用的模型，是 1980 年代实验测得几种裂变材料释放的电子能谱后推出的中微子能谱。这种模型不符合实验结果。反应堆一般以恒定的功率发电。每次裂变时，这 4 种同位素释放的能量都差不多，但释放的中微子数目和能量则不一样。因此，随着核燃料成分的演化，反应堆释放的中微子数目和能量分布将会发生变化。大亚湾实验 4 年的运行积累了超过 200 万个中微子事例。利用这些数据，可以比较不同核燃料成分时的中微子数目，从而推算各个同位素的中微子产额。实验发现，核燃料中最主要的成分铀 235 产生的中微子数目与模型预期不一致，主流模型的预期比实际观测高了 8%。新结果认为，反应堆中微子反常很可能是铀 235 的中微子产额计算不正确。
+➜官方对党员使用社交媒体妄议中央发出警告
+https://www.solidot.org/story?sid=53049	31245
+中纪委机关报《中国纪检监察报》发表<a href="http://csr.mos.gov.cn/content/2017-07/07/content_51468.htm" target="_blank"><u>文章</u></a>，对党员干部在微信朋友圈发表评论妄议中央发出警告。文章称，<i> “随着微信的普及，一股值得警惕的暗流却在少数党员干部中悄悄涌动。从在 “朋友圈” 妄议中央大政方针，到在微信群发放红包拉票贿选，再到利用微信造谣、传谣，一些不守纪律、不讲规矩的苗头在微信上出现... 剖析近年来查处的案件，有的党员干部自认为微信世界是虚拟的，不必受共产党员身份的约束而肆无忌惮；有的党员干部以为自己在微信中是匿名的，所以任意宣泄个人情绪、表达个人观点；还有的党员干部觉得在微信上收送红包，数额不大，没有什么问题，却没有意识到已经违纪... 纪律无小事。无论是日常生活，还是虚拟网络，党员干部都要严格遵守党的纪律，守住底线，自觉规范在微信等网络空间的言论，自觉维护网络宣传阵地，树立良好的社会形象... 网络不是法外之地，微信也不例外。党员干部的一言一行代表着党和政府的形象。”</i>微信是实名制社交网络，并不具有匿名性，腾讯被认为在内容审查和监视上与政府有密切合作。
+➜上半年 14 亿美元风投蒸发
+https://www.solidot.org/story?sid=53050	33409
+风险投资是一门高风险的生意，你的投资可能会颗粒无归，也可能获得十倍甚至百倍的回报。Businessinsider<u> 报道</u>，今年上半年融资总额达 14.8 亿美元的 7 家创业公司倒闭，这些风投也就随之蒸发掉了。二手车网站 Beepi 因资金枯竭于 2 月份关闭；移动搜索引擎 Quixey 因为无法找到稳定的收入来源而于 2 月底关闭；匿名社交媒体应用 Yik Yak 因为无法吸引用户使用于 4 月 28 日关闭；提供食物快递服务的 Maple 于 5 月倒闭；按需提供高质量食物的 Sprig 也于同一个关闭；提供室内睡眠传感器设备的 Hello 于 6 月关闭，可穿戴设备提供商 Jawbone 于本月倒闭；代理泊车的 Luxe 已经停止运作但还没有关闭。
+➜微软将销售 Windows 和 Office 的捆绑订阅服务
+https://www.solidot.org/story?sid=53051	35431
+微软<a href="https://tech.slashdot.org/story/17/07/10/146228/microsoft-will-sell-office-windows-as-a-bundle" target="_blank"><u>宣布</u></a>将提供 Windows 10 和 Office 的捆绑订阅服务 Microsoft 365。Microsoft 365 提供两个版本，其一面向大型企业，其二面向中小型企业，将会包含安全和管理工具。微软还没有公布两种版本的价格。在云计算时代，越来越多的企业开始将传统的软件作为一种订阅服务提供给客户，比如 Adobe Creative Suite 和微软的 Office 365。
+➜记忆增强药物逆转小鼠的创伤性脑损伤效应
+https://www.solidot.org/story?sid=53052	41456
+外力造成的创伤性脑损伤通常是永久性的，没有药物能逆转创伤引发的认知下降和记忆损失。手术干预需要在受创数小时内进行才有效。但根据发表在 PNAS 期刊上的<a href="http://www.pnas.org/cgi/doi/10.1073/pnas.1707661114" target="_blank"><u>一项研究</u></a>，一种以前用于增强记忆的药物<a href="http://www.sciencemag.org/news/2017/07/memory-enhancing-drug-reverses-effects-traumatic-brain-injury-mice" target="_blank"><u>逆转了</u></a>小鼠的创伤性脑损伤效应。这项研究为创伤性脑损伤患者带来了希望。美国每年有 200 万人受到创伤性脑损伤的影响。研究人员使用的药物叫 ISRIB，他们连续三天让脑受伤小鼠服用 ISRIB，利用迷宫测试小鼠的认知能力，结果显示服药后的小鼠在迷宫中的表现与健康小鼠一样出色。他们重复了实验，ISRIB 被证明仍然有效。ISRIB 此前曾被 Google 的 Calico 用于研究抗衰老和延长寿命。
+➜深圳创业孵化器被指存在泡沫
+https://www.solidot.org/story?sid=53053	43738
+深圳从一个沉睡的渔村变成了最可能媲美硅谷的亚洲城市，苹果和谷歌在此生产智能手机，腾讯和大疆的总部也位于这里，这里还有数千家试图效仿这些巨擘的创业型企业。
+中国经济仍然稳健，但一些泡沫正在出现，包括在房地产和海外并购领域。在科技领域，政府提出的打造科技行业实力的目标以及利用政府东风的大量风险资本，<a href="http://www.ftchinese.com/story/001073355?full=y" target="_blank"><u>正推高创业型企业的估值</u></a>。
+据中国官方媒体称，这个拥有 1100 万人口的城市拥有近 450 家创业孵化器，有 8500 多个创业团队入驻。未来还会出现更多孵化器。深圳以科技业为重心的南山区计划再建设 15 家创业孵化器，预计总量到 2020 年将达到 1000 家。
+➜已知唯一一种用内脏泵血的动物
+https://www.solidot.org/story?sid=53054	45310
+高中生物课告诉我们，循环系统泵血和消化系统泵送食物。但海蜘蛛（sea spider）显然跳过了这门课：它们用内脏泵血，是<a href="http://www.sciencemag.org/news/2017/07/meet-only-animal-known-pump-blood-its-guts" target="_blank"><u>已知唯一一种用内脏泵血的动物</u></a>。研究人员发现，海蜘蛛的心脏跳动微弱，但强大的消化系统能将食物和血输送到内脏，通过内脏收缩泵血和输送氧气。<a href="http://www.cell.com/current-biology/fulltext/S0960-9822(17)30628-0" target="_blank"><u>论文</u></a>发表在《Current Biolog》期刊上。研究人员不十分清楚为什么消化系统要负担原本交给循环系统的工作，一种解释是通过同时泵血和泵送食物可以节省能量。海蜘蛛没有鳃，它需要将氧气从四肢输送到身体中心，它吸收氧气是利用四肢表面的扩张。研究人员怀疑其它动物可能也会采用类似的方法。
+➜家用机器人需要隐身才能被接受
+https://www.solidot.org/story?sid=53055	47049
+你拥有多少台计算机？如果你给出的数字接近 3（智能手机、平板和笔记本电脑），那么你可能忽略了许多其它计算机，比如嵌入在汽车中的计算机、家电中的计算机、自动调温器中的计算机，甚至电灯泡里的计算机。每年这个数字还会增长。今天，看不见的计算机只是冰山一角。有大量的计算机在你不知道的情况下在默默的工作。你不需要知道它们，你需要的是它们把工作做好。Roomba 的发明人 Joe Jones 认为，<a href="http://spectrum.ieee.org/automaton/robotics/home-robots/why-i-think-home-robots-will-become-invisible" target="_blank"><u>家用机器人也需要遵循这一趋势</u></a>，因为消费者不想要看到嗡嗡叫的机器人在周围移动，他们想要看到的是一尘不染的地板。人类想要机器人为他们做事，但不想要机器人挡着他们的道。

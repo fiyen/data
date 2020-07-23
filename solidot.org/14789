@@ -1,0 +1,96 @@
+➜PyPy 1.3发布
+https://www.solidot.org/story?sid=18639	3360
+用Python语言实现的Python解释器<a href="http://pypy.org/">PyPy</a> 发布了<a href="http://pypy.org/download.html">v1.3版</a>，新版本<a href="http://lwn.net/Articles/394010/">主要特性包括</a>：初步支持C语言写的CPython扩展模块；修正了JIT编译器bug，改进了稳定性；小幅改进了JIT代码，加快了编译时间等等。
+➜韩国称朝鲜网络战实力很强
+https://www.solidot.org/story?sid=18640	4500
+<a href="http://cnnet.us/taobao/">Taobao</a> 写道 <i>"韩国《中央日报》<a href="http://chinese.joins.com/gb/article.do?method=detail&amp;art_id=46858&amp;category=002002">报道</a>，韩国国军机务司令部<a href="http://cnnet.us/taobao/korea-net-war/">近日称</a>，韩国军队电子计算机网络平均每天受到9万5000多次的攻击，如果有黑客侵入军方内部的网络，韩国脆弱的防火墙将使军方处于束手无策的地步。朝鲜并不像某些人所描绘的那样落后。朝鲜曾于2009年通过中国以DDOS的方式攻击了韩国和美国主要机构的网站主页。据悉，仅平壤的朝鲜计算机中心就有800名网络人才在投入战斗。而韩国从今年1月起设置了网络司令部，但相关人员仅有160多名。中国的网络战斗力也非常强大。有分析称，中国军队拥有5万名黑客，并设置有250个网络部队。"</i>
+➜苹果粉丝“视而不见”iPhone 4天线的缺陷
+https://www.solidot.org/story?sid=18641	5760
+虽然iPhone 4的天线设计存在缺陷，但<a href="http://cn.wsj.com/gb/20100629/hrd083721.asp">狂热的粉丝们对此视而不见</a>。苹果周一表示，在iPhone 4发布后的前三天，已售出170万部。许多用户表示，他们愿意容忍信号接收问题，而在过去他们可能将此归咎于AT&amp;T的网络拥堵。真正的问题在于，天线以及运营商的拥堵问题，是否将放缓那些还未崇尚苹果产品的消费者对iPhone的接受进程。他们不仅可能对产品的缺点缺乏耐心，而且他们可以从更加广泛的替代智能手机中进行选择。<i>
+此外，对于左手握手机导致的信号衰减问题，苹果一度回应是使用方法错误，有人重新回顾了苹果CEO乔布斯在苹果全球开发者大会(WWDC)上对天线的介绍和手机的演示，<a href="http://www.zdnet.com.tw/news/comm/0,2000085675,20146360,00.htm">发现乔布斯也示范错误</a>：他也是用左手握手机。乔布斯对天线的介绍是：“这是聪明的工程设计，用不锈钢边框作为天线系统的一部分...把整合式的天线纳入手机的结构，之前没人这么做过，实在是很酷的工程设计。”与会群众<a href="http://www.mobilecrunch.com/2010/06/25/ios-update-to-ship-early-next-week-fix-death-grip-issue/">报以热烈的喝彩</a>。</i>
+➜2200万使用中的SSL证书是无效的
+https://www.solidot.org/story?sid=18642	8160
+广泛使用的SSL证书可能没有你认为的那么安全。一项新研究指出<a href="http://www.esecurityplanet.com/features/article.php/3890171/SSL-Certificates-In-Use-Today-Arent-All-Valid.htm">SSL证书没有全部正确设置</a>。<i>
+安全研究公司Qualy将在下个月举行的Black Hat会议发表一项研究报告。在研究中，Qualy公司扫描了1.19亿个域名，发现只有9200万个域名活跃，1240万个域名没有正确解析，1460万个域名没有响应。在响应的活跃域名中，3400万个域名开放了80端口和443端口，443端口主要用于SSL加密。研究人员深入挖掘了使用443端口的网站，发现只有2300万网站真正部署了SSL。他们调查了SSL证书是否匹配域名，发现只有3.17%的域名正确匹配，也就是说高达2200万SSL证书是完全无效的。</i>
+➜Activision撤销终止令，粉丝游戏项目复活
+https://www.solidot.org/story?sid=18643	9900
+《国王密使 (King's Quest)》系列冒险游戏的版权持有者Activision，在今年初向一个有8年历史的粉丝游戏制作项目发出了<a href="__SLASHLINK__" sect="internet" sid="10/03/01/0634205" sn="article" tid="120">终止令</a>。 The Silver Lining开发团队过去8年一直在努力开发最后一代官方游戏《国王密使8》的续集。《国王密使8》于1998年上市，计划中的《国王密使9》在开发中途被取缔。<i>
+现在，<a href="http://www.tsl-game.com/news.php">The Silver Lining网站</a>宣布项目复活，网站声明称Activision重新审视他们的决定，在与开发小组协商后，正式撤销了终止令，授予开发小组以非商业许可证的方式发行The Silver Lining。开发小组对粉丝的不懈支持表示感谢，宣布The Silver Lining第一季（共计划五季）将于7月10日发布。</i>
+➜色情行业准备放弃Flash
+https://www.solidot.org/story?sid=18644	11100
+Flash和HTML5的争论突然出现了意想不到的变数：<a href="http://news.slashdot.org/story/10/06/28/1932245/Porn-Industry-Ready-To-Drop-Flash?art_pos=8">色情行业也许将成为压垮Flash的最后一根稻草</a>。<i>
+大型成人电影工作室Digital Playground表示，如果所有的浏览器都为HTML5做好准备，它今天就会放弃Flash。公司创始人表示Flash带来了很多问题，如运行缓慢，影响电池寿命。有了HTML5之后，就没有任何理由再使用Flash。Digital Playground还表示，它不指望大众能在短时间内接受3D。</i>
+➜泄漏演示文档显示微软计划为Windows 8设立应用程序商店
+https://www.solidot.org/story?sid=18645	16800
+一份泄漏的微软内部演示文档<a href="http://news.cnet.com/8301-13860_3-20009035-56.html">透露了Windows 8的细节</a>：包括支持3D显示、无线连接TV、支持USB 3.0和蓝牙3.0，减少启动时间，以及<a href="http://www.neowin.net/news/microsoft-planning-039windows-store039-app-store-for-windows-8">整合应用程序商店</a>等。<i>
+Windows 8应用程序商将能让消费者发现和下载可靠的应用程序，消费者可以在网上搜索或在本地访问这些应用程序。微软还阐述了面向应用程序开发者的方案，以确保开发者能灵活利用透明的流程制定许可证和价格。Windows Store将是微软提供的一项软件服务，托管在微软的云服务器中。</i>
+➜新闻报纸撤回“气候门”报道
+https://www.solidot.org/story?sid=18646	20100
+《星期日泰晤士报》<a href="http://www.realclimate.org/docs/ST_Correction_img007%5B1%5D.jpg">声明</a>(截图)<a href="http://www.realclimate.org/index.php/archives/2010/06/leakegate-a-retraction/">撤回</a>一篇“气候门”报道——《联合国气候变化小组因错误（亚马逊）雨林的声明而遭羞辱》，承认报道与事实不符；《法兰克福评论报》4月份也<a href="http://www.wissenslogs.de/wblogs/blog/klimalounge/medien-check/2010-04-26/frankfurter-rundschau-klimarat-ipcc-africagate">撤回</a>一篇气候门报道。《新闻周刊》的一篇文章引用马克吐温的名言“真理未出门，谎言传千里”<a href="http://www.newsweek.com/blogs/the-gaggle/2010/06/25/newspapers-retract-climategate-claims-but-damage-still-done.html#comments">评论道</a>，尽管东英吉利大学气候研究中心泄密的邮件在拒绝人为全球变暖的活跃分子的推波助澜下在互联网上广泛传播，但最终真相仍然战胜了谎言，文章也遗憾的表示“大错已经铸成”。看起来，主流气候学家已经成功的回击了邮件泄漏引发的危机，现在减少碳排放<a href="http://www.salon.com/news/politics/war_room/2010/06/25/climategate_retraction/index.html">应该不会再有人反对了</a>？
+➜风雨飘摇的“谷歌”
+https://www.solidot.org/story?sid=18647	21360
+<a href="http://www.gamerh2o.com/">gamerh2o</a> 写道<i> "搬到香港的谷歌依然很郁闷。虽然将搜索服务改为google.com.hk避开了审查，但是其他在中国大陆的服务--音乐，翻译等服务依然挂靠在google.cn上，<a href="http://googleblog.blogspot.com/2010/06/update-on-china.html">Google官方博客</a>称他们把google.cn网址直接重定向到google.com.hk的做法是“明显不可能被中国官方接受的”，因此也很有可能不会通过<a href="http://zh.wikipedia.org/zh-cn/ICP">ICP牌照</a>的审查，这将导致Google彻底退出中国。所以他们对<a href="http://www.google.cn/">google.cn</a>的<a href="http://www.google.cn/landing/cnexp/indexd.html">登陆页面</a>做了一点改动，需点击一下才能跳转到谷歌香港（google.com.hk)，并希望通过这项改动能通过在六月三十号到期的ICP牌照复审。
+</i>你觉得能通过吗？"
+➜NASA指挥官：我们是宇航员，太空没有“性”
+https://www.solidot.org/story?sid=18648	23100
+法新社<a href="http://www.physorg.com/news196919758.html">报道</a>（<a href="http://tw.news.yahoo.com/article/url/d/a/100629/19/28aqa.html">中文</a>），发现号航天飞机指挥官Alan Poindexter，在回答宇航员若在任务期间进行性行为后果如何时，表示国际空间站没有为浪漫留下空间，“我们是一群专业人士，我们相互尊重，且有绝佳的工作关系。私人关系并非…问题。我们没有也不会有那些关系”。发现号航天飞机在今年4月执行了为期两周的空间站运补任务。在这项任务中，首次有4位女性同处太空轨道。虽然性在太空是禁忌，但在地面时宇航员肯定还是会有七情六欲。2007年，由于怀疑情敌正与一位同事有染，NASA女太空人Lisa Marie Nowak包著成人纸尿布，连厕所都不用上，长途驾车横越美国大陆，赶去挑衅。
+➜相信自己是好人或坏人能让体能变强
+https://www.solidot.org/story?sid=18649	26700
+哈佛大学心理学博士生<a href="http://www.wjh.harvard.edu/~kurtgray/">Kurt Gray</a>的一项研究发现，<a href="http://news.harvard.edu/gazette/story/2010/04/strength-in-naughty-or-nice/">道德行为可能会增强人的毅力和身体耐力</a>。<i>
+他将这种现象称之为道德的自证预言。Gray称，当人们认为自己在做好事或坏事时，他们会变得更有效力、更有毅力，对待不舒服的敏感性也会下降。通过感知善与恶，人们会拥抱此种感觉，实际上确能增强自己的忍耐力。Gray的发现与传统看法背道而驰，传统认为英雄品质是英雄们幸运拥有的较高意志力或较强自控能力，而不是凭借想象中的英雄事迹就能赋予个人更强的能力。</i>
+➜Facebook用户每天在上面花160亿分钟时间
+https://www.solidot.org/story?sid=18650	28320
+世界最大社交网站Facebook的4亿用户，每天花160亿分钟以上的时间在网站上，每秒浏览100万张照片。汹涌的流量也迫使Facebook增加基础设施，目前它的服务器数量已经增加到<a href="http://www.datacenterknowledge.com/archives/2010/06/28/facebook-server-count-60000-or-more/">60000台以上</a>。<i>
+Facebook的Tom Cook上周在O"Reilly Velocity会议上介绍了该公司服务器维护团队的管理经验。在2009年11月，Facebook负责技术的副总裁Jeff Roths曾披露服务器数量超过30000台，然而仅仅隔了半年，它的服务器数量就翻了一番。不过，Facebook并不是服务器数量最多的技术企业：Intel公司有10万台服务器，1&amp;1 Internet公司有7万台，OVH公司有65000台。Google的服务器数量可能有上百万台之多。</i>
+➜没有朋友？在网上租一个
+https://www.solidot.org/story?sid=18651	31200
+家庭主妇、大学生以及其他人开始为一家朋友租赁网站工作，<a href="http://skunkpost.com/news.sp?newsId=2680">他们提供的陪伴服务是根据小时计费的</a>。这个网站叫rentafriend.com，仅成立7个月时间，模仿了在日本等地极为流行的租人服务。日本人有很多理由去租人，比如学生在学校里闯祸或者喝酒抽烟被抓，他们会租一位父母去会见学校官员。一位女子在搬家之后，租了一位女大学生每周3天去养老院看母亲。Rosenbaum每月有大约10万独立访问者，有大约2000名付月费或年费的客户，他们可以根据大约16万名潜在陪伴的照片寻找一位合适的人作伴。每小时的费用大约在10美元到150美元之间。
+➜FFmpeg的VP8编解码器
+https://www.solidot.org/story?sid=18652	33120
+FFmpeg的开发者正在实现<a href="http://blogs.gnome.org/rbultje/2010/06/27/googles-vp8-video-codec/">他们自己的VP8编解码器</a>。<i>
+开发者表示不使用Google提供的VP8编解码器的好处是：可以在VP8编码器与先前的VPx编码器之间共享代码，有利于优化；他们相信自己的原生VP8编码器可以比Google VP8编码库的表现更好。开发者通过重新利用现有的H.264代码库的代码，仅仅用1400行代码就实现了自己的原生解码器。不过此举也引起了<a href="http://developers.slashdot.org/story/10/06/28/1120200/VP8-Codec-Coming-To-FFmpeg">专利侵犯</a>的担忧。</i>
+➜星期二出生问题
+https://www.solidot.org/story?sid=18653	35280
+“我有两个孩子，其中一个是男孩出生在星期二，请问我有两个儿子的概率是<a href="http://science.slashdot.org/comments.pl?sid=1701394&amp;cid=32727840">多少</a>？”<i>
+这是智力游戏设计者Gary Foshee在今年三月份亚特兰大举行的Gathering 4 Gardner大会上<a href="http://sciencenews.org/view/generic/id/60598/title/When_intuition_and_math_probably_look_wrong">提出的问题</a>。Gathering 4 Gardner是受业余数学家Martin Gardner启发而成立的，一个由数学家、魔术师、智力游戏爱好者参加的会议。Martin Gardner于5月22日去世，享年95岁。也许有人会认为，星期二是障眼法故意迷惑人的，实际可简化为“男女、男男、女女”的问题。但不管你相信不相信，问题中的星期二是有关联性的，虽然有几分模棱两可。斯坦福大学的数学家<a href="http://www.maa.org/devlin/devlin_04_10.html">Keith Devlin</a>最初也认为星期二是不相关的，他后来回忆起Gardner本人也曾经设计过一个类似的2个孩子问题。</i>
+➜科学家创造出可编程“折纸”
+https://www.solidot.org/story?sid=18654	39120
+科学家创造出一种能像变形金刚那样变形的<a href="http://news.sciencemag.org/sciencenow/2010/06/video-programmable-origami.html">可编程复合材料薄片</a>(视频)。<i>
+这种复合材料薄片能自我折叠出玩具船、帐篷，甚至是纸飞机。它的内部嵌入了柔韧性的电路，边缘则镶嵌有铝促动器——一种很薄的固体马达——能在电流刺激下扩展或收缩。当“折叠出”预编程的形状后，薄片边缘上的微小磁铁使其保持该形状不变。研究人员表示，这项技术可用于创造便携式三角架，甚至是杯子，其形状可以根据注入的液体而进行调整。<a href="http://www.pnas.org/cgi/doi/10.1073/pnas.0914069107">报告</a>发表在最新一期的《美国国家科学院学报》上。</i>
+➜福建三网民上诉被驳回维持原判
+https://www.solidot.org/story?sid=18655	40800
+财新网<a href="http://policy.caing.com/2010-06-28/100156280.html">报道</a>，6月28日上午，福州市中级法院对三网民诽谤案做出二审宣判，驳回上诉。<i>法院认定原判中三名被告明知信息虚假却执意将信息刊载在互联网上，严重损害政府形象和危害社会秩序，因此判定诽谤罪名成立，维持原判。维持一审以诽谤罪分别判处范燕琼有期徒刑二年，游精佑、吴华英各有期徒刑一年的判决。据游精佑辩护律师刘晓原分析，此次二审维持原判后，被羁押近一年的吴华英应该在6月30日走出看守所，而游精佑到7月4日也应获得释放。但获刑两年的范燕琼于2009年6月26日被捕，两年刑期需到2011年6月25日方期满。美国之音<a href="http://www1.voanews.com/chinese/news/china/20100628-china-internet-97294344.html">报道</a>称，此案是对中国网民网上言论自由的极大威胁。</i>
+美国之音的另一条不相干的消息：<a href="http://www1.voanews.com/chinese/news/US/20100628-SUPREME-COURT-GUNS-97329419.html">美国最高法院赞成个人拥有枪支</a>。最高法院以5比4的表决结果通过了裁决。裁定将个人拥有枪支的宪法权利应用于全国范围，这是对美国中西部的伊利诺伊州禁枪的回应。
+➜Valve发布Portal 2 E3 Demo视频
+https://www.solidot.org/story?sid=18656	44100
+Valve<a href="http://elder-geek.com/2010/06/portal-2-e3-demo-part-1/">发布</a>了<a href="http://youtaba.tk/laobubu/ng/find.php?keyword=Portal+2+E3+Demo+&amp;type=search">Portal 2 E3 Demo</a>(Youtaba)的完整视频。视频共分7部分，Valve每天发布一部分，目前只发布到Part 3。另外，Game Trailers也评出了它的<a href="http://www.gametrailers.com/game/best-of-e3-2010-awards/13215">Best of E3 2010奖</a>，包括最大惊喜，最佳第一人称射击游戏，最佳3D图形，最尴尬时刻等等。
+➜Goce卫星公布地球高清引力分布图
+https://www.solidot.org/story?sid=18657	46800
+欧洲航天局（ESA）2009年3月发射升空的<a href="http://www.esa.int/esaLP/LPgoce.html">GOCE卫星</a>，发布了<a href="http://news.bbc.co.uk/2/hi/science/nature/8767763.stm">一幅非常详尽且壮观的地球引力分布图</a>。
+地图显示了根据引力定义的地球表面，展示了每个调查点的平均引力高度差异。如果把一个球放在上面，它不会四处乱滚，因为地球各地的引力基本一致。引力明显差异的地区是在印度洋的深海和冰岛附近的高地，证明我们的地球并不是密度均匀的球体。没人知道这种引力异常是否对应于已知的地理现象，是否表明重金属矿的存在，或是该地是地幔薄弱的热点区域？
+➜Google Storage for Developers初体验
+https://www.solidot.org/story?sid=18658	52920
+<a href="http://ioio.name/">匿名读者</a> 写道 "周日还在写邮件询问<a href="http://code.google.com/apis/storage/docs/overview.html">Google Storage</a>的事，它现在只针对美国开发者开放。周一还是意外收到邮件拿到了邀请，免不得晚上熬夜把玩了一番。现在收到邀请的开发者配额有100GB的数据存储空间和300GB的月流量，超过使用可以向他们开发团队申请增加。
+<i>
+Google Storage for Developers（简称GS）目前提供三种形式的管理工具，基于网页界面的<a href="https://sandbox.google.com/storage/">Google Storage Manager</a>，开源的命令行管理工具<a href="http://code.google.com/apis/storage/docs/gsutil.html">GSUtil Tool</a>和<a href="http://code.google.com/apis/storage/docs/gspythonlibrary.html">Python Library</a>（改进过的<a href="http://code.google.com/p/boto">boto</a>，原为Amazon S3的）。</i>           <strong>Google Storage Manager</strong> <br> <br>
+Google Storage Manager的界面比较简单，只能新建Bucket(存储库)，新建文件夹，批量上传，批量删除和共享文件，虽然GS有严格的访问控制权限（ACLs），但在Google Storage Manager里面还无法管理权限分配。同时还提供了一个类似书签的地方保存经常使用的存储库和文件夹用于快捷访问。
+Google Storage Manager 不能单独使用IE访问，可以使用下面版本的浏览器访问：
+<ul> <li> <i>Google Chrome 4.1+</i> </li>
+<li>Chrome Frame for IE</li>
+<li>Firefox 3.6+</li>
+<li>Safari 4.0+</li>
+</ul>
+这主要原因可能是IE原生不支持多文件的选取与上传。
+<br> <br>
+<strong>GSUtil Tool</strong> <br> <br>
+GSUtil Tool是更强大的命令行管理工具，可以安装在Linux和Mac OS上，也可以通过Cygwin安装在Windows上。第一次运行GSUtil Tool时候需要进行简单的配置，如果还没有手工配置直接输入命令就会出现提示，输入授权ID和访问KEY重新执行刚才的命令就可以了。
+<br> <br>
+通过GSUtil Tool可以直接像操作本地文件一样操作远程文件，它提供一些类似本地shell的命令.<br> <br>
+<strong>Python Library</strong> <br> <br>
+Python Library是提供的一组Python API用于访问Google Storage，它源自boto（AS3的访问接口）。使用Python Library访问Google Storage仍然需要依赖GSUtil。目前Google App Engine已经支持使用Python Library访问Google Storage。
+<br> <br>
+此外Google Storage API提供了非常RESTful的接口用于访问Google Storage，除了使用上面的工具，你还可以自己动手通过API访问Google Storage。<br> <br>
+我在GAE上放了一个<a href="http://storage-cdn.appspot.com/">DEMO</a>用于遍历存储库中文件及提供下载链接，欢迎<a href="http://commondatastorage.googleapis.com/ioio/diveintohtml5.tar.gz">测试速度</a>。
+<br> <br>
+<em>题外话：</em>
+Google Storage的出现弥补了Google App Engine文件存储的缺陷，但是GAE文件执行时间的问题导致还是无法利用GAE来传送大文件到GS。虽然网站上已经对资源的标了价格，但目前Google还没有提供查询资源使用情况及付费的入口。另一方面GS比S3吸引力更大的地方是有免费配额，无疑为在项目初期选择它又多了一道砝码。"

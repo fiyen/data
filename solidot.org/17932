@@ -1,0 +1,12 @@
+➜Guido van Rossum 成为 Python 指导委员会成员
+https://www.solidot.org/story?sid=59521	20041
+终身仁慈独裁者（BDFL）Guido van Rossum 退休之后，Python 软件基金会建立了新的治理模式。新的治理模式依赖于五人组成的指导委员会去建立引入新功能的标准流程。2 月 4 日在为期两周投票后，Python 社区选出的<a href="https://discuss.python.org/t/2019-steering-council-election-results/824" target="_blank"><u>五人指导委员会</u></a>仍然包括了之前退而不休的 van Rossum，终身仁慈独裁者不当独裁者而当普通一员了。得票最多的五个人除了 van Rossum，还有 Barry Warsaw、Brett Cannon、Carol Willing 和 Nick Coghlan。
+➜因杀毒软件问题 Mozilla 暂停 Windows 版 Firefox 65 推送
+https://www.solidot.org/story?sid=59522	29534
+部分 Firefox 用户在升级到最新稳定版后报告无法访问任何 HTTPS 网站，浏览器返回了连接不安全/证书不被信任的错误警告，Mozilla 因而<a href="https://www.zdnet.com/article/windows-firefox-65-rollout-halted-by-mozilla-av-clash-stopped-users-browsing/" target="_blank"><u>暂停了</u></a> Windows 版 Firefox 65 的推送。该问题主要影响安装了  AVG 或 Avast 杀毒软件的用户。Avast 和 AVG 内置的 HTTPS 过滤功能导致了这一问题，但为了限制对用户的影响，Mozilla 暂停了所有 Windows 用户的自动更新 ，而 Avast 释出了一个新的杀毒引擎禁用了  Avast 和 AVG 产品的  Firefox HTTPS 过滤。
+➜研究称欧洲殖民美洲间接导致地球进入小冰期
+https://www.solidot.org/story?sid=59523	30671
+一项新研究认为，15 世纪末欧洲人在美洲的殖民行为，造成原住民大批死亡，间接导致全球气温下降，<a href="https://www.bbc.com/zhongwen/simp/chinese-news-47117119"><u>地球进入“小冰期”</u></a>。伦敦大学学院的研究人员对 1492 年美洲土著与欧洲人第一次接触前后的人口变化进行了对比分析。15 世纪末，有约 6000 万人口生活在美洲大陆，占世界总人口约 10%。在经历了战乱，疾病，包括欧洲人带去的天花，麻疹等，以及奴役，社会崩溃等磨难后，到 16 世纪末，美洲土著人口降到了 500 万至 600 万人。意味着，在不到 100 年间，约 5600 万人口被从地球上抹去了。研究小组推算，至少 5500 万公顷的土地，随着土著人口的急剧消亡而自然退耕还林。植被重新覆盖土地继而吸收了大量的二氧化碳，使得大气中的二氧化碳浓度下降了7-10ppm。这足以导致地球平均气温下降 0.15 摄氏度。研究人员认为这显示人类的活动早在工业革命之前就已经影响到了地球气候。
+➜Firefox 将从下个版本起默认关闭音频自动播放
+https://www.solidot.org/story?sid=59524	57000
+从计划于 2019 年 3 月 19 日释出的 Firefox 66 起，Mozilla 计划<a href="https://www.zdnet.com/article/firefox-to-block-auto-playing-audio-starting-march-2019/" target="_blank"><u>默认屏蔽声音的自动播放</u></a>，去年释出的 Nightly 版本已经对此进行了测试。新规定将应用于任何没有用户提前进行互动比如点击按钮就播放声音的网站。音频自动播放禁令将适用于浏览器多媒体播放的 HTML5 音频和视频元素，意味着 Firefox 将屏蔽来自广告和视频播放器的声音。Chrome 浏览器在一年前采取了类似的决定，默认屏蔽自动播放。微软也宣布了类似的计划，但还没有付诸实践。

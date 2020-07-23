@@ -1,0 +1,47 @@
+➜Google换了新Logo
+https://www.solidot.org/story?sid=45353	12199
+<div align="center"><img src="http://img.solidot.com.cn/0/980/liXFgmNuNxJNQ.gif" align=""><br>
+<br>
+</div>
+Google<a target="_blank" href="http://googleblog.blogspot.com/2015/09/google-update.html"><u>官方博客</u></a>称，过去17年它改变了很多——从产品的范围到外观的演变。今天它的外观将再次发生改变。Google公布了新的Logo，旧的Logo是衬线字体，新的Logo改成了无衬线字体。Google称它代表了这一现实——它从桌面PC走到了手机、电视和汽车，它的产品渗透到了范围广泛的不同平台和设备上。问题不再是你如何使用Google，而是Google如何为你服务。除了换Logo，Google最近还改了名：旧的Google变成了Alphabet，新的Google精简了很多部门。
+➜土耳其逮捕使用加密工具的记者
+https://www.solidot.org/story?sid=45354	13987
+土耳其逮捕了三名Vice News的雇员（最初有4人被捕，3名记者和1名司机，司机后来被释放），指控他们“参与恐怖活动”，原因是其中一人的笔记本电脑上<a target="_blank" href="http://www.aljazeera.com/news/2015/09/vice-news-fixer-arrested-encryption-software-150901200622345.html"><u>发现了常被伊斯兰国使用的加密软件</u></a>。律师认为这很荒谬，认为土耳其政府此举是试图将国际记者赶出冲突区域。Vice欧洲新闻负责人,Kevin Sutcliffe说，土耳其法官的指控是毫无根据的，土耳其是企图恐吓记者和审查报道。土耳其政府否认这些说法，声称司法独立，不受政府影响。
+➜LLVM 3.7发布
+https://www.solidot.org/story?sid=45355	14910
+开源编译器项目LLVM 发布了<a target="_blank" href="http://lists.llvm.org/pipermail/llvm-announce/2015-September/000065.html"><u>3.7版</u></a>。主要新特性包括：完整支持OpenMP 3.1，On Request
+Compilation (ORC) JIT API， Berkeley Packet Filter的新后端，Control Flow Integrity校验，AMDGPU后端支持 OpenGL 4.1，改进优化，新的 Clang警告信息，bug修正，等等。评测显<a target="_blank" href="http://www.phoronix.com/vr.php?view=22110"><u>示</u></a>，LLVM在某些工作负荷下已经超过了 GCC5。
+➜Chrome 45发布，自动屏蔽广告
+https://www.solidot.org/story?sid=45356	16526
+Google<a target="_blank" href="http://googlechromereleases.blogspot.com/2015/09/stable-channel-update.html"><u>发布了Chrome 45</u></a>，其中引人注目的新特性是默认不播放非重要Flash内容(主要是广告)。这项功能是Google与 Adobe合作开发的，以改进Flash的使用体验，智能的暂停次要Flash内容。Chrome 45的其它特性是修正了29个安全漏洞，新的开发者工具，等等。
+➜Facebook雇员付费带人蹭饭被解雇
+https://www.solidot.org/story?sid=45357	21659
+Facebook一名华裔员工<a target="_blank" href="http://sf.uschinapress.com/2015/0901/1035273.shtml"><u>被开除</u></a>，原因是该员工通过<a target="_blank" href="http://www.chummy.com"><u>吹米平台</u></a>，提供盈利性质的参观公司和在公司食堂用餐等服务。吹米公司的伴米是一个游米（游客）和伴米（导游）可进行双向选择的平台。平台上线后，推出了硅谷高科技公司参观产品，游米可在上面选择在高科技公司供职的伴米，带领他们去公司参观和用餐。吹米在推广介绍中称，“只要你约到神奇伴米”，参观游览Uber、Marvell、Yahoo、Google、Linkedin、Twitter等硅谷各大高科技公司“都不是问题”。有在上述高科技公司供职的华裔员工表示，带人参观公司、在公司用餐，并以此牟利是违反公司规定的。吹米公司创始人刘畅称已经暂停了这项服务，她在一份声明中说扎克伯格一直想进入中国，称中国人重感情，Facebook应该包容一点。
+➜阿里云服务升级删除用户文件，随后删除报道
+https://www.solidot.org/story?sid=45358	25065
+根据阿里云服务<a target="_blank" href="http://bbs.aliyun.com/thread/207.html"><u>官方论坛</u></a>及社交网络上的消息，该公司云盾服务的bug错误隔离了用户的可执行文件。值得一提的是，相关媒体的报道被删除了（可以去百度搜索一下会看到很多404错误）。阿里云在官网的<a target="_blank" href="http://help.aliyun.com/noticelist/articleid/6688093.html"><u>声明</u></a>中称，“因云盾安骑士server组件的恶意文件查杀功能升级触发了bug，导致部分服务器的少量可执行文件被误隔离。系统在第一时间启动了回滚，目前被误隔离的文件已基本恢复。”在官方论坛，仍然有用户<a target="_blank" href="http://bbs.aliyun.com/read/256351.html"><u>反应</u></a>进程被删除。
+➜Ashley Madison源代码发现与男用户聊天的机器人
+https://www.solidot.org/story?sid=45359	27681
+黑客公开的Ashley Madison数据中有该公司的服务源代码，对源代码的分析<a target="_blank" href="http://gizmodo.com/ashley-madison-code-shows-more-women-and-more-bots-1727613924"><u>发现了该公司创建数以万计机器人账号的证据</u></a>。这些机器人账号主要是设计引诱男性用户。机器人账号多假扮成女性，目标对象是男性用户，它们发送了超过2000万条信息，与用户聊天了超过1100万次。代码中的注解谈论了Ashley Madison工程师需要解决的问题。这些机器人使用的AI技术并不复杂，其中有一类机器人是试图说服男性用户付钱，然后将他们转给真人。
+➜微软Google亚马逊发起免版税视频编解码器联盟
+https://www.solidot.org/story?sid=45360	29000
+微软、Google、Mozilla、思科、英特尔、Netflix和亚马逊<a target="_blank" href="http://arstechnica.com/information-technology/2015/09/microsoft-google-amazon-others-aim-for-royalty-free-video-codecs/"><u>联合发起了</u></a>开放媒体联盟（Alliance for Open Media），目标是开发下一代媒体格式，包括视频、音频和静态图像，其中视频的优先级最高，将提供免版税的开源编解码器方案，可用于商业和非商业的内容。视频媒体行业长期受制于专利授权和版税问题，H.264/AVC时代的版税对企业而言相对来说很便宜，但 H.265/HEVC却变得非常昂贵，甚至可能威胁到Netflix等商业流媒体服务的生存能力。开放媒体联盟试图解决这个问题，它的第一个目标是开发出比HEVC有明显改进的视频编解码器。联盟的成员多数都在开发自己的下一代编解码器，如思科有Thor、Mozilla开发Daala，Google有 VP9和VP10。
+➜小米考虑在笔记本电脑上与苹果展开竞争
+https://www.solidot.org/story?sid=45361	30341
+彭博社援引知情人士的消息<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-09-02/xiaomi-said-to-consider-laptop-for-early-2016-aiming-at-apple"><u>报道</u></a>，小米考虑推出笔记本电脑产品，与苹果和联想的笔记本电脑展开竞争。小米的笔记本产品可能会在明年第一季度推出，面向的是高端品牌市场，针对的是MacBook Air和ThinkPad。小米已和三星讨论过存储器芯片供应，协议可能还包含显示器。小米在智能手机领域取得成功之后就开始快速扩张它的产品线，从平板到电视、机顶盒，路由器，再增加笔记本电脑也不是不可能。
+➜Lizard Squad DDoS英国国家犯罪局网站
+https://www.solidot.org/story?sid=45362	31914
+在英国国家犯罪局宣布逮捕6名购买Lizard Squad商业DDoS服务 Lizard Stresser的英国少年数天后，该机构的<a target="_blank" href="http://nationalcrimeagency.gov.uk/"><u>网站</u></a>遭到了DDoS攻击而短暂下线2个多小时，Lizard Squad在其Twitter账号上<a target="_blank" href="https://twitter.com/lizardlands/status/638617494702399488"><u>宣布</u></a>对此负责。国家犯罪局是在8月28日宣布逮捕Lizard Stresser用户，表示正在联络其它注册该服务但没有使用该服务发动攻击的英国用户。被逮捕的英国少年被控攻击了游戏、零售和媒体网站，其中包括了微软的 Xbox Live和索尼的Playstation network。他们在缴纳保释金后获释。
+➜Google将惩罚展示恼人应用安装广告的网站
+https://www.solidot.org/story?sid=45363	34152
+网民现在更多的使用移动设备浏览网页，但问题是当你点击一个移动搜索结果的链接，网站在浏览器加载网页时经常展示复盖大部分屏幕的应用安装广告，鼓励你安装它的移动端应用，在找到小小的关闭按钮点击关闭后你才能看到网站上的内容。这相当烦人，所以Google决定<a target="_blank" href="http://googlewebmastercentral.blogspot.com/2015/09/mobile-friendly-web-pages-using-app.html">帮助你惩罚它们</a>。从9月1日起，如果网站展示的应用安装广告遮盖了大部分内容，它将失去“移动友好”的身份，将在搜索结果中遭到降低排名的惩罚。<br>
+<br>
+➜主流浏览器将在2016年初停止支持RC4
+https://www.solidot.org/story?sid=45364	34922
+微软、Google和Mozilla宣布，他们计划于2016年初在各自的浏览器永久性的终止RC4加密算法的支持。针对RC4加密算法的攻击正日益变得实用，破解所需的时间<a target="_blank" href="http://www.solidot.org/story?threshold=1&amp;mode=thread&amp;sid=44790"><u>越来越短</u></a>，在两年之内从数千小时减少到数天。Mozilla<a target="_blank" href="https://groups.google.com/d/msg/mozilla.dev.platform/JIEFcrGhqSM/CIjtpwxoLQAJ"><u>宣布</u></a>它将在明年1月26日发布Firefox 44时淘汰RC4，微软和Google也都计划在明年1月到2月之间从<a target="_blank" href="http://blogs.windows.com/msedgedev/2015/09/01/ending-support-for-the-rc4-cipher-in-microsoft-edge-and-internet-explorer-11/"><u>IE11和Edge</u></a>以及<a target="_blank" href="https://groups.google.com/a/chromium.org/forum/#!msg/security-dev/kVfCywocUO8/vgi_rQuhKgAJ"><u>Chrome</u></a>中移除RC4。
+➜英特尔宣布了基于Skylake架构的处理器
+https://www.solidot.org/story?sid=45365	38888
+英特尔宣布了基于Skylake架构的<a target="_blank" href="http://arstechnica.com/gadgets/2015/09/skylake-for-desktops-new-socketed-processors-from-core-i7-to-pentium/"><u>桌面</u></a>和<a target="_blank" href="http://arstechnica.com/gadgets/2015/09/skylake-for-laptops-faster-core-m-and-ultrabook-gpus-with-edram/"><u>笔记本</u></a>处理器。桌面版本处理器包括了基于 Skylake的新Core i7、 i5、i3和 Pentium ，移动版包括了新的Core M等。这些处理器之间的差异在于：核心数量（4核或2核），是否支持多线程，Turbo Boost频率，L3缓存容量（从高端8MB到6MB和4MB），部分产品集成了新的GPU  Intel HD 515。Skylake处理器的另一个变化是插针数减少了。配备新处理器的电脑将在未来几个月陆续推出。
+➜全新手机被发现预装恶意程序
+https://www.solidot.org/story?sid=45366	39879
+安全公司G Data报告，超过20个手机型号<a target="_blank" href="http://www.networkworld.com/article/2978117/bought-a-brand-new-phone-it-could-still-have-malware.html"><u>被发现预装了恶意程序</u></a>，其中不乏大厂如联想、华为和小米的产品。恶意程序不是在制造阶段安装上去的，而是在零售前。有人解锁了手机，安装恶意程序后再重新锁上。大部分手机是在欧洲和亚洲市场通过第三方或中间人销售，而不是厂家直销。G Data曾联络了联想公司，该公司表示知道这种事情，所以它推荐客户到授权零售商购买。恶意程序被嵌入在合法应用如Facebook中，能读取和发送短信，收集和改变呼叫数据，安装其它应用，抓取地理位置数据，等等。它植入在手机的固件中，普通用户很难卸载。

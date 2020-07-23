@@ -1,0 +1,115 @@
+➜X11 Server发现23年历史的安全漏洞
+https://www.solidot.org/story?sid=37956	9573
+X.Org基金会<a target="_blank" href="http://lists.x.org/archives/xorg-announce/2014-January/002389.html"><u>宣布</u></a>，他们使用<a target="_blank" href="http://cppcheck.sourceforge.net/"><u>cppcheck</u></a>静态分析工具扫描源码时发现了一个上溯至1991年的安全漏洞。该安全漏洞可能会导致栈缓冲区溢出，可被利用提升到root权限，该漏洞影响X11R5（1991年发布）后的所有版本。提权漏洞存在于libXfont中，X.Org已发布<a target="_blank" href="http://cgit.freedesktop.org/xorg/lib/libXfont/commit/?id=4d024ac10f964f6bd372ae0dd14f02772a6e5f63"><u>补丁</u></a>修复了漏洞。<br>
+➜NSA如何差一点杀死互联网
+https://www.solidot.org/story?sid=37957	11987
+<a href="/~Eastmoon">Eastmoon</a> 写道 "《连线》发表了一篇<a target="_blank" href="http://www.wired.com/threatlevel/2014/01/how-the-us-almost-killed-the-internet/all/"><u>长文</u></a>，讲述了NSA大规模监视活动曝光之后，互联网巨人Google、Facebook、Microsoft和科技巨头不得不为了他们的生存而与政府进行对抗——指出为什么互联网将绝不会再相同。<i>
+2013年6月6日，《华盛顿邮报》记者给Apple、Facebook、Google、Yahoo及其它互联网公司的公关部门打电话。此前一天，英国的《卫报》一篇报道披露了电信巨头Verizon曾经自愿将每一个通话数据交给了NSA。报道是由《卫报》的记者Glen Greenwald写的，信息来自Edward Snowden，一名携带了无数NSA秘密资料离开美国的29岁IT咨询人员。Greewald是Snowden接触的第一个记者，但不是唯一的一个。《华盛顿邮报》的Barton Gellman也联系了Snowden，之后在纪录片制作人、Snowden的志同道合者Laura Poitras的帮助下，事情蔓延到了硅谷。Gellman是第一个披露NSA机密项目Prism的记者。Snowden提供的文件表明一些大型互联网公司曾授权NSA及FBI直接进入他们的服务器，让这些机构有能力获取到一个人的音频、视频、照片、电邮、文档。之后政府要求Gellman不要公开这些公司的身份，但是Gellman认为它是很重要。Gellman说到“指出这些公司的名字会让事实面向美国人。”然后《华盛顿邮报》的记者涌向这些科技公司寻求评论。</i>
+<p></p>
+<!--more-->
+<p></p>
+<p><br>
+这只是威胁互联网行业基础的连锁反应的开始。这个话题占据头版头条达几个月，并成为科技圈讨论的热点话题。多年来，科技公司的隐私政策在维持用户隐私与将这些个人数据提供给政府机构之间采取着极其微妙的平衡。这个领域是新且处于争议之中，有时候会侵蚀到现有法律，但过去这些公司在推进这些政策前行时都取得了艰难的平衡。当来自记者的电话立即打到这些公司的时候，这种平衡丧失了。技术公司突然发现自身陷入了一场比卷入如在Facebook上过度分享、或Gmail上广告问题更大的战斗。过去几个月，他们发现他们自己要与他们的政府战斗，以争取到互联网的未来。</p>
+<p>&nbsp;</p>
+<p><b>不止收入危在旦夕。更是自互联网诞生以来技术世界所坚持的那些重要的信念危在旦夕。</b></p>
+<p>&nbsp;</p>
+<p>但首先他们需要计划出该向华盛顿邮报告诉那些。Facebook的安全主管Joe Sullivan说“我们花了九十分钟去响应。”公司的人没有人听过Prism这个项目。而最糟糕的是facebook及其它的科技公司被声称是授权了NSA直接进入他们的服务器，以获取巨量的信息，这似乎完全的错了。CEO Mark Zuckerberg 被这种声称吓了一跳，并询问了他的高管此事是否是真的。他们都回答：NO。</p>
+<p>&nbsp;</p>
+<p>相似的恐慌对话也发生在Apple、Google及Microsoft。Google的法律顾问kent walker说：“我们被周围的人问到：是否有任何秘密的获取信息的方式？”我们都说：NO。</p>
+<p>&nbsp;</p>
+<p>虽然如此，华盛顿邮报在那天还是发布描述了Prism项目。（一小时后卫报也做了类似的报道。）报道包括了泄密自NSA的41页PPT中的若干P，其中一个P上面列出了参与到prism项目的科技公司，以及他们表面上开始完全合作的日期。Microsoft最早是2007年9月，然后雅虎是第二年。Google及Facebook是在2009年参与进来。最近的是Apple，2012年10月参与进来。PPT上使用到了每一家公司的LOGO。这就如一个销售人员在自夸其签约成功的合同。而一天之前，公众了解到Verizon和其它的电信公司都很可能将他们的所有通话记录转给政府。现在，似乎同样的事情发生了，电子邮件、搜索历史、甚至Instagram的图片都转给了政府。</p>
+<p>&nbsp;</p>
+<p>科技公司迅速的发表声明否定他们授权美国政府直接进入他们的用户数据库。由于有时候秘密法庭会下令要求科技公司参与到政府的项目中，这些项目要求他们分享数据，他们常常不情愿的参与了进去，而这样的事实让科技公司的声明变的复杂化。Google和他们的伙伴们对此没有谈论所有的细节，这部分的是因为法律上阻止他们完全披露，部分的是因为他们不了解政府这些项目实际的运作细节。因此他们的回应被视作只是口舌之词，不是发自真心。</p>
+<p>&nbsp;</p>
+<p>在Obama总统介入进来前，他们几乎没有时间策划出如何回应Gellman的指控。总统在回应泄密问题时隐含的肯定了Prism项目（同时谴责了泄密），他说：”在互联网及电子邮件方面，此事并未涉及到美国公民，也未涉及到居住在美国的人。”这个答复可能缓和了一些公众的愤怒，但他并未对科技业起到帮助作用。Apple、Facebook、Microsoft及Yahoo的大部分用户都是非美国公民。现在这些用户以及像欧盟的监管机构被导向相信使用基于美国的这些服务就意味着将他们的数据直接给到了NSA。</p>
+<p>&nbsp;</p>
+<p>科技巨头们花费多年时间辛苦建立起来的信任处在了破灭的风险中，而他们似乎无力就此做些什么。法律上的限制等，以致他们不能随意去提供他们与政府合作的完整文档或就只能否定。即使最坚决的否定——来自Google CEO Larry Page及首席法律顾问David Drummond——都不能压制对他们的质疑。NSA的PPT表面任何人的个人信息就只一点击的时刻，就被传给NSA，那么事情还能怎样否定。在当月晚些时候Drummond在卫报网站上参与问答的时候，他的提问者就变的有敌意了：</p>
+<p>“这个问答活动是否只是你们被发现与NSA串通后的表面功夫？”</p>
+<p>“如果Google对我们撒谎，那我们能怎么说？”</p>
+<p>“Google，我们给予你们十多年的信任都丧失了。“</p>
+<p>”我将停止使用Google邮箱。”</p>
+<p>&nbsp;</p>
+<p>其它公司也面临如此的围攻。一个公司的高管说：“每次我们谈及它时，似乎事情变的更糟。我们不止是不被信任了。“</p>
+<p>&nbsp;</p>
+<p>Facebook的全球传播主管Michael
+Buckley说：”事实是政府没能将妖怪放回到瓶子中。我们可以拿出任何声明或统计数据，就像政府每周的例行情况披露一样，但之后问题是有谁相信我们了？”</p>
+<p>&nbsp;</p>
+<p>在去年9月份Facebook的Zuckerberg出席一个科技会议时表达了他的厌恶。他说到“政府搞砸了”。但在政府之后的行动，以及世界知道了更广的泄密信息后，Zuckerberg、Page、Tim Cook、Marissa Mayer、Steve Ballmer及其它只要在他们的服务器上储存用户信息的公司的高管都陷入了麻烦中。</p>
+<p>&nbsp;</p>
+<p>不止收入危在旦夕。维持科技世界的理念都变的危在旦夕了，曾经的互联网来自美国国防部的一个项目，如今变成一个激发出文明新纪元的互联全球的万维网。Snowden的泄密质疑了以自由表达与授权为特征的互联网地位。如果网络被视为是扩展了的监听手段，那么带来的偏执行为就会影响人们使用互联网的方式。对美国情报机构搜集信息很愤怒的国家使用Snowden披露的信息更有理由要求美国政府停止收集信息，而美国情报机构又不会轻易放弃在这些国家收集信息。企业在执行商业活动的时候就会使网络巴尔干化，破坏它的开放本质，从而显著提升操作成本。</p>
+<p>&nbsp;</p>
+<p>硅谷在摇晃，就如反恐战争中的附带伤害。而事情只会走向更糟。</p>
+<p>&nbsp;</p>
+<p>六月份之前科技公司们都不知道Prism项目，他们知道有一个已有若干年历史的项目，即为了国家安全在没有正式文件的情况下向政府提供一些特定数据。这个项目的法律正当性来源于一系列含增补及扩展的法律条款。1978年《外国情报安全法》，简称为FISA，创造了一个秘密法庭，以便可以下令进行信息获取请求。2008年FISA的修正案修订出了一个新的法律部分，即702款，该修正案给予布什总统可以在完全隐秘的情况下进行没有书面许可的监听计划。查询常常被称为702s。NSA引述FISA修正案作为Prism项目的具体法律基础。（Prism之外）更隐秘的监控操作都基于里根时代12333行政命令，该命令授权NSA可以收集需要关注的美国之外的外国人的各种信息。</p>
+<p>&nbsp;</p>
+<p>有些公司似乎对于将客户的信息交给NSA感觉是十分得当的。Verizon从来没有拒绝将它成千上亿用户的关键账单信息、电话号码、每次的通话时长信息给予NSA。总之，这并没啥让人震惊的。因为电信公司不需要基于信赖向客户推销自己，客户也很少期望能从这些垄断寡头那里获得什么。在迎合消费者与政府上，电信公司似乎会优先考虑监管他们的政府。</p>
+<p>&nbsp;</p>
+<p><b>在科技行业对于“互联网的巴尔干化“(SPLINTERNETS)</b><b>前景甚是忧虑。Facebook
+CEO Mark Zuckerberg</b><b>说到”</b><b>我们大家需要帮助去修复这个问题。”</b></p>
+<p>&nbsp;</p>
+<p>相比电信公司，科技公司们是另一番情况。科技公司的CEO们一直在反复强调声称如果没有用户的信赖，他们就没有业务可做。他们依赖于用户分享信息的意愿。反之，这些用户从而就可以获取到更多更好的服务，而同时期望科技公司能够确保他们个人信息的隐秘及安全，并且希望对任何例外都是透明的。用户没有理由认为可以在无书面许可的情况下将他们的信息交给政府。</p>
+<p>&nbsp;</p>
+<p>至少有一家公司挑战了那些违宪的信息查询请求。雅虎在FIFA法庭为抵制交出用户信息反动了一场秘密战斗。但努力失效了。在2008年8月22日，法庭决定为了国家安全支持政府的手段，并给予程序上的保障，在某种形式实现与法律一致而排除了雅虎关心的用户隐私问题。随后雅虎就无处申诉，雅虎挑战的失败为之后可能的抵抗树立了一个案例：FISA的请求是合法的，任何不予以合作的公司都可能面临在法律上被轻易起诉的风险。</p>
+<p>&nbsp;</p>
+<p>这些查询请求可能已经侵犯了一些大型技术公司，但还不足以形成对其业务上的挑战。也没有人说他们为了应对数据查询被迫做出一些基础架构上明显的修改。通常他们是将查询的数据传递给政府所拥有的特殊设备上。某些情况下，他们甚至将这些设备列为他们公司的资产。</p>
+<p>&nbsp;</p>
+<p>对于一些小公司，遵从并不总是容易的。例如，Lavabit是一家安全邮箱初创公司，该公司允许用户包括Snowden在内对邮件信息加密，政府曾要求他们将涉及Snowden事件传播的重要信息交给政府。Lavabit不能这么做，因为如果服从，将它所有的用户信息完全曝光给政府就会导致公司关门。</p>
+<p>&nbsp;</p>
+<p>虽然如此但可以有一些小的措施进行抵抗。Twitter的法律顾问Vijaya Gadde说到：“政府能够请求信息，但他们不能强迫你给出信息。你可以让这事容易或简单。“Google也说当一个请求是”十分宽广“的时候Google会将其推后。这些小的事情表明了对政府查询的微妙抵制。FISA要求政府给予这些被检索了信息的企业进行补偿。Google说他们不想麻烦跟政府去要钱。但是有一家公司说它使用了这个条款，以此希望限制政府请求的程度。这个公司的高管说：“起初，我们认为我们不应当为此要钱，但我们认识到这是好事，这能迫使政府停下来思考一下。”</p>
+<p>&nbsp;</p>
+<p>然而最后，与政府合作也是有巨大的财务动机存在的。一名科级公司的高级主管说到：“大公司都与政府有业务往来，这些大公司的人不可能给政府官员说：‘我们正在跟你们战斗，——我们能拿到那份4亿美金的合约吗？’“</p>
+<p>&nbsp;</p>
+<p>科技公司对于收到的FISA信息请求次数的公开也逐渐变的越加含糊其辞。他们仅被许可发布那些符合政府要求的报告，包括民事法庭及其法律要求执行的信息请求。（粗略来看，这些数字常常低于上千，似乎不可怕，但他们缺乏背景说明。）Google、Yahoo、Facebook及微软都曾向FISA法庭请求去放松这些限制，一大帮的技术公司，也包括Apple及LinkedIn都提交了相同的诉求。但政府却只是将这些热情反对意见请愿材料存档，政府还是打败了他们。</p>
+➜Light Table开源
+https://www.solidot.org/story?sid=37958	14348
+集成开发环境Light Table在GPLv3许可证下<a target="_blank" href="http://www.chris-granger.com/2014/01/07/light-table-is-open-source/"><u>开源</u></a>，<a target="_blank" href="https://github.com/LightTable/"><u>源码</u></a>托管在 Github上。该项目于2012年通过众筹平台Kickstarter筹集到了<a target="_blank" href="http://www.kickstarter.com/projects/ibdknox/light-table"><u>31.7万美元</u></a>。Light Table是一种新型的IDE，其最重要特性是实时反馈，允许开发者即时执行、调试和查询文档。Light Table刚刚发布了<a target="_blank" href="https://github.com/LightTable/LightTable/blob/master/deploy/core/changelog.md"><u>v0.6版</u></a>，最主要变化是引入了一个插件框架。<br>
+➜首次小行星商业可行性调查估计只有10颗小行星有开采价值
+https://www.solidot.org/story?sid=37959	17237
+2012年，Richard Branson、Larry Page和Eric Schmidt宣布发起了雄心勃勃的太空采矿项目Planetary Resources，试图利用机器人开采小行星上的自然资源。但问题是，有多少颗含有矿藏的小行星具有开采价值？哈佛史密森天体物理中心的研究员Martin Elvis试图回答这个问题。他在著名的德雷克方程式（Drake Equation）基础上发展出了一个Elvis方程式，估计太阳系内有商业开采价值的小行星数量。<a target="_blank" href="http://arxiv.org/abs/1312.4450"><u>研究报告</u></a>（预印本）发表在《Planetary and Space Science》期刊上，结果可能会让亿万富翁们大失所望：可能<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/e0063699d199"><u>只有10颗小行星</u></a>拥有开采价值的铂族金属。他的方程式计算了小行星的总量，轨道靠近地球的小行星比例，高价值矿藏所占的比例，以及其蕴藏量是否大到足以支付太空采矿成本。这项研究意味着，未来的太空矿藏勘探将是一项高度机密的商业任务。
+➜中国解除游戏机禁令意味着什么？
+https://www.solidot.org/story?sid=37960	19096
+中国正式解除视频游戏机销售禁令的消息似乎让投资者兴奋不已，但要说这会给任天堂、索尼和微软主机生产商带来如何广阔的商机，恐怕<a target="_blank" href="http://cn.wsj.com/gb/20140108/tec180709.asp"><u>还不能这么早下结论</u></a>。普华永道数据显示，按收入衡量，中国是排在美国和日本之后的全球第三大视频游戏市场。
+索尼发言人周三说：中国市场潜力巨大，有机会的话我们会考虑在中国销售游戏机，不过目前没有可供讨论的具体方案。微软和任天堂也都表示还在研究之中。在禁止游戏机销售的14年中，中国的游戏市场发生了巨大变化，解除禁令在短期内不可能会带来<a target="_blank" href="http://www.gamesradar.com/china-just-lifted-console-bans-will-it-actually-matter/"><u>任何改变</u></a>。PC是目前中国唯一合法的游戏平台，但PC单机游戏基本消失，网游一统天下：单机游戏的份额只有0.1%，网游64%，另外35%是移动游戏和页游。游戏机禁令的一个意想不到的结果是助长了盗版，高盗版率将是试图进入中国游戏市场的索尼微软任天堂面临的一大难题。而热心关心青少年成长的中国政府机构还会不时的插手，比如它曾因为网游的流行而推出了防沉迷系统。防沉迷系统被包含在了每一个在中国发行的网游中。
+➜Google将Capsicum移植到Linux
+https://www.solidot.org/story?sid=37961	27184
+<center>
+<iframe src="https://www.youtube.com/embed/raNx9L4VH2k?feature=player_detailpage" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+剑桥大学的安全研究员<a target="_blank" href="http://www.cl.cam.ac.uk/~rnw24/"><u>Robert N.M. Watson</u></a>在其博客上<a target="_blank" href="http://www.lightbluetouchpaper.org/2013/12/20/2013-capsicum-year-in-review/"><u>介绍</u></a>了Capsicum安全模型的最新进展。<a target="_blank" href="http://www.cl.cam.ac.uk/research/security/capsicum/"><u>Capsicum</u></a>是剑桥计算机实验室开发的轻量级操作系统权能（capability）和沙盒框架，获得了Google和 FreeBSD基金会的资助，即将发布的FreeBSD 10将<a target="_blank" href="http://www.cl.cam.ac.uk/research/security/capsicum/freebsd.html"><u>默认启用Capsicum</u></a>，而Google则在最近将其<a target="_blank" href="http://www.cl.cam.ac.uk/research/security/capsicum/linux.html"><u>移植到了Linux</u></a>。Capsicum扩展了POSIX API，其<a target="_blank" href="https://en.wikipedia.org/wiki/Capability-based_security"><u>基于权能的安全模型</u></a>是为了解决权限过于集中导致的安全隐患，提供了一种细粒度权限管理方式。<br>
+➜Windows XP版本的Security Essentials将与操作系统一同停止更新
+https://www.solidot.org/story?sid=37962	28319
+Windows XP将在今年4月终止支持停止安全更新，而XP上的微软免费杀毒软件 Microsoft Security Essentials届时<a target="_blank" href="http://arstechnica.com/information-technology/2014/01/security-essentials-for-windows-xp-will-die-when-the-os-does/"><u>将会一同停止更新</u></a>，下载也将会被移除。微软发出的信息很清晰：4月8日之后Windows XP将会变得不安全。相比之下，Google和Mozilla都承诺会继续更新和支持XP版的浏览器。目前XP仍然占据了将<a target="_blank" href="http://www.solidot.org/story?sid=37867"><u>近三成</u></a>的桌面操作系统市场份额，而在中国，这一比例可能更高。此前中国官员也对微软终止支持Windows XP表示了<a target="_blank" href="http://www.solidot.org/story?sid=37509"><u>担忧</u></a>。
+➜国际空间站使用时间将延长到2024年
+https://www.solidot.org/story?sid=37963	28797
+NASA<a target="_blank" href="http://www.orlandosentinel.com/news/politics/os-space-station-extension-20140107,0,3847257.story"><u>获得白宫支持</u></a>，将国际空间站的使用期再延长4年到<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/01/140108_iss_extension.shtml"><u>2024年</u></a>。国际空间站由美国、俄国、加拿大、日本和欧洲航天局合作运行，使用寿命延期也需要上述合作方的支持才能实现。它们目前承诺让它运行到2020年，但工程师认为，国际空间站可以至少运行到2028年，但额外的使用时间将需要每年数十亿美元的费用。欧洲最大的赞助方德国非常希望这个耗资1千亿美元的空间站能够继运行多年。
+➜减少雾霾的新想法：喷水
+https://www.solidot.org/story?sid=37964	31553
+浙江大学和北卡州立大学的俞绍才在《环境化学快报》发表<a target="_blank" href="http://www.springer.com/about+springer/media/springer+select?SGWID=0-11001-6-1450943-0"><u>文章</u></a>，提出了遏制中国及世界其它城市严重空气污染和雾霾的新方法：在高楼及高塔顶上安装喷水装置向建筑物外大气<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-01/ssm-tcc010814.php"><u>喷水</u></a>。俞绍才提出，向大气中喷水以模拟下雨的自然过程是最有效清除大气中的气溶胶和气体污染物的方法。他指出，喷出的水在地面上可以收集和再使用，采用这种大气喷水方案不会加剧现有的水资源短缺。根据他的研究，在合理的喷水条件下，大气喷水地球工程方法可在很短时间内有效减少细颗粒的浓度到每立方米35微克。这种方法在技术上是可行的，而且高效和低成本。俞绍才写道，“如果你可以花半小时浇灌你的花园，你也可以花30分钟清洗你周围的大气，得到清洁的空气。”
+➜诺基亚Normandy Android手机更多细节泄漏
+https://www.solidot.org/story?sid=37965	33850
+<div align="center"><img src="http://img.solidot.com.cn/0/977/liMTQcFmaHBVc.jpg" align="" height="222" width="420"><br>
+<br>
+</div>
+Twitter用户<a class="u-url profile" href="https://twitter.com/evleaks" data-scribe="element:user_link"><span class="full-name"><span class="p-name customisable-highlight" data-scribe="element:name">@evleaks</span></span></a>和一位新浪微博用户泄漏了诺基亚Android手机的<a target="_blank" href="http://www.nokiapoweruser.com/2014/01/08/nokia-normandy-shows-up-on-antutu-5-mp-cam-854-x-480-display-running-android-kitkat-4-4-1/"><u>更多细节</u></a>。目前不清楚收购诺基亚手机业务的微软会如此处理这款代号Normandy的Android手机。诺基亚的Android手机是面向低端市场，支持双卡双待，支持锁屏通知，支持Skype，一个Asha 5XX风格的后退虚拟按钮，4英寸显示屏分辨率854 x 450，500万后置摄像头，运行Android KitKat 4.4.1。手机型号是诺基亚A110。对微软来说，一款Android智能手机不管是不是畅销，<a target="_blank" href="http://www.osnews.com/comments/27507">都称不上好事</a>。
+➜攻击者利用时间同步服务DoS大型游戏网站
+https://www.solidot.org/story?sid=37966	36218
+12月底1月初，主要游戏网站League of Legends、EA.com和Steam因DoS攻击而短暂下线。在这次攻击中，名叫DERP Trolling的攻击者不是直接向目标网站发送海量请求数据，而是<a target="_blank" href="http://arstechnica.com/security/2014/01/dos-attacks-that-took-down-big-game-sites-abused-webs-time-synch-protocol/"><u>利用了运行网络时间协议(NTP)的时间同步服务器</u></a>。攻击者伪装成目标网站，向时间同步服务器发送请求，数十倍放大攻击火力——一个包含8字节的伪造请求可以导致同步服务器向受害者发送468字节的回应。专家称，在12月以前NTP攻击几乎是闻所未闻。这种放大攻击方法与DNS放大攻击有许多相似之处，比较容易防御，只需用过滤器过滤流量就能防止NTP放大攻击。
+➜3D电视已死，电视产业路在何方？
+https://www.solidot.org/story?sid=37967	37358
+在今年的CES展会上，3D电视基本销声匿迹，电视机厂商大肆宣传的是4K/8K分辨率的超高清产品，以及屏幕能弯曲的电视。IEEE Spectrum的一篇文章<a target="_blank" href="http://spectrum.ieee.org/tech-talk/consumer-electronics/audiovideo/3d-tv-is-officially-dead-for-now-and-this-is-why-it-failed"><u>评论</u></a>说，3D电视正式死亡。作者给出的理由不外是缺乏高质量的3D内容，观看不便，对叙事也没有什么帮助。《华尔街日报》的<a target="_blank" href="http://cn.wsj.com/gb/20140109/cgq163143.asp"><u>一篇文章</u></a>则认为，
+电视机目前被困在了创新死胡同里。硬件方面没有什么值得关注的新思路，而拜竞争和生产效率所赐，好电视机的价格继续越来越便宜，生产商变得越来越绝望，于是在电视机里塞满了越来越多没用的东西。
+从3D到4K，到曲面显示屏再到索尼的楔形电视机，我们看到的是一个江郎才尽的行业，在黑暗中摸索着什么——任何可能让我们愿意掏腰包的东西。作者认为，4K电视也面临与3D电视相同的窘境：除非消费者大量购买4K电视，否则娱乐公司不会有太多热情来制作4K电视节目。
+➜宝马的自主驾驶汽车能“漂移”
+https://www.solidot.org/story?sid=37968	41388
+宝马的自主驾驶汽车能在不需要司机干预的情况下<a target="_blank" href="http://www.bbc.co.uk/news/technology-25653253"><u>完成漂移动作</u></a>。利用360度雷达、超声波传感器和摄像机，汽车能感知和适应周围的环境。宝马在CES展会上演示了它的自主驾驶技术，它只是多家展示自主驾驶汽车的制造商之一，丰田也展示了它的相关产品。美国每年有5万人因致命交通事故死亡，研究认为，如果美国十分之一的汽车是自主驾驶汽车，那么死亡人数可以降至1000人。
+➜科学家发现最轻的系外行星
+https://www.solidot.org/story?sid=37969	43404
+寻找系外卫星的<a target="_blank" href="http://www.cfa.harvard.edu/HEK/"><u>开普勒系外卫星搜寻项目（HEK）</u></a>没有从开普勒数据中发现卫星，但却发现了<a target="_blank" href="http://arstechnica.com/science/2014/01/search-for-exomoons-turns-up-fluffy-earth-sized-planet/"><u>最轻的气体行星</u></a>。<a target="_blank" href="http://arxiv.org/abs/1401.1210"><u>论文</u></a>（预印本）将发表在《The Astrophysical Journal》期刊上。系外行星KOI-314c质量与地球相同，但直径比地球大60%，密度是略高于液态水的1.31克/立方厘米。KOI-314c围绕一颗距地球200光年的红矮星公转，公转周期23天，预计其温度为104℃，这对我们所知的生命来说太热了。
+测量行星质量的传统方法，是通过测量其主恒星的微小晃动（由行星引力所致）来推算，但这颗行星质量太小。HEK团队用了另一种称为凌日时间变化（TTV）的不同技术，这种方法只适用于一颗恒星有超过一个行星轨道的情况。<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201401/t20140109_4014085.shtml"><u>两颗行星彼此吸引</u></a>，会让它们的凌日时间发生轻微变化。在该恒星系统中，KOI-314c的兄弟KOI-314b体积和它相仿，但密度要大得多，质量约为地球的4倍，轨道周期为13天到14天。
+➜中国研发占GDP比重超过欧洲
+https://www.solidot.org/story?sid=37970	45567
+根据经合组织将在本月公布的数字，2012年中国的研发投入占GDP比重达到1.98％，<a target="_blank" href="http://www.nature.com/news/china-tops-europe-in-rd-intensity-1.14476"><u>超过了欧盟28国的1.96％</u></a>。自1998年以来，中国的科研强度增加了二倍，而欧洲的研发投入几乎没有增加。英国Sussex大学的科学政策分析师James Wilsdon称，中国的研发战车令人惊讶。虽然从绝对值上，中国的研发投入仍然只有欧盟的三分之二，但新的数字是一个重要的里程碑。然而金钱并不能买到创新。中国的研发投入重点是应用和产品开发，而不是基础研究，中国的研究人员也缺乏独立和自由。根据经合组织去年公布的<a target="_blank" href="http://www.oecd-ilibrary.org/sites/rdxp-table-2013-1-en/index.html?contentType=/ns/Table,/ns/StatisticalPublication,/ns/KeyTableEdition&amp;itemId=/content/table/rdxp-table-2013-1-en&amp;containerItemId=/content/tablecollection/2075843x&amp;accessItemIds=&amp;mimeType=text/html"><u>数据</u></a>，研发比重最高的国家是以色列（4.38%），其次是芬兰（3.78），韩国（3.74），瑞典（3.37），日本（3.26）和丹麦（3.06）。
+➜一个新发现的Dual EC DRBG缺陷
+https://www.solidot.org/story?sid=37971	47523
+双椭圆曲线确定性随机比特生成器（Dual EC DRBG）普遍被认为被NSA植入了后门，Dual EC DRBG是加密标准SP800-90A的一部分，而SP800-90A则是美国政府FIPS 140-2安全认证强制推广的加密标准。也就是说，一个加密库如果想要获得FIPS 140-2认证，那么它或多或少需要去实现有缺陷的Dual EC DRBG随机数生成器。由于认证的加密库不能被修改一行代码，如果其中存在致命漏洞导致Dual EC DRBG不能工作，那么后门也就无效了。<a target="_blank" href="http://lwn.net/Articles/578375/"><u>这是OpenSSL项目身上发生的事情</u></a>。OpenSSL项目经理Steve Marquess在12月19日<a target="_blank" href="http://thread.gmane.org/gmane.comp.encryption.openssl.announce/113"><u>发帖</u></a>称，OpenSSL的Dual EC DRBG存在致命漏洞，使用它会导致程序崩溃或停止响应。由于修改代码会导致认证失效，而bug自Dual EC DRBG引入OpenSSL之后就存在了，因此OpenSSL用户没人用过Dual EC DRBG。但Dual EC DRBG的存在却帮助OpenSSL通过了安全认证。有推测认为，可能是有人知道后门而故意让实现不能工作。

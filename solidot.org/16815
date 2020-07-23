@@ -1,0 +1,52 @@
+➜报告称互联网扩大了不平等
+https://www.solidot.org/story?sid=46888	10577
+世界银行<a target="_blank" href="http://www.worldbank.org/en/publication/wdr2016"><u>发表</u></a>了《2016年世界发展报告：数字红利》（<a target="_blank" href="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/01/13/090224b08405b9fc/1_0/Rendered/PDF/World0developm0l0dividends0overview.pdf"><u>中文概述</u></a>，<a target="_blank" href="http://pubdocs.worldbank.org/pubdocs/publicdoc/2016/1/845911452690992379/WDR2016MainMessages-CHINESE-WebRes.pdf"><u>全文</u></a>），认为互联网<a target="_blank" href="http://cn.nytimes.com/asia-pacific/20160115/c15internet/"><u>扩大了不平等</u></a>，它没有以许多人所预期的方式，扩大经济机会、改善基本公共服务。报告称，“许多发达经济体的劳动市场日趋两极化，不平等更加严重，部分原因在于技术强化高技能，同时替代常规工作，迫使许多人不得不去竞争低薪就业机会。公共部门投资于数字技术，如果没有可靠负责的机构制度，只会放大精英群体的声音，导致政策绑架，以及更严格的国家控制。互联网的经济运作模式有利于形成自然垄断，如果没有竞争性商业环境，就会导致出现更集中的市场，让现有企业从中受益。这样教育程度高、社会关系多、能力更强的人受益最多也就不足为奇了，数字革命的效益也因此被局限在小范围之内。”报告的结论是，一个社会如何充分利用信息技术，取决于该社会的性质。
+➜OpenSSH曝高危漏洞，会泄露私钥
+https://www.solidot.org/story?sid=46889	15076
+OpenSSH<a target="_blank" href="http://undeadly.org/cgi?action=article&amp;sid=20160114142733"><u>释出了新版本客户端</u></a>，修正了一个会泄露私钥的高危漏洞。漏洞存在于终端用户使用版本中，不影响服务器使用的版本，漏洞影响OpenSSH v5.4到7.1，与一个默认启用的实验性漫游功能代码有关，它允许一台恶意配置的服务器利用漏洞访问联网计算机的内存内容，获取用户用于SSH连接的私钥。根据SSH的设计，用户即使连接了一个恶意的主机，主机也只知道你的公钥而不知道你使用的私钥。但这个漏洞让恶意主机可以窃取私钥，然后攻击者可以利用窃取到的密钥对渗透到用户的其他网络设施。安全研究人员警告这个漏洞可能已被利用，OpenSSH<a target="_blank" href="http://arstechnica.com/security/2016/01/bug-that-can-leak-crypto-keys-just-fixed-in-widely-used-openssh/"><u>推荐用户立即更新</u></a>。
+➜Twitter被起诉传播极端主义宣传材料
+https://www.solidot.org/story?sid=46890	17005
+一位丈夫在约旦被杀死的美国女子<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/twitter-provides-material-support-to-isis-lawsuit-alleges/"><u>起诉</u></a>总部位于旧金山的Twitter，称Twitter是传播极端主义宣传材料的工具，最终导致了她的丈夫死于恐怖分子之手。起诉书称Twitter违反了反恐法，明知或故意视而不见伊斯兰国利用其平台传播极端主义材料，筹款和招募。Twitter回应称这起诉讼是毫无根据的。Twitter发言人称，暴力威胁和恐怖主义宣传在Twitter无容身之地，他们对于这个家庭的损失深表悲痛。
+➜FFmpeg发现0day漏洞允许攻击者远程窃取本地文件
+https://www.solidot.org/story?sid=46891	17819
+被广泛使用的开源多媒体框架FFmpeg<a target="_blank" href="http://news.softpedia.com/news/zero-day-ffmpeg-vulnerability-lets-anyone-steal-files-from-remote-machines-498880.shtml"><u>g发现了</u></a>一个0day漏洞，允许攻击者远程窃取本地文件。使用FFmpeg的流行应用程序包括VLC、Kodi/XBMC、MythTV等等。漏洞发现者是俄罗斯程序员<a target="_blank" href="http://habrahabr.ru/company/mailru/blog/274855/"><u>Maxim Andreev</u></a>，它允许攻击者利用特制的视频文件从远程机器上阅读和通过网络发送本地文件。FFmpeg开发者建议用户在补丁释出前禁用HLS (HTTP Live Streaming)功能。Arch Linux已经重新构建了FFmpeg，暂时移除了网络支持。
+➜科学家发现至今最明亮的超新星爆发
+https://www.solidot.org/story?sid=46892	24922
+超新星是大质量恒星在生命终点的剧烈爆发现象。《后汉书》记载了最早的超新星爆发记录。这颗现称为SN 185的超新星被天文学家划归为Ia型。人类此后记录了上万颗超新星爆发，其中最常见的类别就是Ia型。2015年夏天发现的一颗超新星震惊了天文界——其爆发强度超过了Ia型超新星约两百倍，是前记录保持者的两倍以上。这颗名为ASASSN-15lh的极亮超新星是由北京大学研究员东苏勃领导一支国际团队发现的。<a target="_blank" href="http://science.sciencemag.org/content/351/6270/257?rss=1"><u>研究成果（摘要）</u></a>发表在《科学》期刊上。ASASSN-15lh距离地球38亿光年，属于罕见的“极亮型超新星”家族中的一员。它的发现有望为天文学家揭开极亮型超新星的爆发之谜提供重要线索。ASASSN-15lh达到的最高光度比太阳要强5700亿倍，是整个银河系千亿颗恒星总光度的20倍左右。<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-01/tkf-rcb011316.php"><u>东苏勃称</u></a>：“ASASSN-15lh是迄今为止人类记录到的最强的超新星爆发。由于它辐射的能量太高，目前的超新星理论难以对它的爆发机制和能量来源给予令人满意的解释。”
+➜核心开发者宣布比特币实验失败了
+https://www.solidot.org/story?sid=46893	28060
+<div align="center"><img src="http://img.solidot.org/0/345/liGRTS2eoMvE.jpg" align="" height="369" width="500"><br>
+<br>
+</div>
+比特币核心开发者Mike Hearn发表文章称<a target="_blank" href="https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.3fvsgf9md"><u>比特币实验失败了</u></a>，指出它被中国控制了，他宣布退出比特币项目，卖掉所有的币。Mike Hearn说，他很早就告诫其他人，比特币是一个实验，和所有实验一样，都可能会失败，如果不能承担损失不要去投资。但得出比特币已经失败的结论时，他仍然很伤感。比特币的基础已经破坏，不管短期的价格如何变化，它的长期趋势将是下滑。<br>
+<i>为什么比特币失败了？因为社区垮掉了。这个所谓的去中心化数字货币系统被少数人掌控，更糟糕的是，整个网络正处于技术崩溃的边缘。比特币不再好于现有的商业支付系统，它的手续费甚至超过了信用卡的交易费。他说，最根本的原因是中国的矿工控制了比特币，仅仅两个矿池的算力就超过整个比特币网络的50%。超过95%的算力控制在上面这幅图中的人手中。这些矿工不再允许块链增长。他们拒绝对比特币软件进行必要的修改，他们担心如果比特币太流行的话会被防火长城盯上，屏蔽掉比特币网络，导致他们失去收入。为了改进交易速度，增加区块大小，比特币社区去年就创建新分支举行投票，投票的方式是运行名为比特币XT的挖矿软件。比特币XT与现在的比特币核心挖矿软件没有区别，但是当有75%的节点运行XT，分支将会正式创建。但比特币XT引发了控制者们的强烈反对，比特币最大论坛bitcoin.org的管理员以缺乏民主为由封杀了比特币XT的讨论。更恶劣的是，当比特币XT节点占到总节点的15%时，XT用户遭到了大规模DDoS攻击，大到足以瘫痪矿工所在ISP的整个网络。这一信息很明确，任何支持大区块的人都会遭到攻击。攻击还在继续，创业公司Coinbase宣布支持XT时他们被攻击而下线了一段时间。他声称，比特币航行到了一个极端危险的水域，与 Mt Gox破产危机不同，这一次的危机发生在核心系统。他最后祝所有的人好运。</i>
+➜4.5万年前人类可能就在北极定居
+https://www.solidot.org/story?sid=46894	29696
+一具冰冻猛犸象的尸体有被武器伤害的痕迹，<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-01/aaft-mii011116.php"><u>显示</u></a>人类出现在北极地区的时间比过去认为的要早一万年。它可将人类在那里出现的时间追溯到大约4.5万年前，而非过去所认为的3.5万年前。人类在北极地区旧石器时代的记录非常稀少。2012年，研究人员在中西伯利亚北极地区的冰冻沉积层中挖掘出了一具雄性猛犸象的部分尸体。根据放射性碳年代测定法，其生存年代为4.5万年前。猛犸象的骨头呈现出若干不同寻常的伤痕，分析认为它们可能由如矛等利器尖端刺戳所致的凹陷，而其象牙的损坏提示人类试图用砍劈的方法将其露出口腔外段的象牙斫断。这些发现表明人类在大约4.5万年前就已经出现在中西伯利亚北极一带。<a target="_blank" href="http://science.sciencemag.org/content/351/6270/236.7"><u>研究报告</u></a>发表在《科学》上。
+➜小米2015年手机出货7000万台，“中国第一”
+https://www.solidot.org/story?sid=46895	30760
+小米周五<a target="_blank" href="http://cn.reuters.com/article/xiaomi-tel-shipment-idCNKCS0UT0IT?sp=true"><u>表示</u></a>，2015年手机出货量超过7000万部，低于公司自身目标。小米原先估计年度销量介于8000万至1亿台。一名公司发言人拒绝说明为何未达成目标，并称7000万台的数字“让我们2015年的市占率居中国智能手机制造行业之冠。” 华为此前表示，该公司去年手机出货量超过1亿。小米目前在国内正面临联想及华为等企业的严峻竞争，拓展印度及巴西等新兴市场的计划则面临知识产权障碍。公司高管承认，单薄的业务组合是公司一大弱点，而且公司一直避免进入设有严格知识产权法律的市场。
+➜中国公司为出售防火墙系统行贿前联合国官员
+https://www.solidot.org/story?sid=46896	33921
+在一起与前联合国大会主席John Ashe相关的<a target="_blank" href="https://en.wikipedia.org/wiki/John_William_Ashe#Bribery_accusation"><u>复杂贿赂案</u></a>中，52岁的朴虹在纽约曼哈顿联邦地区法院<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/01/160115_un_bribe_heidi_hong_piao_plead"><u>承认</u></a>，她曾以中间人身份参与向John Ashe支付秘密款项。Ashe被控收受来自中国商人的超过100万美元贿赂，借自身职务帮助商人获得商业利益。她在去年10月与另外五人一起被起诉，除Ashe外，被告还包括澳门地产富豪吴立胜、多美尼加共和国驻联合国副大使Francis Lorenzo、名为“全球可持续发展基金会”的机构华裔总裁严雪瑞以及吴立胜的私人助理等。朴虹是此案中第一个认罪的被告，其余五人均否认控罪。朴虹是全球可持续发展基金会的财务总监.。据美联社引述法院文件指，身兼中美洲岛国安提瓜和巴布达驻联合国大使的Ashe还同意借其职权帮助在安巴推动一个“国家互联网安全系统”。<a target="_blank" href="https://www.fbi.gov/newyork/press-releases/2015/former-un-general-assembly-president-and-five-others-charged-in-1.3-million-bribery-scheme"><u>FBI的文件</u></a>将涉及的中国公司称为CC-2，严和朴安排Ashe、CC-2和安提瓜官员会面，商讨2000万美元的防火墙系统交易，在Ashe的帮助下，CC-2和安提瓜政府达成了一个谅解备忘录去推进这个项目。Ashe将部分贿赂转给了总理。涉及此案的中国公司还有CC-1和CC-3。<br>
+➜Netflix打击绕过地理区域封锁的行为
+https://www.solidot.org/story?sid=46897	35279
+<div align="center"><img src="http://img.solidot.org/0/346/lizzH17OC72.png" align="" height="408" width="500"><br>
+<br>
+</div>
+Netflix将其服务推广到了全世界大部分国家和地区，它的理想是让全世界的人能同步观赏电影电视剧。然而在现实中，娱乐公司采用的电影电视剧授权在不同国家是不同的，因此Netflix在每一个国家和地区提供的电视剧和电影数量并不相同。Finder制作了<a target="_blank" href="http://www.finder.com/global-netflix-library-totals"><u>一个交互式地图</u></a>展示了Netflix向各个国家提供的电视剧和电影数量。地理区域封锁日益成为用户头疼的一个问题，他们因此使用VPN等工具设法绕过地理区域限制，但版权持有者就不乐意了，他们的施压迫使Netflix采取措施<a target="_blank" href="http://arstechnica.com/business/2016/01/netflix-cracks-down-on-customers-using-vpns-proxies-and-unblockers/"><u>打击</u></a>绕过地理区域封锁的行为。
+➜维基百科15周年
+https://www.solidot.org/story?sid=46898	36986
+维基百科正在庆祝<a target="_blank" href="https://15.wikipedia.org/"><u>诞生15周年</u></a>。<a target="_blank" href="https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91"><u>维基百科“</u></a>最早是在吉米·威尔士与拉里·桑格两人的合作下，在2001年1月13日于互联网上推出网站服务，并在1月15日正式展开网络百科全书的项目。其中桑格同时结合了维基百科网站合作核心的‘Wiki’以及具有百科全书之意的‘encyclopedia’，而创造出新的混成词‘Wikipedia’。创立之初，维基百科的目标是向全人类提供自由的百科全书，并希望各地民众能够使用自己选择的语言来参与编辑条目。”维基百科的条目主要靠志愿者，运营也是主要依靠捐赠。
+➜海尔54亿美元收购GE的家电业务
+https://www.solidot.org/story?sid=46899	39280
+中国海尔公司<a target="_blank" href="http://www.wsj.com/articles/chinas-haier-to-buy-ge-appliance-business-for-5-4-billion-1452845661"><u>宣布</u></a>以54亿美元收购美国通用电气（GE）的家电业务。GE的家电业务有一百年历史了。它此前试图将家电业务以33亿美元的价格出售给瑞典家电器公司伊莱克斯，但被美国司法部以反垄断的理由阻止。GE和伊莱克斯是美国最大的两家家电制造商。交易流产后GE开始寻找家电业务的新卖家，海尔最终赢得了竞价。根据两家公司的交易，海尔获得了在家电产品中使用GE品牌40年的权利。
+➜教育部称七成留学生愿意学成回国
+https://www.solidot.org/story?sid=46900	40532
+教育部称，越来越多的留学生<a target="_blank" href="http://news.sciencenet.cn/htmlnews/2016/1/336288.shtm"><u>选择回国发展</u></a>。根据教育部的统计，2014年度出国留学人员总数为45.98万人，各类留学回国人员总数为36.48万人。相比2013年，出国留学人数和留学回国人数都有进一步增加。出国留学人数增加4.59万人，增长了11.09%；留学回国人数增加了1.13万人，增长了3.20%。《中国留学生回国就业蓝皮书》显示，超过70.0%的在外留学人员表示学成以后要回国。专家预测，未来5年，中国将迎来回国人数比出国人数多的“拐点”，中国将从世界最大的人才流出国，转变为世界最主要的人才回流国。
+➜阴道的演化史
+https://www.solidot.org/story?sid=46901	41896
+数十年来，生物学家对动物王国阴茎形状的多样性感到惊讶万分：直的、有分叉的、螺旋状的、尖刺状的。但在解剖学上，<a target="_blank" href="http://www.sciencemag.org/news/2016/01/beyond-penis-vaginas-shaped-evolutionary-history"><u>雌性阴道的多样性不遑多让</u></a>。研究人员发现，雌性性器官与雄性性器官有着相似的复杂性。雌性也是性器官军备竞赛的积极参与者，它们演化出复杂的生殖器去帮助控制交配和为强迫交配制造障碍。演化生物学家Patricia Brennan说，很可能是雌性生殖器的形状和功能驱动了雄性生殖器的形状和功能的变化。《科学》期刊今天发表了一篇<a target="_blank" href="http://science.sciencemag.org/content/351/6270/214"><u>研究报告</u></a>。
+➜私人太空公司获得NASA 140亿美元合同
+https://www.solidot.org/story?sid=46902	44570
+NASA<a target="_blank" href="http://arstechnica.com/science/2016/01/nasa-signals-commitment-to-private-space-with-14-billion-investment/"><u>给予了</u></a>私人太空公司Orbital ATK、SpaceX和 Sierra Nevada高达140亿美元的2019年到2024年国际空间站补给合同。7年前，前两家公司分别获得了价值35亿美元的补给合同。在履行合同期间，两家公司都发生过事故：2014年10月，Orbital的Antares火箭在升空15秒后爆炸；2015年6月，SpaceX的Falcon 9火箭在飞行过程中爆炸。两家公司都从灾难中恢复了过来，NASA相信它们都学到了太空飞行挑战的宝贵经验。NASA计划到2024年或2028年停止支持国际空间站，它希望届时私人太空行业的空间站将能“接管”低地球轨道。

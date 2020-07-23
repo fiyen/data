@@ -1,0 +1,61 @@
+➜微软发布基于Chromium的Visual Studio Code
+https://www.solidot.org/story?sid=43893	8804
+微软在<a target="_blank" href="http://www.buildwindows.com/"><u>Build开发者大会</u></a>上宣布了跨平台轻量级免费代码编辑器<a target="_blank" href="http://go.microsoft.com/fwlink/?LinkID=533688"><u>Visual Studio Code</u></a>， 支持为OS X、Linux和 Windows开发构建Web和云端应用程序。这是软件巨人首次为开发者提供跨平台代码编辑器，功能完整的IDE Visual Studio仍然是Windows独占。微软开发部门的副总裁S. Somasegar说，许多人把Windows作为开发环境，还有很多人用的是Linux和Mac，与其说服这些人改用Windows，不如在他们使用的平台上提供工具<a target="_blank" href="http://techcrunch.com/2015/04/29/microsoft-shocks-the-world-with-visual-studio-code-a-free-code-editor-for-os-x-linux-and-windows/"><u>满足其要求</u></a>。Visual Studio Code<a target="_blank" href="http://arstechnica.com/information-technology/2015/04/29/microsofts-new-code-editor-is-built-on-googles-chromium/"><u>是基于</u></a>Google的开源浏览器Chromium，它使用GitHub开发的开源桌面应用框架<a target="_blank" href="https://github.com/atom/electron"><u>Electron</u></a>构建，Electron使用 HTML5、JavaScript、 io.js和其他Web技术，使用Chromium 展示，GitHub的跨平台文本编辑器Atom也是基于Electron。
+➜微软在Windows 10中引入包管理功能
+https://www.solidot.org/story?sid=43894	10636
+微软迈出了学习开源社区的重要一步：在Windows 10中<a target="_blank" href="http://blogs.technet.com/b/packagemanagement/archive/2015/04/29/introducing-packagemanagement-in-windows-10.aspx"><u>引入了包管理功能PackageManagement</u></a>自动化软件的发现和安装。微软官方博客说，在Linux世界，用户熟悉的包管理器有Apt-Get、YUM和RPM。而Windows世界则存在大量的安装器技术，每一种都以它自己的方式去安装软件，如MSI、MSU、APPX等等。这对IT管理者构成了挑战，他们需要工具去自动化软件部署。PackageManagement就是试图解决这个问题，它本质上是一个包管理聚合器。微软在Apache许可证下在GitHub上开源了被称为<a target="_blank" href="https://github.com/OneGet/oneget"><u>OneGet</u></a>的包管理组件。但软件开发者在分析OneGet后<a target="_blank" href="https://news.ycombinator.com/item?id=9458919"><u>认为</u></a>，它仍然是一个愚蠢的下载器，不具有现代包管理器的功能。
+➜中国科学家测量汉族方言族群身高差异
+https://www.solidot.org/story?sid=43895	11929
+中国研究人员在乡村和城市测量了中国11个汉族方言族群的26 954例人体数据，发现在乡村江淮方言区的人身高高于其它族群，但在城市东北方言区的人最高。<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-04/scp-soh042915.php"><u>研究人员指出</u></a>，从1870-1980年的110年间欧洲男性每10年增长约1cm。考虑到从青年到老年身高生理性衰减因素，此项研究发现在近50年中汉族乡村男性的身高共增加约5cm，城市男性则增加约4.2cm。这表明与欧洲男性相比，近50年中国男性身高的增长速度并不逊色。
+➜Project Spartan正式名称为Microsoft Edge
+https://www.solidot.org/story?sid=43896	13628
+Project Spartan浏览器是Windows 10上最引入注目的新特性之一，在<a target="_blank" href="http://www.buildwindows.com/">Build开发者大会</a>上，微软<a target="_blank" href="http://arstechnica.com/gadgets/2015/04/29/microsofts-project-spartan-is-now-called-microsoft-edge/"><u>宣布了</u></a>新浏览器的真正名字：Microsoft Edge，与浏览器使用的新渲染引擎同名。微软还宣布Microsoft Edge支持Web扩展，扩展开发者只需少许修改就能将Chrome和Firefox上的扩展移植到Edge上。Microsoft的Joe Belfiore举例说，不支持IE的扩展<a target="_blank" href="http://redditenhancementsuite.com/"><u>Reddit Enhancement Suite</u></a>事实上不需要修改就能工作在Edge上。
+➜研究认为空气污染影响胎儿发育
+https://www.solidot.org/story?sid=43897	14014
+两项最新研究显示，<a target="_blank" href="http://www.ftchinese.com/story/001061818"><u>中国的有毒雾霾正影响胎儿健康</u></a>，这加大了要求政府解决有害水平污染的压力，污染正变成一种政治包袱。2008奥运会前后北京周边地区关闭了大量工厂，对奥运会期间怀孕女性的一项研究显示，她们的宝宝出生时的体重明显高于之前或之后一年出生的婴儿。这项研究调查了83672名女性。研究发现，奥运会结束后不久出生的婴儿平均比2007年或2009年出生的婴儿重23克。研究者们提出，空气污染可能对胎盘功能造成损害。另一项研究调查了2011年至2013年期间在工业城市武汉出生的95911名婴儿。这项研究仍在评审阶段，它发现空气中较高的颗粒物水平与较多的早产相对应，而较高的臭氧和一氧化碳水平同样会诱发早产。
+➜iPad软件失灵导致航班延误
+https://www.solidot.org/story?sid=43898	15897
+当航空公司用iPad替代笨重的飞行手册时，公司估计可以节省百万美元的燃油。但飞行手册不会发生故障，而电子设备无论是硬件还是软件都可能会发生故障。本周二晚上，美航<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2015/04/150429_us_ipad_flights_delay"><u>就遭遇了这一问题</u></a>，飞行员查阅飞行计划的iPad软件发生故障，数十个航班延误。为了修理故障，部分受影响的航班被迫返回停机闸口，以便连上无线网络。美国航空使用的iPad软件叫FliteDeck，由波音子公司Jeppesen设计。该公司发言人不愿发表评论。
+➜微软将Android和iOS应用带到Windows 10上
+https://www.solidot.org/story?sid=43899	18549
+微软宣布了两个项目，要将Android和iOS应用<a target="_blank" href="http://arstechnica.com/information-technology/2015/04/29/microsoft-brings-android-ios-apps-to-windows-10/"><u>带到Windows 10上</u></a>。<i>利用Project Islandwood， iOS开发者能让iOS应用运行在Windows上。微软开发了一个Objective C工具链和中间件层，提供了iOS应用需要的操作系统API。King的流行游戏《糖果粉碎传奇》就利用这一技术运行在Windows Phone上。利用Project Astoria，Android应用可以直接运行在Wndows 上。Windows Mobile（工作在Phone和小型平板上的Windows新名字）包含了一个Android运行时，不用修改就能运行现有的Android应用程序。在理论上，旧的Android应用文件不需要修改就能直接发布在Windows商店，只要它们使用的API在Astoria支持范围内。</i>
+➜微软正式将.NET带到Linux和OSX上
+https://www.solidot.org/story?sid=43900	24275
+微软在Build大会上宣布<a target="_blank" href="http://blogs.msdn.com/b/dotnet/archive/2015/04/29/net-announcements-at-build-2015.aspx#dotnetcore"><u> .NET Core运行时</u></a>支持Linux和Mac OS X，正式将.NET带到竞争对手的平台。.NET Core框架可以在ASP.NET 5、Windows 10应用和 .NET Core控制台应用中使用，微软称.NET Core是独立的，能作为应用的一部分，确保开发者的应用不受操作系统更新和同机器其它应用的影响。除了支持Windows、OS X和Linux外，微软还在社区的帮助下准备支持FreeBSD。
+➜Android Chrome的分裂现状
+https://www.solidot.org/story?sid=43901	25837
+从4.3开始，Chrome成为了Android默认的浏览器。然而不是所有的Android 4.3+设备都运行原生的系统，不同Android厂商提供了表面相同实际上略有差异的Chrome浏览器。在Android生态系统中，<a target="_blank" href="http://www.quirksmode.org/blog/archives/2015/02/chrome_continue.html"><u>至少有11种基于Chromium的默认浏览器</u></a>。它们包括：Google Chrome、Opera、Yandex、小米、Cyanogen、Puffin、三星、Amazon Silk，Nokia X， LG Chromium 30和33，HTC&nbsp; Chromium 33。在中国的Android厂商的帮助下，这个名单可能会越来越长，比如阿里巴巴收购的UC可能会从WebKit转移到 Chromium，而UC Chromium显然不会是Google Chrome。
+➜Google宣布Password Alert扩展用于防钓鱼网站
+https://www.solidot.org/story?sid=43902	25906
+<a href="/~cuthead">cuthead</a> 写道 <i>"Google宣布了一个免费开源的Chrome扩展 Password Alert&nbsp;<a href="http://googleblog.blogspot.com/2015/04/protect-your-google-account-with.html" target="_blank">保护你Google账户免受钓鱼网站攻击</a>。一旦你安装了它，如果在非Google登录网页上输入Google密码，Password Alert 将显示一个警告。这将防止钓鱼网站的同时也会促使你在不同网站用不同的密码。当你安装完成Password Alert，Chrome将记住你的密码的变体，并且不会分享给别人。如果你在非Google的网站输入密码，警告将会出现提示你更新密码保护你自己。"</i>
+➜Debian GNU/Hurd 2015发布
+https://www.solidot.org/story?sid=43903	27040
+Debian GNU/Hurd 在邮件列表上<a target="_blank" href="https://lists.debian.org/debian-hurd/2015/04/msg00047.html"><u>宣布</u></a>发布<a target="_blank" href="http://ftp.debian-ports.org/debian-cd/hurd-i386/debian-hurd-2015/"><u>Debian GNU/Hurd 2015</u></a>。GNU/Hurd是自由软件基金会基于GNU Mach的自由内核，近三十年来仍处于早期开发阶段。Debian GNU/Hurd 2015能使用超过80%的Debian i386 架构软件包，核心的GNU Hurd 和GNU Mach包各自升级到0.6和1.5版，改进了稳定性；网络驱动迁移到用户空间，其它的软件更新包括Iceweasel 31 ESR、XFCE4 4.10、X.org 7.7和Emacs 24.4。
+➜SEC指控两名中国人涉嫌58同城股票内幕交易
+https://www.solidot.org/story?sid=43904	27871
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20150430/tec134258.asp"><u>报道</u></a>，美国证券交易委员会(SEC)周三宣布对Xia Xiaoyu和Hu Yanting两人<a target="_blank" href="http://www.sec.gov/litigation/litreleases/2015/lr23249.htm"><u>提出内幕交易指控</u></a>。路透社<a target="_blank" href="http://cn.reuters.com/article/2015/04/30/sec-wuba-update-idCNKBS0NL0CD20150430"><u>最新报道</u></a>称，SEC已获得法庭命令冻结两人的资产。SEC称，Xiaoyu Xia和Yanting Hu刚好在58同城本月宣布购买赶集网43.2%股份，以及腾讯控股将向58同城投资4亿美元的消息爆出前，购买了58同城买权，并借此获利逾200万美元。Xia是北京投资公司涛石股权管理有限公司的一名雇员，Hu就职于一家中国航空公司的北京办公室，通过Interactive Broker管理她的投资，Hu与一位未透露姓名的人士“关系密切”。该人士在香港一家国际投行供职。该投行2015年与腾讯在财务事务上有合作。
+➜旧制度阻碍中国科学研究的商业化
+https://www.solidot.org/story?sid=43905	32538
+今天出版的《自然》杂志出版了<a target="_blank" href="http://www.nature.com/nature/journal/v520/n7549_supp/index.html"><u>一期中国特刊</u></a>，报道中国相关的科研发展和问题。其中一篇文章谈论的是科研商业化的一大障碍是<a target="_blank" href="http://www.nature.com/nature/journal/v520/n7549_supp/full/520S28a.html"><u>官僚制度</u></a>。<i>前浙江大学副校长褚健于2013年底<a target="_blank" href="http://www.nature.com/nature/journal/v520/n7549_supp/full/520S28a.html"><u>被捕</u></a>，2015年2月受到正式指控。褚健是杭州中控科技的联合创办人，中控在2003年收购了浙大的一家下属企业海纳科技，褚健的一个罪名是将海纳的优质资产转移到中控，留下了不良资产。褚健的故事并非不同寻常，有几十名大学官员和创业家在中国反腐败运动中遭到清洗，凸显了政府资助研究商业化所面临的困难和重重障碍。中国的研发投资和发表的论文申请的专利数量仅次于美国，但在商业研究上，中国远远落后。甚至官方的新华社都对此表达了不满。一位浙江大学的年轻科学家说，他们这一代人中有许多人都有着创业的念头，但面临的不确定性和不安全感使得他们将在高影响分子期刊上发表论文作为优先考虑的工作，因为这将帮助他们度过行政部门自上而下的评估。旧的管理体系，政府对大学和研究机构事实上的垄断，任何经济活动都必须经过国有资产管理部门的批准，阻碍了想要创业的科学家商业化研究的尝试。除此之外，创业者还会发现自己必须在不同政府部门的复杂监管海洋中航行。年轻的研究人员说，现实是当您需要他们的时候，他们就消失了你找不到他们，而他们总是在不应该出现的地方出现。</i>
+➜德国情报机构协助NSA窃听法国和欧盟
+https://www.solidot.org/story?sid=43906	35434
+德国联邦情报局曾经协助美国国家安全局（NSA）<a target="_blank" href="http://www.dw.de/%E5%BE%B7%E5%AA%92%E5%BE%B7%E5%9B%BD%E7%9B%91%E5%90%AC%E7%AB%99%E5%B8%AE%E7%BE%8E%E5%9B%BD%E5%88%BA%E6%8E%A2%E6%B3%95%E5%9B%BD%E5%92%8C%E6%AC%A7%E7%9B%9F/a-18420012"><u>对法国政府和欧盟委员会进行情报刺探</u></a>。较长一段时间内，联邦情报局一直根据美国人提供的一些包括IP地址和姓名在内的搜索关键词对数据流通进行监控。据《南德意志报》等媒体的报道，仅2013年一年，就监控了69万个电话号码和780万个IP地址。而其中关于4万个搜索关键词的内容被联邦情报局认为是损害德国利益的，因此就被收入一个所谓的"拒绝数据库"里，与之相关的信息不应该提供给美国方面。除了基地组织和塔利班，在被监测名单上的还有空客所属的欧洲航空防务及航天集团，其子公司欧洲直升机公司（Eurocopter），还有法国政府机构。德国联邦情报局在一份报告中提到，美国国家安全局试图将监控范围"扩大到不符合双方共同利益的领域"。然而对于这种违背合作协议的做法，德方仅仅是做出了微弱的抗议，并请求美方未来不要继续这样做。
+➜21世纪网被关
+https://www.solidot.org/story?sid=43907	36994
+官方新华社<a target="_blank" href="http://news.xinhuanet.com/fortune/2015-04/30/c_1115147071.htm"><u>报道</u></a>，新闻出版总局通报了对21世纪网、《理财周报》和《21世纪经济报道》新闻敲诈案件的行政处理情况，21世纪网被责令停办，《理财周报》被吊销出版许可证，《21世纪经济报道》被责令整顿。21世纪网<a target="_blank" href="http://www.21cbh.com/"><u>21cbh首页</u></a>显示了一张金字塔的404图和一句话，“抱歉 \(ToT)/
+亲爱的读者，很遗憾从4月30号开始21世纪网将实施关停，感谢所有陪伴21世纪网成长的读者。”新华社称，国家新闻出版广电总局一位没有透露姓名的有关负责人强调：“各新闻单位要引以为戒，举一反三，切实加强新闻采编管理。各主管主办单位要切实履行管理职责，建立健全机制，坚决纠正各类违法违规问题。各地新闻出版广电行政部门要继续深入开展打击新闻敲诈和假新闻专项工作，加大案件查办力度，限期挂牌督办一批重点案件，关停一批违规报刊单位，撤销一批违规记者站，吊销一批违规人员新闻记者证，对涉嫌违法犯罪的要移送司法机关追究刑事责任，对内外勾结、包庇纵容、失职渎职的要移送纪检监察部门追究党纪政纪责任。”
+➜信使号的生命将在今天终结
+https://www.solidot.org/story?sid=43908	39234
+<div align="center"><img src="http://img.solidot.com.cn/0/211/litu6PyEjxPxs.jpg" align="" height="280" width="480"><br>
+<br>
+</div>
+3900天前，NASA发射了<a target="_blank" href="http://zh.wikipedia.org/wiki/%E4%BF%A1%E4%BD%BF%E5%8F%B7"><u>信使号探测器</u></a>去访问内太阳系的行星；4年前，信使号终于抵达了它的目的地，进入了水星轨道，成为继1975年水手10号之后第一颗近距离访问水星的探测器。它收集了大量水星的数据。在燃料耗尽之后，它将在今天<a target="_blank" href="http://arstechnica.com/science/2015/04/29/nasa-bids-farewell-to-messenger-its-mercury-orbiter/"><u>坠毁在行星表面</u></a>，时间预计为协调世界时4月30日19:26:02，北京时间UTC+8(即5月1日3:26)。水星是最接近太阳的行星，白天表面温度能超过400度，晚上则会低至零下100度。为了避免在强烈阳光下过热，信使号的太阳能电池板70%是反射光的镜子，但光无法转换成推进剂，所以它的燃料最终会耗尽。它原计划在水星轨道上工作一年，在精心保存携带资源后它超期服役了三年。如果你想体验信使号的成果，可以下载Google地球以及<a target="_blank" href="http://messenger.jhuapl.edu/the_mission/google.html"><u>水星KMZ文件</u></a>。
+➜斯洛伐克宪法法院宣布大规模监视违宪
+https://www.solidot.org/story?sid=43909	40983
+在斯洛伐克，大规模的通信数据保留将成为历史。宪法法院<a target="_blank" href="http://www.eisionline.org/index.php/sk/projekty-m-2/ochrana-sukromia/109-the-slovak-constitutional-court-cancelled-mass-surveillance-of-citizens"><u>宣布</u></a>，对公民的大规模监视违反宪法。斯洛伐克的电子通信法其中有规定要求移动网络运营商跟踪用户，而刑法典允许警方访问这些数据。宪法法院认为，这些法规与保护公民隐私和个人数据权利的宪法不一致，是无效的。根据电子通信法已经失效的条款，通信运营商有义务保存流量数据、位置数据和通信方相关数据6个月（互联网）或12个月时间（其它通信方式）。
+➜金钱驱动的“实名制”也成打压工具
+https://www.solidot.org/story?sid=43910	48454
+<a href="http://https://pao-pao.net/article/431">paopao</a> 写道 <i>"Facebook推行实名制，初衷并不是为了严厉监控网民思想，而是钱作怪。但“实名制”却成为另类打压异见的工具。虽然Facebook产品长Christopher Cox曾<a href="https://www.facebook.com/chris.cox/posts/10101301777354543" rel="nofollow">在个人帐号向受实名制影响的同性恋、双性恋与跨性别社群道歉</a>，并同时强调Facebook的实名制并非指法律上名字，而是现实生活应用的真名 (authentic name they use in real life)。可惜，实名制却成为另类打压异见的工具，使香港和台湾网民，特别是社运人士大为不满。事实上，Facebook实名制和检举机制最大的矛盾是，被检举者必须使用政府签发的证件才能恢复帐户，但是对检举者却无此要求。被检举者即使身分经核实，仍然不知道谁检举他们，恶意检举者会否受Facebook处分，亦无人知晓。被检举人士中，若不想曝露个人真实身分，惟有注册新帐户、放弃帐户，或者改变名称。原先帐户内的所有信息，若没有备份，便会付之一炬。经年累积的粉丝群，亦要由零重新开始。结果，政策被用作打击政治对手的卑鄙手段，华人圈子中，被检举者不乏知名行动者和异议者。香港<a href="https://pao-pao.net/node/112" rel="nofollow">网络漫画家Cuson LO</a>、网络作家卢斯达、台湾原住民运动行动者马太攻守联盟的成员 Nakao Eki Pacidal等等。Facebook推行实名制，当然不是要像中国严厉监控网民思想，防止任何对政府不利的信息发布。说穿了，都是钱作怪。Facebook的广告销售额高达三十多亿美元，随着愈多人使用流动装置浏览Facebook，相信广告额升势持续。Facebook亚太区副总裁<a href="http://www.bnext.com.tw/topic/view/id/65/2" rel="nofollow">Dan Neary接受访问时提到</a>，“Facebook的用户都是实名制”，可以帮助广告客户针对使用者。今年初，Facebook又更新条款及政策，用户贴文或打卡时，Facebook会寻找用户所在位置，呈现相关度最高的资讯，如附近餐厅选择，或是该地区朋友的动态消息更新，令人更担心个人私隐问题。"</i>
+➜​OnePlus和Cyanogen正式分手
+https://www.solidot.org/story?sid=43911	50831
+​OnePlus和Cyanogen的合作关系<a target="_blank" href="http://www.zdnet.com/article/oneplus-and-cyanogen-officially-call-it-quits/"><u>正式结束</u></a>。​OnePlus是Cyanogen第一个硬件商业合作伙伴，该公司向海外用户发售的一加手机安装了Cyanogen的开源Android ROM。两公司的关系在Cyanogen与一家印度公司签署了独占协议后出现了恶化，当时OnePlus的手机正在印度上市。​OnePlus的高管Carl Pei在一份声明中说，两家公司建立合作关系时都是新近成立的创业公司，“我们都找到了自己的路，虽然这条路看来在短期内将会分道扬镳，你永远不知道未来会怎样。”他认为两家公司的合作关系是互惠互利的，没有这一合作不会走到今天的位置。Cyanogen则表示，一加手机的销量比较低，它正与中国一家规模更大的企业展开合作。

@@ -1,0 +1,71 @@
+➜MINIX 3.2.0正式版发布
+https://www.solidot.org/story?sid=28501	300
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"著名的开源微内核架构的操作系统MINIX迈出了一大步，<a href="http://groups.google.com/group/minix3/browse_thread/thread/2d9beab6384c4dab?pli=1">MINIX 3.2.0今天正式发布</a>，增加了不少<a href="http://wiki.minix3.org/en/MinixReleases">新的特性</a>，很多<a href="http://wiki.minix3.org/en/SummerOfCode2011/NetbsdUserland">来自NetBSD仓库的代码</a>，比如替代了libc在内的用户态程序和bootloader(启动引导程序)，UNIX-Like软件可以更容易移植到MINIX 3.2.0的同时也保持了微内核架构，<a href="http://clang.llvm.org/">Clang</a>和ELF分别作为默认的编译器和二进制文件格式，这也方便在不远的将来可以把MINIX移植到其他硬件平台上，现在<a href="http://www.cs.vu.nl/~ast/job/">MINIX社区已经在尝试移植到ARM上</a>。LiveCD可以正常使用，3.2.0最大的亮点在于基于NetBSD的用户态程序，而不是以前功能限制的老派Minix用户空间，实验性的SMP支持也是新版本的增加的功能。MINIX 3.2.0的代码已经转移到了git仓库，这让黑客们可以更方便的hacking。"</i>
+➜施密特称联合国国际电信条约将是互联网的一场灾难
+https://www.solidot.org/story?sid=28502	5040
+联合国成员国正在讨论中国和俄罗斯支持的<a href="http://www.internetsociety.org/sites/default/files/Internet%20Society%20Background%20Paper-%20International%20Telecommunication%20Regulations%20(Chinese).pdf">国际电信规则修订方案</a>(PDF)，修订方案建议将互联网包含在联合国下属机构国际电信联盟的管辖范围之内。《华尔街日报》的一篇文章认为，如果授予联合国管理互联网的权力，<a href="__SLASHLINK__" sect="internet" sid="12/02/21/1123245" sn="article" tid="120">将会对互联网构成极大威胁</a>。Google执行主席施密特（Eric Schmidt）在西班牙移动世界大会上称，<a href="http://yro.slashdot.org/story/12/02/29/1840252/eric-schmidt-un-treaty-a-disaster-for-the-internet">对互联网而言这将是一场灾难</a>，尽管他是站在互联网巨人的角度看待该问题。施密特说，如果将域名和DNS等的控制权交给国际电信联盟，将会演变成一场灾难，互联网的开放性和互操作性，是人类有史以来最伟大的成就之一。他说，我们不能轻言放弃，否则后悔莫及，会痛恨不已，因为所有的自由和灵活性，在美妙的借口和良好的意愿下一步步被吞噬。他希望人们能共同抵制条约修订。
+➜朝鲜暂停铀浓缩换取美国援助24万吨粮食
+https://www.solidot.org/story?sid=28503	6480
+朝鲜29日宣布暂停<a href="http://en.wikipedia.org/wiki/Yongbyon_Nuclear_Scientific_Research_Center">宁边</a>的铀浓缩活动，并同时暂停核试验与远程导弹试验，允许国际原子能机构重返朝鲜以核查宁边核设施，朝鲜的让步<a href="http://international.caixin.com/2012-03-01/100362269.html">旨在换取美国的24万吨粮食援助</a>。朝鲜问题专家哈格德（Stephen Haggard）认为，这次朝鲜和美国达成的协议在铀浓缩问题上仅涉及宁边地区，而朝鲜的铀浓缩计划并不局限于该地区，因此只能看作“一点进步”，而且如果不废除核设施，则铀浓缩活动很容易逆转。对于粮食援助，他称美朝双方曾对援助数量有争议，美方提出24万吨，而朝鲜认为加上此前暂停的计划应有33万吨，而这也符合了美国关于朝鲜粮食状况恶化的判断。
+➜Torvalds称OpenSUSE安全机制过于扰人
+https://www.solidot.org/story?sid=28504	7920
+如何平衡安全性和易用性一直是个棘手的难题，而Linux发行版一般倾向于安全高于易用，但有时候是否谨慎过头了？一些常见的任务比如添加打印机之类与安全关乎不大，用户使用过程中不应该收到安全警告。然而，Linux创始人Linus Torvalds在Google+上<a href="https://plus.google.com/102150693225130002912/posts/1vyfmNCYpi5">抱怨</a>说，openSUSE的安全机制<a href="http://linux.slashdot.org/story/12/02/29/176217/torvalds-calls-opensuse-security-too-intrusive">过于扰人</a>，他的女儿从学校打来电话，索要root密码，因为没有root密码她不能向笔记本添加学校打印机。Torvalds说他要寻找能在Macbook Air上工作的新发行版。
+➜新浪表示微博实名制会带来不利影响
+https://www.solidot.org/story?sid=28505	9120
+《华尔街日报》<a href="http://www.cn.wsj.com/gb/20120228/tec142209.asp?source=NewSearch">报道</a>，新浪首席执行长曹国伟表示，新浪微博目前有超过3亿用户。他称，通过移动设备使用其微博服务的用户数量已超过通过个人电脑登录微博的用户。曹国伟预计，微博服务实名认证政策将对其微博服务使用量带来不利影响。该规定要求微博服务运营商对所有新用户进行实名认证，同时在3月16日前完成对现有用户的实名认证。到目前为止，超过40%的新注册用户未通过实名认证检验程序，同时许多现有用户未对要求其实名认证的信息作出回复。他表示在3月16日前完成对现有用户的实名认证也存在困难。
+➜霍梅尼纸板肖像化身为恶意程序
+https://www.solidot.org/story?sid=28506	11520
+2012年2月1日是已故伊朗最高精神领袖<a href="http://zh.wikipedia.org/wiki/%E9%9C%8D%E6%A2%85%E5%B0%BC">霍梅尼</a>在经历海外流亡14年之后重返伊朗33周年的纪念日，这是伊朗历史上一个重要时刻。为了纪念这一历史性事件，伊朗让两位士兵扛着霍梅尼的纸板肖像象征性的<a href="http://www.guardian.co.uk/world/shortcuts/2012/feb/05/return-of-ayatolla-khomeini">检阅部队</a>。此事立刻激发了网友无穷的创造力，他们将霍梅尼纸板肖像<a href="http://cardboardkhomeini.blogspot.com/">嵌入到一些历史性的照片中</a>，产生极为反讽的效果。现在，赛门铁克<a href="http://www.symantec.com/connect/blogs/androidmoghava-recipe-mayhem">还识别出了</a>一个在第三方Android市场传播的恶意程序<a href="http://www.symantec.com/security_response/writeup.jsp?docid=2012-022712-2822-99">Android.Moghava</a>，该恶意程序会寻找用户手机中的.jpg图像，然后自动打上霍梅尼纸板肖像标签。
+➜据称是微博实名制的具体要求
+https://www.solidot.org/story?sid=28507	13800
+司马杜春 写道 <i>"作家温云超在g+里<a href="https://plus.google.com/u/0/108105216183622857074/posts/NJ5vgv7PJUb">转载了</a>中国微博实名制的具体要求（<a href="http://www.tianya.cn/publicforum/content/free/1/2405257.shtml">天涯社区也有</a>）。这份据称来自实名制实施通知里的文字称微博须对粉丝超10万者及黑名单上的用户实施先审后发制度，被指定的有害信息要在5分钟内删除。向公安机关开放技术接口，对关键词的屏蔽要在10分钟内生效，文本图片视频要有“一键删除”功能。同时要有对特定用户或指定微博信息的转发评论控制功能，要具备对特定地区、特定IP或特定来源信息发布控制功能。此外还要建立7x24小时信息巡查制度。"</i>
+➜正反物质不对称证据愈加明显
+https://www.solidot.org/story?sid=28508	17280
+为什么宇宙中的普通物质远远多于反物质？普遍接受的理论<a href="__SLASHLINK__" sect="science" sid="11/11/18/0657250" sn="article" tid="19">认为</a>，创世大爆炸产生了等量的正反物质，它们本应该在不久之后共同湮没，但因为正反物质之间性质差异导致普通物质占了上风，最终形成了我们今天的世界。物理理论学家认为，正反物质并不是完全对称的，存在所谓的电荷宇称不守恒（或叫CP破坏），即普通物质衰减与反物质的存在差异。2001年，美国和日本的加速器发现了B介子之间的差异证据；去年LHC在D介子上找到了更多证据，但统计可靠性只有3 Sigma。根据美国费米实验室对撞机探测器的最新结果，CP破坏的比率差异为0.6%，统计可靠性2.7 sigma，结合LHC的数据，<a href="http://news.sciencemag.org/sciencenow/2012/02/evidence-for-antimatter-anomaly-.html?ref=hp">统计可靠性增加到3.8 sigma</a>。标准模型允许低程度的CP破坏，但目前的结果比标准模型允许的高出八倍，理论学家将需要提出“新物理”。
+➜闰年导致微软Azure云服务下线12小时
+https://www.solidot.org/story?sid=28509	20880
+四年一度的闰年把微软云服务的客户<a href="http://arstechnica.com/microsoft/news/2012/02/prolonged-microsoft-azure-outtage-casts-dark-cloud-over-customers.ars?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss&amp;comments=1#comments-bar">扔在了黑暗之中</a>。<i>
+Azure云服务周二发生了严重下线事故，部分客户在长达12小时的时间内无法访问核心服务。微软发表<a href="https://www.datacenterknowledge.com/archives/2012/02/29/windows-azure-cloud-hit-by-downtime/">声明</a>，“2012年2月28日，5:45 PM PST，微软发现了一个影响多区Windows Azure服务管理的问题。”微软最初指出问题是cert证书导致的，因此很快有人推测问题与闰年有关。3月1日，微软负责云服务的副总裁Bill Laing在官方博客中<a href="http://blogs.msdn.com/b/windowsazure/archive/2012/03/01/windows-azure-service-disruption-update.aspx">承认</a>确实源于闰年：“问题迅速被触发”，他们确定问题是一个软件bug引起，“问题看起来是对闰年的时间计算不正确所致”。
+</i>
+➜Rumblefish CEO承认错误将鸟声识别为版权音乐
+https://www.solidot.org/story?sid=28510	22800
+在YouTube错误将鸟鸣声识别为唱片公司Rumblefish的版权音乐闹出笑话之后，该公司CEO在reddit.com上回答了<a href="http://www.reddit.com/r/IAmA/comments/q7via/im_the_ceo_of_rumblefish_i_guess_were_the_newest/">网友提问</a>。他说，整个过程出了两次差错：第一次YouTube的Content ID系统错误识别版权内容；第二次是 Rumblefish的人工审查团队的糟糕工作导致再次重复错误。他亲自观看过后证实视频没问题，他解释说原因是YouTube上有成千上万的视频（超过500万）被Content ID系统标记使用Rumblefish的音乐，要逐个检查所有视频是一项巨大的挑战。《连线》的一篇<a href="http://arstechnica.com/tech-policy/news/2012/02/copyright-kings-are-judge-jury-and-executioner-on-youtube.ars">评论</a>认为Content ID系统被版权持有者滥用，YouTube和Google应该在发现侵权视频后要求版权持有者发出DMCA，合法处理相关视频。
+➜日本发明可浮起抗震住宅系统
+https://www.solidot.org/story?sid=28511	25200
+日本公司<a href="http://www.airdanshin.jp/">Air Danshin Systems Inc.</a>发明出一种可升起的<a href="http://inhabitat.com/japanese-levitating-house-system-could-protect-homes-from-earthquakes/">抗震住宅系统</a>，防止房子因强地震出现结构性破坏。
+<i>
+在地震发生后，传感器能在一秒内作出反应，激活压缩机，向房子底部迅速压入大量空气，向上推动结构，使其与地基分离。空气压力可以使房子悬浮在地基上3厘米处。在去年发生9级大地震后，该公司计划为88座住宅安装可升起系统。
+</i>
+➜SETI携手公众寻找外星人
+https://www.solidot.org/story?sid=28512	26640
+科学家盛情邀请你帮助<a href="http://www.bbc.co.uk/news/technology-17199882">寻找地球之外的生命</a>。SETI学院设立了<a href="http://www.setilive.org/">SETI Live</a>网站，人人都可注册，分析SETI射电电望远镜收集的数据，寻找可能来自智能生命的不寻常信号，希望人类大脑能发现自动系统可能漏过的信号。
+➜NSA测试超级安全Android智能手机
+https://www.solidot.org/story?sid=28513	28440
+美国国家安全局（NSA）<a href="http://www.scmagazine.com.au/News/292189,nsa-builds-android-phone-for-top-secret-calls.aspx">正在测试</a>其设计的超级安全Android智能手机，并公开了智能手机<a href="http://www.nsa.gov/ia/_files/Mobility_Capability_Pkg_(Version_1.1U).pdf">蓝图</a>(PDF)。手机代号为Fishbowl，大约100部已发给政府雇员测试。手机设计能符合NSA严格的信息安全政策，同时又具有易于使用和造价低廉的优点。用户可以从美国国防信息系统局维护的应用商店上下载应用，确保只有安全的应用程序才能安装。
+➜中国发起例行“反色情”专项整治运动
+https://www.solidot.org/story?sid=28514	30480
+主管互联网的国家互联网信息办公室与九大政府机构27日举行会议，<a href="http://www.mps.gov.cn/n16/n1237/n1342/n803715/3153999.html">决定</a>开展开展整治互联网和手机传播淫秽色情及低俗信息专项行动。行动自3月初开始至8月底结束。会议称，“严厉打击传播网络淫秽色情违法犯罪活动，坚决切断淫秽色情和低俗信息传播的利益链条，全面净化互联网和手机媒体环境，为青少年健康成长营造良好的网络环境，为党的十八大胜利召开营造良好的网络文化氛围。”《通信信息报》的一篇<a href="http://news.cnwest.com/content/2012-03/01/content_6082195.htm">报道</a>说，“网络色情和低俗信息对广大青少年的危害是无法估量的，青少年处在思想观念形成的关键时期，对互联网和移动互联网依赖度的不断增强，使其很容易受到网上信息的影响，甚至影响其价值观的形成...打击互联网和手机色情，电信运营商的责任格外重要，甚至起到第一层过滤的防火墙作用。”
+➜中国发现1.2亿年翼龙化石
+https://www.solidot.org/story?sid=28515	32700
+中国发现了<a href="http://www.wired.com/wiredscience/2012/02/guidraco-flying-dinosaur/">有1.2亿年历史的未知翼龙头骨化石</a>。<i>
+新翼龙被命名为“Guidraco venator”，在中文和拉丁文中代表“幽龙猎手”，食肉猎手的翼展在13到16英尺之间，头骨长一英尺，末端的篮形尖牙可帮助它捕鱼，圆形的帆状物可以帮助它稳定飞行。<a href="http://dx.doi.org/10.1007/s00114-012-0889-1">研究</a>发表在《Naturwissenschaften》上，作者是巴西联邦大学的Alexander Kellner 和中科院的Xiaolin Wang、Ahunxing Jiang和Xin Cheng。有科学家对翼龙能捕捉活鱼表示怀疑。</i>
+➜NASA用3D激光扫描制作南极冰川裂缝视频
+https://www.solidot.org/story?sid=28516	35760
+2011年10月，NASA DC-8研究飞机利用机载3D激光扫描设备收集了南极松岛冰川裂缝的3D数据，结合数字摄影系统的航摄，制作了一个令人印象深刻的<a href="http://www.dailymail.co.uk/sciencetech/article-2108340/Slice-ice-Nasa-creates-incredible-video-fly-18-mile-crack-Pine-Island-glacier-3D-laser-scans.html">虚拟飞越冰川裂缝的视频</a>。裂缝长18英里，平均宽240英尺。<a href="http://en.wikipedia.org/wiki/Pine_Island_Glacier">松岛冰川</a>面积占西南极冰盖的十分之一，卫星测量显示它的冰进入海洋的数量远远多于其它冰川区域。NASA的团队以每秒发射3000束激光脉冲扫描裂缝。
+➜移动版Adobe Air支持原生3D
+https://www.solidot.org/story?sid=28517	36720
+<a href="http://www.goozo.net/">Rinick</a> 写道<i> "<a href="__SLASHLINK__" sect="apple" sid="11/11/09/107214" sn="article" tid="12">Adobe放弃移动版Flashplayer似乎宣告了一场战争的结束</a>。但Flashplayer的兄弟Adobe Air却越活越滋润了。<a href="http://labs.adobe.com/technologies/flashplatformruntimes/air3-2/">Adobe Air3.2</a>终于<a href="http://v.youku.com/v_show/id_XMzU4OTg5NDE2.html/">将原生3D支持带进了ios和android平台</a>，再加上Flash/Air应用可以一行代码不改得编译到iOS，Android，Playbook等移动设备，对于3D游戏开发者来说是个非常好的选择，对他们来说，Flashplayer原本就没太多意义，因为Flashplayer并不能帮他们把应用打包到App商店，Adobe Air才行。"</i>
+➜暴雪裁掉600名员工，包括60名暗黑3开发者
+https://www.solidot.org/story?sid=28518	37680
+暴雪娱乐宣布了全球裁员600人，大部分是《魔兽世界》的客服人员，但其中还<a href="http://www.gamespot.com/news/blizzard-laying-off-600-6360584">包括了60名《Diablo III》的开发者</a>。暴雪澄清，《魔兽世界》开发团队没有受到影响。过去一年《魔兽世界》的付费玩家数量首次出现下滑，截至12月底降至1020万。暴雪表示，裁员的原因是过去几年公司规模增长过快，投资过多，因此不得不做出一些困难决定解决公司目前面临的问题。暴雪预计将在不久之后宣布《Diablo III》的发售日期，这款游戏的开发已接近完成，现在它正在开发的项目包括：《魔兽世界》资料片《Mists of Pandaria》、Blizzard DOTA和《星际争霸2：虫群之心》。暴雪没有解释裁员对《Diablo III》的发布计划有什么影响。
+➜“见到你很高兴”，海豚说
+https://www.solidot.org/story?sid=28519	40080
+一项新研究发现，当海豚在公海相遇，它们会用自己独有的叫声<a href="http://news.sciencemag.org/sciencenow/2012/02/nice-to-meet-eet-eet-you.html">互相打招呼和介绍自己</a>。这种叫声被称作签名口哨，可能相当于人类的名字。<i>
+海洋生物学家Vincent Janik和Nicola Quick希望通过研究签名口哨了解海豚如何在海洋中通信。Janik说，海豚在认知能力上与类人猿相近，但大部分研究是在实验室中进行的，他们希望能在非人类设置环境中了解海豚如何利用他们的智能。他们跟踪了一群宽吻海豚，用水听器记录不同海豚的声音。他们发现，当这群海豚遇到另一群海豚时就会使用签名口哨。每群体中只有一名成员发出签名口哨，研究人员给出了一些解释，例如“头领”交流，或者是某种仪式，或者是以前认识。</i>
+➜新福尔摩斯电视剧把华生变成女的
+https://www.solidot.org/story?sid=28520	42000
+wmr 写道<i> "一部演绎福尔摩斯的电影把他们<a href="__SLASHLINK__" sect="mainpage" sid="09/08/06/0217247" sn="article" tid="71">描写成同性恋</a>，《神秘博士》编剧Steven Moffat编写的，最近播出的令人激动的<a href="http://zh.wikipedia.org/wiki/%E7%A5%9E%E6%8E%A2%E5%A4%8F%E6%B4%9B%E5%85%8B">BBC现代背景改编版本</a>让中国媒体<a href="http://ent.163.com/12/0113/12/7NLBAR0E00031GVS.html">质疑</a>关系“暧昧”。美国CBS电视台也计划将福尔摩斯搬到现代，引来英国制作人<a href="http://www.telegraph.co.uk/news/worldnews/9043446/Elementary-the-company-behind-the-BBCs-Sherlock-to-sue-CBS-over-new-version-of-Sherlock-Holmes.html">诉讼的威胁</a>。在CBS的版本中，背景设在纽约，<a href="http://www.tvline.com/2012/02/lucy-liu-sherlock-holmes-elementary/">华生将变成一个女的</a>，由刘玉玲饰演。"</i>
+➜科学家创造首个“超电子”电路
+https://www.solidot.org/story?sid=28521	42480
+宾夕法尼亚大学的研究人员<a href="http://www.sciencedaily.com/releases/2012/02/120223183809.htm">用光子替代电子</a>，<a href="http://www.stdaily.com/stdaily/content/2012-02/27/content_432865.htm">制造出</a>首个由光子电路元件组成的“超电子”电路。<a href="http://www.nature.com/nmat/journal/v11/n3/full/nmat3230.html">报告</a>发表在《自然材料学》杂志上。<i>
+“超电子”中的“超”指的是超材料——研究人员在最新实验中利用亚硝酸硅制造出梳状的长方形纳米棒阵列，这种新型纳米棒的横截面和其间的孔隙形成的图案能复制电阻器、感应器和电容器这三个最基本电路元件的功能，只不过其操纵的是光波。 在实验中，他们用一个光子信号（其波长位于中红外线范围内）照射该纳米棒，并在波通过时用光谱设备进行测量。他们使用不同宽度和高度组合的纳米棒重复该实验后证明，不同大小的光电阻器、感应器和电容器都可以改变光“电流”和光“电压”。</i>

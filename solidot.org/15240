@@ -1,0 +1,83 @@
+➜惠普任命惠特曼为临时CEO
+https://www.solidot.org/story?sid=26130	2880
+昨天刚刚<a href="__SLASHLINK__" sect="it" sid="11/09/22/0043244" sn="article" tid="42">传出消息</a>，今天就已经应验了。惠普公司宣布解除CEO李艾科（Leo Apotheker）的职务，<a href="http://www.reuters.com/article/2011/09/23/us-hp-idUSTRE78K40I20110923">任命</a>eBay前CEO惠特曼（Meg Whitman）为临时CEO。惠普董事会主席Ray Lane宣称，一度运转不良的董事会已经成为了过去时，现在的董事会不是开除前CEO赫德（Mark Hurd）的董事会。惠特曼表示，在年底前他们会作出是否分拆PC部门的决定，以及完成英国软件开发商Autonomy的收购。
+➜CERN物理学家声称中微子速度超越光速
+https://www.solidot.org/story?sid=26131	4800
+<a href="https://plus.google.com/108368635578307419309/">+Dante Jiang</a> 写道 "爱因斯坦 1905 年提出的狭义相对论指出，宇宙中任何东西都不可能超越真空中的光速。但是 CERN（欧洲核子研究中心）日内瓦实验室的研究者<a href="http://www.telegraph.co.uk/science/science-news/8783011/Speed-of-light-broken-by-scientists.html">宣称</a>他们记录下了中微子突破了299792千米/秒 的界限。"<i>
+实验原理很简单：位于意大利的粒子探测器<a href="http://operaweb.lngs.infn.it/?lang=en">Oscillation Project with Emulsion-tRacking Apparatus(OPERA)</a>记录瑞士日内瓦CERN发射出的中微子。中微子与其它物质几乎不发生任何交互作用，从CERN到OPERA距离730公里，如果中微子是以光速飞行，那么整个过程将耗时约2.43毫秒（730/299792）。过去三年，OPERA记录了大约16,000个中微子的飞行时间。实验结果显示，中微子的平均速度比预期的快了60纳秒。科学家声称他们测量仪器的误差是正负10纳秒。如果实验得到确认的话，这将是过去半个世纪以来最重要的物理学发现之一。科学家多对此都持怀疑态度，<a href="http://news.sciencemag.org/sciencenow/2011/09/neutrinos-travel-faster-than-lig.html?ref=hp">认为可能是系统误差导致的</a>，因为计时依靠的是GPS。</i>
+➜Github 用户数突破一百万
+https://www.solidot.org/story?sid=26132	5700
+<a href="http://bbs.51osos.com/">51开源社区</a> 写道<i> "Gibhub用户数已突破一百万，Github官方博客<a href="https://github.com/blog/936-one-million">发布了庆祝图片</a>。目前已有1,004,771用户，在Github托管了超过2,836,210 个git库。Git是一个分布式的版本控制系统，最初由Linus Torvalds编写，用作Linux内核代码的管理。推出后，Git在其它项目中也取得了很大成功，尤其是在Ruby社区中。GitHub基于Rails开发，提供一个Web界面，可以托管各种git库。"</i>
+➜《环球时报》抨击“骆家辉热”
+https://www.solidot.org/story?sid=26133	7200
+中国官方媒体《环球时报》发表社评《<a href="http://opinion.huanqiu.com/roll/2011-09/2025092.html">希望骆家辉好好做“驻华大使”</a>》，<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/09/110922_china_locke.shtml">批评“骆家辉热”</a>。<i>
+社评批评中国一些媒体和网民对美国新任驻北京大使骆家辉的关注和追捧，表示骆家辉不应以“巧妙手法”干预中国舆论，希望他“做好美国驻华大使”。骆家辉到北京出任美国大使后，用优惠券买星巴克咖啡，背双肩包，乘飞机座经济舱，引起中国网民和媒体热议，把他作为官员廉洁的榜样。社论批评媒体把骆家辉每一个行为都包装成美国官员的廉洁并将此树立成中国官员行为的镜子，称出于无知，一些记者把他们所见到的东西“罗曼蒂克化”。社评提醒骆家辉，当美国大使成为中国舆论的政治明星时，应做一些”去明星化“的努力，在外交上才是恰当的。</i>
+➜开源网络访问控制系统PacketFence 3.0版发布
+https://www.solidot.org/story?sid=26134	8880
+开源网络访问控制系统<a href="http://packetfence.org/">PacketFence</a>发布了<a href="https://lwn.net/Articles/460062/">3.0版</a>（<a href="http://www.packetfence.org/tour/screenshots.html">屏幕截图</a>）。<i>
+主要新特性包括：重新设计强制网络门户(captive portal)，更具弹性的客户端处理（临时密码、自注册、预注册，扩展API），引入in-line 支持，用RADIUS记账跟踪节点网络带宽使用，Web管理界面可直接浏览日志，支持RedHat Enterprise Linux 6/CentOS 6，支持Snort 2.9.x，等等。</i>
+➜Mozilla考虑Firefox长期支持版本
+https://www.solidot.org/story?sid=26135	10560
+Mozilla正在考虑发布Firefox的<a href="https://lwn.net/Articles/459973/">一个长期支持版本</a>。<i>
+Mozilla的Kev Needham称，自从采用快速发布模式之后，Mozilla对部分机构在受管理环境中部署Mozilla产品所面临的挑战心知肚明。发布节奏越快，企业和机构验证和使用新版本的时间间隔越短。缺少维护的旧版本会将让企业暴露在安全风险中。他表示Mozilla正与机构合作提供力所能及的帮助。目前的一个方案是为 Mozilla Firefox和Thunderbird创建一个<a href="https://wiki.mozilla.org/Enterprise/Firefox/ExtendedSupport:Proposal">扩展支持版本</a>（ESRs），该版本将提供42周的支持时间，以及12周的后续ESRs版本过渡支持时间。Mozilla计划把Firefox 8作为首个ESR版本，Firefox 13为第二个ESR，Firefox 18为第三个ESR，Mozilla将为每个长期支持版本提供为期一年的安全更新。
+</i>
+➜智能电表将能发现你正在看什么
+https://www.solidot.org/story?sid=26136	12960
+Münster应用科学大学的研究人员<a href="http://www.daprim.de/?p=100">发现</a>，根据智能电表记录的用电量数据是可能判断出<a href="http://www.h-online.com/security/news/item/Smart-meters-reveal-TV-viewing-habits-1346385.html">用户正在观看哪个电视节目</a>。从理论上说，通过分析用电模式，也可能识别出DVD上正在放的是哪部电影。<i>
+进行此类模式识别分析的关键是电影中大量的明暗变化、大数据量和没有多少其它用电设备的干扰。研究人员测试了EasyMeter智能电表，电表将用电数据每2秒发送到服务器。这些用电量信息可以被提取出来，分析用户可能观看的电视节目。
+</i>
+➜新浪关闭“鉴表”微博
+https://www.solidot.org/story?sid=26137	17760
+《金融时报》<a href="http://www.ftchinese.com/story/001040835">报导</a>，新浪关闭了一位钟表爱好者微博，同时将其微博帐号列入过滤名单——即搜索出现“根据相关法律法规和政策，搜索结果未予显示”。<i>
+网名为“花果山总书记”的丹尼尔•吴(Daniel Wu)是一位“钟表控”。他开始对官员所戴手表进行鉴定完全是出于偶然：今年7月，他在一张动车追尾事故的新闻图片上注意到，铁道部部长盛光祖戴的是一块“劳力士蚝式恒动系列”手表——该款手表在中国的零售价为7万元人民币。他随后进行的搜索发现铁道部长还戴了其它名表。丹尼尔决定扩大搜索范围，以“省长”“局长”为关键词在Google图像搜索中搜索<a href="http://news.manylaw.com/article/2011-09-16/ip2wpql3.html">其他官员佩戴手表的图片</a>，并将这些手表与相应品牌的官方产品目录进行比照。丹尼尔表示，他尽可能使用高分辨率的图片，避免错把山寨货当成了价值不菲的真表。即便如此，在多数情况下他仍使用了“似乎佩戴着……”这样的词语。9月18日，新浪<a href="http://nf.nfdaily.cn/ynxx/content/2011-09/21/content_30222553.htm">删除了</a>他的微博。</i>
+➜报道性奴案记者被指“侵犯国家机密
+https://www.solidot.org/story?sid=26138	19080
+Magicloud 写道<i> "河南洛阳市质量技术监督局稽查大队职工李浩被发现开挖地窖，并将从当地夜总会等地诱骗的6名坐台女囚禁，长期进行性侵。9月22日上午，率先报道此案的记者纪许光在<a href="http://t.qq.com/ndjixg/">微博上</a>(<a href="http://i.imgur.com/IbFji.png">截图</a>)称，两名自称洛阳市委的男子找到他，追查性奴案的信息来源，并质问<a href="http://www.fawan.com/Article/gn/sh/2011/09/23/130140130956.html">其侵犯“国家”机密</a>。"</i>
+➜雌性滥交的好处
+https://www.solidot.org/story?sid=26139	20520
+生物学家一直好奇于为什么有些雌性动物会和很多异性交往。雄性滥交于情于理都说的通，因为他可以借此创造尽可能多的后代；而对雌性来说，滥交则可能让她缩短寿命，不可能增加基因扩散的机会。根据发表在《科学》杂志上的<a href="http://www.sciencemag.org/content/333/6050/1739.abstract">新论文</a>，研究人员发现<a href="http://news.sciencemag.org/sciencenow/2011/09/the-benefits-of-being-promiscuou.html">雌性滥交是有好处的</a>，因为通过多次交配，雌性可以消除近亲繁殖的缺陷。<i>
+英国东英格利亚大学进化生物学家Matthew Gage和同事研究了小昆虫赤拟谷盗（red flour beetle）。他们发现，不论和一个或是五个雄性交配，非近交种群中的雌性都能获得类似的生殖成功。在近交种群中，只和一个雄性交配的雌性所能生育的后代的存活率减少了一半；同五个雄性交配的雌性却能将她们的生殖成功率与同非近交种群的水平保持一致。研究人员做了进一步调查，以确认这是否同雄性的不育有关，但是发现近交种群的雄性具有和非近交种群的雄性同样的生育能力。研究人员认为这样的结果源于雄性和雌性之间的基因不相容，这种现象在一个近交种群更为普遍。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-09/aaft-fpc091911.php">研究结果显示</a>，雌性具备这样的生理机制，可以允许她们选择基因更相容的精子来生育更易生存的下一代。
+</i>
+➜新浪股价暴跌可能是微博谣言
+https://www.solidot.org/story?sid=26140	21840
+bonnae1982 写道 "美东时间9月20日，<a href="http://www.google.com/finance?chdnp=1&amp;chdd=1&amp;chds=1&amp;chdv=1&amp;chvs=maximized&amp;chdeh=0&amp;chfdeh=0&amp;chdet=1316548800000&amp;chddm=1173&amp;chls=IntervalBasedLine&amp;cmptdms=0;0;0;0;0&amp;q=NASDAQ:SINA&amp;&amp;fct=big">新浪股票</a>在一天内<a href="__SLASHLINK__" sect="internet" sid="11/09/21/0230209" sn="article" tid="54">暴跌</a>15.17%（今天也跌了9.11%），据台湾<a href="http://www.cdnews.com.tw/cdnews_site/docDetail.jsp?coluid=144&amp;docid=101669539">中央日报</a>报道，导致新浪股票出现急跌的原因其实是因为一则微博谣言。9月21日凌晨，微博出现了一条消息：「据路透社宋扬透露，中国微博将发四张拍照，其中包括两个政府微博：人民、新华和2个商用微博，要求必须实名制，传新浪不在此列。」这则新闻很快就被多家网路媒体转载(<a href="http://big5.ifeng.com/gate/big5/tech.ifeng.com/internet/detail_2011_09/21/9353537_0.shtml">凤凰网</a>报道
+(<a href="http://webcache.googleusercontent.com/search?q=cache:ungE0CxSH_4J:big5.ifeng.com/gate/big5/tech.ifeng.com/internet/detail_2011_09/21/9353537_0.shtml+%E6%8D%AE%E8%B7%AF%E9%80%8F%E7%A4%BE%E5%AE%8B%E6%89%AC%E9%80%8F%E9%9C%B2&amp;cd=9&amp;hl=zh-TW&amp;ct=clnk&amp;gl=tw">Google快照</a>)，<a href="http://www.yicai.com/news/2011/09/1099806.html">一财网</a>转载)，大陆网民也纷纷发表议论，对新浪未获当局发牌营运微博，大感费解。虽然多个网上媒体都强调消息只属微博传闻，真假未知，但很快就传到当时正在开市的纽约股票交易所，结果新浪的股价在美国时间星期二插水急泻，最低跌 至90.8美元，跌幅接近17%，收市时虽然稍告回升，但全日仍然跌了15.17%，在一夜之间，蒸发了10.25 亿美元。新浪对这个事态的处理却是相当低调，公司在21日上午8点半在其官方微博「微博辟谣」简短的<a href="http://weibo.com/1866405545/xpaj3oeWK">指出</a>：「昨晚有部分微博用户称国内一共发放四个微博牌照，新浪未获得微博运营牌照。此说法纯属谣言，新浪微博感谢大家的关心。」           据了解，新浪首席执行官曹国伟日前才公开表示，新浪目前正在开发相关系统，目的在于简化内容管控，甚至可能会借鉴电子商务网站由买家给卖家评分的做法，以降低微博这个极具人气的社交媒体工具对社会稳定构成的风险。中国人民大学舆论研究所所长喻国明教授则<a href="http://www.voanews.com/chinese/news/20110919-CHINA-MICROBLOGGING-SITE-TO-TIGHTEN-CONTROLS-130139513.html">表示</a>，政府如何管理微博，目前仍在搜集信息的阶段。一些拟议中的严加控制微博的方法包括，上传消息延迟一天发表，以便管理人员在微博发表之前有足够的时间监控信息，以及要求微博登记实名制等。"
+➜物理学家设计磁场隐身衣
+https://www.solidot.org/story?sid=26141	23400
+物理学家和工程师已经演示了能在光、声波和水波中隐藏物体的隐身衣。现在，<a href="http://news.sciencemag.org/sciencenow/2011/09/physicists-devise-perfect-magnet.html">他们设计出抗磁场的隐身衣</a>，能在不干扰磁场的情况下在恒磁场中隐藏物体。研究人员认为，磁场隐身衣可以应用于医学领域。<i>
+西班牙自治大学Alvaro Sanchez和同事设计了超导体“隐身衣”，利用了超导体特殊的磁感属性。超导体具有零电阻和抗磁性属性，电流传输不会有任何抗阻。如果超导体遭遇了外部磁场，那么其中流动的电流能产生一个磁场去抵消施加场，但总的磁场不会有任何变化。然而，如果外部施加场太强的话，超导体会失去磁抵抗属性。
+</i>
+➜阿尔卡特朗讯将铜缆宽带速度提升至100Mbps
+https://www.solidot.org/story?sid=26142	25200
+通信巨头阿尔卡特-朗讯公司<a href="http://www.ispreview.co.uk/story/2011/09/22/alcatel-lucent-boost-superfast-fttc-broadband-to-100mbps-via-vdsl2-vectoring.html">宣布</a>，它的VDSL2 Vectoring技术将光纤到路边（FTTC）宽带服务的最大下载速度提高至100Mbps以上。<i>
+FTTC是将光纤连接到街道上，然后再利用现有的铜双绞线向居民提供宽带接入服务，类似ADSL，但短距离网速更快。目前FTTC的最大下载速度在25Mbps到40Mbps之间，新的VDSL2 Vectoring技术利用耳机采用“噪音消除”方法，消除背景噪声/干扰，使性能提高25%到100%。</i>
+➜Red Hat将成为第一家营收超10亿美元的开源供应商
+https://www.solidot.org/story?sid=26143	26700
+Red Hat公布了<a href="http://finance.yahoo.com/news/Red-Hat-Reports-Second-bw-474607315.html?x=0&amp;.v=1">2012年财年第二财季的财政报告</a>，该季度的总营收为2.813亿美元，同比增长28%；订购营收2.383亿美元，同比增长28%，净收入4000万美元，去年同期是2370万美元。Red Hat CEO和主席Jim Whitehurst表示，根据上半年的强劲表现，他们相信到2012财年结束，Red Hat将成为第一家<a href="http://linux.slashdot.org/story/11/09/22/0315254/first-billion-dollar-open-source-software-vendor">营收超10亿美元</a>的开源供应商。
+➜科学家将脑波转换为图像
+https://www.solidot.org/story?sid=26144	29520
+kraft 写道 "加州大学伯克利分校的研究人员找到了方法<a href="http://abcnews.go.com/Health/MindMoodNews/scientists-youtube-videos-mind/story?id=14573442">将脑波转换为图像</a>。"<i>
+Gallant Lab的研究人员<a href="http://sites.google.com/site/gallantlabucb/publications">利用观看者的脑电波活动重组出视频</a>。心理学教授Jack Gallant让同事在功能性核磁共振成像机器（fMRI）中观看YouTube视频数小时，然后利用脑电波图像数据，开发出能匹配脑波模式和视频特征——如颜色、形状和运动——的计算机模型。根据模型和取样视频，研究人员开发出一个贝叶斯解码器，去重组所观看的视频。
+</i>
+➜村民报警被扣"和谐奖"奖金
+https://www.solidot.org/story?sid=26145	31680
+Magicloud 写道 "中广网北京9月23日消息 据中国之声《央广新闻》<a href="http://finance.ifeng.com/roll/20110923/4669785.shtml">报道</a>，北京顺义区一位村民最近遭遇了一件让人想不通的事情，因为家中被盗报警，村里竟然怪他没看好门，扣除了他当月的“和谐奖”奖金。这件事情引来了网友的围观。顺义区后沙峪镇宣传部工作人员称，扣除“和谐奖”并非强压村民报警，而是一种激励村民提高防范的措施。由于该村流动人口多，治安环境较复杂，经常出现偷抢等案件。为了加强管理，村委会实施了这个办法。据称，一年来，村民报案的数量大大下降。在设立“和谐奖”之前平均每月有50起左右的报警，设立之后每月报警数不足10起。"
+➜澳大利亚土著人是人类历史上第一批迁徙者
+https://www.solidot.org/story?sid=26146	31800
+根据发表在最新一期《科学》上的<a href="https://www.sciencemag.org/content/early/2011/09/21/science.1211177.abstract?sid=c29092b3-b1da-4cf9-b923-8357073405c5">研究报告</a>，中国和丹麦的科学家测序了澳大利亚土著的基因组，并进行人类种群分析，发现他们的祖先最早是在6、7万年前迁移出非洲，是非洲以外的最古老连续种群之一。<i>
+<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-09/bgi-aat092211.php">基因组分析结果表明</a>，澳大利亚土著人祖先是在6.2-7.5万年前走出非洲迁徙到东亚地区，然后越过大洋到达澳洲；而现代亚洲人祖先则是在2.5-3.8万年前与欧洲人祖先分离之后迁徙到亚洲。澳大利亚土著人祖先的东迁要明显早于古欧亚人的迁徙，其遗留种群与后来东迁亚洲人祖先群体发生过基因交流。这项研究证明了人类迁徙史上的多次扩散理论。</i>
+➜Tron光轮摩托变成真摩托
+https://www.solidot.org/story?sid=26147	35280
+在电影《<a href="http://zh.wikipedia.org/wiki/%E5%89%B5%EF%BC%9A%E5%85%89%E9%80%9F%E6%88%B0%E8%A8%98">创战纪（Tron）</a>》中，身处虚拟世界的主角驾驶着光轮摩托载具与对手决战。现在，制造定制汽车和摩托车的<a href="http://www.parkerbrotherschoppers.com/">Parker Brothers Choppers</a>公布了他们的<a href="http://idle.slashdot.org/story/11/09/22/144244/electric-tron-lightcycle-hits-the-streets">全电动光轮摩托</a>（<a href="http://youtu.be/irkxIpNBJJU">视频</a>），售价3.5万美元，速度可以达到每小时100英里，充电35分钟，使用96V电动马达和锂离子电池，全身流光溢彩，在夜晚可以清晰看到摩托车周身的白光带，与电影一般无二。
+➜出版商为错误的地图道歉，承诺修正
+https://www.solidot.org/story?sid=26148	36900
+科学家发现泰晤士世界地图（Times Atlas）的最新版世界地图<a href="__SLASHLINK__" sect="science" sid="11/09/20/1048206" sn="article" tid="67">夸大了格陵兰岛冰川融化速度</a>，新地图显示由于全球变暖格陵兰岛有15%的冰层消失，是实际发生的150倍。周二，出版商哈伯柯林斯就错误公开道歉，承认没有咨询科学家；但没有声明是否会修正错误地图。剑桥大学考特极地研究院(SPRI)的研究人员继续督促该公司重新发行正确的地图。周四，哈伯柯林斯发表<a href="http://www.harpercollins.co.uk/News_and_Events/News/Pages/Clarification-on-The-Times-Comprehensive-Atlas-of-the-World-13th-edition.aspx">声明</a>，承诺将与科学界合作制作反应最新数据的格陵兰岛地图。
+➜太空探险可能会损害视力
+https://www.solidot.org/story?sid=26149	39000
+一项新的发现暗示，如果宇航员飞往火星，<a href="http://news.discovery.com/space/astronaut-vision-110922.html">他们到那里时可能已经变成了盲人</a>。<i>
+新研究发现，辐射和骨质疏松不是宇航员面临的唯一健康风险，三分之一的美国国际空间站宇航员返回地面后发现视力下降，其中至少一位的视力下降是永久性的。2005年，一位宇航员公开透露了他的病情，促使NASA进行调查，结果发现35%的前宇航员——他们通常在轨道上服役了半年时间——经历过视力问题。视力下降在短期内不会引起失明，但执行长期太空任务如飞往火星的宇航员的视力将令人担忧。视力下降可能是视觉神经突起引起的，情况类似于一种名叫假性脑瘤的疾病。
+</i>
+➜阿姆斯特朗称NASA陷入了“尴尬处境”
+https://www.solidot.org/story?sid=26150	41100
+第一位踏上月球的宇航员阿姆斯特朗（Neil Armstrong）周四对议员说，结束航天飞机时代让美国的载入航天计划<a href="http://news.discovery.com/space/armstrong-congress-nasa-embarrassing-110922.html">陷入了“尴尬处境”</a>。<i>
+阿姆斯特朗对众议院科学、空间和技术委员会说，在未来无法预测长短的时期内，将没有美国人能访问和返回低地球轨道和空间站。他说，美国投入了无数资金和漫长时间才在太空探索中占据领先地位，现在这局面是“可悲的尴尬和不可接受的”。</i>

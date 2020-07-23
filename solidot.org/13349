@@ -1,0 +1,26 @@
+➜Firefox 2, Opera 9和IE 7
+https://www.solidot.org/story?sid=504	6960
+<a href="mailto:rui@anquan11.cn">Rui</a> 写道 "<a href="http://www.extremetech.com/">ExtremeTech</a> 发布了一篇大家期待看到的文章，题为：<a href="http://www.extremetech.com/article2/0,1697,1990858,00.asp">"哪个新浏览器是最好的: Firefox 2, Internet Explorer 7, or Opera 9?"</a>。当然，其中的两个目前还处在BETA阶段，所以ExtremeTech 对他们进行了比较详尽的分析。文章中还列举了非常多的测试结果，其中包括每个浏览器对于单页面和多页面时候的内存占用量。（在开单页面时，IE 第一！多页面时Opera 第一！）还有他们的启动时间比较。（Opera第一，Firefox最后一名，而且差距还比较的大，这个好像也是老问题了。）还有对他们也进行了<a href="http://www.webstandards.org/action/acid2/guide/">ACID2</a>浏览器标准测试，结果还是OPERA第一。不过ExtremeTech给了三款浏览器都非常高的分数，但没有说明谁是最终的胜利者，毕竟三款中的两款还都是测试版。不过网站指出，Firefox在安全性和扩展性方面得的分数最多，Opera在其多页面开启的运行方面还有其对未来网络标准的支持性上做的最好，而IE的变化最大，可以说是质的变化，但是还有很长的路要走，特别是在网络标准的支持上。"
+➜迪斯尼即将支持“蓝光”
+https://www.solidot.org/story?sid=505	9960
+<a href="http://www.pkblogs.com/zhcn/">afa</a> 写道 "根据technewsworld.com<a href="http://www.technewsworld.com/story/9GadCP0txIUjSI/Disney-to-Support-Blu-ray-Format.xhtml">
+报道</a>，包括<a href="http://disney.go.com/">迪斯尼</a>的“恐龙”和“零下八度”在内的九部影片将在九月份发布蓝光碟片。与这两部影片同时发布的还有两部短片，是根据影片内容创作的高清晰度的衍生作品，称为“Blu-Scape”。这两部影片由曾指导“美利坚灵魂”(2004)的Louie Schwartzberg拍摄。Miramax Films的《Jay and Silent Bob Strike Back》和《The Great Raid》的“蓝光”碟片也将于同期发布。"
+➜Linux kernel 2.6.17.4有重大漏洞
+https://www.solidot.org/story?sid=506	20100
+<a href="mailto:thomas@nowboy.com">thomas</a> 写道 "seclists.org网站上公布了一个危险的漏洞，他存在于kernel 2.6.17.4中。普通用户可以在读入大文件的时候获得root权限。<a href="http://seclists.org/lists/fulldisclosure/2006/Jul/0312.html">这是原文以及原理</a>，并附带有测试代码。看上去，似乎让mmap填充读入的大文件时，让系统的速度放慢，从而有时间截获系统对于/proc/self/environ设setuid bit，获得root权限。"
+➜Google Earth上的加勒比海盗
+https://www.solidot.org/story?sid=507	26160
+<a href="mailto:a.hf9912@gamil.com">matrix</a> 写道 "Google曾经为《达芬达密码》推出了一个解密游戏。现在面对创造票房奇迹的<a href="http://www.discoverpirateisland.com/">加勒比海盗</a>，Google则与迪士尼合作在Google Earth上面增加了一个新岛屿－加勒比海盗岛,可以看到著名的骷髅头。可在此下载kmz文件<a href="http://www.discoverpirateisland.com/pirates.kmz">PC版</a>,<a href="http://www.discoverpirateisland.com/pirates_mac.kmz">Mac版</a>。"
+➜互联网10大商业创意
+https://www.solidot.org/story?sid=508	67980
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "<a href="http://anonymouse.org/cgi-bin/anon-www.cgi/http://weirdtechnewshub.blogspot.com/2006/07/top-10-dumbest-online-business-ideas.html">在很常时间内它们都会不断被提起</a>！也许很快将成为经济学教材的案例！<br>
+1.<a href="http://milliondollarhomepage.com/">百万美元主页</a> <br>
+2.<a href="http://santamail.org/">SantaMail</a> <br>
+3.<a href="http://doggles.com/">Doggles</a> <br>
+4.<a href="http://lasermonks.com/">LaserMonks</a> <br>
+5.<a href="http://antennaballs.com/">AntennaBalls</a> <br>
+6.<a href="http://fitdeck.com/">FitDeck</a> <br>
+7.<a href="http://positivesdating.com/">PositivesDating.Com</a> <br>
+8.<a href="http://www.diapeesandwipees.com/">Designer Diaper Bags</a> <br>
+9.<a href="http://www.trugamerz.com/">TruGamerz</a> <br>
+10.<a href="http://www.luckybreakwishbone.com/">Lucky Wishbone Co.</a>"

@@ -1,0 +1,52 @@
+➜Linux Kernel 4.9发布
+https://www.solidot.org/story?sid=50691	11161
+Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2016/12/11/102" target="_blank"><u>宣布</u></a>正式释出 Linux Kernel 4.9，4.10合并窗口开启。为期两周的合并窗口预计将在圣诞节这天关闭，Linus表示因为假期的原因他考虑缩短或延长合并窗口，最有可能的做法是缩短而不是延长，以便于开发者们能度过一个平静的圣诞假期。Linux Kernel 4.9的主要特性包括：<a href="http://lwn.net/Articles/692953/" target="_blank"><u>虚拟映射内核栈分配</u></a>，英特尔的粗粒度保护机制<a href="https://lwn.net/Articles/689395/" target="_blank"><u>pkeys系统调用</u></a>，<a href="https://lwn.net/Articles/701165/" target="_blank"><u>BBR拥堵控制算法</u></a>，支持模块化智能手机的<a href="https://lwn.net/Articles/648400/" target="_blank"><u>Greybus</u></a>子系统，大量的文件系统改进，驱动更新如改进 AMD Radeon GPU支持，bug修正，等等。4.9包含了16,216个非合并变更集，是内核项目历史上<a href="https://lwn.net/SubscriberLink/708266/504746f1cb336704/" target="_blank"><u>最忙碌的开发周期</u></a>，AMD贡献了最多的行变更，最活跃的开发者中就有开发AMD PowerPlay驱动的Rex Zhu。
+➜日本入间市用条形码标记老年痴呆症患者
+https://www.solidot.org/story?sid=50692	13344
+日本入间市引入了可扫描的粘性条形码为容易迷路的年长痴呆症患者的指甲<a href="http://www.japantimes.co.jp/news/2016/12/09/national/japanese-city-tags-elderly-dementia-sufferers-barcodes#.WE16i-YrL0M" target="_blank"><u>打上标记</u></a>，帮助他们的家人找到
+走失的亲人。指甲粘性条形码密封件是作为免费服务的一部分于上个月首次在日本推出，其大小为1厘米。在这之前，日本为老年痴呆症患者提供了衣服或鞋子的身份ID贴纸，但他们并不是总会穿戴嵌有贴纸的衣服，为指甲提供条形码比其它身份证明方法更方便。日本正努力应对快速老龄化的人口，到2060年其人口的40%将是老年人。
+➜新疆加强网络管控
+https://www.solidot.org/story?sid=50693	13663
+新疆地区政府<a href="http://cn.nytimes.com/china/20161212/xinjiang-china-uighur-internet-controls/" target="_blank"><u>开始施行严格的网络管控条例</u></a>，2009年的暴乱曾使得新疆与外界的互联网联络被切断。官媒《新疆日报》表示，新条例的目的是“防范和惩治虚假信息扰乱社会秩序的违法犯罪行为，保护公民、法人和其他组织的合法权益”。新条例为“虚假信息”界定了11个具体标准，其中包括“宣扬宗教狂热、破坏宗教和谐的”，“宣扬恐怖主义、极端主义的”，以及“宣扬民族仇恨、民族歧视的”。条例要求互联网服务提供者必须进行备案登记，要求网络用户必须提供其真实的身份信息，还要求服务提供者必须“健全内容审核制度”。条例说，对“虚假、有害信息”未进行审查和删除的网站与公司将予以警告、处以罚款甚至关停。如果“情节严重”，可处以公司最高五十万元的罚款，处以公司行政人员或工作人员等个人最高十万元的罚款。
+➜Google全球缓存将进入古巴
+https://www.solidot.org/story?sid=50694	18681
+古巴的网速缓慢网费昂贵，古巴网民访问境外的服务器需要<a href="http://www.solidot.org/story?sid=46003" target="_blank"><u>经过一系列复杂的通信路径</u></a>。家庭网络接入在古巴仍然是非法的，迫使古巴用户利用公共WiFi热点<a href="http://www.solidot.org/story?sid=49390" target="_blank"><u>共享信息</u></a>。现在，搜索巨人和古巴政府达成协议，<a href="http://bigstory.ap.org/article/477587058c4e4cde82d0a4a19be844c0/sources-cuba-google-strike-deal-hike-internet-speed" target="_blank"><u>将Google全球缓存带到古巴</u></a>，让古巴人能更快的访问Google的内容。匿名消息人士称，Google母公司Alphabet的执行主席Eric Schmidt预计将于周一在哈瓦那签署正式协议。Google全球缓存储存了Google服务如Gmail、Google Drive和YouTube 的内容。
+➜在中国，获取一个人的隐私数据极其简单
+https://www.solidot.org/story?sid=50695	19985
+中国正在强制性推广实名制，与实名制相伴随的一个问题是信息过度收集。政府及政府的各种机构收集了私人的各种隐私信息，创建了一个庞大的数据库。虽然有法律规定严惩信息泄漏，但缺乏监督导致这些法律基本只具有象征性的价值。身份证号码、手机号、银行卡、房产信息、车辆信息，手机定位，这些东西基本上都掌握在官方或者官方控制的机构手中，它们是如何泄漏到第三方的？信息泄露事实上已经产业化了，《南方都市报》的调查<a href="https://ipaper.oeeee.com/ipaper/A/html/2016-12/12/content_103959.htm" target="_blank"><u>发现</u></a>，只需要700元就可以获取到一个人的隐私信息，其中包括开房记录、个人名下房车资产，持有的各类证件、证书复印件，甚至即时手机定位。不改变对信息的过度收集，这一调查对现状不会产生任何影响。
+➜京东调查用户数据大规模泄漏
+https://www.solidot.org/story?sid=50697	23566
+京东表示<a href="http://companies.caixin.com/2016-12-11/101025767.html" target="_blank"><u>正在调查</u></a>超过12GB数据外泄一事，这些泄漏的数据包括了用户名、密码、邮箱、QQ号、电话号码、身份证等。京东表示这些数据来源于2013年Struts 2的安全漏洞问题。Struts是开发Web应用的Java开发框架，2013年7月曝出了一个远程执行命令的高危漏洞。Struts 2在国内被大量使用，其中包括了淘宝网站。京东表示，从泄漏数据的截图只能判断出是2013年之前注册的用户。至于流传的12GB数据包是否全部是京东的数据，以及是否只是黑色产业链打着京东旗号做交易的噱头，京东还在调查，需要取得完整的数据包之后才能做结论。
+➜美国参议院通过“反外国宣传和谣言法案”
+https://www.solidot.org/story?sid=50696	23732
+匿名读者 写道<i> "美国参议院在12月8号<a href="http://www.zerohedge.com/news/2016-12-10/senate-quietly-passes-countering-disinformation-and-propaganda-act" target="_blank">通过</a>由两党参议员共同提出的“<a href="https://en.wikipedia.org/wiki/Countering_Foreign_Propaganda_and_Disinformation_Act" target="_blank">反外国宣传和谣言法案</a>”，旨在帮助美国及其盟友对抗来自俄罗斯、中国和其他国家的谣言和宣传。该法案要求美国国务院成立一个跨部门机构协调政府各部门的反谣言工作，而且资助非政府组织、智库、公民社会组织和专家进行相关活动。谣言和假新闻被<a href="http://www.solidot.org/story?sid=50500" target="_blank">认为</a>是把特朗普推上总统宝座的一大助力，而俄罗斯是其中的<a href="http://edition.cnn.com/2016/12/02/politics/russia-fake-news-reality/" target="_blank">幕后黑手</a>。"</i>
+➜Magic Leap被指使用假的演示视频
+https://www.solidot.org/story?sid=50698	30144
+增强现实/虚拟现实创业公司 Magic Leap 过去两年通过三轮融资从 Google 和阿里巴巴等企业筹集到了14亿美元，公司估值达到了45亿美元。然而该公司除了发布<a href="https://youtu.be/kPMHcanq0xM" target="_blank"><u>演示视频</u></a>外，其产品至今神秘无比。上周 The Information 记者的<a href="https://www.theinformation.com/the-reality-behind-magic-leap" target="_blank"><u>一篇报道</u></a>打破了笼罩在该公司的神秘感，指责 Magic Leap 使用了假的演示视频，视频更多表现的是威塔工作室（Weta Workshop）的视觉特效而不是产品的特性。报道称 Magic Leap 的技术已被市场上的现有产品如微软的HoloLens超过。这篇报道引起了广泛的关注，迫使 Magic Leap <a href="http://mashable.com/2016/12/10/magic-leap-rony-abovitz-responds/#7OYH9.sKhOq8" target="_blank"><u>进入到了损害控制模式</u></a>。公司CEO通过官方博客<a href="https://www.magicleap.com/#/blog/gearing-up-for-an-exciting-year" target="_blank"><u>宣布</u></a>，承诺产品测试已经启动，敬请消费者耐心等待。也许 Magic Leap 最终决定公开产品，也许只是一个拖延的借口。
+➜NSA人才大量流失
+https://www.solidot.org/story?sid=50699	32338
+前NSA局长 Keith Alexander 将军称，NSA的人才<a href="https://yro.slashdot.org/story/16/12/10/2148243/nsas-best-are-leaving-in-big-numbers-insiders-say" target="_blank"><u>大量流失到私营部门</u></a>。这一现象是经济和社会因素综合的结果，其中社会上的负面新闻报道被认为影响了NSA雇员的士气。但最主要的因素可能是私营部门开出的薪水更高，Alexander 将军说，部分网络公司向精通数学的年轻人才开出了7位数的薪水，5倍于参谋长联席会议主席，NSA面临很大的竞争。Alexander 将军谴责新闻媒体传播了NSA的负面形象，导致人们相信他们一直被美国政府监视着。他说，真正让我感到困扰的是，NSA雇员拿着微薄的政府薪水在保护这个国家，却仿佛是在做错事。他们是按照国家的要求保护我们，他们是英雄。
+➜很多网站未能通过空格键滚动测试
+https://www.solidot.org/story?sid=50700	35387
+在你正在阅读的网页上按下空格键，它会自动滚动一个屏幕。这个技巧对于阅读内容比较长的网页非常有用。但雅虎的David Pogue<a href="https://www.yahoo.com/tech/these-18-big-websites-fail-the-space-bar-scrolling-test-212959146.html" target="_blank"><u>注意到</u></a>，很多网站现在不能正确的滚动一个屏幕，导致用户必须手动调整滚动条到上一个屏幕结束的部分。他公开了这些网站的名字，以促使程序员动手<a href="https://tech.slashdot.org/story/16/12/11/0240250/david-pogue-calls-out-18-sites-for-failing-his-space-bar-scrolling-test" target="_blank"><u>修正空格键滚动bug</u></a>。这些网站包括《华尔街日报》、《今日美国》，《纽约客》、《科学美国人》、Variety、Slate、雅虎、Tumblr、Engadget、The Verge 和 Kickstarter 等等。
+➜三星将通过OTA更新关闭Galaxy Note 7的充电
+https://www.solidot.org/story?sid=50701	36382
+三星在全球召回了Galaxy Note 7，但并不是所有Galaxy Note 7机主都将手机退还给了三星。根据三星提供的数据，设备召回率为93%。也就是说还有7%的机主拿着潜在会爆炸的设备。现在，三星决定<a href="http://arstechnica.com/gadgets/2016/12/report-samsung-planning-to-permanently-disable-us-note-7s-soon/#p3" target="_blank"><u>彻底杀死</u></a>这些具有爆炸风险的设备：它准备推送OTA更新关闭Galaxy Note 7的充电能力。用户的手机将变成砖头，他们最好将手机交换给三星。三星预计将在12月19日推送更新。
+➜uBlock Origin 发布Edge版
+https://www.solidot.org/story?sid=50702	40232
+流行的广告屏蔽扩展 uBlock Origin 发布了<a href="https://www.microsoft.com/en-us/store/p/ublock-origin/9nblggh444l4" target="_blank"><u>Edge版本</u></a>，Edge用户需要通过微软的应用商店下载该应用。uBlock Origin如今已经支持所有主流浏览器： <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">Chrome </a>/ <a href="https://addons.opera.com/en-gb/extensions/details/ublock/">Opera </a>；<a href="https://addons.mozilla.org/addon/ublock-origin/">Firefox / Firefox for Android</a>，以及Edge和Safari。其中 Edge 和 <a href="https://github.com/el1t/uBlock-Safari#ublock-originfor-safari" target="_blank"><u>Safari</u></a> 的版本都还是测试版本，<a href="https://github.com/nikrolls/uBlock-Edge/releases" target="_blank"><u>源代码</u></a>发布在 GitHub上。Edge 和 Safari 的版本不是 uBlock Origin 作者 Raymond Hill 开发的，而是由开发者移植。
+➜研究人员对民族主义的再次兴起感到困惑
+https://www.solidot.org/story?sid=50703	41449
+民族主义情绪的浪潮正在以意想不到的方式<a href="http://news.sciencenet.cn/htmlnews/2016/12/363150.shtm" target="_blank"><u>重塑西方民主国家的政治</u></a>。这使得唐纳德·特朗普在上个月的美国总统大选中获得出乎意料的胜利，并且使得英国在6月通过投票表决退出了欧盟。在欧洲，民族主义政党正日渐受到欢迎。很多经济学家将这种政治上的转变视为过去25年间全球化和技术革新的结果，因为它们消除了很多工作。政治学家则在追踪因移民以及民族、种族和性别多样性而起的文化紧张造成的影响。研究人员都在<a href="http://www.nature.com/news/researchers-baffled-by-nationalist-surge-1.21110"><u>努力理解</u></a>为何这些不同的力量结合起来驱动了难以预料的民粹主义政治的兴起。“我们不得不开始担心民主政体的稳定性。”美国哈佛大学政治学家Yascha Mounk表示，一项长期进行的世界价值观调查显示，人们开始对他们的政府越来越不满，并且更愿意支持专制的领导者。 比尔盖茨则<a href="https://www.gatesnotes.com/About-Bill-Gates/Best-Books-2016" target="_blank"><u>推荐了</u></a>一本书叫《强人领袖的神话》。<br>
+➜《Inside》和《Doom》移除Denuvo DRM
+https://www.solidot.org/story?sid=50704	43692
+Denuvo DRM 曾让中国的盗版网站站长声称未来游戏将无法破解，其工作原理是根据硬件为合法购买者的游戏创建一个唯一的key，如果游戏文件被使用不同硬件的另一位玩家分享，Denuvo 的保护将检测出硬件差异，确保游戏不会正常运行。有越来越多的游戏使用Denuvo DRM防止游戏被盗版，但过去半年，黑客找到了方法<a href="http://www.solidot.org/story?sid=49266" target="_blank"><u>破解了Denuvo</u></a>。在游戏被破解之后，游戏开发商采取了不同寻常的做法：<a href="http://arstechnica.com/gaming/2016/12/after-cracks-developers-remove-denuvo-drm-from-their-games/" target="_blank"><u>移除Denuvo DRM</u></a>。过去几周，《Inside》和《Doom》先后释出了更新移除了Denuvo DRM。这一做法被认为是对合法购买者的友好之举，因为破解之后受DRM限制的只剩下合法的游戏玩家了。《Deus Ex: Mankind Divide》、《Mirror’s Edge: Catalyst》和《 Rise of the Tomb Raider》的Denuvo DRM也都被破解，但它们尚未移除这一保护机制。
+➜为什么猿猴不能说话
+https://www.solidot.org/story?sid=50705	46157
+猿猴能发出A、E、I、O和U的元音，它们无法说话的原因被认为与声带无关，而是<a href="https://www.newscientist.com/article/2115693-monkeys-should-be-able-to-talk-just-like-us-so-why-dont-they/" target="_blank"><u>与大脑语言能力有关</u></a>。<a href="http://advances.sciencemag.org/content/2/12/e1600723" target="_blank"><u>研究报告</u></a>发表在《Science Advances》期刊上。研究人员训练 Emiliano——普林斯顿灵长类动物实验室的一只长尾猕猴——坐在一把椅子上，同时用X射线拍摄它进食、打哈欠，以及发出各种各样声音和口头攻击时的影像。研究人员的分析结果显示，猕猴很容易就能发出许多不同的声音，包括英语字母中最基本的5个元音。研究人员据此推测，如果猕猴能像人类那样思考，那么它们将能说出数千个单词，甚至完整的句子。研究人员<a href="http://news.sciencenet.cn/htmlnews/2016/12/363221.shtm" target="_blank"><u>认为</u></a>，灵长类动物的发声能力之前被人们低估了，人类语言能力的进化需要的是大脑而非声带上的变化。
+➜Chrome向中国用户推荐搜狗搜索
+https://www.solidot.org/story?sid=50706	46685
+<div align="center"><img src="http://img.solidot.org/0/43/liSnNN6BW9l6.png" height="308" width="300" align=""><br>
+</div>
+<br>
+Google的Chrome浏览器<a href="https://twitter.com/chengr28/status/808288375450976256" target="_blank"><u>被发现</u></a>向中国用户推荐使用搜狗搜索（如图所示）。今年早些时候曾有传言称Google将通过搜狗<a href="http://www.solidot.org/story?sid=48262" target="_blank"><u>进入中国</u></a>，结果却是搜狗与微软<a href="http://www.solidot.org/story?sid=48278" target="_blank"><u>合作推出</u></a>英文搜索和学术搜索。根据Statcounter的<a href="http://gs.statcounter.com/#all-search_engine-CN-monthly-201612-201612-bar" target="_blank"><u>数据</u></a>，百度市场占有率超过七成，之后是360的好搜，神马，搜狗搜索排名第四，市场占有率在3%左右，该公司虽然在努力进行宣传，但其市场份额反而呈下跌趋势。Chrome推广搜狗可能只是商业上的合作。虽然遭到屏蔽，Google在中国仍然有2%左右的市场份额。

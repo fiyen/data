@@ -1,0 +1,48 @@
+➜Google Home 呼叫警察终止家庭暴力
+https://www.solidot.org/story?sid=53025	11456
+Google 今年早些时候开始向智能语音助手 Google Home 的用户<a href="https://www.cnet.com/news/google-home-phone-call/" target="_blank"><u>提供</u></a>免费的语音呼叫服务，用户可以向 Google Home 发出指令拨打电话。本月早些时候，这项功能无意中帮助<a href="http://abcnews.go.com/US/smart-home-device-alerts-mexico-authorities-alleged-assault/story?id=48470912" target="_blank"><u>解决了</u></a>一起家庭暴力事件。Eduardo Barros 与他的女友发生了争吵，争吵升级到了身体暴力。Barros 挥舞着枪威胁要杀死女友，他问她"Did you call the sheriffs?" 一直在监听语音命令的 Google Home 将这句话当成命令拨打了 911，警察随后到达现场安全带出了受到威胁的女子及其女儿，这位女子受了些伤但没有严重到需要去医院，女儿则没有受到伤害。警方派出的 SWAT 小队与 Barros 进行了一个小时的对峙，最终逮捕和拘留了 Barros。警方称赞智能语音助手拯救了生命。
+➜中国军方开始向民企采购装备
+https://www.solidot.org/story?sid=53026	13325
+中国军方正越来越多地招募规模较小的私营部门初创企业<a href="http://www.ftchinese.com/story/001073340" target="_blank"><u>打造下一代高科技武器</u></a>。军工采购曾经是几家神神秘秘的中国国有企业集团的专属，但这个利润丰厚的领域正逐渐向更灵巧、更便宜和更具创新精神的私营部门初创企业开放。尽管在军工采购中大规模包括私营部门的过程在 2013 年就已开始，但解放军只是在最近才向初创企业购买无人机和人工智能等敏感的下一代技术。一些私营公司表示，他们被允许竞争军工合同在一定程度上是降低硬件成本的努力：私营集团生产装备的成本只有国营同行的一个零头。“我们的多数客户是中国军方，”海康威视的一位营销经理表示。“在世界视频监控公司中，中国的视频监控公司跻身于业内最强之列。”
+➜Grsecurity 被指违反了 GPL 许可证
+https://www.solidot.org/story?sid=53027	15852
+开源促进会的联合创始人 Bruce Perens（另一位是 ESR）谈论了内核加固补丁集项目 Grsecurity，<a href="https://linux.slashdot.org/story/17/07/09/188246/bruce-perens-warns-grsecurity-breaches-the-linux-kernels-gpl-license" target="_blank"><u>认为</u></a>该项目<a href="http://perens.com/blog/2017/06/28/warning-grsecurity-potential-contributory-infringement-risk-for-customers/" target="_blank"><u>违反了 Linux 内核采用的 GPL 许可证</u></a>。在这之前，Linux 创始人 Linus Torvalds 曾在邮件列表上<a href="http://www.solidot.org/story?sid=52873" target="_blank"><u>抨击</u></a> Grsecurity 的补丁是垃圾。他认为 Grsecurity 是 Linux 的一个衍生作品，它离不开内核，没有内核它无法工作。这意味着 Grsecurity 也必须采用 GPLv2 许可证或兼容 GPLv2 的许可证。而 Grsecurity 目前是一款商业产品，只提供给商业用户，如果商业用户再分发 Grsecurity 的补丁，他们会受到警告，面临惩罚，无法再访问 Grsecurity 的后续补丁。GPLv2 第六节禁止了此类的再分发政策和额外的条款。他建议企业应该避免使用 Grsecurity产品，因为该产品存在违反许可证和违约的风险。
+➜最流行的笔记本发行版：Ubuntu 和 Arch
+https://www.solidot.org/story?sid=53028	18205
+Phoronix <a href="https://www.phoronix.com/scan.php?page=article&amp;item=2017-laptop-survey" target="_blank"><u>发布了</u></a> 2017 年度的 Linux 笔记本电脑调查结果，显示最流行的笔记本发行版是 Ubuntu 和 Arch。在 30,171 名回应者中，有 38.9% 使用 Ubuntu，27.1% 的人使用 Arch Linux，之后是 Debian 的 15.3%，Fedora 占 14.8%，Linux Mint 第五占 10.8%，openSUSE/SUSE 占 4.2%，Gentoo 占 3.9%，CentOS/RHEL 占 3.1%, Solus 占 2%，Manjaro 占 1.6%。10.3% 的回应者最近购买的笔记本电脑预装了 Linux， 29.3% 的人的笔记本电脑是 Linux 和 Windows 双启动，4.4% 的人使用两种发行版的双启动。
+➜《冰风谷 II》源代码丢失
+https://www.solidot.org/story?sid=53029	19465
+开发了加强版 《博德之门》和《异域镇魂曲》的 Beamdog 想要开发经典角色扮演游戏《冰风谷 II》的加强版，但该项目已经暂停，原因是他们<a href="http://kotaku.com/nobody-can-find-the-source-code-for-icewind-dale-ii-1796724450" target="_blank"><u>找不到源代码</u></a>。 《冰风谷 II》由黑岛工作室开发，基于 BioWare 的 Infinity 引擎，于 2002 年发布，一年之后黑岛工作室关闭，工作室的部分成员随后成立了 Obsidian Entertainment。Beamdog 的 CEO  Trent Oster 称，他们四处寻找 《冰风谷 II》的源代码，但一无所获。没有源代码他的团队无法开发能工作在现代操作系统上的增强版。Oster 称，他们搜索了所有能访问到的存档，包括  Atari 交给 Wizards of the Coast 的所有数据，接触了Obsidian 的开发者，但没有找到任何游戏的源代码。
+➜Haiku 修复 2038 年 bug
+https://www.solidot.org/story?sid=53030	27107
+基于 BeOS 的开源操作系统 Haiku 项目修复了 2038 年 bug。 2038 年问题是指类 Unix 系统的时间表示 time_t 使用的是一个 32 位整数，从 1970 年 1 月 1 日开始计算秒数，到 2038 年 1 月 19 日 3 时 14 分 07 秒将超过 32 位长度。Haiku 开发者<a href="https://discuss.haiku-os.org/t/haiku-monthly-activity-report-06-2017/5854" target="_blank"><u>宣布</u></a>它的内核时间表示 time_t 现在在 64 位系统上开始使用 64 位整数。这一改变破坏了 ABI，所有 64 位包需要重新构建。改用&nbsp;
+64 位整数意味着一直到公元 292,277,026,596 年 12 月 4 日程序都不会出现问题，如果那时候还有程序的话。
+➜监狱官员称囚犯利用无人机丢下的工具逃脱
+https://www.solidot.org/story?sid=53031	28526
+一名被判终身监禁的囚犯从一所高度设防的监狱逃脱，监狱官员称囚犯<a href="https://arstechnica.com/tech-policy/2017/07/drone-dropped-tools-enabling-inmate-to-escape-prison-officials-say/" target="_blank"><u>利用了无人机丢下的工具</u></a>，包括剪钳和手机。该囚犯被认为是在 7 月 4 日晚上 8 点左右逃脱的，但直到第二天下午 2 点狱方才发现。7 月 7 日凌晨，这位囚犯在距离监狱 1200 英里的得州奥斯丁被捕。被捕时，他身上有四部手机、$47,654 现金，一把手枪和一把散弹枪。这不是该囚犯第一次越狱，上一次是在 2005 年，他躲着一辆垃圾车里逃脱。
+➜可更新能源将在三年内成为最廉价的能源
+https://www.solidot.org/story?sid=53032	30610
+摩根斯坦利的分析师<a href="https://qz.com/1024520/renewable-energy-is-becoming-so-cheap-the-us-will-meet-paris-commitments-even-if-trump-withdraws/" target="_blank"><u>认为</u></a>，到 2020 年可更新能源将成为最廉价的能源。分析师称，虽然特朗普声明将退出巴黎气候协定，但美国到 2020 年将提前五年达到巴黎协定设定的在 2005 年水平上降低 26-28% 碳排放的目标。分析师在报告中称，太阳能电池板的价格在 2016 年到 2017 年之间下跌了  50%。在风能发电条件有利的国家，风电相关的成本将只有燃煤或燃气火电站的一半到三分之一。澳大利亚到 2020 年可更新能源将能提供 28% 的电网电力。
+➜水下的无线通信标准  JANUS
+https://www.solidot.org/story?sid=53033	32086
+数十年来，定义 Wifi 和蜂窝网络的全球标准让用户通过空气交换数据。但这些技术在水下毫无用处，定义水下通信的全球标准在很长时间内都不存在。现在，NATO 的研究人员<a href="http://spectrum.ieee.org/video/telecom/standards/underwater-robots-learn-a-new-language-janus" target="_blank"><u>制定了首个水下通信国际标准</u></a>。新标准称为 JANUS，名字源于古罗马的门神。它为水下系统使用音频信号互相联络创建了通用的协议。声音是水下通信的常用媒介。光信号的传输率更高，但距离有限，声音信号的传输率低但覆盖面广。 JANUS 使用 11.5 kilohertz 的频率让水下系统宣告自己的存在，一旦两个系统建立通信，它们可以切换到不同的频率或协议以提高传输率或传输距离。
+➜欧盟准备对“修复权”立法
+https://www.solidot.org/story?sid=53034	34202
+欧盟准备立法要求给予客户“<a href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+REPORT+A8-2017-0214+0+DOC+XML+V0//EN" target="_blank"><u>修复权</u></a>”，要求厂商设计产品时需要考虑到更长的寿命和更容易维修。此举被认为旨在打击电子垃圾和厂商有意阻止用户修理其设备的不当行为。这项立法目前处于公开讨论的早期阶段，已有多名欧盟议会成员和非政府组织如绿色和平表达了支持。今天科技产品普通寿命都比较短，这种现象被称为<a href="http://www.solidot.org/story?sid=48807" target="_blank"><u>计划性报废</u></a>，被认为与消费主义相关联。
+➜没有电池的手机
+https://www.solidot.org/story?sid=53035	37859
+电池是个累赘，它们昂贵，需要持续充电，今天的绝大部分消费者电子设备都依赖于庞大的电池储存电力。现在，华盛顿大学的一个团队<a href="http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/building-a-batteryfree-cellphone" target="_blank"><u>研制出没有电池的手机</u></a>，它能利用附近基站发射的射频波产生电力。此外，手机还能修改和反射基站发射出的射频波，通过名为反向散射（backscattering）的技术在相同的波内植入语音呼叫。研究人员在 9.4 米距离上演示了手机从定制的基站收集电力和植入呼叫。植入或接收呼叫，整部设备仅仅消耗 2 到 3 微瓦特的电力。该设备目前只支持语音呼叫，不支持数据交换。
+➜中国特有的粉丝经济
+https://www.solidot.org/story?sid=53036	39665
+与美国的 YouTube 上的明星一样，中国的 “关键意见领袖”是一个多样化的群体，从邻家女孩到知名演员都有。他们有一点比西方的名人强：<a href="http://www.ftchinese.com/story/001073333?full=y" target="_blank"><u>他们将生活 “货币化了”</u></a>。一个从关键意见领袖的兴起中获利的完整行业已经形成，这是一个中国特有的发展。尽管西方的 YouTube 用户们也能够通过上传吃奥利奥饼干或者穿设计师衣服的视频赚钱，但中国的关键意见领袖还可以直接赚钱。除了通过广告赚钱以外，他们还可以从粉丝发送虚拟礼物和在线打赏中赚钱，此外还可以有偿代言和获得赞助。第一财经商业数据中心估计，2016 年关键意见领袖产业的经济产值达到 580 亿元人民币，超过了 2015 年的电影票房总收入。Consultancy Analysis 预计明年的收入规模将达到 1000 亿元人民币。
+➜苹果的差分隐私系统
+https://www.solidot.org/story?sid=53037	43087
+在大数据时代如何保护用户隐私？如何能既理解用户又不窥探用户？《华尔街日报》<a href="http://cn.wsj.com/gb/20170710/tec162850.asp" target="_blank"><u>介绍了</u></a>苹果去年开始测试的新技术差分隐私(differential privacy)。报道称，微软和优步等公司都在测试这项技术。
+差分隐私算法通过注入一定数量的统计噪音来模糊正在被分析的数据，比如将某个问题（你有过暴力犯罪行为吗？）的答案抽出来，换成另一个有已知统计回复率的问题（你是在2月份出生的吗？）。
+这样，试图在数据中找出关联的人就永远无法确知某人被问了哪个问题。这意味着研究人员可以分析诸如病例资料这样的敏感数据，却不能把这些数据与具体的人联系起来。
+➜中国要求运营商从 2 月起屏蔽个人 VPN 访问
+https://www.solidot.org/story?sid=53038	44651
+彭博社援引匿名消息来源<a href="https://www.bloomberg.com/news/articles/2017-07-10/china-is-said-to-order-carriers-to-bar-personal-vpns-by-february" target="_blank"><u>报道</u></a>，中国要求电信运营商从 2 月 1 日起屏蔽个人 VPN 访问，堵上防火长城的漏洞。国有电信运营商中国移动拒绝置评，中国联通、中国电信以及工信部都没有回复。工信部在今年 1 月公布了《工业和信息化部关于清理规范互联网网络接入服务市场的通知》，对 VPN 服务<a href="http://www.solidot.org/story?sid=51172" target="_blank"><u>实施了限制</u></a>，根据彭博社的报道随后电信运营商就接到命令限制个人使用绕过屏蔽的工具。过去几个月部分 VPN 服务商在压力下关闭了其服务。<br>
+➜能自毁的电路板
+https://www.solidot.org/story?sid=53039	46982
+在夜幕的掩护下，敌方特工抓住了一支精英士兵小队。特工控制了队长，切开了上臂皮肤，拉出了一个透明的包含军事指令的细电路板。但这个电路板在拉出之后迅速在他们的眼前分解了。这听起来像是科幻，但此类的技术正演变成现实。Vanderbilt 大学的研究人员在《ACS Applied Materials and Resources》期刊上发表了<a href="http://pubs.acs.org/doi/abs/10.1021/acsami.7b04748" target="_blank"><u>一项概念验证研究</u></a>，他们制造出了由导电迹线和电容器构成的简单电路板，能在高于室温的环境下工作，<a href="http://spectrum.ieee.org/the-human-os/biomedical/devices/this-circuit-board-will-selfdestruct-in-5-4-3" target="_blank"><u>但当温度低于 32°C 它会迅速分解</u></a>。其他研究人员也在研究类似的自毁技术，比如应用光或热导致其自毁。这种新的技术则是基于温度，暖和的环境能工作，但温度降下来后就自毁。

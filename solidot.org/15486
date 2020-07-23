@@ -1,0 +1,25 @@
+➜用Scheme语言写android app
+https://www.solidot.org/story?sid=29777	17400
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "Android app的火热程度不用介绍，但对于一些热衷于动态语言的黑客使用Java来开发app还是有一些别扭，作为GNU的官方项目之一的<a href="http://www.gnu.org/software/kawa/index.html">Kawa语言框架</a>提供了另外一个选择，Kawa可以把Scheme语言直接编译成Java的bytecode，这样写Android app也就可以使用Scheme语言了，通过在Scheme中直接调用android SDK的API就可以了，这对Scheme黑客而言是一大福音，<a href="http://per.bothner.com/blog/2010/AndroidHelloScheme/">这里有Hello World的例子</a>。</i>           btw：别TM以为GNU项目都是old school@_@"
+➜IBM禁止云储存服务Dropbox和iCloud
+https://www.solidot.org/story?sid=29778	39600
+IBM出于安全考虑禁止雇员使用基于云的语音服务<a href="__SLASHLINK__" sect="apple" sid="12/05/24/0240203" sn="article" tid="25">Siri</a>，<a href="http://www.technologyreview.com/business/40324/">以及云储存服务Dropbox和iCloud</a>。云服务代表着对企业IT管理的新挑战，IBM首席信息官Jeanette Horan说，雇员自行购买智能手机并不意味着公司能省钱，因为这些手机上安装了大量它无法控制的软件，许多软件可能存在安全风险。禁止Dropbox和iCloud是因为担心自动云备份软件会泄露机密信息。IBM雇员可以使用该公司自己的云储存系统MyMobileHub。
+➜微软厚Bing薄Google
+https://www.solidot.org/story?sid=29779	41760
+Google在ChillingEffects.COM网站上公开了版权持有者详细的<a href="__SLASHLINK__" sect="it" sid="12/05/25/0734231" sn="article" tid="26">链接删除请求</a>，很快有人注意到了极其具有讽刺性的现象：微软的代表要求Google删除的链接却能堂而皇之<a href="http://www.techdirt.com/articles/20120524/18190719071/odd-that-microsoft-demands-google-take-down-links-that-remain-bing.shtml">出现在</a>微软自己的搜索引擎Bing上。例如微软代表<a href="http://www.chillingeffects.org/notice.cgi?sID=348842">要求删除了</a>Xbox版DiRT 2的链接，现在在Google上搜索<a href="https://www.google.com.hk/#hl=zh-CN&amp;newwindow=1&amp;safe=strict&amp;site=&amp;source=hp&amp;q=http:%2F%2Fthepiratebay.ee%2Ftorrent%2F7169440%2FDiRT_2_%5BXBOX_360_RF%5D&amp;btnK=Google+%E6%90%9C%E7%B4%A2&amp;oq=http:%2F%2Fthepiratebay.ee%2Ftorrent%2F7169440%2FDiRT_2_%5BXBOX_360_RF%5D&amp;aq=f&amp;aqi=&amp;aql=&amp;gs_l=hp.12...0.0.0.123.0.0.0.0.0.0.0.0..0.0...0.0.uVhcrqv73qo&amp;bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&amp;fp=1&amp;biw=1138&amp;bih=529">这个链接</a>除了ChillingEffects说明外基本没有任何结果，而Bing却能搜索到<a href="http://cn.bing.com/search?q=http%3A%2F%2Fthepiratebay.ee%2Ftorrent%2F7169440%2FDiRT_2_%5BXBOX_360_RF%5D&amp;qs=n&amp;form=QBRE&amp;pq=http%3A%2F%2Fthepiratebay.ee%2Ftorrent%2F7169440%2Fdirt_2_%5Bxbox_360_rf%5D&amp;sc=0-0&amp;sp=-1&amp;sk=">大量盗版内容</a>。
+➜硬盘制造商利润大增，高价已成常态
+https://www.solidot.org/story?sid=29780	45120
+待价而沽曾被认为是购买电子产品的一大真谛，但现在证明是大错特错。如果产品接近你的期望值，还是早点下手为妙。去年第三季度一块西部数据的1T硬盘只需60美元，今天是99美元，只比因泰国洪水淹没厂房造成短缺的最高价略有下降。而与此同时，硬盘制造商们的利润却比去年同期大幅上涨，<a href="http://www.extremetech.com/computing/129874-hdd-pricewatch-higher-prices-are-the-new-normal">看起来高价正成为常态</a>。<i>
+2011年第一季度，西部数据的净利润是1.46亿美元，收入23亿美元，利润率6%；希捷的净利润是9300万美元，收入27亿美元，利润率3%。2012年第一季度，西部数据的净利润是4.83亿美元，收入30亿美元（收购了日立），利润率16%；希捷的净利润是11亿美元，收入44亿美元，净利润率25%。如此高的利润率，制造商们根本就不想降低价格。如果你想购买硬盘，就别犹豫了，因为价格不太可能降下来。</i>
+➜摄影师保护版权反遭法律起诉威胁
+https://www.solidot.org/story?sid=29781	48000
+一位摄影师为了维护版权而向众多盗用其照片的网站发出了DMCA删除通知，在这过程中他注意到了不同网站和机构对待DMCA通知的反应速度，如Facebook会在数小时内删除图片，而域名注册商GoDaddy则会在核查确认后将侵权网站下线，直到图片删除问题解决后才恢复上线。然而一位网站创建者在其网站下线后的反应十分激烈，她声称自己网站是一家为残疾儿童的非盈利网站，认为网站下线是阴谋行为，对这位摄影师进行诽谤中伤，认为他仇恨儿童，<a href="http://yro.slashdot.org/story/12/05/25/1744246/photographer-threatened-with-legal-action-after-asserting-his-copyright">威胁要采取法律行动</a>，并迫使这位摄影师将其<a href="http://www.baldheretic.com/2012/05/23/protecting-my-copyright">帖子</a>移除（<a href="http://www.freezepage.com/1337899756JULEMRWMMO">镜像</a>）。
+➜游戏和色情在毁灭一代人？
+https://www.solidot.org/story?sid=29782	51840
+因斯坦福监狱实验而闻名的心理学教授Philip Zimbardo与另一位心理学家Nikita Duncan合著了新书《<a href="http://www.amazon.com/The-Demise-Guys-Struggling-ebook/dp/B00850HTHO">The Demise of Guys: Why Boys Are Struggling and What We Can Do About It</a>》，声称视频游戏和网络色情<a href="http://games.slashdot.org/story/12/05/25/1835205/are-porn-and-video-games-ruining-a-generation">创造了一代</a>害羞、社交困难、冷漠和规避风险的年轻男性。游戏上瘾和色情上瘾不仅有着类似的特征，而且都在危害年轻男子，破坏他们与女性交流的能力，威胁整个人类种族的未来福祉。Zimbardo教授在TED上<a href="http://www.ted.com/talks/zimchallenge.html">危言耸听的说</a>，过度的视频游戏和色情让年轻男子正在失去与女性交流和性爱的能力，声称年轻男子每周观看50个色情视频，他们像僵尸一样痴迷于游戏和色情，以至于无法完成基本的人际交流，这种社交障碍类似于一位异乡人身处异国，不知道说什么，不知道做什么。
+➜美国调查中兴向伊朗出售监控设备
+https://www.solidot.org/story?sid=29783	54300
+路透社在今年三月<a href="__SLASHLINK__" sect="internet" sid="12/03/26/0347226" sn="article" tid="120">报道</a>，中兴通讯向伊朗最大电信公司TCI销售了一套能监控固话、移动电话和互联网通信的监控系统，该系统包括了许多知名美国科技公司的软硬件产品，如微软、惠普、甲骨文、思科、戴尔、IBM和赛门铁克。美国商务部官员表示正<a href="http://www.reuters.com/article/2012/05/25/us-zte-usa-investigation-idUSBRE84O0W420120525">对此展开调查</a>。卷入其中的美国科技公司对交易表示不知情。根据合同文件，一家中国外贸公司北京八星国际贸易有限公司负责提供第三方设备，一些美国科技公司已收到传票要求提供与中兴和北京八星有关的贸易信息。美国长期以来禁止向伊朗出口技术产品，中兴将可能遭到包括双倍罚款在内的惩罚，该公司发言人此前表示已决定放弃这项合同。
+➜巴菲特认为免费新闻不可维系
+https://www.solidot.org/story?sid=29784	55920
+巴菲特（Warren Buffett）的Berkshire Hathaway公司最近收购了63家的新闻报纸，并计划在未来几年收购更多媒体。他在接受采访时表示，目前的免费内容模式<a href="http://www.bloomberg.com/news/2012-05-24/buffett-says-free-news-unsustainable-may-add-more-papers.html">是不可持续的</a>，未来将会出现更多数字订阅模式。这一看法与多家报业集团的做法遥相呼应，如《纽约时报》就设立了付费墙。巴菲特指出，注重于本地新闻的新闻报纸拥有的产品是独一无二的，即使它们的订户减少，也不会影响它们的成功，因为它们提供的服务是不可替代的。

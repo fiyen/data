@@ -1,0 +1,54 @@
+➜Mozilla表态将停止信任WoSign 和StartCom签发的新证书
+https://www.solidot.org/story?sid=49821	10929
+Mozilla 公布了对<a href="http://www.solidot.org/story?sid=49623" target="_blank"><u>沃通CA不当行为</u></a>的13页<a href="https://docs.google.com/document/d/1C6BlmbeQfn4a9zydVi2UvjBGv6szuSB4sMYUcVrR8vQ/preview#" target="_blank"><u>调查报告</u></a>，正式提议将停止信任 WoSign 和 StartCom 签发的新证书，最短期限为一年，一年之后如果WoSign 和StartCom能满足条件Mozilla可以再次接纳它们。<i>调查报告称，沃通CA存在的部分问题不严重或不是它的过错，但还有部分问题极其严重，从信任角度看最严重的问题是故意倒填证书日期绕过浏览器对SHA-1证书的限制。由于SHA-1签名证书不再安全，主要浏览器开发商要求所有CA在2016年1月1日之后停止签发SHA-1证书，然而沃通CA在2016年1月1日之后仍然签发了SHA-1证书，通过故意倒填日期，将这些证书伪装成是在2016年前签发的。另一个问题是WoSign收购StartCom，即使有充足的证据证明WoSign CA 已经100%收购 StartCom CA，公司CEO王高华仍然拒绝承认，直到最后WoSign的母公司奇虎360现身才予以承认，但王高华又坚称StartCom独立运营，其原始系统没有发生改变，然而有充分的技术证据证明StartCom在被收购一个半月后，它就开始使用WoSign的基础设施签发证书。StartCom的网站StartSSL.com在2015年12月18日关闭升级系统，到12月22日重新开放时它就切换到了WoSign的系统。</i>
+➜迪士尼考虑报价Twitter
+https://www.solidot.org/story?sid=49822	12301
+迪士尼公司<a href="http://www.wsj.com/articles/disney-considers-offer-for-twitter-1474932191" target="_blank"><u>成为Twitter另一个有意的收购方</u></a>。迪士尼的股价周一闻讯下跌Twitter的股票则随之上扬。Twitter市值约200亿美元，如果迪士尼真的达成收购协议，那么这将是它在科技行业最大的一笔交易。Twitter的潜在收购方包括了Google、微软和Salesforce。目前Twitter已经与Salesforce进行了初步磋商。Twitter和迪士尼的关系密切，公司CEO  Jack Dorsey将迪士尼年长的CEO Robert Iger视为导师，他自2013年起进入了迪士尼的董事会。
+➜科学家在广东宠物店发现新螃蟹物种
+https://www.solidot.org/story?sid=49823	14183
+广州中山大学和国立中兴大学的研究人员在《ZooKeys》期刊<a href="http://zookeys.pensoft.net/articles.php?id=9964" target="_blank"><u>发表报告</u></a>称发现了一种新的螃蟹物种，而这种螃蟹<a href="http://cn.nytstyle.com/science/20160927/crabs-china-guangdong/" target="_blank"><u>是在宠物店里发现的</u></a>。在广东英德市，宠物店主领着科学家去了抓这种螃蟹的地方。研究人员在那里发现了更多数量的这种动物：体型小，只有大约一英寸宽，外表呈鲜艳的橘黄色，有引人注目的宽距眼睛，细长的腿。通过线粒体分析，研究人员发现这些螃蟹不在已知的任何属当中；于是，科学家称之为粤北溪蟹(Yuebeipotamon)。它的物种名为灰岩(calciatile)，指“生活在石灰岩上”。
+➜Windows 10将在虚拟机内运行 Edge
+https://www.solidot.org/story?sid=49824	17821
+微软宣布Windows 10的下一次重大更新<a href="http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/" target="_blank"><u>将使用一个轻量级虚拟机</u></a><u><a href="http://arstechnica.com/information-technology/2016/09/windows-10-will-soon-run-edge-in-a-virtual-machine-to-keep-you-safe/" target="_blank"><u>隔离</u></a>运行 Edge浏览器</u>。在虚拟机内运行浏览器将增加利用浏览器弱点和攻击操作系统或窃取用户数据的困难。这项特性被称为Windows Defender Application Guard for Microsoft Edge，Windows 10的 Virtualization Based Security利用小型虚拟机和Hyper-V隔离关键数据和其它系统。Edge浏览器的进程本就运行在一个安全沙盒内，限制浏览器运行恶意代码可能造成的损害，而Application Guard则在隔离应用程序上更进一步。Edge的虚拟机包含了浏览器运行所需要的Windows最小特性集，在这个虚拟机内看不到其它进程，无法访问本地储存，无法访问主机上安装的其它应用程序，最重要的是它无法攻击主机系统的内核。在短时间内Edge将是唯一能使用Application Guard的程序，微软没有向其它程序提供API或规格，这项功能目前将只提供给企业版客户。
+➜留学生因下载儿童色情被判在家监禁18个月
+https://www.solidot.org/story?sid=49825	19997
+一位地方法官被迫在庭审期间检查儿童色情图片之后抨击了司法制度。新南威尔士大学博士生<a href="https://www.researchgate.net/profile/Fangzhou_Zhou" target="_blank"><u>Fangzhou Zhou</u></a>下载了数以万计的儿童色情图像，而出于公正的原则法官必须检查这些图像。然而法官担心受到心理伤害而不想检查，但检方以法庭责任为由要求必须检查所有证据。25岁的Fangzhou Zhou在就读电机工程专业期间下载了326,519幅图片和1717个视频。Zhou最终<a href="http://www.dailymail.co.uk/news/article-3805913/You-t-make-look-porn-Female-magistrate-slams-judicial-forced-look-graphic-child-porn-images-sentencing-hearing.html" target="_blank"><u>被判了居家监禁18个月</u></a>。这起诉讼引发了Zhou的互联网使用如何被监视的担忧。
+➜WHO称90%的世界人口呼吸着污染的空气
+https://www.solidot.org/story?sid=49826	27498
+<div align="center"><img src="http://img.solidot.org/0/905/liIQeo150z6RU.png" align="" height="223" width="450"><br>
+</div>
+<br>
+世界卫生组织（WHO）称，<a href="http://www.who.int/mediacentre/news/releases/2016/air-pollution-estimates/zh/" target="_blank"><u>92%的人口</u></a>生活在空气质量水平超过世卫组织限值的地区。WHO与英国巴斯大学合作开发了<a href="http://maps.who.int/airpollution/" target="_blank"><u>空气质量模型</u></a>，所依据的数据源自卫星测量，大气输送模型以及覆盖3000多个城乡地点的地面站监测器。该模型仔细校准来自卫星和地面站的数据以最大限度提高可靠性。根据人口和空气污染水平以约为10公里x10公里的网格分辨率对国家空气污染暴露情况进行了分析。空气质量模型证实，世界92%的人口生活所在地区的空气质量水平超过《世卫组织环境空气质量指南》对直径小于2.5微米颗粒物（PM2.5）限定的年平均值。世卫组织指南对PM2.5的年平均限值为年均10微克/立方米。PM2.5包括硫酸盐、硝酸盐和黑碳等污染物，它们能深入到肺部和心血管系统，对人类健康构成极大风险。
+➜“统计显著性的证据”指示欧罗巴喷射出盐水柱
+https://www.solidot.org/story?sid=49827	29552
+NASA<a href="https://www.nasaspaceflight.com/2016/09/statistically-evidence-water-emissions-europa/" target="_blank"><u>证实</u></a>，来自哈勃天文望远镜的"统计显著性证据"表明木星卫星欧罗巴喷射出盐水柱 。这一声明提供了欧罗巴表面冰层下存在盐海洋的进一步证据。NASA计划在2020年代向欧罗巴<a href="https://en.wikipedia.org/wiki/Europa_Multiple-Flyby_Mission" target="_blank"><u>发射轨道器和着陆器</u></a>，这一发现意味着欧罗巴任务也许不需要发射登陆器从冰层钻一个数英里厚去采集样本，轨道飞行器只需要从喷射水柱的区域飞过就行了。
+➜吉利宣布赞助时速1000英里的汽车项目
+https://www.solidot.org/story?sid=49828	31101
+<div align="center"><img src="http://img.solidot.org/0/906/liVi98WAYCmzk.jpg" align="" height="300" width="450"><br>
+</div>
+<br>
+浙江吉利公司<a href="http://arstechnica.com/cars/2016/09/bloodhound-ssc-partners-with-geely-to-break-the-world-land-speed-record/" target="_blank"><u>成为</u></a>时速1000英里的汽车陆地速度记录项目<a href="http://www.bloodhoundssc.com/" target="_blank"><u>Bloodhound SSC</u></a>的主要赞助商和合作伙伴。吉利将在三年内向该项目提供经济上的和技术上的支持。Bloodhound SSC项目目标是建造和测试时速达到1000英里/1609公里的汽车，由于在资金筹集方面出现了问题，Bloodhound项目进度在2015年停滞了下来，但在得到吉利的经济资助之后，项目团队计划于2017年在南非的Hakskeen沙漠测试它的超音速汽车。
+➜美国起诉四名中国人和一家贸易公司帮助朝鲜逃避制裁
+https://www.solidot.org/story?sid=49829	33169
+美国司法部周一发表<a href="https://www.justice.gov/opa/pr/four-chinese-nationals-and-china-based-company-charged-using-front-companies-evade-us" target="_blank"><u>新闻稿</u></a>，<a href="http://cn.wsj.com/gb/20160927/bch080057.asp" target="_blank"><u>宣布起诉</u></a>四名中国人和一家丹东贸易公司帮助朝鲜逃避美国制裁。指控称，马晓红及其公司鸿祥实业发展有限公司为受到美国制裁的朝鲜公司充当财务代办，涉嫌协助平壤开发核武器和弹道导弹。马晓红及其公司和其他相关人员利用美国的银行系统为朝鲜公司隐藏了数亿美元的交易记录。马晓红及鸿祥实业代表朝鲜光鲜银行进行了美元交易，后者于2009年因资助平壤的核武器项目而受到美国制裁。<br>
+➜自主驾驶汽车的道德困境
+https://www.solidot.org/story?sid=49830	33467
+MIT的<a href="http://moralmachine.mit.edu/" target="_blank"><u>Moral Machine实验</u></a>让用户在不同情境下自主驾驶汽车失去控制时如何做出选择，比如是<a href="http://www.solidot.org/story?sid=48704" target="_blank"><u>牺牲乘客还是牺牲行人</u></a>，是牺牲动物还是牺牲孩子或老人。这个实验证明，要在无人驾驶汽车的道德上达成共识是极其困难的。类似调查显示，对大多数人而言，救下最多条命这个功利主义观念合情合理——只要他们自己不在车轮下丧生。这是自动驾驶汽车厂商面临的障碍。他们承诺通过减少人类过错来提高整体道路安全，但是谁会购买一辆由他本人并不认可的杀戮算法操控的汽车呢？更别提程序设定牺牲车上乘客的汽车了。最令人不安的正是这种“预谋”杀戮的构想。我们大多数人咬牙接受事故可能发生。即便是自动驾驶汽车，或许也应该留下<a href="http://www.ftchinese.com/story/001069503" target="_blank"><u>让某些事情“听天由命”的空间</u></a>。
+➜Android + Chrome OS = Andromeda
+https://www.solidot.org/story?sid=49831	35160
+《华尔街日报》去年援引知情人士的消息<a href="http://www.solidot.org/story?sid=45984"><u>报道</u></a>，Google正计划将桌面操作系统Chrome OS与移动操作系统Android合并。报道称，合并后的产品预计会在2017年发布。现在，<a href="http://www.androidpolice.com/2016/09/26/exclusive-google-is-planning-a-pixel-3-laptop-running-the-andromeda-os-for-release-in-q3-2017/">Android Police的报道披露了更多细节</a>，Android 和Chrome OS合并后的新操作系统及其硬件产品将在2017年第三季度发布。新操作系统被称为Andromeda，其名字既有银河系邻居仙女座的含义，又带有Android 和Chrome两个名字的混合成分。第一款使用Andromeda的产品官方代号为Bison，非官方代号是Pixel 3。Bison是一款12.3英寸的翻转本，配备了英特尔的m3 或 i5处理器，内存 8GB或16GB，SSD容量32 GB或128GB，起售价799美元。
+➜美国劳工部起诉Peter Thiel的创业公司歧视亚裔
+https://www.solidot.org/story?sid=49832	39888
+美国劳工部<a href="http://www.reuters.com/article/us-palantir-tech-discrimination-lawsuit-idUSKCN11W2DA" target="_blank"><u>起诉</u></a>硅谷创业公司 Palantir Technologies系统性的歧视亚裔应聘者。Palantir由Peter Thiel等人在2004年创办，专注于大数据分析，它正帮助政府机构跟踪恐怖分子和发现金融欺诈。它的估值高达200亿美元。劳工部指控Palantir在简历筛选和电话面试阶段例行的剔除亚裔应聘者，即使这些人与白人申请者有着相同的资格。劳工部举例说，Palantir评估了130多名工程类实习工作的合格应聘者，其中73%是亚裔。最后Palantir雇佣了17名非亚裔应聘者和4名亚裔。起诉书称，如果不是歧视的话发生这种情况的概率是十亿分之一。有人<a href="https://yro.slashdot.org/story/16/09/26/2245243/us-department-of-labor-is-suing-peter-thiels-startup-palantir-for-discriminating-against-asians" target="_blank"><u>推测</u></a>，亚裔应聘者的语言能力和沟通能力而不是歧视，才是他们遭到淘汰的主要原因。
+➜Mozilla 停止Firefox OS开发
+https://www.solidot.org/story?sid=49833	42372
+Mozilla 去年底 <a href="http://www.solidot.org/story?sid=46453" target="_blank"><u>宣布</u></a> 终止智能手机实验，停止开发和销售 Firefox OS 智能手机，它在2016年7月底停止了Firefox OS的商业开发，<a href="https://groups.google.com/forum/#!msg/mozilla.dev.fxos/FoAwifahNPY/Lppm0VHVBAAJ" target="_blank"><u>如今则宣布终止所有 Firefox OS 相关工作</u></a>。Firefox OS 是一个开源项目，现在它的维护将全部转交给社区。Mozilla开发者称，为了快速演化和启用 Gecko引擎的新架构变化，它的Platform Engineering 团队需要从 mozilla-central移除与Firefox OS/B2G OS相关的所有代码，继续从事B2G OS开发的开源社区将需要fork Gecko，从一个独立的分支维护一个完整版的Gecko引擎。Mozilla称这是一个痛苦但必要的决定。
+➜微博大V作业本被销号
+https://www.solidot.org/story?sid=49834	44090
+因为调侃共产主义烈士，微博大V孙杰（aka 作业本）账号被关闭。他本人也遭到了这位烈士亲属的起诉，称其帖子损害了英雄名誉。北京大兴法院作出了有利于原告的判决，称相关帖子“损害了公共利益”，并且“给烈士的亲属带来了精神伤害”。法院责令其赔偿1元钱，并连续五天刊登道歉公告。北京外国语大学的新闻学教授乔木<a href="http://cn.nytimes.com/china/20160927/china-qiu-shaoyun-korean-war/" target="_blank"><u>表示</u></a>，尽管孙杰帖子里的用语有贬义，但此事真正的问题在于，是否允许挑战共产党树立的官方英雄。
+➜Facebook被命令停止在德国收集WhatsApp用户数据
+https://www.solidot.org/story?sid=49835	44934
+WhatsApp上个月宣布与母公司Facebook共享用户信息后，很多用户对其隐私面临的风险表达了愤怒。德国监管机构也是这么想的。德国汉堡市数字保护专员命令<a href="http://www.nytimes.com/2016/09/28/technology/whatsapp-facebook-germany.html" target="_blank"><u>Facebook停止在德国收集和储存WhatsApp用户数据</u></a>，它还同时要求Facebook将WhatsApp已转发的所有信息全部删除。Facebook表示它已经遵守了欧洲的隐私规定，将与德国监管方合作打消其担忧。
+➜OpenSSL为补丁打上新补丁
+https://www.solidot.org/story?sid=49836	45381
+OpenSSL项目<a href="https://www.openssl.org/news/secadv/20160926.txt" target="_blank"><u>释出了</u></a>四天内的第二个补丁，修复了上一个补丁导致的问题。在OpenSSL项目曝出高危漏洞Heartbleed之后，OpenBSD 创建了分支LibreSSL，Google创建了分支BoringSSL，但OpenSSL仍然是最广泛使用的加密软件库。OpenSSL开发者称，由于漏洞的高危性，他们决定立即释出新补丁去修复上一批补丁导致的问题。

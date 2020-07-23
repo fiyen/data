@@ -1,0 +1,12 @@
+➜KGB Hack 三十周年
+https://www.solidot.org/story?sid=63098	24677
+1986 年，当时担任美国劳伦斯伯克利国家实验室系统管理员的 <a href="https://en.wikipedia.org/wiki/Clifford_Stoll"><u>Clifford Stoll</u></a> 在实验室的计算机系统发现了一名入侵者，他对此展开了调查。在历尽三年多时间之后，他识别了一个向克格勃出售美国情报的黑客小组——成员包括 Markus Hess、Dirk Brzezinski 和 Peter Carl。Stoll 设立了蜜罐，跟踪了这些与德国混沌计算机俱乐部有点松散联系的黑客，将收集的信息转交给了美国和西德的当局。1989 年 3 月 ARD Im Brennpunkt 报道了这起被称为 KGB Hack 的网络间谍活动。时隔三十周年之后，本周末举行的混沌计算机俱乐部年度会议（36C3）<a href="https://media.ccc.de/v/36c3-11031-the_kgb_hack_30_years_later" target="_blank"><u>回顾了这段历史</u></a>。
+➜Debian 社区投票选择“专注 Systemd  但支持探索替代”
+https://www.solidot.org/story?sid=63099	33068
+本月初，Debian 社区就支持非 systemd 初始化系统<a href="https://www.solidot.org/story?sid=62885"><u>进行投票</u></a>，时间为 20 天。Debian 技术委员会在 2014 年采用 systemd 的决定引发了很多争议，五年之后Debian 又开始重新考虑支持 systemd 之外的其它初始化系统。投票共包含 8 个选项：继续专注于 systemd；systemd 但同时支持探索替代；支持多个初始化系统很重要；支持非 systemd 初始化系统，但避免阻碍进度；支持可移植性，避免阻碍进度；支持多个初始化系统是必要的；支持可移植性和多种初始化系统；进一步讨论。现在，Debian 社区完成了计票，第二选项“systemd 但同时支持探索替代”<a href="https://vote.debian.org/~secretary/gr_initsystems/results.txt"><u>获胜</u></a>。
+➜FreeDB 将于 3 月 31 日关闭
+https://www.solidot.org/story?sid=63100	34987
+CD 数据库 FreeDB 发布紧急通知宣布<a href="http://www.freedb.org/en/" target="_blank"><u>网站和服务</u></a>将于 2020 年 3 月 31 日关闭。<a href="https://en.wikipedia.org/wiki/Freedb"><u>FreeDB</u></a> 的所有内容都是基于 GNU GPL 授权，为了查询 CD 信息，客户端程序根据 CD 目录计算哈希值，然后将其作为 ID 去查询数据库，如果数据库内有该 CD，程序能提取和展示艺术家、专辑标题、曲目列表等信息。FreeDB 历史上经历多次关闭危机，最新的通知没有解释关闭原因。
+➜Paint.NET 作者 12 岁时开发的游戏被 Twitch 用户直播
+https://www.solidot.org/story?sid=63101	52211
+Paint.NET 作者 Rick Brewster 在 Twitter 上<a href="https://kotaku.com/a-programmer-lost-a-game-he-made-as-a-kid-until-someon-1840684828"><u>分享了他的一个故事</u></a>：1994 年他 12 岁时开发的游戏被人在上 Twitch 上进行了直播，而他认为这游戏早就丢失了。他根据 1984 年的一本讲述如何编冒险游戏的教学书开发了一款 DOS 冒险游戏《The Golden Flute IV: The Flute of Immortality》，他制作了一份安装拷贝，放在 3.5 英寸 720K 软盘里，寄给了住在东海岸的堂兄弟，这份拷贝被认为丢失了，游戏被认为不再有可玩的版本存在。但事实并非如此，游戏的一份拷贝落在了一位专注于报道鲜为人知的老游戏的 Twitch 主播手中，并在圣诞前夕进行了<a href="https://www.twitch.tv/videos/525554307?t=5h17m40s"><u>直播</u></a>。 Brewster 认为他的堂兄弟将游戏拷贝上传到了一个 BBS 论坛，如今被上传到了互联网档案馆的老游戏库 Frostbyte 中。你现在也可以使用<a href="https://archive.org/details/msdos_shareware_fb_GFLUTE4"><u>一个在线 DOSbox 模拟器</u></a>玩这款 12 岁程序新手开发的业余作品了。

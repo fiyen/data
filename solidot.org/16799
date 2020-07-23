@@ -1,0 +1,48 @@
+➜Google证实下个版本的Android将不使用甲骨文的Java API
+https://www.solidot.org/story?sid=46704	8950
+Google正在<a target="_blank" href="https://android.googlesource.com/platform/libcore.git/+/51b1b6997fd3f980076b8081f7f1165ccc2a4008"><u>Android源代码</u></a>中用甲骨文JDK（Java Development Kit）的开源版本<a target="_blank" href="http://openjdk.java.net/">OpenJDK</a>替代它的Java API实现。Google<a target="_blank" href="http://venturebeat.com/2015/12/29/google-confirms-next-android-version-wont-use-oracles-proprietary-java-apis/">证实</a>下个版本的Android N将只依赖于OpenJDK。Google发言人称，作为一个开源平台，Android将建立在开源社区的合作上。在未来版本的Android中，Google计划将Android语言库迁移到基于OpenJDK的方法上，为构建应用和服务的开发者创建一个通用的代码库。Google称它与OpenJDK社区有很长的合作历史，未来会向该项目作出更多的贡献。Google此举可能与甲骨文起诉它侵犯Java API版权存在关系。但因为两个公司的诉讼尚未和解，Google拒绝置评。<br>
+➜Dolphin Smalltalk开源
+https://www.solidot.org/story?sid=46705	9821
+Object Arts的Smalltalk编程语言实现Dolphin Smalltalk在MIT许可证下开源，该公司在时隔9年之后发布了<a target="_blank" href="http://object-arts.com/gettingstarted.html">开源版的Dolphin 7</a>，上个版本还是在2006年发布的，根据官方博客的<a target="_blank" href="http://object-arts.com/blog/blog.html"><u>简短说明</u></a>，Dolphin 7在功能上与之前的商业版本相当。Dolphin 7的<a target="_blank" href="https://github.com/objectarts/Dolphin"><u>源代码</u></a>托管在Github上。源码包括了两部分：Dolphin和DolphinVM，加载DolphinVM需要MSVC 2013或更新的社区版本。
+➜微软可能保存了你的Windows加密密钥，但删除并不难
+https://www.solidot.org/story?sid=46706	14709
+The Intercept的<a target="_blank" href="https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/"><u>一篇报道称</u></a>，新版本的Windows内置了加密并默认启用，这是一个值得称道的特性。但鲜为人知的是，如果你使用微软的账户登录Windows 电脑，系统会自动上传密钥拷贝到微软的服务器。作者声称用户没有选项可以选择退出。Ars的Peter Bright<a target="_blank" href="http://arstechnica.com/information-technology/2015/12/microsoft-may-have-your-encryption-key-heres-how-to-take-it-back/"><u>指出作者的说法并不正确</u></a>，用户的Windows加密密钥确实可能会被上传到OneDrive备份，但你也可以选择<a target="_blank" href="http://blogs.technet.com/b/arnaud_jumelet/archive/2010/11/12/how-to-regenerate-the-bitlocker-numerical-recovery-password.aspx"><u>不同步到 OneDrive</u></a>，删除微软持有的备份密钥不需要花多长时间，用户的Windows版本是专业版还是家庭版是没有关系的。
+➜美国银行申请块链相关技术专利
+https://www.solidot.org/story?sid=46707	16702
+银行家也许并不相信比特币会成为主流，但他们肯定认可比特币背后的块链技术的价值。12月17日，美国专利商标局公布了美国银行申请的10项与块链相关的专利，申请日是在去年7月，虽然专利还没有授予，但<a target="_blank" href="http://qz.com/578974/bank-of-america-is-trying-to-load-up-on-patents-for-the-technology-behind-bitcoin/"><u>显示了美国银行对块链的兴趣</u></a>。这些专利涵盖了加密货币交易支付系统、离线储存加密货币和测量欺骗活动。上周、IBM、Linux基金会、JP摩根、伦敦交易所和富国银行联合发起了Open Ledger Project项目。美国银行则是另一个开发块链技术的财团的成员。
+➜科技公司的兴衰
+https://www.solidot.org/story?sid=46708	18360
+将<a target="_blank" href="http://cn.wsj.com/gb/20151230/mkt074827.asp"><u>今年美国市值最高的科技公司</u></a>与15年前对比，会有一些很有意思的发现。今天市值最高的苹果和Alphabet（Google母公司），在15年前都算不上大型公司，当时Google还没有上市，而苹果市值只有60亿美元，如今它们分别是5300亿美元和6000亿美元。2000年市值最高的15家科技公司如今只有微软一家的市值高于2000年水平，它们的市值损失约1.35万亿美元，约占总市值的60%。市值滑坡的一个不寻常之处在于，它没有发生在当年被大肆炒作的网络奇迹公司身上。相反<a target="_blank" href="http://www.ftchinese.com/story/001065509"><u>这种不幸落在了多数曾经被视为蓝筹科技股的公司身上</u></a>。2000年，北电网络市值高达2090亿美元，它如今已经破产。思科市值已从4030亿美元降至1440亿美元；英特尔市值已从2880亿美元降至1610亿美元；EMC的市值从2180亿美元降至510亿美元。
+➜俄罗斯取消2025年前的所有月球任务
+https://www.solidot.org/story?sid=46709	25315
+俄罗斯航天局<a target="_blank" href="http://sputniknews.com/russia/20151229/1032439607/russia-moon-space.html"><u>暂停</u></a>未来十年（2016到2025年）所有与月球相关的太空任务，包括月球基地、月球轨道站、月球载人飞行相关的太空服研发和软件开发。俄罗斯此举是因应经济状况不佳导致的预算不足，暂停所有月球计划将可以节省885亿卢布的预算。在几年前，俄罗斯还雄心勃勃的表示要在月球建立研究基地，今年早些时候还宣布在2025年执行无人月球任务，2029年实现载人登月。
+➜同样的药片美国售价1000美元印度4美元
+https://www.solidot.org/story?sid=46710	28138
+印度一个叫Lande Rode村庄里，村里的老人说，外地人都不愿意让他们的女儿嫁给本地男孩，因为当地大部分居民都感染了黑疸。黑疸是印度对丙型肝炎的称呼，这种疾病在印度的旁遮普邦很常见。疾病流行的一个意外的结果是许多家药企都竞相提供治疗药物，激烈的竞争<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-12-29/the-price-keeps-falling-for-a-superstar-gilead-drug-in-india"><u>使得药品价格不断下滑</u></a>。一种治疗丙肝的新型药物是索非布韦（Sovaldi），通常能在三个月内消灭感染，没有严重的副作用。吉利德科学公司在美国以1000美元的价格销售这种药品，它声称这一定价是合理的是经过深思熟虑设定的。它授权11家印度药厂生产仿制药，这些公司为了竞争市场，让索非布韦的价格不断创下新低，今年3月它的销售价格是10美元，如今已降至4.29美元，医生预测价格还会跌。
+➜波士顿动力的机器骡太吵而不适合实战
+https://www.solidot.org/story?sid=46711	30662
+Alphabet子公司波士顿动力为美国海军陆战队开发的机器骡（Legged Squad Support System，或简写LS3）<a target="_blank" href="http://arstechnica.com/information-technology/2015/12/us-militarys-ls3-robotic-mule-deemed-too-loud-for-real-world-combat/"><u>被证明声音太吵而不适合与士兵一起作战</u></a>。项目已经搁置。LS3负重机器人设计在行军中为陆战队运输重型装备，它可以负重180公斤，而普通士兵的行军负重不超过32公斤，作战负重不超过22公斤。然而军事演习显示，目前的LS3还不适合实战使用。海军陆战队作战研究实验室发言人 Kyle Olson说，一个吵闹的机器人会曝光士兵的位置。波士顿动力开发了一个电动的安静版负重机器人Spot，但其缺点是负重只有18公斤，对陆战队来说远远不够。目前LS3和Spot项目都已经被搁置。
+➜北极今天的温度超过0摄氏度
+https://www.solidot.org/story?sid=46712	32837
+大西洋的<a target="_blank" href="http://www.theatlantic.com/science/archive/2015/12/iceland-storm-melt-north-pole-climate-change/422166/?utm_source=SFFB"><u>报道</u></a>称，北极周三的温度超过0摄氏度。报道使用的是华氏温标，称北极周三的温度大约为华氏35度，相当于摄氏2度，比平均温度高出50华氏度：每年这个时候的温度通常为华氏零下20度。北极目前处于极夜，从9月中旬开始就不再看到太阳升起。报道称，还没有多少人真正见证过北极冬天的温度在0摄氏度以上。这一现象应该与厄尔尼诺现象关系不大。
+➜微软的滑块专利被EFF授予本月最蠢专利奖
+https://www.solidot.org/story?sid=46713	35487
+<div align="center"><img src="http://img.solidot.org/0/325/lieyxLhRvggDw.png" align="" height="126" width="540"><br>
+<br>
+</div>
+电子前哨基金会（EFF）将12月的<a target="_blank" href="https://www.eff.org/deeplinks/2015/12/stupid-patent-month-microsofts-design-patent-slider"><u>最蠢专利奖</u></a>授予了软件巨人的滑块专利。这也是EFF首次将最蠢专利奖授予了一项设计专利。微软的滑块专利是在2006年申请，2007年获得批准，设计专利号<a target="_blank" href="https://www.eff.org/files/2015/12/28/patd554140.pdf"><u>D554,140</u></a>（PDF），它的设计是如此简单以至于让人对专利制度产生疑问。一个允许用户放大或缩小的软件滑块并不是新东西，微软的设计也毫无特别之处，难以想象<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/microsoft-patents-a-slider-earning-effs-stupid-patent-of-the-month-award/"><u>微软设计的创新在何处</u></a>。微软最近起诉Corel Software公司的软件侵犯了它的9项专利，其中一项设计专利就是滑块。<br>
+➜香港特首的FB账号被发现有AV女优朋友
+https://www.solidot.org/story?sid=46714	38545
+香港特首梁振英的<a target="_blank" href="https://www.facebook.com/leung.cy.739"><u>Facebook账号</u></a>被发现有AV女优朋友，特首办回应称其账号<a target="_blank" href="http://hk.apple.nextmedia.com/realtime/news/20151230/54572073"><u>遭到黑客入侵</u></a>。Facebook也在推广二步认证，不清楚梁振英的账号是否启用了二步账号，如果启用了黑客又是如何入侵的。一度成为他朋友的AV女优是<a target="_blank" href="https://twitter.com/yukinon0501"><u>筿原ゆきの</u></a>。特首办称特首的Facebook账号疑遭黑客入侵，部分资料和设定被人修改，部分帖文被人删除，被添加了一些新朋友，个人肖像也被人修改。特首办已经报警。
+➜土耳其的互联网可能是一个人攻陷的
+https://www.solidot.org/story?sid=46715	40921
+过去两周，土耳其的互联网基础设施持续遭到网络攻击。对根域名服务器NIC.tr的攻击一度迫使土耳其切断了境外流量的访问，将近一天的时间里，土耳其的网络在全球互联网中消失了，有数十万网站受到攻击影响。松散的黑客组织匿名者宣称对此负责，但Dailydot的调查认为，匿名组织可能与此无关，<a target="_blank" href="http://www.dailydot.com/politics/turkey-ddos-dns-anonymous-cyberattack/">是一个人单枪匹马攻陷了土耳其的域名服务器</a>。这位NIC.tr的攻击者演示了如何在15分钟内攻下大部分的叙利亚DNS服务器，同时还攻击了圣战和激进穆斯林组织的网站。攻击者声称是利用DNS放大攻击的策略瘫痪NIC.tr服务器。攻击者声称是为了抗议而对NIC.tr域名服务器发动攻击。
+➜鱼可能有情感和意识
+https://www.solidot.org/story?sid=46716	41709
+根据刚刚发表的<a target="_blank" href="http://rspb.royalsocietypublishing.org/content/282/1819/20152266"><u>一篇论文</u></a>，鱼可能是<a target="_blank" href="http://thinkpol.ca/2015/11/30/fish-could-have-emotions-and-consciousness-biologists-find/"><u>有情感和意识的</u></a>。研究人员首次观测到了应激性发热现象——即受到压力的情况下体温上升——这种现象被认为与意识有关联。研究人员发现，斑马鱼在紧张的情况下体温上升了2到4度。应激性发热此前只在哺乳动物、鸟类和部分爬行类动物上观察到，从未在鱼类观察到。
+➜加州要求自主驾驶汽车必须有司机
+https://www.solidot.org/story?sid=46717	44366
+据<a target="_blank" href="https://www.dmv.ca.gov/portal/dmv/dmv/dmvhomes"><u>加州机动车管理局</u></a>公布的自主驾驶汽车草案：驾驶盘后必须<a target="_blank" href="http://www.nanzao.com/sc/international/151f209b2cf3d3a/jia-zhou-ni-wu-ren-che-fa-gui-jia-shi-pan-hou-xu-zuo-zhen-ren-zhi-zao-shang-fu-ze-fang-hei-ke">坐一个真人</a>。汽车在必要情况下，需由持驾照的驾驶员控制。同时驾驶员亦难逃交通违规之责。制造商必须将无人车交由第三方做安全测试，使得车辆获得为期三年的许可证，这个许可证可让制造商出租车辆而非售卖给大众。制造商需定期报告车祸，并设计出安全措施以避免黑客控制车辆，并告知乘客除了安全驾车所需的数据之外，还收集了乘客哪些资料。在加州湾区，除了Google，还有特斯拉和Uber等科技公司正在研发无人驾驶汽车，现在共有11家公司拥有在加州公路测试的许可证。
+➜失聪科学家谈失聪儿童的语言发育
+https://www.solidot.org/story?sid=46718	48498
+普通人很少接触有听力残疾的人，对于失聪儿童如何学习说话可能几乎一无所知。在Reddit的科学AMA上，一位失聪的博士后研究员参与AMA谈论了<a target="_blank" href="https://www.reddit.com/r/science/comments/3yipbd/science_ama_series_i_am_wyatte_hall_phd_a_deaf/"><u>失聪儿童或其他儿童的语言发育</u></a>。这个AMA帖子罕见的被赋予了一个DOI编号（<a target="_blank" href="https://www.thewinnower.com/papers/3221-science-ama-series-i-am-wyatte-hall-ph-d-a-deaf-scientist-studying-how-early-language-exposure-can-affect-health-outcomes-ask-me-anything"><u>doi.org/10.15200/winn.145130.07988</u></a>）。Wyatte Hall是Rochester大学医学中心的博士后研究员，他在回答中称，没有证据显示儿童早年学习手语会推迟语言的习得，而失聪儿童早年不学习手语则有可能带来影响终生的后果，包括永久性大脑变化相随的语言剥夺。失聪者的第一语言多数是手语，第一语言非常重要，它提供了一种理解世界的方法，第二语言第三语言等通常是第一语言的映射。Hall博士说，他是家庭中唯一的失聪者，他不知道是什么原因，因为失聪他的阅读能力落后于同龄人1.5年，他承认社会孤立对成长造成了巨大的负面影响，进入大学之后他才感觉到不再孤独。

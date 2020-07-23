@@ -1,0 +1,12 @@
+➜心脏手术的时间影响成功率
+https://www.solidot.org/story?sid=54294	36095
+根据《柳叶刀》刊登的一篇<a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32132-3/fulltext" target="_blank"><u>论文</u></a>，心脏手术的时间<a href="http://www.bbc.com/zhongwen/simp/science-41778659" target="_blank"><u>影响成功率</u></a>，心脏在下午时段更为强壮，因此在下午做心脏手术比上午有更高的成功率。研究已经排除了外科医生们上午疲劳或者表现不佳等等外部因素。在包括心脏瓣膜置换在内的心脏手术过程中，医生需要暂停心脏功能，由于心脏组织中的供氧减少，心脏本身承受很大压力。临床医生和研究人员仔细对比了心脏手术后出现的并发症，其中包括心肌受损、心脏衰竭和死亡等病例，他们发现：298 名上午手术的病人中，有 54 人有不良反应；298 名下午手术的病人中，28 人有不良反应；下午手术的病人并发症风险减半；每 11 个在下午施行心脏手术的病人中，有一人可以避免严重不良反应。研究人员承认医院也不可能将所有心脏手术都安排在下午进行，“但是如果我们能区别对待那些危险系数最高的病人，让他们的手术在下午时段进行，这样对他们有利，也更有道理。”
+➜Chrome 将移除 Public Key Pinning (PKP)支持
+https://www.solidot.org/story?sid=54295	38116
+Google <a href="https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/he9tr7p3rZ8" target="_blank"><u>宣布</u></a>了从 Chromium/Chrome 中移除 <a href="https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning" target="_blank"><u>Public Key Pinning (PKP)</u></a>支持的计划。PKP 是防止中间人攻击和恶意 CA 的一种证书核查机制。Google 工程师给出的理由 PKP 普及率低和存在技术挑战。Google 计划在明年 5 月 29 日发布 Chrome 67 正式版时移除对 PKP 的支持。这一计划尚未确定下来，用户仍然可以递交反对意见。根据调查，在 2016 年 3 月所有 HTTPS 网站部署 PKP 的比率为 <a href="https://news.netcraft.com/archives/2016/03/22/secure-websites-shun-http-public-key-pinning.html" target="_blank"><u>0.09%</u></a>，到 2017 年 8 月，部署率只提高到 <a href="https://scotthelme.co.uk/alexa-top-1-million-analysis-aug-2017/" target="_blank"><u>0.4%</u></a>。
+➜NotPetya 恶意软件导致默克关闭 HPV 疫苗的生产线
+https://www.solidot.org/story?sid=54296	48417
+今年上半年爆发的 NotPetya 恶意程序一度导致制药巨头默克<a href="https://securityledger.com/2017/10/notpetya-infection-left-merck-short-key-vaccine-gardasil/" target="_blank"><u>停产 HPV 疫苗 Gardasil</u></a>，迫使该公司借用美国疾病预防控制中心的库存以满足需求。这一消息是默克在其递交到美国证券交易委员会（SEC）的 8-k 季度公报中披露的。默克在文件中称，它因为 NotPetya 恶意程序感染而遭受严重经济损失，导致第三季度销售和收入减少了数亿美元。默克称网络攻击相关的市场销售损失约 1.35 亿美元，因为恶意程序导致的疫苗停产而导致第三季度销售额减少约 2.4 亿美元。
+➜5% 的 Windows 10 机器更新到了最新 Fall Creators Update
+https://www.solidot.org/story?sid=54297	50287
+在推出一周之后，根据  AdDuplex 的<a href="http://reports.adduplex.com/reports/2017-10/" target="_blank"><u>数据</u></a>，5% 的 Windows 10 机器<a href="https://arstechnica.com/gadgets/2017/10/latest-windows-release-already-on-five-percent-of-windows-10-pcs/" target="_blank"><u>已经更新</u></a>到了最新 Fall Creators Update。这一更新速度比之前几个版本的 Windows 10 大更新要快得多。比如上一个大更新  Creators Update 目前只安装到四分之三的 Windows 10 机器上，而去年发布的周年更新 Anniversary Update 安装率仍然有 17%。在上半年的 Creators Update 释出时 Anniversary Update&nbsp; 的安装率为 92%。

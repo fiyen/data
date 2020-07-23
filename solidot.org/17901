@@ -1,0 +1,9 @@
+➜万豪称黑客窃取了超过 500 万客户护照
+https://www.solidot.org/story?sid=59202	52563
+万豪酒店去年 11 月底<a href="https://www.solidot.org/story?sid=58848">发出警告</a>，称旗下的喜达屋酒店预订系统遭到黑客入侵，有多达五亿用户的信息泄露，而黑客的入侵至少始于 2014 年。万豪酒店是在去年 9 月收到预警，随后展开的调查发现从 2014 年起未经授权的第三方访问了喜达屋网络，复制并加密了某些信息。现在，万豪酒店更新了信息，称黑客最多访问了 3.83 亿客户信息，有 525 万客户的未加密护照<a href="https://www.cnet.com/news/marriott-says-hackers-stole-more-than-5-million-passport-numbers/"><u>被窃取</u></a>，黑客还窃取了 2030 万加密的护照数据。黑客所使用的工具、手法和程序被认为<a href="https://www.solidot.org/story?sid=58848"><u>与中国有关</u></a>。
+➜嫦娥四号使用了 Atmel 的 SPARC 抗辐射处理器
+https://www.solidot.org/story?sid=59203	56147
+太空环境使用的芯片显然与我们日常使用的芯片不同。根据中科院研究人员在《Planetary and Space Science》期刊上发表的<a href="http://epizodsspace.airbase.ru/bibl/inostr-yazyki/planetary-and-space-science/2018/Jia_et_al_The_Chang-E-4_Mission_Planetary_and_Space_Science_in_press_(2017).pdf"><u>论文</u></a>（PDF），本周四在月球背面成功登陆的嫦娥四号着陆器重 1.2 吨，配备了放射性同位素热电机，将在三个月的任务期间为其搭载的科学仪器供电，其科学仪器的核心组件是负荷控制器，每个控制器有一个 CPU 和多个 FPGA，用于实现仪器所需的控制。这个 CPU 是 ATMEL 的 AT697F，FPGA 则是 XQR2V3000-4CCG717。ATMEL 在 2016 年被 Microchip 收购，它的 <a href="https://www.microchip.com/wwwproducts/en/AT697F"><u>AT697F</u></a> 是基于 <a href="https://en.wikipedia.org/wiki/SPARC#History"><u>SPARC V8 </u></a>架构（其设计是在 1990 年发布的）的 32 位嵌入式 RISC 处理器，增强了辐射抵抗能力，工作温度 -55 到 125 摄氏度，最大工作频率 100 MHz。
+➜NSA 将免费发布逆向工程工具
+https://www.solidot.org/story?sid=59204	56534
+根据 RSA 会议网站提供的<a href="https://www.rsaconference.com/events/us19/agenda/sessions/16608-Come-Get-Your-Free-NSA-Reverse-Engineering-Tool"><u>信息</u></a>，NSA 将在 RSA 2019 会议上首次演示它开发的逆向工程框架 GHIDRA，并免费提供给公众。GHIDRA 能运行在 Windows、Mac OS 和 LINUX 上，支持多种处理器指令集，包含了你预计会在高端商业工具看到的所有功能。RSA 2019 将于 3 月 4 日到 8 日在旧金山举行。有 reddit 用户<a href="https://www.reddit.com/r/ReverseEngineering/comments/ace2m3/come_get_your_free_nsa_reverse_engineering_tool/ed7vbld/?context=2">介绍了</a> GHIDRA 的功能。

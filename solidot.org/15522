@@ -1,0 +1,27 @@
+➜六种优秀的Linux建模器
+https://www.solidot.org/story?sid=30303	19200
+<a href="mailto:rgelmand@gmail.com">Rees Gelmand</a> 写道 <i>"Linux平台上提供图像渲染能力的开源软件相对而言不算多。渲染是取3D模型以二维图像展示的过程。在众多Linux开源建模程序中，部分项目因无人接手而被开发者放弃停止开发，但其中还是<a href="http://www.linuxlinks.com/article/2012062916572882/Modelers.html">有部分高质量的项目值得关注</a>，例如<a href="http://www.blender.org/">Blender</a>，<a href="http://www.wings3d.com/">Wings 3D</a>、<a href="http://www.k-3d.org/wiki/Main_Page">K-3D</a>、<a href="http://www.artofillusion.org/">Art of Illusion</a>等。
+"</i>
+➜私人深空任务搜索可能与地球相撞的近地天体
+https://www.solidot.org/story?sid=30304	21600
+华裔宇航员卢杰担任CEO的非营利组织<a href="http://b612foundation.org/">B612基金会</a>宣布了<a href="http://arstechnica.com/science/2012/06/first-private-deep-space-mission-will-search-for-earth-destroying-asteroids/">首个私人资助的深空探索任务</a>，它将发射直径为50厘米的红外太空望远镜Sentinel，去跟踪可能在未来数百年内与地球相撞的近地天体。Sentinel计划今年秋天开始建造，其设计方案类似NASA的Spitzer和Kepler望远镜，望远镜重1.5吨，高25英尺，主承包商为Ball Aerospace，它也是Spitzer和Kepler的承包商。NASA的广角红外线探测望远镜(WISE)在其退役前发现了超过3.3万颗小行星和彗星，但WISE的地面望远镜只是发现了小行星杀手中的极小部分，B612基金会声称，在50万颗大于通古斯事件天体的小行星中，大部分没被发现。它指出跟踪近地天体的最优位置介于地球和太阳之间，它考虑将望远镜送到金星附近的长椭圆轨道。Sentinel很可能由SpaceX的Falcon 9火箭发射，但目前基金会尚未筹集到足够资金。
+➜希格斯玻色子流言纷飞
+https://www.solidot.org/story?sid=30305	26280
+欧洲粒子物理研究所（CERN）将在7月4日<a href="http://press.web.cern.ch/press/PressReleases/Releases2012/PR16.12E.html">主办研讨会</a>，宣布大强子对撞机两大实验Atlas和CMS的最新结果。科学界猜测CERN很可能将宣布发现<a href="http://www.guardian.co.uk/science/2012/jun/29/higgs-boson-rumours-fly-cern-results?CMP=twt_gu">被期待已久的希格斯玻色子</a>。<i>
+去年12月，CERN科学家已从数据中发现了疑似希格斯玻色子的信号，但结果还不具有说服力。CERN研究主管Sergio Bertolucci说，现在他们手中的数据是去年的一倍多，应该足以验证或否定去年的发现。他说，“这是一个非常激动人心的时刻。”即使CERN下周宣布发现希格斯玻色子，仍然需要一段时间才能说服科学界相信它是一种新的粒子或某种更奇特的东西。希格斯玻色子是一种近五十年前预言的亚原子粒子，新发现将证明可观察宇宙中充满了看不见的能量场。理论认为，在创世大爆炸发生万亿分之一秒后希格斯场启动，在此之前，宇宙的所有粒子都没有质量，以光速四处横冲直撞。当希格斯场启动后，某些粒子在移动时感受到了“阻力”。通过吸附住这些粒子。希格斯场赋予了粒子质量，使它们飞行速度越来越慢，聚集成原子或分子。希格斯场不对光子产生作用，因此它们仍然没有质量，继续以光速移动。
+</i>
+➜玩平板和应用程序的猩猩
+https://www.solidot.org/story?sid=30306	41760
+孩子们大概都会完全沉迷和娴熟的操控小图标，2岁大的Teco也不例外。他坐在摩托罗拉的Xoom平板前，全神贯注于图像，手指轻快的滑过触控屏。他不会说话，但认识了许多图形字。他在4个月大时认识了第一个图形字葡萄，当他想吃葡萄时用手触摸了葡萄的图形。他随后认识了狗、围棋、谷物和牛奶等数十个图形字。Teco不是人类，他是猩猩——精确的说，<a href="http://spectrum.ieee.org/computing/software/apes-with-apps/0">他是倭黑猩猩</a>，除黑猩猩外的人类最近的亲戚。野生的倭黑猩猩只生活在刚果民主共和国，数量大约在1万到5万之间。过去的三十多年里，通过研究包括Teco及其父亲Kanzi在内的一小组倭黑猩猩，研究人员正逐步了解其惊人的认知和语言能力。
+➜Clink将Bash带到Cmd.exe
+https://www.solidot.org/story?sid=30307	43920
+<a href="http://zh.wikipedia.org/wiki/Cmd.exe">Cmd.exe</a>是Windows系统下的命令行解释器，功能有限。现在，开发者推出了功能增强版的<a href="https://code.google.com/p/clink/">Clink</a>，将Bash强大的命令行编辑功能带到了Cmd.exe，支持路径补充（TAB）、粘贴(Ctrl-V)、支持命令完成（<a href="http://en.wikipedia.org/wiki/Command-line_completion">Command-line completion</a>）和环境变量，撤消/重做（CTRL-_或CTRL-X、CTRL-U），改进命令历史和脚本完成。
+➜苹果的Siri落后于Google Now
+https://www.solidot.org/story?sid=30308	46080
+多项测试显示，苹果的语音助手已经落在了Google的语音助手之后。Google的语音搜索早在苹果之前就已经推出，但直到Android 4.1“Jelly Bean”发布，深度整合的Google Now才表现出令人侧目的性能。TechBuffalo将iOS 6和Android 4.1放在同一环境中<a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=kDsOtdRtG0Q">测试</a>(YouTube)，<a href="http://blog.freshte.ch/2012/07/googles-answer-to-siri/">Google Now更快更正确</a>。另一项测试环境<a href="http://news.cnet.com/8301-17852_3-57464337-71/apples-siri-wrong-38-percent-of-the-time-in-test/">是繁忙的马路</a>，Siri的搜索成功率为62%，而Google语音助手是86%。
+➜闰秒导致部分Linux服务器高CPU使用率
+https://www.solidot.org/story?sid=30309	48000
+国际地球自转和参考坐标系统服务（IERS）在2012年6月30日午夜(北京时间7月1号7点59分59秒)增加一闰秒（即出现7：59：60）。由于Linux kernel 2.6.29之前版本<a href="http://www.cisco-club.com.cn/space.php?uid=112942&amp;do=blog&amp;id=9556">存在bug</a>，在进行闰秒调整时可能会引起系统时钟服务ntpd进程死锁。Debian Lenny、RHEL/CentOS 5等旧发行版今天仍被广泛使用，部分供应商<a href="http://rhn.redhat.com/errata/RHBA-2012-0521.html">早已经发布了补丁</a>。但除了Linux服务器外，一些服务器程序也因为闰秒出现了问题，如Reddit、Mozilla、FourSquare、Yelp、LinkedIn和Gawker等网站都短暂<a href="http://www.wired.com/wiredenterprise/2012/07/leap-second-bug-wreaks-havoc-with-java-linux/">遭遇了技术问题</a>，国内的一家云储存供应商发现运行在CentOS 6.2上的Java和MySQL因闰秒出现了<a href="http://blog.jianguoyun.com/?p=415">不同程度的CPU利用率增长</a>，猜测是JVM和MySQL试图通过CPU硬件晶振的数据获得当前精确的时间，由于闰秒的关系，这个时间和操作系统维持的墙上时间（Wall Time，也就是显示给用户看的时间）不一致，导致了这个问题。简单的修正方法是强制重置系统时间，让系统中所有时间回到同步的状态。
+➜中国预计将发射更大的飞行器
+https://www.solidot.org/story?sid=30310	50400
+AFP<a href="http://phys.org/news/2012-07-china-bigger-space-programme.html">报导</a>，在神舟九号之后，中国将在年底或明年发射神舟十号。但之后中国预计不会再派遣宇航员进入天宫一号，它将在未来几年发射更复杂的天宫二号。研究中国太空计划的专家Isabelle Sourbes-Verger说，未来的飞行器将有更大的太空模块舱，能支持更长时间的太空任务，需要更大的发射载具。她说，如果没有比8.5吨天宫一号更大的太空舱，宇航员不可能执行1到3个月的太空任务，天宫一号目标飞行器缺乏补给系统。天宫一号之后的太空舱将能提供更强大的生命支持系统，可能允许停靠第二艘飞船。

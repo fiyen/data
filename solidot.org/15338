@@ -1,0 +1,66 @@
+➜穷举PIN码以攻破无线路由器的安全防护
+https://www.solidot.org/story?sid=27692	3600
+匿名读者 写道 "PIN码是无线路由器设备标签上的一组8位数字字符串，在无线网卡配套管理软件里输入无线路由器设备上的PIN码就可以成功登录已被加密的路由器。如今，安全研究人员正在利用穷举法去破解WiFI加密。<i>
+由于8位纯数字的穷举量为：10的8次方，即：100.000.000，这是一个很庞大的数字，穷举会耗费很长时间。现在，<a href="http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf">PIN信息可以分为两组来看</a>(PDF)，1st和2st，分别发送M4和M6信息，以验证1st和2st是否正确，这样，穷举量变成：10的四次方+10的四次方，即：20.000，不仅仅是这样，PIN的8位数字是最后一位是校验值，那么穷举量最终变成了：10的四次方+10的三次方，即：11.000……<a href="http://blog.ibeini.com/archives/513.html">iBeini</a>的站长跟踪报道了这一突破新进展的最新消息。"</i>
+➜Hadoop 1.0.0发布
+https://www.solidot.org/story?sid=27693	5040
+顶级Apache开源项目Hadoop<a href="http://hadoop.apache.org/common/docs/r1.0.0/releasenotes.html">发布了1.0.0版</a>。Hadoop是前雅虎开发者Doug Cutting开发的分布式计算平台，名字源于玩具象，至今已被数千家公司用于<a href="__SLASHLINK__" sect="developers" sid="11/11/10/104208" sn="article" tid="5">分析大容量数据</a>。Hadoop 1.0.0主要是修正了bug，改进了性能和兼容性。它的上一个版本是0.20.205.0，新版的版本号原是
+0.20.205.1，但开发者<a href="http://news.ycombinator.com/item?id=3405135">表示</a>，Hadoop<del>已经成熟</del>几年前就做好了应用于生产的准备，但有些客户在采用前希望看到版本号是1.0，所以他们决定直接跳到了1.0。
+➜中国宣布未来五年的太空计划
+https://www.solidot.org/story?sid=27694	7200
+国务院新闻办发布了《<a href="http://www.scio.gov.cn/zxbd/wz/201112/t1073255.htm">2011年中国的航天</a>》白皮书，<a href="http://science.slashdot.org/story/11/12/30/016203/china-reveals-its-space-plans-up-to-2016">宣布了</a>未来五年的航天计划。<i>
+中国航天计划在较短时间内已确定了重大突然，虽然在在空间技术和经验上它依旧远落后于美国和俄罗斯。白皮书说，中国在2011年共执行了19次航天发射任务，成功完成“天宫一号”目标飞行器及“神舟八号”交会对接任务，成为世界上第3个掌握对接技术国家。此外，还成功发射3颗北斗导航卫星，北斗卫星导航系统建成基本系统，开始提供定位服务。未来五年，中国将完善运载火箭型谱，发展新一代运载火箭，具备近地轨道25吨、地球同步转移轨道14吨的运载能力；发射“神舟九号”、“神舟十号”飞船，与已在轨飞行的“天宫一号”目标飞行器进行无人或载人交会对接；开展载人登月前期方案论证，开展对太阳系行星、小行星和太阳的探测活动；加强空间碎片监测等。四年前，中国发射导弹击毁了报废的风云气象卫星，制造了大量碎片，引发了中国太空军事化的担忧。中国航天计划由军方管理，也导致美国不愿与中国开展太空合作，即使中国坚称其航天工程只是为了和平目的。</i>
+➜政府网站泄漏大量用户信息
+https://www.solidot.org/story?sid=27695	7920
+《南方日报》<a href="http://epaper.nfdaily.cn/html/2011-12/30/content_7044566.htm">报导</a>，<a href="http://crj.gdga.gov.cn/">广东省公安厅出入境政务服务网</a>的网上申请数据遭泄露，由于该功能的权限控制错误，导致普通用户可以绕过登录环节，直接访问后台查看数据，在该网站提交过网上申请的用户均遭到泄密。泄漏的信息包括真实姓名、护照号码、港澳通行证号码，申请日期、状态，甚至还可以看到用户出生年月、邮寄地址、邮编、电话、证件有效期、出入事由等。广东省公安厅通过官方微博@平安南粤<a href="http://weibo.com/1701367442/xEiyc3uQq">证实了</a>信息泄露的问题，称网站漏洞现已修补完毕。
+➜中国航母完成第三次海试，使用国产拦阻索装置
+https://www.solidot.org/story?sid=27696	9720
+中国第一艘航母平台（瓦良格号）<a href="http://www.zaobao.com/zg/zg111230_004.shtml">完成为期9天的第三次海试</a>，于29日上午返回辽宁大连港。<i>
+香港媒体报道说，瓦良格号海试已取得突破性进展，完成了中国舰载机在航母上的起飞和降落试验。目前这艘航母已不存在任何工程和技术问题，正式服役的条件已完全具备，具体时间则取决于中国领导人的政治考量。中国国防部发言人杨宇军表示，航母平台的科研试验是一个长期的过程，根据工作需要，航母平台今后还将继续出海开展相关试验和训练。杨宇军还指有关俄罗斯<a href="__SLASHLINK__" sect="hardware" sid="11/11/25/022215" sn="article" tid="54">拒绝向中国出售航母拦阻索</a>的报道“是毫无根据的”。他说，中国航母平台主要系统装备，包括拦阻索在内，都是自主研发和改装的。有军迷贴出了<a href="http://photo.sbanzu.com/album/photos/49766_1298706_4cd74.jpeg">瓦良格号</a>阻拦索装置的照片，显示瓦良格号确实已经安装了阻拦索装置。
+</i>
+➜武汉智能探头能对异常情况自动报警
+https://www.solidot.org/story?sid=27697	11100
+武汉建成了号称全球领先的智能化城市监控网，<a href="http://ctdsw.cnhubei.com/cnews/shfz/201112/t1935647.shtml">启用了25万个监控探头</a>，能“看”，会“判断”，能“思考”，可自我维护，还能“发号施令”。<i>
+监视系统使用全触控屏幕操作，大规模运用高清摄像机，部分摄像头具有40倍变焦放大功能。系统允许工作人员可事先设定画面上人员正常的运动速度、数量等数值，如果数值异常，系统就会向指挥中心报警。这样，就能在第一时间发现聚众斗殴等突发事件，还能“发现”火灾等突发灾害。对于密集监控是否侵犯隐私，有关专家称，监控探头如果是安装在公共场所、为公共安全服务，并不侵犯个人隐私，这已成为世界各国的共识。</i>
+➜11位在2011年去世的技术先驱
+https://www.solidot.org/story?sid=27698	18000
+《连线》<a href="http://www.wired.com/wiredenterprise/2011/12/11-who-died-in-2011-and-werent-steve-jobs/?pid=32&amp;viewall=true">回顾了</a>在2011年去世的11名在科技领域具有举足轻重影响力的技术先驱 。这篇文章没有包含乔布斯，而是其他真正的技术发明者以及他们留下的伟大遗产。<i>
+Unix和C语言共同作者丹尼斯·里奇(Dennis Ritchie)；第一台运行Unix的电脑是PDP-7，由数字设备公司（DEC）制造，该公司的联合创始人Ken Olsen在2月去世，DEC是80年代炙手可热的科技公司，但最后成为PC革命的牺牲品；发明包交互技术的Paul Baran，这项技术是互联网的基础；施乐研究机构PARC的创始人Jacob Goldman在12月20日去世，PARC的重要性无人不晓；<a href="__SLASHLINK__" sect="developers" sid="11/10/25/019206" sn="article" tid="5">人工智能先驱</a>约翰·麦卡锡(John McCarthy)；IBM前主席John R. Opel；AMD第一款Intel兼容芯片9080的设计负责人Ashawna Hailey；ENIAC是最早的电子计算机，大部分编程工作是由6名女性完成的，最后一位活着的ENIAC女程序员<a href="http://en.wikipedia.org/wiki/Jean_Bartik">Jean Bartik</a>在3月去世；随身听发明者<a href="http://en.wikipedia.org/wiki/Nobutoshi_Kihara">木原信敏</a>在年初去世；前摩托罗拉CEO Robert Galvin；RFID技术主要专利持有者Charles Walton，今天的RFID已经无所不在。
+</i>
+➜南极最高气温零下8摄氏度
+https://www.solidot.org/story?sid=27699	20520
+美国威斯康星大学南极气象研究中心的<a href="http://amrc.ssec.wisc.edu/blog/2011/12/28/preliminary-report-record-temperatures-at-south-pole-and-nearby-aws-sites/">初步报告</a>和<a href="http://amrc.ssec.wisc.edu/blog/2011/12/29/update-on-record-high-temperatures-at-south-pole-and-aws-sites/">更新报告</a>，2011年12月25日，南极<a href="http://news.slashdot.org/story/11/12/29/1514231/new-record-high-temperature-at-south-pole">记录到了</a>至今为止最高的气温。<i>
+初步评估显示，威斯康星大学南极Nico自动气象站记录到最高温度-8.2C/17.2F；Henry 自动气象站记录到-8.9C /16F，都打破此前记录到的最高温度。此前南极记录到的最高温度是1978年12月27日的-13.6 C/+7.5 F。</i>
+➜亚马逊12月售出400万Kindle
+https://www.solidot.org/story?sid=27700	21600
+亚马逊开始炫耀Kindle设备的销售数据了，该公司宣布<a href="http://arstechnica.com/gadgets/news/2011/12/amazon-moves-4-million-kindle-units-in-december.ars">每周售出超过100万Kindle</a>，不过没有披露不同型号的销售数据，但根据Kindle Fire位居畅销榜榜首来看，Kindle平板应该占据着大部分份额。有推测认为，每售出100万Kindle，Kindle Fire占大约78万。Kindle Touch是第二畅销的产品，之后是最廉价的Kindle无键盘版（79美元版）。iPad平板预计在第四季度售出1350万部。
+➜下一代iPad将有2种型号？
+https://www.solidot.org/story?sid=27701	25500
+<a href="http://our4.org/tbw/">tbw淘宝</a> 写道 <i>"据台湾电子时报<a href="http://www.digitimes.com/news/a20111228PD215.html">报道</a>，苹果将于2012年1月26日举行 MacWorld 博览会上发布两个版本的新一代 iPad。这两个新版本的 iPad 将和 iPad 2 并肩作战，组成 iPad 平板电脑的完整市场定位，分别应对入门级、中档和高档平板电脑的市场需求。根据该报告，新推出的两款 iPad 将会采用更高分辨率(1536x2048)的屏幕和双LED灯条以加强显示面板的亮度，以及四核A6处理器。该报道还称成本较低 iPad 2明年将以更低的价格销售以便与亚马逊的Kindle Fire竞争。不过<a href="http://www.eweek.com/c/a/Mobile-and-Wireless/Apples-iPad-3-Coming-in-Two-Models-in-2012-Rumor-784129/">eWeek</a>认为，这个报道并非十分可信，甚至八分可信都没有，或者说台湾电子时报的报道通常都不太可信，特别是在他们报道的消息来源援引自一位“<a href="http://our4.org/823.html">供应链中不愿透露姓名的消息人士</a>”的时候。"</i>
+➜最古老的巴别塔石刻
+https://www.solidot.org/story?sid=27702	27000
+科学家<a href="http://news.discovery.com/history/tower-of-babel-111227.html">发现了</a>可能的最古老<a href="http://www.schoyencollection.com/historyBabylonian.html#2063">巴别塔绘画</a>。<i>
+画雕刻在黑石碑上，碑文时间为公元前604-562。它是挪威商人Martin Schøyen的收藏品之一，他的收藏品极其丰富，还包括部分死海古卷。<a href="http://www.schoyencollection.com/babylonian_files/ms2063b.jpg">巴别塔石碑</a>雕刻了2500年前统治古巴比伦的国王Nebuchadnezzar二世。<a href="http://zh.wikipedia.org/wiki/%E5%B7%B4%E6%AF%94%E4%BC%A6">巴比伦</a>被认为是人类文明的摇篮，当时在天文学、数学、文学和医学方面领先于其它地方。</i>
+➜中俄建造世界最大锂离子电池工厂
+https://www.solidot.org/story?sid=27703	28200
+深圳<a href="http://www.thunder-sky.com/">温斯顿全球能源控股有限公司</a>和俄罗斯国有纳米科技集团<a href="http://www.rusnano.com/Home.aspx">RUSNANO</a>宣布建立合资企业<a href="http://www.liotech.ru/">Liotech</a>，建造<a href="http://inhabitat.com/china-and-russia-team-up-to-launch-the-worlds-largest-lithium-ion-battery-plant/">世界最大的锂离子工厂</a>。Liotech占地面积超过4万平方英尺，每年能生产50万不同容量的电池，如支持最大行驶距离300 km的汽车电池，能在20分钟内充满70%的电量，寿命超过600,000 km或运行八年。
+➜英国国防部为主机一代改进战场模拟器画面
+https://www.solidot.org/story?sid=27704	30960
+英国国防部动手<a href="http://www.itproportal.com/2011/12/29/ministry-defence-improves-war-games-console-generation/#ixzz1hwo21HQv">改进Battlespace2等战场模拟器的画质</a>，使它们能达到商业战争游戏《现代战争3》和《战场3》等的同等水平。<i>
+技术团队负责人说，在八十和九十年代，军事模拟在当时总是站在行业最前列，如今它们在<a href="http://www.youtube.com/watch?v=y7tiNF4RwmQ&amp;feature=autoplay&amp;list=UULorCiYziMQ-j08Z5o6U-0g&amp;lf=plcp&amp;playnext=1">画面</a>和故事情节上远远落后于商业战争游戏。因而英国国防部正斥巨资改进军事训练程序的画面。改进画面的另一个原因是目前招募的新兵是随《使命召唤》和《战场》系列一起长大的，这意味着他们已经习惯高画质的第一人称设计游戏，模拟程序的低画质会影响浸入体验，他们将难以学会如何在特定情况下做出反应。</i>
+➜请问如何在海南上网？
+https://www.solidot.org/story?sid=27705	33060
+我的闺密将要在海南度过冬天，但那里的网络架设还是基础设施没有大陆好，没有办法接入宽带网络与我保持联系并看她喜欢的电视剧与电影，她甚至无法找到可以通过电话线ADSL上网的办法。如果使用手机3G上网花费将不菲。请问Solidot上的各位大哥，如何能在海南这样的地方短时间内以低廉的价格和1M以上的速度接入互联网。
+➜医生的死亡和我们不一样
+https://www.solidot.org/story?sid=27706	34320
+南加州大学家庭护理临床助理教授Ken Murray博士刊文称，<a href="http://zocalopublicsquare.org/thepublicsquare/2011/11/30/how-doctors-die/read/nexus/">医生的死亡与我们其他人并不相同</a>。当死神降临到自己身上时，他们很少会动大手术去增加几年的生存机会。他们通常会相当平静的面对自己的死亡，花费的医疗保险费用近于无。<i>
+一位受人尊敬的骨科医生被诊断出胰腺癌，他是胰腺癌手术上的最顶尖外科医生之一，发明过新方法能将胰腺癌患者的五年生存机会从5%增加到15%，代价是低质量生活。这位医生没有选择动手术，而是和家人平静的度过最后几个月。这并非孤例。医生当然并不想死，他们也希望活着。但他们知道现代医疗的局限性，他们也清楚了解让所有人都恐惧的死亡：痛苦的死亡，孤独的死亡。当一位走到生命终结的患者依旧在追求最后一丝希望，医疗人员将把在他们身上动的手术称之为“<a href="http://science.slashdot.org/story/11/12/29/1942237/how-doctors-die">无效治疗</a>”。</i>
+➜卡巴斯基称Stuxnet和Duqu由同一个团队开发
+https://www.solidot.org/story?sid=27707	36000
+卡巴斯基研究人员<a href="https://www.securelist.com/en/analysis/204792208/Stuxnet_Duqu_The_Evolution_of_Drivers">公布了最新的研究报告</a>，认为是Stuxnet和Duqu由同一个团队开发，并且相信这个团队<a href="http://www.physorg.com/news/2011-12-kaspersky-team-reveals-stuxnet-family.html">开发了一个恶意程序家族</a>，至少有三种恶意程序尚未发布。<i>
+研究人员称，恶意程序作者使用了被称为“Tilded”的相同开发平台，因为Duqu和Stuxnet中的许多文件名都以~d开头。对共享组件的搜寻发现，同家族至少还有三种恶意程序没有现身。恶意程序作者是采用模块化开发方式增加或删除组件，“Tilded”平台可能是在2007年底或2008年创造的，因为最早的Duqu安装程序是在2007年8月31日编译的。
+</i>
+➜霍金寻找私人助手
+https://www.solidot.org/story?sid=27708	38520
+著名的英国物理学家<a href="http://www.news.com.au/breaking-news/stephen-hawking-wants-you-to-find-him-a-voice/story-e6frfku0-1226233018306#ixzz1hxAssZOx">正在寻找私人助手</a>。虽然薪水不高，但要求却不低。<i>
+霍金(Stephen Hawking)在寻找一位能开发和维护电子语音系统的助手，必须能熟练使用电脑，愿意旅行，能在没有说明书和技术支持的情况下修理电子设备。霍金患有肌萎缩性脊髓侧索硬化症，这种疾病让他几乎完全瘫痪。他在1985年因肺炎动了气管切开术后就完全失去说话能力，利用安装在轮椅上的计算机合成语音与外界交流。单调的机器语音差不多和霍金一样著名。霍金<a href="http://www.hawking.org.uk/">官方网站</a>的<a href="http://www.hawking.org.uk/index.php/component/content/article/96">招聘说明</a>称，助理的薪水是每年2.5万英镑（约合24万人民币）。</i>

@@ -1,0 +1,65 @@
+➜COS系统引发更多疑问
+https://www.solidot.org/story?sid=38101	9614
+<center>
+<embed src="http://player.youku.com/player.php/sid/XNjYxMjQ1MDI0/v.swf" allowfullscreen="true" quality="high" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="400" width="480"><br>
+<br>
+</center>
+中科院软件所和上海联彤网络通讯技术上周<a target="_blank" href="http://www.solidot.org/story?sid=38071"><u>发布了</u></a>基于Linux的闭源操作系统COS（China Operating System）。它的宣传视频(如上)透露了一些有意思的信息：COS能运行在苹果iPhone 4S，HTC Butterfly、HTC One、HTC One Max和 HTC Flyer平板上。如此多的HTC设备支持COS操作系统令人好奇：HTC是否参与了COS开发？去年8月，《华尔街日报》援引知情人士的话<a target="_blank" href="http://www.solidot.org/story?sid=36224"><u>报道</u></a>，HTC正为中国消费者开发一款移动操作系统，以迎合中国政府的政策：中国政府鼓励创建一个独有的本土软件生态系统，以降低对西方企业的依赖。对此问题，HTC<a target="_blank" href="http://focustaiwan.tw/news/ast/201401170020.aspx"><u>拒绝发表评论</u></a>，而软件所则坚决予以否认，软件所总体部主任武延军<a target="_blank" href="http://gd.people.com.cn/n/2014/0118/c123932-20422717.html"><u>表示</u></a>，“COS系统基于Linux内核开发，除了少数东西，几乎都是我们自己开发的。当然涉及到近千万的代码，都是我们自己开发，这部分可以作为自主知识产权。”由于源代码和二进制版都没有公开，这些疑问和讨论暂时还无法深入下去。
+➜FreeBSD 10.0发布
+https://www.solidot.org/story?sid=38102	11626
+FreeBSD<a target="_blank" href="http://lists.freebsd.org/pipermail/freebsd-announce/2014-January/001532.html"><u>宣布</u></a>发布<a target="_blank" href="http://www.freebsd.org/zh_CN/where.html"><u>FreeBSD 10.0-RELEASE</u></a>。主要<a target="_blank" href="http://www.freebsd.org/releases/10.0R/relnotes.html"><u>新特性</u></a>包括：默认包管理工具<a target="_blank" href="http://www.freebsd.org/doc/handbook/pkgng-intro.html"><u>pkg</u></a>；增强虚拟化，加入bhyve、virtio和原生准虚拟化驱动支持在微软的Hyper-V中把FreeBSD作为一个客操作系统；在clang作为默认编译器的架构上不再安装GCC；ZFS文件系统加入SSD的TRIM支持，支持高性能 LZ4压缩算法；支持 <a target="_blank" href="https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi"><u>Raspberry Pi</u></a>；等等。
+➜任天堂仍无打算让马里奥登陆智能手机
+https://www.solidot.org/story?sid=38103	13906
+虽然总裁岩田聪上周五表示是时候重新考虑企业业务结构，但任天堂仍然不会放弃它的核心游戏机战略，不会变成另一个世嘉。岩田聪说，智能设备的盛行并不预示着游戏机的末日，关键是找到方法使用智能手机让人们了解任天堂的游戏，鼓励他们尝试游戏的主机版本，“<a target="_blank" href="http://blogs.wsj.com/japanrealtime/2014/01/20/nintendos-woes-dont-mean-game-over-for-its-consoles/?mod=WSJ_TechWSJD_NeedToKnow"><u>这并不意味着我们应该让马里奥登陆智能手机</u></a>。”任天堂的旗舰游戏机Wii U销量惨淡，不得不削减年度销售预测至280万，但3DS掌机仍然是任天堂少有的亮度：3DS是2013年最畅销的游戏机，超过索尼的PS4和微软的Xbox One。任天堂有很好的理由不走上世嘉的道路：主机上的游戏定价在40美元左右，而智能手机平台充斥着免费下载虚拟物品微交易游戏，此外苹果和Google也都要从销售中提取一部分收入。如果任天堂在智能手机发布游戏，这将会影响其利润更高的主机业务。<br>
+➜RSA抵制者成立竞争性的会议
+https://www.solidot.org/story?sid=38104	15828
+安全和隐私专业人士设立了一个基于信任的会议，<a target="_blank" href="http://www.techweekeurope.co.uk/news/trustycon-rsa-nsa-conference-136435"><u>挑战他们抵制的RSA安全会议</u></a>。EMC旗下的安全公司RSA被曝光收取了NSA的1千万美元，将内置NSA后门的伪随机数生成算法嵌入到其安全产品中。<a target="_blank" href="https://www.trustycon.org/"><u>TrustyCon</u></a>会议将于2月27日在旧金山的AMC Metreon举行，而<a target="_blank" href="http://www.rsaconference.com/"><u>RSA的会议</u></a>则是在2月24日到2月28日在旧金山的Moscone Center举行。出席TrustyCon会议的知名安全专家包括F-Secure的Mikko Hypponen，Google软件安全工程师Chris Palmer等人。
+➜联想重启IBM x86服务器业务收购谈判
+https://www.solidot.org/story?sid=38105	17280
+《华尔街日报》援引知情人士的消息称，联想正就收购IBM的低端x86服务器业务<a target="_blank" href="http://cn.wsj.com/gb/20140121/tec120216.asp"><u>再次展开谈判</u></a>。去年双方由于估值问题而致使谈判破裂。知情人士说，IBM将x86服务器业务全部或部分出售给联想的谈判去年春天已处于最后阶段，但由于双方没有谈拢价格，导致谈判破裂。另一位知情人士当时说，联想对该业务的估值不足25亿美元。联想周二发表<a target="_blank" href="http://cn.wsj.com/gb/20140121/tec084521.asp"><u>声明</u></a>说，正就一项潜在收购进行谈判。有消息称交易可能会在一周内达成。但这笔交易可能会再次面临障碍：中国公司投资于涉及关键技术或国家安全的美国公司可能会面临美国监管机构的审查。
+➜Google移除嵌入广告软件的Chrome扩展
+https://www.solidot.org/story?sid=38106	25860
+在媒体曝光Chrome扩展被第三方收购嵌入广告软件之后，Google从Web商店<a target="_blank" href="http://blogs.wsj.com/digits/2014/01/19/google-removes-two-chrome-extensions-amid-ad-uproar/"><u>移除了</u></a>媒体报道提及的两个扩展：Add to Feedly和Tweet This Page。Google去年12月<a href="http://blog.chromium.org/2013/12/keeping-chrome-extensions-simple.html"><u>更新了</u></a>扩展管理政策，禁止扩展在一个页面的多个位置嵌入广告。但这没有阻止广告软件公司接触流行扩展的开发者，提议收购或合作。在Add to Feedly和Tweet This Page被未知第三方收购和嵌入广告软件之后，其他扩展开发者也承认他们收到了类似的报价。有一百多万用户的 Hover Zoom扩展开发者Romain Vallet去年<a target="_blank" href="https://code.google.com/p/hoverzoom/issues/detail?id=489#c26"><u>透露</u></a>，他收到了许多公司的收购报价或植入广告脚本的合作提议。有约30万用户的扩展Honey开发者<a target="_blank" href="http://www.reddit.com/r/IAmA/comments/1vjj51/i_am_one_of_the_developers_of_a_popular_chrome/"><u>谈论了他们的经历</u></a>：过去一年，恶意软件公司接触他们试图收购扩展，数据收集公司试图购买用户数据，而广告软件公司则提议与他们合作。这个问题不仅仅发生在Chrome上，Firefox也发生过类似的问题：一个叫Autocopy的扩展被Wips.com收购，然后加入了跟踪用户浏览习惯的代码。
+➜King获得糖果商标，要求其他人去掉糖果
+https://www.solidot.org/story?sid=38107	27775
+益智游戏Candy Crush Saga（糖果粉碎传奇）的开发商King.com Limited刚刚获得了<a target="_blank" href="http://www.trademarkia.com/candy-85842584.html"><u>Candy</u></a>商标，随后以侵犯商标权为由<a target="_blank" href="http://www.gamezebo.com/news/2014/01/20/king-has-trademarked-word-candy-and-youre-probably-infringing"><u>开始要求</u></a>其它名字中包含Candy的应用程序更名。此事引发了<a target="_blank" href="http://www.reddit.com/r/technology/comments/1vpajk/socandy_crush_has_trademarked_the_word_candy/"><u>争议</u></a>，认为Candy是常用名词，而且Candy只是游戏名字Candy Crush Saga的一部分，并非像Apple和Windows是完整名字，本不应该被授予商标。
+➜特斯拉汽车用OTA推送修复电动车问题
+https://www.solidot.org/story?sid=38108	29648
+因为存在起火隐患，特斯拉汽车和通用汽车各自宣布召回一款汽车。两款汽车的问题都可以通过软件更新修复，然而通用汽车的客户必须将受影响型号送到当地经销商更新软件，而特斯拉汽车通过OTA（Over-the-Air）推送更新<a target="_blank" href="http://www.technologyreview.com/view/523621/tesla-motors-over-the-air-repairs-are-the-way-forward/"><u>已经修复了所有受影响汽车</u></a>。特斯拉Tesla Model S电动车的起火隐患与充电器插座过热有关，更新后的软件只需要在检测到充电问题后降低充电率，就能避免过热。受影响的29222辆汽车已经通过无线网络推送了更新。特斯拉CEO Elon Musk说，这次修复其实不应该叫召回，称召回这个词需要被召回。这不是第一次特斯拉利用无线软件更新系统解决问题和增强性能。<br>
+➜微软付钱给上传Xbox One视频内容的YouTube用户
+https://www.solidot.org/story?sid=38109	32803
+<div align="center"><img src="http://img.solidot.com.cn/0/999/li30h4FRWMWYQ.png" align="" height="224" width="360"><br>
+<br>
+</div>
+微软和Machinima<a target="_blank" href="http://arstechnica.com/gaming/2014/01/stealth-marketing-microsoft-paying-youtubers-for-xbox-one-mentions/"><u>合作发起了Xbox One秘密宣传活动</u></a>：Machinima将向上传Xbox One视频内容的YouTube用户额外奖励3美元CPM（CPM代表每千次浏览量）。Machinima英国社区经理在Twitter推广了这个活动（如图），但帖子随后被删除。如果用户想获得额外的奖励，视频内容必须至少包括30秒的 Xbox One游戏片段，必须包括 Xbox One名字和标签XB1M13。在YouTube上搜索<a target="_blank" href="http://www.youtube.com/results?search_query=XB1M13"><u>XB1M13</u></a>，返回了约7000个结果。根据网上泄露的关于宣传活动的完整<a target="_blank" href="http://pastebin.com/vec6vjv5"><u>法律协议副本</u></a>，视频作者不能说一些负面或诋毁Machinima、Xbox One或相关游戏的话。<br>
+➜中国发生严重的根域解析故障
+https://www.solidot.org/story?sid=38110	34032
+今天下午3点20分左右，中国发生严重的<a target="_blank" href="http://tech.sina.com.cn/i/2014-01-21/16169115784.shtml"><u>根域解析故障</u></a>，所有域名的IP地址解析被错误指向了65.49.2.178这个地址，导致网站访问缓慢或无法访问。<a target="_blank" href="http://whatismyipaddress.com/ip/65.49.2.178"><u>65.49.2.178</u></a>属于代理软件UltraSurf的开发商Sophidea所有，不清楚为什么域名会被定向到Sophidea。有人怀疑防火墙在测试，因为解析故障仅发生在中国，“一位DNS技术专家解释说，这次的问题仅出现在中国，说明全球根服务器并未出现问题，问题很可能是国内网络运营商。”截至4点50左右，DNS解析才基本恢复正常。但由于DNS服务器缓存，部分用户可能还会受到影响。
+➜越南政府黑客对EFF雇员和记者发动钓鱼攻击
+https://www.solidot.org/story?sid=38111	35782
+电子前哨基金会（EFF）<a target="_blank" href="https://www.eff.org/deeplinks/2014/01/vietnamese-malware-gets-personal"><u>报告</u></a>，与越南政府有联系的黑客组织对EFF的两名雇员发动了钓鱼攻击。名叫Sinh Tử Lệnh的黑客组织此前曾攻击过越南异议人士和博主，如今则将攻击范围扩大到了美国，对准了曾批评越南政府的活动人士和记者。攻击者以国际乐施会的名义向两名EFF雇员发去邮件，邀请他们出席亚洲会议，邮件附带了两个看起来是 Google Drive上分享的会议信息链接，但链接实际上会在受害者电脑上安装恶意程序。
+➜日本官员为太地町海豚捕杀辩护
+https://www.solidot.org/story?sid=38112	38332
+日本和歌山县太地町一年一度的海豚狩猎季<a target="_blank" href="http://news.slashdot.org/story/14/01/20/1656211/200-dolphins-await-slaughter-in-japans-taiji-cove"><u>吸引了</u></a>全世界的目光：有大约500头海豚被赶入了海湾内进行围捕，其中有一些罕见的海豚种类，而企图逃跑的海豚则遭到了渔民的血腥驱赶。美国驻日大使卡罗琳·肯尼迪在Twitter上<a target="_blank" href="http://china.kyodonews.jp/news/2014/01/67556.html"><u>发帖</u></a>，对“围捕杀害海豚的非人道性”表示了担忧。但日本人对此反驳称，“捕鱼是当地居民生活的一部分”、“打猎也非常不人道”。太地町市长三轩一高称，<a target="_blank" href="http://edition.cnn.com/2014/01/20/world/asia/japan-dolphin-hunt/"><u>渔民有权行使捕鱼权</u></a>。他指控反捕鲸组织 Sea Shepherd利用海豚捕杀问题筹集资金和吸引关注。海豚狩猎季于周二结束，一位匿名的当地渔民说，只有不到100头海豚真正遭到捕杀或被抓住，其余将会被释放。
+➜中国污染飘至美国
+https://www.solidot.org/story?sid=38113	39800
+发表在PNAS上的一篇<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1312860111"><u>论文</u></a>（尚未对外发布）称，中国出口行业的肮脏排放物被卷携着飘过太平洋，<a target="_blank" href="http://cn.nytimes.com/science/20140121/c21pollution/"><u>对美国西部的空气造成了污染</u></a>。
+论文作者称，“把生产外包给中国并非总能让美国——在这一点上，北半球的许多国家均如此——消费者免受空气污染的环境影响。” 尽管美国制造业活动的减少的确意味着美国东部的空气更干净，但中国为美国市场生产商品所导致的空气污染物流动已经致使美国西部空气质量下降。
+“因为中国生产出口商品的工厂排放的氮氧化物和一氧化碳，洛杉矶每年烟雾超过联邦臭氧限制的天数至少多了一天。”利用一个名为GEOS-Chem的模型系统，这些科学家估计，2006年，因为面向美国的出口商品生产所导致的污染物转移到了美国，美国西部的硫酸盐浓度增加了多达2%，臭氧和一氧化碳的浓度也略有上升。
+➜中国要求实名上传视频
+https://www.solidot.org/story?sid=38114	40761
+国家新闻出版广电总局<a target="_blank" href="http://news.xinhuanet.com/zgjx/2014-01/21/c_133061382.htm"><u>下发通知</u></a>，个人向在线视频网站上传网络视听节目需要实名注册。通知称，互联网视听节目服务单位只能转发已核实真实身份信息并符合内容管理规定的个人上传的网络剧、微电影等网络视听节目，不得转发非实名用户上传的此类节目。新规旨在“防止内容低俗、格调低下、渲染暴力色情的网络视听节目对社会产生不良影响”，但很可能只是为了<a target="_blank" href="http://cn.reuters.com/article/CNTopGenNews/idCNCNEA1C30420140121"><u>加强监管</u></a>日益流行的网络视频。网友经常就中国社会问题在互联网上发表评论和批评言论，网络用户也常在此类网站上传一些记录官员和当局腐败、胡作非为、滥用权力的视频。
+➜中国科研投入将在十年内超过美国
+https://www.solidot.org/story?sid=38115	41188
+根据经合组织（OECD）公布的最新数据，中国的科研投入占GDP的比重<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=flat&amp;sid=37970"><u>超过欧盟</u></a>。 2012年中国投入国内生产总值的1.98％到科研中，比2011年同期经费投入增加了7.6%。相比之下，2012年欧盟28个成员国仅投入总经济产量的1.97%到科研当中，与2011年同期投入额相比，增长不到1%，并很可能在下一年度维持较低增长。中国在科研开支上仍然有很大进步空间，在绝对值上，远未达到欧盟的水平。在数额上，中国的科研经费只有欧盟同类开销的三分之二。数据显示，2012年，欧盟28国共投入3391亿美元至科研项目，中国的科研费用则约为2434亿美元。总部设在美国的巴特尔纪念研究所去年估计，中国今年的研发支出将增至2％。该项研究估计，到2018年中国可能超过34个欧洲国家对科研的总投入，<a target="_blank" href="http://www.nanzao.com/sc/china/20134/zhong-guo-ke-yan-tou-ru-zhan-gdpbai-fen-bi-chao-ou-meng"><u>并在2022年超过美国</u></a>。
+➜OpenBSD已收到10万美元捐赠
+https://www.solidot.org/story?sid=38116	43765
+<div align="center"><img src="http://img.solidot.com.cn/0/0/liheHkb3Ecek.jpg" align=""><br>
+</div>
+程序员 写道<i> "自从上周 OpenBSD 基金会成员 Bob Beck &nbsp;公开转发了 OpenBSD 因资金短缺而面临关闭的<a title="若再无资助，OpenBSD项目恐将停止" href="http://blog.jobbole.com/56637/" target="_blank" data-mce-href="http://blog.jobbole.com/56637/">求助信</a>之后，OpenBSD 的命运走向已在业界中引发大量关注。求助信曝光后，已有很多热心反馈信息。根据 Bob 昨天（20日）发在 OpenBSD 邮件列表中的<a href="http://marc.info/?l=openbsd-misc&amp;m=139024400731106" target="_blank">邮件</a>（<a href="http://blog.jobbole.com/56769/" target="_blank">中文</a>）来看，目前&nbsp;OpenBSD 开源项目已收到约 <a target="_blank" href="http://www.openbsdfoundation.org/campaign2104.html"><u>10 万美元</u></a>(2014年筹款目标15万美元)的捐赠（承诺）。</i>"
+➜Linus Torvalds说所有贡献者许可协议都有缺陷
+https://www.solidot.org/story?sid=38117	44792
+贡献者许可协议(Contributor License Agreement，简写CLA)是一套授予上游软件项目开发商额外权利的机制，不同开源项目和开源社区都有各自的一套CLA协议。内核开发者Matthew Garrett写了一篇文章<a target="_blank" href="http://mjg59.dreamwidth.org/29160.html"><u>指出</u></a>Canonical的CLA的缺陷，称Canonical的CLA要求贡献者许可Canonical在私有许可下重新授权他们贡献的代码，认为这不是广泛接受的CLA。内核作者Linus Torvalds认为没什么好争的，所有CLA都存在<a target="_blank" href="http://news.slashdot.org/story/14/01/20/2158221/linus-torvalds-any-cla-is-fundamentally-broken"><u>根本缺陷</u></a>，将Canonical的CLA挑出来抨击只是因为人们讨厌Canonical。
+➜研究质疑量子计算机的运算速度
+https://www.solidot.org/story?sid=38118	46289
+一项新的学术研究再次对商用量子计算机在某些情况下的性能提出了质疑。在研究人员设计的某些测试中，商用量子计算机的表现<a target="_blank" href="http://www.bbc.co.uk/news/science-environment-25787226"><u>并不比传统桌面电脑更快</u></a>。研究团队在D-Wave的1500万美元量子计算机和运行优化算法的普通电脑上测试随机的数学问题，没有找到量子计算机使用量子机制加快运算的证据。<a target="_blank" href="http://arxiv.org/abs/1401.2910"><u>论文</u></a>发表在预印本网站上，已递交到同行审议期刊。D-Wave对此解释说，科学家设定的测试不是量子计算机比经典计算机具有优势的问题类型。

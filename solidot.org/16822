@@ -1,0 +1,52 @@
+➜2015年是有气象记录以来最热的一年
+https://www.solidot.org/story?sid=46974	7604
+<a href="/~atlantishulin">atlantishulin</a> 写道 <i>"在持续的全球变暖和由2015年持续到现在的厄尔尼诺现象的共同作用下，NASA（美国宇航局）和NOAA（美国海洋和大气管理局）的科学家几乎可以肯定<a href="http://www.nasa.gov/press-release/nasa-noaa-analyses-reveal-record-shattering-global-warm-temperatures-in-2015" target="_blank">2015年是自1880年有气象数据记录以来最热的一年</a>。2015年全球平均温度较2014年上升了0.13摄氏度；而全球的平均气温自19世纪末叶上升了1摄氏度，这大部分是因为以二氧化碳为主的温室气体的排放和其它的人类活动。大部分的比较温暖的年份都发生在过去的35年里，而15个最热的年份就在过去的16年里。NASA和NOAA的数据来自于分布于全球的6,300多个气象站和船浮海水温度监测站。
+</i>
+<p><i>除此之外，英国和日本的研究机构分别独立的做出了2015年是有气象记录以来<a href="http://www.nytimes.com/2016/01/21/science/earth/2015-hottest-year-global-warming.html" target="_blank">最热一年</a>的结论。2015年，温暖在美国尤其明显，基本上密西西比河以东的州都经历一次创纪录的温暖的12月；但往常的年份，12月美国东海岸都伴随着大幅的降雪。
+"</i></p>
+➜Rust 1.6发布
+https://www.solidot.org/story?sid=46975	13717
+Rust编程语言项目<a target="_blank" href="http://blog.rust-lang.org/2016/01/21/Rust-1.6.html"><u>发布了v1.6</u></a>。Rust语言采用了类似浏览器的快速发布周期。Rust 1.6的最主要变化是libcore库稳定了。Rust语言的标准库有两层：一个较小的核心库libcore，以及一个完整标准库 libstd。libcore是一个平台无关库，仅仅需要一小部分外部字符去定义。libstd是基于libcore构建，加入内存分配、I/O和并发支持。使用Rust开发的嵌入式应用程序和操作系统底层程序通常不使用libstd，而只使用libcore。libcore稳定是Rust的一个重要里程碑，开发者现在可以用稳定版Rust去开发底层应用程序。
+➜美国部署先进网络战武器
+https://www.solidot.org/story?sid=46976	15869
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20160122/bgh101339.asp"><u>报道</u></a>，美国网络司令部司令Mike Rogers上将称，美军已经花了五年时间开发先进的网络武器和数字作战能力，可能很快会对这些武器和能力进行更为公开的部署。Rogers表示，美国决策者已大体上就何时可动用网络武器进行防御的交战规则达成一致。Rogers兼任NSA局长。对于何时应动用网络武器实施“攻击”，例如针对某个组织或外国发动攻击，目前仍无定论。Rogers称，可以说美国现在已处在转折点上。他表示，这些网络作战能力已开始上线，一些相当有形的能力已开始发挥作用。
+➜学生开发软件识别讽刺
+https://www.solidot.org/story?sid=46977	17520
+一组参加康奈尔大学科技挑战项目的学生开发出机器学习软件，尝试破解语言处理的最后疆域：<a target="_blank" href="http://arstechnica.com/information-technology/2016/01/snark-attack-cornell-students-teach-software-to-detect-sarcasm/#p3"><u>识别讽刺</u></a>。他们开发的软件叫<a target="_blank" href="https://github.com/kshreyas91/trueratr"><u>TrueRatr</u></a>，源代码托管在Github上，设计识别产品评论中的讽刺。彭博的Christopher Hong是学生们的导师，他的硕士论文主题就是研究讽刺检测。他说，每个人在某个点都会使用讽刺，有时候是为了中伤，有时则是相反，这几乎是人性的一部分。但讽刺很难定义。在Hong的研究中，他寻找某种“情绪转变”——在同一句话中同时使用负面和正面词。利用某种情感分析，他的系统识别精度达到了71%，比掷硬币好很多。
+➜甲骨文称Google的Android业务创造了310亿美元收入
+https://www.solidot.org/story?sid=46978	19645
+Google的Android业务如何创造收入？Google Play应用商店的销售收入只是很小一部分，Android业务的大部分收入被认为来自授权。不包含Google服务的Android开源平台AOSP是免费的，但中国之外销售的绝大部分Android设备都预装了Google服务，而Google服务需要授权才能预装，没人知道授权费用是多少，这是机密。现在，甲骨文的律师<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-01-21/google-s-android-generates-31-billion-revenue-oracle-says-ijor8hvt"><u>根据Google的机密内部财报称</u></a>， Google的Android业务创造了310亿美元收入和220亿美元利润。Google律师称，甲骨文律师不当披露了极度敏感的信息，它督促法官修订和密封上周听证会的部分公开文本。Google和甲骨文因为Java版权侵犯打了五年官司。
+➜Brendan Eich透露默认屏蔽广告的浏览器Brave，用自己的广告替代被屏蔽的广告
+https://www.solidot.org/story?sid=46979	27243
+Mozilla联合创始人、JavaScript语言作者Brendan Eich透露了<a target="_blank" href="http://arstechnica.com/business/2016/01/mozilla-co-founder-unveils-brave-a-web-browser-that-blocks-ads-by-default/"><u>一个商业模式受到争议的浏览器项目Brave</u></a>。Brave会默认屏蔽广告和跟踪脚本，然而以一种非侵入式的方式嵌入自己的广告替代被屏蔽的广告。<a target="_blank" href="https://github.com/brave/"><u>Brave</u></a>是一个开源浏览器，支持移动平台和Windows、Linux和OSX，它的 iOS版是基于 Firefox for iOS，PC版是基于Chromium，Android版是基于Bubble。Brave目前还没有公开的可执行版本，用户需要自己从GitHub下载源代码构建浏览器。Brave的受争议之处是自动屏蔽程序化的广告和跟踪 cookies，然后嵌入自己的程序化广告，Brave表示将会确保它的广告比原始广告有更少的侵略性或恶意性，将基于用户的浏览历史展示针对性广告。广告产生的收入Brave保留15%，55%分配给内容方，15%给广告供应商，剩下15%分配给用户。Brave还没有公开实际分配收益的具体细节。批评者认为Brave的模式类似恶意程序。
+➜Google修复内核0day漏洞，表示问题并不那么严重
+https://www.solidot.org/story?sid=46980	28161
+Linux内核前几天发现了<a target="_blank" href="http://www.solidot.org/story?sid=46947"><u>一个提权漏洞</u></a>，影响大量Android设备。由于Android设备系统的碎片化，以及错综复杂的OEM厂商、运营商渠道，基本上会有很大一部分受影响的设备得不得修正。Google已经为Android设备<a target="_blank" href="http://tech.slashdot.org/story/16/01/21/2326245/google-fixes-zero-day-kernel-flaw-says-effect-on-android-not-really-that-bad"><u>开发出了修复漏洞的补丁</u></a>，表示已经与设备制造商分享补丁，可能需要几周时间少数厂商会向用户推送补丁。但Google表示没关系，问题不太严重，受影响的设备有SELinux保护。只有少数较大的Android OEM厂商会向推送安全修正，很多Android设备购买之后你就得不到更新了。
+➜微软请求Node.js支持ChakraCore
+https://www.solidot.org/story?sid=46981	28679
+微软向Node.js项目递交了正式的<a target="_blank" href="https://github.com/nodejs/node/pull/4765"><u>pull request</u></a>，请求维护者允许将它的JS引擎ChakraCore作为V8引擎的替代。ChakraCore是微软 Edge浏览器JS引擎的开源版本，而Node.js一直是基于Google开发的V8引擎。微软是Node.js基金会的董事会成员。微软想在Node.js中加入ChakraCore支持的<a target="_blank" href="http://tech.slashdot.org/story/16/01/21/2331236/microsoft-asks-nodejs-to-allow-chakracore-edge-alongside-googles-v8-engine"><u>主要原因</u></a>是为了帮助物联网版的Windows 10在物联网设备运行JS应用程序。
+➜CNNIC称中国网民人数达到6.88亿
+https://www.solidot.org/story?sid=46982	31551
+网信办下属互联网络信息中心（CNNIC）今天<a target="_blank" href="http://www.cnnic.net.cn/gywm/xwzx/rdxw/2015/201601/t20160122_53283.htm"><u>发布了</u></a>第37次《<a target="_blank" href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/201601/P020160122469130059846.pdf"><u>中国互联网络发展状况统计报告</u></a>》（PDF）。报告称，截至2015年12月，中国网民人数达到6.88亿，互联网普及率超过50%。手机网民6.20亿，有90.1%的网民通过手机上网。只使用手机上网的网民达到1.27亿人，占整体网民规模的18.5%。截至2015年12月，中国域名总数为3102万，其中.CN域名总数为1636万，网站总数为
+423万个，.CN网站213万个，国际出口带宽为5,392,116 Mbps，年增长30.9%。但用户去年普遍反映国际出口受到很大限制。
+➜为什么我们至今没有发现外星人？因为他们都灭绝了
+https://www.solidot.org/story?sid=46983	32766
+宇宙有如此多的行星，有如此多的位于宜居带的岩石星球，为什么我们至今没有发现外星生命？这是费米提出的悖论。对此悖论的一种假说是“<a target="_blank" href="http://waitbutwhy.com/2014/05/fermi-paradox.html"><u>Great Filter（大过滤器</u></a>）”，该假说认为智能生命进化所需的条件是十分罕见的，在某个阶段，一堵墙或过滤器会阻止生命进一步演化。它们很可能在细菌阶段就停止演化了。澳大利亚国立大学的天体生物学家提出了一个修订版本：绝大部分生命在演化之路上进一步发展前就灭绝了。他们的<a target="_blank" href="http://adi.life/pubs/ChopraLineweaver2016.pdf"><u>论文</u></a>（PDF）发表在《Astrobiology》期刊上。<a target="_blank" href="http://www.cnet.com/news/why-havent-we-found-aliens-yet-maybe-theyre-all-dead/"><u>他们认为</u></a>，早期的生命是脆弱的，生命快速演化到足以生存的情况是罕见的。绝大部分早期行星不稳定，生命形式需要控制温室效应以确保行星表面温度稳定。他们将这一假说称为“Gaian Bottleneck（盖安瓶颈）”。
+➜找回手机应用再次将丢失手机定位到错误地址
+https://www.solidot.org/story?sid=46984	35371
+越来越多的手机开始预装找回手机（Find my phone）应用，让手机失主可以利用GPS定位识别丢失手机的位置。但找回手机功能未必有人们想象中的那么可靠。2013年，GPS定位故障将众多手机失主和警察<a target="_blank" href="http://www.solidot.org/story?sid=33138"><u>引到了一位拉斯维加斯居民的家门前</u></a>。现在，亚特兰大的一对夫妻<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/find-my-phone-apps-mistakenly-bring-dozens-of-people-to-this-house-in-atlanta/"><u>也经历了相同的遭遇</u></a>，他们不是手机窃贼，但愤怒的失主和警察却都相信手机在他们家中，他们甚至被警察命令呆在屋外，好让他们在屋内搜索一位年轻女孩丢失的手机。定位出错发生在不同运营商的手机上。分析人士认为可能是手机塔的三角定位问题，或者是使用了相同的有缺陷的Wi-Fi地理位置地图数据，或者是 GPS故障。
+➜如何向公众扩散无知
+https://www.solidot.org/story?sid=46985	36570
+1979年，烟草业秘密备忘录《<a target="_blank" href="https://industrydocuments.library.ucsf.edu/tobacco/docs/#id=psdw0147"><u>吸烟与健康建议</u></a>》（PDF）被公开，它揭露了大型烟草公司在对抗“反吸烟运动”时采取的诸多手段。<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/01/160120_vert_fut_spread-of-ignoranc"><u>其中的手段是传播无知</u></a>。斯坦福大学科学史专家<a target="_blank" href="http://web.stanford.edu/dept/HPS/proctor.html"><u>普罗克特(Robert Proctor</u></a>)为此创造了一门新学科：<a href="https://en.wikipedia.org/wiki/Agnotology"><u>比较无知学(agnotology)</u></a>，专门研究有意识地散播无知的各种手段。“我在研究实力雄厚的行业如何通过营造无知氛围来销售自己的产品。无知是一种力量……而比较无知学的研究对象就是故意营造这种无知的手段。”“研究比较无知学的过程中，我探索了这门学科的神秘世界，我认为历史学家应当给予这一领域更多的关注。” “无知不只是‘不知道’那么简单，这还是一种政治手段，是那些希望你‘不知道’的强大利益团体故意营造的一种效果。” 普罗克特说，无知往往可以打着平等辩论的幌子散播。例如人们普遍认为，倘若有两种相反的观点存在，那就通常无法得出合理的结论。烟草公司正是利用了这种现象，通过科学手段让他们的产品看起来无害。而如今否认气候变化的人也在采用同样的方式反对科学证据。另外一位研究无知的大卫·邓宁(David Dunning)警告，互联网对传播无知起到了推波助澜的作用——在互联网上，所有人都有机会成为自己的专家，因此便成了意图混淆视听的强大利益团体的猎物。
+➜加州议员提出手机加密后门法案
+https://www.solidot.org/story?sid=46986	39285
+在纽约议员提出法案要求智能手机供应商能按照执法的需要解密用户手机之后，加州议员Jim Cooper<a target="_blank" href="https://www.onthewire.io/california-bill-seeks-phone-crypto-backdoor/"><u>递交了类似的提案</u></a>，要求设备制造商和操作系统供应商如苹果、三星和Google能解密用户的设备。提案如果变成法律（通过参议院、众议院和州长的批准），将适用于2017年1月后在加州销售的智能手机，违反一次将被罚款2500美元。纽约议员的提案是为了反恐，而这位加州议员则是为了解决贩卖人口的问题。
+➜白宫和美国军方使用的设备发现后门账号
+https://www.solidot.org/story?sid=46987	40101
+白宫和美国军方使用的AMX（已被Harman Professional收购）设备固件发现了<a target="_blank" href="http://blog.sec-consult.com/2016/01/deliberately-hidden-backdoor-account-in.html"><u>一个秘密的后门账号</u></a>，允许攻击者控制受影响的设备。后门账号最早的名字是Black Widow（黑寡妇），但在安全研究人员报告给AMX后，该公司的雇员将名字修改为 "1MB@tMaN" —— I'm Batman（我是蝙蝠侠），好像漏洞已经堵上了。AMX花了十个月时间（第一次修改花了7个月，第二次修改花了3个月）才最终移除后门，该公司在<a target="_blank" href="http://news.softpedia.com/news/backdoor-found-in-devices-used-by-white-house-us-military-499239.shtml"><u>声明</u></a>中称，这两个账户只是被用于调试。
+➜一万年前的大屠杀
+https://www.solidot.org/story?sid=46988	44891
+肯尼亚的Nataruk曾在遥远的过去发生过<a target="_blank" href="http://arstechnica.com/science/2016/01/10000-year-old-mass-killing-is-still-a-mystery/"><u>一场战争或暴力冲突</u></a>，受害者的残骸和他们死亡时的姿势保存了一万年之久。这里发现了27具尸骨，21个成年人和6个孩子，一些人的骨骼里仍然插着石头武器，他们的头颅被钝器砸裂，一位怀孕的女性手脚被绑在一起，留在那里死去。他们的残骸是在2012年被发现的。古人类学家对于人类这个时期的战争所知不多，许多人认为战争是定居生活的结果，食物的囤积使得定居者容易成为目标。当时生活在这个地区的人都属于狩猎捕鱼部落，研究人员在《自然》上发表<a target="_blank" href="http://www.nature.com/nature/journal/v529/n7586/full/nature16477.html"><u>论文</u></a>，认为这场屠杀是人类历史上最早的战争记录之一，他们推测战争的起因可能是资源，有证据显示这个地区的人开始定居。屠杀可能是掠夺资源——领土、女性、孩子或食物——的结果，也可能两个部落之间的对抗。
+➜银行联盟成功测试比特币块链技术
+https://www.solidot.org/story?sid=46989	45789
+旨在将比特币块链技术带到金融行业的创业公司R3CEV成功在世界最大的11家金融机构中间<a target="_blank" href="https://thestack.com/cloud/2016/01/21/bank-consortium-r3cev-successfully-tests-bitcoin-tech-in-traditional-bank-transactions/"><u>完成了基于块链的交易测试</u></a>。块链是比特币的基础，又被称为分布式帐薄。测试是在一个使用微软Azure云服务的私有分布式帐薄上进行的，全球的参与者测试了实时金融交易，不再需要一个中心化的第三方票据交易所。参与测试的金融机构包括了巴克莱、蒙特利尔银行、瑞士信贷、澳洲联邦银行、汇丰、法国外贸银行、苏格兰皇家银行、道明银行、瑞银、意大利联合信贷和富国银行。

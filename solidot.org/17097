@@ -1,0 +1,21 @@
+➜雅虎的 open_nsfw 黄图检测系统同样可以制作黄图
+https://www.solidot.org/story?sid=50095	10533
+匿名读者写道 <i>"
+还记得 Google 用 CNN 合成图像的&nbsp;<a href="https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html" target="_blank">Deep Dream</a>&nbsp;吗？GitHub 上的 <a href="http://gabgoh.github.io/" target="_blank">gabgoh</a> 对于 <a href="http://www.solidot.org/story?mode=thread&amp;sid=49865" target="_blank">Yahoo 的 open_nsfw</a>&nbsp;自然而然地动起了同样的脑筋——<a href="https://open_nsfw.gitlab.io/" target="_blank">用黄图识别程序合成黄图</a>（警告：链接含有近似色情图片）。和 Deep Dream 相似，生成黄图的过程涉及映射梯度下降（<a href="http://www.evolvingai.org/synthesizing" target="_blank">Nguyen 等.</a>），目的是最大化 NSFW 分数。
+<p></p>
+作者还尝试了合成系统不认为是黄图的图片，发现结果都是一些自然风景。这可能是<a href="https://news.ycombinator.com/item?id=12756462" target="_blank">训练数据中存在的些许倾向</a>所致。"</i>
+➜DirtyCow( [脏|污] 牛)带给内核社区的反思
+https://www.solidot.org/story?sid=50096	34496
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道<i> "编号为<a href="http://www.solidot.org/story?sid=50068" target="_blank">CVE-2016-5195的漏洞在Linux内核社区修复完成后</a>的故事并没有结束，72小时内公开的可作<a href="https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs" target="_blank">非稳定漏洞利用的PoC已经有9个</a>，如果是标准版本的内核，写/proc/pid/mem，vDSO(部分版本）以及常规ptrace()方法都可以直接利用，<a href="https://grsecurity.net/" target="_blank">PaX/Grsecurity内核</a>对于<a href="https://github.com/dirtycow/dirtycow.github.io/blob/master/pokemon.c" target="_blank">这个PoC</a>也难以防御，针对ptrace/madvise做<a href="https://github.com/subgraph/oz/wiki/Oz-Seccomp" target="_blank">seccomp的规则</a>虽然可以减缓攻击进度，但带来性能开销的同时也不能一劳永逸的解决这个问题，如果没有RBAC的场景还是建议升级。这个漏洞在自由软件世界是比较罕见的，对GNU/Linux服务器构成巨大威胁和风险的同时也成为了<a href="http://www.solidot.org/story?sid=49607" target="_blank">Android root恶意代码链条</a>（包括root一键工具）以及IoT入侵的强大助攻，J<a href="https://lwn.net/Articles/704231/" target="_blank">onathan Corbet的文章</a>提到Linux内核社区对待安全的态度需要反思，这个严重漏洞的修复竟然是<a href="https://git.kernel.org/linus/63ae602cea637ee4a6490d940c0da5d78bd0bbe0" target="_blank">和cleanup的patch一起合并到主线</a>的，即使是<a href="https://git.kernel.org/linus/19be0eaffa3ac7d8eb6784ad9bdbc7d67ed8e619" target="_blank">单独的提交</a>也像往常一样并未提供更多的安全评估信息，这种不提供公开漏洞信息的做法是在1990年代用于防御脚本小子获得更多信息，后来Linux基金会的"客户"们并没有提出改变的意见所以一直沿用至今，但2016年的互联网环境和1990年代有着很大的区别，即使没有公开的漏洞信息攻击者可以凭着对代码提交的理解也可以<a href="https://rdot.org/forum/showthread.php?t=3341" target="_blank">打造出相应的漏洞利用</a>，或许在<a href="http://www.solidot.org/story?mode=thread&amp;sid=48323" target="_blank">Linux内核自防护项目</a>开始10个月后遇到了<a href="https://github.com/dirtycow/dirtycow.github.io/wiki/VulnerabilityDetails" target="_blank">DirtyCow</a>并不是件坏事，内核自防护项目尝试移植PaX/Grsecurity的一些特性终结掉Linus
+Torvlads的"<a href="http://yarchive.net/comp/linux/security_bugs.html" target="_blank">A bug is
+bug</a>"流派，而DirtyCow有望在生态上让Linux基金会的"客户"们向Linux内核社区施压，说不定会改变"<a href="https://lwn.net/Articles/109395/" target="_blank">security
+through
+obscurity</a>"的格局，毕竟今天是一个更开放的年代，个体更注重安全，GNU/Linux，Android和IoT的相关厂商都重度依赖于Linux的安全性，RedHat或者Linux基金会在安全方面想要一手遮天相比2002年还是困难很多。"</i>
+➜作家的开源写作工具
+https://www.solidot.org/story?sid=50097	42116
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道<i> "写作是现代社会的基本技能之一，有效的沟通无论对于工作还是家庭都是至关重要的。就小说家而言，字处理软件看起来足够好了。以前的作家靠的是打字机，而字处理软件就是今天的打字机。Linux平台上有出色的字处理软件如LibreOffice。但对于某些形式的写作如写小说来说，字处理软件并不是理想的工具。用字处理软件写小说可能是一场灾难，相当于从打字机后退了一步。因为字处理软件会对写作产生严重的干扰和分心。小说作者需要的是能帮助他们专注于内容、
+章节、场景、结构、位置和角色等方面的软件。Linux平台当然也存在此类<a href="http://www.linuxlinks.com/article/20161016092856619/Novelists.html" target="_blank"><u>帮助作家的优秀写作软件</u></a>，如<a href="https://gottcode.org/focuswriter/"><u>FocusWriter</u></a>、<a href="http://www.calmlywriter.com/" target="_blank"><u>Calmly Writer</u></a>、<a href="http://sourceforge.net/projects/plume-creator/" target="_blank"><u>Plume Creator</u></a>、<a href="http://bibisco.com/" target="_blank"><u>Bibisco</u></a>等等。
+"</i>
+➜Dyn称攻击者使用了上千万不同IP地址
+https://www.solidot.org/story?sid=50098	49920
+提供DNS服务的Dyn本周五<a href="http://www.solidot.org/story?sid=50094" target="_blank"><u>遭到了</u></a>DDoS攻击，导致了大量网站的访问出现问题。Dyn的首席战略官Kyle York在官方博客上公布了<a href="http://dyn.com/blog/dyn-statement-on-10212016-ddos-attack/" target="_blank"><u>此次事件的初步调查报告</u></a>。York称攻击者对Dyn的服务发动了多波攻击：第一波始于周五美国东部时间7:00 am 左右，它一开始以为是普通的DDoS攻击但很快意识到不是，Dyn位于美国东海岸的服务瘫痪了大约2小时；在中午前，第二波攻击开始，这一次的攻击不只是针对了它位于美国东海岸的服务器，Dyn用了大约一个小时恢复了服务；第三波攻击则没有给客户造成影响。York称攻击者动用了千万级的不同IP地址，攻击源仍然在调查中，其中一个源头是Mirai僵尸网络。他称这次DDoS攻击是历史性的。

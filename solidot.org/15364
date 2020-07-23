@@ -1,0 +1,42 @@
+➜土耳其黑客宣布将对法国发动网络袭击
+https://www.solidot.org/story?sid=28011	23520
+<a href="https://twitter.com/calvinkevins">kevin.van</a> 写道 <i>"土耳其黑客<a href="http://www.dw-world.de/dw/article/0,,15686832,00.html">宣布</a>将对法国发动网络袭击. 土耳其黑客宣布，由于对法国通过的“种族屠杀法案”表示强烈不满，将会在互联网上对法国发动“袭击”。法国《自由报》报道说，这家黑客组织在一封电子邮件里写道，他们会把法国政府机构和银行系统的网站当作袭击目标。上个月法国国会通过一项法案，对否认获得法律承认的亚美尼亚大屠杀行为的人处以一年监禁和4.5万欧元的罚款。"</i>
+➜Google的SPDY将可能包含在下一代HTTP标准中
+https://www.solidot.org/story?sid=28012	28800
+Google的SPDY协议<a href="http://arstechnica.com/business/news/2012/01/google-takes-on-internet-standards-with-tcp-proposals-spdy-standardization.ars">将可能包含</a>在下一代HTTP标准中。<i>
+<a href="http://googlecode.blogspot.com/2012/01/lets-make-tcp-faster.html">SPDY</a>设计目标旨在减少客户机和服务器之间的延迟。当数据经过TCP连接传输，发送端必须先等待接收方确认之后才能发送数据。接受和确认所需的时间是由往返时间（Round-Trip Time）控制。客户端和服务器端可能要将大部分时间花在确认上，而不是数据传输上。通过使用头压缩、包优先级，和复用等，SPDY能减少网页载入时间。HTTP工作组的主席Mark Nottingham<a href="http://lists.w3.org/Archives/Public/ietf-http-wg/2012JanMar/0098.html">呼吁</a>应该将SPDY包含在下一代HTTP/2.0标准中。
+</i>
+➜北京核反应堆实验炉据报曾发生事故
+https://www.solidot.org/story?sid=28013	30000
+日本《产经新闻》<a href="http://sankei.jp.msn.com/world/news/120125/chn12012507190001-n1.htm">报道</a>，北京郊外的一座核反应堆去年10月发生事故停止运营，<a href="http://inews.mingpao.com/htm/INews/20120125/ca31201p.htm">但政府至今没有公布事故原因</a>。<i>
+日本原子能研究开发机构的调查显示，中国北京郊外的一座核反应堆实验炉（CEFR）在去年10月，曾因为发电机所在的建筑物内发生事故，实验炉停止了运营。事故原因不明，中国政府至今没有公布这一事态。这座核反应堆由俄罗斯制造，去年7月刚刚开始发电，与日本福井核电站所使用的核反应堆一样，属于高速增殖原型炉，使用浓缩铀作为燃料。</i>
+➜GDB 7.4发布
+https://www.solidot.org/story?sid=28014	30720
+GNU调试工具GNU Debugger<a href="https://lwn.net/Articles/476946/#Comments">发布了</a> <a href="ftp://ftp.gnu.org/gnu/gdb">7.4版</a>。GDB是一种源代码级调试器，支持Ada、C、C++、Objective-C、
+Pascal等语言，支持数十种处理器架构。GDB 7.4主要新特性包括：支持德州仪器的TMS320C6x，Renesas RL78模拟器，改进了多个Python脚本，新增多个调试指令和选项，等等。
+➜美国宪法第五修正案并不能保护加密硬盘
+https://www.solidot.org/story?sid=28015	38520
+美国宪法第五修正案保护被告的缄默权利，他们无需被迫自证其罪。但如果现有证据证明有罪，那么是否能强迫被告公开其它证据呢？<a href="http://news.cnet.com/8301-31921_3-57364330-281/judge-americans-can-be-forced-to-decrypt-their-laptops/">法官判决可以</a>。<i>
+科罗拉多女子Ramona Fricosu是一起抵押诈骗案件的被告，她的笔记本硬盘使用PGP加密。警方记录了Fricosu与其丈夫的电话录音，其中她承认拥有笔记本，并提及有犯罪材料储存在电脑上。联邦法官Robert Blackburn裁决她需要解密硬盘，公开能证明她有罪的材料，认为这满足第五修正案中关于强迫披露的要求。Fricosu的律师表示将会上诉。</i>
+➜Kelihos僵尸网络作者之一为杀毒软件公司工作
+https://www.solidot.org/story?sid=28016	39900
+四个月前，微软和卡巴斯基联手关闭了每天能发送36亿封垃圾邮件的Kelihos僵尸网络。根据微软的起诉书，恶意程序作者之一<a href="http://arstechnica.com/business/news/2012/01/kelihos-botnet-creator-worked-for-antivirus-company-microsoft-says.ars">曾为俄罗斯的安全公司工作</a>。<i>
+俄罗斯圣彼得堡居民Andrey N.Sabelnikov是第一位被控开发和直接控制Kelihos的犯罪嫌疑人，微软<a href="http://blogs.technet.com/b/microsoft_blog/archive/2012/01/23/microsoft-names-new-defendant-in-kelihos-case.aspx">认为</a>有超过20人参与运作Kelihos。根据他的<a href="http://www.linkedin.com/profile/view?id=162107379">LinkedIn</a>页面信息，Sabelnikov目前是软件开发和咨询公司的一位自由职业者，2005年到2008年之间是杀毒软件供应商Agnitum的开发者和产品经理，2008年到2011年是另一家安全公司Returnil的首席工程师。Sabelnikov被发现参与开发Kelihos缘于一位安全研究员获得了一份Kelihos源代码的拷贝，发现了从域名sabelnikov.net下载Kelihos安装程序的调试代码，sabelnikov.net是Sabelnikov注册的摄影网站。
+</i>
+➜俄罗斯科学家声称在金星发现生命
+https://www.solidot.org/story?sid=28017	41400
+俄罗斯太空研究学院天文学家Leonid Ksanfomaliti宣称发现了金星上<a href="http://news.yahoo.com/russian-scientist-claims-signs-life-spotted-venus-070321311.html">存在生命的证据</a>。<i>
+Ksanfomaliti分析了1982年俄罗斯登陆金星的探测器发回的照片，声称找到的生命迹象。他称，照片中出现的目标类似“磁盘”、“黑叶（black flap）”和“蝎子”。金星大小接近地球，有一层厚厚的大气层，主要成分是二氧化碳。大气压是地球的92倍，表面火山密布，表面温度894度，一向不被认为可能存在生命。
+</i>
+➜心灵学家宣称阿波罗16号宇航员发现外星飞船
+https://www.solidot.org/story?sid=28018	44700
+阴谋论者宣称NASA从没有登上过月球，而心灵学家却指控NASA掩盖了发现外星人的证据。他们的证据是“遥视”——即通过思想感知远方的外星人。<i>
+一家名叫Transception Incorporated的心灵学组织向NASA局长博尔登（Charles Bolden）<a href="http://www.txception.com/A16_Rec_CSPH.pdf">寄去信函</a>，提名阿波罗16号宇航员<a href="http://news.discovery.com/space/psychic-viewers-say-apollo-16-astronauts-found-alien-spaceship-120124.html">获国会太空荣誉勋章</a>——因为该组织的六名心灵学专家通过<a href="http://www.scientificexploration.org/journal/jse_10_1_puthoff.pdf">遥视</a>看到他们发现了外星人坠毁的飞船，以及外星人和生物科技技术，这是人类史上与外星人第一次相遇。阿波罗16号宇航员在1972年登陆月球，是人类第五次登月。根据NASA的<a href="http://www.hq.nasa.gov/alsj/a16/a16.html">存档</a>，宇航员在对话中只提到了岩石，并无外星人。月球勘测轨道器拍摄的<a href="http://www.nasa.gov/mission_pages/LRO/multimedia/lroimages/lroc-20100708-apollo16.html">阿波罗16号</a>登陆地点高清照片。
+</i>
+➜苹果花了一亿多美元起诉Android制造商
+https://www.solidot.org/story?sid=28019	50040
+与Android之间的“核战”<a href="http://apple.slashdot.org/story/12/01/24/2030222/apple-has-spent-more-than-100-million-suing-android-manufacturers">让苹果花了一亿多美元</a>，其中相当大一部分是花在起诉Android制造商HTC上。至今为止，苹果在世界各地向三星、HTC等公司发起了84项专利侵权诉讼，只有10项诉讼被裁决确实侵犯苹果的软件专利和设计专利，但其中9项Android制造商可通过软件更新和修改设计绕过侵权，也就是说只有一项起诉结果让苹果称心如意。
+➜吴英案引发激烈辩论
+https://www.solidot.org/story?sid=28020	53520
+上周浙江高级法院维持了<a href="__SLASHLINK__" sect="society" sid="12/01/19/1348253" sn="article" tid="129">吴英案死刑判决</a>，这项经济纠纷案件因所谓“情节特别严”判处昔日<a href="http://blogs.wsj.com/chinarealtime/2012/01/20/debate-rages-in-china-as-death-sentence-upheld-for-young-tycoon/?mod=WSJBlog">第六富有</a>的女性死刑而<a href="http://www.voanews.com/chinese/news/20120123-uncut-news-137879188.html">引发了广泛争议</a>。<i>
+法学博士滕彪<a href="http://tengbiao2.blog.163.com/blog/static/134631008201202495054293/">认为</a>吴英并未“集资诈骗”：吴英从2006年介入民间借贷、铜期货等交易，创建本色集团，从11位债权人借款7.7亿元。这位11个债权人都否认自己被骗，没有提起诉讼，吴英与11位债权人均为朋友或固定合作伙伴，连“非法吸收公众存款罪”都够不上。他认为此案是靠重刑乃至死刑来维系金融垄断特权。法院判吴英死刑所依照的法律条例也被认为难以界定“故意诈骗”；还有学者就此呼吁废除死刑。</i>

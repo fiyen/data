@@ -1,0 +1,69 @@
+➜VPN服务商因新法律退出俄罗斯
+https://www.solidot.org/story?sid=48918	11935
+俄罗斯的新法律强制要求所有互联网服务商记录俄罗斯网络流量最长一年时间，VPN服务商Private Internet Access<a target="_blank" href="https://www.privateinternetaccess.com/forum/discussion/21779/we-are-removing-our-russian-presence"><u>宣布退出俄罗斯</u></a>。俄罗斯当局在没有通知和任何正当程序的情况下扣押了它位于俄罗斯的多台服务器，Private Internet Access认为原因在于它不记录日志。因为没有记录流量日志或会话数据，俄罗斯的行动没有影响到它的用户。Private Internet Access宣布终止在俄罗斯的所有业务，它同时宣布强化加密配置，加入了对加密算法如AES-256、SHA-256和RSA-4096的支持。随着新法律的签署，俄罗斯总统普京<a target="_blank" href="http://gawker.com/putin-is-literally-breaking-the-internet-1783293408"><u>下令</u></a>联邦安全局在两周内拿出加密所有俄罗斯互联网数据的密钥。
+➜Firefox 48将首次整合Rust代码
+https://www.solidot.org/story?sid=48919	13692
+Rust是Mozilla主导开发的专注于安全、速度和并发的系统级编程语言，至今已开发了将近7年时间，最近刚刚发布1.10版本。Rust语言旨在提高系统程序员的生产力，让关键任务软件更不容易出现内存利用漏洞，并发算法更容易驾驭。Mozilla宣布了在其产品中使用Rust的计划：<a target="_blank" href="https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/"><u>Firefox 48桌面版本将整合第一个Rust编写的组件</u></a>。Firefox的最新版本是47，Firefox 48将在2周内发布。Firefox将使用的第一个Rust组件是<a target="_blank" href="https://github.com/mozilla/mp4parse-rust"><u>媒体解析器</u></a>，由Ralph Giles和Matthew Gregan开发。
+➜Linus Torvalds因内核注解标点格式发飙
+https://www.solidot.org/story?sid=48920	16641
+Linus Torvalds在Linux内核邮件开发者列表上<a target="_blank" href="http://lkml.iu.edu/hypermail/linux/kernel/1607.1/00627.html"><u>再次发飙</u></a>，将部分程序员偏爱的代码注解标点格式称为“脑残”。他强烈反对的注解格式类似：<i>
+/* This is disgusting drug-induced<br>
+* crap, and should die<br>
+*/<br>
+</i>和<i>
+/* This is also very nasty<br>
+* and visually unbalanced */</i>
+他个人支持的格式类似：<i>
+/* This is a comment */</i>
+和<i>
+/*<br>
+* This is also a comment, but it can now be cleanly<br>
+* split over multiple lines<br>
+*/</i>
+➜长颈鹿的长脖更可能是性选择结果
+https://www.solidot.org/story?sid=48921	18629
+长颈鹿长颈是自然选择的结果，这种选择最初被认为是有利于生存，能吃到其它动物够不到的植物。但如今大部分科学家认为，长颈是雄性之间<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_earth/2016/07/160712_vert_earth_giraffes-did-not-evolve-long-necks-to-reach-tall-trees"><u>为了争夺雌性配偶而激烈竞争的产物</u></a>。动物学家Robert Simmons和 Lue Scheepers在发表在《美国博物学家》期刊的<a target="_blank" href="http://www.jstor.org/stable/2463405"><u>论文</u></a>中写到：“大体上，在干旱的季节里，长颈鹿都是从较低的灌木丛中，而非高大的树上进食。”长颈鹿最常以弯曲脖子的姿态进食，这样做使它们吃得更快，他们提出了一种替代性假说：长脖子是性选择的结果。 第一项证据是长颈鹿雄雌之间有着显著的差异。雄性颈部和头部尺寸大小上都远超过雌性。这强有力地表明了性选择可能在其中发挥了作用。雄性常常为了获得雌性的青睐而展开争斗。有证据表明，雌性更青睐体型较大的雄性的求爱。所有这些都表明，长颈鹿异于寻常的脖子与进食之间的关系可能很小，更多的是与性相关。
+➜Niantic澄清Pokémon GO并不能阅读你的邮件
+https://www.solidot.org/story?sid=48922	19570
+iOS版的Pokemon Go被发现要求完整访问用户的Google账号，引发了<a target="_blank" href="http://www.solidot.org/story?sid=48903"><u>隐私方面的担忧</u></a>。开发商 Niantic及Google技术支持立即<a target="_blank" href="https://games.slashdot.org/story/16/07/12/1123200/pokemon-go-was-never-able-to-read-your-email"><u>澄清</u></a>，Pokemon Go并不能阅读你的邮件，它只要求你的基本账户信息——也就是用户ID和电子邮件地址。Google技术支持称，完整访问Google账号并不意味着第三方能阅读和发送邮件，以及访问文档，而是只能访问个人账户简介如电邮地址和电话号码。Niantic也发表<a target="_blank" href="https://support.pokemongo.nianticlabs.com/hc/en-us/articles/222648408-Permissions-update">声明</a>称，它正在着手修正客户端，使其只请求访问基本的账号信息。Niantic称，Google将减少Pokémon GO 的访问权限，用户无需采取任何动作。<br>
+➜移民家庭儿童的肥胖率低于常住居民家庭
+https://www.solidot.org/story?sid=48923	27367
+在西方国家，来自更富裕、受过更多教育的社会阶层的儿童倾向于比更低收入家庭的儿童更健壮和苗条。但研究人员在中国发现了<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-07/aaft-ccm071116.php"><u>相反的趋势</u></a>。根据发表在《BMC Public Health》期刊上的<a target="_blank" href="http://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3171-1"><u>一项研究报告</u></a>，伯明翰大学的研究人员和广州疾病预防控制中心合作研究了广州市5到12岁之间的9917名儿童。结果发现，常住居民儿童的肥胖率是20%，移民家庭儿童是14.3%。移民如今构成了中国大型城市人口的至多50%。通常他们倾向于比城市常住居民有更低的收入和教育水平。伯明翰大学教授Peymané Adab说：在广州的男孩和女孩中间观察到的肥胖增加与在发达国家观察到的相反，可能是由于中国目前的经济发展阶段。
+➜NASA朱诺号探测器发回木星照片
+https://www.solidot.org/story?sid=48924	28687
+<div align="center"><img src="http://img.solidot.org/0/728/li40wrlthrsV2.jpg" height="239" align="" width="450"><br>
+<br>
+</div>
+NASA公布了朱诺号探测器发回的<a target="_blank" href="http://www.nasa.gov/feature/jpl/nasa-s-juno-spacecraft-sends-first-in-orbit-view"><u>第一幅从木星轨道上拍摄的照片</u></a>。朱诺号于2011年8月5日发射，今年7月5日进入木星轨道。照片拍摄的时间是7月10日，探测器当时距离木星430万公里。照片展示了木星的大气特征，其中包括著名的大红斑，以及木星四颗大卫星中的三颗，如图所示，从左到右分别是木卫一（Io）、木卫二（Europa）和木卫三（Ganymede）。朱诺号将在8月27日从近距离掠过木星时拍摄第一幅高清照片。
+➜Twitter增加GIF文件容量至15MB
+https://www.solidot.org/story?sid=48925	30862
+Twitter将GIF动画文件的最大容量从5MB<a target="_blank" href="http://arstechnica.com/business/2016/07/big-gifs-welcome-twitter-increases-maximum-gif-size-to-15mb-on-web/"><u>增加到15MB</u></a>，用户不用担心上传GIF时会看到容量超出限制的警告了。但有一个条件，你必须在电脑上上传GIF文件，通过手机上传GIF仍然受到5MB容量的限制。GIF动画和视频是今天社交网络的重要组成部分，GIF动画多数是视频转制而来，区别在于视频有声音，GIF没有声音。
+➜特斯拉证实第三起牵涉自动驾驶的车祸
+https://www.solidot.org/story?sid=48926	31779
+特斯拉<a target="_blank" href="http://www.ktvq.com/story/32427989/tesla-confirms-autopilot-crash-in-montana"><u>证实了第三起牵涉自动驾驶的车祸</u></a>。车祸没有造成人员伤亡，但撞到路边木桩的汽车严重受损。车祸发生时候汽车启用自动驾驶模式，车速在每小时55到60英里之间。特斯拉称，数据显示司机没有将手放在方向盘上。特斯拉称，在启用自动驾驶模式两分钟后方向盘没有探测到任何力。随着路况变得越来越不确定，汽车警告司机将手放在方向盘上，但司机没有这么做，不久之后车祸就发生了。特斯拉称，自动驾驶最好在有中夹分道的高速公路上使用。特斯拉自动驾驶功能的设计被认为<a target="_blank" href="https://news.ycombinator.com/item?id=12082893"><u>存在缺陷</u></a>：其它汽车制造商都有类似的自动驾驶功能，但不会像特斯拉那样允许司机长时间脱离方向盘，一旦司机的手从方向盘上移开几秒钟，车速就会缓慢降下来。
+➜本田公布第一款不使用重稀土元素的马达
+https://www.solidot.org/story?sid=48927	35012
+本田汽车宣布它的混合动力汽车马达在全世界<a target="_blank" href="http://world.honda.com/news/2016/4160712eng.html"><u>率先使用不依赖重稀土的高性能磁铁</u></a>。驱动混合动力汽车Honda FREED的马达使用的热形变钕磁铁不包含重稀土元素，但仍然具有高耐热属性和强磁性能。这款汽车将在秋季开始销售。钕磁铁在所有磁铁中具有最强的磁力，被广泛用于包括混合动力汽车在内的电动汽车。为了获得在高温环境下使用所需的高耐热属性，钕磁铁需要混合重稀土金属镝和铽。但众所周知，中国是最大的稀土金属供应国，几年前它开始限制稀土出口，引发了稀土供应危及。日本和美国开始寻找新的稀土供应来源——与名字中的“稀”意义相反，稀土金属并不稀缺，只是分布并不均匀，在中国开采比在其它国家开采更容易——同时致力于减少对稀土的依赖。
+➜Kim Dotcom计划重启Megaupload
+https://www.solidot.org/story?sid=48928	38939
+Kim Dotcom计划在2017年<a target="_blank" href="http://arstechnica.com/tech-policy/2016/07/kim-dotcom-to-reboot-megaupload/"><u>重启文件共享网站Megaupload</u></a>。五年前的2012年美国政府以助长盗版为由关闭了这家当时最流行的文件共享网站，扣押了 Dotcom的资产，并试图将 Dotcom从新西兰引渡到美国受审。在Megaupload的高峰期它有超过1.5亿用户，每日活跃访问用户超过5000万。 Dotcom通过其Twitter账户暗示，重启的Megaupload将支持比特币，先前的注册用户将能恢复他们的账户，并将拥有premium特权。这不是Dotcom第一次试图东山再起。他在2013年发布了云储存网站Mega.co.nz，但很快失去对网站的控制。
+➜Google和LinkedIn交换土地
+https://www.solidot.org/story?sid=48929	40097
+<div align="center"><img src="http://img.solidot.org/0/729/liEeyOykP0sD6.jpg" height="470" align="" width="560"><br>
+<br>
+</div>
+Google与LinkedIn<a target="_blank" href="http://arstechnica.com/gadgets/2016/07/google-and-linkedin-swap-real-estate-giving-google-space-for-its-new-hq/"><u>达成了一项交易</u></a>，互换办公场所和土地。如图所示，Google从LinkedIn手中获得LinkedIn在山景城的房产和土地，其中包括37万平方英尺的总部办公建筑以及一块计划变成办公场所的8英亩土地。而LinkedIn则移动数英里到目前由Google拥有的四个办公建筑，面积为75万平方英尺。LinkedIn的办公面积扩大了一倍，无需再花费数年时间去进行新的建筑项目。而Google则获得了更多空间去建造它设想的<a target="_blank" href="https://googleblog.blogspot.com/2015/02/rethinking-office-space.html"><u>新总部</u></a>。
+<br>
+<br>
+<center>
+<iframe src="https://www.youtube.com/embed/z3v4rIG8kQA" allowfullscreen="" frameborder="0" height="315" width="560"></iframe>
+</center>
+➜吸拇指咬指甲或许对儿童有益
+https://www.solidot.org/story?sid=48930	41546
+《纽约时报》<a target="_blank" href="http://well.blogs.nytimes.com/2016/07/11/do-dirty-habits-help-the-immune-system/?_r=1"><u>援引一项研究报道</u></a>，吸拇指咬指甲的儿童出现过敏症的概率更低。研究人员试图验证卫生假说——即早期生活暴露在病原体环境中对免疫系统的发育是有益的，而吸拇指咬指甲能让儿童直接接触细菌。当然《纽约时报》的说法是标题党，实际研究<a target="_blank" href="http://www.nhs.uk/news/2016/07July/Pages/Thumb-sucking-and-nail-biting-not-key-to-preventing-child-allergies.aspx"><u>并没有给出明确的答案</u></a>。研究人员询问了父母关于儿童吸拇指咬指甲的习惯，然后在他们13到32岁时进行皮肤过敏测试。<a target="_blank" href="http://pediatrics.aappublications.org/content/early/2016/07/07/peds.2016-0443"><u>结果显示</u></a>，38%有吸拇指或咬指甲习惯的儿童有皮肤过敏反应，无此类习惯的儿童是49%。从这一结果无法得出早期行为与过敏症之间的联系。
+➜文化部查处26个直播平台
+https://www.solidot.org/story?sid=48931	43967
+文化部<a target="_blank" href="http://www.nanzao.com/sc/national/155e259095780b3/wen-hua-bu-cha-chu-26-ge-zhi-bo-ping-tai-guo-wan-wang-luo-zhu-bo"><u>公布了</u></a>一份涉嫌违规表演的查处名单，包括23家网络文化经营单位的26个网络表演平台。在这之前，文化部下发了《关于加强网络表演管理工作的通知》。文化部称，此次集中清理，各大网络表演平台共关闭了4313间严重违规表演房间，整改15795间违规表演房间，解约1502名严重违规网络表演者，处理了16881名违规网络表演者。文化部还查处了武汉斗鱼网络科技有限公司、上海熊猫互娱文化有限公司、北京六间房科技有限公司等12家经营单位，指其提供含有宣扬淫秽、暴力、教唆犯罪和危害社会公德等违法违规内容，执法机构要求其立即整改，并且给予罚款、没收违法所得的处罚。而北京云太和网络科技有限公司、北京思享时光科技有限公司等11家经营单位未经许可，擅自从事网络表演等违法违规经营活动，这些公司也被要求立即整改。
+➜在45年后FBI终止对D.B. Cooper的调查
+https://www.solidot.org/story?sid=48932	46211
+1971年11月24日，名叫 Dan Cooper（媒体报道时错将名字写成<a target="_blank" href="https://zh.wikipedia.org/zh-cn/D%C2%B7B%C2%B7%E5%BA%AB%E6%9F%8F"><u>D.B.Cooper</u></a>，后来就将错就错了）的男子以携带炸弹为由劫持了一架从波特兰飞往西雅图的波音727客机，勒索20万美元赎金。在西雅图机场得到赎金及降落伞后，Dan Cooper 释放了所有乘客，但命令机组人员飞往墨西哥市。在起飞后不久，Dan Cooper使用降落伞跳下了飞机，着陆在太平洋西北部的某个地区。 Cooper从此销声匿迹，但在1980年曾发现过几札现金。FBI收集了所有的证据，访问了所有目击证人，但无法识别劫机者的身份。Cooper成为唯一没有受到任何司法惩罚的劫机犯。在案件发生45年后，<a target="_blank" href="http://www.oregonlive.com/pacific-northwest-news/index.ssf/2016/07/db_cooper_investigation_is_ove.html"><u>FBI终止了调查</u></a>。

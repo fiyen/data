@@ -1,0 +1,66 @@
+➜白天是BOSS，晚上是玩家
+https://www.solidot.org/story?sid=9209	600
+Computerworld采访了几位当今顶尖技术公司的执行官，询问了他们何时开始玩游戏，现在又在玩什么，他们在<a href="http://www.computerworld.com/action/article.do?command=printArticleBasic&amp;taxonomyName=Default&amp;articleId=9124143&amp;taxonomyId=0">虚拟世界中的技能又是如何转化到真实世界去的</a>。
+<i>
+Lee Congdon：Red Hat公司的CIO，第一款游戏是经典的<a href="http://en.wikipedia.org/wiki/Spacewar!">Spacewar</a>，当前是随机挑选一个Fedora发行版中自带的游戏，如<a href="http://upload.wikimedia.org/wikipedia/commons/4/49/Blobwars.png">Blob Wars</a>。他认为游戏提供了一个反复试验的环境，增加了人们改变方法的能力，给予人们机会去探索和创新有助于提高他们的适应性和反应能力，以及同时处理多个目标的能力。<br>
+Gareth Davis：Facebook平台程序主管，第一款游戏是<a href="http://arcadegamer.googlepages.com/SpaceInvadersPartII.jpg/SpaceInvadersPartII-full.jpg">Space Invaders</a>，现在是Facebook社交游戏和PS3。游戏让他知道如果提防最后的大Boss。<br>
+Mark Randall：Adobe Systems的首席战略官，第一款游戏是<a href="http://www.carobinson.com/games/ATARI%20-%20PONG%201973.JPG">Pong</a>，现在是PS3的《<a href="http://www.carobinson.com/games/ATARI%20-%20PONG%201973.JPG">LittleBigPlanet</a>》和PC上的《<a href="http://2dboy.com/games.php">World of Goo</a>》。他认识到眼花缭乱的技术有其局限性，简单而优雅的设计常更能成功。<br>
+Alan Cohen：思科公司负责企业方案的副总裁，第一款游戏是Pong和Space Invaders，现在Wii Sport和Rock Band 2。他认为游戏告诉你如何工作，如何竞争和合作。</i>
+➜软件生成的论文被IEEE会议接受
+https://www.solidot.org/story?sid=9210	2100
+化名为Herbert Schlangemann的科学家向IEEE<a href="http://entertainment.slashdot.org/article.pl?sid=08/12/23/2321242">递交</a>了一篇名为《<a href="http://ieeexplore.ieee.org/search/freesrchabstract.jsp?arnumber=4723109&amp;k2dockey=4723109@ieeecnfs">Towards the Simulation of E-commerce</a>》的论文，被成功的接受，现收录于IEEEXplor的数据库中（全文只供IEEE用户浏览）。<i>
+这篇由<a href="http://pdos.csail.mit.edu/scigen/">软件生成的论文</a>还被获准在2008年计算机科学和软件工程国际会议（CSSE）上进行讨论。根据组织者的介绍，CSSE是IEEE Computer Society主办的重要会议之一，主要为科学家和工程师提供一个论坛，讨论人工智能、网格计算、计算机图形学、数据库技术和软件工程的最新发展。更妙的是，这位根本不存在瑞典Umeå大学的Herbert Schlangemann博士还受邀作为<a href="http://www.highsci.org/cite2008Submission/website/cite/download/csse2008_program.pdf">会议的主持者之一</a>（假名Schlangemann来自Andreas Hansson和Björn Renberg拍摄的一部短片《<a href="http://en.wikipedia.org/wiki/Der_Schlangemann">Der Schlangemann</a>》）。</i>
+➜完美的中间人攻击
+https://www.solidot.org/story?sid=9211	6120
+Mozilla的Firefox 3浏览器中有一项功能是要求用户核查未知发行者的SSL证书。因为中间人（Man-In-The-Middle，简写MITM）攻击<a href="https://blog.startcom.org/?p=125">已被广泛使用</a>，Mozilla看似荒谬的做法可以阻止用户连接到错误网站和向攻击者透露宝贵的私人信息。<i>
+但最新的研究发现，信任的SSL证书也完全能<a href="https://blog.startcom.org/?p=145">被实施中间人攻击</a>。数字证书服务商Comodo公司的转售证书可以不经过任何检查就被使用，Mozilla的开发者用户组也在讨论<a href="http://groups.google.com/group/mozilla.dev.tech.crypto/browse_thread/thread/9c0cc829204487bf?pli=1">这一问题</a>。</i>
+➜Linux 2.6.28正式发布
+https://www.solidot.org/story?sid=9212	9120
+据称因在澳大利亚度假时被<a href="http://en.wikipedia.org/wiki/Little_penguin#Relationship_with_humans">动物园小企鹅咬伤</a>而选择企鹅作为Linux logo的Linus Torvalds在邮件列表上<a href="http://lkml.org/lkml/2008/12/18/435">表示</a>要在年度前<a href="http://www.internetnews.com/dev-news/article.php/3793371/Gifts+for+All+in+Linux+2628.htm">发布Linux 2.6.28</a>。<i>
+Linux 2.6.28将是2008年内发布的第五个kernel版本，新特性包括：<a href="http://en.wikipedia.org/wiki/Ext4">ext4</a>文件系统作为稳定版发布，无线USB驱动，更好的KVM支持，<a href="http://en.wikipedia.org/wiki/Graphics_Execution_Manager">Graphics Execution Manager</a>（GEM）显存管理器。Greg Kroah-Hartman称GEM将使Linux拥有更好的图形表现。Linux 2.6.28预示着Linux迎来新的视频时代。</i>
+Update：Linux 2.6.28已经<a href="http://lkml.org/lkml/2008/12/24/105">在24日正式发布</a>。
+➜无意识的大脑或许能做出最佳决定
+https://www.solidot.org/story?sid=9213	16320
+2002年，认知神经科学家<a href="http://en.wikipedia.org/wiki/Daniel_Kahneman">Daniel Kahneman</a>和<a href="http://en.wikipedia.org/wiki/Amos_Tversky">Amos Tversky</a>因为1979年的关于人类很难做出理智决策的研究而获得了诺贝尔经济学奖。自那时起，这已经成为认知研究人员的常识。根据发表在最新一期《神经元》杂志上的论文，Rochester大学大脑和认知科学副教授Alex Pouget指出，虽然大脑是一个有缺陷的决策者，但是人类确实能制定出最优方案——<a href="http://www.physorg.com/news149345120.html">不过是在大脑无意识的情况下</a>。
+<i>
+Pouget认为，人类的多数决定并不是基于有意识的推理。他称，一个概率决策系统有几大优势。最重要的是它允许我们在合理的时间内作出合理的决定。如果我们要等到99%的把握再去决定，那么我们将浪费掉许多不必要的时间积累数据。如果我们只需要51%的确定，那么我们不需要收集太多的数据就能作出决定。</i>
+➜盲人靠“盲视”导航
+https://www.solidot.org/story?sid=9214	18600
+代号为TN的男子因连续中风两次而双目失明，然而令人惊讶的是这位盲人不用拐杖就能够毫无困难的绕过路障，<a href="http://www.nature.com/news/2008/081222/full/news.2008.1328.html?s=news_rss">看起来他能利用大脑中的一个原始区域去察觉物体</a>。
+<i>
+56岁的TN居住在布隆迪，他在50多岁时在数周内连续两次中风，之后便全盲。但不同于其他盲人失去视力是因眼球受损、或遗传性视觉系统发育异常，TN的脑部及眼球仍健全，只是缺乏一个把两者相连、能显影出清晰影像的路径。TN还能对其他人的脸部表情做出反应，能感知他人的脸部表情，如喜悦、愤怒和恐惧。<a href="http://only-perception.blogspot.com/2008/12/blog-post_4064.html">这是一种被称为“盲视（blindsight）”现象</a>，盲视指人类脑部潜意识与生俱来感知外界物体的视觉系统能力。研究人员用脑部扫描和核磁共振检视受伤部位，均未发现脑皮层有视觉活动证据，也未发现像蝙蝠在夜间飞行的回声定位迹象。MIT的神经科学家赫尔德（Richard Held）说：“这是一种相对而言较为原始的视觉能力，不受纹状皮质受损的影响，但是它的神经路径与运作方式仍有待研究。”正常人或某些视觉贫弱动物，应也具备这种能力。论文发表在最新一期的《<a href="http://www.cell.com/current-biology/home">当代生物学</a>》杂志上。</i>
+➜Opera中国版(朱雀)Linux 版发布
+https://www.solidot.org/story?sid=9215	25200
+<a href="http://www.operachina.com/">Truth</a> 写道 "Opera 开发团队<a href="http://bbs.operachina.com/viewtopic.php?f=30&amp;t=37713">今天正式发布 Opera 中国版的 Linux 版本（亦称'朱雀'）</a>。此版本基于 Opera 9.63 Final；除了快速拨号特效，Linux 版本拥有其它 Windows 版朱雀的所有功能和美观的皮肤。对于 Linux 用户来讲，这个版本通过 font.ini 显著改善了对中文字体的显示，应该不会有一行中文字使用5-6种字体渲染的疯狂情景了（<a href="http://www.operachina.com/linux/">下载</a>，<a href="http://bbs.operachina.com/download/file.php?id=9701">Ubuntu 下截图</a>）。
+注：<i>
+Ubuntu 用户出现输入不畅请装 scim-qtimm 包。目前提供Ubuntu 8.04/8.10，Debian 4.0 (Etch)，Debian Testing (Lenny)，Debian Unstable (Sid)，openSUSE 10.3/11.0/11.1安装包。如果您愿意为其它发行版打包Opera中国版，请在Opera中国社区站内短信通知Thruth。谢谢。"</i>
+➜NASA与SpaceX和Orbital签署35亿美元的ISS补给合同
+https://www.solidot.org/story?sid=9216	26100
+NASA与两家私人太空公司签署了截至2016年的<a href="http://www.msnbc.msn.com/id/28371103/">价值35亿美元国际空间站（ISS）补给合同</a>。<i>
+其中<a href="http://www.spacex.com/">SpaceX</a>公司获得16亿美元合同，将使用其计划中的Dragon宇宙飞船和Falcon 9火箭进行12次发射。<a href="http://www.orbital.com/">Orbital</a>公司获得19亿美元合同，将用Cygnus宇宙飞船和Taurus 2火箭进行8次发射。这两种宇宙飞船仍然在设计中，更不要说试验发射了。但是两种发射载具已经建造中，都基于成熟的技术。NASA经常在航空航天公司的运输工具还没设计时就与其签署服务合同。</i>
+➜世界上最著名的无神论者也庆祝圣诞节
+https://www.solidot.org/story?sid=9217	28440
+科学家和无神论者Richard Dawkins承认<a href="http://www.dailymail.co.uk/debate/article-1100842/Why-I-celebrate-Christmas-worlds-famous-atheist.html">他也庆祝圣诞节</a>，每次过节也乐意唱传统圣诞颂歌。<i>
+这位作家兼进化生物学家告诉歌手Jarvis Cocker，他同样希望每个人都互相说“圣诞快乐”。Dawkins表示他的家庭每年都和其他家庭一样有典型的圣诞庆祝仪式，但他绝对的与圣诞老人划清界线。</i>
+➜中国首位面部移植手术接受者李国兴去世
+https://www.solidot.org/story?sid=9218	30240
+8月份我们曾提到西安第四军医大学实施了一次成功的<a href="__SLASHLINK__" sect="science" sid="08/08/26/0350206" sn="article" tid="19">换脸手术</a>，根据最新消息这位患者已经<a href="http://ryanpyle.blogspot.com/2008/12/face-transplant-recipient-confirmed.html">确认死亡</a>(没看到国内媒体的报道)。<i>
+《科学美国人》称，<a href="http://www.sciam.com/blog/60-second-science/post.cfm?id=chinese-face-transplant-recipient-h-2008-12-22">32岁的李国兴7月份在家中去世</a>，两年前他因为脸部被熊咬碎而接受了面部移植手术，成为中国首位换脸者。《科学美国人》指出，李是在用草药而不是传统的用于抵御器官排斥的免疫压制药物后逝世的。他的外科医生郭书中（Guo Shuzhong）告诉法新社，李的去世消息已在中国博客圈流传了几个月。郭坚持认为换脸手术是成功的，李的死亡与手术无关，但不排除死因与免疫系统药物有关。</i>
+➜澳大利亚网络过滤试验推迟
+https://www.solidot.org/story?sid=9219	33000
+反对者称，政府的强制性网络过滤试验推迟并不令人感到意外。<i>
+澳大利亚网络过滤试验本计划在12月24日启动，<a href="http://www.abc.net.au/news/stories/2008/12/24/2454789.htm">现在已经延期至2009年1月中旬</a>。两家ISP iiNet和OPTUS都表示他们没有听到关于申请参加试验的任何信息，怀疑政府能否满足其制定的最后期限。iiNet的COO称他仍然对过滤网络的计划持怀疑，表示公司参加试验是为了展示审查的不可行。</i>
+➜Twitter一天增加5千到1万新用户
+https://www.solidot.org/story?sid=9221	41520
+根据周二发表的一份研究报告，微博客服务Twitter一天增加<a href="http://www.physorg.com/news149310963.html">5千到1万新用户</a>，它的大多数用户都是在今年内加入的。
+<i>
+互联网营销公司<a href="http://twitter.com/hubspot">HubSpot</a>发布了《Twitter圈现状（<a href="http://blog.hubspot.com/blog/tabid/6307/bid/4439/State-of-the-Twittersphere-Q4-2008-Report.aspx">State of the Twittersphere</a>）》的报告，估计约400万到500万的Twitter用户中，70%是今年注册的，20%是过去60天内加入的。平均用户注册时间是275天。报告称，一年前Twitter是技术人员和Web 2.0 geek组成的小型社区，而现在它已经成为主流。HubSpot表示，35%的Twitter用户有10个或更少的跟随者（followers），一个Twitter用户的平均跟随者数目是70，平均follow69人。Twitter的流量周三和周四最高，周末会下降30%。</i>
+➜软件造文，IEEE收录
+https://www.solidot.org/story?sid=9220	41940
+<a href="mailto:yujanleeNO@SPAMgmail.com">yujanlee</a> 写道 "<a href="http://entertainment.slashdot.org/entertainment/08/12/23/2321242.shtml">Slashdot</a>和<a href="http://www.cnbeta.com/articles/73227.htm">cnBeta</a>提到，一篇用软件编造的论文<a href="http://ieeexplore.ieee.org/search/freesrchabstract.jsp?arnumber=4723109&amp;k2dockey=4723109@ieeecnfs">Towards the Simulation of E-commerce</a>已经出现在IEEEXplor中——只有IEEE会员能查看全文，被武汉大学主办的2008 International Conference on Computer Science and Software Engineering (CSSE)录用。更甚的是，编造的作者Herbert Schlangemann当选为该会议一个<a href="http://www.highsci.org/cite2008Submission/website/cite/download/csse2008_program.pdf">议题的主席</a>（该名字出自Andreas Hansson和Björn Renberg制作的短片Der Schlangemann）。<br> <br>
+组织者称，CSSE是由IEEE计算机学会赞助的，是一次盛会，是为人工智能、网格计算、计算机图像、数据库技术和软件工程的最新科学与工程的发展提供一个探讨的论坛。"
+➜“地出”40周年
+https://www.solidot.org/story?sid=9222	44400
+1968年12月24日，阿波罗8号的宇航员在月球轨道上拍摄了一张具有历史意义的<a href="http://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg">照片</a>——地球从月平线上升起，相对于日出它被称之为“<a href="http://zh.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E4%B8%8A%E5%8D%87">地出</a>”。
+<i>
+虽然在此之前，人造卫星已拍摄了许多壮观的地球画面，但是1968年的圣诞节前夕，阿波罗8号的宇航员目睹未预料到的“地出”之景象时，<a href="http://news.bbc.co.uk/2/hi/science/nature/7797439.stm">仍然要惊呼为奇迹</a>。NASA官网也制作了一个纪念<a href="http://www.nasa.gov/externalflash/apollo40/index.html">阿波罗8号40周年</a>的专题。</i>

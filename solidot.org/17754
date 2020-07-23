@@ -1,0 +1,15 @@
+➜Reddit 被屏蔽
+https://www.solidot.org/story?sid=57534	10686
+流行社交新闻和讨论平台 Reddit <a href="https://www.reddit.com/r/China/comments/9699tj/china_blocked_reddit/" target="_blank"><u>被屏蔽</u></a>，方法是 <a href="https://zh.greatfire.org/www.reddit.com" target="_blank"><u>DNS 污染</u></a>，DNS 服务器返回了错误的解析结果。屏蔽 Reddit 的原因未知。根据亚马逊旗下流量统计服务 Alexa 的<a href="https://www.alexa.com/topsites/countries/US" target="_blank"><u>数据</u></a>，Reddit 的访问量在美国排在第五位，在全世界排在第十八位。根据过去的经验，一旦被屏蔽，短时间内解除封锁的可能性非常小，过去只有少数工具性网站在屏蔽之后因为社交网络中的抗议而迅速解封，其中之一是代码共享平台 GitHub，即便是 GitHub，也曾经成为网络大炮的攻击对象。
+➜海盗湾诞生十五周年
+https://www.solidot.org/story?sid=57535	52181
+2003 年，一群黑客和反版权活动人士创办了文件共享网站海盗湾。它从一个小小的社区慢慢的成长为好莱坞的眼中钉。8 月 10 日是它的<a href="https://torrentfreak.com/the-pirate-bay-turns-15-years-old-180810/" target="_blank"><u>十五岁生日</u></a>。对于一直受到版权组织的压力，域名频繁被取缔，甚至联合创始人遭到过逮捕的网站来说，这是一个巨大的成就。海盗湾的确切上线时间有几分神秘，8 月 10 日是其创始人选择的纪念日。创办海盗湾的组织叫海盗署（Piratbyrnå），网站最早托管在墨西哥。使用 Gottfrid Svartholm aka Anakata 所在公司的一台服务器；几个月后迁移到瑞典， 使用 Fredrik Neij aka TiAMO 的一台机器。海盗署原打算让海盗湾成为瑞典的一个公共文件共享网络，但它逐渐成为一个全球最著名的文件共享平台。
+➜Dropbox 停止支持未加密 Ext4 之外的所有 Linux 文件系统
+https://www.solidot.org/story?sid=57536	52779
+文件同步服务 Dropbox 的 Linux 用户收到通知，从 11 月起他们的客户端<a href="https://linux.slashdot.org/story/18/08/10/2120248/dropbox-is-dropping-support-for-all-linux-file-systems-except-unencrypted-ext4" target="_blank"><u>将停止同步</u></a>。根据官方论坛的<a href="https://www.dropboxforum.com/t5/Syncing-and-uploads/Linux-Dropbox-client-warn-me-that-it-ll-stop-syncing-in-Nov-why/m-p/290058#M42250" target="_blank">声明</a>，Dropbox 唯一支持的 Linux 文件系统将是未加密的“干净 Ext4 文件系统”，这事实上意味着 Dropbox 将完全停止支持 Linux。因为所有 Linux 发行版都提供了多种文件系统选项，而默认使用 Ext4 的发行版通常也会启用加密，所以都没有资格称为是“干净 Ext4 文件系统”。Dropbox 此举令人不解，因为在这之前它的同步服务在 Linux 平台工作良好，启用不启用加密或使用非 Ext4 文件系统对文件同步并不相关。目前官方尚未作出进一步的说明。用户通过社交网络对此举表达了不满。
+➜Google 从 Chrome Store 下架开源反审查工具
+https://www.solidot.org/story?sid=57537	53965
+Google 没有作出解释就从 <a href="https://chrome.google.com/webstore/detail/ahoy/ljighgeflmhnpljodhpcifcojkpancpm" target="_blank"><u> Chrome Store </u></a>移除了开源反审查工具<a href="https://github.com/revolucaodosbytes/ahoy-chrome" target="_blank"><u> Ahoy!</u></a>。在未下架前该扩展有 18.5 万 Chrome 用户。Ahoy! 由葡萄牙反审查组织 Revolução dos Bytes (Bytes’ Revolution) 开发，通过代理服务器帮助用户绕过审查，自由的访问互联网。该扩展的源代码托管在 GitHub 上。开发者表示在下架前他们没有收到任何通知或警告。Ahoy! 的 <a href="https://addons.mozilla.org/pt-PT/firefox/addon/ahoy/?src=recommended" target="_blank"><u>Firefox 扩展</u></a>仍然能正常工作。但相比 Chrome 扩展，Firefox 的用户要少得多，98% 的用户是通过 Chrome 访问 Ahoy! 的。
+➜好莱坞有了自己的开源基金会
+https://www.solidot.org/story?sid=57538	57414
+开源无处不在。美国电影艺术与科学学院与 Linux 基金会合作<a href="https://techcrunch.com/2018/08/10/hollywood-gets-its-own-open-source-foundation/"><u>发起了</u></a>面向好莱坞的开源基金会 <a href="http://www.aswf.io">Academy Software Foundation</a>。基金会的创始成员包括了好莱坞巨头和科技公司：Animal Logic、Blue Sky Studios、Cisco、DreamWorks、Epic Games、Google、Intel、 SideFX、Walt Disney Studios 和 Weta Digital。Academy Software Foundation 的使命旨在为电影和媒体行业提供了中立论坛，协调跨项目工作，提供一个共同的构建和测试基础设施，帮助个人和组织参与开源生态系统。根据学院的调查，84% 的电影公司使用开源软件，主要是动画和视觉特效。

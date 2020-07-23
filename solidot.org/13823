@@ -1,0 +1,57 @@
+➜用在线共享照片创建虚拟3D城市
+https://www.solidot.org/story?sid=4334	600
+在线图片共享网站Flickr拥有超过1千万的成员，他们拍下周围环境的图像然后上传到互联网上。华盛顿大学（UW）的一个研究小组正在做着相反的事情，下载数以千计的Flickr图片，<a href="http://uwnews.washington.edu/ni/article.asp?articleID=37724">重现原始的场景</a>。研究人员在计算机成像国际会议上展示了如何用在线图片创建虚拟3D标志性建筑物模型，<a href="http://slashdot.org/article.pl?sid=07/11/04/1945213">包括巴黎圣母院和纽约自由女神像</a>。<i>
+“用人们拍摄的“度假照片”建立精确的3D模型是一次巨大突破，我们的长期目标是重现地球表面所有建筑物的详细模型。有许多人在这方面进行不懈的努力，但在线收藏的图片提供了一种新的无穷的来源。”Flickr储存的照片超过了10亿张，搜索关键词巴黎圣母院（Notre Dame Paris）可以找到8万多个结果。但这些相关图片使用前需要解决一个难题，就是它们的质量参差不齐。研究人员使用计算机处理下载来的照片，去除低质量的，挑选出高质量可供使用的图片。通过比较相似照片的细微差别，测算拍摄者的位置，软件最终计算出照片上每一点的距离（类似的技术早就被使用了，与眼睛观察物体的原理相同）。在测试中，计算机花了不到两个小时时间重现了罗马圣彼得大教堂，使用了50位不同拍摄者拍摄的151张照片。目前研究人员正在收集罗马城的照片，计划在今后两年创建出罗马的虚拟3D城市模型。这项研究得到了微软、Adobe和多家基金会的资助。</i>
+➜Feedsky服务器故障
+https://www.solidot.org/story?sid=4331	1140
+<a href="http://www.56kg.com/public">万晓文</a> 写道 "Feedsky2007年11月3日15时出现错误，无法访问，ping发现，应该是服务器down了。"
+➜不装WORD2007打开DOCX文件
+https://www.solidot.org/story?sid=4332	1140
+<a href="http://www.56kg.com/public">万晓文</a> 写道 "笔者最近重装电脑。还没有安装好office 2007就碰到一件急事，急需看以前用word 2007编辑出来的一个docx文件内容。怎么办？
+安装office 2007的速度是相当地慢的，等到安装好，只怕事情也黄了。正在笔者一筹莫展的时候，卡巴斯基扫描到一个docx文档的时候显示出" ××.docx/customXml/ "的字样，我立马醒悟到，其实docx文档就是一个压缩包而已，果然，用winrar打开，显示出以下文件与目录：
+[Content_Types].xml
+_rels/
+word/
+customXml/
+docProps/
+打开word里面的document.xml文件，哈哈，找到我要的文本内容了。原来word 2007其实就是使用xml存储的数据，再将文本数据与样式数据文件打包形成docx文件。
+如果你也碰到类似的窘境，试试同样的办法吧。用解压缩软件打开docx文档，找到word目录下的document.xml文件，里面就有你要看的内容！
+来自：http://www.56kg.com/public/post/556.html"
+➜拍拍贷 中国第一个个人对个人信用网
+https://www.solidot.org/story?sid=4333	1200
+<a href="http://www.daiwoqu.com/">带我去冲浪</a> 写道 "今年6月份就发现了这个网站，并注册试用了一段时间，感觉很有创意，今天有时间就推荐一下ppdai
+<br> <br> <a href="http://ppdai.com/">拍拍贷</a>据我所知应该是国内首家在线借贷平台，他们借鉴了<a href="http://www.prosper.com/">Prosper</a>的模式，也采用了竞标的方式来实现在线借贷过程。
+<br> <br> <strong>一、关于PPDai</strong>
+<br> <br> <strong>PPDai</strong>是中国第一个个人对个人信用网上借贷平台，它创立的目的是提供一个更加安全，高效的平台，让个人对个人之间的借贷行为更加规范，安全，有效；让人们有机会帮助到需要帮助的人。
+我们致力于建立一个一个真实可信的网络， 通过加强朋友之间的联系，着重于社会化的因素，以P2P方式解决个人小额金融问题在这里；通过竞标的方式，借入者可以得到更多的利率，而借出者可以得到更好的回报。
+<br> <br>
+<br> <br> <strong>二、PPDai团队</strong>
+<br> <strong>PPDai</strong>的团队是一个小而精，充满热情的团队。创始团队来自微软等著名软件公司，以及著名咨询公司。我们努力为用户创造价值的同时，也在努力实现自己的价值。
+<br> <br>陆正明 （Gary Lu） CEO，PPDai创始人之一，有多年的银行工作经验，曾在微软工作，成立过多家成功的IT公司。精于集团战略和运营控制及营销、人力资源，现负责整个公司的战略运营及市场管理。拥有丰富的跨行业、跨平台的营销、销售与管理的实战经验。
+<br> <br>顾少丰 （Jack Gu） CTO，PPDai创始人之一；菠萝网创始之一，曾在微软担任安全技术主管，十多年IT及互联网经验。目前负责PPDai网的产品，研发，运营维护等工作。
+<br> <br>胡宏辉，资深律师，PPDai法律顾问
+<br> <br> <strong>虽然</strong>国内网民在互联网上的诚信问题一直没有满意的答案，而且这种模式在国内法律上是否说得过去，还很难说，不过我还是对这种模式很看好，它绕开了银行、借贷机构，而直接实现了C2C模式的借贷；另外一个重要原因就是许多有闲钱的人不知道钱该到往哪里去投，民间缺乏更好的投资通道，可以说这种大环境有利于这种在线借贷模式的成长。
+<br> <br> <strong>这种模式</strong>在国外已经有了成型的网站如：<a href="http://www.zopa.com/">Zopa</a>, <a href="http://www.wangtam.com/50226711/prosper_cccaeee_41730.php">Prosper</a>(成立一年多的<a href="http://www.zopa.com/">Zopa</a>在前几个月获得了1290 万美元的第三轮融资，而<a href="http://www.wangtam.com/50226711/prosper_cccaeee_41730.php">Prosper</a>也在6月份获得了2000万美元的投资。)
+<br> <br>有兴趣的朋友可以去尝试一下，现在已经开放了注册
+<br> <br>PS：根据我的体验，现在网站的借款成功率不是很高，往往想借款的人一大堆，而想借出的人却少之又少，少数成功的几例借款还都是网站运营团队自己圈子里的朋友，好像大家一时半会之间还建立不了什么信任，不过很看好这个网站希望他们走的远一点！
+原文地址：<a href="http://www.daiwoqu.com/archives/34.html">http://www.daiwoqu.com/archives/34.html</a>"
+➜Google宣布开源手机操作系统Android
+https://www.solidot.org/story?sid=4335	4800
+<a href="http://arstechnica.com/news.ars/post/20071105-its-official-google-announces-open-source-mobile-phone-os-android.html">Google Phone已经到来</a>，但并非谣传中的手机GPhone。11月5日，Google正式宣布开发一款新的手机操作系统<a href="http://www.openhandsetalliance.com/android_overview.html">Android</a>——2005年它收购了同名的手机软件公司。Android基于Linux，源代码开源，预计上市日期是2008年中期，以Apache许可协议免费提供给手机运营商和制造商。Google的手机制造合作伙伴包括了Motorola，HTC，Samsung和LG等，运营商合作伙伴包括T-Mobile和美国Sprint，欧洲T-Mobile/Deutsche Telekom以及中国移动。所有名单都已经公布在<a href="http://www.openhandsetalliance.com/index.html">Open Handset Alliance</a>。<i>
+虽然Java技术在各个移动终端广泛使用，但不同手机的操作方式也不尽相同。Google希望通过开放合作提供弹性更好的解决方案。除了推出自己的移动组件，Google还将在下周向开发者提供<a href="http://www.openhandsetalliance.com/developers.html">SDK for Android</a>的完整开发工具，更多的第三方应用程序将会吸引更多的消费者关注。很明显Google推出手机操作系统的目的是试图发布广告，但它表示一个完全靠广告驱动的手机暂时还是不现实的，Android和Google的移动广告平台都很幼小，需要更多时间发展。</i>
+➜绕过Windows的快速启动技术
+https://www.solidot.org/story?sid=4336	15840
+Phoenix Technologies，知名BIOS软件开发商，正在开发一种叫多维空间（Hyperspace）的新技术。这项技术允许用户<a href="http://www.wired.com/techbiz/it/news/2007/11/phoenix#">即时载入某个特定的程序</a>如电子邮件、浏览器、媒体播放器等，无需进入windows系统。Phoenix Technologies CEOWoody Hobbs称，“Windows变得越来越复杂，启动时间越来越长。”Intel公司也对这项新技术颇感兴趣，它可能导致计算机产业进一步细分，一些特殊种类的电脑如学生笔记本，只要按某个键就能预载入字处理软件，电子邮件客户端和IM。
+➜前英特尔CEO格鲁夫强烈抨击医学研究
+https://www.solidot.org/story?sid=4337	20400
+前英特尔CEO及共同创始人Andrew S. Grove宣称“<a href="http://www.newsweek.com/id/68221">我们需要在医学研究领域进行一次文化革命</a>”。Andrew S. Grove，12年前被诊断出患有前列腺癌，现在又要忍受帕金森氏症的痛苦。在他担任英特尔CEO期间，芯片晶体管的数量从1000增加到了100亿，而帕金森氏症的标准治疗药物从左旋多巴（L-dopa）进化到..左旋多巴。Grove认为这种结果实在无法接受，相比技术产业过去半个世纪的爆炸式发展，医学领域的进步太微不足道了，研究人员在无用的研究上浪费时间，他们对研究论文的关注远多于如何减轻病人的痛苦，制药公司也只知道满足现状。像治愈帕金森氏症，研究人员先让老鼠瘫痪，再治愈它，诸如此类，根本不关注人类本身。星期日下午，在神经科学年会上，Grove严厉抨击了美国国家生物医学机构。
+➜澳大利亚研究员开发出让ADSL提速100倍的算法
+https://www.solidot.org/story?sid=4338	24300
+想让家中的ADSL连接速度提高100倍？澳大利亚墨尔本大学数学专业的博士生，ARC Special Research Centre for Ultra-Broadband Information Networks (CUBIN)的研究员John Papandriopoulos<a href="http://it.slashdot.org/article.pl?sid=07/11/05/0353206">开发出一种新方法</a>，使普通宽带连接速度从1～20Mbps提高至近100Mbps。该方法<a href="http://www.smh.com.au/news/national/maths-the-passport-to-full-employment/2007/11/04/1194117879799.html">降低了ADSL技术中常见的交叉干扰</a>（crosstalk interference）从而让连接速度提高到理论上最大值。无需巨大的花费就能实现提速，当然这需要首先获得电信公司和政府的支持。Papandriopoulos已经取得了专利，将在美国和澳大利亚推广。
+➜BBC修改Linux访问者数据
+https://www.solidot.org/story?sid=4339	26400
+上次提到BBC的技术总监Ashley Highfield声称，浏览bbc.co.uk的Linux用户人数仅有400到600。这个数据显然低的过分，现在证实数据确实是不正确的，<a href="http://www.bbc.co.uk/blogs/bbcinternet/2007/11/linux_figures_1.html">Ashley Highfield在blog上承认了错误</a>。最新的估计数字大约是在36600到97600之间，即潜在的Linux用户占总访问者的0.3%到0.8%。Highfield没有说明为什么最初的数据和最新的数据之间有如此大的数量级差距。
+➜戈尔：不要给相信地球是平的人同等机会
+https://www.solidot.org/story?sid=4340	29100
+上周，气象学家John Christy在接受《华尔街日报》采访时对戈尔提出质疑：<a href="__SLASHLINK__" sect="science" sid="07/11/03/007253" sn="article" tid="19">他不认为全球变暖是正在上演的灾难，也没有确凿证据证明人类是唯一需要对暖化负有责任的</a>。诺贝尔和平奖获得者戈尔在星期一接受NBC电视台的采访时回应了Christy的质疑，声称<a href="http://www.rawstory.com/news/2007/Gore_Dont_give_equal_time_to_1105.html">不要给相信地球是平的人同等待遇</a>。戈尔表示，“他是位局外人，已经不属于IPCC。他走到了科学多数派的对立面。”戈尔同时还攻击了新闻媒体，他说新闻媒体依旧按照旧习给予意见相反的人同等机会。世界上还有一些人认为地球上平的，而人们现在都知道地球是圆的，不应该给那些相信地球是平的人同等机会表达他们的观点。
+<a href="http://www.youtube.com/watch?v=EmIlywvLR1w">Youtube视频</a>。

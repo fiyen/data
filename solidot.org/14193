@@ -1,0 +1,88 @@
+➜Fedora新中文用户组论坛
+https://www.solidot.org/story?sid=8593	120
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "<i>
+一个新的<a href="http://news.fedora-zh.org/">Fedora中文用户组论坛</a>在本月诞生了。Fuzzy!News由linuxsir.org/bbs Fedora论区版主bbbush创建，Freenode的fedora-cn频道长期在线的成员共同维护更新。它结构包括Blog、Forum、<a href="irc:ircfreenodenetfedora-cn">IRC</a>、Paste、<a href="http://planet.fedora-zh.org/">Planet</a>和<a href="http://wiki.fedora-zh.org/">Wiki</a>。用户可以在这里得到一应俱全的最新的Fedora资讯和互动交流。
+"</i>
+➜OpenID来了，但我们不会用
+https://www.solidot.org/story?sid=8594	900
+<a href="http://www.comsharp.com/">35公里</a> 写道 "设想一个更友好的Internet，你只需记住一个密码，它让你更容易掌握自己的联系信息，什么网站可以利用，可以利用多少。这样的Internet已经降临，<a href="http://openid.net/">OpenID</a> 就是一种让它成为现实的技术。OpenID 让你使用一个e-mail或URL地址登陆各种网站,，而不必为每个网站单独注册帐户。
+<i>很多人都有一长串不同网站的登陆帐户，OpenID 来的正是时候，唯一的问题是，OpenID 和以往的登陆方式截然不同，很多人仍然不知道该怎么利用这种技术。长期以来，OpenID 是一种边缘技术，支持它的大公司了了无几。2008年1月，Yahoo 与 AOL 首次使用 OpenID 帐户，10月，Google, MySpace, Plaxo, 微软等大公司先后加入，终于将OpenID带入主流。OpenID 虽然咸鱼翻身，然而，易用性问题让很多设计与开发者挠头，尽管有不少用户已经拥有OpenID绑定于 Google， AOL 或 Yahoo 帐户，<a href="http://www.webmonkey.com/blog/OpenID_Is_HereDOT_Too_Bad_Users_Can_t_Figure_Out_How_It_Works">他们却不知道如何使用</a>。Google 与 Yahoo 最近对OpenID做的一项用户体验研究表明，<a href="http://www.webmonkey.com/blog/Yahoo_Users_Befuddled_by_OpenID">Internet 用户常常为 OpenID 的登陆过程所迷惑</a>。如果可以使用 Google 和 Yahoo 帐户，用户常常会忽视 OpenID 而直接使用原来的帐户。这项研究的结论是，用户一直以来依赖用户名和密码，要改变这一习惯不是容易的事情。
+"</i>           OpenID 和一些主要的新闻集团，如　Forbes.com 及 BBC 等最近在纽约进行了一次交流，谈到了　OpenID 面临的主要问题。与会的　Google 的　Eric Sachs 表示，他们收集到一些有价值的反馈。首先，OpenID 的用户界面太复杂，其次，很多网站表示，我们已经拥有了大量用户基础，我们需要一个友好的方式进行 OpenID 转换。
+<br> <br>(以下是 WebMonkey 对 Eric Sachs 的访谈全文：<em> <a href="http://www.webmonkey.com/blog/OpenID_Q_A%3A_Interview_with_Google_s_Eric_Sachs">Webmonkey’s interview with Eric Sachs</a>.</em>)
+<br> <br>Google 和 Yahoo 都尝试对用户的登陆行为进行引导，Yahoo 将登陆步骤从12步简化到2步。Google 将 OpenID 的加密 URL 式登陆替换为基于 e-mail 地址的登陆。这些方法要求用户在登陆他们的站点前定向到 Google 或 Yahoo 进行验证。
+<br> <br>Web 设计公司 Adaptive Path 的 Harrelson 对这种模式提出质疑，认为这会让用户感到迷惑，让用户从一个站点跳到另一个站点会带来安全方面的隐忧。
+<br> <br>FaceBook 似乎解决了用户体验问题，但 FaceBook 并没使用 OpenID，而是使用他们自己开发的 FaceBook Connect。Facebook Connect 从概念上很接近 OpenID，但在用户体验方面却走在前面，它使用不离开当前页的登陆窗口，用户不必离开当前页，实现了一种近乎无缝的体验。
+<br> <br>Plaxo 负责市场的副总裁 John McCrea 是 OpenID 的支持者，他主持一个关于开放 Web 技术的 Podcast，称赞 FaceBook Connect 是 OpenID 努力的方向。我们需要获得类似 FaceBook Connect 的体验，McCrea 说，要实现这个目标，我们需要一些理解产品设计的人，找到我们所需要的技术，达成一致，我们需要将一些东西确立下来。
+<br> <br>来自 Plaxo, Yahoo, MySpace, Google 以及 Microsoft 的代表有关相当的资源应对这个问题，这是他们在10月份加入 OpenID 用户体验组的原因。令人惊奇的是，Facebook 也参加了会议，演示了 Facebook Connect 非常漂亮的界面。然而，为什么 FaceBook 要加入 OpenID，既然他们已经在 FaceBook Connect 中解决了问题，他们为什么要帮助 OepnID 这样一个潜在的竞争对手？
+<br> <br> Plaxo 的 Joseph Smarr 也是一个非常活跃的 OpenID 支持者，他说，很显然，在一个封闭的圈子里，创新要比在开放环境中来得快，因为你可以自己掌控。然而，当很多人联合起来就会压倒前者，不管你多么聪明。FaceBook 认识到了这一点，我觉得 FaceBook 看到了 Web 走向社会化的趋势，人们会带着自己的帐户和朋友在 Web 中穿行，他们为看到了这一点而感到兴奋，他们想建立自己的版本，但他们要保证自己的版本符合 OpenID 的开发生态环境。
+<br> <br> <em>(WebMOnkey 对 </em>John McCrea  的访谈全文：<a href="http://www.webmonkey.com/blog/OpenID_Q_A%3A_Plaxo_s_Joseph_Smarr_and_John_McCrea"> <em>Webmonkey’s interview with Joseph Smarr and John McCrea</em> </a> <em>.)</em>
+<br> <br>随着大公司对 OpenID 的支持，OpenID 的发展迅猛，McCrea 认为，网站运营者们已经到了迫切加入这一阵营的时候。
+更多阅读
+<ul> <li> <i> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K309.aspx">OpenID 资源大全</a> </i> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K585.aspx">用 Google 帐户登陆其它网站</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K590.aspx">Google 澄清其 OpenID 策略</a> </li>
+</ul>
+➜德国医生用骨髓移植治愈艾滋病病人
+https://www.solidot.org/story?sid=8595	1800
+<a href="http://zh.wikipedia.org/wiki/%E8%89%BE%E6%BB%8B%E7%97%85">HIV</a>是引起人体获得性免疫缺陷综合征（AIDS）的病毒。至今仍无治愈之法，它已经导致超过2500万人死亡。<i>
+不过现在一个<a href="http://online.wsj.com/article/SB122602394113507555.html">可能的治愈病例出现了</a>。德国著名医生Gero Hutter博士，将一位拥有自然免疫力的捐赠者的骨髓移植到一位艾滋病患者的身上，接着病人身上的新骨髓产生了对HIV免疫的免疫系统细胞。HIV病毒无法再感染任何免疫细胞，不久就消失了。两年来这位病人没有出现艾滋病症状。加州洛杉矶分校的医生也在发展一种类似的疗法，并计划将之商业化。</i>
+➜爱尔兰移动运营商被要求跟踪用户的Web使用
+https://www.solidot.org/story?sid=8596	5220
+爱尔兰警察部门的负责人要求移动运营商<a href="http://www.irishtimes.com/newspaper/frontpage/2008/1107/1225925540654_pf.html">保留用户通过手机浏览网页的详细情况</a>。<i>
+此类信息将被用于未来可能的犯罪调查，但信息的收集并无授权，针对的用户也未必是犯罪嫌疑人。这一要求超越了欧盟的数据保留制度的范畴，欧盟的规章没有包括基于Web的邮件，它可能侵犯了现有的欧盟数据保护法规。</i>
+➜腾讯以竞业条款起诉离职员工
+https://www.solidot.org/story?sid=8597	14160
+腾讯公司向深圳福田区人民法院<a href="http://it.sohu.com/20081108/n260515843.shtml">提起诉讼</a>，称集体跳槽至某互联网公司的15名前员工违反了<a href="http://zh.wikipedia.org/wiki/%E7%AB%B6%E6%A5%AD%E6%A2%9D%E6%AC%BE">竞业禁止</a>义务，认为这是腾讯公司维护自身合法权益的正当行为。<i>
+根据双方双方劳动合同：“乙方（员工）无论因何种原因离职，自离职之日起2年内不得在研究、生产、销售或维护甲方经营范围的同类产品与服务（包括即时通信软件 产品、通信聊天交友服务、移动通信增值服务、网络电子游戏、网络娱乐、互联网信息资讯、其他网络产品、其他通信产品、其他软件产品等）的企业事业单位或与 甲方（腾讯）有竞争关系的企业事业单位工作，也不得以任何方式直接间接地为这些企业事业单位工作或提供服务。”腾讯的规定确实有几分超出合理之范畴。</i>
+被起诉的离职员工在一份声明中指控腾讯诬蔑，表示要抗议<a href="http://blog.sina.com.cn/s/blog_5d4c4c7b0100bazn.html?tj=1">霸王劳动合同</a>，但并没有详细谈及本身是否真有不当行为，而只是用腾讯过去的劣迹为自己辩护。
+➜Nokia推出Qt整合开发工具
+https://www.solidot.org/story?sid=8598	16800
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道
+<i>"
+Nokia发布了<a href="http://trolltech.com/developer/qt-creator/qt-creator#download-qt-creator">Qt Creator</a>的技术预览，一个开源的、跨平台的Qt整合开发工具，用于<a href="http://arstechnica.com/journals/linux.ars/2008/11/05/nokia-unveils-integrated-development-environment-for-qt">加速Qt应用程序的开发</a>。这个IDE包括调试工具，并带有紧密结合的设计者用户界面工具布局。其中一个不错的特性，QuickOpen搜索工具，有点类似Deskbar，可以用来找到并快速跳到那条代码行（class或method）"</i>
+➜微软Windows Mobile正在衰落？
+https://www.solidot.org/story?sid=8599	18900
+<a href="http://www.comsharp.com/">35公里</a> 写道 "Steve Ballmer对Google的最新 Android移动操作系统并没表现出过多忧虑，<a href="http://www.informationweek.com/blog/main/archives/2008/11/steve_ballmer_o.html">他认为Android还没找到自己的商业模式</a>，然而我们没听到Windows Mobile的消息<a href="http://blogs.zdnet.com/Google/?p=1172">已经多久了</a>？<i>
+Ballmer 说，这是Google的第一款手机系统，他们不容易，让我们瞧瞧他们会怎么做。Google可以雇佣一些聪明家伙，但我不理解他们的战略，也许其他人理解...如果我们跑到投资人那里说，我们刚刚发布了一款手机操作系统，但没有收入模式...我们不会那样做。Google在Android投入了很多精力。在很多方面，他们是iPHone的开源替代品，甚至黑莓都开始觉醒，这三种移动操作系统都接受了自助与托管式应用的趋势，使它们的开发者非常欣喜。iPhone的App Store取得巨大成功，一些程序，如Trism在<a href="http://www.alleyinsider.com/2008/9/iphone-developer-i-ll-do-anything-apple-tells-me-to-do-i-just-made-250k-on-the-app-store-in-two-months-aapl-">短短两个月就为它的开发者带来25万美圆的收入</a>。Google的market place以及 App Center同样会吸引大量开发者。而微软怎么样？Windows Mobile 6，尽管具有技术潜力，但在它的竞争对手面前显得古老而沉闷，Windows Mobile缺乏亮点会给微软带来问题。智能设备一直以来有两种类型的操作系统，一种是iPHone与黑莓之类的专用系统，一类是Windows Mobile与Android之类的面向大众的系统。专用系统还会继续存在，只要它们支持的那些设备还足够Cool。Apple与 Research In Motion还会躺在他们的品牌上吃几年。另一方面，那些面向大众的操作系统只要能打动设备商就会成功，这也是为什么如果微软不注意会出问题的原因。Android的许可是免费的，意味着设备商可以节省成本，在目前的经济形式下这尤为重要。"</i>
+➜世界第一辆斯特林混合动力车
+https://www.solidot.org/story?sid=8600	19200
+个人用运输载具<a href="http://zh.wikipedia.org/wiki/%E8%B3%BD%E6%A0%BC%E5%A8%81">赛格威</a>（Segway）的发明家Dean Kamen向外展示了<a href="http://www.unionleader.com/article.aspx?articleId=1b081989-f67b-458e-8e42-913c8568fb36">结合斯特林引擎和电池推进的双座汽车原型</a>。<i>
+原型基于<a href="http://en.wikipedia.org/wiki/Ford_TH!NK">Ford Think</a>，外形类似大众甲壳虫，汽车主要使用锂电池推进，而<a href="http://zh.wikipedia.org/wiki/%E6%96%AF%E7%89%B9%E6%9E%97%E5%8F%91%E5%8A%A8%E6%9C%BA">斯特林发动机</a>作为备份系统在电池不足时充电。斯特林发动机是一种闭循环活塞式热机，为目前效率最高的热机，最高可达80%。斯特林混合动力车可以使用任何燃料，从柴油到天然气皆可。</i>
+➜加拿大用无人潜艇寻找北极主权证据
+https://www.solidot.org/story?sid=8601	20700
+加拿大政府计划委托两艘微型无人潜艇，去<a href="http://www.canada.com/topics/news/national/story.html?id=4243b952-ab26-43b9-9f13-9e5867adbc42">探测北冰洋下有争议的两大海底山脉</a>。<i>
+潜艇将提供证据支持加拿大对潜在蕴含丰富石油的北极海床的主权要求。潜艇预计将在2010年下水，将勘察Ellesmere岛北部和西部400公里长的区域。Ellesmere岛是加拿大最接近极点的岛屿，是前往北冰洋的门户。至少有五个国家在争抢北冰洋海底领土和据信价值万亿美元的石油资源，除加拿大之外，还包括俄罗斯，美国，挪威和丹麦。</i>
+➜亚洲季风周期被人为气候改变打乱
+https://www.solidot.org/story?sid=8602	23700
+<a href="http://www.nature.com/news/2008/081106/full/news.2008.1213.html?s=news_rss">《自然》网站报道</a>，位于中国一洞穴内的有1800年历史的石笋透露，过去，温暖的年份与东亚强季风有关联。但这种联系因为人为的温室气体排放和污染，从50年前开始被打乱了。研究人员暗示，弱季风还可能导致某些中国王朝的覆灭，因为水资源缺乏和收成不佳会引发骚乱。研究人员是通过研究石笋中残留的由季风带来的重氧同位素比率去了解到这层关系，通过测量铀同位素的衰变追溯日期。<i>
+2003年5月，兰州大学的地质学家Zhang Pingzhong和同事在万象洞内找到了一根从公元190年开始构造的18厘米长的石笋。他们发现季风变化与唐、元及明朝的衰亡在时间上是一致的。但1960年代后，这种关系停止了，研究人员推测可能是人为引起的温室气体排放和大气悬浮颗粒让季风变弱。国家气候中心的科学家Zhang De'er对于季风影响朝代更迭表达了质疑，称“气候只是决定中国王朝兴旺的主要因素之一”。</i>
+论文发表在<a href="http://www.sciencemag.org/cgi/content/abstract/322/5903/940">《科学》杂志</a>上
+➜网站的用户体验
+https://www.solidot.org/story?sid=8603	25200
+在国内的互联网环境下，浏览者几乎看不到设计的让人眼前一亮的网站。门户网站似乎都把自己看作国企，对用户都不当回事。因此有评论言“<a href="http://www.baibanbao.net/?p=1741">坏的设计都带着憎恨</a>”，另一句是“好的设计都带着爱心”。<i>
+他说，“世界上有比新浪新闻中心更傻的首页吗？有，你可能说，搜狐新闻中心。国内几大门户中，除了网易早晚会让人小小地兴奋一下之外，都没有创新。有的都是因循守旧，有的都是循规蹈矩。”作者对亚马逊刚推出的“<a href="http://www.windowshop.com/">橱窗逛街</a>”大为称赞。</i>其实从设计上看，windowshop算不上创新，如FF扩展程序<a href="http://www.cooliris.com/">Cooliris</a>(也支持IE和Safari)早就能在Youtube和Google/Yahoo图像搜索上实现类似的效果，但这种设计确实对用户很贴心。
+➜卡巴斯基称中国学生组团攻击西方网站
+https://www.solidot.org/story?sid=8604	28800
+一天一篇文章，抑郁远离你 写道 <i>"<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9119598&amp;intsrc=hm_ts_head">Computerworld报道</a>：卡巴斯基说，近期欧美至少10000台服务器被中国大学生攻击。他们使用SQL注入和破解帐号的方式，在网页上放上恶意代码，利用Firefox，Internet Explorer，Flash Player和ActiveX的漏洞，劫持用户浏览器到带毒网页自动安装下载多种木马和间谍软件(其中包括盗取魔兽世界帐号密码的一程序)。卡巴斯基相信攻击者是中国的大学生。
+美国有网友对此<a href="http://www.computerworld.com/comments/comment/view/9119598/390191">评论</a>，用Mac，没有病毒烦恼，它好我也好。"</i>
+➜BitTorrent共同创始人称盗版减少垃圾的产生
+https://www.solidot.org/story?sid=8605	29520
+Ashwin Navin，BitTorrent公司的前主席和共同创始人，现在是公司董事会成员，虽然至今这家公司并未取得多大的成功，但BitTorrent协议却比以前更有活力。他在接受Torrentfreak的采访中讨论了<a href="http://torrentfreak.com/piracy-leads-to-less-crap-says-bittorrent-co-founder-081109/">对BitTorrent的未来、盗版和在线媒体的看法</a>。<i>
+他认为BitTorrent向人们提供了真正的数字自由，这也是为何娱乐业迟迟不愿采用它的原因。因为他们不希望给予消费者自由，只想着维护现金流。然而不管怎样，BitTorrent向娱乐业提供了全新的工具。Navin表示，“互联网信息和娱乐的自由流通绝不会消灭高价值的、专业性的娱乐节目。它迫使发行商更关注节目质量。这个时代最愚蠢的行为是以独家协议或当作宝贝一样抑制内容的流通。现在的发行策略不同于以前：内容到了那里，眼球就跟到那里。”</i>
+➜木匠师傅的Photoshop
+https://www.solidot.org/story?sid=8606	30780
+<a href="http://www.comsharp.com/">35公里</a> 写道<i> "Adobe Photoshop 除了可以用计算机设计之外，还可以用木工工具<a href="http://gadgets.boingboing.net/2008/11/07/photoshop-interface.html">直接设计出实物版</a>，印度尼西亚的一位老兄便设计了这样一个 Photoshop，还在 <a href="http://www.flickr.com/photos/18697966@N00/sets/72157608377333404/detail/">Flickr</a>上贴出制作过程图示。经济不景气，大家不要气馁，要向木匠学习，保持童心和乐观态度。
+"</i>
+➜世界上最重的机器人
+https://www.solidot.org/story?sid=8607	31800
+世界上最大的卡车变成了<a href="http://dsc.discovery.com/news/2008/11/06/monster-robot-truck.html">世界上最大的机器人</a>。<i>
+卡耐基梅隆大学的计算机科学家和卡特彼勒(Caterpillar)的工程师合作，将重700吨、能拉起240吨矿、3550马力的卡车自动化。另一家日本制造商小松也在向消费者提供自动化卡车，但都比卡特彼勒的要小。这两大工程机械巨头将卡车变成机器人是出于三大理由：改进安全、效率和生产率，降低成本，增加可用性。</i>
+➜企业中开源软件的使用情况
+https://www.solidot.org/story?sid=8608	34560
+infoq<a href="http://www.infoq.com/cn/news/2008/11/Open-Source-Enterprise">报道</a>，<a href="https://www.osscensus.org/">开源调查中心</a>（OSC）近日发布了一份<a href="https://www.osscensus.org/9.30.08.php">报告</a>，报告显示了开源软件在世界各地、各企业中的使用情况。政府和金融服务公司对开源软件的使用名列前茅；与其他国家（包括美国）相比，欧洲则更多地使用了开源软件。OSC在为期六个月的时间里，收集了企业计算机所使用的开源软件包的相关信息。他们发现在被检测的两千多台机器上有多于三十万种的开源软件包。<i>
+平均而言，政府机构在每台机器上安装了123个不同的开源软件包；金融服务公司在每台机器上安装了117个不同的包。<br>
+参与检测的Windows机器中，平均每台机器上有39个开源软件包。Linux用户发现有更多的开源软件，平均有87个包，但这包括随Linux发布包一起的开源软件。<br>
+73%的被检测个人机器上有OpenOffice，而被检测的企业机器上，只有28%有OpenOffice。</i>
+➜微软邮箱用户反对新界面
+https://www.solidot.org/story?sid=8609	38400
+cuthead 写道<i>"最近使用live邮箱时发现live邮箱学起了Gmail的界面，但很可惜速度和无广告主义没有学去，铺天盖地的广告，附带广告的邮件，无比缓慢的loading邮件速度。<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;taxonomyName=hardware&amp;articleId=9119553&amp;taxonomyId=12&amp;intsrc=kc_top">美国网友也对此恼怒至极</a>，而微软发言人则称是那些用户带宽太窄不足以使用微软邮箱。"</i>

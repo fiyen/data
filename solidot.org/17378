@@ -1,0 +1,45 @@
+➜俄罗斯屏蔽 VPN 的法律将于 11 月 1 日生效
+https://www.solidot.org/story?sid=53283	10203
+俄罗斯总统普京<a href="http://www.reuters.com/article/us-russia-internet-idUSKBN1AF0QI?il=0" target="_blank"><u>签署了</u></a>禁止提供 VPN 和其它匿名技术访问被屏蔽网站的法律，该法律将于今年 11 月 1 日正式生效。俄罗斯议会下院国家杜马是在 10 天前对该法案<a href="http://www.solidot.org/story?sid=53183" target="_blank"><u>进行了投票表决</u></a>，获得了一致通过，这项法律要求 ISP 屏蔽 VPN 和其它匿名网络技术。国家杜马信息政策委员会负责人 Leonid Levin 称，法律无意对守法公民实施限制，它只是想要屏蔽非法内容。不清楚俄罗斯将会采取什么技术手段屏蔽匿名网络技术如 Tor。
+➜开发者发起请求 Adobe 开源 Flash 保存互联网历史的请愿活动
+https://www.solidot.org/story?sid=53284	14246
+Adobe 决定在 2020 年<a href="http://www.solidot.org/story?sid=53227" target="_blank"><u>杀死 Flash</u></a>，芬兰开发者 Juha Lindstedt 在 Adobe 宣布这一消息之后在 GitHub 上发起<a href="https://github.com/pakastin/open-source-flash" target="_blank"><u>请愿活动</u></a>，<a href="https://news.slashdot.org/story/17/07/30/1949243/petition-asks-adobe-to-open-source-flash-to-preserve-internet-history" target="_blank"><u>请求</u></a> Adobe 开源 Flash 以保存互联网历史。他指出，Flash 是互联网历史的一个重要部分，杀死 Flash 意味着未来的几代人将无法访问过去，用 Flash 的开发游戏、试验和网站将会被人遗忘。他请求让开源社区接手 Flash，维护一个精简版的 Flash 插件或者至少创建一个工具能精确的将旧的 SWF 和 FLA 文件转换到 HTML5、canvas 或 WebAssembly。请愿活动的反对者<a href="http://www.zdnet.com/article/petition-to-open-source-adobe-flash/" target="_blank"><u>认为</u></a>，开源 Flash 意味着人们将会继续使用它，没有安全方面的支持，Flash 将会变得更不安全。
+➜以太坊矿工租波音飞机运挖矿的显卡
+https://www.solidot.org/story?sid=53285	15975
+比特币挖矿早已转向了专用矿机，但显卡仍然是目前热门代币以太坊的主要挖矿工具。为了尽快获得显卡这一“矿机”，赶在数字货币热潮还未降温前捞一笔，一些最活跃的以太坊矿工<a href="http://www.pcgamer.com/cryptocurrency-miners-are-renting-boeing-747s-to-ship-graphics-cards/" target="_blank"><u>租赁了波音 747 去运送显卡</u></a>。数字货币如比特币和以太坊都以币值波动巨大著称。以太坊网络每天挖出大约 3.6 万个以太坊，以单价 200 美元计算，价值约 720 万美元。而在不久前，以太坊的单价一度突破 400 美元。Genesis Mining 的 CEO Marco Streng 称，时间至关重要，他们正在使用可能的最快交付方法。矿工对显卡的需求一度导致显卡供不应求，价格大幅上涨。
+➜深圳警方否认检查用户手机
+https://www.solidot.org/story?sid=53286	18103
+深圳警方发表<a href="http://m.mp.oeeee.com/a/BAAFRD00002017073045754.html" target="_blank"><u>声明</u></a>，否认了网上的一个流言，“深圳地铁民警一个一个检查乘客手机内音频、视频、图片”。声明称，“公安机关未在地铁内开展此项工作，该消息经证实为谣言。警方将依法对造谣行为进行查处，请广大市民不信谣、不传谣。”这一流言被认为是从新疆的一个消息转变而来的，新疆的居民被要求安装<a href="http://www.thepaper.cn/newsDetail_forward_1672043" target="_blank"><u>百姓安全</u></a>或净网卫士之类的软件，这一消息已经<a href="https://hardware.slashdot.org/story/17/07/25/2059244/china-forces-muslim-minority-to-install-spyware-on-their-phones" target="_blank"><u>被广泛报道</u></a>，很可能是真实的。
+➜Copyfish for Chrome 扩展遭到劫持
+https://www.solidot.org/story?sid=53287	19640
+Chrome 和Firefox 扩展 Copyfish 的开发者发出<a href="https://a9t9.com/blog/chrome-extension-adware/" target="_blank"><u>安全警告</u></a>，他们遭到了针对性的钓鱼攻击，团队成员不小心在钓鱼页面输入了密码，攻击者随后劫持了 Copyfish for Chrome 的账号，将 Copyfish 转移到他们控制的账号，并释出了恶意更新，在用户浏览的页面插入广告。Copyfish for Firefox 扩展没有受到影响。开发者尝试联系了 Google，但至今没有接触到任何能提供帮助的活人。攻击者被认为来自俄罗斯圣彼得堡。<br>
+➜谷歌 Chrome 正式宣布将不再信任赛门铁克所有 SSL 证书
+https://www.solidot.org/story?sid=53288	25205
+匿名读者 写道<i> " 今年 3 月，<a href="https://arstechnica.com/information-technology/2017/03/google-takes-symantec-to-the-woodshed-for-mis-issuing-30000-https-certs/" target="_blank">谷歌和火狐调查</a>发现赛门铁克未经授权错误签发大量 SSL 证书的严重问题。7 月 28 日，<a href="https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/eUAKwjihhBs%5B251-275%5D" target="_blank">谷歌正式宣布</a>不再信任赛门铁克旗下所有 SSL 证书，Chrome 浏览器将分阶段移除 Symantec 所有根证书，Chrome 66（2018 年 4 月）将不信任 2016 年 6 月 1 日之前签发的证书，Chrome 70（2018 年 10 月）将完全不信任所有赛门铁克 SSL 证书，GeoTrust、Thawte 和 Rapid SSL 等子品牌也受到同样惩罚。赛门铁克已同意该提案，但是已经在<a href="http://www.reuters.com/article/us-symantec-divestiture-idUSKBN19W2WI" target="_blank">考虑出售 CA 业务</a>。"</i>
+➜普京签署法律要求实行 IM 实名制
+https://www.solidot.org/story?sid=53289	29679
+俄罗斯总统普京上周末<a href="https://www.rferl.org/a/russia-putin-signs-vpn-law-internet/28648976.html" target="_blank"><u>签署了</u></a>两项受争议的法律，其一是<a href="http://publication.pravo.gov.ru/Document/View/0001201707300002" target="_blank"><u>禁止 VPN</u></a> ，其二是<a href="http://publication.pravo.gov.ru/Document/View/0001201707300031" target="_blank"><u>推行 IM 实名制</u></a>。第二项法律在中国已经实施，也就是要求 IM 服务商将用户账号与手机号码关联起来，他们将需要根据法律要求收集用户的电话号码。这项法律将于 2018 年 1 月 1 日生效，除了实名制外，法律还要求 IM 服务商根据当局的要求限制被认为传播在俄罗斯非法的内容的用户。俄罗斯的做法基本上与中国的做法差不多，唯一的区别在于俄罗斯明令禁止 VPN，中国还没有完全限制 VPN，虽然实际上正在逐渐推行。
+➜Tor 联合创始人称，暗网并不真正存在
+https://www.solidot.org/story?sid=53290	31430
+在拉斯维加斯举行的 DEF CON 会议上，Tor 项目联合创始人 Roger Dingledine 试图<a href="https://www.theregister.co.uk/2017/07/29/tor_dark_web/" target="_blank"><u>纠正有关匿名网络的错误观念</u></a>。他指出，只有 3% 的 Tor 用户访问 Tor 隐藏服务，绝大部分用户是出于完全合法的目的通过 Tor 访问公共网站。这些网民只是想隐藏身份，他们不是什么黑社会恶棍。他告诉出席 DEF CON 会议的与会者，暗网并不真正存在，它们只是少许网页罢了。Tor 用户访问最多的网站是 Facebook，有超过一百万人通过 Tor 登录 Facebook。他还解释了 Tor 浏览器继续使用 Firefox 的原因，称 Chrome 的代理绕过仍然引起担忧。
+➜苹果在中国面临的最大威胁是微信
+https://www.solidot.org/story?sid=53291	32690
+腾讯的微信是中国最流行的智能手机应用，它正加入越来越多的功能，日益平台化，意味着微信用户不再关心底层的系统和硬件，他们关心的是否能流畅运行微信，昂贵的 iPhone 和廉价的 Android 对他们而言并无区别。<a href="http://cn.wsj.com/gb/20170731/tec134535.asp" target="_blank"><u>这是苹果的 iPhone 在中国面临的最大威胁</u></a>。分析师称， 一定程度上在微信的影响下，仅 50% 的iPhone 用户在购买新手机时仍选择苹果品牌。而在全球其他地区，这一比例为 80%。其他调查显示，苹果用户的品牌忠诚度要高于竞争对手。摩根士丹利的一份调查发现，74% 的中国 iPhone 用户仍会选择苹果产品，相比之下，OPPO 的品牌忠诚度为 24%，Vivo 为 19%。中国消费趋势的转变可能会迫使苹果改变其整个业务模式，将考虑每年推出一款面目一新的手机，而不是像现在这样每两年对 iPhone 进行一次重大升级。
+➜卢森堡通过小行星采矿法
+https://www.solidot.org/story?sid=53292	35340
+小行星采矿不再是遥不可及的梦想，它越来越变得确实可行，但企业在投入巨资开发小行星矿藏之前，还有一些法律和所有权方面的问题需要解决。卢森堡议会上周<a href="https://science.slashdot.org/story/17/07/31/0420212/luxembourg-just-passed-a-new-asteroid-mining-law" target="_blank"><u>通过了小行星采矿法</u></a>，给予企业所提取小行星矿物质的所有权。小行星采矿法利用了联合国外层空间条约的漏洞，外层空间条约禁止国家声称拥有月球等天体的所有权，新的法律没有给予企业小行星的所有权，毕竟他们只是提取矿物质。与美国的小行星采矿法不同的是，企业的大股东不需要在卢森堡，它只需要在卢森堡有个办事处就能获得法律保护。
+➜Fedora 需要几年时间才能从 Python 2 切换到 Python 3
+https://www.solidot.org/story?sid=53293	41516
+Fedora 发行版默认使用的 Python 语言版本从 Python 2 切换到 Python 3 还需要在发布多个版本之后<a href="http://phoronix.com/scan.php?page=news_item&amp;px=Fedora-Py3-Default-30s" target="_blank"><u>才能完成</u></a>。最新提议的日期是到 2020 年，也就是上游淘汰 Python 2 之时。目前 Fedora 的大部分 Python 代码兼容 Python 3，但 /usr/bin/python 仍然指向 Python 2，各种 python-* 包仍然意味着 Python 2。开发者希望到 2020 年上半年发布 Fedora 32 时，默认的 Python 版本切换到 Python 3。
+➜AWS 中国通知客户清查 VPN
+https://www.solidot.org/story?sid=53294	42865
+在苹果根据中国政府要求下架 VPN 应用之后，另一家由外国科技公司在中国运营的云服务供应商 AWS 中国<a href="https://pbs.twimg.com/media/DGDbImqUIAAE94d.jpg" target="_blank"><u>通知</u></a>客户清查 VPN 之类的服务。AWS 中国由北京光环新网运营。通知称，根据电信法律规定，以及工信部和公安部网管部门的要求，请客户对 VPN 服务及推广以及未备案域名等进行清查，称他们会随时收到监管部门通知，要求立即关闭此类服务或部署。
+➜微软加盟 Cloud Native Computing Foundation
+https://www.solidot.org/story?sid=53295	43313
+微软<a href="https://azure.microsoft.com/en-us/blog/announcing-cncf/" target="_blank"><u>宣布</u></a>成为 Cloud Native Computing Foundation（CNCF）的白金会员。CNCF 是 Linux 基金会的一部分，而微软在去年加入了 Linux 基金会。CNCF 管理着 Kubernetes、Prometheus、OpenTracing、Fluentd, Linkerd 等云端导向的开源项目，对目前转向云服务的软件巨人而言当然<a href="https://linux.slashdot.org/story/17/07/29/0327209/microsoft-further-pledges-linux-loyalty-joins-cloud-native-computing-foundation" target="_blank"><u>具有重要意义</u></a>。微软曾经想要杀死 Linux 等开源项目，如今由于它对计算机领域的影响力已经不如从前，它开始对开源世界表现出某种善意，打出了“微软爱 Linux”等吸引眼球的口号。
+➜科学家揭示水熊虫的秘密
+https://www.solidot.org/story?sid=53296	45459
+微生物水熊虫以在极端环境下生存的能力著称，它是已知唯一一种能在太空真空环境生存下来的动物。科学家<a href="http://www.solidot.org/story?sid=51734" target="_blank"><u>发现</u></a>，在干燥的环境中，它能用玻璃基质替换体内的所有液体。现在，研究人员解码了水熊虫的基因组，<a href="http://www.bbc.com/news/science-environment-40752669" target="_blank"><u>发现了新的秘密</u></a>：在干燥的环境中，水熊虫会产生蛋白质去替代缺失的水，在有水之后，水会重新充满细胞溶解蛋白质。研究人员认为理解这一机制对人类有益，比如在没有冷藏的情况下保存活疫苗。<a href="https://doi.org/10.1371/journal.pbio.2002266" target="_blank"><u>研究报告</u></a>发表在《PLOS Biology》期刊上。
+➜WikiLeaks 公开 Macron 竞选团队的电子邮件
+https://www.solidot.org/story?sid=53297	46719
+法国中间派候选人 Emmanuel Macron 在今年上半年举行的法国总统大选中获胜。媒体当时<a href="http://www.solidot.org/story?sid=52365" target="_blank"><u>报道称</u></a>，Macron 的竞选团队遭到了源自俄罗斯的黑客攻击。人手不足的技术团队知道他们无法抵御攻击，因此他们通过创建假的蜜罐账号迫使攻击者花费时间去识别真正的账号和文件。现在，攻击者终于完成了验证，通过否认与俄罗斯情报机构有关联的 WikiLeaks <a href="https://wikileaks.org/macron-emails/" target="_blank"><u>公开</u></a>。WikiLeaks 称他们发布了一个包含 21,075 封 Macron 竞选团队电子邮件的可搜索档案。

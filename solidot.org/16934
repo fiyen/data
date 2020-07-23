@@ -1,0 +1,56 @@
+➜苹果向滴滴投资10亿美元
+https://www.solidot.org/story?sid=48197	11288
+苹果向Uber在中国的最大竞争对手滴滴打车<a target="_blank" href="http://cn.wsj.com/gb/20160513/tec105635.asp"><u>投资了10亿美元</u></a>。滴滴出行周五表示，已与苹果达成战略投资协议。去年滴滴打车和快的打车合并成立了滴滴出行，得到了中国最大的两家互联网公司腾讯和阿里巴巴的投资，估值超过250亿美元。滴滴出行和优步中国(UberChina)在吸引乘客和投资者方面展开了激烈竞争。两家公司均向使用其服务的司机和乘客提供大量补贴。CEO库克<a target="_blank" href="http://cn.reuters.com/article/apple-didi-idCNKCS0Y4062"><u>表示</u></a>，这将有助于苹果更好地理解重要的中国市场。
+➜Bing封杀技术支持广告
+https://www.solidot.org/story?sid=48198	11888
+技术支持骗局几乎已经与尼日利亚骗局一样著名，骗子伪装成来自知名科技公司如微软和戴尔的技术支持，利用基本无害的错误信息诱使受害者相信电脑中毒，骗取修理费。骗子的欺骗手段主要是通过人工电话，也经常使用在线广告。现在，微软<a target="_blank" href="http://advertise.bingads.microsoft.com/en-us/blog/49352/user-safety-policy-revision-global"><u>宣布</u></a>其搜索引擎Bing将封杀技术支持广告，因为大量的技术支持广告都是欺骗性的。昨天Google宣布将封杀发薪日贷款广告。
+➜湾区裁员人数比去年同期翻一番
+https://www.solidot.org/story?sid=48199	15352
+今年前四个月，湾区科技公司的<a target="_blank" href="http://www.mercurynews.com/business/ci_29880696/tech-layoffs-more-than-double-bay-area"><u>裁员人数超过了3千</u></a>；相比之下，去年前四个月裁员人数只有1515，而2014年的数字是1330。许多迹象显示科技产业进入到了休整阶段：苹果报告了失望的财报，IPO市场停滞，股市波动，中国经济不确定。湾区四个县中，圣克拉拉裁员最多，有2515名科技行业雇员被裁。这些数据不包含小公司和创业公司，以及裁员人数低于50人的大型企业。因为加州的《工人调整与再培训预告法(WARN)》只要求雇主在大规模裁员时必须报告地方政府。
+➜7-Zip发现多个高危漏洞
+https://www.solidot.org/story?sid=48200	17435
+思科Talos安全团队的研究人<a target="_blank" href="http://blog.talosintel.com/2016/05/multiple-7-zip-vulnerabilities.html"><u>员报告</u></a>在流行的开源解压缩工具7-Zip中发现多个可利用的漏洞。7-Zip刚刚释出了最新版的<a target="_blank" href="http://www.7-zip.org/download.html"><u>v16.00</u></a>修复了漏洞，使用7-Zip用户建议尽快升级。研究人员称，7-Zip处理Universal Disk Format(UDF) 文件的方法CInArchive::ReadFileItem存在越界读漏洞，能被任何包含畸形Long Allocation Descriptor的条目触发。另一个可被利用的是堆溢出漏洞，存在于Archive::NHfs::CHandler::ExtractZlibFile方法中。两个漏洞都是有缺陷的输入验证导致的。数据输入验证对所有软件的安全都是至关重要的。
+➜Linux是最大的软件开发项目
+https://www.solidot.org/story?sid=48201	19229
+Linux内核开发者和维护者Greg Kroah-Hartmant在柏林举行的CoreOS Fest上发表演讲，描述了<a target="_blank" href="http://www.cio.com/article/3069529/linux/linux-is-the-largest-software-development-project-on-the-planet-greg-kroah-hartman.html"><u>Linux内核项目的庞大规模</u></a>。Kroah-Hartman称，最新版的Linux 4.5内核包含了超过2100万行代码，其中核心代码占5%，网络相关的代码占35%，驱动超过40%。设备供应商可以根据自己的需要选择使用内核代码，他表示自己的笔记本电脑运行的内核只有160万行代码，而你的手机内核可能只有240万代码。Kroah-Hartman说，最令人影响的地方不是代码行数而是参与的人数：去年有大约4000名开发者和至少440家公司向内核贡献了代码。根据使用的人数，开发的人数，参与的公司数量——Linux是计算机历史上最大的软件项目。
+➜科学家发现不依靠线粒体的肠道微生物
+https://www.solidot.org/story?sid=48202	27761
+科学家发现了一种缺乏线粒体的真核类微生物。<a href="http://zh.wikipedia.org/wiki/%E7%BA%BF%E7%B2%92%E4%BD%93">线粒体</a>为真核细胞提供能量，而所有的真核细胞被认为都包含细胞核、细胞器和线粒体。不列颠哥伦比亚大学的演化生化学研究员<a href="https://www.researchgate.net/profile/Anna_Karnkowska">Anna Karnkowska</a>和同事<a target="_blank" href="http://www.npr.org/sections/health-shots/2016/05/12/477691018/look-ma-no-mitochondria"><u>发现了</u></a>一种不存在线粒体的肠道微生物，对该微生物基因组的测序没有发现任何制造线粒体蛋白质的迹象。她说，理论上它们不应该存在。<a target="_blank" href="http://www.cell.com/current-biology/fulltext/S0960-9822%2816%2930263-9"><u>研究论文</u></a>发表在《Current Biology》期刊上。他们发现，这类细胞使用了一种不同的机制去聚集铁硫簇，而聚集铁硫簇是线粒体的一项基本功能。
+➜美国政府的间谍车伪装成Google街景车
+https://www.solidot.org/story?sid=48203	28642
+<div align="center"><img src="http://img.solidot.org/0/526/liN1XRoBkl5Ss.jpg" height="300" align="" width="400"><br>
+</div>
+<br>
+一辆印有Google Maps图标的SUV，对路过的普通人来说，它应该是Google街景车，但宾夕法尼亚大学的计算机和信息学教授Matt Blaze发现<a target="_blank" href="http://motherboard.vice.com/read/this-isnt-a-google-streetview-car-its-a-government-spy-truck"><u>它实际上一辆伪装的政府监视汽车</u></a>，它车顶上安装的摄像机拍摄的不是街景而是车牌，它的自动车牌识别系统每分钟能拍摄数千车牌照片，能在没有获得法官授权的情况下跟踪一个人的出行习惯。Google发言人确认它不是一辆Google Maps汽车。而费城警方在媒体报道之后<a target="_blank" href="http://motherboard.vice.com/read/philly-police-admit-they-disguised-a-spy-truck-as-a-google-streetview-car"><u>承认这辆汽车属于警局</u></a>，声称上面的贴纸没有获得批准，已经下令立即移除。
+➜Google开源自然语言解析模型SyntaxNet，训练模型Parsey McParseface
+https://www.solidot.org/story?sid=48204	31839
+Google<a target="_blank" href="http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html"><u>宣布</u></a>开源新的自然语言解析模型SyntaxNet。作为TensorFlow开源机器学习库的一部分，SyntaxNet可被用于自动解析语句。Google同时宣布了一个英语语句预先训练的模型Parsey McParseface，它是SyntaxNet的一部分，通过结合机器学习和搜索技术，Parsey McParseface的正确率能达到94%。这个古怪的名字显然是在幽默一下英国的皇家科考船命名的网上投票，在投票中Boaty McBoatface这个名字遥遥领先，英国政府拒绝了投票结果，这艘科考船最终<a target="_blank" href="http://www.bbc.com/news/uk-36225652"><u>取名为</u></a>“Sir David Attenborough”号，但为了表示对网上投票的尊重，科考船的一个遥控水下工具将取名Boaty。
+➜一Twitter账号泄露中国富豪个人信息
+https://www.solidot.org/story?sid=48205	33343
+<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-05-12/chinese-tycoons-party-officials-information-leaked-on-twitter"><u>彭博社</u></a>和<a target="_blank" href="http://cn.nytimes.com/china/20160513/c13china/"><u>纽约时报</u></a>报道了一位泄漏几十个中国名人个人信息的Twitter账号@shenfenzheng(据说<a target="_blank" href="https://twitter.com/heisechanye"><u>有了马甲)</u></a>。Twitter已经冻结了该账号。被封前，该账号发布了多张包含个人信息的照片和屏幕截图，包括相关名人的住址、身份证号、受教育水平和婚姻状况。其中包括中马云、王健林和方滨兴。这些信息的准确性已得到核实。根据全国人大去年通过的一项法律，在中国大陆，购买和散布个人信息是违法的，违反相关规定者可能会被处以三到七年有期徒刑和罚款。但能访问包含这类信息的全国警用数据库的人，没有上百万也就几十万。就算自己无权访问该数据库，他们也可能认识有访问权限的人。“很惊讶这点信息吗？ ”@shenfenzheng在账号被封前说。“希望能引起国人的思考，个人隐私在中国根本不值钱。”
+➜华为为天网统治和死人通讯做准备
+https://www.solidot.org/story?sid=48206	35848
+在CES亚洲展会上，华为手机业务总裁何刚称公司使用科幻电影如《黑客帝国》<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-05-11/huawei-prepares-for-robot-overlords-and-communication-with-the-dead"><u>去想象未来的趋势和新的商业创意</u></a>。他说， 到2035年或25年后，饥饿、贫困、疾病甚至死亡可能都不再是问题。未来你可能购买计算能力作为代理，或者是从物理世界传递到数字世界。通过将意识下载到电脑，未来的儿童可能使用类似微信的应用与死去的祖父母交流。他说，所有这些技术都需要大量的数据储存，能为华为创造新的业务。硅谷的科技公司如Google讨论过后人类社会的计划，但很少看到中国公司也有类似计划。何刚说，科幻电影激励他的团队去考虑新的产品线。
+➜NASA直接观察到地磁重连
+https://www.solidot.org/story?sid=48207	38983
+<div align="center"><img src="http://img.solidot.org/0/527/lijqegtc7r046.jpg" align=""><br>
+</div>
+<br>
+NASA<a target="_blank" href="https://www.nasa.gov/feature/goddard/2016/nasa-directly-observes-fundamental-process-of-nature-for-1st-time"><u>首次直接观察到地磁重连</u></a>——磁场重连是一种磁力线断开和重连，并释放出能量和加速粒子的现象。磁气圈是环绕地球的一个空间区域，在磁气圈中占主导地位的磁场是地磁场。地球磁场的磁力线会重新排列和连接，因此更好地了解这一过程是等离子体物理的一个重要目标。2015年3月，NASA发射了4个航天器，它们是磁气圈多尺度（MMS）探索任务的一部分，该探索使命的目的是在电子尺度上对磁力线重连展开高分辨率的太空实验。科学家对结果分析后<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-05/aaft-nii050916.php"><u>确定</u></a>，磁力线重连过程受到电子尺度动力学的驱动。<a target="_blank" href="http://science.sciencemag.org/content/early/2016/05/10/science.aaf2939"><u>论文</u></a>发表在《科学》期刊上。
+➜英女王被拍到私下批评中国访英官员“无礼”
+https://www.solidot.org/story?sid=48208	39956
+<center>
+<iframe src="https://www.youtube.com/embed/rVfEfBw0gfo" allowfullscreen="" frameborder="0" height="288" width="512"></iframe><br>
+<br>
+</center>
+<a href="/~mtjs">mtjs</a> 写道 "<i>
+据全球多家媒体报道（<a href="http://www.ftchinese.com/story/001067512?dailypop" target="_blank">FT中文</a>、<a href="http://www.telegraph.co.uk/news/2016/05/11/queen-caught-on-camera-making-unguarded-comments-about-rude-chin/" target="_blank">每日电讯</a>）在周二白金汉宫(Buckingham Palace)举行的游园会上，高级警监露茜•德奥丝(Lucy D’Orsi)被引介给女王，并被告知露茜是习近平访英期间负责安保工作的警官，她们由此交流了对该次访问中中国官员的印象，女王首先说道：“哦，那真倒霉，”，随后补充道，“（中国官员）对大使非常无礼”。她指的是英国驻华大使吴百纳(Barbara Woodward)，然后，露茜警官说道，“参与这次习近平访英安保是对我个人极大的考验， 当时，他们从兰卡斯特宫走出来，对我说行程取消。吴百纳跟我在一起，而他们当着我们的面离去了。”。将女王引介给德奥丝的宫务大臣补充说，德奥丝“被中国代表搞得碍手碍脚，但她设法保持了克制，应付自如”。这一谈话过程无意间被一名皇家摄像师录下，并发布到网上。她们的谈话无疑会让宣称英国是中国在欧洲“最好朋友”的英国官员感到尴尬。"</i>《每日邮报》发表了一篇文章讲述了<a target="_blank" href="http://www.dailymail.co.uk/news/article-3588062/The-Royal-guests-HELL-complained-bathroom-wanted-wardrobes-painted-red-snubbed-breakfast-No-wonder-Queen-called-Chinese-rude.html"><u>为什么英国人感到不满</u></a>。
+➜Andy Rubin作证，被甲骨文律师问了4个多小时
+https://www.solidot.org/story?sid=48209	42323
+Android创始人、前Google高管Andy Rubin在甲骨文v.Google一案中作证，<a target="_blank" href="http://arstechnica.com/tech-policy/2016/05/copyright-and-consequences-googles-andy-rubin-defends-android-to-jury/"><u>被甲骨文律师</u><u>Annette Hurst询问了4个多小时</u></a>。在开发Android过程中，Rubin团队使用了三个不同术语去代表他们对于手机的想法——dream，sooner和later，但在2007年看到 iPhone的演示后他们扔掉了sooner，因为它无法与iPhone竞争。在构建Android核心库期间，Rubin说他尝试了来自各处的库去加快开发。Hurst几乎喊着的指出这不是构建Android核心库的净室实现方法，净室意味着你不能从其他人的书上拷贝内容，她还拿起一本Java语言书示范。Rubin答这要根据情况而定。Hurst举起手问道，“所以你甚至不知道有没有净室？”Rubin解释说，如果规格是公开的，那么就不会污染净室，比如说Apache Harmony。
+➜法国新劳工法将赋予员工离线权
+https://www.solidot.org/story?sid=48210	43263
+法国总统奥朗德领导的社会党即将投票通过一项法律，<a target="_blank" href="http://www.bbc.com/ukchina/simp/fooc/2016/05/160513_fooc_ban_work_emails"><u>第一次赋予员工“离线权”（right to disconnect）</u></a>。雇员人数在50人以上的公司有义务起草良好行为章程，规定雇员不需要发、回电子邮件的时段—通常是晚上和周末。这项提议刚刚问世时曾遭媒体嘲笑。但是法国政府表示，永远在线是个普世问题，而且越来越严重，有必要干预。社会党议员Benoit Hamon说，“所有的研究都表明，现在与工作有关的压力比从前多了很多，而且这个压力无时不在。”“离线权”是劳工法的一部分，劳工部长Maryam El Khomri提出的劳工法改革草案在法国激起持续数星期的抗议，其中的“离线权”几乎是得到共识的唯一条款。然而“离线权”能推行的开吗？许多人对此有疑问。一位程序员认为想法虽好但绝对行不通。
+➜美国国会禁止使用Yahoo Mail
+https://www.solidot.org/story?sid=48211	44869
+为了阻止勒索软件攻击，美国国会众议院先后封杀了<a target="_blank" href="https://news.fastcompany.com/the-house-of-representatives-is-blocking-all-apps-using-googles-appspotcom-4006381"><u>Google的Appspot.com域名</u></a>和<a target="_blank" href="http://www.bbc.co.uk/news/technology-36275537"><u>雅虎电邮服务Yahoo Mail</u></a>。根据日期为4月30日的一封众议院发给雇员的电子邮件，对Yahoo Mail的屏蔽直至“另行通知为止”。一位匿名的国会雇员<a target="_blank" href="http://gizmodo.com/cyberattack-leads-to-a-yahoomail-ban-on-capitol-hill-1775851542"><u>透露</u></a>，至少有一次勒索软件攻击成功了，IT部门在20分钟内远程关闭了受影响的电脑，电脑随后被格式化。

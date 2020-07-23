@@ -1,0 +1,68 @@
+➜日本警方督促ISP屏蔽Tor
+https://www.solidot.org/story?sid=34391	11157
+日本执法机构可能是担心自己无法应付网络罪犯和追踪匿名流量来源，因此他们要求ISP<a href="http://arstechnica.com/tech-policy/2013/04/japanese-police-ask-isps-to-start-blocking-tor/"><u>志愿去屏蔽Tor</u></a>。Tor是一种流行的匿名代理工具，但一位自称Demon Killer的黑客利用Tor隐藏IP地址劫持受害者计算机在公共信息版上发布死亡恐吓。今年早些时候，这位真名叫Yusuke Katayama的30岁黑客曾和日本国家警察厅<a href="http://www.solidot.org/story?sid=33054"><u>玩猫捉老鼠游戏</u></a>，他让警察去捉一只颈圈挂着U盘的猫。U盘据称包含了黑客的线索，警方通过调阅周边地区的监控探头记录，<a href="http://www.wired.co.uk/news/archive/2013-02/12/japanese-cat-hacker-caught"><u>逮捕了Katayama</u></a>，扣押了计算机进行分析，他们发现Katayama固定运行Tor去隐藏其在线活动。国家警察厅的一个专家小组引用这起案件及其它理由<a href="http://mainichi.jp/english/english/newsselect/news/20130418p2a00m0na013000c.html"><u>认为</u></a>屏蔽Tor可以减少金融诈骗，儿童色情和机密信息泄露等非法行为。
+➜伟大科学家的糟糕建议
+https://www.solidot.org/story?sid=34392	13198
+社会生物学之父、哈佛大学退休教授E.O.WILSON不久前发表文章<a href="http://www.solidot.org/story?sid=34186"><u>认为</u></a>，成为一位有抱负的科学家并不需要人人都精通数学，他的理由是现在的科学家很少单打独斗而是通过团队协作完成一个研究项目，因此彼此之间可以施展各自擅长的才能，扬长而补短。然而，<a href="http://science.slashdot.org/story/13/04/21/1259207/terrible-advice-from-a-great-scientist"><u>并不是每个人都同意他的观点</u></a>。一位生物学家说，自己独立构建一个错综复杂的数学模型也许确实勉为其难，但你在寻找合作者前必须首先理解数学才能与合作者沟通，你需要有足够的数学和编程能力。一位博客<a href="http://bytesizebio.net/index.php/2013/04/13/terrible-advice-from-a-great-scientist/"><u>争论</u></a>说，E.O.WILSON的成功经历只是一个特例，就像大学缀学生比尔盖茨成为亿万富翁也是一个特例，他们是在正确的时间和地点做正确的事情，因此缺乏某些技能并不会阻碍他们的成功。
+➜Linux 3.9开发统计
+https://www.solidot.org/story?sid=34393	15906
+Linux 3.9计划在上周日发布，但由于许多问题尚未解决，Linus Torvalds改为<a href="http://article.gmane.org/gmane.linux.kernel/1478830"><u>发布</u></a>Kernel 3.9-rc8，正式发布日期推迟一周。Linux 3.9的开发基本上宣告结束，LWN<a href="http://lwn.net/SubscriberLink/547073/295eeabfc182efda/"><u>列出了一些统计数据（截至</u><u>3.9-rc7）</u></a>： 1364开发者贡献了代码，其中最活跃的内核开发者是：Takashi Iwai（根据变更集统计），Paul Gortmaker（根据变更代码行数）。在3.9中，Takashi Iwai的工作是合并ALSA声音驱动；Paul Gortmaker的工作则是删除了大量过时的网络驱动，内核代码行数因此减少了3.4万行。许多活动开发者都从事全职工作，对3.9贡献最多的企业包括：英特尔，Red Hat，SUSE，Google，Linaro，德州仪器，IBM，三星，Vision Engraving Systems，NVidia，Renesas Electronics等（根据变更集统计）；英特尔，Renesas Electronics，Wind River，Red Hat，SUSE，德州仪器等（根据变更代码行数统计）。
+➜小型互联网媒体赢得普利策奖
+https://www.solidot.org/story?sid=34394	17291
+上周揭晓的<a href="http://www.pulitzer.org/node/8501"><u>普利策奖获奖名单</u></a>除了《纽约时报》这样的<a href="http://cn.nytimes.com/article/world/2013/04/16/cc16pulitzer/"><u>大型媒体</u></a>之外，还有一家<a href="http://spectrum.ieee.org/energywise/energy/environment/this-weeks-putlizer-for-insideclimate-news"><u>小型纯互联网媒体</u></a> InsideClimate News。普利策新闻奖是美国新闻界公认的最高荣誉。InsideClimate News是第三家获得普利策奖的网媒，第一家是ProPublica，获得过两次新闻奖，第二是 Huffington Post。InsideClimate News<a href="http://www.pulitzer.org/citation/2013-National-Reporting"><u>获得了</u></a>全国性新闻报道奖，三位记者揭露了全国石油管道监管存在漏洞，报道重点是稀释沥青的潜在环境危害。
+➜苹果宣布向雅安地震灾区捐款五千万，三星六千万
+https://www.solidot.org/story?sid=34395	18503
+<a href="http://www.apple.com.cn/"><u>苹果公司</u></a>宣布<span>向雅安地震灾区捐款5000万人民币，并为部分灾区学校提供全新苹果设备。</span>苹果最大代工厂富士康也宣布捐款五千万，而苹果主要竞争对手三星则在今天<a href="http://www.samsung.com/cn/#televisions-home"><u>宣布</u></a>向雅安震区捐款6000万元人民币，并将在中国的三星工厂和关联公司开展募捐活动。Google则在地震发生之后推出了<a href="https://google.org/personfinder/2013-sichuan-earthquake/?lang=zh-CN"><u>寻人服务</u></a>。周六发生的<a href="http://zh.wikipedia.org/wiki/2013%E5%B9%B4%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87"><u>雅安地震</u></a>至今共造成了188人死亡，一万余人受伤。
+➜1913年的维也纳改变了世界
+https://www.solidot.org/story?sid=34396	22512
+一个世纪之前，希特勒、托洛茨基、铁托、弗洛伊德和斯大林<a href="http://www.bbc.co.uk/zhongwen/simp/world_outlook/2013/04/130419_world_outlook_vienna_1913.shtml"><u>曾经同时在奥地利首都维也纳活动</u></a>。《真理报》的一名异见编辑、左翼领袖托洛茨基曾经写道，他于1913年1月与持假护照的斯大林在维也纳会面。
+斯大林和托洛茨基是1913年生活在维也纳中心的两位重要人物之一，这些人命中注定塑造了（或者说粉碎了）20世纪大部分的世界历史。
+这些重要人物当时的境遇各有不同。斯大林和托洛茨基是在逃的革命家，而弗洛伊德已经非常有名。当时尚年轻的前南斯拉夫领导人铁托在维也纳以南维也纳新城的戴姆勒车厂工作，寻求就业、金钱和美好的时光。与此同时，希特勒正在维也纳美术学院学习。当年24岁的希特勒来自奥地利西北部，为追求自己的艺术梦想居住在多瑙河附近Meldermannstrasse的廉价旅馆里。皇储斐迪南大公居住在附近的美景宫，等待继承皇位。没有人知晓，希特勒当年是否曾经偶遇托洛茨基、铁托或者斯大林。1914年爆发的一战改变了维也纳。
+➜迪士尼宣布一年一部星球大战计划
+https://www.solidot.org/story?sid=34397	25505
+<center>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/CUx2ypHQJO0?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+</center>
+<a href="http://www.empireonline.com/news/story.asp?NID=37187"><u>多个</u></a>消息源<a href="http://entertainment.slashdot.org/story/13/04/21/1319219/disney-announces-one-star-wars-movie-per-year-plan"><u>报道</u></a>，不久前收购卢卡斯影业的迪士尼在CinemaCon上宣布每年推出一部新的《星球大战》电影，JJ Abrams执导的第七部《星球大战》将于2015年上映，而在2020年或潜力挖尽前迪士尼将会每年推出一部《星球大战》电影，除了既定的后传三部曲外，中间穿插上映的将是独立成章的、基于《星球大战》宇宙的衍生电影。一大波Jar Jar Binks逼近？
+➜国内首次使用比特币为灾区募捐
+https://www.solidot.org/story?sid=34400	30386
+<p>4月20日四川雅安地区发生地震之后，各界人士对灾区发起救助、募捐，比特币本身具有透明公开快捷的交易方式在这次为灾区募捐中<span class="st">崭</span>露头角。</p>
+<p><br>
+</p>
+<p>20日当天，李笑来<a href="https://bitcointalk.org/index.php?topic=181336">在bitcoin官方论坛发帖</a>号召国际友人关注四川芦山地区的灾情并为灾区募捐，比特币地址：<a href="http://blockchain.info/fb/15ehgb">15EhGBC8JBBVDKQ9yp1AqCb1xnzQLk6QHX</a> <b>，</b>目前显示48小时内有87笔捐款约25 BTC<b>。</b>其中提到使用比特币募捐的理由是：比特币是理想的国际捐赠工具，因为它的“转账”非常快，相比任何“真实货币”来说，更少麻烦。</p>
+<br>
+<p>21日，霍庆川（微博认证为：壹基金合作发展部总监）发微博表示<a href="http://weibo.com/1595749873/ztbsZr2Ow">壹基金接受比特币捐赠</a>，地址为：<a href="http://blockchain.info/address/1DUMifqLdCRvx6tAzafwDC2tKRntRAAm3z">1DUMifqLdCRvx6tAzafwDC2tKRntRAAm3z&nbsp; </a>其中提到的50BTC 认捐仍未入账，24小时内有40笔约27 BTC 。该微博提到：（壹基金）<em>这可是是中国第一个接受比特币捐赠的NGO，比特币也第一次在中国成为捐赠物。</em></p>
+<p><em><br>
+</em></p>
+<p>壹基金将通过不知名的“中国比特币公社”出售比特币而兑现，而李笑来的设想是将进一步组织线下的以及公开的拍卖会，将募集到的比特币通过3D打印方式制作成纪念品，进行拍卖，通过这种方式甚至可能进一步放大募集到的金额。</p>
+<p>据Thenextweb<a href="http://thenextweb.com/insider/2013/04/21/here-we-go-again-top-bitcoin-exchange-mt-gox-taken-down-for-hours-by-another-strong-ddos-attack/">报导</a>称，Mt.Gox再次遭到了DDoS攻击，目前比特币的价格在125美元上下浮动。        </p>
+➜新微电池令人印象深刻，但缺点也显而易见
+https://www.solidot.org/story?sid=34401	31993
+伊利诺伊大学香槟分校研究人员在《Nature Communications》上发表<a href="http://www.nature.com/ncomms/journal/v4/n4/full/ncomms2747.html"><u>论文</u></a>描述了他们研发的<a href="http://news.illinois.edu/news/13/0416microbatteries_WilliamKing.html"><u>新型微电池</u></a>。新电池的输出功率超过了超级电容器，能快速充放电，可直接整合到微型电子设备中。它可以将传感器信号传播距离扩大30倍，充放电1000次。它的性能确实令人印象深刻，但研究人员没有提到按比例放大的全尺寸电池如何工作，<a href="http://arstechnica.com/science/2013/04/this-new-microbattery-is-interesting-but-not-as-good-as-the-hype/"><u>以及如何解决性能降低问题</u></a>。研究人员演示的原型系统只有0.03立方毫米，每个充放电周期都会损失5%的容量，充放电15个周期后，能储存的电量只有原容量的三分之二。这项技术在正式商业化前还有许多工作要做。
+➜金价大跌但大陆人疯狂采购
+https://www.solidot.org/story?sid=34402	33393
+<div align="center"><img src="http://img.solidot.com.cn/0/313/liuH6FkEKOLHY.png" align="" height="207" width="300"><br>
+</div>
+<br>
+过去几周<a href="http://www.goldprice.org/spot-gold.html"><u>黄金价格</u></a>大幅大跌，每盎司黄金价格下跌超过200美元，但金价大跌却刺激了大陆居民<a href="http://cn.wsj.com/gb/20130417/bog145522.asp?source=NewSearch"><u>疯狂采购</u></a>，<span id="content">北京、上海、南京、广州、香港等多个城市出现<a href="http://news.xinhuanet.com/fortune/2013-04/22/c_124611152.htm"><u>购金热潮</u></a>。</span>过去一周香港黄金销量大增。平时贸易场黄金成交额约为800亿港元，周五升至1000亿港元，到周一又升至1500亿港元。<span id="content">上海地区上周的日均黄金销售量翻到了正常日销售水平的三倍，其中有一日单日销量甚至达到平时的五倍，北京地区情况与上海相似。</span>香港金银业贸易场理事长张德熙<a href="http://www.scmpchinese.com/sc/china/6590/jin-jie-da-die-nei-di-ke-feng-kuang-qiang-gou">表示</a>，此次金价探底，促使年轻人也开始购买黄金。他说，过去几年股市暴跌，令年轻人意识到投资黄金较可规避风险。著名投资家巴菲特则<a href="http://cn.wsj.com/gb/20130419/opn150914.asp?source=NewSearch"><u>认为</u></a>投资黄金很愚蠢。
+➜辽宁官方指责《走出“马三家”》严重失实 ，记者愿当庭对质
+https://www.solidot.org/story?sid=34403	34924
+<div align="center"><img src="http://img.solidot.com.cn/0/314/lirdPoHqpNpsk.jpg" align="" height="629" width="450"><br>
+<br>
+<div align="left">《财经》旗下杂志《Lens视觉杂志》刊登了《走出“马三家”》的长篇报导，记者走访多位曾被劳教人员并采集相关物证等，披露了辽宁马三家劳教所对女性劳教人员使用老虎凳、电击、黑小号、缚死人床等令人触目惊心的酷刑，数年间该所已经有数千人遭受这样的待遇。报导产生了<a href="http://www.solidot.org/story?sid=34207"><u>巨大反响</u></a>，辽宁政府机构组成的调查组对马三家劳教所进行了调查。官方新华社<a href="http://news.xinhuanet.com/politics/2013-04/19/c_115460561.htm"><u>报导</u></a>称，调查结果几乎否认了所有指控，称“ 调查组认为，文中所谓体罚、虐待劳教人员问题，均为不实之词。文中提及的原被劳教人员陆某、梅某、盖某和赵某等４人被‘上大挂’和赵某被‘坐老虎凳’系恶意捏造和无中生有。”《走出“马三家”》一文记者<a href="http://weibo.com/stonebreath"><u>袁凌</u></a>在新浪微博上发表声明，“建议辽宁教养院起诉本人，双方当庭对质，出示人证物证。若我果然造谣污蔑，尽可追究刑责。若报道属实，也请法庭追究教养所虐待者以及包庇的司法厅官员刑责。此外，要公开调查组成员名单，追究制造假新闻的调查组人员和法制网记者霍仕明、新华网的诽谤责任，向本人赔礼道歉，消除恶劣影响。”新浪已经<a href="https://freeweibo.com/weibo/@%E8%A2%81%E5%87%8C-"><u>删除</u></a>了上述博文，但仍然有<a href="http://www.scmp.com/article/1220627/liaoning-authority-torture-claims-female-labour-camps-malicious-fabrication"><u>拷贝保存</u></a>。</div>
+</div>
+➜福岛放射性水平显著低于预期
+https://www.solidot.org/story?sid=34404	38893
+福岛核事故对日本和欧洲国家的核能计划产生了深远影响。但最新研究发现，核事故的危害事实可以被遏制到<a href="http://www.natureworldnews.com/articles/1484/20130419/fukushima-radiation-significantly-lower-expected-study.htm"><u>对人体不构成威胁的水平</u></a>。根据1986年切尔诺贝利核事故的研究，研究人员推测，暴露在福岛第一核电站核心熔毁事故放射性辐射的人体内的铯水平会相当于该地区的沉积密度。据报道福岛当时的放射性水平为2毫希（mSv）。但在对超过10万当地居民进行全身扫描后，研究发现99.9%的人的待积有效剂量（committed effective dose）低于1 mSv，人工辐射暴露的安全标准和推荐最大剂量是1 mSv。这么低的剂量对人几乎构不成任何健康风险。
+➜龙卷风可能诱发地震余震
+https://www.solidot.org/story?sid=34405	40204
+在一场5.8级地震发生五天之后， 飓风艾琳（Hurricane Irene）通过了美国<u>东海岸</u>。通常，地震的余震频率会随着时间的推移而下降，但当飓风艾琳通过时余震的频率却上升了。科学家推测，<a href="http://www.nature.com/news/hurricane-may-have-triggered-earthquake-aftershocks-1.12839"><u>龙卷风可能诱发了地震余震</u></a>。领导这项研究的乔治亚理工大学地震学家Zhigang Peng说，他们最初没有注意到这一不同寻常的模式，因为余震的震级大多很小，而龙卷风本身能产生大量地震噪声。他的团队检查了地震记录，发现5.8级地震后发生了700次余震，10倍于以前的记录。他们随后比较了地震的时间和震区的大气压力，发现气压较低时余震频率没有上升，但龙卷风席卷之后出现了余震的峰值。
+➜纳米海绵能吸收毒素
+https://www.solidot.org/story?sid=34406	42122
+加州圣迭戈分校的一个研究团队<a href="http://www.sci-news.com/medicine/article01022.html"><u>开发出一种“纳米海绵”</u></a>，能从血液中移除各种毒素，其中包括耐甲氧西林金黄色葡萄球菌（MRSA），毒蛇和蜜蜂产生的毒素。对实验鼠的研究显示，纳米海绵可中和成孔毒素，成孔毒素是指通过在细胞膜上穿孔而摧毁细胞的毒素。纳米海绵能吸收不同的成孔毒素而不管其是什么分子结构。在一项实验中，89%的老鼠通过提前注入纳米海绵从致命剂量的MRSA毒素下生存下来，而如果是在毒素注射后注入纳米海绵，生存率下降到44%。研究主要作者Liangfang Zhang教授说，这是一种从血液中清除毒素新方法。
+➜美国富豪在清华设立3亿美元奖学金
+https://www.solidot.org/story?sid=34407	42711
+在众多在中国有商业利益的西方公司的支持下，私募股权巨头、黑石集团CEO史蒂文·A·施瓦茨曼(Stephen A. Schwarzman)<a href="http://cn.nytimes.com/article/business/2013/04/22/c22scholarship/"><u>宣布</u></a>设立3亿美元的<a href="http://en.wikipedia.org/wiki/Schwarzman_Scholars"><u>施瓦茨曼中国奖学金项目</u></a>。这项捐赠是世界教育领域规模最大的单笔捐赠之一，也是中国迄今得到的最慷慨慈善捐赠之一。施瓦茨曼奖学金项目每年将为来自世界各地的200名学生支付在北京清华大学参加为期一年的硕士项目的所有花费。他在这个项目中所扮演的角色会提高他在中国的政治影响力，有可能会增加他和黑石集团接触中国领导层的机会。清华大学著名经济学家李稻葵(<a title="Link: http://www.sem.tsinghua.edu.cn/en/lidk" href="http://www.sem.tsinghua.edu.cn/en/lidk" rel="nofollow" target="_blank">David Daokui Li</a>)是这一新奖学金项目的负责人，他称，该校已经有三分之一的课程使用英文授课，商业和经济等学科的英文课程则超过一半。施瓦茨曼称他的主要目的在于促进中国和世界各地的相互理解，但他也承认，还有一个更私人的动机。
+➜物理学家提出智能起源的新见解
+https://www.solidot.org/story?sid=34408	47233
+来自基本物理学原理的一个方程式<a href="http://www.insidescience.org/content/physicist-proposes-new-way-think-about-intelligence/987"><u>可以描述智能</u></a>？MIT哈佛物理学家Alexander Wissner-Gross和夏威夷大学数学家Cameron Freer在《Physical Review Letters》上发表<a href="http://www.alexwg.org/publications/PhysRevLett_110-168702.pdf"><u>论文</u></a>（PDF），提出了可描述许多智能或认知行为如直立行走和工具使用的方程式。研究是基于热力学原理，热力学的一个核心概念是熵，<a href="http://zh.wikipedia.org/wiki/%E7%86%B5"><u>熵</u></a>被用于形容一个系统中的失序趋向。热力学第二定量指出在任何一个孤立系统中，熵总是趋向于增加。镜子可以变成无数个碎片，但大量的碎片并不能组装成镜子。在最新研究中，科学家首次在熵最大化和适应性行为之间建立了物理连接，他们提出智能行为源自于迫切想控制环境中未来事件的冲动，而不是有了智能后才想去控制环境，他们认为智能其实是一个基本的热力学过程。他们开发出一个受简单热力学原理控制的软件引擎 Entropica，让Entropica处于一个环境下，它可使用一个东西作为工具从容器中取出另一个东西，软件表现出了人或动物可能采取的相似行为。

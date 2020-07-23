@@ -1,0 +1,42 @@
+➜香港警方逮捕 Telegram 群主
+https://www.solidot.org/story?sid=60982	10809
+香港警方<a href="https://www.nytimes.com/2019/06/13/world/asia/hong-kong-telegram-protests.html" target="_blank"><u>逮捕了</u></a>一位有 2 万成员的 Telegram 聊天群管理员。22 岁的群主 Ivan Ip 在接受采访时表示，他从来没有想到只是在互联网上说说话分享下信息，就会被视为思想罪犯。在保释之后他只睡了四个小时，时刻担心警察会再次现身再次逮捕他。恐惧的感觉已经深入其心。警方认为这位群主是“主谋”，他们是在晚上 8 点拿着搜查令前来逮捕他，要求他解锁手机，称他们在调查其管理的聊天群中的极端分子。Ivan Ip 一开始拒绝解锁手机，但警方威胁使用一个设备破解他的小米六智能手机。他屈服了，输入了密码，警方随后导出他的聊天记录。警方暗示他们是通过电话号码识别他的身份的。Telegram 聊天可以启用加密，但群组聊天没有端对端加密。香港警方网络安全及科技罪案调查科称，逮捕这位群主的理由是他被怀疑合谋导致公共妨害。他已获保释，但调查仍然在继续。
+➜Valve 内测 Dota 自走棋
+https://www.solidot.org/story?sid=60983	11391
+Valve <a href="http://cn.dota2.com/2019/06/%e5%88%80%e5%a1%94%e9%9c%b8%e4%b8%9a/" target="_blank"><u>开始扩大内测</u></a>自己的 Dota 自走棋《刀塔霸业》。Valve 称，《刀塔霸业》是一款全新的独立版本游戏。在游戏里，你会与七名对手激烈斗智，组建阵容，组合英雄，不断升级，争夺对白色尖塔城的统治权。在这款游戏里，获胜靠的不是微操作，而是高强的战略。过去几周，他们一直在进行内部测试，现在将测试扩大到所有拥有 Dota 2 勇士令状的玩家。拥有勇士令状的玩家可以在 Dota 2 的主界面找到链接，将《刀塔霸业》加入其 Steam 库中。开展压力测试约一周后，游戏将转入公测。公测开始后，《刀塔霸业》将在 Steam（Windows、Mac 及 Linux）、安卓和 iOS 上对所有人免费推出。
+➜英国内政大臣批准将阿桑奇引渡至美国
+https://www.solidot.org/story?sid=60984	11565
+英国内政大臣<a href="http://www.ftchinese.com/story/001083190"><u>签署了引渡令</u></a>，批准将 WikiLeaks 创始人阿桑奇 (Julian Assange) 引渡至美国。阿桑奇在美国面临密谋侵入政府电脑和触犯间谍活动法律的指控。贾维德 (Sajid Javid) 昨天宣布他已正式同意美国司法部本周提出的请求。“阿桑奇应该入狱。” 贾维德告诉 BBC。“美国的引渡请求将在明天提交法庭，但昨天我已签发引渡令，它将在明天提交法庭审理。”威斯敏斯特地方法院今日将就阿桑奇案举行行政聆讯，但尚未确定正式引渡聆讯的日期（可能安排在今年晚些时候）。阿桑奇正在力争避免被引渡，并可能主张，将他引渡至美国侵犯了他的人权。
+➜微软发布包含 Linux 内核的 Windows 10 测试版本
+https://www.solidot.org/story?sid=60985	16538
+微软释出了新的预览版 <a href="https://blogs.windows.com/windowsexperience/2019/06/12/announcing-windows-10-insider-preview-build-18917/" target="_blank"><u>Windows 10 Insider Preview build 18917</u></a>，正式向测试者<a href="https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/" target="_blank"><u>提供了</u></a> Windows Subsystem for Linux 2 或 WSL 2。第一代 WSL 不是真正的 Linux 内核，而是微软自己开发的内核组件，提供了与 Linux 内核相同的 API，本质上是将 Linux API 翻译到 Windows NT kernel API。WSL 2 将使用 Hyper-V 创建一个轻量级虚拟机运行真正的 Linux 内核。为了<a href="https://docs.microsoft.com/en-us/windows/wsl/wsl2-install"><u>安装</u></a> WSL 2，测试者需要以管理权限在 PowerShell 窗口中输入“Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform”。明年发布的 Windows 10 20H1 将包含 WSL 2，今年下半年的 Windows 10 19H2 还是旧版本。
+➜Google 承诺不会削弱 Chrome 的广告屏蔽功能
+https://www.solidot.org/story?sid=60986	19424
+在遭到用户抨击之后，Google 工程师<a href="https://blog.chromium.org/2019/06/web-request-and-declarative-net-request.html"><u>承诺</u></a> Chrome 扩展系统即将到来的改变不会削弱广告屏蔽器。搜索巨人声称  Chrome 新扩展 API 事实上能改善用户隐私和带来速度上的改进。Google 还承诺提高新 API 的限额，解决广告屏蔽器开发者对新扩展 API 的最大批评。Chrome 新的扩展平台被称为 Manifest V3，其中一个改变是用 Declarative Net Request API 替代广告屏蔽扩展使用的 Web Request API，扩展开发者对新 API 的最大批评是它设置了一个硬编码限制，它限制每个扩展只能使用最多 30k 条规则。而 uBlock Origin 在不包含任何地区特定列表的情况下就有近 200K 条规则。30k 条是非常荒谬的限制，将会大大削弱广告屏蔽扩展的可用性。Google 表示它计划将限额从&nbsp; 30k 增加到 150k，但这个额度仍然非常低，Google <a href="https://tech.slashdot.org/story/19/06/13/1522245/google-promises-to-play-nice-with-ad-blockers-again"><u>被指满嘴谎言</u></a>。
+➜木星卫星欧罗巴表面有氯化钠
+https://www.solidot.org/story?sid=60987	25276
+加州理工的科学家在木星卫星欧罗巴表面<a href="https://www.caltech.edu/about/news/table-salt-compound-spotted-europa"><u>发现</u></a>氯化钠。<a href="https://advances.sciencemag.org/content/5/6/eaaw7123"><u>研究报告</u></a>发表在《Science Advances》期刊上。人们很早就知道木卫二表面有盐，但早期的观测表明它们是硫酸盐 —— 通过硫酸和其他化合物相互作用产生。加州理工的科学家利用哈勃太空望远镜，研究了这颗冰冷卫星表面的化学成分。他们<a href="http://news.sciencenet.cn/htmlnews/2019/6/427394.shtm"><u>发现了</u></a>氯化钠在被太空辐射轰击后使木卫二表面变黄的迹象。最明显的一处迹象来自一个名为 Tara Regio 的 “混沌区域”。该地区被认为由地下海洋的水冲刷形成。这表明盐分可能来自木卫二内部，从而暗示了海洋的化学成分。从可居住性的角度来说，这是一个好迹象。地球上的海洋是人类所知道的宇宙中唯一适合居住的。此外，土卫二的地下海洋有很多生命必需的成分，比如复杂的有机分子，并且同样充满了氯化钠。
+➜华为表示准备发布鸿蒙
+https://www.solidot.org/story?sid=60988	26018
+华为高管周四称公司正为 “鸿蒙” 操作系统的发布<a href="https://cn.reuters.com/article/huawei-os-preparations-0613-thur-idCNKCS1TF025?il=0" target="_blank"><u>做准备</u></a>，以取代 Google 的安卓系统。华为公共与政府事务部总裁办副总裁 Andrew Williamson 在一次采访中称，“目前来看华为有可能发布替代系统，华为并不想这么做。我们非常愿意留在安卓大家庭当中，但鸿蒙系统的测试正在进行，主要是在中国。”Williamson 指出，如果贸易紧张形势升级为全面贸易战，鸿蒙系统将准备好在 “几个月后” 发布。联合国世界知识产权组织 (WIPO) 的资料显示，华为已经在多个国家为其鸿蒙手机操作系统提交了商标注册申请。
+➜印度计划发射自己的空间站
+https://www.solidot.org/story?sid=60989	27053
+印度<a href="https://techcrunch.com/2019/06/13/india-space-station/" target="_blank"><u>计划未来发射</u></a>自己的空间站，开展研究太阳和金星的独立任务。印度空间研究组织(ISRO)表示，在 2022 年首次载人太空飞行之后它将开始空间站相关的工作。计划中的载人飞行任务被称为 Gaganyaan，印度政府已经批准了 1000 亿卢比（Rs 10,000 crores）的拨款。ISRO 主席 Kailasavadivoo Sivan 博士称，在载人太空任务后，印度必须维持 Gaganyaan 计划，因此需要拥有自己的空间站。Chandrayaan、Mangalyaan 和 Gaganyaan 这些太空计划将能激发年轻一代的兴趣，团结国家，为未来的技术发展铺平道路。
+➜日本计划为年长者创建新的驾照系统
+https://www.solidot.org/story?sid=60990	28815
+日本有着世界年龄最大的人口群，大约 28% 的居民年龄在 65 岁以上。日本七分之一的人口超过 75 岁。根据日本警方的数据，16 岁至 24 岁年龄组的司机通常比其他年龄组更容易引发交通事故。但年龄超过 75 岁的司机引发的致命车祸正越来越多。去年年龄超过 75 岁的司机导致了 460 起致命车祸，此类事故在致命车祸中的比例从 2008 年的 8.7% 增加到了 2018 年的 14.8%。在此背景下，日本计划为 75 岁以上司机<a href="https://www.japantimes.co.jp/news/2019/06/11/national/japan-plans-new-drivers-license-system-elderly-accidents-surge/#.XQFIh8opCf0" target="_blank"><u>创建新的驾照系统</u></a>，他们在更换驾照时需要接受认知评估测试。
+➜用 Game Builder 创造自己的游戏
+https://www.solidot.org/story?sid=60991	32101
+Google 官方博客<a href="https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/"><u>介绍了</u></a> Area 120 开发的一个原型游戏编辑器 Game Builder。<a href="https://store.steampowered.com/app/929860/Game_Builder/" target="_blank"><u>Game Builder</u></a> 已于去年底在 Steam 平台启动抢先体验，只支持 Windows，不支持 Linux，开发者<a href="https://steamcommunity.com/app/929860/discussions/0/1743357605564602098/"><u>表示</u></a>暂时没有支持 Linux 的计划。开发者称，Game Builder 旨在让创造游戏的过程像玩游戏一样，不需要有任何游戏开发经验。多位用户可以同时创建游戏。它使用了基于卡牌的可视化游戏编程系统，用户可以通过拖曳卡牌来创建动作，还可以使用 Javascript 语言来构建自己的卡牌。用户可以利用  <a href="https://poly.google.com/" target="_blank">Google Poly</a> 上提供的数以千计的 3D 模型。
+➜日本通过法律禁止酒后操作无人机
+https://www.solidot.org/story?sid=60992	35734
+日本国会本周通过了法律<a href="https://www.bbc.co.uk/news/technology-48621450" target="_blank"><u>禁止酒后操作无人机</u></a>，违反者将面临最高一年的监禁和最高 30 万日元的罚款。法律针对了重量超过 200 克的无人机，对飞行空域也进行了限制。日本交通省官员称，我们相信饮酒后操作无人机与酒后驾驶一样严重。新的法律还对操作无人机表演危险性的动作进行了限制，比如操作无人机朝人群快速俯冲的人将面临最高 50 万日元的罚款。无人机还被禁止未经许可飞到距离军队、美国军方人员和军事设施 300 米内。
+➜中国探索用臭虫对抗秋行军虫
+https://www.solidot.org/story?sid=60993	39609
+中国科学家正寻求通过部署臭虫<a href="https://www.bloomberg.com/news/articles/2019-06-11/stink-bugs-could-be-unleashed-to-battle-china-s-fall-armyworms" target="_blank"><u>去对抗威胁到农作物的秋行军虫</u></a>。被称为蠋蝽的臭虫是秋行军虫的天敌。中国农科院植物保护研究所的研究人员相信可以利用生物去控制破坏庄稼的虫害。秋行军虫是在今年初进入中国，目前已经扩散到 18 个省市，预计会在本月抵达东北的玉米种植地带，明年扩散到所有产粮区。臭虫的杀伤力令人印象深刻，中国科学家在云南的田野测试发现，一只成年臭虫可以在一天内消灭多达 41 只秋行军虫幼虫。植物保护研究所已经建立了一座工厂，一年可以繁殖一千万只臭虫。
+➜中国向联邦快递送达询问通知书
+https://www.solidot.org/story?sid=60994	46472
+官方新华社<a href="https://cn.reuters.com/article/china-fedex-probe-0614-idCNKCS1TF1DN?il=0"><u>报道</u></a>，中国国家有关部门对联邦快递未按名址投递快件行为依法启动调查程序，于 6 月 14 日向联邦快递（中国）有限公司送达了询问通知书。美国联邦快递此前在中国发生未按名址投递快件行为，严重损害用户合法权益，已违反中国快递业有关法规，国家有关部门决定立案调查。华为的两个包裹据报道<a href="https://www.solidot.org/story?sid=60773" target="_blank"><u>发生了错误转运</u></a>。
+➜华为或在俄罗斯推出预装 Sailfish 的手机
+https://www.solidot.org/story?sid=60995	47540
+俄罗斯媒体<a href="https://www.zdnet.com/article/huaweis-android-puzzle-is-linux-sailfish-now-an-option-alongside-its-own-os/"><u>报道称</u></a>，华为可能用 Aurora OS 替代 Android。Aurora OS 是<a href="https://www.solidot.org/story?sid=59606" target="_blank"><u>基于</u></a>芬兰公司 Jolla 在 MeeGo 基础上开发的 Sailfish OS。2016 年，俄罗斯公司 Open Mobile Platform (OMP) 获得许可开发俄罗斯版本的 Sailfish OS。Aurora OS 与 Sailfish OS 最大区别是剥离了 Android 兼容层，也就是它将无法运行 Android 应用程序。它主要供政府部门和国企使用。如果华为手机预装 Aurora OS，那么产品极有可能是面向俄罗斯及周边地区市场销售的。Jolla 在 2017 年发起了中国财团  Sailfish China Consortium，推动构建中国版的 Sailfish OS，但进展缓慢。

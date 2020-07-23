@@ -1,0 +1,50 @@
+➜Neuralink 借助人机接口帮助人类追赶 AI
+https://www.solidot.org/story?sid=51843	11537
+《华尔街日报》援引知情人士的消息<a href="http://cn.wsj.com/gb/20170328/tec090612.asp" target="_blank"><u>报道</u></a>，Elon Musk 成立了一家新公司 Neuralink，旨在通过人机接口增强大脑的认知能力赶上 AI 的脚步。Neuralink 的另一位联合创始人是  Max Hodak，目前还不清楚 Neuralink 会打造什么产品。知情人士称，Neuralink 打造的首批产品有可能是治疗癫痫、重度抑郁症之类脑部顽疾的先进植入物。这类植入物将基于已用于治疗帕金森症之类脑部疾病的较简单电极。此类疾病治疗市场的规模达数十亿美元。如果 Neuralink 能够证明其技术的安全性和有效性并得到政府批准，然后也许该公司可进行提高认知功能的脑 “整容” 手术。
+➜APT29 使用了 Tor 插件来规避流量检测
+https://www.solidot.org/story?sid=51844	11896
+<a href="/~cutpigsrollaroundint">cutpigsrollaroundint</a> 写道<i> "Domain fronting 是一种能够让审查者看起来是在访问 Google，Amazon 或是 Cloudflare 网站的 <a href="https://www.bamsoftware.com/papers/fronting/" target="_blank">技术</a>（<a href="http://www.icir.org/vern/papers/meek-PETS-2015.pdf" target="_blank">PDF</a>）。安全公司 Mandiant <a href="https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html" target="_blank">报告称</a>，这项技术已经被 APT29 使用了至少两年的时间，该黑客组织被认为是与最近的美国选举攻击事件有关。APT29 使用了 Tor 匿名网络与受感染的机器通信。为了让 Tor 流量看起来像是合法的流量，他们使用了 Meek 插件。在攻击中，APT29 使用 PowerShell 脚本和批处理文件把 Tor 客户端和 Meek 插件安装到目标系统，他们还用了粘滞键漏洞来把合法文件替换为命令提示符文件，脚本还会创建一个名为 Google Update 的 Windows 服务来确保系统重启之后后门还在。2016 年 6 月，Meek 插件的维护者 David Fifield <a href="https://lists.torproject.org/pipermail/tor-talk/2016-June/041057.html" target="_blank">称</a>，meek-google 网桥被谷歌停用了，理由是违反服务条款，谷歌没有给他回复，现在看来这可能与上文有关。
+"</i>
+➜气候变化可能加剧中国的雾霾危机
+https://www.solidot.org/story?sid=51845	12954
+最新的研究显示，气候变化<a href="http://cn.nytimes.com/china/20170327/china-air-pollution-smog-climate-change/" target="_blank"><u>可能会阻碍</u></a>中国控制不断恶化的雾霾危机的努力。科学家表示，刮风往往有助于吹散雾霾，但最近几十年出现的气象规律变化导致中国一些人口最密集的城市空气流动情况很差。“过去大家都认为雾霾的控制在于降低区域污染，” 南京信息工程大学教授、上周发布的<a href="http://www.nature.com/articles/nclimate3249.epdf?referrer_access_token=etbsmb1CzCBcxLjs6IxVcdRgN0jAjWel9jnR3ZoTv0MoXcUSBSjV6UjkVvdNaDHO_Hf_2V4uzpvNgOSozO2MSnua3X-ye84ajTNIUXcCCqcu3jLElWR4cS_zoZ8ZKHo5tLNM5gUdrHPNnVvUsLYebz1f9NrZvMsWysaXQLzVxbVsgG1A3aeJTWQY9hkhqG21a0Fosv3aFy2l_pJsoF48pe-fplrMGWaTck3XM4yW6p9fPfVilMVJVYB4Kwsnnt_Mzmt-ZRfe7qeE-oBTrVuJwzfj9h70jfvLmKPp-_y9t-4%3D&amp;tracking_referrer=babel.i.cn.nytimes.com" target="_blank"><u>一项气候变化研究</u></a>的联合作者廖宏说。“现在我们都清楚这需要全球范围内的协作。”这些发现显示，即使中国官员努力推进雄心勃勃的减排计划，恐怕也难以抵消气候变化的影响。廖宏的研究仔细分析了北京自 2009 年至 2016 年的污染数据，之后预测与严重雾霾有关的天气情况有可能在未来几十年里变得越来越普遍。”
+➜腾讯高管表示将开放 AI 研究
+https://www.solidot.org/story?sid=51846	16434
+AI 是今天的显学，腾讯围棋 AI 绝艺在东京计算机围棋 UEC 比赛上夺冠之后引发了外界对其 AI Lab 的兴趣。腾讯 AI Lab 成立于 2016 年 4 月，目前大约有 50 位科学家和 200 名工程师，其官网<a href="http://ai.tencent.com/ailab/paper-list.html" target="_blank"><u>公开了八篇论文</u></a>，其它信息也寥寥。腾讯 AI Lab 的负责人姚星接受采访<a href="http://www.ftchinese.com/story/001071930?full=y" target="_blank"><u>谈论了该机构的概况</u></a>，称从科研定位和对原创性技术研究的定位来看，AI Lab 是腾讯第一个从事原创研究的机构。腾讯不是一家以开放文化著称的互联网公司，但姚星表示 AI 研究将会拥抱开放文化。他说，“对一家互联网企业来说，过去的确开放比较少，但对学术界来说，开放是一个传统和习惯，如果不开放，科技的进展一定是非常缓慢。假如我们的定位是从事科学研究，会抱着同样的开放心态。当然，我们可以发现到，原来保密性做的好的商业公司，最近也加入了开放文化。包括最难看到开放的苹果，开始在 AI 领域对外发表论文。又比如说谷歌的开源机器学习代码 TensorFlow，改变了整个行业的技术平台，提升 AI 的准入门槛，对行业起了非常大的作用。当然还有 Facebook，也开源了非常多的东西。腾讯之前也开源过，可能局限在工程性的东西，而不是科研上的发现。我相信腾讯今年会有计划开放我们的 AI 能力，让行业能去使用、降低 AI 进入门槛。”
+➜朝鲜黑客将各国银行作为袭击目标
+https://www.solidot.org/story?sid=51847	17029
+《纽约时报》<a href="http://cn.nytimes.com/asia-pacific/20170327/north-korea-hackers-global-banks/" target="_blank"><u>报道</u></a>，安全研究人员透露，去年年底，与朝鲜有关的黑客试图闯入多家波兰银行时留下了一些信息，显示他们企图从全球 100 多个机构窃取资金。朝鲜黑客留下的攻击清单显示目标包括世界银行、欧洲中央银行等机构，以及美国银行等，唯一一个与中国有关的目标是中国银行在香港和美国的分支机构，俄罗斯、委内瑞拉、墨西哥、智利和捷克的央行都在名单上。安全研究人员表示，它表明了朝鲜黑客能力的长进。除了进行宣传鼓吹和窃取数据，以及扰乱敌国的政府和新闻网站之外，他们的目标现在还转向了资金。越来越多的证据表明朝鲜这个被全球大部分经济体所孤立的国家胆子越来越大，正在越来越多尝试利用其网络攻击能力来获取现金。据韩国官员估计，朝鲜拥有一个巨大的黑客网络，拥有 1700 名黑客，并由 5000 多名培训师、主管和其他人员做后援。由于该国的基础设施不佳，黑客通常在国外工作，比如中国、东南亚和欧洲等。为了赚钱，朝鲜黑客还开始使用勒索软件。黑客们会让受害者支付赎金——通常是比特币——以换取解密密钥。
+➜知名 PHP 和 Drupal 开发者因性调教行为被踢出
+https://www.solidot.org/story?sid=51848	19829
+Drupal CMS 项目创始人及领导人 <a href="https://en.wikipedia.org/wiki/Dries_Buytaert" target="_blank"><u>Dries Buytaert</u></a> 最近要求知名 Drupal 和 PHP 贡献者 Larry Garfield 离开 Drupal 项目，理由是他的非传统性行为与 Drupal 项目的价值观相违背。这件事在 Drupal 社区<a href="https://developers.slashdot.org/story/17/03/27/2115233/prominent-drupal-php-developer-kicked-from-the-drupal-project-over-unconventional-sex-life" target="_blank"><u>引发了热议</u></a>。Garfield 的非传统性行为是指调教。Garfield 参与了 <a href="https://en.wikipedia.org/wiki/BDSM" target="_blank"><u>BDSM</u></a> 和 <a href="https://en.wikipedia.org/wiki/Gorean_subculture" target="_blank"><u>Gorean 亚文化</u></a>社区，这两种亚文化都涉及到性调教，在男女关系中形成主人和奴隶的关系，男性从中享受到支配女性的愉悦。Buytaert 说，当社区的一名知名成员的私人立场变得公开，引发争议和对 Drupal 项目造成破坏时，他必须考虑其影响。Garfield 则发表博客<a href="https://www.garfieldtech.com/blog/tmi-outing" target="_blank"><u>公开描述了他的私人性生活</u></a>，表示自己会继续参加性调教，承认性调教会让一些人反感。他说，性调教潜在可能会被滥用，但潜在滥用并不代表真的滥用，而任何的性关系都可能会被恶意者滥用。他引用研究称，参与 BDSM 和 Gorean 社区的人在现实生活中比普通人更少发生性关系滥用。
+➜重庆制定规定禁止擅自翻墙上境外网站
+https://www.solidot.org/story?sid=51849	26199
+重庆市政府公众信息网<a href="http://epaper.cqcb.com/html/2017-03/28/content_229597.htm" target="_blank"><u>发布了</u></a>（已经 404）修订后的《<a href="http://www.cq.gov.cn/publicinfo/web/views/Show!detail.action?sid=4186133" target="_blank"><u>重庆市公安机关网络监管行政处罚裁量基准</u></a>》（官网地址），该规定从去年就开始执行，但直到昨天才对外公开。<i>《基准》列举的违法行为包括：擅自建立、使用非法定信道（aka&nbsp; VPN）进行国际联网；接入网络未通过互联网络接入国际联网；未经许可从事国际联网经营业务；未经批准擅自进行国际联网；未通过接入网络进行国际联网；未经接入单位同意接入接入网络；未办理登记手续接入接入网络。惩罚包括：不以盈利为目的，初次实施上述违法行为，责令停止联网，给予警告。以盈利为目的实施上述违法行为，违法所得在 5000 元以下的，责令停止联网，给予警告，同时没收违法所得... 违规经营国际互联网络业务，不以盈利为目的，初次实施上述违法行为，给予警告；以盈利为目的实施上述违法行为，违法所得在 5000 元以下的，给予警告，可以并处 5000 元以下罚款，同时没收违法所得...</i>
+➜DragonFly BSD 4.8 发布
+https://www.solidot.org/story?sid=51850	30107
+前 FreeBSD 分支、以 HAMMER 文件系统著称的 BSD 操作系统 DragonFly BSD 发布了 <a href="http://www.dragonflybsd.org/release48/" target="_blank"><u>4.8</u></a>。主要新特性包括：安装程序支持 EFI 引导，改进内核性能（5%）、新的 NVMe 驱动、新的 eMMC 驱动、更新英特尔 i915 视频驱动、软件更新如  GCC 5.4.1、binutils 2.25、以及bug 修正和安全修正，等等。详细可阅读发布公告。
+➜蜜蜂使用腹部的磁结构导航
+https://www.solidot.org/story?sid=51851	31263
+根据发表在《Royal Society Proceedings B》期刊上的<a href="http://rspb.royalsocietypublishing.org/content/284/1851/20162873" target="_blank"><u>一项研究</u></a>，加拿大生物学家和物理学家发现，蜜蜂使用<a href="http://physicsworld.com/cws/article/news/2017/mar/27/honey-bees-navigate-using-magnetic-abdomens" target="_blank"><u>位于腹部的一个磁结构感知磁场</u></a>，这一结论源自一组对蜜蜂的物理和行为实验，实验显示可以使用强磁铁破坏蜜蜂的磁感应能力。蜜蜂不是唯一一种能使用磁场导航的动物，啮齿动物、鸟类、鱼类、爬行动物、细菌和昆虫都能表现出类似的能力，但导航背后的磁受作用机制所知不多。
+➜Netflix 现在是好莱坞的头号公敌
+https://www.solidot.org/story?sid=51852	33616
+流媒体巨头与好莱坞公司之间的关系日益紧张，因为 Netflix 开始深入到传统上由好莱坞控制的领地，大规模投资制作原创剧和购买剧集，与好莱坞构成了竞争关系。去年 8 月，二十一世纪福克斯电视制作部门一颗冉冉升起的明星 Tara Flynn 走进上司的办公室，告诉老板要辞职加入 Netflix。几周后 Netflix 完成了 Flynn 女士的雇佣手续，福克斯提起了诉讼，指控其通过下三滥的手段挖角福克斯高管，福克斯电视工作室负责人 Bert Salke 将 Netflix <a href="http://www.business-standard.com/article/international/enemy-number-one-is-netflix-the-monster-that-s-eating-hollywood-117032600023_1.html" target="_blank"><u>称为是头号公敌</u></a>。Netflix 回应称福克斯的合同是非法的和不可执行的。这起法律诉讼是好莱坞与 Netflix 之间紧张局势升级的一个迹象。Netflix 今年在原创剧和购买剧集上的开支预计将超过 60 亿美元，是时代华纳旗下 HBO 开支的两倍多，是二十一世纪福克斯 FX 或 CBS Showtime 的五倍。
+➜Docs.com 曝光用户敏感信息，微软移除搜索功能
+https://www.solidot.org/story?sid=51853	34994
+<div align="center"><img src="http://img.solidot.org/0/255/litVRD0hAXhXg.jpg" width="450" height="340" align=""><br>
+<br>
+</div>
+<br>
+安全研究人员发现，微软 Office 365 服务的关联免费文件共享网站 Docs.com <a href="https://arstechnica.com/security/2017/03/doxed-by-microsofts-docs-com-users-unwittingly-shared-sensitive-docs-publicly/" target="_blank"><u>曝光了大量的用户敏感信息</u></a>。这些敏感信息包括了账号名称、密码、地址、社保号、银行账号等。使用 Docs.com  服务的用户不知道他们在组织内外分享的文件被搜索引擎索引了。微软随后暂时从 Docs.com&nbsp; 上移除了搜索框和搜索功能，但用户的数据仍然可以通过 Google 和 Bing 等搜索引擎搜索到（如图所示）。<br>
+➜中国聘用协调员鼓励器官捐献
+https://www.solidot.org/story?sid=51854	37740
+在无锡市，如果有人因事故或疾病出现脑死亡，钱公淘将是最早得知的人之一。钱公淘不是医生，政府发给他的工作证上写着 “<a href="http://www.ftchinese.com/story/001071963" target="_blank"><u>器官捐献协调员</u></a>”，这一新职业是为了解决中国长期缺乏器官捐赠的问题而设立的，中国近年来聘用了约 2000 名器官捐献协调员，其中四分之一是在 2016 年接受培训的，该职业月薪高达 1 万元人民币。去年中国的器官捐赠者刚超过 4000 人，而等待移植者为 30 万。随着中国于 2015 年起禁止使用死刑犯器官，器官短缺进一步加深。由于中国缺乏器官捐献传统，钱公淘的绝大多数努力都是徒劳。他坚称捐献 “必须是自愿的”，但可以安排一些鼓励措施。他说：“如果你捐了，那么你要是对政府有任何要求，比如上学，或者有任何问题，我们可以帮忙的。”政府认定的贫困家庭如果签订捐献协议，每户可获得一万元人民币。捐赠者的名字可以刻在一块饰板上，陈列在一个专属墓地里，他们的骨灰可以存放在该墓地，每年还会举行纪念仪式。
+➜硅谷亿万富翁的追逐永生之路
+https://www.solidot.org/story?sid=51855	43440
+3 月的一个晚上，Norman Lear 的客厅挤满了想要知道长寿秘密的人。当研讨会的第一位演讲者询问在场有多少人想要活到 200 岁，同时能保持健康，几乎所有人都举起了手。但人们想要保持身材苗条的理由各有各的不同：风险投资人保持苗条是为了维持有活力的印象，科学家保持苗条是因为他们读过有关限制卡路里摄入能延长寿命的论文，好莱坞明星保持苗条则是理所当然。Goldie Hawn 询问了诺贝尔奖得主 Liz Blackburn 一个问题，称他听说名叫谷胱甘肽的分子能保持细胞的健康。谷胱甘肽是一种保护细胞和线粒体的抗氧化剂，好莱坞的一些人将这种分子形容为上帝的分子。Blackburn 回答说，没有单一的分子能解答衰老之谜。然而衰老之谜的答案以及解决方法也许即将到来。硅谷的亿万富翁们<a href="http://www.newyorker.com/magazine/2017/04/03/silicon-valleys-quest-to-live-forever" target="_blank"><u>正在投入巨资研究长寿</u></a>，致力于延长人类的寿命，或者至少是他们的寿命，让死亡成为一种选择而不是必然。Yuval Noah Harari 在其著作《Homo Deus》中讨论了 Google 创始人的抗衰老研究，认为 Google 在他们的创始人 Larry Page 和 Sergey Brin 死亡之前可能解决了不了永生之谜。Brin 读了这本书，并与他的女友 Nicole Shanahan 讨论了这个问题。<br>
+➜广告软件改写 Google 搜索中安全公司的电话信息
+https://www.solidot.org/story?sid=51856	44523
+为了推动技术支持骗局，名叫  Crusader 的新广告软件家族<a href="http://www.zdnet.com/article/adware-rewrites-phone-details-for-legitimate-security-software-on-google-search/" target="_blank"><u>会改写 </u></a>Google 搜索结果中安全公司和科技公司的联络信息。Crusader 通过浏览器插件、免费软件和捆绑软件的形式安装到用户电脑。当执行该软件时，它会要求授予读取和改变你所访问的网站信息的权限。如果用户授予了该权限，那么他们的网络流量就面临遭到纂改或操纵的风险。Crusader 会接受位于印度的服务器上的指令，包括弹出广告，展示横幅广告，替代现有横幅，将用户重定向到特定网址。当用户在搜索引擎上输入“Quickbook support”，Crusader 会展示广告诱导到欺骗性的域名。但最有意思的一点是，它会改写安全公司和科技公司的联络信息。比如输入“Dell support number”或“Norton support number”，返回的电话号码指向的是技术支持骗局操作者的呼叫中心。Crusader 可能出于测试阶段，其代码中多处引用“demo”，此外还有占位符设置。
+➜腾讯收购了特斯拉 5% 的股份
+https://www.solidot.org/story?sid=51857	47033
+腾讯以大约 18 亿美元<a href="https://www.wsj.com/articles/chinas-tencent-buys-5-stake-in-tesla-1490702095?mod=e2tw" target="_blank"><u>收购了</u></a>特斯拉电动汽车公司 5% 的股份，中国市值第一的企业成为了特斯拉的大股东。腾讯发言人称赞特斯拉公司是新技术前沿的一家全球先锋，而 Elon Musk 则是一位典型的创业家，拥有视野、雄心和执行力。特斯拉尚未对此置评。特斯拉目前亟需现金。而 Elon Musk 的另一家太空企业 Spacex 则有望在本周创造历史：用回收的火箭发送通信卫星。

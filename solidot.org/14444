@@ -1,0 +1,54 @@
+➜最新Linux Kernel发现0day安全漏洞
+https://www.solidot.org/story?sid=12439	60
+研究人员Brad Spengler<a href="http://lists.grok.org.uk/pipermail/full-disclosure/2009-July/069714.html">发布</a>了最新Linux Kernel——2.6.30和2.6.30.1——<a href="http://it.slashdot.org/story/09/07/18/0136224/New-Linux-Kernel-Flaw-Allows-Null-Pointer-Exploits">安全漏洞的攻击代码</a>，攻击者能利用NULL指针错误（NULL pointer dereferences）侵入系统，能绕过SELinux、AppArmor和Linux Security Module的保护。<a href="http://zh.wikipedia.org/wiki/SELinux">SELinux</a>是美国国家安全局开发的安全增强实现。<i>
+Spengler表示这是他见过的第一个能被利用执行任意代码的Linux Bug。他说，仅仅花了两小时，他便实现了代码执行，找到了如何关闭SELinux、AppArmor和LSM的方法。他公开了一段<a href="http://www.youtube.com/watch?v=UdkpJ13e6Z0">演示视频</a>（Youtube），有缺陷的代码位于net/tun执行上。</i>
+➜Red Hat进入标准普尔500指数
+https://www.solidot.org/story?sid=12440	1200
+<a href="http://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%99%AE%E5%B0%94500%E6%8C%87%E6%95%B0">标准普尔500指数</a>是次于道琼斯工业平均指数的美国第二大指数，观察美国500家上市公司的变化，反映广泛的市场趋势。标准普尔周五宣布<a href="http://linux.slashdot.org/story/09/07/18/1327248/Red-Hat-Is-Now-Part-of-the-SampP-500">Red Hat取代CIT成为500指数之一</a>，<a href="http://finance.yahoo.com/q?d=t&amp;s=CIT">CIT集团</a>是美国最大的商业贷款公司，正濒临破产边缘。Red Hat也是标准普尔500指数中第一家Linux企业，它的<a href="http://c.finance.a1.b.yahoo.com/q?s=RHT">股票</a>周五报收于22.32美元，上升8.35%。
+➜北京“鸟巢”获英国建筑大奖
+https://www.solidot.org/story?sid=12441	8700
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道<i> "据BBC报道，<a href="http://www.bbc.co.uk/china/lifeintheuk/story/2009/07/090715_bird_nest.shtml">2009年度英国皇家建筑学会（RIBA）“莱伯金”建筑大奖（Lubetkin Prize）揭晓</a>，北京奥运“鸟巢”工程力博群雄、最终胜出。该奖项是英国皇家建筑学会为奖励欧盟之外RIBA成员的杰出建筑作品而设置的。除了赫尔佐格和德梅隆公司之外，参与“鸟巢”设计的还包括中国建筑设计研究院、总部设在英国的奥雅纳工程顾问（Arup）以及艺术家艾未未等。"</i>
+➜哈尔滨沃华小区进户3月，没水没电
+https://www.solidot.org/story?sid=12442	12420
+<a href="mailto:tw801@163.com">tw801</a> 写道 "哈尔滨小区进户3月，没水没电
+下面是小区居民的心声：
+尊敬的道外区政府领导： 我们是道外区沃华小区居民，现向您郑重反映小区进户已两个多月没水没电，居民无法正常生活的问题。 2009年4月31日进户以来，居民多次找过开发商、电业局，均不能解决问题，开发商和电业局互相推诿，让沃华居民苦不堪言。没有电，居民不能正常生活、学习和工作，这种损害群众利益、坑害百姓的做法，伤天害理，法理不容，我们居民坚决不答应！ 科学发展观的核心是以人为本，不该让“不给沃华供电”这种不和谐音符为国庆60年抹黑。我小区全体业主无论通过何种渠道，坚决维权到底，不能让坑害百姓的作法得逞！ 在此，恳请区政府替百姓作主，责成有关部门，认真调查，迅速处理。如果有政府部门胆敢包庇、纵容违法行为，我们将进京到省维权，追究相关责任。 沃华小区居民 二零零九年七月十四日"
+➜科学家称咒骂能减轻痛苦
+https://www.solidot.org/story?sid=12443	14040
+新研究发现，虽然公开场合说脏话、诅咒是受到一致谴责的，但这对你其实有很大好处。科学家发现，<a href="http://www.scientificamerican.com/article.cfm?id=why-do-we-swear">咒骂能够减轻痛苦</a>。研究发表在<a href="http://journals.lww.com/neuroreport/pages/default.aspx">《神经学报告》</a>杂志上。
+<i>
+英国Keele大学心理学家<a href="http://www.keele.ac.uk/depts/ps/people/RStephens/index.htm">Richard Stephens</a>称，诅咒是应对痛苦的常见反应，其中必定有一个我们为什么这么做的内在原因。研究测量了一群大学将手浸入冷水中能忍受多长时间。在耐寒冷测试中，他们允许重复诅咒他们的选择，或重复的喊一个中性的词。当发诅咒时，67名学生志愿者报告他们的痛苦减轻了，忍受冷水的时间延长了约40秒。诅咒如何影响身体效应的原因目前并不清楚，研究人员推测与情感相连的大脑回路参与了这个过程。早先的研究显示，正常的语言依赖于大脑左半球外部几毫米的区域，诅咒则依靠的是大脑右半球内部的进化时间更长久的结构，如<a href="http://zh.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E4%BD%93">杏仁体</a>——<a href="http://zh.wikipedia.org/w/index.php?title=%E8%BE%B9%E7%BC%98%E7%B3%BB%E7%BB%9F&amp;variant=zh-cn">边缘系统</a>的皮质下中枢，有调节内脏活动和产生情绪的功能，像加快心跳，使我们对痛苦变得不那么敏感。</i>
+➜新地图显示金星过去与地球类似
+https://www.solidot.org/story?sid=12444	15600
+欧洲航天局（ESA）金星快车探测器绘制的金星南半球红外波长地图<a href="http://www.esa.int/esaCP/SEMUQCLXOWF_index_0.html">显示</a>，金星过去可能<a href="http://news.xinhuanet.com/tech/2009-07/15/content_11711895.htm">与地球十分相似</a>，存在板块构造系统和海洋。<i>
+由于<a href="http://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F">金星</a>浓厚的云层，普通相机无法穿透看清表面，因此金星快车使用红外波长进行观察，绘制出了第一幅南半球地图。地图包括1000余张图像，拍摄时间为2006年5月至2007年12月间。研究人员推测，金星上的高原可能就是以往的大陆，它们在火山喷发后形成，从前是被海洋包围。</i>
+➜钴60泄漏引发居民恐慌
+https://www.solidot.org/story?sid=12445	17640
+环保部网站<a href="http://www.mep.gov.cn/xcjy/zwhb/200907/t20090716_156241.htm">报道</a>：<i>河南省杞县利民辐照厂(建于1997年，直到2006年才获得辐射安全许可证)是一家从事辐照加工的民营企业，该企业辐照装置采用远程控制的<a href="http://zh.wikipedia.org/wiki/%E9%88%B7-60">钴－60</a>放射源照射物品，使被照射物品达到灭菌、消毒等目的。该类装置的放射源处于1米厚的钢筋混凝土结构的辐照室内，进行辐照加工时，通过远程控制将放射源从水井中提出照射物品，使用后放射源即返回到水井中。2009年6月7日凌晨2时，该企业辐照装置在运行中发生货物意外倒塌，压住了放射源保护罩，并使其发生倾斜，导致钴－60放射源卡住，不能正常回到水井中的安全位置。6月14日15时，辐照室内原辐照加工的物品由于放射源的长时间照射，发生了升温自燃。在消防及环保部门采取灌注水等措施后，引燃物于当晚24时得到有效控制。河南省辐射安全技术中心监测，附近环境未发现任何辐射污染现象。</i>
+这似乎并非什么大事，然而整件事情的荒谬之处是：直到网友7月10日网上发帖<a href="http://epaper.nddaily.com/A/html/2009-07/13/content_842560.htm">揭露核泄漏事件</a>，当地政府一直隐瞒事故未向公众公开。直至7月17日，环保部专家组才开始遥控机器人进入辐照室探查情况。此时民间又开始疯狂谣传钴60爆炸，不明真相的杞县群众开始大车小车的<a href="http://epaper.nddaily.com/H/html/2009-07/18/content_847683.htm">匆忙逃离</a>，政府的应对之策是<a href="http://gcontent.nddaily.com/6/9a/69a5b5995110b36a/Blog/e72/e81974.html">拘留散发谣言的转帖网民</a>，目前警方已抓获5人。
+➜Mesa 7.5正式发布：引入Gallium3D构架
+https://www.solidot.org/story?sid=12446	18600
+<a href="http://szlug.org/">权相龙</a> 写道<i> "
+<a href="http://www.mesa3d.org/">Mesa</a>是OpenGL规范的开源实现，让显卡的3D加速特性透过此得到施展。在很多平台Mesa都得到了应用。其中包括X Window系统。近日<a href="http://linuxdesktop.cn/2009/07/19/mesa-7-5.html#more-3993">Mesa 7.5正式发布了</a>，这是一个具有重要含义的版本，因为它引入了“<a href="http://en.wikipedia.org/wiki/Gallium3D">Gallium3D</a>”构架。Gallium3D提供一套统一的API，这套API将标准的硬件特性（而非软件特性）暴露出来（如shader units），也就是说，Callium3D直接与统一的硬件级特性打交道，而非充当一个纯软件层。"</i>
+➜如能证明他当事人有罪，律师愿提供百万奖励
+https://www.solidot.org/story?sid=12447	26400
+佛罗里达律师Cheney Mason在一个电视节目中夸口承诺，如果谁能证明他的诉讼当事人，Nelson Ivan Serrano，能在检举人所指控的时间内，穿越两个州杀死四个人，<a href="http://news.slashdot.org/story/09/07/15/2336237/Lawyer-Offers-1M-For-Proof-His-Client-Could-Have-Done-It-Oops">他愿意提供百万美元奖励</a>。南得克萨斯法学院毕业生Dustin Kolodziej手中恰好有大把时间，于是决定接受Mason的挑战。Dustin沿着检举人所指控的Serrano谋杀路线，在指定时间内按时完成了行程，并用录像记录整个过程。他向律师Cheney Mason要求奖赏，但Mason拒绝支付，声称这只是一场玩笑，夸张的说法而已。Kolodziej随后向休斯顿联邦法院起诉Mason。
+➜丹麦专家声称文兰岛地图是真的
+https://www.solidot.org/story?sid=12448	30300
+<a href="http://zh.wikipedia.org/wiki/%E6%96%87%E8%98%AD%E5%B3%B6%E5%9C%B0%E5%9C%96">文兰岛地图</a>（Vinland Map）是一幅15世纪的古地图，地图除了显示非洲、亚洲及欧洲外，更显示一个在大西洋格陵兰以西、名为“文兰岛”的大岛。地图指该地区于11世纪时已经有人踏足，假如属实，它将证明于前哥伦布时期，古代挪威人曾到达美洲。很多研究都认为这幅1965公开的地图系伪造。<i>
+但丹麦文物鉴定专家Rene Larson在经过5年研究之后宣称<a href="http://science.slashdot.org/story/09/07/18/233202/Danish-Expert-Declares-Vinland-Map-Genuine">文兰岛地图是真迹</a>。Rene Larson在新闻发布会上称，过去5年完成的所有测试没有显示出伪造的迹象。他的研究团队分析了墨迹，纸张，甚至是昆虫造成的损害。他们相信墨水在被用沙子弄干时受到了污染，因此才会在1972年化学分析后发现包含二氧化钛，从而被认定太新而不是真品。</i>
+➜教师仿《世界大战》外星人入侵，结果让儿童心灵受创
+https://www.solidot.org/story?sid=12449	33000
+英国西Sussex郡的一所小学的370名学生于7月10日目睹了一次“宇宙飞船”坠落在学校附近，外星人抓走学校里的一位教职工的事件。<i>
+这场“<a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/5842324/Children-traumatised-by-War-of-Worlds-abduction-of-teacher.html">《世界大战》外星人入侵</a>”模仿剧得到了Sussex郡警方的帮助，但没有事先通知儿童们的父母，目的是为了开发儿童的写作技能，点燃他们的想象力。警方也觉得这是一个绝佳的点子，他们用警笛和闪光灯来表现飞船的着陆。结果教师被外星人劫持的事件却让一些儿童受到了心灵创伤，愤怒的父母抱怨学校的做法，他们不得不去安慰受惊吓的孩子，让孩子消除恐惧，告诉他们被掳走的教师很安全。一位不愿意透露姓名的母亲说，她的孩子是带着泪回到家的，只有上帝知道学校到底做了什么，这超出了7岁儿童的能力接受范围。</i>
+➜燕山大学教授李子丰论“阿波罗登月骗局”
+https://www.solidot.org/story?sid=12450	41460
+<a href="mailto:pilot@sina.com">pi1ot</a> 写道<i> "燕山大学石油工程研究所教授、博士生导师李子丰应邀参加校团委在学术报告厅举办的科技论坛，作了题为'狭义相对论的本质及对科学、哲学和社会的影响'以及'<a href="http://blog.sina.com.cn/s/blog_56ffa8140100eaa7.html">阿波罗登月是骗局</a>'的报告。并自称“欧阳自远院士一生的科学研究都是建立在阿波罗登月为真实的基础之上。如果他承认阿波罗登月是假，那么就等于他承认他原来的项目、论文、著作等都是假的了，他就是一个巨骗，不但名声扫地，而且，院士也别当了，余生如何混？”、“写了一篇论文，欧阳自远利用权力极力阻止发表，编辑也不愿意得罪他”（<a href="http://blog.sina.com.cn/s/blog_56ffa8140100eaym.html">出处</a>）。"</i>
+《每日电讯报》<a href="http://solidot.org/~time/journal/1140">反驳</a>阿波罗11号登月阴谋论<a href="http://www.telegraph.co.uk/scienceandtechnology/science/space/5833633/Apollo-11-Moon-landing-conspiracy-theories-debunked.html">文章</a>的第一个便是解释为什么美国国旗会飘起来：原因是美国国旗是用柔韧性比较强的铝材料制成，在展开和插入月球土壤过程中持续受到了震动，因此产生了风吹旗帜飘扬的感觉。
+➜隐蔽torrent文件的好方法
+https://www.solidot.org/story?sid=12451	46800
+<a href="http://szlug.org/">权相龙</a> 写道 "<i>
+<a href="http://hid.im/">Hid.im</a>是一个基于Web的服务，可以<a href="http://torrentfreak.com/hidim-converts-torrents-into-png-images-090714/">将torrent文件转换为PNG图片</a>，这样意味着用户轻易就可以避开拦截，将隐蔽的torrent文件可以上传到论坛、照片网站或者社交网站上，与大伙儿分享。这项服务的唯一限制是torrent文件不能超过250KB。一个名叫<a href="http://stegtorrent.sourceforge.net/">Stegtorrent</a>的开源程序也能完成类似的事情。"</i>
+➜“社会稳定”是什么意思？
+https://www.solidot.org/story?sid=12453	52560
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 "警察在维护社会安全时，称是为了“维护社会稳定”。互联网上封锁、限制自由也称为了“维护社会稳定”。搜索英文的“<a href="http://www.google.com/search?q=social+stability&amp;hl=en">社会稳定</a>”第一页有四条中国网站。什么是“社会稳定”？世界上那些国家属于“社会稳定”的国家？"

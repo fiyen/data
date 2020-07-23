@@ -1,0 +1,80 @@
+➜Google宣布Google CDN
+https://www.solidot.org/story?sid=25233	3600
+Google<a href="http://googlecode.blogspot.com/2011/07/page-speed-service-web-performance.html">宣布</a>了最新的帮助加快互联网速度的工具<a href="http://code.google.com/speed/pss/">Page Speed Service</a>，<a href="http://tech.slashdot.org/story/11/07/28/1232258/Google-Announces-Google-CDN">加快静态网页的载入速度</a>，不支持动态网页。<i>
+在开发者注册该服务之后，可将网站的DNS入口记录指向Google，然后Page Speed Service从服务器上抓取内容，采用最佳的Web性能方案重写网页，通过Google在全球部署的服务器将内容展示给终端用户，加快网页载入速度。网站开发者将无需再担心CSS串联、压缩图像、缓存、压缩资源等问题。Google称它的的测试显示能加快网页载入速度<a href="https://code.google.com/speed/pss/gallery.html">25%到60%</a>。这项服务在beta测试阶段免费，收费细节将在以后公布。</i>
+➜机器人模仿水黾在水上行走
+https://www.solidot.org/story?sid=25234	5100
+哈尔滨工业大学<a href="http://chemeng.hit.edu.cn/news/sub_szdw.asp?id=1168">潘钦敏</a>教授领导的团队，开发出一种水中微型机器人，<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-07/acs-bmm072811.php">能模仿水黾的水上行走能力</a>。<i>
+潘钦敏从水黾腿部的微观“羽毛状”结构获得灵感，研发了一种新型的<a href="http://v.youku.com/v_show/id_XMTU5MzM4NzIw.html">超疏水性材料</a>。用这种材料制成的铜网不仅“疏而不漏”，而且水上载重能力大幅增加。他们在此基础上开发出新型机器人，机器人的身体尺寸大约相当于一个二十五美分的硬币，有10条憎水的腿和两条可移动的、由两个微型马达推动的类似于桨的腿。他们认为，这种仿生微型机器人可以很好地完成军事侦察任务、水污染监测和其他应用。</i>
+韩国科学家曾在2007年开发出<a href="__SLASHLINK__" sect="science" sid="07/12/11/0841245" sn="article" tid="40">能在水上跳跃的机器人</a>，同样是受水黾的启发。
+➜AMD计划明年推出10核桌面处理器
+https://www.solidot.org/story?sid=25235	6480
+一份泄漏的<a href="http://vr-zone.com/articles/amd-2012-desktop-roadmap-leaked/13081.html">路线图</a>显示，AMD计划在2012年<a href="http://www.zdnet.com/blog/computers/forget-eight-cores-amd-is-planning-a-10-core-desktop-cpu-for-2012/6447">推出</a>(<a href="http://www.zdnet.com.tw/news/hardware/0,2000085676,20150694,00.htm">中文</a>)10个Piledriver核心的桌面处理器，Piledriver是Bulldozer CPU的强化版。<i>
+Piledriver核心将成为新的Virgo与Corona平台的基础。Corona将会成为新的主力平台，其中包括有10个Piledriver核心的Komodo CPU；Virgog针对中端市场，内含至多4个Piledriver核心的Trinity APU。这些新的处理器将会封装AMD的Turbo 3.0模式，同时使用新的FM2插槽。新的CPU何时推出仍然未定，但更多核心至少听起来就觉得很强。</i>
+➜Google开源LevelDB
+https://www.solidot.org/story?sid=25236	7200
+Google<a href="http://google-opensource.blogspot.com/2011/07/leveldb-fast-persistent-key-value-store.html">宣布</a>在BSD许可证下开源其键值存储引擎<a href="http://code.google.com/p/leveldb/">LevelDB</a>。<i>
+LevelDB C++库可用于多种不同环境，如被浏览器用于存储最近访问的网页缓存，或者被操作系统使用去储存安装的软件包和依赖包清单，或被应用程序用于存储用户设置。Google称，即将发布的新版Chrome浏览器，就包含了基于LevelDB的IndexedDB HTML5 API实现。Google Bigtable曾使用了LevelDB前身，而Riak分布式数据库已经加入了LevelDB支持。</i>
+➜研究发现IE6用户IQ最低，Opera最高
+https://www.solidot.org/story?sid=25237	9720
+AptiQuant心理咨询公司公布了<a href="http://www.aptiquant.com/IQ-Browser-AptiQuant-2011.pdf">最新的浏览器用户IQ测试得分报告</a>（PDF）。<i>
+AptiQuant分析了在其网站上进行IQ测试的用户所用浏览器和他们的IQ得分，样本数超过10万，所有研究对象都来自英语国家，包括美国、加拿大、英国、澳大利亚和新西兰。他们发现：IE浏览器用户在IQ测试中获得低分的人数相当之多；而Google Chrome、Mozilla Firefox和Apple Safari用户的IQ得分差距不大，但平均得分高于IE；Opera、Camino和IE with Chrome Frame的用户平均得分高于其他用户。结果显示：IE6/7/8/9用户平均得分低于100，其中IE6用户得分略高于80；Chrome、Firefox和Safari平均得分都高于100，而Opera、Camino和IE with Chrome Frame用户平均得分高于120。</i>
+➜7个改变世界的Java项目
+https://www.solidot.org/story?sid=25238	10800
+<a href="http://www.vastwork.com/zh">自由职业</a> 写道<i> "Java的开源生态系统是强大而健康的，这是Oreilly创建OSCON Java（Open Source Convention Java）的主要原因之一。在过去10年中，一些项目已经被广泛接受，并且已经统治了Java软件开发世界，一些甚至影响到了用户的日常生活。<a href="http://radar.oreilly.com/2011/07/7-java-projects.html">这7个项目如下</a>(<a href="http://www.jobbole.com/entry.php/1144">中文</a>)：1.JUnit；2. Eclipse；3. Spring；4. Solr；5. Hudson and Jenkins；6. Hadoop ；7. Android。"</i>
+➜Ubuntu One免费储存空间增至5GB
+https://www.solidot.org/story?sid=25239	12960
+Canonical官方博客<a href="http://voices.canonical.com/ubuntuone/?p=1023">宣布</a>，其Ubuntu One云储存服务免费空间扩容，以庆祝全球用户突破100万。<i>
+Canonical称，Ubuntu One Basic将改名为<a href="http://one.ubuntu.com/services/">Ubuntu One Free</a>，新注册用户免费储存空间5GB，现有用户将会自动从2GB扩容至5GB。增容20GB的价格仍是每月$2.99。移动云服务改名为<a href="http://one.ubuntu.com/services/">Music Streaming</a>，每月$3.99，储存空间是20GB，支持从Android和iPhon上播放云储存中的音乐。</i>
+➜LG声称解决3D眩晕问题
+https://www.solidot.org/story?sid=25240	18000
+LG<a href="http://www.smartertechnology.com/c/a/Optimized-Systems/Smarter-3D-Employs-EyeTracking/">声称</a>其推出的整合眼球跟踪技术的3D显示器解决了3D眩晕问题。该公司的20英寸D-2000显示器将在秋天上市，兼容2D影像，不需要使用眼镜。此种显示器被称为自动立体显示器，用视差屏障代替了透镜镜头，利用眼球跟踪技术提供多种视角，调整3D显示，使观众不会感到恶心。
+➜Java SE 7发布
+https://www.solidot.org/story?sid=25241	20160
+甲骨文<a href="http://www.oracle.com/us/corporate/press/444374">宣布</a>发布Java SE 7，这是Java在甲骨文名下发布的第一个版本。<i>
+开发者在<a href="http://blogs.oracle.com/java/entry/java_se_7_is_here">博客</a>上称它是五年全世界Java社区协助成果，是Java发展中的重要一步。Java SE 7主要新特性包括：Project Coin，提高生产力，简化编程任务；Fork/Join Framework，支持多核心处理器，简化问题分解并行执行；InvokeDynamic，使其它语言能更容易的在JVM中运行。</i>
+➜苹果现金超过美国政府
+https://www.solidot.org/story?sid=25242	23520
+苹果手中的现金和有价证券已经<a href="http://www.osnews.com/comments/25000">超过了美国政府</a>。美国政府正努力提高债务上限，它手中的运营资金只有737.68亿美元，并且还在不断减少，而苹果公司拥有现金多达758.76亿美元。《华尔街日报》<a href="http://www.cn.wsj.com/gb/20110729/bus144909.asp">称</a>，如果国会在政府的现金用完之前不能提高债务上限，为了避免出现债务违约，财政部有可能首先向债券持有人支付利息。
+➜新光伏系统不需要太阳光
+https://www.solidot.org/story?sid=25243	24240
+MIT开发的<a href="http://web.mit.edu/newsoffice/2011/sun-free-photovoltaics-0728.html">新光伏能量转换系统</a>不需要太阳光，而是利用热发电。<i>
+光伏电池是将太阳能直接转换为电能的能量转换系统，但转换效率长期以来提高有限。MIT的新光伏系统利用材料表面蚀刻的无数纳米大小的凹点，将吸收的热能转换成光伏电池转换效率最高的光波长，从而提高了转换效率。它吸收的热能可以来自太阳能，也可以来自燃料或放射性材料。MIT研究人员基于这项技术制造出一个纽扣大小的发电机，使用丁烷为燃料，它的使用时间是同等重量的锂离子电池的三倍。在更换新燃料后它可以瞬间充满电。另一种使用放射性同位素衰变热量发电的设备，则可以连续使用30年，无需维护或添加燃料，可应用于长时间太空任务。</i>
+➜华硕将推出基于MeeGo的上网本
+https://www.solidot.org/story?sid=25244	26400
+华硕公司将在9月<a href="http://www.pcworld.com/businesscenter/article/236821/thanks_to_meego_asus_makes_good_on_its_200_laptop_promise.html">推出</a>运行MeeGo操作系统的上网本<a href="http://www.asus.com/Eee/Eee_PC/Eee_PC_X101/#overview">Eee PC X101</a>，售价约在200美元左右。<i>
+X101使用10.1英寸LED显示屏，分辨率1024x600，Intel Atom N435/N455处理器、1GB DDR3内存（最大2GB），8GB SSD HDD+2 GB DropBox云存储空间，支持WLAN 802.11 b/g/n和蓝牙V3.0、SD/SDHC/MMC读卡器、2个USB 2.0端口，电池续航力4小时，重920克。</i>
+➜NASA卫星数据质疑全球变暖模型
+https://www.solidot.org/story?sid=25245	28800
+2000年到2011年的NASA卫星数据<a href="=http://science.slashdot.org/story/11/07/28/2249238/New-NASA-Data-Casts-Doubt-On-Global-Warming-Models">发现</a>，从大气层释放到外太空的热能远多于全球变暖气候模型的预测。<a href="http://www.mdpi.com/2072-4292/3/8/1603/">报告</a>（<a href="http://www.mdpi.com/2072-4292/3/8/1603/pdf">PDF</a>）发表在《遥感》杂志上。研究显示，全球暖化没有模型预测的那么紧迫，大气层增加的二氧化碳温室效应远没有悲观者声称的那么巨大。<i>
+报告共同作者、阿拉巴马大学首席科学家Roy Spencer称，卫星观测指示有更多热能消失在太空中，他说数据和预测之间的差异比大海还要大。
+</i>
+➜Isostick：既是U盘又是光驱
+https://www.solidot.org/story?sid=25246	30720
+Isostick本质上是一个MicroSD卡，但可将储存在其中的iso镜像自动转变成<a href="http://www.extremetech.com/computing/91344-isostick-the-usb-memory-stick-that-thinks-its-an-optical-drive">机器能识别的物理光驱</a>。它方便了IT技术人员安装操作系统，但该产品尚未完成，开发商Kickstarter正在寻找<a href="http://www.kickstarter.com/projects/elegantinvention/isostick-the-optical-drive-in-a-usb-stick">投资</a>。<i>
+用户可以在Isostick中放入各种操作系统的iso镜像，如Windows、OS X和Linux发行版，它内置有一个启动引导程序，用户在启动时可选择运行某一操作系统。它有一个只读模式，可防止病毒写入。它的读取速度12.5MB/sec，写入速度4-6MB/sec，可启动的iso镜像储存在FAT32分区中，未来的固件更新将移除这些限制。该公司表示如果能完成产品开发，将会开源固件。Isostick的价格不菲，8GB版本售价100美元，16GB版本175美元，32GB版本225美元。
+</i>
+类似的工具其实不少，如<a href="http://www.pendrivelinux.com/xboot-multiboot-iso-usb-creator/">XBOOT</a>和<a href="http://www.pendrivelinux.com/yumi-multiboot-usb-creator/">YUMI</a>。
+➜语言学家开发出算法识别Twitter用户性别
+https://www.solidot.org/story?sid=25247	33900
+网民多以假名掩盖身份，雌雄难辩，男扮女女扮男屡见不鲜，然而他们的言语和喜好会暴露他们的身份。Mitre公司的语言学研究人员，在苏格兰举行的自然语言处理实证方法会议上公布了<a href="http://www.mitre.org/work/tech_papers/2011/11_0170/11_0170.pdf">一篇论文</a>(PDF)，称他们开发出一种算法能根据Twitter用户的帖子内容<a href="http://tech.slashdot.org/story/11/07/28/2244236/Linguists-Out-Men-Impersonating-Women-On-Twitter">识别出其性别</a>，他们的依据是女性所用语言和男性存在相当大的差异。<i>
+研究发现，女性比男性更常使用表情符号、缩略语，重复字母和情感表达。如果一个twitter帖子包含了感叹号或笑脸符号，那么有很大可能性发帖者是女性。例如，女性常用单词包括：haha、cute、omg、love、yaha、yay、hahaha、happy、girl、 hair,、lol、hubby和chocolate。而男性喜好用google和http。研究人员开发的程序识别性别的正确率有65.9%。</i>
+➜麦凯恩指茶党是霍比人，茶党反诘他被魔戒侵蚀
+https://www.solidot.org/story?sid=25248	35640
+为了防止美国债务危机爆发，美国会正在讨论提高债务上限方案。但是，共和党内的保守派不愿意提高国债上限。参议员约翰·麦凯恩称保守派为“<a href="http://www.latimes.com/news/nationworld/nation/la-na-mccain-tea-party-20110728,0,2277765.story">茶党霍比特人</a>”，意图重返中土打败魔多，但结果只会适得其反，他表示如果保守派拒绝众议院共和党的计划，他们将帮助奥巴马重新当选。霍比特人源自托尔金的《魔戒》。茶党的Mark Meckler回击说，麦凯恩<a href="http://idle.slashdot.org/story/11/07/28/146202/McCain-Decries-Hobbits-Accused-of-Ringbearing">被魔戒的力量侵蚀了</a>。
+➜化学家将酸转变成碱
+https://www.solidot.org/story?sid=25249	38520
+加州大学河滨分校的化学家在实验室内完成了以前被认为不可能的事情：<a href="http://www.physorg.com/news/2011-07-chemists-acids-bases.html">将酸性化合物转变成碱性</a>（<a href="http://only-perception.blogspot.com/2011/07/blog-post_9551.html">中文</a>）。<a href="http://www.sciencemag.org/content/333/6042/610.abstract">报告</a>发表在《科学》杂志上。<i>
+我们从化学实验课上了解到的知识是：酸性物质尝起来酸酸的，能与金属和碱性物质反应。例如，硼元素的化合物是酸性，而氮与磷的化合物为碱性。Guy Bertrand教授领导的团队成功的将硼化合物转变成类氮化合物，也就是从酸性变成碱性。他们是通过修改硼中的电子数量而不改变原子核实现这一结果的。</i>
+➜韩国科学家培育出发光狗
+https://www.solidot.org/story?sid=25250	39240
+韩国首尔国立大学的科学家利用基因工程技术，培育出能在紫外灯下<a href="http://www.reuters.com/article/2011/07/27/us-korea-dog-idUSTRE76Q1MK20110727">发出绿色荧光的猎兔犬</a>。科学家称，他们可以通过在饮食中加入药物关闭或开启发光能力。此前，中国科学家曾培育出<a href="__SLASHLINK__" sect="science" sid="08/01/10/0613240" sn="article" tid="50">绿色荧光猪</a>。<i>
+这只名叫“Tegon（塔贡）”的猎犬出生于2009年，服用多西霉素后会发出绿光。人类和狗有268种疾病可以共生，因此人工培育出这样的狗可帮助找到治愈人类疾病的方法。<a href="http://www.chinanews.com/gj/2011/07-29/3219693.shtml">研究小组带头人李炳春说</a>：“塔贡的出现为我们的研究开辟了新天地，通过基因注射便可让狗发光，那么这种方式也有希望应用于人类棘手的基因病变。”</i>
+➜现代人类10，尼安德特人1
+https://www.solidot.org/story?sid=25251	41520
+一山难容二虎，一个欧洲也容不下两种人类。一项对法国南部现代人和尼安德特人生活地点的考古研究发现，<a href="http://news.sciencemag.org/sciencenow/2011/07/modern-humans-10-neandertals-1.html">现代人的数量是压倒性的</a>，尼安德特人没有多少选择，只能走向灭绝。<a href="http://www.sciencemag.org/cgi/content/abstract/333/6042/623">报告</a>发表在今天的《科学》杂志上。<i>
+尼安德特人大约在10万年前迁移到欧洲各地，4万年前现代智人从非洲进入欧洲，可能不到5000年尼安德特人就灭绝了。消失的原因虽有争议，但大多数专家认为智人在获取食物和其它资源上胜过竞争对手。现在，剑桥大学考古学家Paul Mellars和Jennifer French调查了三个史前文化：莫斯特后期的尼安德特人，时间是55,000年到 44,000年前；Châtelperronian时期的尼安德特人，44,000年到40,250年前；奥瑞纲时期的现代人，40,250年到35,000年前。<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-07/aaft-mhf072511.php">他们发现</a>，在尼安德特人到现代人的过渡期间，现代人的数目增加了9或10倍。研究人员认为，现代人在数目上的优势是造成尼安德特人最终消亡的重要因素。</i>
+➜Emacs被发现未遵守GPL许可
+https://www.solidot.org/story?sid=25252	54000
+Emacs 23.2和23.3被发现<a href="http://lwn.net/Articles/453374/rss">没有遵守</a>GPL许可证的要求公开所有源代码。<i>
+自2009年12月9日Emacs 23.1.90发布起，Emacs发行包包含了众多用Bison创建的未提供源代码的解析器。Emacs作者、自由软件基金会主席Richard Stallman称此事不仅仅是法律问题，<a href="http://lists.gnu.org/archive/html/emacs-devel/2011-07/msg01085.html">而且是</a>道德问题。<a href="http://lists.gnu.org/archive/html/emacs-devel/2011-07/msg01155.html">他说</a>，我们犯下了一个大错误，任何重新发行Emacs的人都违反了GPL许可证，虽然错不在他们。他表示需要立即修正问题，解决方法有两种：删除编译后的文件，或者加入源代码。此事彰显出任何人都可能会犯错误。</i>

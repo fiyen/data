@@ -1,0 +1,52 @@
+➜瑞典铁路公司根据网上投票将火车命名为 Trainy McTrainface
+https://www.solidot.org/story?sid=53168	12119
+2016 年，英国举行网上投票给一艘皇家科考船起名，结果 Boaty McBoatface 这个名字遥遥领先。然而英国政府拒绝了投票结果，这艘科考船最终<a target="_blank" href="http://www.bbc.com/news/uk-36225652"><u>取名为</u></a> “Sir David Attenborough” 号，但为了表示对网上投票的尊重，科考船的一个遥控水下设备取名为 Boaty。瑞典铁路公司不像英国政府不尊重网上投票，它根据投票结果将一辆火车<a href="https://www.theguardian.com/world/2017/jul/20/swedish-rail-firm-approves-trainy-mctrainface-as-newest-member-of-its-fleet" target="_blank"><u>命名为 Trainy McTrainface</u></a>。Trainy McTrainface 在网上投票中得票率高达 49%，远远超过其它名字如 Hakan、Miriam 和 Poseidon。这辆火车运营线路连接首都斯德哥尔摩和第二大城市哥德堡。
+➜Elon Musk 声称得到口头批准建造连接纽约和华盛顿特区的 Hyperloop 隧道
+https://www.solidot.org/story?sid=53169	13876
+Elon Musk 通过 Twitter <a href="http://spectrum.ieee.org/tech-talk/transportation/alternative-transportation/musk-claims-verbal-approval-for-a-hyperloop-tunnel-from-new-york-to-dc" target="_blank"><u>发表声明</u></a>，声称他的 <a href="https://www.boringcompany.com/" target="_blank"><u>The Boring Company</u></a> 获得了美国政府的口头批准，建造一条连接纽约和华盛顿特区的 Hyperloop 隧道，两地之间的通勤时间将缩短到 29 分钟。纽约到华盛顿特区的距离大约为 360 公里，这意味着行驶在 Hyperloop 隧道中的高铁速度将达到时速  720 公里。目前不清楚所谓的口头批准是什么意思，要建造这样一条环形隧道高铁将需要许多个政府机构的批准。除了政府的支持外，Hyperloop 使用的技术还没有真正经受商业上的检验。
+➜Google 宣布从 Chrome 61 起完全取消对 WoSign 和 StartCom 证书的信任
+https://www.solidot.org/story?sid=53170	16377
+去年，中国 CA WoSign <a href="http://www.solidot.org/story?sid=49821" target="_blank"><u>被发现有严重问题</u></a>，其中最严重的是故意倒填证书日期绕过浏览器对 SHA-1 证书的限制。主要浏览器开发商要求所有 CA 在 2016 年 1 月 1 日之后停止签发 SHA-1 证书，然而沃通 CA 在 2016 年 1 月 1 日之后仍然签发了 SHA-1 证书，通过故意倒填日期，将这些证书伪装成是在 2016 年前签发的。Mozilla 和 Google 先后宣布将停止对 WoSign 及其收购的 StartCom 新证书的信任。Google 是从 Chrome 56 开始停止信任  WoSign 和 StartCom 签发的新证书，但仍然信任 2016 年 10 月 21 日前签发的证书。现在 Google 安全博客<a href="https://security.googleblog.com/2017/07/final-removal-of-trust-in-wosign-and.html" target="_blank"><u>宣布</u></a>从 Chrome 61 开始完全取消对 WoSign 和 StartCom 证书的信任。Chrome 61 预计将在 9 月中旬发布稳定版。
+➜Windows  10 停止支持 Clover Trail，但仍然会提供安全更新
+https://www.solidot.org/story?sid=53171	18232
+使用英特尔 Clover Trail Atom 处理器的设备将不会再收到 Windows 10 的 Creators Update，
+但在 2023 年前它们仍然会获得安全更新。在这之前英特尔 Atom 用户报告他们无法安装 Windows 10 Creators Update，错误信息称系统不兼容。现在微软<a href="https://arstechnica.com/gadgets/2017/07/clover-trail-systems-wont-get-windows-10-creators-update-ever/" target="_blank"><u>打破了沉默</u></a>，证实使用 Clover Trail Atom 处理器的  Windows 10 用户将只能永久停留在去年夏天释出的 Anniversary Update，但微软会在未来六年继续向他们提供安全更新。导致 Atom 用户无法更新的一大障碍是 GPU 驱动，Clover Trail Atom 使用的 GPU 技术授权自 Imagination Technologies，Imagination 无意而英特尔无法更新  GPU 驱动以满足 Creators Update 的需要。
+➜美欧联手关闭两大暗网毒品市场
+https://www.solidot.org/story?sid=53172	19295
+美国司法部和欧洲刑警组织<a href="https://www.bleepingcomputer.com/news/security/authorities-take-down-hansa-dark-web-market-confirm-alphabay-takedown/" target="_blank"><u>宣布关闭了</u></a>两大暗网毒品市场 AlphaBay 和 Hansa Market。其中 Hansa 的服务器早在 6 月 20 日就被荷兰警方扣押，但网站仍然继续运营了一个月，好让当局有更多的时间去收集客户的信息。 FBI 于 7 月 4 日扣押了 AlphaBay 的服务器，关闭了网站，随后 Hansa 蜜罐涌入了大量新用户。FBI 和欧洲刑警组织表示他们收集了大量买家和卖家的信息，包括用户名和密码，以及订单交付地址。FBI 称 AlphaBay 市场规模十多倍于 2013 年关闭的丝绸之路，AlphaBay 列有 35 万商品，而丝绸之路关闭时上架的商品只有 1.4 万。
+➜AlphaBay 管理员如何泄漏身份
+https://www.solidot.org/story?sid=53173	28531
+美国司法部和欧洲刑警组织宣布扣押和关闭了暗网市场 AlphaBay 和 Hansa。根据美国政府公布的起诉书，AlphaBay 的管理员 Alexandre Cazes 和丝绸之路的 Ross Ulbricht 一样，在建站早期犯下了<a href="https://motherboard.vice.com/en_us/article/zmv535/alleged-dark-web-kingpin-doxed-himself-with-his-personal-hotmail-address" target="_blank"><u>多个安全方面的严重失误</u></a>：他使用了一个在互联网上留下大量足迹的用户名 Alpha02；他的个人邮件地址 Pimp_Alex_91@hotmail.com 包含在 2014 年 12 月欢迎新用户的邮件头文件内，以及包含在论坛恢复密码流程的头文件中。利用这些线索，调查人员发现了 Alexandre Cazes 及其前台挂名公司 EBX Technologies。当局还发现其名下有价值数百万美元的没有任何合法来源的投资。在调查人员突击搜查其住宅时他当时已经登录进了 AlphaBay 的管理员帐户。Cazes 上周被发现吊死在泰国的监狱内。
+➜中国的人工智能雄心
+https://www.solidot.org/story?sid=53174	30003
+中国<a href="https://cn.nytimes.com/business/20170721/china-artificial-intelligence/" target="_blank"><u>制定了 AI 发展规划</u></a>，希望在2030年成为人工智能领域的世界领导者，在技术上超越对手，打造规模近 1500 亿美元的本土产业。
+国务院发布的这项政策阐述了中国政府最高层的意图：全球第二大经济体将投入大量资金，以确保企业、政府和军队跃升为人工智能技术的全球领先者。很多人都认为，人工智能有朝一日会成为计算机技术的基础。
+从这个新规划来看，中国的人工智能雄心处在从安慰剂到反乌托邦的阶段。它要求为从农业、医药到制造业的一切行业提供支持。
+但是，它也要求人工智能与中国的国土安全和监控工作保持一致。中国要把人工智能融入到制导导弹中，还要用来跟踪监控视频中的人员，审查互联网，甚至是预测犯罪。
+➜暴雪游戏将停止支持 Windows XP 和 Vista
+https://www.solidot.org/story?sid=53175	30151
+暴雪<a href="https://us.battle.net/forums/en/heroes/topic/20757677998#post-1" target="_blank"><u>宣布</u></a>，其旗下游戏将停止支持 Windows XP 和 Vista。这些游戏包括《魔兽世界》、《星际争霸 II》、《暗黑破坏神 III》、《炉石传说》和《风暴英雄》。微软已经终止了对 Windows XP 和 Vista 的支持，但两种操作系统并没有因为终止支持而完全消失，事实上 XP 仍然占据了一小块市场份额：根据 NetMarketShare 的<a href="https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0" target="_blank"><u>数据</u></a>，XP 的市场占有率为 6.4%，而 Vista 为 0.53%。暴雪的玩家中间显然还有很多人用 XP 在玩《魔兽世界》，现在他们是时候升级系统了。
+➜当外国影视剧下架
+https://www.solidot.org/story?sid=53176	32186
+A 站和 B 站按广电总局的命令进行整改，下架了大量国外影视剧，A 站甚至直接移除了影视频道，如今两大视频网站都在某种程度上成了政治宣传片的播放平台。看着 A 站和 B 站长大的年轻一代对此又有什么看法？《华尔街日报》采访了<a href="http://cn.wsj.com/gb/20170721/LLW161208.asp" target="_blank"><u>这些曾试图远离政治的年轻人</u></a>：23 岁的法律研究生 Gloria Liu 说现在感觉就像政府每天都在耳边大声宣告自己的存在，Liu 认为自己是爱国的。她也是韩国流行文化、尤其是 K-Pop 偶像团体 EXO 的忠实粉丝。她自学韩语，并把带有字幕的 EXO 演出视频和媒体报道上传到 B 站上，现在该网站不再允许她上传这类视频。Liu 读大学期间出国旅游时，她会向国外的人解释中国正变得越来越好。她说，现在感觉自己是在自欺欺人。Frank Guo 曾认为政府离自己很远。他说现在政府已经渗透到了你生活中的每一个细节，包括你应该看什么样的娱乐视频。
+➜人类在 6.5 万年前第一次踏上澳洲
+https://www.solidot.org/story?sid=53177	34029
+人类首次踏上澳洲的时间已经争论了几十年。现在，根据发表在《自然》期刊上的<a href="https://www.nature.com/articles/doi:10.1038/nature22968" target="_blank"><u>一项研究</u></a>，最新的考古证据显示人类至少是在 6.5 万年前<a href="https://www.nytimes.com/2017/07/19/science/humans-reached-australia-aboriginal-65000-years.html" target="_blank"><u>第一次踏上澳洲</u></a>。此前的考古挖掘和年代测定认为，人类是在大约 4.7 万到 6 万年前移民澳洲。但对名叫 Madjedbebe 的原住民岩屋遗址的考古挖掘，将这一日期向前推到了 6.5 万年前。Madjedbebe 遗址自 1970 年代就被研究， 2012 年和 2015 年考古学家从最深的层挖掘出了 1.1 万件史前物品。他们发掘出了已知最早的有柄石斧，比世界其它地方发现的要早 2 万年。<br>
+➜YouTube 将极端主义内容搜索重定向到反恐内容
+https://www.solidot.org/story?sid=53178	36011
+YouTube 将在用户搜索极端主义仇恨视频内容时候将其<a href="https://news.slashdot.org/story/17/07/20/2023231/youtube-will-now-redirect-searches-for-extremist-videos-to-anti-terrorist-playlists" target="_blank"><u>重定向</u></a>到反恐内容播放列表。该功能被称为 <a href="https://redirectmethod.org/" target="_blank"><u>The Redirect Method</u></a>，由 Alphabet 子公司 <a href="https://jigsaw.google.com/" target="_blank"><u>Jigsaw </u></a>和科技公司<a href="http://moonshotcve.com/" target="_blank"><u> Moonshot CVE</u></a> (代表 Countering Violent Extremism)开发。Jigsaw 和 Moonshot CVE 在研究了多年伊斯兰国组织利用技术传播信息和招募新成员的方法之后开发了这项技术。YouTube 将会在未来几周将 The Redirect Method 整合到不同语言的搜索查询中，利用机器学习技术更新搜索词，与非政府组织合作开发反恐内容。
+➜三千万美元以太坊被盗是如何发生的
+https://www.solidot.org/story?sid=53179	43671
+7 月 19 日，未知黑客利用漏洞从多签名钱包窃取了超过 15.3 万以太坊，价格超过三千万美元。在攻击发生之后，名为 The White Hat Group 的组织发现没有办法阻止攻击，因此利用相同的漏洞赶快提取出未被黑客盗出的以太坊。如果不及时提取，攻击者有可能获取到超过 1 亿美元的以太坊。<a href="https://medium.freecodecamp.org/a-hacker-stole-31m-of-ether-how-it-happened-and-what-it-means-for-ethereum-9e5dc29e33ce" target="_blank"><u>这一切究竟是怎么发生的</u></a>？以太坊的交易依赖于名为智能合约的程序，攻击者利用的漏洞不存在于 以太坊或钱包客户端 Parity 中，而是存在于默认的智能合约代码中。漏洞十分简单，智能合约中的一个 bug 允许攻击者初始化钱包，相当于恢复到出厂设置，然后就可以自由的将钱包中的以太坊转移给新主人。
+➜阿姆斯特朗月尘包拍出 180 万美元
+https://www.solidot.org/story?sid=53180	44784
+苏富比拍卖行于 7 月 20 日——阿波罗 11 号登月纪念日——拍卖阿姆斯特朗收集月尘样本的包，拍卖价预估在 200 万到 400 万美元之间，<a href="http://www.bbc.com/news/world-us-canada-40677650" target="_blank"><u>但最终拍出 180 万美元</u></a>。阿波罗 11 号登月留下的纪念物绝大部分都保存在 Smithsonian 博物馆，月尘包是唯一保存在私人手中的纪念物。美国政府曾宣布该包是国宝，然后它就丢失了，直到 2003 年才再度现身，它被发现藏在一位经营一座太空博物馆的男子的车库里。但它随后又不小心被错误标记为另一个不太重要的任务的纪念物，被公开拍卖，律师 Nancy Carlson 在 2015 年以 995 美元的价格将其拍下。在将包寄给 NASA 测试后，Carlson 得知它是阿姆斯特朗使用过的包，而政府想要把它拿回来。Carlson 与政府打了一场官司，最终法官判决她可以保留包。Carlson 决定再次将其拍卖，将部分拍卖所得做做慈善。NASA 仍然想要拿回它。
+➜Google 宣布新拥堵控制算法 TCP BBR
+https://www.solidot.org/story?sid=53181	46492
+<div align="center"><img src="http://img.solidot.org/0/387/liMZ42OhfFqaY.gif" height="275" width="550" align=""><br>
+</div>
+<br>
+Google <a href="https://techcrunch.com/2017/07/20/google-cloud-gets-a-new-networking-algorithm-that-improves-internet-throughput/?ncid=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29" target="_blank"><u>宣布了</u></a>新拥堵控制算法 <a href="https://cloudplatform.googleblog.com/2017/07/TCP-BBR-congestion-control-comes-to-GCP-your-Internet-just-got-faster.html"><u>TCP BBR</u></a>。Google 官方博客称新算法将 google.com 和 YouTube 的全球网络吞吐量平均改进了 4%，在某些国家改进了 14%+。Google 解释说，现有的 TCP 拥堵控制算法源自 1980 年代，是为低带宽数据传输设计的，解决拥堵主要考虑丢包，也就是在网络堵塞的时候路由器将会丢弃新的数据包。BBR 代表 Bottleneck Bandwidth and Round-trip propagation time，它的拥堵控制采用了不同的方法，考虑了网络实际的数据交付率有多快。根据最近测量的网络交付率和往返时间构建显示模型，最大化近期可用带宽和最小化近期往返延迟。BBR 使用这些数据决定数据发送速率有多快。Google 已经将 BBR 拥堵算法贡献给了 Linux kernel TCP 协议栈。
+➜Ubuntu 16.10 结束支持
+https://www.solidot.org/story?sid=53182	46760
+2017 年 7 月 20 日，Canonical <a href="https://news.slashdot.org/story/17/07/20/2128232/ubuntu-1610-reaches-end-of-life" target="_blank"><u>结束了</u></a>对 去年 10 月发布的 Ubuntu 16.10 的支持。也就说，从现在开始，Ubuntu 16.10 用户将不会再收到任何安全更新和软件更新。该版本只支持 9 个月时间，Ubuntu 16.10 用户需要更新到新版本如 17.04。将 Linux 作为工作电脑系统的用户，不应该考虑此类支持时间很短的版本，他们应该选择 Ubuntu 的 LTS 版本，或者 Debian stable 或 CentOS，喜欢体验最新功能的用户则可以考虑滚动更新版本。你有很多选择。

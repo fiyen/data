@@ -1,0 +1,15 @@
+➜基础架构联盟：自由软件最佳实践
+https://www.solidot.org/story?sid=48523	38305
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道 <i>"Linux基金会的<a target="_blank" href="https://www.coreinfrastructure.org/">CII（基础架构联盟</a>）继<a target="_blank" href="http://www.solidot.org/story?sid=44729">Census项目</a>后，最近发布了<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md">自由开源软件最佳实践标准的v0.8版本</a>，这个项目的发起人<a target="_blank" href="http://www.dwheeler.com/">David A. Wheeler</a>详细的<a target="_blank" href="https://lwn.net/SubscriberLink/690169/ec0f8d90ec1227e1/">介绍了目前的状况</a>，这份&lt;自由开源软件最佳实践标准&gt;从自由软件开发，测试，分发的过程中的问题给与了建议，<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md#basics">基础部分</a>包括自由软件项目网站应该注意自由软件许可证的使用以及必须使用TLS的HTTPS用于保护分发过程中的安全；<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md#change-control">修改控制部分</a>包括了自由软件项目必须提供公开可读的代码仓库，而关于漏洞处理也必须有公开的流程；<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md#quality">质量部分</a>谈到自动化测试的必要性；<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md#know_secure_design">安全部分</a>谈到了一个自由软件项目必须有一名懂如何设计安全的软件的设计人员以及一位有安全背景的开发人员，如果使用密码工程必须使用久经考验的公开算法；<a target="_blank" href="https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md#analysis">分析部分</a>谈到静态分析（扫描+代码审计）和动态分析（Fuzzing）。
+<p></p>
+<p>btw：目前CII的挂名的中国厂商只有华为，这里<a target="_blank" href="http://hardenedlinux.org/">HardenedLinux社区</a>呼吁更多的中国厂商的参与，共建自由软件生态。
+"</i>
+➜四种新发现元素获得命名
+https://www.solidot.org/story?sid=48524	41058
+国际纯粹与应用化学联合会和国际纯粹与应用物理联合会<a target="_blank" href="http://iupac.org/recommendation/names-and-symbols-of-the-elements-with-atomic-numbers-113-115-117-and-118/"><u>公布了</u></a>四种新发现元素的名字和符号，根据命名原则，新元素由发现者提出候选名字，然后由公众递交意见，公众评估期为5个月，意见递交截至日期11月8日。新元素的名字包括：113号元素是日本发现的，取名为Nihonium，其中Nihon的意思是日本，符号Nh；115号元素是俄罗斯联合核能研究所和美国劳伦斯利弗莫尔国家实验室一个团队发现的，取名为Moscovium，意思是莫斯科，符号Mc；117号元素同样是俄罗斯和美国团队发现的，取名为Tennessine，以美国田纳西州名字命名，符号Ts；118号元素由俄罗斯美国团队发现，取名Oganesson ，该名字是为了纪念俄罗斯核物理学家 Yuri Oganessian，符号Og。
+➜新加坡将从2017年起切断公务员的外网访问
+https://www.solidot.org/story?sid=48525	49317
+在国家安全的名义下，新加坡将从2017年5月起<a target="_blank" href="https://thestack.com/security/2016/06/08/why-singapores-government-internet-blockade-might-spread-west/"><u>切断</u></a>10万台政府公务员办公电脑的外网访问。部门内部的通信则使用VPN保护，雇员自己的设备访问外网不受禁令的限制。新加坡此举是在美国国防部长 Ashton Carter上周访问之后做出的，新加坡所在东南亚地区正面临中国的崛起，而中国的崛起可能会影响到美国在该地区的存在，美国防部长表示要加强双方在安全方面的合作。
+➜雷克萨斯导航系统因OTA软件更新变砖
+https://www.solidot.org/story?sid=48526	55865
+数量未知的雷克萨斯汽车的信息娱乐导航系统因OTA更新存在bug而<a target="_blank" href="http://www.theverge.com/2016/6/7/11879860/lexus-navigation-broken-software-update-bug"><u>“变砖”</u></a>——软启无效，但切断电池硬启被认为可能修复问题。雷克萨斯发言人证实了这起事故。bug会导致受影响的汽车仪表盘显示屏自动重置，导致无线电和导航系统无法使用。雷克萨斯的用户通过官方社交媒体账号<a target="_blank" href="https://www.facebook.com/lexus/posts_to_page/"><u>抱怨这起事故</u></a>，该公司尚未给出解决问题所需的时间表，也未说明受影响客户是否需要将汽车送到销售店修理。

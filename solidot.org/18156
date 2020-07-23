@@ -1,0 +1,48 @@
+➜美国参议员要求 FCC 审查中电信中联通牌照
+https://www.solidot.org/story?sid=62096	8862
+在美国对中国可能从事间谍行为的疑虑高涨之际，两名美国参议员周一要求美国联邦通讯委员会 (FCC) 与国家安全机构检讨是否应该允许两家中国国有电信公司<a href="https://cn.reuters.com/article/fcc-senators-china-tele-carriers-0916-mo-idCNKBS1W202V?il=0"><u>在美国运营</u></a>。民主党参议院领袖舒默 (Charles Schumer) 与共和党参议员科顿 (Tom Cotton) 要求 FCC 主席 Ajit Pai 检讨 2000 年代初期颁发的许可，允许中国电信与中国联通在美国运营。“这些国有企业持续拥有我们电话线路、光纤缆线、移动网络与卫星的准入，这些渠道可能让 (中国) 有能力将美国民众或企业以及美国政府的通讯内容当成目标，包括以引至中国的方式‘劫持 (hijacking)’电信流量，” 两名参议员在给 FCC 的信件中表示，这封信也寄给了国防部与国土安全部。中国电信发言人表示，该公司为美国企业提供电信服务已将近 20 年，一贯把保护客户数据作为优先考虑，赢得了全球最佳电信公司之一的美誉。
+➜海外微信公众号是否要受到监管
+https://www.solidot.org/story?sid=62097	12184
+微信公众号需要遵守中国的监管规定，但面向海外华人的公众号是否也需要遵守不同国家的监管规定？随着社交平台对用户的影响越来越大，对其平台上不实内容的监管<a href="https://www.abc.net.au/chinese/2019-09-14/the-regulating-issues-on-asutralian-wechat-public-accounts/11502976"><u>也引发了热议</u></a>。澳大利亚墨尔本大学法学院助教 Brendan Clift 表示，“政府和产业机构对网络内容和网络服务提供商有一些协同监管，但关注点主要在有害内容上，比如儿童色情和极端暴力图像。社交媒体仍然是一个 ‘灰色地带’，许多社交媒体的主体，甚至那些声称提供新闻类信息的，都不受新闻伦理或行为准则的约束。”他说，如果微信内容侵犯某人权益，受害方可以采取法律措施，然而这在操作上有一定的难度。“如果账号是匿名的，你没有可起诉的对象；如果账号持有人在海外，澳大利亚法庭的判决只有在当地法庭的协助下才能够执行，这可能是一个及其昂贵和耗时的过程。”
+➜Richard M. Stallman 宣布辞职
+https://www.solidot.org/story?sid=62098	13418
+自由软件基金会创始人兼主席 Richard M. Stallman（RMS） <a href="https://www.fsf.org/news/richard-m-stallman-resigns"><u>宣布辞去其职务</u></a>，基金会董事会开始寻找他的继任者。他的辞职被认为与在 MIT 计算机科学和人工智能实验室邮件列表上<a href="https://www.solidot.org/story?sid=62082"><u>讨论</u></a> Marvin Minsky 和 Jeffrey Epstein 一事有关。RMS 认为， Marvin Minsky 与未成年女孩（可能）发生性关系的丑闻没有涉及到暴力，因此在描述此事时因避免使用性侵这个与强迫或暴力相关联的词语。RMS 认为 Jeffrey Epstein 确实是强奸犯，这是没有什么可质疑的，他并没有为 Epstein 辩护。但他的讨论<a href="https://news.ycombinator.com/item?id=20990583"><u>引发了</u></a>要求他下台的呼声。
+➜亚马逊被指改变搜索算法推广自有品牌提高利润率
+https://www.solidot.org/story?sid=62099	14407
+WSJ 援引知情人士的消息<a href="https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345"><u>报道</u></a>，亚马逊去年底调整了搜索算法，突出了自有品牌产品去提高利润率。这一举措在公司内部引发了分歧。亚马逊向搜索算法加入了新的变量，优先考虑与利润率相关的因素。亚马逊回应了 WSJ 的报道，<a href="https://arstechnica.com/tech-policy/2019/09/amazon-changed-search-algorithm-to-favor-its-own-products-wsj-reports/" target="_blank"><u>否认优先考虑利润率</u></a>，称它的搜索排名展示了用户想要的产品，不管是自有品牌还是第三方品牌，产品的利润率只是考虑的一个尺度，并不是搜索排名的关键驱动因素。
+➜微软开源 MSVC 的 C++ 标准库
+https://www.solidot.org/story?sid=62100	18658
+微软<a href="https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/"><u>宣布</u></a>开源它实现的 C++ 标准库（STL），<a href="https://github.com/microsoft/STL"><u>源代码</u></a>托管在 GitHub 上，采用 Apache License v2.0 with LLVM Exceptions 许可证。微软称，它选择这个许可证是方便 libc++ 项目与 MSVC 的 STL 共享代码，不过目前两个项目没有合并，仍然是支持不同平台的不同库，有着不同的数据结构表示。但如果 libc++ 的维护者有兴趣移植 MSVC 的 STL 实现的特性，或协作同时开发新的特性，那么两个项目之间的合作无需考虑许可证问题。微软表示它暂时没有计划开源 MSVC 工具集的其它部分。
+➜美国考虑允许司机选择电动汽车的警告声
+https://www.solidot.org/story?sid=62101	25849
+美国国家公路交通安全管理局(NHTS)提议让电动汽车的司机<a href="https://www.cnet.com/roadshow/news/electric-car-sound-alert-noise-us-regulation/" target="_blank"><u>能选择车速 30 公里以下时的警告声</u></a>。电动汽车在低速行驶的情况下非常安静，为了提醒路人制造商通常会为汽车安装人造的警告声音。监管机构认为，电动汽车在时速 30 公里以上的情况下轮胎和风就能产生足够提醒行人的声音。而对于低速的警告声音，美国国家公路交通安全管理局想听取公众的意见，是否应限制汽车制造商在电动汽车上安装的警告声音数量。NHTS 认为警告声音能让人知道有汽车接近，帮助避免每年 2400 例的碰伤情况。
+➜MIT 工程师制造出最黑的黑色材料
+https://www.solidot.org/story?sid=62102	26742
+MIT 工程师报告他们<a href="http://news.mit.edu/2019/blackest-black-material-cnt-0913"><u>制造出了</u></a>至今最黑的黑色材料。<a href="https://pubs.acs.org/doi/10.1021/acsami.9b08290"><u>研究报</u></a>告发表在《ACS-Applied Materials and Interfaces》期刊上。这种材料由定向碳纳米管阵列构成，能吸收超过 99.995% 的入射光，用它覆盖的钻石看起来就像变成了黑洞。MIT 教授 Brian Wardle 表示这种材料具有实用价值，如可用于太空望远镜。他的合作者是博士生 Kehang Cui，目前是上海交大的教授。
+➜LastPass 漏洞会向网站泄漏上一个登录凭证
+https://www.solidot.org/story?sid=62103	27715
+密码管理器 LastPass <a href="https://blog.lastpass.com/2019/09/lastpass-bug-reported-resolved.html/"><u>修复了</u></a>一个漏洞，该漏洞让一个网站<a href="https://arstechnica.com/information-technology/2019/09/lastpass-fixes-bug-that-leaked-the-password-of-last-logged-in-account/" target="_blank"><u>能窃取</u></a>用户使用 Chrome 或 Opera 扩展上一次登录的凭证。漏洞是 Google Project Zero 研究员 Tavis Ormandy <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1930" target="_blank"><u>发现</u></a>和报告的，与扩展产生弹出窗的方式有关。在某些情况下，网站能通过 HTML iframe 产生与 Lastpass popupfilltab.html 关联的弹出窗，泄漏最近一次访问的网站密码。LastPass 释出了 4.33.0，修复了该漏洞。
+➜袋貘比以前认为的更重
+https://www.solidot.org/story?sid=62104	30310
+澳大利亚一种已灭绝的有袋类动物 —— 袋貘，其体重<a href="http://news.sciencenet.cn/htmlnews/2019/9/430627.shtm" target="_blank"><u>可能超过 1 吨</u></a>，而且前肢肘关节固定维持在 100 度左右的夹角，这种前肢形态在已知的哺乳动物中显得与众不同。袋貘出现在大约 2500 万年前的澳大利亚东部，大约 1 万年前灭绝。此前考古研究已知，这种有袋类动物体型庞大、四肢强壮，但对于它的肢体形态缺乏详细研究。研究人员分析了 60 多个不同地质年代的袋貘化石标本。结果发现，袋貘的体重可能比此前认为的还要大，且前肢有着独特形态。<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221824"><u>研究报告</u></a>发表在《PLoS ONE》期刊上。
+➜Mozilla 和知识共享想要重构没有广告的互联网
+https://www.solidot.org/story?sid=62105	35442
+广告支持和侵入隐私的互联网商业模式正日益受到质疑，但小额支付的商业模式距离真正可用还有一段时间。Mozilla 和知识共享<a href="https://www.fastcompany.com/90403645/mozilla-and-creative-commons-want-to-reimagine-the-internet-without-ads-and-they-have-100m-to-do-it"><u>决定共同推动小额支付模式</u></a>，它们与微支付创业公司 Coil 宣布了一亿美元的 <a href="https://www.grantfortheweb.org/"><u>Grant for the Web</u></a> 计划，每年拨款 2 千万美元支持内容网站和开源基础设施开发人员，推进小额支付的 Web 标准 Web Monetization。Coil CEO Stefan Thomas 称，他的公司是第一家 Web Monetization 供应商，用户支付固定月费，这笔费用在用户访问的支持 Web Monetization 的网站之间分配，分配标准是基于在网站停留的时间。
+➜杭州法院向微信投放失信被执行人广告
+https://www.solidot.org/story?sid=62106	36039
+国内媒体<a href="https://www.thepaper.cn/newsDetail_forward_4441955"><u>报道</u></a>，杭州市江干区法院运用微信小程序“悬赏执行”在微信朋友圈投放 “悬赏令”，曝光  23 名被执行人的失信行为，鼓励财产线索知情人举报，奖金为执行标的的 5%。江干法院公布的信息包括姓名、头像、标的、所涉案件、悬赏额等。法院相关负责人称，“这不仅有助于让被执行人迫于熟人传播的压力而履行义务，也可以依托社交关系链传播，通过有偿举报掌握被执行人的隐匿财产线索。”
+➜考古学家发掘蒙古入侵留下的集体坟墓
+https://www.solidot.org/story?sid=62107	38888
+为重建大教堂，考古学家在 2005 年到 2010 年之间发掘了俄罗斯 Yaroslavl 的旧城中心。他们发现了 9 个中世纪集体坟墓，埋了至少 300 具尸体，其历史可上溯至蒙古人的入侵。对坟墓中残骸的分析<a href="https://arstechnica.com/science/2019/09/archaeologists-unearth-mass-graves-from-mongol-invasion-of-russia/"><u>揭示了蒙古入侵下的家庭悲剧</u></a>。在 13 世纪上半叶，成吉思汗之孙拔都汗征服了今天俄罗斯、东欧和高加索地区的的一部分。他前进道路上的城市要么投降要么灭亡。1238 年 2 月，蒙古大军抵达了 Yaroslavl。集体墓葬里的许多人都是死于暴力。对骨骼的分析显示部分人可能有亲戚关系，他们有着相似的遗传特征。考古学家对其 DNA 进行了分析，发现有三具残骸共享了线粒体基因——两位女性一位男性，其中一名女性死时至少有 55 岁，另一名女性死时约 30 到 40 岁，另一名是 20 岁左右的男性，他们可能是祖母、女儿和孙子。没人知道是谁埋葬了他们。
+➜冻便制造的刀没有任何用
+https://www.solidot.org/story?sid=62108	41191
+知名人类学家 <a href="https://en.wikipedia.org/wiki/Wade_Davis_(anthropologist)"><u>Wade Davis</u></a> 无意中创造了一个神话，他在《Shadows in the Sun》这本书中描述了一名生活在 1950 年代的老年因纽特人，他用自己的冻便制造了一把刀，还用它杀死了一条狗。根据发表在《Journal of Archaeological Science: Reports》上的<a href="https://www.sciencedirect.com/science/article/pii/S2352409X19305371?via%3Dihub" target="_blank"><u>一项研究</u></a>，美国肯特州立大学的实验人类学家以科学的名义验证了这段描述，用冻便制造了一把刀，在理想条件下对猪皮、肌肉和肌腱进行了一番测试，结果每次都失败了，冻便之刀<a href="https://arstechnica.com/science/2019/09/knives-made-of-frozen-feces-dont-make-the-cut-disproving-well-known-legend/"><u>根本不起作用</u></a>。
+➜人造肉进军中国
+https://www.solidot.org/story?sid=62109	46285
+在备受非洲猪瘟困扰的中国，<a href="https://www.bbc.com/zhongwen/simp/science-49724161"><u>人造肉成为特别关注的话题</u></a>。不久前，美国主要的两家人造肉公司 “不可能食品”（Impossible Foods）和 “超越肉类”（Beyond Meat）宣布了进军中国的计划。人造肉有两种，利用大豆蛋白制作而成的植物肉，和通过动物干细胞培育而成的试管肉。但由于后者成本高昂，目前市场上所指的人造肉主要是前者。不可能食品” 和 “超越肉类” 目前都已在香港展开生意，并谋划在短期内进入中国大陆市场，而它们也不可避免将与中国本土企业激烈竞争。中国基本上每两个星期，都有 1 到 2 家新的人造肉公司出现，还有大型企业在往植物肉方面转型。
+➜WeWork 推迟上市计划
+https://www.solidot.org/story?sid=62110	46778
+WSJ 和<a href="https://www.reuters.com/article/us-wework-ipo/wework-parent-expected-to-delay-ipo-wsj-idUSKBN1W12T6" target="_blank"><u>路透社</u></a>报道，提供众创办公场所的 WeWork 公司 The We Company 推迟了 IPO 计划。有关公司治理和公司实际价值的问题<a href="https://techcrunch.cn/2019/09/17/the-we-company-reportedly-will-put-its-public-offering-on-hold/"><u>影响了该公司的上市</u></a>。非公开市场投资者曾经认为，The We Company 的价值接近 500 亿美元。公众对于如此高的估值，以及 CEO 及联合创始人亚当・诺依曼（Adam Neumann）带领下可疑的公司治理行为感到疑虑。过去几个星期，The We Company 已经采取了多项措施，缓解投资者的担忧。但这些措施还不足以安抚华尔街投资者，即便将公司估值下调至 100 亿美元以下，也无法吸引投资者对该公司股票的足够兴趣。
+➜也门胡塞武装的武器
+https://www.solidot.org/story?sid=62111	47122
+上周末，也门胡塞武装声称使用无人机<a href="https://www.solidot.org/story?sid=62080" target="_blank"><u>袭击了沙特的石油设施</u></a>，导致全球石油产量减产 5%。美国国务卿  Mike Pompeo <a href="https://twitter.com/SecPompeo/status/1172963090746548225"><u>声称</u></a>幕后攻击者是伊朗，表示没有证据显示攻击来自于也门。虽然攻击来自何处存在争议，但确凿证据显示胡塞武装使用的导弹和无人机<a href="https://arstechnica.com/tech-policy/2019/09/missiles-and-drones-that-hit-saudi-oil-fields-made-in-iran-but-fired-by-whom/"><u>很多都来自于伊朗</u></a>。胡塞武装使用过旧的飞毛腿和伊朗的飞毛腿克隆，2017 年被发现开始使用伊朗制造的无人机如 Qaseth-1，这种无人机能根据 GPS 坐标对目标发动自杀性攻击，无人机使用的引擎是中国制造的双缸汽油发动机，其它零部件都来自伊朗，飞行距离 250 公里，能携带 30 公斤的负荷。今年 7 月，胡塞武装透露了一种射程达到 2500 公里的新巡航导弹，能对以色列和东非的目标发动攻击。

@@ -1,0 +1,45 @@
+➜Google 关闭域前置，影响反审查工具
+https://www.solidot.org/story?sid=56211	12416
+Google 的云计算平台 App Engine（GAE） <a href="https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn" target="_blank"><u>正在关闭</u></a>域前置(Domain fronting)功能，导致利用 Google 域名绕过国家级审查的反审查工具失效。<a href="https://en.wikipedia.org/wiki/Domain_fronting" target="_blank"><u>域前置</u></a>是一种隐藏连接真实端点来规避审查的技术。此技术的原理为在不同通信层使用不同的域名。在明文的 DNS 请求和 TLS 服务器名称指示中使用无害的域名来初始化连接、公布给审查者，而实际要连接的被封锁域名仅在创建加密的 HTTPS 连接后发出，使其不以明文暴露给网络审查者。比如在没有屏蔽 Google 域名的国家，反审查工具可以通过 Google 的域名 appspot.com 转发流量。Tor 开发者在 4 月 13 日率先<a href="https://trac.torproject.org/projects/tor/ticket/25804" target="_blank"><u>报告</u></a>了 GAE 的域前置停止工作。域前置失效干扰到了 Signal、GreatFire.org 和 Psiphon VPN 等反审查服务。Google 的代表对此表示，域前置从来不是 Google 支持的一项特性，它能工作是因为软件栈的古怪行为，Google 在不断更新网络，作为计划中的软件更新的一部分，域前置不再能工作。Google 没有计划将其作为一项功能提供。
+➜微软将 Edge 反钓鱼技术移植到 Google Chrome
+https://www.solidot.org/story?sid=56212	13453
+微软<a href="https://arstechnica.com/gadgets/2018/04/microsoft-claims-to-make-chrome-safer-with-new-extension/" target="_blank"><u>发布了</u></a>一个 Chrome 扩展“<a href="https://chrome.google.com/webstore/detail/windows-defender-browser/bkbeeeffjjeopflfhgeknacdieedcoml" target="_blank"><u>Windows Defender Browser Protection</u></a>”，将 Windows Defender 和 Edge 浏览器的反钓鱼技术移植到 Google Chrome 上。Google 有类似的反钓鱼技术叫 Safe Browsing API，而微软的反钓鱼技术则是 SmartScreen API。现在 Chrome 用户可以使用两种反钓鱼技术了。SmartScreen API 知名度没有 Safe Browsing API 高，但根据 NSS Labs 的<a href="https://www.nsslabs.com/web-browser-security-2017/" target="_blank"><u>测试</u></a>它识别恶意域名的正确率更高，使用 SmartScreen API 的 Edge 检测出来 99% 的钓鱼网址，而 Chrome 只有 87%。
+➜FTC 投票限制使用中国电信公司的设备
+https://www.solidot.org/story?sid=56213	15086
+美国联邦通信委员会（FCC）一致投票<a href="https://cn.nytimes.com/business/20180418/huawei-trade-war/" target="_blank"><u>支持推进一项计划</u></a>，阻止接受联邦政府补贴的电信运营商使用被认为对美国国家安全构成危险的供应商。该决定直接针对电信网络设备和智能手机制造商华为，以及它主要的中国竞争对手中兴通讯，传达出了美国政府不信任它们的信息。此举加剧了中美围绕高科技主导地位展开的，本来就已非常激烈的争夺。美国政界一直担忧华为与中国政府关系，这个忧虑长期以来困扰着华为，过去十年大部分时间里，该公司都在争取在美国销售自己的设备和手机。针对华为和中兴的最新举措意味着苹果和高通等美国公司可能很快就会被卷入这场混战。
+➜RMS 谈 Facebook 的隐私丑闻
+https://www.solidot.org/story?sid=56214	18656
+自由软件基金会主席 Richard Stallman（RMS）<a href="http://nymag.com/selectall/2018/04/richard-stallman-rms-on-privacy-data-and-free-software.html" target="_blank"><u>接受了纽约杂志的采访</u></a>，谈论了隐私、数据收集和自由软件等广泛的话题。RMS 称，企业所收集的用户数据库能以四种方式被滥用：企业滥用、雇员滥用、不相关第三方窃取然后滥用，以及被国家滥用，比如送到集中营。他以中国为例称，任何数据都能被令人可怕的滥用，而美国政府在数据保护上记录不佳。对于为什么企业自认为收集数据是正当的，RMS 认为这可以追踪到过去二十年控制美国的新自由主义思想。有研究显示，从 1998 年起舆论总体上不再影响政治决策，富人和特殊利益相关方控制了决策。因此想要收集用户数据的企业能利用被误导的意识形态为所欲为。RMS 认为不应该允许企业收集用户的数据。我们需要法律阻止它们，如果代价是掌握我们的一切那么它们没有理由应该存在。它们应该消失，它们并不重要，我们的人权更重要。没有企业重要到能通过建立警察国家来使其存在正当化。我们正走向一个警察国家。绝大多少非自由软件都有恶意功能，包括了对人的监视和限制——这就是所谓的 DRM、后门和审查。根据经验，如果程序不是自由软件，那么它就可能具有上述的恶意功能。想象一下非自由软件控制的无人驾驶汽车，它不受用户控制，而是由制造商或其它公司控制。想象一下如果软件有一个后门，允许其他人发送指令无视乘客的命令将汽车行驶到某个地方。可以肯定中国会利用这种功能将其想要惩罚的人消失或送到惩罚的地方。但你肯定美国不会这么做吗？
+➜SpaceX 成功发射搜索系外行星的卫星 TESS
+https://www.solidot.org/story?sid=56215	20241
+SpaceX 的 Falcon 9 火箭<a href="https://www.nasaspaceflight.com/2018/04/tess-launch-mission-search-near-earth-exoplanets/" target="_blank"><u>成功发射了</u></a> NASA 的卫星 Transiting Exoplanet Survey Satellite（TESS）。TESS 将接替开普勒卫星搜索距离地球 300 光年内的系外行星，两颗卫星事实上执行的是不同的任务，开普勒针对的是特定的恒星，搜寻范围狭窄，搜索最佳距离 2,000 到 3,000 光年。TESS 将在两年时间内在一块 400 倍于开普勒任务的区域内观察大约 50 万颗恒星。预计它将发现 2 万颗系外行星。而开普勒至今发现了 2,652 颗系外行星。
+➜Pip 10.0 释出
+https://www.solidot.org/story?sid=56216	27333
+Python 包管理系统 pip <a href="https://mail.python.org/pipermail/python-announce-list/2018-April/011894.html" target="_blank"><u>释出了</u></a> 10 0 版。从 Pip 10.0 起，Python 2.6 不再被支持，想要在 Python 2.6 上继续使用包管理器的用户不要升级，而应继续用 pip 9。Python 2.X 系列的最后稳定版本是 2.7 ，而 2.7 将在 2020 年终止支持。Pip 10.0 的其它变化包括：支持 PEP 518，改进 Windows 下非 ASCII 区域设置的 Unicode 处理；新的 pip 配置指令，默认升级策略改为“only-if-needed”，大量bug 修复和小的改善，等等。
+➜德国公司通过 ICO 筹集到 5000 万美元后被指携款跑路
+https://www.solidot.org/story?sid=56217	29245
+德国公司 Savedroid 通过 ICO 成功筹集到 5000 万美元的投资，之后许多迹象显示该公司<a href="https://techcrunch.com/2018/04/18/another-day-another-50-million-ico-exit-scam/" target="_blank"><u>携款跑路了</u></a>。首先是<a href="https://www.savedroid.com/" target="_blank"><u>网站主页</u></a>展示了南方公司的一张 meme 图“Aannnd it's gone”，然后是公司创始人  Yassin Hankir 博士在 Twitter 上<a href="https://twitter.com/YassinHankir/status/986551967932735488" target="_blank"><u>发帖</u></a>感谢投资者，说他“Over and out.”还有人去了 SaveDroid 的办公室<a href="https://www.reddit.com/r/savedroid_ico/comments/8d78l1/from_savedroid_office_no_one/" target="_blank"><u>发现</u></a>里面根本没有人。而网站的子域名 <a href="https://ico.savedroid.com/" target="_blank"><u>ico.savedroid.com</u></a> 则声称它没有跑路，似乎还在安慰投资者。Savedroid 推销的产品是用 AI 管理用户投资，以及推出数字货币支持的信用卡，听起来都十分的不靠谱。
+➜建模尼安德特人面部形态
+https://www.solidot.org/story?sid=56218	30555
+<div align="center"><img src="//img.solidot.org/0/588/liZd8zet92sJ2.jpg" width="450" height="282" align=""><br>
+</div>
+<br>
+澳大利亚研究人员在《英国皇家学会学报 B》发表<a href="http://rspb.royalsocietypublishing.org/content/285/1876/20180085" target="_blank"><u>论文</u></a>，用计算机<a href="https://www.livescience.com/62210-neanderthal-big-noses.html" target="_blank"><u>建模了</u></a>尼安德特人面部形态，显示他们有着巨大的鼻孔。研究人员认为这种面部特征是为了适应冰河时代的寒冷空气与高能量的消耗。分析<a href="http://news.sciencenet.cn/htmlnews/2018/4/409662.shtm" target="_blank"><u>表明</u></a>，尼安德特人面部真正独特的地方在于其能够通过鼻部呼吸大量空气，这也意味着尼安德特人习惯于一种非常高能量的生活方式。
+➜DICE 为战地开发大逃杀模式
+https://www.solidot.org/story?sid=56219	31481
+《绝地求生（PUBG）》采用的大逃杀模式去年风靡世界，吸引了数千万玩家，至今未衰，因此越来越的游戏开发商开始进入到这个日益拥挤的领域。DICE 被认为是最新一个。据报道它正在为《战地 V》<a href="https://venturebeat.com/2018/04/18/dice-battlefield-v-battle-royale/" target="_blank"><u>开发大逃杀的原型</u></a>，以挑战 PUBG 和 Fortnite——这两款大逃杀游戏都有千万级的玩家。Activision 据报道也在支持旗下的工作室  Raven 为《Call of Duty: Black Ops 4》开发大逃杀模式。《战地 V》和《Black Ops 4》都将在今年底上市，《战地 V》的大逃杀模式有可能作为免费更新释出。
+➜大脑植入物易受无线攻击
+https://www.solidot.org/story?sid=56220	35562
+比利时安全研究人员发表了<a href="https://www.esat.kuleuven.be/cosic/publications/article-2803.pdf" target="_blank"><u>一篇论文</u></a>（PDF），调查了治疗慢性疼痛、帕金森症和其他疾病的大脑植入物的安全性。研究人员<a href="https://boingboing.net/2018/04/17/insecure-by-design.html" target="_blank"><u>发现</u></a>，此类的植入物最多是在最后才会去考虑安全。植入物使用无线接口，因此显而易见你不能给大脑中的芯片加入 USB 线缆，而接口的缺陷允许攻击者施加电击，收集敏感神经信息以及拦截敏感医疗数据在植入物和设备之间的传输。 研究人员提议使用加密来削弱此类远程攻击的风险，比如初始化加密需要物理上接近的工具。
+➜机器学习“预测”混沌
+https://www.solidot.org/story?sid=56221	41189
+半个世纪前，混沌理论的提出者发现蝴蝶效应让长期预测变得不可能。复杂系统的最小扰动也能触发一连串的事件，导致未来发生巨大变化。我们生活在不确定性之幕下。现在，机器人伸出了援助之手。科学家在《<a href="https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.120.024102" target="_blank"><u>Physical Review Letters</u></a>》 和《<a href="https://arxiv.org/abs/1710.07313" target="_blank"><u>Chaos</u></a>》期刊上发表报告，使用机器学习<a href="https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/" target="_blank"><u>预测混沌系统的长期演化</u></a>。这种方法被外部专家称赞为重大突破，被认为具有广泛的应用前景。发现来自资深混沌学家 Edward Ott 和他在马里兰大学的同事，他们利用储备池计算（reservoir computing）算法去学习名叫 Kuramoto-Sivashinsky equation 的混沌系统的动力学。通过数据训练，他们的储备池计算能预测的系统演化时间八倍于旧的方法。
+➜贝佐斯透露亚马逊有超过一亿 Prime 会员
+https://www.solidot.org/story?sid=56222	42033
+亚马逊 CEO 贝佐斯 (Jeff Bezos)在<a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm" target="_blank"><u>致股东信</u></a>中披露，电商巨头有<a href="https://www.theverge.com/2018/4/18/17254388/jeff-bezos-amazon-prime-100-million-subscribers-announcement" target="_blank"><u>超过 1 亿 Prime 会员</u></a>。亚马逊的会员服务包括订单两日内交付，可以欣赏亚马逊的视频点播服务，音乐流服务，电子书服务、Twitch Prime，无限照片储存，等等，其年费为 99 美元。亚马逊也在中国推出了会员服务，但看起来并<a href="https://www.solidot.org/story?sid=53625" target="_blank"><u>不怎么成功</u></a>。中国亚马逊的 Prime 会员年费是 388 元，第一年优惠价是 199 元，其主要优势是海外订单超过 200 元免邮。 Prime 会员最初没有提供电子书相关服务，但现在已经加入。
+➜中国让高通重新申报并购恩智浦方案
+https://www.solidot.org/story?sid=56223	46548
+中国最近拖延了两笔芯片企业并购交易审批，其中之一是高通以 440 亿美元收购荷兰恩智浦半导体的交易，中国是唯一没有批准该交易的国家，此举被普遍认为是中国将该交易作为对美贸易战的一个筹码。在今天举行的新闻发布会上，第一财经日报询问了高通并购案，商务部<a href="http://www.mofcom.gov.cn/xwfbh/20180419.shtml" target="_blank"><u>回答</u></a>称，“商务部正在根据《反垄断法》的规定，依法对高通公司收购恩智浦半导体公司股权案进行审查。由于该交易在行业内将产生深远的影响，对市场竞争可能不利，调查机关需要花费大量的时间调查取证和分析，并已就此交易向高通公司提出竞争关注，与高通公司就如何消除交易产生的不利影响进行磋商。对于高通公司已经提出的救济措施的方案，调查机关进行的市场测试初步反馈认为，高通公司方案难以解决相关市场竞争问题。4 月 16 日，高通公司申请撤回申报，并已经重新申报。我们将继续按照《反垄断法》的相关规定，依法公开、公平、公正地做好该交易的反垄断审查工作。”
+➜传播阴谋论的网红
+https://www.solidot.org/story?sid=56224	47118
+由叛军控制的叙利亚城镇杜马（Douma）再出现怀疑化学武器攻击，调查正在进行，与此同时网上则出现一群影响力巨大的活动人士，<a href="http://www.bbc.com/zhongwen/simp/world-43825274" target="_blank"><u>着力传播事件的另一版本</u></a>。杜马究竟发生过什么，目前未能断言，但网上的活动人士，声称自己很清楚当日的情况。他们紧跟俄罗斯官员及官媒的一套说法，指是次攻击为伪造，始作俑者为 “圣战” 分子或间谍，目的是将责任推卸给阿萨德政府，为西方军事介入叙利亚提供借口。这群网上活跃分子，包括一些活动人士，以及自称 “独立记者” 的人，当中部份人的社交媒体 “推特” 追踪人数高达数万、甚至逾十万。他们自称立场 “反战”，但倾向支持政府军打击叛军的军事行动、以及俄罗斯为支援政府军进行的空袭，因此称他们的立场为“反西方介入” 或“支持叙利亚政府军”更为准确。

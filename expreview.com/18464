@@ -1,0 +1,93 @@
+➜iPhone 12将全系支持毫米波和sub-6，苹果会根据不同市场进行相应屏蔽
+http://www.expreview.com/75279.html	5882
+<p>按照以往的情况来看，苹果最快将会在大约两个月之后发布旗下最新的旗舰产品iPhone 12系列。不过，受到疫情的影响，苹果今年的硬件新品发布会目前还存在着许多不确定性，目前的各路消息对于苹果的发布会也是不太统一。比较统一的是，苹果的新品发布会还是会在秋季举行的。在发布会之前呢，关于新系列的产品也会逐渐变得明朗。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/06/23/ios_14.jpg" width="100%"/></p><p>DigiTimes发布了关于iPhone 12系列产品的新的爆料消息。据DigiTimes所称，今年的iPhone 12系列将会在硬件上全面支持毫米波以及Sub-6 GHz 5G网络。但是，因为各个地区之间所采用的5G网络频段不一样，所以在软件上，苹果将会针对不同市场进行相应5G网络的屏蔽。比如说，目前国内还没有毫米波5G网络的相关建设，苹果大概率会通过软件把国行的毫米波连接功能屏蔽。</p><p>受此影响，苹果在不同市场推出的iPhone&nbsp; 12系列产品，在网络连接的体验上可能就会存在不同的感受。比如说在美国市场毫米波5G网络信号足够好的时候，那么5G网络的速度将会是非常快的，但是这种畅快的网络连接可能覆盖的范围就相当小。再比如说，在目前国内主推的Sub-6GHz 5G网络之下，我们就能够感受到5G网络的覆盖以及联网体验会好一些。</p><p>除了今年将发布的产品之外，DigiTimes还透露了关于明年的iPhone 13系列（暂时这么叫）的5G网络特性。针对不同市场上5G网络的商用情况，苹果明年可能会开发针对不同市场的5G网络基带产品，比如说在只支持Sub-6GHz网络的市场上，只推出支持相应5G网络的版本。相较于今年的iPhone 12系列产品从软件上做文章不同，明年可能就是存在硬件上的差别了。</p><p>对于苹果明年将会在iPhone 13系列上做出的改动，DigiTimes表示是为了从5G基带等方面进行成本优化。</p>
+➜AMD可能会在今晚发布Ryzen 4000G系列APU，不过应该是面向OEM的
+http://www.expreview.com/75281.html	6240
+<!-- TDP,核显,核显 --><p>有关于桌面版Renoir APU的各种信息已经满天飞了，从各种泄漏来看，这将会是让广大爱好者激动的一系列产品，什么超频上5GHz啊，内存超到DDR4-5000向上啊。这几天有传闻说AMD将会在今天晚上发布该系列APU，不过应该是面向OEM的，并不会放出零售版本。</p><div class="debug" onclick="window.parent.getdemocode(this.innerHTML)"><button onclick="window.parent.showdemo()" class="previewtable">预览</button><script>var tableid = settableid();
+document.write('<div id="' + tableid + '"></div>');
+Table().init({
+title: "AMD Ryzen 4000G APU家族",
+header: ["型号", "核心/线程数", "基础频率", "最高加速频率", "L3大小", "TDP", "核显CU数量", "核显频率"],
+width: '96%',
+padding: '8px 15px',
+columnWidth: 'MAX', //表格单元宽度，"MAX"最大内容显示，""AVG"平均，"AUTO"自动，指定[15,16,20]
+align: 'center',
+id: tableid,
+data: [
+["Ryzen 7 4700G","8/16","3.6 GHz","4.4 GHz","8 MB","65 W","8","2100 MHz"],
+["Ryzen 7 4700GE","8/16","3.1 GHz","4.3 GHz","8 MB","35 W","8","2000 MHz"],
+["Ryzen 5 4600G","6/12","3.7 GHz","4.2 GHz","8 MB","65 W","7","1900 MHz"],
+["Ryzen 5 4600GE","6/12","3.3 GHz","4.2 GHz","8 MB","35 W","7","1900 MHz"],
+["Ryzen 3 4300G","4/8","3.8 GHz","4.0 GHz","8 MB","65 W","6","1700 MHz"],
+["Ryzen 3 4300GE","4/8","3.5 GHz","4.0 GHz","8 MB","35 W","6","1700 MHz"],
+]
+});</script></div><p>桌面版Ryzen 4000G系列使用的核心实际上与移动版的并没有区别，就是封装不一样的同一块Die，所以呢它自然也就不支持PCIe 4.0等一些本来就没有的特性。但因为把计算核心和I/O部分整合到一块去了，它的内存延迟恢复到了以前Zen+时代的水平，这对游戏这种对内存延迟较为敏感的应用来说确实会有一定的益处。其他的话，桌面版因为TDP和散热条件好不少，频率比移动版要高出不少，尤其是核显的频率，都飙上2GHz了。</p><p>之前有传闻称，AMD从7月7日开始，每隔一周就会发布点新东西，上周这个传言应验了一次——<a href="https://www.expreview.com/75188.html" target="_blank" textvalue="AMD发布了一批新的线程撕裂者处理器">AMD发布了一批新的线程撕裂者处理器</a>。这周，也就是今晚，AMD很有可能就会把桌面版的Renoir给放出来了。不过想要买到这些新APU的话还有点困难，因为根据AMD的意思，这些APU是提供给OEM用于预组建的PC系统的。另外还有些归属于Ryzen PRO系列的商用APU不知道会不会一起放出来，到今晚十点应该就知晓答案了。</p>
+➜继用TU106造GTX 1650之后，这次又来了个用TU116的GTX 1650
+http://www.expreview.com/75282.html	6600
+<p style="text-align:left;">每次NVIDIA的显卡准备更新换代的时候，总会有些奇怪的产品诞生，GTX
+1650这款主流级显卡最初的时候是使用TU117核心搭配GDDR5显存的，后来又出了个搭GDDR6显存的版本，上个月影驰出了张用TU106核心的GTX
+1650，现在技嘉又弄了张用TU116核心的GTX 1650出来。</p><p style="text-align:center;"><img src="https://img.expreview.com/news/2020/07/20/GTX1650_TU116_01.jpg" border="0"/></p><p style="text-align:left;">这张技嘉显卡的名字叫GV-N1656OC-4GD R2.0，是由推特用户<a target="_blank" href="https://twitter.com/momomo_us/status/1285175416412499968">@momomo_us</a>所发现的，显卡的基本规格和普通的GTX
+1650没啥区别，GPU拥有896个CUDA单元，加速频率1590MHz，配备128bit/4GB
+GDDR6显存，显存频率12Gbps，但它使用的核心是TU116-150，完整规格的TU116核心用在GTX 1660
+Ti上面，核心是TU116-400，一共有1536个流处理器，以及192bit的显存位宽，也就是现在核心被砍了41.7%的流处理器，以及三分之一的显存位宽，功耗目前不太清楚，不过应该要高于一般GTX
+1650的75W。</p><p style="text-align:center;"><img src="https://img.expreview.com/news/2020/07/20/GTX1650_TU116_02.jpg" border="0"/></p><p style="text-align:left;">相比此前用核心面积445mm<sup>2</sup>的TU106核心砍成GTX 1650，这次用284mm<sup>2</sup>的TU116来做已经算正常的了，NVIDIA现在在全力清理图灵核心的库存，好为即将到来的安培架构让出市场空间。</p><p style="text-align: center;"><img src="https://img.expreview.com/news/2020/07/20/GTX1650_TU116_03.jpg" border="0"/></p>
+➜微软Windows 10X或要到2021年才正式亮相，双屏的Surface Neo推迟至2022年
+http://www.expreview.com/75283.html	6780
+<p>微软在去年发布了一波“画饼”Surface设备，当中Surface Neo和Surface Duo，这两款双屏设备让人印象深刻，特别是搭载x86处理器的Surface Neo，更被视为未来电脑的重要形态，为此微软还公布了专为双屏设备准备的Windows 10X，但现在微软这个“未来”设想似乎进展并不顺利，最新有传闻Windows 10X最早也要到2021年才亮相，而且还不是原定用在双屏设备。</p><p>这个Windows 10X其实也不完全是个新操作系统了，从它的代号“Lite”、“Santorini”不难看出，它属于是由原版Windows 10精简而来，只是不同于Windows 10 in S mode（此前是Windows 10 S）定位给教育和入门市场，这个Windows 10X主要是面向更为高端一些的超便携设备，特别是Surface Neo这样的双屏电脑，微软为双屏幕显示和交互，对Windows 10做了大量的优化。</p><p style="text-align:center;"><img src="https://img.expreview.com/news/2020/07/20/suf_neo.jpg" width="100%"/></p><p>按照原定计划，微软将会在最早2020年晚些时候上市的Surface Neo首发预装Windows 10X，但据<a href="https://www.zdnet.com/article/microsoft-plans-for-single-screen-windows-10x-rollout-in-spring-2021-dual-screen-in-spring-2022/" target="_blank">外媒ZDNET</a>最新收到风，微软已推迟到2021年才正式推出运行Windows 10X的单屏设备，主要面向商业和教育行业，而双屏的Windows 10X设备还要到2022年才登场。</p><p>而且首发的Windows 10X还不会支持Win32应用程序，只能支持微软自家的UWP软件或者Web网页应用，Windows Central的编辑认为微软可能想优先在Windows 10X上部署Cloud PC虚拟化服务，但ZDNet编辑更觉得是Win32程序在Windows 10X遇到运行性能问题，所以最迟要到2022年才会支持Win32程序。</p>
+➜谷歌的拍照算法大牛跳槽Adobe，要开发一款你的手机也能用的超强相机应用
+http://www.expreview.com/75280.html	7533
+<p>虽然谷歌推出的Pixel系列机型在普通消费市场上的争议是比较大的，比如说后置相机，在最新的Pixel 4系列上还在用着入门机都要刷新的双摄标准。是的，谷歌在去年才后知后觉地在自家的产品上用上双摄，而人家的五摄产品都开始商业化了。但是，这个系列的产品的拍照上的表现则是几乎赢得了大家一致的好评，而这背后，就是谷歌相机团队做出来的超级强悍的算法。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/Clearly-White-Pixel-4-Front_Back.jpg" width="100%"/></p><p>如果你也曾经折腾过为自己的手机寻找一款成像超好的相机应用的话，相信你也曾经通过各种方法在自己的手机上安装谷歌出品的相机应用的。这款应用目前官方仅仅是面向Pixel系列手机推出官方支持的版本，而其他品牌的手机就只能等待第三方进行移植。谷歌出品的这款相机应用之所以能够受到大家的追捧，无非就是它能够带来类似于Pixel系类上的拍照体验。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/pixel-1.jpg"/><br/>除了部分刷榜的机型之外，Pixel 4的相机表现和iPhone 11 Pro Max还是挺接近的</p><p>Adobe今天宣布，原本归属于谷歌Pixel手机相机应用团队的技术大牛Marc Levoy已经正式入职Adobe，工作就是要开发一款通用的相机应用。简单点说就是，这位技术大牛通过跳槽，希望把应用在Pixel系列上的超强软件算法带给所有能够自主安装相机应用的智能手机用户。也就是说，如果你曾经垂涎过谷歌相机或者其背后的强大算法的话，那么以后你可能可以通过下载Adobe的一款应用就能实现。</p><p>据<a href="https://www.theverge.com/2020/7/20/21331331/google-pixel-camera-app-lead-adobe-marc-levoy" target="_blank">The Verge</a>报道，Levoy领导的团队开发了在Google的Pixel智能手机中使用的令人印象深刻的计算摄影技术，比如说强大的夜间成像算法、人像模式以及HDR+等功能。通过这些软件算法，谷歌的Pixel系列手机，即便还在使用单摄、双摄，依然能够带来超越那些三摄、四摄甚至五摄手机所带来的成像品质。</p><p>Marc Levoy在谷歌工作六年之后，于今年3月份正式离开谷歌，期间在谷歌完成了多个跟相机相关的项目。</p><p>在入职Adobe之后，Marc Levoy将致力于Adobe的计算摄影计划，有趣的是，他的努力将“以通用相机应用程序的概念为中心”。我们期待一款出自Adobe的强大通用的相机应用。</p>
+➜微软总裁向美国反垄断委员会表达了对于Apple Store的担忧
+http://www.expreview.com/75285.html	7980
+<p>苹果在2008年打造的AppStore，从当年的小独苗到如今枝繁叶茂，不仅成就了当前全世界科技公司难以望其项背的苹果生态圈，也让苹果产品在消费者中的地位从“多一份”到“独一份”。这样不可或缺的行业地位使得无数优秀开发者都向AppStore靠拢。但AppStore 30%的收益抽取对于很多公司来说都是一个难以接受的条件——这项收费并不是单基于软件售价的收费，而是开发商在软件内的所有收费——不管是游戏道具还是订阅服务，都需要向苹果缴纳其收益的15%-30%。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/appstore.jpg"/></p><p>这个被戏称为“苹果税”的收益分成实在是过高。据消息，在2020年元旦的当天，AppStore的收益就达到了约1.15亿美元。这样的分成让许多行业巨头都感受到了不公平，在国内早先有腾讯为了“免税”直接取消了其微信的打赏功能，国外也有Spotify这种音乐流媒体巨头向反垄断组织申请调查。</p><p>随着反垄断听证会召开的日期越来越近，近日微软总裁Brad Smith和反垄断委员会进行了交谈。根据<a href="https://www.theinformation.com/articles/microsoft-president-met-with-house-antitrust-committee" target="_blank">The Information</a>的消息，该委员会向Brad Smith寻求意见，希望他可以“提供微软这么一家科技巨头的观点”。而此前微软其实也受到反垄断调查。</p><p>谈话的主题包括AppStore武断的审核过程、高达30%的的收益分成以及强制要求开发者使用苹果自家的内购系统。在先前，Brand Smith就表示，监管机构应该对于应用商店和付款要求进行调查了。</p><p>反垄断调查听证会将于美国东部时间7月27日召开，届时不仅仅是苹果的CEO Tim Cook会参加，还有亚马逊首席执行官Jeff Bezos，Alphabet / Google首席执行官Sundar Pichai和Facebook首席执行官Mark Zuckerberg也会一并参与。</p><p><br/></p>
+➜[传闻] 佳能或已停止EOS 5D 系列后续开发，未清楚会否有替代的单反机型
+http://www.expreview.com/75286.html	8580
+<p>对于不少摄影爱好者甚至是专业摄影师来说，佳能的EOS 5D系列相机一直以来都是很受欢迎的，而在2016年推出的EOS 5D Mark IV目前也有大量忠实用户，因此有不少人都在期待EOS 5D Mark V的到来。不过它有可能不会到来了，因为有传闻表示佳能已经停止了EOS 5D系列的后续开发。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/eos-5d.jpg" width="100%"/></p><p>根据<a href="https://www.canonrumors.com/there-will-not-be-an-eos-5d-mark-v-cr2/" target="_blank">CANON RUMORS</a>表示，EOS 5D Mark IV将不会有直接的后续机型，相关的开发在之前某个时间已经停止了。不过，佳能也清楚EOS 5D系列有多受欢迎，并且有很多人都倾向于使用单反，所以这个匿名消息来源也认为佳能对于这些用户应该有另外的计划，不过不清楚具体是怎样。</p><p>其实佳能也不是第一次传出会停产一个系列的单反相机了。早在去年就已经有消息表示佳能不会为在2014年就已经发布的为EOS 7D Mark II推出后续机型，最终出来的EOS 90D也的确不是EOS 7D系列的。</p><p>如果EOS 5D后续机型停止开发属实，那么恐怕很多人都要失望了，因为有不少人都喜欢用单反的取景器带来的所见即所得的摄影体验。</p><p>不过随着EOS R5这款可以说是5D系列的升级加强无反版相机的推出，佳能或许也会慢慢地把在无反方面下更多的功夫。但是在目前来说，单反远远还没有到要退出舞台的时候，因此佳能会为这么一大批高端单反用户准备些什么也是让人期待。</p>
+➜高通骁龙875将由三星代工，但似乎受到制程工艺良率不足的不利影响
+http://www.expreview.com/75284.html	8977
+<p>高通近两年在旗舰级别移动SoC上面采用了半代升级的方案，也就是先出一款架构换新的SoC，过半年左右的时间推出它的频率加强版，然后再于当年年底推出下一代的旗舰SoC，从骁龙855、855 Plus再到865、865 Plus，高通都是这么走的，所以今年年底，我们很有可能会见到骁龙的下一代旗舰SoC，不出意外的话，型号应该是骁龙875，目前业界消息称高通将会把该SoC交由三星，使用他们的5nm EUV工艺进行代工。不过昨日又有<a href="https://www.digitimes.com/news/a20200720PD203.html" target="_blank">不利消息</a>传出，业内人士透露，因为良率并不理想，三星的5nm EUV工艺可能会影响到骁龙875的发布和上市时间。</p><p>之前骁龙855和865两代旗舰SoC，高通都是交给了台积电进行代工。从年初开始，我们看到高通又重新开始和三星合作，采用他们家的工艺来代工新的基带和SoC等产品，这背后可能有成本因素的推动，也或许有与三星移动业务间合作关系的考量。</p><p>不过三星似乎在推进新工艺这件事情上走的并不顺利，之前已经有报道称他们<a href="https://www.expreview.com/75003.html" target="_blank">取消掉了4nm工艺的研发计划</a>，直接跳到3nm，现在又传出他们在5nm EUV上的良率不高的消息。如果骁龙875因为制程而遭遇滑铁卢，那么对三星来说也是不小的打击。</p><p>另外，现在还有<a href="https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?cnlid=1&id=0000589549_DJQ4G4HJ5JNWKP8JBHVNE&cf=AK1" target="_blank">消息</a>称高通已经计划将骁龙875的下一代，也就是骁龙885重新交给台积电进行代工了。</p>
+➜ROG公布一款新的60%布局无线游戏键盘Falchion
+http://www.expreview.com/75312.html	11723
+<p>60%布局的键盘因为有着较为紧凑的尺寸，较高的可客制化特性等原因，一直以来都受到特定用户群体的青睐，比如一些FPS游戏玩家和程序员就是这种键盘的忠实受众。在外设领域中努力耕耘的ROG于今天就公布了一款名为Falchion的60%布局无线游戏键盘。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/ROG-Falchion.jpg" alt=""/></p><p>键盘采用60%布局，一共有68枚按键，与上周<a href="https://www.expreview.com/75195.html" target="_blank">雷蛇推出的猎魂光蛛迷你版</a>不同的是，右侧的方向键得到了保留，还多了一组常用的功能按键，这种排列显得更为务实一些。</p><p style="text-align: center"><img src="https://img.expreview.com/news/2020/07/21/h732.jpg" alt=""/></p><p>键盘采用超窄边框设计，支持每个按键独立的RGB灯光设定，机械轴体选用的是Cherry MX轴体，无线技术是基于2.4GHz的。另外，由于是一款无线键盘，它的续航时间是很重要的。官方标称Falchion在关闭掉RGB灯光的情况下，拥有最高400小时的续航时间。</p><p>ROG还为这款键盘增加了一个名为“Interactive touch panel”的功能，让用户能够轻松对键盘进行自定义，并可在不同配置间切换。键盘附赠了一个保护上盖，可以用于防尘，也可以用来在携带键盘外出时给它提供更好的保护措施。</p><p>目前官方还仅仅只是公布了这款键盘的外观和一些细节，更多的详情还有待随后的产品消息。</p>
+➜不想做跨时代想做独占？也没问题，微软一样会支持你
+http://www.expreview.com/75313.html	16210
+<p>微软或者说Xbox，在对下世代游戏的处理上与Sony方面有很大的不同，他们的做法是通过智能分发等技术，让一系列游戏可以跨世代运行，让拥有老主机的玩家也尽可能地玩到新的游戏，而不需要购置新主机。他们大力推行这个理念，并会在自家的第一方作品上面推行不做次世代独占的策略。</p><p>但也有一些开发商肯定想要针对次世代主机做游戏，想在次世代主机上面进行独占。对于这些开发商，微软自然也是会给予很大的支持，Xbox部门头头Phil Spencer在最近的采访中表示，他们对那些想要在次世代主机上做独占游戏的厂商持“完全开放”的态度。</p><p>他在采访中说，创作者有权去打造他们想要做的游戏，去面向他们在探寻的玩家，他们并没有强制开发者必须去做他们要求的东西。Phil Spencer认为Xbox应该扮演好一个平台的角色，给予工作室创作的自由。这也就是说如果工作室想要针对次世代主机做独占游戏，那么他们也会提供一切必要的帮助。不过他还是认为，搞“代际独占”是完全违背了游戏的理念。</p><p>在采访中，Phil Spencer还提到在接下来马上要举行的Xbox游戏发布会上面，会有一些在次世代主机上独占的游戏。</p><p>当然，PlayStation那边的第一方还是会以次世代独占为主。双方的理念很不同，也让次世代游戏主机大战充满了新的看点。</p>
+➜AMD正式发布Ryzen 4000G及Ryzen PRO 4000G系列桌面APU
+http://www.expreview.com/75315.html	51360
+<!-- TDP,核显,核显,TDP,核显,核显 --><p>今晚AMD正式发布了Ryzen 4000G以及Ryzen PRO 4000G系列桌面APU，也就是代号为Renoir的APU的桌面版本，此次一共发布了18款APU，9款属于普通消费级，另外9款属于商用的PRO系列，其中有12款APU属于Ryzen家族，其他属于Athlon家族，只有属于Ryzen家族的12款APU是Renoir APU。这18款处理器并不会做零售，而是通过OEM的整机出货。下面是12款Renoir APU的具体规格表：</p><div class="debug" onclick="window.parent.getdemocode(this.innerHTML)"><button onclick="window.parent.showdemo()" class="previewtable">预览</button><script>var tableid = settableid();
+document.write('<div id="' + tableid + '"></div>');
+Table().init({
+title: "Renoir桌面版（消费级）",
+header: ["型号", "核心/线程数", "基础频率", "最高加速频率", "L3大小", "TDP", "核显CU数量", "核显频率"],
+width: '96%',
+padding: '8px 15px',
+columnWidth: 'MAX', //表格单元宽度，"MAX"最大内容显示，""AVG"平均，"AUTO"自动，指定[15,16,20]
+align: 'center',
+id: tableid,
+data: [
+["Ryzen 7 4700G","8/16","3.6 GHz","4.4 GHz","8 MB","65 W","8","2100 MHz"],
+["Ryzen 7 4700GE","8/16","3.1 GHz","4.3 GHz","8 MB","35 W","8","2000 MHz"],
+["Ryzen 5 4600G","6/12","3.7 GHz","4.2 GHz","8 MB","65 W","7","1900 MHz"],
+["Ryzen 5 4600GE","6/12","3.3 GHz","4.2 GHz","8 MB","35 W","7","1900 MHz"],
+["Ryzen 3 4300G","4/8","3.8 GHz","4.0 GHz","8 MB","65 W","6","1700 MHz"],
+["Ryzen 3 4300GE","4/8","3.5 GHz","4.0 GHz","8 MB","35 W","6","1700 MHz"]
+]
+});</script></div><div class="debug" onclick="window.parent.getdemocode(this.innerHTML)"><button onclick="window.parent.showdemo()" class="previewtable">预览</button><script>var tableid = settableid();
+document.write('<div id="' + tableid + '"></div>');
+Table().init({
+title: "Renoir桌面版（商用级）",
+header: ["型号", "核心/线程数", "基础频率", "最高加速频率", "L3大小", "TDP", "核显CU数量", "核显频率"],
+width: '96%',
+padding: '8px 15px',
+columnWidth: 'MAX', //表格单元宽度，"MAX"最大内容显示，""AVG"平均，"AUTO"自动，指定[15,16,20]
+align: 'center',
+id: tableid,
+data: [
+["Ryzen 7 PRO 4750G","8/16","3.6 GHz","4.4 GHz","8 MB","65 W","8","2100 MHz"],
+["Ryzen 7 PRO 4750GE","8/16","3.1 GHz","4.3 GHz","8 MB","35 W","8","2000 MHz"],
+["Ryzen 5 PRO 4650G","6/12","3.7 GHz","4.2 GHz","8 MB","65 W","7","1900 MHz"],
+["Ryzen 5 PRO 4650GE","6/12","3.3 GHz","4.2 GHz","8 MB","35 W","7","1900 MHz"],
+["Ryzen 3 PRO 4350G","4/8","3.8 GHz","4.0 GHz","8 MB","65 W","6","1700 MHz"],
+["Ryzen 3 PRO 4350GE","4/8","3.5 GHz","4.0 GHz","8 MB","35 W","6","1700 MHz"]
+]
+});</script></div><p>从规格表中可以看到，桌面版的Renoir APU全部具备超线程特性，最高具备8核16线程，是标准版Core i7/i5/i3的有力竞争型号。另外，由于桌面版Renoir APU的主频和核显频率被进一步的提高，并且可以搭配较高频率的内存，其实际表现很值得期待。</p><p>不过AMD也不会拿这些APU来冲自己家的庙，它们不会面向零售渠道出货，而是会通过OEM途径进入各种整机，最后到消费者或商用伙伴手中，比如联想和惠普搭载这批APU的相关产品将会在今年第三季度上市。</p><p>由于这些APU仍然使用AM4插槽，所以我们未来可能可以通过某些渠道购入这些APU，在普通的主板上使用。因为不会有零售版，所以我们也暂时没法做这些APU的评测，但我心里还是很想知道在散热和功耗条件变得宽松的情况下，Renoir究竟能够达到怎样的高度。</p>

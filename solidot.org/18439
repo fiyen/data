@@ -1,0 +1,9 @@
+➜航天信息的智慧税务被指含有恶意程序
+https://www.solidot.org/story?sid=64772	26201
+两家最近在中国开设办事处的英国公司被当地银行要求安装了航天信息股份有限公司的<a href="https://www.aisino.com/product_list.asp?art=457" target="_blank"><u>智慧税务</u></a>软件，安全公司 Trustwave <a href="https://www.trustwave.com/en-us/resources/library/documents/the-golden-tax-department-and-the-emergence-of-goldenspy-malware/" target="_blank"><u>称该税务软件包含了恶意程序</u></a>。Trustwave 为英国公司提供了网络安全服务，它观察到客户网络的可疑请求，它随后对税务软件进行了分析，发现它除了提供纳税功能外还包含了一个隐藏的后门，该后门被称为 GoldenSpy，具有系统级运行权限，允许远程攻击者连上被感染的系统，执行命令或上传和安装其它软件。很多此类的软件都有远程访问功能以调试服务，但 Trustwave 称它发现的功能在恶意程序中更常见。GoldenSpy 安装了两个相同的版本作为持久性的自启服务；税务软件的卸载功能不卸载 GoldenSpy；GoldenSpy 是在税务软件安装两个小时后下载安装的，之后会悄悄运行；GoldenSpy 不连税务软件的网络基础设施，而是访问域名 ningzhidata[.]com。
+➜Julian Assange 被控与匿名黑客组织合谋
+https://www.solidot.org/story?sid=64773	31219
+美国司法部递交了对 WikiLeaks 创始人 Julian Assange 的<a href="https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment"><u>替代起诉书</u></a>，没有增加新的罪名，而是 澄清了 Assange 所涉及罪名的深度。新的起诉书<a href="https://www.zdnet.com/article/wikileaks-founder-charged-with-conspiring-with-anonymous-and-lulzsec-hackers/"><u>加入了更严重的指控</u></a>，包括指控 Assange 合谋和招募匿名黑客组织 Anonymous 和 LulzSec 为他发动黑客攻击。起诉书称，2012 年，Assange 直接联系了当时充当 FBI 线民的 LulzSec 领导者，提供了一组 LulzSec 攻击的目标。对于其中一个目标，Assange 要求寻找邮件、文档、数据库和 PDF。在另一次通讯中，Assange 告诉  LulzSec 领导者，最有冲击力的材料应该来自于 CIA、NSA 或纽约时报。
+➜Sci-Hub 通过比特币获得捐赠
+https://www.solidot.org/story?sid=64774	52110
+在遭到起诉和封杀之后，比特币成为期刊论文共享网站 Sci-Hub<a href="https://www.coindesk.com/blackballed-by-paypal-scientific-paper-pirate-takes-bitcoin-donations" target="_blank"><u> 一个重要的捐赠渠道</u></a>。创始人 Alexandra Elbakyan 接受采访时表示网站每天有 60 万访客。即使能访问大学订阅期刊数据库的研究人员也将 Sci-Hub 视为获取研究相关内容的最方便途径。Elbakyan 说，比特币捐赠只占所有捐赠的较小一部分，大部分捐赠来自在俄罗斯周边地区比较流行的在线支付服务 Yandex，但在其它地方，加密货币是唯一支持 Sci-Hub 的直接捐赠方法。但使用比特币的人仍然很少。Elbakyan 说她曾收到来信，表示在他们的国家只有吸毒者才使用比特币，询问是否有其它捐赠方法。2018 年的一项研究显示，Sci-Hub 筹集到了 94 个比特币，当时的价值约 90 万美元。由于遭到美国期刊出版商的起诉，Sci-Hub 无法使用美国的服务，比如她刚刚开设的 PayPal 账号在一天后就冻结了，她也无法使用  Cloudflare 的 DDoS 保护服务。

@@ -1,0 +1,15 @@
+➜微软与 Google 合作改进 PWA
+https://www.solidot.org/story?sid=64913	47330
+微软与 Google <a href="https://medium.com/pwabuilder/microsoft-and-google-team-up-to-make-pwas-better-in-the-play-store-b59710e487" target="_blank"><u>宣布合作</u></a>改进 PWA。<a href="https://zh.wikipedia.org/wiki/%E6%B8%90%E8%BF%9B%E5%BC%8F%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F"><u>PWA</u></a> 代表 Progressive Web Apps，是一种普通网页或网站架构起来的 Web App。微软开源开发工具 <a href="https://pwabuilder.com" class="ep fn ib ic id ie" target="_blank" rel="noopener nofollow">PWABuilder</a> 和 Google 生成  Google Play Store 签名包的命令行工具 <a href="https://pwabuilder.com" class="ep fn ib ic id ie" target="_blank" rel="noopener nofollow">PWABuilder.com</a> 将合作帮助开发者在 Google Play Store 发布 PWA。微软称，通过 PWABuilder 构建的 PWA 将支持 Web 快捷键标准，将可以为 Android 平台进行各种自定义。
+➜新电池比锂离子电池便宜 90%
+https://www.solidot.org/story?sid=64914	48114
+自 30 年前商业化以来，锂离子电池取得了很大进展。今天的锂离子电池比十年前续航力更持久，容量更大，成本降低了 85%，它是智能手机革命的驱动力。但安全仍然是锂离子电池的一大问题，它会导致发热起火。全聚合物电池发明家 Hideaki Horie 称，从物理学角度看，锂离子电池是人类创造的最伟大的加热器。他发明的新电池<a href="https://www.bloomberg.com/news/articles/2020-07-08/nissan-pioneer-touts-resin-battery-that-s-90-cheaper-to-make" target="_blank"><u>试图让电池的制造和钢铁的生产类似</u></a>。他的发明用一种树脂结构取代了锂离子电池使用的金属衬里电极和液体电解质。这种电池使用双极设计防止浪涌导致的发热情况。但新的电池不是没有缺点，聚合物的导电性不如金属，这将影响其携带的电容量。
+➜中国供应商 C-Data 的光纤到户设备发现后门账号
+https://www.solidot.org/story?sid=64915	50151
+安全研究人员在中国供应商<a href="https://cdatatec.com.cn/" target="_blank"><u>西迪特（C-Data）</u></a>的 29 种光纤到户设备中<a href="https://www.zdnet.com/article/backdoor-accounts-discovered-in-29-ftth-devices-from-chinese-vendor-c-data/" target="_blank"><u>发现了后门账号</u></a>。安全研究员 Pierre Kim 和 Alexandre Torres 在西迪特的 FTTH OLT 设备固件中<a href="https://pierrekim.github.io/blog/2020-07-07-cdata-olt-0day-vulnerabilities.html" target="_blank"><u>发现了 7 个漏洞</u></a>，其中最严重的是硬编码的 Telnet 后门账号。这些账号允许攻击者连接设备，为攻击者提供完整的管理员命令行访问权限。不同型号的设备有着不同的后门账号，其中包括 suma123/panger123、debug/debug124、root/root126 和 guest/[empty]。研究人员没有通知西迪特就公开了这项发现，他们认为部分后门是供应商有意加入的。
+➜宇航员是否可能访问木星？
+https://www.solidot.org/story?sid=64917	51957
+访问太阳系最大的气态巨行星<a href="https://www.technologyreview.com/2020/07/08/1004887/will-astronauts-visit-gas-giants-atmosphere-jupiter-saturn"><u>是十分危险的</u></a>。木星没有岩石表面，其气体主要由氦和氢构成，越往深处密度越大压力也越大温度也越来越高。1995 年，NASA 的伽利略号向木星发射了探测器对其大气层进行探测，它在进入木星大气层 75 英里处损坏。此处的压力比地球任何地方高 100 倍。在木星内部 13000 英里处，其压力是地球海平面压力的 200 万倍，温度比太阳表面还要高。进入木星深处不可能，那么简单围绕木星飞行是否可能？比如建立一个木星空间站？访问木星面临的另一大问题是辐射。木星有着太阳系最强的磁球层。这次磁场会让邻近的粒子带电，并加速到极高的速度，能瞬间将飞船的电子设备烤焦。NASA 的木星探测器 <a href="https://zh.wikipedia.org/wiki/%E6%9C%B1%E8%AF%BA%E5%8F%B7#%E6%93%8D%E4%BD%9C%E9%83%A8%E4%BB%B6"><u>Juno 号</u></a>利用了三组旋转的太阳电池板阵列减少暴露在辐射下。载人飞船需要与木星保持相当远的距离才会比较安全。
+➜亚马逊禁止然后又解禁使用 TikTok
+https://www.solidot.org/story?sid=64918	52150
+在数小时内，电商巨头亚马逊先是宣布禁止雇员在其手机上使用 TikTok，<a href="https://uk.reuters.com/article/us-tiktok-amazon-security-idUKKBN24B2LT" target="_blank"><u>然后又撤销了禁令</u></a>，表示是失误。目前不清楚是什么导致亚马逊发出了禁令。知情人士称，亚马逊高管对要求从雇员设备上卸载 TikTok 一事不知情。在 TikTok 和亚马逊代表讨论此事之后，禁令撤销了。TikTok 因母公司北京字节跳动的中国背景而引发了安全方面的担忧，富国银行本周早些时候通知雇员立即从其手机上卸载 TikTok。TikTok 声明它的用户数据储存在美国，备份储存在新加坡。知情人士称，TikTok 的用户数据主要储存在 Google Cloud 位于弗吉尼亚州的数据中心。

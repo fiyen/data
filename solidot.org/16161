@@ -1,0 +1,238 @@
+➜Suricata 2.0: 审计下载文件
+https://www.solidot.org/story?sid=38956	8292
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 <i>"Suricata是一个高性能的开源IDS/IPS项目，<a target="_blank" href="http://opensource.solidot.org/article.pl?sid=10/07/22/068207">Suricata 1.0的发布</a>到现在已经有一段时间了，BRO和最近的Suricata版本都可以实现<a target="_blank" href="https://redmine.openinfosecfoundation.org/projects/suricata/wiki/File_Extraction">保存HTTP流量中的指定后缀或者特定格式的文件</a>，比如jpg, pdf, exe等。这个特性对希望抓去恶意软件样本的黑客( 或安全研究人员)会有兴趣，还是按照老规矩，在最简易的Debian中来测试一下。<br>
+下载一个<a target="_blank" href="http://www.debian.org/distrib/netinst.en.html">最小版本的Debian镜像</a>，在虚拟机( vmware/virtualbox)中进行安装，模拟2块网卡: eth0, eth1。eth0使用NAT模式用于与host通信，eth1使用bridge模式不需要分配IP地址用于抓包。安装完成Debian后，安装一些依赖的包：
+</i></p>
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p>#apt-get install vim openssh-server
+ethtool libpcap-dev libnfnetlink-dev libnetfilter-queue-dev libdnet-dev
+libdumbnet-dev libpcre3-dev libpcre3-dbg bison flex make zlib1g-dev
+autoconf libtool libnss3-dev libnspr4-dev libjansson4 libjansson-dev
+libyaml-dev libcap-ng0 libcap-ng-dev libnet1-dev libmagic-dev
+build-essential
+</p>
+<p>
+</p>
+<p>
+</p>
+<p>获取Suricata的源代码:
+</p>
+<p>#cd /tmp
+</p>
+<p>#wget wget http://www.openinfosecfoundation.org/download/suricata-2.0.tar.gz
+</p>
+<p>#tar zxvf suricata-2.0.tar.gz
+</p>
+<p>#cd suricata-2.0
+</p>
+<p>编译与安装:
+</p>
+<p>#./configure --enable-nfqueue --enable-gccprotect --prefix=/usr/local/suricata --localstatedir=/var
+</p>
+<p>#make -j3
+</p>
+<p>#make make-full
+</p>
+<p>
+</p>
+<p>
+编辑配置文件suricata.yaml:
+</p>
+<p>1, 设置以下2项大一点:</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp; request-body-limit: 1gb #3072
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; response-body-limit: 1gb #3072
+</p>
+<p>
+</p>
+<p>2, 启动文件保存功能:
+&nbsp;
+</p>
+<p>- file-store:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; enabled: yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; # set to yes to enable
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; log-dir: files&nbsp;&nbsp;&nbsp; # directory to store the files
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; force-magic: no&nbsp;&nbsp; # force logging magic on all stored files</p>
+<p>&nbsp;&nbsp; force-md5: no&nbsp;&nbsp;&nbsp;&nbsp; # force logging of md5 checksums</p>
+<p>&nbsp;&nbsp; waldo: file.waldo # waldo file to store the file_id across runs</p>
+<p>&nbsp; # output module to log files tracked in a easily parsable json format</p>
+<p>- file-log:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; enabled: yes
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; filename: files-json.log
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>&nbsp;&nbsp; append: yes&nbsp;&nbsp;&nbsp; #filetype: regular # 'regular', 'unix_stream' or 'unix_dgram'&nbsp;</p>
+<p>
+</p>
+<p>3, 增加我们的测试文件( test.rules)到"default-rule-path:", 像下面这样:</p>
+<p>
+default-rule-path: /usr/local/suricata/etc/suricata/rules</p>
+<p>
+rule-files:
+&nbsp;- test.rules
+&nbsp;- botcc.rules</p>
+<p>
+</p>
+<p>创建测试规则文件:</p>
+<p>
+/usr/local/suricata/etc/suricata/rules/test.rules</p>
+<p>
+加一行测试规则到test.rules，这行规则会保存jpg文件 :</p>
+<p>
+alert http any any -&gt; any any (msg:"FILESTORE jpg"; fileext:"jpg"; filestore; sid:6; rev:1;)</p>
+<p>
+</p>
+<p>启动eth1:
+</p>
+<p>#ifconfig eth1 up
+</p>
+<p>
+</p>
+<p>根据Suricata社区的wiki，我们必须关闭TCP GSO:</p>
+<p>
+ethtool -K eth1 tso off
+</p>
+<p>ethtool -K eth1 gro off
+</p>
+<p>ethtool -K eth1 lro off
+</p>
+<p>ethtool -K eth1 gso off
+</p>
+<p>ethtool -K eth1 rx off
+</p>
+<p>ethtool -K eth1 tx off
+</p>
+<p>ethtool -K eth1 sg off
+</p>
+<p>ethtool -K eth1 rxvlan off
+</p>
+<p>ethtool -K eth1 txvlan off
+</p>
+<p>ethtool -N eth1 rx-flow-hash udp4 sdfn
+</p>
+<p>ethtool -N eth1 rx-flow-hash udp6 sdfn</p>
+<p>
+ethtool -n eth1 rx-flow-hash udp6
+</p>
+<p>ethtool -n eth1 rx-flow-hash udp4
+</p>
+<p>ethtool -C eth1 rx-usecs 1000
+</p>
+<p>ethtool -C eth1 adaptive-rx off</p>
+<p>
+</p>
+<p>现在可以运行Suricata:
+/usr/local/suricata/bin/suricata -c /usr/local/suricata/etc/suricata//suricata.yaml -i eth1
+</p>
+<p>在HOST系统上使用Firefox/Chrome访问一些网站，比如这些<a target="_blank" href="http://image.baidu.com/i?ct=503316480&amp;tn=baiduimagedetail&amp;statnum=girl&amp;ipn=d&amp;cg=girl&amp;word=%E7%BE%8E%E5%A5%B3%20%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%20%E6%80%A7%E6%84%9F%20&amp;ie=utf-8&amp;in=3354&amp;cl=2&amp;lm=-1&amp;st=&amp;pn=6&amp;rn=1&amp;di=&amp;ln=1998&amp;&amp;fmq=1378374347070_R&amp;ic=&amp;s=&amp;se=&amp;sme=0&amp;tab=&amp;face=&amp;&amp;is=0,1505379&amp;istype=&amp;ist=&amp;jit=&amp;objurl=http%3A%2F%2Fimage.tianjimedia.com%2FuploadImages%2F2011%2F360%2F6955G4EI49W6.jpg#pn6&amp;0&amp;di&amp;objURLhttp%3A%2F%2Fimage.tianjimedia.com%2FuploadImages%2F2011%2F360%2F6955G4EI49W6.jpg&amp;fromURLhttp%3A%2F%2Fpic.yesky.com%2F77%2F30963577_3.shtml&amp;W850&amp;H566&amp;T&amp;S&amp;TP0">链接</a>。之后你应该能在/var/log/suricata/files文件夹下面看到美女图片了。感谢Suricata社区的黑客们为自由软件社区所作的贡献。"</p>
+➜论开源软件的易用性
+https://www.solidot.org/story?sid=38957	8698
+<a href="mailto:wxy@linux.cn">linux</a> 写道 "<i> <a target="_blank" href="http://opensource-usability.blogspot.com/">Jim Hall</a>在 Linux Journal 网站上发表了一篇精彩的<a href="http://www.linuxjournal.com/content/its-about-user-applying-usability-open-source-software">文章</a>（<a href="http://www.linuxjournal.com/content/its-about-user-applying-usability-open-source-software" target="_blank">英文</a>，<a href="http://linux.cn/article-2783-1.html" target="_blank">译文</a>），是关于开源软件的“易用性”的。在开源项目中，软件的“友好性”往往被敷衍处理，甚至会被完全忽略。另一方面，人们经常将“易用性”与“美观”混为一谈，他们认为软件“易于使用”就是要软件设计得漂亮。开源项目软件的“易用性”经常被开发者忽略，这可以理解，毕竟开发者肯定知道如何使用他们自己的软件，并且对开发的软件的工作环境也了如指掌。开源软件能很好地满足开发者自身的需求，但如果想让你的软件被更多人使用，你就需要在“易用性”方面下大功夫。如果你没有参与过开源社区，这是一个很好的起点。“易用性”不好，就是一个 bug，与软件其它 bug 一样，都需要解决。一个软件如果不能按用户的思路来处理用户的问题，这就是一个 bug。如果你是一个开发者，帮自己一个忙，坐在一个资深的软件使用者旁边，让他用用你的软件。不要指点，不要提醒，不要告诉他需要按什么按键，就让他自己把玩，自己发现软件的用处（就让他往死里吐槽）。也许你能对你的软件有更深一层的了解。如果你觉得了解自己的软件，试试让其他人玩玩吧。"</i>
+➜宇航员的心脏在太空中会变形
+https://www.solidot.org/story?sid=38958	11571
+进入太空的宇航员不仅仅会受到骨骼密度和肌肉质量损失以及视力下降的影响，一项新研究发现他们的心脏也面临风险：宇航员的心脏形状在太空中<a target="_blank" href="http://www.redorbit.com/news/space/1113107913/astronauts-experience-spherical-hearts-spaceflight-033114/"><u>会变成球形</u></a>。研究人员利用安装在国际空间站的超声波机器获取了宇航员的心脏图像，有12名宇航员参与了他们的研究，这些宇航员在执行太空任务前、中间和返回地球后向研究人员提供了心脏形状的数据。研究人员认为，心脏形状的变化是临时性的，表明心脏在零重力环境中的执行效率略低。
+➜国际法庭裁定日本捕鲸不是“为了科学”
+https://www.solidot.org/story?sid=38959	12455
+国际法庭<a target="_blank" href="http://www.icj-cij.org/docket/files/148/18162.pdf"><u>作出裁决</u></a>（PDF），没有证据表明日本的捕鲸活动与科学有关，要求日本撤销所有和JARPA II（研究项目）相关的捕鲸授权、许可，避免发放新的许可。国际捕鲸委员会在1986年颁布了捕鲸禁令，不过挪威和冰岛目前仍然有商业捕鲸项目。而日本坚称其项目是科研性质的，不过同时也承认项目中的鲸肉在日本上了餐桌。东京被指利用1986年商业捕鲸禁令中允许收集科研数据的法律漏洞。保守团体对裁决表示满意，而日本称尽管深感失望，<a target="_blank" href="http://www.dw.de/%E5%9B%BD%E9%99%85%E6%B3%95%E5%BA%AD%E8%A3%81%E5%AE%9A%E6%97%A5%E6%9C%AC%E9%A1%BB%E5%81%9C%E6%AD%A2%E5%8D%97%E6%9E%81%E6%8D%95%E9%B2%B8/a-17533003"><u>但会尊重裁决</u></a>。日本首席谈判代表浩二鹤冈称，“作为一个尊重法律的国家 ……和国际社会负责任的一员，日本将执行法院的裁决。”2010年起诉日本捕鲸活动的澳大利亚称，日本自1988年来宰杀了超过一万只鲸鱼，破坏了国际公约及其保护环境和海洋哺乳动物的义务。
+➜黑武士竞选乌克兰总统
+https://www.solidot.org/story?sid=38960	15127
+当乌克兰努力避开黑暗力量的时候，星球大战的黑武士准备恢复这个受压迫国家的荣耀。乌克兰人网络党（Ukrainian Internet part）的候选人达斯·维德正式宣布<a target="_blank" href="http://www.theguardian.com/world/2014/mar/31/ukraine-darth-vader-president-internet-party"><u>竞选总统</u></a>。网络党领袖Dmitry Golubov说，维德同志在党内初选中取得了压倒性的胜利，他将成为我们党的候选人。Golubov曾因为信用卡欺诈而被判入狱。身穿黑披风黑盔甲和黑面具的达斯·维德在冲锋队员的陪同下参加过多次政治活动。网络党表示他们已经支付了250万格里夫纳的总统竞选登记费用。乌克兰将在5月25日举行总统大选。
+➜Google Maps加入口袋怪物挑战
+https://www.solidot.org/story?sid=38961	17307
+Google<a target="_blank" href="http://googlejapan.blogspot.co.uk/2014/04/blog-post.html"><u>更新</u></a>了<a target="_blank" href="https://www.google.com/maps/"><u>Google Maps</u></a>，在一些著名的<a target="_blank" href="http://pokemonaprilfools.wikia.com/wiki/Sorted_by_Pokedex_No"><u>旅游景点</u></a>（作弊）加入了口袋怪物，玩家可以在地图上寻找这些怪物然后抓住它们，抓住的怪物越多，你将能获得“口袋怪物大师”的头衔。参加这个挑战赛，玩家需用通过手机或平板启动地图应用，缩放不同的知名地标寻找怪物。不清楚拥有口袋怪物版权的任天堂是否授权Google使用它的著名游戏角色。<br>
+➜IE6降至4%，XP仍然高居28%
+https://www.solidot.org/story?sid=38962	24143
+<div align="center"><img src="http://img.solidot.com.cn/0/147/lip4jn7zLvhWk.jpg" align="" height="269" width="480"><br>
+<br>
+</div>
+微软将在本月8日终止对Windows XP的支持，但Net Market Share三月份的数据显示，XP仍然高居27.69%的操作系统市场份额；XP预装的IE6浏览器，其浏览器市场份额还有4%，而根据微软的<a target="_blank" href="http://www.modern.ie/en-us/ie6countdown"><u>数据</u></a>，中国是第一大IE6市场，市场份额22.2%，IE 6在中国的流行应该与盗版XP的流行相关。在<a target="_blank" href="http://netmarketshare.com/operating-system-market-share.aspx?qprid=10&amp;qpcustomd=0"><u>操作系统市场</u></a>，XP占27.69%，比前一个月减少了约2个百分点，继续高居第二位，Windows 7占48.77%，比前一个月增加1.46%，显示大部分XP用户升级到了Windows 7，Windows 8占6.41%，略增0.03%，Win 8.1占4.89%，增长0.59%，OSX 10.9占3.75%，Vista占2.99%。在<a target="_blank" href="http://netmarketshare.com/browser-market-share.aspx?qprid=2&amp;qpcustomd=0"><u>浏览器市场</u></a>，Chrome超过Firefox成为第二大浏览器，IE 占57.96%，Chrome占17.52%（+0.68%），Firefox占17.26%（-0.42%），Safari 5.68%，Opera 1.20%。根据浏览器版本的统计，IE8占有率最高21.14%（-0.59%），其次是IE 11占15.71%（+2.91%），Chrome 33 12.67%，Firefox 27 10.55%，IE9 8.76%，IE10 7.12%，IE6 4.15%。
+➜新疆禁止传播暴力恐怖音频视频
+https://www.solidot.org/story?sid=38963	24505
+新疆高级法院、检察院、公安厅、文化厅和工商行政管理局联合发布了《<a target="_blank" href="http://www.xjcourt.org/public/detail.php?id=10760"><u>关于严禁传播暴力恐怖音视频的通告</u></a>》。所谓的暴力恐怖音频视频是指包含<span class="detail_content">宣扬暴力恐怖、宗教极端、民族分裂等内容的音视频。通知</span><span class="detail_content">严禁利用手机、电脑、移动存储介质、播放器及其他电子产品制作、发送、播放、复制、传播、存储暴力恐怖音视频；</span><span class="detail_content">严禁利用互联网网站、微博、语音聊天室、网盘以及QQ、微信等浏览、下载、存储、复制、转发、发布、上传暴力恐怖音视频以及相关网址链接。</span><span class="detail_content">凡持有、存储暴力恐怖音视频的，在通告发布后，必须立即自行删除、销毁，个人无法删除、销毁的，必须在一个月内将含有暴力恐怖内容的物品上交当地公安机关或基层组织。如果违反规定，将</span><span class="detail_content">对当事人予以罚款、拘留处罚；情节严重的，依据刑法有关规定，追究当事人刑事责任。
+</span>
+➜荷兰使用3D打印颅骨替代人体颅骨手术获得成功
+https://www.solidot.org/story?sid=38964	26198
+<a href="http://www.laodiewang.com">老爹网</a> 写道<i> "英国《独立报》<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/3d-printed-skull-replacement-implanted-for-the-first-time-ever-9218341.html" target="_blank" data-original-title="" title="">报道</a>，荷兰乌特勒支大学的医学实验室中，一个由3D打印的塑料头骨，经过23小时的手术被放进一位22岁荷兰女性病人的头部替代其颅骨。手术前，这位患者可能患有进行性骨干发育不全（<a href="http://en.wikipedia.org/wiki/Camurati%E2%80%93Engelmann_disease">Camurati-Engelmann</a>），造成其颅骨异常增厚，从正常的1.5厘米增加到5厘米。手术耗时23小时，主刀医生是来自乌得勒支大学医学中心的博恩·费尔韦。此前曾有过用3D打印的替代品更换颅骨碎片的手术，但如此大面积的颅骨移植—几乎植入整个头盖骨—尚属首次。医院等了三个月，在检查确定病人完全恢复之后才公布这次手术成功的消息。费尔韦医生说：“这位女士的视力业已恢复，她已经重返工作岗位，几乎看不出她曾经动过手术。”"</i>
+➜通用再次召回百万汽车，工程师如何发现汽车缺陷
+https://www.solidot.org/story?sid=38965	27733
+通用汽车周一<a target="_blank" href="http://cn.reuters.com/article/CNIntlBizNews/idCNCNEA3005120140401"><u>宣布</u></a>，由于电动转向系统存在隐患，将召回130多万辆汽车。通用表示，这一隐患“可能增加撞车的危险”。通用今年以来累计召回的汽车数量达到了626万辆。它召回的大部分车型都与点火开关问题有关，一位受雇于受害人家庭的工程师发现了通用汽车的缺陷。Brooke Melton驾驶2005年款Chevy Cobalt汽车时因为引擎突然关闭而发生致命车祸，工程师Mark Hood受其家人委托调查事故原因。他拆解了点火开关，利用X光拍摄了照片，但没有发现疑点，直到一天他从当地的通用汽车经销商购买了30美元的替换零件才揭开了<a target="_blank" href="http://www.nytimes.com/2014/03/29/business/a-florida-engineer-unlocked-the-mystery-of-gms-ignition-flaw.html"><u>通用知道了10年导致13人死亡的秘密</u></a>：替换点火开关的标识符与旧的开关相同，但开关中的一个小金属柱塞更长，因此开关弹簧压缩的更紧密，需要更大的力才能点火和关闭。通用CEO Mary Barra将就此事到国会<a target="_blank" href="http://energycommerce.house.gov/icymi/rep-upton-why-didnt-rules-catch-gm-problem"><u>作证</u></a>。
+➜数字录像机被用于发动攻击和挖矿
+https://www.solidot.org/story?sid=38966	29804
+安全研究人员<a target="_blank" href="https://isc.sans.edu/forums/diary/More+Device+Malware+This+is+why+your+DVR+attacked+my+Synology+Disk+Station+and+now+with+Bitcoin+Miner+/17879"><u>发现</u></a>，海康威视(Hikvision)的数字录像机扫描了他们设立的蜜罐，这些数字录像机原本是用于储存安全探头的视频，但由于弱密码（12345）而被感染了病毒，变成了僵尸网络的一部分，被用于扫描存在漏洞的台湾群晖磁盘站（Synology Disk Stations）。此外，数字录像机还被安装了比特币挖矿程序。值得注意的是，录像机感染的病毒是ARM二进制程序，显然病毒是专门针对ARM设备而不是x86 Linux服务器。<br>
+➜约会网站因Mozilla CEO反对同性恋权利屏蔽Firefox
+https://www.solidot.org/story?sid=38967	31259
+<div align="center"><img src="http://img.solidot.com.cn/0/148/linOzTOonfPNo.jpg" align="" height="364" width="480"><br>
+<br>
+</div>
+如果你现在使用Mozilla Firefox浏览器访问知名约会网站<a target="_blank" href="https://www.okcupid.com/"><u>OKCupid</u></a>，你会看到一则声明，称因为Mozilla新CEO Brendan Eich反对加州同性恋婚姻，他们希望用户不要使用Mozilla的软件访问OKCupid。声明末尾提供了三个Firefox替代下载链接，其中包括Chrome，IE和Opera。<a target="_blank" href="http://www.bbc.com/news/technology-26830383"><u>Mozilla表示</u></a>，OKCupid没有就此事联系他们，称Mozilla支持平权，其中包括同性恋者的结婚权利。
+➜DNFWAH第三期发布
+https://www.solidot.org/story?sid=38968	34591
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "电子杂志DNFWAH是一群来自不同领域的黑客们的简单分享，距离<a target="_blank" href="http://linux.solidot.org/article.pl?sid=11/12/31/0025227">上一期发布</a>已经有一段时间了，今天正式<a target="_blank" href="https://github.com/citypw/DNFWAH/tree/master/3">发布了DNFWAH Issue 3</a>，我们的确还没有死掉，我们相信有一天DNFWAH会死的，就跟昨天的enemy变成了今天的bitch，昨天的old school成为了今天的new school一样， 但至少不是现在，这一期没有非计算机领域的黑客来投稿，看来我们得继续游荡在cyberworld里一段时间了，以下是这一期的内容：
+<p></p>
+<!--more-->
+<p></p>
+<p>
+</p>
+<p>├── d3_0x00_Introduction.txt
+</p>
+<p>├── d3_0x01_hacking_on_hw_filter.txt
+</p>
+<p>├── d3_0x02_CVE-2013-1858_exploit_analysis.txt
+</p>
+<p>├── d3_0x03_security_shit_in_qa-work.txt
+</p>
+<p>├── d3_0x04_DNFWAH_World_News.txt
+</p>
+<p>├── d3_0x05_critique_of_local_open_source_conf.txt
+</p>
+<p>├── d3_0x06_hacker_nsa_free-software.txt
+</p>
+<p>├── d3_0x07_intro_secret_sharing.txt
+</p>
+<p>└── d3_0x08_intro_to_big_data.txt"</p>
+➜MariaDB 10发布，支持NoSQL
+https://www.solidot.org/story?sid=38969	35335
+MySQL分支MariaDB发布了<a target="_blank" href="https://blog.mariadb.org/the-mariadb-foundation-announces-general-availability-of-mariadb-10/"><u>v10版</u></a>，开发者与Google、Fusion-IO和淘宝等公司合作改进了数据库性能，声称速度比上一个版本的MariaDB以及MySQL快了许多倍。MariaDB 10支持从多个主服务器复制数据，支持并行复制和组提交，支持NoSQL，支持数据库分片，允许将一个大数据表分割到多台服务器，更多可浏览官方博客。
+➜中国公司为Wine ARM实现申请专利并获批准
+https://www.solidot.org/story?sid=38970	37546
+匿名读者 写道 "<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTY0ODI">Phoronix报导</a>，在 <a href="https://linuxtoy.org/archives/wine-134.html">Wine 项目于 1.3.4 版本实现 ARM 平台支持</a>后的 8 个月，浙大网新科技股份有限公司的五个人宣称“发明了在 ARM 处理器上实现 Wine 构建工具移植的方法”并为此申请了专利，更可笑的是，这条专利获得批准并于今年 1 月公开。<i>
+别以为 <a href="http://en.wikipedia.org/wiki/COS_%28operating_system%29">COS 操作系统</a>已经让你看到了中国 IT 圈的下限，你总会被它会震惊的。来自浙大网新科技股份有限公司的毛德操、王承志、徐鼎鼎、陈天洲、马建良在 2011 年 6 月<a href="http://www.google.com/patents/CN102364433B?cl=zh">申请专利</a>，宣称自己的发明首度提供了在 ARM 处理器上实现 Wine 构建工具移植的方法。实际上这个方法其实是 WineHQ 项目来自德国的主要贡献者  André Hentschel 于 2010 年 10 月就已实现并随着 <a href="https://linuxtoy.org/archives/wine-134.html">Wine 1.3.4 版本发布</a>并开发源代码的。此外根据代码仓库记录，这五位中国人未给 Wine 项目做出任何贡献。
+<br>
+大致浏览了下专利说明文档，浙大网新五人所作的事情仅仅是1）下载老版本 Wine 源代码并按照 ARM 构建的要求修改了交叉编译配置文件；2）针对 ARM 处理器重写了一些接口方法。而这两点都是 André Hentschel 已经在 1.3.4 版本中做过的事情。客气点儿说是他们会看文档，实际点儿说是纯抄。接下来，毫不意外的，这项专利在国内获得批准，并于今年 1 月份正式公开。这意味着在国内交叉构建 ARM 版 Wine 的行为都有可能涉嫌侵犯此项专利！
+</i>
+<p></p>
+<p></p>
+<!--more-->
+<p></p>
+<br>4 月 1 日在西方是愚人节，一个充满玩笑和欢乐的日子。现在玩笑有了，只是一点儿都不欢乐了……<br>
+<p><br>
+</p>
+<p>在此希望能引起 CodeWeavers 在华员工和诸多开源爱好者的关注，最好能有所行动。扫除败类，才能有发展空间。"</p>
+➜当克隆比原创还要成功
+https://www.solidot.org/story?sid=38971	37936
+解谜游戏2048最近非常火热，在Google Play市场搜索2048，排在前两位的游戏下载量都超过100万。它们都是克隆游戏。2048是克隆自1024，而1024则是克隆自一款iOS游戏Threes。Threes的开发者花了一年多时间<a target="_blank" href="http://asherv.com/threes/threemails/"><u>开发出这款游戏</u></a>，克隆者在游戏发布后21天发布了1024，接着是10天后的2048，2048立即<a target="_blank" href="http://kotaku.com/2048s-massive-popularity-triggers-cloning-controversy-1555599216"><u>演变成为一种流行文化现象</u></a>，并催生了更多的克隆，因为2048是开源且免费的，而Threes售价2美元。2048的成功让Threes作者之一的Asher Vollmer感到沮丧，他说，就好象没有免费而错过了成为全球文化一部分的机会。2048的作者Gabriele Cirulli表示同情，为2048的流行伤害了游戏Threes而表示歉意，他并没有想要伤害某个人的工作，2048的流行是完全出人意料的。他说，2048就好象是中了彩票，有人发现了它，喜欢上了它。
+➜宝马i8系列率先配备激光车灯
+https://www.solidot.org/story?sid=38972	40722
+<div align="center"><img src="http://img.solidot.com.cn/0/149/liWrPTPhqhRs.jpg" align="" height="240" width="480"><br>
+<br>
+</div>
+宝马开始为i8系列<a target="_blank" href="http://wfae.org/post/automakers-eye-laser-lights-let-drivers-see-farther-night"><u>生产激光车灯</u></a>，激光车灯将作为一个可选功能提供给i8混合动力汽车的客户。激光车灯的能效比更高，照射距离更远。车灯并不是真的射出一束束激光，宝马介绍称，一束激光照射在车灯内的荧光物质上，创造出极其明亮的白光，其明亮度是传统光源的10倍，能效比LED高出30%。宝马车灯前期开发的负责人Thomas Hausmann说，让司机在晚上看得更远将使得驾驶更安全。但更明亮的车灯对于对面驶来的车辆，或者是穿越马路的动物并不是好事，Hausmann指出车灯将由一个摄像头控制，如果发现有车辆驶来，灯将会旋转变暗，不会使对面司机的视野受阻。汽车还配备了红外系统警告司机或穿越马路的行人。
+➜研究称减肥手术有可能治愈2型糖尿病
+https://www.solidot.org/story?sid=38973	41451
+研究人员称，很多接受减肥手术的2型糖尿病患者<a target="_blank" href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCNEA300B720140401"><u>在手术三年后血糖浓度回到了健康水平</u></a>，不再需要胰岛素等糖尿病药物。研究人员还发现，手术也有助于病人降低对高血压和胆固醇药物的需求，和接受非手术减肥治疗的人相比，生活质量有所提升。研究涉及150位肥胖病人，他们患有的2型糖尿病在至少八年里未能得到良好控制。研究比较的是接受减肥手术的人和接受非手术减肥治疗的人。所有的病人都已经至少服用了三种糖尿病药物和至少三种心脏病药物。结果表示，37.5%接受过胃绕道减肥手术和四分之一接受过袖状胃切除手术的患者血糖水平降到了美国糖尿病协会设定的目标以下，大多数人不再需要糖尿病药物。而接受非手术减肥治疗的病人中，只有5%的患者血糖水平降到了6%及以下。
+➜NSA对RSA的渗透比以前认为的更深入
+https://www.solidot.org/story?sid=38974	43924
+路透社<a target="_blank" href="http://www.reuters.com/article/2014/03/31/us-usa-security-nsa-rsa-idUSBREA2U0TY20140331"><u>独家报道</u></a>，NSA对RSA的渗透比以前认为的更深入，它不是在RSA的加密产品嵌入了一个存在后门的伪随机生成器而是两个。除了众所周知的Dual EC_DRBG双椭圆曲线确定性随机比特生成器外，还有一个是Extended Random。在理论上，Extended Random作为第二个随机性来源，可以使得加密密钥更安全。但约翰霍普金斯大学的加密学专家Matt Green教授等人在一篇即将发布的<a target="_blank" href="http://www.dualec.org/"><u>研究报告</u></a>中指出，在Extended Random的帮助下，攻击者破解RSA双椭圆曲线加密软件密码的速度将能加快数万倍。NSA在Extended Random协议的开发上扮演着重要角色，协议作者之一的Margaret Salter当时是NSA的一位技术总监，目前在Mozilla工作，她和Mozilla 都拒绝发表评论。Extended Random最早被宣传能增强双椭圆曲线算法所生成随机数的随机性。Green教授说，使用Dual EC_DRBG就像是玩火，而使用Extended Random就像往自己身上浇汽油。

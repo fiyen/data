@@ -1,0 +1,13 @@
+➜Subgraph OS:安全和隐私保护的GNU/Linux发行版
+https://www.solidot.org/story?sid=47298	39647
+<a href="http://hardenedlinux.org/">Shawn the R0ck</a> 写道 "<i>
+Snowden大爷在2013年曝光“棱镜”以来，越来越多的类UNIX用户更关注安全和隐私的议题，GNU/Linux世界出现了像<a target="_blank" href="http://www.solidot.org/story?sid=39541">Debian Mempo</a>和<a target="_blank" href="http://www.solidot.org/story?sid=44212">OpenSUSE gardened</a>的项目，而BSD阵营则出现了一个针对安全加固的FreeBSD fork：<a target="_blank" href="http://www.solidot.org/story?sid=43947">HardenedBSD</a>。但自由软件社区的黑客们并没有停止尝试，一家热衷于自由软件的名叫<a target="_blank" href="https://subgraph.com/about-us/index.en.html">Subgraph的公司</a>致力于打造一款针对GNU/Linux桌面用户的安全加固和隐私保护的GNU/Linux发行版，到2015年12月底，该系统经过了数月的压力测试和安全测试后能正常运行，在2016年2月初正式<a target="_blank" href="https://support.subgraph.com/private/sgos/pre-alpha/chibbed975/">发布了可下载的ISO</a>，<a target="_blank" href="https://support.subgraph.com/private/sgos/pre-alpha/">目前版本</a>的Subgraph OS集成了很多安全特性包括：使用<a target="_blank" href="https://github.com/subgraph/oz">沙箱Oz</a>针对常见应用( 浏览器，邮件客户端，LibreOffice等）做了沙箱隔离，集成了Tor浏览器以及OpenPGP邮件加密，使用PaX/Grsecurity进行了内核加固，使用GNOME3桌面环境等。Subgraph在<a target="_blank" href="https://github.com/subgraph">github上开放了源代码</a>，Subgraph OS作为这个星球上第一款为GNU/Linux桌面安全而打造的GNU/Linux发行版受到了不少来自社区的好评，目前<a target="_blank" href="https://www.opentech.fund/about">开放技术基金</a>为Subgraph OS的持续开发给与了12个月的资金上的支持。</p>
+</i>
+<p>btw：Linux Mint用户的桌面加固可以参考<a target="_blank" href="http://hardenedlinux.org/system-security/2016/01/10/hardening-your-desktop-linux-mint-with-grsec.html">Hardenedlinux社区的一篇文章</a>。
+"</p>
+➜互联网档案馆公布科幻杂志If档案库
+https://www.solidot.org/story?sid=47299	40840
+1950-60年代是科幻小说的黄金时代，当时的人们对科技的发展和未来非常乐观，不像今天悲观的反乌托邦预言成为主流。在当时刊登科幻小说的杂志中，<a target="_blank" href="https://en.wikipedia.org/wiki/If_%28magazine%29"><u>If</u></a>曾经连续三年被评为雨果奖最佳科幻杂志。If创办于1952年，1974年与《Galaxy Science Fiction》合并，总共发行了22年175期杂志。它发表的著名作品包括了海因莱因的《严厉的月球（The Moon Is a Harsh Mistress）》， Harlan Ellison的《无声狂啸（I Have No Mouth and I Must Scream）》、Larry Niven的处女作《最冷的地方》。互联网档案馆前不久公开了<a target="_blank" href="https://archive.org/details/ifmagazine?&amp;sort=-date&amp;page=2"><u>If的全部档案库</u></a>，科幻爱好者可以免费阅读。
+➜绝大多数软件的现成后门：系统更新
+https://www.solidot.org/story?sid=47300	43158
+上周苹果拒绝要求它帮助FBI开发后门固件的法庭命令——iOS系统的更新可以在不要求输入密码的条件下自动完成，FBI因此想要苹果开发出能绕过安全保护机制的特别固件，降低暴力破解的难度。这件事指出了一个事实：系统更新是<a target="_blank" href="http://arstechnica.com/security/2016/02/most-software-already-has-a-golden-key-backdoor-its-called-auto-update/"><u>绝大多数软件现成的后门</u></a>。很多软件都内置更新机制，而这个机制在许多年里甚至不包含对更新验证真伪，它是加密的一个单点故障，这个点被攻破了整个系统的安全防御就彻底瓦解了。攻击者可以在客户端和更新服务器之间发动中间人攻击。苹果说FBI强迫它在从产品中创造后门——实际上它的真实含义是FBI强迫它使用后门。

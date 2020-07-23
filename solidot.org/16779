@@ -1,0 +1,51 @@
+➜Live Writer博客工具开源
+https://www.solidot.org/story?sid=46468	11174
+微软<a target="_blank" href="http://www.dotnetfoundation.org/blog/open-live-writer"><u>宣布</u></a>开源Windows Live Writer，开源的版本称之为Open Live Writer。该开源项目将由.NET基金会管理，<a target="_blank" href="https://github.com/OpenLiveWriter/OpenLiveWriter"><u>源码</u></a>托管在GtiHub上，采用MIT许可证。Live Writer曾是Live Essentials软件包的一部分，提供了字处理器风格的所见即所得编辑器，用它写的博客文章可以直接发表在多个不同博客平台。微软有很长时间没有更新Live Write，但它仍然有许多忠实用户。Open Live Writer将完全由社区负责开发。
+➜Google、D-Wave、及10^8倍加速案例
+https://www.solidot.org/story?sid=46469	14077
+对D-Wave及其量子计算机持批判态度的MIT理论计算机科学家Scott Aaronson发表文章<a target="_blank" href="http://www.scottaaronson.com/blog/?p=2555"><u>回应了最新的报道</u></a>。Google的研究人员在最新论文中称，D-Wave的机器在量子退火和量子蒙特卡罗算法测试中的速度是经典计算机的10^8倍。但取得这一成就是<a target="_blank" href="http://www.scottaaronson.com/troyer.pdf"><u>有限制条件的（PDF）</u></a>：<i>测试使用的问题实例设计对热退火算法困难但对量子退火容易，在特定实例问题下量子退火对模拟退火有巨大性能优势，但这并没有证明量子退火胜过经典优化方法。Google团队在论文中提到，在大多数问题实例中高效的经典算法胜过了D-Wave 2X机器。D-Wave 2X的性能测试结果并非是最终定论，经典退火算法还可以优化，能大幅降低量子退火的优势。</i>Scott Aaronson仍然对D-Wave的机器持怀疑态度。
+➜日本公布拂晓号发回的金星照片
+https://www.solidot.org/story?sid=46470	15877
+<div align="center"><img src="http://img.solidot.org/0/282/liY19PmDCxyIU.jpg" align=""><br>
+<br>
+</div>
+日本宇航研发机构（JAXA）<a target="_blank" href="http://global.jaxa.jp/press/2015/12/20151209_akatsuki.html"><u>宣布</u></a>探测器拂晓号成功进入金星轨道，同时公布了拂晓号发回的金星照片。拂晓号目前位于近距点400公里远距点44万公里的轨道上，环绕金星一周约13天14小时，它的服役已经超过设计寿命，因此可能存在<a target="_blank" href="http://cn.nikkei.com/industry/scienceatechnology/17336-20151210.html"><u>仪器老化问题</u></a>。探测器计划于2016年4月起正式启动对金星的探测。金星被称为地球的孪生姐妹，将其作为探测对象对于了解地球环境本身具有重要意义。虽然与地球在体积和质量上接近，但环境却存在明显差异。金星大气的上层存在被称为“超级气旋”(super-rotation)的每秒风速超过100米的暴风。大气的大部分为二氧化碳，由于温室效应，金星地表温度达到约460摄氏度。
+➜戴尔、联想和东芝官方软件让PC更容易受攻击
+https://www.solidot.org/story?sid=46471	17918
+OEM厂商在PC上预装的软件让攻击变得更容易。戴尔、联想和东芝公司的官方支持软件都被发现<a target="_blank" href="http://techreport.com/news/29410/dell-toshiba-and-lenovo-utilities-expose-pcs-to-more-attacks"><u>存在未修复的安全漏洞</u></a>。一位安全研究人员公开了漏洞，并发布了POC代码<a target="_blank" href="http://rol.im/oemdrop/"><u>OEMDrop</u></a>。联想公司的Lenovo Solution Center工具包含了最令人担心的漏洞：名叫 LSCTaskService的服务监听来自55555端口的HTTP请求，LSCTaskService的关联文件LSCController.dll包含了允许通过 HTTP GET和POST请求调用的方法，能在未保护的目录%APPDATA%\LSC\Local Store使用系统权限执行任意代码。更糟糕的是，Lenovo Solution Center包含了路径遍历bug，允许访问用户配置文件所在的同驱动器下的任意文件。LSCTaskService还容易受到跨站请求伪造攻击。对这些问题，联想<a target="_blank" href="https://support.lenovo.com/us/en/product_security/len_4326">推荐</a>客户移除Lenovo Solution Center。
+➜中国冰川持续消融
+https://www.solidot.org/story?sid=46472	19100
+全球气候变化预期将带来的一些极端效应<a target="_blank" href="http://cn.nytimes.com/china/20151210/c10glaciers/"><u>已在中国西部显现</u></a>。不仅是这里的冰川在退缩，在被称为“第三极”的喜马拉雅及其周边山脉上的各处冰川亦如此，威胁到亚洲的水源供应。在古丝绸之路上的河西走廊，依然有骆驼行进。这里原本气候干旱，但沿途的多座城镇村庄遭遇了突发的夏季暴雨带来的洪灾和泥石流。青藏高原上的永冻土层正逐渐消失，威胁到动植物的生存、居民的生计，乃至通往西藏拉萨的高海拔铁路这样的基础设施的安全。上周末，中国科学家发表了一份报告，称过去40年里，位于西藏和尼泊尔边境上的珠穆朗玛峰的冰川表面积减少了近30%。日渐消失的冰川引发了迫切的担忧，影响超出了藏区和中国的范畴。有人估计，“第三极”的4.6万座冰川帮助养活了10个国家的15亿人——融水会流向远方，达至地处热带的越南湄公河三角洲、缅甸东部的丘陵和孟加拉国南部的平原。这些冰川分布在约520万平方公里的范围内，正在以不断加快的速度退缩。从短期来看，这会导致河流湖泊水面上升，从长期来看会危及亚洲的供水。
+➜众筹游戏项目宣布延期两年半，因为没有程序员
+https://www.solidot.org/story?sid=46473	26184
+众筹平台Kickstarter发生过很多众筹成功但最终项目失败的案例，但<a target="_blank" href="https://www.kickstarter.com/projects/1300298569/project-phoenix-japans-indie-rpg-feat-aaa-talent/description"><u>Project Phoenix </u></a>项目上发生的混乱让这些失败的项目都要相形见绌：开发商在未能兑现承诺后宣布还需要延期两年半，因为没有主程序员。Project Phoenix 是一个日式角色扮演游戏项目（JRPG），日本东京的CIA公司在2013年发起众筹，目标是10万美元，最终在Kickstarter上筹集到1,014,600美元，众筹结束后开发商仍然通过PayPal 等支付方式继续筹款，<a target="_blank" href="http://projectphoenix.info/"><u>官网</u></a>上显示的数据是目前筹到1,143,928美元。游戏计划在今年初交付，开发商在最新的<a target="_blank" href="https://www.kickstarter.com/projects/1300298569/project-phoenix-japans-indie-rpg-feat-aaa-talent/posts/1437738"><u>声明</u></a>中请求支持者给他们更多时间，因为他们还在找一名全职程序员，称以前的主程是兼职。根据目前的进度他们计划在2018年初完成开发，然后还需要6个月时间测试，声明不会考虑退款。支持者对此<a target="_blank" href="https://www.kickstarter.com/projects/1300298569/project-phoenix-japans-indie-rpg-feat-aaa-talent/comments"><u>非常愤怒</u></a>，一位资助了5K美元的支持者说他永远不会再支持游戏项目。
+➜《Modern Perl》第4版发布，电子版免费
+https://www.solidot.org/story?sid=46474	28824
+重点讲述Perl编程语言最新特性（截至Perl 5.22）的《Modern Perl》<a target="_blank" href="https://pragprog.com/book/swperl/modern-perl-fourth-edition"><u>发布了第4版</u></a>，其中电子版免费（需要输入电子邮件），它提供了EPUB、MOBI和PDF三种格式下载。Perl项目计划在今年圣诞节发布最新的Perl 6，<a target="_blank" href="https://perl6advent.wordpress.com/"><u>Perl 6 Advent Calendar</u></a>网站正在介绍Perl 6相关的新知识和内容，如<a target="_blank" href="https://perl6advent.wordpress.com/2015/12/07/day-7-unicode-perl-6-and-you/"><u>Unicode处理</u></a>，<a target="_blank" href="https://perl6advent.wordpress.com/2015/12/10/day-10-perl-6-pod/"><u>内置文档格式Pod的新变化</u></a>，等等。
+➜百度宣布开发出完全自主驾驶汽车
+https://www.solidot.org/story?sid=46475	30522
+<div align="center"><img src="http://img.solidot.org/0/284/lifa8BSmJL7nI.jpg" align="" height="262" width="500"><br>
+<br>
+</div>
+百度<a target="_blank" href="http://venturebeat.com/2015/12/09/baidu-says-its-developed-chinas-first-fully-autonomous-self-driving-car/"><u>宣布</u></a>它的自主驾驶汽车在混合路况下通过了完全自主驾驶测试。百度的自主驾驶汽车是一辆改装过的宝马3系列，百度称在测试中汽车的最高时速达到了每小时一百公里。百度在2013年开始无人驾驶研究，计划在十年时间内使用3D地图测绘系统测绘主要城市公开。百度称，在探测到前方有车辆、需要变换车道、超过其它汽车、从坡道到主路等情况下汽车会进行U形转弯、左转或右转、减速等操作。
+➜暴力的最主要动机是道德
+https://www.solidot.org/story?sid=46476	31912
+MIT的Tage Rai和UCLA的Alan Fiske分析了历史上不同文化的各种类型暴力，从战争到酷刑到种族灭绝。他们识别出了一个模式，认为暴力是可以预测和可以解释的。他们发现，<a target="_blank" href="http://qz.com/566579/most-violence-in-the-world-is-motivated-by-personal-morality/"><u>暴力的最主要动机是道德</u></a>，也就是施暴者认为他们的行为在道德上是正确的。他们认为暴力是做正确的事情，即使没有人会这么看。研究人员说，好消息是，暴力是可以改变的，并且正在发生改变，从全世界范围看，暴力的发生率在下降。虽然暴力的动机将会始终存在，但我们能以更和平的方式作出回应。
+➜逃到芬兰的一名难民强奸少女并将她活活烧死
+https://www.solidot.org/story?sid=46477	33188
+finlan 写道<i> "英国每日邮报<a href="http://www.dailymail.co.uk/news/article-3343066/Fights-fury-Ku-Klux-Klan-Finland-faces-wave-vigilante-mobs-targeting-migrants-arrest-Afghan-asylum-seeker-rape-14-year-old-schoolgirl-pushes-one-town-brink.html" target="_blank" title="(这里)">报道</a>芬兰发生多起难民暴力犯罪事件，多名少女遭到强奸，其中一名阿富汗人将17岁女孩子强奸后活活烧死。这些事件引起了芬兰民众的不安，有人开始穿起三K党的服饰，有人上街游行并发出呼吁'Close the borders, damn!'。在报道的留言里面，有人表示<span style="font-family: Arial, serif; font-size: 13px; background-color: rgb(245, 245, 245);">Europe has had enough.</span>"</i>
+➜一个基本量子物理问题被证明无解
+https://www.solidot.org/story?sid=46478	36336
+无论你在微观水平用数学多么精确的描述物质，你仍然缺乏足够的信息预测其宏观行为。研究人员在今天出版的《自然》期刊上发表<a target="_blank" href="http://www.nature.com/nature/journal/v528/n7581/full/nature16059.html"><u>论文</u></a>，首次<a target="_blank" href="http://factor-tech.com/connected-world/21062-a-fundamental-quantum-physics-problem-has-been-proved-unsolvable/"><u>证明</u></a>一个重要的基本量子物理学问题是无解的。谱隙是半导体等材料的一个关键属性，它描述了电子从低能态过渡到第一激发态所需要的能量。研究人员证明，不可能存在一个通用的方法能判断量子力学描述的物质是否有谱隙。谱隙问题是不可判定的。
+➜微软发布Cortana的iOS和Android正式版
+https://www.solidot.org/story?sid=46479	38323
+微软的个人助手Cortana正式在<a target="_blank" href="https://itunes.apple.com/us/app/cortana/id1054501703"><u>苹果</u></a>和<a target="_blank" href="https://play.google.com/store/apps/details?id=com.microsoft.cortana">Google</a>的应用商店发布，但目前还不支持中文。iOS和Android版本的Cortana与Windows 10、Windows 10  Mobile上的Cortana基本相同，但功能因为不同平台的API限制而略有差异，比如iOS和Android版不支持从Cortana启动应用或改变设置。今年早些时候微软与 Android ROM开发商Cyanogen达成了深度合作协议，Cyanogen用户将在不久后能访问到一个特别版的Cortana for Android，支持在任意屏幕呼叫Cortana。微软称这个特别版本只是开始，未来将会有更多特性加入。
+➜《生日快乐歌》版权案达成庭外和解
+https://www.solidot.org/story?sid=46480	38736
+《生日快乐歌》版权案达成了庭外和解，原定于12月15日举行的庭审取消。今年9月，加州洛杉矶的一名联邦法官<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/copyright-case-over-happy-birthday-is-over-trial-canceled/"><u>作出裁决</u></a>，华纳/Chappell Music不拥有《生日快乐歌》的有效版权，因为没有证据显示歌曲的版权转让是正确的。目前有关和解的细节还没有公开，原告的律师称将在不久后公布，表示所有问题都得到了解决。 Warner/Chappell<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/copyright-case-over-happy-birthday-is-over-trial-canceled/"><u>对此结果不是很开心</u></a>。
+➜研究发现银河对生命最友好的区域在旋臂
+https://www.solidot.org/story?sid=46481	42312
+英国研究人员利用计算机建模了类银河系的螺旋星系及其邻近星系，类似仙女座和三角座。研究人员模拟了气体、恒星和行星系统的分布，让星系演化数十亿年，识别出最适合生命居住的区域，估计类似地球的行星出现在合适地方的可能性。他们的结果显示，像银河系之类螺旋星系，其最危险的区域位于星系中央，危险最低和<a target="_blank" href="http://news.sciencemag.org/space/2015/12/most-likely-spots-life-milky-way"><u>最适宜生命居住的地方是旋臂</u></a>。地球就位于适宜居住区域的内边缘。<a target="_blank" href="http://journals.cambridge.org/action/displayJournal?jid=IJA"><u>研究报告</u></a>发表在《International Journal of Astrobiology》期刊上。
+➜开源软件正在吞食世界
+https://www.solidot.org/story?sid=46482	45249
+过去五年，开源软件公司得到投资十倍于五年前。大大小小的公司正以创纪录的数量使用开源软件。Future of Open Source的<a target="_blank" href="http://www.infoworld.com/article/2914643/open-source-software/rise-and-rise-of-open-source.html"><u>调查</u></a>发现，78%被调查者的公司内部运行开源软件，64%的人称他们的公司参与开源项目。出现这种局面的原因是每一家公司都承受着巨大的压力，被要求更好更快更廉价的构建软件，于是处于开发核心的程序员将开源软件带到了公司。一种自下而上的运动迅速席卷了整个公司，让拥有决策权的CTO们措手不及。软件开发的决策权转移到了开发者手中。而开源软件的文化也更适合开发者，他们喜欢先试用后购买，想要灵活性和速度。开源软件对每个人都是免费的，相比私有软件开源软件的灵活性近乎无限。在一个活跃的开源社区，代码改进和稳定性改善的速度也比私有软件快得多。开源软件公司<a target="_blank" href="http://venturebeat.com/2015/12/06/its-actually-open-source-software-thats-eating-the-world/"><u>将是未来IT的支柱</u></a>。<br>

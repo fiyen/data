@@ -1,0 +1,34 @@
+➜Mozilla 发布 Firefox 75
+https://www.solidot.org/story?sid=64053	14310
+Mozilla 发布了 <a href="https://www.mozilla.org/en-US/firefox/75.0/releasenotes/"><u>Firefox 75</u></a>，表示将会按照原定发布时间表发布新版本。Firefox 75 的主要新特性包括：全新的地址栏，为较小的屏幕进行了优化，改进了搜索建议的可读性，点击地址栏将会显示常用网站列表；改进了搜索功能；本地缓存所有 Web PKI Certificate Authority 证书；Linux 版本发布了 Flatpak 打包格式；Windows 版整合了 Direct Composition；bug 修复和开发者工具等等。许多老用户对于 Firefox 调整地址栏可能并不感冒，他们可以修改配置返回熟悉的界面，方法是 about:config --&gt; browser.urlbar.update1 --&gt; false。
+➜中国国际专利申请数超过美国
+https://www.solidot.org/story?sid=64054	15835
+世界知识产权组织称，2019 年中国申请的国际专利数量<a href="https://www.wipo.int/pressroom/zh/articles/2020/article_0005.html"><u>超过了美国</u></a>。报告称，2019 年，中国通过产权组织的《专利合作条约》（PCT）体系提交了 58,990 件申请，终结了美国（2019 年 57,840 件申请）的统治地位。此前自 PCT 于 1978 年投入运作以来，美国年年都占居榜首。PCT 的前五大用户除了中美外还有，日本（52,660件）、德国（19,353件）和大韩民国（19,085件）。2019 年华为以 4,411 件已公布 PCT 申请连续第三年成为企业申请人第一名。位居其后的是三菱电机（2,661件）、三星电子（2,334件）、高通（2,127件）和广东欧珀移动通信有限公司（1,927件）。前十大申请人榜单中包括四家中国企业，两家韩国企业，德国、日本、瑞典和美国各一家。
+➜微软收购了 Corp.com 域名防止其被滥用
+https://www.solidot.org/story?sid=64055	16604
+微软以未披露的价格<a href="https://krebsonsecurity.com/2020/04/microsoft-buys-corp-com-so-bad-guys-cant/" target="_blank"><u>从 Mike O’Connor 手中收购了 Corp.com 域名</u></a>。今年二月，O’Connor 以起售价 170 万美元拍卖 Corp.com 域名，引发了安全方面的担忧，原因是命名空间冲突——即内网使用的域名在外网能被正常解析。基于 Windows 的企业内网通过 Active Directory 进行集中式目录管理服务，其中一项叫 DNS name devolution 的功能允许内网机器通过简写访问其他机器或服务器上的资源。举例来说，一共享硬盘的完整名称是 drive1.internalnetwork.example.com，内网设备可输入 drive1 即可访问该硬盘，不用输入完整名称。Corp.com 的问题在于 Windows 早期版本的默认或示例 Active Directory 路径是 corp，很多企业没有修改就直接采用了这个设置。在机器普遍为台式机的时代，这么做没什么问题。但在企业普遍使用笔记本电脑的时代，这就产生了安全方面的问题，因为雇员可能会在外网使用公司的笔记本电脑。在连接外网的情况下，笔记本上的部分资源可能会尝试访问内网的 corp 域名，而 Windows 的 DNS name devolution 工作方式会导致它寻求访问
+Corp.com 上的资源。谁控制了 Corp.com 域名就可以被动拦截许多企业计算机的私密通信。收购该域名的微软表示这可以更好的保护客户。
+➜因车祸减少部分汽车保险公司向客户退款
+https://www.solidot.org/story?sid=64056	22890
+疫情流行迫使无数人减少外出，公路上的汽车大幅减少，更少的汽车意味着更少的车祸，更少的车祸意味着汽车保险公司省了很多钱。至少三家保险公司<a href="https://www.npr.org/sections/coronavirus-live-updates/2020/04/06/828187071/some-auto-insurers-are-sending-refunds-to-customers-as-crash-rate-falls" target="_blank"><u>决定向客户退钱</u></a>。Allstate 公司宣布将退还 6 亿美元的保险费，公司 CEO  Tom Wilson 表示这事关公平。American Family Insurance 将向每辆车退还 50 美元；Geico 则将在下一次续保时给与 15% 的信贷。
+➜微软宣布 Linux 代码完整性安全模块
+https://www.solidot.org/story?sid=64057	24052
+微软<a href="https://www.zdnet.com/article/microsoft-announces-ipe-a-new-code-integrity-feature-for-linux/"><u>宣布了</u></a>它正在开发的 Linux 代码完整性检查安全模块 <a href="https://microsoft.github.io/ipe/" target="_blank"><u>Integrity Policy Enforcement 或 IPE</u></a>。IPE 尝试解决 Linux 的代码完整性问题。当 Linux 系统启用 IPE，系统管理员能创建一个允许执行的二进制列表，向内核加入验证属性，在允许运行前检查每一个二进制程序。如果二级制程序被修改了，IPE 将屏蔽恶意代码执行。IPE 安全模块设计用于特定用例，在突出安全的场景下，系统管理员需要完全控制系统上执行的任何程序。IPE 目前处于 RFC (request for comments) 状态，还需要时间才能真正进入内核。
+➜NASA 宇航员的离异妻子被控撒谎
+https://www.solidot.org/story?sid=64058	30564
+去年 NASA 宇航员 Anne McClain <a href="https://www.solidot.org/story?sid=61842"><u>被控</u></a>盗取身份访问了离异妻子 Summer Worden 的银行账号，现在 Worden <a href="https://www.usatoday.com/story/news/nation/2020/04/07/nasa-astronauts-estranged-wife-charged-lying-space-crime/2959898001/"><u>被控对联邦调查机构做出虚假陈述</u></a>。44 岁的 Worden 在 2014 年与 McClain 女士结婚，2018 年申请离婚，2019 年她投诉当时在国际空间站的 McClain 盗取其身份从太空访问了银行账号。McClain 承认有此事但否认了任何犯罪行为。她通过律师称，访问银行账号只是为了确保家庭的财务状况良好，有足够的钱支付账单和照顾好 Worden 女士的儿子——两人在分居前共同抚养他。McClain 称，银行账号是两人公用的，一直使用相同的密码，她从未被告知停止使用该账号。根据最新的法庭文件，Worden 被控在调查中多次做出虚假陈述，她的父母在投诉中称她这么做是为了赢得孩子的抚养权。她目前受到了两项指控，每项指控的最大刑期为 5 年，最高罚款 25 万美元。她预计在 4 月 13 日出席法庭听证会。
+➜Tails 4.5 发布，支持 Secure Boot
+https://www.solidot.org/story?sid=64059	31990
+匿名发行版 Tail OS <a href="https://tails.boum.org/news/version_4.5/index.en.html" target="_blank"><u>发布了 4.5 版本</u></a>，主要新特性为支持在启用 Secure Boot 的计算机上启动。Tail OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下使用痕迹。Tails 4.5 的其他变化包括：Tor Browser 9.0.9，修复了多个安全漏洞，其中一个是高危。Tails 基本上每个月会发布一个小的更新版本，Tails 4.6 将在下个月发布，4.7 将在 6 月发布，而大版本更新则将间隔更长时间，Tails 5.0 计划在<a href="https://redmine.tails.boum.org/code/projects/tails/roadmap" target="_blank"><u>明年 6 月发布</u></a>。
+➜苹果向医护人员捐赠两千万面罩 Face Shield
+https://www.solidot.org/story?sid=64060	38701
+苹果<a href="https://www.theverge.com/2020/4/5/21209270/apple-face-shields-masks-covid-19-coronavirus"><u>宣布</u></a>了用于保护医护人员的面罩 <a href="https://support.apple.com/en-hk/HT211028"><u>Face Shield</u></a>。苹果公司通过其全球供应链采购了超过 2000 万面罩，首批面罩已经捐出去了，苹果 CEO 库克称来自医生的反馈是非常积极的。面罩组件组装起来不到两分钟，可以根据脸部进行调整，消毒之后可以重复使用。苹果计划到本周结束前运送超过一百万面罩，将与政府合作捐赠到需要的地方。
+➜台湾政府机构限制使用 Zoom
+https://www.solidot.org/story?sid=64061	45937
+台湾行政院发布<a href="https://www.ey.gov.tw/Page/9277F759E41CCD91/9d2f8e8e-c8a6-4e1d-a9fe-68c3edb8ef72"><u>公告</u></a>，要求限制使用 Zoom，原因是存在安全隐忧。提供远程会议服务的 Zoom 因疫情风行世界，但其安全问题也引起关注。台湾政府在公告中，如果因业务需求必须召开远程视频会议，不应使用有全疑虑的产品如 Zeom，优先使用国内产品。如果国际交流需要非本国产品，那么可以选择 Google 和微软的相关同类产品，在疫情期间这些产品都免费提供给用户使用。
+➜从火星取回的样本是否会危险到地球？
+https://www.solidot.org/story?sid=64062	46570
+NASA 和 ESA 都计划在不久的未来将火星样本送回地球。火星样本对地球生态和公共安全的风险是很低的，但并非为零。Michael Crichton 在其 1969 年科幻小说《The Andromeda Strain》中描述了外星病毒感染地球的故事。这个故事是否真的会在现实中发生？<a href="https://www.space.com/mars-sample-return-threat-earth-coronavirus-andromeda-strain.html"><u>正在发生的新冠疫情对我们有什么启发？</u></a>前 NASA 行星保护官员 Cassie Conley 说，公众当然应当多留意 Mars Sample Return 计划。自太空探索时代伊始，来自火星的样本就被视为“Restricted Earth Return”，需要采取最严格的措施保护样本和地球。NASA 的火星计划最近讨论将火星大部分地区的保护级别降为 Category II，消除对火星样本的封闭式要求。Conley 认为我们对地球生物学都称不上完全了解，更不用说火星了。现在就断定火星样本没有危害还为时过早。疫情显示过度的自信和短视会对人类造成灾难性伤害。
+➜安全研究人员再次对 xHelper 发出警告
+https://www.solidot.org/story?sid=64063	50262
+安全研究人员<a href="https://securelist.com/unkillable-xhelper-and-a-trojan-matryoshka/96487/" target="_blank"><u>再次对难以删除的恶意程序 xHelper 发出警告</u></a>。过去一年，xHelper 主要通过第三方应用商店在俄罗斯、欧洲和西南亚运行 Android 6 和 7 的设备上传播。一旦安装它就难以卸载了，即使设备恢复到出厂设置也无法清除它。当它伪装成合法应用安装到设备上之后，它会通过互联网下载一个木马收集信息，然后下载另一个木马，再利用一组漏洞利用代码获得设备的 root 权限。这组漏洞利用代码主要针对中国制造的  Android 6 和 7 的设备。获得 root 权限之后，恶意程序会挂载到启用写访问的操作系统分区，改变 mount() 函数代码，防止其遭到删除。要彻底删除 xHelper 可能需要完全抹掉设备上的文件，重新安装一个干净的版本，恢复出厂设置无法消灭它。

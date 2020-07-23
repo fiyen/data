@@ -1,0 +1,18 @@
+➜计算机学会网站删除对政府退出国家科技奖励评审的建议
+https://www.solidot.org/story?sid=42807	11826
+<a href="/~有关部门">有关部门</a> 写道 <i>"数日前中国计算机学会在官网发表文章<a target="_blank" href="http://www.solidot.org/story?sid=42775">建议政府退出国家科技奖励评审</a>。现在这项提议已从学会官网撤下。<a target="_blank" href="http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2843770996539">一份新的声明</a>称前项提议与2014年授奖无关，希望公众不要误解，并称该提议将通过各种渠道提交给相关部门。声明最后对计算机领域获得国家奖励的人表示热烈祝贺。"</i>
+➜隐藏流量打败防火长城的深度包流量识别
+https://www.solidot.org/story?sid=42808	40825
+防火长城开始屏蔽国外VPN服务，这不是第一次，防火长城上一次大规模屏蔽VPN服务是在2012年底（<a target="_blank" href="http://blog.strongvpn.asia/china-blocking-udp-ports/"><u>屏蔽了</u></a>UDP端口，封锁了使用OpenVPN、IPsec、L2TP/IPsec和PPTP协议的VPN服务）。但这一次应该不会和上一次那样半途而废，就像去年屏蔽Google，我们以为特定日子过后就会解禁，但8个月后情况没有任何改变，甚至愈加恶化。正如<a target="_blank" href="http://www.solidot.org/story?sid=32800"><u>以前所言</u></a>，<a href="http://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF"><u>VPN</u></a>原本不是设计绕过审查系统，而是为了保护个人和企业通信，防火长城可利用深度包检测识别出VPN所使用的协议指纹，利用机器学习很容易将VPN流量<a target="_blank" href="http://www.solidot.org/story?sid=32532"><u>区分开来</u></a>。此次防火长城攻击国外VPN服务组合利用了协议层拦截和特定服务器端点屏蔽。已知<a target="_blank" href="http://techcrunch.com/2015/01/23/china-vpn-crackdown/"><u>受影响</u></a>的VPN服务包括了Astrill和<a target="_blank" href="http://blog.strongvpn.asia/update-on-connection-issues-from-china/"><u>StrongVPN</u></a>等，未受影响的知名VPN服务包括 ExpressVPN 和Golden Frog等。面对防火长城日益先进的流量分类识别技术，我们并非完全束手无策，Tor项目已经提供先例——将Tor流量伪装成其它服务的流量。对于VPN流量识别，开源项目<a target="_blank" href="https://github.com/jlund/streisand"><u>Streisand</u></a>提供了多种方法，可以将VPN流量伪装成标准的HTTPS流量。
+➜党刊点名批判大学教师
+https://www.solidot.org/story?sid=42809	41822
+中共党刊《求是》官网发表了一篇署名评论文章《<a target="_blank" href="http://www.qstheory.cn/wp/2015-01/24/c_1114113148.htm"><u>高校宣传思想工作难在哪里？</u></a>》，批评中国一些高校教师利用大学讲台抹黑中国，<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/china/2015/01/150124_china_qiushi-journal_commentary"><u>特别点出了</u></a>贺卫方和陈丹青的名字。贺卫方是北京大学法学院教授，长期研究宪政和法治，同时也是微博上非常活跃的知名人士。陈丹青是一位著名画家，曾经担任清华大学美术学院教授，2004年因为不满招生制度而离职。文章表示，加强和改进高校宣传思想工作不能止于课堂，还应包括微博及微信等社交媒体。文章称， 中共中央办公厅、国务院办公厅最近印发的《关于进一步加强和改进新形势下高校宣传思想工作的意见》“将高校意识形态工作放到一个极端重要的位置，近日也有不少教师感受到了压力，甚至有人开始删除微博上的不当言论，但是要想真正肃清高校的负能量，还需要更加细化的规则，让这些人类灵魂的工程师不敢抹黑，不能抹黑，不易抹黑。”
+➜牛津大学有一个电池已经连续工作了175年
+https://www.solidot.org/story?sid=42811	51805
+<div align="center"><img src="http://img.solidot.com.cn/0/948/li6jSsUdBOIGg.jpg" align=""><br>
+<br>
+</div>
+美国加州利弗莫尔有一个电灯泡已经持续<a target="_blank" href="http://www.centennialbulb.org/facts.htm"><u>工作了114年</u></a>，而牛津大学Clarendon实验室有一个电池已连续<a target="_blank" href="http://motherboard.vice.com/read/this-battery-has-lasted-175-years-and-no-one-knows-how"><u>工作了至少175年</u></a>。被称为Clarendon干电堆（如图）的电池被用于为<a target="_blank" href="http://www.physics.ox.ac.uk/history.asp?page=exhibit1"><u>牛津电子钟</u></a>供电。干电堆是早期电池中的一种，发明人是Giuseppe Zamboni，牛津物理学教授Robert Walker购买了电池，于1840年安装完毕。研究人员很想知道电池的构成，但担心打开钟将会破坏电池能工作多久的试验。牛津电子钟已经摆动了10亿次，每次摆动电池只用了1毫微安的电力（1毫微安=1安培的十亿分之一）。
+➜被前MIT荣休教授性骚扰的女子讲述她的故事
+https://www.solidot.org/story?sid=42812	54525
+去年12月，MIT<a target="_blank" href="http://www.solidot.org/story?sid=42222"><u>撤销了</u></a>物理学荣休教授Walter Lewin的荣誉头衔，其授课视频也被从网上无限期撤下，原因是有女生投诉这位78岁的教授线上性骚扰。现在，被性骚扰的女子<a target="_blank" href="https://www.insidehighered.com/news/2015/01/23/complainant-unprecedented-walter-lewin-sexual-harassment-case-comes-forward"><u>公开讲述了她的故事</u></a>。Walter Lewin因出色的物理学授课视频而成为互联网上的明星教师，但32岁的法国已婚私人英语教师Faïza Harbi参加Lewin的物理课不是仰慕他而是因高中时物理课让她头疼。她在Facebook上创建了一个学习交流小组，2013年11月24日，名叫Walter Lewin的用户请求加入这个小组，她以为这个名字是开玩笑，要求提供证据，Lewin提供了只有学生和授课教师才能看到的学习进度页。Harbi说她感到非常惊讶。在两人的线上交流中，Harbi透露她因为焦虑和抑郁而无法集中注意力，Lewin表示会帮助她恢复自信。之后的故事非常离奇，Harbi在MIT调查人员的帮助下认识到Lewin对她的兴趣不是出于同情。Lewin迅速将两人的关系提升到令人不舒服的地步，Harbi被迫参与了线上的性角色扮演，向Lewin发去了她的裸照和裸体视频。10个月后，Harbi说她再次出现了自残行为。她最后发现她不是唯一一名有此遭遇的女子。

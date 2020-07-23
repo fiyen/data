@@ -1,0 +1,48 @@
+➜报道称中国黑客入侵美国海军承包商
+https://www.solidot.org/story?sid=58970	11431
+《华尔街日报》<a href="http://archive.is/KMi5Y"><u>报道</u></a>，中国黑客正入侵美国海军的承包商窃取从舰船维护数据到导弹计划等信息，引发了美国海军自上而下的网络漏洞检查。美国官员称，黑客主要瞄准海军和空军的承包商以寻求获取先进军事技术。美国官员声称，黑客过去一年从海军承包商和子承包商窃取的数据是高度敏感的机密军事技术信息。黑客还瞄准了有军事研究实验室的大学。这篇报道没有提供任何细节，基本上就是讲述美国官员对中国网络攻击的指控。
+➜对比用 GCC 和 Clang 构建的 Firefox
+https://www.solidot.org/story?sid=58971	11797
+Mozilla 最近发布的 Firefox 64 是首个用 Clang 编译器构建的版本，而 Firefox 63 则是最后一个用 GCC 编译器构建的版本。Mozilla 声称从 GCC 切换到 Clang 能提升性能，但具体数字很难得到。开发者 Honza Hubička <a href="https://hubicka.blogspot.com/2018/12/firefox-64-built-with-gcc-and-clang.html"><u>分别测试了</u></a>启用链时优化（LTO）和按配置优化（PGO）的 GCC 8 构建的 Firefox 以及 Clang 构建版本的性能，寻找为什么 GCC 构建的版本性能比 Clang 的版本低，因为存在各种干扰测试的因素作者没有得出明确的结论，不过 Clang 构建的时间确实比 GCC 短（无论是 GCC 8 还是 GCC 9）。
+➜哈佛提前录取学生中亚裔比例超四分之一
+https://www.solidot.org/story?sid=58972	14447
+哈佛大学<a href="https://news.harvard.edu/gazette/story/2018/12/935-admitted-early-to-harvard-college-class-of-23/"><u>表示</u></a>，该校 2023 届本科提前招生录取率 13.4%，其中亚裔<a href="http://news.sciencenet.cn/htmlnews/2018/12/421131.shtm" target="_blank"><u>比例达 26.1%</u></a>。哈佛大学今年提前招生阶段共有 6958 名申请者，最终录取 935 人，而去年哈佛大学的提前招生录取率是 14.5%。其中女生录取比例达到 51.3%，超出去年的 47.2%，表示对物理学和计算机学科感兴趣的女生比例也较去年显著提升，分别从 33% 和 29% 大幅度提高到 53% 和 43%。备受关注的亚裔学生团体诉哈佛大学招生歧视案正在审理之中，也让今年哈佛大学录取学生族裔分布更引人瞩目。哈佛大学 2023 届本科提前录取学生中有 26.1% 是亚裔，前两年的数字是 24.2% 和 21.7%。
+➜Nvidia 利用机器学习创造逼真的人脸生成器
+https://www.solidot.org/story?sid=58973	16360
+<div align="center"><img src="//img.solidot.org/0/767/liTu5G3xUZXM.gif" align=""><br>
+</div>
+<br>
+Nvidia 的研究人员在预印本网站 arXiv.org 上发表<a href="https://arxiv.org/pdf/1812.04948.pdf"><u>论文</u></a>（PDF），描述了一种生成和混合图像（特别是人脸）的新架构，可以“带来更好的插值特性，而且也能更好地解析变化的潜在因素”。研究人员利用机器学习去<a href="https://techcrunch.cn/2018/12/14/these-face-generating-systems-are-getting-rather-too-creepily-good-for-my-liking/" target="_blank"><u>生成逼真的人脸</u></a>，逼真到我可能永远不会再相信一个机器或人类是真实的。新系统的灵感源自所谓的风格转移，也就是对图像（比如说一张画）的重要风格特征进行提取，并应用到另一张图像的创作当中，如果一切顺利的话，最终得到的图像应该跟原来的拥有类似外观。研究人员还发布了一个<a href="http://stylegan.xyz/code"><u>面部数据集</u></a>。
+➜《王国之心3》提前泄露，泄密者据称被抓
+https://www.solidot.org/story?sid=58974	18988
+原计划于 1 月 25 日发售的角色扮演游戏《王国之心 III》提前一个半月<a href="https://www.polygon.com/2018/12/16/18143149/kingdom-hearts-3-leaks-spoilers-videos-screenshots-testsuya-nomura-statement" target="_blank"><u>泄露到社交网络</u></a>。《王国之心 III》游戏总监和制作人野村哲也通过 Twitter <a href="https://twitter.com/KINGDOMHEARTS/status/1074192394176815105"><u>请求</u></a>玩家不要提前透露剧情，而根据 Twitter 上的信息，泄密者已经<a href="https://twitter.com/quintonflynn/status/1074166928267206656" target="_blank"><u>被抓住</u></a>。泄密者泄露的是《王国之心 III》的 Xbox One 版本，试图通过 Facebook Marketplace 销售（已经下架），据认识者称泄密者的身份不是秘密，此前已经多次非法销售源自制作厂商的游戏拷贝。
+➜科学家测序陆龟基因组寻找长寿秘密
+https://www.solidot.org/story?sid=58975	26665
+根据发表在《Nature Ecology &amp; Evolution》期刊上的<a href="https://www.nature.com/articles/s41559-018-0733-x"><u>论文</u></a>，西班牙奥维耶多大学和美国耶鲁大学的研究人员测序了两只巨型陆龟的基因组，鉴定出与 DNA 修复、代谢调控、免疫反应以及癌症发展相关的基因。从理论上讲，长寿的生物体患癌症的风险也较高，不过陆龟的肿瘤却极为罕见。研究人员<a href="http://www.ebiotrade.com/newsf/2018-12/20181214165504290.htm"><u>发现</u></a>，与其他脊椎动物相比，陆龟有着更多的肿瘤抑制因子。虽然这些结果可能指明了巨型陆龟特有的抗癌机制，但还需要进一步的研究来确定这些基因组特征是否与肿瘤发展相关。他们还发现，对于某些能够增强免疫系统的基因，巨型陆龟比哺乳动物有更多的基因拷贝。以 PRE1 基因为例，鸟类和哺乳类动物大多只有一个拷贝，而加拉帕戈斯象龟和亚达伯拉象龟都有 12 个拷贝，可以帮助免疫系统更好地发挥作用。
+➜中国经济放缓
+https://www.solidot.org/story?sid=58976	27000
+中国<a href="https://cn.nytimes.com/business/20181217/china-economy-xi-jinping/"><u>正出现经济放缓的种种迹象</u></a>。汽车销售大跌。房产市场动荡。距春节尚有两个月，一些工厂已提前给工人放假。上周五，中国官方公布的月零售总额和工业增加值意外疲软，给全球股市带来压力。许多经济学家称，此次经济放缓是 10 年前全球金融危机以来最严重的一次，当时中国被迫注入了数万亿美元，防止经济脱离增长轨道。从纸面上看，中国经济一如既往地表现良好。官方数据显示，与去年同期相比，截至 9 月份的三个月，中国经济增长了 6.5%。但在表面之下，经济正在急剧放缓。外国投资上个月大幅下降。过去三个月的汽车销量跌幅创下纪录。房屋竣工面积是衡量房地产市场健康状况的一项指标，今年出现大幅下滑。在南方的制造业中心广州和东莞，这种放缓非常明显。
+➜华为继续在发展中国家扩张
+https://www.solidot.org/story?sid=58977	27213
+尽管华为在部分西方国家受挫，但发展中国家会出于成本考虑<a href="http://www.ftchinese.com/story/001080713" target="_blank"><u>继续选择华为</u></a>，华为仍是全球大部分地区的关键电信设备供应商。在该公司销售产品与服务的 170 个国家中，绝大多数都是发展中国家，华为的大部分收入都来自这些国家。相比爱立信等公司，华为在发展中国家的一个优势是当地派驻人员。爱立信和诺基亚等竞争对手或许能够在广阔的非洲市场上销售成套设备，但它们不太愿意让技术人员随时待命，修复故障，提供服务。电信行业分析师表示，发展中市场可能会继续选择华为，尤其是因为成本问题。
+➜微软必应向搜索 Office 2019 的用户推荐盗版网站
+https://www.solidot.org/story?sid=58978	28328
+当用户在必应搜索里输入“<a href="https://www4.bing.com/search?q=office+2019+download&amp;qs=n&amp;form=QBLHCN&amp;sp=-1&amp;pq=%22office+2019+download&amp;sc=8-21&amp;sk=&amp;cvid=D44D9548875D4CF5AC98F859C1BE1C2E"><u>office 2019 download</u></a>”，排在结果页前列的一个链接是“Microsoft Office 2019 Crack &amp; Product Key Free Download”，软件巨头<a href="https://www.zdnet.com/article/bing-recommends-piracy-tutorial-when-searching-for-office-2019/"><u>向用户推荐</u></a>的是如何盗版它的办公软件。这家网站建议用户使用 uTorrent 下载盗版版本，以及如何安装破解补丁。BT 种子文件目前已经下线，所以不知道该版本是否捆绑了恶意程序。今年早些时候，用户在必应里搜索 Google Chrome 时被发现会指向一个假的 Chrome 下载页，该版本捆绑了恶意程序。
+➜日本普及无人驾驶拖拉机应对人口老龄化
+https://www.solidot.org/story?sid=58979	31999
+久保田、洋马和井关农机这三家日本最大的农机企业都先后<a href="http://cn.nikkei.com/industry/manufacturing/33487-2018-12-17-05-00-50.html" target="_blank"><u>发售了无人拖拉机</u></a>，应对人口老龄化和熟练农业技术人才稀缺的问题。日本政府将无人农机自动化定为<span> 0</span> 到<span> 3</span> 个级别，目前的产品属于需要人工监控作业的<span> 2</span> 级水平。政府计划到<span> 2020</span> 年实现可远程监控、无需现场有人的无人驾驶。&nbsp; 普及无人拖拉机的关键在于降低价格。此外，还需要完善提高使用便利度的制度。日本国内农业从业人员的平均年龄在<span> 65</span> 岁前后，比其他行业偏高。随着高龄农民退休，人手不足问题越来越严重。虽然日本也在农业领域接纳外国劳动者，但也必须采取提高生产率的措施。
+➜微软拥抱 Python
+https://www.solidot.org/story?sid=58980	35255
+在微软内部，Python 从一个不受重视的语言变成了香饽饽。在微软工作的 Python 开发者 Steve Dower 发布博文<a href="https://medium.com/microsoft-open-source-stories/python-at-microsoft-flying-under-the-radar-eabbdebe4fb0" target="_blank"><u>讲述了 Python 如何在公司内部流行起来的</u></a>。2010 年，微软的 Python 开发者人数稀少而且任人摆布。但过去八年，众多的微软产品都包含了 Python 支持，一些最新产品甚至只支持 Python，部分关键工具也是用 Python 编写的，微软正积极投资于 Python 语言及其社区。Steve Dower 学生时代参与了 Python Tools for Visual Studio (PTVS)这一微软开源工具的开发，项目经理后来邀请他来公司当暑期实习生，一年之后成为微软的全职开发者。他所在团队一开始人数非常少，他们也很低调。到了 2018 年，他们为 Python 骄傲，开发工具 Visual Studio 和 Visual Studio Code 都支持 Python，他们还雇佣了五名 Python 语言的核心开发者，积极参与世界各地的 Python 活动。
+➜黑客利用 APP 漏洞获利 2800 万
+https://www.solidot.org/story?sid=58981	39591
+官媒<a href="http://www.bjnews.com.cn/news/2018/12/17/531150.html"><u>报道了</u></a>一起利用银行手机应用漏洞获利的案件。报道称，犯罪嫌疑人“长期在网上寻找全国各家银行、金融机构的安全漏洞。今年 5 月，他发现某银行 APP 软件中的质押贷款业务存在安全漏洞，遂使用非法手段获取了 5 套该行的储户账户信息，在账户中存入少量金额后办理定期存款，后通过技术软件成倍放大存款金额，借此获得质押贷款，累计非法获利 2800 余万元。为了在套现过程中躲避侦查和监管，嫌疑人将非法获利的账户存款余额，在某网络直播平台上全部购成点数卡，再折价卖给其他用户”。
+➜Taylor Swift 演唱会用面部识别技术识别骚扰者
+https://www.solidot.org/story?sid=58982	41973
+在美国，演唱会使用面部识别技术还是罕见的事情。流行歌星 Taylor Swift 据报道其今年五月的一次演唱会就使用面部识别技术<a href="https://www.cnet.com/news/taylor-swift-reportedly-used-facial-recognition-tech-to-identify-stalkers/" target="_blank"><u>去识别已知的骚扰者</u></a>。探头拍摄的面部照片会发送到一个指挥所，然后与这位歌星已知的数百名骚扰者的照片进行对比。美国正在扩大部署面部识别技术，负责总统安全的特勤局就计划在白宫周围使用面部识别技术，亚马逊则因为向美国执法机构出售面部识别技术而受到批评。
+➜Signal 表示它不会遵守澳大利亚的反加密法案
+https://www.solidot.org/story?sid=58983	44863
+澳大利亚国会最近通过的一项受争议法案本质上是要求科技公司在其产品和服务内加入后门，知名端对端加密消息应用 Signal 的开发商 Open Whisper Systems <a href="https://signal.org/blog/setback-in-the-outback/" target="_blank"><u>明确声明</u></a>它不会遵守澳大利亚的反加密法案，在产品中包含后门。开发者  Joshua Lund 称，根据设计，Signal 没有记录用户的联系人、社交图谱、会话列表、位置，用户头像、用户名、群组成员、群组头衔或头像，而他们也无法访问到加密消息或语音/视频的密钥。Lund 说，虽然他们不能在产品中加入后门，但澳大利亚可能会尝试屏蔽该服务或限制访问其应用。但这种策略通常效果不佳，因为用户可以通过 VPN 绕过封锁。
+➜一个事件人类能记住多长时间？
+https://www.solidot.org/story?sid=58984	47643
+爱情是如此的短暂，然而遗忘它却是如此的漫长。发表在《Nature Human Behavior》期刊上的<a href="https://redirect.viglink.com/?format=go&amp;jsonp=vglnk_154505200871614&amp;key=909baa5ef8a2918e3d459c8422cd1d89&amp;libId=jps5ei5601011mhf000DAm5c5xrnr&amp;loc=https%3A%2F%2Fwww.popsci.com%2Fhow-collective-memories-decay&amp;v=1&amp;out=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41562-018-0474-5&amp;ref=https%3A%2F%2Ftheoldreader.com%2Ffeeds%2F55c758dbc70bc2feea000a3c&amp;title=How%20long%20can%20an%20event%20hold%20humanity%27s%20attention%3F%20There%27s%20an%20equation%20for%20that.%20%7C%20Popular%20Science&amp;txt=The%20universal%20decay%20of%20collective%20memory%20and%20attention"><u>一项研究</u></a>探讨了集体记忆和注意力的<a href="https://www.popsci.com/how-collective-memories-decay"><u>普遍衰减时间</u></a>，并给出了一个方程式。研究人员分析了音乐、电影、运动员传记、专利和科学论文这五种文化对象的集体记忆。研究人员认为存在两种记忆，衰减速度各不相同，一种比另一种更快。两种记忆其一是交际记忆（communicative memory），来自对话和社交互动，这种记忆会快速衰减，每个人在日常生活里都有体验，各种琐事可能会让你忘记几个小时前的突发新闻；其二是文化记忆（Cultural memory），它被存档起来可以搜索和查询，因此记忆更持久。研究人员认为，五种文化对象里，传记的持续时间最长，可以在集体记忆里流传 20 到 30 年，而音乐最短最快消失，平均只能持续 5.6 年。

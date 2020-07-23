@@ -1,0 +1,130 @@
+➜做啥、嘀咕无法访问
+https://www.solidot.org/story?sid=12475	2880
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 提到，继饭否之后，国内的几大微博客服务器做啥、嘀咕都无法访问，只有<a href="http://jiwai.de/">叽歪</a>(<a href="http://twitpic.com/b1yn7">图片</a>)没有下线。做啥网站管理员在twitter上<a href="http://twitter.com/aleksoft/status/2748568749">发帖</a>称“做啥网关站维护中，请啥友们谅解”。           "<a href="http://twitter.com/liumiao/status/2740755631">liumiao</a>：饭否、做啥、嘀咕都挂了，<a href="http://jiwai.de/">叽歪</a>仍坚强地活着，是因为它的域名jiwai.de使它看上去是一个德国网站而逃过了一劫吗？
+<a href="http://twitter.com/#search?q=%23GFW">twitter使用者</a>在嘀咕：叽叽歪歪的网路警察正在做啥？饭否？
+<br> <br>
+请问<a href="__SLASHLINK__" sect="ask" sid="09/07/19/1438258" sn="article" tid="67">什么是社会稳定？</a>这是否是在维护社会稳定？"
+➜关于Web字体：现状与未来
+https://www.solidot.org/story?sid=12476	6000
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "有关Web字体的话题正在增多，对Web设计师来说，他们并不关注技术细节，不管是 TrueType 的 Hinting 技术，还是 OpenType 的 Permissions Tables，他们关心的是我如何在网页中使用某款字体（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K830.aspx">图文版</a>)。           7月14日至19日，于 Atlanta 召开的 <a href="http://www.typecon.com/">TypeCon</a> 2009 上，人们讨论了如何在 Web 中嵌入字体（<a href="http://www.typecon.com/calendar.php?category=Speakers">Web Font Embedding: The New State of the Debate</a>），关于这次会议，有以下 Twitter 消息可以参阅，Stephen Coles 的 @<a href="http://twitter.com/typographica">typographica</a> 以及 Grant Hutchinson 的 @<a href="http://twitter.com/splorp">splorp</a>。
+<br> <br>
+Web 设计师们需要什么？
+<br> <br>Web 设计师需要更多选项，他们需要更多字体，目前，诸如 <a href="http://novemberborn.net/sifr3">sIFR</a>, <a href="http://wiki.github.com/sorccu/cufon/about">Cufón</a> <a href="http://www.typeselect.org/demo">等</a> Web 字体替代方案让设计师们可以使用 Web 安全字体之外的字体实现更好的设计，然而，这些方案本质上都是一种替代方案，它们只能偶尔用于标题或少量文字。译者注：这些方案很多是通过专门工具，将某种字体下需要显示的文字生成 Flash 素材，再将 Flash 素材嵌入网页对应的位置，这些方案的缺陷是显而易见的。<br> <br>
+字体设计公司需要什么？
+<br> <br>字体设计公司并不希望他们的字体原始文件被上传到网站，那样，字体很容易被盗用。CSS3 中的 @font-face 允许直接链接到字体原始文件，就像我们链接一个图片那样。
+<br> <br>下载这些字体也象下载一个文件那样简单，显而易见的是，字体公司不喜欢这种方式。唱片业的版权模式并不适合字体业，因为字体设计还没有成为一个拥有行业协会的<a href="http://nicewebtype.com/notes/2009/07/19/type-sellers-web-fonts-and-typekit/">行业</a>，他们多数都是单枪匹马，字体盗用对他们的伤害很大。<br> <br>
+解决方案
+<br> <br> <a href="http://www.w3.org/Submission/2008/01/"> </a>
+向前追溯至1997年，微软开发了一个专用的嵌入式 OpenType 格式（EOT），本质上就是一种缩略版的 OpenType。EOT 只支持 IE，为了能通用，微软于2007年将 EOT 提交给 W3C （供 CSS3 使用），2007年年底，W3C 拒绝了微软的提案，理由之一是安全问题。2008年，微软又一次提交该方案，微软在提案中如是说：
+<br> <br> <em>嵌入字体格式（EOT）是微软开发的一种技术，允许 OpenType 字体嵌入到网页并可以下载至浏览器渲染，浏览器根据 CSS 中 @font-face 的定义，下载，渲染这种 .EOT 后缀的字体文件。这些文件只在当前页活动的状态下，临时安装在用户的系统中。</em>
+<br> <br>曾有人将 EOT 描述为 OpenType 中的 DRM，而一旦 <a href="http://yro.slashdot.org/article.pl?sid=08/08/28/1855213">EOT 和 DRM 联系到一起</a>，其前景便立刻暗淡起来。关于 EOT的技术细节，可以参阅 W3C 的 <a href="http://www.w3.org/Submission/2008/SUBM-EOT-20080305/">Embedded OpenType (EOT) File Format</a> 一文。EOT到底怎么回事？简单说，字体业不愿支持。<br> <br>
+webfont
+<br> <br>最近，两个备受尊重的字体设计师 <a href="http://talleming.com/">Tal Leming</a> 与 <a href="http://www.letterror.com/">Erik van Blokland</a> 提出了一种替代 EOT 的提案，这种技术并非专有技术，实现起来也不复杂，H&amp;FJ 在 Twitter 上这样描述 <a href="http://lists.w3.org/Archives/Public/www-font/2009JulSep/0440.html">.webfont</a> ：
+<br> <br> <em>小巧，开放，优雅，前瞻，现实。 （<a href="http://twitter.com/H_FJ/status/2655923216">http://twitter.com/H_FJ/status/2655923216</a>）</em>
+<br> <br>简单说，.webfont 就是在字体中嵌入了访问许可表，浏览器可以读出这些许可信息，并决定是否应该下载和渲染这些字体。webfont 方案获得了字体业<a href="http://typegirl.tumblr.com/post/142912558/most-of-the-important-foundries-are-supporting-webfont">广泛的欢迎和支持</a> （甚至 <a href="http://blog.typekit.com/2009/07/16/why-we-support-the-new-webfont-proposal/">TypeKit</a> 也支持它），但这并不意味着我们很快就可以用到 .webfont，W3C 首先要确认绝大多数字体商支持该技术，然后，才会开始他们漫长而缓慢的程序，然后是浏览器对此提供支持，要完成全部过程，也许需要几年时间。
+<br> <br>关于这一技术 David Berlow 的 <a href="http://www.zeldman.com/2009/07/16/web-fonts-now-for-real/">Permissions Table for OpenType </a>提案可以给我们一些提示（<a href="http://www.fontbureau.com/otpermtable/">技术细节</a>），简单说，就是在字体文件中嵌入许可信息，比如，在字体中嵌入某个站点是否拥有使用某个字体的许可的信息。
+<br> <br>该技术并不需要对原有的字体文件进行改动，仅仅需要在字体文件中嵌入一些额外的许可信息。有人觉得，这很好但也很危险，因为人人可以打开这个字体文件自己编辑许可信息。该技术另一好处是，无需任何程序，CSS 的 @font-face 可以直接引用该字体，而 @font-face 正被几乎所有浏览器所支持。<br> <br>
+其它方案
+<br> <br>除了 .webfont ，<a href="http://blog.typekit.com/2009/05/27/introducing-typekit/">Typekit</a> 也是一种值得关注的方案，简单说，就是将字体放在第三方服务器上供调用。
+<br> <br>你向 Typekit 付费使用某个字体，他们给你一段 JavaScript 代码嵌入到你的网页即可，比如：
+<br> <br> <tt>#introduction .one p </tt> <tt> <strong>{</strong> <br>font-family:"skolar-1","skolar-2","Palatino","Ge orgia","Times","serif";<br> <strong>}</strong> </tt>
+<br> <br>以下是一个 Typekit 的实例（<a href="http://forabeautifulweb.com/">http://forabeautifulweb.com/</a>）：
+<br> <br> <a href="http://forabeautifulweb.com/"> </a>
+最后的思考
+<br> <br>我们需要一致意见，然而一致意见只能通过妥协获得。字体业并没有一个行业协会可以投票通过某个决议，最接近的办法是<a href="http://typegirl.tumblr.com/post/142912558/most-of-the-important-foundries-are-supporting-webfont">找出所有支持 .webfont  的字体公司</a>。尽管 .webfont 存在安全问题，然而绝大多数重量级字体公司都支持 .webfont，见  @<a href="http://twitter.com/typegirl">typegirl</a> 的 Twitter 消息 <a href="http://typegirl.tumblr.com/post/142912558/most-of-the-important-foundries-are-supporting-webfont">Most of the important foundries are supporting #webfont</a>。
+<br> <br>如果最终无法达成一致，.webfont 将永远停留在提案阶段，如果达成一致，我们在浏览器中看到 .webfont  的最早时间恐怕也要2011到2012年。最终不管哪个方案获胜，那些字体设计师们也要抓紧时间，多数字体目前还没有为在屏幕上显示进行优化，如果他们要和那些已经做了优化的字体（如 Verdana）竞争的话，他们前面的工作还很繁重。
+<br> <br> <strong>本文国际来源：<a href="http://ilovetypography.com/2009/07/20/web-fonts-%E2%80%94-where-are-we/">http://ilovetypography.com/2009/07/20/web-fonts-%E2%80%94-where-are-we/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站</strong>"
+➜谷歌如何被“消毒”
+https://www.solidot.org/story?sid=12477	7200
+一个月前，谷歌中国经历了一场史无前例的<a href="__SLASHLINK__" sect="it" sid="09/06/19/0134216" sn="article" tid="26">色情审查风暴</a>。财经网的<a href="http://magazine.caijing.com.cn/templates/inc/chargecontent2.jsp?id=110199960&amp;time=2009-07-20&amp;cl=106">一篇报道</a>(浏览需注册)讲述了这一经过：以下引用该文：<i>
+被责令整改后，谷歌...重新设计了Google.cn的主页，包括去除“语言”和“地域”两个按钮...谷歌中国的数百名工程师和销售人员紧急转向，放下手里的工作，转头去做黄色信息的过滤和筛查...面对数千亿的网页，简单的人工识别方案最先被谷歌否定。谷歌为了从源头上屏蔽不良信息，紧急设计了一个名为“机器学习”的系统。这个系统通过已知的不良网站和关键词，跟踪访问过这些网站和关键词的用户，再顺藤摸瓜了解这些用户同时搜索了哪些关键词和网站，以便找到更多的不良网站。在此基础上，再利用人工筛选和审核，谷歌确认了更多的色情网站信息和关键词信息。谷歌公司人士说，目前谷歌已经确认了数万个黄色网站和关键词，并已屏蔽了数百万个黄色网页。程序可以识别关键词，对于图片却无能为力，图片识别技术是业界公认的难题。对此，谷歌计划推出一个类似网民举报的系统。当用户发现不良图片之后，可以通过点击举报，而后谷歌会通过人工筛选的方式来作出判别....谷歌仍在等待有关部门的正式处罚决定。</i>
+<a href="http://www.ctochina.net/">ctochina.net</a> 写道 "刚发现<a href="http://www.google.cn/">google中国</a>首页“登陆”链接丢失，不知何故？"另网易报道，谷歌中国考虑 <a href="http://tech.163.com/09/0720/17/5EMC5HMO000915BF.html">向CCTV投放广告</a>。
+➜发现感染猪流感，中国隔离百名英国师生
+https://www.solidot.org/story?sid=12478	9900
+BBC<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8150000/newsid_8157800/8157826.stm">报道</a>，英国驻华使馆证实有8名（现已增至9名）在华英国中学生被确诊感染了甲型H1N1流感，中国卫生部门在北京一家酒店<a href="http://chinese.wsj.com/gb/20090721/bch081937.asp?source=UpFeature">隔离了107名来访的英国师生</a>。<i>
+在北京参加排球夏令营的一群美国学生也被隔离在同一座酒店中，不过一些人周一已经解除了隔离.美国大使馆发言人史蒂文森(Susan Stevenson)说，大使馆没有在中国被隔离的美国人总数，但她说知道目前有几起隔离的情况。史蒂文森说，自中国5月初对甲型H1N1流感采取隔离措施以来，约有1,800名美国人曾在中国受到隔离，有200人的检测结果为阳性。中国卫生部上周五说，已经报告了1,537例甲型H1N1流感病例，这是目前能得到的最新统计数据。没有人因这种疾病死亡。</i>
+➜丢失新一代苹果iPhone样机，员工跳楼自杀
+https://www.solidot.org/story?sid=12479	11520
+苹果正在研发第四代iPhone手机N90，由富士康公司代工生产。根据苹果的传统，新手机的研发工作是高度保密的事情，因此当富士康寄给苹果16台样机，但苹果取样机的人却只收到15台，苹果怀疑富士康泄密，而负责邮寄的孙丹勇成为主要的调查对象。孙丹勇是哈工大2008年工商管理专业毕业生，为了表明清白，他于2009年7月16日凌晨从12楼跳楼自杀。根据《南方都市报》的<a href="http://gcontent.nddaily.com/8/1d/81dc9bdb52d04dc2/Blog/c76/7a6c0a.html">报道</a>，孙丹勇在自杀前与朋友通过短信交谈，声称在接受调查时遭到非法搜查、禁闭和殴打。富士康表示将对此事展开调查。
+➜微软在GPL下发布Linux设备驱动程序
+https://www.solidot.org/story?sid=12480	14040
+<a href="http://szlug.org/">权相龙</a> 写道"Microsoft为了让Hyper-V能够运行Linux系统，<a href="http://arstechnica.com/microsoft/news/2009/07/microsoft-aims-at-vm-market-with-linux-kernel-code-offering.ars">开发了Hyper-V的Linux驱动</a>，在GPL下为Linux Kernel贡献20,000代码。"
+<i>
+过去，比尔盖茨认为自由软件运动是共产主义，是反美的，如今后盖茨时代的微软却<a href="http://news.slashdot.org/story/09/07/20/1643251/Microsoft-Releases-Linux-Device-Drivers-As-GPL">宣布</a>在GPLv2许可证下发布了Hyper-V Linux Integration Components (LinuxIC)。当然如果没有释放源代码，设备驱动被Linux kernel接受的机会不大。这一行动反映了微软试图通过低价逐步侵蚀虚拟技术竞争对手的市场份额，微软或许意识到，要对付开源的虚拟技术对手如Red Hat(KVM)、Novell(XEN)，它也必须开放。微软表示它在三大关键领域内<a href="http://www.microsoft.com/presspass/features/2009/Jul09/07-20LinuxQA.mspx">有兴趣使用开源</a>：1）让它的软件开发进程更高效；2）产品宣传；3）使用开源代码能减少市场营销和销售成本，或试验用户以前从未见过的新特性。</i>
+➜文化部审核通过《魔兽世界》
+https://www.solidot.org/story?sid=12481	16080
+liuw 写道<i>"<a href="http://www.ccnt.gov.cn/">文化部</a>审核通过《魔兽世界》，虽然我从来没玩过，但是还是来凑一下热闹吧。看<a href="http://221.192.131.21/gamepage.do?gamesign=gameallnumber">这里</a>。余下请自由发挥。"</i>
+文化部的网上申报及进度查询系统显示《魔兽世界》于今日<a href="http://news.google.com/news?hl=zh-CN&amp;q=%E6%96%87%E5%8C%96%E9%83%A8%E5%AE%A1%E6%A0%B8%E9%80%9A%E8%BF%87WOW&amp;lr=&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;tab=wn">通过</a>游戏内容审核（文化部网站目前出现了访问问题）。
+➜台湾清华大学研发出类太阳光的OLED
+https://www.solidot.org/story?sid=12482	19920
+宅男待在室内也可晒成阳光男！台湾清华大学材料系教授<a href="http://www.mse.nthu.edu.tw/~jjou/">周卓辉</a>率领的研究团队，开发出了全球唯一<a href="http://www.libertytimes.com.tw/2009/new/jul/16/today-life2.htm">类太阳光的有机发光二极管（OLED）</a>，可模拟一天中从日出晨曦到日落余晖的色温。<a href="http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&amp;id=APPLAB000095000001013307000001&amp;idtype=cvips&amp;gifs=yes">研究成果</a>(全文可免费阅读)发表在《应用物理快讯》上。<i>
+周卓辉解释，<a href="http://zh.wikipedia.org/wiki/%E8%89%B2%E6%B8%A9">色温</a>是指金属由熔化开始到最高温度时所呈现的颜色，计量单位以凯式（K）为单位，不同的色温会呈现不同的颜色，例如红橘色、黄色、蓝色等，地球上一天二十四小时色温不尽相同，例如日出色温约三千K、日落两千五百K、正午五千五百K等。OLED类太阳光可有两千三百到八千两百K的色温变化，能够完全模拟成户外光线，和一般灯泡只能呈现单一色温、显示明暗截然不同，且制作成本只比LED高出两倍左右，可应用在物理、工程、照明、摄影、心理及医学等领域。有研究人员认为缺乏日照，可能造成人体内褪黑激素跟着改变，影响情绪起伏波动，或感到焦虑忧郁，增加日照可改善忧郁症、失眠等状况。在缺乏日光的北欧国家，透过这项技术，可在室内模拟出完整的日出、日落。</i>
+➜The Onion宣布被鱼完美收购
+https://www.solidot.org/story?sid=12483	22320
+美国最好的新闻来源<a href="http://en.wikipedia.org/wiki/The_Onion">The Onion</a>(中文名洋葱)<a href="http://www.theonion.com/content/columnists/well_ive_sold_the_paper_to">宣布</a>被中国公司鱼完美（<a href="http://www.yuwanmei.com/home_ch">Yuwanmei</a>）收购。The Onion表示现在是鱼时刻（<a href="http://www.theonion.com/content/news/american_consumer_masses_agree_it?utm_source=a-section">Fish Time</a>）。The Onion<a href="http://www.theonion.com/content/news/china_strong?utm_source=a-section">称</a>中国无比强大，中国人很团结，军事实力无与伦比，经济充满活力，人民快乐幸福，年年有鱼。它的视频新闻也被冠名为“<a href="http://www.theonion.com/content/video/police_still_searching_for?utm_source=nav">鱼完美——今天现在</a>”。
+➜Lunar Lander诞生40周年
+https://www.solidot.org/story?sid=12484	25200
+2009年不仅是阿波罗11号登月40周年，它还是世界上第一款计算机模拟游戏<a href="http://en.wikipedia.org/wiki/Lunar_Lander_(video_game)">Lunar Lander</a>诞生<a href="http://games.slashdot.org/story/09/07/20/1447236/Forty-Years-of-Lunar-Lander">40周年</a>。Lunar Lander游戏很简单，就是操纵宇宙飞船避开障碍在月球表面安全着陆。<i>
+Lunar Lander最初是一位对阿波罗登月疯狂着迷的高中生Jim Storer用FOCAL语言编写的基于文本的计算机游戏，后被Eric Peters用BASIC语言重写，随后出现了无数个不同版本，运行在几乎每一个平台上，包括Atari街机，Apple II电脑，直至今日的iPhone。游戏的最初缔造者Jim Storer自从离开高中后，便把游戏忘的一干二净，根本不知道这款游戏是如此受欢迎，流传如此广。他后来在康奈尔大学学习计算机科学，在普林斯顿大学获得计算机科学博士学位，现在是Brandeis大学计算机科学教授。</i>
+➜ATM存在漏洞，可被黑客利用
+https://www.solidot.org/story?sid=12486	27000
+计算机网络公司Juniper的安全研究员Barnaby Jack，<a href="http://www.blackhat.com/html/bh-europe-06/bh-eu-06-speakers.html">原计划</a>在上个月拉斯维加斯举办的黑帽安全会议上<a href="http://www.technologyreview.com/computing/22966/">演示如何入侵ATM</a>（<a href="http://www.mittrchinese.com/zh/2009/0717/article_367.html">中文</a>），以证明多种不同型号的ATM存在安全隐患。但在ATM生产商的压力下，Juniper取消了<a href="http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Jack.pdf">演示</a>(PDF)。<i>
+演示将着重揭示运行Windows CE操作系统的设备所存在的弱点，其中包含ATM。安全专家对自动取款机中找到漏洞并不感到惊呀。2008年11月，一群盗贼使用假冒的员工薪资卡在数小时内从130台提款机中取出了900万美金。这个遍布于全球49个城市的行动，依靠黑客进入金融公司RBS全球支付（RBS WorldPay）的网络内部，重新加载卡片信息以便他们可以平均从每个账户提取9万美金。今年2月，第二大ATM生产商Diebold在一次咨询宣传中提醒用户，东欧的某些提款机已经被加载了恶意软件，可以从在自动取款机上进行的交易中盗取金融信息和密钥。微软建议Windows CE系统用作“低端现金分配的自动取款机”，而嵌入式Windows XP和Windows XP专业版用于全功能自动出纳机。软件巨头表示，嵌入式Windows XP是Windows嵌入式标准2009的最近版本，而Windows XP专业版更加安全。美国大约56%的ATM都运行某个版本的Windows操作系统。</i>
+➜网易和新浪的科技频道关闭
+https://www.solidot.org/story?sid=12487	27300
+<a href="http://tech.163.com/">网易科技频道</a>和<a href="http://tech.sina.com.cn/">新浪科技时代</a>在今天突然关闭。两个网站的官方未给出任何<a href="http://www.google.com/search?rlz=1C1CHMG_zh-CNCN291CN305&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=%E7%A7%91%E6%8A%80%E9%A2%91%E9%81%93+%E5%85%B3%E9%97%AD">解释</a>。目前点击这两个网站的科技频道都被自动转向到各自的新闻首页。不知何时才会恢复正常。
+<i> <a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道"可能是因为与报道<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8150000/newsid_8158700/8158759.stm">此事</a>有关。（<a href="http://www.google.com/search?q=%E6%B8%85%E5%8D%8E%E5%90%8C%E6%96%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E6%B6%89%E5%AB%8C%E5%90%91%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E8%A1%8C%E8%B4%BF">搜索</a>，<a href="http://wmr2011.googlepages.com/ting.png">截图</a>）"</i>
+➜Valve提议让粉丝资助游戏开发
+https://www.solidot.org/story?sid=12488	29880
+Valve的Steam颠覆了传统的游戏零售模式，现在它又计划颠覆传统的游戏开发模式。传统的游戏开发流程是：首先开发者将创意递交给发行商，如果发行商感兴趣，它将冒着很大风险投资数百万美元资助游戏开发，很多时间这种投资都是打了水漂。<i>
+因此Valve的设想是让社区——也就是每一位游戏粉丝——<a href="http://kotaku.com/5318368/valve-let-fans-fund-games-development">资助游戏开发</a>。Valve认为一款游戏开发伊始，便需要准备好1千万到3千万美元，相关的风险实在太大了，开发决策将不得不变得极为保守。如果让游戏玩家拿出一点点钱投入开发，积少成多，开发者的风险减轻了，无需看发行商的脸色，他们将能开发出更具有创新的游戏，而玩家的回报是获得游戏完成后的一份拷贝。</i>
+➜中国一孩子喝汽油学变形金刚
+https://www.solidot.org/story?sid=12489	31500
+四川省宜宾市兴文县一个14岁男孩，看到《变形金刚》中的“擎天柱”“大黄蜂”喝汽油后能增加能量，于是从5年前开始偷喝汽油，试图获得变形金刚们的能量，结果<a href="http://www.slashfilm.com/2009/07/20/kid-drinks-gasoline-to-be-more-like-the-transformers/">喝汽油成瘾</a>（新浪<a href="http://news.sina.com.cn/c/2009-07-20/045015979227s.shtml">报道</a>）。<i>
+由于汽油中含铅，而铅会对大脑造成严重损害，因此这位正处于发育阶段的男孩变得智力低下，连7加7等于多少，一年有多少个季节都不知道。宜宾市第四医院医生彭厚全说，喝汽油成瘾是一种“挥发性有机容器所致精神障碍”，对汽油的依赖，已使其严重成瘾患病，医院过去曾收治过“酒精依赖”“药物依赖”“泥土依赖”等病症，但“汽油依赖”还是第一次遇到。</i>
+➜RIAA发言人称DRM濒临绝迹
+https://www.solidot.org/story?sid=12490	33120
+RIAA承认DRM不受欢迎，<a href="http://yro.slashdot.org/story/09/07/20/0021247/RIAA-Spokesman-Says-DRM-Is-Dead">它留在世上的时间屈指可数</a>。<i>
+虽然互好莱坞在电影和电视节目的在线发行中仍然广泛应用DRM防拷贝技术，但Applie iTunes，Amazon.com，RealNetworks和其它在线音乐商店出售的都是唱片公司提供的无DRM音乐。RIAA发言人Jonathan Lamy称，可下载的音乐服务现在事实上已不再使用DRM。DRM的反对者称DRM施加的限制推动消费者使用P2P网络，而支持者表示DRM是防止非法拷贝所必要的。</i>
+➜旅行社推出“上海塌楼游”
+https://www.solidot.org/story?sid=12491	34080
+《南方都市报》<a href="http://gcontent.nddaily.com/3/fe/3fe78a8acf5fda99/Blog/2bd/1f8421.html">报道</a>，<a href="http://www.17u.com/expert/webshop/index59354.html">辽宁凤凰旅行社</a>推出了“华东五市+乌镇，赠送上海倒塌楼房双飞六日游”的特别旅游路线。<i>
+广告称六日游的最后一天“早餐后，参观上海倒塌楼房，看世间人情冷暖，看史上最强豆腐渣工程，看官商勾结利欲熏心，看房奴人生百态，看玻璃为啥一块都没碎，这是为什么呢！根据航班时间乘机返回沈阳温暖的家。结束这华东五市六日游！ 6天双飞特价只需1530元。”</i>
+➜Google下滑，广告主受益
+https://www.solidot.org/story?sid=12492	36000
+<a href="mailto:PMagician@semwatch.org">无袍魔法师</a> 写道 "<a href="http://semwatch.org/">SEM WATCH</a>报道：Google 前不久发布了Q2的收益报告，大大超出了分析的预估。但并不是所有的消息都是好消息，至少对于 Google 来说不全是。付费点击业务部分，Google 的表现趋势是不健康下滑的：整体付费点击比 Q1下降了2%，更重要的是，Q2 的平均 CPC 比去年同期下降13%。SEM解决方案提供商 Efficient Frontier 的客户指数数据证实了这一下滑趋势在Google的核心业务里表现得非常明显。根据 EF 广告客户的情况来看，Q2里 CPC下降了20-31%。Google CPC 下降比率为31%，Bing和Yahoo分别是30%和20%。EF表示广告主其实获利最多。例如， 在英国，广告主们“可以在 ROI提升2%的情况下年同比减少11％ 的投入。在美国，情况更为可观。广告主们可以年同比减少 21% 的投入却已然能获得惊人的 29% 的 ROI 增长。”           原因很好理解：
+<ul>
+<li>付费点击的下滑减少了广告主之间的竞争。所以CPC也同时降了下来。</li>
+<li>广告主对于广告管理有了更多的领悟和理解，所以让帐户表现得更高效更划算。</li>
+</ul>
+EF 的 Jonathan Beeston 说：“ 我们可以发现广告主们让他们的搜索营销预算比以往任何时候用得更彻底。”
+<br> <br>
+不用说，如果 Google 还一直保持这种表现，绝对不是什么好消息。并且极有可能影响 Yahoo 和 Bing。 但从长期来看，当经济反弹复苏时 CPC 显然应该上升，广告主们日益增长的投机和世故心态恐怕会抵制 CPC 的突然反弹。
+<br> <br>
+从上述数据中能提炼出的一个很重要的信息就是：“ CPC 很低的现在，对于广告主来说是重新评估他们广告活动效力的绝佳时机。” 很显然，现在不是削减大的广告投入的时候。倘若小心谨慎的管理好帐户，聪明的公司则会在这个艰难时期得到以较少代价提升公司业务的机会。
+<br> <br>
+然而，这也可能是个陷阱，EF的广告客户们五月六月都增加了预算，Google 报告表明 Q1 到 Q2，平均 CPC 增加了5%。所以如果经济复苏的讯号是真的，这一低 CPC，高 ROI 的广告机会怕是也不长了。
+<br> <br>
+参考文章：<br>
+1: <a href="http://www.marketingpilgrim.com/2009/07/google-earnings-not-all-good-news.html">Google Earnings: Not All Good News?</a>
+<br>
+2:<a href="http://econsultancy.com/blog/4241-recession-trend-more-clicks-lower-cpcs-higher-roi"> Recession trend: more clicks, lower CPCs, higher ROI</a>
+"
+➜韩国开始部署克隆缉毒犬
+https://www.solidot.org/story?sid=12493	36600
+据BBC<a href="http://science.slashdot.org/story/09/07/20/1312257/South-Korea-Deploys-Cloned-Drug-Sniffing-Dogs">报道</a>，韩国海关已在主要机场和边界部署“<a href="http://www.sciencenet.cn/htmlnews/2009/7/221655.shtm">世界上第一批克隆缉毒犬</a>”。这6只缉毒警犬2007年克隆自一只加拿大缉毒犬，它们在完成16个月的训练后顺利上岗。
+<i>
+这6只缉毒犬由科学家2007年克隆自加拿大警犬“菜斯”，当时共生下7只小狗，都被训练用于缉毒查毒，然而其中一只因为受伤退出。自然出生的狗只有约30%能被训练成合格的缉毒犬，但是，韩国科学家称，使用克隆方法合格率可增到90%。汉城仁川国际机场的海关发言人说：“它们是世界上第一批上岗的克隆警犬。它们的表现良好，在训练中它们检测毒品的能力优于其他自然出生的警犬。”</i>
+➜尼葛洛庞帝视Sugar为OLPC最大的错误
+https://www.solidot.org/story?sid=12494	38520
+在一次<a href="http://www.zdnetasia.com/insight/hardware/0,39043471,62056166,00.htm">采访</a>中，每个孩子一台笔记本项目（OLPC）的创始人尼葛洛庞帝（Nicholas Negroponte）表示基于Red Hat的<a href="http://zh.wikipedia.org/wiki/Sugar">Sugar</a>桌面环境是OLPC犯下的<a href="http://linux.slashdot.org/story/09/07/20/1628228/Negroponte-Sees-Sugar-As-OLPCs-Biggest-Mistake">最大错误</a>，尼葛洛庞帝表示应该让Sugar作为一个应用程序运行在普通的Linux操作系统上。<i>
+Sugar桌面环境参与了太多的任务，如电源管理，无线管理，甚至与BIOS直接联系，所以Sugar变得过于杂乱。尼葛洛庞帝称有90多万XO笔记本交到了全世界31个国家的孩子手中，有23万正在交付，还有60万XO笔记本积压订单。但OLPCNews认为<a href="http://www.olpcnews.com/people/negroponte/olpc_biggest_mistake_sugar.html">Sugar不是错误</a>，而是一个革命性的工具，一个孩子能轻松上手的桌面。</i>
+➜伊朗用于审查互联网的五大技术
+https://www.solidot.org/story?sid=12495	40320
+选举舞弊引发了伊朗公民大规模的抗议，而互联网则成为伊朗年轻街头抗议者的重要联络手段，压制互联网是伊朗政府镇压叛乱的重要一环。拜外国电信制造商所提供的先进设备所赐，加上经验的丰富，伊朗政府从最初生硬的且无效的互联网审查，到能利用先进工具阻止不同政见者与外界交流。与此同时，一群同情他们的黑客组织也在努力向他们提供穿透封锁的工具。其中一个组织便是ESR<a href="__SLASHLINK__" sect="internet" sid="09/06/30/1049219" sn="article" tid="120">创立的NedaNet</a>，帮助伊朗人民建立匿名代理网络。<i>
+NedaNet项目协调员Morgan Sennhauser刚刚发表了一份<a href="http://emsenn.com/SoIN.pdf">报告</a>(PDF)，介绍了<a href="http://yro.slashdot.org/story/09/07/20/2211214/Five-Technologies-Iran-Is-Using-To-Censor-the-Net">伊朗审查互联网的最新努力</a>，称伊朗政府意外的强大令黑客们也感到吃惊，某些技术甚至连东亚一个国家也没有采用。伊朗使用的屏蔽技术包括：IP封锁；流量分类（QoS），限制某个端口的带宽；浅度包检测（Shallow Packet Inspection，SPI），与深度包检测技术不同之处是SPI只检查数据包报头；数据包指纹；深度包检测/内容过滤。</i>
+➜7层木屋能承受里氏7.5级地震
+https://www.solidot.org/story?sid=12496	43200
+7月14日，在日本<a href="http://www.bosai.go.jp/hyogo/ehyogo/">兵库地震工程研究中心</a>进行的一项测试中，来自五所大学的研究人员用世界上最大的<a href="http://www.youtube.com/watch?v=O2XMfOXVOvo">振动台</a>模拟了里氏7.5地震。7层、由百万磅木头搭建的公寓在强烈震动中<a href="http://www.inhabitat.com/2009/07/20/wooden-house-can-withstand-severe-earthquakes/">仍然屹立不倒</a>，仅仅遭受了一些细小损伤。
+<i>
+研究人员表示，为了抵挡摇晃，他们改变了公寓的钉子分布，以便更好地在不同楼层之间分配刚度，他们还考虑了地震发生中间的结构压力变化。设计师通常使用昂贵而且复杂的建筑材料，如柔韧性混凝土和合金，去建造抗震结构，但在这项试验中，研究人员唯一使用的材料是木材。木材的价格便宜，具有可持续性，因此能在包括贫穷国家在内的世界任何地区使用。</i>

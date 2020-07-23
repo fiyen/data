@@ -1,0 +1,56 @@
+➜Windows 95首席架构师爱上了苹果
+https://www.solidot.org/story?sid=7127	900
+<a href="mailto:liuj@turingbook.com">Liujiang</a> 写道 "来自<a href="http://cultofmac.com/microsofts-windows-95-architect-is-a-happy-mac-convert/2342">cultofmac.com的报道</a>，Windows 95的首席架构师Satoshi Nakajima两年前第一次买了一台Mac，从此一发不可收拾，深深爱上了苹果产品，再也没有碰过PC机。今年四月，他创办了一家专门为iPhone开发程序的公司，名为Big Canvas。
+<i>他在接受采访时说，苹果产品的外观和感觉的确非常吸引人，而且很容易上瘾。他还谈到苹果目前的iPhone+AppStore的模式非常合理，而且iPhone的API为手机进行了专门优化，而相比之下，Windows Mobile就只是简单地把Windows搬到手机上而已。他也在观察Google Android，但目前对于软件开发商而言，还不是进入的时机。"</i>
+➜气候变化威胁人权
+https://www.solidot.org/story?sid=7128	1800
+<a href="http://talk.blogbus.com/">shizhao</a> 写道<i> "国际人权政策理事会（ICHRP）的一份<a href="http://www.ichrp.org/files/reports/36/136_report.pdf">报告</a>指出，气候变化将会直接或间接地威胁几乎所有<a href="http://zh.wikipedia.org/w/index.php?title=%E4%BA%BA%E6%9D%83&amp;variant=zh-tw">人权</a>，包括粮食、健康和生计的权利。但是迄今为止它们几乎没有在政策上受到重视。
+<a href="http://www.scidev.net/zh/news/zh-132566.html">报告说</a>，旨在改善气候变化的项目可能产生次生影响，这可能伤害人们并妨碍人权。一个可能在全球范围造福社会的项目可能伤害少数人或者生活在特定环境中的群体的福利。"</i>
+➜Firefox如何影响其它浏览器
+https://www.solidot.org/story?sid=7129	2700
+Mozilla的“布道者”Christopher Blizzard在一次采访中谈论了Firefox的未来和它<a href="http://derstandard.at/?url=/?id=1216325195040">如何影响其它浏览器</a>。<i>
+“想来有几分有趣，我们的部分战略是确保我们能继续作出改变，它的间接影响是微软不得不继续发布新的IE，因为如果我们领先的太多，他们将无法赶上，无法保留自己的用户，我们将驾驽着这个平台。我的意思是，我们常常开这么一个玩笑“Internet Explorer 7是我们曾经发布的最好版本”，因为如果没有Firefox，微软是不可能这么快推出IE7的。这种影响也同样发生在苹果身上，他们正在紧跟着我们。Safari 3.1就是很好的例子，据我们看来，他们发布3.1版的唯一理由是Firefox 3即将推出，其Javascript速度是现有Safari的两倍。因此通过推动其他人发布新版本的浏览器，我们将继续我们的使命，设法让web保持健康。”</i>
+➜DNS 漏洞细节被泄露，攻击即将开始
+https://www.solidot.org/story?sid=7130	3600
+<a href="http://www.comsharp.com/">35公里</a> 写道 "尽管 Dan Kaminsky 努力掩盖他所发现的 DNS 严重漏洞的细节，Matasano 安全公司的一个员工还是在他的博客上<a href="http://blog.wired.com/27bstroke6/2008/07/details-of-dns.html">泄露了这些资料</a>，虽然<a href="http://www.matasano.com/log/1103/reliable-dns-forgery-in-2008-kaminskys-discovery/">文章被立即删除</a>，但已经有人<a href="http://blog.invisibledenizen.org/2008/07/kaminskys-dns-issue-accidentally-leaked.html">拿到了这些资料</a>，并<a href="http://beezari.livejournal.com/141796.html">发表在别的地方</a>。Kaminsky 在他的博客上发表了一个<a href="http://www.doxpara.com/?p=1176">紧急消息</a>，赶快打补丁，别睡觉，使用 OpenDNS...           HD Moore，Metasploit  的作者说，黑客们正在加紧制作攻击工具，今天的晚些时候会有攻击出现。本月初，IOActive 的 Kaminsky <a href="http://www.techworld.com/security/news/index.cfm?newsid=102110">公布了 DNS 系统的一个非常严重的漏洞</a>，该漏洞会导致攻击者轻松地伪造任何网站，银行网站，Google，Gmail 以及其它 Web 邮件网站。 <br> <br>Kaminsky 是在同多个 DNS 系统商共同开发安全补丁的时候发现了这个漏洞。Kaminsky 在记者会宣布了这个由多家厂商共同开发的 DNS 补丁，并呼吁 DNS 服务器所有者立即更新他们的系统。 <br> <br>但 Kaminsky 在宣布这个漏洞的时候，没有透露相关技术细节，以便 DNS 系统管理员知道其严重性，Kaminsky 承诺会在下月的 Las Vegas 黑帽安全大会上透露漏洞细节，在这之前，他给 DNS 系统管理员预留了一个月的时间升级系统。Kaminsky 同时恳求那些安全专家不要试图猜测漏洞的细节，但很多人将他的恳求当作一个挑战。 <br> <br>德国的安全专家 <a href="http://blog.wired.com/27bstroke6/2007/07/german-security.html">Halvar Flake</a> 最先发表了漏洞细节，Kaminsky 曾被要求私下里公布细节，帮助那些系统管理员升级系统，同时，一些系统管理员以及安全专家指责 Kaminsky  是在拿那些过去的众所周知的 DNS 漏洞炒作。 <br> <br>Matasano 的创始人Thomas Ptacek  也曾置疑过 Kaminsky 的发现，然而当 Kaminsky  私下里向他透露过漏洞细节之后便不再出声。Ptacek 并没有参与漏洞细节的公布，但作为 Matasano 的创始人，他仍然<a href="http://www.matasano.com/log/">发表了一个声明为这件事道歉</a>。 <br> <br>Kaminsky 发现的 DNS 漏洞会让黑客在 10 秒之内发起一个“缓存毒药攻击”，使 DNS 服务器将用户引导到恶意网站。Kaminsky 说，这是一个非常严重的 Bug，会影响到任何网站，Kaminsky 不打算向 Matasano 追究到底细节到底是如何泄露的，但呼吁人们立即升级 DNS 系统。
+➜NIA人机接口，大脑控制游戏
+https://www.solidot.org/story?sid=7131	4200
+电子制造商<a href="http://www.ocztechnology.com/">OCZ Technology</a>首次真正的让人机接口设备从实验室走到零售市场，他们主要瞄准的是游戏玩家。该设备被命名为NIA，取“神经脉冲制动器（<a href="http://www.hothardware.com/Articles/OCZ_NIA_BrainComputer_Interface/">Neural Impulse Actuator</a>）”的首字母。它取代了按钮，操纵杆，陀螺仪和运动传感器，直接读取大脑的神经信号，将其转换成计算机命令，以用于控制电脑游戏。对于<a href="http://www.hothardware.com/Articles/OCZ_NIA_BrainComputer_Interface/">NIA的评测</a>显示该产品确实如宣传的一样，经过少量训练，举例来说，它就能提供比标准游戏控制器更快的反应时间，区别是显而易见和直观的。
+➜中国正努力清洁奥运会天空
+https://www.solidot.org/story?sid=7132	5700
+离奥运会举行还有不到三周的时间，<a href="http://news.slashdot.org/article.pl?sid=08/07/21/1443236">北京正开动马力展开反污染行动</a>。通过限制公路上的汽车数量，扩容公共交通和交错工作时间，以实现“绿色奥运”的誓言。由于担心游客和运动员遭遇呼吸问题，北京正进行着一次昂贵的狂欢，迁移工厂，播撒干冰云，退役旧的交通工具，种植数百万棵树，暂停正在建造的建筑物。在接下来的两个月里，北京330万汽车的拥有者只能根据牌照上最后数字的奇偶性轮流驾驶外出。到目前为止环境和体育成绩专家<a href="http://news.scotsman.com/opinion/Beijing39s-smog-takes-shine-off.4306824.jp">仍然怀疑这些措施的效果</a>。Andy Jones博士说，“可论证的是这些都是短期性的措施，仅仅是计划控制奥运会期间的空气质量。”Angus Hunter博士警告如果空气质量未达到可接受的程度，运动员的成绩可能不会很理想。平均完成时间可能较低，打破世界记录的机会可能较少。如果体育馆充满吸烟者，在房间里锻炼可能更好一点。
+➜移动平台的浏览器之争
+https://www.solidot.org/story?sid=7133	8400
+新一代的移动平台浏览器正在让<a href="http://www.networkworld.com/news/2008/072108-mobile.html?ts0hb=&amp;story=ts_mb">掌上设备的web之梦变为现实</a>。最新的例子是上周发布的<a href="http://www.opera.com/products/mobile/">Opera Mobile 9.5</a>的beta 版，一个高端智能手机的原生浏览器。这是Norwegian软件公司的又一次惊人之举，它只比Apple的捆绑了强大Safari浏览器的iPhone 3G上市晚几天。移动平台的其它新参与者还有Mobile Firefox和Skyfire，预计将在年末发布，至少会有beta版释出。但是先进的移动浏览器只是整幅画的一小部分。移动浏览受客户硬件的限制，然而从处理器到使用的不同无线网络，所有这些都在迅速的进步。它还影响到了试图以移动用户为服务对象的网站设计，它们需要为移动平台特别优化。
+➜中国居民乐观情绪大幅上升
+https://www.solidot.org/story?sid=7134	16320
+<a href="http://chinese.wsj.com/gb/20080723/bch105926.asp?source=whatnews1">《华尔街日报》</a>报道，皮尤研究中心(Pew Research Center)进行的<a href="http://pewglobal.org/reports/display.php?ReportID=261">一项大规模国际舆论调查</a>显示，绝大多数受访的中国城市居民都对国家的经济和政治成就感到高兴，他们的国家满意度也高出其他国家的居民。Pew此次中国调查主要面向较富裕城市的居民。调查显示，有82%的受访者认为，在共产党实行改革开放政策（推动市场自由化并放松政治控制）三十年后，中国目前经济形势“良好”，有86%的受访者表示对政府带领国家的发展方向表示满意，相比较下2002年这两个数字分别是52%和48%。<i>
+在此次皮尤全球态度调查(Pew Global Attitudes Project)的两个指标中，中国受访者的满意程度远远超过排在第二位的澳大利亚，两项指标较澳大利亚均领先两位数。在今年调查的24个国家中，美国排在第20位。在对美国人的调查中，有两成受访者认为美国经济形势良好，23%的人表示政府方向正确。调查反映出的中国人自己较高的满意程度凸显了世界看中国和中国人看中国之间存在严重的认知差距。许多中国人认为，中国比以往任何时候都更加繁荣自由。但许多西方人则将焦点放在中国长期的侵犯人权与社会不公的问题上，用他们自己的社会标准来衡量中国。</i>
+<a href="http://pewglobal.org/reports/pdf/261.pdf">调查报告全文</a>（PDF）
+➜第一种基于纸的晶体管
+https://www.solidot.org/story?sid=7135	21300
+葡萄牙的研究人员创造了<a href="http://blogs.zdnet.com/emergingtech/?p=987">第一种基于纸的晶体管</a>，更精确的说法是第一种基于纸的场效应晶体管（<a href="http://en.wikipedia.org/wiki/Field-effect_transistor">field effect transistors</a>，FET）。研究小组称，新晶体管的性能与以玻璃和晶体硅为基板的基于氧化物的<a href="http://zh.wikipedia.org/w/index.php?title=%E8%96%84%E8%86%9C%E9%9B%BB%E6%99%B6%E9%AB%94&amp;variant=zh-hans">薄膜晶体管</a>（TFT）相似。它的可能应用包括新的一次性使用电子设备，如纸显示屏，智能标签，生物应用或RFID标签。研究人员在纸的两边分别刻上晶体管，这样纸既可以作为电绝缘体又可作为基板使用。他们的研究论文将发布在9月份的《IEEE Electron Device Letters》杂志上。
+➜OpenSSH 5.1发布
+https://www.solidot.org/story?sid=7136	22800
+<a href="http://www.openssh.com/">OpenSSH</a>是使用SSH透过计算机网路加密通讯的实现，遵循SSH 1.3、1.5和2.0版协议。7月21日OpenSSH项目正式发布了<a href="http://lwn.net/Articles/291149/">最新的5.1版</a>。新特性包括在 ssh(1)和ssh-keygen(1)中试验性的引入SSH Fingerprint ASCII Visualisation，sshd_config(5)支持 CIDR address/masklen匹配等等，更多可见<a href="http://www.openssh.com/txt/release-5.1">发布公告</a>。<a href="ftp://ftp.openbsd.com/pub/OpenBSD/OpenSSH/portable/openssh-5.1p1.tar.gz">下载</a>。
+➜任天堂游戏手柄专利诉讼告败
+https://www.solidot.org/story?sid=7138	25200
+以后任天堂游戏手柄可能要和古董一样稀罕了，它与美国公司Anascape关于Wii和GameCube手柄上的Analog stick专利诉讼案<a href="http://www.1up.com/do/newsStory?cId=3168949">告败</a>，其手柄可能面临禁止销售。<i>
+诉讼案涉及任天堂经典手柄和 GameCube手柄上的<a href="http://en.wikipedia.org/wiki/Analog_stick">Analog stick</a>，德州公司Anascape声称任天堂侵犯了它持有的专利。法庭的判决有利于Anascape，美国地区法官Ron Clark拒绝了任天堂的上诉请求。Clark表示他将发布禁止销售任天堂手柄的禁令，其中还包括GameCube掌机。禁令从美国时间7月23日开始生效，除非任天堂签署协议或向第三者保管帐户支付版税。</i>
+➜AMD 发布 ATI Catalyst 8.7 Linux 驱动
+https://www.solidot.org/story?sid=7137	26400
+august 写道 "ATI Catalyst 8.6 在上月底放出，时隔一个月，AMD 面向 Linux 平台又发布了 ATI Catalyst 8.7 新版本显卡驱动。该版本主要添加了对 Ubuntu 8.04 和 SLED 10 sp2 这两个操作系统的支持。同时，ATI Catalyst 8.7 也引入了对 OpenSuse 11 及 Redflag DT 7.0 的初步支持。此外，一些 bug 也在此版本中得到了修复。更进一步的信息，可以查阅 <a href="https://a248.e.akamai.net/f/674/9206/0/www2.ati.com/drivers/linux/catalyst_87_linux.html">ATI Catalyst 8.7 发布公告</a>。你可以从这里<a href="http://www2.ati.com/drivers/linux/ati-driver-installer-8-7-x86.x86_64.run">下载 ATI Catalyst 8.7</a>。"
+➜科学家解开有毒水藻爆发之谜
+https://www.solidot.org/story?sid=7140	28800
+不可思议的37年试验之后，Alberta大学科学家David Schindler和他的同事最终确定了触发全世界无数湖泊和海岸<a href="http://www.canada.com/victoriatimescolonist/news/story.html?id=381d4ce5-89a2-4901-864e-34239419bf67">生态系统灾难的化学反应</a>。通过抽取北大略湖区域内的试验湖泊的多种污染物质，科学家找到了引起<a href="http://zh.wikipedia.org/wiki/%E6%B0%B4%E5%8D%8E">水华</a>的化学成分。Schindler表示，“磷是关键”。他的研究发表在最新一期的《美国科学院公报（<a href="http://www.pnas.org/content/current">PNAS</a>）》上。
+➜TechCrunch计划设计开源平板电脑
+https://www.solidot.org/story?sid=7141	31200
+著名科技博客TechCrunch宣布他们计划设计<a href="http://www.techcrunch.com/2008/07/21/we-want-a-dead-simple-web-tablet-help-us-build-it/">一种200美元的开源平板电脑</a>。Michael Arrington称自己很想要一个简单而便宜的触摸屏平板电脑用于网上冲浪。但它在现实中不存在，而他也不愿意等待，因此决心采用开源模式，设计一种人人都可创造和承担的平板电脑。
+<i>其基本设想是薄，低端硬件，一个电源按钮，内置摄像头，廉价喇叭，麦克风，Wifi和USB插口，电池内置，512MB RAM，4G固态硬盘，类似iPhone的触摸屏键盘，运行linux和Firefox。软件方面的想法是绕过任何桌面，直接启动Firefox，运行在<a href="https://addons.mozilla.org/en-US/firefox/addon/1659">Kiosk模式</a>下，它可有效的将浏览器变成操作系统。用Gears离线同步Google docs，email等等。用Skype进行语音通信，你将拥有一台和台式机一样有用的机器，但更廉价，比任何笔记本和平板电脑更易于携带。</i>
+➜不用对他说话就可以和他交谈
+https://www.solidot.org/story?sid=7142	34500
+经过长时间beta测试后，波士顿公司<a href="http://www.mobile-sphere.com/">MobileSphere</a>推出了<a href="http://www.xconomy.com/boston/2008/07/22/slydial-voicemail-service-offers-the-illusion-of-communication/">直接语音电子邮件服务</a>，它被称作Slydial。如果你身在美国，只要拨打267-759-3425，听10秒钟的语音广告，你就可以免费进入任何美国地区移动用户的语音收件箱，而不会让对方响起电话铃声。更神奇的地方是它可以帮助你避免与生活中那些难相处也很无聊的人直接通话。MobileSphere<a href="http://www.xconomy.com/boston/2008/07/22/mobilesphere-exec-says-slydial-combats-technology-with-technology/">负责营销的执行副总裁称</a>，该公司战胜了一个又一个的技术难题，帮助人们控制他们是否或什么时候与朋友，家人和同事交谈。
+➜iBeer-用iPhone喝啤酒
+https://www.solidot.org/story?sid=7139	34920
+<a href="http://kb24.cn/">viewtops</a> 写道 "你用你的iPhone干什么？打电话？Google Map？听歌？？？太圡了，现在都用它来喝啤酒！这段<a href="http://www.youtube.com/watch?v=A3MfQIswl3k">视频</a>（Youtube），可以动态的感受一下：你可以在iTunes上花3美元买到<a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%253A%252F%252Fax.phobos.apple.com.edgesuite.net%252FWebObjects%252FMZStore.woa%252Fwa%252FviewSoftware%253Fid%253D283914070%2526mt%253D8">iBeer</a>-这款在iPhone上的扩展应用。有了它，以后酒桌上就什么都不怕了。
+iPhone的屏幕脏了？你还可以用iWash让比基尼美女为你<a href="http://www.youtube.com/watch?v=bqkKhh45df8">擦洗</a>。"

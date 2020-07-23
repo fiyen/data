@@ -1,0 +1,83 @@
+➜复旦大学研究团队发布开源H.265 Video Encoder IP Core
+https://www.solidot.org/story?sid=50838	6891
+<a href="http://www.openasic.org">匿名读者</a> 写道 <i>"开源H.265 硬件视频编码器H.265 Video Encoder IP Core 是开源的H.265硬件视频编码器，实现了H.265（或叫HEVC）的大部分功能。它由<a href="http://fudan.edu.cn/" rel="nofollow">复旦大学</a><a href="http://me.fudan.edu.cn/" rel="nofollow">专用集成电路与系统国家重点实验室</a>（State Key Lab of ASIC &amp; System，Fudan University）<a href="http://soc.fudan.edu.cn/vip" rel="nofollow">视频图像处理实验室</a>（VIP Lab）<a href="http://soc.fudan.edu.cn/fanyibo.htm" rel="nofollow">范益波</a>教授研究团队开发完成，并开放源代码。任何组织个人可以无偿使用上述代码用于研究和生产目的，VIP Lab将会持续更新并维护H.265硬件视频编码器的开发。</i>
+<p></p>
+<!--more-->
+<p></p>
+基本FEATURE
+<ul style="box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+<li style="box-sizing: border-box; list-style-type: disc;">HEVC/H.265 Main Profile</li>
+<li style="box-sizing: border-box; list-style-type: disc;">YUV 4:2:0</li>
+<li style="box-sizing: border-box; list-style-type: disc;">Bitdepth 8</li>
+<li style="box-sizing: border-box; list-style-type: disc;">4K@30fps, 400MHz</li>
+<li style="box-sizing: border-box; list-style-type: disc;">GOP: I/P</li>
+<li style="box-sizing: border-box; list-style-type: disc;">CU: 8x8~64x64</li>
+<li style="box-sizing: border-box; list-style-type: disc;">PU: 4x4~64x64</li>
+<li style="box-sizing: border-box; list-style-type: disc;">TU: 4x4/8x8/16x16/32x32</li>
+<li style="box-sizing: border-box; list-style-type: disc;">1/4 Sub-pixel</li>
+<li style="box-sizing: border-box; list-style-type: disc;">Search range 32</li>
+<li style="box-sizing: border-box; list-style-type: disc;">All 35 Intra prediction mode</li>
+<li style="box-sizing: border-box; list-style-type: disc;">CABAC</li>
+<li style="box-sizing: border-box; list-style-type: disc;">Deblocking Filter</li>
+<li style="box-sizing: border-box; list-style-type: disc;">SAO</li>
+<li style="box-sizing: border-box; list-style-type: disc;">Rate control: CBR/VBR (Software)</li></ul>
+关于VIP LAB
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">复旦大学VIP实验室专注于从事下一代视频、图像硬件处器研究，包括超高清视频编码器（H.264/H.265 Video Encoder IP），图像去雾（Dehazing）处理器，双目视觉处理器（Stereo Matching）等。
+实验室网站&nbsp;<a href="http://soc.fudan.edu.cn/vip" rel="nofollow" style="box-sizing: border-box; color: rgb(51, 122, 183); text-decoration: none;">http://soc.fudan.edu.cn/vip</a></p>
+代码下载
+<p style="box-sizing: border-box; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"><a href="http://www.openasic.org/topic/6/h265-video-encoder-rtl-ip-core-version-1-0" rel="nofollow" style="box-sizing: border-box; color: rgb(51, 122, 183); text-decoration: none;">http://www.openasic.org/topic/6/h265-video-encoder-rtl-ip-core-version-1-0</a>(需要注册)
+"
+➜招财宝投资平台遭遇违约
+https://www.solidot.org/story?sid=50839	8815
+阿里巴巴旗下的支付公司蚂蚁金服投资平台<a href="http://cn.wsj.com/gb/20161223/fin074408.asp" target="_blank"><u>遭遇了一起企业债违约</u></a>，涉及金额超过3亿元，1.3万名投资者能否获得偿还尚属未知，而蚂蚁金服认为自己没有责任进行赔付，因为这些产品是第三方开发的。蚂蚁金服在2014年推出了投资平台<a href="https://zhaocaibao.alipay.com/pf/productList.htm" target="_blank"><u>招财宝</u></a>，侨兴集团通过该平台发行公司债券筹资超过10亿元，其中年收益7.3%的2年期债券已于12月15日到期，但该公司以近期流动性紧张为由违约。《华尔街日报》称，涉及这桩交易的至少四家公司正在就谁应为投资者负责互相推诿。行业管理人士称，在中国金融科技行业，企业之间由松散的关联关系相互联系，出现问题时难以确定责任方。
+➜大量手游尚未取得版号，从境外发行游戏绕过审批
+https://www.solidot.org/story?sid=50840	14307
+国家新闻出版广电总局在今年6月<a href="http://www.solidot.org/story?mode=flat&amp;sid=48461" target="_blank"><u>公布了</u></a>受争议的《关于移动游戏出版服务管理的通知》，《通知》从7月1日起执行，此后未经该局批准的手游，“不得上网出版运营”。已经上线的手游运营商需要在10月1日前补办相关审批手续，届时未补办相关审批手续的，“不得继续上网出版运营”。中国公司开发了数以万计的手游，广电后来也意识到手游公司来不及补办，因此将版号取得时限推迟到12月底。根据广电官网公布的<a href="http://www.gapp.gov.cn/govservice/1959.shtml" target="_blank"><u>游戏审批结果</u></a>，从7月到12月，只有2千多款手游获得批号，其余未获批号的手游<a href="http://cartoon.southcn.com/c/2016-12/22/content_162221804.htm" target="_blank"><u>怎么办</u></a>？手游开发商很快在通知中发现了<a href="http://epaper.21jingji.com/html/2016-12/08/content_52107.htm" target="_blank"><u>发行境外游戏的漏洞</u></a>，手游厂商选择通过在非中国地区上架游戏来达到规避版号申请，如期运营游戏的目的；或者通过申请国外账号，以一个境外开发者的身份来上架游戏。但这可能只能应付一时。
+➜比特币流通币值超过Twitter市值
+https://www.solidot.org/story?sid=50841	16304
+数字货币比特币的币值突破<a href="https://markets.blockchain.info/" target="_blank"><u>900美元</u></a>，流通币值突破了140亿美元，<a href="https://www.theguardian.com/business/2016/dec/22/bitcoin-circulation-hits-record-high-of-14bn" target="_blank"><u>超过了</u></a>Twitter的市值。比特币的这一轮升值被认为与中国人民币贬值有关，人民币的币值在过去一年下跌了7%。数据显示，绝大部分比特币交易发生在中国，需求的增加推动了币值的上升。比特币币值在2013年达到了创纪录的1,163美元，之后一路下滑，今年开始恢复上涨势头。
+➜美国国会报告称斯诺登与俄罗斯情报机构有接触
+https://www.solidot.org/story?sid=50842	18970
+美国国会的<a href="http://intelligence.house.gov/news/documentsingle.aspx?DocumentID=743" target="_blank"><u>一份报告</u></a>称，NSA告密者Edward Snowden自2013年抵达俄罗斯后与俄罗斯情报官员<a href="https://yro.slashdot.org/story/16/12/22/2040202/congressional-report-claims-snowden-in-contact-with-russian-intelligence" target="_blank"><u>有过接触</u></a>。Snowden曾是NSA的合同工，2013年与记者合作泄漏了NSA及其盟友的大规模监视行动。他一开始是在香港，随后转机莫斯科试图飞往南美，但因为护照被吊销而滞留在俄罗斯，最后从俄罗斯获得了政治庇护。众议院情报委员在这份报告中称，Snowden 抵达莫斯科后与俄罗斯情报部门一直有联系，称俄罗斯议会国防和安全委员会副主席 Frants Klintsevich亲口承认Snowden与俄罗斯政府分享了情报。Snowden则通过Twitter对报告的指控<a href="https://mobile.twitter.com/Snowden/status/811963786101932032?ref_src=twsrc%5Etfw" target="_blank"><u>予以否认</u></a>，称对他与俄罗斯共谋的指控并没有证据。
+➜中国亿万富翁在美国建厂以降低成本
+https://www.solidot.org/story?sid=50843	27348
+福建汽车玻璃制造商福耀集团董事长曹德旺<a href="http://www.yicai.com/news/5184052.html" target="_blank"><u>接受第一财经采访的视频</u></a>引发了<a href="http://companies.caixin.com/2016-12-21/101029302.html" target="_blank"><u>广泛关注</u></a>，因为他在视频中称，美国制造的成本<a href="http://www.msn.com/en-us/money/markets/meet-the-chinese-billionaire-whos-moving-manufacturing-to-the-us-to-cut-costs/ar-BBxr39m?li=BBmkt5R&amp;ocid=spartandhp" target="_blank"><u>比中国还低</u></a>。曹德旺计划投资10亿美金，在美国建厂制造汽车玻璃。福耀集团是中国最大的汽车玻璃制造商和供应商。他指出中国制造业的综合税务比美国高35%。他说，美国没有增值税，中国有增值税。美国的所得税35%，加上地方税、保险费等合起来相当于40%的税率，因此在美国开办工厂的利润比中国高。美国的优势还有土地不要钱，电价是中国一半，天然气只有中国的1/5。他称，在美国制造玻璃的利润比在中国多40%。曹德旺称，中国的实体经济因为劳动成本上升已经不赚钱了，赚钱的行业是IT、银行和房地产，而这些行业的投机情况非常突出。他称中国的税收全球最高。
+➜美国的国际宗教自由法将保护无神论者
+https://www.solidot.org/story?sid=50844	29199
+美国总统奥巴马上周签署了《国际宗教自由法案》的一个修正案，这一新闻当时没有引起广泛关注，但它对无神论者具有重要意义，因为无神论者现在也被视为一种宗教团体，<a href="http://www.nbcnews.com/news/us-news/obama-s-signature-u-s-religious-freedom-law-protects-atheists-n699356" target="_blank"><u>受到了宗教自由法的保护</u></a>。根据《国际宗教自由法案》设立的美国国际宗教自由委员会，每年都会发布《年度国际宗教自由报告》，在《<a href="http://www.uscirf.gov/sites/default/files/USCIRF%202016%20Annual%20Report.pdf" target="_blank"><u>2016年度国际宗教自由报告</u></a>》（PDF）中，该委员会指责了美国的盟友沙特判处无神论者死刑，诗人Ashraf Fayadh被控判教传播无神论而在去年被判死刑，但在今年2月死刑惩罚降为8年和500鞭。沙特内政部曾在2014年制定规章，将任何形式的倡导无神论归类为恐怖主义。
+➜北京检方宣布不起诉雷洋案涉案警察
+https://www.solidot.org/story?sid=50845	30040
+官方媒体<a href="http://china.caixin.com/2016-12-23/101030078.html"><u>报道</u></a>，北京检方宣布不起诉雷洋案的五名涉案警察，理由是犯罪情节轻微，尽管“轻微”的犯罪行为导致了一个人的死亡。居住在北京昌平区的雷洋于5月7日晚上去机场接亲人途中突然失踪，之后其家人收到了他死亡的消息。警方的说辞是雷洋在接受有偿性服务离开时被便衣警察抓住，拒捕时遭警察殴打（官方的说法是“用手臂围圈颈项部、膝盖压制颈面部、摁压四肢、掌掴面部”，以及“脚踩颈面部”），雷洋最后因此死亡。雷洋案在社交媒体上曾引发广泛关注，随后相关内容遭到了严密审查，至今在新浪微博上输入“<a href="http://s.weibo.com/weibo/%25E9%259B%25B7%25E6%25B4%258B&amp;Refer=STopic_box" target="_blank"><u>雷洋</u></a>”，返回“根据相关法律法规和政策，‘雷洋’搜索结果未予显示”。
+➜迪拜警方开始使用犯罪预测软件
+https://www.solidot.org/story?sid=50846	33274
+迪拜警方开始使用犯罪预测软件<a href="http://newatlas.com/dubai-police-crime-prediction-software/47092/" target="_blank"><u>在犯罪发生前提前阻止</u></a>。软件使用机器学习算法从警方数据库输入现有数据和情报，识别人类犯罪分析专家可能错过的模式，然后使用这些模式去判断犯罪接下来最有可能在哪些地方发生，通知警方在那些地方部署警力。使用犯罪预测软件背后的意图不是去潜在犯罪场所去逮捕看起来可疑的人，而是通过在该地区部署警察吓阻犯罪发生。
+➜科学家测序牛顿苹果树的基因组
+https://www.solidot.org/story?sid=50847	35212
+通过测序牛顿苹果树的基组，科学家要将史上最重要的两大科学理论——万有引力和演化论——联系起来。科学家<a href="http://phys.org/news/2016-12-evolution-ideas-scientists-decode-genetic.html" target="_blank"><u>正在测序</u></a>牛顿生活过的Woolsthorpe Manor庄园的古老苹果树，牛顿于350年前的1666年在此看到了从树上掉下的苹果，启发他去思考引力的性质。领导这项研究的林肯大学的演化生物学教授 Matthew Goddard称，测序牛顿苹果的基因组，将科学史上的两大最有影响力的思想家——艾萨克牛顿和查尔斯达尔文——连接在了一起，在引力和演化之间创造了一个交集。
+➜如何发现尊重用户隐私的Android 应用
+https://www.solidot.org/story?sid=50848	35504
+Android 用户常常有下面的经历：下载了一个Android应用，发现该应用索要了所有手机功能和用户数据的访问权限。这一问题相当普遍，甚至Android开源应用市场 <a href="https://f-droid.org/" target="_blank">F-Droid</a>也存在应用索要过多权限的情况，比如一款扫雷想要能记录音频和视频。如何发现尊重用户隐私的Android 应用？Opensource.com<a href="https://opensource.com/article/16/12/android-privacy-apps" target="_blank"><u>报道了</u></a>两个只要求最低权限的开源应用项目：<a href="https://www.secuso.informatik.tu-darmstadt.de/en/secuso/research/results/privacy-friendly-apps/" target="_blank"><u>Privacy Friendly Apps</u></a> 和 <a href="http://simplemobiletools.github.io/" target="_blank"><u>Simple Mobile Tools</u></a>，两个项目开发的应用虽然不多，但都能满足用户的基本需求，涵盖了游戏、二维码扫描、笔记、To-Do List、照明、天气、文件管理、日历、照相等常用功能。所有应用都是开源的，源代码常用GPLv3 或 Apache 2.0 许可证，托管在GitHub上。
+➜大脑在30岁时仍在发育
+https://www.solidot.org/story?sid=50849	39562
+哈佛大学神经学家萨默维尔(Leah H. Somerville)在发表于《神经元》期刊上的一篇<a href="http://www.cell.com/neuron/abstract/S0896-6273(16)30809-1?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627316308091%3Fshowall%3Dtrue" target="_blank"><u>评论</u></a>中指出，人脑容量在10岁时达到成人水平，但构成大脑的神经元在这之后的很多年里继续不断变化。相邻神经元之间的链接不断精简，相隔更远的区域之间出现新的链接。重塑的过程最终放缓，表明大脑正在成熟。大脑不同部分的放缓速度不同。大脑后部的枕叶的精简从20岁开始逐渐减少。大脑前额叶到30岁时甚至之后依然有新的链接在形成。在儿童的大脑中，邻近区域往往一同协作。成年后相隔遥远的区域开始协作。神经学家猜测，长距离协作能让成人的大脑运作效率更高，处理更多信息。研究人员发现，有些儿童的神经网络看起来像成人的大脑。但他们依然只是孩子。在认知测试中，青少年做得几乎和成人一样好。但如果他们出现强烈的情绪，分数就可能骤降。问题可能是青少年还没有发展出能够控制情绪的强大的大脑系统。她认为，<a href="http://cn.nytstyle.com/science/20161222/youre-an-adult-your-brain-not-so-much/" target="_blank"><u>对人进行简单分类是不够的</u></a>，比如将18岁以下的称为儿童，18岁以上的称为成人，“18岁那年并没有发生什么神奇的事。”
+➜欧盟设立军事研究基金
+https://www.solidot.org/story?sid=50850	40478
+匿名读者 写道 <i>"<a href="http://www.nature.com/news/peaceful-european-union-starts-to-fund-military-research-1.21212" target="_blank">据报道</a>，为了应对日益变化的国际秩序以及恐怖袭击，欧盟首次在军事研究上投入重大资金。
+12月1日，欧盟议会设立了2500万欧的基金来做军事研究。这将是欧洲防御基金的一部分，旨在提高军事创新和欧洲基础防御。研究涉及电子、高端材料、加密软件和机器人。欧盟委员会希望在2020年前投入共计9000万欧元，并在2021年后上升到每年5亿欧元。此前，欧盟主要的研究基金计划Horizon2020投入更大--7年投入800亿欧元。Horizon2020欢迎很多相关国家参与，但防御基金只包括欧盟成员国和挪威。
+有科学家担心防御研究基金会缩减那些急需研究的课题经费，比如气候和能源问题;但欧盟对此的回应是“为了促进和平”。另有分析人士担心防御研究会供过于求，并建议人们更多地研究社会和环境问题，他们认为这才是导致冲突的根本原因。"</i>
+➜为什么斯坦福要造人形潜水器
+https://www.solidot.org/story?sid=50851	42701
+<div align="center"><img src="http://img.solidot.org/0/58/lifytwKyy2au.jpg" height="310" width="450" align=""><br>
+</div>
+<br>
+斯坦福教授 <a href="http://cs.stanford.edu/groups/manips/ok.html">Oussama Khatib</a> 领导的一个水下考古队使用人形遥控潜水器 Ocean One 去考察17世纪路易十四旗舰 La Lune 号的残骸。为什么斯坦福<a href="http://spectrum.ieee.org/automaton/robotics/humanoids/stanford-humanoid-submarine-robot" target="_blank"><u>要造人形潜水器</u></a>？绝大多数遥控潜水器都是盒式形状，有时可能会配个机械臂，但它们并不是设计满足水下考古需要的精细操作，而人类潜水员则很难进入到水下40米的深处，Ocean One的人形设计使其更容易被人类依据直觉遥控执行考古任务。
+➜IQ对成功的影响微不足道
+https://www.solidot.org/story?sid=50852	44997
+IQ对一个人收入的影响究竟有多大？25%？50%？诺贝尔经济学奖得主James Heckman指出，数据显示IQ对收入的影响只有1%或2%。<a href="https://www.bloomberg.com/view/articles/2016-12-22/if-you-re-so-smart-why-aren-t-you-rich" target="_blank"><u>IQ是成功微不足道的一个因素</u></a>，成功的重要因素包括运气和个性。Heckman和同事在PNAS上发表了一篇<a href="http://www.pnas.org/content/113/47/13354.short?rss=1" target="_blank"><u>论文</u></a>，称经济上的成功与尽责性密切相关。Heckman和同事分析了四组数据集：IQ分数，标准化测试结果，成绩和个性。其中成绩和测试结果更能预测一个人成年后的成功与否。成绩与IQ并不等价，它还反应了一个人很多非智能方面的特点，包括学习习惯和合作能力——也就是尽责性。
+➜复方丹参滴丸成为首个完成FDA三期临床试验的复方中药
+https://www.solidot.org/story?sid=50853	45048
+匿名读者 写道<i> "<a href="http://health.people.com.cn/n1/2016/1223/c14739-28973323.html" target="_blank">人民网</a>宣称天士力复方丹参滴丸成为全球首个圆满完成美国FDA三期临床试验的复方中药。上海证券交易所官方网站发布了《<a href="http://static.sse.com.cn/disclosure/listedinfo/announcement/c/2016-12-24/600535_20161224_1.pdf" target="_blank">天士力制药集团股份有限公司关于复方丹参滴丸美国 FDA 国际多中心Ⅲ期临床试验结果的公告</a>》。
+"</i>
+➜CRISPR-Cas3 也许能解决抗生素抵抗危机
+https://www.solidot.org/story?sid=50854	46628
+<a href="https://en.wikipedia.org/wiki/CRISPR" target="_blank"><u>CRISPR</u></a>基因编辑技术主要围绕 Cas9酶，Cas9酶可以充当基因剪刀去剪切替换DNA片段。现在，研究人员表示，CRISPR的一种鲜为人知的Cas3酶可能有助于<a href="https://techcrunch.com/2016/12/21/move-over-cas9-crispr-cas3-might-hold-the-key-to-solving-the-antibiotics-crisis/" target="_blank"><u>解决抗生素抵抗危机</u></a>。Cas3酶能针对细菌细胞的DNA，将其破坏到难以修复的程度，最终杀死细菌，整个过程就像是游戏吃豆人（Pac-Man）。研究人员相信这项技术可用于危险的抗生素抵抗细菌。抗生素抵抗被认为是目前世界上最迫在眉睫的公共健康问题之一。

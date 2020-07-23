@@ -1,0 +1,9 @@
+➜报道称兆芯 KX-6000 性能达到 i5-7400 水平
+https://www.solidot.org/story?sid=61083	41003
+环球时报报道称，台湾威盛（VIA）与中国政府的合资企业兆芯本周<a href="https://www.tomshardware.com/news/china-zhaoxin-kx-6000-core-i5-7400,39694.html"><u>发布了</u></a>基于“陆家嘴（LuJiaZui）”微架构的 KX-6000，频率 3.0GHz，性能比上一代 KX-5000 系列提升了 50%，达到了英特尔 i5-7400 的水平。KX-6000  采用 16 纳米工艺制造，为八核 x86-64 处理器，集成 8 MB L2 缓存，DirectX 11.1 兼容 iGPU，双通道 DDR4-3200 内存控制器，PCIe 和 SATA等控制器。兆芯的<a href="http://www.zhaoxin.com/Solution.aspx?id=3"><u>官网</u></a>还只有上一代，还没有提供任何有关 KX-6000 的信息。
+➜黑客利用 Raspberry Pi 入侵 JPL 网络
+https://www.solidot.org/story?sid=61084	51118
+美国司法部监察长办公室发表报告称，去年黑客利用 Raspberry Pi <a href="https://www.extremetech.com/internet/293563-a-rogue-raspberry-pi-let-hackers-into-nasas-jpl-network" target="_blank"><u>入侵了 JPL 的网络</u></a>。事故发生在 2018 年 4 月，JPL 的某位出于未知目的把一个 Raspberry Pi 连接到网络中，这个单板电脑与外界互联网的网络连接没有经过过滤，成为了黑客入侵 JPL 网络的立足点。黑客在 JPL 网络中窃取了 500MB 载人太空飞行数据。这些数据对于敌对国家非常有价值。这还不是最糟糕的，攻击者还通过 JPL 的网络访问了 NASA 的敏感系统如深空网络 Deep Space Network。入侵导致 NASA 约翰逊太空中心切断了与 JPL 的网络连接。双方直到  2018 年 11 月才恢复连接，但部分连接仍然受到限制。
+➜NSA 向 Coreboot 项目贡献代码
+https://www.solidot.org/story?sid=61085	52973
+NSA 向自由固件项目 coreboot <a href="https://www.tomshardware.com/news/nsa-contributes-low-level-stm-coreboot,39704.html"><u>分配了开发者</u></a>，它的开发者 Eugene Myers 开始向 coreboot 贡献  SMI Transfer Monitor (STM) x86 处理器<a href="https://review.coreboot.org/c/coreboot/+/33234" target="_blank"><u>实现代码</u></a>。Myers 隶属于 NSA 的 Trusted Systems Research Group，其使命是进行和资助研究保护美国信息安全的技术。NSA 最为人所熟知的开源项目是 Linux 安全模块 Security-Enhanced Linux，它最近还释出了逆向工程工具 Ghidra，但它在 NIST 标准上的工作备受争议，被批评推动 NIST 采用了存在后门的加密算法。Myers 去年发表了论文，介绍了 STM 实现的工作原理。所有的代码都是开源的，在理论上任何人都可以检查它是否存在后门。<br>

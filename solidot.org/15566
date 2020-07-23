@@ -1,0 +1,64 @@
+➜Twitter背后的开源技术
+https://www.solidot.org/story?sid=30926	1200
+<a href="http://www.zmyhbh.com/">神码</a> 写道<i> "如果没有开源技术，你根本就不能使用Twitter。Twitter的开源部经理<a href="https://twitter.com/cra">Chris Aniszczyk</a>表示<a href="http://opensource.com/business/12/8/open-source-technology-behind-twitter">开源技术对Twitter至关重要</a>。他强调，使用开源软件可以让工程师们不断修改代码以满足快速变化的用户需求。Twitter使用的开源软件包括<a href="http://dev.mysql.com/">MySQL</a>，<a href="http://hadoop.apache.org/">Hadoop</a>，<a href="http://lucene.apache.org/">Lucene</a>，<a href="http://memcached.org/">Memcached</a>等。Twitter自己的开源软件如<a href="https://github.com/twitter/scalding">Scalding</a>也发布在<a href="http://twitter.github.com/">GitHub</a>上。一年前Twitter成立<a href="https://dev.twitter.com/opensource/organizations">开源办公室</a>支持各种开源组织。在今年的<a href="http://events.linuxfoundation.org/events/linuxcon/">LinuxCon</a>大会上，Chris Aniszczyk将做开源技术在Twitter中使用的主题演讲。"</i>
+➜TizMee：MeeGo的Tizen兼容层
+https://www.solidot.org/story?sid=30927	4680
+Michael Sheldon在Apache许可证下<a href="http://blog.mikeasoft.com/2012/08/11/tizmee-tizen-compatibility-layer-for-meego/">发布了</a>MeeGo的Tizen兼容层<a href="https://gitorious.org/tizmee">TizMee</a>，允许直接在MeeGo上运行Tizen应用，支持HTML5应用，以及使用Tizen特定API和Cordova/PhoneGap的应用。目前发布的早期版本能正常运行常见的HTML5应用，部分Tizen API应用和Cordova/PhoneGap应用。TizMee提供了诺基亚MeeGo Harmattan(N9和N950设备)以及社区版Nemo的构建包。
+➜韩国政府审查社交网络
+https://www.solidot.org/story?sid=30929	5400
+《纽约时报》<a href="http://cn.nytimes.com/article/world/2012/08/14/c14skorea/">报导</a>，韩国政府正积极审查社交网络。文章称：<i>
+“一位批评政府的网友在Twitter账户上对总统爆粗口后发现其账户被封；韩国政府批准了一个有争议的海军基地后，一名活动人士因在Twitter上发帖将政府比作海盗而受到海军军方刑事诽谤罪的指控；一名法官曾撰文称总统（‘阁下’）大力‘打压’那些挑战他权威的互联网用户，后来被免职，外界普遍认为这是对他的报复。如果发生在中国，这些镇压互联网自由的行为会值得注意，但可能不会让人感到意外，毕竟，中国有一大批保持高度警惕的网络审查人员。然而，上述案例中对社交媒体的极力管制居然发生在韩国这样一个繁荣发展的民主国家，而且韩国也是全球互联网普及程度最高的国家之一... 通过李明博任命的官员，监管机构对网上发帖的删除或屏蔽的数量增加了两倍以上，从2008年的1.5万篇到去年的5.3万篇，原因包括违法发色情内容、使用亵渎语言或者支持朝鲜。</i>
+➜Calligra 2.5发布
+https://www.solidot.org/story?sid=30930	7200
+KOffice办公软件分支Calligra发布了<a href="http://www.calligra.org/news/calligra-2-5-released/">第二个正式版本Calligra 2.5</a>，包括办公套件 <a href="http://www.calligra-suite.org/">Calligra Suite</a>，Calligra Active和移动版 Calligra。办公套件的目标用户仍然是学生或学术用户，2.5版增加了许多针对这些用户的新功能：字处理器改进了表格编辑，紧凑的文绕图，表格边框调整，文本拖延等；改进电子表格；三个新的Visio文件、MS Works和 xfig文件输入过滤器，改进MS Office输入过滤器；改进自动保存文件管理，等等。
+➜苹果的不对称螺丝是捏造的假消息
+https://www.solidot.org/story?sid=30931	9720
+五天前，有人在reddit上<a href="http://www.reddit.com/r/apple/comments/xvnvo/a_friend_took_a_photo_a_while_ago_at_that_fruit/">发布</a>了<a href="http://imgur.com/fkyQS">一幅照片</a>，声称苹果正在研发秘密的非对称螺丝，客户将完全无法拆开机器。《连线》在报导时<a href="http://www.wired.com/gadgetlab/2012/08/if-theres-a-screw-theres-a-way-custom-screws-wont-stop-the-diy-community/">指出</a>，虽然照片可能是伪造的，但根据目前的趋势苹果的确有可能会在未来的产品中引入私有的螺丝设计。苹果的非对称螺丝消息<a href="http://day4.se/how-we-screwed-almost-the-whole-apple-community/">确实是捏造</a>，捏造者在博客上说，他们在3D程序中设计出螺丝然后渲染成图像，散播到互联网上，观察假消息如何传播。他们对传播的效果感到吃惊，像《连线》和雅虎这样的知名媒体都报导了，虽然这些媒体对真实性表达了怀疑，但许多评论者却信以为真。他们表示对互联网上的新闻我们应该批判性思考，能习惯进行事实核查，识别消息源头。Hacker News的<a href="http://news.ycombinator.com/item?id=4376803">评论</a>认为，互联网和生活中沉默的大多数随处可见，很难判断他们的立场，发表评论的人不能代表这些沉默的大多数。仅仅根据评论或社交媒体上的言论，可能是过高估计了大众的愚蠢。
+➜科学家重建过去150万年气候历史
+https://www.solidot.org/story?sid=30932	12960
+通过重建过去150万年冰总量和深海温度的精确变化历史，<a href="http://www.cam.ac.uk/research/news/1-5-million-years-of-climate-history-revealed-after-scientists-solve-mystery-of-the-deep/">科学家在理解地球气候变化上取得了重大突破</a>。<i>
+研究人员发现，地球气候系统在中更新世气候转型（MPT）前后存在差异，MPT发生在大约125万年到60万年前之间。MPT前，地球极冷冰河期和温暖间冰期的交替间隔约4.1万年；MPT之后，冷暖交替间隔时间延长，大约为10万年。目前我们正处于第二种模式。地球轨道变化对此影响有限。但在90万年前，大冰盖和冰川突然开始增长。这一模式与地球轨道发生显著变化相关。领导这项研究的剑桥大学教授Harry Elderfield说，由于气候系统中的不确定性，我们并不知道气候是如何对自然影响或人造影响作出反应的，理解过去可以让我们更好的预测未来。</i>
+➜福岛蝴蝶因核辐射发生基因突变
+https://www.solidot.org/story?sid=30933	18960
+根据刊登在《自然》旗下《Scientific Reports》上的一篇<a href="http://www.nature.com/srep/2012/120809/srep00570/full/srep00570.html">论文</a>，研究发现蝴蝶在遭受核辐射后出现严重异常。<i>
+日本福岛核电站反应堆去年因地震海啸而发生核心熔毁，将大量核辐射释放到周围环境中。事故的生物影响研究发现，当地常见的一种吉灰蝶属蝴蝶出现了生理畸变和基因突变。研究人员2011年5月在福岛地区收集了一批成年蝴蝶，其中部分显示出了相对温和的异常。这批蝴蝶中的雌性产下的第一代后代显示出了更严重的异常，这些异常被第二代后代继承。2011年9月所收集的成年蝴蝶的异常比5月收集的蝴蝶更严重。研究人员认为，核辐射对这一物种造成了生理和基因损伤。</i>
+➜IBM研究人员证实能锁定自旋电子
+https://www.solidot.org/story?sid=30934	21360
+根据发表在《Nature Physics》上的一篇<a href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2383.html">论文</a>，IBM苏黎世和苏黎世理工学院的科学家首次证明，半导体中的电子<a href="http://spectrum.ieee.org/nanoclast/semiconductors/nanotechnology/ibm-researchers-confirm-decadeold-theory-of-locking-electron-spin-rotation">能被编程同步自旋</a>。研究人员还演示了同步的电子能将自旋寿命延长30倍至1.1纳秒。2003年提出的一项理论认为锁定电子自旋是可能的。IBM和苏黎世理工学院研究人员不仅证实了该理论，而且控制同步自旋的电子在半导体内沿着路径移动了数十微米。对电子自旋的控制可能会创造出更节能的电子设备，但这项突破变成现实还为时过早，因为研究人员是在-233摄氏度下完成这项实验的。
+➜重庆大学生村官因转发发表批评性言论被劳教两年
+https://www.solidot.org/story?sid=30935	23100
+成都专栏作家<a href="http://www.weibo.com/hesanwei">何三畏</a>在微博上发布一张重庆彭水县公安局的<a href="http://ww2.sinaimg.cn/bmiddle/4730054cjw1dvss53pvs2j.jpg">劳动教养通知书</a>，通知书指控任建宇在其QQ空间、腾讯微博上关注浏览转发和发表时政和政治体制改革方面的负面言论和信息，鼓吹西方政权模式，攻击党和政府，煽动颠覆政权，因此被判劳教两年。时间从2011年8月18日至2013年8月17日。薄熙来主政期间<a href="http://www.dw.de/dw/article/0,,16162546,00.html">重庆又一劳教案浮出水面</a>。去年4月，重市网友方洪曾因骂薄熙来是“一坨屎”而被劳教。<a href="http://zh.wikipedia.org/wiki/%E5%8A%B3%E6%95%99%E5%88%B6%E5%BA%A6">劳教制度</a>被认为是<a href="http://cn.nytimes.com/article/china/2012/08/13/cc13wangqiang/">容易被滥用的“法外之法”</a>，它起源于前苏联，1950年代中共中央在发动“肃反”运动中逐步引进和建立起这一制度，并逐渐形成了中国独有的制度。劳动教养并非依据法律条例，从法律形式上亦非刑法规定的刑罚，而是依据国务院劳动教养相关法规的一种行政处罚。这种制度的巧妙之处在于公安机关毋须经法庭审讯定罪，即可对疑犯投入劳教场所实行最高期限为四年的限制部分人身自由、强迫劳动、思想教育等措施。法学界一直呼吁废除该制度。
+➜平等的演化起源
+https://www.solidot.org/story?sid=30936	24840
+根据发表在最新一期PNAS上的<a href="http://www.pnas.org/content/early/2012/08/08/1201718109.abstract">论文</a>，美国田纳西大学的<a href="http://www.tiem.utk.edu/~gavrila/">Sergey Gavrilets</a>教授认为，人类的利他主义和道德价值可能源自自私。虽然人类普遍追求平等，但是<a href="http://chinese.eurekalert.org/zh/pub_releases/2012-08/aaft-hee081012.php">它的演化起源</a>仍然是一个谜。Gavrilets用数学模型探索人类如何结伙对抗威胁。研究揭示，与其他人受到的威胁作斗争——一种利他主义——对提供帮助者有风险，但是从长远来看能获得回报。他提出，一旦平等倾向在基因中有很好的基础，这些倾向可能被文化规范扩大。
+➜摩根大通投资五亿美元建数据中心
+https://www.solidot.org/story?sid=30937	26880
+摩根大通CEO Jamie Dimon透露，该公司<a href="http://www.datacenterknowledge.com/archives/2012/08/13/dimon-jpmorgan-spends-500-million-on-its-data-centers/">投资五亿美元建造了一个数据中心</a>，能与Google和微软投资建造的最大数据中心看齐。他在接受《纽约杂志》<a href="http://www.datacenterknowledge.com/archives/2012/08/13/dimon-jpmorgan-spends-500-million-on-its-data-centers/">采访</a>中称，银行的巨大规模能带来许多优势，如他们能在一个晚上为一家公司提供用于大额收购的200亿美元过渡性融资（bridge loan），能花5亿美元建造数据中心加快交易和投资、提供手机支票存款移动应用服务。他说，这就是资本主义。Dimon也在采访中为金融经济危机辩护，表示大多数银行家都是体面可敬的人，他们确实犯了错误，但这不能抹掉他们所做的好事，“我不为金融危机负责”。
+➜Backtrack-5 R3发布
+https://www.solidot.org/story?sid=30938	29520
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "<a href="http://en.wikipedia.org/wiki/BackTrack">Backtrack</a>是一款针对渗透测试的GNU/Linux发行版，基于debian定制，在defcon 2012和blackhat 2012会议之后，<a href="http://www.backtrack-linux.org/backtrack/backtrack-5-r3-released/">BackTrack-5 R3正式发布</a>，新版本的BackTrack除了修复了一些bug，也增加了60多个新工具到军火库里。一个叫做“物理漏洞利用”的新工具分类出现在最新版里，这个工具集包括了Arduino IDE和一些相关的库。这次的R3版除了像以往提供基于GNOME和KDE桌面系统（32位和64位）的ISO文件外，也提供了一个VMware的32位基于GNOME桌面的镜像方便VMware用户使用，安装步骤可以查看<a href="http://www.backtrack-linux.org/wiki/index.php/Main_Page">社区wiki</a>。BackTrack是安全领域的黑客们最喜爱的GNU/Linux发行版，由<a href="http://www.offensive-security.com/">Offensive-security</a>社区主导开发，主要开发者是<a href="https://twitter.com/dookie2000ca">Dookie2000ca</a>。"</i>
+➜RIM将授权其它厂商使用BlackBerry OS 10
+https://www.solidot.org/story?sid=30939	31800
+彭博社<a href="http://www.bloomberg.com/news/2012-08-13/rim-says-blackberry-10-will-soon-be-ready-for-licensing.html">报导</a>，加拿大智能手机制造商RIM CEO Thorsten Heins表示将授权其它智能手机制造商使用BlackBerry OS 10。BlackBerry OS 10(BB10)已接近测试的最后阶段，它基于QNX操作系统。Heins说，QNX已被授权在汽车行业内使用，如果他们作出选择BB10也可同样授权在移动行业内使用，他强调黑莓平台能被授权使用。BB10已延期至2013年初发布。
+➜算法能预测未来24小时你身在何处
+https://www.solidot.org/story?sid=30940	34920
+你的手机知道你去了哪里，它也知道你将会去哪里。英国科学家开发出一个算法，能利用用户手机上的跟踪数据预测未来24小时用户将会到哪里，<a href="http://www.slate.com/blogs/future_tense/2012/08/08/cellphone_tracking_what_happens_when_our_smartphones_can_predict_our_every_move_.html">平均误差只有20米</a>。<i>
+研究人员结合了参与者手机上的跟踪数据和电话簿上的朋友手机跟踪数据，观察用户和熟人之间的互动，预测她何时将前往何处，例如周日下午去下城区看场秀而不是和平常一样在上城区午餐。这项创新让研究人员赢得了今年的<a href="http://research.nokia.com/page/12000">诺基亚移动数据挑战赛</a>。在真实世界中算法可能帮助执法机构跟踪罪犯的活动模式。</i>
+➜为什么女性更可能患有偏头痛？
+https://www.solidot.org/story?sid=30941	36720
+偏头痛偏爱女性。每年患有偏头痛的女性比男性几乎多三倍，所有女性中有高达18%会遭受偏头痛折磨。最新的一项大脑成像研究也许能解释此种性别差异：有偏头痛史的女性大脑看起来<a href="http://news.sciencemag.org/sciencenow/2012/08/why-do-women-get-more-migraines.html?ref=hp">不同于男性偏头痛患者</a>。<i>
+研究人员招募了44名男性和女性志愿者，其中一半人有偏头痛。他们扫描了志愿者的大脑，测量大脑形状和特征，记录大脑活动，发现女性偏头痛患者在两个大脑区域有更厚的灰质：其一是处理疼痛的岛叶；其二是与偏头痛有关联但主要作为人自我意识中枢的楔前叶。其他志愿者，包括男性偏头痛患者，他们的大脑没有显示出相同现象。</i>
+➜好奇号完成固件更新，黑客或能远程控制漫游车
+https://www.solidot.org/story?sid=30942	37920
+NASA宣布它<a href="http://www.nasa.gov/mission_pages/msl/index.html">完成了</a>好奇号计算机的固件更新。NASA工程师是在飞行途中将软件上传过去。如果NASA能将代码通过数亿公里传输给漫游车，那么<a href="http://science.slashdot.org/story/12/08/13/1851249/could-you-hack-into-mars-curiosity-rover">为什么黑客不能做同样的事情</a>？没有理由说黑客不能控制好奇号。你所需要的只是一个巨大的天线和数百瓦的发射机，或者更简单合理的做法是控制NASA的计算机，中国黑客在2011年曾13次入侵NASA计算机。
+➜暴雪的加密技术并不难破解
+https://www.solidot.org/story?sid=30943	40800
+暴雪证实黑客可能获取了用户密码等信息，表示盐化哈希加密形式的密码难以破解。但安全专家指出，加密密码破解<a href="http://arstechnica.com/security/2012/08/hacked-blizzard-passwords-not-hard-to-crack/">并没有暴雪形容的那么难</a>。暴雪利用<a href="http://srp.stanford.edu/whatisit.html">Secure Remote Password(SRP)</a>协议将明文转变成哈希值，SRP主要用于保护在网络上传输的密码，而不是储存到网站数据库中的密码。TapLink的创始人Jeremy Spilman称，暴雪错误声称SRP加密密码非常难以被破解，SRP并不能保护失窃的暴雪密码。但暴雪辩解说，它采用了改进的SRP协议实现，使用了一个1024比特模数，而不是原设计的256比特模数，这一调整使得密码破解时间增加约了64倍。SRP是一种鲜为人知的哈希方法，密码破解软件如Hashcat 和John the Ripper都不支持，但在暴雪承认黑客入侵不到24小时，John the Ripper主要开发者Alexander Peslyak表示要让程序<a href="http://www.openwall.com/lists/john-dev/2012/08/10/5">支持SRP</a>。
+➜语言专家称最难学是语言不是中文而是西班牙语
+https://www.solidot.org/story?sid=30944	42120
+一位在成年后开始学外语但很快通晓10种外语的语言专家<a href="http://www.fluentin3months.com/">Benny Lewis</a> <a href="http://www.reddit.com/r/IAmA/comments/y70v0/by_request_i_ama_polyglot_multilingual_person/">谈论了他的心得</a>。他表示，他眼里最难学的语言不是普通话而是西班牙语。<i>
+除了英语外，他学会了西班牙语，法语，意大利语，葡萄牙语，德语，世界语，爱尔兰盖尔语，美国手语，普通话和荷兰语，其中最难学的是西班牙语。从语言学观点看，汉语也许是最难的语言。但你还必须从心理学角度考虑：对你而言什么是最难学的语言？他花了约一年时间才将西班牙语学到会话水平，而普通话只花了五个月。他指出，如果你想学会一种语言，不要试图找出哪种语言更难，这是浪费时间；如果你是日本漫画的粉丝，那么日语也许是你最容易学的语言。</i>
+Lewis在TEDx上的<a href="http://www.youtube.com/watch?v=_yhnWnR1g7M">演讲视频</a>(YouTube)
+➜专家称房价里70%是政府税费
+https://www.solidot.org/story?sid=30945	43200
+中共中央党校国际战略研究所副所长周天勇接受采访时<a href="http://www.talentsmag.com/article.aspx/4836">表示</a>，中国收入分配的最大的症结在于城乡差距，解决问题需要通过一系列改革来实现，比如土地制度、户籍制度。而改革最重要的是创造公平环境，提供均等教育和公平的创业环境。造成两极分化的一个原因就是土地制度和土地财政。从农民手里成本较小地征地后，政府一亩地甚至卖100万—200万元，但农民得到的财产利益转移非常少，这其实是在剥夺农民利益，是不合理的制度。解决高房价首先应废除18亿亩红线行政控制，现在土地供给严重不足；其次是过高的土地出让金，房价里70%是政府税费，如果把土地出让金变成房产税，房价立即会下来。

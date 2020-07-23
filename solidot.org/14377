@@ -1,0 +1,145 @@
+➜法国高管因写信反对“三振出局”提案而遭开除
+https://www.solidot.org/story?sid=11293	60
+无论法国国会，还是欧洲议会，没有多少人赞同萨科齐政府的“三振出局”提案。而围绕“三振出局”及萨科齐总统，法国或者说欧洲最大的电视网TF1公司内部却发生了<a href="http://yro.slashdot.org/article.pl?sid=09/05/09/229217">一些见不得光的丑闻</a>：TF1公司Web部门高管Jérôme Bourreau-Guggenheim私下写信给国会议员表示反对“三振出局”提案，国会议员把电子邮件转寄给支持“三振出局”的一位政府部长，这位部长又将邮件转寄给TF1老板。然后老板喊他到办公室，向其展示邮件拷贝。很快Bourreau-Guggenheim就<a href="http://arstechnica.com/tech-policy/news/2009/05/web-designer-opposes-frances-3-strikes-law-loses-job.ars">收到辞退信函</a>，指出开除原因是他对公司战略抱有强烈异议。实际上，TF1公司和萨科齐当局的关系相当复杂，简直是互为狼狈：<i>
+TF1公司老板、亿万富翁Martin Bouygues是萨科齐最小的儿子Louis的教父。Bouygues要萨科齐不要让公共部门在TF1竞争对手的电视台登广告，萨科齐照办了。萨科齐讨厌明星主持人Patrick Poivre d'Arvor，后者在TF1公司干了21年，去年从公司离开，他不久前指责萨科齐在G8峰会的行为如同无知幼儿。他的继任者是Laurence Ferrari，因为萨科齐曾告诉Bouygues他想在电视台看到年轻的血液。Laurent Solly，去年萨科齐总统竞选团队的副主管，现在也加入了TF1。</i>
+➜电网、汽车，以及网络
+https://www.solidot.org/story?sid=11294	1440
+Robin Chase，Zipcar创始人，《时代》杂志列出的年度100位最有影响力的人之一，她认为未来的电网、汽车和互联网应该结合在一起，<a href="http://www.wired.com/autopia/2009/05/the-grid-our-cars-and-the-internet-one-idea-to-link-them-all/">在一个网格网络中以开放标准建造智能电网</a>，汽车则作为其中一个节点。<i>
+Chase称，今日的阿富汗和伊拉克战场，士兵、坦克和飞机都在一个网格网络中运作。网络网络很有效，既安全又稳定可靠。如果一个节点或设备消失了，它只需要变更数据传输路线。更重要的是它时刻运动着。利用互联网协议建造智能电网，在每一座有电表的建筑物中安放网格网络设备，抛弃汽车上旧有的网络，用一个开发的基于互联网的平台取而代之。再加入一个路由器，那么一个全国性的云网将会形成，<a href="http://hardware.slashdot.org/article.pl?sid=09/05/09/2035243">互相连接的设备将结成一个移动和开放的整体</a>。</i>
+➜Flash与Silverlight终极大比拼
+https://www.solidot.org/story?sid=11295	3600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "自Silverlight 1.0发布以来，Web 开发与设计者们关于该选择Flash和Silverlight的争论便开始了，在成熟的 Flash 面前，Silverlight 面临着如何赢得市场的难题。然而 Silverlight 中包含了一些开发设计者们一直希望 Flash 能拥有的功能，诸如SEO，本文对 Flash 和 Silverlight 的技术细节进行了详尽的对比（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K805.aspx">完整图文版</a>）。           动画功能
+<br> <br>Flash 使用基于帧的动画模式，在逐帧动画模式中，我们为每个帧创建对象并生成动画序列。比如你想让一个对象在3秒内穿过屏幕，计算一下3秒一共有多少帧，然后计算每帧需要的矩阵。不过 Flash 在实际播放中并不会真实地按设定的帧率播放，除非你在动画中插入一条空白的音轨。
+<br> <br>Silverlight 基于 WPF 动画模式，WPF 是基于时间线，而不是帧的，你定义好起始于结束状态，WPF 帮你计算中间该怎么做，不必象 Flash 那样同矩阵打交道，也不必计算在不同帧对象的位置。
+<br> <br>
+文件尺寸
+<br> <br>Flash 使用压缩格式，文字和图片内嵌在整个文件中，因此 Flash 的文件尺寸非常小巧。
+<br> <br>Silverlight 使用 XAML 作为描述语言，未经过压缩，因此 Silverlight 的文件尺寸通常要大一些。
+<br> <br>
+脚本
+<br> <br>Flash 使用 ActionScript， ActionScript 面向对象，对用户界面设计有全面的控制，还可以同其它后端语言，如 PHP, ASP, Ruby On Rails 进行集成交流，拥有一个强大的开发库。
+<br> <br>Silverlight 的脚本可以选择多种开发语言，<strong>Visual C#.Net and Visual Basic.Net，</strong>也包括客户端语言 JavaScript 。 C# 和 VB.net 可以用来编写托管代码，并可以全面使用 .net 框架库。
+<br> <br>
+视频和音频
+<br> <br>Flash 支持多种音频格式，最新的音频解码器质量非常高，而带宽占用也非常出色。它的视频解码器，Sorenson 的专用 H.263 是 H.263 的变种，压缩也接近，但去掉了一些功能。
+<br> <br>Silverlight 使用的是行业标准 <strong>VC-1 </strong>视频解码，并支持 WMV 和 WMA，Windows Movie Maker 可以很容易产生这两种格式，同时微软还提供免费的 WMV， WMA 编码器。<br> <br>
+声音处理
+<br> <br>ActionScript 提供了一套声音类库，可以用来在动画中生成或控制声音，你可以在动画播放期间从资源库加入声音，同时 Flash 还有一些方法在整个动画中控制声音。
+<br> <br>Silverlight 没有底层声音控制 API，甚至无法播放一个 WAV 文件，因为 .NET 在音频播放上很薄弱。<br> <br>
+可访问性
+<br> <br>对那些有视觉或听觉缺陷的人，Flash 提供了丰富的可访问性功能，视频字幕可以帮助听觉障碍者，而那些视觉障碍者需要通过键盘控制声音的播放，人们可以使用键盘快捷键控制视频播放。
+<br> <br>Silverlight 3 首次提供对全部系统配色的支持，那些视力不佳的人可以调整到高对比度配色方案，在可访问性方面 Silverligth 比 Flash 差很多。<br> <br>
+平台兼容性
+<br> <br>Flash 支持 Windows Vista/XP/2000, Windows Server 2003/2008, Mac OS 10.1/10.5 (PowerPC), Mac OS 10.1/10.5 (Intel), Linux 5, openSUSE 11, Ubuntu 7.10 or later and Solaris 10.
+<br> <br>Silverlight 只支持 Windows Vista/XP/2000, Windows Server 2003/2008, Windows Mobile 6, Mac OS 10.1/10.5 (PowerPC) and Mac OS 10.1/10.5 (Intel)。由于不支持 Linux 和 Solaris，因此这些平台的用户无法体验 Silverlight 。（不过 .NET 在 Linux 平台的第三方开源项目，MONO 框架中的 MoonLight 支持 Linux - 译者）<br> <br>
+文字展示与SEO
+<br> <br>Flash 中的文字是基于图形的，Flash 播放器无法理解 TTF，因此我们无法从 Flash 动画中分离出文字。通常，Flash 对 SEO 是不友好的，但 Adobe 已经做出一些努力让 Flash 中的文字可以索引，而搜索引擎也开始尝试索引 Flash 了。目前，Google 是唯一支持 Flash 索引的搜索引擎，他们同 Adobe 合作，设计相应的可以理解 Flash 内容的 Google 爬虫。 Yahoo 正在进展中，鉴于微软的 Silverlight 是 Flash 的竞争者，他们不讨可能在 MSN 中索引 Flash。
+<br> <br>Silverlight 是基于 XAML 的，Silverlight 中的文字内容是独立存放的，可以被任何搜索引擎索引，因此对搜索引擎更友好。<br> <br>
+支持的图片格式
+<br> <br>Flash 支持几乎所有图片格式。Silverlight 只支持 PNG 与 JPEG，其它格式提供有限的支持。<br> <br>
+网络编程
+<br> <br>Flash 使用 <strong>XMLSocket</strong> 和服务器进行沟通。
+<br> <br>Silverlight 通过 System.Net.Sockets 命名空间，对网络编程提供全面支持，Silverlight 可以通过 4502 到 4534 端口异步传输数据，也支持跨域通讯。<br> <br>
+摄像头的支持
+<br> <br>Flash 支持网络摄像头和麦克风，使用 ActionScript 可以很容易操控摄像头或麦克风。Silverlight 不支持摄像头和麦克风。<br> <br>
+部署
+<br> <br>Flash 的部署只包含一个独立的 SWF 文件，这个文件已经包含了所有图片，文字，动画。Silverlight 的部署要复杂一些，所有独立的部件都要单独部署，典型的 Silverlight 请求一般包含以下内容：
+<ul>
+<li>XML 文件,</li>
+<li>DLL 文件（如果有）,</li>
+<li>Silverlight.js,</li>
+<li>其它JavaScript 文件,</li>
+<li>资源文件 (图片，视频，音频)</li>
+</ul>
+Windows 可执行文件
+<br> <br>Flash 动画可以编译成独立的 Windows 可执行程序，在桌面播放。
+<br> <br>Silverligth 不支持。<br> <br>
+流媒体服务
+<br> <br>Flash 不支持流媒体服务（虽然 FLV 控制了几乎所有视频网站，但那是另一回事-译者）。
+<br> <br>微软基于 Windows Live 的 Silverlight 流媒体服务可以让设计和开发者分发富媒体，结合微软的 Expression Studio，开发与设计者们可以创建交互式 Web 程序。
+<br> <br>
+结论
+<br> <br>富 Internet 应用的技术选择向来存在很多争议，在 Silverlight 和 Flash 中选择，完全要看你的需求，如果你的用户包括 Linux 和 Solaris 平台的，Flash 是不二之选，如果希望你的网站可以被索引，Silverlight 更好一些。
+<br> <br>另外需要指出的是，安装了 Silverligth 插件的用户尚在少数，而绝大多数用户的浏览器中都安装了 Flash 插件，另外，SWF, FLA, FLV 几乎成了开发标准格式，而 Silverligth 还是100%私有格式（然而 Silverlight 已经是明文了，还谈什么开放不开放 - 译者）。
+<br> <br>本文国际来源：<a href="http://www.smashingmagazine.com/2009/05/09/flash-vs-silverlight-what-suits-your-needs-best/">http://www.smashingmagazine.com/2009/05/09/flash-vs-silverlight-what-suits-your-needs-best/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜白日梦是个复杂的过程
+https://www.solidot.org/story?sid=11296	4200
+根据《美国科学院学报》的一篇<a href="http://www.pnas.org/content/early/2009/05/11/0900234106.abstract">研究报告</a>(摘要)，科学家发现，<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-05/potn-050809.php">正在做白日梦的大脑同时使用两个网络</a>。<i>
+当意识没有集中在任何特定任务上时，功能磁共振成像（fMRI）可以观察到一个“默认网络”的活动。默认和主动执行网络在大脑中通常是互斥的，一个例外是创造性思考，那时候默认和“执行”网络同时运行。<a href="http://www.christofflab.ca/publications">Kalina Christoff</a>及其同事发现，白日梦是第二个例外。这组作者让受试者进行fMRI扫描的时候进行一个机械记忆的思维任务。受试者被时常要求报告他们的思维是在走神还是集中，以及他们是否意识到了正在做白日梦。受试者在任务中出现的错误数量提供了针对白日梦的第二种独立的测量。在实验后，研究人员计算了默认网络激活和自我报告的走神或错误数量之间的关联。结果显示默认网络在走神的时候激活了，而当受试者正在做白日梦但没有意识到它的时候，大脑活跃性最强。</i>
+<a href="http://www.christofflab.ca/wp-content/uploads/2008/11/sart_reduced.pdf">全文</a>（PDF）
+➜法国国会通过“三振出局”法案
+https://www.solidot.org/story?sid=11297	5100
+经历了争论和混乱之后，曾在上个月<a href="__SLASHLINK__" sect="internet" sid="09/04/09/1553211" sn="article" tid="120">拒绝</a>的法国国会，<a href="http://yro.slashdot.org/article.pl?sid=09/05/12/1555231">刚刚通过</a>了萨科齐政府的“三振出局”法案。三振出局法案允许ISP在用邮件警告过用户两次之后，采取断网等惩罚措施。预计第一封警告邮件将在今年秋天寄出，首次断网案例将在明年初发生。
+➜中移动收购台湾远传电信受挫
+https://www.solidot.org/story?sid=11298	9300
+<a href="http://www.moshouzhengba.org/">魔兽秘籍</a> 写道 "上月底，中国移动宣布将向远传电信投资5.33亿美元，一时众说纷纭，然而<a href="http://www.ftchinese.com/story.php?storyid=001026387">目前该计划却已受挫</a>。
+<i>
+中国移动(China Mobile)购买台湾远传电信(Far EasTone) 12%股权的交易昨日受到打击。台湾经济部长尹启铭表示，台湾不会马上允许大陆投资其电信运营商。尹启铭表示，电信行业不属于第一阶段的开放项目尹启铭在中新社(China News Agency)早些时候进行的一次采访中表示：“由于两岸之间的特殊形势，我们在开放陆资来台的问题上还是会有一些保留。第一是我们必须考虑赴台资金的背景，第二是我们必须对敏感或特殊领域的投资有所控制。”远传电信昨日表示，它理解台湾地区政府的立场，会继续致力于交易的筹备工作，比如公司治理问题。</i>
+➜不得不承认：韩国的Web设计很唯美
+https://www.solidot.org/story?sid=11299	11400
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道<i> "作为 Web 设计者，我们希望实现鹤立鸡群的设计，要做到这一点，要开阔眼界。欧美同东方的 Web 设计很不同，因为属于不同的文化。韩国不仅为我们拍摄了很唯美的情色电影，他们的 Web 设计也很唯美。本文精选了35个非常漂亮的韩国 Web 设计，也许可以带来不同的感觉（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K806.aspx">完整图文</a>）。"</i>
+➜针灸作用与安慰剂效应相同
+https://www.solidot.org/story?sid=11300	12600
+对于<a href="http://zh.wikipedia.org/w/index.php?title=%E9%92%88%E7%81%B8&amp;variant=zh-hans">针灸</a>作用的质疑由来已久：2007年9月《内医档案》杂志刊登，德国雷根斯堡大学的迈克尔·哈克博士主持的实验使用1162名腰痛病患分3组分别进行针灸、假针灸和常规治疗对比试验。发现腰痛情况好转的人，针灸组有47.6%，假针灸组有44.2%，常规治疗组有27.4%。针灸组和假针灸组没有统计学意义的差别。现在西雅图Group Health健康研究中心的研究人员做了一次类似的试验，得出了同样的结论：<a href="http://www.time.com/time/health/article/0,8599,1897636,00.html?xid=rss-topstories">针灸作用与安慰剂相同</a>。
+<i>
+高级研究员Daniel Cherkin领导的团队测试了638位慢性腰痛患者，其中没有一个人曾尝试过针灸疗法。他们被分成3组，测试三种不同的针灸治疗：一组接受个别治疗，针灸医生使用传统中医的诊脉和望舌诊病法，为每位患者制定特别的一组针灸穴位，这些穴位最有可能帮助减轻疼痛；另一组接受标准的针灸治疗；最后一组接受假针灸治疗，利用藏在导管内的牙签在穴位上模仿针刺，但并没有刺透皮肤。病人并不知道他们属于哪一组，在超过7周的治疗期内他们每位都接受了10次针灸。研究人员跟踪了患者在8周后、26周后和1年后的背痛情况。令人震惊的是，所有的针灸疗法——定制的、标准的、假冒的——在减轻疼痛方面都产生了相似的结果。8周之后，60%的针灸病人和40%接受假针灸治疗的报告症状减轻；
+1年之后，所有针灸病人中平均有63%的人报告他们的疼痛减轻了，假针灸病人中有半数报告感觉变好，两者之间的差距在缩小。科学家认为一种解释是针灸作用与安慰剂相同，但表示安慰剂效应的相对幅度还需进一步研究。</i>
+➜跨平台系统监视器GKrellM
+https://www.solidot.org/story?sid=11301	18000
+<a href="http://szlug.org/">权相龙</a> 写道<i>"
+<a href="http://members.dslextreme.com/users/billw/gkrellm/gkrellm.html">GKrellM</a>起初是为Linux而设计的系统监视器，但现在已经<a href="http://www.downloadsquad.com/2009/04/27/gkrellm-system-monitor-works-on-mac-linux-and-windows/">可以运行在Windows和Mac</a>。
+它的监视模块包括CPU、内存、网络、线程和其他东东。每个模块都可以被定制外观，和显示不同的信息。GKrellM有大量的插件，用户可以添加实现许多特性。"</i>
+➜OpenOffice公布UI设计方案
+https://www.solidot.org/story?sid=11302	19680
+上个月Open Office社区发布了<a href="http://wiki.services.openoffice.org/wiki/Renaissance">Project Renaissance</a>项目，呼吁社区开发者递交新的UI设计方案，以帮助改进软件的用户界面，增强其用户友好度。目前已有十多位设计者递交并公布了他们的修改方案，其中名叫<a href="http://wiki.services.openoffice.org/wiki/Proposal_by_Knoxy">FLUX UI</a>的方案获得了Sun Microsystems的社区创新奖。现在Open Office社区鼓励用户对这些设计方案进行<a href="http://wiki.services.openoffice.org/wiki/Renaissance/Design_Proposals_for_%E2%80%9CAccessing_Functionality%E2%80%9D">检验和评论</a>，以让作者们能改进他们的方案，修订版本的截止日期是5月25日。
+➜微软发布并行程序语言Axum
+https://www.solidot.org/story?sid=11303	21240
+微软发布了新的<a href="http://msdn.microsoft.com/en-us/devlabs/dd795202.aspx">并行编程语言Axum</a>（之前叫Maestro），基于角色模型（actor model），能帮助开发出充分利用多核处理器能力的应用程序。Axum不能定义类，只能运行在.NET平台内。它借鉴了很多Erlang语言的元素，不过拥有类似C#的语法。Axum目前处于早期发展阶段，微软欢迎开发者发表评论和意见。以下引用<a href="http://www.infoq.com/cn/news/2009/05/Download-Axum;jsessionid=B51D40F0DBF6529A299EACDC4915F7C6">infoq的简介</a>：<i>“
+Axum是一个拥有类似C#语法的命令式语言，它面向actor和域（domain），而不是面向对象的，因此它拥有对象的概念，但是不能自定义类。Axum主要用途是解决并发处理问题，它基于微软机器人实验室的CCR，其他.NET平台的编程语言可以通过调用Axum来实现并发处理。并行安全的最大障碍是共享数据。在Axum中使用共享数据之前需要进行声明，这样运行时就会控制数据访问的过程。语言中已经内建了并发控制机制。”</i>
+➜Square Enix终止粉丝制作的《时空之轮》续篇
+https://www.solidot.org/story?sid=11305	24300
+《<a href="http://zh.wikipedia.org/wiki/%E6%97%B6%E7%A9%BA%E4%B9%8B%E8%BD%AE">时空之轮</a>（Chrono Trigger）》是Square于1995年3月11日在SFC上所发售的经典角色扮演游戏，开发团队包括由井雄二、鸟山明、坂口博信三位重量级设计师组成的梦之队。《时空之轮》于1999年移植到PS主机，2008年移植到NDS掌机。Square也制作了多款游戏相关作品，但皆发布在1999年之前，Square Enix高级副总裁在2007年承认目前没有续集开发计划。<i>
+既然Square暂时无心插花，然而粉丝们却有心推陈出新。一群《时空之轮》粉丝从2004年末开始制作他们的续篇——《<a href="http://crimsonechoes.com/">Chrono Trigger: Crimson Echoes</a>》，到目前为止游戏的完成度达到98%，包含35小时游戏时间，10种不同结局，23章。开发团队计划在2009年5月31日正式发布《Crimson Echoes》，但5月8日，Square Enix向开发者发出了<a href="http://crimsonechoes.com/letter.pdf">终止&amp;停止信函</a>(PDF)。这与2004年Square Enix终止另一个粉丝项目《<a href="http://www.opcoder.com/projects/chrono/">Chrono Resurrection</a>》的做法几乎同出一辙，<a href="http://games.slashdot.org/article.pl?sid=09/05/12/0643208">令人失望之极</a>。</i>
+➜我的青春谁做主mp3
+https://www.solidot.org/story?sid=11304	25380
+<a href="http://www.bctell.com/?p=1036">bizcheers</a> 写道 "《我的青春谁做主》片尾曲mp3(下载)，好姐妹。好轻快的旋律。歌词如下：王珞丹的表演最佳，找到她的博客，支持她。年轻真好，感叹年轻的时候也就几年，荒废的时间多，真正玩的时间少，干正事的时候更少。此剧应该更合中年人的口味，例如70年代出生的，或者60年代出生的人。
+此剧音乐中片尾曲最好，主题曲倒是没什么意思。林海的个人网站提供给大家，林海是《我的青春谁做主》的音乐制作人，非常棒的音乐，大家可以聆听一下他的网站。
+我的青春谁做主－剧照
+每天忙呀忙 对未来多向往
+我们在不同地方 努力要活出自己的光芒
+有时会失望 有时为爱迷惘
+当现实让人受伤 可是我们学会要更坚强
+一起梦 一起飞 我们是好姐妹
+为幸福感动掉泪 你最了解我想要的安慰
+一起笑 一起醉 我们是好姐妹
+要为这友情干杯 这一路上有你多么可贵
+看 这世界会下雨 受了伤会哭泣
+生命 有高有低 可是我从没想过要放弃
+因为身边有你 在给我鼓励 Woo—-oh—
+你是我最好的姐妹
+*"
+➜九城修改用户协议，称有权清空数据
+https://www.solidot.org/story?sid=11306	26820
+《魔兽世界》的中国运营商九城最近进行了一次更新，<a href="http://it.sohu.com/20090512/n263918641.shtml">修改了用户协议</a>，称“第九城市拥有中止、终止和/或删除用户账号的绝对权利。”<i>
+即将在6月向网易交出运营权的九城声称：“第九城市可以在任何时候以任何理由或不给予理由而终止、中止、修改或删除用户帐号，且无需通知用户。”在其它条款中，第九城市表示对对于数据丢失和服务中断不承担任何责任。5月12日晚上，九城宣布<a href="http://www.wowchina.com/news/system/124047.shtml">服务器全面维护</a>，无数玩家在官方论坛上表示关注，<a href="http://bbs.wowchina.com/wow/bbs_list.aspx?forum_id=11">担忧</a>九城是否真的清空数据，删除装备或人物。</i>
+➜精神号登陆器陷入火星土壤中
+https://www.solidot.org/story?sid=11307	28800
+NASA报道，火星探测漫游者<a href="http://zh.wikipedia.org/w/index.php?title=%E5%8B%87%E6%B0%94%E5%8F%B7&amp;variant=zh-hans">精神号</a>（Spirit）现在遇到了大麻烦，<a href="http://www.nasa.gov/mission_pages/mer/news/mer-20090511.html">它的轮子陷入进了松软的火星土壤中</a>，6个轮子中的5个还能旋转。地面上的科学家和工程师已经暂停驾驶漫游者，正研究和商讨对策，模拟测试脱身之法。喷气推进实验室（JPL）的John Callas说，情况严峻，让精神号重新运动起来可能需要一周时间，他们正使用精神号上的科学仪器了解引起麻烦的土壤属性。
+➜MS为Xbox360开发传感3D摄像头
+https://www.solidot.org/story?sid=11308	30000
+<a href="http://szlug.org/">权相龙</a> 写道 "
+《华尔街日报》报道，微软公司正在为Xbox 360游戏机<a href="http://online.wsj.com/article/SB124215416209111679.html">开发一种新型的摄像头</a>，玩家可以使用此设备来玩体感游戏。
+<i>
+微软开发的这种新设备无疑将与任天堂公司的Wii游戏机构成竞争。Wii的玩家通过手握一块控制手柄，移动游戏中的网球拍或其他物体。但知情人士说，与Wii不同的是，微软的摄像头不需要用户通过手握任何硬件设备去控制游戏。这款摄像机使用了3D技术，使玩家可以更精准地控制游戏。知情人士表示，这款新兴设备可能最早会于6月初在洛杉矶举办的E3游戏产业会议上亮相，但可能要等到明年才会发布。"</i>
+➜微软发行40亿美元公司债券
+https://www.solidot.org/story?sid=11309	31500
+微软宣布发行37.5亿美元公司债券，是有史以来的第一次。对于一家拥有充裕现金储备的企业来说，这么做有点不同寻常。那么手中有250亿现金的微软发行40亿债券究<a href="http://news.slashdot.org/article.pl?sid=09/05/12/198250">竟想干什么</a>？微软说它不差钱，发行债券筹集的资金将用于“一般事务”。但分析人士怀疑微软可能有大动作，或许是在酝酿一次大的收购，也许是雅虎。
+➜90后年轻人是如何上政治课的
+https://www.solidot.org/story?sid=11310	37440
+一堂中学课上，老师在上面大谈思想政治，讲物质条件如何改善人民生活，下面的学生则在拍视频，在笔记本上视频语音聊天，丰富精神生活。这是一段名为《<a href="http://player.youku.com/player.php/sid/XODk2NzA4NTI=/v.swf">90后课堂实拍</a>》视频的内容。<i>
+<a href="http://buzz.youku.com/2009/05/13/a-wtf-scene-in-a-high-school-classroom/">视频中</a>，一位胖胖的女孩用书遮住笔记本，戴着耳机与人语音聊天。很快她中途离开教室，后面的同学故意拔掉耳机接口。于是所有学生，包括老师，都听到了一段热情而焦急的对话，不久后学生返回教室，老师面无表情(可能有点无可奈何)的对她说“看来问题非常严重，你还是给他回个电话吧”。</i>
+➜欧盟向英特尔开出创纪录的10.6亿欧元罚单
+https://www.solidot.org/story?sid=11312	54000
+从本周初开始就有流言称欧盟将向芯片巨头英特尔公司处以巨额罚款，现在判决正式宣布。BBC报道，欧盟委员会以限制竞争行为为由，向英特尔开出创纪录的<a href="http://news.bbc.co.uk/2/hi/business/8047546.stm">10.6亿欧元</a>（约合98.5亿人民币）罚单。这一数字令2004年欧盟因微软滥用市场垄断地位而开出的4.97亿欧元罚款相形见绌。
+<i>
+<a href="http://europa.eu/rapid/pressReleasesAction.do?reference=IP/09/745&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">欧盟委员会发现</a>，从2002年到2007年，为了打击和排挤竞争对手AMD公司，英特尔公司向制造商和零售价提供了折扣。AMD对此判决表示欢迎，英特尔<a href="http://news.slashdot.org/article.pl?sid=09/05/13/1133254">表示将会上诉</a>，称“欧盟的这一决定是错误的，忽视了处理器市场高竞争性的事实”。欧盟委员会称个人电脑制造商宏基、Dell、HP、联想和NEC如更多采购英特尔的芯片，就能获得隐蔽的回扣（根据与采购AMD芯片的比例计算）。欧洲最大的电子产品零售商Media Saturn如能更多出售包含英特尔芯片的电脑，就可获得额外的奖励。欧盟竞争委员会专员Neelie Kroes称英特尔的行为伤害了数以百万计的欧洲消费者。</i>

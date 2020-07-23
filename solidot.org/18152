@@ -1,0 +1,17 @@
+➜写了个 WebSSH，给有需要的人
+https://www.solidot.org/story?sid=62073	22739
+<a href="mailto:ranqus@gmail.com">Rui NI</a> 写道 <i>"从 Google Reader 还存在的时候就订阅了 Solidot，今天终于有东西能拿出来提交了。</p>
+<p>我写了一个 WebSSH，可以部署在云或者自己的 VPS 上，通过它作为中间人去连接其他的 SSH 主机。源码仓库：<a href="https://github.com/niruix/sshwifty" target="_blank" title="https://github.com/niruix/sshwifty">https://github.com/niruix/sshwifty</a>，演示：<a href="https://sshwifty.herokuapp.com/" target="_blank" title="https://sshwifty.herokuapp.com/">https://sshwifty.herokuapp.com/</a>（公共服务请不要提交和连接重要的东西哟）。</p>
+<p>在源码仓库的<a href="https://github.com/niruix/sshwifty/releases" target="_blank" title="Release">Release</a>页面可以下载到预编译的二进制包，你也可以直接用 <span style="background-color: rgb(204, 204, 204);"></span><span style="background-color: rgb(204, 204, 204);">docker run --detach --restart=always --publish 8182:8182 --name sshwifty niruix/sshwifty:latest</span> 把它直接部署在 Docker 里。</p>
+</i>
+<p><i>就是这样了。欢迎点 Star、Fork、提 Issue，Enjoy！:D
+"</i></p>
+➜华为开始销售预装深度 Linux 的笔记本电脑
+https://www.solidot.org/story?sid=62074	48342
+因为美国的出口禁令，华为的新设备将无法使用美国公司的软件和零部件，它在欧洲销售的新 Android 手机将无法预装 Google 的应用和服务，而它的新电脑也可能无法预装微软的 Windows。华为<a href="https://www.techrepublic.com/article/huawei-selling-matebook-laptops-with-linux-preinstalled-to-consumers-in-china/"><u>已经未雨绸缪</u></a>，它的在线商城<a href="https://www.vmall.com/list-42" target="_blank"><u>开始销售</u></a>预装 Linux 发行版的笔记本电脑，不过这些预装 Linux 的产品都没货，华为代表表示暂无进一步的消息，用户可点击“到货通知”。华为预装的是一个国产发行版<a href="https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F"><u>深度</u></a>，基于 Debian，图形界面类似中国用户熟悉的 Windows 或 OSX。华为提供 Linux 预装的产品包括了 Matebook 13、Matebook 14 和 Matebook X Pro。
+➜GNOME 3.34 发布
+https://www.solidot.org/story?sid=62075	52246
+GNOME 桌面环境项目<a href="https://help.gnome.org/misc/release-notes/3.34/"><u>释出</u></a>了 3.34 版本。GNOME 项目每半年发布一个版本，新版本包含了新的功能、小的改进和 bug 修正。GNOME 3.34&nbsp; 代号 Thessaloniki，以感谢年度会议 GUADEC 的组织团队。主要新变化包括：浏览器的进程沙盒化，限制了本地资源访问，支持标签固定，更新了广告屏蔽功能；游戏支持保存多个进度；重新设计了设置下 Background  的面板；终端支持从右向左和双向语言；改进了 Wayland 支持，等等。
+➜杨安泽宣布启动基本收入实验
+https://www.solidot.org/story?sid=62076	55231
+美国民主党候选人杨安泽（Andrew Yang)宣布他的竞选团队将使用从支持者筹集到的资金<a href="https://politics.slashdot.org/story/19/09/13/0525253/andrew-yang-announces-universal-basic-income-pilot-program-at-debate" target="_blank"><u>开展基本收入的试点</u></a>。杨安泽在民主党竞争中异军突起，他的一个主要主张就是给美国每个成年人每个月发 1 千美元或每年发 1.2 万美元现金，不附带任何条件，作为应对大规模失业的缓冲。他认为，由于人工智能和自动化，大规模失业正在到来。这项计划被称为 Freedom Dividend Pilot Program，他的竞选团队称已有三个家庭得到了一千美元不带任何条件的资助，能用于从改善住房到修理汽车和照顾家人。

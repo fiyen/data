@@ -1,0 +1,57 @@
+➜诺基亚发布Windows 8手机，称SD卡插槽玷污了设计
+https://www.solidot.org/story?sid=31271	4080
+诺基亚CEO埃洛普(Stephen Elop)周三<a href="http://slashdot.org/topic/cloud/nokia-introduces-lumia-920-windows-phone-8-smartphone/">宣布了</a>两款Windows Phone 8手机Lumia 920和820。<i>
+<a href="http://www.nokia.com/global/products/phone/lumia920/specifications/">Lumia 920</a>采用双核1.5Ghz Snapdragon S4处理器，1GB内存，32GB SSD，7GB SkyDrive，870万像素PureView摄像头，4.5英寸PureMotion HD+触控屏，分辨率1280x 768，电池容量2000 mAh，最大音乐播放时间67小时，视频播放时间6小时，无额外MicroSD卡插槽可扩展存储空间。<a href="http://www.nokia.com/global/products/phone/lumia820/specifications/">Lumia 820</a>同样采用双核1.5Ghz Snapdragon S4处理器，4.3英寸显示屏，分辨率800x480，800万像素摄像头，内存1GB，内部存储空间8GB，有MicroSD卡插槽可扩展32GB存储空间，电池容量1650 mAh。由于内核不同，现有的WP7手机无法升级到WP8，也不能安装WP8应用。对于为什么Lumia 920没有MicroSD卡插槽，诺基亚<a href="http://www.pcpro.co.uk/news/376750/nokia-memory-card-slot-would-have-defiled-our-phone">声称</a>是因为设计师不想玷污手机设计，而820的MicroSD卡插槽位于可移动外壳内部，所以没有破坏手机完整性。</i>
+➜AMD64超过i386成为Debian最流行架构
+https://www.solidot.org/story?sid=31272	6840
+Bill Allombert在Debian开发者邮件列表上<a href="https://lists.debian.org/debian-devel/2012/09/msg00066.html">宣布</a>，AMD64/X86_64超过i386成为Debian<a href="http://linux.slashdot.org/story/12/09/05/1230201/amd64-surpasses-i386-as-debians-most-popular-architecture">最流行架构</a>。根据popcon.debian.org的<a href="http://popcon.debian.org/index.html">统计</a>，AMD64架构包的递交数量占总递交数的51%，i386占47%。第一款<a href="http://en.wikipedia.org/wiki/AMD64">AMD64</a>处理器是在2003年4月发布，64位处理器相比32位处理器的一个最明显优势是支持4GB以上内存，但物理地址扩展(PAE)也可以让i386架构处理器支持4GB以上内存。
+➜苹果否认向FBI提供设备唯一码UDID
+https://www.solidot.org/story?sid=31273	9600
+在匿名黑客<a href="__SLASHLINK__" sect="apple" sid="12/09/04/067221" sn="article" tid="133">声称</a>从FBI笔记本上窃取了1200万苹果设备唯一识别码UDID后，苹果和FBI对此都公开予以否认，然而黑客公开的百万UDID中的部分数据确实有效，能与私人拥有的设备对应起来。AntiSec声称它是通过Java漏洞入侵FBI的笔记本，但FBI<a href="__SLASHLINK__" sect="it" sid="12/09/05/0120200" sn="article" tid="100">否认</a>有笔记本电脑遭入侵，同时否认它收集UDID等数据。一位苹果公司发言人称FBI没有向该公司索要此类信息，而苹果也没有向FBI或其它组织<a href="http://www.cnn.com/2012/09/05/tech/mobile/apple-ids-fbi-hack/index.html">提供UDID数据</a>。苹果发言人同时表示，它已经替换了黑客泄漏的识别码，不再继续使用。目前无法知道黑客泄漏的数据究竟来自何处。
+➜比尔克林顿支持百年星舰计划
+https://www.solidot.org/story?sid=31274	10800
+恒星之间的距离看起来是浩瀚无边难以逾越，将太阳系和其它星系隔离开来。但越来越多的星际爱好者——其中包括美国前总统——<a href="http://news.discovery.com/space/100yss-former-president-bill-clinton-backs-100-year-starship-120905.html">认为光年距离并不是不可逾越的</a>。<a href="http://100yss.org/">百年星舰计划</a>（100YSS）前不久获得了美国国防部高级研究计划署的资助，它将于9月13日在休斯顿举行<a href="http://symposium.100yss.org/">100YSS 2012 Public Symposium</a>研讨会，讨论未来百年内可能发生的星际旅行。前总统比尔克林顿将担任研讨会的名誉主席。他表示探索宇宙所需知识和技术将能用于改善人类在地球上的生活质量。
+➜Google被授予面部识别解锁专利
+https://www.solidot.org/story?sid=31275	12960
+美国专利和商标局(USPTO)<a href="http://news.cnet.com/8301-1035_3-57506457-94/google-wins-patent-on-face-to-unlock-feature/">授予</a>了Google<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&amp;r=9&amp;p=1&amp;f=G&amp;l=50&amp;d=PTXT&amp;S1=(20120904.PD.%20AND%20Google.ASNM.)&amp;OS=ISD/20120904%20AND%20AN/Google&amp;RS=(ISD/20120904%20AND%20AN/Google">面部解锁专利</a>，利用面部识别技术登陆计算机设备。Google的系统需要一个能识别人脸的摄像头，如果用户的脸与预存的身份数据相吻合，那么他就能登陆到相应的设备。如果有多人想要访问计算机，那么第二个人需要进入到摄像头视野内，设备的软件会自动切换到新用户的资料夹。苹果去年也<a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PG01&amp;s1=20110317872&amp;OS=20110317872&amp;RS=20110317872">申请了</a>与Google类似的面部解锁专利。
+➜EVE因应审查修改文字和图标
+https://www.solidot.org/story?sid=31276	14040
+网游《EVE:新纪元》运营商在最新的<a href="http://eve.tiancity.com/homepage/article/2012/09/06/37494.html">更新公告</a>中宣布修改部分文字和图标：<i>
+文字部分如“铀”修改为“钼”，“钚”修改为“锰”，“贫铀”修改为“硬钼”，“核武器”修改为“核芯武器”、“奴隶”修改为“劳工”、“击杀权”修改为“击毁权”等等。图案部分如“将所有带恐怖效果骷髅头的图标进行了替换”等等。</i>假如你看过<a href="http://cache.baidu.com/c?m=9d78d513d99405f84fece4690d61c0676912db3060868b5334c3923884642c564616b2e6783510758998233016ae391eb9a56165377273f7dd93d9148aac92592f8a2434671cf74319c419dec94232c151915fefa41ff0bb802593d9c5d2af0e15950d113dc0ae840046528878f1672cfef1dd1f025f67fcb66339ae023162882337e71aa6fd683358d6b48e091bde7990274ac6f162ad3e10b613b91d103946a451b00d572d36f74f50a502625a&amp;p=8c769a4799934eac5ef787285641&amp;user=baidu&amp;fm=sc&amp;query=http%3A//eve.tiancity.com/homepage/article/2012/09/06/37494.html&amp;qid=96016bf80181107f&amp;p1=1">快照</a>的话，会发现公告中还有几个字后来被删除了：“应相关部门要求，对游戏内部分文字、图案进行优化”。这个有关部门可能是文化部。玩家在官方论坛<a href="http://bbs.tiancity.com/Forum/showforum.aspx?gid=1028&amp;forumid=1">抱怨</a>审查，称要抵制游戏。此前《魔兽世界》也因为“有关部门”要求将尸体变成盒子。
+➜华人空中搏击飞机迫返
+https://www.solidot.org/story?sid=31277	18300
+武术之乡 写道 "9月2日，两名中国籍男乘客在瑞士航空公司从苏黎世飞往北京的LX196航班上打架，导致飞机<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/09/120904_swiss_fined.shtml">被迫返回瑞士</a>。<i>
+瑞士《展望报》报道说一名57岁的中国男乘客因前排一名27岁的中国男乘客把椅背后放影响其就餐而不满，在年轻男子不予理睬后用手掌猛打一下年轻男子的头部。两人开始空中搏击。被乘务员及乘客制服后，年长男子被按在机舱尾部，但他继续叫骂了一个小时。机长决定返回瑞士。降落后两名中国男子被警方带走，缴纳罚款后于周二被释放。航空公司可能会让这两名闹事者赔偿飞机的额外燃油和其他乘客在苏黎世旅店住宿的费用。"</i>
+➜ENCODE：人类基因组百科全书
+https://www.solidot.org/story?sid=31278	21840
+人类基因组包含了人类的全部遗传信息，当研究人员在1990年代测序基因组时，他们主要关心是的那些编码蛋白质的基因。当人类完整基因组被破译出后，科学家吃惊的发现编码蛋白质的基因只占整个基因组的不到3%，其它数十亿碱基对似乎没有用。美国资助的一项大型研究<a href="http://www.nature.com/encode/">Encyclopedia of DNA Elements（ENCODE）</a>发现，这些碱基对实际上对人体<a href="http://news.sciencemag.org/sciencenow/2012/09/human-genome-is-much-more-than-j.html">起着十分重要的作用</a>。它们帮助决定了基因的开或关，让一个细胞成为肾脏细胞，而另一个细胞成为脑细胞。这项研究将能帮助研究人员深入理解基因和疾病之间的联系。ENCODE项目的442名研究人员在《自然》（6篇）、《基因组研究和基因组生物学》（24篇）上共发表了30篇论文（<a href="http://www.nature.com/encode/category/research-papers">全部可免费下载</a>）。在人类基因组的30亿碱基对中，他们发现约八成的基因组<a href="http://www.nature.com/news/encode-the-human-encyclopaedia-1.11312">具有生化活性</a>，76%的基因组DNA能被转录成RNA，识别出DNA中有400万个地方能作为开关控制基因活性。ENCODE创造了<a href="http://genome.ucsc.edu/ENCODE/aboutScaleup.html">一个地图</a>展示不同碱基对的功能。
+➜中国将投资八千亿建设城轨
+https://www.solidot.org/story?sid=31279	24120
+中国发改委宣布<a href="http://companies.caixin.com/2012-09-06/100433551.html">批准了23个城轨建设项目</a>，投资总额接近8400亿元。项目融资模式大抵相似，即政府承担一部分资本金，其余部分由国内银行贷款解决。多数项目资本金由所在城市财政承担，比例最多不超过50%。在2008年宣布四万亿经济刺激计划后，发改委批准了近百条城轨建设项目，但到了2011年许多项目<a href="http://companies.caixin.com/2011-12-26/100342712.html">已经难以为继</a>。发改委官员也承认，很多城市都不该建地铁。专家<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2012/09/120906_china_rail_network.shtml">认为</a>，最新城轨项目的获批符合当前稳增长的政策基调，有利于缓解疲弱的经济走势。
+➜父母官职对大学毕业生第一份工作起薪有显著影响
+https://www.solidot.org/story?sid=31280	25200
+清华大学研究人员在《经济学（季刊）》2012年第三期发表了一篇<a href="http://ceqc.ccer.edu.cn/publish_contributions?date_day_id=3&amp;juan_id=11&amp;timer=Sun+Jan+01+00%3A00%3A00+UTC+2012">论文</a>（不提供免费下载），根据<a href="http://cms.sem.tsinghua.edu.cn/semcms/res_base/semcms_com_www/upload/article/image/2012_2/5_14/zqlvh278mipc.pdf?target=no">中国高校应届毕业生就业调查</a>(PDF)，研究父母的政治资本如何影响大学生在劳动力市场中的表现。他们定义父母中至少一方具有行政级别的学生为“官二代”。调查发现，“官二代”的平均工资为2486元，高出其他学生约18%。研究人员检验了“官二代”身份和其他影响收入的变量与应届毕业生第一份工资平均值的相关性。得到的结果是，“官二代”身份对工资平均值的<a href="http://cnpolitics.org/2012/09/parental-political-capital/">影响显著</a>，工资溢价约为13.3%；而在男生中这种溢价更为显著，达到了20%。在工作行业方面，“官二代”在金融业、党政机关、群众组织、社会团体及国际组织任职的比例明显高于非“官二代”人群。
+➜法国反盗版机构20个月起诉14个人发出1百万警告信
+https://www.solidot.org/story?sid=31281	27360
+2010年，法国政府成立了一个专门的机构负责保护版权和打击P2P下载。这个机构被称为Hadopi。现在，Hadopi的版权保护委员会主席Mireille Imbert-Quaretta公布了该机构<a href="http://arstechnica.com/tech-policy/2012/09/french-anti-piracy-agency-hadopi-only-sued-14-people-in-20-months/">过去两年打击盗版的成绩</a>：Hadopi识别出300万IP地址的用户身份，115万人被发现盗版内容，他们向其发送了警告邮件（三振出局法律的第一步）；在这115万人中，有102,854人收到了第二封警告信，340人收到了第三封警告信。如果第三封信被忽视，Hadopi可以采取法律行动。截至7月1日，只有14人遭到起诉，但至今一项庭审都没有进行。法国新任总统认为Hadopi的效率太低，文化部长Aurélie Filippetti说，60员工花掉1200万欧元只不过发了100万电子邮件，实在是太昂贵了。
+➜Netflix发布云端负载均衡开源工具Eureka
+https://www.solidot.org/story?sid=31282	28800
+一个月前，Netflix在 Apache许可证下开源了<a href="http://github.com/Netflix/SimianArmy">Chaos Monkey</a>，随机关闭Amazon云平台虚拟机，帮助工程师识别网络弱点。现在，Netflix再次填补了Amazon Web Services的大缺口，发布了云端负载均衡工具<a href="https://github.com/Netflix/eureka">Eureka</a>。Netflix通过开源工具让亚马逊的服务<a href="http://arstechnica.com/information-technology/2012/09/eureka-netflix-makes-amazon-more-reliable-with-open-source-software/">变得更可靠</a>。亚马逊提供了一个负载均衡工具Elastic Load Balancer，但针对的是终端用户Web流量服务器，而Eureka针对的是中间层服务器的负载均衡。
+➜机器人跑步速度超过最快的人类运动员
+https://www.solidot.org/story?sid=31283	30240
+Boston Dynamics的四足机器人Cheetah创下了<a href="http://spectrum.ieee.org/automaton/robotics/military-robots/boston-dynamics-cheetah-robot-now-faster-than-fastest-human">新的速度世界纪录</a>：它的时速达到28.3 mph，超过了人类百米世界纪录保持者博尔特(Usain Bolt)在2009年创下的时速27.8 mph。换句话说，在跑步车上，你永远也别想逃出Cheetah的手掌。为了提高Cheetah的速度，Boston Dynamics精心调整了协调腿部运动的控制算法，并增加了安装功率。
+➜太空堡垒卡拉狄加飞行游戏《Diaspora》发布
+https://www.solidot.org/story?sid=31284	32700
+历经4年开发之后，以《太空堡垒卡拉狄加》为背景、采用FreeSpace 2开源引擎的社区游戏《Diaspora: Shattered Armistice》<a href="http://www.hard-light.net/forums/index.php?topic=81859.0">正式发布</a>。故事发生在人类殖民地（Colonies）和赛隆人（Cylons）之间的毁灭性战争发生40年后，期间赛隆人一直销声匿迹。玩家可以在游戏中驾驶MK VII Viper、Raptor、MK VIIe等飞行器，参加与赛隆人舰队的激烈战斗，在多人游戏中作为人类或赛隆人一方与朋友联线对战，游戏原声是基于电视剧，玩家可利用任务编辑器编辑自己的任务。游戏支持Windows、Linux和OS X系统。<a href="http://www.youtube.com/watch?v=DWt2m1xtJbw&amp;feature=plcp">预告片</a>(YouTube)。
+➜旅行者1号升空35周年，还没进入星际空间
+https://www.solidot.org/story?sid=31285	35760
+<a href="http://zh.wikipedia.org/wiki/%E6%97%85%E8%A1%8C%E8%80%851%E5%8F%B7">旅行者1号</a>于1977年9月5日从佛罗里达卡纳维拉尔角发射升空，在飞行<a href="http://www.nasa.gov/mission_pages/voyager/index.html">35年</a>后它是目前离地球最远的人造飞行器，截至2012年9月4日标准时间21点，旅行者1号距离地球<a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=79091">182.1亿公里</a>，相当于121个天文单位（1 AU=1.5亿公里），光从太阳到旅行者1号一个来回需要花33小时44分钟。旅行者1号已经飞到了太阳系边缘的日球层顶（Heliopause），但<a href="http://arstechnica.com/science/2012/09/missing-voyager-1-yet-to-find-the-boundary-line-of-the-solar-system/">尚未真正进入星际空间</a>。2010年4月，Voyager 1飞到了113 AU，探测到太阳风速度明显下降，因此科学家推测它进入到了日球层顶。过去两年的数据显示，太阳风粒子的径向速度约3±11千米/秒（或-8 到+14 千米/秒，“-”符号指的是方向相反）。NASA工程师<a href="http://www.nasa.gov/mission_pages/voyager/voyager20120820.html">预计</a>到2020年旅行者飞船仍然能与地球通信和发送数据，但没人真正知道进入星际空间需要多长时间，科学家预计可能不需要等多久。
+➜Twitter API停止支持RSS
+https://www.solidot.org/story?sid=31286	37500
+Twitter正式发布了<a href="https://dev.twitter.com/docs/api/1.1/overview#New_Twitter_client_policies">v1.1版API</a>，除了之前已报道过的限制第三方客户端外，它还将<a href="http://mashable.com/2012/09/05/twitter-api-rss/">停止支持</a> RSS、XML和Atom。Twitter在宣布新API时形容它将帮助在所有平台和设备上创造一致的体验。RSS和Atom是web feed的两大主要格式，大多数用户使用RSS作为订阅内容的一种方式，而Twitter上的帖子也可以订阅。Twitter允许开发者使用RSS访问时间线和搜索查询。许多社交聚合器都使用RSS将Twitter上的内容整合到其服务中。而现在访问Twitter数据都必须使用OAuth。
+➜牙刷帮助拯救国际空间站
+https://www.solidot.org/story?sid=31287	40800
+美国宇航员Suni Williams和日本宇航员星出彰彦在一周内的第二次太空行走中<a href="http://www.nasa.gov/mission_pages/station/living/index.html">修复了国际空间站的配电系统</a>。空间站有四个配电系统，其中一个出现了故障，宇航员在第一次行走中移除了100公斤重的电力切换单元，但未能成功安装新的设备，因为螺栓堵塞住了。本周三，两名宇航员再次出舱，这次带上一把蓝色牙刷、一把用备用电缆制成的钢丝刷和其他临时凑配的工具，先用压缩氮气吹走固定孔内金属屑，再把固定孔刷干净，用浸透润滑油的布擦拭，随后安装新的设备。当天出舱作业<a href="http://life.xinhua08.com/a/20120906/1016744.shtml">总计6小时28分钟</a>。
+➜脑癌患者更可能使用手机
+https://www.solidot.org/story?sid=31288	42600
+手机增加脑癌风险的说法颇有争议：2010年5月，世界卫生组织(WHO)的一项长达十年的国际调查认为手机致癌<a href="__SLASHLINK__" sect="it" sid="10/05/17/0519206" sn="article" tid="127">并无定论</a>；但6月的另一项研究则认为手机<a href="__SLASHLINK__" sect="science" sid="10/06/18/0723241" sn="article" tid="6">可能会</a>增加使用者患脑癌风险。现在，发表在《病理生理学》的研究<a href="http://www.ncbi.nlm.nih.gov/pubmed/22939605?dopt=Abstract">发现</a>，诊断出恶性脑瘤的患者与控制组相比，使用无线手机的可能性多290%。

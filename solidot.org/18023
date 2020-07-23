@@ -1,0 +1,49 @@
+➜微软的新 Edge 将内置 IE 兼容模式
+https://www.solidot.org/story?sid=60508	13140
+微软<a href="https://arstechnica.com/gadgets/2019/05/coming-soon-to-chromium-edge-ie-tabs-more-privacy-control/"><u>透露</u></a>，基于 Chromium 的新 Edge 浏览器将内置 IE 兼容模式以运行旧的 Web 应用程序。该功能主要服务于企业级用户，企业开发的 Web 应用很少会频繁更新，因此需要旧版本的浏览器去运行不兼容于新版本的应用。新 Edge 内置的 IE 兼容模式将使用 Internet Explorer 11 引擎而不是 Chrome 引擎去渲染标签页。此外，新 Edge 还将引入新的隐私设置，有三种设置可选——无限制、平衡和严格。Edge 还将加入类似 Firefox Pocket 或 Google Keep 的功能 Collections 去保存网页。
+➜Windows 10 Linux 子系统将使用真正的 Linux 内核
+https://www.solidot.org/story?sid=60509	13244
+微软在 Windows 10 一周年更新中引入了名叫 Windows Subsystem for Linux(WSL) 的 Linux 兼容层，WSL 不是真正的 Linux 内核，而是微软自己开发的内核组件，提供了与 Linux 内核相同的 API，本质上是将  Linux API 翻译到 Windows NT kernel API。它有很多不足之处，无法使用 Linux 驱动，尤其是文件系统驱动，因此它的文件系统性能只有真正内核的二十分之一。它提供的 API 集也比较陈旧，部分 API 没有实现，还有部分则是部分实现。Windows Subsystem for Linux 2（WSL 2）<a href="https://arstechnica.com/gadgets/2019/05/windows-10-will-soon-ship-with-a-full-open-source-gpled-linux-kernel/"><u>将改变这一状况</u></a>，WSL 2 将在一个轻量级虚拟机里运行真正的 Linux 内核。Linux 采用 GPLv2 许可，微软将根据许可证要求公开它的内核补丁和修改。通过运行完整的内核，WSL 2 将支持 Docker 容器，不再需要自己去实现 cgroups 等内核功能。WSL 2 将在下个月发布首个预览版本。
+➜以色列对哈马斯黑客发动空袭
+https://www.solidot.org/story?sid=60510	16843
+上周以巴双方爆发了数年以来最激烈的武装冲突，哈马斯<a href="https://www.dw.com/zh/%E4%BB%8A%E6%97%A5%E5%81%9C%E7%81%AB-%E4%BB%A5%E5%B7%B4%E5%86%B2%E7%AA%81%E7%8E%B0%E7%BC%93%E5%92%8C/a-48614803" target="_blank"><u>发射了</u></a>数百枚火箭，而以色列则以空袭反击。在空袭中，它还特别把哈马斯的黑客作为打击目标，这应该是世界上<a href="https://it.slashdot.org/story/19/05/06/1518234/in-a-first-israel-responds-to-hamas-hackers-with-an-air-strike" target="_blank"><u>首次以武力反击网络攻击</u></a>。以色列国防军空袭了加沙地带的一幢建筑物，声称该建筑物内有哈马斯的黑客，他们一直在攻击以色列的网络。以色列军方的网络防御部门负责人称在防御网络攻击方面他们一直占据领先。以色列没有披露任何细节，只是表示以色列首先在网络维度对付了他们，然后空军在物理维度处理了他们，目前哈马斯已经失去了网络攻击能力。
+➜微软跳过 .NET 4 宣布  .NET 5
+https://www.solidot.org/story?sid=60511	17324
+在 Build 开发者大会上，微软宣布 .NET Core 3.0 后的下一个版本将<a href="https://devblogs.microsoft.com/dotnet/introducing-net-5/" target="_blank"><u>是 .NET 5</u></a>，跳过 .NET 4 以避免与 .NET Framework 混淆起来，后者多年来一直停留在版本 4。.NET Core  是微软发起的开源跨平台. NET 框架项目，支持 Windows、OS X、Linux、iOS、Android、tvOS、watchOS 和 WebAssembly 等，可用于开发各种类型的应用。微软表示， .NET 5 将引入新的  .NET API，新的运行时功能和语言特性。 .NET Core 3.0 将消除与 .NET Framework 4.8 在功能上的差距，而 .NET 5 则进一步将 NET Core、.NET Framework、Xamarin 和 Mono 统一到单一平台，将提供 Just-in-Time (JIT) 和 Ahead-of-Time (AOT)编译模式。微软计划在 2020 年 11 月发布  .NET 5，2020 年上半年发布预览版本。Visual Studio 2019、Visual Studio for Mac 和 Visual Studio Code 将通过更新提供支持。
+➜倪光南称开源软件要向华为学习
+https://www.solidot.org/story?sid=60512	18600
+中国工程院院士倪光南<a href="http://www.bjnews.com.cn/finance/2019/05/07/576010.html"><u>表示</u></a>，在开源软件方面，从业者应该向华为学习，通过引进、消化、吸收，创新发展。“中国除了阿里和腾讯以外，华为现在（也）可以和苹果比了。” 他表示，中国在世界信息技术领域中占有相当大的比重。针对软件人才资源，倪光南表示中国人才资源丰富，软件从业人员存量大、增量大。“我觉得要不了多少年，我们的存量人员比美国（的存量人员）还要多。” 同时，倪光南还指出，中国的人才成本低、效率高、速度快，因此中国在软件领域的发展具有较大优势。
+➜Windows 终端将支持主题、标签和绘文字
+https://www.solidot.org/story?sid=60513	26959
+微软在开发者大会上宣布了新的命令行终端<a href="https://devblogs.microsoft.com/commandline/introducing-windows-terminal/" target="_blank"><u> Windows Terminal</u></a>，在功能上它将能媲美  Unix 终端。Windows Terminal 将通过 Microsoft Store 在今年六月提供给用户，将支持主题、标签和绘文字。微软称它倾听了用户的呼声，新的终端支持多个标签；使用 GPU 加速的 DirectWrite/DirectX 文本渲染引擎，用户可选择使用新的字体；提供多种设置和配置选项，让用户更好的控制终端环境。微软计划在下个月发布预览版本，到今年底发布正式版本。微软表示 Windows Terminal 会<a href="https://github.com/Microsoft/Terminal"><u>开源</u></a>，而现有的终端 Windows Console 也会开源。为了避免破坏向后兼容性，Windows Console 不会再引入新的改进。
+➜暗网市场 Wall Street Market 被关
+https://www.solidot.org/story?sid=60514	27182
+围绕暗网市场 Wall Street Market 管理员是否跑路的争论终于可以结束：三名被指运营 WSM 的德国人<a href="https://gizmodo.com/one-of-the-largest-dark-net-markets-of-all-time-falls-1834511568" target="_blank"><u>于上月底在德国被捕</u></a>。美国、德国和荷兰的执法机关正式宣布了这一消息。WSM 是最大的暗网市场之一，美国司法部称它有 115 万客户账户，5400 名注册卖家。当局声称 WSM 管理员上个月从客户账户窃取价值约 1100 万美元的数字货币。他们确实想跑路，但没来得及。除了三人被捕外，还有一名巴西人被控担任网站的公关。
+➜NSA 黑客工具在泄露前已被 APT 组织使用
+https://www.solidot.org/story?sid=60515	28322
+自称 Shadow Brokers 的神秘黑客组织在 2017 年泄漏了 NSA 黑客工具，相关漏洞利用代码随后被用于发动了  WannaCry 和 NotPetya 勒索攻击。本周一，赛门铁克的研究人员<a href="https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit"><u>披露</u></a>，其中两个 NSA 黑客工具在 Shadow Brokers 泄漏前 14 个月就已被 APT 组织用于发动攻击。研究人员表示，他们不知道该黑客组织 Buckeye aka APT3、Gothic Panda、UPS Team 和 TG-0110 是如何获得这些工具的。研究人员猜测一种可能性是黑客逆向工程了 NSA 发动攻击后留下的代码。Buckeye <a href="https://www.nytimes.com/2019/05/06/us/politics/china-hacking-cyber.html"><u>被认为来自中国</u></a>。<br>
+➜维基百科被屏蔽
+https://www.solidot.org/story?sid=60516	30429
+维基百科被屏蔽，封锁方法除了 DNS 注入<a href="https://ooni.io/post/2019-china-wikipedia-blocking.zh/"><u>还有  SNI 过滤</u></a>。研究者用 curl 测试连接到 www.kernel.org（IP 147.75.46.191），但尝试使用 www.wikipedia.org 的 SNI 进行 TLS 握手。但得到的输出结果显示，TLS handshake, Client hello一发出，连接就中断了。相反，如果在与 www.wikipedia.org 进行 TLS 握手时尝试使用 www.kernel.org 的 SNI，请求是成功的并且能够完成 TLS 握手。
+➜计算机科学家设计无法被黑的芯片
+https://www.solidot.org/story?sid=60517	33364
+密歇根大学的计算机科学家<a href="https://news.umich.edu/unhackable-new-chip-stops-attacks-before-they-start/"><u>设计出一种新的处理器架构</u></a>，能主动抵御未来威胁，事实上让现有的 bug 和补丁安全模式过时。被称为  MORPHEUS 的芯片通过每秒 20 次加密和随机重编关键数据比特来阻止潜在的攻击，远快于人类黑客能做出反应的速度，比最快的电子黑客技术快数千倍。密歇根大学教授
+Todd Austin 称，今天一个接一个消除 bug 的方法是一种失败的博弈，只要有新的代码，总会出现新的 bug 和安全漏洞。通过使用 MORPHEUS，即使黑客发现了一个 bug，利用 bug 所需的信息会在 50 毫秒后消失。它可能是最接近不会被黑的安全系统。
+➜美国空军在测试中用激光击落多枚导弹
+https://www.solidot.org/story?sid=60518	35589
+美国空军研究实验室在新墨西哥的白沙导弹试验场<a href="https://www.thedrive.com/the-war-zone/27795/the-air-force-just-shot-down-multiple-missiles-with-a-laser-destined-for-fighter-aircraft" target="_blank"><u>成功测试用定向能武器击落多枚空射导弹</u></a>。该定向能武器由洛克希德马丁公司研发，设计用于保护战斗机和其它飞机。美国空军计划到 2021 年在真正的飞行测试中测试吊舱原型系统，到 20 年代末做好服役准备。洛马公司是在 2017 年获得合同去开发定向能武器，设计作为一个独立的吊舱系统悬挂在战斗机大小的飞机上。美国空军没有透露这次测试的细节，也没有透露击落的是什么类型的导弹。
+➜中国让城市变干净的方法是将污染转移到其它地方
+https://www.solidot.org/story?sid=60519	37803
+2013 年北京的空气污染是如此严重，以至于中国政府立即启动了一项计划去减少大城市的空气污染。今天大城市的空气污染确实有了很大改善，但根据发表在《Science Advances》期刊上的一项研究，中外科学家团队发现中国让城市快速变干净的方法是<a href="https://www.salon.com/2019/05/05/chinas-plan-to-reduce-smog-in-cities-basically-just-moved-it-to-other-areas_partner/"><u>将污染转移到欠发达地区</u></a>。根据政府的政策，北京 53% 的能源生产转移到了其它地方，而农村地区能源生产效率和环境标准都更低。研究发现，政府的政策实际上增加了全国范围的颗粒物污染和碳排放，导致了更多偏远省份水资源短缺，因为这些省份需要向燃煤火电站供水。哈佛中国项目的执行总监 Chris Nielsen 称，中国政府制定此类狭窄目标的好处是它很容易测量很容易传达给公众，而全方面的环境政策更难解释也更复杂。
+➜研究称汉藏语系起源于约 7200 年前
+https://www.solidot.org/story?sid=60520	39917
+根据发表在 PNAS 期刊上的<a href="https://www.pnas.org/content/early/2019/04/30/1817972116"><u>研究</u></a>，世界第二大语系——汉藏语系<a href="http://news.sciencenet.cn/htmlnews/2019/5/425977.shtm" target="_blank"><u>起源于</u></a>大约 7200 年前的中国北方。汉语、藏语等 400 多种东亚语言被认为拥有共同的祖先语言，合称汉藏语系。尽管语言学家从 19 世纪初就开始对这一语系展开研究，但对汉藏语系的分化时间、起源地点等长期存有争议。法国高等社会科学学院东亚语言研究所和德国马克斯 · 普朗克人类历史学研究所等机构的研究人员，用谱系分类法对古汉语、古缅甸语和古藏语等 50 种汉藏语系语言的数据进行分析，研究结果显示，汉藏语系起源于种植粟的农业人口，他们生活在磁山文化晚期和仰韶文化早期的黄河流域。
+➜联合国报告称百万物种因人类活动面临灭绝
+https://www.solidot.org/story?sid=60521	42344
+联合国的<a href="https://www.ipbes.net/news/Media-Release-Global-Assessment"><u>一份报告（摘要）</u></a>称有大约百万物种因人类活动濒临灭绝。这份长达约 1800 页的报告，是由来自 50 个国家的近 150 名专家经过三年时间编写的，另有 250 名专家对报告予以了额外贡献。科学家们在这份报告中<a href="http://news.sciencenet.cn/htmlnews/2019/5/425971.shtm"><u>预测</u></a>，由于人类对经济发展的无节制追求，具体来说，是受农业、渔业、狩猎和气候变化的影响，地球上物种灭绝的速度将迅速加快。在人类已知的大约 800 万个物种中，100 万个物种将面临灭绝的威胁，其中很多物种灭绝将发生在数十年后。科学家们也表示，拯救生物多样性，目前还为时不晚。
+➜中国私人火箭公司准备进行首次卫星发射
+https://www.solidot.org/story?sid=60522	44495
+在两家民间公司发射失败之后，另一个中国私人火箭公司北京星际荣耀空间科技有限公司<a href="https://m.thepaper.cn/newsDetail_forward_3378186?from=timeline&amp;isappinstalled=0"><u>准备</u></a>在六月初进行首次卫星<a href="https://spacenews.com/chinas-ispace-to-make-private-orbital-launch-attempt-in-early-june/"><u>入轨发射</u></a>。星际荣耀、蓝箭航天、零壹空间、翎客航天、深蓝航天、星途探索、星河动力、灵动飞天、九州云箭至少 9 家民营火箭公司于 2015 年前后成立，并相继落户北京亦庄，这里被戏称为 “火箭一条街”。这些火箭企业已发射了 6 枚火箭，其中蓝箭航天去年 10 月发射的三级固体运载火箭 “朱雀一号” 及今年 3 月零壹空间发射的四级固体运载火箭遭遇失利。
+➜研究认为万智牌是图灵完全的
+https://www.solidot.org/story?sid=60523	47322
+<a href="https://zh.wikipedia.org/wiki/%E4%B8%87%E6%99%BA%E7%89%8C" target="_blank"><u>万智牌</u></a>（Magic: The Gathering）是一种非常流行卡牌对战游戏，由 Richard Channing Garfield 设计，威世智公司（Wizards of the Coast）出品。英国和美国的三名研究人员发表<a href="https://arxiv.org/pdf/1904.09828.pdf"><u>论文</u></a>（PDF），认为万智牌是图灵完全的，它的最优玩法至少和<a href="https://zh.wikipedia.org/wiki/%E5%81%9C%E6%9C%BA%E9%97%AE%E9%A2%98" target="_blank"><u>停机问题</u></a>一样困难。他们从算法博弈论角度评估谁将赢得比赛的计算复杂性。他们提出了一种方法，将通用图灵机嵌入到万智牌游戏中，结果显示存在一种真实世界的游戏，判定必胜策略是不可计算的。

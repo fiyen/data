@@ -1,0 +1,61 @@
+➜Debian默认桌面再次切换到Gnome
+https://www.solidot.org/story?sid=41246	7515
+Debian在2013年<a target="_blank" href="http://www.solidot.org/story?sid=37111"><u>宣布</u></a>下一个版本Jessie的默认桌面将从Gnome换成XFCE，但该决定已被撤销，Jessie<a target="_blank" href="https://anonscm.debian.org/cgit/tasksel/tasksel.git/commit/?id=dce99f5f8d84e4c885e6beb4cc1bb5bb1d9ee6d7"><u>将继续使用Gnome</u></a>。Debian Jessie继续用Gnome主要是基于可访问性和systemd整合的理由<a target="_blank" href="https://wiki.debian.org/DebianDesktop/Requalification/Jessie"><u>作出的</u></a>，Debian今年初<a target="_blank" href="http://www.solidot.org/story?sid=38298"><u>决定</u></a>选择systemd作为默认的init系统。开发者称，Xfce和Mate等诸多桌面环境在systemd整合上都落后于Gnome，而KDE在可访问性上落后于Gnome。Debian 8.0 Jessie计划在2015年发布。
+➜PayPal宣布支持比特币支付
+https://www.solidot.org/story?sid=41247	9941
+PayPal<a target="_blank" href="http://thenextweb.com/insider/2014/09/23/paypal-integrates-bitcoin-processors-bitpay-coinbase-gocoin-merchants-us-canada/"><u>宣布</u></a>与三家比特币支付平台<a target="_blank" href="http://blog.bitpay.com/2014/09/23/bitpay-and-paypal-an-unbeatable-payment-partnership.html"><u>BitPay</u></a>、<a target="_blank" href="http://blog.coinbase.com/post/98237675392/paypal-expands-commitment-to-bitcoin-adds-coinbase-as"><u>Coinbase</u></a>和<a target="_blank" href="http://blog.gocoin.com/gocoin-and-paypal-accept-bitcoin/"><u>GoCoin</u></a>合作，为数字商品买家提供接受比特币支付的选项。目前这项功能只支持美国和加拿大地区的买家，未来会考虑推广到其它地区。PayPal没有将比特币作为货币加入到它的数字钱包中，它也不处理比特币支付，所有的比特币支付都由上述三家比特币支付平台之一经手。也就是说，虽然PayPal开始接受比特币，但非常谨慎，放慢步伐。PayPal企业战略高级总监 Scott Ellison说，PayPal拥抱创新，但同时要确保支付安全和可靠，表示要遵守每一个市场的法律和监管。
+➜糟糕UI设计的致命性：因特航空148号班机空难，一次惨痛教训
+https://www.solidot.org/story?sid=41248	11292
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "1992年7月20日，因特航空148号航班在接近法国斯特拉斯堡国际机场的孚日山脉坠毁。96名机组人员和乘客中有87人遇难。那么我为什么要在编程博客上写这么可怕的事故？因为事故的原因（<a href="http://blog.martindoms.com/2011/01/24/poor-ui-design-can-kill/" target="_blank">英文</a>，<a href="http://blog.jobbole.com/77320/" target="_blank">中文译文</a>）。
+许多因素共同导致了因特航空148号班机撞山坠毁。然而，其中一个主要原因应该引起每一位软件开发者或用户界面（UI）设计师的关注。空客A320拥有世界上最先进的驾驶舱。舱内飞行员所面对的大部分仪表和仪器都是数字化的。
+后来人们发现，空客A320使用单屏显示两种不同降落模式——垂直速度（VS）模式和飞行航径角模式（FPA）。飞行航径角用小数点分开的两个数字显示，垂直速度用两位数字显示（他们都有一个减号表示负值）。右边是一个图像显示FPA值为-2.8′ 。在VS状态下没有显示图像，但你可以发现两个显示图像如此相似——几乎难以区分。"</i>
+➜印度火星探测器成功进入火星轨道
+https://www.solidot.org/story?sid=41249	12440
+<div align="center"><img src="http://img.solidot.com.cn/0/639/litZhlxfGSQ.jpg" align="" height="480" width="480"><br>
+</div>
+<br>
+印度空间研究组织<a href="http://www.isro.org/mars/updates.aspx" target="_blank"><u>宣布</u></a>，该国的火星探测器<a href="http://en.wikipedia.org/wiki/Mars_Orbiter_Mission" target="_blank"><u>Mangalyaan</u></a>成功进入了火星轨道，成为继美国、俄罗斯和欧洲之后第四个将探测器成功发射到火星的国家。Mangalyaan于2013年11月5日发射，项目投资仅为7300万美元。探测器携带了科学仪器探测火星大气和拍摄火星表面信息。
+➜分解苹果的A8系统级芯片
+https://www.solidot.org/story?sid=41250	14515
+苹果刚刚发布的iPhone 6手机搭配了A8系统级芯片，该公司声称性能比上一代A7提升了50%。但A8与A7究竟有何差异？Chipworks<a target="_blank" href="http://www.chipworks.com/en/technical-competitive-analysis/resources/blog/inside-the-iphone-6-and-iphone-6-plus/"><u>分解了A8</u></a>，观察其内部结构细节。A7由三星生产，采用28纳米HKMG工艺，芯片面积104平方毫米，2个 64位Cyclone ARMv8核心和 4个IMG PowerVR G6430 GPU核心，晶体管数量超过10亿；A8由台积电生产，采用20纳米HKMG工艺，芯片面积减小到89平方毫米，采用2个增强版的64位Cyclone ARMv8核心和4个IMG PowerVR GX6450 GPU核心，晶体管数约20亿。A7到A8的<a target="_blank" href="http://www.anandtech.com/show/8562/chipworks-a8"><u>演变是渐进的</u></a>，新GPU核心主要是引入了性能优化和功能升级；新CPU的架构也只是略作调整，三级缓存仍然是4MB。
+➜暴雪取消开发了7年的网游Titan
+https://www.solidot.org/story?sid=41251	18015
+暴雪从未正式宣布的下一代网游项目《Titan》<a target="_blank" href="http://www.polygon.com/2014/9/23/6833953/blizzard-cancels-titan-next-gen-mmo-pc"><u>正式被取消</u></a>，游戏已经<a target="_blank" href="http://www.polygon.com/2014/9/23/6827535/blizzard-history-of-titan-mmo"><u>开发了七年</u></a>。暴雪联合创始人兼CEO  CEO Mike Morhaime说，他们创造了《魔兽世界》，所以对开发新的网游非常有自信。他们设定了你能想象到的最雄心勃勃的目标，但结果并未如意。在《Titan》的开发中，他们没有找到乐趣和激情。在重新评估是否值得开发之后，他们对游戏下了死刑判决。和暴雪开发的许多游戏一样，《Titan》项目也经历过推到重来，但最终仍然被放弃。MMO-Champion报道了一个<a target="_blank" href="http://www.mmo-champion.com/content/4343-Blizzard-Cancels-Titan-Project"><u>流言</u></a>：暴雪正在进行的一个新项目叫普罗米修斯（ Prometheus）。
+➜Tor Challenge鼓励志愿者设立了超过1500个中继节点
+https://www.solidot.org/story?sid=41252	24339
+<div align="center"><img src="http://img.solidot.com.cn/0/640/liUvbIzFT3HNo.png" align="" height="250" width="400"><br>
+<br>
+</div>
+电子前哨基金会(EFF)、自由软件基金会、新闻自由基金会和Tor项目等在今年6月联合发起了活动<a href="https://www.eff.org/torchallenge/" target="_blank"><u>Tor Challenge</u></a>，鼓励志愿者运行中继和网桥服务器。中继服务器是Tor匿名网络的关键，更多的中继将能增加Tor匿名网络的带宽和匿名性。EFF现在<a href="https://www.eff.org/deeplinks/2014/09/tor-challenge-inspires-1635-tor-relays" target="_blank"><u>宣布了活动结果</u></a>：超过1500名志愿者建立了中继，其中包括300多个出口节点，1200多个中继节点，100多个网桥。
+<p></p>
+➜金士顿三星固态硬盘通过1.5PB数据写入
+https://www.solidot.org/story?sid=41253	26861
+TechReport今年上半年<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=39987"><u>测试了</u></a>来自海盗船、英特尔、三星和金士顿五个型号的六块固态硬盘，有三块SSD的数据写入突破1PB（1000TB）而没有发生故障：海盗旗240GB Neutron GTX，三星256GB 840 Pro和金士顿HyperX 3K。现在，TechReport对这些还能工作的固态硬盘产品<a target="_blank" href="http://techreport.com/review/27062/the-ssd-endurance-experiment-only-two-remain-after-1-5pb"><u>展开了进一步的压力测试</u></a>，结果是海盗旗的产品在1.1PB数据写入后出现SMART警告信息，显示其原始数据读取错误率超过了可接受的阈值，它在1.2PB数据写入后死亡。最后还有两款产品三星 840 Pro和金士顿HyperX 3K通过了1.5PB数据写入测试，测试者正进一步挑战2PB写入。
+➜美国开始轰炸叙利亚境内的伊斯兰国目标
+https://www.solidot.org/story?sid=41254	27741
+美国<a target="_blank" href="http://cn.wsj.com/gb/20140923/bgh102956.asp"><u>开始轰炸</u></a>叙利亚境内的伊斯兰国目标。五角大楼周一表示美国海军动用战斧巡航导弹和包括F-22在内的战机，按照计划攻击了叙利亚境内被伊斯兰国武装分子控制地区的超过十二个目标。至少四个阿拉伯国家的飞机与美国战机一道参加了对叙利亚境内目标的打击行动，这些国家包括约旦、阿拉伯联合酋长国、巴林和沙特阿拉伯。美国总统奥巴马(Barack Obama)周二<a target="_blank" href="http://cn.wsj.com/gb/20140924/bgh092646.asp"><u>表示</u></a>，此轮由阿拉伯盟友共同参与的打击行动表明，国际社会和中东地区大力支持此次行动。美国及其盟国对叙利亚境内的目标发射了160多枚炸弹和导弹，摧毁了极端组织伊斯兰国和Khorasan的重要建筑和基础设施。知名记者Glenn Greenwald<a target="_blank" href="https://firstlook.org/theintercept/2014/09/23/nobel-peace-prize-fact-day-syria-7th-country-bombed-obama/"><u>对此评价说</u></a>，叙利亚成为2009年诺贝尔和平奖得主轰炸的第7个穆斯林国家，之前6个分别是阿富汗、巴基斯坦、也门、索马里、利比亚和伊拉克。
+➜以色列情报机构前成员指责该机构滥权
+https://www.solidot.org/story?sid=41255	30986
+根据前NSA合同工Edward J.Snowden泄露的机密文件，前NSA局长亚历山大将军（Keith B. Alexander）曾在文件中透露该机构编辑了访问色情网站的记录，建议利用该信息损坏被认为是激进者的人的名誉。Snowden<a target="_blank" href="http://www.nytimes.com/2014/09/17/opinion/israels-nsa-scandal.html?_r=1"><u>表示</u></a>，这份文件令他想起了当年FBI试图以马丁路德金的出轨记录相威胁。现在，NSA的以色列合作伙伴、高度机密的情报机构Unit 8200前成员也指责该机构<a target="_blank" href="http://www.theguardian.com/world/2014/sep/12/israeli-intelligence-reservists-refuse-serve-palestinian-territories"><u>存在同样的问题</u></a>。43名Unit 8200前成员及预备役成员联合致函该机构指挥官、以色列总理内塔尼亚胡和军方首领，指责以色列利用收集的情报对无辜的巴勒斯坦人进行政治迫害，表示拒绝成为加深被占领领土军事控制的工具。他们称情报机构特别收集巴勒斯坦人的性倾向、出轨、金钱问题，家庭医疗条件和其它私人事务的数据，将这些数据用于强迫巴勒斯坦人成为合作者或制造社会分裂。
+➜Adobe中国公司关闭
+https://www.solidot.org/story?sid=41256	31806
+Adobe<a target="_blank" href="http://companies.caixin.com/2014-09-24/100732669.html"><u>将关闭中国公司</u></a>，约400名员工中的大部分将从10月底开始陆续被遣散，Adobe今后在中国将只保留销售部门，中国区业务将移交给Adobe印度公司。该公司内部人士表示这一消息来得很突然，他们是在9月23日傍晚5点收到了中国区主管Ning-Ju Nan发来的电子邮件，通知在9月24日集会。在会议上，他们被告知公司关闭。Adobe中国公司办公室设立在北京，共有开发、测试、设计师和销售人员共400人左右。公司确认关闭后，这些员工被分为五类，分别将拿到不同颜色的信封。拿到绿色信封的员工将是最早离开的一批，辞退时间为10月底，红色信封代表12月底离开公司。销售人员的信封为白色，销售部是中国公司关闭后唯一继续存在的部门。
+➜Fedora 21 Alpha发布
+https://www.solidot.org/story?sid=41257	34217
+Fedora项目<a target="_blank" href="http://mid.gmane.org/%3C20140923090121.2f58278a%40anubis.ausil.us%3E"><u>发布</u></a>了<a target="_blank" href="http://fedoraproject.org/get-prerelease"><u>Fedora 21 Alpha</u></a>。Fedora 21是Fedora.Next的第一个版本，引入了三种不同的产品：云、服务器和工作站。其中Fedora 21 Base只包含基本的软件包，如kernel、RPM、yum、systemd和Anaconda。Fedora 21 Cloud包含运行私有云环境OpenStack、公有云AWS和Docker 容器时使用的镜像。Fedora 21 Server的目的是简化服务器应用软件的安装。Fedora 21 Workstation 则是为开发者提供了一个友好的服务器端和客户端应用开发平台，使用了最新的 GNOME 3.14桌面环境，可选Wayland显示服务器。
+➜约瑟夫高登可能在奥利弗·斯通电影中扮演Edward Snowden
+https://www.solidot.org/story?sid=41258	36003
+奥利弗·斯通和索尼公司都在筹拍Edward Snowden的电影，其中索尼公司的电影将是基于Glenn Greenwald的《No Place to Hide》，制片人是 Michael G. Wilson和 Barbara Broccol；而奥利弗·斯通则购买了另外两部Edward Snowden作品的电影改编权——其一是卫报记者Luke Harding的《The Snowden Files: The Inside Story Of The World’s Most Wanted Man》，其二是Snowden在俄罗斯的律师Anatoly Kucherena所著的《Time of the Octopus》。斯通的电影将起名为《The Snowden Files》，据好莱坞消息源透露，知名演员<a target="_blank" href="http://www.imdb.com/name/nm0330687/?ref_=fn_al_nm_1"><u>约瑟夫高登</u></a>正在洽谈扮演Edward Snowden事宜。高登出演过《黑暗骑士崛起》和《盗梦空间》。奥利弗·斯通以左倾著称，他执导过多部政治影片如《肯尼迪》和《华尔街：金钱永不眠》。
+➜Eric Schmidt称Google关心隐私驳斥Tim Cook
+https://www.solidot.org/story?sid=41259	38538
+苹果CEO 库克（Tim Cook）说，对于互联网公司而言，用户就是产品。库克没有点名，但明显是指Google为代表的互联网公司。Google执行主席施密特（Eric Sc​​​​hmidt）接受ABC采访时<a target="_blank" href="http://abcnews.go.com/Business/googles-eric-schmidt-calls-julian-assange-paranoid-tim/story?id=25679642"><u>驳斥了库克的说法</u></a>，称“Google允许你删除我们知道的有关你的消息，实际上Google是如此关注隐私问题，以至于比如说，当你使用Chrome浏览器的时候，你可以在'隐身模式'下进行浏览，这样就没有人能看到任何有关你邪恶信息。所以我不认为这样说是对的。” WikiLeaks创始人Julian Assange不久前也对媒体评价说Google的商业模式是做间谍，是私营版的NSA。施密特作出了回应，<a target="_blank" href="http://www.nanzao.com/sc/international/38729/gu-ge-shi-mi-te-ku-ke-da-cuo-te-cuo-sang-qi-wang-xiang-kuang"><u>称Assange是妄想狂</u></a>，表示“Google从来没有和NSA合作过，实际上对他们做的事情，我们非常努力地反抗，而且既然NSA在做我们不喜欢的事情，我们已经把我们全部的数据、全部的交流记录都充分加密，没有人可以拿到它们，尤其是政府。”施密特还透过采访<a target="_blank" href="http://abcnews.go.com/Business/suite-insider-googles-eric-schmidt-wakes/story?id=25680850"><u>透露了</u></a>一些自己的私生活：早上八点起床，一天睡八个半小时，Google是默认主页，YouTube是最喜欢的应用，仍然喜欢读纸质的书籍和报纸。
+➜Kali将Android设备变成黑客瑞士军刀
+https://www.solidot.org/story?sid=41260	40835
+Kali Linux是用于渗透测试和网络监视的Linux发行版，前称BackTrack，基于Debian，由Offensive Security公司开发。现在Kali团队和Offensive Security发布了一个运行在Google Nexus设备上的新项目<a target="_blank" href="http://nethunter.com/"><u>NetHunter</u></a>——基于Kali Linux的Android渗透测试平台。NetHunter将Android设备<a target="_blank" href="http://arstechnica.com/information-technology/2014/09/kali-nethunter-turns-android-device-into-hacker-swiss-army-knife/"><u>变成了黑客的瑞士军刀</u></a>，虽然处于早期发展阶段，但已经包含了无线网络攻击，BadUSB中间人攻击实现——将通过USB连接PC的手机伪装成网络适配器监视所有网络流量，对PC发动键盘攻击，提升Windows PC权限，等等。公司开发者Mati Aharoni表示，NetHunter能编译运行在非Nexus设备上，目前支持的设备包括Nexus 5、Nexus 7 (2012和2013版)，以及Nexus 10。
+➜俄罗斯限制外资投资媒体的持股比例
+https://www.solidot.org/story?sid=41261	41781
+俄罗斯议会周二通过了一份初步法律草案，<a target="_blank" href="http://cn.nytimes.com/world/20140924/c24russia/"><u>将俄罗斯媒体机构的外资持股比例上限设定为20%</u></a>。该法案针对的是几家对政府持批评态度的著名出版物，旨在让该国的独立新闻媒体处在克里姆林宫的掌控之下。俄罗斯商业日报《新闻报》，俄文版《福布斯》杂志，以及另外的几十家资讯、社会和时尚类杂志，都在该法案所涉及的范围之内，这些出版物将不得不在2017年之前变更所有权结构，否则就会关门。该法案的首次宣读几乎全票通过：表决结果为434比1。议员们展开了激烈的讨论，指责西方正在利用这些新闻媒体攻击俄罗斯政府。
+“冷战，即信息战争，正在向俄罗斯联邦袭来，我们必须运用它的规则，”支持该法案的议员瓦季姆·坚金(Vadim Dengin)说。<br>
+➜台湾调查小米手机的网络安全问题
+https://www.solidot.org/story?sid=41262	44318
+小米手机今年早些时候<a target="_blank" href="http://www.solidot.org/story?sid=40410"><u>被发现</u></a>会向北京服务器<a target="_blank" href="http://www.solidot.org/story?sid=40668"><u>传送信息</u></a>，虽然小米声称已经发布更新<a target="_blank" href="http://www.solidot.org/story?sid=40674"><u>解决了该问题</u></a>，但此事仍然引发了网络安全方面的担忧。台湾行政院院长江宜桦于23日在立法院答询时<a target="_blank" href="http://www.ey.gov.tw/News_Content2.aspx?n=F8BAEBE9491FC830&amp;sms=99606AC2FCD53A3A&amp;s=4BC29C361AF6CE8D"><u>回应</u></a>，由于如移动通信工具LINE等确实有信息安全疑虑，已通令要求公务员不要使用。所谓通令意指公务电脑不能使用MSN或LINE等通讯软件，同时也在管理端禁止在公务电脑下载LINE等软件，但由于个人手机或私人电脑属于私领域范畴，不在此限。 针对中国平价手机小米机进入台湾市场，却被发现部分机型会把用户个人资料自动回传北京。江院长表示将责成科技部长张善政与通传会及工业局详细研究后，3个月内做出通则性规定。

@@ -1,0 +1,45 @@
+➜Windows 10 商店开始提供付费 Linux 发行版
+https://www.solidot.org/story?sid=58524	11906
+微软的 Windows 10 应用商店<a href="https://www.techrepublic.com/article/windows-10s-first-paid-for-linux-based-distro-20-app-out-now-says-microsoft/" target="_blank"><u>开始提供</u></a>第一个付费 Linux 发行版。软件巨人是在 Windows 10 一周年更新中引入了名叫 Windows Subsystem for Linux(WSL) 的 Linux 兼容层，允许用户在 Bash 终端运行 Linux 可执行文件。此后微软的应用商店开始提供多种 Linux 发行版供用户安装，在最新的更新（11 月了但 10 月更新还没推送）中，微软的商店<a href="https://blogs.msdn.microsoft.com/commandline/2018/11/05/whats-new-for-wsl-in-the-windows-10-october-2018-update/"><u>加入了</u></a> Ubuntu 18.04 、<a href="https://github.com/WhitewaterFoundry/WLinux"><u>WLinux</u></a>，OpenSUSE 15 和 SLES 15，其中 WLinux 需要付费，标价为 20 美元。WLinux 基于 Debian，其开发者 Whitewater Foundry 称该发行版专为 WSL 配置和优化，是一个为开发者设计的快速 Linux 终端环境，没有初始化系统 systemd。
+➜中国成立 RISC-V 联盟
+https://www.solidot.org/story?sid=58525	13795
+中国在乌镇互联网大会上<a href="http://news.sciencenet.cn/htmlnews/2018/11/419686.shtm"><u>宣布成立</u></a> RISC-V 中国联盟，联盟理事长是倪光南。RISC-V 是基于精简指令集（RISC）原则的一个开源指令集架构。相比其他指令集，RISC-V 指令集可以自由地用于任何目的，允许任何人设计、制造和销售 RISC-V 芯片和软件。RISC-V中国联盟秘书长包云岗称，“RISC-V指令集有望像开源软件生态中的Linux那样，成为计算机芯片与系统创新的基石。”但只有RISC-V指令集还远远不够，还需要开发基于RISC-V的开源工具链、开源IP、开源SoC等才能形成开源芯片生态，这需要更多支持开源芯片的力量参与和贡献。联盟制定了一个“三步走”计划，希望用10年左右的时间，到2030年逐步完成开源芯片生态的建立。联盟发起单位包括中科院计算所、北京大学、清华大学、阿里—中天微、百度、中芯国际等近20家研究机构和企业，目前已有一批企业构建了开源芯片关键技术。
+➜维基百科三分之一的讨论无疾而终
+https://www.solidot.org/story?sid=58526	16155
+世界最大的在线百科全书维基百科完全由志愿者维护和管理，核心志愿者们花费了大量的个人时间确保用户访问的信息是精确和最新的。统计显示，77% 的维基百科条目是由 1% 的核心志愿者编写的，这些核心志愿者投入如此之大以至于经常发生编辑战，他们花了近十年时间争论玉米和讨论神经质的含义。当志愿编辑之间对条目的某些内容出现分歧后，他们首先会在该条目的讨论页面进行商讨。如果还是无法解决分歧，他们就建立一个 <a href="https://en.wikipedia.org/wiki/Wikipedia:Requests_for_comment" target="_blank"><u>Request for Comment(RfC)</u></a>，双方互相讨论优缺点以寻求达成一致。但最新研究显示，三分之一的 RfC 争论<a href="https://motherboard.vice.com/en_us/article/3k9zjv/a-third-of-wikipedia-discussions-are-stuck-in-forever-beefs" target="_blank"><u>没有得出任何结论</u></a>，编辑们往往因为感到挫折或感到精疲力竭而放弃继续讨论。主要瓶颈被认为是缺乏经验，或有经验的编辑没有关注讨论，或者是琐碎的争吵。
+➜新华社引入 AI 合成主播
+https://www.solidot.org/story?sid=58527	17699
+中国官方的新华社联合搜狗<a href="http://www.xinhuanet.com/politics/2018-11/07/c_1123678126.htm" target="_blank"><u>发布了</u></a>首个合成新闻主播。新华社发布了两个 AI 主播，一个讲中文，另一个<a href="https://www.youtube.com/watch?v=GAfiATTQufk"><u>讲英文</u></a>（YouTube）。“AI合成主播”是通过提取真人主播新闻播报视频中的声音、唇形、表情动作等特征，运用语音、唇形、表情合成以及深度学习等技术联合建模训练而成。该项技术能够将所输入的中英文文本自动生成相应内容的视频，并确保视频中音频和表情、唇动保持自然一致，展现与真人主播无异的信息传达效果。新华社称，真人主播一天只能工作 8 小时，但 AI 主播可以根据输入的文字一天 24 小时工作。
+➜研究声称半数台湾居民携带了不容易胖的基因变种
+https://www.solidot.org/story?sid=58528	18283
+台湾研究团队分析了 1 万笔经抽血分析基因、填写问卷回答生活习惯的资料，发现携带 DOK5 变异基因的人的肥胖比例较低。DOK5 基因与胰岛素讯号的传递有关，当出现变异时，胰岛素的敏感度降低，就会减少细胞吸收血糖的能力，将原本可能变成脂肪的血糖，转换为可燃烧供身体所用的肝糖。研究<a href="https://www.cna.com.tw/news/ahel/201811080372.aspx"><u>指出</u></a>，有 DOK5 基因变异者，即便没积极控制体重、平时有在吃宵夜，身体质量指数（BMI）过高的比例仍比一般人低 41%，估计这类人约占全台总人口的一半，但并未进一步分析族群特色，民众必须经由检测才能确认自己的基因状况。
+➜思科移除了今年内发现的第 7 个后门账号
+https://www.solidot.org/story?sid=58529	27083
+思科本周释出了 15 个补丁，<a href="https://www.zdnet.com/article/cisco-removed-its-seventh-backdoor-account-this-year-and-thats-a-good-thing/" target="_blank"><u>其中之一是移除后门账号</u></a>。到今年为止，思科已经从其产品里移除了 7 个后门账号，大部分是测试或调试之后留在软件/固件里的调试账号。7 个中有 5 个是思科自己的内部审计发现的，只有两个是外部安全研究人员发现的。自 2015 年 12 月开始内部审计以来，思科定期梳理其所有软件的源代码。该公司是在安全研究人员从其竞争对手 Juniper 的操作系统 ScreenOS 里发现后门账号之后开始审计自己的产品源代码的，Juniper 的后门能允许攻击者解密 VPN 加密流量。
+➜大疆身份识别系统漏洞允许攻击者将无人机变成间谍工具
+https://www.solidot.org/story?sid=58530	28953
+大疆是世界最大的消费者无人机制造商，美国政府曾对大疆无人机发出警告，担心它收集的美国基础设施信息会提供给中国政府。现在 Check Point 的安全研究人员在大疆身份识别系统中<a href="https://research.checkpoint.com/dji-drone-vulnerability/" target="_blank"><u>发现了一个漏洞</u></a>允许任何攻击者将无人机<a href="https://www.securityweek.com/dji-drone-vulnerability-exposed-customer-data-flight-logs-photos-and-videos" target="_blank"><u>变成一种间谍工具</u></a>。漏洞已经修复，它允许攻击者完全控制用户的账号，访问储存在云端的飞行记录，航拍照片，用户的信用卡信息，以及无人机摄像头和麦克风的实时信息。
+➜Sundar Pichai 称技术不能解决人的问题
+https://www.solidot.org/story?sid=58531	30924
+Google CEO Sundar Pichai 接受纽约时报的<a href="https://www.nytimes.com/2018/11/08/business/sundar-pichai-google-corner-office.html"><u>采访</u></a>，谈论了公司雇员的抗议，硅谷，Google 进入中国等话题。Pichai 称他在 14 年前加入公司时 Google 是一个洋溢着理想主义和乐观主义的地方，今天在很多事情上理想主义和乐观主义仍然存在，但对另一些事情的困难上他们有了现实主义的认识。对于考虑在中国推出一个审查版的搜索引擎，Pichai 称 Google 在很多存在审查的国家开展业务，当他们遵守被遗忘法时，他们是在审查搜索结果，但这是为了遵守法律。他想要为中国提供搜索服务，但无论采取什么形式，他现在没有答案。他说，硅谷的乐观主义已经发生了很大变化，他们现在思考的更多了，他们认识到技术并不能解决人的问题，以为技术万能是很天真的。技术只是一种推动力量，人的问题仍然要由人来解决。他认为现在的一个问题是我们过于依赖技术去解决所有问题。
+➜Elon Musk 的 Starman 现在到了哪里
+https://www.solidot.org/story?sid=58532	33370
+<div align="center"><img src="//img.solidot.org/0/731/livQtLfh1StgI.jpg" width="300" height="300" align=""><br>
+</div>
+<br>
+今年 2 月 SpaceX 在试射 Falcon Heavy 重型火箭时将一辆特斯拉跑车 Roadster 及其乘客 Starman 发射到了太空。今天，Elon Musk 的跑车和 Starman <a href="https://arstechnica.com/science/2018/11/elon-musks-tesla-roadster-reaches-its-furthest-point-from-the-sun/?comments=1" target="_blank"><u>到了什么地方</u></a>？根据 <a href="http://www.whereisroadster.com/"><u>Where is Roadster?</u></a> 的数据，Starman&nbsp; 目前距离地球 1.968 个天文单位，距离太阳 1.664 个天文单位，距离火星 1.447 个天文单位。网站使用的特斯拉跑车轨道数据来自 NASA 和地面望远镜在发射六周内的跟踪，在 3 月底之后就没有再更新。跑车现在已经飞行到了除了哈勃外其它望远镜难以观察到的地方，而哈勃在经历陀螺仪事故后不太可能会浪费宝贵的科学观测时间去跟踪 Roadster 和 Starman。根据 Roadster 的轨道估计，它将在 2020 年 10 月抵达距离火星 0.05 个天文单位的地方。
+➜Windows 10 专业版用户报告激活失效
+https://www.solidot.org/story?sid=58533	35184
+微软的 Windows 10 总是麻烦缠身。过去两天 Windows 10 专业版用户通过<a href="https://answers.microsoft.com/en-us/windows/forum/all/windows-suddenly-deactivated/fe9a4ecf-2e2a-491d-a43e-b010c316d1c4?auth=1"><u>官方论坛</u></a>和社交网络抱怨他们合法购买的版本出现了激活失效或从专业版降级到家庭版的问题。受影响的用户主要是在 2015 年通过微软的优惠从 Windows 7 或 8 专业版免费升级到 Windows 10 专业版的用户。微软证实了该问题，它<a href="https://www.neowin.net/news/microsoft-acknowledges-some-windows-10-pro-licenses-being-mistakenly-deactivated" target="_blank"><u>已经修复了</u></a>激活服务器问题，称问题主要影响日本、韩国和美国等地区的用户。
+➜为跟上摩尔定律芯片公司转向 Chiplets
+https://www.solidot.org/story?sid=58535	40875
+在过去五十年里，芯片上的晶体管数量按照摩尔定律预测的大约每 18 个月或两年增加一倍。但到了 2016 年晶体管大小到达 14 纳米之后，提高晶体管密度变得越来越困难。AMD CTO Mark Papermaster 说，他们观察到摩尔定律在变慢，增加晶体管密度的代价高昂且缓慢，这是一次根本性的改变，迫使芯片公司开始寻找替代方法去提高计算机的性能，以及说服消费者升级。他们找到的替代方法<a href="https://www.wired.com/story/keep-pace-moores-law-chipmakers-turn-chiplets/" target="_blank"><u>被称为 Chiplets</u></a>，该概念通过将不同计算机元件集成在一块硅片来实现更小更紧凑的计算机系统。Papermaster 认为整个芯片行业都在朝这个方向前进，英特尔的高级首席工程师 Ramune Nagisetty 同意该观点，称这是摩尔定律的一次革命。Chiplets 让芯片公司能更快的发布更强大的处理器，最小化使用先进晶体管技术构建芯片的挑战。
+➜Sprint 被发现限制 Skype 的流量
+https://www.solidot.org/story?sid=58536	42768
+根据美国东北大学和麻省大学的<a href="https://dd.meddle.mobi/USStats.html"><u>一项研究</u></a>，ISP Sprint 被发现限制了微软的网络视频聊天服务 Skype 的流量。在美国的主要 ISP 中，Sprint 是唯一一家限制 Skype 服务流量的运营商。在 1 月 18 日到 10 月 15 日之间进行的 1968 次完整测试有 34% 被检测到流量限制。Android 用户比 iPhone 用户受到的影响更大。研究人员批评 Sprint <a href="https://tech.slashdot.org/story/18/11/08/2153231/sprint-is-throttling-microsofts-skype-service-study-finds" target="_blank"><u>此举是反竞争的</u></a>。
+➜基因对长寿影响有限
+https://www.solidot.org/story?sid=58537	48453
+对家谱网站家族树的分析发现，基因对长寿影响没有以前认为的那么大，但长寿与婚姻关系之间<a href="https://arstechnica.com/science/2018/11/genetics-play-less-of-a-role-in-lifespan-than-we-thought/"><u>存在强相关性</u></a>，即人擅长找到寿命相似的人作为伴侣。<a href="http://www.genetics.org/content/210/3/1109"><u>研究报告</u></a>发表在《Genetics》期刊上。Alphabet 资助的 Calico Life Sciences 公司使用家谱数据调查了基因在长寿中的角色，研究人员分析了出生在 19 世纪到 20世纪初的 40 多万人，发现基因对寿命的影响大约占 15 到 30% 之间，即最多 30% 的寿命差异能被基因之间的差异来解释。分析还显示，兄弟姐妹的寿命高度相关，但后代的寿命没什么相关性；夫妻之间寿命也有相关，这能用相同的生活方式和共同环境来解释。但通过婚姻带来的亲戚的寿命之间也存在相关性，这就不能用生活环境来解释了。可能的解释是所谓的门当户对。
+➜金融时报亚洲新闻主编被拒绝入境
+https://www.solidot.org/story?sid=58538	48645
+英国《金融时报》资深主编马凯(Victor Mallet)周四<a href="http://www.ftchinese.com/story/001080169"><u>被香港拒绝入境</u></a>，几周前，香港当局拒绝为他续签工作签证。马凯尝试以游客身份进入香港，但在遭到移民官员长达数小时的盘问后，被拒绝入境。今年10月，香港政府拒绝为马凯续签工作签证，而且未作任何解释。《金融时报》称：“我们未收到对于拒绝马凯工作签证申请的任何解释，并已对这一决定提出申诉。”

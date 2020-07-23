@@ -1,0 +1,35 @@
+➜获得苹果、谷歌或微软职位的经验之谈
+https://www.solidot.org/story?sid=23741	21360
+<a href="http://www.jobbole.com/">伯乐在线</a> 写道 "盖尔·拉克曼（Gayle Laakmann）曾在微软和苹果当过实习生和软件工程师，也曾是Google的软件工程师，还在Google的招聘委员会任职3年。福布斯博客<a href="http://blogs.forbes.com/ciocentral/2011/03/08/10-secrets-to-getting-a-job-at-apple-google-or-microsoft/">最近刊登了她的一篇文章</a>(<a href="http://www.jobbole.com/entry.php/707">中文</a>)，文中写道：“人们也许会说我太幸运了。18 岁时，我也许是微软千名实习生里最年轻的一位。我的实习同伴中大多数人的经验是我的 3 倍，我不禁要问：‘我来这要做什么？’ 不可否认，在这么年轻的年纪获得了如此有名望的实习机会，我的确是非常非常的幸运。但比幸运重要的事情还有很多。以下的技巧让我获得了适当的经验，让我的简历可圈可点，引起了招聘者的注意，使我最终获得了微软、苹果和谷歌的职位。<i>1. Start Something 着手做些事情；<br>2. Create an Online Portfolio 在网上创建成功案例集；<br>3. Get Out There (And Online) 走到现场去（及保持网络联系）；<br>4. Make a Short and Sweet Resume 制作一份简单明了的简历；"</i>           5. Focus on Accomplishments 聚焦于成就；<br>6. Rehearse Your Stories 排练你的故事；<br>7. Practice Interview Questions – And Practice Them Well 练习回答面试的问题——并练到好为止；<br>8. Prepare Questions for You to Ask 准备你要问的问题；<br>9. Admit Mistakes 承认错误；<br>10. Be Fearless 不要害怕
+➜太阳能电池光电效率提高（没有至）80%
+https://www.solidot.org/story?sid=23742	24120
+<a href="http://www.ornl.gov/">美国橡树岭国家实验室</a>的研究人员利用新的技术，将一种光电效率比较差的太阳能电池的转换效率<a href="http://hardware.slashdot.org/story/11/04/29/206226/80-Improvement-In-Solar-Cell-Efficiency">提高了80%</a>，从1.8%增至3.2%。<i>
+Jun Xu领导的研究团队创造了一种基于三维纳米锥的太阳能电池平台，解决了太阳光子所产生电荷的传输问题。由于电池材料的缺陷，负电子和正电洞会被诱捕而导致转换效率下降。新的技术可以改进电荷收集效率。使用相同的材料，新的纳米锥结构太阳能电池的转换效率比传统结构的效率提高了80%。</i>
+➜研究称家庭枪支错误使用比例高于自卫
+https://www.solidot.org/story?sid=23743	24420
+一项反家庭枪支研究<a href="http://ajl.sagepub.com/content/early/2011/02/01/1559827610396294">声称</a>，美国家庭中枪支<a href="http://arstechnica.com/science/news/2011/04/guns-in-the-home-lots-of-risk-ambiguity.ars">被愚蠢使用的比例远远高于自卫</a>。<i>
+研究认为枪支与暴力以及死亡风险增加有联系。美国15岁到24岁之间人口中被杀害的比例是绝大多数工业化国家的14倍，5岁到14岁儿童因枪支意外走火而丧生的比例是它们的11倍。如果用枪自杀，那么成功的可能性会相当高。研究声称，在杀人案件中，有枪的受害者并不能用枪自卫。家庭持枪的支持者认为，枪支是一种工具，它并不比其它危险事物造成的危害更大，例如家庭中儿童的头号威胁是游泳池，儿童死于游泳池事故的比例是枪支事故的100倍，甚至水桶造成的伤害也与枪支不相上下。</i>
+➜公安局长称娱乐场所要隐私是耍“流氓”
+https://www.solidot.org/story?sid=23744	28800
+《广州日报》<a href="http://gzdaily.dayoo.com/html/2011-04/29/content_1338238.htm">报导</a>，佛山市公安局局长杨建华说，娱乐场所、桑拿按摩都要安装摄像头，理由是“在公共场所哪有隐私的，如果公共场所有隐私那就是‘流氓’，公共场所有什么隐私，既然大家都能够见得光的有什么隐私呢，这些都是奇谈怪论”。他声称　“敢违法我就敢曝你的光”。娱乐场所本质上是一个<a href="http://en.wikipedia.org/wiki/Public_space#.27Semi-public.27_spaces">半公共空间</a>。官方媒体<a href="http://opinion.nfdaily.cn/content/2011-04/29/content_23419539.htm">表示</a>;，即使是公共场所，也要充分保护公民的隐私。
+➜亚马逊公布宕机事故报告
+https://www.solidot.org/story?sid=23745	31320
+亚马逊公布了Amazon EC2云服务器宕机的<a href="http://aws.amazon.com/message/65648/">事故报告</a>。<i>
+太平洋夏令时4月21日凌晨12:47，位于美国东区的一个可用区（数据中心）执行了一次正常的Amazon Web Services伸缩活动，为了完成升级需要临时转移网络流量，标准的做法是将流量卸载到Elastic Block Store（EBS）主网络中的冗余路由器。然而流量转移未被正确执行，流量没有被路由到EBS主网络的冗余路由器中，而是被路由到了冗余EBS次网络的低容量路由器中，它无法处理如此高的流量。导致的结果是，受影响数据中心的许多EBS节点与其它节点完全孤立开来，主网络和次网络同时断开连接。<a href="http://tech.slashdot.org/story/11/04/29/1156220/Amazon-EC2-Failure-Post-Mortem">用通俗的话说</a>，亚马逊在进行高速公路扩建工作，它不是关闭了建设中的高速公路的一条通道，而是不小心关闭了整个高速公路，迫使所有汽车穿过容量有限的城镇公路，结果导致了严重的交通堵塞，所有人都被迫停在原地。类似去年中国发生的<a href="__SLASHLINK__" sect="society" sid="10/08/24/0249207" sn="article" tid="48">绵延100公里的大塞车</a>。</i>
+➜方舟子呼吁宽容论文抄袭
+https://www.solidot.org/story?sid=23746	38400
+很大一盘棋 写道 <i>"<a href="http://news.xinhuanet.com/edu/2011-04/30/c_121366379.htm">人民网</a>转载了一篇打假斗士方舟子的文章《大学本科生没有必要写毕业论文》，文章指出中国“几乎所有的毕业论文”、尤其是文科类的，都可以找到不规范、抄袭之处，这是不合理的要求和缺乏教育造成的，“没有追究的必要”。他呼吁取消学士、硕士论文，并指出这种论文是在中国没有博士培养制度时的便宜措施，现在情况不一样了，让学士、硕士写论文没有必要。方舟子表示自己在某大学提出这一观点时，学生报以雷鸣般的掌声。"</i>
+➜隐私问题或会影响人人网IPO
+https://www.solidot.org/story?sid=23747	44400
+人人网<a href="http://www.marketwatch.com/story/chinese-social-network-renren-ipo-imminent-2011-04-18?siteid=rss">计划于5月4日在纽约证交所上市</a>，筹资5.84亿美元，它自称是中国占领先地位的实名制社交网络。<a href="http://zh.wikipedia.org/wiki/Renren">人人网</a>的收入来源主要是在线游戏，占据了2010年净收入的45%，在线广告占42%。在线游戏收入主要源自虚拟物品销售。2010年净收入为3200万美元，主要来自在线游戏和广告的快速增长。人人网面临的主要风险是竞争，最主要的竞争对手Facebook目前仍然被屏蔽，但正准备与中国合作伙伴合作进入中国。另一个<a href="http://tech.qq.com/a/20110430/000131.htm">潜在风险</a>是政府的监管，还有知识产权方面纠纷。除此之外，它在隐私和安全方面的问题显示不足Facebook之处，昨天有用户<a href="http://i.imgur.com/4r3FN.png">发现攻击者利用站内信安全漏洞窃取用户隐私</a>(png，<a href="http://pastebin.com/qKrbvGFF">脚本代码</a>，一位用户的<a href="http://page.renren.com/699131345/note/724338594">声明</a>)，它的处理方法令人惊讶，没有公开的告知用户，反而利用公关<a href="http://www.google.com.hk/search?q=%E4%BA%BA%E4%BA%BA%E7%BD%91+%E9%9A%90%E7%A7%81&amp;hl=zh-CN&amp;newwindow=1&amp;safe=strict&amp;client=firefox-a&amp;rls=org.mozilla:zh-CN:official&amp;source=lnms&amp;source=lnms&amp;ei=fRW8TdbTN4-IvgOp1OHbBQ&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=1&amp;ved=0CB8Q_AUoAA&amp;biw=1047&amp;bih=488">删除</a>（大部分链接已经失效）了所有报道此事的新闻。隐私是否会影响IPO，下周将见分晓。
+➜《传送门2》DLC包将免费
+https://www.solidot.org/story?sid=23748	47100
+第一人称射击解密游戏《<a href="http://en.wikipedia.org/wiki/Portal_2">传送门2</a>》大受评论界的好评，Metacritic综合评分达到了<a href="http://www.metacritic.com/game/pc/portal-2">95/100</a>，被部分游戏媒体认为是“年度最佳游戏”的有力角逐者。开发商Valve已经证实，将于夏天发布《传送门2》的首个DLC包，<a href="http://www.gamespot.com/news/6310911.html?tag=latestheadlines%3Btitle%3B5">免费提供</a>给Xbox 360、PS3、PC和Mac用户。首个DLC包将包括新的测试室，新的单人和双人合作挑战模式。相比之下，《Left 4 Dead》和《Left 4 Dead 2》的DLC在Xbox 360上是收费的。此外，由于受PSN游戏网络关闭的影响，PS3版的《传送门2》<a href="http://www.itproportal.com/2011/04/28/portal-2-selling-better-xbox-than-playstation-psn-outage-blamed/">销量低于</a>Xbox 360版，Valve曾宣传PS3版是最佳版本，购买者将能免费获得一份PC版拷贝，Gamestop游戏商店正在<a href="http://forums.steampowered.com/forums/showthread.php?s=73ece358b77101659a668e59b3dc33f5&amp;t=1865620">打折销售</a>PS3版和PC版。
+➜空中宣传反击金正日
+https://www.solidot.org/story?sid=23749	49200
+《连线》<a href="http://www.wired.com/dangerroom/2011/04/balloons-vs-bufoon-aerial-propaganda-hits-kim-jong-il/">报导</a>，身在韩国的反朝鲜行动分子结合新旧技术去反击世界上最封闭的金正日政权：捆绑传单和DVD的气球。<i>
+韩国行动分子释放了10个大型气球，捆绑了20万支持民主和反对金正日政权的新闻传单，以及收音机和DVD。作为世界上最贫困的国家，只有少数朝鲜家庭有DVD播放器和电视机，他们有时会非法观赏一下来自韩国的肥皂剧。行动分子常常使用不同的技术以确定气球能抵达朝鲜平民手中。一个反金正日组织曾使用了GPS设备去跟踪气球。</i>
+另据《朝鲜日报》<a href="http://chn.chosun.com/site/data/html_dir/2011/04/30/20110430000004.html">报导</a>，中国将租赁朝鲜新义州黄金坪百年开发权（50+50），黄金坪面积11.45平方公里，土地肥沃。
+➜华为起诉中兴，中兴反诉华为
+https://www.solidot.org/story?sid=23750	53100
+华为宣布在法国、德国和匈牙利<a href="http://cn.wsj.com/gb/20110428/tec194518.asp?source=article">起诉</a>中兴侵犯专利和商标权，中兴<a href="http://gigaom.com/2011/04/29/chinese-telecoms-zte-huawei-lawsuit">反诉</a>华为侵犯其第四代移动通信系统LTE专利。中兴宣布，正在中国起诉华为侵犯LTE专利，要求华为停止专利侵犯，赔偿损失，表示将会在全球范围内采取法律行动保护中兴的知识产权。

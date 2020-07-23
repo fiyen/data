@@ -1,0 +1,62 @@
+➜Emacs 24.1发布
+https://www.solidot.org/story?sid=30003	3900
+GNU文本编辑器<a href="https://www.gnu.org/software/emacs/">Emacs 24.1发布</a>。主要新特性包括：用于下载和安装扩展的包系统和接口(M-x list-packages) ；支持Gtk+ 3.0、GnuTLS、SELinux，ImageMagick和Libxml2，增加Emacs Lisp包管理器，支持显示和编辑双向文本，改进Completion系统和定制主题系统，等等。更多可浏览<a href="https://www.gnu.org/software/emacs/NEWS.24.1">News文件</a>。
+➜Android性能能提升30%到100%
+https://www.solidot.org/story?sid=30004	6000
+<a href="http://www.linaro.org/">Linaro</a>开源项目的开发者利用GCC 4.7工具链<a href="http://liliputing.com/2012/06/android-is-about-to-get-a-lot-faster-thanks-to-linaro.html">优化Android</a>。在测试中，他们编译的版本比目前Google在AOSP(Android Open Source Project)中提供的Android 4.0.4性能提升了<a href="http://www.cnx-software.com/2012/06/03/linaro-android-puts-stock-android-to-shame-on-ti-pandaboard-omap4430/comment-page-1/#comments">30%到100%</a>。例如，在<a href="https://play.google.com/store/apps/details?id=org.zeroxlab.zeroxbenchmark&amp;hl=en">0xBenchmark</a>图形显示测试中，官方版本只有30 fps，而Android Linaro优化版本能达到60fps。目前还不清楚Google是否会采用Linaro开发者的优化方法，但社区版CyanogenMod已经开始整合Linaro的技巧，并为三星的Galaxy Nexus智能手机编译了<a href="http://www.sendspace.com/filegroup/B%2BOGg6HGeXINjUAw7F8j%2FQ">一个版本</a>（<a href="http://www.reddit.com/r/GalaxyNexus/comments/usos8/linaro_optimized_cm9_builds_for_vzw_and_gsm/">测试</a>）。
+➜欧洲公司用Valve的Source引擎制作动画片
+https://www.solidot.org/story?sid=30005	7920
+欧洲动画工作室<a href="http://www.brownbagfilms.com/">Brown Bag Film</a>将利用Valve的Source引擎<a href="http://arstechnica.com/gaming/2012/06/steams-source-engine-to-power-upcoming-animated-film/">制作</a>一部低成本的动画片《Deep》。Source引擎于2004年公开，被用于制作《反恐精英：起源》、《半条命2》系列、《传送门》系列等游戏。《Deep》的预算为1500万欧元，与美国动画工作室如皮克斯制作动画的费用相比并不多，但在欧洲已经是相当高的投资了。《Deep》的背景设置在第三次世界大战毁灭世界之后的末世时代。游戏引擎作为一种低成本的实时渲染和编辑方案，正日益被小型工作室采用。这部动画片也可能在Valve的Steam数字平台上发行。目前Steam发行了描述独立游戏制作的纪录片《<a href="http://store.steampowered.com/app/207080/">Indie Game: The Movie</a>》。
+➜尼尔·斯蒂芬森试图重新发明计算机剑术格斗游戏
+https://www.solidot.org/story?sid=30006	10200
+在1992年出版的科幻小说《<a href="http://en.wikipedia.org/wiki/Snowcrash">雪崩（Snowcrash）</a>》中，尼尔·斯蒂芬森创造了名叫Metaverse的虚拟世界，男主人公Hiro Protagonist是Metaverse中的剑术第一人。现在的剑术格斗游戏与Metaverse中的竞技相去甚远，斯蒂芬森对此也相当不满，他<a href="http://hardware.slashdot.org/story/12/06/10/1557255/neal-stephenson-reinventing-computer-swordfighting-via-kickstarter">创建</a>了Kickstarter项目<a href="http://www.kickstarter.com/projects/260688528/clang">CLANG</a>，计划筹集50万美元，创造实现真实的中世纪剑术格斗所需要的计算机硬件和软件。硬件是低延迟高精度动作控制器。他的公司计划向第三方开发者开放API和SDK。
+➜朝鲜人通过文件共享打破政府的审查制度
+https://www.solidot.org/story?sid=30007	13680
+一份报告称，朝鲜人正通过U盘和MP3播放器共享文件<a href="http://arstechnica.com/tech-policy/2012/06/report-finds-rampant-filesharing-in-north-korea-despite-the-risks/">打破官方的严密审查</a>。<i>
+报告《<a href="http://audiencescapes.org/research/north-korea-quiet-opening/quiet-opening-north-korea-804">A Quiet Opening</a>》是作者根据朝鲜叛逃者和难民的证词撰写。朝鲜是世界最孤立的国家，一个“隐士国度”，官方严密控制着信息的传播。然而根据朝鲜人的证词，当地居民正缓慢的了解外部世界。有关系的官员和精英能从中国购买到MP3播放器，DVD和U盘，内容通过人手秘密交换。一位来自靠近中国边界的清津市的难民说，70-80%拥有MP3播放器的人是年轻人，而这些播放器中100%储存了韩国音乐。
+</i>
+官方《人民日报》刊登了<a href="http://paper.people.com.cn/rmrb/html/2012-06/11/nw.D110000renmrb_20120611_2-22.htm?div=-1">一篇波特金式的朝鲜参观文章</a>，从侧面<a href="__SLASHLINK__" sect="science" sid="12/05/04/0437237" sn="article" tid="50">证实</a>朝鲜对三胞胎实行“特殊待遇”。
+➜历史将铭记比尔盖茨遗忘史蒂夫乔布斯
+https://www.solidot.org/story?sid=30008	20700
+《<a href="http://www.amazon.com/The-Tipping-Point-Little-Difference/dp/0316346624/">The Tipping Point</a>》和《<a href="http://www.amazon.com/Outliers-The-Story-Success-ebook/dp/B001ANYDAO/">Outliers: The Story of Success</a>》作者Malcolm Gladwell认为，历史将铭记比尔盖茨遗忘史蒂夫乔布斯。他的评论<a href="http://apple.slashdot.org/story/12/06/10/0649223/history-will-revere-bill-gates-and-forget-steve-jobs-says-author/">引发了争议</a>。<i>
+Gladwell称，对于成功商人，未来几代人将会更多记住他们对社会的回报而不是自身的成功。盖茨无疑是一位最无情无义的资本家，但他最终决定离开微软从事慈善事业，Gladwell相信五十年后盖茨将会因为他的慈善工作而被人铭记，至于微软是干什么的则早被人忘到九霄云外了。盖茨的慈善工作相似于二战期间辛德勒从德国毒气室拯救犹太工人的努力。Gladwell承认史蒂夫·乔布斯是当代的伟大企业家，是一位不同寻常的商人，他理解苹果取得成功的关键是创造一个与众不同的富有魅力的品牌。乔布斯从别人那里剽窃创意，毫无羞耻的将一切归功于己。他是一位卓越的自我推销者。</i>
+➜7Gbps无线传输不需要路由器
+https://www.solidot.org/story?sid=30009	22800
+明年晚些时候，用户将可以在不需要路由器的情况下<a href="http://arstechnica.com/information-technology/2012/06/7gbps-wireless-transfers-and-streaming-no-router-required/">实现7Gbps无线数据传输</a>。两项无线标准正让这一切变成现实。家庭路由器标准802.11ac工作在5GHz波段，短距离高速无线传输标准802.11ad工作在60GHz波段，两项技术处于不同发展阶段，WiFi联盟预计在2013年初向802.11ac产品颁发证书，而发放802.11ad产品证书可能要到2013年末。工作在60GHz波段的7Gbps无线传输主要用于点对点连接，例如将视频从掌上设备传输到电视机，或者在不需要电缆的情况下传输大量数据。802.11ac和802.11ad标准还需要等待IEEE的批准，11ad的进展领先于11ac，它有望在12月获得批准，而802.11ac则要延期到明年4月左右。
+➜孤独的黑洞在宇宙中流浪
+https://www.solidot.org/story?sid=30010	24600
+天文学家<a href="http://news.sciencemag.org/sciencenow/2012/06/do-solo-black-holes-roam-the-uni.html">发现了流浪黑洞存在的强有力证据</a>。<i>
+哈勃望远镜在距离地球约40亿光年的遥远星系CID-42发现了两个致密可见光源，其中之一位于或接近星系的核心，另一个偏移核心。CID-42是两个星系相碰撞的残余，因此两者之一可能是超大质量黑洞。天文学家利用NASA钱德勒X射线天文台发现，两个可见光源中只有一个发射出X射线，它与星系可能的核心相距约8000光年。他们给出的一种解释是，同时发射出X射线和可见光的是超大质量黑洞，它正被驱逐出星系。
+</i>
+➜微软为歌词粗俗的Windows Azure舞蹈道歉
+https://www.solidot.org/story?sid=30011	26880
+在挪威举行的开发者会议中，微软邀请了一群女孩跳热舞，推销该公司的Azure云计算平台。舞蹈本身没什么问题，但歌词却让人忍俊不禁。微软已经为<a href="http://icosmogeek.com/microsoft-apologizes-for-windows-azure-girls-vulgar-dance-video/">粗俗而不合时宜的舞蹈道歉</a>。歌词恶搞了Web技术和微软的名字，例如“CSS是我的LSD”，“微和软不适用于我的生殖器（The words Micro and Soft don’t apply to my penis）。
+➜RMS谈Steam支持Linux
+https://www.solidot.org/story?sid=30012	29100
+Valve最近宣布数字发行平台Steam将发布Linux客户端，发行非自由的Linux游戏。自由软件基金会主席RMS谈论了<a href="https://www.gnu.org/philosophy/nonfree-games.html">此举对GNU/Linux的积极和负面影响</a>。<i>
+RMS首先假设非自由程序能促进GNU/Linux系统的普及，但GNU/Linux的目标不只是成功，还包括为用户带来自由。他认为，非自由游戏都是不道德的，因为它们拒绝给用户自由。如果你想要自由，那么这些游戏不应该出现在你的电脑上。但如果你真想要使用这些游戏，那么在GNU/Linux上使用要好过微软的Windows，因为你至少可以避开Windows系统对自由的伤害。</i>
+➜《愤怒小鸟》开发商Rovio因重税考虑搬到爱尔兰
+https://www.solidot.org/story?sid=30013	30720
+芬兰游戏开发商Rovio因为芬兰的重税而<a href="http://games.slashdot.org/story/12/06/10/1337221/taxes-lead-angry-birds-maker-rovio-to-consider-move-to-ireland">考虑将总部迁移到低税率的爱尔兰</a>。Rovio以游戏《愤怒小鸟》闻名于世。它雇佣了大约400名员工，大部分是在芬兰。它最近联系了爱尔兰投资发展局，讨论在爱尔兰建立总部。迁移公司的主要原因是高昂的企业税，芬兰的企业税率是24.5%，而爱尔兰是12.5%。Google和Facebook因为同样的理由而将欧洲总部设在爱尔兰都柏林。
+➜百年前企鹅同性恋记录出版
+https://www.solidot.org/story?sid=30014	33900
+一百年前的企鹅同性恋行为记录<a href="http://www.wired.co.uk/news/archive/2012-06/11/penguin-sex-manuscript?page=all">首度公开</a>。<i>
+英国著名极地探险家<a href="http://zh.wikipedia.org/wiki/%E6%96%AF%E7%A7%91%E7%89%B9">斯科特船长</a>的医务官乔治·利维克1910年对南极进行考察时发现并记录下了<a href="http://www.bbc.co.uk/zhongwen/simp/science/2012/06/120610_penguin_sex_acts.shtml">企鹅非同寻常的同性恋活动</a>。对南极阿德利企鹅的研究记录显示，有企鹅与小企鹅和死去的母企鹅交配。而这些行为通常是由被他所称的堕落的、流氓企鹅干的。利维克对这个发现感到非常尴尬，他本来想就有关发现发表一篇论文，但在当时来说，似乎难以令人接受。因此，他后来在正式报告中没有提及此事。他的希腊文记录由英国国家自然历史博物馆重新发现，并首次<a href="http://www.nhm.ac.uk/visit-us/whats-on/temporary-exhibitions/scott-last-expedition//index.html">公开展出</a>。发现记录的动物学专家Douglas Russell说，从企鹅的角度看，人类眼中认为的“同性恋”和“奸尸”其实很正常，它们没能意识到交配对象已死，雄性需要在十分严酷的环境中竞争繁殖，尽可能多的交配是留下后代的唯一方法。</i>
+➜伊朗准备封杀VPN
+https://www.solidot.org/story?sid=30015	35640
+伊朗网络警察部队<a href="http://phys.org/news/2012-06-iran-web-censor-beating-software.html">准备开始打击翻墙软件</a>。伊朗特别警察部队负责人Kamal Hadianfar明确表示，行动的目标是封杀“非法VPN”。他说，伊朗20%到30%的网民使用VPN。伊朗有3600万网民，20%到30%相当于7、8百万人。他声称，合法的VPN只能由航空公司、政府部门和银行使用，即使他们也将受到网络警察委员会的监视。他说，为了人民的利益，为了防止家庭崩溃，必须屏蔽色情网站和敌视伊朗伊斯兰共和国的网站。上月有报道说，伊朗通信部命令该国银行、保险公司和电信运营商停止使用国外电子邮件帐户如Gmail，要求使用以.ir后缀的邮箱域名。
+➜项羽焚烧了秦始皇兵马俑？
+https://www.solidot.org/story?sid=30016	37200
+中国6月9日对外公布了秦始皇帝陵一号坑<a href="http://bjrb.bjd.com.cn/html/2012-06/11/content_97407.htm">第三次发掘成果</a>：出土了陶俑、车马器、兵器、生产工具等各类文物共计310余件，其中揭露陶马3组12匹，陶俑120余件；清理战车2乘、战鼓2处、兵器柲10处、弓弩箭箙12处、漆盾1处，另有建筑材料朽迹如木、席、夯窝等痕迹多处。此次发掘发现了兵马俑被焚烧痕迹。<i>
+考古人员在百戏俑坑中发现了大量的黑色炭迹，还有很多被烧成砖红色的夯土，这些都表明这里曾被一场大火烧过。对发现的水淹痕迹，目前推测是修建时适逢多雨时节，所以产生了很多淤泥。考古人员发现，发掘区的西段有一条南北向甬道贯穿并与北侧门道相通，甬道位置的红土层块状板结倒塌，凡是在甬道和过洞附近的俑均被烧坏，严重变形变色，有的甚至被烧化，且这一地区的棚木灰都为白色，可见温度很高。烧毁的陶俑主要分布在甬道等通风处，此地段的俑损毁就比别的地方严重。可见兵马俑俑坑是人为烧毁的，不可能是自燃。“秦俑之父”袁仲推断，焚毁兵马俑的人是项羽。在秦汉之际社会处于大的变动时期，分析项羽烧的可能性较大。据记载，项羽设鸿门宴的地点据此地仅有五公里，他与秦始皇也结有仇怨。
+</i>
+➜中国碳排放量比以前预计的高出20%
+https://www.solidot.org/story?sid=30017	38520
+路透社<a href="http://www.scientificamerican.com/article.cfm?id=china-emissions-study-suggests-clim">报导</a>(<a href="http://cn.reuters.com/article/CNEnvNews/idCNCNE85A08920120611">中文</a>)，周日发表的对中国官方数据的研究显示，中国碳排放量可能比此前预想的高出近20%，暗示全球变暖的速度可能高于目前的预计水平。中国已经超过美国，成为全球第一大温室气体排放国，排放量约占全球四分之一。但是如何准确计算中国碳排放量始终是个挑战，因为中国官方能源消费数据的质量令人怀疑。利兹大学的<a href="http://www.guandabo.com/">Dabo Guan</a>领导来自中国、英国和美国的科学家团队，他们对中国国家统计局提供的两组能源数据进行了研究，一组是全国能源使用数据，另外一组是各省能源使用数据.他们发现，1997-2010年间，这两组数据存在很大差别。研究发现，两组数据存在14亿吨（2010年）碳排放的差异(超过日本全年的排放量)。这暗示中国能源统计数据存在较以往更大的不确定性。
+➜电线让咸水变成淡水
+https://www.solidot.org/story?sid=30018	40800
+研究人员利用一对电线和太阳能电池产生的电，<a href="http://phys.org/news/2012-06-wires-salt-freshwater.html">将咸水转变成可饮用的淡水</a>。<i>
+淡化咸水主要使用两种方法：一种方法是从盐水中移除水分子，如蒸馏和反渗透方法，适用于高盐度的水；另一方法是从盐水中移除盐离子，如去离子和海水淡化技术等就是采用该方法。在最新研究中，研究人员使用的第二种方法，设法将带正电的钠离子和带负电的氯离子从咸水中移除。他们设计了一种包含两个薄石墨棒或电线的装置，用多孔碳电极层覆盖电线外表面，让一根电线充当阳极，一根充当阴极。在施加电压之后，阴极吸附带正电的钠离子，阳极吸附带负电荷的氯离子。离子被临时储存在碳电极层，当电线被手动取出，放到另一个废水容器中，切断电压，离子会被重新释放到废水中。反复八次后，原咸水盐浓度从20 mM减少到7 mM。可饮用水的标准是低于15 mM。</i>
+➜苹果派遣间谍飞机挑战Google Maps
+https://www.solidot.org/story?sid=30019	42000
+苹果部署了一队装备军用级照相机的无人飞机，<a href="http://www.techweekeurope.co.uk/news/apple-spy-planes-google-maps-81842">为iOS设备绘制详细的3D城市地图</a>。报导称，照相机的照片能显示最小四英寸大小的目标，能绘制垂直墙壁。苹果预计在本周的开发者大会上公开iOS地图服务。这项技术引发了隐私方面的担忧，它能拍摄晒日光浴的场景。间谍飞机已在包括伦敦的20多座城市进行了测试。

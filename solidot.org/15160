@@ -1,0 +1,75 @@
+➜vsftpd源代码中发现后门程序
+https://www.solidot.org/story?sid=24835	3600
+Ubuntu、CentOS、Fedora和RHEL Linux等发行版默认的FTP服务器程序<a href="http://vsftpd.beasts.org/">vsftpd</a>的源代码中<a href="http://www.h-online.com/open/news/item/Vsftpd-backdoor-discovered-in-source-code-1272310.html">发现了后门</a>。<i>
+vsftpd代表Very Secure FTP Daemon，自称是类Unix系统中最安全、最快的FTP服务器。它的v2.3.4版本的可下载源代码中被人加入了<a href="http://pastebin.com/AetT9sS5">后门代码</a>，它会在FTP中加入一个笑脸符号:)用户名，黑客开玩笑的意图可能多于制造麻烦。目前还不清楚后门代码上线了多长时间。vsftpd作者<a href="http://scarybeastsecurity.blogspot.com/2011/07/alert-vsftpd-download-backdoored.html">Chris Evans</a>已经将源代码迁移到<a href="https://security.appspot.com/vsftpd.html">Google的托管网站</a>。</i>
+➜全球变暖暂停或与中国排放的污染有关联
+https://www.solidot.org/story?sid=24836	6120
+科学家提出了一种可能的原因解释为什么全球变暖上升趋势在21世纪初暂停了一段时间：<a href="http://www.physorg.com/news/2011-07-global-linked-sulfur-china.html">中国排放的硫污染物</a>。报告发表在PNAS上。<i>
+论文主要作者、波士顿大学的Robert K.Kaufmann说，人们一般只注意到二氧化碳的温室效应，但在中国经济快速增长期间硫化物的排放量也在大幅增长，而硫化物能产生冷却效应。但硫化物的冷却效应是短暂的，而煤炭燃烧排放的二氧化碳则是长期性的。在2003年到2007年期间，中国的煤炭消耗量翻了一番，使同期全球煤炭消耗量增长了26%。中国领导人认识到污染对居民健康的影响，因此安装了设备过滤掉硫颗粒物。空气中的硫化物快速减少，但二氧化碳则仍然稳定增长。因此在温度短暂的停止上升后，它的温室效应再次显现，2010年被认为是自1998年以来最热的一年。</i>
+➜独立电影BT网站首映
+https://www.solidot.org/story?sid=24837	9120
+BT网站VODO<a href="http://yro.slashdot.org/story/11/07/04/1932259/Indie-Film-Premieres-On-BitTorrent-Before-Cinema">发布了</a>到目前为止质量最上乘的独立电影：《<a href="http://www.imdb.com/title/tt1161861/">A Lonely Place for Dying</a>》的<a href="http://vo.do/alpfd">第一部分</a>。<i>
+独立电影并不意味着它是一部学生电影。本片的执行制片人是好莱坞明星James Cromwell，由专业的电影人和演员参与制作。故事背景是1972年越南战争，这是一部谍战惊悚片，一位KGB内奸持有关于CIA的爆炸性证据，另一名特工被派去将其杀死并夺取证据。VODO发布了三个版本，观看者被鼓励捐赠，如果捐赠的数额够高（数百到数千或数万美元），他们将有可能进入到电影结束后字幕的致谢名单之中，或可以在电影正式上映后和演员一起参加首映，或者被列为本片的制片人，进入到IMDb的名单之中。这部电影预计将在2012年初上映。</i>
+➜伊朗将在八月启用“全国互联网”
+https://www.solidot.org/story?sid=24838	10560
+伊朗通讯与信息技术部长塔基普尔(Reza Taqipour)在德黑兰<a href="http://www.presstv.ir/detail/187520.html">宣布</a>，伊朗政府将于8月底<a href="http://news.xinhuanet.com/2011-07/05/c_121621872.htm">启用</a>其自主研发的“全国互联网”工程。<i>
+“全国互联网”工程的“初始和第一阶段”将于8月底完成并投入运行。工程第一阶段将为伊朗家庭提供8Mb宽带接入服务，下一阶段将提供20Mb宽带服务。伊朗的“全国互联网”又名“清真网络”，其目的在于用伊朗本土研发的“全国互联网”取代国际互联网，有助于维护伊斯兰伦理和道德标准。伊朗将在2013年前分阶段推广“全国互联网”，第一阶段的目标是在两年内把伊朗全国六千多所学校接入该网络。</i>
+➜WordPress 3.2发布
+https://www.solidot.org/story?sid=24839	12960
+WordPress在美国独立日<a href="https://wordpress.org/news/2011/07/gershwin/">发布了WordPress 3.2</a>，上一个版本v3.1在推出4个月后下载量刚刚突破1500万次。<i>
+新版主要是精简了代码，改进了WordPress运行速度；修改了控制面板（dashboard）设计；新的基于HTML5的主题；编辑工具栏增加全屏按钮，使用户可以不受干扰的写博客。</i>
+➜GNOME官方网站被中国电信封禁
+https://www.solidot.org/story?sid=24840	18000
+<a href="mailto:dhyang555@gmail.com">dhyang555</a> 写道 <i>"Linux下最流行的两大桌面环境之一 —— <a href="http://www.gnome.org/">GNOME</a>在中国遇到了麻烦，经测试，中国电信已封禁<a href="http://www.gnome.org/">GNOME官方网站</a>IP，通过www.gnome.org打开<a href="http://www.gnome.org/">GNOME官方网站</a>(IP:91.189.93.3)，会被重置，一旦被重置，在一段时间内无法打开GOOGLE,也无法使用GOOGLE的相关服务。访问GNOME的子域名<a href="http://developer.gnome.org/">developer.gnome.org</a>(IP:209.132.180.176)、<a href="http://ftp.gnome.org/">ftp.gnome.org</a>(IP:130.239.18.173)却没有问题(developer使用的是www.gnome.org的外部CSS，也一同被封，故显示不正常)。这种莫名的封禁不知从何时开始，也不知要持续到何时，更不知是什么原因。同样是技术站点的<a href="http://python.org/">Python官网</a>当初也有被封经历！"</i>
+➜MIT的眼镜能阅读人的情绪
+https://www.solidot.org/story?sid=24841	19200
+想象一下，和他人交流看法，你自顾自的说话，这时候一个声音在耳边轻轻响起，通知你对方对你的一番高论没兴趣或不以为然，在没让人反感之前最好停止说话。<a href="http://www.newscientist.com/article/mg21128191.600-specs-that-see-right-through-you.html?full=true">MIT的研究人员开发出一种特殊眼镜</a>，内置摄像头，能利用软件分析对话者的面部表情，帮助我们更好的理解彼此，避免失态尴尬。这项技术最初是为了帮助自闭症患者，因为他们较不擅长捕捉他人情感。这种特殊眼镜能根据面部表情列出六种情感状态：思考、赞同、全神贯注、感兴趣、困惑和不赞同。内置的摄像头能跟踪对话者脸部的24个特征点，然后软件再通过分析各种细微的表情作出判断。研究人员已经建立了创业公司<a href="http://www.affectiva.com/">Affectiva</a>，销售他们开发的面部识别软件，并正与日本公司合作去分辨日本人脸上的笑容。
+➜NASA下一代火星漫游者
+https://www.solidot.org/story?sid=24842	21900
+NASA的下一代<a href="http://marsrovers.nasa.gov/home/index.html">火星漫游车</a> <a href="http://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4">好奇号</a>预计将于11月到12月之间择期发射，2012年8月登陆火星。好奇号火星车重量是前任机遇号和勇气号的四倍，它装备了一个长机械臂，一个能气化岩石的激光器，一个冲钻和全套气象设备，它还搭载了能供它度过火星冬天的4.8kg钚-238。好奇号将收集火星岩石样本，<a href="http://www.wired.co.uk/magazine/archive/2011/07/features/rover-returns">将在火星上度过687地球日</a>。好奇号着陆的地点选在了150千米宽的<a href="http://www.nature.com/news/2011/110623/full/news.2011.380.html">盖尔环形山</a>（Gale Crater），其中有一个五千米高的由古代沉积物构成的土丘，它可能曾被水淹没过。
+➜朝鲜面临严重的粮食危机
+https://www.solidot.org/story?sid=24843	23040
+欧盟周一表示将向朝鲜<a href="http://www.scientificamerican.com/article.cfm?id=qa-how-serious-is-north-koreas-food">提供价值一千万欧元的粮食援助</a>，但韩国表示拒绝提供援助，它认为朝鲜正在囤积粮食以为来年庆祝金日成诞生一百周年。<i>
+朝鲜一直缺粮。联合国的一份报告认为朝鲜2400万人口中有超过600万需要粮食援助。世界粮食计划署（WFP）估计，朝鲜农作物产量约为450万吨；而韩国的保守估计只有430万吨。援助机构认为朝鲜缺粮530万吨。韩国认为朝鲜的粮食产量比上一年略少，但不足以证明外界应该满足朝鲜的乞讨要求。部分官员认为朝鲜可能试图囤积粮食，以为明年国家创始人诞辰百年做准备。国际社会的援助始终面临透明度、公平分配方面的争议。而扣押援助则被美国前总统卡特认为侵犯人权。
+</i>
+➜Google与Twitter协议到期，暂时关闭实时搜索
+https://www.solidot.org/story?sid=24844	25200
+Google实时搜索7月3日被发现<a href="__SLASHLINK__" sect="ask" sid="11/07/04/0349206" sn="article" tid="26">出现404错误</a>，并从Google搜索页面消失。Google给出的解释是<a href="http://searchengineland.com/as-deal-with-twitter-expires-google-realtime-search-goes-offline-84175">它和Twitter协议到期</a>。<i>
+Google与Twitter于2009年10月达成协议，在搜索结果中加入Twitter的实时更新源。这项协议于7月2日到期，Google不再能访问Twitter的更新源。实时搜索临时下线，Google没有给出何时重新上线的确切时间表。搜索巨人表示，实时搜索会包含Google+及其它实时信息源。Google仍在探讨与Twitter继续合作的可能。
+</i>
+➜泡热水澡能安慰孤独的心
+https://www.solidot.org/story?sid=24845	26880
+根据《<a href="http://psycnet.apa.org/index.cfm?fa=browsePA.volumes&amp;jcode=emo">Emotion</a>》期刊上发表的<a href="http://www.yale.edu/acmelab/articles/Bargh_Shalev_Emotion.pdf">报告</a>(PDF)，研究人员发现，洗一个热水澡不仅让人心情舒畅，<a href="http://www.scientificamerican.com/podcast/episode.cfm?id=hot-baths-may-cure-loneliness-11-07-02">还能赶跑寂寞</a>。<i>
+研究人员分析了51位被调查者的洗澡习惯，记录了他们洗澡前后的感受。他们发现，评估慢性寂寞的得分高低与洗澡或淋浴水温有关联。在另一项研究中，研究人员让受试者握住冰袋和热袋，记录他们孤独感的水平，证实冷袋和高孤独分数有相关性。研究人员认为，温暖和安全的关联性是与生俱来的。其它研究则发现，特别孤独的人并不是经常洗澡。</i>
+➜西藏颂钵的秘密
+https://www.solidot.org/story?sid=24846	29520
+几千年来，西藏僧侣冥想前后都要以颂钵之声作为仪式不可少的一部分。现在物理学家研究了颂钵背后的流体动力学，<a href="http://news.sciencemag.org/sciencenow/2011/06/singing-bowls.html?rss=1">破解其秘密</a>(视频)。<a href="http://iopscience.org/non/24/8/R01">报告</a>发表在《非线性》期刊上。<i>
+比利时列日大学和MIT的科学家，对来自喜马拉雅山脉的4个5世纪的颂钵的水声特性<a href="http://tech.qq.com/a/20110705/000177.htm">进行了分析</a>。他们操控一个扬声器对每个碗播放声调共振，随后观察了液体如何对不同的振幅作出响应。结果显示，随着振幅的增加，波浪开始在液体的表面形成，直至最终变得没有秩序，并相互碰撞在一起，进而喷出液滴。在某些频率和振幅下，这些液滴看起来似乎在表面上漂浮和漫步。</i>
+➜思科为重庆提供网络监控设备
+https://www.solidot.org/story?sid=24847	31320
+《华尔街日报》<a href="http://www.cn.wsj.com/gb/20110705/tec163647.asp">报导</a>，包括思科在内的西方企业正准备帮助重庆新建一个雄心勃勃的监控项目──在全城范围内安装多达50万个摄像头的监控网络，政府官员们说这一网络能起到防止犯罪的作用，而人权倡导者则警告说，该监控网有可能针对持不同政见者。这个被称作“平安重庆”的监控网按计划将覆盖1,000多平方公里范围内的50万个十字路口、居民社区和公园，其覆盖范围比纽约市还大25%以上。思科预计会向该项目提供网络设备，海康威视是主承包商。思科发言人表示该公司遵守美国的出口限制法律，不会出口用于镇压的设备。
+➜离婚律师利用社交网站寻找证据
+https://www.solidot.org/story?sid=24848	31920
+离婚律师正从社交网站上<a href="http://www.technologyreview.com/web/37943/?p1=MstRcnt&amp;a=f">挖掘出有用的信息</a>。<i>
+你在Facebook和Twitter上发布的信息可能会对你造成不利影响。离婚律师正通过社会网络寻找出不忠的信息、隐蔽的财产，以及私人生活中其它秘密。咨询服务公司Marcum LLP的一位律师称，博客、社交网络、照片分享网站上的信息能为案件提供关键的证据。例如一位男子雇用Marcum寻找已分居的妻子的隐蔽收入来源。调查人员从Facebook的公开照片中发现她和朋友在加勒比海的Aruba岛上旅游，在豪华的丽嘉酒店就餐。通过跟踪她在Twitter上的帖子，调查人员了解到其家族拥有一家经营成功的饭店，她也参与了生意扩张。这些情报被用于揭示出妻子的所有财产。2010年的一项调查发现，Facebook是离婚律师寻找证据的主要来源，其次是MySpace和Twitter。
+</i>
+➜黑客入侵NATO服务器
+https://www.solidot.org/story?sid=24849	33840
+一个自称Inj3ct0r的黑客组织<a href="http://www.scmagazine.com.au/News/262626,nato-server-rooted-server-backup-dumped.aspx">声称</a>，他们利用一个未公开的Oday漏洞获得了一台NATO服务器的根访问权限，并公布了这台服务器上的文件作为证据。Inj3ct0r在mediafire.com上发布了<a href="http://www.mediafire.com/?s2chp1v2jqsf52z">50 MB大小的压缩包</a>，包括了Apache Tomcat服务器上的2646个文件。这是NATO最近几个月来自遭到了第二次攻击。
+➜互联网是美国的终极武器
+https://www.solidot.org/story?sid=24850	36000
+白俄罗斯总统卢卡申科不是互联网的粉丝，他被认为是欧洲最后一个独裁者。过去他只抱怨互联网的“无政府状态”，认为网民只不过是一群少年叛逆者，16或17岁，嘴上叼着烟，左手搂着个姑娘；然而，现在他却向互联网<a href="http://gigaom.com/2011/07/04/why-the-internet-is-america%E2%80%99s-greatest-weapon/">举起了镰刀和锤头</a>。<i>
+CNN<a href="http://edition.cnn.com/2011/WORLD/europe/07/04/belarus.protests/">报导</a>，卢卡申科周日在明斯克发出了镇压新一波反政府示威运动的警告，声称白俄罗斯不会发生颜色革命。受阿拉伯之春的鼓舞和启发，白俄的抗议者也通过Twitter、Facebook和俄罗斯社交网站Vkontakte.等组织起来，政府的反应则是屏蔽这些网站。卢卡申科上个月<a href="http://www.google.com/hostednews/afp/article/ALeqM5jK8LN40ie4UScGD_4UHPv2jtuqtA?docId=CNG.b3569aafd06fe78f58be73c5faaa97a5.461">告诉</a>法新社，反对派正利用社交网站呼吁罢工，他会以迅雷不及掩耳之势镇压这群互联网抗议者。从突尼斯、埃及到白俄，社交媒体和政治活动者的结合，使它真正成为一股革命的力量。用克林顿顾问的话说，互联网是21世纪的切格瓦拉。</i>
+➜Facebook屏蔽输出联络人到Google Plus的Chrome扩展
+https://www.solidot.org/story?sid=24851	38520
+Google去年阻止Facebook访问GMail用户的联络人名单，现在Facebook<a href="http://digitizor.com/2011/07/05/facebook-blocks-plus-export/">则屏蔽了输出联络人到Google Plus的Chrome扩展</a>。<i>
+Google Chrome有一个扩展叫<a href="https://chrome.google.com/webstore/detail/ficlccidpkaiepnnboobcmafnnfoomga">Facebook Friend Exporter</a>，允许用户将他们下载Facebook上的朋友数据，邀请Facebook用户使用Google Plus。Facebook注意到了异常访问，它屏蔽了该扩展访问Facebook.com。</i>
+另，北京联通今天屏蔽了<a href="https://plus.google.com/">Google+</a>。
+➜Firefox 7将解决内存占用问题
+https://www.solidot.org/story?sid=24852	40500
+Firefox 6将增加大量HTML5和CSS3特性，而Firefox 7<a href="http://www.extremetech.com/internet/88998-fixes-to-memory-footprint-land-in-firefox-7">则集中在内存管理和性能改进上</a>。<i>
+内存足迹与循环收集（cycle collection）和垃圾收集（garbage collection）有关：循环收集是循环使用网页DOM对象，而垃圾收集是清空旧的无用的JavaScript对象。Firefox 7将<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=656120">增加垃圾收集频率</a>和使用<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=666058">内存块碎片整理</a>。对于大容量内存用户而言，这些改变可能不会引人注目；但对于只有2GB内存的用户来说，改进将是显著的。</i>
+➜昆虫的求偶叫声最嘹亮
+https://www.solidot.org/story?sid=24853	41160
+根据开放获取期刊PLoS ONE上的<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0021089">一篇论文</a>，小小的昆虫却能发出巨响的吸引交配叫声，至少就身体大小来说它们是<a href="http://www.wired.com/wiredscience/2011/07/insect-penis-sound/">地球上叫声最响的动物</a>。<i>
+水生昆虫<a href="http://en.wikipedia.org/wiki/Lesser_water_boatman">Lesser water boatman</a>只有5毫米到15毫米长，但雄性吸引雌性的<a href="http://www.bbc.co.uk/nature/13958630">求偶歌声</a>(BBC)最高能达到99.2分贝（平均78.9分贝），相当于坐在前排听乐队演奏。这种昆虫是通过用阴茎摩擦腹部产生鸣叫，叫声从水里传到空气中会打些折扣，但在河岸边漫步的人可以清楚听到。如果不考虑大小，大象的叫声可以达到117分贝，之后是枪虾、<a href="http://en.wikipedia.org/wiki/Speckled_bush-cricket">斑点丛蟋</a>，<a href="http://en.wikipedia.org/wiki/Bronze_Dainty_Frog">青铜弱胸蛙</a>，鳄鱼和人类。</i>

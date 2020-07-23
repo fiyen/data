@@ -1,0 +1,25 @@
+➜MEPIS重新选择Debian为系统开发核心
+https://www.solidot.org/story?sid=3426	4680
+以Debian为基础开发的发行版有许多，其中以Ubuntu最为知名，甚至已有凌驾于Debian之上的趋势。于是一些使用Debian为基础开发的发行版转而选择Ubuntu，<a href="http://www.mepis.org/">MEPIS</a>就是其中一个，它也是一个颇受欢迎的发行版。2006年3月，MEPIS创始人Warren Woodford决定用Ubuntu取代Debian作为下一版SimplyMEPIS（6.0版）的核心，计划使用的是Ubuntu 6.06 Dapper Drake LTS (长期支持版)。<a href="http://osnews.com/comment.php?news_id=18358">但是现在MEPIS又决定重新使用Debian</a>。原因是事情发生了变化，Ubuntu 6.06并不像原先预计的那样升级，它主要是提供安全更新而不再增加新功能。Woodford只好又回头用Debian GNU/Linux 4.0--代号Etch—为系统开发核心。
+➜Wikia收购Grub，然后开源
+https://www.solidot.org/story?sid=3427	16920
+O'Reilly Open Source Conference (OSCON)大会上，维基百科创始人Jimmy Wales<a href="http://www.grub.org/html/news.php?op=site_news">宣布已收购Grub</a>，一新颖奇特的分布式搜索方案（original visionary distributed search project），目的是利用用户贡献的电脑资源来进行crawler和索引。<a href="http://en.wikipedia.org/wiki/Grub_(search_engine)">Grub</a>建立于2000年，2003年出售给LookSmart，以闭源形式发布过相关的分布式crawler软件，2005年末关闭，2007年7月27日重启。被<a href="http://www.wikia.com/">Wikia</a>收购后，这些软件4年来第一次以开源许可证形式发布。目前只放出了<a href="http://grub.org/html/signup.php">Windows客户端</a>用于测试。
+➜日本汽车制造商联合开发汽车OS
+https://www.solidot.org/story?sid=3428	21540
+CNet报道日本汽车制造商正联合起来开发<a href="http://news.com.com/8301-10784_3-9751754-7.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-20">汽车标准操作系统</a>。<i>
+“和电脑操作系统一样，比如Windows Vista，它允许多个应用程序彼此互相交换信息，汽车操作系统能让不同的汽车部件共同运作。一个标准的汽车用操作系统控制的范围包括燃油注入、刹车，动力方向盘和动力窗口（power windows）。当前普遍使用的机械式汽车的部件模块可随时更换，运行通用标准软件的智能汽车也许可以让这种便利的方式继续存在，汽车内的智能部件互相之间应该能很容易进行沟通。”</i>
+欧洲的汽车制造商也在联合开发下一代汽车操作系统。
+➜DNA音乐专利得到承认
+https://www.solidot.org/story?sid=3429	26580
+两位律师获得了一项专利：<a href="http://www.genome-technology.com/issues/blog/general/141371-1.html">用DNA序列来产生音乐</a>。根据<a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=5&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=DNA&amp;s2=sequencing&amp;OS=DNA+AND+sequencing&amp;RS=DNA+AND+sequencing">专利</a>说明，“这种音乐将DNA序列的解码和转录信息转换成音乐信号产生出悦耳和谐的声音”。有评论指出这种音乐早就有了，通过搜索也能找到中文资料“<a href="http://www.sciam.com.cn/blog/article.php?tid_80.html">DNA音乐</a>”：DNA的四种碱基对：腺嘌呤（A）、鸟嘌呤（G）、胞嘧啶（C）和胸腺嘧啶（T）对应于音符“6”、“2”、“3”、“5”。有人就选择白血病病毒的一种DNA碱基排列顺序配成乐谱，据说很感人。
+➜熊猫粪便变印钞机
+https://www.solidot.org/story?sid=3430	28860
+中国成都野生动物研究中心想出了极具创意的主意：<a href="http://news.yahoo.com/s/nm/20070731/od_uk_nm/oukoe_uk_olympics_beijing_pandas">用熊猫粪便做奥林匹克纪念品</a>。<i>
+四川卧龙大熊猫研究中心的60多只大熊猫每年都要产生出300多吨排泄物，研究人员正在用它们制作照片相框，扇子和熊猫雕像。Jing Shimin，研究基地主管的助手，骄傲的宣称这些纪念品<a href="http://news.xinhuanet.com/society/2007-03/26/content_5895361.htm">不会有难闻的气味</a>。原因是“70%的粪便都是熊猫没有消化的竹子（偶记得鸡屎也类似），以前我们每个月都要花6000元去处理粪便，现在它们已经具有经济价值”。随着2008年北京奥运会的到来，基地正忙着制作熊猫雕像（内含粪便）作为奥林匹克纪念品出售。</i>
+➜Microsoft提供免费的Works套件
+https://www.solidot.org/story?sid=3431	32040
+<a href="http://blogs.zdnet.com/microsoft/?p=604">Microsoft Works 9.0</a>——微软下一代小型办公/家用组件将是免费的，广告成为其主要收入来源（ad-funded）。Microsoft Works将成为Open Office和Google Docs &amp; Spreadsheets最强的竞争对手，Microsoft Works包含了文字处理、电子表格和幻灯片程序，其基础是旧版的Microsoft Office软件。1986年Microsoft Works在苹果的Mac上发行了第一版，2004年发布了Microsoft Works 8.0，价格为$49.95。迫使微软采取这一行动的主要因素是在线办公软件的兴起。
+➜用“人造农场（Crowd Farm）”来收集能量
+https://www.solidot.org/story?sid=3432	35520
+两位MIT建筑规划系的研究生设计了一套系统<a href="http://web.mit.edu/newsoffice/2007/crowdfarm-0725.html">能收集人行走的机械能</a>。<i>
+这一名为Crowd Farm的系统工作原理是：像火车站月台这样的场所，“主要大厅和通道的地板下安装一套由块状（block）物组成的感应系统，这些特殊的装置能察觉人行走所产生的细微的压力。人行走在上会使其滑动，一个特殊设备能将运动能转换成电流，从而产生了电力”。</i>

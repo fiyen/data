@@ -1,0 +1,78 @@
+➜中文Twitter的信息量是英文的2到8倍
+https://www.solidot.org/story?sid=14083	60
+微博客Twitter限制每条信息不能超过140个字符。如果Twitter设置的是140<a href="http://en.wikipedia.org/wiki/UTF8">UTF-8</a>字节，那么中文tweet和英文之间应该没什么区别，因为每个中文字形要占据3个字节，而英文字形只有1个字节。但Twitter计算的是字符，而不是字形。因此140个英文字符表达的信息有限，而140个中文字符完全可以当成一篇短小的博文了。然而，中文Twitter的信息量是否就相当于英文的2到3倍呢？<i>
+台湾的Perl开发者唐凤（Audrey Tang）<a href="http://pugs.blogs.com/audrey/2009/10/our-paroqial-fermament-one-tide-on-another.html">进行了一番有趣的研究</a>（<a href="http://pugs.blogs.com/audrey/2009/10/%E6%96%87%E7%AB%A0%E9%80%A0%E5%A4%A9%E4%B8%8B%E5%8A%9F%E6%A5%AD%E9%82%84%E8%92%BC%E7%94%9F.html">中文</a>），她将3条中文tweet翻译成英文，这些中文tweet包括了一般的白话文、半文半白和文言文，在将中文字符数和翻译后的英文字符数对比后，她发现中文的信息量是英文的2到8倍，其中当以文言文信息量最高。</i>
+➜大航海时代的到来！？
+https://www.solidot.org/story?sid=14084	1320
+<a href="http://www.vudauk.com/">cucurbit</a> 写道 <i>"随着海盗湾的覆灭，不甘“寂寞”者纷纷驾船出海，如<a href="http://tracker.btarena.org/">BTArena</a>，最近又有人<a href="http://kaiserism.com/">KAISERISM.COM</a>放言索引了近百万的种子到其麾下。对比之下<a href="http://kaiserism.com/">KAISERISM.COM</a>显得异常简陋，种子数也没有想传言中的那么多；谁最终能找到传说中的密宝，成为海盗王，我们拭目以待。"</i>
+➜国际空间站迎来首位欧洲指挥官
+https://www.solidot.org/story?sid=14085	4680
+在首批远征队成员进驻国际空间站(ISS)9年之后，在前任俄罗斯籍指挥官Gennady Padalka离开空间站之后，欧洲航天局的宇航员De Winne成为第21远征队的指挥官，<a href="http://spacefellowship.com/2009/10/11/first-european-commander-of-the-international-space-station/">他也是首位非美国和俄罗斯籍的指挥官</a>。<i>
+Padalka乘坐联盟号TMA-14飞船，与NASA宇航员Michael Barratt和加拿大太空游客、太阳马戏团创始人Guy Laliberte，于格林尼治标准时间11日4时31分<a href="http://news.yahoo.com/s/ap/20091011/ap_on_re_as/as_kazakhstan_soyuz_landing">降落在哈萨克斯坦的草原上</a>。目前国际空间站上共有6名宇航员，除了De Winne外，还有NASA的宇航员Jeff Williams和Nicole Stott，俄罗斯宇航员Roman Romenenko和Max Suraev，加拿大宇航员Robert Thirsk。Winne预计于12月1日返回地球，届时NASA宇航员Williams将接任第22远征队指挥官一职。</i>
+➜Swarm——分布式计算的新方法
+https://www.solidot.org/story?sid=14086	7920
+P2P匿名代理软件<a href="http://freenetproject.org/">Freenet</a>的作者Ian Clarke正在开发一个新的开源项目<a href="http://code.google.com/p/swarm-dpl/">Swarm</a>。<i>
+Swarm是一个Web应用程序开发框架，它允许程序分布在多台计算机，从某种程度上让程序对程序员完全透明。Swarm将会观察程序的执行，并计算出如何在计算机之间分配计算量以达到效率最大化。Swarm采用LGPL许可证，用<a href="http://www.scala-lang.org/">Scala 2.8</a>语言实现。目前还处于早期发展阶段，Ian制作了一则36分钟长的视频，介绍这种“<a href="http://vimeo.com/6614042">云的透明化分布式计算</a>(Vimeo)”。</i>
+➜新法规定处罚“与醉驾司机同乘一车的乘客”
+https://www.solidot.org/story?sid=14087	9900
+《南方周末》<a href="http://www.infzm.com/content/35758">报道</a>，<a href="http://www.mps.gov.cn/n16/n85753/index.html">公安部交管局</a>近日给全国交管部门下发《关于修改酒后驾驶有关法律规定的意见(征求意见稿)》，拟将醉酒驾车等行为纳入刑法处罚范围，并首次提出“与醉驾司机同乘一车的乘客也应进行处罚”的内容。
+<i>
+征求意见稿中，对醉酒驾驶和酒后驾驶的处罚力度都有所加重，将醉酒驾车等行为纳入刑法调整范围，并分别按照没有造成交通事故、造成交通事故和情节特别严重三个档次进行处罚，造成事故和情节特别严重的法定处罚应当高于交通肇事罪的法定刑罚。征求意见稿中首次列入“与醉驾司机同乘一车的乘客也应进行处罚”的内容，规定对酒后驾驶不劝阻、不制止的同乘者设定罚款处罚。</i>
+➜微软服务器故障导致所有Sidekick用户数据丢失，无备份
+https://www.solidot.org/story?sid=14088	12600
+T-Mobile和微软旗下的子公司Danger<a href="http://forums.t-mobile.com/tmbl/board?board.id=06">宣布</a>，由于服务器发生故障，他们可能<a href="http://www.techcrunch.com/2009/10/10/t-mobile-sidekick-disaster-microsofts-servers-crashed-and-they-dont-have-a-backup/">丢失了</a>所有储存在微软服务器上的Sidekick用户数据。<a href="http://en.wikipedia.org/wiki/Danger_Hiptop">T-Mobile Sidekick</a>是Danger制造的GPRS/EDGE/UMTS智能手机，Danger于2008年2月被微软收购。<i>
+Sidekick上的数据如联系簿、照片、日程安排等数据主要不是储存在手机上，而是在服务器内（也就是cloud）。微软/Danger的服务器遭遇了灾难性的事故，导致所有没有备份的数据全部丢失。T-Mobile和Danger建议用户不要关闭Sidekick手机，如果电池电力没有耗光，目前储存在手机上的数据还可以得到拯救。微软和Danger声明他们无法恢复数据，不过还在尝试。已有用户在T-Mobile论坛上叫嚷<a href="http://hardware.slashdot.org/story/09/10/11/0335210/Server-Failure-Destroys-Sidekick-Users-Backup-Data">要提起诉讼</a>。</i>
+➜默多克称Google偷取新闻集团的内容
+https://www.solidot.org/story?sid=14089	17640
+在上周举行的北京世界媒体峰会上，新闻集团主席默多克（Rupert Murdoch）再次老调重弹，<a href="http://blog.newsweek.com/blogs/techtonicshifts/archive/2009/10/09/rupert-murdoch-says-google-is-stealing-his-content-so-why-doesn-t-he-stop-them.aspx">指责</a>搜索引擎——以Google为甚——<a href="http://news.slashdot.org/story/09/10/10/2234213/Rupert-Murdoch-Says-Google-Is-Stealing-His-Content?from=rss">偷取新闻集团的内容</a>，Google索引了他们新闻网页的链接，但却不为此付费。<i>
+默多克<a href="http://media.ifeng.com/news/newmedia/web/200910/1012_4266_1383597.shtml">表示</a>，“内容聚合者和剽窃者应尽快为使用我们的内容付费。如果我们不能利用当前的趋势转向付费内容，那么最终付出代价的将是内容制作者，而剽窃者将获得胜利。”如果默多克先生真的想阻止Google偷窃内容，最简单的方法就是修改网站的robot.txt文件，禁止机器人索引。</i>
+➜检测PC硬件错误的免费或开源软件
+https://www.solidot.org/story?sid=14090	20880
+电脑用久了，肯定会时不时的出现各种硬件或软件故障，软件故障的万能方法是重装系统，但是硬件故障呢？<a href="http://hardware.slashdot.org/story/09/10/10/1823232/Software-To-Diagnose-Faulty-PC-Hardware?from=rss">这篇文章</a>讨论了多种免费或开源的不同硬件的检测软件：<i>
+<a href="http://www.memtest.org/">Memtest86+</a>：采用GPL许可证的内存测试软件，最新版本是9月22日发布的<a href="http://www.memtest.org/download/4.00/memtest86+-4.00.iso.zip">Memtest86+ 4.00</a>，支持光盘或USB启动。
+<br>
+<a href="http://www.ocbase.com/">OverClock Checking Tool</a>：检测CPU、GPU和电源的免费软件，最新版本是<a href="http://www.ocbase.com/download.php?fileext=zip">OCCT Perestroïka 3.1.0</a>。<br>
+<a href="http://www.hiren.info/pages/bootcd">Hiren's BootCD</a>：收集了各种各样的测试软件和工具软件，支持<a href="http://www.hiren.info/pages/bootcd-on-usb-disk">USB</a>和光盘启动，最新版本是<a href="http://www.hirensbootcd.net/">BootCD 10.0</a>。<br>
+<a href="http://sourceforge.net/projects/smartmontools/">S.M.A.R.T. Monitoring Tools</a>：ATA和SCSI硬盘健康状况的GPL检测工具，支持操作系统如Mac OS X/Linux、FreeBSD、NetBSD、OpenBSD、Solaris、OS/2、Cygwin、QNX、eComStation甚至是Windows。支持软盘或光盘启动，最新版本是<a>5.38版</a>。</i>
+➜LG展示太阳能电子书阅读器
+https://www.solidot.org/story?sid=14091	23400
+如果你被扔到一座荒岛上，只能带一本书，那么这本书可以是韩国LG公司推出的<a href="http://hardware.slashdot.org/story/09/10/12/0245211/LG-Presents-Solar-Powered-E-Book?from=rss">太阳能电子书阅读器</a>。<i>
+<a href="http://www.lgdisplay.com/homeContain/jsp/eng/inv/inv101_j_e.jsp?BOARD_IDX=1773&amp;languageSec=E&amp;kinds=IN1">LG的电子书阅读器</a>面板为6英寸，太阳能电池宽10厘米，薄0.7毫米，重只有20克，相当于信用卡的厚度和钢笔的重量。在阳光下照4-5个小时，就能提供全天阅读的电力。目前该产品光伏电池的能量转换效率大约为9.6%，LG声称到2010年转换效率能提高到12%，2012年能实现14%的效率。LG将在10月12日到16日的<a href="http://www.imid.or.kr/">IMID 2009</a>会议上展示电子书阅读器的原型。</i>
+➜乌鸦能理解基本的物理学概念
+https://www.solidot.org/story?sid=14092	26640
+即使白嘴鸦的脑瓜子很小，<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1009/2">它仍能理解基本的物理学概念</a>，其理解程度堪比6个月大的婴儿，超过黑猩猩。研究<a href="http://rspb.royalsocietypublishing.org/content/early/2009/10/06/rspb.2009.1456.abstract">报告</a>发布在英国《皇家学会学报B》上。<i>
+乌鸦家族向来以聪明著称，它们能使用工具，甚至能解决某些谜团。一些科学家猜想，乌鸦足够聪明到理解复杂的物理学概念。为了测试这一推测，剑桥大学动物学家Christopher Bird，与伦敦大学玛丽女王学院的同事Nathan Emery合作，测试白嘴鸦是否能掌握“支撑”这个基本的物理学概念。他们采纳了一种标准的试验：婴儿和其它灵长类动物知道，当某样东西没有被抓住的话，它将会掉下来。对于某种反常的画面，比如在空中漂浮的香蕉，他们注视的时间会比正常画面更长。研究人员设计了一个可供白嘴鸦偷窥的洞（白嘴鸦有偷窥的天性，它们喜欢透过小孔瞧其它白嘴鸦在做什么），在洞外研究人员展示了描绘不同情况下的蛋的画面，包括可能的和不可能的。一些蛋搁在桌子上，另一些漂浮在上面。观察结果显示，对于不可能的画面，白嘴鸦凝视的时间长了50%。6个月的婴儿也有同样的反应，但黑猩猩只能部分理解“支撑”这个概念。路易斯安那大学的比较心理学家Daniel Povinelli认为，这项研究并不让人惊讶，每一种生物必须理解物理学原则才能生存下来，比如鸟类怎么知道停在树枝上？</i>
+➜研究显示B2B（从大脑到大脑）通讯是可能的
+https://www.solidot.org/story?sid=14093	29400
+南安普敦大学的新研究演示了<a href="http://www.soton.ac.uk/mediacentre/news/2009/oct/09_135.shtml">从大脑到大脑之间通讯的可能性</a>。
+<i>
+人机接口（Brain-Computer Interfacing，BCI）能用于捕捉大脑信号并转换成命令，让人用“思想”去控制计算机、机器人等设备。新的研究扩展了人机接口技术，证明了从大脑到大脑的通讯是<a href="http://science.slashdot.org/story/09/10/10/1911226/Computer-Aided-ESP-Transmits-Binary-Numbers-Slowly">有可能的</a>。在试验中，一个人使用BCI技术将大脑的想法翻译成二进制数字，另一个人的电脑通过互联网接收到数字，展示在LED灯上，然后接受者的脑电图（EEG）将数字破译出来，从而实现两个人之间的大脑对大脑通讯。试验显示，这种通讯的速度相当慢，只有每秒14比特。</i>
+➜盗版软件正迅速从BitTorrent移到文件储存网站
+https://www.solidot.org/story?sid=14094	32040
+越来越多的BitTorrent网站受到打压，盗版软件<a href="http://www.computerworld.com/s/article/9139210/What_s_replacing_P2P_BitTorrent_as_pirate_hangouts_">正迅速从BitTorrent转移到文件储存网站</a>，如RapidShare、Megaupload和Hotfile(大约相当于国内的NamiPan、Rayfile) 。<i>
+网络硬盘网站允许匿名用户免费上传大容量文件，如破解软件。盗版者随后再通过超链接在网站、IM、社交网站如Twitter等上面传播这些文件。反盗版软件供应商V.I. Labs的副总裁Vic DeMarines称，网盘从本质上相当于用户自己拥有的私人FTP服务。RapidShare曾<a href="http://www.nytimes.com/2009/10/04/business/04digi.html?_r=2&amp;hpw">告诉</a>《纽约时报》，它储存的数据已超过10PB，最高有300万下载者同时下载。根据Alexa的<a href="http://www.alexa.com/siteinfo/rapidshare.com">数据</a>，RapidShare已跻身于世界前20名网站之列。虽然RapidShare已面临与盗版相关的诉讼，但DeMarines指出从法律上讲对网盘网站的反盗版诉讼是很棘手的，因为上传者不需要注册。不过P2P仍然是最流行的盗版文件发行网络，而P2P中最流行的依旧是BitTorrent，10名P2P用户中有6名使用BitTorrent；其次是eDonkey，占20%；第三名是Gnutella。</i>
+➜最早的高清电视机
+https://www.solidot.org/story?sid=14095	34800
+宝龙拍卖行<a href="http://www.gizmag.com/teleavia-type-p111-high-definition-tv-1958/13026/picture/99949/">拍卖</a>了Michael Bennett-Levy<a href="http://www.gizmag.com/bonhams-set-to-auction-technology-antique-firsts/12961/gallery/">收藏</a>的早期技术古董。<i>
+他的藏品中颇为引人注目的是<a href="http://www.gizmag.com/teleavia-type-p111-high-definition-tv-1958/13026/">Teleavia type P111</a>，是法国Citroën DS公司于1958年生产的一台十分少见电视机，属于最早的高清电视机之一。电视机的显示屏为19英寸，显示能力为440线，而最高分辨率达到了819线，超过720p，即使从今天的标准看，也属于高清了。P111只有原型，并没有真正上市销售。这台电视机的拍卖成交价为2400英镑。</i>
+➜Green Dam执行降温
+https://www.solidot.org/story?sid=14096	36900
+Green Dam的强制安装曾引起极大的争议，虽然政府在之后宣布暂缓执行，但仍然有多家PC厂商按惯性继续执行命令，或者预装，或者软件随盘提供。学校等教育机构和网吧仍被要求安装Green Dam。然而由于软件自身的种种缺陷，至少有一所中学卸载了该软件。“单位”网站的创始人金玉米（Jeremy Goldkorn）亲身调查了多家网吧，迹象显示Green Dam已从网吧消失。PC制造商也逐渐停止了预装。一位联想发言人证实，联想电脑不再在电脑上预装该软件，但同时又表示他们将根据需要提供安装服务。但正如金玉米所指出的，Green Dam只是无数过滤软件中的一种，控制网络意图没有改变，<a href="http://www.zdnetasia.com/news/internet/0,39044908,62058509,00.htm">未来依旧不确定</a>。
+➜图像识别神经网络工具Neuroph 2.3发布
+https://www.solidot.org/story?sid=14097	39600
+Java神经网络框架<a href="http://neuroph.sourceforge.net/index.html">Neuroph</a>的最新v2.3于上周<a href="http://tech.slashdot.org/story/09/10/12/0345210/Image-Recognition-Neural-Networks-Open-Sourced?from=rss">发布</a>，增加了图像识别支持。它提供了一个GUI工具去训练图像识别的多层感知器，一个易于使用的API可以在终端用户应用中部署这些神经网络。<i>
+Neurop最初是一位硕士研究生的毕业论文主题，随后成为一个开源项目，它采用LGPL3许可证发布源代码。开发者已在SourceForge网站上发布了<a href="http://neuroph.sourceforge.net/image_recognition.html">如何使用的介绍文档</a>和一个<a href="http://neuroph.sourceforge.net/online_demo.html">在线Demo</a>(需要Java 1.6)。</i>
+➜FTC要求博客必须公开付费评论
+https://www.solidot.org/story?sid=14098	41520
+美国联邦交易委员会（FTC）采取措施让产品信息和在线评论对消费者更精确，<a href="http://www.msnbc.msn.com/id/33177160/ns/technology_and_science-tech_and_gadgets/">并首次涉及到了博客等新媒体</a>。
+<i>
+FTC要求网络写手开诚布公，透露有没有从产品制造或销售公司获得免费赠品，或者付费写评论。FTC称委员会以4比0的结果通过了最终的指导方针，指导方针并非是绝对法，而是对法律的解释，帮助企业遵守规章制度，新的规定将从12月1日生效，如果违反了规定，将面临包括诉讼在内多种惩罚。</i>
+➜牛津大学公开面试样题
+https://www.solidot.org/story?sid=14099	43200
+牛津大学公开了部分<a href="http://www.ox.ac.uk/media/news_stories/2009/091009.html">面试样题</a>，包括：什么是语言？你将如何设计一座大坝？你宁愿拯救热带雨林还是珊瑚礁？考试时你的心跳为什么会加速？英语学生阅读《暮光之城（Twilight）》有何用？某人‘擅自取走’另一人的车子意味着什么？如果我准备去你居住的地区看一看，我可能会对哪些东西感兴趣？....<i>
+这些问题将是雄心勃勃希望踏入世界一流名校牛津大学校门的莘莘学子<a href="http://www.bbc.co.uk/ukchina/simp/uk_education/2009/10/091012_edu_oxford.shtml">可能会被“考”到的问题</a>。招生主任Mike Nicholson表示，牛津大学希望告诉人们招生面试并没有什么“捉弄人的问题”，“面试完全是用于评估学习能力和潜力。其目的是让考生利用他们的知识，并在遇到新问题时发挥他们的才智，让智慧的光芒闪耀。（面试中）不要求任何特殊知识，也没有什么‘对’或‘错’的答案。”他补充说，牛津大学提出的开放式问题是为了激发学生与面试官之间的讨论，而不是要为难学生，让他们信心全无。</i>
+➜国际奥委会威胁摄影师
+https://www.solidot.org/story?sid=14100	54120
+上周，澳大利亚的一位社会媒体专家Richard Giles意外的收到了一封来自瑞士洛桑国际奥委会的<a href="http://www.flickr.com/photos/richardgiles/3988389213/">威胁信</a>。国际奥委会在信中警告他去年在北京奥运会上拍摄的<a href="http://www.flickr.com/photos/richardgiles/2767537621/in/set-72157606780890410/?addedcomment=1#comment72157622445078429">一张运动员照片</a>不能够进行商业性使用。
+<i>Giles的这张照片使用了创作共用协议的cc-by-sa条款，并不禁止商业使用。作为自由内容，这张照片也<a href="http://commons.wikimedia.org/wiki/File:Usain_Bolt_Olympics_Celebration.jpg">在维基百科上使用</a>。而<a href="http://richardgiles.com/2009/10/09/the-olympics-and-creative-commons-photographs/">英国的一个书商也基于同样的理由</a>，将在2010年出版的一本吉尼斯世界纪录的书中用这张图片。但是奥委会的信中指出，奥运会门票上有明确要求，在会场中拍摄的照片只能个人使用，未经奥委会同意不能用于商业目的。但是这样做又明显与cc协议有冲突，而且自己拍摄的原创照片，居然自己没有随意授权的权利，实在是一个很滑稽的事情。</i>
+<a href="http://creativecommons.org/weblog/entry/18364">这里</a>是关于此事的较全面的综述。维基百科上大量的<a href="http://commons.wikimedia.org/wiki/Category:Summer_Olympics">用户拍摄的奥运会照片</a>又会遇到怎样的状况呢？

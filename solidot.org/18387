@@ -1,0 +1,18 @@
+➜Popcorn 开源项目因 DMCA 通知被 GitHub 关闭
+https://www.solidot.org/story?sid=64268	19388
+代表美国主要电影公司和流媒体公司的美国电影协会向 GitHub 递交了 <a href="https://github.com/github/dmca/blob/master/2020/05/2020-05-01-MPA.md"><u>DMCA 删除通知</u></a>，称开源项目 Popcorn Time 广泛侵犯了电影和电视节目的版权。GitHub 之后根据要求关闭了 Popcorn Time 的<a href="https://github.com/popcorn-official/popcorn-desktop/issues" target="_blank"><u>开源库</u></a>。这一做法引起了<a href="https://github.com/github/dmca/blob/master/2020/05/2020-05-04-MPA-counternotice.md"><u>争议</u></a>，因为 Popcorn Time 本身并不包含任何侵权材料，但作为一种工具它确实能帮助用户访问侵权材料。作为一种工具，Popcorn Time 整合了 BT 下载和流媒体播放器，能提供类似 Netflix 的盗版内容流媒体服务。
+➜LineageOS、Ghost 和 DigiCert 服务器遭黑客入侵
+https://www.solidot.org/story?sid=64269	26858
+过去几天，黑客<a href="https://www.securityweek.com/recent-salt-vulnerabilities-exploited-hack-lineageos-ghost-digicert-servers"><u>利用了</u></a>两个最近披露的 Salt 漏洞入侵了 <a href="https://twitter.com/LineageAndroid/status/1256821056100163584"><u>LineageOS</u></a>、<a href="https://status.ghost.org/" target="_blank"><u>Ghost</u></a> 和 <a href="https://groups.google.com/a/chromium.org/forum/#!topic/ct-policy/aKNbZuJzwfM" target="_blank"><u>DigiCert </u></a>的服务器。Salt 是是一个监视和更新服务器状态的开源配置工具。上周安全公司 F-Secure 的研究人员披露了两个漏洞 CVE-2020-11651 和 CVE-2020-11652，允许远程攻击者绕过身份验证和授权控制，以 root 权限执行命令，它们是最高危的漏洞，CVSS 评分 10/10。负责 Salt 开发的 SaltStack 已在上周释出了补丁修复了漏洞。LineageOS 是一个非常受欢迎的 Android 社区发行版，开发者表示对其服务器的攻击发生在周六晚上八点左右（美太时间），在攻击者未进行任何破坏前就被发现，源代码以及相关构建未受影响。与主基础设施隔离储存的签名钥匙也未受影响。
+➜Inkscape 1.0 发布
+https://www.solidot.org/story?sid=64270	29540
+自由软件向量图形编辑器 Inkscape 项目在开发近 20 年之后正式<a href="https://inkscape.org/news/2020/05/04/introducing-inkscape-10/"><u>释出了 1.0 版本</u></a>。Inkscape 1.0&nbsp; 最引人注目的变化包括：重组工具箱，排列次序更合乎逻辑；改进 Live Path Effect (LPE)。LPE 的可搜索选择对话框有了更完善的界面、描述，还可以标记常用 LPE。Inkscape 项目<a href="https://wiki.inkscape.org/wiki/index.php?title=InkscapeHistory#1998" target="_blank"><u>诞生于</u></a> 2003 年，历经 17 年发布正式版本。而 Inkscape 项目是另一个最早发布于 2000 年的 sodipod 项目的分支，sodipod 项目则是最早发布于 1998 年的 Gill 项目的分支。
+➜科学家在实验室里创造能挫败新冠的抗体
+https://www.solidot.org/story?sid=64271	45297
+根据发表在《Nature Communications》期刊上的<a href="https://www.nature.com/articles/s41467-020-16256-y"><u>一项研究</u></a>，科学家报告在实验室里创造能挫败新冠的抗体。名为 47D11 的抗体针对的是突刺蛋白，这种蛋白给予冠状病毒皇冠形状，让其进入人类细胞。在实验中，它不仅挫败了新冠病毒，而且还挫败了近亲 SARS。研究人员利用转基因实验鼠去产生冠状病毒突刺蛋白的不同抗体，在之后的实验中，47D11 表现出能中和新冠和 SARS 的活性。研究人员进行了重构创造出了人类版本的抗体。
+➜黑客贿赂游戏公司雇员访问客户数据
+https://www.solidot.org/story?sid=64272	47491
+人通常是数据安全的最薄弱环节。一名黑客再次证明了这一点。该名黑客贿赂了流行网络游戏 Roblox 的雇员，<a href="https://www.vice.com/en_us/article/qj4ddw/hacker-bribed-roblox-insider-accessed-user-data-reset-passwords" target="_blank"><u>访问了</u></a>游戏后端的客户支持面板，可以查询玩家的个人信息，获得游戏内的虚拟货币。Roblox 是一款在未成年人中间非常受欢迎的网络游戏，月活用户超过 1 亿。通过访问后端支持面板，黑客可以看到用户的电邮地址，可以修改密码，移除二步认证，封掉用户，等等。
+➜中国使用长征五号B火箭成功发射新载人飞船试验船
+https://www.solidot.org/story?sid=64273	47833
+5月5日18 时，中国在文昌发射场使用长征五号B运载火箭，<a href="http://news.sciencenet.cn/htmlnews/2020/5/439328.shtm" target="_blank"><u>成功发射</u></a>新一代载人飞船试验船和柔性充气式货物返回舱试验舱。长征五号B运载火箭全长约 53.7 米，芯一级直径 5 米，捆绑 4 个直径 3.35 米助推器，起飞质量约 849 吨，近地轨道运载能力大于 22 吨，是中国近地轨道运载能力最大的火箭。中国原计划在 4 月 24 日东方红卫星发射五十周年之际发射长征五号B，但由于技术问题而推迟。长征五号B将用于发射中国空间站天河的核心模块舱，这次成功发射是中国未来载人航天项目的一个<a href="https://www.nasaspaceflight.com/2020/05/china-next-generation-crew-capsule/" target="_blank"><u>重要里程碑</u></a>。

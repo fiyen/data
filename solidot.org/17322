@@ -1,0 +1,55 @@
+➜流行网游加速服务「岛风GO」被指擅自篡改网页，存在安全风险
+https://www.solidot.org/story?sid=52638	7675
+<div align="center"><a href=""><img src="http://img.solidot.org/0/345/liNpd9oPvLp2Y.png" width="500" align="" height="252"><br>
+</a><br>
+</div>
+<a href="">反竹川</a> 写道<i> "安全专家通常会建议用户在开放网络环境下使用网络代理服务规避可能的安全风险，但如何保证这些网络代理服务本身的安全？中国一家提供收费「网游加速」的流行网络代理服务商&nbsp;unlockACGWeb（aka. 岛风 GO）被用户<a href="http://bbs.nga.cn/read.php?tid=11754527" target="_blank">爆出</a>存在擅自篡改网页并插入商业广告的行为（见上图）。而该服务要求用户于使用过程中导入其自行签发的根证书「ShimakazeGo! HTTPS ROOT」被质疑「一个专注游戏加速的业务根本用不到 CA，只是单纯代理 HTTPS 根本不需要解密流量内容」。服务的运营者&nbsp;<pangu> </pangu><a href="http://www.weibo.com/galstars" target="_blank">magami</a>（备案名为康建军）<pangu> </pangu><a href="http://www.weibo.com/1537608130/F6hQNpw3j?type=comment" target="_blank">反驳</a>称被篡改的网页未使用 HTTPS 加密，插入广告无需证书，并宣称自己插入的广告能「帮用户找到想要的东西」。两个月前，magami 曾指责<a href="http://www.solidot.org/story?sid=52165" target="_blank">中国电信悄悄替换了其自签名证书</a>。
+</i><i>
+</i>
+<p><i>另据该用户反应，另一款用户数较大的代理 ACG Power 也有自签 CA，出于安全角度考虑建议不要使用。"</i></p>
+➜SpaceX 将中国实验发射到空间站
+https://www.solidot.org/story?sid=52639	13253
+美国时间周六，执行国际空间站补给任务  CRS-11 的 SpaceX 公司使用一枚 Falcon 9 火箭<a href="https://www.nasaspaceflight.com/2017/06/spacex-falcon-9-crs-11-dragon-iss-100th-39a/" target="_blank">成功发射了</a>一艘重复使用的  Dragon 飞船。此次发射因为天气问题而推迟了一天，Dragon 飞船运送了 2,708 公斤的货物，其中包括 242 公斤的宇航员补给，199 公斤的空间站硬件，27 公斤的计算机设备、56 公斤支持太空行走的设备、1,069 公斤的科学仪器和实验，包括 Roll-Out Solar Array (ROSA)、Neutron Star Interior Composition Explorer
+(NICER) 和 Multiple User System for Earth Sensing (MUSES)，它<a href="https://arstechnica.com/science/2017/06/saturdays-spacex-launch-carried-a-secret-payload-a-chinese-experiment/" target="_blank"><u>首次</u></a>将一个中国的太空实验送往空间站。美国国会禁止 NASA 与中国在太空项目上展开合作，但中国找到了绕过禁令的方法。中国与休斯顿公司 NanoRacks <a href="http://www.solidot.org/story?sid=45024" target="_blank"><u>达成了</u></a>一项交易，中国向 NanoRack 支付 20 万美元，在国际空间站的 NanoRack 轨道实验舱做一项太空环境下的 DNA 突变实验。Dragon 飞船还携带了五颗立方体卫星，其中一颗卫星的运营方包括了台湾国立成功大学。
+➜Java 9 因模块化争议将延期发布
+https://www.solidot.org/story?sid=52640	14742
+JCP Executive Committee 上个月投票<a href="http://www.solidot.org/story?sid=52346" target="_blank"><u>否决了</u></a> Java Platform Module System（或称为 Jigsaw）。所谓模块化系统是设想 Java 应用程序只需要打包部分标准库，但被认为会造成兼容性问题而遭到大企业如 Redhat 和 IBM 的反对。因为模块化的争议，甲骨文公司<a href="http://www.infoworld.com/article/3198912/java/java-9-delayed-due-to-modularity-controversy.html" target="_blank"><u>提议</u></a> Java 9 Standard Edition 延期到 9 月 21 日发布，给开源社区时间去解决这一争议。Java 9 原计划在 7 月 27 日发布。甲骨文 Java 平台软件开发副总裁 Georges Saab 称，专家组已经达成一致去解决模块化担忧，但他们不可能在 7 月 27 日前及时修改 Java 9。
+➜Google 给网站半年时间准备 Chrome 的广告屏蔽
+https://www.solidot.org/story?sid=52641	17505
+网络广告巨人 Google 准备给其浏览器 Chrome 内置广告屏蔽功能，当一家网站包含一定数量的“不可接受广告”，Chrome 将屏蔽该网站的所有广告。而所谓的不可接受广告包括了弹出式广告、自动播放的视频、推迟内容展示的倒计时广告。Google 已经与内容出版商讨论了它的计划，<a href="https://arstechnica.com/tech-policy/2017/06/google-prepares-publishers-for-the-release-of-chrome-ad-blocking/" target="_blank"><u>给予他们至少半年时间为广告屏蔽做好准备</u></a>。Chrome 计划在明年初加入广告屏蔽功能。Google 负责广告业务的高级副总裁 Sridhar Ramaswamy<a href="https://blog.google/topics/journalism-news/building-better-web-everyone/" target="_blank"><u> 表示</u></a>，不可接受的广告类型所带来的令人沮丧的体验会导致客户屏蔽所有广告——让依靠广告收入资助创作的内容创作者、记者、Web 开发者和视频制作者付出巨大的代价。
+➜对抗空气污染，中国仍然有很长的路要走
+https://www.solidot.org/story?sid=52642	20085
+路透社<a href="http://www.dw.com/zh/%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%87%B4%E7%99%8C%E7%9A%84%E7%A9%BA%E6%B0%94%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8F%8D%E6%B1%A1%E6%9F%93%E5%8A%AA%E5%8A%9B/a-39029321?&amp;zhongwen=simp" target="_blank"><u>报道了河北邯郸馆陶工业园区附近的严重污染</u></a>。当地居民说，厂区仍然在污染环境，但环保部门却听之任之。鉴于近四十年无节制的发展给环境造成了严重的破坏，四年来，中国一直在开展一场"反污染战争"，政府承诺，对于屡教不改的环境污染企业以及保护它们的地方政府，政府将采取严厉的惩戒措施。河北省三面环绕北京，也是北京市空气污染三分之一的源头。也正因为如此，河北省的污染问题引起了更多的关注。官方统计显示，今年头四个月邯郸是污染最为严重的中国城市。路透社记者在凌晨时分去实地考察馆陶工业园区时发现，这里的生产活动似乎比白天要活跃得多。白天停产的厂区内烟囱浓烟滚滚，空气里四处散发著刺鼻的化工产品味道。
+➜法官应不应该使用闭源算法判刑
+https://www.solidot.org/story?sid=52643	27535
+美国的部分法官开始使用算法评估罪犯再次犯罪的可能性，量刑时的一个<a href="http://www.solidot.org/story?sid=49001" target="_blank"><u>依据</u></a>是算法计算出的风险评估得分。这些算法似乎是科学的，将计算理性注入到充斥着歧视和无效率的刑事审判系统中。但马里兰大学的法学教授 Frank Pasquale <a href="https://www.technologyreview.com/s/608011/secret-algorithms-threaten-the-rule-of-law/" target="_blank"><u>指出了几个问题</u></a>：算法是闭源的，是秘密计算的，否定了被告的正当程序和可理解性，在社会的惩罚作用中引入了晦涩和非人的视角。当算法计算风险分数的过程是保密的，那么两大重要的法律原则面临挑战：正当程序和对不利裁决有意义申诉的能力。人类负责的政府可以被要求用自然语言解释自己的决定，但计算机算法不能。如果算法是闭源的，它的评估将无需问责。
+➜丰田的飞车原型测试不顺利
+https://www.solidot.org/story?sid=52644	29249
+<div align="center"><a href="https://tctechcrunch2011.files.wordpress.com/2017/06/flying-car-test-compressor.gif"><img src="http://img.solidot.org/0/346/li73DeYBnEIs.gif" align=""></a><br>
+</div>
+<br>
+丰田正在研发飞行汽车，目标是在 2020 年东京奥运会上利用飞车传递奥运火炬。它与科技公司 Cartivator Resource Management 合作研发飞车，向该公司投资了大约 40 万美元。但飞车原型在丰田总部附近一个学校操场进行试飞时，起飞不久<a href="https://techcrunch.com/2017/06/04/toyotas-flying-car-project-takes-a-tentative-test-flight/" target="_blank"><u>就坠落到了地面</u></a>。这个原型相当粗旷，由一系列支架、电池和旋翼构成。它的设计还需要进一步改善。
+➜腾讯在硅谷大举投资
+https://www.solidot.org/story?sid=52645	29787
+《华尔街日报》<a href="http://cn.wsj.com/gb/20170605/tec132308.asp" target="_blank"><u>报道</u></a>，在寻求扩大全球影响力的过程中，腾讯悄然成为中国公司在硅谷的顶级投资者，向各类项目投入大笔资金，从电动汽车到太空旅游和小行星采矿等天马行空的项目，五花八门。接近腾讯的人士表示，腾讯的投资项目反映出，即使是硅谷最天马行空的创意和产品，腾讯也希望与之保持同步，同时也反映出，该公司害怕错过未来趋势。自 2011 年，腾讯已在美国投资了 41 家科技初创企业，参与多轮融资，规模达到 35 亿美元，腾讯成为该行业中仅次于韩国三星的第二大外国投资者。当然，许多投资项目的表现并不令人满意。
+➜在 Steam 上发行游戏只需要 100 美元
+https://www.solidot.org/story?sid=52646	31860
+Valve 今年二月<a href="http://steamcommunity.com/greenlight/discussions/18446744073709551615/133256758580075301/" target="_blank"><u>宣布</u></a>计划终止饱受批评的 Steam Greenlight 社区投票发行策略，改为 Steam Direct。Steam Greenlight 被认为在部分开发者的操纵下引入了大量低质量的游戏，Steam Direct 试图改变这一现状。Valve 在最新<a href="http://steamcommunity.com/games/593110/announcements/detail/1265921510652460726" target="_blank"><u>官方博客</u></a>中公布了 Steam Direct 的游戏发行费用——每款游戏仅需支付 100 美元的可补偿发布费用。所谓的可补偿是指在游戏销售额突破 1000 美元后将<a href="https://arstechnica.com/gaming/2017/06/want-to-get-a-game-on-steam-100-is-all-you-need/" target="_blank"><u>退还</u></a>这 100 美元，当然 Valve 仍然会提取 30% 的销售提成。Valve 称，“我们想要尽可能地降低费用，以确保它不会成为初级游戏开发者的壁垒，但同时也不能低到使不法分子能够轻而易举地滥用我们的系统。”它一度考虑将每款游戏的发布费用设定在 500 美元，但在与社区讨论之后，选择了 100 美元，“以把对开发者的壁垒降到最低”。
+➜COBOL 语言的共同设计师 Jean Sammet 去世，终年 89  岁
+https://www.solidot.org/story?sid=52647	33857
+在计算机科学的早期，男性不像今天在这个领域占据绝对支配地位，许多程序员都是女性，许多语言的设计者中也有女性。《纽约时报》发表了 COBOL 编程语言的共同设计师 Jean Sammet 的<a href="https://www.nytimes.com/2017/06/04/technology/obituary-jean-sammet-software-designer-cobol.html?_r=0" target="_blank"><u>讣告</u></a>。<i>Jean E. Sammet 于 5 月 20 日在马里兰去世，享年 89 岁。她参与合作设计的  COBOL 语言至今已有 50 多年历史，今天仍然有数十亿行 COBOL 代码运行在企业和政府机构的大型机上。1949 年她在伊利诺伊大学香槟分校学习数学时首次接触到计算机，当时她对计算机并没有留下深刻影响，但在计算机上进行编程后她开始喜欢上了它。她在 IBM 工作了将近三十年，成为那个时代计算机科学领域最杰出的女性之一，1974 年成为美国计算机协会的第一位女性主席，她最持久的遗产就是在 COBOL 编程语言上的工作。</i>
+➜矿工青睐 AMD GPU
+https://www.solidot.org/story?sid=52648	36327
+虽然 AMD 显卡的市场份额没有竞争对手 NVIDIA 高，但它是少数能升值的显卡，你在半年前买的 AMD 显卡有可能以更高的价格在今天闪电售出，因为矿工<a href="http://wccftech.com/amd-gpu-supply-exhausted-by-cryptocurrency/" target="_blank"><u>对它的需求非常高</u></a>，AMD 显卡在市场是供不应求的。在 ASIC 专用矿机的冲击下，用显卡挖掘比特币和莱特币早已不合算，但其他设计不依赖 ASIC 的数字货币使用AMD GPU 挖矿的效率最高，其中以热门替代货币 Etherium 最为突出。Etherium 币过去几个月升值了三倍以上。RX 500 在世界各地的零售市场多已脱销。
+➜IBM 透露世界首个 5 纳米硅芯片
+https://www.solidot.org/story?sid=52649	43144
+与三星和 GlobalFoundries 合作的 IBM 公司<a href="https://arstechnica.co.uk/gadgets/2017/06/ibm-5nm-chip/" target="_blank"><u>透露了世界首个 5 纳米硅芯片</u></a>。它是首批使用水平环绕式闸极晶体管（GAAFETs）和极紫外光刻技术的芯片。现有的芯片制造技术 FinFETs 随着晶体管越来越小已经逼近其极限，GAAFETs 被认为能接替 FinFETs， 它用水平鳍替代了 FinFETs 的垂直鳍。IBM 5纳米 GAAFETs 计算的一大优势是光刻复杂性显著下降，因为光刻的复杂性，硅芯片自 28 纳米工艺起其制造就变得越来越昂贵。IBM 研究院的硅设备负责人 Huiming Bu 称，5 纳米芯片首次使用了极紫外光刻技术，其波长比现有的浸没式光刻更窄。IBM 称，5 纳米芯片在相同功率下性能提升 40%，它声称能在 50 平方毫米的芯片挤压进最高 300 亿个晶体管
+➜通讯软件公司是否应该承担袭击责任？
+https://www.solidot.org/story?sid=52650	44149
+伦敦再次发生了袭击事件，英国领导人的第一反应却是监管互联网，而这位担任过内政大臣的首相此前还<a href="http://www.dailymail.co.uk/news/article-4571320/Jeremy-Corbyn-accuses-Theresa-ignoring-warnings.html" target="_blank"><u>削减了</u></a> 2 万名警察。特里莎·梅<a href="http://www.bbc.com/zhongwen/simp/world-40157199" target="_blank"><u>表示</u></a>，网络平台为恐怖主义意识型态提供一个“安全空间”，因此一些网络空间需要被关闭。非政府组织公共权利表示，社交媒体公司不是问题来源。研究极端化的专家也批评特里莎·梅的想法“没有仔细思考而只是想找个简单的解决方案”。Twitter、Facebook、Google 均表示他们努力与极端份子对抗。公共权利警告政府，更多的限制可能将恐怖份子“恶性利用网络”的行为往“更黑暗的网络角落”推进。“网络和像Facebook等等的公司并不是暴力和仇恨发生的原因，而只是个能被滥用的工具。”公共权利说：“政府和公司应该对滥用误用更敏感，想出方法来制止。但控制网络这个想法并不如特里莎·梅声称的这么简单。
+➜日本连续十年人口自然减少
+https://www.solidot.org/story?sid=52651	44586
+日经<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/25418-2017-06-05-09-06-20.html" target="_blank"><u>报道</u></a>，日本厚生劳动省 6 月 2 日发布的人口动态统计数据显示，2016 年出生的婴儿为 97 万 6979 人，这是日本自 1899 年实施统计以来首次跌破 100 万人。日本的育龄女性人口减少，少子化现象加剧，少子化导致的人手不足阻碍了经济增长。靠现役劳动者支撑的养老金和护理方面的社会保障制度也难以应对。2016 年日本女性一生中生育孩子的平均数（合计特殊出生率）为 1.44，比上一年减少 0.01 个百分点。厚劳省认为 “因为育龄女性人数减少，新生婴儿数量也随之减少”。随着老龄化现象加剧，日本每年的死亡人数突破 130 万。2016 年比上年增长 1 万 7321 人，达到 130 万 7765 人。死亡数超过出生数 33 万 786 人。连续 10 年人口自然减少。
+➜旧金山考虑封杀快递机器人，因为马路服务于人类
+https://www.solidot.org/story?sid=52652	48306
+旧金山市参议员<a href="http://voterguide.sfelections.org/zh-hant/%E4%BD%99%E9%BC%8E%E6%98%82-%EF%BC%88norman-yee%EF%BC%89" target="_blank">余鼎昂</a>最近提议<a href="https://www.theguardian.com/sustainable-business/2017/may/31/delivery-robots-drones-san-francisco-public-safety-job-loss-fears-marble" target="_blank"><u>封杀自主快递机器人</u></a>。他给出的理由是马路和人行道是为人类而不是机器人建造的。他担心快递机器人可能会替代人类的快递员，导致太多的快递工作消失。提议中的禁令影响到了一家快递机器人创业公司 Marble，该公司使用装备摄像头和超声传感器的机器人在数英里范围内快递小型包裹和食物。快递机器人以步速行走，使用摄像头和传感器避开行人。旧金山警长 Robert O'Sullivan 支持这项立法，担心机器人可能会伤害儿童、老人和残疾人，如果被车撞上，机器人也可能会变成致命的抛射体。Marble CEO Matt Delaney 回应称，这些担忧是没有根据的。

@@ -1,0 +1,15 @@
+➜武汉华南海鲜市场可能不是病毒发源地
+https://www.solidot.org/story?sid=63356	23972
+武汉华南海鲜市场被认为是新冠状病毒的发源地，但发表在《柳叶刀》期刊上的一项研究<a href="https://www.sciencemag.org/news/2020/01/wuhan-seafood-market-may-not-be-source-novel-virus-spreading-globally"><u>挑战了这一说法</u></a>。中国研究人员在<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext"><u>论文</u></a>中描述了第一批 41 个确诊病例，最早的病例是在 12 月 1 日报告的，感染者没有接触海鲜市场，总共有 13 个病例与海鲜市场无接触史。Georgetown 大学的传染病专家 Daniel Lucey 说，如果这些数据是正确的，那么最早的感染肯定发生在 11 月——如果不是更早的话。病毒可能源自其它地方，然后传播到海鲜市场后集中爆发。分析了 27 个 2019-nCoV 病毒基因组序列试图寻找其源头的演化生物学家 Kristian Anderson 称，病毒最近的共同祖先最早可能在 10 月 1 日出现。柳叶刀论文合作者 Bin Cao 承认华南海鲜市场可能不是病毒的唯一源头，但到目前为止他们不知道病毒源自何处。
+➜ProtonVPN 公开源代码
+https://www.solidot.org/story?sid=63357	31247
+ProtonMail 上周公开了旗下的 VPN 客户端 ProtonVPN 的源代码，包括了 <a href="https://github.com/ProtonVPN/win-app"><u>Windows</u></a>、<a href="https://github.com/ProtonVPN/mac-app" target="_blank"><u>macOS</u></a>、<a href="https://github.com/ProtonVPN/android-app"><u>Android</u></a> 和 <a href="https://github.com/ProtonVPN/ios-app"><u>iOS</u></a> 版本。ProtonMail 称，VPN 服务缺乏透明度和问责，是否有安全认证，是否遵守了隐私保护法律如  GDPR，公开所有应用程序的源代码是理所当然的下一步。ProtonVPN 的程序已经进过了&nbsp; SEC Consult 的安全审计，Windows 版本的<a href="https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-Windows-app-audit-report-2020.pdf"><u>审计报告</u></a>发现了两个低风险的漏洞；<a href="https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-Android-app-audit-report-2020.pdf"><u>Android 版本</u></a>发现了 4 个低风险漏洞，其中之一是不安全的登出；<a href="https://protonvpn.com/blog/wp-content/uploads/2020/01/ProtonVPN-iOS-app-audit-report-2020.pdf"><u>iOS 版本</u></a>发现了 2 个中等风险的漏洞和 2 个低风险漏洞，最严重的漏洞是硬编码凭证和内存中包含有敏感数据。
+➜大脑严重受损的老鼠被发现能正常生活
+https://www.solidot.org/story?sid=63358	43120
+一位科学家在扫描一只年长鼠的大脑时发现，这只行动正常的老鼠有着严重受损的大脑。这只被称为 R222 的老鼠有脑积水的症状，脑积水部位的大脑功能被重新定向到没被液体占据的部分。这种能力被称为神经可塑性，是一种广泛记录的现象，但极其罕见。以 R222 为例，它的视觉输出处理、嗅觉和触觉都被分散到了大脑的其它部分。乍一看，R222 就像是没有大脑，但它行动如常，科学家称它是“<a href="https://www.technologynetworks.com/neuroscience/news/this-rat-had-no-brain-and-it-somehow-lived-a-normal-life-329774"><u>大自然的奇迹</u></a>”。<a href="https://www.nature.com/articles/s41598-019-53042-3"><u>研究报告</u></a>发表在《Scientific Reports》期刊上。
+➜Safari 准备彻底终止支持 Flash
+https://www.solidot.org/story?sid=63359	45606
+在默认禁用 Flash 十年之后，Safari <a href="https://arstechnica.com/gadgets/2020/01/apple-seems-poised-to-end-adobe-flash-support-in-the-next-safari-release/" target="_blank"><u>准备彻底终止支持 Flash</u></a>。最近释出的测试版 Safari Technology Preview 99 已经明确声明将停止支持  Adobe Flash。此前版本的 Safari 早已默认禁用，但用户仍然能手动下载和激活 Flash，但未来这将不再成为可能。Adobe 在 2017 年宣布它将在 2020 年底停止支持 Flash，而 Flash 这一富媒体技术正日益被 HTML5 和 WebGL 等技术所取代。
+➜《火箭联盟》将停止支持 Mac 和 Linux 版本
+https://www.solidot.org/story?sid=63360	46373
+热门体育动作游戏《火箭联盟》开发商 Psyonix <a href="https://support.rocketleague.com/hc/en-us/articles/360042201433"><u>宣布</u></a>将停止支持 Mac 和 Linux 版本，它计划在 3 月初释出最后一个补丁。之后 macOS 和 Linux (SteamOS)版本将不再得到更新或支持，玩家仍然可以下载和安装这些版本，线下功能可以正常工作但线上功能预计会失效。如果玩家想要在 Linux 系统上玩《火箭联盟》，他们可以尝试使用 Steam 的 Proton app 或 Wine——即在模拟 Windows 的环境中运行游戏，这部分玩家也可以选择退款。

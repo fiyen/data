@@ -1,0 +1,15 @@
+➜阿联酋Tor用户在数天内增加30倍
+https://www.solidot.org/story?sid=51171	738
+<div align="center"><img src="http://img.solidot.org/0/95/liKlAfCFpX1HI.png" align=""><br>
+</div>
+<br>
+根据Tor官方的<a href="https://metrics.torproject.org/userstats-relay-country.html?start=2017-1-12&amp;end=2017-01-22&amp;country=ae&amp;events=off" target="_blank"><u>统计</u></a>，阿联酋Tor连接用户数在短短数天内从1万左右增加到了30万以上。这一增长规模难以置信，因此一种可能的解释是阿联酋政府部署了基于DPI的屏蔽技术，导致连接失败率大幅增长，从而产生了统计异常。类似的现象以前也发生过，在土耳其屏蔽VPN和Tor之后，土耳其的Tor用户数也在统计中<a href="https://turkeyblocks.org/2016/12/18/tor-blocked-in-turkey-vpn-ban/" target="_blank"><u>出现了大幅增长</u></a>。Tor中国用户数保持平稳，<a href="https://metrics.torproject.org/userstats-relay-country.html?start=2017-01-12&amp;end=2017-01-22&amp;country=cn&amp;events=off" target="_blank"><u>不到一千</u></a>。
+➜工信部限制VPN服务
+https://www.solidot.org/story?sid=51172	48477
+工信部公布了《<a href="http://www.miit.gov.cn/n1146295/n1652858/n1652930/n3757020/c5471946/content.html" target="_blank"><u>工业和信息化部关于清理规范互联网网络接入服务市场的通知</u></a>》，宣布从即日起至2018年3月31日，“对互联网网络接入服务市场开展清理规范工作”，整顿对象包括了电信公司、IDC、ISP和CDN服务商。工信部在通知中列出了多种违规问题，其中一个所谓的违规问题是：“违规开展跨境业务问题。未经电信主管部门批准，不得自行建立或租用专线（含虚拟专用网络VPN）等其他信道开展跨境经营活动。基础电信企业向用户出租的国际专线，应集中建立用户档案，向用户明确使用用途仅供其内部办公专用，不得用于连接境内外的数据中心或业务平台开展电信业务经营活动。”通知还要求，IDC、ISP和CDN“需建设ICP/IP地址/域名信息备案系统、企业接入资源管理平台、信息安全管理系统，落实IDC机房运行安全和网络信息安全要求，并通过相关评测”。在中国境内，有很多企业提供所谓的游戏加速器服务——其实就是VPN，限制VPN服务的规定如果严格执行的话很可能会对这些服务产生严重影响。
+➜官方报告称2016年生育率提高到1.7
+https://www.solidot.org/story?sid=51173	52965
+中国自2016年起正式结束实施了三十多年的独生子女政策，国家卫生计生委今天举行新闻发布会公布了二孩政策过去一年的实施情况。<a href="http://www.nhfpc.gov.cn/zhuz/xwfb/201701/8745c900089b42218ba9a0b5a10fc25f.shtml" target="_blank"><u>新闻发布会</u></a>称，根据国家统计局发布的1‰抽样调查推算数据，全年出生人口达到1786万人；根据卫生计生统计数据，全年住院分娩活产数为1846万人。出生人口明显增加，二孩及以上占比大幅提升。2016年是2000年以来人口出生最多的一年，生育率提高到1.7以上。而根据国家统计局在未实施二孩政策前<a href="http://www.solidot.org/story?sid=49794" target="_blank"><u>公布的数据</u></a>：2000年之后中国总和生育率降到了1.3以下。虽然达到了1.7，但仍然低于2.1的正常世代更替，短期内对中国的劳动力短缺状况也没有什么帮助。
+➜DuckDuckGo单日搜索突破1400万，总搜索突破100亿
+https://www.solidot.org/story?sid=51174	56449
+匿名搜索引擎DuckDuckGo<a href="https://spreadprivacy.com/10-billion-fc7808c91343#.4jajqh7v3" target="_blank"><u>宣布了两个具有里程碑意义的记录</u></a>：单日搜索量突破1400万次，总匿名搜索量突破100亿次，其中超过40亿次搜索发生在2016年。根据官方的流量<a href="https://duckduckgo.com/traffic.html" target="_blank"><u>统计数据</u></a>，DuckDuckGo是在1月10日首次突破1400万。DuckDuckGo默认启用HTTPS加密搜索，不记录用户的搜索内容，在NSA大规模监视活动曝光后日益受到用户的欢迎，但在2014年遭到封锁。

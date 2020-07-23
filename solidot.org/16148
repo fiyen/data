@@ -1,0 +1,68 @@
+➜Firefox 28发布，加入VP9视频解码
+https://www.solidot.org/story?sid=38774	8459
+Mozilla<a target="_blank" href="https://www.mozilla.org/en-US/firefox/28.0/releasenotes/"><u>发布了</u></a>桌面版和移动版的Firefox 28。主要新特性包括：支持VP9视频解码；Mac OS X版支持Web通知；支持HTML5视频音频的音量控制；开源多媒体编解码格式WebM支持Opus音频编解码器；支持spdy/3规格，移除旧版的spdy/2；后台线程挂起报告；支持多线flexbox布局模式；修复了Pwn2Own黑客挑战赛上发现的4个<a target="_blank" href="https://www.mozilla.org/security/known-vulnerabilities/firefox.html"><u>严重安全漏洞</u></a>（WebIDL API实现的权限提升；TypeObject的释放后使用内存漏洞...），等等。Firefox用户最好尽快升级。
+➜Google宣布Android Wear，摩托罗拉和LG发布智能手表
+https://www.solidot.org/story?sid=38775	11166
+<div align="center"><img src="http://img.solidot.com.cn/0/100/liTT9VEsP3dBo.jpg" align="" height="183" width="420">&nbsp;&nbsp;&nbsp; <img src="http://img.solidot.com.cn/0/101/liPZtxQ13O6Ho.jpg" height="183" width="152"><br>
+<br>
+</div>
+Google<a target="_blank" href="http://googleblog.blogspot.com/2014/03/sharing-whats-up-our-sleeve-android.html"><u>宣布了</u></a>针对可穿戴设备的操作系统Android Wear，而Google旗下的摩托罗拉和韩国LG同时宣布了搭载Android Wear的智能手表<a target="_blank" href="http://moto360.motorola.com/"><u>Moto 360</u></a>和<a href="http://www.prnewswire.com/news-releases/lg-g-watch-powered-by-android-wear-being-developed-in-close-collaboration-with-google-250806981.html"><u>G Watch</u></a>。Android Wear提供了一个接口可以让智能手表控制其它设备，支持Google Now语音命令。Google已经放出了开发者预览版<a target="_blank" href="http://developer.android.com/wear/index.html"><u>下载</u></a>。智能手表Moto 360和LG G Watch都将在未来几个月发布，但价格尚未披露，应该不会比三星的300美元<span style="text-decoration:none;">智能手表Galaxy Gear贵，后者还包含了摄像头和扬声器，而前者没有。</span>G Watch是方形，而Moto 360是圆形，摩托罗拉的手表给人的视觉冲击感更强烈。Android Wear SDK提供了两种模拟器分辨率选择，其中方形是<span style="text-decoration:none;">280 x 280，而圆形是</span><span style="text-decoration:none;">320 x 320。</span>
+➜NSA拦截某个国家全部电话记录
+https://www.solidot.org/story?sid=38776	12933
+《华盛顿邮报》援引一位匿名消息人士和前NSA合同工Edward Snowden泄漏的机密文件<a target="_blank" href="http://www.washingtonpost.com/world/national-security/nsa-surveillance-program-reaches-into-the-past-to-retrieve-replay-phone-calls/2014/03/18/226d2646-ade9-11e3-a49e-76adc9210f19_story.html"><u>报导</u></a>，NSA建立了一个监听系统，能百分之百记录某个国家全部的电话记录，电话记录将保存30天，供NSA进行分析。这套电话语音拦截系统代号MYSTIC，于2009年启用。因为美国政府的要求，《华盛顿邮报》没有披露目标国家是哪个国家。 一份有关该监听系统的保密材料说，该系统记录了被监听的国家全国的“每一次谈话”，储存了30天期间发生的几十亿次谈话。30天的巨大存量不断更新，新的录音替代最旧的录音。白宫发言人在周二举行的例行记者会上被询问该监听系统时回避了这个问题，<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/03/140318_usa_spying_foreign_country.shtml"><u>称一般不对个别指称和报道作评论</u></a>。
+➜如何正确使用加盐密码哈希
+https://www.solidot.org/story?sid=38777	13373
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "如果你是Web开发者，你很可能需要开发一个用户账户系统。这个系统最重要的方面，就是怎样保护用户的密码。存放帐号的数据库经常成为入侵的目标，所以你必须做点什么来保护密码，以防网站被攻破时发生危险。最好的办法就是对密码进行加盐哈希，Defuse Security &nbsp;写了一篇<a href="https://crackstation.net/hashing-security.htm" target="_blank">文章</a>（<a href="http://blog.jobbole.com/61872/" target="_blank">中文</a>），介绍如何正确使用加盐哈希。文中还给出了 PHP、Java、C#、Ruby 等版本的哈希函数源代码。"</i>
+➜Mozilla和Unity合作将Unity引擎带到Web
+https://www.solidot.org/story?sid=38778	16227
+<center>
+<iframe src="https://www.youtube.com/embed/cWIRUaR9G4w?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center><br>
+Mozilla和Unity<a target="_blank" href="https://blog.mozilla.org/blog/2014/03/18/mozilla-and-unity-deliver-award-winning-game-engine-to-the-web/"><u>宣布</u></a>Unity 5将包含一个支持WebGL和asm.js的早期预览版本，利用Unity 5引擎开发的游戏可以不需要插件直接在浏览器上运行。<a target="_blank" href="http://unity3d.com/5"><u>Unity 5</u></a>将在今年晚些时候发布，该系列引擎在独立开发者中间颇受欢迎，支持开发主机、PC和移动游戏。Unity游戏此前也可以在Web上运行，但需要安装插件Unity Web Player，Unity 5的WebGL预览版将不再需要插件。Unity和Mozilla在Firefox上演示了 射击游戏《Dead Trigger 2》的预览版，其运行速度与原生相差不大。
+➜亚马逊流言中的机顶盒将支持云游戏
+https://www.solidot.org/story?sid=38779	18031
+<a target="_blank" href="http://cn.wsj.com/gb/20140318/tec112700.asp"><u>知情人士说</u></a>，亚马逊将于4月初通过其官网以及百思买等零售商开始发售其备受期待的流视频设备，该设备也将运行基于Android的系统。亚马逊进入竞争激烈的机顶盒市场，目前市场上的同类产品包括Roku、苹果的Apple TV和Chromecast。TechCrunch随后引用消息来源<a target="_blank" href="http://techcrunch.com/2014/03/17/amazon-set-top-box-game-streaming/"><u>报导</u></a>，亚马逊流言中的盒子还将支持云游戏，PC玩家可以以月费的形式玩亚马逊提供的游戏库。游戏帧率据称将能达到每秒30fps，这项服务类似困境中挣扎的OnLive，亚马逊的优势是它有现成的云服务基础设施。
+➜央行监管互联网金融或是因为动了银联的奶酪
+https://www.solidot.org/story?sid=38780	24940
+中国央行向国有商业银行<a target="_blank" href="http://finance.caixin.com/2014-03-17/100652179.html"><u>下发了</u></a>《支付机构网络支付业务管理办法》和《手机支付业务发展指导意见》两份草案的征求意见文件，再加上突然叫停支付宝财付通的第三方支付公司线下二维码交易、虚拟信用卡<span class="focusParagraph">业务</span>，央行究竟是为了安全而加强互联网金融，还是维护<span class="focusParagraph">既得利益者的奶酪？</span><span class="focusParagraph">中金公司银行和金融服务团队认为，主因是</span><span class="focusParagraph"><a target="_blank" href="http://cn.reuters.com/article/specialEvents21/idCNCNEA2G08T20140317?sp=true"><u>动了银联的奶酪</u></a>。</span><span class="focusParagraph">在传统的线下收单业务模式中，发卡行、收单行（主要是银行、银联商务和第三方支付企业）、银联按照7:2:1的方式分成；而在线上收单模式中，刷卡手续费仅有发卡行和收单行，银联完全被架空。而二维码等支付方式本质上是用线上方式来做线下收单业务，银联的利益受到极大损害，”</span><span class="focusParagraph">这就侵犯到银联的利益。这回的叫停恐怕并不是个案，很可能积蓄已久。此前微信支付、微POS、嘀嘀打车等，都损害到银联在通道方面的收入份额。”<a target="_blank" href="http://en.wikipedia.org/wiki/China_UnionPay"><u>银联</u></a>是中国唯一的垄断性银行卡组织。</span>
+➜罕见钻石揭示地球内部的巨大蓄水库
+https://www.solidot.org/story?sid=38781	27140
+<div align="center"><img src="http://img.solidot.com.cn/0/102/liZXUUom2OVY.jpg" align="" height="281" width="420"><br>
+</div>
+<br>
+瑕疵可能会降低钻石在珠宝商眼中的价值，但却有可能成为地质学家眼中的无价之宝。在地表下400公里的地幔中存在一种叫橄榄石的矿物质，它本来不吸水，但在巨大的热量和极端的压力下，橄榄石呈现出不同的化学机构——其中一种被称为尖晶橄榄石，实验室人工合成显示它最多能<a target="_blank" href="http://news.sciencemag.org/chemistry/2014/03/scienceshot-diamond-suggests-presence-water-deep-within-earth"><u>含有2.5%的水</u></a>。自然存在的尖晶橄榄石以前从未找到。现在科学家从一颗质地不纯的钻石里发现了包裹在其中的尖晶橄榄石，证实地幔的过渡层富含水。但是，地幔里的水人类可以<a target="_blank" href="http://www.dw.de/%E7%BD%95%E8%A7%81%E9%92%BB%E7%9F%B3%E6%8F%AD%E7%A4%BA%E5%9C%B0%E7%90%83%E5%86%85%E9%83%A8%E6%9C%89%E5%B7%A8%E5%A4%A7%E8%93%84%E6%B0%B4%E5%BA%93/a-17504117"><u>加以利用吗</u></a>？很遗憾，不能，人类依靠现代化技术最深只能钻到地下约10公里。地幔里的水储藏从经济上讲没有意义，至少目前没有意义。但长期而言，人类可以从中受益，因为地球内部的水和地表的海洋息息相通。
+➜分析认为中国去年进行了反卫星武器测试
+https://www.solidot.org/story?sid=38782	28593
+2013年5月13日，中国在西昌卫星发射中心发射了一枚火箭。中国官方<a target="_blank" href="http://www.chinanews.com/gn/2013/05-14/4817925.shtml"><u>声称</u></a>是一次高空科学探测试验，称探空火箭在1万公里高度附近释放了金属钡粉，在空间形成钡云，地面光学望远镜对钡云演化过程进行了跟踪观测。但非正式的美国政府消息来源称，中国实际上进行的是一次反卫星武器测试。前美国空军分析师Brian Weeden本周一发表了<a target="_blank" href="http://www.thespacereview.com/article/2473/1."><u>一份47页的报告</u></a>，认为中国是在测试用新型火箭发射动能拦截器，其飞行高度能达到36000公里的地球静止轨道。Weeden说，如果是真的，那么这代表着中国的反卫星能力<a target="_blank" href="http://www.reuters.com/article/2014/03/17/us-china-space-report-idUSBREA2G1Q320140317"><u>取得了重大进展</u></a>。
+➜超过1万台Linux服务器感染了恶意程序
+https://www.solidot.org/story?sid=38783	32283
+杀毒软件公司Eset的研究人员<a target="_blank" href="http://arstechnica.com/security/2014/03/10000-linux-servers-hit-by-malware-serving-tsunami-of-spam-and-exploits/"><u>披露了</u></a>一个正在进行中的恶意程序攻击，被取名为 <a target="_blank" href="http://www.welivesecurity.com/wp-content/uploads/2014/03/operation_windigo.pdf"><u>Operation Windigo</u></a>（PDF）的恶意攻击感染了超过1万台Linux和Unix服务器，这些服务器被用于发送大量垃圾信息，重定向用户到恶意网页。Windigo的活跃至少始于2011年，入侵的系统包括了属于Linux基金会的kernel.org和cPanel Web的服务器。在三年时间内， Windigo感染了超过2.5万台服务器，每天发送3500万垃圾信息，对Windows的访问者发动偷渡下载攻击，向用户展示色情服务横幅广告。其中值得一提的是对kernel.org的攻击，至今Linux基金会还没有提供关于此次攻击的完整报告。Eset的报告称，kernel.org服务器感染的可能是OpenSSH后门恶意程序Linux/Ebury，Ebury能在被感染的服务器上提供root访问权限，能用于窃取SSH凭证。除了Linux/Ebury外，Windigo的其它恶意组件包括Linux/Cdorked，用于重定向访问者到恶意网页的 HTTP后门；Perl/Calfbot，一个Perl脚本，可让被感染的机器发送垃圾信息。Windigo不是靠漏洞控制服务器，而是使用偷来的登录凭证。研究人员建议服务器登录应该启用二步验证。
+➜2013年图灵奖授予了微软计算机科学家Leslie Lamport
+https://www.solidot.org/story?sid=38784	34560
+<div align="center"><img src="http://img.solidot.com.cn/0/103/lij3nkCQcQB2.jpg" align=""></div>
+<br>
+美国计算机学会（ACM）<a target="_blank" href="http://amturing.acm.org/award_winners/lamport_1205376.cfm"><u>宣布了</u></a>2013年度的图灵奖得主：微软研究院的首席研究员<a target="_blank" href="http://en.wikipedia.org/wiki/Leslie_Lamport"><u>Leslie Lamport</u></a>。ACM的新闻稿说，Leslie Lamport在分布式和并发系统的理论实践上作出了重要贡献，提出了因果律、逻辑时钟、状态机复制和顺序一致性等概念。Lamport在MIT获得学士学位，在Brandeis大学获得数学硕士和博士学位，先后在麻省计算机协会、斯坦福国际研究所、DEC和康柏工作过，2001年加入微软加州山景城研究院。他是著名的排版系统LaTeX的作者，拜占庭错误冗余和Paxos算法的提出者，2000年获得了Dijkstra 奖，2012年获得冯诺依曼奖。
+➜泰坦星上发现“波纹”
+https://www.solidot.org/story?sid=38785	35595
+<div align="center"><img src="http://img.solidot.com.cn/0/104/li91S3QHhXOBE.jpg" align="" height="360" width="240"><br>
+<br>
+</div>
+行星科学家<a target="_blank" href="http://www.nature.com/news/first-hints-of-waves-on-titan-s-seas-1.14889"><u>相信</u></a>他们在土星最大卫星泰坦上发现了<a target="_blank" href="http://www.hou.usra.edu/meetings/lpsc2014/pdf/1947.pdf"><u>波浪涟漪</u></a>（PDF）。如果得到确认，这将是首次在地球之外<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201403/t20140319_4060208.shtml"><u>发现海浪</u></a>。泰坦的海洋里没有水，而是碳氢化合物如甲烷乙烷。NASA卡西尼号探测器在泰坦的蓬加海表面，发现了几处不同寻常的太阳反光。爱达荷大学行星学家Jason Barnes表示，这些反光可能来自于正在“扰乱”平静海洋的不超过2公分高的小波纹。研究人员希望在接下来的几年中会出现更多的波浪，因为随着泰坦从冬季进入春季，预计将有更多的风出现在这颗卫星的北半球——其大部分海洋恰好位于这里。 翰斯·霍普金斯大学应用物理实验室行星学家Ralph Lorenz说，“海洋学将不再仅仅是一门地球科学。”
+➜学生将Google Glass变成间谍相机
+https://www.solidot.org/story?sid=38786	38541
+Google Glass的服务条款不允许应用在显示屏关闭的情况下拍照，但这项政策要执行起来是很难的。两名加州州立理工大学的学生为Google Glass<a target="_blank" href="http://arstechnica.com/security/2014/03/google-glass-spyware-app-is-cute-but-not-the-end-of-the-world/"><u>开发了一款实验性质的间谍应用</u></a>，并成功递交到了Google Play应用商店。这款应用可以将Google Glass变成一个秘密的间谍相机，能每隔10秒拍摄一张照片，并上传到互联网上，而配戴者看不到任何可见的指示。Google目前已将该应用从商店中下架，表示Google Glass仍然处于实验阶段，还不是大众产品，此类的攻击不算什么。
+➜中国加快开发钍核电站
+https://www.solidot.org/story?sid=38787	39608
+煤炭供应了中国大部分的电力需求，但燃烧煤污染严重，是空气污染的重要来源。为了减少使用燃煤火电站，中国政府下令<a target="_blank" href="http://www.nanzao.com/sc/china/23521/jian-shao-wu-mai-zhong-guo-jia-kuai-tu-he-dian-zhan-kai-fa-jin-cheng"><u>加快设计新核电站</u></a>。研究人员表示，中央原本要求上海一组科学家利用25年时间，开发全球首个以放射性元素钍取代铀的核电站。不过如今开发时间已减至仅十年。参与这一项目的科学家黎忠教授表示，政府过去对核能感兴趣是由于能源短缺，如今则是因为雾霾。中科院今年一月在上海成立了一个研究中心，旨在开发全球首个采用钍基熔盐技术的工业反应堆。理论上，其所释放的热量比现时的反应堆大许多倍，产生的放射性废物更少。黎教授是该项目熔盐化学及工厂技术部主任。他表示，雾霾带来的危机令他们的研究动力大增。他表示，燃煤产生的问题显而易见。如果人均能源消耗翻一番，中国将被污染的空气窒息而死。核能是唯一可以大规模代替燃煤的发电方式，钍的应用带来很大希望。参与该项目的研究人员表示，他们处于史无前例的压力之下，犹如面对一场战争。
+➜少林方丈访问Google山景城总部
+https://www.solidot.org/story?sid=38788	40209
+少林寺方丈释永信率领少林文化代表团<a target="_blank" href="http://tech.sina.com.cn/i/2014-03-19/13409254343.shtml"><u>访问了</u></a>谷歌加州山景城总部，并发表了大约半小时的演说。他的演说主要以介绍少林文化为主。据一位在场的谷歌工程师介绍，穿着传统黄袈裟的释永信在演讲中对谷歌大加赞赏，称赞谷歌的诸多科技成果，为人类进步做出了巨大贡献。他还提到，谷歌对互联网信息自由带来的贡献，是与佛法中众生平等的观念具有相同的理念。释永信是用中文发表演说的，他的演说要义是借助一位临时女翻译传达给谷歌工程师。
+➜在量子认知论中，记忆由回忆构建
+https://www.solidot.org/story?sid=38789	42566
+思想和记忆是怎样从大脑中产生？这是现代科学中最复杂的问题之一。传统的认知观点认为，我们至今所有的每个思想，或“认知变量”，是一个具体而明确的值，但这一观点遭到很多人质疑。根据发表在《皇家协会会刊B》上的<a target="_blank" href="http://rspb.royalsocietypublishing.org/content/281/1781/20133056"><u>一篇论文</u></a>，伦敦城市大学心理学家提出了<a target="_blank" href="http://phys.org/news/2014-03-quantum-theory-cognition-memories.html"><u>认知的量子概率论</u></a>，即在每个时刻，我们的思想、决策、感受、记忆及其他认知变量是不确定的，只是一个概率。按照这一理论，在某个时刻回忆一段记忆，与过去那一幕记忆怎样形成，或将来我们怎样理解那段记忆是互相纠缠的，一次检测中有很多因素可能改变被检测事物的结果。即从本质上说，记忆本身是<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201403/t20140319_4060272.shtml"><u>由回忆所构建的</u></a>。研究员James M. Yearsley解释说，“比如你正坐在桌边工作，一个同事说他们要出去购物，你想要点什么？此刻你还能愉快地继续工作么？恐怕你很难遏制冲出去的渴望。这种渴望在同事问你之前是没有的，它就是由测量过程产生的。从量子角度解释认知，认知变量的表现方式是，在你去测量之前它们没有唯一确定的值。”记忆的量子观点与量子力学中的不确定性有关，不确定性对我们能获得多少有关这个世界的知识作出了基本限制。当我们去测量某些未知物理量时，比如粒子的位置和运动，对其中一个测得越精确，对另一个就越模糊。量子认知过程也是同样道理：认知系统中随时改变的思维，很像物理中的位置和运动。
+➜物理学家、将军和CEO们都认为应抛弃PowerPoint
+https://www.solidot.org/story?sid=38790	45907
+几天前有<a target="_blank" href="http://www.solidot.org/story?sid=38637"><u>报道</u></a>说，费米实验室大强子对撞机双周论坛禁止使用PowerPoint幻灯片，会议联合组织者Andrew Askew说，幻灯片约束了会议的讨论，移除幻灯片就像是移除了演讲者和听众之间的一大障碍，交流是双向的，没有了幻灯片的约束，观众开始积极参与讨论。类似的故事我们听说过很多次，许多人<a target="_blank" href="http://www.npr.org/blogs/alltechconsidered/2014/03/16/288796805/physicists-generals-and-ceos-agree-ditch-the-powerpoint"><u>对此都有同感</u></a>，其中包括了美国的将军和公司的高管：海军陆战队联合打击指挥官James N. Mattis将军曾<a target="_blank" href="http://www.solidot.org/story?sid=17589"><u>指出</u></a>，“PowerPoint让我们变蠢”；亚马逊和<a target="_blank" href="http://www.linkedin.com/today/post/article/20130701022638-22330283-a-simple-rule-to-eliminate-useless-meetings?trk=tod-posts-art-&amp;_ga=1.122968142.433189786.1394469815"><u>Linkedin</u></a>的CEO都在会议中禁止使用幻灯片做演示。罗格斯大学助理教授John Paul Chou说，使用PowerPoint就像是坐在自动驾驶上，你的注意力很容易涣散。美国中央司令部特别顾问Richard Russell以1999年的科索沃战争<a target="_blank" href="http://books.google.com.hk/books?id=4uYV9eI4-1sC&amp;pg=PA24&amp;lpg=PA24&amp;dq=Sharpening+Strategic+Intelligence:+Why+the+CIA+Gets+It+Wrong&amp;source=bl&amp;ots=3GB7OIrxiO&amp;sig=7FtlRfuX3ohxY1kcPho7cPa-h3o&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=kosovo%20powerpoint&amp;f=false"><u>为例</u></a>，CIA向北约指挥官推荐了一个被认为是塞尔维亚军工厂的轰炸目标，他们展示的幻灯片与军方负责筛选攻击目标的情报部门所用的幻灯片相同，北约指挥官以为军方情报部门已经批准了，因此下令轰炸，结果那个目标是中国驻贝尔格莱德大使馆。
+➜SYNPROXY：廉价的抗DoS攻击方案
+https://www.solidot.org/story?sid=38791	52204
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "DoS攻击是一个永恒的问题，虽然专业厂商的防火墙，负载均衡类的网关设备能比较有效的防御DoS攻击，但黑客们更倾向于x86+GNU/Linux的组合，原因很简单：足够的廉价。在linux内核3.13里终于加入了<a target="_blank" href="http://lwn.net/Articles/563151/">SYNPROXY的新功能</a>，这个模块是一个基于链接跟踪的netfilter扩展，主要干的工作就是把来自客户端的初始SYN包标记成UNTRACKED然后直接导入iptables的"SYNPROXY"的动作(类似ACCEPT,NFQUEUE和DROP)，这时内核会扮演网关设备的角色继续跟客户端进行TCP的常规握手流程，SYNPROXY会等到最终的ACK(三次握手)的cookie被验证合法后才会开始让包真正的进入目标端，开发者Jesper Dangaard Brouer的<a target="_blank" href="http://people.netfilter.org/hawk/presentations/devconf2014/iptables-ddos-mitigation_JesperBrouer.pdf">数据表明SYNPROXY</a>对于对抗SYN FLOOD DOS攻击是非常有效的，笔者今天也在Debian和SLES-12-beta2对SYNPROXY进行了DoS测试，大致结果是在使用hping3和metasploit进行测试，开启SYNPROXY后ksoftirq占用会从8%降低到3%以内，有兴趣的solidoter可以亲自去玩玩。"</i>

@@ -1,0 +1,26 @@
+➜Google关闭多项服务，开源Sky Map
+https://www.solidot.org/story?sid=27988	14400
+为了将精力集中在关键产品和服务上，搜索巨人<a href="http://googleblog.blogspot.com/2012/01/renewing-old-resolutions-for-new-year.html">正在继续关闭和整合服务</a>。<i>
+Google Message Continuity (GMC)，数据管理平台Needlebase，在线照片编辑器Picnik，在线Web分析Urchin、Social Graph API等或关闭或合并。其中Picnik将在4月19日关闭，将与Picasa整合，用户可通过<a href="http://www.picnik.com/go/takeout">Picnik Takeout</a>下载所创造的文件，付费用户可获得全额退款。Google Sky Map将<a href="http://googleresearch.blogspot.com/2012/01/open-sourcing-sky-map-and-collaborating.html">开源</a>。</i>
+➜中国总理建议访问Twitter
+https://www.solidot.org/story?sid=27989	19080
+wmr 写道<i> "<a href="http://pic.twitter.com/9DC2pvXU">中国总理访问了迪拜购物中心</a>，阿联酋总理<a href="http://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Al_Maktoum">محمد بن راشد آل مكتوم</a>知道后在Twitter上 <a href="https://twitter.com/#!/HHShkMohd/status/159316220091441152">写道</a>：我羡慕中国，我更羡慕中国领导人的谦虚。他说，中国和阿拉伯民族一样的都是伟大的民族，中国领导人非常谦逊，这也是阿拉伯民族的品格。阿联酋将把发展同中国的关系作为外交政策的首要任务。温总理<a href="http://news.ifeng.com/mainland/special/wenjiabaofangwenxiya/content-3/detail_2012_01/20/12101334_0.shtml">在多哈举行的记者招待会上说</a>：不信的话你们可以<a href="https://twitter.com/#!/HHShkMohd/status/159316220091441152">上推特去看</a>。"</i>
+Twitter在2009年被屏蔽，但阿联酋能正常访问。
+➜Mozilla提出OpenID的替代BrowserID
+https://www.solidot.org/story?sid=27990	21840
+Mozilla正在开发<a href="http://yro.slashdot.org/story/12/01/21/0516255/mozilla-offers-alternative-to-openid">基于浏览器的身份和认证系统</a>。<i>
+Mozilla希望<a href="https://github.com/mozilla/browserid/wiki/How-to-Use-BrowserID-on-Your-Site">BrowserID</a>能成为OpenID更安全的替代。Mozilla开发者Ben Adida说，许多网站都储存了大量用户数据和行为，尽管浏览器完全在用户的掌控下，但他们使用的服务并不受控制，有时候这些网站处理用户数据的方式是值得怀疑，甚至是有害的。BrowserID旨在增强用户对在线体验和个人数据的控制。</i>
+➜长寿与你的基因有关联
+https://www.solidot.org/story?sid=27991	25500
+2010年，波士顿大学生物统计学家领导的团队在《科学》杂志上发表<a href="http://www.sciencemag.org/content/early/2011/07/20/science.1190532.abstract?searchid=1&amp;hits=10&amp;resourcetype=HWCIT&amp;maxtoshow=&amp;RESULTFORMAT=&amp;FIRSTINDEX=0&amp;fulltext=sebastiani">论文</a> <a href="__SLASHLINK__" sect="science" sid="10/07/02/0928248" sn="article" tid="50">宣称</a>，他们通过分析世界上1000多位百岁以上老人，识别出150个独特的遗传标记，它们都与长寿有关。但在论文被发现错误后他们<a href="__SLASHLINK__" sect="science" sid="11/07/22/0211249" sn="article" tid="67">撤回了论文</a>。现在研究人员修正错误，提出了新的遗传标记，虽然对大多数人的预测精度不高，但发现老年人有越多的遗传标记，就越有可能长寿。<a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0029848">报告</a>发表在PLoS ONE上，长寿预测精度从原先的77%降至60%；但对于最年长的同龄人，长寿预测精度能提高至85%。
+➜三星将透明触摸屏变成玻璃窗
+https://www.solidot.org/story?sid=27992	41280
+如果你想在墙上悬挂一个巨大的交互式显示屏，你需要腾出很大的空间，移除墙上的装饰画。现在三星通过<a href="http://www.geek.com/articles/chips/samsung-reinvents-the-window-using-a-transparent-touchscreen-display-20120116/">创造透明的触控屏</a>(<a href="http://www.youtube.com/watch?v=m5rlTrdF5Cs&amp;feature=player_embedded">YouTube</a>)，取代真正的玻璃窗，解决了这一难题。显示屏在白天采用环境光，可切换到传统的黑色背景模式。在环境光模式下，显示屏还提供了虚拟百叶窗，好像拉上百叶窗让房间变暗。除了窗口功能外，它还是一个功能完整的触摸屏PC，用户可以访问各种应用程序，如Twitter、Microsoft Office、地图、航班信息、音乐、视频等。
+➜修复Firefox 4的内存泄漏问题
+https://www.solidot.org/story?sid=27993	46080
+Mozilla工程师Nicholas Nethercote在linux.conf.au上详细解释了<a href="http://blog.mozilla.com/nnethercote/2012/01/17/notes-on-reducing-firefoxs-memory-consumption/">为什么Firefox 4消耗更多内存</a>(<a href="http://blog.mozilla.com/nnethercote/2012/01/17/notes-on-reducing-firefoxs-memory-consumption/">全屏</a>)，剖析了导致内存占用过高的原因，以及他们如何去修正内存泄漏。<i>
+Firefox 4内存泄漏跟踪到与超过50个bug有关，大部分在正式发布前已得到修复，但它仍然比Firefox  3.6消耗的内存更多，主要原因是新JavaScript引擎JaegerMonkey开发中过多关注的是与竞争对手Chrome和Safari的性能差距，结果导致它能生成更快的代码，同时也生成更多代码。此外为了提速，JaegerMonkey使用了64位的fatvals参数，更快同时也需要更多内存。其它原因包括垃圾收集机制，图像处理（如果你打开更多的背景标签，浏览器会在内存中解压图像数据，现在该问题已得到修正），HTML5解析器，等等。目前Mozilla开发者已经将注意力转向了减少流行扩展如AdBlock、GreaseMonkey和Firebug的内存使用上。
+</i>
+➜Web开发者在伊朗被判死刑
+https://www.solidot.org/story?sid=27994	47520
+伊朗出生的加拿大公民Saeed Malekpour是一位Web开发者，2008年访伊期间遭到伊朗的逮捕和拘留，他被控设计和管理成人内容网站。伊朗在2009年以“危害国家安全、侮辱和亵渎伊斯兰教旨、煽动公众”为由宣判其死刑。他曾在伊朗国有电视台节目中招供与一家色情网站有关联，但随后在一封从狱中发出的信函中称招供是被迫的。他的家人解释说他开发过上传照片的软件，在他不知情下该软件被色情软件使用。本周伊朗法院审查了该案件，<a href="http://yro.slashdot.org/story/12/01/22/0354253/web-developer-sentenced-to-death-in-iran">维持原判</a>，认为判处死刑是可接受的惩罚。Saeed Malekpour是众多在伊朗遭到互联网相关指控的人之一。

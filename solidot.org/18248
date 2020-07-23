@@ -1,0 +1,61 @@
+➜GNU TeXmacs v1.99.12 发布了
+https://www.solidot.org/story?sid=62972	4581
+<a href="http://https://github.com/texmacs/texmacs">TeXmacs中文社区</a> 写道 "<i>GNU TeXmacs是一个<b>自由的</b>所见即所得的结构化编辑器，非常适合经常编辑数学公式的科技工作者。
+<p></p>
+<p>GNU TeXmacs支持Windows/macOS/Linux三大平台，也支持FreeBSD，大家可以前往<a href="http://texmacs.org/tmweb/home/welcome.en.html">官网</a>（最下面有各个版本的下载链接）下载最新版本。
+<p></p>
+<!--more-->
+<p></p>
+</p>
+<p>GNU TeXmacs的源代码托管在Savannah上，我们在Github上每5分钟从Savannah的代码仓库同步一次代码，同时也在<a href="https://github.com/texmacs/texmacs" target="_blank">Gitbhub</a>上接收Pull Request。大家可以在官方邮件列表中讨论关于GNU TeXmacs一切，也可以在GNU TeXmacs维护者们搭建的<a href="http://forum.texmacs.cn/" target="_blank">论坛</a>上讨论。
+</p>
+<p>本次发布包含以下改进：</p>
+<p>1. 完善了法语和丹麦语的界面翻译</p>
+<p>2. 支持Java语言的代码块</p>
+<p>3. 新增了使用Python撰写插件的文档</p>
+<p>4. Asymptote, DraTex, Gnuplot, Graphviz, Xypic 这些插件使用Python重新实现，并且可以在Windows/macOS/Linux三个平台上使用</p>
+<p>5. 新增SymPy插件</p>
+<p>6. 改善导出成HTML时，公式的展示（使用MathJax或者图片）</p>
+<p>7. 改善了语法高亮功能中对于数值的解析</p>"</i>
+➜Google 想要在 2023 年前在云计算领域打败亚马逊和微软
+https://www.solidot.org/story?sid=62973	10548
+The Information 援引知情人士的消息<a href="https://www.theinformation.com/articles/google-brass-set-2023-as-deadline-to-beat-amazon-microsoft-in-cloud"><u>报道</u></a>，Google 云计算业务被设定了一个截止日期，它需要在 2023 年前打败目前云计算市场排名前二的亚马逊和微软，否则将面临失去资金的风险。这一时间表是在去年初设定的，Google 和母公司 Alphabet 的最高层讨论了如何赢得云计算市场，他们甚至还讨论了完全退出云计算市场，但这一观点遭到了否决，因为云计算市场太庞大而不能放弃。Google Cloud 目前在云计算市场远远落后于 Amazon Web Services 和 Microsoft Azure。Google 产品和服务不可靠的名声可能影响到了其市场接受度。
+➜比特大陆前研发总监被捕
+https://www.solidot.org/story?sid=62974	11248
+澎湃<a href="https://www.thepaper.cn/newsDetail_forward_5252330"><u>报道</u></a>，深圳市南山区人民检察院最近以职务侵占罪逮捕了杨作兴。杨作兴曾担任比特大陆的矿机芯片研发总监。离开比特大陆后，在 2016 年创立了深圳比特微电子科技有限公司，研发并生产神马矿机。比特大陆一直控诉杨作兴窃取比特大陆的商业机密和知识产权。彭博<a href="https://www.bloomberg.com/news/articles/2019-12-16/crypto-miner-war-heats-up-with-arrest-of-bitmain-rival-founder"><u>援引知情人士的消息称</u></a>，他遭到逮捕与前雇主的法律纠纷有关。比特微的神马 M20 系列矿机是目前市场上最畅销的矿机，杨作兴的被捕无疑会影响到公司重要决策的能力。
+➜过去十年最热门的应用来自 Facebook
+https://www.solidot.org/story?sid=62975	12709
+市场研究公司 App Annie <a href="https://techcrunch.cn/2019/12/17/the-top-apps-and-games-of-the-2010s/" target="_blank"><u>公布了</u></a>过去十年最受欢迎的应用。不让人意外的是，Facebook 霸榜，该公司在过去 10 年下载次数最多的应用榜单上占据了前 4 席，分别是 Facebook、Messenger、WhatsApp 和 Instagram。这份分析报告没有考虑中国的第三方应用商店，而是基于苹果 Apple Store 和 Google Play 的数据。排在 Facebook 应用之后的是 Snapchat、Skype、TikTok、UC 浏览器、YouTube、Twitter。过去 10 年下载次数最多的游戏是《地铁跑酷》，这主要归功于印度用户，游戏总下载量中有 15% 是由印度用户贡献的。
+➜私募以 43 亿美元收购 LogMeIn
+https://www.solidot.org/story?sid=62976	16419
+软件即服务供应商 LogMeIn 同意以 43 亿美元<a href="https://techcrunch.com/2019/12/17/logmein-agrees-to-be-acquired-by-francisco-partners-and-evergreen-for-4-3b/" target="_blank"><u>出售给</u></a>私募 Francisco Partners 和 Evergreen Coast Capital Corporation 组建的财团。公司 CEO Bill Wagner 对收购方帮助他们继续前进表示乐观。LogMeIn 在 2015 年以 1.25 亿美元收购了流行的单点登录和密码管理服务商 LastPass，2016 年以 18 亿美元收购 GoToMeeting，2018 年3.57 亿美元收购 Jive Communications。这笔交易预计会在 2020 年完成，收购协议包括了 45 天的寻购条款，也就是说 LogMeIn 可以寻找新卖家获得更好的报价。
+➜IBM 退出 Swift server 工作组
+https://www.solidot.org/story?sid=62977	20990
+IBM 开发者<a href="https://www.theregister.co.uk/2019/12/17/swift_ibm_pulls_back_open_source_priorities/" target="_blank"><u>退出了 Swift server 工作组</u></a>，蓝色巨人的负责人 Ian Partridge 和架构师 Chris Bailey 都不再参与工作组的工作。苹果在 2014 年发布的 Swift 语言被广泛用于构建 iOS 和 Mac 应用，IBM 在 2016 年发布了用 Swift 构建的服务端框架 Kitura，允许 Swift 开发者用相同的语言构建服务器组件、API 或 web 应用。但 IBM 现在在评估之后不再将服务器端的开源 Swift 框架视为优先，Partridge 等人都转了其它开源项目。
+➜Google 修复 Chrome 79 数据丢失 bug
+https://www.solidot.org/story?sid=62978	21431
+Google <a href="https://www.zdnet.com/article/google-fixes-chrome-79-data-loss-bug-on-android/" target="_blank"><u>开始推送更新</u></a>修复上周曝出的 Chrome 79 数据丢失 bug。该 bug 主要影响基于 WebView/Chrome 的 Android 应用，原因是 Chrome 79 改变了 user profile 目录的位置，AppCache、File System、localStorage、IndexedDB、Service Workers 和 WebSQL 等 API 生成的用户数据留在了旧的目录，没有迁移到新的目录，结果就是升级到新版本的用户发现许多 Android 应用突然重置、数据丢失或账号锁定。在开发者报告之后，Google Chrome 团队暂停了更新推送。Google 发言人称，用户数据仍然是完整的，在更新之后所有受影响的数据将会恢复。
+➜微软开始在 Windows 10 应用展示无法移除的广告
+https://www.solidot.org/story?sid=62979	24735
+Windows 10 用户报告，微软开始在邮件和日历应用上<a href="https://tech.slashdot.org/story/19/12/17/2249238/microsoft-starts-showing-non-removable-ads-in-windows-10-mail-calendar-apps" target="_blank"><u>展示无法移除的横幅广告</u></a>。微软去年 11 月就曾在 Windows 10 应用上展示过广告，但软件巨人表示这只是一次实验，当时广告仅对非 Office 365 订阅用户展示。如今，广告是对所有用户展示，而且无法移除。广告不固定——如果你查看 Gmail，广告会建议你在移动设备上阅读；如果你访问的是 Outlook.com 账号，广告会展示移动版本的 Outlook 应用。但即使你有了移动版  Outlook 应用，微软仍然会展示相同的广告。微软在一份声明中表示用户可以对广告递交反馈意见。
+➜美国高科技出口禁令比想象的宽容
+https://www.solidot.org/story?sid=62980	26791
+特朗普政府正针对中国等竞争对手制定一套高科技出口限令，目前正进行最终修改，文件显示这些出口限令没有此前担心的<a href="https://cn.reuters.com/article/usa-tech-ban-exclusive-1217-tues-idCNKBS1YM00T"><u>那样严厉</u></a>，对于美国企业界来说是一个福音。可能会让美国企业感到宽慰的是，这些规则将提交一些国际机构批准，以便可以在海外实施，而不仅限于美国。这将在海外为美国企业建立一个公平的竞争环境，但也因此需要更长的时间才能完成审核并开始生效，最早可能要等到 2021 年中期。
+➜投资者想要确认加拿大交易所 QuadrigaCX CEO 是否真的死了
+https://www.solidot.org/story?sid=62981	29237
+今年一月，加拿大数字货币交易所 QuadrigaCX  发布公告称该公司 30 岁的 CEO Gerald Cotten 去年底在印度突然死亡，至少 1.37 亿美元的客户资产被带进了坟墓，因为他控制着交易所的冷钱包钥匙。Cotten 的遗孀 Jennifer Robertson 作证说她不知道已故丈夫的笔记本电脑密码，该笔电储存了冷钱包，Robertson 声称她雇了专家去尝试破解笔电但都失败了。纽约时报周二<a href="https://www.nytimes.com/2019/12/17/business/gerald-cotten-death-cryptocurrency.html" target="_blank"><u>报道称</u></a>，QuadrigaCX  欠客户的款项达到了 2.5 亿美元，加拿大和美国的执法机关正在调查可能的不法行为，而愤怒的投资者则想要确认这位 CEO 是否真的死了。代表客户的律师致函加拿大执法机构，要求挖出 Cotten 的尸体并进行尸检，确认其身份和死因。此前法庭指派的会计事务所安永已经在调查中发现了大量可疑行为，包括 QuadrigaCX 缺乏基本的公司会计记录，而公司的大量数字货币被发现转移到了 Cotten 相关联的个人账号。
+➜Mozilla 将在 Firefox 中加入第二个 DNS-over-HTTPS (DoH) 服务商
+https://www.solidot.org/story?sid=62982	30600
+Mozilla <a href="https://www.zdnet.com/article/mozilla-to-add-second-dns-over-https-doh-provider-in-firefox/"><u>宣布</u></a> NextDNS 将在 Cloudflare 之后成为第二个 DNS-over-HTTPS(DoH)服务商。DoH 旨在加密 DNS 请求，保护用户的隐私，在启用之后 DNS 查询流量将加密通过 443 端口传输出去。Mozilla 称，NextDNS 通过了它的 Trusted Recursive Resolver (TRR)项目制定的条件，将添加到 Firefox 作为第二个 DoH 选项。TRR 的条件包括：限制从用户收集的数据；透明化数据收集；承诺不审查、过滤或屏蔽 DNS 流量，除非来自执法机构的要求。
+➜微软详述迁移到新 Microsoft Edge 的计划
+https://www.solidot.org/story?sid=62983	37874
+微软即将在下个月正式推出基于 Chrome 的新 Microsoft Edge 浏览器，它将取代现有的 Microsoft Edge 浏览器，微软<a href="https://tech.slashdot.org/story/19/12/17/1524226/microsoft-details-its-migration-plans-for-the-new-microsoft-edge"><u>详述了新旧更替计划</u></a>：旧版本的所有开始菜单固定、磁贴和快捷方式都将替换为新版本；旧版本的任务栏固定和快捷方式替换为新版本；新版本将固定到任务栏，如果任务栏已固定了旧版本，它将被取代；新版本将添加到桌面快捷方式，如果已有旧版本的快捷方式，它将被取代；旧版本默认处理的绝大部分协议将替换为新版本处理；旧版本将在操作系统内深入隐藏，包括设置、应用、文件或协议支持对话框；启动旧版本的任何尝试都将重定向到新版本。微软开始向开发者开放<a href="https://www.inputmag.com/tech/microsoft-begins-accepting-extensions-for-its-edge-chromium-browser"><u>扩展递交</u></a>，如果已经有 Chrome 扩展，无需修改就能支持新 Edge。
+➜李世石隐退棋首局获胜
+https://www.solidot.org/story?sid=62984	43089
+韩国九段棋手李世石 12 月 18 日与 AI 棋手举行了其职业生涯的<a href="https://home.yikeweiqi.com/mobile.html?from=timeline#/gonews/detail/29732" target="_blank"><u>告别赛</u></a>，李世石受让 2 子还 7 目半，他执黑先行，但 NHN 开发的 AI 棋手韩豆中盘犯下低级错误，不知枷为何物，被李世石吃掉三子棋筋，韩豆到 92 手时认输，李世石<a href="https://cn.yna.co.kr/view/ACK20191218002700881?section=culture-sports/index" target="_blank"><u>赢下了三番棋的第一局</u></a>。三番棋的第 2 局将在 19 日举行。李世石是唯一一名打败 AI 围棋程序 AlphaGo 的人类职业棋手。
+➜印度今年断网 93 次
+https://www.solidot.org/story?sid=62985	45113
+根据 SFLC.in 的数据，印度这个人口最多的民主国家<a href="https://www.nytimes.com/2019/12/17/world/asia/india-internet-modi-protests.html" target="_blank"><u>今年已断网 93 次</u></a>，而去年更是达到 134 次，比其他任何国家都要多。最接近印度的是邻国巴基斯坦，但它去年的断网次数也只有 12 次。SFLC.in 创始人 Mishi Choudhary 说，任何时候出现骚乱的迹象，印度政府工具箱里的第一个工具就是断网。在维护次序作为最优先任务时，这里不考虑言论自由。上周，印度当局以暴力和假消息威胁为由，切断了阿萨姆、梅加拉亚和特里普拉三个邦的互联网访问，西孟加拉和北方邦的部分地区也遭到数字封锁。穆斯林占多数的克什米尔地区自今年 8 月以来就被断网，至今已超过 135 天。印度有 5 亿网民，政府称断网只是为了阻止仇恨言论和假消息的传播，这些危险信息在 Facebook、WhatsApp 等服务上的传播速度远快于他们的控制能力。
+➜Google 拥有你个人项目的知识产权
+https://www.solidot.org/story?sid=62986	51219
+在俄罗斯互联网巨头 Rambler Group 以作者 Igor Sysoev 就职于该公司期间开发 Nginx 而声称拥有其所有权之后，其它公司类似的规定引发了<a href="https://news.ycombinator.com/item?id=21823413"><u>关注</u></a>，而其中一家公司正是搜索巨人：根据 Google 的雇佣协议，它拥有你在公司期间所创造项目的知识产权，这一规定也适用于你的个人项目，以及旧项目在就职期间的新开发工作。Google 可能也觉得这一规定范围过于宽泛不近人情，因此还制定了一个程序，允许雇员递交申请<a href="https://opensource.google/docs/iarc/" target="_blank"><u>让个人项目脱离 Google</u></a>，但 Google 可能未必会批准每一个申请。Google 开发者 Hector Martin 在 Twitter 上<a href="https://twitter.com/marcan42/status/1207234468928356352"><u>发表了一系列帖子</u></a>，描述了其个人项目的经历。在加盟 Google 前他维护了两个开源项目，分别是 AsbestOS (PS3 Linux)和 usbmuxd (iPhone USB comms daemon）。他递交了申请，Google 批准了 AsbestOS 但拒绝了 usbmuxd，没有给予解释，这导致他不得不交出 usbmuxd 的维护工作。Martin 在其它开源项目的经历也因为 Google 的这些规定而不是很愉快。

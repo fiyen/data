@@ -1,0 +1,48 @@
+➜华为宣布了10KB物联网操作系统LiteOS
+https://www.solidot.org/story?sid=44143	13975
+华为在它的网络大会上<a target="_blank" href="http://pr.huawei.com/cn/news/hw-432400-----3.0.htm"><u>宣布了</u></a>开源的物联网操作系统LiteOS，大小仅为10KB。不清楚华为的LiteOS与美国国家科学基金会资助开发的开源类Unix嵌入式操作系统<a target="_blank" href="http://www.liteos.net/"><u>LiteOS</u></a>是否存在联系。华为称它开源，但目前看不到任何源代码，而美国的LiteOS由四名华裔博士生和硕士生开发的，最新版本是2011年释出的<a target="_blank" href="https://code.google.com/p/liteos/downloads/list"><u>LiteOS 2.1</u></a>，其大小为17MB。在华为的新闻稿中，该公司宣称“LiteOS是目前世界上最轻量级的物联网操作系统，其系统体积轻巧到10KB级，具备零配置、自组网、跨平台的能力，可广泛应用于智能家居、穿戴式、车联网、工业等领域”，没有实质性的内容。<br>
+➜网络管控强度有可能加大
+https://www.solidot.org/story?sid=44144	16333
+《解放军报》周三<a target="_blank" href="http://cn.reuters.com/article/2015/05/21/china-internet-security-idCNKBS0O602J20150521"><u>发表评论文章称</u></a>，互联网已经成为意识形态领域斗争的主战场，并称网络管控对政府的存亡至为关键。该报称，中国必须扞卫网络“主权”，否则公众将被引入歧途。在另一篇<a target="_blank" href="http://www.81.cn/gfbmap/content/2015-05/21/content_111440.htm"><u>文章</u></a>中，该报称“新闻网站和商业网站也应自觉站在维护国家信息安全的高度，积极宣传党对军队绝对领导的根本原则和制度”。而与此同时，统战部将网媒中的代表人物<a target="_blank" href="http://www.nanzao.com/sc/national/14d743f6641c6b8/zhong-yang-tong-zhan-gong-zuo-hui-yi-65-shou-sheng-ge-zhong-dian-tuan-jie-yang-wang-chuang"><u>作为统战对象</u></a>，让他们在净化网络空间、弘扬主旋律等方面展现正能量。
+➜Adblock Plus发布基于Firefox的Adblock浏览器
+https://www.solidot.org/story?sid=44145	17479
+广告屏蔽扩展Adblock Plus发布了基于Firefox for Android的Adblock浏览器 for Android。<a target="_blank" href="https://adblockplus.org/en/adblock-browser/"><u>Adblock浏览器</u></a>是基于Firefox 37，关闭了Firefox Sync同步功能，整合了Adblock Plus扩展，它目前还是beta版本，只提供了<a target="_blank" href="https://downloads.adblockplus.org/devbuilds/adblockbrowser/00latest-arm.apk"><u>APK文件下载</u></a>。Adblock Plus for Android在2013年曾被Google踢出了Google Play商店，理由是它违反了禁止干扰其它应用功能的开发者协议。Adblock Plus的公关经理Ben Williams<a target="_blank" href="http://venturebeat.com/2015/05/20/adblock-plus-launches-adblock-browser-firefox-for-android-with-built-in-ad-blocking/"><u>认为</u></a>，Adblock浏览器将可以进入 Play商店，因为它只屏蔽浏览器上显示的广告。Williams称，正式版本预计将会在7月或8月发布，称Adblock浏览器将会随着Firefox的更新而释出更新。
+➜AMD称Nvidia的GameWorks完全破坏了《Witcher 3》的性能
+https://www.solidot.org/story?sid=44146	19727
+如果你是AMD显卡的用户，要流畅玩刚刚发布的RPG游戏《The Witcher 3: Wild Hunt》，你也许需要手动关闭HairWorks功能，因为它会导致帧数大幅下降。HairWorks来自Nvidia的GameWorks，为游戏中的角色加入了大量细分发丝。AMD也有技术上相似、对性能影响更小也更开放的技术TressFX，但游戏开发商CD Projekt Red没有采用。AMD的副总裁Roy Taylor宣称Nvidia的GameWorks<a target="_blank" href="http://arstechnica.co.uk/gaming/2015/05/amd-says-nvidias-gameworks-completely-sabotaged-witcher-3-performance/"><u>完全破坏了《Witcher 3》的性能</u></a>，而Nvidia则回应说在游戏开发过程中他们投入了大量的工程资源，AMD显卡性能不佳是因为他们投入的资源太少。但AMD的首席游戏科学家Richard Huddy解释说，在《Witcher 3》开发过程中他们也一直与开发商密切合作，AMD显卡也一直工作良好，直到游戏发布前两个月HairWorks加入进去后严重影响了性能。AMD曾询问CD Projekt Red是否可以采用TressFX，得到的回答是太迟了。HairWorks也严重影响了Nvidia旧显卡的性能，但对AMD显卡的影响更大。
+➜比特币社区需要作出一个至关重要的决定
+https://www.solidot.org/story?sid=44147	26567
+比特币社区<a target="_blank" href="http://www.technologyreview.com/news/537486/leaderless-bitcoin-struggles-to-make-its-most-crucial-decision/"><u>需要作出一个关键决定</u></a>：随着比特币的流行，它的核心软件面临着一个瓶颈将会影响未来的增长潜力。比特币神秘的创始人中本聪在销声匿迹前将区块的大小设置为1MB，在每区块1MB的限制下，比特币网络只能每秒处理三笔交易。相比之下VISA的网络每秒能处理超过2.4万笔交易。如果比特币想要成为一个主流支付系统或日常交易使用的支付平台，它需要提升其处理能力。比特币软件的核心开发者早就知道这一问题，在中本聪之后领导比特币开发的Gavin Andresen<a target="_blank" href="https://github.com/gavinandresen/bitcoin-git/commit/5f46da29fd02fd2a8a787286fd6a56f680073770"><u>提议</u></a>从2016年3月开始将区块容量增至20MB。Andresen认为改变的需要是迫在眉睫，指出逼近瓶颈后网络有可能变得不可靠。另一位比特币开发者Mike Hearn称，升级需要时间，他们需要现在就准备好。但比特币社区的人并不都同意Andresen的建议，他们的一个观点是更大的区块容量有利于富有的矿工，会在挖矿社区制造危险的“中心化”趋势。另一些人的观点是比特币软件的核心设计不需要大的改变，只需要小的调整就行了。
+➜火星卫星的形成过程或类似于地月系统
+https://www.solidot.org/story?sid=44148	28078
+火星有<a target="_blank" href="http://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F#.E8.A1.9B.E6.98.9F"><u>两颗卫星</u></a>：火卫一（Phobos）与火卫二（Deimos）。它们的外形类似小行星，土豆形状、布满陨石坑，暗色。它们被认为是火星从小行星带捕获过来的。但两个天文学家团队卫星独立进行的计算机模型发现（<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0019103515000639"><u>摘要1</u></a>，<a target="_blank" href="http://adsabs.harvard.edu/abs/2014DPS....4650109C"><u>摘要2</u></a>），两颗卫星的形成过程可能<a target="_blank" href="http://news.sciencemag.org/space/2015/05/are-marss-moons-homegrown-or-snatched-asteroid-belt"><u>类似于我们的地月系统</u></a>：一颗巨大的太空岩石撞击了火星，撞出的碎片散落在轨道上。
+➜Google地图将N-词搜索结果指向到白宫
+https://www.solidot.org/story?sid=44149	29878
+<div align="center"><img src="http://img.solidot.com.cn/0/736/li6IgUx6jxiw.gif" align="" width="400" height="243"><br>
+<br>
+</div>
+美国网民<a target="_blank" href="http://www.washingtonpost.com/blogs/the-switch/wp/2015/05/19/if-you-search-google-maps-for-the-n-word-it-gives-you-the-white-house/">发现</a>，在Google地图搜索框内输入N***** house和<a target="_blank" href="http://www.urbandictionary.com/define.php?term=nigger+king"><u>N***** king</u></a>，搜索结果会指向白宫。Google发言人表示，一些不合适的词出现在Google地图，他们对此可能造成的冒犯表示歉意。他们的工程师立即解决了这一问题。Google地图最近多次遭到恶搞，Google因此关闭了地图编辑工具Map Maker。
+➜官方公布一起大规模商业删贴案
+https://www.solidot.org/story?sid=44150	32247
+官方新华社公布了<a target="_blank" href="http://www.sn.xinhuanet.com/zixun/2015-05/20/c_1115343568.htm"><u>一起商业删贴案</u></a>。在中国，商业化删贴被认为是非法的，被定为非法经营罪。报道称，最新的这起案件牵涉到两千余人，有10人被捕，5人被通缉，其中一名主要嫌疑人4年赚了780余万元。报道称，网络公关公司通过“层层转包”将删帖的任务交给“删帖中介”，中介接活以后，就找“管理员”帮助删帖。“管理员”是链条的末端，要么是网站的管理人员、网络论坛的版主，要么是掌握计算机技术的黑客。删帖之后，删帖中介与“管理员”一般按照二八分成...删帖是按照网站类型和帖子热度来收费的。“小网站的帖子，价格在100元到1000元之间，知名网站一般是2000元到4000元。”有的国家级网站收费还会更高，甚至达到上万元。“一个帖子有可能转了几个甚至十几个‘网络中介’，才能找到能删帖的‘管理员’，每转一次手，中介都会加上200元到300元‘手续费’。”从事删帖的不仅有大学生、教师、医生，还有公务员甚至警察，而主要客户则包括政府官员、知名企业和明星等。
+➜澳大利亚限制密钥强度超过512位的加密技术出口
+https://www.solidot.org/story?sid=44151	34150
+澳大利亚上个月通过了<a target="_blank" href="http://www.defence.gov.au/deco/DTC.asp"><u>国防贸易管控法案</u></a>，法律将于明年生效，违法者将面临最高10年的徒刑。澳大利亚国防部有一个<a target="_blank" href="http://www.defence.gov.au/deco/DSGL.asp"><u>国防和战略商品清单</u></a>，列出了被认为对国防和国家安全重要的限制出口技术。被列入清单的军民两用技术就包括了加密技术，密钥强度超过512位的加密技术被限制出口。Monash大学的数学教师Daniel Mathews<a target="_blank" href="http://it.slashdot.org/story/15/05/20/0536206/australian-law-could-criminalize-the-teaching-of-encryption"><u>指出</u></a>，按照新的法律，从事加密技术教育也将会是非法的。新的法律覆盖甚广，开源隐私软件，信息安全研究与教育，以及整个计算机安全行业包容其中。
+➜微软开源WCF
+https://www.solidot.org/story?sid=44152	35891
+微软<a target="_blank" href="http://www.dotnetfoundation.org/blog/wcf-is-open-source"><u>宣布</u></a>在MIT许可证下开源Windows Communication Foundation （WCF）客户端库，<a target="_blank" href="https://github.com/dotnet/wcf"><u>代码</u></a>托管在Github上。<a target="_blank" href="http://zh.wikipedia.org/wiki/Windows_Communication_Foundation"><u>WCF</u></a>是微软开发的一组数据通信应用程序开发接口，是.NET框架的一部分，从.NET Framework 3.0开始引入。开源版本针对的是.NET开源版本 .NET Core，目前只支持Windows，WCF团队正努力加入Linux和OS X支持，并欢迎用户测试。
+➜同性恋研究论文被发现伪造了数据
+https://www.solidot.org/story?sid=44153	38048
+UCLA的Michael J. LaCour和哥伦比亚大学的Donald P. Green去年在《科学》上发表了<a target="_blank" href="http://www.sciencemag.org/content/346/6215/1366"><u>一篇论文</u></a>，宣称与同性恋游说者对话能改变人们对于同性恋婚姻的看法。David Broockman 和Joshua Kalla尝试着重复这一研究，但效果很差。他们于是联系了参与第一篇论文研究的调查公司，结果被告知他们根本就没有参与。进一步的分析发现，数据是伪造的。由于LaCour未能提供反证，论文合作者之一的 Green<a target="_blank" href="http://arstechnica.com/science/2015/05/fake-data-was-used-in-study-claiming-efficacy-of-gay-canvassers/"><u>宣布撤回论文</u></a>。调查仍在进行之中。这篇论文已被同性恋游说组织用于宣传同性恋婚姻的相关议题。
+➜UC浏览器中文版被发现会收集发送用户隐私数据
+https://www.solidot.org/story?sid=44154	40174
+加拿大多伦多大学公民实验室<a target="_blank" href="https://citizenlab.org/2015/05/a-chatty-squirrel-privacy-and-security-issues-with-uc-browser/"><u>调查和比较了中文版UC浏览器和英文版UC浏览器</u></a>，其中中文版被发现会收集和发送用户的隐私数据，但英文版却没有这么多隐私问题，明显内外有别。<i>UC浏览器号称有5亿注册用户，是全球第四大移动浏览器，仅次于 Chrome、Android浏览器和Safari，每天有1亿活跃用户，它已被阿里巴巴收购。研究人员测试的中文版是从小米应用商店下载的，而英文版则直接从官网下载的APK文件。他们分析了两种浏览器在空闲情况下发送的流量数据，发现中文版本的AMAP组件会联系apilocate.amap.com，发送用户设备识别码（IMSI、IMEI）和地理位置数据，Wi-Fi的MAC地址或手机塔相关数据，以及Android ID，向阿里巴巴的搜索引擎Shenma发送未加密的搜索查询词。英文版没有发现发送设备相关识别码或Wi-Fi的MAC地址。</i>
+➜调查称爱因斯坦是比耶稣更伟大的英雄
+https://www.solidot.org/story?sid=44155	44851
+<div align="center"><img src="http://img.solidot.com.cn/0/738/lijSy3OfXypN.png" width="560" height="809"><br>
+<br>
+</div>
+爱因斯坦，特蕾莎修女，甘地，马丁·路德·金，牛顿，耶稣，曼德拉，爱迪生，林肯和佛陀有什么共同点？他们是世界历史上排在前十位的英雄，第11名是戴安娜，盖茨14名。而前十名的恶棍则是希特勒，本拉登，萨达姆，小布什，斯大林，毛泽东，列宁，成吉思汗，萨拉丁，秦始皇和拿破仑。这一结论来自于对37个国家的6902名大学生的调查，他们的平均年龄为23岁。<a target="_blank" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0115641"><u>研究报告</u></a>发表在PLoS ONE上。研究<a target="_blank" href="http://phys.org/news/2015-05-einstein-hitler-hero-villain-world.html">发现</a>，不同文化下的学生对于恶棍有着较大的分歧，一个历史人类在一个国家是恶棍，但在另一个国家则变成了英雄，比如阿拉伯国家眼里的本拉登。研究显示，当被问道谁是历史上最重要的人物时，学生们一开始会给出历史和政治人物的名字，但在思考之后他们又会将科学家和历史人物放在更重要的位置。历史事件也是如此，他们认为工业革命、法国大革命和科学发展与战争一样重要或更重要。研究人员称，西方和天主教/东正教国家占支配的是历史唯心主义者（Historical Idealists），但穆斯林国家是政治现实主义者和历史冷漠主者（Historical Indifferents），亚洲国家是世俗理想主义者和政治现实主义者。
+➜1990年代风格的安全漏洞让百万路由器面临风险
+https://www.solidot.org/story?sid=44156	46534
+安全公司SEC Consult Vulnerability Lab发现Linux内核驱动NetUSB包含了<a target="_blank" href="http://blog.sec-consult.com/2015/05/kcodes-netusb-how-small-taiwanese.html"><u>一个非常业余的错误</u></a>，能被攻击者利用远程入侵任何运行该驱动的设备。NetUSB驱动由台湾的盈码科技公司开发，允许PC和MAC通过网络连接到USB设备实现Wifi共享。为了实现共享，网络中的每一部分都需要安装驱动，PC和MAC安装客户端驱动，路由器安装服务器端驱动，其中路由器端的驱动会监听TCP端口20005，正是它包含了一个简单的缓冲溢出漏洞。作为客户端和服务器端通讯的一部分，客户端会发送机器的名字，如果名字长度超过64字节，缓冲溢出就会发生。SEC Consult称，该漏洞可被用于发送拒绝服务攻击和远程代码执行。受影响的产品包括了D-Link、Netgear、TP-Link、Trendnet和ZyXEL。<br>

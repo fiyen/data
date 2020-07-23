@@ -1,0 +1,76 @@
+➜任天堂宣布新主机Wii U
+https://www.solidot.org/story?sid=24376	2880
+任天堂在E3新闻发布会上正式揭开了“Project Cafe”的真面目：结合掌机和主机的新游戏机<a href="http://e3.nintendo.com/hw/#/introduction">Wii U</a>。<i>
+Wii U是任天堂的HD游戏机，手柄集成了触摸屏和控制杆，内置麦克风，扬声器，摄像头，陀螺仪和加速度计。玩家可以直接在触摸屏上玩游戏，也可以连接电视玩高清游戏。通过Wii U，任天堂再次<a href="http://arstechnica.com/gaming/news/2011/06/hands-on-with-the-wii-u-its-here-its-amazing-its-smart.ars">颠覆了游戏方式</a>。游戏机高1.8英寸，宽6.8英寸，触摸屏大小为6.2英寸，在便捷性上不如掌机。CPU是基于IBM Power的双核处理器；内置闪存，可通过SD卡和USB外置硬盘扩展存储空间；支持1080p、1080i、720p、480p和480i；有HDMI接口。预计将于2012年上市，它向后兼容Wii游戏。目前尚不清楚价格。支持Wii U的游戏大作将包括：Darksiders II、Batman Arkham City、Assassin's Creed、Dirt、Aliens Colonial Marines、Ghost Recon Online、Tekken、Ninja Gaiden 3、Metro Last Night等。</i>
+➜Pidgin 2.8.0发布
+https://www.solidot.org/story?sid=24377	6000
+<a href="http://www.osmsg.com/">OSMSG开源资讯</a> 写道<i> "即时通讯客户端Pidgin<a href="http://sourceforge.net/projects/pidgin/files/Pidgin/2.8.0/">发布了2.8.0</a>，主要新特性<a href="http://developer.pidgin.im/wiki/ChangeLog">包括</a>：在语音通话中实现静音抑制，以节省在双方语音通话空白期间的宽带流量；增加DigiCert，实现Facebook XMPP接口所需要的证书验证；删除对QQ协议插件的支持；清理程序重复的代码；语音/视频呼叫窗口能够正确的添加或删除fly中的流；对媒体使用TCP转向中继；修正AIM和ICQ的64×64图标；语音/视频插件增加麦克风设置；XMPP协议增加搜索记录功能，并更好的处理好友头像。必须使用qq的用户可以选择libqq for pidgin插件，或者<a href="http://www.osmsg.com/2011/05/myqq/">在命令行下进行qq聊天</a>。"</i>
+➜中国将停止补贴风能产业
+https://www.solidot.org/story?sid=24378	6300
+在美国向WTO投诉之后，中国同意<a href="http://www.bloomberg.com/news/2011-06-07/china-agrees-to-end-wind-power-subsidies-after-wto-case-trade-office-says.html">将停止补贴</a>中国风力发电设备生产商。<i>
+去年12月，美国指责中国非法补贴风力发电设备的生产，要求世贸组织讨论此事。美国官员估计，中国风力涡轮机制造商在2008年得到政府数亿美元补贴。美国制造商认为，此举违反公平贸易的政策。美国贸易代表柯克星期二<a href="http://www.bbc.co.uk/zhongwen/simp/business/2011/06/110607_us_china_trade_dispute.shtml">在声明中说</a>，这个结果确保了美国清洁能源领域的创新者和工人得到公平。</i>
+➜中国互联网企业高管宣誓效忠
+https://www.solidot.org/story?sid=24379	8280
+在中国共产党建党90周年之际，千龙、新浪、搜狐、网易、百度等北京30家网站的近80位高层管理人员前往中共一大遗址，<a href="http://sh.eastday.com/qtmt/20110607/u1a889642.html">进行一次“红色故土行”</a>。根据官方<a href="http://weibo.com/zhongguowangshi">新华社中国网事</a>微博的报道：百度CEO李彦宏代表网络媒体发表上海宣言：“走中国特色社会主义道路，是中国互联网持续健康快速发展的动力源泉。”新浪总裁曹国伟发言称：“中国网络媒体在走向成熟，走向主流！”...互联网CEO们在红旗下齐唱“歌唱祖国”。
+➜世界IPv6日
+https://www.solidot.org/story?sid=24380	10080
+6月8日是<a href="http://www.worldipv6day.org/">世界IPv6日</a>。流行的网站如Google、Facebook、YouTube和Yahoo将在24小时内<a href="http://arstechnica.com/business/news/2011/06/google-yahoo-facebook-turn-on-ipv6-for-a-day-tomorrow.ars">全球测试IPv6 访问</a>，它们将同时提供IPv4和IPv6地址。用户可以在<a href="http://test-ipv6.com/">test-ipv6</a>测试自己的IPv6可连接性，如果你的ISP或DNS server没有配置使用IPv6，可能将限制你访问IPv6网站的能力。你也可以在命令行中输入：<i>
+nslookup<br>
+&gt; set type=AAAA<br>
+&gt; www.google.com<br> </i>
+检查自己是否能接收到IPv6地址。然后ping一下是否能收到IPv6流量：unix上是ping6 www.google.com；Windows上是ping -6 www.google.com。
+➜身体上的疼痛和情感上的疼痛使用相同的大脑网络
+https://www.solidot.org/story?sid=24381	16920
+对大脑来说，伤心和悲痛欲绝与溅洒到手上的滚烫咖啡没有什么区别。根据发表在《美国科学院学报》上的<a href="http://www.pnas.org/content/108/15/6270.full?sid=758b38cc-b399-4d22-9c37-3c074cf321be">报告</a>（OPEN ACCESS），研究人员用功能性核磁共振成像（fMRI）扫描40位刚刚经历分手的男性和女性志愿者大脑，实验中要求他们观看前女友/男友的照片，结果发现身体上的疼痛和情感上的疼痛<a href="http://science.slashdot.org/story/11/06/07/2346255/Physical-Pain-and-Emotional-Pain-Use-Same-Brain-Networks">都刺激了几乎相同的大脑反应</a>。
+➜Bitcoin被用于毒品交易
+https://www.solidot.org/story?sid=24382	17700
+半岛电视台<a href="http://english.aljazeera.net/video/americas/2011/06/20116655012909169.html">报导</a>，最近颇受关注的P2P虚拟货币bitcoin被拍卖网站<a href="http://idle.slashdot.org/story/11/06/06/1410217/Bitcoin-Used-For-the-Narcotics-Trade">用于交易</a>可卡因，大麻和其它毒品。<i>
+两位美国参议员要求联邦当局打击接受虚拟货币的在线毒品市场。匿名的网上社区Dark Web交易海洛因，可卡因和甲基苯丙胺等毒品，它已经秘密运行了几个月。两位参议员要求美国司法部和毒品管制局关闭和调查该网站。</i>
+➜廉价GPU让强密码失去作用
+https://www.solidot.org/story?sid=24383	19260
+GPU为密码暴力破解提供了有力的工具，它让曾经被认为难以征服的强密码<a href="http://www.zdnet.com/blog/hardware/cheap-gpus-are-rendering-strong-passwords-useless/13125">变得无足轻重</a>。<i>
+以Radeon HD 5770为例，利用GPU密码破解工具<a href="http://www.golubev.com/hashgpu.htm">ighashgpu</a>，它能以每秒33亿密码猜测速度在一秒内破解出五位密码“fjR8n”（如果有4个HD 5970显卡，破解速度可以提高到331亿/s），而标准的桌面CPU的速度只有980万/s，需要耗时24秒。对于六位密码“pYDbL6”，CPU需要耗时1小时30分，GPU只需4秒。对于七位密码“fh0GH5h”，CPU需要连续运算4天，而GPU只需17分30秒。对于九位、混合大小写的随机密码，CPU需要43年，而GPU只需48天。</i>
+➜三星向Mod社区免费赠送Galaxy S II智能手机
+https://www.solidot.org/story?sid=24384	20880
+三星向Android Mod社区CyanogenMod的四名成员<a href="http://www.wired.com/gadgetlab/2011/06/samsung-cyanogen/">免费赠送了Galaxy S II智能手机</a>。<i>
+三星的想法很简单：让CyanogenMod运行在Galaxy S II上，这四名社区成员参与了第一代Galaxy S的移植。CyanogenMod团队成员Kolja Dummann说，他此前没听说过有手机制造商向CyanogenMod或其它社区提供手机。上周，另一家主要的Android制造商HTC宣布将不再锁定bootloader。</i>
+➜解密蓝翔技校
+https://www.solidot.org/story?sid=24385	22560
+《华尔街日报》有两篇报道试图解密山东济南的蓝翔高级技工学校，它被某些人认为<a href="http://www.cn.wsj.com/gb/20110607/tec141943.asp">可能参与了攻击Google的行动</a>，但中国<a href="http://www.cn.wsj.com/gb/20110608/rlw121535.asp">几乎没人相信</a>。<i>
+蓝翔技校的是创始人是荣兰祥，他在去年的一次采访中称，他的学校有15年的计算机课程培训历史，拥有超过1300台计算机的大型机房。1984年，20岁的荣兰祥建立技校开始提供摩托车维修课程。四年后，中国人民解放军也开始经商。双方达成一笔交易：军方提供了一个场所扩大学校规模，条件是军队参与学校管理，本质上是将学校并入军队。20世纪90年代末，政府命令军队退出经商。荣兰祥重新获得控制权，但有些联系仍然存在，荣兰祥说他现在的合伙人包括军官的家庭成员。</i>
+➜IBM Waston震撼医生
+https://www.solidot.org/story?sid=24386	23700
+Shawn the R0ck 写道 <i>"在<a href="http://www.jeopardy.com/">Jeopardy</a>比赛中<a href="__SLASHLINK__" sect="hardware" sid="11/02/17/0345233" sn="article" tid="25">大获全胜</a>的IBM Watson计算机并没有闲着，而是<a href="http://science.slashdot.org/story/11/06/08/0030233/Just-Months-After-Jeopardy-Watson-Wows-Doctors">通宵达旦的从医学教科书和健康杂志上学习相关知识</a>。在最近美联社的报道中，Watson演示了<a href="http://singularityhub.com/2011/06/06/just-months-after-jeopardy-watson-wows-doctors-with-medical-knowledge/">对病人的诊断能力</a>。这次演示的成功带给了IBM和医学人员的盼望，他们希望未来Waston能帮助医生处理日常的烦琐之事。"</i>
+➜中国以“水军”为名关闭55家网站
+https://www.solidot.org/story?sid=24387	24480
+中国在四月开始了整治网络水军的<a href="__SLASHLINK__" sect="internet" sid="11/04/14/0318207" sn="article" tid="120">专项行动</a>，行动结果是<a href="http://www.infzm.com/content/60121">有55家网站被关闭</a>。<i>
+关闭的<a href="http://news.shm.com.cn/2011-06/08/content_3493800.htm">55家网站</a>中，很多从名字上说涉及了消费者维权，例如“中国诚信企业协会，消费投诉315，315网站，中国消费投诉网，中国消费者联盟，维权315，315百姓网，365防骗网，民意新闻网，投诉维权站，315天涯投诉举报网，百姓投诉维权网，维权之家，打假举报网，揭露榜，维权信息站，热点315....”中国的官方报道称它们是“刊载负面信息进行敲诈勒索”。</i>
+➜富士康国际巨亏被剔除出恒生指数
+https://www.solidot.org/story?sid=24388	26400
+在经历多名员工自杀和工厂爆炸之后，富士康公司<a href="http://news.slashdot.org/story/11/06/07/1443218/Foxconn-International-Removed-From-Hang-Seng-Index">还失去了其香港恒生指数蓝筹股身份</a>。<i>
+由于智能手机、笔记本电脑，平板电脑和其它电子产品价格下跌，而中国工人的工资同时上涨，导致富士康国际在2010年亏损2.2亿美元。富士康国际将从恒指指数中剔除，取而代之的是保险公司友邦保险和尿布生产商恒安国际，这两家公司既把中国当作廉价劳动力来源，又把它视为新兴市场。富士康正考虑作出类似改变。</i>
+➜【AD】谷歌与facebook联手测试：IPv6靠谱吗？
+https://www.solidot.org/story?sid=24389	28920
+谷歌，Facebook和雅虎这些对手们也有合作的时候。明天，他们将联手进行首次全 球级别的IPv6测试，名曰：<a href="http://network.51cto.com/art/200703/41485.htm">取名"世界IPv6日"</a>。此举是为了在IPv4地址已经枯竭的情况下，推进互联网加速部署IPv6，谷歌表示当天将在其主站和Youtube上全面启用IPv6访问。IPv6的发展离不开运营商的 支持，全球运营商的IPv6策略和状态是怎样的？如何在IPv6提供的新机遇中获得商 业机会和职业发展机会？中国的运营商怎么做？<a href="http://apps.cisco.com/gdrp/coiga/showsurvey.do?surveyCode=6502&amp;keyCode=206533_9">现在填写注册问卷</a>，即可在6月9日下午15:00-16:00，与全 球IPv6论 坛委员专家和思科技术专家在线听取和交流IPv6的现状、问题和机会， <a href="http://apps.cisco.com/gdrp/coiga/showsurvey.do?surveyCode=6502&amp;keyCode=206533_9">更有机会获得iPad2等礼品</a>。
+➜古希腊传说被证明正确
+https://www.solidot.org/story?sid=24390	30000
+公元一世纪的希腊地理学家和历史学家<a href="http://en.wikipedia.org/wiki/Strabo">斯特拉波</a>指出，位于雅典以南的名叫“<a href="http://en.wikipedia.org/wiki/Piraeus">比雷埃夫斯</a>（Piraeus）”的半岛曾经是一个岛屿。一组法国和希腊的地质学家和考古学家决定检验这一说法的真实性。<i>
+他们收集了比雷埃夫斯附近的沉积物，用碳定年法测定年份，识别出其从岛屿演变为半岛的时间线。<a href="http://arstechnica.com/science/news/2011/06/ancient-greek-oral-traditions-got-geology-right.ars">他们发现</a>，8000年前比雷埃夫斯是一个半岛；但到6000年前，随最后一次冰川期结束而来的海平面上升切断了比雷埃夫斯和大陆的连接，使它成为一个独立岛屿。大约4000年前，河流的沉积物使比雷埃夫斯和大陆之间的区域变成一个浅潟湖。到希腊城邦时代，雅典和比雷埃夫斯之间建立了一道城墙，比雷埃夫斯成为了港口城市。这些发现证明斯特拉波的说法是正确的。研究人员推测，斯特拉波的信息可能来自于口耳相传的传说，或者是对比雷埃夫斯附近湿地和沼泽地考察得出的结论。</i>
+➜英国儿童发明智能门铃
+https://www.solidot.org/story?sid=24391	34320
+13岁的英国儿童Laurence Rook发明了<a href="http://www.dailymail.co.uk/sciencetech/article-1394448/Doorbell-tricks-burglars-thinking-youre-home-invented-schoolboy-Laurence-Rook-13.html">能愚弄窃贼的智能门铃</a>。<i>
+虽然这并非是一项新发明，但他的成果还是令人颇感兴趣。这种智能门铃能产生白噪声，使门外的人误以为室内有人。它嵌入了SIM卡和移动技术，可以在门铃响起时呼叫预编好的电话号码，用户可以通过手机作出回应，即使他本人身处其它地方。Rook称他发明智能门铃最初想法只是为了避免错过包裹。</i>
+➜世界第一种开源手电筒
+https://www.solidot.org/story?sid=24392	35640
+机器人高手Christian Carlberg曾创造出带刀锯的机器人<a href="http://www.coolrobots.com/robots/minion.html">Minion</a>，现在突然对手电筒产生了兴趣。他发明了世界第一种<a href="http://deviceguru.com/worlds-first-open-source-flashlight/">开源可编程手电筒</a>。<i>
+<a href="http://www.hexbright.com/">HexBright</a>能提供超高的光亮度，是传统LED手电筒的五倍。它有两种型号，Prime的最大光输出为350流明；Flex，嵌入微处理器，可编程，USB充电和编程，最大输出500流明。Carlberg公布了软件的源代码，硬件制造图纸，并与另一位专家创建了<a href="http://www.kickstarter.com/projects/527051507/hexbright-an-open-source-light">Kickstarter项目</a>商业化开源手电筒。</i>
+➜航天飞机停靠空间站历史照片
+https://www.solidot.org/story?sid=24393	37620
+在美国航天飞机数十次参与国际空间站建设任务中，没有一次有另外一艘飞船能近距离拍摄双方对接在一起的照片，虽然有摄影师从地面拍摄过空间站与航天飞机一起飞过太阳的<a href="http://blog.polignostix.com/wp-content/gallery/iss-sun/3.jpg">照片</a>。航天飞机在经历30年的漫长旅程后即将退役，NASA希望在退役前能留下双方在一起的近距离照片。奋进号航天飞机上个月中旬执行了<a href="__SLASHLINK__" sect="science" sid="11/05/17/005234" sn="article" tid="90">最后一次空间站任务</a>，5月23日，俄罗斯联盟号宇宙飞船运送宇航员返回地球，意大利宇航员<a href="http://www.flickr.com/photos/magisstra/">Paulo Nespoli</a>在联盟号上拍下了<a href="http://news.discovery.com/space/big-pic-shuttle-endeavour-docked-space-station-110607.html">航天飞机和空间站的历史性照片</a>。Nespoli和同伴在空间站上服务了半年。
+➜太阳爆发大耀斑
+https://www.solidot.org/story?sid=24394	41040
+NASA的太阳动力学观测卫星在6月7日探测到可能是近年来<a href="http://www.nasa.gov/mission_pages/sunearth/news/News060711-blast.html">最剧烈的太阳风暴爆发</a>（<a href="http://www.nasa.gov/multimedia/videogallery/index.html?collection_id=15504&amp;media_id=93779141">视频</a>）。<i>
+这次太阳耀斑的规模是M-2（即中等），但十分壮观，喷发出的粒子云看起来几乎覆盖了一半的太阳表面。日冕物质抛射没有直接面向地球，根据NASA的模型预测，它将在6月8日或9日冲击地球磁场。</i>
+➜条条大道通Facebook
+https://www.solidot.org/story?sid=24395	51600
+<a href="http://bbs.51osos.com/">51开源社区</a> 写道<i> "社交招聘网站Top Prospect根据其过去两年的数据绘制了<a href="http://blog.topprospect.com/2011/06/the-biggest-talent-losers-and-winners/">一幅顶尖科技企业之间的人才竞争流向示意图</a>(<a href="http://bbs.51osos.com/thread-3242-1-1.html">中文</a>)。示意图的比率显示的是A和B公司间的人才收获比较（即B每对A输出一个人才，则会从A流入多少人才），箭头则显示的是人才的流向（即赢得人才竞争的一方）。总的情况来看，Facebook，LinkedIn等新兴互联网公司是最大的人才争夺胜利方。"</i>

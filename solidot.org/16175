@@ -1,0 +1,104 @@
+➜Mozilla任命前营销主管为临时CEO
+https://www.solidot.org/story?sid=39136	7930
+在新CEO Brendan Eich因反同捐款争议下台之后，Mozilla公司<a target="_blank" href="https://blog.mozilla.org/blog/2014/04/14/mozilla-moving-forward/"><u>任命</u></a>前营销负责人<a target="_blank" href="http://en.wikipedia.org/wiki/Chris_Beard_%28executive%29"><u>Chris Beard</u></a>为临时CEO和董事会成员。Beard是加拿大人，早年曾在惠普和太阳微系统公司担任过营销职位，2004年起担任Mozilla首席营销官，负责过Firefox 1.0、Firefox on Android和Firefox OS的发布任务。Mozilla董事会执行主席Mitchell Bake在官方声明中称，Mozilla目前所面临的挑战与早年类似——集中化的商业模式和技术阻碍了互操作性和新进入者，今天的在线生活也是高度集中化的，几大巨头几乎控制了所有的在线体验。这样的一个环境迫切需要一个开放的Web替代。
+➜《华盛顿邮报》和《卫报》因Snowden报道获得普利策公共服务奖
+https://www.solidot.org/story?sid=39137	10106
+《华盛顿邮报》与《卫报》美国版根据NSA前合同工Edward Snowden提供的机密文档曝光NSA大规模监听活动的报道获得了本年度的<a target="_blank" href="http://www.pulitzer.org/citation/2014-Public-Service"><u>普利策公共服务奖</u></a>。颁奖词称，两大媒体通过富有批评性的报道点燃了安全和隐私问题上有关政府和公众关系的争论。《华盛顿邮报》和《卫报》的报道曝光了NSA和英国政府通信总局大规模收集电话呼吁和电子邮件元数据的监控行动。
+➜英国网站和加拿大税务局称黑客利用Heartbleed窃取其数据
+https://www.solidot.org/story?sid=39138	11705
+英国网站Mumsnet称黑客在它修补Heartbleed前利用漏洞窃取了用户密码和个人信息，宣布重置所有密码；而加拿大税务局则声称黑客利用Heartbleed窃取了<a target="_blank" href="http://www.bbc.co.uk/news/technology-27028101"><u>大约900人的社会保险号码</u></a>。它们是首批报告因为漏洞而遭遇损失的网站和机构。Mumsne有150万注册用户，创始人Justine Roberts声称她的用户名和密码被人用于在网站上发布信息，表示黑客随后通知管理员，指出网站的数据并不安全。加拿大税务局在Heartbleed漏洞曝光之后关闭了服务，但在此之前黑客利用漏洞从系统中移除了大约900位纳税人的社会保险号码。
+➜TrueCrypt审计初步显示没有后门或恶意代码
+https://www.solidot.org/story?sid=39139	17651
+iSEC<a target="_blank" href="http://istruecryptauditedyet.com/"><u>公布了</u></a>加密软件TrueCrypt第一阶段的<a target="_blank" href="https://opencryptoaudit.org/reports/"><u>安全审计报告</u></a>，初步分析显示TrueCrypt没有发现含有后门或其它故意加入的恶意代码的证据。TrueCrypt是流行的加密软件，但从未进行过安全审计，在NSA大规模监控活动曝光之后安全研究人员<a target="_blank" href="http://www.solidot.org/story?sid=36837"><u>发起了</u></a>对TrueCrypt的完整安全审计，iSEC负责此次审计。研究人员在代码中发现了一些小的漏洞——例如TrueCrypt使用的迭代次数是1000或2000，不足以保护密码抵抗暴力破解攻击——但没有一个大到足以称之为后门。第一阶段的安全评估重点是TrueCrypt 引导程序和Windows内核驱动等。第二阶段的安全审计将调查TrueCrypt加密套件、随机数生成器和关键密钥算法是否正确实现。
+➜亚洲空气污染或导致台风增强
+https://www.solidot.org/story?sid=39140	18655
+PNAS上发表的一篇<a target="_blank" href="www.pnas.org/cgi/doi/10.1073/pnas.1403364111"><u>研究报告</u></a>称，研究人员<a target="_blank" href="http://phys.org/news/2014-04-asian-air-pollution-affect-pacific.html"><u>首次比较了</u></a>从1850年至2000年的空气污染率，发现空气污染<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/science/2014/04/140415_pollution_storm.shtml"><u>可能影响了亚洲台风</u></a>。研究人员称，来自亚洲，特别是中国的空气污染物进入太平洋上空后与空气中的水分子结合，导致太平洋上空云层的含水量更高。这些污染物颗粒导致太平洋上空形成的云层更高更厚，导致太平洋上空形成更多的高海拔卷云，这种云导致海平面温度上升，从而提供了气旋形成所需的热量。这意味着太平洋上形成的台风比以往更为凶猛，台风携带的雨量也更大。研究人员比较1979年到1988年以及2002年到2011年的气候数据发现，后一个阶段台风强度有明显增加，但风暴的频率和位置并没有发生变化。
+➜Heartbleed漏洞披露时间表
+https://www.solidot.org/story?sid=39141	26442
+《悉尼先驱晨报》<a target="_blank" href="http://www.smh.com.au/it-pro/security-it/heartbleed-disclosure-timeline-who-knew-what-and-when-20140415-zqurk.html"><u>跟踪了</u></a>OpenSSL高危漏洞Heartbleed的整个披露过程：在3月21日前后，Google安全团队的Neel Mehta发现了Heartbleed漏洞，Google的Bodo Moeller和Adam Langley递交了<a target="_blank" href="https://bugzilla.redhat.com/attachment.cgi?id=883475"><u>一个补丁</u></a>，补丁逐步应用到Google在全球的服务器。3月31日，有人将该漏洞告诉了CDN服务商CloudFlare，CloudFlare给OpenSSL打上了补丁。4月1日， Google通知了OpenSSL。4月2日，芬兰安全测试公司Codenomicon 独立（是否真正独立存疑）发现了Heartbleed漏洞。4月3日，Codenomicon通知了芬兰国家网络安全中心。4月4日，另一个主要CDN供应商 Akamai开始给服务器打补丁。有关OpenSSL高危漏洞的流言开始在开源社区流传。4月5日，Codenomicon购买了Heartbleed.com域名。4月6日，Red Hat的一位OpenSSL开发者Mark Cox将Heartbleed漏洞通知了Red Hat。Red Hat的Huzaifa Sidhpurwala当天23点左右向SuSE、Debian、FreeBSD和AltLinux公布了漏洞细节，各大发行版开始忙着打补丁。Sidhpurwala睡觉，没有回应Ubuntu和Gentoo等在凌晨发出的请求。4月7日，漏洞正式对外公布。
+➜微软证实没有更新到Windows 8.1 Update 1的系统将无法获得支持
+https://www.solidot.org/story?sid=39142	27395
+微软上周二（4月8日）发布的<a target="_blank" href="http://windows.microsoft.com/en-us/windows-8/whats-new"><u>Windows 8.1 Update 1</u></a>是强制性更新，如果Windows 8.1没有安装该补丁，微软官方博客<a target="_blank" href="http://blogs.technet.com/b/gladiatormsft/archive/2014/04/12/information-regarding-the-latest-update-for-windows-8-1.aspx"><u>明确表示</u></a>它将不会再支持你的系统，而 Windows 8和Windows 2012用户不受影响。另一方面，有许多用户在微软官方论坛抱怨Windows 8.1 Update 1<a target="_blank" href="http://answers.microsoft.com/en-us/windows/forum/windows8_1-windows_update/windows-81-update-1-failing-to-install-with-errors/c3071122-e903-4775-b659-e98784bc786c"><u>安装失败和报错</u></a>（错误码包括0x80070020、80073712、800F081F、<a target="_blank" href="http://answers.microsoft.com/en-us/windows/forum/windows8_1-windows_install/kb2919355-windows-81-update-fails-800f0092-and/4d4d23a3-695a-4bd4-b340-d2ce9c75919d"><u>800F0092</u></a>和<a target="_blank" href="http://answers.microsoft.com/en-us/windows/forum/windows8_1-windows_update/windows-81-update-kb2919355-error-80070003/06517317-e096-41aa-aca5-523163d50b5a"><u>80070003</u></a>等）。
+➜Google考虑提升HTTPS网站排名
+https://www.solidot.org/story?sid=39143	29577
+Google考虑提升HTTPS网站排名，以推动加密的普及，遏制监视。《华尔街日报》援引知情人士的<a target="_blank" href="http://cn.wsj.com/gb/20140415/tec152248.asp"><u>消息</u></a>称，Google负责在搜索结果中过滤垃圾信息的工程师Matt Cutts在近期一个会议上表示，Google正考虑把那些使用加密技术的网站在搜索结果中的排名往前提。一位知情人士透露，Cutts在私下的谈话中也提到了Google对于作出上述调整的兴趣。该人士说，Google内部关于此事的讨论仍处于初步阶段，任何调整都不会很快出现。正确实现的加密将能阻止NSA等机构对互联网的监视。
+➜Edward Snowden使用的操作系统
+https://www.solidot.org/story?sid=39144	30616
+《连线》<a target="_blank" href="http://www.wired.com/2014/04/tails"><u>披露</u></a>了Edward Snowden用于躲避NSA窥视的匿名操作系统<a target="_blank" href="https://tails.boum.org/"><u>Tails</u></a>。Tails是一个Live操作系统，能安装在光盘、U盘和SD卡上，可以随身携带，需要时直接从光盘、U盘或SD卡启动上网冲浪。它是一个基于Tor的Linux操作系统，启动之后会自动运行Tor，它不向本地系统储存任何数据。Snowden、记者Glenn Greenwald和纪录片制作人Laura Poitras都使用这个操作系统。Poitras称，虽然安装和验证略有麻烦，但一旦设置好之后使用起来是很简单的。Tails由匿名开发者在五年前开发。Snowden泄漏的文件显示，NSA曾在一幻灯片中抱怨Tails。如果Tails对NSA不利，那么这意味着它对隐私保护是有用的，而且Tails所有代码都是开源的，任何人都可以检查。
+➜Google收购无人机制造商Titan Aerospace
+https://www.solidot.org/story?sid=39145	33409
+<div align="center"><img src="http://img.solidot.com.cn/0/199/liyxin3eAQmq2.jpg" align="" height="155" width="560"><br>
+<br>
+</div>
+Google周一<a target="_blank" href="http://www.ftchinese.com/story/001055773"><u>宣布收购</u></a>美国无人机制造商<a target="_blank" href="http://titanaerospace.com/"><u>泰坦航空（Titan Aerospace）</u></a>，收购价格未披露。数周前，Facebook以2000万美元收购英国无人机制造商Ascenta。泰坦航空拥有约20名员工，总部位于新墨西哥州，该公司生产高空无人机，能在空中停留数年。泰坦航空目前正在开发两种无人机，能通过机翼上的太阳能电池板进行充电，可用于监测森林火灾以及从空中拍摄地球视频。Google表示泰坦公司将与<a target="_blank" href="http://www.google.com/loon/"><u>Project Loon</u></a>项目密切合作，该项目主要设计大型高纬度平台气球，为世界偏远地区传送互联网信号。Google发言人表示：“目前合作尚处在初期，但大气卫星可以帮助数百万人接入互联网，并帮助解决其他问题，包括赈灾以及滥砍滥伐等环境灾难。这就是我们为什么会怀着兴奋的心情欢迎泰坦航空加入Google的原因。” <br>
+➜Lucas Nussbaum再次当选为Debian项目领导人
+https://www.solidot.org/story?sid=39146	35320
+Debian社区开发者根据<a href="http://en.wikipedia.org/wiki/Condorcet_method"><u>孔多塞投票法</u></a>从两名候选人Lucas Nussbaum和Neil McGovern中<a target="_blank" href="https://www.debian.org/vote/2014/vote_001"><u>挑选出</u></a>了新一届的项目领导人，Lucas Nussbaum<a target="_blank" href="http://bits.debian.org/2014/04/results-dpl-election.html"><u>再次当选</u></a>。Nussbaum去年首次当选为Debian项目领导人，<span class="fn">他生于1981年，计算机科学博士，目前是法国</span> Lorraine大学助理教授。
+➜百万Android手机面临安全风险
+https://www.solidot.org/story?sid=39147	37105
+安全研究人员发出警告，Heartbleed漏洞不仅仅影响Web服务器，还<a target="_blank" href="http://arstechnica.com/security/2014/04/vicious-heartbleed-bug-bites-millions-of-android-phones-other-devices/"><u>威胁到了数百万Android手机</u></a>。Google安全博客称，只有<span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 4.1.1</span><a target="_blank" href="http://googleonlinesecurity.blogspot.com/2014/04/google-services-updated-to-address.html"><u>受到影响</u></a>，表示补丁信息正分发给合作伙伴。由于<span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 系统更新的复杂性，许多</span><span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 4.1.1用户可能永远不会更新修复</span>Heartbleed漏洞的补丁。但即使没有更新，大部分<span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 4.1.1用户也不会</span><span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">真的</span>受到影响，因为</span><span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 的沙盒机制</span>会阻止恶意应用访问内存内容，而要窃取用户的敏感信息攻击者需要访问内存。不过，<span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Android 4.1.1的安全风险并不能被完全排除。</span>安全专家警告说，攻击者可能对网络连接发动中间人攻击或跨站伪造请求攻击等方法窃取用户的安全凭证，所以使用受影响设备的用户仍然要小心。<br>
+<span style="background-color: transparent; color: black; font-family: inherit; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"></span>
+➜美国认为中国在马航搜索中帮了倒忙
+https://www.solidot.org/story?sid=39148	37776
+本月早些时候，中国官方新华社<a target="_blank" href="http://www.solidot.org/story?sid=39029"><u>披露</u></a>，参与搜索马航失踪客机的海巡01探测到了疑似黑匣子信号，一时间吸引了全世界的目光，中国似乎成为了搜索行动的英雄。新华社发布的照片显示，海巡01船员使用的是用于浅水的手持式水听器，中方说法的可信度遭到了怀疑。几天后，这一说法就被抛弃，搜救的注意力重新转向几百英里外一艘澳大利亚船只上的美国人员记录的另一组信号。《纽约时报》称，中国的声明还是使美国及其他参与国家的一些官员<a target="_blank" href="http://cn.nytimes.com/asia-pacific/20140415/c15search/"><u>暗地非常愤怒</u></a>。据官员及分析人士透露，中国的声明可能只是意在展现自身能力的一系列举措之一，到头来却干扰并耽搁了搜索行动。五角大楼的一名匿名高级官员表示，大家都想找到飞机，但虚假线索拖慢了调查工作的进程。
+➜如何在僵尸末世计算π值
+https://www.solidot.org/story?sid=39149	40711
+<div align="center"><img src="http://img.solidot.com.cn/0/203/livMe1grktQMQ.gif" align=""><br>
+<br>
+</div>
+想象一下文明的终结，僵尸占领地球，所有获取现代技术的方式都不再存在。少数幸存者突然需要知道π的值，作为一名数学家，他们向你求助。你会怎么做？加拿大蒙特利尔大学的Vincent Dumoulin和Félix Thouin<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/c1eb776193ef"><u>想出了在末世计算π近似值的方法</u></a>：用Mossberg 500霰弹枪向20米外的正方形铝靶反复射击，计算落点分布。两位数学家相信在僵尸末世霰弹枪很常见。计算方法很简单，假设正方形边长为1，在两个对角画一条弧线（如图所示）形成一个四分之一圆，其面积为π/4。然后数数落在四分之一圆的弹孔数量和正方形上的全部弹孔数量，两者的比例就是四分之一圆和正方形面积的估计比例——即π/4，再乘以4就等于π。这一计算方法叫<a target="_blank" href="http://en.wikipedia.org/wiki/Monte_Carlo_method"><u>蒙特卡洛近似</u></a>。通过射击和数数，他们计算出π的值是3.131，误差为0.33%。
+➜科学家演示基于DNA的生物机器人
+https://www.solidot.org/story?sid=39150	41782
+以色列巴伊兰大学研究人员成功地用DNA链造出了<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201404/t20140415_4090585.shtml"><u>一种纳米机器人</u></a>，它们能在活蟑螂体内按照编制的程序执行逻辑操作。<a target="_blank" href="http://www.nature.com/nnano/journal/vaop/ncurrent/full/nnano.2014.58.html"><u>论文</u></a>（摘要）发表在《自然·纳米技术》上。研究人员先把DNA双螺旋链解开，再按折叠纸盒的方式把它们连接在一起，然后在这种“DNA盒子”里装入一种化学分子，作为一种中继开关。接着再制作其它结构的“零件”，让“零件”能跟“盒子”反应，又能跟蟑螂体内的某些特殊蛋白质反应。研究人员报告，实验的运行正像预先设想的那样：“DNA盒子”打开与否取决于注入蟑螂体内的整体纳米机器人“舰队”的设计。他们演示了多种逻辑门，包括AND、OR、XOR、NAND、NOT、CNOT和half adder。研究小组认为，在今后5年内，人们就可能造出用于人体实验的纳米机器人计算机。
+➜BBC曝光伦敦被盗手机黑市
+https://www.solidot.org/story?sid=39151	43734
+BBC的秘密调查<a target="_blank" href="http://www.bbc.com/news/uk-england-london-26979061"><u>曝光了伦敦的被盗手机交易黑市</u></a>。2013年伦敦有超过3万部手机失窃。秘密调查员拍下了两家商店收购偷来的三星S3和苹果iPhone 4手机的画面——尽管调查员清楚表明他是小偷。在其中一家商店，调查员告诉店员，他不是买手机，而是偷手机出售，店员虽然确定手机是偷来的但没有中止交易，仍然向“小偷”提供现金交换手机，甚至还指出了避免被捕的技巧——关闭手机防止被跟踪。
+➜NASA准备展开同卵双胞胎太空实验
+https://www.solidot.org/story?sid=39152	45747
+有一对同卵双胞胎，其中一位成为了宇航员，准备搭乘火箭去国际空间站呆一年；另一位也是宇航员，但他准备在家中呆上一年。一年之后，他们重新在地面上团聚，他们还会相同吗？<a target="_blank" href="http://phys.org/news/2014-04-nasa-unprecedented-twin.html"><u>NASA想知道答案</u></a>。2015年3月，宇航员 Scott Kelly将和Mikhail Kornienko在空间站驻扎一年，探索长期太空飞行对人体的影响。Scott的双胞胎兄弟 Mark已退休，他将作为参照对象，研究太空飞行的影响。Scott和Mark将进行多项实验，如：将注射相同的流感疫苗，观察免疫系统的反应，在太空中人类免疫系统的变化没有地面强；观察端粒变化，端粒是染色体末端结构，与细胞老化有关，在太空中，由于宇宙射线的影响，端粒损失可能会加剧，比较双胞胎的端粒变化将能告诉研究人员太空辐射是否会加速老化太空旅行者；太空旅行如何影响人体内脏细菌；太空飞行如何影响视力；等等。
+➜追求利益为入党的首要动机
+https://www.solidot.org/story?sid=39153	45924
+<a href="/~wmr">wmr</a> 写道<i> "
+为了防止另一场抗议运动，CCP不通过选举，而是<a target="_blank" href="http://journals.cambridge.org/abstract_S0305741013001434">通过在高校中招募新党员寻求支持的基础</a>。文革时，它倾向于招募工农兵，但现在倾向于年轻、高教育程度的城里人。1990年，高校中的党员比例低于1%，但在新世纪初情况发生了改变。
+</i>
+<p>
+</p>
+<i>
+</i>
+<p><i>根据不同年龄人口的自我报告，<b>利益</b>日益突出地成为人们入党的动机，而年长者更因为<a target="_blank" href="http://www.solidot.org/story?sid=30020">政治和意识形态动机</a>。但是也应注意，即使是年龄最小的群体，也将“为人民服务”作为入党的动机之一。</i></p>
+<i>
+</i>
+<p>
+</p>
+<i>
+很多雇主将入党看作一种筛选程序，因此党员会成为更可靠的雇员。在难就业的今天，党员身份成为提高职业预期的重要凭证。在同一领域中，党员的收入高于群众。对于想在党政机关、国有企业（教育、银行）工作的年轻人，党员身份很重要，甚至要高于教育。但在非国有职位中，虽然有62%的雇主报告更倾向于雇佣党员，但在调查中并不重要，有.06的微弱相关性。
+</i>
+<p>
+</p>
+<i>
+</i>
+<p>
+</p>
+<i>
+数据显示，党员更有可能奉献时间、金钱、血液、参加当地人代会选举投票。这些行为不是主动的，而主要是党为让他们显示忠诚、给群众做示范而要求的。由调查支持的传统观点认为，入党是提高工作机会的实用主义行为。这为党员招募者面临困境：如何令为找工作的入党积极分子政治忠诚？他们要求入党积极分子上党课、参加党史和道德考试、当志愿者。
+</i>
+<p>
+</p>
+<i>
+</i>
+<p>
+</p>
+<i>
+CPC也限制党员的数量，它并没有给高校设立入党人数的目标，而是设定了限额。2010年，清华大学有55%的本科生都是党员。相对于顶尖大学，普通大学的比例小些，这显示了党希望招募精英加入的愿望。
+</i>
+<p>
+</p>
+<i>
+</i>
+<p>
+</p>
+<i>
+但是，入党并不保证对国家的完全支持。尽管党员对于中央的支持高于群众，对地方政府的支持并不高于群众。
+<p>
+</p>
+</i>

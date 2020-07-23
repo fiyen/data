@@ -1,0 +1,16 @@
+➜360以评测标准落后为由宣布退出国际安全评测
+https://www.solidot.org/story?sid=43923	30557
+<div align="center"><img src="http://img.solidot.com.cn/0/212/liTUS5ium4SPc.jpg" align=""><br>
+<br>
+</div>
+在奇虎360被发现有作弊行为之后，三大评测机构Virus Bulletin、Av-Comparatives和AV-Test发表联合声明<a target="_blank" href="http://www.solidot.org/story?sid=43918"><u>宣布取消3</u></a>60的评测奖项。虽然评测奖项已被取消，但在<a target="_blank" href="http://360.cn/"><u>360官网</u></a>，
+AV-Test的评测结果仍在头版位置展示（如图所示）。360发表了<a target="_blank" href="http://bbs.360safe.com/forum.php?mod=viewthread&amp;tid=5702036&amp;highlight=AV-C"><u>最新声明</u></a>，宣布退出杀毒评测，用阴谋论和标准落伍指责这些评测机构。声明称，“此次事件分歧是传统杀毒与云安全的评测标准之争...根本不认同云安全软件根据不同国家、不同地区配置更适应当地用户需求的引擎和云查杀防护策略；360免费安全国际化触动传统杀毒行业利益；AV-C传统评测标准远离用户真实需求...我们相信，最终的裁判是用户。”360副总裁曲晓东在接受媒体采访时<a target="_blank" href="http://auto.gmw.cn/newspaper/2015-05/03/content_106344474.htm"><u>表示</u></a>，360的确在送测的版本中开启了bitdefender引擎关闭了qvm引擎，而这样做的目的是为了满足av-c僵化甚至是落后于时代发展的评测标准。如果360用在国内的恶意软件判断标准去国外接受评测，那有些时候会被认为是误报，有时会被认为是漏报，对成绩会有很大影响。官方媒体认为，“国外评测机构向中国安全厂商发难，其背后则是国外安全企业对中国厂商的打压，同时也凸显出了中国在杀软评测领域缺乏话语权的现状。国家互联网应急中心处长周勇林表示，多年前，360安全软件免费策略出台后，的确刺激和促进了杀软市场的改革与竞争，受益最大的是中国的网民。”
+➜波音787被发现包含一个潜在具有灾难性的软件bug
+https://www.solidot.org/story?sid=43924	33463
+美国联邦航空管理局（FAA）向航空公司发出警告，波音787客机<a target="_blank" href="http://arstechnica.com/information-technology/2015/05/01/boeing-787-dreamliners-contain-a-potentially-catastrophic-software-bug/"><u>被发现包含了</u></a>一个潜在导致飞行员对飞机失去控制的软件bug。该bug类似经典的整数溢出bug，与发电机控制单元相关，在持续提供电力248天之后，发电机控制单元相关的内部计数器将会溢出，飞机会失去所有的交流电力，可能导致失去对飞机的控制。FAA发出了新的适航指令，要求航空公司等待软件bug修正。波音公司正在开发发电机控制单元的升级软件。根据248天这个触发条件，程序员们推测这是一个32位整数溢出bug：2^31厘秒等于248.55天。
+➜前高盛程序员再次被定罪偷窃高频交易代码
+https://www.solidot.org/story?sid=43925	36278
+前高盛程序员Sergey Aleynikov于2009年辞职加盟了一家高频交易创业公司，他因为在公司将一个软件下载到家用电脑和上传到一个软件库内——根据《Flash Boys》一书所述，该软件其实修改自开源软件——被FBI逮捕，被控偷窃公司机密。2010年，他被定罪；2012年上诉法院推翻了有罪判决，认为他没有违反联邦的盗窃财物法。但在2012年，他又再次被逮捕，这次是在纽约州法院，检察官指控他拷贝了高盛的“秘密武器”。本周五，陪审团<a target="_blank" href="http://www.nytimes.com/2015/05/02/business/dealbook/ex-goldman-programmer-found-guilty.html"><u>裁决他有罪</u></a>，他将面临最高4年的徒刑。
+➜Google演示Dart on Android
+https://www.solidot.org/story?sid=43926	54291
+Google开发者<a target="_blank" href="http://arstechnica.com/gadgets/2015/05/01/googles-dart-language-on-android-aims-for-java-free-120-fps-apps/"><u>尝试了</u></a>用Dart语言为Android 开发应用。Dart是Google开发的Web开发语言。Dart开发的Android应用没有使用Java，它关注的重点是速度，与Web深度集成。被称为<a target="_blank" href="https://github.com/domokit/sky_sdk"><u>Sky</u></a>的Dart on Android项目已在Apache许可证下公开了代码，源代码托管在GitHub上，<a target="_blank" href="https://play.google.com/store/apps/details?id=org.domokit.sky.demo"><u>Demo</u></a>发布在Play商店。Sky设计能最高以120FPS的速率渲染整个框架。乍听起来不太可能，因为标准的智能手机显示屏是 60Hz，而绝大多数应用连60FPS都达不到，更不用说120FPS了。Dart应用像网站一样工作，大部分功能是通过HTTP提供的，简化了开发，缺点是在离线的情况下它就不能工作了。

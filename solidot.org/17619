@@ -1,0 +1,46 @@
+➜Facebook 关闭 Partner Categories，暂停应用评估
+https://www.solidot.org/story?sid=55972	12252
+为应对数据泄露丑闻和挽回用户的信任，Facebook 做出了一系列改变，包括<a href="https://techcrunch.com/2018/03/28/facebook-will-cut-off-access-to-third-party-data-for-ad-targeting/" target="_blank"><u>终止了</u></a> Partner Categories 项目，放弃了将第三方数据用于发布定向广告；<a href="https://developers.facebook.com/blog/post/2018/03/26/facebook-platform-changes/" target="_blank">暂停了应用评估</a>，将减少应用对用户数据的访问；将创建一个用户可以查看其共享数据的枢纽，使隐私设置更加清晰。社交巨人<a href="http://www.ftchinese.com/story/001076944" target="_blank"><u>表示</u></a>，这些设置（包括那些允许第三方开发者访问用户数据的设置）将被集中起来，把目前分布在平台内约 20 个页面的信息汇集到一起。Facebook 还将让用户更容易看到公司持有的有关他们的所有数据，允许个人按类别浏览数据，而不是通过旧的下载工具，一下子倾倒大量数据。
+➜Qubes OS 4.0 释出
+https://www.solidot.org/story?sid=55973	13296
+安全桌面操作系统 Qubes OS <a href="https://www.qubes-os.org/news/2018/03/28/qubes-40/" target="_blank"><u>发布了</u></a> 4.0 的正式版本。Qubes 的每一个应用程序都运行在各自的沙盒中，一个程序有安全漏洞不会影响到其它程序。新版的主要变化包括：完全重写了 Qubes Core Stack，新的 Qubes Core Stack v3 允许开发者更容易扩展架构，能提供旧架构上难以提供的功能，新的 Qubes Admin API，简化了一次性 VM 的定制和灵活性；更灵活更达意的策略定义，灵活的 VM 卷管理器；简化了 Qubes 特定应用和服务的开发；更好的隔离全虚拟化的 VM；重写了 UX/UI；更安全的备份；重写了命令行工具，等等。
+➜开源免专利费 AV1 编码器释出
+https://www.solidot.org/story?sid=55974	17027
+Alliance for Open Media <a href="https://aomedia.org/the-alliance-for-open-media-kickstarts-video-innovation-era-with-av1-release/" target="_blank"><u>释出了</u></a>开源的免专利费 AOMedia Video Codec 1.0 (AV1) 规范，<a href="https://aomedia.googlesource.com/" target="_blank"><u>代码</u></a>托管在 Googlesource 上。独立测试显示，AV1 编码的 4K UHD 视频压缩率比竞争的编码器平均高出 30%。编码器包含了大量的专利，专利持有者们都同意免除专利授权费用。AV1 包括了 Bitstream 规格，未优化的实验性软件编解码器，产品验证的参考流，允许内容创作和流工具的具有约束力的规范。AOMedia 由亚马逊、ARM、思科、Facebook、Google、英特尔、英伟达、Mozilla、 Netflix、微软、Adobe、AMD、苹果等著名科技公司组建。
+➜库克称苹果的消费者不是产品
+https://www.solidot.org/story?sid=55975	18233
+苹果 CEO 库克（Tim Cook）接受采访时称<a href="https://www.recode.net/2018/3/28/17172212/apple-facebook-revolution-tim-cook-interview-privacy-data-mark-zuckerberg" target="_blank"><u>苹果的消费者不是产品</u></a>，不同于 Google 和 Facebook 的商业模式。
+在剑桥分析公司被曝非法利用 Facebook 的数千万用户数据之后，库克表示，硅谷尤其 Facebook，应该更谨慎的处理用户数据。他说，最好的监管是没有监管，是自我监管。但现在自我监管已经无能为力，库克呼吁制定隐私规范。他重申了他与前 CEO 乔布斯以前阐述的观点，苹果的商业模式不同于 Google 和 Facebook 等科技公司，靠得是销售物理产品而不是获取用户数据。他说，苹果从来不相信将多个来源的用户详细信息组合起来的做法应该存在。如果苹果的客户是产品，那么他们也可以将客户货币化从而获取大量的收入，但苹果选择不这么做。
+➜哈勃发现首个没有暗物质的星系
+https://www.solidot.org/story?sid=55976	20160
+一个国际天文学家团队在《自然》期刊上发表<a href="https://www.nature.com/articles/nature25767" target="_blank"><u>论文</u></a>，报告发现了首个没<a href="http://www.spacetelescope.org/news/heic1806/" target="_blank"><u>有暗物质的星系</u></a>。研究人员使用了 NASA /ESA 的哈勃和多个地面天文台发现星系 NGC 1052-DF2 几乎没有暗物质，挑战了广泛接受的星系形成理论，为暗物质的性质提供了新的见解。NGC 1052-DF2 被分类为超稀疏星系，比银河系更大，但包含的恒星数量不到银河系的 1/250。领导这项研究的耶鲁大学研究员 Pieter van Dokkum 说，这个星系是如此稀疏以至于你能看到它后面的星系，它从字面意义上说是透明的。NGC 1052-DF2 包含了很少的或几乎没有暗物质。
+➜WebRTC  bug 泄漏 VPN 用户的真实 IP
+https://www.solidot.org/story?sid=55977	27756
+安全研究员 Paolo Stagno 测试<a href="https://voidsec.com/vpn-leak/" target="_blank"><u>显示</u></a>，23% 的 VPN 方案仍然会受到 2015 年 1 月披露的一个 WebRTC bug 的影响，泄漏客户的真实 IP。WebRTC 是一个为浏览器和移动应用提供实时通信功能的开源方案，被现代浏览器如 Brave、Firefox、Chrome、Opera 和 Vivaldi 等默认启用（Tor 浏览器默认禁用）。他编辑了<a href="https://docs.google.com/spreadsheets/d/1Nm7mxfFvmdn-3Az-BtE5O0BIdbJiIAWUnkoAF_v_0ug/edit#gid=0" target="_blank"><u>一个电子表格</u></a>，记录了约 200 种 VPN 和代理服务的 IP 泄漏情况（许多记录是网友提供的）。他还发布了一个 <a href="http://ip.voidsec.com/" target="_blank">POC</a>，让用户自己检查 VPN 的 IP 泄漏。他给出的权宜之计是禁用 WebRTC 和  JavaScript（或部分 js 功能）。
+➜为保护美国的国家安全，FCC 将限制中国技术
+https://www.solidot.org/story?sid=55978	28332
+美国联邦通信委员会（FCC）<a href="https://arstechnica.com/tech-policy/2018/03/fcc-says-it-will-block-chinese-technology-to-protect-national-security/" target="_blank"><u>计划禁止</u></a>得到 Universal Service Fund 基金拨款的企业和机构购买中国供应商的设备和服务。根据美国国会 2012 年的一份报告，中国通信设备供应商华为和中兴因为与政府关系密切，其产品或服务被视为是美国的长期安全风险。华为和中兴的产品包括了智能手机，消费级和企业级网络设备。FCC 主席 Ajit Pai 上周表示该机构没有使用华为或中兴的产品。Pai 称，路由器、网关和其它任何类型通信设备中隐藏的后门将为敌对的政府提供一个途径去植入病毒、发动拒绝访问攻击和窃取数据等。
+➜波音遭到勒索软件 WannaCry 攻击
+https://www.solidot.org/story?sid=55979	29362
+波音周三<a href="https://www.seattletimes.com/business/boeing-aerospace/boeing-hit-by-wannacry-virus-fears-it-could-cripple-some-jet-production/" target="_blank"><u>遭到勒索软件 WannaCry 的攻击</u></a>，这家航空巨头晚些时候表示攻击对飞机生产几乎没有影响。波音商用飞机的通信主管 Linda Mills 称，漏洞只存在于少量机器，他们已经部署了软件补丁，波音 777 和其它型号飞机的生产没有中断。WannaCry 利用了 Windows 的漏洞入侵网络，加密机器进行勒索，微软早在去年就已经释出了相关补丁，而安全研究人员也部署了勒索软件的“关闭开关”阻止其扩散。此次对波音的攻击可能使用了新版的 WannaCry。
+➜90% 的 Windows 10 机器更新到 1709
+https://www.solidot.org/story?sid=55980	30047
+根据 AdDuplex 的最新<a href="http://reports.adduplex.com/reports/2018-03/" target="_blank"><u>数据</u></a>，超过 90% 的 Windows 10 机器更新到了 Fall Creators Update（即 version 1709）。这一更新速度比之前几个大更新版本要快得多。而微软正准备释出最新的更新 version 1803，软件巨人刚向测试者释出了 <a href="https://blogs.windows.com/windowsexperience/2018/03/27/announcing-windows-10-insider-preview-build-17133-for-fast/" target="_blank">build 17133</a>，而这个版本被认为就是 1803 的 RTM 版本。通过 Windows 10，微软引入了 Windows-as-a-Service，每半年释出一个大更新版本。
+➜Drupal 发出高危漏洞警告
+https://www.solidot.org/story?sid=55981	32018
+流行的开源内容管理系统 Drupal 发布了<a href="https://groups.drupal.org/security/faq-2018-002" target="_blank"><u>一则高危漏洞警告</u></a>，基本上所有的 Drupal 网站或超过 100 万网站受到影响。公告称，Drupal 7.x 和 8.x 的多个子系统内发现了一个远程代码执行漏洞，允许攻击者在 Drupal 网站利用多个攻击向量，可能导致网站被完全入侵。开发者在 <a href="https://groups.drupal.org/security/faq-2018-002" target="_blank"><u>FAQ</u></a> 中称，利用该漏洞的的难度几乎为零，攻击者能利用漏洞访问所有非公开数据。对于无法升级的用户，开发者建议暂时用静态网页替代，表示暂时还没有发现漏洞利用。Drupal 的<a href="5ac8738fa69df34a0635f0907d661b509ff9a28f" target="_blank"><u>补丁</u></a>被发现只是限制使用字符“#”。
+➜厄瓜多尔切断 Julian Assange 的对外通信
+https://www.solidot.org/story?sid=55982	34501
+厄瓜多尔政府周三<a href="https://yro.slashdot.org/story/18/03/28/179204/ecuador-cutting-off-wikileaks-founder-julian-assanges-communications-outside-london-embassy" target="_blank"><u>宣布</u></a>，其伦敦大使馆切断了 Wikileaks 创始人 Julian Assange 的互联网访问，称原因是他的行为危及到了该国的国际关系。厄瓜多尔在声明中指出，Assange 未能遵守双方达成的协议，即不要干涉该国与其他国家的关系。46 岁的 Assange 自 2012 年起一直在厄瓜多尔驻伦敦大使馆避难。这不是厄瓜多尔第一次切断 Assange 的互联网访问。Assange 此前在 Twitter 上非常活跃。
+➜61% 的入门级工作需要三年工作经验
+https://www.solidot.org/story?sid=55983	41435
+一个入门级工作号称非常适合应届生，但它同时还有一个附加条件：三年工作经验。这就像是第二十二条军规，一个刚毕业的学生怎么可能有三年工作经验？如果他们不能获得工作又怎么能有工作经验？对随机取样的 95,363 个招聘职位的分析发现，61% 的入门级工作<a href="https://talent.works/blog/2018/03/28/the-science-of-the-job-search-part-iii-61-of-entry-level-jobs-require-3-years-of-experience/" target="_blank"><u>需要三年及以上工作经验</u></a>。分析还发现，工作经验的时长每年增加 2.8%，如果你有小弟或小妹，等他们工作的时候将需要 4 年工作经验才能获得第一份工作。分析还发现，成功应聘还需要在应聘要求上加上两年工作经验。3、5 和 8&nbsp; 是个神奇的数字，如果你有 5+ 年工作经验，你将有资格应聘中级工作职位，而 8 年则有资格应聘高级职位。如果你的工作经验低于 3 年，那么绝大多数工作岗位你将没有资格应聘；如果你的年龄超过 35 岁，那么每过一年你的可雇佣率将下降 8%，也就是说 10 年以上的工作经验并不能帮助你找到工作，企业也很少招聘有 10 年工作经验的人，这不是什么巧合。
+➜Lytro 宣布关闭
+https://www.solidot.org/story?sid=55984	44240
+光场照相机制造商 Lytro 正式<a href="https://support.lytro.com/hc/en-us/articles/360001773952/" target="_blank">宣布关闭</a>，但与流言不同的是整家公司看起来并没有被 Google 收购。Lytro 的光场照相机利用由 CMOS 传感器构成的阵列，记录整个场景中的光线颜色、强度和方向，这些光线聚合形成了场景的光场，允许用户在拍照后对焦。但这款产品没能在市场上取得立足之地，价格昂贵加上相机像素较低阻碍了产品的接受度。The Verge 援引知情人士的消息<a href="https://www.theverge.com/2018/3/27/17166038/lytro-light-field-camera-company-shuts-down-google-hiring" target="_blank"><u>报道</u></a>称，Google 收购了大部分的 Lytro 资产，但没有计划继续 Lytro 的项目或将其技术整合到现有项目，而 Lytro 的大部分雇员将分散到 Google 的不同部门。
+➜在中国老年人和穷人成为互联网公司争取的对象
+https://www.solidot.org/story?sid=55985	45743
+中国年轻的互联网行业正面临一个市场成熟的问题：即时通讯、搜索、在线新闻和视频等流行在线服务的用户增长率已降至个位数。2014 年以来，网民人数的年增长在 5% 到 6%，只略高于成熟经济体。但与发达市场不同的是，一大部分中国人并没有上网。随着他们逐渐使用网络，他们将创造一个大公司<a href="https://www.wsj.com/articles/forget-millennials-the-internets-most-wanted-users-are-olderand-poorer-1521737131" target="_blank"><u>可利用的巨大市场</u></a>（付费墙，或 FB <a href="https://www.facebook.com/flx/warn/?u=https://www.wsj.com/articles/forget-millennials-the-internets-most-wanted-users-are-olderand-poorer-1521737131" target="_blank"><u>链接</u></a>）。风投公司 Sinovation Ventures 的合伙人 Wang Hua 在一次演讲中表示，中国互联网正经历第三波人口红利，第一波是早期使用者，而第二波是大城市的年轻人。中国 14 亿人口中有大约一半（7.72 亿）是网民，剩下的这一半就是第三波人口红利。这群人通常负责家庭的日常消费，他们将对电子商务和其它新商业模式产生重要影响。当然这群人<a href="https://tech.slashdot.org/story/18/03/27/1934200/forget-millennials-the-internets-most-wanted-users-are-older----and-poorer" target="_blank"><u>显然不会使用</u></a>外国的互联网服务。
+➜亚洲富人给龙鱼做整形
+https://www.solidot.org/story?sid=55986	46763
+<a href="https://zh.wikipedia.org/wiki/%E9%AA%A8%E8%88%8C%E9%B1%BC%E7%A7%91" target="_blank"><u>龙鱼</u></a>（骨舌鱼科），顾名思义，因为它长得像中国神话里的龙而成为非常受欢迎的一种观赏鱼，还随之出现了<a href="https://cn.nytimes.com/asia-pacific/20180329/singapore-fish-plastic-surgery/" target="_blank"><u>给龙鱼整形的行业</u></a>，使其看起来更起来威风凛凛。对这种鱼的狂热一度达到了疯狂的地步，甚至在新加坡这个犯罪率极低、连一个包裹被盗都能成为头条新闻的地方，一周内发生了四起龙鱼抢劫案。亚洲龙鱼如今的显赫地位源于它命运的一次突然逆转。半个世纪前，在婆罗洲和印度尼西亚的龙鱼天然沼泽栖息地，当地人把它视为一种常见的食用鱼，而且是一种肉少、味道寡淡的鱼。专家们表示，龙鱼命运的转折点出现在 1975 年。当年，在 183 个国家签署的《濒危野生动植物种国际贸易公约》中，龙鱼被列入国际贸易禁运名单。有人说，该公约将龙鱼归入稀有物种，从而提高了它的地位，让它成了一种奢侈品。禁令颁布后，龙鱼的黑市交易开始兴旺起来。后来限制放宽允许人工养殖的鱼交易。

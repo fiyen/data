@@ -1,0 +1,48 @@
+➜微软起诉美国政府，要求宣布秘密法庭命令违宪
+https://www.solidot.org/story?sid=47863	10555
+微软<a target="_blank" href="http://blogs.microsoft.com/on-the-issues/2016/04/14/keeping-secrecy-exception-not-rule-issue-consumers-businesses/"><u>起诉美国司法部</u></a>，请求联邦法官宣布秘密法庭命令违反了美国宪法。秘密法庭命令允许执法人员向科技公司索要用户数据，禁止企业通知相关调查者。微软针对的是电子通讯隐私法第2705(b)条，认为模糊的封口令侵犯了宪法第一修正案的权利，藐视了宪法第四修正案，第四修正案旨在限制政府非法收集证据，要求政府在搜索或扣押当事人的财产时通知对方。<a target="_blank" href="http://cn.wsj.com/gb/20160415/tec075603.asp"><u>微软在诉讼中称</u></a>，在过去18个月共收到5624条联邦政府索要客户信息的命令，其中近一半（2576条）的命令阻止该公司向客户透露有关政府正在检查他们的数据的信息。尽管微软总是服从具有法律约束力的命令，但该公司表示，有1752项秘密检查令没有时间期限，因此该公司可能永远无法告知用户政府获得了他们的数字资料。
+➜男子不小心用一行代码删除了他的公司
+https://www.solidot.org/story?sid=47864	12684
+Marco Marsala于4月10日在serverfault论坛发帖<a target="_blank" href="http://serverfault.com/questions/769357/recovering-from-a-rm-rf"><u>请求帮助</u></a>，他表示自己经营了一家托管服务公司，有1535位客户，使用Ansible配置和管理工具去管理服务器。4月9日晚上，他不小心在所有服务器上执行了一个Bash脚本，因为代码存在bug他的rm -rf命令删除了所有服务器文件，包括刚刚挂载的远程存储里的备份文件。他询问他还有救吗？rm -rf是一个非常著名的命令，不时会传出有人用该命令不小心清空数据的消息，但恐怕没有人能像这位那样用该命令<a target="_blank" href="https://developers.slashdot.org/story/16/04/14/1542246/man-deletes-his-entire-company-with-one-line-of-bad-code"><u>事实上删除了整个公司</u></a>。只要不重新写入数据，rm -rf删除的数据是仍然能恢复的。
+➜紫光购买莱迪思半导体6%的股份
+https://www.solidot.org/story?sid=47865	13420
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20160415/tec112445.asp"><u>报道</u></a>，肩负发展中国半导体产业重任的国企紫光集团再次进军美国，其之前的尝试均遇挫折。它通过在公开市场购买股票，已持有莱迪思半导体(Lattice)6%股份。莱迪思生产低功耗可编程芯片，可以进行自定义设置，在数据中心和通信网络等高科技系统上运行，也可以用作军事用途。对紫光集团而言，购买莱迪思股票的举措似乎是在试探，在不触犯美国海外投资委员会国家安全规定的情况下，小额投资是否会被允许。如果该委员会认为存在威胁，交易将被禁止。紫光董事长赵伟国称，他预计上述投资不需要接受审核，因为股份购买规模较小，而且紫光集团并不能接触莱迪思的技术。
+➜Visual Studio Code 1.0发布
+https://www.solidot.org/story?sid=47866	13638
+<div align="center"><img src="http://img.solidot.org/0/477/linIMFY8843fo.png" align="" width="400" height="269"><br>
+</div>
+<br>
+微软宣布Visual Studio Code 1.0<a target="_blank" href="http://code.visualstudio.com/blogs/2016/04/14/vscode-1.0"><u>正式释出</u></a>。Visual Studio Code是基于 Chromium的开源跨平台代码编辑器，<a target="_blank" href="https://github.com/microsoft/vscode"><u>源码</u></a>托管在Github上，采用的是MIT许可证。微软同时宣布，VS Code的活跃用户数量突破了50万。微软称，VS Code最初是设计让开发者用 JavaScript和TypeScript创建Web应用，但在支持扩展之后社区志愿者为VS Code开发了超过1000个扩展，现在编辑器支持几乎所有的语言或运行时。VS Code现在支持<a target="_blank" href="http://code.visualstudio.com/docs/customization/locales"><u>9种语言</u></a>，包括法语、德语、日语、韩语、简体中文和繁体中文。
+➜苹果停止为Windows版QuickTime提供安全补丁
+https://www.solidot.org/story?sid=47867	17489
+如果你的Windows电脑安装了QuickTime，是时候将其卸载了。从今年1月以来，苹果没有向Windows版QuickTime释出任何更新，而至少有2个漏洞正威胁着用户。趋势科技的安全研究人员在官方博客上<a target="_blank" href="http://blog.trendmicro.com/urgent-call-action-uninstall-quicktime-windows-today/"><u>指出</u></a>，未来它将不会收到任何安全修正。研究人员建议用户尽可能快的卸载QuickTime。苹果正在淘汰Windows版QuickTime，QuickTime也没有正式支持Windows 8 或10，今年一月的更新则移除了QuickTime的浏览器插件。Ars<a target="_blank" href="http://arstechnica.com/security/2016/04/apple-stops-patching-quicktime-for-windows-despite-2-active-vulnerabilities/"><u>认为</u></a>苹果应该礼貌的通知Windows用户该应用被终止支持。
+➜安全研究人员报告针对特定用户的间谍软件黑暗幽灵
+https://www.solidot.org/story?sid=47868	26536
+腾讯安全研究人员<a target="_blank" href="http://www.freebuf.com/articles/system/101447.html"><u>报告了一个针对特定目标的间谍软件</u></a>。该恶意程序被称为黑暗幽灵，调试信息里发现了一个叫DCM的代号，不知其代表什么，目前尚未搜索到的国外相关研究报告。研究人员称，木马是通过劫持软件通过HTTP传输的自动更新去悄悄安装到受害者的电脑上，目的是搜集情报。木马作者很可能有政府背景。中国许多软件的自动更新没有使用HTTPS加密而是直接使用HTTP传输，为嗅探网络的攻击者创造了劫持的便利条件。在劫持了更新程序后，木马会检查电脑是否安装了安全软件，对不同安全软件执行不同的安装方式，以绕过检测和拦截。其中最有意思的功能是它能调用安全软件自身的接口将其加入白名单。安装之后，木马会尝试利用本地提权漏洞获得管理员权限，它的功能包括监控监听大量的聊天软件，收集网络访问记录、监控Gmail、截取屏幕、监控麦克风和摄像头等。它监控的软件包括Skype、QQ、阿里旺旺、YY语音、MSN、腾讯通（腾讯的企业通讯软件）、RaidCall。当监视到浏览器窗口中含有Gmail字符时，木马会加载相关插件，尝试通过邮件协议IMAP下载Gmail服务器上的所有文件。当收集到情报之后，木马会将数据封装成固定包头的DNS协议包，发送到www.baidu.com、www.sina.com、www.163.com域名所在服务器的53端口或者8000端口。也就是说，攻击者要想获取这些数据包，必须在数据包从本地计算机到这些网站服务器的必经之路上进行劫持嗅探。
+➜法官裁决飞天面条教不是真正的宗教
+https://www.solidot.org/story?sid=47869	29753
+内布拉斯加州囚犯Stephen Cavanaugh在2014年起诉该州惩教服务部门和监狱官员，理由是他被拒绝行使崇拜飞天面条怪物的权利，他的宗教信仰遭到了轻视，没有得到与其他宗教信徒相同的权利。他要求赔偿500万美元，请求法庭下令给予飞天面条教信徒和其他宗教信徒相等的权利和特权。联邦地区法院法官John Gerrard<a target="_blank" href="http://arstechnica.com/tech-policy/2016/04/pastafarianism-is-satire-and-not-protected-religion-court-rules/"><u>驳回了他的诉讼</u></a>，理由是飞天面条教不是受宪法保护的真正宗教，而是恶搞，讽刺智能设计。法官认为，飞天面条教确实包含了一些严肃的观点，但这并不意味着它有权作为宗教得到保护。法官还在<a target="_blank" href="http://arstechnica.com/wp-content/uploads/2016/04/pastasuit.pdf"><u>判决书</u></a>（PDF）中描述了飞天面条教诞生的背景。
+➜苹果可能考虑用MacOS替代OS X
+https://www.solidot.org/story?sid=47870	30546
+苹果昨天在其官网的<a target="_blank" href="http://www.apple.com/environment/answers/"><u>一个页面</u></a>中使用了一个不同的名字MacOS去称呼它的桌面操作系统。但被媒体报道之后，它删除了MacOS<a target="_blank" href="http://arstechnica.com/apple/2016/04/signs-point-to-apple-abandoning-os-x-branding-in-favor-of-macos/"><u>继续使用旧名OS X</u></a>。此事显示苹果可能在考虑改变它的Mac桌面操作系统的品牌名称。苹果目前有多个操作系统名称：iPhone上运行的 iOS，苹果TV运行的tvOS，手表上运行的watchOS，以及Mac电脑上运行的OS X，其中OS X的命名与设备名字没有明显的关联性。Mac操作系统经历过名称上的改变，在2001年前操作系统名称是Mac OS，最后一个版本是Mac OS 9，之后OS X取代了Mac OS，在15年之后苹果可能考虑将它与其它的软件平台统一起来。
+➜Twitter任命大中华区总经理
+https://www.solidot.org/story?sid=47871	32629
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001067133"><u>报道</u></a>，Twitter任命了首位大中华区董事总经理，并承诺要扩大对该地区的投资——尽管自2009年以来该网站在中国内地一直处于封禁状态。Twitter任命陈葵(Kathy Chen)为中国内地、香港和台湾地区新任董事总经理。陈葵曾是微软驻北京的一名高管，负责云计算的业务拓展和企业服务。Twitter在中国内地的广告销售增长十分迅速——尽管其基数很低：该公司表示，该平台上中国广告商的数目是一年前的三倍。《南华早报》的<a target="_blank" href="http://www.nanzao.com/sc/international/154190ff7effe9c/zhong-guo-ke-hu-zeng-340-tui-te-ren-ming-da-zhong-hua-qu-zong-jing-li"><u>报道</u></a>称，中国客户包括联想集团、华为科技等品牌，以及官方媒体如新华社和《人民日报》。亚太、拉丁美洲和新兴市场副总裁Shailesh Rao说，在大中华区，因为中国对公司顾客服务的限制，Twitter注重于其广告业务，而不是获取用户。
+➜研究发现割包皮没有降低其敏感度
+https://www.solidot.org/story?sid=47872	34982
+一项研究<a target="_blank" href="https://www.reddit.com/r/science/comments/4euptk/study_circumcision_does_not_reduce_penis/d23lbb0"><u>调查了</u></a>男性在婴儿时期切割包皮对生殖器的敏感度影响。<a target="_blank" href="http://www.jurology.com/article/S0022-5347%2815%2905535-4/abstract"><u>论文</u></a>（摘要）发表在《Journal of Urology》期刊上。研究人员调查了62名男性，其中30人割过包皮，他们的年龄在18岁到42岁之间，平均年龄为24.2岁。他们测试了<a target="_blank" href="http://i.imgur.com/zawi4MU.png"><u>4个位置</u></a>（NSFW），在每个位置没有发现割包皮和未割包皮者之间在触觉、痛觉、温度和热痛感知上存在统计学上的显著差异。研究人员得出结论，他们的结果不支持移除包皮降低敏感度的观点。
+➜Chrome 50终止支持Windows XP和OS X 10.6
+https://www.solidot.org/story?sid=47873	36744
+Google昨天释出了Chrome最新稳定版本v50，除了新特性和安全修正，该版本正式<a target="_blank" href="http://arstechnica.com/gadgets/2016/04/chrome-50-ends-support-for-windows-xp-os-x-10-6-other-old-versions/"><u>终止支持</u></a>Windows XP、Windows Vista、OS X 10.6、OS X 10.7和OS X 10.8等旧操作系统。对于仍然使用这些操作系统的用户来说，他们有两种选择：升级到新版本的操作系统；或者选择Firefox或Opera等替代浏览器。Firefox和Opera的最新版本仍然支持XP和OS X 10.7。
+➜微软发布基于CentOS的Linux虚拟机
+https://www.solidot.org/story?sid=47874	39081
+微软为它的云计算服务Azure<a target="_blank" href="https://blogs.technet.microsoft.com/machinelearning/2016/04/13/announcing-the-availability-of-the-linux-data-science-virtual-machine/"><u>发布了</u></a>基于CentOS的Linux虚拟机镜像Linux Data Science Virtual Machine，虚拟机预装了 Anaconda Python Distribution、Computational Network Toolkit和Microsoft R Open等工具。它面向的是数据科学家，专注于机器学习和分析。微软的高级产品经理Gopi Kumar称，客户现在可以根据需要访问Linux环境执行广泛的数据科学任务，该虚拟机镜像可以节省客户寻找、安装、配置和管理这些工具的时间和精力。
+➜数据挖据你的自我
+https://www.solidot.org/story?sid=47875	40742
+2014年竞选北卡罗莱纳州联邦参议员的Thom Tillis，其竞选团队除了使用常规的在线和直邮广告外，还使用一种新颖的策略。他的竞选团队与Cambridge Analytica合作分析选民的个性，然后根据其个性寄去针对性的广告，比如向个性随和的人寄去展现微笑的照片，向个性认真的人寄去戴着安全帽的照片；向精神质的人寄去士兵照片。Thom Tillis最终打败了民主党籍的竞争对手赢得议席。<a target="_blank" href="https://www.technologyreview.com/s/601214/data-mining-your-psyche/#/set/id/601281/"><u>基于数据驱动的政治竞选正日益常见</u></a>。
+➜Ubuntu 16.04 将支持Snap包格式
+https://www.solidot.org/story?sid=47876	41977
+Canonical官方<a target="_blank" href="https://insights.ubuntu.com/2016/04/13/snaps-for-classic-ubuntu/"><u>确认了</u></a>去年的<a target="_blank" href="http://www.solidot.org/story?sid=43862"><u>消息</u></a>： 即将发布的Ubuntu 16.04 LTS将支持Snap包格式。用户可以同时安装Snap打包和<span style="font-weight: 400;">deb打包的应用。</span>deb是Debian的包构建系统，而Debian是Ubuntu的上游发行版。Canonical称，Snap打包能为Ubuntu 16.04 LTS开发者带来较新版本的应用。其内在的安全机制将Snap应用与系统隔离开来，用户安装Snap应用无需担心它是否会影响其它应用或系统。开发者也能更好的处理更新周期，他们可以选择捆绑特定版本的库。事务更新让Snap包的部署更鲁棒和可靠。
+➜研究人员发现缩址服务的安全隐私隐患
+https://www.solidot.org/story?sid=47877	45307
+康奈尔理工学院的两位研究人员在预印本网站发表<a target="_blank" href="http://arxiv.org/pdf/1604.02734v1.pdf"><u>报告</u></a>（PDF），他们发现了流行云服务缩址服务的<a target="_blank" href="https://freedom-to-tinker.com/blog/vitaly/gone-in-six-characters-short-urls-considered-harmful-for-cloud-services/"><u>安全隐私问题</u></a>。微软和Google的服务都提供了缩址服务，如Google Maps、Bing Maps和OneDrive。其中OneDrive已经关闭了缩址服务，但现有的缩址仍然可以访问。研究人员利用暴力的方法扫描了一亿个bit.ly缩址和2300万个Google Maps缩址，发现了大量有私人文件的OneDrive账号，他们访问了130多万个OneDrive文件，发现大量共享的文件和文件夹可以写访问，允许任何人上传任意内容如恶意程序，然后同步到用户的设备。而地图缩址相关的驾驶线路则会披露个人的敏感信息，比如访问特定医疗设施和监狱。

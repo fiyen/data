@@ -1,0 +1,36 @@
+➜Rambler 起诉 Twitch，索赔 28 亿美元
+https://www.solidot.org/story?sid=62945	4573
+在 NGINX 公司之后，俄罗斯互联网巨头 Rambler Group <a href="https://kanobu.ru/news/twitch-sued-in-russia-by-local-media-giant-for-whopping-25-billion-419802/" target="_blank"><u>又瞄准了</u></a>另一个流行的平台——游戏直播平台 Twitch——指控其侵犯了它的内容独占权，索赔金额高达 28 亿美元。Rambler Group 拥有英超联赛在俄罗斯的独家分销权，据报道这笔交易价值 700 万欧元。Rambler 提起诉讼是因为有人在 Twitch 上直播了英超比赛。Rambler 先是要求法庭封杀 Twitch，然后根据直播的观看人数（3.6 万）乘以可能的最高罚金（500 万卢布）而索赔 180,3450 亿卢布，约合 28.4 亿美元。Rambler 的大股东是国有的俄罗斯联邦储蓄银行。
+➜Chrome 曝出数据丢失 bug
+https://www.solidot.org/story?sid=62946	9621
+用户向 Google 递交<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=1033655"><u> bug 报告</u></a>，称最新的 Chrome 79 (79.0.3945.79)更新会导致其它应用的 localstorage 或 websql 无预见的清空。许多用户都反映了同样的问题，另一名用户报告称，客户在升级到 Chrome/webview v79 后失去了所有的应用数据。用户们建议 Google 在未修复前回滚到旧版本。Chrome 开发者表示他们了解这个数据丢失 bug 非常严重，他们正致力于寻找解决方案最小化数据丢失。
+➜ESA 将执行首次太空垃圾清理任务
+https://www.solidot.org/story?sid=62947	10328
+ESA <a href="https://www.esa.int/Safety_Security/Clean_Space/ESA_commissions_world_s_first_space_debris_removal" target="_blank"><u>委托</u></a>瑞士初创公司 ClearSpace 提交方案，于 2025 年发射“清道夫”清理轨道上一块100公斤重的碎片。ClearSpace 公司由洛桑联邦理工学院的人员组成，将于近期提交“清洁太空-1”任务的相关方案，计划于明年 3 月启动这一项目，这也是首个从轨道上<a href="http://news.sciencenet.cn/htmlnews/2019/12/433885.shtm" target="_blank"><u>清除太空碎片</u></a>的任务。ClearSpace 创始人兼首席执行官卢克·皮盖说：“我们在太空中拥有近 2000 颗仍在工作的卫星，3000 颗已经失效的卫星。未来几年，卫星的数量将增加一个数量级，也将出现多个由成百上千颗卫星组成的巨型星座。显然，我们需要‘拖车’将一些失效卫星从拥堵的地方移走。”
+➜Google 测绘了全球 98% 人口生活的地图
+https://www.solidot.org/story?sid=62948	10554
+自启动街景项目 12 年以来，搜索巨人拍摄了 1000 万英里长的街景图像，相当于绕地球 400 多圈。而它的 Google Earth 地图服务提供了 3600 万平方英里的卫星图像。两者结合起来，Google <a href="https://www.cnet.com/news/google-maps-has-now-photographed-10-million-miles-in-street-view/"><u>测绘了全世界 98% 的人口生活区域</u></a>。这是 Google 首次披露其地图服务的规模。Google Maps 是该公司旗下最受欢迎的产品之一，每月用户超过 10 亿，地图潜在可用于提供地方广告。
+➜宝马开源其使用的 AI 算法
+https://www.solidot.org/story?sid=62949	11486
+宝马公司<a href="https://www.bmwblog.com/2019/12/13/bmw-shares-ai-algorithms-used-in-production-available-on-github/"><u>开源了</u></a>它在产品中使用的 AI 算法。<a href="https://github.com/BMW-InnovationLab"><u>源代码</u></a>发布在 GitHub 上，采用 Apache License 2.0 或 BSD 3-Clause 许可证。宝马称，这些算法被用于多种 AI 应用，包括图像识别和图像标记，公开源代码将允许全世界的开发者浏览、改变、使用和改进代码，这将有助于减少自主运输系统和机器人神经网络的开发时间。
+➜ICANN 推迟批准 .Org 交易
+https://www.solidot.org/story?sid=62950	12396
+ICANN <a href="https://domainnamewire.com/2019/12/10/icann-delays-org-sale-approval-calls-for-more-transparency/"><u>推迟批准 .Org 的交易</u></a>，要求提供更多信息。私募股权公司 Ethos Capital 上个月从 Internet Society（ISOC）收购了 .org 域名管理机构 Public Internet Registry（PIR）。根据 ICANN 与 PIR 之间签署的合同，在收到交易通知 30 天内它可以要求提供更新信息，在收到回应之后，ICANN 再有 30 天时间决定是否批准还是反对这笔交易。Ethos Capital 的收购引发了<a href="https://www.solidot.org/story?sid=62735"><u>很大争议</u></a>，多个非盈利组织发起请愿呼吁 ICANN 拒绝交易。ICANN 法律总顾问<a href="https://www.icann.org/en/system/files/correspondence/jeffrey-to-sullivan-nevett-09dec19-en.pdf">致函</a> ISOC 和 PIR 的 CEO，对交易的不透明表达了关注。ICANN 表示会对这笔交易进行深思熟虑的评估，确保 .org 域名注册的安全、可靠和稳定。
+➜WebAssembly 成为 W3C 标准
+https://www.solidot.org/story?sid=62951	26903
+WebAssembly <a href="https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en"><u>正式成为</u></a> World Wide Web Consortium (W3C) 的标准，加入到了  HTML、CSS a和 JavaScript 的行列。WebAssembly 也正式<a href="https://www.infoworld.com/article/3489536/webassembly-10-and-w3c-core-specification-arrive.html"><u>抵达了 1.0 版本</u></a>，它已获得了主流浏览器 Firefox、Chrome、Safari 和 Edge 的支持。WebAssembly 源于 Mozilla 发起的 Asm.js 项目，也被称为 wasm，设计补充 JavaScript，其本地解码速度比 JS 解析快得多，让高性能的 Web 应用在浏览器上运行成为可能。WebAssembly 增加了混淆程度，因此目前它也被很多恶意网站利用去隐藏恶意目的。德国的一项研究<a href="https://www.solidot.org/story?sid=62480"><u>分析了</u></a> Alexa 排名前一百万的网站，发现使用 WebAssembly 的网站比例约为六百分之一，但其中一半是将其用于恶意目的，如挖掘数字货币或混淆恶意代码。
+➜中低收入国家儿童抗生素使用过度
+https://www.solidot.org/story?sid=62952	28511
+根据发表在《柳叶刀传染病》期刊上的<a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30572-9/fulltext"><u>一项研究</u></a>，中低收入国家的儿童从出生到 5 岁期间，累计抗生素处方量平均达 25 个，乌干达甚至达到了 60 个。研究人员<a href="http://news.sciencenet.cn/htmlnews/2019/12/433892.shtm"><u>警告说</u></a>，过量使用抗生素会危害儿童对抗致病菌的能力，并加重全球的抗生素耐药性。研究人员收集了 2007 年至 2017 年间海地、肯尼亚、马拉维、尼泊尔、塞内加尔和乌干达等 8 个中低收入国家 5 岁以下儿童的就医数据。抗生素耐药性是世界卫生组织列出的 2019 年全球健康面临的十大威胁之一。
+➜Google 暂停在土耳其的 Android 设备服务授权
+https://www.solidot.org/story?sid=62953	33886
+Google <a href="https://www.dailysabah.com/technology/2019/12/15/google-turkey-suspends-services-for-upcoming-phones-over-fine" target="_blank"><u>暂停了</u></a>在土耳其的新 Android 设备服务授权，除非该国撤回以违反反竞争法而对搜索巨人施加罚款的决定。Google 的行动不影响现有的手机和现有的型号，只影响尚未上市的 Android 设备。土耳其监管机构去年九月宣布对 Google 罚款 9300 万土耳其里拉，今年 3 月宣布对 Google 展开更广泛的调查。Google 现在告诉商业合作伙伴、手机厂商和电信运营商，它将暂停旗下热门服务在土耳其市场的授权，其中包括 Google Play Store、Gmail、YouTube 和其它热门 Google 应用。
+➜声波可用于分离微塑料和洗衣水
+https://www.solidot.org/story?sid=62954	43784
+海洋面临的塑料威胁，除了较大的塑料垃圾，还有微型的塑料颗粒。这些微塑料绝大多数是因为洗衣物时脱落的纤维。科学家已经研发出过滤器帮助从洗衣水中过滤掉纤维，但此类的过滤器需要经常性的清理或更换，此外一些特别小的纤维还会逃避过滤。日本信州大学的研究人员现在开发出一种新的系统，<a href="https://newatlas.com/environment/sound-waves-microplastics-laundry-wastewater/" target="_blank"><u>利用声波去捕捉微塑料</u></a>。洗衣废水流进三个不同的通道，在交叉点的上方，压电组件施加声波形成一个驻声波，纤维会在其中聚集，沿着中间通道带出，而不含微塑料的废水从两边通道流出。实验室测试显示，该系统能捕捉 95% 的 PET 纤维和 99% 的 Nylon 6 纤维。在变成产品前，研究人员还需要加快纤维分离的过程，目前的方法还比较费时。<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925400519315278?via%3Dihub" target="_blank"><u>研究报告</u></a>发表在《 Sensors and Actuators B: Chemical》期刊上。
+➜必应地图让新微软飞行模拟更真实
+https://www.solidot.org/story?sid=62955	45829
+即将在明年推出的新微软飞行模拟<a href="https://www.wired.com/story/microsoft-flight-simulator-2020/" target="_blank"><u>将能让用户真的在里面找到自己的家</u></a>。微软飞行模拟使用了来自必应地图的 3D 数据，实现虚拟世界与真实地图的高度一致。微软飞行模拟的负责人 Jorg Neumann 称，游戏始于为 HoloLens 增强显示眼镜开发的应用，他说，“我们希望人们使用头戴式显示器能在世界各地虚拟观光。”该应用使用了必应地图，因此其渲染功能在五年前就准备就绪了。两年之后，他们开始将这一想法转移到飞行模拟。微软与法国游戏开发商 Asobo Studio 合作开发飞行模拟，咨询了飞行和飞行模拟社区，整合了来自飞机和航空电子制造商的数据和技术指南，包含了全球约 4 万个机场的精确数据。新微软飞行模拟提供了精确到街道建筑物的地形地图，它将需要联网加载实时天气和地图数据，但也支持减少地图细节的离线游戏，允许下载特定区域地图获得完整的离线游戏体验。
+➜基于 Chromium 的 Edge 是比 Chrome 更好的浏览器？
+https://www.solidot.org/story?sid=62956	55471
+微软基于 Chromium 的 Edge 浏览器正式版本将在下个月 15 日<a href="https://www.solidot.org/story?sid=62487"><u>发布</u></a>，但已经有媒体开始<a href="https://news.slashdot.org/story/19/12/15/2034209/is-microsofts-chromium-edge-browser-better-than-firefox-and-chrome"><u>认为</u></a>它是比 Chrome 更好的浏览器了。Chromium Edge 最新引入的一项功能叫 Apps，它允许用户下载网页和 Web 应用，以  Twitter 为例，访问 Twitter 网站从设置菜单点击“作为应用安装此网站”，安装之后你可以在任务栏、桌面或开始菜单，像运行程序一样运行 Web 应用。目前 Chromium Edge 的扩展数量较少，但它支持手动安装 Chrome 扩展。它的内存占用也比 Chrome 和 Firefox 更少更轻量级。

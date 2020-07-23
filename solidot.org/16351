@@ -1,0 +1,54 @@
+➜Twitter因国家安全数据披露要求起诉美国政府
+https://www.solidot.org/story?sid=41355	10832
+Twitter因国家安全相关的用户数据披露要求而<a target="_blank" href="https://blog.twitter.com/2014/taking-the-fight-for-transparency-to-court"><u>起诉美国政府</u></a>。Twitter等服务商被禁止公开他们收到的国家安全信函和外国情报监视法庭（FISA）命令的确切数量，Google去年以宪法第一修正案的言论自由权利为由挑战了这一封口令。Twitter<a target="_blank" href="https://g.twimg.com/blog/blog/attachments/Complaint.pdf"><u>采用的方法</u></a>（PDF）和Google类似，公司副总裁Ben Lee<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/10/141007_twitter_lawsuit_us"><u>称</u></a>， “我们认为，根据宪法第一修正案我们有权对用户的担忧以及美国政府的声明做出回应，提供美国政府监视情况的信息。” Twitter今年四月向美国政府递交透明报告希望能公布详细数字，但是到目前为止官方拒绝了该公司有关向公众公布报告全部内容的要求。
+➜如何让互联网更开放？
+https://www.solidot.org/story?sid=41356	12271
+政府和企业正投入一场关于<a target="_blank" href="http://www.ftchinese.com/story/001058483"><u>谁可以在互联网上做什么</u></a>的战斗。中心问题是如何监管互联网、由谁监管，以及政府可在何种程度上在网络空间复制实体世界。这些冲突的结局将影响所有使用互联网的人，决定互联网是否将按照各方的初衷，保持自由和开放？抑或我们将面对一个“巴尔干化”、四分五裂的网络空间？ 中国和俄罗斯是坚持政府主权阵营的领头者。两国都明确表示，利用互联网组织政治反对活动是对“国家安全”的一种威胁。中国的互联网实际上是一种“内联网”，只是在受控的网络枢纽点与全球系统相连。伊朗正致力于建设一个“清真”的互联网。普京的俄罗斯正朝着类似的方向前进。民主国家对短期政治利益的追逐可能加剧割裂，欧洲的“被遗忘权”就是一个例子。
+➜Adobe收集用户电子书库的数据
+https://www.solidot.org/story?sid=41357	14664
+Adobe的Digital Editions 4电子书和PDF阅读器<a target="_blank" href="http://the-digital-reader.com/2014/10/06/adobe-spying-users-collecting-data-ebook-libraries/#.VDQhI_ldWYA"><u>被发现</u></a>会向Adobe服务器发送大量数据。Adobe发言人表示公司正在开发更新程序解决隐私泄露问题。Adobe收集的数据包括了电子书是否曾被打开，阅读的是哪一页，阅读顺序，电子书的标题，出版商，以及其它元数据。Digital Editions 4是以JSON数据格式明文向域名为adelogs.adobe.com的服务器发送数据。Adobe发言人称，公司收集的所有数据都是出于验证电子书许可证是否有效的目的，称它收集的信息包括用户ID，设备ID，验证的应用ID，设备IP地址，一本电子书阅读的时间，阅读的百分比。Ars的测试<a target="_blank" href="http://arstechnica.com/security/2014/10/adobes-e-book-reader-sends-your-reading-logs-back-to-adobe-in-plain-text/"><u>显示</u></a>，Digital Editions 4会扫描和上传所有电子书库中电子书，即使电子书是DRM-free。<br>
+➜雅虎和WinZip网站因Shellshock漏洞被黑客入侵
+https://www.solidot.org/story?sid=41358	15483
+安全研究人员 Jonathan Hall<a target="_blank" href="http://www.futuresouth.us/yahoo_hacked.html"><u>报告</u></a>，雅虎旗下的多台服务器和压缩软件WinZip的官网因为未打上Shellshock漏洞补丁而遭到罗马尼亚黑客的<a target="_blank" href="http://www.itnews.com.au/News/396491,romanian-hackers-shellshock-yahoo-servers.aspx"><u>入侵</u></a>。黑客入侵了雅虎游戏的服务器，获得了dip4.gq1.yahoo.com和api118.sports.gq1.yahoo.com服务器的rootq权限。雅虎已经证实此事，表示正在执行安全应急响应程序。<br>
+➜ARM宣布新操作系统mbed
+https://www.solidot.org/story?sid=41359	20562
+ARM<a target="_blank" href="http://www.arm.com/about/newsroom/arm-announces-device-platform-and-free-os-to-accelerate-internet-of-things-deployment.php"><u>宣布了</u></a>针对物联网低功耗设备的操作系统<a target="_blank" href="http://developer.mbed.org/"><u>mbed OS</u></a>。mbed OS部分开源，其余部分控制在ARM手中，理由是为了确保操作系统不会碎片化。ARM声称mbed OS只需要256kb内存，它希望开发商能能使用mbed开发电池使用寿命长达数年的设备。mbed OS将免费提供给所有厂商使用。在物联网领域，mbed面临<a target="_blank" href="http://spectrum.ieee.org/tech-talk/computing/embedded-systems/the-internet-of-things-gets-a-new-os"><u>多个竞争对手</u></a>的挑战，如通用电气的 <a href="https://www.gesoftware.com/platform">Predix</a> 、三星的 <a target="_blank" href="https://www.tizen.org/"><u>Tizen</u></a>，Nest Labs使用的是基于Linux的私有软件，在被Google收购后它未来可能改用 Android。
+➜OpenSSH SFTP远程溢出漏洞
+https://www.solidot.org/story?sid=41360	21282
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 <i>"安全社区爱好者<a target="_blank" href="http://thejh.net/">Jann Horn</a>公布了<a target="_blank" href="http://seclists.org/fulldisclosure/2014/Oct/35">OpenSSH可以让用SFTP访问的用户在没有验证的情况下使用"ForceCommand internal-sftp"的漏洞</a>(含POC)，也就是说如果你的OpenSSH服务器中没有配置"ChrootDirectory"的话普通用户都可以访问所有文件系统的资源，包括/proc，在&gt;=2.6.x的Linux内核上，/proc/self/maps会显示你的内存布局，/proc/self/mem可以让你任意在当前进程上下文中读写，而综合两者特性则可以造成远程溢出，目前受影响的版本是&lt;=OpenSSH 6.6，OpenSSH 6.7包含了降低风险的方案：sftp-server使用prctl()来阻止直接访问/proc/self/{mem,maps}。Grsecurity/PaX直接禁止了/proc/pid/mem的可写，所以如果你的生产环境中部署了Grsecurity/PaX的话这个漏洞可以不用担心。"</i>
+➜systemd作者抨击开源和Linux社区
+https://www.solidot.org/story?sid=41361	25202
+systemd是一个备受争议的初始化系统，而它的作者Lennart Poettering也是一位备受争议的人。他在Google+上<a target="_blank" href="https://plus.google.com/app/basic/stream/z13rdjryqyn1xlt3522sxpugoz3gujbhh04"><u>发了一篇帖子</u></a>，<a target="_blank" href="https://soylentnews.org/article.pl?sid=14/10/07/0255249"><u>抨击了</u></a>开源和Linux社区，其中包括Linux作者 Linus Torvalds 。Lennart声称开源的世界是一个病态的世界，充斥了混帐之人，而他则可能是最主要的攻击目标之一。他举例说：收到过恐吓信，反对者不断发起请求他停止工作的请愿，征集比特币雇佣杀手杀他，抵制丑化更是不绝于耳，而在IRC上他也经常收到各种信息的骚扰。他还将矛头指向了Linux作者 Linus Torvalds，说Linux社区从头烂到尾。他说Linux社区被三四十岁的西方白人直男统治，表示对于Linux社区的新人来说，最后要么变成厚脸皮要么远远避开，“它不是一个友好的地方。”<br>
+➜贝尔金路由器出现大规模无法联网故障
+https://www.solidot.org/story?sid=41362	27954
+贝尔金多个型号的路由器10月7日凌晨<a target="_blank" href="http://tech.slashdot.org/story/14/10/07/1931201/belkin-router-owners-suffering-massive-outages"><u>出现了无法联网的故障</u></a>。受影响的用户遍及全球，受影响的型号包括F9K1102、F9K1105、F9K1113和F9K1116。问题与固件更新无关，而是与路由器ping贝尔金的域名heartbeat.belkin.com检查网络连接性有关。贝尔金发表声明称<a target="_blank" href="https://belkininternationalinc.statuspage.io/"><u>问题已经解决</u></a>，如果用户的路由器还有问题，可以关闭电源等一分钟再接上。
+➜Bugzilla 0day漏洞曝光0day漏洞细节
+https://www.solidot.org/story?sid=41363	28519
+广泛使用的bug跟踪系统Bugzilla<a target="_blank" href="http://krebsonsecurity.com/2014/10/bugzilla-zero-day-exposes-zero-day-bugs/"><u>发现了一个0day漏洞</u></a>，允许任何人浏览未修正尚未公开的漏洞细节。Bugzilla由Mozilla开发，被开源项目广泛使用，任何人都可以在Bugzilla平台创建帐户报告某个项目的bug。安全公司Check Point Software Technologies的研究人员发现，Bugzilla的查询权限分配漏洞允许任何人使用能绕过验证的任意电子邮件注册，获得某个Bugzilla平台的管理权限。举例来说，使用admin@mozilla.org注册就能浏览Firefox和Mozilla相关项目的所有未公开bug。Bugzilla已经发布更新<a target="_blank" href="http://www.bugzilla.org/security/4.0.14/"><u>修正问题</u></a>。
+➜优秀的开源字幕编辑器
+https://www.solidot.org/story?sid=41364	32298
+<a href="mailto:axue@gmail.com">Alison Xue</a> 写道 <i>"字幕编辑器是一种创建和编辑字幕的软件，字幕叠加在视频上与视频同步播放。好的字幕不会让人分心，反而有助于提高观影乐趣，不仅仅是听力受损者，甚至说母语的人也能发现字幕很有用。Linux上有很多<a target="_blank" href="http://www.linuxlinks.com/article/2014100403251576/SubtitleEditors.html"><u>优秀的开源字幕编辑软件</u></a>，可用于预览字幕的播放效果，编辑文本，控制字幕的格式和位置。这些软件包括：<a target="_blank" href="http://www.aegisub.org/"><u>Aegisub</u></a>、<a target="_blank" href="http://www.jubler.org/"><u>Jubler</u></a>、<a target="_blank" href="http://home.gna.org/gaupol/"><u>Gaupol</u></a>、<a target="_blank" href="http://gnome-subtitles.sourceforge.net/"><u>GNOME Subtitles</u></a>等。"</i>
+➜欧洲刑警组织预言到年底将会发生首例在线谋杀案
+https://www.solidot.org/story?sid=41365	33956
+欧洲刑警组织<a target="_blank" href="https://www.europol.europa.eu/content/organised-crime-groups-exploiting-hidden-internet-online-criminal-service-industry"><u>预言</u></a>，到今年年底，世界将<a target="_blank" href="http://thestack.com/first-online-murder-by-end-of-2014-europol-071014"><u>可能发生首例</u></a>利用联网设备实施的在线谋杀案。欧洲刑警组织的研究发现，政府还没有准备好应对日益上升的在线谋杀的风险——网络犯罪分子利用联网设备攻击受害者身体，对受害者造成伤害甚至死亡。联网的医疗设备如心脏起搏器，胰岛素泵和除颤器都可能存在风险。前美国总统切尼因担心黑客的远程访问而移除了除颤器的无线功能。
+➜Debian 8考虑停止提供GNU/kFreeBSD版本
+https://www.solidot.org/story?sid=41366	35404
+Debian 8 Jessie有可能停止提供<a target="_blank" href="https://www.debian.org/ports/kfreebsd-gnu/"><u>Debian GNU/kFreeBSD</u></a>——基于FreeBSD内核的版本，Debian除了Linux内核外，还有FreeBSD、Hurd和NetBSD内核版本，Debian Squeeze是第一个支持FreeBSD内核的Debian发行版。Debian开发者正在邮件列表上<a target="_blank" href="https://lists.debian.org/debian-devel-announce/2014/09/msg00002.html"><u>讨论此事</u></a>，停止发布GNU/kFreeBSD版的主要原因是该版本的质量欠佳。Debian将在11月1日或之后评估Debian 8 Jessie GNU/kFreeBSD版本的可行性，之后再做出正式决定。
+➜2014年诺贝尔化学奖授予了三名研究超分辨荧光显微镜的科学家
+https://www.solidot.org/story?sid=41367	37468
+瑞典皇家科学院<a target="_blank" href="http://www.nobelprize.org/nobel_prizes/chemistry/laureates/2014/press.html"><u>宣布</u></a>，2014年诺贝尔化学奖授予三名研制出超分辨率荧光显微镜的科学家：美国霍华德休斯医学研究所的<a target="_blank" href="http://en.wikipedia.org/wiki/Eric_Betzig"><u>Eric Betzig</u></a>，德国Max Planck生物物理化学研究院的<a target="_blank" href="http://en.wikipedia.org/wiki/Stefan_Hell"><u>Stefan W. Hell</u></a>和美国斯坦福大学的<a target="_blank" href="http://en.wikipedia.org/wiki/W._E._Moerner"><u>William E. Moerner</u></a>。传统光学显微镜的最大分辨率长期以来难以突破0.2微米的物理限制，这三名科学家研制的超分辨率荧光显微镜绕过了这一限制，使得光学显微镜能一窥纳米世界。
+➜用 4K 电视做显示器的程序员
+https://www.solidot.org/story?sid=41368	39058
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "&nbsp;Tony La 在网上闲逛的时候，碰巧一篇有关用Seiki的4K电视作为主显示器的文章。他一直信仰高分辨率，所以就试一试。<a href="http://tonyla.me/blog/2014/09/29/the-4k-programmer/" target="_blank">本文</a>（<a href="http://blog.jobbole.com/77855/" target="_blank">译文</a>）就是他给大家介绍一下他是如何配置和安装的。"</i>
+➜苹果蓝宝石合作伙伴CEO在iPhone 6公开前抛售16万美元股票
+https://www.solidot.org/story?sid=41369	40537
+匿名读者 写道 "<i>在iPhone 6上市数周之后，苹果蓝宝石玻璃合作伙伴GT Advanced Technologies(GTAT)<a target="_blank" href=" http://finance.sina.com.cn/world/20141006/235920472676.shtml"><u>宣布</u></a>申请破产保护。iPhone 6一开始有流言称将用蓝宝石替代玻璃保护手机屏幕，但最终这一幕没有发生，导致GTAT的股价大跳水。《华尔街日报》<a target="_blank" href="http://blogs.wsj.com/digits/2014/10/07/ceo-of-sapphire-supplier-sold-shares-before-apple-announcement/"><u>报道</u></a>称，GTAT CEO Thomas Gutierrez自今年2月以来售出了超过一千万美元的股票，其中包括在iPhone 6公开前两天售出了16万美元的股票。9月8日GTAT的股价是17.15美元，9月10日——iPhone 6宣布后一天——股价跌到了12.78美元，10月7日的股价是<a target="_blank" href="http://finance.yahoo.com/q;_ylc=X1MDMjE0MjQ3ODk0OARfcgMyBGZyA3VoM19maW5hbmNlX3dlYgRmcjIDc2EtZ3AEZ3ByaWQDBG5fZ3BzAzIEb3JpZ2luA2ZpbmFuY2UueWFob28uY29tBHBvcwMxBHBxc3RyAwRxdWVyeQNHVEFULARzYWMDMQRzYW8DMQ--?p=http%3A%2F%2Ffinance.yahoo.com%2Fq%3Fs%3DGTAT%26ql%3D0&amp;type=2button&amp;fr=uh3_finance_web&amp;uhb=uh3_finance_vert&amp;s=GTAT"><u>1.21美元</u></a>。
+"</i>
+➜发表拥朝言论的中国留学生被韩国驱逐出境
+https://www.solidot.org/story?sid=41370	42160
+一名中国留学生因于网上发表赞扬朝鲜领袖并抨击韩国保守派政权的言论，同时参与进步势力所举办的示威活动，今年8月遭韩方<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/10/141008_skorea_chinese_stu_deportation"><u>驱逐出境</u></a>。目前在韩国的中国留学生将近6万人。来自中国广东的20岁宋姓学生于2012年底在首尔某大学语学堂学习韩文，并预计于今下半年就读本科，将原先的语言研修签证(D5)更改为一般留学生签证(D2)，却因当局接获举报而接受调查。在来到韩国前后，宋姓学生就多次在网上发表激进言论。金正日死亡时，他在网上留言：“向伟大指导者金正日同志表达沉痛哀悼。”去年底，他也在网上刊载朝鲜第三代领袖金正恩现场视察的照片，同时写道：“伟大指导者金正恩元首脚踩雪地、环视周围，看了真是感动。”
+在朴槿惠总统于去年就任时，宋姓学生就在网上写道：“刚刚看见‘南朝鲜’傀儡集团的新头头朴槿惠，我没带凶器或炸弹真是太可惜了，虽没做到，但一定要帮助朝鲜人民，把这位独裁者给除掉。”
+宋姓学生标榜自己为“左翼支持者”与“进步倾向网友”。接受当局调查时，宋一直行使缄默权。<br>
+➜利用老虎机bug发财的赌徒付出的代价
+https://www.solidot.org/story?sid=41371	44214
+《连线》<a target="_blank" href="http://www.wired.com/2014/10/cheating-video-poker/"><u>报道了</u></a>发现Game King生产的扑克老虎机bug的赌徒，他们利用bug赚到了一笔钱，但最终被拉斯维加斯检方指控违反了计算机欺诈和滥用法。狂热赌徒John Kane在赌城最流行的老虎机上发现了每一个赌徒都梦想的一个难以置信漏洞：首先低价押注（比如每注1美分），不断下注直到运气来了，比如来了4张A或同花顺，这时候你可以改变到更高的赌注（比如每注50美分），老虎机会根据更高的赌注再次奖励你。发现了这个漏洞之后，你每天可以很轻松的赚到几千美元甚至几十万美元。他与Andre Nestor 分享了这一秘密，但他们的好运最终引起了赌场的注意，遭到赌城的起诉，以及国税局的逃税追缴和罚款。今天的John Kane宅在家里记录古典音乐上传到YouTube，而 Nestor则迷上了《Candy Crush》，利用网上发现的技巧不用花钱就能有额外的命。

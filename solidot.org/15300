@@ -1,0 +1,73 @@
+➜在JavaScript中实现OpenPGP
+https://www.solidot.org/story?sid=27078	4800
+德国安全公司Recurity Labs的研究人员<a href="http://www.techworld.com.au/article/408125/openpgp_javascript_implementation_allows_webmail_encryption">发布了</a>OpenPGP规格的JavaScript实现，允许用户加密和解密Web邮件。<i>
+名叫<a href="http://gpg4browsers.recurity.com/">GPG4Browsers</a>的工具是Google Chrome的扩展，支持Gmail。虽然它还只是一个原型，但支持OpenPGP规格指定的所有非对称和对称密码，以及hash函数。基于JavaScript的OpenPGP实现方便用户使用，可以直接在浏览器中运行，不需要专门的邮件客户端。研究人员可能在未来将GPG4Browsers移植到其它浏览器中。它的源代码在GNU Lesser Public License许可证下发布。
+</i>
+➜电视机制造业的未来
+https://www.solidot.org/story?sid=27079	6600
+当iPad的价格超过知名品牌40英寸电视机，<a href="http://www.cn.wsj.com/gb/20111122/tec080201.asp">制造商的未来在哪里</a>？利润微薄的电视机产业将走向何处？当越来越多的消费者通过智能手机、平板电脑和笔记本观看电视剧和电影。电视机也许将沦落为另一个显示屏幕，专家认为，电视机行业“就会成为只有少数公司参与的低利润、没钱赚的生意。”为了赶上人们变化的观看习惯，电视机厂商正在推出支持应用程序的网络电视机。今年网络电视机占据了大约四分之一的份额，2015年将增至整体出货量的大约一半。
+➜KDE默认壁纸Kontest选拔大赛
+https://www.solidot.org/story?sid=27080	7980
+<a href="http://blog.51osos.com/">Linux News</a> 写道 "根据KDE的<a href="http://dot.kde.org/2011/11/20/plasma-workspaces-wallpaper-contest">官方博客</a>，KDE每发布两个重要发行版将改变默认壁纸。KDE 4.8 开发者想要一个清新风格的壁纸，目前社区成员正在积极参加壁纸选拔大赛。壁纸提交将于12月4日结止,届时所有提交的壁纸将进行激烈角逐剩下三个。经过一组裁判的决定，将诞生最后的赢家作为默认的壁纸。规则：
+所有提交请发至nuno@oxygen-icons.org并以“wallpaper2011″作为标题;所有壁纸尺寸应该为1920×1200 或更大（提供额外的尺寸当然也是受欢迎的）;设计应该体现KDE的理念：Elegance, Freedom, and Ease of Use;参赛作品将以LGPL发行;照片类参赛作品也是受欢迎的;最终赢家将会接收到通知。"
+➜SCADA黑客破坏美国供水系统
+https://www.solidot.org/story?sid=27081	8640
+BBC<a href="http://www.bbc.co.uk/news/technology-15817335">报导</a>（<a href="http://www.bbc.co.uk/zhongwen/simp/world/2011/11/111121_hacker_us_water.shtml">中文</a>），美国伊利诺斯州一城市的供水设施被指遭黑客攻击，一个给数千户居民供水的水泵被破坏。黑客据信侵入了计算机系统，将水泵迅速打开和关闭，造成水泵损毁。FBI和国土安全部正在对此进行调查。专家表示这个消息说明很多网络犯罪分子把一些重要的工业和基建设施作为攻击的目标。与此同时，一位自称pr0f的黑客在Pastebin<a href="http://pastebin.com/Wx90LLum">发帖</a>声称
+他入侵了美国南休斯敦污水排放公司的控制系统，并公布了一些<a href="http://i41.tinypic.com/ip0aa0.png">屏幕截图</a>作为证据，他称这家公司的SCADA系统与网络连接，而访问密码只有三个字符，<a href="http://it.slashdot.org/story/11/11/21/1357227/scada-hacker-water-district-used-3-character-password">连小孩子都能破解</a>。许多人认为，密码太弱并不重要，最重要的是它根本不应该也没必要联网。
+➜中国网络媒体签署《武汉宣言》
+https://www.solidot.org/story?sid=27082	9900
+官方媒体新华社<a href="http://news.xinhuanet.com/tech/2011-11/22/c_122315754.htm">报导</a>，21日开幕的中国网络媒体论坛通过了《武汉宣言》，承诺“维护国家文化安全”，“增强国家文化软实力”，“做和谐网络舆论生态的引导者”，“抵制低俗、媚俗、庸俗内容，依法办网、文明办网”。中国主要网媒负责人300余人签署了《武汉宣言》。国家互联网信息办公室副主任钱小芊<a href="http://news.cnxianzai.com/2011/11/365238.html">表示</a>，“在网上倡导什么、反对什么、允许什么、禁止什么，关乎网络媒体的权威性和公信力，关乎互联网健康有序发展，关乎我国社会和谐稳定。”论坛特别讨论了微博时代如何进行网络舆论引导。
+➜惠普被指收买英特尔继续生产Itanium处理器
+https://www.solidot.org/story?sid=27083	12600
+甲骨文在递交给法庭一份<a href="http://www.scribd.com/doc/73164777/Oracle-Itanium-Filing-Weekend-At-Bernie-ss">文件</a>中指控惠普公司与英特尔<a href="http://developers.slashdot.org/story/11/11/22/0049243/is-hp-paying-intel-to-keep-itanium-alive">订有秘密协议</a>以继续生产Itanium处理器，而惠普可继续从被锁入的Itanium客户上赚钱，抢走甲骨文Sun服务器的生意。甲骨文称，如果没有惠普的钱英特尔早就停止了Itanium处理器生产。惠普正在起诉甲骨文停止为Itanium开发数据库，它认为甲骨文的法庭文件是一种“绝望的拖延策略”。
+➜PyPy 1.7发布
+https://www.solidot.org/story?sid=27084	18000
+用Python语言实现的Python解释器<a href="http://pypy.org/">PyPy</a>发布了<a href="http://pypy.org/download.html">1.7版</a>。新版的<a href="https://lwn.net/Articles/468661/">特性</a>主要集中在性能改进上，速度大大提升。根据基准测试结果，PyPy 1.7平均比PyPy 1.6快30%，在某些测试项目甚至速度是后者的20倍之多。除此之外，新版改进了栈式存储和NumPy支持，不过支持并不完整，以及大量bug修正，等等。
+➜Facebook手机成真，代号Buffy
+https://www.solidot.org/story?sid=27085	19500
+Facebook已经选择台湾手机制造商HTC为它制造一款深度整合社交服务的智能手机，<a href="http://allthingsd.com/20111121/the-facebook-phone-its-finally-real-and-its-name-is-buffy/">代号为Buffy</a>，即吸血鬼猎人巴菲。<i>
+手机将运行一个修改版的Android，Facebook进行了调整，整合了它的社会服务，应用程序平台由HTML5应用组成。Facebook考虑了多家制造商，其中包括韩国的三星，直到最近才选择HTC，这意味着手机上市可能需要一年到一年半的时间。该项目的负责人是Facebook的CTO Bret Taylor。移动对Facebook的未来至关重要，它有3.5亿活跃手机用户。
+</i>
+➜你我之间的分离度是4.74
+https://www.solidot.org/story?sid=27086	21600
+<a href="http://our4.org/weibo/">微博控</a> 写道 "1967年美国社会心理学家米尔格伦（Stanley Milgram）提出了一个“<a href="http://zh.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94%E7%90%86%E8%AE%BA">六度分离</a>”理论。简单地说，该理论认为在人际交往的脉络中，任意两个陌生人都可以通过“亲友的亲友”建立联系，这中间最多只要通过五个朋友就能达到目的(当时米尔格伦的研究是结论是 5.2 )。通俗点说：你和任何一个陌生人之间所间隔的人不会超过五个，也就是说，最多通过五个人你就能够认识任何一个陌生人。<i>但世界世界比我们想象的更小。今天社交网络巨头 <a href="https://www.facebook.com/notes/facebook-data-team/anatomy-of-facebook/10150388519243859">Facebook</a> 和米兰大学共同宣布了他们<a href="http://our4.org/579.html">关于六度分离理论的新研究成果</a>：他们已经确定世界上任何两个独立的人之间平均所间隔的人数为4.74。Facebook 的此次研究是采用的米兰大学 Web 算法实验室(Laboratory for Web Algorithmics of the Università degli Studi di Milano)开发的最新算法，研究表明，用六度来描述实际中两个人之间联系的间隔稍微显得有点大，实际在Facebook上， 任何2个用户之间只有5度间隔的概率是99.6%，任何2个用户之间只有 4 度间隔的概率是92%。Facebook有7.21亿用户，超过地球人口的十分之一。"</i>
+➜纸上的法律和实践中的法律
+https://www.solidot.org/story?sid=27087	23040
+根据中国国务院公布的《<a href="http://news.xinhuanet.com/politics/2011-10/27/c_111127507.htm">中国特色社会主义法律体系</a>》白皮书，截至2011年8月底，中国已制定现行宪法和有效法律共240部、行政法规700部、地方性法规8600多部。但实践中<a href="http://blogs.wsj.com/chinarealtime/2011/11/21/in-china-laws-on-paper-vs-law-in-practice/?mod=WSJBlog&amp;mod=chinablog">它们是如何执行的呢</a>？<i>
+白皮书回顾了后毛泽东时代的立法进展，庆祝“中国特色社会主义法律体系的形成”，“国家经济建设、政治建设、文化建设、社会建设以及生态文明建设的各个方面实现有法可依”，但很少提及执法，许多声明与现实存在巨大差异，例如“尊重和保障人权”、“公民的合法的私有财产不受侵犯”，“独立行使审判权、检察权”。对于法律执行情况，温家宝总理在世界经济论坛上的回答也许可以反映一二，他说，“我们要坚持司法公正，检察和司法机构应保持其应有的独立性，不受任何行政机关、社会团体或个人的干涉”，“执政党当务之急是严格遵守宪法和法律，党不应该取代政府的管治，绝对权力和权力过分集中的问题应予以纠正。”他的话用观察家任易明(Elizabeth Economy)的解释就是，“党不遵守宪法，党滥用权力。”中国未来面临的挑战在于言出如何行，法律应该超脱政治工具的层面，但这一改变需取决于领导层的意愿，愿意赋予法律更重要的意义。</i>
+➜Bradley Manning将在下月出席听证会
+https://www.solidot.org/story?sid=27088	24480
+在被逮捕18个月后，被怀疑泄漏敏感信息的美国陆军情报分析师Bradley Manning将于12月16日<a href="http://www.wired.com/threatlevel/2011/11/bradley-manning-hearing/">出席听证会</a>。<i>
+听证会将在美国陆军位于马里兰州的军事基地Fort Meade举行，预计将持续五天，军方的检察官将公开他们的证据，由法官作出裁决是否对这位年轻的陆军二等兵进行军法审判。陆军指控Manning犯有22项罪行，包括通敌罪、计算机诈骗罪、盗窃公共财产，违反反间谍法等。政府已经表示不会寻求判处他死刑。如果所有指控成立，他将面临终身监禁。
+</i>
+➜冥想对大脑的益处
+https://www.solidot.org/story?sid=27089	26400
+研究人员利用功能性核磁共振成像（fMRI）寻找冥想者与非冥想者的大脑差异，发现冥想似能关闭与遐想、焦虑、精神分裂等精神疾病<a href="http://medicalxpress.com/news/2011-11-tuning-brains-benefit-meditation.html">有关联的大脑区域</a>。报告发表在本周出版的PNAS上。<i>
+领导这项研究的耶鲁大学助理教授<a href="http://medicine.yale.edu/psychiatry/people/judson_brewer-1.profile">Judson A. Brewer</a>说，冥想能应用于不同的健康问题，如戒烟、应对癌症，甚至是银屑病。他们用fMRI扫描了有经验的和初学的冥想者的大脑，发现有经验的冥想者能减少名叫默认模式网络(default mode network)的大脑区域的活动，该区域与焦虑、注意力缺陷和多动障碍等精神疾病有关联。研究人员还发现，当大脑默认模式网络活跃起来，自我监控和认知控制有关的区域也会同时活跃，但这一现象仅见于有经验的冥想者而非新手。这可能意味着，冥想能监测和压制心不在焉状态的出现。在病理模式中，这些状态与自闭症和精神分裂症等疾病有关联。
+</i>
+➜每个人都有一台Surface
+https://www.solidot.org/story?sid=27090	28440
+微软的Surface平板机器面向的高端企业市场，不是人人能负担得起。它最近透露的最新Surface产品是三星的SUR40，售价8400美元，显然不是面向家庭使用。现在，EXOPC公司计划在明年一月举行的CES大展上展示它的40"多重触控交互桌面<a href="http://www.exopc.com/">EXOPC</a>，其售价是平民价格的1299美元，让人人<a href="http://www.osnews.com/story/25354/EXOdesk_Surface_for_Everyone">都有一台Surface</a>。价格如此低主要是因为它与微软的Surface相比技术复杂性较低，Surface能同时处理50个触控点，EXOPC只能同时处理10个点，硬件也可能更廉价。<a href="http://www.youtube.com/watch?v=5dlUi3DnrzA">宣传视频</a>(YouTube)
+➜Linux软件包依赖演化显示捕食者和猎物的关系
+https://www.solidot.org/story?sid=27091	31500
+普林斯顿的一组演化生物学家研究了Debian发行版的演变，分析软件包的依赖和不兼容性，发现包依赖的演化显示出了某种<a href="http://arstechnica.com/science/news/2011/11/over-time-linux-package-dependencies-show-predatorprey-relationship.ars">捕食者和猎物的关系</a>。<a href="http://www.pnas.org/content/early/2011/11/14/1115960108">报告</a>发表在PNAS上。<i>
+研究人员从1993年开始，统计了Debian GNU/Linux的每个稳定版本，比较了每个版本的包数量变化，跟踪软件包的生命历史，观察新软件的引入和旧软件的弃用，并编译了x86版本，随机安装软件以衡量不兼容性。他们发现，在3.0版前系统模块化呈指数增长，之后开始急剧下降，到了某一点后，模块化开始稳定下来。随着时间的发展，软件模块在体积和数量上都在增加，模块之间冲突的数量在减少，但单个模块之内的冲突数却在增加。研究人员称，软件包存在复用现有代码和不兼容出现之间的均衡，用标准生物工具建模的话，包之间的依赖类似于捕食者和猎物的交互关系，它们之间的冲突类似物种的竞争排斥关系。
+</i>
+➜好奇号火星车将在11月26日发射
+https://www.solidot.org/story?sid=27092	34080
+NASA新一代火星车“<a href="http://zh.wikipedia.org/wiki/%E5%A5%BD%E5%A5%87%E8%99%9F">火星科学实验室或好奇号</a>”将在11月26日1502 GMT于卡纳维尔角空军基地<a href="http://www.physorg.com/news/2011-11-nasa-rover-mars-nov.html">发射升空</a>，它将在2012年8月抵达火星。它携带了10种不同的科学仪器，将解答红色星球的众多谜团。<i>
+这些科学仪器<a href="http://www.space.com/13689-nasa-amazing-mars-rover-curiosity-science.html">包括了</a>：能拍摄高清彩色图像和视频的主摄像机；近距离观察岩石和土壤的Mars Hand Lens Imager；帮助漫游车导航的摄像机Mars Descent Imager；样本分析仪是好奇号的心脏；Chemistry and Mineralogy将识别火星表面的化学和矿物质组成；发射激光气化岩石以分析岩石成分的Chemistry and Camera；阿尔法粒子x射线光谱仪分析岩石和尘土中化学元素丰度；寻找冰和水的Dynamic Albedo of Neutrons；辐射评估探测器是为未来的人类登陆火星做准备；漫游车环境监测站将测量大气压、湿度、风速、风向、气温、地温和紫外线辐射。</i>
+➜亚马逊否认安检会破坏kindle的Eink显示屏
+https://www.solidot.org/story?sid=27093	35640
+一些亚马逊Kindle用户投诉机场安检设备会破坏阅读器，他们怀疑带辐射的X光扫描仪会永久影响Eink显示屏。亚马逊<a href="http://tech.slashdot.org/story/11/11/21/1614213/amazon-denies-reports-that-airport-scanners-ruin-kindles-e-ink">否认了这一说法</a>，称kindle不会因此出现任何问题。但剑桥大学教授Daping Chu说，他不认为机场安检设备的辐射会强到足以破坏屏幕，然而扫描仪内橡胶带摩擦产生的静电，可能会对通过的kindle造成冲击，破坏屏幕。
+➜Windows8将捆绑杀毒软件，杀毒软件公司抗议
+https://www.solidot.org/story?sid=27094	37440
+微软十分平静的宣布，Windows8将捆绑反病毒保护组件，不像Windows 7那样需要手动下载Security Essentials。用户多年来一直批评Windows不安全，此举将可增加系统安全性。但对多年来受益于Windows安全漏洞的安全公司来说，这个消息是惊天霹雳，利润颇丰的安全产业面临重新洗盘。Sophos认为更安全的Win8虽然有益于消费者，但会伤害Sophos在内的安全公司。微软的新举措与十多年前的捆绑IE浏览器<a href="http://tech.slashdot.org/story/11/11/21/1814228/ms-to-build-antivirus-into-win8-boon-or-monopoly">应该完全不具有等同性</a>。
+➜自主驾驶波能船开始跨太平洋之旅
+https://www.solidot.org/story?sid=27095	39600
+Liquid Robotics制造的机器人船只<a href="http://www.liquidr.com/pacx/">Wave Gliders</a>上周四<a href="http://www.fastcoexist.com/1678867/these-tiny-boats-will-change-how-we-understand-the-ocean">开始了</a>长达300天的跨太平洋之旅。<i>
+四艘无人驾驶的Wave Gliders离开旧金山海岸，它们将先一起前往夏威夷，然后分道扬镳，两艘前往日本，其余两艘去澳大利亚。航行距离将超过6万公里，将创下无人驾驶船只最长距离的新吉尼斯世界纪录。除了演示机器人船只长距离航行的可行性外，Wave Gliders还将在一路上收集数据如海水盐度、温度、含氧量、电导率、深度、原油荧光光谱、波浪特性，风和天气等。它将只使用波浪能，借助水下水平舵推进，因此不需要补充燃料。顶部的太阳能电池利用太阳能充电，为传感器和发射机提供电力。所有数据将通过卫星实时发射出去，
+</i>
+➜用JavaScript实现JVM运行Java
+https://www.solidot.org/story?sid=27096	41520
+<a href="http://zh.wikipedia.org/wiki/Java">Java</a>不同于一般的编译语言和解释语言。它首先将源代码编译成字节码，然后依赖各种不同平台上的虚拟机来解释执行字节码，从而实现了“一次编译、到处执行”的跨平台特性。借助JavaScript引擎性能提升的东风，程序员Artur Ventura在JavaScript中<a href="http://www.surf-the-edge.com/2011/11/15/bicavm-jvm-in-javascript-why/">实现了JVM虚拟机大部分标准</a>，在Github上发布了<a href="https://github.com/nurv/BicaVM">BicaVM</a>的源代码。

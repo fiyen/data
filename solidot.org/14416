@@ -1,0 +1,49 @@
+➜Apache严重漏洞攻击代码公开
+https://www.solidot.org/story?sid=11945	600
+Apache中的<a href="http://ha.ckers.org/slowloris/">一个严重漏洞</a>将使得拒绝服务攻击（DoS）变得<a href="http://it.slashdot.org/story/09/06/19/1243203/Attack-On-a-Significant-Flaw-In-Apache-Released">异乎简单</a>。Apache 1.x，2.x，dhttpd，GoAhead WebServer和Squid确认都受到影响；IIS6.0，IIS7.0和lighttpd未被波及。Apache基金会目前还没有发布补丁。<i>
+ha.ckers公开的Slowloris代码允许对一台特定的服务器发动缓慢的拒绝访问攻击，而不是用堵塞整个网络，它能让一台机器攻陷了另一台机器的web server，只需使用极少的带宽，对不相关的服务和端口的副效应降到最低。拒绝服务的理想攻击情况是除了webserver不可访问之外，其它服务都完整无缺。Slowloris便源自这个理念，相比大多数攻击方法它更隐蔽。Slowloris首先发送一个不完整的HTTP请求，打开连接，然后每隔一段时间发送剩余的header，以保证通讯端不被关闭，于是webserver的一个线程便被占用了。由于webserver允许的线程数量是有限制的，因此Slowloris会缓慢的消耗掉所有的通讯端口。Slowloris是一个Perl程序，需要Perl解释器才能运行。</i>
+➜人类5000年来首次经历北回归线中点线
+https://www.solidot.org/story?sid=11946	3600
+<a href="http://moses.appspot.com/">Moses</a> 写道 "广东天文学会<a href="http://www.epmax.com/article/show.asp?id=8822">预告</a>, 具有 5000 年文明史的人类今日将首次经历北回归线经过中点线 (北纬 23°26'17"). 6 月 21 日 13 时 46 分是<a href="http://en.wikipedia.org/wiki/Summer_solstice">夏至</a>, 太阳直射地球的最北纬线北回归线.
+<i>
+由于受岁差、章动和极移等天文因素的影响, 北回归线不是一成不变的, 而是每年都会缓慢变动. 目前, 北回归线每年由北向南缓慢移动, 每年移动的平均距离大约为 14.4 米. 据天文学家分析, 北回归线的最北纬线出现在北纬 24°14'39", 最南纬线发生在北纬 22°37'56", 平均值 (中点线) 大约在 23°26'17". 北回归线最北与最南纬线相差约 1.61°, 南北距离相差约 180 公里. 北回归线的完整往返周期时间大约是 37158 年.
+<br> <br>
+1976 年, 在第 16 届国际天文联合会上通过决议: 决定将 2000 年的北回归线地理位置定为 23°26'21.448". 以后, 由于北回归线继续缓慢向南移动, 每年向南移动的度数大约为 0.46845", 即平均每世纪向南移动约为 47". 大约在 11300 年 (即再过 9291 年), 北回归线将漂移到最南点 (北纬 22°37'56"). 因此, 北回归线今年大约位于北纬 23°26'17", 为人类有文字和文明史以来首次过中点.
+</i>
+据计算, 距离下一次北回归线经过中点, 还相隔大约 18580 年."
+➜wikileaks公开意大利秘密审查黑名单
+https://www.solidot.org/story?sid=11947	17100
+Wikileaks公开了<a href="https://secure.wikileaks.org/wiki/Italian_secret_internet_censorship_list%2C_287_site_subset%2C_21_Jun_2009">意大利的秘密互联网审查名单</a>，共包含287个网址。类似的审查系统都是借着打击儿童色情的名义实行的，由于缺乏透明度，审查系统和黑名单尤为引人关注。Wikileaks声称意大利的黑名单多数与儿童色情无关，有些是合法的成人内容，但还有的与色情丝毫不相干。意大利的黑名单是通过DNS服务器执行，当输入一个被黑名单屏蔽的地址后，原始地址会被定向到<a href="http://212.48.170.80/">212.48.170.80</a>，用户会看到一个警告标识。
+➜来自伊朗的Tor客户端数量显著增加
+https://www.solidot.org/story?sid=11949	19680
+伊朗政府大规模封锁互联网，匿名代理服务器成为伊朗网民手中<a href="http://radar.oreilly.com/2009/06/tor-and-the-legality-of-runnin.html">绕过封锁的最主要工具</a>。<a href="http://zh.wikipedia.org/wiki/Tor">Tor</a>是比较受流行的匿名代理服务器，Tor项目的执行董事Andrew Lewman<a href="https://blog.torproject.org/blog/measuring-tor-and-iran">指出</a>，过去5天里，来自伊朗的客户端数量增加了10倍。总体上，过去5天Tor客户端数量增加了3倍。<i>
+电子前哨基金会（EFF）的技术专家称过去一周全世界冒出了数千新的代理服务器，他们担心不加密的代理服务器会很容易受到伊朗政府的监视，因此SSL加密代理更安全，但它们比Tor路由更难建立，而且有报道说伊朗至少屏蔽了少数加密代理服务器，EFF推荐用户设立Tor节点或Tor路由，而不是只考虑代理服务器。</i>
+➜这个六月又要平安过去了，感谢我们
+https://www.solidot.org/story?sid=11948	20400
+<a href="mailto:jerryofwong@gmail.com">懦夫</a> 写道 "有人在百度空间发表<a href="http://cang.baidu.com/baidu/snap/5d79494a1e7b9fa6d024c961.html">文章</a>，表示：“人民公安说最近半个月最好少涉及点敏感问题，不宣传，不参与。”同样地，<a href="__SLASHLINK__" sect="internet" sid="09/06/12/1713204" sn="article" tid="67">一些blog</a>也在近期被要求不发政治贴。这正是利用了这些人的懦夫性。虽然人民公安只是在5-6月只是微微地说一下，但这些懦夫、种族收到5000年<a href="http://zh.wikipedia.org/wiki/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96#.E4.BE.8B.E5.AD.90">愚民政策</a>、<a href="http://zh.wikisource.org/wiki/%E8%80%81%E5%AD%90_(%E5%8C%AF%E6%A0%A1%E7%89%88)#.E4.BA.8C.E5.8D.81.E4.BA.8C.E7.AB.A0">曲则全</a>之教育的人却十分害怕，再也不敢发这种贴。正义的人民公安利用了他们的弱点，真是伟大呀！"
+➜预言一则
+https://www.solidot.org/story?sid=11950	21540
+浆糊老大 写道 "来源：
+<a href="http://news.163.com/09/0615/10/5BRG2ILB000120GR.html">http://news.163.com/09/0615/10/5BRG2ILB000120GR.ht ml</a>
+河水对渠水说：“你看我多自由自在，不像你，整天按照人类的意志在渠道里流动。”渠水说：“不错，我是在按着人类的意志流动，你不也是在按着大自然的意志流动吗？与其都是在流动，还不如按照人的意志而有用地流动。比如，我可以蓄水发电，灌溉良田，你呢？再者，只要你深刻理解了自由，你就会明白：‘在渠道里的自由并不见得比渠道外的自由少。’”"
+➜Chrome3.0，Firefox3.5，Safari 4.0和Opera 10内存占用比较
+https://www.solidot.org/story?sid=11951	21840
+Dotnetperls.com在一台32位Vista Home Premium，4GB内存的机器上<a href="http://dotnetperls.com/chrome-memory">对比</a>了Chrome3.0，Firefox3.5RC1，Safari 4.0和Opera 10打开150个最流行网站时的内存占用，使用脚本自动载入网页，结果显示Firefox3.5RC是其中<a href="http://tech.slashdot.org/story/09/06/20/1951212/Memory-Usage-of-Chrome-Firefox-35-et-al">占用内存最少的浏览器</a>。结果显示：<i>
+最大内存使用——Chrome：1216.16 MB（最大，原因是其特殊的处理架构），Firefox：327.65 MB（最小），Opera：554.11 MB，Safari：517.00 MB；平均内存使用——Chrome：543.83 MB（最大），Firefox：166.82 MB（最小），Opera：347.45 MB，Safari：319.44 MB；关闭浏览器会话后的内存占用——Chrome：109.49 MB，Firefox：106.66 MB（最小），Opera：441.49 MB（最大），Safari：349.62 MB。Safari 4和Opera会随时间逐渐减少内存占用，而Chrome和Firefox 3.5在释放内存上表示最出色。</i>
+作者没有比较Internet Explorer8，原因是无法找到一种方法能防止IE浏览器打开新窗口，而不是新标签页。
+➜德国议员加入盗版党
+https://www.solidot.org/story?sid=11952	25800
+德国联邦议会议员Jörg Tauss宣布离开社会民主党（SPD），<a href="http://yro.slashdot.org/story/09/06/20/1932230/German-Member-of-Parliament-Joins-Pirate-Party">加入德国盗版党</a>。他离开社会民主党的起因是在周四的<a href="__SLASHLINK__" sect="internet" sid="09/06/19/067203" sn="article" tid="120">互联网审查法律</a>投票中，除了4名成员外该党全都支持审查法律。该法律规定所有的网络运营商都有义务封锁儿童色情网页。2009年3月Tauss因持有儿童色情材料而成为德国警察调查的对象，Tauss辩解称儿童色情材料仅仅是研究之后。调查仍在进行之中。
+➜谷歌公司表示将彻查搜索结果
+https://www.solidot.org/story?sid=11953	26880
+<a href="http://www.u88ff.cn/">u88</a> 写道<i> "谷歌发表声明表示，该公司正在对所提供的所有互联网搜索服务<a href="http://tech.163.com/09/0621/00/5C9T00IS000915BF.html">进行彻底检查</a>，努力摒除包括对于儿童有害的信息在内的网络低俗信息，但这项工作是一个复杂的工程。谷歌公司硅谷总部表示，该公司有关负责人已与中国政府相关部门就“谷歌中国”网站服务以及外文搜索中存在的低俗内容及图片进行了沟通，网站将“采取一切必要措施来解决网络搜索结果中存在的问题”。声明称，目前谷歌公司“绝大部分存在问题的搜索结果已解决”。全国整治互联网低俗之风办公室19日向媒体透露，国家有关部门已经召见“谷歌中国”网站负责人，对该网站大量传播淫秽色情内容进行执法谈话，宣布<a href="__SLASHLINK__" sect="it" sid="09/06/19/0847216" sn="article" tid="26">暂停</a>该网站境外网页搜索业务和联想词搜索业务，并责令其立即进行整改，彻底清理淫秽色情和低俗内容。据全国整治互联网低俗之风办公室透露，“谷歌中国”网站负责人承认该网站大量传播淫秽色情和低俗信息，严重违反了国家有关法律法规，严重侵害了青少年身心健康，并就此事向公众道歉。</i>
+➜雷布莱伯利喜欢图书馆讨厌互联网
+https://www.solidot.org/story?sid=11954	29520
+著名科幻小说作家(代表作《火星纪事》、《华氏451度》)、89岁的<a href="http://zh.wikipedia.org/w/index.php?title=%E9%9B%B7%C2%B7%E5%B8%83%E8%90%8A%E4%BC%AF%E5%88%A9&amp;variant=zh-cn">雷·布莱伯利（Ray Bradbury）</a>称他<a href="http://www.nytimes.com/2009/06/20/us/20ventura.html?_r=1">热爱图书馆痛恨互联网</a>，最近他还捐出28万美元好让Ventura郡图书馆继续开放。布莱伯利表示<a href="http://tech.slashdot.org/story/09/06/20/1828253/Ray-Bradbury-Loves-Libraries-Hates-the-Internet">互联网太让人分心</a>。<i>
+布莱伯利生于1920年，1938年自高中毕业后没有进入大学，而是在街旁卖报营生。他通过图书馆自学，在杂志上发表文章，逐渐崭露头角，成为著名的科幻作家。布莱伯利常在图书馆发表演讲，他表示是图书馆教育了他，他不相信大学和学院，但相信图书馆，因为多数学生没有多少钱。当他从高中毕业时，正处于大萧条时期，他没钱进入大学，因此他每周去图书馆自修三天，十年如一日。至于互联网，布莱伯利表示它是一个巨大的让人分心的事物。“雅虎八周前打电话给我”，他声音提高，“他们想要把我的一本书放到雅虎上。你知道我怎么回答的吗？去死吧！和互联网一起去死吧！”他认为互联网分散注意力，不真实，毫无意义。</i>
+➜Google街景图协助警察破案
+https://www.solidot.org/story?sid=11955	32400
+<a href="http://www.u88ff.cn/">u88</a> 写道<i> "荷兰警方<a href="http://news.bbc.co.uk/2/hi/europe/8110363.stm">逮捕一对涉嫌抢劫的双胞胎兄弟</a>(<a href="http://it.people.com.cn/GB/42891/42894/9513071.html">中文</a>)。受害者在搜索网站谷歌为用户提供街景图片的“街道视图”功能时，发现当时嫌疑人尾随自己的图片，让警方得以实施抓捕。受害者是一名14岁男孩，他去年9月在大街上遭两名嫌疑人打劫，被抢走165欧元（约合230美元）和一部手机。这名男孩今年3月通知警方，他在“街道视图”中看到嫌疑人尾随自己的照片。警方随即与谷歌公司联系，要求获得原始图片。在“街道视图”中，所有“出镜”者的面部作模糊处理。警方向谷歌方面提出正式请求，说明事件原委后得到配合。看了原始图片后，一名专门侦办抢劫案的警官认出了有前科的嫌疑人。警方随后抓捕这两名嫌疑人，检察官正在考虑是否对他们提出上诉。</i>
+➜安徽一工厂爆炸16人死亡
+https://www.solidot.org/story?sid=11956	40200
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道<i> "这个工厂已经夷为平地。死者大部分是厂内职工，伤者不少是附近村民。可从新华网上看到<a href="http://news.xinhuanet.com/photo/2009-06/21/content_11576812.htm">废墟图片</a>，Google上的<a href="http://news.google.com/news/more?um=1&amp;hl=zh-CN&amp;cf=all&amp;ncl=dvIkcZR7OAp28PM8XUO57XFnqXUcM">类似新闻</a>，<a href="http://blogsearch.google.cn/blogsearch?hl=zh-CN&amp;topic=so&amp;ie=UTF-8&amp;q=%E5%AE%89%E5%BE%BD+%E7%88%86%E7%82%B8&amp;btnG=%E6%90%9C%E7%B4%A2%E5%8D%9A%E5%AE%A2&amp;lr=">博客帖子</a>。<br> <br>我从google reader上看到，似乎<a href="http://edition.cnn.com/2009/WORLD/asiapcf/06/21/china.blast/index.html?eref=edition_asia">CNN</a>是最先报道这个新闻的，之后是<a href="http://timesofindia.indiatimes.com/16-killed-in-China-factory-blast/articleshow/4683097.cms">times of india</a>。"</i>

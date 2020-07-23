@@ -1,0 +1,48 @@
+➜Steam 中国用户数达到三千万
+https://www.solidot.org/story?sid=58339	12273
+根据 Valve 在 Melbourne Games Week 上提供的<a href="https://twitter.com/GamesWeekMelbs/status/1054539574091767809"><u>数据</u></a>，Steam 的月活跃用户数过去一年增加了 2300 万，从 6700 万增加到了 9000 万以上，其中中国玩家数量增长最快，月活跃用户数翻了一番，从去年的 1500 万增加到了<a href="https://www.gamesindustry.biz/articles/2018-10-24-steam-reaches-90m-monthly-active-users"><u> 3000 万</u></a>。下载统计数据也能从侧面反映这一趋势，根据 Steam 官方的<a href="https://store.steampowered.com/stats/content/"><u>下载统计</u></a>，过去 7 天中国区的下载量 34.6 PB，占 Steam 全球流量的 13.4%，仅次于美国的 42.5 PB（16.5%）。 中国活跃玩家数量的大幅增长可能是多种因素结合的结果，包括大逃杀游戏《绝地求生》和 DOTA 2 在内的流行网游在中国非常受欢迎，而中国监管机构冻结新游戏审批，游戏审查的过于严厉，以至于腾讯在其平台上大力推广的动作游戏《Monster Hunter: World》刚上线就下架，中国区较低的价格等都吸引了越来越多的中国玩家进入 Steam 平台。<br>
+➜Google 现在要求合作厂商提供两年的安全更新
+https://www.solidot.org/story?sid=58340	13839
+Google 每个月都会为 Android 系统释出安全更新，但真正能及时打补丁的厂商少之又少，大部分 Android 厂商在手机发布之后就不再提供系统更新。市场上存在漏洞的 Android 手机可能数不胜数。Google 现在想要改变这一状况，它明确要求与它签署合同的设备厂商提供<a href="https://www.theverge.com/2018/10/24/18019356/android-security-update-mandate-google-contract" target="_blank"><u>至少两年的安全更新</u></a>，在手机发布一年之内至少提供四次安全更新。第二年的更新次数 Google 没有规定，但它强制要求必须更新。Google 的新合同协议条款针对的是 2018 年 1 月 31 日之后发布的手机，手机激活数量至少 10 万。1 月 31 日起厂商四分之三的强制安全更新型号必须提供补丁，从明年 1 月 31 日起所有强制安全更新型号必须提供补丁。
+➜三星起诉使用 iPhone 的品牌大使
+https://www.solidot.org/story?sid=58341	15027
+品牌大使在公开场合使用竞争对手的手机固然是违反签署的协议，但一般情况下你还是很少会看到企业因此将品牌大使告上法庭。三星就这么做了，可能是认为对方给公司形象造成了巨大损失。三星正在起诉它的俄罗斯品牌大使 Ksenia Sobchak，她在接受电视采访时被发现试图掩盖其使用的 iPhone X 手机。此外她还多次在公开场合被发现使用了 iPhone X，违反了禁止在公开场合使用竞争对手产品的品牌推广协议。三星向 Sobchak <a href="https://appleinsider.com/articles/18/10/24/samsung-brand-ambassador-sued-for-16-million-for-using-iphone-x-in-public" target="_blank"><u>索赔 160 万美元</u></a>。
+➜苹果 CEO 呼吁制定美国隐私保护法律
+https://www.solidot.org/story?sid=58342	17704
+苹果 CEO 库克（Tim Cook）在布鲁塞尔举办的 International Conference of Data Protection and Privacy Commissioners 会议上<a href="https://arstechnica.com/tech-policy/2018/10/tim-cook-calls-for-strong-us-privacy-law-rips-data-industrial-complex/" target="_blank"><u>呼吁美国政府制定一个全面的联邦隐私保护法律</u></a>，称大量收集用户数据的科技公司是在进行监视。库克赞扬了欧盟的数据保护法规 GDPR，称包括美国在内的世界其它国家应该效仿欧盟。库克在演讲中没有指名道姓，但他批评的对象是 Google 和 Facebook 使用的广告商业模式，他批评这些公司将利润放在隐私之上。他说，苹果相信隐私是基本的人权，但不是所有人都这么看。库克认为技术应该始终以人为本。对于库克的表态，前 Facebook 高管 Alex Stamos 质疑了苹果在中国的做法，它需要解释自己是如何保护储存在中国国有云服务商服务器上的用户数据的。
+➜安全研究人员公开另一个 Windows 0-day 漏洞
+https://www.solidot.org/story?sid=58343	19545
+安全研究员 SandboxEscaper 通过 Twitter <a href="https://twitter.com/SandboxEscaper/status/1054744201244692485?ref_src=twsrc%5Etfw" target="_blank"><u>披露了</u></a>另一个 Windows 0-day 漏洞，他在 GitHub 上公布了漏洞利用的<a href="https://github.com/SandboxEscaper/randomrepo/blob/master/DeleteBug1.rar"><u>概念验证代码</u></a>（删除 PCI 驱动，请勿直接在自己的 Windows 机器上测试）。该漏洞<a href="https://arstechnica.com/gadgets/2018/10/another-windows-0-day-flaw-has-been-published-on-twitter/"><u>允许</u></a>未经许可删除任何文件，其中包括系统文件，它可用于提权。漏洞与 Data Sharing Service 有关，它存在于 Windows 10、Server 2016 和 2019 操作系统中，因为需要同时进行两次行动，SandboxEscaper 称在单核机器上利用漏洞非常困难。微软还没有释出补丁，临时的修正已经通过 <a href="https://0patch.com/"><u>oPatch</u></a> 平台提供。
+➜研究发现高个子有更高的癌症风险
+https://www.solidot.org/story?sid=58344	25427
+加州河滨分校的研究人员在《皇家学会报告B系列》发表<a href="http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2018.1743"><u>报告</u></a>，身材更高大的人有更多的细胞，意味着体内<a href="https://www.abc.net.au/chinese/2018-10-25/tall-people-have-higher-cancer-risk/10428068"><u>有更多的癌症</u></a>：平均身高每多出 10 厘米，患癌症的风险就增加了约 10％。论文作者 Leonard Nunney 教授称，“如果你把一个身高 5 英尺[约合 1.52 米]高的男性和一个身高超过 7 英尺[ 2.13 米]的篮球运动员进行比较，那么该篮球运动员患上各类癌症的风险大约是另一人的两倍 。”他还发现，个子更高的人患黑色素瘤的风险要高得多，女性患甲状腺癌的几率更高。但这并不是说高个子应该为此而恐慌。“现在，你不能对自己的身高做任何事情，但你能做的就是告诉个高的人，他们应该意识到这一点，如果他们有任何顾虑，就需要接受检查，”他说。“我认为这只是建议人们要更加提高警惕。”
+➜法庭裁决 Google 不能在用户设备上移除第三方应用商店
+https://www.solidot.org/story?sid=58345	28048
+葡萄牙法院<a href="https://www.prnewswire.com/news-releases/aptoide-eu-national-court-rules-against-google-in-anti-trust-process-821883497.html"><u>裁定</u></a> Google 不能未经用户同意在设备上移除第三方应用商店 Aptoide。Aptoide 位于葡萄牙，有 2.5 亿用户，它指控 Google 在 Android 设备中隐藏第三方应用商店并弹出警告信息，称 Google 的做法导致其在过去 60 天内损失了超过 220 万用户。<a href="https://en.wikipedia.org/wiki/Aptoide" target="_blank"><u>Aptoide</u></a> 是一个流行的第三方应用商店，只提供开源应用下载的 F-Droid 就是 Aptoide 的一个分支。Android 系统可以自由安装第三方应用商店，Google 移除 Aptoide <a href="https://tech.slashdot.org/story/18/10/24/1436246/google-cant-remove-third-party-app-store-aptoide-from-users-android-phones-portuguese-courts-rule" target="_blank"><u>很可能</u></a>是因为该平台上的盗版应用，也就是用户可以从 Aptoide  商店免费下载 Google Play 里的付费应用。
+➜三星苹果因有意降低旧手机性能被罚款
+https://www.solidot.org/story?sid=58346	28869
+意大利竞争监管机构的调查发现，苹果和三星的软件更新显著降低了旧型号手机的性能，两家公司因为“计划性报废”而分别<a href="https://www.theguardian.com/technology/2018/oct/24/apple-samsung-fined-for-slowing-down-phones" target="_blank"><u>被罚款</u></a> 1000 万欧元和 500 万欧元。这一罚款被认为是针对智能手机厂商“计划报废”做法的首个裁决。苹果和三星的旧型号手机操作系统在更新之后被指性能出现了下降，被控旨在鼓励客户更换手机。意大利竞争监管机构认为两家的商业行为不诚实，没有向客户提供软件更新影响的充分信息，或者是恢复原有功能的方法。
+➜日本给予数字货币行业自我监管状态
+https://www.solidot.org/story?sid=58347	31246
+日本金融厅<a href="https://www.reuters.com/article/us-japan-cryptocurrency/japan-grants-cryptocurrency-industry-self-regulatory-status-idUSKCN1MY10W" target="_blank"><u>给予数字货币行业自我监管状态</u></a>，允许日本虚拟货币交易协会制定政策和惩罚违反政策的交易所。日本的数字货币交易所过去发生了两起严重的失窃事故。金融厅允许行业协会制定规则保护客户的资产和防止洗钱。行业协会还被授予了合规监督的权力。金融厅的一位高级官员称，数字货币是一个快速发展的行业，因此最好让专家而不是官僚去及时制定规则。日本经营数字货币交易所需要获得政府的批准，目前该国有 16 家获得批准的数字货币交易所，去年 12 月以来金融厅几乎冻结了审批。官员表示审批流程将会更严格。
+➜机器人程序像人类程序员一样修 bug
+https://www.solidot.org/story?sid=58348	33951
+程序总是不可避免会存在 bug，发现 bug 然后修复是程序员日常生活的一部分。但这个过程非常耗时间，因此有些研究人员想要设计出机器人程序去自动化这个流程。但这些机器人程序写的代码质量不高，通常不会被接受。大多数情况下，程序员都是利用机器人程序去寻找 bug 然后自己写代码去修复。现在，瑞典皇家理工学院的研究人员开发的机器人程序<a href="https://www.technologyreview.com/s/612336/a-bot-disguised-as-a-human-software-developer-fixes-bugs/" target="_blank"><u>能写出高质量的代码</u></a>。研究人员称他们的机器人程序叫 Repairnator，将其伪造成人类用户 Luc Esape，在流行的代码托管平台 GitHub 上与人类开发者竞争修 bug。第一次测试不成功，Repairnator 写的代码质量太低而没有被发现 bug 的项目接受。第二次测试比较成功，Repairnator 写的五个补丁被接受了。他们的<a href="http://arxiv.org/abs/1810.05806" target="_blank"><u>论文</u></a>《Human-competitive Patches in Automatic Program Repair with Repairnator》发表在预印本网站上。
+➜特朗普私人手机可能遭中俄窃听
+https://www.solidot.org/story?sid=58349	36636
+纽约时报援引现任和前任美国官员的消息<a href="https://cn.nytimes.com/usa/20181025/trump-phone-security/"><u>报道</u></a>，特朗普私人手机遭到了中俄的窃听。特朗普的助手多次警告他用手机打电话不安全，表示这位健谈的总统如今因为受到外界压力，开始更多地使用白宫的安全座机，但仍拒绝放弃自己的 iPhone。白宫官员表示，他们只能希望他不要在 iPhone 上与人讨论机密信息。多名现任及前任官员详细描述了特朗普使用 iPhone 的情况，为了便于讨论机密情报及敏感的安全安排，他们要求匿名。这些官员表示，他们这么做不是为了破坏特朗普的权威，而是出于对在他们看来总统对电子安全态度随意的不满。这些官员表示，美国间谍机构已经通过外国政府内的线人及截获的外国官员之间的通讯得知，中国和俄罗斯都在偷听总统的手机通话。
+➜你的手机在监视你，你也可以监视它
+https://www.solidot.org/story?sid=58350	38713
+如果你开了手机并有信号，不管你有没有让它这么做，它都可以和各种各样的公司进行沟通，其中许多公司你都不会跟它们有任何直接的关系。是的，即使你不用手机，这也可能发生。你的手机和其他个人计算设备非常了解你。它们知道并且经常分享这些信息，例如你在哪里、你要去哪里、你是谁的朋友、你使用什么应用程序、你访问哪些网站、你多久访问一次、你给谁发电子邮件、你打电话给谁，等等等等。所以要问一下，你知道你的应用程序和设备正在分享哪些关于你的信息吗？和谁分享？<a href="https://www.abc.net.au/chinese/2018-10-25/my-phone-is-spying-on-me/10428980" target="_blank"><u>如何监视你的手机</u></a>？方法不难，就是设置一个 MITM 代理，让手机上的所有请求都通过这个代理，然后记录下来进行分析，<a href="https://github.com/abcnews/data-life"><u>具体细节</u></a>可查看 GitHub。
+➜PNG 格式联合设计者去世
+https://www.solidot.org/story?sid=58351	40324
+图像格式 <a href="https://zh.wikipedia.org/wiki/PNG"><u>PNG</u></a>（Portable Network Graphics）早期核心设计者、PNG Development Group 的联合创始人 Glenn Randers-Pehrson <a href="https://sourceforge.net/p/png-mng/mailman/message/36447670/" target="_blank"><u>去世</u></a>。他是 PNG 规格 version 1.0、PNG 1.1 和 1.2 的主要作者，1995 年在 Web 上发布了最早一批的 PNG 图像。他也是 PNG 参考库 libpng 的长期负责人。
+➜韩朝解除共同警备区武装
+https://www.solidot.org/story?sid=58352	41323
+韩国国防部周四<a href="http://chinese.yonhapnews.co.kr/domestic/2018/10/25/0401000000ACK20181025005300881.HTML"><u>表示</u></a>，韩朝当天完成解除板门店共同警备区武装的工作，这是该地区时隔 42 年解除武装，也是韩朝共同落实《板门店宣言》军事协议取得的第一项成果。韩朝还将同联合国军司令部一道，在明后两天开启共同检查，确保共同警备区武装完全解除。核查之后游客就可以自由穿过朝韩分界线。韩国政府寻求把朝韩两国的公路和铁路连接在一起，地方政府则在宣扬在非军事区开发新旅游区。但该计划还<a href="http://www.ftchinese.com/story/001079950"><u>面临着重重困难</u></a>，包括在朝鲜战争结束后埋在非军事区的逾 100 万颗地雷。
+➜芬兰广告过滤列表加入了政治性网站
+https://www.solidot.org/story?sid=58353	46583
+芬兰多个服务行业工会因为薪酬方面的分歧而从周三开始举行为期三天的<a href="https://yle.fi/uutiset/osasto/news/security_guard_3-day_strike_to_start_on_wednesday/10469154"><u>大罢工</u></a>。芬兰广告过滤列表 FIN: Finnish Addition to Easylist -list 的维护者在其维护的过滤网站名单里<a href="https://archive.is/1WYkz" target="_blank"><u>加入了</u></a>这些工会的网址，其中包括 superliitto.fi, <a href="https://en.wikipedia.org/wiki/Central_Organisation_of_Finnish_Trade_Unions"><u>sak.fi</u></a>, akt.fi, selry.fi, akava.fi, oaj.fi, stthl.fi, proliitto.fi, pam.fi, sahkoliitto.fi。此举引发了广泛争议，维护者被批评滥用权力，用户以破坏信任的理由<a href="https://github.com/uBlockOrigin/uBlock-issues/issues/285" target="_blank"><u>呼吁将整个列表移除</u></a>。
+➜《王者荣耀》启用强制公安实名校验
+https://www.solidot.org/story?sid=58354	47416
+腾讯旗下热门手游《王者荣耀》上个月<a href="https://www.solidot.org/story?sid=57848"><u>宣布</u></a>将接入公安数据平台，加强实名制检查。《王者荣耀》去年曾遭到党媒的批评，称其忽视了社会责任，让儿童沉迷于游戏，这一批评促使腾讯推出了防沉迷系统。在《王者荣耀》的最新更新中，腾讯通过接入公安权威数据平台进行校验，判断相关帐号的实名信息是否为未成年人，进而决定是否将此帐号纳入到健康系统的防沉迷体系中。现在，腾讯<a href="http://www.bjnews.com.cn/finance/2018/10/25/514317.html"><u>宣布</u></a>正式启动《王者荣耀》全部用户的强制公安实名校验，未通过校验的游戏账号将禁止登录。同时，为杜绝未成年人“玩小号”的问题，一个未成年人实名信息仅允许用于微信和 QQ 平台各一个游戏账号的校验。腾讯的手游和其它游戏业务因政府冻结审批而导致收入大幅下滑，市值蒸发近半，《王者荣耀》的活跃用户数量也已经大幅下降。

@@ -1,0 +1,40 @@
+➜中国虎骨虎皮交易仍然活跃
+https://www.solidot.org/story?sid=14314	5700
+time 写道 "总部设在伦敦及华盛顿特区的环保机构<a href="http://www.eia-international.org/cgi/news/news.cgi?t=template&amp;a=557&amp;source=">EIA</a>发现在中国多处地方仍存在<a href="http://news.bbc.co.uk/earth/hi/earth_news/newsid_8321000/8321033.stm">虎骨虎皮交易</a>，此外还包括雪豹等其它珍稀动物。<i>
+7.25-8.19间EIA在中国西部五个城市展开调查。调查期间，向调查组兜售的珍稀动物制品共计4张完整虎皮、12张豹皮、11张雪豹皮和2张云豹皮，另外还包括相应的兽骨和兽牙。每张虎皮的售价可达到79620 – 149271圆，而中国传统药材虎骨每公斤价格为8538圆。<br>
+1993年，中国国务院发布《<a href="http://www.china.com.cn/zhuanti2005/txt/2003-04/15/content_5313829.htm">关于禁止犀牛角和虎骨贸易的通知</a>》，禁止犀牛角和虎骨的一切贸易活动。此外虎骨已被证实和其它兽骨相比<a href="http://www.chinadialogue.net/article/show/single/ch/552-China-s-trade-in-tiger-bones?page=2">不具有任何特殊疗效</a>，虎骨入药只是一种愚昧的延续。"</i>
+➜Linux Kernel的新时限调度方案
+https://www.solidot.org/story?sid=14315	15900
+上个月在德累斯顿举行的<a href="http://www.osadl.org/Dresden-2009.rtlws11-dresden-2009.0.html">实时（Real-Time）Linux专题讨论会</a>上，有大量讨论是关于<a href="http://linux.slashdot.org/story/09/10/20/137241/Deadline-Scheduling-Proposed-For-the-Linux-Kernel">Linux kernel的新时限调度器</a>（Deadline Scheduling），目的是增强Linux的实时性能。多数内核开发者认为新调度器要基于Earliest Deadline First (EDF)实时算法。<i>
+在会议举行之前，开发者们已经在邮件列表上<a href="http://lkml.org/lkml/2009/9/22/186">讨论</a>第一种方案草案“SCHED_EDF”。上周这个调度类型方案更名为SCHED_DEADLINE，公布了<a href="http://lkml.org/lkml/2009/10/16/161">第二个草案版本</a>，<a href="http://gitorious.org/sched_deadline">代码</a>已经发布到Gitorius上。<a href="http://www.evidence.eu.com/sched_deadline.html">这篇文章</a>有更详细的介绍。时限调度是满足用户时限为调度原则的算法，因为很多实时应用程序更关注的是任务完成（或开始）的时间而不是速度。时限调度利用算法优先选择对时限最接近的进程。</i>
+➜苹果终止ZFS项目
+https://www.solidot.org/story?sid=14316	19080
+苹果正式宣布了<a href="http://apple.slashdot.org/story/09/10/23/2210246/Apple-Discontinues-ZFS-Project">终止ZFS项目</a>。之前，苹果曾广为宣传将在 Snow Leopard服务器版中使用ZFS文件系统。然后几个月之后，苹果网站所有涉及ZFS的文章都销声匿迹，到 Snow Leopard正式上市，ZFS也不见踪影。但苹果并没有正式宣布放弃ZFS，直到现在才在项目主页上贴出一份终止 <a href="http://zfs.macosforge.org/">声明</a>。邮件列表和库也将在不久以后移除。有人<a href="https://groups.google.com/group/zfs-macos/browse_thread/thread/bb8b14d78737b649">呼吁</a>开发者继续开发苹果ZFS项目另一个分支<a href="http://github.com/peaceful/zfs-mac">zfs-mac</a>。
+➜Symbian基金会公布Symbian Kernel源代码
+https://www.solidot.org/story?sid=14317	23520
+Symbian基金会提前<a href="http://symbian.org/media/news/pr2009_10.php">公开</a>了Symbian的EKA2实时、多任务、对称多处理（SMP）微内核源代码，使用的是<a href="http://www.eclipse.org/legal/epl-v10.html">Eclipse Public许可证</a>。Symbian基金会还免费提供了完整的开发工具包，这是朝<a href="http://www.osnews.com/story/22387/Symbian_Foundation_Opens_Symbian_Kernel_Source_Code">Symbian平台开源</a>迈出的重要一步。<i>
+Symbian基金会的<a href="http://developer.symbian.org/wiki/index.php/Category:Kernel_&amp;_Hardware_Services">工具包</a>包括：开源内核和其它相关的软件包；高性能ARM编译工具RVCT4.0，开发者和雇员少于20人的企业可免费使用；基于QEMU的开源模拟环境；低成本Beagle Board主板的开源支持包；支持二进制封装；以及硬件可执行环境。</i>
+Symbian目前在智能手机市场仍占据了大约50%的份额，但正面临来自BlackBerryOS、iPhone、Windows Phone、Android和webOS的挑战。
+➜自由主义者攻击自由软件
+https://www.solidot.org/story?sid=14318	26400
+自由主义者和自由市场拥护者<a href="http://www.washingtonexaminer.com/opinion/columns/OpEd-Contributor/_Net-Neutrality_-Is-Socialism_-Not-Freedom-8410175.html">认为</a>，互联网是自由市场的产物，它掀起了通信、言论自由、教育和商业领域的革命。现在一些人呼吁的“网络中立”概念，实际上是试图对互联网实行控制。<i>
+美国通信委员会（FCC）就试图以“网络中立”的“开放”和“自由”来赋予自己决定互联网上每一比特数据如何传输的权力。自由主义者认为，网络中立运动的激进鼓吹者心中想实现的就是社会主义和共产主义。网络中立运动可以追溯到自由软件创始人，自由软件基金会主席<a href="http://zh.wikipedia.org/zh-hans/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC">Richard Stallman</a>，他从1980年代开始宣传“copyleft”。有人指出，自由软件和自由市场一样竞争激烈，<a href="http://news.slashdot.org/story/09/10/23/1446219/When-Libertarians-Attack-Free-Software">这一攻击是找错了对象</a>，是搬起石头砸自己的脚。</i>
+➜“什么”无法使用Google.Com搜寻
+https://www.solidot.org/story?sid=14319	38520
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道<i> "本来还想继续学习《<a href="__SLASHLINK__" sect="society" sid="09/05/31/1038249" sn="article" tid="67">六个为什么</a>》，<a href="http://www.google.com/search?hl=en&amp;source=hp&amp;q=%E5%85%AD%E5%80%8B%E7%82%BA%E4%BB%80%E4%B9%88&amp;btnG=Google+Search&amp;aq=f&amp;oq=&amp;aqi=">在Google.Com搜寻</a>，发现结果无法显示了。什么东西让Google不能查询这个词？"</i>
+这个问题一个月前<a href="__SLASHLINK__" sect="internet" sid="09/09/17/0515253" sn="article" tid="100">已经提出过了</a>。
+➜百度搜索结果中外有别
+https://www.solidot.org/story?sid=14320	46800
+一位博客发现，中国大陆占领先地位的搜索引擎百度，其搜索查询结果中外有差异。他<a href="http://justso.cn/2009_10_24_323.htm">发现</a>“从美国访问百度关键字【<a href="http://www.baidu.com/s?tn=monline_dg&amp;bs=%C1%AA%B0%EE%BF%EC%B5%DD&amp;f=8&amp;wd=%C1%AA%B0%EE%BF%EC%B5%DD">联邦快递</a>】，结果和Google基本一致，左侧无【推广】，右侧广告是一些正规公司的付费广告....”如果用中国IP地址查询，第一屏大部分是付费推广链接，也就是百度最主要的商业模式——竞价排名。我用德国的IP地址验证了一下，“联邦快递”的结果确实如此，但其它关键词查询结果并无多少区别，排在前面主要为“竞价排名”，似乎这只是一个个案。
+➜调查称接触农药越多，越会产生自杀念头
+https://www.solidot.org/story?sid=14321	47400
+根据一项对中国农民的调查，接触农药越多，<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-10/kcl-pel102209.php">产生自杀念头可能性越大</a>。<i>
+英国国王学院和浙江立同德医院的研究人员<a href="http://www.who.int/bulletin/volumes/87/10/08-054122.pdf">抽样调查了浙江省9811名农村居民</a>(PDF)，询问了他们储存农药的方式，以及是否在调查前两年内考虑过自杀。调查发现，与接触农药越多的人，越可能考虑自杀。存有农药比例最高的地区，产生自杀念头的比例也最高。研究人员认为，生物学证据表明长期少量接触的农药等化学药品，极易通过皮肤和呼吸器官而被身体吸收，可能会对心理健康造成不利影响。这项研究是首次从流行病学的角度进行了证明。中国常用的农药是有机磷农药，在许多西方国家已被禁用。</i>
+➜Google Chrome for Mac开发者版发布
+https://www.solidot.org/story?sid=14322	48720
+Google正式发布了<a href="http://www.google.com/chrome/intl/en/eula_dev.html?dl=mac">Chrome for Mac</a>开发者预览版本(developer preview)。<i>
+<a href="http://arstechnica.com/apple/news/2009/10/google-chrome-for-mac-developer-preview-now-official.ars">开发者预览版</a>是基于Google尚未正式发布的4.0版，版本号build 4.0.223.8。其主要的特性包括“top tabs”——新标签页显示最近访问过的网页超链接和最常访问的页面<del>拇指图</del>缩略图；支持自定义主题；沙盒安全特性，和Windows版一样，每个网页一个线程，单个网页崩溃不会影响整个浏览器；Sunspider JavaScript测试显示它与Safari 4一样快，比最新版本的Firefox略快。</i>
+➜国际电信联盟批准通用手机充电器标准
+https://www.solidot.org/story?sid=14323	50400
+联合国下属机构国际电信联盟批准了<a href="http://mobile.slashdot.org/story/09/10/24/033257/Universal-Phone-Charger-Approved-By-UN-Body?from=rss">通用手机充电器标准</a>。<i>
+通用手机充电器的连接端使用micro-USB接口，所用技术类似于目前数字照相机上广泛采用的接口。通用充电器标准并不要求手机制造商强制执行，但国际电信联盟表示已有企业同意采纳。而主要的手机制造商如苹果、摩托罗拉、诺基亚等已经与欧盟签署协议，制造使用通用充电器的手机。索尼爱立信发言人称，他们计划在2010年上半年发布遵循通用充电器标准的相关产品。</i>

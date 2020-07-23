@@ -1,0 +1,39 @@
+➜Twitter Android app 漏洞被用于匹配 1700 万用户手机号码
+https://www.solidot.org/story?sid=63050	9417
+安全研究员 Ibrahim Balic 利用一个 Twitter Android app 漏洞<a href="https://techcrunch.com/2019/12/24/twitter-android-bug-phone-numbers/" target="_blank"><u>匹配了 1700 万用户的手机号码</u></a>。Twitter 的联络人上传功能会在上传通讯录之后返回匹配到的用户数据，也就是你可以知道一个随机生成的手机号码是否属于一位真实用户。可能是为了防止此类的随机号码生成，Twitter 不接受序列格式的通讯录上传。但这一机制显然很容易绕过，Balic 生成了超过 20 亿个手机号码，将其顺序随机化，然后使用 Twitter Android app 上传。在两个月时间里他匹配了来自以色列、土耳其、伊朗、希腊、亚美尼亚、法国和德国的用户账号。Twitter 在 12 月 20 日封掉了他的账号阻止了他的手机号码匹配。Twitter 发言人已经证实了这一漏洞，表示正致力于让这一漏洞不能再被利用。Web 端的 Twitter 上传功能没有该漏洞。
+➜龙芯发布新处理器 3A4000/3B4000
+https://www.solidot.org/story?sid=63051	11068
+龙芯中科周二<a href="http://news.sciencenet.cn/htmlnews/2019/12/434185.shtm"><u>发布</u></a>了它的新通用 CPU 3A4000/3B4000。3A4000/3B4000 是龙芯 3 号系列处理器中首款基于 GS464v 微架构的四核处理器，兼容 MIPS64。<a href="http://www.loongson.cn/product/cpu/3/1288.html" target="_blank"><u>官方说明</u></a>（<a href="http://www.loongson.cn/uploadfile/cpu/3A4000data.pdf"><u>数据手册</u></a>）称，“相比上一代 GS464e 微架构，进一步优化流水线，提升运行频率，加强对虚拟化、向量支持、加解密、安全机制等方面的支持。相比上一代四核处理器龙芯 3A3000，芯片整体实测性能提升一倍左右。操作系统应用程序与龙芯 3A3000 实现二进制兼容。龙芯 3A4000/3B4000 采用全新的 FCBGA-1211 封装，不再向前兼容。龙芯 3B4000 支持多达八片结构的多路一致性互连。”龙芯 3A4000/3B4000 使用与上一代产品相同的 28nm 工艺，主频 1.8GHz-2.0GHz，SPEC CPU2006 定点和浮点单核分值均超过 20 分，是上一代产品的两倍以上。它能从机制上有效防范 Meltdown 和 Spectre 等漏洞，支持专用安全可信模块及国密算法，支持“影子栈”等访问控制机制。
+➜黑龙江发现白垩纪恐龙足迹群
+https://www.solidot.org/story?sid=63052	11744
+科学家<a href="http://news.sciencenet.cn/htmlnews/2019/12/434180.shtm"><u>报告</u></a>在黑龙江哈尔滨依兰县发现了大量的恐龙足迹化石。这些恐龙足迹数量多，保存良好。2018 年夏，化石爱好者朱利在达连河镇红星村路边新修开的剖面上发现了双壳类化石和龟化石，其旁边分布一些有着明显规律的凹坑，疑似古生物的足迹。中国地质大学副教授邢立达的团队随后确认了这些印记为足迹化石，并迅速奔赴现场展开考察工作。据统计，依兰恐龙足迹群由 5 条行迹共计 70 个足迹组成，包括平行的蜥脚类恐龙行迹、三趾型鸟脚类行迹，延长的三趾型兽脚类行迹。<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031018219303578"><u>研究报告</u></a>发表在《<span>古地理学、古气候学、古生态学</span>》期刊上。<br>
+➜养殖场用 GPS 干扰设备防“炒猪团”投非洲猪瘟病毒
+https://www.solidot.org/story?sid=63053	12575
+北京大北农科技集团股份有限公司<a href="http://www.bjnews.com.cn/feature/2019/12/20/664694.html"><u>确认</u></a>黑龙江子公司肇州分公司使用了无人机管制设备防范投毒。干扰设备设置在其天佑种猪场，导致了客机 GPS 信号丢失，部分航班出现 ADS-B（广播式自动相关监视技术）系统故障。“使用无人机投放非洲猪瘟病毒”<a href="http://finance.china.com.cn/agri/20191220/5154776.shtml"><u>被认为只是一种谣言</u></a>，没有证据确认存在。所谓的“炒猪团”通过散播疫情谣言以实现低价收购生猪，借此牟取暴利。过去一年非洲猪瘟导致了中国猪肉价格大幅上涨。
+➜法国城市想要封杀公共场所广告
+https://www.solidot.org/story?sid=63054	17315
+法国城市<a href="https://www.theguardian.com/cities/2019/dec/23/advertising-breaks-your-spirit-the-french-cities-trying-to-ban-public-adverts" target="_blank"><u>正尝试封杀公共场所的数字广告</u></a>，因为“广告正在损坏我们的灵魂”。数十年来，法国有着世界上组织最完善的反广告运动，如今从火车站台到购物中心的户外数字广告的蓬勃发展催生了新一波的抗议。法国里尔市之前是北方工业重镇，如今则是艺术家设计师和学生的中心地带，其最新的反广告运动瞄准了公共场所的大屏幕。副市长 Jacques Richir 称，公共场所的数字广告屏有侵入性，消耗了太多的能量，分散了驾车者的注意力，让儿童更沉迷于视频。议员们正在讨论新的广告政策限制此类的广告。其它多个法国城市也考虑采取类似的方法。
+➜特斯拉中国汽车将加入麻将、二次元和优酷
+https://www.solidot.org/story?sid=63055	22607
+特斯拉将从明年开始向中国客户<a href="https://www.reuters.com/article/us-tesla-china/mahjong-cartoons-coming-to-tesla-car-screens-in-china-next-year-idUSKBN1YO0SO" target="_blank"><u>提供更多的视频和游戏内容</u></a>，这是该公司为汽车首次提供联网游戏。特斯拉将加入两个视频网站——其一是专注于二次元卡通的  Bilibili，其二是优酷，另外还加入三款游戏——腾讯的麻将和两个纸牌游戏。游戏和视频只能在停车后运行和播放。特斯拉将在明年第一季度为客户加入新的内容。车主通常会在充电时或到家后看视频玩游戏娱乐下。特斯拉正在大力开发中国电动汽车市场。
+➜安全研究员披露 Chrome 的 Magellan 2.0 漏洞
+https://www.solidot.org/story?sid=63057	26171
+腾讯安全研究员<a href="https://blade.tencent.com/magellan2/index.html"><u>披露</u></a>了 Google Chrome 的新 Magellan 2.0 漏洞。研究人员共发现了 5 个漏洞，位于 SQLite 中，统称为 Magellan 2.0，这组漏洞允许攻击者在 Google Chrome 内远程运行恶意代码。Google 与 SQLite 官方已确认并修复了漏洞。如果用户使用 2019 年 12 月 13 日前的旧版本 <a href="https://www.sqlite.org/src/timeline"><u>SQLite</u></a> 或运行低于 Chrome 79.0.3945.79 并启用了 WebSQL 的设备，那么可能会受到影响。和  Magellan 1.0 类似，这组新漏洞是因为  SQLite 数据库从第三方接受 SQL 命令输入验证不正确导致的。攻击者可以制作包含恶意代码的  SQL 操作命令，当  SQLite 数据库引擎读取该指令时会执行恶意代码。
+➜可用于 Raspberry Pi 的 SDR 软件镜像
+https://www.solidot.org/story?sid=63059	34519
+软件定义无线电（SDR）革命为无线电爱好者带来了大量的实验机会，但对于新手而言，眼花缭乱的 SDR 软件可能会让他们无从下手。这种情况下，你<a href="https://hackaday.com/2019/12/20/all-your-sdr-software-in-a-handy-raspberry-pi-image/"><u>可以使用别人打包的一整套软件</u></a>：Luigi Cruz 将流行的 SDR 软件打包在  Raspberry Pi 的<a href="https://pisdr.luigifreitas.me/">系统镜像</a>中，其中包括了 SDR Ange、Soapy Remote、GQRX、GNURadio、LimeUtil 和 LimeVNA。它支持 RTL-SDR、LimeSDR、PlutoSDR，Airspy 和 Airspy HF。所有这些都准备就绪，甚至都提供了桌面快捷方式。
+➜女程序员开发软件挂专家号转手获利被捕
+https://www.solidot.org/story?sid=63060	39028
+澎湃<a href="https://www.thepaper.cn/newsDetail_forward_5338273"><u>报道</u></a>，宁波市公安局海曙分局破获了一起破坏、干扰计算机系统案，三名犯罪嫌疑人落网。宁波市卫健委工作人员通过后台数据发现网上预约挂号系统有异常，很多挂号的IP地址在境外或国内其他地方。警方很快锁定嫌疑人。 其中一位女性大学学的是计算机科学与技术专业，此前曾帮朋友在网上挂名中医的就诊号。因为她有特长，通过减少网络延时（报道未提供任何细节）等方法经常能抢到号，找她的人越来越多，她挂号的目的渐渐从帮朋友转为牟利，利用挂号系统漏洞，通过编造人员身份信息挂号。2017 年后，宁波网上挂号系统升级，名医就诊程序联网，挂号的身份证件必须真实，她在研究程序漏洞的同时购买了专业设备，并对自己编写的软件进行升级。此后，随着网上挂号系统升级，她的程序也不断改进。
+➜中国将扩大区块链试点
+https://www.solidot.org/story?sid=63061	40580
+国家外汇管理局副局长陆磊周二<a href="https://www.reuters.com/article/us-china-forex-blockchain/china-to-expand-blockchain-pilot-study-forex-reforms-for-cryptocurrency-regulator-idUSKBN1YS0GR"><u>表示</u></a> 2020 年的一个<a href="https://www.cebnet.com.cn/20191225/102627420.html"><u>工作重点</u></a>是“逐步扩大试点范围，拓展区块链技术在跨境融资、宏观审慎管理的应用场景等”。他称，“外汇局搭建的跨境金融区块链平台，是目前唯一一个中央国家机关在国家互联网信息办公室进行备案的区块链平台。下一步，外汇局将逐步扩大试点范围，拓展区块链技术在跨境融资、宏观审慎管理的应用场景。同时，要推进外汇领域改革开放，进行应对数字货币的前瞻性研究，探索新形势下的外汇监管科技体系建设。”
+➜调查 ToTok
+https://www.solidot.org/story?sid=63062	42740
+纽约时报早些时候根据调查和美国情报官员的消息<a href="https://www.solidot.org/story?sid=63023"><u>报道</u></a>，一个在中东地区流行的消息应用 ToTok 被阿联酋政府用作间谍工具。报道称，阿联酋政府尝试利用该应用监视用户的每一次通话以及掌握用户之间的关系。ToTok 只发布几个月时间，该应用在中东、亚洲、欧洲和北美地区的苹果和 Google 应用商店下载了数百万次，最大用户群是在阿联酋。ToTok 背后的公司 Breej Holding 被认为是阿联酋监视公司 DarkMatter 的挂名公司。那么 ToTok 是否含有后门或其它恶意功能？安全研究人员<a href="https://objective-see.com/blog/blog_0x52.html" target="_blank"><u>对其进行了破解</u></a>，拦截了其流量进行分析，结果是没有，它就像是一个合法的 VoIP 应用，只是你根本不知道应用开发商/发行商的真实身份。调查发现，ToTok 使用了阿里巴巴的云服务，其大部分代码来自于另一家消息应用开发商 YeeCall，很可能是 Breej Holding 从 YeeCall 获得授权使用了其代码创建了 ToTok。情报官员口中的“间谍工具”就是一个消息应用的“合法功能”，阿联酋政府封掉了 WhatsApp 和 Skype 等流行 VoIP 应用，让 ToTok 成为当地唯一可用的 VoIP 应用，然后利用其合法功能就能获得用户的通讯录、通话和聊天细节，以及位置信息。
+➜深圳雄心勃勃的智能城市计划
+https://www.solidot.org/story?sid=63063	45199
+深圳，曾经的小渔村如今有 1200 万人口的大都市，<a href="https://www.bbc.com/news/technology-50658538" target="_blank"><u>制定了雄心勃勃的智能城市计划</u></a>。在巴塞罗那举行的 Smart Cities Expo 展会上，深圳代表团负责人 Jiang Wei Dong 称，科技正在驱动这座城市，而对抗污染则是重中之重。他说相比其它城市，深圳更干净。深圳是中国第一个要求所有公交和出租车都必须是电动车的城市。除了智能交通，还有智能医保系统，确保每一个来自偏远省份的人进入城市后其健康记录将能立即获取到。对于安全系统，他就语焉不详了。深圳福田站举办的展会 Eyes of the City 展示了智能城市的高科技监视能力。
+➜尔必达前社长加盟紫光
+https://www.solidot.org/story?sid=63064	51147
+日本半导体巨头尔必达（现美光科技日本公司）于 2012 年破产，原社长坂本幸雄（72岁）今年11月<a href="https://china.kyodonews.net/news/2019/12/830cf470f2d4.html" target="_blank">就任同行业中国巨头紫光集团的高级副总裁</a>，欲东山再起。紫光今后将建立日本设计中心，由坂本负责一线指挥工作。在美中两国“高科技冷战”激化的背景下，其投身紫光之举也引发了业界的惊讶之声。关于就任的理由，坂本接受采访时表示：“不想作为一个失败者结束人生。想自己作个了结。”　他计划在日本召集约 100 名技术人员，为实现量产而推进设计工作。坂本表示：“日本还有许多能开发存储器的人才。准备了相当于日企五六倍的报酬。”

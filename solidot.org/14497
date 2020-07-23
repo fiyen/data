@@ -1,0 +1,116 @@
+➜哈勃太空望远镜升级后释出第一批相片
+https://www.solidot.org/story?sid=13554	1680
+time 写道<i> "升级后的哈勃太空望远镜于9月9日释出<a href="http://blogs.nature.com/news/thegreatbeyond/2009/09/hubble_is_back_and_its_seeing.html">第一批使用新设备拍摄的相片</a>。五月份的检修和升级后望远镜一直处于调焦、试验和校正状态。升级将使哈勃望远镜在2014年前都可以生产顶尖的太空相片。这次拍摄的目标有NGC 6302蝴蝶星云、半人马座ω等。(<a href="http://www.hubblesite.org/newscenter/archive/releases/2009/25/image/a/">图片说明及下载</a>)"</i>
+➜5大主流浏览器纵横谈
+https://www.solidot.org/story?sid=13555	3600
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "过去的一年，所有主要的浏览器都推出重要版本更新，并在功能与性能上推出众多改进，让已经久违的<a href="http://www.techweb.com/encyclopedia/defineterm.jhtml?term=Web%20browser&amp;x=&amp;y=">浏览器之战</a>又起烽烟。就浏览器而言，是什么在吸引用户？速度，可靠性，功能，还是这些因素的综合？本文将抛开单纯的性能测试与ACID测试之争，从更广泛的范围，分析各个浏览器的优劣，以及<a href="http://www.techweb.com/encyclopedia/defineterm.jhtml?term=switch&amp;x=&amp;y=">选择它们</a>或不选择它们的理由（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K836.aspx">原始图文版</a>）。           Chrome 2.0：<a href="http://www.google.com/chrome">Google, Inc.</a>
+<br> <br>没有人曾指望 Google 会推出浏览器，但他们就这样做了，如今，Chrome 已进入版本 2，并继续如火如荼地发展。它的浏览器作为平台的想法很吸引人，就速度，设计以及内置开发工具而言，它是个很好的浏览器。
+<br> <br>在让 Chrome 成为一个不错的浏览器的众多因素中，最主要的一个是它的内部设计，多标签，每个标签使用独立的 Windows 进程，任何一个标签的崩溃不会影响到别的标签，在先进多核系统中，这些标签或窗口运行十分流畅。
+<br> <br>IE 的类似功能也出来一些时日了，尽管实现方式有别，Firefox 也在向这个方向努力，但仍在计划阶段， Chrome 是个好浏览器，但它的真正目的是成为一个平台，Google 希望籍此发行那些不必依赖特定 OS 的 Web 引用，如 Gmail, Google Docs 等，在这个方向上，它最好的功能都是面向开发者的，它的 <a href="http://www.techweb.com/encyclopedia/defineterm.jhtml?term=JavaScript&amp;x=&amp;y=">JavaScript</a> 引擎，尤其是它的 Web 页面对象探测器，你可以直接为页面中的对象设置属性，并立即看到结果或与之交互。
+<br> <br>Chrome 下一个版本的 Beta 版已经大体上稳定，不过比起正式版仍有些粗糙，它的速度非常可观，<a href="http://chrome.blogspot.com/2009/08/new-beta-why-slow-down-when-you-can.html">Chrome 最新的 Beta 3</a> 比 Chrome 2<a href="http://www.informationweek.com/news/internet/google/showArticle.jhtml?articleID=219100175"> 快了30%</a>。到目前为止，Chrome 最弱的地方是缺乏 Firefox 以及 IE 那样的扩展，不过，鉴于 Chrome 核心技术将用来构建 Google 操作系统，我们也不愁看不到其扩展遍地开花的那一天，如果你是 Google 的粉丝，而且并不需要那些 Firefox 扩展，那 Chrome 很值得一看。
+<br> <br>
+Firefox 3.5.2：<a href="http://www.getfirefox.com/">Mozilla Foundation</a>
+<br> <br>曾经，本田称他们的车为 ”the car that sells itself“，Firefox 也是如此，将自己卖出去的最好方法是把自己摆在那里让人用，清爽，稳定，美观，可定制，兼容，跨平台，Firefox 拥有这样的美誉，任何用户一旦习惯了 Firefox 就不想再离开。Firefox 获得忠诚度的方法是对传统的浏览方式做了细致入微的改进，比如，在地址栏输入地址，Firefox 会从浏览历史或书签中很准确地帮你完成完整地址，很多人喜欢在地址栏输入几个字母直接进入网站。
+<br> <br>Firefox 最吸引人的地方是它庞大的第三方扩展库，这使 Firefox 变成一个平台。
+<br> <br>比如 <a href="http://www.greasespot.net/">Greasemonkey</a>，通过编写一些脚本改变网页的行为，其它实用的 Firefox 扩展包括 Twitterfox, Yoono, FireFTP, NoScript 等等。从 3.0 到 3.5， Firefox 开发团队实现了众多改进，更快递渲染速度，更稳定的运行，更快更智能的 JavaScript。Firefox 的弱项是其内置的开发工具不够强大，只有一个 JavaScript 控制台与错误窗口，不过可以很容易通过第三方扩展，如 Firebug 实现，Firefox 的理念是将周边功能尽可能留给第三方扩展去做，而保持自身尽可能小巧。<br> <br>
+Internet Explorer 8： <a href="http://www.microsoft.com/ie">Microsoft Corporation</a>
+<br> <br>不管喜不喜欢，浏览器之争绕不开 IE，IE 的最新版本 IE8 在兼容标准方面向前迈出了一大步，它提升了性能，增加了一些实用的功能，微软在 Web 方面我行我素的时代已经结束。
+<br> <br>最重要的是，IE8 默认状态下，按非常接近其它浏览器的标准渲染页面，那些一度在 Firefox 中显示正常，在 IE6 显示不正常的页面，现在基本一致了。那些必须按旧 IE 渲染的站点，按一个按钮，就可以在一种兼容模式中正常显示。不过，绝大多数 IE8 默认模式下网站显示都很正常。
+<br> <br>IE8 的其它新功能可谓毁誉参半，隐私浏览模式很讨人喜欢，它的新调试工具也很不错，比如 JavaScript调试工具，可以实现很细致的逐行调试。但有时候，你需要在调试那些微软自己的 JavaScript 引擎方面花不少精力，作者曾调试过一个页面，始终显示 unknown error，最后发现是别的浏览器都不支持的 innerHTML 方法的问题。
+<br> <br>另一个谈不上好与坏的功能是 web 切片，该功能允许用户订阅页面的一部分，实现 Web 切片也非常简单，设计一个  DIV 容器，并将其 css 类设置为 hslice 即可。不过，这和 RSS Feed 似乎没有多少差别，而且，这又是微软自己专有的东西。
+<br> <br>总的来说，IE8 很适合用来替换你的旧 IE，但目前，非 IE 浏览器很多，IE 的衰落应当归就于其很不安全的扩展技术 ActiveX。<br> <br>
+Opera： <a href="http://www.opera.com/">Opera Software ASA</a>
+<br> <br>尽管 Opera 市场份额很小，仍有一个非常忠实的粉丝群，很难说为什么，它很快，干净，兼容，还包含一些让人喜出望外的小功能。 Opera 最值得一提的是他们为那些拥有低带宽，慢电脑的人所作的努力，他们是 Opera 最大的粉丝，而每个 Opera 的新版本都包含一些让他们爱不释手的功能，如 Trubo  功能可以让那些需要高带宽的网站在 Opera 的代理服务器那里重新处理，变成低带宽以实现快速浏览，虽然会降低图片质量，但你可以很容易让浏览器重新加载原始高质量图片。
+<br> <br> 打开 Opera, 不浏览任何网站，首页会显示你最近浏览过的9个站点的缩略图，这个功能 Chrome 和 Safari 也有，但 Opera 是最早这样做的，另外， Opera 好像也是最早实现标签式浏览的浏览器。在实际浏览中，地址栏会显示详细的进度状况，我们可以籍此知道现在在加载什么内容，如果某项内容卡住，我们会很清楚它是什么。
+<br> <br>它的书签管理也可圈可点，可以在书签中全局搜索或者接在地址栏输入，象 Firefox 一样，Opera 也没有标签式书签，但书签可以命名别称，在地址栏输入地址的时候，也可以使用别称。书签还可以按字母顺序排序，或按你实际拖放数序排序。接着，是众多的小功能，弹出窗口默认是弹出到新标签的，而不是新窗口，在访问那些喜欢弹窗的网站时这可以防止你的桌面变得乱七八糟。
+<br> <br>内置的 BT 支持可以直接在 Opera 中 BT 下载，Opera 使用 <a href="http://widgets.opera.com/">widgets</a> 实现对内核功能的扩展，我本人喜欢 Google Translator gadget，在访问 Amazon.co.jp 的时候，这很有用。目前 Opera 10 已经推出，可以和 Opera 9 共存。
+<br> <br>
+Safari： <a href="http://www.apple.com/safari">Apple Inc.</a>
+<br> <br>苹果的  Safari 可谓一个另类，一个从苹果移植到 Windows 的浏览器，尽管并没有多少人有这样的需求。它的金属拉丝风格的界面后面，零零星星的总有那么一些别的浏览器应该借鉴的东西，但总体上让人印象并不深刻。
+<br> <br>首先，它的 “Top Sites”功能类似 Chrome 的首页缩略图，但使用 3D 技术看上去很酷，在查看浏览历史的时候，同样漂亮的 3D 风格的界面也很漂亮，对于那些只记得网站的样子，但忘记了网站名字的人来说，这很实用。
+<br> <br>我喜欢 Safri 的页面注射以及 JavaScript 调试功能，当然这些功能中的大多数， Chrome 都有，毕竟， Chrome 也是基于 Safari 的 Webkit 内核。它的代码编辑功能也很好用，打开一个并列的窗口，在里面编写代码并实时将结果粘贴到文档中。
+<br> <br>其它的一些功能则很鸡肋，尤其是跟 Firefox 与 Chrome 相比，它的书签管理，虽然有全局搜索，很不好用，你甚至无法直接右击一个书签给它改名。从 Firefox 导入书签功能也很鸡肋，导入功能居然不在书签管理中，却放在“文件”菜单下，Safari 在导入书签的时候，还莫名其妙地把一些书签的名字搞乱了。
+<br> <br>本文国际来源：http://www.informationweek.com/news/internet/browsers/showArticle.jhtml?articleID=219400649&amp;pgno=1&amp;queryText=&amp;isPrev=<br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜Linux 2.6.31 Kernel正式发布
+https://www.solidot.org/story?sid=13556	6120
+2009年9月9日，Linus Torvalds<a href="http://lkml.org/lkml/2009/9/9/357">宣布发布</a> <a href="http://www.kernel.org/pub/linux/kernel/v2.6/linux-2.6.31.tar.bz2">Linux 2.6.31 Kernel</a>。新版本的主要特性<a href="http://kernelnewbies.org/LinuxChanges#head-08104e6b4425ff33c8fd5335f961e64f71b0d400">包括</a>：<i>
+支持USB 3.0；FUSE的扩展CUSE，允许在用户空间执行字符设备（Character Device），允许OSS Proxy；内存管理改进了桌面的互动；预读改进；支持ATI Radeon 500系列的Modesetting；支持Intel的Wireless Multicomm 3200 Wifi设备；性能计数器的内核支持和用户空间工具；gcov支持；内存检查器；内存泄漏探测器；btrfs文件系统改进；支持IEEE 802.15.4网络标准；更多新的驱动（Linus表示从2.6.30到2.6.31的补丁中有超过70%与驱动有关）；以及许多小的改进和修正等等。</i>
+➜Linux 2.6.32 Kernel Mode Setting将支持R600
+https://www.solidot.org/story?sid=13557	8100
+Linux 2.6.31刚刚发布，2.6.32的大门已经敞开。对使用ATI显卡的Linux用户而言，2.6.31已为他们提供了R500支持，而<a href="http://www.osnews.com/story/22140/Linux_2_6_32_To_Get_R600_Kernel_Mode_Setting">2.6.32很有可能带来R600支持</a>。<i>
+David Airlie已向kernel-next tree<a href="http://airlied.livejournal.com/68097.html">递交</a>了ATI R600系列显卡的开源3D图形驱动，它有可能将整合到2.6.32 kernel中。ATI R600系列显卡将成为到目前为止性能最强悍的提供开源驱动的3D显卡。<a href="http://zh.wikipedia.org/zh-hans/Radeon_R600">R600系列</a>显卡包括了HD2000/3000系列的Radeon HD 2900，Radeon HD 2600，Radeon HD 2400，Radeon HD 3800，Radeon HD 3690/3830，Radeon HD 3600，Radeon HD 3400；以及FireGL 2007系列。ATI最新显卡R700系列目前还没有开源驱动支持。</i>
+➜亚洲社交网站虚拟商品获利颇丰
+https://www.solidot.org/story?sid=13558	9120
+路透社报道，亚洲社交网站通过销售虚拟商品如虚拟服装和虚拟家具而<a href="http://cn.reuters.com/article/CNTechNews/idCNCHINA-585020090909">获利颇丰</a>。
+<i>
+中国大学生谭圣荣每月花费约20元人民币，为她的电子宠物企鹅购买衣服，或用于玩QQ游戏。QQ空间是中国最受欢迎的社交网站。每笔交易的金额看起来并不高，但所有的收入都归腾讯公司。尽管经济低迷，但腾讯今年第2季度盈利较去年同期增长85%。据Plus Eight Star调查，在QQ空间、韩国的赛我网（Cyworld）及日本的手机社交网站Gree等社交网络，亚洲人每年花费约50亿美元购买虚拟服装及电子宠物等虚拟商品。该公司称，这约占全球虚拟商品市场消费的80%。腾讯去年盈利超过10亿美元，其中仅有13%来自广告收益。相反Facebook和Myspace盈利则主要来自广告收益。</i>
+➜中国将试行农村养老保障计划
+https://www.solidot.org/story?sid=13559	10200
+BBC<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8240000/newsid_8246600/8246690.stm">报道</a>，中国人力资源和社会保障部负责人星期三在新闻发布会上说，将在10月1日之前开始试行国务院公布的《<a href="http://www.gov.cn/zwgk/2009-09/04/content_1409216.htm">关于开展新型农村社会养老保险制度的指导意见</a>》。 中国的城乡差别很大，农村养老保险是中国政府近来为进一步缩小城乡差别所采取的措施之一。
+<i>
+农村社会养老保险制度的缴费标准目前设为每年100元、200元、300元、400元、500元5个档次，地方政府需对参保人缴费给予补贴，补贴标准不低于每人每年30元，基础养老金标准为每人每月55元。但是中国农村60岁以上老人超过1亿，即使按现在每人每月55块钱的低标准算，全国覆盖也需要近700亿资金，且老年人口还在不断增长。此外，每人每月只有55元补贴，在中国目前的生活水平标准下，是否能够起到使农民老有所养、老有所依的目的，也令一些专家质疑。</i>
+➜苹果宣布iTunes 9，带摄像头的iPod等
+https://www.solidot.org/story?sid=13560	14400
+在旧金山举行的新闻发布会上，<a href="http://apple.slashdot.org/story/09/09/09/1814256/Apple-Announces-iTunes-9-LPs-Video-Camera-For-the-iPod-Nano">苹果宣布了新产品和新服务</a>，包括配有摄像头的iPod Nano，释出了iPhoneOS 3.1，对iPod产品进行了全线降价，发布了iTunes 9，iPod Touch和iPhone的内置游戏，
+以及苹果CEO乔布斯(Steve Jobs)手术后的<a href="http://cn.wsj.com/gb/20090910/atc103541.asp?source=UpFeature">首次公开露面</a>。<i>
+<a href="http://www.apple.com/iphone/softwareupdate/">iPhoneOS 3.1</a>升级主要是为了兼容新发布的iTunes 9，此外为App store引入了Genius推荐功能，向用户提供寻找软件方面的建议。苹果还在商店内加入了3万首可供用户购买的手机铃声，改进了蓝牙开启时WiFi的性能，Mobile Safari增加了反钓鱼功能等等。<a href="http://www.apple.com/itunes/overview/">iTunes 9</a>升级的又一次<a href="http://www.osnews.com/story/22136/iTunes_9_Breaks_Pre_Sync_Again">阻断了Pre手机的同步</a>，不过幸运的是webOS 1.2即将发布，估计到时候又会修正同步问题。iTunes 9主要特性包括：在家庭内多台电脑间分享音乐和其它数字内容的更大能力；iTunes LP可以将歌词、视频等更多内容增加到iTunes提供的卖品中；集成Twitter和Facebook支持等。苹果还展示了多款游戏，如刺客信条续集，名叫Nova的多人对战FPS游戏，音乐游戏Riddim Ribbon，Madden NFL 2010。硬件方面，苹果宣布了8GB iPod Touch，支持OpenGL 2.0；全线降低其它产品的价格；iPod Classic的容量增至120GB和160GB；带视频摄像头的iPod Nano，可将视频同步到电脑或YouTube，并内置了FM收音机功能。</i>Engadget拍摄了<a href="http://www.engadget.com/2009/09/09/live-from-apples-its-only-rock-and-roll-event/">大量图像</a>
+➜两种不同类的鸟唱同一首歌
+https://www.solidot.org/story?sid=13561	19800
+各自独立进化了300多万年的两种南美蚁鸫<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/909/2?rss=1">说着同样的语言</a>，它们的领域鸣叫（Territorial Song）几乎完全一样（<a href="http://sciencenow.sciencemag.org/feature/data/antbirds.mp3">声音样本</a>，中间有间隔）
+牛津大学的鸟类学家Joseph Tobias说，这就好比人类和黑猩猩操着同样的话解决领土等资源争论。<i>
+这两种蚁鸫都生活在南美亚马逊流域西南部：一种胸部呈黄色，学名Hypocnemis subflava，喜欢生活在竹林地区；另一种是秘鲁蚁鸫，学名H.peruviana，喜欢高耸茂密的森林。两种鸟外表也不相同，雄性H.subflava有黄色胸部和浅黄色侧腹，雄性H.peruviana有白色胸部和红棕色侧腹。然而两种鸟用于保卫领土范围的鸣叫却令人类感到迷惑，无论是用耳朵听，还是用眼睛看声谱图，几乎没有任何差异。那么相同的鸣叫是否对两种蚁鸫有起相同的作用？Tobias和同事Nathalie Seddon从150多只蚁鸫中录下了504首歌，并录下了其它相近种类蚁鸫的领域鸣叫。然后研究人员将录下的声音播放给两种蚁鸫听，观察效果。无论是H.subflava还是H.peruviana的领域鸣叫，雄鸟的反应都是一样的。当听到来自其它竞争对手的声调，领土保卫者们立即飞起准备迎战，保卫家园。但雄鸟只是识别其它种类蚁鸫的领域鸣叫的声调，而不管相不相同。Tobias 认为两种鸟进化出相同的领域鸣叫，可能是因为它们喜欢的栖息地相重叠，如森林和竹林混杂地区。为了解决领土纷争，因此两种蚁鸫中的雄性使用了最有效的方法——唱相同的歌。报告发表在最新一期的《演化》杂志上。</i>
+➜Windows 7引入远程BSoD
+https://www.solidot.org/story?sid=13562	21840
+在1990年代，由于TCP/IP分片重组代码中的一个bug，攻击者可以通过发送畸形IP分片让被攻击的电脑重启和死机。名为<a href="http://en.wikipedia.org/wiki/Teardrop_attack#Teardrop_attacks">Teardrop攻击</a>的方法影响的系统包括了Windows 3.1x、Windows 95和Windows NT，以及早期的部分Linux系统。<i>
+现在微软又在它的Windows Vista/7<a href="http://it.slashdot.org/story/09/09/08/1345247/Windows-7-Reintroduces-Remote-BSoD">犯下了类似的错误</a>，引入了一个会导致蓝屏死机（BSoD）的可被远程激活的Bug。该Bug与网络传输协议<a href="http://zh.wikipedia.org/zh-cn/%E4%BC%BA%E6%9C%8D%E5%99%A8%E8%A8%8A%E6%81%AF%E5%8D%80%E5%A1%8A">SMB</a>2.0的Negotiate协议请求（NEGOTIATE PROTOCOL REQUEST）相关。SRV2.SYS无法处理用于NEGOTIATE PROTOCOL REQUEST功能的畸形SMB headers。受影响的操作系统为Vista/Windows 7，Windows Xp和2k不受影响。<a href="http://seclists.org/fulldisclosure/2009/Sep/0039.html">目前的权宜之计</a>是关闭SMB功能和端口，等待微软发布补丁。</i>
+➜新法规定邮政局专营范围
+https://www.solidot.org/story?sid=13563	24720
+今年10月1日正式实施的新<a href="http://www.chinapost.gov.cn/folder2/folder13/2009/04/2009-04-2528456.html">《邮政法》</a>，明确规定禁止民营企业涉足的邮政局专营范围，<a href="http://e-news.21cbh.com/html/2009-09/10/content_105835.htm">一些人认为这涉嫌垄断</a>。<i>
+新的《邮政法》规定，同城快递五十克以下、异地快递一百克以下由邮政专营。一位民营快递公司称，100克以下的占其业务的80％，同城快递50克占50％至60％，按照目前执行的专营范围，他们将失去40％左右的业务量。邮政专营的争议从新法制定初期便已出现，专营范围也一直缩小，从2003年《邮政法》征求意见稿的第一稿规定的500克界限，到2005年《邮政法》征求意见稿第七稿的350克，到今年7月1日“同城100克以下，异地150克以下”将由邮政专营，再到8月7日国家邮政局征询意见会上，提出邮政专营权的范围调低至“同城50克以下，异地100克以下”。</i>
+➜MS在巴黎开Windows 7咖啡厅
+https://www.solidot.org/story?sid=13564	28080
+DNA24 写道 "<i>
+微软将Windows 7发布那天在巴黎市中心繁华区正式开张“<a href="http://www.nowpublic.com/tech-biz/microsoft-open-windows-cafe-paris">Windows Cafe</a>”，消费者在这里享受咖啡和点心的同时还可以体验最新的Windows产品。除了可以体验Windows 7之外，微软还会同时提供Xbox游戏试玩。"</i>
+➜神话故事可以上溯到远古时期
+https://www.solidot.org/story?sid=13565	28200
+奇幻小说<a href="http://zh.wikipedia.org/zh-hans/%E6%99%82%E9%96%93%E4%B9%8B%E8%BC%AA">《时光之轮》</a>的开头是“时光之轮转动如常，岁月来去如风，残留的记忆变为传说，传说又慢慢成为神话，（最后）连神话也早已被遗忘了。”当你读到一则神话或童话故事时，可否想去了解它的最初来源？英国的一位文化人类学家便这么做了。研究人员利用生物学家用于给生物分类的技术去追溯<a href="http://www.telegraph.co.uk/science/science-news/6142964/Fairy-tales-have-ancient-origin.html">每一个童话故事的共同渊源</a>，比如<a href="http://zh.wikipedia.org/zh-hans/%E5%B0%8F%E7%BA%A2%E5%B8%BD">小红帽</a>的故事。<i>
+Durham大学的Jamie Tehrani博士分析了来自全世界的35个小红帽版本，发现欧洲版本中讲述的是一只伪装成老奶奶的狼试图欺骗小女孩；在中国的版本中狼被换成了老虎，伊朗的版本则用小男孩替代了小女孩，或许是因为在伊朗孤身的女孩是不会独自乱跑的。Tehrani博士发现所有不同版本的小红帽都有一个共同的原型，日期要上溯到2600年前，而不是通常认为的小红帽故事源自法国，在17世纪被Charles Perrault首次写进书中。Tehrani博士说民间故事和生物体一样，会在随着时间而不断发生微妙的变化，因为最初故事的流传是靠口头传播，而不是书面文字。他称最古老的版本出现在公元前6世纪的伊索寓言中，它是所有不同故事的共同祖先。Tehrani博士在<a href="http://www.britishscienceassociation.org/web/BritishScienceFestival/">英国科学节</a>上展示了他的发现。</i>
+➜夫妻分床有益健康
+https://www.solidot.org/story?sid=13566	30000
+在英国科学节上，英国睡眠专家斯坦利（Neil Stanley）博士称：“如果夫妻同床共眠睡得香甜，当然没有必要分床。但如果在一起睡不好，就不要怕分床。如果男方或女方打呼噜，<a href="http://www.bbc.co.uk/ukchina/simp/uk_life/2009/09/090910_sleep.shtml">那就要考虑不仅是分床</a>，而且要分开在不同的卧室睡觉。”斯坦利博士还身体力行，与自己的妻子分室而睡。他的睡眠实验室的试验发现，同床共眠的夫妻，睡觉受影响的几率增加了50%。坦利博士说，夫妻婚后睡一张床是工业革命后，随着人们涌向城市，居住空间日渐拥挤才形成的现代传统。
+➜Opera Mini中国实验室创新功能-“0”键导航
+https://www.solidot.org/story?sid=13567	30900
+<a href="http://bbs.operachina.com/">linuxrocks</a> 写道 <i>"Opera Mini 中国实验室为你带来<a href="http://bbs.operachina.com/viewtopic.php?f=37&amp;t=53535">全新 "0" 键导航功能!</a>, 只需按下数字键0，所有屏幕上的链接都会被指定一个唯一的编号，然后只需用数字键输入对应的链接编号，即可轻松打开你想访问的网页，从而获得最不吃力的手机冲浪体验~~正如她的内部代号“不吃力模式”！</i>
+下载及截图<a href="http://www.operachina.com/id/">请点击</a>，同时敬请关注<a href="http://bbs.operachina.com/viewtopic.php?t=53536">用 Mini 找彩蛋 赢彩球 赠T恤</a>, 建议、感受、围观，<a href="http://bbs.operachina.com/viewtopic.php?t=53535">请猛击</a>"
+➜老人与垃圾一起生活
+https://www.solidot.org/story?sid=13568	31200
+当纽约皇后区的一座公寓发出难闻的气味，破门而入的警察相信他们会看到腐烂的尸体，然而他们最后看到的是一个活生生的人，<a href="http://www.nydailynews.com/real_estate/2009/09/08/2009-09-08_cops_find_queens_man_isnt_dead_just_slob.html">和令人作呕的垃圾生活在一起</a>。当他们开始扫清垃圾以试图进入房间时，这位名叫Ming Li Sung的租户突然出现，叫他们滚出去。这个房间就像一个垃圾堆，垃圾从地板上一直堆到天花板，坏了的风扇，大量浸泡的塑料袋塞满垃圾桶。69岁的Sung已被带到Elmhurst医疗中心进行精神病评估。"
+➜18岁少年发明廉价的头发太阳能电池板
+https://www.solidot.org/story?sid=13569	32700
+每日邮报<a href="http://www.dailymail.co.uk/sciencetech/article-1212005/Teenager-invents-23-solar-panel-solution-developing-worlds-energy-needs-human-hair.html">报道</a>，18岁的Milan Karki出生于尼泊尔的农村，他相信找到了一种满足发展中国家能源需求的解决方案——<a href="http://idle.slashdot.org/story/09/09/09/1532243/Teenager-Invents-Cheap-Solar-Panel-From-Human-Hair">用人类头发制成廉价太阳能电池板</a>。
+<i>
+Milan的偶像是发明家爱迪生，他称自己很幸运，因为家庭能负担得起教育费用。他的灵感来自于霍金（Stephen Hawking）的一本书，其中描述了如何从头发中产生静态能量。他意识到黑色素是能量转换中的关键因素。因此他发明了太阳能-头发电池板，用头发取代昂贵的硅，成本不到传统硅电池板的四分之一。产生9伏（18W）电力的太阳能电池板，其原材料成本只需23英镑（约260元）。如果大规模生产，成本会更低。他指出，人们的头发可以重生，因此他的头发电池板只需要很少的维护。</i>
+➜中国公开高速铁路计划
+https://www.solidot.org/story?sid=13570	34200
+BBC报道，中国<a href="http://www.china-mor.gov.cn/index.jsp">铁道部</a>透露将在未来三年兴建42条<a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_8240000/newsid_8247600/8247665.stm">新高速铁道线路计划</a>。
+<i>
+铁道部官员表示，可以开发出同时在现有线路与高铁专线上运行的列车，时速500公里的新列车有望在明年年底试车。中国到2012年将新增1.3万公里高铁线路，为预计每年达70亿的旅客大幅缩短行车时间，从北京到大多数省会的运行时间都可压缩至7个小时以内。当高铁路网在2012年建成以后，每年将可处理旅客超过70亿人次。</i>
+➜微软Bing购买谷歌“色情”关键词
+https://www.solidot.org/story?sid=13571	34800
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道<i> "据techcrunch报道，微软必应<a href="http://www.techcrunch.com/2009/09/09/bing-loves-the-porn-hounds/">购买了谷歌“色情”一关键词</a>（<a href="http://www.yeeyan.com/articles/view/pestwave/58453">译言</a>）。不过搜寻中文的“色情”找不到微软的链接。"</i>
+➜科学家利用磁场悬浮老鼠
+https://www.solidot.org/story?sid=13572	38880
+研究人员在此之间已成功让青蛙和蚱蜢悬浮在半空中，但老鼠的生理机构与人类相近，研究老鼠显然对人类更有帮助。
+<i>
+NASA的科学家建造了一个设备模拟重力水平变化。该设备由一个超导磁体组成，它产生的磁场足以悬浮活生物内部的液体水。利用磁场，<a href="http://news.yahoo.com/s/livescience/20090909/sc_livescience/micelevitatedinlab">研究人员首次成功的悬浮了幼鼠</a>(<a href="http://www.livescience.com/php/multimedia/imagedisplay/img_display.php?s=animals&amp;c=news&amp;l=on&amp;pic=090909-mouse-levitated-02.jpg&amp;cap=A+three-week-old+mouse+weighing+about+10+grams+levitated+by+magnetic+fields%2C+either+with+a+magnet+(a)+or+without+(b).+Credit%3A+Da-Ming+Zhu+et+al.&amp;title=">图片</a>)，幼鼠刚出生3周，重量只有10克。在实验中，这只幼鼠显得焦躁不安，失去了方向感，并试图抓住物体。喷气推进实验室（JPL）物理学家Yuanming Liu说，幼鼠向四周乱踢，然后开始旋转，由于没有摩擦力，旋转速度越来越快，让它完全辨不清方向。Liu的同事，密苏里州大学物理学教授<a href="http://cas.umkc.edu/physics/zhu/profile.html">Da-Ming Zhu</a>设计了放置幼鼠的笼子，他们观察到幼鼠由于乱动而在悬浮区忽上忽下。研究结果显示，老鼠能很快适应悬浮，在2到3个小时后，它的行动恢复正常，强磁场在短期内并没有对其造成影响。</i>
+➜TomTom宣布开源GPS技术
+https://www.solidot.org/story?sid=13573	40800
+最近刚与微软达成专利和解协议的欧洲GPS开发商TomTom宣布了新的开源格式<a href="http://www.tomtom.com/page/openLR">OpenLR</a>，可用于在不同GPS开发商的数字地图中<a href="http://tech.slashdot.org/story/09/09/09/2216255/TomTom-Announces-an-Open-Source-GPS-Technology">分享路线信息</a>，如导航点、天气和交通情况等。LR代表Location Referencing，TomTom的目标让OpenLR成为一个开放标准，去建立一个协作式的信息库。支持OpenLR的技术工具将使用GPLv2许可证发布，目前<a href="http://www.tomtom.com/page/openLR">技术文档</a>已发布在网上。
+➜Windows世界的真实情况
+https://www.solidot.org/story?sid=13574	43200
+InfoWorld正在进行一项用户自愿参与的<a href="http://www.infoworld.com/infoworld-windows-sentinel-534">Windows Sentinel计划</a>，收集操作系统使用情况，常用的软件，用户电脑配置等数据。目前正在监视的网络共包含近2万台PC，他们每天<a href="http://infoworld.com/windows-pulse">更新数据</a>。这项研究提供了<a href="http://it.slashdot.org/story/09/09/09/2223230/The-Real-World-State-of-Windows-Use">Windows世界的真实情况报告</a>。<i>
+以操作系统为例，Vista在发布3年后，仍只有30%的电脑运行它，超过60%的电脑还是使用Windows XP；在处理器方面，近50%的电脑运行双核处理器，超过40%的电脑运行单核；在内存容量方面，2GB-3GB的电脑超过35%，低于1GB的电脑12%左右，1GB-2GB为25%；品牌机，戴尔的份额最多为18%，其次为惠普的14%，宏基的4%；CPU制造商，英特尔约70%，AMD不到30%；浏览器，IE占80%以上，Firefox超过4成，Chrome接近2成；播放器，WMP45%，iTunes接近20%，VLC6%；办公软件，Office 2007 34%，2003占20%，OpenOffice.org正在侵蚀微软的市场，它占到12%；实际使用的办公软件主要为Word，Excel，Outlook。</i>
+➜中国实际公共教育投入为美国的一半
+https://www.solidot.org/story?sid=13575	51780
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 "中新社报道，中国社科院人口与劳动经济所所长蔡昉八日在此间表示，<a href="http://www.chinanews.com.cn/cj/cj-gncj/news/2009/09-08/1856514.shtml">中国实际公共教育投入仅占GDP的百分之二点四</a>，低于印度的百分之二点七，相当于美国的一半。
+<i>一些考试有地域歧视，正人君子将这解释为“各地资源不平衡”；初中《思想品德》说：<a href="http://www.pep.com.cn/sxpd/jszx/8x/dzkb/200907/t20090709_576423.htm">在我们这个不发达的大国办教育，普及义务教育很不容易</a>.."</i>

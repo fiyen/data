@@ -1,0 +1,70 @@
+➜Valve公布Steam机器原型，宣布硬件Beta测试
+https://www.solidot.org/story?sid=36594	9402
+<div align="center"><a href="http://img.solidot.com.cn/0/686/liVDchHQNgCo.jpg"><img src="http://img.solidot.com.cn/0/686/liVDchHQNgCo.jpg" height="196" align="" width="350"></a><br>
+<br>
+</div>
+在宣布基于Linux的游戏操作系统<a target="_blank" href="http://store.steampowered.com/livingroom/SteamOS/"><u>SteamOS</u></a>之后，Valve公布了运行SteamOS的<a target="_blank" href="http://store.steampowered.com/livingroom/SteamMachines/"><u>原型机</u></a>，并将向内测者免费赠送300台原型机进行测试。和SteamOS一样，Valve没有公开原型机的硬件规格，但承诺将会在今年内提供给硬件Beta测试者。Valve声称，他们的硬件合作伙伴将在明年发布多款SteamOS主机，制造原型机的目的是为了测试Steam的客厅使用经验，它表示SteamOS主机是完全开放和可升级的，并将会特别针对大小、价格、安静度等因素而进行优化设计。想要参加Beta测试的人需要满足一定条件才能进入候选名单，这些要求包括加入<a target="_blank" href="http://steamcommunity.com/groups/steamuniverse"><u>Steam Universe组</u></a>，同意相关法律条款，有10名Steam 好友，在Big Picture模式下启动一款游戏并用手柄玩过游戏。
+➜苹果地图引导用户驾车驶上飞机跑道
+https://www.solidot.org/story?sid=36595	12149
+<div align="center"><img src="http://img.solidot.com.cn/0/687/lifwb8aIoZnsA.png" align=""><br>
+<br>
+</div>
+BBC<a target="_blank" href="http://www.bbc.co.uk/news/technology-24246646"><u>报导</u></a>，阿拉斯加Fairbanks国际机场不得不在一条飞机跑道上放置路障，原因是苹果用户在苹果地图的导航下驾车穿过了飞机跑道。过去三周，有两名司机顺着飞机跑道驾驶并横穿跑道（如图所示）。
+该跑道被波音737飞机使用。要进入机场并不容易，并非畅通无阻，而是要先经过一扇运动激活的活动门，一路上还有飞机警告标识，司机需要驾车超过一英里才会到达飞机跑道。然而在苹果地图的导航之下，司机将这一切都无视了。截至本周三，苹果地图导航错误仍然存在。相比之下，Google地图则提供了一条更长的路线，将司机正确导航到停车场。
+➜GNOME 3.10发布
+https://www.solidot.org/story?sid=36596	13476
+开源桌面环境GNOME项目发布了<a target="_blank" href="https://help.gnome.org/misc/release-notes/3.10/"><u>GNOME 3.10</u></a>（<a target="_blank" href="http://ftp.gnome.org/pub/gnome/misc/promo-usb/gnome-3.10.iso"><u>ISO镜像</u></a>）。主要的新特性包括：初步支持Wayland显示服务器，Wayland设计取代X，被认为能带来更强的图形性能，其现代框架能为开发者提供更大的弹性，提供了更安全的沙盒应用程序；重新设计的系统状态区；引入了标头列，将标题列与工具列整合为单一元素，给予内容更大的展示空间；软件搜索和安装工具 Software；新的地理位置架构，利用多种地理位置来源判断方位；支付高分辨率显示屏；Photos应用整合Flickr；以及大量新的应用程序，如基于OpenStreetMap的地图应用，支持ownCloud的笔记应用，Tweak Tool，默认搜索引擎DuckDuckGo的浏览器，支持 DjVu格式的Document Viewer，等等。下一个版本GNOME 3.12计划在2014年3月发布。
+➜卡巴斯基发现针对韩国和日本的网络间谍活动
+https://www.solidot.org/story?sid=36597	17058
+<div align="center"><img src="http://img.solidot.com.cn/0/688/liKAJJlm7ovnY.png" height="171" align="" width="300"><br>
+<br>
+</div>
+卡巴斯基<a target="_blank" href="https://www.securelist.com/en/analysis/204792307/The_Icefog_APT_Frequently_Asked_Questions"><u>发现了</u></a>以韩国和日本为攻击目标的网络间谍活动<a target="_blank" href="http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf"><u>Icefog</u></a>（PDF）。Icefog
+这一名字源自攻击者所用指令控制服务器名称中的一个字符串，而指令控制软件的名称叫“尖刀三号”——古代中国有一种武器叫“三尖刀”。攻击者通过向目标发送钓鱼邮件，利用 MS Word和Excel中的多个漏洞入侵目标机器，一旦受害者打开恶意附件，后门程序就会植入到系统中，在Internet Explore文件夹“C:\
+Program Files\Internet Explorer”下安装sxs.dll文件，然后利用Windows的DLL搜索次序劫持漏洞加载该恶意程序。除了MS办公软件外，攻击者还利用了JAVA漏洞和韩国政府使用的私有字处理程序Hangul Word的漏洞。Icefog攻击始于2011年，有Windows和OS X两种变种，主要是收集敏感文件和企业计划方案，以及窃取电子邮件帐户凭证和访问内外网络资源的密码。受害者主要是韩国和日本的政府机构及大型企业，此外还有中国大陆、香港、台湾、新加坡和美国的受害者，但根据恶意程序样本，这些国家和地区并非是攻击者感兴趣的目标，而可能是恶意程序传播造成的附带效应。卡巴斯基安全研究人员没有发现国家支持的明确证据，但推测黑客可能属于雇佣军，因为他们在收集敏感信息之后立即撤退。<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2013/09/130925_hacking_mercenary.shtml"><u>他们发现</u></a>一些评论和内部文件都是简体中文，但成员之间也用日语和朝鲜语沟通，说明他们可能这三个国家都有活动。
+➜VLC 2.1发布
+https://www.solidot.org/story?sid=36598	18666
+<div align="center"><img src="http://img.solidot.com.cn/0/689/li0X7241476A.gif" height="131" align="" width="360"><br>
+<br>
+</div>
+开源多媒体播放软件VLC发布了一个重大更新版<a target="_blank" href="http://www.videolan.org/vlc/releases/2.1.0.html"><u>VLC 2.1</u></a>，代号Rincewind。Rincewind解决了2.0.x分支中的多个重要的架构问题，其中最瞩目的是滞后反应和音量变化，修正了上千个bug，新的音频渲染管线，重写音频核心改进音量和设备管理，改进音频支持，OS X、Android、GNU/Linux和Windows版本加入了新的硬件编解码，支持4K视频，改进字幕支持等等。开发者<a target="_blank" href="http://www.reddit.com/r/technology/comments/1n516l/vlc_new_major_release_210_is_out/ccfftmd"><u>表示</u></a>将会加快重大版本的发布，当然不会像Firefox这样疯狂，但计划每半年发布一个重大更新版本。
+➜三星即将推出曲面智能手机
+https://www.solidot.org/story?sid=36599	25712
+<div align="center"><img src="http://img.solidot.com.cn/0/690/lii51SoKME8Hs.jpg" height="165" align="" width="248"><br>
+<br>
+</div>
+三星<a target="_blank" href="http://www.bbc.co.uk/news/technology-24238653"><u>宣布</u></a>将推出配备曲面显示屏的智能手机，柔韧性显示技术的时代即将到来。曲面智能手机采用有机发光二极管（OLED）面板，OLED用于柔韧和弯曲显示技术是因为它不需要背光，也不受刚性材料如玻璃的限制。真正可折叠可卷起的柔韧性设备还需要几年时间才能出现，而曲面设备则是迈出的第一步。三星已经发布了55英寸的曲面电视机，其竞争对手如LG也在研发柔韧性技术。OLED的每个像素能自己发光，因此消除了背光灯的需求。三星<a target="_blank" href="http://spectrum.ieee.org/tech-talk/consumer-electronics/portable-devices/curved-screen-smartphone-is-on-its-way"><u>推出</u></a>曲面智能手机可能是为了探索消费者对柔韧性技术的兴趣。
+➜比尔盖茨承认Ctrl+Alt+Del是一个错误
+https://www.solidot.org/story?sid=36600	26756
+在上周哈佛举行的一个活动中间，比尔盖茨坦承，强迫用户按下组合键Ctrl+Alt+Del登录进Windows是<a target="_blank" href="http://www.geekwire.com/2013/gates-harvard/"><u>一个错误</u></a>，表示如果IBM键盘设计师给微软一个单键用于登录的话，Ctrl+Alt+Del本来不会见到光的。Ctrl+Alt+Del的设计者David Bradley曾经<a target="_blank" href="http://www.solidot.org/story?sid=35593"><u>笑称</u></a>，虽然是他发明了这个组合键，但却是比尔盖茨让Ctrl+Alt+Del一举成名。
+➜编程语言Ceylon发布1.0 beta
+https://www.solidot.org/story?sid=36601	28894
+Hibernate和Seam创始人Gavin King<a target="_blank" href="http://ceylon-lang.org/blog/2013/09/22/ceylon-1/"><u>宣布</u></a>发布编程语言Ceylon 1.0 beta。最新的发布包含了定义语言语法语义的完整规范，包含Java和avaScript编译器的命令行工具集，支持在Java和JavaScript虚拟机中执行Ceylon程序，与原生代码实现互操作，等等。Ceylon语言于2011年<a target="_blank" href="http://www.solidot.org/story?sid=25104"><u>正式公开</u></a>，一种静态类型语言，保留了一些最好的Java语言特性，改进了语言的可读性和内置的模块性，吸收了高阶函数等函数语言特性，融合了C 和 Smalltalk的一些特性。
+➜气候变化没有空气污染危害大
+https://www.solidot.org/story?sid=36602	31854
+根据发表在《环境研究快报》上的<a target="_blank" href="http://iopscience.iop.org/1748-9326/8/3/034005/"><u>研究报告</u></a>，气候变化对人造成的危害影响有限，空气污染才是真正的“<a target="_blank" href="http://www.bbc.co.uk/news/science-environment-23315781"><u>隐形杀手</u></a>”。研究人员利用从1850年至2000年的臭氧和PM2.5大气浓度模型<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201309/t20130926_3939638.shtml"><u>得出结论，</u></a>前工业化时代以来与气候因素造成的空气污染有关的死亡率只占很小的比例。研究计算，每年只有约3700人的死亡原因可以归因于气候变化对空气质量的影响，其中死于臭氧原因的1500人，2200人的死亡与细颗粒有关。相比之下，每年死于人为增加臭氧的就约有47万人；而空气中人为引起的微小悬浮颗粒造成的癌症和其他呼吸系统疾病，每年更是导致约210万人死亡。<br>
+➜AMD发布新一代GPU，公布新的命名方案
+https://www.solidot.org/story?sid=36603	33730
+Radeon HD 7950、Radeon HD 8970...AMD在GPU命名上显然遇到了一个问题：Radeon HD 1xxxx听起来不是一个好名字。9月25日，AMD<a target="_blank" href="http://www.amd.com/us/press-releases/Pages/amd-radeon-r9-2013sept25.aspx"><u>公布了</u></a>新一代的GPU产品，同时也公布了一套新的命名方案：AMD Radeon R5、R7和R9。最高端的R9 290X有60多亿晶体管，超过300GB/s内存带宽，支持4K分辨率游戏。低端的R5系列起售价89美元，1GB显存。中端的R7 260X售价139美元，2GB显存。R9 270X和280X则被用于取代目前的高端显卡Radeon 7950和7970，售价199美元和299美元。配备4GB显存的最高端R9 290X没有宣布价格。AMD还宣布了可能会对跨平台游戏开发有重要影响的Mantle技术——鉴于PS4和Xbox One全都采用AMD基于Graphics Core Next架构的GPU，AMD声称Mantle API可以帮助简化跨平台游戏开发，提供了深层次的硬件优化。AMD将在11月举行的开发者峰会上公开Mantle的更多细节。
+➜用思想控制义肢
+https://www.solidot.org/story?sid=36604	35629
+<center>
+<iframe src="https://www.youtube.com/embed/nGmIS9YeuuQ?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+一位下腿截肢的男子能用思想精确控制他安装的义肢，原因是他截肢过程中保留下的感觉神经被改道连接到大腿，然后大脑可以利用它们与智能义肢进行通信。这位男子可以轻松自如的在平地步行和爬楼梯之间转变，甚至还能踢足球。而在传统截肢中，感觉神经被严重破坏失去了功能。2006年，芝加哥康复中心的Todd Kuiken和同事意识到，在截肢过程中小心的将感觉神经改道，可以保留部分功能，然后可以利用改道的神经信号控制智能义肢。Kuiken团队现在<a target="_blank" href="http://www.newscientist.com/article/dn24265-man-controls-new-prosthetic-leg-using-thought-alone.html#.UkOqQhBcEiw"><u>首次将这项技术应用于截肢者</u></a>。结果显示，只使用机械传感数据智能义肢正确移动的成功率为87%。加入来自神经的数据后，成功率提高到了98%，而且最重要的是没有发生严重错误。
+➜斯坦福大学研制出第一台碳纳米管计算机
+https://www.solidot.org/story?sid=36605	40830
+斯坦福大学工程师<a target="_blank" href="http://www.bbc.co.uk/news/science-environment-24232896"><u>研制出</u></a>第一台碳纳米管计算机，运算速度仅为1kHz，共有178个晶体管，每个晶体管10-200个碳纳米管，但它是一台功能完整的计算机，包括了一个简单的多任务操作系统。<a target="_blank" href="http://www.nature.com/nature/journal/v501/n7468/full/nature12502.html"><u>论文</u></a>发表在《自然》期刊上。<br>
+<i>硅芯片制造工艺已逼近其物理极限，科学家一直在寻找其它能替代硅的材料，这些材料包括石墨烯、二硫化钼，以及碳纳米管。碳纳米管直径10纳米，比硅晶体管没小多少，但它的高导电性使其拥有相对较高的能效。碳纳米管代替硅难以取得突破的原因是，现有的制造工艺难以将碳纳米管的两种形式——导体和半导体——很好的集成在一起。斯坦福团队克服了这一难题，制造出了能在多任务操作系统上执行代码的碳纳米管处理器。处理器非常简单，一次只能执行一个简单的任务。但这标志着一次巨大飞跃。虽然处理器只能执行计数和排列两种任务，但从计算上说它属于图灵完全，理论上可以解决任何计算问题。研究人员表示，碳纳米管回路的能效提升了十倍多。</i>
+➜杜鹃在其他鸟的巢中产下多个卵降低发现率
+https://www.solidot.org/story?sid=36606	42279
+杜鹃是一种将卵产在其他鸟的巢中，由其他鸟代为孵化和育雏的鸟类。这种行为被称为<a target="_blank" href="http://www.bbc.co.uk/nature/24205093"><u>巢寄生</u></a>。其他鸟则可能会根据卵的外观排斥和拒绝外来的异族鸟卵。英国科学家发现，杜鹃会在其他鸟的巢内<a target="_blank" href="http://www.bbc.co.uk/nature/24205093"><u>产下多个卵</u></a>，迷惑对方，降低被发现的危险。<a target="_blank" href="http://dx.doi.org/10.1038/ncomms3475"><u>论文</u></a>发表在《Nature Communications》上。研究显示，帮助杜鹃代为孵化和育雏的鸟主要是通过颜色和形状辨别真伪。杜鹃已经进化出能产下与其他种类鸟卵相似形状的卵，但其颜色还是存在较大的差异。
+➜Google Talk故障导致信息发送阴差阳错
+https://www.solidot.org/story?sid=36607	43701
+Google Talk用户注意了，今天不宜聊天，因为你可能会不小心发送信息给错误的对象或者多个错误的对象。有许多用户<a target="_blank" href="http://timesofindia.indiatimes.com/tech/tech-news/internet/Google-Talk-delivering-messages-to-unintended-contacts/articleshow/23093772.cms"><u>反映</u></a>Google Talk出现了问题。而根据Google App dashboard上的<a target="_blank" href="http://www.google.com/appsstatus#hl=en&amp;v=issue&amp;ts=1380211199000&amp;sid=3&amp;iid=2115900d3a8ac9a969139e5db5f60052"><u>信息</u></a>，Google在下午7点左右表示该问题已经解决，但没有给出进一步说明。
+➜无人机战争2.0版正在酝酿之中
+https://www.solidot.org/story?sid=36608	45937
+航母、隐形战斗机、反舰导弹和舰载机，中国正全力发展反介入和区域阻绝能力，削弱美国的军事优势。但美国也在发展反制反介入和区域阻绝能力，五角大楼的手段就是无人机。《外交家》杂志发表文章称，<a target="_blank" href="http://thediplomat.com/the-editor/2013/09/26/drone-warfare-version-2-0-great-power-edition/"><u>无人机战争走向了2.0版本</u></a>：美国正发展一系列无人系统削弱中国的反介入和区域阻绝军事战略。这些无人系统包括：飞行半径2000公里的作战飞机（如验证机X-47B），昆虫大小的无人间谍机可以定位目标，以及可以在水下操纵的无人机运输平台。
+➜有人从美联储偷到了7毫秒
+https://www.solidot.org/story?sid=36609	47545
+上周三，美联储宣布维持每月850亿美元的债券购买计划不变。美联储的这一决定是根据国家原子钟于下午2点准时在华盛顿发布。消息从华盛顿传到芝加哥交易所需要7毫秒。然而，下午2点过后2到3毫秒，数十亿美元交易订单已经发出，高频交易利用这一信息对市场产生影响的时间差获取巨额利润。美联储的成员一直呆在一个安全房间内，不得与外界沟通，直到2点过后才获准离开。是有人提前泄露了信息？<a target="_blank" href="http://www.motherjones.com/kevin-drum/2013/09/somebody-stole-7-milliseconds-federal-reserve"><u>还是有人发明了中微子通信技术</u></a>？利用光缆，从华盛顿到芝加哥信息传输需要大约7毫秒；两地的直线距离是960公里，如果利用<a target="_blank" href="http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BE%AE%E5%AD%90"><u>中微子</u></a>通信穿越两地之间的一切障碍，那么所需时间大约为3毫秒。

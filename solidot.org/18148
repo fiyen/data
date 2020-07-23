@@ -1,0 +1,45 @@
+➜Firefox 将默认启用 DNS-over-HTTPS
+https://www.solidot.org/story?sid=62013	12288
+Mozilla <a href="https://blog.mozilla.org/futurereleases/2019/09/06/whats-next-in-making-dns-over-https-the-default/"><u>宣布</u></a>，它计划 9 月晚些时候对美国 Firefox 用户逐步默认启用 DNS-over-HTTPS。Mozilla 是在 2017 年开始开发 DNS over HTTPs(DoH)协议，2018 年 6 月<a href="https://www.solidot.org/story?sid=56697" target="_blank"><u>开始测试</u></a>，它设计通过 HTTPs 加密向第三方或用户自己搭建的 DNS 服务器发出域名查询请求。Mozilla 认为 DoH 是更安全的域名解析方法。Mozilla 表示，如果用户选择了家长控制或禁用 DoH，它会尊重用户的选择；除非企业配置明确启用 DoH 它会遵守企业配置禁用 DoH；如果因为故障或其他问题导致域名查询失败它会回滚到操作系统默认使用的 DNS 服务器。想要关闭 DoH 的用户可以打开 about:config，搜索 network.trr，将 network.trr.mode 的值设为 5。
+➜Purism 开始交付 Librem 5 智能手机
+https://www.solidot.org/story?sid=62014	13731
+Purism <a href="https://puri.sm/posts/librem-5-shipping-announcement/"><u>宣布</u></a>它准备开始分批交付 Librem 5 智能手机。Librem 5 项目始于 2017 年，设计保护用户的数字隐私和尊重用户的自由，让用户控制自己的数字生活。Librem 5 价格不菲，硬件配置可能不如中低端 Android 手机，显示屏 5.7 英寸 @ 720×1440，CPU 是四核 i.MX8M @ max。Librem 5 运行 PureOS Linux 操作系统，支持去中心化实时互操作通信开放标准 Matrix，提供了硬件开关可以关闭相机、麦克风、手蜂窝、Wifi、蓝牙和 GPS。
+➜贸易战下中资企业拓展国内品牌
+https://www.solidot.org/story?sid=62015	14463
+十多年来，松腾实业一直致力于与西方大品牌合作开展业务，为飞利浦和霍尼韦尔  等公司提供其在中国工厂生产的产品，面向美国和其他海外市场。在美国对中国商品征收 25% 的关税后，去年松腾实业的产品在美销售额下降了五分之一，迫使其关闭了 11 条装配线中的两条。贸易战成为无数中国代工企业 (OEM) 的一个转折点，这些公司将产品供应给西方公司，后者贴上别的品牌出售。中国就是靠这些 OEM 厂商才建立起 “世界工厂” 的声名。对于松腾实业这样的公司，贸易战已经促使他们进行重大战略反思，<a href="https://cn.reuters.com/article/china-us-trade-risk-domestic-business-ma-idCNKCS1VU02W?il=0"><u>它们开始转而拓展国内市场</u></a>。对中国企业而言，除了将部份生产线转移至其他国家，自营品牌是剩下不多的战略选择之一。
+➜澳大利亚 ISP 被命令屏蔽托管基督城恐怖袭击视频的网站
+https://www.solidot.org/story?sid=62016	16361
+澳大利亚 ISP <a href="https://www.theguardian.com/technology/2019/sep/09/australian-internet-providers-told-to-block-websites-hosting-christchurch-terror-video"><u>被命令</u></a>屏蔽托管新西兰基督城恐怖袭击视频的网站。在基督城屠杀发生之后，澳大利亚电信公司和 ISP 就开始主动屏蔽托管枪手恐怖袭击视频或枪手宣言的网站。根据沃达丰新西兰公司提供的名单有 43 个网站被屏蔽。ISP 的行动在法律上是灰色地带，为了避免法律的复杂性澳大利亚总理要求 e-safety 专员和 ISP 制定一个协议去屏蔽特定网站。澳大利亚周日发出的屏蔽命令涵盖了 8 个网站。对网站的屏蔽将每 6 个月评估一次，如果网站移除了非法材料可以解除屏蔽。
+➜黑胶唱片收入 1986 以来第一次超过 CD
+https://www.solidot.org/story?sid=62017	17192
+根据美国唱片业协会的<a href="https://www.riaa.com/wp-content/uploads/2019/09/Mid-Year-2019-RIAA-Music-Revenues-Report.pdf"><u>报告（PDF）</u></a>，今年黑胶唱片的销售收入将是自 1986 以来第一次超过 CD。因为音乐流媒体的流行，CD 唱片的销售收入大幅下滑，但黑胶唱片的收入却有显著的增长。报告称，2019 年上半年黑胶唱片销量 860 万张收入 2.241 亿美元，CD 唱片销量 1860 万张收入 2.479 亿美元。黑胶唱片的收入在 2018 年下半年和 2019 年上半年增长了 12%，而 CD 唱片的收入基本没变，因此按照这一趋势到年底黑胶唱片的销售额将超过 CD。这将是自 1986 年以来黑胶唱片<a href="https://www.nme.com/news/music/vinyl-set-outsell-cds-first-time-since-1986-2545781"><u>首次比 CD 产生更多的收入</u></a>。尽管如此，相比音乐流媒体服务，黑胶唱片的收入比重仍然很小只有 4%，而流媒体订阅服务占到了 62%。
+➜字节跳动收购互动百科
+https://www.solidot.org/story?sid=62018	24644
+根据工商登记变更信息，字节跳动已完成对互动百科的<a href="http://www.bjnews.com.cn/finance/2019/09/09/624533.html"><u>全资收购</u></a>。互动百科成立于 2005 年，为商业中文百科网站，但发展不及百度百科。2016 年互动百科登上新三板，但次年业绩下滑，2019 年 1 月终止挂牌。字节跳动去年就开始和互动百科洽谈收购，后停滞，今年因为公司重点投入搜索，所以案子又被重新拿出来看，并火速推进。一位接近互动百科的人士在上述报道中透露，交易金额为几亿人民币。分析人士认为，字节跳动收购互动百科，看中的并非估值或者用户量，更多在于搜索内容生态，为的是满足用户的需求。
+➜MIT 媒体实验室被指在无土栽培实验上造假
+https://www.solidot.org/story?sid=62019	27686
+MIT 媒体实验室高级研究员 Caleb Harper 的 Open Agriculture Initiative（OpenAg）项目被指在无土栽培实验上造假。OpenAg 的一个实验叫 <a href="https://www.media.mit.edu/projects/personal-food-computer/overview/"><u>Personal Food Computer</u></a>，根据官网的介绍：它是一个桌面大小的受控农业环境技术平台，利用机器人系统控制监视气候、能量和植物生长。该项目旨在提供一个无土栽培环境，让每一个人都能变成农夫，种植自己的食物。但 Business Insider 根据内部文件和工作人员的消息报道，<a href="https://www.businessinsider.com/mit-media-lab-personal-food-computers-dont-work-fake-staff-say-2019-9"><u>这个实验存在造假的问题</u></a>，它的装置并不能工作。工作人员称，在一次大型演示前，他们被告知将其他地方栽培的植物放到装置内。另一次，工作人员被要求从附近的花木市场购买香草，清理一下放在盒子内拍照。工作人员称，这么做的目的是让设备看起来符合 Harper 对其的设想。Harper 的同事指出，他的无土栽培装置不具有他所设想的能力，它事实上不起作用。Harper 对这一报道拒绝置评。
+➜付费应用被指在取消自动续费上繁琐且隐蔽
+https://www.solidot.org/story?sid=62020	27929
+付费应用日益流行，但如何取消连续付费或自动续费却成了消费者面临的一大难题。这些应用被指在取消自动续费上繁琐且隐蔽。《工人日报》<a href="http://www.mzyfz.com/cms/fazhixinwen/xinwenzhongxin/fazhijujiao/html/848/2019-09-09/content-1404868.html"><u>报道</u></a>，记者以 “会员自动续费” 为关键词搜索，找到相关结果约 167 万个。其中，内容基本上为网友提问和支招 “如何取消自动续费”，许多还配有操作图解，程序颇为繁琐...以在支付宝中解约自动扣款为例，解约过程需要进行 6 步操作，这与开通会员时的一键支付、自动续费时的 “无需操作” 形成鲜明对比。
+➜苹果中国代工厂被指违反了中国劳动法
+https://www.solidot.org/story?sid=62021	33348
+在苹果准备发布新一代 iPhone 前夕，非营利的中国劳工观察发表报告称，苹果在中国的代工厂雇佣了太多的临时工，<a href="https://www.bloomberg.com/news/articles/2019-09-09/apple-foxconn-broke-a-chinese-labor-law-for-iphone-production"><u>违反了中国的劳动法</u></a>。苹果及其代工厂富士康已经证实了这一报道。中国劳工观察的卧底调查人员发现，富士康郑州工厂今年八月雇佣的临时工比例达到了员工总数的五成（包括实习生），而中国劳工法规定临时工比例最高为 10%。苹果表示，它在调查之后发现临时工人的比例超过了标准，它正与富士康密切合作解决这个问题。苹果称它与供应商合作立即采取了纠正措施。富士康也证实了报道，称在雇佣临时工和超时工作上确实有违规。富士康称虽然加班通常是自愿，但这不符合公司的指导方针。
+➜美国起诉一名中国教授协助华为窃取技术
+https://www.solidot.org/story?sid=62022	37359
+美国检方以诈欺罪名<a href="https://cn.reuters.com/article/us-prosecutor-chinese-maobo-0909-idCNKCS1VU0YG?il=0"><u>起诉</u></a>厦门大学副教授、得州大学客座教授毛波，<a href="https://www.cnbc.com/2019/09/09/us-charges-chinese-professor-in-latest-shot-at-huawei.html" target="_blank"><u>指控</u></a>他从一家加州企业窃取科技，使华为得利，再度对陷入困境的中国最大电信设备制造商开枪。根据法院文件，毛在 8 月 14 日于得州遭到逮捕，在他同意于纽约审理此案后，以 10 万美元交保。关于合谋犯下通信诈欺的指控，毛波 8 月 28 日在布鲁克林地方法院主张无罪。这起刑事诉讼内容显示，毛波与未具名的加州科技公司达成协议，取得该公司电路板，声称将用于学术研究。但这份诉状内容指控一家未具名的中国电信集团试图窃取这项技术，而毛波在这当中扮演一定角色；消息人士称该未具名的集团即为华为。一份法院文件也显示，这起案件与华为有关。
+➜研究发现耐药性可以不依赖抗生素的使用
+https://www.solidot.org/story?sid=62023	39221
+根据发表在《自然》期刊上的一项<a href="https://www.nature.com/articles/s41586-019-1521-8"><u>研究</u></a>，细菌耐药性的出现可以<a href="http://www.ebiotrade.com/newsf/2019-9/201996164240942.htm" target="_blank"><u>不依赖于抗生素的使用</u></a>。耐药性是全世界面临的一个日益严重的健康风险，限制抗生素的使用有助于减少耐药性的出现。但最新研究显示，仅靠这一措施并不足以阻止耐药性的扩散。新发现的耐药性扩散机制是持久性细菌。这些细菌就像携带抗性基因的细菌一样，可以在抗生素治疗中存活下来。它们处于暂时的休眠状态，可以将其新陈代谢降至最低，从而阻止抗生素杀死它们。对小鼠的研究发现，这些休眠的持久性细菌在苏醒过来后能将其抗性基因传递给其它细菌。
+➜日本大学理科论文数量增长停滞
+https://www.solidot.org/story?sid=62024	39802
+日本大学理科论文数量自 2000 年前后起<a href="https://china.kyodonews.net/news/2019/09/490454b7c3bb-20.html"><u>增长停滞</u></a>，而在全球范围内，美国及中国的论文数量则有飞跃性增长。反映高质量论文数量的世界排名中，日本从 2000 年的第 4 位滑落至 2016 年的第 11 位。1986 年至 1999 年度，日本国立、公立、私立大学等的研究经费年度平均增长 4.4%，论文数量年平均增长 5.47%。但研究费用在 1999 年度较前年减少，此后呈平移状态，论文数量也几乎同时停止增长。
+➜软件确实比十年前更昂贵
+https://www.solidot.org/story?sid=62025	41310
+对 100 种商业软件的<a href="https://docs.google.com/spreadsheets/d/1-3kyC2SYDvJwULt9FWL3A6Cy3jq0I5ox-DhQr64qydc/edit#gid=0"><u>调查</u></a>发现，<a href="https://capiche.com/p/software-inflation-rate"><u>软件比十年前更贵了</u></a>。商业软件的价格过去十年平均上涨了 62%，是通货膨胀的三倍多，快于房租和医保的增长速度。相比之下，今天的 iPhone XR 的价格比 2009 年的 iPhone 3GS 贵 25%（如果以 iPhone XS 比较的话贵 67%）。部分商业软件的价格上涨幅度更高，如果剔除价格上涨 200% 以上的软件，软件的价格平均上涨 42%，是通货膨胀率的两倍。如果你在 2009 年每月支付的软件费用为 9.99 美元，今天你很可能需要支付 16.18 美元或 19.78 美元。
+➜Windows 10 新累积更新发现多个问题
+https://www.solidot.org/story?sid=62026	44600
+根据用户的报告，微软上个月底释出的 Windows 10 累积更新 <a href="https://support.microsoft.com/en-us/help/4512941/windows-10-update-kb4512941" target="_blank"><u>KB4512941</u></a> <a href="https://tech.slashdot.org/story/19/09/09/0054213/new-windows-10-update-bugs-include-orange-screenshots" target="_blank"><u>引发了多个问题</u></a>，其中包括 CPU 高使用率，向 Windows Desktop Search 输入搜索返回了空白页没有显示任何结果，以及屏幕截图之后屏幕变成了<a href="https://answers.microsoft.com/en-us/windows/forum/all/my-screen-turns-red-when-i-capture-a-screenshot/f752193c-92fd-4fb2-ba91-36efd96ca1d9"><u>橙色</u></a>。对于 CPU 的高使用率，微软已经证实了该 bug，表示正在开发一个解决方案，预计会在 9 月中旬释出。
+➜亚马逊燃烧面积达 2.5 万平方公里
+https://www.solidot.org/story?sid=62027	46947
+亚马逊雨林巴西部分在 2019 年着火点多达  57,500 处， 正在燃烧的面积达 1.87 万平方公里。邻国玻利维亚的燃烧面积达 7250 平方公里。亚马逊雨林的火灾<a href="https://time.com/5670432/amazon-fires-from-space/" target="_blank"><u>今年引发了广泛关注</u></a>，火灾危及到了近百万生活在该地区的原居民。巴西雨林提供了 6% 的地球氧气，每年储存了 20 亿吨二氧化碳，或 5% 的人类年度排放。它是地球的一个巨大碳汇。

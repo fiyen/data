@@ -1,0 +1,19 @@
+➜Timeline of compulsory routers
+https://www.solidot.org/story?sid=45679	4655
+<a href="http://hardenedlinux.org/">Shawn the R0ck</a> 写道 <i>"compulsory routers指在用户在使用通信运营商提供的接入互联网服务时，只能使用特定的路由。德国2015年8月通过了“路由器自由”的法案来保证所有的运营商必须允许用户自由的选择路由器进行接入，包括OpenWRT等自由软件实现。这一法案对保护用户的软件自由以及数字权利有促进作用，"compulsory
+routers"因为其过程非常复杂而成为一个非常有意思的话题。很多政府部门、公司和团体已经参与到了其中，热烈的参与了讨论和吸取意见。<a target="_blank" href="https://fsfe.org/activities/routers/timeline.en.html">FSFE（欧洲自由软件基金会</a>）列出了<a target="_blank" href="http://hardenedlinux.org/translation/2015/10/03/Translation-Timeline-of-compulsory-routers.html">整个事件的时间表</a>。"</i>
+➜加勒比海移动运营商开始屏蔽广告
+https://www.solidot.org/story?sid=45680	34569
+有1300万用户的移动运营商<a target="_blank" href="https://en.wikipedia.org/wiki/Digicel"><u>Digicel</u></a>宣布安装广告过滤软件<a target="_blank" href="http://recode.net/2015/09/30/caribbean-carrier-digicel-first-to-offer-shines-ad-blocking-technology/"><u>屏蔽广告</u></a>。Digicel总部位于牙买加，运营范围包括加勒比海、中南美洲和大洋洲，它部署的广告屏软件由以色列公司Shine Technologies提供，将首先部署在牙买加的移动网络，然后逐步扩大到其它地区。根据Adobe和PageFair今年早些时候公布的研究，去年全世界有2亿网络用户安装了广告过滤器，导致了220亿美元的广告收入损失。更多的网络用户使用广告过滤软件给在线出版商带来新问题。
+➜NASA公布冥王星最大卫星的彩色照片
+https://www.solidot.org/story?sid=45681	49872
+<div align="center"><img src="http://img.solidot.com.cn/0/60/liie8gYiK6ULY.jpg" align="" height="560" width="560"><br>
+<br>
+</div>
+NASA新地平线号探测器<a target="_blank" href="http://www.nasa.gov/feature/pluto-s-big-moon-charon-reveals-a-colorful-and-violent-history"><u>发回了</u></a>冥王星最大卫星Charon的最清晰彩色照片，展示了一个比科学家预想的更为复杂的世界。Charon直径是冥王星的一半，与母星的比例在太阳系中最高。照片显示，Charon表面地形变化多样，有群山、峡谷和滑坡，并非科学家以前推测的密布陨石坑。照片显示，Charon最大的峡谷系统延伸了超过1600公里。新地平线号行星物理和成像团队的John Spencer说，就好象Charon整个地壳向外裂开了。峡谷南部有一个被科学家非正式的称为 Vulcan Planum的巨大平原，平原上的大型陨石坑数量比北方要少，其历史可能比较年轻，科学家的一种推测是它是冰火山活动的结果。
+➜中国的富二代
+https://www.solidot.org/story?sid=45682	52889
+彭博社的一篇文章报道了<a target="_blank" href="http://www.bloomberg.com/news/features/2015-10-01/children-of-the-yuan-percent-everyone-hates-china-s-rich-kids"><u>中国的富二代</u></a>。记者Christopher Beam某天凌晨通过Uber召车时遇到了一名开着跑车的年轻Uber司机，这名富二代当Uber司机的主要动机是泡妞。Beam通过微信与他交流，设法采访了他所在的富二代圈子。按照中国媒体的描述，富二代之于中国相当于十年前帕丽斯希尔顿之于美国，只是品味更低。每隔几个月就会有一个富二代丑闻曝光，这不仅让党感到尴尬，也被党视为是经济或政治威胁。统战部的一篇文章警告说，富二代只知道如何展示财富，但不知道如何创造财富。Beam出席了由《接力》杂志编辑、接力中国精英协会的Martin Hang组织的一个派对。要加入接力协会其成员必须证明其家族企业每年纳税超过5000万元。Hang说该组织的目的是鼓励二代接管家族生意或至少在管理上起重要作用。参加派对的Wang Daqi说，他很难向不富有的人解释他们继承的负担，“他们不理解你为什么感到痛苦...财富的规模决定不了你有多快乐。只有通过体验你才会领悟。”大多数海外留学的富二代都不怎么愿意接管家族生意，他们宁愿自己创业，虽然创业的过程未必如意。
+➜FLIF：自由无损图像格式
+https://www.solidot.org/story?sid=45683	56631
+比利时鲁汶大学的博士后研究员<a target="_blank" href="http://people.cs.kuleuven.be/~jon.sneyers/"><u>Jon Sneyers</u></a>宣布了一种新的无损图像格式<a target="_blank" href="http://flif.info/"><u>FLIF</u></a>，<a target="_blank" href="https://github.com/jonsneyers/FLIF"><u>源代码</u></a>在GPLv3许可证下发布在Github上。FLIF目前还在开发之中，开发者称它的压缩比超过了PNG、FFV1、无损WebP、无损BPG和无损JPEG2000。其它无损图像格式支持渐进解码（progressive decoding），即下载压缩图像的同时就能开始解码，但根据不同无损格式其效果存在差异。开发者称FLIF支持渐进交错（progressive interlacing），下载一小部分无损压缩图像文件后能解码出效果不错的完整有损图像（可查看<a target="_blank" href="http://flif.info/example.php"><u>示例</u></a>）。

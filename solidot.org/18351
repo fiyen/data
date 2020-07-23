@@ -1,0 +1,42 @@
+➜Linux 5.6 发布
+https://www.solidot.org/story?sid=63965	10515
+Linus Torvalds 在内核邮件列表上<a href="https://lore.kernel.org/lkml/CAHk-=wi9ZT7Stg-uSpX0UWQzam6OP9Jzz6Xu1CkYu1cicpD5OA@mail.gmail.com/T/#u"><u>宣布</u></a>释出 Linux 5.6。Torvalds 称，他没有看到内核开发受到新冠疫情影响的迹象，大部分人可能早就习惯了在家远程工作。他估计 Linux 5.7 的发布不太会有变动，但有人错过合并窗口还是可能的，毕竟合并窗口没有你或你周围的人的健康更重要。Linux 5.6 的特性包括：Arm EOPD 支持，<a href="https://lwn.net/Articles/766089/" target="_blank"><u>时间命名空间</u></a>，<u>BPF 调度器和批映射操作</u>，openat2() 系统调用，WireGuard  VPN 实现，流队列 PIE 包调度器，2038 年问题接近解决，pidfd_getfd()系统调用，ZoneFS 文件系统，BPF TCP 拥堵控制算法实现，移除 /dev/random blocking pool 等等。具体可阅读 <a href="https://kernelnewbies.org/Linux_5.6"><u>KernelNewbies</u></a> 和 <a href="https://lwn.net/Articles/816213/rss"><u>LWN</u></a>。
+➜高校毕业生面临萎缩的就业市场
+https://www.solidot.org/story?sid=63966	11941
+2020 年中国的应届高校毕业生有 874 万，创历史新高。但在新冠疫情之下，创纪录毕业人数碰到了<a href="https://www.bbc.com/zhongwen/simp/chinese-news-52063919"><u>萎缩的就业市场</u></a>。中国 21 世纪教育研究院副院长熊丙奇表示，“今年学生的就业形势很艰难。”他分析称，中国本身存在毕业生结构性就业难的问题，即：表面看市场需求旺，但大学生不愿意去这些有需求的用人单位。比如中小企业需要高中/高职毕业生，但大学生不愿意去这些单位。而有些大学的培养结构和专业设置和社会的经济和产业结构（脱钩）。他说，再加之今年人才供给增加，新冠疫情让市场需求减少。国家为保民生，希望中小企业不裁员，中小企业就不想新增人手。而大学生的求职活动亦受影响。2020 年，中国有 341 万人报考研究生，比 2019 年增加 50 多万人。这也是历史的新高。
+➜Elizabeth Warren 竞选团队开源其软件
+https://www.solidot.org/story?sid=63967	12478
+美国民主党总统候选人 Elizabeth Warren 上个月因选情不佳而退出，其竞选团队<a href="https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551"><u>刚刚宣布</u></a>开源在竞选中使用的软件，并为使用开源软件节省资金而感到自豪。Warren 竞选团队的技术部门依赖于开源技术，也希望回报社区，因此决定将其重要的项目开源，供任何人使用。这些项目包括：点对点短信平台 <a href="https://github.com/Elizabeth-Warren/Spoke"><u>Spoke</u></a>，投票位置查询工具<a href="https://github.com/Elizabeth-Warren/pollaris"><u>  Pollaris</u></a>，志愿者支持网站的<a href="https://github.com/Elizabeth-Warren/supportal-frontend"><u>前端</u></a>和<u>后端</u>，数据工具 <a href="https://github.com/Elizabeth-Warren/redhook"><u>Redhook</u></a>，等等。
+➜新冠疫情可能促进机器人的使用
+https://www.solidot.org/story?sid=63968	21959
+机器人正被用于对抗新冠疫情，COVID-19 <a href="https://robotics.sciencemag.org/content/5/40/eabb5589" target="_blank"><u>可能会进一步推动机器人技术的研究</u></a>。在香港，机器人给地铁消毒；在中国，方舱医院使用机器人减轻筋疲力尽的医护人员的工作；在美国，已知第一个新冠病例是使用医疗机器人进行隔离治疗。在流行病疫情之中，机器人被广泛用于消毒、运送药品和食品，测量生命体征，协助边境控制。研究人员认为机器人还能做许多其它的工作，他们希望疫情能催化公共健康领域的机器人研究。
+➜2019 年新增风电装机量超过 60GW
+https://www.solidot.org/story?sid=63969	22902
+风电行业贸易组织 Global Wind Energy Council 发表的<a href="https://gwec.net/global-wind-report-2019/"><u>报告</u></a>显示，2019 年新增风电装机量超过 60GW。风电是最廉价的发电选择之一，在许多地方建造和维护风电比使用化石燃料的火电站更便宜。离岸风电仍然昂贵，但其价格过去几年快速下降，正接近化石燃料的价格。但<a href="https://arstechnica.com/science/2020/03/2019-saw-over-60-gigawatts-of-wind-power-installed/" target="_blank"><u>成本不是唯一的问题</u></a>。风电可能需要新的输电线路，而风力发电的间歇性可能意味着当其比例足够高时电网需要为之升级。尽管存在不利因素，2019 年的风电装机量为 60.4GW，同比增长 19%。中国新增风电装机量 24GW，总装机量 230GW。中国将不再补贴风电，风电项目将需要与其它电力来源进行竞争。美国新增风电装机量 9.1GW，总装机量超过 100GW。2019 年离岸风电装机量  6.1GW，总装机量 29GW。
+➜人人戴口罩是否能减缓传染病的扩散？
+https://www.solidot.org/story?sid=63970	24965
+WHO 以及美国 CDC 都建议，只有有 COVID-19 症状以及照料他们的医护人员需要佩戴口罩。但中国 CDC 主任以及部分卫生专家则建议人人戴口罩以减缓疾病的扩散，不管有没有症状。捷克共和国最近强制性要求在公共场合人人都需要遮住鼻子和嘴巴，推动了一场手工制造口罩的草根运动。支持戴口罩的专家也表示，口罩对传染病扩散的影响很可能只是适度的。许多人担心这可能会加剧医院的口罩短缺。但随着传染病的扩散，公共卫生专家建议政府改变有关劝阻戴口罩的信息。伯明翰大学的 KK Cheng 称，口罩不是保护你自己，<a href="https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic#" target="_blank"><u>而是保护别人免遭佩戴者喷出的呼吸道飞沫</u></a>。
+➜部分企业采购间谍软件监视远程工作的雇员
+https://www.solidot.org/story?sid=63971	27123
+“我们在监视你，我们在记录你的按键，我们在记录你访问的网站，每 10 分钟我们会截屏。”所以好好工作，否则将要面临后果。金融科技公司 Axos Financial 的 CEO Gregory Garrabrants 告诉雇员，不要把远程工作当作休假，如果日常工作没有完成，将会受到纪律处分，严重的话将会解雇。新冠疫情让许许多多的人远程工作，间谍软件的销量也随之大涨，企业试图利用间谍软件来维持一定程度的安全性和生产力。Axos 发言人 Gregory Frost 没有回答 Garrabrants 是否也受到同等监视的询问。监视软件公司&nbsp; InterGuard 的 CEO Brad Miller <a href="https://www.seattletimes.com/business/bosses-panic-buy-spy-software-to-keep-tabs-on-remote-workers/"><u>表示</u></a>，企业使用间谍软件不是因为缺乏信任，而是因为不这么做将是鲁莽的。但企业这么做其实就是<a href="https://tech.slashdot.org/story/20/03/27/1943251/bosses-panic-buy-spy-software-to-keep-tabs-on-remote-workers" target="_blank"><u>缺乏对雇员的信任</u></a>。
+➜全球急于寻找治疗新冠药物
+https://www.solidot.org/story?sid=63972	32234
+随着这场新冠疫情的蔓延，研制出疫苗可能需要 18 个月，没有人能够承受这种等待的代价。医生们<a href="http://www.ftchinese.com/story/001086987?adchannelID=&amp;full=y"><u>迫切希望找到哪些药有效的证据</u></a>。在接下来一个月，随着在中国进行的一些重要试验发布初步结果，他们将了解更多信息。然而政治人士和投资者对某种奇迹疗法的渴望，催生了一个关于治疗病毒药物的错误信息漩涡。美国总统特朗普表示，FDA 已经批准将抗疟疾药物氯喹(chloroquine)和羟氯喹(hydroxychloroquine)用于治疗 COVID-19。结果他的说法被证明并不属实；这些药物还对少数患者造成致命后果。FDA 实际上只是在收集这些药物是否有效的证据。科学家们正在研究三大类药物。第一类是阻止病毒复制的抗病毒药物。第二类是抗炎药，这种药物可以在免疫系统不堪重负时治疗肺部。第三类是基于抗体的疗法。分析师们正在焦急等待吉利德研发的瑞德西韦的早期试验数据，试验证据可能会在未来两周内公布。
+➜科学家在陨石中发现超导材料
+https://www.solidot.org/story?sid=63973	35156
+根据发表在 PNAS 期刊上的<a href="https://www.pnas.org/content/early/2020/03/17/1918056117"><u>一项研究</u></a>，科学家<a href="http://news.sciencenet.cn/htmlnews/2020/3/437627.shtm"><u>报告</u></a>在两块陨石中发现超导材料。这是超导材料在太空中形成的第一个证据。这一发现的重要意义不仅在于它是罕见的天然形式的超导材料，还为人类寻找室温超导材料点燃了新希望。研究者一直试图在实验室制造超导材料，此前部分科学家也曾认为，太空中的一些极端环境——尤其是天文事件下极端的高温和压力，可能会让物质产生特殊的相，因此或许可以期待太空的特殊环境形成超导材料。对地球上的人来说，陨石就是一个绝佳研究对象。但长期以来，一直还未有研究在陨石中发现类似超导化合物的报告。加州大学圣地亚哥分校、美国布鲁克海文国家实验室的研究人员利用一种叫做磁场调制微波光谱的技术，对来自 15 种不同陨石的碎片进行了详细研究。根据测量结果，其中两块陨石内，都含有微量的来自外太空的超导微粒。
+➜中国能否回归正常？
+https://www.solidot.org/story?sid=63974	40690
+科学的一篇报道<a href="https://www.sciencemag.org/news/2020/03/can-china-return-normalcy-while-keeping-coronavirus-check"><u>评论了中国在逐渐恢复正常化</u></a>，但这种正常化是否能持续下去？据估计，截至 3 月 24 日四分之三的中国劳动力回到岗位。疫情的中心武汉和湖北则要相对滞后，武汉要到 4 月 8 日解除封锁。3 月 18 日中国报告本土传播的确诊病例数量为零。之后本土传播虽然再次出现，但绝大多数新增确诊病例都为境外输入。这种趋势能否保持？本土传播的少数病例意味着危险并未远去，而且很可能具有欺骗性。因为国家卫健委不再统计包含测试阳性但没有症状的人，此外还有报道称地方政府限制新感染的信息以达到零本地确诊的目标。香港大学的传染病专家 Ben Cowling 表示他相信中国的本地确诊病例确实很少。但由于大部分人口仍然容易感染，存在再次爆发的可能性。疫情期间的习惯依旧保留，人们都戴着口罩，在公共场所和办公场所保持距离，数以百万计的人继续在家办公。中国疾控中心主任高福称，中国的策略是在疫苗和治疗药物问世前争取到时间。
+➜Infosys 解雇在社交媒体上发帖建议故意传播病毒的雇员
+https://www.solidot.org/story?sid=63975	47796
+Infosys <a href="https://www.theregister.co.uk/2020/03/29/infosys_terminates_employee_coronavirus/"><u>解雇了</u></a>一名使用  Facebook 账号建议故意传播新冠病毒的雇员。他写道， "Let's join hands, go out and sneeze with open mouth in public. Spread the Virus."该帖子受到了广泛关注和谴责，发帖者的身份被识别为 Infosys 在印度的雇员。该公司迅速做出回应，表示将展开调查，并根据调查结果采取行动。一天之后 Infosys 宣布解雇该名雇员，称他违反了公司的行为准则，以及对负责任社会分享的承诺。对此类行为 Infosys 的政策是零容忍的。这一决定在社交媒体上引发了支持和反对的回应。
+➜Grsecurity 开发商最终向 Bruce Perens 赔偿 30万美元
+https://www.solidot.org/story?sid=63976	49043
+2017 年 6 月，开源促进会的联合创始人 Bruce Perens 在博客上谈论了内核加固补丁集项目 Grsecurity，认为该项目违反了 Linux 内核采用的 GPL 许可证。他认为 Grsecurity 是 Linux 的一个衍生作品，它离不开内核，没有内核它无法工作。这意味着 Grsecurity 也必须采用 GPLv2 许可证或兼容 GPLv2 的许可证。Grsecurity 开发商 Open Source Security（OSS）的回应是起诉 Bruce Perens 诽谤。2018 年 12 月，法庭驳回了诽谤诉讼，认为 Perens 的言论不是诽谤。他的博文表达的是一种观点，他的观点不是能被证明错误的事实，因此不构成诽谤行为。法庭判决 OSS 向 Bruce Perens 赔偿 52.6 万美元。OSS 提起上诉，寻求减少赔偿金而不是推翻判决。上周加州第九巡回上诉法院法官签署了双方都同意的<a href="https://regmedia.co.uk/2020/03/27/ossvperens.pdf"><u>命令</u></a>，要求 OSS 向 Perens <a href="https://www.theregister.co.uk/2020/03/27/grsecurity_perens_gpl_settlement/" target="_blank"><u>赔偿 30 万美元</u></a>。Perens 本人并没有得到一分钱，这些赔偿金全部支付给了他的法律团队，包括 O’Melveny &amp; Myers LLP 和电子前哨基金会。
+➜用尿液在月球上造基地
+https://www.solidot.org/story?sid=63977	51081
+NASA、ESA 和 CNSA（中国航天局）都计划未来几十年在月球上建造基地。但殖民月球的一大难题是如何将建筑材料运过去。将 0.45 kg 的负荷从地球运到太空需要花费约 1 万美元，以这种方式在月球上建造基地是非常昂贵的。因此各大航天局考虑利用月球表面的原材料，或者宇航员能提供的原材料如尿液。现在，ESA 与挪威、西班牙、荷兰和意大利的科学家合作，通过多个实验验证尿素<a href="https://scienceblog.com/515080/astronaut-urine-to-build-moon-bases/"><u>作为增塑剂使用的潜力</u></a>，即将尿素添加到混凝土混合物中，在变硬前使它更柔软。尿液的主要成分为水和尿素，其中尿素会减少混合溶液的粘性。科学家表示，需要进一步测试以寻找到建造月球基地的最佳材料，然后用 3D 打印机进行批量生产。
+➜菲利普·安德森去世享年 96 岁
+https://www.solidot.org/story?sid=63978	52631
+美国物理学家<a href="https://en.wikipedia.org/wiki/Philip_Warren_Anderson" target="_blank"><u>菲利普·安德森（Philip Warren Anderson）</u></a>于 3 月 29 日<a href="http://news.sciencenet.cn/htmlnews/2020/3/437660.shtm"><u>去世</u></a>，享年 96 岁。因“对磁性和无序体系电子结构的基础性理论研究”，安德森与内维尔•莫特（Sir Nevill F. Mott）、约翰•凡扶累克（John H. van Vleck）共获 1977 年的诺贝尔物理学奖。该研究为电子器件的开关与记忆技术提供了理论基础，对计算机的发展意义重大。安德森在局域性、反磁性、高温超导等凝聚态物理重要领域上均做出过突出贡献。1962 年，他发表了一篇关于光如何获得质量的著名论文，推动了多年后粒子物理基石“标准模型”的建立和希格斯机制的提出，帮助解决质量的起源问题。1949 年至 1984 年，安德森任职于贝尔实验室，解决了凝聚态物理的许多问题，提出了安德森局域化的概念，发现晶体中的无序度达到一定程度时，电子将由原来的扩展态转变为局域态，即“无序导致局域”。他也写下了安德森模型（一种哈密顿算符）以描述过渡金属系统中的电子。安德森还提出了 BCS 超导理论的计算方法。

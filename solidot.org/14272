@@ -1,0 +1,48 @@
+➜新工具让扭曲历史更困难
+https://www.solidot.org/story?sid=9634	60
+奥威尔在《<a href="http://zh.wikipedia.org/w/index.php?title=1984_(%E5%B0%8F%E8%AA%AA)&amp;variant=zh-cn">1984</a>》中有一句警示名言：谁控制过去谁就控制未来；谁控制现在谁就控制过去。在没有视频和音频档案的时代，历史书籍中充斥了被修改、删除、掩盖的内容，或干脆拒绝写入；在数字时代，人类首次拥有第一手的档案和记录去确凿无误的证明事实。但是数字文件也能以人眼和人耳无法察觉的方式被修改。《纽约时报》报道，一项新数字验证工具将使<a href="http://www.nytimes.com/2009/01/27/science/27arch.html?ref=science">未来的扭曲历史变得更为困难</a>。<i>
+华盛顿大学的研究人员将在周二（北京时间周三）<a href="http://www.ischool.washington.edu/events/headlines.aspx?id=1455">发布</a>一套公共系统的初版，对<a href="http://zh.wikipedia.org/wiki/%E5%8D%A2%E6%97%BA%E8%BE%BE%E5%A4%A7%E5%B1%A0%E6%9D%80">卢旺达大屠杀</a>中原告和其他国际犯罪法庭成员视频采访档案提供数字证明。该系统的设计目的是用于未来保存数字文档，证明战犯、暴行和种族灭绝的第一手资料是真实可信的。其核心组件是哈希算法，目前使用的是SHA-2，但研究人员表示可以很容易的用更先进的算法取代。系统使用live CD分发。华盛顿大学信息学院的计算机科学教授<a href="http://www.ischool.washington.edu/people/facdirectory.aspx?id=3135&amp;mode=pics">Batya Friedman</a>表示，一段时间之后，有些人就会说用砍刀（据说是Made in china）屠杀80万人是不可能的。</i>
+➜SUSE Studio——自己的SUSE定制版
+https://www.solidot.org/story?sid=9635	1200
+Novell发布了SUSE Studio的<a href="http://news.cnet.com/8301-13505_3-10148796-16.html">第一个alpha测试版</a>（<a href="http://studio.suse.com/">屏幕录像</a>）。SUSE Studio提供了一个简单的方式去定制你自己的Linux发行版，包含你想要的软件和配置。最后可以创造出一个Live CD、USB镜像，或VMware镜像。系统的搭建是基于<a href="http://opensuse.org/Build_Service">OpenSUSE Build Service</a>和<a href="http://opensuse.org/KIWI">KIWI</a>镜像系统。
+➜Midnight Commander开发复活
+https://www.solidot.org/story?sid=9636	2700
+<a href="http://en.wikipedia.org/wiki/Midnight_Commander">GNU Midnight Commander</a>是一款受欢迎的跨平台控制台文件管理器，基于文本模式，最新版本是2005年释出的4.6.1，自那以后Midnight的开发就陷入了停滞阶段。即便如此，大多数Linux发行版，其中包括保守的Slackware，都包含了Midnight Commander。现在命令行粉丝的等待迎来了积极的回应：Midnight Commander开发<a href="http://tech.slashdot.org/article.pl?sid=09/01/26/1917254">再次复活了</a>，更多信息可访问项目<a href="http://www.midnight-commander.org/">新的主页</a>。希望这次它能健康和更长久。
+➜Windows 7运行快是因为新的后台服务控制器
+https://www.solidot.org/story?sid=9637	3600
+Windows 7运行速度飞快，表现在启动时间、待机复苏、关机时间更迅速，用户会话中间干扰更少。Windows 7能实现速度飞跃的其中一个理由是<a href="http://osnews.com/story/20858/Windows_7_Runs_Faster_Thanks_to_New_Service_Controller">重新设计的Windows如何维护和激活后台服务的控制器</a>。微软Channel 9上推出了<a href="http://channel9.msdn.com/shows/Going+Deep/Chittur-Subbaraman-Inside-Windows-7-Service-Controller-and-Background-Processing/">一位Windows内核开发者的介绍视频</a>，他所在的团队花了大量时间去设计新的基于触发的服务控制器（service controller），可以让服务开发者根据环境需要去运行必要的服务。因而Windows 7能智能的管理可用资源。
+➜KDE4.2正式发布
+https://www.solidot.org/story?sid=9638	7200
+<a href="http://xizhizhu.blogspot.com/">Xizhi Zhu</a> 写道 "1月27日，代号为“<a href="http://forum.kde.org/kde-4-2-released-t-28742.html">The Answer</a>”的KDE4.2版正式<a href="http://www.kde.org/announcements/4.2/index.php">发布</a>，距离KDE 4.0发布恰好一年。新版改进了性能，修正了bug：进一步调整了Plasma桌面界面、KWin提供了平滑高效的窗口管理、新的改良的工具提高了生产力、文件管理更快、脚本支持增强，等等。
+➜中国去年煤矿事故造成九万人死亡？
+https://www.solidot.org/story?sid=9639	23100
+yinzhangqi 写道 "新华社英文版<a href="http://news.xinhuanet.com/english/2009-01/27/content_10726779.htm">报道</a>，2008年中国煤矿事故造成9万人死亡，原文如下：
+“ BEIJING, Jan. 27 (Xinhua) -- The death toll in China's coal mines last year was 91,172, down 15.1 percent from 2007, the State Administration of Work Safety (SAWS) said Tuesday. "
+<i>
+但是检查新闻社网站中文版，我们发现，原来这里是指去年中国因为各类事故，包括车祸，爆炸事故，矿难等，一共死亡<a href="http://news.xinhuanet.com/newscenter/2009-01/16/content_10667046.htm">9万多人</a>。
+“新华网快讯：安全监管总局局长骆琳16日说，2008年共发生各类事故413752起，死亡91172人，与2007年相比，分别下降18.4%和10.2%。”"</i>
+➜新开源FPS游戏《Blood Frontier》
+https://www.solidot.org/story?sid=9640	27120
+《<a href="http://www.bloodfrontier.com/">Blood Frontier</a>》是一款自由开源第一人称射击游戏，包括单机版和多人版。游戏是基于增强版的<a href="http://www.bloodfrontier.com/Cube_Engine_2">Cube 2引擎</a>，原创的图像和游戏方式（其中有儿童模式，可选择关闭血液）。目前最新版本是v0.80 Beta 1 RC1，支持PC(Windows、Linux、BSD）和Mac。游戏背景是：
+<i>在不远的未来，人类已经遍及了整个太阳系。殖民地之间通过星际互联网通信。突然，一种神秘的生物技术瘟疫在人类接触者之间流行，感染者变成了食人的怪物。人工智能和机器人未受影响，它们奉命消灭瘟疫感染者，寻找和停止疾病源。</i>
+到sourceforge<a href="http://sourceforge.net/project/platformdownload.php?group_id=198419">下载</a>。如何你对更多自由开源游戏感兴趣，可访问维基百科上的<a href="http://en.wikipedia.org/wiki/Alphabetical_list_of_open_source_games">开源游戏列表</a>。
+➜CoreBoot（LinuxBIOS）能启动Windows 7 Beta
+https://www.solidot.org/story?sid=9641	29100
+<a href="http://www.coreboot.org/">CoreBoot</a>(即以前的LinuxBIOS)，自由开源替代BIOS，现在能<a href="http://www.coreboot.org/Screenshots#coreboot_and_SeaBIOS_starting_Windows_7">启动Windows 7 Beta</a>。演示视频、屏幕录像都已经发布在网站上，演示使用的主板是ASUS M2V-MX SE，处理器是2GHz AMD Sempron。AMD工程师已经向项目递交了代码，从而允许CoreBoot运行在该公司最新芯片组如<a href="http://www.coreboot.org/pipermail/coreboot/2009-January/044137.html">RS690</a>和<a href="http://www.coreboot.org/pipermail/coreboot/2009-January/044299.html">780G</a>上。
+➜研究称全球变暖不可逆转
+https://www.solidot.org/story?sid=9642	31500
+Susan Solomon，NOAA（美国海洋和大气局）的一位顶尖的气候学家，在新研究中<a href="http://www.npr.org/templates/story/story.php?storyId=99888903">发现全球变暖不可逆转</a>。研究发表在《<a href="http://www.pnas.org/">美国国家科学院学报</a>》上。<i>
+Solomon指出，人们也许幻想如果我们现在停止排放二氧化碳，那么气候将在一百年到二百年恢复正常。但研究发现这并非正确，气候改变本质上是<a href="http://news.slashdot.org/article.pl?sid=09/01/27/0224215">不可逆转的</a>，它将延续超过1千年。原因是海洋正在大量吸收地球多余的热能—大量二氧化碳也进入到大气中。二氧化碳和热能最终将从海洋中溢出，这将发生数百年。Solomon的研究着眼于海平面上升和下降的长期效应。</i>
+➜Mozilla向Ogg项目捐赠10万美元
+https://www.solidot.org/story?sid=9643	42300
+Mozilla加入了维基媒体基金会资助Ogg开发的计划，<a href="http://arstechnica.com/open-source/news/2009/01/mozilla-contributes-100000-to-fund-ogg-development.ars">向该项目捐赠了10万美元</a>。
+<i>Mozilla的理由<a href="http://blog.wikimedia.org/2009/01/26/mozilla-and-wikimedia-join-forces-to-support-open-video/">很简单</a>：音频和视频开放标准的重要性不言而喻，它们能被任何人为任何目的使用，而无需缴纳版税，并且还能被开源社区检查和改进。今日Web上的音频和视频已为私有技术所统治，闭源播放器包含了大量专利的解码器。因此维基媒体和Mozilla决定主动帮助去改进开放的、基于标准的视频技术的质量。维基媒体基金会的所有富媒体都将使用Ogg格式，从而成为互联网上最大的开放媒体格式采用者之一。Vorbis是比MP3更好的标准，但Theora却被普遍认为远逊于其它视频解码器，开源社区还有许多优秀的解码器如<a href="http://diracvideo.org/">Dirac</a>、FLAC或<a href="http://en.wikipedia.org/wiki/Speex">Speex</a>，它们却常常被忽视。</i>
+➜Google发布最新IDC能源消耗报告
+https://www.solidot.org/story?sid=9644	46200
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "2008年下半年关于 Google 数据中心（IDC）能源消耗水平，乃至每次 Google 搜索所耗费能源的批评不绝于耳，鉴于此，Google 在2008年秋季发布了 <a href="http://googleblog.blogspot.com/2008/10/saving-electricity-one-data-center-at.html">Google 数据中心能源效率报告</a>，并承诺今后每个季度都发布一次更新。近日，Google 已于 <a href="http://www.google.com/corporate/green/datacenters/">Sustainable Computing 网站</a>，公布其2008年第四季度能源消耗报告。报告显示，2008年第四季度，Google 所有大型数据中心的能源开支所占比例为16%。
+<i>Google 对其名下的所有500万瓦以上，运行6个月以上的数据中心进行观察，发现，在08年第四季度，这些数据中心的能源开支比例为16%，比上季度的21%下降了5%，而从全年看，这一数字为19% 。作为对比，美国<a href="http://www.epa.gov/"> EPA</a> 最新报告显示，一般企业数据中心的能源开支比例为100%或更高。Google 表示，他们刚刚公布的更低的能源消耗水平受益于以下几个因素。</i>           第一，数据中心的能源消耗很多时候与气候有关，冬季比夏季的能源消耗更低，这是第四季度较低数字的主要原因。另外，Google 对其数据中心的能源消耗进行不间断观察，一旦发现某个数据中心的能源消耗水平与其它同等规模的数据中心不匹配，他们就会对该数据中心进行进一步观察以进行优化，比如，是否在一些并不需要降温的地方使用了降温风扇？机房的温度设定是否正确？是否可以在不影响运行的前提下减少制冷时间？他们还会将那些效率更高的数据中心的经验推广到别处。更多技术细节可以参考 <a href="http://www.google.com/corporate/green/datacenters/measuring.html">Google 的数据中心能效页</a>。<br> <br>Google 在数据中心能效方面取得了不少进步，不过 Google 仍在继续探索更多的方式以实现用更少的能源做更多的事。09年3月，Google 将参加 <a href="http://www.cebit.de/homepage_e">CeBIT conference</a> 展会，作为今年绿色IT主题的一部分，届时，他们会公布更多降低能源消耗方面的细节。
+<br> <br>本文来源：<a href="http://googleblog.blogspot.com/2009/01/more-computing-less-power.html">http://googleblog.blogspot.com/2009/01/more-computing-less-power.html</a> <br>中文来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜GCC的插件将必须使用GPL
+https://www.solidot.org/story?sid=9645	46800
+当1983年Richard Stallman开始写Bison时，他是试图为预想中的GNU Operating System添瓦加砖。现在，25年之后自由软件基金会（FSF）同意<a href="http://zh.wikipedia.org/wiki/GCC">GNU Compiler Collection</a> (GCC)<a href="http://www.sdtimes.com/link/33218">开发插件架构</a>。<i>
+之前，FSF和GCC项目一直争论是否要强迫插件使用GPL许可证。1月27日GCC团队宣布了决定——<a href="http://gcc.gnu.org/ml/gcc-announce/2009/msg00000.html">插件必须使用GPL</a>。CodeSourcery创始人、GCC指导委员会成员Mark Mitchell认为它不会对开发者造成太大的负担。这不同于Firefox或Eclipse，它们的插件可以使用任何许可证。目前留下来的辣手问题是开发插件的框架，以使开发者更容易的向GCC项目贡献，已有一些大学开始着手。</i>

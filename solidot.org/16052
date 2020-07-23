@@ -1,0 +1,55 @@
+➜印度政府解除诺基亚资产冻结
+https://www.solidot.org/story?sid=37607	9713
+印度德里高等法院同意了诺基亚的上诉，<a target="_blank" href="http://sdt.bz/content/article.aspx?ArticleID=67476&amp;page=1"><u>解冻了</u></a>该公司的印度资产，其中包括位于钦奈的手机制造厂。诺基亚需要在周四前获取这些资产，以便将它们转移给微软，这是微软74亿美元收购诺基亚设备和服务业务交易的一部分。印度法院是在诺基亚缴纳3.67亿美元的保证金后作出解除资产冻结的决定。印度税务部门声称诺基亚可能拖欠最高<a target="_blank" href="http://www.solidot.org/story?sid=37579"><u>34亿美元</u></a>的税款。
+➜思科开源H.264编解码器
+https://www.solidot.org/story?sid=37608	11183
+12月12日，思科在BSD下开源了其H.264编解码器实现，支持H.264编码和解码的编解码库<a href="https://github.com/cisco/openh264/"><u>OpenH264</u></a>的代码托管在Github上，可用于WebRTC等即时通讯应用。OpenH264目前仅支持32位Windows和Linux，后续将支持64位Windows和Linux，以及OS X、Android和iOS。Mozilla此前已经宣布将在Firefox中<a target="_blank" href="http://www.solidot.org/story?sid=37041"><u>整合</u></a>思科的OpenH264二进制模块。</span>
+➜Google利用PNaCl将AmigaOS移植到Chrome
+https://www.solidot.org/story?sid=37609	13859
+<div align="center"><img src="http://img.solidot.com.cn/0/930/liR9UwZrlN0Jc.png" align="" height="245" width="420"><br>
+<br>
+</div>
+为演示Portable Native Client（PNaCl）技术，Google开发者 Christian Stefansen将上世纪80年代的AmigaOS<a target="_blank" href="http://news.cnet.com/8301-1023_3-57615373-93/google-emulates-1980s-era-amiga-computer-in-chrome/"><u>移植到Chrome</u></a>。Chrome运行是一个特别的AmigaOS开源版本，Stefansen利用PNaCl将该版本的C语言代码移植运行在Chrome上。Native Client技术让Web应用程序能以接近原生代码的性能运行在浏览器上，Native Client针对的是X86架构处理器，而Portable Native Client则扩展了Native Client，变成了一个架构独立的技术，让应用程序可以运行在X86或ARM平台。<a target="_blank" href="http://pnacl-amiga-emulator.appspot.com/"><u>最新的演示</u></a>只支持Chrome 31以上版本，不支持Android和iOS。
+➜第一个基于asm.js的3D商业Web游戏宣布
+https://www.solidot.org/story?sid=37610	15235
+今年早些时候，Mozilla和Epic Games利用asm.js、Emscripten和WebGL，在浏览器上<a target="_blank" href="http://www.solidot.org/story?sid=34572"><u>演示了</u></a>虚幻引擎3的一个DEMO，展示了Web成为一个3D游戏平台的潜力。这一演示吸引了游戏工作室NomNom Games的注意，他们因此开始探索将其开发的虚幻引擎3游戏移植到浏览器的可能性。12月12日，Mozilla和NomNom<a target="_blank" href="https://blog.mozilla.org/blog/2013/12/12/first-3d-commercial-web-game-powered-by-asm-js-unveiled/"><u>宣布了</u></a>第一个基于asm.js技术的3D商业Web游戏——<a target="_blank" href="http://www.playverse.com/Anonplayer/0-a2aadd1b76e14d0e848ea1de18dca4e8"><u>Monster Madness</u></a>。用户可以在支持WebGL的Firefox、Chrome或Opera上测试游戏的Alpha版本，和之前的演示一样，进入游戏前需要花比较长时间载入纹理素材。
+➜GOG向玩家免费赠送辐射一、二和策略版
+https://www.solidot.org/story?sid=37611	16158
+免DRM数字游戏发行商Good Old Games（GOG）（由波兰游戏开发商CD Projekt建立）向玩家赠送了一件<a target="_blank" href="http://www.gog.com/promo/fallout_series_giveaway_winter_promo_2013"><u>圣诞礼物</u></a>：经典游戏《辐射1》、《辐射2》和《辐射策略版》限时（48小时）免费。GOG销售的所有游戏都没有DRM保护，玩家不用担心游戏执行会受到任何限制，它发行的旧游戏都确保能在现代操作系统上运行。
+➜Google宣布缓存所有Gmail电子邮件中的图像
+https://www.solidot.org/story?sid=37612	18818
+知道为什么所有电邮客户端都默认隐藏邮件中的图像吗？因为图像需要从第三方服务器载入，而当你点击展示图像时，邮件发送者通过HTTP Referrer头将会知道你的许多秘密：邮件归类的文件夹标签，你的IP地址，使用的桌面还是移动客户端。如果发送者是spammer，那么它将会向你发送更多垃圾信息，因为它知道你会检查垃圾邮件。现在，Google<a target="_blank" href="http://gmailblog.blogspot.com/2013/12/images-now-showing.html"><u>宣布</u></a>缓存所有Gmail电子邮件中的图像，推广邮件发送者将不会知道你的秘密，不知道你有没有读过邮件：邮件嵌入的图像<a target="_blank" href="http://arstechnica.com/information-technology/2013/12/gmail-blows-up-e-mail-marketing-by-caching-all-images-on-google-servers/"><u>将保存在Google服务器上</u></a>。
+➜科学家发现了DNA暗藏的第二套编码
+https://www.solidot.org/story?sid=37613	25924
+华盛顿大学的科学家<a target="_blank" href="http://www.washington.edu/news/2013/12/12/scientists-discover-double-meaning-in-genetic-code/"><u>发现了</u></a>DNA暗藏的第二套编码。<a target="_blank" href="https://www.sciencemag.org/content/342/6164/1367"><u>论文</u></a>（<a target="_blank" href="http://bede.im/Science-2013-Stergachis-1367-72.pdf"><u>PDF</u></a>）发表在今天出版的《科学》期刊上。第二套编码包含的信息将改变科学家如何解读DNA的指令以及解释对健康和疾病有重要意义的突变。遗传编码包含64种<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%AF%86%E7%A0%81%E5%AD%90"><u>密码子</u></a>，John Stamatoyannopoulos博士领导的研究团队发现，部分密码子——他们称之为duons——含有双层意义，一层与蛋白质序列有关，一层与基因控制有关。它们演化的方式彼此互相影响。其中基因控制指令能帮助保持某些蛋白质有益功能的稳定。Samatoyannopoulos博士说，遗传编码能同时写下两层信息的事实暗示，可能导致疾病的蛋白质序列的改变或许是干扰基因控制程序引发的，也或许是同时干扰这两套机制引发的。
+➜中国将用超级计算机预测雾霾
+https://www.solidot.org/story?sid=37614	27337
+官方新华社<a target="_blank" href="http://news.xinhuanet.com/english/china/2013-12/09/c_132952877.htm"><u>报导</u></a>，中国将用TOP500排名第12位的天河一号A超级电脑<a target="_blank" href="http://www.popsci.com/article/science/chinese-supercomputer-forecast-smog?cmpid=pulse"><u>预测对人体健康有害的雾霾</u></a>。天河一号A将处理来自114座城市668个污染监测点的数据，希望能在发生严重污染时警告居民呆在屋内。严重污染已经从北方蔓延到了南方，上周上海等长三角地区也遭遇了污染指数爆表（PM2.5超过500）的雾霾天，迫使该地区一些小学停课。雾霾天气不仅会损害居民的健康，还有损中国的对外形象。秋天发布的一项调查显示，2013年前三个季度，北京的游客数量下降近50%，至少部分归因于空气质量差。而官方媒体发表了两篇宣称雾霾有利于国家的文章，遭公众批评之后<a target="_blank" href="http://cn.wsj.com/gb/20131211/ren073759.asp"><u>删除了事</u></a>。
+➜Google的Dart语言将标准化
+https://www.solidot.org/story?sid=37615	30191
+管理JavaScript标准化和开发的Ecma<a target="_blank" href="http://arstechnica.com/information-technology/2013/12/googles-dart-language-heads-for-standardization-with-new-ecma-committee/"><u>成立了一个委员会</u></a>去监督Google的JS替代语言Dart的标准化。Technical Committee 52将开发Dart语言和库文件的标准，发布验证是否符合标准的测试套件，监督Dart未来的开发。Google在上个月<a target="_blank" href="http://www.solidot.org/story?sid=37233"><u>发布了</u></a>Dart SDK 1.0，相信语言已经足够稳定和成熟，能用于开发产品和创建一个正式的标准，而标准化将是获得其它浏览器支持的重要一步。
+➜科学家在海床下发现巨大淡水资源
+https://www.solidot.org/story?sid=37616	30982
+澳大利亚科学家在澳大利亚、中国、北美和南非的大陆架海床下<a target="_blank" href="http://www.news.com.au/technology/environment/scientists-discover-huge-freshwater-reserves-beneath-the-ocean/story-fnjww010-1226778644615"><u>发现了</u></a>巨大的淡水资源。研究人员估计，海床下蕴藏着<a target="_blank" href="http://www.cas.cn/xw/kjsm/gjdt/201312/t20131213_3997085.shtml"><u>约50万立方公里</u></a>的低盐度水水资源，其储备量是人类自1900年以来从地下所提取的淡水总量的100倍。这些蓄积水的形成历经了几十万年，当时海平面要低得多，如今被海洋淹没的地方当时还露在外面，在降雨时大量吸收淡水而形成蓄水层。极地冰盖大约在两万年前开始融化，这些海岸线消失在水下，但它们的地下蓄水层完好无损，被层层黏土和沉淀物保护着。研究人员警告说，钻井开采这些海床水资源非常昂贵，必须非常谨慎，以免污染地下蓄水层。
+➜61%的网站点击流量是机器人产生的
+https://www.solidot.org/story?sid=37617	32791
+安全公司Incapsula的<a target="_blank" href="http://www.incapsula.com/the-incapsula-blog/item/820-bot-traffic-report-2013"><u>一项研究</u></a>发现，<a target="_blank" href="http://www.bbc.co.uk/news/technology-25346235"><u>61.5%</u></a>的全球网站点击流量是机器人产生的。这一数字比去年的51%增加了21%。部分自动软件工具产生的流量是出于恶意目的，如窃取数据或在评论区发布欺骗性的广告。但流量增长最大的部分来自“善意”机器人，这些机器人包括搜索引擎抓取网站索引内容，网站分析公司提供网站性能反馈数据，以及执行其他特定任务——如互联网档案馆在内容被删除前抢救数据。Incapsula称，在90天内公司客户运营的2万网站吸引了14.5亿次机器人访问。
+➜广告商知道你何时阅读了它的邮件
+https://www.solidot.org/story?sid=37618	34194
+Google<a target="_blank" href="http://www.solidot.org/story?sid=37612"><u>宣布</u></a>缓存所有Gmail电子邮件嵌入的Web图像，此举被认为有助于防止广告商获悉用户的私人信息，如IP地址和浏览器版本。但根据目前的初步测试，Google的实现方式<a target="_blank" href="http://arstechnica.com/security/2013/12/dear-gmailer-i-know-what-you-read-last-summer-and-last-night-and-today/"><u>实际上帮了广告商一个大忙</u></a>：首先，Google改变了以前默认隐藏图像的做法，将会默认展示图像；其次，只有在用户打开邮件时Google的服务器才会开始临时缓存图像。也就是说，每当Google服务器请求图像时广告商将会知道有人打开了邮件。如果广告商在邮件中嵌入了特殊编码的图像地址，那么它将会知道谁忽略了它的邮件，谁打开了，总共打开了多少次。以上是知名黑客HD Moore测试的结果。
+➜航空公司训练飞行员在雾霾中盲降
+https://www.solidot.org/story?sid=37619	35774
+如
+果你想在中国开飞机，<a target="_blank" href="http://cn.wsj.com/gb/20131213/rec155152.asp"><u>你可能需要具备在雾霾中降落的能力</u></a>。根据中国民航监管机构的新规定，航空公司飞北京航班的资深飞行员须具备盲降资格，在严重污染天气频频出现之际，这一举动有助于缓解中国不断恶化的航空交通瓶颈问题。新规将于明年1月1日起执行。首都机场是中国最繁忙的机场，也是航班误点最严重的机场，行业观察机构FlightStats的数据显示，今年11月该机场只有45%的航班准点起飞。中国航空公司飞行员说，过去监管机构不鼓励在低能见度的情况下实施盲降，因为他们认为这样做风险更大。在跑道视程低于350米的时候，飞机通常会绕圈飞行，等条件改善后再降落，或是降落到其他机场。
+➜欧罗巴南极可能喷射水羽流
+https://www.solidot.org/story?sid=37620	38226
+木星卫星欧罗巴和土星卫星Enceladus在许多方面很相像，都拥有一个暗示存在地下海洋的冰壳。观测<a target="_blank" href="http://www.solidot.org/story?sid=25204"><u>显示</u></a>，Enceladus的南极会喷射出间歇泉，喷射出的部分水形成了土星的E环。欧罗巴是否具有类似的现象？研究人员在2012年11月和12月用哈勃太空望远镜观测了欧罗巴。根据发表在《科学》上的<a target="_blank" href="http://www.sciencemag.org/content/early/2013/12/11/science.1247051"><u>研究结果</u></a>，他们在欧罗巴的南极观测到了可能的水汽羽流。如果被证实是水羽流，它将表明欧罗巴的地下海洋接近卫星表面。水汽羽流在欧罗巴接近远心点——或距离木星最远处时出现，接近近心点——或非常接近其行星时消失，暗示潮汐加速度在这个现象中扮演着一个重要的角色。<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2013-12/aaft-pow120913.php"><u>研究人员提出</u></a>，欧罗巴的羽流可能类似于Enceladus的羽流：羽流是从狭窄的裂隙中逸出的高压水汽排放。
+➜比特币价格应用程序设计窃取比特币
+https://www.solidot.org/story?sid=37621	40253
+一个宣称向手机发送短信通知比特币市场价格的桌面应用程序<span itemprop="articleBody description text">Bitcoin Alarm</span>实际上是一个巧妙伪装的恶意程序，<a target="_blank" href="http://www.pcworld.com/article/2080041/bitcoin-market-price-app-bitcoin-alarm-is-carefully-cloaked-malware.html"><u>含有窃取比特币的恶意功能</u></a>。安全研究员<a target="_blank" href="http://www.arbornetworks.com/asert/2013/12/bitcoin-alarm-bitcoin-stealing-spam/"><u>Kenny MacDermid</u></a>是在收到推销<span itemprop="articleBody description text">Bitcoin Alarm的垃圾邮件后开始关注这款软件。他的检查后发现，</span>软件包含了一个脚本检查是否有杀毒软件<span itemprop="articleBody description text"> Avast运行，如果有</span>它会休眠20秒。它的一个加密文件被发现实际上是一个远程访问木马<span itemprop="articleBody description text">NetWiredRC，能窃取比特币钱包登陆凭证。</span><span itemprop="articleBody description text">Bitcoin Alarm的网站域名是在11月</span><span itemprop="articleBody description text">19日注册的，当时比特币价格正开始火箭般上升，它的作者看起来来自德国。</span>
+➜研究发现女性科学家发表的论文少引用也少
+https://www.solidot.org/story?sid=37622	43130
+据发表在《自然》上的<a target="_blank" href="http://www.nature.com/news/bibliometrics-global-gender-disparities-in-science-1.14321"><u>报告</u></a>，研究人员调查了Thomson Reuters Web of Science数据库在2008年到2012年收录的超过540万篇论文，分析了署名作者的性别与研究结果、多方合作和影响力之间的关系。他们发现，女性科学家<a target="_blank" href="http://arstechnica.com/science/2013/12/women-face-global-disparity-in-scientific-publishing/"><u>发表的论文数量少</u></a>，而且引用也少。署名作者中女性比例不足三成；9个国家署名作者女性比男性多，但其中只有五个国家发表的论文超过一千篇；女性很少成为第一作者和最后作者；如果女性是第一或最后或唯一作者，论文的引用次数要少于同等情况下的男性；女性多数只和本国科学家合作发表论文；女性统治护理、助产、教育和社会工作等照料类型的研究领域，而男性则统治工程、机器人、航空和高能物理；在需要昂贵实验设备的领域女性发表的论文很少。研究人员说，“没有国家能承担忽视一半人口智力贡献的代价。”
+➜500Mbps铜线宽带或能解决光纤的最后一公里问题
+https://www.solidot.org/story?sid=37623	45623
+国际电信联盟（ITU）<a target="_blank" href="http://www.itu.int/net/pressoffice/press_releases/2013/pdf/74-zh.pdf"><u>初步批准了</u></a>（PDF）基于现有电话线的网速达<a target="_blank" href="http://arstechnica.com/information-technology/2013/12/500mbps-internet-over-phone-lines-might-solve-fibers-last-mile-problem/#p3"><u>500Mbps</u></a>的数据传输标准<a target="_blank" href="http://www.itu.int/net/pressoffice/press_releases/2013/74.aspx#.UqnKdmRDtPQ"><u>G.fast</u></a>。在分配点250米的范围内，G.fast能提供与光纤媲美的速率，可作为光纤到户的一种补充。虽然国际电信联盟表示G.fast可提供最高1Gbps的网速，但电信设备供应商华为<a target="_blank" href="http://www.huawei.com/cn/industry/huawei-voices/hw-196277.htm"><u>称</u></a>，100米内能实现1Gbps，200米内只能达到500Mbps。另一家电信设备供应商阿尔卡特朗讯则在70米内实现了1.3 Gbps 。ITU称，G.fast综合了光纤和ADSL2的优势，可支持超高清“4K”或“8K”流媒体播放和IPTV、高级云存储和高清视频通信等带宽密集型业务。它计划在2014年4月最终完成G.fast标准。

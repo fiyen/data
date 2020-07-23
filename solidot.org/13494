@@ -1,0 +1,36 @@
+➜微软如何抵御每月10万次以上的攻击
+https://www.solidot.org/story?sid=1440	5280
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道微软树大招风，它要与全球的黑客抗战，而据说软件巨人<a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9005756&amp;pageNumber=1">每月要面临10万次以上的攻击</a>，
+为了保护内部网络的重要数据。微软又会采取什么防御手段？ComputerWorld的文章讨论了微软的深度防御策略，以及防御屏障上的几个不同层次的作用。<i>"
+Microsoft VPN的第一层保护是两方面的认证。在2000年秋微软遭遇到了耻辱性的事故后，微软安装一个基于公开钥匙架构的认证以及为所有雇员和承包商提供一个智能卡用于远程连接网络，而像网站管理员这样的个人也需要正式的帐号。两方面的认证需要你有一个物理的玩意：智能卡，还必须知道一个密码。"</i>
+➜J2SE 6 发布
+https://www.solidot.org/story?sid=1441	7020
+qyb 写道 <i>"SUN 刚刚发布了 <a href="http://java.sun.com/javase/6/">Java 6</a>。感觉最好玩的<a href="http://java.sun.com/javase/6/webnotes/features.html">新特性</a>是内置的<a href="http://java.sun.com/javase/6/docs/technotes/guides/scripting/index.html">脚本引擎</a>，<a href="http://java.sun.com/javase/downloads/index.jsp">下载</a>。"</i>
+➜中国医院的“Truthiness”
+https://www.solidot.org/story?sid=1442	9240
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"在西方一项新技术或者新药品的应用需要经过严格的试验。相比较起始研究过程，试验的费用是非常庞大的。因此一种趋势是在发展中国家进行各种临床试验，中国现在则成为其中的热点。南方周末的一篇报告调查了新治疗技术“<a href="http://www.nanfangdaily.com.cn/zm/20061207/xw/zmxwzt/200612070017.asp">外置人工心脏</a>”“<a href="http://www.nanfangdaily.com.cn/zm/20061207/xw/zmxwzt/200612070018.asp">心肺联合移植术</a>”的悲剧性医疗事件——中国医院的“Truthiness”。日本731部队进行的残酷人体实验曾被屡次提及，而现在的医院告诉我们“真相来自内部，而不是纪录片或者书籍”。"</i>
+➜VLC 0.8.6发布
+https://www.solidot.org/story?sid=1443	18120
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"VideoLAN宣布了<a href="http://www.videolan.org/vlc/">VLC media player新版发布</a>(遭遇Slashdotted），并宣称<a href="http://ffmpeg.mplayerhq.hu/">ffmpeg</a>上的解码器有了很多改进。"</i>
+以下来自广告词<i>"
+基于2900万VLC media player 0.8.5下载者的反馈信息，我们带来了新版0.8.6，修正了大量bug，同时也带来几个用户会喜欢的新功能。最突出的大概是Windows Media Video 9和 Flash Video。其它重要的还有改进了H.264解码器，更好的支持Windows Unicode，Fullscreen控制器，Mac OS X的远程服务。
+下载镜像<a href="http://ftp.snt.utwente.nl/pub/software/videolan/vlc/0.8.6/">1</a>，<a href="http://videolan.kn.vutbr.cz/vlc/0.8.6/">2</a>。"</i>
+➜微软发布免费的XBox开发工具
+https://www.solidot.org/story?sid=1444	20880
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"微软<a href="http://www.microsoft.com/presspass/press/2006/dec06/12-11XNAGSECreatorsPR.mspx">正式宣布</a>推出免费的<a href="http://msdn.microsoft.com/directx/XNA/default.aspx">XNA Game Studio Express工具</a>，可用C#开发运行在Windows和XBox游戏机上的游戏。同时提供收费的XNA Creators Club订阅服务，类似MSDN，可获得源代码和额外的文档。微软明确的目标是将Windows和XBox开发平台联合起来。“你可以在各自的平台上进行编译。发布的工具可让你在每一个平台上轻松的创造一个独立的游戏项目，然后进行编译使之可在两个平台上运行。对于两个平台（XBox，pc）上的两个项目它们之间的代码可以共享，可以有相同的源文件。当然鉴于平台的特殊性，代码还需要进行特别编译。"</i>
+XNA Game Studio Express 1.0只支持WindowsXP SP2，显卡需要支持DirectX 9.0c和Shader Model 1.1（推荐Shader Model 2.0）。另外还需要安装Microsoft Visual C# 2005 Express Edition。Visual Studio 2005可与XNA Game Studio Express共存。
+➜Hans Reiser参加听证会
+https://www.solidot.org/story?sid=1445	24540
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"当地时间12月11日9时，召开了<a href="http://www.kesq.com/Global/story.asp?S=5799631">Hans Reiser的听证会</a>，他被控谋杀与他不和的妻子——31岁的Nina Reiser。调查人员在Hans Reiser的家里和汽车了发现了血迹，至今Nina的尸体仍然没有发现。Hans Reiser对控告表示不服，他的辩护律师称Nina Reiser有着秘密的生活，她在互联网上寻找性（sex)。"</i>
+Hans Reiser是<a href="http://www.namesys.com/">ReiserFS</a>的作者。
+➜苹果用Illuminous(Aqua v2)对抗Aero
+https://www.solidot.org/story?sid=1446	26520
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"Apple Gazette表示据来自苹果内部的消息Mac OS Aqua用户界面将<a href="http://www.applegazette.com/mac/rumor-aqua-to-be-replaced-with-illuminous/">被一个新的UI取代</a>，它的名字叫Illuminous。消息来源表示Illuminous将会在Macworld 2007上介绍。乔布斯是不是害怕微软的Aero？Aqua过时了？现在推出一个新的UI有什么意义？下个月也许会有答案。"</i>
+另据<a href="http://www.macshrine.com/2006/12/09/exclusive-leopard-9a326-seeded/">MacShrine</a>报道，新版的Leopard (build 9A326)已经在苹果内部使用，修正了许多bug，同时继续改进界面。
+➜硬盘面临新芯片的竞争
+https://www.solidot.org/story?sid=1447	29580
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"研究人员报告了一个<a href="http://online.wsj.com/public/article/SB116580685002446215-4Hx7rrKLHcz7OHLOMyKOqi0aXlk_20061218.html?mod=blogs">非常重要的进展</a>，用不同的方法在半导体上完美的储存数据。它可能将取代被广泛使用的内存芯片，甚至可能与硬盘展开竞争。在San Francisco召开的一次技术会议上，研究人员表示他们使用了一种新奇的组合材料创造出一个相变元件原型，它的速度是flash芯片的500倍以上，而储存数据过程的电力消耗需求则不到flash芯片的一半。"</i>三星公司也展出了一个类似的原型，并计划在2008投入商业生产。
+➜嗅觉依赖于量子物理？
+https://www.solidot.org/story?sid=1448	32220
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"自然杂志报道，一项有争议的理论认为我们的嗅觉不是基于那些进入鼻子的分子的形状而是分子的振动产生了推进力，这就是最近伦敦大学研究人员所相信的是<a href="http://www.nature.com/news/2006/061204/full/061204-10.html">量子物理产生了意识</a>。这个理论，由生物物理学家 Luca Turin在1990年代中期提出。他认为是电子隧道效应传递出气味信号再被大脑接受，这可以解释为什么相似形状的分子有很多不同的气味，而有不同结构的分子能够产生相似的气味。"</i>
+Luca Turin现在开办了一家公司，根据他的理论通过计算振动来设计有气味的东西。他宣称他的产品比竞争对手有两个数量级的优势。文章最后总结到：至少，他把钱放在了鼻子能闻道的地方。

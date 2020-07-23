@@ -1,0 +1,74 @@
+➜Hack In the Box亚洲新动向
+https://www.solidot.org/story?sid=41539	4816
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "<a target="_blank" href="https://conference.hitb.org/">Hack In the Box安全会议</a>从2003年开始到现在已经有10年的历史，从2003到2010年之间，HITB只在亚洲举行，除了在巴林举行过一次，迪拜举行过两次，其他时候都在吉隆坡，从2010年开始，每年也会在欧洲的阿姆斯特丹举行一次。在刚结束的<a target="_blank" href="https://conference.hitb.org/hitbsecconf2014kul/">HITB KUL 2014</a>上主办方已经宣布了未来亚洲站会在更多的城市举行，目前计划是2015年在新加坡和Syscan同期举行，2016年暂定中国香港。本次吉隆坡的议题涉猎非常广泛，由<a target="_blank" href="https://www.eff.org/about/staff/nate-cardozo">EFF代理律师Nate Cardozo</a>以后棱镜时代作为开场，进行了2天的技术议题后以多才多艺的<a target="_blank" href="www.thiemeworks.com">Richard Thieme</a>（成长于犹太社区，前基督教牧师，后来开始关注技术进化，黑客哲学，情报分析以及文化等交叉领域）关于<a target="_blank" href="https://www.youtube.com/watch?v=tcDJBjYnJOc">黑客如何在技术性进化逼近奇点的大时代背景下理解个体的人生意义等有趣议题</a>作为本次会议的结尾。目前所有的<a target="_blank" href="http://conference.hitb.org/hitbsecconf2014kul/materials/">演讲slide</a>和<a target="_blank" href="http://www.mixcloud.com/geovedi/hitbsecconf2014kul-with-jim-geovedi/">音乐</a>都已经公布。"</i>
+➜Ubuntu十周岁
+https://www.solidot.org/story?sid=41540	9723
+前Debian开发者现ChromeOS技术负责人Scott James Remnant在个人网站上回顾了<a target="_blank" href="http://netsplit.com/happy-10th-birthday-ubuntu"><u>Ubuntu的诞生</u></a>。<br>
+<i>因为2004年初到南极洲度假而饱受批评的亿万富翁Mark Shuttleworth根据Debian邮件列表列出了一些他想在新项目上与之合作的开发者。Remnant当时是Debian核心的包管理器 Dpkg的维护者。Shuttleworth随后向包括Remnant在内的Debian开发者发去邮件，提议在Debian unstable的基础上开发一个高质量的定期更新的新发行版。Remnant和多位Debian和自由软件开发者参与了这个项目，计划在六个月内推出新的发行版。他们被Debian社区的人称之为“Super Secret Debian Startup”。Ubuntu 4.10 Warty Warthog于2004年10月20日发布，它已经成为开源和自由软件世界最有影响力的项目之一。</i>
+➜搜索引擎之外Google缺乏亮点
+https://www.solidot.org/story?sid=41541	10808
+过去一周Google的股价<a target="_blank" href="http://finance.yahoo.com/echarts?s=GOOG+Interactive#symbol=GOOG;range=5d"><u>下跌</u></a>，一个原因是Google的季度财报未达到预期，而且财报显示其搜索广告业务<a target="_blank" href="http://cn.nytimes.com/technology/20141020/t20google/"><u>开始放缓</u></a>，除了搜索广告外Google最主要的营收是Play Store应用商店的销售。几乎从各个层面来讲，Google的问题都源于自身的成功。“Google的核心搜索业务是有史以来最好的互联网商业模式，”战略咨询企业Clearmeadow Partners的创始人Jordan Rohan说。“相比之下，Google的所有其他业务都显得平淡无奇。”Macquarie Securities的分析师Ben Schachter说，“只要核心业务保持良好态势，就没问题，但如果核心急剧放缓，那就有麻烦了。”
+三季度净收入为28亿美元，低于去年同期的近30亿美元。<br>
+➜苹果iCloud在中国遭中间人攻击
+https://www.solidot.org/story?sid=41542	13336
+国内媒体(官方新华社的一个<a target="_blank" href="http://weibo.com/2641686425/BssE7CARi?mod=weibotime"><u>微博帐号</u></a>)和国外媒体（如<a target="_blank" href="http://arstechnica.com/security/2014/10/chinese-government-launches-man-in-middle-attack-against-icloud/"><u>Ars</u></a>和<a target="_blank" href="http://apple.slashdot.org/story/14/10/20/2221223/china-staging-a-nationwide-attack-on-icloud-and-microsoft-accounts"><u>/.</u></a>）都广泛报道了苹果iCloud在中国<a target="_blank" href="http://www.solidot.org/story?sid=41521"><u>遭到了</u></a>中间人攻击（MITM），攻击者使用了自签名证书，自签名证书在中国相当盛行，如在铁道部火车票网站上购买火车票必须接受它的自签名证书。评论普遍认为，中国不像美国政府那样试图掩盖中间人攻击，而中国流行的360安全浏览器实际上是允许中间人攻击发生。苹果尚未对此发表声明，但它已经修改了DNS，被攻击的IP地址不再使用。<i><a href="http://https://edgecastcdn.net/00107ED/paopao/?u=/article/224">paopao</a> 写道 "
+Greatfire<a target="_blank" href="https://zh.greatfire.org/blog/2014/oct/china-collecting-apple-icloud-data-attack-coincides-launch-new-iphone"><u>称</u></a>，此次对iCloud的中间人攻击，与此前对谷歌、Github和雅虎的攻击不同。此次对苹果的攻击，是为了盗取用户的登录名和密码，以及储存在iCloud上的所有数据，包括iMessage、照片、联络人等。
+此次对苹果的攻击是全国性的，且发生在iPhone 6在中国开售首日（10月18日）。Greatfire认为，为防御中间人攻击，中国网民首先要在电脑和移动设备上使用可靠的浏览器：Firefox和Chrome在某网站遭中间人攻击时，都会阻止用户通向该网站。而奇虎360浏览器则没有安全防范，会直接打开受中间人攻击的网页。如果用户忽略了安全提示，就应该使用不受干扰的方式来连接iCloud。用户可以通过VPN、或者不同的网络连接点，因为中国防火墙的中间人攻击并不稳定。用户还应该启用iCloud账户的两步认证法。这样，即使密码被盗取，iCloud账户也将受到保护。</i>
+➜微软宣布它爱Linux
+https://www.solidot.org/story?sid=41543	15484
+<div align="center"><img src="http://img.solidot.com.cn/0/686/li2nG54ixwF2.png" height="278" width="500" align=""><br>
+</div>
+<br>
+在旧金山的一个活动上，微软CEO Satya Nadella说了句令人惊讶的话：<a href="http://arstechnica.com/information-technology/2014/10/microsoft-loves-linux-as-it-makes-azure-bigger-better/" target="_blank"><u>微软爱Linux</u></a>。他的前任鲍尔默（Steve Ballmer）曾将Linux比作癌症，而现在微软却张开双手拥抱了Linux，至少软件巨人的云计算平台Azure是拥抱了。Nadella说，Azure大约五分之一的虚拟机使用开源操作系统。Azure正在快速扩张，它现在有19个区，每个区有大约60万台服务器，总共超过1100万台服务器，它去年的资本开支是45亿美元。微软宣布了新的虚拟机类型，G-series实例提供了最高32个 Xeon核心，450 GB内存， 6.5 TB固态硬盘。微软对于Azure的主要销售宣传是宣称微软是唯一一家能将云计算做对的公司。
+➜英国男子因持有色情卡通被判监禁九个月
+https://www.solidot.org/story?sid=41544	18328
+39岁的英国男子Robul Hoque因持有描绘穿校服女孩从事性行为的儿童色情卡通<a target="_blank" href="http://arstechnica.com/tech-policy/2014/10/uk-convicts-man-over-manga-sex-images-of-children/"><u>而被判监禁九个月的缓刑</u></a>。这一案件被认为是英国首次起诉非法儿童色情动漫。警方是在2012年扣押了Hoque的电脑，发现了约400张儿童色情漫画，漫画虽然没有刻画真人，但因为与儿童色情图像相似而被认为是非法。法官称这些图像是“令人厌恶的”，称儿童色情卡通的危险性在于，居心不良的人可能会认为与儿童的性行为是可以接受的。检方称被告曾热衷于在互联网上搜索此类卡通。
+➜GNU Emacs 24.4发布
+https://www.solidot.org/story?sid=41545	24967
+经历一年半的开发之后，最新版的GNU Emacs 24.4正式<a target="_blank" href="http://lists.gnu.org/archive/html/emacs-devel/2014-10/msg00713.html"><u>发布</u></a>。主要新功能包括：内置Web浏览器，改进多显示器和全屏支持，默认启用Electric自动缩进，支持保存和恢复框架和窗口状态，支持Emacs Lisp包的数字签名，文本终端支持菜单，Emacs Lisp引入新的建议机制，支持文件通知，新的矩形标记模式，等等。详细变化可浏览<a target="_blank" href="https://www.gnu.org/software/emacs/news/NEWS.24.4"><u>changes list</u></a>。
+➜日本3D打印枪支案被告获刑两年
+https://www.solidot.org/story?sid=41546	25965
+<div align="center"><img src="http://img.solidot.com.cn/0/267/li2fdxBxlaEQ.jpg" height="370" width="560" align=""><br>
+<br>
+</div>
+日本横滨地方法院20日对28岁的前大学职员居村佳知被控违反《枪刀法》和《武器等制造法》用3D打印机自制手枪案<a target="_blank" href="http://china.kyodonews.jp/news/2014/10/84864.html"><u>做出判决</u></a>，判处被告有期徒刑2年。审判长伊名波就判决理由指出，被告用行动证明只要通过3D打印机谁都能轻松制造出枪支，这是“极具模仿性的恶性犯罪”，“刑事责任重大”。检方在总结陈词中指出，被告在网上公开枪支制造方法和3D数据，滥用3D打印机可能会从根本上颠覆通过枪支管制维护的社会治安，“刑事责任重大”。辩方则表示“被告并未意识到自己违法”，要求判处缓刑。居村佳知于今年5月<a target="_blank" href="http://www.solidot.org/story?threshold=0&amp;mode=thread&amp;sid=39463"><u>被捕</u></a>，警方是在他将3D打印手枪的视频发布到网上后对其展开调查。
+➜Mark Zuckerberg起诉律师
+https://www.solidot.org/story?sid=41547	28462
+Mark Zuckerberg将莎士比亚“杀光所有律师”的台词发扬到了新的境界：Facebook创始人<a target="_blank" href="http://arstechnica.com/tech-policy/2014/10/zuckerberg-sues-lawyers-who-represented-man-claiming-half-of-facebook/"><u>周一起诉了</u></a>纽约人Paul Ceglia的大部分代理律师，Ceglia宣称Zuckerberg还是哈佛学生时许诺给他一半的Facebook股份。<a target="_blank" href="http://cdn.arstechnica.net/wp-content/uploads/2014/10/facebooklawyersuit.pdf"><u>起诉书</u></a>（PDF）称，代表Ceglia的律师知道或者应该知道诉讼是一场骗局——它是一位有欺诈史的前罪犯提起的，是基于难以置信和明显伪造的文件。事实上，被告的合伙律师发现了欺诈，通知了其他律师，并退出。尽管如此，被告仍然在州、联邦法院以及媒体上大力推动这起诉讼。Zuckerberg和Ceglia是在2003年相识的，Ceglia通过Craigslist广告雇用Zuckerberg为他的StreetFax从事编程工作。他在2010年起诉Zuckerberg，声称两人曾签署雇用合同，Zuckerberg同意将至少五成的Facebook股份提供给Ceglia。2012年，纽约南区的检察官指控Ceglia有罪，称其诉讼是基于伪造的证据，法官之后驳回了Ceglia的起诉。
+➜Kakao Talk与政府合作致使用户大量流失
+https://www.solidot.org/story?sid=41548	30922
+<div align="center"><img src="http://img.solidot.com.cn/0/687/likOS0byWAdP6.png" align=""><br>
+<br>
+</div>
+今年4月，韩国的一艘渡轮翻船，304人死亡，大部分是学生。朴槿惠总统的政府在事件处理上受到了广泛批评。韩国互联网上出现了许多朴槿惠的流言。上个月，朴槿惠发起了打击网络谣言的行动，Kakao Talk是打击的主要目标之一。Kakao Talk是韩国最大的移动通信服务，韩国5000万居民中有3500万人使用Kakao Talk。韩国政府向Kakao Talk发去了超过2000用户账号的搜查令，这些用户收到了账号被调查的通知。此事导致了大量用户从Kakao Talk<a href="http://www.bbc.com/news/blogs-trending-29555331" target="_blank"><u>迁移到其它移动通信服务</u></a>，支持端对端加密的德国移动通信服务Telegram成为韩国苹果应用商店下载量第一的应用程序，Telegram称它一周内增加了150万韩国新用户。Kakao Talk CEO Lee Sirgoo<a href="http://thefreeinternetproject.org/blog/kakao-talk-ceo-lee-apologizes-allowing-south-korean-law-enforcement-access-user-information" target="_blank"><u>为此公开道歉</u></a>，宣布将停止与政府在收集用户私人信息上的合作。
+➜中国年度科研支出5000亿
+https://www.solidot.org/story?sid=41549	33353
+官方新华社称中国科研支出一年达5000亿元，却鲜有见到<a target="_blank" href="http://www.nanzao.com/sc/china/40648/zhong-guo-ke-yan-zhi-chu-yi-nian-5000yi-xue-zhe-you-wu-jie-guo-mei-ren-guan-xin"><u>世界级科研成果</u></a>。有学者指出，科研人员在花钱方面自由度很大，“只要花钱过程中不出问题就行，至于出没出结果，反而没人真正关心。”
+根据财政部统计，中国近8年来的科技研发资金投入接近3万亿元。2013年，全国公共财政科技支出超过5000亿元，而1978年这一数据仅为52亿多元。不到40年，中国科技财政投入增长了近100倍。科技投入的增长并未达到实质效果。报道称，究其原因，部分是因为科研经费监管不到位，虽然通过层层审计监管，最终还是走向被人贪腐的结果。除了科研经费监管失控，报道还称，“碎片化”和“聚焦难”也是令科研资源利用效率低的其中一个原因。
+➜Ubuntu 15.04代号Vivid Vervet
+https://www.solidot.org/story?sid=41550	35791
+Ubuntu迎来了诞生十周年，而Ubuntu 14.10 Utopic Unicorn预计将于本周发布。Ubuntu创始人Mark Shuttleworth按惯例在博客上<a target="_blank" href="http://www.markshuttleworth.com/archives/1425"><u>宣布了</u></a>明年发布的下个版本Ubuntu 15.04的代号：Vivid Vervet（活泼的非洲小猿猴）。Shuttleworth借此机会强调了信任和安全，表示要为用户和开发者带去安全、自由和绝佳的机会。Ubuntu正从桌面走向智能手机，表示Ubuntu phones即将结出果实。
+➜Google调整搜索算法遏制盗版
+https://www.solidot.org/story?sid=41551	37266
+Google准备<a target="_blank" href="http://arstechnica.com/tech-policy/2014/10/google-rolling-out-new-anti-piracy-search-algorithm/"><u>更新搜索算法</u></a>，新加入的变化将影响全球盗版网站的排名。搜索巨人于2012年在RIAA和MPAA等版权组织的压力下作出了改变搜索算法降低盗版网站排名帮助遏制盗版的承诺，Google称新的反盗版搜索算法将在本周推出。Google还发布了报告《<a target="_blank" href="https://drive.google.com/file/d/0BwxyRPFduTN2NmdYdGdJQnFTeTA/view"><u>How Google Fights Piracy</u></a>》，介绍了Google的各种反盗版系统如YouTube的Content ID，透露它在2013年收到了超过2.24亿条搜索结果的DMCA删除请求，最终移除了2.22亿条结果，拒绝比率不到1%。Google高级版权顾问Katherine Oyama在<a target="_blank" href="http://googlepublicpolicy.blogspot.com/2014/10/continued-progress-on-fighting-piracy.html"><u>官方博客</u></a>上表示，搜索引擎正尝试将互联网用户导向合法网站。
+➜Steam下架对创始人发出死亡威胁的开发者的游戏
+https://www.solidot.org/story?sid=41552	39252
+<div align="center"><img src="http://img.solidot.com.cn/0/688/liEbXjqIJRoU.png" height="215" width="450" align=""><br>
+<br>
+</div>
+游戏《Paranautical Activity》今天从抢先体验<a href="http://steamcommunity.com/app/250580/discussions/0/613939294427621202/" target="_blank"><u>变为正式版</u></a>，但Valve的员工出错，游戏的商店页面仍然标记为抢先体验。开发者Mike Maulbeck暴怒之下在其<a href="https://twitter.com/SpooderW/" target="_blank"><u>Twitter账号</u></a>上对Valve的联合创始人Gabe Newell发出了死亡威胁。Valve之后立即从Steam商店<a href="http://steamcommunity.com/app/250580/discussions/0/613939294460099956/" target="_blank"><u>下架了《Paranautical Activity》</u></a>，
+Mike Maulbeck的开发者徽章也被移除，也就是说他的留言不再显示“开发者”标记。游戏并没有从已经购买了《Paranautical Activity》的玩家游戏库内移除，但应该不会有更新了。<b>更新</b>：Mike Maulbeck已经<a target="_blank" href="http://codeavarice.com/post/100592709238/mike-is-leaving-code-avarice"><u>离开了</u></a>他的公司Code Avarice，希望此举能让游戏重新上架。
+➜Laura Poitras：赢得Snowden信任的女子
+https://www.solidot.org/story?sid=41553	42132
+<div align="center"><img src="http://img.solidot.com.cn/0/670/liz5xCDS6YQ4Y.jpg" align=""><br>
+<br>
+</div>
+Laura Poitras的纪录片《Citizenfour》将于10月24日公映，名字Citizenfour源自于Edward Snowden联系Poitras时在电子邮件中使用的化名。Poitras是第一位与Snowden建立联系的记者，在曝光NSA大规模监控丑闻的事件中，Poitras一直位居幕后。Vice的一篇特稿介绍了这位<a target="_blank" href="http://motherboard.vice.com/read/laura-poitras-the-woman-who-captured-snowden"><u>赢得Snowden信任的女子</u></a>。Poitras于2012年从纽约移居到德国柏林，她的工作室像一个碉堡。她长期受到美国政府的监视，几乎每次在机场搭乘飞机都会被拦下询问。从2006年起，她的机票打上了SSSS的标记，SSSS代表“Secondary Security Screening Selection”，即她需要被额外检查。Snowden是在看过Poitras的短片《 The Program》后决定联系她。《The Program》讲述了NSA资深数学家Bill Binney的故事，他试图通过系统内工作终止NSA的国内监视。2005年《纽约时报》曝光了NSA未经授权的监听项目，2007年Bill Binney的家遭到了FBI特工的突袭。
+<br>
+<iframe src="//www.youtube.com/embed/r9-3K3rkPRE" allowfullscreen="" frameborder="0" height="315" width="560"></iframe>
+➜实验室培育的男性生殖器即将到来
+https://www.solidot.org/story?sid=41554	43816
+美国北卡罗莱纳州Wake Forest再生医学研究院的最新突破是<a target="_blank" href="http://mashable.com/2014/10/06/lab-grown-penis/"><u>男性生殖器</u></a>。实验室之前已经培育出了30种不同的器官，其中包括肾脏、心脏、膀胱、尿道和阴道，现在清单上又加上了阴茎。研究人员已经成功培育出6条人类阴茎，现在他们正等待食品和药物管理局的批准，进入到人体（in-man）测试阶段，他们希望最终能替换受伤或先天畸形患者的生殖器。
+➜洛克希德马丁的核聚变突破受质疑
+https://www.solidot.org/story?sid=41555	45954
+洛克希德马丁公司的臭鼬工厂上周<a target="_blank" href="http://www.solidot.org/story?sid=41483"><u>公布了</u></a>它的紧凑聚变反应堆细节，但质疑之声<a target="_blank" href="http://www.technologyreview.com/news/531836/does-lockheed-martin-really-have-a-breakthrough-fusion-machine/"><u>很快就出现</u></a>。洛克希德马丁称它的测试聚变反应堆长2米高1米，远远小于现有的研究反应堆。反应堆已经点火了200次，但研究人员没有展示任何数据。研究负责人Thomas McGuire只是说和预想中的一样工作。McGuire说，洛克希德马丁能在五年内研发出完整的原型，十年内实现商业应用。洛克希德马丁甚至谈论了将紧凑聚变反应堆用于驱动舰船和飞机。但科学家并没有被说服。MIT的核科学和工程教授 Ian Hutchinson说，洛马描述的等离子体约束类型已经研究了很长时间但未取得过成功，他对此表示高度怀疑。

@@ -1,0 +1,93 @@
+➜武汉一城管被小贩扒掉裤子
+https://www.solidot.org/story?sid=25121	60
+<a href="http://www.whcg.gov.cn/">lot</a> 写道 "据<a href="http://newspaper.jfdaily.com/xwcb/html/2011-07/19/content_616455.htm">新闻晨报</a>报道, 7月16日下午, 一名韩姓的城管协管员, 在执法过程中遭到流动小摊贩围攻, 被打昏在地, 还被扒掉了裤子. 据其回忆, 当天下午他和另一名同事例行检查时, 看到街口有4辆三轮车, 就过去劝离商贩. 随后, 几辆三轮车往巷子里逃跑, 他俩分头跟在后面追. 韩某追着一辆三轮车到了一条巷子里, 结果这辆三轮车骑到巷子一半时又折转回来. 他问对方: "怎么不往巷子里跑往回折? " 女摊主回了句: "<a href="http://tv.sohu.com/20110719/n313817870.shtml">你以为我是一个人吗</a>? " 随即到街口喊来了自己的老公, 此时一起过来的有六七个人, 上来就对他拳打脚踢. 韩某说, 女摊主还趁乱抓住他的头发, 并<a href="http://ww3.sinaimg.cn/large/69b01479gw1djdobjv7r4j.jpg">扯破了他的裤子</a>. 她的老公还对他的脑门打了一拳, 随后他便昏倒在地.<br>对此, 有人认为 "<a href="http://opinion.voc.com.cn/article/201107/201107191031196890.html">民意狂欢可扒城管裤子</a>", 亦有人认为应该 "<a href="http://focus.cnhubei.com/local/201107/t1772524.shtml">千方百计增强他们生活的幸福感</a>" ."
+➜甲骨文收购Ksplice
+https://www.solidot.org/story?sid=25122	3240
+Ksplice允许不用重启就为Linux Kernel打上补丁。现在基于该技术而成立的<a href="http://www.ksplice.com/">Ksplice</a>公司已被甲骨文公司<a href="http://lwn.net/Articles/452498/">收购</a>。甲骨文计划为其企业发行版客户提供不重启服务。<i>
+甲骨文在<a href="http://www.marketwatch.com/story/oracle-buys-ksplice-2011-07-21">新闻稿</a>中声称，通过为客户提供无需重启的安全更新、bug诊断和重要bug修正，Ksplice技术将增加Oracle Linux的安全性，可靠性和可用性。Ksplice公司CEO在给客户的电子邮件中表示，Ksplice Uptrack服务将成为Oracle Linux Premier Support的一部分，他们将不再继续出售该服务。目前看来，未来非甲骨文客户可能无法使用Ksplice。</i>
+➜美国国防部开发的Linux发行版
+https://www.solidot.org/story?sid=25123	5280
+<a href="http://www.spi.dod.mil/lipose.htm">The Lightweight Portable Security</a>（LPS）是<a href="http://www.unixmen.com/software/1832-lightweight-portable-security-lps-a-linux-disto-from-the-us-department-of-defense">Software Protection Initiative</a>在美国空军研究实验室和国防部指导下研发的轻量级Linux发行版。<i>
+<a href="http://linux.slashdot.org/story/11/07/21/235215/A-Linux-Distro-From-the-US-Department-of-Defense">开发LPS的动机是</a>：政府雇员在使用酒店或其它地方的不安全电脑时，可以用CD-ROM或U盘启动进入一个防止窜改的初始桌面环境，防御通过互联网传播的病毒或间谍软件。LPS系统不会在主机硬盘上留下用户活动的痕迹。它的ISO镜像大小为135MB，其组件包括Firefox 3.6、OpenSSH、OpenSSL、Linux kernel 2.6.27、Adobe Reader 9、OpenOffice 3.3等等。</i>
+➜苹果在华营收超过联想
+https://www.solidot.org/story?sid=25124	6120
+彭博社<a href="http://www.businessweek.com/news/2011-07-21/apple-surpasses-lenovo-revenue-in-china-on-strength-of-iphones.html">报导</a>，分析人士称，拜iPhone等产品的强劲需求，苹果公司在华营收可能十年来首次超过联想公司。<i>
+分析人士称，联想第二季度在中国大陆、香港和台湾的营收将落后于苹果二季度38亿美元的营收，它的营收预计为30亿美元左右。联想将于下月发布其二季度财报。这可能是1998年以来，苹果在大中华区的营收首次超过联想。苹果COO Tim Cook本周向分析师们表示，苹果在中国只是“小试身手”。</i>
+➜FPGA位元流加密漏洞
+https://www.solidot.org/story?sid=25125	7200
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 <i>"德国的研究者发布了一对(<a href="http://eprint.iacr.org/2011/390.pdf">K</a>，<a href="http://eprint.iacr.org/2011/391.pdf">V</a>)关于多款Xilinx的<a href="http://en.wikipedia.org/wiki/Field-programmable_gate_array">FPGA</a> <a href="http://en.wikipedia.org/wiki/Bitstream">位元流</a>加密的高危漏洞的论文，这个漏洞可被利用到克隆FPGA，硬件木马注入和逆向工程中。不幸的是，这个漏洞不能通过简单的下载补丁来解决。这些论文也同时提醒<a href="http://www.cryptography.com/public/pdf/DPA.pdf">differential power analysis(差分功耗分析)</a>造成了一个针对未受保护硬件设备的威胁。在FPGA前端，目前只有Actel<a href="http://www.actel.com/products/solutions/security/analysis.aspx">解决了DPA问题</a>，尽管Actel的FPGA比Xilinx的规模小很多。"</i>
+➜长寿论文被撤回
+https://www.solidot.org/story?sid=25126	7920
+2010年7月，波士顿大学生物统计学家Paola Sebastiani和Thomas Perls领导的团队在《科学》杂志上发表<a href="http://www.sciencemag.org/content/333/6041/404.1.full">论文</a>宣称，他们通过分析世界上1,000多位百岁以上老人，<a href="__SLASHLINK__" sect="science" sid="10/07/02/0928248" sn="article" tid="50">识别出150个独特的遗传标记</a>，它们都与超长寿有关。研究人员当时承认，不知道这些基因在延长人的寿命方面究竟是如何发挥作用的。现在，由于技术上的错误，科学家宣布<a href="http://news.sciencemag.org/scienceinsider/2011/07/sciencelongevity-paper-retracted.html?rss=1">撤回这篇长寿论文</a>。在论文刊登出来后，就有批评指出他们没有考虑所用基因芯片的内在缺陷，随后研究人员在接受采访时表示他们正在努力验证结果。在撤回声明中，他们没有披露技术错误对原始发现的影响严重程度。
+➜Swartz支持者在BT网站公布32GB论文
+https://www.solidot.org/story?sid=25127	9900
+RSS 1.0规格作者Aaron Swartz<a href="__SLASHLINK__" sect="internet" sid="11/07/20/0519228" sn="article" tid="68">因下载480万篇JSTOR学术论文而被捕一事</a>启发和鼓舞了另一位知识共享的支持者。<i>
+31岁的美国人Gregory Maxwell在海盗湾上传了<a href="http://thepiratebay.org/torrent/6554331/Papers_from_Philosophical_Transactions_of_the_Royal_Society__fro">一个32GB大小的文件</a>，包含了18,592篇论文。Maxwell<a href="http://arstechnica.com/tech-policy/news/2011/07/swartz-supporter-dumps-18592-jstor-docs-on-the-pirate-bay.ars">自称并非学界中人</a>，只是一名业余科学爱好者。由于他的朋友圈有很多学界人士，因此可以很容易获取到他需要的论文。他声称，自诩知识传播者的期刊和图书馆却在不懈的审查知识。Maxwell的举动肯定会得到Swartz的赞赏，他曾公开呼吁下载科学论文然后上传到P2P网络。
+</i>
+➜常州建造未授权暴雪主题公园
+https://www.solidot.org/story?sid=25128	11520
+<a href="http://joyland.ccjoy.com/joylandweb/main.html">环球动漫嬉戏谷</a>，或者更确切的名字是暴雪主题公园，是江苏常州投资2亿人民币、挑战迪士尼乐园而建造的游戏主题公园，占地超过600000平方米，公园内部分为七个区域，其中两个区域以暴雪的游戏为主题——“魔兽大陆”和“星际传说”，另外五个区域则是以其他游戏为主题，包括神秘岛、传奇天下、精灵湖、圣殿山、摩尔庄园等。暴雪此前已经发表声明未授权任何人建造与其游戏相关的主题公园。Shanghaiist<a href="http://shanghaiist.com/2011/07/15/joyland_the_blizzard_bits.php?gallery0Pic=20#gallery">参观了动漫谷</a>，拍摄了大量照片和视频，作者认为这座公园未必真能吸引玩家，因为缺乏唤起玩家记忆的互动体验。
+➜Linux 3.0 kernel发布
+https://www.solidot.org/story?sid=25129	12960
+Linus Torvalds<a href="http://article.gmane.org/gmane.linux.kernel/1170070">宣布</a>正式发布<a href="http://lwn.net/Articles/452040/">Linux 3.0 kernel</a>。<i>
+Linus表示，正如以前多次申明的，Linux 3.0并无具有重要意义的新特性或者是与之前的版本存在不兼容的地方，它只是在Linux 20周年之际放弃不方便的版本编号系统。除了版本号从2.6升到3.0外，其它的新特性<a href="http://kernelnewbies.org/Linux_3.0">包括</a>：支持POSIX警报计时器，BPF包过滤器JIT编译器，新的sendmmsg()系统调用，ICMP socket，支持XEN dom0 ，改进Btrfs性能，Wake on WLAN支持，等等。</i>
+➜Pyramid发布1.1版
+https://www.solidot.org/story?sid=25130	16560
+<a href="http://blog.quickbest.net/">chinakr</a> 写道 "著名Python Web开发框架Pyramid今天<a href="http://docs.pylonsproject.org/projects/pyramid/1.1/whatsnew-1.1.html">发布了1.1正式版</a>。Pyramid是Pylons Project的核心产品，Pylons Project由前Pylons Web开发框架和repoze.bfg Web开放框架合并而来。Pyramid 1.1的主要更新如下：
+<i>支持request.response属性；全新的视图自省(view introspection)特性：paster pviews；支持静态路由(static routes)；
+默认的HTTP异常视图；用http_cache视图配置参数让Pyramid设置HTTP缓存头；新特性使得在Pyramid环境中写脚本更容易。
+</i>
+更多的更新内容请参阅
+<a href="http://docs.pylonsproject.org/projects/pyramid/1.1/whatsnew-1.1.html">官方公告</a>"
+➜奇点将至：当人类超越生物
+https://www.solidot.org/story?sid=25131	18000
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "天才未来学家<a href="http://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil(同时也是光学字符识别和语音识别领域的先驱)</a>在2005年由<a href="http://en.wikipedia.org/wiki/Viking_Press">Viking</a>出版的<a href="http://en.wikipedia.org/wiki/The_Singularity_Is_Near">The Singularity Is Near: When Humans Transcend Biology(奇点将至:当人类超越生物)</a>成为了不折不扣的畅销书，Ray在书中从众多领域如量子物理、纳米技术、人工智能、生物科技中探讨未来的发展，最有意思的是Ray的预言有一份不算短的时间表，大概包括：<i>
+1.2020年代人类将会透过逆向工程完全建立大脑工作的非线性数学模型，机器将在2029年通过图灵测试,而这将是强AI的开始。<br>
+2.2030年代，数百万的纳米机器人可以进入人类的身体帮助我们对抗衰老和疾病，今天科幻意义上的心灵上传将成为可能。 <br>
+3.2045年，奇点来临，1000美元所购买的计算机比人类的大脑强10亿倍，"人类文明"将结束，人类-机器文明所带来的新纪元开始，从此作为高级生物的人类不在孤单。
+</i>           Ray把整个宇宙的进化划分为了6个时代:1, 物理与化学---信息在原子结构中. 2, 生物学---信息在DNA中. 3, 大脑, 信息在不同的神经模式的中. 4, 技术(Technology)---信息在硬件和软件的设计中. 5, 技术和人类智能的整合---生物的方法(包括人类智能)整合到技术中. 6, 宇宙的觉醒---宇宙中不同模式的物质和能量浸泡在了智能过程和知识中.<br> <br>
+即使到了2011年,这本书的Kindle版本销量也在Top 10中,足以看出这本书的影响力.但这并不代表Ray的哲学就是绝对标准,近日一篇名为<a href="http://www.kurzweilai.net/the-singularity-is-far-a-neuroscientists-view">遥远的奇点:一位神经科学家的视角</a>的文章针对Ray的预言提出的一些质疑.
+btw:这本书的中文版据说今年会由华章出版社出版,这里有中文序言."
+➜EA体育游戏考虑基于服务的商业模式
+https://www.solidot.org/story?sid=25132	19920
+EA Sports开发主管Andrew Wilson在2011年度游戏开发者峰会上<a href="http://www.guardian.co.uk/technology/gamesblog/2011/jul/19/ea-sports-new-business-model">表示</a>，该公司正在为未来游戏考虑新的商业模式。<i>
+Wilson首先以亚马逊kindle电子书的Whispersync功能为例，这项功能允许客户支付一次价格，就可以根据需要在PC、智能手机和Kindle上阅读电子书，不必为每个平台分别付钱。他认为，未来的EA Sports游戏也考虑采用同样的模式。从FIFA到老虎伍兹高尔夫PGA巡回赛，EA Sports游戏将为多个平台制定一个固定价格，所有平台都连接到相同的社交游戏系统中。他说，此举是将游戏控制转移给玩家，打破平台之间的壁垒，EA CEO认为这种壁垒是金钱的浪费。每款游戏的制作费用高达2000万到4000万美元，但大多数玩家只玩一个平台，因为商业模式阻碍了他们使用其它平台。EA考虑推动新商业模式，让玩家不用支付更多钱而体验到所有一切。</i>
+➜东方微点副总获国家赔偿
+https://www.solidot.org/story?sid=25133	21600
+bonnae1982 写道 <i>"据<a href="http://bjrb.bjd.com.cn/html/2011-07/22/content_427878.htm?div=-1">新京报</a>报道，在被称为“中国杀毒业第一假案”中，遭受牢狱之灾的<a href="http://www.micropoint.com.cn/">北京东方微点信息技术有限责任公司</a>原副总经理田亚葵，近日获得国家赔偿，刑事赔偿金加上精神损害抚慰金，田亚葵11个月的冤狱共获得赔偿款77538.22元。</i>           根据<a href="http://www.bjd.com.cn/bjxw/bjsh/shfz/201002/t20100204_558508.htm">北京晚报</a>的报道，被称为“中国杀毒软件第一人”的刘旭，现任北京东方微点信息技术有限公司总经理，在2003年以前，他曾经是瑞星的总经理兼总工程师，2003年3月5日他从瑞星离职，并于2005年1月成立北京东方微点信息技术有限公司。刘旭的副手、东方微点副总经理田亚葵，则在2004年3月以前，任瑞星副总裁兼海外销售部总经理。<br> <br>
+刘旭从瑞星离职后，仍持有瑞星31.92%的股份，而当初与其一同创业的王莘(持股36%)则掌握着瑞星的大权，刘旭离职后创立了东方微点公司，并且带领科研人员研制出与一般杀毒软件思路完全不同的反病毒产品——微点主动防御软件后，瑞星开始坐不住了，就是在微点公司办理产品上市相关手续之际的2005年7月初，瑞星向原北京市公安局网监处处长于兵行贿达420余万元，2005年8月，网监处案件队副队长张鹏云和网监处产品管理科副科长齐坤，到北京思麦特管理顾问有限公司和北京健桥证券股份有限公司北京管理部，调查电脑被病毒感染及造成损失的情况。在听取张、齐二人汇报上述两家公司有病毒感染，但未造成损失的情况下，于兵仍授意二人让思麦特公司和健桥证券公司，分别出具了10万元虚假损失的证据材料。网监处在案件调查中，认定田亚葵所用的与互联网连接的笔记本电脑中，有4种病毒于2004年12月21日被激活，通过ADSL向外传播，造成较大损失。随后，田亚葵被捕，并被指控构成破坏计算机信息系统罪和侵犯商业秘密罪。2005年9月6日，国家计算机病毒防治产品检测中心收到网监处的公函，以微点公司涉案为由，要求其对微点产品不予检测，迫使微点公司防病毒产品无法取得上市资格。不但如此，网监处还向媒体发布“国内首例防病毒公司传播病毒案”，称2005年7月2日，网监处接北京多家防病毒公司报案说计算机病毒在五六月份达到高峰，网监处立即开展调查工作。消息称，微点公司在软件研制过程中，违规在互联网上下载、运行多种病毒，“致使计算机病毒在互联网上大量传播，严重危害网络安全，造成重大经济损失”。在刘旭的四处申冤及媒体的报道下，此案引起有关部门的重视。经北京纪检机关调查，网监处指证田亚葵把笔记本电脑中的病毒在2004年12月21日激活，并通过ADSL上网传毒，但当时田亚葵的ADSL还没有开通。他的ADSL是在2005年4月1日才开通使用的。而所谓的田亚葵激活4种病毒，也与事实相违背。经国家信息中心电子数据司法鉴定中心重新鉴定，在田亚葵笔记本电脑中仅发现上述4种病毒中的3种病毒，而且从未被激活过。除微点副总田亚葵被捕外，微点研发部负责病毒库保管、年仅23岁的大学毕业生崔素辉，也遭到了通缉。崔素辉东躲西藏不敢上班，几年不敢回老家河北过春节，在检方决定对田亚葵不予起诉后，警方对崔素辉的通缉也悄悄撤销。但是，崔素辉的麻烦事并未了结，由于被通缉过，他在银行成了有不良信用纪录者，银行卡办不了，房贷也受影响。除崔素辉外，首个揭露此案内幕的科技日报记者王学武，被瑞星公司公开发文指称收刘旭的钱、捏造事实等。
+<br> <br>案发后，于兵潜逃至南非。2008年9月，于兵被最高检从南非劝返回国接受调查，据悉，于兵涉案金额共1400余万元，其中受贿上千万元。于兵被指控一共受贿4笔，全是他任市公安局网监处处长期间所为，行贿者是4家网络公司。北京瑞星科技股份有限公司已在2008年6月更名为北京艺进娱辉科技投资股份有限公司，刘旭状告原瑞星公司董事长王莘侵吞了艺进娱辉公司的资产的案件仍未了结。"
+➜印度ISP因电影公司要求屏蔽文件共享网站
+https://www.solidot.org/story?sid=25134	22680
+印度ISP<a href="http://torrentfreak.com/indian-government-blocks-leading-file-sharing-services-110721/">屏蔽了</a>大量文件共享网站，如RapidShare、MegaUpload、MediaFile、HotFile等，原因是宝莱坞电影《<a href="http://en.wikipedia.org/wiki/Singham_(film)">Singham</a>》今天正式上映，电影公司希望确保这部电影不被盗版。<i>
+根据印度新闻网站<a href="http://www.medianama.com/2011/07/223-files-sharing-sites-blocked-in-india-because-reliance-big-pictures-got-a-court-order/">报道</a>，电影公司Reliance BIG Pictures从法庭获得了一个未指定名字的<a href="http://en.wikipedia.org/wiki/John_Doe">John Doe order</a>，允许他们向盗版电影《Singham》的网站发出终止通知函。这项法庭命令特殊之处是涵盖了ISP。由于没有指定屏蔽的网站名称，ISP们就将各种文件共享网站全数屏蔽，而不是与《Singham》相关的某个网址。也有ISP没有理睬这项命令。</i>
+➜三叠纪物种灭绝可能与碳快速释放有关
+https://www.solidot.org/story?sid=25135	24480
+根据发表在《科学》杂志上的<a href="http://www.sciencemag.org/content/333/6041/430">报告</a>，2.01亿年前发生的三叠纪末期物种大灭绝被认为可能与大量碳释放到大气中有关。这次灭绝事件造成了半数海洋生物消失，此前被认为是火山活动增加导致。<i>
+荷兰Utrecht大学古生物学家Micha Ruhl和同事创建了陆地植物的碳同位素记录，发现三叠纪末物种灭绝的2万年间，至少有12万亿吨的甲烷被喷射到大气之中。由于火山活动持续了至少60万年，<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-07/aaft-mec071811.php">研究人员认为</a>，这一持续间短暂的甲烷爆发更可能是造成物种大灭绝的原因。Ruhl称，他们在甲烷猛增前观察到二氧化碳含量的上升。<a href="http://arstechnica.com/science/news/2011/07/mass-extinction-easier-to-trigger-than-thought.ars">他认为</a>，火山活动释放出的二氧化碳导致全球气温发生小变化，陆地和海洋温度上升，随之而来的是大量甲烷从海底释放了出来。
+</i>
+➜阿里巴巴下周发布云操作系统和云手机
+https://www.solidot.org/story?sid=25136	28200
+阿里巴巴周五<a href="http://www.cn.wsj.com/gb/20110722/tec130305.asp">表示</a>将在下周四发布手机操作系统“云OS”和W700云手机。<i>
+W700云手机由北京天宇朗通生产，定价介于人民币2,000-3,000元之间。根据官网的<a href="http://www.benephon.com/Product/index#">介绍</a>，W700使用NVIDIA的Tegra 2双核处理器，支持1080p高清视频播放。该公司其它的几款手机多是运行Android 2.2操作系统。阿里巴巴表示正与其他手机生产商洽谈在其手机上预装“云OS”操作系统的事宜。</i>
+➜Adobe公布苹果Lion操作系统不兼容软件名单
+https://www.solidot.org/story?sid=25137	30960
+在苹果正式发布Mac OS X 10.7 Lion一天之后，乔布斯“最讨厌的公司”Adobe公布了<a href="http://kb2.adobe.com/cps/905/cpsid_90508.html#products">一个长长的清单</a>，声称清单上的软件<a href="http://www.theregister.co.uk/2011/07/21/adobe_lion_incompatibilities/">与Lion存在兼容性问题</a>。<i>
+有问题的OS X应用程序包括Photoshop CS3、CS4和CS5、Dreamweaver CS4，Illustrator CS5和CS5.1。兼容性问题的严重程度不一，如因为“致命缺陷”Photoshop必须禁用Droplet功能，Photoshop CS5通过更新可以修复该问题，但CS3或CS4无法修正——因为Lion不再支持动态代码翻译技术Rosetta，Rosetta可以让旧的PowerPC代码运行在基于Intel处理器的新Mac上，Droplets的代码是为PowerPC开发，后在CS5中进行了更新。</i>
+➜私人公司竞争重返月球
+https://www.solidot.org/story?sid=25138	34320
+<a href="http://www.googlelunarxprize.org/">Google月球X大奖</a>是一项奖金为三千万美元的挑战赛，奖励给第一家重返月球的私人资助团队，获奖条件是：发送机器人登陆月球，在月面行走500米，向地球传送视频、图像和数据。据《纽约时报》<a href="https://www.nytimes.com/2011/07/22/science/space/22moon.html?_r=1&amp;pagewanted=all">报导</a>，已经有29个私人团队报名参加这项挑战赛。他们中的大多数，或许无法在2015年12月截止日期前克服所面临的财政和技术困难，但其中有几个团队则可能脱颖而出，并在未来的太空商业时代抢占先机。这些挑战者包括了<a href="http://www.moonexpress.com/">Moon Express</a>，<a href="http://www.astrobotictech.com/">Astrobotic Technology</a>和<a href="http://www.rocketcityspacepioneers.com/">Rocket City Space Pioneers</a>。Moon Express创始人，亿万富翁Naveen Jain已经想象了很多月球生意，如月尘求婚，向月球发送人类头发，等等。他说，普通人正成为月球探索的一部分，这是以前未能做到的。
+➜未来搜索用脑信号完成
+https://www.solidot.org/story?sid=25139	36000
+《自然》<a href="http://www.nature.com/news/2011/110721/full/news.2011.427.html">采访了</a>Google研发主管<a href="http://en.wikipedia.org/wiki/Peter_Norvig">Peter Norvig</a>。Peter Norvig在2001年加盟Google前是NASA的计算机科学家，帮助设计了火星漫游车使用的自治导航软件。<i>
+Norvig说，Google搜索引擎十年来最明显变化是速度，911事件发生时Google是按月索引，因此当时焦心似火的人们在搜索引擎上搜索不到最新新闻；而如今你5秒前发的帖子就可能出现在结果中。他预言未来有一天人们会用脑电波去执行搜索，Google目前正尝试用不同的接口做出更好搜索，如语音和手势，这些研究旨在抛弃键盘——适应随智能手机和平板而来移动时代。不过，Google还没有开始研究脑电波搜索。
+</i>
+➜为什么海豚喙要裹上海绵
+https://www.solidot.org/story?sid=25140	39240
+1991年，研究人员发现澳大利亚鲨鱼湾的海豚在做一些非同寻常的事情：在饿了的时候，它们会从海床上抓取海绵，套在喙上，就好象一个人手上戴着手套。科学家推测，当海豚觅食时，海绵能保护它们的喙，或者防御海底垃圾如碎石和碎珊瑚。这是至今发现的海豚使用工具的首个例子。但是为什么本可以在公海中轻松捕鱼的海豚要如此大费周章呢？现在，根据发表在《PLoS ONE》上的<a href="http://dx.plos.org/10.1371/journal.pone.0022243">报告</a>，科学家发现，原因是鲨鱼湾海豚偏爱某些生活在海床附近的味美鱼类，如barred sandperch，这些鱼类没有鱼鳔和气室，而海豚通常是利用鱼鳔回声定位识别鱼的位置，没有鱼鳔使它很难跟踪。此外，海床很硬，在觅食时它面临被石头刮伤的风险。因此海豚找到了解决方法，<a href="http://news.sciencemag.org/sciencenow/2011/07/why-dolphins-wear-sponges.html?rss=1">给喙裹上海绵</a>。
+➜匿名组织公布北约机密文件
+https://www.solidot.org/story?sid=25141	41040
+匿名组织AnonymousIRC声称它入侵了北约的服务器，窃取到了1GB的文件。现在它似想用证据证明其所言不虚，<a href="http://it.slashdot.org/story/11/07/22/0319253/Anonymous-Releases-Restricted-NATO-Document">发布了</a>一个标记为“限制级（Restricted）”的北约机密文件。文件<a href="http://pdfcast.org/pdf/nato-1">共36页</a>，创建日期是2007年8月27日，内容是关于国际安全援助部队的预算和设备开支。北约发言人<a href="http://www.washingtonpost.com/blogs/faster-forward/post/anonymous-claims-attack-on-nato/2011/07/21/gIQA6J6eRI_blog.html">表示</a>，他们的安全专家正在调查黑客声明，强烈谴责泄漏任何机密文件，称这会危及北约盟国、军方和平民的安全。
+➜第二炮兵研发军事游戏
+https://www.solidot.org/story?sid=25142	50760
+bonnae1982 写道<i> "据<a href="http://tech.sina.com.cn/it/2011-07-18/14585797061.shtml">新浪网</a>报道，由第二炮兵科研人员为主导，与地方网络科技公司携手开发的10个军事电子游戏软件日前研发完成，上传部队内部局域网后，点击率居高不下，被官兵喻为培育当代革命军人核心价值观的“好平台”、训练学习的“好帮手”、愉悦身心的“好伙伴”。试玩过这款游戏的基层官兵高兴地说，我们不仅有了自己的娱乐天地，还可以“种菜”、“炒菜”，“自食其力”呢，据介绍进入军营宿舍后，还可以“叠被子”，<a href="http://military.people.com.cn/GB/15181886.html">人民网军事频道</a>7月18日放出了游戏的高清<a href="http://tech.sina.com.cn/i/2011-07-22/15425822705.shtml">组图</a>，<a href="__SLASHLINK__" sect="games" sid="11/05/21/0421250" sn="article" tid="121">此前</a>南京军区和无锡巨人网络科技公司用2年时间研发名为“光荣使命”的射击游戏。"</i>

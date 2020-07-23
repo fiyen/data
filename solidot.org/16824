@@ -1,0 +1,6 @@
+➜FBI控制Tor儿童色情网站，识别用户身份
+https://www.solidot.org/story?sid=46997	50412
+FBI在2015年扣押了一个运行在Tor匿名网络的儿童色情网站，但没有立即关闭网站。而是继续保持网站运行了13天，使得它能部署恶意程序（或叫网络调查技术）去识别用户的身份。该网站的用户遍及全世界，FBI的调查事实上也是遍及全球。<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/after-fbi-briefly-ran-tor-hidden-child-porn-site-investigations-went-global/"><u>FBI对外国目标的执法调查引发了争议</u></a>。加州大学哈斯汀法学院教授Ahmed Ghappour认为，FBI对国外目标的调查可能侵犯了领土主权，根据现有的国际习惯法，在一个国家不知情下对这个国家进行执法调查被认为是侵犯主权。FBI拒绝对此发表评论。
+➜内置后门的开源勒索软件被滥用，但后门对于恢复受害者文件没有用
+https://www.solidot.org/story?sid=46998	54390
+土耳其安全研究人员Utku Sen出于教育目的在Github上发布了两款开源勒索软件<a target="_blank" href="https://github.com/utkusen/hidden-tear"><u>Hidden Tear</u></a>和<a target="_blank" href="https://github.com/utkusen/eda2"><u>EDA2</u></a>，为了防止滥用，他在Hidden Tear留下了加密漏洞，在EDA2的管理面板内置了后门，可用于窃取勒索软件作者加密受害者文件的密钥。但这实在不是一个好主意：两个勒索软件都被人<a target="_blank" href="http://news.softpedia.com/news/eda2-open-source-ransomware-code-used-in-real-life-attacks-499330.shtml"><u>利用去勒索受害者</u></a>，其中EDA2的指令控制服务器托管在一个免费的主机服务商，当有人举报了勒索者的账号，所有数据都遭到删除，后门根本没有用，受害者文件没有办法恢复。

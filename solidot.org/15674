@@ -1,0 +1,51 @@
+➜VPN本地路由表的优化
+https://www.solidot.org/story?sid=32486	720
+<a href="mailto:ashi009@gmail.com">ashi009</a> 写道<i> "<a href="https://github.com/fivesheep/chnroutes">chnroutes</a> 解决了在使用 VPN 时访问国内地址使用本地网关的问题，但是它产生的超过3500行的路由表十分臃肿，以至于加载路由表就需要数分钟的时间。如果使用动态规划算法，对路由规则进行适当的合并后，就可以将路由表控制在1100条以内，将路由表减小2/3。这一算法保证一部分地址可以指向本地网关，另一部分地址指向 VPN 网关，而剩下的地址按照规则最少的原则被指定给两者之一。在这里推荐 <a href="https://github.com/ashi009/bestroutetb">bestroutetb</a> 项目，可以替代 chnroutes 按照需求产生本地路由表。"</i>
+➜中国面临老年痴呆症问题
+https://www.solidot.org/story?sid=32487	4080
+中国正快速奔向老龄化社会。预测显示，30年之内中国60岁以上的人口将接近4亿大关，有能力照顾这些老人的适龄工作人口也在减少，而这与计划生育政策有一定的关系。老龄化的趋势也导致<a href="http://cn.nytimes.com/article/education/2012/11/30/c30alzheimer/">老年痴呆症问题日益严重</a>。在一定程度上，受计划生育的影响，不久之后，中国的个人将面临照顾父母及四位祖父母的压力。而且随着老人寿命的增加，他们患痴呆症的几率也就越大，而看护服务是一笔不小的费用。专家建议中国<a href="http://www.ftchinese.com/story/001047780">应果断停止计划生育</a>。
+➜叙利亚再次切断互联网
+https://www.solidot.org/story?sid=32488	6840
+叙利亚政府再次因为正在进行中的内战而关闭了国内互联网。据互联网监测公司Renesys的<a href="http://www.renesys.com/blog/2012/11/syria-off-the-air.shtml">报告</a>，11月29日当地时间12:26 p.m（北京时间18:26），叙利亚互联网被关闭，所有84个路由前缀全部无法访问，叙利亚再次成为全球互联网的黑洞。Akamai的<a href="https://twitter.com/akamai_soti/status/274163048263057408">流量数据</a>证实了Renesys的报告。由中东第三大ISP塔塔通信提供给叙利亚的5个路由前缀一度可以访问，但11月30日最后五个路由前缀也从全球路由表中消失了。叙利亚政府此前已<a href="http://www.cnn.com/2012/10/10/tech/web/syria-internet/index.html">发出威胁</a>要关闭互联网，Slate.com的报道<a href="http://www.slate.com/blogs/future_tense/2012/11/29/syria_blackout_internet_shutdown_a_bad_sign_for_activists_assad_regime.html">还指出</a>，叙利亚的固话和移动电话也报告都出现问题。
+➜新Humble THQ游戏包只支持Windows，引发争议
+https://www.solidot.org/story?sid=32489	9900
+Humble Bundle以独立游戏支持全平台无DRM闻名，但它最新的<a href="https://www.humblebundle.com/">THQ游戏包</a>却只支持Windows，并且有Steam的DRM。Humble THQ游戏包含五个知名游戏《黑暗血统》、《红色派系：世界末日》、《地铁2033》、三部《英雄连》，超过均价可解锁《黑街圣徒3》。Humble Bundle联合创始人John Graham<a href="http://arstechnica.com/gaming/2012/11/humble-thq-bundle-threatens-to-ruin-the-brands-reputation/">解释说</a>，他们会继续出独立游戏包，但同时探索将自愿付款模式应用到AAA级大作的效果会如何。尽管最新的THQ游戏包引发了<a href="https://plus.google.com/+HumbleBundle/posts">争议</a>，但销售却颇为可观，至今已有170万美元入账。
+➜Tor节点维护者被控传播儿童色情
+https://www.solidot.org/story?sid=32490	12300
+一位奥地利Tor节点服务器维护者<a href="http://arstechnica.com/tech-policy/2012/11/tor-operator-charged-for-child-porn-transmitted-over-his-servers/">被控传播儿童色情</a>，警方探测到有非法儿童色情图像通过了他的服务器。Tor是一种匿名的互联网通信工具，可以让用户匿名，但节点维护者有可能会被探测到。<i>
+奥地利格拉茨的IT管理员William Weber<a href="http://www.lowendtalk.com/discussion/6283/raided-for-running-a-tor-exit-accepting-donations-for-legal-expenses">说</a>，九名警察周三拿着法庭搜查令搜查了他的家，指控他传播和可能制作儿童色情，他将面临最高10年的处罚。警方扣押了20台计算机，1台游戏主机，iPad，外置硬盘，U盘等设备，搜查发现他维护的7个出口节点中有一个传输了非法图像。Weber称他通常一次运行5到10个节点，指出中间的节点最安全，入口节点问题也不大，但出口节点最危险。</i>
+➜中国科学家称有更高道德标准的人更具创造性
+https://www.solidot.org/story?sid=32491	18720
+南京师范大学心理学教授刘昌博士获得了优秀心理学奖，他的研究<a href="http://chinese.eurekalert.org/zh/pub_releases/2012-11/w-et112912.php">探索了促进创新过程中的道德与创造性之间的联系</a>。刘博士说，“多年来，我一直试图理解人类创造性背后的心理学与生理学机制，一个国家的命运取决于利用创造性作为一种创新的驱动力。我的研究团队正在探索创造性与道德之间的关系。我们认为，具有更高道德标准的人也更具创造性。”他的团队研究了突然领悟背后的神经活动，认为洞察力受到大脑右半球的支配。
+➜戴尔发布Ubuntu超级本，比Windows版贵50美元
+https://www.solidot.org/story?sid=32492	20400
+戴尔<a href="http://arstechnica.com/gadgets/2012/11/dell-releases-powerful-well-supported-linux-ultrabook/">发布了</a>预装Ubuntu 12.04 LTS的超级本<a href="http://dell.com/sputnik">XPS 13 Developer Edition</a>，售价1549美元，比相同型号的Windows版本贵50美元，超级本主要以开发者为目标。主要<a href="http://www.dell.com/us/enterprise/p/xps-13-linux/pd.aspx">规格</a>是英特尔 i7-3667U，8GB DDR3L 1600，Intel HD 4000集成显卡，13.3" HD显示屏，分辨率1366x768，256GB SSD，电池续航力约6小时。除了Ubuntu 12.04系统外，超级本预装了帮助开发者工作的工具如<a href="https://github.com/sputnik/sputnik-profiletool">Profile Tool</a>，<a href="https://github.com/sputnik/sputnik-cloudlauncher">Cloud Launcher</a>。
+➜诺贝尔奖得主获赠免费啤酒屋
+https://www.solidot.org/story?sid=32493	21840
+福布斯的一篇<a href="http://www.forbes.com/sites/alexknapp/2012/11/28/for-winning-the-nobel-prize-niels-bohr-got-a-house-with-free-beer/">文章</a>说了一个上个世纪的<a href="http://idle.slashdot.org/story/12/11/29/195213/nobel-prize-winner-got-free-house-and-free-as-in-beer-beer">旧闻</a>：丹麦物理学家<a href="http://zh.wikipedia.org/wiki/%E5%B0%BC%E5%B0%94%E6%96%AF%C2%B7%E7%8E%BB%E5%B0%94">尼尔斯·玻尔</a>是史上最伟大的科学家之一，是丹麦人的骄傲。丹麦人是如此的爱戴他，在他于1922年获得诺贝尔奖之后，著名的嘉士伯啤酒厂（Carlsberg Brewery）赠送了一件礼物——位于啤酒厂隔壁的一所房子，房内有管道直通啤酒厂，波尔可以在任何时候喝上免费啤酒。
+➜x86版Surface Pro最低900美元，电池续航力减半
+https://www.solidot.org/story?sid=32494	23400
+微软 <a href="http://blogs.technet.com/b/microsoft_blog/archive/2012/11/29/next-up-for-the-surface-family-surface-with-windows-8-pro-pricing.aspx">宣布</a>了x86版Surface Pro平板的价格和上市时间表。Surface Pro预装Windows 8 Pro，64GB版售价899美元，128GB版售价999美元，以上价格均不包含软键盘。Surface Pro的配置和ARM版的Surface RT相近，不同之处是包含一个主动数字转换器(active digitizer)，支持触控笔，一个USB 3端口，显示屏分辨率 1920×1080 (高于Surface RT的1366×768)，10点触控，支持外接显示屏的mini-DisplayPort，采用Ivy Bridge Core i5处理器和4GB内存，电池使用时间<a href="http://arstechnica.com/gadgets/2012/11/x86-surface-pro-899-for-64gb-99-for-128gb-no-keyboard-included/">只有Surface RT的一半</a>，大约为4到4.5小时。Surface Pro将在1月上市。
+➜伊朗的秘密无人机是PS出来的
+https://www.solidot.org/story?sid=32495	29520
+<p align="center"><img src="http://cdn.theatlanticwire.com/img/upload/2012/11/28/rendered/d06fa79abecd8f26c439c47a4747c1f5_640x319.jpg" align=""><br>
+</p>
+<p>本月初伊朗官方新闻机构公开了一种能垂直起降的神秘无人机<a href="http://en.trend.az/regions/iran/2085150.html">KOKER 1</a>，结果<a href="http://www.theatlanticwire.com/global/2012/11/iran-drone-photoshopped/59404/">被发现</a>官方的无人机成功试飞照片是PS了日本千叶大学于2008年公布的<a href="http://mec2.tm.chiba-u.jp/~nonami/english/research/uav/gal.html">无人机照片</a>，除了背景不同外，两种无人机完全一模一样。出现这种情况只有两种可能性：伊朗购买了日本的无人机；或者是有人PS了照片。</p>
+➜微软的免费杀软未获得AV-Test认证
+https://www.solidot.org/story?sid=32496	31800
+每隔2个月，德国AV-Test反病毒评测机构就会对流行杀毒安全软件进行一系列测试。最新的测试在9月和10月间进行，测试平台是Windows 7，微软的Security Essentials<a href="http://securitywatch.pcmag.com/none/305401-microsoft-fails-av-test-certification">没有通过测试获得认证</a>。Security Essentials是唯一没有通过测试的安全软件，相比之下其它免费杀毒软件Avast, AVG和Panda Cloud都通过了测试，测试表现最优秀的仍然是Bitdefender Internet Security，其次是 F-Secure和卡巴斯基。
+➜NASA演示深空探测器使用的新型裂变反应堆
+https://www.solidot.org/story?sid=32497	33600
+向火星之外深空发射探测器不可能依靠太阳能电池提供电力。NASA于1960年代以来为阿波罗登月计划和无人驾驶的飞行器研制了放射性同位素热电机（RTGS）。RTGS依靠放射性元素钚238释放的热量驱动电机，但目前钚238供不应求，基本不再生产，<a href="__SLASHLINK__" sect="hardware" sid="12/08/21/091257" sn="article" tid="86">库存即将耗尽</a>。现在，洛斯阿拉莫斯国家实验室<a href="http://www.gizmag.com/fission-reactor-space-mission/25178/">正在研究一种新型裂变反应堆</a>，用铀取代钚驱动斯特林发动机产生电力。新的DUFF (Demonstration Using Flattop Fissions)实验原型能产生24瓦电力。
+➜德国新版权法允许出版商向搜索引擎收费
+https://www.solidot.org/story?sid=32498	35280
+本周四，德国联邦议院对新的版权法<a href="http://www.computerworld.com.au/article/443265/german_parliament_discuss_controversial_online_copyright_bill/">展开讨论</a>，新法律将允许出版商向搜索引擎收取内容使用费。Google<a href="http://www.dw.de/%E5%BE%B7%E5%9B%BD%E5%87%BA%E7%89%88%E5%95%86%E8%A6%81%E5%90%91%E8%B0%B7%E6%AD%8C%E6%94%B6%E8%B4%B9/a-16414820">对此发起了反击</a>，号召网民奋起反抗拟议中的法律。Google德国公司负责人特维拉泽（Stefan Tweraser）说，“版权法对公民来说意味着更少的信息，对公司来说意味着着更高的成本。”搜索和查询这一互联网的基本功能将受到干扰。马克斯普朗克研究所（Max-Planck-Institut）周三发表声明反对新版权法，并警告该法律将带来“不可估量的负面影响”。该声明还表示，德国和欧洲的法学界对这一法律草案普遍担忧。他们认为现有的版权法已经足够。经济学教授德文特（Ralf Dewenter）说，出版商如果不想被搜寻引擎链接，可以直接提出反对，要求退出搜索引擎索引，并确保他们的内容不被搜索到。但现在情况恰恰相反：这些网络媒体都争取能排在搜搜索结果的最上方，他们希望被用户找到。尽管他们可以阻止搜索，但是他们不想这样做，因为他们从中受益。
+➜美国曾计划核爆月球
+https://www.solidot.org/story?sid=32499	38400
+冷战期间，美国曾有一个代号为Project A-119的计划——<a href="http://security.blogs.cnn.com/2012/11/28/u-s-had-plans-to-nuke-the-moon/?hpt=hp_c2">在月球上进行核爆试验</a>。当时美国苏联之间核竞争愈演愈烈，苏联抢在美国前面发射了第一颗人造卫星，美国在太空竞赛中处于落后的一方，它需要一个能引起巨大轰动的行动夺回领先优势，而在月球上进行核试验将具有科学政治和军事方面的多重意义，展示太空投射核武器的能力。美苏拥有互相摧毁对方的能力，因此在月球核爆之后，即使苏联率先发动攻击毁灭了美国的地面核反击能力，美国也可以从月球发动回击。知名天文学家、当时还是研究生的萨根（Carl Sagan）是研究团队成员之一，他曾不小心泄露了月球核爆计划。
+➜IBM印度雇员数可能已超过美国雇员数
+https://www.solidot.org/story?sid=32500	40200
+IBM印度雇员数<a href="http://developers.slashdot.org/story/12/11/29/1545245/in-a-symbolic-shift-ibms-india-workforce-likely-exceeds-that-in-us">可能已超过美国雇员数</a>。根据一份内部文件，IBM印度员工数量从2006年6千暴增到11.2万名，他们的平均薪水是1.7万美元。这个工资水平相对于美国IT工作人员当然非常低，但在印度已经相当高了。Everest Group称，印度软件工程师的平均年薪通常在8千美元到1万美元，高级软件工程师则在1.2万美元到1.5万美元，团队负责人则能达到1.8万到2万美元左右，项目经理最高能有3.1万美元。IBM在全球有43万雇员，美国员工估计是9.2万，比2007年的12.1万下降了不少。此外，IBM还通过H1-B工作签证在美国<a href="http://www.h1base.com/visa/work/H1BaseReviewsIBM/ref/1705/#.ULeb6eClgUQ">招募了</a>大量外籍劳工。
+➜水母能解开永生的奥秘？
+https://www.solidot.org/story?sid=32501	42300
+水母的寿命通常在几小时到几个月，它们在有性生殖之后就会死亡。但<a href="http://en.wikipedia.org/wiki/Turritopsis_nutricula">灯塔水母（Turritopsis nutricula）</a>非常不同寻常，性成熟个体能够重新回到水螅型，这被称作细胞转分化。理论上这个过程没有次数限制，它可以通过反复的生殖和转分化获得无限的寿命。所以也被人称为永生水母。《纽约时报》的一篇文章认为，<a href="http://www.nytimes.com/2012/12/02/magazine/can-a-jellyfish-unlock-the-secret-of-immortality.html?src=me&amp;ref=general&amp;pagewanted=all&amp;_r=1&amp;">灯塔水母也许能解开永生的奥秘</a>，但科学家至今对其细胞转分化过程知之甚少，这种水母也很难在实验室中培育，至今只有一位日本科学家 Shin Kubota曾独自培育灯塔水母，他说在人类身上重现转分化将是人类最美妙的梦想之一，他相信人类会逐渐进化到永生。

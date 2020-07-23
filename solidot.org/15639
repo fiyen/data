@@ -1,0 +1,61 @@
+➜牛羚突袭Windows 8纽约发布会
+https://www.solidot.org/story?sid=31970	4560
+微软正式发布了<a href="http://windows.microsoft.com/zh-CN/windows-8/meet">Windows 8</a>，但它的纽约主发布会场迎来了意想不到的客人：一只牛羚（Gnu）——自由软件运动的吉祥物。自由软件基金会的宣传经理 Libby Reinish<a href="http://www.fsf.org/news/activists-trick-or-treat-for-free-software-at-windows-8-launch-event-1">呼吁用户不要购买Windows 8</a>，建议切换到自由软件而不是减少作为计算机用户的权利，“微软花了20亿美元打广告说服人们Windows 8将革新计算机使用方式。事实上，它本质上是Windows 7的监视特性版，它限制了用户更多的自由。”自由软件基金会正发起针对Windows 8的<a href="http://www.fsf.org/windows8">新一轮宣传活动</a>，鼓励用户升级到自由软件操作系统，指出Windows 8限制自由、侵犯隐私和暴露个人数据。
+➜污染对发展中国家危害近乎疟疾或结核病
+https://www.solidot.org/story?sid=31971	5700
+瑞士绿十字与纽约非政府环保机构布莱克史密斯研究所<a href="http://www.greencross.ch/en/news-info-en/environmental-reports/ten-most-dangerous-sources-of-environmental-toxins-2012.html">联合发布了</a>报告《<a href="http://www.greencross.ch/uploads/media/pollution_report_2012_top_ten_wwpp.pdf">2012世界最严重污染问题</a>》(PDF)。<a href="http://cn.reuters.com/article/CNEnvNews/idCNCNE89O01Y20121025">报告称</a>，工厂、矿井排放出的污染物正威胁着全世界1.25亿人的健康，在发展中国家的危险程度不亚于疟疾或是结核病。报告称相当多的人由于在制革厂、回收站、化工厂、矿井以及其他有毒工厂工作、或居住在其附近而患病或死亡。研究者调查了49个中低收入国家的超过2,900个仍在使用或是已经关闭的工厂，并估算了铅、水银、或铬等污染物对工人及附近居民健康的影响。
+➜《纽约时报》被屏蔽
+https://www.solidot.org/story?sid=31972	6300
+《纽约时报》遭遇了和彭博社一样的<a href="__SLASHLINK__" sect="internet" sid="12/07/04/0131205" sn="article" tid="120">命运</a>，在<a href="http://www.nytimes.com/interactive/2012/10/25/business/the-wen-family-empire.html?ref=global">报道</a>(<a href="http://cn.nytimes.com/article/china/2012/10/26/c26princeling/">中文</a>)中国领导人家族积累数十亿美元巨额财富之后，网站<a href="http://www.nytimes.com/2012/10/26/world/asia/china-blocks-web-access-to-new-york-times.html?_r=0">立即被屏蔽</a>。在新浪微博搜索纽约时报，会返回“根据相关法律法规和政策，搜索结果未予显示”。
+➜Windows 8新版可信平台模块支持中国加密算法
+https://www.solidot.org/story?sid=31973	9600
+微软<a href="http://tech.slashdot.org/story/12/10/25/212250/new-trusted-hw-standard-for-windows-8-to-support-chinese-crypto">发布了</a>2.0版本的<a href="http://en.wikipedia.org/wiki/Trusted_Platform_Module">可信平台模块</a>（Trusted Platform Module，TPM），看起来特别为本周发布的Windows 8设计的。可信平台模块是使微控制器能控存储安全数据的规格，由可信计算组（Trusted Computing Group）制定。TPM 2.0<a href="http://www.trustedcomputinggroup.org/resources/trusted_platform_module_specifications_in_public_review">支持了</a>某些受争议的加密算法——如中国国家加密管理局要求强制使用的哈希对称密钥算法 <a href="http://tools.ietf.org/html/draft-shen-sm3-hash-00" title="ietf.org">SM3_256</a>和SM4。
+➜最危险的代码：非浏览器软件中的SSL漏洞
+https://www.solidot.org/story?sid=31974	11880
+<a href="http://zh.wikipedia.org/wiki/SSL">SSL</a>(Secure Sockets Layer)是互联网安全通信事实上的标准，它依靠正确有效的公钥证书验证通信双方的身份。美国德州大学奥斯汀分校和斯坦福大学的研究人员<a href="https://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html">发现</a>，许多重要的非浏览器软件使用的SSL实现存在严重问题，容易受到中间人攻击。易受攻击的软件包括：亚马逊EC2 Java库及所有基于该Java库的云客户端；亚马逊和PayPal的merchant SDK；美国大通银行移动客户端；Java Web-services中间件如Apache Axis、Axis 2、Codehaus XFire和Pusher library for Android；Trillian和AIM即时通讯软件；流行购物车软件osCommerce、ZenCart等。
+➜假如我们从空间站上跳伞？
+https://www.solidot.org/story?sid=31975	19680
+奥地利冒险家Felix Baumgartner从距离地面39公里高度的热气球上跳伞，在自由落体过程中<a href="__SLASHLINK__" sect="mainpage" sid="12/10/15/029204" sn="article" tid="105">突破了音障</a>。许多人可能会展开联想：假如我们从更高的地方跳伞呢？比如说国际空间站？跳伞者是不是可能创造更高的下降速度？<a href="http://physics.stackexchange.com/questions/40886/could-someone-jump-from-the-international-space-station-and-live">答案是不可能</a>，因为Baumgartner的起跳速度是零，而国际空间站并不是静止的，它在距离地表数百公里的轨道上以每小时数万公里的速度在快速运动，如果有人真的从空间站上跳下，他会停留在地球轨道上，一圈又一圈的飞行。如果他有辅助工具如喷气背包减速抵消初始速度，那么跳伞者将需要在短时间内经历10G的减速，然后以1G的加速度落回地球，类似脱离轨道的卫星或飞船，普通的太空服保护不了跳伞者，你需要隔离高温的保护服。现在你知道重入大气层的飞行器为什么要小心控制角度的原因。首先人体就无法在如此急剧减速的条件下生存下来。
+➜重庆男子三年前因一句跟帖被判劳教一年
+https://www.solidot.org/story?sid=31976	21240
+在薄王倒台之后，因发帖而劳教的新闻曝光越来越多。最新的一起是因为一句跟帖<a href="http://news.china.com/domestic/945/20121026/17494869.html">而被判劳教一年</a>。<i>
+2009年11月12日，在天涯重庆论坛潜水多年的谢苏明看到一条有关重庆市领导的新闻帖子《王××（非王立军）说，对待困难群众要像对待亲人一样》。看完帖子后，通过小道消息得知一些内幕的谢苏明也想一吐为快。他回帖说“草，虚伪的政客，别个是干亲家得嘛(指王跟某商人的关系)，干亲家有干股份撒！”11月13日周五下午4点左右，在家上网的谢苏明听到敲门声。2名警察2名网警向他展示了跟帖内容截图，随后以涉嫌“诽谤”为由将其拘留，最后被判劳教一年。</i>
+<a href="http://club.kdnet.net/dispbbs.asp?page=1&amp;boardid=40&amp;id=8706215">浦志强采访谢苏明视频</a>
+➜Motif采用LGPLv2.1重新授权
+https://www.solidot.org/story?sid=31977	23760
+古老的图形用户界面工具箱Motif<a href="http://motif.ics.com/article/news">宣布</a>重新授权到LGPLv2.1，<a href="http://sourceforge.net/projects/motif/">代码</a>托管在SourceForge上。你可能没听说过Motif，但如果它和<a href="__SLASHLINK__" sect="opensource" sid="12/08/06/0521257" sn="article" tid="104">CDE</a>能在20年前开源，PC桌面的情况<a href="http://lwn.net/Articles/521299/">将会大不相同</a>，桌面环境和工具箱的内讧也可能偃旗息鼓。<i>
+Motif诞生于1980年代Unix工作站崛起的时代，由DEC和惠普等公司联合开发作为X Window System的一个通用的用户界面工具箱，后成为Common Desktop Environment（CDE）桌面环境的基础构件。
+</i>
+➜LG发布84英寸超高清电视机，售价1.7万美元
+https://www.solidot.org/story?sid=31978	25200
+LG电子在洛杉矶举行发布会，<a href="http://www.cepro.com/article/street_price_set_at_16999_for_lgs_84-in_4k_ultra_hd_tv/">正式上市了</a>备受期待的84英寸超高清LED电视机84LM9600，分辨率3840 x 2160，售价16999美元，它在两小时内售出了6台。LG的84英寸4K分辨率平板电视比索尼即将推出的84英寸电视（2.5万美元）便宜许多，它内置的4K定标器可以将任何信号放大到平板原生分辨率。
+➜分析公司预测Android将在四年内超过Windows
+https://www.solidot.org/story?sid=31979	26280
+分析公司Gartner<a href="http://www.reuters.com/article/2012/10/24/us-android-research-idUSBRE89N11J20121024">预测</a>，使用Android操作系统的计算设备数量将在四年内超过Windows。数据显示，到2016年底，将有23亿计算机、平板和移动设备使用Android软件，相比下Windows设备为22.8亿。Android于4年前诞生，但在极短时间内就占据了三分之二的智能手机市场，是平板市场的第二大流行系统。Windows则统治了桌面电脑市场，市场占有率超过九成。两者进行比较其实意义不大。
+➜中国国有稀土生产商宣布停产
+https://www.solidot.org/story?sid=31980	27900
+中国最大的稀土生产商、国有的内蒙古包钢稀土集团10月23日通过上海证交所<a href="http://companies.caixin.com/2012-10-24/100451460.html">发表声明</a>，从即日起，包钢稀土的焙烧、冶炼分离企业停产一个月，停产理由是，稀土市场低迷，稀土产品价格持续走低，成交清淡，停产目的是“引导稀土产品价格稳定运行”。北京最近采取了一系列措施控制稀土开采和出口，通过操控价格获取更多利润。它在2009年开始实施稀土出口配额，目前正加快稀土行业整合，以建立少数政府控制的大型稀土生产处理企业。中国的稀土矿藏占全球储备的三成，但因为低价而供应了全球超过九成的稀土需求。由于中国的稀土出口控制，西方国家正在重启本国的稀土开采，寻找新的可靠供应来源。通过停产推高市场价格，效果可能<a href="http://hardware.slashdot.org/story/12/10/25/1645244/chinese-rare-earths-producer-suspends-output">适得其反</a>，因为这将促使更多能提供稀土原材料的生产商进入市场。
+➜苹果英国官网向三星“公开道歉”
+https://www.solidot.org/story?sid=31981	29400
+英国法庭<a href="__SLASHLINK__" sect="apple" sid="12/10/18/117256" sn="article" tid="12">作出裁决</a>，命令苹果在媒体和英国官网上刊登公告声明三星没有拷贝苹果设计。苹果英国在网站上正式刊登了<a href="http://www.apple.com/uk/legal-judgement/">道歉声明</a>，但内容仿佛是小孩子写的，并没有严格遵守法官命令。声明链接展示在<a href="http://www.apple.com/uk/">苹果英国首页</a>的最底部（Samsung/Apple UK judgement）。声明内容称，法官认为三星Galaxy平板的设计与苹果的设计同出一源，但“不具有苹果的设计所拥有的那种内敛和极致简约，它们不那么酷”。声明接着说，德国的法庭、美国的陪审团都裁决三星侵犯了苹果的设计，英国法庭没有认定三星有罪但其他法院认定三星故意抄袭。
+➜亚马逊恢复挪威用户帐号：如何备份你的DRM电子书
+https://www.solidot.org/story?sid=31982	32400
+本周早些时候，英国亚马逊在未给出详细解释的情况下<a href="__SLASHLINK__" sect="books" sid="12/10/23/025246" sn="article" tid="10">关闭了</a>一位挪威客户的帐号，远程删除了客户Kindle电子书阅读器中的内容。在媒体报道之后，仅仅过了24小时她的帐号就恢复了。当事人称，她接到了一个奇怪的电话，对方声称为英国亚马逊工作，表示将寄给她一台kindle，但没有谈论帐号关闭的原因。她的帐号被关闭推测是因为从挪威跨国购买了英国亚马逊的电子书，此类跨国购买行为很普遍，因为kindle电子书商店没有向所有国家开放，而有些国家的电子书价格要比另一些国家更贵。
+Ars的一篇文章介绍了<a href="http://arstechnica.com/gadgets/2012/10/drm-be-damned-how-to-protect-your-amazon-e-books-from-being-deleted/">如何备份你购买的DRM电子书</a>：利用开源电子书管理软件<a href="http://calibre-ebook.com/">Calibre</a>和解除DRM保护的插件<a href="http://apprenticealf.wordpress.com/">DeDRM</a>。
+➜外交部发言人称中国“依法”屏蔽纽约时报
+https://www.solidot.org/story?sid=31983	33840
+在周五举行的例行记者会上，外交部发言人洪磊主<a href="http://www.guardian.co.uk/world/2012/oct/26/new-york-times-china-wen-jiabao">否认了</a>《纽约时报》关于中国领导人家族巨额财富的报道，称报道是“抹黑中国”和“别有用心”。对于纽约时报网站迅速被屏蔽的提问，洪磊说中国依法管理互联网。和以往一样，相关提问没有出现在<a href="http://www.fmprc.gov.cn/chn/gxh/tyb/fyrbt/t982729.htm">外交部网站发言人表态栏目</a>上。《经济学人》发表评论<a href="http://www.economist.com/blogs/analects/2012/10/chinas-ruling-families">认为</a>即将接班的中国下一任领导人必须深化政治改革。
+➜英文维基百科全书接近完成
+https://www.solidot.org/story?sid=31984	36480
+一个包罗万象的在线百科全书是否有一天会接近完成？但就英语维基百科而言，重要主题如重大战争、重要历史人员和核心科学概念已经基本完善。历史学家和维基百科编辑Rebecca J.Rosen因此得出结论，<a href="http://www.theatlantic.com/technology/archive/2012/10/surmounting-the-insurmountable-wikipedia-is-nearing-completion-in-a-sense/264111/">英文维基百科全书接近完成</a>。<i>
+当维基百科条目超过10万之后，值得写的素材就开始减少；达到100万篇之后，写新条目就要绞尽脑汁了。到2012年夏天，英文维基百科条目超过了400万篇。随着令人兴奋的工作的结束，<a href="https://strategy.wikimedia.org/wiki/Editor_Trends_Study/Results">编辑也逐渐失去了兴趣</a>。2012年春季，有3300位编辑每月贡献了超过100次修改，这个数字比2007年同期的4800位下降了31%。以1812年美国<a href="http://en.wikipedia.org/wiki/War_of_1812">第二次独立战争</a>为例，2008年有256位活跃编辑，今天只有28位，当年的200多位编辑中只有一位今天还活跃。这篇条目内容已经相当丰富，不需要多少人去修改了。作者认为，维基媒体下一步应该提高百科全书的学术价值，以专业标准衡量内容。从学术意义上讲，今天的维基百科尚未成熟。
+</i>
+➜Windows商店的应用程序审查问题
+https://www.solidot.org/story?sid=31985	39000
+自应用商店模式诞生之日起，相关的程序员就面临着递交程序接受人工审查听取回馈修改程序重新递交的循环流程。对开发者来说，他们受到了约束，失去了以前的那种自由度。对用户来说，他们被局限于应用商店，以方便为代价换取软件使用的自由。Windows RT相对于竞争对手的一大问题是缺少应用程序，目前它的应用商店的应用数量超过7千，远远落后于领先几步的苹果和Google应用商店。一位C#开发者在博客上<a href="http://themissingbit.blogspot.com/2012/10/windows-8-doesnt-want-your-app-try.html">讲述了</a>向Windows应用商店递交程序的糟糕经历，他的经历其他平台开发者也都深有体会。微软在模仿苹果，它似乎还在模仿苹果<a href="http://developers.slashdot.org/story/12/10/26/0241226/trouble-for-microsoft-developers-with-the-windows-store">犯过的同样错误</a>。
+➜天文学家发现最紧密的黑寡妇脉冲星
+https://www.solidot.org/story?sid=31986	40800
+脉冲星是一种致密、快速旋转的大质量恒星残骸。如果想让一颗脉冲星转速越来越快，它需要伴星，通过剥离伴星物质吞食伴星质量加速到每秒数百转。这种脉冲星被称为黑寡妇脉冲星。天文学家利用费米伽玛射线太空望远镜识别出了一颗黑寡妇脉冲星，它在吞食伴星质量的同时通过致密辐射使其蒸发。两颗双星距离非常近，完成一周仅需93分钟，是至今发现的最紧密的<a href="http://arstechnica.com/science/2012/10/first-black-widow-pulsar-found-from-gamma-ray-observations/">黑寡妇脉冲星双星系统</a>。编号为PSR J1311-3430的脉冲星旋转周期为2.5毫秒，每秒能转400次。
+➜北美亚洲网络遭遇严重问题
+https://www.solidot.org/story?sid=31987	54720
+根据互联网流量报告，北美和亚洲的网络遭遇到<a href="http://news.ycombinator.com/item?id=4702559">严重问题</a>：<a href="http://internettrafficreport.com/namerica.htm">北美网络</a>平均丢包率达到32%，<a href="http://internettrafficreport.com/asia.htm">亚洲网络</a>平均丢包率33%，欧洲大洋洲和南美洲<a href="http://internettrafficreport.com/">网络正常</a>。网络问题导致Google App Engine、Tumblr和Dropbox等服务下线。目前不清楚故障原因，但云服务商Akami<a href="http://www.akamai.com/dv1">报告</a>网络攻击流量比平常高出50%。

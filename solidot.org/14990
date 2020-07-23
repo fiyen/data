@@ -1,0 +1,22 @@
+➜BSDInstall: FreeBSD新的安装器
+https://www.solidot.org/story?sid=22055	10080
+luo_rc 写道 "FreeBSD 项目的commiter Nathan Whitehorn 在邮件列表上<a href="http://docs.freebsd.org/cgi/getmsg.cgi?fetch=558157+0+archive/2011/freebsd-current/20110116.freebsd-current">宣布</a>：正在把新的轻量级安装器——bsdinstall merge 到FreeBSD 的HEAD 分支中。bsdinstall 被设计为将在FreeBSD 9.0 Release 中用来取代sysintall。新特性包括：<i>允许在x86系统安装到GPT磁盘；支持跨多磁盘安装；支持安装到jails设备；支持PXE安装；支持虚拟化，PowerPC；支持Streamlined安装，更灵活的脚本，更简单的调整；所有安装盘都能成为live CD，等等。</i>
+➜超导衣服
+https://www.solidot.org/story?sid=22056	28320
+科学家成功的制造出碳纳米管纱线，<a href="http://www.sciscape.org/news_detail.php?news_id=2667">未来将有望用其制造具有电池、超导等特性的纺织物</a>。<i>
+美国德州大学达拉斯分校教授Ray Baughman的研究小组，利用静电镀粉、气凝胶、溅镀、喷墨印刷等各种方式，将不同的特性材料粉末附着于厚度约50nm的碳纳米管薄膜的表面，接着再将碳纳米管薄膜以旋捻的方式制成纱，而原先附着于薄膜表面的材料粉末，则被包覆于纱线当中。以这种技术制成的碳纳米管纱线，其添加物含量可达到95%。研究小组将各种具有重要特性的材料包覆于纱线中，其中包括硼化镁，具有39K的超导临界温度；石墨烯及磷酸锂铁，分别可作为锂离子电池的阳极和阴极；二氧化钛，具有光催化及自净的功能，也是染料敏化电池的重要材料；参杂氮的碳纳米管，是燃料电池中氧气还原反应的有效催化剂。这些材料与纺织物的结合，不仅拓展应用范围，也为将来的智能衣服开启了无限可能。</i>
+➜Amarok 2.4.0 发布
+https://www.solidot.org/story?sid=22057	31200
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 <i>"KDE下功能强大的音乐播放和管理软件<a href="http://amarok.kde.org/">Amarok 2.4.0</a>发布，主要改进程序性能，提高可用性和稳定性；重写gui；支持iPod等3G可触摸设备；支持将文件复制到本地时进行文件文件格式转换；新增音乐信息标签；增加OPML订阅输出；支持UPnP设备。"</i>
+➜支付宝新版控件移除了keyloger
+https://www.solidot.org/story?sid=22058	40080
+bestirnte 写道 <i>"不知<a href="http://help.alipay.com/support/help_detail.htm?help_id=21601">支付宝安全控件</a>的上一个版本是什么时候出的,这次支付宝控件强制升级，没有在安装文件内看到alidevice.sys之类的底层驱动了。可惜新的安装文件属于直接覆盖型的，旧文件并不清理，需手工打扫。windows only"</i>
+➜中文拼音输入法小结
+https://www.solidot.org/story?sid=22059	48000
+<a href="http://www.osmsg.com/">OSMSG.com</a> 写道 "这两天讨论了一些拼音输入法的话题，我做个小小的总结，欢迎讨论。眼下 Ubuntu 默认的输入平台是 ibus，随光盘发布 ibus-pinyin，默认的五笔输入法是 ibus-table-wubi，繁体中文默认输入法是 ibus-chewing。我只会用拼音，五笔和酷音的情况不了解。下面我简单总结下我所知的几个常见输入法的情况，也看看各位认为将来 Ubuntu 默认使用哪个更好。<i>1. IBus<br>ibus 平台目前是各大发行版的标配，框架本身用 C++ 写成，模块化程度非常高，有很多可选的输入法。作者在继续开发，对输入法开发者也比较热情。ibus-pinyin 是 python 写成的，效率略逊一筹，还出现过一些 CPU 100% 和内存泄露的 bug。ibus 的拼音还可以选择 ibus-sunpinyin，但是使用的人比较少，反馈也比较少。<br> 2. Fcitx<br>fcitx 是老牌的 Linux 中文输入法，有一些粉丝，不过很多人对它的印象还是基于 GBK 中文配置文件的 3.x。新的 fcitx 4 已经使用英文 utf8 配置文件，支持自定义皮肤和码表，改进了输入法接口，新增了图形化配置工具。Bug 也不比 ibus 多。fcitx 的最佳拼音方案是 fcitx-sunpinyin。上词准确度和所有 sunpinyin 核心的输入法相同。相比于 ibus-sunpinyin 和 scim-sunpinyin，它的优势在于可以利用 fcitx 本身的各种功能（比如皮肤），流畅性和 fcitx 内置拼音输入法没什么差别。</i>           fcitx 的问题有以下几个：1. 内置的 pinyin 输入法还没能独立成为模块，且它的算法也已经落后；2. 虽然给 fcitx 写输入法已经比 ibus 更简单，却仍然缺乏关注，可用的输入法比 ibus 少一些。<br> <br>fcitx 使用 XIM，更接近是一个 X 的输入平台。但是 flash 不支持 XIM，某些光标跟随也有点小毛病。4.1 版本会有 gtk immodule 支持，上述问题会一并解决。<br> <br>3. Scim<br>scim 平台是曾经各发行版的标配，scim-pinyin 的输入流畅性也始终好于 ibus-pinyin，相信有一些人仍然坚守在 scim 的阵地上。然而 scim 和它在 kde 上的 skim 都没有人在进行维护，Debian/Ubuntu 也只是打包人员偶尔修复几个简单的 bug。我们不可能逆行回去再使用它。<br> <br>scim 的拼音输入法有 scim-pinyin，scim-python 和 scim-googlepinyin，目前都没有人维护。推广 scim-pinyin 的智能拼音输入法是作者开发 SCIM 的原因；scim-python 是 ibus-pinyin 的前身；scim-googlepinyin 是用 android 上输入法的算法写成的。<br> <br>4. Yong<br>yong 是最近曝光率有点高的小小输入法，作者说是为了推广他的永码而开发。我没有使用过它，仅从配置文件看猜它是同 fcitx 一样使用了 XIM，因此也会受 XIM 的各种问题影响。yong 是闭源软件，不论是许可证原因，还是平台移植性原因，都不可能被主流发行版作为默认输入法。当然，给用户多一个选择总是好事。<br> <br> <a href="https://lists.ubuntu.com/archives/ubuntu-zh/2011-January/005050.html">查看原文</a>"
+➜Google将发布IE9和Safari的WebM插件
+https://www.solidot.org/story?sid=22060	48720
+Google Chrome放弃H.264支持，对于目前只支持H.264视频编码的Safari和IE9浏览器，Google计划为两者开发WebM插件。目前它没有披露插件的发布时间表。此举表现了<a href="http://tech.slashdot.org/story/11/01/15/2131205/Google-To-Push-WebM-With-IE9-Safari-Plugins">Google全面推广WebM的雄心</a>，所有的主流浏览器都以某种方式支持WebM，未来谁主沉浮？
+➜六款优秀的Linux数字取证工具
+https://www.solidot.org/story?sid=22061	54300
+<a href="mailto:MichaelMason@hotmail.com">Michael Mason</a> 写道 <i>"之前许多文章中谈论了开源软件的优点。开源和闭源软件之间的争论通常集中在自由，可靠性，互操作性、开放标准、支持和哲学理念等因素上。以数字取证工具为例，开源软件在法律方面能体现出新的优势，增加数字取证证据的可接受性，因为开源的特性允许调查人员和法庭确认工具的用途，验证原始驱动器有无修改，或者拷贝有没有被修改。linuxlinks的这篇文章<a href="http://www.linuxlinks.com/article/20110115103656314/DigitalForensics.html">收集了6款优秀的Linux数字取证工具</a>，它们能处理数据，执行文本、图像和视频的数据分析。这些工具包括：<a href="http://www.sleuthkit.org/">The Sleuth Kit</a>；<a href="http://www.sleuthkit.org/autopsy/">Autopsy Forensic Browser</a>；<a href="http://air-imager.sourceforge.net/">Automated Image and Restore</a>；<a href="http://guymager.sourceforge.net/">guymager</a>，等等。</i>

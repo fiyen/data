@@ -1,0 +1,41 @@
+➜像乐高玩具那样组装电脑
+https://www.solidot.org/story?sid=4341	900
+一家只有6个人的公司正准备生产一系列采用开源硬件和软件，可以<a href="http://linuxdevices.com/news/NS3871478989.html">像乐高玩具那样组装的模块式电脑</a>。这家公司叫Bug Labs，模块也被称为Bug，软件当然也叫bug:-）它声称使用一系列的组件工程师能搭建任何用途的计算机。<i>
+硬件分为基础模块和附加模块，基础模块主要是处理器模块，包含一个ARM1136JF-S CPU和128MB内存（闪存或DRAM），内置WiFi，可充电电池，USB，Ethernet，和一个迷你LCD。其它附加模块有摄像头、GPS、移动传感器、LCD显示器、键盘、触摸屏和立体声音响模块。<br>
+软件：Bug SDK（软件开发工具箱）基于Linux 2.6.19，Java phoneME、OSGi和Eclipse IDE，它们都是开源软件。</i>Bug Labs公司认为这种模块组装式计算机将有很好发展的前景。但它们之间是如何通讯的？
+➜Leopard发现数据丢失bug
+https://www.solidot.org/story?sid=4342	2100
+Leopard的Finder工具中的文件移动代码中存在一个大bug，用户在复制文件过程中出错，结果却可能<a href="http://tomkarpik.com/articles/massive-data-loss-bug-in-leopard/">导致原始文件数据丢失</a>。作者第一次发现这个问题是在使用Samba将Leopard中的一个文件移动到FreeBSD服务器上，中途Samba崩溃，最后却发现原始文件被删除了。<a href="http://tomkarpik.com/pub/leopardmovebug.avi">视频</a>。
+➜付费辩论
+https://www.solidot.org/story?sid=4343	8400
+中国博客圈一度流行受争议的话题广告，使用者的目的似乎主要着眼于SEO(搜索引擎优化)。一般人都比较讨厌广告，但辩论呢？不要把辩论和争论划上等号，中国互联网盛产争论，吵架不断，但辩论很少。一个见解深刻的观点是否值得你掏钱或是想花钱购买？虽然新闻组或/.中有许多免费的精彩言论，但对于一些很私人化或是古怪的问题，问朋友，次数多了人家可能会当你神经病；而从网上社区或论坛寻找的一个感兴趣的观点也是大海捞针，付费购买有价值的评论是一种很新颖的方法，集合群众的智慧，值得一试。<a href="http://slashdot.org/article.pl?sid=07/11/05/1353215">一位/.读者就这么做了</a>，他写道：<i>“
+不知道有没有人听说过Amazon.com的 "<a href="http://www.mturk.com/">Mechanical Turk</a>"服务，它允许用户根据个人需要付少量钱给完成某些特定任务的“Turk workers”，主要是机器很难处理但人类可以很轻松完成的任务比如逻辑推理。我可能是利用"Mechanical Turk"服务第一个付费给某位举例辩驳我观点的人。</i>           作者还公布了一个标准的数学逻辑式辩论形式：<br>
+1.政府应该禁止18岁以下未成年人吸烟，因为吸烟有害健康；<br>
+2.如果上述禁令对于所有18岁以下未成年吸烟者都为真，那么它对每一位18岁以下吸烟个体都成立。换句话说，即使整个国家只有一位18岁以下的吸烟者，政府禁止他们吸烟依旧是正当的。<br>
+3.未成年人抽一支烟危害健康的程度与成年人抽N支烟的程度相似。<br>
+4.如果禁止一位只抽一支烟的未成年吸烟者（即使他是地球上最后的吸烟者）是正当的，那么禁止某一位抽N支烟的成年人也是正当的（同样，即使他是地球上最后的吸烟者）。<br>
+5.如果禁止一位大于18岁的抽N支烟的成年人吸烟，那么同样的逻辑适用于所有大于18岁的成年人，这暗示应该禁止所有成年人吸烟。<br>
+6.因此，如何你认为应该禁止18岁以下未成年人吸烟，上述推断显示这会导致应该禁止所有成年人吸烟。
+➜儿童视机器人为伙伴
+https://www.solidot.org/story?sid=4344	17400
+研究人员发现刚学会走路的儿童把小机器人<a href="http://technology.newscientist.com/article/dn12879-giggling-robot-becomes-one-of-the-kids-.html">看作是自己的同伴</a>而非玩具。加利福尼亚大学圣迭戈分校大学的一支研究小组，将索尼制造的QRIO机器人放置在一群只有18个月到2周岁的儿童中间，观看他们之间互动。随着时间的流逝，儿童们逐渐把机器人视作是他们的同伴——和它一起玩耍，互相拥抱，当机器人电池耗尽后为它盖上毯子。
+<a href="http://www.youtube.com/watch?v=3B80AmnoA2Y">视频</a>。
+➜Red Hat加入开源Java项目
+https://www.solidot.org/story?sid=4345	20700
+Red Hat<a href="http://open.itworld.com/4917/071105redhatjava/page_1.html">已经签约</a>参与Sun微系统公司的开源Java项目<a href="http://openjdk.java.net/">OpenJDK</a>，它承诺调整自己在Linux系统上的Java开发成果。Red Hat之前启动的IcedTea项目（开源Java SE JDK开发工具）将与OpenJDK进行整合。通过参与OpenJDK项目，Red Hat最终将为Red Hat Enterprise Linux发行版开发一个兼容OpenJDK的执行工具，同时使用OpenJDK为JBoss 企业中间件创造一个优化 Linux环境的 runtime。
+➜最佳flash游戏
+https://www.solidot.org/story?sid=4346	23100
+在线flash游戏主要是供玩家在休息时娱乐一把，但其中一些可能会令你欲罢不能。<a href="http://crave.cnet.co.uk/gamesgear/0,39029441,49293453-1,00.htm">Cnet.co.uk列出了10款flash游戏</a>，简单和复杂皆有。<a href="http://www.popcap.com/gamepopup.php?theGame=diamondmine">Bejeweled</a>：宝石解密游戏；<a href="http://www.mikewang.org/images/chimgam9.swf">Chimgam</a>：一款让你喷粪的游戏；<a href="http://bowman.freeonlinegames.com/">Bow Man</a>，射箭；<a href="http://www.handdrawngames.com/DesktopTD/Game2.asp">Desktop Tower Defense</a>，塔防，已介绍过；其它还有著名的Line Rider，《洞穴（Portal）》的<a href="http://uploads.ungrounded.net/404000/404612_Portal.swf">flash版</a>等等。<a href="http://ask.slashdot.org/article.pl?sid=07/11/06/1558234">/.</a>读者的回帖则列举了许多免费的开源游戏，如按字母排序的维基百科<a href="http://en.wikipedia.org/wiki/List_of_open_source_games">开源游戏列表</a>，<a href="http://osswin.sourceforge.net/games.html">sourceforge.net</a>上的列表。
+➜雅虎!向!受害者!致歉!
+https://www.solidot.org/story?sid=4347	24600
+<a href="http://reversethis-moc.liamgtadaeryb.lyrrah/">kcome</a> 写道:我们总说雅虎雅虎，但是其实他的全名是“雅虎.感叹号”，国外有一个很趣的标题形式。阿里巴巴股票在香港疯涨，但是他的背后有一个阴影，美国的Yahoo！在国会的质询并不妙，杨志远和Yahoo!的法律顾问近日接受了海外事务委员会的调查。
+➜2007年最佳发明
+https://www.solidot.org/story?sid=4348	27300
+《时代》周刊评选出了<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1678542,00.html">本年度各领域的最佳发明</a>，最佳发明就是众所周知的<a href="http://iphone.com/">iPhone</a>。但除此之外还有许多鲜为人知但非常有趣的发明，包括：<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1677971_1677973,00.html">从汽车引擎中收集废热能的装置</a>，能将汽油燃烧效率提升至40%；<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1677971_1678000,00.html">一款完全依靠压缩空气推进的新颖汽车</a>，印度塔塔汽车公司声称它是零污染；<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1677980_1677970,00.html">小型印刷机器</a>，只需要3分钟就能打印和装订好一本300页的平装书（机器售价是5万美元）；一种具有詹姆斯邦德风格的<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1678438_1678439,00.html">GPS追踪器</a>，警察可以用它来标记超速汽车，从而避免危险的高速追赶；<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1678027_1677996,00.html">细菌混凝土</a>，加入微生物后可以让软软的沙土变成稳定的沙石；<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1678083_1678067,00.html">水基显示器</a>；<a href="http://www.time.com/time/specials/2007/article/0,28804,1677329_1678169_1678154,00.html">一种能将A型、B型和AB型血转换成O型血的方法</a>。
+<a href="http://news.163.com/07/1103/02/3SBE09P90001121M.html">163上的报道</a>。
+➜Apple公开Darwin9源代码
+https://www.solidot.org/story?sid=4349	30000
+Apple公开了<a href="http://www.opensource.apple.com/darwinsource/10.5/">Darwin9</a>的源代码，Darwin9是Mac OS X 10.5 Leopard的核心。<a href="http://osnews.com/comment.php?news_id=18888">根据官网的解释</a>，“Darwin是Mac OS X的基础，基于UNIX的开源操作系统。Darwin整合了一系列的技术，包括Mach 3.0微内核，基于FreeBSD 5 UNIX的操作系统服务机制，高性能的 TCP/IP网络，支持多种文件系统。由于Darwin设计时就注重模块化，因此用户可动态的加入设备驱动，网络扩展和新文件系统。”
+➜CNET盗用Flickr图片
+https://www.solidot.org/story?sid=4350	32400
+CNET首页刊登了雅虎CEO杨致远为中国政策辩解的新闻，焦点人物是杨致远，使用了一张由摄影师Mitch Aidelbau上传到Flickr的图片。<a href="http://www.flickr.com/photos/fetching/1891976723/">CNET并没有得到摄影师本人的许可</a>，<a href="http://digg.com/tech_news/CNET_Caught_Stealing_A_Photo_Without_Permission">digg用户</a>对此纷纷表示不满。<a href="http://www.google.cn/search?complete=1&amp;hl=zh-CN&amp;q=%E7%9B%97%E7%94%A8+%E5%9B%BE%E7%89%87&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;meta=">这种事情</a>在中国连鸡毛蒜皮都算不上。

@@ -1,0 +1,32 @@
+➜六款优秀的Linux Web缓存软件
+https://www.solidot.org/story?sid=23625	17280
+<a href="mailto:nandjjames@hotmail.com">Naomi James</a> 写道<i> "超文本传输​​协议（HTTP）是互联网基本协议之一，主要用于分布式、协作式、超媒体的信息系统。通过HTTP，客户端向服务器端发送资源请求，服务器端返回所请求资源如图像、样式表和JavaScript。早期的Web开发者已经认识到，Web流量会增长得越来越快。为了满足永无止境的Web需求，Web缓存正成为优化特定时间内数据传送量的至关重要的机制，它有助于减少延迟，加快网页载入，防止终端用户失去耐心。Web缓存优化了客户端和服务器端之间的数据流。如果你需要降低服务器负荷，提供内容传输速度，Web缓存软件将能带来很多好处。此类软件主要用于ISP、骨干网供应商，大型内联网和企业网络。Linuxlinks介绍了<a href="http://www.linuxlinks.com/article/20110420162039800/WebCaches.html">六款优秀的Linux Web缓存开源软件</a>，供感兴趣者参考，它们包括：轻量级Web server <a href="http://nginx.org/">nginx</a>，<a href="http://www.varnish-cache.org/">Varnish Cache</a>，<a href="http://www.squid-cache.org/">Squid</a>，<a href="http://trafficserver.apache.org/">Traffic Server</a>，等等。"</i>
+➜iOS跟踪数据被警方用于犯罪调查
+https://www.solidot.org/story?sid=23626	19200
+苹果的iPhones和3G版iPad被发现<a href="__SLASHLINK__" sect="apple" sid="11/04/21/0313201" sn="article" tid="133">会跟踪用户行踪</a>，立即有苹果支持者<a href="http://caffeine.shugendo.org/2011/04/21/iphones-and-location-lets-not-get-hysterical/">为苹果辩解</a>，并特别指出Google的Android操作系统也会<a href="https://github.com/packetlss/android-locdump">跟踪用户</a>。苹果支持者的逻辑和中国政府批评美国人权的逻辑大同小异，忽略本质问题，以攻代守。事实上，（在这件事情上），苹果跟踪用户远比Google跟踪用户<del>恶劣</del>严重的多，iOS的位置数据能跟踪用户一年以上的行踪，而Android则是数据缓存，<a href="http://netmite.com/android/mydroid/frameworks/base/location/java/com/android/internal/location/LocationCache.java">有容量限制</a>（50/200），至多能知道用户在几天内的行动。根据CNET的<a href="http://news.cnet.com/8301-31921_3-20056344-281.html">报导</a>，执法机构去年就已经知道苹果设备上的位置数据文件，<a href="http://apple.slashdot.org/story/11/04/22/2036229/Police-Using-Apple-iOS-Tracking-Data-For-Forensics">曾用这些文件帮助犯罪调查</a>。
+➜新Linux内核耗电量显著增加
+https://www.solidot.org/story?sid=23627	21240
+Phoroni在笔记本上测试了不同版本Ubuntu的总体系统性能、耗电量、启动性能，<a href="http://www.phoronix.com/scan.php?page=article&amp;item=linux_mobile_uffda&amp;num=1">注意到</a>最近推出的新版内核在某些工作负荷下消耗了更多电量，平均增加了10%，最高达到了30%。对Linux 2.6.35, 2.6.36, 2.6.37, 2.6.38和2.6.39（开发版本）内核的测试显示，2.6.38内核的耗电量<a href="http://linux.slashdot.org/story/11/04/22/2132251/Linux-Kernel-Suffering-Power-Management-Regression">显著增加</a>，而2.6.39版本存在同样的问题，尚未被修复。在Ubuntu的bug报告系统，有用户<a href="https://bugs.launchpad.net/ubuntu/+source/linux/+bug/760131">反映</a>，运行Ubuntu 11.04的笔记本电池续航力比10.10大幅减少，从4小时减少至2:45左右。
+➜国际空间站将作为火星任务模拟平台
+https://www.solidot.org/story?sid=23628	23040
+NASA正考虑将国际空间站变成人类火星任务的<a href="http://news.discovery.com/space/mars-mission-simulation-space-station-110421.html">测试平台</a>，计划在夏天展开为期一周的模拟研究。<i>
+初步研究是寻找一种有效和安全的方法，让宇航员有更多的自主权，因为火星上的宇航员不可能与地球飞行控制中心实时联系，无线电波从火星发送到地球需要22分钟，回复需要花同样的时间，因此不可能正常交流。为期一周的模拟是一系列研究的第一步，后面的模拟将会更复杂，更真实。</i>
+➜绿色和平称互联网产生了太多的二氧化碳
+https://www.solidot.org/story?sid=23629	23880
+绿色和平组织最新<a href="http://www.greenpeace.org/international/Global/international/publications/climate/2011/Cool%20IT/dirty-data-report-greenpeace.pdf">公布的报告</a>(PDF)称，IT部门的数据中心在环保和清洁方面做得远远不够。报告称，如果把互联网视作是一个国家，<a href="http://news.slashdot.org/story/11/04/22/1643224/Greenpeace-Says-the-Internet-Emits-Too-Much-CO2">它将是排名第五的温室气体产生源</a>，排在美国、中国、俄罗斯和日本之后。报告分析了主要IT公司的数据中心能耗，这些公司包括了Facebook，Apple，Twitter，Google、Yahoo!、Microsoft和IBM等，其中Apple被认为最不清洁。
+➜报告称中国有7500万人生活在核电站周围地区
+https://www.solidot.org/story?sid=23630	26640
+《自然》和哥伦比亚大学<a href="http://www.nature.com/news/2011/110421/full/472400a.html">分析了生活在核电站方圆75公里范围内的人口数量</a>，显示全世界有5亿人生活在核电站周围，其中<a href="http://www.nature.com/news/2011/110421/full/472400a.html">中国有7500万人</a>。<i>
+以30公里计算，全球约有9000万人；扩大到方圆75公里，则美国人口最多，超过1.1亿人；中国7500万人；印度达5700万人。其中中国的广东大亚湾核电站和相邻的岭澳核电站覆盖的人口最多，每座核电站方圆75公里内有2800万人口，香港包含在内；其次是纽约附近的Indian Point核电站，覆盖了1730万人人口；印度的Narora核电站周围有1600万人口。《自然》的报道强调，核电专家指出，对核电站周边范围的潜在风险进行客观评估“几乎不可能”，这是因为每一个反应堆都有其独特的风险因素，还有一些纯粹不为人知的风险尚待发掘。在3月11日东日本大地震引发福岛第一核电站核泄漏危机后，中国环保部核安全官员表示，中国的核设施安全“有保障”，中国不会因为福岛核危机而放弃核电发展。</i>
+➜Firefox 4一个月下载量突破一亿
+https://www.solidot.org/story?sid=23631	44100
+根据官方数据统计图，在Firefox 4正式推出一个月后，开源浏览器的下载量已经<a href="http://glow.mozilla.com/">突破了一亿</a>，最新的数据是1.005亿。<i>
+其中欧洲超过3800万，北美洲2970万，亚洲1986万，南美洲746万，非洲305万，大洋洲173万。各大洲中，下载量最高的分别是德国（730万），美国（2431万），印度（341万），巴西（321万），埃及（105万），澳大利亚（144万）。在亚洲，排在印度之后是印尼（269万），日本（229万），越南，菲律宾，泰国，马来西亚（105万），台湾（79万），中国（69万），巴基斯坦。在中国，下载量地区排名是上海（15.9万），北京（13.4万），广东，江苏，浙江，山东，四川....最少的是内蒙古不到一千人。根据StatCounter的<a href="http://gs.statcounter.com/#browser_version-ww-daily-20110322-20110322-bar">统计</a>，Firefox 4的全球市场占有率是7.94%，Firefox 3.6为24.43%；在中国占有率最高仍然是IE6的41.13%，Firefox 4微不足道。</i>
+➜双星系统中的类地行星可能是黑色的
+https://www.solidot.org/story?sid=23632	45720
+浩瀚银河中，双星系统是比较常见的星系，如果双星系统中的适宜居住的区域，有一颗适宜居住的行星，那么它的外表<a href="http://news.sciencemag.org/sciencenow/2011/04/scienceshot-worlds-with-two-suns.html?rss=1">看起来会像什么</a>？<i>
+科学家认为它们会呈黑色或灰色，因为如果两颗恒星的颜色差异极大，或者一颗明亮一颗黯淡，行星上的植物为了利用光合作用，吸收能量的光合色素需要能吸收范围很广的波长，这会使植物呈黑色会灰色。研究人员指出，银河系中超过四分之一的类太阳恒星和半数以上的红矮星，都属于一个双星或多恒星系统。</i>
+➜为什么苗条的母亲有时会生下肥胖的孩子
+https://www.solidot.org/story?sid=23633	50160
+肥胖通常被认为与饮食和遗传有关，一项新研究指出了第三种可能因素：母亲传递给子女的DNA绑定分子。这项发现或能解释，<a href="http://news.sciencemag.org/sciencenow/2011/04/why-skinny-moms-sometimes-produc.html?rss=1">为什么女性怀孕期间的饮食会影响后代的体重</a>。<i>
+1976年，科学家首次开始怀疑母亲的饮食会影响后代的体重。1945年，当德国军队切断了荷兰西部的粮食供应后，该地区发生了饥荒。研究人员发现，在这一段时间内出生的人在成年时更有可能肥胖。新西兰奥克兰大学的老鼠研究发现，怀孕期间营养不良的母亲会让后代在成年时肥胖。一种可能的解释是，母亲不知使用了何种手段，对后代进行重新编程，通过增加食欲和脂肪储存能力，使孩子们能在食物匮乏的环境中生存下来。过去几年，研究人员开始寻找背后的表观遗传修饰，他们发现名叫甲基原子团的化学标记能与DNA捆绑，作用类似于音量滑块，能够调节某些基因的活性。这些化学标记被认为和肥胖有关。英国南安普敦大学的研究人员分析了78位孕妇的饮食，提取了刚出生婴儿的脐带DNA，然后在9年后测量这些儿童的肥胖度，他们发现RXRα基因甲基化程度越高，儿童越有可能在9岁时肥胖，RXRα基因编码了参与脂肪细胞和脂肪代谢发育的蛋白质。研究人员又对另外239位孕妇及其后代进行了研究，确认RXRα基因甲基化与肥胖有强关联性。<a href="http://diabetes.diabetesjournals.org/content/early/2011/04/04/db10-0979">报告</a>发表在《糖尿病》期刊上。</i>

@@ -1,0 +1,42 @@
+➜Emacs 23.2发布
+https://www.solidot.org/story?sid=17731	19440
+GNU Emacs 23.2<a href="http://lwn.net/Articles/386869/">正式发布</a>，开发者现在可到ftp.gnu.org/gnu/emacs/或<a href="http://www.gnu.org/order/ftp.html">GNU FTP镜像站点</a>下载。<i>
+新版除了修正Bug之外，最重要的是变化是整合了<a href="http://cedet.sourceforge.net/">Collection of Emacs Development Environment Tools</a>(CEDET), CEDET开发工具提供了一个代码管理工具EDE，函数和变量名辅助完成、一种新代码生成机制等。其它的新功能包括新的编辑Javascript模式，默认的邮件组合模式是Message模式，默认 XML文件编辑工具nXML模式等。更多可见<a href="http://www.gnu.org/software/emacs/NEWS.23.2">NEWS.23.2</a>。</i>
+➜FLOW让你提前尝试Google的云操作系统
+https://www.solidot.org/story?sid=17732	22320
+Google的Chrome OS预计将在年底前正式推出，但Google的粉丝们不想等待这么久。他们开始尝试开源开发者自制的Chrome OS版本。《纽约时报》<a href="http://www.nytimes.com/2010/05/09/business/09ping.html">采访</a>了17岁的FLOW开发者<a href="http://chromeos.hexxeh.net/">Hexxeh</a>。<i>
+Hexxeh的真名叫Liam McLoughlin，是英国曼彻斯特人，一位大学生和程序员，他下载了Chromium源代码，编译出一个可通过U盘启动电脑的镜像，他花了无数夜晚和周末配置Chromium，使其能在不同类似电脑上运行，包括苹果电脑，他还添加了Google还没有加入的功能，如Java支持。McLoughlin称他在Chromium上的工作一部分是为了展示他的计算机技能，另一部分它也可能是打开通往技术行业的一扇大门。对Google来说，所有围绕Chrome替代的开发活动都有可能成为一把双刃剑，它希望开发者和企业能在官方版本上开发，Google没有预料到，在Chrome OS还没准备好前人们就开始尝试和评估Chromium了。负责产品管理的副总裁Sundar Pichai虽然认为Chromium的提前发布是一个始料未及的结果，但承认，如果你开始做一个开源项目，你就必须开放所有道路。</i>
+➜为什么说游戏开发商应该支持Linux
+https://www.solidot.org/story?sid=17733	24120
+独立游戏开发者Wolfire推出了一个由用户定价的<a href="__SLASHLINK__" sect="games" sid="10/05/05/0451234" sn="article" tid="129">Humble Indie Bundle活动</a>，踊跃参与活动的玩家数量已经超过了7万，捐出的钱总额接近60万美元。Wolfire博客对结果进行了一番统计，发现了一个有意思的现象：<a href="http://blog.wolfire.com/2010/05/Linux-users-contribute-twice-as-much-as-Windows-users">Linux用户捐出的钱是Windows用户的将近2倍</a>。<i>
+在文章写作之时，参与捐赠活动的玩家大约53,500名，其中65%是Windows，21%是Mac，14%是Linux，但是Windows用户捐出的钱只占总额的52%，Mac用户占25%，Linux占23%。Mac用户平均捐出的钱比Windows用户多40%，而Linux用户平均比Windows用户多约100%。</i>
+➜新Windows攻击智胜杀毒软件
+https://www.solidot.org/story?sid=17734	25680
+研究人员称他们设计出一种<a href="http://www.theregister.co.uk/2010/05/07/argument_switch_av_bypass/">绕过大多数流行桌面杀毒软件保护机制的方式</a>，包括McAfee、Trend Micro、AVG和BitDefender等杀毒软件。<i>
+<a href="http://www.matousec.com/">matousec.com</a>的软件安全研究员开发的<a href="http://www.matousec.com/info/articles/khobe-8.0-earthquake-for-windows-desktop-security-software.php">方式</a>，利用了杀毒软件深藏在操作系统底层的驱动程序钩子。本质上，它的工作原理是向杀毒软件发送一个良性代码样本，通过安全检查，然后在执行之前再将恶意代码替换进去。</i>
+➜美国宣布收缴超过1.4亿美元的仿冒思科硬件
+https://www.solidot.org/story?sid=17735	28080
+美国司法部6日<a href="http://www.fbi.gov/pressrel/pressrel10/convictions_050610.htm">宣布</a>了一项<a href="http://arstechnica.com/tech-policy/news/2010/05/feds-report-700-seizures-of-bootleg-cisco-hardware.ars">战果</a>：迄今为止，美国当局针对假冒思科公司网络硬件和商标的不法行为，共展开700多次收缴行动，被没收的假冒产品价值超过了1.43亿美元，有30人被定重罪，其中至少<a href="__SLASHLINK__" sect="it" sid="10/02/08/0150223" sn="article" tid="54">包括1名中国居民</a>。美国的执法机构正在与中国公安部合作，打击中国生产和出口伪造网络硬件的行为。其中一部分假冒硬件还试图出售到军事领域，思科公司曾在2008年发出警告，假冒硬件可能包含后门，能被用于访问用户个人信息和监听通讯。<i>
+根据《星岛日报》的<a href="http://dailynews.sina.com/gb/news/usa/uspolitics/singtao/20100507/05111423009.html">报道</a>，现年33岁的华裔被告李勇才（Yongcai Li）今年1月25日被加州洛杉矶法庭判监30个月，以及向思科公司赔偿79.0683万美元。李勇才在中国深圳经营一个名为Gaoyi Tech的公司，他根据订单要求，在中国采购仿制的思科电脑产品，然后运往美国。李勇才去年1月飞抵拉斯维加斯时落网。现年49岁、居住在德州的沙特公民阿朔尔也因犯有走私伪造思科产品罪，今年1月22日被判51个月监禁，并向思科赔偿11.94万美元。法庭文件显示，阿朔尔通过一个网上中国卖家购买伪造的思科千兆接口转换器（GBICs），企图出售给国防部。而国防部计划将转换器用于海军陆战队在伊拉克指挥部队行动、传输情报、维护军事基地的安全。</i>
+➜Dropbox 推出云存储 API
+https://www.solidot.org/story?sid=17736	29100
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "云计算一直以来只听雷声，不见雨点，以云存储为例，除了 Amazon 的 S3 存储服务，我们并没有见到多少可以让开发者真正可以拿来实现应用的东西。最近，在线网盘服务商 Dropbox 宣布推出云存储 API，开发者可以在对 Dropbox 账户下的文件进行自由访问，编辑和保存。
+<i>Dropbox API 类似于 JSON，OAuth 和 OpenID，开发者可以将用户的存储需要交给 Dropbox 处理，同时，为了降低云存储的风险，Dropbox 还在本地为用户保存一份副本。比如，你上传的 Flckr 的所有图片同时会备份到你本机的 Dropbox 文件夹。</i>           尽管该 API 带来的应用非常诱人，但最初，其最重要的应用是移动设备，移动设备的存储局限，以及 iPHone 和 iPad 等设备的限制，意味着，在这些设备上实现本地文件的访问将十分困难，更不要说读写或同步。Dropbox API 要克服的最基本问题是，移动设备不需要使用本地文件，所有文件都会同步到你的 PC 电脑。
+<br> <br>在发布之前，Dropbox 已经将该 API 同多家开发商进行了集成，比如 Air Sharing, GoodReader  and QuickOffice 现在可以直接访问你的 Dropbox 账户，编辑或同步其中的文件。该 API 目前提供了一套用以 Object-C，Python，Ruby，Java 等语言编写的客户端类库，你可以注册一个<a href="https://www.dropbox.com/developers"> Dropbox 开发账户</a>，获取这些类库以及文档。
+<br> <br> <b>以下是<a href="http://blog.dropbox.com/"> Dropbox 官方博客</a>上对这一消息的说法：</b> <br>
+<i>有点喜不自禁了，尽管已经做了很久，但在将这些东西交付给你们使用的时候，还是很兴奋，抱歉之前一直保密。</i>
+<br> <br> <i>说详细点，我们宣布推出新的 iPad 和 Android 应用，同时确认 Blackberry 下的同类应用也即将发布，这种新应用就是 <a href="https://www.dropbox.com/developers">Dropbox 移动 API</a>，一些来自<a href="https://www.dropbox.com/anywhere/apps">合作伙伴</a>已经使用该 API 做出很精彩的应用。</i>
+<br> <br> <i>感谢 iPad 组的 Will 和 Brian，Android 组的 Tom 以及 API 设计者 Zed，他们在过去几周做了大量的工作。</i> <br> <br>
+延伸阅读
+<br> <br> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K349.aspx">5个最好的在线文件共享网站</a>
+<br> <br>本文来源：Web Monkey <a href="http://www.webmonkey.com/2010/05/dropbox-api-lets-you-add-cloud-storage-to-your-apps/">Dropbox API Lets You Add Cloud Storage to Your Apps</a> (<a href="http://www.webmonkey.com/author/luxagraf/">Scott Gilbertson</a>) 以及 <a href="http://blog.dropbox.com/?p=492">Dropbox 官方博客</a> (Jon Ying)。
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜英国推出大学图书馆交友网站
+https://www.solidot.org/story?sid=17737	30300
+BBC<a href="http://www.bbc.co.uk/ukchina/simp/uk_education/2010/05/100507_edu_romance_in_library.shtml">报道</a>，对那些未曾光临伦敦各大学图书馆的人来说，也许会以为图书馆看书学习的尽是些戴着瓶子底儿的学究，然而事实并非如此。图书馆里还汇集着学校的俊男靓女，他们躲在时髦的苹果笔记本后，难免会想入非非，打量令他们一见钟情的对象。<i>
+现在，伦敦大学学院（UCL）计算机科学专业的大三学生Rich Martell建设了一个寻友网站<a href="http://www.thefitfinder.co.uk/witnessthefitness/">FitFinder</a>，专门帮助这些欲火攻心的学生们找到在图书馆中让他们一见倾心但突然失踪的意中人。这个网站正在学生中迅速风靡。网站的理念非常简单：如果你在图书馆对某个陌生人很有感觉，就可以在本校的Fitfider上以匿名的方式对他/她进行一段简短的描述。另外，你也可以对自己进行描述，或者提供自己的电话号码。包括意中人在内的其他同学可以在你发表的帖子上留言。Martell说建立该网站的灵感来源于和朋友在一起的真实经历。“我们在图书馆一旦发现自己心仪的女孩，都会和朋友相互发短信告知。让人们找到自己在校园里的意中人，这就是我为什么要建立Fitfinder。”</i>
+➜儿童过度模仿成人
+https://www.solidot.org/story?sid=17738	55440
+一项新研究发现，<a href="http://news.sciencemag.org/sciencenow/2010/05/kids-overimitate-adults-regardle.html?rss=1">不同文化的儿童都会事无俱细的模仿成年人的动作</a>，即使这些动作是不相干的或愚蠢的。
+<i>
+过度模仿是人类特有的怪癖，动物如狗和黑猩猩也会模仿，但它们只模仿被证明有效的行为。人类儿童却模仿每一个细节，即使毫无意义。研究人员说，人类看起来忘记了结果，而只知道复制所看到的动作。澳大利亚心理学家Mark Nielsen教来自不同社区的90多名2岁到13岁儿童去打开一套不透明的盒子，每个盒子都藏有一个玩具。每个盒子都可以轻易的通过移动把手、或旋转按钮、或拉出两个销钉而打开。62名儿童先行研究一番如何打开盒子，其中10名儿童找到了打开的方法。然后，Nielsen或一名成年人导师演示他们是如何打开盒子的，他们在打开过程中加入了一些没有意义的动作，比如用一根棒在盒子上画圈圈，结果之后所有儿童全都一模一样的照着做。Nielsen惊呆了。研究支持了一种理论——过度模仿是人类基本的、跨文化的现象，可能对于人类文化的传播至关重要。</i>

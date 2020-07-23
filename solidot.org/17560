@@ -1,0 +1,48 @@
+➜中国科技公司比美国政府更早知道英特尔芯片漏洞
+https://www.solidot.org/story?sid=55371	11375
+《华尔街日报》援引知情人士的消息<a href="http://cn.wsj.com/gb/20180129/tec103005.asp" target="_blank"><u>报道</u></a>，英特尔开始披露其处理器重大安全漏洞时，最先通知的是少数一些客户，例如几家中国科技公司，而美国政府并不在列。安全研究人士称，这一决定可能已导致漏洞相关信息在对外公布之前落入中国政府之手，从而引发了安全担忧。英特尔这些芯片漏洞被称为“幽灵”(Spectre)和“熔断”(Meltdown)。不过研究人士同时表示，尚没有证据表明此类信息被不当使用。英特尔一方面提前通知足够大的客户以避免重大损失，另一方面尽量把漏洞信息控制在内部以防消息泄漏，这种做法导致并未提前得到通知的小公司现在仍疲于应对。提前获得通知的中国公司包括联想、阿里巴巴等。
+➜Linux 4.15 发布
+https://www.solidot.org/story?sid=55372	12367
+Linus Torvalds 在内核邮件列表上<a href="https://lkml.org/lkml/2018/1/28/173" target="_blank"><u>宣布</u></a>释出 4.15 kernel。Linus 称最后一周比较平静，没有最后一分钟的恐慌。Linux 4.15 的<a href="https://kernelnewbies.org/Linux_4.15" target="_blank"><u>新特性</u></a>包括：修复 Meltdown 和 Spectre variant-2 漏洞的补丁（但还没有完成），AMD amdgpu 驱动支持原子模式设置和改进视频支持，初步支持开源 CPU 架构RISC-V，<a href="https://lwn.net/Articles/729215/" target="_blank"><u>V2 控制组 API</u></a> ，支持 AMD Secure Encrypted Virtualization，工作在非易失存储器的新 <a href="https://lwn.net/Articles/731706/" target="_blank"><u>MAP_SYNC</u></a> 机制，文件系统和驱动更新，等等。
+➜微软释出紧急更新关闭英特尔的 Spectre V2 补丁
+https://www.solidot.org/story?sid=55373	14488
+英特尔本月早些时候承认它最早释出的 Spectre V2 微码更新会导致更高频率的重启和难以预料的系统行为，导致数据损失和破坏，它在上周正式推荐合作伙伴停止部署 Spectre V2 更新。微软周末向 Windows 7 (SP1)、Windows 8.1，所有版本的 Windows 10，以及所有支持的 Windows Server 版本释出了紧急更新 <a href="https://support.microsoft.com/en-us/help/4078130/update-to-disable-mitigation-against-spectre-variant-2" target="_blank"><u>KB4078130</u></a>，目的就是关闭已安装的英特尔 Spectre V2 补丁。微软表示，它还提供了选项，通过注册表设置变更允许高级用户手动启用和关闭 Spectre V2 补丁，它建议在英特尔解决问题之后启用补丁。
+➜盖茨称 AI 接管每个人的工作可能是件好事
+https://www.solidot.org/story?sid=55374	14546
+盖茨接受<a href="http://www.foxbusiness.com/features/2018/01/24/bill-gates-isn-t-convinced-that-ai-will-replace-humans.html" target="_blank"><u>采访</u></a>时候<a href="https://hardware.slashdot.org/story/18/01/26/1930208/bill-gates-thinks-ai-taking-everyones-jobs-could-be-a-good-thing" target="_blank"><u>表示</u></a>，机器人接管我们的工作可能是件好事，能让我们更有效率，有更多休息时间。盖茨称，假期在某个时候将会更长，如果我们能用更少的劳动力生产出两倍于今天的产品，人类的目标不只是坐在柜台后面卖东西，你知道吗？AI 等技术的进步已经开始减少很多低薪水的工作，而失去工作的人显然不属于有更多休息时间的群体。人们担心的不是 AI 接管我们的工作，而是我们的薪水是否会变少。前世界首富当然不需要为此担心。
+➜如何约束科技公司的权力
+https://www.solidot.org/story?sid=55375	18975
+FANG——Facebook、亚马逊、Netflix 和 Google 的统称——<a href="http://www.ftchinese.com/story/001076114?full=y" target="_blank"><u>正在经历</u></a>一场引起学界、政界和经济界讨论的危机。活动人士、监管机构、甚至一些科技公司高管本人都在呼吁对智能手机和社交媒体的成瘾特性进行调查。社交平台技术的兴起与人们对自由民主本身的信任度下降有关。根据对 28 个国家进行的《爱德曼信任度调查报告》，65% 的人口从平台和聚合网站获得新闻。在全世界大多数新闻由 Facebook、Google 和 Twitter 提供的同时，人们对自由民主政府的信任度在下降。由这些平台产生的过滤气泡把人们推向极右或极左的极端内容，这就产生了一种削弱他们对现有机构信任度的趋势。Facebook 首席执行官扎克伯格 (Mark Zuckerberg) 试图 “解决” 该公司问题的最新尝试，涉及让人们远离新闻网站，贴近朋友和家人。不幸的是，我们最亲近的人正是那些为我们制造了过滤气泡的人。这些气泡对平台来说是相当有利可图的，平台可以利用气泡将不透明的政治和企业广告推送给个人，而这些广告通常会迎合他们自己的偏见。
+➜调查显示雇主想要 JavaScript 而开发者想要 Python
+https://www.solidot.org/story?sid=55376	26713
+HackerRank <a href="https://www.infoworld.com/article/3251506/it-careers/employers-want-javascript-but-developers-want-python.html" target="_blank"><u>调查了</u></a> 39,441 名开发者，询问了雇主对编程语言的需求，以及开发者对编程语言的兴趣。调查结果显示，雇主想要雇员掌握的语言包括 JavaScript，Java，Python，C++ 和 C，而开发者最想要学习的语言则是 Python、Go 和 Kotlin。在需求和供应之间基本不存在缺口，开发者大都拥有能满足雇主要求的语言技能。HackerRank 还询问了开发者接下来想学习的编程，排在最前的包括 Go、Python、Scala、Kotlin 和 Ruby；不同行业对编程语言的需求不同，金融行业偏爱 Java，C 则统治了硬件行业；37% 的雇主想要 React 技能，但只有 19% 的开发者掌握这项技术；大多数开发者在 16 岁前就开始写代码，雇主更看重问题解决的能力，67% 的开发者有计算机科学学位，而 74% 的人表示部分考自学；平均而言开发者掌握了四种编程语言。
+➜酷派起诉小米侵犯其专利
+https://www.solidot.org/story?sid=55377	29380
+中国手机制造商酷派在香港证券交易所发布公告，宣布<a href="http://news.ifeng.com/a/20180129/55568772_0.shtml" target="_blank"><u>起诉小米</u></a>，称其侵犯了它的三项专利：(1) 专利号为 ZL200610034034.8 名称为「移动通信终端的协同方法及其界面系统」的发明专利权；(2) 专利号为 ZL201210250264.3 名称为「终端和应用程序的新事件的处理方法」的发明专利权；(3) 专利号为 ZL201210064396.7 名称为「终端和应用图标的管理方法」的发明专利权。酷派要求小米停止生产和销售侵权的产品。小米则回应称它已与微软等达成专利合作，能应付此类的专利官司。遭遇乐视事件的酷派如今已经转型，逐步退出中国市场，但公司高管则坚称转型是因为“太多公司盗用或窃取酷派核心技术与专利”。
+➜比特币交易能去匿名你的身份
+https://www.solidot.org/story?sid=55381	30461
+即使你使用了 Tor 隐藏服务，比特币交易记录<a href="https://www.wired.com/story/bitcoin-drug-deals-silk-road-blockchain/" target="_blank"><u>仍然能暴露你的身份</u></a>。卡塔尔大学和 Hamad Bin Khalifa 大学的研究人员在预印本网站发表了一篇<a href="https://arxiv.org/pdf/1801.07501.pdf" target="_blank"><u>论文</u></a>（PDF），称在超过 100 个案例里，他们能将一个人在暗网网站的比特币支付与其公开账号联系起来；在超过 20 个案例里，他们能很容易将一个人的公开账号与丝绸之路的特定交易联系起来，发现买家的特定名字和位置。研究人员称，比特币的追溯操作安全是非常低的。当事情记录在区块链里，你能追溯历史，透露信息，去匿名用户。研究人员从 88 个来自 Tor 隐藏服务的比特币地址着手，搜索了 50 亿 Twitter 帖子和 100 万页的 Bitcoin Talk 论坛帖子，将 125 个唯一用户与 20 个 Tor 隐藏服务联系起来。
+➜一加的 “Badword” 过滤主要影响中国用户
+https://www.solidot.org/story?sid=55382	32870
+安全研究人员 Elliot Alderson 从一加的剪切板应用里<a href="https://www.solidot.org/story?sid=55360" target="_blank"><u>发现了</u></a>名叫 badword.txt 的文件，其中包含了大量中文短语，如 “领袖”、“纪念日”，“博士”、“将军”、“内地”、“外地”等等。这个应用显然是针对中国用户的，只是一加不小心通过最新的 OxygenOS Beta 版本提供给了国际版用户。这些短语集非常可疑，一加到底想要干什么？Alderson 的进一步分析<a href="https://twitter.com/fs0c131y/status/956952946641686529" target="_blank"><u>发现</u></a>，剪切板应用会在中国用户不知情下将其中的数据发送到北京泰迪熊移动的服务器上。泰迪熊的创始人是前 360 高管，其<a href="http://teddymobile.cn/page/product.do" target="_blank"><u>业务</u></a>包括短信内容分析和手机号码识别，现在看起来还分析用户的剪切板内容。
+➜南京拘捕 8 名编造钱宝网谣言的网民
+https://www.solidot.org/story?sid=55383	35517
+南京警方发布<a href="https://weibo.com/1972917825/G0CWV0kr3?from=page_1001061972917825_profile&amp;wvr=6&amp;mod=weibotime&amp;type=comment#_rnd1517218028389" target="_blank"><u>通报</u></a>，宣布逮捕通过微信和微博编造传播钱宝网谣言的 8 名网民。<a href="https://zh.wikipedia.org/wiki/%E9%92%B1%E5%AE%9D%E7%BD%91" target="_blank"><u>钱宝网</u></a>的负责人在上个月投案自首。该公司的商业模式是看广告填写问卷，有几分类似亚马逊的 Mechanical Turk，但不同的是需要缴纳保证金。警方通报称，8 名违法行为人给予行政拘留，对 4 名违法行为人给予治安警告。
+➜健身软件的热图曝光美国的军事基地
+https://www.solidot.org/story?sid=55384	39244
+健身软件公司 Strava 提供的应用被多种设备使用，包括智能手机和 Fitbit 之类的健身跟踪器。去年 11 月该公司根据用户上传的超过 30 万亿个 GPS 数据点制作了<a href="https://blog.strava.com/galleries/heatmap/" target="_blank"><u>一张健身热图</u></a>。直到上周，这张热图才引起军事分析师的注意，因为 Strava 的一小部分用户是美国军方人员，他们上传的 GPS 数据点肯定集中在军事基地附近，而在发生战争的地方如叙利亚和阿富汗，使用 Strava 健身软件的主要群体只能是美国的军方人员，因此这些地区的热图<a href="http://www.bbc.com/news/technology-42853072" target="_blank"><u>将会曝光军事基地的位置</u></a>。军事基地本身并不敏感，因为这些基地通过卫星地图也很容易发现，热图被认为暴露了军事基地的结构，交通路线，甚至巡逻的路线等敏感信息。美国军方表示他们正在检查热图。
+➜数以千计的无辜土耳其人因为一行计算机代码被关押
+https://www.solidot.org/story?sid=55385	41690
+未遂军事政变之后的大清洗中，数以万计的土耳其人遭到埃尔多安政府的关押，很多人遭到关押的理由非常荒谬，而其中一部分人<a href="http://www.cbc.ca/news/world/terrifying-how-a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail-1.4495021" target="_blank"><u>仅仅是一行计算机代码</u></a>。土耳其指责流亡在美国的伊斯兰教士 Fethullah Gulen 是军事政变的幕后策划者，而 Gulen 分子被指使用了一个鲜为人知的消息应用 ByLock 进行通信。在政变失败后，使用或安装了 ByLock 应用的土耳其人大都遭到了逮捕。但一部分被关押的人不是因为安装了应用而是因为 ByLock 网站 Bylock.net 使用的 1x1 大小的透明像素。该透明像素被安全专家认为是故意设计的陷阱，怀疑 ByLock 的作者并不是真正的 Gulen 组织成员。问题是 ByLock 的透明像素不只是被 ByLock 使用，还被音乐应用和祷告提醒应用使用。许多被捕的人最终洗清了罪名，但他们的工作和生活已经遭到了严重破坏，比如自己和家人都失去了工作。
+➜婴儿最早接触的细菌来自何时
+https://www.solidot.org/story?sid=55386	43593
+怀孕后，人类胚胎开始形成一个重要的器官，它对胚胎的成长至关重要：胎盘。胎盘既是胚胎的生命线，又是它的监护者：它会把母亲血液中的氧气、营养和免疫分子输送给发育中的胎儿，它同时还是阻隔感染的屏障。1 个多世纪以来，医生一直认为它是无菌的，婴儿最早接触细菌<a href="https://www.nature.com/articles/d41586-018-00664-8" target="_blank"><u>被认为是在出生之时</u></a>。但研究人员从 2011 年开始<a href="http://news.sciencenet.cn/htmlnews/2018/1/401559.shtm" target="_blank"><u>质疑这个观点</u></a>。对胎盘样本的分析显示其中近 1/3 的胎盘样本中发现了细菌。如果母亲在子宫内把细菌传递给婴儿，那么胎盘中可能存在这种传递的证据，因为胎盘是连接母体与胎儿的纽带。
+➜旅行青蛙风靡中国
+https://www.solidot.org/story?sid=55387	44202
+日本一款以一只旅行的青蛙为主角的手游在短短数周内<a href="https://cn.nytimes.com/china/20180129/china-travel-frog-game/" target="_blank"><u>风靡中国</u></a>，以至于惊动了官媒。这款手游叫 Tabi Kaeru，即旅行青蛙，由日本公司 Hit-Point 开发。其游戏是这样的：一只青蛙坐在石屋里吃东西、看书，你则负责收集前院里的三叶草。三叶草可用来购买青蛙旅行时需要的食物。青蛙去旅行后，它会消失多久不确定。有时它会旅行几个小时，有时甚至几天。回来时，它会展示旅行时拍的照片和纪念品。这款游戏在社交媒体上引起了广泛的讨论，用户纷纷晒照展示自己的青蛙的冒险经历。这款游戏如此有吸引力的秘诀并非显而易见。但首先，这只青蛙很可爱。一些玩家说他们喜欢间接旅行的感觉。这款游戏也和抚养孩子联系密切。在青蛙出发去旅行之前，你必须为它打包午餐。并且在中文里，“蛙”和“娃”同音。
+➜Malwarebytes 两次释出存在问题的补丁
+https://www.solidot.org/story?sid=55388	45205
+安全公司 Malwarebytes 周末连续两次向客户推送了存在问题的补丁。第一个补丁导致该公司的安全软件占用了 90 % 左右的内存和 CPU 资源。在用户抱怨的官方论坛帖子里，该公司表示正竭尽所能解决问题。然而，一小时后推送的新更新并没有解决问题。部分用户报告重启后软件开始占用大量内存时整个系统被锁定。在<a href="https://blog.malwarebytes.com/malwarebytes-news/2018/01/important-web-blocking-ram-usage/" target="_blank"><u>官方博客</u></a>和论坛，CEO Marcin Kleczynski 发表了一则<a href="https://forums.malwarebytes.com/topic/220112-important-web-blocking-ram-usage/" target="_blank"><u>致歉声明</u></a>。
+➜Rocket Lab 的私人“卫星”遭到批评
+https://www.solidot.org/story?sid=55389	47147
+随着卫星发射成本的降低，我们可能有一天会在地球轨道上看到众多企业发射的“广告”，而新西兰私人太空公司 Rocket Lab 就率先开了这样一个先例。该公司在前不久的<a href="https://www.solidot.org/story?sid=55285" target="_blank"><u>发射</u></a>中将自己的一颗碳纤维球形卫星 <a href="http://www.thehumanitystar.com/" target="_blank"><u>Humanity Star</u></a> 发射到轨道上，这颗卫星的唯一作用是成为夜空中除月球之外最亮的星体，每 90 分钟绕地球一周，大约 9 个月后脱离轨道在大气层中烧毁。部分天文学家对此<a href="https://motherboard.vice.com/en_us/article/kznvzw/rocket-lab-humanity-star-astronomers-space-junk" target="_blank"><u>表达了不满</u></a>，认为它是太空垃圾或某种太空涂鸦。如果是成为夜空中最明亮星星之一，那么 Rocket Lab 的发射可能称不上成功，它在夜空中<a href="http://heavens-above.com/PassSummary.aspx?satid=43168&amp;lat=39.9329&amp;lng=116.3974&amp;loc=%e4%b8%ad%e5%9b%bd%e5%8c%97%e4%ba%ac%e5%b8%82%e4%b8%9c%e5%9f%8e%e5%8c%ba&amp;alt=55&amp;tz=ChST" target="_blank"><u>并不那么明亮</u></a>。

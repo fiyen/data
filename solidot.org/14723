@@ -1,0 +1,134 @@
+➜记者指控世博吉祥物涉嫌抄袭
+https://www.solidot.org/story?sid=17490	15120
+揪出Shizhao喜洋洋，三面红旗放光芒 写道<i> "<a href="http://gb.udn.com/gb/udn.com/NEWS/MAINLAND/BREAKINGNEWS4/5556065.shtml">联合新闻网消息</a>，23日上海世博局记者会上，美国全国公共广播电台驻沪分社首席记者<a href="http://twitter.com/limlouisa/status/12434024715">Louisa
+Lim</a>（林慕莲）指控世博会吉祥物“海宝”涉嫌抄袭。<br>
+林在会上用中文指责海宝抄袭美国卡通人物Gumby，并拿出海宝与Gumby的图片以证明其指控。林还出示两张图片指控中国馆的造型涉嫌抄袭日本建筑。<br>
+此前已有人发现<a href="http://www.chinasupertrends.com/haibao-has-growing-pains-a-branding-case-study-in-chin/">海宝和Gumby形象雷同</a>。"</i>
+➜那些相见恨晚的 JavaScript 技巧
+https://www.solidot.org/story?sid=17491	15840
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "JavaScript 的成功让人津津乐道，为 Web 网页编写 JavaScript 代码已经是所有 Web 设计师的基本功，这门有趣的语言蕴藏着许多不为人熟知的东西，即使多年的 JavaScript 程序员，也未能完全吃透。本文从7个方面讲述 JavaScript 中那些你不很熟知但非常实用的技巧（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K950.aspx">完整图文版</a>）。           简略语句
+<br> <br> <b>JavaScript 可以使用简略语句快速创建对象和数组，比如下面的代码：</b>
+<br> <br>可以使用简略语句如下：
+<br> <br>对象 car 就此创建，不过需要特别注意，结束花括号前一定不要加 ";" 否则在 IE 会遇到很大麻烦。
+<br> <br> <b>创建数组的传统方法是：</b>
+<br> <br>使用简略语句则：
+<br> <br> <b>另一个可以使用简略语句的地方是条件判断语句：</b>
+<br> <br>可以简略为：
+<br> <br>
+JSON 数据格式
+<br> <br> <a href="http://json.org/">JSON</a> 是 "JavaScript  Object Notation" 的缩写，由 Douglas Crockford 设计，JSON 改变了 JavaScript 在缓存复杂数据格式方面的困境，如下例，假如你要描述一个乐队，可以这样写：
+<br> <br>你可以在 JavaScript 中直接使用 JSON，甚至作为某些 API 的返回数据对象，以下代码调用著名书签网站 <a href="http://delicious.com/">delicious.com</a> 的一个 API，返回你在该网站的所有书签，并显示在你自己的网站：
+<br> <br>
+JavaScript 本地函数 (Math, Array 和 String)
+<br> <br>JavaScript 有很多内置函数，有效的使用，可以避免很多不必要的代码，比如，从一个数组中找出最大值，传统的方法是：
+<br> <br>使用内置函数可以更容易实现：
+<br> <br>另一个方法是使用 Math.max() 方法：
+<br> <br>你可以用这个方法帮助探测浏览器
+<br> <br>这解决了 IE 浏览器的一个问题，通过这种方法，你总是可以找到那个正确的值，因为浏览器不支持的那个值会返回 undefined。
+<br> <br>还可以使用 JavaScript 内置的 split() 和 join() 函数处理 HTML 对象的 CSS 类名，如果 HTML 对象的类名是空格隔开的多个名字，你在为它追加或删除一个 CSS 类名的时候需要特别注意，如果该对象还没有类名属性，可以直接将新的类名赋予它，如果已经存在类名，新增的类名前必须有一个空格，用传统的 JavaScript 方法是这样实现的：
+<br> <br>使用 split 和 join 方法则直观优雅得多：
+<br> <br>
+事件代理
+<br> <br>与其在 HTML 文档中设计一堆事件，不如直接设计一个事件代理，举例说明，假如你有一些链接，用户点击后不想打开链接，而是执行某个事件，HTML 代码如下：
+<br> <br>传统的事件处理是遍历各个链接，加上各自的事件处理：
+<br> <br>使用事件代理，可以直接处理，无需遍历：
+<br> <br>
+匿名函数与 Module 模式
+<br> <br>JavaScript 的一个问题是，任何变量，函数或是对象，除非是在某个函数内部定义，否则，就是全局的，意味着同一网页的别的代码可以访问并改写这个变量（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K875.aspx">ECMA 的 JavaScript 5 已经改变了这一状况</a> - 译者），使用匿名函数，你可以绕过这一问题。
+<br> <br>比如，你有这样一段代码，很显然，变量 name, age, status 将成为全局变量
+<br> <br>为了避免这一问题，你可以使用匿名函数：
+<br> <br>如果这个函数不会被调用，可以更直接为：
+<br> <br>如果要访问其中的对象或函数，可以：
+<br> <br>这就是所谓 Module 模式或单例模式（Singleton），该模式为 Douglas Crockford 所推崇，并被大量应用在 <a href="http://developer.yahoo.com/yui">Yahoo User Interface Library  YUI</a>。
+<br> <br>假如你想在别的地方调用里面的方法，又不想在调用前使用 myApplication  这个对象名，可以在匿名函数中返回这些方法，甚至用简称返回：
+<br> <br>
+代码配置
+<br> <br>别人使用你编写的 JavaScript 代码的时候，难免会更改某些代码，但这会很困难，因为不是每个人都很容易读懂别人的代码，与其这样，不如创建一个代码配置对象，别人只需要在这个对象中更改某些配置即可实现代码的更改。这里有一篇 <a href="http://www.wait-till-i.com/2008/05/23/script-configuration/">JavaScript 配置对象详解</a>的文章，简单说：
+<ul>
+<li>在代码中创建一个叫做 configuration 的对象</li>
+<li>里面保存所有可以更改的配置，如 CSS ID 和类名，按钮的标签文字，描述性文字，本地化语言设置</li>
+<li>将该对象设置为全局对象，以便别人直接访问并改写</li>
+</ul>
+你应当在最后一步做这项工作，这里有一个文章，<a href="http://www.wait-till-i.com/2008/02/07/five-things-to-do-to-a-script-before-handing-it-over-to-the-next-developer/">交付代码前的5件事</a>值的参考。<br> <br>
+同后台交互
+<br> <br>JavaScript 是一门前台语言，你需要别的语言同后台交互，并返回数据，使用 AJAX，你可以让 JavaScript 直接使用同后台的交互，将复杂的数据处理交由后台处理。
+JavaScript 框架
+<br> <br>自己编写适应各种浏览器的代码是完全浪费时间，应当选择一个 JavaScript 框架，让这些复杂的事情交给框架处理。
+更多资源
+<ul>
+<li> <a href="http://yuiblog.com/crockford/">Douglas Crockford on JavaScript</a> <br> JavaScript 深度视频教程</li>
+<li> <a href="http://dev.opera.com/articles/wsc/">The Opera Web Standards  Curriculum</a> <br> JavaScript 详解</li>
+</ul>
+延伸阅读
+<ul>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K902.aspx">有关 JavaScript 的 10 件让人费解的事情</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K869.aspx">新 API 寻求让 JavaScript 操作本地文件</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K804.aspx">让 JavaScript 拯救 HTML5 的离线存储</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K833.aspx">开源项目越来越青睐 JavaScript</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/TeamBlogTimothyPage_K474.aspx">Javascript 是一个错误吗？</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K463.aspx">Javascript 2 前途尘埃落定</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K866.aspx">Google 排名中的 10 个最著名的 JavaScript 库</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K875.aspx">ECMA 推出 JavaScript 5</a> </li>
+</ul>
+本文国际来源：Smashing Magazine <a href="http://www.smashingmagazine.com/2010/04/20/seven-javascript-things-i-wish-i-knew-much-earlier-in-my-career/">Seven JavaScript Things I Wish I Knew Much Earlier In My Career</a> （原文作者：<a href="http://www.smashingmagazine.com/author/christian-heilmann/">Christian  Heilmann</a>）
+<br> <br>中文编译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b> 网站内容管理系统</a> 官方网站"
+➜Google和Facebook不适合12岁以下青少年
+https://www.solidot.org/story?sid=17492	16200
+<a href="http://yi-it.com/blog/">papa.mama.not.easy2</a> 写道 <i>"英国一家名为 <a href="http://www.techradar.com/news/internet/facebook-and-google-given-bbfc-12-rating-685243">Tabboh</a>的ISP提供给客户和家长一个新的互联网过滤系统，这个系统采用著名的英国电影分级机构（BBFC）的年龄分级标志。在这个评级标准下，<a href="http://yi-it.com/blog/?p=254">社会化网站Facebook和Twitter、搜索引擎Google和Bing都被评级为12岁以上内容</a>。"</i>
+➜南方公园fans回击穆斯林网站
+https://www.solidot.org/story?sid=17493	16500
+Best Friends Forever 写道<i> "数日前对南方公园作者提出暴力威胁的穆斯林极端网站revolutionislam.com<a href="http://gawker.com/5522966/south-park-fans-spoof-islamic-website-updated">被南方公园fans黑掉</a>，首页被贴上了2005年丹麦漫画事件中被指称冒犯穆罕默德先知的漫画。<br>
+revolutionislam.com网站成员默哈默德对记者表示这次黑客行为没有意义，因为他们的网站本就因为流量过载而挂掉。他认为如果这些黑客要展示对美国的污秽和垃圾的支持的话，这倒是好事。“作为穆斯林，我们已经知道事情的结局。”这个结局是指“穆斯林将接管整个世界。”"</i>
+➜Matt Cutt和Google工程师关闭Facebook账户
+https://www.solidot.org/story?sid=17494	16800
+<a href="http://yi-it.com/blog/">take.IT.easy</a> 写道 "Matt Cutts的一条<a href="http://twitter.com/mattcutts/status/12677133480">tweet</a>说他已“<a href="http://yi-it.com/blog/?p=243">停用（deactived，停用但没有关闭）”他的Facebook账户</a>：
+<i>
+他在<a href="http://gigaom.com/2010/04/22/your-moms-guide-to-those-facebook-changes-and-how-to-block-them/">GigaOM</a>的一个帖子解释如何屏蔽用户的“即时个性化（instant personalization）“的一些变化，这个功能是Facebook在周三才部署的开放图表计划（Open Graph announcements）的一部分。
+<br>这次Matt反应很激烈，这是他对facebook隐私政策的抗议或一种关注呢？
+</i>后记：很明显这并不是Matt一个人的行为，<a href="http://searchengineland.com/matt-cutts-deactivates-facebook-account-40543">其他Google工程师也在这么做</a>：<a href="http://bit.ly/dwKHim">http://bit.ly/dwKHim</a>。
+"
+➜中国再次在审查问题上抨击Google
+https://www.solidot.org/story?sid=17495	19200
+Google前几天出于透明度的考虑，公开了<a href="__SLASHLINK__" sect="internet" sid="10/04/21/010245" sn="article" tid="120">各国政府要求的内容删除和索取用户数据次数</a>，其中表明中国将此类要求视作是国家机密，所以Google没有公布中国的数据。然而昨天新华社发表了一篇评论员文章，<a href="http://news.163.com/10/0423/14/64VBH29L000146BD.html">再次在审查问题上抨击Google</a>。
+<i>
+wwjcn 写道 "沉寂了些许时日的谷歌再爆新闻。《华尔街日报》21日报道，面对英、法、加等10国对其保护用户隐私不力的指责，谷歌反戈一击，于20日公布了各国政府机构向它索取用户数据的次数，以及要求它删除某些内容的次数。谷歌提供的数据显示，从2009年7月1日至12月31日，巴西政府索取用户数据的次数最多，达到3663次。美国政府索取次数为3580次，位居第二。在要求删除网上内容的次数方面，巴西同样居首，达到291次；排在后面的依次为德国、印度和美国。谷歌称因法律原因未列出中国相关数据。谷歌的还击确实有力。数据在说话：“别光批评我谷歌保护用户隐私不力，你们这些政府不也在窥探用户隐私、审查网络内容吗？”谷歌应该没有忘记，一个月前，当它决定离开中国内地的时候，理由同样是政府的审查。当时，谷歌站在“道德制高点”上宣布，要“提供未经审查的网络服务”。据此原则行事，谷歌是不是也应该离开监管甚严的美国呢？.....谷歌的数据告诉人们，它并不拒绝审查，甚至不拒绝政治审查；它拒绝的是多样化的社会制度，它拒绝的是美国“思想霸权”无法覆盖的国家。"</i>
+➜Google街景车记录WIFI热点和MAC地址
+https://www.solidot.org/story?sid=17496	21300
+The Register<a href="http://www.theregister.co.uk/2010/04/22/google_streetview_logs_wlans/">报道</a>，Google街景车不仅仅拍摄沿途的照片，还会<a href="http://yro.slashdot.org/story/10/04/23/0522228/Google-Street-View-Logs-Wi-Fi-Networks-MAC-Addresses">记录周围的WIFI热点以及MAC地址</a>。<i>
+Google虽然模糊了拍摄到人脸，但却记录下了他们的号码。Google街景服务因为扫描私人的WLAN网络和记录下用户独一无二的MAC(Media Access Control)地址而在德国遭到猛烈批评。德国联邦数据保护专员Peter Schaar要求Google立即删除非法收集的个人的无线网络数据，停止街景车活动。Google CEO Eric Schmidt最近曾表示，互联网用户不应该担心隐私，除非他们有什么见不得人的秘密。</i>
+➜HTC退出，竞购Palm只剩联想
+https://www.solidot.org/story?sid=17497	22560
+两周前彭博社报道，<a href="__SLASHLINK__" sect="hardware" sid="10/04/12/0637229" sn="article" tid="54">Palm公司正在寻找可能的买家</a>，台湾的HTC和中国大陆的联想公司最有可能提出收购要约。<i>
+现在HTC已经退出，<a href="http://www.osnews.com/story/23200/HTC_Declines_to_Bid_for_Palm_Palm_Open_to_Licensing_webOS">竞购Palm目前所知只剩下联想一家</a>，这一消息也推动联想股价上涨了5.9%。一位台北的分析人士称，收购Palm的最合适人选将是一家大陆企业，他们手中有很多现金，在美国也不存在品牌冲突。与此同时， Palm的 CEO Jon Rubinstein仍然相信，公司可以独立生存，他们有一个盈利计划，正在努力推出更多新款手机。Rubinstein称，如果有人能给出合理价格，他们也会认真考虑。Palm还计划开放授权webOS手机操作系统。</i>
+➜你不知道的哈勃太空望远镜的十项秘密
+https://www.solidot.org/story?sid=17498	27900
+<a href="mailto:fishdrowned@21cn.com">Fishdrowned</a> 写道 "<a href="http://www.sciencenet.cn/m/user_content.aspx?id=315493">蒋迅的博客</a> 译文:
+1990年4月24日，发现者号航天飞机把哈勃太空望远镜 (Hubble Space Telescope) 送上了太空，这是有史以来发射过得最大的最敏感的太空望远镜。这次发射带来了天文学界的革命，它发回了一些人们见到过的最令人惊讶最美丽的天文照片。可以说，哈勃太空望远镜是大多数人可以叫的出名的唯一的天文望远镜。作为“十项系列”的一部分，天文学家菲尔·普莱特 (<a href="http://www.badastronomy.com/">Phil Plait</a>，国内许多网站说他是宇航员，这是误传) 发表了这个“你不知道的哈勃太空望远镜的十项秘密”。他相信几乎可以100%地说，没有人事先知道所有这十项秘密。
+<ol> <li>哈勃拍摄了最深层空间可见光的照片</li>
+<li>月球没有亮到不能用哈勃观测</li>
+<li>哈勃经常观测地球</li>
+<li>哈勃曾有一次观测…等等…再等等…太阳</li>
+<li>哈勃看不到月球上的阿波罗的人造物</li>
+</ol>
+NASA官方的<a href="http://www.nasa.gov/mission_pages/hubble/science/hubble20th-img.html">哈勃升空20周年纪念</a>"
+➜HDTV正在摧毁LCD显示器市场
+https://www.solidot.org/story?sid=17499	41280
+微软.NET架构师、高级项目经理Pete Brown在博客上抱怨<a href="http://10rem.net/blog/2010/04/22/rant-hdtv-has-ruined-the-lcd-display-market-or-i-want-my-pixels-and-dpi-now">HDTV正在摧毁LCD显示器市场</a>。<i>
+他举例说，LCD显示器最初全是4:3比例，后来变成了16:9。虽然显示屏越来越大，但分辨率也在缓慢而稳定的增长。然而随着HDTV概念的出现，突然之间市场上所有的显示屏分辨率都是1920x1080"1080p HD" ，显示屏尺寸变大的同时分辨率却没有变化，换句话说DPI(每英寸点数)变得越来越小了，我们能清楚的看见粗大的像素。他认为我们能制造出更高DPI的面板，技术上没有问题，只是面板制造商没去做而已。</i>
+➜没有水或食物人类能生存多久
+https://www.solidot.org/story?sid=17500	43920
+《新科学家》<a href="http://www.newscientist.com/article/mg20627562.000-maxed-out-how-long-could-you-survive-without-food-or-drink.html">报道</a>，没有水或食物人类能生存多久？从理论上讲，是在消耗完体内脂肪、蛋白质和碳水化合物，消耗掉所有能量后身体的功能便中止了。但实际上死亡肯定早在这之前就发生了。<i>
+退休医生Jeremy Powell-Tuck指出，如果能获得足够至关重要的水溶性维生素B，帮助新陈代谢脂肪，那么胖子可以生存得更久。但如果没有上述条件，胖子会在仍然肥胖的情况下饿死。最长的挨饿记录是爱尔兰人 Kieran Doherty在1981年创下的，他在禁食73天后死亡。如果能供应维他命和水，人类能在不进食的情况下生存一年，30年前这一度是流行的减肥方法。如果只提供维他命而不提供水，生存时间则会大幅减少。一个人能没有食物生存数周，但没有水则会在数天内渴死。美国陆军环境医学研究所的Michael Sawka说，生存时间取决于水损失的速度。没有水，血液量和血压会下降。血液会变得粘稠，在人体内难以流动，因此为了促进血液循环心跳速度不得不加快。即使是在凉快的地方，没有水你也活不过一周。</i>
+4月13日，唐山劳教所发生了一起所谓的“<a href="http://images.google.com.hk/images?um=1&amp;hl=zh-CN&amp;safe=strict&amp;client=firefox-a&amp;rls=org.mozilla:zh-CN:official&amp;source=og&amp;tbs=isch:1&amp;q=%E9%AA%B7%E9%AB%85%E6%AD%BB&amp;sa=N&amp;start=21&amp;ndsp=21">骷髅死</a>”。
+➜气候科学家反击报道气候门的媒体
+https://www.solidot.org/story?sid=17501	46800
+英国《卫报》<a href="http://www.guardian.co.uk/environment/2010/apr/22/climate-change-libel-action-canada-national-post">报道</a>，联合国政府间气候变化专门委员会（IPCC）2007气候报告的主要作者，著名的气候科学家Andrew Weaver对一家加拿大报纸提起了<a href="http://www.desmogblog.com/sites/beta.desmogblog.com/files/Weaver%20vs%20Corcoran.pdf">诽谤诉讼</a>（PDF），指控对方发表的文章<a href="http://science.slashdot.org/story/10/04/23/1849217/Climate-Researchers-Fight-Back">“毒害”了全球变暖争论</a>。
+<i>
+Andrew Weaver是加拿大维多利亚大学的气候模型师，他不仅要求加拿大《国家邮报》从它的网络上删除文章，还要求删除众多博客和网站转载的文章。Weaver称关于气候研究可靠性的一系列文章含有极其不负责任的谎言，Weaver是在《国家邮报》拒绝撤下文章后提起了上诉。Weaver称，如果他什么都不做，那么关于他的诽谤言论会永远的留在互联网上，他们“毒害”了事实记录，误导了寻找可靠全球变暖科学信息的民众。《国家邮报》从去年12月到今年2月共发表了4篇气候门相关文章，指控Weaver有选择性的筛选数据支持他的气候研究，以及试图怪罪于“邪恶的化学能源”企业闯入他的办公室，以转移民众注意力。</i>
+➜LinuxToy临时关闭
+https://www.solidot.org/story?sid=17502	48000
+buzz 写道 "国内Linux资讯站LinuxToy宣布因为流量过大而<a href="http://linuxtoy.org/archives/log.html">临时关站</a>。<br>
+<i>
+本站所在的服务器空间商以一种被称为 GPU 的东东来衡量 CPU 的使用情况，每月可以使用 1000 GPU，超出的部分将需要额外买单，以 $0.1 USD/GPU 计费。上月本站为此多支付 $33.7 USD，根据估算，本月将多用 376 GPU。对这样一个小站来说，实在有点难以承受。
+</i>
+<a href="http://linuxtoy.org/faq/donate">捐赠LinuxToy</a>是一个暂时的解决方法，投放广告，或者是收费订阅等等也是可能的方法。"

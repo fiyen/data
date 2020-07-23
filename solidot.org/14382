@@ -1,0 +1,93 @@
+➜Danger Mouse用空白CD-R光盘刁难EMI
+https://www.solidot.org/story?sid=11381	60
+<a href="http://en.wikipedia.org/wiki/Danger_Mouse">DJ Danger Mouse</a>最为著名的事迹是在2004年推出了《灰色专辑》，混合了披头士的《白色专辑》和Jay-Z的《黑色专辑》，结果惹恼了披头士版权拥有者百代唱片（EMI），因此发出了禁止通知函，此事引发了唱片公司遏制音乐创新的争论。<i>
+现在Danger Mouse将推出<a href="http://www.techdirt.com/articles/20090515/1154504899.shtml">最新专辑</a>，但这次他不想再与百代唱片公司进行对抗。Danger Mouse将<a href="http://entertainment.slashdot.org/article.pl?sid=09/05/16/0257212&amp;from=rss">出售一张空白的CD-R光盘</a>和100+的限制版插图和照片，购买者负责去寻找音乐（当然，互联网上可以找到）和刻录光盘，光盘的表面贴有标记“出于法律理由，CD-R不包含音乐。你想怎么用就怎么用。”。</i>
+➜DisplayLink发布LGPL USB显示代码
+https://www.solidot.org/story?sid=11382	1800
+DisplayLink提供了USB接口的视频输出转换芯片，可以方便连接多台显示器，但它的<a href="http://www.mimomonitors.com/products/mimo-740">驱动</a>只支持Windows操作系统，和基于Intel芯片的苹果电脑。现在，USB视频输出芯片不久之后也能在Linux上使用，因为<a href="http://displaylink.org/">DisplayLink</a>已发布了采用LGPL许可证的代码库。虽然DisplayLink不是大的硬件制造商，但看到越来越多的制造商拥抱开源路线也是令人欣慰的。Linux版的家庭影院个人电脑或许会越来越流行。
+➜自我控制的秘密
+https://www.solidot.org/story?sid=11383	2160
+40年前，斯坦福大学的心理学教授Walter Mischel提出了“棉花糖测试（<a href="http://en.wikipedia.org/wiki/Marshmallow_Test">Marshmallow Test</a>）”，一个针对儿童的心理学实验，主要是测试儿童的自我控制和延迟满足的能力。<i>
+研究人员向小朋友们提供一项建议——他或她可以立即吃下一块棉花糖（棉花糖是其最爱零食），或者等候几分钟后能吃到两块棉花糖，然后他离开让孩子自己做出选择。<a href="http://blog.huanglee.net/2009/02/05/marshmallow-test/">研究显示</a>，自我控制能力是人生能获得成功的重要特质。后续的追踪研究发现，当年能通过棉花糖测验的儿童，在青少年时期通常更有信心、更有专注力、也更可以信赖。甚至在SAT测验的平均成绩也较高。5月18日的《纽约客》杂志上的一篇文章描述的就是<a href="http://www.newyorker.com/reporting/2009/05/18/090518fa_fact_lehrer?currentPage=all">Walter Mischel和他的棉花糖测试</a>，以及参与测试儿童成年后的经历，揭开了一个秘密——见小利则无法成大事。</i>
+➜科学家发现猴、猿和人类的共同祖先
+https://www.solidot.org/story?sid=11384	5400
+《华尔街日报》<a href="http://online.wsj.com/article/SB124235632936122739.html">报道</a>，科学家发现了<a href="http://science.slashdot.org/article.pl?sid=09/05/16/1613234">猴、猿和人类的共同祖先</a>。古生物学家宣布在德国发现了一个有4700万年历史的灵长类动物化石，从外形上看它类似于今日的狐猴。<i>
+本周二纽约市长Michael Bloomberg和发现该化石的国际研究小组将在美国自然历史博物馆公开骨骼的真面目。化石残留物属于一只年轻的雌性<a href="http://en.wikipedia.org/wiki/Adapid">adapid</a>（大约5500万年到3400万年前生活在北美、欧洲、亚洲和非洲的一种灵长类动物），2年前被挖掘出来后就被密封保护。这次发现意义重大，因为化石相当完整，以前发现的绝大多数古代灵长类动物化石都只是身体的一小部分，如牙齿和下颌骨。</i>
+➜Oracle和MySQL：联盟还是死亡？
+https://www.solidot.org/story?sid=11385	6000
+<a href="http://www.ajax-cms.org/">奥杰cms</a> 写道 "让业界人士惊讶的是，紧随着和IBM公司的谈判破裂，甲骨文公司以74亿美元收购了Sun微系统公司。Sun公司的未来似乎是不确定的，很少有人会期待甲骨文公司会耐心等待（尽管它解释了为什么太阳公司不和IBM合作）。<a href="http://www.sitepoint.com/blogs/2009/04/26/oracle-sun-mysql/">有几个很好的理由可以说明ORACLE公司希望这样</a>：<br>
+1 、Sun公司的硬件和后备解决方案对Oracle的软件有很大的好处<br>
+2 、Java编程语言<br>
+3 、VirtualBox虚拟机软件<br>
+4 、OpenOffice和MySQL（世界上最流行的开源数据库）"           虽然MySQL和Oracle公司不是完全直接的竞争对手，有人认为Oracle可以会危及竞争对手的数据库。但这可能是很因难的，因为MySQL是开放源代码的，所以任何人都可以为之做出贡献。然而Oracle公司却得不到这样的优势。<br>
+考虑到反竞争法的缘故，Oracle也可能不想要MySQL，他可以把MySQL卖给另一家公司——但微软还会有兴趣买吗？<br>
+然而，我怀疑Oracle宁愿保有MySQL;他们将控制更大的数据库市场份额，并且可能利用现有的用户资源。他们会提供进一步的投资，并创造条件来加强二者系统关系。这对那些需要更强大的数据库设施的用户来说提供了一个简便的升级途径。<br>
+不幸的是，随着公司的结构和财政出现问题，许多的MySQL领导人和开发商已经离开Sun公司。迈克尔维德纽斯是数据库的创始人和原始开发商，他已宣布，他将雇用所有MySQL的核心人员并交叉两种项目，就是为了建立一个独立和真正的开源的实体。他准备与Oracle公司紧密合作，以确保MySQ在客户、开发人员和用户的支持下以开放的方式是积极发展。<br>
+无论发生什么事情， MySQL的未来看来是有保证的。然而，该项目的方向将是不确定的，谁知道还会不会有什么拉里埃里森计划？<br> <br>
+本文国际来源:http://www.sitepoint.com/blogs/2009/04/26/oracle-sun-mysql/<br>
+本文中文来源：网站建设专家奥杰cms  作者：抢滩登陆
+➜电脑共享多普达手机上网简便方法
+https://www.solidot.org/story?sid=11386	6300
+<a href="http://www.laozhe.net/">ShunYea</a> 写道 "家里只拉了一根网线，但是有两台电脑，没有路由器，懒得去弄，经常上网是一台上好了再给另一台上。手里有台多普达的手机，型号S500，经常用其上网。一直在想，能不能把电脑与这台多普达相连而实现电脑用多普达手机当Modem上网呢？虽然S500只是1X手机，但是如果只是聊天，玩玩斗地主，甚至只是随便看看网页，这个网速足够了。           上网找了很多资料，大多数是针对GSM手机的，而且要装软件在电脑或者手机上，不是很理想。<br> <br>　　无意中在通讯管理里面发现了一个Internet共享的选项，恩，有点意思，点击去看到了“PC连接”和“网络连接”的下拉菜单，一看就有戏。凭感觉，将手机用数据线连接到了电脑，MICROSOFT ACTIVESYNC提示连接上了，然后“PC连接”选择USB，“网络连接”选择互联网，点击左下角的连接按钮。右下角开始出现发现新硬件，是Modem，呵呵，感觉就肯定是这个了。<br> <br>　　待连接完毕，就可以直接上网了，甚是方便。<br> <br>　　使用完毕，点击断开就可以了。注：电脑上必须安装MICROSOFT ACTIVESYNC，否则上述操作无效。"
+➜识别论文剽窃的软件
+https://www.solidot.org/story?sid=11387	9120
+巴塞罗那Symmetric公司<a href="http://www.elmundo.es/elmundo/2009/05/14/navegante/1242288510.html">开发</a>出一款<a href="http://www.yeeyan.com/articles/view/16404/41394">用来发现网络学术剽窃的软件Approbo</a>，支持Microsoft Office，Adobe Reader或者OpenOffice，如果一段文字和某个网页上的文字出现雷同，无论是全文还是部分，它都将清楚的将相同部分标示出来。<i>
+软件首先利用搜索引擎来寻找提交的文章和网上的文章之间的相似部分，之后逐字逐句的对照比较，并以图像的方式展示。从搜索到显示结果只需几秒钟。如果是篇幅比较长的文章，如200页左右，最多需要2分钟。</i>
+顺便提一句，雅虎资助了<a href="http://www.webis.de/pan-09/competition.php">第一届国际剽窃检测竞赛</a>，比赛内容包括翻译剽窃，比如将英文文章翻译成中文之类；随机剽窃，用打乱段落和语句的次序，添加或删减、甚至替换词语等方法，故意模糊被剽窃的文章。竞赛目的是寻找到最佳的<a href="http://developers.slashdot.org/article.pl?sid=09/04/28/1449221&amp;from=rss">检测出剽窃的方法</a>。
+➜加拿大政府审查Youtube上的议会听证会视频
+https://www.solidot.org/story?sid=11388	10800
+加拿大政府向Youtube发送了一封<a href="http://www.michaelgeist.ca/content/view/3953/135/">删除通知函</a>，要求Youtube<a href="http://yro.slashdot.org/article.pl?sid=09/05/17/2151216">删除议会听证会视频</a>。加拿大下议院律师称未经许可就使用视频构成了版权侵犯和对议会的藐视。早在2007年，<a href="http://www.friends.ca/">Friends of Canadian Broadcasting</a>就在他们的网站上发布议会听证会视频和音频，随后就收到了删除通知函，Friends拒绝删除视频，但表示会设法获得议会的使用许可。
+➜SGI还活着，至少名字被保留了
+https://www.solidot.org/story?sid=11389	13320
+硅谷图形公司（SGI）上个月宣布破产，随后Rackable Systems宣布以大约2500万美元现金<a href="__SLASHLINK__" sect="it" sid="09/04/02/1453228" sn="article" tid="54">收购SGI剩余资产</a>。4月30日破产法庭接受了Rackable收购SGI，Rackable上周正式宣布合并后的<a href="http://slashdot.org/article.pl?sid=09/05/12/0136233&amp;from=rss">公司名称仍然叫SGI</a>——是硅谷图形国际公司（Silicon Graphics International）的缩写，而非原来的Silicon Graphics公司。<i>
+保留SGI品牌可能会让缅怀硅谷光荣历史的人们感到高兴，毕竟SGI曾经是硅谷的标志。但另一些人认为新的名字有点奇怪，Rackable是服务器市场的新力军，而SGI已是垂暮老矣。Rackable高管希望新的名称能帮助扩大海外服务器的市场，在海外SGI的品牌仍然是如雷贯耳。Rackable总裁和CEO表示，新SGI会继续开发和支持高性能计算系统。</i>
+➜海洋环流的运动过程与预测不相同
+https://www.solidot.org/story?sid=11390	20700
+诺贝尔和平奖得主戈尔使用气候模型预言，全球变暖引起的海平面上升，最终可能淹没各大陆的沿海地区，科学家一直质疑他所用气候模型的精确性，现在一项新的发现再次证明<a href="http://news.slashdot.org/article.pl?sid=09/05/15/1355259&amp;from=rss">人类对地球仍然知之甚少</a>。研究发现长期以来一直被认可的<a href="http://deepseanews.com/2009/05/deep-ocean-conveyor-belt-reconsidered/">深海洋流模型</a>是不精确的，被过度的简单化了。研究报告发表在5月14日出版的《自然》杂志上。<i>
+有50年历史的全球热盐<a href="http://zh.wikipedia.org/w/index.php?title=%E6%B5%B7%E6%B4%8B%E7%92%B0%E6%B5%81&amp;variant=zh-cn">环流</a>（global thermohaline circulation）模型预测墨西哥湾暖流下存在一深海大西洋逆流，现在该理论正式受到了怀疑。研究人员使用分布在水下700米到1500米的RAFOS浮标群发现，超过80%的RAFOS浮标脱离深海西岸界流（Deep Western Boundary Current，简写DWBC），漂流到了开放海域。这一发现证实了从1990年代以来就开始出现的怀疑，可能将严重影响气候变化的全球模型。</i>
+➜FMRI显示男人爱妻子甚于安吉丽娜朱莉
+https://www.solidot.org/story?sid=11391	24120
+一个男人，一台机器，两个女人（他的妻子和安吉丽娜朱莉）在他大脑中努力博取他的欢心和爱意，他能从她们当中寻找到爱之真谛吗？A.J.Jacobs志愿充当实验对象，使用核磁共振成像仪（FMRI）拍下大脑活动，<a href="http://www.esquire.com/features/mri-of-love-0609">探索他性冲动背后的科学</a>。<i>
+实验中，Jacobs从显示屏上观看了多幅妻子和迷人妩媚的安吉丽娜朱莉的性感照片。FMRI影像显示，相对于安吉丽娜朱莉，他更爱自己的妻子，对妻子的性冲动更强烈。他的妻子听闻后说，“如果你没有发现安吉丽娜朱莉更有性吸引力的话，那一定是你有毛病了。”文章还提到了对中国人的爱情研究，发现和美国人相比，中国人表现情感时更谨慎，而且令人好奇的是，他们更乐意向负面的特征展现出爱意，比如西子捧心之类那种楚楚可怜的形象。</i>
+➜秘密的欧盟开源迁移成本研究泄漏
+https://www.solidot.org/story?sid=11392	28440
+2005年，欧盟委员会委托调研机构Gartner完成了一项开源迁移成本研究，但从来没有向外公开，即使欧洲议会IT监督委员会委员<a href="http://lnx.marcocappato.it/node/38918">Marco Cappato</a>再三要求获取报告，也都被断然拒绝。现在秘密的<a href="http://linux.slashdot.org/article.pl?sid=09/05/15/1229231">欧盟开源迁移成本研究被泄漏</a>，局外人终于能一睹<a href="http://www.stefanoforenza.com/blog/wp-content/uploads/2009/05/studio-free-software-cii-ep-2009-21366-annex.pdf">报告</a>(PDF)的真面目。<i>
+Gartner报告的结论是：“微软承诺任何版本的Windows支持有10年长，并不意味着你真的需要使用那么长时间；Linux是免费的，但并不意味着它很廉价”。Gartner的研究人员Michael Silver称他没看到Linux桌面的大规模部署，也很少看到StarOffice/OpenOffice.org的使用。报告更像是给Windows和MS Office张目，宣扬开源和Linux的FUD。</i>
+➜Take-Two起诉3D Realms
+https://www.solidot.org/story?sid=11393	30000
+开发《永远的毁灭公爵的》3D Realms工作室因为Take-Two不继续提供资金而陷入无米下炊的境况，最终宣布破产，并<a href="__SLASHLINK__" sect="games" sid="09/05/07/0524239" sn="article" tid="121">终止跳票王《永远的毁灭公爵》的开发</a>。<i>
+但问题是Take-Two之前已经预付1200万美元给3D Realms，获得游戏的独家代理权。现在Take-Two什么都没得到，当然不会就此罢休，它<a href="http://games.slashdot.org/article.pl?sid=09/05/15/065205&amp;from=rss">正式起诉3D Realms</a>，指责对方没有如期提供游戏以供发行，违反了他们之间的协议。Take-Two抱怨3D Realms屡次拖延游戏的完工日期，还信誓旦旦的再三保证他们距离游戏完成之日越来越近了。或许Take-Two最终能获得未完成版的《永远的毁灭公爵》，至于是否会继续开发或利用现有版本，还很难说。</i>
+➜基于视觉审美的图像评分系统
+https://www.solidot.org/story?sid=11394	32400
+宾夕法尼亚州立大学的研究人员发布了新的基于视觉审美的<a href="http://live.psu.edu/story/39575">在线图像评分系统</a>，取名为<a href="http://acquine.alipr.com/">Acquine</a>，是审美推理引擎（Aesthetic Quality Inference Engine）的缩写，它能够自动判断一幅照片的美学价值。系统的主要开发者是<a href="http://ritendra.weebly.com/">Ritendra Datta</a>博士（现在是Google工程师）、<a href="http://www.stat.psu.edu/~jiali">Jia Li</a>教授和 <a href="http://wang.ist.psu.edu/">James Z.Wang</a>教授，于4月份上线，用户可以上传图片或输入图片的URL地址，要求图像格式是JPG或PNG，大小在10K到2MB之间。<i>
+Acquine能根据先前评分的图片，从中萃取并学习人类判断图片视觉特征的方式。它主要设计用于评估专业彩色照片的审美品质，而不是CG，图表、油画、合成图，或者是随意拍摄的家庭照片。想了解Acquine的工作原理和相关技术文档可访问<a href="http://acquine.alipr.com/about.html">这个网页</a>。</i>
+➜10大令人失望的技术
+https://www.solidot.org/story?sid=11395	34920
+许多新产品一推出，就伴随着无数天花乱坠的宣传，通常除了企业销售部门之外，没人会相信这些话。甚至每隔一段时间，上至执行官下至分析人士，甚至连顽固的记者都深信不疑，认为一款新的产品能改变IT世界，但实际上他们<a href="http://tech.slashdot.org/article.pl?sid=09/05/17/2249254">通常都是错误的</a>。PC Authority列出了<a href="http://www.pcauthority.com.au/News/145271,top-10-disappointing-technologies.aspx">10大宣传过度的产品和技术</a>。分别是：<i>
+生物特征识别技术，Ubuntu（除非OEM开始大规模预装，否则它只能栖身于Linux爱好者中间）——提名，后面是正式名单——虚拟现实，替代搜索引擎，语音识别，Apple Lisa，10GB网络，FireWire，蓝牙，安腾处理器，Zune播放器，Windows Vista。</i>
+➜全球首个水下博物馆今日重庆开幕
+https://www.solidot.org/story?sid=11396	37200
+<a href="http://szlug.org/">权相龙</a> 写道 "
+重庆水下博物馆<a href="http://zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%A4%E6%A2%81%E9%A2%98%E5%88%BB">白鹤梁</a>博物馆，今日开幕。观众可以在四十米深的水下，观赏到有“<a href="http://www.hkatvnews.com/v3/share_out/_content/2009/05/18/atvnews_129647.html">世界第一水文站</a>”之称的白鹤梁古代水文石刻原址。<i>
+要进入博物馆，首先要经过严密的保安检查，之后就可以搭乘扶手电梯，落去四十米深的地下，去到一个环型长廊，每隔一米就有一个圆形观景窗，观众可以观赏到白鹤梁原址的石碑和题刻，还可以透过轻触式银幕，选择自己想看的景像，或者了解更多白鹤梁的背景资料。白鹤梁是古代水文石刻，位于重庆涪陵，长达一点六公里，纪录了一千二百年来的水文资料及历代文人墨客留下的诗文真迹题刻。白鹤梁有“长江第一文物”之称，是后人研究长江水文的重要资料来源。随着三峡大坝的兴建，白鹤梁永远淹没在江底。当局用了六年时间，耗资一点九亿元人民币对它进行原址保护，建成这座全球唯一的水下博物馆。"</i>
+➜Office 2010技术评估版泄漏
+https://www.solidot.org/story?sid=11397	38700
+微软正计划在6月向挑选出来的测试人员分发<a href="http://tech.slashdot.org/article.pl?sid=09/05/17/1511233">Office 2010的首个技术评估版</a>，现在已提前泄漏到了<a href="http://www.mininova.org/tor/2595703">BT网站</a>。<i>
+Office 2010分为32位版和64位版，版本号是build 14.0.4006.1010，包括Access 2010、Excel 2010、InfoPath 2010、OneNote 2010、Outlook 2010、PowerPoint 2010、Project 2010、Publisher 2010、SharePoint Designer 2010、SharePoint Workspace 2010、Visio 2010和Word 2010。Ars Technica公开了各个办公组件的<a href="http://arstechnica.com/microsoft/news/2009/05/leaked-office-2010-technical-preview-screenshots.ars">屏幕截图</a>，只从菜单上看，新办公软件还是比较大的改变。</i>
+➜穿越，妙不可言：《三国周报》出版
+https://www.solidot.org/story?sid=11398	40500
+日本的三国爱好者曾经制作过精致的《<a href="__SLASHLINK__" sect="books" sid="08/06/29/2339219" sn="article" tid="87">三国志新闻</a>》，盛大文学今天也搞了一个《<a href="http://cul.qidian.com/paper/3guo/index.html">三国周报</a>》，模仿传统媒体的电子版，共分16版，涉及军事，政治，民生，经济，文娱等各个方面。在<a href="http://cul.qidian.com/paper/3guo/ban1_1.html">发刊词</a>中，编者写道：
+<i>我们忽然就穿越了，到了汉末。我们到时，《三国演义》第一页故事还没有开始，努力适应了很久，才发现穿越是多么的妙不可言，我们居然有了其他穿越者不可能拥有的特权，没人能伤害我们的身体，即使我们对着皇帝破口大骂，他也只能看着我们，像评书里说的那样，傻呆呆地发愣。</i>
+但是与日本人的创意相比，似乎还差了那么一点点。
+➜揭秘为什么DoubleClick，intel，Google Square无法访问
+https://www.solidot.org/story?sid=11399	45720
+<a href="mailto:wmr89502270@gmail.com">wmr</a> 写道<i> "在<a href="http://209.85.173.132/search?&amp;q=cache:www.jypl.pku.edu.cn/pdf/050107.pdf">学术</a>上，防火长城到现在已经被发现5个功能，前三个功能在<a href="http://course.ccert.edu.cn/blog/dingxuan/2009/04/30/gfw/">GFW的工作原理及突破技术</a>，多数为周曙光发现，为：域名封锁，IP封锁，DNS污染。另外，还有一个最为先进的功能，语义审查和封锁。除此之外，还有一个实用的功能，就是“及时地过滤”，每当某个境外网址点击量迅速攀升的话，那么它就会被自动屏蔽。<a href="http://www.awflasher.com/blog/archives/1765">百度首页惊现谷歌公司的DoubleClick广告</a>，广告会跳转到英特尔的一个页面。而这两个网页一时都无法访问。<a href="http://www.google.com/squared">Google Squared</a>刚刚出来“coming soon”的菜单，而那个链接就无法访问了，就是因为“及时地过滤”。"</i>
+➜香港计划推出电动车充电站
+https://www.solidot.org/story?sid=11400	47100
+<a href="http://szlug.org/">权相龙</a> 写道 "
+中华电力今日与<a href="http://zh.wikipedia.org/wiki/%E9%A0%98%E5%8C%AF">领汇</a>签署合作备忘录，计划在未来12个月内，在领汇旗下10个停车场作试点，<a href="http://finance.qq.com/a/20090518/003840.htm">设置电动车充电站</a>，为电动车提供能源补给。中电已委托理工大学设计充电站，冀五年内将计划扩至其他领汇的屋苑。停车场设立充电站的成本很低，收费和家用电费接近，以每日行走50公里计算，电动车的成本只需8元。
+"
+➜恶意软件绑定首页且逃脱查杀的新方法
+https://www.solidot.org/story?sid=11402	72540
+<a href="http://hi.baidu.com/knityster/blog">knityster</a> 写道 "今天不知道是安装哪个软件没太注意，结果首页被恶意篡改为如下网站：<br> <a href="http://www.benqie.com/">http://www.benqie.com/</a> <br>使用 System Repair Engineer 和 360 查杀后修复都无效果。心想今天遇到个厉害的恶意软件了，搜索了下注册表， 结果发现它居然是按照如下方法实现绑定首页的，不得不佩服想出这主意的人：           -------------------------------------------------- -------------------------------------------------- ---<br>Windows Registry Editor Version 5.00<br> <br>[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInte rnet\IEXPLORE.EXE\shell\open\command]<br>@="\"C:\\Program Files\\Internet Explorer\\iexplore.exe\" http://www.benqie.com/"<br>-------------------------------------------------- -------------------------------------------------- ---<br>难怪怎么修复都没用了。 汗!<br> <br>修正方法就很简单了：<br>删除上述键值后面的恶意网址就可以了，懒的话，执行下面的注册表文件：<br>-------------------------------------------------- -------------------------------------------------- ---<br>Windows Registry Editor Version 5.00<br> <br>[HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInte rnet\IEXPLORE.EXE\shell\open\command]<br>@="\"C:\\Program Files\\Internet Explorer\\iexplore.exe\""<br> <br>-------------------------------------------------- -------------------------------------------------- ---
+<br> <br>希望看到的朋友提高下警惕。！"

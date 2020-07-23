@@ -1,0 +1,68 @@
+➜Linux 3.11发布
+https://www.solidot.org/story?sid=36285	10238
+Linus Torvalds<a target="_blank" href="http://lkml.indiana.edu/hypermail/linux/kernel/1309.0/00650.html"><u>宣布</u></a>发布Linux 3.11，正式版与一周前发布的<a target="_blank" href="http://www.solidot.org/story?sid=36178"><u>Linux 3.11-rc7</u></a>差别不大，主要是一些小修正。Linux 3.11<a target="_blank" href="http://kernelnewbies.org/Linux_3.11"><u>新特性</u></a>包括：O_TMPFILE open(2) flag简化安全临时文件的创建，关闭即删除；AMD Radeon HD 2000到Radeon HD 7000系列GPU支持动态电源管理；实验性加入高性能并行分布式文件系统Lustre客户端；初步支持 NFS 4.2；引入新机制跟踪任务写入的内存页；ARM架构支持大页内存，KVM和Xen支持ARM64架构；轻量级压缩交换缓存Zswap；<a target="_blank" href="http://lwn.net/Articles/551284/"><u>低延迟网络polling</u></a>；等等。从Linux 3.10到3.11只用了两个月时间，比通常的三个月减少了三分之一。<br>
+➜2013年雨果奖公布，《Redshirts》摘下最佳小说奖
+https://www.solidot.org/story?sid=36286	11690
+2013年雨果奖公布了<a target="_blank" href="http://www.thehugoawards.org/hugo-history/2013-hugo-awards/"><u>获奖名单</u></a>：<br>
+<i>John Scalzi的科幻喜剧小说《<a target="_blank" href="http://en.wikipedia.org/wiki/Redshirts_%28novel%29"><u>Redshirts</u></a>》摘下了最佳小说的桂冠；Brandon Sanderson受中国印章启发创作的奇幻小说《皇帝的灵魂》获得最佳长中篇小说；Pat Cadigan的《The Girl-Thing Who Went Out for Sushi》获得最佳短中篇（还获得轨迹奖）；刘宇昆的《物哀（Mono no Aware）》获得最佳短篇小说；Joss Whedon导演的《复仇者联盟》获得最佳长篇戏剧；《权力游戏》之“Blackwater”获得最佳短篇戏剧。</i>
+➜《洛克人》精神继承者《Mighty No.9》两天达成集资目标
+https://www.solidot.org/story?sid=36287	13274
+<div align="center"><img src="http://img.solidot.com.cn/0/646/liVvysqpjbT1E.jpg" align="" height="184" width="300"><br>
+</div>
+<br>
+《洛克人》创作人稻船敬二发起了一项<a target="_blank" href="http://www.kickstarter.com/projects/mightyno9/mighty-no-9?ref=live"><u>Kickstarter集资项目</u></a>。游戏《Mighty No.9》是一个经典的日式滚轴动作游戏，由原《洛克人》团队开发，被认为是《洛克人》的
+精神继承者。玩家将在游戏中扮演九号机器人Beck，它是唯一一个没有感染神秘狂暴计算机病毒的机器人，能变形进化出新的技能和能力。游戏计划在2015年初上市，将在Steam上发布，并提供DRM-Free版本，支持Windows、Mac和Linux。《Mighty No.9》目标融资金额是90万美元，两天之内就突破115万美元，超过了目标。稻船敬二在PAX Prime上接受采访<a target="_blank" href="http://www.gamespot.com/pax/inafune-says-japanese-industry-has-gotten-worse-6413936/"><u>表示</u></a>，日本的游戏行业远远落在了世界后面，相信大众集资平台如Kickstarter能为日本游戏公司提供一种选择，重新振兴市场。
+➜微软以72亿美元收购诺基亚手机业务
+https://www.solidot.org/story?sid=36288	15664
+曾经的推测变成了现实：微软以72亿美元<a target="_blank" href="http://news.cnet.com/8301-10805_3-57601025-75/microsoft-to-acquire-nokias-device-and-services-division/"><u>收购了诺基亚的设备和服务业务</u></a>，获得诺基亚地图服务的使用授权，诺基亚CEO Stephen Elop将辞职重新加盟微软担任执行副总裁。微软以50亿美元收购诺基亚手机业务，20亿美元购买专利许可。诺基亚主席Risto Siilasmaa将担任临时CEO。交易需要获得股东和监管部门的批准，预计将在2014年第一季度完成。交易完成之后，大约3.2万名诺基亚雇员其中包括Elop将加入微软。
+➜Google Play服务取代Android成为Google的平台
+https://www.solidot.org/story?sid=36289	18012
+<div align="center"><img src="http://img.solidot.com.cn/0/647/liJcfyvIMvAu2.png" align="" height="248" width="420"><br>
+</div>
+<br>
+为了解决Android碎片化问题，Google计划用封闭的Google Play服务<a target="_blank" href="http://arstechnica.com/gadgets/2013/09/balky-carriers-and-slow-oems-step-aside-google-is-defragging-android/"><u>替代开源的Android成为新的平台</u></a>。Google Play服务是运行在Android上的一个特权服务，提供了一系列通常只有操作系统才有的功能，如云备份，远程删除，推送信息，帐号同步等等。Play服务可以后台更新，独立于操作系统，能运行在几乎所有Android设备上，Google可以为Android设备添加功能而不需要经过OEM厂商。 版本是否最新已无关紧要，Google可以通过后台的服务控制整个平台，创造出一个统一的，没多少碎片的，健康的生态系统。最新发布的Android 4.3就是这项计划的最好体现，Android 4.3主要特性是新的照相机UI，限制权限的帐号创建，支持新版蓝牙和 OpenGL ES....Google正有意让 Android的更新尽可能的无聊。
+➜Gearbox将《家园》的精神继承者变成真正的继承者
+https://www.solidot.org/story?sid=36290	24193
+Gearbox将《家园》的精神继承者变成了真正的继承者。这家以开发FPS游戏《Borderlands》系列闻名的开发商用135万美元从THQ买下了经典太空即时战略游戏《家园》系列版权，它在PAX Prime上宣布正开发游戏新作。既然无法分身，不妨将品牌租给有爱的人。Gearbox<a target="_blank" href="http://arstechnica.com/gaming/2013/09/gearbox-turns-homeworlds-spiritual-successor-into-an-actual-successor/"><u>宣布</u></a>与Blackbird Interactive合作开发《Homeworld: Shipbreakers》。Blackbird Interactive的创始成员包括了原《家园》系列的艺术总监和主美术设计师，它正在开发《家园》的精神继承者《<a target="_blank" href="http://blackbirdinteractive.com/games/"><u>Hardware: Shipbreakers</u></a>》，曾试图购买《家园》的版权。Gearbox CEO Randy Pitchford
+表示，它不是制作科幻战略游戏的最佳候选。Gearbox将向Blackbird提供资金和技术支持，它还在开发《家园》HD版，预计将在2014年上半年发布。
+➜WP手机专利费甚至低于Android税
+https://www.solidot.org/story?sid=36291	26179
+微软<a target="_blank" href="http://cn.wsj.com/gb/20130903/tec140633.asp"><u>披露</u></a>，根据与诺基亚的现有协议，每部使用Windows Phone（WP）操作系统的诺基亚手机目前向微软支付不到10美元的软件专利使用费。这意味着，微软从WP厂商获得的收入甚至低于从Android厂商获得的专利授权费。微软与主要Android制造商如HTC、三星、富士康和中兴达成了专利授权协议，虽然具体金额未知，但<a target="_blank" href="http://www.solidot.org/story?sid=33573"><u>据说</u></a>Android税是每台设备10到15美元。微软表示，收购诺基亚手机业务虽然风险很大，但如果取得成功公司将收获更大的回报，每部诺基亚WP手机的毛利将在40美元左右。<a target="_blank" href="http://cn.wsj.com/gb/20130903/tec143918.asp"><u>值得注意的是</u></a>，微软此次收购的一个重要资产是专利，它用了21.8亿美元收购诺基亚的专利许可权，而诺基亚的专利组合包括了8500项设计专利以及近30,000项实用专利和专利申请。
+➜伦敦摩天大楼反射光“熔化”汽车
+https://www.solidot.org/story?sid=36292	28352
+<div align="center"><img src="http://img.solidot.com.cn/0/650/liTB1UMtqQe1s.jpg" align="" height="274" width="180"><br>
+</div>
+<br>
+伦敦正在建造的一座绰号 <a target="_blank" href="http://en.wikipedia.org/wiki/20_Fenchurch_Street"><u>Walkie-Talkie</u></a>的摩天大楼（如图，来自维基百科）被指聚焦阳光<a target="_blank" href="http://www.bbc.co.uk/news/uk-england-london-23930675"><u>熔化了</u></a>停在附近街上的一辆汽车的小部件。Martin Lindsay上周四下午将他的捷豹汽车停在伦敦金融城的Eastcheap街上，两小时返回，他发现汽车的一些小部件如后视镜和捷豹标志竟然熔化了。Lindsay表示难以置信，
+开发商表示了歉意并支付了修理费用。Lindsay不是第一个发现熔化的人，而是首先看到一位摄影师在给他的汽车拍照，于是上去问发生了什么事。此类的事情以前也发生过，如<a target="_blank" href="http://www.solidot.org/story?sid=20309"><u>拉斯维加斯</u></a>。<br>
+<br>
+➜顺丰研究用无人机送快递
+https://www.solidot.org/story?sid=36293	29419
+国内媒体<a target="_blank" href="http://www.bjbusiness.com.cn/site1/bjsb/html/2013-09/03/content_227117.htm?div=-1"><u>报导</u></a>，顺丰正在研究用八旋翼无人机送快递。无人机飞行高度约100米，内置导航系统，预先设置目的地和路线，自动到达目的地，误差在2米以内。无人机飞行半径约为10公里，最大载重量约3公斤，目前已在广东东莞市松山湖地区进行了内部试运行。不过由于飞行管制政策，此类尝试不太可能付诸实践。上海Incak英伦时光蛋糕店曾计划采用无人机配送，将大蛋糕送进百米高的写字楼，但上海民航局立刻否定此计划。专家<a target="_blank" href="http://www.solidot.org/story?sid=35913"><u>表示</u></a>，中国对民用无人机的规管十分严格，任何飞行的东西，比如热气球或无人机等，都必须都获得官方批准。
+➜时差反应是“分子制动”导致
+https://www.solidot.org/story?sid=36294	30313
+根据发表在《Cell》上的<a target="_blank" href="http://dx.doi.org/10.1016/j.cell.2013.08.004"><u>一项研究</u></a>，牛津大学科学家相信他们找到了<a target="_blank" href="http://www.bbc.co.uk/ukchina/simp/uk_life/2013/08/130831_life_jet_lag.shtml"><u>“倒时差”的原因</u></a>。研究人员发现“分子制动（molecular brakes）”由于阻止人体在飞行时依靠光线调节体内生物钟，而导致“倒时差”情况的发生。如果在老鼠体内“打散”这些“分子制动”，实验鼠能很快适应时差变化。研究人员希望，这个发现能有助于研发“倒时差”的新药。人体内的生物钟让人们与外界昼夜的变更保持一致，并直接影响到人体在夜间的休息、饥饿感的产生、情绪和血压的变化。但当人们从世界的一个地方飞往另一地方时，人体生物钟需要时间来重新调整，这就导致人体出现多日体虚状态，即俗称的“时差反应”。研究发现，一群本来很活跃的基因由于一种叫做“SIK1”的蛋白质的进入，全部进入休眠状态。如果降低这种蛋白质的功能，实验鼠就能迅速适应六小时的时差。
+➜世界首例：女子在移植卵巢后怀孕
+https://www.solidot.org/story?sid=36295	34185
+澳大利亚医生实现了一项医学突破：让摘除和移植卵巢组织的癌症患者<a target="_blank" href="http://www.abc.net.au/news/2013-09-02/world27s-first-pregnancy-from-ovarian-tissue-grown-outside-the/4930146"><u>有机会能生下后代</u></a>。23岁的准妈妈Vali已经怀孕25周，将在不久后生下双胞胎。她在接受癌症治疗前摘除了两个卵巢，墨尔本试管受孕医院的研究人员冷冻了她的卵巢，然后在七年之后将器官重新移植到她的腹壁，她的卵子成功生长，被收集在体外进行受精，然后重新放回子宫。这项研究为其他想怀孕的癌症患者带来了希望。副教授 Kate Stern说，他们证明卵巢组织在骨盆之外仍然能工作和运作正常。<br>
+➜中国想要控制在英国投资建造的核电站
+https://www.solidot.org/story?sid=36296	34932
+正在就投资英国新核能项目进行谈判的国有中国广核集团希望对其投资的任何核电站拥有更大的运营控制权，这种要求<a target="_blank" href="http://www.ftchinese.com/story/001052287"><u>可能给英国政府带来棘手的国家安全问题</u></a>。广核集团正在与法国电力就分担在萨默塞特郡的欣克利角(Hinkley Point)建设新核电站的成本进行商谈，据估计该核电站的建设成本为140亿英镑。据知情人士的说法，广核集团向法国电力明确表示，只有广核集团在两家公司在英国共同建设的其他核能发电厂的运营中拥有更多发言权，它才会推进此项谈判。广核集团想成为新建的塞兹维尔核电站的共同运营方——尽管法国电力可能会保留整体控制权。考虑到核电的敏感性，允许中国国有企业扮演核电站运营角色的构想，可能会引发一系列国家安全担忧。
+➜Kubuntu宣布商业支持服务
+https://www.solidot.org/story?sid=36297	37973
+基于KDE桌面环境和Ubuntu发行版的社区版本Kubuntu<a target="_blank" href="http://www.muktware.com/5863/kubuntu-announces-commercial-support"><u>宣布了商业支持服务</u></a>，与 <a target="_blank" href="http://www.emerge-open.com/"><u>Emerge Open</u></a>合作向企业、机构组织和个人提供商业性技术支持服务。Canonical于2012年宣布终止支持Kubuntu，此后Kubuntu的开发维护全由社区负责。Kubuntu开发负责人Jonathan Riddell指出，Kubuntu是一个受欢迎但缺乏专业技术支持的发行版，而Emerge Open帮助补上了缺少的一环。技术支持费用不廉价，每一小时需要支付<a target="_blank" href="http://kubuntu.emerge-open.com/buy"><u>80英镑</u></a>。
+➜女友的成功会伤害男友的自尊
+https://www.solidot.org/story?sid=36298	39330
+根据发表在《Personality and Social Psychology》上的<a target="_blank" href="http://www.apa.org/pubs/journals/releases/psp-a0033769.pdf"><u>一项研究</u></a>（PDF），对异性伴侣的调查和计算机测试发现，女性的成功会导致男性的<a target="_blank" href="http://www.universityherald.com/articles/4415/20130902/young-mens-self-esteem-hurt-female-companions-success.htm"><u>自尊下降</u></a>，而女性的自尊则几乎不会受到任何影响。女性通常被允许沐浴在男性伴侣成功的光芒之下，成为“成功男人背后的女人”，但男性并不想成为“成功女人背后的男人”。研究发现，男性会将伴侣的成功自动解释为自己的失败，即使两人之间不存在直接竞争。
+➜数十万中兴设备存在安全隐患
+https://www.solidot.org/story?sid=36299	41301
+<div align="center"><a href="http://img.solidot.com.cn/0/651/liKfzLnfxNUKk.jpg"><img src="http://img.solidot.com.cn/0/651/liKfzLnfxNUKk.jpg" align="" height="189" width="420"></a><br>
+</div>
+<br>
+今年三月，一位匿名研究人员利用僵尸网络绘制了全球活跃的IPv4地址地图，<a target="_blank" href="http://www.solidot.org/story?sid=33922"><u>发布了互联网普查报告</u></a>，公布了9TB的完整扫描数据。另一位研究人员Parth Shukla利用这位匿名研究员提供的数据分析了所有存在安全隐患的联网设备（<a target="_blank" href="https://docs.google.com/file/d/0BxMgdZPXsSLBcUxNN3ZfMm9wNW8/edit"><u>报告</u></a>发表在Google docs上），发现中兴的设备<a target="_blank" href="http://www.scmagazine.com.au/News/355417,353436-exposed-zte-devices-found-in-net-census.aspx"><u>独占鳌头</u></a>。这些有安全隐患的联网设备使用了默认或硬编码的用户名密码，如admin/admin，admin/password, root/root等。在他所发现的128万存在安全隐患的设备中，中兴设备占了28%，即353436台；中国产设备占了56%(如图所示，点击放大)。
+➜塞舌蛙无耳朵借助口腔听声音
+https://www.solidot.org/story?sid=36300	44281
+生活在塞舌尔群岛的塞舌蛙是世界上最小的蛙类动物之一，它没有包含鼓膜的<a target="_blank" href="http://zh.wikipedia.org/wiki/%E4%B8%AD%E8%80%B3"><u>中耳</u></a>，但仍然可以呱呱叫，听到其它蛙类的声音。一个国际研究小组利用X射线解开了这一谜团，发现这些蛙类用口腔和相关组织<a target="_blank" href="http://www.esrf.eu/home/news/general/content-news/general/esrf-news.html"><u>将声音传送到内耳</u></a>。研究结果发表在PNAS上。动物的听觉能力出现在大约2亿到2.5亿年前，其听觉器官主要是利用鼓膜和听骨链构成的中耳，蛙类与其它动物存在显著不同，它们没有外耳，包含鼓膜的中耳直接位于头部表面，传入的声波振动鼓膜，鼓膜通过听骨链将振动传输到内耳，内耳的耳毛细胞将声音转化为电信号发送到大脑。如果没有中耳，99.9%的声波会被反射掉。对塞舌蛙的研究揭示了一种新的听觉机制，结合口腔和骨传导，塞舌蛙可以不通过中耳有效感知声音。
+➜最受欢迎的玩具：彩虹织机
+https://www.solidot.org/story?sid=36301	45713
+《纽约时报》<a target="_blank" href="http://cn.nytimes.com/business/20130903/c03proto/"><u>报导了</u></a>华裔马来西亚移民吴昌俊发明的彩虹织机(<a rel="nofollow" target="_blank" href="http://www.rainbowloom.com/">Rainbow Loom</a>)。吴昌俊设计彩虹织机原是为了取悦女儿，最终却吸引了无数美国女孩。彩虹织机包含了两个塑料模板，一枚钩针、24个塑料别针和600条颜色各异的迷你橡皮筋。用这一套东西可以编织24个手环，图案与友谊手环所用的传统图案类似，不过更加复杂，色彩也更丰富。彩虹织机在2012年前并不成功，直到一家玩具连锁店订购之后它才突然成为最受欢迎的玩具之一。通过<a target="_blank" href="http://www.youtube.com/user/TwistzBandz"><u>YouTube传播</u></a>和热情的爱好者群体，彩虹织机已经卖出了逾一百万套。 <br>

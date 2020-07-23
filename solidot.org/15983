@@ -1,0 +1,22 @@
+➜丝绸之路 v2.0 据称即将上线
+https://www.solidot.org/story?sid=36687	15858
+<a href="http://moses.appspot.com/">Moses</a> 写道 <i>“Atlantis 发布<a href="http://atlantisblog.org/silk-road-subdued-but-this-ex-blackmarket-employee-believes-they-only-released-a-monster/" target="_blank">消息</a>指丝绸之路的前管理员和用户们正在准备发布丝绸之路 2.0, 现在网站正在最后测试阶段. 据称新网站将和原版丝绸之路采用同样布局风格, 论坛也将保留. 新的丝绸之路将首先向前商家发出邀请加入, 之后才会放上 Tor 隐藏服务供公众访问. 在文中, Atlantis&nbsp;代表还嘲笑了 FBI 的工作: "FBI 花了 2 年时间耗费数百万的调查才弄掉丝绸之路, 而几个业余程序员在数天内就可以重建它, 商家只需简单迁移." 新网站在安全方面加强了措施, 包括采用专为 TOR 或 I2P 隐藏服务开发的开源的匿名比特币黑市交易程序&nbsp;<a href="https://github.com/Bit-Wasp/BitWasp" target="_blank">BitWasp</a>.”</i>
+➜藏头气象信息要求政府发工资
+https://www.solidot.org/story?sid=36688	16158
+<a href="http://moses.appspot.com/">Moses</a> 写道<i>“国家大气与海洋管理局 (NOAA) 下属的国家气象服务 (NWS) 阿拉斯加安克雷奇办公室, 在 10 月 4 日当地时间凌晨 5 点发布了一条<a href="http://www.nws.noaa.gov/view/validProds.php?prod=AFD&amp;node=PAFC" target="_blank">气象信息</a>, 初看起来, 信息是关于本地天气形势的, 但如果仔细看, 每段的开头字母组成了&nbsp;P-L-E-A-S-E-P-A-Y-U-S.&nbsp;安克雷奇办公室的气象学家拒绝评论, 美国政府已经关闭多日, 虽然按照惯例政府结束关闭后都会补发公务员工资, 但那可能是几个月后了.”
+</i>
+➜Steam主机原型使用英特尔CPU和NVIDIA GPU
+https://www.solidot.org/story?sid=36689	26730
+Valve<a target="_blank" href="http://steamcommunity.com/groups/steamuniverse#announcements/detail/2145128928746175450"><u>公布了</u></a>Steam原型客厅主机的硬件细节。首批送给硬件beta测试者的300台原型将使用高端英特尔CPU和NVIDIA GPU，运行Valve定制的Linux操作系统SteamOS。这些机器的硬件规格略有差异，显卡包括NVidia Titan、GTX780、GTX760和GTX660，处理器则是基于Haswell的Intel i7-4770、i5-4570和i3，内存都是16GB DDR3-1600，显存3GB GDDR5，硬盘是1TB/8GB混合式硬盘。不同配置的硬件可以帮助更好的衡量性能和效果。Valve指出，这些硬件规格并非设计成为标准，用户可自行替换，它计划发布其定制主机的CAD文件。对Steam主机而言，关键还是GPU，在Linux平台上，NVidia显卡驱动要比AMD更稳定性能更好。<br>
+➜比特币用户锁定FBI的钱包，群发0.00001BTC嘲讽
+https://www.solidot.org/story?sid=36690	42752
+<div align="center"><a href="http://img.solidot.com.cn/0/707/lih6z4fjjrNLw.jpg"><img src="http://img.solidot.com.cn/0/707/lih6z4fjjrNLw.jpg" align="" height="103" width="480"></a><br>
+</div>
+<br>
+FBI在10月2日关闭了丝绸之路，扣押了超过2.6万BTC，价值在380万到400万美元之间。由于所有比特币交易记录都公开在块链（blockchain）中，比特币社区根据钱包交易时间和交易额记录识别出了FBI的<a target="_blank" href="https://blockchain.info/address/1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqX?offset=0&amp;filter=0"><u>钱包地址</u></a>（如图），该地址在10月2日完成了大量上千BTC的交易，目前余额为27,365.89966467BTC。Blockchain.info用户已经将该钱包标记为 “Silkroad Seized Coins”，有许多比特币用户向该地址发送了0.00001 BTC或0.0000001 BTC，并在交易的公开信息中向FBI和美国政府<a target="_blank" href="http://arstechnica.com/tech-policy/2013/10/internet-lobs-insults-at-fbis-silk-road-bitcoin-wallet/"><u>发表抗议声明</u></a>“Ross Ulbricht不是坏人，你们才是坏人，睁开你们的双眼，扪心自问，别再被洗脑了”。
+➜Nvidia移除Linux驱动特性以平衡Windows
+https://www.solidot.org/story?sid=36691	45729
+Nvidia的Linux驱动拥有Windows驱动所没有的特性，但Nvidia可能认为Linux市场狭小维护成本高，所以为平衡起见<a target="_blank" href="http://hardware.slashdot.org/story/13/10/05/0021237/nvidia-removed-linux-driver-feature-for-feature-parity-with-windows"><u>移除了特性</u></a>。根据Nvidia Developer Zone论坛上的<a target="_blank" href="https://devtalk.nvidia.com/default/topic/579449/linux/basemosaic-v295-vs-v310-vs-v325-only-up-to-three-screens-/"><u>讨论帖</u></a>，旧版本的Nvidia驱动支持4个显示屏，但一位Ubuntu 12.04 用户将驱动版本从v295升级到 v310后发现，只有三个显示屏点亮。新版驱动修改了同时支持的显示屏数量。一位Nvidia员工回答称，这是为了让Windows和Linux驱动的特性能相同（原话是“<span class="comment"><font color="#000000">feature parity</font></span>”）。
+➜NSA如何对Tor用户去匿名化
+https://www.solidot.org/story?sid=36692	54876
+安全专家Bruce Schneier根据前NSA合同工Edward Snowden泄露的情报，在《卫报》上刊文<a target="_blank" href="http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity"><u>描述了NSA跟踪Tor用户的策略</u></a>：NSA在ISP合作下扫描整个互联网，创建指纹探测Tor网络向特定服务器发出的HTTP请求，它使用强大的数据分析工具自动筛选巨大的网络流量，寻找Tor网络连接。Tor匿名网络的强大之处同时也是它的薄弱环节——所有Tor用户的网络行为在互联网上看起来都没有差别，因此很容易将Tor用户与其他网络用户区分开来。为了识别个别的Tor用户，NSA使用它的秘密服务器网络中继Tor用户到另一组秘密服务器网络，对Tor用户计算机发动攻击，利用Tor浏览器组件的漏洞感染计算机。一旦Tor用户被感染，NSA随后发动后续的攻击对目标展开长期的监听。

@@ -1,0 +1,45 @@
+➜GIMP 2.6发布
+https://www.solidot.org/story?sid=8083	3600
+开源图形设计软件GIMP正式发布了<a href="http://www.gimp.org/">GIMP 2.6</a>，从开发者角度看2.6是一次重要的发布。<i>
+在<a href="http://gimp.org/release-notes/gimp-2.6.html">发布注解</a>上，开发者表示，GIMP 2.6调整了UI，解决了部分用户长期以来抱怨的问题；试验性的整合了GEGL，基于GtkObjects的图像处理库，最终将为GIMP带来更高的位深度(Bit Depth)和非破坏性图像编辑。GIMP的工具箱菜单栏被移除，工具箱和dock现在合并为工具窗口（utility windows）；Pan工具可以超过图像边界使用；freehand选择工具在支持多边形选择上有所增强，笔刷动力设置更丰富，此外还有许多细小的变化。</i> <a href="http://gimp.org/downloads/">下载</a>。
+➜Google回到2001年
+https://www.solidot.org/story?sid=8084	5760
+为了纪念诞生10周年，Google推出了一个截至2001年1月的<a href="http://www.google.com/search2001.html">索引存档</a>。听起来像是一个类似互联网档案馆的玩具，但如果去搜索一些现在的流行词，<a href="http://www.thestandard.com/news/2008/10/01/google-goes-way-back-resurrects-search-engine-2001">结果或许很有意思</a>。<i>
+比如<a href="http://www.google.com/search2001/search?q=%E7%A5%9E%E8%88%9F&amp;hl=en&amp;btnG=Search">神舟</a>，当时中国刚刚发射了神舟二号；此时的<a href="http://www.google.com/search2001/search?q=GFW&amp;hl=en&amp;btnG=Search">GFW</a>还不叫墙，<a href="http://www.google.com/search2001/search?q=%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B&amp;hl=en&amp;btnG=Search">金盾工程</a>刚刚起步，偶们的<a href="http://www.google.com/search2001/search?q=%E8%83%A1%E9%94%A6%E6%B6%9B&amp;hl=en&amp;btnG=Search">国家主席</a>还是副主席，<a href="http://www.google.com/search2001/search?q=%E4%B8%89%E9%B9%BF&amp;hl=en&amp;btnG=Search">三鹿奶粉</a>还是中国首选奶粉品牌；<a href="http://www.google.com/search2001/search?q=%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91&amp;hl=en&amp;btnG=Search">维基百科</a>，Facebook，MySpace和Twitter都不存在，<a href="http://www.google.com/search2001/search?hl=en&amp;q=9%2F11&amp;btnG=Google+Search">911</a>也不是恐怖主义的代名词。</i>
+➜深入了解程序语言C#
+https://www.solidot.org/story?sid=8085	8700
+在微软领导 C# 开发的<a href="http://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Hejlsberg</a>，曾负责编写<a href="http://en.wikipedia.org/wiki/Turbo_Pascal">Turbo Pascal</a>系统，并且是<a href="http://en.wikipedia.org/wiki/Delphi_programming_language">Delphi语言</a>开发团队的首席架构师。
+<i>他在接受Computerworld的深入采访中，<a href="http://www.computerworld.com.au/index.php/id;1149786074;fp;;fpid;;pf;1">阐述了C#开发的历史</a>，以及对未来程序语言发展趋势的看法，并透露了一些即将发布的C#4，以及函数语言F#。Hejlsberg认为函数式编程正在成为一种成长性的趋势，有很大发展空间，C#也深受其影响，F#的独特之处就是以强大的行业集成开发工具和平台为后盾，使得F#成为其它函数式语言的强有力竞争对手。许多函数式语言都只存在于他们的小圈子里，但任何.NET框架的开发者都可以轻松使用F#。</i>
+➜艾滋病病毒可能有100年历史
+https://www.solidot.org/story?sid=8086	10800
+一项新研究认为，艾滋病病毒（HIV）在人类之间传播<a href="http://abcnews.go.com/print?id=5928089">已有百年历史</a>，比科学家此前的预计提早了数十年。<i>
+基因分析将HIV起源日期追溯至1884到1924年，最有可能的估计是1908年。之前科学家认为艾滋病病毒起源是在1930年左右，它的正式确认是在1981年。论文作者、亚利桑那大学的Michael Worobey表示，新的结果“不是巨大的变化，但它意味着病毒的传播比我们所知的要久得多”。研究人员推测艾滋病最初是从刚果首都<a href="http://zh.wikipedia.org/wiki/%E9%87%91%E5%A4%8F%E6%B2%99">金沙萨</a>开始传播的。</i>
+论文发表在今天出版的<a href="http://www.nature.com/nature/journal/v455/n7213/edsumm/e081002-08.html">《自然》杂志</a>上。
+➜Nokia发布Qt Extended 4.4
+https://www.solidot.org/story?sid=8087	16200
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 <i>"
+Qt Extended原名Qtopia，是一个基于开源Qt toolkit的完整的移动和嵌入式开发平台。Nokia于9月30日<a href="http://arstechnica.com/news.ars/post/20080930-nokia-launches-linux-based-qt-extended-mobile-platform.html">发布其4.4版本</a>。Qt Extended是一个模块化的架构，为基于Linux软件堆栈的各种嵌入式设备（从手机到电视机顶盒）提供基础材料。"</i>
+➜东芝电池可在10分钟内充满电
+https://www.solidot.org/story?sid=8088	17100
+东芝公司透露了一种新电池原型，它能在<a href="http://www.pcauthority.com.au/News/124258,toshiba-unveils-new-battery-prototype.aspx">10分钟内充满90%的充电容量</a>。<i>
+超级可充电离子电池（Super Charge Ion Battery，简写SCIB）能处理5,000到6,000再充电周期，标准的锂离子电池只有500次左右。新电池由耐用材料组成，能提供更高水平的耐热性，能防止过热。</i>
+➜GIMP 2.6.0正式推出
+https://www.solidot.org/story?sid=8089	22020
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "<a href="http://www.downloadsquad.com/2008/10/01/gimp-2-6-open-source-image-editor-launched/">http://www.downloadsquad.com/2008/10/01/gimp-2-6-o pen-source-image-editor-launched/</a> ,
+GIMP 2.6.0正式推出。在 UI（用户界面）上，GIMP 已经作出了调整，不仅更改了空的图像窗口的外观，而且将工具箱窗口的菜单合并到了图像窗口中。
+从工具方面来看，GIMP 改进了自由选取工具，支持笔刷动力（Brush dynamics），并能够将颜色工具的配置保存为预设文件。
+除了外部较为明显的变化，GIMP 在底层也有很大变动，最为显著的就是整合了 GEGL 这个图像处理框架，对于 GIMP 的未来注入了新的活力。"
+➜我们生活在一个巨大宇宙泡沫中？
+https://www.solidot.org/story?sid=8090	30240
+暗能量已经够让人困惑了，现在请准备听一个更古怪的提议——我们的地球也许<a href="http://www.space.com/scienceastronomy/080930-st-universe-void.html">困于一个反常的时空泡沫中</a>，里面主要是虚空。科学家认为它可以解释宇宙所呈现的加速膨胀，目前物理学认为是<a href="http://zh.wikipedia.org/w/index.php?title=%E6%9A%97%E8%83%BD%E9%87%8F&amp;variant=zh-hans">暗能量</a>引起了宇宙膨胀。暗能量是一种假设的力，能拖曳宇宙所有物质向外加速运动。据估计暗能量占据了宇宙74%的质能，另外21%是暗物质，普通物质只有5%。目前还无法从暗能量或虚空泡沫中进行选择，但最新提出的一项研究建议潜在的可测试泡沫假说。
+<i>
+如果我们位于宇宙的一块不同寻常的稀疏区域内，那么其它东西看起来可能比它们的真实位置更远，也就意味着不需要用暗能量去解释天文学观察。牛津大学的研究员Timothy Clifton说道，“如果我们生活在一个巨大的低密度空间内，时空本身是不会加速的。但也许能观察到，如果用通常的方式去解释，就是它们看起来是在加速。”如果我们呆在一个物质比其它地方少的位置上，围绕我们的时空可能与外部不相同，因为物质会扭曲时空。</i>
+➜中国的Skype用户被监视
+https://www.solidot.org/story?sid=8091	60300
+<a href="http://slevin.vanatgmail.com/">DNA24</a> 写道 "《<a href="http://chinese.wsj.com/gb/20081002/tec142111.asp?source=channel">华尔街日报</a>》和《<a href="http://www.nytimes.com/2008/10/02/technology/internet/02skype.html">纽约时报</a>》报道：
+一群加拿大研究人员称，他们掌握的证据显示中国一家Skype合资企业一直在监控用户在互联网上的文字聊天纪录，并把那些包含了政治敏感内容的讯息储存在可以从公司外部进入的服务器上。
+<i>
+研究人员在周三发布的这份报告中称，这种监控和储存行为导致数百万条纪录被暴露，这些纪录包括Skype中国服务用户以及Skype语音通讯使用者的个人信息。报告称，这些数据储存在Skype、eBay子公司与TOM集团有限公司旗下TOM在线有限公司组建的一家合资公司运营的八个服务器上。
+Skype 发言人詹妮弗考金(Jennifer Caukin)在电邮声明中称，已根据新的报告对安全问题采取了补救措施。TOM集团已经解决了这个缺陷。TOM集团在单独的声明中称，作为一家中国企业，该公司的业务经营遵守了中国的法规和条例。
+《纽约时报》周三披露了这些发现，进一步向世人展示出中国互联网监视的性质和范围。研究人员、人权活动家和其他人长期以来一直抱怨中国政府常常与网络公司合作，对网络上的政治敏感内容施以严厉的封锁，监视电子邮件和其它通讯。但这些做法的详情很难为外界了解。一些用户认为，Skype使用加密技术保护了用户免受政府的监视，由于这个原因，中国的持不同政见者普遍使用这项服务。
+</i>报告发表在<a href="http://www.infowar-monitor.net/breachingtrust/">Information Warfare Monitor</a>以及<a href="http://www.idrc.ca/panasia/ev-1-201-1-DO_TOPIC.html">OpenNet Initiative-Asia</a>上

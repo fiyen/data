@@ -1,0 +1,80 @@
+➜中国调查转基因安全性
+https://www.solidot.org/story?sid=23944	4800
+《南方周末》<a href="http://www.infzm.com/content/59136">报道</a>，中国农业部、环保部、科技部和卫生部正在联合调查转基因产品的安全性。<i>
+2009年8月，农业部为两个转基因水稻品种和一个转基因玉米品种颁发了农业转基因生物安全证书，获得安全证书是通向商业化种植的关键一环，宣告我国将成为第一个对主粮实施转基因的国家。此举迅即引发了反转基因派的强烈反弹。去年两会期间，百余学者联名上书全国人大反对转基因水稻的商业化。一批开国元勋的后代亦在近期联名给中央高层写信，要求暂缓转基因粮食的商业化推广种植。去年和今年两会期间，任弼时之女任远征曾两次提案关注转基因的食品安全问题。</i>
+➜Sergey Brin称Windows折磨用户
+https://www.solidot.org/story?sid=23945	6300
+Google联合创始人Sergey Brin在与媒体谈论Chromebook笔记本时，声称传统的操作系统如Windows、Mac OS X和Linux，<a href="http://tech.slashdot.org/story/11/05/12/1354214/Sergey-Brin-Windows-Is-Torturing-Users">用复杂性折磨用户</a>，而Google创造的Chrome OS则显著降低了管理的复杂度。<i>
+Sergey Brin说，只有20%的Google员工使用Windows，其余人使用的是OS X和Linux，他希望到明年，所有的Google员工将使用Chromebook。他指出Chrome OS笔记本采用了一种新的模式，没有将管理计算机的负担施加在用户身上，而微软等传统操作系统供应商，则是用计算机管理的复杂工作折磨用户。他认为，75%的企业用户可以从Windows笔记本迁移到Chrome笔记本。</i>
+➜浏览器中禁用WebGL
+https://www.solidot.org/story?sid=23946	7680
+Panggit 写道 <i>"<a href="__SLASHLINK__" sect="internet" sid="11/05/11/0456228" sn="article" tid="100">WebGL存在的漏洞</a>已被公布，虽然该小组还未披露更多细节，但是WebGL可以被用来进行跨域名的非法图片读取已经被证实。可能受攻击的目标有：各种登录用的验证码图片，涉及隐私的照片等。另外，黑客也可以检测你对特定图片的访问结果，来判断你在一个网站上的身份和权限。为了避免由WebGL带来的安全隐患，最好是先将WebGL禁止。Chrome上禁止WebGL的方法: 在启动快捷方式里加上<a href="http://techdows.com/wp-content/uploads/2011/05/disabling-webgl-for-Chrome.png">–disable-webgl</a>。
+Firefox4上禁止WebGL的方法：浏览器地址栏输入about:config进入设置页，在Filter中输入webgl，找到webgl.disabled，设置成true。如果结果中存在webgl.enabled_for_all_sites的话，设成false。然后重启浏览器。"</i>
+➜BSA称中国2010年软件盗版78亿美元，全球588亿美元
+https://www.solidot.org/story?sid=23947	8160
+BSA<a href="http://yro.slashdot.org/story/11/05/12/1214252/BSA-2010-Piracy-Report-588-Billion">公布</a>了<a href="http://portal.bsa.org/globalpiracy2010/">2010年度全球PC软件盗版报告</a>，声称全球盗版软件的商业价值达到了588亿美元，比上一年度增长了14%。<i>
+2010年调查的116个地区中，有半数地区的盗版率超过62%，而全球软件盗版率为42%。发展中国家的盗版率是发达国家的2.5倍，前者的软件盗版的商业价值达到319亿美元，相当于全球的一半以上。中国的软件盗版率为78%，比2009年下降了一个百分点，盗版软件的商业价值为77.79亿美元。BSA仍然使用旧的软件商业价值计算方法：即根据非授权软件安装量乘以市场价格，而发展中国家软件盗版的主要原因是负担不起发达国家的价格。</i>
+➜调查称中国没有司法公正
+https://www.solidot.org/story?sid=23948	9120
+香港中文大学法律学院院长<a href="http://mikemcconville.com/">麦高伟教授</a>的研究团队，历时16年，完成了《<a href="http://www.bokklubben.no/SamboWeb/produkt.do?produktId=5891768">Criminal Justice in China</a>》一书，对中国的司法体系展开了实证调查。<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/05/110512_china_criminal_justice.shtml">调查发现</a>，中国法院几乎都靠被告的坦白来定罪。<i>
+他们造访了中国13个区域，包括东部沿海发达城市及西部落后地区，旁听了227个审讯，涉及335名被告，分析了 1144个审讯档案。他们还访问了88名法官、96名检控官及83名辩方律师。研究人员调查的都是日常刑事案件的审判，不涉及所谓颠覆政权的“大案”。调查发现，95%个案的疑犯经过一次或多次盘问后“认罪”。中国对犯罪嫌疑人法定拘留期37天，但该书查阅的审讯档案中，20%的个案超过这个拘留期限。受访的一些法官说，审讯完毕后，必须请示审判委员会及中央政法委员会才能判案，每个裁决都是司法机构和党的集体决定。受访问的检控官也说，他们的工作目标是让被告罪成，如果失败或不受理警方提出的检控个案，将影响晋升机会。</i>
+➜盛大推出开源网站SNDACode
+https://www.solidot.org/story?sid=23949	10800
+<a href="mailto:blog.163.com/moro80@126">慕容鱼吐的新闻泡</a>写道 <i>" 盛大创新院内部团队发布了一个开源网站<a href="http://www.sndacode.com/">SNDACode</a>，集中展示员工个人以及项目组的开源项目。SNDACode本身是基于开源项目Redmine所做的二次开发，采用了Rails的开发框架。该公司<a href="http://www.sndacode.com/doc/about.html">声称</a>，企业开源，最重要的一点是要能持久维护，仅仅将一堆代码提交到一个开源网站，然后不管不顾，是不够的，必须不断的接收反馈，积累意见，更新版本。</i>
+➜开发商谴责苹果破坏电子书产业
+https://www.solidot.org/story?sid=23950	11520
+一句古老的谚语：不要将所有苹果放在同一个篮子里。一家电子书销售和应用程序开发商在其倒闭之际对此深有体会。<i>
+iFlowReader宣布<a href="https://www.iflowreader.com/Closing.aspx">将于5月31日关闭</a>，它指责<a href="http://apple.slashdot.org/story/11/05/11/1450208/Developer-Blames-Apple-For-Ruining-eBook-Business">苹果将其赶出了电子书市场</a>，苹果实行了应用内购买提取三成收入，让除苹果之外的所有人都不可能在iOS设备上通过销售电子书盈利。他们将所有一切都压在了苹果和iOS上，但苹果中途改变游戏规则干净利落的杀死了他们。iFlowReader是一家小公司，五位开发者花了超过百万美元开发iFlowReader应用，相信他们的产品是iOS上最好的电子书阅读程序。它的电子书销售提成是30%，而苹果提取30%，意味着盈利为零。</i>
+➜35%移动用户起床前会玩一下移动应用
+https://www.solidot.org/story?sid=23951	17760
+一项调查<a href="http://www.ericsson.com/news/110512_cloud_244188810_c">发现</a>(<a href="http://www.ericsson.com/res/docs/2011/silicon_valley_brochure_letter.pdf">PDF</a>)，35%的美国Android和iPhone用户<a href="http://apple.slashdot.org/story/11/05/12/1557228/35-Use-Mobile-Apps-Before-Getting-Out-of-Bed">会在起床前打开智能手机</a>，使用移动应用，访问Facebook。调查显示，最流行的床上活动是访问社交网络，18%的用户会会床上登录社交网站，Facebook是最受欢迎的移动应用。
+➜三星公布其Chromebook笔记本产品
+https://www.solidot.org/story?sid=23952	19440
+三星公司公布了其制造的Chromebook笔记本：<a href="http://www.pcmag.com/article2/0,2817,2385257,00.asp">Samsung Series 5 Chromebook</a>。<i>
+3G版429美元，Wi-Fi/3G版499美元，显示屏分辨率1280 x 800，处理器是双核Atom N570，1百万像素摄像头可用于视频会议，电池能工作8.5小时。Google根据Cr-48试用结果改进了新笔记本的性能，更先进的硬件能流畅播放480p和720p视频，触摸板也不再会干扰使用。未来随着Chrome OS的升级性能有进一步提高空间。目前不清楚GPU和固态硬盘的规格。笔记本绑定2年Verizon 3G，每月可免费使用100MB流量。</i>
+➜手机可能是蜜蜂消失的罪魁祸首
+https://www.solidot.org/story?sid=23953	21360
+<a href="http://zh.wikipedia.org/zh-cn/%E8%9C%82%E7%BE%A4%E5%B4%A9%E5%A3%9E%E7%97%87%E5%80%99%E7%BE%A4">蜂群崩溃综合症</a>是一种遍及全世界的不明现象，大批蜂巢内的工蜂神秘消失。一项新研究<a href="https://docs.google.com/a/mashable.com/viewer?a=v&amp;q=cache:N0ppu0Y_5FIJ:www.kokopelli.asso.fr/documentation/favre.pdf+bee+decline+cell+phones+Daniel+Favre+Apidologie&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEESjjDcc2b4oqLkwW1XJMr2rIDbflf6yfRWieHJaUySHuB9vJJgBWFRz8TpgDKG3qMzxDDLaKh5Xz4XQwgp3eULjohbelrZmFOds5ITS1S7Q3AU3QHlyvB3FwhTJ20HNYdvx4hLKW&amp;sig=AHIEtbQxF1S3w2zuRz_22eTZPX0lS4Q5EQ&amp;pli=1">发现</a>，<a href="http://www.fastcompany.com/1752894/are-cell-phones-killing-all-the-bees?partner=rss">手机也许是蜜蜂消失的罪魁祸首之一</a>。<i>
+蜜蜂消失是一个严重问题，因为很多农作物依靠它们授粉。瑞士联邦技术研究所研究员Daniel Favre的团队进行了83项试验，记录下蜜蜂对附近手机在关闭，待机模式和呼叫模式下的反应。结果发现，当手机呼叫或接收时，蜜蜂产生的噪音增加了10倍。正常情况下蜜蜂的噪音是蜜蜂离开蜂巢外出工作的信号，但手机引发的噪音让蜜蜂感到迷惑。科学家在2008年做过类似的试验。</i>
+➜Ubuntu 11.10将用LightDM替代GDM
+https://www.solidot.org/story?sid=23954	22800
+去年社区曾有流言<a href="__SLASHLINK__" sect="linux" sid="10/12/11/0849230" sn="article" tid="75">声称</a>，Ubuntu考虑用<a href="http://www.freedesktop.org/wiki/Software/LightDM">LightDM</a>取代<a href="http://projects.gnome.org/gdm//index.html">GDM</a>。但这一转变并没有在Ubuntu 11.04中发生。在刚刚举行的Ubuntu开发者峰会上，官方<a href="http://tech.slashdot.org/story/11/05/12/188221/Engineers-Find-Nuclear-Meltdown-At-Fukushima-Plant">证实</a>Ubuntu 11.10将用LightDM替代GDM。<i>
+LightDM是一个轻量级的显示管理器，其优势在于速度更快，无需运行完整个GNOME会话；支持多种欢迎界面；代码更简单，只有5000行代码，相比之下GDM有50000行代码。</i>
+➜TwitPic从用户上传的照片上获利
+https://www.solidot.org/story?sid=23955	28440
+<a href="http://en.wikipedia.org/wiki/TwitPic">TwitPic</a>是Twitter上流行的照片分享服务。随着用户在Twitter上愈来愈频繁的即时报道突发新闻，他们通常是使用TwitPic发布拍摄的照片。而媒体也经常会未经用户许可，直接采用Twitter用户拍摄的突发新闻照片。TwitPic最近修改了服务条款，引发了异议。官方博客<a href="http://blog.twitpic.com/2011/05/your-content-your-copyrights/">解释说</a>，用户仍然拥有照片版权，但将由它的合作伙伴负责分发有新闻价值的照片。这一改变意味着：其它媒体不能再随便使用TwitPic上的照片，<a href="http://yro.slashdot.org/story/11/05/12/1935205/TwitPic-Will-Sell-Your-Photos-But-No-Cash-For-You">而TwitPic则试图从中牟利</a>。
+➜Mozilla停止更新Firefox 3.5
+https://www.solidot.org/story?sid=23956	29520
+<a href="http://www.osmsg.com/">osmsg开源资讯</a> 写道 <i>"正如微软费尽心思要抛弃IE6一样，Mozilla<a href="http://www.conceivablytech.com/7348/products/mozilla-halts-updates-for-firefox-3-5">也将除掉Firefox 3.5</a>，4月份发布的Firefox 3.5.19是Mozilla为Firefox 3.5用户提供的<a href="https://wiki.mozilla.org/Releases/3.5_EOL">最后一次升级</a>，Firefox 3.5用户可以选择升级至Firefox 3.6或是Firefox 4.0，Mozilla也建议用户采用最新版本，尽早放弃Firefox 3.5.Mozilla表示：“我们需要一个计划来淘汰Firefox 3.5，因为我们不能为这个版本提供永远的支持。之前我们在这方面的努力一直没有太大的成效，有太多的用户没有升级。”根据官方统计数据，尽管Firefox 3.5用户数量下跌很快，但是仍然有将近1200万用户在坚守Firefox 3.5。Firefox 5即将在6月份发布。</i>
+➜木星卫星可能有一个熔岩地幔
+https://www.solidot.org/story?sid=23957	31680
+木星卫星<a href="http://zh.wikipedia.org/wiki/Io">Io(艾奥)</a>拥有整个太阳系最活跃的火山活动。NASA科学家从伽利略号探测器的数据中<a href="http://www.nasa.gov/topics/solarsystem/features/galileo20110512.html">发现</a>，Io可能有一个地下岩浆海洋，或者是地表下有部分的熔岩层，厚度超过50千米。<a href="http://www.sciencemag.org/content/early/2011/05/11/science.1201425.abstract">报告</a>发表在最新一期的《科学》期刊上。<i>
+旅行者1号和旅行者2号在1979年掠过Io时，发现它有活跃的火山活动。伽利略探测器在1995年到2003年之间4次飞跃Io，收集了更多数据。科学家根据这些数据建造了Io内部模型，显示其火山喷发每年产生的岩浆是地球的100多倍。Io的火山分布在整个表面，一种解释是Io地壳下有一个全球性的岩浆海洋。模型显示，熔岩至少占了五分之一，熔岩区的厚度超过50公里。而岩浆表面温度指示，上地幔温度必须超过1250°C。</i>
+➜开发人员的测试悖论
+https://www.solidot.org/story?sid=23958	36000
+<a href="http://www.vastwork.com/zh">自由职业</a> 写道 "多年来，Ramiro Rinaudo在软件开发过程中看到了许多不同的测试方式。每一种测试都有它的独特性，一些开发人员认定自己有不只一种方式。<a href="http://blogs.mulesoft.org/the-developer-testing-paradox/">Ramiro在文中列举6种测试</a>(<a href="http://www.jobbole.com/entry.php/794">中文</a>)，并阐述了它们在项目上反映出的效果。<i>1. 我不是QA。2. 我没时间。3. 管理故障。4. 测试只是一个工具。5. 热衷测试覆盖率。6. 可信度测试。Ramiro在博文后写道：“这些年我了解到，测试是开发过程中至关重要的一部分。每次代码修改后，都应该进行测试。用于提高测试可信度的每一秒钟，就是你每次运行测试都会成功的时候。在软件开发上，取得最大效率的唯一方式不是不写测试，而是相信你的测试。你是一位开发人员吗？你为你的应用程序写测试吗？你每次提交都在提高测试中的可信度吗？每次提交都需要提高可信度，否则你就是增加了一个有问题的代码，最后终将导致你重写整个程序。”"</i>
+➜原子大小的迷你黑洞天天穿越地球
+https://www.solidot.org/story?sid=23959	37080
+根据发表在arXiv.org上的<a href="http://arxiv.org/abs/1105.0265">预印本</a>，美国科学家思考能探测自然存在的迷你黑洞的方法。他们认为，<a href="http://www.physorg.com/news/2011-05-mini-black-holes-atoms-earth.html">可能每一天都有迷你黑洞穿过地球</a>，它们对地球的威胁微乎其微。<i>
+迷你黑洞和普通黑洞大相径庭。普通黑洞是恒星塌陷形成，而迷你黑洞则是在创世大爆炸中形成，它们又被称为原始黑洞。普通黑洞的最小质量也有10<sup>30</sup> kg，而迷你黑洞的质量大小从普朗克质量到10<sup>12</sup> kg，但最大的也远远小于普通黑洞。研究人员解释为什么穿越地球的迷你黑洞不会威胁地球：迷你黑洞受制于<a href="http://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E8%A5%BF%E5%8D%8A%E5%BE%91">史瓦西半径</a>，即靠近黑洞但又不被其吸收的最短距离，换句话说进入这个半径后光也无法逃逸出去。由于迷你黑洞的质量低于10<sup>12</sup> kg，因此它的史瓦西半径比引力束缚粒子的轨道还要小。只要粒子呆在史瓦西半径外，它们不会被吸收，而是绕其运动。根据研究人员的计算，一个1 kg大小的迷你黑洞需要10<sup>33</sup>年才能吞噬地球，目前宇宙的年龄是13.7 x 10<sup>9</sup>。LHC产生的迷你黑洞更是需要无限长的时间。</i>
+➜欧洲市场的有毒玩具和纺织品在减少
+https://www.solidot.org/story?sid=23960	39240
+欧盟委员会称，多亏了中国的努力和欧盟检查制度的完善，进入欧洲超市的<a href="http://www.physorg.com/news/2011-05-toxic-toys-textiles-decrease-eu.html">有毒玩具和纺织品数量在下降</a>。<i>
+去年被禁止、被勒令收回或召回的不安全产品数量比上一年度增加13%，达到2,244件。其中中国产品占58%，比上一年度的60%略有下降。中国质检总局局长支树平表示，中国政府高度重视消费品安全，将继续努力提高中国产品的质量和安全。他在欧盟消费者保护专业John Dalli的会谈中表示，“我们需要对全世界人民负责”。
+</i>
+《人民日报》的一篇<a href="http://www.zaobao.com/zg/zg110511_005.shtml">报道称</a>，中国近90%食品含添加剂，每个成人每天大概要吃进八九十种添加剂。
+➜研究人员研制出基于石墨烯的光调制器
+https://www.solidot.org/story?sid=23961	41700
+加州大学伯克利分校的研究人员<a href="http://www.zdnet.co.uk/blogs/communication-breakdown-10000030/graphene-based-modulator-promises-ultra-fast-comms-10022427/">研发出</a>(<a href="http://www.zdnet.com.tw/news/hardware/0,2000085676,20149759,00.htm">中文</a>)基于石墨烯的光调制器，能使数字通信速度提高10倍。<i>
+伯克利工程学教授Xiang Zhang<a href="http://newscenter.berkeley.edu/2011/05/08/graphene-optical-modulators-ultrafast-communications/">表示</a>，石墨烯使调制器更紧凑，有潜力使速度比目前技术所允许的快上十倍。新技术将会大幅强化超快光通讯与运算的能力。他们的<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature10067.html">研究</a>发表在上周的《自然》期刊上。</i>
+➜本拉登的秘密电邮系统
+https://www.solidot.org/story?sid=23962	52080
+美国海豹突击队在5月1日的行动中，从本拉登的藏身处缴获了大量硬盘和U盘等存储设备，美国情报官员正努力分析其中的邮件，<a href="http://it.slashdot.org/story/11/05/13/1410209/Bin-Ladens-Sneakernet-Email-System">破译出本拉登避开美国窃听的方法</a>。<i>
+了解内情的匿名人士透露，虽然本拉登的藏身处没有互联网和电话接入，但他却是一位非常勤快的作者。他先在电脑上输入邮件内容，将其保存到U盘，交给一位信任的信使。信使再前往一个遥远的网吧，将U盘插入到电脑上，将本拉登的信息拷贝到一个电子邮件中，发送出去。本拉登接收信息的过程与之相反。信使先在网吧里拷贝下收件箱里的邮件，保存到U盘中，送到本拉登藏身处，供其阅读。</i>
+➜养老保险个人账户余额可继承
+https://www.solidot.org/story?sid=23963	64680
+<a href="http://www.mohrss.gov.cn/">人力资源和社会保障部</a>开始征求<a href="http://www.mohrss.gov.cn/Desktop.aspx?path=mohrss/mohrss/InfoView&amp;gid=53739506-a455-42ca-bf08-205435a2a8ae&amp;tid=Cms_Info">《实施〈中华人民共和国社会保险法〉若干规定》(草案)</a>的公众意见。草案明确养老保险必须交够15年才能够退休后按月领取养老金，医疗保险金则按各地方政策处理。个人账户不得提前支取和个人账户余额继承办法。参加职工基本养老保险的个人，在达到法定退休年龄前离境定居的，其个人账户予以保留；达到法定退休年龄的，按照国家规定享受相应的养老保险待遇。同时，明确参加职工基本养老保险的个人死亡的，个人账户中的余额可以全部继承。
+➜盖茨批评击毙拉登细节外泄过多
+https://www.solidot.org/story?sid=23964	77100
+o_O 写道<i> "国防部长盖茨<a href="http://www.theaustralian.com.au/news/world/protection-for-osama-bin-laden-seals/story-e6frg6so-1226055624247">决定采取措施</a>，防止参与击毙拉登行动的美国军人身份被认定。他表示，在一批高级官员于白宫<a href="http://en.wikipedia.org/wiki/The_Situation_Room_(photograph)">军情室</a>观看突击队实时影像时曾约定任何人都不能向外透露行动细节，但第二日就流出了一份包含过多的细节的行动简报，其中还包含一些错误的暗示，如拉登使用一位妇女做人盾。参与行动的海豹队员已经开始担心自己的身份被恐怖分子识别。虽然没有明说，但盖茨暗示大嘴是奥巴马的国土安全顾问John
+Brennan。盖茨表示五角大楼为这些军人和军人家属的安全极为担忧。他说海豹突击队之所以所向披靡，是因为他们的战术、使用装备及训练方式不为外界所知，而现在很多细节都出现在报纸上。"</i>

@@ -1,0 +1,48 @@
+➜Twitch 被屏蔽
+https://www.solidot.org/story?sid=57976	10222
+亚马逊旗下的流行游戏直播平台 Twitch 从 9 月 17 日起<a href="https://zh.wikipedia.org/wiki/Twitch_(%E7%B6%B2%E7%AB%99)" target="_blank"><u>被屏蔽</u></a>，方法是 DNS 污染，屏蔽原因未知。按照以往的经验，被屏蔽网站短时间内不太可能解除屏蔽。Twitch 在 2014 年被亚马逊收购，是美国访问量最高的游戏直播平台，日活跃用户 1500 万，同时在线用户数 100 万。根据 Alexa 的<a href="https://www.alexa.com/siteinfo/twitch.tv" target="_blank"><u>统计</u></a>，它的美国访问量排在第 14 位，全球访问量排名第 35。和很多被屏蔽的网站一样，中国有许多类似的游戏直播平台。
+➜SpaceX 将把日本亿万富翁前泽友作发送到月球轨道
+https://www.solidot.org/story?sid=57977	12643
+SpaceX CEO Elon Musk <a href="https://www.theverge.com/2018/9/17/17869990/elon-musk-spacex-lunar-mission-tickets-moon-passenger-bfr-falcon-yusaku-maezawa" target="_blank"><u>透露了</u></a>将搭乘该公司 Big Falcon Rocket (BFR)火箭访问月球的首位乘客名字：日本亿万富翁<a href="https://en.wikipedia.org/wiki/Yusaku_Maezawa" target="_blank"><u>前泽友作</u></a>。42 岁的前泽在 1998 年创办了 Start Today，上线了服装零售网站 Zozotown。根据福布斯的估计，他的个人净资产大约 29 亿美元。前泽称他从儿童时期起就向往着月球。这次<a href="https://dearmoon.earth/" target="_blank"><u>月球之旅</u></a>预计将在 2023 年发射，他计划邀请 6 到 8 名艺术家和他一起前往月球，希望月球之旅能有助于“世界和平”。
+➜小米在系统设置中植入广告
+https://www.solidot.org/story?sid=57978	14239
+<div align="center"><a href="https://img.solidot.org/0/646/liMOvpYGRhFp6.png"><img src="//img.solidot.org/0/646/liMOvpYGRhFp6.png" width="250" height="444" align=""></a><br>
+</div>
+<br>
+小米手机的性价比相当高，因此早期在客户中间口碑不错。但客户并非没有付出代价：小米在其定制 Android  手机系统 MIUI 中内置了大量广告，每次更新，用户看到的广告数量也有可能跟着增加。有用户在 Reddit 上<a href="https://www.reddit.com/r/Xiaomi/comments/9g1mbc/safe_to_uninstallfreeze_msa/" target="_blank"><u>反应</u></a>称该公司甚至连系统设置也植入了广告（如图所示）。亚马逊的部分设备也内置广告，但用户可通过付费移除广告。小米是目前世界第四大手机制造商，其产品在印度等发展中国家也非常受欢迎，印度小米用户称他们的手机里也有大量的广告。
+➜Flatpak 应用有限支持 Windows 10 平台
+https://www.solidot.org/story?sid=57979	17401
+Flatpak 作者和主要开发者 Alexander Larsson 在博客上介绍了 <a href="https://blogs.gnome.org/alexl/2018/09/17/flatpak-on-windows/" target="_blank"><u>Flatpak on windows</u></a>，让 Flatpak 打包的 Linux 应用能在微软的 Windows 10 平台上运行。Flatpak 是 Red Hat 主导开发的打包格式，利用沙盒隔离应用以增强安全性同时解决依赖问题。Flatpak on windows 处于早期阶段，需要 Windows Subsystem for Linux (WSL）和安装  Win32 X11 Server。由于 WSL 不支持 seccomp 或 network namespaces，Flatpak 应用失去了安全沙盒功能。Larsson 已经在 Github 上写了一些如何构建和测试的<a href="https://github.com/flatpak/flatpak/blob/wip/WSL/README.md" target="_blank">文档</a>，演示了运行 Linux 游戏和 Gnome 和 KDE 应用，甚至 Linux 版的 Telegram。
+➜Versity 开源 ScoutFS
+https://www.solidot.org/story?sid=57980	18997
+Versity Software 在 GPLv2 许可证下<a href="http://www.versity.com/blog/versity-open-sources-scoutfs" target="_blank"><u>开源了</u></a>它的存档文件系统 ScoutFS，<a href="https://github.com/versity/scoutfs-kmod-dev" target="_blank"><u>源代码</u></a>托管在 Github 上。ScoutFS 项目始于 2016 年，旨在解决对更大的 POSIX 命名空间和更快的元数据处理的日益增长的要求，它设计能在单一的命名空间储存最多一万亿文件。Versity 称 ScoutFS 是第一个在 GPL 下发布的存档文件系统。ScoutFS 是一个兼容 POSIX 的可伸缩集群文件系统，设计和实现将庞大数据集归档到低成本的外部储存源如磁带、磁盘、对象和云端。
+➜村上春树退出新诺贝尔文学奖
+https://www.solidot.org/story?sid=57981	24649
+因为诺贝尔文学奖今年暂停颁发，瑞典记者和文化界人士创立了仅在今年颁发的替代奖项，四名最终提名者中包括了日本知名作家村上春树。但村上春树已经向主办方<a href="https://www.dw.com/zh/%E6%9B%BF%E4%BB%A3%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96-%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A0%91%E4%B8%8D%E6%84%BF%E8%A2%AB%E6%8F%90%E5%90%8D/a-45515917?&amp;zhongwen=simp" target="_blank"><u>明确表示退出</u></a>。组织者表示，村上春树对他获得提名表示感谢，但说他希望“集中精力写作，远离媒体关注”。组织者宣布撤销对他的提名。其他获提名的还有出生于英国的作家尼尔·盖曼（Neil Gaiman）、出生于瓜德罗普的女作家玛丽斯·孔德（Maryse Conde）和出生于越南的金翠（Kim Thuy）。组织者表示，他们都对获提名表示兴奋。最终获奖者名单将于 10 月公布。
+➜欧盟将在 2019 年停止采用夏令时
+https://www.solidot.org/story?sid=57982	25809
+欧盟宣布将在 2019 年<a href="https://www.dw.com/en/eu-to-stop-changing-the-clocks-in-2019/a-45495680" target="_blank"><u>停止采用夏令时</u></a>。夏令时是一种为节约能源的方法，在天亮较早的夏季人为将时间调快一小时，可以使人早起早睡，减少照明量，以充分利用光照资源，从而节约照明用电。夏时制在战争和石油危机期间被作为一种节省能源的方法使用，在 1996 年成为欧盟法律，所有欧盟成员国在三月的最后一个周日调快一小时在十月的最后一个周日调慢一小时。欧盟交通专员 Violeta Bulc 称欧盟成员国需要在 2019 年 4 月前决定是否永久保留夏令时或冬季时间。夏令时被认为作为一种节约能源的方法已经过时，其它技术如 LED 灯在节能上更有效。
+➜David Patterson 认为是时候提出新计算机架构和软件语言
+https://www.solidot.org/story?sid=57983	27521
+加州伯克利教授、Google 工程师、今年的图灵奖得主 David Patterson 认为是时候<a href="https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages" target="_blank"><u>提出新计算机架构和软件语言</u></a>。他说，摩尔定律已结束了，我们现在是在后摩尔定律时代。他指出，在摩尔定律还有效的时代，性能每 18 个月翻一番，人们会扔掉工作良好的桌面计算机，因为朋友的新计算机运行更快。但去年程序的性能只提升了 3% ，按照这个速度需要二十年性能才能翻一番。作为一名计算机架构师， Patterson 认为这是好消息，因为处理特定类型计算问题的革命性硬件架构和新软件语言正在等待开发出来，他认为从事此类工作的人未来有望获得图灵奖。这是计算机架构的黄金时代。
+➜世界首辆氢动力火车在德国投入商业运营
+https://www.solidot.org/story?sid=57984	28396
+世界首批氢动力火车<a href="https://www.theguardian.com/environment/2018/sep/17/germany-launches-worlds-first-hydrogen-powered-train" target="_blank"><u>在德国投入商业运营</u></a>。两辆 Coradia iLint 火车由法国的 Alstom 公司制造，本周一开始在德国北部一条一百公里长的线路上运营，以前这条线路使用的是柴油动力火车。Alstom 公司计划到 2021 年向德国下萨克森州交付另外 14 辆零排放火车，德国的其他州也对这种火车表达了兴趣。氢动力火车配备了燃料电池，使用氢气和氧气产生电力。火车使用一个氢燃料罐能运行 1000 公里，行驶距离与柴油火车相似。
+➜俄罗斯特工被发现尝试入侵测试神经毒剂的瑞士实验室
+https://www.solidot.org/story?sid=57985	30772
+荷兰官员透露该国在今年早些时候逮捕和驱逐了两名俄罗斯特工，他们<a href="https://arstechnica.com/information-technology/2018/09/russians-tried-to-hack-swiss-lab-testing-samples-from-skripal-attack/" target="_blank"><u>被发现尝试入侵</u></a>瑞士国家实验室 Spiez Laboratory。Spiez 正代表禁止化学武器组织测试两组俄罗斯政府感兴趣的样本：用于攻击前俄罗斯特工 Sergei Skripal 及其女儿的神经毒剂 Novichok 和来自叙利亚的毒气攻击样本。禁止化学武器组织总部位于荷兰海牙，这可能解释为什么特工在这里尝试入侵实验室。Spiez 实验室证实其计算机网络造成黑客攻击。这不是俄罗斯特工第一次被控入侵国际实验室。国际奥委会和反兴奋剂组织机构在 2016 年成为钓鱼攻击的目标。
+➜集体诉讼指控 IBM 年龄歧视
+https://www.solidot.org/story?sid=57986	31913
+IBM 在 2015 年之后经历了多次大规模裁员，ProPublica 和 Mother Jones 在今年三月<a href="https://www.solidot.org/story?sid=55911" target="_blank"><u>发表调查报告</u></a>，调查发现 IBM 的裁员对象是年长雇员，它利用裁员降低了员工的平均年龄，大幅增加了出生于 1980 年后的员工数量。今年五月，美国平等就业机会委员会启动了对 IBM 的全国性调查。现在，律师 Shannon Liss-Riordan 代表三名年龄 50 到 60 多岁的前 IBM 雇员<a href="https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/lawsuit-charges-ibm-with-age-discrimination" target="_blank"><u>递交集体诉讼</u></a>，指控蓝色巨人年龄歧视。更多前 IBM 雇员可能加入这起集体诉讼。IBM 在一封电子邮件声明中称，任何劳动力的变化都是基于技能而不是年龄，事实上自 2010 年以来美国员工的年龄没有发生变化，但技能表发生了显著改变。这一声明有待验证，因为 IBM 在几年前就停止提供有关员工的任何数据。
+➜为什么数学家在干草堆里找不到干草
+https://www.solidot.org/story?sid=57987	35530
+在数学中，有时候最常见最丰富的东西反而是最难发现的，<a href="https://www.quantamagazine.org/why-mathematicians-cant-find-the-hay-in-a-haystack-20180917/" target="_blank"><u>这就像是进入干草堆却找不到干草</u></a>。以数轴为例，数轴上有正数、负数，有理数和无理数。无理数占据了数轴上的绝大部分空间，它是如此之多以至于你随机选一个几乎肯定是无理数。然而在我们的日常生活中，我们几乎不会碰到无理数。我们碰到的基本上是整数和小数。我们最熟知的数字实际上是干草堆里的针。有理数能写下来，而无理数有着无限的小数，即使有无限的时间你也写不完。这种无法写下来的性质让它们对我们基本上是隐形。我们就像是透过磁铁看待事物，你用磁铁在干草堆里是找不到干草的，你只能找到针。
+➜英国洞穴潜水员起诉 Elon Musk
+https://www.solidot.org/story?sid=57988	45178
+今年七月，洞穴潜水员 Vernon Unsworth 帮助救出被困在泰国山洞中的 12 名少年足球队员。特斯拉创始人 Elon Musk 在自己打造的营救设备未获采用恼羞之下对 Unsworth <a href="https://arstechnica.com/tech-policy/2018/09/british-cave-diver-sues-elon-musk-for-defamation-over-pedo-guy-tweets/" target="_blank"><u>做出多项指控</u></a>，包括称他是一名“儿童强奸犯”。Unsworth <a href="https://www.bbc.com/zhongwen/simp/world-45559144" target="_blank"><u>现在提起了诉讼</u></a>要求 Musk 支付 7.5 万美元的赔偿。Unsworth 希望获得“惩罚性赔偿金”，以“惩罚他的错误行为，震慑他不再做出此类十恶不赦的行为”。此前 Unsworth 称考虑采取法律行动时，Musk 曾发布推特说，“很奇怪他还没有起诉我”。Unswort 在加利福尼亚州递交诉状，随后他还将在伦敦提诉。“Musk 的影响力和财富无法将他的谎言转变成真相，也无法保护他，让他免受法庭对其不当行为的问责，”Unsworth 的美国律师说。
+➜苹果发布 iOS 12，显著提升速度
+https://www.solidot.org/story?sid=57989	45820
+苹果释出了 iOS 12 的<a href="https://www.apple.com/cn/ios/ios-12/" target="_blank"><u>正式版本</u></a>，Ars 发布了一个长达六页的<a href="https://arstechnica.com/gadgets/2018/09/ios-12-thoroughly-reviewed/" target="_blank"><u>详细评测</u></a>。对大多数苹果用户来说，好消息是他们在更新到新系统之后速度有了显著提升。对 iPhone 5S、iPhone 6 Plus 和 iPad Mini 2 的测序显示，启动速度有了明显的提升。在 iPhone 5S 上，Safari 的启动时间从 iOS 11.4.1 的 1.44 秒减少到了 iOS 12.0 的 1.15 秒；冷启动时间从 iOS 11.4.1 的 27.67 秒减少到了 25.28 秒；在 iPad Mini 2 上，冷启动时间从 iOS 11.4.1 的 27.31 秒减少到了 23.34 秒。新系统在速度方面的改进<a href="https://arstechnica.com/gadgets/2018/09/ios-12-on-the-iphone-5s-iphone-6-plus-and-ipad-mini-2-its-actually-faster/" target="_blank"><u>是显著的</u></a>，但这也可能是以耗电量增加为代价。
+➜考古学家发现最古老的绘画
+https://www.solidot.org/story?sid=57990	46945
+科学家从一个南非洞穴内<a href="https://www.nature.com/articles/d41586-018-06664-y" target="_blank"><u>发现了</u></a>一个已知<a href="http://news.sciencenet.cn/htmlnews/2018/9/417752.shtm" target="_blank"><u>最早的绘画</u></a>—— 一幅抽象的、大约在距今 73000 年创造的蜡笔画。大约 10 万年前到 72000 年前，史前人类生活在南非的布隆伯斯洞穴中。早期的发掘工作已经表明了他们是一群懂艺术的人——考古学家在这个遗址发现了由海蜗牛壳制成的珠子，以及一些上面刻着几何图案的骨头和大块的赭石。挪威伯根大学的 Christopher Henshilwood 及其同事发现了一块 4 厘米长的鹅卵石，上面用十字形画了 9 条线。这些线条似乎是用赭色的蜡笔画出来的。这幅画让研究人员第一次了解到布隆伯斯洞穴的史前居民是如何使用赭石作为颜料的。这一发现与史前时代大约同时期的尼安德特人的成就相匹配。

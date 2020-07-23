@@ -1,0 +1,128 @@
+➜《Nature Biotechnology》期刊撤下 NgAgo 基因编辑论文
+https://www.solidot.org/story?sid=53328	10572
+《Nature Biotechnology》期刊<a href="http://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3938.html?foxtrotcallback=true" target="_blank"><u>撤下了</u></a>受争议的 NgAgo 基因编辑论文。河北科技大学韩春雨团队于 2016 年 5 月在《Nature Biotechnology》发表论文《NgAgo DNA 单链引导的基因编辑工具》，提出了 CRISPR/Cas9 基因编辑技术的替代方法，引发了广泛关注，他所在的河北科大还因此得到了 2.24 亿元的财政拨款。但其他科学家的重复实验并未获得成功，韩春雨本人递交的重复实验数据也被期刊评审认为不够发表的标准，无法反驳质疑。韩春雨及其同事随后做出了撤稿的决定。
+➜IBM 和索尼将单盒磁带储存提升到 330Tb
+https://www.solidot.org/story?sid=53330	17886
+IBM 和索尼<a href="https://arstechnica.co.uk/information-technology/2017/08/ibm-and-sony-cram-up-to-330tb-into-tiny-tape-cartridge/" target="_blank"><u>合作开发了新的磁带储存技术</u></a>，实现了每英寸储存容量达到 201 Gb，手掌大小的单盒磁带储存容量达到 330Tb。磁带被普遍认为是过时的技术，但它是目前市场上最廉价、连续读写速度最快的储存媒介之一，虽然其读写设备十分昂贵。在最新这项研究中，索尼开发了新型的高密度磁带，而 IBM 开发了新的磁头和信号处理技术。索尼的新磁带包含了一个改进的内置润滑层和一个新型的磁性层。索尼使用了名叫溅射淀积的真空薄膜成形技术制造磁带。
+➜男子发动 DDoS 攻击强迫网站移除他的文章
+https://www.solidot.org/story?sid=53331	18716
+美国西雅图的一位男子<a href="https://arstechnica.com/tech-policy/2017/08/fbi-says-man-posed-as-anonymous-to-ddos-media-to-force-removal-of-stories/" target="_blank"><u>对多家法律服务网站发动了 DDoS 攻击</u></a>，以迫使网站移除有关他过去犯罪行为的文章链接。这名 32 岁的男子已经遭到关押，并且不得保释。FBI 称，2015 年 1月 Leagle.com 遭到 DDoS 攻击后，嫌疑人伪装成黑客组织匿名者向网站发去电子邮件，声称被告  Kamyar Jahanrakhshan 受到不公正的迫害。嫌疑人威胁，如果不移除链接将会在未来几天或几周发动更凶猛的攻击。Leagle.com 之后在 1 月 24 日再次遭到攻击，在链接移除之后攻击停止了。除了 Leagle.com 外，他还以同样的原因攻击了 Fairfax Media5、The Metro News、加拿大广播公司和 Canada.com。他还对受害者发出了炸弹威胁。
+➜环球唱片被控使用盗版字体
+https://www.solidot.org/story?sid=53332	19836
+著名唱片公司环球音乐被字体开发商 HypeForType <a href="https://torrentfreak.com/font-maker-sues-universal-music-over-pirated-the-vamps-logo-170802/" target="_blank"><u>起诉使用盗版字体</u></a>。该公司被指使用盗版字体制作了 The Vamps 乐队的 logo。HypeForType 的字体 Nanami Rounded 和 Ebisu Bold 被用于制作了该英国流行乐队的艺术品、宣传材料和商品推销材料。HypeForType 寻求获得最低 125 万美元的赔偿。环球音乐没有从该公司获得正确的使用许可证，它本质上使得是盗版字体。
+➜Linux防御谈
+https://www.solidot.org/story?sid=53333	26188
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道 <i>"Green Hills 的 Dan O’Dowd 于 2004 年发表的名为 Linux in Defense 的系列文章通过一系列的分析试图向公众解释为什么 Linux 内核不适合一些场景特别是国家防御，在<a href="https://www.ghs.com/linux/security.html" target="_blank">第一篇 ( FAA Safety-critical Certified Operating Systems Deliver The Reliability and Security Required by Defense Systems; Linux Does Not</a>) 文章中谈到了大众认为 Linux 内核作为通用操作系统可以用到除了桌面和服务器外的场景比如国家防御系统，Dan 认为不应该考虑在 FCS(陆军未来战士系统)，JTRS(联合战术) 以及 GIG 中使用 Linux，对关于高安全性系统方面提出了探讨：
+</i>
+<!--more-->
+<p></p>
+<p>*) 必须满足 DO-178B Level A 的合规要求</p>
+*) 虽然 EAL7 的要求非常困难，特别是形式化验证从而保证软件真正意义上的 bug-free 所带来的防御能力方面，工业界和学术界都对 Orange book 的最高形式抱有期望，所以 Linux 应该满足 EAL7 才能用于国家防御体系
+<p>
+<a href="https://www.ghs.com/linux/manyeyes.html" target="_blank">
+</a></p>
+<p><a href="https://www.ghs.com/linux/manyeyes.html" target="_blank">第二篇 ("Many Eyes" - No Assurance Against Many Spies</a>) 文章中谈到了当时流行的观点，即开放源代码的系统更安全，因为有更多的人去阅读代码和查找 bug，但 Dan 认为：
+</p>
+<p>
+</p>
+<p>*) Linux 的代码是由全世界（包括中国和俄罗斯）开发者贡献，这对美国的国家防御造成了潜在的风险，因为哪怕一个硬件厂商提供的驱动有漏洞或者后门就会导致严重的后果，而 GNU/Linux 发行版的生态众多也导致维护方面的安全风险
+</p>
+<p>
+</p>
+<p>*) 针对 DO-178B Level A 认证的只有数千行源代码的实时操作系统进行后门植入几乎是不可能完成的任务
+</p>
+<p>
+</p>
+<p>*) 植入后门到 Linux 内核不是一件困难的事情，比如参考 <a href="http://www.solidot.org/story?sid=44519" target="_blank">Ken Thompson 也植入过难以审计</a>和发现的后门的例子
+</p>
+<p>
+<a href="https://www.ghs.com/linux/unfit.html" target="_blank">
+</a></p>
+<p><a href="https://www.ghs.com/linux/unfit.html" target="_blank">第三篇 (Linux Security: Unfit for Retrofit)</a> 谈到：</p>
+*) 开源并没有让 Linux 比 Windows 更安全
+<p>
+</p>
+<p>*) 当时的 GNU/Linux 只能满足 EAL2，而 Windows 已经可以满足 EAL4</p>
+<p>
+</p>
+<p>*) NSA 的 SELinux 并不是解决方案，因为 SELinux 当时只是一个原型研究</p>
+<p>
+</p>
+<p>*) “Security through obscurity” 是 Linux 内核社区处理安全的方式，但并对于安全性的并没有帮助</p>
+<p>
+</p>
+<p>*) 公开所有的东西是有利于攻击者，所以封闭系统更有优势</p>
+<p>
+<a href="https://www.ghs.com/linux/expensive.html" target="_blank">
+</a></p>
+<p><a href="https://www.ghs.com/linux/expensive.html" target="_blank">第四篇 (Linux in Defense: Free Software is Just Too Expensive)</a> 谈到：</p>
+*) Linux 比专利操作系统更昂贵，比如当时 MontaVista 的嵌入式 Linux 软件在费用上比 Green Hills 的专有实时操作系统费用更高
+<p>
+</p>
+<p>*) Linux 增加国防厂商的开发时间和成本</p>
+<p>
+</p>
+<p>*) Linux 由于代码量大所以提升了硬件成本</p>
+<p>
+</p>
+<p>*) Linux 也无法满足国家防御系统要求的长期维护的问题</p>
+<p>
+<a href="https://www.ghs.com/linux/threat.html" target="_blank">
+</a></p>
+<p><a href="https://www.ghs.com/linux/threat.html" target="_blank">第五篇 (Linux in Defense: An Urgent Threat to National Security)</a> 中谈到 Linux 漏洞众多，修复也需要时间，这和 EAL7 的系统无法比拟，为什么 Linux 事关国家安全呢？因为中国和俄罗斯都会针对 Linux 开发数字军火进而打击美国的防御。</p>
+此文从发表至今已经有 13 年之久，但有一些事情却很相似：
+<p>
+</p>
+<p>*) <a href="https://www.blackhat.com/docs/us-16/materials/us-16-Weston-Windows-10-Mitigation-Improvements.pdf" target="_blank">Windows 10 的安全性</a>高于目前的 Linux 4.12，Windows 10 启用了近期 x86 硬件的一些特性进行了<a href="https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/ " target="_blank">加固</a>，包括 HVCI/CFG / 不完整 RFG</p>
+<p>
+</p>
+<p>*) Linux 内核社区依然<a href="http://www.solidot.org/story?sid=52878" target="_blank">坚持 "Security through obscurity" 的哲学</a>，依旧没有建立安全风险评估体系</p>
+<p>
+</p>
+<p>*) 依靠 “many eyes" 让软件变得安全经过了斯诺登大爷事件后被证明是不靠谱的，一方面没有那么人会” 好心 “的帮忙审计代码，另外开源只能保证可审计性，虽然可以一定程度上有助于制定防护方案，但并不直接等同于安全防护能力</p>
+<p>
+</p>
+<p>*) 开源服务依然昂贵，大厂商要么得组建自己的团队 (GCP/AWS/BAT3H) 去评估和维护业务依赖的开源软件，要么的高价购买相关解决方案和服务</p>
+当然，也有一些情况和 2004 年时还是不同：
+<p>
+</p>
+<p>*) SUSE 和 RedHat 的系统拥有了 EAL4 + 的认证</p>
+<p>
+</p>
+<p>*) 除了 Five Eyes 国家的政府部门，SELinux 在 GNU/Linux 上的部署两远远没有在 Android 上多</p>
+<p>
+</p>
+<p>*) 俄罗斯军方基于 Debian GNU/Linux 开发了 <a href="http://www.solidot.org/story?sid=48492" target="_blank">Astra 操作系统</a> </p>
+<p>
+</p>
+<p>*) 基于 GNU/Linux 平台的场景化加固方案对于高安全性环境的部署大幅度增加，侧面证明了开放系统并没有 Dan 认为的那么不安全</p>
+<p>
+</p>
+<p>*) 除了桌面和服务器，Linux 内核进入了更多的领域包括：数据通信领域的高速网络设备以及小型嵌入式系统等</p>"
+➜美国科学家首次成功编辑人类胚胎基因
+https://www.solidot.org/story?sid=53335	29911
+在新闻泄漏一周之后，俄勒冈卫生科技大学、索尔克生物学研究所，以及中韩的科学家<a href="http://www.sciencemag.org/news/2017/08/first-us-based-group-edit-human-embryos-brings-practice-closer-clinic" target="_blank"><u>宣布</u></a>成功编辑了人类胚胎中的基因，修复了一个常见的严重致病突变，获得了似乎很健康的胚胎。<a href="https://www.nature.com/nature/journal/vaop/ncurrent/full/nature23305.html" target="_blank"><u>论文</u></a>（全文可浏览）发表在《自然》期刊上。这项研究是一个重要的里程碑，虽然投入临床还有很长的路要走，但基因编辑可能有一天会保护婴儿免受各种遗传性疾病威胁的前景变得光明起来。但是，这项成就也是一度让人觉得害怕和不可思议的人类基因工程肯定<a href="https://cn.nytstyle.com/science/20170803/gene-editing-human-embryos/" target="_blank"><u>会重新引发伦理担心的一个例子</u></a>，有些人可能会尝试设计具有某些特征的婴儿，如更高的智力或运动才能的婴儿。研究人员表示，他们利用 CRISPR 技术修复了会导致肥厚型心肌病的 DNA 突变。每 500 人中就有一人患有这种遗传性心脏病，它是导致人猝死的常见原因。如果这种突变被修复的胚胎发育成为婴儿，那么他们不仅不会患上这种疾病，也不会把病遗传给后代。
+➜Resilio Sync 被屏蔽
+https://www.solidot.org/story?sid=53336	30627
+BitTorrent 公司(后开发团队独立出去成立 Resilio 公司 )开发的 P2P 同步工具 BitTorrent Sync（现更名为 <a href="https://zh.wikipedia.org/wiki/Resilio_Sync" target="_blank"><u>Resilio Sync）</u></a>遭到屏蔽，Resilio Sync 的官网<a href="https://zh.greatfire.org/getsync.com" target="_blank"><u>也被屏蔽</u></a>。在 Resilio Sync 中，用户数据并不在云端，而是存储在本地硬盘中，因此在同步数据时需要至少一台持有数据的计算机处于开机状态。Resilio Sync 对需要同步的文件大小没有限制，唯一的限制就是不同的同步设备中都需要有足够的空间容纳所要同步的文件。Resilio Sync 是私有软件，并没有完全的去中心化，这是它容易被屏蔽的原因之一。它有一个开源替代叫 <a href="https://en.wikipedia.org/wiki/Syncthing" target="_blank"><u>Syncthing</u></a>。
+➜微软二十年来首次更新 Windows 终端的颜色
+https://www.solidot.org/story?sid=53337	32673
+微软<a href="https://www.theverge.com/2017/8/2/16085806/microsoft-windows-console-color-scheme-update" target="_blank"><u>正在更新</u></a> Windows 终端（也就是命令提示符）的颜色。Windows 10 的测试者将可以在新版 Build 16257 中尝试新的颜色方案。Windows 终端传统的蓝色将在现代的高对比度显示器上变得更清晰。这是微软二十年来首次更新 Windows 终端的颜色。测试者需要全新安装才能体验新的颜色方案，如果只是在旧版本升级 Windows 仍然会保留原来的颜色设置，以确保用户定制的颜色设置不会被替换。微软计划发布工具让测试者能应用新的颜色方案。
+➜科学家描述最早的花
+https://www.solidot.org/story?sid=53338	36775
+<div align="center"><img src="http://img.solidot.org/0/391/liDniqdzZvc2.jpg" height="300" width="450" align=""><br>
+</div>
+<br>
+对于第一种会开花的植物来说，3 是一个不可思议的数字。根据发表在《Nature Communications》期刊上的一篇<a href="https://www.nature.com/articles/ncomms16047" target="_blank"><u>论文</u></a>，对其早期进化开展的最大规模研究<a href="http://news.sciencenet.cn/htmlnews/2017/8/384136.shtm" target="_blank"><u>表明</u></a>，它的花朵可能拥有花瓣状被片以及含有花粉的雄蕊，并且以 3 个分层螺环的形式排列。研究开花植物的进化起源非常棘手：花朵的脆弱意味着它们极少成为化石。为探寻第一朵花是什么样子的，研究人员花费 6 年时间，分析了几乎每种开花植物的解剖学证据，以确认它们最原始的特征。研究人员将获得的结果同来自分子分析的日期进行了校准，构建了进化树，并且对花朵进化的最早期阶段进行了建模。他们发现，最早的花朵可能拥有 11 个或者更多被片和雄蕊，并且通常分为 3 组，同时携带着雄性和雌性繁殖结构。
+➜分析认为中国对高价手机需求仍在增长
+https://www.solidot.org/story?sid=53339	40998
+苹果最近在中国面临销售额锐减﹐同业竞争和合规压力加剧等，但好消息是分析认为富裕的中国消费者<a href="http://cn.wsj.com/gb/20170803/tec152647.asp" target="_blank"><u>仍然愿意花高价购买最新款的 iPhone</u></a>。分析师称，虽然中国智能手机市场的总体增长陷入停滞，但 4000 元或以上的高价智能手机产品仍在增长。把新款 iPhone 考虑在内，调研公司 Canalys 预计 2017 年第四季度中国大陆 iPhone、iPad 和 iPod Touch 的出货量将达到 2,700万部，高于上年同期的2,200万部。
+➜大脑扫描显示很多老年痴呆症患者可能没病
+https://www.solidot.org/story?sid=53340	42311
+根据一项 PET 大脑扫描研究的阶段性结果，有很多接受老年痴呆症治疗的人<a href="https://www.washingtonpost.com/national/health-science/brain-scans-show-many-alzheimers-patients-may-not-actually-have-the-disease/2017/07/18/52013620-6bf2-11e7-9c15-177740635e83_story.html" target="_blank"><u>实际上可能并没有病</u></a>。对大约 4000 名轻微认知障碍患者和痴呆患者的扫描发现，只有 54.3% 的微认知障碍患者和 70.5% 的痴呆症患者发现淀粉样斑块。淀粉样斑块的阳性测试结果并不意味着某人患有痴呆症，但阴性意味着一个人肯定没有痴呆。用扫描大脑的诊断方法的问题是它非常昂贵，每次需要 $3,000 到 $4,000，保险通常不涵盖该费用。
+➜美国考虑对中国发起贸易战
+https://www.solidot.org/story?sid=53341	45820
+北京逼迫一大批美国公司在中国成立合资企业或分享研究成果，这是中国打造科技巨头整体行动的一部分。从智能手机到芯片再到电动汽车厂商，美国企业作出了让步，因为它们担心被全球第二大经济体拒之门外。中国的野心引起了华盛顿的警惕，两党均为此感到担忧。据知情人士<a href="https://cn.nytimes.com/business/20170803/china-trade-trump-technology/" target="_blank"><u>透露</u></a>，美国贸易代表 Robert Lighthizer 正在准备指控中国大范围侵犯知识产权的贸易案。但中国可以进行有力辩护。根据它通过谈判与世界贸易组织达成的规定，中国享有广泛的自由度，可保留自己市场内部的限制措施。中国当时承诺会随着经济的成熟而取消额外的规定。但北京并没有开放，即便中国已经成了一个经济大国。美国商务部长罗斯则在《华尔街日报》<a href="http://cn.wsj.com/gb/20170802/opn144001.asp" target="_blank"><u>撰文称</u></a>，中国、欧盟等贸易伙伴为美国商品设置贸易壁垒，使美国企业处于不利地位，美国以贸易救济措施来回应这些行动并非贸易保护主义。美国需要真正互利互惠的自由贸易。
+➜Blu 事件揭示了在中国司空见惯的秘密
+https://www.solidot.org/story?sid=53342	47509
+在安全公司 Kryptowire 报告 Blu 品牌手机的固件仍然在用户不知情下向中国公司发送数据之后，亚马逊以潜在安全隐患为由暂停了 Blu 手机的销售。Kryptowire 称，Blu 的两款手机 Grand M 和 Life One X2 会向上海广升信息技术有限公司的服务器发送手机塔 ID 和位置、手机号码、IMEI、IMSI、Wi-Fi MAC 地址，设备序列号、安装应用列表及其时间戳。Blu 的另一款手机 Advance 5.0 则包含了能被第三方应用利用的代码执行和记录能力。另一款不同厂商的手机 Cubot X16S 则还能将用户浏览历史发送到中国的服务器上，甚至还能在第三方的指令下发送短信。安全专家认为，亚马逊的做法是完全正当的。此类的信息收集<a href="https://arstechnica.com/information-technology/2017/08/citing-privacy-threats-amazon-stops-selling-some-android-phones-from-blu/#p3" target="_blank"><u>在中国早已司空见惯</u></a>，但中国的开发商不小心将这个秘密出口到世界其他地方对此不知情的买家。

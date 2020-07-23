@@ -1,0 +1,65 @@
+➜中国政府被指为攻击苹果制造舆论
+https://www.solidot.org/story?sid=33872	7694
+上周五晚上，官方媒体CCTV正举办以维护消费者权益为主题的“3·15晚会”。大约在晚上8点20分左右，新浪微博突然出现一大波攻击苹果售后服务的帖子，但其中一位明星兼微博大V的帖子露了馅。这位明星发帖抨击了苹果售后，表示作为果粉很受伤，指责苹果对不起卖肾的少年，他在最后加了一句莫名其妙、前言不搭后语的话“大概8点20发”。“<a href="https://freeweibo.com/weibo/%E5%A4%A7%E6%A6%828%E7%82%B920%E5%8F%91"><u>大概8点20发</u></a>”立即成为微博的流行话题，网友注意到还有许多微博大V也在晚上8点20分左右发表了攻击苹果的言论。这位明星随后声称他的微博被黑客入侵，<a href="http://www.chinanews.com/yl/2013/03-18/4650772.shtml"><u>称已报警</u></a>。不知道哪个愚蠢的黑客会在帖子里有意加上“大概8点20发”？此事令人联想到了2009年中国抨击<a href="http://zh.wikipedia.org/wiki/%E8%B0%B7%E6%AD%8C%E6%B6%89%E9%BB%84%E4%BA%8B%E4%BB%B6"><u>Google中国涉嫌色情事件</u></a>时所采取的做法——先制造舆论再迫使Google就范。此事加上黑客攻击最终导致Google搜索于2010年初退出中国。
+➜尼安德特人的“大眼”导致了他们的灭亡
+https://www.solidot.org/story?sid=33873	10687
+一项新的研究认为，尼安德特人之所以灭绝是<a href="http://www.bbc.co.uk/news/science-environment-21759233"><u>因为他们的眼睛比现代人类大</u></a>。大眼睛的结果是更多的大脑功能用在视力上，牺牲了高级思维处理。相比之下，现代人类大脑则有着更大的额区，能发展出大型社交网络。尼安德特人大约是在25万年前离开非洲定居到欧洲，2.8万年前灭绝。研究人员认为，尼安德特人演化出更大的眼睛是为了适应欧洲的长夜。而没有迁移的现代人类祖先则不需要改变他们的眼睛，在生活范围扩大到全球前他们演化出了更大的额叶，发展出了高级思维能力。对尼安德特人的头颅研究显示，他们的眼睛平均半径比人类大6毫米。在大约2.8万年前的冰河时代，尼安德特人没有发明保暖的衣服，发展出互相依赖的社交性组织，这些都加速了他们的灭绝。尼安德特人并不笨，他们非常聪明，但与现代人类不在一个阵营。
+➜《华尔街日报》否认行贿中国官员
+https://www.solidot.org/story?sid=33874	12327
+新闻集团表示，《华尔街日报》中国分社的员工被指向中国官员行贿以获取信息，但由审计人员和律师进行的调查<a href="http://www.ftchinese.com/story/001049485"><u>没有发现任何证据支持这一指控</u></a>。根据《华尔街日报》英文版的<a href="http://online.wsj.com/article/SB10001424127887324532004578365064172055862.html"><u>报道</u></a>，美国司法部去年对其中国部门是否涉嫌海外腐败行为展开了调查。报道称，美国司法部在2012年初告知新闻集团，一位告密者匿名举报《华尔街日报》的一至多位员工向中国政府官员赠送了礼物。新闻集团告诉司法部，部分公司官员相信告密者是中国政府的特工，目的是寻求破坏和报复《华尔街日报》对中国领导人的报导，因为举报的时机太巧合了。去年三月《华尔街日报》报导了薄熙来与一位英籍男子死亡有关联。
+➜Mars One寻找愿意死在火星的志愿者
+https://www.solidot.org/story?sid=33875	14012
+<a href="http://en.wikipedia.org/wiki/Mars_One"><u>Mars One</u></a>是荷兰企业家Bas Lansdorp发起的私人火星探测计划，目的是在火星建立永久殖民地。Lansdorp上周接受采访时表示，将人类送往火星和在火星生活的技术已经存在，但是将人类送回地球的技术还没有诞生。他表示，正在寻找完全可靠的，合作和厄境中积极乐观的志愿者。<a href="http://www.cbc.ca/news/world/story/2013/03/16/mars-one-live-die-mars.html?cmp=rss"><u>寻找志愿者的工作</u></a>从今年开始，他们将接受八年的训练，离开地球的日期预计在2022年9月。
+➜GNU/Linux内核新特性引发提权漏洞
+https://www.solidot.org/story?sid=33876	14537
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "
+<a href="http://en.opensuse.org/openSUSE:Security_team">SUSE安全研究</a>成员<a href="http://c-skills.blogspot.com/">Sebastian Krahmer</a>公布了<a href="http://www.openwall.com/lists/oss-security/2013/03/13/8">GNU/Linux内核提权漏洞</a>，最近的GNU/Linux kernel( 3.8+)引进了一个为了方便container实现的新特性：user-namespaces(user-ns, CLONE_NEWUSER flag)，这个特性可以让你拥有你自己为0的UID，作为container对于进程的隔离这样方便了实现，但也带来了相关的安全隐患，具体的讲，如果你把这个特性和CLONE_FS混合的使用就会让不同的container(即进程)间共享文件系统的状态，攻击者会通过这样的组合得到root权限：
+<p></p>
+<p>
+</p>
+</i>
+<p><i>只有当子进程得到自己的user-ns(用户命名空间)时父进程和子进程共享了文件系统的信息（这个例子中的chroot就是如此），在自己的user-ns里使用chroot()系统调用并且和在clone()时加入CLONE_FS就会直接影响父进程，而父进程是在user-ns的初始化阶段时就已经拥有root权限了，<a href="http://stealth.openwall.net/xSports/clown-newuser.c">exploit已经公布到这里</a>。"</i></p>
+➜地震在瞬间制造出金矿
+https://www.solidot.org/story?sid=33877	18874
+科学家早就知道，金矿是漫长的地质过程的结果。但根据发表在《Nature Geoscience》上的<a href="http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo1759.html"><u>研究报告</u></a>，金矿事实上可以在瞬间创造出来——<a href="http://www.nature.com/news/earthquakes-make-gold-veins-in-an-instant-1.12615"><u>可能只需要几分之一秒</u></a>。沿着地壳深处的断裂带，空腔充满了富含金和硅酸盐矿物质等溶解物质的液体，在一场大地震中，处于高压环境的液体，突然的减压会驱动被称为闪蒸（flash evaporation）的过程，迅速变成矿物质晶体。例如，地表11千米下的4级地震会导致压力突然从290 MPa降至0.2 MPa（相比之下海平面空气压强是0.1MPa）。因此一场大型地震能在断层区表面瞬间创造出丰度为每平方米不到0.1毫克的金矿。<a href="http://news.sciencemag.org/sciencenow/2013/03/scienceshot-earthquakes-deposit-.html?rss=1"><u>研究显示</u></a>，圣安地列斯断层带可在不到10万年内产生储量100吨黄金的金矿。
+➜海盗湾最古老的种子是《Revolution OS》
+https://www.solidot.org/story?sid=33878	24897
+<center>
+<iframe src="http://www.youtube.com/embed/CjaC8Pq9-V0" allowfullscreen="" frameborder="0" height="315" width="420"></iframe>
+</center>
+在torrent上传近九年之后，<a href="http://torrentfreak.com/the-pirate-bays-oldest-torrent-is-revolution-os-130317/"><u>海盗湾最古老的种子</u></a>仍然有许多活跃的做种者。这个torrent不是好莱坞经典电影或是经久不衰的唱片专辑，而是一部纪录片。纪录片《<a href="http://en.wikipedia.org/wiki/Revolution_OS"><u>Revolution OS</u></a>》讲述了Linux、GNU和自由软件运动的历史。海盗湾诞生于2003年，《Revolution OS》的种子文件上传时间是2004年3月31日，当时海盗湾上只有寥寥几百个torrent，相比之下今天的数量超过了200万。
+➜中国高级将领承认向日舰照射火控雷达
+https://www.solidot.org/story?sid=33879	27273
+<a href="http://weibo.com/mindgame">blackee</a> 写道<i> "日本共同社<a href="http://china.kyodonews.jp/news/2013/03/48623.html">报道</a>：中国军方的多名高级将领日前在接受共同社采访时承认，中国海军军舰1月<a href="http://www.solidot.org/story?sid=33403">曾向日本海上自卫队的护卫舰照射火控雷达</a>。中国将领强调照射火控雷达是舰长的紧急判断，是偶发事件。此外，有关中国国家海洋局的飞机去年12月在尖阁诸岛（中国称钓鱼岛）附近侵犯日本领空一事，中国将领承认这是军方计划的，但表示军方无意在此之后使事态进一步升级，现在也没有这样的打算。<b>接受采访者要求日本勿公开照射雷达的证据</b>，缓和两国对立关系。中国的多名将领透露，1月30日上午10点左右，中国海军护卫舰“连云港”和日本护卫舰“夕立”在尖阁诸岛以北约110至130公里的海面快速接近，相距仅3公里左右。感到恐惧的中国舰长依据交战规则照射了火控雷达。在照射雷达之前，舰长并未向舰队司令部和海军司令部请示。中国将领就其理由解释称，中国海军的通信设备不如日美那样先进。目前不清楚事发舰长是否受到处分或被调职。"</i>中国国防部<a href="http://news.mod.gov.cn/headlines/2013-03/18/content_4437556.htm"><u>回应</u></a>称，日方别有用心。
+➜RSS发明者不为Google Reader感到遗憾
+https://www.solidot.org/story?sid=33880	29439
+许多人都怀念被Google杀死的Google Reader阅读器，如change.org上的<a href="https://www.change.org/petitions/google-keep-google-reader-running"><u>请愿</u></a>已有超过12万人签名，但第一版RSS作者<a href="http://en.wikipedia.org/wiki/Dave_Winer"><u>Dave Winer</u></a>却一点也<a href="http://www.zdnet.com/rss-inventor-doesnt-see-what-all-the-fuss-is-about-closing-google-reader-7000012687/"><u>不为它感到惋惜</u></a>，他认为这不是什么值得大书特书的事情，真正令人担忧的是Google企图控制新闻流动。他指出，人们仍然可以继续使用RSS而不用依赖Google Reader，Google关闭GR是好消息而不是坏事。他的理由是统治者的离开将能激发市场活力。RSS客户端并不缺乏，开发者对GR一家独大已抱怨了很长时间。Winer认为，Google正试图控制新闻访问，类似苹果控制客户购买的应用，Twitter决定哪个客户端可以访问tweet。
+➜《Left 4 Dead 2》角色进入《生化危机6》，反之亦然
+https://www.solidot.org/story?sid=33881	31235
+僵尸生存游戏《Left 4 Dead 2》中的四位主角Coach(高中橄榄球教练)、Nick、Ellis和Rochelle不久以后<a href="http://arstechnica.com/gaming/2013/03/left-4-dead-characters-coming-to-resident-evil-6-on-pc-and-vice-versa/"><u>将可以在另一个僵尸生存游戏中控制和游戏</u></a>。《生化危机6》的开发商Capcom借用了Valve的僵尸屠杀四人组和部分僵尸。《生化危机6》PC版将于3月22日发布，两周之后将免费发布一个DLC“Mercenaries No Mercy”模式，允许玩家控制《Left 4 Dead 2》中的角色，该模式还引入游戏中的特殊感染僵尸“女巫（Witch）”和“Mini-Tank”。与此同时，《Left 4 Dead 2》中的玩家也将能在游戏中迎战《生化危机6》中的僵尸Lepotitsa、Napad和Ogroma。
+➜众女子争夺李克强饮剩矿泉水
+https://www.solidot.org/story?sid=33882	31457
+<a href="/~mtjs">mtjs</a> 写道 <i>"
+据国内外多家媒体<a href="http://news.takungpao.com.hk/mainland/focus/2013-03/1496945.html">报道</a>，在李克强总理记者招待会结束，当李克强与其他副总理离开记者会的会场后，很多记者蜂拥冲到台前，原来是抢夺他们用过的铅笔、纸张……，最神奇的一幕，是有几名女子同时争夺一樽李克强饮剩的矿泉水，结果由一名白衣女子成功夺得，并心满意足放进手提包。如果有人担心DNA的问题我想就不必了，李克强总理不是直接用瓶子喝的（把水倒在水杯中喝）。"</i>
+➜3D打印武器制造商获得武器销售许可证
+https://www.solidot.org/story?sid=33883	34533
+研发3D打印武器的组织Defense Distributed上周宣布，它的创始人Cody Wilson获得了联邦枪支许可证，<a href="http://arstechnica.com/tech-policy/2013/03/3d-printed-gunmaker-now-has-federal-firearms-license-to-manufacture-deal-guns/"><u>允许制造和销售枪支</u></a>。Wilson和朋友过去几个月一直在研究制造3D打印武器，最近他们演示了一把A15半自动步枪。根据美国法律，制造半自动武器不需要许可证。Wils表示他还在申请联邦枪支许可证的Class 2 SOT（<a href="https://en.wikipedia.org/wiki/Special_Occupational_Taxpayers">Special Occupational Taxpayer</a>），获得该许可证后他将可以制造全自动步枪，之后他将展开3D打印武器的制造和销售。
+➜GCC 4.8 RC1发布
+https://www.solidot.org/story?sid=33884	36524
+GNU Compiler Collection<a href="http://gcc.gnu.org/ml/gcc/2013-03/msg00127.html"><u>发布</u></a>了<a href="ftp://gcc.gnu.org/pub/gcc/snapshots/4.8.0-RC-20130316/"><u>v4.8分支的首个RC</u></a>，正式版预计将在本周晚些时候发布。GCC正从一个C语言实现转变成C++语言实现，转变工作已基本完成。GCC 4.8包括了通用优化改进，改进新语言和语言支持，实现了更多 C++11规格，增加了ARM新64位处理器架构AArch64支持，改进ARM其它架构支持，等等。
+➜中国廉价Android手机在这里制造
+https://www.solidot.org/story?sid=33885	39677
+《MIT技术评论》一篇文章指出，今天<a href="http://www.technologyreview.com/news/511796/heres-where-they-make-chinas-cheap-android-smartphones/"><u>人人都能制造智能手机</u></a>。<br>
+<i>38岁的企业家Liang Liwan一年前没有制造过一部智能手机，今年他计划制造1000万部。他的公司首先购买零部件，然后运到深圳的几家小工厂组装成零售价约65美元的智能手机。去年手机厂家共制造了7亿部智能手机，但整个市场呈现出两头大的局面，一头是苹果和三星的高端产品，另一头是中国小厂商供应的无数不知名品牌的低端产品。智能手机市场的转变始于2011年，当芯片制造商联发科和<span style="cursor: pointer;">展讯</span>开始供应成套的芯片组，再加上Google的Android系统，智能手机越来越容易制造。为了加入智能手机制造游戏，中国制造商也需要大量投资，例如一条生产线花了150万美元。手机芯片组的费用大约为5到10美元，制造一部手机的成本大约为40美元，Liwan的工厂每天能为康佳和联通生产最多3万部智能手机。Liang 说，他的目标是让人人都能负担得起智能手机，即使其质量不如 iPhone。</i>
+➜中国维生素C厂商被处以10亿元罚款
+https://www.solidot.org/story?sid=33886	40541
+《纽约时报》<a href="http://cn.nytimes.com/article/business/2013/03/18/c18vitamin/"><u>报导</u></a>，美国一家联邦地区法院勒令生产维生素C的中国企业缴纳1亿6230万美元（约合10.18亿元人民币）的罚金，此前，陪审团认定这些公司有操纵价格的行为。鉴于中国生产的抗坏血酸（即维生素C）占全球总量的80%左右，本案可谓至关重要。维生素C是食品、软饮料、动物饲料乃至化妆品等众多产品的重要成分。中国生产的维生素还是可口可乐等知名品牌旗下产品的配方成分。本案因中国公司的惊人辩词而引人注目。当庭承认串谋操纵价格时，这些公司的辩护律师说，是中国政府逼迫他们这么干的。法庭文件显示，中国商务部支持中国公司的说法。
+➜窃取iPad用户信息的黑客面临入狱
+https://www.solidot.org/story?sid=33887	42814
+<a href="http://www.clear15.com/">Bug</a> 写道<i> "
+2010年6月，安德鲁·奥恩海默(Andrew Auernheimer)和另外一个美国人 Daniel Spitler 在访问 AT&amp;T 的一个不安全的 Web 服务器的时候发现只要输入用户的无线账号，就能获得其邮箱地址，随后他写了一个小小的计算机程序，通过反复发送查询，从 AT&amp;T 对外开放的，没有严格保护的数据库中窃取了超过10万 iPad 用户的电子邮件地址。在2012年11月，他美国一家联邦法院裁定蓄谋未经许可侵入服务器以及盗窃信息两项罪名成立。
+<p></p>
+按照程序，安德鲁·奥恩海默将在本周一前往美国纽瓦克联邦法院，<a href="http://www.businessinsider.com/andrew-weev-auernheimer-att-ipad-hacker-sentencing-2013-3">面临被判刑</a>。检察官正在寻求将安德鲁·奥恩海默判处33-41个月的有期徒刑。检察官认为安德鲁是一个泄露 AT&amp;T 用户电子邮件地址黑客团伙的一员，该黑客团伙通过 Gawker 网站发布信息，称自己有能力获得不少名人的电子邮件。该团伙已经泄露了包括白宫办公厅主任拉姆·伊曼纽尔（Rahm Emanuel）、ABC新闻的黛安·索耶（Diane Sawyer）、好莱坞制片人哈维·温斯坦（Harvey Weinstein）、纽约市长迈克尔·彭博（Michael Bloomberg）和数十位首席执行官、政客和军方官员的电邮地址。安德鲁的律师则乐观的认为安德鲁应该获得缓刑。恐怖主义？黑客？自由战士？<a href="http://www.clear15.com/bug/16.html">安德鲁·奥恩海默</a>将开始恐惧明天在监狱的生活。"</i>
+➜量子机器人
+https://www.solidot.org/story?sid=33888	44894
+机器人的名字最早由1920年捷克作家Karel Čapek提出，直到在1960年代才走进人类世界，如今已被广泛使用，但21世纪的机器人是否需要一次飞跃？《科学美国人》的一篇文章谈论了<a href="http://blogs.scientificamerican.com/guest-blog/2013/03/17/i-quantum-robot/"><u>量子机器人</u></a>，描述了量子机器人相对于标准机器人的优势。作者称，量子机器人是结合了机器人技术和量子计算的机器人，机器人是一种能完成一系列复杂任务的自主机器，控制机器人的程序是基于人工智能。量子机器人则内含复杂的量子系统，控制机器人的程序是基于量子搜索算法和量子强化学习算法。量子强化学习是基于量子态的叠加和量子并行性。作者认为，在应用量子效应后，与标准机器人相比，量子机器人将更快更精确能同时执行多个任务，

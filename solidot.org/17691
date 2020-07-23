@@ -1,0 +1,12 @@
+➜美国称中国黑客窃取了海军武器机密数据
+https://www.solidot.org/story?sid=56790	50422
+匿名美国官员称，中国政府黑客<a href="https://news.slashdot.org/story/18/06/08/1921249/china-hacked-a-navy-contractor-and-secured-a-trove-of-highly-sensitive-data-on-submarine-warfare" target="_blank"><u>入侵了</u></a>一家海军承包商的计算机系统，窃取了大量高度敏感数据，这些数据与水下武器相关，包括了研发超音速水下反舰导弹的计划，美国计划到 2020 年在潜艇上装备这种导弹。入侵发生在今年 1 月 和 2 月，黑客以一家与美国海军水下战中心有合作的承包商为目标，该承包商的名字没有披露。有 614 GB 的数据失窃，这些数据与名叫 Sea Dragon 的项目、信号和传感器数据、加密系统相关的潜艇无线电室情报，以及海军潜艇研发机构的电子战库相关。
+➜思科系统再次发现硬编码的后门账号
+https://www.solidot.org/story?sid=56791	52008
+四个月来的第四次，思科从其产品中<a href="https://www.bleepingcomputer.com/news/security/cisco-removes-backdoor-account-fourth-in-the-last-four-months/" target="_blank"><u>移除了</u></a>一个硬编码的后门凭证，攻击者可利用该凭证访问受影响的设备。最新发现的这个硬编码账号存在于 Wide Area Application Services (WAAS)软件包中，该软件被用于优化 WAN 流量管理。后门是 SNMP daemon 配置文件中的一个硬编码只读 SNMP 团体字符串（Community String）。SNMP 代表 Simple Network Management Protocol，从远程设备上收集数据的网络协议。该字符串是安全研究人员在研究另一个漏洞时无意中发现的，它对设备拥有者而言是隐身的。
+➜数字货币的  51% 攻击正日益常见
+https://www.solidot.org/story?sid=56792	54968
+曾经被认为只存在于理论上的攻击<a href="http://telegra.ph/Blockchains-Once-Feared-51-Attack-Is-Now-Becoming-Regular-06-08" target="_blank"><u>今天却越来越常见</u></a>。Monacoin、bitcoin gold、zencash、verge 和 litecoin cash，至少五种数字加密货币上个月遭遇了 51% 攻击，攻击者在积累了足够的算力后短暂劫持了这些数字货币的区块链网络，重新安排交易，窃取了数百万美元。<a href="https://en.bitcoinwiki.org/wiki/51%25_attack" target="_blank"><u>51% 攻击</u></a>曾被认为极其罕见，部分专家认为大型区块链网络的矿工永远不会成为受害者。他们认为 51% 攻击过于昂贵而难以盈利。但现实否定了这些观点。纽约大学计算机科学研究员 Joseph Bonneau 去年发表研究报告，估计了租赁而不是购买所有设备来执行 51% 攻击的成本。他的一个结论是，此类的攻击将会逐渐增加，区块链社区认为 51% 攻击是非常遥远的威胁，他对此发出了警告，但他本人也没有预料到攻击是如此快的到来。
+➜Oath 将在 7 月 17 日关闭 Yahoo Messenger
+https://www.solidot.org/story?sid=56793	57585
+Oath <a href="https://betanews.com/2018/06/08/yahoo-messenger-to-close/" target="_blank"><u>宣布</u></a>将于 7 月 17 日关闭雅虎著名的消息服务 Yahoo Messenger。Yahoo Messenger 发布于 20 年前，曾是非常受欢迎的聊天服务，现在 Oath 宣布该服务将于 7 月 17 日关闭，此后聊天功能将不再可用，用户只有六个月的时间下载聊天历史。目前没有 Yahoo Messenger 的直接替代，用户可选择使用一个邀请制的群组消息应用 Yahoo Squirrel。Oath 表示知道 Yahoo Messenger 还有自发布起一直使用该服务的忠实粉丝，但它认为构建和引入新的通信工具能更好的满足消费者需求。

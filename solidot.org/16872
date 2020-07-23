@@ -1,0 +1,12 @@
+➜深圳普联证实为遵守FCC规定将禁止安装第三方开源固件
+https://www.solidot.org/story?sid=47464	40105
+路由器制造商深圳普联（TP-Link）<a target="_blank" href="http://arstechnica.com/information-technology/2016/03/tp-link-blocks-open-source-router-firmware-to-comply-with-new-fcc-rule/"><u>证实</u></a>为了遵守FCC的规定而禁止安装第三方开源固件。普联的路由器颇受开源社区的欢迎，但不是因为它的产品性能出色，而是因为它以较低的价格提供了还可以的硬件，它的软件被认为比较差，但替换开源固件后其表现将能焕然一新。普联在其美国网站的FAQ中<a target="_blank" href="http://www.tp-link.us/faq-1058.html"><u>声称</u></a>， FCC要求所有制造商阻止用户能直接修改射频参数(频率限制、输出功率、国家代码，等等），该公司销售的产品将使用根据国别定制的固件，在美国销售的产品将限制安装第三方固件，以遵守当地的法律和监管要求。根据FCC的要求，这一变更将从2016年6月2日起生效。
+➜OTR协议实现漏洞影响Pidgin等开源IM软件
+https://www.solidot.org/story?sid=47465	42047
+众多安全即时聊天工具如ChatSecure、Pidgin、Adium和Kopete使用的Off-the-Record (OTR)协议实现库libotr<a target="_blank" href="https://www.helpnetsecurity.com/2016/03/10/critical-bug-libotr-open-users-chatsecure-adium-pidgin-compromise/"><u>发现了一个高危漏洞</u></a>，攻击者能利用该漏洞崩溃聊天工具或远程执行代码，入侵受害者的电脑，窃取密钥和聊天日志。该漏洞可以通过发送一个特制的信息触发，攻击者无需被加入到受害者的联系人列表，不需要用户交互或授权。漏洞存在于libotr 4.1及以下版本中，开发者已经发布了更新<a target="_blank" href="https://otr.cypherpunks.ca/index.php#news">libotr v4.1.1</a>修复漏洞，各大聊天工具也都释出了更新。
+➜《英雄萨姆1》引擎开源
+https://www.solidot.org/story?sid=47466	42258
+《英雄萨姆（Serious Sam）》系列的游戏开发商 Croteam学习了id Software的做法，开源了它的第一代游戏的引擎。该引擎被用于开发了《Serious Sam 1》、《Serious Sam Classic: The First Encounter》和《The Second Encounter》。开源的引擎版本是<a target="_blank" href="https://github.com/Croteam-official/Serious-Engine"><u>Serious Engine v.1.10</u></a>，源代码托管在Github上，采用GPLv2许可证授权。Croteam开发者称，源代码易于修改，感兴趣的人可以用它尝试构建自己的游戏。
+➜AlphaGo战胜李世石，AI征服围棋
+https://www.solidot.org/story?sid=47467	54580
+Google DeepMind的AlphaGo在五局三胜制比赛中以3:0<a target="_blank" href="http://www.wired.com/2016/03/third-straight-win-googles-ai-claims-victory-historic-match-go-champ/"><u>战胜</u></a>韩国九段棋手李世石，AI征服围棋已经不是疑问而是现实，接下来两局比赛的看点将是AlphaGo究竟是完胜还是李世石能扳回一局。围棋曾被认为至少在十年内机器无法战胜职业棋手，但这个传说去年10月AlphaGo 5:0战胜樊麾二段时就已经被攻破。围棋将和曾经的国际象棋一样，职业选手需要在机器帮助下磨砺技能提高自己。《连线》的一篇文章<a target="_blank" href="http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/"><u>采访了被AI击败的樊麾二段</u></a>，称他通过学习AI而在几个月内使其在全球的排名提高几百位。

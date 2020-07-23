@@ -1,0 +1,50 @@
+➜Windows Defender 成为首个运行在沙盒里的杀毒软件
+https://www.solidot.org/story?sid=58395	12382
+微软官方博客<a href="https://cloudblogs.microsoft.com/microsoftsecure/2018/10/26/windows-defender-antivirus-can-now-run-in-a-sandbox/"><u>宣布</u></a> Windows Defender <a href="https://www.zdnet.com/article/windows-defender-becomes-first-antivirus-to-run-inside-a-sandbox/" target="_blank"><u>成为首个能运行在沙盒环境里的杀毒软件</u></a>。沙盒是一种提供隔离环境的安全机制，控制程序可使用的资源如内存和磁盘空间，防止 bug 和漏洞利用代码从一个进程扩散到另一个进程，或扩散到底层操作系统。逃离沙盒对恶意程序而言是非常困难的。升级到 Windows 10 version 1703 以上版本的用户可以手动启用这项功能：打开开始菜单，输入 cmd.exe；右键 cmd.exe，选择以管理员身份运行；输入 setx /M MP_FORCE_USE_SANDBOX 1，确认，等待验证，然后重启电脑。
+➜Pixel 3 XL 的 bug 给屏幕增加了一个“刘海 ”
+https://www.solidot.org/story?sid=58396	13393
+<div align="center"><img src="//img.solidot.org/0/718/liyhZZwS8mZw.png" width="320" height="209" align=""><br>
+<br>
+</div>
+在 iPhone X 之后，很多智能手机都跟着采用了类似的“刘海”缺口设计，而 Google 将这一设计范式发挥到了新的境界：它的屏幕<a href="https://www.androidpolice.com/2018/10/29/hilarious-pixel-3-xl-bug-adds-second-notch-side-screen/" target="_blank"><u>出现了两个“刘海 ”</u></a>（如图所示）。有多名 Pixel 3 XL 用户报告了这一有趣的 bug。这些用户称他们是在重启或修改开发者设置后遭遇这一问题的。Google 发表声明称它已经知道这个问题，修正将会很快释出。
+➜家庭和学校背景影响年轻人接受大学教育
+https://www.solidot.org/story?sid=58397	14486
+首份关于遗传和环境对高等教育的影响的研究<a href="http://www.ftchinese.com/story/001079993"><u>显示</u></a>，家庭和学校背景对年轻人是否进入大学存在显著影响，但对他们入学后的学业表现没有影响。伦敦国王学院的研究人员对英国3000对同卵和异卵双胞胎、以及另外 3000 人进行了研究，试图找到是哪些因素决定一个人是否进入大学和入学后的学业表现。该研究结果发表在《科学报告》杂志上。高中毕业生能否进入大学，遗传因素占 51% 的原因。研究人员所说的“共同环境”——主要指学校和家庭背景——占 36%，而反映个体状况的“非共同环境”占 13%。虽然该研究没有特别分析学生的社会经济背景，但研究的发现支持如下观点：与出身较好的同龄人相比，来自贫困和弱势家庭的青少年接受大学教育的可能性更低，即使他们的基因条件非常有利。研究人员建议，招生政策应该更多地考虑到这些社会因素。
+➜美国限制本国企业与福建晋华做生意
+https://www.solidot.org/story?sid=58398	17803
+美国商务部周一<a href="https://www.commerce.gov/news/press-releases/2018/10/addition-fujian-jinhua-integrated-circuit-company-ltd-jinhua-entity-list"><u>引用</u></a>国家安全理由，禁止本国企业向福建省晋华集成电路有限公司出口产品。美国商务部今年早些时候也对中兴实施了贸易禁令，理由是违反和解协议，这一禁令在双方再次达成和解中兴缴纳巨额罚款之后解除，而禁令一度导致中兴濒临破产。福建晋华与台湾联华电子公司合作研发内存芯片和建造内存芯片生产线，美国的内存芯片巨头美光今年上半年起诉两家公司<a href="https://www.solidot.org/story?sid=56941"><u>窃取其技术机密</u></a>。美国商务部在声明中称，晋华参与了与美国国家安全利益或外交政策利益相悖的活动。商务部长  Wilbur Ross 称，当一家企业参与违反美国国家安全利益的活动时，美国将会采取强有力的行动去保护国家安全。将晋华列入管制实体名单将能限制其威胁美国军用系统必要元件供应链的能力。
+➜Steam Play 让更多 Windows 独占游戏能运行在 Linux 上
+https://www.solidot.org/story?sid=58399	19023
+Valve 今年八月<a href="http://3.solidot.org/story?sid=57656"><u>发布了</u></a>一个全新的 Windows 兼容工具，让 Linux 能运行 Windows 独占游戏。被称为 Proton 的 Wine 修改版本，使用 Vulkan 实现了 DirectX 11 与 12，改进了兼容性并降低了对性能的影响。玩家可以使用包含 Proton 的 Steam Play 工具去测试 Windows 游戏，然后报告游戏的兼容性。根据 ProtonDB <a href="https://www.protondb.com/" target="_blank"><u>收集的玩家报告</u></a>，玩家测试的 5,164 个游戏有 2,671 个游戏能在 Linux 上正常运行。这一数据未必精确，因为系统的配置和运行环境变量太多，能在一台 Linux 计算机上正常工作在游戏在另一台 Linux 计算机上未必就运行良好。但这些数据至少显示了 Linux 平台可运行的 Windows 游戏数量出现了大幅增长。
+➜Gab 下线，声明将捍卫言论自由
+https://www.solidot.org/story?sid=58400	25808
+在美国匹茨堡犹太会堂上周发生造成 11 人死亡的枪击案后，众多科技公司宣布<a href="https://www.solidot.org/story?sid=58384"><u>停止</u></a>为枪手使用的社交网络  Gab 提供服务，其中包括支付服务公司 PayPal 和 Stripe，以及 Joyent，Medium 和 GoDaddy，Gab 随后下线。Gab CEO Andrew Torba 在<a href="https://gab.com/" target="_blank"><u>官网</u></a>发表了一份措辞强硬的声明，宣称 Gab 是遭到最多审查，最多抹黑的无平台创业公司，表示 Gab 将会竭尽所能重新上线，捍卫言论自由和个人自由，称所有对 Gab 的抨击让它成为一个国家知名的品牌，一个网络中的言论自由之家。Torba 声称 80% 的普通人认同 Gab 支持言论自由和个人自由，网络中的暴民和主流媒体的说谎机器传达的是少数人的意见，人民将会觉醒，你们无法阻止一个理念。
+➜Julian Assange 称厄瓜多尔打算停止对他的庇护
+https://www.solidot.org/story?sid=58401	27311
+维基解密网站创始人 Julian Assange <a href="https://cn.reuters.com/article/wikileaks-assange-ecuador-asylum-1030-idCNKCS1N40BP?il=0"><u>周一表示</u></a>，厄瓜多尔打算停止驻伦敦使馆对他的庇护，并将他交给美国。Assange 在使馆内通过电话会议在一个听证会上作证。该听证会有关 Assange 针对厄瓜多尔政府提出的起诉，因为后者要求他支付医疗和通信费用、并做好宠物猫的清洁。他六年前躲入厄瓜多尔大使馆，以逃避因性骚扰案被引渡至瑞典，后来该案被撤诉。在听证会期间，Assange 表示这些新规说明厄瓜多尔试图把他赶出去，并称厄瓜多尔总统 Lenin Moreno 已经决定结束对他的庇护，但尚未正式下令。法官 Karina Martinez 驳回了起诉，称外交部负责决定他的居住环境。
+➜研究认为比特币挖矿有可能将全球温度提高两度
+https://www.solidot.org/story?sid=58402	28435
+比特币挖矿的耗电量一直备受诟病，根据发表在《 Nature Climate Change》期刊上的<a href="https://www.nature.com/articles/s41558-018-0321-8" target="_blank"><u>一项研究</u></a>，如果比特币交易能像信用卡交易那样普及，那么到 2033 年比特币挖矿有可能将全球温度<a href="https://motherboard.vice.com/en_us/article/neganb/bitcoin-mining-could-raise-global-temperatures-by-2-c" target="_blank"><u>提高两度</u></a>。研究人员根据矿机的效率、矿场的位置，所在国家发电产生的二氧化碳等计算得出，比特币挖矿去年产生了 6900 万公吨二氧化碳，超过全球能源生产排放量的 1%。而比特币交易只占到全球无现金交易的 0.03%。研究人员估计，如果比特币交易得到普及，那么它的温室气体排放在 16 年内能将全球气温提高 2 摄氏度。如果普及较慢，那么它将在 22 年内抵达这一阈值。
+➜亚马逊通过 AmazonSmile 向慈善机构捐出一亿美元
+https://www.solidot.org/story?sid=58403	30493
+亚马逊<a href="https://press.aboutamazon.com/news-releases/news-release-details/amazon-announces-100-million-donated-charities-through"><u>宣布</u></a>它通过 AmazonSmile 向慈善机构捐出超过一亿美元。通过 AmazonSmile 消费者每次在亚马逊上购物时可以将一小部分购物额捐给他们指定的一个慈善机构，但不会增加额外的支出。为了庆祝捐款金额超过一亿美元，亚马逊宣布从现在到 11 月 2 日，它将对指定产品的捐款比例提<a href="https://smile.amazon.com/"><u>高到 5%</u></a>。 AmazonSmile 支持数十万个慈善机构，其中包括多个针对中国的慈善组织。
+➜你的脑电波能完全取代密码
+https://www.solidot.org/story?sid=58404	33588
+指纹、脸部识别和视网膜扫描是比传统密码更安全的生物识别技术，它们很难伪造，但有一个巨大的弱点：一个人只有一张脸、两只眼睛和十个手指。一旦存有生物识别信息的数据库被入侵，那么重置密码几乎是不可能的。纽约州立大学布法罗的 Wenyao Xu 和 Feng Lin 称他们的<a href="https://scholar.google.com/citations?user=4EPE1s4AAAAJ&amp;hl=en" target="_blank"><u>团队</u></a>发明了一种新型生物识别技术，具有指纹视网膜等的唯一性，也很容易重置密码。<a href="https://www.fastcompany.com/90257174/the-future-of-passwords-your-brain"><u>这种生物识别技术利用了脑电波</u></a>。研究人员发现，每个人对一个外部刺激的反应是不同的，两个人看同一张照片他们的脑电波数据是不同的，这个过程自动且无意识，无法控制。一个人看某个名人的照片时候他们的脑反应方式是相同的，但与其他人的反应是不同的。他们的<a href="https://dl.acm.org/citation.cfm?doid=3210240.3210344" target="_blank"><u>大脑密码</u></a>论文发表在 MobiSys '18 上。
+➜英国针对科技巨头开征数字服务税
+https://www.solidot.org/story?sid=58405	37278
+科技巨头在英国将需要缴纳更多税了。英国财政大臣 Phillip Hammond<a href="https://www.itproportal.com/news/uk-announces-digital-services-tax-on-tech-giants/" target="_blank"><u> 宣布了</u></a>针对亚马逊、Google 和 Facebook 等巨头的数字服务税，税率 2%。从 2020 年 4 月起，大型社交媒体平台、搜索引擎和网上商店将需要就英国用户相关的收入缴纳 2% 的税。科技巨头过去几年一直批评交税太少，政府面临来自公众和政客的越来越大的压力，要求对这些公司采取行动。Hammond 告诉议会，新的税收是精心设计的，确保科技巨头需要缴纳新税，而不是创业公司。
+➜查良镛去世，享年 94 岁
+https://www.solidot.org/story?sid=58406	41237
+明报<a href="https://bka.mpweekly.com/focus/20181030-136309"><u>报道了</u></a>该报创办人查良镛去世的消息。
+<i>查良镛，笔名金庸，出生于浙江海宁，是查升之孙查揆的后裔，出生于 1924 年 3 月 10 日，1929 年入读家乡海宁县袁花镇小学，1936 年入嘉兴一中读初中，1939 年读初中三年级的他与同学合编了一本指导学生升初中的参考书——《给投考初中者》。 1945 年抗战胜利后返乡，曾在杭州《东南日报》暂任外勤记者。
+1946 年秋，查良镛进入上海《大公报》任国际电讯翻译。后调往香港分社。1952年调入《新晚报》编辑副刊，并写出《绝代佳人》、《兰花花》等电影剧本。期间与同事梁羽生相识为友。而后总编辑罗孚安排查与梁写武侠小说于副刊连载，梁羽生编写《龙虎斗京华》，查良镛以金庸为笔名写《书剑恩仇录》，引起轰动，顿时金梁齐名。1959 年于自办的《明报》上连载《神雕侠侣》。1953 年至 1958 年期间，他曾以林欢作笔名，为长城电影公司编写剧本，其中《绝代佳人》获中华人民共和国文化部金章奖。他在 1991 年的《资本杂志》的《九十年代香港华人亿万富豪榜》名列中排第 64 位，他亦被誉为文人致富的典型例子。</i>
+➜中国研发支出大幅增长，美国企业的研发支出仍然最高
+https://www.solidot.org/story?sid=58407	46222
+普华永道对 1000 家企业研发支出的跟踪<a href="https://globenewswire.com/news-release/2018/10/30/1638879/0/en/China-and-Europe-post-double-digit-increases-in-R-D-spending.html"><u>显示</u></a>，中国的支出增长最快，同比增长 34%，其次是欧洲的 14%，北美和日本增长都只有个位数，但这些地区大型企业的研发支出基数本来就相当高了。亚马逊、Google 母公司 Alphabet、苹果等公司的研发支出仍然遥遥领先。中国三大科技巨头百度、腾讯和阿里巴巴的研发支出<a href="https://cn.wsj.com/articles/CN-TEC-20181030140320" target="_blank"><u>落后于</u></a>至少 44 家公司，其中包括松下。
+➜美国法庭裁决酿成车祸的男孩不能强迫要求交出手机密码
+https://www.solidot.org/story?sid=58408	47418
+美国佛罗里达上诉法庭<a href="https://arstechnica.com/tech-policy/2018/10/court-teens-driving-killed-someone-but-he-cant-be-forced-to-give-up-passcode/"><u>裁决</u></a>，不能强迫一位出车祸导致人死亡的酗酒男孩交出 iPhone 7 手机密码。这名男孩可以援引宪法第五修正案免于自证其罪。涉案的青少年未成年，被称为 G.A.Q.L.，他在医院检查时候血液中的酒精浓度为 0.086，超过了法律限制。警方获得搜查令搜查了他的汽车，发现了两部 iPhone，其中一部属于幸免于难的女性乘客，另一部 iPhone 7 属于 G.A.Q.L.。警方再次获得了搜查令搜查手机，但无法执行，警方寻求法庭命令要求他交出手机密码和相关的 iTunes 账号密码。但代表青少年的律师以宪法第五修正案为其辩护。法庭同意了警方的要求，但上诉法庭又做出了相反的裁决。
+➜WHO 称空气污染是新的烟草
+https://www.solidot.org/story?sid=58409	48496
+世卫组织负责人 Tedros Adhanom Ghebreyesus 博士称，空气污染<a href="https://www.theguardian.com/environment/2018/oct/27/air-pollution-is-the-new-tobacco-warns-who-head" target="_blank"><u>是新的烟草</u></a>，一年杀死了 700 万人，伤害了数十亿人。Tedros 称，世界需要对这种新烟草采取类似的行动，称无论贫富，没有人能逃脱空气污染。这是一场无声的全球公共卫生紧急事件。WHO 本周发表了<a href="http://www.who.int/zh/news-room/detail/29-10-2018-more-than-90-of-the-world%E2%80%99s-children-breathe-toxic-air-every-day" target="_blank"><u>针对儿童的空气污染报告</u></a>，称世界约有 93% 15 岁以下儿童（即 18 亿儿童）每天呼吸遭受严重污染的空气，使他们的健康和发展面临严峻风险。世卫组织估计，2016 年，有 60 万名儿童死于因污染空气引起的急性下呼吸道感染。报告阐明，如果孕妇暴露于受污染的空气，更可能过早分娩，并产下低出生体重的瘦小婴儿。空气污染还会影响神经发育和认知能力，并可能引发哮喘和儿童期癌症。暴露于高水平空气污染的儿童在以后生命中罹患心血管病等慢性疾病的风险可能更高。

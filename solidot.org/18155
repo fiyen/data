@@ -1,0 +1,41 @@
+➜Linux 5.3 发布
+https://www.solidot.org/story?sid=62083	11136
+Linus Torvalds 在内核开发者邮件列表上<a href="https://lkml.org/lkml/2019/9/15/241"><u>宣布</u></a>释出 Linux 5.3。主要新特性包括：新系统调用 <a href="https://lwn.net/Articles/789023/"><u>pidfd_open()</u></a>帮助解决进程 ID 重用问题；任务调度器支持 <a href="https://lwn.net/Articles/762043/"><u>Utilization clamping</u></a>，该机制设计让调度器能更好的了解特定进程的需求；支持 AMD Navi GPU，支持 兆芯 x86 CPU，兆芯是台湾威盛（VIA）与中国政府的合资企业；支持  Intel Speed Select；英特尔 Tremont 芯片引入了三个新的 <a href="https://lwn.net/Articles/790920/"><u>umonitor</u></a> 指令； 支持 0.0.0.0/8 IPv4 IP 段；支持 IoT ACRN supervisor；等等，更多可<a href="https://kernelnewbies.org/Linux_5.3"><u>浏览</u></a> kernelnewbies。
+➜距离 Python 2 结束支持还剩 105 天
+https://www.solidot.org/story?sid=62084	14103
+Python 语言官网<a href="https://www.python.org/doc/sunset-python-2/"><u>再次提醒用户</u></a>，距离 Python 2 结束支持只剩下 <a href="https://pythonclock.org/" target="_blank"><u>105</u></a> 天了。Python 2 系列的最后一个分支 Python 2.7 将于 2020 年 1 月 1 日结束支持，此后开发者不会再提供安全更新。Python 2.0 是在 2000 年发布的，2008 年发布的 Python 3.0 不向后兼容 2.x，因此 Python 2.x 代码不能简单迁移到 3.x。因为有大量 Python 2.x 代码没有及时升级，开发者已经多次推迟了 2.x 的结束支持时间。但仍然有大量应用<a href="https://developers.slashdot.org/story/19/09/14/2245258/python-2-sunsets-in-107-days-jpmorgan-isnt-ready"><u>无法在截止日期前完成升级</u></a>，其中之一是 JP摩根的 Athena 交易平台，它计划到 2020 年第四季度迁移到 Python 3.x。
+➜今日头条等应用被指超范围采集公民个人隐私
+https://www.solidot.org/story?sid=62085	18205
+国家计算机病毒中心<a href="http://www.nbd.com.cn/articles/2019-09-16/1371816.html"><u>发布了</u></a>《移动 APP 违法违规问题及治理举措》（官网未找到），公布了存在的六大类问题的 APP 和 SDK，这些问题包括包括远程控制、恶意扣费等八大类恶意行为、涉嫌侵犯公民个人隐私、涉嫌超范围采集公民个人隐私等。MOMO 陌陌（版本 8.18.7）、今日头条（版本 7.2.7）、京东金融 （版本: 5.2.32）、云闪付（版本: 6.2.6）都被指存在超范围采集公民个人隐私的问题。
+➜冲击 51 区：从玩笑变成可能的人道灾难
+https://www.solidot.org/story?sid=62086	18462
+今年 6 月，20 岁的加州  Bakersfield 学生 Matty Roberts 在 Facebook 上发起了一个玩笑性质的活动：“Storm Area 51, They Can't Stop All of Us”，顾名思义，通过召集大量人冲击神秘的 51 区去解开背后的外星人秘密。这个活动得到了病毒式传播，350 多万人表达了参加这一活动的兴趣，很多人可能也是出于玩笑，但还有一部分人是很严肃的，他们真的准备参加计划于 9 月 20 日进行的活动。其中一位是 33 岁的房地产投资者 Art Frasik，他说自己和其他人决定进入设施去曝光和拥抱发现的外星人。他说，这个设施是美国纳税人的税款资助的，在隐藏外星人技术 70 年之后，我们有权去看看它。已经有两名荷兰人在 51 区附近遭到逮捕。美国空军则再三发出警告，试图进入军用设施是危险的。发起人 Matty Roberts <a href="https://www.bbc.com/news/world-us-canada-49667295" target="_blank"><u>呼应了军方的警告</u></a>，表示他不希望任何人受到伤害。在活动病毒式传播开来后，FBI 已经找上门询问他发起活动的意图。
+➜意大利研究人员被发现有大量自引行为
+https://www.solidot.org/story?sid=62087	19679
+一项最新研究<a href="http://news.sciencenet.cn/htmlnews/2019/9/430568.shtm"><u>显示</u></a>，意大利科学家引用自己和本国同胞论文的速度比其他 10 个发达国家都要快。该研究作者说，意大利排外引用行为的激增可能是 2010 年颁布的一项法律的结果，该法律要求学术招聘或晋升必须符合引文数等指标。研究人员对 2000 年至 2016 年间十国集团研究人员的引文数量进行评估。结果发现，随着时间的推移，这些国家的内部引用情况都出现了适度增长。2010 年起，意大利从排名落后开始迅速上升。2016 年，意大利约 31% 的引文来自境内作者，超过了除美国之外的其他国家。
+➜手游第二银河强制解散香港公会
+https://www.solidot.org/story?sid=62088	26409
+中国游戏开发商紫龙旗下的手游《<a href="http://sg.zlongame.com/main.html"><u>第二银河</u></a>》据报道强制解散了多个香港公会。玩家在 Reddit 上<a href="https://www.reddit.com/r/Games/comments/d4brd7/mobile_game_second_galaxy_removing_guilds_with/"><u>发帖称</u></a>，公会管理员的账号被强行托管，随后公会成员被托管的管理员一个个踢出。被托管的公会包括了 HongKonger (HKer)、HK Glory (HKG)、HKFREEARMY (HKFA)、Free HK (FHK)、FEHK (HKE)、HK Legend (HKS)和
+HK Freedom (F4F)，等等。游戏管理员在一份声明中称，“如在游戏内发现任何危害国家安全和统一的人员和团队请向官方举办，一经查实，官方将严肃处理。”
+➜Google 搜索结果将突出原创报道
+https://www.solidot.org/story?sid=62089	27864
+Google 官方博客<a href="https://www.blog.google/products/search/original-reporting/"><u>宣布</u></a>，未来新闻搜索结果将突出原创报道。负责新闻的副总裁 Richard Gingras 称，以新闻报道为例，Google 的目标旨在提供多元化的文章和来源，给予用户足够多的新闻背景和洞察。新闻报道中的一个重要元素是原创报道，原创报道需要新闻出版商投入大量的时间、精力和资源。部分报道需要记者深入挖掘事实和来源，它们可能会对世界产生重要影响。在今天的快节奏新闻世界里，一个主题的原创报道留在聚光灯下的时间总是比较短。Google 决定突出原创报道，让这些报道能在高度可见的位置停留足够长的时间，允许用户查看原始报道和相关的后续更新。
+➜美国计划禁止从中车购买列车
+https://www.solidot.org/story?sid=62090	28298
+美国国会预计不久将批准一项立法，以国家安全和经济担忧为由，<a href="https://cn.nytimes.com/business/20190916/chinese-train-national-security/"><u>禁止中国国企中国中车在美国竞争新合同</u></a>。尽管几十年来美国企业没有单独生产过一节地铁车厢，但中国中车的低价格已在美国货运列车公司中引发担忧，它们担心中国中车最终可能会进入美国市场，并摧毁它们的业务。中国中车的投标出价一直低于竞争对手，赢得了面临基础设施老化和预算吃紧的城市交通部门的青睐。美国议员认为，中国国企追求的不是利润，而是中国政府要主导电动汽车、机器人和铁路等关键全球产业的政策目标。中国中车发言人表示，该公司是 “一场花费数百万美元的媒体虚假信息运动” 的受害者，这场运动的资金主要来自美国国内的货运列车公司，意欲利用公众对中国崛起的担忧。
+➜美国制裁为武器项目筹集资金的朝鲜黑客组织
+https://www.solidot.org/story?sid=62091	32005
+特朗普政府<a href="https://arstechnica.com/tech-policy/2019/09/us-sanctions-north-korean-hackers-for-wannacry-and-dozens-of-other-attacks/" target="_blank"><u>宣布制裁</u></a>三个被指利用网络攻击为该国的武器项目窃取资金的朝鲜黑客组织。这三个黑客组织都受控于朝鲜主要的情报机构朝鲜情报总局，其中最知名的是 Lazarus，该组织以军方，政府，以及金融、制造、出版、新闻和娱乐行业的企业为目标，它涉及的黑客攻击事件包括入侵索尼影业摧毁了该公司数千台电脑里的数据，以及传播 WannaCry 勒索软件。Lazarus 旗下的一个小组 Bluenoroff 在 2016 年入侵孟加拉国央行，如果不是打字错误它差一点就窃取到了 8.51 亿美元。Bluenoroff 还对印度、墨西哥、韩国、台湾等国家地区的银行成功发动了攻击。
+➜日本试验太空电梯
+https://www.solidot.org/story?sid=62092	39499
+日本福岛县南相马市<a href="http://news.sciencenet.cn/htmlnews/2019/9/430609.shtm"><u>举行实证试验</u></a>，尝试将如同科幻一样的太空电梯构想变成现实。该试验由太空电梯协会主办。在去年就已经零散的进行过一些试验，上周末来自国内外的大学和企业等 12 个团体正式开展大规模实证试验。各团体尝试让装有机器人的升降机，沿着气球悬挂着的电缆向上攀爬对性能进行检查。此外，日本神奈川大学研发的一款机器人假设于 100 米的高度在火星等星球着陆落下，虽然开启降落伞进行软着陆，但是因为巨大的冲击力仍然使机器人出现部分损坏。
+➜内置安全气囊的自行车头盔
+https://www.solidot.org/story?sid=62093	46389
+瑞典公司 Hövding <a href="https://metro.co.uk/2019/09/14/the-worlds-safest-bike-helmet-has-its-own-airbag-10742254/" target="_blank"><u>发布了</u></a>该公司的第三代自行车头盔，公司 CEO Frederik Carling 声称它是世界最安全的自行车头盔。该公司在欧洲七个大城市的调查发现，七成自行车手表示如果他们能感到更安全会更乐意骑自行车。该公司新头盔的主要特性是内置了安全气囊，电池能支持 15 个小时，配备的应用程序能收集事故数据。一旦检测到事故发生，安全气囊能在 0.1 秒内膨胀包住车手的头部和颈部。
+➜非洲猪瘟之后养猪场还在等待疫苗
+https://www.solidot.org/story?sid=62094	47352
+非洲猪瘟预计会在更长时间内影响中国，猪肉价格过去几个月已经大幅上涨，而在短期内国内市场无法恢复供应，因为养猪场还无法恢复养殖。<a href="http://news.sciencenet.cn/htmlnews/2019/9/430608.shtm"><u>官媒报道称</u></a>：“虽然行情回暖，但是我们还没有恢复生猪养殖，我们在等什么？等疫苗。” 在近日举行的中国农业科学院非洲猪瘟防控与生猪复养技术推介会上，来自天津的一位养殖场负责人介绍，由于养猪场周边三公里以内还有其他散户养猪，生物安全等级评估不过关，所以不能复养。
+猪场复养是指猪场发生疫情后，通过清洗消毒等方法清除场内已存在的病毒，并采取综合措施有效阻止病毒再次入场，重新引进生猪开始生产的过程。非洲猪瘟至今还没有商业性的疫苗。
+➜俄罗斯黑客对乌克兰电网的攻击试图造成更大的破坏
+https://www.solidot.org/story?sid=62095	47581
+2016 年 12 月，俄罗斯黑客对乌克兰电网发动了前所未有的破坏性攻击。在圣诞节前两天，黑客在乌克兰国家电网运营商 Ukrenergo 的网络内植入了恶意程序，在午夜前，他们打开了基辅北部一家输变电站的所有断路器，造成了一次断电事故。但断电只持续了一个小时，Ukrenergo 的操作人员很简单的就恢复了电力供应。俄罗斯黑客如此大费周章只是触发了一个小时的断电？工控系统网络安全公司 Dragos 对恶意程序代码和网络日志的<a href="https://dragos.com/wp-content/uploads/CRASHOVERRIDE.pdf"><u>分析（PDF）</u></a>显示，黑客的<a href="https://arstechnica.com/information-technology/2019/09/new-clues-show-how-russias-grid-hackers-aimed-for-physical-destruction/" target="_blank"><u>野心要大得多</u></a>，他们试图造成一次持续的破坏，诱发不只是一个小时二十持续数周甚至数个月的断电。

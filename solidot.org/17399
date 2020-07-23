@@ -1,0 +1,52 @@
+➜美国启动对中国的“301调查”
+https://www.solidot.org/story?sid=53532	11800
+美国贸易代表上周五<a href="http://cn.wsj.com/gb/20170821/bgh072845.asp" target="_blank"><u>宣布启动</u></a>对中国的“301调查”。美国贸易代表办公室称，除了调查中国获取美国技术和知识产权的做法以外，根据 1974 年《贸易法》第 301 条展开的这项调查还将调查中国政府是否支持以损害美国公司的方式通过网络入侵来获取商业秘密或技术。调查有可能历时一年，然后才能就是否进行贸易制裁做出决定。中国则宣告，如果美国采取任何有损经贸关系的措施，中国将予以回击并捍卫自身利益。
+➜Red Hat 将 Ceylon 送给 Eclipse 基金会
+https://www.solidot.org/story?sid=53533	12088
+Red Hat 的 Gavin King 在 2011 年<a href="http://www.solidot.org/story?sid=23462" target="_blank"><u>宣布了</u></a>被媒体誉为 Java 杀手的新语言 Ceylon ——一种模块化的静态类型编程语言，2013 年 Ceylon 语言 1.0 正式版<a href="http://www.solidot.org/story?sid=37221" target="_blank"><u>释出</u></a>。四年后的今天，Ceylon 语言拥有一个规模较小但活跃和狂热的用户和开发者社区。现在，Red Hat 决定将 Ceylon 转让给供应商中立的 Eclipse 基金会管理，重命名为 <a href="https://projects.eclipse.org/proposals/eclipse-ceylon" target="_blank"><u>Eclipse Ceylon</u></a>，它包括了 Ceylon 的各种组件如 Ceylon distribution、SDK、ceylon-lang.org 网站、Ceylon Web IDE、Ceylon Eclipse IDE、Ceylon IntelliJ IDE、Java2Ceylon 转换程序、Ceylon Herd，等等。
+➜研究人员大规模测试新的反审查工具 TapDance
+https://www.solidot.org/story?sid=53534	15800
+传统的反审查工具通常是利用境外的服务器作为代理，而政府则随时可能屏蔽这些服务器。这是一种猫鼠游戏，政府想要发现用户使用的代理服务器，而用户则努力通过各种方法（比如流量混淆）来躲避政府的检测。密歇根大学等大学和机构的研究人员研究出了一种新一代的反审查技术，它不是利用特定的代理服务器，而是利用一个或多个 ISP，反审查技术直接部署在 ISP 的路由上。这种技术被称为“<a href="https://refraction.network/" target="_blank"><u>折射网络</u></a>”。利用折射网络，用户向一个没有被屏蔽但经过特定 ISP 的网站发出请求，在请求中嵌入额外的数据，一个部署了反审查功能的 ISP 探测到这些秘密代码，检测到用户实际上请求的是一个被屏蔽的网站，它将请求重路由到了被屏蔽网站。在整个过程中，作为中间人的审查者不会注意到网络请求有问题。如果要封杀折射网络，审查者将需要屏蔽掉特定网络的所有连接，这会造成巨大的附带损害，参与部署的 ISP 越多，损害将会越大。研究人员组建了一个联盟，今年首次将被称为 <a href="https://github.com/refraction-networking/tapdance" target="_blank"><u>TapDance</u></a> 的折射网络技术部署到中等规模的 ISP 网络，测试了这项技术的可用性，他们的技术整合在 <a href="https://psiphon.ca/">Psiphon</a>中，在部署的一周时间里服务了超过 5 万用户。他们的<a href="https://www.usenix.org/system/files/conference/foci17/foci17-paper-frolov_0.pdf" target="_blank"><u>研究报告</u></a>（PDF）发表在上周举行的 USENIX Security 会议上。
+➜Gentoo 将移除加固内核
+https://www.solidot.org/story?sid=53535	17718
+Gentoo 发行版<a href="https://www.gentoo.org/news/2017/08/19/hardened-sources-removal.html" target="_blank"><u>宣布</u></a>将移除加固内核。Gentoo 加固内核 sys-kernel/hardened-sources 的核心是grsecurity 加固内核补丁集，但最近 grsecurity 开发者决定限制访问这些补丁集，导致 Gentoo 加固内核团队无法保证一个定期的补丁计划表，无法保证使用加固内核用户的安全。因此它决定到 9 月底移除加固内核软件包。
+➜Google 在美国日全食这天发布 Android O
+https://www.solidot.org/story?sid=53536	19209
+Android 操作系统的下一个版本将在日全食横穿美国大陆时<a href="https://www.android.com/eclipse/" target="_blank"><u>宣布</u></a>。这是自 1918 年以来首次从美国西海岸横贯到东海岸的日全食。代号为 Android O 的新版本已经发布了多个预览版本，Google 将于 2:40PM ET 进行直播。主要新特性包括：改进用户的电池使用时间，设备交互性能，引入应用后台活动的 “自动限制”，限制隐式广播等。
+➜中国手游的关键词审查
+https://www.solidot.org/story?sid=53537	27612
+中国有着世界最大的手游市场，和其它科技和互联网公司一样，手游行业也需要遵守严格的内容审查政策，包括实现关键词过滤。这些关键词名单有很多是直接整合在客户端里的，这就为研究人员提供了一个机会去收集数以百计的关键词名单，分析名单的异同，观察中国的审查机制。多伦多大学的公民实验室和新墨西哥大学的研究人员在上周举行的 USENIX Security 会议上发表了一篇<a href="https://www.usenix.org/system/files/conference/foci17/foci17-paper-knockel.pdf" target="_blank"><u>论文</u></a>（PDF），他们从中国的 Android 市场收集下载量前列的流行手游，利用逆向工程的方法收集了手游内置的关键词名单，他们从 200 多款手游收集到了 250 多个关键词名单，总共包含了 183,111 个不同关键词。研究人员发现，手游开发商使用了不同文本格式保存关键词，有的是明文，或是 XML 和 JSON 格式，或二进制格式如编译的 Lua 或 C++ 代码，还有使用了不同算法加密。对收集或解密的关键词名单的分析对比发现，并没有中央或省级的机构去控制关键词的产生，手游开发商有着一定程度的灵活性去实现关键词黑名单。
+➜Elon Musk 等人向联合国呼吁禁止杀人机器人
+https://www.solidot.org/story?sid=53538	29097
+包括 Elon Musk 和 Google 的 Mustafa Suleyman 在内的 116 位 AI 和机器人专家联合致函联合国，<a href="https://www.theguardian.com/technology/2017/aug/20/elon-musk-killer-robots-experts-outright-ban-lethal-autonomous-weapons-war" target="_blank"><u>呼吁禁止发展和使用杀人机器人</u></a>。联合国最近投票决定正式开始讨论自主机关枪、坦克和无人机之类的自主武器。专家们在信中警告，一旦研发出致命自主武器，武装冲突的规模将会比以前更庞大，在时间尺度上比人类理解的更快。它们也可能会被用于恐怖行动，被独裁者和恐怖分子用于对付无辜的人民，武器也可能会以不受欢迎的方式被修改。专家们指出，一旦潘多拉的盒子打开，它将很难关上。
+➜英特尔第八代 Core 只是第七代的更新
+https://www.solidot.org/story?sid=53539	30273
+英特尔的第一款第八代 Core 处理器<a href="https://arstechnica.com/gadgets/2017/08/intel-first-8th-generation-processors-are-just-updated-7th-generation-chips/" target="_blank"><u>只是第七代的少许更新</u></a>，芯片巨人声称第八代的性能比第七代提升了 30% 以上（实际达到了 40%），性能提升的原因一目了然：新处理器的核心数和线程数增加了一倍。第八代 U 系列移动处理器包含了 4 个核心和 8 个线程，而上一代是 2 个核心和 4 个线程，此外最大频率增加到了 4.2GHz，除此之外第八代的架构和第七代基本一致。这就是英特尔回应 AMD Ryzen 处理器的方式。
+➜测量全球的 DNS 纂改
+https://www.solidot.org/story?sid=53540	33154
+全世界至少有 60 个国家在审查互联网，但要测量审查则相当困难，主要依赖于志愿者，很难进行持续的观察。加州伯克利和普林斯顿大学的研究人员开发出名为 Iris 的系统，设计观察在 ISP 和国家级别上的大规模 DNS 纂改。在上周举行的 USENIX Security 会议上，研究人员报告了<a href="https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-pearce.pdf" target="_blank"><u>他们的观察结果</u></a>（PDF）。结果显示，伊朗有着最高的 DNS 纂改，纂改比例的中值是 6.02%，其次是中国的 5.22%，其它国家如印尼、希腊、蒙古等都不到 0.7% 或 0.2%。研究人员表示，他们的统计可能存在偏差，比如将香港的无审查结果识别为中国。研究人员称，中国纂改域名 DNS 查询返回的 IP 地址似乎是任意的无服务 IP。
+➜警方撤销对发帖抱怨食堂的网友的拘留处罚
+https://www.solidot.org/story?sid=53541	35865
+在引发网民广泛关注之后，邯郸警方<a href="http://www.bjnews.com.cn/feature/2017/08/21/454993.html" target="_blank"><u>撤销了</u></a>对发帖抱怨医院餐厅难吃的网友的拘留处罚。因在百度涉县贴吧、搜狐网、微信群等网络平台传播 “涉县新医院餐厅质差、价贵、量少，还是人民的医院吗？” 为标题的帖子，两名网友被涉县城关派出所以涉嫌虚构事实，扰乱公共秩序，依法处以行政拘留处罚。这件事让舆论为之哗然，随后该县公安局被命令重新展开调查，原处罚被撤销，派出所所长停职，办案民警调离执法岗位。但警方对此没有给出更详细的信息。
+➜《笨办法学 Python·续》（Learn More Python The Hard Way）翻译完
+https://www.solidot.org/story?sid=53542	38230
+<a href="mailto:wizard.z@qq.com">wizardforcel</a> 写道<i> "
+原文：<a href="https://learncodethehardway.org/more-python-book/" title="https://learncodethehardway.org/more-python-book/" target="_blank">https://learncodethehardway.org/more-python-book/</a>
+<p></p>
+译文：<a href="http://git.oschina.net/wizardforcel/lmpythw-zh" title="http://git.oschina.net/wizardforcel/lmpythw-zh" target="_blank">http://git.oschina.net/wizardforcel/lmpythw-zh</a>
+<p></p>
+这本书是《笨办法学 Python》的续集，主要关于数据结构、解析和一些 Linux 命令。
+<p></p>
+目前保证语法和语义正确。由于作者大量使用俗语和奇怪的比喻，用词习惯可能来不及调整。"</i>
+➜硅谷与中国的多元化问题
+https://www.solidot.org/story?sid=53543	41605
+硅谷的多元化争论在中国几乎没有产生任何回响，如果有回响的话那就是人们更多支持被解雇的 Google 工程师的观点。因为这种观点<a href="http://cn.wsj.com/gb/20170818/LLW161906.asp" target="_blank"><u>在中国早已司空见惯</u></a>。中国家长经常告诉女儿，女生不擅长数学、物理或编程；中国互联网公司的招聘工程师的广告通常会明确只招男性；百度、阿里巴巴集和腾讯的 24 名董事会成员中，只有一人是女性。滴滴出行发言人表示，有些工作要求员工搬运沉重的服务器和机器，所以这些工作归于中国法律认为不适合女性的职位。滴滴出行只限男性的招聘启事反映出，要彻底改变一种不仅在科技行业，而且在整个中国社会根深蒂固的文化，仍然任重道远。
+➜《最终幻想 XV》Windows 版宣布
+https://www.solidot.org/story?sid=53544	43742
+在科隆游戏展上，Square Enix 宣布其角色扮演游戏《最终幻想 XV》将登陆 Windows，该版本就叫 Windows 版，包含季票，预计将于明年初发布，具体发布时间和价格都未公布，<a href="http://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/" target="_blank"><u>游戏介绍页面</u></a>已经登陆 Steam 平台。根据介绍，PC 版本支持繁体中文和简体中文语言。AMD 用户注意了，PC 版本<a href="https://www.geforce.com/whats-new/articles/final-fantasy-xv-windows-edition-4k-trailer-nvidia-gameworks-enhancements" target="_blank"><u>将大量使用 Nvidia 的独有技术</u></a>，这意味着游戏在 AMD 显卡下可能会有性能问题。此外有 Twitter 用户<a href="https://twitter.com/Nibellion/status/899596240899510272/photo/1" target="_blank"><u>透露</u></a> PC 版本容量高达 170 GB。<br>
+➜微软宣布其语音识别系统错误率仅为 5.1%
+https://www.solidot.org/story?sid=53545	45040
+微软宣布其语音识别系统错误率<a href="https://techcrunch.com/2017/08/20/microsofts-speech-recognition-system-hits-a-new-accuracy-milestone/" target="_blank"><u>仅为 5.1%</u></a>，超过了去年该公司人工智能和研究团队所实现的 <a href="http://www.solidot.org/story?sid=50049" target="_blank"><u>5.9% 的错误率</u></a>。这一成就是语音识别技术的一个新里程碑，达到了人类专业转录者相同的精度。人类的一组专业转录者能听录音多次，还能访问其他转录者转录的文本。微软的语音识别系统被用于 Cortana、Presentation Translator 和 Microsoft Cognitive Services 等服务。
+➜Daily Stormer 有了新 CDN 服务商
+https://www.solidot.org/story?sid=53546	47177
+在先后遭到 GoDaddy 、 Google 和 Cloudflare 的拒绝服务之后，新纳粹网站 Daily Stormer 有了新 CDN 服务商。BitMitigate 的年轻创始人 Nick Lim <a href="https://arstechnica.com/tech-policy/2017/08/spurned-by-major-firms-daily-stormer-returns-with-help-from-a-startup/" target="_blank"><u>伸出了援助之手</u></a>，以表达对言论自由的信仰，以及帮助宣传他的公司。但没有域名光有服务器也没用。Daily Stormer 最新域名是 .lol，也<a href="https://gab.ai/AndrewAnglin" target="_blank"><u>已被关闭</u></a>。Lim 称他既不想谴责也不想支持客户的观点，他不会因为意识形态、内容或骚扰特定人群而拒绝客户。他对 Cloudflare 的做法提出了批评。

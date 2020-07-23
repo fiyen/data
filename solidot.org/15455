@@ -1,0 +1,63 @@
+➜Firefox 12发布，引入自动更新
+https://www.solidot.org/story?sid=29309	4320
+Mozilla正式发布了<a href="http://www.mozilla.org/en-US/firefox/12.0/releasenotes/">Firefox 12</a>，最主要的新特性是引入了后台自动更新。Windows用户在首次安装Firefox时如果授权Firefox Software Updater，之后它将能在后台自动更新，不再弹出对话框。其它的新功能包括改进开发者工具，<a href="http://www.mozilla.org/en-US/firefox/12.0/releasenotes/buglist.html">修正bug</a>，等等。
+➜Google Drive上线
+https://www.solidot.org/story?sid=29310	6600
+Google正式<a href="http://googleblog.blogspot.com/2012/04/introducing-google-drive-yes-really.html">宣布了</a>云储存服务<a href="http://drive.google.com/">Google Drive</a>。和之前的报道一样，免费空间5GB，升级到25GB每月$2.49，100GB每月$4.99，1TB每月$49.99，16TB每月$799.99。付费用户的Gmail容量将能升级到25GB，免费用户增加到<a href="http://gmailblog.blogspot.com/2012/04/gmail-now-with-10-gb-of-storage-and.html">10GB</a>。Google声称Google Drive支持上传的最大单文件容量为10GB，但媒体的测试<a href="http://arstechnica.com/business/news/2012/04/google-drive-is-here-and-you-can-install-it-right-now.ars">并未成功</a>。桌面客户端大小68MB，支持Windows和Mac，不支持Linux（Dropbox有Linux客户端），移动版本支持Android和iOS，不支持黑莓。它内置Google Docs，现有的Google Docs文件将在用户安装客户端后迁移到Google Drive服务，它能利用OCR扫描从图像中提取出文本描述，方便用户搜索文件。客户端部分功能不如Dropbox<a href="http://hardware.slashdot.org/comments.pl?sid=2808161&amp;cid=39784591">方便</a>，如没有右键菜单，不能命名文件夹，只能选择位置，Windows版界面和Dropbox十分相似。
+➜三星电视机能陷入死循环
+https://www.solidot.org/story?sid=29311	9120
+意大利安全研究员Luigi Auriemma<a href="http://aluigi.org/adv/samsux_1-adv.txt">发现</a>三星电视机和蓝光系统有漏洞，能允许攻击者远程控制这些设备。他声称漏洞影响所有支持遥控器的三星设备，其中一个bug会导致死循环无限重启，另一个bug可能会导致缓冲区溢出。他是在恶作剧兄弟的时候无意中发现这些漏洞，他本只是想通过WIFI网络向兄弟的电视机发送遥控器请求，结果却差点毁掉电视，最后是在服务模式下重置才从死循环中拯救了电视机。
+➜五分之一的Mac用户感染Windows恶意程序
+https://www.solidot.org/story?sid=29312	9720
+安全公司Sophos的研究人员<a href="http://www.techweekeurope.co.uk/news/malware-macs-one-in-five-infected-74541">发现</a>，五分之一的Mac用户感染了Windows恶意程序，但只有三十六分之一的用户感染了Mac恶意程序。Windows恶意程序对Mac本质上是无害的。研究人员在一周时间中调查了10万台Mac电脑，发现最常见的Mac恶意程序是Flashback木马。他们发现，由于Mac用户没有运行杀毒软件的习惯，他们所感染的病毒最早可追溯到2007年，这将使他们成为攻击者眼中的薄弱目标。
+➜中国法院对苹果和唯冠iPad商标争议进行调解
+https://www.solidot.org/story?sid=29313	11100
+《华尔街日报》引用唯冠律师的消息<a href="http://cn.wsj.com/gb/20120425/tec073019.asp">报道</a>，负责审理的广东省高级人民法院正在对苹果和唯冠的iPad商标权案进行调解。如果双方没有达成和解，广东高院将对案件做出裁决。唯冠科技（深圳）声称拥有iPad在中国内地合法的商标权，它早在1999年为自己正在开发的“I-PAD（Internet Personal Access Device）”注册了商标，它的I-PAD是一种低成本低功耗的Windows电脑。而苹果则称，它在2009年从唯冠手中买下了商标。中国国家工商行政管理总局副局长付双建周二<a href="http://tech.southcn.com/t/2012-04/25/content_43992915.htm">表示</a>，目前深圳唯冠仍然是iPad商标的合法注册人，表示正在等待广东省高院的最终判决。
+➜中国互联网企业风投资本锐减
+https://www.solidot.org/story?sid=29314	12600
+汤森路透的数据<a href="http://cn.reuters.com/article/CNAnalysesNews/idCNCNE83M0BC20120423?sp=true">显示</a>，2012年第一季度风投公司向中国互联网行业的投资额只有1.385亿美元，比上年同期的8.665亿美元骤降84%。曾有笑话说中国互联网企业的创业家只要随便写一份商业计划书，就可以从风投资本那里拿到钱。但现在不可能了。在缺乏资金的情况下，许多创业企业的未来面临变数。很多企业正转向不同寻常的融资渠道。一些创业企业投入自有资金，另一些则向家人和朋友筹资，以维持业务运转。中国首创投资的董事长弗尔曼（Peter Fuhrman）<a href="http://seekingalpha.com/instablog/445816-peter-fuhrman/411701-why-i-love-what-i-do">抱怨说</a>，中国的税又多又高，规章制度能将任何企业窒息死，法律条例频繁改变，工人的薪水一年增长25%，一个好创意会在数分钟内吸引数百竞争对手，成功或失败常常系于地方官的一念之间。
+➜新南威尔士警察机构被控盗版软件
+https://www.solidot.org/story?sid=29315	20520
+英国软件公司Micro Focus指控澳大利亚新南威尔士警方<a href="http://www.abc.net.au/news/2012-04-24/nsw-police-in-legal-battle-with-software-giant/3970388">大规模盗版其ViewNow软件</a>，寻求赔偿损失千万美元以上。<i>
+ViewNow被用于访问警方的犯罪情报系统COPS(Computerised Operational Police System)的数据库，它运行在大型机上，新南威尔士警方自1998年起开始使用。Micro Focus的调查发现，警方大规模的复制软件，在不同机构之间分享。Micro Focus的软件授权允许警方最多复制6500份拷贝，但警方复制了1.6万份拷贝，它要求警方为额外的拷贝付款。新南威尔士警方拒绝了和解，宁愿通过法庭解决争议，他们认为他们签署的合同允许无限制拷贝。</i>
+➜SpaceX太空船发射延期
+https://www.solidot.org/story?sid=29316	21600
+SpaceX<a href="__SLASHLINK__" sect="science" sid="12/03/16/0820224" sn="article" tid="102">原计划</a>于4月30日发射第一艘与国际空间站对接的私人太空飞船Dragon。但现在该公司宣布<a href="http://www.msnbc.msn.com/id/47150276/ns/technology_and_science-space/">发射延期</a>，可能将推迟一周。SpaceX创始人Elon Musk说，延期主要是为了有更多时间测试Dragon的对接代码。新的发射时间将在与NASA协调后确定。
+➜伊朗遭病毒攻击后切断炼油厂网络
+https://www.solidot.org/story?sid=29317	23280
+伊朗石油部在其网络遭到病毒攻击后<a href="http://arstechnica.com/business/news/2012/04/iran-cuts-off-internet-access-to-oil-refineries-after-cyberattack.ars">切断了</a>六大炼油厂的互联网接入，包括最主要的石油出口港口Khark Island。伊朗媒体报道说，病毒针对的是石油部、伊朗国家石油公司及关联企业的计算机网络，官方的伊斯兰通讯社<a href="http://english.farsnews.com/newstext.php?nn=8101300765">引用</a>石油部发言人Alireza Nikzad的话称，攻击造成了有限破坏，并最终失败了。他说，网络攻击没有破坏石油部和国家石油公司的数据，因为一般的服务器和主服务器是分开的，它们的光缆并没有互联，也没有接入互联网。这位伊朗官员还声称，病毒“烧毁”了一些主板和计算机。
+➜哈佛图书馆呼吁教职工向开放获取期刊投稿
+https://www.solidot.org/story?sid=29318	25200
+哈佛图书馆向教员发送备忘录，称<a href="http://isites.harvard.edu/icb/icb.do?keyword=k77982&amp;tabgroupid=icb.tabgroup143448">期刊太贵</a>，呼吁向开放获取刊物投稿。<i>
+备忘录称，许多大型科学研究期刊的订阅费用过去六年增长145%，如果继续这样增长下去，它将不得不削减开支。备忘录表示，杂志出版商让他们在财政上无法持续，建议教员和学生可选择向开放获取期刊投稿。作为全球筹款能力数一数二的大学，认为一年350万美元的订阅费负担不起，可能会让人觉得是<a href="http://arstechnica.com/science/news/2012/04/harvard-library-advises-its-faculty-to-go-open-access.ars">过于夸大了问题</a>，截至去年哈佛捐赠总额为320亿美元，换句话说，它只要花五个半小时就能将这笔费用填上。
+</i>
+➜Ubuntu 12.10代号公布，决定不采用systemd
+https://www.solidot.org/story?sid=29319	27600
+Canonical创始人Mark Shuttleworth在博客上<a href="http://www.markshuttleworth.com/archives/1121">宣布</a>将于10月发布的Ubuntu 12.10的开发代号为Quantal Quetzal，表示新版本将更新主题和字体。Shuttleworth还驳斥了一些流言，否认放弃Upstart改用systemd。Upstart的作者是Ubuntu开发者Scott James Remnant，他在2006年开发出Upstart以替代旧的System V init，用基于事件的架构帮助简化启动任务的并行化，改进启动性能。Shuttleworth说，Ubuntu基金会评估后认为Upstart更能满足Ubuntu的需要，Upstart经历一系列测试，而systemd没有；Upstart轻车熟路，而systemd还是未知之数；Upstart的品质来自于专注和明确的目的，经过精心设计和严谨实践。毫无疑问，Shuttleworth的一番话会吸引systemd作者Lennart Poettering<a href="https://plus.google.com/115547683951727699051/posts/X3fUhyJREKq">发表评论</a>，他认为原因很可能是Canonical能控制Upstart，但无法控制systemd，认为这就像Sun对Java的控制，对一个项目并不是好事。他认为，这一决定不利于Linux生态系统。
+➜可卡因可能会加速大脑老化
+https://www.solidot.org/story?sid=29320	28800
+不要吸毒的原因又多了一条：毒品可卡因<a href="http://news.sciencemag.org/sciencenow/2012/04/cocaine-may-age-the-brain.html">可能会加速大脑老化进程</a>。一项成像研究发现，三四十岁的可卡因滥用者的大脑能看到常见于六十岁以上老年人的那种大脑变化。吸毒通常被认为是年轻人的问题，婴儿潮时代出生的人最早开始体验到毒品，现在他们开始变老了，根据这项研究，其中一些人可能衰老得更快。研究显示，中年吸毒者会出现老年人身上才出现的问题，如记忆力衰退、容易感染，高心血管疾病发病率。
+➜中国科学家克隆含有“好”脂肪的转基因羊
+https://www.solidot.org/story?sid=29321	30720
+<a href="http://www.genomics.cn/navigation/index.action">华大基因研究院</a>宣布，由该研究院、深圳华大方舟与中国科学院遗传与发育生物学研究所、石河子大学生命科学学院联合开展的“农业部绵羊转基因新品种培育重大专项”取得了突破性的进展，第一只手工转基因克隆绵羊<a href="http://www.cas.cn/xw/cmsm/201204/t20120425_3563071.shtml">成功诞生</a>。转基因羊体内能合成深海鱼油中富含的不饱和脂肪酸Omega-3。Omega-3是人体必需的一种脂肪酸，如果Omega-3摄入不足，心脏病、糖尿病、关节炎、类风湿和一些癌症的发病率就会提高。长期以来，人类一直通过深海鱼油等食品来补充自己所需的Omega-3，而以后人类有可能食用羊肉来代替昂贵的深海鱼油。所谓“手工克隆”，是指用特殊的酶溶掉卵母细胞外层的保护膜，简化克隆操作，因为保护膜的存在会让供体细胞细胞核和卵母细胞融合操作难度大幅增加。
+➜Sun要Google为Java授权付5千万美元
+https://www.solidot.org/story?sid=29322	33120
+Google执行主席Eric Schmidt<a href="http://www.wired.com/wiredenterprise/2012/04/eric-schmidt-oracle-trial/">在法庭上为Google辩护</a>，称该公司的做法在法律上并不犯法。他透露，Sun想要Google为Java授权支付3千万到5千万美元，但双方的谈判破裂，因为Sun不想Google接触Java的源代码，而Google不想失去对Android的太多控制权，它对报价到没多少异议。于是Google开始动手完成了一个Java的“净室实现”Dalvik，相当于重新构建出Java平台的一个新版本——即在不使用Sun代码的情况下兼容Java。
+➜以第二语言思考利于理性决策
+https://www.solidot.org/story?sid=29323	36720
+对三百多名美国和韩国志愿者的测试发现，以第二语言思考<a href="http://arstechnica.com/science/news/2012/04/thinking-in-foreign-language-makes-decisions-more-rational.ars">能减少根深蒂固和带有误导性的偏见</a>。也就是说，用外语思考作出的决策比以母语思考作出的决策更理性。<i>
+心理学家说，人类推理由两种不同的思考模式塑造。其中之一依靠系统分析和认识力，另一种是快速、下意识和冲动。非母语思考需要人集中精力，从而限制对下意识和冲动判断的依赖。另一种说法是，用外语思考迫使人深思熟虑，减少了不可靠的本能施加的影响。研究人员为此做了多项实验。有121名以日语为第二语言的美国学生参加了第一项实验，他们被要求在一个两难问题中作出选择——为对抗一种将杀死60万人的疾病，医生或者开发出一种能拯救20万人的治疗方法，或者是开发出一种有三分之一可能性拯救所有人有三分之二可能性一个都拯救不了的疗法。一些人被以英语展示问题，一些人用日语展示。在第一种情况下，有80%的人选择安全选项——拯救20万人，但如果问题写成——失去40万人（意思和拯救20万人相同），那么选择安全选项的人会下降到47%（被失去的意思误导了）。而在第二种情况下，选择安全选项的比率不受具有误导性的文字描述的影响。</i>
+➜美国证券交易委员会调查好莱坞有无向中国官员行贿
+https://www.solidot.org/story?sid=29324	37680
+消息人士<a href="http://www.nytimes.com/2012/04/25/business/global/sec-asks-if-hollywood-paid-bribes-in-china.html?_r=1&amp;ref=world">透露</a>，美国证券交易委员会正在调查好莱坞大电影公司有没有为在中国拍电影和上映影片而向中国官员行贿。调查主要集中在至少三家电影公司。美国反海外腐败法禁止美国公司为方便进入外国市场而向政府官员行贿，而政府调查人员对在华美国公司的做法尤其感兴趣，因为中国是最大的潜在市场，而好莱坞执行官渴望进入中国。路透社报道说，美国证券交易委员联系了五家公司，包括二十世纪福克斯、迪士尼和梦工厂动画。迪士尼最近宣布将与中国合拍《钢铁侠3》。
+➜Steam for Linux将在不久后到来
+https://www.solidot.org/story?sid=29325	38520
+Phoronix的Michael Larabel参观了Valve办公室，访问了公司联合创始人Gabe Newell，报告了好消息：<a href="http://www.phoronix.com/scan.php?page=article&amp;item=valve_linux_dampfnudeln&amp;num=1">Steam和Source 引擎正被移植到Linux</a>。Valve的Linux开发者演示了原生运行在Ubuntu 11.10上的Left 4 Dead 2，他们讨论了一些技术细节。Larabel说，Newell谈论Linux的方式就好像他不是前微软雇员而是Linux基金会的董事。他表示，Valve正在招募各类Linux程序员。
+➜第一款英特尔Medfield智能手机评测
+https://www.solidot.org/story?sid=29326	39600
+extremetech<a href="http://www.extremetech.com/computing/127347-going-xolo-x900-intels-first-x86-medfield-smartphone-reviewed">测试了第一款英特尔x86 Medfield智能手机</a>，认为芯片巨人正在移动平台向ARM发起挑战。<i>
+第一款x86 Medfield智能手机Xolo X900由英特尔和印度Lava International合作推出，采用4英寸1024×600 显示屏，1GB RAM，1.6GHz Atom Z2560 CPU和频率400MHz的SGX540 GPU，存储空间16GB，运行Gingerbread (Android 2.3.7)，重127克，前置130万像素后置800万像素摄像头，USB/HDMI端口。测试中，Xolo打败了市场上大多数Android中高端手机如Galaxy Nexus，功耗也令人印象深刻。</i>
+➜量子实验演示果先于因
+https://www.solidot.org/story?sid=29327	42480
+奥地利维也纳的物理学家Xiao-song Ma和同事在Nature Physics上发表了<a href="http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys2294.html#/affil-auth">一篇论文</a>，演示了<a href="http://arstechnica.com/science/news/2012/04/decision-to-entangle-effects-results-of-measurements-taken-beforehand.ars">延迟选择纠缠交换</a>。<i>
+<a href="http://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%BA%A0%E7%BC%A0">量子纠缠</a>是指两个粒子具有关联性，测量一个粒子会对另一个粒子的状态产生影响。延迟选择纠缠交换包含以下几步：1）两个独立源（I和II）分别产生了一对偏振状态纠缠的光子，I的一个光子发送给Alice，II的一个光子发送给Bob，I和II的另一个光子都发送给Victor。2）Alice和Bob对光子分别进行偏振测量，他们彼此之间没有通信，互相并不知道滤光器设置的方向。3）在测量的同时，Victor作出了一个决策，他可选择不干涉I和II的两个光子传播，也可选择纠缠两个光子的偏振状态。最后测量判断那两个光子的偏振状态。对比四次测量的结果：如果Victor没有纠缠他的两个光子，Alice和Bob的光子没有关联性，测量结果是随机的；如果Victor纠缠了他的两个光子，那么Alice和Bob的光子就具有关联的偏振状态——即使他们始终是旁观者。研究人员发现，当Victor选择纠缠，完全有把握说Alice和Bob会发现他们的光子偏振纠缠起来。而Victor不决定纠缠时这一切不会发生。</i>

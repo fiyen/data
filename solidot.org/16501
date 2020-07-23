@@ -1,0 +1,15 @@
+➜uTorrent被发现悄悄安装挖矿程序，BitTorrent公司否认
+https://www.solidot.org/story?sid=43228	9969
+<div align="center"><img src="http://img.solidot.com.cn/0/71/li5qBijUgtHmA.png" align="" height="408" width="450"><br>
+<br>
+</div>
+BitTorrent公司的免费程序uTorrent是最受欢迎的BT下载软件之一，但过去几年为了增加收入，uTorrent体积日益膨胀，加入了广告（可设置关闭，在属性-&gt;高级中选择offers.left_rail_offer_enabled=false和offers.sponsored_torrent_offer_enabled=false）和推广软件。推广软件不会主动安装到电脑上，需要用户点击确认。其中一款推广软件叫<a target="_blank" href="http://www.epicscale.com/"><u>Epic Scale</u></a>（如图所示），是个挖矿程序，利用用户的CPU资源挖掘比特币，虽然CPU挖矿早已过时。过去几天，许多用户在论坛上抱怨他们的电脑<a target="_blank" href="http://torrentfreak.com/utorrent-quietly-installs-riskware-bitcoin-miner-users-report-150306/"><u>被悄悄安装了Epic Scale</u></a>。一位用户称他是在升级程序时被悄悄安装的，没有看到安装提示。BitTorren公司否认静默安装发生，称很可能是用户在安装时接受了推广软件的安装，表示正在继续调查这一问题。
+➜斯诺登希望获得瑞士政治庇护
+https://www.solidot.org/story?sid=43229	26626
+Edward Snowden<a target="_blank" href="http://www.reuters.com/article/2015/03/06/us-swiss-usa-snowden-idUSKBN0M21KO20150306"><u>公开表示</u></a>希望在瑞士获得政治庇护。目前在俄罗斯避难的Snowden在网络视频中，对日内瓦的观众说，“我很想重新回到瑞士生活，我最好的记忆中有一些就是在日内瓦的日子。”他说：“美国当局到目前为止所说的唯一的话，就是他们不会处决我，这和同意我能得到公正和公开的审判不是一回事。”
+在斯诺登视频讲话之前，日内瓦的观众观看了获今年奥斯卡奖的纪录片《第四公民》。
+斯诺登说：“我认为瑞士会是一个很好的政治选择，因为瑞士一贯具有中立的立场。”
+斯诺登向全世界21个国家申请过政治庇护，其中大多数在中欧和东欧，但是这些国家没有一个愿意让他避难。他将之归咎于<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2015/03/150306_snowden_asylum"><u>美国的“政治干预”</u></a>。
+➜Ubuntu将在下周一正式切换到systemd
+https://www.solidot.org/story?sid=43230	49600
+Ubuntu 15.04（Vivid）即将在下个月发布，但它的测试版本还在计划进行<a target="_blank" href="http://linux.slashdot.org/story/15/03/06/1448247/ubuntu-to-officially-switch-to-systemd-next-monday"><u>一次意义重大的转变</u></a>：初始化系统从UpStart切换到systemd。Ubuntu开发者Martin Pitt在邮件列表上<a target="_blank" href="https://lists.ubuntu.com/archives/ubuntu-devel-announce/2015-March/001130.html"><u>宣布</u></a>，Vivid将在下周一正式使用systemd引导系统。接下来几周的测试将决定Vivid究竟是用systemd还是UpStart。如果发现太多的问题，Ubuntu 15.04将会仍然使用UpStart。Ubuntu是在上游发行版Debian选择systemd后宣布跟着转变，但Debian选择systemd在社区引发了广泛争议。

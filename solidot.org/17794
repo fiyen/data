@@ -1,0 +1,51 @@
+➜联想回答有关后门的提问
+https://www.solidot.org/story?sid=58006	9611
+中国的企业通常不敢抵制政府的要求，当这些企业成为跨国企业之后，它们与政府的这种关系在其他国家引发了安全方面的担忧，华为就是一个典型的例子。如果中国政府要求企业在其产品中植入后门，它们是否不得不这么做？在上周举行的一个发布会上，联想的高管<a href="https://www.theinquirer.net/inquirer/news/3062910/lenovo-companies-working-in-china-may-have-to-install-local-backdoors" target="_blank"><u>被问到了这个问题</u></a>。联想负责数据中心业务的 CTO Peter Hortensius 指出，联想在不同国家的高管通常是该国的居民，遵守当地的法律法规，如果当地法律禁止后门，他们不会放置后门，如果中国政府要求在中国的产品中植入后门，那么在中国的每一家跨国企业都只能做同样的事情。但联想不会在全球范围提供后门，他们除了遵守法律也会遵守法律的伦理和精神。
+➜LLVM 7.0.0 发布
+https://www.solidot.org/story?sid=58007	12744
+LLVM 编译器套件项目<a href="https://llvm.org/releases/7.0.0/docs/ReleaseNotes.html" target="_blank"><u>释出了 7.0.0 版</u></a>。LLVM 项目现在是每半年发布一个大版本，每个大版本将增加一个版本号，小版本号变化主要是同一分支的更新。主要变化包括：Windows 安全程序不再包含 Visual Studio 整合，用户可以从 Visual Studio 市场下载 LLVM Compiler Toolchain Visual Studio 扩展；库重命名为 7；DWARF v5 初步支持；基本支持 OpenMP 4.5 offloading to NVPTX；OpenCL C++ 支持；MSan、X-Ray 和 libFuzzer支持 FreeBSD；等等。更多可浏览  <a href="https://llvm.org/releases/7.0.0/tools/clang/docs/ReleaseNotes.html" target="_blank"><u>Clang 发布公告</u></a>；<a href="https://llvm.org/releases/7.0.0/tools/clang/tools/extra/docs/ReleaseNotes.html" target="_blank"><u>Clang 工具发布公告</u></a>，<a href="https://llvm.org/releases/7.0.0/tools/lld/docs/ReleaseNotes.html" target="_blank"><u>LLD linker 发布公告</u></a>。
+➜中国的无死角数字监控
+https://www.solidot.org/story?sid=58008	13411
+ABC 发表了一篇图文并茂的文章<a href="http://www.abc.net.au/chinese/2018-09-18/china-social-credit-leave-no-dark-corner/10264922" target="_blank"><u>介绍了中国准备在 2020 年全面推广的社会信用体系</u></a>。文章讲述的内容基本上已经是众所周知，社会信用体系试图持续跟踪每一名公民的行为，奖励“模仿公民”惩罚“失信者”，“一些公司正与国家合作，将该系统国有化，协调并调试技术，并敲定决定全国公民得分的算法。这可能是有史以来最大的社会工程项目，打造一种控制和胁迫 10 多亿人的方式。如果成功，这将是世界上的首个‘数字独裁’。”
+➜新蛋的结帐页面被植入窃取信用卡数据的恶意代码
+https://www.solidot.org/story?sid=58009	16095
+<div align="center"><img src="//img.solidot.org/0/651/liZOkhpMPVKm.png" width="500" height="167" align=""><br>
+</div>
+<br>
+美国消费者电子产品零售商新蛋的结帐页面<a href="https://arstechnica.com/information-technology/2018/09/newegg-hit-by-credit-card-stealing-code-injected-into-shopping-code/" target="_blank"><u>被植入了</u></a>窃取信用卡数据的恶意代码，时间长达一个月之久。安全研究人员发现，新蛋的结帐页面被植入了 15 行 JS 代码，将信用卡号码和其它数据转发到一个域名形似新蛋的服务器。攻击者使用的域名 weggstats.com 托管在荷兰公司 WorldStream 的服务器上，它是在 8 月 13 日注册的，使用了 Comodo CA 签发的有效证书。安全研究人员称，代码是在 8 月 16 日被嵌入到了新蛋结帐页面 CheckoutStep2.aspx 的，直到 9 月 18 日攻击代码才被新蛋移除。使用第三方支付的用户应该没事。新蛋表示将会尽可能快的对敏感支付信息可能被盗的客户发出警告，它在周五发布 FAQ 回答相关问题。
+➜Defense Distributed 创始人被控性侵未成年少女
+https://www.solidot.org/story?sid=58010	18674
+<div align="center"><img src="//img.solidot.org/0/652/liTZAhA4VOBpw.jpg" width="250" height="309" align=""><br>
+</div>
+<br>
+美国司法部执法官局<a href="https://arstechnica.com/tech-policy/2018/09/judge-orders-cody-wilsons-arrest-demands-pictures-of-his-upper-legs/" target="_blank"><u>发布通缉令</u></a>，通缉 3D 打印武器项目 Defense Distributed 创始人 Cody Wilson，他被控性侵未成年少女。Wilson 上个月通过约会网站  SugarDaddyMeet.com 与一名 17 岁少女约会，支付了 500 美元的性交易费。他使用了化名 Sanjuro，还被控与这位少女交换裸照。本周三，当地法官签署了逮捕令。但 Wilson 本人不在美国而在台湾，他没有搭乘飞机返回美国。警官在表示他们确信 Wilson 已被通知他正遭受调查。
+➜中国加快开发重型火箭长征九号
+https://www.solidot.org/story?sid=58011	27209
+中国原计划到 2030 年发射登月重型火箭长征九号，但在本周举行的 World Conference on Science Literacy 2018 大会上，中国国家航天局的一位工程师表示中国计划到 2028 年发射长征九号。长征九号是一个极其雄心勃勃的发射器，直径 10 米，长 90 米，近地轨道运载能力 140 吨，与 NASA 在 1960 年设计执行阿波罗登月任务的土星五号火箭相当，也与 SpaceX 计划中的 Big Falcon Rocket 火箭相当，但不清楚其火箭组件是否能重复使用。最新的时间表显示中国正在加快<a href="https://arstechnica.com/science/2018/09/china-appears-to-be-accelerating-development-of-a-super-heavy-lift-rocket/" target="_blank"><u>研发这个巨型火箭</u></a>。
+➜马云放弃为美国创造百万就业的承诺
+https://www.solidot.org/story?sid=58012	27935
+马云<a href="http://www.ftchinese.com/story/001079507" target="_blank"><u>放弃了</u></a>在美国创造 100 万个就业岗位的承诺。马云的这项承诺是在去年初做出的，在商界领袖为讨好当时当选总统的特朗普所作出的承诺中，这是最引人注目的一条。当时马云称，在 5 年时间里，通过阿里巴巴的在线平台把产品销往中国的美国企业，可以创造出 100 万个就业岗位。 官方新华社周三发布了一篇对马云的采访，马云在采访中表示：“这个承诺是基于中美友好合作，双边贸易理性客观的前提提出的。当前的局面已经破坏了原来的前提，已有承诺没有办法完成了。”马云最初关于在美国创造大量从事出口的新就业岗位的承诺，并没有得到任何经济分析或者其他数据的支持。当时，这项承诺被视为一个宏大抱负，而非具体计划。
+➜如果禁止在非工作时间查收邮件
+https://www.solidot.org/story?sid=58013	28663
+对于普通上班族而言，没有什么比关上电脑、和大量工作邮件说再见更让人心情愉悦了。专家表示，我们越来越无法做到这一点。工作时间长、作息异常一直是抑郁、焦虑、甚至冠心病的诱因。重要的是，每周工作的表现和个人的主观能动性需要用周末的时间来恢复调整。去年，法国出台了一项法律，规定员工人数在 50 或以上的公司，其雇员有权与公司就非工作时间查收邮件的责任安排进行谈判。德国的工会已经促使某些德国企业采取行动。汽车制造商大众就是最早执行非工作时间邮件禁令的公司。他们将服务器设置为，只能在上班前半小时到下班后半小时的时间内向员工手机发送邮件，周末不会发送。但并不是所有人都认同<a href="https://www.bbc.com/ukchina/simp/vert-cap-45519843" target="_blank"><u>对非工作时间处理邮件实行一刀切禁令</u></a>。用法律保障周末时光并不一定高效，而且未必能在其他国家施行。
+➜癌症从器官捐赠者扩散到移植者
+https://www.solidot.org/story?sid=58014	32438
+在罕见的情况下，器官捐赠会将传染病从器官捐赠者转移到移植者。一项新的病例研究显示，<a href="https://www.livescience.com/63596-organ-donation-transmitted-breast-cancer.html?ftag=CNM-00-10aac3a" target="_blank"><u>癌症也会在器官移植中转移</u></a>。欧洲的四名器官移植者在接受了同一个人捐赠的器官后发展出了乳腺癌。<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajt.14766" target="_blank"><u>研究报告</u></a>发表在《American Journal of Transplantation》期刊中，其中三人已经死于癌症。53 岁的器官捐赠者在 2007 年死于中风，她本身并没有发现存在不能捐赠器官的问题，也没有发现癌症的迹象。医生将她的肾脏、肺、肝脏和心脏移植给五个人（肾脏两个人），其中心脏移植者在手术后不久就因为其它原因去世了。16 个月后，移植肺的女子患病被发现发展出了乳腺癌，癌症后来扩散，在诊断一年之后去世。2011 年移植肝脏的一名女子也发展出乳腺癌，在治疗之后她于 2014 年去世。另一名移植肾脏的女子在 2013 年诊断出末期乳腺癌，两个月后去世；接受肾脏移植的 32 岁男子也被发现乳腺癌，医生移除了他的肾脏，接受治疗后他已经康复。
+➜Google 投资 GitHub 的竞争对手 GitLab
+https://www.solidot.org/story?sid=58015	34834
+代码托管平台 GitHub 的竞争对手 GitLab 在最新一轮融资中<a href="https://www.bloomberg.com/news/articles/2018-09-19/alphabet-backs-gitlab-s-quest-to-surpass-microsoft-s-github" target="_blank"><u>获得了</u></a> 1 亿美元投资，估值超过 10 亿美元，成为最新的独角兽公司。领投的公司包括了 Google 母公司投资部门 GV，以及 Iconiq Capital 和 Khosla Ventures。在今年 6 月微软宣布以 75 亿美元收购 GitHub 之后，大量用户涌入了 GitLab，原因是开发者们担心微软会改变 GitHub 平台。Alphabet 也曾投标 GitHub，在输给微软之后它开始支持其竞争对手。
+➜扫黄打非办公布网络文学专项整治结果
+https://www.solidot.org/story?sid=58016	42054
+扫黄打非办和新闻出版署在今年五月开展了为期三个月的网络文学专项整治行动，现在它<a href="http://www.shdf.gov.cn/shdf/contents/767/385264.html" target="_blank"><u>公布了整治结果</u></a>：查办网络出版行政和刑事案件 120 多起，责令整改网络文学经营单位 230 余家，封堵关闭网站及账号 4000 余个，查删屏蔽各类有害信息 14.7 万余条。被整改的网站包括：网易云阅读，起点中文网，逐浪网，潇湘书院等。其中湖北查办武汉“斗鱼直播”平台传播有害信息案、“0K11小游戏网”“煎蛋”网等登载有害信息案多起案件。
+➜“我是管理员” bug 将西部数据的 My Cloud 设备变成每个人的云
+https://www.solidot.org/story?sid=58017	43796
+Securify 的安全研究人员<a href="https://www.securify.nl/advisory/SFY20180102/authentication-bypass-vulnerability-in-western-digital-my-cloud-allows-escalation-to-admin-privileges.html" target="_blank"><u>披露了</u></a>西部数据 My Cloud 的一个漏洞，编号为 CVE-2018-17153 的漏洞允许未经授权的攻击者绕过密码检查以管理员权限登录访问联网的 My Cloud 设备，攻击者可以浏览和拷贝上面所有储存的数据，也能覆写和删除数据，它变成了所有人的“云”。攻击者只要向设备的 Web 界面发送包含 cookie username=admin – 的 HTTP CGI 请求就能以管理员权限登录。研究人员在今年 4 月就向西部数据报告了 bug，但五个月后仍然没有回应，于是他们就公开披露了漏洞。西部数据目前也没有<a href="https://www.theregister.co.uk/2018/09/18/remote_access_vulnerability_western_digital_my_cloud/" target="_blank"><u>做出回应</u></a>。
+➜为什么 Linus Torvalds 会决定休假反省
+https://www.solidot.org/story?sid=58018	45885
+Linus Torvalds 最近宣布他将休息反省一段时间，根据《纽约客》刚发表的<a href="https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside" target="_blank"><u>长篇报道</u></a>，Torvalds 是在接到该杂志采访之后宣布这一决定的。《纽约客》的文章提供了 Torvalds 决定的更多背景。众所周知，作为 Linux 的创始人，Torvalds 多年来以好斗言论闻名于社区，并且通常免于受到批评。根据公开的信息，Torvalds 发表了数千封严厉批评内核贡献者的邮件，他事实上是 Linux 社区的“仁慈终身独裁者”，当然根据他的言语他也许不是那么仁慈。《纽约客》打算写一篇抱怨他的谩骂阻碍女性程序员为内核贡献代码的文章，杂志联系 Torvalds 询问了一系列问题，Torvalds 对此回应称，他对 Linux 的代码非常骄傲，但并不为自己不善于与其他人良好沟通而感到自豪，他对所有因他的言语而受到伤害的人表示深深歉意。Linux 内核的贡献者主要以男性为主，几乎很少看到知名的女性内核开发者，虽然根据 Linux 基金会和研究人员的估计， Linux 程序员有十分之一为女性。Elon University 的计算机科学教授 Megan Squire 分析了 Torvalds 邮件中的侮辱性用词，发现 Torvalds 的攻击性对男女都是一视同仁。她认为这种敌意和公开的羞辱让越来越多的女性离开内核社区。
+➜第一批细菌的影响持续到成年
+https://www.solidot.org/story?sid=58019	47645
+对小鼠的研究<a href="http://www.ebiotrade.com/newsf/2018-9/2018919163813819.htm" target="_blank"><u>发现</u></a>，第一批进入肠道的细菌具有持久的影响。在研究中，研究人员每次收集一种菌群，将不同的菌群从成年小鼠引入年轻、基因相同的小鼠的胃肠道。结果表明，被引入后的成年小鼠菌群与首次引入的菌群相似。即使用四种不同细菌的鸡尾酒形式进行引入，研究人员也反复发现，第一个进入的细菌对肠道菌群如何发展产生最持久的和最强的影响。 当微生物在生命早期在肠道内生长增殖时，它们具有长期的持续性的影响，这意味着，通过出生后立即引入有益细菌，可以潜在地建立促进健康的菌群。婴儿配方奶粉中添加了益生菌已经在一定程度上做到了这一点，
+➜塑料污染通过蚊子扩散
+https://www.solidot.org/story?sid=58020	47909
+子幼虫孑孓一点儿不挑食。它们在栖息的池塘和水坑中滑行，在此过程中产生的水流会将微小的食物颗粒送入孑孓口中，而一些微小塑料碎片也很容易进入其口中。一项新研究<a href="http://news.sciencenet.cn/htmlnews/2018/9/417881.shtm" target="_blank"><u>表明</u></a>，这些“微塑料”即使在蚊子从水中飞出后仍会残留在它们的肚子里，从而使蚊子的陆地捕食者面临吸入污染物的危险。成年蚊子弃水后，可以把幼虫时吃下的塑料碎片带到新的栖息地。这意味着，鸟类、蝙蝠和蜻蜓等陆栖捕食者以蚊子为食后，可能会受到不健康剂量的微塑料污染，这些微塑料来自它们的猎物出生时的污染水域。

@@ -1,0 +1,104 @@
+➜Fedora 12正式发布
+https://www.solidot.org/story?sid=14713	1200
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "离上个月 Ubuntu 9.10 发布不久后， <a href="http://www.ownlinux.cn/2009/11/17/fedora-12-final-released.html">Fedora社区也推出了最新的 Fedora 发行版——Fedora 12</a>Fedora 12 和 Ubuntu 9.10 的特性也非常相似。<i>
+主要特性包括：Linux Kernel 2.6.31、GNOME 2.28、KDE 4.3；进一步改善对网络摄像头的支持；NetworkManager 网络管理完全支持IPv6；默认即时消息客户端改为 Empathy；包管理工具PackageKit；更好的电源管理；Bug自动汇报工具；安全方法的改进等等。"</i> <a href="http://fedoraproject.org/get-fedora">下载</a>
+➜拿来主义的胜利
+https://www.solidot.org/story?sid=14714	4080
+《华尔街日报》的一篇报道比较了中国市场上呼风唤雨的<a href="http://cn.wsj.com/gb/20091118/atc085133.asp">拿来主义科技企业</a>和他们的外国模仿对象：<i>
+百度并非以突破性的创新而闻名。其主页风格类似谷歌(Google)，“百度百科”类似于维基百科，“百度知道”则类似于Yahoo Answers，这家中国互联网搜索巨头一直被批评人士斥为模仿抄袭。但百度也是许多中国科技公司如何通过让现有科技适应中国不断成长、迅速演变的市场而胜过外国竞争对手的例证....百度的一些产品看起来同其它公司发明的产品非常相像...百度百科受到了维基百科用户和经营维基百科的非盈利组织维基媒体基金会的指责，称百度的一些条目未经授权逐字抄袭了维基百科的条目。不过，百度百科现在共有近200万篇文章，而中文维基百科只有不到30万篇。维基百科没有获得中国的执照，审查机构时不时屏蔽维基百科网站的内容让百度从中受益。</i>
+➜海盗湾关闭Tracker，换用分布式哈希表
+https://www.solidot.org/story?sid=14715	5280
+海盗湾<a href="http://tech.slashdot.org/story/09/11/17/1337254/Pirate-Bay-Shuts-Down-Tracker-Switches-To-Distributed-Hash-Table">关闭了他们的BitTorrent Tracker</a>，换用到<a href="http://zh.wikipedia.org/zh-hans/%E5%88%86%E6%95%A3%E5%BC%8F%E9%9B%9C%E6%B9%8A%E8%A1%A8">分布式哈希表</a>(Distributed Hash Table，简称DHT)。<i>
+海盗湾<a href="http://thepiratebay.org/blog/175">博客</a>称，DHT和点对点交换（PEX）技术寻找到交换者的效率与集中式的服务器一样，即使不是更好。中国境内一直无法访问海盗湾的Tracker，但它的种子仍然能通过DHT和PEX连接到其他交换者。因此Tracker的关闭并不会产生多少影响，BT网络的完整性也不会受到冲击。据瑞典当地的新闻报道，海盗湾关闭Tracker可能是因为法院的最新裁决。</i>
+➜McAfee报告称网络战争已变为现实
+https://www.solidot.org/story?sid=14716	7440
+McAfee的最新研究<a href="http://img.en25.com/Web/McAfee/VCR_2009_EN_VIRTUAL_CRIMINOLOGY_RPT_NOREG.pdf">报告</a>(PDF)认为，<a href="http://newsroom.mcafee.com/article_display.cfm?article_id=3594">网络战争已经从虚构变成现实</a>。报告发现网络攻击背后的政治动机趋于增加，美国、俄罗斯、法国、以色列和中国这五个国家已拥有了网络战争能力。
+<i>
+研究报告<a href="http://www.bbc.co.uk/zhongwen/simp/world/2009/11/091117_cyber_warfare.shtml">指出</a>，很多国家都在为网络战争加紧“战备”，其中不仅包括如何防御网络战，也包括发动网络袭击。报告称网络攻击针对的目标是关键的基础设施，如电网。尽管人们对如何定义网络战争还有不同看法，但有一点是清楚的：很多国家已经认识到，未来的冲突至少有一部分将在网上进行。</i>
+➜中国女航天员要求已婚已育
+https://www.solidot.org/story?sid=14717	9900
+中国政府已经完成了女性航天员的初选工作，<a href="__SLASHLINK__" sect="science" sid="09/08/11/083251" sn="article" tid="102">如前所述</a>，女性航天员的标准有身高在1.65米到1.75米之间，现在增加了一条：<a href="http://tw.news.yahoo.com/article/url/d/a/091117/5/1v4mf.html">必须已婚已育</a>。
+<i>
+第2批宇航员候选人全部来自空军，包括30名男性、15名女性。选拔机构将分3批甄选出5男2女，她们被要求<a href="http://military.people.com.cn/GB/1076/52984/10393533.html">必需已经结婚并生育</a>。参加历次宇航员选拔工作空军总医院全军临床航空医学中心主任徐先荣介绍，相比男性，女航天员的优势在于，心理素质稳定、耐久力强、耐寂寞能力强等。徐先荣介绍，25至35岁，是女性生理和心理比较成熟、稳定的时期，女性候选人全部要求结婚生育。这也是我国首批战斗机女飞行员未参加选拔的原因之一。徐先荣表示，这是对女性负责的一种考虑，“在各种资料中，并未体现出太空生活对女性生理的影响，但对我国毕竟是第一次，我们要做得更加谨慎。”对于选拔太空人的医学标准，徐先荣透露，现在的标准“有着明显的中国特色”。他说，基于人种的区别，国外许多数据与中国国内有明显的差异。据了解，这批太空人的医学健康检测项目包括内科、神经精神科、眼科、耳鼻喉科、辅诊科等100多个大项目、上千个小项目，并进行智力、注意力、分配能力、手脚协调能力、耐力和爆发力等心理素质初级测试。"</i>
+➜巴西黑客入侵巴西电网公司网络
+https://www.solidot.org/story?sid=14718	11700
+CBS的60分钟杂志上周声称<a href="__SLASHLINK__" sect="hardware" sid="09/11/09/0654214" sn="article" tid="97">黑客曾让巴西电网下线</a>。这一断言现在据信是虚构的，但是该故事却真的刺激了巴西黑客。<i>
+巴西电网公司National System Operator(ONS)证实该公司的网络被黑客入侵，时间恰好发生在60分钟节目播出两天之后。ONS表示已在当天修复了错误，它否认11月10日发生的电网下线事故与攻击有关，声称电网网络与互联网隔离，它的操作是通过语音命令发出的。安全研究员指出ONS网站的一个<a href="http://www.ons.org.br/agentes/agentes.aspx">登录（login）网页</a>存在漏洞，允许黑客向数据库发送指令，寻找敏感数据。黑客实施的应该是典型的<a href="http://darkreading.com/blog/archives/2009/11/how_to_hack_a_b.html?cid=ref-true">SQL注入攻击</a>。</i>
+➜Momonga Linux 6.1发布
+https://www.solidot.org/story?sid=14719	15360
+<a href="http://horf.c.la/">horf</a> 写道 "<i>Momonga Linux是一份在其用户社区中靠“集贸市场”模式开发的Linux发行。你可能会问为什么要命名为Momonga。这其实是生活在欧洲及亚洲的一种鼯鼠，它被认为是一种自作主张的动物，尽管它的个头很小。我们Momonga项目组，就像鼯鼠那样个小不出名，但我们毫无担心或矫造地展示自己，因而新用户 能感受到我们的热忱及对Momonga Linux的信心。Momonga Linux的安装程序也叫做momonga；正如它的名字一样，它迅速有效地完成任务，就像一只鼯鼠一样。新版主要更新包括：Kernel 2.6.30.9，RPM 4.7.0，GCC 4.3.3，glibc 2.9，Python 2.6.2，Ruby 1.8.7 / 1.9.2-preview1，GNOME 2.26.3，KDE 4.3.2，Xfce 4.6.1，OpenOffice.org 3.1.1，Mono 2.4，Emacs 23.1，BIND 9.6.1，NSD 3.2.2，Unbound 1.3.4，Postfix 2.6.5，Sendmail 8.14.3，OpenSSH 5.2p1，Shiretoko (Firefox) 3.5.5，httpd (Apache HTTP Server) 2.2.14 ，MySQL 5.1.36，PostgreSQL 8.3.8等。
+</i>
+<a href="http://www.momonga-linux.org/20091116.html.ja">release notes</a>
+<a href="ftp://ftp.nara.wide.ad.jp/pub/Linux/momonga/6.1/Momonga/i686/iso/Momonga-6.1-i686-DVD.iso">DVD IMAGE</a>"
+➜新华社试播类似CNN的国际新闻频道
+https://www.solidot.org/story?sid=14720	17100
+《联合早报》报道，新华社主办，有“中国CNN”之称的国际新闻频道“中国国际电视台”（CITV），<a href="http://www.zaobao.com/zg/zg091118_003.shtml">将于今天开始试播</a>。<i>
+中国官员表示，这个预计全天播出的卫星电视频道，将试图以中国观点报道全球新闻，“而不是西方的视角”。分析人士认为，中国的新闻报道仍受到政府严格的控制和审查，官方宣传的背景很难说服西方的观众，这也成为中国媒体走向世界的“瓶颈”。相较于之前中国《环球时报》推出英文版、中国中央电视台阿拉伯语、俄语频道的开播，新华社对即将推出的新闻电视台则显得低调许多。CITV首先以中文播报，预定明年1月再推出英语新闻，播出地区则是先亚太后欧美，最后将以24小时滚动方式播出中国及国际新闻。</i>
+➜“unfriend”当选为牛津字典年度词汇
+https://www.solidot.org/story?sid=14721	18900
+<a href="mailto:leiyong85813@sohu.com">懦夫</a> 写道<i> "互联网社交词汇“<a href="http://blog.oup.com/2009/11/unfriend/">unfriend</a>”(直译“非友”)击败2009年美国众多技术、经济、政治和时事新兴词语，<a href="http://news.wangmeng.cn/detailNews/1127-new-oxford-american-english-dictionary-contains-facebook-social-vocabulary">当选为《新牛津美语辞典》年度词汇</a>。“Unfriend”的词性被定义为动词，即把网络社交名单里的某“好友”清除，加入黑名单。高级语言专家评价说：“这个词(unfriend)既是流行的，又有长期的使用价值。”</i>
+其他入围2009年度词汇的词语包括“intexticated”(开车时分心收发短信)、“freemium”(免费提供部分基本服务的商业模式)以及“choice mom”(自愿单身母亲)，“green state（绿色政府）”，netbook（上网本），freemium（互联网的基础，免费商业服务）等；值得注意的词串包括Twitter衍生词Tweeps、Twittermob...奥巴马衍生词Obamasty、Obamania、Obamacracy等等。"
+➜中国国防部官网上线一个月就遭230多万次攻击
+https://www.solidot.org/story?sid=14722	20160
+BBC<a href="http://www.bbc.co.uk/zhongwen/simp/china/2009/11/091118_china_mod_web.shtml">报道</a>，官方《人民日报》<a href="http://military.people.com.cn/GB/172467/10397217.html">引用</a>国防部网站总编辑季桂林的话称，“国防部网站从上线第一天开始，就受到大量的、不间断的攻击。第一个月受到的攻击达230多万次，包括侵入式攻击和阻塞式攻击。”但这些攻击“均未奏效”。<i>
+中国国防部网站自8月20日零时起上线试运行至今已三个月，季桂林说目前网站运行“基本正常”。他引统计数据（Alexa的<a href="http://cn.alexa.com/siteinfo/mod.gov.cn">统计结果</a>）说，网站三个月来的总点击量达12.5亿次，国内网民三秒钟就可打开网页，国外约五秒左右。目前中文版境外访问量靠前的国家为：美国、澳大利亚、新加坡和日本；英文版为美国、澳大利亚和英国。季桂林特别指出，国防部网站有严格的保密措施和“脱密”环节，不会为追求点击量而泄露军事秘密。</i>
+➜人体冷冻能让你成为富翁
+https://www.solidot.org/story?sid=14723	23400
+暂不讨论人体超低温储存技术的可行性（比如冷冻是否可能损坏大脑或其它器官），假如现有的保险制度存在漏洞，能让不劳而获的你从冰冻中苏醒过来后就能成为富翁，你是否愿意一试？
+<i>
+一位专栏作家、未来主义学家和游戏设计者在<a href="http://www.hplusmagazine.com/articles/forever-young/wake-cryonics">一篇文章</a>中指出，人寿保险可能会在你被冷冻之后留下一大笔死亡红利，这笔钱不仅仅可以<a href="http://idle.slashdot.org/story/09/11/16/189255/Become-Your-Own-Heir-After-Being-Frozen">资助你继续冷冻</a>，而且可让你从冷冻中醒来后变得富有，即便未来钱不再流通你也不会有什么损失。你不需要变得富有之后再去冷冻，大多数中产阶级现在都能负担得起。只要采取正确的步骤，在醒来之后你会兴奋的看到银行账户里钱多得数不过来。当前的法律会判定人体冰冻者已经死亡，因此没有权利拥有或继承死亡福利，但这项法律会在第一位冰冻者起诉后发生改变。</i>
+➜中国的大雪
+https://www.solidot.org/story?sid=14724	26400
+zigzed 写道 "天地一笼统，井口黑窟窿，黑狗变白狗，白狗身上肿！大家知道这个打油诗的谜底吗？NASA <a href="http://terra.nasa.gov/">Terra</a>卫星2009年11月17日拍到中国北方的<a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=41295">大雪</a>之后的场景。<i>
+这场大雪已经导致至少32人<a href="http://news.sina.com.cn/c/2009-11-16/071216613902s.shtml">死亡</a>，295.3千公顷农作物受灾。</i>
+越来越多的<a href="http://www.weather.gov.hk/whatsnew/d3/enso_200911_uc.htm">不正常天气</a>，人类要<a href="http://en.wikipedia.org/wiki/The_Day_After_Tomorrow">灭亡</a>了吗？"
+➜微软内核工程师谈Windows 7 Kernel
+https://www.solidot.org/story?sid=14725	27360
+Windows 7的版本号是Windows NT 6.1，而Windows Vista是Windows NT 6.0，因此很多人戏称Windows 7是Vista SP3。正在洛杉矶举行的微软专业开发者会议（PDC 2009）上，微软内核工程师<a href="http://www.betanews.com/article/print/PDC-2009-Scuttling-huge-chunks-of-Vista-architecture-for-a-faster-Windows-7/1258443953">深入介绍了Windows 7 Kernel</a>。新一代操作系统内核上确实<a href="http://www.osnews.com/story/22501/Microsoft_Kernel_Engineers_Talk_About_Windows_7_s_Kernel">发生了让人印象深刻的变动</a>。<i>
+微软的目标主要是改进系统性能——在被批评性能低下的Windows Vista之后，这一目标并不让人感到意外。Windows NT kernel开发者Mark Russinovich称他们获得的信息清楚指出，用户想要更小更高效、更快和更节能的操作系统，因此在开发Windows 7过程中，性能放到了最前面。结果虽然Windows 7提供了更多功能，但其内存占用却首次低于上一个版本。<br>
+Windows 7去除了多个严重阻碍性能的锁（lock），比如管理调度的调度锁(dispatcher lock)就完全消失了——调度锁是截至Vista的Windows架构中的关键元素——取而代之的是fine-grained locking，包含11种类型的锁，线程、处理器、定时器、对象等都有专门的锁——通过制定获取锁的规则而防止死锁。现在系统多数的操作都是锁无关的(Lock-Free)。<br>
+另一位Windows内核开发者称，从终端用户的角度看，Windows 7是Vista的Service Pack 3，但关键的底层架构替换了有20年历史的、已经越来越无法适应变化的概念，新的看起来复杂但实际上高效的概念将让Windows 7与未来的Windows 9一脉相承。</i>
+➜Opera Mobile 10 beta免费
+https://www.solidot.org/story?sid=14726	28800
+<a href="http://bbs.operachina.com/">linuxrocks</a> 写道 "王者归来！智能手机上最棒的浏览器Opera Mobile在时隔两年后重返Symbian S60 平台！免费！ Opera Mobile 作为 Opera 重量级产品之一，现在向最终用户免费，现在就<a href="http://www.operachina.com/mobile/download/">免费下载</a>使用！<i>
+新一代的 Opera Mobile 10 beta 采用了 Opera Mini 5 风格的外观，更加酷炫时尚，集成快速拨号、多标签浏览、Turbo 加速、密码管理等诸多功能。性能是设计这个测试版时的重要考虑。得益于最新研发的渲染引擎，Opera Mobile 10 beta 较之前版本快了两倍！</i>
+<a href="http://www.operachina.com/mobile/download/">立刻下载体验 Opera Mobile 10 beta</a>|
+<a href="http://v.youku.com/v_show/id_XMTMyODA2NDY4.html">观看视频</a> | <a href="http://bbs.operachina.com/viewtopic.php?t=58595">浏览高清图片</a> | <a href="http://www.operachina.com/mobile/features/">更多功能</a>"
+➜前微软CTO建造高科技厨房研究食谱
+https://www.solidot.org/story?sid=14727	31200
+<a href="http://en.wikipedia.org/wiki/Nathan_Myhrvold">Nathan Myhrvold</a>曾经是微软CTO，负责过Windows的开发，现在则是一家风险投资公司的联合创始人。他本人握有超过18项美国专利，申请了超过100项专利。他曾经证明蜥脚龙的尾巴尖端的速度能超过音速，能像鞭子一样挥动。<i>
+最近Myhrvold博士的兴趣转向了厨房，他有意在一年内（一年前他也说过相同的话）出版<a href="http://www.nytimes.com/2009/11/17/science/17prof.html?_r=1">一本厚达1500多页的食谱</a>。为了发现为人所未知的食谱，他特别建造了<a href="http://tech.slashdot.org/story/09/11/17/1538245/Former-Microsoft-CTO-Builds-Kitchen-Laboratory">一座高科技厨房实验室</a>，聘请了5位厨师，使用一些似乎放错了地方的实验设备：把高压锅当作压力锅用，用100吨的液压机压出牛肉干；用超声波焊接机....做他也不确定的食物。每隔大约一个月，食谱研究人员会聚集在会议厅讨论他们的进展，Myhrvold博士称，这就像软件工程，他们的研究方式和过去他在微软的做法一样。</i>
+➜传预算削减，NASA表示愿意与中国合作
+https://www.solidot.org/story?sid=14728	33900
+2009年对NASA来说是有意思的一年：它与过去的对手俄罗斯结成了更紧密的纽带，<a href="http://politics.slashdot.org/story/09/11/17/205205/NASA-Willing-To-Team-With-China-Rumors-of-a-Budget-Cut">现在更是准备与中国合作</a>。
+<i>
+NASA局长博尔登（Charles Bolden）<a href="http://www.google.com/hostednews/afp/article/ALeqM5hla2i5PLLHuXp5CanUH6ygR6M5zA">表示</a>，“我本人是万分愿意的，如果有指示要求我去努力让中国成为任何太空项目的合作伙伴。我认为他们是非常有实力的国家。他们已经证明能做只有另外两位两个国家才能完成的事——即把人类送往太空。我认为这一成就是无法忽视的。他们是一个力争上游的国家。如果彼此合作的话，我们将可能比各自单干做的更好。”</i>
+NASA早在2008年就在考虑与中国合作，虽然中国宇航局的预算比NASA少的多。一条可能与之相关的新闻指出，传言称奥巴马政府<a href="http://www.orlandosentinel.com/news/space/os-atlantis-shuttle-launch-20091116,0,4658928.story">削减</a>了NASA的2011财年10%的预算。
+➜研究人员演示SSL漏洞攻击
+https://www.solidot.org/story?sid=14729	36300
+安全研究员Marsh Ray与Steve Dispensa发现<a href="__SLASHLINK__" sect="it" sid="09/11/09/0059246" sn="article" tid="70">TLS与SSL协议中存在安全漏洞</a>，可被用于实施中间人攻击(man-in-the-middle，MITM)。问题出在“认证空档”（authentication gap）上，在加密认证流程中，由于服务器与客户端之间的认证会出现不持续的状况，使得攻击者可趁机绑架数据串。虽然有些研究人员认为这一漏洞太理论化，不太可能变为现实，但就在一周前，土耳其研究生Anil Kurmus<a href="http://www.securegoose.org/2009/11/tls-renegotiation-vulnerability-cve.html">利用</a> twitter API演示了<a href="http://it.slashdot.org/story/09/11/16/2327230/SSL-Renegotiation-Attack-Becomes-Real">真实的SSL漏洞攻击</a>，他成功的从加密数据流中窃取到Twitter登录证书。
+➜继芬兰之后，西班牙也宣布了“宽带权利”
+https://www.solidot.org/story?sid=14730	38160
+继<a href="__SLASHLINK__" sect="internet" sid="09/10/15/0046254" sn="article" tid="17">芬兰</a>之后，西班牙也宣布居民拥有“<a href="http://yro.slashdot.org/story/09/11/17/2323254/Spain-Codifies-the-Right-To-Broadband">1MB宽带接入合法权利</a>”。<i>
+西班牙工业部长宣布，从2011年起，无论生活在何处，居民都有合法权利以规定的价格购买到至少1 Mbp/s的宽带。电信运营商握有的“公众服务”合同将确保它必须在整个西班牙提供“合理”价格的宽带服务。“公众服务”是为了保护人口稀少地区的居民，防止运营商因为无法获利而切断这些地区的网络接入。</i>
+➜KDE 4.4新变化
+https://www.solidot.org/story?sid=14731	41100
+KDE桌面的下一个重要版本KDE 4.4计划在2010年初发布，但它的功能将在2009年11月冻结，之后不会再增加新功能，而主要是除虫。KDE的核心开发者和项目发言人Sebastian Kugler在<a href="http://www.cio.com.au/article/326573/kde_4_4_aims_take_free_desktop_skyward">采访</a>中<a href="http://tech.slashdot.org/story/09/11/17/1358202/Whats-Coming-In-KDE-44">细述了新版本的主要变化</a>。<i>
+Qt 4.6带来的新变化将使KDE 4.4比之前版本有眼前的优势，如新的布局机制。广义的增强包括改进了桌面搜索，特权提升，Plasma widget远程控制等等。其它方面的更新包括：新的博客本地编辑器Blogilo，允许离线编辑博文；新的网络管理器，Amarok、Digikam、Konversation等KDE 3程序的KDE 4版本；Plasma-Netbook界面等。KDE 4.4最大的变化可能是语义桌面的发展，比如你在图像浏览器中为图像加入标签，标签在桌面搜索中将变得可见。用户还可以将Web网站的内容拖到桌面上，比如从浏览器上拖出一幅图片，一个Plasma applet将会在桌面上显示该图片。</i>
+<a href="http://www.cio.com.au/slideshow/326575/sneak-peek-kde-44-screenshots/">KDE 4.4（SVN）截图</a>
+➜陶韡烁的选择
+https://www.solidot.org/story?sid=14732	42420
+stranger 写道 "陶韡烁发了贴：“<a href="http://sr.ju690.com/meme/item/50785">这就是我，一个复旦人，一个中国共产党党员的选择</a>。”
+有人用他的id luckytws 搜出了曾经回复的<a href="http://74.125.153.132/search?q=cache:hQqYr3_gB-cJ:97.74.10.87/simple/index.php%3Ft3768.html+luckytws&amp;cd=27&amp;hl=en&amp;ct=clnk">这个帖子——这是一个复旦人，一个中国共产党党员的选择</a>。他在文章中提到：“我不很同意奥巴马总统的看法，他不太了解中国的情况。我觉得我们现在上网还是挺自由的，向人人网这样类似facebook中文版的网站我们也能上，也能发表一些敏感的言论，也可以在政府网站上向商务部、外交部网站上批评政策（其实这个我没试过）提出问题（这个我经常干）。”           stranger评：人与机器最大的区别就是人可以创新。可是，facebook这个创新出来的网站贵国人却不能上了，凭什么让做抄袭的“facebook中文版”却赚走贵国人的银子？
+<br> <br>
+陶韡烁：“与30年前比，我们自由多了，我相信我们比我们的父亲要自由的多，以后我们的儿子也会比我们更自由。”
+<br> <br>
+stranger评：自由等于平等（如果不是这样，贵国与朝鲜将是世界上最自由的国家）。是谁不让贵方平等的呢？这个群体知道不能永远自由下去，就一点一点地给权利于贵方，贵方也真是高兴。
+<br> <br>
+陶韡烁：“今天我在接受意大利共和国报采访的时候也说道，家和万事兴。奥巴马总统很关注全球话题，如果我们认为全球是一个大家庭的话，那么中国美国两个家庭成员就不应该相互吵架。我们应该和和气气、和谐的探讨对一些不同概念的理解，来缩小我们的gap，应该用对话来解决问题，而不是相互谩骂。”
+<br> <br>
+stranger评：首先，把双方比作两个人是不对的。虽然贵国不容异见只可算一个人，但美国有人支持让中国继续为世界打工，也有人想让中国人获得权力，可以算是很多人。就算真的算成是两个人，没有辩论也是得不到真理的。
+<br> <br>
+陶韡烁：“我相信，要在复旦、交大、上外、同济等8所名校中找齐500个不是团员的听众肯定要比登天还难。”
+<br> <br>
+stranger评：这更能说明贵国对宗教的打压！不愿意对宗教徒进行高等教育！"

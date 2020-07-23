@@ -1,0 +1,35 @@
+➜破解莫比乌斯带(Möbius strip)结构之谜
+https://www.solidot.org/story?sid=3336	4380
+1858年，德国数学家Ferdinand Möbius和Johann Benedict Listing分别发现，一个扭转180度后再两头粘接起来的纸条，具有神奇的性质。与普通纸带两个面(双侧曲面)不同，这样的纸带只有一个面(单侧曲面)，它就是“<a href="http://en.wikipedia.org/wiki/M%C3%B6bius_strip">莫比乌斯带</a>”(Möbius strip)。
+这个著名的拓扑结构之谜已被英国伦敦大学的两位非线性动力学家Gert van der Heijden和Eugene Starostin破解，他们<a href="http://www.nature.com/nmat/journal/vaop/ncurrent/abs/nmat1929.html">开发了一组方程式来描述莫比乌斯带</a>。你也许会有点吃惊，这一结构自1858年发现以来竟然一种无人真正理解。<a href="http://tech.sina.com.cn/d/2007-07-16/13421618637.shtml">新浪科技上有一篇简短说明</a>。<i>
+两位数学家认为，决定莫比乌斯带空间形状的是不同区域的“能量密度”(energy density)。由折叠所形成的弹性势量存储在莫比乌斯带中，卷曲最剧烈的地方具有最高的能量密度，而平坦的地方能量密度最低。根据他们的数学方程式，莫比乌斯带的形状有赖于带子的长和宽。如果宽度和长度的比例增加，那么各个位置的能量密度也会相应改变，从而改变莫比乌斯带的三维形状。</i>
+➜能在水上走的机器人
+https://www.solidot.org/story?sid=3337	4860
+卡耐基梅隆大学纳米机器人实验室的科学家设计出<a href="http://nanolab.me.cmu.edu/publications/papers/Floyd-IROS2006.pdf">一种能在水上跑的机器人</a>(论文，PDF格式)。水上飞，是中国武侠小说必不可少的情节，实际上在自然界确实有一些动物能在水上漫步，蜥蜴就有这种神奇的能力。科学家们在对蜥蜴水上行走方式进行细致研究后，成功的设计出拥有四条腿的小型机器人，目前已完成了计算机模拟和原型测试。
+➜变色的液体也许能让LCD更艳丽
+https://www.solidot.org/story?sid=3338	5400
+一种能随着磁场变化而变色的液体也许能成为<a href="http://www.newscientisttech.com/article/dn12280-chameleon-liquid-could-outshine-lcds.html">传统LCD显示器色彩组件的便宜代替物</a>。加利福尼亚大学的殷亚东（Yadong Yin，毕业于中国科技大学）和他的同事创造了一种被铁氧化物粒子覆盖，涂在塑胶上的液体。它非常便宜也很容易制造，这项技术未来可用于制造柔韧性强、可复写的电子纸。<i>
+静电排斥的反作用力（塑胶上）和磁引力（铁氧化物粒子）使得粒子能够按照指定的结构进行排列，这种效应就叫胶态光子晶体（<a href="http://en.wikipedia.org/wiki/Photonic_crystal">photonic crystal</a>）。由于整个结构中相邻粒子之间的空间就等同于光波长，光透过胶态晶体会引起空间折射率的变化，而稍微改变空间就能精确调整波长或是颜色。在磁场的作用下，变换颜色非常容易实现。在实验中，通过调整磁铁的距离和强度，光呈现的颜色从红到紫罗兰。一旦磁场关闭，就会恢复到原来的颜色。</i>
+➜XBox当家投奔EA
+https://www.solidot.org/story?sid=3339	14040
+<a href="http://www.playbeyond.cn/">tar9918</a> 写道 "XBox的大头<a href="http://www.playbeyond.cn/archives/408">Peter Moore已从微软辞职</a>，并将加入EA Sports。这一消息已经分别得到微软和艺电（EA）官方证实。Moore的游戏业生涯从世嘉起步（之前在运动鞋生产商Reebok）一直做到世嘉（美国）的总裁和COO。2003年，Moore加入微软后的成绩不错，使微软在激烈竞争的主机游戏业站稳了脚跟。Moore的职位将由Don Mattrick接任，他曾担任EA的总裁。
+全文在<a href="http://www.playbeyond.cn/archives/408">这里</a>"
+➜openMosix关闭
+https://www.solidot.org/story?sid=3340	18240
+OopenMosix是一个Linux集群系统解决方案，允许多台单cpu节点或smp（对称多处理器）节点运行相同的内核，提供了高性能集群计算能力。虽然OopenMosix的用户群体相当广泛，但<a href="http://sourceforge.net/forum/forum.php?forum_id=715406">管理层仍然决定将其关闭</a>。主要开发者要么离开，要么已失去继续开发下去的动力。官方的解释是多核CPU让集群成为多余
+，但这个声明不可能是真的，很荒谬。从技术的角度看，开源bproc(Beowulf进程迁移模块)是很古老；一般人也不会接触到MOSIX系统，除非是研究者或学生；kerrighed技术也不成熟。从用户角度看，openMosix是开源集群世界的中流砥柱，是迄今为止最好的管理工具。这个项目如果能延续下去将对未来开源世界攻占高端市场产生深远影响。但是如果连最好的软件（best of the best）都无法存活，对待开源相关的任何东西人们都会<a href="http://linux.slashdot.org/linux/07/07/17/2342252.shtml">更加小心谨慎</a>。
+➜真随机数字生成器上线
+https://www.solidot.org/story?sid=3341	26280
+电脑上的随机数字生成器都是伪随机的，也就是说数字是可预测的。如果你想获得<a href="http://pressesc.com/01184778212_qrbgs">真正的随机数字</a>，现在就登录<a href="http://random.irb.hr/">random.irb.hr</a>吧，这是一个真随机数字生成服务网站。它由克罗地亚的一组计算机科学家开发，全名是Quantum Random Bit Generator Service (QRBGS)，原理是光子发散过程中产生的无法预测的量子物理效应，网站将免费为学术和科研机构提供真随机数字。
+➜Democracy Player已死，Miro万岁
+https://www.solidot.org/story?sid=3342	28500
+大名鼎鼎的开源播放器Democracy Player已经被重新命名为<a href="http://www.getmiro.com/">Miro</a>。由<a href="http://participatoryculture.org/">Participatory Culture基金会</a>开发的Miro，目的是让在线视频“和看电视一样简单”，让每一个人都能轻松接触互联网新媒体，它支持开放性标准。这款开源软件包含了一个媒体播放器，视频库，内容向导，视频搜索引擎，综合了 podcast和BitTorrent客户端。<a href="http://www.last100.com/2007/07/17/democracy-player-is-dead-long-live-miro/">好好的为什么要改名</a>？显然是它的名字太独特了，在2006年2月Democracy Player面世的时候，许多人就从这个与众不同的名字联想到了左翼媒体，从而产生出抵制情绪。为了让更多人接受，开发者们想出了这么一个抽象无意义的名字。
+➜3D Mailbox：史上最差软件
+https://www.solidot.org/story?sid=3343	32820
+你是不是觉得现在处理电子邮件的方式有点无聊，QQ聊天太低级了？想不想在一个类似《第二人生》（SecondLife）的虚拟世界里与其它人通讯？讨厌胖子吗，想不想拿他去为鲨鱼？如果你对这些感兴趣，强烈推荐你去试用<a href="http://www.3dmailbox.com/">3D Mailbox</a>。以下是官方介绍：<i>
+史上最酷的email程序；<br>你的邮箱将拥有一个虚拟化身；<br>难以置信的3D虚拟环境；<br>独特的处理广告垃圾邮件的方式（喂鲨鱼）；<br>很酷的音乐和音效；<br>E-mail—在邮箱之外。</i>
+许多人仅仅看过介绍视频，就<a href="http://www.techcrunch.com/2007/07/18/3d-mailbox-worst-app-ever/">产生了疯狂的念头</a>：“以上帝的名义，这个软件的开发团队和公司CEO可以安乐死了（某博客语）”；“我所见过的最糟糕的软件（The Times Online ）”。<br>
+<a href="http://www.youtube.com/watch?v=ouR59Inxb8U">视频</a>，<a href="http://mailroom.3dmailbox.com/download/3dmailboxinstaller.exe">下载</a>（Windows独占，需要通过邮件获取<a href="https://www.3dmailbox.com/subs/newuser_start.php?t=free">激活码</a>）。
+➜太多的Linux发行版把开源搞得一塌糊涂
+https://www.solidot.org/story?sid=3344	63660
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "还记得1980年代吗？许多人担心Unix“分支”会损害操作系统被用户使用的机会。但与现在相比，那是小巫见大巫。Linux世界里的<a href="http://www.informationweek.com/blog/main/archives/2007/07/too_many_linux.html">300多个发行版都在想方设法吸引用户</a>，而总体上它们只有一个真正的对手Windows。这里有一个<a href="http://distrowatch.com/stats.php?section=popularity">Linux发行版列表</a>，目前的权威数据是359个"

@@ -1,0 +1,67 @@
+➜中国称反恐法是内政符合国际惯例
+https://www.solidot.org/story?sid=43212	12063
+中国正在制定的反恐法引发了国外科技公司及政要的强烈反对，甚至美国总统奥巴马公开发表了批评。对此，全国人大发言人傅莹说，反恐法符合行政法的基本原则，要求技术公司让政府为调查恐怖活动使用电信和互联网的技术接口是正当的。傅莹说，“<a target="_blank" href="http://cn.nytimes.com/technology/20150306/c06chinatech/"><u>这也是国际上比较普遍的做法</u></a>，不会影响网络经营者的正当利益”。傅莹说，反恐法草案经过立法者们的激烈讨论，已经得到了细化，明确了其适用范围的严格限制条件，只允许政府安全机构监视数据，而且只用于调查和防范恐怖活动的目的。外交部发言人华春莹表示，中国的做法是防范和打击恐怖主义的必然要求，“有关立法是中国内政，希望美方正确、冷静、客观对待处理。”与傅莹的表述相反，技术公司是否应该把用户数据交给进行调查的政府机构，近年来已成为一个备受争议的问题。 <br>
+➜哈里森·福特驾驶二战飞机在一高尔夫球场坠机
+https://www.solidot.org/story?sid=43213	14213
+<div align="center"><img src="http://img.solidot.com.cn/0/63/liL2sKXb53YR2.png" align=""><br>
+<br>
+</div>
+主演过《印第安纳琼斯》、《星球大战》和《银翼杀手》等经典电影的演员哈里森·福特美国时间周四驾驶一架二战古董飞机<a target="_blank" href="http://www.nbclosangeles.com/news/local/Aircraft-Incident-Reported-in-Santa-Monica-295247581.html"><u>坠毁在</u></a>洛杉矶附近的一个高尔夫球场，他已被送往医院，目前情况稳定。福特驾驶的是二战时的单引擎训练飞机PT-22，他在起飞后不久坠落在 Penmar高尔夫俱乐部的球场上。<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2015/03/150306_us_harrison-ford_plane_crash"><u>福特是一名航空爱好者</u></a>，经常驾驶飞机在机场起降。坠机事件发生后，飞机基本完好，事发时只有福特一人在机上。
+➜VMware因侵犯GPL许可证被告上法庭
+https://www.solidot.org/story?sid=43214	16458
+律师Till Jaeger代表内核开发者Christoph Hellwig向德国汉堡一家法庭起诉虚拟机开发商VMware侵犯了GPL许可证。这一案件获得了<a target="_blank" href="https://sfconservancy.org/"><u>软件自由管理机构（Software Freedom Conservancy）</u></a>的资助，并得到了自由软件基金会的<a target="_blank" href="http://www.fsf.org/news/conservancy-and-christoph-hellwig-gpl-enforcement-lawsuit"><u>支持</u></a>。问题与VMware产品vSphere ESXi 5.5.0中名叫vmkernel的组件<a target="_blank" href="https://lwn.net/SubscriberLink/635290/e501ce0264c182f4/"><u>有关</u></a>。ESXi大量使用开源项目，其中包括Linux内核，相关开源代码可在VMware的网站<a target="_blank" href="https://my.vmware.com/web/vmware/details?downloadGroup=ESXI55U1_OSS&amp;productId=352"><u>下载</u></a>。ESXi不是一个纯开源产品，它包含了私有组件vmkernel。软件的引导过程从Linux开始，然后加载模块vmklinux，这个模块再加载vmkernel代码去执行 hypervisor功能。vmkernel是通过一个模块加载到内核，因此被认为是内核的衍生产品，被认为需要在GPL许可证下的条款下发布。但VMware开发者<a target="_blank" href="https://news.ycombinator.com/item?id=9151799"><u>否认</u></a>vmkernel要从<span class="comment"><font color="#000000">Linux引导。</font></span>
+➜Steam开始销售硬件
+https://www.solidot.org/story?sid=43215	19284
+<div align="center"><img src="http://img.solidot.com.cn/0/64/liQ5t2wmu4EKQ.png" align="" height="168" width="560"><br>
+<br>
+</div>
+Valve的PC数字平台Steam之前已从销售游戏软件扩大到其它类型的软件，如今更进一步扩展到了硬件。<a target="_blank" href="http://store.steampowered.com/universe"><u>Steam Universe</u></a>正式上线，开始展示Steam主机相关硬件，其中包括了控制器、将游戏视频从PC传输到电视的流式盒、以及HTC开发的头戴式虚拟现实显示器SteamVR，等等。这些产品大部分将于今年11月上市，尚未开始预售。运行SteamOS的主机已延期了一年，如今支持SteamOS/Linux的游戏数量正在快速增加，其中不乏3A级大作，包括即将发售的《Batman: Arkham Knight》。Valve称，有超过1000款游戏支持SteamOS，这是一个令人惊讶的数字，Linux游戏时代正在逼近。
+➜FREAK漏洞影响所有Windows操作系统
+https://www.solidot.org/story?sid=43216	26183
+微软周四<a target="_blank" href="https://technet.microsoft.com/en-us/library/security/3046015"><u>发出警告</u></a>，新曝光的SSL/TLS漏洞FREAK也影响所有Windows支持版本。FREAK（是Factoring attack on RSA-EXPORT Keys的缩写）漏洞允许攻击者拦截存在漏洞的客户端与服务器端之间的HTTPS链接，迫使它们降级使用容易破解的RSA密钥。该漏洞被认为主要影响Safari浏览器、Android设备，黑莓和iPhone等，但如今Windows也加入到影响名单之中。Google<a target="_blank" href="http://arstechnica.com/security/2015/03/stop-the-presses-https-crippling-freak-bug-affects-windows-after-all/"><u>已发布了</u></a> Chrome for Mac补丁，但自家的Chrome for Android仍未修正，苹果则宣布下周为OS X和iOS释出补丁。受影响的用户现阶段可以考虑使用 Firefox浏览器。
+➜中国的新安全规定被指实质是贸易保护
+https://www.solidot.org/story?sid=43217	27908
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001060918"><u>报道</u></a>，中国的反恐法等安全法规引发了贸易保护主义的质疑。美国贸易代表弗罗曼(Mike Froman)说，这些法规并非关乎安全。它们的本质是保护主义和对中国企业的偏袒。弗罗曼认为，如果本月按计划实施这些针对银行业的新规，那么中国可能就违背了其在双边和多边贸易协定中作出的承诺。微软首席法律顾问史密斯(Brad Smith)表示，“中国是一个重要市场。其他国家显然也很重要。很多国家都出现了这样或那样的保护主义，让我们不得不感到担忧。”美国官员和企业高管辩称，欧洲和中国等地区作出的反应现在似乎更多以将美国企业排挤出竞争性市场为目的，而非出于保护公民免受隐私问题影响。网络壁垒似乎既阻碍了自由贸易又妨碍了言论自由，中国的“防火长城”就是一例。
+➜特斯拉在中国面临充电难题
+https://www.solidot.org/story?sid=43218	31051
+在特斯拉上个月的<a target="_blank" href="http://www.thestreet.com/story/13044208/1/tesla-motors-tsla-earnings-report-q4-2014-conference-call-transcript.html"><u>财报会议</u></a>上，该公司证实充电问题在中国造成了不好的用户体验。 在中国特斯拉车主中间，<a target="_blank" href="http://cn.nytimes.com/business/20150306/c06tesla/"><u>寻找充电桩是一个普遍的抱怨</u></a>。人们对充电基础设施的担忧，加上官方支持国产品牌竞争的偏袒，或许在一定程度上造成了特斯拉去年在中国市场上的平淡表现。这种业绩最终导致了特斯拉中国区总裁离职。当下，特斯拉司机已经为自己的充电需求找到了各种变通方案。在QQ和微信上，数百名特斯拉车主加入了群聊，利用这些平台交流、分享对上层管理的不满以及安排去彼此家里充电。他们称之为“偷电”。
+➜研究发现支持民主制度需要时间
+https://www.solidot.org/story?sid=43219	32107
+民主制度是基于普罗大众的支持，但这种支持是内源性的（也就是受外部影响和控制）还是外源性的（即个人欲求）？根据发表在《科学》期刊的<a target="_blank" href="http://www.sciencemag.org/content/347/6226/1145.abstract?sid=5ff6ac2c-8884-48e5-ab33-bd36bb93c59d"><u>一篇论文</u></a>，研究人员分析了1994-2013年104个国家38万人的观察数据后发现证据显示政治偏好是内源性的，一个人在民主体制中生活得越久，更可能会支持民主体制。在某民主体制中多生活8.5年而产生的对该体制偏好的增加程度相当于中学教育与小学教育相比时中学教育所得到的增加的偏好程度。<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-03/aaft-wds030215.php"><u>结果表明</u></a>，民众对新兴民主体制的支持需要假以时日。
+➜广义相对论诞生百年
+https://www.solidot.org/story?sid=43220	33606
+<div align="center"><img src="http://img.solidot.com.cn/0/67/liuXAfnhRC5pg.png" align="" height="368" width="450"><br>
+<br>
+</div>
+今年是爱因斯坦发表<a target="_blank" href="http://zh.wikipedia.org/wiki/%E5%BB%A3%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96"><u>广义相对论</u></a>论文一百周年。广义相对论是引力的基本理论，宏观的广义相对论和微观的量子理论构成了今天物理学的基石。《科学》期刊制作了纪念广义相对论诞生百年的<a target="_blank" href="http://www.sciencemag.org/site/special/generalrelativity/?intcmp=relativity_news"><u>特刊</u></a>，其中一篇以<a target="_blank" href="http://spark.sciencemag.org/generalrelativity/"><u>漫画</u></a>（注意：有声音）的形式概述广义相对论，描绘年轻的爱因斯坦如何从跳楼的思想实验中发现引力的起源。
+➜Firefox 38原生支持Ruby字符
+https://www.solidot.org/story?sid=43221	34814
+<div align="center"><img src="http://img.solidot.com.cn/0/68/liYixl8aJWlhk.png" align=""><br>
+<br>
+</div>
+Mozilla开发者<a target="_blank" href="https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/"><u>报告了一个好消息</u></a>：Firefox 38开发者版本已经原生支持<a target="_blank" href="http://zh.wikipedia.org/wiki/%E6%97%81%E8%A8%BB%E6%A8%99%E8%A8%98"><u>Ruby字符</u></a>。Ruby字符与Ruby语言无关，而是注音标示，是一种表意文字的音标印刷方式，广泛地运用于日文及中文，rubi是日本印刷业的用语。以前Firefox浏览器支持注音标示需要安装扩展如HTML Ruby，如今Firefox 38默认启用了CSS Ruby，同时还引入了HTML5 ruby标签支持。
+➜HTTP/2没有强制要求TLS
+https://www.solidot.org/story?sid=43222	37359
+HTTP/2规格已经<a target="_blank" href="http://www.solidot.org/story?sid=43093"><u>制定完成</u></a>，即将成为正式标准。在规格中，HTTP/2协议<a target="_blank" href="http://daniel.haxx.se/blog/2015/03/06/tls-in-http2/"><u>没有强制要求使用TLS</u></a>，主要原因是许多机构都想要检查HTTP流量，或网络环境需要缓存，或认为TLS会增加额外的负担，以及认为安全证书太昂贵，等等。虽然规格没有强迫使用TLS实现HTTP/2支持，目前浏览器开发商在实现HTTP/2支持时都是经过TLS， Firefox 和Chrome开发团队的成员明确表示他们只实现使用TLS的HTTP/2，而IE的团队成员一开始表示他们不使用TLS，但Windows 10技术预览版上第一个支持HTTP/2的测试版本也是只使用TLS。
+➜转基因大肠杆菌能“吐丝”
+https://www.solidot.org/story?sid=43223	39075
+蛛丝强度超过钢铁韧性胜过凯夫拉尔纤维，但创造人工蛛丝的努力至今没有取得重大突破。现在，一个德国研究团队找到了一种方法生产出能与蛛丝<a target="_blank" href="http://www.newscientist.com/article/dn27091-modified-e-coli-spin-fibres-as-tough-as-spider-silk.html"><u>相媲美的人工纤维</u></a>。他们的方法是将蜘蛛的基因植入大肠杆菌，在酒精水中生产出蛛丝的四种分子，使用湿式纺丝法纺织出纤维。最后产生的人工纤维在强度上仍然不如蛛丝，但韧性出色。
+➜考古学家发现最古老的直立人化石
+https://www.solidot.org/story?sid=43224	41537
+<div align="center"><img src="http://img.solidot.com.cn/0/69/liZzz74ZBrsmc.jpg" align="" height="300" width="450"><br>
+<br>
+</div>
+考古学家发现了<a target="_blank" href="http://www.newscientist.com/article/dn27090-the-skull-that-chews-up-theories-of-human-ancestry.html"><u>至今最古老的直立人头骨化石</u></a>：有5颗完整牙齿的化石距今大约280万年，而之前发现的最古老直立人化石是在埃塞俄比亚发现的AL 666-1，距今大约230万年。这个被称为LD 350-1的化石是2013年在埃塞俄比亚的Ledi-Geraru发现的。研究人员<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-03/aaft-tof030215.php"><u>说</u></a>，它结合了原始的南方古猿特征和更为现代的直立人特征。之前发现的最古老南方古猿化石是距今320万年的露西。<br>
+<br>
+➜抗议者为何要用斧头砸GPS卫星
+https://www.solidot.org/story?sid=43225	43637
+《大西洋月刊》回顾了<a target="_blank" href="http://www.theatlantic.com/technology/archive/2015/03/the-failed-attempt-to-destroy-early-gps/386656/?single_page=true">一件颇有意思的旧事</a>：1992年5月10日，抗议组织Lockheed Action Collective的两名成员Keith Kjoller 和Peter Lumsdaine潜入了Rockwell International位于加州海豹滩的工厂，用劈柴的斧头闯入了无尘室，房间内放有为美国政府制造的9颗卫星。Lumsdaine拿着斧头砍向了一颗卫星，连续砍了60多次。他们遭到了逮捕，因损害联邦政府财产面临最高10年的监禁。他们最终因非暴力反抗行动而分别被判了18个月和2年。他们的目标是GPS全球定位系统，当时的GPS卫星主要供军用。破坏军事卫星是为了唤醒公众对于他们所谓的政府企图利用现代技术控制世界的观点的注意。Kjoller在法庭上<a target="_blank" href="http://articles.latimes.com/1992-09-22/local/me-1270_1_18-month-prison-term"><u>告诉法官</u></a>，GPS让常规武器更致命，而在一些人眼里核战争将是可以赢的，他必须去放缓这一系统的部署。23年后的今天， Lumsdaine依旧没有对其行为感到后悔，认为GPS是源于军方，由军方开发，军用目的，军方控制。他将GPS和无人机的联系与《终结者2》的开场对比起来。<br>
+➜洛克希德的激光武器成功破坏卡车的引擎
+https://www.solidot.org/story?sid=43226	45268
+<div align="center"><img src="http://img.solidot.com.cn/0/70/liaDBTTbr3gVU.jpg" align="" height="315" width="560"><br>
+<br>
+</div>
+在最新的一次实地测试中，洛克希德马丁公司的陆基激光武器原型<a target="_blank" href="http://www.lockheedmartin.com/us/news/press-releases/2015/march/ssc-space-athena-laser.html"><u>成功破坏了</u></a>小型卡车的引擎。名为ATHENA（Advanced Test High Energy Asset缩写）的陆基光纤激光武器原型从一英里外在一瞬间就烧毁了卡车引擎的集管。洛克希德的CTO Keoki Jackson称，光纤激光是革命性的定向能武器。
+➜《穹顶之下》被全面清除
+https://www.solidot.org/story?sid=43227	46061
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001060921"><u>报道</u></a>，《第一财经日报》对一名员工作出了停职处理，原因是这名员工泄露了一则机密的、要求媒体停止报道纪录片《穹顶之下》的宣传指令。报道引用两位知情人士的话称，这名员工目前已被停职，最终可能会被开除。《穹顶之下》最初得到官媒的广泛报道，得到了中国环保部部长的公开赞扬。但到了本周一，宣传部门指示媒体停止发布与该片有关的报道。《穹顶之下》的视频同时在国内视频网站上全面下线，优酷上已搜索不到<a target="_blank" href="http://www.soku.com/search_video/q_%E7%A9%B9%E9%A1%B6%E4%B9%8B%E4%B8%8B_orderby_1_lengthtype_4?sfilter=1"><u>该视频</u></a>。但一群志愿者<a target="_blank" href="http://www.linghein.me/tr_u/"><u>合作翻译了</u></a>该片的英文字幕，<a target="_blank" href="https://www.youtube.com/watch?v=T6X2uwlQGQM"><u>上传</u></a>到了YouTube上。

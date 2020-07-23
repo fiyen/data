@@ -1,0 +1,97 @@
+➜单分子晶体管问世
+https://www.solidot.org/story?sid=15385	1200
+<a href="http://shizt.com/">shizt</a> 写道<i> "<a href="http://www.physorg.com/news180785053.html">美国和韩国的研究人员已经用苯的单个分子造出晶体管</a>。成果已经在近期的<a href="http://www.nature.com/">《自然》</a>科学期刊上发表。流经苯分子的电流能够控制，因此就可以像使用普通晶体管一样使用苯分子晶体管。<a href="http://shizt.com/2009/12/24/%E5%8D%95%E5%88%86%E5%AD%90%E6%99%B6%E4%BD%93%E7%AE%A1%E9%97%AE%E4%B8%96/">不过研究人员对未来的应用前景表示谨慎</a>，说这种分子晶体管投入商业使用可能需要数十年时间。
+<a href="http://en.wikipedia.org/wiki/Transistor">晶体管（transistor）</a>是一种固体半导体器件，可以用于放大、开关、稳压、信号调制和许多其他功能,被认为是现代历史中最伟大的发明之一，在重要性方面可以与印刷术，汽车和电话等的发明相提并论。"</i>
+➜我们的数据在云端安全么？
+https://www.solidot.org/story?sid=15386	2400
+<a href="http://jinruhe.com/blog">20andlife</a> 写道 "《纽约时报》<a href="http://bits.blogs.nytimes.com/2009/12/24/is-our-data-too-vulnerable-in-the-cloud/?scp=1&amp;sq=David%20Talbot&amp;st=cse">报道</a>，1月/2月一期的《MIT技术评论》刊登了一篇文章讨论<a href="http://jinruhe.com/blog/archives/218">云计算的安全性</a>：现有的云计算是否已经在安全性方面做到了能够给公众使用呢？
+<i>
+David Talbot在《<a href="http://www.technologyreview.com/web/24166/">以太网络中的安全性</a>》这篇文章中揭示了好几个基于云计算平台技术上的严重问题，这些平台的应用包括Gmail、Twitter和Facebook, Talbot先生访问了安全和云方面的专家，一些专家表示在我们的数据在云端是非常非常脆弱的。作为商业化或者公共使用的云计算平台在安全性方面还有很长的路要走。Talbot写道：“云计算实际上是把几个单独但却有联系的安全风险摆在了人们面前，我们在云端存储的数据不仅仅可能被黑客窃取或者由于机器的故障而丢失，而且，云的供应者也有可能由于操作不当而造成数据方面的损失。”他同时还说到，有三个来自加州大学圣迭戈分校和麻省理工大学的计算机科学家，租用了Amazon公司的EC2云计算服务平台的虚拟机进行大规模试验。虽然他们本身没有窃取任何数据，但是他们相信，一个有经验的程序员在这样的虚拟机上可以很容易的获取其他人的数据。无独有偶，最近一次Twitter遭受攻击，就是由于某个Twitter员工的Gmail账户密码被破解所致。安全专家不止一次的和我们说，一个只要求单一密码的云平台是脆弱的，不足以进行商务应用。要对大众全面开放，要做的工作还有很多。"</i>
+➜量子钱币的始料未及问题
+https://www.solidot.org/story?sid=15387	6120
+1969年，哥伦比亚大学的Stephen Wiesner提出，光子的量子属性可用于制造“量子钱币”，伪造此种钱币将是不可能的。他的设想是每张钞票的光阱中储存数十个光子，只有银行知道这些光子的偏振。因为量子态不可能拷贝，所以这种钱币也不可能仿造。如果有人想检查钱币的真伪，他可以拿到发行银行里去验证光子的偏振。Wiesner的想法鼓舞了一代量子物理学家去开发出完美加密信息的量子算法。<i>
+但是Wiesner“量子钱币”设想的最大缺陷：流通钱币的一个重要特性是每一个人都必须能判断真伪，但量子钱币只有发行银行能鉴定。所以需要某种非对称的技术，让银行制造出无法伪造但每个人都能检验的量子钱币。这听起来有几分类似<a href="http://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86">公钥加密系统</a>：加密算法使用两个不同的密钥：加密密钥和解密密钥，前者公开，后者保密，用私钥加密的信息，可以用公钥对其解密，接收者由此可知这条信息确实来自于拥有私钥的人。那么，<a href="http://www.technologyreview.com/blog/arxiv/24575/">如何设计量子钱币所用的非对称协议呢</a>？如何保证银行不滥用私钥（如随意复制）呢？MIT的Andrew Lutomirski和一组量子专家提出了<a href="http://arxiv.org/abs/0912.3825">无碰撞法（collision free）</a>(预印本)。他们建议在量子钱币中使用一种完全不同的状态。这种状态是大数指数级的重叠，银行无法复制（至少是在任何合理的时间内），即使它知道初始的重叠。这种量子钱币可以用公钥——马尔可夫链算法（Markov chain algorithm）验证。</i>
+➜研究发现老年痴呆症和癌症不太可能同时发生
+https://www.solidot.org/story?sid=15388	7200
+路透社报道，一项研究发现，老年痴呆症(阿尔茨海默氏病)患者不太可能罹患癌症，而癌症患者也不太可能罹患老年痴呆症。美国研究人员对3000多名老年志愿者进行了为期八年的跟踪调查，<a href="http://cn.reuters.com/article/oddlyEnoughNews/idCNCHINA-1399620091224">他们发现已经身患老年痴呆症的人较不容易罹患癌症</a>。
+<i>
+在研究开始时，有164人已经身患老年痴呆症，有522人已经身患癌症。在研究过程中，又有478人罹患了老年痴呆，376人罹患癌症。的确有人同时身患这两种疾病，但人数远远要比之前预计的少。<a href="http://www.neurology.org/cgi/content/abstract/WNL.0b013e3181c91873v1?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;author1=Catherine+Roe&amp;searchid=1&amp;FIRSTINDEX=0&amp;resourcetype=HWCIT">研究报告</a>(摘要)发表在《神经学》(Neurology)期刊网站上。研究人员总结称，与那些在研究开始阶段没有身患老年痴呆症的人相比，研究开始阶段就罹患老年痴呆症的患者入院接受癌症治疗的几率低69%。</i>
+➜圣诞老人/Google恨Linux？
+https://www.solidot.org/story?sid=15389	9600
+自2007年Google以技术合作伙伴身份加入北美大陆防空司令部(NORAD)的<a href="__SLASHLINK__" sect="internet" sid="09/12/24/1138219" sn="article" tid="71">追踪圣诞老人计划</a>以来，Google每年都提供kml文件下载供用户去追踪圣诞老人行踪，但今年没有提供。更糟的是，<a href="http://www.noradsanta.org/en/track3d.html">Noradsanta.org</a>网站只支持Windows/Mac，还必须安装浏览器插件，因此有Linux用户抱怨：<a href="http://entertainment.slashdot.org/story/09/12/25/0140246/Does-Santa-Hate-Linux">圣诞老人恨Linux吗</a>，或者Norad/Google恨Linux吗？
+➜种族主义面部识别软件
+https://www.solidot.org/story?sid=15390	11280
+一位惠普电脑的黑人用户发现，他电脑上的面部识别软件无法正常工作，随后他又惊讶的发现软件能轻易识别一位白人同事的脸部动作。他录制了一段视频发表在Youtube上，名叫“<a href="http://www.youtube.com/watch?v=t4DT3tQqgRM">惠普电脑是种族主义者</a>”，至今观看次数已超过1百万。<i>
+视频显示，惠普电脑内置摄像头及人脸追踪软件，无法追踪他的面部移动，但却可轻而易举追踪一名白人女同事的移动。这位自称Black Desi的黑人男子说：“当我的黑色（皮肤）进入框内后，它就停了”。<a href="http://www.zaobao.com/wencui/2009/12/hongkong091224k.shtml">惠普已对此展开调查</a>。Black Desi对这一现象似乎觉得有趣多于生气。惠普周二回应称，其人脸追踪软件透过量度眼部与脸颊等位置的对比度来运作，若前景光度不足，软件认人时便可能出现困难。惠普强调，公司将尽快修正这一问题。</i>
+➜印尼一部族正式采用韩国文字
+https://www.solidot.org/story?sid=15391	12600
+<a href="http://zh.wikipedia.org/zh-cn/%E5%90%89%E9%98%BF%E5%90%89%E9%98%BF%E8%AA%9E">吉阿吉阿语</a>，是印度尼西亚苏拉威西省巴务巴务(Bau Bau)市一个少数民族使用的语言。说吉阿吉阿语的人、大都是穆斯林，也同时使用窝里沃语、印尼语。窝里沃语是一种近似吉阿吉阿语的语言。吉阿吉阿语没有文字，它一度使用一种称为衮度尔(gundul)的文字。这种衮度尔源于以阿拉伯字母为基础的爪夷文，但衮度尔另发展有5个附加子音字母、不过没有使用元音符号。从2008年开始，当地与韩国训民正音学会采用韩国谚文(韩文)字母作为其现代化的文字。2009年8月初，当地通过所有小学的吉阿吉阿语课程都改用新的韩文来学习每周四小时的民族语言课程。<i>
+据《联合早报》报道，<a href="http://www.zaobao.com/yx/yx091224_004.shtml">韩文正式成为吉阿吉阿语的正式文字</a>。首尔和巴务巴务市签署了文艺交流合作协议，负责推广韩文与交流工作。巴务巴务市官员瓦希德表示，该部族之所以选择韩文而不是拉丁文，是因为韩文能够把他们的语言准确转录成文字，但拉丁文字却无法做到。</i>
+➜余秋雨关闭网志
+https://www.solidot.org/story?sid=15392	14400
+stranger 写道 "由于被(网友)骂作“华语世界第一文盲”，<a href="http://news.google.com/news/more?um=1&amp;cf=all&amp;ned=us&amp;hl=zh-CN&amp;cf=all&amp;ncl=dqvhsqI6L8Ky49MLDIYCoNVJdeSOM">余秋雨关闭了自己的所有网志</a>。而连岳认为，叫“<a href="http://www.lianyue.net/blogs/lianyue/archives/134165.aspx">华语世界第一文氓</a>”更为恰当。"
+➜科学家发现最遥远的星系
+https://www.solidot.org/story?sid=15393	19680
+《自然》网站报道，借助今年5月刚安装上的<a href="http://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%BB%A3%E5%9F%9F%E7%85%A7%E7%9B%B8%E6%A9%9F">第三代广域照相机</a>（Wide Field Camera 3，简写WFC3），NASA的哈勃望远镜在近红外波长上获得了至今最遥远的图像。<a href="http://www.nature.com/news/2009/091224/full/news.2009.1165.html">天文学家发现了处于创世大爆炸后五亿年的星系</a>，也就是大约130亿年前。在近红外波段上，天文学家能发现遥远的、因快速远退而产生红移的星系。在此之前，已知最遥远的天体是今年4月发现的<a href="__SLASHLINK__" sect="science" sid="09/11/01/1021247" sn="article" tid="102">一个伽马射线爆</a>，它的红移值高达8.2。<i>
+加州大学Santa Cruz分校的天文学家Garth Illingworth和同事从哈勃拍摄的数据集中找到了三个星系的初步证据，它们的红移值达到了惊人的10，意味着这些星系所处的时间是宇宙当前年龄的3-4%，它们将是至今观察到的最遥远的天体。Illingworth团队的<a href="http://arxiv.org/abs/0912.4263">报告</a>发表在预印本网站arXiv.org。他们并不是第一个报道红移值为10的团队，亚利桑那州立大学的Rogier Windhorst和同事分析了相同的数据集，发现了大约20个红移值接近10的星系，他们的<a href="http://arxiv.org/abs/0910.0077">发现</a>于10月份发表在arXiv.org上。</i>
+➜Sabayon Linux推出应节游戏版
+https://www.solidot.org/story?sid=15394	20700
+DNA24 写道 "Sabayon Linux团队<a href="http://www.h-online.com/open/news/item/Sabayon-Linux-5-1-Gaming-Edition-arrives-892605.html">在圣诞节推出游戏版</a>(Gaming 5.1)，包括linux下流行的2D和3D游戏：<i>
+Battle of Wesnoth；
+Foobillard；
+Freeciv；
+Frozen Bubble；
+GNOME Games；
+NeverBall；
+Nexuiz；
+OpenArena；
+Pingus；
+Pychess；
+Scorched 3D；
+Spring；
+Stepmania；
+Torcs；
+Tremulous；
+Warsow；
+Warzone 2100；
+Wormux....
+正在安装，圣诞快乐～"</i>
+➜Google Chrome OS将能执行原生码
+https://www.solidot.org/story?sid=15395	21840
+Theregistern报道，Google Chrome操作系统不运行本地程序，不存储本地数据，一切都在浏览器内完成。但当你在明年拿到Chrome OS上网本时，你将可能<a href="http://www.theregister.co.uk/2009/12/24/google_chrome_os_and_native_clent/">在浏览器上执行原生码</a>，Google应用程序如Gmail或文档和电子表格将能直接利用上网本的处理器，在性能上弥补与微软提供的本地应用程序之间的差距。<i>
+虽然Google对Chrome OS是否能执行原生码含糊其辞，但搜索巨人称它的Native Client项目——在Chrome浏览器上执行原生码，而Chrome OS本质上是在Linux上运行Chrome——是促进上网本操作系统上基于Web应用程序性能的重要组成部分。目前Native Client(NaCl)只能运行在x86机器上——支持Windows、Mac和Linux系统，但Google已证实它正在开发ARM版本。Google还在不久前透露了一种新的编程语言Go，它结合了动态语言如Python和编译语言如C++的特性。Google表示它计划让Go语言与Native Client整合在一起。</i>
+➜神父建议穷人到大超市偷窃
+https://www.solidot.org/story?sid=15396	24840
+42岁的神父Tim Jones说，<a href="http://idle.slashdot.org/story/09/12/22/1611210/Priest-Tells-Poor-To-Shoplift">无法养活家人的穷人可以选择到商店偷窃</a>。<i>
+他说，“作为一名基督教牧师，我的建议是去商店行窃。我提出这一建议不是因为偷窃是好事，也不是因为偷窃是无害的，而是因为两者都不是。我将请求他们不要到规模很小的家庭商店行窃，而是去规模庞大的全国性超市，因为偷窃导致的损失最终会以更高的价格转嫁到其余的消费者身上。我将请求他们不要贪得无厌，要适可而止。我怀着沉重的心情提出这一建议，希望社会认识到，官僚主义的无能和官僚系统的拖拉刺激了人们为了求生而去犯罪。”当然Jones神父出于道德相对主义的建议受到了教会领袖、店主和警察的抨击。</i>
+➜IsoHunt被判诱导版权侵犯
+https://www.solidot.org/story?sid=15397	28200
+在Mininova和海盗湾之后，又有一家流行的BT索引网站<a href="http://news.slashdot.org/story/09/12/24/1411249/IsoHunt-Guilty-of-Inducing-Infringement">被判有罪</a>。<i>
+美国加州的一家联邦法院作出了<a href="http://en.wikipedia.org/wiki/Summary_judgment">即决判决</a>（summary judgment），判决裁定加拿大BT索引网站IsoHunt侵犯了美国的版权法，犯有诱导版权侵犯(inducing copyright infringement)。IsoHunt的案件裁决与其它版权侵犯案略有不同，法院没有采用完整审判，而是直接给予了哥伦比亚电影公司要求的“即决判决”。法院指出DMCA（数字千年版权法）的安全庇护条款和诱导责任是不相容的，如果被判诱导责任，那么被告将没有资格获得安全庇护。IsoHunt可能会提起上诉，但审判结果标志着MPAA又获得了一次巨大胜利。</i>
+➜中国谴责网游导致吸毒、早孕和谋杀
+https://www.solidot.org/story?sid=15398	29760
+中国国家媒体谴责网游<a href="http://news.yahoo.com/s/pcworld/20091225/tc_pcworld/chinablamesonlinegamesfordrugsmurderteenpregnancy">导致了吸毒成瘾、少女早孕，甚至是谋杀</a>。<i>
+CCTV的焦点访谈周四在一期叫《<a href="http://space.tv.cctv.com/article/ARTI1261657146340504">一个杀人犯的自白：聚焦网络游戏的色情暴力（二）</a>》节目中指控，网络游戏中的暴力内容导致一位青少年走上了谋财害命的道路。节目称，北京市未成年犯管教所统计，在押少年犯中暴力性犯罪占到65.8%，而他们中的70%到80%都是直接或间接因网络游戏走向犯罪道路。其中一位化名叫李勤的杀人犯“亲手杀了5个人，而他走上犯罪道路就源于迷恋暴力网络游戏”。在此之前，CCTV还报道一位未成年少女因玩网游《劲舞团》而开始与他人发生性关系，并已经有了两次堕胎。但令人奇怪的是，CCTV在节目中使用的《劲舞团》画面却是来自<a href="http://news.17173.com/content/2009-12-17/20091217083118981,1.shtml">情色游戏《尾行3》</a>。</i>
+➜在软件帮助下检验校园建设
+https://www.solidot.org/story?sid=15399	32400
+BBC英伦网<a href="http://www.bbc.co.uk/ukchina/simp/uk_education/2009/12/091217_edu_ukschools.shtml">报道</a>，英国伯明翰的师生可以用“<a href="http://pressitt.com/smnr/new-interactive-online-3d-tool-enables-teachers-students-and-planners-to-test-learning-environments/705/">学习环境虚拟现实网络模拟器</a>”（The Learning Environment Virtual Reality Online Simulator, LEVROS）来了解和检验学校的硬件设施以及修缮计划。<i>
+伯明翰近期计划对82所中学进行装修或外部修缮，LEVROS将可以让学校就不同的家具摆放方案和建筑设计方案进行实验。在这个类似电脑游戏的程序中，操作者可以通过移动“游戏”中的人物在3D环境中进行体验。在程序中出现的人物甚至包括轮椅使用者，这样在虚拟世界中就可以检验学校的设施设计对于残疾学生来说是否合理。</i>
+有兴趣者可以下载测试一下（只支持<a href="http://www.archi-me.com/downloads/Levros-Beta-Windows.zip">Windows</a>和<a href="http://www.archi-me.com/downloads/Levros-Beta-Mac.zip">Mac</a>，不支持Linux），<a href="http://www.flickr.com/photos/archime/sets/72157623006037188/">截图</a>
+➜《Avatar》中的科学
+https://www.solidot.org/story?sid=15400	36480
+卡梅隆（James Cameron）历时多年精心雕琢的史上最昂贵3D作品《<a href="http://www.imdb.com/title/tt0499549/">Avatar</a>》即将在一月二日（据说推迟到了四日）登陆中国。这部电影已于上周五在北美上映，截至本周三，北美票房收入已接近<a href="http://www.boxofficemojo.com/movies/?id=avatar.htm">1.26亿美元</a>，除北美之外的全球票房已达到2.56亿美元。关于这部电影的影评已经数不胜数（如《<a href="http://cn.wsj.com/gb/20091224/trv082719.asp?source=mostpopular">华尔街日报</a>》），但有一方面内容却很少有人评价，那就是<a href="http://science.slashdot.org/story/09/12/24/1334212/The-Science-of-Avatar">电影中的科学</a>。
+<i>
+一位天文学教授、参与搜索地外文明计划的科学家在看完电影后写了一篇《<a href="http://www.aintitcool.com/node/43440">Avatar中的科学</a>》，他称赞卡梅隆是少数精通如何利用科学提升电影制作技巧的导演。多数科幻电影中的外星球都极其类似于地球，重力、空气、压力都与地球相差无几，外星世界的多样性甚至还远远不如太阳系内千奇百怪的行星地貌。而《Avatar》中的“潘多拉”(Pandora)则让人目瞪口呆，它与地球完全不同。卡梅隆创建了一整套外星生态系统，从盖娅假说中获取灵感，让整个生物圈变成一个活的整体，并组合成一个网络。这是纯科幻，而不是太空歌剧。作者抱怨，如果潘多拉是盖娅，Na’vi人的联网能力以及信息下载和分享能力，应该使得他们在技术不会亚于人类（人类技术发展的最大障碍是信息的分享和保存），甚至会远远走在人类之前。作者认为电影中的另一大问题是，潘多拉上的生物进化不可能与地球和人类相似，Na’vi人的DNA不可能与人类的DNA混合，当然此问题很多人已指出。作者认为生态系统可以评为A，但生物太像地球只能打上C，总体评分为B。<br>
+潘多拉是一颗巨大的气态行星Polyphemus的卫星，它们的母星是半人马座阿尔法星A，是距离太阳最近的恒星系之一（4.37光年），可能将是人类探索的首批星系。半人马座阿尔法星A的质量是太阳的1.1倍， 半人马座阿尔法星B是太阳质量的0.9倍，两颗恒星最近距离为11个天文单位。卡梅隆挑选的这一恒星行星系统可评为A+。
+</i>
+➜得克萨斯一个县将在Twitter上公开酒后驾驶的司机名字
+https://www.solidot.org/story?sid=15401	38880
+美国得克萨斯州蒙哥马利县决定在圣诞节和新年之间，<a href="http://www.networkworld.com/news/2009/122409-texas-county-to-name-drunk.html">在Twitter上公布被控酒后驾驶的司机的名字</a>。<i>
+该县的车辆犯罪检察官Warren Diepraam提出的这一设想，是为了防止居民在假日因醉酒而发生悲剧。他说，这不是魔术弹，而只是让居民三思而后行。有律师在博客发帖表示<a href="http://kennedy-law.blogspot.com/2009/12/drink-drive-tweet.html">反对</a>，称警方逮捕的人在被判有罪之前仍然是清白的，如果被控酒后驾驶的人无罪释放，那么检察官是否要为此而公开道歉？</i>
+➜alexa无法访问
+https://www.solidot.org/story?sid=15402	40680
+stranger 写道<i> "互联网上确定一个网站的排名主要依据，<a href="http://www.alexa.com/">alexa</a>，无法访问。<a href="http://www.google.com/search?hl=en&amp;tbs=mbl%3A1&amp;q=alexa&amp;lr=lang_zh-CN">这些</a>是最新看法。"</i>
+➜英国学生使用代理服务器绕过学校防火墙
+https://www.solidot.org/story?sid=15403	41400
+代理服务器听起来好像只有Geek才知道的东西，但BBC发现一所中学一个班级中的几乎所有学生都听说过它。<i>
+越来越多的学生正利用代理服务器，绕过学校设置的防火墙，<a href="http://news.bbc.co.uk/newsbeat/hi/technology/newsid_10000000/newsid_10003500/10003579.stm">畅通无阻的访问被屏蔽的网站如在线游戏和社交网站</a>。学校反对学生使用代理服务器，它与学生玩起了猫与老鼠的游戏，学校采取行动屏蔽学生使用的代理服务器，但却有更多的代理服务器冒出来。M86 Security公司的监测显示，在2006年它只追踪到7,111个代理服务器，但2009年这个数字上升到了91,490个。安全专家对此表示担忧，他们说一些在线代理服务器网站带有病毒，恶意程序和木马，会让学生面临安全风险。</i>

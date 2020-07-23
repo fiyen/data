@@ -1,0 +1,79 @@
+➜高考压力足以让考生崩溃
+https://www.solidot.org/story?sid=18319	5520
+《独立报》<a href="http://www.independent.co.uk/opinion/commentators/richard-garner-pressure-is-intense-ndash-but-system-is-not-unique-to-china-1994954.html">报道</a>了“静得可以听到针掉下来”的高考。<a href="http://www.bbc.co.uk/zhongwen/simp/uk/2010/06/100609_press_review.shtml">报道称</a>，中国考生在高考中所承受的压力足以让英国或者世界上任何其他地方的孩子崩溃。如果在这场考试中失败，意味着将在中国社会里失去一个安全的位置。今年参加高考的人数有957万，比去年少65万，连续第二年下降，2008年参加高考的人数达到了创纪录的1053万。人数减少是因为更多的父母将子女送到国外学习，数据显示2009年到国外学习的人数大约有22万。<i>
+《独立报》同时发表了教育事务编辑Richard Garner的<a href="http://www.independent.co.uk/opinion/commentators/richard-garner-pressure-is-intense-ndash-but-system-is-not-unique-to-china-1994954.html">文章说</a>，中国不是世界上唯一实行全国性大学入门考试制度的国家，爱尔兰、日本和韩国等国都在某种程度上存在着类似的全国统考。但还有一些国家进入大学门槛的方法很简单，比如多数美国大学是依靠SAT测试，它的功能类似于一种智力测试。芬兰的大学录取更特别，它没有任何入学考试，而是通过职业咨询的方式，帮助年轻人对自己未来作出更为现实的规划。</i>
+➜Google要求美欧在网络审查上对中国施压
+https://www.solidot.org/story?sid=18320	6960
+美联社<a href="http://finance.yahoo.com/news/Google-asks-US-EU-to-press-apf-864066519.html?x=0&amp;.v=2">报道</a>（BBC的<a href="http://www.bbc.co.uk/zhongwen/simp/china/2010/06/100610_china_google.shtml">报道</a>），搜索巨人Google的首席律师David Drummond周三要求美国和欧洲政府对中国施压停止网络审查，声称审查是一种不公平的贸易壁垒。<i>
+Drummond表示，西方国家应以捍卫实物贸易的同等规则捍卫信息贸易自由。有通过政府间的交涉才能迫使中国作出改变。他说，中国的互联网审查制度不仅仅是人权问题，同时也被用于保证国际公司在中国市场处于劣势，“互联网业对西方非常重要应该是很显然的事情，因此我们应该努力保证这种贸易得到保护。”</i>
+➜Solidot的favicon不是一个真正的favicon
+https://www.solidot.org/story?sid=18321	7560
+Solidot<a href="__SLASHLINK__" sect="mainpage" sid="09/08/23/0244238" sn="article" tid="59">曾经改过favicon</a>，<a href="__SLASHLINK__" sect="ask" sid="09/08/24/185203" sn="article" tid="59">并在专文中讨论过</a>。很遗憾，讨论的结果是创建了一个非标准的<a href="http://bbs.operachina.com/viewtopic.php?f=30&amp;t=78955">win7下jumplist图标错误的</a> <a href="http://www.solidot.org/favicon.ico">favicon</a>。我建议solidot用<a href="http://www.favicon.cc/">favicon.ico Generator</a>创建一个和<a href="http://www.google.com/favicon.ico">Google</a>和<a href="http://en.wikipedia.org/favicon.ico">Wikipedia (en)</a>的favicon一样标准的、兼容的favicon。(如果参考一下<a href="__SLASHLINK__" cid="47691" sect="ask" sid="14327" sn="comments" tid="59">我的作品</a>更好)
+➜11.4万iPad用户信息遭泄露
+https://www.solidot.org/story?sid=18322	8880
+<a href="http://www.hi2020.com/">书评影评</a> 写道 "据moneyblog<a href="http://personalmoneystore.com/moneyblog/2010/06/09/ipad-email-leak-icc-id/">报道</a>，苹果发生安全<a href="http://apple.slashdot.org/story/10/06/10/0021228/ATT-Leaks-Emails-Addresses-of-114000-iPad-Users">泄露事件</a>，影响11.4万iPad用户，其中包括很多公司CEO、军方高官和白宫政治家。在垃圾邮件和恶意黑客面前，iPad和所有其他无线平板电脑买家可能变得相当脆弱。
+<i>
+本次泄露事件就发生在苹果员工在一家酒吧丢失iPhone原型的数周之后，它泄露了iPad 3G最早期买家的邮件列表，包括金融界、政界和传媒界数千个大佬级人物，从纽约时代周刊CEO珍妮特•罗宾逊（Janet Robinson）到ABC新闻主播黛安•索耶（Diane Sawyer），到电影大亨哈维•温斯坦（Harvey Weinstein），再到纽约市市长迈克尔•彭博（Michael Bloomberg）。甚至连白宫参谋长伊•曼纽尔（Rahm Emanuel）的信息也被曝光。
+</i>
+互联网安全小组发布的数据显示，AT&amp;T的手机网络存在安全漏洞。理论上，全美国的iPad 3G用户的隐私信息都可能被泄露，但目前已确认有11.4万用户账户被此次泄漏事件牵连。"
+➜LLDB调试器项目宣布
+https://www.solidot.org/story?sid=18323	9720
+LLVM<a href="http://lwn.net/Articles/391466/">宣布</a>了新的<a href="http://lldb.llvm.org/">LLDB调试器</a>（LLDB debugger）项目。<i>
+虽然尚处于早期发展阶段，LLDB现在能完成Mac上基本的命令行调试任务，很好的支持多线程调试。在调试大程序方面，LLDB的速度要远快于<a href="http://www.gnu.org/software/gdb/">GDB</a>（GNU Project debugger）。LLDB承诺将提供更好的用户体验，尤其是对于C++程序员。LLDB的代码在类BSD许可证LLVM License下发布。</i>
+➜Office for Mac 2011将只有32位版
+https://www.solidot.org/story?sid=18324	11700
+微软的Macintosh业务部门<a href="http://www.officeformac.com/blog/Office-for-Mac-Drinking-Cocoa-at-WWDC">宣布</a>，Office for Mac 2011将只有32位版。原因是他们专注于改进Office for Windows和Office for Mac之间的兼容性，没有完成从Carbon到Cocoa的过渡，而Carbon只有32位版。软件巨人表示他们没有选择。微软需要转变到Cocoa才能编译64位版的Office，而苹果则没计划提供64位版的Carbon。
+➜Mark Zuckerberg改变世界的方式
+https://www.solidot.org/story?sid=18325	18000
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道<i> "《纽约时报》记者David Kirkpatrick的新书<a href="http://www.amazon.com/Facebook-Effect-Inside-Company-Connecting/dp/1439102112">The Facebook Effect</a>从一个<a href="http://newsfeed.time.com/2010/06/08/facebooks-mark-zuckerberg-in-it-to-change-the-world/">复杂的视角将Facebook的创始人</a>展现给读者。经过数次的交流和长期深入的对社区网络的研究，Kirkpatrick的结论是金钱并不是<a href="http://en.wikipedia.org/wiki/Mark_Zuckerberg">Zuckerberg</a>的原始动机。"Coder的本性大于CEO，哲学家的特质更胜于商人，一位26岁的年轻人坚持不卖掉<a href="http://www.facebook.com/">facebook</a>因为他认为facebook是他改变世界的一种方式。"Kirkpatrick灵活的处理者对于facebook有些时候关于用户隐私的公开辩论，但结果是更加的客观而非感性的看待facebook的过去、现在与未来。</i>
+Facebook、Twitter的社区网络，Youtube上的各种开放课程标志着年轻人越来越多的遵循黑客伦理来面对着周围的一切，正如<a href="http://v.youku.com/v_show/id_XMTM3NjY2MzI0.html">[道兰][NHK纪录片]IT世代-改变未来的年轻一代</a>。"
+➜是时候抛弃Windows XP了
+https://www.solidot.org/story?sid=18326	21120
+研究公司Gartner称，企业IT部门需要在微软于2014年4月终止XP支持前，<a href="http://slashdot.org/story/10/06/09/151201/Time-To-Dump-XP">尽快抛弃XP升级到其它操作系统</a>。<i>
+据估计，企业XP用户中半数仍然使用Windows XP SP2而不是SP3，而微软即将在7月13日停止支持XP SP2。从SP2升级到SP3一般不会遇到什么问题，但是从XP升级到Windows 7则需要大费周章，包括硬件和软件的兼容性，XP的应用程序可能需要全部删除和重新安装。Windows XP依然占据着全球操作系统市场56%到63%的份额，微软计划在2014年4月终止支持Windows XP SP3。一位企业开发者表示，他们的开发平台是XP，因为它很稳定。</i>
+➜69圣战走红网络，营销还是爱国？
+https://www.solidot.org/story?sid=18327	21840
+<a href="http://www.kakafile.com/">Stranger</a> 写道 "数万名网友相约在6月9日晚7时在知名论坛和网站对韩国明星团体及粉丝进行爆吧、声讨等行为。亦有业内人士猜测，这一事件是由网易魔兽或另一网游语音软件策划的一起市场营销行为。<i>
+所谓“69圣战”是指韩国明星团体SuperJunior在世博会演出时本来预定发票数千张，但最终只发票500张，从而造成大批粉丝在场外造成混乱、踩踏，甚至在混乱中有粉丝向阻止进入场馆的志愿者吐口水。随后，以“魔兽世界吧”为发源地，在天涯、猫扑等网站出现了网友组织的反对SuperJunior及粉丝的活动。
+据“69圣战”官方网站介绍介绍称：“6月9日晚7时（下午2点开始动员），我们将集结百度，猫扑，天涯，Sohu,Sina,腾讯，人人，红客联盟，黑客联盟，各大鹰派军事论坛等等中国爱国网民…一起参加战斗！！需要各种人才的加入，期待你。”而所谓的“作战”则是通过刷帖、爆吧最终导致明星官网、贴吧等不能正常访问和使用的手段。<a href="http://www.hi2020.com/article.asp?id=200">视频地址</a>  <a href="http://dzh.mop.com/default.jsp?url=http://dzh.mop.com/topic/readSub_11809691_-1_0.html">猫扑原贴</a>"</i>
+➜Google抨击苹果的iPhone广告禁令
+https://www.solidot.org/story?sid=18328	22800
+这是真实的巨人之战：Google再次因移动广告而<a href="http://apple.slashdot.org/story/10/06/10/0256222/Google-Slams-Apple-Over-iPhone-Ad-Ban">讨伐苹果</a>。<i>
+Google旗下移动广告公司AdMob在检视苹果修改后的iPhone开发者协议条件后，<a href="http://www.zdnet.com.tw/news/web/0,2000085679,20146016,00.htm">认为它是反竞争的</a>。协议规定，如果广告公司是由“苹果以外的移动设备、操作系统或开发环境的开发者或分销商所拥有，或关系企业”，就禁止与其分享广告分析数据。无疑AdMob位列禁止名单。AdMob负责人Omar Hamoui认为这是人为设立的竞争障碍。</i>
+➜研究发现暴力游戏只会影响少数人
+https://www.solidot.org/story?sid=18329	25800
+媒体常常会将暴力视频游戏渲染成洪水猛兽，视作是文明堕落和青少年道德水准下降的罪魁祸首。但最近一项研究发现，<a href="http://games.slashdot.org/story/10/06/09/0348247/Violent-Video-Games-Only-Affect-Some-People">大多数人不那么容易会在暴力游戏的潜移默化下变得暴力好斗</a>，只有少部分人会受影响。<i>
+根据发表在最新一期《普通心理学评论》杂志上的研究报告，研究人员<a href="http://www.apa.org/news/press/releases/2010/06/violent-video-games.aspx">指出</a>（<a href="http://www.apa.org/pubs/journals/releases/gpr-14-2-82.pdf">PDF</a>）游戏在今日的欧美相当流行，但儿童并没有表现出多少异常的行为。新研究发现视频游戏中的暴力只会在少数人身上留下印记，而这要根据他们的个性而定。Patrick Markey博士根据个性特质进行组合，以帮助预测哪些年轻人会受到暴力视频游戏的负面影响。他按照Five-Factor模型将个性分成：神经质、外向，仁爱心，想象力和责任感。然后对118位不同个性的青少年志愿者进行检验，他发现高神经质、缺乏责任心和想象力的人最有可能受暴力游戏影响。</i>
+➜太阳能电池发明者获“千年科技奖”
+https://www.solidot.org/story?sid=18330	30000
+新型太阳能电池的发明者获芬兰政府和企业赞助的“<a href="http://www.millenniumprize.fi/">Millennium Technology Prize</a>”，赢得了80万欧元奖金（约人民币710万元）。<i>
+赫尔辛基的“千年科技奖”颁奖委员会称，Michael Graetzel发明的“<a href="http://en.wikipedia.org/wiki/Dye-sensitized_solar_cell">色素増感型太阳能电池</a>”具有卓越的性价比，对未来能源技术作出了巨大贡献，它提供了一种低成本的、大规模应用的可更新能源方案。色素増感型太阳能电池又名Graetzel电池，利用有机色素增强光电转换效率。千年科技奖每两年颁发一次，主要颁发给对改进生活质量和人类福祉有重要影响的突破性技术。Graetzel是第四位大奖获得者，第一位是World Wide Web发明者Tim Berners-Lee爵士。</i>
+➜韩国罗老号运载火箭在起飞137秒后失去联络
+https://www.solidot.org/story?sid=18331	30720
+<a href="mailto:younglau@me.com">younglau</a> 写道 <i>"韩联社<a href="http://chinese.yonhapnews.co.kr/techscience/2010/06/10/8401000000ACK20100610005000881.HTML">报道</a>，<a href="http://zh.wikipedia.org/zh/%E7%BD%97%E8%80%81%E5%8F%B7">罗老号运载火箭</a>在当地时间下午5点01分（北京时间下午4点）发射升空后，在第55秒时突破音速，但在第137秒后于70Km上空失去了通信联络。航宇研长李柱镇在当天的记者会上，表示：“在通信断绝之前，一切数据都正常。我们会致力于找到这一人造卫星。”由于失去通信联系，基地暂时无从核实罗老号的整流罩分离、一级和2级火箭的分离等情况。此次发射是自去年去年8月25发射失败的<a href="http://www.takungpao.com/news/10/06/10/KJXZ-1270392.htm">又一次尝试</a>，原计划于9日进行，但由于发射台消防设备在发射准备过程中出现故障，发射被中止。”</i>
+➜“微软是美国国家安全的薄弱一环”
+https://www.solidot.org/story?sid=18332	33120
+“微软拥有巨大的资源，有数以十亿计的现金或流动资产储备。微软的帝国取得了难以想象的成功，但它是建立在用低质量产品统治市场的前提上。”这句话既不是乔布斯也不是Linus说的，而是出自前白宫顾问<a href="http://www.richardaclarke.net/">Richard A.Clarke</a>的新书《Cyber War: The Next Threat to National Security and What to Do About It》。<i>
+Ars Technica<a href="http://arstechnica.com/security/news/2010/06/cyber-war-microsoft-a-weak-link-in-national-security.ars">报道</a>，Clarke在书中警告网络战争对美国国家安全构成的危险远高于其它国家，而软件巨人正是其中的薄弱一环....不管是共和党当政，还是奥巴马上任，软件巨人的游说议程总是：不要对软件行业中的安全问题设限；
+不要让五角大楼停止使用微软软件，不管软件有多少漏洞或者是外包开发或者是与中国相关...一位微软内部人士承认，微软不是太关心软件安全，虽然当Apple和Linux开始对其形成真正的挑战，微软也在最近几年改进了质量...投入到游说政府上的花费相比创造一个更安全的操作系统不过是九牛一毛。</i>
+➜加州大学教员计划抵制《自然》出版集团
+https://www.solidot.org/story?sid=18333	35520
+自然出版集团（Nature Publishing Group，缩写NPG），其出版的刊物包括了著名的《自然》杂志和其它67种附属杂志，日前通知加州大学要提高杂志订阅许可费至400%，意味着从2011年开始加州大学需要每年向NPG支付超过100万美元。加州大学认为这种条件不可接受，因为它加重了本已经紧张的预算。<i>
+本周二，加州大学所有教员都收到一封<a href="http://libraries.ucsd.edu/collections/Nature_Faculty_Letter-June_2010.pdf">公开信</a>（PDF）。信中称如果NPG不愿意坐下来谈判，那么加州大学系统将在教职工的帮助下采取更激烈的对抗行动，包括取消订阅NPG出版的67种杂志，而<a href="http://science.slashdot.org/story/10/06/09/213256/Univ-of-California-Faculty-May-Boycott-Nature-Publisher">教员也将抵制NPG的出版物</a>，他们可能会拒绝向NPG杂志递交论文，拒绝审议论文，辞去编辑委员会的职责。</i>
+《自然》出版集团的<a href="http://www.nature.com/press_releases/cdl.html">回应</a>
+➜Chrome Frame进入Beta
+https://www.solidot.org/story?sid=18334	37680
+劝说IE重度用户换用其它更现代的浏览器如Firefox或Chrome，很可能是对牛弹琴；但是让他们安装插件提高浏览器性能倒行得通。<a href="http://www.osnews.com/story/23430/Chrome_Frame_Moves_Into_Beta">这就是Google推出Chrome Frame的想法</a>，通过在IE上安装Chrome的WebKit和V8引擎，让过时的浏览器改头换面，改进Web标准支持，加入HTML5支持。<i>
+现在Chrome Frame<a href="http://blog.chromium.org/2010/06/google-chrome-frame-now-in-beta.html">正式进入了beta</a>，这意味着稳定性和可靠性的改善。新版的<a href="http://www.google.com/chromeframe/">Chrome Frame</a>包含了Google Chrome 5.0的所有加强和特性，如支持HTML5音频和视频标签、canvas、geolocation、workers和databases等。Chrome Frame支持Windows XP SP2、Vista和7上的Internet Explorer 6、7和8。</i>
+➜黑客攻击韩国政府网站
+https://www.solidot.org/story?sid=18335	40560
+法新社<a href="http://www.physorg.com/news195369939.html">报道</a>，韩国政府官员周四表示，该国情报机构正在调查一起大规模的攻击政府网站事件，黑客被追踪到来自中国。<i>
+攻击始于周三晚上，共持续了三个半小时，导致<a href="http://www.korea.go.kr/service/index.do">korea.go.kr</a>网站访问极其缓慢。韩国公共管理和安全部发言人表示，黑客通过大约120个中国ISP服务器对韩国网站发动DDoS（拒绝访问攻击）攻击。发言人称他们正与情报机构和其它部门合作跟踪攻击来源。韩国情报机构去年曾指控朝鲜借道中国对美国和韩国的政府和商业网站发动攻击。韩国怀疑此事与朝鲜有关，因为两国最近正因为“天安舰”沉没事件而剑拔弩张。</i>
+昨天晚上中国网民发动了所谓的“<a href="__SLASHLINK__" sect="internet" sid="10/06/10/0555238" sn="article" tid="71">69圣战</a>”。
+➜iPhone 4分辨率超“视网膜”声明遭质疑
+https://www.solidot.org/story?sid=18336	43200
+DisplayMate Technolgies主席Raymond Soneira<a href="http://apple.slashdot.org/story/10/06/09/2130232/iPhone-4s-Retina-Display-Claims-Challenged">质疑</a>了苹果声称iPhone 4解析度超过人眼视网膜的说法，乔布斯称iPhone 4的显示器是所谓的“retina display”。<i>
+<a href="http://www.zdnet.com.tw/news/ce/0,2000085674,20146011,00.htm">Soneira解释说</a>，视网膜的分辨率是以角度为测量单位——50 Cycles Per Degree（CPD），人眼视角分辨率是每像素0.6弧分。如果你从12英寸远的距离看iPhone，每英寸约477像素；8英寸处就是716 ppi；你必须距离18英寸处看iPhone，才会降到318 ppi（iPhone 4的分辨率）。iPhone 4分辨率显然远远低于视网膜。</i>
+➜香港政府设立虚拟公墓
+https://www.solidot.org/story?sid=18337	51900
+中国传统文化里，亲朋好友每年至少需要前往墓地拜祭一次先人以示尊敬，现在他们可以<a href="http://www.physorg.com/news195369806.html">通过互联网表达缅怀之情</a>。香港特区政府环境卫生署设立一个<a href="http://www.memorial.gov.hk/default.aspx">“无尽思念”网站</a>，允许公众为逝者开设纪念网页，并可拣选主题版面设计、撰写逝者生平、上载相片及录像。公众能根据中国习俗，使用烧猪、鸡和纸币等“表情”符号。哀悼者还可以上传死去亲人最喜爱东西的特别图像，如报纸上刊登的比赛新闻或一碗可口的面条。

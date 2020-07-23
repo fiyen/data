@@ -1,0 +1,12 @@
+➜Mozilla 透露量子跃迁计划
+https://www.solidot.org/story?sid=50175	10956
+Mozilla<a href="https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12" target="_blank"><u>正式透露</u></a>它准备采用基于<a href="http://servo.org" data-href="http://servo.org" class="markup--anchor markup--p-anchor" rel="nofollow">Servo</a> 的下一代Web渲染引擎项目 <a href="http://wiki.mozilla.org/quantum" target="_blank"><u>Project Quantum</u></a>，Quantum引擎的第一个公开版本预计将在明年底发布。<i>Mozilla 的平台工程主管David Bryant称，他们计划未来几个月向所有Firefox桌面用户推送第一阶段的多进程架构Electrolysis——即分离浏览器的UI进程和Web内容进程，之后他们将转向 Project Quantum，目标是实现浏览器性能的一次“量子跃迁”，用户的浏览体验将会与今天有显著的不同，页面加载将会更快，滚动将会更流畅，动画和互动应用将会即时响应，在保持一致帧速的同时处理更多密集内容。Bryant称，以前的渲染引擎是为单核处理器设计的，而今天多核处理器已经普及，而Web也从过去的简单静态页面进化成富文本的交互应用。我们需要新的Web平台能满负荷利用设备的功能。 Project Quantum将从现有的 Gecko引擎开始，逐步替换其主要引擎组件，逐渐整合更多来自Servo引擎项目的组件。Servo是用Rust语言开发的实验性引擎项目，而Quantum引擎项目的很大一部分组件也将用Rust开发。</i>
+➜Google AI 发明了自己的加密算法
+https://www.solidot.org/story?sid=50176	51677
+Google Brain团队<a href="http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/" target="_blank"><u>创造了两个A</u></a>I，为防止第三个AI的监听它们发明了自己的加密算法。<a href="https://arxiv.org/pdf/1610.06918v1.pdf" target="_blank"><u>研究论文（PDF）</u></a>发表在预印本网站上。被称为 Alice、Bob和Eve的三个神经网络给予了三个特定目标：Alice必须安全的向Bob发送信息，而Bob必须尝试着解密信息，Eve则必须试图监听和破解信息。Alice和Bob相对于Eve的一个优势是它们共享了一个密钥。但最重要是AI并没有被告知如何加密，它们必须靠自己从头开始摸索。除了Alice和Bob共享密钥外，三个AI都是独立的。结果显示，在有些回合Alice和Bob完全失败了，Bob没能够重组出Alice的信息；大部分时间，Alice和Bob设法发展出一套很少犯错的系统，而且它们还能根据Eve的反应改进加密技术。研究人员称，神经网络能学习如何保护它们的通信，只要告诉Alice将保密性置于一切之上。
+➜Zcash正式发布
+https://www.solidot.org/story?sid=50177	52782
+基于区块链技术的替代数字货币Zcash<a href="https://z.cash/blog/zcash-begins.html" target="_blank"><u>正式发布</u></a>，开发者表示，如果说比特币是HTTP，那么Zcash就是HTTPS，Zcash利用加密隐藏用户的身份，它自称是第一种<a href="http://www.solidot.org/story?sid=50134" target="_blank"><u>真正匿名</u></a>的数字货币。Zcash的<a href="https://github.com/zcash/zcash" target="_blank"><u>源代码</u></a>发布在Github上，采用MIT许可证，目前客户端<a href="https://github.com/zcash/zcash/wiki/Beta-Guide" target="_blank"><u>只支持Linux</u></a>，运行Zcash的计算机需要4GB内存和数GB的可用空间，Zcash的整合交易历史也就是区块链将会下载到计算机中。ZCash利用了名叫零知识证明的技术验证交易的真实性，知名密码学专家Matthew Green参与了其设计。
+➜Linux桌面市场份额连续三个月超过2%
+https://www.solidot.org/story?sid=50178	56528
+根据 Net Market Share 的数据，Linux 的桌面市场份额连续三个月<a href="http://www.omgubuntu.co.uk/2016/10/linux-marketshare-2-percent-3rd-month-row" target="_blank"><u>超过了2%</u></a>。自今年7月 Linux 桌面市场份额首次突破2%后，到今年9月 Linux 份额达到了2.33%，连续三个月在2%以上。Linux 统治了移动市场，而在桌面市场，它也呈现出了缓慢的上升趋势。当然微软的 Windows 在桌面市场仍然处于难以动摇的位置，虽然它在移动市场彻底输了。

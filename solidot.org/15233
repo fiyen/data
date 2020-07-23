@@ -1,0 +1,75 @@
+➜Windows Live支持XMPP协议
+https://www.solidot.org/story?sid=26019	3600
+微软在BUILD会议上<a href="http://www.liveside.net/2011/09/14/messenger-connect-is-now-live-connect-new-apis-for-skydrive-and-hotmail-calendar/">宣布</a>Windows Live Messenger将支持开放标准网络即时消息协议<a href="http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol">XMPP</a>。Google Talk、Facebook聊天服务和IBM Lotus Sametime都等支持XMPP。微软表示，Windows Live Messenger将提供XMPP接口，允许用户将Messenger整合到基于Web、桌面和移动IM产品中。
+➜Google+ API发布
+https://www.solidot.org/story?sid=26020	5040
+开发者终于等来了期待已久的Google+ API。Google正式<a href="http://googleplusplatform.blogspot.com/2011/09/getting-started-on-google-api.html">发布了</a>允许读取用户公开信息的<a href="http://developers.google.com/+/api/">API</a>，开发者可以借助API开发与Google+交互的应用程序，或将其整合到网站上。Google社交网站发布2个月来，经历了用户暴涨，但也出现了<a href="__SLASHLINK__" sect="it" sid="11/08/31/1352247" sn="article" tid="26">热度下降</a>。Google+ API的发布也许能给予它<a href="http://developers.slashdot.org/story/11/09/15/1919208/The-Google-API-Is-Released">一个新动力</a>。
+➜伊朗屏蔽Tor，Tor发布更新
+https://www.solidot.org/story?sid=26021	6840
+Tor项目官方博客<a href="https://blog.torproject.org/blog/iran-blocks-tor-tor-releases-same-day-fix">报导</a>，当地时间13日晚上，伊朗政府在其边界路由器中加入了新的过滤规则，能识别和屏蔽Tor流量。伊朗的Tor用户因此无法连上Tor中继和网桥。Tor立即采取行动更新了程序，发布了新版<a href="Tor0.2.3.4-alpha">Tor 0.2.3.4-alpha</a>，绕过过滤。它表示只要有足够的中继和网桥用户升级，伊朗的用户将能再次连上Tor。它在博客上解释了过滤规则如何工作：<i>
+Tor试图让流量看起来像是浏览器与HTTPS服务器之间的会话，但如果仔细检查还是能发现差别，其中一种显著特征是Tor的SSL握手。Tor每2小时会循环（rotate）其SSL会话证书，而网站从CA获得的SSL证书一般要一两年才会更新一次。新的修正就是让Tor的SSL证书过期时间能以假乱真。
+</i>
+➜首次发现行星围绕两颗恒星运动
+https://www.solidot.org/story?sid=26022	9360
+在电影《星球大战》中，<a href="http://zh.wikipedia.org/wiki/%E5%A1%94%E5%9B%BE%E5%9B%A0">塔图因</a>是天行者卢克的家乡，它是一颗围绕着一个双星系统运动的行星。现在，天文学家<a href="http://news.sciencemag.org/sciencenow/2011/09/video-two-suns-set-on-alien-world.html">发现了真实版的塔图因</a>(模拟视频)。<i>
+双星系统中发现行星并不罕见，但多是围绕其中一颗恒星运动。而新发现的系外行星是围绕两颗恒星运动。天文学家利用开普勒太空望远镜发现了一个双星系统Kepler-16及其行星Kepler-16b。双星距离地球200光年，其大小分别为太阳的三分之二和九分之二，平均距离2100万英里，彼此飞行一周时间是41天。Kepler-16b为土星大小，表面温度-70到-100摄氏度，绕两颗恒星运动一周时间是221天。恒星和行星都位于同一平面上，表明它们都来源相同的气体和星尘团。<a href="http://www.sciencemag.org/cgi/content/abstract/333/6049/1602">报告</a>发表在《科学》杂志上。
+</i>
+➜经济学家张维迎批评发改委和五年计划
+https://www.solidot.org/story?sid=26023	10560
+北京大学教授张维迎在大连举行的夏季达沃斯论坛上<a href="http://nf.nfdaily.cn/nfdsb/content/2011-09/16/content_29982777.htm">声称</a>，过去60年的经验来看，规划或计划从未成功过。“计划就是一大批聪明人干了件傻事”。他指出，“扩大内需是一个错误的概念。”扩大内需，经常会倒向货币政策、财政政策，以为用刺激性的手段可以把中国经济发展起来。但中国经济真正发展需要开放市场，靠企业家精神。“这是政府给不了的”。当发改委对中国经济发号施令时，这些就不可能出现。张维迎认为，简而言之，就是中国需要改革。他直言<a href="http://cn.wsj.com/gb/20110916/rec102959.asp">发改委的权力太大了</a>。
+➜软件自由日2011
+https://www.solidot.org/story?sid=26024	15840
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "又到了一年一度的软件自由日，2011年度的自由软件日将有超过1000个组办团队在100多个国家举办庆祝活动，国内的Linux用户组将在<a href="http://www.clubbeautiful.com/">北京(BLUG)</a>，<a href="http://wiki.szlug.org/w/%E9%A6%96%E9%A1%B5">深圳(SZLUG)</a>，<a href="http://cdlug.org/">成都(CDLUG)</a>，<a href="http://wiki.linux.org.hk/w/HKLUG:Mainpage">香港(HKLUG)</a>，<a href="http://www.gzlug.org/">广州(GZLUG)</a>，<a href="http://www.chongqinglug.org/tiki-index.php">重庆(CQLUG)</a>等超过20个城市举办庆祝活动，各地的庆祝活动主要是以宣传自由软件文化和历史相关的题目为主，也有一些技术相关话题。<i>
+Software Freedom Day(软件自由日)是2004年开始的，时间定在每年9月的第三个礼拜六，其目的主要是为了增加公众对自由开源软件的哲学，文化，商业，技术，教育等多方面的了解，2004年刚开始的时候全球只有70个团队参与，主要都在欧洲和北美，现在<a href="http://softwarefreedomday.org/map/index.php?year=2011">从地图分布来看</a>，超过1000个团队中亚洲和拉丁美洲占了相当的比例。"
+</i>
+<a href="http://www.hellogcc.org/">tea_water</a> 写道 "2011年9月24日， 我们将来迎来2011年<a href="http://linux.chinaunix.net/hellogcc2011/">HelloGcc WorkShop</a>，这已经是ChinaUnix社区第二次和HelloGcc工作组合作，在国内为推广GNU Gcc等相关技术交流而举办该项活动。           今年我们继续选择北京中科院研究生院中关村教学楼作为我们的沙龙地点，欢迎大家积极参加！<br> <br>【活动简介】<br>
+&nbsp; &nbsp; &nbsp; &nbsp; HelloGcc工作组于2007年，由自由软件爱好者成立，旨在营造一个自由，开放，共享的技术社区，讨论和学习GNU底层系统工具，包括GCC，GDB，BINUTILS等。我们每年都会举办一次这样的技术讨论会，希望通过自由，开放，共享的方式来增进大家相互的交流。<br> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; 如果你有什么问题，可以发送邮件到：hellogcc.workgroup@gmail.com，或在ChinaUnix论坛的CPU与编译器板块发帖讨论相关活动事项！<br> <br>【时间日程】<br> <br>2011年9月24日（周六）下午<br>13:25 – 13:30——致谢、宣传<br>13:30 – 14:10——话题1＋提问<br>14:10 – 14:50——话题2＋提问<br>14:50 – 15:30——话题3＋提问<br>15:30 – 15:50——休息&amp;自由讨论，抽奖环节<br>15:50 – 16:30——话题4＋提问<br>16:30 – 17:10——话题5＋提问<br>17:10 – 17:30——抽奖环节，合影<br> <br>【演讲主题】<br> <br>1、Introduction to GCC Backend<br> <br>演讲者：刘佳<br> <br>拿一个简单而具体的例子介绍了GCC的工作流程，尤其GCC后端的工作流程。主要介绍了gcc是怎么处理rtl模版从而生成代码的。最后通过LLVM的后端对比一下异同。<br> <br>2、GNU Tools for ARM Embedded Processors<br> <br>演讲者：叶锦云<br> <br>简介： 作为维护和改进GCC上ARM架构的工作的一部分，ARM将维护一个GCC工具链的分支，特别针对嵌入式内核，如ARM Cortex-R/Cortex-M系列。此外，ARM将定期的从这个分支上构建、测试并发布二进制包。发布的包可以任意的整合到工具链中，或直接使用。这个话题将主要介绍ARM建议的工作模式和计划改进GCC的要点。您将了解到更多关于GCC在嵌入式方面的应用及挑战。并期待听到您独特的见解。<br> <br>3、多核时代更快断点 -- Displaced stepping以及对Thumb-2指令集的实现<br> <br>演讲者：齐尧<br> <br>简介： 多核处理器逐渐成为主流，一些传统的调试技术无法适应新的编程方式（比如多线程编程）。如何实现一种对多线程程序更加快速的断点机制进入的调试器开发人员的视野，而displaced stepping也就应运而生。本文介绍了displaced stepping的工作原理和实现方式。结合ARM Thumb-2指令集，讲述了如何为一种新的指令支持displaced stepping。同时还介绍了基于displaced stepping的GDB non-stop工作模式。最后，会对今后的多线程调试或者多核处理器调试做一个展望。本文会帮助读者理解displaced stepping的机制和移植工作，也为读者从GDB的内部剖析了non-stop工作模式。<br> <br>4、TCG与LLVM生成二进制代码性能分析<br> <br>演讲者：徐国伟<br> <br>简介： 现在很多模拟器采用了LLVM作为二进制翻译的后端，相对于解释执行的模式，得到了巨大的性能提升，而且由于LLVM的多平台性，通用性可以做的很好。本文基于Skyeye和Qemu两种模拟器，给出了Benchmark程序在用户态模拟下的TCG和LLVM生成的宿主机代码与x86本地编译的代码性能对比。<br> <br>5、走进GCC插件时代<br> <br>演讲者：邢明杰<br> <br>简介：GCC从4.5开始支持插件，使得开发者可以使用插件技术来扩展编译器功能，一时间也出现了一些第三方插件。插件技术的引入，是否意味着GCC又进入了一个新的时代，它又会带来哪些问题？本话题介绍了GCC插件技术的原理，实现，以及现有一些第三方插件；同时，也和大家分享一些插件技术背后的故事。<br> <br>【参会礼品】<br> <br>所有已经注册参会的网友，均有机会在现场的抽奖活动中得到ChinaUnix商务衬衫和ARM公司赞助的平板电脑！ 以及图灵教育赞助的报名及参会的部分礼品图书！<br> <br>ARM公司赞助nova8平板电脑<br> <br>ChinaUnix纪念衬衫<br> <br>　<br>【活动地点】<br> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; 中科院研究生院中关村教学楼 S302<br> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; HelloGcc Workshop 2011会务组真诚地欢迎您的光临和参与！衷心祝愿您能够在本次大会上有所收获！如果您还有其他问题，可以通过以下方式联系到我们:<br> <br>电话：010-59857760；邮件：rmzhoustaff.chinaunix.net"
+➜研究称宝石迷阵能改进老年人的认知能力
+https://www.solidot.org/story?sid=26025	17280
+休闲游戏开发商PopCap与马萨诸塞大学阿默斯特分校的心理学研究员Susan K.Whitbourne博士合作调查了年老和年轻玩家的习惯。<i>
+调查发现，PopCap的《<a href="http://www.popcap.com/blitz_frame.php">宝石迷阵之闪电战(Bejeweled Blitz)</a>》能<a href="http://www.industrygamers.com/news/bejeweled-blitz-could-be-a-cognitive-training-tool-for-adults-50/">作为老年人的认知训练工具</a>。在固定玩《宝石迷阵》的玩家群中，47%的50岁以上成年人报告在执行其它任何事头脑更清晰了；24%的65岁以上成年人报告他们的模式识别能力改进了。Whitbourne博士打算进一步研究游戏对老年人的价值。</i>
+➜索尼PS Vita掌机需玩家自购专有存储卡，游戏时间不到五小时
+https://www.solidot.org/story?sid=26026	18000
+索尼下一代掌机PS Vita将于12月17日在日本上市，有26款大作将同期上市。除了未公布在其它地区上市的日期外，索尼披露了一些了让玩家大失所望的消息：PS Vita没有内置存储卡，玩家如果想玩可下载游戏，或欣赏下载的电影和音乐，<a href="http://arstechnica.com/gaming/news/2011/09/sony-saddles-vita-with-expensive-proprietary-memory-and-short-battery-life.ars">你必须购买索尼专有格式的存储卡</a>。其价格为：4GB卡29美元、8GB 42美元，16GB 71美元，32GB 124美元。此外，新掌机的电池续航力与任天堂的3DS掌机差不多：游戏3-5小时，视频5小时，音乐9小时。
+➜发现专门针对中国PC用户的BIOS病毒
+https://www.solidot.org/story?sid=26027	21240
+本月初，360<a href="http://bbs.360.cn/4005462/251096134.html">报告</a>发现了针对Award BIOS的“BMW病毒（又名Mebromi病毒）”，它能连环感染BIOS（主板芯片程序）、MBR（硬盘主引导区）和Windows系统文件。360称病毒是通过捆绑游戏外挂传播的。<i>
+<a href="http://it.slashdot.org/story/11/09/14/1621230/New-BIOS-Exploiting-Rootkit-Discovered">病毒针对的是中国电脑用户</a>，在感染前它会检查系统是否运行瑞星和江民杀毒软件。当电脑被感染后，它会向系统释放五个加密文件：hook.rom、flash.dll、cbrom.exe、my.sys和bios.sys。通过bios.sys，它会检查电脑是否使用Award BIOS。如果是，它会保存现有的BIOS到c:\bios.bin，然后检查有没有被感染。如果文件中存在hook.rom，它会认为BIOS已被感染；如果没有，它会尝试刷BIOS，在bios.bin中加入hook.rom。在系统启动时，BIOS会自动调用hook.rom，检查MBR是否被感染...该病毒针对Award BIOS的原因可能是因为几年前安全研究人员曾经演示了Award BIOS的漏洞。</i>
+➜openSUSE解释版本号变化
+https://www.solidot.org/story?sid=26028	23040
+2011年度<a href="http://conference.opensuse.org/">在德国纽伦堡举行</a>，令外界有机会了解Attachmate收购Novell后 <a href="http://www.h-online.com/open/features/Fresh-wind-for-openSUSE-1343874.html">openSUSE的新面貌</a>。<i>
+openSUSE开发者正在加紧开发openSUSE 12.1，计划于九月份发布beta版，11月11日发布正式版。对于版本号的变化，外界一直不了解为什么开发者选择跳过原计划的12.0，而直接从11.4跳到12.1。此前，openSUSE讨论过<a href="__SLASHLINK__" sect="linux" sid="11/03/14/1019216" sn="article" tid="103">改变命名方式</a>，探讨过Ubuntu的按发布月份命名和Fedora的序列编号命名，最终决定继续采用原来的版本命名方案。然而，开发者决定略过“零版本号”，因为“零”通常代表着重大更新，终端用户的期望会因而涨高，但openSUSE的开发者从未将零版本当成大更新。openSUSE项目经理Andreas Jaeger称，他们决定以后不发布“零版本号”，计划于2013年11月发布的版本将被称为13.1，而不是13.0。openSUSE 12.1的主要特性是：Gnome 3（不再提供Gnome 2），支持Btrfs文件系统等。
+</i>
+➜独立游戏开发商将其游戏上传到海盗湾
+https://www.solidot.org/story?sid=26029	24840
+独立游戏开发商<a href="http://tinybuildgames.com/">TinyBuild Games</a>将其刚刚完成的游戏<a href="https://thepiratebay.org/torrent/6617784/No_Time_To_Explain_Windows_tinyBuildGAMES">No Time To Explain</a>上传到了海盗湾(22.24 MiB)。<i>
+然而，海盗版和正式版还是有重大区别的：海盗版中的游戏角色戴着海盗帽子，整个游戏也是以海盗为主题。TinyBuild联合创始人Alex Nichiporchik说，总有些人喜欢在BT网站上下游戏，因此他们决定让盗版的版本更有乐趣。他指出盗版是不可能被阻止的，你所能做的是让盗版变为好事，让盗版用户愿意付费购买游戏。</i>
+➜七成被调查者称物价过高
+https://www.solidot.org/story?sid=26030	25200
+中国人民银行发布了《<a href="http://www.pbc.gov.cn/image_public/UserFiles/goutongjiaoliu/upload/File/2011%E5%B9%B4%E7%AC%AC3%E5%AD%A3%E5%BA%A6%E5%82%A8%E6%88%B7%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf">第3 季度储户问卷调查报告</a>》(PDF)，调查了50个城市2万户城镇储户。72%的人认为<a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/09/110916_china_prices.shtml">目前物价过高</a>，“难以接受”；75.6%的人认为目前的房价仍然“过高，难以接受”。但同时，房地产投资是城镇居民首选的投资方式。中国去年以来连续出台政策给房地产市场降温，但目前看来效果仍不明显。调查还显示，在当前物价、利率和收入水平下，82.8%的城镇居民更倾向于储蓄，其中39.7%偏好“投资债券、股票和基金”等变相储蓄，43.1%偏好“储蓄存款”。
+➜瑞银违规交易员导致损失20亿美元
+https://www.solidot.org/story?sid=26031	27120
+路透社<a href="http://www.reuters.com/article/2011/09/15/us-ubs-idUSTRE78E15I20110915">报导</a>(<a href="http://cn.reuters.com/article/CNAnalysesNews/idCNCHINA-4924720110916?sp=true">中文</a>)，瑞银集团宣布现年31岁的Kweku Adoboli进行
+违规交易，致使该行亏损约20亿美元。Adoboli因涉嫌欺诈在瑞银伦敦办公室被捕。<i>
+Adoboli担任上市交易基金(ETF)和Delta 1产品交易部门主管，他毕业于诺丁汉大学计算机科学与管理专业，所租公寓每周租金1,000英镑。瑞银在声明中称它目前估计交易损失约为20亿美元。2008年，法国兴业银行交易员Jerome Kerviel的违规交易亏损高达67亿美元。他们都从事所谓的Delta 1金融衍生品交易。该衍生品紧密追踪标的证券走势，让持有者可以很轻易地建立多种资产类别敞口。这一事件再次引发了高风险金融交易方面的<a href="http://news.slashdot.org/story/11/09/15/1629228/UBS-Rogue-Trader-Loses-2-Billion-In-Unauthorized-Trades">质疑</a>。</i>
+➜索尼新PSN服务条款要求用户放弃集体起诉权利
+https://www.solidot.org/story?sid=26032	28200
+索尼网络娱乐美国公司向PSN用户发去邮件，通知服务和用户协议的变更。根据新服务协议<a href="http://www.sonyentertainmentnetwork.com/SEN-legal-docs/TERMS_OF_SERVICE_AGREEMENT-EN.pdf">第15条款</a>(PDF)，如果用户同意该协议将意味着<a href="http://games.slashdot.org/story/11/09/15/1542247/New-Sony-PSN-ToS-Class-Action-Waiver-Included">自动放弃集体诉讼索尼的权利</a>。索尼也给予了用户退出的权利：在30天内书面通知索尼美国，放弃仲裁但保留集体诉讼权利。今年4月，索尼PSN网络遭黑客攻击，7700万用户信息泄露，它因此而面临客户的集体诉讼。
+➜野生鹦鹉跟逃脱的宠物鹦鹉学话
+https://www.solidot.org/story?sid=26033	31500
+注意教鹦鹉说话的内容。一些逃到野外的宠物鹦鹉会教野生鹦鹉说话，甚至此能力<a href="http://www.australiangeographic.com.au/journal/Parrots-and-other-wild-birds-able-to-talk.htm">还能传给后代</a>。<i>
+鸟类学家称，鹦鹉会互相模仿，如果一群鸟中有只鸟学会了一个单词，其它鸟也会很快学会。如果父母会说话，他们的后代也会学会说某些话。这种现象并非鹦鹉独有，澳大利亚南部的琴鸟仍然重复它们祖先曾经熟悉的声音，如斧头和旧式盒式照相机的声音。鹦鹉最常说的话是“Hello cockie”以及许多四字粗口。</i>
+➜NASA宣布新重型火箭发射系统
+https://www.solidot.org/story?sid=26034	35280
+NASA<a href="http://www.nasa.gov/exploration/systems/sls/sls1.html">公布了</a>为深空探索计划设计的重型运载火箭设计方案“<a href="http://zh.wikipedia.org/wiki/%E5%A4%AA%E7%A9%BA%E7%99%BC%E5%B0%84%E7%B3%BB%E7%B5%B1">太空发射系统（Space Launch System）</a>”，结合了航天飞机的<a href="http://en.wikipedia.org/wiki/Space_Shuttle_main_engine">改进版主引擎RS-25D/E</a>和阿波罗计划土星5号运载火箭的<a href="http://en.wikipedia.org/wiki/J-2_(rocket_engine)">J-2引擎改进版J-2X</a>，初期运载负荷为70吨，然后逐步提升到77吨、130吨和143吨，首次发射计划在2017年末进行。未来十年计划执行两次飞行任务，总花费预计将达到300亿美元（一说是180亿美元）。<i>
+NASA重复利用航天飞机的技术并不出人意料，因为去年白宫和国会一致同意NASA应该结合新旧技术。新的太空发射系统使用液态氢和液态氧的推进系统，有一个巨大的燃料箱和两个助推火箭，运送已取消的星座计划中的猎户座乘员舱，发射第一阶段使用RS-25D/E引擎，上升阶段使用J-2X引擎。<a href="http://science.slashdot.org/story/11/09/14/1518255/NASA-Unveils-Design-for-New-Space-Launch-System">有人认为</a>，美国是花数百亿美元去复刻1969年登月计划使用的土星5号，土星5号的运载能力超过100吨。 </i>
+➜松下迷你机器人将参加铁人三项
+https://www.solidot.org/story?sid=26035	38520
+松下公司将派遣3个不同的迷你机器人Evolta<a href="http://www.itworld.com/personal-tech/203777/robot-triathlete-challenges-human-dominance-ironman-course">参加</a>夏威夷举行的铁人三项比赛。机器人将在230公里的路程上完成自行车、游泳和跑步三个项目比赛。去年男子组的冠军花了8小时10分37秒，松下工程师称，Evolta的身高只有成人的十分之一，因此他们预计它们完成整个路程的时间也要多上十倍。松下计划用一周或168小时时间完成整个路程。
+<a href="http://www.youtube.com/watch?v=N7iziy3k0v8&amp;feature=player_embedded">视频</a>（YouTube）
+➜Google将宗教组织移除出非营利组织名单
+https://www.solidot.org/story?sid=26036	41040
+对于非营利组织，企业一般会有优惠政策，Google同样如此，它的付费服务给予了非营利组织相当大的折扣。但最近Google修改了符合非营利组织资质的<a href="http://www.google.com/nonprofits/eligibility.html#restrictions">限制条件</a>，将教会、宗教宣教事工、寺庙、犹太会堂等排除在外。这一举动<a href="http://www.bloomberg.com/news/2011-09-15/google-do-gooder-discount-lets-churches-beg-commentary-by-stephen-carter.html">出人意料</a>。耶鲁大学法学教授Stephen L. Carter认为，宗教组织向来是企业慈善捐助计划的一部分，Google的新政策忽视了大部分慈善服务是由宗教组织提供这一事实，没有任何不可抗拒的理由不将非营利组织和宗教组织同等对待。Google已表示将重新审视其资格规定。

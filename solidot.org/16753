@@ -1,0 +1,15 @@
+➜恐怖分子在巴黎杀死一百多人
+https://www.solidot.org/story?sid=46164	12279
+至少八名恐怖分子在法国首都<a target="_blank" href="https://en.wikipedia.org/wiki/November_2015_Paris_attacks"><u>发起协同攻击</u></a>，造成至少132人死亡。目前法国警方还<a target="_blank" href="http://www.nytimes.com/2015/11/14/world/europe/paris-shooting-attacks.html"><u>没有确认</u></a>攻击者的身份，虽然普遍认为袭击与伊斯兰国有联系。法国政府宣布进入紧急状态，向首都部署了数千名士兵，巴黎自1944年以来首次实施宵禁，政府呼吁民众回家和呆在室内。连续的枪击和爆炸<a target="_blank" href="https://www.reddit.com/live/vwwmdb26t78v"><u>发生</u></a>在11月13日晚上到14日凌晨，包括正在进行法国德国足球队友谊赛的法兰西体育场以及巴塔克兰剧院，其中巴塔克兰剧院死伤最为惨重，至少有87人死亡，袭击剧院的4名枪手中有一人被杀死另外三人引爆炸弹死亡，在剧院演出的乐队成功逃脱没人受伤。袭击者被认为已经全部死亡。
+➜太阳在变亮，但中国除外
+https://www.solidot.org/story?sid=46165	39687
+中科院青藏高原研究所、哥德堡大学和兰州大学的研究人员在《Scientific Reports》上发表了一篇<a target="_blank" href="http://www.nature.com/articles/srep15135"><u>论文</u></a>，称由于风力不足和空气污染使得中国地表太阳辐射<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2015-11/aaft-tsi111315.php"><u>不断减少</u></a>，这会对气候、环境、以及经济造成重大的影响。从世界范围来看，自1990年以来，全球的地表太阳辐射呈上升趋势。然而中国的情况相反。研究人员发现，中国地表太阳辐射量较低主要是由区域内较高的空气污染程度和较低的地面风速共同作用造成的。近几十年来中国的地表风速力在变弱。风力减小引发空气污染颗粒（气溶胶）浓度增加，从而助力雾霾加剧和日光减弱。研究发现，在中国空气污染严重的地区，当风速低于每秒3.5米时，由污染造成的日光减弱会更为严峻。在所有减少的地表太阳辐射中，20%是由污染颗粒（气溶胶）聚集造成的，而低风速又使污染情况加剧了约20%。
+➜Windows  3.1故障导致上周巴黎奥利机场短暂关闭
+https://www.solidot.org/story?sid=46166	42029
+上周六，由于一套运行Windows&nbsp; 3.1的关键系统发生故障，<a target="_blank" href="http://arstechnica.com/information-technology/2015/11/failed-windows-3-1-system-blamed-for-taking-out-paris-airport/"><u>迫使巴黎奥利机场因为大雾短暂关闭</u></a>。Windows&nbsp; 3.1至今已有23年历史。奥利机场运行在Windows 3.1上的系统叫DECOR，用于在恶劣气候下——比如大雾——向飞行员传送跑道视程信息。它属于必不可少的关键系统，上周六它却停止了工作。法国空管联盟的 Alexandre Fiacre说，该工具运行在四种古老的操作系统：Windows 3.1、Windows XP和未指定的UNIX系统。这些系统维护不佳，因为它们都有几十年的历史，很难找到合适的人去处理相关问题。在巴黎，只有三名专家能解决DECOR相关问题，其中一人明年就要退休了，而目前找不到人去接替他。法国政府计划到2017年升级机场系统，但Fiacre没有政府这么乐观，认为升级可能要到2021年才可能完成。
+➜广告利用听不见的超声波跨越手机、电视、平板和PC跟踪用户
+https://www.solidot.org/story?sid=46167	49744
+隐私倡导组织向美国联邦监管机构<a target="_blank" href="http://arstechnica.com/tech-policy/2015/11/beware-of-ads-that-use-inaudible-sound-to-link-your-phone-tv-tablet-and-pc/?"><u>发出警告</u></a>，广告公司正在研发利用人耳听不见的声音实现跨设备跟踪的技术。今天的网络用户每天都会使用多种设备，电视、手机、平板、PC，或许还有穿戴式设备如智能手表手环之类。目前还没有简单的技术能跟踪用户在所有设备上的活动。但SilverPush、Drawbridge、Flurry，甚至还有Adobe正在研发跨设备跟踪技术，利用嵌入在广告中的超声波信号联络附近的平板和手机，这些声音耳朵听不见，但智能设备能探测到。利用这一方法，cookies可以将单一用户与多台设备配对起来，跟踪你在不同设备上看到的广告，看了多长时间，看了之后是否会去搜索。
+➜BadBarcode攻击迫使主机系统执行命令
+https://www.solidot.org/story?sid=46168	53474
+腾讯的安全研究人员在东京举行的 PacSec 2015会议上介绍了<a target="_blank" href="http://www.slideshare.net/PacSecJP/hyperchem-ma-badbarcode-en1109nocommentfinal"><u>BadBarcode攻击</u></a>（PDF），演示了如何在条形码中注入特定ASCII控制字符。二维码阅读器通常是一个键盘模拟设备，而二维码协议如Code 128支持ASCII控制字符，因此在条形码中嵌入ASCII控制字符比如快捷键WIN+R，可以诱使二维码阅读器去按主机系统的快捷键，激活特定功能。攻击者可以用它打开或保存一个文件，打开浏览器或执行一个指令。

@@ -1,0 +1,72 @@
+➜中国公布疑似失踪飞机卫星图
+https://www.solidot.org/story?sid=38694	8683
+<div align="center"><img src="http://img.solidot.com.cn/0/89/liNKzP9eLOBE.png" align=""><br>
+<br>
+</div>
+国防科技局<a target="_blank" href="http://www.sastind.gov.cn/n112/n117/c303244/content.html"><u>公布了</u></a>高分一号卫星发现的失踪马航客机疑似失事区域卫星图。高分一号是中国高分辨率对地观测系统的第一颗卫星，对地最高分辨率2米。国防科技局称，<font face="Arial">高分一号卫星3月9日上午11点左右获取的图像中，位于（105.63oE，6.7oN）为中心方圆20公里的区域，观测到3处疑似漂浮物体，尺寸分别约13米<font face="Arial">×</font>18米、14米<font face="Arial">×</font>19米、24米<font face="Arial">×</font>22米</font>（上图为第三处）。另据CNN<a target="_blank" href="http://edition.cnn.com/2014/03/11/us/malaysia-airlines-plane-crowdsourcing-search/index.html?iref=allsearch"><u>报导</u></a>，志愿者Mike Seberger根据商业卫星公司<a target="_blank" href="http://www.digitalglobeblog.com/"><u>DigitalGlobe</u></a>提供的卫星图像发现了疑似失事飞机，其轮廓与波音777-200相近。
+➜FSF称Replicant开发者发现三星手机后门
+https://www.solidot.org/story?sid=38695	11373
+自由软件基金会（FSF）发表<a target="_blank" href="https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor"><u>声明</u></a>，Android的自由软件fork Replicant项目的开发者在三星Galaxy手机中<a target="_blank" href="http://redmine.replicant.us/projects/replicant/wiki/SamsungGalaxyBackdoor"><u>发现了后门</u></a>。Replicant开发者称，他们在处理解调器通信协议的应用处理器上发现了一个私有程序，内置了后门，允许解调器对文件系统执行远程文件输入/输出操作。该程序让解调器有可能对手机上储存的文件执行读写和删除操作。今天的智能手机<a target="_blank" href="http://lwn.net/Articles/590433/"><u>配有</u></a>两个独立的处理器：一个通用应用处理器运行主操作系统如Android，另一个应用处理器负责通信，它一般都是运行私有的操作系统，被认为可能 含有后门可以将手机变成远程间谍工具。有人<a target="_blank" href="https://news.ycombinator.com/item?id=7388547"><u>认为</u></a>Replicant开发者的发现只是推测，并无真凭实据。
+➜机器学习问题的十个实例
+https://www.solidot.org/story?sid=38696	11609
+<a href="http://www.geekfan.net/">极客</a> 写道<i> "机器学习问题到处都是，它们组成了日常使用的网络或桌面软件的核心或困难部分。推特上“想来试试吗”的建议和苹果的Siri语音理解系统就是实例。Jason Brownlee 在一篇<a href="http://machinelearningmastery.com/practical-machine-learning-problems/" target="_blank">博文</a>（<a href="http://blog.jobbole.com/62334/" target="_blank">中文</a>）中分享了机器学习问题的十个实例 &nbsp;：垃圾邮件检测、信用卡欺诈检测、数字识别、语音识别、人脸识别、产品推荐、医学分析、股票交易、客户细分、形状鉴定。
+"</i>
+➜机器人劳动力崛起是好事
+https://www.solidot.org/story?sid=38697	12757
+在上周举行的SXSW大会上，机器人劳动力是一个热门讨论话题。与会者<a target="_blank" href="http://cn.wsj.com/gb/20140313/bog083433.asp"><u>多相信机器人的崛起是件好事</u></a>。Autodesk CEO巴斯(Carl Bass)承认，工厂自动化取缔或减少了许多制造业岗位，未来这一情况将会继续下去，这将导致劳动力市场发生巨大转变。他说，像货车运输这样的整个行业最终将被无人驾驶汽车等机器人技术进步所颠覆。但那些被自动化取代的工作是你想让孩子以后从事的职业吗？他说，几乎没有家长会希望自己的孩子有朝一日成为加油站加油员或电梯操作员，这种工作已实现自动化。巴斯说，凭借我们的创造力和想象力，我们应该能与机器人和谐相处。机器人专家奈特(Heather Knight)认为，美发师这一职业或许不会受到机器人的影响。另一个不会受机器人影响的工作是机器人专家。
+➜NSA开发自动化系统入侵百万电脑，QQ飞信是目标
+https://www.solidot.org/story?sid=38698	18458
+<div align="center"><img src="http://img.solidot.com.cn/0/90/lidCbH4mxIzo.png" align="" height="315" width="420"><br>
+</div>
+<br>
+Ryan Gallagher和Glenn Greenwald引用前NSA合同工Edward Snowden 泄漏的机密文件<a target="_blank" href="https://firstlook.org/theintercept/article/2014/03/12/nsa-plans-infect-millions-computers-malware/"><u>报导</u></a>，NSA内部设有主动发起攻击的秘密部门——取名为Tailored Access Operations (TAO) ，但它意识到人的精力毕竟有限，因此开发了自动化系统，能更易于的向数百万电脑植入恶意程序，使渗透规模达到工业级。在一份日期为2009年的演示文件中，NSA描述了“专家系统（Expert System）”，设计管理恶意程序应用和功能，判断如果要从被感染的电脑中提取数据需要哪个工具；另一份日期为2009年的文件，NSA描述了代号为TURBINE的系统，具有“智能指控控制能力”，能实现工业级渗透，TURBINE自动化了以前需要手动操作的流程，包括恶意程序配置和数据收集。机密文件显示，NSA能绕过加密和发动中间人攻击：代号为CAPTIVATEDAUDIENCE的恶意程序插件能激活目标电脑的麦克风，记录附近的对话；代号为GUMFISH的插件能激活摄像头拍摄照片；FOGGYBOTTOM能记录浏览历史，收集访问网站和电子邮件的登录名和密码；GROK能记录按键，SALVAGERABBIT能从外置存储设备中提取数据；HAMMERCHANT和HAMMERSTEIN被用于植入到路由器，对VPN通信数据进行拦截和执行“漏洞攻击”；2012年一份机密文件称，NSA开发了代号为 SECONDDATE的中间人攻击系统。
+➜道金斯：共产主义是没有证据的信念
+https://www.solidot.org/story?sid=38699	22261
+<a href="/~jerryofwong">jerryofwong</a> 写道<i> "《自私的基因》作者道金斯在接受《新政治家》杂志采访时同意，宗教信仰和思想约束（ideological commitments）是相似的。他说，<a target="_blank" href="http://www.newstatesman.com/science/2013/10/richard-dawkins-interview-pope-francis-poetry-and-why-jews-win-so-many-nobel-prizes">共产主义是没有证据的信念</a>，比如斯大林主义为了共产党的利益扭曲了科学。宗教是一种强大的武器，可以用来说服人们去做事情，因此即可被善用又可被滥用。但信仰根本不应该是强大的武器，把信仰——没有证据的信念——用作政治武器是错的。人们可以在被教育后认识事实，摆脱宗教。信仰是缺乏证据的，说服人们应该相信有证据的东西不是难事。人们并不是本能地信仰宗教，因此教起来了不会很难。"</i>
+➜松下向赴华员工支付污染津贴
+https://www.solidot.org/story?sid=38700	22882
+《金融时报》<a target="_blank" href="http://www.ftchinese.com/story/001055234"><u>报导</u></a>，松下宣布将向派往中国的员工发放津贴，以补偿严重污染对他们的危害，成为开此先河的第一家跨国公司。直径小于或等于2.5微米PM2.5颗粒物能通过人的肺部进入血液，加剧哮喘、癌症以及心脏疾病。松下没有透露上述津贴方案所覆盖的在华日籍员工人数或具体金额。中国员工将不会得到额外津贴。“这是我第一次听到有公司在这个问题上如此直白，”罗迈国际商务咨询的Robert Parkinson说，“通常的作法是将其粉饰成‘发展中国家津贴’。”
+➜失踪客机可能飞行了5小时
+https://www.solidot.org/story?sid=38701	23931
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://cn.wsj.com/gb/20140313/BAS131223.asp"><u>报导</u></a>，美国调查人员怀疑马航370航班在经过最后得到确认的地点之后又在空中飞行了约四个小时，如果是这样，那么该飞机更有可能以不明状态多飞行了数百英里。根据从这架波音777飞机的引擎上自动下载并向地面发送的数据，飞机总共飞行了五个小时。这些数据是飞机例行维护和监控程序的一部分。飞机上的<a target="_blank" href="http://www.rolls-royce.com/about/technology/systems_tech/monitoring_systems.jsp"><u>发动机监测系统</u></a>由发动机制造商罗尔斯-罗伊斯(Rolls-Royce)提供，定时向地面控制中心发送关于发动机健康状况、工作状态以及飞机飞行状态的数据。作为发动机维护协议的一部分，马航会向罗罗实时传送发动机数据，供后者进行分析。熟悉这套监测系统的人士说，这些数据每隔30分钟汇编发送一次。如果是这样，那么又产生了一系列的新问题和可能性。这架载有239人的客机上周末从民用空管雷达上消失后究竟发生了什么？
+➜Mozilla和Epic演示浏览器版虚幻引擎4
+https://www.solidot.org/story?sid=38702	26972
+<center>
+<iframe src="https://www.youtube.com/embed/c2uNDlP4RiE?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center><br>
+Mozilla去年与Epic Games合作将虚幻引擎3移植到浏览器上，利用WebGL 3D图形API和高性能JavaScript子集asm.js<a target="_blank" href="http://www.solidot.org/story?sid=34572"><u>演示了</u></a>基于虚幻引擎3的游戏Epic Citadel。现在，Mozilla和Epic宣布将在游戏开发者大会(GDC2014)上演示Web版虚幻引擎4，虚幻引擎4尚未正式发布，其图形效果要远胜于上一代引擎。Mozilla和Epic公布的视频（如上）<a target="_blank" href="http://arstechnica.com/gaming/2014/03/mozilla-strives-to-take-web-gaming-to-the-next-level-with-unreal-engine-4/"><u>声称</u></a>，Web版的性能接近原生版。Web版UE4虚幻引擎4使用Emscripten，将C和C++代码编译到asm.js。过去一年，Mozilla显著改进了asm.js的运行效能，从原生版的4成提高到了三分之二。
+➜Ubuntu智能手机价格将在200到400美元左右
+https://www.solidot.org/story?sid=38703	28818
+Canonical创始人Mark Shuttleworth<a target="_blank" href="http://arstechnica.com/gadgets/2014/03/ubuntu-smartphones-will-cost-200-400/"><u>透露了</u></a>Ubuntu智能手机的价格，称Ubuntu手机针对的是中高端，所以价格区间200到400美元，但最终定价由Canonical合作伙伴魅族和BQ决定。魅族在移动世界大会上展示了它的Ubuntu智能手机原型，原型其实就是运行Android系统的MX3，16GB版的MX3售价<a target="_blank" href="http://store.meizu.com/product/mx3.html"><u>1999元</u></a>，约325美元左右。相比之下，苹果非合约机版iPhone 5S售价超过600美元，而Nexus 5起售价350美元。最高端的Ubuntu手机在连接显示器鼠标和键盘之后可以变成一台完整的PC。
+➜环保人士提议斥资500亿美元买下美国煤炭业然后一举关闭
+https://www.solidot.org/story?sid=38704	31734
+两位环保人士提出了一个巨大的构想，一个大胆的建议：斥资<a target="_blank" href="http://www.theguardian.com/sustainable-business/us-coal-industry-buyout"><u>500亿美元</u></a>买下美国煤炭行业全部的私营公营公司，然后彻底关闭。实行这项措施的好处是可以消除酸雨和减少温室气体排放。但环保人士并没有500亿美元，他们认为这笔钱可以作为公共服务由政府出资，但如果政府做不到，那么亿万富翁们也许能伸出援手，比如比尔盖茨、巴菲特和布隆伯格。<a target="_blank" href="http://hardware.slashdot.org/story/14/03/12/1655214/environmentalists-propose-50-billion-buyout-of-coal-industry---to-shut-it-down"><u>煤炭供应了美国37%的电力</u></a>，如果彻底淘汰煤炭，那么替代能源的价格无疑将会相应提高，居民的电费支出也会增加。核能本来可以成为替代煤炭的清洁能源，但2011年日本的福岛核事故后，包括环保人士在内的许多人对核能的痛恨可能比煤炭还高。
+➜音乐播放器Pono Music项目一天筹集到近200万美元
+https://www.solidot.org/story?sid=38705	34906
+<div align="center"><img src="http://img.solidot.com.cn/0/91/liMsVO4Y0xtAM.jpg" align="" height="372" width="480"><br>
+<br>
+</div>
+音乐播放器Pono Music项目在众筹网站Kickstarter上发起了<a target="_blank" href="https://www.kickstarter.com/projects/1003614822/ponomusic-where-your-soul-rediscovers-music"><u>集资活动</u></a>，集资目标是80万美元，但不到2天金额已经突破了227万美元。Kickstarter用户热捧Pono Music的原因除了产品确实新颖外，<a target="_blank" href="http://arstechnica.com/gadgets/2014/03/neil-young-endorsed-music-player-kickstarts-past-1-6-million/"><u>最重要的原因</u></a>是项目获得了著名摇滚歌手<a target="_blank" href="http://zh.wikipedia.org/wiki/Neil_Young"><u>尼尔·杨</u></a>的支持，有30名支持者花了5000美元获得了出席尼尔·杨私人宴会的机会。Pono播放器外形像一个三角万花筒，重4.5盎司，包含64GB存储空间和64GB SD卡，1个小型触摸屏，3个物理按钮，2个3.5毫米音频输出端口。在宣传视频中，尼尔·杨称赞了播放器提供的高比特率音频带来的效果，称音乐效果只比原始录音损失5%。但在人手一部智能手机的今天，有多少人会再愿意去购买一部专用的播放器？
+➜华尔街高频交易机器进军比特币行业
+https://www.solidot.org/story?sid=38706	36565
+Perseus Telecom和Atlas周三联合<a target="_blank" href="http://perseustelecom.com/news/perseus-offers-bitcoin-trading-on-atlas-ats/"><u>发布了</u></a>比特币高速交易平台。Perseus是一家专门从事高速金融数据网络的公司，Atlas则是一家创办于2013年的华尔街新手。他们推出的比特币高频交易机器可以以百万分之三十秒的速度进行交易。观察人士认为，这是数字货币演化史上的一个<a target="_blank" href="http://arstechnica.com/business/2014/03/move-over-small-time-bitcoin-exchange-startups-wall-street-has-arrived/"><u>引人注目的转折点</u></a>。30微秒的交易速度与美国最快的股票交易速度相差无几，它将使得企业能对新闻事件更快的做出反应，但这个新平台也意味着比特币匿名、随心所欲和自由时代的终结。
+➜研究称快乐改进程序员的问题解决能力
+https://www.solidot.org/story?sid=38707	37961
+快乐的程序员会比不快乐的程序员表现更好，看起来是显而易见的。否则，为什么互联网巨人如Google和Facebook都想方设法让员工在公司内更愉快的工作？但愉快的程序员是更优秀的程序员并无科学证据证明。现在，意大利自由大学的研究人员测试了42名计算机科学专业的学生，观测他们的情感状态<a target="_blank" href="http://www.itworld.com/big-data/409246/study-proves-happy-programmers-are-better-programmers"><u>是否影响</u></a>创意和问题解决能力。其中创意任务是要求他们为照片写标题，然后由一组裁判给创意评分；问题解决能力任务是要求他们玩<a target="_blank" href="http://cogtest.com/tests/bacs_nonint/tlflash1.html"><u>伦敦塔游戏</u></a>。结果显示，情感状态对创意没有统计意义的影响，但更好的情感状态改进了问题解决能力。
+➜国际天文联合会拒绝付费命名火星陨石坑
+https://www.solidot.org/story?sid=38708	41323
+去年二月，一家太空教育公司Uwingu<a target="_blank" href="http://www.solidot.org/story?sid=34473"><u>发起了</u></a>公众付费投票命名行星活动，提出名字需花5美元，投票需1美元。国际天文联合会对此表达了不满，表示在命名过程中不会考虑付费投票结果。现在，Uwingu又发起了火星陨石坑命名活动，只要花5美元，公众就可以为地图上的陨石坑命名，所得资金将用于资助空间科学和教育。国际天文联合会再次<a target="_blank" href="http://www.iau.org/public_press/news/detail/iau1402/"><u>发表声明</u></a>，重申Uwingu无权命名陨石坑，它也不会考虑付费命名和投票的结果。国际天文联合会声称，此类的活动违反了自由平等的精神，也违背了国际认可的标准。国际天文联合会指出，去年它曾允许公众为冥王星的两颗卫星名字进行投票.，但它<a target="_blank" href="http://www.solidot.org/story?sid=35429"><u>没有选择</u></a>排在第一名的投票结果：Vulcan。
+➜给人留下好印象的秘诀
+https://www.solidot.org/story?sid=38709	42620
+想象一下你打电话给一位陌生人——潜在雇主或其他你尚未谋面但欣赏的人，你想给对方留下一个好印象，为此已提前排练了开场白。然而，你可能没有意识到的是，对方产生第一印象的时候<a href="http://news.sciencemag.org/brain-behavior/2014/03/secret-making-good-first-impression"><u>是在你说出“你好（Hello）”的那一刻</u></a>。心理学家发现，简单的一句“你好”就已经携带了足够的信息，能让对方得出有关你的个性或是否可靠等结论。加拿大Lethbridge 大学心理学家Drew Rendall说，人们是在听到一个人的声音的瞬间做出判断，而判断是根据非常少的信息做出的。<a target="_blank" href="http://dx.plos.org/10.1371/journal.pone.0090779"><u>研究报告</u></a>发表在PLOS ONE上，科学家对32名男生32名女生进行了实验，结果显示，仅仅根据300到500毫秒的声音，学生就毫不犹豫的形成了一个观点。
+➜日本女科学家论文涉嫌抄袭
+https://www.solidot.org/story?sid=38710	45072
+<a href="/~SSterminator">SSterminator</a> 写道 <i>"日本理化学研究所的一支团队1月发表了有关新型万能细胞Stap的研究论文，现在这项研究被其他学者<a target="_blank" href="http://www.latimes.com/science/sciencenow/la-sci-sn-stap-stem-cell-study-nature-controversy-wakayama-20140311,0,4688880.story#axzz2vqRIsQpz"><u>揭发抄袭</u></a>，这给日本科研界带来极大的冲击。负责该论文发表的是日本理化学研究的女研究员小保方晴子，现年30岁的她毕业于日本早稻田大学，随后到美国哈佛大学深造。她所领导的团队除了日本研究员之外，还包括在哈佛认识的三名美国研究员。此前，日本诺贝尔奖得主中村弥伸参与发现iPS干细胞，小保方研究的新型细胞Stap，被视为是日本科学界的另一突破。一般细胞的培植过程需时长，
+且难以靠外部刺激完成，可小保却能成功从老鼠体内采取淋巴细胞，加入酸性溶液刺激，在短短的2到7天内完成培植。研制过程要比iPS简单，又不容易产生癌化作用，十分受医疗界看好。
+不过，有关论文在《自然》刊登后却引来争议，读者纷纷指出论文内的照片不自然，质疑盗用其他科学论文的细胞照片加工后合成。除了<a target="_blank" href="https://pubpeer.com/publications/D02B9A8C8A6D5C99B95E4FB3E1E13C#fb6333"><u>图片</u></a>外，论文中的<a target="_blank" href="http://stapcells.blogspot.jp/2014/02/blog-post_7834.html"><u>一些用词</u></a>被指与2005年发布的一篇论文相似。"</i>
+➜天文学家观测到至今最大的黄色恒星
+https://www.solidot.org/story?sid=38711	45636
+<div align="center"><img src="http://img.solidot.com.cn/0/93/liTmYPou7vd0M.jpg" align=""><br>
+<br>
+</div>
+天文学家用智利的甚大望远镜<a target="_blank" href="http://www.newscientist.com/article/dn25207-largest-ever-yellow-star-is-1300-times-bigger-than-sun.html#.UyGe44U21tw"><u>观测到了</u></a>黄色恒星家族已知的最大的恒星。这颗恒星比太阳大1300倍，编号为<a target="_blank" href="http://www.eso.org/public/news/eso1409/"><u>HR 5171 A</u></a>，位于半人马座，距离地球12000光年，它有一颗距离非常近的伴星。双星系统的形状类似一个巨大的花生（如图所示）。它不是至今发现的最大恒星，至今发现的最大恒星UY Scuti比太阳大1700倍，但属于红色恒星家族。

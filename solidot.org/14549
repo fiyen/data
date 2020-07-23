@@ -1,0 +1,41 @@
+➜为促进DVD销量，电影公司试图禁止租赁一个月
+https://www.solidot.org/story?sid=14443	60
+《洛杉矶时报》<a href="http://www.latimes.com/business/la-fi-ct-dvd23-2009oct23,0,1148449.story">报道</a>，为了推动消费者购买更多DVD，几家大的电影公司正在考虑一项新政策，<a href="http://entertainment.slashdot.org/story/09/10/27/1959259/Film-Studios-May-Block-DVD-Rentals-For-One-Month">在开始销售起几周内禁止租赁</a>。<i>
+根据电影公司的计划，新DVD上市几周内只允许购买，在此之后，如Blockbuster和Netflix这样的DVD租赁公司才能开始将DVD租赁给他们的顾客。电影公司一直为DVD销售额下降而感到苦恼，然而与此同时，DVD租赁的市场却十分繁荣。Netflix公司CEO Reed Hastings表示，如果他们能与电影公司达成更低的定价，推迟租赁可以实现双赢，双方都有可能增加收益。DVD租赁公司Redbox已被三家电影公司——20世纪福克斯、环球和华纳起诉，他们试图强制要求Redbox公司采取1个月的非租赁期限。</i>
+➜Karl Swedberg谈jQuery
+https://www.solidot.org/story?sid=14444	10800
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "这是 <a href="http://carsonified.com/blog">Think Vitamin</a> 网站对 <a href="http://www.learningjquery.com/">Learning jQuery</a> 作者 <a href="http://www.karlswedberg.com/">Karl Swedberg</a> 的一次简短访谈。Karl Swedberg 是 JavaScript 和 jQuery 技术专家，撰写了大量相关文章，并在各种 Web 开发设计大会上有与 jQuery 相关的讲座。           对那些可能还没听说过 jQuery 的设计师来说，什么是 jQuery
+<br> <br> <a href="http://jquery.com/">jQuery</a> 是一种让开发和设计者在他们的网页中添加交互内容的工具，它的核心命令让你在网页中定位或创建对象并对之进行操作，它事实上是一种更容易使用的 JavaScript，可以不必强迫页面刷新而对页面进行各种操作。<br> <br>
+在你看来，为什么 jQuery 对 Web 设计师有用？
+<br> <br>JavaScript 为设计拓宽了视野，而 jQuery 让这一切变得更简单。对那些通晓 CSS 的设计师来说，编写 jQuery 代码很类似，而对于那些拥有 Flash 经验的设计师来说，jQuery 是一种标准化的，开放的技术，它可以实现类似 Flash 的交互效果。<br> <br>
+你将在 The Future of Web Deisgn New York 大会上做 jQuery 讲座，大体内容是什么？
+<br> <br>我将对 jQuery 库做一简介，接下来会通过一些实践一步一步讲解如何在站点中提升用户体验，我将演示一些技术，看看 jQuery 如何弥补 CSS 或某些浏览器的 CSS 处理的不足。我将讲解如何善用动画，如何防止滥用。最后将演示一些有趣的插件。<br> <br>
+jQuery 有不少实用插件，哪一些是设计师不可或缺的？
+<br> <br>这要看网站，或者说客户的需求。我自己常用的一个插件是 Mike Alsup 设计的 <a href="http://malsup.com/jquery/cycle/">Cycle Plugin</a>，这是一个轮番播放图片的饰件，拥有很漂亮的过度效果，这个插件并不限于播放图片，还可以播放任何内容，它确实很不错，在那么小的空间可以放那么多内容。
+<br> <br>最近我还对 jQuery UI 插件颇感兴趣，这套插件使富用户体验，如拖放操作，变得很简单，它包含的部件都很棒，我已经开始使用其中的对话框，Tab 以及日期选择器等。<br> <br>
+在你看来，Web 设计的未来是什么？
+<br> <br>在预测任何未来技术方面我完全象个傻瓜。在某些方面，如果我们无法摆脱那些旧浏览器的话，事情可能没多少改变，不过，即使现在，在那些更好的浏览器身上，我们也已经看到一些令人振奋的东西，我期待看到一些全新的东西。
+<br> <br>Webkit 引擎开发团队已经做在 CSS 动画方面做了很多工作，他们甚至将触角伸向图形硬件来实现炫目的视觉效果。Firefox, Safari, and Chrome 正在 JavaScript 引擎方面你追我赶，而众多 JavaScript 库也在性能上大幅提升。我们会开到越来越多的 HTML 5 元素的使用，如 Canvas， 音频，视频。Web 字体方面也将更加完善，不管从技术方面还是版权方面。可以肯定的是，未来的 Web 会让人惊异。
+<br> <br>本文来源：<a href="http://carsonified.com/blog/dev/jquery/karl-swedberg-on-jquery/">http://carsonified.com/blog/dev/jquery/karl-swedberg-on-jquery/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/">COMSHARP CMS 企业网站内容管理系统官方站</a>"
+➜openSUSE 11.2 RC 2发布
+https://www.solidot.org/story?sid=14445	15000
+<a href="http://horf.c.la/">horf</a> 写道<i> " <a href="http://linuxtoy.org/archives/opensuse-112-rc-2-is-out.html">LinuxToy</a>报道，openSUSE 开发团队在今天放出了 openSUSE 11.2 RC 2 版本，该版本主要对 Kernel、Samba、Firefox 等进行了更新。按照计划，openSUSE 11.2 正式版将于下月 12 号推出。自openSUSE 11.2 RC 1 以来的变化包括：Linux Kernel 2.6.31.5，SeaMonkey 2.0，Firefox 3.5.4，Samba 3.4.2
+xorg-x11-server 1.65。参阅 openSUSE 11.2 RC 2 <a href="http://news.opensuse.org/?p=2416">发布公告</a>了解更多信息。
+openSUSE 11.2 RC 2 可从 <a href="http://software.opensuse.org/developer/en">software.opensuse.org/developer/</a> 下载。
+"</i>
+➜微软失去的十年
+https://www.solidot.org/story?sid=14446	20700
+在《新闻周刊》上，专栏作家Daniel Lyons（以Fake Steve闻名于世）<a href="http://www.newsweek.com/id/220145/output/print">认为</a>，自2000年比尔盖茨将CEO一职交给史提夫鲍尔默之后，<a href="http://slashdot.org/story/09/10/31/2134237/Microsofts-Lost-Decade">微软这十年是失败的十年</a>。盖茨是一位软件Geek，他理解技术，而鲍尔默则纯粹是商人，当一家技术公司被一位非技术人员管理，带来的问题就是商人有盲点。因此在收入从10年前的230亿美元增加到580亿美元，微软变得越来越官僚和臃肿，已经无法跟上世界的变化。反映在股价上便是——它的股价从55美元下跌到29美元，而同时苹果的股票攀升了700%，Google也在2004年上市后增长了400%。<i>
+在失去的10年中，虽然微软的操作系统仍然占据了90%的PC，Office办公软件仍统治桌面，但这些都属于旧的市场；苹果在此期间创造了iPod、iTunes store和iPhone；Google统治了搜索市场，Gmail成为最好的在线电子邮件服务，Android也逐渐在移动设备市场崭露头角；Amazon统治了在线零售，云计算商业服务也十分繁荣，并推出了Kindle电子书阅读器。而微软的回应是什么呢？Zune播放器，Bing搜索引擎，Windows Mobile移动操作系统，云计算服务Azure，都远远落在对手后面。</i>
+➜中国向美国风力发电项目提供15亿美元
+https://www.solidot.org/story?sid=14447	22800
+《华尔街日报》<a href="http://online.wsj.com/article/SB125683832677216475.html">报道</a>，美国得克萨斯州的风力发电项目将获得中国进出口银行的15亿美元贷款，条件是风力涡轮机将由中国公司独家提供。该可更新能源项目是美国正在开发的最大风力发电场之一，占地35000英亩。成立仅仅5个月的沈阳电力集团（Shenyang Power Group）将建造240台2.5兆瓦风力涡轮机，它提供的电力足以满足15万美国家庭的用电需求。<a href="http://news.slashdot.org/story/09/10/30/1326218/Chinese-To-Supply-600-MW-Wind-Farm-In-Texas">这是首次中国制造商向美国出口风力涡轮机</a>。<i>
+奥巴马政府希望通过向可再生能源的转变，为美国制造业注入新的活力，创造出更多高收入的工作，以弥补其它产业的损失。但是在美国通过税收优惠和补贴向可再生能源源源不断投入资金的同时，中国则为它的庞大出口机器谋取了更多好处。中国计划通过投资美国的可更新能源产业，为风力涡轮机和太阳能设备制造商开辟出新的市场。</i>
+➜军用芯片中的特洛伊木马开关
+https://www.solidot.org/story?sid=14448	26160
+《纽约时报》<a href="http://www.nytimes.com/2009/10/27/science/27trojan.html?_r=1">报道</a>，五角大楼所采购的芯片只有2%是在美国公司掌控的安全工厂内建造的，因此美国军方和情报机构越来越担心芯片电路中隐藏了<a href="http://tech.slashdot.org/story/09/10/28/1211228/Trojan-Kill-Switches-In-Military-Technology">软硬件特洛伊木马开关</a>，威胁军方的先进武器在战争中的表现。《纽约时报》引用了一次真实的案例：<i>
+2007年，以色列空军袭击了一座可疑的叙利亚核反应堆，这一事件引发的疑问是为什么叙利亚的空防系统没有攻击以色列飞机？最初的推测是以色列使用了先进的干扰技术令敌方的雷达失明。然而2008年12月，IEEE Spectrum刊登了一份<a href="http://www.spectrum.ieee.org/semiconductors/design/the-hunt-for-the-kill-switch">报告</a>，引用欧洲行业内部消息来源，指出了一种可能性，即以色列使用内置的木马开关关闭了叙利亚的雷达。一位美国半导体公司高级执行官的话从侧面印证了这一猜测，他在一次采访中透露，美国人向以色列情报机构 <a href="http://en.wikipedia.org/wiki/Unit_8200">Unit 8200</a>提供了令雷达失效的技术，美国政府对此知情。美国政府也早已使用类似技术，他们曾成功的在苏联从加拿大购买的计算机设备中安装了特洛伊木马。</i>
+➜来自130亿年前的一场爆炸
+https://www.solidot.org/story?sid=14449	37200
+<a href="http://sciencenow.sciencemag.org/cgi/content/full/2009/1028/2?rss=1">天文学家看到了最遥远的物体</a>，距离我们130亿光年的一颗恒星坍陷成黑洞，释放出大量伽马射线。NASA的SWIFT卫星于4月23号探测到了这起伽玛射线爆——按惯例被命名为GRB 090423，坍陷成黑洞的恒星的形成和死亡的时间是在创世大爆炸仅6亿年后。<i>
+天文学家每周都会观察到2到3起伽玛射线爆（GRB），多数是在我们周围的星系内。但GRB 090423刷新了2006年发现的伽玛射线爆创造的128亿光年距离记录。如此遥远的天体为天文学家了解早期宇宙的演化打开了一个窗口。理论模型预测，在大爆炸发生数百万年内，气体团开始聚集形成大质量恒星，这些恒星在燃烧一段时间会坍陷成黑洞。通过分析GRB 090423光谱得到的有限信息显示，这颗恒星不属于第一代恒星。在SWIFT探测到伽玛射线爆后，英国Leicester大学的<a href="http://www.ast.cam.ac.uk/~nrt/">Nial Tanvir</a>教授利用夏威夷的英国红外望远镜测定红移值z = 8.1，意大利的Ruben Salvaterra利用伽利略望远镜测定的红移值同样是<a href="http://digital.csic.es/handle/10261/18189">z = 8.1</a>（<a href="http://digital.csic.es/bitstream/10261/18189/1/0906.1578v2.pdf">预印本</a>）。Tanvir和同事认为，早期宇宙的恒星密度足以大到让天文学家在未来观测到更多遥远的伽玛射线爆。</i>

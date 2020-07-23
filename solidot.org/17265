@@ -1,0 +1,20 @@
+➜谷歌在搜索结果中标注"权威信息源"
+https://www.solidot.org/story?sid=51983	29591
+百度有一项功能走在了谷歌前面： 谷歌<a href="http://www.bbc.com/zhongwen/simp/business-39537666" target="_blank"><u>宣布</u></a>将在搜索结果中标注 "权威信息源"，并附上核查结果的声明。搜索巨人透露，将通过算法对被搜索到的网站权威性进行判断，而不是由谷歌自己对新闻真伪进行核实。
+消息发布者对于对于一些声明，比如政治人物的声明的调查意见将会出现在搜索结果中的显著位置。同时出现的还包括一份 "事实核查" 汇总报告，以判定该消息是真是假但这项功能不会影响搜索结果排序，也不会将传播过假消息的网站加上 "不受信任" 的标注。谷歌表示，不同信息发布者可能对同一新闻或者声明的准确性存在不同意见。谷歌强调，会同步展示对于同一消息的不同观点。
+➜WikiLeaks 曝光 CIA 的 Windows 黑客工具
+https://www.solidot.org/story?sid=51984	41277
+<div align="center"><img src="http://img.solidot.org/0/279/liOvifLrJs5Eo.png" width="300" height="360" align=""><br>
+</div>
+<br>
+WikiLeaks 最新曝光的 CIA 黑客工具是专门针对 Windows 操作系统的恶意程序框架 <a href="https://wikileaks.org/vault7/document/Grasshopper-v2_0_2-UserGuide/" target="_blank"><u>Grasshopper</u></a>。根据 Grasshopper 的用户手册，该框架可被用于为运行 Windows 操作系统的目标电脑构建定制的安装程序，设计在部署时检测操作系统及其保护，能逃避杀毒软件的检查。Grasshopper 用 Python 3.4 开发，使用 Zlib 库进行压缩，<a href="https://yro.slashdot.org/story/17/04/07/1950206/wikileaks-reveals-grasshopper-the-cias-windows-hacking-tool" target="_blank"><u>借用了</u></a>来自俄罗斯犯罪组织所开发工具集的代码。
+➜新研究推翻传统的记忆理论
+https://www.solidot.org/story?sid=51985	43644
+根据发表在《科学》期刊上的<a href="http://science.sciencemag.org/cgi/doi/10.1126/science.aam6808" target="_blank"><u>一篇论文</u></a>，美国和日本的研究人员<a href="http://www.bbc.com/news/health-39518580" target="_blank"><u>发现</u></a>，人脑把信息 “备份”，同时储存两份同样的记忆版本，一份供当下用，另一份则永久保存。而以前的说法是，先有短期记忆，然后慢慢转变成长期记忆。科学家形容这无异于 “记忆规则的华丽重写”。旧的记忆理论认为，人脑的两个部分深度参与了对个人经历的记忆：海马体和皮层。海马体先制作短期记忆，之后逐渐转变成储存在皮层里的长期记忆。这个解释兴起于 1950 年代。日本理化学研究所—麻省理工学院神经回路遗传研究中心的科学家通过实验证明，其实不是这么回事。他们通过仪器和操作观察实验鼠记忆的形成过程，即脑细胞群对电击的反应。结果发现，记忆有两个同时生成的版本，一个在海马体，一个在皮层。实验鼠最初几天没有用皮层里的长期版本的记忆，但通过操作把皮层的长期记忆激活打开后，实验鼠就记起来受过电击了。科学家认为，长期记忆在形成的初期是不成熟或者是 “沉默” 的，而海马体和皮层之间的联系假如受阻，那么长期记忆就永远无法成熟。这说明大脑的这两部分仍有某种关联，重心还是会随着时间推移从海马体向皮层转移。
+➜黑客组织公开 NSA 的网络战武器
+https://www.solidot.org/story?sid=51986	52656
+<div align="center"><img src="http://img.solidot.org/0/280/li6uZCj8qHhg.png" width="450" height="394" align=""><br>
+</div>
+<br>
+神秘黑客组织 Shadow Brokers
+又回来了，这次是<a href="https://medium.com/@shadowbrokerss/dont-forget-your-base-867d304a94b1" target="_blank"><u>为了抗议特朗普</u></a>。它的首次露面是在去年 8 月，当时它<a href="http://www.solidot.org/story?sid=49336" target="_blank"><u>声称攻破了</u></a>为 NSA 开发网络武器的黑客团队 Equation Group，并公开拍卖（拍卖价高达数亿美元）据称为美国政府使用的黑客工具。它随后公开了一个加密的 NSA 档案。虽然拍卖最终流拍，该组织也在今年 1 月宣布将回归地下，但这个自称支持特朗普的黑客组织在美国空袭叙利亚后以抗议的名义公开了解密密钥——CrDj”(;Va.*NdlnzB9M?@K2)#&gt;deB7mN，让任何人都可以一览美国的网络战武器。解密后的 NSA 文件已经发布到 Github 上（地址是 <a href="https://github.com/x0rz/EQGRP" target="_blank"><u>https://github.com/x0rz/EQGRP</u></a>）。<br>

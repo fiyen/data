@@ -1,0 +1,47 @@
+➜雅虎证实5亿用户帐户被盗
+https://www.solidot.org/story?sid=49783	10188
+上个月，一位黑客在网上出售至少2亿雅虎用户信息，雅虎随后展开的调查证实至少有5亿用户的帐户被盗。雅虎首席信息安全官 Bob Lord在<a href="https://yahoo.tumblr.com/post/150781911849/an-important-message-about-yahoo-user-security" target="_blank"><u>官方博客</u></a>上称，对其网络的攻击发生在2014年，攻击者据信有国家支持。失窃的信息包括了用户名、电子邮件地址、电话号码、出生日期、哈希密码（绝大多数使用bcrypt加密）、部分加密或未加密的安全问题和答案。调查显示，未保护的密码、银行卡数据等没有储存在黑客入侵的系统中。雅虎正与执法部门紧密合作调查此次黑客入侵。雅虎称它正向受影响的用户发送通知，提醒用户修改密码，并建议2014年后未修改密码的用户尽快修改密码。
+➜TypeScript 2.0 发布
+https://www.solidot.org/story?sid=49784	12826
+微软在 JavaScript 基础上开发的编程语言 TypeScript 发布了 <a href="https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/" target="_blank"><u>2.0版</u></a>。开发JavaScript大型程序是一大挑战，原因是它在程序运行时才执行错误检查，而其它静态编译语言开发的程序是在编译时就会执行错误检查。通过TypeScript，微软在保证兼容性的同时为 JavaScript引入了类似其它语言的错误检查和验证。在TypeScript 2.0中，微软<a href="http://arstechnica.com/information-technology/2016/09/typescript-microsofts-javascript-for-big-applications-reaches-version-2-0/" target="_blank"><u>引入的最大变化是对 null 值的控制</u></a>。null 被用于表示没有任何值的变量。但 null 引用会导致很多问题，它的发明被作者称为是“<a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare" target="_blank"><u>十亿美元错误</u></a>”，然而所有主流编程语言都支持 null 概念。微软为 TypeScript 2.0 加入了控制 null 值的选项，启用选项后变量默认被要求设定一个值，避免无意中将变量值设为 null。
+➜人类祖先如何走出非洲
+https://www.solidot.org/story?sid=49785	14419
+三个独立研究团队在《自然》期刊上<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18964.html" target="_blank"><u>发表论文</u></a>，基因数据显示非洲之外所有人类的祖先<a href="http://cn.nytstyle.com/science/20160922/ancient-dna-human-history/" target="_blank"><u>都可以追溯到5万年到8万年前离开非洲的一批人</u></a>。三个团队为787人做了基因组测序，获取了每个人极为详细的基因组扫描结果。这些基因组来自全世界数百个土著族群，其中包括巴斯克人、非洲俾格米人、玛雅人、贝都因人、夏尔巴人和克里印第安人等等。每个小组的研究者都使用若干基因组，去研究关于人类起源的不同问题，比如人类如何穿越非洲，另一些人又是如何去往澳大利亚。他们的目的都是解决人类离开非洲、向外扩张的问题。几乎所有如今非洲以外人群的DNA都可以追溯到一个7.5万年前的种群——大概是一群非洲人，他们逐渐离开非洲，定居到世界上的其他地方。但一部分人还携带了更早走出非洲的种群的DNA，他们可能是在14万年前离开非洲的，之后就销声匿迹。
+➜Snowden谈泄漏NSA大规模监视的后续影响
+https://www.solidot.org/story?sid=49786	16390
+NSA泄密者斯诺登（Edward Snowden）接受了《金融时报》的午餐邀请，<a href="http://www.ftchinese.com/story/001069482?page=rest" target="_blank"><u>谈论了泄漏NSA大规模监视所产生的影响</u></a>。斯诺登认为美国政府的三大支柱——国会、法院和总统——已经改变了对大规模监听的立场，“开始对间谍实施更多监督了。” 英国政府的回应是提议立法，不仅批准那些被披露正在进行的情报活动，还要扩大范围，“在有些国家，法律已经变得更糟。法国已经走得很远，俄罗斯、中国等国当然也是这样。英国出现了一种威权主义趋势。”“我们不允许警察入室搜查。通常，我们不会为了方便警察行事而重新安排一个自由社会的运转秩序——因为那便是警察国家的定义”，“但一些间谍和官员正试图说服我们应该这样做。我得说，警察国家的警察无疑会比一个自由、开放社会的警察更高效，因为在自由社会，警察的行动受到更严格的约束。但你更愿意生活在哪一种社会呢？”对于民主党全国委员会遭攻击事件，正如他所言，人们普遍认为这是俄罗斯黑客所为。“这是这种不加限制的监控行为带来的一部分问题，正是我们拒绝克制自己的行为才使得这种状况得以发生。我们树立了一种全球先例——一切皆有可能，没有什么是被禁止的。”
+➜霍金想要抢在外星人前先发现他们
+https://www.solidot.org/story?sid=49787	18742
+英国理论物理学家霍金（Stephen Hawking）担心人类与先进文明的相遇会像美洲原居民与哥伦布相遇那样，导致了灾难性的结果。他<a href="https://www.cnet.com/news/stephen-hawking-wants-to-find-aliens-before-they-find-us/" target="_blank"><u>更希望</u></a>人类能抢在先进文明之前发现他们。<i>
+在半小时的节目《Stephen Hawking's Favorite Places》中，霍金讨论了一颗可能存在生命的系外行星 Gliese 832c，这颗超级地球距离地球16光年，他支持的Breakthrough: Listen计划希望利用人类最灵敏的射电望远镜去扫描外星文明的信号。如果智能生命在Gliese 832c上演化出来，人类应该能接收到信号。但如果接收到了类似行星上的外星人信号，对于回复我们需要非常谨慎。遇见先进文明就像是美洲原居民遭遇哥伦布，结果并不怎么好。
+</i>
+➜中国要求在年底前完成100%电话实名制
+https://www.solidot.org/story?sid=49788	26989
+在打击电信欺诈的名义下，中国政府正加快推进电话实名制。今天公布的《<a href="http://www.mps.gov.cn/n2253534/n2253535/n2253537/c5499641/content.html" target="_blank"><u>关于防范和打击电信网络诈骗犯罪的通告</u></a>》要求，“电信企业要严格落实电话用户真实身份信息登记制度，确保到2016年10月底前全部电话实名率达到96%，年底前达到100%。未实名登记的单位和个人，应按要求对所持有的电话进行实名登记，在规定时间内未完成真实身份信息登记的，一律予以停机。电信企业在为新入网用户办理真实身份信息登记手续时，要通过采取二代身份证识别设备、联网核验等措施验证用户身份信息，并现场拍摄和留存用户照片。”这一时间要求比上半年的工信部<a href="http://www.solidot.org/story?sid=48328" target="_blank"><u>通知</u></a>《关于贯彻落实〈反恐怖主义法〉等法律规定 进一步做好电话用户真实身份信息登记工作的通知》提前了半年，工信部的通知要求“电信企业确保在2016年12月31日前本企业全部电话用户实名率达到95%以上，2017年6月30日前全部电话用户实现实名登记，而对身份不明或者拒绝身份查验的，不得提供服务。”三大电信运营商都在向预付费卡用户发出停机警告。你们没有不实名的权利。
+➜Richard Garfield抨击游戏开发商利用玩家的上瘾赚钱
+https://www.solidot.org/story?sid=49789	29472
+中国市值最高的互联网公司腾讯其约一半收入来自于游戏，而这些游戏大多采用的是免费增值模式。在中国，免费增值模式非常流行，这些游戏的生存主要依赖于少数投入大量金钱的玩家，这些玩家被称为“whales”，一名 Whale 会在游戏中投入数千甚至数万美元，相比之下今天的3A级大作的售价也不过是60美元。游戏具有上瘾性，而通过免费增值模式游戏开发商正滥用玩家的上瘾行为赚钱。游戏中的许多机制设计是为了让玩家付费，如在一个竞争性游戏中玩家可以通过付费获得竞争优势。万智牌的设计者 <a href="https://en.wikipedia.org/wiki/Richard_Garfield" target="_blank"><u>Richard Garfield</u></a> 将这些游戏软件称为是“Skinnerware”，他在Facebook 上<a href="https://m.facebook.com/notes/richard-garfield/a-game-players-manifesto/1049168888532667" target="_blank"><u>发表了一封宣言</u></a>， 认为滥用玩家的上瘾行为的做法是错误的。他宣布，作为游戏玩家，他不会去玩或宣传一款利用上瘾玩家的游戏；作为游戏设计师，他不会为一家试图在Skinnerware中利用他的设计的发行商工作。
+➜中国互联网公司海外扩张从发展中市场转向发达市场
+https://www.solidot.org/story?sid=49790	30907
+发展中市场被认为更容易扩张。但中国互联网公司在海外扩张期间发现，扩张容易赚钱难，<a href="http://cn.wsj.com/gb/20160922/LLW164246.asp" target="_blank"><u>他们开始纷纷转向发达市场</u></a>。遵照“用户将带来收入”这一中国互联网行业的至理名言，数以千计的中国互联网公司通过推出免费手机游戏和应用程序在发展中市场建立大规模用户群，而显然这种方式创造不了什么收入。手游开发商北京智明星通科技有限公司CEO唐彬森，现实是一些市场的用户比另一些市场的用户有价值得多。他表示，若想打造一家规模更大的公司，就要追求更大的目标市场。新兴市场可能看起来比较有潜力，但这些市场的基础设施和消费能力需要数年时间才能赶上发达市场甚至中国的水平。
+➜科学中的1%问题
+https://www.solidot.org/story?sid=49791	34402
+《自然》期刊发表<a href="http://www.nature.com/news/inequality-1.20613" target="_blank"><u>封面文章</u></a>谈论科学中的不平等问题。科学界总体上与整个社会一样，也存在在显著的<a href="http://www.nature.com/news/science-s-1-how-income-inequality-is-getting-worse-in-research-1.20651" target="_blank"><u>收入不平等问题</u></a>，在加州大学，有医学研究员年收入超过百万美元，但博士后们的收入不到5万美元。过去几十年，精英科学家和科研苦力的收入差距在扩大。《自然》调查了3,600名研究员的薪水，超过半数表示为了科学牺牲了薪水，不到20%的被调查者表示不会向学生推荐科研职业。科学是有风险的和昂贵的，对大学来说，最小化风险的方法是选择已经证明是赢家的人。数个世纪以前，科学家多是贵族，而今天的情况越来越像回到以前。来自劣势背景家庭的学生<a href="http://www.nature.com/news/is-science-only-for-the-rich-1.20650" target="_blank"><u>更少从事科学生涯</u></a>。在中国，进入顶尖大学的官员和富有商人的子女不成比例的高，出生于贫困家庭的科学家得到的家庭支持更少，经济负担更重。对博士后和初级研究员来说，压力更大，他们中的很多人因此转向了海外。中国利用高薪吸引知名的海外科学家归国，但得到高薪的科学家毕竟是其中的极少一部分人。
+➜科威特律师挑战强制性的DNA收集法律
+https://www.solidot.org/story?sid=49792	37537
+科威特的一项受争议DNA收集法律将于11月生效，这项法律要求强制性收集所有公民、外国居民和游客的DNA数据。拒绝收集的人将面临监禁或相当于3.3万美元的罚款。这项法律是在2015年科威特首都遭到恐怖袭击导致数十人死亡后快速在议会通过的。有了所有居民的DNA数据库，识别恐怖主义受害者或犯罪嫌疑人可能会变得更容易。该法律受到了广泛批评，认为作为一种对抗恐怖主义的工具它效率不高，而如果DNA数据被窃那么很可能会面临严重的隐私问题。现在，一位科威特律师以违宪为由<a href="http://arstechnica.com/tech-policy/2016/09/as-kuwait-imposes-worlds-first-dna-collection-law-attorney-tries-to-fight-it/" target="_blank"><u>对该法律提出了挑战</u></a>。律师Adel Abdulhadi认为，强制每一位公民、居民和游客递交DNA样本，相当于无搜查令强制搜索房子。他认为这项法律违反了宪法。
+➜荷兰兄弟偷电挖比特币被控洗钱
+https://www.solidot.org/story?sid=49793	38615
+一对荷兰兄弟2014年被发现非法接电线<a href="http://phys.org/news/2016-09-dutch-brothers-court-bitcoin-stolen.html" target="_blank"><u>偷电在电脑上挖掘比特币</u></a>，他们共挖掘了价值20万欧元的比特币。检方寻求监禁判决，他们被控洗钱。比特币的币值在2013年曾达到历史性的1BTC兑换1000多美元，但之后币值一路下跌，至今再未达到这一兑换率。而在2014年前用电脑显卡挖掘比特币还是有利可图，但之后GPU很快被专用矿机替代，现在用电脑挖比特币已经毫无价值了。
+➜政府鼓励共产党员带头生二胎
+https://www.solidot.org/story?sid=49794	39847
+9月18日，宜昌卫计委网站<a href="http://news.xinhuanet.com/politics/2016-09/23/c_129294937.htm" target="_blank"><u>挂出一封红头文件公开信</u></a>，呼吁公职人员生二孩，目前该公开信已删除。该公开信的发文单位包括宜昌市卫计委、宜昌市教育局、宜昌市总工会等8家单位，公开信的对象为“市直机关、事业单位全体共产党员、共青团员同志们”。这件事引发了广泛关注，公开信没有交代的一个背景是，由中南财经政法大学专家教授组成的一个9人课题组，在2015年8月对宜昌的生育现状做了一次全面调研。调研的结论:“宜昌市的持续低生育水平已经严重影响到该地区的社会经济发 展进程…政策的积极干预已经势在必行。”这份名为《低生育地区生育政策响应》的报告中说，目前宜昌育龄妇女人均有0.72个孩子，显示宜昌已进入超低生育水平，而且二孩政策推出后，该地区的生育率并没有发生明显的反弹，下降趋势还在持续。人口出生下降的趋势和它带来的挑战，<a href="http://www.bbc.com/zhongwen/simp/indepth/2016/09/160922_nan_china_second_child_yichang" target="_blank"><u>显然不止宜昌一地</u></a>。宜昌的调研显示，宜昌从2000年开始就进入超低生育水平，这是与中国整体的人口出生率下降同步的。根据中国国家统计局公布的数据测算结果显示，2000年之后中国的总和生育率已经降到了1.3以下，并呈持续走低之势。中国目前正面临30年来最低的经济增长。与此同时，中国也正面临着生育率降低和快速老龄化的人口危机。
+➜用思想控制仿生手臂
+https://www.solidot.org/story?sid=49795	40773
+O’Connell-Ponkos在1985年16岁时因为一次事故损失了部分右上臂，她曾使用过五年的仿生手臂，但因为它的诸多问题而最终将其抛弃。她的故事在上肢截肢者中间很常见：尽管在工程和可用性方面取得了进步，使用者放弃上肢仿生手臂的比率曾在长达25年没有发生改变。一个原因是上肢仿生手臂依赖的控制系统是在1950年代研发的，它不符合直觉，需要大量的练习。去年，O’Connell-Ponko尝试了一种新的仿生手臂，<a href="http://spectrum.ieee.org/the-human-os/biomedical/bionics/thoughtcontrol-systems-advance-bionic-arms" target="_blank"><u>利用了能识别神经信号的新控制系统</u></a>。它的控制更自然。使用它O’Connell-Ponko能做从劈柴到扎辫子的几乎任何事情。她现在成为了开发商<a href="https://coaptengineering.com/">Coapt</a>的发言人，向外界推销这项技术。
+➜Akamai在创记录网络攻击后下线KrebsOnSecurity
+https://www.solidot.org/story?sid=49796	43737
+从本周二开始，记者 Brian Krebs 的安全网站 KrebsOnSecurity 遭到了持续性的 DDoS 攻击，峰值攻击流量超过每秒 620 Gbps，创下了CDN服务商 Akamai 的 DDoS 流量新纪录。作为回应，Akamai 选择了<a href="http://www.businessinsider.com/akamai-brian-krebs-ddos-attack-2016-9" target="_blank"><u>将网站KrebsOnSecurity下线</u></a>。Krebs 对此表示理解。他说，他不能就此决定指责Akamai，他很有可能让 Akamai 大大破费了。抵御 DDoS攻击既是技术上的挑战，也攸关经济成本。这次攻击有可能与付费DDoS服务 vDOS有关，在Krebs报告该服务后 vDOS 的两位创建者遭到了逮捕。
+➜iOS的备份密码被发现很容易暴力破解
+https://www.solidot.org/story?sid=49797	45408
+iPhone 7是安全的，iOS 10是安全的，但研究人员发现了一个设计弱点——iOS设备的离线备份密码<a href="http://blog.elcomsoft.com/2016/09/ios-10-security-weakness-discovered-backup-passwords-much-easier-to-break/" target="_blank"><u>被发现很容易暴力破解</u></a>：苹果从使用pbkdf2(sha1)迭代1万次<a href="https://twitter.com/thorsheim/status/779207177416351744" target="_blank"><u>改成sha256哈希迭代一次</u></a>。这一改动导致破解难度大大降低，不用GPU加速用CPU就能轻松暴力破解。本地离线备份可通过iOS设备在解锁状况下产生。

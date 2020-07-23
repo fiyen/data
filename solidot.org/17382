@@ -1,0 +1,47 @@
+➜FBI 逮捕被指开发和传播银行木马的 Marcus Hutchins
+https://www.solidot.org/story?sid=53343	9944
+英国安全研究员 Marcus Hutchins，aka MalwareTech，今年早些时候发现 WannaCry 的关闭开关阻止了该
+勒索软件的进一步传播而被视为一位安全领域的英雄，但本周他在准备离境美国时<a href="https://www.theguardian.com/technology/2017/aug/03/researcher-who-stopped-wannacry-ransomware-detained-in-us" target="_blank"><u>遭到 FBI 逮捕</u></a>，被控开发、传播和维护了银行木马 Kronos，他的逮捕与上个月暗网市场 AlphaBay 的关闭有关。美欧执法机构扣押了 AlphaBay 的服务器，获取了该市场用户的大量信息。在<a href="https://www.documentcloud.org/documents/3912520-Marcus-Hutchinson-Indictment.html" target="_blank"><u>起诉书（有涂改）</u></a>中，此案的另一名共同被告在 AlphaBay 上出售了恶意程序。Hutchins 出席了上个月在拉斯维加斯的 Def Con 安全会议，他是在机场准备离开时被捕的。他的母亲及同行对此都倍感震惊。
+➜华为手机收集微信聊天数据，腾讯不满
+https://www.solidot.org/story?sid=53344	12555
+《华尔街日报》<a href="http://cn.wsj.com/gb/20170804/tec092935.asp" target="_blank"><u>报道</u></a>，华为和腾讯在用户数据问题上陷入分歧。华为正在通过其荣耀 Magic 智能手机收集用户活动信息，以打造其人工智能功能，例如使手机能够基于用户的短信内容推荐餐厅。其收集的信息包括热门社交应用微信的聊天信息。知情人士透露，腾讯认为，华为的上述做法实际上夺取了腾讯的数据，并侵犯了微信用户的隐私。知情人士称，腾讯已要求中国政府介入此事。华为在一则声明中否认侵犯用户隐私，该公司表示，其仅在用户通过手机设置予以授权的情况下收集用户活动信息。华为称，所有用户数据都属于用户，而不属于微信或是荣耀 Magic，该公司在荣耀 Magic设备上处理用户数据之前经过了用户的授权。
+➜研究称学习后饮酒能巩固记忆
+https://www.solidot.org/story?sid=53345	15121
+为了你的记忆来干一杯。根据发表在《Scientific Reports》期刊上的<a href="https://www.nature.com/articles/s41598-017-06305-w" target="_blank"><u>一项研究</u></a>，在学习之后<a href="https://arstechnica.com/science/2017/08/booze-boosts-the-brains-ability-to-remember-info-learned-before-drinking/" target="_blank"><u>饮酒有助于大脑储存和记忆</u></a>。研究人员尝试验证一项假说：酒精能阻止大脑形成新的记忆，但饮酒前刚刚吸收的记忆却因此能得到巩固。也就是说，饮酒能削弱你记住眼前新事物的能力，但却有助于巩固之前的记忆。他们招募了 88 名能喝酒的成年人，让他们记住 24 个捏造的无意义的单词，这些单词的构成与已有单词相近，比如 frenzylk （与单词 frenzy 相近）。在记忆训练之后一半的被试被随机分配到饮酒组和控制组，饮酒组想喝多少就喝多少，只要还能保持清醒。最后他们接受了记忆挑战。结果显示，饮酒组在记住无意义单词上确实比控制组更出色，但得分的统计显著性第二天早上比头天晚上更出色，暗示酒精不只是简单的减少遗忘，它可能会有助于巩固新形成知识和增强记忆。
+➜内核加固项目 Grsecurity 起诉 Bruce Perens 诽谤
+https://www.solidot.org/story?sid=53346	18148
+开源促进会的联合创始人 Bruce Perens 6 月底在博客上谈论了内核加固补丁集项目 Grsecurity，认为该项目<a href="http://www.solidot.org/story?sid=53027" target="_blank"><u>违反了 Linux 内核采用的 GPL 许可证</u></a>。他认为 Grsecurity 是 Linux 的一个衍生作品，它离不开内核，没有内核它无法工作。这意味着 Grsecurity 也必须采用 GPLv2 许可证或兼容 GPLv2 的许可证。Grsecurity 的回应是<a href="https://www.theregister.co.uk/2017/08/03/linux_kernel_grsecurity_sues_bruce_perens_for_defamation/" target="_blank"><u>起诉 Bruce Perens 诽谤</u></a>。起诉书坚称 Grsecurity 遵守了 GPLv2 许可证，该公司的协议只应用于未来的补丁， GPLv2 没有任何条款规定可应用于尚未开发、创造或发布的未来版本或更新。
+➜Ubuntu 下个版本将把窗口的关闭按钮转到右边
+https://www.solidot.org/story?sid=53347	19539
+根据用户的<a href="https://insights.ubuntu.com/2017/06/12/ubuntu-desktop-gnome-extensions-poll-results/" target="_blank"><u>投票结果</u></a>，Ubuntu 下个版本将把窗口的关闭、最小化和最大化按钮<a href="https://www.neowin.net/news/ubuntu-will-revert-window-controls-to-the-right-hand-side-in-next-release" target="_blank"><u>转移到右手边</u></a>。绝大多数软件窗口控制选项默认是在右手边，但 7 年前，Ubuntu 创始人 Mark Shuttleworth 坚持要将窗口控制选项转移到左手边，因为右手边被用于新引入的窗口指示器。现在，Ubuntu 已经决定放弃自己的桌面环境 Unity，改用 GNOME。开发者进行了投票，想知道是不是像 GNOME 那样将窗口控制选项默认设置在右手边。结果显示，46.2% 的用户偏爱左手边，53.8% 的用户偏爱右手边。
+➜StartCom 被发现使用交叉签名逃避浏览器的限制
+https://www.solidot.org/story?sid=53348	25282
+匿名读者</a> 写道 <i>"奇虎 360 旗下的 StartCom 在去年被发现签发假证书后<a href="http://www.solidot.org/story?sid=53016" target="_blank">被各种浏览器厂商取消了信任</a>。但研究人员发现 StartCom 的中间证书获取了法国根证书 Certinomis 的交叉签名，从而<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/RJHPWUd93xE" target="_blank">逃避了浏览器厂商的限制</a>。而这些逃避限制的 StartCom 中间证书已经<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/RJHPWUd93xE" target="_blank">颁发了很多不符合基本要求</a> (BR) 的 HTTPS 网站证书。
+火狐<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/RJHPWUd93xE" target="_blank">正在考虑</a>将这些 StartCom 的中间证书取消信任，欢迎大家<a href="https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/RJHPWUd93xE" target="_blank">去火狐的论坛发表意见</a>。"</i>
+➜淘宝宣布禁售日文游戏
+https://www.solidot.org/story?sid=53349	27341
+淘宝数码家电发表<a href="https://jiadian.bbs.taobao.com/detail.html?spm=a210m.7800401.0.0.67e1e1e6cFEJLs&amp;appId=14502&amp;postId=7926878" target="_blank"><u>官方公告</u></a>，宣布全网禁售日文游戏，通知声称是有关方面的规定，但没有给出具体的规定。公告称，<i>“根据有关管理部门规定，请所有游戏软件及游戏软件平台卖家对店铺类日文软件商品进行整改，所有相关游戏软件商品，不得在宝贝标题、宝贝图片、宝贝详情页出现语言版本为日文的版本信息。自该说明发布后，淘宝电玩将对全平台游戏软件进行排查，不符合上述规定的商品，将被下架、删除或扣分处理。请大家高度重视此项新规则，并尽快整改。卖家自行整改期：8 月 4 日 - 8 月 8 日，之后将进行系统下架或删除处理。”</i>
+➜美国航母战斗机利用电磁弹射器完成首次弹射
+https://www.solidot.org/story?sid=53350	30645
+美国海军空中测试与评估中队的一架 F/A-18F 超级大黄蜂战斗机上周在福特号航母上使用下一代飞行拦阻系统和电磁弹射器完成了<a href="https://arstechnica.com/gadgets/2017/08/uss-ford-launches-first-fa-18-software-fix-for-catapult-pending/" target="_blank"><u>首次着陆和弹射起飞</u></a>。 航母使用的电磁弹射系统此前在测试中曾遭遇控制问题，在 2014 年进行的早期测试中，弹射系统导致了 F/A-18 战斗机机翼剧烈振动，以至于海军军官担心满负荷战斗机起飞的安全性。开发电磁弹射和拦阻系统的通用原子公司更新了软件，在执行了一系列静负载测试后，上周完成了战斗机的首次弹射测试。
+➜中国政府资助地球工程研究
+https://www.solidot.org/story?sid=53351	32103
+北京师范大学、浙江大学和中国社科院<a href="https://www.technologyreview.com/s/608401/china-builds-one-of-the-worlds-largest-geoengineering-research-programs/" target="_blank"><u>获得了科技部的拨款</u></a>，研究地球工程。他们主要是理论方面的评估，探索相关政策和治理问题。地球工程是指应对全球气候变化、影响整个地球的工程。北京师范大学全球变化与地球系统科学院的英国籍专家 John Moore 称，他们目前的研究主要集中在分析地球工程对极地冰盖、海平面、农业和人类健康的潜在影响。浙江大学的大气科学家  Long Cao 和同行上周发表了一篇<a href="https://carnegiescience.edu/news/could-%E2%80%9Ccocktail-geoengineering%E2%80%9D-save-climate" target="_blank"><u>论文</u></a>，讨论了鸡尾酒工程，探索利用两类地球工程平衡负面环境影响
+➜Firefox 的重返光荣之路
+https://www.solidot.org/story?sid=53352	35988
+今天的浏览器市场和十多年前截然不同，不再是一家垄断，但搜索巨人的 Chrome 如今占据了超过一半的市场，昔日成功挑战 IE 的 Mozilla 希望通过发布 Firefox 57 回击 Chrome，<a href="https://www.cnet.com/special-reports/mozilla-firefox-fights-back-against-google-chrome/" target="_blank"><u>重新获得用户的青睐</u></a>。Firefox 57 预计将在 11 月发布，如果你已经使用每夜构建版，你应该会体验到浏览器的速度有了显著提升。Mozilla 的使命是保持互联网的开放性和活力，而今天却圈起了一个个围墙花园。这是 Mozilla 购买广告牌，告诉用户"Browse against the machine”和“Big browser is watching you”的原因。为了吸引用户，Mozilla 至少要让用户体会到 Firefox 对于竞争对手的优势，它通过 Quantum 项目去加快浏览器的改进：Stylo，加速格式化操作；Quantum Flow，修正导致速度下降的 bug；Quantum Compositor，加快网站展示。Firefox 57 将为使用 GPU 加速网页展示的 WebRender 奠定基础。
+➜中国网民人数超过 7.5 亿
+https://www.solidot.org/story?sid=53353	37938
+网信办管辖的中国互联网络信息中心（CNNIC）<a href="http://www.cnnic.net.cn/gywm/xwzx/rdxw/201708/t20170804_69449.htm" target="_blank"><u>发布</u></a>了第 40 次《<a href="http://cnnic.cn/hlwfzyj/hlwxzbg/hlwtjbg/201708/P020170803598956435591.pdf" target="_blank"><u>中国互联网络发展状况统计报告</u></a>》（PDF）。《报告》称，截至 2017 年 6 月，网民人数达到 7.51 亿，互联网普及率为 54.3%，手机网民达到 7.24 亿，网民中使用手机上网的比例由 2016 年底的 95.1% 提升至 96.3%。其它统计数据包括：IPv4 地址数 3.38 亿个、IPv6 地址数量达到 21283 块 /32 地址；中国网站数量为 506 万个，.CN 网站 270 万；国际出口带宽达到 7,974,779Mbps，其中中国电信最多，比例超过半数；网民在线下购物时使用过手机网上支付结算的比例达到 61.6%；共享单车用户规模达到 1.06 亿。
+➜哈佛被诉招生歧视亚裔
+https://www.solidot.org/story?sid=53354	42782
+众所周知，即使有着更出色的成绩，卓越的课外活动表现，常青藤名校的大门也没有对亚裔学生开放。亚裔组织曾向教育部投诉哈佛大学，引用第三方调查数据称，亚裔学生的 SAT 测试得分要比白人学生高 140 分，比西班牙裔学生高 270 分，比非洲裔学生高 450 分才可能获得与其他种族相等的录取机会。但投诉被教育部<a href="http://www.solidot.org/story?sid=44682" target="_blank"><u>驳回</u></a>。现在，对此现象不满的人<a href="https://cn.nytstyle.com/education-career/20170804/affirmative-action-battle-has-a-new-focus-asian-americans/" target="_blank"><u>选择向法院起诉</u></a>。起诉者是大学生公平录取组织，指控哈佛使用了一个不合法的配额制度，每年录取非裔美国人、西语裔美国人、白人和亚裔美国人比例大致相当，尽管申请率和生源质量有变化。该组织成员包括了亚裔美国人，组织总裁 Edward Blum 称，配额制违背了最基本的民权原则。哈佛发言人称该校的录取政策是公平的；它将每个申请者“视为一个整体”，遵循了最高法院确定的标准；该校提倡“与不同背景、生活经历和观点的人合作的能力”。
+➜苹果的麻烦可能才刚刚开始
+https://www.solidot.org/story?sid=53355	43454
+苹果根据中国政府的要求从其中国区应用商店移除了数百款应用，为了满足新生效的法规而在贵州设立数据中心。虽然苹果不同意中国政府的立场，但为了遵守中国的法律在中国继续经营下去它只能选择服从。对此许多苹果粉丝表达了不满，但是苹果是问题的根源吗？苹果现在除了在中国制造和出售手机，它还越来越多的提供各种服务，比如 Apple Music 和 Apple Pay。苹果也想在中国建立一个完整的生态系统，但同时这也加大了苹果面临的风险。在进军中国的美国大型科技公司当中，苹果的成功尤为亮眼，这在一定程度上是因为中国政府把它看做一家硬件公司。现在苹果显然不只是一家硬件公司了。科技行业顾问和资深中国观察人士认为，苹果能够在全球获得成功，得益于硬件和软件的紧密结合，而在软件这一块，内容的分量越来越重，这给中国政府带来挑战。一位美国科技公司前高管认为，<a href="http://cn.wsj.com/gb/20170804/LLW131758.asp" target="_blank"><u>苹果的麻烦才刚刚开始</u></a>。
+➜高中女孩开发 AI 系统诊断祖父的眼病
+https://www.solidot.org/story?sid=53356	45078
+16 岁高中女孩 Kavya Kopparapu 的生活非常丰富，她担任学校生物信息学会的会长，组织研讨会，甚至还运营者一个非营利组织。2013 年，她的印度祖父出现了糖尿病视网膜病变的症状，这种症状会导致失明。如果能及时治疗的话，眼睛不会有事。但绝大多数人并没有这么幸运。她的祖父虽然得到了治疗，但因为比较晚而眼睛受损。Kopparapu 因此想利用自己的计算机科学技术，<a href="http://spectrum.ieee.org/the-human-os/biomedical/diagnostics/teenage-whiz-kid-invents-an-ai-system-to-diagnose-her-grandfathers-eye-disease" target="_blank"><u>发明出能快速诊断眼部疾病的系统</u></a>。 Kopparapu 与她的弟弟 Neeyanth，高中同学 Justin Zhang 合作训练 AI 去识别眼部照片中糖尿病视网膜病变的迹象，提供一个初步诊断结果。这套系统包括了一个智能手机应用和一个 3D 打印的镜头。她在上个月的 O’Reilly AI 会议上展示了这套系统。NIH 的一位专家认为，这套系统还需要更多的临床诊断数据，认为它具有商业潜力，但可能会因为太廉价大企业看不上。
+➜科学家利用简单装置探测到中微子
+https://www.solidot.org/story?sid=53357	47582
+中微子是一种质量非常微小，与一般物质不发生相互作用的电中性粒子。探测中微子通常需要巨大的探测器，以提供足够的材料与中微子发生相互作用。美国橡树岭国家实验室的科学家在《科学》上发表<a href="http://science.sciencemag.org/content/early/2017/08/02/science.aao0990" target="_blank"><u>论文</u></a>，报告利用简单的装置探测到了中微子，并<a href="https://arstechnica.com/science/2017/08/after-43-years-gentle-touch-of-a-neutrino-is-finally-observed/?comments=1" target="_blank"><u>验证了 43 年前预言的理论</u></a>。他们的探测器使用了 14.6kg 的碘化铯，放在地下室，用光电探测器探测相互作用产生的光，地下室上方有汞罐。他们收集了一年多的数据，识别出了中微子进入了原子核，给原子核施加了一个动量。结果与理论预测的一致，可信度 6.7-sigma。

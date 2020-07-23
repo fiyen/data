@@ -1,0 +1,22 @@
+➜世纪佳缘和警方合作逮捕报告漏洞的黑客
+https://www.solidot.org/story?sid=48713	36860
+<div align="center"><img src="http://img.solidot.org/0/604/liKJhtz9dv2nc.jpg" align="" height="533" width="400"><br>
+<div align="center"><img src="http://img.solidot.org/0/607/liHC3HdFbAXIY.jpg" align="" height="533" width="400"><br>
+</div>
+</div>
+<div align="center"><img src="http://img.solidot.org/0/606/liVEf4RPTOaOU.jpg" align="" height="533" width="400"><br>
+<br>
+</div>
+一位白帽子黑客的父亲发表了一份公开信，称自己的儿子因为发现了世纪佳缘的漏洞而遭到逮捕。这位黑客<a target="_blank" href="http://www.wooyun.org/bugs/wooyun-2010-0216771"><u>发现世纪佳缘网站存在SQL注入漏洞</u></a>，在测试中获取了4000多条信息。他在去年12月将漏洞报告给乌云，通过乌云警告了世纪佳缘，世纪佳缘在修复漏洞后在今年1月通知了警方，今年3月他遭到了逮捕。他的罪名是基于《刑法》285条第2款，入侵获取网络金融证券系统身份认证信息 10 条以上、一般系统 500 条以上被认为情节严重。世纪佳缘的做法受到了广泛争议。
+➜俄罗斯杜马通过强制性要求消息应用内置加密后门的法案
+https://www.solidot.org/story?sid=48714	49164
+俄罗斯杜马周五<a target="_blank" href="http://www.dailydot.com/politics/encryption-backdoor-russia-fsb-bill-passes/"><u>通过了</u></a>强制性要求所有消息应用内置加密后门的法案。该法案要求互联网公司提供后门允许情报机构联邦安全局访问加密通信，除此之外互联网公司还被要求记录和储存所有客户消息六个月。俄罗斯杜马的投票结果是277票支持、148票反对和1票弃权。该法案还需要经过俄罗斯联邦委员会和克里姆林宫的批准才能成为正式法律，但应该不会遇到任何阻碍。很多流行的消息应用都支持加密，这一法律将对它们产生什么影响或者法律将会选择性执行，目前还不得而知。
+➜恶意程序能利用风扇噪音窃取物理隔离系统中的数据
+https://www.solidot.org/story?sid=48715	56585
+计算机物理隔离并不意味着其中的数据就能高枕无忧，多项研究显示，电磁辐射、热辐射等都能被用于窃取物理隔绝系统中的数据。以色列Ben-Gurion大学的研究人员创造了恶意程序Fansmitter，能利用被感染主机上的风扇<a target="_blank" href="http://news.softpedia.com/news/malware-can-use-fan-noise-to-exfiltrate-data-from-air-gapped-systems-505623.shtml"><u>去发送窃取的数据</u></a>。所有的数据本质上都是0和1的序列，Fansmitter在感染之后将接管风扇速度，使得二进制数0和1工作在不同的风扇速度下。Fansmitter能利用CPU、GPU和机箱风扇，有效工作距离1到4米，研究人员认为在这个距离上可以连接留在房间内的麦克风或智能手机去记录风扇速度。感兴趣的人可以阅读他们发表的论文《<a target="_blank" href="https://arxiv.org/ftp/arxiv/papers/1606/1606.05915.pdf">Fansmitter: Acoustic Data Exfiltration from (Speakerless) Air-Gapped Computers</a>》（PDF）。
+➜中国要求标明付费网搜结果，禁止缓存和链接违禁内容
+https://www.solidot.org/story?sid=48716	57741
+中国互联网最高审查机构网信办公布了《<a target="_blank" href="http://www.cac.gov.cn/2016-06/25/c_1119109085.htm"><u>互联网信息搜索服务管理规定</u></a>》，要求“不得以链接、摘要、快照、联想词、相关搜索、相关推荐等形式提供含有法律法规禁止的信息内容”，“发现搜索结果明显含有法律法规禁止内容的信息、网站及应用，应当停止提供相关搜索结果，保存有关记录，并及时向国家或者地方互联网信息办公室报告”，“明确付费搜索信息页面比例上限，醒目区分自然搜索结果与付费搜索信息，对付费搜索信息逐条加注显著标识”。政府在魏则西事件之后加强了对搜索引擎广告的监管，同时也明确了更严格的审查。
+➜Tor释出加固版Tor浏览器测试版
+https://www.solidot.org/story?sid=48717	58901
+Tor匿名项目与研究人员合作<a target="_blank" href="https://blog.torproject.org/blog/selfrando-q-and-georg-koppen"><u>释出了</u></a>加固版Tor浏览器测试版，整合了被称为Selfrando的安全技术，降低了浏览器被利用去匿名用户身份的可能性。在这之前，FB<a target="_blank" href="http://motherboard.vice.com/read/the-fbi-is-classifying-its-tor-browser-exploit"><u>I以国家安全的理由</u></a>拒绝公开Tor浏览器的漏洞。研究人员公布了<a target="_blank" href="https://people.torproject.org/~gk/misc/Selfrando-Tor-Browser.pdf"><u>Selfrando论文</u></a>，在Github上开源了<a target="_blank" href="https://github.com/immunant/selfrando"><u>Selfrando代码</u></a>，Tor释出了<a target="_blank" href="https://people.torproject.org/~linus/builds/tbb-nightly-hardened-2016-06-21/"><u>加固版Tor浏览器测试版</u></a>，其容量比非加固的Tor浏览器要大一倍，目前只支持Linux，还不支持Windows和OSX。

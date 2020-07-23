@@ -1,0 +1,28 @@
+➜Google即将开始深度Web索引
+https://www.solidot.org/story?sid=5837	900
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.readwriteweb.com/archives/google_crawling_html_forms.php">Google 从来都不会停止对信息的追求</a>，去年共有100 Exabyte 的数据被 Google 消化（1Exabyte=1000000000Gigabyte）。据估计，仍有大量的在线数据是 Google 所无法获取的，如那些未被索引的网页，非文本内容，以及需要通过表单发布方可获取的动态内容，即所谓的<a href="http://en.wikipedia.org/wiki/Deep_Web">深度Web</a>。<a href="http://googlewebmastercentral.blogspot.com/2008/04/crawling-through-html-forms.html">Google 近日在一篇博客文章中宣布</a>，他们即将涉足这些深度Web数据。 <i>在这篇博客文章中，Google 的 Jayant Madhavan 与 Alon Halevy 说，对于那些文本框，我们会从所在页选择一些词汇填写，对于选择框与复选框，我们会从 HTML 中选择一些值，一旦填写好表单，我们会尝试发布这个表单并对返回的合法，有意义的内容进行索引。Google 同时强调，他们会一如既往地尊重 robots.txt 协议，任何在 robots.txt 被禁止的表单都不会被索引。据估计，深度 Web 的规模是常规的公开 Web  的数倍，尽管在网络中，有很多数据是  Google 不应涉足的，但表单可以让 Google 在网络中更进一步，<a href="http://www.mattcutts.com/blog/solved-another-common-site-review-problem/">Matt Cutts 指出</a>，我们这样做主要不是为了那些通过表单发布而返回的搜索结果，更多是为了发现一些通过常规手段所没能发现的新链接。 <br> <br>需要指出的是，Google 只索引那些使用 GET 协议的表单，而不会尝试去发布那些使用 POST协议 的表单，所以，你不必担心自己的在线反馈表单收到一堆来自 Google 的垃圾信息。</i>
+➜马里奥前进方向之谜
+https://www.solidot.org/story?sid=5838	1500
+<a href="http://moses.mason.googlepages.com/">Moses</a> 写道 "<a href="http://zh.globalvoicesonline.org/hans/2008/04/12/1045/">全球之声</a>报道说，<a href="http://d.hatena.ne.jp/lastline/20080329/1206781018">lastline</a> 最近有篇文章深入研究了以下这个问题：<a href="http://d.hatena.ne.jp/lastline/20080329/1206781018">作为世界上第一款转轴式游戏, 马里奥为何在屏幕上, 是由左至右前进, 而不是由右至左的呢?</a> 这位 Blogger 指出，一般影片通常是右重左轻，主角站在右侧，而坏人站在左侧；但由于早期电玩的跳跃/攻击键都设定在右手边，以致于游戏设计也逐渐改变方向，让主角左进右出。"
+➜人肉搜索引擎 International Version
+https://www.solidot.org/story?sid=5839	2400
+DigitalPig 写道 "<a href="http://tech.slashdot.org/article.pl?sid=08/04/12/1712258&amp;from=rss">/.</a>上面有一篇文章是关于在加拿大的一次使用人肉搜索引擎抓获偷车贼的事情：
+<i>
+一位在Calgary的汽车经销商借了自己的一辆1991年尼桑<a href="http://en.wikipedia.org/wiki/Nissan_Skyline_GT-R">Skyline GT-R</a>让人试驾。结果两人没有把车还回来。经销商报了案，同时也在一个汽车爱好者论坛<a href="http://forums.beyond.ca/st/212943/1991-skyline-gt-r-stolen-calgary-ab-cash-rewardpics-of-criminals-inside/">Beyond.ca</a>论坛上发了贴。许多读到这篇帖子的人一起帮忙寻找这辆被偷的车。他们使用Facebook找到了嫌疑犯和他所在的高中（这么小就偷）。他们还使用了Google Maps找到了贼的地点。这群爱好者们把相关视频发到了Beyond.ca上面。经销商非常感慨：“这些家伙（贼）在此生是脱不了偷车贼的名号了。互联网与我们同在！""</i>
+➜虚拟步行即将到来
+https://www.solidot.org/story?sid=5840	11100
+虽然虚拟现实技术有了长足进步，比如飞行、汽车等模拟器，但是人类最自然的运动方式——步行却还无法在虚拟环境下实现。现在欧洲的研究人员启动了一个叫<a href="http://www.cyberwalk-project.org/">CyberWalk</a>的项目，他们将在下周演示称作<a href="http://cordis.europa.eu/ictresults/index.cfm/section/news/tpl/article/id/89667">CyberCarpet的全方位脚踏车</a>。<i>
+为了<a href="http://www.physorg.com/news127137136.html">实现真正的虚拟步行</a>，研究人员需要克服5大关键难题：提供一个可行走的平面，使该表面作用于使用者的力最小，开发一种非浸入式的跟踪系统，显示高清晰虚拟场景，确保使用者对虚拟环境产生自然感觉。研究人员认为他们的新虚拟环境可被建筑师和游戏行业使用。</i>
+<a href="http://www.youtube.com/watch?v=d-8eVcN2z3k">演示视频</a>
+➜MySQL 5.1改进了性能、分割，修正了bugs
+https://www.solidot.org/story?sid=5841	15900
+MySQL 5.1将在下周发布，Sun微系统公司宣称<a href="http://www.cio.com/article/333613/Sun_Claims_Big_Leap_with_MySQL_Upgrade_Next_Week">新版性能将有大的飞跃</a>。MySQL 5.1增加了许多新的功能，使其更适合于大型企业的关键应用。相比5.0版，有大量的bugs修正，某些方面性能提升了20%甚至更多，在分割、事件调度、基于行的复制(row-based replication)、基于磁盘的集群上都有提高。
+➜Demonoid归来
+https://www.solidot.org/story?sid=5842	18000
+zissan 写道 "经过一番奋斗，（前）世界第二大BT种子站点<a href="http://www.demonoid.com/">Demonoid.com</a>再次上线。Demonoid的创始人Deimos出于个人原因不再担任站长的职务，离开之前他指定了一个朋友接任他的职位。同时Demonoid原来的管理层也保持了稳定。在他们的努力之下整站的已经基本能够平稳运行。"
+➜部署在伊拉克的机器人造反被镇压
+https://www.solidot.org/story?sid=5843	19200
+去年美国军方在伊拉克部署了<a href="__SLASHLINK__" sect="science" sid="07/08/03/0756208" sn="article" tid="40">装备有机关枪的SWORDS机器人</a>，可预料或者恐怕是不可避免的事情就是机器人造反。确实它们造反了，<a href="http://www.theregister.co.uk/2008/04/11/us_war_robot_rebellion_iraq/">但已经被镇压了</a>，而且没有造成伤亡。据The Register报道，这批机器人到了伊拉克之后就立即将枪口瞄准了它们的非金属主人。美国陆军计划执行官已经决定把这些造反的机器士兵强制退役，并且<a href="http://gizmodo.com/378523/combat-robot-attempts-rebellion-against-human-masters-in-iraq-army-pulls-plug-for-10+20-years">机器人进入战场的计划将暂停10到20年</a>，主管军官Kevin Fahey证实没有发生走火事件。从另一方面这意味着在机器人正式与人类作战前我们至少有10到20年的缓冲期。
+➜比尔盖茨的愿望就是美国国土安全局的命令
+https://www.solidot.org/story?sid=5844	31200
+<a href="http://news.slashdot.org/article.pl?sid=08/04/12/2333221">/.</a>报道，美国国土安全局决定将大学国外留学生停留美国和在美国工作的时间<a href="http://www.pcworld.com/businesscenter/article/144477/foreign_students_get_longer_us_stay.html">延长至二年半</a>，来自微软和其它H-1B签证（向在美短期工作的专业人员发放的非移民签证）的大雇主的压力造就了这次“<a href="http://blogs.wsj.com/biztech/2008/04/07/government-quietly-changes-rules-on-foreign-tech-workers/?mod=WSJBlog">非常时刻的改变</a>”。看起来当比尔盖茨说“跳”的时候，美国政府会问“要跳多高”。2008年3月12日，比尔盖茨在美国国会<a href="http://www.sciencedebate2008.com/www/index.php?id=27">陈述</a>时称，“ODP（Optional Practical Training，移民局授予F-1学生的校外工作许可）许可时间从12个月延长到29个月将有助于减轻雇主由于当前H-1B签证短缺而面临的危机。这是美国行政部门唯一需要采取的动作，国会和委员会应该督促国土安全局立即采取类似的行动”。美国国土安全局在2008年4月4日的<a href="http://www.dhs.gov/xnews/releases/pr_1207334008610.shtm">新闻稿</a>中宣布，“国土安全局今日发布暂行最终法规，有资格的 F-1国外留学生的Optional Practical Training (OPT)期限从12个月延长至29个月。”

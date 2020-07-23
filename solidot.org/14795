@@ -1,0 +1,68 @@
+➜美国独立宣言上发现改动痕迹
+https://www.solidot.org/story?sid=18740	600
+faithful subjects of your Majesty 写道<i>
+"2010年7月4日是美国独立234周年纪念日。大约80年前，杰佛逊的《美国独立宣言》草稿被档案保管者封入塑料皮以便陈列展览。去年当这份文件被取出作短时间研究时，国会图书馆科学家Fenella France<a href="http://www.wired.com/wiredscience/2010/07/jeffersons-hidden-change-to-the-declaration/">发现一处不明显的污迹</a>，污渍上的单词为“公民”（citizens）。France使用高光谱分析法研究这块污渍。由LED打出分别处于13个离散光谱带的光，并用相机记录每种光谱带下的污渍。不同颜料、墨水和造纸发在某些波长的光下会呈现不同景象。通过伪色标记，France确定“公民”下被覆盖的单词是“臣民”（subjects）。France认为，杰佛逊一定是从当时刚拟就的<a href="http://www.nhinet.org/ccs/docs/va-1776.htm">弗吉尼亚宪法</a>上拷贝了这一词汇，将其修改为“公民”是因为他不认为美国人是英国的叛国者，而是一个新生国家的公民。"</i>
+➜Youtube遭到黑客攻击
+https://www.solidot.org/story?sid=18741	5040
+<a href="http://www.hi2020.com/">书评影评</a> 写道<i> "Yahoo<a href="http://news.yahoo.com/s/pcworld/20100704/tc_pcworld/googleacknowledgesyoutubehack">报道</a>，恶意黑客星期日利用Youtube网站上的跨站脚本安全漏洞对其实施了攻击。这次攻击主要影响到Youtube网站用户发表评论的栏目。谷歌发言人称，在发现问题的一个小时的时间里，用户评论栏目在默认状态下临时隐藏起来。他们在两个小时之内发布了一个全面的补丁修复了这个问题，并将继续研究这个安全漏洞以帮助阻止未来发生类似的问题。谷歌发言人称，这次攻击可能给访问Youtube网站被攻破的网页的那些拥有YouTube cookies的用户带来风险。不过，使用YouTube cookies不能访问用户的谷歌账户。Youtube用户应该退出账户并且重新登录。"</i>
+➜美国报社用F/OSS纪念独立日
+https://www.solidot.org/story?sid=18742	6300
+The Journal Register Company旗下拥有18家小型报纸，为了纪念7月4日独立日和富兰克林（Ben Franklin），该公司的新闻编辑室决定使用免费软件<a href="http://news.slashdot.org/story/10/07/04/1635257/Local-Newspapers-Use-FOSS-For-a-Day">制作当天的报纸</a>。通讯记者很快注意到，私有软件设计能高效、可靠和快捷的完成当天的报纸制作任务，而免费的替代则没有如此的效率。评论认为通讯员们已经习惯使用私有软件，他们熟悉软件的每个按钮，这种习惯要在一天内改变过来是不可能的事情。
+➜App Store被黑，iTunes帐号被窃
+https://www.solidot.org/story?sid=18743	8400
+两位iPhone App开发者<a href="http://www.alexbrie.com/archives/205">发现</a>App store的排名似乎<a href="http://apple.slashdot.org/story/10/07/04/212238/Users-Report-Foul-Play-In-App-Store-Rankings-Purchases?art_pos=3">被一位恶意开发者纂改了</a>，美国iTunes商店图书类别最受欢迎的50个应用程序中有40个属于同一位开发者Thuat Nguyen（<a href="http://skitch.com/alexbrie/dmbxw/ituneshack1">截图</a>）。同时Twitter实时搜索显示，有许多用户报告他们的iTunes帐号被盗用，他们的帐号花了二百多美元购买了他们从未购买过的应用程序，还有一位用户报告他的帐号多花了600多美元。因此最可能的情况是黑客用被黑的账户大量的购买应用程序去提升排名。该问题不仅仅限于美国的iTunes商店，英国也有用户反映帐号被盗。目前Thuat Nguyen的所有应用程序已被苹果移除。
+➜OpenOffice Linux版使用GStreamer
+https://www.solidot.org/story?sid=18744	10560
+OpenOffice.org开发者<a href="http://blogs.sun.com/GullFOSS/entry/better_multimedia_support_for_openoffice1">宣布</a>，未来的Linux和Unix版本将<a href="http://www.h-online.com/open/features/GNU-HURD-Altered-visions-and-lost-promise-1030942.html">使用GStreamer多媒体框架用于音频和视频内容播放</a>。<i>
+开发者最初是使用Sun的Java Media Framework(JMF)创建了一个多媒体版本。但随后OpenOffice图形项目负责人Kai Ahrens发现，JMF的效果没有预期的好，它已经有点落后于时代了。因此，Ahrens的团队决定基于开源的GStreamer框架从头开始打造一个全新的多媒体后台处理方案。GStreamer被许多发行版所支持，如Ubuntu。如果用户的系统已经安装了GStreamer，那么OpenOffice就无需再额外进行整合。</i>
+➜MIT研究人员开发出评估视力的应用程序
+https://www.solidot.org/story?sid=18745	17760
+MIT媒体实验室的研究人员开发出<a href="http://web.media.mit.edu/~pamplona/NETRA/">一款智能手机应用软件</a>，让用户能衡量自己眼睛的屈光不正（如近视、远视和散光），并提供矫正屈光不正的方法。<i>
+用户从一个售价2美元的光学适配器注视智能手机的屏幕，应用程序会在上面展示发光的条纹，通过调整显示器直至条纹对齐。然后用户需要在不同地点和不同方位重复进行上述操作。这款应用程序在不同清晰度的智能手机上有不同的效果。以Nexus One手机为例，它能帮助判断出0.4<a href="http://zh.wikipedia.org/zh-cn/%E5%B1%88%E5%85%89%E5%BA%A6">屈光度</a>以内的屈光不正，而清晰度更高的iPhone 4手机，则能提高至0.28屈光度以内。在缺乏有经验的眼科医生和诊断设备的发展中国家，这种廉价的诊断屈光不正的方法将能得到广泛应用。</i>
+<a href="http://web.media.mit.edu/~pamplona/NETRA/NETRA_LabCast.mov">视频</a>（Mov）
+➜GNU HURD失败的启示
+https://www.solidot.org/story?sid=18746	23400
+<a href="http://en.wikipedia.org/wiki/GNU_Hurd">HURD</a>原本是要成为GNU操作系统的真正内核，然而它从未真正降临人间。Linus Torvalds曾经<a href="https://groups.google.com/group/comp.os.minix/msg/9f3c7c165aacc83f?pli=1">写过</a>，如果GNU kernel在1991年春天发布，他不会启动Linux项目。GNU操作系统项目始于1984年，在Linux出现之前它有7到8年的时间创造出一个可用的内核，然而它的开发进程，不时被频繁的改变中断，<a href="http://www.h-online.com/open/features/GNU-HURD-Altered-visions-and-lost-promise-1030942.html?view=print">它原先创造完美内核的承诺也在这个过程中放弃了</a>。<i>
+Richard Stallman(RMS)在1983年9月建立了GNU项目，当时没人相信他能创建一个类似UNIX的完整操作系统，但十分固执的RMS没有改变他的伟大目标。在内核诞生之前，前期的工作已经陆续完成，如编辑器、编译器、bash、make、autoconf和emacs等都已经开发了出来。但RMS在开发GNU Emacs时的遭遇对整个项目产生深远影响。<br>
+RMS听说了名叫“Free University Compiler Kit（简称VUCK）”的编译器，于是写信给作者询问是否可以在GNU中使用，结果作者傲慢的回信称，大学也许“免费（Free）”，但编译器要收费。RMS于是创造了GCC。在此期间RMS改变了GNU项目背后的哲学概念，强调了自由软件的意义，并将其写入GPL许可证中。<br>
+这一变化对HURD项目的影响是：内核必须发布到公有领域...HURD最初取名为Alix，这一名字来自RMS的“恋人”，不过内核架构师Thomas Bushnell更偏爱HURD这个名字，它是“HIRD of Unix Replacing Daemons”的间接递归缩写....GNU项目与卡内基梅隆大学达成协议，于1991年5月正式宣布HURD项目，它将基于卡内基梅隆大学的Mach微内核。但在当年的4月，Torvalds已经开始酝酿Linux项目。</i>
+➜iPad上运行Flash
+https://www.solidot.org/story?sid=18747	24900
+<a href="http://www.7yue.com/">咬苹果</a> 写道 <i>"<a href="http://www.quickpwn.com/spirit-jailbreak">Spirit Jailbreak</a>是一个iPhone/iPod touch/iPad的越狱工具。现在，Spirit Jailbreak的作者又将Flash Player插件移植到iOS的浏览器中(<a href="http://v.youku.com/v_show/id_XMTg3MDYxMjk2.html">优酷视频</a>)。相信这很快会成为用户们的又一个越狱理由。"</i>
+➜BBC新网站侮辱Facebook粉丝
+https://www.solidot.org/story?sid=18748	25200
+BBC推出了一个与奥林匹克运动会有关的<a href="http://news.bbc.co.uk/sport1/hi/olympic_games/world_olympic_dreams/default.stm">新网站</a>，但该网站显然尚未制作完成，内容十分粗糙。其中在“Follow US”栏目，BBC写道“You can also become a saddo on facebook（<a href="http://themediablog.typepad.com/.a/6a011570c131b2970c0133f20d97e8970b-400wi">截图</a>）”。<a href="http://www.thefreedictionary.com/saddos">saddo</a>是英国俚语，表示某人可悲或无能。把别人说成saddo，<a href="http://news.slashdot.org/story/10/07/05/007237/BBC-Web-Slip-Up-Insults-Facebook-Fans">是侮辱人或不尊重人</a>。
+➜Python 2.7发布
+https://www.solidot.org/story?sid=18749	26700
+Python发布了<a href="http://www.python.org/download/releases/2.7/">2.7版</a>。Python 2.7是2.x分支计划中的最后一个大更新版本，新版加入了Python 3.1中引入的一些新特性。包括：有序字典类型；更快的IO模块；新的单元测试框架（unittest）；Tkinter封装器支持Tile；字典view，sysconfig模块等等。
+➜谷歌中国的ICP牌照通过“年检”
+https://www.solidot.org/story?sid=18750	27720
+<a href="http://finance.bjnews.com.cn/2010/0705/28107.shtml">新京报</a>和<a href="http://tech.sina.com.cn/i/2010-07-05/15184387404.shtml">新浪网</a>报道，谷歌中国的ICP牌照“ICP证合字B2-20070004号”已经通过了年检。谷歌大中华区公关总监王锦红证实，谷歌中国已经在首页作出了修改，重新挂出了ICP证。王锦红称，ICP牌照的有效期为5年，到2012年失效，在此期间每年会定期参加年检。
+➜俄罗斯女间谍如何推销她的网络公司
+https://www.solidot.org/story?sid=18751	29760
+FBI最近抓捕了11位俄罗斯间谍，其中最受人关注的是出生于1982年的女间谍<a href="http://en.wikipedia.org/wiki/Anna_Chapman">Anna Chapman</a>，她被控洗钱，面临最高20年徒刑，她的父亲是位KGB高级官员。她是借用网络公司创业者的身份去掩盖间谍行为。CNN<a href="http://edition.cnn.com/2010/SHOWBIZ/Movies/07/02/salt.jolie.spies/index.html?hpt=C2">播出</a>了她于今年4月参加纽约创业者周的视频，内容是<a href="http://www.zdnet.com.tw/news/web/0,2000085679,20146463,00.htm">她介绍自己创办的房地产网站</a>。<i>
+Chapman的公司名为Property Finder，但她宣称自己正在注册另一个网站域名为NYCRentals.com。该网站号称：“…是提供现有纽约市公寓、房地产新闻和其他资讯的大型、对用户友好的网站。我们的数据库有超过2万笔每日更新的纽约市公寓和其他类型出租房产的资料。我们的终极目标，是消除您寻找新家过程中的所有障碍。”Chapman表示她创业的动机单纯只是想助人。她宣称自己在纽约找房子的经验，让她对现有的线上服务很失望，并且自称有投资银行家的经验，因此相当熟悉一个成功的线上房地产事业，需要哪些技术。</i>
+➜让PC在睡眠时工作
+https://www.solidot.org/story?sid=18752	32400
+《MIT技术评论》<a href="http://www.technologyreview.com/computing/25677/?a=f">报道</a>，通过在服务器上创建数十台电脑的虚拟拷贝，SleepServer能大幅减少电脑的电力消耗。<i>
+现在的电脑几乎都是24/7开着，以允许雇员在上班时间外访问办公电脑，例如网管要备份，员工要访问某个文件等等。但在多数时间里这些电脑都是空闲的，浪费了大量电力。因此加州大学San Diego的计算机科学家<a href="http://mesl.ucsd.edu/yuvraj/">Yuvraj Agarwal</a>，与<a href="http://cseweb.ucsd.edu/~savage/">Stefan Savage</a>教授和<a href="http://mesl.ucsd.edu/rgupta/">Rajesh Gupta</a>教授一起开发出了<a href="http://mesl.ucsd.edu/yuvraj/research/sleepserver.html">SleepServer</a>软件。软件是在远程服务器上运行桌面电脑的一个虚拟镜像。如果有人要从某台机器上下载文件，那么他可以从SleepServer镜像里下载，无需唤醒电脑。如果任务比较复杂，SleepServer可以在10秒内唤醒处于睡眠模式中的电脑。运行SleepServer的服务器可以最多储存500台电脑的镜像。研究人员在试验中让30台PC使用SleepServer两周时间，电脑的电力消耗下降了27%到86%——平均下降了60%。</i>
+➜毒药和无害物之间只有细微差别
+https://www.solidot.org/story?sid=18753	34920
+吸入柴油机尾气中的一种化合物，可能会让你得癌症；吸入另一种化合物，却什么也不会发生。当了解到这两种化合物几乎一样时，<a href="http://news.sciencemag.org/sciencenow/2010/06/scienceshot-subtle-shift-makes-a.html?rss=1">你是否会感到惊讶</a>？<i>
+它们都有四个六碳环，差异在于环上的氮化合物位置。无害的化合物2-NBA，氮化合物连接环上的第二个碳；有毒的化合物3-NBA，则在环的第三个碳上。细微的差别产生了完全不同的结果，当煤烟分子3-NBA与人体酶结合，它会产生毒性，使细胞癌化。</i>
+➜下世纪气温可能将创新高
+https://www.solidot.org/story?sid=18754	37800
+stranger ( @wmrofficial ) 写道<i> "对知名气候科学家的一项调查发现，如果二氧化碳排放继续保持目前的进程，全球气候完全有可能陷入不可预料的状态。并给人类社会带来未知的后果这14名科学家部是各自所在气候研究领域中的专家。他们被问到，如果全球变吸继续按照政府间气候变化问题研究小组（IPCC）所预言的最糟糕的情形发展，那么在2200年之前的某个时候出现“拐点”（气候系统的根本改变）的概率有多大。这14名科学家中有9人认为，<a href="http://www.independent.co.uk/news/science/scientists-expect-climate-tipping-point-by-2200-2012967.html">对于最严重的假想状况，出现“拐点”的概率大于90%</a>，只有一位科学家认为这一概率低于50%。按照目前的二氧化碳排放速率，世界气候的发展进程将会符合IPCC所推测的气温较高的全球变暖曲线。这项发表在《国家科学院学报》上的调查由卡内基—梅隆大学的格兰杰·摩根所领导的团队进行....所有专家一致认为，下一个世纪我们很可能目睹全球平均气温的上升。这种上升是过去1万年中从未有过的...如果不采取任何行动限制燃烧石油和煤炭等矿物所产生的排放，那么目前的二氧化碳浓度水平——大约是380ppm（ppm为百万分之一）——很可能上升到1000ppm。"</i>
+普林斯顿大学研究可见光和红外辐射相互关系的William Happer教授<a href="http://globalwarming.house.gov/files/HRG/052010SciencePolicy/happer.pdf">在众议院举行的听证会上称</a>（PDF），人类进化史上曾经经历过二氧化碳浓度达到1000 ppm（化石记录）；更高的二氧化碳浓度未必会让地球表面温度增加多少度，主要原因是水蒸汽和云的负反馈效应，抵消了二氧化碳的变暖效应（证据来自卫星对逃逸到外太空的红外辐射测量和大气对流层表面温度测量）。
+➜详解Google如何完成一次搜索
+https://www.solidot.org/story?sid=18755	40560
+<a href="http://yi-it.com/">take.IT.easy</a> 写道<i> "PPCBlog发表了一张图片，详细解释了网页从被Google网络蜘蛛爬取到收录、到索引，再到用户进行和完成一次<a href="http://yi-it.com/blog/?p=822">Google搜索是如何进行</a>（<a href="http://ppcblog.com/how-google-works/">英文</a>）的。图片简洁明了，还描述了Google Adwords产生的过程，对了解Google搜索如何完成一次完整的搜索阐述的非常直观。"</i>
+➜更年期的数学
+https://www.solidot.org/story?sid=18756	41220
+在长寿的动物中，科学家只发现三种动物有更年期：人类、短肢领航鲸和虎鲸。为什么这三种动物如此特别？一项新研究发现<a href="http://news.sciencemag.org/sciencenow/2010/06/the-mathematics-of-menopause.html">这可能与它们独特的社会结构有关</a>。
+<i>
+更年期发生卵子耗尽之后，标志着生育的结束。然而进化更偏爱产生更多的后代，为什么一些物种会放弃繁殖？研究人员提出了“祖母假说”，年老女性照顾孙辈，有利于基因的延续，因为她如果继续生育，将面临分娩时或在子年年幼时死亡的风险。但这无法解释为什么短肢领航鲸和虎鲸也有更年期。剑桥大学的进化生物学家Rufus Johnstone和Exeter大学的Michael Cant建立了一个数学模型分析交配模式带来的人口动态变化。短肢领航鲸和虎鲸的交配模式与人类组建新家庭的方式不同，雌性和雄性在交配后是返回各自原来的大家庭。研究人员发现，独特的交配模式导致了不同年龄段雌性个体数量的增加——这一趋势有利于年轻繁殖者和老年抚养者的分工，因此老年雌性进化出更年期。研究人员相信他们的模型也适用于人类。但其他进化生物学家对此表示怀疑。</i>
+➜用C++重写的Compiz 0.9.0发布
+https://www.solidot.org/story?sid=18757	50040
+混合窗口管理器<a href="http://zh.wikipedia.org/zh-cn/Compiz">Compiz</a>项目<a href="http://lists.freedesktop.org/archives/compiz/2010-July/003429.html">发布了0.9.0版</a>。<i>
+新版是自开发者在0.8版本后宣布用C++语言替代C语言重写代码后发布的首个版本。主要特性包括：向开发者提供了全新的API；编译系统从automake换成cmake后所带来的功能上的改进；使用新API用C++重写插件；渲染框架分担给composite和opengl插件；等等。 0.9.0版是不稳定版本，主要面向测试者和开发者，用户可以等待未来的0.10.x稳定版本。</i>

@@ -1,0 +1,12 @@
+➜特斯拉赢得在中国的商标权诉
+https://www.solidot.org/story?sid=38166	53607
+电动汽车制造商特斯拉本周宣布了在中国出售的特斯拉Model S汽车起售价——人民币73.4万元（约合12.1万美元），远高于美国的售价7.99万美元，高出的部分主要是增值税、关税和运输成本。中国进口汽车的高关税是为了保护中国的汽车工业，而中国本国的电动汽车<a target="_blank" href="http://cn.wsj.com/gb/20140124/bch145115.asp"><u>还能享受政府补贴</u></a>，最高售价不超过20万人民币。特斯拉本周的另一个好消息是它在中国法院<a target="_blank" href="http://slashdot.org/story/14/01/25/0019200/tesla-wins-one-over-chinese-trademark-troll"><u>赢得了商标诉讼</u></a>。中国商人Zhan Baosheng于2006年在中国注册了特斯拉商标，并设立了一个叫特斯拉汽车中国的小网站，暗示特斯拉如果开价百万美元的话可以将商标转让出去。特斯拉通过诉诸法庭解决商标分歧。特斯拉中国副总裁Veronica Wu表示他们赢得了商标诉讼，不需要付钱给Zhan Baosheng。目前特斯拉在中国使用的名字是<a target="_blank" href="http://www.teslamotors.com/zh_CN/"><u>Te Si La</u></a>。
+➜Gmail bug导致一位Hotmail用户收到大量空白邮件
+https://www.solidot.org/story?sid=38167	54882
+<div align="center"><img src="http://img.solidot.com.cn/0/3/liGWPfA6BDX8Y.png" align="" height="159" width="420"><br>
+<br>
+</div>
+在Gmail服务发生大规模<a target="_blank" href="http://www.google.com/appsstatus#hl=en&amp;v=status&amp;ts=1390590512049"><u>宕机</u></a>事故的同时，一位Hotmail用户收到了数以万计的来自Gmail的空白邮件。TechCrunch<a target="_blank" href="http://techcrunch.com/2014/01/24/gmail-glitch-is-causing-thousands-of-emails-to-be-sent-to-one-mans-hotmail-account/"><u>报导</u></a>，如果用户在登录状态下在Google上搜索Gmail，点击第一个搜索结果下的Email链接（如图所示，图像来自TC），就有可能触发这个Bug。点击该链接后会跳转至电子邮件的撰写窗口，收件人地址栏已被自动填上一位Hotmail用户的地址dsp559@hotmai.com。这位叫David S. Peck的用户证实他每小时收到了数以百封的邮件，而且大部分是空白邮件。
+➜RMS谈GCC、LLVM和Copyleft
+https://www.solidot.org/story?sid=38168	57496
+ESR(Eric S.Raymond)在GCC邮件列表上发贴<a target="_blank" href="http://gcc.gnu.org/ml/gcc/2014-01/msg00176.html"><u>预言</u></a>，LLVM/Clang编译器将在3到5年内威胁到GCC的统治地位，认为GCC编译器的反插件政策正成为一大障碍。虽然Clang尚未达到GCC的成熟度，但在某些方面它拥有比GCC更出色的特性，例如错误信息。ESR建议GCC应允许非自由的插件。帖子在邮件列表上<a target="_blank" href="http://lwn.net/Articles/582242/"><u>引发了</u></a>有关GCC和Clang的热烈<a target="_blank" href="http://gcc.gnu.org/ml/gcc/2014-01/threads.html#00176"><u>讨论</u></a>。自由软件基金会主席、GCC原作者RMS（Richard Stallman）<a target="_blank" href="http://gcc.gnu.org/ml/gcc/2014-01/msg00208.html"><u>回应</u></a>称，非自由的软件是一种非正义，我们的目标是消灭非正义，给予计算机用户自由。他指出，LLVM的许可协议对自由软件社区而言是一个可怕的挫折。他认为，GCC为了要赢得与Clang的编译器之战而允许非自由插件，那么即使胜利也将是空洞的，因为胜利无关乎真正重要的东西：用户的自由。

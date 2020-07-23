@@ -1,0 +1,32 @@
+➜GAE增加15个appid
+https://www.solidot.org/story?sid=39116	15041
+<a href="http://https://appengine.google.com">股沟怎么样的呢</a> 写道<i> "
+某宅很久没有没有登录过&nbsp;&nbsp;Google App Engine 的管理界面了，今天由于某软件软件故障，上传新的服务端。由于记错和账号的对应了，所以登录 GAE 管理界面，发现有个新的服务协议什么之类的，没有太理会直接接受，然后惊喜发现多出来 15 个 appid（总共有25个，以前是10个），瞬间对 google 产生极大的好感。登录了 3 个账户都是这样，简单看了一下配置信息感觉和之前的 appid 是一样的，不确定是否是所有用户都是这样。具体情况，<a href="https://appengine.google.com/" target="_blank">请登录自行查看</a>
+"</i>
+➜开源文化不再仅仅局限于开发者
+https://www.solidot.org/story?sid=39117	19638
+<a href="mailto:wxy@linux.cn">linux</a> 写道 "近日，据Linux 基金会的一项新调查显示，“企业管理者认识到，企业不仅迫切需要开源软件，而且也率先参与开源软件的研发。”这一点反过来也巩固了开源软件作为企业关键驱动力的地位，而不仅仅是一种高效的代码编写方式。
+readwrite.com <a href="http://readwrite.com/2014/03/26/open-source-development-business-managers-users-linux-foundation-study" target="_blank">撰文评论</a> （<a href="http://linux.cn/article-2844-1.html" target="_blank">全文译文</a>），主要结论如下：
+<ul>
+<li><i>与开发者不同，企业开始使用开源软件是出于不得已。
+</i></li><i>
+</i>
+<li><i>35% 的开发者在业余时间会使用开源软件，并会以贡献代码的方式参与到开源软件的开发中来。
+</i></li><i>
+</i>
+<li><i>44% 的受访开发者表明，贡献开源软件的首要原因是工作需要。
+</i></li><i>
+</i>
+<li><i>有趣的是，拥有十年甚至更多开发经验的软件开发者更有可能在业余时间参与贡献开源软件，而开发经验不满十年的开发者更有可能是出于工作需要。
+</i></li><i>
+</i>
+<li><i>人们对开放协同开发抱有令人兴奋的乐观主义信念。
+</i></li><i>
+</i>
+<li><i>各种组织对协同软件开发的期待都是出于驱动有形商业利益的目的。"</i></li></ul>
+➜GCC 4.9.0 RC版发布
+https://www.solidot.org/story?sid=39118	45408
+GCC 4.9.0释出了<a target="_blank" href="ftp://gcc.gnu.org/pub/gcc/snapshots/4.9.0-RC-20140411/"><u>预发布版（RC）</u></a>，正式版预计将在4月22日发布。新版的变化<a target="_blank" href="http://gcc.gnu.org/gcc-4.9/changes.html"><u>包括</u></a>：Solaris 9架构被宣布废弃，如果无人活跃开发，下一个版本将彻底移除；ARM架构支持AddressSanitizer，改进链接时优化，过程间优化和反馈向优化；C和C++编译器支持 OpenMP 4.0规格；改进C++11和C++1y支持；完整支持Go 1.2.1；支持Power ISA 2.07及硬件事务性内存；支持英特尔AVX-512、Silvermont和 Broadwell架构，AMD Excavator架构等等。
+➜GNOME基金会面临现金流危机
+https://www.solidot.org/story?sid=39119	49328
+GNOME基金会的Ekaterina Gerasimova<a target="_blank" href="http://thread.gmane.org/gmane.comp.gnome.foundation.general/9824"><u>宣布</u></a>，由于预算短缺，基金董事会成员于4月8日投票<a target="_blank" href="https://wiki.gnome.org/FoundationBoard/CurrentBudgetFAQ"><u>冻结所有非必要的开支</u></a>。导致现金枯竭的一个原因是致力于推动女性参与开源自由软件开发的Outreach Program for Women(OPW) 项目太受欢迎了。项目的参与组织数量和实习生人数增长过快，负责管理财务的GNOME赶不上进度。除此之外，GNOME基金会还在为两大会议GUADEC和GNOME.Asia寻找赞助，主要是寻找感兴趣的法国和中国的企业。

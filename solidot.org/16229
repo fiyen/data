@@ -1,0 +1,18 @@
+➜中央情报局开设 Twitter 和 Facebook 帐号
+https://www.solidot.org/story?sid=39847	23408
+<a href="http://https://moses.appspot.com">Moses</a> 写道 <i>"美国中央情报局CIA已开设 Twitter 和 Facebook 帐号与大众沟通. 中情局称将在社交媒体上分享非机密信息. 并提供中情局任务, 历史和其它发展相关的资讯.&nbsp;中情局还将发表平常不对外公开的中情局博物馆物件照片, 并适时更新中情局各国年鉴.&nbsp;中情局发的<a href="https://twitter.com/CIA/status/474971393852182528" target="_blank">第一条推文内容</a>是 ''We can neither confirm nor deny that this is our first tweet.''&nbsp;展示的幽默感令推友兴奋异常."</i>
+➜id Software创始人在Softdisk开发的游戏开源
+https://www.solidot.org/story?sid=39848	44189
+约翰·卡马克（John Carmack）、约翰·罗梅洛（John Romero）、阿德里安·卡马克（Adrian Carmac）在成立id Software前是Softdisk的雇员。他们在开发的游戏大卖后一起辞职创建了id。他们在Softdisk开发的游戏现在属于Flat Rock Software。Flat Rock Software决定在GPLv2许可证下<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTcxMjM"><u>开源id创始人开发的游戏</u></a>——包括CatacombAbyss、Catacomb3D、TheCatacomb、Catacomb和Hovertank3D，<a target="_blank" href="https://github.com/FlatRockSoft/"><u>源代码</u></a>托管在Github上。和id开源的游戏一样，Flat Rock Software只开源了游戏引擎，游戏数据没有开源。Catacomb是用Borland Turbo Pascal 5.5编写，而Hovertank3D等则是用 C++。
+➜维基百科眼里的最有影响力历史人物
+https://www.solidot.org/story?sid=39849	53691
+不同国家和不同文明有着不同的历史名人，中国学校讲的历史名人与美国学校讲的历史人物显然存在巨大差异。此类的偏见在不同语言版本的维基百科中也有反映，比如中文版维基百科有更多链接指向蒋介石的条目，链接数比德语版要多得多。维基百科条目的链接网络提供了一种客观方式评估历史人物的重要性。法国Toulouse大学的Young-Ho Eom和同事利用网络理论根据重要性为维基百科上24种语言版本的历史人物进行排名，然后比较一下哪些人物的影响力跨越了不同文化。他们分析的结果<a target="_blank" href="https://medium.com/the-physics-arxiv-blog/wikipedia-mining-algorithm-reveals-the-most-influential-people-in-35-centuries-of-human-history-ede5ef827b76"><u>可能有点出人意料</u></a>：历史上最有影响力的人物是发明通用生物分类系统的瑞典生物学家卡尔·林奈（Carl Linnaeus），之后是耶稣。历史上最有影响力的女性是伊丽莎白二世，之后是圣母玛利亚。中文维基百科上最有影响力的人物<a target="_blank" href="http://www.quantware.ups-tlse.fr/QWLIB/topwikipeople/tables/Top100PR_ZH_Info.txt"><u>前十五</u></a>是：卡尔·林奈、毛泽东、拿破仑、亚里士多德、蒋介石、耶稣、孙中山、孔子、汉武帝、朱元璋、爱因斯坦、秦始皇、希特勒、诺贝尔和周恩来。俄语的前五是：彼得大帝、卡尔·林奈、拿破仑、亚历山大·普希金和斯大林。印度语是：耶稣、卡尔·林奈、释迦牟尼佛、威廉·莎士比亚和亚历山大大帝。英文是：拿破仑、奥巴马、卡尔·林奈、伊丽莎白二世和乔治W布什。<a target="_blank" href="http://arxiv.org/abs/1405.7183"><u>研究报告</u></a>发表在预印本网站上，详细排名可访问<a target="_blank" href="http://www.quantware.ups-tlse.fr/QWLIB/topwikipeople/"><u>这个网址</u></a>。<br>
+<br>
+<div align="center"><img src="http://img.solidot.com.cn/0/342/lidsgwJmQng.jpg" align=""><br>
+</div>
+➜研究称微软没修复Windows 7的安全问题
+https://www.solidot.org/story?sid=39850	56169
+<div align="center"><img src="http://img.solidot.com.cn/0/343/liCvnEXLt5eTc.jpg" align="" height="236" width="560"><br>
+<br>
+</div>
+研究人员利用比较代码差异的工具<a href="https://github.com/pinkflawd/DiffRay">DiffRay</a>扫描了Windows 8和Windows 7上的900个Windows库文件，声称发现证据<a target="_blank" href="http://www.theregister.co.uk/2014/06/06/patch_piker_redmond_means_win_8_fixes_skip_7_researchers_say/"><u>显示</u></a>微软修复Windows 8的安全问题但没有修复Windows 7，推测微软此举是为了省钱，但将Windows 7用户暴露在安全风险之中。存在差异的库文件是 intsafe.h和 strsafe.h，它们专门被用于帮助对抗多种攻击。详细可查看他们发布的<a target="_blank" href="https://www.troopers.de/wp-content/uploads/2013/11/TROOPERS14-What_Happens_In_Windows_7_Stays_In_Windows_7-Marion_Marschalek+Joseph_Moti.pdf"><u>幻灯片</u></a>和<a target="_blank" href="https://www.youtube.com/watch?v=s_7Cy2w2dCw"><u>视频</u></a>。研究结论还<a target="_blank" href="http://tech.slashdot.org/story/14/06/07/1621213/microsoft-fixing-windows-8-flaws-but-leaving-them-in-windows-7"><u>存在不少争议</u></a>。

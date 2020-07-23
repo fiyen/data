@@ -1,0 +1,21 @@
+➜Firefox Nightly版默认启用多进程
+https://www.solidot.org/story?sid=44097	19468
+Firefox朝着正式支持多进程架构迈出了一大步：它的<a target="_blank" href="https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox"><u>Nightly版</u></a>开始默认<a target="_blank" href="https://nightly.mozilla.org/"><u>启用多进程</u></a>。Firefox的竞争对手IE和Chrome都支持多进程，每个标签一个进程的设计有助于改进浏览器的稳定性，一个标签挂起或崩溃不会影响整个浏览器。Firefox的多进程版本代号为Electrolysis（简写为 e10s），而目前的稳定版本是整个浏览器运行在单一的操作系统进程上。根据Mozilla的多进程架构迭代计划：第一步是先将浏览器UI和所有标签隔离开，分别运行在不同的进程上；然后是让每个标签运行在各自的进程上。多进程架构的改变对用户不会构成影响，但会影响代码需要直接访问Web内容的扩展开发者。
+➜安全研究员承认曾短暂控制一架商业航班
+https://www.solidot.org/story?sid=44098	21073
+根据一封最新公开的<a target="_blank" href="https://www.documentcloud.org/documents/2082796-gov-uscourts-nynd-102002-1-0.html"><u>搜查令申请</u></a>，航空计算机安全研究员Chris Roberts承认曾短暂控制至少一架商业航班。Roberts告诉FBI，他利用机载娱乐系统的漏洞访问了飞机网络中的其它系统，覆写了引擎推进管理系统的代码，然后成功的发出了爬升的指令，让一架横向运动中的飞机爬升。根据《连线》<a target="_blank" href="http://www.wired.com/2015/05/feds-say-banned-researcher-commandeered-plane/?mbid=social_twitter"><u>报道</u></a>，Roberts回应称搜查令中的这段话是断章取义，但没有进一步做出解释。Roberts曾在今年4月在其搭载的飞机着陆后被FBI拘留和询问。原因是飞行期间他在Twitter上宣称访问了飞机的发动机指示和机组警告系统。FBI特工询问了4个小时，没收了他的iPad、MacBook Pro和储存设备。
+➜微软解释盗版用户升级到Windows 10后仍然是盗版
+https://www.solidot.org/story?sid=44099	42058
+微软官方博客<a target="_blank" href="http://blogs.windows.com/bloggingwindows/2015/05/15/genuine-windows-and-windows-10/"><u>详细解释了Windows 10的升级</u></a>，再次澄清盗版用户升级后仍然是盗版。微软的Terry Myerson称，正版Windows 7和Windows 8.1可以免费升级到Windows 10，微软将会在设备寿命期限内一直提供更新。正版客户的许可证必须是合法授权的，不是篡改的。对于盗版用户，微软将会创建一个桌面水印通知用户，如果客户在一台新机器上看到水印，微软鼓励客户退还机器，要求正版授权，接着它又说一番陈词滥调：盗版有安全风险，甚至会影响机器性能。Myerson强调微软不会为盗版设备提供支持，但盗版设备可以升级到Windows 10的说法没有变。他说，微软计划通过合作伙伴向合作伙伴的盗版客户提供非常有吸引力的Windows 10升级方案。这一非常有吸引力的offer应该不是免费。奇虎360是微软的合作伙伴之一，<a target="_blank" href="http://360.cn/huodong/win10/index.html"><u>它在网站上宣传免费送Windows 10</u></a>，但没有澄清盗版360用户是否能升级为正版Windows 10。
+➜化身丧尸，副财长吃GST恶果
+https://www.solidot.org/story?sid=44100	47828
+<a href="http://kejixianfengdui.blogspot.com/">fredericktcw</a> 写道 "自从4月1日GST消费税实施以后，马来西亚财政部副部长拿督阿末马斯兰就一直以政府卫士自居，不断唱好GST。其中，不乏一些引起人民反弹的言论，特别是“大学生自己煮就能豁免GST”，让他成为人民攻击对象，俨然成为了大马最不受欢迎的政客。
+<i>日前，Google Play Store出现了一款名为“马斯兰3.85”的新游戏，在游戏里头阿末马斯兰化身为丧尸，玩家必须射杀阿末马斯兰取得分数，否则就会被化身丧尸的阿末马斯兰所杀。不过在新闻媒体报道之后就立刻下架了，至于下架原因无法得知。
+<p></p>
+<p>这款游戏为何取名为“马斯兰3,85”，因为阿末马斯兰曾自夸在大学期间，取得3.85的大学平均分。这句话成为了网民揶揄的话题，也成为了游戏的名字。
+</p>
+<p>尽管如此，游戏创造者很快的又发布了两个同性质的新游戏，即”<a target="_blank" href="https://play.google.com/store/apps/details?id=com.wMASLAN385ExtendedVersion"><u>马斯兰3.85延长版”(Maslan 3.85 Extended)</u></a>和“掌掴马斯兰”(Tampar Maslan) 。这两个游戏都是免费的，游戏概念是目让玩家宣泄对消费税的不满。游戏创造者在游戏简介里头也表示：“对消费税失望？对部长的伤人言论感到愤怒？别担心，在马斯兰3.85延长版尽情释放你的愤怒吧！”、“对消费税失望？别担心，用掌掴马斯兰释放你的愤怒吧！”当然，为了保护自己，游戏创造者还是得声明，“马斯兰3.85”和“掌掴马斯兰”并没有影射任何重要人物或者公务员，如有雷同纯属巧合。任何因此游戏而导致的不良影响，游戏创造者将不负责。"</i>
+➜维持粮食自给自足的代价日益昂贵
+https://www.solidot.org/story?sid=44101	48481
+《经济学人》<a target="_blank" href="http://www.economist.com/news/china/21651276-drive-self-sufficiency-food-comes-growing-cost-bitter-harvest"><u>报道</u></a>（需注册），中国为维持粮食自给自足而在农业补贴上付出的<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/press_review/2015/05/150515_economist_china_farm_subsidies"><u>代价日益昂贵</u></a>。<i>
+文章以“蔗糖第一大市”广西省崇左为例，“北京的官员为鼓励亏蚀农民继续种植甘蔗，考虑直接提供补贴”，“廉价的进口蔗糖本应使崇左的农民深陷财政困难，但他们得以勉强支持下去，全靠中央政府补贴全国蔗糖业的政策。” “这反映中国农产品的一个普遍问题：成本日增，收成的回报停滞不前，政府为保障农民生计而提供越来越多的资助。中国在2011年成为全球最大农产品进口国。根据经济合作和发展组织的数据显示，中国在2012年补贴农民的开支达1650亿美元，比五年前增加一倍。文章认为中国政府的补贴政策造成恶性循环。政府对稻米、小麦、玉米等设定的最低购入价比世界平均价格高，导致农民只种植这些作物而不开发新品种。“小麦和玉米需要大量灌溉。由于政府的补贴，即使在水源短缺地区的农民也大量种植这些作物。农民为增加收成使用的化学品则进一步污染水源。”</i>

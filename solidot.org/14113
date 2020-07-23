@@ -1,0 +1,61 @@
+➜热力学视野下的进化论
+https://www.solidot.org/story?sid=7523	720
+time 写道 "早在1888年，统计力学的奠基人玻尔兹曼就考虑过热力学和进化论之间的关联。1925年美国数学家Alfred J.
+Lotka在自己的著作中表示了对生物系统也服从物理规则的信心。现在，来自赫尔辛基大学(University of
+Helsinki)的Ville Kaila 和 Arto Annila利用最小作用原理而提供的熵增和自由能减低之间的关联，<a href="http://www.physorg.com/news137679868.html">把这项工作更近了一步</a>。
+<i>
+一个生态系统通过自然选择的方式产生进化过程，它耗散能量，增加熵，整个系统趋向均衡态(熵最大)。尽管它是有生命的，但是符合如下特点：趋向均衡态，没有高能的外部环境。正是通过这种方式，Kaila 和 Annila 在《英国皇家学会会报A》上发表论文 "<a href="http://journals.royalsociety.org/content/50874678nw60t5l2/?p=a05b0184a5764f4a807eb7dd14e84d03&amp;pi=0">Natural
+selection for least action</a>"，表示热力学第二定律可以写成描绘进化过程的运动方程。<br>
+<a href="http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/seclaw.html">热力学第二定律</a>有多种表达形式。在这篇文章里选取了其中的两种。一种是写成运动的微分方程，即表达为能量转换过程。在这种表达中，自然选择过程偏好那种在生态系统中使得熵更快增加的随机变化。第二种则写成积分形式，即表达为最小作用原理：通常来说，运动选取能量最小的路径。Kaila和Annila展示了如何通过化学热力学的方式将自然选择和最小作用原理联系起来。同一物种的不同变异个体会探索不同的路径以图最快的增熵。这些变异最终会聚集于最可能实现的那条路径上----这条路进肯定是最短的，并且能量变化最陡峭。它使得系统趋向均衡态，在生态体系中这种状态表示该系统具有合适数量的植物、食草生物和其它能量转换机制(有生命的和无生命的)，以保证该系统获得最高的能量耗散速度。(熵是对能量耗散的一种度量)。<br>
+在生物学语言中，两个类似的物种(即类似的能量转换机制)争夺相同的能量来源(例如食物)，具有哪怕是微小效率优势的物种(例如爪子、牙齿等)将比另一方
+获得更多，即更多的能量流过优势物种。优势物种的数量将会增加。在物理表达中，这一过程被描绘成逐步和自然地选择更有效和更陡峭路径的能量流动。这个可从李雅普诺夫稳定性判据(Lyapunov stability
+criterion)推出的物理过程，就是生物学中的竞争排除原则(competitive exclusion
+principle)。有害变异将减少指向产生变异群体的能量流，使得未变异群体获得更强的竞争力，从而获得更多能量流。</i>
+研究者表示这一抽象理论只适用于对进化提供一个全面的图景，而不适合解释具体某个物种的进化过程。"
+➜谣言称NVIDIA准备推出x86处理器
+https://www.solidot.org/story?sid=7524	2160
+有谣言称，<a href="http://www.theinquirer.net/gb/inquirer/news/2008/08/20/nvidia-announce-x86-chip">NVIDIA正准备推出x86处理器</a>，直接瞄准两大竞争对手Intel和AMD/ATI开火。<i>
+IDF大会上流传着一个很火爆的谣言，Nvidia将推出x86处理器，很有可能于下周在Nvision宣布。Nvidia公司当然有实力研制CPU，但是它并没有许可证去销售它们。Nvidia基本上是被锁住门外，除非Intel和AMD两者大发善心。所以不用满怀期待的等待事情发生。这只会导致法律诉讼，任何没有许可证就进入市场的人只会被Intel K死。</i>
+➜形似Wall-E的机器人赢得了英国战场机器人挑战赛
+https://www.solidot.org/story?sid=7525	3000
+与DARPA（美国国防部高级研究计划署）<a href="http://www.popularmechanics.com/blogs/technology_news/4229973.html">城市挑战赛</a>类似，英国军方也举行了无人参与的自治机器人障碍挑战大赛<a href="http://www.popularmechanics.com/science/robotics/4278604.html">Ministry of Defence Grand Challenge</a>：在一个模拟村庄中，机器人遵循指令寻找潜在目标和区分出敌军部队，路边炸弹和隐藏的狙击手。<i>最终胜利者是南安普敦<a href="http://blog.wired.com/defense/2008/08/british-robot-s.html">Stellar Research Services公司的SATURN系统</a>，外形似Wall-E。SATURN系统实际上包含了三种组件：低空无人飞行器，地面轮式机器人能向高空的机器人中继信号飞机发送侦查数据，飞机可以再将情报发回控制中心。官方新闻稿称，“国防部正仔细评估技术验证是否能最终整合进未来军队的前线作战工具，获胜团队有可能开发出一种能迅速部署到前线的产品，也可能没有单一的系统能提供解决今日所面临威胁的完美方案。”</i>
+➜AMD的OverDrive和CrossFire技术进驻Linux平台
+https://www.solidot.org/story?sid=7526	3900
+去年，AMD宣布要让ATI显卡对Linux更友好，它发布了<a href="__SLASHLINK__" sect="developers" sid="08/02/24/0712222" sn="article" tid="75">3D编程指南</a>，帮助了开源社区，同时还继续为Linux平台开发二进制催化剂驱动，最新的显卡发布时就<a href="__SLASHLINK__" sect="hardware" sid="08/06/20/0735239" sn="article" tid="22">随同支持Linux</a>。<i>20日他们发布了<a href="http://ati.amd.com/support/drivers/linux/linux-radeon.html">Catalyst 8.8 Linux driver</a>，增加了两项重要的新特性，CrossFire和 OverDrive支持。现在Linux用户也能用多个GPU渲染工作，还能使用二进制驱动对显卡超频。Phoronix分别对<a href="http://www.phoronix.com/vr.php?view=12775">AMD OverDrive on Linux</a>和<a href="http://www.phoronix.com/vr.php?view=12776">ATI Radeon CrossFire On Linux</a>进行了分析和评测。新驱动的其它特性包括支持Linux 2.6.26 kernel ，自适应抗锯齿（Adaptive Anti-Aliasing）和其它修正。</i>
+➜如何向教皇讲解科学
+https://www.solidot.org/story?sid=7527	6480
+9月份的《发现》杂志介绍了天主教科学院（<a href="http://en.wikipedia.org/wiki/Pontifical_Academy_of_Sciences">Pontifical Academy of Sciences</a>），一个独立性和有影响力的机构。一般天主教信徒可能对其成员名单丝毫不了解，但是其中不乏20世纪的科学巨人，如<a href="http://zh.wikipedia.org/w/index.php?title=%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E6%99%AE%E6%9C%97%E5%85%8B&amp;variant=zh-cn">马克斯普朗克</a>（Max Planck），<a href="http://zh.wikipedia.org/w/index.php?title=%E5%B0%BC%E5%B0%94%E6%96%AF%C2%B7%E7%8E%BB%E5%B0%94&amp;variant=zh-cn">尼尔斯波尔</a>（Niels Bohr），和<a href="http://zh.wikipedia.org/w/index.php?title=%E5%9F%83%E7%88%BE%E6%96%87%C2%B7%E8%96%9B%E4%B8%81%E6%A0%BC&amp;variant=zh-hans">埃尔文薛定谔</a>(Erwin Schrödinger)。现阶段它的成员据称有超过80位国际科学院院士，有许多是诺贝尔奖金获得者，如李远哲；但并非所有都是天主教徒，如霍金（Stephen Hawking）。<i>天主教科学院的宗旨是<a href="http://discovermagazine.com/2008/sep/18-how-to-teach-science-to-the-pope">促进数学、物理和自然科学的发展，参与认知论相关问题的研究</a>。1992年<a href="http://zh.wikipedia.org/w/index.php?title=%E8%8B%A5%E6%9C%9B%C2%B7%E4%BF%9D%E7%A6%84%E4%BA%8C%E4%B8%96&amp;variant=zh-hans">约翰保罗二世</a>（John Paul II）曾说，“你们科学院的宗旨是细心的去辨明，去传达科学的现状和它本身的局限，哪些可以被视作真理，哪些至少可被认为具有一定的可能性，拒绝它将是不明智和没有道理的。”
+目前教皇和科学院的关系暗示，在天主教中科学问题已经<a href="http://www.vatican.va/roman_curia/pontifical_academies/acdscien/documents/rc_pa_acdscien_doc_20020103_index_general_en.html">达到了前所未有的重要程度</a>。“我们来自世界各地——有多种宗教和观点”，物理学家、诺贝尔奖金获得者及激光的发明者<a href="http://en.wikipedia.org/wiki/Charles_Hard_Townes">Charles Hard Townes</a>表示，“在教廷，科学家的参与是必不可少的，我们尝试着帮助天主教，对于他们的政策提供建议。世界上的许多文明并不直接受科学和技术决策的影响，但是他们会受到天主教训令和决定的影响。”</i>
+➜沃森有韩国或亚洲人血统？
+https://www.solidot.org/story?sid=7528	10080
+DNA之父<a href="http://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E6%9D%9C%E5%A8%81%C2%B7%E6%B2%83%E6%A3%AE">沃森</a>（James Watson）常因为出言不逊而备受人指责：他说黑人先天智力不如白人，所以令他对非洲的前途未敢乐观；还说过不想雇用肥胖者，应该用基因工程改造“相貌不佳的女性”和笨人。<i>
+基因研究先锋<a href="http://en.wikipedia.org/wiki/Craig_Venter">Craig Venter</a>和沃森都已经公开了自己完整的基因组序列，对沃森基因的研究显示出一些有意思的发现，比如他的NDA中<a href="__SLASHLINK__" sect="internet" sid="07/12/27/0530218" sn="article" tid="71">来自黑人的基因比典型的欧洲白人高出16倍</a>。而Venter最近更是<a href="http://scipao.blogspot.com/2008/08/james-watson-is-korean.html">比较了自己和Watson的基因差异</a>，以解释个人化医药时代，基因本身是比种族更重要的当作判断药物疗效与安全的依据。其中比较了几个药物代谢基因CYP的差异，结果发现，在CYP2D6这个基因上，Watson拥有白人罕见的基因型。而Watson的CYP2D6的基因型*10在亚洲人种里很常见，包括中国人有50-70%，日本人有40%左右，韩国人有50% 。
+因此，北卡大学的药理学家Howard McLeod说，<a href="http://www.newscientist.com/channel/health/dn14568-watson-vs-venter-the-loser-is-racebased-medicine.html">沃森有韩国或亚洲人血统</a>。被潜影响了？</i>
+➜2008年是本世纪最冷的一年
+https://www.solidot.org/story?sid=7529	20400
+英国气象局收集的数据显示，由于西太平洋上发生的拉尼娜现象（La Nina effect），<a href="http://news.bbc.co.uk/2/hi/science/nature/7574603.stm">2008年的气温将是罕见的寒冷</a>。<i>不用担忧，随着拉尔娜现象的退却，它对接下来几年的温度影响将会减少。但是，另一个自然循环——“<a href="http://news.bbc.co.uk/2/hi/science/nature/7376301.stm">大西洋数十年震荡</a>”（<a href="http://en.wikipedia.org/wiki/Atlantic_Multidecadal_Oscillation">Atlantic Multidecadal Oscillation</a>）预测下一个10年全球气温将会很稳定而非变暖。如果这些预测是正确的，那么我们行星上的热能可能有一部分储存在了其它地方，除非<a href="http://www.swpc.noaa.gov/SWN/index.html">太阳的发热量减少</a>而不是增加，或者地球吸收的热能减少了，或者.....</i>
+➜DNS中毒袭击中国网通的用户
+https://www.solidot.org/story?sid=7530	21900
+ZDNet报道，中国最大ISP之一的<a href="http://blogs.zdnet.com/security/?p=1776">DNS服务器中毒了</a>，用户错误输入的域名会被重新定向至一个恶意网站，并利用一些众所周知的漏洞侵入受害者的电脑。<i>根据Websense安全实验室发出的<a href="http://securitylabs.websense.com/content/Alerts/3163.aspx">警告</a>，DNS中毒攻击正影响中国网通（CNC）的用户，攻击者使用恶意iFrame，利用RealPlayer、Adobe Flash Player和Microsoft Snapshot Viewer上的漏洞。当用户输入了错误域名，他们一般会被定向到ISP预先设立的广告网页，这也可以让ISP获得额外的收入来源。但在网通的事件中，用户被定向到攻击者控制的网页上。</i>
+安全专家Dan Kaminsky证实，<a href="http://news.cnet.com/8301-1009_3-10022303-83.html?part=rss&amp;subj=news&amp;tag=2547-1009_3-0-20">DNS缓存中毒攻击正在互联网上蔓延</a>。
+➜伊朗宣布载人太空飞行计划
+https://www.solidot.org/story?sid=7531	23760
+上周日，伊朗发射了第一颗人造卫星，美国国防部称发射失败，卫星<a href="http://www.reuters.com/article/worldNews/idUSN1927773920080819">未能进入轨道</a>（伊朗坚持称卫星进入了轨道，谴责美国怀疑和贬低伊朗人民所取得的<a href="http://news.xinhuanet.com/world/2008-08/22/content_9599896.htm">科学技术成就</a>）。之后，伊朗政府官员发表声明，<a href="http://www.msnbc.msn.com/id/26329776/">宣布将在10年内将伊朗宇航员送入太空</a>。发射卫星到太空所使用的技术亦可被用于发射武器，但伊朗表示他们没有计划将这项技术用于发射核弹头。
+➜喜剧明星Jerry Seinfeld帮助推销Vista
+https://www.solidot.org/story?sid=7532	26160
+微软与喜剧明星<a href="http://en.wikipedia.org/wiki/Jerry_Seinfeld">Jerry Seinfeld</a>签订合同，<a href="http://www.pcpro.co.uk/news/220605/microsoft-enlists-seinfeld-in-vista-battle.html">耗资3亿美金制定Vista广告宣传计划</a>，试图扭转Vista操作系统的负面形象。<i>比尔盖茨也将在广告中露面，他曾经在“<a href="http://video.msn.com/video.aspx?mkt=en-us&amp;vid=be9075bb-df0a-41c9-8d86-7ded46627e26">比尔的最后一天</a>”视频展示了其喜剧细胞。但是让苹果Mac用户感到好笑的是，Seinfeld在许多电视节目中，其背景总是出现麦金塔电脑。</i>
+➜暴雪发布《巫妖王之怒》开场视频
+https://www.solidot.org/story?sid=7533	28800
+在莱比锡游戏展（Leipzig Games Convention）上，暴雪发布了即将推出的《魔兽世界》资料片《巫妖王之怒》的开场CG。<a href="http://www.worldofwarcraft.com/wrath/intro.xml">暴雪官网</a>上也已经推出高清视频的在线播放或通过Blizzard downloader程序下载。暴雪的CG一向制作的很精致，<a href="http://www.wowtaiwan.com.tw/upl/downloadfiles/WotLK_TW.rar">中文语音版下载</a>，<a href="http://game.21cn.com/zhuanqu/wow/wotlk/2008/08/22/5101701.shtml">语音中文翻译</a>。
+➜法官称，版权拥有者在发出撤除通知前应考虑合理使用
+https://www.solidot.org/story?sid=7534	31320
+美国地区法官Jeremy Fogel称，版权拥有者在向视频共享网站发出撤除通知前应<a href="http://blog.wired.com/27bstroke6/2008/08/judge-copyright.html">先考虑他们作品的合理使用</a>（Fair Use）。<i>美国的数字千年版权法（DMCA）为了保护著作权拥有者，允许他们发出撤除侵权内容通知。法官Jeremy Fogel认为合理使用是一种对著作权的合法使用，版权拥有者应该先考虑版权材料是否是被合理的使用。Fogel指出版权拥有者滥用撤除通知是对DMCA的误用。这一诉讼案起源于一位滨州妇女拍摄了29秒的视频，视频中她的孩子跟随着Prince的《Let's Go Crazy》跳舞，环球唱片去年以DMCA名义向YouTube发出撤除通知。Stephanie Lenz坚持它属于合理使用，该视频在6周后又重新上线，点击率超过了50万次。电子前哨基金会代表Lenz，要求法官判决被告支付律师费和其他未指明的金钱损害。</i>
+➜尼日利亚外交官说，贪心的尼日利亚骗局受害人应该入狱
+https://www.solidot.org/story?sid=7535	33600
+《悉尼先驱晨报》报道，尼日利亚驻澳大利亚的高级专员说，那些被所谓“尼日利亚骗局”欺骗的受害者和骗子一样有罪，<a href="http://www.smh.com.au/news/technology/jail-greedy-scam-victims-diplomat/2008/08/21/1219262419867.html">应该被判入狱</a>。<i>尼日利亚外交官是对21日《先驱晨报》上的一篇报道作出的回应，报道透露每年澳大利亚人在网络欺骗上损失至少3600万美元。Sunday Olu Agbi说，澳大利亚人未能听从反复的警告，不应该在互联网与可疑的人做交易。他说媒体报道的“尼日利亚骗局”给该国造成了“坏印象”，“那些想要与我们做生意的人总是疑心重重”。</i>
+➜Firefox中国用户数下跌，卸载率居首
+https://www.solidot.org/story?sid=7536	44280
+linuxrocks 写道 "尽管<a href="http://www.mozillaonline.com/">谋智中国</a>的推广活动不断，从世界纪录下载日到中国吉祥物 G-Fox 以及奥运版火狐，可中国的 Firefox 用户数却在下降。<i>根据<a href="http://blog.mozilla.com/metrics/">Mozilla 官方数据</a>，<a href="http://blog.mozilla.com/metrics/2008/08/20/its-official-indonesia-loves-firefox/">中国8月最近两周的 Firefox 用户数比5月中的两周少了8.6%</a>。虽然期间有 Firefox 3 的新版发布，却没有用户数增长，情况更不乐观。而在火狐卸载统计中，<a href="http://blog.mozilla.com/metrics/2008/08/21/a-first-look-at-the-uninstall-survey/">来自中国的卸载占全球火狐卸载数的30%</a>，稳居第一。调查甚至发现，中国人更愿意填写卸载火狐后弹出的原因调查，Mozilla 觉得可能我们文化上有极其喜欢填表的倾向。遗憾的是，被投票最多原因是“其它”。而在印尼等东南亚国家，火狐用户数却在这个夏天大幅增长。"</i>
+➜对 Linux 感兴趣的国家排名
+https://www.solidot.org/story?sid=7537	45900
+<a href="http://www.operachina.com/">linuxrocks</a> 写道 "<a href="http://royal.pingdom.com/">Pingdom 网站</a>做了一项调查，它假设 Linux 的搜索量和使用量呈正比，得出对各个 Linux 发行版占有最高的国家排名。<i> 结论非常有意思，尽管 Linux 在西方发源，现在却在东方比西方更流行。猜测原因是这些国家收入低，只好用免费 Linux 满足对系统的需求。对 Linux 最感兴趣的前五个国家是印度，古巴，俄罗斯，捷克和印尼。Ubuntu 的前五排名为意大利，古巴，印尼，挪威和捷克。openSUSE 前五：俄罗斯，捷克，马尔多瓦，德国，印尼。Fedora 前五：斯里兰卡，孟加拉，印度，尼泊尔，津巴布韦。更多数据和地图化分布请见<a href="http://royal.pingdom.com/?p=340">原文</a>"</i>

@@ -1,0 +1,25 @@
+➜使用 Adobe AIR 管理 WordPress 评论
+https://www.solidot.org/story?sid=8394	8460
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<a href="http://www.danieldura.com/code/moderator"> Moderator </a> 是一个基于 <a href="http://www.adobe.com/products/air/">Adobe AIR</a> 的应用程序，可以运行在桌面，它包含一个 <a href="http://www.wordpress.com/">WordPress</a> 插件，用户可以直接在桌面上<a href="http://news.cnet.com/8301-17939_109-10075163-2.html?tag=mncol;title">管理 WordPress 博客中的用户评论</a>，可以删除不当评论，或将某些评论设为 Spam。安装之后，Moderator 会自己运行于桌面，自动获取你的 WordPress 博客中的评论，不必使用浏览器登陆 WrodPress 后台，你只需要简单地选择接受，删除或是设为 Spam，就可以对评论进行管理。这个由 Daniel Dura 开发的 Adobe AIR 程序本周刚刚发布，尚处于测试期，将来的版本将包含直接回复，管理多博客，接近实时的通知等功能。 <a href="http://www.danieldura.com/moderatorfiles/moderator_plugin.zip">下载地址</a>
+"
+➜近半的美国医生经常开安慰剂
+https://www.solidot.org/story?sid=8395	12960
+《纽约时报》报道，在一项全国性的随机调查中，<a href="http://www.nytimes.com/2008/10/23/health/23placebo.html?_r=1&amp;oref=slogin">有一半美国医生承认经常向病人开安慰剂</a>。<i>
+这一结果让医学伦理学家感到忧心，他们认为需要更多的研究去判断医生是否为了让安慰剂起效而欺骗病人。接受调查的有679名内科医生和风湿病医生，一半的人表示会固定的推荐安慰剂。在丹麦、以色列、英国、瑞典和新西兰的调查也发现了相似的结果。美国医生通常使用的安慰剂是头疼药片、维他命、抗生素和镇静剂。医生表示这些药主要帮助安慰病人的精神。</i>
+➜Distributed.net完成25刻度最优哥隆尺问题
+https://www.solidot.org/story?sid=8396	17100
+哥隆尺问题（<a href="http://en.wikipedia.org/wiki/Golomb_ruler">Golomb ruler</a>），以数学家Solomon W. Golomb名字命名，在组合数学、编程理论和通信领域具有重要的作用。所谓的<a href="http://www.equn.com/forum/thread-4312-1-2.html">哥隆尺</a>是指在一个固定整数长度的尺上不等长地划分最少的刻度，并能用此尺度量由1到该整数的每一个单位的问题。例如OGR-6是在6cm的尺上按0、1、4、6划分刻度，即可连续量度1、2、3、4、5、6cm的每一距离。<i>
+<a href="http://distributed.net/">Distributed.net</a>就是寻找最优哥隆尺的分布式计算网格，10月25日<a href="http://n0cgi.distributed.net/cgi/dnet-finger.cgi?user=bovine">宣布</a>经历8年运算的<a href="http://www.distributed.net/ogr/">OGR-25</a>分布式计算项目终于寻找到了最优哥隆尺：“尺的总长度是480，最优划分刻度如下：0 12 29 39 72 91 146 157 160 161 166 191 207 214 258 290 316 354 372 394 396 431 459 467 480(可以根据间距换另一种表达方式：12-17-10-33-19....)。”有124387人参与了该项目，有两个人分别独立的发现了最优尺，其中一个是在2007年10月10日，另一个是在2008年3月24日。</i>
+➜小鸟创造11570公里的不间断飞行记录
+https://www.solidot.org/story?sid=8397	20400
+一只被命名为E7的小型雌性斑尾塍鹬（<a href="http://en.wikipedia.org/wiki/Bar-tailed_Godwit">Bar-tailed Godwit</a>）创造了不间断飞行的记录——在从阿拉斯加向新西兰迁徙的过程中，没有停留没有进食一直<a href="http://www.stuff.co.nz/4736979a7693.html">飞行了惊人的11570公里</a>(维基百科数据，文章称最远距离达13690公里)。<i>
+根据发表在《皇家学会学报B（<a href="http://publishing.royalsociety.org/">Proceedings of the Royal Society B</a>）》的一项鸟类的国际研究报告，科学家通过通过卫星监控斑尾塍鹬的迁徙，结果发现这种鸟能够连续飞行5天到9天，不眠不休。少数鸟儿中途在南太平洋岛上停歇后重新上路。这种鸟飞行时消耗的能量是休息时的8到10倍。</i>
+➜Shuttleworth谈文件系统
+https://www.solidot.org/story?sid=8398	34560
+Mark Shuttleworth在博客上讨论了怎样做<a href="http://www.markshuttleworth.com/archives/223">才能让文件系统更具用可用性</a>。他认为用户需要一种方法能让web和内容分享与本地操作一样简易。他说：<i>
+“我最主要关心的是每一种桌面环境都能互相结合。我们需要在使用GNOME、KDE、OpenOffice和Firefox时有一种连续的体验，内容能无缝的从一个应用程序流动到另一个应用程序，用户希望无论他们使用的是应用程序还是桌面，都无区别。如果有人通过Empathy传给我一个文件，我想在Amarok中打开它，我不需要去处理两种完全不同的数据储存模式。类似的，如果我用Firefox从网络上下载一个文件，想用OpenOffice编辑，我不需要知道如何将应用程序和内容对应起来。”</i>
+➜手机银行业帮助印度战胜贫困
+https://www.solidot.org/story?sid=8399	39600
+《MIT技术评论》深入报道了<a href="http://www.technologyreview.com/printer_friendly_article.aspx?id=21533&amp;channel=business&amp;section=">手机银行业正在改变许多印度穷人的生活</a>。<i>
+印度11亿人口中的大多数都缺乏获得某种金融服务，但是通过手机和相应的软件，用户可以去管理合法的银行账户和小额贷款。手机改变了千万印度人的生活，也催生了像<a href="http://www.mchek.com/">mChek</a>这类的软件公司，如今它的软件正被50万人使用，允许用户用手机去支付电话账单，购买少量商品和服务，如机票和电影票。印度有超过4.5亿人口处于贫困线下——每天生活费用低于25卢比（约3.4元人民币）。然而他们中的许多人开始购买手机，印度的手机市场急剧扩张。截至2008年8月，有3.5亿印度人拥有手机，仅仅8月份就增加了超过900万，让印度成为成长最快的和仅次于中国的第二大移动市场。根据增长比率，观察者相信到2012年印度手机用户将接近7.5亿。</i>
+<a href="http://www.technologyreview.com/video/?vid=40">视频报道</a>

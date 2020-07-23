@@ -1,0 +1,79 @@
+➜Mozilla发布首个整合JaegerMonkey的版本
+https://www.solidot.org/story?sid=19959	5100
+Mozilla刚刚发布了<a href="__SLASHLINK__" sect="software" sid="10/09/08/0155259" sn="article" tid="39">Firefox 4 Beta 5</a>，它的Sunspider测试得分（(518.6 ms）仍然低于IE9的最后一个平台预览版IE9 PP4(474.2 ms)。<i>
+现在它发布了首个整合了新版JavaScript引擎JaegerMonkey的<a href="http://nightly.mozilla.org/js-preview.html">预览版Firefox JM</a>(9月8日)，在JavaScript性能上<a href="http://blog.mozilla.com/rob-sayre/2010/09/09/js-benchmarks-closing-in/">超过了IE9 PP4</a>，缩小了与Safari、Opera和Chrome的差距。它的Sunspider测试得分是451.8 ms，V8得分也超过了IE9，仍然不如竞争对手Opera和Chrome。但这些进步意味着Mozilla<a href="http://tech.slashdot.org/story/10/09/09/2018218/Mozilla-Unleashes-JaegerMonkey-Enabled-Firefox-4">再次加入了竞争行列</a>。</i>
+➜Broadcom开源 802.11n无线驱动
+https://www.solidot.org/story?sid=19960	6000
+<a href="http://wowubuntu.com/">riku</a> 写道 "Broadcom 是来自美国的知名的有线及无线通讯半导体公司，相信很多用户的笔记本中都安装着这家的无线产品，比如 BCM43xx 无线网卡系列，我的笔记本上也装着型号为BCM4312的无线网卡。但一直以来，这家硬件供应商对开源社区并不友好，虽然 Broadcom 的集成芯片被广泛的使用于各类无线网卡中，但他们从来没有提供过任何开源的 Linux 驱动或相应的规范。
+<i>长期以来像 bcm43xx 和的 B43 这样的社区项目，只能通过自已创建 Linux 驱动及使用从 Windows 提取的固件来使用 802.11 网卡得以在 Ubuntu 这样的 Linux 发行版上正常工作。但今天据来自于 Phoronix 的<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=ODU4Mg">消息</a>说， Broadcom 这次作了一个重大的转变，为最新的 Broadcom 802.11n 芯片组发布了<a href="http://git.kernel.org/?p=linux/kernel/git/gregkh/staging-next-2.6.git;a=commit;h=a9533e7ea3c410fed2f4cd8b3e1e213e48529b75">驱动程序源代码</a>。
+</i>这个由 Broadcom 用 mac8011 堆栈开发的开源驱动原生支持 Linux kernel ，支持 BCM4313，BCM43224，BCM43225 芯片组，而且在未来会支持更多基于此框架的 Broadcom 的芯片。这个新驱动名为 BCRM80211，目前已经可以在 Linux staging-next tree 中找到它的身影了。<a href="http://wowubuntu.com/broadcom-opensource.html">详细介绍</a>"
+➜VLC开发者向苹果递交iPad版本
+https://www.solidot.org/story?sid=19961	7080
+著名开源媒体播放器<a href="http://applidium.com/en/news/vlc_media_player_available_for_the_ipad">VLC的开发者</a>已经向苹果<a href="http://apple.slashdot.org/story/10/09/09/1839215/Open-Source-VLC-Media-Player-Coming-To-iPad">递交了VLC的iPad版本</a>，如果能通过苹果不可捉摸的审批流程的话，它将会在下周的某个时候出现在App Store中。苹果是否会批准一个让Quicktime看起来有点过时的软件呢？
+➜Rackspace关闭声称将焚烧古兰经的教会网站
+https://www.solidot.org/story?sid=19962	9360
+美国佛罗里达州<a href="http://doveworld.org/">达夫世界服务中心教会</a>(已关闭，<a href="https://webcache.googleusercontent.com/search?q=cache:DJVLrwTrFVkJ:www.doveworld.org/blog/ten-reasons-to-burn-a-koran+&amp;cd=2&amp;hl=zh-CN&amp;ct=clnk&amp;gl=us">快照</a>)牧师Terry Jones誓言要在9月11日<a href="http://en.wikipedia.org/wiki/2010_Florida_Qur'an-burning_controversy">焚烧多本可兰经的印刷本</a>。<i>
+此事经媒体报道后引发了<a href="http://cn.wsj.com/gb/20100909/bus130544.asp">全世界的关注</a>，奥巴马政府、梵蒂冈等世界各地宗教领袖都请求他不要这样做，美国驻阿富汗最高指挥官彼得雷乌斯(David Petraeus)将军以及其他高级官员则担心有人会利用焚烧可兰经的举动煽动对美国的怒火，可能危及美军部队。土耳其和阿富汗等国家的穆斯林媒体警告说，焚烧伊斯兰教圣典可能会加深对西方国家的仇恨。伊朗将琼斯称作“基督教犹太复国主义者”。9月9日，这位牧师宣布<a href="http://www.voanews.com/chinese/news/20100909-Urgent-QURAN-BURNING-102575894.html">取消了焚烧《可兰经》的计划</a>，以交换穆斯林组织不在纽约911恐怖袭击的地方修建伊斯兰文化中心和清真寺，但随后清真寺项目负责人否认更改建造计划。达夫世界服务中心教会网站的托管商Rackspace因为投诉而决定<a href="http://yro.slashdot.org/story/10/09/09/1228231/Rackspace-Shuts-Down-Quran-Burning-Churchs-Sites">关闭网站</a>，理由是该网站内容违反了合同中有关仇恨言论的条款，Rackspace发言人认为该公司的决定与保护言论自由的宪法权利无关，而只是一个合同问题。</i>
+➜细说Ubuntu开发
+https://www.solidot.org/story?sid=19963	11400
+Sean Michael Kerner<a href="http://www.linuxplanet.com/linuxplanet/reports/7169/1/">采访了Canonical CTO Matt Zimmerman</a>，谈论了分布在全球的Canonical团队是如何协同开发，使用了哪些工具。<i>
+Canonical在多个国家有办公室，但绝大多数工程师并不到当地的办公室。Zimmerman称，虽然如此他仍会每季度定期与员工面对面交流，也使用常用的通信工具进行交流，例如IRC、wikis和电话会议。Canonical的工程师还使用开源的<a href="http://gobby.0x539.de/trac/">Gobby工具</a>协调编辑，使用<a href="http://mumble.sourceforge.net/">Mumble</a>进行语音聊天。Zimmerman称Mumble类似IRC的语音版。<a href="http://www.internetnews.com/dev-news/article.php/3762076/Ubuntu-Launchpad-Opens-Up-Development.htm">Launchpad</a>则为Canonical提供了基本的项目管理支持功能。</i>
+➜苹果放宽iOS应用程序开发限制
+https://www.solidot.org/story?sid=19964	12900
+今年初，苹果公布的iOS SDK 开发者授权协议中的第3.3.1条款禁止用户使用跨平台编译器，意味着Adobe Flash不能被用于开发App Store应用程序。这一做法引发了争议。<i>
+现在苹果<a href="http://apple.slashdot.org/story/10/09/09/141254/Apple-Relaxes-iOS-Development-Tool-Restrictions">表示</a>，将放松对iPhone和iPad应用开发工具的所有限制，前提是应用程序不下载任何代码。此举或为Adobe Flash技术的应用打开了大门。<a href="http://cn.wsj.com/gb/20100910/tec074532.asp">开发商表示</a>，苹果这一调整似乎是允许他们开发使用Flash技术的应用，但可能不会允许iPhone用户使用基于Flash技术的网站和应用，因为这需要运行新指导规定禁止的外部代码。</i>
+➜微软为暂停“Fort Gay”玩家帐户道歉
+https://www.solidot.org/story?sid=19965	20700
+美联社<a href="http://www.google.com/hostednews/ap/article/ALeqM5h5X6hL7iERUljRvfymMhMMsPhkigD9I3MIL80">报道</a>，微软公司和Xbox Live向西弗吉尼亚州Fort Gay城以及一位被暂停帐户的26岁玩家道歉。<i>
+这位玩家因为个人资料地址一栏里填上了“fort gay WV”而被误认为<a href="__SLASHLINK__" sect="games" sid="10/09/09/1143230" sn="article" tid="119">违反了Xbox Live的服务条款</a>。Xbox Live行政执行主管Stephen Toulouse承认，工作人员在检查玩家投诉时犯下了错误，他强调虽然在Xbox Live上分清俚语和攻击性的言辞是一项富有挑战性的任务，但判断错误还是很少见的。</i>
+➜ARM宣布2.5GHz四核处理器Cortex-A15 MPCore
+https://www.solidot.org/story?sid=19966	22200
+ARM<a href="http://www.arm.com/about/newsroom/arm-unveils-cortex-a15-mpcore-processor-to-dramatically-accelerate-capabilities.php">宣布</a>了下一代高端芯片<a href="http://www.arm.com/products/processors/cortex-a/cortex-a15.php">Cortex-A15 MPCore</a>，它的频率最高可以达到2.5GHz，可以有1、2、4和8个核心的配置。<i>
+A15架构代号“Eagle”，表面上它针对的是上网本和平板市场，但从规格上看ARM毫无疑问是想进入服务器市场，<a href="http://arstechnica.com/business/news/2010/09/arms-eagle-has-landed-meet-the-a15.ars">ARM将用A15对抗x86架构处理器</a>。A15的主要特性包括：时钟频率最高2.5GHZ，支持最多8个核心，支持1TB主存，支持ECC L1和L2，支持Fully cache coherent总线协议，支持虚拟化。</i>
+➜FSF对Oracle起诉Google侵犯Java专利的反应
+https://www.solidot.org/story?sid=19967	24960
+针对Oracle起诉Google侵犯Java专利，自由软件基金会(FSF)发表了<a href="http://www.fsf.org/news/oracle-v-google">一份声明</a>，当然<a href="http://lwn.net/Articles/404260/">FSF的立场很鲜明</a>：甲骨文的起诉是没有道理的，但它也没有完全站在Google一边。<i>
+FSF认为Google对于软件专利至今没有清晰的立场或采取任何行动。它本可以通过在<a href="http://www.gnu.org/philosophy/java-trap.html">IcedTea</a>上编译Android而避开所有的麻烦。IcedTea是基于Sun原始代码的开源Java实现，采用GPL授权。Google当初为了绕开Java2ME授权而创建了一个在BSD许可证下发布的<a href="__SLASHLINK__" sect="developers" sid="10/08/15/1013245" sn="article" tid="81">Dalvik项目</a>。GPL是设计用于保护每一个人的自由，GPL授权的项目内含了专利授权，因此使用IcedTea将不用担心专利诉讼。</i>
+➜吸烟不利于你和你下一代的生育力
+https://www.solidot.org/story?sid=19968	27000
+另一个放弃吸烟的理由：<a href="http://www.newscientist.com/article/dn19434">吸烟会损害你和你下一代的生育能力</a>。两项独立研究发现：吸烟的男性睾丸中有较低的蛋白质浓度，而蛋白质对产生精子至关重要；在怀孕期间吸烟的女性可能导致未出生孩子不育。<i>
+在第一项研究中，研究人员分析了24个合法终止怀孕后的胎儿精巢，发现怀孕期间吸烟的女性胎儿中生殖细胞数量减少了55%，体细胞也少了37%。研究人员推测可能的原因男性胎儿对香烟更敏感。在另一项研究中，德国研究人员检查了鱼精蛋白P1和P2的浓度，两种蛋白质对细胞分裂期间染色体的形成十分重要，鱼精蛋白浓度的变化会对男性生殖力产生负面影响。他们收集了53位每天吸烟20支的男性和63位不吸烟男性的精液样本，发现吸烟者的P2浓度比非吸烟者低14%。</i>
+➜Linux 2.4 Kernel可能将寿终正寝
+https://www.solidot.org/story?sid=19969	28560
+Linux 2.4 Kernel于2001年1月面世，现任维护者Willy Tarreau<a href="http://lkml.org/lkml/2010/9/6/15">发布</a>了Linux 2.4.37.10，2.4.37的第10版修正，他提议<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=ODU4NA">正式终止2.4 Kernel的寿命</a>。<i>
+他指出自己的手中也没几台使用Linux 2.4的机器，多数机器都已经升级到了Linux 2.6 kernel。他提议从现在开始到一年之后，如果期间有重大补丁需要合并，Linux 2.4的支持将会再延续一年；如果期间没有什么重要事情发生，这意味着Linux 2.4已经足够稳定，以后也不用再需要更新了，换句话说假如2011年9月之前没有发布2.4.37.11，那么它将永远也不会发布。</i>
+➜亚马逊在Best Buy线下销售Kindle 3
+https://www.solidot.org/story?sid=19971	30600
+线上零售巨头亚马逊开始和传统的线下零售商Best Buy<a href="http://arstechnica.com/gadgets/news/2010/09/amazon-to-offer-kindle-at-best-buy.ars">合作销售Kindle电子书阅读器</a>。
+<i>
+WIFI版和3G版的Kindle将首次与其它电子书阅读器放在一起展示给客户，Best Buy已在销售Sony Reader和Barnes &amp; Noble的Nook电子书阅读器。虽然亚马逊至今没有透露Kindle销量，但各种迹象显示它应该是目前市场上最畅销的电子书产品。亚马逊此举显然意义重大，它正努力扩大电子书产品的市场。</i>
+➜诺基亚任命微软高管为CEO
+https://www.solidot.org/story?sid=19970	30720
+<a href="http://apphu.com/">apphu.com</a> 写道<i> "诺基亚<a href="http://www.nokia.com/press/press-releases/showpressrelease?newsid=1443731">宣布</a>，微软商业部主席Stephen Elop代替4年前上任的Olli-Pekka Kallsvuo，担任公司CEO和主席。以前诺基亚的CEO皆为硬件出身，而这次挑选了微软公司的软件出身的Elop，可谓寓意良多。诺基亚这回头一次由美国人来掌舵，Stephen Elop曾经是Micromedia的CEO，也就是Flash的CEO，后该公司被卖给了Adobe，之后才到微软任职。</i>
+➜科学家在陨石中发现超新星碎片
+https://www.solidot.org/story?sid=19972	33600
+在今天出版的《天体物理学》杂志上，科学家<a href="http://arxiv.org/abs/1007.4016">报告</a>（预印本）在陨石中发现了45亿年前的<a href="http://www.networkworld.com/community/node/66068">超新星爆炸碎片</a>。<i>
+芝加哥大学的科学家<a href="http://experts.uchicago.edu/experts.php?id=191">认为</a>，45亿年前爆发的超新星将大量细小颗粒喷入酝酿太阳的气体和尘埃云中，这些颗粒随后在太阳系的演化过程中分散到了陨星和行星上。科学家是在<a href="http://www.daviddarling.info/encyclopedia/O/Orgueil.html">Orgueil陨石</a>中发现了超新星的微弱痕迹——这可以解释为什么不同行星的陨石中存在神秘的铬54化学指纹。超新星留下的颗粒直径仅为100纳米，只有人类头发的千分之一。</i>
+➜机器人学会了欺骗
+https://www.solidot.org/story?sid=19973	35280
+机器人能通过伪造痕迹欺骗敌人，并躲避起来以免被逮住。听起来好像是出自《终结者》系列的某个场景，但这是乔治亚理工学院研究人员设想的<a href="http://www.eurekalert.org/pub_releases/2010-09/giot-rgr090910.php">机器人骗术</a>的一部分。<i>
+研究人员称，他们已经开发出算法让机器人判断是否去欺骗一个人或其它智能机器，他们设计出方法能帮助机器人挑选最佳的欺骗策略以不会被识别。具有欺骗能力的机器人未来将能应用于军事、搜索和营救等不同领域。一个搜索营救机器人需要利用欺骗技巧让惊恐万分的受害者平静下来或者至少能有所合作。而战场的欺骗机器人则能误导敌人，保护高价值信息的安全。</i>
+➜四川省教育厅规定民族地区必唱歌曲
+https://www.solidot.org/story?sid=19974	37500
+bonnae1982 写道 "根据<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20100908-%E5%9B%9B%E5%B7%9D%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%82%E6%B0%91%E6%97%8F%E5%9C%B0%E5%8C%BA%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%8D%87%E6%97%97%E5%BF%85%E5%94%B1%E3%80%8A%E6%B2%A1%E6%9C%89%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%B1%E6%B2%A1%E6%9C%89%E6%96%B0%E4%B8%AD%E5%9B%BD%E3%80%8B">法广</a>的报道，近日四川省教育厅下发了<a href="http://www.scedu.net/html/_info_3_001_/_D83O7R_4311_1682_scedu_18_/2010-09-07/files/wj10n/nr_169.html">《四川省教育厅关于进一步加强民族地区爱国主义和民族团结教育活动的意见(川教〔2010〕182号)》</a>要求甘孜、阿坝、凉山州、乐山、绵阳市教育局的学校每周星期一举行升国旗仪式时，全体师生除唱《中华人民共和国国歌》外，还将被要求加唱一首《没有共产党就没有新中国》，通过歌声表达对祖国的热爱。此外还要求：           每日下午第一节课前，全校统一用5分钟时间，班班开展“课前一歌”活动，使每个学生都能参与歌唱活动，通过歌声歌颂祖国，赞美家乡。并且附带了必唱和推荐歌曲目录。还建议，抓住重点纪念日、民族传统节日，特别是少数民族传统节日等契机，组织开展各种民族歌舞表演、少数民族特色文化展示等形式多样的文化活动歌颂和感恩祖国，展示学生艺术风采。各级教育部门要把爱国主义和民族团结教育纳入对学校的评估内容。各中小学要把学生参加爱国主义和民族团结教育活动情况纳入学生综合素质评价记录册或学生成长记录册。各地和学校要把爱国主义和民族团结教育教学内容纳入义务教育阶段学生考查和中考考试范围。
+<br> <br>在四川，甘孜、阿坝、凉山州是藏族自治州，乐山、绵阳市则分布有少数民族羌族。"
+➜联合国高级官员酒后失言
+https://www.solidot.org/story?sid=19975	37920
+stranger ( @wmrofficial ) 写道<i> "中国外交官、负责经济和社会事务的联合国副秘书长沙祖康在<a href="http://www.voanews.com/chinese/news/20100909-CHINA-UN-DIPLOMAT-102593049.html">给潘基文敬酒</a>时说：“秘书长先生，我知道您从来就不喜欢我，不过呢，我也一直不喜欢你。”“我知道你一直想把我挤走，你随时可以这么做，请便吧。”沙祖康席间还表示，他一直也没想到纽约联合国总部来。不过，他说，现在感觉很热爱联合国，而且潘基文秘书长所做的一些事，也很让他敬佩。沙还指着在座的一位美国外交官说：“我特别不喜欢他，他是美国人，我特别不喜欢美国人。”一位在场的外交官说，“沙祖康讲了大约10到15分钟，但是，在座的人，都觉得像过了整整一个小时一样。”"</i>
+➜大脑随时间的变化
+https://www.solidot.org/story?sid=19976	39600
+研究人员<a href="http://www.sciencenews.org/view/generic/id/63269/title/Defining_normal_in_the_brain">创造了大脑的成长曲线</a>，可用于帮助诊断大脑疾病的发展。<a href="http://www.sciencemag.org/cgi/content/abstract/329/5997/1358">报告</a>发表在今天出版的《科学》杂志上。<i>
+华盛顿大学医学院的研究人员Nico Dosenbach和Bradley Schlaggar，让238位年龄7到30岁的志愿者在十分放松的情况下接受核磁共振成像（MRI）五分钟时间的扫描，记录下大脑不同区域的血液流动模式，创建出大脑成熟曲线。他们的结果<a href="http://chinese.eurekalert.org/zh/pub_releases/2010-09/aaft-ala090710.php">显示</a>，大脑中的长距离神经元连接通常会随年龄的增长而增加，而短距离连接则会随着时间的推进而变得脆弱。研究人员发现，右前额叶皮层和楔前叶的神经连接可用于预测大脑整体成熟度。</i>
+➜中国计划年末发射嫦娥二号
+https://www.solidot.org/story?sid=19977	40560
+法新社<a href="http://news.yahoo.com/s/afp/20100910/sc_afp/chinaspacemoon">引用</a>《人民日报》的<a href="http://scitech.people.com.cn/GB/25892/12685296.html">报导</a>称，中国将在年底发射第二艘月球探测卫星。<i>
+探月工程总设计师吴伟仁说，“嫦娥二号”将在距离月球100公里的轨道工作，并能降落到近月点15公里远月点100公里的椭圆轨道上，主要任务是对未来“嫦娥三号”月球着陆点探测地形地貌。“嫦娥二号”还将试验全新的着陆相机，以及验证数据传输能力（试验12MB/s传输），对嫦娥三号卫星预选着陆区进行高分辨率成像试验。此前嫦娥一号搭载的CCD相机分辨率为120米，嫦娥二号卫星在100公里圆轨道和100公里乘15公里轨道的近月点处，将分别对嫦娥三号卫星的预选着陆区进行优于10米和1.5米分辨率的成像试验。卫星设计寿命半年。</i>
+➜NoSQL有了Android版本
+https://www.solidot.org/story?sid=19978	42840
+Ars Technica<a href="http://arstechnica.com/open-source/news/2010/09/couchdb-takes-a-seat-on-android-with-new-mobile-version.ars">报道</a>，NoSQL数据库CouchDB发布了一个移动版本<a href="http://www.couch.io/android">CouchOne Mobile for Android</a>。目前的版本号是v0.5，还处于早期开发阶段，但它将允许开发者利用CouchDB先进的复制功能在桌面和移动应用之间同步数据。<i>
+<a href="http://en.wikipedia.org/wiki/CouchDB">CouchDB</a>是使用Erlang语言开发的面向文档的NoSQL数据库系统。它的存储格式是使用JSON，查询语言使用JavaScript。CouchDB推出移动版本的设想是，让应用程序开发者能利用手机上的CouchDB本地实例同步数据，而不需要经过云端服务器，提高了数据的可访问性。</i>

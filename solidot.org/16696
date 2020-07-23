@@ -1,0 +1,52 @@
+➜Apple 推出了它们第一个 Android 应用，然而用户似乎并不买账
+https://www.solidot.org/story?sid=45549	9648
+<a href="http://buta.moe/">反竹川</a> 写道 <i>"Apple 于16日发布了它有史以来第一款 Android 应用，并毫不意外得受到了一面倒的批评。名为“<a href="https://play.google.com/store/apps/details?id=com.apple.movetoios" target="_blank">Move to iOS</a>”的应用声称可以将自动将 Android 手机内的联系人、短信、照片和邮件等个人数据无缝迁移至 iOS 平台——基本等同于 <a href="http://www.motorola.com/us/motorola-migrate/motorola-migrate.html" target="_blank">Motorola Migrate</a>&nbsp;的翻版。与 Google 在 iOS 平台上的做法完全相反，该应用基本无视了 Android Design 的任何规范，且仅允许迁移数据至安装有 iOS 9 的全新机器上，也就是说，要不买一台新 iPhone 要不将系统完全重置。到目前为止，Apple 的首款 Android 应用于 Google 官方的 Play Store 收获了2452个5星评价和11245个1星评价，总分仅为 1.7星。在评论中，用户普遍表示该应用“令人作呕”，不但设计糟糕而且与 Motorola 和 Microsoft 的同类应用相比功能明显欠缺，更何况“<a href="https://www.theverge.com/2015/9/17/9344351/move-to-ios-app-getting-1-star-troll-reviews" target="_blank">有谁会愿意移民至北朝鲜呢</a>”？“<a href="http://apple.slashdot.org/story/15/09/16/2250248/apples-first-android-app-makes-it-easy-to-move-to-ios" target="_blank">为&nbsp;Android 的自由生态而欢呼吧，同志们</a>”！<br>
+Apple Music 的 Android 版应用预计将于<a href="https://twitter.com/johnpaczkowski/status/615226588724985860" target="_blank">今年秋季</a>推出。"</i>
+➜第三方XCode编译器被发现会在编译的应用中注入代码
+https://www.solidot.org/story?sid=45550	10287
+<a target="_blank" href="http://www.solidot.org/story?sid=44519"><u>编译器后门</u></a>在中国正逐渐变成现实。中国的iOS开发者称通过迅雷和百度网盘下载的<a target="_blank" href="https://developer.apple.com/xcode/download/"><u>XCode编译器</u></a>，会在编译App注入第三方库文件。第三方代码功能有限，称不上后门，只是将收集的应用和设备相关信息上传到托管在亚马逊EC2的服务器上。目前病毒作者的服务器已经关闭。安全研究人员<a target="_blank" href="http://drops.wooyun.org/news/8864"><u>怀疑</u></a>这次只是病毒作者的试水，未来可能会出现真正的编译器后门，iOS开发者应该尽可能的从官方地址下载，并在下载后检查文件的签名，避免下载到修改后的版本。<b>更新</b>：有数十个流行的中国应用被发现嵌入了这个简单恶意库。
+➜Rust 1.3发布
+https://www.solidot.org/story?sid=45551	13871
+Rust编程语言发布了<a target="_blank" href="http://blog.rust-lang.org/2015/09/17/Rust-1.3.html"><u>v1.3稳定版</u></a>。主要变化包括：改进了性能，加入了Rust编程指南电子书《<a target="_blank" href="https://doc.rust-lang.org/nightly/nomicon/"><u>The Dark Arts of Advanced and Unsafe Rust Programming</u></a>》，新的稳定API如Duration API，子字符串匹配使用了更高效的算法，更快的零填充方法，更快的Read::read_to_end 实现，等等。Rust编程语言采用了类似浏览器的六周发布周期。
+➜亚马逊发布50美元Fire平板
+https://www.solidot.org/story?sid=45552	16000
+亚马逊发布了<a target="_blank" href="http://www.amazon.com/dp/B00TSUGXKE/"><u>三款廉价平板</u></a>：50美元的Fire 7，150美元的Fire HD 8和230美元的Fire HD 10，将在9月30日上市。亚马逊中国尚未有新款平板的消息。三款平板都属于低端，显示屏分辨率只有1024 x 600和1280 x 800，摄像头分别为200万和500万像素，运行基于Android Lollipop的定制版本Fire OS 5。50美元的Fire 7的只有8GB内存储存空间，但支持microSD卡扩展128GB。除了配置比较低外，廉价平板电脑保修期仅为90天。若消费者担心损坏，亚马逊<a target="_blank" href="http://cn.wsj.com/gb/20150918/tec075240.asp"><u>表示</u></a>还有一款售价100美元、专为青少年设计的<a target="_blank" href="http://www.amazon.com/dp/B00YYZEQ1G/ref=ods_fs_ketf"><u>7英寸平板Fire Kids Edition</u></a>，该款电脑含有两年期无条件换货协议，并带有一个厚橡胶保护外套和为期一年的亚马逊FreeTime。FreeTime目前除了提供无限量访问专为青少年开发的应用和游戏以外，还有一个可供儿童放心使用的浏览器，其中包含2万个亚马逊批准使用的视频和网站。
+➜两个黑洞可能将发生碰撞
+https://www.solidot.org/story?sid=45553	18613
+今年1月，加州理工的天文学家发表<a target="_blank" href="http://www.nytimes.com/2015/01/08/science/in-a-far-off-galaxy-2-black-holes-dance-toward-an-explosive-union.html"><u>论文</u></a>称类星体PG 1302-102中的一对超大质量黑洞可能会发生碰撞。根据他们的估算，二者合并或许可以释放出1亿颗超新星爆炸的能量，多数表现为“引力波”。这种时空中的猛烈涟漪会让星体从那倒霉的星系中喷出，好比是从屋顶上刮走树叶。现在，哥伦比亚大学的天文学家建立计算机模型，预测黑洞最快<a target="_blank" href="http://cn.nytimes.com/science/20150917/c17blackholes"><u>将在10万年后相撞</u></a>。<a target="_blank" href="http://nature.com/articles/doi:10.1038/nature15262"><u>论文</u></a>发表在《自然》期刊上。模型显示，两个黑洞在相互环绕，之间的距离约为2000亿英里，不到0.1光年。
+➜友讯不小心公开了它的代码签名私钥
+https://www.solidot.org/story?sid=45554	25911
+根据GPL许可证的要求，友讯科技公布了它的多款硬件固件的源代码。这一点值得称赞。然而它在公开源代码时显然没有仔细检查，它不小心披露了4个代码签名私钥。私钥可被滥用去用于签名任意文件，其中可能包括恶意程序。这件事是一位叫 bartvbl的用户最早<a target="_blank" href="http://tweakers.net/nieuws/105137/d-link-blundert-met-vrijgeven-privesleutels-van-certificaten.html"><u>报告给记者的</u></a>，他购买了一部 D-Link DCS-5020L安全摄像头，友讯有这款产品的固件源代码。bartvbl查看源代码时发现了私钥，更糟糕的是友讯还提供了签名软件所需要的批处理文件。安全公司Fox-IT证实了这一发现，指出友讯是在今年2月27日公布了包含私钥的源代码，而私钥在9月份过期，在此期间它是有效的。
+➜最高法院称网络安全已成为公共安全的重要部分
+https://www.solidot.org/story?sid=45555	28820
+最高法院发布了《<a target="_blank" href="http://www.court.gov.cn/fabu-xiangqing-15478.html"><u>最高人民法院关于充分发挥审判职能作用切实维护公共安全的若干意见</u></a>》，《意见》 将网络安全列入公共安全的重要部分，<br>
+<i>13.依法惩治利用网络实施的各类犯罪。网络空间是现实社会的延伸，网络秩序是公共秩序的有机组成部分。要针对近年来利用信息网络实施的各类违法犯罪活动日益突出，危害十分严重的实际，坚决依法打击网上造谣、传谣行为，惩治利用网络实施的盗窃、诈骗、敲诈勒索、寻衅滋事、贩卖毒品、传播淫秽信息等犯罪，切实维护网络秩序，净化网络空间，决不允许网络成为法外之地。<br>
+14.依法惩治网络攻击破坏犯罪。信息时代，网络已深度融入经济社会的各个方面，网络安全已成为公共安全的重要组成部分，与广大人民群众的信息安全、财产安全乃至人身安全密切相关。要依法打击非法侵入、破坏计算机信息系统以及制作、销售、使用“伪基站”设备等犯罪活动，从严惩治针对基础信息网络、重要行业和领域的重要信息系统、军事网络、重要政务网络、用户数量众多的商业网络的攻击破坏活动，从严惩治利用攻击破坏非法获取国家秘密、商业秘密、公民个人信息等犯罪活动。 </i>
+➜美国上诉法院裁决禁售部分型号的三星手机
+https://www.solidot.org/story?sid=45556	30113
+美国联邦巡回上诉法院以2：1作出了<a target="_blank" href="http://arstechnica.com/tech-policy/2015/09/appeals-court-grants-injunction-to-apple-bans-some-features-from-samsung-phones/#p3"><u>有利于苹果的裁决</u></a>，认为部分型号的三星手机侵犯了苹果的专利应被禁售，除非禁用相关功能。这起专利诉讼始于2012年，今年的情况已与三年前大不相同，禁售令对三星的影响极其有限，因为三星已经通过软件更新移除了被苹果指责侵犯专利的功能，例如三星Android 手机不再使用底部滑动解锁功能。
+➜攻击者劫持数千WordPress网站感染访问者
+https://www.solidot.org/story?sid=45557	30989
+安全公司Sucuri<a target="_blank" href="https://blog.sucuri.net/2015/09/wordpress-malware-active-visitortracker-campaign.html"><u>报告</u></a>，攻击者正在劫持数千WordPress网站去感染没有疑心的访问者。攻击始于15天前，但在本周的48小时内，攻击者入侵的网站数量从1000飙升到了6000。遭到劫持的网站被用于将用户重定向到一个托管攻击代码的服务器，服务器尝试使用多种不同的漏洞利用方法去感染访问者的电脑。安全研究人员怀疑，攻击者利用了某些WordPress插件的漏洞入侵网站。Sucuri将这起攻击行动命名为VisitorTracker，原因是一个恶意 javascript文件使用的函数名是visitorTracker_isMob()，它向网站管理员提供了<a target="_blank" href="https://sitecheck.sucuri.net/"><u>一个扫描工具</u></a>检查是否被入侵了。
+➜中国企业为国接盘损失惨重
+https://www.solidot.org/story?sid=45558	32242
+今年7月，中国股市发生暴跌之后，许多国企响应号召通过回购股票履行爱国义务并展现信心。2个月后，许多企业<a target="_blank" href="http://cn.reuters.com/article/2015/09/18/china-stocks-buybacks-idCNKCS0RI0EV20150918?sp=true"><u>都遭遇了巨大损失</u></a>：新松机器人在每股81.6元的价位购买了400万元公司股票，如今的股价在53.10元左右，下跌了35%；东莞宜安科技在8月21日以每股大约33元买进了35.83万股，目前在每股20元左右，下跌40%。路透分析发现，宣布回购企业的股票过去三个月以来平均下跌了40%左右。东莞宜安科技一位高管称接到证监会通知，要求高管们无论股价高低都得增持。中国股市很少反映经济基本面，这是问题所在。如果无法吸引大规模资金重回股市，中国金融系统将会被打回原形，即过度地依赖银行贷款和影子金融，而股市继续是任性投机者的游乐场。
+➜2015 Ig Nobel 奖公布
+https://www.solidot.org/story?sid=45559	35545
+Improbable Research公布了<a target="_blank" href="http://www.improbable.com/ig/winners/#ig2015"><u>2015年度的Ig Nobel 奖</u></a>。<br>
+<i>Callum Ormonde等人因发现<a target="_blank" href="http://www.solidot.org/story?sid=42875"><u>“逆转”熟鸡蛋</u></a>的化学配方而获得化学奖（<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/cbic.201402427/abstract"><u>论文</u></a>）；Patricia Yang等人因测试了一个生物学原则——几乎所有哺乳动物都会在21秒（正负13秒）内排空它们的膀胱——而获得物理学奖（<a target="_blank" href="http://www.pnas.org/content/111/33/11932.short"><u>论文</u></a>）；Mark Dingemanse等人发现单词“嗯”存在于所有语言中，但不确定为什么而获得文学奖（<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273">论文</a>）：Gennaro Bernile等人发现许多商界领袖小时候喜欢冒险而获得管理学奖（<a target="_blank" href="http://papers.ssrn.com/sol3/Papers.cfm?abstract_id=2423044"><u>论文</u></a>）；曼谷警察局金钱奖励拒绝贿赂的警察而获得经济学奖；两个研究团队因为研究热吻的生物医学益处或后果而获得医学奖；Elisabeth Oberzaucher等人用数学计算摩洛哥皇帝Moulay Ismael 如何成为888个孩子的父亲而获得数学奖（<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085292"><u>论文</u></a>）；Bruno Grossi等人因为研究让鸡像恐龙一样行走而获得生物学奖（<a target="_blank" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088458"><u>论文</u></a>）；Diallah Karim等人发现驾驶汽车驶过减速带所经受的痛苦可用于精确诊断急性阑尾炎而获得诊断医学奖（<a target="_blank" href="http://www.bmj.com/content/bmj/345/bmj.e8012"><u>论文</u></a>）；Justin  Schmidt因根据昆虫的叮咬创建  Schmidt刺痛指数（<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1002/arch.940010205/abstract"><u>论文</u></a>），Michael L. Smith用蜂刺刺自己身体的25个位置判断哪些位置最不痛苦哪些位置最痛苦（<a target="_blank" href="https://peerj.com/articles/338/"><u>论文</u></a>）而共同获得生理学和昆虫学奖。</i>
+➜《自然》期刊在癌症研究引发争议后修改动物实验政策
+https://www.solidot.org/story?sid=45560	37588
+《自然》期刊在一篇癌症论文引发争议后<a target="_blank" href="http://news.sciencemag.org/scientific-community/2015/09/nature-changes-animal-policy-after-cancer-study-comes-under-fire"><u>修改了发表动物实验的政策</u></a>。这项最近招致批评的<a target="_blank" href="http://news.sciencemag.org/scientific-community/2015/09/nature-changes-animal-policy-after-cancer-study-comes-under-fire"><u>癌症研究</u></a>发表在2011年7月14日一期的《自然》杂志上，报告了一种从胡椒分离出的化合物能杀死癌细胞但不伤害健康细胞。作者被批评允许肿瘤在实验鼠体内生长的过大。《自然》本周发布了这篇论文的<a target="_blank" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature15370.html"><u>一个修订版本</u></a>，在正文最前面添加了一个说明：某些动物身上的肿瘤大小超过了动物照料和使用委员会所允许的最大上限。肿瘤大小本应限制在1.5立方厘米，但部分肿瘤长到了7立方厘米。《自然》说，更大的肿瘤会导致实验鼠经历更大的痛苦。它将要求论文作者在动物实验中不要超过动物照料和使用委员会设定的肿瘤大小上限。
+➜冥王星上的日落
+https://www.solidot.org/story?sid=45561	40183
+<div align="center"><img src="http://img.solidot.com.cn/0/11/liqAzU7Idc61o.png" align="" height="239" width="560"><br>
+<br>
+</div>
+NASA<a target="_blank" href="http://www.nasa.gov/feature/pluto-wows-in-spectacular-new-backlit-panorama"><u>公布了冥王星的最新照片</u></a>。照片是新地平线号探测器上的宽视角照相机在7月14日近距离飞越冥王星期间拍摄的，9月13日下载到地球。照片拍摄时太阳正处于另一面，它产生的背景光突出了冥王星的地貌和大气层。 新地平线号的首席调查员Alan Stern说，就好象你亲临现场调查地形。他表示新的照片提供了冥王星大气层、山丘、冰山和平原的新细节。
+➜比特币是一种商品
+https://www.solidot.org/story?sid=45562	41692
+美国商品期货交易委员会在<a target="_blank" href="http://www.cftc.gov/PressRoom/PressReleases/pr7231-15"><u>一份声明</u></a>中正式将比特币和其它数字货币<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-09-17/bitcoin-is-officially-a-commodity-according-to-u-s-regulator"><u>定义为商品</u></a>，类似原油和小麦。商品期货交易委员会将监管比特币相关的交易活动。如果一家企业想要<u>经营</u>一个比特币衍生品或期货的交易平台，它将需要申请成为掉期合约执行机构或指定合同市场，类似芝加哥商品交易所。
+➜无法入侵的内核
+https://www.solidot.org/story?sid=45563	45164
+操作系统是计算机安全的核心，而操作系统的核心是内核。澳大利亚国家研究机构<a target="_blank" href="https://www.newscientist.com/article/mg22730392-600-unhackable-kernel-could-keep-all-computers-safe-from-cyberattack-2"><u>开发出了第一个形式证明黑客无法入侵的内核seL</u></a>4。seL4具有多个高度安全的特性：它设计只能做它允许做的事情，未获授权代码无法修改，未获许可不能读取它的内存和传输的数据。seL4的一个早期版本OKL4已被数百万智能手机使用。该机构的Gernot Heiser说，seL4采用了新方法孤立内核中的数据，但最关键的安全特性是代码能被在数学上检查。

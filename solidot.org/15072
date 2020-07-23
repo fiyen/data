@@ -1,0 +1,74 @@
+➜Firefox 5定于6月21日发布
+https://www.solidot.org/story?sid=23365	2520
+Mozilla更新了<a href="http://mozilla.github.com/process-releases/draft/development_specifics/">Firefox发布时间表草案</a>，它目前定于6月21日正式推出Firefox 5。<i>
+根据新的草案，Mozilla考虑采用18周发布周期，分为四个阶段：mozilla-central，mozilla-aurora，mozilla-beta，mozilla-release，每个阶段间隔6周，如从beta版到稳定版发布相差六周。Firefox 5的发布时间与未来采用的发布周期略有差异，原因是它与Firefox 4的开发重叠在了一起。Mozilla计划在4月12日发布aurora版，5月17日发布beta版，6月21日发布正式版。Firefox 6将从4月12日Firefox 5从central转到aurora阶段时开始开发。Firefox所用Gecko引擎的版本号也将与Firefox的版本号统一起来，Firefox 5使用的将是Gecko 5，Firefox 6使用的是Gecko 6。Mozilla还计划采用类似Chrome的版本数字，例如Firefox 5的版本号可能是5.6.42.144。一位Mozilla开发者<a href="http://news.slashdot.org/story/11/04/07/1625253/Firefox-5-Scheduled-For-June-21-Release">表示</a>，版本号码不断增加确实有点愚蠢，他宁愿放弃版本号，或者是采用类似Ubuntu的命名方式，如10.10代表2010年10月发布。</i>
+➜LLVM 2.9发布
+https://www.solidot.org/story?sid=23366	5280
+LLVM编译器<a href="http://lwn.net/Articles/437358/">发布</a>了<a href="http://llvm.org/releases/2.9/docs/ReleaseNotes.html">v2.9版</a>。<i>
+主要的新特性包括：ELF目标的汇编支持；大幅改进了链接时优化（Link Time Optimization)，加快编译速度，支持编译大型应用程序如Firefox 4；memset和memcpy loops的自动识别；改进调试优化代码；等等。</i>
+Mozilla开发者Rafael Espindola<a href="https://blog.mozilla.com/respindola/2011/02/04/clang-results/">在OSX上</a>，测试了基于LLVM的Clang编译器和GCC 4.2（最新版是4.6）编译Firefox的结果，在编译时间和二进制大小上面，Clang都小胜GCC。
+➜新德里饮用水中发现抗生素超级细菌
+https://www.solidot.org/story?sid=23367	6480
+抗生素超级细菌<a href="__SLASHLINK__" sect="science" sid="10/08/13/0526209" sn="article" tid="50">NDM-1</a>不再只是在医院中传播，而是扩散到了周围环境。根据《柳叶刀》杂志<a href="http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(11)70059-7/fulltext">报导</a>，研究人员<a href="http://www.upi.com/Science_News/Resource-Wars/2011/04/07/Super-bug-found-in-Indian-water-seepage/UPI-54071302206512/">在新德里的水源中</a>发现了这种以新德里名字命名的超级细菌。<i>
+研究人员在新德里中心7.45英里半径的区域内，收集了50个公共水源样本，用171个棉花拭子采集渗水样本。他们发现，50个饮用水样本中有两个，171个渗水样本有51个含有NDM-1基因。研究人员随后鉴定出有11种新的细菌携带了NDM-1基因，其中包括了能引发霍乱和痢疾的菌株。NDM-1是以蛋白质质体的形式存在，它可以在合适的温度下向它们细菌转移基因。</i>
+➜食品安全监管实行一国两制
+https://www.solidot.org/story?sid=23368	8280
+《南方周末》报道了<a href="http://www.infzm.com/content/57371">内地供应港澳食品的监管体系</a>。<i>
+肉猪出口必须报检，运输过程必须符合动物防疫的要求。在运输过程中，不同猪场的不能混装，肉猪和其他动物不能混装，而根据港澳对动物福利的规定，每辆车只能装35头猪。在出境前，检验检疫部门再次进行临床检验，必要时还要采样送实验室检测。这个迥异于内地的食品安全监管体系直接缘起于1998年在香港、广东爆发的猪肺汤事件（瘦肉精中毒）。但这项制度并没有和自由市场连接起来，而更多是一项政治任务。供港澳活猪、活鸡、活牛等大宗农产品采取配额制，无论市场起伏，都首先保证港澳食品的稳定供应。2007年内销肉猪价格高于港澳，导致港澳猪肉供应紧张，有关部门组织调配，确保了港澳市场稳定。</i>
+➜中国精英准备逃离
+https://www.solidot.org/story?sid=23369	10080
+在香港即将回归中国大陆控制那几年，大批富裕和中上层阶级将其子女送往加拿大、澳大利亚、英国和美国接受教育和取得护照，为家庭的逃离做准备。<a href="http://blogs.hbr.org/cs/2011/04/is_chinas_elite_preparing_for.html">类似的现象可能正在中国大陆重演</a>。<i>
+中国政治和经济精英已将他们的子女送到外国学习，美国是最受青睐的目的地，有大约10万中国学生在美就读高中、寄宿学校或大学，其中肯定有学生是为家庭的永久居住做准备的。艾未未<a href="__SLASHLINK__" sect="internet" sid="11/04/07/0954246" sn="article" tid="120">被拘捕</a>是中国政治文化走向警察国家的最新证据。过去20年，中国城市里的中上层阶级为自己争取到了更大的自由空间，然而最近中国的政策愈来愈收紧，信息的自由流动和特立独行正受到压制。</i>
+➜8个高质量图标搜索引擎
+https://www.solidot.org/story?sid=23370	11700
+<a href="http://www.jobbole.com/">伯乐在线</a> 写道<i> "smashinghub网站上<a href="http://smashinghub.com/find-high-quality-icons.htm">有篇推荐优秀图标搜索引擎的文章</a>(<a href="http://www.jobbole.com/entry.php/610">中文</a>)，其中写道：“对于每个网站开发者来说，设计是很重要的一部分，而图标是正是设计中一个环节。你可以找到许多集合图标的网站，但很难找到免费的高质量图标。这是我在此分享一些免费的高质量图标搜索引擎的原因。你可以借助这些搜索引擎找到高质量图标……”1.<a href="http://www.iconfinder.com/">IconFinder</a>；2.<a href="http://www.iconlet.com/">Iconlet</a>；3.IconScan；4.IconSeeker；5.Icons Search；6.MrIcons；7.VeryIcon；8.IconLook</i>
+➜Facebook公布数据中心架构，宣布Open Compute Project
+https://www.solidot.org/story?sid=23371	13200
+Facebook<a href="http://hardware.slashdot.org/story/11/04/07/2125238/Facebook-Opens-Their-Data-Center-Infrastructure">宣布</a>了<a href="http://opencompute.org/">Open Compute</a>项目，事无巨细的公开了自己的数据中心和服务器软硬件架构，采用的许可证是<a href="http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0">Open Web Foundation Agreement</a>。<i>
+Facebook公布了服务器主板和数据中心配电系统等的硬件规格，并提供了机械图纸；公布了如何改进数据中心能效的方法。Facebook表示，希望所有的数据中心都能像它的数据中心一样高效。
+</i>
+➜混乱促成成见
+https://www.solidot.org/story?sid=23372	17640
+混乱的环境被认为会鼓励犯罪和反社会行为。现在，一项新研究认为混乱的环境还会导致人们<a href="http://www.scientificamerican.com/article.cfm?id=chaos-promotes-stereotyping">对他人形成成见</a>。<i>
+荷兰蒂尔堡大学社会学家Diederik Stapel和Siegwart Lindenberg，让受试者在混乱或有序的环境中对某个社会团体进行判断。结果显示，<a href="http://chinese.eurekalert.org/zh/pub_releases/2011-04/aaft-lss040411.php">环境越混乱对该团体的偏见越大</a>。其中一项试验，研究人员在街头对47名路人进行调查。第一天，人行道上的地砖被移走，一辆汽车停在街沿，而一辆自行车则被留在街道上。第二天，街道已被打扫并看上去整洁有序。研究人员发现，与街道清洁的时候相比，当路人站在脏乱的街道上时，他们更容易歧视他人，而且给“少数族裔基金”捐款会少一些。研究人员的结论是：对结构和条理的个人需求与成见现象有很高的关联度。</i>
+➜费米实验室科学家可能发现新粒子
+https://www.solidot.org/story?sid=23373	19920
+《纽约时报》<a href="http://www.nytimes.com/2011/04/06/science/06particle.html?_r=2&amp;scp=3&amp;sq=dennis%20overbye&amp;st=cse">报导</a>，费米实验室的物理学家或发现了一种此前闻所未闻的奇特粒子。费米实验室CDF粒子探测器联合发言人Robert Roser笑称，NYT当天一定没大新闻报导了。他认为科学家可能发现了一种新粒子。<a href="http://arxiv.org/abs/1104.0699">报告</a>发表在arXiv上。<i>
+CDF分析了对撞机数十亿次质子和反质子对撞。根据爱因斯坦相对论，能量等于质量，因此高能粒子对撞能产生日常世界看不到亚原子粒子，物理学家通过研究熟悉粒子的衰变识别出新粒子。在最新实验中，研究人员寻找质量约等于质子88倍的W玻色子，结果却发现了质量约等于质子160倍的<a href="http://news.sciencemag.org/sciencenow/2011/04/fermilab-physicists-see-somethin.html?rss=1">新粒子</a>。</i>
+➜哥伦比亚大学终止30年历史的Kermit项目，开源C-Kermit 9
+https://www.solidot.org/story?sid=23374	21840
+哥伦比亚大学<a href="http://tech.slashdot.org/story/11/04/07/1946244/Columbia-University-Ending-the-Kermit-Project">宣布</a>，将于2011年7月1日终止<a href="http://www.columbia.edu/kermit/">Kermit项目</a>。<i>
+<a href="http://en.wikipedia.org/wiki/Kermit_(protocol)">Kermit</a>是一个计算机文件传输管理协议，由哥伦比亚大学在1981年开发，主要用于早期互联网环境的文件传输，支持不同硬件和不同操作系统。哥伦比亚大学宣布7月1日起不再继续开发Kermit，基于Kermit协议的软件<a href="http://www.columbia.edu/kermit/ck80.html">C-Kermit 9.0</a>将在6月30日或之前，在修订后的 3-Clause BSD许可证下发布。自此后哥伦比亚大学将不提供技术支持。</i>
+➜大学生断网后会感受到类似戒毒症状
+https://www.solidot.org/story?sid=23375	24120
+根据马里兰大学媒体公共事务国际中心的一项<a href="http://theworldunplugged.wordpress.com/">研究</a>，在断网断通讯24小时后大学生开始体验到<a href="http://arstechnica.com/gadgets/news/2011/04/hand-over-the-gadgets-students-distressed-isolated-without-internet.ars">类似戒毒的症状</a>。<i>
+研究人员跟踪了来自美国、墨西哥、中国、阿根廷、英国等十个国家的一千名学生，他们被要求不接触互联网、音乐、游戏，新闻节目和手机。结果发现在24小时后学生们就产生了焦虑、孤立、厌倦和上瘾等症状。不同国家的比例也不相同，美国和中国学生的上瘾比例最高，分别达到23%和22%。研究人员认为，网瘾是一种真实的现象，虽然临床诊断还有争议。</i>
+➜新Commodore 64电脑本月上市
+https://www.solidot.org/story?sid=23376	25200
+<a href="http://en.wikipedia.org/wiki/Commodore_64">Commodore 64</a>是历史上最成功的家用电脑产品之一，据估计其销量在1500万到3000万台之间。但它的成功是短暂的，由于决策错误制造商Commodore International于1994年宣布破产。<a href="http://www.commodoreusa.net/">Commodore USA</a>在去年购买了Commodore商标，<a href="http://bits.blogs.nytimes.com/2011/04/06/the-new-commodore-64-updated-with-its-old-exterior/?hp">开始重新推出</a>Commodore 64品牌电脑。<i>
+新<a href="http://www.commodoreusa.net/CUSA_C64.aspx">Commodore 64电脑</a>，配置了1.8Ghz双核处理器，可选蓝光播放器，HDMI接口，运行Linux操作系统，用户可以自行安装Windows系统。价格介于250美元到900美元。将于本月底上市。</i>
+➜DARPA免费游戏让玩家猎杀潜艇
+https://www.solidot.org/story?sid=23377	26340
+如果你曾经梦想用鱼雷炸潜艇，现在有机会实现夙愿了。美国国防部高级研究计划署（DARPA）<a href="http://games.slashdot.org/story/11/04/07/174210/Free-DARPA-Software-Lets-Gamers-Hunt-Submarines">推出</a>了反潜网络游戏<a href="https://actuv.darpa.mil/">ACTUV</a>(<a href="http://www.darpa.mil/VideoFiles/ACTUV/DARPA%20ACTUV%20Game.zip">下载</a>)。<i>
+游戏将模拟真实的潜艇规避技术，玩家在跟踪潜艇过程中必须避开周围的商船，完成一次任务玩家将获得一个分数。游戏将会一次任务之后询问玩家是否原因将游戏过程的数据递交到DARPA服务器，供其分析，它保证不会收集用户电脑数据。</i>
+➜科学是一种信仰吗？
+https://www.solidot.org/story?sid=23378	30960
+宇宙的起源，人类的演化，自然界的基本原则诸如波动方程、量子电动力学和分子生物学，等等，真实的科学问题是很少有非职业科学家能真正理解的。如果我们足够坦诚的话，必须承认普通人是通过信仰才接受物理学、天文学、生物学中的复杂科学现象，依靠专家通过我们能理解的语言解释事实。
+有人认为这是<a href="http://science.slashdot.org/story/11/04/07/146240/Is-Science-Just-a-Matter-of-Faith">一种非理性的信仰</a>，信任的是专家，大多数人并不是真正理解科学。但也有人否认这一观点，信仰是一种没有事实为后盾的信念，而科学是能演示、是能重现，是能够自我修正的，有事实为根据的，并能推而广之。
+➜Google雇员的奖金与+1按钮成功挂钩
+https://www.solidot.org/story?sid=23379	32160
+新上任的Google CEO Larry Page希望搜索巨人的社交媒体战略能有所斩获，他同时也希望全公司2.4万名雇员能担负起相同的职责。<a href="http://www.itworld.com/internet/153735/google-links-employee-bonuses-success-social-strategy">根据一份泄漏的内部备忘录</a>，Page通知所有雇员，他们年终奖金中有25%与社交媒体的成功挂钩。上周，Google<a href="__SLASHLINK__" sect="it" sid="11/03/31/0549229" sn="article" tid="26">推出了“+1”按钮</a>，将搜索结果和社交网络紧密结合起来。Page还在备忘录中希望雇员向他们的亲朋好友推荐Google的社交产品。
+➜《Minecraft》于2011年11月11日发布正式版
+https://www.solidot.org/story?sid=23380	34200
+《<a href="http://zh.wikipedia.org/wiki/Minecraft">Minecraft</a>》是一款十分受欢迎的沙盒建造游戏，虽然目前只发布了Beta版，但已经售出了超过180万份拷贝，<a href="http://www.arcticstartup.com/2011/04/08/minecraft-generated-about-5-m-euros-in-march">总收入超过了2000万欧元</a>，而三月份的收入大约有500万欧元。对于一款独立游戏来说，这个成绩几乎难以超越，丝毫不逊色于《愤怒的小鸟》。Minecraft作者Markus Persson在博客上<a href="http://notch.tumblr.com/post/4423138657/11-11-11">宣布</a>，游戏将于11月11日推出正式版。还有一款著名游戏也选择在这天推出——《<a href="http://www.elderscrolls.com/">上古卷轴5：天际</a>》。
+➜诺基亚证实Symbian不再开源
+https://www.solidot.org/story?sid=23381	37800
+诺基亚<a href="http://symbian.nokia.com/blog/2011/04/04/not-open-source-just-open-for-business/">证实</a>Symbian操作系统<a href="http://mobile.slashdot.org/story/11/04/08/010235/Nokia-Confirms-Symbian-Is-No-Longer-Open-Source">不再开源</a>。<i>
+诺基亚称它的Symbian智能手机开发模式为“开放和直接”，但“开放”并不是指开源，而是“对企业开放”，“开放和直接”模式指的是诺基亚将和仍然使用Symbian的日本OEM制造商和开发社区继续合作。对Symbian源代码感兴趣的人可以访问Sourceforge保留下的<a href="http://sourceforge.net/projects/symbiandump/files/">存档</a>。</i>
+➜被开除的古奇工程师被控进行网络攻击
+https://www.solidot.org/story?sid=23382	39360
+被开除的古奇美国分公司IT工程师Sam Chihlung Yin，<a href="http://www.computerworld.com/s/article/9215544/Ex_Gucci_admin_accused_of_200_000_IT_rampage">被控破坏前雇主的计算机网络</a>。<i>
+34岁的Yin于2010年5月被开除，他用一个不存在的雇员名字创建了一个虚假的VPN标志符，并诱骗在古奇的同事在6月激活，VPN允许他访问关键的IT服务。他于11月12日进入了系统，永久性破坏了一些文件，删除了大量电子邮件，关闭了虚拟服务器，造成了20万美元的损失。如果被判有罪，他面临最高15年的徒刑。</i>
+➜饮酒是癌症的重要肇因
+https://www.solidot.org/story?sid=23383	46680
+厅局级享受 写道<i> "周五发表的<a href="http://www.google.com/hostednews/afp/article/ALeqM5j33HDsC0CCr5mtHN-DhstnkQUsIg?docId=CNG.cd99c4a336c0b0cca52f7a33775a7f7e.4e1">一项研究</a>结论表明，在西欧地区，约10%的男性癌症患者和3%的女性癌症患者是因为过去或当下的酒精消费导致的。在被调查的6个国家中（丹麦、英国、意大利、德国、希腊和西班牙），2008年内，男性上消化道癌、肝癌和结肠癌患者分别有44%、25%和33%起因于饮酒。女性调查中（上述6国外加法国及荷兰），酒精导致了18%的喉癌、口腔癌和胃癌，17%的肝癌，5%的乳腺癌以及4%的结肠癌。患者中有4/5每日酒精摄取超过24g，相当于2小杯果酒和1品托啤酒。国际癌症研究机构(IARC)长期以来坚信饮酒和癌症有联系，尤其是上消化道癌、肝癌、结肠癌和乳腺癌。这项研究开始于90年代中期，共访查了36万3千人。论文发表在British Medical Journal上。"</i>

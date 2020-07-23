@@ -1,0 +1,47 @@
+➜多名维权律师被控颠覆国家政权
+https://www.solidot.org/story?sid=46873	8276
+北京锋锐律师事务所的律师周世锋、王全璋、实习律师李姝云、助理赵威被以嫌颠覆国家政权的罪名<a target="_blank" href="http://cn.nytimes.com/china/20160113/c13china/"><u>正式批捕</u></a>。颠覆国家政权的罪名最高能处以无期徒刑。官方《人民日报》旗下小报《环球时报》发表<a target="_blank" href="http://opinion.huanqiu.com/shanrenping/2016-01/8375749.html"><u>署名文章</u></a>，称“这些律师和助理被依法拘留、刑侦，然后逮捕并提起公诉，但最终他们的罪名是否成立，只能由法院做出裁定。在此之前，知情人和舆论可以做案情分析，但都不应该为他们做有罪或无罪背书，尤其不应搞‘舆论审判’，向法院施压。”但反讽的是，官方媒体在去年7月已经对他们进行了“舆论审判”，指责他们是<a target="_blank" href="http://opinion.people.com.cn/n/2015/0723/c1003-27351240.html"><u>死磕派律师</u></a>，“这些‘死磕’律师在庭内、网上公开对抗法庭，并幕后指使挑头滋事骨干组织访民”进行抗议活动。”
+➜Qt不再使用LGPLv2.1授权
+https://www.solidot.org/story?sid=46874	13693
+Qt公司<a target="_blank" href="http://lwn.net/Articles/671755/"><u>宣布</u></a>改变Qt跨平台应用开发框架的许可证授权。新版的Qt将在一个商业许可证、GPLv2、GPLv3和LGPLv3下授权，不再使用LGPLv2.1授权。Qt公司称，更新的开源许可证将能在用户使用开源版的Qt时确保用户自由，<span>LGPLv3明确禁止封闭嵌入式设备分发</span><span><span>LGPLv3授权的软件</span>，在</span><span>LGPLv3下分发的软件还向所有软件的接收者给予了专利许可。</span>
+➜微软开源Edge的JS引擎ChakraCore
+https://www.solidot.org/story?sid=46876	17359
+微软上个月宣布，将开源Microsoft Edge浏览器使用的JavaScript引擎Chakra，开源的版本称之为 ChakraCore。现在，托管在GitHub上的<a target="_blank" href="https://github.com/Microsoft/ChakraCore"><u>ChakraCore</u></a>源代码<a target="_blank" href="https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/"><u>正式公开</u></a>。ChakraCore是一个完整支持的、独立的开源JavaScript虚拟机，可嵌入到衍生产品中，驱动需要脚本功能的产品如NoSQL数据库、生产力工具和游戏引擎。开发者现在可以使用 Visual Studio 2013或2015在Windows 7 SP1 或以上版本上构建 ChakraCore，目前它只支持Windows，微软承诺将会支持其它平台，第一个将是Linux。
+➜欧洲雇主能查看雇员工作时间发送的私人信息
+https://www.solidot.org/story?sid=46877	18887
+欧洲人权法院法官<a target="_blank" href="http://www.bbc.com/news/technology-35301148"><u>作出裁决</u></a>，雇主能查看雇员工作时间通过聊天工具和电子邮件发送的私人信息。2007年，一位罗马尼亚的工程师在工作时间通过Yahoo Messenger发送了私人信息，雇主检查了他发送的信息，然后解雇了他，这位工程师认为雇主侵犯了他的保密信息的权利。但法官认为雇员违反了公司规定，因此雇主有权检查其活动，在这件事上公司并没有错误，法官驳回了这位前雇员的请求。
+➜用无人机捕捉另一架无人机
+https://www.solidot.org/story?sid=46878	26058
+<center>
+<iframe src="https://www.youtube.com/embed/jvdKNBSWPyU" allowfullscreen="" frameborder="0" height="360" width="512"></iframe><br>
+<br>
+</center>
+密歇根科技大学的一个团队开发出了<a target="_blank" href="http://www.mtu.edu/news/stories/2016/january/drone-catcher-robotic-falcon-can-capture-retrieve-renegade-drones.html"><u>无人机捕捉系统</u></a>，用于捕捉<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/watch-a-drone-capture-another-dronewith-a-net/"><u>可疑的无人机</u></a>。这些无人机可能携带了炸弹等负荷，击落它们可能带来危险，捕捉它们然后将其拖走则要安全得多。上面的视频演示了无人机发射网去捕捉另一架无人机，机器人专家Mo Rastgaar称这是一个概念验证原型，他们在2014年秋天启动这个项目，2015年1月就开发出了原型。他表示，网的大小、范围，以及无人机猎手的规格都可以调整以满足替代特定场景的特定要求。
+➜Nest恒温器的软件bug导致很多用户受冻
+https://www.solidot.org/story?sid=46879	27382
+用户在Nest公司的<a target="_blank" href="https://community.nest.com/message/57004#57004"><u>论坛</u></a>和社交媒体上抱怨，该公司生产的智能恒温器在晚上突然关闭导致他们被冻醒。该公司已经知道问题的存在。公司联合创始人Matt Rogers将问题归罪于去年12月的一次软件更新，称这次更新引入了一个bug。它向用户提供了一个复杂的问题修正方法，要求用户手动重启恒温器，其中包括将设备与墙壁分离，用一根USB线充电15分钟，重新装到墙壁上，按一系列按钮，再次充电至少1个小时...相比非智能设备，智能设备给用户带来了<a target="_blank" href="http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html"><u>更多意想不到的麻烦</u></a>。
+➜微软向Windows 7/8用户提供方法退出升级
+https://www.solidot.org/story?sid=46880	29916
+微软向Windows 7/8用户提供Windows 10的免费升级，但对于没有升级计划的用户来说，系统托盘上不断弹出的升级广告非常恼人，而微软并没有提供简单的方法一劳永逸的关闭这个升级通知。现在，在受到广泛批评之后，微软官方博客终于<a target="_blank" href="http://blogs.technet.com/b/windowsitpro/archive/2016/01/13/making-it-easier-for-small-businesses-to-upgrade-to-windows-10.aspx"><u>宣布</u></a>向Windows 7/8用户提供方法退出升级。然而这个方法不是什么一键退出，而是<a target="_blank" href="https://support.microsoft.com/en-us/kb/3080351"><u>相当的繁琐</u></a>：点击计算机配置，点击策略，点击管理模块，点击Windows 组件，点击更新，双击关闭升级，点击Enable。或者是在注册表里搜索HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate，然后设置值DisableOSUpgrade = 1。有人认为应该对微软<a target="_blank" href="http://arstechnica.com/information-technology/2016/01/microsoft-finally-has-a-proper-way-to-opt-out-of-windows-78-to-windows-10-upgrades/"><u>发起集体诉讼</u></a>。
+➜RMS在硬件上的失误
+https://www.solidot.org/story?sid=46881	33533
+我们每个人都欠Richard Stallman（RMS）很多，如果不是他坚持不懈的努力，今天的互联网和计算机将大不相同，Linux、Apache、PHP、Blender、维基百科和MySQL可能不会存在或至少不会是如今的模样。但在一个领域，RMS的软件自由和用户自由理念碰了壁：硬件。他在制定GPL许可证时没有考虑硬件<a target="_blank" href="http://hackaday.com/2016/01/13/stallmans-one-mistake/"><u>可能是他犯下的最大错误</u></a>。我们今天使用的每一种类型的电子设备上几乎都有私有的秘密代码。举例来说，英特尔的PCU上都嵌入了名叫Intel Management Engine (ME)的协处理器，它本身就是一个完整的计算机，没有几个人知道它是怎么工作的，它就像是一个完美的后门。x86处理器上还有一种名叫微码的底层程序，告诉电路如何对每一个指令作出反应。几乎每一种处理器架构都有微码，但ARM处理器是一个例外，它没有这些秘密，所以黄欣国的开源笔记本 Novena使用了ARM处理器。
+➜中国联通和电信结盟
+https://www.solidot.org/story?sid=46882	34255
+移动市场上第二大和第三大的国企宣布结盟<a target="_blank" href="http://www.ftchinese.com/story/001065745"><u>以对抗第一大的国企</u></a>。总部都在北京金融街（移动也在这条街上）的中国联通和中国电信公布了一份广泛的协议，拟在多个领域开展战略合作，包括共享资本支出、推动智能手机标准化、联合谈判国际漫游资费，以及合作推广它们的产品。分析师称，“他们实质上已决定建设第三个网络，这将是一个4G网络，在农村地区为联通和电信两家的用户服务。”此举将让两家公司节省30%至40%的资本支出，以及50%的运营支出。分析师表示，该协议的另一个方面——推动六模“全网通”成为智能手机的国家标准——很可能对中国政府具有吸引力，而且似乎意在促使工信部官员对中国移动施压，要求该公司也支持这种标准。
+➜Google承认如果不人为干预自主驾驶汽车会出车祸
+https://www.solidot.org/story?sid=46883	36439
+Google在最新的自主驾驶汽车<a href="http://www.consumerwatchdog.org/resources/cadmvdisengagereport-dec.2015.pdf"><u>安全报告</u></a>（PDF）中承认，如果司机不人为干预自主驾驶汽车会出车祸。Google曾计划制造没有手动控制装置的自主驾驶汽车，但从Google的报告上看目前的技术还不成熟，不可能完全去除手动控制装置。Google<a target="_blank" href="http://www.bbc.com/news/technology-35301279"><u>在报告中称</u></a>，过去15个月它的自主驾驶汽车在加州公路上行驶里程超过68万公里；有272次软件自己检测到错误而向司机报警，向人类司机交出了驾驶控制权；有另外69次司机在软件没有报警的情况下控制了汽车，因为他们意识到会有安全威胁，其中13次可能会发生车祸，2次可能会撞上交通锥标，11次可能会发生更严重事故。Google称，工程师已经研究了这些情况，完善了软件确保汽车安全驾驶。
+➜黑客劫持美国国家情报总监的私人电邮账号
+https://www.solidot.org/story?sid=46884	38416
+自称Cracka的黑客声称与一群年轻黑客<a target="_blank" href="http://motherboard.vice.com/en_uk/read/teen-who-hacked-cia-email-is-back-to-prank-us-spy-chief"><u>劫持了美国国家情报总监James Clapper的私人电邮账号</u></a>。国家情报总监办公室证实了此事，表示已经报警。Cracka声称入侵了Clapper的Verizon FiOS账号，改变了电话服务的设置，将所有来电转到Free Palestine Movement。Cracka还声称入侵了他的私人电子邮件账号和他妻子的雅虎电邮账号。去年10月，同一名黑客或黑客组织劫持了中情局局长John Brennan的私人电邮账号。
+➜人类逃脱了一次新的冰河期
+https://www.solidot.org/story?sid=46885	40855
+地球历史上有一个冰河期-间冰期的循环，这一周期被认为与地球的轨道运行和太阳的光照模式有关。过去一百万年里的两次间冰期分别发生在80万年前和40万年前，我们就处于间冰期到冰河期的过渡中，研究人员认为根据轨道模式地球应该进入到一个新的冰河期或冰河时代中，但人类的活动和工业时代以来排放的大量温室气体使得冰河期<a target="_blank" href="https://www.washingtonpost.com/news/energy-environment/wp/2016/01/13/scientists-say-humans-have-basically-canceled-the-next-ice-age/?postshare=9011452711329546&amp;tid=ss_tw"><u>推迟了</u></a>。下一次冰河期可能至少要到10万年后才会发生。<a target="_blank" href="http://www.nature.com/nature/journal/v529/n7585/full/nature16494.html"><u>研究报告</u></a>发表在《自然》期刊上。
+➜三星取代台积电为高通代工骁龙820
+https://www.solidot.org/story?sid=46886	42363
+三星取代台积电为高通<a target="_blank" href="http://cn.reuters.com/article/samsung-chip-idCNKCS0US0R320160114?sp=true"><u>代工其<span id="articleText"><span class="focusParagraph">旗舰移动处理器</span></span>骁龙820</u></a>。此前高通的高端移动芯片都是台积电代工的，高通是移动市场上最大的芯片供应商。这笔交易显示，面临<span id="articleText">来自苹果和华为激烈竞争的三星正试图通过代工推动收入来源多元化，三星手机的利润已被竞争对手严重削弱，尽管它仍然是最大的移动手机制造商，但市场份额在收缩。新的芯片将采用14纳米工艺制造，而三星正在研发10纳米工艺，分析师认为一旦研发成功，高通有望成为三星的主要客户，带动更多客户离开台积电。<br>
+</span>
+➜中国贫富差距扩大
+https://www.solidot.org/story?sid=46887	43846
+北京大学中国社会科学调查中心<a target="_blank" href="http://www.isss.edu.cn/index.php?catid=2&amp;action=content&amp;contentid=291"><u>发布了</u></a>《中国民生发展报告2015》，报告称中国的<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/01/160114_china_cfps_report"><u>贫富差距扩大</u></a>，1%的家庭拥有全国约三分之一的财产，25%的家庭拥有的财产总量仅在1%左右。报告显示，60年代出生的人群教育不平等程度最低，此后不平等程度不断上升，80年代出生的人群教育不平等程度 达到历史最高。在医疗保障上，本应起到减小收入差距作用的社保体系反而起到逆向调节的作用。在性别方面，女性往往受教育水平更低，工作和收入更差，相应健康水平也比男性更差。农村居民患抑郁症的人更多，其慢性病类型主要为高血压、呼吸系统疾病和胃肠炎，而后两者主要由落后的生活条件和医疗卫生服务导致。报告还发现在中国城镇家庭中房屋的拥有权以丈夫为主。而相对教育水平、收入以及夫妻双方对现代平等思想的认同则对妻子拥有房产的概率有显著的影响。此外，报告引用了“围城”的借喻，强调城外“剩男”与“剩女”在社会学和人口学意义上的差异：前者往往是被动排斥在婚姻市场之外，而后者则更多是一种自我选择。于此同时，身处婚姻城内的家庭也不乏动荡，离婚率呈现明显的代际差异，教育水平和性别也影响个体的离婚风险。

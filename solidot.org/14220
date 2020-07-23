@@ -1,0 +1,31 @@
+➜IPv6使用率两年内增长300%
+https://www.solidot.org/story?sid=8968	60
+NRO(Number Resource Organization)宣布，IPv6使用率在过去两年中<a href="http://www.nro.net/documents/press_release_031108.html">增长了约300%</a>，其中印度等发展中国家的IPv6部署较快，美国等发达国家的进展却相对缓慢。<i>
+目前总计约40亿地址<a href="http://zh.wikipedia.org/wiki/IPv4">IPv4</a>（例如255.255.255.255）正面临枯竭、耗尽，数量几乎无限的（2^128）和更安全的<a href="http://zh.wikipedia.org/w/index.php?title=IPv6&amp;variant=zh-hans">IPv6</a>（例如2001:0db8:85a3:08d3:1319:8a2e:0370:7344）正在加紧替代。</i>
+➜谷歌不能正常访问
+https://www.solidot.org/story?sid=8969	26700
+zissan 写道<i>"从今天早晨开始发现谷歌中国的<a href="http://www.google.cn/">主页</a>无法正常访问。从我的笔记本上用traceroute命令追踪到达的最后一个节点的IP地址是202.97.44.170，根据<a href="http://www.ip138.com/">IP138</a>等三个网站的查询结果，都指向了中国电信的骨干网。另，Google的国际主页的<a href="http://209.67.219.231/">ip地址（209.67.219.231）</a>虽然能顺利ping通，但也无法正常访问。"</i>
+➜德国政府向维基百科捐赠10万图像
+https://www.solidot.org/story?sid=8970	30300
+德国联邦档案馆同意以德语版的<a href="http://commons.wikimedia.org/wiki/Commons:Bundesarchiv">创作共用-署名-相同方式共享</a>许可证，向维基百科<a href="http://commons.wikimedia.org/wiki/Category:Images_from_the_German_Federal_Archive">捐赠10万幅数字历史图像</a>。
+<i>
+图像覆盖的日期<a href="http://commons.wikimedia.org/wiki/Category:Images_from_the_German_Federal_Archive">从1860年一直到今天</a>。这是至今向维基百科的最大图像捐赠，也可能是自由文化运动历史上最大的一次。而这只是开始，德国联邦档案馆最终<a href="http://www.thelocal.de/sci-tech/20081204-15913.html">将提供1100万幅图像</a>。</i>
+➜《Spore》领衔2008盗版游戏下载排行榜
+https://www.solidot.org/story?sid=8971	33600
+TorrentFreak发布了2008年<a href="http://torrentfreak.com/top-10-most-pirated-games-of-2008-081204/">10大盗版游戏排行榜</a>。尽管上市才三个月，并因为DRM而受到用户谴责的EA模拟大作《Spore》遥遥领先于其它游戏，成为本年度下载次数最多的盗版游戏，通过BitTorrent方式它被下载了170万次，排在后面的游戏包括了《模拟人生2》、《刺客信条》（下载超过1百万次）、《孤岛危机》、《命令与征服3》、《使命召唤4》、《 GTA San Andreas》、《辐射3》、《Far Cry 2》、《实况足球2009》。<i>
+事实证明，DRM除了给正版玩家带来麻烦之外，<a href="http://www.gamesetwatch.com/2008/12/inside_game_piracy_pt_2_the_countermeasures.php">并不能阻止盗版</a>，非DRM游戏《粘粘世界》的开发者就发现—<a href="__SLASHLINK__" sect="games" sid="08/11/15/076255" sn="article" tid="96">DRM-Free与DRM游戏盗版率很接近</a>。游戏开发商应该专注于提供<a href="__SLASHLINK__" sect="games" sid="08/12/04/1258206" sn="article" tid="96">更好的游戏体验上</a>，提供额外的可下载内容为正版购买者创造更好的价值。</i>
+➜联合国计划建立小行星快速反应框架
+https://www.solidot.org/story?sid=8972	39840
+一位联合国科学家表示，国际社会应团结起来去解决<a href="http://news.bbc.co.uk/1/hi/sci/tech/7760659.stm">与地球相撞的小行星威胁</a>。<i>
+非盈利组织太空探险家联合会（<a href="http://www.space-explorers.org/">Association of Space Explorers</a>，ASE），其成员包括科学家和前宇航员，向联合国递交一份报告《<a href="http://www.space-explorers.org/ATACGR.pdf">Asteroid Threats: A Call for Global Response</a>》，呼吁建立一个全球小行星快速反应框架以应对小行星威胁。报告指出，6500万前的天地大相撞消灭了恐龙，1908年的通古斯事件毁灭了2000平方公里的森林。ASE称，下一次大危机将可能在20年内发生。联合国将在2月的会议上讨论这一问题。</i>
+➜Windows Perl平台的免费资源
+https://www.solidot.org/story?sid=8973	43200
+根据<a href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">11月份的TIOBE程序语言流行度排名</a>，<a href="http://use.perl.org/~Ovid/journal/38010">Perl语言呈衰退趋势</a>，从去年同期的第6下降到第9，未来有可能历史上首次从TOP10中踢出。Perl社区确实要努力了。<i>
+现在，Adam Kennedy，又名Alias，他开发的<a href="http://strawberryperl.com/">Strawberry Perl</a>目标是“让Win32成为Perl世界真正的第一等公民”，推出一年来，Strawberry Perl使用的主要<a href="http://zh.wikipedia.org/w/index.php?title=CPAN&amp;variant=zh-hans">CPAN</a>模块都能在Windows下正常运转，但还有数以万计的小模块却滞后了，主要原因是开发者无法访问Windows环境，进行开发和测试。Alias目前正与微软的开源软件实验室合作，向每一位CPAN模块作者提供权限<a href="http://use.perl.org/~Alias/journal/38036">自由访问中央主机虚拟机环境</a>，其中包含了各大版本的Windows。</i>
+➜geek爱看的的杂志
+https://www.solidot.org/story?sid=8974	46080
+<a href="mailto:liuxht@gmail.com">suyuan</a> 写道<i>"一年期末已近，又是订阅报纸杂志的时候了。想知道诸solidoters们都订了什么杂志，科幻？地理？古典？玄幻？时尚？抑或成人？八卦？休闲？家庭？漫画？有没有那么一本书或者一份报，专门适合为geek而作。"</i>
+➜中俄将联合发射火星探测器
+https://www.solidot.org/story?sid=8975	47400
+中俄将联合于明年10月发射<a href="http://news.yahoo.com/s/nm/20081205/sc_nm/us_china_mars">两枚卫星探测器</a>(<a href="http://news.cctv.com/china/20081205/100814.shtml">CCTV</a>)，主要任务是给火星和“火卫1”拍照。<i>
+中国的“萤火一号”将和俄罗斯的“福布斯”探测器一起搭乘俄罗斯的运载火箭飞向火星。“萤火一号”将搭载两个相机，一为宽视场相机，一为窄视场相机。目前遇到的难题是，它如何在7次“长火影”(长期火星阴影)后唤醒。</i>

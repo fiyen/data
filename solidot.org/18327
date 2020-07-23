@@ -1,0 +1,39 @@
+➜当全球数亿学生无法上学
+https://www.solidot.org/story?sid=63721	10925
+新冠疫情让至少九个国家，以及数不清的省市乡镇停课控制疫情，类似的混乱和干扰在世界各地蔓延。在中国、韩国、伊朗、意大利、日本、法国、巴基斯坦和其他地方，全球有数亿学生无法上学。<a href="https://cn.nytimes.com/education/20200305/coronavirus-schools-closed/" target="_blank"><u>这是一场宏大的社会实验</u></a>，在现代教育领域几乎史无前例。学校和去上学的日子有助于为家庭、社区和整个经济提供架构和支撑。将学校关闭数周甚至数月，可能会对孩子和整个社会产生无法估量的、超越地域和阶层的影响。线上学习仍然面临很多的挑战，其中有技术上的障碍，以及当儿童和青少年不受管束地自行使用设备时，也不可避免地会分心。
+➜WireGuard 给 Linux 带来更快更安全的 VPN
+https://www.solidot.org/story?sid=63723	14258
+VPN 是重要的安全隐私工具，它本质上是加密两个或多个设备之间的连接，通过安全隧道路由流量。VPN 连接的安全性与软件息息相关，如果软件不安全，那么连接也不可能有多安全。然而由于现有的 VPN 软件的复杂性，安全审计的工作相当困难。这是为什么 WireGuard 进入内核主线的消息<a href="https://www.wired.com/story/wireguard-gives-linux-faster-secure-vpn/"><u>如此备受瞩目</u></a>。相比其它 VPN 软件动辄数万行代码，WireGuard 首个版本的代码不到 4000 行，代码少不意味着它安全，但意味着问题更容易发现和修复。WireGuard 由安全研究员 Jason A. Donenfeld 创造，他从事渗透测试工作，WireGuard 的前身是一个数据渗漏工具。他在 2012 年移居到法国，想通过一个安全的方式连接美国家中的计算机，他不信任现有的 VPN 软件，意识到可以使用自己开发的数据渗漏工具通过父母家中的计算机安全路由流量。用于网络进攻的工具也能用于网络防御。为了降低复杂度，WireGuard 提前为用户设定了部分选项，IPsec 和 OpenVPN 功能更丰富但也过于复杂，简单的 WireGuard 则能减少犯错的几率。对这一观点，OpenVPN 的作者 James Yonan 有异议，认为 VPN 软件复杂性的恐惧被夸大了，他强调在 OpenVPN 诞生的近二十年里没发现任何严重的漏洞。
+➜KubeCon China 会议取消，RedHat Summit 2020 取消
+https://www.solidot.org/story?sid=63724	20649
+因正在爆发的新冠疫情，计划在近期举办的主要技术会议纷纷取消或延期。Google 宣布取消了线下的 <a href="https://events.google.com/io/" target="_blank"><u>Google I/O</u></a> 大会；RedHat 取消了它的 <a href="https://www.redhat.com/en/summit"><u>2020 年峰会</u></a>，改为 4 月 28 日和 29 日举办线上虚拟活动；计划今年 7 月在上海举办的 2020 <a href="https://www.lfasiallc.cn/kubecon-cloudnativecon-open-source-summit-china/">KubeCon + CloudNativeCon China</a> 会议取消，计划在 3 月 30 日到 4 月 2 日在阿姆斯特丹举办的欧洲会议 <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/">KubeCon + CloudNativeCon Europe</a> 2020 会议延期到 7 月或 8 月。
+➜过去五年的英特尔芯片都包含无法修复的漏洞
+https://www.solidot.org/story?sid=63725	21752
+过去五年的英特尔芯片<a href="http://blog.ptsecurity.com/2020/03/intelx86-root-of-trust-loss-of-trust.html" target="_blank"><u>都包含无法修复的漏洞</u></a>。漏洞 <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-0090">CVE-2019-0090</a> 位于英特尔 CPU 和芯片组子系统  Converged Security and Management Engine(CSME) 的掩模型只读存储器(mask ROM)中，无法通过更新固件修复。安全公司 Positive Technologies 的专家称，问题不只是不可能修复处理器和芯片组掩模型只读存储器硬编码的固件错误，更令人担忧的是漏洞允许硬件层级的入侵，从整体上破坏了平台的信任链。成功利用该漏洞的攻击者可以绕过英特尔 Enhanced Privacy ID (EPID) 提供的安全保护，让提取芯片组加密密钥成为可能。而这个加密密钥不是平台特定的，英特尔同一代芯片组都使用相同的单一密钥。Positive Technologies 担心提取出密钥只是时间问题。一旦密钥泄露，混乱将会发生，硬件 ID 将能伪造，数字内容将能被提取，硬盘加密的内容将能被解密。英特尔表示它正在尝试屏蔽任何可能的利用矢量，但安全研究人员指出芯片巨人目前释出的补丁只能阻挡其中一种。
+➜伊朗以限制社交网站和断网应对疫情
+https://www.solidot.org/story?sid=63726	25732
+在伊朗最高领袖高级顾问因感染病毒去世之后，伊朗屏蔽了维基百科的波斯语版本，这一屏蔽持续了约 24 小时。维基百科在周二恢复访问，但对社交网站如 Twitter 和 Facebook 的屏蔽仍然在持续，政府试图控制与病毒相关的叙事。与此同时，部分地方的网络出现了中断，其中之一是 Qom 市，它被认为是病毒在伊朗爆发的源头。在危机时机，<a href="https://www.vice.com/en_us/article/5dmkna/irans-answer-to-the-coronavirus-outbreak-cut-the-internet" target="_blank"><u>限制互联网访问</u></a>成为专制政权日益流行的手段。<a href="https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Iran"><u>伊朗</u></a>是中国之外新冠疫情最严重的地区之一，有三千多人确诊，108 人死亡。
+➜研究称女性感染新冠的潜伏期更长
+https://www.solidot.org/story?sid=63727	27306
+根据《柳叶刀》期刊的一篇<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3546061&amp;utm_source=EC&amp;utm_medium=Connect"><u>预印本</u></a>，武汉大学的研究人员<a href="http://news.sciencenet.cn/htmlnews/2020/3/436702.shtm" target="_blank"><u>报告了</u></a>新冠传播的性别差异。 这一研究首次表明，女性在 COVID-19 的传播上表现出不同于男性的特征，女性不仅症状相对较轻，而且比男性有更长的潜伏期，这可能是因为女性天生具有比男性更强的抗病毒免疫力。研究人员呼吁，在筛查过程中，无论女性是否有症状，只要接触史明确，就应对她们进行核酸测试，受医学观察的女性隔离期也应超过 14 天。普遍的解释认为，性激素和免疫系统之间的相互作用使男人比女人更容易受到病原体的侵害。通常，女性趋向于产生更强的免疫反应，这有助于她们更快地清除感染并降低疾病持续发展的风险。但是只要存在病毒感染，病毒就会不停地与人体的免疫系统抗争。在病毒突破免疫系统之前，人体没有任何疾病症状，这也就是潜伏期。
+➜索尼 HBO 宣布《最后生还者（Last of Us）》电视剧
+https://www.solidot.org/story?sid=63728	28593
+索尼 PlayStation Productions <a href="https://arstechnica.com/gaming/2020/03/hbo-playstation-announce-last-of-us-tv-series-the-first-of-many-shows/"><u>宣布</u></a> HBO 将制作其热门游戏《<a href="https://zh.wikipedia.org/wiki/%E6%9C%80%E5%BE%8C%E7%94%9F%E9%82%84%E8%80%85" target="_blank"><u>最后生还者（Last of Us）</u></a>》的真人改编电视剧。游戏设定在末日之后的美国，于 2013 年发布，大受好评，其续作将于 2020 年 5 月发布。《最后生还者》的创意总监和编剧 Neil Druckmann 将担任电视剧的执行制作人和联合编剧，另一位执行制作人是《切尔诺贝利》的制作人 Craig Mazin。索尼影业电视工作室的联席总裁 Chris Parnell 表示该公司计划将更多的游戏作品搬到荧幕上，但没有澄清合作对象是否还是 HBO。
+➜过度审查影响在线课堂
+https://www.solidot.org/story?sid=63729	32478
+随着新冠疫情在中国持续蔓延，绝大多数中国大学和中小学已将教室搬到网上，要求学生们在线上课。但令人措手不及的是，很多老师发现自己因发布“违规图片”或讨论政治议题遭到封禁。很多教师对于平台和审查人员的过度反<a href="https://www.bbc.com/zhongwen/simp/chinese-news-51749842"><u>应感到困扰</u></a>，一些学生也在社交媒体上表达了他们的不满。<a href="https://s.weibo.com/weibo/%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8A%E7%BD%91%E8%AF%BE%E6%9C%89%E5%A4%9A%E9%9A%BE%23?topnav=1&amp;wvr=6&amp;topsug=1">#医学生上网课有多难#</a>日前成为微博的热门话题，很多网友纷纷留言他们哭笑不得的经历。在一个例子中，一名妇产科护理学教师通过聊天应用QQ在线授课，但仅过了几秒钟就遭到封号。她随后在微信上说，回想很久后，认为“估计是提到了外生殖器解剖”。在河南中部一所中学教历史的王老师表示，她的包括试卷在内的教学材料，疑因为包含政治敏感词，无法通过社交软件发送给学生们。
+➜Let's Encrypt 暂缓撤销证书
+https://www.solidot.org/story?sid=63730	35327
+Let's Encrypt 上周<a href="https://www.solidot.org/story?sid=63707"><u>宣布</u></a>在 CAA（Certification Authority Authorization）代码中发现 bug，它将从美国东部时间 3 月 4 日下午 3 点开始撤销受到影响的客户证书。在 Let's Encrypt 签发的 1.16 亿活跃证书中有 3,048,289 个证书需要替换。但由于时间过于仓促，Let's Encrypt <a href="https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591/3"><u>宣布</u></a>暂缓撤销证书。它表示已经有 170 万受影响的网站更换了证书，但还有一百多万网站不太可能在截止日期前完成证书更替。为了避免影响这些网站给其访问者造成困惑，Let's Encrypt 认为还是暂缓为最佳策略。Let's Encrypt 的证书有效期只有 90 天，130 万尚未撤销的证书构成的安全风险很低。300 万个受影响证书只有 445 个确实违反了规定，而它们都已经撤销。
+➜美国防承包商遭勒索软件攻击，至今未完全复工
+https://www.solidot.org/story?sid=63731	44913
+一家美国大型国防承包商在 1 月中旬<a href="https://techcrunch.com/2020/03/05/cpi-ransomware-defense-contractor/"><u>遭勒索软件攻击</u></a>，至今未完全恢复。位于加州的 Communications &amp; Power Industries (CPI)为雷达、导弹导引头和电子战技术提供配件，其客户包括了美国国防部及其研发机构 DARPA。事故发生在一月中旬，一位具有域管理权限的用户点击了恶意链接，触发了勒索软件对文件进行加密，数千台计算机都在同一域内，勒索软件快速扩散到每一个 CPI 办公室，包括现场备份（on-site backups）。该公司之后向攻击者支付了约 50 万美元赎金。部分包含敏感军事数据的计算机用解密密钥恢复数据，其中之一包含了与洛克希德马丁公司神盾系统相关的文件。到二月底只有四分之一的计算机恢复运行。许多计算机都重新安装了操作系统。CPI 发言人证实遭到了攻击，但拒绝提供更多信息，因此目前不清楚它感染了什么勒索软件。
+➜研究报告称参与基本收入试点的人继续工作，更快乐
+https://www.solidot.org/story?sid=63732	49185
+反对基本收入的人所持的观点通常是这会助长懒惰减少寻找工作的动力。但加拿大安大略省现已取消的基本收入试点报告给出了<a href="https://news.slashdot.org/story/20/03/05/2024220/people-kept-working-became-healthier-while-on-basic-income-report"><u>不同的结论</u></a>，而安大略省取消试点的理由就是以未能帮助人们成为经济独立贡献者的——也就是继续工作。这份标题为《<a href="https://labourstudies.mcmaster.ca/documents/southern-ontarios-basic-income-experience.pdf" target="_blank"><u>Southern Ontario's Basic Income Experience</u></a>》（PDF）的报告称，参加试点时有工作的人近四分之三仍然继续工作。那么剩下四分之一是不是就放弃工作坐吃山空？不是，很多人放弃现有的工作去接受教育或培训以希望未来能找到更好的工作。如一名 57 岁的男子在试点期间参加了成人教育项目，他对此非常开心。报告称，近八成的人表示健康改善了，一半的人表示减少了吸烟，超过八成的人表示压力或焦虑减少更自信了，三分之二的人称与家人的关系变好了。
+➜CIA 储存机密黑客工具的虚拟机使用的密码是 123ABCdef
+https://www.solidot.org/story?sid=63733	52051
+美国正在起诉被指泄露 CIA 黑客工具集 Vault 7 和 Vault 8 的前雇员 Joshua A. Schulte。审讯透露的信息显示，CIA 内部的信息安全措施<a href="https://www.theregister.co.uk/2020/03/05/cia_leak_trial/"><u>称不上有多严密</u></a>，储存机密黑客工具的虚拟机密码是 123ABCdef，DevLAN 服务器的 root 登陆密码是 mysweetsummer，而这些密码在内部是共享的，发布在局域网内。聊天记录显示，每个人对这些薄弱的信息安全实践都心知肚明，并对此开玩笑。
+➜英国保守党议员想要彻底排除华为
+https://www.solidot.org/story?sid=63734	56464
+一些资深保守党议员试图于下周通过一项法律，确保英国的电信网络——包括 5G 移动电话基础设施——在 2022 年之后<a href="http://www.ftchinese.com/story/001086639" target="_blank"><u>不包含任何华为的设备</u></a>。此前，英国首相鲍里斯•约翰逊(Boris Johnson)于今年 1 月决定让这家中国电信设备制造商发挥有限作用，参与为英国 5G 网络提供设备。约翰逊政府提议将华为的市场份额限制在 35% 以内。一些保守党议员担心，允许华为在英国关键基础设施中发挥任何作用都将危及国家安全——这呼应了美国的担忧。华盛顿担心中国政府可能利用华为的设备对其他国家开展间谍活动。

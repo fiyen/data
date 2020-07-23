@@ -1,0 +1,61 @@
+➜黑客如何入侵你的路由器？
+https://www.solidot.org/story?sid=39313	6515
+<a href="http://www.geekfan.net/">创客</a> 写道<i> "入侵一个大公司很容易(也许吧)。他们的信息资源可能分布在全球各地，尽管他们会投资各种各样的防护技术，但这也仅仅是让我们很难追踪他们所有的东西而已。他们得日复一日的为所有资产严格地执行扫描-修补-重启流程，不容有失。
+但是入侵个人则很困难。的确，黑帽技术在非对称的信息安全性方面有它的优势。有时只需要一个bug（就可以成功黑掉大公司）。但是与大公司相比，个体目标暴露的攻击区域非常小。
+phikshun 是一位搞逆向工程研究的工程师，他应邀入侵一位搞信息安全的人的路由器。phikshun 特意写了一篇<a href="http://disconnected.io/2014/03/18/how-i-hacked-your-router/" target="_blank">博文</a>（<a href="http://blog.jobbole.com/65624/" target="_blank">译文</a>）。"</i>
+➜因为儿童保护法Cortana不会和孩子交谈
+https://www.solidot.org/story?sid=39314	9936
+<div align="center"><img src="http://img.solidot.com.cn/0/672/li0rJ7WLgBPIE.jpg" align="" height="149" width="320"><br>
+<br>
+</div>
+微软Windows Phone的虚拟语音助手Cortana<a target="_blank" href="http://www.cnet.com/news/cortana-doesnt-talk-to-kids/"><u>不会与13岁以下儿童对话</u></a>，它需要遵守美国的儿童在线隐私保护法。Cortana在处理语音命令时需要收集数据和将数据发送到微软服务器，儿童在线隐私保护法规定要在父母的同意下才能共享在线信息，而Cortana目前还没有必要的父母控制功能。Cortana尚未正式推出，还处于Beta阶段，只提供给Windows Phone 8.1的开发者。Cortana需要你告诉她年龄后才会拒绝对话，她并不能根据声音判断年龄。
+➜净网行动，新浪大跌15%
+https://www.solidot.org/story?sid=39315	12044
+彭博中美55指数上周下跌2.3%，<a target="_blank" href="http://www.nanzao.com/sc/money/25894/wang-luo-sao-huang-da-fei-xin-lang-shang-zhou-ling-die-zhong-zi-gu"><u>新浪重挫15%</u></a>，创下2012年11月以来最大周度跌幅，视频网站优酷土豆大跌。彭博分析师Praveen Menon接受电话采访时表示，中国政府的扫黄打非“绝对应该认真看待”。对于上周末下架四部美剧，优酷发言人<a target="_blank" href="http://www.theguardian.com/world/2014/apr/27/china-censor-big-bang-theory-stream-tv"><u>表示</u></a>它是在周六收到了下架通知。搜狐视频相关负责人表示：“静观其变，具体情况等通知。”广电总局上个月下发的通知称，今后网站购买的美剧、英剧必须“<a target="_blank" href="http://www.chinanews.com/cul/2014/04-28/6111429.shtml"><u>先审后播</u></a>”，对于违规播出的单位，它将依据《互联网视听节目服务管理规定》予以警告、责令改正、罚款等处罚。有媒体评论称，在相关政策的介入下，现在视频网站内80%的美剧将被下架。
+➜数学家呼吁拒绝与NSA合作
+https://www.solidot.org/story?sid=39316	15931
+NSA和GCHQ都是世界最大的数学家雇主，当NSA和GCHQ大规模监视活动曝光之后，数学家社区对其是什么反应？大多数人是完全忽视。英国爱丁堡大学的数学家<a href="http://www.maths.ed.ac.uk/%7Etl/">Tom Leinster</a>在《新科学家》上呼吁<a target="_blank" href="http://www.newscientist.com/article/mg22229660.200-maths-spying-the-quandary-of-working-for-the-spooks.html?full=true#.U13TT6IwLzM"><u>拒绝与NSA和GCHQ进行合作</u></a>。他以Dual_EC_DRBG为例指出，要在加密算法中植入后门没有数学家的帮助是不可能办到的。数学家现在面临一个伦理学问题。以前数学家认为他们所做的和日常世界无关，比如G. H.哈代就自豪的宣称，“我从未做过任何‘有实用价值’的事情，没有一项我的发现，对世界的舒适程度产生过（或可能产生）哪怕是最小的，直接或间接的，好的或坏的影响。”。但在现代世界数学毫无疑问有着实用价值，数学家的工作能得到善用也能被恶意使用。大规模监视将世界带入了“奥威尔式的社会”。数学家必须做出决定：是否应该继续与情报社区进行合作。
+➜微软警告IE漏洞，影响IE6
+https://www.solidot.org/story?sid=39317	18321
+微软安全博客罕见的在周末<a target="_blank" href="http://blogs.technet.com/b/msrc/archive/2014/04/26/microsoft-releases-security-advisory.aspx"><u>发出警告</u></a>，宣布了一个影响所有IE版本（IE6到11）的漏洞。其中IE6是Windows XP默认的浏览器，XP已经终止支持，不清楚微软是否会破例为XP发布补丁。漏洞会在IE访问内存中一个已经删除或没有正确分配的对象时发生，内存可能会被破坏，允许攻击者获得当前用户的访问权限，执行任意代码。<a target="_blank" href="http://cn.wsj.com/gb/20140428/tec111314.asp"><u>微软表示</u></a>，已知一些黑客试图利用该漏洞发起“有限及有针对性的攻击”。据称发现该漏洞的安全公司FireEye说，黑客的攻击对象主要是美国的金融和国防企业。该公司也没有提供进一步的细节。FireEye称，攻击行动集中在IE9到IE11的版本。
+➜央视将引进《生活大爆炸》
+https://www.solidot.org/story?sid=39318	24527
+一边是广电总局<a target="_blank" href="http://www.solidot.org/story?sid=39311"><u>下令</u></a>搜狐等下架《生活大爆炸》，另一边<a target="_blank" href="http://politics.caijing.com.cn/2014-04-28/114137734.html"><u>却传出</u></a>广电总局下辖的央视准备引进《生活大爆炸》，目前正交给<a target="_blank" href="http://www.cbmbj.com/about/2013-05-15/1.html"><u>CBM影视译制机构</u></a>进行翻译。央视是中国最大的官方媒体，其上级管理机构正是广电总局。同一时间曝光的两件事令人怀疑《生活大爆炸》的下架或许与央视有关，它可能试图通过引进热播的美剧吸引日益远离电视机的互联网用户。央视已经引进了HBO的热播美剧《权力的游戏》。CBM影视译制机构位于北京西城区天莲大厦，该大厦是多个政府机构的办公地点，如北京无线电管理局。
+➜新墨西哥垃圾场发掘出雅达利的《E.T.》
+https://www.solidot.org/story?sid=39319	27742
+传说是真的。游戏考古学家在新墨西哥的一个垃圾场<a target="_blank" href="http://arstechnica.com/gaming/2014/04/landfill-excavation-unearths-years-of-crushed-atari-treasure/"><u>发掘出了</u></a>雅达利（Atari ）抛弃的《E.T.》和其它 Atari 2600游戏。<a target="_blank" href="http://en.wikipedia.org/wiki/Atari"><u>雅达利</u></a>曾经是游戏界的巨人，它的陨落也是游戏界最津津乐道的故事之一，Fuel Entertainment 和Xbox Entertainment Studios正着手制作雅达利的纪录片，他们雇佣了一个考古团队去发掘30年前被雅达利抛弃在垃圾场的游戏。<br>
+<i>1982年的Atari正处于它的顶峰，它于1976年被华纳传播公司收购，但到了1982年底，许多因素导致了雅达利雪崩式的坠落，导致它坠落的主要原因被认为是发布了大量低质量的游戏，消费者和零售商因此而对它失去信心。其中就包括了1982年热门电影改编的游戏《E.T.》，游戏是由程序员Howard Scott Warshaw独自一人开发，他最近接受采访时透露，他只有五周时间从零开始开发游戏，公司内除了他没有关心这款游戏。尽管如此，雅达利依旧预生产了数百万游戏磁盘。结果到1983年第二季度，华纳报告亏损超过3亿美元，1000万美元的游戏堆积在仓库没有售出。1983年3月，雅达利解雇了1700名雇员，关闭位于美国德州的工厂。传说称，它在距离德州工厂90英里外的新墨西哥Alamogordo垃圾场抛弃了大量未售出的游戏。许多人对此说法表示怀疑。但最新的挖掘证明传说是真的。</i>
+➜日产开发出能自我清洁的汽车
+https://www.solidot.org/story?sid=39320	28814
+<center>
+<iframe src="https://www.youtube.com/embed/UwoGsCAKsxU?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center>
+日产公司的工程师为Nissan Note小型车开发出一种能自我清洁的油漆<a target="_blank" href="http://nissannews.com/en-US/nissan/usa/releases/nissan-develops-first-self-cleaning-car-prototype"><u>Ultra-Ever Dry</u></a>，使用超疏水性和疏油材料，能防水防油防尘。油漆使用纳米技术在汽车表面上创造一层薄空气屏障，使得雨水、路上飞溅的污泥，冰雹等无法玷污汽车。自我清洁的油漆将作为一个可选的功能提供给消费者。油漆的耐用性尚不清楚，许多人<a target="_blank" href="http://tech.slashdot.org/story/14/04/27/1426216/nissan-develops-a-self-cleaning-car"><u>推测</u></a>积累的损伤最终会使得自我清洁能力失效。
+➜郭台铭称八成员工喜欢加班
+https://www.solidot.org/story?sid=39321	30864
+鸿海/富士康董事长郭台铭<a target="_blank" href="http://epaper.jinghua.cn/html/2014-04/28/content_84369.htm#_fin1"><u>表示</u></a>，富士康有80%的员工都喜欢加班，公司内部管理问题没有媒体报道的那么严重。富士康在中国大陆雇佣了超过100万员工，是全球最大的代工厂。郭台铭上周宣布投资建设数据中心，并透露正在研究机器人和纳米技术。郭台铭称，“80%到90%的员工都喜欢加班，多赚点钱将来可以回乡买房子。”他声称，90后年轻人不向往重复机械的工作，他们在手机上网能看到各种资讯，他们接受资讯的能力是一流的，但是判断资讯的能力却非常贫乏。他表示增加机器人的使用不会大量裁员，计划到2020年转型。
+➜台湾暂时停建核四，将举行全民公投
+https://www.solidot.org/story?sid=39322	32737
+在周末数万民众上街抗议核四（第四核电站）后，台湾宣布暂停建设核四，将举行全民公投，决定是否继续建设。在2011年日本福岛核事故发生之后，核电站的安全性在全世界引发了恐慌，德国等国宣布废弃核电，结果是在德国火电再次成为最主要的发电方式。台湾的情况类似，台电声称，如果淘汰所有核电站，台湾在2018年之后可能<a target="_blank" href="http://news.cnyes.com/Content/20140428/KIUWQA2VON4Q3.shtml"><u>面临限电</u></a>。但<a target="_blank" href="http://cn.wsj.com/gb/20140428/bch094913.asp"><u>反对者称</u></a>，“核电的安全性有太多未解问题，像日本这样的发达国家都会发生核灾难，又有谁能保证台湾不会发生类似问题呢？”台湾经济部能源局称，台湾现有的三座核电厂将于2025年除役，正在兴建的第四座核电厂计划于2050年除役。
+➜比尔盖茨投资人造鸡肉和牛肉
+https://www.solidot.org/story?sid=39323	35425
+在投资了<a target="_blank" href="http://www.solidot.org/story?sid=37392"><u>植物蛋</u></a>创业公司Hampton Creek Foods后，微软联合创始人比尔盖茨和Twitter创始人向植物鸡肉和牛肉公司Beyond Meat<a target="_blank" href="http://www.today.com/food/today-puts-meatless-meat-test-does-it-taste-chicken-1D79579619"><u>投资了数百万美元</u></a>。这家公司通过研究混合豌豆和植物的蛋白质模拟出鸡肉和牛肉的味道。他们的植物鸡肉和牛肉已能以假乱真，让人无法区分。目前的关键在于如何说服食肉动物变成食素动物。盖茨相信，只要植物肉的价格显著低于肉，就是对人类营养的大贡献。Beyond Meat计划在今年夏天推出不含胆固醇、激素或反式脂肪的植物汉堡包。
+➜亚马逊女性高管极少
+https://www.solidot.org/story?sid=39324	37704
+在古希腊神话中，亚马逊人是全部由女战士构成的部落，而美国亚马逊人不是由女性统治的，高层女性尤其少。《卫报》<a target="_blank" href="http://www.theguardian.com/technology/2014/apr/25/amazon-employs-18-women-among-120-senior-managers"><u>报道</u></a>，在亚马逊约120名高级经理中，只有18名女性，而且没有一名能直接向老板汇报。贝索斯（Jeff Bezo）是通过12名直接向其汇报的全男性团队管理公司。在亚马逊，最上面的两层共有132人，其中13名女性是行政助理，在119名高级经理中，18名是女性。亚马逊董事会有2名女性，但没有一名是执行董事。一位匿名人士说，亚马逊存在一个无形屏障，女性难以获得高级经理以上的职务。
+➜如何利用Heartbleed漏洞窃取私钥
+https://www.solidot.org/story?sid=39325	40690
+OpenSSL的Heartbleed漏洞会泄露用户敏感数据，也会泄露网站私钥。云计算公司CloudFlare的<a target="_blank" href="http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed"><u>挑战赛</u></a>证明窃取私钥是可能的。剑桥大学计算机实验室安全团队的博士生Rubin Xu在Ars上发表文章，介绍他<a target="_blank" href="http://arstechnica.com/security/2014/04/how-i-used-heartbleed-to-steal-a-sites-private-crypto-key/"><u>如何利用Heartbleed漏洞窃取网站的私钥</u></a>。Rubin Xu解释说，2048位的N是两个随机生成的大素数p和q的乘积，N是公开的，而p和q是保密的。要发现p或q以获取密钥，一种方法是因式分解N，但这非常困难。有了Heartbleed漏洞，攻击就变得简单多了：因为Web服务器需要内存中的私钥签名TLS握手，因此p和q必须保留在内存中，所以可尝试利用 Heartbleed数据包获取它们。我们知道p和q是1024位，而OpenSSL在内存中是以小端格式储存数据，窃取密钥的暴力攻击方法是将Heartbleed包中每一个连续的128位字节看作小端数，测试它们是否能被N相除。
+➜广电总局新政呼之欲出
+https://www.solidot.org/story?sid=39326	42635
+《纽约时报》引用中国视频网站爱奇艺高管的话称，广电总局目前正在积极研究一系列计划，<a target="_blank" href="http://cn.nytimes.com/china/20140428/c28streaming/"><u>对网上的进口剧集加以明确管理</u></a>。外国电视剧和电影都被包括在这一计划之内。广电总局的官员们为新的规则已经准备了“至少一年”。广电总局曾经和爱奇艺等在线流媒体视频公司“小规模”地讨论过这些新规则。另一名视频网站的资深雇员匿名透露：广电总局至少在考虑两项措施，二者都要求视频网站彻底调整商业模式。一种选择是设立一个单独的中介机构，作为外国版权方与中国互联网公司的中间人。中国流媒体视频网站目前一般都是直接同外国版权方谈判许可协议的，“显然，这就等于是说‘不许直接和外国合作伙伴接触’”。另一种可能是建立一种“联合审查机构”，来决定哪些节目可以被播放，如果需要剪辑，那么需要被剪辑到什么程度。目前视频网站主要依靠自我审查。
+➜IBM打印出世界最小的3D杂志封面
+https://www.solidot.org/story?sid=39327	43924
+<div align="center"><img src="http://img.solidot.com.cn/0/247/linz8UfeaGw.jpg" align="" height="360" width="480"><br>
+<br>
+</div>
+IBM研究院和国家地理杂志合作<a target="_blank" href="http://spectrum.ieee.org/tech-talk/semiconductors/nanotechnology/ibm-prints-worlds-smallest-magazine-cover-in-3-d"><u>打印出世界最小</u></a>的3D杂志封面，大小为11 × 14微米。IBM苏黎士研究院的研究人员几年前开始开发新技术蚀刻聚合物。方法是用加热的硅探针气化基底材料，留下所需要的3D模式。在组合使用商用纳米蚀刻技术之后，研究人员将蚀刻速度提升了1000倍。IBM研究人员已经创建了一家公司<a target="_blank" href="http://www.swisslitho.com/index.php/en/company/about-us"><u>SwissLitho</u></a>，授权使用这项技术。
+➜两名Stephen守护着整个互联网
+https://www.solidot.org/story?sid=39328	46201
+BuzzReads发表了一篇长文，<a target="_blank" href="http://www.buzzfeed.com/chrisstokelwalker/the-internet-is-being-protected-by-two-guys-named-st"><u>介绍了</u></a>OpenSSL项目的两位主要成员Steve Marquess和Stephen Henson。<br>
+<i>Marquess是一名59岁的军方顾问，2006年OpenSSL项目申请通过政府机构的安全认证，他当时的角色是充当政府和项目主力开发者Stephen Henson的联络员；Henson是一名46岁的英国图论博士，他是OpenSSL项目唯一的全职开发者，在OpenSSL软件基金会创建前年收入只有2万美元。2009年Marquess建立了OpenSSL软件基金会，筹集资金资助OpenSSL项目开发。Marquess即将退休，他的女儿已经毕业，房款已经付清，所以没什么需要他忧心，他希望能帮助OpenSSL项目。OpenSSL软件基金会主要通过与大公司签署合同获得商业收入，它的年收入从未超过100万美元，捐款则是屈指可数。Henson递交了60%的代码，超过任何其他开发者，OpenSSL的主要收入用于资助开发新功能而不是维护旧的代码，安全专家认为它的代码并不清晰，太混乱。Heartbleed漏洞促使外界开始关注和资助OpenSSL。Google、IBM、Facebook和微软等将在未来三年向开源基础设施项目资助390万美元，OpenSSL是第一个资助项目。Marquess认为项目需要数百万美元，需要雇佣6名左右的全职程序员和支持人员。</i>

@@ -1,0 +1,47 @@
+➜Codelf通过搜索在线开源平台的项目源码帮开发者给变量命名
+https://www.solidot.org/story?sid=46539	8874
+<a href="mailto:tidelgl@gmail.com">匿名读者</a> 写道<i> "计算机科学里<a href="http://martinfowler.com/bliki/TwoHardThings.html" target="_blank">两件最难的事</a>：缓存失效和命名。<a href="http://unbug.github.io/codelf/" target="_blank">Codelf</a>通过搜索在线开源平台Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Projec的项目源码，帮开发者从中找出已有的匹配关键字的变量名，从而帮助为变量名苦恼的开发者命名。这个搜索服务支持直接搜索中文。
+<p>Codelf 由前网易前端工程师知名移动前端调试工具MIHTool的作者基于searchcode和有道词典开发完成。目前<a href="https://github.com/unbug/codelf" target="_blank">开源在Github</a>上。"</i></p>
+➜Firefox 43发布
+https://www.solidot.org/story?sid=46540	11487
+Mozilla发布了<a target="_blank" href="http://www.mozilla.org/en-US/mobile/43.0/releasenotes/"><u>移动版</u></a>和桌面版的<a target="_blank" href="https://www.mozilla.org/en-US/firefox/43.0/releasenotes/"><u>Firefox 43</u></a>。新版最重要的变化是发布了<a target="_blank" href="https://www.mozilla.org/en-US/firefox/all/"><u>64位的Windows版本</u></a>，但部分网站内容播放需要的插件可能不支持64位Windows版。其它新变化包括，跟踪保护功能<a target="_blank" href="https://blog.mozilla.org/blog/2015/12/15/firefox-gives-you-more-control-over-your-data-in-private-browsing/"><u>允许用户控制黑名单</u></a>，用户可以选择屏蔽额外的跟踪程序；用户可以在智能地址栏选择搜索建议；Android版加入标签音频指示器；新的开发者工具和bug修正，等等。
+➜小岛正式离开科乐美，宣布与索尼合作
+https://www.solidot.org/story?sid=46542	14522
+<div align="center"><img src="http://img.solidot.org/0/304/lir2VxA9jruCk.png" align="" height="357" width="500"><br>
+<br>
+</div>
+日本经济新闻<a target="_blank" href="http://www.nikkei.com/article/DGXLZO95184030W5A211C1TI5000/"><u>报道</u></a>（付费墙），《合金装备》系列的知名制作人小岛秀夫正式离开了工作了将近30年的科乐美公司。科乐美已经解散了小岛的工作室。日本经济新闻的报道称，小岛将与原小岛制作工作室的成员成立新的工作室，正与索尼公司谈判在PS主机上发售新工作室的第一款游戏。小岛秀夫与索尼有长期合作关系，《合金装备》系列有多部是PS主机独占或最早在PS主机上发布。暂时还难以说小岛的新游戏将会是PS主机独占。《合金装备》系列的版权仍然控制在科乐美手中，按照科乐美与小岛目前的紧张关系，他不太可能从科乐美获得许可开发新的《合金装备》游戏。<b>更新</b>：索尼正式宣布与小岛合作开发游戏，小岛工作室网站<a target="_blank" href="http://www.kojimaproductions.jp/"><u>kojimaproductions</u></a>已经公布了新闻稿。
+➜AMD宣布GameWorks开源替代GPUOpen
+https://www.solidot.org/story?sid=46543	18460
+AMD<a target="_blank" href="http://www.tomshardware.com/news/amd-gpuopen-open-source-development,30750.html"><u>宣布了</u></a>一套Nvidia GameWorks中间件的开源替代GPUOpen，让游戏开发者、异构应用和HPC应用能更深入的访问GPU和GPU资源。AMD计划明年一月在MIT许可证下公布GPUOpen的代码，源码将托管在<a target="_blank" href="https://github.com/amd"><u>GitHub</u></a>上。MIT许可证允许开发者不受限制的重用代码。通过GPUOpen，游戏开发者可以直接访问GPU硬件和大量的开源特效、工具、库和SDK，包括TressFX 3.0、GeometryFX、AOFX、ShadowFX、LiquidVR SDK、DirectX 11和12代码样本等等。AMD还同时重申了<a target="_blank" href="http://www.anandtech.com/show/9853/amd-gpuopen-linux-open-source"><u>它的Linux驱动计划</u></a>：AMD将维护单一的代码库，其闭源驱动将基于开源驱动，AMD将加快向开源驱动引入新的特性。
+➜硅谷的无家可归者
+https://www.solidot.org/story?sid=46544	27205
+2012年7月，Suzan Russaw和她的丈夫收到了房东的一封信，要求他们在60天内搬出位于旧金山Palo Alto的月租800美元的单间公寓。她的丈夫已经83岁，久病缠身。他们花了2个月时间，但没有找到月租在承受价格范围的公寓。房东又多给了六周时间，但他们最终没有其它选择只能离开。他们住进了一辆1994年的福特探险家汽车内。Palo Alto的无家可归者要么住在外面要么住在汽车里，这座城市可供无家可归者临时居住的床位非常少。科技新贵和以及房租大幅上涨，使<a target="_blank" href="https://newrepublic.com/article/124476/dispossessed-land-dreams"><u>得无家可归者成为湾区最引入关注的现象之一</u></a>：整个湾区大约有3.5万无家可归者，旧金山大约7千到1.5万， 圣克拉拉县超过7千。不是所有人都因为租不起公寓而住在汽车了，有些人是自己选择的，比如Google雇员和其他年收入<a target="_blank" href="https://news.ycombinator.com/item?id=10735863"><u>超过15万美元</u></a>的人。
+➜全世界极端贫困人口首次降至10%
+https://www.solidot.org/story?sid=46545	29185
+世界银行根据每天1.9美元的国际贫困线标准估算，全世界贫困人口<a target="_blank" href="https://www.washingtonpost.com/news/worldviews/wp/2015/10/05/for-the-first-time-less-than-10-percent-of-the-world-is-living-in-extreme-poverty-world-bank-says/"><u>首次下滑至10%以内</u></a>：从2012年的12.8%降至2015年的9.6%。世界银行说，最新数据燃起了在不久的未来贫困人口有可能被消灭的希望。世行行长金墉（Jim Yong Kim）称，这些预测显示我们将是人类历史上能终结极端贫困的第一代人。联合国上周宣布了到2030年消灭极端贫困的计划。联合国在2000年设立的千禧年发展目标是到2015年将贫困人口减少一半，这一目标能够实现主要要归功于中国的经济增长：东亚的极端贫困人口降至了4.1%，减少了60%。
+➜互联网大会：中国继续呼吁网络主权
+https://www.solidot.org/story?sid=46546	33596
+网络主权是过去几年中国努力宣传的一个观点，但不知道这究竟是要加固防火墙还是其它什么意义，则显得缺乏清晰定义。中国国家主席在浙江乌镇的互联网大会上<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2015/12/151216_world_internet_conference"><u>称</u></a>，“我们应该尊重各国自主选择网络发展道路、网络管理模式、互联网公共政策和平等参与国际网络空间治理的权利，不搞网络霸权，不干涉他国内政，不从事、纵容或支持危害他国国家安全的网络活动。”“各国应该携手努力，共同遏制信息技术滥用，反对网络监听和网络攻击，反对网络空间军备竞赛。”《南华早报》引用香港城市大学媒体与传播系副教授李喜根的话<a target="_blank" href="http://www.nanzao.com/sc/national/151a9bd61364e56/zhong-guo-wang-luo-guan-zhi-liang-ji-cui-gu-jingji-yin-qing-yan-kong-xin-xi-liu-dong"><u>评论说</u></a>，“通过互联网来自由获取信息成了中国领导人的挑战，他们一直在两难中，是要以放松舆论为代价来开放互联网，还是要封闭互联网，通过主流媒体牵头推广党的路线来保证安全？...问题是，中国领导人是否会明白到，信息的自由流动，不仅是经济发展的基础，也是社会进步的基础。”《南华早报》已被与政府关系密切的阿里巴巴收购。
+➜格陵兰岛曾经没有冰
+https://www.solidot.org/story?sid=46547	34566
+最新研究显示，格陵兰岛在过去125万年的某个阶段曾完全没有冰。领导这项研究的哥伦比亚大学地球化学家 Joerg Schaefer说，我们需要理解当时究竟发生了什么，以及这又是如何发生的。研究人员使用了来自3053米长的格陵兰冰核和基岩数据，测量了源自宇宙射线的同位素铝-26和铍-10的丰度，发现了基岩曾在某个阶段没有被冰覆盖而暴露在宇宙射线下所引发的同位素比率变化。
+➜最合适的火星殖民者可能来自巴西伊朗中国
+https://www.solidot.org/story?sid=46548	35804
+火星，距离地球最近的适宜居住的行星。然而，红色星球的环境十分严酷，大气稀薄，磁场不足以屏蔽宇宙射线，所以基地需要设在地底下利用数米厚的火星土壤提供辐射保护，地面上活动则缺乏可行的防辐射手段。但地球上并不是没有生活在高自然辐射环境中的居民：伊朗 Ramsar镇的天然背景辐射水平80倍于国际平均水平，中国阳江市的辐射水平三倍于平均水平，巴西 Guarapari、印度Karunagappally都有非常高的辐射水平。这些地区的居民<a target="_blank" href="http://www.cnet.com/news/why-the-best-mars-colonists-could-come-from-places-like-iran-and-brazil/"><u>也许非常适合前往火星殖民</u></a>，但他们可能缺乏成为宇航员所必须的知识和技能。
+➜新研究显示网站能根据光标运动判断你有没有生气
+https://www.solidot.org/story?sid=46549	38139
+未来的网站将不只是向你提供内容，它还将能感知你的情绪波动。《MIS Quarterly》期刊上发表的一项<a target="_blank" href="http://www.misq.org/skin/frontend/default/misq/pdf/Abstracts/11979_RN_HibbelnAbstract.pdf"><u>研究</u></a>发现，当网民感到心烦意乱时，
+他们的光标将会是零星的，他们将会更缓慢而不是更迅速的移动鼠标。论文主要作者、Brigham Young大学教授Jeff Jenkins说，网站将能理解你的感受。研究人员利用亚马逊的 Mechanical Turk招募了志愿者，监视他们的光标移动，发现当用户生气时光标的距离会增加速度会下降，Jenkins教授承认<a target="_blank" href="http://arstechnica.com/science/2015/12/websites-may-soon-know-if-youre-mad-a-little-mouse-will-tell-them/"><u>这一发现违反直觉</u></a>。
+➜火星殖民和阶级斗争
+https://www.solidot.org/story?sid=46550	39428
+火星商业性的殖民计划却意外<a target="_blank" href="http://science.slashdot.org/story/15/12/15/2351241/mars-colonies-and-class-warfare"><u>引起了阶级斗争的争论</u></a>： Elon Musk曾说过要在火星退休，他最近接受采访时<a target="_blank" href="http://www.solidot.org/story?sid=46528"><u>表示</u></a>担心世界大战或其它灾难性事件会毁掉火星殖民计划。结果，《新闻周刊》的 Kevin Maney<a target="_blank" href="http://www.newsweek.com/2015/12/25/mars-colonies-rich-people-404681.html"><u>联想到了阶级斗争和1%的富人</u></a>，指责Elon Musk和其他梦想进入太空的亿万富翁要抛弃遭到全球气候变暖破坏的地球，去火星继续过美好时光。问题是火星环境恶劣，即使遭到最严重破坏的地球其生存环境也比未经过地球化改造的火星好一万倍。
+➜科技公司如违反欧盟的新数据法将面临最高总收入4%的罚款
+https://www.solidot.org/story?sid=46551	42225
+欧盟代表在新的数据保护和隐私法律条文上达成了一致。新的协议对企业违反用户隐私设定了最大罚款金额：<a target="_blank" href="http://arstechnica.com/tech-policy/2015/12/tech-firms-could-owe-up-to-4-of-global-revenue-if-they-violate-new-eu-data-law/">全世界收入的4%</a>。这意味着像Facebook这样的公司将面临最高5亿美元的罚款，而Google的母公司Alphabet则面临最高25亿美元的罚款。新的法律还要求企业向用户更清晰的解释收集哪些数据，如何使用数据。新的法律还明确了被遗忘权，当你不再想要你的数据被处理，以及没有正当理由继续保留，那么数据将被删除。
+➜国家元首竞选获胜者比败选者寿命短
+https://www.solidot.org/story?sid=46552	43597
+《英国医学杂志》圣诞特刊上的<a target="_blank" href="http://press.psprings.co.uk/bmj/december/ageingleaders.pdf"><u>一项研究</u></a>（PDF）称，国家元首竞选的失败者<a target="_blank" href="http://cn.nytimes.com/health/20151216/c16longevity/"><u>寿命更长</u></a>。研究对17个国家在1722年到2015年间举行的选举进行了调查，发现和失败的角逐者相比，当选的政府首脑少活了2.7年，过早死亡的风险高出23%。作者比较了这17个国家当选的政府首脑，和被他们打败且从未担任过国家元首的261名竞争对手。研究人员确定了每个竞争对手在他们最后一次参选后活了多少年，又对得出的结果，和选举年期间各候选人所在国家和他们年龄、性别相同者的平均寿命进行了比较。这项分析验证了一个假设，即当选的总统和总理会因政治生活带来的压力而遭遇衰老加速和过早死亡。
+➜Netflix为节省带宽将重编码视频
+https://www.solidot.org/story?sid=46553	45061
+北美流量最大的流视频服务商Netflix花了4年时间开发了新的高效视频编码系统，它计划明年使用新的系统重编码所有视频，称能在不降低视频质量的情况下<a target="_blank" href="http://variety.com/2015/digital/news/netflix-better-streaming-quality-1201661116/"><u>减少20%的空间和带宽</u></a>。Netflix的视频算法经理 Anne Aaron解释说，你不应该对动画片《My Little Pony》和动作片《 The Avengers》分配相同的比特率。新的系统能根据视频内容智能的判断它是否受益于高比特率（比如有更多动作场景的镜头能受益于高比特率），是否能用更少的空间和带宽维持相同的视频质量。首批1000部重新编码的视频将在明年3月底完成。Netflix的流量占了北美流量的37%。

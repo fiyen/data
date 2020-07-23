@@ -1,0 +1,42 @@
+➜Google App Engine文档ONLY for Chrome?
+https://www.solidot.org/story?sid=7790	720
+<a href="http://shujun.org/">LightMoon</a> 写道<i> "Google App Engine Documentation存在着一个<a href="http://ioio.name/blog/2008/09/10/gae-docs-refresh-problem.html">HTML的语法错误</a>，在IE或Firefox下打开该文件均会导致页面不断的刷新，但却能在Chrome正常跳转。是Google的员工在制作这份文档的时候没有认真测试过直接凭借自己不合格的html语法写成了便算完事，还是这名Google在制作这份文档的时候使用的是Chrome?"</i>
+➜为什么solidot叫solidot？
+https://www.solidot.org/story?sid=7791	1440
+<a href="mailto:cuthead@live.cn">cuthead</a> 写道 "为什么solidot叫solidot？solidot究竟代表什么意思？solid dot? solo dot？还是像谷歌一样只是叫着顺口外加没人抢注就提出来了。另外听说<a href="http://solidot.org/~CdrPlum/">国伟</a>把solidot卖给了CNET，<a href="http://solidot.org/~matrix/">M大</a>收到了钱吗？"
+➜海因莱因在互联网时代之前回粉丝邮件的FAQ
+https://www.solidot.org/story?sid=7792	1800
+Kevin Kelly从旧文件夹里找到了一封信，它出自著名科幻大师罗伯特海因莱因（<a href="http://en.wikipedia.org/wiki/Heinlein">Robert Heinlein</a>）之手，一封回复粉丝信件的FAQ。<i>
+在互联网尚未到来之前，海因莱因设计了一种令人称绝的方法去处理著名作家常碰到的问题——<a href="http://kk.org/ct2/2008/09/heinleins-fan-mail-solution.php">如何处理粉丝来函</a>。海因莱因创建了一个常见问题解答列表，写出答案，去除问题。随后他，或者他的妻子吉妮（Ginny），挑选出合适答案回复读者。海因莱因的<a href="http://kk.org/ct2/heinlein.php">回答</a>（图片）多数都十分有趣，比如“您说您多年来一直喜欢我的故事。那么为什么等待您讨厌某一故事后才写信给我呢？”....“出于法律方面的理由，我不阅读未出版的手稿。”.......寄给粉丝格式化的信函可能让人觉得无礼，但这比忽视好得多。令人称道的是，海因莱因回复了几乎每一位粉丝的来信，你听说过有其他著名作家这么做的吗？不过当计算机时代到来之后，吉妮说用计算机写回信比格式化的回复快多了。</i>
+➜霍金赌100美元LHC找不到“上帝粒子”
+https://www.solidot.org/story?sid=7793	3600
+当欧洲粒子物理研究所正式启动大强子对撞机之时，著名物理学家打赌它找不到<a href="http://zh.wikipedia.org/wiki/%E9%BB%91%E6%A0%BC%E6%96%AF%E7%B2%92%E5%AD%90">希格斯玻色子（Higgs boson）</a>——物理学界最迫切寻找的粒子。它是标准模型中最后一种未被发现的粒子，对理解宇宙极其重要，因此它被称为“上帝的粒子”，它被认为通过自相互作用而赋予万物质量。<i>以前的粒子加速器未能找到希格斯玻色子，LHC是如此之强大，因此很有希望发现它。霍金教授称，即使失败也令人兴奋，因此这将向自然法则提出新的问题，“我认为如果我们发现不了希格斯玻色子，将更让人兴奋。那将说明某些事情可能错了，我们需要再次思考。我赌了100美元，<a href="http://news.bbc.co.uk/today/hi/today/newsid_7598000/7598686.stm">我们找不到希格斯玻色子</a>。”</i>
+➜当WebKit如此受欢迎，Mozilla为何还死抱Gecko不放
+https://www.solidot.org/story?sid=7794	6120
+开源的HTML渲染引擎<a href="http://webkit.org/">WebKit</a>由苹果开发，结合了来自KDE KHTML项目的代码，因为其清晰而紧凑的代码库(Code base)，较小的内存占用，对标准的兼容，因而广受第三方开发者的欢迎。除了苹果的Safari浏览器外，Google的Android和<a href="http://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html">Chrome</a>浏览器，甚至Adobe、Nokia及Trolltech都或多或少的将WebKit作为富Web应用的核心。<i>
+<a href="http://developer.mozilla.org/en/Gecko">Gecko</a>，源自Netscape，早于KHTML，因其庞大和复杂的代码库而广受批评，但它拥有丰富而极其强大的功能。代价是复杂性，内存占用过大，在许多地方它的额外功能更可能是阻碍而非是帮助。出现这种情况的一个主要理由是Gecko不仅仅是用于HTML渲染，Mozilla的最初目标是很有野心的——原来的Mozilla应用组件包括了浏览器、邮件、新闻组程序、web设计工具、和IRC客户端。除了渲染HTML外，Gecko还提供了一个称为XUL的基于XML的UI渲染框架，它减轻了Firefox支持扩展程序的困难。因此在Mozilla看来，<a href="http://arstechnica.com/articles/paedia/mozilla-committed-to-gecko.ars">WebKit不是Firefox 的未来</a>。Mozilla负责技术的副总裁Mike Shaver承认WebKit确实令他们印象深刻，但并不适合Firefox，Mozilla需要一个统一的引擎开发所有的项目。从整体上看，WebKit的管理模式和苹果都缺乏透明度，亦可能产生负面影响。他说“核心的变换既不可行也没有多大帮助”。</i>
+<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K509.aspx">全文翻译</a>可到comsharp浏览
+➜科学家发现放射性碳定年法的缺陷
+https://www.solidot.org/story?sid=7795	21600
+地球原始生命在过去45亿年中演变的精确时间一直是受争议的主题，而迈阿密大学的一项由美国科学基金会资助的新研究又对此提出了新的疑问。研究发现海洋沉淀物的<a href="http://zh.wikipedia.org/w/index.php?title=%E7%A2%B3%E5%AE%9A%E5%B9%B4%E6%B3%95&amp;variant=zh-cn">碳定年法</a>（用同位素碳-12/碳-13的比率去推断年龄）只<a href="http://www.sciencedaily.com/releases/2008/09/080910104202.htm">在1.5亿年时间段里是可信的</a>。超过这一时间地质学家就必须用其它的测量手段，如与碳酸盐岩层和陆缘海（epicontinental seas）相关的物质。<i>
+主要研究人员<a href="http://mgg.rsmas.miami.edu/faculty/pswart/pswart.htm">Peter K. Swart</a>教授调查了巴哈马群岛（大西洋）、马尔代夫（印度洋）和大堡礁（太平洋）过去1千万年的变化和碳-12/碳-13（13C/12C）比率。他说，“从重新思考地质学家如何利用13C/12C比率去解释地球历史方面来说，这项研究是重要的一步。如果这种方法连1千万年都没有用，毋用提更长的时间了。我们发现的结论是13C/12C比率方法应该重新评估其作用。”这项研究并不是要抛弃碳定年法，它将引导人们重新思考关于地球早期生命历史的众多理论。</i>
+➜迷信的进化有利于人类的生存？
+https://www.solidot.org/story?sid=7796	24840
+盲目的将一些东西联系起来的结果就是迷信，但这<a href="http://www.newscientist.com/channel/being-human/dn14694-superstitions-evolved-to-help-us-survive.html">偶尔还是有好处的</a>。哈佛大学进化生物学<a href="http://www.people.fas.harvard.edu/~kfoster/index.html">Kevin Foster</a>如此表示。举例来说，一位史前人类可能会将草发出的沙沙声与食肉动物的接近联系起来，然后他会找地方躲藏。多数时候确实是风引起的响声，但如果有一群狮子走过来，隐藏起来肯定是有巨大的好处。<i>
+Foster与赫尔辛基大学的<a href="http://www.helsinki.fi/~hmkokko/">Hanna Kokko</a>一起合作，寻求正确判断这种错误关联的益处。他们建立的模型是自适应的，只要相信迷信的成本比失去真实联系的成本低，迷信就会得到偏爱。在现代，迷信变成了替代和<a href="http://zh.wikipedia.org/wiki/%E9%A1%BA%E5%8A%BF%E7%96%97%E6%B3%95">顺势疗法</a>的信仰。“很可能迷信者中的多数什么也不做，但有些会”，Foster说。</i>另一位德国进化生物学家<a href="http://www.orn.mpg.de/mitarbeiter/forstm.html">Wolfgang Forstmeier</a>对此评论到，原因和结果之间的联系经常是错误的——科学只不过是一种专制形式的迷信，“你必须发现迷信和愚昧之间的交换，相当多的科学家往往十分愚蠢。”
+➜维吉尼亚推进开源物理学教科书开发
+https://www.solidot.org/story?sid=7797	25920
+美国维吉尼亚州技术部长Aneesh Chopra和教育部长Tom Morris<a href="http://www.technology.virginia.gov/TechnologyNews/index.cfm?id=770">宣布了一项征求意见</a>，向技术和职业中心，学校部门，高等教育机构寻求帮助，为维吉尼亚州开发和出版开源的物理学教科书。<i>计划的目的是帮助提高物理教学的质量。他们将于<a href="http://www.ck12.org/">CK-12</a>合作，将以创作共用—署名—相同方式共享许可证开发物理教科书。</i>
+➜Google声称拥有你的照片和日志
+https://www.solidot.org/story?sid=7798	27120
+<a href="__SLASHLINK__" sect="internet" sid="08/09/04/021247" sn="article" tid="26">Google Chrome浏览器的最终用户许可协议</a>曾宣称拥有用户通过浏览器提交、发布或展示内容的使用权，这一事件迅速在互联网上引起了轩然大波。<i>很快Google修改了协议，移除了上述修辞，承认该最终用户许可协议是“粘帖拷贝”自其他产品。令人感兴趣的是，那么“拥有用户内容”的其他产品究竟是哪些？<a href="http://www.pcworld.idg.com.au/index.php?id=655778381">Pcworld发现</a>，包括Picasa照片共享服务和Blogger服务在内的多个Google产品的用户条款中都保留有这些用词。</i>
+➜Nvidia执行官被控隐瞒显卡的严重缺陷
+https://www.solidot.org/story?sid=7799	29880
+周二递交到加州法院的一份诉讼书<a href="http://www.infoworld.com/article/08/09/10/Lawsuit_claims_Nvidia_hid_serious_flaw_in_graphics_chips_1.html">指控Nvidia隐瞒显卡产品线存在的严重缺陷</a>，并对投资者和公众散布了一系列错误和误导性的声明。<i>诉讼指控Nvidia的首席执行官（CEO）黄仁勋和CFO Marvin Burkett早在2007年11月就知道了部分显卡的包装上存在问题，会引起显卡过热和较高的出错几率。直到7月2日Nvidia才<a href="__SLASHLINK__" sect="hardware" sid="08/08/01/1351211" sn="article" tid="53">公开承认缺陷</a>，宣布一次性的拿出2亿美元处理相关问题引起保修费用。这一声明引起公司股价暴跌31%，收于$12.98，市值蒸发30亿美元。起诉者还将寻求共同起诉，要求Nvidia赔偿未指明的损失。</i>
+➜印度少女因担心LHC“黑洞”而自杀
+https://www.solidot.org/story?sid=7800	32400
+印度中部的一位少女在周三自杀，她的父亲说死因源于媒体渲染的欧洲大强子对撞机会产生黑洞毁灭世界而<a href="http://in.reuters.com/article/domesticNews/idINSIN17173520080910">受到的精神创伤</a>。<i>来自印度中央邦的16岁少女Chayya在观看了新闻节目制作的末日审判预测后，喝下农药自杀，虽然被紧急送入医院，但为时已晚。她的父亲说，“过去两天，Chayya向我和其他人询问了世界将在9月10日走向末日相关的问题。”</i>
+➜研究人员公布可控制工业电脑系统的代码
+https://www.solidot.org/story?sid=7801	36000
+安全研究员Kevin Finisterre公布了<a href="http://www.infoworld.com/article/08/09/10/Threat_to_computers_for_industrial_systems_now_serious_1.html">可控制工业机器设备中所用电脑的代码</a>，潜在的让黑洞从后门进入公用事业公司、水电站，甚至是石油和天然气炼制厂。
+Kevin Finisterre上周五在<a href="http://www.milw0rm.com/papers/221">个人网站</a>上发布了这些代码，表示意图是提高人们对系统漏洞的了解。<i>代码利用了Citect公司<a href="http://www.coresecurity.com/content/citect-scada-odbc-service-vulnerability">监控和数据采集软件</a>中的一个漏洞，软件供应商已经发布了补丁，而且它只在没有安装防火墙的系统直接与互联网相连时才有风险。Finisterre将此问题视作是IT和过程控制工程师之间的一次“文化冲突”，工程师一般不愿意为了打补丁而让电脑下线，因为下线可能会造成严重破坏。Finisterre说，“管理系统的许多人都认为他们不会受传统IT中相同规则的限制。一般来说，他们的行业对入侵和黑客并不熟悉。”</i>

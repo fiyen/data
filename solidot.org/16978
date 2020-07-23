@@ -1,0 +1,9 @@
+➜李彦宏谈魏则西事件和Google重返中国
+https://www.solidot.org/story?sid=48718	45061
+百度CEO李彦宏接受了《财经》杂志采访，<a target="_blank" href="http://finance.sina.com.cn/zl/2016-06-26/doc-ifxtmwei9302445.shtml"><u>谈论了</u></a>魏则西事件和Google重返中国。对于为什么不明确区分付费推广和搜索结果，李彦宏回答，“对于一个用户来说，是不是商业推广不重要？重要的是这个结果有没有满足他的需求。所以出于这种理念，我们一直没有把推广放的那么清楚。”对于Google可能性不大的重返中国市场，李彦宏称：<i>“其实它进来大家就会明白，今天的中国互联网已经很不一样了，即使当初它离开的时候我们也是70%多的市场份额...我觉得大家对我和对百度的误解可能跟谷歌非常有关系，第一大家觉得是百度赶出去了谷歌，其实这个就是你只要稍微理性思考一下就不是这样，我们既没有这样的能力，当时发生的事情都是有据可查的，是谷歌自己宣布不愿意接受中国政府的监管，它退出了。与此相关的就是外界对我的这种误解是，我是一个政府关系的高手，我能够把很多官员都搞定，其实这个也是很不对的，我是一个更喜欢琢磨产品和技术的人，并不是特别喜欢和人打交道、搞关系的人。”</i>
+➜联想预装软件发现两个高危漏洞
+https://www.solidot.org/story?sid=48719	53379
+联想预装在系统中控制软件再次发现了两个高危漏洞，允许已经控制了受限访问权限的攻击者利用系统级权限执行任意代码和终止杀毒软件进程。联想的Lenovo Solution Center (LSC)软件之前已经发现了多个漏洞，它被用于检测杀毒软件和防火墙状态，升级，执行备份，检查电池健康状况等信息。最新发现的漏洞编号为 CVE-2016-5249 和 CVE-2016-5248 ，是安全公司Trustwave研究人员发现的，影响 LSCv 3.3.002及早期版本，联想督促用户升级到<a target="_blank" href="https://support.lenovo.com/us/zh/product_security/home"><u> LSCv 3.3.003</u></a>。
+➜Swagger高危漏洞影响Java、PHP、NodeJS和 Ruby等语言
+https://www.solidot.org/story?sid=48720	55631
+广泛使用的<a target="_blank" href="https://en.wikipedia.org/wiki/OpenAPI_Specification"><u>Swagger规格</u></a>（今年初重命名为OpenAPI）发现了高危漏洞，潜在影响到了Java、PHP、NodeJS和 Ruby等流行语言开发的应用。该漏洞允许攻击者远程执行代码，存在于Swagger Code Generator中，属于参数注入漏洞，允许攻击者在Swagger JSON文件中嵌入代码，使用Java、PHP、NodeJS和 Ruby等语言开发的Web应用如果整合了 Swagger API会受到影响。Rapid7研究人员公开了漏洞的<a target="_blank" href="https://community.rapid7.com/community/infosec/blog/2016/06/23/r7-2016-06-remote-code-execution-via-swagger-parameter-injection-cve-2016-5641"><u>技术细节和补丁</u></a>，该漏洞早在4月就在私下披露过了，但t Rapid7称没有从Swagger维护者那里听到回应。

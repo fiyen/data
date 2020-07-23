@@ -1,0 +1,48 @@
+➜美国科技企业抱怨中国商业环境
+https://www.solidot.org/story?sid=45633	10553
+在西雅图举行的中美互联网论坛上，习近平告诉与会高管，中国在符合自身“国情”的情况下，支持在互联网发展上进行合作。批评者说，“国情”这个词，与西方的开放互联网理念是相悖的。习近平对高管们说，“安全、稳定和繁荣的”网络空间已成为每一个国家都在关心的问题，显然是在影射美中在处理网络相关问题上的严重分歧。美国的一个高科技产业协会会长也向习近平代表团的高级成员、中国互联网主管鲁炜表达了怨言。美国信息技术产业协会的Dean C. Garfield说，管制法规草案迫使美国高科技公司接受侵入性的审计，并给硬件和软件添加后门。他说这并非只是像中国一直坚称的那样，是为了国家安全着想，而是在偏袒中国本土公司。“他们说将允许美国企业在中国公平竞争，”Zillow CEO Spencer Rascoff说。“他们说的都很好听。但美国企业界依然有疑虑，<a target="_blank" href="http://cn.nytimes.com/china/20150924/c24xijinping/"><u>事实胜于雄辩</u></a>。”
+➜Mozilla修复14年历史bug，Adblock Plus占用内存减少
+https://www.solidot.org/story?sid=45634	12287
+Mozilla发布了Firefox 41，Adblock Plus（ABP）<a target="_blank" href="http://venturebeat.com/2015/09/23/mozilla-fixed-a-14-year-old-bug-in-firefox-and-now-adblock-plus-uses-a-lot-less-memory/"><u>证实扩展的内存占用显著减少</u></a>。Adblock Plus内存占用问题与一个在2001年<a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=77999"><u>递交的bug</u></a>有关，原因是ABP会向每个iframe嵌入巨大的CSS样式表去隐藏广告元素，而每个网页有多个iframe，因此ABP会导致内存占用快速增加，修改bug之后Firefox将支持共享样式表相关数据。
+➜iOS广告过滤工具Crystal 将允许企业付费显示广告
+https://www.solidot.org/story?sid=45635	16658
+苹果的iOS 9开始支持和接受广告过滤应用，应用商店随后出现了大量的广告过滤工具，Crystal是其中最受欢迎的。但现在Crystal开发者<a target="_blank" href="http://apple.slashdot.org/story/15/09/24/2156252/ios-ad-blocker-crystal-will-let-companies-pay-to-show-you-ads"><u>宣布</u></a>，将允许企业支付一笔费用去展示广告绕过屏蔽。Crystal是付费应用，此举意味着用户是花钱拥有浏览广告的特权。开发者的做法引发了争议，一些用户已经递交退款申请，另一些人则<a target="_blank" href="https://itunes.apple.com/us/app/adblock-fast/id1032930802"><u>推荐</u></a>了自由软件替代<a target="_blank" href="https://github.com/rocketshipapps/adblockfast"><u>adblockfast</u></a>。
+➜Glowforge将在GPL下开源固件
+https://www.solidot.org/story?sid=45636	18252
+3D激光打印机公司Glowforge<a target="_blank" href="http://glowforge.com/gpl-licensed-open-source-firmware-for-glowforge/"><u>宣布</u></a>将在GPL许可证下公开固件的源代码。Glowforge的消费级3D桌面制造工具昨天<a target="_blank" href="http://www.glowforge.com/order"><u>开放预售</u></a>，预售价格打五折，三款产品最低2000美元最高4000美元，交付日期定在今年12月。该公司表示它听取了社区用户的意见，将在发售的时候同时提供GPL授权的固件，用户将会真正拥有自己购买的产品，可以做自己想做的任何事情。
+➜未来哪一种语言会成为统治性语言
+https://www.solidot.org/story?sid=45637	27458
+全世界以汉语为母语的人口最多，其次是印地和乌尔都语，之后是英语、阿拉伯语、西班牙语和孟加拉语。<a target="_blank" href="https://www.washingtonpost.com/news/worldviews/wp/2015/09/24/the-future-of-language/"><u>哪一种语言会在未来成为统治性的语言</u></a>？这可能要根据你的意图而定：如果你想在一个新兴市场赚钱，到2050年印地、孟加拉、乌尔都、印度尼西亚语言将会成为许多商业世界的支配性语言，阿拉伯语和汉语有很多方言和当地口音，增加了外国人交流的难度；如果你想和尽可能多的人对话，语言学家Ulrich Ammon指出，虽然以汉语为母语的人口最多，但汉语很少在科学中使用，读写的难度很高；....简而言之，未来的支配语言不会是一种，外国语言学习者在作出决定前需要首先扪心自问一下自己的目标和动机。
+➜Oculus发布与三星手机搭配使用的99美元Gear VR
+https://www.solidot.org/story?sid=45638	28710
+<div align="center"><img src="http://img.solidot.com.cn/0/30/liYXxeyvbdkPI.png" align="" height="339" width="560"><br>
+</div>
+<br>
+三星和Oculus VR<a target="_blank" href="http://techcrunch.com/2015/09/24/gear-vr-for-all/"><u>发布了</u></a>一款普及性的头戴式虚拟现实设备<a target="_blank" href="http://www.samsung.com/global/microsite/gearvr/gearvr_features.html"><u>Gear VR</u></a>，售价99美元，前提是你有一部2015年款最新三星手机（价格至少600美元）。三星和Oculus VR之间早有合作，Oculus DK2使用的就是分辨率为1920 * 1080的三星Galaxy Note 3，而Gear VR要求的显示屏分辨率更高，为2560 * 1440，而符合这一要求的三星手机包括Galaxy Note 5、Galaxy S6 Edge+、S6和S6 Edge。手机需要放置在Oculus VR，通过接口相连。
+➜NASA发布彩色冥王星照片
+https://www.solidot.org/story?sid=45639	31306
+<div align="center"><img src="http://img.solidot.com.cn/0/31/liwgSEohJXeFE.png" align="" height="500" width="500"><br>
+</div>
+<br>
+NASA公布了一幅冥王星的<a target="_blank" href="http://www.nasa.gov/image-feature/the-rich-color-variations-of-pluto"><u>部分彩照</u></a>，该照片是新地平线号7月14日飞越冥王星期间拍摄的多张不同类型照片的合成，组合了Ralph/Multispectral成像相机拍摄的红色、蓝色和红外照片。不同的颜色展现了冥王星表面的不同地形，许多地貌都有它们自己的可区分颜色。图像细节和颜色解析最小为1.7公里。
+➜奥巴马政府讨论手机后门技术
+https://www.solidot.org/story?sid=45640	33088
+奥巴马政府一个工作组<a target="_blank" href="http://arstechnica.com/tech-policy/2015/09/obama-administration-explored-backdoors-for-bypassing-smartphone-crypto/"><u>讨论了</u></a>四种科技公司可以采用的后门，以便于政府调查人员能破解恐怖分子或犯罪嫌疑人手机上储存的加密通讯数据。工作组最终因为后门的争议性而拒绝了所有提议。他们讨论的四种后门包括：在设备上加入物理的加密端口，企业保存一组独立的设备解锁密钥，端口只在执法机构物理访问设备和获得法庭命令之后使用；利用企业的软件自动更新，在法庭命令下，企业可以向目标的设备植入间谍软件，但此举显然会引发对软件更新可信度的质疑；分割密钥，企业需要创造一种方法解锁加密内容，密钥分割成多个部分，只在法庭命令下才能组合起来；强迫备份，企业需要上传储存在设备上的数据到一个不加密的地方。<br>
+➜法庭裁决强迫嫌疑人披露手机密码违宪
+https://www.solidot.org/story?sid=45641	35147
+宾夕法尼亚州联邦地区法庭法官<a target="_blank" href="http://arstechnica.com/tech-policy/2015/09/forcing-suspects-to-reveal-phone-passwords-is-unconstitutional-court-says/"><u>作出裁决</u></a>，强迫嫌疑人披露手机密码违反了宪法第五修正案。第五修正案保护了嫌疑人免于自证其罪的权利。在本案中，美国证券交易委员会（SEC）调查两名Capital One的前数据分析师是否使用内部信息交易股票，他们的15万美元投资获得了280万美元的回报。SEC怀疑他们的手机储存了内部交易的证据，要求他们交出密码。他们以第五修正案为由拒绝交出密码，法官同意了他们的观点，指出SEC并没有确诊证据证明有任何内部交易文件储存在密码保护的手机上。
+➜美国调查Google Android是否有反竞争行为
+https://www.solidot.org/story?sid=45642	37162
+彭博社援引两名匿名知情人士的消息<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-09-25/google-said-to-be-under-u-s-antitrust-scrutiny-over-android-iezf41sg"><u>报道</u></a>，美国反垄断调查机构启动了Google Android系统是否存在反竞争行为的调查。知情人士称，联邦贸易委员会（FTC）和司法部达成协议发起对Google Android业务的调查。FTC官员已经会见了抱怨Google偏袒自家服务限制竞争对手的科技公司代表。调查处于早期阶段，最终有可能不会正式提起针对Google的反垄断诉讼。搜索巨人目前在欧盟地区因为搜索引擎而受到了正式的反垄断调查，调查范围也可能扩大到 Android。
+➜报道称XcodeGhost开发者已被控制
+https://www.solidot.org/story?sid=45643	40103
+国内一家媒体援引匿名来源称，影响上亿苹果用户的恶意程序XcodeGhost的一名开发者<a target="_blank" href="http://m.qdxin.cn/detail/47474.html#0-tsina-1-34456-397232819ff9a47a7b7e80a40613cfe1"><u>已经被控制</u></a>。报道称，XcodeGhost的开发者有多人，其中一名主要成员曾是国内某名校的保送研究生，但后来退学了。一名余姓的主要嫌疑人曾就读于青岛的山东科技大学，毕业后在青岛创办了一家科技公司。报道称，此人已被青岛网警控制，具体案情正在调查中。但不清楚控制是什么意思，是限制出行还是遭到拘捕？<b>更新27/9</b>：该新闻已被删除。
+➜人类社会如何学会数到10
+https://www.solidot.org/story?sid=45644	41663
+在一部分人类部落里，数数就是1、2、3，然后就是“许多”，他们的语言中没有高于3的数。但还有一些人类社会的语言在时间长河中获得了更复杂的数。根据发表在《Proceedings of the Royal Society B》期刊上的<a target="_blank" href="http://rspb.royalsocietypublishing.org/content/282/1815/20151278"><u>一篇论文</u></a>，研究人员报告<a target="_blank" href="http://news.sciencemag.org/brain-behavior/2015/09/how-societies-learn-count-10"><u>数字5是一个临界点</u></a>，语言中包含5之后它们通常会出现更多更复杂的数。研究人员分析了帕马—尼荣根语族中约300种语言的数字演化，他们认为数到5之后会发生一次认知转移，10、20....以及无限的数字更可能随之而来。
+➜Autodesk开源3D打印机
+https://www.solidot.org/story?sid=45645	44603
+Autodesk在知识共享-署名-相同方式共享许可证下<a target="_blank" href="http://linuxgizmos.com/autodesk-open-sources-linux-based-3d-printer/"><u>公开了</u></a>其3D打印机Ember的树脂、机械设计、电路图纸的细节，在GNU GPL许可证下公开了固件。打印机运行的是一个基于Linux的操作系统。3D打印机行业热衷于开源的一个原因是它本就是开源模式下成长起来的，许多成功的公司使用开源设计销售类似的打印机。<a target="_blank" href="https://ember.autodesk.com/"><u>Ember 3D 打印机</u></a>的打包价约6000美元，包括了打印机、两个树脂托盘，两个构建头，两升的透明树脂以及一个精加工工具。
+➜网络攻击缩小了中美战斗机差距？
+https://www.solidot.org/story?sid=45646	46255
+中国正在研制两种新一代战斗机：成飞的J20，沈飞的J31。J20的假想目标被认为是F22，而J31则是F35。在十六届北京国际航空展上，J31的各种性能指标被人发现了：因为发动机引擎的差距，双发的J31在作战距离和最大装弹量上都不如外形相似、单反的F35A。西方分析人士称，美国在计算机软件、传感器、隐形涂层和发动机等方面仍然具有领先优势。但<a target="_blank" href="http://www.defenseone.com/threats/2015/09/more-questions-f-35-after-new-specs-chinas-copycat/121859/"><u>双方的技术差距正在缩小</u></a>。而中国对美国国防承包商发动的网络间谍行动让它可以节省百亿美元计的武器研发、测试和实验费用。

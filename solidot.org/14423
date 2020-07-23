@@ -1,0 +1,156 @@
+➜AdSweep:Google Chrome的类Adblocker用户脚本
+https://www.solidot.org/story?sid=12050	3840
+匿名读者 写道 "大家都晓得Firefox有个牛哄哄的Adblocker广告屏蔽扩展，这玩意可以kill掉很多联盟的广告（这可帮了某些极度厌恶ads的童鞋的大忙，还页面一片清爽）
+<i>Google的可乐米出来没多长时间，受到越来越多人的青睐。Chrome的速度不用说，性能也愈加稳定，而且开始支持用户脚本，相信它的功能会更加完善，用户也会更多。
+<br>Chrome确实不错，可一开始它并不支持扩展，对于屏蔽ads这点事开发人员也暂时未上心。现在可乐米开始支持用户脚本了，就有developers放出类似Adblocker的Chrome广告屏蔽插件AdSweep。这个插件的使用效果绝对不逊于Adblocker，不信看看<a href="http://www.iwanyo.cn/post/466.html">这个截图</a>
+<br>小众右边栏顶部的广告被屏蔽了，对页面还作了优化，看着很舒服（不好意思，拿小众做示范，各位小众的fans请见谅）</i>           <br>如何为Chrome配置AdSweep？
+<br> <br>首先，下载AdSweep.user.js文件（<a href="http://www.ziddu.com/download/5372284/AdSweep.rar.html">Ziddu</a> / <a href="http://www.adsweep.org/AdSweep.user.js">官方下载</a>）
+<br>紧接着将js文件放到下述路径中<em>
+<br>“C:\Users\Username\AppData\Local\Google\Chrome\User Data\Default\User Scripts”</em>
+<br>然后修改Chrome快捷方式的属性：右键→在目标一栏中填入
+<br> <em>“C:\Users\Username\AppData\Local\Google\Chrome\Application\chrome.exe --enable-user-scripts”</em>
+<br>最后运行Chrome，一切Ok了
+<br> <br>PS：经过Sheik非专业的测试，证实AdSweep对屏蔽Adsense、Adpinion、百度推广、阿里妈妈的广告很有效，但不广泛推荐使用~毕竟广告是很多站点的主要收入来源，大家伙都是要生存的，多少还是要让站点有些许收益吧,否则怎么维持下去啊"
+➜文泉驿(细)微米黑测试版(0.2beta)发布
+https://www.solidot.org/story?sid=12051	5580
+<a href="mailto:fangqq@gmail.com">FangQ</a> 写道 "在前不久发布的<a href="http://wenq.org/index.cgi?MicroHei">文泉驿微米黑和等宽微米黑</a>的基础上，我们又开发了<a href="http://wenq.org/forum/viewtopic.php?f=12&amp;t=843">细线版微米黑(Micro Hei Lite)</a>字体。经过两周的测试和使用，该字体表现良好。这里我们提供这个新字体的<a href="http://wenq.org/index.cgi?Download#MicroHeiLT_Beta">公开下载</a>，并希望得到用户的<a href="http://wenq.org/forum/viewforum.php?f=12">积极反馈</a>。
+<i>新字体字体名称为WenQuanYi Micro Hei (Mono) Light，该字体与前面发布的普通微米黑使用相同的字体族名称(WenQuanYi Micro Hei)，所以二者可以同时在系统上安装和使用。启动Micro Hei Lite显示，你需要在字体对话框的Style/样式选项中选择&quot;Light&quot;(原来的微米黑为Regular)。如果在OpenOffice中使用，首先选中文本，然后设置字体属性为“Light” (一般用右键Character对话框，选择亚洲文字的Typeface)。该字体可以在Windows上安装，选择WenQuanYi Micro Hei Light作为字体名称。具体演示参见本文附件。
+<br>该字体只有中文部分为细线体，英文部分与Micro Hei相同(为了保留hinting信息)。该字体可用于中文文档排版。</i>
+请大家使用我们的<a href="http://wenq.org/dev/?MicroHei_BUG">反馈页面</a>或者<a href="http://wenq.org/forum/viewforum.php?f=12">相关论坛</a>提交您的反馈信息。           另外，微米黑开发的<a href="http://wenq.org/index.cgi?Fontopia(cn)">第三期任务已经正式开启</a>，CJK扩展B区的4万多汉字已于昨日上线，其中大多数汉字都可以使用基本汉字部件组合(类似拼字游戏)来完成。我们欢迎大家积极参与这个项目。参与前请仔细查看我们的<a href="http://wenq.org/demo/fontopia_droid_tutorial.htm">视频教程</a>以及<a href="http://wenq.org/demo/fontopia_droid_tutorial_adv2.htm">高级功能演示</a>。目前该界面仅支持<a href="http://www.mozilla.com/firefox/">Firefox 3.0+</a>和<a href="http://www.google.com/chrome">Chrome 2.0+</a>(Chrome无法保存下载的汉字部件)。另外，请勿发送没有完成或者用于测试的汉字，从而减少开发者后期制作对数据处理的麻烦。
+<br>
+附件请参见<a href="http://wenq.org/forum/viewtopic.php?f=12&amp;t=853">原始链接</a>。"
+➜Web 开发与设计师速查手册大全（上）
+https://www.solidot.org/story?sid=12052	29040
+<a href="http://www.comsharp.com/">COMSHARP CMS</a> 写道 "Cheat Sheet 一词在中文中并没有很贴切的对译，大概是考试作弊条一类的东西，这要求 Cheat Sheet 必须短小精悍又覆盖广泛，作为 Web 开发与设计师，免不了在工作时查询大量资料，某个 Web 色值，某个 JavaScript 库的核心语法，这类资料如果攒齐了，怕有半间屋子那么多，如果用 Cheet Sheet 也许几十页纸就够了，本文收集了近百份用于 Web 开发与设计的 Cheet Sheet，你会发现他们非常实用(<a href="http://www.comsharp.com/GetKnowledge/zh-CN/CMS_K826.aspx">完整图文版</a>)。
+HTML, XHTML, CSS2
+<a href="http://acodingfool.typepad.com/blog/css-cheat-sheet.html">CSS2 Cheat Sheet</a>           不仅是一份完整的 CSS2 速查手册，还让你了解每个属性该怎么用。<a href="http://acodingfool.typepad.com/blog/css-cheat-sheet.html">预览</a> |  <a href="http://acodingfool.typepad.com/blog/pdf/css_cheatsheet_v2.pdf">下载</a> （PDF）
+<a href="http://www.gosquared.com/images/help_sheets/CSS%20Help%20Sheet%2002.pdf">Gosquared CSS help sheets</a>
+<br> <br>设计和结构都很整齐，漂亮。<a href="http://www.gosquared.com/images/help_sheets/CSS%20Help%20Sheet%2002.pdf">下载（PDF）</a>
+<a href="http://www.addedbytes.com/cheat-sheets/css-cheat-sheet/">addedbytes CSS2 Cheat Sheet</a>
+<br> <br>该速查手册只有一页纸，包含 CSS 2.1 全部选择器和属性，还包含一个盒子模型示例。下载（<a href="http://www.addedbytes.com/download/css-cheat-sheet-v2/pdf/">PDF</a> | <a href="http://www.addedbytes.com/download/css-cheat-sheet-v2/png/">PNG</a>）
+<br> <br>
+<a href="http://refcardz.dzone.com/refcardz/corecss-part1">Core css</a>
+<br> <br>将 CSS 的核心知识分成3部分，包含了 CSS 的方方面面。<a href="http://refcardz.dzone.com/assets/request/refcard/4784?oid=lan4784&amp;uid=0">下载</a> （需免费注册）
+<a href="http://www.eddiewelker.com/wp-content/uploads/2007/09/csscheatsheet.pdf">CSS Shorthand Cheat Sheet</a>
+<br> <br>一些不容易记住的 CSS 元素。<a href="http://www.eddiewelker.com/wp-content/uploads/2007/09/csscheatsheet.pdf">下载</a> （PDF）
+<a href="http://www.veign.com/downloads/guides/qrg0007.pdf">CSS2 – Quick Reference Guide – PDF</a>  <a href="http://www.veign.com/downloads/guides/qrg0007.pdf">下载</a>（PDF）
+<a href="http://acodingfool.typepad.com/blog/2009/01/xhtml.html">XHTML 1.1 Cheat Sheet</a>
+<br> <br> <a href="http://www.w3.org/TR/xhtml11/">XHTML 1.1</a> 细则中涉及到的所有元素与属性。<a href="http://acodingfool.typepad.com/blog/xhtml-11-cheat-sheet.html">预览</a> | <a href="http://acodingfool.typepad.com/blog/pdf/xhtml_1.1_cheatsheet_v3.pdf">下载</a>
+<a href="http://www.gosquared.com/images/help_sheets/HTML%20Help%20Sheet%2002.pdf">Gosquared html help sheets</a>
+<br> <br>设计漂亮，结构精良的 HTML 速查。<a href="http://www.gosquared.com/images/help_sheets/HTML%20Help%20Sheet%2002.pdf">下载</a>（PDF）
+<a href="http://www.addedbytes.com/cheat-sheets/html-cheat-sheet/">HTML Cheat Sheet</a>
+<br> <br>一份 A4 纸大小的单页 HTML 速查表。下载 （<a href="http://www.addedbytes.com/download/html-cheat-sheet-v1/pdf/">PDF</a> | <a href="http://www.addedbytes.com/download/html-cheat-sheet-v1/png/">PNG</a>）
+<a href="http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html">HTML5 Canvas Cheat Sheet</a>
+<br> <br>HTML5 Canvas 对象的速查手册，直接编译自 <a href="http://www.whatwg.org/specs/web-apps/current-work/">WHATWG specs</a> 细则，只是更容易阅读一些。下载 （<a href="http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.pdf">PDF</a> | <a href="http://www.nihilogic.dk/labs/canvas_sheet/HTML5_Canvas_Cheat_Sheet.png">PNG</a>）
+<a href="http://www.addedbytes.com/cheat-sheets/html-character-entities-cheat-sheet/">HTML Character Entities Cheat Sheet</a>
+<br> <br>HTML 字符标识速查。下载 （ <a href="http://www.addedbytes.com/download/html-character-entities-cheat-sheet/pdf/">PDF</a> | <a href="http://www.addedbytes.com/download/html-character-entities-cheat-sheet/png/">PNG</a>）
+<a href="http://acodingfool.typepad.com/blog/html-character-entities-cheat-sheet.html">HTML Character Entities Cheat Sheet</a>
+<br> <br>该表包含 <a href="http://www.w3.org/TR/html4/sgml/entities.html">HTML 4 字符标识</a>，包括 ISO8859-1 (Latin-1)  中的字符。<a href="http://acodingfool.typepad.com/blog/html-character-entities-cheat-sheet.html">预览</a> | <a href="http://acodingfool.typepad.com/blog/pdf/html_entities_cheatsheet_v3.pdf">下载</a>
+<a href="http://acodingfool.typepad.com/blog/html-colors-cheat-sheet.html">HTML Colors Cheat Sheet</a>
+<br> <br>该  HTML 颜色表包含 1050 种颜色，按色度区分，每个色度包含25中不同饱和度与亮度。还包含216种 Web 安全色。<a href="http://acodingfool.typepad.com/blog/html-colors-cheat-sheet.html">预览</a> | <a href="http://acodingfool.typepad.com/blog/pdf/html_colors_cheatsheet_v2.pdf">下载</a>（PDF）
+<a href="http://www.addedbytes.com/cheat-sheets/colour-chart/">RGB Hex Colour Chart</a>
+<br> <br>RGB 16进制颜色表。包含216种 Web 安全色。下载 （<a href="http://www.addedbytes.com/download/rgb-hex-cheat-sheet-v1/png/">PNG</a> | <a href="http://www.addedbytes.com/download/rgb-hex-cheat-sheet-v1/pdf/">PDF</a>）
+Scripting 速查手册
+<a href="http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/">JavaScript Cheat Sheet</a>
+<br> <br>包含 JavaScript 的 的方法与函数，正则表单时，以及 XMLHttpRequest  对象。下载（<a href="http://www.addedbytes.com/download/javascript-cheat-sheet-v1/png/">PNG</a> | <a href="http://www.addedbytes.com/download/javascript-cheat-sheet-v1/pdf/">PDF</a>）
+<a href="http://www.wait-till-i.com/stuff/JavaScript-DOM-Cheatsheet.pdf">JavaScript DOM Cheatsheet</a>
+<br> <br>JavaScript DOM 结构速查手册。<a href="http://www.wait-till-i.com/stuff/JavaScript-DOM-Cheatsheet.pdf">下载</a>（PDF）
+<a href="http://acodingfool.typepad.com/blog/2009/01/jquery-13-cheat-sheet.html">jQuery 1.3 Cheat Sheet</a>
+<br> <br>jQuery 1.3 速查表。<a href="http://acodingfool.typepad.com/blog/jquery-13-cheat-sheet.html">预览</a> | <a href="http://acodingfool.typepad.com/blog/pdf/jquery_1.3_cheatsheet_v1.pdf">下载</a>（PDF）
+<a href="http://www.cheat-sheets.org/saved-copy/Jquery-Cheat-Sheet-1.2.pdf">jQuery Cheat Sheet 1.2</a>  jQuery 1.2 速查手册 <a href="http://www.cheat-sheets.org/saved-copy/Jquery-Cheat-Sheet-1.2.pdf">下载</a>（PDF）
+<a href="http://mediavrog.net/blog/2008/06/11/mootools/mootools-12-cheat-sheet/">mootools 1.2 cheat sheet</a>
+<br> <br>另一个 JavaScript 库 MooTools 1.2 速查手册。<a href="http://mediavrog.net/blog/wp-content/uploads/2008/08/mootools-12-cheat-sheet-pf.pdf">下载</a>（PDF）
+<a href="http://www.snook.ca/files/prototype_1.5.0_snookca.pdf">prototype 1.5.0</a>  JavaScript 库 Prototype 1.5 速查手册。<a href="http://www.snook.ca/files/prototype_1.5.0_snookca.pdf">下载</a> （PDF）
+<a href="http://thinkweb2.com/projects/prototype/prototype-1602-cheat-sheet/">Prototype 1.6.0.2 Cheat Sheet</a>
+<br> <br>JavaScript 库 Prototype 1.6.0.2 速查手册。<a href="http://thinkweb2.com/projects/prototype/downloads/Prototype%20Cheat%20Sheet%201.6.0.2">下载</a>（PDF）
+<a href="http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf">Addison-Wesley’s JavaScript Reference Card</a>
+<br> <br> JavaScript 参考手册。<a href="http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf">下载</a>（PDF）
+<a href="http://refcardz.dzone.com/refcardz/jquery-selectors">jQuery selectors</a>
+<br> <br>对 jQuery 开发者来说，该速查手册不可或缺，详细列举了 jQuery 所有选择器。<a href="http://refcardz.dzone.com/assets/request/refcard/3088?oid=lan3088&amp;uid=0">下载</a> （徐免费注册）
+服务器端编程
+<a href="http://www.addedbytes.com/cheat-sheets/php-cheat-sheet/">PHP Cheat Sheet (V2)</a>
+<br> <br>单页 PHP 参考手册，包含日期格式，正则表达式以及常用函数。下载 （<a href="http://www.addedbytes.com/download/php-cheat-sheet-v2/pdf/">PDF</a> | <a href="http://www.addedbytes.com/download/php-cheat-sheet-v2/png/">PNG</a>）
+<a href="http://www.visibone.com/php/">visibone</a>
+<br> <br>该站包含2页基本PHP速查手册，以及8页高级速查手册。非免费。
+<a href="http://www.stevengould.org/portfolio/independent/php-refcard/PHPRefCard.pdf">Php 4 Reference Card</a>  PHP4 参考速查手册。<a href="http://www.stevengould.org/portfolio/independent/php-refcard/PHPRefCard.pdf">下载</a>（PDF）
+<a href="http://www.blueshoes.org/en/developer/php_cheat_sheet/">PHP Cheat Sheet</a>
+<br> <br>PHP 比较操作速查手册。<a href="http://www.blueshoes.org/en/developer/php_cheat_sheet/">下载</a>
+<a href="http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf">Core C# and .NET Quick Reference</a>  C# 与 .NET 速查参考手册。<a href="http://www.digilife.be/quickreferences/QRC/Core%20CSharp%20and%20.NET%20Quick%20Reference.pdf">下载</a>（PDF）
+<a href="http://john-sheehan.com/blog/wp-content/uploads/aspnet-life-cycles-events.pdf">ASP.net</a>  ASP.NET 速查参考手册。<a href="http://john-sheehan.com/blog/wp-content/uploads/aspnet-life-cycles-events.pdf">下载</a>
+<a href="http://www.addedbytes.com/cheat-sheets/asp-vbscript-cheat-sheet/">MS ASP</a>  古老的 ASP 与 VB Script 速查手册。下载（<a href="http://www.addedbytes.com/download/asp-cheat-sheet-v1/png/">PNG</a> | <a href="http://www.addedbytes.com/download/asp-cheat-sheet-v1/pdf/">PDF</a>）
+<br> <br>
+<a href="http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf">msnet formatting strings</a> 微软 .NET 字符串格式化速查。<a href="http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf">下载</a>（PDF）
+<a href="http://www.sql.su/">SQL (Structured Query Language) in one page</a>  SQL 语言速查。<a href="http://www.sql.su/">直接访问</a>
+<a href="http://www.addedbytes.com/cheat-sheets/mysql-cheat-sheet/">MySQL Cheat Sheet</a>  MySQL 速查。下载（<a href="http://www.addedbytes.com/download/mysql-cheat-sheet-v1/png/">PNG</a> | <a href="http://www.addedbytes.com/download/mysql-cheat-sheet-v1/pdf/">PDF</a>）
+<a href="http://www.xml.su/">XML (eXtensible Markup Language) in one page</a> XML 单页速查手册。<a href="http://www.xml.su/">直接访问</a>
+<a href="http://www.mulberrytech.com/quickref/XMLquickref.pdf">XML Syntax Quick Reference</a>  XML 语法参考。<a href="http://www.mulberrytech.com/quickref/XMLquickref.pdf">下载</a>（PDF）
+SEO 速查手册
+<a href="http://www.seomoz.org/blog/the-web-developers-seo-cheat-sheet">The Web Developer’s SEO Cheat Sheet</a>
+<br> <br>出自 SEO MOZ 的 SEO 速查手册，包括重要的 SEO HTML 标签，搜索引擎索引的限制，Title 标签语法建议等。<a href="http://www.seomoz.org/user_files/SEO_Web_Developer_Cheat_Sheet.pdf">下载</a>（PDF）
+<br> <br>本文资料来源：<a href="http://www.tripwiremagazine.com/tools/cheat-sheets/front-end-web-developers-toolbox.html">http://www.tripwiremagazine.com/tools/cheat-sheets/front-end-web-developers-toolbox.html</a> <br>翻译整理：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站"
+➜北京一号线一地铁可能在早晨爆炸
+https://www.solidot.org/story?sid=12053	29520
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 "<a href="http://bbs.city.tianya.cn/tianyacity/Content/39/1/860782.shtml">天涯</a>：“今天9时30分，地铁一号线快到复兴门站时有爆炸声，全部乘客被疏散，到目前为此，没有任何官方消息。车上还有胡味，三声爆炸声，吓人的很。”
+<i> <a href="http://ttfield.blogbus.com/logs/41599510.html">"麻瓜养成记"网志</a>：“2009年6月28日上午9点35分左右，北京一号线地铁自东向西的一辆列车，开到复兴门站时，发出三声似爆炸的巨响，伴随巨大火光，火光随炸声的消失而消失，连续三响。此时我坐在对面相反方面的车厢里，听着炸声，看着火光，用惊吓的眼神迎来对面一辆带着火光的黑灯地铁里装满惊恐人群的地铁进站。我们这边的车厢也随之停电三十秒，随后继续前进。但车厢内的人胆已经吓破，我也在暗下决心再不坐地铁！”</i>
+<a href="https://twitter.com/shizhao/status/2368429190">shizhao</a>：“地铁也爆炸，这年头还是宅在家里安全一些，最多也就是被涉嫌颠覆政权＋泄露国家机密，至少不容易死人”。"
+<br> <b>更新</b>: 根据网络多方来源<a href="http://twitter.com/doubleaf/statuses/2368709110">判断</a>，列车应该的确在复兴门着火并有爆炸声，但不是人为制造。应该与一号线车辆老化有关。（<a href="http://tieba.baidu.com/f?kz=600419496">百度贴吧</a>）
+➜澳大利亚将审查可下载游戏
+https://www.solidot.org/story?sid=12054	31800
+澳大利亚联邦通信部证实，他们有意使用计划中的Web过滤器<a href="http://www.theage.com.au/digital-life/games/web-filters-to-censor-video-games-20090625-cxrx.html">去屏蔽未分级游戏的下载</a>，这些游戏因为各种原因（如暴力或色情）而被电影和文学分级办公室（OFLC）拒绝评级。澳大利亚是发达国家中唯一一个没有成人级（R18+）游戏分级的国家，如果游戏未能达到MA15+标准，那么它将被拒绝在澳大利亚境内销售。<i>
+对在线游戏的审查意味着，年龄超过15岁的澳大利亚人也无法下载到成人级别的游戏。电子前哨基金会（EFF）的发言人称，澳大利亚政府的行为显然远远超出了选民所授予的帮助父母处理网络安全的委托，澳大利亚人不久便会经历到网页神秘被封的体验，这件事证明强制性审查计划的范围<a href="http://games.slashdot.org/story/09/06/25/1821235/Australian-Web-Filter-To-Censor-Downloaded-Games">会不遗余力的向往扩展</a>。</i>
+➜联想软件更新悄悄安装了广告程序
+https://www.solidot.org/story?sid=12055	33000
+/.<a href="http://yro.slashdot.org/story/09/06/25/1757249/Lenovo-Software-Update-Stealthily-Installs-Adware">报道</a>，联想最近的一次软件自动更新悄悄的在用户电脑里安装了广告软件，每隔几小时它便会弹出恼人的<a href="http://i183.photobucket.com/albums/x57/UrsusMorologus/lenovo-desktop-spam.jpg">联想产品广告</a>（图片，称在联想官网Lenovo.com购买联想品牌的附件可获得额外20%的折扣）。<i>
+更恶劣的是，<a href="http://forums.lenovo.com/lnv/board/message?board.id=Special_Interest_General&amp;thread.id=4886&amp;view=by_date_ascending&amp;page=1">用户无法关闭广告功能</a>。/.的文章称“将广告通过邮件发送给用户并不令人反感，但你真的需要在PowerPoint幻灯片上弹出广告吗？”联想美国在向中国的免费软件学习吗？</i>
+➜伊朗试图用《指环王》三部曲让抗议者平静下来
+https://www.solidot.org/story?sid=12056	34560
+伊朗国家电视二台<a href="http://idle.slashdot.org/story/09/06/25/1535219/Iran-Tries-To-Pacify-Protesters-With-Lord-of-The-Rings-Marathon">正在播出《指环王》三部曲</a>，试图让民众呆在家中看电影，不要走上街头进行抗议。<i>
+伊朗人通常每周能欣赏到1到2部好莱坞或欧洲大片，但近来电影播出的数量激增，达到了每天2到3部。伊朗政府希望民众能忘掉烦恼，不要停留在过去，而应该向前看。现在他们计划用长达9个小时的电影让多数抗议者散去。不过《指环王》三部曲恐怕并不是最佳的选择，因为电影的主旨是“即便是最小的人也能够改变未来的进程”。</i>
+➜鸽子能鉴赏出儿童绘画的好坏
+https://www.solidot.org/story?sid=12057	36600
+人类的艺术创造能力或许是独一无二的，但非人类动物或许能分辨出其中的<a href="http://scipao.blogspot.com/2009/06/pigeons-discriminate-good-bad-paintings.html">“好”和“坏”的艺术</a>。<i>
+根据最新一期《动物认知》期刊上的<a href="http://www.springerlink.com/content/rrr67612t570058l/">论文</a>，日本人Shigeru Watanabe（此人获得过2005年的Ig诺贝尔奖）调查鸽子能否分辨出人类眼中的“好”和“坏”绘画，在他的训练之后，从没看过涂鸦的鸽子竟然轻易分出美术老师眼中好的或差的<a href="http://www.newscientist.com/articleimages/dn17383/0-pigeons-make-the-grade-at-art-appreciation.html">图画</a>——所有这些绘画都是东京小学9到11岁儿童绘制的。但从这些鸽子的鉴赏能力来看，与人类还是存在相当大的差异。</i>
+➜微软公开Windows 7定价
+https://www.solidot.org/story?sid=12058	38160
+微软公开了<a href="http://tech.slashdot.org/story/09/06/25/1514223/Microsoft-Discloses-Windows-7-Pricing">Windows 7的定价</a>：<i>
+完整版本的Windows 7 Home Premium定价199美元，Vista或XP的升级费用为119美元。Windows 7 Professional版定价299美元，升级版199美元。Windows 7 Ultimate定价为319美元，升级版219美元。如果美国、加拿大和日本的顾客现在便从特定的在线或实体商店——包括Amazon和Best Buy——在6月25日到7月11日之间预定Windows 7，将能获得50%以上的折扣。微软表示相同的计划将于7月15日到8月14日在英国、法国和德国进行。值得注意的是，在当前全球经济下滑的形势下，Windows 7的定价比Vista低了10%。但分析师仍然对<a href="http://tech.163.com/09/0627/13/5CQOL556000915BD.html">升级版定价过高</a>表示失望，称Mac OS X 10.6的升级费用仅为20美元。</i>
+➜盖茨获费曼Messenger讲座版权，计划免费公开
+https://www.solidot.org/story?sid=12059	40320
+诺贝尔物理奖得主<a href="http://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC">理查德·费曼(Richard Phillips Feynman)</a>是比尔盖茨最尊敬的物理学家之一，在1980年代两人曾有过几次电话交谈。<i>
+比尔盖茨收藏了很多了与费曼相关的物品，最新的藏品是以未透露数目的价格从BBC<a href="http://www.symmetrymagazine.org/breaking/2009/06/22/gates-buys-feynmans-messenger-lectures/">收购了费曼Messenger讲座的版权</a>。费曼在1964年为康奈尔大学的Messenger课程作了一系列讲座，由BBC录制，BBC一直持有视频版权直至被盖茨收购。这位微软创始人表示他唯一的计划是让视频在线免费公开。但目前盖茨还没有宣布如何处理讲座视频。费曼深入浅出的讲授物理学知识的能力为人所称道，授课也极受学生欢迎，《费曼物理学讲义》是他最著名的作品，感兴趣的人可以在国内的优酷网观看Messenger讲座的<a href="http://v.youku.com/v_show/id_XNzc2OTI0OTI=.html">完整视频</a>（应该未得到授权）。</i>
+➜平壤十万名群众举行反美集会
+https://www.solidot.org/story?sid=12060	42000
+<a href="mailto:jerryofwong@gmail.com">jerryofwong</a> 写道 <i>"<a href="http://news.xinhuanet.com/world/2009-06/25/content_11601779.htm">新华网报道</a>，6月25日，在朝鲜战争爆发59周年之际，近10万名平壤市民在金日成广场举行大规模反美群众集会。1950年6月25日朝鲜战争爆发。朝鲜把这一天定为“反美斗争日”。</i>
+另：韩国首次<a href="http://rawstory.com/08/news/2009/06/27/s-korea-warns-of-first-strike-capability/">提出</a>“先发制人”打击朝鲜核武器。           显然，由执政党组织的游行示威是反映民意的。3个月以后，<a href="http://www.wangxiaofeng.net/?p=2509">贵</a>国<a href="http://twitter.com/jiehanzheng/status/2325606488">也</a>要举行由执政党组织的<a href="http://you.video.sina.com.cn/b/22118202-1253358264.html">游行示威</a>，并且像<a href="http://you.video.sina.com.cn/b/9100719-1141649494.html">这样</a>举行阅兵式。
+➜对着右耳说话，更易被人接受
+https://www.solidot.org/story?sid=12062	43200
+科学家发现如果你让别人更容易接受你所传达的信息或指令，<a href="http://science.slashdot.org/story/09/06/24/2257221/Need-a-Favor-Talk-To-My-Right-Ear?art_pos=1">最好对着右耳说话</a>。这种现象被科学家称为“右耳优势”。右耳由左脑掌管，而左脑主要负责语言和逻辑思维，因此通过右耳传达的语言信息<a href="http://news.xinhuanet.com/zgjx/2009-06/25/content_11597053.htm">更容易被人接受</a>。<i>
+意大利基耶提大学的科研小组进行了这项实验。研究小组在3家夜总会里调查了数百人的行为，观察他们如何在自然环境下倾听他人讲话以及接下来作何反应。研究人员一共向176人说出了索要雪茄烟的请求，结果发现，当对着人的右耳说出请求时，获得雪茄的几率明显高于对着左耳说出请求。科学家得出的结论是，当进行语言交流时，存在着一种“右耳优势”，可以提高说话对象接受请求或者指令的意愿。研究人员称人们在使用电话通常会将听筒对着右耳。</i>
+➜曹筠武因《系统》获2009年骑士国际新闻奖
+https://www.solidot.org/story?sid=12061	43800
+南方周末记者曹筠武凭《系统》一文<a href="http://knight.icfj.org/Awards/KnightAwardsOverview/CaoJunwu/tabid/1365/Default.aspx">获2009年骑士国际新闻奖</a>（<a href="http://www.yeeyan.com/articles/view/41021/47720">译言</a>）。得奖者全球只有3人，另两位分别是一位民主刚果记者和一位《纽约客》记者。
+<i>曹在《南方周末》<a href="__SLASHLINK__" sect="games" sid="07/12/24/0827218" sn="article" tid="54">2007年12月20日刊发长篇特稿《系统》</a>，详尽深入地描述了发生在网络游戏“征途”中令人触目惊心的故事。它需要玩家投入真实的金钱以求在弱肉强食中生存。他注册了游戏账号，并结识了一些老玩家，将他们作为自己深入报道的一部分。</i>
+<a href="http://www.knight.icfj.org/Awards/KnightAwardsOverview/tabid/81/Default.aspx">ICFJ</a>主席Joyce Barnathan表示：“今年我们的获奖者都敢于大胆地讲真话，不管多危险，都不会向困难的题材低头。他们报道了别人避而远之的重要新闻。”
+➜RMS对Mono进入Debian说不
+https://www.solidot.org/story?sid=12064	45360
+自由软件基金会主席Richard M. Stallman对Debian让Mono包含在默认安装内的决定<a href="http://www.fsf.org/news/dont-depend-on-mono">表示了劝阻</a>，认为任何一个使用C#的程序(Tomboy是用C#编写，运行需要开源.NET实现Mono)都会令社区处于危险之中。<i>
+RMS认为微软可能会用软件专利打击任何自由的C#实现，避免未来风险的预防措施就是远离它。他称问题与C#实现无关，而是Tomboy和其它使用C#编程的软件。如果不使用C#，问题便迎刃而解了，用C#便意味着的要冒不必要的风险。<a href="http://news.slashdot.org/story/09/06/27/1759255/Richard-Stallman-Says-No-To-Mono">RMS表示不能让GNU/Linux发行版的默认安装中包括C#实现</a>。</i>
+对于RMS的评论，Mono开发者Jo Shields写了一篇<a href="http://www2.apebox.org/wordpress/rants/124/">针锋相对的文章</a>，解释为什么Mono不会威胁自由开源软件（FOSS），为什么它对开发者是可取的，为什么Ubuntu也应该默认安装它。此外，开源社区正在开发不依赖Mono的Tomboy C++实现<a href="http://live.gnome.org/Gnote">Gnote</a>，最终目的是取代Tomboy，从而让Gnome和GNU/Linux不依赖于Novell的.NET实现。
+➜自由引导网络，我们即将到来
+https://www.solidot.org/story?sid=12063	46620
+edkv 写道 "
+<i>政府当年开放了互联网，现在应该肠子都悔青了。老百姓跟政府对立的群体事件，很大程度上经由网络引发。各地方政府的形象在老百姓眼中几乎=0。于是政府开始害怕了，一系列的措施也就出来了。从全局的方面来讲，这样可以维持社会一定程度上的稳定，但要牺牲我们获取信息的自由。对于当代社会的发展来说，这无疑是在倒退，类似那时候的闭关自守。
+<br>换个角度来说，人对于你越是不想让他知道的事情，他越想知道，本性使然。而且有意掩盖的东西，都会给人猜疑的空间。有心之人，想制造一点混乱，不是难事。长久下去，或许某天，星星之火迸发于某个有心之人。"</i>
+而另一方面，匿名发表的《<a href="https://docs.google.com/View?id=df563ttp_0c4tt2fdp">2009匿名网民宣言</a>》也同时在网络上盛传。宣言中说：
+<i>“我们是匿名网民。我们是全球网民的总和。我们行为一体。我们是主宰网络。我们不可计数。我们每个成员的倒下都意味着十名新成员的加入。我们无处不在。我们无所不能。我们不可阻挡。我们没有弱点。我们利用一切弱点。我们是隐藏在每一张面具之下的人性。我们是人性的镜子。我们生而平等。我们天然自由。我们是军团。我们不饶恕。我们不忘记。自由引导网络。我们即将到来。”</i>
+➜ThinkPad T400s放大了Delete和Escape键
+https://www.solidot.org/story?sid=12066	48600
+联想公司经过一年的研究之后，作出了两项设计改变，不是让笔记本变得更薄更轻，而是放大了<a href="http://www.reddit.com/r/technology/comments/8w828/who_moved_my_delete_key_lenovo_did_heres_why/">Delete和Escape键</a>。虽然笔记本在不断进化，但键盘却依旧停留在19世纪的布局。联想在其最新商业笔记本ThinkPad T400s中<a href="http://www.usatoday.com/tech/products/2009-06-26-delete-key_N.htm?csp=usat.me">着重改进了键盘</a>。
+<i>
+联想在设计新的ThinkPad时，在30名员工的电脑上安装了按键跟踪软件（他们都是自愿安装）。结果发现，他们平均每周使用Escape和Delete键700茨。两键都在外侧，和普通的字母键一样大。联想让这两个键在垂直方向上放大为原来的<a href="http://i.usatoday.net/tech/_photos/2009/06/25/lenovox-large.jpg">两倍</a>（图），缩短臂展，以更符合人体工程学。但也有消费者表示键盘的变动会产生更多困挠。</i>
+➜可以从数百万网页中自动提取信息的实验性搜索引擎
+https://www.solidot.org/story?sid=12065	50100
+华盛顿大学的科学家们开发了一个叫做<a href="http://www.cs.washington.edu/research/textrunner/">TextRunner</a>的网页搜索工具（目前还只是一个很简单的演示），通过对超过5亿个网页的梳理，可以从数百万行文字中自动的分析词语之间的语义关系。<a href="http://beta.technologyreview.com/computing/22773/">专家认为</a>这项研究可以促进下一代互联网更加智能化。
+<i>这项技术不同于以往那样需要人机学习，例如现在<a href="http://research.google.com/pubs/NaturalLanguageProcessing.html">google正在研究的类似的自然语言处理技术</a>。TextRunner可以通过自学习的方式，发现和学习数百万语句之间的关系，而不需要人为干预。
+<br>
+目前这个搜索工具还只能处理英文，它通过英语中存在的通用的关系模型，来自动从文本提取语义关系。而这个工具的另外一个目的是处理自然语言查询。例如TextRunner找到一个网页上说，“哺乳动物是热血的”；另一个网页上说“狗是哺乳动物”；那么一个推理机就会生成这样一条信息：“狗可能是热血的”。</i>

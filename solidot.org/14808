@@ -1,0 +1,39 @@
+➜Git分支漫谈
+https://www.solidot.org/story?sid=18974	20100
+<a href="http://blog.danmarner.com/">DaNmarner</a> 写道 "<a href="http://en.wikipedia.org/wiki/Git_(software)">Git</a>是Linux之父Linus Torvalds 编写的分布式版本控制系统。它最初是用来取代商业软件 BitKeeper 管理 Linux 内核开发的。与其他版本控制系统相比，Git 有很多优势，具体内容可以参照不久前我，chunzi以及其它几位译者翻译的「Pro Git」 <a href="http://github.danmarner.com/">http://github.danmarner.com/</a> 。本文着重讨论 Git 的杀手锏：分支特性。           Git 储存版本历史的方式是为每一次 commit 时的整个目录储存一个快照。而一个 Git 分支实质上是一个可以在不同版本快照之间移动的指针。所以创建和储存分支在 Git 管理过程中是异常的轻便。<br> <br>轻便的分支结构意味着开发时更频繁的使用分支。而实际上 Git 社区正是使用分支最泛滥的。Git 鼓励用户创建分支：所有的代码最好都在分支里写成，最后合并到主干代码中。一个分支可以是一个实现思路的实验场所，或者一个修复补丁。分支存在的时间可以很短，可能只包含一两次提交，而一旦合并到主干就被立刻删除。Git 的分支是给开发者享受用的，而不是...等等，也是为项目管理代码用的！<br> <br>说到这我们其实遇到了 Git 的分支哲学为人垢病的一面。传统上在类似Subversion 这样的集中式版本控制系统里，分支基本上有三种使命：1 同时维护不同版本；2，进行重大特性的开发；3，控制特定开发者的提交权限。无论是履行哪一种使命，传统分支一定是为了＂长期＂存在而建立的。这里的长期当然是相对多数 Git 分支的寿命而言，即使某个分支停止使用了，一般也会转移到 attic 下面作为历史的一部分永久保存。<br> <br>当然，Git 的分支完全可以，并且在实践中也经常完成相同的任务。但是 Git 本身并没有对「协助开发的分支」和「用于管理的分支」这二者进行区分。这对于刚加入项目开发的新人理解版本控制的流程非常不利。<br> <br>另一方面，这个两种功能一种实现的设计也打破了个人 hack 和传统上分支中央集权的界限：当分支成了每天的家常便饭的时候，开发者的心理负担也少了，从而提高了他们为项目作贡献的积极性。这和 Git 植根于开源社区是紧密相联的。<br> <br>所以 Git 没有解决这个问题，可以看作是一种缺失，也可以看作是一项特性。<br> <br>怎样使用分支归根结底是人的问题，人的问题再好的工具也没法彻底解决。当有人问 Django 的核心为什么 Django 还在使用 svn 而不是 Git 或者 hg 时，他们是这样回答的：＂更换到其它的 VCS 不会为 Django 开发流程带来丝毫的改变，官方仓库还是那个唯一的仓库，提交权限仍将限制在核心成员手中，无论那是个git，svn 还是hg仓库。＂DaNmarner 觉得这一席话是以上观点的最佳表述。
+<br> <br>
+本文作者 DaNmarner， 原自其博客 http://blog.danmarner.com/"
+➜DNS Root Zone完成数字签名
+https://www.solidot.org/story?sid=18975	42000
+互联网系统协会(Internet Systems Consortium)<a href="http://www.isc.org/press-release/isc-praises-momentous-step-forward-securing-domain-name-system">宣布</a>，DNS Root Zone<a href="http://arstechnica.com/security/news/2010/07/dns-root-zone-finally-signed-but-security-battle-not-over.ars">完成数字签名</a>，这是部署DNSSEC(域名系统安全扩展)的重要一步。
+<i>
+互联网域名系统（DNS）是一个分级系统，不同域名服务器（Nameserver）提供者管理分级系统中的一部分有限信息，如域名根服务器，ISP的域名服务器等。DNSSEC是DNS的一个安全扩展集，为DNS查询的每一步骤增加一个数字签名验证，以抵御恶意的第三方伪造DNS数据。DNSSEC看起来很抽象，你可以通过安装一个Firefox扩展程序<a href="https://addons.mozilla.org/en-US/firefox/addon/64247/">DNSSEC Validator</a>了解DNSSEC是否生效。</i>
+➜Damn Vulnerable Linux：最脆弱的发行版
+https://www.solidot.org/story?sid=18976	43500
+通常安装一款Linux发行版，你总希望安装的软件最好都更新到最新版，安装之后不需要下载多少补丁进行更新。<i>
+但一款新的发行版<a href="http://www.damnvulnerablelinux.org/index.html">Damn Vulnerable Linux</a>反其道而行之，开发者在发行版内丢进了过时的、没有正确配置的，存在大量安全漏洞的软件，这是有史以来最容易受到攻击的发行版。该发行版面向的不是桌面用户，而是作为学习计算机安全课程的学生使用的学习工具。DVL live CD容量有<a href="http://www.computerdefense.org/dvl/DVL_1.5_Infectious_Disease.iso">1.8 GB</a>，包含了大量有缺陷的Apache、MySQL、PHP、 FTP和SSH daemons、GCC、GDB等等。</i>
+➜CCTV再次指责百度竞价排名
+https://www.solidot.org/story?sid=18978	44640
+政府喉舌CCTV在周日播出的《新闻30分》《每周质量报告》中<a href="http://tech.163.com/10/0718/13/6BSJUA15000915BF.html">再度曝光</a>(<a href="http://news.qq.com/a/20100718/000761.htm">视频</a>)了百度的竞价排名，指责百度为假药网站提供推广便利、谋取暴利。
+<i>
+报道称，在假药网站的运营过程中，售价方通过百度竞价排名，让相关关键词属于页面的前面，当有关患者或用户通过搜索关键词看到该网站的时候，不可避免地会受到蒙骗进而买到假药。CCTV声称，在假药网站的利益链中，百度竞价费用占到75%，销售人员分成13%，快递公司占7%，而售假方仅仅得到5%的利润。不过，<a href="http://twitter.com/easthero/status/18815885961">颇具讽刺的是</a>“新闻中报道的假药网站域名是 www.cctv995.com”。</i>
+➜西班牙地方议会面临破产
+https://www.solidot.org/story?sid=18977	45300
+<a href="http://dongxi.net/">东西网</a> 写道 "据英国《每日电讯报》援引西班牙报纸的<a href="http://dongxi.net/b01rz">消息</a>，西班牙地方财政正走在破产边缘。<i>
+在全国8000个地方议会中，有400多个议会已经停止支付水、电和电话账单。安达卢西亚省的大部分议会都已陷入停滞。靠近马德里的塞尼西恩托斯市市长说，该市议会从6月起就无法支付雇员工资，议员们已有两年没有任何收入，如果这一问题不能解决，她也要辞职了。西班牙的地区政府联邦表示，地方议会正在“窒息”，很多议会下个月将面临裁员。由于西班牙财政缩减计划，中央拨付地方议会的资金减少了20%。分析家们认为，欧债危机已经好转尚为时过早，要等到2012年才能下结论。如果真如分析家们所言，西班牙地方政府的日子真不好过。"</i>
+➜英国太阳能飞机Zephyr已连续飞行8天
+https://www.solidot.org/story?sid=18979	45360
+英国国防技术公司QinetiQ制造的新型无人驾驶太阳能飞机<a href="http://www.qinetiq.com/home_farnborough_airshow/unmanned_air_systems/zephyr.html">Zephyr</a>，正力图创下空中飞行时间最长记录。目前它已经<a href="http://www.bbc.co.uk/news/science-environment-10664362">连续飞行了8天</a>(<a href="http://www.bbc.co.uk/zhongwen/simp/world/2010/07/100716_uk_solar_plane.shtml">中文</a>)。
+<i>
+Zephyr上周五从美国亚利桑那州美军基地起飞的，有可能继续在空中飞行，一直到下周五才可能着陆。飞行器翼展22.5米，但是重量只有53公斤，体型看上去就像是一只细长的昆虫。在白天，飞行器通过分布在机翼的太阳能电池充入高功率锂硫电池，驱动两个螺旋桨；晚上通过电池白天储存的能量继续飞行。Zephyr与传统的无人机和飞机不一样，因为它不需要着陆或者补充燃料。它和轨道卫星也不一样，因为它可以连续悬浮在某一地区的上空。这种飞行器可以用于军队的战场侦察，监视农田和森林火灾，也可以用做抢险救灾的通讯中继站。从理论上来讲，这种飞行器可以连续在空中停留几个月的时间。目前无人机飞行的留空时间最高纪录为30小时24分钟。</i>
+➜摩托罗拉表示eFUSE不会永久性锁定手机
+https://www.solidot.org/story?sid=18980	48300
+摩托罗拉Droid X和Droid 2手机中内置了<a href="__SLASHLINK__" sect="hardware" sid="10/07/16/0847213" sn="article" tid="77">防止修改的eFuse芯片</a>，如果用户尝试安装非官方的bootloader手机便会被锁定。摩托罗拉回应称，<a href="http://hardware.slashdot.org/story/10/07/17/037259/Motorola-Says-eFuse-Doesnt-Permanently-Brick-Phones">eFUSE不会永久性锁定手机</a>。当然，eFUSE是会阻止用户使用非官方的软件，但如果用户在手机锁定后安装官方的固件，Droid X会进入到恢复模式，在安装完毕后就能启动进入系统。
+➜RIM和诺基亚回应苹果的手机天线都有问题的说法
+https://www.solidot.org/story?sid=18981	49800
+苹果CEO乔布斯（Steve Jobs）<a href="__SLASHLINK__" sect="hardware" sid="10/07/17/0538216" sn="article" tid="38">在iPhone 4新闻发布会上</a>，成功传播了一个FUD：所有智能手机的天线都存在某种缺陷，黑莓Bold 9700、HTC Droid Eris和三星Omnia 2在用手紧握的情况下也会掉信号。<i>
+对此，黑莓制造商RIM的CEO<a href="http://apple.slashdot.org/story/10/07/17/1813218/Nokia-and-RIM-Respond-To-Apples-Antenna-Claims">认为</a>，苹果的声明似乎是故意扭曲公众对天线设计问题的理解，转移公众对苹果所面临困境的注意。诺基亚表示它在天线设计方面是领先者，是第一家向市场推出内置天线的手机的制造商，诺基亚认为如果发生冲突，天线性能要优先于天线设计。此番评论可能是回应最近的 <a href="http://cn.wsj.com/gb/20100716/tec095348.asp">流言</a>：苹果早就知道天线性能存在问题，但乔布斯欣赏新的天线设计方式。</i>
+➜人类肠道是病毒的“仙境”
+https://www.solidot.org/story?sid=18982	54000
+根据发表在《自然》杂志上的<a href="http://www.nature.com/nature/journal/v466/n7304/pdf/nature09199.pdf">研究报告</a>，华盛顿大学的微生物学家分析了四组同卵双胞胎及其母亲的粪便样本。他们在一年时间内三次收集和提纯她们的粪便，<a href="http://news.sciencemag.org/sciencenow/2010/07/a-viral-wonderland-in-the-human-.html">目的是跟踪人体肠道微生物群的变化</a>。<i>
+研究人员测序了粪便中的病毒DNA或病毒宏基因组（virome）。他们发现只有20%的病毒DNA匹配现有的数据库，其余都是目前未知的病毒。每位女性的病毒基因组都不同，即使她们是同卵双胞胎。同卵双胞胎的病毒相似度并不大于不相关的个体，但她们肠道微生物相似度有50%重合。研究人员还惊讶的发现病毒群的一致性，在一年时间内病毒的变化不到5%。</i>

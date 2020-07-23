@@ -1,0 +1,60 @@
+➜BadVista.org: 和自由软件组织在纽约市举行抵制Vista运动
+https://www.solidot.org/story?sid=1832	2220
+<a href="http://qidane.blogspot.com/">qidane</a> 写道 <i>""加入<a href="http://badvista.fsf.org/">BadVista.org</a>策划的与Microsoft Vista发布会同时进行的活动,一月29日下午12点到2点在纽约市. 将在时代广场和中央车站附近进行."<br>
+由<a href="http://fsf.org/">自由软件基金会(FSF)</a>组织的<a href="http://badvista.fsf.org/">"抵制Vista"运动</a>作为一个计算机用户自由的提倡者,正在进行抵制Microsoft Windows Vista并提倡自由软件的一系列活动,而即将举行的<a href="http://badvista.fsf.org/blog/share-your-wow-moments-with-badvista-org-in-nyc">Vista发布会</a>正好给了他们一个很好的机会,他们会在发布会上有什么样的新鲜活动呢?这值得我们共同关注."</i>
+➜PC-BSD 1.3开发人员访谈录
+https://www.solidot.org/story?sid=1833	2820
+<a href="http://kingliyou.cublog.cn/">kingliyou</a> 写道 <i>"PC-BSD 1.3在新年之初刚刚发布, Dru Lavigne<a href="http://www.onlamp.com/pub/a/bsd/2007/01/25/inside-pc-bsd-13.html">采访了一些PC-BSD 1.3发行小组的工作人员</a>, 其中谈到PC-BSD 1.3的开发过程以及PC-BSD 1.3的社区活动状态.<br>
+首先. Dru Lavigne邀请三位受到采访的PC-BSD 1.3的开发人员个子介绍了一下自己的简历,以及如何开始加入PC-BSD 1.3开发小组的.<br>
+首先来自Kris Moore的介绍: 我目前生活在美国, 准确地说应该是华盛顿州的Battle Ground 镇. 我今年26岁,已经结婚, 生有两个儿子, 一个3岁, 一个5个月.我喜欢电子设备, 并且喜欢写代码.<br>
+我在过去的六年中, 主要是靠在Unix/Linux平台下的shell编程和C++编程来谋生. 使用过大量的Linux发行版和各种各样的 Linux桌面程序, 但是最终都没有坚持下去.特别是有些情况下, Linux发行版中缺少某些软件, 我们必须要去自己下载源码, 然后编译, 这样要耗费掉我们大量的时间。在这种情况下, 我就想到了能否在*nix平台下实现类似于exe程序的东西, 加上我在BSD方面的开发经验, 我想到了PC-BSD项目组, 在这种系统中, 对于那些一般用户来说, 只是需要双击就可以完成软件升级或者安装, 对于那些经验丰富, 或者需求特别的用户的用户来说, 也同样可以适用包管理系统或者ports机制来完成软件的安全, 满足他们的特殊要求.<br>
+"</i>           Andrei Kolu: 我出生在俄国, 在爱沙尼亚的Pyssi市长大. 我今年30岁, 在1991年的时候, 我开始接触计算机,那个时候爱沙尼亚刚刚从苏联共和国联邦中分离出来. 第一次在学校中接触的电脑是Juku(一种台湾出品的Intel兼容机),一种基于Intel8080处理器; 拥有640KB内容和两个 5.25-inch的软驱.
+<br>
+我第一次接触Unix系统是在1994年的时候,那时候我在Virumaa大学期的计算机室兼职,在96年的时候,SCO Open Desktop使得我开始尝试Red Hat Linux.现在我还珍藏着当年在爱沙尼亚最大的电脑展上购买的Red Hat Linux,当时的安装盘有6张,地道的美国货.不幸的是,在Red Hat Linux7.0中,他所附带的GCC存在扬中的问题,使得我开始投入FreeBSD的怀抱.从2001年后,FreeBSD就成为了我服务器上的首选操作系统.
+<br>
+我从2005年的7月份开始为PC-BSD项目组工作. 当时我在为一个爱沙尼亚的计算机公司选择一个终端服务器操作系统的时候发行了他. 才开始的时候, 我在red hat Linux的基础上选择, 但是他所附带的Matrox显卡的驱动实在是太差劲了.然后我为公司定制了一份本地化的PC-BSD DVD版本, 但是一个人工作实在没有什么意思, 在此之后,我决定专职加入PC-BSD项目组,作为一名志愿者.
+➜谁杀死了站长（Webmaster）？
+https://www.solidot.org/story?sid=1834	10440
+在过去的十年里，网站和web的增长是爆炸性的，期间诞生了一种新的职业：站长（Webmaster）。但是当时间跨入2007年，这类人似乎消失了。甚至站长这个词也很少有人再去提。发生了什么？<a href="http://blog.rightbrainnetworks.com/2007/01/28/who-killed-the-webmaster/">谁杀死了站长</a>？我们可以找出几条理由。<i>"
+1.技术的进步：以前一个人只要会用Frontpage，使用D版的Photoshop就可捣鼓出一个页面。那时候专业的网页设计师一个人就够了，但是今天要一个团队。前台开发者，后台开发者，图形艺术，UI设计，数据库和系统管理，搜索引擎专家，分析专家，广告策划制作，编辑，项目管理人等。这已经是一个行业，一个人已经无法处理所有的事情。<br>
+2.也许是经济因素？2000年的网络泡沫破裂让站长们不得不去检查一下他们的钱包。<br>
+3.繁荣的Web 2.0。互联网的发展已经越过了站长。Web 2.0已经是无冕之王。人们自己可以创造内容，在今日内容是王。站长并非是必须的，我们可以同时创造和消费内容，在博客上，在MySpace，YouTube，Flickr，Digg以及SecondLife上。谁还需要站长？"</i>
+➜微软用Apache Tomcat做服务器？
+https://www.solidot.org/story?sid=1835	12600
+batfree在<a href="http://groups.google.com/group/nkeric-daily/browse_thread/thread/2ae47f935707803c?hl=zh-CN">Google Groups</a>里面写到：“今天偶然的我点了一下Live Mail上面的广告，然后得到了这样的<a href="http://mclient.msn.com.cn/ApacheBeatIIS">页面</a>。原来MSN用的竟然是Apache+Tomcat，那后台应该是在使用Java了。作为微软的门户网站，我觉得应该用微软自己的IIS+.net才比较合理吧，还是微软也认为自己的IIS负担不了呢？ ”
+➜山姆大叔打碎了免费太空旅行之梦
+https://www.solidot.org/story?sid=1836	20280
+软件顾问Brian Emmett的儿时梦想在2005年成真。31岁的他在甲骨文公司（Oracle）举行的比赛——回答一系列与Java代码相关的问题中获胜，获得了免费太空旅行。成为名人的他参与了太空训练营，观看了航天飞机发射，看起来成为一名宇航员的梦想正在变为现实。但是<a href="http://www.cnn.com/2007/TECH/space/01/28/free.ride.ap/index.html">现在他不得不放弃</a>，因为山姆大叔要求他为13万8千美元的太空玩笑支付大约2万5千美元的税。<i>"
+自从美国国内税务局要求摸彩的获胜者，TV游戏以及其它比赛的获胜者都需要纳税。税务专家认为没有什么免费的太空旅行。一些比赛主办人提供的支票已经包含了税。但是收入还是需要征税。"</i>
+虽然Brian Emmett取消了太空旅行，甲骨文公司表示正在寻找替代者，仍然有两位分别来自亚洲和欧洲的获胜者没有取消太空旅行。微软也在进行同样的比赛。
+➜Adobe向ISO递交完整的PDF规范
+https://www.solidot.org/story?sid=1837	22140
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"Adobe宣布通过AIIM向国际标准组织(ISO)递交完整的PDF规范（目前版本1.7）。Adobe表示PDF已经进入了发展的成熟阶段，合乎逻辑的下一步发展将会是推行开放标准。之前Adobe曾宣布<a href="http://www.adobe.com/aboutadobe/pressroom/pressreleases/200611/110706Mozilla.html">Flash Player Scripting Engine开放源代码</a>，Adobe许诺开放标准，论证了开放标准和开放源代码策略正成为软件行业的主流观点。绝大多数人都知道PDF早已是一个行业标准，它现在这么做的意义又是如何？PDF成为开放标准/规范是一个<a href="http://it.slashdot.org/it/07/01/29/1114228.shtml">非常重要的事情</a>。也许这也是对抗微软XML规格的一个策略。"</i>
+➜非主流搜索引擎Top 100
+https://www.solidot.org/story?sid=1838	26040
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"四款搜索引擎Google，Yahoo!，MSN和Ask.com占据了99.99%的市场。搜索引擎优化专家Charles S. Knight列出了占有了0.01%的其它可供选择的<a href="http://www.readwriteweb.com/archives/top_100_alternative_search_engines.php">搜索引擎Top 100</a>。列表中包括了人工智能系统，聚合类搜索，推荐搜索引擎（大概就是digg之类），Metasearch以及其它不为人知的搜索网站。Knight认为，他的SEO工作可以让更多人知道那些富有创新的搜索引擎。<br>
+<a href="http://www.a9.com/">A9</a> <br>
+<a href="http://www.soople.com/">soople</a> <br>
+<a href="http://www.bessed.com/">bessed</a> <br>
+<a href="http://www.usabilityviews.com/">Simply Google</a> <br>
+<a href="http://www.wikio.com/">wikio</a>"</i>
+➜来自BBC的操作系统对比
+https://www.solidot.org/story?sid=1839	29460
+作为Vista发布日的一部分，BBC上周请求用户递交描写他们所选择的操作系统的优缺点的文章。昨天，他们发布了<a href="http://news.bbc.co.uk/1/hi/technology/6309425.stm">两位Vista用户，一位Linux用户和一位OS X使用者的回应</a>(<a href="http://bestfreeproxy.net/?q=aHR0cDovL25ld3MuYmJjLmNvLnVrLzEvaGkvdGVjaG5vbG9neS82MzA5NDI1LnN0bQ%3D%3D&amp;hl=0011101000">代理</a>)。文章到没有什么引人注目的地方，但比较有趣的是看到操作系统在同一运动场上进行比赛，BBC给于了它们均等机会。<i>"
+Dan Verley，US，Vista用户：最吸引人的地方是它的3D表现，以及独一无二的Readyboost功能，如果内存不足的话，可以用U盘作为额外的缓存。<br>
+Nick Fletcher，Australia，Vista用户：同样对桌面表现赞不绝口。<br>
+Paul Broadbent，UK，Linux用户：Linux最大的优点之一是它的适应性，以及不需要为安全担心，病毒是稀罕物。 KDE和Gnome桌面绝不比Vista和OS X上的差。 <br>
+Jonathan Tilney,MAC OS X：Mac OS X虽然没有多少娱乐功能，但你可以安心工作，不为Windows里那些突然弹出的东西打扰。安全性和适应性都很好，不记得什么时候程序崩溃过。"</i>
+➜图灵奖获得者Jim Gray失踪
+https://www.solidot.org/story?sid=1840	30840
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a>和<a href="http://my.opera.com/interma/blog/">interma</a>写道 <i>"<a href="http://en.wikipedia.org/wiki/James_N._Gray">James N. Gray</a>，1998年图灵奖获得者，是许多数据库基本理论的奠基人。据报道在一次独自驾船驶往旧金山Farallon岛的<a href="http://www.mercurynews.com/mld/mercurynews/16575073.htm">途中失踪</a>，他是微软旧金山湾区<a href="http://research.microsoft.com/~gray/">eScience group</a>研究院主任。美国海岸警卫队已经在超过4000平方海里的水面寻找失踪船只，没有收到任何遇险信号。Jim Gray，63岁，有10年的驾船经验，曾经到中国进行过学术交流。"</i>           咱们熟悉的Jim Gray伯伯在其FARALLON ISLANDS的旅行中missing了。。。<br>
+这里是mercurynews的<a href="http://www.mercurynews.com/mld/mercurynews/16575073.htm">报道</a>，当然这条新闻也被<a href="http://developers.slashdot.org/article.pl?sid=07/01/30/0353228">slashdot了</a>。<br>
+God bless这位给我们带来数据库的图灵奖获得者吧。
+➜Jim Gray 丢啦～
+https://www.solidot.org/story?sid=1841	30960
+<a href="http://my.opera.com/interma/blog/">interma</a> 写道 <i>"咱们熟悉的Jim Gray伯伯在其FARALLON ISLANDS的旅行中missing了。。。<br>
+这里是mercurynews的<a href="http://www.mercurynews.com/mld/mercurynews/16575073.htm">报道</a>，当然这条新闻也被<a href="http://developers.slashdot.org/article.pl?sid=07/01/30/0353228">slashdot了</a>。<br>
+God bless这位给我们带来数据库的图灵奖获得者吧。"</i>
+➜科学家希望解决哈比人（Hobbit）争论
+https://www.solidot.org/story?sid=1842	33840
+<a href="mailto:a.hf9912+solidot@gmail.com">matrix</a> 写道 <i>"魔戒让哈比人名扬中土，而科学家2004年在印度尼西亚巴厘岛上挖掘出的<a href="http://www.cnn.com/2005/TECH/science/10/11/hobbit.jaw.ap/index.html">一个骨骼很小体型与哈比人相似的古代女性</a>引起了颇多争论，地球是否真的存在哈比人？福克斯新闻网报道了澳大利亚科学家<a href="http://www.foxnews.com/story/0,2933,248185,00.html">发现了地下居所</a>以及DNA样本将解决这个争论，哈比人？或者没有，或者确实是人类家族的一个新分支代表。发现者把她命名为Homo floresiensis—一个假定的新种族。人类学领域的其他专家对此表示怀疑，争论身高一米左右的哈比人也许是现代人类出现疾病导致的。而在美国科学院学报上发表的一篇论文——合著者包括了发现团队的成员——指出，研究人员将哈比人头骨与现代人类中患有如头小畸型疾病的人的头骨进行了一番对比，结论是<a href="http://today.reuters.com/news/articlenews.aspx?type=scienceNews&amp;storyID=2007-01-29T233921Z_01_N29192563_RTRUKOC_0_US-HOBBIT-SPECIES.xml&amp;pageNumber=1&amp;imageid=&amp;cap=&amp;sz=13&amp;WTModLoc=NewsArt-C1-ArticlePage1">哈比人与之不同</a>，也就是说哈比人是人类的一个新分支，新的种族。"</i>

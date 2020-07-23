@@ -1,0 +1,6 @@
+➜逃避审查的猫捉老鼠游戏
+https://www.solidot.org/story?sid=59148	55535
+在 35C3 会议上，Psiphon 的开发者 Keith McManamen 介绍了<a href="https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9964.html"><u>审查和反审查的现状</u></a>，谈论了审查者和反审查各自使用的技术以及未来的趋势。<a href="https://mirrors.dotsrc.org/cdn.media.ccc.de/congress/2018/slides-h264-hd/35c3-9964-eng-deu-fra-Cat_Mouse_Evading_the_Censors_in_2018_hd-slides.mp4"><u>演讲（MP4）</u></a>主要涉及的是基础性内容，McManamen 称：审查者主要使用 IP 封锁、网址屏蔽、DNS 劫持、关键词过滤、协议黑名单白名单（比如伊朗在 2013 年选举期间只允许 HTTP 流量通过），深度包检测等技术。其中深度包检测需要大量的计算资源，但随着硬件越来越便宜，深度包检查的部署有扩大的趋势。反审查者主要使用公共 DNS、Web 代理、VPN、Psiphon 或 Tor，SSH、抵抗流量指纹的模糊协议技术，域前置转发流量等等。McManamen 认为未来的审查将会愈加严厉，审查者扩大部署深度包检测，加大打击规避技术，基于附带损害之类的规避技术将不再可靠，整个 CDN 网络都有可能遭到审查者的屏蔽。
+➜中国在 2018 年完成 37 次发射
+https://www.solidot.org/story?sid=59149	57284
+中国在 2018 年<a href="https://www.nasaspaceflight.com/2018/12/long-march-2d-20-hongyan-1-launch/"><u>完成了</u></a> 37 次发射。最后一次是在 29 日使用长二丁火箭/远征三号上面级在酒泉卫星发射中心<a href="http://www.spacechina.com/n25/n2014789/n2014804/c2428067/content.html"><u>发射了</u></a> 6 颗云海二号卫星和一颗鸿雁星座试验星“重庆号”。云海二号卫星和鸿雁试卫星都由航天科技集团研制，其中“重庆号”是鸿雁星座系列的首颗星，将测试 L 和 Ka 频段通信的技术验证，中国计划发射 320 多颗鸿雁星座卫星提供全球通信服务，2020 年底将发射 6 到 9 颗进行网络测试，到 2023 年完成第一阶段的 54 颗星的发射，第一阶段的投资金额就高达大约 200 亿元。

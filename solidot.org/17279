@@ -1,0 +1,20 @@
+➜超过 1 万台 Windows 电脑可能感染了 NSA 后门
+https://www.solidot.org/story?sid=52152	42489
+<div align="center"><img src="http://img.solidot.org/0/309/liX5IgmeuLYI.jpg" width="500" align="" height="261"><br>
+</div>
+<br>
+安全专家相信<a href="https://arstechnica.com/security/2017/04/10000-windows-computers-may-be-infected-by-advanced-nsa-backdoor/" target="_blank"><u>有数万台 Windows 电脑可能感染了 NSA 后门</u></a>。该后门包含在神秘黑客组织 Shadow Brokers 最新泄漏的 NSA 黑客工具中。该后门被称为 DoublePulsar，安全公司  <a href="https://www.binaryedge.io/">Binary Edge</a> 的扫描发现了 10.7 万台电脑感染了 DoublePulsar（上图是感染电脑的分布图），但这一结果被认为并不精确。其他安全研究人员的扫描给出了不同的数字，但都超过一万台。DoublePulsar 设计不向计算机写入文件，因此重启后就不见了。这可能是扫描结果存在差异的原因。安全研究人员的持续监视发现，在 24 小时内感染数量在持续增加，因此一种可能解释是模仿者拿着 Shadow Brokers 泄漏的 DoublePulsar 去感染未打补丁的 Windows 电脑。微软官方发表声明对这一数字表示怀疑，认为存在误报。<br>
+➜不含有 systemd 的 Debian 分支 Devuan 释出首个预发布版
+https://www.solidot.org/story?sid=52153	43046
+2014 年，因为选择初始化系统 systemd 引发的争议，一群不满的开发者创建了不使用 systemd 的 Debian 分支 Devuan。现在，Devuan 开发者<a href="https://devuan.org/os/debian-fork/stable-candidate-announce-042017" target="_blank"><u>宣布</u></a>释出 <a href="https://files.devuan.org/devuan_jessie_rc/"><u>Devuan Jessie 的首个预发布版本</u></a>。Debian 8 Jessie 于 2015 年发布，默认 init 系统 systemd，可选使用 sysvinit。systemd 的一个受争议之处是它被认为违背了 Unix 哲学，被认为太复杂管的功能太多。Devuan 开发者自称是 Init 自由热爱者，称 Devuan Jessie 能从&nbsp; Debian Wheez 和 Jessie 无缝升级。Devuan 提供了多种 init 系统供用户选择，其中包括 sysvinit、sinit、openrc、runit、s6 和 shepherd。
+➜中国科协与 Springer 讨论撤稿事件
+https://www.solidot.org/story?sid=52154	49090
+Springer 于 4 月 20 日<a href="http://www.solidot.org/story?sid=52135" target="_blank"><u>宣布</u></a>期刊《Tumor Biology》撤回 107 篇论文，撤回原因是出版道德委员会 (COPE) 认定这些论文的同行评议过程存在作假。大部分被撤回论文来自中国。在正式宣布这一决定前，中国科协就此事与 Springer 集团代表进行了讨论。中国科协<a href="http://www.cast.org.cn/n17040442/n17136067/17662175.html" target="_blank"><u>新闻稿</u></a>声称，科协书记处书记王春法表示，论文因虚假同行评审问题被撤，应该以适当方式让公众了解撤稿事件中各方主体的责任。作者和 “第三方” 中介确实存在不可推卸的责任，但 2015 年撤稿事件发生后，出版集团没有采取积极有效措施防止类似事件发生，出版集团和期刊编辑存在内控机制不完善、审核把关不严格等问题，理应对此承担责任。
+➜科学家上街抗议
+https://www.solidot.org/story?sid=52155	51422
+科学家在世界地球日举行了首次<a href="http://www.sciencemag.org/news/2017/04/march-science-live-coverage?IntCmp=m4s_ghp-91" target="_blank"><u>科学家游行</u></a>，抗议科学事实在现今的政治环境下<a href="http://www.bbc.com/zhongwen/simp/world-39683363" target="_blank"><u>不被尊重</u></a>。活动提倡者表示，在美国首都的游行并不是要对抗总统特朗普，但同时也称特朗普的行政团队“催化”了这场运动。
+在华盛顿的游行中，加利福尼亚州科学院执行主任弗雷（Jonathan Foley）博士表示，科学研究结果被非理性的质疑，受到来自政客“相当的压迫”。
+“政客特别会攻击关于我们健康、安全和环境的科学。这些科学是用来保护脆弱的人类免于受到伤害。有些人可能因此受苦，甚至死亡。”组织者认为科学家与大众沟通有其难度，他们甚至鼓励科学家从政，让科学界的声音被听见。
+➜WikiLeaks 公开 CIA 入侵三星智能电视的方法
+https://www.solidot.org/story?sid=52156	56497
+WikiLeaks 公布了最新的 CIA 机密文件，<a href="https://wikileaks.org/vault7/#Weeping%20Angel" target="_blank"><u>披露了</u></a>入侵三星 F 系列智能电视的 Weeping Angel 工具的<a href="https://wikileaks.org/vault7/document/EXTENDING_User_Guide/" target="_blank"><u>用户手册</u></a><a href="https://wikileaks.org/vault7/#Weeping%20Angel" target="_blank"><u> </u></a>。Weeping Angel 并非是 CIA 原创，而是基于 MI5/BTSS 的 Extending 工具，设计利用内置麦克风记录数据。该工具需要通过物理接触方法使用 U 盘安装到目标的智能电视上，记录下的音频数据再通过物理接触方法收回，但利用附近的 WIFI 热点远程获取记录的音频数据也是可能的。运行在 Windows 上的另一个工具 Live Liston Tool 可用于实时获取监听的数据。Extending 还可以伪装电视屏幕关闭下继续监听。Weeping Angel 是 CIA 和 MI5/BTSS 在一个联合开发研讨会期间合作开发的。

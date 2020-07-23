@@ -1,0 +1,15 @@
+➜Linux 4.9将是下一个LTS版
+https://www.solidot.org/story?sid=49305	39313
+Linux稳定版内核维护者Greg Kroah-Hartman<a target="_blank" href="https://plus.google.com/+gregkroahhartman/posts/DjCWwSo7kqY"><u>宣布</u></a>下一个长期支持版（LTS）内核将是Linux 4.9。内核当前的最新版本的是4.7，上周日发布了4.8 RC1，内核的每一个版本大约在发布7到8个RC后释出正式版，整个开发发布周期在1个半月到2个月左右，Linux 4.9将在3到4个月后发布，也就是大约是在11月底到12月初。LTS通常是在另一个LTS版结束支持之际由内核开发者挑选出新的版本，它将提供两年的更新。Linux 3.18 LTS版将在2017年1月结束支持，4.9 之前的LTS版是Linux 4.1。
+➜广告屏蔽和反广告屏蔽的军备竞赛
+https://www.solidot.org/story?sid=49306	44409
+广告屏蔽工具日益流行，网站的反广告屏蔽也日益常见。在本周的USENIX会议上，研究人员报告了对Alexa排名前5000网站<a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-nithyanand.pdf"><u>部署反广告屏蔽脚本的调查结果</u></a>（PDF）。他们利用安装不同广告屏蔽扩展的 Firefox浏览器，加载这些网站，分析页面源代码中是否包含反广告屏蔽脚本。研究人员发现；Alexa排名前5000网站中，至少 335家网站部署了反广告屏蔽。一半的反广告屏蔽由Pagefair、Google、Taboola、Outbrain和Ensighten关联域名提供的，其中Pagefair提供反广告屏蔽服务，而其它都提供在线广告服务，将直接受益于反广告屏蔽。本周的<a target="_blank" href="https://techcrunch.com/2016/08/11/friendblock/"><u>相关新闻是</u></a>：Facebook部署了反广告屏蔽的代码，Adblock Plus找到了<a target="_blank" href="https://adblockplus.org/blog/fb-reblock-ad-blocking-community-finds-workaround-to-facebook"><u>绕过方法</u></a>，然后Facebook准备更新代码堵上漏洞。
+➜在敌人眼皮底下隐藏秘密信息
+https://www.solidot.org/story?sid=49307	51770
+Alice 和 Bob 想要进行通信，他们使用消息平台被邪恶的 EVE 监视着，EVE 事实上监视着所有ISP的流量，利用算法探测隐藏的信息。Alice 和 Bob 如何能在敌人的眼皮底下安全通信？在本周举行的USENIX安全会议上，研究人员提出了语言隐写方法 <a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-safaka-revised.pdf"><u>Matryoshka（俄罗斯套娃）</u></a>——将人类的信息隐藏在另一个类似人类写的信息中。现有的隐写工具会导致加密信息的体积增大，因此很容易被发现。研究人员通过压缩信息，映射到合理的单词次序，让人类用户编辑结果产生看起来是人类写的有意义的信息。研究人员构建了原型，利用亚马逊的Mechanical Turk招募志愿者进行测试，结果显示编辑信息所耗费的时间与写一份简短的邮件相差无几。
+➜DDoSCoin：加密货币奖励用户参与DDoS攻击
+https://www.solidot.org/story?sid=49308	53079
+在本周举行的 USENIX 进攻技术研讨会上，科罗拉多大学和密歇根大学的研究人员提出了一个疯狂的想法：他们创造了一种新的数字加密货币<a target="_blank" href="https://www.usenix.org/system/files/conference/woot16/woot16-paper-wustrow.pdf"><u>DDoSCoin</u></a>（PDF），用于奖励用户使用他们的电脑参与DDoS攻击。矿工的工作量计算是根据与目标网站建立的TLS连接，这意味着DDoSCoin只适用于启用了TLS的加密网站。参与DDoS攻击将给予矿工DDoSCoin，矿工随后可以将DDoSCoin转换成比特币或其它法币。任何想要发起DDoS攻击的人可以通过 PAY_TO_DDOS交易提出请求。
+➜OblivP2P：不被人注意的P2P内容共享系统
+https://www.solidot.org/story?sid=49309	59150
+流行的P2P内容共享系统如 BitTorrent 易被政府机构 或 ISP 通过流量分析识别和确定用户身份，无论用户共享的是涉嫌侵权的内容还是合法的内容。为了隐藏在线痕迹，用户开始部署匿名网络如 Mix 和洋葱路由，但这些匿名网络系统也易遭"长期流量模式分析攻击"。在本周举行的 USENIX 研讨会上，新加坡国立大学的研究人员提出了<a target="_blank" href="https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_jia.pdf"><u>OblivP2P</u></a>（PDF），利用Oblivious RAM的概念去隐藏数据访问模式。研究人员的实现原型<a target="_blank" href="https://github.com/jiayaoqijia/OblivP2P-Code"><u>源代码</u></a>已经发布在Github上。

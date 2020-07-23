@@ -1,0 +1,48 @@
+➜基于GPU的rootkit和键盘记录器
+https://www.solidot.org/story?sid=43990	10462
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道<i> "2013年的一篇论文"<a target="_blank" href="http://www.cs.columbia.edu/%7Emikepo/papers/gpukeylogger.eurosec13.pdf">You Can Type, but You Can’t Hide: A Stealthy GPU-based Keylogger</a>"讲解了利用GPU来实现键盘记录器，但从来没有人公开过PoC，最近<a target="_blank" href="http://arstechnica.com/security/2015/05/gpu-based-rootkit-and-keylogger-offer-superior-stealth-and-computing-power/">匿名的安全研究人员公开了</a>一个叫<a target="_blank" href="https://github.com/x0r1/jellyfish">jellyfish的GPU rootkit</a>和<a target="_blank" href="https://github.com/x0r1/Demon">Demon的GPU键盘记录器</a>的PoC，jellyfish是一个GNU/Linux的GPU rootkit的PoC，其利用著名<a target="_blank" href="http://resources.infosecinstitute.com/jynx2-sneak-peek-analysis/">用户态rootkit Jynx</a>以LD_PRELOAD劫持的方式来控制CPU的部分，然后使用Nvidia或者AMD的OpenCL的<a target="_blank" href="http://www.solidot.org/story?sid=26969">异构编程</a>API去实现其恶意软件业务的部分，目前使用AMD APPSDK的接口是可以兼容Intel的GPU，使用GPU的方式来写恶意代码有很多优势，比如能容易的绕过安全检测，可以通过DMA来窥探CPU的内存信息，xor等数学操作性能非常高，恶意软件的持久化容易实现以及灵活利用Stubs方法。自从<a target="_blank" href="http://arstechnica.com/security/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/">Equation Group的曝光</a>，在<a target="_blank" href="http://www.solidot.org/story?sid=28522">硬件异构的大背景</a>下未来针对<a target="_blank" href="http://www.solidot.org/story?sid=43085">硬件的攻击方法</a>的曝光率会增加。"</i>
+➜Microsoft Edge支持asm.js
+https://www.solidot.org/story?sid=43991	11500
+<div align="center"><img src="http://img.solidot.com.cn/0/259/liCDOfgBidWQI.jpg" align="" height="183" width="397"><br>
+<br>
+</div>
+微软<a target="_blank" href="https://blogs.windows.com/msedgedev/2015/05/07/bringing-asm-js-to-chakra-microsoft-edge/"><u>官方博客</u></a>称，在最新释出的Windows 10预览版build 10074中，Chakra JavaScript引擎和Microsoft Edge浏览器开始支持asm.js。asm.js是Mozilla开发的高性能JavaScript子集，在浏览器上实现接近原生的性能，除了Firefox支持外，Google Chrome的V8也为asm.js进行了优化。在Microsoft Edge中，用户可以在about:flags中找到启用asm.js的选项（如图所示）。
+➜4%的Google页面浏览被Superfish注入广告
+https://www.solidot.org/story?sid=43992	13224
+Google和伯克利等大学的研究人员联合发表了一篇<a target="_blank" href="https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43346.pdf"><u>研究报告</u></a>（PDF），分析了Web广告注入的规模。Google部署了一个客户端DOM扫描器去识别第三方广告软件的广告注入，它在2014年6月1日到9月30日之间收集了超过1亿页面浏览的数据，发现访问Google旗下网站的用户中有5.5%至少安装一个广告注入软件，其中最流行的是Superfish，占8成之多。联想电脑今年初因为预装了Superfish的软件而饱受批评，它为此发布了一个开源软件去移除Superfish。报告称，如果网站启用了HSTS，可以防止HTTP类型的广告注入。<br>
+➜Keurig因DRM收入下降
+https://www.solidot.org/story?sid=43993	14686
+Keurig咖啡机制造商试图从咖啡机酿出的每一杯K杯（K-Cup）咖啡中获取收入，它在去年上市的Keurig 2.0咖啡机中引入了DRM验证技术，只允许自家和授权的K杯咖啡。一年之后的财报反映了消费者的不满——DRM降低了Keurig 2.0的销量，它的股价在一天内<a target="_blank" href="http://money.cnn.com/2015/05/06/investing/keurig-green-mountain-earnings-stock-fall/"><u>重挫了10%</u></a>。公司CEO Brian Kelley坦白的说，“我们错了。”该公司表示计划再次提供可重复使用的K杯过滤器。
+➜NASA雷达利用心跳发现了4个被困在地震废墟中的人
+https://www.solidot.org/story?sid=43994	17766
+<div align="center"><img src="http://img.solidot.com.cn/0/260/lioNe9pVzHus.jpg" align="" height="229" width="450"><br>
+<br>
+</div>
+在尼泊尔大地震之后，救援人员获得了两部NASA JPL的便捷式雷达原型FINDER（Finding Individuals for Disaster and Emergency Response的缩写），它的强大之处是利用微波雷达技术能识别困在废墟中的人的微弱心跳和呼吸。在这次救援行动中，FINDER<a target="_blank" href="http://www.jpl.nasa.gov/news/news.php?feature=4574"><u>帮助发现了</u></a>4名被困在10英尺厚废墟下的男子。<br>
+➜Uber报价30亿美元竞购诺基亚地图业务
+https://www.solidot.org/story?sid=43995	24295
+《纽约时报》援引三名知情人士的消息<a target="_blank" href="http://www.nytimes.com/2015/05/08/business/uber-joins-the-bidding-for-here-nokias-digital-mapping-service.html?_r=1"><u>报道</u></a>，打车软件Uber正雄心勃勃的试图进入地图导航领域，它报价30亿美元竞购诺基亚地图业务HERE。诺基亚在收购阿尔卡特朗讯后表示考虑出售HERE。Uber正与宝马奥迪奔驰百度组成的财团展开竞争。除了这两家外，还有一家未披露名字的私募公司也参与了竞标。诺基亚预计将在5月底宣布竞标结果。Uber提供的打车服务需要使用地图，它目前主要依靠其它公司提供的地图如 Google Maps和苹果地图。
+➜微软称Windows 10是Windows的最后一个版本
+https://www.solidot.org/story?sid=43996	29422
+微软开发者大使 Jerry Nixon本周在 Ignite大会上说，Windows 10是Windows的<a target="_blank" href="http://www.theverge.com/2015/5/7/8568473/windows-10-last-version-of-windows"><u>最后一个版本</u></a>。这听起来像是微软准备杀死Windows，但它与微软公开谈论了多次的“Windows即服务”相一致。在可预见的未来，Windows不会释出版本号改变的大更新，而是在不改变版本号的情况下定期释出更新。微软发言人没有否定Nixon的言论，重申Windows将作为一个服务。Windows正在采用类似Google Chrome的定期更新策略——虽然Chrome的版本号在变化，但实际上没人对此在意。Windows 10可能是下一个Office 365。
+➜美国上诉法院裁决NSA电话监视项目违法
+https://www.solidot.org/story?sid=43997	30601
+美国第二巡回上诉法院的三名法官推翻了先前的裁决，<a target="_blank" href="https://cdn.arstechnica.net/wp-content/uploads/2015/05/nsaruling.pdf"><u>裁定</u></a>（PDF）NSA大规模电话元数据收集项目<a target="_blank" href="http://arstechnica.com/tech-policy/2015/05/phone-metadata-spying-not-authorized-by-patriot-act-appeals-court-says/"><u>超出了国会授权的范围</u></a>。布什当局和奥巴马当局都援引爱国者法案作为监视项目的法律依据。上诉法院指出，爱国者法案给予政府广泛的权力去收集美国人所有类型的私人记录，只要这些记录与一起调查相关。但收集进出美国的所有电话元数据的做法走的太远了。法庭回避了监视项目是否应该继续的问题，而是集中在监视是否获得了爱国者法案的授权上。法官没有发出立即停止监视的指令，因为国会正就这个问题展开辩论。
+➜古巴因美国的出口禁令只能使用非美国的分析软件去促进旅游业发展
+https://www.solidot.org/story?sid=43998	32413
+古巴也想利用大数据来促进旅游业发展，但美国的出口禁令<a target="_blank" href="http://www.informationweek.com/cuba-turns-to-analytics-big-data-to-help-tourism/a/d-id/1320312"><u>阻碍它获得相关分析软件</u></a>。每年有大约280万国际游客访问古巴，其中一半来自加拿大。随着古巴美国关系的好转，美国将是一个有巨大潜力的游客来源国。去年，古巴政府考虑使用分析软件处理游客在社交媒体上创造的数据，以快速识别国有酒店和旅游设施的问题。但由于美国的技术出口禁令，哈瓦那只能去其它地方寻找分析软件，它找到了一家西班牙的小公司SocialVane。<br>
+➜用忆阻器构建神经网络芯片
+https://www.solidot.org/story?sid=43999	36042
+忆阻器是一类电路，电流的当前电阻是电流先前流过时的产物。越多电流流过，未来通过时就越容易。即使没有电流，电阻仍然会存在。忆阻器的这一行为与神经元的突触有着惊人的相似性：突触是神经元细胞建立连接的位置，越多信号经过这些连接，神经元之间的链路就越强。Stony Brook 大学和加州圣巴巴拉大学的研究人员在《自然》上发表了一篇<a target="_blank" href="http://www.nature.com/nature/journal/v521/n7550/full/nature14441.html"><u>论文</u></a>，介绍了他们用忆阻器构建的<a target="_blank" href="http://arstechnica.com/science/2015/05/neural-network-chip-built-using-memristors/"><u>神经网络芯片</u></a>，训练神经网络去识别字母V、N和Z。研究人员创造的神经网络由12x12的忆阻器网格构成，容量有限，如果设计能放大，那么将可能影响未来的计算。
+➜Android将允许用户控制应用访问信息
+https://www.solidot.org/story?sid=44001	39140
+彭博社援引知情人士的消息<a target="_blank" href="http://www.bloomberg.com/news/articles/2015-05-07/google-said-ready-to-give-android-users-more-privacy-controls"><u>报道</u></a>，Google计划让Android用户对于应用能访问的信息拥有更大的控制权。新的隐私保护功能听起来与CyanogenMod在2013年推出的<a target="_blank" href="http://www.solidot.org/story?sid=35205"><u>匿名模式</u></a>很相似。这位匿名消息人士透露，新的Android设置将允许用户选择应用能访问哪些信息，如照片、联系人或位置。而CyanogenMod的匿名模式则允许用户限制应用访问私人数据，返回空的联系人列表、日历、浏览历史和信息，以及禁用GPS。
+➜Google不推荐Gmail用户使用端对端加密
+https://www.solidot.org/story?sid=44002	41773
+据德国IT媒体Heise<a target="_blank" href="http://www.heise.de/newsticker/meldung/re-publica-15-Google-wirbt-fuer-Sicherheit-2636034.html"><u>报道</u></a>（德语），在柏林举行的Re:publica 15会议上，Google安全经理Eric Grosse说，使用端对端加密将使得用户无法受益于有用的Gmail工具如翻译，而Google正在开发的OpenPGP插件在发布之前还有很多工作要做。雅虎已在Google工作的基础上<a target="_blank" href="http://www.solidot.org/story?sid=43325"><u>开源了</u></a>它的端对端加密插件，并宣布将在年底提供给所有Yahoo Mail用户。Grosse否认广告对于Google的决定起着重要作用，称来自Gmail的广告收入非常低。Grosse说，对用户最大的威胁是社会工程，指出二步认证有助于抵御此类攻击。
+➜利用CPU执行时间变化生成随机数
+https://www.solidot.org/story?sid=44003	43709
+在现代处理器上，有很多因素会影响执行相同指令集所需的时间。如果有人能多次精确的测量执行时间，会看到时间的变化或称之为抖动（jitter）。一个不能直接访问CPU硬件的攻击者不可能预测这一抖动，因此它能成为随机数生成器<a target="_blank" href="http://lwn.net/Articles/642166/"><u>所需的熵的一个优质来源</u></a>。内核开发者Stephan Müller发表了一篇技术论文描述了<a target="_blank" href="http://www.chronox.de/jent/doc/CPU-Jitter-NPTRNG.html"><u>基于CPU执行时间抖动的真随机数生成器</u></a>，他同时也释出了实现算法的<a target="_blank" href="http://article.gmane.org/gmane.linux.kernel/1939259"><u>补丁集</u></a>。
+➜技术让用户容易分心？
+https://www.solidot.org/story?sid=44004	46034
+如何专注是几乎每一个人都需要处理的问题，但全神贯注变得日益困难。<a target="_blank" href="http://www.bbc.com/news/business-32628753"><u>这一切应该怪罪于技术</u></a>。加州大学的Gloria Mark教授说，电子邮件、社交媒体、通知以及无数的数字干扰侵蚀了我们专注于个人任务的能力。他说，2004年美国信息工作人员平均每3分钟改变注意力，2012年降至1分15秒，2014年降至59.5秒。

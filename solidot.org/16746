@@ -1,0 +1,19 @@
+➜TPP条款要求越南满足国际劳工权益标准
+https://www.solidot.org/story?sid=46081	11111
+<a href="/~mtjs">mtjs</a> 写道 "美国政府在本周四早公布了TPP条款，我在新西兰的<a href="http://www.mfat.govt.nz/Treaties-and-International-Law/01-Treaties-for-which-NZ-is-Depositary/0-Trans-Pacific-Partnership-Text.php" target="_blank">外交部网站下到了全文</a>（共30个章节），据<a href="http://www.nytimes.com/2015/11/06/business/international/trans-pacific-trade-deal-tpp-vietnam-labor-rights.html?_r=0" target="_blank">纽约时报当日报道</a>，因为越南已经与其它11个国家共同达成协议，认可了TPP条款全文要求，作为条文的一部分，它将执行国际劳工权益标准，也即允许越南劳工自由组织公会和罢工，这引起了我的兴趣，我在TPP条款的第19章劳工条款找到了对应的劳工权益要求：<i>
+<p>①；自由组织工会和集体议价权；</p>
+<p>②：消除所有形式的强制劳动行为；</p>
+<p>③：有效废除童工；</p>
+<p>④：消除雇用和职业歧视；</p>
+<p>⑤：提供最低工资标准，工作时间限制和职业劳保；</p>
+</i>
+<p><i>如果越南国会同意了TPP条款（极大可能通过），越南将修改本国法律与TPP条款不符合的地方，允许工人成立不受政府支配的工会，他们将有权因为工资、工作时长及工作条件和其它问题举行罢工。越南政府已经做出了修改法律的承诺，以换取加入TPP获得的巨大利益。奥巴马表态：“亚洲是世界上增长最快的地区之一，那里的规则正等待确立。如果我们不通过这个协定——如果美国不制定这些规则——那么像中国这样的国家就会去制定，”奥巴马说。“这只会对美国的就业机会和工人构成威胁，破坏美国全球领导地位。”"</p></i>
+➜XcodeGhost扩散到了第三方框架
+https://www.solidot.org/story?sid=46082	30229
+美国移动应用开发商<a href="https://possiblemobile.com/" target="new">Possible Mobile</a>最近遇到了一个问题，他们递交的新版应用遭到了苹果的拒绝，理由是XcodeGhost。这家公司大惑不解，因为他们遵循了严格的安全准则，使用的官方下载的Xcode编译器，启用了GateKeeper。在多次试错之后，他们终于发现XcodeGhost<a target="_blank" href="https://possiblemobile.com/2015/11/a-lesson-in-xcode-ghost-third-party-frameworks/"><u>隐藏在第三方框架中</u></a>。第三方框架是应用功能的一部分，他们发现第三方框架的一个二进制文件会尝试连接已经下线的XcodeGhost指令控制服务器http://init.icloud-analysis.com。他们联系了第三方框架供应商，要求对方用非修改版Xcode重新编译。该公司没有披露第三方框架开发商的名字，但此事显示XcodeGhost在短时间内不会销声匿迹，更何况恶意开发者还释出了支持iOS9的新版。<br>
+➜中国Android用户行为和应用分析
+https://www.solidot.org/story?sid=46083	50490
+北大、伊利诺伊香槟分校、普渡和豌豆荚实验室的研究人员上周在ACM IMC 2015会议上发表了一篇论文《<a target="_blank" href="http://taoxie.cs.illinois.edu/publications/imc15-app.pdf"><u>Characterizing Smartphone Usage Patterns from Millions of Android Users</u></a>》（PDF），根据Android第三方应用商店豌豆荚的数据分析了用户应用管理行为和应用网络活动。论文称，豌豆荚到2015年有2.5亿用户，商店里的所有应用都是免费的，但部分应用含有应用内购买。研究人员使用的数据是在2013年8月4日到9月2日之间收集的，数据集规模1.2TB，涉及到26万应用和811万设备，为保护用户隐私，由豌豆荚雇员匿名化了用户身份。研究人员观察到：少数应用占到绝大部分的下载量，80%的应用只在不到10台设备上安装、更新和卸载；有一款应用只在4台设备上使用过，但却有973次下载，其中一台是开发者的测试设备，开发者可能为了提高排名而故意多次下载；有许多应用启动过一次后，用户就没有再使用，但也没有卸载，所以没有产生网络流量；用户下载应用的时间从上午6点开始增加，到11点达到第一个峰值，之后有伏有起，32%下载更新活动发生在下午7点到11点之间，峰值是晚上9点，午夜的下载更新占了7%，暗示很多人在午夜还没有睡觉还很活跃；用户安装了360安全后通常还会安装360应用商店，安装了微信后通常还会安装QQ，这种协同安装模式的一个可能原因是应用内捆绑安装；40%的被抛弃应用只生存不到一天就被卸载了，93%的被抛弃应用只生存不到一周；超过60%的流量是通过WIFI，一些应用在启动之后会在后台消耗网络流量，而其功能与网络根本没有关系，比如闹钟应用at.samsung.powersleep每天消耗了13MB的移动流量和156MB的WIFI流量，手电筒应用com.chenlei.flashlightfree每天消耗7MB的移动流量和5MB的WIFI流量，可能的解释是应用内捆绑的广告库。
+➜László Babai据报在图同构问题上取得突破
+https://www.solidot.org/story?sid=46084	55868
+判定两个有限图是否同构的<a target="_blank" href="https://en.wikipedia.org/wiki/Graph_isomorphism_problem"><u>问题</u></a>在计算复杂度上被认为在P和NP之间，不知道它是否能在多项式时间内解决还是一个NP完全（或简称NPC）。芝加哥大学的匈牙利籍数学和计算机科学教授<a target="_blank" href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Babai"><u>László Babai</u></a>将在11月10日<a target="_blank" href="http://www.math.uchicago.edu/calendar?calendar=Combinatorics%20and%20Theoretical%20Computer%20Science"><u>发表演讲</u></a>，谈论一个算法能在拟多项式时间内解决图同构问题。László Babai曾先后获得过哥德尔奖和高德纳奖，他发表过180多篇论文。他的最新算法使得图同构问题的计算复杂度<a target="_blank" href="http://www.scottaaronson.com/blog/?p=2521"><u>略高于P</u></a>。他的结论是基于<a target="_blank" href="https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups"><u>有限单群分类</u></a>。

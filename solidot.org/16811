@@ -1,0 +1,42 @@
+➜朝鲜真的引爆了一颗氢弹？
+https://www.solidot.org/story?sid=46829	14809
+1月6日上午，朝鲜进行了第四次核试验，朝鲜的宣传机构声称这次引爆的是氢弹。氢弹的威力要比原子弹大得多，但爆炸产生的地震数据显示，这次核试验引爆的<a target="_blank" href="http://www.forbes.com/sites/startswithabang/2016/01/09/ask-ethan-how-can-we-know-if-north-korea-is-testing-nuclear-bombs/">仍然是原子弹</a>。这次核试验被认为不是针对韩国或美国，<a target="_blank" href="http://www.vox.com/2016/1/7/10729936/north-korea-nuclear-china-moranbong"><u>而是中国</u></a>。在此之前，中朝的关系明显恶化，最明显的迹象是朝鲜牡丹峰乐团12月的访华演出突然取消：12月10日朝鲜宣布它拥有了氢弹，中国强烈不满，决定不派高级领导人出席具有外交意义的牡丹峰乐团演出，12月12日，朝鲜取消演出，乐团成员回国。
+➜与尼安德特人的杂交增强了我们的免疫系统
+https://www.solidot.org/story?sid=46830	15713
+尼安德特人4万年前在欧洲灭绝，灭绝前他们与现代人类有过长期的接触，现代人类混入了尼安德特人的基因，<a target="_blank" href="http://www.eurekalert.org/pub_releases/2016-01/cp-ngg123015.php"><u>这种跨种杂交</u></a>有助于<a target="_blank" href="http://dx.doi.org/10.1016/j.ajhg.2015.11.015">增强人类的免疫系统</a>，也带来了<a target="_blank" href="http://dx.doi.org/10.1016/j.ajhg.2015.11.014">过敏症</a>。法国巴斯德研究所和德国马普研究所的两份独立研究表明，现代人类的免疫基因有一部分是遗传自尼安德特人，过敏症也可有能是源自石器时代。当现代人类迁移到欧洲以及西亚地区时，尼安德特人已经在那里生活了20万年，很好地适应了当地的气候、食物资源以及病原体。<a target="_blank" href="http://www.dw.com/zh/%E6%88%91%E4%BB%AC%E8%BA%AB%E4%B8%8A%E7%9A%84%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA%E5%9F%BA%E5%9B%A0/a-18967733"><u>在混血的过程当中</u></a>，现代人从尼安德特人那里获得了这三个适应优势。 平均每个现代欧洲人的身上有2%的尼安德特人基因，而在某些地区这一免疫基因的遗传比率明显更高。研究人员对"千人基因组计划"的数据进行了分析，完整破解了2500个来自欧洲、亚洲、非洲以及美洲的基因。
+➜回顾2015年英特尔的CPU bug
+https://www.solidot.org/story?sid=46831	18825
+2015年，英特尔继续统治着桌面和服务器CPU市场，它收购了一家大型 FPGA供应商，准备统治高端 FPGA市场。但在工程/bug方面，<a target="_blank" href="http://danluu.com/cpu-bugs/"><u>芯片巨人就不尽人意了</u></a>。它的CPU被报告了至少两个严重bug：第一个是Google工程师发现的，该bug允许任何 guest VM出错导致CPU挂起， DoS其主机，对云服务供应商来说幸运的是，Google工程师愿意与他们分享bug相关信息；另一个bug影响第六代Core处理器，在特定复杂工作负荷环境下触发，比如运行基准测试软件<a href="http://www.mersenne.org/download/">prime95</a>，在这些情况下CPU可能会挂起或导致无法预料的系统行为，比如整个系统<a target="_blank" href="http://mersenneforum.org/showthread.php?t=20714"><u>被锁起来</u></a>。
+➜CCTV对发表过不敬言论的香港演员打马赛克
+https://www.solidot.org/story?sid=46832	19891
+香港演员<a target="_blank" href="https://zh.wikipedia.org/zh/%E7%8E%8B%E5%96%9C"><u>王喜</u></a>参与了央视《<a target="_blank" href="http://cctv1.cntv.cn/special/lbqdtiaozhan/shouye/"><u>了不起的挑战</u></a>》一期节目的录制，但由于被爆出了其在社交网站上发表了亵渎大陆领导人的言论，结果CCTV在播出他参与的这一期节目视频时，王喜的部分要么删减，不能删减的地方全程马赛克处理。官方媒体的报道称<a target="_blank" href="http://ent.sina.com.cn/z/v/2016-01-10/doc-ifxnkvtn9727084.shtml"><u>部分网友称赞了这一做法</u></a>。所谓的<a target="_blank" href="http://news.mingpao.com/ins/instantnews/web_tc/article/20160111/s00004/1452478327572"><u>亵渎</u></a>是王喜转载了已故前总理是同性恋的新闻。
+➜Linux Kernel 4.4 LTS发布
+https://www.solidot.org/story?sid=46833	28465
+Linus Torvalds在邮件列表上<a target="_blank" href="http://lkml.iu.edu/hypermail/linux/kernel/1601.1/01592.html"><u>宣布发布</u></a>Linux Kernel 4.4。4.4是一个长期支持版（LTS）。主要新特性包括：引入了新的系统调用<a target="_blank" href="http://lwn.net/Articles/650538/"><u> mlock2()</u></a>，支持延迟锁定内存页；块层I/O借鉴了一个网络堆栈技术——<a target="_blank" href="http://lwn.net/Articles/663879/"><u>I/O轮询</u></a>；用于固态硬盘设备底层控制的LightNVM；虚拟机GPU驱动支持使用主机的GPU加速3D渲染；TCP监听程序处理完全无锁，在测试中一台TCP服务器处理每秒350万个SYN包，仍然能有CPU周期可用，等等。详细可浏览<a target="_blank" href="http://kernelnewbies.org/Linux_4.4">kernelnewbies.org</a>。
+➜.CN域名是注册量最大的地区顶级域名
+https://www.solidot.org/story?sid=46834	28817
+网信办下属机构中国互联网络信息中心<a target="_blank" href="http://www.cnnic.net.cn/gywm/xwzx/rdxw/201601/t20160107_53188.htm"><u>称</u></a>，中国国家顶级域名“.CN”注册保有量达到1636万，超过德国国家顶级域名“.DE”,成为全球注册保有量第一的国家和地区顶级域名（ccTLD）。注册量最大的顶级域名<a target="_blank" href="https://www.verisign.com/en_US/channel-resources/domain-registry-products/zone-file/index.xhtml"><u>仍然是.COM</u></a>：截至1月10日，注册的.COM域名数有1.24亿，,NET域名1580万。
+➜Cyanogen OS向用户展示微软广告
+https://www.solidot.org/story?sid=46835	32094
+Cyanogen公司的商业操作系统Cyanogen OS最近释出了新版12.11，深度整合了微软的数字助手Cortana。但除了Cortana，用户现在还发现该公司<a target="_blank" href="http://www.xda-developers.com/xda-external-link/cyanogen-os-is-now-pushing-microsoft-ads-to-the-open-with-menu/"><u>开始向用户推荐</u></a>微软的应用：选择一个没有默认应用的文件，系统向用户建议了微软的应用和服务。此举被用户批评走的太远。Cyanogen OS与社区发行版CyanogenMod不同，后者由社区开发，前者则由Cyanogen公司负责，该公司前不久与微软达成了合作协议，微软的应用和服务目前没有进入CyanogenMod，但不知道是否永远不会进入。
+➜分析确认协同黑客攻击导致乌克兰断电
+https://www.solidot.org/story?sid=46836	33202
+最新分析确认，协调的黑客攻击导致了乌克兰部分地区在圣诞节期间断电。工控系统团队SANS成员在<a target="_blank" href="https://ics.sans.org/blog/2016/01/09/confirmation-of-a-coordinated-attack-on-the-ukrainian-power-grid"><u>报告</u></a>中称，攻击者首先利用恶意程序BlackEnergy在电力公司的系统中获得一个立足点，然后访问开放断电器切断电力，同时利用KillDisk阻挠恢复电力的努力，发动拒绝服务攻击防止电力公司的职员收到客户的断电报告。研究人员认为这是一次有预谋的协调攻击，但没有证据显示 BlackEnergy或KillDisk组件是导致断电的直接原因。研究人员认为，攻击者是利用恶意程序在目标设施中获得一个立足点，然后了解目标设施的必要信息。
+➜Google Maps以违反服务条款为由要求Routebuilder关闭
+https://www.solidot.org/story?sid=46837	35548
+Andrew Martin在2006年使用Google Map API开发了一个创建定制地图路线以及与朋友分享路线的工具<a target="_blank" href="http://routebuilder.org/">Routebuilder</a>。过去十年，它积累了一小批用户。十年后的2016年1月6日，Google Maps团队<a target="_blank" href="https://medium.com/@andrewcmartin/google-maps-is-forcing-routebuilder-to-shutdown-615ce42f413a#.2ocwopknb"><u>向其寄去警告信</u></a>，以违反服务条款为由要求关闭Routebuilder。Google的理由是它违反了条款10.4(c)，该条款禁止开发者创建封装程序——一种重新实现或复制Google Map网站或应用程序的应用。Google给出了14天时间让他做出回应，而Andrew Martin称他现在没有精力修改代码改用其它地图平台。
+➜加密大师的匿名网络原型内置后门以迎合政府
+https://www.solidot.org/story?sid=46838	37038
+已步入花甲之年的加密学大师<a target="_blank" href="https://en.wikipedia.org/wiki/David_Chaum">David Lee Chaum</a>是众多密码协议的发明人，也是数字货币的早期提出者。他的最新项目是匿名网络原型<a target="_blank" href="http://eprint.iacr.org/2016/008.pdf"><u>cMix</u></a>（PDF），设计从法律层面和技术层面修正现有匿名网络Tor的问题。cMix由Chaum与美国、英国和荷兰四所大学的密码专家联合开发，研究人员计划在新的密码协议基础上构建Tor的替代匿名网络<a target="_blank" href="http://www.chaum.com/projects/privategrity/privategrity.html"><u>PrivaTegrity</u></a>。Chaum称，cMix有着更好的安全性，能达到与Tor相同的传输速度，没有Tor网络节点的弱点。但为了让政府和监管者开心，cMix内置了后门。Chaum说，除了用于曝光暗网的罪犯，<a target="_blank" href="http://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/"><u>他不准备使用后门</u></a>。
+➜为什么生产力提升没有减少工作时间？
+https://www.solidot.org/story?sid=46839	40857
+英国经济学家凯恩斯（John Maynard Keynes）在《<a target="_blank" href="http://www.econ.yale.edu/smith/econ116a/keynes1.pdf"><u>我们后代的经济前景</u></a>》中预言，随着生产力的提升，100年后的人不需要工作多长时间就能维持相当高的生活水平。在凯恩斯预言的1930年代，工人每周的工作时间是47小时；到1970年代，美国人的工作时间降至略低于39小时。看起来凯恩斯的预言是正确的。但之后的将近50年里，工作时间基本维持不变。究竟发生了什么，<a target="_blank" href="http://www.theatlantic.com/business/archive/2016/01/inequality-work-hours/422775/"><u>让我们每周仍然要工作近40个小时</u></a>？凯恩斯预言，社会经济的生产力提升，将使得未来人们的生活水平达到他当时水平的4到8倍。哈佛经济学家Benjamin M. Friedman说，这一预言是正确的，到2029年美国的生活水平将达到100年前的8倍。他试图在一篇<a target="_blank" href="http://link.springer.com/article/10.1007/s00191-015-0426-4"><u>论文</u></a>中解释为什么生产力提升没有转变成休息时间的增加：<a target="_blank" href="http://news.slashdot.org/story/16/01/10/039201/why-do-americans-work-so-much"><u>财富分配不平等</u></a>。
+➜计划外生育的罚款将继续征收
+https://www.solidot.org/story?sid=46840	41392
+中国国家卫生计生委负责人周一在国务院新闻办举行的新闻发布会上<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2016/01/160111_china_second_child"><u>强调</u></a>，尽管中国全面放开二孩生育，但没有取消对超生家庭征收社会抚养费（即超生罚款）的政策。社会抚养费作为政策外生育的一项限制措施仍将继续坚持。卫计委计划生育基层指导司司长杨文庄称，对于今年1月1日前违法生育第二个子女的家庭，已经处理完成的将维持处理决定，不能“翻烧饼”。他同时透露，对于尚未处理的超生家庭，将由地方人大和政府制定具体办法进行处理。计生委副主任王培安<a target="_blank" href="http://cn.reuters.com/article/cn-birth-control-idCNKCS0UP0SX20160111"><u>表示</u></a>，中国将长期坚持计划生育基本国策，中国仍处于劳动年龄人口充裕、社会抚养负担较轻的人口红利期。
+➜杀毒软件让你的公司变得更脆弱
+https://www.solidot.org/story?sid=46841	43627
+自去年6月以来，研究人员报告了一系列杀毒软件的高危漏洞，其中包括卡巴斯基、ESET NOD32、Avast、AVG Technologies、迈克菲（现在叫英特尔安全）和Malwarebyte。大部分高危漏洞允许攻击者远程执行恶意程序，利用杀毒软件的高权限入侵系统。对杀毒软件的攻击<a target="_blank" href="http://www.csoonline.com/article/3020459/antivirus-software-could-make-your-company-more-vulnerable.html">正逐渐变得切实可行</a>，一部分安全研究人员甚至认为此类的攻击已经存在，但因为影响面小而不为人知。去年被黑客曝光的意大利间谍软件开发商Hacking Team的<a target="_blank" href="https://wikileaks.org/hackingteam/emails/emailid/71862"><u>电子邮件</u></a>就描述了利用杀毒软件漏洞提权、暴露信息和发现可绕过的弱点。地下黑客市场也有NOD32的远程代码执行漏洞出售。
+➜未来五到十年的自由软件运动
+https://www.solidot.org/story?sid=46842	45521
+2015年，自由软件基金会（FSF）迎来了成立30周年。过去的30年，FSF有成功也有失败。对自由软件运动来说，今天最大的挑战不再是设备<a target="_blank" href="http://www.solidot.org/story?sid=45440"><u>是否能运行自由软件</u></a>，而是我们是否能真正控制设备，云服务和便捷智能设备流行，让用户失去了对数据的控制。自由软件基金会发起了一个<a target="_blank" href="http://www.fsf.org/news/whats-your-vision-for-the-fsf-fill-out-our-survey-1"><u>调查兼募捐活动</u></a>，调查自由软件社区用户认为未来五年应该将精力集中在哪个领域，是网络的自由，还是Copyleft、监视和隐私安全保护、以及DRM。它表示需要募捐45万美元用于未来的运作。

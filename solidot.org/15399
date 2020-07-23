@@ -1,0 +1,71 @@
+➜Mozilla宣布“透明”扩展Collusion
+https://www.solidot.org/story?sid=28482	4800
+Mozilla基金会宣布了Firefox的一个实验性扩展<a href="https://www.mozilla.org/en-US/collusion/">Collusion</a>，允许观察所有第三方对用户上网行为的跟踪，实时显示网站与其它跟踪者之间的交互。举例来说，如果你访问《科学》网站，它会向JS-Kit.com发送数据；而Mozilla也<a href="http://lwn.net/Articles/484276/">被发现</a>会向webtrendslive.com和google.com发送信息。已有用户向bugzilla递交了<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=731314">bug报告</a>。
+➜伊朗通讯社修改奥斯卡获奖导演的感言
+https://www.solidot.org/story?sid=28483	6480
+伊朗电影《<a href="http://www.imdb.com/title/tt1832382/">一次别离</a>》获得了奥斯卡最佳外语片奖，导演法尔哈迪（Asghar Farhadi）在获奖感言说，“在这样一个充满了战争威胁和政治挑衅的时代”，自己国家的名字能够因为其古老悠久的文化而被提及，这肯定令很多伊朗同胞感到非常欣慰。他表示，要把这个奖献给"在充满敌对和抗拒的情况下仍然尊重世界所有文化和文明"的伊朗人民。伊朗半官方法斯通讯社在报道中修改了感言，变成了"尽管伊朗和反对其核项目的西方国家之间存在各种紧张和敌对气氛，仍然尊重各国文化和文明"的伊朗人民”，在被伊朗网民曝光后，法斯通讯社<a href="http://www.dw.de/dw/article/0,,15774464,00.html">删除了它补充的内容</a>。
+➜Fedora 17 Alpha发布
+https://www.solidot.org/story?sid=28484	8640
+代号Beefy Miracle的Fedora 17发布了<a href="http://fedoraproject.org/get-prerelease">Alpha测试版</a>。<i>
+开发者在<a href="http://lwn.net/Articles/484170/#Comments">邮件列表</a>上说，“Beefy”的意思并不是开玩笑，他们将用最好的开源自由软件“热狗”喂饱用户饥饿的肚子。Fedora 17的新特性包括：支持单窗口模式的GIMP 2.8，改进语言和字体支持；系统工具如 Corosync 2.0、Pacemaker Cluster Resource Manager 1.1.7、JBoss Application Server (AS) 7；开发者工具如Java 7、Ruby 1.9.3和PHP 5.4，等等。
+</i>
+➜海盗湾不再提供种子文件
+https://www.solidot.org/story?sid=28485	9720
+海盗湾正式<a href="http://thepiratebay.se/blog/208">宣布</a>，从此不再提供种子文件，全部以磁链代替。<i>
+磁力链接是通过预计算的Hash值从其他P2P用户寻找种子文件，想下载某一文件的用户能以一种去中心化的方法发出请求，取代过去那种从中心化种子文件服务器下载的旧方式。目前大部分BitTorrent客户端都支持磁链，磁链的一个缺陷是下载启动较慢，因此<a href="http://arstechnica.com/web/news/2012/02/what-torrent-pirate-bay-officially-makes-magnet-links-the.ars">不受所有用户欢迎</a>。
+</i>
+➜服用安眠药的人死亡率更高
+https://www.solidot.org/story?sid=28486	12000
+《英国医学杂志》刊登的一篇<a href="http://bmjopen.bmj.com/content/2/1/e000850.full">研究报告</a>(全文)称，服用处方安眠药和死亡率之间<a href="http://science.slashdot.org/story/12/02/28/168244/those-sleeping-pills-may-be-killing-you">存在强相关性</a>。<i>
+研究人员从美国盖辛格健康系统记录的250万人的记录中挑选出1.2万名研究对象，他们的平均年龄为54岁，其中10 529人服用处方安眠药，23 676人为控制组。他们发现服用安眠药的人的死亡率相当高，并随着年龄的增长而增加。</i>
+➜IBM声称量子计算研究取得突破
+https://www.solidot.org/story?sid=28487	19800
+IBM研究院的科学家<a href="http://ibmquantumcomputing.tumblr.com/">宣布</a>量子计算研究取得<a href="http://hardware.slashdot.org/story/12/02/28/1327236/ibm-touts-quantum-computing-breakthrough">新突破</a>，允许在保持量子比特量子属性完整性的同时减少基本计算中的数据错误率，这项突破可以让工程师开始动手制造真正的量子计算机。<i>
+<a href="http://www.economist.com/node/21548151">量子计算机的核心</a>是量子叠加原理和量子纠缠原理。普通计算机以比特形式处理信息，比特的值只能是1或0，代表电流的不同电压，电流是电子电荷移动的结果，每个电子都有相同量的电荷。但电子除了固定的电荷属性外，还有不固定的自旋属性，可以是“上”、“下”或一种模糊态，不精确的定义是上下的组合。此类的组合便是量子叠加，可用于构造类似比特的量子比特（qubit）。量子纠缠可以让电子结合起来增加更多的量子比特。量子机器每增加一个量子比特，它能同时操作的数量就能翻一番，300个量子比特能同时执行的操作数比可见宇宙中的原子数都多。IBM的Mark Ketchen举例说，2个量子比特可以同时组合成00，01，10和11；3个量子比特可组合成8个（000，001，111等）。
+</i>
+➜长生不老的蠕虫如何抗拒老化
+https://www.solidot.org/story?sid=28488	21900
+细胞的老化与端粒长度有关，每次细胞分裂端粒都会变短。当它们变得过短，细胞就会失去再生和分裂的能力。2009年诺贝尔生理学奖授予了在端粒酶研究上有突出贡献的科学家，他们发现端粒酶可以维持端粒长度。
+诺丁汉大学的研究人员在PNAS上发表<a href="http://www.pnas.org/content/early/2012/02/22/1118885109.abstract?sid=71100917-fdf1-4f4a-b56b-69a28775cd96">论文</a>(可浏览全文)，发现一种长生不老的蠕虫如何克服老化，在再生时大幅增加编码端粒酶的基因活性，维持细胞分裂后的端粒长度。研究为揭示减轻人体细胞的衰老以及与年龄有关的衰老<a href="http://chinese.eurekalert.org/zh/pub_releases/2012-02/uon-iwd022812.php">带来了希望</a>。
+➜国资委：世行报告涉嫌颠覆
+https://www.solidot.org/story?sid=28489	23760
+你常颠 写道<i> "中国媒体《<a href="http://finance.sina.com.cn/china/20120229/110811480230.shtml">21世纪网</a>》获悉，如果不是国资委反对，世行报告《<a href="http://finance.sina.com.cn/china/20120227/111211460730.shtml">中国2030年</a>》发布会规格会更高。世行的这份报告由中国财政部牵头，世界银行与国务院发展研究中心合作，经一年多的研究得以完成。但是在初步报告发给中国各部委会签时，唯国资委提出强烈抗议，认为报告中建议的降低国有经济比例违反宪法，涉嫌颠覆社会主义经济制度。报告最终根据国资委要求做了大幅删减。在28日发布会上，一位自称是“独立学者杜建国”的男子<a href="http://www.ytwhw.com/cn/2012/0229/dujianguo.html">搅闹会场</a>，呼喊“银行不能私有化，国企不能私有化，华尔街都是骗子，世行报告是毒药”等口号，被保安叉出会场。"</i>
+➜Google曾考虑发行货币
+https://www.solidot.org/story?sid=28490	24300
+在西班牙巴塞罗那世界移动通信大会的主题演讲中，Google董事长施密特（Eric Schmidt）<a href="http://www.itworld.com/networking/254124/google-once-considered-issuing-currency">透露</a>，该公司内部曾有过发行自己货币的讨论，称如果真发行的话会把它称作Google Bucks。Google Bucks将基于“P2P钱币”系统实现，但搜索巨人发现这一概念在世界绝大部分地区是非法的。由于法律问题Google最终放弃了进入货币发行领域。
+➜EA用NASA地球地形数据设计滑雪路线
+https://www.solidot.org/story?sid=28491	26700
+NASA和日本经济产业省在2009年<a href="http://www.nasa.gov/home/hqnews/2009/jun/HQ_09-150_ASTER_Topographic_Map.html">联合发布</a>了ASTER地球地形数据，他们肯定没有想到数据会帮助滑雪游戏设计关卡。EA Sports刚刚发布的《<a href="http://www.amazon.com/SSX-Xbox-360/dp/B003O6C9LK/ref=sr_1_1?ie=UTF8&amp;qid=1330502732&amp;sr=8-1">SSX极限滑雪</a>》便是利用这些公有数据<a href="http://arstechnica.com/gaming/news/2012/02/how-nasa-topography-data-brought-a-dose-of-reality-to-ssxs-snowboarding-courses.ars">设计出高山滑雪路线</a>。EA Sports的制作人和创意总监Todd Batty回忆说，他们发现ASTER的数据可以让他们轻而易举的创建山地滑雪路线，但由于分辨率太低，他们需要加入大量数据中没有的树木和岩石等细节，为了增加趣味性还必须添加现实中没有的跳跃和滑板路线。
+➜25名匿名黑客被捕，匿名组织攻击国际刑警组织网站
+https://www.solidot.org/story?sid=28492	28800
+<a href="http://www.interpol.int/">国际刑警组织</a>周二宣布，阿根廷、智利、哥伦比亚和西班牙警方逮捕25名被指控为匿名组织成员的嫌疑人。声明发表不久后国际刑警组织网站就<a href="http://arstechnica.com/tech-policy/news/2012/02/25-alleged-anonymous-members-nabbed-in-international-arrests-hacker-group-retaliates.ars">遭到DDoS攻击</a>，一度下线，目前已恢复访问。匿名黑客被指攻击了哥伦比亚国防部和总统网站，智利电力公司和国家图书馆等网站，警方在行动中缴获了250件计算机和手机等电子设备。国际刑警组织的Bernd Rossbach说，虚拟世界的犯罪会带来真正的后果，互联网不是犯罪活动的安全港。
+➜基于浏览器的电路图编辑模拟器
+https://www.solidot.org/story?sid=28493	30000
+<a href="https://www.circuitlab.com/">CircuitLab</a>刚刚<a href="http://news.slashdot.org/story/12/02/28/2138200/schematics-and-circuit-simulation-in-the-browser">发布</a>了一个基于浏览器的<a href="https://www.circuitlab.com/editor/">电路设计图编辑器和电路模拟器</a>。编辑器不需要安装插件，完全基于Web，支持Windows/Mac/Linux。和大多数Web软件一样采用拖曳式操作，可以通过URL与社区分享设计的电路图，在线电子爱好者可以打开、编辑、修改和模拟运行分享的电路图，以及发布新的设计版本。
+➜PayPal要求电子书出版商审查色情内容
+https://www.solidot.org/story?sid=28494	32400
+在线电子支付巨头PayPal通知独立电子书出版商，它修改了与人兽交、强奸和乱伦等色情内容相关的服务条款和政策，要求AllRomance、Smashwords、Excessica和Bookstrand等电子书出版商<a href="http://www.zdnet.com/blog/violetblue/paypal-strong-arms-indie-ebook-publishers-over-erotic-content/1097">删除违反规定的电子书</a>，否则将会关闭帐号。它在18日给Smashwords发去了<a href="http://www.the-digital-reader.com/2012/02/25/smashwords-succumbs-to-censorship/">最后通牒</a>，迫使Smashwords作出决定，通知<a href="http://www.the-digital-reader.com/2012/02/25/smashwords-succumbs-to-censorship/">所有作者</a>它将被迫遵守PayPal的色情内容规定。Bookstrand清空了大部分电子书，AllRomance停止出版侧重于色情的电子书。据称PayPal作出如此决定的一个原因是色情买家<a href="http://yro.slashdot.org/story/12/02/28/2110230/paypal-forces-e-book-publisher-to-censor-erotic-content">有较高的退款率</a>——可能是色情内容不如意，重复率过高，或者其它原因。
+➜气候科学家捏造气候怀疑论者的内部备忘录
+https://www.solidot.org/story?sid=28495	34920
+气候斗士<a href="http://www.time.com/time/health/article/0,8599,2107747,00.html?xid=gonewsedit">押上其名誉</a>，孤注一掷反击人为气候变暖怀疑论者，整件事<a href="http://my.opera.com/dahema/blog/show.dml/41486332">令人难以置信</a>。<i>
+过去一个月气候变化社区最热闹的事是一系列据称来自Heartland Institute的内部备忘录泄漏，Heartland Institute被认为支持人为气候变暖怀疑论者，备忘录讨论了匿名企业捐款以及如何打击全球变暖拥护者。结果<a href="http://wattsupwiththat.com/2012/02/23/peter-gleick-debate-invitation-email-thread/">上周</a>传出消息备忘录是知名气候专家Peter Gleick<a href="http://en.wikipedia.org/wiki/Peter_Gleick#Heartland_Institute_incident">捏造的</a>，他承认这一行为是“自己专业判断和道德的严重过失”，随后辞去美国地球物理联盟科学道德工作组主席一职。
+</i>
+➜母带工程师称苹果Mastered For iTunes音质并不好于AAC编码音乐
+https://www.solidot.org/story?sid=28496	37200
+英国母带工程师Ian Shepherd<a href="http://www.cepro.com/article/apples_mastered_for_itunes_is_it_legit/">测试了苹果Mastered for iTunes服务</a>——苹果宣传其中的音乐音质接近CD——但Shepher指出这项服务纯粹是营销噱头，与iTunes中的标准AAC文件并无差别。他认为，苹果或其它公司应该真正加强音乐音质，提供CD质量的音乐下载。
+➜瑜珈起源于性崇拜
+https://www.solidot.org/story?sid=28497	38880
+瑜珈练习常常与性丑闻为伴。《纽约时报》的一篇文章解释说，原因是<a href="http://www.nytimes.com/2012/02/28/health/nutrition/yoga-fans-sexual-flames-and-predictably-plenty-of-scandal.html">瑜珈本来就是起源于性崇拜</a>。<i>
+瑜伽教师和实用手册很少提及瑜珈术的性起源。现代最流行的练习法哈达瑜伽（Hatha yoga），最早是密宗的一个分支。在中世纪印度，密宗寻求让男女融合到一个极为欢喜的意识状态下。密宗仪式鼓励信徒崇拜女性器官，享受剧烈的性爱。很快密宗就有了性放荡的坏名声。现代瑜伽的创始人试图消除密宗的色彩，淡化色情，强调健身。如《Light on Yoga》一书宣称瑜伽能治疗上百种疾病，根本没提到密宗。但数十年来，练习者通过个人经验发现瑜伽确实能刺激性高潮，骨盆区域更敏感，高潮更激烈。
+</i>
+➜Raspberry Pi 35美元电脑供不应求
+https://www.solidot.org/story?sid=28498	41520
+Raspberry Pi基金会在周二晚上<a href="http://www.raspberrypi.org/#howtobuy">发布</a>35美元Linux电脑，结果它的两大在线零售合作伙伴无法处理纷涌而来的巨大流量，网站服务器因DDOS的效应而瘫痪，直到一天后才恢复正常访问，Raspberry Pi基金会在Twitter上为此事<a href="http://arstechnica.com/gadgets/news/2012/02/raspberry-pi-retailers-toppled-by-demand-as-35-linux-computer-launches.ars">向客户道歉</a>。Raspberry Pi 基金会的目标是向学生提供能学习编程的廉价电脑，35美元电脑配备了700MHz ARM11 CPU ，256MB内存，以及可解码高清视频的GPU。昨天刚刚发布不到一小时，零售商 <a href="http://www.element14.com/raspberrypi" title="Link to Farnell/Element 14 Shop">Premier Farnell</a>和<a href="http://rswww.com/" title="Link to RS Components Shop">RS Components</a>的网站就因为巨大的流量而下线。
+➜Red Hat如何成为第一家收入超10亿美元的开源公司
+https://www.solidot.org/story?sid=28499	52800
+截至2月29日的2011财年，Red Hat将成为第一家收入超过10亿美元的开源公司。Ars Technica的一篇特稿<a href="http://arstechnica.com/business/news/2012/02/how-red-hat-killed-its-core-productand-became-a-billion-dollar-business.ars">回顾了Red Hat的历史和它如何改变商业模式</a>。<i>
+Bob Young和Marc Ewing在1993年创建了Red Hat，1999年上市，当年Ewing就离开了，Young则是在2005年完全退出公司。2001年，Paul Cormier作为工程副总裁加盟Red Hat，他推动了公司商业模式的改革。当时Red Hat的工程师很少关心商业模式，但Cormier主张应该放弃免费下载的Red Hat Linux，全力进军企业级软件市场，维护free as in freedom的自由软件原则，但对消费者而言不再免费。现任CEO Jim Whitehurst说，如果公司只从事技术支持，永远不可能成长为大公司。Cormier最终说服了公司管理层，2003年发布了Red Hat Linux的最后一个稳定版本，企业版Red Hat Enterprise Linux正式现身。在这过程中，一些工程师离开，但更多人留了下来。Linux kernel维护者Greg Kroah-Hartman曾质疑Red Hat是一家完全开源的公司，因为它出售私有软件。确实Red Hat收购了一些私有技术，但这些软件最终都会开源。公司发言人说，Red Hat唯一不是完全开源的软件是OpenShift 平台即服务软件。
+</i>
+➜Windows 8 Consumer Preview发布
+https://www.solidot.org/story?sid=28500	53640
+微软在2012年移动世界大会上正式宣布发布<a href="http://windows.microsoft.com/en-US/windows-8/iso">Windows 8 Consumer Preview</a> (中文简体<a href="http://iso.esd.microsoft.com/WCPDL/BD1B8A49393E30CC9C4E5C88457D73E964F1F3B18/Windows8-ConsumerPreview-64bit-ChineseSimplified.iso">64位</a>/<a href="http://iso.esd.microsoft.com/WCPDL/BD1B8A49393E30CC9C4E5C88457D73E964F1F3B18/Windows8-ConsumerPreview-32bit-ChineseSimplified.iso">32位</a>，安装密钥：DNJXJ-7XBW8-2378T-X22TX-BKG7J)，同时发布了<a href="http://technet.microsoft.com/en-us/evalcenter/hh670538.aspx">Windows Server 8 beta</a>，<a href="http://msdn.microsoft.com/en-us/windows/apps/br229516">Visual Studio 11 Express beta</a>，MSDN订户可下载功能完整的版本。在微软声称的10万项更新中，64位版本的IE10引入了名叫<a href="http://www.itworld.com/software/254290/ie-10-mobro-tidbits-leak-ahead-windows-8-cp-launch">Enhanced Protected Mode</a>的安全功能，

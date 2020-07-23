@@ -1,0 +1,12 @@
+➜校长在学校挖以太坊被免职
+https://www.solidot.org/story?sid=58539	37594
+<a href="https://www.thepaper.cn/newsDetail_forward_2611106" target="_blank"><u>官媒</u></a>和外媒如 <a href="https://www.bbc.co.uk/news/technology-46150107" target="_blank"><u>BBC</u></a> 报道了湖南郴州嘉禾县普满中学正副校长用学校电教室挖以太坊而被免去职务的消息。校长雷华是在 2017 年 6 月以太坊热度还没有到达峰值开始购买矿机挖以太坊，当时以太坊的币值在 160 美元到 200 美元左右，当他发现矿机耗电太大之后就将其带到学校宿舍，他又陆续购买了 7 台，宿舍太小所以就全部放到了电教室。副校长知道之后也购买一台矿机放在电教室挖以太坊。这一挖矿作业曝光是因为矿机噪声太大耗电太多。据官媒报道，从2017 年 7 月至 2018 年 7 月期间，雷华利用学校电力进行以太币“挖矿”，共产生电费 14714 元，全部在学校报账。以太坊的币值在今年 1 月超过 1300 美元，如果他挖之后就出售，那么他应该能从挖矿中获得一笔相当不错的收入。目前以太坊币值在<a href="https://finance.yahoo.com/chart/ETH-USD" target="_blank"><u> 200 美元</u></a>左右。上个月雷华受到党内严重警告处分，被免去党支部书记、校长职务。
+➜美国法官命令亚马逊提供谋杀案相关的 Echo 录音
+https://www.solidot.org/story?sid=58540	49494
+美国新墨西哥 Farmington 的一名法官<a href="https://www.wmur.com/article/nh-judge-orders-amazon-to-give-echo-recordings-in-double-homicide-case/24893714" target="_blank"><u>命令</u></a>亚马逊提供被认为可能记录了谋杀案关键信息的 Echo 智能音箱录音。这起谋杀案发生在 2017 年 1 月，两名女性在家中遇刺身亡，嫌疑人 Timothy Verrill 拒绝认罪。检方认为监听语音命令的 Echo 设备记录了一名遇害者死前和被杀死的声音。法官同意了访问录音的要求，命令亚马逊提供其服务器上记录下的录音。这起案件可能会对其它案件产生影响。亚马逊表示在收到正式的法庭命令前不会披露信息。
+➜为什么 Android 应用应考虑设置 FLAG_SECURE
+https://www.solidot.org/story?sid=58541	50347
+当你发现自己误删了一份文件，然后使用恢复软件试图恢复文件，结果却从恢复的文件里发现了大量敏感的屏幕截图，包括你使用加密应用的截图，你的比特币钱包截图，这些图显然不是你截下的，那么究竟是谁做的呢？你可能感到很震惊，难道你被偷偷安装了间谍软件？仔细查看这些图像的元数据，你发现了 Google 的 Copyright 声明，原来它们都是 Google 的 Android 系统截的图。Android 以及 iOS 引入了名叫“最近的应用”或“最近的活动”的导航功能，这项功能会自动给你运行的应用截图。<a href="https://tech.michaelaltfield.net/2018/11/09/android-security-auditing-investigating-unauthorized-screenshots/"><u>如果想要不被截图</u></a>， Android 应用需要设置<a href="https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE"><u> FLAG_SECURE</u></a>，防止系统给你的应用截图。如果你的应用包含敏感信息，那么最好的方法是设置一下，知名的端对端加密消息应用 Signal 就启用了该选项。
+➜Elon Musk 的太空互联网将会如何工作
+https://www.solidot.org/story?sid=58542	57657
+Elon Musk 的 SpaceX 公司已经获得美国联邦通讯委员会(FCC)的批准，将发射 4425 颗互联网卫星 Starlink 去组建太空互联网，Musk 本人希望未来一半的互联网流量能经过 Starlink，而伦敦大学学院的 Mark Handley 根据公开文件建模后认为，Starlink <a href="https://www.newscientist.com/article/mg24032033-300-the-first-detailed-look-at-how-elon-musks-space-internet-could-work/"><u>对高频交易员最有吸引力</u></a>。高频交易员可能愿意为更快的网络连接支付更高的费用。当互联网信息通过 Starlink 传输时，地面站首先用无线电波与其上空的卫星进行通信，当信息抵达卫星后使用激光在卫星之间互相传输，到达目标上空后再用无线电波与地面站通信。如果传输距离比较遥远，Starlink 链路的信息传输速度将能两倍于光纤，虽然需要在太空和地面站之间往返，但信息在玻璃光纤中的传输速度要比太空慢。

@@ -1,0 +1,56 @@
+➜下一代C++
+https://www.solidot.org/story?sid=3554	2940
+C++创始人Bjarne Stroustrup博士在一次少有的公开演讲中谈论了对程序设计语言的意见，以及他如何看待<a href="http://it.slashdot.org/it/07/08/13/0818238.shtml">下一代C++语言</a>。<i>“一个优秀的程序语言不仅仅是简单的功能汇集。我的想法是它可提供一套工具能同时保证设计和编程的平稳进行。”在问与答中他还解释了对执行工具如VC++中功能扩展的看法。</i>
+观看：<a href="http://csclub.uwaterloo.ca/files/stroustrup.avi">avi</a>，<a href="http://csclub.uwaterloo.ca/files/stroustrup.ogg">ogg</a>。
+➜电视频道要死了吗？
+https://www.solidot.org/story?sid=3555	3060
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"IPTv，Joost，还有数不清的视频网站，都在积压着传统电视频道的生存空间。当年轻人把大把的时间花在网络上，还会有多少人去看不能点播、不能随时收看、不能下载的电视呢？到那个时候，如果电视频道不能随之改变，等待他们的只有灭亡！
+来自Read/Write Web的新闻，<a href="http://www.yeeyan.com/articles/view/395/1522">中文版本请看这里</a>。"</i>
+➜FaceBook代码泄漏主角现身
+https://www.solidot.org/story?sid=3556	3180
+<a href="http://webeta.cn/">WeBeta</a> 写道 "FaceBook <a href="http://webeta.cn/?action=show&amp;id=1641">首页代码遭到泄漏</a>问题看来还没有完结，根据 <a href="http://mashable.com/2007/08/13/facebook-leaker/">mashable</a> 的消息称，此次事件的主角（泄漏者）已经浮出水面，然而在 <a href="http://facebooksecrets.blogspot.com/">Facebook Secrets</a> 博客上另外一篇关于 <a href="http://facebooksecrets.blogspot.com/2007/08/searching.html">FaceBook 搜索页面源代码</a>的文章想必也会引起不少的震荡。
+<br> <br>事件的主角叫做 Trae McNeely，毕业于俄克拉玛大学（<a href="http://www.ou.edu/">University of Oklahoma</a>），曾就职于<a href="http://www.slashgear.com/">Slash Gear</a> 博客，现经营自己的 <a href="http://wmdtalk.com/">WMDTalk</a>&nbsp;论坛。
+<br> <br>根据 Trae McNeely 的说法，他是在自己的浏览器中看到的该代码，而并非是利用黑客行为或是认识 FaceBook 中的员工，然后将首页源代码发布到<a href="http://www.wmdtalk.com/showthread.php?p=1319">自己的论坛中</a>（该帖子已被移除）。后来，Trae McNeely 又将此帖子发布到 <a href="http://digg.com/tech_news/Nice_Facebook_PHP_error_code_page_INTERESTING_BUT_OBVIOUS">Digg</a> ，但是响应一般，并没有引起大家的注意。另外 Trae McNeely 说自己发布此帖子的目的是考虑日后或许用作学习资料，并且由于是 FaceBook 自身问题造成的代码出现在自己的浏览器中而不是利用黑客等其他行为，也就没有在意此事。           根据在 Digg 中搜索结果能推断出的是： Trae McNeely 发布在前，而 <a href="http://facebooksecrets.blogspot.com/">FacebookSecrets</a> 发布在后（这里仅仅是一份拷贝）。而对于 Trae McNeely 的行为是否违法，也存在不同意见。
+<br> <br>虽然事件主角浮出水面，但是今天在 <a href="http://facebooksecrets.blogspot.com/">Facebook Secrets</a> 博客却又出现了一篇关于 <a href="http://facebooksecrets.blogspot.com/2007/08/searching.html">FaceBook 搜索页面源代码</a>&nbsp;的文章，尽管<a href="http://my.mashable.com/user5c898317">有评论</a>说根据下面这条代码
+PHP代码
+<p>include_once&nbsp;$_SERVER['PHP_ROOT'].'/lib/s.php';&nbsp; &nbsp;
+<br> <br>可以证实这并非是搜索页的源代码，然而再次代码泄漏，使用户对于 FaceBook 服务器安全问题不能不产生怀疑。
+<br>由于涉及版权问题，<a href="http://webeta.cn/?action=show&amp;id=1662">这里</a>不再张贴该代码，感兴趣的可以去<a href="http://facebooksecrets.blogspot.com/2007/08/searching.html">这里</a>查看。
+<br> <br>提示：该博客位于<strong>blogspot.com</strong>，国内访问该站点的方法可以考虑使用 <a href="http://webeta.cn/?action=show&amp;id=1557">FireFox</a>&nbsp;+ <a href="https://addons.mozilla.org/en-US/firefox/addon/2864">gladder</a>&nbsp;的方法。 "</p>
+➜创建维基百科离线阅读器
+https://www.solidot.org/story?sid=3557	3540
+维基百科无需介绍：它是世界上最好的百科全书之一，而且对所有人免费。每一个人都可以联网查阅，但并非所有人都可以随时接触网络，很多人都希望能把维基百科存放在笔记本上以便查询所需资料。到目前为止，安装一份维基百科本地拷贝绝对是对人忍耐力的挑战：需要在电脑上安装LAMP或WAMP（Linux/Windows，Apache，MySQL，php），以及漫长的文档转换过程（将维基百科文档数据输入到MySQL数据库中），这里的“漫长”用更精确的数据说明的话——Pentium4 3GHz的电脑花了36个小时。一位希腊的程序员希望能寻找出一个快速的安装方法，和自由的搜索方式（不仅仅是搜索标题）。<a href="http://www.softlab.ntua.gr/~ttsiod/buildWikipediaOffline.html">他成功的使用了开源工具将整个转换时间缩短到一天内</a>。以下是他的做法:<i>
+1.下载<a href="http://download.wikimedia.org/enwiki/">维基百科档案</a>——一个庞大的XML文件——到2007年8月为止容量是2.9GB。速度80KB/秒花费时间10个小时（作者还将其刻录成光盘）；<br>
+2.分解大文件，使用SAX parser，代码略；<br>
+3.用bzip2recover工具将2.9G的大文件分成数万个小文件：时间20分钟；<br>
+4.建立搜索索引，使用工具Xapian，根据CPU的性能花费时间有所不同，Pentium4 3GHz花了5个小时；<br>
+5.让本地维基百科像正常的HTML那样使用，建立一个迷你服务器。</i>
+作者将所有程序打包，你可以根据安装说明一步步来建立自己的维基百科离线阅读程序。<a href="http://www.softlab.ntua.gr/~ttsiod/offline.wikipedia.tar.bz2">下载</a>。
+➜Hotmail更新，Windows Live逐渐整合
+https://www.solidot.org/story?sid=3558	5640
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"微软发布了Hotmail的更新，这个在动不动几G的邮件服务中坚持以M为单位计算容量的老牌邮件服务终于扩容了，而且一扩就是N倍，达到了5G（免费用户，收费用户有10G），接近Gmail的两倍。微软要把Windows Live逐渐的整合到一起，一个明显的变化是页面上端已经统一风格了，后续的动作将是把各个独立的产品整合到一起。因为网络发展策略上的某些失误，微软被Google打了个措手不及，现在终于到了反击的时候了。
+来自Read/Write Web的新闻，<a href="http://www.yeeyan.com/articles/view/395/1523">中文版本请看这里</a>。"</i>
+➜Hotmail更新，Windows Live逐渐整合
+https://www.solidot.org/story?sid=3559	6060
+<a href="http://www.maoxinyu.cn/">maoxinyu</a> 写道 <i>"微软发布了Hotmail的更新，这个在动不动几G的邮件服务中坚持以M为单位计算容量的老牌邮件服务终于扩容了，而且一扩就是N倍，达到了5G（免费用户，收费用户有10G），接近Gmail的两倍。微软要把Windows Live逐渐的整合到一起，一个明显的变化是页面上端已经统一风格了，后续的动作将是把各个独立的产品整合到一起。因为网络发展策略上的某些失误，微软被Google打了个措手不及，现在终于到了反击的时候了。
+来自Read/Write Web的新闻，<a href="http://www.yeeyan.com/articles/view/395/1523">中文版本请看这里</a>。"</i>
+➜Linux社区发行版与商业发行版：即将到来的分裂
+https://www.solidot.org/story?sid=3560	7800
+横跨<a href="http://www.madpenguin.org/cms/?m=show&amp;id=7988">在Linux开发社区间的分水岭正在形成</a>，商业发行版（与微软合作的公司）与社区发行版（与微软没有瓜葛的公司）之间的冲突正愈演愈烈。GPLv3执行之路可能变得崎岖不平：对Linux狂热者来说，规则的解释简单而清晰，但对微软和它的Linux合作伙伴来说，我们已经看到了许多它们自己创造的枪眼，这可能会导致激烈的争论，更糟糕的可能是它们公开的藐视。作为一个共同形成的社区，我们宁愿希望所有的争论会慢慢平息，但是随着GPLv2向GPLv3的迁移，许多Windows用户和公司也希望利用它来对GPL发起更多的挑战。无论我们怎么试图掩盖，专利恐吓和专利交易确确实实刺痛了Linux社区。
+➜诺基亚免费更换4600万手机电池
+https://www.solidot.org/story?sid=3561	22560
+诺基亚承认由松下生产的4600万块BL-5C型手机电池存在过热的威胁，<a href="http://news.yahoo.com/s/nm/20070815/tc_nm/nokia_batteries_dc">宣布提供免费更换</a>，松下公司将支付其中一部分费用。电池的生产日期从2005年12月到2006年11月，诺基亚表示从全球收到了约100起过热事故报告，没有出现严重的人员受伤报告。可以登录<a href="https://www.nokia.com/batteryreplacement/en/">诺基亚网站</a>检查自己的手机型号是否在上面。
+➜了解Linux硬件兼容性
+https://www.solidot.org/story?sid=3562	28800
+在电脑上安装GNU/Linux，最大的噩梦是它的硬件兼容性。为了让Linux更容易运行，我们需要好好评估这些电脑配件：显卡、声卡、打印机、扫描仪、数字照相机、无线网卡、移动设备。linux.com的这篇文章详细的介绍了<a href="http://www.linux.com/feature/118497">Linux的硬件兼容情况</a>。在过去的10年里，Linux硬件支持其实有了很大的进步，主要的硬件设备如主板、硬盘、键盘、鼠标、DVD光驱、网卡和闪存在Linux下不会产生什么问题。<i>
+显卡：私有驱动可以在显卡制造商网站上寻找，开源驱动方面可查看<a href="http://xorg.freedesktop.org/wiki/Projects/Drivers?action=show&amp;redirect=VideoDrivers">X.org</a>，目前最糟糕的是ATI的驱动，发布速度很慢，bug也非常多，功能也不强。<br>
+声卡：有一个简单的<a href="http://linux-sound.org/hardware.html">声卡兼容列表</a>。<br>
+打印机：Linux基金会维护了一个<a href="http://www.linux-foundation.org/en/OpenPrinting/Database/DatabaseIntro">打印机兼容性情况数据库</a>。<br> .........</i>
+有朝一日企鹅统治桌面，想必就不用这么麻烦了。
+➜北极圈地运动，丹麦起步，下一个中国
+https://www.solidot.org/story?sid=3563	34080
+俄罗斯人在北极圈<a href="__SLASHLINK__" sect="society" sid="07/08/02/0951218" sn="article" tid="6">插上一面国旗</a>，宣称拥有主权，加拿大外长对此的回应是：“现在不是15世纪。你不能在世界各地奔走，仅靠插国旗，就说‘我们对这片土地提出领土要求’。”不过现在看来，地球上每一个国家都打算去北极插面国旗。丹麦将派遣一个40人组成的科研小组去收集证据证明北极是格陵兰岛大陆架的一部分。加拿大则计划在那里建立两个军事基地，美国和挪威也提出主权要求。谁将是下一个？瑞典、德国、澳大利亚，还是马尔代夫？实际上，根据官方媒体的反应，<a href="http://blog.wired.com/defense/2007/08/httpwwwweeklyst.html">下一个很有可能是中国</a>。<i>
+北京的传声筒表达了对北极的兴趣，批评了俄罗斯的行为，认为北极海底正成为超级强权的<a href="http://news.xinhuanet.com/world/2007-08/07/content_6488688.htm">新战场</a>，并导致<a href="http://news.sina.com.cn/w/2007-08-06/110413603328.shtml">国际间的争夺战</a>，甚至是军备竞赛和军事冲突。事实上中国也算是北极的熟人，2004年中国在挪威的Svalbard群岛上建立了一个科考站——<a href="http://www.chinese-embassy.no/eng/zngx/t145358.htm">黄河站</a>。</i>
+➜Yahoo用户满意度超过Google
+https://www.solidot.org/story?sid=3564	37980
+<a href="mailto:a.hf9912@gmail.com">matrix</a> 写道 "密歇根大学的消费者满意度指数显示几个重要的网站：Google，Yahoo，Ask，和AOL的用户满意度出现了重大的变动。<a href="http://arstechnica.com/news.ars/post/20070814-yahoo-edges-out-google-in-customer-satisfaction.html">Google不再占据第一位</a>，Yahoo上升到第一位，满意度得分比去年增加了4%，而Google则比去年同期下降了4%。ACSI报告认为在新用户眼里，Google的主页几年来几乎没有什么变化。Google简朴的主页显然产生了长期性的伤害，新用户看不到Google推出的新产品——Google Maps增加的新内容，Google图像搜索性能的提升，Google新推出的邮箱容量购买选择——在他们眼里这些网站彷佛与Google无关，一些用户称Google的页面过时了。"

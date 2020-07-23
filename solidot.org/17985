@@ -1,0 +1,38 @@
+➜一个硬核的开源Markdown笔记VNote
+https://www.solidot.org/story?sid=60086	52449
+<a href="http://https://tamlok.github.io/vnote">tamlok</a> 写道 "<a href="https://github.com/tamlok/vnote" target="_blank" title="VNote">VNote</a>是一个更懂程序员和Markdown的笔记软件，以MIT协议开源。VNote的目标就是提供一个带有强大文件管理功能的Markdown编辑器或者提供舒适Markdown体验的笔记软件。不同于Typora的所见即所得，也不同于很多编辑器采用的双边实时预览，VNote采用的是折中的语法高亮和原地预览。&nbsp;
+<p></p>
+<p>
+</p>
+<p>&nbsp;回归Markdown语言简洁直观的本质，VNote在不修改或者隐藏Markodwn文本的情况下，通过有意义的语法高亮来展示文章的元素和脉络，通过原地预览来预览图表和公式。通过VNote，在编辑模式下，用户既能掌控所有文本，也能清晰地抓住文章的所有信息。同时，VNote将代码编辑器上面的优秀体验带到笔记软件中，提供诸如Vim绑定、片段、模糊跳转等功能，达到高效的管理和编辑。
+</p>
+<p></p>
+<!--more-->
+<p></p>
+<p></p>
+<p>VNote的一些亮点：</p>
+<ul style="padding: 0px 0px 0px 24px; font-size: 16px; line-height: 24px; color: rgb(34, 34, 34); font-family: &quot;Segoe UI&quot;, Helvetica, sans-serif, Tahoma, Arial, Geneva, Georgia, Palatino, &quot;Times New Roman&quot;, &quot;Hiragino Sans GB&quot;, 冬青黑体, &quot;Microsoft YaHei&quot;, 微软雅黑, &quot;Microsoft YaHei UI&quot;, &quot;WenQuanYi Micro Hei&quot;, 文泉驿雅黑, Dengxian, 等线体, STXihei, 华文细黑, &quot;Liberation Sans&quot;, &quot;Droid Sans&quot;, NSimSun, 新宋体, SimSun, 宋体;">
+<li style="line-height: 24px;">开源，跨平台，支持Linux/Windows/macOS；</li>
+<li style="line-height: 24px;">基于纯文本进行笔记管理，用户自主掌控所有数据；</li>
+<li style="line-height: 24px;">笔记本-文件夹-笔记的管理模式，无限层级文件夹；</li>
+<li style="line-height: 24px;">支持标签管理；</li>
+<li style="line-height: 24px;">全文搜索；</li>
+<li style="line-height: 24px;">通用入口：支持快捷键查找（文件名、内容、路径）匹配并跳转；</li>
+<li style="line-height: 24px;">支持附件；</li>
+<li style="line-height: 24px;">通过片段功能输入常用文字；</li>
+<li style="line-height: 24px;">通过幻词功能输入当前日期等元数据；</li>
+<li style="line-height: 24px;">直接插入图片，管理本地图片；</li>
+<li style="line-height: 24px;">解析HTML为Markdown文本并粘贴；</li>
+<li style="line-height: 24px;">通过语法高亮和原地预览来提供舒适的Markdown体验；</li>
+<li style="line-height: 24px;">编辑模式和阅读模式下，支持代码块语法高亮；</li>
+<li style="line-height: 24px;">支持MathJax, Mermaid, Flowchart, Graphviz, PlantUML等扩展；对于PlantUML，支持首创的智能实时预览，双向打通源代码和预览图表；</li>
+<li style="line-height: 24px;">支持自定义导出，包括PDF和HTML；</li>
+<li style="line-height: 24px;">Vim快捷键以及全局界面的快捷键导航；舰长模式中，所有主要部件都会标识两个字母，输入该字母即可聚焦到该部件；</li>
+<li style="line-height: 24px;">内置4种主题，包括全局夜间模式；支持自定义主题和样式；</li></ul>
+"
+➜酿成悲剧的 SWATting 恶作剧者被判 20 年徒刑
+https://www.solidot.org/story?sid=60087	54378
+向警察谎报严重暴力事件迫使警方动用反恐特警（SWAT）的恶作剧有一个专有名词叫 swatting。2017 年 12 月 28 日，一名 28 岁的堪萨斯州男子在家门口被一名警官杀死，原因是有人谎报他的家中发生了人质劫持事件。警方在接到虚假报告之后包围了他的家，当他走到门口时一名警官开了枪。造成此次悲剧的加州男子 Tyler R. Barriss <a href="https://arstechnica.com/tech-policy/2019/03/man-gets-20-years-for-deadly-swatting-hoax/"><u>被判了 20 年徒刑</u></a>。很多人<a href="https://yro.slashdot.org/story/19/03/29/2055226/california-man-sentenced-to-20-years-in-deadly-kansas-swatting"><u>认为</u></a>扣下扳机的警官至少也应该受到惩罚。
+➜Handshake 向 Debian 捐赠 30 万美元
+https://www.solidot.org/story?sid=60088	56054
+Debian <a href="https://www.debian.org/News/2019/20190329"><u>透露</u></a>，Handshake 向其捐赠了 30 万美元。Handshake 是一家开发实验性点对点根域名系统的组织。在这之前它向自由软件基金会（FSF）<a href="https://www.solidot.org/story?sid=58824" target="_blank"><u>捐赠了 100 万美元</u></a>。Debian 表示，这笔捐款将被用于替换陈旧的硬件，更新服务器和其它组件，让项目的开发和社区基础设施变得更可靠。Handshake 至今向不同的自由开源软件项目、基金会和组织捐赠了 1020 万美元。

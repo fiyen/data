@@ -1,0 +1,75 @@
+➜研究人员发现新笔记本不安全的BIOS“rootkit”
+https://www.solidot.org/story?sid=12683	60
+HP、Dell、联想、Toshiba、Gateway、Asus和松下最近生产的新笔记本提供了名为<a href="http://www.absolute.com/products/lojack">Computrace LoJack for Laptops</a>的服务，主要是为了防止电脑失窃之后，硬盘中的机密数据被泄露。Computrace LoJack for Laptops寄存在BIOS中，60%的新笔记本都预安装了该程序，它能周期性的向一个中心认证机构联系，接受其指令。万一笔记本被窃取之后，自动通报机制允许发送清理硬盘内所有信息的指令，或追踪电脑系统的位置。<i>
+Computrace LoJack for Laptops显然深入底层，能对系统实施完全控制，可在硬盘格式化后或系统重装后继续保留。但在赌城的Black Hat黑客大会上，安全研究人员Alfredo Ortega和Anibal Sacco指出，<a href="http://blogs.zdnet.com/security/?p=3828">这项服务存在设计缺陷</a>，缺乏强认证功能，威胁系统的安全。他们称它也许是一个合法的rootkit，但同时也是一个危险的rootkit，恶意攻击者有可能控制自动通报进程。自动通报包含了IP地址，端口和URL等，恶意攻击者可以将IP地址和URL指向恶意程序网站，向笔记本下载恶意程序。BIOS恶意程序将很难清除掉。</i>
+➜学生因亚马逊删除《1984》而提起诉讼
+https://www.solidot.org/story?sid=12684	1200
+17岁的密歇根高中生Justin D. Gawronski<a href="http://blogs.wsj.com/digits/2009/07/30/lawsuit-amazon-ate-my-homework/">因为亚马逊删除《1984》电子书而提起诉讼</a>（<a href="http://www.prnewschannel.com/pdf/Amazon_Complaint.pdf">起诉书</a>）。<i>
+原因是亚马逊在<a href="__SLASHLINK__" sect="books" sid="09/07/18/0324207" sn="article" tid="54">删除非法的《1984》拷贝</a>时连带破坏了他为作业记录下的注解。这项诉讼，寻求从法律上阻止亚马逊再次删除用户Kindles设备中的电子书，以及为向Gawronski这样受到损失的用户寻求赔偿。亚马逊拒绝对此发表评论，该公司在删除奥威尔的非法电子书的同时退还了用户的款项，CEO Jeff Bezos也为此发表了公开道歉。Gawronski称亚马逊虽然没有删除注解，但是由于电子书不存在了，注解失去了意义。</i>
+➜破解北斗卫星信号的中国留学生在美获奖
+https://www.solidot.org/story?sid=12685	5820
+<a href="http://liduan.cn/">inputx</a> 写道 "
+<i>2005年10月，伽利略系统的两颗试验卫星，GIOVE-A和GIOVE-B， 北斗一号系统的首颗地球中轨道卫星北斗-M1的编码的底层算法均被Dr. Grace Xingxin Gao破解。 2007年4月，中国发射了属于其北斗一号系统的首颗地球中轨道卫星。Dr. Grace Xingxin Gao解调了这颗M1卫星上所有民用码广播的三个波段频率（E2,E5b,E6），证实了所有的北斗-M1编码都是Gold码，并且破解出其编码生成器为线性移位反馈寄存器。她还将这些伪随机数码应用于一个软件接收机中获取并跟踪卫星。</i>
+<a href="http://www.ion.org/">国际导航技术大会</a>表彰其对了解和掌握伽利略及北斗等新卫星信号所作出的贡献。将<a href="http://www.ion.org/awards/earlyachievement2008.cfm">2008 Early Achievement Award</a>(<a href="http://u21.me/ai">翻译</a>)授予她。"
+➜英国DJ的WIFI过敏其实是一次炒作
+https://www.solidot.org/story?sid=12686	12000
+世界上不存在<a href="http://mobile.slashdot.org/story/09/07/31/1528241/Wi-Fi-Allergy-a-PR-Stunt">什么WIFI过敏症</a>。<i>
+英国前DJ Steve Miller<a href="__SLASHLINK__" sect="it" sid="09/07/28/0656236" sn="article" tid="127">声称他对WIFI过敏</a>，实际上这是一次炒作，是<a href="http://arstechnica.com/science/news/2009/07/there-is-no-wifi-allergy-newspapers-misreport-pr-as-science.ars">为了推销他的新专辑</a>。从效果上看，这次宣传大获成功，赢得了如《太阳报》、《电讯报》、《每日邮报》、《福克斯新闻》，甚至印度和中国媒体的大幅报道。然而在多项研究中，自称对无线信号过敏的人根本无法判断他们附近何处有活跃的无线信号。</i>
+➜Google为图片搜索增加了新功能
+https://www.solidot.org/story?sid=12687	15360
+cuthead 写道 "图片搜索在搜索引擎竞争中起着越来越重要的<a href="http://www.techcrunch.com/2009/07/31/google-adds-more-options-to-image-search/">作用</a>。<a href="http://images.google.com/">Google图片搜索</a>今天添加了<a href="http://googleblog.blogspot.com/2009/07/search-options-now-on-google-images.html">一些功能选项</a>，帮助用户可以通过颜色、类型(咨询、人脸、素描)等信息方便的过滤出想要的图片。
+<i>
+这些过滤器功能曾经大部分隐藏在<a href="http://images.google.com/advanced_image_search?hl=en">高级图片搜索</a>，但现在这些选项直接显示在搜索框下。不过有一项图片使用权限的过滤器仍旧隐藏在高级图片搜索
+虽然Yahoo和Bing都有类似的颜色过滤器选项，然而Google显然高级得多。Google允许你搜索十二种不同颜色的图片。Bing和Yahoo却只能让你搜索黑白或者彩色的图片。Google此次行动可能是对Yahoo为图片搜素增加<a href="http://www.techcrunch.com/2009/07/24/sightsee-without-leaving-yahoo-image-search/">观光功能</a>的回应。"</i>
+➜维珍银河的Eve试飞
+https://www.solidot.org/story?sid=12688	18300
+7月28日,私人太空旅行公司<a href="http://www.virgingalactic.com/">维珍银河</a>试飞了<a href="http://www.jsonline.com/news/wisconsin/51944417.html">双体母机Eve</a>（纪念维珍总裁Richard Branson的母亲）——之前被称为白骑士2号(White Knight Two)。<i>
+Eve设计携带载人飞行器太空船2号（Space Ship Two），在高空将其释放，太空船2号再依靠自身的动力飞往太空边缘，让乘客经历几十分钟的零重力飞行。乘客需要支付20万美元的机票才能在飞机上获得一席之位。白骑士2号预计将在2010底试飞，首批游客将在2011年底启航。</i>
+图片和视频可浏览<a href="http://www.virgingalactic.com/partnershipandbransonaboardvmseve/">官方网站</a>
+➜利用稳定性同位素识别食人族和吸血鬼
+https://www.solidot.org/story?sid=12689	19920
+这个世界上有吸血鬼吗？数学家<a href="__SLASHLINK__" sect="science" sid="06/11/27/0016246" sn="article" tid="41">认为没有</a>，因为吸血鬼的指数级别增长注定会在短时间内让全世界人都变成吸血鬼。但这种计算将吸血鬼简单化了，如没有考虑吸血鬼的原则和自由意志，就像青春小说《暮光之城》中不食人的有原则的吸血鬼。因此sunge提出了另一种识别食人族和吸血鬼的方法——<a href="http://solidot.org/~sunge/journal/1166">利用稳定性同位素</a>，其原理是稳定性同位素（如碳13）能够被用来研究生态系统的食物网结构和营养级关系。
+➜微软Bing英文版也审查中文搜索结果
+https://www.solidot.org/story?sid=12690	21000
+众所周知，Google英文版（google.com）可搜索中文，且其结果与需要遵循“当地法律法规和政策”的谷歌中文版（g.cn）存在着较大的差别，因为许多不喜欢谷歌中文版的用户可选择英文版（将界面语言改为中文）作为首选搜索引擎。<i>
+但这种方法没有被微软的新搜索引擎<a href="http://www.bing.com/">Bing</a>采用，用户使用美国版Bing搜索中文关键词，得到的结果与<a href="http://cn.bing.com/">中国版Bing</a>的结果并无二致，<a href="http://www.internetfreedom.org/Microsoft_Censors_Web_in_US_Follows_Chinese_Regime_Guidelines">其搜索结果都经过了审查</a>，或许这与Bing的部署方式有关，微软没有在中国部署单独的中心服务器。纽约时报专栏作家Nicholas Kristof<a href="http://kristof.blogs.nytimes.com/tag/bing/?scp=1&amp;sq=Nicholas%20Kristof%20bing&amp;st=cse">询问了微软</a>，微软发言人称中国之外的Bing没有审查（无疑是狡辩，用户很早便发现了<a href="__SLASHLINK__" sect="internet" sid="09/06/07/0428213" sn="article" tid="120">其它语言的审查现象</a>），称此问题是一个bug。可是该bug到现在也没有修正。</i>
+➜Mac vs PC 2变形篇预告
+https://www.solidot.org/story?sid=12691	22500
+<a href="http://livesino.net/">Picturepan2</a> 写道<i> "继去年《Mac vs PC》变形篇（文末附视频）未完的剧情，Nick Greenlee 在本月初<a href="http://livesino.net/archives/2161.live">公开了该《Mac vs PC》动画第二部的预告片</a>。片中 PC 品牌 Alienware 也出场了，具体还是看该<a href="http://player.youku.com/player.php/sid/XMTA5MTc3MTAw/v.swf">预告片</a>吧。"</i>
+➜Nero发布Nero 9免费版
+https://www.solidot.org/story?sid=12692	23100
+<a href="http://szlug.org/">权相龙</a> 写道 <i>"
+Nero发布<a href="http://www.nero.com/eng/downloads-nero9-free.php">Nero 9 Free Editon</a>，用户可以免费烧录CD和DVD。该版只带基本的烧录功能，不带有视频编辑和回放等，支持XP及以上Windows系统。安装时会提示是否安装ask.com工具条。点击这里看软件<a href="http://news.softpedia.com/newsImage/Free-Nero-9-Copies-No-Strings-Attached-2.png/">界面截图</a>。"</i>
+➜联通版iPhone实机曝光
+https://www.solidot.org/story?sid=12693	24600
+新浪<a href="http://tech.sina.com.cn/t/3g/2009-07-31/00393311310.shtml">公开</a>了正在测试的<a href="http://arstechnica.com/apple/news/2009/07/chinese-website-turns-up-iphones-designed-for-china-unicom.ars">联通版iPhone 3G手机</a>。<i>
+新浪的报导称联通iPhone为16GB版本，背面刻印的介绍文字为简体中文，有“美国苹果公司Apple inc. WCDMA数字移动电话机”等字眼，未配置WiFi，手机内的程序也没有包含iTunes音乐商店以及应用程序商店(App Store)。预计联通版iPhone最早将在9月上市，价格在3000元左右。</i>
+➜北京地铁探头增加录音功能
+https://www.solidot.org/story?sid=12694	25800
+《京华时报》报道，根据8月1日实施的北京《城市轨道交通安全防范技术要求》规定，<a href="http://epaper.jinghua.cn/html/2009-08/01/content_448489.htm">地铁内的电子眼将升级增加录音功能</a>。理由是一旦遇到突发事件，警方调取资料后可边看边听，还原现场“原音”。<i>
+北京市质监局指出轨道交通列车内功能设施至少应包括视频监控系统、紧急报警系统、化学监测系统等系统。通过在视频监控系统上加装音频采集器，对现场声音进行收录。突发事件发生后，在回放现场图像的同时可实现“原音重现”，以便更真实地再现当时情景。目前运营中的地铁线路列车内均装有电子眼，何时安装音频采集器将等候有关部门的安排。《要求》除规定电子眼的录音功能外，还规定了它的存储功能。列车接入图像、客车车厢手动报警、监听音频和化学报警信息的本地存储时间应不低于7天，车载系统信息存储时间不低于30天，事件和报警信息存储90天。</i>
+➜汕头大学安装网络监控系统
+https://www.solidot.org/story?sid=12695	26880
+<a href="http://www.stu.edu.cn/">汕头大学</a>网络中心<a href="http://yuwon.blogbus.com/logs/43282763.html">启用</a>了一款名叫<a href="http://www.sinfors.com/topic/ac/product">sinfor AC</a>监控系统，这套系统是由深信服科技公司开发研制，该系统可以有效的监控上网者的一举一动，包括监控QQ、MSN等聊天记录。监控用户的所有上网行为。<i>
+根据深信服科技公司网站上刊登的成功案例，使用该公司开发的监控系统的<a href="http://www.sinfors.com/topic/ac/case/education.htm">大学有</a>：中国人民大学，浙江大学，中国政法大学，中山大学，电子科技大学，北京理工大学，沈阳大学，广州广播电视大学，华南理工大学，中国公安大学；政府机构包括：国家档案局，中国环境监测总站，国家妇幼保健中心，国家无线电中心，山西省政府，云南省交通厅，广西区公安厅，湖南省财政厅，广西区地税局，中国红十字总会；<a href="http://www.sinfors.com/topic/ac/case/financial.htm">金融机构</a>有中国人寿保险股份有限公司，中银保险有限公司，泰康人寿保险股份有限公司，新华人寿保险股份有限公司，招商银行，兴业银行，北京银行，中国银行广东省分行，华夏基金管理有限公司，南京证券；电力公司有南方电网，中国电力投资集团等；企业有长虹，格兰仕，东风日立等。</i>
+➜研究称开源软件受益于下滑的经济
+https://www.solidot.org/story?sid=12696	28800
+<a href="http://cts.businesswire.com/ct/CT?id=smartlink&amp;url=http%3A%2F%2Fwww.idc.com&amp;esheet=6017293&amp;lan=en_US&amp;anchor=www.idc.com&amp;index=2">IDC</a>发布了《<a href="http://www.idc.com/getdoc.jsp?containerId=219260">世界开源软件2009–2013预测</a>》的报告，报告展示了<a href="http://www.linuxfoundation.org/news-media/blogs/browse/2009/07/enterprise-it-hits-bottom-open-source-holds-intervention">开源软件如何在经济不景气的环境中增长</a>。
+<i>
+报告显示到开源软件的全球收入将实现22.4%的复合年均增长率，到2013年达到81亿美元。新预测高于2008年的估计。Software Business Solutions副总裁Michael Fauscette称，当前的经济危机相当于给开源软件市场打了一针强心针。过去12个月的情况也指示开源软件的接受度在提高。而一些大企业如IBM、Sun、Dell、HP和Oracle都从它们积极支持OSS上获益甚多。</i>
+➜最早的动物生活在湖泊环境中
+https://www.solidot.org/story?sid=12697	30000
+根据发表在《美国科学院学报》上的研究报告，化石显示<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-07/uoc--eal073109.php">最早的动物生活在湖泊环境中</a>。传统理论认为动物的进化始于海洋，而动物在很晚的时候才适应陆地环境。<i>
+一组科学家研究了来自中国南部的古老岩石样本，结果发现了古生物学记录中的最早动物化石保存在古湖泊沉积物中，而不是来自通常认为的海洋沉积层。中国南方的陡山沱组地层是最古老的化石层之一，保存有大约6亿年历史的完好化石。这些化石层没有成年动物的化石。加州大学河边分校地球科学系的地质学教授<a href="http://earthsciences.ucr.edu/kennedy.html">Martin Kennedy</a>称，“我们知道海洋中的生命与湖泊中的生命有很大差别，至少在现代世界中，与湖泊相比，海洋拥有更加稳定和一致的环境，而湖泊倾向于具有相对于进化率而言存在时间短的特征，因此令人吃惊的是，我们发现的最早动物证据与湖泊有关，这是比海洋更加多变的一个环境。”</i>
+➜Firefox达到10亿次下载量
+https://www.solidot.org/story?sid=12698	30960
+Mozilla在美国时间周五<a href="http://blog.mozilla.com/blog/2009/07/31/one-billion-downloads-of-firefox/">宣布</a>，Firefox的下载量达到了<a href="http://www.spreadfirefox.com/news_events">创纪录的10亿次</a>。<i>
+自2004年11月首次发布以来，Firefox花了不到5年时间实现了这一惊人业绩。Mozilla称下载次数计算依据的用户主动下载，而不是自动更新。它声称拥有3亿活跃用户。Mozilla在上个月发布了最新的Firefox 3.5。根据Net Applications的<a href="http://marketshare.hitslink.com/report.aspx?qprid=0&amp;qptimeframe=M&amp;qpsp=126">的最新统计</a>，Internet Explorer在2009年7月的市场份额为67%，Firefox为 22.47%，Safari为4.07%，Chrome为2.59%，Opera为1.97%。</i>
+➜大学生共享音乐判罚67万5千美圆
+https://www.solidot.org/story?sid=12700	49680
+time 写道 "波士顿的大学生Joel Tenenbaum因为共享音乐<a href="http://www.pcworld.com/article/169453/reports_riaa_wins_675k_in_damages_from_file_swapper.html">周五被法庭判决罚款675000美圆</a>。根据美国法律每首歌可判罚额度在750至30000美圆之间，陪审团认定Tenenbaum须为每首歌支付22500美圆。<i>
+美国唱片工业联合会提起了约两万宗诉讼，以试图组织网上的音乐共享行为。第一位因共享音乐被判有罪者是Jammie Thomas-Rasset，她因为下载24首歌曲被判罚192万美圆。"</i>
+➜FCC调查苹果商店政策及Google Voice被拒
+https://www.solidot.org/story?sid=12703	57000
+苹果拒绝了<a href="__SLASHLINK__" sect="it" sid="09/07/28/108204" sn="article" tid="26">Google Voice for iPhone并移除了相关的第三方应用程序</a>，惊动了美国通信委员会(FCC)，<a href="http://www.osnews.com/story/21931/FCC_Investigates_App_Store_Policies_Google_Voice_Rejection">他们开始调查此事</a>。FCC主席Julius Genachowski表示，联邦通信委员会的一个使命是去促进无线市场的竞争，保护消费者，让消费者享有应有的权利，推动创新和投资。最近的新闻报道提出了对移动市场政策的疑问。FCC向涉及此事的苹果、Google和AT&amp;T发去一封公函，要求它们澄清一系列问题，答案必须在8月21日前回复。<i>
+对于苹果，FCC想知道它为什么移除Google Voice应用程序，为什么拒绝Google官方的客户端进入App Store，是否有其它相关程序被移除。FCC将联系相应的开发者。他们想知道Google Voice和其它App Store接受的VoIP应用程序之间的区别，想知道AT&amp;T是否影响了App Store的批准流程，以及App Store拒绝应用程序的标准，递交程序的细节，拒绝的数量和列表，等等。</i>

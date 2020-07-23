@@ -1,0 +1,85 @@
+➜Linus Torvalds：我从未与微软真正交流过
+https://www.solidot.org/story?sid=3609	1740
+Linus Torvalds书面回答了一家印度网站收集（应该是印度人提出）的问题。<a href="http://www.efytimes.com/efytimes/21160/news.htm">问题涉及到了Linux/开源社区的许多问题</a>，从“为什么印度有许多软件工程师，但却对开源没有什么贡献”到“GPLv3与GPLv2的优劣”，“为什么CFS调度器比SD好”，“如果kernel开发没有了Linus又会如何”等等。<i>
+问：GPLv3已经发布，Linux kernel是否会使用新许可协议？从个人角度看，不考虑GPLv3是否是有害的？<br>
+Linus ：GPLv3正式版确实比早期的草案有很多改进。我也不认为它是一个可怕的许可协议。我只是认为它并不是与GPLv2同样伟大的许可证。如果没有GPLv2，我肯定会选择GPLv3。但如果我有更好的选择，为什么还要那样做。我是一个很实际的人，事实上我认为GPLv3与GPLv2哪个更好不是简单的“黑与白”问题。它是一个平衡协议.....<br> <br>
+问：Linux有如此多的发行版到底是好是坏？有选择是很好的，但人们不需要太多的选择。如果联合起来开发一个会几个发行版是否会更好？
+<br>
+Linus ：我认为存在多种发行版是开源不可避免的一部分。这是否会令人迷惑？肯定的。效率低下？是的。我愿意把它比喻成政治：“民主”拥有许多让你迷糊的选择，也许没有一个能满足你真正的需要。有时候你也许会想，如果你无需考虑令你头痛的投票，不同的政党和联盟等等之类，事情会更顺利和更有效率。<br>
+选择或许是没有效率，但是它至少让牵涉其中的每一个人都“稍微”诚实一点，我们肯定都希望我们的政治家更诚实。不同的发行版的作用也与之类似。没有选择，我们的情况会很糟。<br>
+<br>
+问：微软“黑衣人”有没有与你交谈过？<br>
+Linus ：我从未与微软真正交谈过。我偶尔会在一些会议上碰到微软的成员，但是我真的没有和他们交流过。我想这可能是互相在提防。"</i>
+➜新算法让图像空白处与整体无缝衔接
+https://www.solidot.org/story?sid=3610	8340
+先进的数字图像技术正在开辟图像编辑的新大陆，卡内基梅隆（Carnegie Mellon）大学的James Hayes和Alexei A. Efros开发了新的图形算法，<a href="http://graphics.cs.cmu.edu/projects/scene-completion">能让图像空白处与整体无缝衔接或是替换图像中不想要的部分</a>。他们从网上收集数百万图像，组成一个庞大的数据库，然后利用这一算法来处理有缺陷的不完整的图像。
+<i>
+算法依赖于收集的图像数据库。通过在数据库中寻找相似的图像，算法才能完美的为一个图像打上补丁，这不仅仅让整个图像无缝衔接，而且还比较真实。总体上算法是一种数据驱动（data-driven）类型，并不需要用户的注释或贴上标签。
+</i>
+<a href="http://graphics.cs.cmu.edu/projects/scene-completion/scene_completion_presentation.zip">演示文件和视频</a>。
+➜MIT创业团队公布64核处理器
+https://www.solidot.org/story?sid=3611	11880
+<a href="http://zhcn.blogspot.com/">afa</a> 写道
+<a href="http://hardware.slashdot.org/hardware/07/08/20/1830221.shtml">slashdot消息</a>，MIT一创业团队对外宣布了他们将<a href="http://arstechnica.com/articles/paedia/cpu/MIT-startup-raises-multicore-bar-with-new-64-core-CPU.ars">发布一款64核（不是64位）的cpu</a>——TILE64，90纳米制程，主频从600MHz到900MHz。该团队说，他们并非要打破每秒操作数或能效纪录，而是要让程序员看到从这个设备压榨出性能是多么容易。
+敢问龙芯的双核/4核在哪里？
+➜Skype断线源自微软升级？
+https://www.solidot.org/story?sid=3612	21720
+Skype断线总算有了官方说法。<a href="http://heartbeat.skype.com/2007/08/what_happened_on_august_16.html">Skype责怪了微软</a>，说上周大规模断线的原因是微软在星期二放出的补丁，这导致在短时间内有大量的电脑重启，发出重新登录请求（如洪水一般），这使得P2P网络分配算法出现问题，导致在其后的一两天内当机。Skype强调不是恶意攻击，用户也并没有处于危险境地。你相信这个<a href="http://slashdot.org/articles/07/08/20/150258.shtml">说法</a>吗？
+➜《生化震荡》（Bioshock）PC版 Demo发布
+https://www.solidot.org/story?sid=3613	23700
+受到所有游戏媒体和玩家一致好评的游戏《生化震荡》（Bioshock）<a href="http://arstechnica.com/journals/thumbs.ars/2007/08/20/the-pc-bioshock-demo-is-here-and-boy-is-it-delicious">已经发布了PC版 Demo</a>，正式版的上市时间，美国是8月21日（试玩比正式版早一天推出），欧洲是8月24日。Valve也已经宣布它的数字分配网络Steam将接受这款被疯狂吹捧的游戏的预定。如果你不想用Steam下载，也可上其它网站下载容量为1.85GB的Demo，<a href="http://www.3ddownloads.com/RPG/Bioshock/Demos/BioShockPCDemo.zip">3DDownloads</a>，<a href="http://www.worthdownloading.com/game.php?gid=2188">Worthplaying</a>，<a href="http://www.fileplanet.com/180044/180000/fileinfo/BioShock-Demo">FilePlanet</a>或<a href="http://www.gamershell.com/news/41041.html">Gamer's Hell</a>。
+➜学生发现了5千年前的口香糖
+https://www.solidot.org/story?sid=3614	26460
+7月13日星期五是23岁的Sarah Pickin小姐的幸运日。在芬兰的一次考古挖掘中，<a href="http://www.kierikki.fi/sivu/en/ajankohtaista/">她发现了一小块桦皮焦油</a>（Birch bark tar）——上面还留有牙印。Pickin小姐的导师Derby大学的Trevor Brown教授指出，桦皮焦油含有石灰酸（phenols），石灰酸是一种具有杀菌功能的化合物。“新石器时代（Neolithic）的人利用桦皮焦油（Birch bark tar）做成的口香糖为牙床感染消毒。最为重要的是Sarah发现的口香糖上有清晰的牙齿印记。”Pickin小姐是Kierikki中心的志愿者，<a href="http://www.bbc.co.uk/china/lifeintheuk/story/2007/08/070820_ancientgum.shtml">在芬兰西海岸进行挖掘工作</a>。
+➜点评DreamLinux LiveCD
+https://www.solidot.org/story?sid=3615	30660
+<a href="mailto:kingliyou@gmail.com">kingliyou</a> 写道 "关注这款<a href="http://www.dreamlinux.com.br/english/index.html">发行版</a>已经很长时间了,
+前几天安装/试用了一下,
+感觉有史以来最华丽的Linux还真不是吹的.<a href="http://www.dreamlinux.com.br/english/tutorials/beryl_aiglx/beryl_aiglx.html"> </a>
+<i>
+安装 &nbsp; 安装程序非常出色,&nbsp;
+至少值得某些发行版借鉴. 其中最值得称道一点; 它把所有的安装步骤明了的,简洁的整合在一个对话框里面.
+<br>   换句话说我可以在同一个页面里面设置我的管理员账户普通账户而不是通过乏味的Next-&gt;Next-&gt;Next ..........
+<br>    不过话又说回来, 选择硬盘挂载点确实是一个问题: 选择点相对"模糊". 当系统安装完毕进入桌面模式, 此时的分辨率又成了问题; 1200xXXX,
+<br>   你必须依据电脑的屏幕属性来决定. 桌面环境之华丽令人惊讶:在Windows
+<br>   Manager中你可以轻而易举的选择Beryl.
+<br>   如果你对华丽的桌面环境不感兴趣的话直接Ctrl+Alt+F1进入命令行模式. 当然整个桌面环境感觉和Apple MacOS X极其相似.
+<br>   通过这个使用<a href="http://www.dreamlinux.com.br/english/tutorials/beryl_aiglx/beryl_aiglx.html">指南</a>可以好好体验一把.
+"</i>            应用程序(包)管理&nbsp;&nbsp; 基于源于Debian
+Linux, 许多支持Debian, Ubuntu的软件同样在DreamLinux正常运行.
+最具代表性的一点就是提供了更好的Automatix支持(多媒体文件的发烧友有福了);
+困扰不少Linuxer的Codecs问题瞬间得到解决.
+对于DreamLinux或者Ubuntu用户,可以到<a href="http://www.getdeb.net/">GetDeb</a>上找到不少好的软件;
+软件手动安装还是采用之前的apt-get模式.
+<br>  <br>
+硬件支持&nbsp; 这一点做得比以往我体验过的任何一款发行版都好,
+当我接驳我的HP3748打印机, 移动硬盘, 还有我的iPod Nano (可能和Apple社区有些关系)都非常完美的识别并正常使用.
+对于某些硬件还可以在"硬件管理器"中手动挂载, 以往Ubuntu Linux对ATi系列乃至独立显卡的诟病在DreamLinux得到了完美的补全.
+<br>  <br>
+题外话:&nbsp; 这份Linux发行版谈不上创新, 但却有很多"亮点", 对于多媒体爱好者来说, DreamLinux无疑提供了一个完美的实现平台.
+对于Light-User来说也是一个非常好的尝试, 毕竟在某些方面比Ubuntu还要简单,人性化, 而且在美化度方面也是独一无二的.
+值得Solidot读者悉心体验.
+➜58岁的电话飞客Joybubbles去世
+https://www.solidot.org/story?sid=3616	33960
+<a href="http://windrose.linuxsir.org/">windrose</a> 写道 "当代的crackers以破解电脑系统为乐，而几十年前也有很多人以挑战AT&amp;T的电话系统为乐，他们被称为飞客(phreaker)。飞客时代涌现了许多名人，如被称为<a href="http://www.webcrunchers.com/crunch/">Cap'n Crunch</a>的John Draper，他由于发现了Cap'n Crunch盒装麦片附送的小哨子吹出的声调能让他免费拨打长途电话而得名。刚刚<a href="http://tech.sina.com.cn/t/2007-08-21/03301687727.shtml">去世的Joybubbles</a>的本事更胜一筹，他能用口哨吹出2600Hz的声调做到同样的事情。
+<i>
+恩格西亚出生于1949年5月25日，由于父亲是一位学校图片摄影师，他经常搬家。在4或5岁时，他学会了使用叉簧(hookswitch)代替电话按键拨打电话。随后不久，他发现自己可以模仿一种背景声音，使长途电话线路中断。这证明他的口哨声准确地复制了一种电话公司信号，也就是一种2600赫兹的声音。由于这一发现，在之后长达五年的时间内，他的父母都无需安装电话。</i>
+本新闻来源于新浪，新浪翻译的是New York Times的<a href="http://www.nytimes.com/2007/08/20/us/20engressia.html?ex=1188187200&amp;en=4df9de5c7f058307&amp;ei=5123&amp;partner=BREITBART">文章</a>，但说到出处时却用一句“据国外媒体报道”带过，在此顺致鄙视。"
+➜工作交流工具——E-mail正超越电话
+https://www.solidot.org/story?sid=3617	35580
+IT业的就业人员看似互相之间很少见面会打电话。最新的一项调查显示，<a href="http://www.networkworld.com/community/node/18555">E-mail正在超越电话成为最常用的工作交流工具</a>。<i>
+研究显示参与调查的最终用户（end-users）100%使用e-mail，紧跟其后的是固定电话(80%)，移动电话(76%)，即时聊天工具(66%)。研究还指出，三种最常用的通信工具也最能提高生产效率。参与调查的最终用户中超过70%的人都认为e-mail对他们的生产效率有正面影响，后面的是固定电话(53%)，移动电话(52%)。从生产效率方面看，即时聊天工具、blog和softphones都被认为具有双重效果，
+如果不能恰当管理的话，则可能会对生产效率产生负面效应。"</i>
+➜Google Maps已经可以嵌入任何页面
+https://www.solidot.org/story?sid=3618	84660
+<a href="http://webeta.cn/">筷子</a> 写道 "之前介绍过“<a href="http://webeta.cn/?action=show&amp;id=1664">Google将很快允许用户在页面中嵌入Google Map</a>”，而今天<a href="http://www.google.com/intl/en/press/annc/embed_maps.html">Google正式推出了此项服务</a>，现在仅仅需要三个步骤就可以替代原来需要API Key以及JS代码才能完成的任务，方法仅仅是在网页中嵌入一段HTML代码。
+<br> <br>具体方法如下：
+<br>1、登录<a href="http://maps.google.com/">Google Maps页面</a>并选择你需要的位置
+<br>2、点击地图右上方的“Link to this page”链接生成代码
+<br>3、复制粘贴该代码到你需要放置地图的页面即可"
+➜Google Earth 增加实时交通路况图层
+https://www.solidot.org/story?sid=3619	85140
+<a href="http://webeta.cn/">筷子</a> 写道 "Google 已经为 <a href="http://earth.google.com/">Google Earth</a> 增加了一个<a href="http://google-latlong.blogspot.com/2007/08/real-time-traffic-in-google-earth.html">用于提供实时交通信息的新图层。</a> <br>激活该图层服务以后，可以发现有绿色、黄色和红色的小圆点出现在公路街道上，代表了某地区的交通路况信息（拥堵状况）。<br> 这是上午6:30<a href="http://www.flickr.com/photos/rustybrick/1194256624/">圣何塞（San Jose）交通截图</a>。 "
+➜英文维基百科再次倒下?
+https://www.solidot.org/story?sid=3620	85560
+<a href="http://blog.mindflick.com/">microcanon</a> 写道 "8月21日晚10点开始，使用北京网通adsl不能访问<a href="http://www.wikipedia.org/">维基百科首页</a>，难道维基百科再次倒下？"<br>P.S.广东电信一样不能访问，经过长时间的抽风，防火墙终于又为大家工作了！

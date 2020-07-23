@@ -1,0 +1,54 @@
+➜Firefox 57 Beta 版发布
+https://www.solidot.org/story?sid=53982	11764
+<div align="center"><img src="http://img.solidot.org/0/429/lixK2xjxZOULA.jpg" width="400" align="" height="214"><br>
+</div>
+<br>
+Mozilla <a href="https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/" target="_blank"><u>发布了</u></a> Firefox 57 的 Beta 版。这个版本对 Mozilla 意义重大，被寄望于能<a href="http://www.solidot.org/story?sid=53352" target="_blank"><u>重返光荣之路</u></a>，以至于还被冠名为 <a href="https://www.mozilla.org/en-US/firefox/quantum/" target="_blank"><u>Firefox Quantum</u></a>。Firefox 57 将于 11 月 14 日正式发布，它将带给用户能感知的性能提升。Mozilla 测试了 Firefox 57 Beta/ Firefox Quantum 和  Chrome，显示&nbsp; Firefox Quantum 更快。  Firefox Quantum 的改进包括支持利用多个处理器核心，Rust 开发的新 CSS 引擎，新的 UI，Stylo，Quantum Flow，Quantum Compositor，等等。Mozilla 推荐用户下载试用，开发者可以选择下载<a href="https://www.mozilla.org/en-US/firefox/developer/" target="_blank"><u>开发者版本</u></a>。
+➜Twitter 测试 280 个字符数限制
+https://www.solidot.org/story?sid=53983	13587
+Twitter 官方博客<a href="https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html" target="_blank"><u>宣布</u></a>放宽字符数限制，从 140 个字符扩大到 280 个字符。目前这一政策尚未推行，还在测试中。Twitter 联合创始人兼 CEO Jack Dorsey <a href="https://twitter.com/jack/status/912784057863245824" target="_blank"><u>发推演示了放宽后的字符限制</u></a>，他表示 140 个字符数限制只是基于短信 160 个字符数限制而做出的随意决定，表示这是一个小变化，但对他们而言却是一次大举措。他的帖子随后被 Twitter 网友<a href="https://twitter.com/brianrbarone/status/912788388150960130" target="_blank"><u>修改到</u></a> 139 个字符，并得到了 Jack 本人的<a href="https://twitter.com/jack/status/912846862343839744" target="_blank">转推</a>。Twitter 计划将新的字符数限制政策扩大到中文、日文和韩文之外的其它语言，中文、日文和韩文能用更少的字数表达意思，不需要更多的字符数。
+➜俄罗斯黑客利用 Google AMP 漏洞钓鱼
+https://www.solidot.org/story?sid=53984	15193
+Google 自 2015 年起开始大力推广它的 AMP（Accelerated Mobile Pages），提供一种方式为智能手机用户优化网站内容访问。AMP 是网站的一个简化版本，Google 会在搜索结果中预加载这个简化版，如果用户点击包含 AMP 网页的结果可以即时显示。然而问题是在移动设备上用户只会看到 Google 的域名而看不到源域名，这种显示方式就为钓鱼攻击留下可供利用的空间，毕竟用户显然对 Google 非常信任。与俄罗斯政府有关联的黑客组织 Fancy Bear（aka APT28）就被发现利用这个漏洞<a href="https://www.salon.com/2017/09/24/russian-hackers-exploited-a-google-flaw-and-google-wont-fix-it/" target="_blank"><u>尝试发动钓鱼攻击</u></a>，窃取 Gmail 用户的密码。这一 bug 早在 2016 年 11 月就被报告给了 Google，但该<a href="https://github.com/ampproject/amphtml/issues/6210" target="_blank"><u> bug 报告</u></a>于 2017 年 2 月关闭，9 月 13 日锁定。
+➜中国 Android 应用利用 Dirty Cow 漏洞植入后门
+https://www.solidot.org/story?sid=53985	18570
+<div align="center"><img src="http://img.solidot.org/0/426/liEUHf8OgvV6.png" width="400" align="" height="364"><br>
+</div>
+<br>
+去年曝光的一个高危内核漏洞正被中国的网络罪犯利用。被命名为 <a href="http://www.solidot.org/story?sid=50122" target="_blank"><u>DirtyCow</u></a> 的漏洞被认为是内核至今曝出的最严重提权漏洞，影响所有 Android 版本，它非常容易被利用，可被用于 Root 任何 Android 设备。趋势科技的安全研究人员<a href="http://blog.trendmicro.com/trendlabs-security-intelligence/zniu-first-android-malware-exploit-dirty-cow-vulnerability/" target="_blank"><u>报告了</u></a>第一种利用该漏洞的恶意程序家族 ZNIU。ZNIU 应用通过第三方应用市场传播，藏身于色情应用和游戏应用中，一旦安装，它会联络 CC 服务器，同时使用 DirtyCow 漏洞获取 root 权限和植入后门。由于 DirtyCow 漏洞只能工作在 ARM/X86 64 位架构设备上，ZNIU 会使用  KingoRoot 和 Iovyroot 去 root 32 位设备。之后 ZNIU 会订阅中国移动运营商的增值服务，从屏幕截图上看受害者可能主要是中国电信的用户。研究人员发现 ZNIU 的漏洞利用管理服务器和域名都位于中国，他们建议用户不要从不信任的应用市场下载应用。
+➜盖茨使用 Android 手机
+https://www.solidot.org/story?sid=53986	20082
+微软联合创始人<a href="http://www.bbc.com/news/technology-41399823" target="_blank"><u>透露</u></a>他切换到了 Android 智能手机，但在手机安装了许多微软应用。微软的 Windows Phone 未能在移动市场上取得立足之地，其市场份额相比 Android 和 iOS 几乎微不足道。当被问到是否有 iPhone 作为备用手机，盖茨坚决的回答说没有 iPhone。他没有披露他的 Android 智能手机型号，有可能是微软在其美国商店出售的定制版三星 Galaxy 8。
+➜嫦娥探月任务因长征五号发射失败延期
+https://www.solidot.org/story?sid=53987	26174
+今年 7 月 2 日，中国在文昌航天发射场使用长征五号遥二火箭发射实践 18 号卫星，但由于火箭飞行出现异常，<a href="http://www.solidot.org/story?sid=52938" target="_blank"><u>发射宣告失败</u></a>。目前官方还在对事故进行调查，可能要到年底才会有结果。由于此次发射失败，嫦娥系列探月任务<u>将延期</u>。中国国家航天局秘书长田玉龙 25 日在第 68 届国际宇航大会上表示，发射失利将影响到嫦娥五号、四号以及空间站的任务计划。嫦娥五号原计划在 11 月发射，嫦娥四号计划在明年发射，两次任务都将延期。空间站核心舱“天和”原计划明年用长征五号发射，也因为此次事故延期到 2019 年。
+➜Tinder 用户递交数据请求得到 800 页的个人信息
+https://www.solidot.org/story?sid=53988	27127
+记者 Judith Duportail 是约会软件 Tinder 的一位用户，她根据欧盟的数据保护法，在隐私活动人士和人权律师的帮助下今年 3 月向 Tinder <a href="https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold" target="_blank"><u>发送了访问个人数据的请求</u></a>，Tinder 最终返回了 800 页的个人详细数据。这些数据包括了她的登录时间、地点和约会记录，完整的聊天信息档案，此外还有与账号相关联的 Facebook 和 Instagram 的信息，比如点赞和照片。华盛顿大学的数据科学家 Olivier Keyes 称他对此感到恐惧但并不感到意外，Facebook 可能掌握了你多达数千页的档案。Judith 感到有些内疚，因为她自愿披露了非常多的个人私密信息，但她指出她并非是唯一这样做的人。千禧年一代的人的现实生活和虚拟生活已经融合在了一起，想象一下如果你的虚拟数据被盗会对你的生活产生多大影响？
+➜俄罗斯威胁关闭 Facebook
+https://www.solidot.org/story?sid=53989	29361
+俄罗斯政府监管机构<a href="https://www.bloomberg.com/news/articles/2017-09-26/russia-threatens-to-shut-facebook-over-local-data-storage-laws" target="_blank"><u>威胁关闭  Facebook</u></a>，如果社交巨人未能遵守在该国存储俄罗斯用户数据的法律要求。俄罗斯通信监管局的 Alexander Zharov 称，本地数据存储法对每个人都是强制性的。通信监管局将迫使外国互联网公司要么遵守要么关闭。从 Google 到阿里巴巴在内的互联网公司选择遵守法律，而 Twitter 则表示需要更多时间去评估遵守本地数据存储法的经济可行性。因为没有遵守法律，俄罗斯曾在去年 11 月下令屏蔽职业社交网络 LinkedIn。
+➜React v16.0 发布
+https://www.solidot.org/story?sid=53990	30764
+开源 JavaScript 库 React <a href="https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html" target="_blank"><u>发布了 v16.0</u></a>。主要新特性包括：新的渲染返回类型，改进错误处理，Portals，重写了服务器渲染器，支持串流，改进了服务器端渲染，支持定制 DOM 属性，以及最瞩目的一个变化是许可证从“BSD+ 专利”改为 MIT，昨天发布的 React 15.6.2 也切换到了 MIT 许可证。此前由于许可证争议，许多知名项目在采用 React 上犹豫不决甚至拒绝，Facebook 因此决定切换到更方便使用的 MIT。
+➜共享单车流行减少汽油需求
+https://www.solidot.org/story?sid=53991	33546
+在北京、台北、新加坡和亚洲其他城市，数以百万计的消费者通过手机 app 租借自行车以满足最后一公里的出行需求，将桥车和摩托车留在家里，也放弃了打车。根据中国交通部的数据，两年来蓬勃发展的共享单车光在中国就投放了超过 1600 万辆，有超过 1 亿人注册成为用户，从而减少了轿车使用并<a href="https://cn.reuters.com/article/bikeshare-asia-gosoline-demand-0926-tues-idCNKCS1C2081" target="_blank"><u>导致汽油需求增长放慢</u></a>。分析师无法及时获得共享单车数量的最新数据，有一点十分明确，即共享单车服务正在减少人们坐车出行的次数。对中国 36 个城市 10 万摩拜用户进行的调查显示，自该服务被引入以来，受访者称开车出行的情况已经减少逾半。深圳市交通运输委员会的一项报告显示，该市的共享单车已超过 50 万辆，已取代了近 10% 的私家车出行或 13% 的汽油消费。
+➜微软成为开源促进会的赞助商
+https://www.solidot.org/story?sid=53992	36092
+开源促进会<a href="https://opensource.org/node/901" target="_blank"><u>宣布</u></a>，微软成为它的 Premium 赞助商。过去两年，拥抱开源的软件巨人先后加入了多个重量级的开源基金会，其中包括  <a href="http://www.solidot.org/story?sid=47428" target="_blank"><u>Eclipse 基金会</u></a>和 <a href="http://www.solidot.org/story?sid=50399" target="_blank"><u>Linux 基金会</u></a>。开源促进会是促进开源开源软件发展的非营利组织，由 ESR 等人在 1998 年成立。开源促进会的新闻稿称，过去几年微软加大了对开源项目和社区的参与，并发布了更多的开源产品，如 Visual Studio Code 和 Typescript，成为 GitHub上开源项目的主要贡献者，为 Windows 10 加入 Bash/Linux 支持，与 Linux 发行版开发商 如 Canonical、 Red Hat 和 SUSE 合作。
+➜雅虎开源其搜索引擎 Vespa
+https://www.solidot.org/story?sid=53993	40799
+<div align="center"><img src="http://img.solidot.org/0/428/lih2uOzab8ms.jpg" width="300" align="" height="185"><br>
+</div>
+<br>
+雅虎或 Oath <a href="https://www.oath.com/press/open-sourcing-vespa-yahoo-s-big-data-processing-and-serving-eng/" target="_blank"><u>宣布</u></a>开源其大数据处理和服务引擎 <a href="http://vespa.ai/" target="_blank"><u>Vespa</u></a>，<a href="https://github.com/vespa-engine" target="_blank"><u>源代码</u></a>托管在 GitHub 上。雅虎/ Oath 的杰出架构师 Jon Bratseth 在新闻稿中指出，Vespa 被用于 Yahoo.com、Yahoo News、Yahoo Sports、Yahoo Finance、Yahoo Gemini、Flickr 等众多产品，每天处理和服务数十亿次的文档访问请求，同时还响应搜索查询、提供推荐、个性化内容和广告。Vespa 每秒处理和服务的内容和广告大约为 9 万次，延迟不到几十毫秒。感兴趣的人可以通过 Docker 镜像和 rpm 包在自己的计算机或云端运行 Vespa。
+➜吸尘器制造商 Dyson 宣布制造电动汽车
+https://www.solidot.org/story?sid=53994	43305
+以吸尘器闻名的英国公司 Dyson（不是物理学家，其创始人是 James Dyson 爵士）<a href="http://www.bbc.com/news/business-41399497" target="_blank"><u>宣布投资</u></a> 20 亿英镑研制电动汽车，计划在 2020 年发布。Dyson 称它组建了一支 400 人的工程师团队，过去两年一直在总部进行秘密研发。然而汽车目前还不存在，连原型也没有，厂房的位置还没有选定。James 爵士拒绝透露更多细节，他表示 10 亿英镑用于开发汽车，另外 10 亿用于制造电池。Dyson 表示，该公司认为固态电池的开发（可以比传统锂电池储存更多电量而且充电时间较少）将有利于它与更知名的对手竞争。Dyson 计划自己设计和生产这款新车，不与现有汽车制造商合作，不过轮胎和其他配件将使用知名供应商。James 爵士<a href="http://www.ftchinese.com/story/001074488" target="_blank"><u>称</u></a>，由于对空气质量的担忧，中国将成为其最大市场。
+➜读脑术不应该用于解决犯罪问题
+https://www.solidot.org/story?sid=53995	45420
+大脑波纹检测技术打击恐怖主义和犯罪活动的潜力正引发日益增长的兴趣，虽然目前它远不那么可靠。它通过使用脑电图去阅读大脑电活动，尝试识别名为“P300 反应”的现象。“P300 反应”能对熟悉的刺激产生不受控的可测量的响应。举例来说，一把匕首被用于谋杀，警方向否认犯罪的嫌疑人展示匕首照片，如果对方熟悉这把匕首，那么“P300 反应”会产生识别响应，意味着嫌疑人在撒谎。不难看出，执法机构为什么会对这项技术着迷。但这项技术的使用令人担忧。犯罪法博士 Paul McGorrery  在 The Conversation 发表文章认为这种读脑术<a href="https://theconversation.com/mind-reading-technology-should-not-be-used-to-solve-crime-83874" target="_blank"><u>不应该用于解决犯罪问题</u></a>，因为它威胁到了三大权利：隐私权，拒绝自证其罪的缄默权和自由思想的权利。
+➜研究发现减肥能省钱
+https://www.solidot.org/story?sid=53996	46822
+约翰霍普金斯大学布隆伯格公共健康学院的一项研究发现，<a href="https://hub.jhu.edu/2017/09/26/weight-loss-costs-savings-hopkins-study/" target="_blank"><u>减肥能省钱</u></a>。<a href="http://onlinelibrary.wiley.com/doi/10.1002/oby.21965/full" target="_blank"><u>研究报告</u></a>发表在《Obesity》期刊上。研究发现，一位 20 岁的成年人如果从肥胖减肥到超重，那么这一变化终其一生中将能平均节省 17,655 美元的直接医疗费用和生产力损失。如果这个人从肥胖减肥到健康体重，那么平均节省的费用将提高到 28,020 美元。如果 40 岁成年人的体重从肥胖降到超重以及从肥胖降至正常，那么节省的费用会更多，分别为 18,262 美元和 31,447 美元。美国 70% 的成年人被认为超重或肥胖，每年导致的直接医疗费用接近 2100 亿美元。

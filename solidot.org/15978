@@ -1,0 +1,51 @@
+➜以色列黑客发布开源虚拟化操作系统OSv
+https://www.solidot.org/story?sid=36649	5342
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 <i>"Qumranet是由XEN虚拟化hypervisor大师Moshe Bar和前Cisco工程总监Rami Tamir创立，在被RedHat收购2年后Qumranet的成员创立了Cloudius Systems，近日由Dor Laor和Avi Kivity领导的以色列创业公司Cloudius Systems基于BSD自由软件许可证下<a target="_blank" href="https://github.com/cloudius-systems/osv">发布了虚拟化的操作系统OSv</a>，OSv的开发动机是由于今天大部分的应用都是跑在云端的GNU/Linux虚拟机上，而GNU/Linux在设计之初并非为虚拟化而设计，像多用户和多进程的模式不但造就了复杂性而且也成为今天的hypervisor的性能障碍，OSv系统的设计目的是让一个应用程序跑在一个虚拟机上，这样根本就不需要kernel-land到user-land的隔离，从而降低上下文切换的损耗，同样也能有机会去实验类似lock-free mutexes和<a target="_blank" href="http://www.lemis.com/grog/Documentation/vj/lca06vj.pdf">Van Jacobson的网络频道</a>的新idea，在启动速度上OSv只需要2秒就能启动完成，安全性方面目前可以支持检测use-after-free（还在跟作者确认是否是runtime check)，网络方面完全继承了FreeBSD的TCP/IP协议栈，文件系统则支持ZFS，<a target="_blank" href="http://www.osv.io/">OSv社区希望更多的黑客加入</a>。
+"</i>
+➜政府主导的创新模式走入困境
+https://www.solidot.org/story?sid=36650	10415
+数十年来，中国一直遵循着政府牵头的创新模式，科学和技术部门首先确定主攻方向，然后提供巨额资金，并派遣大量留学生进行研究。这种模式在某些领域取得成功，例如空间探索、超级计算机和军用技术。但许多经济学家和科学家表示，这种中央规划模式带来的创新成果不足，很难再取得突破。中国需要加快经济转型，降低对低成本出口和国有寡头的依赖。科学家抱怨政府过分关注抓人眼球的项目（例如超级计算机），忽视了有助于带动新产业的基础科学研究。乔治华盛顿大学中国研究学者沈大伟(David Shambaugh)表示，中国的政治是一个重大的阻碍因素，存在很多科研禁区。但经济学家表示，<a target="_blank" href="http://cn.wsj.com/gb/20130930/bch090746.asp"><u>当前的主要问题是国家管得太多</u></a>，扼杀了以好奇心为基础的创新。科研经费必须经过行政审批，后者关心的是项目是否符合国家的既定发展目标。腐败、或只是不明智的判断都可能会扼杀新想法。
+➜SpaceX新Falcon 9火箭完成第一次发射
+https://www.solidot.org/story?sid=36651	13382
+<div align="center"><a href="http://img.solidot.com.cn/0/704/liOIyd5sJBIqY.jpg"><img src="http://img.solidot.com.cn/0/704/liOIyd5sJBIqY.jpg" height="160" align="" width="240"></a><br>
+<br>
+</div>
+私人太空公司SpaceX升级改进后的Falcon 9火箭于9月29日美国太平洋夏令时上午9点在范登堡空军基地<a target="_blank" href="http://www.spacex.com/webcast/"><u>成功发射升空</u></a>，将加拿大的一颗通信研究卫星CASSIOPE送到轨道。升级后的Falcon 9火箭增加了运载负荷和可靠性，同时加快制造速度。SpaceX创始人兼CEO Elon Musk曾表示新火箭使用了大量新的技术，因此未经检验的技术导致发射失败的概率增加。新版火箭<a target="_blank" href="http://www.nasaspaceflight.com/2013/09/spacex-debut-falcon-9-v1-1-cassiope-launch/"><u>被称为 Falcon 9 v1.1</u></a>，取代旧版本的v1.0。V1.1拉长了火箭第一级和第二级，第一级的9颗Merlin-1D引擎以正八边形排列——即中间一颗八个角各有一颗，取代旧型号9颗Merlin-1C引擎正方形排列的布局。第二级火箭使用一个拉长的Merlin引擎，两级火箭都使用RP-1推进剂。<br>
+➜上海自贸区禁止投资数据中心、限制VPN投资
+https://www.solidot.org/story?sid=36652	16948
+上海政府网站发布了禁止或限制外商投资的<a target="_blank" href="http://www.shanghai.gov.cn/shanghai/node2314/node2319/node12344/u26ai37036.html"><u>负面清单</u></a>，其中网民可能关注的领域包括：限制投资测绘公司，禁止投资大地测量、航空摄影和地图导航绘制（地图测绘在中国仍然是一个事关国家机密限制进入的领域）；限制投资新闻机构、图书报刊出版以及电子书出版；禁止投资网吧等互联网上网服务营业场所；禁止投资经营数据中心业务；VPN业务投资比例不能超过50%；限制投资电信服务；禁止投资网游；禁止投资新闻网站、互联网视听服务；等等。此前曾有传闻上海自贸区将解除网禁，但根据最新的通知，即使解除网禁，也不会惠及普通居民。
+➜人造黑洞模拟光扭曲
+https://www.solidot.org/story?sid=36653	23793
+<center>
+<iframe src="https://www.youtube.com/embed/xpXDMmjn2wg?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+中国科学家<a target="_blank" href="http://www.newscientist.com/article/dn24289-lightbending-black-hole-mimic-is-first-you-can-watch.html"><u>研制出人造黑洞</u></a>，模拟真实黑洞的光扭曲效应。众所周知，黑洞有一个叫视界的区域，当光子进入后就无法再逃逸出。鲜为人知的是在视界之外黑洞还有一个<a target="_blank" href="http://en.wikipedia.org/wiki/Photon_sphere"><u>光子层（photon sphere）</u></a>，黑洞的强大引力扭曲了空间，迫使光子在弯曲的路径上绕着黑洞运动。科学家至今从未观察到光子层——原因是光子困在黑洞的引力范围内，无法逃脱飞抵你的眼睛。南京大学的<a target="_blank" href="http://dsl.nju.edu.cn/dslweb/images/research/plasmonics/MPP_Hui.htm"><u>Hui Liu</u></a>博士和同事建造了人造黑洞，可视化光子层。他们利用不同折射率的材料去模拟引力对光的扭曲效应。<a target="_blank" href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2013.247.html"><u>论文</u></a>发表在《Nature Photonic》上。
+➜Google工程师将语言翻译变成向量空间数学问题
+https://www.solidot.org/story?sid=36654	27032
+现有的基于统计翻译的在线工具如<a target="_blank" href="http://www.babelfish.com/"><u>巴比鱼</u></a>和<a target="_blank" href="http://translate.google.com/"><u>Google翻译</u></a>，翻译的结果勉强可用，但离完美还相去甚远。现在，Google工程师在预印本网站上<a target="_blank" href="http://arxiv.org/pdf/1309.4168v1.pdf"><u>发表论文</u></a>，介绍了一种不依赖于统计翻译的新技术。他们的方法是将<a target="_blank" href="http://www.technologyreview.com/view/519581/how-google-converted-language-translation-into-a-problem-of-vector-space-mathematics/"><u>语言翻译变成向量空间数学问题</u></a>，利用数据挖掘技术建模一种语言的结构，然后与另一种语言的结构进行对比。新的方法是基于一个概念，即每一种语言都有一套相似的理念，因而使用单词的方式也存在相似性。例如，大多数语言中都有描述相同动物的单词，如狗、猫和牛，这些单词很可能以相同的方式在句子中使用，如“猫是一种比狗小的动物”。语言中单词之间的关系集合被称为“语言空间”，可类比为一个点到另一个点的向量集合，能以数学的方式进行处理，例如王减去男性加上女性等于女王（‘king’–‘man’+‘woman’=‘queen’）。在向量空间中，许多语言都有共通之处，可以利用向量空间线性变换将一种语言翻译成另一种语言。Google工程师表示，新的方法非常有效。
+➜荷兰警方训练老鼠打击罪犯
+https://www.solidot.org/story?sid=36655	29496
+Derrick、Thomson、Thompson、Magnum和Poirot是荷兰警方最新招募的新兵。<a target="_blank" href="http://arstechnica.com/business/2013/09/dutch-police-recruit-rat-detectives-to-sniff-out-crime/"><u>它们不是人是老鼠</u></a>。负责该项目的督察Monique Hamerslag表示，据他们所知，他们在世界上率先训练老鼠用于警方调查。侦探Derrick和它的小伙伴的训练成本很低，只要花8英镑，经过10天到15天训练它们就能识别出毒品和炸药等的气味。相比之下警犬至少需要花8个月时间花费数千英镑。训练过程很简单，关在笼子里的老鼠只要正确识别气味就能获得奖励。在一次演示中，Derrick仅仅用了2秒钟就定位出气味位置。快速识别炸药的痕迹可以防止罪犯逃脱。老鼠天生害羞，与警犬不同，老鼠不是捕食者，很容易受到惊吓，所以使用方法上与警犬有所不同。
+➜BigDog将会变得更强更安静
+https://www.solidot.org/story?sid=36656	32501
+Boston Dynamics的BigDog战场负重机器人获得了DARPA的一千万美元投资，<a target="_blank" href="http://www.popsci.com/article/technology/darpa-spends-10-million-make-bigdog-stronger-and-stealthier"><u>将开发更安静能防弹的版本</u></a>。在理想情况下，一位士兵携带最多48磅的装备进入战场，而行军中的负重最多72磅。但战争没有理想情况，在2003年的伊拉克战争中，美国伞兵携带了最多101磅的负重，士兵迅速疲惫不堪，即使是健康的士兵也感到难以负担。BigDog能负重400磅，可以紧跟在队伍后面，运送各种负重如备用电池和装备。 BigDog将在今年11月接受美国海军陆战队的测试。
+➜中国的论文造假已达到产业规模
+https://www.solidot.org/story?sid=36657	34781
+《经济学人》发表了一篇文章谈论了<a href="http://www.economist.com/news/china/21586845-flawed-system-judging-research-leading-academic-fraud-looks-good-paper"><u>中国已经形成产业的论文造假</u></a>：在盗版光盘和拷贝产品设计之外，中国还有一种更具有知识性的盗版产品——伪造学术论文甚至是假冒科学期刊。武汉大学沈阳教授领导研究的一项结果<a target="_blank" href="http://www.solidot.org/story?sid=15603"><u>显示</u></a>，中国买卖论文2009年的规模达到了10亿元人民币。中国政府的一项调查发现，在6000多名接受调查的研究人员中间，有三分之一承认有剽窃、篡改和捏造数据的不当行为。调查的细节没有公开。PNAS上的一项研究发现，中国和印度两国因为剽窃而撤回的医学论文超过了美国，而美国发表的医学论文数量要多得多。中国因为重复出版而撤回的论文数量高居第一，因为造假而撤回的论文次于美国、德国和日本。
+➜Phil Zimmermann呼吁用户不要使用电子邮件
+https://www.solidot.org/story?sid=36658	36767
+PGP作者Phil Zimmermann向电子邮件用户警告，他以记者为例指出，电子邮件的元数据<a target="_blank" href="http://www.theguardian.com/technology/2013/sep/30/email-surveillance-could-reveal-journalists-sources-expert-claims"><u>会曝光记者的消息来源</u></a>。Zimmermann说道，他设计PGP时只是为了保护信息的内容，没有想到去保护电子邮件的消息头。但最近曝光的NSA监控计划告诉我们，电邮的消息头——也就是元数据——能提供许多信息。比如记者与一位政府消息来源讨论敏感问题，监视者不需要做多少数据挖掘工作，通信的元数据就可能导致泄密者深陷困境。
+➜中国整治多家移动新闻客户端
+https://www.solidot.org/story?sid=36659	37970
+移动阅读和移动新闻客户端应用的兴起也引起了官方的注意。主管互联网的国家互联网信息办公室<a target="_blank" href="http://www.gov.cn/jrzg/2013-09/30/content_2498793.htm"><u>发出通知</u></a>，宣布整治一批移动新闻客户端。通知称，<font id="Zoom">“抽屉新热榜”、“鲜果联播”、“ZAKER新闻阅读”、“3G门户新闻”、“一五一十部落”、“蜜蜂新闻”等未依法取得互联网新闻信息服务资质，违规从事互联网新闻信息服务的移动客户端，依法要求限期整改。通知表示，</font><font id="Zoom">移动新闻客户端运营单位从事互联网新闻信息服务必须经互联网信息内容主管部门审批备案，并依法取得相应资质，未取得资质不得从事互联网新闻信息服务，各移动应用商店也不得为违法违规移动客户端提供上架发布、推荐下载等服务。</font>
+➜廉价镜头也能拍出高质量照片
+https://www.solidot.org/story?sid=36660	40697
+<center>
+<iframe src="https://player.vimeo.com/video/61495125" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" height="281" width="500"></iframe><br>
+<br>
+</center>
+高质量的镜头通常价格昂贵，但它贵也有贵的理由，这些镜头使用大量特别设计的元素去消除畸变和扭曲。但如果你也能做到，甚至能自动完成？加拿大不列颠哥伦比亚研究人员正在开发一种<a target="_blank" href="http://www.cs.ubc.ca/labs/imager/tr/2013/SimpleLensImaging/"><u>软件替代</u></a>，可以<a target="_blank" href="http://petapixel.com/2013/09/29/newly-developed-software-helps-get-high-quality-photos-crappy-lenses/"><u>让劣质廉价镜头拍出完美高质量照片</u></a>。他们的技术已经在今年早些时候举行的SIGGRAPH 2013大会上公开演示，简单来说，就是软件估算出不同对象不同距离的点分散函数，修正模糊、失真和像差，重建恢复到高质量的图像。
+➜基地组织因应美国监听改变通信手段
+https://www.solidot.org/story?sid=36661	41716
+在前NSA合同工Edward Snowden泄露大规模监视之后，为了在某种程度上展示监视监听的价值，美国官员在8月份透露他们截获了基地组织准备发动恐怖袭击的情报。结果这次曝光促使基地组织改变通信方式。此次泄密打草惊蛇，<a target="_blank" href="http://cn.nytimes.com/usa/20130930/c30nsa/"><u>比Snowden造成的后果更直接</u></a>。过去几个月，基地组织与其他伊斯兰恐怖组织的宣传机构全球伊斯兰媒体阵线(Global Islamic Media Front)发布了一些软件，让用户可以对即时通讯和手机的通话进行加密。官员称，这些新程序可能会给NSA的破译人员带来新的麻烦。基地组织对先进加密技术的应用可以追溯到2007年，当时全球伊斯兰媒体阵线发布了所谓的“圣战秘密”(Asrar al-Mujahedeen)软件，2008年1月发布了升级版“圣战秘密 2”，此后至少更新了两次，最近一次是在2012年5月。

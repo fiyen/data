@@ -1,0 +1,49 @@
+➜微软加入Linux基金会
+https://www.solidot.org/story?sid=50399	8000
+微软在 Connect() 开发者大会上<a href="https://www.linuxfoundation.org/announcements/microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum" target="_blank"><u>宣布加入Linux基金会</u></a>，成为非营利的Linux基金会的白金会员。Linux基金会会员有三个等级：白金、金级和银级。微软Azure云团队架构师 John Gossman 将进入董事会（华为也是白金会员，它的开源软件系统首席架构师侯培新在董事会也有一个席位）。微软正在全面推进云计算战略，操作系统不再是它的核心业务了，而 基于Linux的发行版主导着云计算市场，微软加入昔日的竞争对手是为了它的云计算战略和Azure云业务的考虑，参与开源项目和开源社区也都是围绕着这一战略。Linux基金会的新闻稿列举了微软在开源方面的贡献：开源了.NET Core 1.0、与Canonical 合作将Ubuntu带到 Windows 10上，开源了Xamarin的软件开发工具，等等。
+➜Google加入微软的.NET基金会
+https://www.solidot.org/story?sid=50400	9712
+在本周三举行的 Connect() 开发者大会上，微软<a href="https://techcrunch.com/2016/11/16/google-signs-on-to-the-net-foundation-and-samsung-brings-net-support-to-tizen/" target="_blank"><u>透露</u></a> Google 加入了它的.NET基金会。微软在2014年成立.NET基金会管理和引导开源.NET开发。Google还将加入到基金会的技术指导小组，小组的其他成员来自Red Hat、Unity、三星、JetBrains以及微软。Google的Cloud Platform允许开发者部署.NET应用程序，搜索巨人也是活跃的.NET开源贡献者。Google加入.NET基金会并不令人感到意外，但看到两家在很多方面展开竞争的公司能找到可以合作的项目，仍然让人兴趣盎然。此外，三星也宣布将.NET带到了它的Tizen操作系统，此举旨在吸引更多开发者为它的
+Tizen平台开发应用。
+➜你的手机是否预装了广升的软件？
+https://www.solidot.org/story?sid=50401	12497
+<div align="center"><img src="http://img.solidot.org/0/962/lirQxGq8j64QQ.png" height="103" width="450" align=""><br>
+</div>
+<br>
+提供固件云更新服务（FOTA）的上海广升信息技术有限公司被发现在固件中<a href="http://www.solidot.org/story?sid=50382" target="_blank"><u>植入了后门</u></a>，将用户大量的私人信息发送到其服务器上。该公司声称是失误，不小心将为中国市场开发的监控系统/后门安装到了在美国销售的产品中。对于中国用户来说，这就带来了一个极其严重和敏感的问题：我的手机是否内置了广升的软件，它是否在收集私人信息？根据其官网的广告（如图所示），它在全世界有7亿激活用户，那么它在中国有多少激活用户？广升就后门一事在<a href="http://www.adups.com/article/show_article.php?id=162" target="_blank"><u>英文声明</u></a>（中文没有）中宣称，为了确保提供正确的更新和服务，它需要收集手机型号信息、设备状态、应用信息、bin/xbin信息、手机和消息的概要信息，利用这些信息验证合适的更新和服务发送到正确的设备上。它声称被外界称为后门的功能是应中国客户要求开发用于识别垃圾短信和广告骚扰电话。至于它的声明是否可信另当别论。我们所关心的是我们随身携带的手机是否含有广升的服务。简单的方法是监控流量，判断设备是否访问了广升的域名如bigdata.adups.com和ebootv5.adsunflower.com（该域名可用于发送提权指令）。还有一种方法是识别广升的客户，如果你是苹果手机用户，你不用担心，广升的客户主要是Android厂商。消费者报告<a href="http://www.consumerreports.org/privacy/what-you-need-to-know-about-phones-secretly-sending-data-china/" target="_blank"><u>正在调查</u></a>有多少Android手机使用了广升的固件更新服务：Blu受影响的产品包括R1 HD、Energy X Plus 2、Studio Touch、Advance 4.0 L2、Neo XL和 Energy Diamond；Google称它的Nexus 和Pixel手机没有使用广升的固件，但无法提供其它 Android手机的信息；中兴称它在美国销售的机型没有使用广升的固件，华为称它与广升没有任何形式的业务往来；LG称它的手机没有受到影响，OnePlus 和 HTC表示正在调查。安全公司Trail of Bits的CEO称，从中国审查者的角度看，这个功能不是bug而是特性。
+➜Twitter 关闭极右活动人士的账号
+https://www.solidot.org/story?sid=50402	14191
+在推出打击仇恨言论的新工具和功能之后，Twitter <a href="https://www.theguardian.com/technology/2016/nov/16/twitter-suspends-american-far-right-activists-accounts" target="_blank"><u>又关闭了</u></a>多个美国极右活动人士的账号。被关闭的账号包括了自称白人民族主义者的National Policy Institute、它的杂志Radix、它的领袖Richard Spencer，以及其他知名的极右人士如Pax Dickinson 和 Paul Town。Spencer将此举形容为企业斯大林主义，称“Twitter企图抹杀极右的存在，他们明显是害怕了，他们将会遭到失败”。Reddit 论坛 r/altright则称此举是“净化”。Twitter发言人则表示这些账号违反了它禁止暴力威胁的规章。
+➜Google 发布 Google Earth VR
+https://www.solidot.org/story?sid=50403	18134
+Google 发布了其著名地理软件 Google Earth 的<a href="https://vr.google.com/earth/" target="_blank"><u>虚拟现实版本</u></a>。<a href="http://store.steampowered.com/app/348250" target="_blank"><u>Google Earth VR</u></a> 已在Steam商店上架，支持HTC Vive头戴式显示器，用户可以免费下载，当然中国用户使用 Google Earth VR 还需要翻越虚拟长城。Google<a href="https://news.slashdot.org/story/16/11/16/232204/google-launches-earth-vr-for-free-on-htc-vive" target="_blank"><u>表示</u></a>Earth VR不是Demo而是产品。它利用高清的卫星照片、高程数据和详细的3D模型让用户不用出门就可以畅游世界，流连大好河山参观著名名胜古迹。
+➜SpaceX申请发射4425颗互联网卫星
+https://www.solidot.org/story?sid=50404	25561
+私人太空公司 SpaceX 向美国联邦通讯委员会(FCC)递交了发射4425颗互联网卫星的<a href="http://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/swr031b.hts?q_set=V_SITE_ANTENNA_FREQ.file_numberC/File+Number/%3D/SATLOA2016111500118&amp;prepare=&amp;column=V_SITE_ANTENNA_FREQ.file_numberC/File+Number" target="_blank"><u>申请</u></a>。SpaceX计划在初期部署1600颗卫星，最后再加入另外2825颗，总共4425颗。这些卫星星座将分成5个轨道高度和不多于32个轨道平面，每颗卫星重386公斤。整个项目的预估总成本在50亿到100亿美元左右。如果它真能为缺乏互联网基础设施的十多亿人口提供卫星联网服务的话，这一费用看起来并不高。SpaceX 的创始人Elon Musk 在2014年11月宣布了发射互联网卫星的计划，2015年6月<a href="http://www.solidot.org/story?sid=44384" target="_blank"><u>申请测试</u></a>太空互联网服务。
+➜Edward Snowden认为假新闻不是问题，过于依赖Facebook才是问题
+https://www.solidot.org/story?sid=50405	28448
+社交媒体被认为帮助特朗普击败希拉里赢得美国总统选举，很多人怪罪Facebook传播假新闻助力特朗普，Facebook 创始人 Mark Zuckerberg 则迅速驳斥了这一说法。前NSA泄密者 Edward Snowden 认为假新闻其实不是问题，<a href="http://www.scribblrs.com/snowden-stop-relying-facebook-news/" target="_blank"><u>真正的问题是将Facebook作为唯一的新闻来源</u></a>。因为网络效应和先发优势，人们选择 Google 或Facebook 或 Twitter后就不再离开，这些社交网络支配了人们的网络生活。他认为，如果人们有多个新闻来源，鉴定假新闻将会更加容易。他建议最好停止将 Facebook作为唯一的新闻来源。
+➜科学家给年老老鼠注射年轻人类的血液恢复其青春活力
+https://www.solidot.org/story?sid=50406	30355
+科学家发现有证据<a href="https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/" target="_blank"><u>显示</u></a>，给年老的身体注入年轻人的血液能恢复其活力——即使这些年老的身体不属于人类。在实验中，研究人员从一组18岁的健康人类身上提取血液样本，注射到12个月大的老鼠体内——这个年龄相当于人类的50岁。在3周时间内，老鼠每周两次接受了人类血浆注射。测试显示，年老的老鼠再次表现出与控制组年轻老鼠相类似的活力。年轻人类的血浆改进了老鼠的认知能力。研究人员希望他们的发现未来能用于人类的抗衰老治疗。
+➜中国告诉特朗普气候变化不是中国编造的谎言
+https://www.solidot.org/story?sid=50407	31171
+中国外交部副部长刘振民在摩洛哥马拉喀什《联合国气候变化框架公约（UNFCCC）》第22次缔约方大会（COP22）上表示，“气候变化不是中国人编造的谣言。”美国候选总统特朗普多年来一直是气候变化阴谋论的支持者，2012年他在一个<a href="https://twitter.com/realdonaldtrump/status/265895292191248385?lang=en-gb" target="_blank"><u>Twitter帖子</u></a>上说，全球变暖的概念<a href="http://www.bloomberg.com/news/articles/2016-11-16/china-tells-trump-that-climate-change-is-no-hoax-it-invented" target="_blank"><u>是中国人创造的</u></a>，旨在让美国制造变得没有竞争力。“在上世纪80年代，中国政府并没有意识到会有很多的气候变化磋商，当时主要是美国和欧盟在做，”刘振民介绍说，在当时，同属共和党的里根和老布什就一直支持气候变化谈判。<a href="http://china.caixin.com/2016-11-17/101008425.html" target="_blank"><u> 刘振民表示</u></a>，美国在《巴黎协定》的撰写和批准过程中也发挥了领袖的作用，中国希望美国能在气候变化领域继续发挥原有的作用，人们不想见到《京都议定书》的重演。
+➜微软宣布Visual Studio 2017和Visual Studio for Mac
+https://www.solidot.org/story?sid=50408	32550
+在本周三举行的 Connect() 开发者大会上，微软正式宣布了<a href="https://www.visualstudio.com/vs/visual-studio-2017-rc" target="_blank"><u>Visual Studio 2017</u></a>和<a href="https://www.visualstudio.com/vs/visual-studio-mac/" target="_blank"><u>Visual Studio for Mac</u></a>，软件巨人分别释出了VS2017年的RC版本和VS for Mac的预览版本。VS官方博客<a href="https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-2017-rc/" target="_blank"><u>介绍称</u></a>，VS2017改进了智能感知、导航、实时代码分析、调试等功能，改善了移动和云开发体验。Visual Studio for Mac则是VS家族的新成员，让开发者可以在苹果的操作系统上利用.NET技术为各个平台开发应用。微软称它包含了完整的 .NET API for Android、iOS、tvOS、watchOS和 macOS。更多细节可参考<a href="https://developer.xamarin.com/releases/vs-mac/preview/vs-mac-preview1/" target="_blank"><u>发布公告</u></a>。
+➜中国央行招聘区块链专家开发数字货币
+https://www.solidot.org/story?sid=50409	33703
+根据央行公布的<a href="http://www.pbc.gov.cn/renshisi/144501/144513/144706/3183358/index.html" target="_blank"><u>招聘广告</u></a>（详细招聘要求需下载<a href="http://www.pbc.gov.cn/renshisi/144501/144513/144706/3183358/2016110910501414928.xls" target="_blank"><u>文件</u></a>），它的印制科学研究所招聘六名计算机科学和信息安全密码学专业人士从事数字货币及相关底层平台的软硬件系统的架构设计和开发工作，表示“具有系统架构设计经验、区块链技术开发或应用经验、大数据平台开发经验者优先”。中国央行显然正在着手数字货币的开发。财新网<a href="http://finance.caixin.com/2016-11-17/101008304.html" target="_blank"><u>报道称</u></a>，央行数字货币研究所年底前有望挂牌成立。央行数字货币研究所筹备组组长姚前在接受采访时表示，关于法定数字货币的原型系统研发正在进行中。至于何时能推出中国央行的法定数字货币暂无时间表。他称，未来在较长时期内，数字货币和纸币将并存流通。对于普通百姓来说，未来到银行取钱时，既可以选择兑换实物现金，也可以选择兑换数字货币。
+➜冥王星发现地下海洋
+https://www.solidot.org/story?sid=50410	35808
+科学家发现有证据显示冥王星的冰冻表面之下<a href="http://www.reuters.com/article/us-space-pluto-idUSKBN13B2F7" target="_blank"><u>存在地下海洋</u></a>。冥王星的海洋位于冰冻表面下150到200公里，深大约100公里。由于海洋上方的冰是如此之多，科学家普遍认为冥王星并不是存在生命的主要候选行星。但用研究者之一的MIT行星科学家Richard Binzel的话说，永远不要说不可能这个字。液态水被认为是生命的基本元素。研究人员在分析2015年NASA新地平线号探测器飞跃冥王星期间收集的数据和图像后得出了这一发现。虽然冥王星的距离40倍于日地距离，但它有足够的辐射热保持水呈液态。研究报告发表在本周的《<a href="http://www.nature.com/nature/journal/v539/n7629/index.html" target="_blank"><u>自然</u></a>》期刊上。
+➜财富大跃进为何始于英国
+https://www.solidot.org/story?sid=50411	40426
+人类的工业革命和财富大跃进都始于英格兰，问题是<a href="http://cn.wsj.com/gb/20161117/OPN150105.asp" target="_blank"><u>为什么英格兰这么特别</u></a>？西北大学经济史学家Joel Mokyr在其新作《<a href="https://www.amazon.com/Culture-Growth-Origins-Schumpeter-Lectures/dp/0691168881/" target="_blank"><u>A Culture of Growth: The Origins of the Modern Economy</u></a>》中认为，这一切要归功于英格兰的独特文化，这种独特文化催生了技术进步。现代技术革命出现的三大因素是：欧洲四分五裂的政治版图有利于科学的发展，一个地方受迫害的人能逃避到另一个地方：古腾堡发明的活字印刷术；知识分子群体的兴起。中国也有过浓厚的文人氛围，但由于儒家学说一直占主导，不存在可容忍异议的政党或独立政治实体，任何创新都可能被官僚政府阻碍。而史学家迪尔德丽•麦克洛斯基新书《资产阶级的平等》认为，是自由，让英格兰如此与众不同。
+➜受诅咒的中国独角兽公司
+https://www.solidot.org/story?sid=50412	42494
+在中国古代神话中，麒麟——独角兽——的到来代表着伟人的降临或死亡，比如孔夫子。中国科技行业的麒麟——估值10亿美元的创业公司——<a href="https://www.bloomberg.com/news/articles/2016-11-15/china-s-tech-unicorns-look-increasingly-cursed" target="_blank"><u>看起来越来越像是受到了诅咒</u></a>。世界估值最高的7家私有公司有4家在中国，它们都是过去7年成立的。滴滴出行和小米的估值都高于Airbnb 和Snapchat，中国有7家公司估值超过百亿美元，37家超过10亿美元。这些中国公司曾被视为模仿者，如今却被视为全球的潜在征服者。《连线》英国将小米创始人雷军作为封面特写人物，宣称是时候模仿中国了。然而，围绕这些公司的怀疑也日渐增多。GGV Capital的合伙人Jenny Lee说，纸面的独角兽不过是纸独角兽。启明创投的合伙人Gary Rieschel说，创业公司开始悄悄接受更低的估值，“重力最终将抓住它们。”小米曾是中国最大的智能手机制造商，但如今已经降到了第四位，它的估值也减少了九成，被认为只有50亿到100亿美元。滴滴出行如今面临严厉的政府监管，退出中国市场的Uber很可能笑到了最后。
+➜俄罗斯开始屏蔽LinkedIn
+https://www.solidot.org/story?sid=50413	44299
+俄罗斯通信监管部门Roskomnadzor 周四下令ISP<a href="http://www.reuters.com/article/us-russia-linkedin-idUSKBN13C0RN" target="_blank"><u>屏蔽</u></a>美国职业社交网络LinkedIn。在这之前，莫斯科一家法庭判决LinkedIn违反了俄罗斯的数据保存法律，该法律要求将俄罗斯用户的数据储存在俄罗斯境内的服务器上。<span id="article-text">Roskomnadzor 发言人称，</span>LinkedIn将在24小时内被屏蔽。ISP Rostelcom表示它已经屏蔽了LinkedIn。另外两家ISP MTS和Vimpelcom表示将在24小时内执行该命令。Roskomnadzor发言人表示LinkedIn已经致函请求在周五会面。

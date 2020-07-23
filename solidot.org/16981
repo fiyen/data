@@ -1,0 +1,49 @@
+➜AI在模拟空战中战胜人类飞行员
+https://www.solidot.org/story?sid=48751	9797
+辛辛那提大学开发的人工智能战斗机驾驶系统ALPHA在模拟空战中<a target="_blank" href="http://www.popsci.com/ai-pilot-beats-air-combat-expert-in-dogfight?src=SOC&amp;dom=fb"><u>击败了</u></a>人类飞行员驾驶的战斗机。ALPHA使用了4个模拟喷气战机对抗两个攻击战机，在没有损失的情况下，成功地防守一个海岸线。由退役飞行员驾驶的两架战斗机组成的蓝队配备了更强的武器系统。但ALPHA的红队通过躲避动作击败了敌机。ALPHA<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2016/06/160628_ai_combat_air_to_air"><u>利用了模糊逻辑</u></a>，在作决定前会考虑广泛的选择。因为模拟战斗机产生了大量数据可供解读，因此究竟哪种动作最具优势，或在什么时机应该用某种武器的问题并不总是一目了然。模糊逻辑系统能够权衡单个数据的重要性，然后作出比较大致性的决定。
+➜赛门铁克/诺顿安全产品发现类蠕虫高危漏洞
+https://www.solidot.org/story?sid=48752	13092
+Google Project Zero研究员Tavis Ormandy在官方博客上<a target="_blank" href="https://googleprojectzero.blogspot.my/2016/06/how-to-compromise-enterprise-endpoint.html"><u>报告了</u></a>赛门铁克/诺顿安全产品发现的可远程利用的类蠕虫高危漏洞。漏洞让数以百万计的消费者、小企业和大型机构面临自我复制攻击。根据赛门铁克公布的<a target="_blank" href="https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&amp;pvid=security_advisory&amp;year=&amp;suid=20160628_00"><u>安全公告</u></a>，受影响的产品多达25款，其中赛门铁克企业级产品17款，诺顿消费者和小企业级产品8款。Ormandy警告称，漏洞非常容易利用，能在目标网络内甚至互联网范围内病毒式扩散，它具有了蠕虫病毒的特性。漏洞与赛门铁克产品使用的解包器相关，在解析恶意文件包含的代码时可能会导致内存崩溃、整数溢出或缓冲溢出。解包器直接工作在系统内核上，因此攻击者可以利用漏洞控制整个系统。Ormandy称，赛门铁克使用了过滤器驱动去拦截所有的系统I/O，只要向受害者发送文件或链接就足以触发漏洞。受害者不需要打开文件或点击链接，不需要任何交互。因为不需要交互就能利用，这个类蠕虫漏洞潜在会对赛门铁克和诺顿的用户造成灾难性后果。赛门铁克或诺顿用户最好尽快升级——<a target="_blank" href="http://arstechnica.com/security/2016/06/25-symantec-products-open-to-wormable-attack-by-unopened-e-mail-or-links/"><u>或者卸载</u></a>。赛门铁克的产品不是唯一发现存在高危漏洞的安全产品。
+➜微软恢复Windows10升级通知窗口的关闭功能
+https://www.solidot.org/story?sid=48753	14245
+微软本周将向Windows 7/8.1用户推送<a target="_blank" href="http://www.zdnet.com/article/microsoft-to-make-saying-no-to-windows-10-update-easier/"><u>新的Windows10升级通知</u></a>，其最大的变化是恢复窗口X按钮的关闭功能。微软的Windows 10升级策略已经招致了广泛的批评，前不久Windows10升级通知曾引入了一个更受争议的变化——用户点击红色X按钮关闭窗口会被视为默认同意升级。新的变化是点击X按钮表示用户拒绝升级。微软计划在下个月释出Windows 10周年更新，同时一年免费升级期限也已经到期，微软据说此后将不再提醒用户升级到Windows 10。
+➜GitHub公布2015年透明度报告，暗示收到国家安全信函
+https://www.solidot.org/story?sid=48754	18264
+流行源代码托管平台GitHub公布了<a target="_blank" href="https://github.com/blog/2202-github-s-2015-transparency-report"><u>2015年透明度报告</u></a>，报告暗示它收到国家安全信函，但被禁止披露是否收到。GitHub称，它在2015年收到12张要求提供用户数据的法庭传票，主要与犯罪调查、民事诉讼有关，还有外国政府机构通过美国司法部提出要求；0-249封国家安全信函，它被禁止说是否收到0封国家安全信函；2015年只收到一个来自外国政府的删除要求，大部分删除要求都是在DMCA下递交的，它总共收到505个DMCA删除通知。
+➜Sergey Brin认为硅谷不再适合创办企业
+https://www.solidot.org/story?sid=48755	19384
+Google联合创始人Sergey Brin认为，硅谷不再是一块欢迎创业者白手起家创办企业的地方。Sergey Brin认为硅谷之外地方比硅谷<a target="_blank" href="http://www.businessinsider.com/sergey-brin-on-starting-a-company-in-silicon-valley-2016-6"><u>更适合创业</u></a>。涌入硅谷的科技创业公司导致了<a target="_blank" href="http://www.solidot.org/story?sid=47434"><u>当地房价房租暴涨</u></a>。他说，在科技创业的繁荣期间，房地产、薪水等成本的期望都在上升，使得创业公司难以做到自给自足，其他地方比硅谷更适合创办企业。他同时指出，硅谷的一大优势是有利于扩大机遇。
+➜发现数论和几何紧密联系的年轻数学家
+https://www.solidot.org/story?sid=48756	29006
+2010年，一个令人惊讶的流言传遍了数论社区，传到了德国波恩大学数论学家<a href="http://math.bu.edu/people/jsweinst/">Jared Weinstein</a>的耳中：该校的一名研究生将228页长的数论难题证明简化成<a href="http://arxiv.org/abs/1010.1540"><u>37页</u></a>（预印本）。当时年仅22岁的学生<a href="http://www.math.uni-bonn.de/people/scholze/">Peter Scholze</a>找到了方法绕过了证明的最复杂部分。Weinstein说，一个如此年轻的人做出了如此具有革命性的工作不得不让人感到震惊。Scholze仅仅在两年之后就成为了波恩大学的全职教授，他被誉为世界上最有影响力的数学家之一，是几十年才会出现一个的天才，被认为很有希望获得菲尔茨奖。Scholze的主要成就是被称为<a target="_blank" href="https://en.wikipedia.org/wiki/Perfectoid"><u>perfectoid空间</u></a>的理论。大多数数学家对Scholze的反应混合着敬畏、恐惧和兴奋，这不是因为他的个性，他的个性非常平易近人和友好，而是<a target="_blank" href="https://www.quantamagazine.org/20160628-peter-scholze-arithmetic-geometry-profile/"><u>他令人胆怯的看穿事物本质的能力</u></a>。Scholze在14岁开始自学大学水平的数学，16岁开始阅读Andrew Wiles的费马大定理证明，虽然费马大定理本身非常简单，但证明利用了最先进的数学理论。他没有看懂但仍然为此着迷。高中毕业后他在波恩大学继续追逐对数论和几何的兴趣。他的同学说，他上数学课从不记笔记，因为他能同步理解课程内容，不仅仅是理解，而是某种程度的深入理解，因而不会遗忘。
+➜NASA的Space Launch System助推器完成最后点火测试
+https://www.solidot.org/story?sid=48757	31320
+<div align="center"><img src="http://img.solidot.org/0/625/li38vmzeRPyU.jpg" height="274" align="" width="450"><br>
+</div>
+<br>
+NASA的新一代重型火箭发射系统<a target="_blank" href="https://en.wikipedia.org/wiki/Space_Launch_System"><u>Space Launch System（SLS）</u></a>的助推器周二<a target="_blank" href="https://www.nasa.gov/press-release/nasas-space-launch-system-booster-passes-major-milestone-on-journey-to-mars"><u>成功完成了</u></a>第二次也是最后一次地面点火鉴定测试。SLS是NASA正在研发的世界最强大火箭，是重返月球、探索小行星和火星等未来太空任务的核心发射系统。SLS计划在2018年发射无人的Orion飞船进入月球轨道。SLS火箭将使用2个助推器和4个RS25引擎。周二的测试持续了2分钟，点火时内部温度接近6000度。
+➜人类导致许多物种灭绝，但也创造了许多新物种
+https://www.solidot.org/story?sid=48758	32477
+二战期间，伦敦居民为逃避德国空袭而躲进地铁，他们在地铁里遭遇了另一类敌人：一种特别爱咬人的蚊子。50年后，伦敦大学科学家对这种蚊子进行研究后<a target="_blank" href="http://www.nature.com/hdy/journal/v82/n1/full/6884120a.html"><u>得出结论</u></a>，它们属于一种适应人类所造地铁生活的新物种。类似的故事并不罕见，人类在造成很多物种灭绝的同时，也在<a target="_blank" href="http://www.wired.com/2016/06/humanity-killing-off-thousands-species-creating/"><u>创造新物种</u></a>，创造的过程可能是有意识的挑选出对人类有益的野生动物特性进行人工驯化和饲养，还有就是驱动类似地铁蚊子的适应环境的演化。研究人员在《Proceedings of the Royal Society B》期刊上发表<a target="_blank" href="http://rspb.royalsocietypublishing.org/lookup/doi/10.1098/rspb.2016.0600"><u>论文</u></a>，称过去1.2万年科学家记录到1359种植物和动物的灭绝，同时人类重定位了891种动植物物种，驯养了743种——总共创造了1634种物种。
+➜Akamai报告称全球网速提高12%
+https://www.solidot.org/story?sid=48759	33954
+CDN服务商Akamai公布了2016年第一季度的<a target="_blank" href="https://www.akamai.com/us/en/our-thinking/state-of-the-internet-report/index.jsp"><u>互联网现状报告</u></a>，称网速比上一季度快了12%至6.3 Mbps，比去年同期快了23%。报告还称，IPv6普及度增加，IPv4地址数量比上一季度减少0.2%（约180万）。韩国仍然是全球平均网速最高的国家（29.0 Mbps），比利时是IPv6普及度最高的国家（36%）。
+➜Mozilla用绘文字传授加密知识
+https://www.solidot.org/story?sid=48761	35643
+<div align="center"><img src="http://img.solidot.org/0/626/liNEd2GJaXr2.png" height="153" align="" width="450"><br>
+</div>
+<br>
+Mozilla开发了一个游戏兼学习工具<a target="_blank" href="https://learning.mozilla.org/codemoji"><u>Codemoji</u></a>，利用流行的绘文字去传授基础加密知识。Mozilla执行董事Mark Surman称，当更多的人理解加密如何工作，为什么加密对他们重要，那么在最重要的时候将会更多的人支持加密。Mozilla相信，当更多的人理解加密对在线生活的重要性，开放互联网才能发展壮大。
+➜fMRI软件被发现不能信任，会产生错误结果
+https://www.solidot.org/story?sid=48762	41785
+被功能性磁共振成像扫描仪（fMRI）用于分析大脑活动的软件<a target="_blank" href="http://phys.org/news/2016-06-softwares-fmri-yield-erroneous-results.html"><u>被发现不能信任</u></a>，会产生错误结果。<a target="_blank" href="http://www.pnas.org/content/early/2016/06/27/1602413113"><u>研究报告</u></a>（<a target="_blank" href="https://arxiv.org/abs/1511.01863"><u>预印本</u></a>）发表在PNAS上。软件使用了旧的不可靠的分析方法，研究人员的对比测试显示，旧的方法在60%的案例中显示出了错误的大脑活动。研究人员提出了新的更可靠的计算密集方法，新的方法需要更长的图像处理时间，但在现代显卡的帮助下，处理时间从10年减少到了20天。
+➜物理学家开发出广义相对论宇宙模拟软件
+https://www.solidot.org/story?sid=48763	44230
+出于简化和降低计算需求的理由，现有的宇宙模型涉及到了牛顿引力理论，并在描述宇宙膨胀时假设了一个均质的宇宙。从最大的尺度看，宇宙是均质的；但从较小尺度看，宇宙明显是非均质的，物质的分布并不均衡。而根据不同区域物质的密度，宇宙的膨胀率在不同的区域是存在差异的。现在，美国和欧洲的两个物理学家团队分别独立开发出一组新代码，<a target="_blank" href="http://physicsworld.com/cws/article/news/2016/jun/28/relativistic-codes-reveal-a-clumpy-universe"><u>首次能运用爱因斯坦完整的广义相对论去模拟宇宙的演化</u></a>。美国研究人员开发的代码尚未公开，而欧洲团队的代码已经公开。欧洲研究人员使用了名叫<a href="http://einsteintoolkit.org">Einstein Toolkit</a>的自由软件集合，名叫Cactus 的软件组合了各种执行特定任务的模块，如一个模块计算爱因斯坦场方程，另一个模块计算引力波。美国研究团队表示将会尽可能快的公开代码。
+➜Windows 10周年更新将在8月2日释出
+https://www.solidot.org/story?sid=48764	44813
+Windows 10在2015年7月29日发布，而它的周年更新将于<a target="_blank" href="http://arstechnica.com/information-technology/2016/06/windows-10-anniversary-update-coming-august-2-for-350-million-windows-10-users/"><u>2016年8月2日释出</u></a>。为了庆祝更新，微软正在Microsoft Store搞促销活动。Windows 10周年更新的主要变化包括了开始菜单布局调整，Edge浏览器支持扩展和改进标准支持，数字助手Cortana能整合 Windows 10 Mobile、iOS和Android平台上的Cortana应用，以及最令人兴奋的是加入了Linux子系统，提供了原生的Linux程序支持，用户可以直接在Windows环境运行Linux程序。
+➜宜家在美国加拿大召回3500万抽屉柜
+https://www.solidot.org/story?sid=48765	47129
+宜家周二<a target="_blank" href="http://cn.nytstyle.com/international/20160629/ikea-recall-tip-over-furniture/"><u>宣布</u></a>将在美国召回2900万件抽屉柜和梳妆台，加拿大的660万件产品也适用于召回，原因是有至少六名幼儿在家具倾倒事故中被压死。宜家美国公司总裁、首席执行官拉斯·彼得森(Lars Petersson)说，被召回家具本来就不是独立式的，需要用随附的安全带进行固定，他说这一步骤“在组装说明书中是不可或缺的一部分”。
+“只要经过正确的组装，它们其实是非常安全的产品。” “一个孩子的死亡是令人极度痛心的，”他说。“这样的事本不应发生。我们向经历这一变故的家人表示哀悼。”据安全委员会的数据，平均每两周会有一名幼儿在涉及家具或沉重的电视机倾倒的事故中死亡。每年有约3.8万人因倾倒事故需前往急救室，这其中多数为五岁以下的儿童。有许多案例是因为儿童将梳妆台下的抽屉拉出，像踩楼梯一样爬上去。

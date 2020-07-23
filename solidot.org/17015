@@ -1,0 +1,65 @@
+➜可重现的(Reproducible)编译打包PaX/Grsecurity
+https://www.solidot.org/story?sid=49156	5206
+<a href="http://https://hardenedlinux.github.io/">HardenedLinux</a> 写道<i> "为了在后棱镜时代更好的保证安全和隐私，Debian GNU/Linux社区开发<a target="_blank" href="https://wiki.debian.org/ReproducibleBuilds/About">Reproducible builds</a>以让用户或者开发人员可以验证软件包在分发的过程中或者编译过程被污染，对抗大规模监控的<a target="_blank" href="http://www.solidot.org/story?sid=39541">安全加固项目Mempo</a>曾经使用<a target="_blank" href="https://github.com/mempo/mempo-kernel">可重现的编译为PaX/Grsecurity打包</a>，受到Mempo的启发，<a target="_blank" href="http://hardenedlinux.org/system-security/2016/08/01/reproducbile-builds-for-pax-grsecurity.html">HardenedLinux社区成员实现了一套x86到x86以交叉编译的方式</a>且相对独立的针对PaX/Grsecurity进行了可重现的编译，<a target="_blank" href="https://github.com/hardenedlinux/grsecurity-reproducible-build">Reproducible build for PaX/Grsecurit</a>y的实现已经开源，enjoy the hack!"</i>
+➜大便胶囊无效
+https://www.solidot.org/story?sid=49157	7211
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "《MIT科技评论》发表文章显示大便胶囊无效，<a target="_blank" href="https://www.technologyreview.com/s/602044/poop-pills-surprise-failure-shows-that-the-microbiome-is-still-a-mystery/"><u>表明人体微生物环境仍然成谜</u></a>。
+<i>
+肠道艰难梭菌(Clostridium difficile)感染难以治愈，使用抗生素可能会因为杀死有益菌而使结果更糟糕。2011年美国大约有29K人受此影响。
+大便胶囊是将拥有健康微生物环境的人提供的大便（通过口服的方式）将其中细菌迁移到病人体内。今年早些时候，Seres医疗公司,et al.一篇<a href="http://jid.oxfordjournals.org/content/214/2/173.long">早期研究报告</a>认为该公司的SER-109大便胶囊对此细菌有效。但是人们并不知道其原理。但是最近<a href="http://ir.serestherapeutics.com/phoenix.zhtml?c=254006&amp;p=irol-newsArticle&amp;ID=2190006">二期临床</a>​的测试表明，使用大便胶囊和使用安慰剂的对比结果没有显著差异。结果令人失望。SER-109令人诧异的无效性表明人类对人体微生物环境复杂性的理解还处在一种"令人羞耻的"懵懂状态。"</i>
+➜TP-Link与FCC和解，允许路由器安装开源固件
+https://www.solidot.org/story?sid=49158	11585
+路由器制造商深圳普联（TP-Link）与美国联邦通信委员会（FCC）<a target="_blank" href="http://transition.fcc.gov/Daily_Releases/Daily_Business/2016/db0801/DA-16-850A1.pdf"><u>达成和解</u></a>，承认违反了美国的射频规定，销售了允许功率工作在批准限制之上的路由器。普联同意缴纳20万美元罚款，从现在开始遵守规定，以及允许客户在路由器上<a target="_blank" href="http://arstechnica.com/information-technology/2016/08/fcc-forces-tp-link-to-support-open-source-firmware-on-routers/#p3"><u>安装开源固件</u></a>。普联被指违反规定的路由器产品工作在2.4GHz频段。允许开源固件与普联的违反行为没有直接关系，事实上普联今年3月<a target="_blank" href="http://www.solidot.org/story?sid=47464"><u>表示</u></a>为了遵守 FCC 的规定而禁止安装第三方开源固件。因为FCC要求所有网络设备制造商阻止用户能直接修改射频参数(频率限制、输出功率、国家代码等）。FCC 现在要求普联在遵守 FCC 的规定的同时允许客户安装开源固件。
+➜FBI华裔雇员承认充当中国间谍
+https://www.solidot.org/story?sid=49159	13288
+美国司法部周一发表<a target="_blank" href="https://www.justice.gov/usao-sdny/pr/fbi-employee-pleads-guilty-manhattan-federal-court-acting-united-states-agent-chinese"><u>新闻稿</u></a>，46岁的华裔工程师 Kun Shan Chun ( aka Joey Chun ) <a target="_blank" href="http://www.theregister.co.uk/2016/08/01/fbi_techie_cops_to_china_spy_charge/"><u>承认充当中国间谍</u></a>。1969年Chun在中国广东出生，1980年11岁时移民美国，1985年成为美国公民，1997年加入FBI，一年后获得了机密工作许可。2006年， Kun和他的中国亲戚与一家名叫珠海科力莱科技有限公司的中国公司有了联系，他在美国为科力莱担任研究和顾问方面的工作换取经济报酬。2011年，Chun在意大利和法国旅游时被介绍给一位中国官员，向这位中国官员提供了一位FBI特工的身份和旅游计划相关的机密信息。这位官员后来要求 Chun 提供更多的内部情报，其中包括FBI内部结构和FBI使用的技术， Chun根据要求下载了FBI的组织图，删除的名字后转发给中国官员；用手机拍下了FBI使用的多种监控技术照片。他主要通过电子邮件、Skype、微信和个人电话与中国交换材料。中国官员为他的旅游提供费用，甚至还提供性工作者。
+➜从优步屈服于滴滴看美企在华难题
+https://www.solidot.org/story?sid=49160	17229
+在滴滴出行收购优步中国之后，《华尔街日报》发表了多篇文章谈论这笔大型收购案对于优步美国<a target="_blank" href="http://cn.wsj.com/gb/20160802/tec093952.asp"><u>竞争对手Lyft的影响</u></a>，以及美国企业<a target="_blank" href="http://cn.wsj.com/gb/20160802/tec115501.asp"><u>在中国发展的难题</u></a>。
+<i>优步当初进入中国时，怀揣数十亿美元资金和欲主导这一全球最大叫车市场的抱负。但这些并不够。美国互联网公司长期以来一直难以把握中国庞大人口和财富增长带来的机会。一些公司因严格的政府许可和审查制度而遇阻。政府审查使谷歌在2010年决定关闭位于中国内地的搜索引擎业务，并且也禁止用户在内地访问Facebook 和 Twitter 。滴滴出行的早期投资者阿米巴资本执行合伙人赵鸿称，到目前为止还没有一家外国互联网公司能在中国做大做强。美国商会大中华区执行主任王杰表示，市场环境越来越具有挑战性。他称，毫无疑问，中资企业的竞争力较五年或10年前有明显提升，但同时政府出台的网约车新规也越来越多地向中资企业的利益倾斜。优步中国发现，其在微信上的公众号频频遭到关闭，导致公司向普通消费者推广服务的尝试受挫。微信的拥有者腾讯也是滴滴的投资者。</i>
+➜Gawker 创始人 Nick Denton 申请破产
+https://www.solidot.org/story?sid=49161	25899
+在上诉法院拒绝签发紧急命令阻止 Hulk Hogan 获取1.4亿美元赔偿金后，Gawker 创始人 Nick Denton <a target="_blank" href="http://www.nydailynews.com/news/national/judge-rules-gawker-founder-start-paying-hulk-hogan-article-1.2734159"><u>申请个人破产</u></a>。 Denton 称他的资产在1000万到5000万美元之间，而负债则高达1亿到5亿美元。他的负债包括欠 Hogan 的1.25亿美元和从硅谷银行借贷的1150万美元，以及从 401(k)@ Gawker 基金借的5万美元和时代华纳有线账单120.88美元。他创办的 Gawker 媒体在6月份<a target="_blank" href="http://www.solidot.org/story?sid=48532"><u>申请破产</u></a>。<br>
+➜苹果用水枪替代手枪 Emoji
+https://www.solidot.org/story?sid=49162	27494
+<div align="center"><img src="http://img.solidot.org/0/778/lioDXh6JDbXE.jpg" height="225" align="" width="400"><br>
+</div>
+<br>
+苹果发表<a target="_blank" href="http://www.apple.com/newsroom/2016/08/apple-adds-more-gender-diverse-emoji-in-ios-10.html"><u>新闻稿</u></a>，宣布即将发布的iOS 10将引入超过100个新的和重新设计的绘文字（Emoji）。其中最受争议的一个变动是手枪绘文字将被绿水枪绘文字所取代。苹果控制虚拟武器的做法早已不是新闻：今年六月由于苹果和微软的反对，Unicode联盟<a target="_blank" href="http://www.solidot.org/story?sid=48647"><u>决定移除</u></a>来福枪绘文字和描绘五项全能选手持手枪的绘文字。微软也在自己的Windows 平台上用玩具枪绘文字取代了手枪绘文字，但其它平台和设备的开发商如Google、三星、Facebook和Twitter仍然使用现实版的手枪绘文字。这种各行其是的做法可能会引发误解：苹果用户发送的水枪绘文字在其他平台的用户眼里显示的是手枪绘文字，发送者会被认为违反了法律，<a target="_blank" href="http://money.cnn.com/2016/08/01/technology/apple-pistol-emoji/"><u>会被视为死亡威胁</u></a>：法国的一家法庭判了一名男子三个月徒刑，因为他向前女友发送的短信中包含了手枪绘文字。
+➜97%的YouTube连接是加密的
+https://www.solidot.org/story?sid=49163	29527
+YouTube <a target="_blank" href="https://youtube-eng.blogspot.com/2016/08/youtubes-road-to-https.html"><u>官方博客宣布</u></a>，97% 的 YouTube 连接是加密的，另外3%是因为一些设备不完整支持现代HTTPS，它计划未来逐步淘汰不安全的连接。YouTube 是世界流量最大的网站之一，它的软件工程师表示由于 AES 硬件加速已经广泛使用，部署HTTPS加密所有视频服务不需要额外增加机器，今天的HTTPS连接速度很快。YouTube工程师称，加密能确保数据完整性，部署HTTPS事实上帮助消除了许多类型的串流错误。YouTube 同时宣布其域名 youtube.com 将启用<a href="https://security.googleblog.com/2016/07/bringing-hsts-to-wwwgooglecom.html">HSTS</a>，帮助重定向HTTP到HTTPS。
+➜日本展出有“自主神经网络”的人形机器人
+https://www.solidot.org/story?sid=49164	30325
+<a href="mailto:wt.robotmocha@gmail.com">antisocial</a> 写道<i>
+"
+日本科学未来馆近日展出了一个名为“Alter”的<a href="https://www.engadget.com/2016/07/30/japan-humanoid-alter-robot/" target="_blank">人形机器人</a>。这个机器人带有中枢模式发生器(CPG)，可以模仿人的神经元，从而让机器人形成自己的行为模式，不受人类的控制，自主地对环境作出反应。举例来说，在环境温度降低时，Alter会发抖；当许多人靠近它时，Alter的身体也会紧张打颤。此外，这个机器人还会“<a href="http://v.qq.com/page/p/r/5/p0317effvr5.html" target="_blank">唱歌</a>”，并随着音乐自己舞动，但整个画面<a href="http://www.robotmocha.com/2016/08/02/creepiest_robot/" target="_blank">非常恐怖</a>。Alter将在日本科学未来馆展出至8月6日，之后科学家们会研究如何让它做更多事情，或者怎么让它更吓人一点。"</i>
+➜纽约州长禁止性罪犯玩 Pokemon Go
+https://www.solidot.org/story?sid=49165	30546
+在州长Andrew Cuomo 的<a target="_blank" href="https://www.governor.ny.gov/news/governor-cuomo-directs-department-corrections-and-community-supervision-restrict-sex-offenders"><u>指示</u></a>下，纽约州禁止有性犯罪前科者在假释期间下载、接触或参与任何网络游戏，其中包括 Pokemon Go。为了执行这一规定，纽约州<a target="_blank" href="http://www.bbc.com/zhongwen/simp/world/2016/08/160801_pokemon_go_new_york"><u>要求</u></a> Pokemon Go 的开发商Niantic 将纽约州提供的性犯罪者名单同游戏玩家名单做查对，以及从游戏中删除靠近性犯罪居所附近的精灵热点。假释官员还会告知性犯罪者玩 Pokemon Go 游戏或类似网络游戏将违反假释规定。纽约州的这一决定是基于两位参议员 Jeffrey Klein 和 Diane Savino 的报告，参议员访问了纽约市100位注册性罪犯的位置，发现了57个精灵和59个精灵热点。
+➜最后的猛犸象死于口渴
+https://www.solidot.org/story?sid=49166	35041
+科学家<a target="_blank" href="http://www.bbc.com/news/science-environment-36945909"><u>认为</u></a>，最后的猛犸象种群之一是因为缺乏饮用水而走向灭绝的。<a target="_blank" href="http://www.pnas.org/content/early/2016/07/27/1604903113"><u>研究报告</u></a>发表在PNAS上。
+<i>绝大多数猛犸象在1.05万年前就灭绝了，但阿拉斯加偏远岛屿圣保罗岛的一个种群继续生存了5000年，直至5600年前才灭绝。它们面临的威胁与生活在大陆上的表亲不同。随着冰河时代的结束和地球的变暖，海平面的上升导致了猛犸象生活的岛屿面积缩小。这意味着部分湖泊的消失，而盐水的流入进一步减少了淡水资源。它们只能聚集在有限的水坑附近，践踏着附近的植被，导致淡水越来越稀少。研究人员说，现代大象每天需要70到200升的水，如果猛犸象也需要这么多的话，不需要多长时间水坑就会干枯。缺少了水对它们而言将是致命的。
+</i>
+➜PlayStation Vita 被成功破解
+https://www.solidot.org/story?sid=49167	39301
+<div align="center"><img src="http://img.solidot.org/0/779/lihoXELO6sVAQ.png" height="181" align="" width="400"><br>
+</div>
+<br>
+黑客团体 Team Molecule 的成员<a target="_blank" href="http://arstechnica.com/gaming/2016/08/ps-vita-henkaku-homebrew-emulators/"><u>成功破解了</u></a>索尼的掌机 PlayStation Vita，允许用户在掌机上安装模拟器和自制软件。PS Vita于2011年12月在日本发布，配备了5英寸显示屏，4核ARM处理器，512MB内存。Team Molecule将他们的越狱方法取名为<a target="_blank" href="https://henkaku.xyz/"><u> HENkaku</u></a>，它能工作在最新的3.60版固件上，用户在掌机上访问 HENkaku 网站安装程序就能解锁硬件，移除文件系统的保护沙盒，用户就可以安装自制软件了，比如DOOM(如图所示)。这一越狱方法不具有永久性，如果掌机完全关闭那么重启之后需要重新安装。
+➜20年历史的bug被发现会泄漏微软 Live 账号登录信息
+https://www.solidot.org/story?sid=49168	41353
+1997年发现的微软自动认证漏洞从来没有修复过，现在研究人员发现该漏洞能在Windows 8和Windows 10下<a target="_blank" href="https://www.perfect-privacy.com/blog/2016/08/01/security-issue-in-windows-leaks-login-data/"><u>被利用泄漏微软 Live 账号的登录信息</u></a>。漏洞会曝光用户的登录名和密码的NTLMv2哈希值，而在GPU加速之下破解哈希密码不再变得困难。要触发这个漏洞，攻击者需要设置一个网络共享，然后诱骗受害者访问任何共享IP，比如在受害者访问的网站上嵌入指向共享IP的图像。当用户使用微软的产品尝试访问该链接时它会向其发送微软的账号。安全研究人员建议不要使用微软的浏览器或邮件客户端访问网络共享。Windows 用户可以通过 IE 或 Edge 访问<a target="_blank" href="https://msleak.perfect-privacy.com/"><u>这个Demo</u></a>了解自己的系统是否存在该漏洞，Chrome 和Firefox 不受影响。
+➜俄罗斯情报机构称能收集加密密钥
+https://www.solidot.org/story?sid=49169	44174
+俄罗斯总统普京上个月签署了受争议的反恐法律。根据新的法律，电信和互联网公司要求记录和储存所有客户消息六个月，要求所有消息应用内置加密后门，允许情报机构联邦安全局无需司法授权访问任何的用户加密通信。普京当时给了联邦安全局两周时间开发出收集加密密钥的方法。现在联邦安全局发表<a target="_blank" href="http://www.fsb.ru/fsb/science/single.htm!id=10437866@fsbResearchart.html"><u>声明</u></a>（俄语），声称它现在拥有了<a target="_blank" href="http://arstechnica.com/tech-policy/2016/08/russian-spies-say-they-are-able-to-collect-crypto-keys-but-dont-say-how/"><u>收集互联网服务用户加密的密钥的能力</u></a>。但目前不清楚它的话究竟代表什么意思，而新的反恐法律的适用范围也没有能人搞清楚。
+➜太阳能光合作用电池取得突破性进展
+https://www.solidot.org/story?sid=49170	44845
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "伊利诺伊大学芝加哥分校的研究者日前在太阳能光合作用电池研发上取得<a href="http://phys.org/news/2016-07-breakthrough-solar-cell-captures-carbon.html" target="_blank" title="太阳能光合作用电池取得突破性进展">突破性进展</a>，仅需太阳光为能量便能捕捉大气中的二氧化碳并将其转化为碳氢燃料(hydrocarbon fuel)。该研究由美国国家科学基金会和美国能源部资助，成果发表在7月29日的《<a href="http://science.sciencemag.org/content/353/6298/467" target="_blank" title="纳米结构过渡金属硫化物电催化剂减少离子溶液中的二氧化碳">科学</a>》期刊上，相关专利申请也已被批准。
+<i>新的电池不是光伏的，而是光合的。与传统的太阳能电池将太阳光转换成电能并储存在笨重电池中不同，这个新装置能像植物一样，毕去除大气中二氧化碳与高效生产高密度燃料于一役，可谓一石二鸟（植物则是利用太阳能捕获二氧化碳生成糖）。其主要使用了一种过渡金属硫化物电催化剂(TMDC)配合一种新型的乙基甲基咪唑四氟硼酸盐(ethyl-methyl-imidazolium tetrafluoroborate)离子溶液作为电解质。这种催化剂比传统的贵金属催化剂(比如银)更高效更便宜--反应快一千倍而价格仅二十分之一；新型的离子溶液则保证催化剂在这个狂野的还原反应中不被毒化和氧化。
+</p>
+研究者认为该技术有望能像太阳能农场一样被大规模使用，而且可被用于其大气主要成分为二氧化碳的火星，如果能在上面找到水的话。"</i>
+➜23andMe 发现忧郁症基因线索
+https://www.solidot.org/story?sid=49171	46810
+基因测试公司 23andMe 与制药巨头辉瑞合作，对超过45万客户的DNA进行研究后<a target="_blank" href="https://www.technologyreview.com/s/602052/23andme-pulls-off-massive-crowdsourced-depression-study/"><u>发现了忧郁症遗传线索</u></a>。研究识别出15个基因组区域与高忧郁症风险相关。23andMe 至今售出了100多万售价199美元的基因测试工具包。该产品主要是作为娱乐用途，比如发现测试者的种族背景。但超过半数客户同意对他们的DNA更深入的分析，并回答了健康方面的调查问卷。通过调查，23andMe了解到有14.1万被诊断有忧郁症的客户。在研究中，另外33.7万没有报告有忧郁症的客户作为控制组进行对比。

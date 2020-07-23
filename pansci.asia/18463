@@ -1,0 +1,220 @@
+➜面积仪无法加减乘除，却开创出「类比式计算机」新路│《电脑简史》（二十二）
+https://pansci.asia/archives/188526	8307
+<blockquote><p>本文为系列文章，上一篇请见：<a href="https://pansci.asia/archives/187761">第一位程式设计师爱达·勒芙雷斯，能否改变分析机的命运？│《电脑简史》 齿轮时代（二十一）</a></p></blockquote>
+<p style="font-size: 22px; line-height: 31px; font-weight: bold; color: #3c4b89;">巴贝奇发明的差分机与分析机远远超越他的时代，得不到认同，连在自己国家举办的万国博览会都无法参展。不过会场中有一种特殊的计算器，不能做加减乘除，却能直接「滚」出积分结果，从此开启类比计算机这条新路。</p>
+<h3>首度世界博览会开幕，不见差分机，却有面积仪？</h3>
+<p>1851 年，英国伦敦海德公园出现一栋由钢骨与玻璃盖成的巨大建筑。这栋长五百多公尺、高度近四十公尺的「水晶宫」(The Crystal Palace)，是为了万国工业博览会而兴建。这是史上首度举办的万国博览会，世界各国在此展出最新技术与发明。</p>
+<p>英国发起这场盛大的活动，目的在于展现工业革命之后的各项成果，以证明大不列颠的领导地位。各国不甘示弱，也都使出浑身解数，不只比谁有最新发明，更要争谁的设计更佳。因此除了有首度亮相的冲水马桶、传真机等全新的发明，也有望远镜、银版摄影这种原本就有的事物，再推出进化版；前面提到的雅卡尔织布机与柯玛四则运算器也在其中。</p><div class="pansc-content"></ins>
+<script async type="text/javascript" src="//cdn.holmesmind.com/js/init.js"></script></div>
+<div style="width: 599px" class="wp-caption aligncenter"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Crystal_Palace_-_interior.jpg" alt="" width="589" height="370"><p class="wp-caption-text"><span style="font-size: 14px;">1851 年於伦敦举行的第一届万国博览会。图：<a href="https://en.wikipedia.org/wiki/Great_Exhibition#/media/File:Crystal_Palace_-_interior.jpg">wikipedia</a></span></p></div>
+<p>巴贝奇原本殷切期待在此次万国博览会展出差分机模组，让世人见识他的发明，却因为与内阁关系交恶，未能如愿，还被排除在筹备委员会之外。其实就如上一章所说，即使巴贝奇真的成功打造出差分机，恐怕也会不符投资效益而卖不出去，就和其它山寨差分机一样，很快就无疾而终。反而是柯玛的四则运算器，用途单纯却便宜，还有不错的销路。</p>
+<p>当时一起展览的还有一种科学仪器叫面积仪 (Planimeter)，也是用途单纯、却相当成功的计算器。说是计算器，但其实面积仪并不做数字的加减乘除，它的运算取决于机械动作的连续变化，因此在类别上归属于类比式计算机。面积仪后来又衍生出各种不同用途的类比式计算机，现代数位式电脑出现之前，许多艰巨的计算工作都是靠它们完成的。</p>
+<h3>土地面积太难算，发明面积仪来解决</h3>
+<p>类比式与数位式的差别在于数值的连续性。类比式所处理的数值之间是连续不间断的，数位式所处理的则是一个个孤立的数字。例如从 0 到 9 之间的任何实数都包含在内，算是类比；而如果只有 0 到 9 这十个整数，则算是数位。若以几何来表示，类比就是0到 9 这一条线段，而数位就只有 0、1、2、……、9 这十个点。</p>
+<p>四则运算之类的计算器当然是数位式；但计算尺则算是类比式，因为游标左右滑动，可以指到任何一个数值。传统机械表的指针是以连续不间断的方式转动，所以是类比式；不过同样用指针的石英表则是数位式，因为秒针是一格一格地跳跃前进。巴贝奇的差分机与分析机虽然可以计算连续函数，却是利用代表 0 到 9十个数字的齿轮来运算，因此属于数位计算机；而面积仪则是用完全不同的方式计算连续函数。</p>
+<p>面积仪最早是巴伐利亚 (Bavaria，现德国的一邦) 一位公务员赫曼 (Johann Martin Hermann) 于1814 年发明。他负责地籍资料，为了计算每块土地的面积而大伤脑筋。</p>
+<p>土地形状若是像课本上那种简单几何图形，当然只需加减乘除，顶多加上三角函数就能算出面积。但实际上，土地边界常常有不规则曲线，得用微积分才能算出面积大小，这就不是一件简单的事，要有相当的数学程度才能胜任。而当有成千上万笔的土地需要计算，得耗费掉多少时间？又去哪儿找那么多数学家？</p>
+<p>你可能会觉得这听起来有点熟悉，没错，当年法国数学家德普罗尼也是因为测量土地需要数值表，而面临同样的难题。德普罗尼想出的解决之道，是利用差分法分拆计算过程，让不懂数学的美发师也能帮忙计算。赫曼则是直接思考如何用机器解决，才发明出面积仪。</p>
+<h3>不用计算数字，机械积分就能滚出积分结果</h3>
+<p>只要将面积仪置放在地图上，握著上面的铁针沿著土地轮廓描过一遍，就能自动算出面积大小（原理参见文末附注）。由于它是利用滚轮与圆锥体接触面的变化，算出积分的结果，过程中的变化起伏与呈现出的数值都是连续的，因此是不折不扣的类比计算机。这也是第一具不需计算数值，光靠机械运动就能得出积分结果的机器。</p>
+<div>flickr</a></p></div>
+<p>赫曼首创「机械积分」，为计算机开创出另一条不同的道路。不过他可能原本就是发明给自己内部使用，所以并未大肆宣扬，直到 1855 年出版的一本德国期刊介绍他的发明，世人才知道赫曼是最早的发明者，而这段期间已经有许多人也陆续发明出面积仪。 1851 年的万国工业博览会所展出的面积仪，便多达六款，分别来自义大利、瑞士、法国、英国等国。这些面积仪的构造略有不同，或增添滚轮、或用转盘取代圆锥体，但原理都不脱赫曼的原始设计。</p>
+<p>不过真正让面积仪商业化并获得广泛采用的，是瑞士数学家兼物理学家阿姆斯勒 (Jakob Amsler) 于 1854 年所改良的机型。原来的面积仪是基于直角座标系，将 X 轴与 Y 轴的位置变化转换为数值；阿姆斯勒改用极座标，测量的是角度与距离的变化。如此一来，阿姆斯勒便能把面积仪设计得更小巧，成本更低，而且使用起来更方便，计算结果也更准确，因此大受欢迎。三年后，阿姆斯勒干脆自己设厂生产极座标面积仪，在他 1912 年过世之前，一共卖出多达五万支。</p>
+<div>wikimedia</a></p></div>
+<h3>机械积分真好用，各式类比计算机由此衍生</h3>
+<p>面积仪既然可以用利用机械积分算出积分值，类似的原理应该也可以画出对应的积分函数。1878 年，波兰数学家阿巴卡诺维兹 (Bruno Abakanowicz) 发明积分仪 (Integraph)。将积分仪的描图臂沿著某一函数的曲线移动，另一根绘图臂就会同时画出这个函数的积分图形，例如将描图臂沿著 y=x 这条直线移动，绘图臂就会画出 y=1/2 x<sup>2</sup> 的曲线，相当于一台输出函数积分图解的计算机。</p>
+<p>除了积分仪，面积仪还衍生出许多不同用途的类比式计算机，其中契机正是源于1851 年的万国博览会，而关键角色竟是被誉为牛顿之后第二人的马克士威 (James Clerk Maxwell)。马克士威当时仍在剑桥大学就读，他也跑去参观万国博览会。面积仪的巧妙设计让他印象深刻，回去后继续思考其中原理，最后还发表论文，提出改善建议，竟因此开启了类比式计算机一连串的发展。</p>
+<hr><h3 style="text-align: center;">同场加映：面积仪的运作原理</h3>
+<p>面积仪有支活动的悬臂，末端插著细细尖尖的铁针。内部有个圆锥体，会随著悬臂前后移动而顺时针或逆时针转；以及一个与圆锥体表面接触的滚轮，滚轮会随著悬臂左右移动而上上下下。</p>
+<p>当铁针沿著土地边界移动，便会带动悬臂前后左右移动，使得滚轮随著圆锥体转动。铁针的位置若以直角座标 (x,y) 表示，y 越大，滚轮越靠近圆锥体底部，因此转越多圈。x 增加时，滚轮顺时针转，会累加转动的圈数，反之则逆时针转，倒扣转动圈数。滚轮连结到有如时钟的圆盘，上面的指针会跟著同步转动，所指的数字便是累计的圈数，也就是土地的面积。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/XQXO6edF6sA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<div class="wpbcap wpbcap-188167 wpbcap-_720">
+<p> </p>
+<hr><p><a href="https://www.surveycake.com/s/oVN8m"><img class="aligncenter wp-image-188315 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg" alt="" width="560" height="293" srcset="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-350x183.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-768x402.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-30x16.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429.jpg 1201w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+<p style="text-align: center;"><strong>全新计划《科学生线上学习平台》</strong><strong><a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">问卷</a>募集中！<a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">填答</a>就有机会获得精美好礼！</strong></p>
+<hr><p style="text-align: center;"><a href="https://panmarket.asia/product-category/%E7%A7%91%E8%A8%AD%E8%A8%88%E7%94%9F%E6%B4%BB/%E7%A7%91%E7%94%9F%E6%B4%BB%E5%89%B5%E6%84%8F/%E8%B3%AA%E6%84%9F%E5%B1%85%E5%AE%B6/?utm_source=720cap" target="_blank" rel="noopener"><img class="alignnone wp-image-188617 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg" alt="" width="560" height="315" srcset="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-350x197.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-768x432.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-30x17.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4.jpg 800w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+</div>
+<p>The post <a rel="nofollow" href="https://pansci.asia/archives/188526">面积仪无法加减乘除，却开创出「类比式计算机」新路│《电脑简史》（二十二）</a> appeared first on <a rel="nofollow" href="https://pansci.asia">PanSci 泛科学</a>.</p>
+➜想要拥有优雅又健康的老年生活吗？不妨来试试地中海饮食法～
+https://pansci.asia/archives/182330	18055
+<p>随著年龄增长，我们都无法阻止自己变老，但却可以养成正面的生活态度让自己优雅地成长。</p>
+<p>而<strong>地中海饮食</strong>的发现，正是基于义大利和希腊等国家的民众都特别健康，罹患长期疾病风险较低，身体衰老都格外缓慢而整理出来的一套饮食法。虽然我们不能搬去他们坐拥海天一色怡人美景的国家，但同样能学习这样既风味又传统的优良饮食习惯。</p>
+<div>pexels</a></p></div>
+<h2>地中海饮食的好处</h2>
+<h3>减缓衰老</h3>
+<p>衰老与身体功能恶化和炎症增加相关，而地中海风格饮食可以显著降低人体内与衰老过程相关的主要发炎因子 <strong>C 反应蛋白</strong>的水平。而地中海饮食能减慢位于染色体的末端的保护帽—端粒的磨损，阻止遗传密码在修复正常身体时所产生的细胞分裂过程被扰乱。</p><div class="pansc-content"></ins>
+<script async type="text/javascript" src="//cdn.holmesmind.com/js/init.js"></script></div>
+<h3>改善肠道菌群生态</h3>
+<p>老年人，特别是独居或长期居住在老年院的长者由于饮食不佳，会大大减低肠道中菌群的多样化。</p>
+<p>由于地中海饮食能增加每天摄取的膳食纤维以及维他命 C 、 B6 、 B9 、铜、钾、铁、锰和镁等相关的营养素。只需坚持地中海饮食，于 12 个月内就可改善人体肠道的菌群生态。良好的肠道菌群被证实了有助减缓身体机能，如步速和握力等等的下降；还能减缓脑功能如记忆力及认知能力的退化；并减少会引起炎症的潜在有害因子生成。</p>
+<h3>减少骨质疏松症患者的骨质流失率</h3>
+<p>在骨质疏松症患者中，引起髋部骨折最常见的原因为骨质流失。股骨颈是连接大腿骨的部位，该处的骨质流失、造成骨折会直接大大减低患者的活动能力。而研究发现，1000 名受试者，改采地中海饮食的骨质疏松症患者，其股骨颈中看到的骨骼密度反而有所增加。</p>
+<h3>减低罹患心血管疾病</h3>
+<p>地中海饮食中的橄榄油和鱼类都提供了大量的不饱和脂肪和 omega-3 脂肪酸， 可以降低三酸甘油酯、总胆固醇和坏的低密度脂蛋白胆固醇水平，减少血液凝结并降低中风和心力衰竭的风险。一项新的研究表明， 遵循地中海饮食的成年人在十年内心脏病发作的机率足足能减低 47％ 。</p>
+<h3>保持灵活思考</h3>
+<p>研究人员发现，跟随地中海饮食法的长者在认知功能测试中的得分，显著高于没有计划饮食的同年龄层人士。并在往后生活中患上认知障碍的风险较低。同时能减少随著年龄的增长而导致的大脑萎缩，帮助保留更多的大脑容量和协助学习和记忆力的脑细胞。</p>
+<h3>抑制癌细胞</h3>
+<p>跟随地中海饮食法能帮助预防各种癌症，包括乳腺癌、子宫内膜癌及皮肤癌等达 57% 。哪怕未能完全遵从，只要做到其中的5项也可以减低风险逾 30% 。癌细胞的可怕之处在于其抑制自身死亡，并无限制增生的能力。 其实在许多水果和蔬菜中都含抗癌的天然化学物，例如在芹菜和菊花茶中的芹菜素，可以阻止乳腺癌细胞抑制自身死亡。而以植物性食物为主的地中海饮食也大大鼓励了这些食物的摄取。</p>
+<h3>缓解胃酸倒流</h3>
+<p>胃酸倒流是最为常见的消化道疾病之一，无论是压力、高脂、高咖啡因的饮食习惯以及年纪增长都会令胃酸倒流恶化。胃酸倒流一般都是采用氢离子帮浦抑制剂 (PPIs) 类药物控制。但由于长期使用 PPI 类药物控制或会增加中风及心脏病的风险和造成肾脏损害。而采用地中海饮食有助舒缓胃酸倒流症状。临床研究显示能改善逾 60% 患者的反流症状指数 (RSI  –衡量胃酸倒流症状的严重程度) 。</p>
+<div>pexels</a></p></div>
+<h2>地中海饮食应该吃什么？</h2>
+<p>地中海饮食法并不是一套固定的餐单，而是分别鼓励和限制摄取某些食物。所以弹性比较大，也比较容易跟随。地中海饮食的主要 8 大要素包括：</p>
+<ol><li><strong>多吃水果和蔬菜</strong>：每天食用 7 至 10 份水果和蔬菜 （每份 150 克），尤其是绿叶蔬菜和苺类水果。前者含丰富膳食纤维，而后者则含抗衰老的花青素。</li>
+<li><strong>选择全谷物</strong>：改用全麦面包、谷物和面食作为碳水化合物的主要来源，以取代精制过谷物制品，如白面包、白米、义大利面和阳春面等等。</li>
+<li><strong>使用植物油</strong>：提倡使用含高不饱和脂肪的植物油烹饪，而非牛油或其他动物油。配面包时，可以用橄榄油代替果酱或牛油。</li>
+<li><strong>多吃海鲜</strong>：每周至少吃两顿或以上的鱼肉。新鲜或水装吞拿鱼，三文鱼，鲳鱼，鲭鱼和鳕鱼都是健康的选择。</li>
+<li><strong>减少红肉</strong>：除了鱼肉外，也可以多选择禽肉或豆类作为蛋白来源，限制红肉的摄取少于每周 500 克。</li>
+<li><strong>多吃坚果及种子类</strong>：选择不同的坚果及种子类作为零食，每天建议进食一手心份量 (约 30 克) 。</li>
+<li><strong>适量进食低脂乳制品</strong>：适量进食低脂的希腊／原味乳酪，以及低脂／脱脂牛奶，而非全脂的乳制品。</li>
+<li><strong>以香料调味</strong>：以各种香草和香料调味，不但能增加风味，更可以减少盐的需求。不少香草和香料，例如大蒜、洋葱及丁香等，都含大量抗氧化物和抗菌的天然化学物。</li>
+</ol><div>pexels</a></p></div>
+<h3>参考文献</h3>
+<ol><li>Zalvan, C. H., et al. (2017). “<a href="http://dx.doi.org/10.1001/jamaoto.2017.1454">A Comparison of Alkaline Water and Mediterranean Diet vs Proton Pump Inhibition for Treatment of Laryngopharyngeal Reflux.</a>" JAMA Otolaryngol Head Neck Surg 143(10): 1023-1029</li>
+<li>Jennings, A., et al. (2018). “<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6134287/">A Mediterranean-like dietary pattern with vitamin D3 (10 microg/d) supplements reduced the rate of bone loss in older Europeans with osteoporosis at baseline: results of a 1-y randomized controlled trial.</a>" Am J Clin Nutr 108(3): 633-640.</li>
+<li>Crous-Bou, M., et al. (2014). “<a href="http://dx.doi.org/10.1136/bmj.g6674">Mediterranean diet and telomere length in Nurses’ Health Study: population based cohort study.</a>" Bmj 349: g6674.</li>
+<li>Filomeno, M., et al. (2015). “<a href="http://dx.doi.org/10.1038/bjc.2015.153">Mediterranean diet and risk of endometrial cancer: a pooled analysis of three Italian case-control studies.</a>" Br J Cancer 112(11): 1816-1821</li>
+<li>Luciano, M., et al. (2017). “<a href="http://dx.doi.org/10.1212/WNL.0000000000003559">Mediterranean-type diet and brain structural change from 73 to 76 years in a Scottish cohort.</a>" Neurology 88(5): 449-455.</li>
+<li><a href="http://www.sciencedaily.com/releases/2013/05/130520154303.htm">Ohio State University. (2013, May 20). Compound in Mediterranean diet makes cancer cells ‘mortal’. ScienceDaily. Retrieved February 24, 2020</a></li>
+<li>Nilsson, P. M. (2014). “<a href="http://dx.doi.org/10.1136/bmj.g6843">Mediterranean diet and telomere length.</a>" Bmj 349: g6843.</li>
+<li>Ghosh, T. S., et al. (2020). “<a href="http://dx.doi.org/10.1136/gutjnl-2019-319654">Mediterranean diet intervention alters the gut microbiome in older people reducing frailty and improving health status: the NU-AGE 1-year dietary intervention across five European countries.</a>“</li>
+</ol><div class="wpbcap wpbcap-188167 wpbcap-_720">
+<p> </p>
+<hr><p><a href="https://www.surveycake.com/s/oVN8m"><img class="aligncenter wp-image-188315 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg" alt="" width="560" height="293" srcset="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-350x183.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-768x402.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-30x16.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429.jpg 1201w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+<p style="text-align: center;"><strong>全新计划《科学生线上学习平台》</strong><strong><a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">问卷</a>募集中！<a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">填答</a>就有机会获得精美好礼！</strong></p>
+<hr><p style="text-align: center;"><a href="https://panmarket.asia/product-category/%E7%A7%91%E8%A8%AD%E8%A8%88%E7%94%9F%E6%B4%BB/%E7%A7%91%E7%94%9F%E6%B4%BB%E5%89%B5%E6%84%8F/%E8%B3%AA%E6%84%9F%E5%B1%85%E5%AE%B6/?utm_source=720cap" target="_blank" rel="noopener"><img class="alignnone wp-image-188617 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg" alt="" width="560" height="315" srcset="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-350x197.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-768x432.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-30x17.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4.jpg 800w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+</div>
+<p>The post <a rel="nofollow" href="https://pansci.asia/archives/182330">想要拥有优雅又健康的老年生活吗？不妨来试试地中海饮食法～</a> appeared first on <a rel="nofollow" href="https://pansci.asia">PanSci 泛科学</a>.</p>
+➜今天空气好吗？即时监测 PM 2.5，「空气盒子」的奇幻之旅
+https://pansci.asia/archives/188472	25203
+<p style="font-size: 18px; color: #3c4b89; border-top: 2px solid; border-bottom: 2px solid; padding: 12px 10px; display: inline-block; letter-spacing: 1px; font-weight: bold;"><strong>本文转载自中央研究院<a href="https://research.sinica.edu.tw/pm25-air-box-new/" target="_blank" rel="noopener">研之有物</a>，泛科学为宣传推广执行单位。</strong></p>
+<h3 class="aio-icon-title ult-responsive" data-ultimate-target="#Info-box-wrap-7138 .aio-icon-title" data-responsive-json-new='{"font-size":"","line-height":""}'>用物联网和大数据减少 PM 2.5 危害</h3>
+<div>giphy</a></p></div>
+<p style="font-size: 22px; line-height: 31px; font-weight: bold; color: #3c4b89;">「今天要开窗还是空气清净机？」「哪条慢跑路线少吸一点废气？」统统交给空气盒子！2013 年起，在中研院、LASS 社群、民间企业、学校和政府……等跨界合作下，联手打造全世界规模最大的 PM 2.5 感测资料平台──以大量便宜、小型的感测器「空气盒子」构成绵密的空污监测网路。遍布台湾的四千多台空气盒子，可提供民众即时空污资讯，甚至预测空气品质。研之有物专访中研院资讯科学研究所、空气盒子推手陈伶志研究员，一起回首研发、推广空气盒子的奇幻旅程。</p>
+<p><a href="https://blissair.com/what-is-pm-2-5.htm?__cf_chl_captcha_tk__=083ee7f267437e98403c16b693a78729a2d46fc9-1594952517-0-AXywyVklNIvB1rwMBLBsScTeDAHW-n3qoraqQen_N2-MEkkmYyIxUy_IQVfvwtVSNWOyyD65jRStnJPawsZp911Vgu2isadKa9vGcJpRE_VpjRea7YZzS6dv1EBGl6yaJgbv2Afp4vDuP4rhLlWIsjk8fBIkeYD9-etJ50FtE4rJLY67NR2FdepYBpw368HbKUBuBNKMhq4cHwf9btOEYRfAJ_mzMPtLv2-Le9waydhAXmYq3_3A0k0H5O4vcEdtPwG8szVEW5Vp5BRVS3AmvtLSd-r4sNY7OFrrv8rMehiDW5pDT_Dz3tjsMJEPlPBBdeJAwy82kpBzrfDGB4JxqsKB5k7fHmBosE8DCKf9WqAp2j6Mcwr0KU3dZ9CbO0GmLQgL7lCwCzPnKBUOllxaZpsdShALgz4TaPGiEww6jkzwjzMeq5UsJtGVdTpOg8kknnAf-Xtjq6ZMvooOSKnlgHFND4JrB32Et3CeKd5on3n7-avNVdBZ8QwZuPC1cMyJmg" target="_blank" rel="noopener">PM2.5</a>，指的是粒径小于 2.5 微米的小颗粒，比我们的头发还细小，却能伤人于无形，长期吸入可能引起过敏、气喘、肺癌、心血管疾病。了解每日 PM2.5 浓度，能在生活中保护自己减少空污威胁。</p><div class="pansc-content"></ins>
+<script async type="text/javascript" src="//cdn.holmesmind.com/js/init.js"></script></div>
+<p>在过去，台湾空气微型感测器尚未普及，想要知道当下空气品质，必须仰赖全台 76 个国家监测站（2017 年新增至 77 台）。然而，生活中处处存在汽机车、香炉、工厂等无数小型污染源，影响每时每地的 PM2.5 浓度，大型监测站无法即时反应各地情况。</p>
+<blockquote><p>「我要怎么知道『当下』、『此刻』的空气品质好不好？」陈伶志心生疑问，开启长达 8 年的空气盒子研发、推广之路。</p></blockquote>
+<div>PM2.5 MAP</a></p></div>
+<blockquote><p>什么是空气盒子？它跟传统测站有什么不一样？</p></blockquote>
+<p>传统空气品质量测的专业仪器，造价数万至十万元不等，虽然比较精确，但每次实验能出动个位数的仪器就很了不起了，无法同时在很多地点取样。</p>
+<p>那时，我们就天马行空给自己出题目：何不使用小型、便宜的空气感测器，撒网式地多点取样？即使准确性比不上专业仪器，但可以量取胜。利用大量数据发展新理论和演算法，另辟蹊径来解释、甚至预测空气品质，这就是空气盒子的起点。</p>
+<p>目前空气盒子已超过四千台，装设在全台各地，每五分钟回传一笔资料 (全台湾的传统测站共数十台，每小时只能产出一笔监测资料)，资料量和回传速度都不可同日而语，可供资料科学家分析 PM2.5 的分布与变化。</p>
+<div>空气盒子各阶段 prototype。空气盒子现在使用的感测器，是经过几代的改良，才找到最好的感测器。感测原理是：利用 PM2.5 的物理性质，用雷射光照射这些微粒产生散射，进而计算 PM2.5 浓度，量测出来的结果一致性很高。<br>图／陈伶志提供（转载自研之有物）</p></div>
+<p>不过，空气盒子能够有如今规模，还要归因于它属于「参与式感测系统」。生活中有许多问题，例如空污、塞车，被动地等待政府解决往往缓不济急，并非政府效率太差，而是不知道问题真凶在哪里，例如眼前的空污到底是霾害？还是有工厂偷偷排放废气？参与式感测系统以「自己的环境自己救」的概念出发，透过群众自主观察所得的大量数据，由专家分析找出问题症结点，推动政府或相关单位采取行动、对症下药！</p>
+<div>参与式感测：透过群众观测、专家分析，由下而上解决问题。<br>图／林婷娴、张语辰设计（转载自研之有物）</p></div>
+<blockquote><p>便宜的小型感测器，数据会不会不准确？</p></blockquote>
+<p>其实，我们一开始也陷入「准确性」的迷思：期待便宜的感测器测量结果跟专业仪器一样！但，天下没有白吃的午餐，准确度好的机器一定很贵（苦笑）。</p>
+<p>后来我们转而追求「一致性」，不强求感测器跟专业仪器测量数值完全一样，只要这些感测器的数值可以稳定维持在同一个区间，可校正、可比较、可以看出趋势变化。</p>
+<div>环保署将空气盒子架设在多个标准测站，比较两者测到的 PM2.5 浓度。蓝色代表空气盒子、橘色代表环保署测站，两者测得 PM2.5 浓度值虽不同，但有相似的趋势变化。<br>资料来源／环境保护署空气品质监测网</p></div>
+<p>我们也重新思考研究的目的：<strong>不是用便宜的空气盒子取代数百万元的专业仪器，而是走一条以量取胜的道路，以大量便宜、但堪用的小型感测器组成绵密的监测网路，取得当下、此刻的空气品质。</strong></p>
+<p>但相对的，空气盒子的量测也容易受到局部环境变化影响、资料比较杂，分析前必须处理。比方说，有些空气盒子 PM2.5 飙高是因为沙尘暴来袭，有些是因为有人在旁边抽烟，后者属于小范围异常，必须想办法排除。</p>
+<blockquote><p>如何辨别环境中的杂讯？PM2.5 飙高是因为沙尘暴，还是有人抽烟？</p></blockquote>
+<div>wikimedia</a></p></div>
+<p>首先，我们假设户外空气在地理空间上会均匀扩散，应该不会发生某台空气盒子侦测的 PM 2.5 浓度很高，一百公尺外的机器侦测的浓度很低。所以，每台空气盒子与周围空气盒子感测值变化应该要「一致」。</p>
+<p>再来，假设空气的扩散是缓慢的，同一台空气盒子相近时间的感测数值也应该「一致」。如果某台空气盒子的 PM 2.5 浓度突然剧烈变化，代表它可能发生异常。</p>
+<p>因此，我们必须比较每台空气盒子在邻近区域以及相近时间内的一致性，定时给予评分，分数低代表这个空气盒子的微世界（micro environment）跟别的不一样，也许它装在庙旁、装在室内、有人在旁边抽烟，或是感测器取风口装反，让灰尘进去出不来等等。</p>
+<p>这个评分每 5 分钟执行一次，分析过去 24 小时的资料，如果某个空气盒子的评分低于标准，会把它标示为异常，资料就不会用来做后续的分析。</p>
+<blockquote><p>空气盒子如何预测 PM2.5 浓度变化？</p></blockquote>
+<p>预测有两件事最重要：一个要很准，另一个要够快。比方当我们想要用预测结果决定 1 小时后的行动，若电脑还得花 50 分钟运算，那就太迟了。如何用有限资源，在 1 分钟之内完成 4,000 台空气盒子的预测模型，极具挑战性。</p>
+<p>首先，我们设定只做 5 小时以内的预测，假设在这时间内气候变化不会太大，暂且不考虑海风、陆风、大陆冷气团等气候变因，纯粹使用资料科学方法，从过去的变化历程预测未来数小时 PM 2.5 浓度。</p>
+<p>一开始，我们以类神经网络模型预测，准确性高、但运算速度太慢。因为每个感测器所处的环境不同，过去的历史资料也不一样，所以 4,000 台空气盒子就要有 4,000 个预测模型。</p>
+<p>经过多方尝试，我们终于找到准确但又不会太慢的作法：先将 4,000 台机器，按照过去历史资料或是地理位置等方式分群，在每一群中选择一个具代表性的空气盒子，以它的历史资料做预测模型，再把预测模型套用到同群的其他空气盒子上。以下是按照地理位置分群的做法：</p>
+<div>上图以地理位置将台中空气盒子分群，（a）是分成 1 群，（b）是分成 4 群，（c）是分成 9 群，（d）是分成 16 群，在其中找一个具代表性的空气盒子做预测模型，再套用到同群其他空气盒子。结果发现，空气盒子分群越多，运算速度变慢、但误差变小。如果分成 16 群，可以发现运算速度变慢一些，但误差降低许多。<br>图片重制／林洵安、资料来源／陈伶志（转载自研之有物）</p></div>
+<p>如果是按照历史资料来分群，想像一下，横轴是时间、纵轴是 PM2.5 浓度，每个空气盒子具有自己的浓度变化曲线，把曲线波动类似的空气盒子分成一群，代表它们的模型特性是相似的。比方说，如果侦测到上下班有两个波峰，代表这些空气盒子可能装在大马路旁，因为尖峰时刻车流较多，造成空气品质数值的波动。</p>
+<blockquote><p>空气盒子可以解决哪些生活问题？</p></blockquote>
+<p>空气盒子可以回传即时的资料，协助生活决策，例如空气盒子的 Line 聊天机器人，你可以把它想像成空气品质的随身管家。</p>
+<p>像我小孩七点半上学，可以订阅学校附近的空气盒子，定时在出门的时刻，以 Line 传送学校附近的 PM 2.5 浓度，让我决定要不要让他戴口罩。又或者，我可以订阅离家最近的空气盒子，一超过特定浓度就发出讯息，来决定家里要开窗户或开空气清净机。</p>
+<div>跟空气盒子Line聊天机器人的聊天对话。<br>资料来源／陈伶志（转载自研之有物）</p></div>
+<p>空气盒子的预测模型也很实用！例如：什么时间可以出去跑步？毕竟跑步是为了健康，如果空气很糟还出门，不就成了人体空气清净机？</p>
+<p>于是我们尝试用预测模型找出最健康的运动路线，做出 PM 2.5 最小曝露量的导航系统。你可以想像地图是 x 轴和 y 轴，时间是 z 轴，地图上每个地点、不同时间，皆有不同的 PM 2.5 浓度。我们将不同路线上、每个时间点所对应的 PM 2.5 浓度累加，预测出吸入最少 PM 2.5 的路径。</p>
+<div>用空气盒子找出最健康的运动路线。以中研院到台北火车站为例，使用 Google 导航骑脚踏车的最短路径是灰色路线，所需交通时间是 45 分钟，计算出的 PM 2.5 曝露量分数 75.8（分数越高代表吸入越多 PM 2.5）。如果利用空气盒子资料做分析，建议采用路线为蓝色，它会引导你走河堤或避开大马路，所以交通时间增加到 83 分钟，但 PM 2.5 曝露量分数降低至 59.8。<br>资料来源／陈伶志（转载自研之有物）</p></div>
+<p>此外，生活中有许多空污问题，很难知道问题真凶藏在哪里，例如眼前的空污是霾害？还是有工厂偷偷排放废气？因为不肖业者常常利用各种取巧、伪装来规避稽查，例如半夜偷排废气。空气盒子可收集大量数据，经过机器学习找出污染排放规律、可疑地区，帮助稽查员确定关键时机，人赃俱获！</p>
+<blockquote><p>开发这些应用服务的灵感从哪来？</p></blockquote>
+<div>wikimedia</a></p></div>
+<p>一方面来自生活真实需求，另一方面是希望……空气盒子系统可以活得久一点！！</p>
+<p>事实上，从 2013 年计划开始到现在，有些空气盒子已慢慢离线。原因不是参与者主动不要它了，而是时间一长，可能发生无线网路不稳、停电后没有重新开机等等，参与者很难察觉。一开始，我还会呼吁大家常常检查自己的空气盒子，但是呼吁久了也怕被嫌烦。</p>
+<p>因此我决定让空气盒子提供更贴心的生活服务，参与者可主动透过 Line 订阅自己的空气盒子，不仅可即时知道 PM 2.5 浓度，机器故障时也会收到通知提醒。</p>
+<blockquote><p>参与式感测不只「感测」要成功，「参与」也要成功，提高参与就要满足大家发自内心的需求，提供有用的服务，回应大家的生活问题。</p>
+<p>对空气盒子未来有什么规划呢？</p></blockquote>
+<p>首先是尝试将空气盒子与专业测站结合，开发更多的应用。最近跟国外学者合作，叠合环保署测站、空气盒子、卫星影像的气胶光学厚度（Aerosol Optical Depth, AOD），发展三者相互换算的校正模型，全台各地只要这三个量测工具任一覆盖，就可算出当地的 PM 2.5 浓度、增加全台空气品质量测的解析度。未来这个技术还可应用于测站分布较少的国家，例如非洲没有太多空气品质测站，如果安装空气盒子搭配卫星遥测影像，即有机会算出当地空气品质概况。</p>
+<p>其次，增加与国外相关计划与社群的连结。目前我们与美国芝加哥最大的智慧城市计划「Array Of Things」合作，他们一开始布建的感测器价格比较高，所以数量不多，希望与我们合作，利用微型感测器补足数量。韩国则与台湾购买微型感测器，布建机器后请我们协助分析资料。此外，德国和泰国也都在洽谈合作。</p>
+<div>空气盒子 PM2.5 感测网，延伸至世界各地。<br>资料来源／陈伶志（转载自研之有物）</p></div>
+<blockquote><p>推动空气盒子的过程，有没有难忘的回忆？</p></blockquote>
+<p>最感动的就是：一开始就不断有志同道合的伙伴加入！<a href="https://www.facebook.com/groups/1607718702812067/" target="_blank" rel="noopener">LASS</a> 的创客、关心空污的台中亲子共学团加入、教师社群进来，后来又蹦出<a href="https://smartcity.taipei/" target="_blank" rel="noopener">台北市智慧城市</a>，接著讯舟科技要捐机器，然后是前瞻基础建设计划……，现在回头看这一切，真的是很幸运。</p>
+<p>那段时间也是最快乐的，因为你完全无法预期接下来会发生什么事，每次好像走到一个尽头，就蹦出一个力量把我们再往前推一点、再多做一点。就像有一句话说：</p>
+<blockquote><p>当你真心渴望某样东西时，整个宇宙都会联合起来帮助你完成。</p></blockquote>
+<p>此外，中研院在这过程也给我很大的自由，从 2013 年到 2015 年的开发阶段，没有发表任何一篇和空气盒子相关的论文，直到 2017 年才有正式的论文发表。乍看之下，好像做了四年的白工。但这在中研院是 OK 的！因为信任，让研究人员有机会去尝试可能失败的重要题目，让我们可以再ㄍㄧㄥ一下、再试一下，这也是身在中研院的好处，我觉得啦。</p>
+<h4>延伸阅读：</h4>
+<ul><li><a href="https://research.sinica.edu.tw/save-world-chen-ling-jyh/" target="_blank" rel="noopener">技术宅拯救世界！陈伶志</a></li>
+<li><a href="https://www.iis.sinica.edu.tw/pages/cclljj/index_zh.html" target="_blank" rel="noopener">陈伶志的个人网页</a></li>
+<li><a href="https://www.facebook.com/groups/1607718702812067/" target="_blank" rel="noopener">LASS-开源公益环境感测网路</a></li>
+<li><a href="https://www.facebook.com/groups/1688209651441559/" target="_blank" rel="noopener">PM2.5 开放资料：社群协同分析平台</a></li>
+<li><a href="https://pm25.lass-net.org/GIS/voronoi/" target="_blank" rel="noopener">空气盒子地图</a></li>
+</ul><p style="font-size: 18px; color: #3c4b89; border-top: 2px solid; border-bottom: 2px solid; padding: 12px 10px; display: inline-block; letter-spacing: 1px; font-weight: bold;"><strong>本文转载自中央研究院<a href="http://research.sinica.edu.tw/" target="_blank" rel="noopener">研之有物</a>，原文为<a href="https://research.sinica.edu.tw/pm25-air-box-new/" target="_blank" rel="noopener">自己的环境自己救！以空气盒子监测你家附近的空污</a>，泛科学为宣传推广执行单位。</strong></p>
+<div class="wpbcap wpbcap-188167 wpbcap-_720">
+<p> </p>
+<hr><p><a href="https://www.surveycake.com/s/oVN8m"><img class="aligncenter wp-image-188315 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg" alt="" width="560" height="293" srcset="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-350x183.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-768x402.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-30x16.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429.jpg 1201w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+<p style="text-align: center;"><strong>全新计划《科学生线上学习平台》</strong><strong><a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">问卷</a>募集中！<a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">填答</a>就有机会获得精美好礼！</strong></p>
+<hr><p style="text-align: center;"><a href="https://panmarket.asia/product-category/%E7%A7%91%E8%A8%AD%E8%A8%88%E7%94%9F%E6%B4%BB/%E7%A7%91%E7%94%9F%E6%B4%BB%E5%89%B5%E6%84%8F/%E8%B3%AA%E6%84%9F%E5%B1%85%E5%AE%B6/?utm_source=720cap" target="_blank" rel="noopener"><img class="alignnone wp-image-188617 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg" alt="" width="560" height="315" srcset="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-350x197.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-768x432.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-30x17.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4.jpg 800w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+</div>
+<p>The post <a rel="nofollow" href="https://pansci.asia/archives/188472">今天空气好吗？即时监测 PM 2.5，「空气盒子」的奇幻之旅</a> appeared first on <a rel="nofollow" href="https://pansci.asia">PanSci 泛科学</a>.</p>
+➜昆虫是用什么器官呼吸？等等，竟然是「全身」？
+https://pansci.asia/archives/188220	32438
+<blockquote><p>对某些人来说，昆虫可能他们避之唯恐不及的可怕小生物，但这些小小昆虫的身躯中，有著出乎意料精巧的呼吸系统喔！</p></blockquote>
+<p><span style="font-weight: 400;">假如跑去街访问问题：「动物是怎么呼吸的呢？」会收到什么答案呢？</span></p>
+<p><span style="font-weight: 400;">有些比较直观的小朋友可能会直接了当的回答：「用鼻子和嘴巴！」。<br></span></p>
+<p><span style="font-weight: 400;">有些很厉害的的人可能会回答：「透过气体交换，肺和心脏能够透过循环系统……」完美描述了整套<strong>呼吸循环系统</strong>。<br></span></p><div class="pansc-content"></ins>
+<script async type="text/javascript" src="//cdn.holmesmind.com/js/init.js"></script></div>
+<p><span style="font-weight: 400;">对动物更了解的人可能会回答：「人是用肺、鱼是用鳃，两生类则是小时候用鳃，长大用肺……」一类一类动物分开讨论，不同种类的动物呼吸方式是不一样的。</span></p>
+<p><span style="font-weight: 400;">不过多数人常常都漏掉了一种类群：昆虫。</span></p>
+<div>GIPHY</a></p></div>
+<h2>昆虫的鼻子在哪里？先从构造说起</h2>
+<p>你可能会有点没印象，到底昆虫是用什么器官在呼吸的。是肺吗？好像也不是，而且昆虫好像没有鼻子。</p>
+<p>告诉你，昆虫其实也没有肺喔！牠们是透过所谓的「气管系统」(tracheal system) 来进行全身的呼吸及气体交换。</p>
+<div>Wikipedia common </a></p></div>
+<p>昆虫的呼吸系统由气管 (trachea)、小气管 (tracheole)、气门 (spiracle) 还有气囊 (air sacs) 所组成。所有的空气都是透过位于外骨骼上的气门来进出昆虫的身体，通常都会出现在昆虫的腹部或侧面喔！空气从气门进去后，透过气管不断分支，最后传到小气管，其分支末梢就散布在体细胞间，而氧气跟二氧化碳就能透过扩散作用达到气体交换。</p>
+<p>再复杂一点的版本，也就是这些气体进到微气管的分支后，微气管潮湿的表面就能让氧气更好的进行扩散作用。氧气扩散进一旁的体细胞膜后，就能被细胞所使用，而二氧化碳也是如此从体细胞排出的。</p>
+<p>和人类不同的是，昆虫的血液循环系统和呼吸系统是不互相影响的。人类透过心脏将经过肺的充氧血打到全身，来使全身细胞获得氧气；昆虫则是全身的细胞都直接与小气管相连，因此昆虫没有进行气体交换的肺部。</p>
+<p>不过这种呼吸方式，其实对于长距离的气体运输效率较低，所以这也是大部分昆虫体积不大的原因之一。</p>
+<blockquote><p>所以说，要回答昆虫到底是用哪里呼吸，从外骨骼的气门，到遍布全身的大小气管，我们可以说，昆虫们可是用了全身在呼吸呢！</p></blockquote>
+<h3>自由开关的气门</h3>
+<p>不过你可能会想，所以昆虫都一直是靠著被动的气体运输来维持呼吸的吗？难道所有的昆虫都只会呆呆的等空气自己送进身体里来吗？其实也不是这么回事喔。许多昆虫的气门都能透过收缩肌肉关闭，也能透过舒张肌肉使气门放松打开。而气门的开闭，通常透过中枢神经系统来控制，不过也能被气门四周细胞中的化学成分所调控。同时，气门的开关也能调节水分的散失。</p>
+<div>Eleanor Lutz </a></p></div>
+<p>不过你可能没想到，气门还能拿来吹口哨呢！有些蛾类的幼虫就能透过开关特定的气门，再收缩排气，让自己的身体像笛子一样吹出声音来呢，被推测可能牠遭受猎食时威吓天敌的手段。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/Mj-2aiUT6gI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<ul><li>延伸阅读：<a href="https://pansci.asia/archives/956">吹口哨的毛毛虫</a></li>
+</ul><p>虽说是这样，但气门同时也成为了某些昆虫的一大罩门……</p>
+<p>相信很多人都有听过，肥皂水能够将许多人恨得牙痒痒的蟑螂轻松消灭。这是因为肥皂或清洁剂都属于界面活性剂，能溶解蟑螂身上的蜡质与油脂，溶解的蜡质和油脂会把气门堵住，造成蟑螂因无法呼吸窒息而死啰！</p>
+<p>由此可见，气门真的对昆虫来说十分重要呢！</p>
+<h3>让气管弯曲收缩又不变形的「螺旋带」</h3>
+<p>接著，就让我来说说昆虫的呼吸系统中比较特殊的构造吧！</p>
+<p>过去，科学家认为昆虫的气管都像是一条条水管一样硬邦邦的管子，且认为所有昆虫都是透过被动扩散作用来呼吸。但实际上，科学家后来才利用 X 光显微镜，发现昆虫的气管能收缩，而且并不是硬硬的，而且还会借由收缩肌肉来主动呼吸喔！</p>
+<ul><li>延伸阅读：<a href="https://pansci.asia/archives/50678">昆虫如何呼吸？—— X 光显微镜之应用</a></li>
+</ul><p>既然气管不是硬硬的，而且能透过主动收缩来呼吸，这样气管难道不会因为压力的问题而变形吗？</p>
+<p>嘿，别担心，小小的昆虫体内可是很精巧的！实际上，昆虫的气管内皮细胞内侧都围绕著一层名叫螺旋带 (Taenidia) 的环状构造，又薄又坚固，使气管不会塌陷扭曲，且同时可以帮助气管适当弯曲伸展。</p>
+<div>参考资料 1</a></p></div>
+<h3>储存空气与预备空间：气囊</h3>
+<p>最后，你若是再仔细看看上面的昆虫的呼吸循环示意图，你会发现有一个个像是气球一样的袋子我们还没提到呢！这个随著氧气与二氧化碳的进出放大缩小的袋子，其实就是所谓的「气囊」。</p>
+<p>气囊不是每种昆虫都有，但气囊真的就是个像气球一样的构造，与气管分支们相连接，能够透过关闭气门来储存空气，而且气囊是气管系统中少数没有螺旋带的区域，可以很大幅度的折叠伸缩。</p>
+<p>当昆虫处在一个蒸发量高的环境，昆虫就能将空气储存在气囊，再透过关闭气门来达到防止水分散失。若是昆虫在水下环境，那气囊可就更厉害啰，除了能让昆虫在水下呼吸之外，还能够根据气囊大小来调整浮力呢！</p>
+<p>同时，气囊也参与了昆虫们的「虫生」中，一段非常重要的历程──蜕皮 (Molt)！</p>
+<p>由于昆虫是靠外骨骼支撑，所以为了长大，就得要将「小旧皮」换成「大新皮」，才能容纳自己逐渐成虫的身体，这种现象我们就称为「蜕皮」。</p>
+<p>不过在还没蜕皮之前，昆虫的身体已经逐渐长大，那些塞不下的体积都去哪了呢？实际上，气囊就给牠们提供了很好的缓冲空间喔！借由压缩气囊腾出空间让器官成长，同时，当蜕皮结束时，昆虫就将他们的气囊尽可能的撑大，让新长成的外骨骼更大，于是昆虫就能靠著气囊与蜕皮不断的长大啦！</p>
+<div>GIPHY </a></p></div>
+<p>看来，昆虫的呼吸系统不只有呼吸相关，还与成长息息相关啊！是不是很令人印象深刻呢？</p>
+<p>下次若是再有人问你动物是怎么呼吸的，可别忘记昆虫啦！这时，你就能向他们介绍昆虫精妙小巧的气管系统啦！</p>
+<h2>参考资料</h2>
+<ol><li><a href="https://iopscience.iop.org/article/10.1088/1748-3190/10/6/066011">Matthew R Webster, John J. Socha, Luciano Teresi, Paola Nardinocchi, Raffaella De Vita less (2015).Structure of tracheae and the functional implications for collapse in the American cockroach. Bioinspir. Biomim. 10 066011</a></li>
+<li><a href="http://gaga.biodiv.tw/new23/9311/k60.htm">嘎嘎昆虫网—昆虫为什么要蜕皮？</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Respiratory_system_of_insects">Wikipedia – Respiratory system of insects</a></li>
+</ol><hr><p>想知道有没有真的看懂文章吗？本文在「科学生」线上学习平台上会推出相应试题，欢迎来挑战看看！</p>
+<p><span style="font-weight: 400;">如果您对我们「科学生」有兴趣，欢迎大家填写以下问卷，或是帮我们传给可能有兴趣的家长或教师：<a href="https://www.surveycake.com/s/oVN8m">问卷连结</a></span></p>
+<p><span style="font-weight: 400;">如果想了解更多，也欢迎参加我们北中南的实体活动 ：<a href="https://events.panmedia.asia/events/e2006291026197218#evt-schedules">活动报名</a></span><a href="https://events.panmedia.asia/events/e2006291026197218#evt-schedules"><img class="size-large wp-image-188323 aligncenter" src="https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce-560x292.png" alt="" width="560" height="292" srcset="https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce-560x292.png 560w, https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce-350x183.png 350w, https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce-768x401.png 768w, https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce-30x16.png 30w, https://pansci.asia/wp-content/uploads/2020/07/fbc3c930a8a84313574a69bd741e8cce.png 1281w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+<div class="wpbcap wpbcap-188167 wpbcap-_720">
+<p> </p>
+<hr><p><a href="https://www.surveycake.com/s/oVN8m"><img class="aligncenter wp-image-188315 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg" alt="" width="560" height="293" srcset="https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-560x293.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-350x183.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-768x402.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429-30x16.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/ac5b2f1f116a7335e0affab85492f429.jpg 1201w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+<p style="text-align: center;"><strong>全新计划《科学生线上学习平台》</strong><strong><a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">问卷</a>募集中！<a href="https://www.surveycake.com/s/oVN8m" target="_blank" rel="noopener">填答</a>就有机会获得精美好礼！</strong></p>
+<hr><p style="text-align: center;"><a href="https://panmarket.asia/product-category/%E7%A7%91%E8%A8%AD%E8%A8%88%E7%94%9F%E6%B4%BB/%E7%A7%91%E7%94%9F%E6%B4%BB%E5%89%B5%E6%84%8F/%E8%B3%AA%E6%84%9F%E5%B1%85%E5%AE%B6/?utm_source=720cap" target="_blank" rel="noopener"><img class="alignnone wp-image-188617 size-large" src="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg" alt="" width="560" height="315" srcset="https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-560x315.jpg 560w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-350x197.jpg 350w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-768x432.jpg 768w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4-30x17.jpg 30w, https://pansci.asia/wp-content/uploads/2020/07/25b2916b5c49db617f52fa5ea48efee7-4.jpg 800w" sizes="(max-width: 560px) 100vw, 560px"></a></p>
+</div>
+<p>The post <a rel="nofollow" href="https://pansci.asia/archives/188220">昆虫是用什么器官呼吸？等等，竟然是「全身」？</a> appeared first on <a rel="nofollow" href="https://pansci.asia">PanSci 泛科学</a>.</p>

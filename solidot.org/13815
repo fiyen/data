@@ -1,0 +1,31 @@
+➜用 Cusp Eclipse 插件创建Lisp程序
+https://www.solidot.org/story?sid=4264	3600
+<a href="mailto:huaihuaixiaoshao@gmail.com">huaihuaixiaoshao</a> 写道 "Lisp 是一种优秀的语言，归功于其无类型的特性，它可以大大拓展你的编程思维。长久以来它一直被视为<a href="http://www.ibm.com/developerworks/cn/java/j-cb02067.html">伟大的编程语言</a>之一。<a href="http://www.ibm.com/developerworks/opensource/library/os-eclipse-lispcusp/?ca=dgr-lnxw07LispCuspEclipse&amp;S_TACT=105AGX59&amp;S_CMP=GR">
+这篇文章可以帮助你了解</a>如何使用Cusp Eclipse插件开发Lisp程序。即使有 Java，PHP，或C/C++ 经验的程序员也可以得到软件开发的新思路。"
+➜USB 3.0标准即将到来
+https://www.solidot.org/story?sid=4265	4740
+zjfroot 写道 "Intel和其他多家公司<a href="http://www.pcworld.com/article/id,137551/article.html">成立</a>了一个工作组，以制定USB3.0的标准。USB3.0标准的传输速度将达到现在2.0标准的10倍，即4.8Gbit/s。新标准将向下兼容USB2.0标准，但使用的接口和线缆将会有两种:铜线和光缆。光缆的使用意味着也许在未来能够取得更快的传输速度。
+<br>
+<br>
+但除了速度的提升外，USB3.0标准在制定上会更加注意低功耗和协议效率的提高。
+<br>
+<br>
+digg的<a href="http://digg.com/hardware/Faster_USB_3_0_Is_Coming">评论</a>。"
+➜观音教授王锐
+https://www.solidot.org/story?sid=4266	7200
+中国存在许多令人叫绝、拍案惊奇、无法想象、极具有创造力的造假：云南民族大学教授王锐就是其中的佼佼者。王锐教授的网上简历提到了五篇发表在国际期刊上的学术论文，这些论文中确实有位叫Rui Wang的作者，不过貌似与云南男王锐天南地北，甚至性别都不同。中国人同名同姓的多去了，这位教授竟然能想到利用这种漏洞。<a href="http://cache.baidu.com/c?word=&amp;url=http%3A//www.ynni.edu.cn/hxsw/show.asp%3Fid%3D84&amp;p=c064c54ad7c409e40fbe9b7f0e519c&amp;user=baidu">百度快照</a>，<a href="http://www.xys-reader.org/blogs/fangzhouzi/?p=6261">方舟子的BLOG</a>。
+➜GNOME基金会支持OOXML?
+https://www.solidot.org/story?sid=4267	18300
+GNOME和Mono的创始人Miguel de Icaza在上个月公开赞扬了OOXML标准，他认为OOXML是一个<a href="http://slashdot.org/article.pl?sid=07/10/28/175215">“极好的标准”</a>，开放标准的支持者担心过头了。GNOME基金会则随后付诸行动，采取行动支持微软的标准。结果这引起了无数的批评之声。OpenDocument开发团队的一位老成员 Russell Ossendryver发表了一份公开信，<a href="http://fanaticattack.com/2007/a-letter-to-the-gnome-foundation.html">强烈要求GNOME基金会停止支持OOXML标准</a>，多花点时间在加强真正的开放标准应用上：ODF，在2006年5月2日被接受为国际标准，标准号<a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=43485">ISO/IEC 26300</a>。
+➜NetBeans 6.0采用GPL2和CDDL双许可
+https://www.solidot.org/story?sid=4268	21600
+Sun微系统公司发布了开源开发平台NetBeans的最新版本：<a href="http://www.eweek.com/article2/0,1895,2208122,00.asp">NetBeans 6.0 Beta 2</a>，许可协议略有变动。以前它采用的是Sun自己的CDDL许可（已获得OSI承认），现在NetBeans 6.0采用了GPL2和CDDL双许可，其中<a href="http://www.netbeans.org/gplv2-faqs.html">GPL V2.0+GNU Classpath Exception</a>，后者主要是为了避免开源对商业项目造成冲击。以前使用Eclipse的开发者现在可以瞧瞧强大的Netbeans 6了。
+➜简评采用Linux的Asus Eee PC 701廉价笔记本
+https://www.solidot.org/story?sid=4269	24000
+Asus Eee PC 701采用Intel Mobile Celeron-M ULV 900MHz处理器，512M内存，4G固态硬盘，支持无线，分辨率800x480，重0.92 kg，上市日期为11月14日，售价£219（约合人民币2400元）（配置不同价格也略有浮动）。这就是华硕推出的廉价笔记本。<a href="http://reviews.cnet.co.uk/laptops/0,39030092,49293507-1,00.htm">CNET.co.uk的评论</a>认为“很难从这款廉价的笔记本上挑错。它使用起来有点不适，主要是键盘原因。它比Toshiba推出的大小与之接近的迷你型笔记本Libretto U100更好。如果你想在市场上寻找第二台PC，或是能够随身携带的笔记本，Eee PC 701绝对值得购买。”一位博客<a href="http://community.zdnet.co.uk/blog/0,1000000567,10006278o-2000331777b,00.htm">在Asus Eee上测试了Ubuntu 7.10</a>，有一些小毛病，但运行起来还不错。
+➜Linux设备驱动开发项目需要用户提供不支持硬件列表
+https://www.solidot.org/story?sid=4270	27300
+著名Linux kernel开发者Greg Kroah-Hartman负责的Linux设备驱动开发项目（Linux Driver Project）目前遇到了一个障碍：虽然已有超过300位驱动程序开发者签约帮助开发驱动，<a href="http://www.desktoplinux.com/news/NS6669895837.html">但是他们都很闲</a>，近乎无事可做。首先问题是参与的公司不多，即使 Kroah-Hartma与手下开发者同意签署保密协议，硬件制造商对开源依旧不积极。其次Kroah-Hartma猜测Linux驱动问题是否夸大了，但是 Linux基金会的调查显示驱动是用户最关心的问题之一。所以他们现在想知道有哪些硬件在Linux下支持不佳，用户可以将他们遇到的硬件驱动问题递交到<a href="http://linuxdriverproject.org/twiki/bin/view/Main/DriversNeeded">DriversNeeded wiki</a>上。
+➜Google在各地的竞争对手
+https://www.solidot.org/story?sid=4271	30900
+Google，世界排名第一的搜索引擎，占据了60%的市场份额。《新闻周刊》认为<a href="http://www.newsweek.com/id/62254">搜索巨人其实非常容易受攻击和被超越</a>。即使在美国，一个新兴搜索引擎<a href="http://www.quintura.com/">Quintura</a>正吸引很多人的注意。虽然Google的市值在上周达到了2000亿美元，但它的地位并不那么稳固。在美国之外的许多国家，当地的搜索引擎把Google远远的甩在后头。在中国是百度；<a href="http://www.newsweek.com/id/62262">在韩国</a>，Naver公司占统治地位；在俄罗斯，无论是广告还是搜索，Yandex是当然的第一。斯拉夫语搜索市场，Google只能排第三。广告方面，Yandex与Google之比为70%对2%。

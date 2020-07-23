@@ -1,0 +1,22 @@
+➜Firefox 51发布
+https://www.solidot.org/story?sid=51188	11283
+Mozilla正式发布了<a href="https://www.mozilla.org/en-US/firefox/51.0/releasenotes/" target="_blank"><u>Firefox 51</u></a>。主要新特性包括：在保存密码前用户可以在密码保存提示中浏览密码； URL栏加入缩放按钮；改进没有GPU加速的视频播放性能，减少CPU占用；支持FLAC (Free Lossless Audio Codec)；支持WebGL 2；当登录页面没有HTTPS保护将显示警告信息（Chrome也将支持这项功能）；改进E10s，修正安全漏洞等等。
+➜Wine 2.0发布
+https://www.solidot.org/story?sid=51189	13566
+Wine项目正式发布了<a href="https://www.winehq.org/announce/2.0" target="_blank"><u>Wine 2.0</u></a>。开发者称，新版代表了超过1年的开发努力和大约6600个变化，主要亮点是支持Microsoft Office 2013，macOS版加入64位支持。新版还包含了大量改进和支持新的Windows游戏。Direct3D 命令流 、完整 HID支持、Android图形驱动和消息模式管道等功能尚未完成开发，赶不上新版本的发布，只能延后到下一个开发周期。其它值得一提的新功能包括：支持更多DirectWrite功能，PDF 文件字体嵌入、Unicode 9.0.0 支持，macOS 图形驱动支持Retina渲染模式，Direct3D 10 和 Direct3D 11实现加入Shader Model 4 和 5着色器指令，完整支持D3DX (Direct3D Extension) 9 特效框架，支持GStreamer 1.0多媒体框架，Gecko引擎更新到Firefox 47，支持IDN域名解析，等等。
+➜《1984》重登亚马逊图书销售榜榜首
+https://www.solidot.org/story?sid=51190	31554
+<div align="center"><img src="http://img.solidot.org/0/101/lisIF7f27lwE.png" height="224" width="500" align=""><br>
+</div>
+<br>
+特朗普就任美国总统之后开始兑现其竞选承诺，包括退出TPP，准备在美国与墨西哥边境的<a href="http://www.cnn.com/2017/01/24/politics/donald-trump-immigration-refugees/" target="_blank"><u>建围墙</u></a>，准备恢复石油管道建设，<a href="https://www.washingtonpost.com/news/powerpost/wp/2017/01/24/trumps-first-100-days-get-ready-for-major-action-on-immigration/" target="_blank"><u>限制</u></a>穆斯林国家的难民入境，准备废除前任总统奥巴马推动的医保和环保监管政策。但与此同时，这位自称最富有的总统至今没有公开纳税申请表，没有与其旗下企业完全脱离关系，他及其幕僚的众多出格言论依旧像竞选期间一样吸引了媒体最广泛的关注，其中包括“替代事实”。他利用社交媒体传播他受争议的观点，同时又因为联邦机构的社交媒体账号发布了不同于他意见的帖子而对这些机构的社交媒体账号<a href="https://www.buzzfeed.com/claudiakoerner/a-national-park-is-tweeting-facts-about-climate-change-in-de?utm_term=.pko5WYOAax#.kf4mQ9Ppnq" target="_blank"><u>实施限制</u></a>，就好象“不允许吃联邦的饭砸联邦的锅”。
+在这种背景之下，乔治奥威尔的经典之作《<a href="http://gutenberg.net.au/ebooks01/0100021.txt" target="_blank"><u>1984</u></a>》<a href="https://www.theguardian.com/books/2017/jan/24/george-orwell-1984-sales-surge-kellyanne-conway-alternative-facts?CMP=twt_gu" target="_blank"><u>重登</u></a>亚马逊图书销售榜榜首也不是什么令人奇怪的现象。
+➜勒索软件被发现藏身于Google Play
+https://www.solidot.org/story?sid=51191	51862
+Google官方商店的应用也不能过于信任，因为搜索巨人的应用审查流程是自动化的，容易被网络罪犯发现漏洞利用。安全研究人员报告了本周<a href="http://arstechnica.com/security/2017/01/ransomware-app-hosted-in-google-play-infects-unsuspecting-android-user/" target="_blank"><u>第二例恶意应用藏身Google Play商店的事件</u></a>，但这一次应用被下载的次数不是很多。安全公司 Check Point Software<a href="http://blog.checkpoint.com/2017/01/24/charger-malware/" target="_blank"><u>报告了</u></a>被称为 Charger 的勒索软件，一旦安装，勒索软件会窃取短信联络人信息，提示用户授予管理权限，一旦用户点击确定，恶意应用将会锁定设备展示勒索信息，要求支付0.2BTC（相当于180美元）的赎金。研究人员还发现，恶意应用会检测被感染设备的位置，如果设备位于乌克兰、白俄罗斯和俄罗斯，那么应用将不会执行恶意负荷，研究人员猜测应用的开发者试图避免在这些国家面临法律诉讼。
+➜新疆网民如何度过断网的300多天
+https://www.solidot.org/story?sid=51192	53475
+古巴有着全世界<a href="http://www.solidot.org/story?sid=45653" target="_blank"><u>著名的局域网</u></a>，局域网将境外的内容通过一个走私者和交易商的网络传播到整个国家。在2009年新疆断网期间，新疆局域网的网民基本上也是过着类似的生活。腾讯科技<a href="http://xw.qq.com/tech/20170123032339/TEC2017012303233903" target="_blank"><u>报道</u></a>，新疆断网持续了312天，当地网民本以为断网会在短期内结束，结果却持续了将近一年。他们虽然无法连上新疆外的网络，但外面的内容仍然能通过各种渠道进入到局域网内。网民们通过光盘和便捷式硬盘分享内容，为了下载资源他们甚至组队去了距离新疆最近的甘肃柳园，这种方法也就是今天俗称的肉身翻墙。许多外网资源就通过柳园流传到疆内的下载站。断网期间，柳园这两个字代表着自由。这篇<a href="http://www.weibo.com/ttarticle/p/show?id=2309404067075546043273" target="_blank"><u>文章</u></a>最早发表在微博上，但已经被新浪删除。
+➜重男轻女在中国青铜器时代已经显露
+https://www.solidot.org/story?sid=51193	55670
+考古证据显示，在中国的东周时期男性和女性之间的饮食<a href="http://arstechnica.com/science/2017/01/onset-of-agriculture-accompanied-by-gender-inequality-in-bronze-age-china/" target="_blank"><u>发生了巨大变化</u></a>，而在殷商时期男女饮食不存在如此大的差异，显示偏向于男性的性别不平等现象开始在东周出现。<a href="http://www.pnas.org/content/early/2017/01/10/1611742114" target="_blank"><u>研究报告</u></a>发表在PNAS期刊上。研究人员比较了东周和殷商时期的男女骨骼，发现东周男性消费了更多的动物制品和小米，而东周女性消费了更多的小麦、大麦和大豆等被视为是低质量的食物。研究人员认为，肉类不再在家庭级别上分享。他们还发现，东周女性的骨骼表现出了更多童年时期营养不良的迹象，显示男性儿童获得了更高质量的食物。此外，殷商时期的男女坟墓也比东周时期更平等。

@@ -1,0 +1,53 @@
+➜英特尔和 AMD 宣布合作
+https://www.solidot.org/story?sid=54398	10843
+<div align="center"><img src="http://img.solidot.org/0/465/liC4xPxFTFKcc.png" width="400" align="" height="231"><br>
+</div>
+<br>
+CPU 市场上的两大竞争对手<a href="https://newsroom.intel.com/editorials/new-intel-core-processor-combine-high-performance-cpu-discrete-graphics-sleek-thin-devices/" target="_blank"><u>英特尔</u></a>和 AMD 正式宣布<a href="http://ir.amd.com/phoenix.zhtml?c=74093&amp;p=irol-newsArticle&amp;id=2314567" target="_blank"><u>展开合作</u></a>，双方的合作成果是一款定制的芯片，它包含英特尔的第八代 Core 核心、AMD 的 Radeon GPU 核心，以及 HBM2 显存。新的芯片针对的是笔记本电脑和轻薄本市场，在保持轻量级的同时提供高性能的游戏性能，这也是第一款使用 HBM 的移动芯片。这款产品预计将在 2018 年第一季度推出。这是英特尔的项目，也是英特尔率先接触 AMD。英特尔曾因为对 AMD 的反竞争行为而被罚了约 10 亿美元。两家公司的合作出人意料，但也在情理之中，英特尔的 GPU 仍然是其弱项，而 AMD 在 GPU 市场落后于另一个竞争对手 Nvidia。
+➜阿富汗澄清它不会屏蔽 WhatsApp 和 Telegram
+https://www.solidot.org/story?sid=54399	14042
+过去一周，传言称阿富汗电信监管机构致函 ISP 要求它们屏蔽即时通讯服务如 WhatsApp 和 Telegram。阿富汗政府的国家安全理事会想要通过屏蔽这些应用阻止塔利班和其他反对派使用加密消息，这一流言在社交媒体上引发了广泛争议。本周一，阿富汗政府发言人<a href="http://www.reuters.com/article/us-afghanistan-internet/afghanistan-will-not-block-whatsapp-telegram-spokesman-idUSKBN1D61VI" target="_blank"><u>澄清</u></a>他们不会屏蔽 WhatsApp 和 Telegram，表示政府不会屏蔽任何社会媒体平台，WhatsApp 和 Telegram 能继续在阿富汗运营。
+➜美国法庭命令屏蔽 Sci-Hub
+https://www.solidot.org/story?sid=54400	15740
+美国化学学会今年早些时候起诉了 Sci-Hub 及其创办人 Alexandra Elbakyan，指控其侵犯版权。Sci-Hub 当然不可能出席法庭为自己辩护，因此美国法官作出了缺席判决，判给了美国化学学会 480 万美元的赔偿，以及授予美国化学学会要求搜索引擎和 ISP <a href="https://torrentfreak.com/us-court-grants-isps-and-search-engine-blockade-of-sci-hub-171106/" target="_blank"><u>屏蔽 Sci-Hub 的禁令</u></a>。禁令覆盖了域名注册商、主机托管商、搜索引擎和 ISP。如果美国化学学会决定执行这一禁令，搜索引擎和 ISP 可能会提出抗议。
+➜Cloudflare 使用熔岩灯产生伪随机数
+https://www.solidot.org/story?sid=54401	17451
+<div align="center"><img src="http://img.solidot.org/0/466/liPz1sJZKvBR6.gif" align=""><br>
+<br>
+</div>
+Cloudflare 是一家提供安全服务的云服务商，向客户提供了免费的 SSL 服务。因为要处理海量的加密流量，它需要使用到大量的随机数。这些随机数都是伪随机数生成器产生的。伪随机数生成器产生的随机数能被预测和破解。那么如何减少随机数的可预测性？Cloudflare <a href="https://sploid.gizmodo.com/one-of-the-secrets-guarding-the-secure-internet-is-a-wa-1820188866" target="_blank"><u>披露了它的方法</u></a>——使用熔岩灯。<a href="https://zh.wikipedia.org/wiki/%E7%86%94%E5%B2%A9%E7%81%AF" target="_blank"><u>熔岩灯</u></a>的名字源于内部不定形状的蜡滴的缓慢流动，让人联想到熔岩的流动。Cloudflare 利用摄像头监视熔岩灯，拍摄视频和照片，然后将其转变成无法预测的随机比特流，再用它生成密钥。
+➜中国立法限制点击农场和欺骗性在线销售
+https://www.solidot.org/story?sid=54402	24713
+中国制定了《反不正当竞争法》， 其中包含了针对电子商务行业欺骗行为的相关规定，<a href="https://www.bloomberg.com/news/articles/2017-11-06/china-is-finally-going-after-click-farms-and-fake-online-sales" target="_blank"><u>试图解</u></a>决流行的点击农场和欺骗性销售。《<a href="http://news.xinhuanet.com/politics/2017-11/04/c_1121906586.htm" target="_blank"><u>反不正当竞争法</u></a>》将于 2018 年 1 月 1 日起施行，其中第十二条规定：<i> “经营者不得利用技术手段，通过影响用户选择或者其他方式，实施下列妨碍、破坏其他经营者合法提供的网络产品或者服务正常运行的行为：（一）未经其他经营者同意，在其合法提供的网络产品或者服务中，插入链接、强制进行目标跳转；
+（二）误导、欺骗、强迫用户修改、关闭、卸载其他经营者合法提供的网络产品或者服务；（三）恶意对其他经营者合法提供的网络产品或者服务实施不兼容；（四）其他妨碍、破坏其他经营者合法提供的网络产品或者服务正常运行的行为。”</i>
+➜Enlightenment DR 0.22.0 发布
+https://www.solidot.org/story?sid=54403	28358
+轻量级桌面环境 Enlightenment DR 0.22.0 <a href="https://www.enlightenment.org/news/e22_release" target="_blank"><u>发布</u></a>。主要特性包括：大幅改进 Wayland 显示服务器支持，改进了新的设备基础设施，sudo/ssh askpass 工具 GUI，meson 构建系统，集成每个窗口的音量控制，等等，详细可阅读 changelog。
+➜睡眠剥夺影响脑细胞通信
+https://www.solidot.org/story?sid=54404	28798
+根据发表在《Nature Medicine》期刊上的<a href="http://nature.com/articles/doi:10.1038/nm.4433" target="_blank"><u>一项研究</u></a>，睡眠剥夺会<a href="http://www.npr.org/sections/health-shots/2017/11/06/562354635/sleepless-night-leaves-some-brain-cells-as-sluggish-as-you-feel" target="_blank"><u>导致</u></a>用于通信的脑细胞活动的减慢削弱。
+<i>以色列特拉维夫大学、美国威斯康星大学麦迪逊分校的研究人员以一群神经外科病人为被试，让他们在被剥夺睡眠前后完成一系列面部识别测试，并记录下此间被试内侧颞叶内的单神经元活动。研究人员观察发现，在被剥夺睡眠的情况下，被试的神经活动较在快速完成任务期间诱发的神经活动有所减慢和削弱，导致被试反应减慢——认知退步的一种特征。为了确定缺觉具体是通过什么机制来直接影响神经活动，未来还需要<a href="http://news.sciencenet.cn/htmlnews/2017/11/393329.shtm" target="_blank"><u>做进一步的研究</u></a>。</i>
+➜微信从一年前就开始屏蔽与十九大相关关键词
+https://www.solidot.org/story?sid=54405	30045
+加拿大多伦多大学公民实验室发表报告《<a href="https://citizenlab.ca/2017/11/managing-message-censorship-19th-national-communist-party-congress-wechat/" target="_blank"><u>Managing the Message</u></a>》，称腾讯旗下的微信从一年前就开始屏蔽与十九大相关关键词。微信是中国最流行的移动消息应用，国外流行的消息应用多被屏蔽。<i>研究发现，与十九大有关审查从一年多前就开始，随着会议日期的逼近，与十九大相关的关键词库不断更新和扩大。关键词涵盖内容非常广泛，不仅包括了对党代会，领导人以及共产党的带有批判色彩的词语，而且许多中性的指称也被过滤。在十九大召开前几周，研究人员发现了部分陈述中央政策（如 “一带一路” 倡议）和共产党核心意识心态概念（如 “中国特色社会主义”）的关键词。研究人员认为，“这不但限制了微信用户在该平台上对这些主题的普通讨论，甚至那些支持政府的言论也有可能因此被屏蔽。这些关键词有可能是因为微信方面的技术原因或者过度审查而被包含在词库内，另一方面，这也可能是有意的信息管理手段，目的在于引导与中央政策和意识形态有关网络讨论和公共舆论。”</i>
+➜苹果利用英属泽西岛避税
+https://www.solidot.org/story?sid=54406	31097
+根据刚刚<a href="http://www.solidot.org/story?sid=54382" target="_blank"><u>泄漏</u></a>的“<u><a href="http://www.icij.org/investigations/paradise-papers" target="_blank">天堂文件 (Paradise Papers</a>)</u>”，美国利润最高的科技公司苹果被发现利用英属泽西岛避税。苹果此前因为采用“双层爱尔兰”之类的避税方法而受到批评，而爱尔兰政府也迫于国际压力决定收紧税收规则，苹果随后开始寻找新的避税方法，也就是<a href="http://www.ftchinese.com/story/001074959" target="_blank"><u>通过英属泽西岛</u></a>。国际调查记者联盟称，苹果“绝大部分利润继续适用超低税率，现在将很大一部分美国以外的盈利放在其 2520 亿美元的离岸金库”。国际调查记者联盟报告称，除了将两家子公司迁至泽西岛，苹果的第三家子公司——Apple Operations Europe 落户爱尔兰。税务专家表示，苹果可能正在利用爱尔兰对专利和商标等知识产权更加慷慨的税收抵免。他们援引了一个证据：爱尔兰的国民账户中突然出现了近 2700 亿美元的无形资产。
+➜坠落试验显示 iPhone X 是最容易碎的 iPhone
+https://www.solidot.org/story?sid=54407	34695
+多家网站和企业测试了 iPhone X 的<a href="https://arstechnica.com/gadgets/2017/11/youre-gonna-need-a-case-iphone-x-fares-poorly-in-first-drop-tests/#p3" target="_blank"><u>抗摔能力</u></a>。CNET <a href="https://www.cnet.com/news/apple-iphone-x-drop-test/" target="_blank"><u>测试了</u></a>从 3 英尺高度的坠落，发现手机在第一次测试中边角的玻璃就出现了破裂，第二次正面坠落测试导致了更多破裂。提供移动设备保护方案的&nbsp; SquareTrade 公司测试了多种手机坠落的场景，它根据结果将 iPhone X 称为是<a href="https://www.dropbox.com/s/lsi5q9c3sc39kia/iPhoneXBreakabilityScorecard.pdf?dl=0" target="_blank"><u>最容易碎</u></a>的 iPhone。iPhone X 使用的 OLED 显示屏如果需要替换的话用户的花费将会比旧型号 LCD 显示屏更多，而苹果一年的保修并不涵盖意外损坏。显示屏技术分析公司 DisplayMate 则<a href="http://www.displaymate.com/iPhoneX_ShootOut_1a.htm" target="_blank"><u>认为</u></a> iPhone X 拥有最具有创新性和高性能的智能手机显示屏。
+➜MINIX 作者发表致英特尔的公开信
+https://www.solidot.org/story?sid=54408	40285
+世界上最流行的操作系统不是 Linux 或 Windows，<a href="https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html" target="_blank"><u>而是 MINIX</u></a>。过去十年发布的所有英特尔处理器都运行了一个修改版的 MINIX 3。由计算机科学教授 Andrew Tanenbaum 作为一个教育工具开发的类 Unix 操作系统内置于每一款新英特尔处理器内。过去几天多家媒体报道了这一消息，以至于惊动了 Andrew 本人。他在个人网站上<a href="http://www.cs.vu.nl/~ast/intel/" target="_blank"><u>发表了公开信</u></a>，强调自己并没有直接参与这个项目，如果这个系统有后门的话，这与他无关（他对此并没有明说只是暗示）。Andrew Tanenbaum 称，MINIX 3 在 2000 年决定采用 BSD 授权，原因是企业不喜欢 GPL 许可证，认为 GPL 会让他们花费许多时间精力金钱去修改代码，然后免费提供竞争对手。他说，英特尔的工程团队几年前接触了他，询问了 MINIX 3 大量的技术问题，要求他对 MINIX 3 进行大量改变，减少内存占用，选择性的关闭不需要的功能。在短暂的活跃之后双方进入了无线电静默，直到现在媒体报道英特尔处理器都运行了 MINIX 3。他对此感到吃惊，但并不在意，因为操作系统是 BSD 授权，英特尔不需要付钱给他。他只是希望英特尔在部署了 MINIX 3 之后能通知他一下，这只是礼貌问题。
+➜比特大陆将发布 AI 芯片
+https://www.solidot.org/story?sid=54409	42688
+最大的矿机制造商比特大陆将在明天举行的 AIWORLD 会议上<a href="https://spectrum.ieee.org/tech-talk/computing/hardware/bitcoins-biggest-tech-player-to-release-ai-chips-and-computers" target="_blank"><u>公布</u></a>基于 ASIC 的深度学习芯片“智子 BM1680”，该公司将开始销售基于这款 AI 芯片的系统。比特大陆的矿机占据了七成市场份额。根据公布的 BM1680 <a href="https://www.sophon.ai/product/sc1.html" target="_blank"><u>规格</u></a>，这款芯片使用 32 位浮点运算，运算速度 2 teraflops，正常功耗 25 瓦，全速运行时功耗会提高到 41 瓦。比特大陆声称，BM1680 的架构类似于 Google 的 Tensor Processing Unit（TPU）。该架构被称为 systolic。该公司工程师称，他们在 2015 年底开始开发自己的 AI 芯片，采用了增强版的 systolic 技术，类似 Google 的 TPU。
+➜研究称女性卵细胞存在“偏见”
+https://www.solidot.org/story?sid=54410	44558
+根据发表《科学》期刊上的一篇<a href="http://science.sciencemag.org/content/358/6363/668" target="_blank"><u>论文</u></a>，宾夕法尼亚大学的研究小组通过小鼠卵母细胞实验，<a href="http://www.ebiotrade.com/newsf/2017-11/2017113151837903.htm" target="_blank"><u>发现了</u></a>一个驱动减数不对称分裂的分子信号。证明女性卵细胞存在 “右倾” 偏见。过去几十年，科学家注意到有些基因传递的几率高于 “偶然概率”，这一现象被称为 “减数分裂驱动（meiotic drive）”。对雌性来说，减数分裂的最后阶段一个细胞会变成活卵子，另一个细胞（通常被称作极体）则会退化。往前溯源，两种细胞形成前，细胞内的纺锤体结构附着在不同染色体上，将最终分属于两个细胞的染色体拉至细胞对侧。研究人员观察小鼠卵母细胞组成纺锤体的微管，发现了微管 “tyrosination（ 酪氨酸化）” 控制的不平衡分布：与靠近皮质部的相比，靠近卵子一边的酪氨酸修饰比较少。这种不对称现象仅在减数分裂期纺锤体从细胞中部向皮质部方向移动时出现。
+➜腾讯从 QQ 中修改了吸烟绘文字
+https://www.solidot.org/story?sid=54411	45886
+腾讯从 QQ 中<a href="http://www.scmp.com/news/china/society/article/2118772/tencent-moves-stub-out-smoking-emoji-leading-chinese-social" target="_blank"><u>修改吸烟绘文字</u></a>。官媒北京青年报报道称，北京控烟协会致函腾讯，建议它从其流行消息应用中改变吸烟绘文字。腾讯没有作出解释就直接用树叶替换了原来嘴里叼的香烟。新浪微博也在今年 9 月做出了类似的改变，但不是修改而是直接移除香烟。北京控烟协会会长表示，吸烟并不酷。
+➜围棋职业比赛将禁止携带电子设备
+https://www.solidot.org/story?sid=54412	47552
+官方的中国围棋协会<a href="http://www.qipai.org.cn/photo-62757.html" target="_blank"><u>宣布</u></a>，鉴于围棋人工智能发展速度，2017 年进行的余下围棋职业比赛将禁止携带电子设备。当然围棋 AI 虽然进步显著，但还没有达到能在移动电子设备上运行的地步。Google AI 子公司 DeepMind 开发出的最先进围棋 AI AlphaGo Zero<a href="http://www.solidot.org/story?sid=54174" target="_blank"><u> 需要</u></a> 4 个专门用于运行深度学习算法的 TPU。中国围棋协会宣布，<i> “1. 比赛期间，对局棋手一律禁止携带、观看手机及其他电子设备，一经发现立即判负。比赛期间指从对局开始到对局结束，包括中间休息的全部时间...3.包括午休时间在内，对局棋手一律禁止回房间。如因特殊情况必须返回房间的，须有当值裁判陪同。4. 团体比赛中，如发现棋手所在队领队、教练及其他相关人员利用人工智能技术影响对局进程，一经查实，全队当轮成绩取消。5. 上述规定，须由当值裁判长在比赛前向对局棋手宣读，赛前棋手可将手机等电子设备交至裁判长处保管。其他细节规定将于 2018 年出台。”</i>

@@ -1,0 +1,70 @@
+➜为什么说系统管理员最可怕
+https://www.solidot.org/story?sid=35299	8906
+Edward J. Snowden曾是NSA的一位IT合同工，他的泄密行为引发了一场辩论：<a target="_blank" href="http://cn.nytimes.com/technology/20130625/c25data/"><u>可以信任IT人员吗</u></a>？NSA局长亚历山大上将(Keith B. Alexander)已宣布该局将实行“一种双人规则”，限制其1000名系统管理员自由访问整个系统的能力。一些情报机构目前已经开始实施该规则。按照该规则，每次访问敏感信息的尝试都要求受到二次审核。这个概念源自密码学领域，从根本上说就是每次打开一个保险箱都需要两套密钥。从政府机构到美国企业界，各方都再度重视阻止IT员工乱来。“最可怕的威胁是系统管理员，”计算机安全公司Hytrust的董事长Eric Chiu说，“系统管理员对自己负责的系统拥有上帝般的权限。”系统管理员可通过root权限访问网络的任意部分。反间谍专家表示，还有一种防止系统管理员乱来的方法是加薪和给予特权，让他们高兴。
+<p></p>
+➜CyanogenMod发布10.1正式版
+https://www.solidot.org/story?sid=35300	9006
+<a href="http://www.chenshaoju.com">陈少举</a> 写道 <I>"<a href="http://www.cyanogenmod.org/" target="_blank">CyanogenMod</a>今天<a href="http://www.cyanogenmod.org/blog/cyanogenmod-10-1-0-release" target="_blank">发布了</a>10.1<a href="http://get.cm/?type=stable" target="_blank">正式版</a>，基于Android 4.2.2，此次发布修正了数百个易用性和稳定性上的<a href="http://changelog.bbqdroid.org/" target="_blank">Bug</a>。</p>
+<p>下一步，CyanogenMod社区将推进<a href="https://github.com/CyanogenMod/android_vendor_cm/commit/b409a897520c13c0183fd9f015ad81a82ee01fe5" target="_blank">10.1.1</a>版本，新版本将侧重于隐私保护，从今天起，<a href="http://get.cm/?type=nightly" target="_blank">每夜编译版本</a>将具备<a href="https://plus.google.com/+CyanogenMod/posts/Vq5Ttf6tY4D" target="_blank">Privacy Guard</a>（<a href="http://www.solidot.org/story?sid=35205" target="_blank">隐私护卫</a>）功能。"</i>
+➜江宁两幼童饿死案继续发酵
+https://www.solidot.org/story?sid=35301	10916
+<a href="mailto:jianggaiwang@gmail.com">CCPIsAWhore</a> 写道 <i>"
+江宁两幼童由于母亲的故意弃养并禁闭家中<a target="_blank" href="http://news.qq.com/a/20130621/016481.htm">被饿死事件</a>曝光之后，继续在微薄强力发酵。有外地记者追查始末，并得到了一些震惊的细节，比如<a target="_blank" href="http://news.shm.com.cn/2013-06/25/content_4136809.htm">南京两幼女饿死真相</a>：整夜拍门喊妈妈，饿到爬进马桶吃粪便。民众愤怒的矛头也开始转向失职的警察对儿童权益的忽视(其母有吸毒史，未调查其是否有监护能力)，以及自扫门前雪的邻居。但是对了解幼童生活处境并听到过幼童呼救的邻居应该负有什么责任，却产生了<a target="_blank" href="http://www.xici.net/d190242295.htm">奇妙的争论</a>。
+"</i>
+➜Xfce、LXDE和GNOME通过兼容层支持Mir
+https://www.solidot.org/story?sid=35302	14490
+<div align="center"><a href="http://img.solidot.com.cn/0/528/liVKRNOvUuNrc.jpg"><img src="http://img.solidot.com.cn/0/528/liVKRNOvUuNrc.jpg" height="163" align="" width="420"></a><br>
+</div>
+<br>
+Canonical自己开发的显示服务器Mir只支持它自己开发的Unity桌面，但该公司的一位工程师利用XMir X.Org Server兼容层，让其它桌面环境<a target="_blank" href="http://www.phoronix.com/scan.php?page=news_item&amp;px=MTM5NDQ"><u>能支持Mir</u></a>。XMir类似Wayland显示服务器的X兼容层XWayland，旨在让旧的 X.Org/X11应用程序能运行在现代显示服务器上。Canonical开发者Thomas Voß<a target="_blank" href="http://test.ubuntu-discourse.org/t/non-unity-desktops-now-running-on-xmir/479"><u>已成功让</u></a>GNOME 3 Shel、Xfce和LXDE运行XMir，利用XMir，传统的窗口管理器仍然能运行，Mir则把它们视为单一的子窗口。Mir原生支持的桌面Unity 8将作为实验版本引入到Ubuntu 13.10中。
+➜澳大利亚政府搁置用户数据收集法案
+https://www.solidot.org/story?sid=35303	14882
+<a href="http://www.igghh.com/allbooks.html">Kindle书</a> 写道<i> "澳大利亚政府<a href="http://www.reuters.com/article/2013/06/24/australia-security-idUSL3N0F01T120130624" target="_blank">搁置</a>了一项存储每个用户通信数据的法案，该法案宣称将有助于司法和情报工作。但是，澳大利亚国会议员发布了<a href="http://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_Committees?url=pjcis%2Fnsl2012%2Freport.htm" target="_blank">一份尖锐批评的报告</a>，这项极具争议的法案最终<a href="http://www.youtube.com/watch?v=IDbgBsXBAWA" target="_blank">被搁置</a>。"</i>
+➜为打击盗版迪士尼和索尼提供正上映电影的按需点播服务
+https://www.solidot.org/story?sid=35304	17431
+《华尔街日报》<a target="_blank" href="http://online.wsj.com/article/SB10001424127887323836504578552521772173386.html"><u>报导</u></a>（需订阅），为减少亚洲的电影盗版，迪士尼公司和索尼影业<a target="_blank" href="http://www.theverge.com/2013/6/24/4458644/disney-sony-on-demand-streaming-korea"><u>开始</u></a>在韩国测试正在影院上映新片的按需点播服务。首批提供的电影包括了《被解放的迪亚戈》、《无敌破坏王》和《勇敢传说》。韩国是世界第八大电影市场，其它好莱坞主要公司据报正密切观察试验效果，有可能会跟进。
+➜检方反驳聂树冰案疑似真凶供述
+https://www.solidot.org/story?sid=35305	22561
+<a href="/~欧野">欧野</a> 写道 <i>"2005年1月，河北省广平县人王书金在河南被警方抓获后供述自己做下的案件包括“1994年石家庄西郊玉米地奸杀案”，而该案“凶手”聂树冰已经在1995年被处决。2007年邯郸市中级人民法院王书金做出一审死刑判决，王书金不服，提起上诉，主要理由是“检方未起诉他在石家庄西郊玉米地的一起奸杀案。”河北省高级人民法院依法受理并曾进行了二审开庭，6月25日，该案二审再次开庭。对王书金的上诉，河北<a href="http://news.163.com/13/0625/11/927AGU2P0001124J.html" target="_blank">检方表示</a>“关键情节上存在重大差异”，重大差异为：1、王仅供述奸杀情节，没有提到被害人颈部缠着花衣；2、王供述杀人方法是先掐脖子再用脚踩胸，而被害人实际是窒息而死，身上没有骨折；3、作案具体时间不符；4、王估计的被害人身高和实际不符。
+本次开庭，河北省外媒体<a href="http://news.163.com/13/0625/09/9274U6NF00014AED.html#from=relevant#xwwzy_35_bottomnewskwd" target="_blank">不准旁听</a>。"</i>
+➜《我是传奇》作者Richard Matheson去世
+https://www.solidot.org/story?sid=35306	23487
+《我是传奇》作者<a target="_blank" href="http://en.wikipedia.org/wiki/Richard_Matheson"><u>Richard Matheson</u></a>于23日<a target="_blank" href="http://news.yahoo.com/am-legend-author-richard-matheson-dies-87-011242928.html"><u>去世</u></a>，终年87岁。他的末世科幻小说《我是传奇》三度改编为电影，最近一部于2007年上映，威尔·史密斯主演。其它改编成电影的小说包括《收缩人（The Shrinking Man）》、《地狱之家（Hell House）》、《A Stir of Echoes》和《美梦成真（What Dreams May Come）》。Matheson还为电视剧《The Twilight Zone》写过多集剧本。他在1984年获得世界奇幻奖终身成就奖，2010年进入科幻名人堂。
+➜甲骨文和微软宣布合作
+https://www.solidot.org/story?sid=35307	25422
+甲骨文<a target="_blank" href="http://cn.wsj.com/gb/20130625/tec085959.asp"><u>宣布</u></a>与竞争对手微软合作，共同确保甲骨文的数据库和其他软件能在微软的两项服务软件上正常工作，允许企业在Windows Server Hyper-V和Windows Azure上运行关键的甲骨文软件。甲骨文和微软既是竞争对手，又是合作伙伴。此举也显示甲骨文正进一步开拓云计算市场。而在2008年，公司创始人<span class="focusParagraph">埃利森曾说，</span><span class="focusParagraph">云计算是什么玩意，他认为</span><span class="focusParagraph">云计算“没有意义的概念”。</span><span class="focusParagraph">五年之后的今天，这位亿万富翁正在带领已显老态的IT巨人<a target="_blank" href="http://cn.reuters.com/article/CNAnalysesNews/idCNCNE95N09X20130624?sp=true"><u>努力适应</u></a>这个以云计算为中心的世界。分析师认为，甲骨文第四季新软件销售十年来首次未达预期，凸显了该公司在此领域的困境。</span>
+➜韩国匿名组织同时攻击朝鲜和韩国网站
+https://www.solidot.org/story?sid=35308	29388
+6月25日是朝鲜战争爆发63周年，韩国匿名组织<a href="https://twitter.com/YourAnonNewsKR"><u>Anonymous Korea</u></a>分别攻击了朝鲜和韩国网站，它<a target="_blank" href="http://hackersnewsbulletin.com/2013/06/list-of-damage-under-opnorthkorea-updating-as-the-hack-happens.html"><u>公开了</u></a>被攻击网站的名单，其中包括多家中国政府网站如淄博检查网<a target="_blank" href="http://country.zbjcy.gov.cn/index.html"><u>zbjcy.gov.cn</u></a>和<a target="_blank" href="http://gzzw.gov.cn/"><u>gzzw.gov.cn</u></a>，中国也是韩战的参战方。韩国总统府青瓦台网站被黑客涂鸦，官网上方显示多条红色字句——如伟大的金正恩首领和统一总统金正恩将军万岁！。韩国政府因此<a target="_blank" href="http://chinese.yonhapnews.co.kr/allheadlines/2013/06/25/0200000000ACK20130625001800881.HTML"><u>发布了黑客预警</u></a>。朝中社，劳动新闻、高丽航空、我们民族之间、平壤出版物、民族大团结、朝鲜之声等朝鲜的主要网站也因匿名黑客的攻击<a target="_blank" href="http://chinese.yonhapnews.co.kr/allheadlines/2013/06/25/0200000000ACK20130625002200881.HTML"><u>瘫痪</u></a>。
+➜惠普发布21.5英寸Android一体机
+https://www.solidot.org/story?sid=35309	31093
+<div align="center"><img src="http://img.solidot.com.cn/0/529/liXITFlKdOAAQ.jpg" height="225" align="" width="300"><br>
+</div>
+<br>
+Android手机、Android平板、甚至Android笔记本，现在还有了Android一体机。惠普公司在北京的发布会上<a target="_blank" href="http://arstechnica.com/gadgets/2013/06/your-next-desktop-could-be-a-21-5-inch-android-tablet-from-hp/"><u>宣布了</u></a>HP Slate 21 一体机Android平板。显示屏大小21.5英寸，分辨率1920×1080，配备了 Nvidia Tegra 4 SoC，运行 Android 4.2.2操作系统。其它配置包括HD摄像头、集成扬声器，Wireless Direct无线打印技术。Slate 21起步价<a target="_blank" href="http://h20435.www2.hp.com/t5/The-Next-Bench-Blog/Slate21-Android-Lands-on-One-Awesome-All-in-One/ba-p/81757"><u>399美元</u></a>，九月上市，内置8GB储存空间，支持SD卡扩展和通过 USB 2.0连接外置硬盘，它是目前惠普最便宜的一体机，可作为桌面也可当作平板使用，惠普认为它作为入门级设备很有吸引力。Linux桌面时代终于到来了？
+➜如何申报中国的社科类课题
+https://www.solidot.org/story?sid=35310	32717
+《新周刊》的一篇报道揭密了<a target="_blank" href="http://622006399.qzone.qq.com/blog/1364894158#!app=2&amp;via=QZ.HashRefresh&amp;pos=1372050697"><u>国家社科课题申报之术</u></a>。<br>
+<i>国家社科规划办通常在每年年底发布23个学科的“课题指南”，意味着申报课题只能是“规定动作”。项目申报的指导思想也彰显了其“智库导向”。国家社科办的官方阐释是：“哲学社会科学除了个别学科，绝大多数学科内容都具有比较鲜明的意识形态属性。2013年度国家社会科学基金重大项目招标课题研究方向包括：西方‘言论自由’、‘新闻自由’的虚伪
+本质研究。有历史学者质疑说，既然还没有研究，怎么就知道它本质‘虚伪’呢？既然知道它本质‘虚伪’了，为什么还要花纳税人的钱研究？...在这些指南中，有不少一眼看上去便是体现“宏大叙事、时事热点”的题目，往往还是重大项目，经费高达80万。此类项目一般涉及“中国特色社会主义”、“科学发展观”等，指南中“马克思主义文艺的中国化”、“延安左翼作家研究”几个项目提供的金额很可观。“紧跟时事政策”之风蔓延于整个社科领域。记者在中国知网上搜索发现：“三个代表”论文数从2003年的数千降至2012年的十位数；“科学发展观”论文数从2009年的近万骤减至2012年的千余；十八大后，“美丽中国”的论文数从零上升至过百。</i>
+➜斯诺登跑路是因为忧虑监狱不能用电脑
+https://www.solidot.org/story?sid=35311	33982
+前NSA系统管理员斯诺登(Edward J. Snowden)上周日上午离开香港<a target="_blank" href="http://www.solidot.org/story?sid=35279"><u>飞往莫斯科</u></a>，此举引发了美国的强烈不满，认为破坏了美国和中国之间的关系。斯诺登的律师何俊仁透露，斯诺登选择离开的一大动机是忧虑<a target="_blank" href="http://cn.nytimes.com/china/20130625/c25hongkong-update/"><u>监狱不能用电脑</u></a>。斯诺登从两人的谈话中得知，在决定他能否得到庇护、或被递交给美国的法律程序中，他可能会在监狱里度过数年，不能接触电脑，为此他深感失望。被禁锢在香港本地支持者拥挤的家中并不令斯诺登烦恼，然而，失去电脑的前景却把他吓着了。何俊仁说，“他未曾出门，整日都待在一个狭小的空间，不过，他说那不是问题，因为他有他的电脑。如果你要剥夺他的电脑，他将完全无法忍受。”
+➜科学家调查用无人机为作物喷粉
+https://www.solidot.org/story?sid=35312	36972
+加州大学戴维斯分校的研究人员与雅马哈公司合作，正在测试<a target="_blank" href="http://www.gizmag.com/uav-crop-dusting/27974/"><u>用无人机为农作物喷粉</u></a>，目的是将日本的无人机喷粉技术引进美国。但技术问题并不是无人机喷粉面临的唯一障碍。利用飞机喷撒农药和播种已有上百年历史，但它并不万能。低空为农田喷撒农药最适合的地理位置是北美大平原，因为这里地势平坦，而且没有树木和电力线等障碍。而在楼宇密集和地势崎岖的地方，飞机或直升机喷粉并不可行。即时在理想情况下，低空飞行也具有危险性。日本地形变化多端，本来不适合用飞机喷撒农药和播种，但这个老龄化社会有强烈的动机拥抱自动化技术，日本利用无人机喷粉已有二十多年历史，今天该国五分之二的水稻面积使用无人机喷粉。
+➜MIT研究人员利用看不见的头部运动测脉搏
+https://www.solidot.org/story?sid=35313	39698
+脸部视频可以精确透露出你的心跳速度。MIT研究人员 <a target="_blank" href="http://people.csail.mit.edu/balakg/"><u>Guha Balakrishnan</u></a>和同事开发出一套系统，通过分析血液流动导致的细微头部运动<a target="_blank" href="http://www.newscientist.com/article/dn23746-video-system-detects-pulse-from-tiny-head-movements.html#.UclxUJwcX9E"><u>去测量心跳</u></a>。这种微小的运动肉眼无法识别。系统首先利用面部识别技术从视频中识别出脸，然后在嘴和鼻子附近随机选择数百个点，逐帧跟踪点的运动，消除呼吸和位置变化引起的移动，得到心跳的频率范围。这项技术可用于监视婴儿和老年人的心跳，判断心脏风险。
+➜天文学家在附近星系发现三颗位于宜居带的行星
+https://www.solidot.org/story?sid=35314	42002
+<div align="center"><img src="http://img.solidot.com.cn/0/530/liGRu7WreXc1M.jpg" height="164" align="" width="400"><br>
+</div>
+<br>
+一组天文学家利用欧洲南方天文台的高精度视向速度行星搜索器（HARPS）的现有数据，结合新的观察，发现Gliese 667C有三颗超级地球位于可能存在液态水的<a target="_blank" href="http://www.eso.org/public/news/eso1328/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+EsoTopNews+%28ESO+Top+News%29"><u>适宜生命居住区域</u></a>。Gliese 667C是Gliese 667三星系统之一，位于天蝎星座，距离地球22光年，质量为太阳的三分之一，此前它被认为有三颗行星，其中一颗位于宜居带。天文学家利用来自HARPS和甚大望远镜VLT等的新观察数据，发现它有七颗行星，其中三颗超级地球位于宜居带。这是天文学家首次发现同一个星系有三颗超级地球位于宜居带。
+➜华纳兄弟将盗版视为消费需求的信号
+https://www.solidot.org/story?sid=35315	43564
+主要大电影公司开始认识到，盗版并不全然邪恶，它可能帮助塑造未来的商业模式。华纳兄弟的反盗版负责人David Kaplan表示，一般来说，他们将盗版<a target="_blank" href="http://torrentfreak.com/warner-bros-pirates-show-us-what-consumers-want-130624/"><u>视为消费需求的信号</u></a>，因此反盗版执法努力必须与寻找方式调整或开发商业模式利用消费者需求平衡起来。由此可见，电影公司意识到，他们可以通过改变服务提供更好的体验吸引消费者击败盗版。华纳兄弟会继续打击通过侵权牟利的商业盗版行为，这是他们的首要任务。
+➜硅的日子屈指可数
+https://www.solidot.org/story?sid=35316	46059
+加州伯克利大学教授胡正明确信硅的日子屈指可数，下一代或下下一代人将不会再使用硅，<a target="_blank" href="http://spectrum.ieee.org/semiconductors/design/changing-the-transistor-channel"><u>将会有更好的材料去取代硅</u></a>。硅基晶体管无法一直缩小下去，芯片公司已经考虑用其它材料取代硅，其中的热门替代材料包括锗和半导体化合物III-V。这些材料可能制造出更快耗电更少的晶体管，创造出更致密、更快散热更好的芯片。行业专家估计，转变最早将从2017年开始。新一代的晶体管架构将可以让摩尔定律顺利进入下一个十年。

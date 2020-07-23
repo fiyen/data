@@ -1,0 +1,45 @@
+➜美国早在数年前就搜集华为证据
+https://www.solidot.org/story?sid=59816	10762
+路透社援引知情人士的消息和相关文件<a href="https://cn.reuters.com/article/usa-china-huawei-tech-insight-0307-idCNKCS1QO0F9"><u>报道</u></a>，美国对华为的调查几年前就启动了。六年前路透社报道了华为和中兴涉嫌违反伊朗制裁规定，披露了华为与 Skycom Tech 之间的关系。孟晚舟 2014 年初经由肯尼迪国际机场抵达美国时，调查人员在她的一个电子设备上发现了华为与 Skycom 存在关系的证据。2014 年 9  月 12 日美国对中兴高管的另一次边境检查，发现了中兴一份日期为 2011 年 8 月 25 日的机密文件，其中提到了“F7”绕过制裁的策略。F7 就是华为。随着中兴通讯案件告一段落，十几名来自财政部、商务部、国土安全部和司法部的人员 2017 年 2 月 14 日在华盛顿开会，讨论该如何推进华为案。2018 年夏天，美国调查人员在得知孟晚舟在 12 月 1 日前往墨西哥的途中，会在温哥华转机，要求加拿大方面在机场予以逮捕。
+➜Notepad++ 移除代码签名
+https://www.solidot.org/story?sid=59817	11586
+流行编辑器 Notepad++ 释出了 7.6.4 版本，该版本<a href="https://notepad-plus-plus.org/news/notepad-7.6.4-released.html" target="_blank"><u>移除了代码签名</u></a>。开发者解释了原因：DigiCert 在三年前捐赠了有效期为三年的代码签名证书，该证书于今年初过期，他尝试以合理的价格购买新的代码签名证书。由于 Notepad++ 不是企业或机构，他无法使用 CN=Notepad++，他浪费了很多时间在上面，最后认识到代码签名证书对于自由开源软件作者来说就是过于昂贵的自慰工具。Notepad++ 在十多年里一直没有使用代码签名证书，他不认为现在仍然需要依赖证书。他因此决定移除代码签名，但这并不意味着软件就不再安全了。Notepad++ 从现在起每个版本都会提供 SHA256 哈希，程序将会检查它使用的每一个组件的 SHA256 哈希。7.6.4 改进了 Markdown 支持，修复了欧盟自由软件 Bug 悬赏项目 Free and Open Source Software Auditing Bug Bounty 识别的问题和 Bug。
+➜内存芯片价格大跳水
+https://www.solidot.org/story?sid=59818	12716
+跟踪内存芯片价格的市场研究公司 DRAMeXchange 报告，今年一季度计算机 DRAM 芯片的合同价格<a href="https://www.eetimes.com/document.asp?doc_id=1334411"><u>下跌了 30%</u></a>，为 2011 年以来的单季度最大跌幅。DRAM 的库存水平自去年第四季度起持续下降，绝大多数 DRAM 供应商只有 6 周左右的库存。此外，低端英特尔处理器的短缺预计将会持续到今年第三季度，影响了 PC OEM 厂商消化  DRAM 库存的能力，意味着  DRAM 价格的下降并不能有效驱动销售。
+➜德国电信安全指引没有明确封杀华为
+https://www.solidot.org/story?sid=59819	13531
+德国公布的新版电信安全指引<a href="http://www.ftchinese.com/story/001081783" target="_blank"><u>并未明确禁止这家中国公司</u></a>。该标准是由德国联邦网络监管机构 (BNetzA) 在联邦信息技术安全署 (BSI) 的帮助下制定的。这份文件没有提到华为，但指出，电信设备只能向值得信赖的供应商购买，且供应商须 “明确遵守国家安全法规和电信保密规定”。该文件还指出，关键核心部件只有经过 BSI 批准的实验室测试、通过 BSI 认证、并在交付时经过验收测试合格后才能安装。这些设备还必须定期接受安全检查。BNetzA 还坚持要求电信运营商持续监测网络流量，以发现异常情况，并将设备来源多元化，以避免依赖单一供应商。
+➜暴雪在 GOG 上发布无 DRM 的暗黑破坏神
+https://www.solidot.org/story?sid=59820	15128
+暴雪<a href="https://us.diablo3.com/en/blog/22887361/diablo-now-available-on-gogcom-3-7-2019"><u>宣布</u></a>，它的经典 ARPG 游戏《暗黑破坏神》在 GOG 上发布<a href="https://www.gog.com/game/diablo"><u>无 DRM 版本</u></a>，中国区售价 39 元。第一代的《<a href="https://zh.wikipedia.org/wiki/%E6%9A%97%E9%BB%91%E7%A0%B4%E5%9D%8F%E7%A5%9E_(%E6%B8%B8%E6%88%8F)"><u>暗黑破坏神</u></a>》于 1996 年 12 月 31 日发布，玩家扮演的英雄将深入崔斯特瑞姆大教堂去挑战恐惧之王迪亚波罗。暴雪首次释出的无 DRM 版《暗黑破坏神》支持高清分辨率，兼容现代操作系统，玩家无需使用 DOSBox 就能直接在 Windows 7、8 和 10 上运行。无 DRM 版《暗黑破坏神》只支持英文，不包含游戏资料片《暗黑破坏神：地狱火》。暴雪宣布它还会在 GOG 上发布魔兽争霸系列的无 DRM 版本。
+➜Windows 10 设备数突破 8 亿
+https://www.solidot.org/story?sid=59821	17681
+微软宣布 Windows 10 设备数<a href="https://arstechnica.com/?p=1470411" target="_blank"><u>突破 8 亿</u></a>，比半年前增加了一亿。微软在最初发布 Windows 10 时希望能在 2 到 3 年内有 10 亿用户，因为当时还有移动平台。Windows 10 是微软统一桌面和移动的系统，然而移动平台已经失败。没有了移动用户，Windows 10 的增长速度落后于原计划。微软在 2017 年 5 月的 Build 会议上宣布 Windows 10 用户突破 5 亿，当年 11 月宣布突破 6 亿，2018 年 9 月宣布突破 7 亿。从 7 亿到 8 亿的时间间隔要比之前短，一个原因可能是它是新计算机默认预装的操作系统，而越来越多的用户开始更新换代。
+➜魅族无孔手机众筹失败
+https://www.solidot.org/story?sid=59822	19207
+智能手机制造商魅族今年一月<a href="https://www.solidot.org/story?sid=59413" target="_blank"><u>宣布了</u></a>没有任何插槽、USB 端口或耳机接口或按钮的智能手机 “魅族 zero”，售价 1300 美元，并在 Indiegogo上发起众筹，大概是想知道市场是否对其感兴趣。魅族设置了一个非常低的众筹目标，仅仅为 10 万美元，也就是只需要 77 个人预订就能超过目标。然而即便目标是如此之低，到众筹结束只有 29 个人<a href="https://tech.slashdot.org/story/19/03/07/1845200/meizus-1300-zero-smartphone-with-no-ports-got-just-29-pre-orders-on-indiegogo"><u>对它感兴趣</u></a>，其中还不知道有没有魅族雇员。公司 CEO 黄章将此事归罪于市场部乱搞，<a href="https://bbs.meizu.cn/viewthread.php?tid=10763248"><u>他说</u></a>，“这个众筹就是市场部瞎搞的，无孔手机只是开发部的一个预研项目，我们从来没有打算要量产这个项目。”
+➜费城禁止无现金零售店
+https://www.solidot.org/story?sid=59823	25651
+美国费城市长签署了一项法案，<a href="https://arstechnica.com/tech-policy/2019/03/sorry-amazon-philadelphia-bans-cashless-stores/" target="_blank"><u>禁止无现金零售店</u></a>，让费城成为美国第一个要求实体零售店必须接受现金的大城市。马萨诸塞州则是在 1978 年要求零售店必须接受现金。法律将于 7 月 1 日生效，它不适用于会员制的商店如 Costco，也不适用于需要信用卡或借记卡作为追补款的地方。违反该法律的零售店将面临最高 2000 美元罚款。亚马逊的 Amazon Go 是一种无现金的商店，电商巨头曾尝试让 Amazon Go 得到豁免，前往 Amazon Go 购买并不需要 Prime 会员资格，因此无法满足现有的豁免条款。这项法律的支持者认为，不接受现金可能会伤害到那些可能负担不起或没有资格获得信用卡或想要避免额外付费的贫困居民。隐私倡导人士也认为无现金支付实际上是与第三方公司分享消费记录。
+➜多种海洋带状蠕虫具有头部再生能力
+https://www.solidot.org/story?sid=59824	27477
+根据发表在《Proceedings of the Royal Society B》期刊上的<a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2524"><u>研究</u></a>，科学家<a href="http://www.ebiotrade.com/newsf/2019-3/201937162031403.htm"><u>发现</u></a>多种海洋带状蠕虫具有头部再生能力。所有动物都具有一定程度的再生能力。即使是人类，皮肤受伤后也会再生。研究人员在 2014-2014 年间从美国、阿根廷、西班牙和新西兰的沿海地区收集了带状蠕虫。他们对 22 个物种开展了再生实验，将它们分成两半，然后观察其再生能力。他们还从之前的研究中获得了其他 13 种带状蠕虫的信息。所有物种都能够通过再生后半部分而恢复成完整个体。只有八个物种能够再生头部，从身体的后半部分恢复成完整个体。其中四个是之前已知的，而另外四个是新发现的。
+➜电邮验证服务泄漏 8 亿电邮地址
+https://www.solidot.org/story?sid=59825	31471
+安全研究员 Bob Diachenko 和 Vinny Troia 上周<a href="https://securitydiscovery.com/800-million-emails-leaked-online-by-email-verification-service/"><u>发现了</u></a>一个没有密码保护的 MongoDB 数据库，包含了 150GB 数据，其中包括 7.63 亿唯一电邮地址，部分数据还包含个人身份信息。该数据库的所有者是电邮验证公司 Verifications.io，它在收到报告之后便把数据库下线了。该数据库<a href="https://www.wired.com/story/email-marketing-company-809-million-records-exposed-online/"><u>被由于电邮营销</u></a>，从事电邮营销的公司需要验证电子邮件是否有效，但如果亲自验证的话可能会被识别为垃圾邮件，因此这些企业将验证工作外包给 Verifications.io 这样的公司，以避免被反垃圾邮件过滤器加入到黑名单，而 Verifications 验证邮件本质上也是发送 Spam，但它并不担心被屏蔽。Verifications 的数据库包含了 8.09 亿条记录，主要是名字、电邮地址、电话号码、住址。但还有部分记录包含了更详细的个人身份信息如性别、出生日期、贷款金额、利息、相关 Facebook、LinkedIn 和 Instagram 账号。
+➜以色列公开新发现的爱因斯坦手稿
+https://www.solidot.org/story?sid=59826	33670
+为了纪念爱因斯坦诞辰 140 周年，耶路撒冷希伯来大学<a href="https://www.bbc.com/zhongwen/simp/science-47487977" target="_blank"><u>披露了一批爱因斯坦的手稿</u></a>，其中许多是首次公开展出。这批手稿包含超过 110 份新文件，由 Crown-Goodman 家族基金捐赠，该基金从北卡罗来纳州一个私人收藏家处购得，其中包括爱因斯坦关于统一论的文章附录，这份文件从 1930 年后消失在人们的视野中，曾被认为丢失了。新披露的其中一份手稿是爱因斯坦写给另一位科学家 Michele Besso 的信。爱因斯坦在信中承认，经过 50 年的努力，他依然不了解光的量子特性。此前，他曾花了 30 年时间希望用一个理论来统一解释自然界的各种力。
+➜日本允许自动驾驶汽车司机看手机
+https://www.solidot.org/story?sid=59827	35128
+日本旧的《道路交通法》禁止驾驶人员在驾驶中操作智能手机和注视车载导航仪，本周五通过的新修正案<a href="http://cn.nikkei.com/politicsaeconomy/economic-policy/34638-2019-03-08-15-14-19.html" target="_blank"><u>将自动驾驶排除在上述规定的适用对象之外</u></a>。修正案以紧急时切换为手动驾驶为前提，将解禁智能手机操作等 “开车一心二用”。车辆驾驶员此前还需承担遵守交通规则等 “安全驾驶义务”，禁止喝酒、睡觉、吃东西和读书没有明确的法律上的规定。在修正案中，吃东西等没有明令禁止，但事故发生时司机有可能被控违反安全驾驶义务。喝酒和睡觉则仍然被严令禁止。修正案还要求通过车辆配备的装置记录行驶状态，保存数据。
+➜中国的外卖不再便宜
+https://www.solidot.org/story?sid=59828	35849
+在中国，订餐服务的一大卖点是价格：在早些年，订外卖可能比在家吃饭便宜得多，这无疑满足了一批喜欢宅在家里的食客的需要，但这种情况可能不会持续太久了。过去几个月，中国的外卖用户已经注意到，他们通过饿了么和美团订购的外卖价格在不断上涨。<a href="https://techcrunch.cn/2019/03/07/no-more-cheap-food-delivery-in-china/" target="_blank"><u>价格上涨的原因是什么呢</u></a>？外卖平台业务重心在经历了一场巨变后发生了变化，开始着手从每笔订单交易中抽取更多的分成，在一些情况下分成比例超过 20%。很难确定饿了么和美团从每笔交易中向餐厅收了多少钱，因为收费会因餐厅位置、类型和规模而有所不同。外界普遍认为，两家公司每隔几个月就上调一次佣金，迫使餐馆重新考虑外出送餐的策略。
+➜如何计算免费服务的价值
+https://www.solidot.org/story?sid=59829	38869
+今天的互联网服务以免费为主，用户以个人信息作为交换，我们很难估算下个人隐私的价值，但估算免费服务的价值也许是可能的。举例来说，微信是中国最流行的移动消息应用，给你多少钱你愿意不用微信？在日本，LINE 是最流行的移动消息应用，调查显示，用户愿意以一年 300 万日元交换一年不使用 LINE。免费服务因为其流行度而对用户的生活日益重要，放弃的代价也日益昂贵。这种价值<a href="http://cn.nikkei.com/columnviewpoint/column/34521-2019-03-08-05-00-00.html"><u>很难计算出来</u></a>。
+➜今年二月整月无太阳黑子
+https://www.solidot.org/story?sid=59830	42128
+2019 年2 月 28 天内<a href="http://spaceweather.com/archive.php?view=1&amp;day=01&amp;month=03&amp;year=2019"><u>没有观察到任何太阳黑子</u></a>。上一次整个公历月没有黑子还是 2008 年 8 月，当时太阳活动正处于极小期。如今，太阳进入到了新的极小期，到目前为止太阳没有黑子的天数占 73%，与 2008 年相同。<a href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E6%A5%B5%E5%B0%8F%E6%9C%9F" target="_blank"><u>太阳极小期</u></a>是太阳周期中太阳活动最低的时期，在这段期间太阳黑子和闪焰的活动减少到接近零。太阳极小期和太阳极大期是太阳 11 年的活动周期中的两个极端时期。

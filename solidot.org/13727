@@ -1,0 +1,33 @@
+➜完全公平调度器(CFS)游戏执行性能不逊于SD
+https://www.solidot.org/story?sid=3443	2520
+CFS取代SD调度器的争论仍在延续，<a href="http://kerneltrap.org/node/14023">这次的焦点是Linux上的3D游戏</a>。针对部分人认为CFS处理3D游戏方面不如SD，开发者Ingo Molnar在邮件中指出“一些人已用3D游戏进行了测试，CFS的测试结果相当不错。从性能上讲，两者相差无几，CFS在一些领域还强于SD调度器”。Ingo Molnar表示CFS早期版本中的回归（regressions）问题已修复，但最近的报告仍然提到了这个问题。<br>
+Linus Torvalds对此的评价是“我认为任何时候调度器都不会是完美的。正确的答案并非是非此即彼，选择是一种平衡。在我更换调度器之前，我100%确定未来我们会再次更换它。调度器实际上没有想象中那么重要：它只是内核中很小的一部分”。从文章中透露的信息看来，Linus很有信心，将CFS合并进Linux kernel是正确的决定。至于<a href="http://linux.slashdot.org/linux/07/07/31/1457207.shtml">Linux上的游戏</a>，这不是一个调度器能解决的，硬件的支持十分重要（想想驱动），Linux用户肯定会继续遭受挫折，或许要等很多年，FOSS游戏才能有所作为。
+➜聪明的年轻人不做爱
+https://www.solidot.org/story?sid=3444	13260
+Gene Expression报道，George Mason大学的经济学家Tyler Cowen提供了最新一项关于<a href="http://www.gnxp.com/blog/2007/04/intercourse-and-intelligence.php">不同IQ等级的年轻人与性行为推迟之间关系</a>的研究报告。研究依旧来自于统计，对象是美国中学处于青春期的青少年，结论是IQ较高的和IQ教低的年轻人拥有第一次性关系经验的几率比智力一般的人要少。例如，男性中IQ低于 70的人中，有63.3%的仍旧是处男；IQ在70-90之间处男仅占50.2%；IQ在90-110之间为58.6%；IQ高于110的聪明人则有70.3%的人是处男。2000年曾经进行过类似的但更为严谨的研究，结论惊人的相似：<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=10706169&amp;dopt=Abstract">聪明的年轻人不做爱</a>（也很少亲吻）。
+➜《第二人生》和《魔兽世界》成恐怖分子训练营？
+https://www.solidot.org/story?sid=3445	23760
+微软著名的《模拟飞行》曾被恐怖分子用于训练飞行技能，现在又有专家声称<a href="http://www.theaustralian.news.com.au/story/0,25197,22161037-28737,00.html">Second Life和 World of Warcraft都被用作训练恐怖分子</a>。澳大利亚报纸说Second Life中有3个恐怖分子圣战登记机构和2个精英圣战组织，他们利用《第二人生》来招募和训练新兵。排在首位的就是大名鼎鼎的第二人生解放军（Second Life Liberation Army）。一位专家说恐怖分子用虚拟游戏来预先演练军事行动是因为在现实世界里无法这样做。恐怖分子把《魔兽世界》这类游戏当作训练模拟环境，所使用的虚拟武器就相对于真实武器。"
+➜Leopard获得UNIX 03认证
+https://www.solidot.org/story?sid=3446	26340
+<a href="mailto:harryl.byreadNO@SPAMgmail.com">kcome</a> 写道 <i>"<a href="http://www.engadget.com/2007/08/01/leopard-qualifies-for-official-unix-03-certification/">Engadget报道</a>，苹果的Leopard，Mac OSX 10.5，近日通过了Open Group的Unix 03认证。以此，苹果成为继IBM，Sun，HP之后的第四位获得官方UNIX认证的公司。
+<br>
+获得认证所需要符合的规范包括了库函数、系统调用、终端界面、命令、工具、国际化以及C语言等相关方面的要求。达到了这些认证，意味着Leopard可以很轻松地和其他Unix系统之间进行程序移植。"</i>
+➜中国文档格式之战
+https://www.solidot.org/story?sid=3447	28920
+微软千方百计想把自己创造的Office Open XML (OOXML) 标准认证为ISO国际标准，已经存在的OpenDocument Format (ODF)标准处境有点不妙，世界上真的需要两个相似的标准吗？微软说需要，因为消费者需要多样性和可选择性。<i>
+在中国，这个问题更为复杂。中国自己搞了一个<a href="http://en.wikipedia.org/wiki/Uniform_Office_Format">Uniform Office Format</a>（中文办公软件文档格式规范），但是支持者寥寥，<a href="http://www.zdnetasia.com/blog/opensource/0,39060102,63000113,00.htm">中国面临进退两难的窘境</a>，它的选择是与OOXML或ODF合并。但是微软标准有个大问题：它没有考虑多平台，除Windows之外的平台；以及其它现有的标准。例如微软标准不支持RFC 3987标准，后者定义了通用UTF-8编码的网址。目前微软的标准也不支持中文网址，不仅仅是中文，其它语言上也一样。掌握自己的ISO投票权，中国最好不要投票给OOXML标准，以迫使微软与其它文档标准之间进行对话。"</i>
+➜世界IQ最高的人：金恩荣
+https://www.solidot.org/story?sid=3448	31560
+维基百科上提到了一个<a href="http://reddit.com/info/2bh2m/comments">IQ高达210</a>的人：韩国人金恩荣（<a href="http://en.wikipedia.org/wiki/Kim_Ung-yong">Kim Ung-yong</a>），他生于1962年，5个月能走路和说话，7个月能写字和下棋。3岁学微积分，4岁时就能读能写日、韩、英、德四国文字。1967年11月2日在日本电视台直播中他解决了多个复杂的微积分问题，并展示了语言天赋，用四国语言进行了演讲，还作了首诗。7岁时候访问了NASA，15岁前获得了科罗拉多州立大学物理学博士学位。1974年开始在NASA进行研究工作，1978回韩国，但韩国不承认他的博士头衔，于是继续学习，但没选择物理学而是选择了土木工程，最终获得了博士学位。2007年在国立忠北大学(CHUNGBUK NATIONAL UNIVERSITY)工作。
+➜编译源代码的工具
+https://www.solidot.org/story?sid=3449	35100
+作为终端用户我们当然不需要自己动手编译源代码，软件开发者已经帮我们做好了。然而随着开源运功的普及和兴旺，源代码随处可见，我们也能享受阅读和编译代码的乐趣。<a href="http://howto.wired.com/wiredhowtos/index.cgi?page_name=compile_software_from_source_code;action=display;category=Work">不同的平台需要不同编译工具</a>，Windows，Mac OS X ，Linux x86的二进制包并不相同。首先你需要一个命令行和编译器。<i>
+Linux：著名的编译器gcc，没有的话可以从软件包管理程序中寻找。<br>
+Mac OS X：命令行工具是Terminal，位于Applications/Utilities下，编译器可用<a href="http://developer.apple.com/tools/download/">XCode</a>。
+<br>
+Windows；微软提供了免费的编译器<a href="http://msdn.microsoft.com/vstudio/express/">Visual Studio Express</a>，但<a href="http://www.cygwin.com/">Cygwin</a>更强大也更友好。</i>
+文章后面举例说明了下载源代码编译的整个过程。"
+➜俄罗斯宣称拥有北极主权
+https://www.solidot.org/story?sid=3450	36600
+俄罗斯即将用<a href="http://www.telegraph.co.uk/news/main.jhtml;jsessionid=R4YA22ACPBC1TQFIQMFCFF4AVCBQYIV0?xml=/news/2007/08/01/wpole101.xml">在北极圈插国旗的方式</a>来宣称北极主权。<i>俄罗斯科考机构发言人1日说，由俄议员领队的俄科考队当天下午抵达北极，准备2日乘小潜艇在北极点下海床放置一个装有俄国旗的胶囊状容器。由于科学家相信北极地区海底下可能蕴藏石油、天然气等资源，除俄罗斯外，北冰洋沿岸的美国、加拿大、挪威等国也在积极计划在北极开拓疆土。</i>

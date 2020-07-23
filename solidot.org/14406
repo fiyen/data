@@ -1,0 +1,119 @@
+➜绿坝软件侵犯BSD协议
+https://www.solidot.org/story?sid=11784	3000
+匿名读者 写道 "轰轰烈烈的“绿霸－花季护航”流氓软件的事情大家都已经知道了，鉴于所谓的国情，很多事情都不说也罢了。抛开政治因素以单纯的技术角度看这个软件，尤其令人诧异的是这个流氓软件对BSD软件许可证肆无忌惮的践踏和侵权！请看<a href="https://docs.google.com/View?id=afk7vnz54wt_12f8jzj9gw">绿坝-花季护航软件技术分析</a>，请注意本文以下分析内容：
+<i>
+从 XFImage.xml可观察到，绿霸使用了OpenCV的haar分类器进行人脸检测。绿霸附带的cximage.dll、CImage.dll、 xcore.dll和Xcv.dll也来自OpenCV的库文件。都反映出绿霸主要使用了OpenCV来进行图像方面的处理。不过就像一般国产软件的做法，<a href="http://robbin.javaeye.com/blog/406125">绿霸大概也无视了OpenCV的BSD许可证</a>。"</i>
+➜Ubuntu 10.04瞄准10秒启动
+https://www.solidot.org/story?sid=11785	5760
+Ars Technica报道，Ubuntu Linux发行版的开发者们正在努力改进系统的启动性能，他们雄心勃勃的目标是2010年发布的<a href="http://arstechnica.com/open-source/news/2009/06/ubuntu-aims-for-ten-second-boot-time.ars">Ubuntu 10.04启动时间将缩短到10秒</a>。<i>
+不久前刚刚发布的Ubuntu 9.04的启动时间，已经从Ubuntu 8.10的65秒缩短到25秒。虽然这方面改进足以引入瞩目，但Canonical相信仍然有提高的空间。根据发布在Ubuntu开发者邮件列表上的邮件，开发者Scott James Remnant讲述了如何改进启动性能的方法，包括尽可能快的运行Xorg，减少udev设备管理器和initramfs等组件载入所需时间。其中initramfs是系统内存临时文件系统，有助于启动进程更快的完成。</i>
+➜Linux Kernel 2.6.30发布
+https://www.solidot.org/story?sid=11786	7920
+<a href="http://lkml.org/lkml/2009/6/9/710">Linux Kernel 2.6.30</a>正式发布，主要的<a href="http://linux.slashdot.org/article.pl?sid=09/06/10/1243232">新特性</a>包括：<i>
+新的日志结构文件系统NILFS2，基于对象的储存设备文件系统exofs，NFS本地缓存，NFS 4.1初步支持，RDS协议（集群服务器之间的递送高性能可靠连接），新的分布式网络文件系统POHMELFS，ext3、ext4和btrfs的文件重命名/截断自动刷新，支持Microblaze架构，初步支持802.11w草案，Tomoyo安全MAC，DRM（直接渲染管理器）支持Radeon R6xx/R7xx显卡，异步扫描设备和分区快速起动，系统调用preadv/pwritev；Kernel image和initramfs可用Bzip2或LZMA压缩，减少储存空间；以及大量新驱动（如支持R6xx/R7xx显卡，VGA热拔插支持945+，挂起和恢复支持ATI Mobility Radeon RV350）等等，更详细内容见<a href="http://kernelnewbies.org/Linux_2_6_30">特性列表</a>。</i>
+➜40000000元绿霸被破解
+https://www.solidot.org/story?sid=11787	9000
+<a href="https://wmr-proxy.appspot.com/wmrblog.blogspot.com">wwwmmmrrrr</a> 写道 "<a href="http://blogtd.org/2009/06/10/filter-pa/">图党</a>援引<a href="http://www.douban.com/group/topic/6875825/%20">豆瓣</a>的话说，“绿坝已被小学生破解，直接翻看C:\WINDOWS\system32目录下的文件：kwpwf.dll，用记事本打开。不管里面内容是什么，一律替换成D0970714757783E6CF17B26FB8E2298F 然后再开绿坝的时候密码自然就是112233了。或者直接google下载一个密码为112233或者是密码已知的kwpwf.dll，覆盖一下就行了。原来那个备份好，搞完了再覆盖回去。”           Solidot网站反党、反华现象日益严重，党和政府对你们是宽大的。并且给你们一个将功赎罪之机会。<br> <br> <a href="http://qun.qq.com/air/#54145556/bbs">http://qun.qq.com/air/#54145556/bbs</a>      <br> <br> <a href="http://qun.qq.com/air/#62161719/bbs">http://qun.qq.com/air/#62161719/bbs</a> <br> <br>备份<br> <br> <a href="https://docs.google.com/View?id=d7w7twp_978fzqqttf7">https://docs.google.com/View?id=d7w7twp_978fzqqttf 7</a> <br> <br>后续报道： <a href="https://docs.google.com/View?docid=d7w7twp_979fk3jwrgq">https://docs.google.com/View?docid=d7w7twp_979fk3j wrgq</a>""
+➜苹果从网站上移除几乎所有的ZFS文章
+https://www.solidot.org/story?sid=11788	11100
+Mac OS X 10.6 Snow Leopard将于9月<a href="http://www.macgrass.com/permalink/2547">正式推出</a>。<i>
+很早便有流言称Snow Leopard将引入ZFS文件系统，去年<a href="__SLASHLINK__" sect="apple" sid="08/06/12/0738212" sn="article" tid="95">苹果也公开证实</a>Snow Leopard Server版增加了对128位文件系统ZFS的读写支持。但现在如果你在苹果网站上<a href="http://www.apple.com/search/?q=zfs">搜索zfs</a>，只能找到两个没多少参考价值的结果，不过<a href="http://74.125.47.132/search?q=cache:xc6veOk_OTQJ:www.apple.com/server/macosx/snowleopard/+Apple+ZFS&amp;cd=3&amp;hl=en&amp;ct=clnk&amp;gl=us">Google缓存</a>里还是留下了关于ZFS和Snow Leopard的相关证据。苹果似乎正从网站上清理<a href="http://hardware.slashdot.org/article.pl?sid=09/06/09/2336223">几乎所有涉及到ZFS的参考文章</a>，它可能认为ZFS还没有做好准备，OS X何时能引入ZFS仍旧是未知之数。</i>
+➜中国学术界闹笑话，蒋介石变成常凯申
+https://www.solidot.org/story?sid=11789	12600
+mrunix 写道 "<a href="http://www.zaobao.com/zg/zg090611_502.shtml">《联合早报》报道</a>，北京清华大学历史系副主任王奇在一部学术专著中将蒋介石（Chiang Kai-shek）翻译成“<a href="__SLASHLINK__" sect="mainpage" sid="09/05/31/0335215" sn="article" tid="119">常凯申</a>”，成为中国名校制造的又一起学术笑料。<i>
+一篇署名“高山衫”的网络文章近日揭露，这部由中央编译出版社2008年10月出版的《中俄国界东段学术史研究：中国、俄国、西方学者视野中的中俄国界东段问题》书中，仅名字翻译谬误就有几十处，其中最荒唐不过的，当属蒋介石（Chiang Kai-shek）被改名为“常凯申”。出版社没有校对有关内容，出版社的人士说：“当时我觉得清华的牌子那么硬，王奇的学养也很好，仓促之间没有深究”，“但这本书引用自俄语的部分，是由我社的专业俄语校对检校过的”。北京有关人士指出，身为清华大学历史系副主任、俄罗斯圣彼得堡国立技术大学博士的王奇，以及中央编译出版社的编辑，居然连蒋介石的英文名字都不知道，中国学术风气之浮躁、学术水平之浮浅由此可见一斑。</i>
+另：<a href="http://www.cctpbook.com/">中央编译出版社</a>成立于1993年9月，是隶属于<a href="http://www.cctb.net/">中共中央编译局</a>的中央级社会科学专业出版社，主要翻译介绍世界政治、经济、哲学和文化方面的最新作品。"
+➜在办公室听家里电脑里的音乐
+https://www.solidot.org/story?sid=11790	13800
+<a href="http://szlug/">权相龙</a> 写道 <i>"
+你想不管去到哪里，都可以听家里iTune库里的音乐吗？那就使用<a href="http://www.pulptunes.com/">pulptunes</a>吧，它是一个iTune的Web服务器，安装后会给你一个ip地址，不管你在哪里，打开浏览器，输入该ip地址，就可以听到你的音乐。酷吧~~而且它还是跨平台的。linux用户没有iTune，但只需提供iTune XML（指到音频文件）就可以了。"</i>
+➜绿坝涉嫌抄袭美产同类过滤软件
+https://www.solidot.org/story?sid=11792	18000
+匿名读者 写道 "绿坝又被发现另一项版权侵害事实。来自UMich的团队<a href="http://scott.wolchok.org/greendam.html">报告</a>，他们通过反向工程解出了绿坝安装在system32下的若干dat加密文件的<a href="http://scott.wolchok.org/gddec.c">解码方式</a>，经过解码发现多数dat文件来自2006年的美产过滤软件<a href="http://www.cybersitter.com/">CYBERsitter</a>的关键字列表。其中：
+<ul>
+<li>csnews.dat是2004年CYBERsitter第9版的官方发布的文件</li>
+<li>wfileu.dat是一个索引，列举了若干从cybersitterfiles.com获取的关于分类和过滤列表。这个索引中列举的各种列表（adwfil.dll, iawfil.dll, hatfil.dll, viofil.dll, lgwfil.dll, cultfil.dll vgamfil.dll, fshrfil.dll, tafil.dll, 等等）都随绿坝一同发布，但被加密处理。另一方面，这些列表相对于原网站上的文件来说相当陈旧过时。</li>
+<li>wfile.dat包含了五种中文分类（成人/色情网站 adwfil.dat；成人/色情网站(严格) adwapp.dat；暴力游戏 vgamfil.dat；同性恋 lgwfil.dat；非法活动/毒品 iawfil.dat），绿坝将这些来自CYBERsitter的过滤列表列在了自己的用户配置可选项之中。</li>
+</ul>另外几个dat文件（xword?.dat）则包含了一些中文的敏感词汇。"
+➜加利福尼亚学生将使用电子课本
+https://www.solidot.org/story?sid=11791	18600
+2008年加利福尼亚的教科书预算为3.5亿美元，但今年州政府的预算缺口高达243亿美元，因此州长施瓦辛格提出了一项省钱计划，淘汰昂贵的、笨重的和过时的纸教科书，<a href="http://news.slashdot.org/article.pl?sid=09/06/09/1243211">改用在线版电子教科书</a>。
+<i>
+施瓦辛格相信，Facebook、Twitter和下载音乐到iPod等网络行为显示年轻人能率先采用互联网新技术，他认为互联网是学习知识的最佳途径。加州将从今年8月新学年开始推广电子教科书，学习数学和科学课程的高中学生将开始使用已通过学术标准评审的在线课本。施瓦辛格称，随着今日的信息迅速的变成电子形式，回头再看看传统的精装书，便会认识到这既荒谬又昂贵。音乐和报纸业将证明，谁能快速适应消费和商业需求的变化，谁便能在数字社会和世界经济里迎风而上。数字教科书可帮助实现这些目标，确保加州学生在全球市场中游刃有余。</i>
+➜关于绿坝的行为艺术
+https://www.solidot.org/story?sid=11793	19200
+<a href="http://blog.chenyi1976.com/">chenyi1976</a> 写道 "豆瓣“我们爱讲冷笑话小组”成功组织起一起关于绿坝的<a href="http://www.douban.com/group/topic/6877942/">行为艺术</a> ：
+<br> <br>通过发帖：<br>
+“　　=================================<br>
+该用户的发言已被绿霸屏蔽<br>
+=================================<br>
+”<br>
+来表示对绿坝的抗议。
+<br> <br>通过Google查询‘该用户的发言已被绿坝屏蔽’可以查询到73,500 项符合项。证明此行为艺术已经遍地开花。"
+➜Palm Pre的webOS Root镜像泄漏
+https://www.solidot.org/story?sid=11794	21900
+Palm Pre智能手机仅仅上市数天，<a href="http://palm.cdnetworks.net/rom/pre_p100eww/webosdoctorp100ewwsprint.jar">webOS Reset Doctor</a>（JAR）便遭<a href="http://tech.slashdot.org/article.pl?sid=09/06/10/124241">泄漏</a>，其中包括了195 MB大小的Root镜像。这是对Palm公司的一次重大打击，但也可能推动Pre手机销量的增长，因为泄漏的文件使得破解Palm Pre变得十分容易。<i>
+目前黑客已经在镜像中发现了<a href="http://www.precentral.net/aol-msn-icons-discovered-rom-image">AOL和MSN的图标</a>，还发现Messaging应用程序支持gloox (Jabber/XMPP) 和libpurple即时聊天协议。Jabber/XMPP是一项开源IM协议，包括Google Talk在内许多IM软件都使用该协议。而libpurple则是Pidgin IM客户端的基础，Pidgin支持MSN/QQ/Yahoo等众多IM。目前看来webOS相当成熟，并在为未来的扩展更新做准备，这些都将使得Pre成为一个令人敬畏的智能手机挑战者。</i>
+➜《龙与地下城Online》将采用道具收费模式
+https://www.solidot.org/story?sid=11795	23760
+《龙与地下城Online》的开发商Turbine宣布将推出新资料片《Eberron Unlimited》，<a href="http://games.slashdot.org/article.pl?sid=09/06/10/0510213">它将变为免费游戏</a>，允许通过小额支付交易方式购买游戏内的某些道具和定制角色。玩家可以通过正常方式获得点数，然后在《龙与地下城Online》的商店内换取商品。购买月费的玩家将可以优先进入游戏服务器，每月分配到一些商店点数和额外的人物职业。目前资料片《<a href="http://content.turbine.com/pages/www.ddo.com/beta_signup/index.php?utm_source=ddo_com">Eberron Unlimited</a>》的beta测试已开放。
+➜充气塔或能将人送入太空
+https://www.solidot.org/story?sid=11796	26640
+无需借助火箭推进，一座巨大的<a href="http://science.slashdot.org/article.pl?sid=09/06/08/1924233">充气塔</a>便能将人送入太空。充气塔从功能上可取代需要长缆绳的太空电梯，并且建造速度将更快。<i>
+据《新科学家》<a href="http://www.newscientist.com/article/mg20227117.000-inflatable-tower-could-climb-to-the-edge-of-space.html">报道</a>(<a href="http://tech.sina.com.cn/d/2009-06-11/11153170194.shtml"> 新浪科技</a>)：加拿大研究人员计划给用凯夫拉尔聚乙烯合成管制成的太空舱充入氦气，使其变得更为坚硬，多个充气太空舱连在一起，便形成可抵达太空边缘的充气塔。他们已建造了一个由6个太空舱构成的7米成比例模型，每个太空舱由3个管壁直径8厘米的层压聚乙烯管架起来，并装配圆形垫环，再充入气体令其膨胀。为保持直立状态，抵御狂风侵袭，与实物尺寸一样的充气塔要求每一个太空舱都配备陀螺仪和动态稳定装置。这一研究小组制作了一个15公里高的充气塔的模型，模型由100个太空舱组成，每个太空舱高150米，直径230米，选用的材料是直径2米的充气管。约克大学科学家奎因估计，这个充气塔在受压状态下重量可达80万吨左右，相当于世界上最大的超级油轮的两倍。</i>
+➜弗兰克赫伯特的“水分捕集器”将成真
+https://www.solidot.org/story?sid=11797	29760
+美国科幻小说家弗兰克·赫伯特，在他的名著《<a href="http://zh.wikipedia.org/w/index.php?title=%E6%B2%99%E4%B8%98_(%E5%B0%8F%E8%AF%B4)&amp;variant=zh-cn">沙丘</a>》中设想了生活在沙漠中的弗力曼人使用水分捕集器（Moisture Traps）和收集器从空气中收集水分。
+<i>
+现在《Science Daily》<a href="http://www.sciencedaily.com/releases/2009/06/090605091856.htm">报道</a>，德国Fraunhofer学院的研究人员和Logos Innovationen公司的合作者，找到了一种方法可以将空气中的湿气自动的转变成可饮用水。处理流程的原理是：吸湿性盐水（一种含盐分的溶液可以吸收湿气）——进入到一个塔式结构的单元，吸收空气的水分——然后吸入到距离地面几米高的水槽中——用太阳能加热盐水，它将被吸收的水分不断稀释——不含盐的水蒸汽通过管道收集起来。</i>
+➜绿坝•花季护航 - 官方答疑
+https://www.solidot.org/story?sid=11798	30480
+<a href="mailto:eggersun@gmail.com">EdgarSun</a> 写道 "听了差不多50分钟的官方大片，感觉自己的觉悟有了升华。为了让其它的朋友与我共同体验这次奇妙之旅，特将大片无偿献出！转载地址：<a href="http://www.androidres.com/?p=503">http://www.androidres.com/?p=503</a>"
+➜卫星照片显示卢旺达国家公园几乎完全毁灭
+https://www.solidot.org/story?sid=11799	32400
+NASA发布的分别拍摄于1986年和2001年的<a href="http://earthobservatory.nasa.gov/IOTD/view.php?id=38644">卫星照片</a>显示，<a href="http://news.mongabay.com/2009/0609-nasa_rwanda.html">卢旺达Gishwati森林保护区几乎完全毁灭</a>。<i>
+开伐森林保护区是1994年卢旺达种族大屠杀的副产品，难民们通过采伐森林获得木炭和木材等燃料，开垦出土地去种植庄稼以获取食物。照片显示，原有10万公顷的Gishwati保护区只剩下600公顷，损失了99.4%。NASA认为，在一个多雨和多山国家里，如此大面积的森林消失会导致严重的环境问题。除了巨大的生物多样性损失之外，该地区将会面临土壤侵蚀、退化和坍塌。自然资源保护者正在努力恢复Gishwati和Nyungwe国家公园之间的原生林走廊，主要目的是让野生动物如黑猩猩能在森林里自由迁徙。</i>
+➜微软发布创记录的安全更新
+https://www.solidot.org/story?sid=11801	34920
+微软周二发布了2003年以来的最大规模的更新，<a href="http://it.slashdot.org/article.pl?sid=09/06/09/2243247">发布10个补丁修复了31个漏洞</a>，涉及到Windows、Internet Explorer、Excel、Word、Windows Search和其它程序，其中18个漏洞被认为是“危急”。10个补丁中，有6个与Windows有关，3个与Office或其组件有关，1个与IE有关。<a href="http://www.microsoft.com/technet/security/Bulletin/MS09-019.mspx">MS09-019补丁</a>修正了IE5.01、IE6、IE7和IE8的8个孤立的漏洞，其中一个是黑客在今年3月的Pwn2Own挑战赛上黑客入侵IE所利用的。
+➜“云计算”对通信和电子产品的影响
+https://www.solidot.org/story?sid=11800	35820
+<a href="mailto:yougusanmu@gmail.com">陆小兵</a> 写道 "目前对“云计算”还没有一个准确的定义，但“云计算”将是未来10年电子信息领域发展的趋势却是世界各大电子信息商所普遍认同的观点。
+“云计算”是一种节约资源降低生产生活成本的一种技术模型，是先进生产力。其应用非常广泛，其中之一是google所倡导的平台即服务(Platform as a service)是软件即服务(SaaS)的变种，这种形式的云计算将开发环境作为服务来提供给用户，微软总裁鲍尔默估计“云计算”大概在5-10年走向成熟应用。也就是说，用户可以在供应商的基础架构上创建自己的 应用软件来运行，然后通过网络直接从供应商的服务器上传递给用户。
+拿笔记本电脑来打个比方，这种“云计算”其意思即：
+A． 电脑主机和显示器分离，主机放在服务提供商那里（计算端），并有服务商提供性能升级和维护工作，显示设备随身携带（人机交互端）；
+B． 数据处理的部分在主机上完成；
+C． 人需要携带的只是个带有输入和输出的显示设备；
+D． 电脑主机处理完毕的显示信号以及其他人机交流信息通过网络比如移动通信网络来传递。
+这就意味着人们所使用的电子产品将因此而发生改变，简而言之，在不久的将来，我们只需带一个带输入输出等基本设备的显示屏就能完成以前笔记本、手机、Mp3、游戏机等电子设备的功能了。因为只要这个显示屏能实时的接受到以上电子设备发出的显示及人机交流信号，我们就能像看电视一样看到以前需要带着主机才能看到、听到的显示内容和声音的信息了。
+而基于新材料制成的显示屏以及能随意折叠了，
+这就是说，我们带在身上的显示屏可以折叠成口袋放下的形状，这对电子产品的携带性是个革命性的提高。必将引领电子产品的发展方向，而美军国防部在这种显示屏一问世就装备到单兵作战系统中和这种考虑不无关系。
+从上面的分析不难看出“云计算”的这种应用最关键的技术在于“信号”的传递，这就通信行业所亟需解决的问题，2G（GSM）的带宽(几十KB/S)根本满足不了这种大流量的信息吞吐。
+而3G的带宽如下所示[6]
+表1不同制式3G带宽
+制式 速率
+CDMA2000 EVDO 下行3.1M   上行1.8M    (bit/s) 目前的成熟版本，电信采用该技术
+WCDMA  HSPA 下行14.4M  上行5.75M－－－－－－－－目前的成熟版本，联通采用该技术
+HSPA+ 下行28M    上行5.8M
+TD-HSUPA 2.8M下行（一个载频5个时限捆绑，一个时隙560k） 128K上行－－目前的成熟版本，移动采用的技术
+可以看出，3G通信系统的带宽理论上可以满足“云计算”所要求的信号传输速率，日本政府以着手建立云计算系统Kasumigaseki Cloud了。由此也可以国家行业振兴规划的高明之处。通过上面的分析可以得知，随着“云计算”大潮的到来，电子信息产业的发展将会呈现出一下的发展趋势：
+1).通信服务运营商向流量更大的3G信号制式过渡；
+2).硬件像更高性能、高集成化过渡；这将使那些科技竞争力不足的企业面临出局的危险；
+3).显示屏及相关的材料制备行业将得到另一个生命期，迎来蓬勃发展的春天；
+2.中国通信行业发展分析
+中国的通信行业的发展集中体现在3家运营商的较量之中，谁输谁赢，一切都在未知之中。在这里我认为未来电子信息产业的“云计算”进程将会对联通有百利而无一害：
+A．由表1可以看出，目前三家运营商采用的通信标准中，联通的WCDMA其带宽最高而且国外已经基于WCDMA建设好的4G LTE TDD可达到近百兆的传输速率；
+B.通过分析国外不同通信运营商的竞争可以看出，采用不同制式的运营商之间的竞
+最主要的还是体现在终端-手机的竞争上。而目前国内外手机产商生产的手机大都是支持WCDMA制式的手机；
+C．WCDMA国外很多运营商在使用，发展成熟技术交流频繁而广泛，更容易取得技术上的突破。
+因此可以推测在“十二五”期间随着“云计算”的推进联通在中国6亿移动用户中所占的比例将会有更大程度的提高。2008年, 中国电信业再度重组。中国移动兼并中国铁通, 中国网通和中国联通的GSM网络合并形成新联通, 中国电信获得联通的CDMA网络, 由于之前卫通与中国航天科技组建了中国直播卫星公司,退出了电信运营商阵营, 这样, 六大运营商将演变为中国移动、中国联通和中国电信三家全业务运营商, 他们分别占据移动通信市场份额的70% , 22%和8%.
+程子阳, 唐守廉根据博弈论分析得出, 2008年电信业重组后的初期, 中国移动、中国联通和中国电信三寡头在移动通信市场的份额均衡为4∶2∶1, 。寡头垄断在稳定状态下的市场份额相对固定。而通过上面的分析可知随着“云计算”进程的不断推移，三者的市场份额将会发生调整由于联通具备了更多的优势因此新的市场份额应是中国联通、中国移动和中国电信三寡头在移动通信市场的份额均衡为4∶2∶1。
+因此可以预测未来5年到10年之间，中国联通在中国通信市场的份额将会有2/7提高到4/7。"
+➜中国黑客史：放弃理想追逐短利
+https://www.solidot.org/story?sid=11802	37200
+网易科技摘引了<a href="http://linjun1024.blog.163.com/">林军</a>（linjun1024）新书《沸腾十五年——中国互联网史1995-2009》的部分内容，再现了<a href="http://tech.163.com/09/0610/09/5BEGTK0E000915BF.html">中国早期黑客的历史</a>，以及他们的现状，值得一读，比美国《大众科学》的<a href="__SLASHLINK__" sect="it" sid="09/04/24/1715234" sn="article" tid="100">中国民族主义黑客</a>一文介绍的更深入更可信。文章特别提到了江民杀毒软件和其臭名昭著的<a href="http://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B0%91%E9%98%B2%E6%AF%92%E8%BB%9F%E9%AB%94#.E9.80.BB.E8.BE.91.E7.82.B8.E5.BC.B9.E4.BA.8B.E4.BB.B6">逻辑炸弹事件</a>。以下引用该文：<i>
+“蓝海、江海客、幼虫、陶辰等并称为网络安全的游侠式的人物，他们也毫不客气的向当时本土最成功的杀毒软件，山东人王江民创办的KV系列投去了批评之剑，在这几个...外表谦和但内心无比高傲程序员看来，KV的设计和代码水平是惨不忍睹的，他们竭力通过个人的逆向分析能力，为反病毒树立唯技术是瞻的标尺.....在国家信息中心的中国计算机安全论坛等官方或民间论坛上，双方发生了非常激烈的辩论。此时，互联网上出现了一个毒岛论坛的站点，成为了国内反KV的大本营，站点甚至提供了KV系列的破解版本...王江民一怒之下，对这些破解版本进行加密，这造成了那些下载了破解版本的电脑出现被软盘硬盘都无法自举的情况。”“60后、70后的黑客们，这些人注定要回归社会，而新兴的80后黑客们，却显得非常潇洒，他们要比他们的前辈“胆大妄为”，他们在2000年左右，开始取代他们富有理想主义的前辈们，成为媒体上抛头露面的主角....一个媒体朋友讲过这样一件事情，他中了一个名叫QQ密码侦探的木马，他在网上找到了一个名为QQ密码侦探终结者的清除软件，注册费15元，当他同时下载了一个密码侦探也想看看木马作者真面目的时候，发现“密码侦探”和“侦探终结者”竟然出自同一个作者...”</i>
+➜法国法院判定“三振出局”法律违宪
+https://www.solidot.org/story?sid=11803	41400
+法国宪法法院作出裁决，认为最近投票<a href="__SLASHLINK__" sect="internet" sid="09/05/13/0127234" sn="article" tid="133">通过</a>的<a href="http://en.wikipedia.org/wiki/Hadopi">HADOPI法</a>——即所谓的“三振出局”法——<a href="http://news.slashdot.org/article.pl?sid=09/06/10/1732211">是违宪的</a>。<i>
+宪法法院的主要理由有两个：首先是切断网络连接相当于阻止一个人的自由表达，类似决定只能由一位委派的法官作出。“三振出局”法律原本设想让一个管理机构执行，但他们并没有这种惩罚权力。他们能做的只能是发出“我们正在看着你”的警告。其次，当非法的文件共享被发现之后，用户必须去证明他们的清白，这显然与宪法原则相矛盾，宪法假定嫌疑人是清白的。</i>

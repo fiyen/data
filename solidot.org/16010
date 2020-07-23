@@ -1,0 +1,59 @@
+➜湖南为打击腐败限制婚礼人数
+https://www.solidot.org/story?sid=37052	10167
+湖南的《<a target="_blank" href="http://www.sxfj.gov.cn/stopic/hsxqsydc/index.html"><u>关于党和国家工作人员操办婚丧喜庆事宜的暂行规定</u></a>》11月1日<a target="_blank" href="http://cswb.changsha.cn/html/2013-11/01/content_9_2.htm"><u>正式实施</u></a>，对政府工作人员的婚丧喜庆宴请流程制定了详细的规定，如“除婚礼、葬礼外，其他喜庆事宜禁止以任何方式邀请和接受亲戚以外人员参加”，“婚礼宴请人数一般不得超过200人（20桌），婚嫁双方同城合办婚宴的，宴请人数不得超过300人（30桌）”，“葬礼应从严控制规模”。根据《暂行规定》，该规定的监督实施主要靠内部自行上报。
+➜Google发布Android 4.4 KitKat和Nexus 5
+https://www.solidot.org/story?sid=37053	13091
+Google<a target="_blank" href="http://android-developers.blogspot.jp/2013/10/android-44-kitkat-and-updated-developer.html"><u>正式发布了</u></a>Android 4.4 KitKat和Nexus 5。Nexus 5的信息此前早已曝光：高通2.2Ghz四核 Snapdragon 800处理器，2GB内存，4.95英寸1080p显示屏，无线充电，2300 mAh电池，支持LTE，蓝牙4.0， 802.11ac WiFi和NFC，Gorilla Glass 3，前置130万像素后置800万像素摄像头，光学防抖技术，运行Android 4.4。Android 4.4未来几周将会推送给Nexus 4、Nexus 7和Nexus 10，以及三星Galaxy S4和HTC One Google Play Edition。KitKat主要特性是改进了对512MB内存低端设备的运行效能。新的特性<a target="_blank" href="http://developer.android.com/about/versions/kitkat.html"><u>包括</u></a>：全屏浸入式模式（full-screen immersive mode），应用程序和游戏将可以全屏运行；新的转换框架简化UI动画制作；新版Chromium WebView；屏幕录像；新API改进应用响应；改进系统内存管理，减少内存足迹；支持通过Host Card Emulation (HCE)进行安全NFC交易；媒体框架支持自适应播放；音频隧道（Audio tunneling）大幅改进耳机听音乐的耗电量；支持GLES2.0 SurfaceFlinger，等等。
+➜以色列国防承包商遭到来自中国的钓鱼攻击
+https://www.solidot.org/story?sid=37054	14358
+几周前，以色列安全公司和国防承包商的约140名高层收到了一家业内知名的德国公司的邮件。这些邮件实际上都是钓鱼邮件，包含了试图窃取信息的特洛伊木马。收到钓鱼邮件的人包括了产品经理和机密项目管理人员。初步调查显示，<a target="_blank" href="http://www.timesofisrael.com/israel-reportedly-thwarts-cyber-attack-from-china/"><u>攻击源头是中国国防行业</u></a>。中国的国防承包商多是国企。以色列的报导没有披露攻击的细节。
+➜苹果微软通过Rockstar起诉Google及Android厂商
+https://www.solidot.org/story?sid=37055	16309
+微软、苹果、RIM、索尼和爱立信组建的Rockstar Bidco财团在2011年以45亿美元拍下了北电公司的6000多项专利。Rockstar现在正式发射了他们的核武器，向德州东区法院<a target="_blank" href="http://arstechnica.com/tech-policy/2013/10/patent-war-goes-nuclear-microsoft-apple-owned-rockstar-sues-google/"><u>起诉</u></a>Google和主要Android厂商华硕、HTC、华为、LG、泛泰，三星和中兴。Rockstar指控Google侵犯了它的六项专利，这六项专利都与关联搜索引擎有关，其中<a target="_blank" href="https://www.google.com/patents/US6098065?dq=6,098,065"><u>最早</u></a>的一个是在1997年Google成立前申请的。它指控Android厂商侵犯了七项专利，其中一个专利是导航工具图形用户界面。侵权产品包括了智能手机和平板，以华为为例，<a target="_blank" href="http://cdn.arstechnica.net/wp-content/uploads/2013/10/rockstar.huawei.complaint.pdf"><u>起诉书</u></a>称侵权产品包括华为M865 MUVE、Ascend II和Premia 4G M931手机，包括但不限于MediaPad和 IDEOS S7 Slim的华为平板家族。
+➜Big Brother的Dual_EC_DRBG
+https://www.solidot.org/story?sid=37056	22634
+<a href="http://citypw.blogspot.com">Shawn the R0ck</a> 写道 "Dual_EC_DRBG(双椭圆)是一种伪随机数生成器，在2006年时被<a target="_blank" href="http://www.nist.gov/index.html">NIST</a>提案可作为国际使用，仅几个月以后就有人指出这<a target="_blank" href="http://rump2007.cr.yp.to/15-shumow.pdf">可能是NSA的后门</a>，安全领域的大哲学家Bruce Schneier在2007年也<a target="_blank" href="https://www.schneier.com/blog/archives/2007/11/the_strange_sto.html">提出了质疑</a>，Snowden在报料一连串"Big Brother"的全球监控计划后，RSA正式<a target="_blank" href="http://arstechnica.com/security/2013/09/stop-using-nsa-influence-code-in-our-product-rsa-tells-customers/">建议用户停用 Dual_EC_DRBG</a>(<a target="_blank" href="http://www.solidot.org/story?sid=36533">solidot的中文报道</a>)，这一事件也影响到了自由软件社区，特别是OpenSSL和GNUTLS的实现，OpenSSL在2011年的FIPS模块当中<a target="_blank" href="https://github.com/openssl/openssl/commit/7fdcb45745c01b90b256fe97e87eae31453e11e6#diff-f32b6c02a4d65076516461287390f7a9">加入了Dual_EC_DRBG</a>，<a target="_blank" href="http://www.gnutls.org/">GNUTLS</a>的libnettle和<a target="_blank" href="https://developer.mozilla.org/en/docs/NSS">Mozilla-NSS</a>并没有DUAL_EC_DRBG的实现，针对这一情况各个GNU/Linux发行版社区也作出了相应的调整，RHEL/Fedora和SUSE的openssl都采用了0.9.8分支的FIPS模块(没DUAL_EC_DRBG)，openSUSE社区把GNUTLS的ECDHE密钥交换算法默认屏蔽了，至于一直以来最强大的Debian GNU/Linux就不用担心了，这些开源实现的contributor本身也是Debian的维护者;-)<i>
+<p>btw:过去的20多年中NSA不断的给自由软件社区带来"额外"的工作量，由<a target="_blank" href="http://www.fsf.org/">FSF(自由软件基金会)</a>和<a target="_blank" href="https://www.eff.org/">EFF(电子前哨基金会)</a>推动的自由软件运动已经成为和"Big Brother"在技术和法律层面上的长期对抗的最前线，这场没有硝烟的战争还会持续下去.....但使用开源方案并不代表着就一定安全，一个自由开源软件是否安全取决于社区的活跃程度，参与者的代码审计的水平，从企业使用开源方案的角度，代码review+audit也是必须的，更重要的是需要对信息安全管理流程进行"加固"，更....更重要的是,得回馈社区，只有生态链的成形才能保证最大程度的安全性。                        </p>
+</i>"
+➜神秘跨平台病毒badBIOS
+https://www.solidot.org/story?sid=37057	26486
+三年前，安全顾问、Pwn2Own黑客挑战赛创始人Dragos Ruiu在实验室里注意到一件非同寻常的事情：刚刚全新安装OS X的MacBook Air笔记本自动更新了BIOS固件，之后当他试图从CD ROM启动机器时遭到了拒绝，他还发现机器会不做任何提示删除数据和撤销配置更改。随后几个月，事情越发离奇，仿佛是出自科幻惊悚片：一台运行Open BSD的计算机也开始不做任何提示删除数据和更改配置。他的网络专门通过IPv6传输数据，即使关闭了IPv6协议也没用。最最难以置信的是，拔掉电源线和网线、移除Wi-Fi和蓝牙网卡的被感染机器也能传输网络数据。<a target="_blank" href="http://arstechnica.com/security/2013/10/meet-badbios-the-mysterious-mac-and-pc-malware-that-jumps-airgaps/"><u>神秘的BIOS固件病毒badBIOS</u></a>还能感染Windows和Linux。深入调查分析发现，只有在移除内部扬声器和麦克风之后，抓包工具才发现不再有数据包传输。Ruiu指出，这个恶意程序能利用扬声器和麦克风在计算机之间进行高频传输。badBIOS并不是利用扬声器麦克风传播病毒，而是通过麦克风在被感染机器之间进行通信，就像是彼此之间联网。
+➜克里斯·波什谈为什么你要学编程
+https://www.solidot.org/story?sid=37058	28975
+迈阿密热队的明星前锋克里斯·波什（Chris Bosh）在《连线》发表了一篇文章，<a target="_blank" href="http://www.wired.com/opinion/2013/10/chris-bosh-why-everyone-should-learn-to-code/"><u>谈论为什么我们应该学编程</u></a>。克里斯·波什主要是从其个人经历和感悟解释编程的重要性，波什没有完成大学学业。他说，“如果有人在学校里能向我解释代码能直接或间接接触到数百万人，让生活变得更美好，那将会更快的激发我的兴趣。”他认为，程序是几乎所有技术的基础，学会编程将能更容易的理解世界的运作。
+➜格陵兰解除稀土开采禁令
+https://www.solidot.org/story?sid=37059	30062
+《金融时报》<a target="_blank" href="http://www.ft.com/intl/cms/s/0/3075c3f0-3d42-11e3-9928-00144feab7de.html?siteedition=intl#axzz2jNcGScqr"><u>报道</u></a>，格陵兰解除稀土开采禁令。格陵兰的议会在赞成与反对票数极为接近的情况下通过解除长达25年的禁令。此一争议性的禁令禁止在当地的北极圈地区开采矿产。禁令解除之后，格陵兰有望能供应全球所需稀土的25%、<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/press_review/2013/10/131031_press_greenland_rareearth.shtml"><u>挑战</u></a>中国稀土出口的霸主地位。目前全球稀土所需当中有<a target="_blank" href="http://www.solidot.org/story?sid=36938"><u>85%</u></a>来自中国。预计矿区建设要到2015年才会开始，而正式开始采矿则最快也要到2017年。2012年中国出产稀土量为95000吨、美国7000吨居次、澳大利亚出产4000吨排名第三、随后是印度2800吨、马来西亚350吨。
+➜松下宣布退出等离子面板业务
+https://www.solidot.org/story?sid=37060	32878
+松下<a target="_blank" href="http://china.kyodonews.jp/news/2013/10/62757.html"><u>正式宣布</u></a>今年12月退出等离子面板生产业务，完全脱身造成亏损主要原因的等离子业务。松下社长津贺一宏在记者会上称：“将壮大具有竞争力的业务，同时对不具前景的业务进行撤并。需要退出的业务除了等离子之外还有，下半财年将加快展开彻底的改革。”等离子技术不是由于技术方面的<a target="_blank" href="http://entertainment.slashdot.org/story/13/10/31/1918235/panasonic-announces-an-end-to-plasma-tvs-in-march"><u>原因</u></a>败给LCD：等离子相比LCD有许多优势，如更大的视角，更准确的色彩，没有运动模糊，不需要背光源——等离子的像素能自己照亮自己，虽然在大屏OLED技术的价格大幅下跌之后，这一先天优势会被抵消。
+➜比特币网络挖矿能力一个月翻了一番
+https://www.solidot.org/story?sid=37061	35390
+<div align="center"><img src="http://img.solidot.com.cn/0/768/liZYrrGsP0gs.jpg" align="" height="131" width="320"><br>
+<br>
+</div>
+比特币网络挖矿能力用哈希率（hash/s）进行衡量。上个月，比特币网络仅仅两周的时间挖矿能力就<a target="_blank" href="http://bitinfocharts.com/comparison/hashrate-btc.html"><u>翻了一番</u></a>（如<u>图</u>所示）：上个月初，比特币网络挖矿能力为1.9Qh/s，到了月底已经达到了4.1Qh/s。与此同时，比特币的币值再次突破了200美元，并在长时间内维持200美元左右的水平。运算能力大幅增长与瑞典矿机制造商KnCMiner的<a target="_blank" href="https://www.kncminer.com/categories/miners"><u>500Gh/s</u></a>矿机发货有关。ASIC矿机的芯片制造工艺从今年初的110纳米（Avalon）提高到了28纳米（KnCMiner）。比特币诞生至今，挖矿的设备逐步从CPU到GPU到FPGA最终到ASIC，新的设备不断淘汰旧的设备，今天还继续用GPU挖矿的话已经基本无利可图了。比特币的挖矿军备竞赛早在2011年就被Litecoin的开发者提出来，Litecoin设计<a target="_blank" href="http://spectrum.ieee.org/computing/networks/bitcoins-computing-crisis"><u>不过度依赖 GPU 或ASIC</u></a>，它目前的币值不高，还没有获得大型交易平台的支持，但情况正在改变，Mt. Gox和Bitstamp都在认真考虑支持Litecoin交易。
+➜黎智英参股HTC
+https://www.solidot.org/story?sid=37062	36209
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20131101/bog171412.asp"><u>报导</u></a>，过去两个月中黎智英购买了HTC大约2%的股份。黎智英的发言人称，HTC股价被低估，目前面临很好的增长机会。HTC股价今年内跌幅已超过50%，而黎智英以对中国高层领导人（前总理）的坦率批评而闻名。对HTC而言，黎智英的投资可能是个好消息，表明著名投资者应当对该公司有信心。
+➜FAA允许乘客在整个飞行过程中不关闭电子设备
+https://www.solidot.org/story?sid=37063	37296
+美国联邦航空管理局（FAA）<a target="_blank" href="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=15254"><u>宣布</u></a>，乘客在整个飞行阶段都可以阅读电子书、玩游戏和看视频。但有个小小的限制：电子产品、书籍和杂志在起飞和着陆阶段必须握住或放在座椅靠背袋内。换句话说，在飞机起飞或着陆时，你的电子产品不能放在膝盖上或折叠桌上，而必须抓在手里。美国航空公司Delta和JetBlu<a target="_blank" href="http://arstechnica.com/tech-policy/2013/10/we-finally-officially-wont-have-to-power-off-during-takeoff-and-landing/"><u>e已经递交了</u></a>评估申请，美航将在周五递交申请。
+➜MIT腕带将让空调过时
+https://www.solidot.org/story?sid=37064	40945
+<div align="center"><img src="http://img.solidot.com.cn/0/775/liA1qsCJmZxBs.jpg" align="" height="180" width="330"><br>
+<br>
+</div>
+空调是电老虎，以美国为例，空调的耗电量占到总耗电量的16.5%。为了避暑或保暖，人类选择了将所到之处的温度全部降低或提高，这是一种低效的方式。为什么不直接降低或提高人体体温呢？MIT的一群研究人员正在研发一种原型设备，<a target="_blank" href="http://www.wired.com/design/2013/10/an-ingenious-wristband-that-keeps-your-body-at-the-perfect-temperature-no-ac-required/"><u>旨在消灭对空调的需求</u></a>。该设备被称为<a target="_blank" href="http://wristifyme.com/"><u>Wristify</u></a>，是一种热电腕带，能根据需要将穿戴者的皮肤置于冷或热的交替脉冲中，从而调节温度。它获得了MIT学院的MADMEC奖，奖金1万美元。这项发明有助于缓解能源危机，但研究者Sam Shames表示他们的动机没这么高尚，他们只是为了解决一个常见问题：空调温度无法让房间内的每一个人都满意。Shames因此开始研究让人能和平共处的方法。他发现，人体和人皮肤不同于体温计，如果你将冷的东西贴在身上，时间久了，人体就会适应，不再感觉到冷。这和你跳进湖水的感觉一样：一开始感觉冷，然后就适应了。如果你不间断的引入冷的东西，你可以诱骗人体感到冷。Wristify就是让你感觉不时跳进湖中或不时冲个热水澡。
+➜维基解密前成员组织的支持互联网自由的老大哥慈善合集包
+https://www.solidot.org/story?sid=37065	43177
+<a href="/~pubuhan">pubuhan</a> 写道 <i>"从维基解密的出现，切尔西·曼宁的服刑以及棱镜计划的曝光和爱德华·斯诺登的避难，已经充分暴露出互联网自由、民主社会与政府权力的尖锐对立。维基解密前成员、OpenLeaks的创建者Daniel Domscheit-Berg组织了一份慈善合集包，命名为<a href="http://vodo.net/bigbrother" target="_blank" title="BIG BROTHER BUNDLE">BIG BROTHER BUNDLE</a>，涵盖了游戏、图书、漫画、纪录片、音乐及VPN兑换码等多种内容，都与媒体黑幕、政府阴谋、审查、信息安全等方面相关联，以促使人们了解真相及思考。其中的游戏《无声狂啸》是基于哈兰·艾里森获得雨果奖的同名小说的忠实改编。在<a href="https://plus.google.com/118306830281156912209/posts/NYErzNuWnER" title="Google+" target="_blank">Google+</a>及<a href="http://www.douban.com/note/313646588/" title="豆瓣" target="_blank">豆瓣</a>上对此合集包做了简要介绍。本合集包最低1美元即可获得，所得资金的70%是原作者的酬劳，25%为发布网站提供资金，剩余5%将捐赠给支持互联网自由的非营利组织<a href="http://www.fightforthefuture.org/" target="_blank" title="Fight for the Future">Fight for the Future</a>。"</i>
+➜亚马逊Kindle商店有超过8千本僵尸电子书
+https://www.solidot.org/story?sid=37066	44231
+2011年万圣节的搜索显示，亚马逊Kindle电子书商店有2269本标题含有僵尸（zombie）的电子书；2012年这个数字提高到了4874本，2013年是<a target="_blank" href="http://www.beyond-black-friday.com/2013/10/31/zombies-on-your-kindle/"><u>8052本</u></a>。而国会图书馆记录到的僵尸书籍<a target="_blank" href="http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&amp;Search_Arg=zombie&amp;Search_Code=TKEY%5E*&amp;CNT=100&amp;hist=1&amp;type=quick"><u>仅仅为674本</u></a>，僵尸电子书的流行显示，有越来越多的自出版作者写了大量僵尸题材小说。写僵尸小说的既有专业作者也有业余作者，很难一目了然的分辨出来。比如两次提名为普利策奖的知名作家Joyce Carol Oates在1996年出版了一本书《<a target="_blank" href="http://www.amazon.com/gp/product/B002SVQCVU/"><u>Zombie (P.S.)</u></a>》，Zombie是小说中的连环杀手的名字。
+➜匿名组织向新加坡宣战
+https://www.solidot.org/story?sid=37067	45490
+<center>
+<iframe src="https://www.youtube.com/embed/CwEyB42swMU?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe>
+</center><br>
+匿名组织在Youtube上发表<a target="_blank" href="http://www.youtube.com/watch?v=CwEyB42swMU&amp;feature=player_embedded"><u>视频</u></a>，宣布为新闻自由对新加坡政府发动网络攻击。带着面具的发言者称，每次新加坡政府剥夺公民的知情权，匿名组织将通过网络攻击给政府在经济上造成损失。本周五，自称Messiah的黑客<a target="_blank" href="http://www.scmp.com/news/asia/article/1345309/anonymous-newspaper-hack-puts-singapore-alert"><u>入侵了</u></a>亲政府的《海峡时报》网站，指责该报的一位记者在报导时扭曲了他们的文字和意图，要求记者道歉，并重申反对任何形式的审查。《海峡时报》表示已经报警。

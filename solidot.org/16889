@@ -1,0 +1,46 @@
+➜FBI宣布破解iPhone，撤销诉讼
+https://www.solidot.org/story?sid=47655	11496
+美国司法部向法庭<a target="_blank" href="https://www.eff.org/document/march-28-status-report"><u>递交文件</u></a>（PDF），称FBI已经破解了San Bernardino枪击案枪手Syed Rizwan Farook的iPhone 5C手机，请求撤销强制要求苹果帮助解锁手机的法庭诉讼。撤销诉讼暂时化解了科技公司与美国政府之间有关加密后门的冲突，但也引发了政府在掌握了加密漏洞之后<a target="_blank" href="https://www.eff.org/deeplinks/2016/03/fbi-breaks-iphone-and-we-have-some-questions"><u>是否通知苹果公司的疑问</u></a>，如果苹果没有堵上安全漏洞那么会有更多的普通用户受到影响。美国政府曾公布了一份漏洞披露政策Vulnerabilities Equities Process (VEP) 。法庭文件没有披露FBI使用什么方法破解手机，但有人<a target="_blank" href="https://news.ycombinator.com/item?id=11378750"><u>推测</u></a>可能与iPhone 5C使用的A6处理器有关，A6组合使用了密码和唯一设备ID生成256比特位密钥，它存在漏洞允许拷贝闪存记忆器内的数据，然后进行暴力破解（4位到6位密码的组成次数十分有限）。但苹果在较新手机中使用的A7处理器基本上堵上了这个漏洞，它使用了一个硬件级的安全区域secure enclave去防止镜像数据和暴力破解密码。
+➜黑客入侵联网打印机打印种族主义和反犹信息
+https://www.solidot.org/story?sid=47657	16060
+<div align="center"><img src="http://img.solidot.org/0/445/liHLLZY8c3ozA.jpg" align="" width="400" height="504"><br>
+</div>
+<br>
+黑客Andrew Auernheimer，aka "Weev"，承认入侵数以千计的<a target="_blank" href="http://news.softpedia.com/news/hacker-weev-admits-to-hacking-printers-to-spew-racist-and-anti-semitic-messages-502285.shtml"><u>联网打印机</u></a>，让这些打印机打印出种族主义和反犹信息。他使用的方法十分简单：先用端口扫描器发现了数百万未保护的联网打印机，然后使用一行Bash命令向9100端口发送一个PostScript文件，触发打印机去打印他的反犹信息。这一攻击发生在3月24日，影响了众多大学，其中包括 USC、UC Berkeley、Northwestern、UMass等等。Auernheimer在2010年因为曝光了AT&amp;T 服务器的一个漏洞导致11.4万 iPad用户信息泄露， 被判41个月的监禁，期间参加了白人国家主义者运动。讽刺的是，他曾是犹太教徒，后转信摩门教。
+➜甲骨文寻求Google为侵犯Java版权赔偿93亿美元
+https://www.solidot.org/story?sid=47659	18631
+法庭文件显示，甲骨文寻求Google为侵犯Java版权<a target="_blank" href="http://www.computerworld.com.au/article/596835/oracle-seeks-9-3-billion-google-use-java-android/"><u>赔偿93亿美元的损失</u></a>。甲骨文是在6年前起诉Google，声称搜索巨人需要获得授权才能在其Android平台使用Java。最新的法庭听证会将在5月9日举行，甲骨文的 Larry Ellison和Google的Eric Schmidt都将出席。甲骨文提出的最新赔偿金额是它最早提出的10倍，也高于它收购Sun时支付的74亿美元。
+➜域名管理新规为加强互联网监控提供更多法律依据
+https://www.solidot.org/story?sid=47660	26905
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20160329/tec150349.asp"><u>报道了</u></a>最近引起争议的《<a target="_blank" href="http://www.solidot.org/story?sid=47643"><u>互联网域名管理办法（修订征求意见稿）</u></a>》，新的规定禁止互联网接入服务提供者为在国外注册的域名提供接入服务。报道称，如果全面实施，这些规定实际上将使很多互联网内容隔绝在中国之外。分析人士称，过去其他类似的规定曾以较小的力度实施，但在中国国家主席习近平大幅收紧政治控制之际，不清楚改变将有多大。中国政法大学互联网专家朱巍称，新规是制定一部更完整的互联网内容管理法律必要中间步骤，其背后的推动因素是对中国国家和意识形态安全所面临威胁的担忧不断升温。他说，这样一项规定理论上可能使百度等本土搜索公司面临难题，因为即便是受到高度控制的搜索结果也可能含有海外网站的隐蔽链接。实际上新规的影响不只是国内的商业公司：官媒新华网的<a target="_blank" href="http://who.is/whois/www.xinhuanet.com"><u>域名</u></a>是在Networksolutions注册的。
+➜中国互联网数字中的水分
+https://www.solidot.org/story?sid=47661	28047
+《金融时报》对中国互联网行业中不断涌现的大数字<a target="_blank" href="http://www.ftchinese.com/story/001066863?full=y"><u>提出了质疑</u></a>：上周一，阿里巴巴宣布该公司实现了3万亿元人民币年电商交易额的目标，这个数字大于2015年美国电商市场的总规模。接着，滴滴快的宣布日均完成订单首次突破1000万，它成为了“全球最大的移动出行平台”。尽管很少有人怀疑中国互联网有着令人晕眩的增长故事，但这种增长有多快是值得讨论的。分析师对中国互联网巨头的种种说法持保留态度，有些分析师直截了当地表示出怀疑。中国市场研究集团的创始人雷小山说，中国互联网市场“无疑是巨大的”，但人们一直认为相关数字或许被夸大了。阿里巴巴和Facebook等企业报告的是使用其服务的“活跃用户”，而社交媒体和游戏巨头腾讯报告的是其社交媒体软件QQ和微信的月“活跃账户”。去年9月，腾讯报告称，QQ月活跃账户为8.5亿，相当于中国互联网信息中心提供的中国互联网用户总数的127%。
+➜Atom编辑器活跃用户突破一百万
+https://www.solidot.org/story?sid=47662	31144
+GitHub主导开发的开源编辑器项目Atom宣布它的活跃用户<a target="_blank" href="http://blog.atom.io/2016/03/28/atom-reaches-1m-users.html"><u>突破了100万</u></a>。Atom编辑器基于Chromium，整合了Node.js。它在2014年2月宣布封闭测试，5月宣布开源，2015年5月<a target="_blank" href="http://www.solidot.org/story?sid=44571&amp;threshold=0"><u>正式发布了</u></a>1.0版本，最新稳定版本是本月初发布的<a target="_blank" href="https://github.com/atom/atom/releases/tag/v1.6.0"><u>1.6.0版</u></a>。Atom团队开发者称，今天的活跃用户是去年正式发布时的三倍，称Atom的成功在于围绕它的社区的成长，表示期盼下一个百万用户的到来。
+➜Google 域名在中国大陆遭受DNS污染
+https://www.solidot.org/story?sid=47663	31546
+<a href="mailto:oshirisu.red@gmail.com">陈少举</a> 写道 <i>"
+Google 原先在国内有节点的域名今天下午突然被<a href="https://zh.wikipedia.org/wiki/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93" target="_blank">DNS污染</a>，<a href="https://twitter.com/felixonmars/status/714724823751127040" target="_blank">无法访问</a>。包括整个主域名 Google.com 和 google-analytics.com 统计在内的域名被污染，由于同时污染了MX记录，将会导致国内发往Gmail邮箱的邮件受阻。根据 <a href="http://www.17ce.com/site/dns/201603_8e4ddbc6a70d5d780aa8dfeeb29be18d.html" target="_blank">17ce</a> 的测试结果，该问题似乎是全国性的。该现象早在<a href="http://www.solidot.org/story?sid=32190" target="_blank">2012年出现过</a>，但是在24小时内恢复。"</i>
+➜研究认为如果采取措施大部分渔场能在十年内恢复
+https://www.solidot.org/story?sid=47664	34723
+加州 Santa Barbara和华盛顿大学的研究人员在PNAS上发表<a target="_blank" href="http://www.pnas.org/content/early/2016/03/28/1520420113"><u>论文</u></a>（<a target="_blank" href="http://m.pnas.org/content/early/2016/03/28/1520420113.full.pdf"><u>PDF</u></a>），分析了如何恢复因过度捕捞而面临衰退的渔场。数十年的工业过度捕鱼，让全世界的海洋生态系统面临退化。而海洋是人类重要的食物来源，中国是最大的捕鱼国，政府就制定了一个雄心勃勃的目标，农业部在2014年发表的报告中计划未来六年海鲜消费量增加50%。研究人员<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2016-03/aaft-rod032516.php"><u>提出</u></a>，如果采取可持续的管理措施而不是一切照旧，那么大部分衰退中的渔场将能在十年内恢复，能为人类提供更多的海洋食物。
+➜索尼将在PlayStation VR发布前宣布增强版的PS4
+https://www.solidot.org/story?sid=47665	38011
+《华尔街日报》援引知情人士的消息<a target="_blank" href="http://www.wsj.com/articles/sony-plans-new-playstation-for-graphics-heavy-games-1459152941"><u>报道</u></a>（付费墙），索尼将在PlayStation VR发布前宣布增强版的PS4，也就是过去一周游戏媒体传言中的PlayStation 4.5和 PlayStation 4K。升级版的PS4能输出4K分辨率内容，能传递更丰富的游戏环境，包括虚拟现实体验。<a target="_blank" href="http://www.polygon.com/2016/3/28/11317470/sony-ps4-playstation-4k-rumor"><u>报道称</u></a>，索尼将会同时生产两种PS4。目前销售的版本不能输出4K分辨率内容。索尼在升级硬件的同时，微软也被认为在做同样的事情，它的Xbox One升级版也将能输出4K分辨率。
+➜硅谷风险投资人称大部分创业公司毫无价值
+https://www.solidot.org/story?sid=47667	38191
+硅谷风险投资人Chamath Palihapitiya<a target="_blank" href="http://www.vanityfair.com/news/2016/03/chamath-palihapitiya-interview-says-start-ups-are-mostly-crap"><u>对其投资的科技创业公司没有口下留情</u></a>。他的风险基金Social Capital支持了很多估值超过10亿美元的科技公司，如Slack、Box和 SurveyMonkey，但这并不意味着他看好独角兽文化。他说，大多数创业公司的基础并不好，经营不善，它们一开始就不应该得到投资。它们之所以得到投资是因为掌握资金的人相信它们中间有可能产生下一个Facebook或Google。现实是，优秀的公司能在任何市场上市筹资，当我们说IPO放缓的时候其真实含义是市场上缺乏足够多的优秀公司。
+➜物种入侵未必是坏事
+https://www.solidot.org/story?sid=47666	39281
+物种入侵是坏事，至少传统的看法是如此，而生物学家也不断警告外来动植物进入新地区的危害，进一步加固这一认识。“我认为在这个领域的主导态度依然是‘有怀疑就杀死’，”布朗大学生态与进化生物学副教授Dov Sax说。但越来越多的科学家<a target="_blank" href="http://cn.nytstyle.com/science/20160328/t28invasive/"><u>开始挑战这一观念</u></a>，提出并非所有入侵物种都是破坏性的；他们甚至认为其中有些是有益的。在这些研究者看来，假定外来物种本性有危害，更像是排外情绪，而不是以科学为依据。在全球化时代，根除大多数的入侵物种基本上是不可能的。随着气候变化将越来越多的物种赶出自己的故乡，前往新的地域，所谓入侵者的规模可能会出现指数增长。有些外来物种无疑是有害的，例如会导致栗树枯萎的真菌。但还有些非原生物种是有益的。比如加利福尼亚的帝王蝶喜欢在桉树的枝杈上过冬。这种树是一种150多年前被移植到该州的外来树种。
+➜我们的祖先可能不止一次与神秘人种交配
+https://www.solidot.org/story?sid=47668	42776
+它看起来是一个普通的手指骨，但当研究人员在2010年测序其DNA，他们发现了一种之前从未见过的古代人类：丹尼索瓦人（Denisovans）。接下来更出乎意料的发现是：部分现代人类被发现携带了丹尼索瓦人的DNA。这意味着在过去某个时候，丹尼索瓦人和现代人类曾经交配并且生下了后代。一项新研究发现，<a target="_blank" href="http://www.sciencemag.org/news/2016/03/our-ancestors-may-have-mated-more-once-mysterious-ancient-humans"><u>现代人类的这种自由性爱带来了某些严重的后果</u></a>，包括导致男性后代可能会不育。<a target="_blank" href="http://www.cell.com/current-biology/fulltext/S0960-9822(16)30247-0"><u>研究论文</u></a>发表在《Current Biology》期刊上。研究人员发现：来自巴布新几内亚、澳大利亚和部分大洋洲的人携带了最多的丹尼索瓦人血统，他们基因组中有3%到6% 是来自丹尼索瓦人；东亚人的丹尼索瓦人血统高于欧洲但低于南亚。研究人员说，丹尼索瓦人可能与现代人类交配过一次，他们的后代生活在今天的大洋洲和巴布新几内亚。然后，与丹尼索瓦人有亲戚关系的现代人类与从未见过丹尼索瓦人的现代人类交配。现代人类大约是在5万年前与欧洲的尼安德特人交配，而与丹尼索瓦人的交配可能发生在4万年前。
+➜如何阻止抗生素滥用？公开羞辱
+https://www.solidot.org/story?sid=47669	44553
+美国疾病控制与预防中心估计，给门诊病人开的一半抗生素处方是不必要的。大多数不必要抗生素被用于治疗病毒性感冒，而事实上抗生素只能治疗细菌感染，即使是细菌感染也未必都需要抗生素。滥用抗生素的后果是让细菌发展出抵抗性，而耐药性细菌导致的感染很难或几乎不可能被治疗。美国每年有200万人因感染耐药细菌患病，其中2.3万人死亡。如何阻止抗生素滥用？一种古老的策略也许最有效：<a target="_blank" href="http://www.nytimes.com/2016/03/27/opinion/sunday/how-to-stop-overprescribing-antibiotics.html?smprod=nytcore-iphone&amp;smid=nytcore-iphone-share&amp;_r=1"><u>公开羞辱</u></a>。研究发现，同行的羞辱能将抗生素处方减少81%。
+➜NASA发射控制软件开发费用超出预算上亿美元
+https://www.solidot.org/story?sid=47670	44949
+NASA督察长办公室发表了<a target="_blank" href="https://oig.nasa.gov/audits/reports/FY16/IG-16-015.pdf"><u>审计报告</u></a>（PDF），称为太空发射系统（Space Launch System，SLS）开发的软件落后于原定计划，而且<a target="_blank" href="https://science.slashdot.org/story/16/03/29/0446213/new-nasa-launch-control-software-late-millions-over-budget"><u>开发费用也大大超支</u></a>。报告称，软件的开发费用比原计划增加了77%至2.074亿美元，完整运作版本的发布时间也从原计划的2016年7月推迟到2017年9月。此外，多个计划中的功能也因为成本和时间压力而延期，其中包括自动检测特定设备和系统故障根源的功能。 缺少了这项功能提供的信息，控制人员和工程师将更难快速诊断和解决问题。报告还透露，NASA在 1995年到2002年之间曾两次尝试升级它的指令和控制软件，但都失败了，超过5亿美元的费用打了水漂。报告说，SLS发射控制软件架构的相关决策是NASA在10年前做出的，相比商业指令和控制软件，这种谨慎的做法不再具有优势。SpaceX和Orbital ATK都是使用商业软件完成发射任务。

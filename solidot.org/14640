@@ -1,0 +1,64 @@
+➜谷歌能源有限公司
+https://www.solidot.org/story?sid=16053	6960
+<a href="http://iflonely.com/">iflonely.com</a> 写道 "去创造并管理丰饶的资源，而不是控制稀缺资源，这正是Google的世界观。巨头的雄心永远不会停止，因为他们的愿景没有把自己框在某个领域里面。<a href="http://www.google.org/">Google.org</a>的重头能源项目之一“RE小于C”旨在为世界（和谷歌自己）创造比碳更便宜的清洁能源。详细了解这些项目，<a href="http://iflonely.com/wordpress/2010/01/%E5%85%B3%E6%B3%A8google-org%EF%BC%8C%E5%85%B3%E6%B3%A8%E8%83%BD%E6%BA%90%E4%B8%9A%E7%9A%84%E6%9C%AA%E6%9D%A5/">回头看这里</a>。试想有一天，人们不仅用着谷歌搜索，Gmail，所有的网站都给谷歌供稿，而且家里电表由谷歌帮你监控，电力账单上的抬头是Google Energy, Inc.，你有恶意行为直接拉你的闸；出行用的是谷歌绝对控股但不以谷歌命名的电动汽车。正所谓项庄舞意在沛公。"
+➜比尔盖茨的新网站使用Linux系统和IIS
+https://www.solidot.org/story?sid=16054	14160
+<a href="http://3seconds.cn/">3秒</a> 写道 <i>"谁还敢说微软不支持开源，不支持Linux，据netcraft的<a href="http://toolbar.netcraft.com/site_report?url=http://www.thegatesnotes.com">报告</a>，Bill Gates的新网站<a href="http://www.thegatesnotes.com/">盖茨笔记</a>使用了Linux的操作系统，同时使用IIS/7.0 Web服务器软件，咋一听起来怎么这么别扭呢！Linux系统上哪来的IIS？但netcraft的报告确实是这么说的，难道探测错误了？或者有其他的蹊跷，你想到了可能的原因吗？Gates使用了Akamai给网站内容做镜像，以防止在网站流量大或遭受DDos攻击时候出现无法访问的情况，流量会在这里过滤。Akamai使用Linux服务器，所以Netcraft探测到的信息是Linux服务器。但同时令人感到诧异的是，Akamai服务器同时给Netcraft返回了包含“Microsoft-IIS/7.0”字样的网站头信息。其实同样的事情在2003年时已经<a href="http://news.netcraft.com/archives/2003/08/17/wwwmicrosoftcom_runs_linux_up_to_a_point_.html">发生</a>过了，当时是说microsoft.com运行在Linux上。实际上是这样的：微软的流量在同样使用Linux boxes的Akamai上进行了路由，所以当时会有这个误会。之后微软更换了他们的服务器，自那以后就能正常探测到他们使用Windows Server 2003系统了，其实这就和盖茨笔记使用Microsoft-IIS/7.0是一个道理。(<a href="http://3seconds.cn/2010/01/31/thegatesnote-linux-iis.html">原文</a>|来源techcrunch)"</i>
+➜史蒂夫.乔布斯闲聊iPad和Kindle
+https://www.solidot.org/story?sid=16055	16800
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "<a href="http://www.morgancheng.com/">译者</a>根据<a href="http://www.huffingtonpost.com/2010/01/29/steve-jobs-on-ipad-apple_n_441926.html">huffingtonpost原文</a>翻译：<i>
+苹果发布iPad之后，华尔街日报记者Walt Mossberg获得机会和史蒂夫.乔布斯闲聊的机会。Mossberg问，在亚马逊的Kindle浏览器上一本电子书只要9.99美元，那么用户怎么会愿意掏14.99美元购买iPad上的图书。
+乔布斯回应：“不会这样的。” Mossberg于是追问，这是不是意味着苹果将会降价，或者亚马逊将会涨价。乔布斯打了一个马虎眼：“价格将会一样。”他同时指出，出版商开始从亚马逊撤出书籍内容。
+Mossberg询问乔布斯关于iPad的电池使用时间问题，10小时的时间明显不如Kindle，Kindle的待机时间可维持数个星期。
+乔布斯的回答是：“10小时是很长的时间，你不可能连续看10个小时的书。”"</i>
+➜谋智CEO宫力评价谷歌事件
+https://www.solidot.org/story?sid=16056	18900
+<a href="http://www.morgancheng.com/">巴别塔上的雇工</a> 写道 "Mozilla中国负责人、谋智网络董事长兼CEO宫力在官方博客上评价了<a href="http://blog.mozilla.com/ligong/2010/01/29/what-does-it-really-mean-for-google-to-pull-out-of-china/">最近的谷歌事件</a>。
+<i>宫力根据自己的分析，总结认为如果谷歌真的要撤出中国，将有三个动作。
+<br>第一个动作，google.cn服务将会被改为“离岸”(offshore)，服务器将被放置在香港等非中国大陆地区，但是这涉及到很多复杂的因素，比如音乐搜索，在非大陆地区可能存在版权问题。
+<br>第二个动作，谷歌将继续在中国大陆销售服务，但是如果这个撤退不小心行事的活，回个销售带来负面影响。
+<br>第三个动作，谷歌将保留中国的研发中心，但其作用和重要性将大大缩水，尤其在最近设计到“内鬼”事件。
+</i>对于第三个动作，博客<a href="http://www.morgancheng.com/">巴别塔上的雇工</a>的观点是，“内鬼”事件是没有根据的，而且传言中的通过隔离源代码来保护“核心技术”的做法也是可笑的。"
+➜苹果Boot Camp支持Windows 7
+https://www.solidot.org/story?sid=16057	19200
+苹果更新了Boot Camp，<a href="http://apple.slashdot.org/story/10/01/30/2026204/Boot-Camp-Finally-Supports-Windows-7-On-Macs">加入了对Windows 7的支持</a>。但最新版的Boot Camp也需要最新版的OS X 10.6 (Snow Leopard)系统。对于目前通过Boot Camp安装Vista的用户，苹果也提供了一个<a href="http://support.apple.com/kb/DL977">升级工具</a>，以推动用户过度到Windows 7。
+➜Linuxs上7款最好的自由计算器软件
+https://www.solidot.org/story?sid=16058	20400
+任何操作系统预备的基本工具之一是桌面计算器。它们功能一般都很简单，但足以满足日常需求，包括有三角函数、对数、阶乘、括号和记忆等功能。但Linuxlinks<a href="http://www.linuxlinks.com/article/20100129194223103/Calculators.html">介绍的免费计算器</a>则要先进的多，能够处理复杂的数学函数，绘制2D和3D图形，等等。它们包括：
+<i>
+<a href="http://extcalc-linux.sourceforge.net/">Extcalc</a>：多功能科学图形计算器；<br>
+<a href="http://speedcrunch.org/">SpeedCrunch</a>：强大的高精度桌面计算器；<br>
+<a href="http://www.jirka.org/genius.html">Genius Mathematics Tool</a>：数学教育工具；<br>
+<a href="http://qalculate.sourceforge.net/">Qalculate！</a>：功能强大、易于使用的计算器；<br>
+<a href="http://galculator.sourceforge.net/">galculator</a>：RPN（Reverse Polish notation，<a href="http://zh.wikipedia.org/wiki/%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E7%A4%BA%E6%B3%95">逆波兰表示法</a>）和代数计算器；<br>
+<a href="http://rpcalc.bellz.org/">rpCalc</a>：简单的RPN计算器；<br>
+<a href="http://nonpareil.brouhaha.com/">Nonpareil</a>：高保真计算器模拟器。</i>
+➜进化机器人能学习如何猎取地球上的食物
+https://www.solidot.org/story?sid=16059	23280
+在最新一期开放获取杂志PLoS ONE上，瑞士的人工智能研究人员Dario Floreano和Laurent Keller介绍了能<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000292">根据达尔文自然选择进化出适应性行为的机器人</a>。
+<i>
+达尔文认为，适应和复杂性的进化是经过自然选择，基于无数细小的基因修改实现的。但瑞士科学家设计的机器人则<a href="http://hardware.slashdot.org/story/10/01/30/1555237/Evolving-Robots-Learn-To-Prey-On-Each-Other">加快了演化步伐</a>，在短短百代内，拥有神经网络的机器人就能从最初的跌跌碰碰进化出复杂的适应性行为，如避免碰撞，自由行动，找到家，猎取食物上的合作，甚至是利他主义。比如在一个<a href="http://www.popsci.com/science/article/2010-01/robots-display-predator-prey-co-evolution-evolve-better-homing-techniques">迷宫试验</a>(<a href="http://link.brightcove.com/services/player/bcpid3924348001?bctid=63878795001">视频</a>)中，机器人在50代的时间内就能学会不碰壁，甚至还知道在什么地方转弯。虽然他们的机器人仍然十分原始，但其进展令人印象深刻。</i>
+➜百度的网页服务器Baidu Web Server是什么
+https://www.solidot.org/story?sid=16060	24720
+<a href="http://www.ryutlism.org/">yalewhd</a> 写道<i> "今天无意之中胡乱发现baidu用了个同google一样的命名的服务器BWS，我想应该就是Baidu Web Server吧。Google<a href="http://www.google.cn/search?hl=zh-CN&amp;source=hp&amp;q=Baidu+Web+Server&amp;btnG=Google+%E6%90%9C%E7%B4%A2&amp;aq=f&amp;oq=">之</a>，没发现什么信息，有人了解这个东西么？"</i>
+➜Google加入反IE6联盟：IE6真的能被消灭吗？
+https://www.solidot.org/story?sid=16061	46800
+<a href="http://www.comsharp.com/">锐商企业CMS</a> 写道 "<a href="http://mashable.com/2009/07/16/ie6-must-die/">剿杀 IE6 的战斗仍在继续</a>，一家重量级公司的加入为这场战斗增加了决胜的砝码，<a href="http://googleenterprise.blogspot.com/2010/01/modern-browsers-for-modern-applications.html">Google 宣布</a>，从 2010 年 3 月 1 日起，Google Docs 和 Google Sites 将不再支持 IE6。如今，<a href="http://mashable.com/2009/08/07/ie6-must-die-2/">宣布不支持 IE6 的公司已经构成了一份长长的名单</a>，然而，IE6 是真的那么轻易被剿灭吗（<a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K896.aspx">完整图文版</a>）？
+<b>Google 在其官方博客中写道：</b>很多公司都停止支持 IE6 等旧浏览器，我们也将从 Google Docs 和 Google Sites 开始加入这一行列。从3月1日起，这些产品中的某些重要功能在这些旧浏览器中将无法正常使用。           <b>关于 IE6 的一些问题以及它为什么被剿杀，可以参阅以下文章：</b>
+<ul>
+<li> <a href="http://mashable.com/2009/07/16/ie6-must-die/">为了 Web 的进步，IE6 必须死</a> </li>
+<li> <a href="http://mashable.com/2010/01/18/5-more-reasons-why-ie6-must-die/">IE6 必须死的更多理由</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K703.aspx">别了，亲爱的 IE6</a> </li>
+<li> <a href="http://www.comsharp.com/GetKnowledge/zh-CN/It_News_K782.aspx">IE6 死后即将大快人心的10件事</a> </li>
+</ul>
+<b>然而 IE6 真的那么容易被消灭吗？</b>
+<br> <br>这段文章来自 thenextweb.com，作者讲述了为什么 IE6 仍然存在以及为什么它不那么容易被消灭。
+<br> <br>IE 确实被开发者痛恨，它已经过时，且不支持最新 Web 技术和标准，然而却拥有庞大的用户基础，这主要是由那些没有及时升级他们的软件系统的公司导致的。现在，Google 也加入到<a href="http://thenextweb.com/2009/08/19/forced-ie6-blow-whistle-boss/">反 IE6 运动</a>，然而 IE6 并不那么容易被消灭。
+<br> <br>Google 从 Google Docs 和 Google Sites 开始停止对 IE6 的支持，然而，使用 Google Sites 的公司寥寥无几，而在企业领域 Google Docs 和微软 Office 相比，仍不足为道。虽然 Google 最终会陆续停止其它产品对 IE6 的支持，但必须知道，很多企业坚持使用 IE6 的原因是他们有很多旧的 Web 应用是建立在 IE6 基础上的（译者注：IE6时代曾诞生过大量只支持 IE6 的企业 Web 应用，如 BS 版的 ERP，OA 和 CRM 系统），除非 Google 在搜索主业中停止对 IE6 的支持，否则，企业用户市场仍然会保留 IE6。
+<br> <br>最终，或许微软才是真正能将 IE6 消灭的公司，很多公司正在计划向 Windows 7 迁移，Windows 7 包含最新的 IE 浏览器，<a href="http://thenextweb.com/2009/07/24/ie-death-windows-7/">甚至根本没带浏览器</a>，这将敦促企业用户重新考虑那些只支持 IE6 的 Web 应用的存留问题，而在当前，他们可以不要 Google 的那些服务，却不能不要IE6，另外，Google 的 <a href="http://code.google.com/chrome/chromeframe/">Google Chrome  Frame</a> 可以帮助 IE6 用户绕过目前存在的问题。
+<br> <br>译者注：在国内，IE6 庞大的用户基础还来自网银和政府网站这两个根深蒂固的 IE6 拥趸，而这两个 IE6 拥趸只所以抱住 IE6 不放的原因是，他们的大量应用是基于 IE6 ActiveX 控件的。
+<br> <br>本文来源：<br> <a href="http://mashable.com/2010/01/29/google-ie6/">http://mashable.com/2010/01/29/google-ie6/</a> <br> <a href="http://thenextweb.com/us/2010/01/30/google-kill-ie6/">http://thenextweb.com/us/2010/01/30/google-kill-ie 6/</a> <br>中文翻译来源：<a href="http://www.comsharp.com/"> <b>锐商企业CMS</b>网站内容管理系统</a>官方站"
+➜Facebook重写PHP runtime？
+https://www.solidot.org/story?sid=16063	54600
+Facebook正在努力为PHP提速。该公司正秘而不宣的<a href="http://developers.slashdot.org/story/10/01/31/0252201/Facebook-Rewrites-PHP-Runtime-For-Speed">进行着一个开源项目</a>：<a href="http://www.sdtimes.com/blog/post/2010/01/30/Facebook-rewrites-PHP-runtime.aspx">从头开始重写PHP runtime</a>。
+<i>传说上周Facebook开发团队邀请了核心PHP团队到公司讨论他们的新开源项目，这些核心的PHP开发者还被迫签署了保密协议。但有匿名人士留言说，Facebook是在开发一个PHP编译器，Facebook版本的PHP将从一个动态语言变成了一个预编译类型安全语言。这将能使PHP的速度提升10倍。</i>

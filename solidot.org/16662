@@ -1,0 +1,18 @@
+➜卡巴斯基故意伪造恶意文件伤害竞争对手
+https://www.solidot.org/story?sid=45147	15043
+路透社援引两名匿名前卡巴斯基雇员披露的消息<a target="_blank" href="http://www.reuters.com/article/2015/08/14/us-kaspersky-rivals-idUSKCN0QJ1CR20150814"><u>报道</u></a>，这家俄罗斯的著名安全软件开发商故意引诱竞争对手删除重要的良性系统文件，破坏其声誉。<i>该公司从十多年前就开始采用这一策略，部分攻击是由联合创始人Eugene Kaspersky直接下令实施的，以报复某些竞争对手拷贝他的软件。其中一名匿名雇员称，这种方法不仅损害竞争对手也破坏了用户电脑。前卡巴斯基雇员称，他们被分配任务逆向工程竞争对手的病毒检测机制，寻找方法愚弄竞争对手的安全软件，将良性文件标记为恶意文件。卡巴斯基采用的一种技术是向电脑上的重要文件注入不良代码，使其看起来像是感染了病毒，然后雇员匿名将篡改后的文件上传到安全行业共享的数据库Google的VirusTotal。如果篡改后的文件与原始文件极为相似，那么竞争对手的软件就可能将良性文件标记为潜在恶意。微软、AVG和Avast是这种攻击的受害者，它们都曾删除过客户电脑中重要文件导致电脑崩溃或无法启动。卡巴斯基对该报道予以否认，声称它们也是受害者，而微软、AVG和Avast没有置评。</i>
+➜天津爆炸死亡人数升至104，发现剧毒氰化物
+https://www.solidot.org/story?sid=45148	20588
+<p align="center"><img src="http://img.solidot.com.cn/0/891/liLEQIyurmqbk.jpg" align="" height="188" width="300"><img src="http://img.solidot.com.cn/0/892/li95imsn0Q7N.jpg" align="" height="189" width="300"><br>
+</p>
+<p align="center">
+<br>
+</p>
+官方新华社<a target="_blank" href="http://www.bbc.com/zhongwen/simp/china/2015/08/150814_china_tianjin_update"><u>报道</u></a>，天津滨海新区爆炸死亡人数已上升至104人，其中消防队员21人，爆炸现场的地下管道验出氰化物。氰化物剧毒，微量即能致命。气象部门正预备人工消雨，防止氰化物遇水、遇酸。氰化物在碱性环境较容易处理。假如环境酸碱值降低，氰化物可能会挥发。这次爆炸是如此剧烈，有多颗气象卫星都探测到<a target="_blank" href="http://cimss.ssec.wisc.edu/goes/blog/archives/19209"><u>爆炸产生的火焰</u></a>。Google的Skybox Imagery公布了爆炸前(左图)后（右图）的卫星照片。<b>更新</b>1：为处理氰化物和防止氰化物扩散，政府下令疏散方圆三公里居民。<b>更新</b>2：官方称没有疏散。
+➜如何关闭Firefox的静默请求
+https://www.solidot.org/story?sid=45149	50418
+Firefox的一项<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM/Reference/Interface/nsISpeculativeConnect"><u>新功能（</u></a>从时间上已经是旧功能）再次引发了<a target="_blank" href="http://news.slashdot.org/story/15/08/14/2321202/how-to-quash-firefoxs-silent-requests"><u>隐私方面的疑问</u></a>。当你的鼠标悬浮在一个链接上，浏览器会自动向目标服务器发出请求。关闭CSS、 JavaScript和预取功能后仍然如此。早在2012年，就有用户向
+bugzilla<a target="_blank" href="https://bugzilla.mozilla.org/show_bug.cgi?id=814169"><u>递交bug报告</u></a>请求加入一个偏好选项可选择关闭静默请求，但至今其状态仍然是“不予处理”。Mozilla的建议是用户可以从about:config中选择关闭自动请求——输入about:config，搜索network.http.speculative-parallel-limit，双击将值改为0。相比 Microsoft Edge和Chrome，Firefox还算得上比较容易修改设置的浏览器。
+➜NSA宣布过渡到能抗量子计算机的加密算法
+https://www.solidot.org/story?sid=45150	54893
+真正实用的量子计算机还没有变成现实，但NSA已经提前开始准备。量子计算机在并行处理上远胜于经典计算机，很多经典计算机难以破解的加密算法对于量子计算机不再是难题。NSA<a target="_blank" href="https://www.nsa.gov/ia/programs/suiteb_cryptography/index.shtml"><u>宣布了</u></a>(链接失效，<a href="https://csrc.nist.gov/CSRC/media/Events/ISPAB-MARCH-2006-MEETING/documents/E_Barker-March2006-ISPAB.pdf"><u>替代链接一</u></a>和<a href="https://www.comparitech.com/blog/information-security/encryption-types-explained/"><u>二</u></a>)过渡到抗量子计算机加密算法的计划。NSA称它将以开放透明的方式开发下一代加密算法组件。

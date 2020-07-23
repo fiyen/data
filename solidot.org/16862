@@ -1,0 +1,57 @@
+➜OpenSSL 1.0.2g发布
+https://www.solidot.org/story?sid=47332	7223
+<a href="http://hardenedlinux.org/">Hardenedlinux</a> 写道<i> "*EMBARGOED*结束后<a target="_blank" href="http://openssl.org/news/secadv/20160301.txt">OpenSSL adversary公开了修复漏洞信息</a>，其中两个洞还有了fancy name，一个叫<a target="_blank" href="https://drownattack.com">DROWN</a>，一个叫<a target="_blank" href="https://ssrg.nicta.com.au/projects/TS/cachebleed/">Cachebleed</a>。DROWN主要是OpenSSL代码中还存在SSLv2和EXPORT（当年<a target="_blank" href="https://raw.githubusercontent.com/citypw/DNFWAH/master/3/d3_0x06_hacker_nsa_free-software.txt">密码禁运时期</a>的产物），攻击者可以实现中间人劫持，<a target="_blank" href="http://undeadly.org/cgi?action=article&amp;sid=20160301141941">LibreSSL不存在这个问题</a>，因为SSLv2的代码已经被删除了(GnuTLS也被删除了的），这个漏洞如果中招的同学肯定是没有认真对待TLS合规，防护方法是服务器端不支持SSLv2的链接即可，<a target="_blank" href="http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html">TLS的基线</a>也很重要，认真的去<a target="_blank" href="http://hardenedlinux.org/system-security/2015/06/09/debian-security-chklist.html">检查一下服务器端的配置</a>以及Ciphersuites。
+<p></p>
+Cachebleed结合CPU微结构的设计上的特性来玩侧信道攻击，利用banks并发访问的冲突来实现信息泄漏，攻击场景应该主要为HOST/GUEST云(多)租户环境，如果你的机器是重要的基础设施或者你的威胁建模里有BIGBRO，那还是建议关掉HT，因为你不知道之后的IvyBridge/Haswell/Broadwell/SKylake会不会有相似的问题。"</i>
+➜Diffie和Hellman分享2015年图灵奖
+https://www.solidot.org/story?sid=47334	10910
+美国计算机学会（ACM）宣布了<a target="_blank" href="http://www.acm.org/awards/2015-turing"><u>2015年度图灵奖得主</u></a>：前Sun首席安全官 Whitfield Diffie和斯坦福教授Martin E. Hellman，以表彰他们在现代加密学上的重要贡献。1976年，Diffie和Hellman发表了突破性的论文《<a target="_blank" href="https://www-ee.stanford.edu/~hellman/publications/24.pdf"><u>加密学的新方向</u></a>》（PDF），提出了公钥加密和数字签名的思想。被广泛使用的密钥交换协议DH是以他们的名字命名的。图灵奖被誉为计算机科学领域的诺贝尔奖，在获得Google的捐赠后其奖金也达到了100万美元。ACM主席Alexander L. Wolf称，加密主题是今天媒体关注的中心，被视为事关国家安全，影响政府-私营部门的关系，吸引了数十亿美元的资金投入到研究开发上。Google的杰出科学家Andrei Broder说，公钥加密系统是今天互联网行业的基础，确保了通信的完整性和保密性。
+➜日本人口五年内减少近百万
+https://www.solidot.org/story?sid=47335	12179
+日本官方人口普查数据证实，在过去五年中，<a target="_blank" href="http://cn.nytimes.com/asia-pacific/20160301/c01japan/"><u>该国人口减少了将近一百万</u></a>。在一个并未遭到战争或其他重大危机破坏的社会，这样的人口减少是前所未有的。这有助于解释该国持续不断的经济问题。自1920年代起，日本就开始在全国范围内收集人口普查数据，这是第一次记录得到人口减少的情况。但是多年以来，基于小样本的调查就已经显示，日本人口呈下降趋势。日本总务省表示，2015年该国人口为1.271亿，较2010年的上一次人口普查减少了94.7万人，降幅为0.7%。 日本是世界上生育率最低的国家之一，移民也很少。数年来，甚至数十年来，日本就已经预见到了这个拐点的出现。然而，政府鼓励女性多生孩子的努力收效甚微，而且打开大门、大规模吸纳移民的做法，也很难得到公众的支持。
+➜微软将统一PC和 Xbox One平台
+https://www.solidot.org/story?sid=47336	13174
+微软Xbox业务负责人Phil Spencer<a target="_blank" href="http://www.theguardian.com/technology/2016/mar/01/microsoft-to-unify-pc-and-xbox-one-platforms-ending-fixed-console-hardware"><u>宣布</u></a>，该公司计划将PC和Xbox One游戏平台统一成一个运行Universal Windows Applications (UWAs)的生态系统。看起来Xbox One未来会变成一个类似PC的平台，支持向后兼容的硬件升级。Spencer称，Universal Windows Platform将成为该公司游戏策略的核心，它允许应用运行在PC、Xbox、平板和智能手机上。微软目前正将Xbox平台上的游戏带到Windows 10上，它刚刚发布了Windows 10独占游戏《<a target="_blank" href="https://www.microsoft.com/en-us/store/games/gears-of-war-ultimate-edition-for-windows-10/9nblggh3shm5"><u>战争机器终极版</u></a>》（售价30美元），即将发布的《Forza Motorsport 6》、《Killer Instinct》和《量子破碎》也可能都是Windows 10独占。
+➜针对印度政府的间谍软件使用了开源代码
+https://www.solidot.org/story?sid=47337	16482
+安全公司Palo Alto Networks<a target="_blank" href="http://researchcenter.paloaltonetworks.com/2016/02/new-malware-rover-targets-indian-ambassador-to-afghanistan/"><u>报告了</u></a>针对印度驻阿富汗大使的间谍软件行动，攻击者的恶意程序使用了多个开源软件库，研究人员将其命名为Rover，原因是火星漫游车的软件也使用了这些开源库（<a target="_blank" href="http://docs.opencv.org/master/d1/dfb/intro.html#gsc.tab=0"><u>OpenCV</u></a>和<a target="_blank" href="https://en.wikipedia.org/wiki/OpenAL"><u>OpenAL</u></a>）。攻击者在去年12月24日向印度大使发送了钓鱼邮件，发信人伪装成印度国防部长，邮件的附件是一个RTF文件，如果使用了一个有漏洞的MS Word程序打开这个附件，恶意程序将利用漏洞下载可执行文件执行，这个可执行文件是一个下载器，将会下载Rover的主要组件，然后从受害者电脑上窃取数据。Rover的功能包括了屏幕截图、记录按键和后门。
+➜日本法庭要求性罪犯的遗忘权
+https://www.solidot.org/story?sid=47338	18601
+日本东京都埼玉县的一家地区法院<a target="_blank" href="https://thestack.com/world/2016/03/01/japanese-court-demands-right-to-be-forgotten-for-sex-offender/"><u>作出裁决</u></a>，一位有性犯罪前科的人有不受网上性犯罪历史的阻碍重建生活的权利，法庭以遗忘权为由要求Google删除他的所有与性犯罪记录相关的搜索结果链接。法官小林久木争论说，根据犯罪的性质，在一段时间后一个个体应该能进入到一个公平的康复过程，其中包括清白的在线记录历史。这位未公开名字的男子的犯罪经历与儿童卖淫和色情犯罪有关。
+➜两名宇航员在ISS生活一年后重返地面
+https://www.solidot.org/story?sid=47339	23796
+<div align="center"><img src="http://img.solidot.org/0/408/liNyCCJMxHv6.png" align="" height="199" width="550"><br>
+</div>
+<br>
+NASA宇航员Scott Kelly与俄罗斯宇航员Mikhail Korniyenko<a target="_blank" href="http://www.nasaspaceflight.com/2016/03/year-in-space-mission-end-soyuz-return-earth/"><u>完成了在国际空间站生活340天的历史性任务</u></a>，搭乘联盟号飞船<a target="_blank" href="http://www.nasa.gov/press-release/nasa-astronaut-scott-kelly-returns-safely-to-earth-after-one-year-mission"><u>安全返回地面</u></a>，飞船着陆在哈萨克斯坦，一同返回的还有俄罗斯宇航员Sergey Volkov。此次任务的一个目的是研究长时间生活在太空对人体的影响，为未来的深空探索和火星任务提供有价值的信息。Scott Kelly是第一位在轨道上驻扎一年的美国宇航员。他的孪生兄弟Mark Kelly也是宇航员，在这次任务中NASA不仅测量和监视了Scott的身体状况，还监视了在地面生活的 Mark的身体状况，获得独一无二的参照信息。Scott和Mark出生于1964年2月21日，1996年被挑选为候选宇航员。Korniyenko出生于1960年4月15日，1998年被选为候选宇航员。
+➜巴西Facebook负责人因拒绝提供WhatsApp数据被捕
+https://www.solidot.org/story?sid=47340	27764
+Facebook负责拉美地区的副总裁Diego Dzodan，因为多次拒绝巴西法庭要求交出一位涉嫌贩毒的WhatsApp用户数据的命令<a target="_blank" href="http://www.bbc.com/news/world-latin-america-35700733"><u>而遭到逮捕</u></a>。WhatsApp是Facebook旗下的移动通信应用，是巴西最受欢迎的移动通信应用。Facebook在一份声明中将逮捕形容为一种极端的不相称的措施。去年12月，巴西法官曾因为类似的案件下令关停WhatsApp服务48小时。
+➜波士顿动力的狗遭遇Andy Rubin的狗
+https://www.solidot.org/story?sid=47341	31160
+<center>
+<iframe src="https://www.youtube.com/embed/S7nhygaGOmo" allowfullscreen="" frameborder="0" height="459" width="496"></iframe>
+</center>
+事实证明，机器狗与宠物狗<a target="_blank" href="http://spectrum.ieee.org/automaton/robotics/military-robots/two-of-googles-most-famous-dogs-really-dont-get-along"><u>不能和睦相处</u></a>。Andy Rubin是Android的联合创始人，曾管理过Google的机器人部门，著名的机器人公司波士顿动力就属于该部门。Andy Rubin现在管理着一家硬件孵化器 <a href="http://playground.global/">Playground</a>。他的狗Cosmo是Playground的“安全主管”，有一天它遭遇了波士顿动力的机器狗Spot，<a target="_blank" href="https://youtu.be/S7nhygaGOmo"><u>视频</u></a>显示结果并不乐观。Spot重160磅，是为美国海军陆战队研发的，但因为使用电动马达负重只有18公斤而不适合实战，Spot及另一个负重机器人LS3<a target="_blank" href="http://www.solidot.org/story?sid=46711"><u>都已经被搁置</u></a>。
+➜俄罗斯众筹卫星反射镜目标是成为夜空中最明亮的星星
+https://www.solidot.org/story?sid=47342	32379
+<div align="center"><img src="http://img.solidot.org/0/409/liHQ4my7zyTs.jpg" align="" height="314" width="500"><br>
+</div>
+<br>
+莫斯科机械工程大学的一组工程师在俄罗斯的众筹网站Boomstarter发起了卫星反射镜<a target="_blank" href="http://boomstarter.ru/projects/shaenko/kosmicheskiy_sputnik_mayak"><u>Mayak</u></a>（意思是信标）的众筹，截至目前已经筹集到了181万卢布（约合人民币16万），<a target="_blank" href="http://arstechnica.com/information-technology/2016/02/russian-crowdfunded-reflector-satellite-aims-to-be-brightest-star-in-the-sky/">超过了筹款目标</a>。Mayak是一个
+16平方米的四面体反射镜，它在轨道上能反射阳光，成为夜空中最明亮的星星。俄罗斯卫星发射公司 Roscosmos证实它考虑在2016年年中的一次卫星发射中顺便将Mayak发射到轨道上。Mayak团队还计划提供一个应用，让用户实时定位卫星的位置。
+➜深圳大疆发布半自主无人机Phantom 4
+https://www.solidot.org/story?sid=47343	33793
+深圳大疆公布了最新的航拍四旋翼无人机<a target="_blank" href="http://www.dji.com/cn/newsroom/news/DJI-Launches-New-Era-of-Intelligent-Flying-Cameras"><u>Phantom 4</u></a>，除了飞得更快更远摄像性能更好外，Phantom 4的最大特性是<a target="_blank" href="http://arstechnica.com/gadgets/2016/03/dji-shows-off-the-semi-automated-phantom-4-leave-the-flying-to-the-drone/"><u>自主飞行功能</u></a>。它配备了2个前视传感器去探测障碍，如果探测到50英尺内有障碍物，它会减速；如果探测到6英尺内有障碍物，它要么悬停，要么飞过或绕过。大疆声称无人机利用了机器学习技术实现智能跟随功能。在iOS和安卓系统的DJI GO应用程序中选择“智能跟随”模式并点击被跟随目标，便会在视野中自动扫描该对象，并在当前高度上开始跟随；被跟随目标的运动方向和速度发生改变，无人机也会调整速度、保持相对距离不变。无人机配备了容量5230mAh的电池，飞行时间最长28分钟。<a target="_blank" href="http://www.dji.com/cn/product/phantom-4"><u>Phantom 4</u></a>已经开放预购，美国地区售价1399美元，中国大陆售价8999元，3月15日部分渠道开始发货，4月1日全面发货。
+➜中国的煤炭消费连续第二年下降
+https://www.solidot.org/story?sid=47344	37815
+世界最大的二氧化碳排放国可能已经提前抵达了它的排放上限：2014年、2015年<a target="_blank" href="http://www.scientificamerican.com/article/china-cuts-coal-use-for-second-year-in-a-row/"><u>连续两年煤炭消耗量下降</u></a>。中国国家统计局的数据显示，2014年的煤炭使用量比2013年减少2.9%，2015年则比2014年减少3.7%。煤炭消费的下降归因于经济增长放缓，服务业取代重工业成为最大的产业。但中国的能源消费数据<a target="_blank" href="http://www.solidot.org/story?sid=46054"><u>已在去年被发现不精确</u></a>，没有了中国统计部门的美化后，数据显示2000年以来的煤炭消耗量被低估，2012年的煤炭消耗量比之前的数字增加了17%。一些人认为错误的发现本身也证明中国的数据在改善。
+➜如何为长时间太空旅行做准备？
+https://www.solidot.org/story?sid=47345	39544
+往返火星至少需要两年时间，对于漫长太空之旅中的挑战，NASA和ESA都在进行相关研究。ESA的研究<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/02/160229_vert_fut_how-do-you-prepare-for-the-isolation-of-space"><u>是在与世隔绝的南极大陆上展开的</u></a>，参与研究的科学家发现了太空旅行的一个问题：技能退化。当一位专业人士很长时间没有使用其专业技能，他们最后还能保留多少知识和经验？对参加模拟的志愿者的研究显示，接受较少培训的志愿者在表现上更有可能落后，这一结果不出人意料。但关键问题在于，人们遗忘知识的速度有多快？遗忘的程度有多大？南极的科研人士和志愿者还必须面对极昼和极夜状态下的睡眠问题。国际空间站上的宇航员也必须适应与之类似的混乱睡眠模式——忍受只有90分钟的昼夜交替。为了获得充足的太阳能，飞往火星的太空飞船可能都要经历持续不断的阳光照射——一边始终是白天，另外一边始终是黑夜。研究显示，南极缺乏光照的问题因人而异，一些人影响严重，另一些人影响很小。
+➜寻找搜索地球的外星人
+https://www.solidot.org/story?sid=47346	42060
+通过观察行星凌日现象，NASA的开普勒望远镜至今发现了1000多颗系外行星。现在，<a target="_blank" href="http://www.nature.com/news/et-search-look-for-the-aliens-looking-for-earth-1.19439"><u>天文学家正逆转这个方法</u></a>，希望发现外星文明以及与其展开交流。当地球从太阳前方飞过，外星球的先进文明也能借助光的变化发现地球，他们甚至能观察到地球的大气层被地球上的生命从化学上改造过了。德国普朗克研究所的天文学家René Heller说，他们有更高的动机联络我们，因为他们有更好的方法鉴定地球是一颗有生命居住的行星。在地球方圆1000秒差距（3260光年）范围内，有大约1万颗恒星可能隐藏着此类行星。天文学家认为未来的SETI搜索应该集中在这些恒星上。
+➜真菌将感染者变成性感僵尸
+https://www.solidot.org/story?sid=47347	43807
+一种正在全世界杀死两栖动物的真菌疾病可能是通过将被感染雄性的交配叫声变得对雌性更有吸引力而进行传播的。这项研究显示<a target="_blank" href="http://www.sciencemag.org/news/2016/03/fungus-turns-frogs-sexy-zombies"><u>病原体能改变繁殖行为</u></a>，能解释为什么蛙类及其近亲在全世界持续消失。如果真菌操纵个体行为促进传播的发现得到确认，这将会非同寻常。致病真菌叫Batrachochytrium dendrobatidis(Bd)，能导致壶菌病，通过破坏皮肤、扰乱免疫系统和引发心脏衰竭杀死两栖动物，它被认为是数百种两栖动物灭绝的罪魁祸首，对全世界三分之一的蛙类、蜥蜴和其它两栖动物构成威胁。目前没有治疗方法，但一些蛙类已经适应了这种疾病。

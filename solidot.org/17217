@@ -1,0 +1,51 @@
+➜Linux 4.10 发布
+https://www.solidot.org/story?sid=51408	10825
+Linus Torvalds 在内核邮件列表上<a href="http://lkml.iu.edu/hypermail/linux/kernel/1702.2/02069.html" target="_blank"><u>宣布释出 Linux 4.10</u></a>。Linux 4.10 的<a href="https://kernelnewbies.org/Linux_4.10" target="_blank"><u>主要特性</u></a>包括：加入了 GPU虚拟化方案 Intel GVT-g for KVM (a.k.a. KVMGT)的支持；高速缓存块争用分析工具 perf c2c；新的调度事件分析功能 perf sched timehist；改进<a href="https://lwn.net/Articles/682582/" target="_blank"><u>回写管理</u></a>；支持 Intel Cache Allocation Technology；控制组添加<a href="https://lwn.net/Articles/698073/" target="_blank"><u> BPF 网络过滤器</u></a>；实验性的 MD raid5 回写缓存和 FAILFAST 支持；UBIFS 文件系统支持文件加密；其它还有架构更新、硬件支持和驱动等等。
+➜中国爆发严重禽流感疫情
+https://www.solidot.org/story?sid=51409	11423
+中国当局正在应对 H7N9 <a href="http://www.nhfpc.gov.cn/yjb/s3578/201702/345d393fb1434701b8ee29e4fc3f26b7.shtml" target="_blank"><u>禽流感疫情</u></a>，在数周已有数十人死亡后，关闭了全国多地的活家禽市场。官方新华社<a href="http://cn.nytimes.com/china/20170220/china-bird-flu/" target="_blank"><u>报道</u></a>，截止上周五，卫生官员确认仅在二月，就有 77 例确诊的禽流感病例以及 8 名患者死亡。上个月，中国有 192 人感染了这种病毒，其中 79 人死亡。这种菌株 H7N9 是属于禽流感病毒，与活禽或刚刚杀死的禽类密切接触过的人可能会被感染。卫生和计划生育委员会已经禁止在中国东部、南部和西南部的一些地区销售活家禽。浙江下令关闭了所有的活禽市场。几乎所有确诊的患者都和禽类有过直接接触。但专家担心，这种病毒可能最终发生突变，通过人类接触传染会变得容易。
+➜Google 再次披露 Windows 未修复漏洞
+https://www.solidot.org/story?sid=51410	13967
+三个月内的第二次，Google 工程师披露了微软<a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=992" target="_blank"><u>未修复的一个 Windows 漏洞</u></a>。上一次微软曾公开对 Google 的做法表示失望。新 bug 与 Windows GDI (Graphics Device Interface) (gdi32.dll)相关，允许攻击者利用恶意的 EMF 文件阅读用户内存中的内容，而 EMF 文件可以隐藏在 DOCX 等类型的文件中，也是就是它可以通过 Office、IE 等流行应用程序利用。Google Project Zero 团队最初是在 2016 年 3 月报告了这一该 bug，微软在 6 月份修复了漏洞（MS16-074），但发现该 bug 的  Google 工程师Mateusz Jurczyk 指出，MS16-074 补丁不完整，部分问题仍然存在，他在 2016 年 11 月重新递交了 bug，给微软 90 天时间修复。上周 90 天的截至日期到期，而微软因为一些问题取消了二月份的例行更新，Google <a href="https://tech.slashdot.org/story/17/02/19/2231231/google-discloses-an-unpatched-windows-bug-again" target="_blank"><u>随后对外公开了这一 bug</u></a>。
+➜中产阶级走向网络舆论前台
+https://www.solidot.org/story?sid=51411	17975
+调查数据显示出，中国中产阶级正在告别网络中沉默的少数这一角色，<a href="http://www.ftchinese.com/story/001071430?full=y" target="_blank"><u>成为走在网络舆论前台的主力军</u></a>。2016 年，涉及城市居民、人身安全、财产安全、人格尊严和法治保障的舆情事件高于往年，而这些恰恰是中产阶级特别关注的领域。这些事件包括了雷洋事件、魏则西事件、雾霾等。对这些事件的关注反应了中产阶级的焦虑，而焦虑并不是新形态，中国社会缺乏安全感是历来存在的问题。促使中产阶级走向舆论前台大抵是新的社会问题及网络环境所致，但深根于中产阶级内心的焦虑，则是由来已久的社会问题的综合结果。
+➜SpaceX 成功发射火箭，在陆地回收火箭第一级
+https://www.solidot.org/story?sid=51412	19917
+<div align="center"><img src="http://img.solidot.org/0/142/litY8Y1BxXeQg.jpg" width="500" align="" height="333"><br>
+</div>
+<br>
+私人太空公司 SpaceX 在肯尼迪太空中心成功向国际空间站<a href="https://www.nasaspaceflight.com/2017/02/spacex-historic-debut-launch-39a-crs-10-dragon/" target="_blank"><u>发射了</u></a>补给飞船 CRS-10 Dragon，在地面成功回收了火箭第一级。这是 SpaceX 第三次在陆地尝试和成功回收火箭，也是肯尼迪太空中心自航天飞机退役后首次执行太空任务。SpaceX 位于佛罗里达卡纳维拉尔角的发射台因为爆炸事件正在维修，因此该公司使用了附近肯尼迪太空中心正为重型火箭  Falcon Heavy 发射而预先准备的发射台。肯尼迪太空中心是佛罗里达州太空港的两大发射地点之一，由 NASA 运作，自阿波罗时代以来一直是美国的载人航天基地。SpaceX 使用了发射台 LC-39A，该发射台在很多历史性的载人发射任务中使用，其中包括阿波罗 11 号。这次发射是 LC-39A 自 1973 年以来首次执行无人发射任务。SpaceX 下一次发射任务是计划在 2 月 28 日使用 Falcon 9 火箭发射通信卫星 EchoStar XXIII。
+➜新西兰法庭裁决 Kim Dotcom 能被引渡到美国
+https://www.solidot.org/story?sid=51413	27261
+新西兰奥克兰高等法庭<a href="http://www.reuters.com/article/us-newzealand-internet-dotcom-idUSKBN15Z07C" target="_blank"><u>裁决</u></a>，Megaupload 创始人 Kim Dotcom 及旗下的程序员 Mathias Ortmann 和 Bram van der Kolk，以及广告经理 Finn Batato 能被引渡到美国受审。奥克兰高等法庭支持了下级法院在 2015 年做出的<a href="http://www.solidot.org/story?sid=46630" target="_blank"><u>裁决</u></a>，Dotcom 和三位共同被告被控了诈骗、版权侵犯、洗钱和电信欺诈等 13 项罪名。对于最新裁决，Dotcom的律师表示<a href="http://www.scoop.co.nz/stories/PO1702/S00226/dotcom-legal-team-on-high-court-judgment.htm" target="_blank"><u>非常失望</u></a>，表示将会向新西兰上诉法院提起上诉。新西兰警方是在 2012 年 1 月应美国的要求突袭了 Dotcom 的家，扣押了他的资产。美国检方指控 Megaupload 从版权侵犯中获利超过 1.75 亿美元，导致版权所有者损失超过 5 亿美元。
+➜宇宙射线能导致严重计算机故障
+https://www.solidot.org/story?sid=51414	30960
+军方、商业航空和计算机行业数十年来已经知道，穿过地球大气层的高能中子流能引发被称<a href="https://www.lanl.gov/science/NSS/issue1_2012/story4full.shtml" target="_blank"><u>单比特翻转</u></a>的软错误——错误引起的伤害不是永久性的，但有可能会导致计算机内存中的一个数值突然发生改变，或者逻辑回路产生了一个错误的结果可能会导致应用程序挂起或崩溃。下一次你的电脑突然崩溃或智能手机停止响应，不要立即怪罪于制造商，宇宙射线或其产生的带电粒子有足够的能量<a href="http://www.computerworld.com/article/3171677/it-industry/computer-crash-may-be-due-to-forces-beyond-our-solar-system.html" target="_blank"><u>干扰到个人的设备微电子回路的操作</u></a>。去年，思科将一个影响 ASR 9000 系列路由器的数据流量丢失 bug <a href="http://www.solidot.org/story?sid=49805" target="_blank"><u>部分归罪于</u></a>宇宙射线的单比特翻转错误。而在 2003 年，比利时 Schaerbeekm 的电子投票机错误也被归罪于单比特翻转，当时电子投票机向一位候选人增加了 4,096 张选票，这次错误之所以能发现是因为选票的总数超过了可能的值。
+➜Google 和必应将降低盗版下载站的搜索排名
+https://www.solidot.org/story?sid=51415	31637
+在英国政府的牵头下，娱乐行业与主要搜索引擎服务提供商 Google 和微软必应达成了一个自愿行为准则，确保各自搜索引擎<a href="http://www.bbc.com/zhongwen/simp/science-39024686" target="_blank"><u>将非法下载电影和音乐的网站排名降低</u></a>。这一新举措将与现有的反盗版措施同时执行。英国电子媒体监管机构 Ofcom 还将探索可用于确保网络用户避免接触非法内容的技术。目前英国的反盗版措施包括法院下令的封网措施，努力减少在非法网站上打广告，推广正版网站教育活动，鼓励网民支持原创网站。达成新协议的搜索引擎服务提供商表示，未来的网络用户将被带到真正的官网，而不是盗版网站，因为网民登陆盗版网站可能面临风险。欧洲电影协会的斯坦 · 麦考伊对自愿行为守则的制定表示欢迎。他说，盗版网站目前通过搜索引擎太容易找到。
+➜利他主义也许是出于内疚心理
+https://www.solidot.org/story?sid=51416	34019
+在看不到任何直接好处的情况下，我们为什么与他人共享资源？根据一项新研究的发现，部分人群利他主义的动机<a href="http://www.sciencemag.org/news/2017/02/why-are-we-altruistic-guilt-may-play-role" target="_blank"><u>可能是源于内疚心理</u></a>。研究结果来自于被称为信任博弈的心理学实验的修改版本。在信任博弈实验中，参与者与另一名参与者配对，一个人得到一笔钱，另一个人得到数倍于前者的钱，然后被要求选择多少钱回捐给合作者，两个人都知道对方得到了多少钱。在大多数情况下，钱多的人通常会将大约一半的钱赠给合作者。在修改版本中，研究人员在金额上误导了其中一位参与者。在原版中，A 得到 10 美元，B 得到 40 美元，两人都知道金额；在修改版本中，A 得到了 10 美元，被告知 B 得到了 40 美元，但实际上 B 得到了 60 美元，B 知道 A 以为他只得到 40 美元，现在 B 会如何选择赠送金额？对多所大学学生的测试显示，一部分人总是会拿出实际所得的一半，另一部人则拿出了对方以为的金额的一半，还有一部分被称为“道德机会主义者”则总是选择保留大部分钱。研究人员使用功能性核磁共振成像记录了参与者的大脑活动，发现前两种人在与决策相关的大脑区域表现出了相似的活动模式。研究人员认为，内疚的动机可能会让这些人表现出利他主义。
+➜Linux 占领世界，Windows 支配桌面
+https://www.solidot.org/story?sid=51417	35215
+慕尼黑市计划到 2020 年从 Linux 迁回到 Windows，这一新闻引发了广泛关注，它再次显示了 Linux 在桌面领域面临的艰巨挑战，然而现实是 Linux 并不需要去扩大桌面市场，它<a href="http://www.zdnet.com/article/windows-wins-the-desktop-but-linux-takes-the-world/" target="_blank"><u>已经占领了世界</u></a>，让 Windows 支配一个影响日益减弱的桌面领域并不是什么严重的事。Linux 桌面的市场份额在 2% 左右，Windows 大约是 90%，Linux 桌面从来没有进入主流，但另一方面 Linux 已经占领了移动市场和物联网市场，你口袋里的智能手机有五分之四的可能性是 Android，大部分物联网设备也都运行 Linux。大部分公有云也都运行某种形式的 Linux，甚至微软也开始支持和拥抱开源软件。
+➜中国科学家称已恢复猛犸象细胞的全功能
+https://www.solidot.org/story?sid=51418	39269
+官媒科技日报<a href="http://news.sciencenet.cn/htmlnews/2017/2/368293.shtm" target="_blank"><u>报道</u></a>，华大基因研究院院长、首席科学家、国家基因库执行主任徐讯称，中国科学家已经恢复了猛犸象细胞的全功能，形成了胚胎细胞，只待合格代孕体，猛犸象就可从 4000 多年前穿越而来，惊艳回归。徐讯介绍，2013 年，人们在西伯利亚冰层里发现了完整的猛犸幼象，后来通过幼象的毛发，获得了猛犸象完整的细胞核。“科学家们通过把猛犸象细胞核注入到剔除了细胞核的亚洲象的细胞内，此时的细胞核已是猛犸象的基因组，表现出来的是猛犸象的特征，就此复活了猛犸象细胞。在此基础上让猛犸象细胞重现出猛犸象的胚胎细胞，现在的克隆技术和干细胞技术已实现这一目标，让细胞实现全功能性，就可以发育成完整的胚胎，最后就是繁育出猛犸象个体。”“如果以培育出活的胚胎细胞为准，中国科学家已经让猛犸象复活。但如果以培育成猛犸象个体为准，还有一段路要走。”培育成猛犸象个体的 “代孕” 很难，“难在控制排斥反应。新的细胞分裂发育成胚胎后，最大的难关是如何让猛犸象胚胎在代孕妈妈子宫内着床、发育直至顺利生下猛犸象。而对于移植过来的胚胎，母体势必会产生免疫排斥反应，猛犸象胚胎可能在还没有形成器官前就被消灭掉。”因为即使猛犸象和最 “近亲” 的亚洲象相比，二者基因组差异仍达到 4.7%，代孕极易流产。“第三步将有赖于未来人造子宫，大约要 5 至 10 年时间。”
+➜黑客纂改特朗普竞选网站的一个子域名
+https://www.solidot.org/story?sid=51419	40573
+<div align="center"><img src="http://img.solidot.org/0/143/liReRgsLXDFak.png" width="450" align="" height="249"><br>
+</div>
+<br>
+美国总统特朗普的竞选筹款网站 donaldjtrump.com 的一个子域名 <a href="http://secure2.donaldjtrump.com/" target="_blank"><u>secure2.donaldjtrump.com</u></a> 遭到了自称 Pro_Mast3r 的黑客的<a href="https://arstechnica.com/security/2017/02/secure-trump-website-defaced-by-hacker-claiming-to-be-from-iraq/" target="_blank"><u>纂改</u></a>。黑客留言自称来自伊拉克“Nothing Is Impossible  Peace From Iraq”，被纂改的网页展示一张照片，其源代码包含了一个连接已经不存在的 Google Code 账号的 javascript 脚本，对脚本的分析显示它不是恶意程序而只是一段雪动画脚本。该子域名目前已经下线。
+➜吸烟偶尔也让人受益
+https://www.solidot.org/story?sid=51420	42500
+根据发表在《Journal of Biological Chemistry》期刊上的<a href="http://www.jbc.org/content/292/6/2542" target="_blank"><u>一项研究</u></a>，吸烟偶尔<a href="http://www.futurity.org/anemia-smoking-hemoglobin-1361552-2/" target="_blank"><u>也能让人受益</u></a>（<a href="http://www.ebiotrade.com/newsf/2017-2/2017217152435625.htm" target="_blank"><u>中文</u></a>）。一名女子和她的父亲都带有相同的突变，她患有贫血症，而她的父亲却没有。这是为什么？这对父女发生突变的是编码血红蛋白的基因，血红蛋白负责吸收并输送氧气到全身的细胞。突变并没有影响这位父亲血液中的铁含量，但似乎是这位年轻女性慢性贫血的根本原因。研究人员通过进一步调查发现，从香烟烟雾中吸收一氧化碳可以治疗这种罕见的遗传病。这个突变使得蛋白质对一氧化碳的亲和力比氧气高了 80,000 倍。香烟中的一氧化碳被突变的血红蛋白选择性吸收，防止其氧化和变形。这也解释了为什么父亲没有贫血的迹象。研究人员表示不会建议这位女子通过吸烟来缓解症状。
+➜食用年长动物的肉可能会缩短寿命
+https://www.solidot.org/story?sid=51421	44900
+吃年长动物的肉<a href="https://www.newscientist.com/article/2121585-you-are-what-you-eat-old-food-shortens-lifespan-in-animals/" target="_blank"><u>可能会让你变老</u></a>（<a href="http://news.sciencenet.cn/htmlnews/2017/2/368390.shtm" target="_blank"><u>中文</u></a>）。这听起来似乎有些牵强附会，但小鼠、苍蝇和酵母菌实验表明可能的确会这样。人们尚不了解导致衰老的基本原因。一种主导性的想法是，在一生中，人体会积累细胞损伤。哈佛大学的 Vadim Gladyshev 好奇，身体组织能否从食物中获得细胞损伤。为了验证这一理论，他的团队培育了用老的或新鲜的酵母制作的酵母菌，给果蝇喂食了用老蝇和新蝇制成的食物。他们还研究了用年长鹿的肉和年幼鹿的肉喂养的小鼠。结果显示，老的食物使酵母菌寿命缩短了 18%，果蝇寿命缩短了 13%。在小鼠中，老的食物让雌性小鼠的寿命缩短了 13%，但对雄性小鼠并无显著影响。Gladyshev 认为如果增加样本规模，他们可能在两性中均看到这种效应，他认为酵母菌、果蝇和雌鼠的研究结果支持他的假设。<a href="http://advances.sciencemag.org/content/3/2/e1601833" target="_blank"><u>研究报告</u></a>发表在《Science Advance》期刊上。利物浦大学的 João Pedro de Magalhaes 对此解释有异议，认为研究结果可以解释老肉和新肉构成中存在的广泛营养差异，而非与年龄相关的分子破坏。
+➜每月禁食五天能对抗疾病延缓衰老
+https://www.solidot.org/story?sid=51422	46825
+限制热量摄入被认为能延缓衰老，现在最新的临床试验为这一说法提供了新的证据：<a href="http://www.sciencemag.org/news/2017/02/five-day-fasting-diet-could-fight-disease-slow-aging" target="_blank"><u>每月禁食五天</u></a>能帮助预防或治疗年龄相关的疾病，如糖尿病和心血管疾病。<a href="http://stm.sciencemag.org/lookup/doi/10.1126/scitranslmed.aai8700" target="_blank"><u>研究报告</u></a>发表在《Science Translational》期刊上。在一次随机临床试验中，实验组的 71 人在 3 个月内模拟每月禁食五天，而控制组则不改变饮食习惯。结果显示，实验组的人平均减少 2.6 公斤，而控制组的人体重不变。实验组还表现出了血压，身体脂肪和腰围尺寸的下降。限制摄入热量实践起来非常困难，即使这一方法被证明非常有效，但有多少人究竟愿意这么做呢？

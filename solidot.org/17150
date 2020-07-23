@@ -1,0 +1,51 @@
+➜雅虎披露10亿用户帐户信息失窃
+https://www.solidot.org/story?sid=50738	10135
+雅虎官方<a href="https://yahoo.tumblr.com/post/154479236569/important-security-information-for-yahoo-users" target="_blank"><u>证实</u></a>超过10亿用户帐户在2013年的cookies伪造攻击中<a href="https://help.yahoo.com/kb/account/SLN27925.html?impressions=true" target="_blank"><u>失窃</u></a>，这起事件与之前披露的5亿用户帐户失窃不相关。雅虎称，未经授权的第三方在2013年8月窃取了超过10亿账号的数据，窃取的信息包括了用户名、电子邮件地址、电话号码、出生日期、MD5未加盐哈希密码，部分加密或未加密的安全问题和答案。雅虎称，密码不是明文的，但MD5哈希密码早就被认为不再安全。雅虎表示，银行账号信息和支付卡信息没有储存在被入侵的服务器上。雅虎称，调查显示攻击者通过学习雅虎的专有代码学会如何伪造cookies，然后利用伪造的cookies不用密码就能访问用户帐户。雅虎已让伪造的cookies失效。它表示在2013年夏天开始使用 bcrypt哈希加盐保护用户密码，但遭到攻击时尚未完成升级。这起安全事故是史上最严重的数据失窃事件，目前还不知道是否会影响到 Verizon 的收购。
+➜亚马逊在英国完成首次无人机送货
+https://www.solidot.org/story?sid=50739	12975
+亚马逊在英国<a href="http://www.bbc.com/news/technology-38320067" target="_blank"><u>完成了</u></a>首次无人机送货。在顾客完成订单13分钟后，无人机把邮包安全投递到位于剑桥的目的地。亚马逊网站公布的<a href="https://www.amazon.com/b?tag=skim1x164751-20&amp;node=8037720011" target="_blank"><u>视频</u></a>显示了无人机送货的整个过程。这项“亚马逊空中服务”试验是在12月7日进行的。在实验中，无人机从剑桥的任务执行中心出发。当投递包裹装上无人机之后，无人机沿一条自动轨道前往起飞区域，随后起飞，在GPS导航下自动飞往投递目标。无人机的最大运载能力为2.7公斤。亚马逊的目标是，所有通过“亚马逊空中服务”订购的货物都要在30分钟内送达。亚马逊计划在未来几个月再对居住在货物存放点附近的数十名顾客进行类似实验。亚马逊发表声明说，安全是最重要的，“我们目前只允许在白天进行这项操作，而且要求微风和高能见度的条件，不能在雨雪冰条件下进行。”
+➜Microsoft Edge将默认使用HTML5
+https://www.solidot.org/story?sid=50740	14009
+在苹果、Google 和 Mozilla 之后，微软也决定拥抱 HTML5 默认不启用 Flash 播放多媒体内容。微软官方博客<a href="https://blogs.windows.com/msedgedev/2016/12/14/edge-flash-click-run/" target="_blank"><u>宣布</u></a>，下一个版本的 Microsoft Edge 将默认使用 HTML5。对于支持 HTML5 的网站，Edge 将默认使用 HTML5，不会加载 Flash。对于绝大部分继续使用 Flash的流行网站，Edge将会一开始自动将它们加入例外名单，然后通过监视 Flash 内容的消费逐步缩小例外的名单。最后，用户将需要在使用Flash的网站启用点击播放。
+➜Evernote 更新隐私政策，允许雇员访问用户的未加密笔记
+https://www.solidot.org/story?sid=50741	15841
+Evernote 更新了<a href="https://help.evernote.com/hc/zh-cn/articles/235660588-%E9%9A%90%E7%A7%81%E6%9D%A1%E6%AC%BE%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-2017%E5%B9%B41%E6%9C%88-" target="_blank"><u>隐私政策</u></a>，以改善用户体验的名义允许雇员访问用户的未加密笔记。Evernote称，“此次对于隐私条款的更新将可以允许Evernote公司将机器学习技术用于分析帐户中的数据，以进一步优化提升Evernote的使用体验...虽然目前计算机系统可以很好地处理绝大多数工作，不过为了处理可能会出现的错误，部分机器学习的数据必须由经人工审核，这样才可以保证整个系统正常运行。”Evernote称它将严格限制拥有访问用户信息的权限的员工的数量，确保有权限访问用户信息的员工均接受并通过背景调查和信息安全与隐私保护培训。
+➜Twitter据传因拒绝实现Crooked Hillary绘文字而被拒绝出席特朗普的科技高管会议
+https://www.solidot.org/story?sid=50742	19572
+<div align="center"><img src="http://img.solidot.org/0/51/liu9UBfeNRDVY.jpg" height="267" width="400" align=""><br>
+</div>
+<br>
+美国候任总统特朗普(Donald Trump)周三与主要科技公司的高管<a href="http://cn.wsj.com/gb/20161215/bgh094257.asp" target="_blank"><u>召开了一次备受瞩目的会议</u></a>。在会议的开始，特朗普发出安抚论调，他表示会帮助这些硅谷的领袖们把事情做好。特朗普称，政府会为他们做任何事情帮助继续创新，他们可以给他的官员以及他本人打电话，这不会有任何差别。在场的科技公司高管包括Alphabet CEO Larry Page、苹果CEO Tim Cook和微软CEO Satya Nadella。Twitter 的高管引人注目的没有出席，尽管Twitter是特朗普主要使用的社交平台。有消息来源称，<a href="http://arstechnica.com/tech-policy/2016/12/report-crooked-hillary-emoji-refusal-kept-twitter-out-of-trumps-tech-meetup/" target="_blank"><u>此举被认为在报复Twitter</u></a>，因为它拒绝在竞选期间实现定制的#CrookedHillary绘文字， Twitter CEO Jack Dorsey 拒绝了特朗普团队的emoji提议。但特朗普团队对此说法予以否认，声称没有邀请Twitter是因为它的规模太小。Twitter的市值大约为138.5亿美元，而出席会议的科技公司中市值最低的是特斯拉，它的市值为319.2亿美元。<br>
+➜中国科学家成功将3D打印血管植入恒河猴体内
+https://www.solidot.org/story?sid=50743	27405
+中国科学家成功将3D打印血管<a href="http://www.ftchinese.com/story/001070584" target="_blank"><u>植入恒河猴体内</u></a>，这标志着在打印血管及其他器官用于人类移植方面迈出了重要的一步。世界各地的科学家都在争相构建生物合成器官，它可以弥补人类捐献器官的短缺。一种技术是用小型3D打印机构建活细胞。位于中国西南省份四川的蓝光英诺用装满干细胞“墨汁”——干细胞可以分化为机体的任何一种细胞——的3D打印机打印出约2厘米长的血管样本，然后将这些血管植入30只恒河猴的胸腔中。据蓝光英诺介绍，植入一个月后，人工血管中的干细胞生长成天然血管所需的多种细胞，随着时间推移，这些细胞与恒河猴的原生血管已变得“不可区分”。蓝光英诺该项目首席科学家康裕建表示，全球每年有1.56亿人需要人工血管或血管支持结构，这项研究能为他们带来福音。
+➜大部分感染勒索软件的公司都支付了赎金
+https://www.solidot.org/story?sid=50744	28849
+IBM Security发表<a href="https://ibm.biz/RansomwareReport" target="_blank"><u>报告</u></a>称，70%感染勒索软件的公司选择了向攻击者支付赎金。许多被调查的公司表示，他们支付了数万美元。研究调查了美国的600名企业负责人和1021名消费者。46%的被调查企业称他们遭到了勒索软件的攻击，其中70%的企业承认支付了赎金。不同企业支付的赎金金额存在差异，20%的公司支付了超过4万美元，25%支付了2万到4万美元，11%支付了1万到2万美元。至于消费者，感染勒索软件后是否支付赎金很大程度上与受害者是否是父母有关。55%身份为父母的消费者表示将会支付赎金恢复访问被加密的照片，没有孩子的消费者中只有39%的人愿意支付赎金。
+➜谁应该为使用开源自动驾驶软件负责？
+https://www.solidot.org/story?sid=50745	30381
+知名黑客 George Hotz 通过他的公司 Comma.ai <a href="http://www.solidot.org/story?sid=50574" target="_blank"><u>开源了</u></a>自动驾驶软件和硬件。如果你的汽车使用了开源的自动驾驶软件，由于软件bug 汽车撞上建筑物，或其它汽车甚至行人，<a href="http://spectrum.ieee.org/cars-that-think/transportation/self-driving/whos-liable-for-george-hotzs-selfdriving-software" target="_blank"><u>谁应该对车祸负责</u></a>？许多法律专家和 Hotz 本人都相信，如果你使用了Comma.ai的代码，出了问题负责的不是Comma.ai而是你。但消费者保护组织 <a href="http://www.consumerwatchdog.org/">Consumer Watchdog</a> 的顾问 John Simpson认为这不公平，他认为Hotz需要承担部分责任，随着修改代码的开发者增多，责任将会日益模糊。他认为是Hotz公开了代码，Hotz需要和用户一起承担责任。Hotz 通过源代码使用的<a href="https://github.com/commaai/openpilot/blob/master/LICENSE.openpilot" target="_blank"><u> MIT许可证</u></a>为自己加入免责声明，将法律责任转移到下载者。律所O’Melveny &amp; Myers LLP 合伙人Heather Meeker指出，如果 Hotz 出售了包含开源软件的产品，或者向汽车制造商做出能正常工作的保证，那么Hotz将需要为损失承担责任；如果汽车制造商使用了 Hotz的软件，那么责任可能就转移到了它身上了。
+➜地表水在一些地方消失，在另一些地方形成
+https://www.solidot.org/story?sid=50746	33769
+生命依靠水生存，但水是变化无常的。欧盟和Google的研究人员使用了超过300万幅卫星照片评估过去三十年全球<a href="http://arstechnica.com/science/2016/12/analysis-maps-massive-changes-in-global-surface-waters/" target="_blank"><u>地表水的变化</u></a>。<a href="http://www.nature.com/nature/journal/v540/n7633/full/nature20584.html#affil-auth" target="_blank"><u>研究报告</u></a>发表在本周出版的《自然》期刊上。他们发现，期间有近9万平方公里的地表水完全消失——主要发生在中东和中亚地区，还有7.2万平方公里的水只是季节性的，但在其它地区有面积18.4万平方公里的新地表水形成，面积是已消失地表水的两倍。研究认为，驱动地表水变化的主要因素是干旱、水库修建和水提取。澳大利亚和美国的地表水损失主要归因于气候变化，此外52%的地球地表水位于北美。
+➜Kickstarter开源其Android 和 iOS 应用
+https://www.solidot.org/story?sid=50747	34557
+众筹平台 Kickstarter 的Native Team <a href="https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.l8ojsz5kh" target="_blank"><u> 宣布</u></a>开源它开发的 <a href="https://github.com/kickstarter/android-oss" target="_blank"><u>Android</u></a> 和<a href="https://github.com/kickstarter/ios-oss" target="_blank"><u> iOS</u></a> 应用，源代码托管在GitHub上，采用 Apache 2.0许可证。该公司的工程师称 Kickstarter 是一家公益性公司，公益是企业章程的核心，作为工程师他们也应该拥抱这一原则，他们相信开源不仅能提升透明度，而且能为全球的开发社区提供有用的资源。<a href="https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.l8ojsz5kh" target="_blank"><u> </u></a>
+➜为什么联合国应该禁止杀人机器人
+https://www.solidot.org/story?sid=50748	37851
+作为<a href="http://www.unog.ch/80256EE600585943/(httpPages)/9F975E1E06869679C1257F50004F7E8C?OpenDocument" target="_blank"><u>联合国裁军会议</u></a>的一部分，与会国将在周五决定是否正式讨论致命自动机器人禁令。新南威尔士大学的AI 教授 Toby Walsh 在 IEEE Spectrum 上发表评论文章，辩论<a href="http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/united-nations-killer-robots-ban" target="_blank"><u>为什么联合国应该禁止杀人机器人</u></a>。他的论点包括：没有禁令限制将会出现军备竞赛，最终可能通向类似终结者的反乌托邦未来；今天的冲突是不对称的，机器人主要的对手不是其它机器人，而是人类。他认为，禁令不会100%有效，但就像生物武器禁令和化学武器禁令，相比没有禁令，有禁令将更可能会让世界变成一个更好的地方。
+➜世界末日生存指南
+https://www.solidot.org/story?sid=50749	39680
+如果世界末日真的发生了，如果你生存下来了，你将如何与其他人一起重建文明？末日后的幸存者不是末日电影里的孤独英雄，这里提供的是普通人<a href="http://www.bbc.com/ukchina/simp/vert-fut-38314457" target="_blank"><u>如何生存和重建文明的指南</u></a>：最初几天，电网很快就会停止运转，但是你可以去找找太阳能电池板或者便携式发电机，这样就能暂时为幸存者们提供电力了；一旦备用发电机中的燃料燃烧殆尽，服务器就会停止工作，互联网也跟着消失。所以别指望还能用维基百科查资料。但这并不意味着手机就将变成一块无用的砖头。手机的指南针使用的是内置磁强计，你仍能用它来找路，而你最后一次下载下来的地图也能帮你用GPS导航。人类世界崩塌之后，GPS卫星系统还会继续工作数周，然而大约六个月后，定位的准确度会降低，直至其完全失效。灾后，你的精力应首先放在储备瓶装水和罐头食品，以及收集像样的户外衣物上。
+➜印度将实验利用喷气发动机赶走雾霾
+https://www.solidot.org/story?sid=50750	42138
+如果一切按照计划，明年一台退役喷气发动机会架在一辆平板拖车上，拉到印度德里的一个燃煤火电站。发动机将安置在烟囱附近，喷气口指向天空，然后启动。发动机开动之后，将以每秒400米的速度往上喷发，速度大致等于音速。喷气将产生强大的上升气流，将火电站的排放物冲上高空，超越称为"温度逆增"的气象学现象。所谓"温度逆增"是一层冷空气被一层温暖的雾霾"封堵住"。一个喷气发动机可以处理一个10亿瓦发电站的排放。领导研究的MIT空气动力学工程师和大气科学家莫什·阿拉玛洛说："<a href="http://www.bbc.com/zhongwen/simp/science-38315912" target="_blank"><u>这将引起全球使用送走雾霾的新科技</u></a>。"他说："这个计划将使用退役和商业发动机，可能为现有大量退役发动系统增值。"
+➜澳大利亚命令ISP屏蔽海盗湾
+https://www.solidot.org/story?sid=50751	42971
+澳大利亚联邦法院下令ISP<a href="http://www.abc.net.au/news/2016-12-15/federal-court-orders-pirate-bay-blocked-in-australia/8116912?pfmredir" target="_blank"><u>屏蔽五家侵犯版权的网站</u></a>，其中包括了海盗湾。ISP必须在15个工作日内实现屏蔽，它们被允许选择屏蔽方法，如DNS屏蔽、IP过滤或网址过滤。这五家网站是：海盗湾（The Pirate Bay）、Torrentz、TorrentHound、IsoHunt 和 SolarMovie。法院是应两家版权方的要求屏蔽上述网站的，版权方还申请了“滚动禁令”——也就是不需要法庭的批准就可以在屏蔽名单中加入新网站（比如被屏蔽网站的新域名），但这一要求遭到了法庭的拒绝。
+➜中国被指在南海人工岛部署高射武器
+https://www.solidot.org/story?sid=50752	44063
+美国智库“亚洲海事透明倡议（AMTI）”<a href="https://amti.csis.org/chinas-new-spratly-island-defenses/" target="_blank"><u>根据卫星照片发表报告</u></a>，称虽然中国承诺不在斯普拉特利群岛(南沙群岛)搞军事化，但中国已经在岛上<a href="http://cn.wsj.com/gb/20161215/BCH141436.asp" target="_blank"><u>部署了武器</u></a>。外交部发言人耿爽在新闻发布会上<a href="http://www.fmprc.gov.cn/web/wjdt_674879/fyrbt_674889/t1424499.shtml" target="_blank"><u>表示不了解情况</u></a>。AMTI称，6、7月以来，该智库跟踪了三座人工岛上一些六边形结构的建设进程，中国在这三个岛上修建的飞机跑道足以起降军用飞机，这三个岛是永暑礁、美济礁和渚碧礁。AMTI称，这些六边形建筑与早些时候四个较小人工岛上修建的防御工事几乎一模一样，似乎有高射炮，可能还有用于跟踪和击落巡航导弹的近防武器系统。
+➜Firefox 硬件报告
+https://www.solidot.org/story?sid=50753	46513
+Mozilla<a href="https://hacks.mozilla.org/2016/12/firefox-hardware-report/" target="_blank"><u>公布</u></a>了<a href="https://metrics.mozilla.com/firefox-hardware-report/" target="_blank"><u>Firefox 硬件报告</u></a>。在Firefox桌面用户中：63%使用的是英特尔的集显，17.8%使用的是AMD的显卡，16.4%使用Nvidia的显卡；86%的用户使用英特尔的CPU，14%使用AMD的CPU；30%的用户内存为4GB，还有17.8%的人内存只有2GB；16.7%的用户内存有8GB；69%的用户使用双核处理器，22%的用户使用4核；Windows 7的占有率最高45%，其次是Windows 10的26%，Windows XP仍然有10%，MacOS占7%；77%的用户安装了Flash，32.5%的用户显示屏分辨率是1366x768。

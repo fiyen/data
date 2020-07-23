@@ -1,0 +1,52 @@
+➜2008年的最佳机器人
+https://www.solidot.org/story?sid=9544	300
+2008年计算机领域的一项重大发现是<a href="__SLASHLINK__" sect="science" sid="08/05/02/1127232" sn="article" tid="42">忆阻器</a>，有些人相信它将能为人工智能带来重大变革，但距离实用或者是通过图灵测试还是相当遥远的事。尽管如此，2008年的机器人技术仍然在稳步前进，SingularityHub编辑了一年中的<a href="http://singularityhub.com/2009/01/12/a-review-of-the-best-robots-of-2008/">最佳机器人视频</a>，展现了机器人领域的进步。<i>
+许多机器人我们之前也报道过，如可在各种不同地形上行走的<a href="__SLASHLINK__" sect="science" sid="08/03/20/0039211" sn="article" tid="40">BigDog</a>，会
+<a href="__SLASHLINK__" sect="science" sid="07/12/08/0625256" sn="article" tid="40">拉小提琴</a>的机器人和<a href="__SLASHLINK__" sect="science" sid="08/06/21/1340240" sn="article" tid="40">单簧管演奏机器人</a>等等。</i>
+➜一次覆盖即可保护数据？
+https://www.solidot.org/story?sid=9546	600
+<a href="http://xizhizhu.blogspot.com/">xizhi.zhu</a> 写道<i>
+"根据Craig Wright<a href="http://www.securityfocus.com/brief/888">最近的研究</a>，对数据进行一次覆盖即可确保原有数据难以恢复。在使用0、1随机序列覆盖一次后，使用磁力显微镜（magnetic force microscope）恢复出1个字节的成功率不足1%，恢复出4个字节的成功率为百万分之九。"</i>
+➜称科学家为父亲或母亲的小志愿者
+https://www.solidot.org/story?sid=9545	1800
+《纽约时报》报道了一种趋势，<a href="http://www.nytimes.com/2009/01/18/science/18kids.html?ref=science">许多科学家将他们的子女作为研究的对象</a>，利用各种高科技设备观察子女的成长。过去研究人员也常拿他们孩子做研究，但拜高科技所赐，当代科学家能收集新的和更多的细节数据，进行更深入的研究。特别是在研究资金匮乏的时代，孩子将是非常可靠的志愿者。这些科学家有：<i>
+MIT的神经科学家<a href="http://web.mit.edu/bcs/sinha/home.html">Pawan Sinha</a>博士给刚出生的儿子戴上摄像头，记录他所看到的一切；UCLA神经病学教授<a href="http://www.loni.ucla.edu/About_Loni/people/Indiv_Detail.jsp?people_id=1">Arthur Toga</a>研究大脑变化，用磁共振成像扫描了三个孩子的大脑；宾夕法尼亚州大学的发展心理学家<a href="http://www.asc.upenn.edu/childrenmedia/About_Team_Linebarger.asp">Deborah Linebarger</a>，对自己的4个孩子研究媒体的影响；<a href="http://kc.vanderbilt.edu/site/people/show.aspx?id=1431">Stephen M. Camarata</a>让他所有7个孩子参与研究学习问题和说话；MIT的<a href="http://web.media.mit.edu/~dkroy/">Deb Roy</a>在家中的天花板上嵌入了11个摄像机和14个麦克风记录他儿子从出生到三岁睡醒后的行为。此类研究面临的问题是如果保护孩子的隐私，以及父母在保护孩子中扮演的角色。</i>
+➜Noesis: 科学家们的语义搜索引擎
+https://www.solidot.org/story?sid=9547	6720
+<a href="http://www.comsharp.com/">35公里</a> 写道 "<strong>CMS Wire</strong>：在你常用的搜索引擎中搜索 "<a href="http://www.google.com/search?hl=en&amp;q=global+warming&amp;btnG=Search">global warming</a>" 会得到多少条结果呢？ 60亿。我们世故一点，搜索 "global warming" 加 "Al Gore"（Al Gore 曾有一部关于全球变暖的纪录片 - 译者），美国的 G：W：F (如果也有的话) 是否警告过你不准搜索这些暧昧的东西？如果你是科学家，研究大气现象，在搜索引擎中搜索 "red tide"（赤潮），你也肯定不希望看到那些娱乐性的链接，这时候，一个由Alabama大学专门为科学家们开发的语义搜索引擎Noesis就派上了用场。
+"           Noesis 是什么?
+<br> <br> <a href="http://dev.gomrc.org/GoMRC-Noesis/about.jsp">Noesis</a> 最初是为大气科学家们开发的一个专用搜索引擎，其框架也可以复制到别的科学领域，它是一种更好的搜索 "hidden web" （不可见的 web）的搜索工具，Noesis 使用语义模型实现语义搜索。Noesis 保证科学家和研究者们在搜索的时候，只返回与某个领域课题相关的信息。
+<br> <br>Noesis 使用了 <a href="http://www.cmswire.com/cms/web-content/key-semantic-web-standards-take-next-step-003367.php">ontology web language</a> (OWL) 以及 Ontology Interface Service (OIS) 等技术，在相关的科学领域，对该领域的词汇进行标注，帮助搜索引擎理解该领域的语义。
+Noesis 以及语义搜索的意义
+<br> <br>单单是美国政府，就有超过10亿个网页（那得折合多少领导致辞！- 译者），算上其它的，总数量甚至超过了爱因斯坦的想象。在这浩如烟海的信息中做传统搜索，并不是一件有趣的事。Noesis 一类的语义搜索最终将改变这一现状。
+<br> <br>本文来源：<a href="http://www.cmswire.com/cms/search/searches-that-try-scientists-souls-003775.php">http://www.cmswire.com/cms/search/searches-that-try-scientists-souls-003775.php</a> <br>中文来源：<a href="http://www.comsharp.com/">COMSHARP CMS</a> 官方网站
+➜荷兰研究称文件共享产生积极的经济效应
+https://www.solidot.org/story?sid=9548	16200
+<a href="http://tno.nl/index.cfm?Taal=2">TNO</a>受荷兰政府委托的研究发现，<a href="http://tno.nl/content.cfm?context=overtno&amp;content=nieuwsbericht&amp;laag1=37&amp;laag2=2&amp;item_id=2009-01-16%2012:57:23.0">文件共享会产生积极的经济效应</a>。<i>
+这份146页的报告（<a href="http://www.ez.nl/Actueel/Pers_en_nieuwsberichten/Nieuwsberichten_2009/Januari_2009/Downloaden_en_delen_van_muziek_films_en_games_vertrouwd_verschijnsel/Ups_and_Downs">可下载</a>，但只有荷兰语）称，文件共享对于繁荣荷兰经济是有益的：文件共享令民众能接触到更多的媒体，即使这是以媒体行业的一些利润为代价。一个明显的结果是下载和购买不是互斥的：下载者平均购买了与非下载者相差无几的唱片，而在DVD和游戏上则要远多于非下载者。他们也倾向于参加更多的音乐会和购买更多的商品。</i>
+➜IT出版商O'Reilly也裁员
+https://www.solidot.org/story?sid=9549	20700
+著名的技术出版商O'Reilly Media<a href="http://www.pressdemocrat.com/article/20090115/business/901150213">解雇了14%的员工</a>，即31名，希望以此帮助度过此次经济危机。公司发言人Sara Winge称，“我们正受到经济低迷的打击”。创始人和技术专家 Tim O'Reilly对解雇发表评论“<a href="http://fyi.oreilly.com/2009/01/changes-at-oreilly.html#comment-2051212">我们需要应用技术去开源节流</a>”。上周，搜索巨人Google和图书零售商Barnes &amp; Noble宣布了他们的首次裁员，其它出版公司HarperCollins，Houghton Mifflin Harcourt，Random House，和Simon &amp; Schuster 或者冻结薪水，或减少工作，或两者皆有。
+➜火星沙漠研究站模拟火星基地
+https://www.solidot.org/story?sid=9550	24120
+把人类放在火星上在本质上将是一次伟大的奇迹，更不用说甚至生活在类似严酷的环境下。为了帮助未来的宇航员能承受火星的生活，火星协会（Mars Society）<a href="http://techfragments.com/news/275/Science/Mars_Desert_Research_Station_Simulates_Mars_Like_Base.html">创造了火星沙漠研究站</a>（Mars Desert Research Station，MDRS）。<a href="http://desert.marssociety.org/MDRS/index.asp">MDRS</a>是火星协会的四项模拟火星环境的计划之一（该计划被称为火星相似研究站计划）。MDRS于12月27日启动，至4月底结束，每批成员参加两周的模拟生活，工作站主要在冬天展开，夏天太炎热而不太适合。成员在工作站生活是没有薪水的，但将是一次有价值的体验。
+➜《回到未来》的科学和物理
+https://www.solidot.org/story?sid=9551	29280
+在《<a href="http://zh.wikipedia.org/wiki/%E5%9B%9E%E5%88%B0%E6%9C%AA%E6%9D%A5">回到未来</a>》三部曲中，<a href="http://en.wikipedia.org/wiki/DeLorean_DMC-12">DeLorean DMC-12</a>汽车会穿越时空，在相同地点但不同时间出现。好莱坞编织的许多
+<a href="http://www.youtube.com/watch?v=ELoc-kd-334">时间</a> <a href="http://www.youtube.com/watch?v=iFkBoj4nizI&amp;NR=1">旅行</a>电影设想中，我们会见到很多类似的情节。但这从科学的理性角度看，有可能发生吗？时间旅行真的会让人或狗在一瞬间内跑到另一时间坐标系中，但地理位置却不变？严肃的科学家偶尔也在沉思该问题。<i>
+一位科学家试题运用数学和物理学，包括余弦定理，分析爱因斯坦（小狗，不是那位著名的普林斯顿物理学家，是《回到未来》中怪博士Doc Brown的爱犬）<a href="http://www.overthinkingit.com/2009/01/16/the-science-of-back-to-the-future/">精确飞跃时间1分钟后的位置</a>。为了简化问题，他放弃考虑地球围绕太阳公转的<a href="http://zh.wikipedia.org/wiki/%E8%BD%89%E8%BB%B8%E5%82%BE%E8%A7%92">转轴倾角</a>效应，地球运动速度放慢，以及银河系的旋转，等等诸如此类的因素。他主要考虑了地球自转（一分钟地球转过了0.25度，半径为6378.1km），根据三角法，狗狗这么1分钟时间穿越的折腾，就飞过了(6378.1)x cos(维度以35计算)=(6378.1)x cos(35) = 5287.1km，真的是一眨眼十万八千里。如果考虑更多因素的话，在一分钟内，爱因斯坦要么就钻入到石头缝里，要么就跑进太阳中，它绝无可能呆在原地。</i>
+即使有一个虫洞能连接不同的空间，但暴露在绝对零度下肯定会变成一条冻狗。
+➜用JavaScript开发Linux应用程序
+https://www.solidot.org/story?sid=9552	32400
+GNOME桌面环境不久之后将支持利用JavaScript开发和扩展应用程序，这要感谢一个实验性的新项目<a href="http://live.gnome.org/Seed">Seed</a>。Seed是一个新的框架，允许软件开发者用JavaScript编写GTK+应用程序，流行的web脚本语言也许在不久之后变成Linux桌面的统治性应用扩展语言。Ars Technica<a href="http://arstechnica.com/articles/paedia/javascript-gtk-bindings.ars">用多个实例详细介绍了Seed</a>。<i>
+大量现成的可嵌入式脚本语言将能够让用户为桌面环境增加丰富的新功能。伴随着这项技术的成熟，它将与其它语言框架如Vala更紧密的整合，它将改变GNOME程序员应用程序开发的方式。JavaScript可能作为用户界面操作的高级粘合剂使用，开发出快速原型让Vala或C用于执行性能攸关的任务。</i>
+➜Ubuntu Mobile考虑使用Qt
+https://www.solidot.org/story?sid=9553	34920
+Canonical旗下除了Ubuntu外，还有众多衍生版本，其中一种是专门针对上网本和移动互联网设备的版本Ubuntu Mobile。目前它使用的是GNOME Mobile，自Qt 4.5宣布将<a href="__SLASHLINK__" sect="opensource" sid="09/01/14/0933218" sn="article" tid="44">采用LGPL许可证</a>之后，Canonical的David Mandala表示，他们正在<a href="http://www.computerworld.com.au/article/273605">考虑Qt</a>，寻找比GNOME Mobile更好的框架。
+➜可能发现的第一颗地球大小的地外行星
+https://www.solidot.org/story?sid=9554	43680
+《新科学家》报道，去年夏天宣布的一颗太阳系外行星<a href="http://estimateofthesituation.blogspot.com/2008/07/moa-2007-blg-192lb.html">MOA-2007-BLG-192Lb</a>，实际上很可能是至今<a href="http://www.newscientist.com/article/dn16439-smallest-known-planet-may-actually-be-earthmass.html">发现的第一颗地球大小的行星</a>。原先估计这颗行星是地球质量的3.3倍，新的分析指出该行星的实际重量可能只有地球的1.4倍。这颗行星绕一颗红矮星运动，距离地球3000光年，轨道距离是0.62个天文单位，相当于金星到太阳。<a href="http://blogs.discovermagazine.com/80beats/2008/06/03/newly-discovered-mini-planet-points-the-way-for-et-searchers/">这颗行星发现的一个重要意义</a>是它指示了一种可能性，到处存在地球大小的行星，在类似地球的轨道上围绕一颗红矮星旋转，<a href="http://zh.wikipedia.org/wiki/%E7%B4%85%E7%9F%AE%E6%98%9F">红矮星</a>是最古老的恒星，也是银河系中数量最多的恒星。
+➜新恶意程序声称奥巴马辞职
+https://www.solidot.org/story?sid=9555	45900
+恶意程序作者利用真实世界的事件作为攻击手段，已成为越来越常见的手法。感恩节、圣诞节、甚至是复活节到来时都会伴随着相应的垃圾邮件欺骗。今天晚上（1月20日）美国当选总统奥巴马（Barack Obama）将正式宣布就职，但从上周开始，用中式英语写就的恶意程序信件宣称：<a href="http://arstechnica.com/news.ars/post/20090119-new-malware-scam-claims-obama-to-resign-hint-its-not-true.html">奥巴马辞职了</a>！根据多个被感染网站上的描述（所有网站都是在中国新网公司注册的）：<i>
+“奥巴马的计划于1月20日举行的就职典礼正面临失败的威胁。美国总统就职日前夕，当选总统奥巴马发表声明，他宣布没有为总统这一职位做好准备。分析专家称奥巴马拒绝担任总统是因为他认识到他的刺激美国经济计划的矛盾性。”</i>

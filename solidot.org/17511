@@ -1,0 +1,36 @@
+➜被独裁政府利用的商业间谍工具
+https://www.solidot.org/story?sid=54804	13237
+加拿大多伦多大学公民实验室<a href="https://citizenlab.ca/2017/12/champing-cyberbit-ethiopian-dissidents-targeted-commercial-spyware/" target="_blank"><u>发表了</u></a>对以色列公司 Cyberbit 开发的间谍软件的分析报告。Cyberbit 的间谍软件被发现针对性监视埃塞俄比亚海外媒体 Oromia Media Network，以及一位博士生和一位律师。Cyberbit 是继 Hacking Team、Finfisher 和 NSO Group 之后第四家被发现其产品遭独裁政府滥用，被用于监视异议人士和记者的安全公司。该公司提供的间谍软件叫 PC Surveillance System (PSS)，最近改名为 PC 360。研究人员在 PSS 使用的指令控制服务器上发现了一个公开的日志文件，记录了操作者和感染者的 IP 地址。研究人员在互联网上扫描了其它 PSS 服务器，发现有多个服务器是由  Cyberbit 公司自己运作的。对这些服务器 IP 日志的跟踪发现，Cyberbit 的雇员携带着被感染的笔记本电脑在世界各地演示 PSS，演示对象和地点包括了泰国皇家军队、乌兹别克斯坦国家安全部队、赞比亚金融情报中心、菲律宾总统府，以及布拉格举行的 ISS World Europe 2017 和巴黎举行的 Milipol 2017 会议，此外还有法国、越南、哈萨克斯坦、卢旺达、塞尔维亚和尼日利亚。
+➜微软的安全产品发现了一个远程代码执行漏洞
+https://www.solidot.org/story?sid=54805	15341
+微软上周释出紧急更新<a href="https://www.theregister.co.uk/2017/12/07/microsoft_emergency_update_malware_protection_engine_needs_erm_malware_protection/" target="_blank"><u>修复了</u></a> Malware Protection Engine 中的一个远程代码执行漏洞。该漏洞影响微软的安全产品 Windows Defender、Microsoft Security Essentials Endpoint Protection、Forefront Endpoint Protection，以及 Exchange Server 2013 和 2016。当 Malware Protection Engine 扫描一个下载的文件寻找潜在的威胁时攻击者可以触发该漏洞利用一个内存破坏错误在目标机器上使用 LocalSystem 远程执行漏洞。微软用户需要尽可能快的安装更新，大部分用户的系统将会自动更新。
+➜比特币期货网站因为访问量过大而短暂下线
+https://www.solidot.org/story?sid=54806	16406
+美国首个比特币期货市场周日启动，<a href="http://cn.wsj.com/gb/20171211/fin113112.asp" target="_blank"><u>合约价格大涨</u></a>，并且推出这一期货的交易所网站  Cboe Global Markets&nbsp; 由于巨大的访问量<a href="https://twitter.com/kunalgosar318/status/939998633277009920" target="_blank"><u>出现故障</u></a>。这个定于明年 1 月份到期的比特币期货合约于美国东部标准时间下午 6 点开始交易，交易价格为 15,000 美元，前六分钟价格即大幅升至 16,660 美元，涨幅达 11%。之后价格回落，然后再反弹，最新报 16,900 美元。CoinDesk 的数据显示，该期货较比特币现货价格存在溢价（目前比特币币值在 1.3 万美元左右），存在溢价表明，期货交易员认为到该合约 1 月 17 日到期时比特币价格将较当前水平上涨。
+➜研究人员认为人类寿命已经到顶
+https://www.solidot.org/story?sid=54807	19586
+根据发表在《Frontiers in Physiology》期刊上的一项研究，我们<a href="http://www.newsweek.com/humans-reached-peak-height-lifespan-fitness-741816" target="_blank"><u>已经到达了</u></a>寿命、运动能力和身高的顶点。研究人员称，尽管有营养、医学和科学的持续进步，但寿命、身高和运动能力不再提高。法国研究人员分析了 120 年的历史记录和对运动、寿命和身高的先前研究，发现伴随着 20 世纪工业、医疗和科学的进步，人类在运动、寿命和身高三个领域取得了显著进步，但过去几年进展已经大大放缓。以高收入国家为例，人类的预期寿命从 1900 年到 2000 年之间增加了大约 30 年。但尽管有科技的进步，寿命的继续增长已经日益困难。
+➜南水北调难解北方的饥渴
+https://www.solidot.org/story?sid=54808	28049
+彭博社<a href="https://www.bloomberg.com/news/articles/2017-12-10/world-s-largest-water-diversion-plan-won-t-slake-china-s-thirst" target="_blank"><u>报道了中国雄心勃勃的水资源分配工程南水北调</u></a>。这项工程预计耗资超过 5000 亿元，将建造三条引水渠将南方过多的雨水引到干旱的北方。中线工程在 2014 年完工，每天有 1830 万立方米的水运到北方。这些水大多数给了亟需水的工厂、企业和城市居民，其中北京 7 成的水来自南水北调工程。而亟需水的北方农业所得无几，即使水渠经过他们的农地，北方的农民们仍然是靠天吃饭。人民大学教授  Huanguang Qiu 说，工业随着经济的发展正使用更多的水资源，工农业对水的竞争日益激烈。农业的利润微薄，将宝贵的水用于灌溉被认为不合算。政府正致力于通过技术和增加进口粮食来节省水资源。
+➜SpaceX 尝试用回收的火箭和飞船执行空间站补给任务
+https://www.solidot.org/story?sid=54809	29562
+SpaceX <a href="https://www.theregister.co.uk/2017/12/08/spacex_to_try_reusing_both_rocket_and_spacecraft_for_historic_iss_mission/" target="_blank"><u>计划</u></a>使用回收的火箭第一级和飞船执行国际空间站补给任务。这次任务要将 4100 磅重的食物、水和科学设备送到空间站。SpaceX 今年已经发射了三枚回收过的火箭，没有发生任何问题。但这三次认为都是发射卫星，而不是空间站补给任务。此次任务使用的 Dragon 飞船是在 2015 年回收的。通过组合使用回收的火箭和飞船，SpaceX 将能节省大笔费用。公司总裁 Gwynne Shotwell 称，使用回收的火箭推进级能节省 30% 的费用，使用回收的飞船则能节省更多。
+➜被解雇的技术员工从聊天机器人寻求心理治疗
+https://www.solidot.org/story?sid=54810	31012
+被解雇的技术员工从聊天机器人<a href="https://www.bloomberg.com/news/articles/2017-12-10/fired-indian-tech-workers-turn-to-chatbots-for-counseling" target="_blank"><u>那里寻求心理治疗</u></a>。被称为 Wysa 的聊天机器人利用了人工智能，承诺“忠诚、给予支持和非常私密”。一位遭到解雇的印度 IT 外包技术服务经理称，他从机器人那里感受到了倾听和理解，他现在从原公司的竞争对手那里找到了一份新的工作。Wysa 由一对夫妻团队 Ramakant Vempati 和 Jo Aggarwal 开发，利用自然语言处理去理解和分类对话，然后用治疗师制定的富有同情心的方案来回答问题。Aggarwal 说，聊天机器人提供了一只有同情心的耳朵，不做判断的倾听，将对话者导向积极面，对话会让人感到自然而真实，所有咨询服务都是匿名和免费的。该公司主要通过授权 AI 技术给企业级客户获利。
+➜德国情报机构称中国用社交媒体招线人
+https://www.solidot.org/story?sid=54811	31803
+Laeticia Chen 年轻、苗条，一头乌黑长发，就职于一家位于上海的中国智库。至少这是她在职业社交平台领英（LinkedIn）上的账号所显示的信息。其账号拥有 500 多个联系人。然而 Chen 的照片其实是一家女装网店里模特的照片。她账号里的其它内容也同样是虚假信息。德国宪法保护局警告称，Chen 的账号并非个案，它只是众多虚假账号中的一个，中国情报机构希望通过这些账号<a href="http://www.dw.com/zh/%E5%BE%B7%E5%AE%AA%E6%B3%95%E4%BF%9D%E6%8A%A4%E5%B1%80%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%BF%E6%8B%9B%E7%BA%BF%E4%BA%BA/a-41733635?&amp;zhongwen=simp" target="_blank"><u>收集信息、招募德国线人</u></a>。宪法保护局的专家对中国方面的活动进行了为期九个月的调查研究发现，中国情报机构所使用的虚假账号中有八个最为活跃，Laeticia Chen 是其中之一。宪法保护局的调查结果显示，中国通过领英等社交媒体试图招募线人的规模有多么庞大。对中国的情报人员而言，在社交媒体上招募线人的好处是：没有风险。而且这些网站上存有用户的职业生涯、社会经历、兴趣爱好和政治倾向等信息，通过高级搜索功能可以很容易地找到目标对象。领英这样的社交媒体网站在中国也没有被封锁。
+➜Debian Linux 9.3 和 8.10 发布
+https://www.solidot.org/story?sid=54812	35462
+Debian 项目<a href="https://www.debian.org/News/2017/2017120902" target="_blank"><u>宣布了</u></a> Debian 9 稳定版本的第三次更新（代号 stretch ）。此次小版本更新主要添加了对安全问题的修正补丁，以及为一些严重问题所作的调整。此更新并不是 Debian 9 的新版本，其仅更新了所包含的一些软件包。没有必要丢弃旧的 stretch 的安装介质。在安装之后，只需使用最新的 Debian 镜像更新旧的软件包即可。Debian 项目同时<a href="https://www.debian.org/News/2017/20171209" target="_blank"><u>宣布了</u></a> Debian 8 旧稳定版本的第十次更新（代号 jessie），与 Debian Linux 9.3 一样，主要是安全方面的修正。
+➜中国去年研发投入达到 1.5 万亿
+https://www.solidot.org/story?sid=54813	42162
+官媒<a href="http://news.sciencenet.cn/htmlnews/2017/12/396779.shtm" target="_blank"><u>报道</u></a>，国家统计局发布了《2016 年全国科技经费投入统计公报》，报告称 2016 年研发经费投入总量达到 15676.7 亿元，比上年增长 10.6%。研发经费投入强度达到 2.11%，比上年提高 0.05 个百分点，连续 3 年超过 2%。其中企业对全社会研发经费增长的贡献为 83.8%。2016 年，国家财政科技支出达 7760.7 亿元，比上年增长 10.8%。科技拨款占财政拨款比重为 4.13%。一系列鼓励全社会研发投入的政策取得良好效果，以企业研发费用税前加计扣除政策为例，2016 年享受该项政策的规模以上工业企业比上年增长 20%，这些企业减免的所得税比上年增长 8.9%。
+➜雅虎金融开始提供一百多种数字货币的报价
+https://www.solidot.org/story?sid=54814	43529
+在美国首个比特币期货市场启动之际，<a href="https://finance.yahoo.com/cryptocurrencies" target="_blank"><u>雅虎金融服务</u></a>开始提供一百多种数字货币的报价信息，包括比特币、比特币现金、DigitalCash、以太坊、ZCash、 Byteball，等等。以比特币为例，它使用的是来自 Kraken 交易所的<a href="https://www.cryptocompare.com/exchanges/kraken/overview/USD" target="_blank"><u>报价信息</u></a>，该交易所的比特币美元币值比其它比特币交易所要高。在 Kraken，比特币币值超过 1.6 万美元，而在 Bitstamp 和 Bitfinex，币值在 1.36 万美元左右。
+➜卫星实验证实爱因斯坦的弱等效原理
+https://www.solidot.org/story?sid=54815	44648
+<a href="https://zh.wikipedia.org/wiki/%E7%AD%89%E6%95%88%E5%8E%9F%E7%90%86" target="_blank"><u>等效原理</u></a>是爱因斯坦广义相对论中的一个重要理论，在具有相同加速度的引力场中，引力质量及惯性质量相等。等效原理有弱等效原理和强等效原理，其中弱等效是指观测者不能在局部的区域内分辨出由加速度所产生的惯性力或由物体所产生的引力。去年 4 月法国国家太空研究中心发射的 <a href="https://en.wikipedia.org/wiki/MICROSCOPE_(satellite)" target="_blank"><u>MICROSCOPE</u></a> 卫星利用其搭载加速度计测量材料的质量，测试弱等效原理。现在研究人员根据卫星数据公布了<a href="https://presse.cnes.fr/en/first-results-microscope-satellite-confirm-albert-einsteins-theory-relativity-unprecedented" target="_blank"><u>首个结果</u></a>，以 10 倍于以往实验的精度证实了等效原理。研究人员还准备将精度再提高 10 倍，如果等效原理在这个精度上仍然获得证实，那么这将使得一部分量子引力理论无效。这颗卫星还具有<a href="http://www.sciencedirect.com/science/article/pii/S2468896716300842" target="_blank"><u>自毁机制</u></a>。

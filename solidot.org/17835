@@ -1,0 +1,42 @@
+➜自1970 年以来动物数量下降 60%
+https://www.solidot.org/story?sid=58410	7366
+匿名读者 写道<i> "根据<a href="https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds" target="_blank" title="humanity wiped out 60% of animal population since 1970">卫报的一篇报道</a>，世界自然基金会最新发布的<a href="https://www.wwf.org.uk/updates/living-planet-report-2018" target="_blank" title="2018">《地球生命力报告 2018》</a>表明全球鱼类、鸟类、哺乳动物、两栖动物和爬行动物的总数自 1970 年以来已经减少 60%。这份由59名来自各国的科学家完成的报告指出，人类巨大且持续增长的食物与资源消耗正在严重破坏数十亿年逐渐形成的生物网。动物数量减少的首要原因是栖息地的破坏，地球上四分之三的土地现在都处在人类的显著影响下。第二大原因则是人类捕食——<a href="https://www.theguardian.com/environment/2016/oct/19/worlds-mammals-being-eaten-into-extinction-report-warns" target="_blank">300 种哺乳动物因此灭绝</a>。动物数量减少最显著的是中美洲和南美洲，那里居住着野生动物的森林遭到大规模破坏，脊椎动物数量下降了 89%。很多科学家相信我们正在经历<a href="https://www.theguardian.com/environment/2017/jul/10/earths-sixth-mass-extinction-event-already-underway-scientists-warn" target="_blank">第六次物种大灭绝</a>，而这同时是第一次由单一种族—智人—引起的大灭绝。"</i>
+➜中国解禁医用虎骨犀牛角
+https://www.solidot.org/story?sid=58411	9432
+中国<a href="http://www.ftchinese.com/story/001080024"><u>解除了</u></a>长达 25 年的禁止将虎骨与犀牛角用于科研及医疗用途的禁令，保护人士称，此举将在全球范围内给濒危物种带来“毁灭性后果”。国务院表示，将批准符合条件的处方医师使用老虎与犀牛制品，以及用于未经界定的“文化交流”。根据新规，只有中国中医药局确定的医院和医师，才能从除动物园以外的圈养犀牛与老虎身上采集虎骨与犀牛角。但批评人士称，此举将令濒危动物黑市死灰复燃，使数十年的保护工作受挫。据世界自然基金会估计，目前全球仅存 3 万头野生犀牛与 3900 只野生老虎。
+➜特朗普计划终止出生地公民权
+https://www.solidot.org/story?sid=58412	13343
+美国总统特朗普接受 Axios <a href="https://www.axios.com/trump-birthright-citizenship-executive-order-0cf4285a-16c6-48f2-a933-bd71fd72ea82.html"><u>采访</u></a>时表示他计划签署一项行政命令，终止非美国公民在美国出生的孩子自动获得美国公民身份的权利。特朗普称，美国是世界上唯一一个允许外国人入境后生下的孩子自动成为公民的国家，这太荒诞了，必须终止。但这句话<a href="https://www.nytimes.com/2018/10/30/us/politics/trump-birthright-citizenship.html" target="_blank"><u>并非是事实</u></a>，世界上有至少三十个国家给予出生地公民权，其中包括加拿大和墨西哥。在美国中期选举即将到来之际，特朗普此举被认为旨在向其支持者展示在移民问题上的强硬立场。出生地公民权被指责遭到滥用，比如在中国赴美生子的生育旅游就非常受欢迎。
+➜十月即将过去，Windows 10 October 2018 Update 仍然没有发布
+https://www.solidot.org/story?sid=58413	15809
+十月份即将要过去，但微软的 Windows 10 October 2018 Update 或 Build 17763 依旧没有开始推送给用户，<a href="https://arstechnica.com/gadgets/2018/10/windows-10-october-2018-update-still-not-released-running-out-of-october/" target="_blank"><u>它不太可能会在 10 月释出了</u></a>。微软原计划是在 10 月第二个周二的例行更新中向用户推送 Windows 10 October 2018 Update，但在发现了会导致数据丢失的 bug 之后微软关闭了手动下载。这个数据丢失 bug 此前已经报告过多次，但一直被软件巨人忽视。微软很快修复了 bug，向  Windows Insiders 释出了修复版本测试，接着是又发现了新的 bug，这个 bug 影响从资源管理器中的 .ZIP 压缩档拖曳文件到目标目录，如果该目录下有相同的文件名， 资源管理器应该会弹出覆盖文件的提示，但 Build 17763 没有提示而是跳过了名字冲突文件的解压。于是微软只能继续修复继续测试。微软的软件开发流程被指存在问题。
+➜Fedora 29 发布
+https://www.solidot.org/story?sid=58414	18400
+Fedora 发行版项目<a href="https://fedoramagazine.org/announcing-fedora-29/"><u>宣布</u></a>释出最新的 Fedora 29。Fedora 29 是首个所有分支都包含  <a href="https://docs.pagure.org/modularity/">Fedora Modularity</a> 功能的版本， Modularity 允许在相同的基础上包含软件包的不同版本，升级操作系统不再需要考虑版本问题，比如你可以选择 Node.js version 8 或 version 10。Fedora 29 的其它变化包括：GNOME 3.30 桌面环境，ARM 版本启用 ZRAM 支持，GNU C Library version 2.28，IBus 1.5.19，Python 3.7，Ruby on Rails 5.2，Golang 1.11，Perl 5.28，等等，更多可浏览 <a href="https://fedoraproject.org/wiki/Releases/29/ChangeSet"><u>ChangeSet</u></a>。
+➜Red Hat Enterprise Linux 7.6 发布
+https://www.solidot.org/story?sid=58415	23404
+在被 IBM 宣布收购之后，Red Hat 的新闻发布稿越来越与蓝色巨头保持一致了。在宣布最新的企业级发行版 <a href="https://www.redhat.com/en/about/press-releases/red-hat-refines-hybrid-cloud-innovation-latest-version-world%E2%80%99s-leading-enterprise-linux-platform"><u>Red Hat Enterprise Linux 7.6</u></a> 时，Red Hat 称它是为企业 IT 提供了真正一致的混合云基础，让企业能跟上新兴的云原生技术，同时仍然支持稳定的 IT 运作。混合云在 IBM 收购 Red Hat 的新闻稿里频繁出现，现在 Red Hat 也开始不断称自己是云计算公司了。
+➜NASA 准备关闭开普勒望远镜
+https://www.solidot.org/story?sid=58417	27055
+在服役九年多时间之后，开普勒太空望远镜耗光了燃料，NASA 准备发送指令<a href="https://arstechnica.com/science/2018/10/nasa-is-about-to-turn-off-the-kepler-spacecraft-and-it-will-drift-away/" target="_blank"><u>关闭望远镜的发射机</u></a>。这颗位于日心轨道的飞行器将会陷入沉寂，但它发回的海量数据仍然有待处理。到目前为止，天文学家利用开普勒收集的数据确认了 2,681 颗系外行星，还有 2,899 颗候选行星等待确认。开普勒太空望远镜于 2009 年 3 月发射升空，设计通过观测行星凌日现象去识别系外行星。
+➜氦气泄露导致苹果设备故障
+https://www.solidot.org/story?sid=58418	28912
+一家医院核磁共振成像仪泄漏出的氦气<a href="https://motherboard.vice.com/en_us/article/gye4aw/why-a-helium-leak-disabled-every-iphone-in-a-medical-facility" target="_blank"><u>导致了</u></a>周围所有苹果移动设备发生故障，但其它设备却不受影响。根据<a href="https://help.apple.com/iphone/12/#/iph301fc905"><u>使用手册</u></a>，苹果也承认氦气会影响它的设备：“将 iPhone 暴露在高浓度工业化学品环境中，包括易蒸发的液化气体（如氦气）附近，可能会损坏或削弱 iPhone 的功能。”这起氦气事故的<a href="https://www.reddit.com/r/sysadmin/comments/9mk2o7/mri_disabled_every_ios_device_in_facility/"><u>原因</u></a>是医院使用的核磁共振成像仪在排出冷却磁体使用的液氦时意外将氦气泄漏到了核磁共振成像仪所在房间外面，总共有大约 120 升氦或 9 万立方米氦气泄漏出去，导致了周围 iPhone、Apple Watch 和 iPad 发生故障，但没有影响 Android 手机。为什么苹果的设备易受氦气影响？原因是苹果的设备弃用了传统的石英时钟，改用 MEMS 时钟，而氦原子<a href="https://ifixit.org/blog/11986/iphones-are-allergic-to-helium/" target="_blank"><u>会破坏 MEMS 硅芯片</u></a>。鉴于时钟是计算机的最关键元件之一，对它的破坏足以导致设备崩溃。
+➜Google 发布 reCAPTCHA v3
+https://www.solidot.org/story?sid=58419	30937
+Google <a href="https://www.zdnet.com/article/google-launches-recaptcha-v3-that-detects-bad-traffic-without-user-interaction/" target="_blank"><u>更新了</u></a>它的 reCAPTCHA 机器人程序检测技术。reCAPTCHA 是使用最广泛的反机器人技术，但也是最招人痛恨的技术。reCAPTCHA v1 让用户眯着眼破译模糊扭曲的字符，reCAPTCHA v2 让用户从模糊的图像中间挑选出街道或商店，错了就重新选，让用户痛苦的点击 2 到 3 分钟。而最新的 reCAPTCHA v3 则使用 Google 的私有技术去学习网站的正常流量和用户行为，访问者将会根据访问来源或行为分配一个风险分数，分数从 0.1 (坏) 到 1 (好)，网站管理员可以根据风险分数决定网站如何做出反应。Google 称它通过观察用户与网站的互动去检测出异常和机器人程序。
+➜Signal 将隐藏消息发送者
+https://www.solidot.org/story?sid=58420	32828
+端对端加密消息应用 Signal <a href="https://techcrunch.cn/2018/10/30/signal-sealed-sender-feature-messaging-security/"><u>宣布了</u></a>保护消息发送者的新功能。Signal 在官方博客上<a href="https://signal.org/blog/sealed-sender/" target="_blank"><u>表示</u></a>：“虽然平台总是需要知道消息应该投递到哪里，但在理想情况下，它不需要知道发送者是谁。”这款应用很快将把发送者信息隐藏在加密消息封装内。发件人信息将从消息封装之外删除，并替换为短期证书。这其中包含发件人电话号码、公共身份密钥和终止时间，可以用来证明发件人身份。整个封装会得到加密。在收到消息后，接收者设备将验证证书并解密，同时不会在任何情况下公开发送者的身份信息。在未来 Signal 稳定版发布后，这个新功能将会默认启用。
+➜公务员在工作电脑上访问成人网站导致政府网络感染恶意程序
+https://www.solidot.org/story?sid=58421	39380
+美国内政部的调查人员<a href="https://techcrunch.com/2018/10/29/porn-sites-blamed-after-government-network-infected-malware/"><u>发现</u></a>，地质勘探局（USGS） 位于南达科他州的 EROS 卫星成像中心的一名工作人员在工作电脑上访问了数以千计的色情网页，其中部分网页包含了恶意程序，恶意程序下载到了他的笔记本电脑上并渗透进入到了 USGS 的网络。调查人员发现，许多色情图像被保存到了未经授权的 USB 设备和其个人的  Android 手机上。调查人员发现他的 Android 手机也感染了恶意程序。这一发现公布在本月初的<a href="http://www.documentcloud.org/documents/5023935-USGS-IT-Security-Vulnerabilities-Report.html"><u>报告</u></a>中，但此前一直未被人注意到。
+➜小米被批会计违规
+https://www.solidot.org/story?sid=58422	42252
+财政部<a href="http://www.ftchinese.com/story/001080022"><u>批评了</u></a>小米的会计违规问题，表明政府打击逃税行为的整体努力已延伸到拥有海外资产的科技公司。财政部指出，其对私营企业的年度审计发现，小米对公司礼品的分类不正确，而且未能将给员工的报销款项和其它公司费用的支付标准化。财政部报告补充说，小米已纠正了发现的问题，但有关此次调查的消息导致该公司股价一度下跌 5% 。自 7 月在香港进行有过波折的首次公开发行(IPO)以来，小米股价已下跌超过 30%。金融监管当局一直在打击处于法律灰色地带的复杂会计实践，这类操作长期以来允许私营企业降低税收负担。
+➜研究发现消费者延长了更换手机的时间
+https://www.solidot.org/story?sid=58423	47096
+Hyla Mobile 的研究显示，消费者<a href="https://motherboard.vice.com/en_us/article/43ejej/study-smartphone-iphone-trade-in-age-apple-event-2018" target="_blank"><u>延长了手</u></a>机更新换代的时间，2016 年是 2.38 年，而 2017 年略微增加到 2.59 年。Hyla Mobile CEO  Biju Nair 认为，更新换代延长的部分原因是由于智能手机越来越昂贵，移动运营商逐渐从补贴支付模式转移到支付模式。从运营商购买新手机套餐，你每月需要支付一小笔费用，直到还清为止。以 iPhone XS Max 为例，一部手机价格上千美元，你在还清费用之后立即放弃不太可能，尤其是新手机与旧型号手机的性能相差 并不太大。
+➜蓝箭航天公布发射失败初步调查结果
+https://www.solidot.org/story?sid=58424	48380
+私营公司<a href="http://www.bjnews.com.cn/finance/2018/10/31/516403.html"><u>蓝箭航天</u></a>的运载火箭“朱雀一号”周六<a href="https://www.solidot.org/story?sid=58381" target="_blank"><u>发射失败</u></a>。火箭一二级工作正常，三级出现异常。这枚火箭搭载了央视的一颗商业卫星。蓝箭航天现在公布了发射失败的<a href="http://www.bjnews.com.cn/finance/2018/10/31/516403.html"><u>初步分析结果</u></a>：经数据判读，火箭点火、起飞正常，一级飞行正常，一二级分离正常，二级飞行正常，二三级分离正常，整流罩分离正常，三级滑行段飞行正常，三级主发动机点火后火箭飞行正常。最大飞行高度337km，最快速度6300m/s。三级工作约37s（对应总飞行时间402s）后，主发动机工作正常，但姿态控制力异常、推进剂提前耗尽。经初步分析，怀疑末修姿控动力系统某推力室输送管损坏导致控制力下降和推进剂泄漏。同时，已组织多方专家进行调查，后续汇总全部数据后，将进一步分析形成最终结论。

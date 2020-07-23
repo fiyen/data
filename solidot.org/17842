@@ -1,0 +1,54 @@
+➜AMD 宣布 7 纳米 CPU 和 GPU
+https://www.solidot.org/story?sid=58493	10671
+<div align="center"><img src="//img.solidot.org/0/724/liRfRR6gr1bt6.jpg" width="300" height="200" align=""><br>
+</div>
+<br>
+AMD 在 <a href="https://www.amd.com/en/events/next-horizon"><u>Next Horizon</u></a> 发布会上宣布了第一款 7 纳米 CPU 和 GPU，两种芯片针对的是服务器市场和数据中心市场，针对消费者市场的 7 纳米产品要到明年才会发布。AMD CEO <a href="https://www.anandtech.com/show/13561/amd-previews-epyc-rome-processor-up-to-64-zen-2-cores"><u>宣布了</u></a>代号为 Rome 的下一代 EPYC 处理器，基于 Zen 2 架构，提供最高 64 个物理核心，采用台积电的 7 纳米工艺制造。相比第一代， 7 纳米芯片在同性能下功耗减半，在同功耗下性能提升 25%。台积电的 14 纳米 和 12 纳米芯片在每瓦性能上落后于英特尔的 14纳米工艺，但通过 7 纳米工艺台积电开始占据领先位置。Zen 2 支持 256-bit AVX2 运算，仍然使用 MCM 多芯片设计，但采用了与第一代不同的方法，它将内存控制器、Infinity Fabric 端口、PCIe 通道剥离出来，集成一块 14 纳米的 I/O DIE 上，与 7 纳米的 CPU 封装在一起，新的设计解决了第一代的内存延迟问题。AMD 计划在 2020 年推出使用增强版 7 纳米工艺的 Zen 3 处理器，以及更先进工艺的 Zen 4。在 GPU 市场，AMD <a href="https://www.anandtech.com/show/13562/amd-announces-radeon-instinct-mi60-mi50-accelerators-powered-by-7nm-vega"><u>发布了</u></a>基于 Vega 架构使用台积电 7 纳米工艺制造的 Radeon Instinct MI60 和 MI50，MI60 使用 32GB 的 ECC HBM2，而 MI50 的显存减半到 16 GB，两款 GPU 都有 1TB/s 的显存带宽， 支持 PCIe 4.0，使用 Infinity Fabric 连接最多 4 块 GPU，前者的双精度运算 7.4TFLOPS，后者 6.7TFLOPS。两款 GPU 都针对的是机器学习、高性能计算和渲染应用，但在 NVidia 统治的市场 AMD 能否占据一席之地还很难说。
+➜苹果的 T2 芯片阻止了 Linux 的启动
+https://www.solidot.org/story?sid=58494	12380
+苹果近期推出的 Mac 电脑都整合了 T2 安全芯片，对引导过程进行了<a href="https://support.apple.com/zh-cn/HT208330" target="_blank"><u>严格限制</u></a>，每一步都需要有苹果签名的密钥，结果是你无法或难以在苹果的笔记本电脑和台式机上<a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-T2-Blocks-Linux-UEFI" target="_blank"><u>启动 Linux</u></a>。在默认情况下，Windows 也是无法启动的，除非用户使用 Boot Camp Assistant 软件启用了对 Windows 的支持。Boot Camp Assistant 将会安装 Windows Production CA 2011 去验证 Windows 的引导程序。除了 macOS 和 Windows 10，包括 Linux 发行版在内的其它操作系统在 Mac 电脑上基本不太能启动。
+➜美国法院裁定高通必须提供竞争对手部分技术授权
+https://www.solidot.org/story?sid=58495	13141
+路透社<a href="https://cn.reuters.com/article/us-court-qualcomm-tech-authorization-110-idCNKCS1NC07N?il=0"><u>报道</u></a>，美国联邦法官周二裁定，高通必须对英特尔等竞争对手提供部分技术授权。这是联邦贸易委员会(FTC) 2017 年初对高通提出反垄断诉讼的初步裁定。这起诉讼预定在明年进行审理。加州北区地方法院法官 Lucy Koh 在初步裁定中表示，高通必须向竞争对手提供制造数据机（调制解调器）芯片相关的部分专利授权；数据机芯片协助智能手机等设备与无线通讯数据网络连结。高通和 FTC 上个月联合要求 Koh 延后对此问题做出裁定，最长延迟 30 天，在这期间他们将进行和解协商。Koh 周二否决了这个动议。目前尚不清楚该裁决是否会影响和解谈判。
+➜中国政府开始部署步态识别技术
+https://www.solidot.org/story?sid=58496	13542
+<div align="center"><img src="//img.solidot.org/0/725/licyWq5grdqn2.jpg" width="400" height="233" align=""><br>
+</div>
+<br>
+北京和上海<a href="https://www.abc.net.au/news/2018-11-06/chinese-gait-recognition-tech-ids-people-by-how-they-walk/10469974"><u>开始在街头部署新的监视工具步态识别</u></a>，利用体型和步态去识别身份，即使人的脸部没有被摄像头拍摄到。步态识别软件由中科院自动化所孵化成立的银河水滴科技（北京）有限公司开发，它不需要特别的摄像头，能从视频中提取出一个人的轮廓，然后分析轮廓的运动，创建一个人步态的模型。公司 CEO 黄永祯称该公司的系统能从最远 50 米外识别身份，无需识别对象主动配合参与。步态很难伪装，不同体型、头型、肌肉力量特点、运动神经灵敏度、走路姿态等特征共同决定了步态具有较好的区分能力。银河水滴引用某公安厅的<a href="http://www.watrix.ai/"><u>评语称</u></a>，“步态识别技术不依赖于人脸、指纹等信息，可以快速锁定目标人群，并确定嫌疑人范围，已经具备实际应用的基础。步态识别技术的普及将提高我国公安系统信息化水平，加快各类案件侦破速度。”
+➜联合国报告称臭氧层在恢复
+https://www.solidot.org/story?sid=58497	18091
+世界气象组织和联合国环境署发布的<a href="http://conf.montreal-protocol.org/meeting/mop/mop30/presession/Background-Documents/SAP-2018-Assessment-ES-October2018.pdf"><u>报告</u></a>（PDF）显示，得益于《蒙特利尔议定书》的实施，地球的臭氧层<a href="https://news.un.org/zh/story/2018/11/1022112"><u>正在愈合</u></a>。臭氧层保护地球上的生命免受来自太阳的紫外线辐射的伤害。自 2000 年以来，分布在平流层的臭氧层以每 10 年 1—3％ 的速度恢复。按照预计的速度发展下去，北半球和中纬度地区的臭氧层有望在 2030 年之前完全愈合；在 2050 年前，南半球的臭氧层将恢复原样；截至 2060 年，极地地区的臭氧层将成功恢复。 《蒙特利尔议定书》的《基加利修正案》将于 2019 年 1 月 1 日生效。该修正案要求削减未来在冰箱、空调和相关产品中强效温室气体的使用。批准《基加利修正案》的国家承诺将暖化效应超强的氢氟碳化物（HFCs）的预计产量和消费量削减 80％ 以上。到目前为止，已有 58 个缔约方达成相关承诺。
+➜AT&T 将切断多次侵权的用户宽带服务
+https://www.solidot.org/story?sid=58498	25375
+在收购时代华纳之后，AT&amp;T 从一家电信公司变成了一家媒体电信公司。而为了保护自己的内容，AT&amp;T 开始采取更激进的方法对待自己的客户。该公司<a href="https://arstechnica.com/tech-policy/2018/11/att-boots-customers-off-broadband-network-to-fight-piracy/"><u>证实</u></a>，它将切断多次侵犯版权的客户的宽带服务。AT&amp;T 没有证实的是指控其客户侵犯的版权所有者是否就是它自己。根据 AT&amp;T 的 FAQ，在切断服务前它将给客户寄去书面通知，并会给予认为自己收到错误通知的客户机会去提供书面解释。
+➜研究发现地球的激光技术能吸引 ET
+https://www.solidot.org/story?sid=58499	27337
+如果银河系的某个地方存在智能生命，MIT 的一项研究认为，地球的激光技术可成为一个明亮的灯塔，<a href="https://news.mit.edu/2018/laser-attract-alien-astronomers-study-1105" target="_blank"><u>吸引最远 2 万光年外的智能生命的注意</u></a>。研究报告发表在《The Astrophysical Journal》期刊上。研究显示，如果一台 1 到 2 兆瓦的高功率激光器通过 30 到 45 米长的望远镜聚焦对准太空，将能产生一束太阳能量也无法遮盖的红外辐射。此类的信号能被附近的外星文学家探测到，尤其是那些生活在距离地球最近的恒星比邻星，或者是位于 40 光年外有 7 颗行星其中 3 颗宜居的 TRAPPIST-1 星系的天文学家。研究发现，激光器能像摩尔斯电码那样以脉冲形式发送简短信息。人类也可以研发红外成像技术去观测发射激光束的外星智能生命。
+➜微软在我的世界里创建公司总部
+https://www.solidot.org/story?sid=58500	29340
+微软正利用其旗下的沙盒游戏《我的世界》帮助雇员<a href="https://www.cnbc.com/2018/11/06/microsoft-has-a-version-of-its-new-campus-in-minecraft.html"><u>熟悉公司总部</u></a>。微软委托 <a href="https://www.blockworks.uk/" target="_blank"><u>Blockworks</u></a> 公司为它在 《我的世界》里创建微软总部园区的模型，该项目预计在 2022 年完成。微软的总部大约有&nbsp; 74 万平方米的办公空间，有 3 到 4 万名雇员在这里工作。《我的世界》虽然是游戏，但它的浸入式特性，快速移动和构建大型建筑群的能力，让它很容易成为一种快速观光的体验工具。微软雇员以及拥有《我的世界》教育版用户可以<a href="https://onedrive.live.com/?authkey=%21AN6aWH%5FDc4BhPLE&amp;cid=59EAB9A99BD773E2&amp;id=59EAB9A99BD773E2%21831&amp;parId=59EAB9A99BD773E2%21538&amp;o=OneUp" target="_blank">下载文件</a>（onedrive）观摩已经完成部分，微软之外的用户则需要订阅 Office 365 Education 才能浏览。
+➜富士康否认寻求将中国工程师派往美国工厂
+https://www.solidot.org/story?sid=58501	30773
+华尔街日报援引知情人士消息<a href="https://www.wsj.com/articles/foxconn-considers-bringing-chinese-personnel-to-wisconsin-as-u-s-labor-market-tightens-1541505600"><u>报道</u></a>，由于难以在美国当地招到工程师和其他工人，富士康正考虑把中国工程师派到美国，为威斯康辛州南部一座在建工厂补充人手。威斯康辛州政府已承诺向富士康提供 30 亿美元的税项优惠和其他绩效激励，希望吸引富士康落户，地方政府追加了 7.64 亿美元。富士康必须在不同的期限内满足招工、薪资、投资目标，才能获得上述大部分福利。富士康<a href="https://gizmodo.com/foxconn-denies-report-that-it-will-bring-workers-from-c-1830250003"><u>否认了这一报道</u></a>，公司发言人称，报道是不真实的，它的招聘优先目标仍然是威斯康辛州，它将继续专注于在威斯康辛州招聘和培训工人，如果需要从美国其它地方招聘工人来进行补充。富士康和威斯康辛州在 2017 年达成协议，为了获得补贴富士康需要创造 1.3 万个工作岗位并投资 100 亿美元。
+➜'Oumuamua 可能来自外星文明
+https://www.solidot.org/story?sid=58503	33950
+<div align="center"><img src="http://img.solidot.org/0/475/liPISKXI3EpcE.jpg" width="450" height="281" align=""><br>
+</div>
+<br>
+去年 10 月，天文学家利用夏威夷的巡天望远镜 Pan-STARRS1 发现了一颗奇怪的天体 `Oumuamua。`Oumuamua 在夏威夷语中的意思是 “第一信使”，它被认为是人类已知的第一颗星际天体。访问太阳系的星际天体肯定很多，而它是第一颗被人类密切观察并确认的星际天体。`Oumuamua 有着雪茄外形，与我们在太阳系观察到的天体存在显著差异，它正在加速远离太阳系，预计永远不会再回来。但它究竟是小行星还是彗星？或者是其它东西？哈佛天文系主任 Avi Loeb 教授和博士后 Shmuel Bialy 在《The Astrophysical Journal Letters 》期刊上发表<a href="https://arxiv.org/pdf/1810.11490.pdf"><u>论文</u></a>（预印本），认为 `Oumuamua 是<a href="https://www.bostonglobe.com/news/science/2018/11/05/harvard-researchers-suggest-interstellar-object-might-have-been-from-alien-civilization/B2IBQrTZGlFIu9N7wdMRyM/story.html"><u>来自外星文明的宇宙飞船</u></a>。他们认为 `Oumuamua 是利用恒星辐射压做为推进力的光帆或<a href="https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%98%B3%E5%B8%86"><u>太阳帆</u></a>。
+➜盖茨再次谈对机器人征税
+https://www.solidot.org/story?sid=58504	37154
+比尔盖茨接受日经采访，谈论了 AI 时代的人类生活，他再次提出<a href="http://cn.nikkei.com/columnviewpoint/viewpoint/32925-2018-11-07-05-00-10.html" target="_blank"><u>要对机器人征税</u></a>。盖茨指出“原来人类依靠自给自足的农耕，一遇到恶劣气候，就陷入营养失调，平均寿命也很短。如今人类通过技术摆脱了这种状况”。他积极评价了技术的力量，指出技术让人类得以享受文明的生活，并不断迈向长寿。但目前技术迅速发展，在创造市场和提高便利性的同时，动摇社会的风险也在膨胀。自动化系统夺走人类工作等威胁论也无法忽视。盖茨指出“正如发电带来环境污染、汽车带来交通事故一样，技术在成为问题解决手段的同时，也将带来新问题”。他提出看法称，每当新技术问世，消极的一面都令人担忧，这也是迫不得已的事，巧妙利用技术的智慧非常重要。盖茨并不认为机器人会单方面将人赶出职场。他预测称“不久社会将需要创造就业，对生产资料（机器人）征收重税。将采取促进雇用人类的税制，而不是推动引进机器人”。
+➜中国计划标准化抗量子密码算法
+https://www.solidot.org/story?sid=58505	39369
+官媒<a href="http://news.sciencenet.cn/htmlnews/2018/11/419621.shtm"><u>报道</u></a>，中国科学院信息工程研究所副所长荆继武在量子安全国际会议上表示，中国或将于 2022 年左右开展抗量子密码算法标准化工作，于 2025 年左右实现商业化应用落地。中国已经建设完成了千公里级量子保密通信干线“京沪干线”。那么，有了量子通信，为什么还要强调抗量子密码算法？重庆大学信息物理社会可信服务计算教育部重点实验室主任向宏解释说，世界各国目前在工程上实施的量子通信，本质上都是进行传统加密通信时的密钥分发。量子密钥分发的原理是发送方和接收方采用单光子状态作为信息载体来建立密钥协商。基于量子物理原理，单光子不可分割、不可复制也无法被精确测量，在理论上能够保证，一旦有人窃听就能发现密钥“被盗”。但实现量子密钥分发，需要建立专门的量子通信网络，投入不菲，不可能用它来替换现有互联网。所以，未来量子密钥分发将和抗量子密码算法一道，为信息安全保驾护航。前者可以用于金融等高安全领域，后者可提供商业性的加密、个人认证服务。
+➜比特币挖矿的能量需求两倍多于铜或黄金
+https://www.solidot.org/story?sid=58506	42460
+根据发表在《Nature Sustainability》期刊上的<a href="https://www.nature.com/articles/s41893-018-0152-7"><u>一项研究</u></a>，挖出价值一美元的比特币所耗费的能量<a href="https://www.theguardian.com/technology/2018/nov/05/energy-cost-of-mining-bitcoin-more-than-twice-that-of-copper-or-gold" target="_blank"><u>两倍多于</u></a>开采相同价值的铜，黄金或铂金。比特币挖矿的难度是逐步提升的，挖出一块比特币所需电量的增长速度远远超过矿机效率的提升速度。研究人员发现，挖出 1 美元比特币需要大约 17 兆焦耳（MJ，million joules）的能量，相比之下铜，金和铂金分别需要 4MJ、5MJ 和 7MJ。其它数字货币也差不多，以太坊 1 美元需 7MJ，门罗币需 14MJ。但开采铝所需能量最为惊人，需要 122MJ 才能开采出价值 1 美元的铝。研究人员称，地理位置也会影响挖矿产生的温室气体排放，在中国挖掘数字货币所产生的二氧化碳总量四倍于加拿大。
+➜神秘数学家和小说家合作解决数学排列问题
+https://www.solidot.org/story?sid=58507	47175
+2006 年播出的 14 集动漫《<a href="https://zh.wikipedia.org/wiki/%E6%B6%BC%E5%AE%AE%E6%98%A5%E6%97%A5%E7%9A%84%E6%86%82%E9%AC%B1"><u>凉宫春日的忧郁</u></a>》是乱序播放的，重播和 DVD 版本也都打乱了播放次序。2011 年，在匿名讨论版 4chan 上，有人提出这样一个问题：如果把所有可能的排列次序都看一遍，<a href="https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/"><u>那么最少需要看多少集</u></a>？这个问题初看起来就是简单的 14!，但实际上观看集数要少于 14 x&nbsp; 14!，因为看完一遍之后你可以把看的最后一集当作下一遍的第一集，或者将上一遍的最后几集与下一遍的前几集重叠起来。我们可以假设把集数减少到三集，那么 3!=6，有 6 种排列，123, 132, 213, 231, 312, 321，总共 18 集，但实际上你按照 1231321312 就把所有排列次序都看过了。但这是否是最少的，如何证明？在 4chan 上，一位匿名数学研究者和动漫爱好者很快给出了一个下界：至少 93,884,313,611 集。这个证明在大约 7 年时间里没有被人注意到，直到现在。上个月澳大利亚科幻作家  Greg Egan 给出了这个问题<a href="http://www.gregegan.net/SCIENCE/Superpermutations/Superpermutations.html" target="_blank"><u>的新上限</u></a>，这一发现激起了数学界的兴趣，也重新引起了对匿名人士证明的下界的关注。数学家们很快验证了结果。他们发表了一篇<a href="https://docs.google.com/viewer?a=v&amp;pid=forums&amp;srcid=MTUwMTUxMjExNDk4NTk5NjY5OTkBMDMxNDgwMTA5ODA5OTYyNzcyNDQBVF9leXJHY19Dd0FKATAuMQEBdjI&amp;authuser=0" target="_blank"><u>正式的论文</u></a>，将第一作者的位置给了“Anonymous 4chan Poster”。
+➜盖茨基金会将投入 2 亿美元资助厕所研究
+https://www.solidot.org/story?sid=58508	47755
+比尔盖茨认为厕所是很严肃的事情，他的基金会过去七年投入了 2 亿美元<a href="https://www.bloomberg.com/news/articles/2018-11-06/bill-gates-aims-to-save-233-billion-by-reinventing-the-toilet" target="_blank"><u>去资助厕所研究</u></a>。本周二，比尔·盖茨在北京举办了“<a href="https://cn.nytimes.com/business/20181107/bill-gates-reinvented-toilet/" target="_blank"><u>新世代厕所博览会</u></a>”，让企业有机会展示他们在这个简单的卫生间装备上的尝试。多家公司展示了能把尿液和其他排泄物分开以便更有效处理的厕所、能循环水洗手的厕所和带太阳能屋顶的厕所。盖茨告诉与会者，因为不安全的卫生设施导致医疗成本增加以及劳动力和工资的丧失，全球每年大约要损失 2230 亿美元。在资助了 2 亿美元之后，盖茨承诺再出 2 亿美元。他说，“我们认为自己正处在卫生革命的关键点上。”

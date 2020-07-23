@@ -1,0 +1,12 @@
+➜Gilead 与中国合作将实验性埃博拉治疗药物用于治疗新冠状病毒
+https://www.solidot.org/story?sid=63385	24070
+Gilead Sciences <a href="https://www.reuters.com/article/us-health-china-gilead-sciences/gilead-working-with-china-to-test-ebola-drug-as-new-coronavirus-treatment-idUSKBN1ZU2RX" target="_blank"><u>宣布</u></a>它与中国合作将实验性的埃博拉治疗药物用于治疗新冠状病毒。这种从武汉扩散开来的新病毒已在全世界感染了超过一万人，有 200 多人死亡。Gilead Sciences 的新药 remdesivir 在美国用于治疗了一位新冠状病毒感染者。根据发表在《新英格兰医学杂志》上的<a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2001191"><u>报告</u></a>，患者在服用 remdesivir 之后恢复极快，虽然尚未出院，但症状已经大幅缓解了。remdesivir 是为治疗埃博拉而研发的药物，但在测试中它被发现没有效果。Gilead 上周表示，remdesivir 在携带 SARS 和 MERS 两种冠状病毒的动物身上表现积极。
+➜NASA 正尝试拯救因故障关闭所有仪器的旅行者二号
+https://www.solidot.org/story?sid=63386	33738
+上周六旅行者二号因功率不足<a href="https://www.technologyreview.com/f/615121/nasa-is-trying-to-save-voyager-2-after-a-power-glitch-shut-down-its-instruments/"><u>关闭了飞船搭载的所有五个科学仪器</u></a>，NASA 工程师正设法让飞船恢复到正常工作状态。旅行者二号在 1977 年发射，原计划工作 5 年，至今已运行 42 年，2018 年离开太阳系进入到星际空间，它目前距离地球 115 亿英里，原计划执行例行的 360 度旋转以校准磁强计，但因未知原因推迟了这一动作，导致了两个内部系统运行在高功率上，为弥补功率不足飞船软件关闭了 5 个仍然在工作的科学仪器。NASA 工程师关闭了其中一个耗电的系统，重启科学仪器。但飞船仍然没有恢复正常运作，没有数据发送回来。指令从地球发送到飞船需要 17 小时，这一通信上的滞后意味着要解决问题需要花费数天时间。
+➜OpenWRT 曝远程代码执行漏洞
+https://www.solidot.org/story?sid=63387	48318
+路由器发行版 OpenWrt <a href="https://lists.infradead.org/pipermail/openwrt-devel/2020-January/021544.html"><u>披露了</u></a>一个远程代码执行漏洞，OpenWrt opkg 包中的一个 bug 会导致包管理器忽略库索引嵌入的 SHA-256 校验和，事实上绕过了下载 .ipk 文件的完整性检查。由于 opkg 包以 root 权限运行，对整个文件系统具有读访问权限，意味着 .ipk 包嵌入的恶意负荷能执行任意代码。开发者已经释出了新版本修复了漏洞。
+➜加州检察总长推迟 .org 交易
+https://www.solidot.org/story?sid=63388	48748
+加州检察总长要求总部位于加州的互联网域名非盈利管理机构  ICANN 回答 <a href="https://www.icann.org/en/system/files/correspondence/jeffrey-to-nevett-30jan20-en.pdf" target="_blank"><u>35 个问题</u></a>，这意味着.org 域名交易的批准<a href="https://domainnamewire.com/2020/01/31/breaking-california-attorney-general-delays-org-sale/"><u>将很有可能推迟</u></a>。Internet Society（ISOC）将 .org 域名管理机构 Public Internet Registry（PIR）出售给私募股权公司 Ethos Capital 的<a href="https://www.solidot.org/story?sid=62795"><u>交易</u></a>引发了广泛关注，而在交易之前几个月 ICANN <a href="https://www.solidot.org/story?sid=61195">解除了</a> .org 域名年费上涨限制，允许不受限制的涨价。这一交易需要得到 ICANN 的批准，截止日期为 2 月 20 日。因为检察总长的信息披露要求 ICANN 正申请延长批准日期至 4 月 20 日。加州检察总长要求 ICANN 回答它为什么决定移除 .org 域名年费上涨限制，要求提供参与分析或推荐移除年费限制的相关人士的身份信息，要求提供 .org Registry Agreement 的价值评估文件，等等。

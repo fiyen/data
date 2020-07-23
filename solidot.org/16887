@@ -1,0 +1,9 @@
+➜导致计算机出错的名字
+https://www.solidot.org/story?sid=47637	52479
+当 Jennifer Null 试图在线购买机票，她在大多数网站上都遇到了出错信息，她被告知在姓一栏没有输入任何字符，要求她重试一次。对程序员来说，原因十分简单：Null这个单词会导致数据库出错，原因是Null经常被写入到数据库字段内表示没有数据。以Null为姓名的人非常罕见，而解决这个问题并不那么容易。Null遇到的麻烦不仅仅限于购买飞机票，还有在政府网站上填报纳税信息。Null这个单词也不是唯一一个<a target="_blank" href="http://www.bbc.com/future/story/20160325-the-names-that-break-computer-systems"><u>导致计算机在处理时出错的例子</u></a>。夏威夷女子Janice Keihanaikukauakahihulihe'ekahaunaele的名字长度超过了州ID卡36字符长度的限制。
+➜Kernel 4.6 rc1发布
+https://www.solidot.org/story?sid=47638	54216
+Linus Torvalds在邮件列表上宣布<a target="_blank" href="https://lkml.org/lkml/2016/3/26/132"><u>发布了</u></a>Kernel 4.6的第一个RC版，这一发布也标志着合并窗口的关闭。根据已经合并的补丁，Kernel 4.6的驱动更新占了三分之二，其余则是架构更新、网络和文件系统更新，<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&amp;item=linux-46-features&amp;num=1"><u>其中包括</u></a>：GeForce GTX 900硬件加速支持；英特尔 DRM图形驱动默认启用FBC和PSR；AMDGPU重设支持；改进Raspberry Pi 3D性能；支持13种新的ARM SoC；新的文件系统 OrangeFS；XHCI USB 3.1支持；CGroup Namespaces支持；等等。
+➜陈旧的技术让银行面临灭绝的危险
+https://www.solidot.org/story?sid=47639	56282
+在取款机里插入银行卡，结果什么也没发生，银行的IT系统又崩溃了。你急着取钱，但你又能怎么办呢？专家发出警告，随着大银行开始升级它们的IT系统，未来几年这样的情景将会越来越常见。汇丰银行、美国银行、澳洲联邦银行、苏格兰皇家银行等都遭遇间歇性技术故障而导致客户无法取款的问题。所有这些系统故障<a target="_blank" href="http://www.bbc.com/news/business-35880429"><u>都削弱了对传统银行的信心</u></a>，鼓励了创业公司发起挑战。原因在于陈旧的大型机技术运行日益缓慢和可靠性下降。

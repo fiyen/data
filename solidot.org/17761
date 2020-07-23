@@ -1,0 +1,12 @@
+➜围绕 Speck 块密码的争议
+https://www.solidot.org/story?sid=57617	34965
+Speck 带有原罪，因为它来自 NSA，在 Dual_EC_DRBG 椭圆曲线加密算法之后 NSA 推荐的任何算法都会引发怀疑。由于 NSA 拒绝回答有关 Speck 和 Simon 的问题，国际标准化组织 ISO 拒绝将其<a href="https://www.solidot.org/story?sid=53942" target="_blank"><u>接受为标准</u></a>。Speck 是一种块密码（block cipher），非常适合低端和无硬件加密加速的 CPU 使用，它可能是被审查最多的加密算法。Speck 已合并到 4.17 kernel，fscrypt 模块在 4.18 中加入了对 Speck128 和 Speck256 的支持。但由于其争议性，Google 已经决定不在 Android 中使用它,，它改推 HPolyC。鉴于 Android 之前被认为是 Speck 的一个主要使用平台，在 Google 决定不用后内核开发者们争议<a href="https://lwn.net/Articles/761992/" target="_blank"><u>到底要不要在内核中保留它</u></a>。支持者认为，由于性能问题低端平台缺乏可行的加密方案，Speck 能解决有无的问题，有加密总比没有加密好，即使这种加密技术受到质疑。曹子德认为任何不使用 Speck 或从内核移除的决定都是出于政治理由，而不是技术理由。但其他人认为，没有人使用 Speck 也没人维护它就已经足够作为移除它的理由。
+➜Firefox 63 将不信任赛门铁克证书
+https://www.solidot.org/story?sid=57618	40284
+由于赛门铁克 CA 过去几年被发现签发了大量有问题的证书，包括 2015 年在 Google 不知情下为 Google 域名颁发了有效期一天的预签证书，Google <a href="https://www.solidot.org/story?sid=53799" target="_blank"><u>去年</u></a>宣布从 2018 年 10 月 23 日发布的 Chrome 70 将停止信任赛门铁克的旧证书。Chrome 的测试版本 Chrome Canary 已经停止信任赛门铁克证书。现在，Mozilla 宣布它的测试版本 Firefox Nightly 63 <a href="https://blog.nightly.mozilla.org/2018/08/14/symantec-distrust-in-firefox-nightly-63/" target="_blank"><u>将停止信任赛门铁克签发的证书</u></a>，用户访问使用赛门铁克证书的网站将会看到警告信息。Mozilla 建议网站所有者尽可能快的替换旧证书。
+➜中国游戏行业预计还将面临半年的冰冻期
+https://www.solidot.org/story?sid=57619	49525
+由于政府游戏监管部门的重组，世界最大的游戏市场预计<a href="http://www.bjnews.com.cn/invest/2018/08/17/499985.html" target="_blank"><u>还将面临长达半年的冰冻期</u></a>，包括腾讯在内的大小企业都哀声遍野。游戏的热度不会一直持续下去，游戏公司需要不停的推出新产品，让热点从一款产品延续到另一款产品，才能保持收入的稳定性，而在中国，游戏的上市和商业发行都需要经过审批，但审批游戏的机构现在不批了。有两个机构负责游戏审批：游戏公司需要向文化部申请备案，向国家新闻出版广电总局申请版本号。没有版本号，即使通过了文化部备案，也无法收费。今年 3 月，中央印发《深化党和国家机构改革方案》，计划将新闻出版广电总局重组，其中的新闻出版和电影监管职能均划归中宣部管辖。意味着中宣部将承担游戏版本号的审批工作。但目前机构改革仍在进行之中，版号审批处于暂停状态。自 3 月 28 日起，国产网络游戏版本号就没有发放过。目前已经过去了近 5 个月。进口游戏的版本号则从 2 月 5 日以来就没有发放过了。此前单月版号审批量大概为 700 款。如果按照这个数量计算，这意味着，已经有超出 2000 个新游被排出了市场之外。预计到 2018 年底、2019 年初，新的游戏监管机制有望彻底建立，流程也将恢复正常。
+➜WireGuard VPN 准备进入内核主线
+https://www.solidot.org/story?sid=57620	53120
+VPN 提供了许多方法增加安全性和隐私，但这些方法增加了配置的复杂度并会降低性能，<a href="https://openvpn.net/">OpenVPN</a> 和 <a href="https://en.wikipedia.org/wiki/IPsec">IPsec</a> 都存在这两大问题，以至于大部分用户都不愿意使用这些特性。名为 <a href="https://www.wireguard.com/" target="_blank"><u>WireGuard</u></a> 的新 VPN 项目试图在做到配置简单的同时提供高性能。WireGuard 的作者是 Jason Donenfeld，2016 年公开 ，是一个 VPN 内核实现，代码行数少，优先考虑性能，配置简单。WireGuard 是基于 UDP，数据包在一端加密之后封装在 UDP 包内发送到远程端点，然后解密。7 月 31 日，Donenfeld 递交了 WireGuard 供评审，<a href="https://lwn.net/Articles/761939/" target="_blank">准备合并到主线</a>。他在邮件中称，WireGuard 已被多家大公司使用，并整合到工具、发行版，移动手机和数据中心，是时候让它合并到内核主线了。

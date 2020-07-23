@@ -1,0 +1,13 @@
+➜多家企业在阿里云错误公开源码
+https://www.solidot.org/story?sid=59664	12853
+匿名读者 写道 <i>"上海后端工程师张中南意外发现在阿里云效平台上只要<a href="https://www.pencilnews.cn/p/26154.html" target="_blank">登上账号就能浏览</a>到很多公司的内部代码。起初其以为这些代码是开源的，但很快发现很多内容不该出现在开源项目中，比如项目的数据库、账号、密码等。"</i>
+➜监控技术在中国创造了至少四个亿万富翁
+https://www.solidot.org/story?sid=59665	51218
+中国蓬勃发展的国内监控市场<a href="https://www.bloomberg.com/news/articles/2019-02-21/big-brother-billionaires-get-rich-as-china-watches-everyone" target="_blank"><u>至少创造了四名亿万富</u></a>翁，其中一位是天地伟业的董事长兼党委书记<a href="http://www.tiandy.com/%e9%a2%86%e5%af%bc%e5%85%b3%e6%80%80"><u>戴林</u></a>。这四人的资产净值总和高达 121 亿美元。根据 2016 年的数据，中国已经安装了 1.76 亿个监控探头，相比之下美国只有 5000 万个。支持者认为，无处不在的监控鼓励了信任，改进了公共安全，帮助中国成为 AI 领域的领导者。随着天地伟业等公司向海外扩张，批评者担心中国的监控行业可能会帮助从非洲到拉美的政府侵蚀公民自由。另一种担忧则主要来自美国，担心中国公司出口的监控设备可能被用于间谍活动，华为海思是监控探头芯片的主要供应商。
+➜Redis 再次改变它的开源许可证
+https://www.solidot.org/story?sid=59666	53048
+流行 NoSQL 数据库 Redis <a href="https://news.slashdot.org/story/19/02/22/2155223/redis-changes-its-open-source-license----again"><u>放弃了</u></a>受争议的禁止商业使用许可证 <a href="https://commonsclause.com/" target="_blank"><u>Commons Clause</u></a>，采用了新的源代码公开许可证  Redis Source Available License(RSAL)，明确它不是开源许可证。Redis 的核心数据库仍然是采用 <a href="https://opensource.org/licenses/BSD-3-Clause" target="_blank" rel="noopener noreferrer"> 3-Clause-BSD</a> 许可证，RSAL 仅限于 RedisSearch、RedisGraph、RedisJSON、RedisML 和 RedisBloom 等 Redis Labs 开发的模块，开发者允许使用和修改这些模块的代码，将这些模块整合到应用中，但禁止将这些模块应用于 Redis Labs 赚钱的业务，公司 CMO Manish Gupta 明确声明这不是开源许可证。
+➜大部分欧洲政府支持受争议的版权法
+https://www.solidot.org/story?sid=59667	55667
+大部分欧洲政府<a href="https://arstechnica.com/tech-policy/2019/02/european-governments-approve-controversial-new-copyright-law/" target="_blank"><u>表态支持</u></a>受争议的欧洲版权法提案，为欧洲议会进行投票奠定了基础，这一投票预计会在 3 月或 4 月举行。提案支持者认为此举是为了加强反盗版工作，但批评者认为新的条款可能会迫使互联网平台采用更严厉的过滤审查技术，加重中小企业的负担。提案中最受争议的是第 11 和第 13 条款。第 11 条被称为“链接税”，将强迫互联网巨头 Google 和 Facebook
+等与欧洲媒体公司分享收入。第 13 条被称为“上传过滤器”，要求要求用户生成内容的营利性网站采取措施阻止版权保护内容的发布。该条款意味着网站将要在用户发帖前审查其内容。

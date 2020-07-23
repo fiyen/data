@@ -1,0 +1,52 @@
+➜比特币项目对程序二进制文件安全性发出警告
+https://www.solidot.org/story?sid=49358	11580
+比特币项目官方网站刊登了一则<a target="_blank" href="https://bitcoin.org/en/alert/2016-08-17-binary-safety"><u>安全通知</u></a>，对 Bitcoin 0.13.0 二进制文件的安全性发出了警告，但通知没有透露多少细节。安全通知称，它有理由相信即将发布的Bitcoin Core版本的二进制文件很有可能成为国家支持的攻击者的目标。Bitcoin.org没有必要的技术资源能抵御如此强大的攻击者，因此要求比特币社区，尤其是中国的比特币社区，在从网站下载二进制文件时需要加倍警惕。如果不警惕的话你的比特币可能会丢失，你的电脑甚至可能会参与对比特币网络的攻击。Bitcoin.org称，风险最大的是中国的矿池和交易平台。它对此没有做出进一步的解释，只是提醒用户下载二进制文件后运行程序前检查一下它的签名和哈希是否与官方公布的一致。
+➜碳纳米管制备技术取得突破
+https://www.solidot.org/story?sid=49359	13720
+<a href="mailto:peanuto@163.com">peanuto</a> 写道 "
+想象一下未来的电子报纸可以卷起来，就算你将咖啡翻在上面，它也不会坏，照样能更新显示内容。这些黑科技听起来美如画，但其中一项关键技术人类一直无法攻克——直到最近——加拿大McMaster大学的Alex Adronov研究小组<a href="http://phys.org/news/2016-08-problem-technological-revolution.html" target="_blank">发明</a>了一项新的提纯技术为碳纳米管制取扫平了道路。
+<i>
+碳纳米管是一种头发丝一样的碳结构，直径仅有十亿分之一米，而长度可达数千米。这种纤细的柔性材料有望将来能<a href="http://phys.org/news/2009-01-carbon-nanotube-ink-thinner-lighter.html" target="_blank">替代</a>电脑或其他电子设备中的硅基芯片，麻烦在于碳纳米管的两种微观结构：半导体型碳纳米管和金属型碳纳米管在制备时同时混生。两种碳纳米管虽然都需要，但只有将两者分开时才有用。科学家此前已经在如何分离这个问题上花费数年时间，无奈只找到了将半导体型碳纳米管溶解剥离的聚合物，如此仅能获得金属型碳纳米管，而实现相反过程的方法一直未能找到。如今，研究人员终于成功地<a href="http://dx.doi.org/10.1002/chem.201603553" target="_blank">反转</a>了聚合物的电特性，从而能够剥离金属型管而留下半导体型管。研究小组下一步的计划是研制出更高效的聚合物，使得该过程最终商业化。
+"</i>
+➜思科修复了NSA黑客泄漏的0day漏洞
+https://www.solidot.org/story?sid=49360	14198
+不知名的黑客组织 Shadow Brokers 公开了NSA关联黑客团队开发的部分网络入侵工具，公开的代码包含了思科、Juniper、Fortinet和两家中国公司的防火墙产品的漏洞利用。其中被称为 ExtraBacon的漏洞利用针对的是思科Adaptive Security Appliance (ASA) 防火墙，影响软件版本8.x到 8.4。如果漏洞被成功利用，攻击者不需要有效的用户名或密码就能访问防火墙。思科<a target="_blank" href="http://blogs.cisco.com/security/shadow-brokers"><u>证实</u></a>它是一个0day漏洞，它在8月17日<a target="_blank" href="http://tools.cisco.com/security/center/viewErp.x?alertId=ERP-56516"><u>释出了两个补丁</u></a>修复了两个远程代码执行漏洞。思科称，ExtraBacon利用了ASA等防火墙产品的Simple Network Management Protocol 代码的缓冲溢出漏洞。
+➜网信办要求网站加强“自我审查”
+https://www.solidot.org/story?sid=49361	18034
+互联网最高审查机构网信办<a target="_blank" href="http://www.cac.gov.cn/2016-08/17/c_1119408624.htm"><u>发表公告</u></a>，强调网站及网站工作人员对网上信息管理的“主体责任”，要求网站严格执行7×24小时值班制度，全天候监管跟贴评论并审核刊发的稿件。公告称，针对网站履行网上信息管理主体责任提出了八项要求，主要包括：从事互联网新闻信息服务的网站要建立总编辑负责制，总编辑要对新闻信息内容的导向和创作生产传播活动负总责；建设新闻发稿审核系统，加强对网络直播、弹幕等新产品、新应用、新功能上线的安全评估，等等。此外，网信办还要求网站应严格落实７×２４小时值班制度、建立健全跟帖评论管理制度、完善用户注册管理制度、强化内容管理队伍建设、做好举报受理工作。公告称，网站是信息制作、发布、传播的主体，如果片面追求经济效益，一味“抓眼球”“搏出位”，必然导致网络传播失序。人民网、搜狐网、百度、天涯社区、今日头条、新浪微博、腾讯微信等网站负责人表示服从。
+➜思科只计划裁员5500人
+https://www.solidot.org/story?sid=49362	18337
+思科此前曾传出将裁员20%约1.4万名雇员，但<a target="_blank" href="http://cn.reuters.com/article/cisco-layoff-software-shift-idCNKCS10T0B1"><u>正式宣布时</u></a>它声明只裁员5500人，约占员工人数的7%。思科公布了2016年第四财季报告：路由器业务营收下降6%，交换器业务营收增长2%，服务供应商订单减少5%，新兴市场营收下降6%。思科宣布裁员计划从2017年第一财季开始执行，将提列高达4亿美元的支出；同时宣布将业务重点由传统的硬件转向高利润软件。对于思科的裁员计划是否影响中国区，思科中国<a href="http://companies.caixin.com/2016-08-18/100979106.html"><u>尚未作出说明</u></a>。
+➜NASA在空间站为波音和SpaceX安装新的对接通道
+https://www.solidot.org/story?sid=49363	28563
+NASA在2014年与私人太空公司波音和 SpaceX <a target="_blank" href="http://www.solidot.org/story?sid=41153"><u>签署了</u></a>商业载人飞行合同——NASA宇航员将搭乘两家公司的商业载人飞船飞往国际空间站，合同总价值为68亿美元。波音的 Starliner飞船和 SpaceX 的 Dragon 飞船都计划在2017年开始执行载人飞行任务。为了迎接两家公司的飞船，宇航员 Jeff Williams 和 Kate Rubins 本周五<a target="_blank" href="http://www.popularmechanics.com/space/a22414/spacewalk-install-new-iss-components/"><u>将执行舱外太空行走任务</u></a>，为空间站安装新的对接结合器。太空行走计划从周五上午8:05开始，从6:30开始直播。这次太空行走是 Williams 的第四次 Rubins 的第一次。
+➜小米手机的市场份额跌至第四位
+https://www.solidot.org/story?sid=49364	28727
+<div align="center"><img src="http://img.solidot.org/0/833/lioGDFD3RgW2.jpg" height="160" align="" width="450"><br>
+</div>
+<br>
+根据市场分析公司 IDC第二季度的<a target="_blank" href="http://www.idc.com/getdoc.jsp?containerId=prCHE41676816"><u>数据</u></a>，小米手机的手机出货量同比下降了将近700万，从去年的1710万跌至1050万。它的市场份额也跌至第四位，次于华为、OPPO 和 Vivo 。华为第二季度出货1910万部，OPPO 1800万部，Vivo 1470万部，分别占据了 17.2%，16.2%，13.2%的份额，小米的份额从去年同期的16.1%跌至9.5%。小米<a target="_blank" href="http://www.bloomberg.com/news/articles/2016-08-16/xiaomi-phone-shipments-fall-38-in-china-as-huawei-takes-lead"><u>认为IDC的数据有误</u></a>，其它分析公司给出的出货量数据更高：IHS的数据是1420万， Strategy Analytics是1280万。
+➜NASA资助的论文将开放获取
+https://www.solidot.org/story?sid=49365	29906
+NASA<a target="_blank" href="http://www.nasa.gov/press-release/nasa-unveils-new-public-web-portal-for-research-results"><u>宣布</u></a>该机构资助的所有研究论文<a target="_blank" href="http://motherboard.vice.com/read/from-now-on-youll-be-able-to-access-nasa-research-for-free"><u>将向公众开放获取</u></a>。使用NASA资金的科学家需要在研究成果发表一年之内将其论文上传论文开放数据库 <a href="https://www.nihms.nih.gov/db/sub.cgi" target="_blank">PubSpace</a>。PubSpace是美国国家卫生研究院（NIH）管理的一个数据库，主要存档生物医学论文，用户现在就可以在PubSpace上<a target="_blank" href="http://preview.ncbi.nlm.nih.gov/pmc/?term=%22nasa+funded%22%5BFilter%5D"><u>搜索到NASA资助的研究论文</u></a>：有861个结果，其中包括阿波罗宇航员<a target="_blank" href="http://preview.ncbi.nlm.nih.gov/pmc/articles/PMC4964660/s-in-apollo-astronauts"><u>更高的心血管疾病死亡率</u></a>的研究。NASA表示此举旨在响应政府在2013年提出的一项要求，要求联邦资助的研究必须更容易获取。
+➜俄罗斯上诉法院维持了对Google的反垄断判决
+https://www.solidot.org/story?sid=49366	31469
+上周，俄罗斯反垄断部门以滥用Android市场垄断地位为由对 Google<a target="_blank" href="http://www.solidot.org/story?sid=49290"><u>开征了</u></a>4.38亿卢布（685万美元）罚款。本周三，莫斯科第九仲裁法庭<a target="_blank" href="http://arstechnica.com/tech-policy/2016/08/google-loses-appeal-russia-android-ruling/"><u>驳回了Google的上诉维持了原判</u></a>。俄罗斯联邦反垄断局在上周的裁决中指责Google对使用Android系统的智能手机厂商强加了限制性条款，迫使它们预装Google服务，同时屏蔽竞争对手的应用。联邦反垄断局命令Google进行整改。
+➜病毒在早晨更危险
+https://www.solidot.org/story?sid=49367	34297
+剑桥大学的一项研究<a target="_blank" href="http://www.bbc.com/news/health-36782326"><u>发现</u></a>，因生物钟对细胞活性的影响，病毒在早晨更具有危险性。对实验鼠的研究发现，病毒在早晨的感染成功率是晚上的10倍。<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1601895113"><u>研究论文</u></a>发表在PNAS上。动物研究显示，轮班或飞行时差导致的生物钟紊乱会使人更容易感染病毒。病毒的感染与细菌或寄生虫不同，为了复制它完全依赖于对细胞内部机制的劫持。而由于生物钟的存在细胞内部的活性在一天24小时内会有很大的变化。研究的焦点是名叫Bmal1的生物钟基因，它的活性在下午达到峰值。Bmal1的活性在早晨和冬季都较低。
+➜美国法庭裁决间谍软件开发商可被控窃听
+https://www.solidot.org/story?sid=49368	37949
+间谍软件开发商Awareness Technologies<a target="_blank" href="http://www.theregister.co.uk/2016/08/17/spyware_maker_faces_wiretapping_suit/"><u>将面临违反窃听法的诉讼</u></a>。Javier Luis 指控 Awareness 开发的间谍软件 WebWatcher 非法记录了他与 Catherine Zang 之间的在线交流，然后记录的信息被 Catherine 当时的丈夫 Joseph Zang 作为证据递交离婚申请。美国第六地区上诉法庭<a target="_blank" href="https://regmedia.co.uk/2016/08/17/webwatcherverdict.pdf"><u>裁决</u></a>（PDF）Awareness 能被起诉违反窃听法，因为记录的信息是储存在该公司的服务器上。
+➜中国尝试允许国企员工持股
+https://www.solidot.org/story?sid=49369	39723
+国资委公布了《<a target="_blank" href="http://www.sasac.gov.cn/n85881/n85911/c2414491/content.html"><u>关于印发《关于国有控股混合所有制企业开展员工持股试点的意见》的通知</u></a>》的通知，计划在年内启动国企员工持股<a target="_blank" href="http://cn.wsj.com/gb/20160818/cec163444.asp"><u>试点</u></a>。根据《意见》，开展员工持股试点的企业应是主业处于充分竞争行业的商业类企业，试点企业要求营收和利润90%以上来自集团外部市场。员工入股应以岗定股，支持关键技术岗位、管理岗位和业务岗位人员持股，员工入股应主要以货币出资，入股价格不得低于经核准或备案的每股资产评估值。员工持股总量原则上不高于公司总股本的30%，单一员工持股比例不高于1%；保证国有股东控股地位，其持股比例不得低于34%。股权流转方面，员工持股应设定不少于36个月的锁定期，锁定期满后，董事和高级管理人员每年可转让股份不得高于所持股份总数的25%。
+➜长期暴露在雌性气味下会改变雄鼠的求偶行为
+https://www.solidot.org/story?sid=49370	40885
+雄鼠对于雌性气味趋之若鹜，雌鼠释放的信息素会吸引雄性的求偶和交配行为。华盛顿大学的研究人员发现了一种只存在于雄鼠的特定神经元，用于探测雌鼠尿液中的信息素。进一步研究发现，这种神经元具有可塑性，长期暴露在雌性气味下后会消失，<a target="_blank" href="https://scienceblog.com/487231/long-term-exposure-female-scent-changes-courtship-behavior-male-mice/"><u>从而改变雄鼠的求偶行为</u></a>，变得不再对雌性感兴趣。<a target="_blank" href="http://www.cell.com/neuron/fulltext/S0896-6273(16)30419-6"><u>研究报告</u></a>发表在《神经元》期刊上。研究人员筛选了数以万计的犁鼻器神经元，雄性和雌性之间的大部分神经元是相同的，但有一类神经元主要存在于雄性，几乎不存在于雌性。研究人员随后实验让雄鼠暴露在雌鼠尿液下两个月时间，发现神经元消失了，雄鼠也失去了响应雌鼠信息素的能力。而雌鼠暴露在雄鼠尿液下则没有类似影响。
+➜用户大部分情况下会忽视软件安全警告
+https://www.solidot.org/story?sid=49371	42576
+软件开发者注意了：如果你想要用户注意安全警告，你需要选择在更合适的时间弹出警告。杨百翰大学的研究人员和Google Chrome工程师合作<a target="_blank" href="http://phys.org/news/2016-08-people-software-percent.html"><u>发现</u></a>，在用户打字、看视频和上传文件等情况下，在高达90%的可能性用户会无视警告，原因是“双重任务干扰”——一种神经限制，导致即使是简单的任务也无法在不严重降低表现下同时执行。研究人员发现，人类大脑并不能很好的处理多重任务。在研究中，74%的人在关闭网页窗口时会无视警告；79%的人在看视频时不会关心警告信息；87%的人在传输信息时不理睬警告。研究人员建议，安全警告最好在低双重任务时弹出，比如看完视频后，加载网页时或与网站交互之后。<a target="_blank" href="http://pubsonline.informs.org/doi/10.1287/isre.2016.0644"><u>研究报告</u></a>发表在《Information Systems Research》上。
+➜中国举办器官移植大会引发争议
+https://www.solidot.org/story?sid=49372	44801
+在第26届国际器官移植学会大会在香港开幕前，一些医生和非政府医学组织的成员在《美国器官移植杂志》上发表<a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/ajt.14014/full"><u>文章</u></a>，对在中国举办这次大会的决定<a target="_blank" href="http://cn.nytimes.com/china/20160818/debate-flares-on-chinas-use-of-prisoners-organs-as-experts-meet-in-hong-kong/"><u>进行指责</u></a>，称目前还无法验证中国是否完全停止从囚犯身上摘取器官。这次大会将展示来自中国的10篇论文。世界医学协会和器官移植学会等国际医学组织表示，不管是在哪个国家，使用死囚器官都是违反医学伦理规范的，因为这些囚犯不能自由表达自己的意愿。器官移植学会要求中国的论文作者公开他们在文中提到的器官的来源。“所有使用了死囚器官的论文都被予以拒绝，没有回应我们的声明要求的论文也一概遭到拒收，”学会称。

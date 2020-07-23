@@ -1,0 +1,57 @@
+➜百度为中国加油不忘审查
+https://www.solidot.org/story?sid=30720	300
+<a href="http://www.tudou.com/programs/view/VnFh7nPPFZw">wmr teaches alphabet</a> 写道<i> "在百度输入“<a href="http://www.baidu.com/s?wd=%E5%A5%A5%E8%BF%90">奥运</a>”，按钮就会变成红色，文字变为“中国加油”。有人发现，如果是输入“奥运日本”就会不变，虽然输入其他国家也会变。难道是因为<a href="http://www.alexa.com/siteinfo/baidu.jp">百度日本份额不高</a>？仔细观察，发现是由一个<a href="http://s1.bdstatic.com/r/www/cache/aoyun/js/aoyun-1.1.js">脚本</a>控制的。脚本里关于奥运的是明文的，除此之外，还有某种编码的集合，使用javascript的document.write就能写成明文。原来屏蔽的不是奥运日本 而是 奥运日。有趣的是把某个名字加在了几个色情关键字的中间。"</i>
+➜Twitter暂停公开NBC高管电子邮件的记者帐号
+https://www.solidot.org/story?sid=30721	4320
+英国《独立报》洛杉矶通讯员<a href="http://twitter.com/guyadams">Guy Adams</a>因为公开NBC体育部负责人的电子邮件地址，被控侵犯Twitter隐私政策而被Twitter暂停其帐号。Adams非常不满NBC的伦敦奥运会报道，比如它没有直播开幕式，因此他公开负责奥运会报导的高管Gary Zenkel的电子邮件地址，请他的跟随者联合向NBC投诉。
+《纽约时报》<a href="http://mediadecoder.blogs.nytimes.com/2012/07/30/reporter-is-banished-from-twitter-after-post-on-nbcs-olympics-coverage/">报道称</a>，NBC证实它向Twitter投诉公开电子邮件地址是侵犯个人隐私。而Twitter网友则发起了<a href="https://twitter.com/#!/search/%23SaveGuyAdams?q=%23SaveGuyAdams">#saveguyadams</a>运动。
+➜ScummVM 1.5.0发布
+https://www.solidot.org/story?sid=30722	6480
+设计模拟运行Lucas Arts冒险游戏的<a href="http://www.scummvm.org/news/20120727/">ScummVM</a>发布了<a href="http://sourceforge.net/projects/scummvm/files/scummvm/1.5.0/ReleaseNotes/view">v 1.0版</a>，支持更多游戏如《Backyard Baseball 2003》、《Blue Force》、《Darby the Dragon》、《Dreamweb》和《Once Upon A Time: Little Red Riding Hood》等。ScummVM是跨平台点击类冒险游戏引擎解释器，除了支持Windows和Linux，还支持 iPhone和Android，游戏机 Dreamcast、Gamecube和Nintendo 64，以及掌机Openpandora和丁果。
+➜EC2上的GNU/Linux发行版测试
+https://www.solidot.org/story?sid=30723	7200
+<a href="http://citypw.blogspot.com/">Shawn the R0ck</a> 写道 "<a href="http://www.phoronix.com/scan.php?page=article&amp;item=amazon_ec2_distros&amp;num=1">Phoronix社区最近公布了在EC2云平台上的几款GNU/Linux发行版的测试</a>，包括Ubuntu 12.04 LTS，Amazon Linux AMI 2012.03，Red Hat Enterprise Linux 6.3和SUSE Linux Enterprise Server 11(简称SLES 11)，测试工具是<a href="http://www.phoronix-test-suite.com/?k=home">Phoronix社区自己的自由软件套装</a>。<i>
+<a href="http://en.wikipedia.org/wiki/List_of_Ubuntu_releases#Ubuntu_12.04_LTS_.28Precise_Pangolin.29">Ubuntu 12.04 LTS</a>使用Linux 3.2内核和GCC 4.6编译器，基于Fedora的Amazon Linux使用Linux 3.2内核和GCC 4.4.6，Red Hat Enterprise Linux 6.3使用Linux 2.6.32内核和GCC 4.4.6，<a href="http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server">SLES 11</a>使用Linux 3.0内核和GCC 4.3编译器。文件系统方面除了SLES 11使用EXT3，其他都使用的EXT4。在NPB并行计算方面Ubuntu 12.04 LTS排名第一，这并不令人惊讶，毕竟它使用了较新的GCC 4.6，RHEL 6.3排名最后，而Amazin Linux和SLES分别排名第2和第3，这一项指标主要取决于GCC，因为GCC在4.4开始才有对openmp的优化。在之后的暴力破解和图形计算方面Ubuntu 12.04 LTS都稳拿第一，原因还是取决于较新的<a href="http://gcc.gnu.org/wiki/">GCC编译器</a>，也就是说其他的发行版在升级GCC后会有可观的提升。</i>
+操作系统和编译器是计算机科学领域永恒的话题，传闻没有GCC的linux内核就是破铜烂铁，难道传闻是真的？"
+➜彼得·杰克逊证实《霍比特人》将拍成三部曲
+https://www.solidot.org/story?sid=30724	8100
+著名导演彼得·杰克逊通过其Facebook帐号<a href="https://www.facebook.com/notes/peter-jackson/an-unexpected-journey/10151114596546558">宣布</a>《指环王》前传《霍比特人历险记》将拍成三部曲，而不是原定的上下两集。《霍比特人》改编自J·R·R·托尔金的同名小说，讲述了霍比特人比尔博·巴金斯（Bilbo Baggins）与13矮人以及巫师甘道夫的冒险故事，他在冒险途中获得了索伦的魔戒。杰克逊说，《霍比特人》丰富的故事内容，加上《指环王》中的相关材料，让他们能讲述比尔博·巴金斯和中土大陆的完整故事。第一部《霍比特人：意外之旅》将于今年12月上映。
+➜乌拉圭考虑合法化大麻
+https://www.solidot.org/story?sid=30725	11700
+乌拉圭出口的农作物主要为大米、大豆和小麦，但不久后可能会被一种更复杂的作物——大麻——所替代。乌拉圭正在<a href="http://www.nytimes.com/2012/07/30/world/americas/uruguay-considers-legalizing-marijuana-to-stop-traffickers.html?_r=1&amp;pagewanted=all">考虑合法化大麻</a>。乌拉圭总统在一份计划中提出，“要在受管制的情况下，使大麻合法化”。乌拉圭计划将用户和贩毒者，大麻和海洛因等毒品分开。它考虑让大麻成为合法的、由国家垄断的产业。此举将意味着乌拉圭可能成为<a href="http://www.zaobao.com/gj/gj120731_014.shtml">世界上第一个大麻共和国</a>，合法化大麻的荷兰和葡萄牙政府都不参与交易。
+➜育碧发布补丁修复Uplay安全漏洞
+https://www.solidot.org/story?sid=30726	13500
+Google信息安全工程师Tavis Ormandy在安装《刺客信条：启示录》时发现，育碧DRM Uplay安装的浏览器插件UPlay PC Hub<a href="__SLASHLINK__" sect="games" sid="12/07/30/0730226" sn="article" tid="48">含有后门</a>，允许任何网站控制用户电脑。当插件安装之后，用户打开一个包含特殊 Javascript代码的网页链接后，它能启动 UPlay载入任意代码（<a href="http://pastehtml.com/view/c6gxl1a79.html">测试链接</a>会载入微软计算器）。育碧<a href="http://arstechnica.com/gaming/2012/07/ubisoft-drm-exploit-opens-pcs-to-security-risk/">已经发布补丁</a>修复安全漏洞，建议用户在不打开浏览器的情况下立即更新Uplay应用程序，修正后的插件将只允许启动 UPlay程序。育碧表示它是严肃对待安全问题。
+➜解决交通堵塞，花钱请人们早起
+https://www.solidot.org/story?sid=30727	19680
+交通堵塞是城市的一大顽症，中国最近流行的通用做法是限行和限制购买汽车。斯坦福电机工程和计算机科学教授<a href="http://www.stanford.edu/~balaji/">Balaji Prabhakar</a>有个想法：与其惩罚司机，<a href="http://arstechnica.com/business/2012/07/want-to-fix-traffic-pay-people-to-get-up-and-go-earlier/">不如奖励早起的司机</a>。如果经济激励能鼓励司机在早晨八、九点黄金时间之前或之后出行？将流量从高峰时段卸载到非高峰时段，拥堵将会明显减轻，Prabhakar教授说，不需要改变所有人的行为，事实上也不值得去转变所有人。UCLA城市规划教授Donald Shoup说，人们爱激励不爱惩罚，这就是为什么旅馆愿意给早起的人折扣，而不是增加晚到客户的费用。
+➜照片显示留在月球上的美国国旗仍在飘扬
+https://www.solidot.org/story?sid=30728	21000
+NASA月球轨道勘测器拍摄的照片显示，阿波罗宇航员留在月球上的大部分美国国旗<a href="http://www.bbc.co.uk/news/science-environment-19050795">仍然屹立不倒</a>。阿波罗计划中的每一次登月任务中，宇航员都会在月表土壤上插一面美国国旗。先前检查登陆地点照片的科学家发现了疑似旗帜的倒影，但这不能称得上定论。现在，研究人员分析了同一地点一天内不同时间拍摄的照片，观察到了围绕旗帜所在点的倒影。 月球勘测轨道器照相机项目首席科学家Mark Robinson说，他对于旗帜能在如此严酷的环境中生存下来感到惊讶。
+➜国立成功大学指控苹果Siri侵犯专利
+https://www.solidot.org/story?sid=30729	23100
+台湾国立成功大学向美国法院<a href="http://www.reuters.com/article/2012/07/30/us-apple-patent-taiwan-idUSBRE86T0A920120730">起诉苹果公司</a>，称其Siri语音助手侵犯王骏发教授的专利，包括：语言识别系统和行程助理功能。成大技转中心法务经理陈锡山<a href="http://tw.news.yahoo.com/%E6%88%90%E5%A4%A7%E6%8E%A7%E5%91%8A%E7%BE%8E%E5%9C%8B%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AA%9E%E9%9F%B3%E7%B3%BB%E7%B5%B1%E4%BE%B5%E6%AC%8A-040501394--finance.html">表示</a>，这两项研发成果都已经在台湾和美国完成专利申请，申请专利的目的就是要排除技术在未取得授权的情况下遭到使用。因为成本高，台湾学界过去很少打跨海专利官司。美方律师上个月来台访谈王骏发教授，认为胜诉机会相当大。
+➜好奇号登陆火星只差六天
+https://www.solidot.org/story?sid=30730	25200
+火星漫游车<a href="http://www.nasa.gov/mission_pages/msl/index.html">好奇号</a>将于美国东部夏令时8月6日1:31 a.m.(北京时间1：31 p.m.)登陆火星表面，成功登陆后它将用两年时间探索火星。飞船的两个推进器在7月29日点火六秒调整轨道，在最终登陆前它还将预计完成最后两次飞行路线修正。好奇号将以每秒5900米的速度进入火星大气层。火星科学实验室<a href="http://www.nasa.gov/rss/msllanding_update.xml">正进入</a>到了最后的再入、下降和着陆阶段。西门子发表<a href="http://phys.org/news/2012-07-mars-rover-digitally.html">新闻稿</a>称，好奇号是用它的软件设计的。
+➜新工具破解VPN和无线加密密码
+https://www.solidot.org/story?sid=30731	27120
+安全和隐私研究员Moxie Marlinspike在DEF CON年度安全会议上发布了新的工具<a href="https://github.com/moxie0/chapcrack/blob/master/README.md">ChapCrack</a>，<a href="http://threatpost.com/en_us/blogs/new-tool-moxie-marlinspike-cracks-some-crypto-passwords-073012">能破解</a>利用微软<a href="http://technet.microsoft.com/en-us/library/cc957983.aspx">MS-CHAPv2</a>协议加密的VPN和无线网络。MS-CHAPv2算法被部分PPTP（点到点隧道协议）实现用于安全握手协商。ChapCrack工具能从捕捉到MS-CHAPv2网络握手数据包中移除相关证明，最终破解用户的加密密码。Marlinspike建议PPTP VPN方案供应商和用户立即换用不同的加密协议。
+➜苹果三星25亿美元专利诉讼是“矩形之战”
+https://www.solidot.org/story?sid=30732	29520
+苹果起诉三星的25亿美元专利案本周一在加州圣何塞开庭，双方从超过70名候选名单中选出了<a href="http://arstechnica.com/tech-policy/2012/07/apple-v-samsung-jury-selection-cuts-one-apple-employee-and-a-googler/">10名陪审员</a>，7男3女，包括硬盘行业的资深电子工程师，家庭主妇，建筑工人，失业男子，保险业务员，前海军航空技师，系统工程师，自行车零售店经理。候选名单中的苹果公司雇员和Google公司雇员都被剔除了出去。三星首席产品官Kevin Packingham接受《连线》采访时表示<a href="http://www.wired.com/gadgetlab/2012/07/samsung-chief-product-officer-q-and-a/">他们在为矩形而战</a>。
+➜湾流为迎合中国将G250改名为G280
+https://www.solidot.org/story?sid=30733	30300
+湾流航空公司去年将G250支线客机改名为<a href="http://en.wikipedia.org/wiki/Gulfstream_G280#Gulfstream_G280">G280</a>，理由是在某些文化中280比250更容易接受。《财富》的一篇文章指出这显然是<a href="http://app.fortunechina.com/blog/gmt8/archives/103">为了迎合</a>快速增长的中国私人航空市场，“G250”在中文和中国文化里的寓意及联想都不太好。在普通话中，“250”有“愚蠢”之意，如果说一个人“250（二百五）”，也就是说他“傻”。这种说法源于中国古代文化，与当年使用的铜钱吊子有关。那时每吊钱有一百枚，相当于一个标准的价值单位。半吊钱（半吊子）也就是500枚，后来演变成暗指某人或者某事不符合标准，而如果再减去一半——只剩下250（二百五）——那就意味着一个人或者一件事真的很“缺”。
+➜法庭判决男子在两年内禁止使用Facebook
+https://www.solidot.org/story?sid=30734	33900
+一位澳大利亚维多利亚州男子去年在Facebook上建立了一个网页，邀请用户为他们过去的性伴侣进行排名和发表评论。在一位女子投诉性侮辱之后，警方展开了调查。22岁的Joshua Turner承认利用在线服务发表不良信息，他被法庭判决在两年内<a href="http://www.abc.net.au/news/2012-07-31/a-court-bans-a-man-from-using-facebook/4167098">禁止使用</a>Facebook。
+➜嫦娥三号将在明年下半年发射
+https://www.solidot.org/story?sid=30735	35100
+国防科工局<a href="http://scitech.people.com.cn/n/2012/0731/c1007-18634073.html">宣布</a> <a href="http://zh.wikipedia.org/wiki/%E5%AB%A6%E5%A8%A5%E4%B8%89%E5%8F%B7">嫦娥三号</a>月球探测器将于明年下半年发射。它将携带中国第一艘月球车，实现中国首次月面着陆。嫦娥三号重3700公斤，而嫦娥一号和二号只有2350公斤。它由着陆器和巡视器（月球车）组成，着陆器将利用火箭反冲降速着陆月球表面。
+➜发明电子邮件@符号的人
+https://www.solidot.org/story?sid=30736	39600
+电子邮件信息交换可以上溯到1960年代和MIT的相容分时系统(Compatible Time-Sharing System, CTSS)。CTSS本质上是一台其他人可以远程登录的巨大电脑。通过将文件储存在CTSS的磁盘上，用户彼此可以交换信息。1961年，名叫Tom Van Vleck的男子发明了mail命令，让用户可以向其他人发送消息。但信息并不是真的在网络中传播，它们仍然储存在一台单一电脑上。Ray Tomlinson设计了更优秀更简单的通信系统——它变成了阿帕网的SNDMSG命令——向基于@符号的地址发送信息，@前面是用户名字，后面是发送位置，也就是主机。<a href="http://www.wired.com/wiredenterprise/2012/07/ray-tomlinson-email/">Tomlinson回忆道</a>，他凝视着键盘，考虑用什么符号才不会与用户名字混淆起来，他发现用户使用字母数字逗号斜杠括号，除了@。@符号是键盘上唯一一个前置词。
+➜“女士儿童优先”是神话
+https://www.solidot.org/story?sid=30737	41760
+瑞典乌普萨拉大学研究人员<a href="http://www.abc.net.au/science/articles/2012/07/31/3554854.htm">研究了</a>1850年到2011年发生的18起海难，其中16起此前未被研究过。研究人员<a href="http://www.pnas.org/content/early/2012/07/23/1207156109">发现</a>，只有1852年的HMS Birkenhead和泰坦尼克两起海难女士幸存人数高于男士。在泰坦尼克海难中，超过70%的女士幸存，相比之下只有不到20%的男生幸存。而其它16起海难中，女士生存率平均不到30%，男士生存率接近40%。在泰坦尼克海难中，船长发出了明确的女士儿童优先的命令，因此女士的生存率<a href="http://www.newscientist.com/article/dn22119-sinking-the-titanic-women-and-children-first-myth.html">才远远超过男士</a>。研究人员发现，在18起海难中，船长比乘客更可能活下来，而英国遇难轮船上的女士最不幸。由于泰坦尼克号受到太多关注，才会给人留下“女士儿童优先”的印象。

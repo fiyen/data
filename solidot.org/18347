@@ -1,0 +1,36 @@
+➜Google Chrome 将逐步停止支持 user agent
+https://www.solidot.org/story?sid=63932	9128
+Google 宣布 Chrome 浏览器将逐步停止支持用户代理字符串（User-Agent string），改用新 API <a href="https://github.com/WICG/ua-client-hints"><u>Client Hints</u></a>，“给予用户更好的控制与网站共享的信息”。在现实中，Google 是<a href="https://news.ycombinator.com/item?id=22685018"><u>少数</u></a>利用 User-Agent 限制其它浏览器使用其服务的大型公司，此外因 Chrome 的高占有率很多网站也是专为其优化的，这种局面促使其它浏览器伪造 User-Agent <a href="https://www.solidot.org/story?sid=60388" target="_blank"><u>冒充 Chrome</u></a>。用户代理字符串的使用可追溯到 1990 年代初的 Mosaic 浏览器，浏览器访问网站时会发送包含浏览器名字和版本号的字符串，Netscape 之后采用了用户代理字符串并加入了额外的信息如操作系统和语言。网站则根据用户代理字符串信息避免使用特定浏览器版本不支持的功能。Chrome 将从 v81 开始逐步停止支持 User-Agent，到 v85 完全停止支持。目前还不知道其它浏览器是否会采取类似的行动。
+➜新冠对年轻人的风险
+https://www.solidot.org/story?sid=63933	20496
+不同年龄段对新冠<a href="https://www.bbc.com/zhongwen/simp/science-52031589"><u>有着不同的风险</u></a>。目前来看，年长者依旧是风险最高的群体。帝国理工大学研究人员发现，年龄与住院几率存在联系，而且年长者一旦住院有更大几率需要重症监护。在 50 岁以下的人群中，不到 5% 的人因症状原因需要住院治疗，而在 70-79 岁年龄段的人中，这个比例是 24%。根据中国与意大利病例情况得出的推算显示，在 80 岁以上年龄段中，这个比例高至 71%。 美国疾病控制与预防中心（CDC）表示，早期数据显示，53% 的住院患者年龄在 55 岁以上，这意味着一般的人年龄更小。但在重症监护患者及死亡病例数字而言，年龄最大群体的比例要高出许多（80% 的死亡病例为 65 岁以上人士）。无论年龄大小，基础病症在其中也起到了一定作用。他们的症状可能非常轻微，甚至没有任何症状，因此意识不到自己具有传染性。目前看来新冠病毒比流感的传染性更强。
+➜O'Reilly 永久关闭其会议组织
+https://www.solidot.org/story?sid=63934	22583
+著名科技媒体 O'Reilly 认为新冠疫情将会推动线上会议模式的发展，<a href="https://www.oreilly.com/conferences/from-laura-baldwin.html" target="_blank"><u>因此做出决定终止线下会议业务</u></a>，裁掉部分雇员。O'Reilly 称 COVID-19 病毒对其线下会议部门有着实质性影响，它最近宣布取消了 Strata California 和 Strata London 会议。现在它做出了一个困难的决定，取消未来所有的 O'Reilly 会议，并永久性的关闭这一业务。随着大型科技供应商完全转向线上会议，O'Reilly 认为这将成为新常态。
+➜苹果回应 Web APP 的数据删除问题
+https://www.solidot.org/story?sid=63935	24326
+苹果刚刚<a href="https://www.solidot.org/story?sid=63926"><u>宣布</u></a> Safari 浏览器将默认完全屏蔽第三方 Cookie，同时它还决定对储存在本地的脚本写入数据设置一个 7 天过期的时间，如果用户在 7 天内没有与相关网站有任何互动，那么数据将会自动删除。这一决定招致了批评，<a href="https://ar.al/2020/03/25/apple-just-killed-offline-web-apps-while-purporting-to-protect-your-privacy-why-thats-a-bad-thing-and-why-you-should-care/"><u>认为</u></a>苹果在保护隐私的名义下事实上杀死了离线 Web APP。苹果<a href="https://twitter.com/johnwilander/status/1242882202301427712"><u>更新</u></a>了它的博文，对此问题做出了进一步的<a href="https://webkit.org/blog/10218/full-third-party-cookie-blocking-and-more/"><u>阐述</u></a>：苹果称添加到主屏幕的 Web APP 将有自己的使用天数计数器，对其的使用将会重置计数器，苹果表示它不认为 Web APP 中的第一方会遭遇网站数据删除问题。
+➜AMD GPU 部分源代码遭黑客窃取
+https://www.solidot.org/story?sid=63936	25184
+AMD <a href="https://www.amd.com/en/corporate/data-update"><u>发表声明</u></a>，证实部分 GPU 相关文件被盗，但表示不是核心技术，正与执法机构合作对此展开调查。上周，自称 xxXsoullessXxx 的用户在 GitHub 创建了名为 AMD-navi-GPU-HARDWARE-SOURCE 的项目，AMD 随后发出了<a href="https://github.com/xxXsoullessXxx/AMD-navi-GPU-HARDWARE-SOURCE"> DMCA 通知</a>，而 GitHub 则迅速将库下架。黑客联络媒体<a href="https://torrentfreak.com/amd-uses-dmca-to-mitigate-massive-gpu-source-code-leak-200325/"><u>声称</u></a>，她(其女性身份存疑)于2019 年 11 月在一台被入侵的计算机上发现了 AMD Navi GPU 硬件源代码。计算机没有安全保护，而里面的文件甚至没有加密。黑客称，源代码涉及 Navi 10 和 Navi 21 设备，微软即将发布的下一代主机 Xbox Series X 使用了 Navi 21 和 Arden。黑客称这些文件价值一亿美元，如果找不到买家，她会将其全部公开。
+➜HPE 再次警告部分固态硬盘因固件问题会在四万小时后停止工作
+https://www.solidot.org/story?sid=63937	28850
+去年 11 月，HPE <a href="https://www.solidot.org/story?sid=62754"><u>警告</u></a>它的的部分型号固态硬盘因为有缺陷的固件会导致其在通电时间 32,768 小时或 3 年 270 天 8 小时之后停止工作，硬盘里的数据会丢失并无法恢复。现在，HPE 又发出了类似的<a href="https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&amp;docId=a00097382en_us"><u>警告</u></a>，但表示问题并不相关。这次的固件问题会导致固态硬盘在工作 4 万小时也就是 4 年 206 天 16 小时或停止工作。根据受影响型号制造和出售的时间，故障最早将在今年 10 月发生。它已经释出了新版固件，建议客户尽可能快的更新，如果不及时安装更新 HPE 警告固态硬盘里的数据可能会丢失。
+➜Github pages 可能遭遇中间人攻击
+https://www.solidot.org/story?sid=63938	32311
+<a href="https://pages.github.com/" target="_blank"><u>Github pages</u></a> 可能遭遇中间人攻击。中国 IP 访问会显示一个无效的证书，域名所有者使用了一个腾讯的邮箱“346608453@qq.com”，Github 显然不可能会用腾讯邮箱。使用境外 IP 访问则返回了 DigiCert 签发的有效证书，使用的名字都是 GitHub。目前不清楚中间人攻击范围有多大。
+➜疫情下各国强化监控
+https://www.solidot.org/story?sid=63939	34922
+在韩国，政府机构正在利用监控录像、智能手机的位置数据和信用卡消费记录来帮助追踪冠状病毒患者的近期活动，并确立病毒传播链。在意大利伦巴第，当局正在分析市民手机传送的位置数据，以确定有多少人遵守政府的封锁令，以及他们每天通常行走的距离。一位官员最近说，大约有40％的人走动得“太多”。在以色列，内务安全部门准备开始使用手机位置数据的缓存——最初是用于反恐行动——以精确寻找可能已感染该病毒的国民。随着世界各国争分夺秒地遏制这一大流行，许多国家<a href="https://cn.nytimes.com/technology/20200326/coronavirus-surveillance-tracking-privacy/" target="_blank"><u>正在部署数字监视工具</u></a>，用于施加社会控制，甚至将安全机构的技术用在自己国民身上。卫生和执法部门有理由如此迫切地使用所有可用的工具来阻止病毒传播——即使这样使用监控有可能在全球范围内改变公共安全与个人隐私之间的脆弱平衡。
+➜瘟疫公司开发新模式让玩家控制传染病
+https://www.solidot.org/story?sid=63940	35989
+策略游戏《瘟疫公司》的核心玩法是玩家设法让病毒传遍世界消灭人类。在新冠状病毒疫情之下，《瘟疫公司》的开发商 Ndemic Creations <a href="https://www.ndemiccreations.com/en/news/175-plague-inc-gives-a-quarter-of-a-million-dollars-to-fight-covid-19"><u>宣布</u></a>它正在开发一个相反的游戏模式：在疫情大流行下拯救人类。每当发生疫情，这个基于传染病模型的知名策略游戏就会引发关注。新冠爆发之初，有八年之久的《瘟疫公司》又一次进入了游戏畅销榜。但它在中国引发的关注导致了它从 Steam 和苹果应用商店的中国区下架。Ndemic Creations 宣布向 Coalition of Epidemic Preparedness Innovations 和 WHO COVID-19 Solidarity Response Fund 捐赠 25 万美元，并鼓励玩家捐款共同抗击疫情，表示它正在加速开发新的游戏模式。
+➜暗网托管商 Daniel's Hosting 再次被黑
+https://www.solidot.org/story?sid=63941	44630
+最大的暗网托管商 Daniel's Hosting <a href="https://www.zdnet.com/article/dark-web-hosting-provider-hacked-again-7600-sites-down/"><u>再次被黑</u></a>，数据库被删除，托管的 7600 个网站全部下线。它上一次被黑<a href="https://www.solidot.org/story?sid=58649" target="_blank"><u>发生在 2018 年 11 月</u></a>，这一次发生在 3 月 10 日，站长 Daniel Winzen 在一份声明中称，攻击者访问了服务的后端，删除了所有托管相关的数据库，攻击者随后还删除了 Winzen 的数据库账号，创建了一个新的账号。Winzen 是在第二天发现入侵的，但为时已晚。他的服务设计没有备份——如果有备份的话托管商可能会收到法庭的传票，如果其托管的某个网站遭到调查的话——意味着数据无法恢复。Winzen 表示他不知道黑客是如何入侵的，表示现在忙其它项目，没时间调查。
+➜扩大社交距离降低了其它疾病的传播
+https://www.solidot.org/story?sid=63942	51010
+世界各国政府正努力让公民远离人口密集地区，以减缓冠状病毒 Covid-19 的传播。但扩大社交距离的措施无意中<a href="https://science.slashdot.org/story/20/03/26/0112245/social-distancing-is-slowing-not-only-covid-19-but-other-diseases-too"><u>还减缓了其它流行传染病的传播</u></a>，比如季节性流感。对历史数据和当前数据的比较发现：3 月 19 日，美国人出现类似流感症状的比例为 4.9%，而通常是 4.0%。研究人员认为这可能是 Covid-19 扩散的结果。但到了 3 月 23 日，这一比例降至了 3.3%，而往常的数据是 3.7%。短短四天类流感症状的比例就从比过去高 0.9% 变为比过去低 0.4%。这种跌幅是以往没有见过的。流感和 Covid-19 类似，主要通过接触传播。
+➜日本工程师将出售 1470 万 IPv4 地址
+https://www.solidot.org/story?sid=63943	53068
+日本工程师 Jun Murai <a href="https://www.theregister.co.uk/2020/03/26/apnic_jun_murai_ipv4_auction/" target="_blank"><u>宣布</u></a>将出售其持有的 43/8 IPv4 地址段，出售所得将用于推动亚太地区 IPv6 的发展。Murai 是日本的互联网之父，在互联网的早期获得了多达 1470 万地址的 IPv4 地址段。大部分地址都没有分配出去。目前 IPv4 地址的单价在 20 到 30 美元之间，1470 万地址价值 2.94 亿到 4.41 亿美元之间。APNIC 同意设立一个信托去处理交易。

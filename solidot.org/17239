@@ -1,0 +1,43 @@
+➜LLVM 4.0.0 发布
+https://www.solidot.org/story?sid=51676	11734
+LLVM 项目宣布改变版本方案，每发布一个大版本将增加一个版本号，最新释出的大版本是 <a href="http://lists.llvm.org/pipermail/llvm-announce/2017-March/000073.html" target="_blank"><u>LLVM 4.0.0 </u></a>，下个大版本将是 LLVM 5.0.0，4.0 系列的更新将使用 4.0.x 版本号发布。4.0.0 的<a href="http://releases.llvm.org/4.0.0/docs/ReleaseNotes.html" target="_blank"><u>主要特性</u></a>包括：ThinLTO 整合配置数据 (PGO)，实验性支持<a href="http://releases.llvm.org/4.0.0/docs/Coroutines.html" target="_blank"><u> Coroutines</u></a>，Regcall 和 Vectorcall 调用约定，实验性支持 AVR 后端，改进优化和修正 bug 等等。开发者特别在发布声明中感谢了 Zhendong Su 团队的测试。<a href="http://web.cs.ucdavis.edu/~su/" target="_blank"><u>Zhendong Su</u></a> 是加州戴维斯的计算机科学教授，他的团队在 GCC 和 LLVM 编译器中发现了 1228 个 bug，修复了 692 个。
+➜美国空军无人机飞行员数量将超过其它任何军用飞机
+https://www.solidot.org/story?sid=51677	13435
+美国空军无人机远程操作员/飞行员的数量<a href="https://arstechnica.com/tech-policy/2017/03/air-force-weve-got-more-drone-pilot-jobs-available-than-for-any-other-aircraft/" target="_blank"><u>将超过</u></a>其它任何类型的军用飞机。空军的 Darryl Roberson 中将说他当年加入空军时从来没有想到有一天会这么说。举例来说，2017 财年计划的 MQ-1 Predator 和 MQ-9 Reaper 的飞行操作员数量将超过 1000人。相比之下 C-17 全球霸王 III 军用运输机的飞行员数量接近  900 人，而 F-16 战斗机的飞行员数量是 803 人。美国空军计划在明年退役 MQ-1 Predator，将全部使用 MQ-9 Reaper。
+➜雅虎 CEO 将获得 2300 万美元离职补偿
+https://www.solidot.org/story?sid=51678	18402
+根据雅虎递交到 SEC 的<a href="https://investor.yahoo.net/secfiling.cfm?filingID=1193125-17-79185&amp;CIK=1011006" target="_blank"><u>文件</u></a>，雅虎 CEO Marissa Mayer 将获得 23,011,325 美元的离职补偿。雅虎将核心资产出售给
+Verizon 之后将变成一家控股公司，主要资产是其持有的阿里巴巴和雅虎日本股权。Mayer 将继续担任 CEO 直至交易完成，之后其职务将由董事 Thomas McInerney&nbsp; 执掌，她同时将退出雅虎董事会。Mayer 的离职补偿包括近 302 万美元现金以及此前被授予的限制性股票带来的约 2000 万美元收益。离职补偿<a href="http://cn.wsj.com/gb/20170314/tec120943.asp" target="_blank"><u>不包括</u></a> Mayer 截至 3 月 8 日所持的价值 5,680 万美元的近 290 万股股票期权。雅虎和 Verizon 预计将在今年第二季度完成收购交易。
+➜Facebook 和 Instagram 禁止将用户数据用于监视
+https://www.solidot.org/story?sid=51679	18763
+Facebook 及旗下的 Instagram <a href="https://www.facebook.com/fbprivacy/posts/1624880004207125" target="_blank"><u>宣布</u></a>禁止第三方开发商将用户数据用于监视。美国公民自由联盟（ACLU）去年 10 月<a href="http://www.solidot.org/story?sid=50064" target="_blank"><u>披露</u></a>，芝加哥创意公司 Geofeedia 通过访问 Facebook、Instagram 和 Twitter 的用户数据，向执法部门提供监视目的的服务。在报道公开之后，Facebook、Instagram 和 Twitter 切断了 Geofeedia 对其服务的 API 访问。Facebook 现在更新了政策，明确禁止将数据用于监视，它在声明中表示过去几个月对提供监视服务的开发商采取了强制行动，希望确保每个人都能理解和遵守政策。
+➜IP 地址输错导致无辜者因儿童色情被捕
+https://www.solidot.org/story?sid=51680	26876
+2011 年 7 月一个周六的早晨，44岁的 Nigel Lang 和他的伴侣及 2 岁的儿子都在家中，一男两女三个人敲门询问他是否住在这个地址，得到确认后他们公开警察身份，以怀疑持有儿童色情为由逮捕了他。警察同时扣押了他的电脑。这起事件严重影响了 Lang 的生活，警方没有找到任何与儿童色情相关的证据，他被证明是一位无辜者。错误的逮捕是警方的失误导致的，当他们从 ISP 获得与儿童色情关联的 IP 地址时，<a href="https://www.buzzfeed.com/matthewchampion/this-mans-life-was-destroyed-by-a-police-typo?utm_term=.vdA5xv3R4q#.mbbqzREb4O" target="_blank"><u>警察不小心在 IP 地址里加入了一个数字</u></a>。错误的 IP 地址导向了 Lang 的住址。整件事拖了几年时间才解决，2014 年 8 月 Lang 从警方收到了一封道歉信，表示将从数据库里删除错误的逮捕记录。Lang 感到释然，同时也感到愤怒。警方最终为错误的逮捕支付了 6 万英镑的补偿。
+➜网盘盗版已成一条龙服务
+https://www.solidot.org/story?sid=51681	30064
+《南方都市报》<a href="http://m.mp.oeeee.com/a/BAAFRD00002017031129909.html" target="_blank"><u>报道了</u></a>基于社交网络和百度网盘的盗版一条龙服务，更值得的一提的是这种服务不是免费而是收费的。报道称，<i>“不少商家通过电商平台出售热播剧集的盗版资源。一家网店的客服人员称，2.8 元可以购买到剧集的‘泄露版’和‘完整版’，除此之外，《鬼怪》、《蓝色大海的传说》等热播韩剧也有出售，价格在 0.5 至 3 元之间。这些资源通常储存在百度云网盘中，买家付款后，卖家便会发出一个网盘链接和提取码，买家保存到自己网盘后，随时可以看到全部资源以及更新剧集。由于其分享的便利性，主张个人存储、下载、分享的百度网盘，目前已经成为视频领域侵权的重灾区。通过论坛、贴吧、即时通讯工具、微博、自建网站等通道，网盘实现了用户间的内容共享和传播，形成一个盗版资源传播的闭环。除了影视剧资源外，原创音乐与原创文学也深受侵权之害。”</i>
+➜官媒警告 QR 码欺骗
+https://www.solidot.org/story?sid=51682	30789
+微信和支付宝的流行带动了 QR 码支付的普及，利用移动支付应用，你无需携带现金就可以在线下购物和支付服务。但 QR 码支付的流行也助长了诈骗。官媒<a href="http://www.chinadaily.com.cn/opinion/2017-03/02/content_28400890.htm" target="_blank"><u>报道称</u></a>，广州报告有大约 9000 万元被通过 QR 码欺骗盗走。因为 QR 码是难以识别模式的条纹，用户不容易区分真伪，很容易被恶意滥用，比如传播恶意程序，或者今天流行的骗钱。例如，共享单车是通过扫描 QR 码解锁，欺骗者将自己的 QR 码贴在自行车上，诱骗使用共享单车的用户向其账号转移钱。香港科技大学网络安全实验室主任 Charles Zhang 副教授称，从网络安全的角度看， QR 码没有内在的安全漏洞，但容易被滥用，<a href="https://www.techinasia.com/fake-qr-code-scams-china" target="_blank"><u>就像 HTTP</u></a>。
+➜网络安全专家起诉前雇主无情
+https://www.solidot.org/story?sid=51683	32456
+Don Davis 是一位有 30 年经验的网络安全专家，两年前他从英国国防承包商 BAE Systems 的波士顿子公司得到了一个工作，当时他的妻子 Elisabeth Traumann 因晚期癌症即将去世。他在工作的第一天告诉了上司他妻子的情况，表示他能完成一周 40 小时工作，其余时间如果公司需要他只能在家中办公，因为需要照顾妻子。上司表示没问题。但之后他在人力资源部门遇到了麻烦，HR 坚持要求 24/7 的办公室服务。不久上司召唤了他，通知他工作已经取消，他只在公司呆了 4 小时。他的妻子在两个月后去世。Davis 最近对 BAE 提起了诉讼，指控该公司不关心雇员工作和生活的平衡。BAE 发表声明予以否认，声称它重视平衡工作和生活，为雇员提供了灵活的工作时间。Davis&nbsp; 表示不会与 BAE 和解，他是一位基督徒，他必须谅解别人，<a href="http://www.bostonglobe.com/metro/2017/03/13/the-soullessness-machine/rpljPWdV7gSVlBdMoygDXP/story.html" target="_blank"><u>但不会原谅企业</u></a>。
+➜Nintendo Switch 的 WebKit 包含已知漏洞
+https://www.solidot.org/story?sid=51684	34152
+Nintendo Switch 已经上市两周，有开发者发现系统自带的 WebKit 浏览器引擎<a href="https://arstechnica.com/gaming/2017/03/nintendo-switch-ships-with-unpatched-6-month-old-webkit-vulnerabilities/#p3" target="_blank"><u>包含已知的漏洞</u></a>。这些漏洞允许在浏览器内执行任意代码，曾被阿联酋用于劫持政治异议人士的 iPhone 手机窃取通讯簿和呼叫历史等敏感信息，苹果早在去年 8 月就释出了补丁修复了漏洞。这些漏洞对 Nintendo Switch 的威胁级别比较低，因为它不像 iPhone 手机那样包含敏感信息，此外游戏机也没有独立的浏览器。
+➜我们没有失去对个人数据的控制，它是被偷走的
+https://www.solidot.org/story?sid=51685	41238
+万维网之父蒂姆 - 伯纳斯李爵士发表公开信，列举了<a href="http://www.solidot.org/story?sid=51662" target="_blank"><u>互联网的三大问题</u></a>，其中之一是失去对个人数据的控制。但 Aral Balkan <a href="https://ar.al/notes/we-didnt-lose-control-it-was-stolen/" target="_blank"><u>认为</u></a>，我们并没有失去对个人数据的控制，数据是被偷走的。我们的数据被硅谷偷走，被数据农夫偷走，被数据中间商，被数字广告行业，被 Google 和 Facebook 偷走的。Google 和 Facebook 不是我们争取一个公平未来的盟友，而是敌人。它们的垄断性平台就是收集人类数据的工厂，从我们身上收集每一滴的数据。不是所有人都支持他的观点，<a href="https://tech.slashdot.org/story/17/03/13/1410208/we-didnt-lose-control-of-our-personal-data----it-was-stolen-from-us-by-people-farmers" target="_blank"><u>不同意见的人认为</u></a>，Google 和 Facebook 是通过交易获取到用户的数据，它们以免费的产品换取用户的数据。真正偷窃数据的是政府而不是企业。<br>
+➜日本从中国旅客携带生肉中检出禽流感
+https://www.solidot.org/story?sid=51686	41427
+中国最近爆发了<a href="http://www.solidot.org/story?sid=51442" target="_blank"><u>禽流感疫情</u></a>，这个疫情有多严重，我们可以从新闻中推断出来：日经<a href="http://cn.nikkei.com/politicsaeconomy/politicsasociety/24161-2017-03-14-09-28-10.html" target="_blank"><u>报道</u></a>，日本农林水产省动物检疫所周一表示，从中国旅客未经许可试图携带入境的生鸡鸭肉中检测出高致病性禽流感病毒。由于中国等地禽流感持续蔓延，动物检疫所与北海道大学从 2015 年 6 月开始实施相关调查。截至 2017 年 2 月，在成田、羽田机场等全国 9 处机场和港口，针对检疫所没收的生鸡鸭肉及蛋类等 228 个检疫对象进行了调查。结果，从中国旅客试图携带入境的鸡肉和鸭肉等共 3 份肉类中检出了 H5N1 型和 H5N6 型高致病性禽流感病毒。此外，还曾在 2016 年 4～6 月从中国旅客携带的鸭肉中检出了 H7N9 型禽流感病毒，目前中国南方等地多人感染该病毒。
+➜闪存芯片涨价笔记本 SSD 容量预计维持不变
+https://www.solidot.org/story?sid=51687	43327
+笔记本电脑厂商今年不太可能增加笔记本的 SSD 固态硬盘的容量，原因是 NAND 闪存芯片的短缺<a href="http://www.computerworld.com/article/3180176/data-storage/why-laptops-wont-come-with-larger-ssds-this-year.html" target="_blank"><u>推动了</u></a> SSD 产品价格的上涨。根据 DRAMeXchange 的<a href="http://press.trendforce.com/press/20170313-2776.html#DLvyeTlICQxiOzBi.99http://press.trendforce.com/press/20170313-2776.html" target="_blank"><u>一份报告</u></a>，今年发货的笔记本电脑近一半将配备 SSD。配备 SSD 的笔记本电脑在 2016 年 Q4 的比例是 35~36%。报告称，提供给 PC 行业的 MLC SSD的合同价格预计将比 2016 年 Q4 高 12%-16%，TLC SSD 的价格预计将上涨 10%-16%。由于闪存芯片的短缺和价格上涨，主流电脑的 SSD 存储规格预计将会维持在 128GB 和 256GB 范围内。
+➜政协委员提议开放互联网，但无人理睬
+https://www.solidot.org/story?sid=51688	44890
+在今年的两会上，有两位政协委员提议开放互联网。其中之一是政协副主席、民进中央第一副主席罗富和<a href="http://www.solidot.org/story?sid=51570" target="_blank"><u>建议提高访问境外网站的速度</u></a>，这一新闻随后遭到了审查。还有一位来自香港的政协委员提议开放互联网，但在会议结束前根本无人报道。在江西省管理着一个陶艺坊的香港居民 Caroline Cheng Yi 递交建议，呼吁允许访问境外与贸易、商业和学术研究相关的网站，比如谷歌学术搜索。她<a href="http://www.scmp.com/news/china/policies-politics/article/2078350/chinas-internet-censorship-under-fire-two-sessions" target="_blank"><u>接受《南华早报》采访时说</u></a>，她使用 Facebook 向世界推广中国陶瓷，在屏蔽之后，她要么只能在返回香港后访问，要么只能使用 VPN，而 VPN 常常不稳定。她认为，不能访问 Facebook 让中国失去了很多机会。封锁 Facebook 也关闭大陆和香港的年轻人彼此互相理解和交流的一个通道。在她的提议中，她指出中国的国有媒体和地方政府都在 Facebook 和 Twitter 建立了宣传性账号，她认为这种做法从长期看会引发民愤。她的提议得到了其他政协委员的支持，其中之一是清华大学的癌症专家 Luo Yongzhang，他称审查增加了他工作的难度，没有谷歌他只能使用百度，但 百度只能搜索中文，没有英文，搜索结果也不精确。他认为审查阻碍了学术研究的进步，科学家无法获得最新的信息或最精确的信息。他表示同意政府封锁政治敏感的信息，因为公众没有能力区分真假，但应该允许学术界访问谷歌搜索。<br>
+➜社交媒体的回声室效应是真的
+https://www.solidot.org/story?sid=51689	46120
+在一个信息无比丰富的时代，社交媒体显著改变了我们消费信息和形成观点的方法。危险之处在于，社交媒体<a href="https://arstechnica.com/science/2017/03/the-social-media-echo-chamber-is-real/" target="_blank"><u>创造了一种回声室效应</u></a>，用户所获取到的过滤后的信息绝大部分都是支持现有观点。根据发表在 PNAS 上的<a href="http://www.pnas.org/content/early/2017/02/28/1617052114" target="_blank"><u>一项研究</u></a>，社交媒体用户专注于他们感兴趣的新闻类型，倾向于围绕他们支持的新闻媒体建立界限清晰的社区，倾向于与观点相似的人建立联系，地理距离则属于次要。研究调查了 Facebook 上 3.76 亿英语用户的活动，分析他们在平台上与英文新闻源的互动，以及分享、点赞和评论。研究人员发现，他们通常是消费加强现有观点的新闻，更可能与有限的新闻来源互动，对新闻的消费通常是自我隔离和两极分化。我们对社交媒体的使用将会导致我们越来越少的与观点异于我们的人互动。

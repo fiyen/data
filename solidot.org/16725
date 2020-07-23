@@ -1,0 +1,13 @@
+➜机密文件揭露奥巴马无人机战争的内在运作
+https://www.solidot.org/story?sid=45829	50656
+从担任美国最高统帅第一天起，无人机就成为奥巴马总统最爱的武器，它被军方和中情局用于杀死政府认为值得杀死的目标，而整个程序是不公开，未经过任何的起诉或审判。无人机只是工具，而不是政策。美国的政策是暗杀，虽然它从来没有明说，它使用的是一个经过美化的词：定点清除（targeted killings）。当奥巴马当局公开谈论无人机袭击，它通常假定此类的行动比地面行动更为精确，而且只有迫在眉睫的危险发生时才会授权发起无人机袭击，并且几乎肯定预定目标被清除了。The Intercept<a target="_blank" href="https://theintercept.com/drone-papers/the-assassination-complex/"><u>披露了有关美国无人机战争的机密文件</u></a>，其中最为惊人的恐怕是：在五个月时间内美国的无人机袭击有90%击中了错误的目标。
+➜如何应对NSA对加密流量的拦截
+https://www.solidot.org/story?sid=45830	54135
+NSA能拦截和解密大部分的加密流量（包括HTTPS、SSH和VPN），一个原因是浏览器和服务器支持过时的512位长度的Diffie-Hellman密钥，另一个原因是NSA破解了DH常用的1024位素数。电子前哨基金会（EFF）<a target="_blank" href="https://www.eff.org/deeplinks/2015/10/how-to-protect-yourself-from-nsa-attacks-1024-bit-DH"><u>提供了简单的方法应对NSA的攻击</u></a>：从系统和浏览器中移除Diffie-Hellman算法支持。以Firefox为例：首先访问 <a href="https://www.howsmyssl.com/">How's My SSL?</a>了解浏览器支持哪些加密算法，你应该会注意到两个与Diffie-Hellman相关的算法—TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+和TLS_DHE_RSA_WITH_AES_256_CBC_SHA，另外一个ECDHE代表的是Diffie-Hellman的椭圆曲线版本，它是安全的。然后，在地址栏输入about:config，确认后在搜索栏内输入.dhe_，双击结果，将值true改成false。
+➜过去100年最具颠覆性技术是...冰箱
+https://www.solidot.org/story?sid=45831	56733
+创业公司喜欢谈论的一个名词是“颠覆性技术”，但过去100年最具颠覆性的技术可能与你想象中的不同：<a target="_blank" href="https://www.washingtonpost.com/news/wonkblog/wp/2015/10/14/the-most-disruptive-technology-of-the-last-century-is-in-your-house/"><u>冰箱</u></a>。冰箱彻底改变了人们的烹饪和食物保存方式。在冰箱诞生之前，食物只能保存数天，必须在数天内吃掉。冰箱的发明改变了这一切。智能手机、计算机和互联网确实显著的改变了我们的生活和工作方式，而电力、自来水、冲水马桶和集中供暖的普及推动了冰箱，吸尘器和洗衣机等电器设备的出现，颠覆性改变了我们的生活。人们花在准备食物、洗衣和清洁上的时间从1900年的每周58小时减少到1970年的18小时，我们可以花更多的时间在休闲和工作上，以前主要负责家务的女性可以去工作，实现经济上的独立。100年前，大部分已婚女性都呆在家里，如今她们中的大部分都是劳动力。
+➜警察要求测序公司提供客户的DNA
+https://www.solidot.org/story?sid=45832	59291
+当基因测序公司Ancestry.com和23andMe邀请人们递交DNA样本用于族谱跟踪和疾病诊断测试后，隐私倡导人士就警告这会创造一个巨大的遗传信息库，有一天可能会被执法机构用于对付参与者。因为DNA是破解案件的关键。五年之后，<a target="_blank" href="http://fusion.net/story/215204/law-enforcement-agencies-are-asking-ancestry-com-and-23andme-for-their-customers-dna/"><u>这一警告变成了现实</u></a>。Ancestry.com的数据库包含了Michael Usry父亲的遗传数据，而Michael Usry是一起未破的谋杀案嫌疑人，警方利用了这一数据，但Usry最终被判断是无辜的。23andMe则说它从州执法机构和FBI收到了的DNA信息提供要求，但它抵制了他们的要求。23andMe也准备学Google、Facebook和Twitter发布透明度报告，披露与政府有关的信息披露要求。

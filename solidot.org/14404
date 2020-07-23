@@ -1,0 +1,77 @@
+➜Opera Mini服务器小更新，版本升级至v4.10.404
+https://www.solidot.org/story?sid=11749	3600
+<a href="http://bbs.operachina.com/">linuxrocks</a> 写道 "今天我们升级了 Opera Mini 服务器，版本更新至 v4.10.404，主要更新如下：
+<i>
+- 修复某些站点下的字体大小问题<br>
+- 为小内存手机进行位图字体优化<br>
+- 更快的 JavaScript 对话框<br>
+- 修复一些下载问题<br>
+- 修复一些点击链接只是刷新页面的问题<br>
+- 改善的 feed 样式<br>
+- 一些站点修复<br>
+</i>
+这只是服务器端更新，大家无需重新下载 Opera Mini。欢迎使用<a href="http://mini.operachina.com/">Opera Mini 4.2 中国版</a>，采用国内服务器群组，速度比<a href="http://mini.opera.com/">国际版</a>更快！"
+➜解决Flickr加载缓慢的方法
+https://www.solidot.org/story?sid=11750	5400
+昨天，中国大陆用户能正常访问照片共享网站Flickr，但是页面响应速度极其缓慢，几乎让人无法忍受。<i>
+<a href="http://pahud.blogbus.com/logs/40728410.html">博客Pahud Presents</a>研究之后发现是与某个<a href="http://l.yimg.com/g/css/c_bo_selecta.css.v999.1244480036?css/bo_selecta.css.14">css请求</a>有关，估计是雅虎的CDN出现了问题。因此解决方法很简单：将l.yimg.com的IP地址指向其他能正常访问的地址即可，如台湾的地址——需要修改hosts，加入一行“119.160.254.215 l.yimg.com”（Windows用户文件地址是c:\windows\system32\drivers\etc\hosts，Linux/Mac用户文件地址是/etc/hosts）。</i>
+➜“绿坝-花季护航”一年使用费为4170万
+https://www.solidot.org/story?sid=11751	7800
+6月8日的《华尔街日报》报道，中国计划要求7月1日之后在华销售的所有个人电脑出厂时候安装<a href="__SLASHLINK__" sect="internet" sid="09/06/08/021253" sn="article" tid="120">阻止电脑访问某些网站的“绿坝-花季护航”软件</a>。从目前了解到的消息来看，确实真有其事。“绿坝-花季护航”官网公布了工业和信息化部的《<a href="http://www.lssw365.net/index.php/Content/index/pid/1/sort/11/id/513">关于计算机预装绿色上网过滤软件的通知</a>》。<i>
+通知称：工业和信息化部、中央文明办公室、财政部，使用中央财政资金购买了“绿坝-花季护航”的一年使用权和相关服务，供全社会免费使用。通知要求：中国境内生产的计算机出厂时应预装“绿坝-花季护航”最新版，进口计算机在中国销售前应预装“绿坝-花季护航”最新版；“绿坝-花季护航”软件应预装在计算机硬盘或随机光盘内，且在恢复分区和恢复光盘中作为备份文件；7月1日之后出厂和销售的计算机都应预装“绿坝-花季护航”软件，6月底完成软件的预装测试相关工作；计算机制造商要从2010年起每年3月底之前上报上一年数据；对于未预装，未及时上报数据的厂商，工业和信息化部将责令其限期整改。</i>
+根据《财经网》的报道，<a href="http://www.caijing.com.cn/2009-06-09/110179990.html">“绿坝-花季护航”一年使用费为4170万元</a>——其中郑州金惠计算机系统工程公司<a href="http://www.miit.gov.cn/n11293472/n11293832/n11294372/n11302979/11648170.html">获2180万元</a>，北京大正语言知识处理科技有限公司获1990万元。据称已装机数高达约5270万套。方正科技总裁蓝烨表示，此前在电脑下乡的电脑产品曾经有明文规定要求必须预装这一软件，因此电脑下乡的产品是全部预装了该软件。戴尔新闻发言人张飒英表示已接到通知，正在评估和研究具体的实施细节。
+➜Best Buy备忘录透露Windows 7升级费用
+https://www.solidot.org/story?sid=11752	9000
+一份来自美国最大电子产品零售商Best Buy的备忘录<a href="http://www.osnews.com/story/21637/Best_Buy_Memo_Reveals_Windows_7_Upgrade_Prices">透露了Windows 7升级费用</a>。<i>
+根据Best Buy的备忘录，免费的升级计划始于6月26日，终于10月22日——即Windows 7正式上市之时，期间用户购买的预装Vista新电脑可以免费升级到相应版本的Windows 7。可免费升级的版本包括Vista Home Premium，Business和Ultimate，Vista Home Basic不在此列。此外，备忘录透露，用户可以从6月26日起预订Windows 7。Windows 7Home Premium升级版的费用为49.99美元，Windows 7 Professional升级版的费用为99.99美元，Snow Leopard的升级费用为29美元。</i>
+➜瑞典反盗版律师改名为“海盗（Pirate)”
+https://www.solidot.org/story?sid=11753	11100
+Torrentfreak<a href="http://torrentfreak.com/pirate-bay-nemesis-has-name-changed-by-pranksters-090607/">报道</a>，海盗湾的对头，瑞典反盗版机构Antipiratbyrån的律师Henrik Pontén，最近收到瑞典税务局的通知，称他的改名申请已得到批准，<a href="http://yro.slashdot.org/article.pl?sid=09/06/08/1641237">Henrik Pontén将正式更名为“Pirate Pontén”</a>。在备受瞩目的“海盗湾审判案件”中，Henrik Pontén站在了对立面，因此而成为互联网上仇恨的对象，新的名字显然是开文件共享者的玩笑。瑞典政府对于申请改名的管理很宽松，并不会去核查身份。瑞典税务局注册处官员认为Pirate Pontén会很快申请改回原来的名字。
+➜金钱奖励帮助学生成绩提高40%
+https://www.solidot.org/story?sid=11754	15480
+有59所学校参与的成绩金钱奖励计划显示出了巨大的威力，学生在阅读和数学的测试中<a href="http://news.slashdot.org/article.pl?sid=09/06/08/1557210">得分提高了大约40%</a>。<i>
+该计划向7年级学生提供最高500美元奖励，4年级学生提供250美元奖励，他们参与了总共10次评估测试。参与计划的学校学生主要由贫困生组成，但在金钱的激励之下，最后三分之二的学校成绩皆优于市平均成绩。其中一所学校的校长Rose Marie Mills表示，“这是自我价值中的一种自我提高。当他们拿到支票后，竞争便激发了——‘下次我要比你拿到更多的钱’——他们都会兴奋起来。”从去年9月份开始，8000多名学生共挣得125万美元的奖励。他们的成绩越高，获得的奖金便越多。</i>
+➜SkyOS试验Linux、NetBSD内核
+https://www.solidot.org/story?sid=11755	19200
+<a href="http://en.wikipedia.org/wiki/SkyOS">SkyOS</a>是一个替代商业操作系统，创始人是Robert Szeleney。它的开发始于1996年，原先为自由软件，后来改为闭源模式。2009年1月中止开发。Robert Szeleney慎重考虑了SkyOS的未来，指出SkyOS缺乏可用的驱动是其发展中的一大难题，他提出了一种解决方法——<a href="http://www.osnews.com/story/21636/SkyOS_Experiments_with_Linux_NetBSD_Kernels_as_Base">采用Linux或NetBSD内核</a>。<i>
+根据官方网站上的声明，Szeleney <a href="http://www.skyos.org/?q=node/648">正在试验用Linux和NetBSD内核替代SkyOS内核</a>，他设想让SkyOS API运行在Linux或NetBSD kernel之上，如此一来，使用者便获得了SkyOS的用户体验，同时获得Linux或NetBSD的硬件支持，这将能使开发者专注于用户层，而不用再花太多时间在硬件支持上。为了实现这一切，Szeleney想让目前依赖于SkyOS kernel的SkyGI(图形层)部分移入到用户层。他试验的Linux内核版本是2.6.27.4。</i>
+➜Google介绍Android Scripting Environment
+https://www.solidot.org/story?sid=11756	21000
+Google官方博客<a href="http://google-opensource.blogspot.com/2009/06/introducing-android-scripting.html">介绍</a>了<a href="http://code.google.com/p/android-scripting/">Android Scripting Environment（ASE）</a>，将脚本语言带入Android，允许用户编辑和执行脚本，直接在Android设备上运行交互式解释器。<i>
+脚本将能大幅度简化任务界面，用户能在交互式终端中使用脚本。ASE目前支持<a href="http://code.google.com/p/android-scripting/wiki/PythonAndroidAPI">Python</a>，<a href="http://code.google.com/p/android-scripting/wiki/LuaAndroidAPI">Lua</a>和 BeanShell，未来将加入对Ruby和JavaScript的支持。</i>
+➜Mozilla将允许DIY浏览器
+https://www.solidot.org/story?sid=11757	24120
+Mozilla将在未来几周内发布一个程序，<a href="http://tech.slashdot.org/article.pl?sid=09/06/09/0052232">允许企业在下一版Firefox的基础上定制化浏览器</a>。<i>
+Build Your Own Browser将于Firefox 3.5在6月底发布后不久推出，企业用户可利用该Web应用程序制定定制版本，比如将书签指定到某个网站或企业内部网或入口。当定制完成后，Mozilla将向该公司发送一个安装包，方便安装到企业的所有桌面上。目前有大量的企业仍然将IE作用企业浏览器使用，因为企业比较容易控制IE的设置和安装。Mozilla希望Build Your Own Browser能成为一个好的起点，推动更多企业使用Firefox浏览器。</i>
+➜宏基将在10月推出3D笔记本
+https://www.solidot.org/story?sid=11758	25200
+宏基计划在10月底推出<a href="http://hardware.slashdot.org/article.pl?sid=09/06/08/2054258">15.6英寸的3D笔记本</a>，它有可能成为世界上<a href="http://www.digitimes.com/news/a20090608PD206.html">第一家推出3D笔记本的电脑制造商</a>。<i>
+根据宏基移动分部副总裁Campbell Kan透露的消息，笔记本内置的软件能让普通的2D电影转换到3D，同时也直接支持3D电影。目前，用户仍然需要戴着立体眼镜才能观看到3D效果，宏基表示正在开发不需要眼镜的型号，但还有一些困难需要克服。笔记本预装的操作系统是Windows 7。</i>
+➜人类基因专利威胁科学研究
+https://www.solidot.org/story?sid=11759	26880
+越来越多的人类基因专利<a href="http://www.physorg.com/news163334329.html">威胁到了科学研究</a>(<a href="http://only-perception.blogspot.com/2009/06/blog-post_7529.html">中文</a>)。<i>
+USPTO（美国专利和商标局）已同意至少4382项人类基因专利，包括与阿兹海默症、癌症、肌肉萎缩症与其它重症相关的基因。美国公民自由联盟的律师Christopher Hansen表示，20%的人类基因目前已申请专利。基因专利将赋予拥有者最多20年的专有权，控制该基因在医学研究、诊断或治疗上的使用。Hansen称，“一位基因专利持有者有权阻止他人研究、试验、甚至是观察某种基因。结果，因对基因专利的担忧，科学研究与遗传检测将被迫推迟，受到限制、甚至是停止。”虽然基因专利是合法的，但许多科学家、保健专家和病患组织持反对立场，认为基因专利将扼杀研究和妨碍治疗。Hansen说，“专利权意在保护发明者，而非存在于大自然中的事物，例如人类身上的基因。”</i>
+➜苹果在WWDC上透露iPhone 3.0，OpenCL，新笔记本
+https://www.solidot.org/story?sid=11760	29400
+在6月8日的WWDC（苹果全球开发者大会)上，<a href="http://apple.slashdot.org/article.pl?sid=09/06/08/197202">苹果掀开了诸多新品的面纱</a>，包括：<i>
+更新了所有的笔记本产品，其中<a href="http://www.apple.com/macbookpro/">MacBook Pro</a>产品线增加了13英寸型号，更新了<a href="http://www.apple.com/macbookair/">MacBook Air</a>，部分机器加入了SD卡插槽和firewire 800插槽。软件方面的更新包括发布<a href="http://www.apple.com/safari/download/">Safari 4</a>，OS X更新了线程变换，Exchange支持邮、日历、通信录，公布开放图形标准OpenCL。手机方面苹果宣布<a href="http://www.apple.com/iphone/softwareupdate/">iPhone OS 3.0</a>，但乏善可陈，没有多少新东西：支持剪切、拷贝和粘帖，彩信，Spotlight更新，蓝牙点对点传输，横向虚拟QWERTY键盘，可以把iPhone变成蜂窝调制解调器等等，其中许多特性之前早已宣布。此外，苹果宣布了<a href="http://www.apple.com/iphone/">iPhone 3GS</a>，宣称速度是原型的2倍，拥有更长的电池寿命，导航，300万像素摄像头，支持3G，16G版本为199美元，32G版本为299美元，去年发布的iPhone 3G降价为99美元。</i>
+➜大多数博客已放弃更新
+https://www.solidot.org/story?sid=11761	33000
+《纽约时报》<a href="http://www.nytimes.com/2009/06/07/fashion/07blogs.html?_r=1&amp;adxnnl=1&amp;adxnnlx=1244538323-xgDTnCr+bTygKhSnNtT9Ww">报道</a>，根据博客索引网站Technorati在2008年进行的一项调查：在120天内它跟踪的1.33亿博客中只有770万博客还继续更新，这意味着<a href="http://tech.slashdot.org/article.pl?sid=09/06/08/1715239">95%的博客其实已经被放弃了</a>，曾经的梦想或雄心便这么破碎了。<i>
+Technorati公司执行官Richard Jalichandra指出，在任何时候都活跃着700万到1000万博客，但很可能其中5万到10万的博客产生了绝大多数的页面流量，“博客圈的一个玩笑是多数博客只有一位读者”。那些认为博客是通向财政独立快车道的人也感到了沮丧，一位广告业主管Matt Goodman十分擅长如何去吸引读者访问博客，通过在Craigslist登广告，他的读者很快就达到了每月5万，但是广告点击的收入仅仅只有20美元，渐渐他也开始疏远更新。他的博客上一次更新是在去年11月。Jalichandra认为一些放弃更新的博客是因为发现了新的平台，如Facebook，MySpace，以及Twitter。</i>
+➜德国内阁部长试图禁止暴力游戏
+https://www.solidot.org/story?sid=11762	34920
+德国16位内阁部长联名请求德国联邦议会下令<a href="http://games.slashdot.org/article.pl?sid=09/06/06/0154229">禁止生产和发行暴力视频游戏</a>，部长们希望禁令能在9月27日举行的大选前通过。今年3月发生的校园枪击事件中，枪手被曝喜欢《Far Cry 2》和CS等射击游戏，在那以后，暴力游戏便成为德国的一个国家问题。如果禁令通过，著名的视频游戏开发商Crytek（作品有《孤岛惊魂》）可能被迫迁出德国。另据英国《经济学人》杂志报道，游戏行为研究显示，<a href="http://www.ecocn.org/wordpress/?p=880">非暴力游戏对玩家是有益的</a>。
+➜游离黑洞吞没恒星
+https://www.solidot.org/story?sid=11763	37500
+2006年2月21日天文学家观察到了一次神秘的天体爆发，该天体后命名为<a href="http://en.wikipedia.org/wiki/SCP_06F6">SCP 06F6</a>。起初它被认为是一颗超新星，但其光变曲线的趋势显示无法用现有的恒星爆发理论解释。<i>
+超新星的发亮期不会超过70天，一般会在20天内亮度达到最大值，而SCP 06F6持续发亮了100天，接下来的100天才逐渐暗淡下去。《新科学家》报道，一种新的理论认为，<a href="http://www.newscientist.com/article/dn17262-freefloating-black-hole-may-solve-space-firefly-mystery.html">一个游离的中等质量黑洞与一颗恒星相遇</a>，恒星被撕裂，一部分被黑洞吸收，另一部分向外喷射爆发，期间产生了大量的气体。不过令人好奇的是，《新科学家》的这篇文章有<a href="http://science.slashdot.org/article.pl?sid=09/06/08/139242">大量的评论被删除</a>。</i>
+➜11岁华裔学生获副学士学位
+https://www.solidot.org/story?sid=11764	39600
+美国《世界日报》<a href="http://chinese.people.com.cn/GB/9427279.html">报道</a>，刚满11岁的美国华裔儿童凯孝虎(Moshe Kai)，经两年学习后，6月5日从东洛杉矶社区学院(ELAC)毕业，<a href="http://news.slashdot.org/article.pl?sid=09/06/08/1444215">获得了文科副学士学位</a>，而此时他的同龄人刚修完6年级课程。<i>
+凯孝虎的母亲钱淑贞是台湾人，父亲是以色列人，他从小跟随母亲在家自学，完成高中课程后申请了东洛杉矶社区学院。他的平均成绩是4.0分，几乎全A，成为学校今年毕业生中拿到4.0分的三名学生之一。凯孝虎谦虚的说，“我不认为自己是天才，因为世界上有65亿人，每一个人在属于他或她自己的领域都是最聪明的。”无独有偶，《大洋网》报道了另一位<a href="http://life.dayoo.com/service/200906/09/60453_7957069.htm">11岁读数学硕士的香港儿童</a>：“今年9月，年仅11岁的沈诗钧将开始攻读香港浸会大学数学系硕士阶段的课程。沈诗钧是香港人公认的“神童”。2007年9月，9岁的沈诗钧被香港浸会大学录取，成为香港有史以来最年轻的大学生，为公众所关注.....在一次100分为满分的微积方程中期考试中，沈诗钧得99分，全班排名第四。”</i>
+➜计算机是法航空难的关键
+https://www.solidot.org/story?sid=11765	42840
+这是一个众人皆知的秘密，商业飞机严重依赖于计算机。但随着法国航空447号航班空难的悬念逐渐揭晓，我们必须认清一个事实，当需要对紧急情况作出快速反应的时候，<a href="http://tech.slashdot.org/article.pl?sid=09/06/09/0035253">飞行员双手已经被紧紧的束缚了起来</a>。
+<i>
+在紧急情况下，波音公司允许飞行员控制飞机，但空中客车却不是。这并不是设计缺陷，而是哲学理念差异。它本质上是一个问题，你最信任的是什么：是足智多谋的人类，还是能无限获取信息、并快速反应的计算机？这毫不奇怪，美国公司强调个人自由，而欧洲公司却更赞同制度。作为一位乘客，我们有权询问是将生命托付给一台计算机，还是经历考验的飞行员？</i>

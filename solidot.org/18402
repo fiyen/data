@@ -1,0 +1,42 @@
+➜瑞幸咖啡面临被纳斯达克摘牌
+https://www.solidot.org/story?sid=64411	20990
+瑞幸咖啡上个月曝出了财务造假丑闻，股价暴跌逾80%，随后它被暂停交易。上周它宣布解雇了 CEO 钱治亚和 COO 刘剑。本周二，瑞幸咖啡<a href="https://cn.reuters.com/article/luckin-coffee-investigation-nasdaqdelist-idCNKBS22V3C4" target="_blank"><u>披露</u></a>纳斯达克已通知该公司计划将其摘牌。纳斯达克收紧了上市规则，希望限制那些牢牢掌握在内部人士手中以及缺乏会计透明度的公司进行首次公开发行(IPO)。瑞幸称，纳斯达克在摘牌通知中提及，该公司的虚报交易引起公共利益关切，且公司未能披露重大信息。瑞幸计划就此向纳斯达克听证小组提出举行听证会请求，听证会结果出炉前，将继续上市。听证会结果很可能在两个月内出炉。
+➜科学家称患过普通感冒可能能对新冠提供部分保护
+https://www.solidot.org/story?sid=64412	21318
+当细胞感染了冠状病毒后，该病毒蛋白分子会分裂成小碎片附着在被感染细胞的表面。当人体免疫系统的 T 细胞发现这些分子并在它们开始繁殖前（因为之前体内从未出现过这些异类）就会做出反应。这时人体中的 T 细胞杀手就开始攻击被感染细胞。另外一些辅助型T细胞也开始向其他细胞发出信号，比如产生抗体。跟抗体一样，T 细胞在抗击感染后并不消失，而是留在人体中。研究人员观察了新冠康复者血液中的 T 细胞，然后又对比了那些没感染新冠但患过感冒者的冷冻血液，看是否有类似的 T 细胞。他们发现大约一半人<a href="https://www.bbc.com/zhongwen/simp/world-52725910" target="_blank"><u>有针对新冠病毒的抵抗活动</u></a>。但这只是实验室的试验结果。至于在现实生活中患普通感冒可以在多大程度上保护你免得新冠还有待证明。
+➜台积电无法再站在中美的中间地带
+https://www.solidot.org/story?sid=64413	21898
+台积电是世界最大的半导体代工厂，其客户包括苹果、高通，以及华为海思半导体。根据台积电最近的年度报告，其 20% 的收入来自总部设在中国的公司，但 60% 的收入来自北美客户。台积电想要保持中立，站在中美的中间地带，但美国对华为的最新禁令<a href="https://cn.nytimes.com/business/20200520/china-taiwan-huawei-tsmc/" target="_blank">令台积电无法继续下去</a>。台积电上周宣布将在亚利桑那建造 5 纳米芯片工厂。分析人士说，美国和中国之间不断升级的紧张关系也可能迫使台积电做出了这个决定。亚利桑那项目的真正目的可能是“让台积电最终成为美国军方供应链中值得信赖的一员”。
+➜AMD 宣布下一代 CPU 将支持 B450 和 X470 主板
+https://www.solidot.org/story?sid=64414	24250
+AMD 此前透露，基于 Zen 3 架构的下一代处理器将不再支持前一代的 400 系列 B450 和 X470 主板，理由之一是这些主板 BIOS ROM 容量不够大。此举引发了社区的广泛争议。在收到大量批评之后，AMD <a href="https://www.anandtech.com/show/15807/amd-to-support-zen-3-and-ryzen-4000-cpus-on-b450-and-x470-motherboards"><u>撤回了决定</u></a>，宣布 Zen 3 处理器将会继续支持上述旧主板。AMD 称，为了确保 ROM 的可用空间足够大，新的可选升级的 BIOS 将移除对许多现有处理器的支持；Zen 3 之后的处理器将不再支持这些旧主板；它会继续推荐客户选择 500 系列主板。
+➜DirectX 将进入 Windows Subsystem for Linux
+https://www.solidot.org/story?sid=64415	24515
+在 //build 2020 上，微软<a href="https://devblogs.microsoft.com/directx/directx-heart-linux/"><u>宣布</u></a> GPU 硬件加速将加入到 Windows Subsystem for Linux 2（WSL 2）中。WSL 是一个允许用户在 Windows PC 上运行 Linux 应用的环境。现在，这些 Linux 应用和工具将能使用 GPU 加速。微软称，对 GPU 的访问，Linux 环境中的应用将和 Windows 原生应用一样，它不会对 Linux 应用进行限制，将根据需要对 GPU 提供动态的分享。如果只有一个 Linux 应用访问 GPU，那么它将可使用 GPU 的全部资源。微软表示它将完整的 D3D12 API 带到了 Linux。除了 D3D12 和 DxCore 外，它还将其机器学习 API DirectML 移植到了 Linux。微软同时宣布最流行的计算 API NVIDIA CUDA 加速也将加入到 WSL。
+➜OpenBSD 6.7 发布
+https://www.solidot.org/story?sid=64416	32230
+OpenBSD 项目创始人 Theo de Raadt <a href="https://marc.info/?l=openbsd-announce&amp;m=158989783626149&amp;w=2"><u>宣布释出 6.7 版本</u></a>。主要新变化包括：FFS2 文件系统成为默认的文件系统；支持 Raspberry Pi 4，改进 Raspberry Pi 3 支持，更好的支持 Rockchip 系统如 Pinebook Pro，改进 AMD smt/core/package 检测，改进硬件支持，移除对部分硬件的支持如 IBM RT PC 板；改进音频驱动，大量驱动更新，等等。
+➜微软发布 Windows 包管理器
+https://www.solidot.org/story?sid=64417	32276
+在 <a href="https://mybuild.microsoft.com/home/">Build 2020</a> 上，微软<a href="https://developers.slashdot.org/story/20/05/19/2023253/microsoft-debuts-windows-package-manager-for-your-dev-environment"><u>发布了</u></a> Windows 下的包管理器，名字就叫 Windows Package Manager，缩写 winget，<a href="https://github.com/microsoft/winget-cli"><u>源代码</u></a>托管在该公司旗下的 GitHub 上，采用 MIT 许可证。微软发布了一系列工具吸引开发者使用 Windows 而不是 Linux 或 macOS。winget 是命令行界面，允许开发者浏览、查看和安装常用开发者工具，类似 winget install Terminal，winget install Visual Studio。Linux 平台的包管理器被普遍认为是 Linux 相对于 Windows 的一大优点，微软最终将此类工具带到了自己的平台。
+➜微软将统一 Windows 桌面和 UWP 应用
+https://www.solidot.org/story?sid=64418	38923
+微软最近几年正致力于将传统的 win32 桌面应用和 Universal Windows Platform (UWP)  应用统一起来。<a href="https://www.theverge.com/2020/5/19/21258697/microsoft-windows-project-reunion-win32-uwp-apps-apis-build" target="_blank"><u>这项工作有了正式的代号</u></a>：Project Reunion。微软承诺统一的应用将可以运行在多种类型的 Windows 设备上，传统桌面应用和 UWP 应用将简称为 Windows 应用。微软高级副总裁 Rajesh Jha 解释说，Project Reunion 背后的理念是允许开发者构建一种 Windows 应用，能面向所有 10 亿设备。微软将统一现有的 API，在某种程度上将 API 与操作系统脱钩。Project Reunion 的一个重要部分是 UI 框架 WinUI 3。
+➜广告商因疫情放弃百度
+https://www.solidot.org/story?sid=64419	40444
+新型疫情<a href="http://www.ftchinese.com/story/001087759"><u>暴露了百度的弱点</u></a>。广告商们纷纷放弃中国搜索巨头，转而使用更灵活的竞争对手的应用。百度表示，第一季度营收同比下降 7%，至 225 亿元人民币，原因是旅游、汽车和医疗行业广告客户在公共卫生危机期间削减支出。其核心的搜索和新闻推送业务的营收下滑速度更快，同比下降 13%。净利润较上一季度暴跌 99%，至 4100 万元人民币，不过与亏损的去年同期相比有所改善。分析师表示，疫情大流行使中国用户增加了花在在线娱乐平台上的时间，而广告商在试图跟上这一变化。与搜索和视频相比，信息流广告是“短期而言广告商的首选渠道，而这正是百度未能吸引广告商的地方”。
+➜剑桥大学将全年上网课但不减学费
+https://www.solidot.org/story?sid=64420	47147
+著名的剑桥大学面对新冠肺炎疫情所带来的各种压力与不定因素<a href="https://www.bbc.com/zhongwen/simp/uk-52741001"><u>宣布</u></a>，将在下学年（2020年-2021年）全部通过在线授课。有专家预计，更多英国大学都将很快明确宣布下一学年的教学方式。剑桥大学自今年三月开始已经因应疫情改为网上授课，考试也全部通过远程方式进行。最新宣布的这一决定将意味着剑桥大学的课堂授课方式将等到 2021 年秋季开学后才能恢复。英国每年有大量来自亚洲，特别是大量来自中国大陆的留学生，网络教学预计会直接影响到英国国内和国际学生群体。剑桥大学发言人表示，除了网上授课， “还有可能举办小范围的面对面小组教学，条件是这样的教学符合社交隔离要求。这一决定旨在方便各方面计划安排，不过随着政府有关疫情的指引发生变化，学校也将对此决定做出评估加以调整。”英国政府已经表态，大学即便通过网络教学仍然将收取全额学费。英国大学部长 Michelle Donelan 表示，如果学校的教学质量仍然保持不变，学生就没有理由要求学费打折。但学生认为维持学费不变很不公平，因为缴纳学费除了学习专业知识，也是为了亲身体验大学生活，体验老师面对面授课，享受大学中的各项设施，包括图书馆、学生团体协会、体育设施等。
+➜研究生解决了有数十年历史的 Conway 扭结问题
+https://www.solidot.org/story?sid=64421	53659
+2018 年夏天，Lisa Piccirillo 在一个低维拓扑和几何会议上听到了一个有意思的小问题，她认为可以使用在研究生时学到的技术去解决它。她不认为这是一个真正的数学问题，而是把它当作空闲时间做的家庭作业。这个问题是传奇数学家 John Horton Conway 在 50 多年前发现的，询问以他名字命名为的 Conway 扭结是否是高维扭结切片。Conway 扭结有 11 个交叉点，已经困扰了数学家数十年。Piccirillo 花了不到一周的时间得出了答案：<a href="https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/" target="_blank">Conway 扭结不是切片</a>。几天后，她遇到了得州奥斯丁的数学教授 Cameron Gordon，漫不经心的谈到了她的解决方案。Gordon 大吃一惊，认为这是可以发表在数学界权威期刊《Annals of Mathematics》上的成果。Piccirillo 现在在 Brandeis 大学做博后，因为这个证明而从 MIT 得到了教职。<a href="https://annals.math.princeton.edu/2020/191-2/p05"><u>她的证明</u></a>（<a href="https://arxiv.org/abs/1808.02923"><u>预印本</u></a>）发表在二月份的《Annals of Mathematics》上。
+➜当模拟城市走向专业化
+https://www.solidot.org/story?sid=64422	53882
+《模拟城市》的开发商 Maxis 并不希望人们过于严肃的看待这款游戏，虽然它是受到了城市规划概念的启发，但它毕竟是为了娱乐。设计师 Will Wright 说，混沌理论等让他意识到要模拟城市的真实运作是几乎不可能的。但这并没有阻止其他公司相信 Maxis 能设计出真实的模拟。许多人接触 Wright，希望 Maxis 推出一个专业版本。Wright 说他们并不能真正模拟城市是如何发展的，Maxis 也并不想制作专业的模拟游戏。但在这家公司的历史上，<a href="https://obscuritory.com/sim/when-simcity-got-serious/" target="_blank"><u>它确实一度涉足了专业模拟开发</u></a>。从 1992 年到 1994 年，Maxis 有一个叫  Maxis Business Simulations 的部门负责专业领域的模拟。这个部门后来被剥离了出去，继续作为独立公司运营了几年，开发了多款模拟应用，如模拟石油精炼的 SimRefinery，模拟环境污染的 SimEnvironment，甚至还有竞选总统的《Race for the White House》。
+➜全球碳排放因新冠疫情下降 17%
+https://www.solidot.org/story?sid=64423	56573
+根据发表在《Nature Climate Change》期刊上的<a href="https://www.nature.com/articles/s41558-020-0797-x"><u>一篇论文</u></a>，全球碳排放因新冠疫情<a href="http://news.sciencenet.cn/htmlnews/2020/5/440058.shtm" target="_blank">下降 17%</a>。各国政府实施的防止新冠肺炎传播的政策对全球能源需求产生了巨大冲击。随着世界各地大量人口被要求待在家中、关闭边境，消费率和运输率都相应下降。英国东安格利亚大学环境科学学院的 Corinne Le Quéré 和同事分析了截至 4 月底的能源、活动和政策的综合数据，据此估计二氧化碳日排放量相较于 2019 年的变化。结果发现，截至4月初，二氧化碳总排放量相对 2019 年下降了 17%，每个国家的日均排放量下降了 26%。来自地面运输和航空业的排放分别下降了 36% 和 60%。地面运输、能源和工业占到了排放下降总量的 86%。研究人员还预估了这种下降对 2020 年总排放量的影响。他们认为，如果到 6 月中旬恢复疫情前活动水平，年底总排放量的平均降幅可能会为 4%。如果一些限制政策维持到 2020 年底，总排放量的平均降幅可能会达 7%。
+➜布隆迪在选举日屏蔽社交媒体
+https://www.solidot.org/story?sid=64424	57177
+5 月 20 日是非洲国家布隆迪的选举日，社交媒体在当天<a href="https://netblocks.org/reports/social-media-disrupted-in-burundi-on-election-day-JBZLPY86"><u>受到了广泛限制</u></a>。受到影响的社交网站和消息应用包括  Twitter、Facebook、Instagram 和 WhatsApp，YouTube 和 Google 视频服务也部分受限。总统顾问 Willy Nyamitwe 否认该国的互联网被切断。但当地网民表示他们只能通过 VPN 等工具访问社交媒体，

@@ -1,0 +1,51 @@
+➜白俄罗斯屏蔽Tor
+https://www.solidot.org/story?sid=50668	7223
+<div align="center"><img src="http://img.solidot.org/0/39/lilkxpSOHn8P6.png" height="281" width="450" align=""><br>
+</div>
+<br>
+白俄电信利用TCP注入<a href="https://ooni.torproject.org/post/belarus-fries-onion/" target="_blank"><u>屏蔽了匿名网络Tor</u></a>。屏蔽是从12月1日开始的，来自白俄罗斯的Tor直连用户数量从5000下降到了3000左右（如图所示）。白俄罗斯实际上是在2015年2月下令<a href="https://meduza.io/en/news/2015/02/25/belarus-bans-tor" target="_blank"><u>屏蔽</u></a>包括Tor在内的匿名网络，但它的ISP显然需要一段时间准备好必要的网络设备。Tor项目称，屏蔽是通过 TCP RST注入实现的，Tor网络的目录服务器、网桥和DirPort没有被屏蔽。白俄电信向Tor客户端连接注入的第一个重置包没有正确的SEQ/ACK数，因此不会终止连接。Tor网络来自中国的直连用户数<a href="https://metrics.torproject.org/userstats-relay-country.html?start=2016-10-28&amp;end=2016-12-08&amp;country=cn&amp;events=points" target="_blank"><u>则不到1500</u></a>，Tor一直被防火长城严密过滤。
+➜福建芯片投资基金收购爱思强的交易宣告失败
+https://www.solidot.org/story?sid=50669	12884
+在美国总统奥巴马以国家安全为由否决了交易之后，福建芯片投资基金收购德国爱思强的交易<a href="http://cn.wsj.com/gb/20161209/tec075826.asp" target="_blank"><u>以失败告终</u></a>。福建宏芯将交易失败原因直接归咎于美国的禁令。近几日来，外界猜测若爱思强剥离美国业务，则该交易或有可能获得批准。背后是中国国家主权基金的福建宏芯是在今年5月份提交了以6.7亿欧元收购爱思强的要约，爱思强上周六<a href="http://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E8%99%BD%E4%B8%8D%E8%AE%B8-%E7%88%B1%E6%80%9D%E5%BC%BA%E4%BB%8D%E4%B8%8D%E5%BC%83/a-36630865" target="_blank"><u>表示</u></a>美国方面的否决只限于这家企业在美国地区的生意，中国投资者收购爱思强股份的部分不受限制。
+➜Airbnb中国业务迁入中国服务器
+https://www.solidot.org/story?sid=50670	14006
+互联网短租平台Airbnb已将其中国业务迁至位于中国境内的服务器，此举旨在遵守中国的法律。根据上个月公布的《网络安全法》<a href="http://www.solidot.org/story?sid=50277" target="_blank"><u>第三十七条</u></a>，“关键信息基础设施的运营者在中华人民共和国境内运营中收集和产生的个人信息和重要数据应当在境内存储。”中国并没有明确定义什么是关键信息基础设施。Airbnb称，中国用户的个人数据将被转移并存储到中国境内的服务器上，由Airbnb中国公司使用和处理。Airbnb官方发言人Nick Papas<a href="http://companies.caixin.com/2016-12-09/101024955.html" target="_blank"><u>表示</u></a>，中国确实是一个充满挑战的市场，因此在规划每一步发展时都非常周详及谨慎，几年前就开始与中国本土的公司进行合作。
+➜微软和高通合作将Windows 10、x86模拟带到ARM处理器
+https://www.solidot.org/story?sid=50671	18057
+<div align="center"><img src="http://img.solidot.org/0/40/liSTZXC704eIk.png" height="252" width="450" align=""><br>
+</div>
+<br>
+在深圳举行的 Windows 硬件工程产业创新峰会（WinHEC）上，微软<a href="http://www.anandtech.com/show/10889/microsoft-and-qualcomm-bring-windows-10-to-snapdragon-processors" target="_blank"><u>宣布</u></a>与高通合作将 Windows 10、x86 模拟带到 ARM 平台，基于高通 Snapdragon 处理器的 Windows 10 PC 将在2017年发售。这不是 Windows第一次支持ARM处理器，基于 Windows 8 的Windows RT 未能在市场上取得成功。这一次新的基于Snapdragon的 PC 将支持 x86 (32-bit) Win32应用，ARM PC将利用 x86模拟技术运行 x86 Win32应用，微软在ARM PC上<a href="https://youtu.be/A_GlGglbu1U" target="_blank"><u>演示了</u></a>运行 Photoshop图像编辑软件的效果。在峰会上，微软执行副总裁Terry Myerson<a href="http://arstechnica.com/information-technology/2016/12/microsoft-pushes-for-a-more-modern-pc-with-vr-project-evo-and-arm-support/" target="_blank"><u>透露</u></a>，该公司已经向中国政府递交HoloLens头戴显示器，产品预计将在2017年上半年发布。
+➜Google 云打印关闭爱普生打印机
+https://www.solidot.org/story?sid=50672	22041
+Google的云打印服务移除了使用打印机的诸多障碍，允许任何设备从远程或从本地完成打印操作。但本周，Google云打印给爱普生打印机用户带来了很多麻烦。在官方帮助论坛上，用户<a href="https://productforums.google.com/forum/#!topic/chromebook-central/525W6rnP5Dc" target="_blank"><u>报告</u></a>一台正常工作了两年的Epson XP-410打印机突然自动关机。乍一看似乎是硬件问题，但断网后打印机又能正常工作了。一旦启用Google Print Cloud，打印机又开始自动关机。受影响的爱普生打印机型号包括Epson WF-4630、XP-215, XP-415、XP-610、WF-545、WF-845和WF-7610。罪魁祸首被认为是<a href="http://arstechnica.com/information-technology/2016/12/internet-of-google-api-change-triggers-epson-printer-revolt/" target="_blank"><u>云服务API的变动</u></a>，这一变动导致了云打印和打印机固件之间的冲突。
+➜内核维护者拒绝了AMDGPU补丁
+https://www.solidot.org/story?sid=50673	29119
+Linux 内核 DRM (Direct Rendering Manager) 维护者 David Airlie <a href="https://lists.freedesktop.org/archives/dri-devel/2016-December/126516.html" target="_blank"><u>拒绝了</u></a>AMD开发者递交的AMDGPU补丁。AMD 正致力于统一开源驱动和闭源催化剂驱动，AMDGPU作为一个核心组件被开源闭源驱动共同使用，此举被认为有助于简化驱动开发和维护。AMD开发者向DRM子系统<a href="https://lists.freedesktop.org/archives/dri-devel/2016-December/126422.html" target="_blank"><u>递交</u></a>了AMDGPU的Display Core (DC)驱动代码，但遭到了David Airlie的拒绝，原因是AMD引入了一个共享驱动代码的抽象层，Airlie认为抽象层没有给内核带来好处，反而增加了维护代码的难度。Airlie是 Red Hat的开发者。
+➜中国科学家提出消退恐惧记忆的方法
+https://www.solidot.org/story?sid=50674	29892
+中国复旦大学的研究人员在《神经元》期刊发表<a href="http://www.cell.com/neuron/fulltext/S0896-6273(16)30856-X" target="_blank"><u>论文</u></a>，<a href="http://news.sciencenet.cn/htmlnews/2016/12/363054.shtm" target="_blank"><u>报告</u></a>通过移植未成熟抑制性神经前体细胞能有效抑制恐惧记忆的“再生长”。研究团队以小鼠为实验对象，将胚胎时期中间基底神经节隆起（Medial ganglionic eminence, MGE）来源的抑制性神经元移植到成年小鼠双侧杏仁核区域。研究人员通过声音结合足底电刺激的方法使小鼠获得强烈恐惧记忆，即每当听到这个声音就产生恐惧反应——长时间的“僵直不动”。其后，给予小鼠恐惧消除训练（仅给予小鼠声音而不施加足底刺激）以抑制恐惧记忆。研究结果表明，移植抑制性神经元后进行恐惧消除训练可以持久地压抑恐惧记忆的自发性恢复和恐惧记忆重唤醒。研究团队发现只有移植年轻的、未完全成熟状态的抑制性神经元才可以有效地促进负性恐惧记忆的消退。
+➜包裹在琥珀内的有羽恐龙尾巴
+https://www.solidot.org/story?sid=50675	31755
+自《侏罗纪公园》上映以来，古生物学家就一直开有关琥珀内恐龙的玩笑。现在这个玩笑变成真的了。中国地质大学的古生物学家 Lida Xing 在缅甸琥珀市场寻找蜥蜴和昆虫标本时注意到了一个不同寻常的琥珀，这个琥珀包裹了一条3.6厘米长的羽状尾巴。他联络了加拿大皇家Saskatchewan博物馆的Ryan McKellar联合进行研究。他们的<a href="http://www.cell.com/current-biology/abstract/S0960-9822(16)31193-9?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982216311939%3Fshowall%3Dtrue" target="_blank"><u>报告</u></a>发表在《Current Biology》期刊上，认为这条尾巴不属于鸟类而是很可能属于名叫虚骨龙的小型双足恐龙，<a href="http://www.sciencemag.org/news/2016/12/dinosaur-tail-trapped-amber-sheds-light-evolution-feathers" target="_blank"><u>这种恐龙生活在大约9900万年前</u></a>。
+➜Google赚钱有方，它不需要担心任何财务纪律
+https://www.solidot.org/story?sid=50676	35425
+彭博商业周刊报道了<a href="https://www.bloomberg.com/news/features/2016-12-08/google-makes-so-much-money-it-never-had-to-worry-about-financial-discipline" target="_blank"><u>过去两年Google所展开的大刀阔斧的重组</u></a>，它从一家从来不担心任何财务纪律的工程师主导的企业转变成一家注重财务状况的正常上市公司。在重组的名义下，搜索巨人变成了 Alphabet。而这次重组的架构师是公司的首席财务官Ruth Porat。Porat出生在英格兰生长在帕洛阿尔托，在第一次.COM泡沫期间她领导着摩根斯坦利的技术部门，在紧急救助房利美和房地美期间她担任了财政部的顾问，在2010年成为摩根斯坦利的首席财务官。2015年5月加盟Google后她为搜索巨人带来了财务纪律，强迫那些基本不考虑盈利的业务和长期项目缩短亏损时间表。一位前 Alphabet高管称，她是一名打手，如果Larry Page不再对某个东西感到激动，Porat就杀死它。匿名的Google前高管称，公司在平衡创新和核心业务上有困难。Google的广告业务占到了Alphabet总收入的89%。一名前执行官说，Google是一家有很多爱好的广告公司，没人想要面临这一事实。
+➜NSA监视飞机上的GSM服务
+https://www.solidot.org/story?sid=50677	37381
+NSA泄密者Edward Snowden提供的文件显示，GCHQ 和NSA多年来一直<a href="https://theintercept.com/2016/12/07/american-and-british-spy-agencies-targeted-in-flight-mobile-phone-use/" target="_blank"><u>在监视</u></a>使用航空GSM服务的乘客。飞机上的GSM服务通过连接国际海事卫星组织的通信卫星为乘客提供通讯服务。2010年的一份NSA简报称，利用机载GSM分析师能帮助识别目标的行程。另一份幻灯片介绍了GCHQ 称之为<a href="https://www.documentcloud.org/documents/3229456-Thieving-Magpie-Using-on-board-GSM-GPRS-services.html">Thieving Magpie</a>的项目细节，称他们能接近实时的收集数据，使得监视或逮捕小队能在飞机着陆时提前部署到位。GCHQ称，发送到GSM网络的数据可能包括电子邮件地址，Facebook ID 和Skype地址。
+➜为何男性寿命短
+https://www.solidot.org/story?sid=50678	40551
+男性的平均寿命比女性要短。科学家对于这一现象有很多解释，比如<a href="http://www.solidot.org/story?sid=19418" target="_blank"><u>觅偶竞争压力</u></a>，<a href="http://www.solidot.org/story?sid=44672" target="_blank"><u>更容易患心脏疾病</u></a>，<a href="http://www.solidot.org/story?sid=45769" target="_blank"><u>染色体机制</u></a>等等。耶鲁大学人类学和进化生物学教授Richard G. Bribiescas在其所著的《<a href="https://www.amazon.com/How-Men-Age-Evolution-Mortality/dp/0691160635/" target="_blank"><u>男人怎么衰老</u></a>》这本书中提出，尽管男性比女性体型大，但男性每单位时间燃烧的能量要比女性多，因此男性衰老得更快，而女性寿命则更长；因为世界是一个充满危险的地方，男性要比女性面临更大的风险，男性常常会及时行乐并且还要早早地孕育后代，以防万一。<a href="http://cn.wsj.com/gb/20161208/LIF170715.asp" target="_blank"><u>Bribiescas坚称</u></a>，为了增加性交的可能性，男性愿意赌上可观的生存几率。
+➜第一位绕地球飞行的美国人约翰·格伦去世
+https://www.solidot.org/story?sid=50679	41444
+第一位绕地球飞行的美国人、前参议员<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A0%BC%E4%BC%A6" target="_blank"><u>约翰·格伦</u></a>(John Glenn)周四<a href="http://cn.nytstyle.com/international/20161209/john-glenn-dies/" target="_blank"><u>去世</u></a>，享年95岁。格伦(John Herschel Glenn Jr.)于1921年7月18日出生在俄亥俄州坎布里奇市，在二战期间开始了自己的成名之旅。作为一名战斗机飞行员，他在太平洋地区执行了59次战斗飞行任务，在朝鲜战争中执行了94次战斗飞行任务。1959年，刚被提升为中校的格伦申请成为刚成立的NASA宇航员。当年4月，他和另外六名飞行员被选中。1962年2月20日，他搭乘友谊7号宇宙飞船中环绕地球飞行了三圈，成为环绕地球飞行的第一个美国人。1964年脱离宇航进入政界，1974年当选为代表俄亥俄州的国会参议员，并担任参议员24年。
+➜Super Mario Run需要联网
+https://www.solidot.org/story?sid=50680	42994
+任天堂准备于12月15日在iPhone和 iPad设备上发布第一款马里奥手游 Super Mario Run。玩家可试玩三个游戏模式的部分关卡，完整版售价10美元。马里奥之父、Super Mario Run制作人宫本茂（Shigeru Miyamoto）接受采访时<a href="http://mashable.com/2016/12/08/super-mario-run-shigeru-miyamoto-interview/" target="_blank"><u>表示游戏需要联网</u></a>，不能离线游戏。宫本茂解释说，对他们而言，游戏软件是极为重要的资产；对购买游戏的消费者而言，他们想要确保软件是安全的，能在稳定的环境下游戏。安全因素是游戏首先登陆iPhone和 iPad的原因之一，他们曾考虑过让玩家能离线玩三个游戏模式中的World Tour模式，另外两个游戏模式 Toad Rally 和 Kingdom 都需要联网保存，但发现离线增加了复杂性，所以最终决定都需要联网。宫本茂承认他所谓的安全是避免游戏被盗版。宫本茂称他玩过一些手游，观察过手游玩家，发现他们玩得都是游戏长度很短的游戏。
+➜病毒帮助我们对抗超级细菌
+https://www.solidot.org/story?sid=50681	44466
+Ali Khodadoust的心脏多年来一直向世界敞开着——字面非比喻意义。2012年的一次主动脉弓手术不小心给他的心脏植入了细菌，分泌出粘性生物膜的细菌在他的胸部穿了一个孔。他必须每天服用抗生素对抗感染。在抗生素失效后，Khodadoust的生命随时面临危险。因为他年龄已高，医生推迟了手术。他接受了微生物学家 Benjamin Chan 研究的实验性疗法：<a href="http://nautil.us/issue/43/heroes/will-viruses-save-us-from-superbugs" target="_blank"><u>噬菌体治疗</u></a>。噬菌体是吞噬细菌的病毒，有细菌的地方就有噬菌体，它和细菌一样无处不在。在接受噬菌体治疗后，Khodadoust三年来首次不再需要在服用抗生素，细菌已经完全消失。Chan 等人希望对噬菌体疗法展开临床实验。
+➜美国预期寿命20多年来首次下降
+https://www.solidot.org/story?sid=50682	47077
+美国的人均预期寿命自1993年以来<a href="https://science.slashdot.org/story/16/12/08/2042201/us-life-expectancy-declines-for-the-first-time-since-1993" target="_blank"><u>首次下降</u></a>：2015年的人均预期寿命是78.8岁，低于2014年的78.9岁。根据美国国家卫生统计中心公布的<a href="https://www.cdc.gov/nchs/products/databriefs/db267.htm" target="_blank"><u>报告</u></a>，原因是死于心脏病和中风、糖尿病、药物过量、事故和其它情况的人数在上升，导致预期寿命下降。十大死因中有八个死亡率在上升，心脏病是最重要的死因，其死亡率上升了0.9%，2015年每10万人中有168.5 人死于心脏病。唯一的好消息可能是癌症死亡率下降了1.7%。美国上一次预期寿命是在1993年，从 75.6岁下降到75.4岁。

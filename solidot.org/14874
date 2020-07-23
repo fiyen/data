@@ -1,0 +1,32 @@
+➜在网页上使用perl6
+https://www.solidot.org/story?sid=20169	6120
+<a href="http://twitter.com/redicaps">redicaps</a> 写道 "perl6开发团队<a href="http://greaterthaninfinity.com/2010/09/try-rakudo-in-your-browser/">发布</a>了一个可以在网页上面运行perl6的网站：<a href="http://try.rakudo.org/">try.rakudo.org</a>。
+<i>
+<a href="http://try.rakudo.org/">try.rakudo.org</a>基于正在开发中的<a href="http://rakudo.org/">rakudo Perl6 </a>编译器。不久前rakudo开发团队发布了第一个可用的perl6编译器<a href="http://rakudo.org/announce/rakudo-star/2010.07">rakudo star</a>。速度过慢是这个网站当前的主要问题，由于内存限制，超过15秒运行时间的语句会被kill掉。未来的计划包括一个用户指南，给出你可以在网站上面运行的一些基本的东西。"</i>
+➜中国离消灭极端贫困和饥饿还有多远
+https://www.solidot.org/story?sid=20170	7200
+铝谷 写道 "德国之声发表文章讨论了<a href="http://www.dw-world.de/dw/article/0,,6015684_page_1,00.html">中国的绝对贫困问题</a>。2008年中国向联合国提交的《中国实施千年发展目标进展状况报告》中写道，"按照中国政府的贫困线，中国农村尚未解决温饱问题的绝对贫困人口已从1990年的8500万（占农村人口的9.6%)，减少到2007年的1479万（占农村人口的1.6%)。即使按联合国千年发展目标采用的每日生活费低于1美元的贫困标准，中国也提前实现贫困减半的目标。"<i>
+中国总理温家宝曾表示1978年后的30年间，中国贫困人口由2.5亿减少到1500万，世界银行2007年也表示过去25年来中国脱贫成果占全球成果的67%，但是北京理工大学教授胡星斗表示，此两项评价都没提到中国贫困标准是每天收入2圆1角5分，离联合国千年发展目标中提到的每天1美元相差甚远。胡星斗认为按照这一标准，中国处于绝对贫困线下人口应有一、两亿人，而按照联合国相对贫困标准（每天收入2美元），中国至少有4到5亿人处于贫困中。<br>
+文章还提到联合国粮农组织和世界粮食计划署2010年9月14日发表的<a href="http://www.fao.org/news/story/zh/item/45322/icode/">报告</a>显示，中国仍是全球营养不足人口最集中的国家之一。"</i>
+➜华为向客户开放源代码
+https://www.solidot.org/story?sid=20171	17280
+《华尔街日报》<a href="http://cn.wsj.com/gb/20100922/BCH012477.asp">引用</a>《金融时报》的<a href="http://www.ft.com/cms/s/0/9d3c796a-c5af-11df-ab48-00144feab49a.html">报道</a>(需注册)称，中国电信设备制造商华为公司管理人士透露，华为将史无前例地向客户开放其计算机源代码，并在进行合同竞争时允许外部公司检查其网络设备产品。华为正在提高透明度，希望打消外界对公司在美国引发的国家安全问题担忧，驳斥有关华为与中国军方存在关联的说法。华为将在特定条件下提供源代码的访问，并允许信息安全专家检查其产品，确认华为产品中不包含支持间谍活动或导致网络易受攻击的技术。华为公司CEO任正非是前PLA军官，他个人拥有公司不到2%的股份。
+➜前惠普CEO为加入甲骨文放弃1400万美元
+https://www.solidot.org/story?sid=20172	39600
+前惠普CEO Mark Hurd因性骚扰调查而辞职，惠普董事会与他达成了千万美元的遣散协议。然而短短几周后Hurd便决定加入惠普的竞争对手甲骨文公司，担任联席主席一职。惠普很快因担心Hurd泄漏该公司的商业机密而宣布起诉。双方现已达成了和解，放弃了起诉。Hurd为顺利进入甲骨文公司而<a href="http://news.slashdot.org/story/10/09/21/056208/Ex-HP-CEO-Hurd-Pays-14-Million-Oracle-Pledge-Fee">放弃了市值为1360万美元的受限惠普股份</a>。此外，在甲骨文公司的OpenWorld大会上，惠普和甲骨文重申<a href="http://www.latimes.com/business/la-fi-hp-hurd-20100921,0,2183121.story">将继续合作</a>。
+➜DX11移植到Linux
+https://www.solidot.org/story?sid=20173	41520
+Phoronix<a href="http://www.phoronix.com/scan.php?page=home">报道</a>，<a href="http://mesa3d.sourceforge.net/">Gallium3D</a>开发者宣布Direct3D 10/11 COM API<a href="http://linux.slashdot.org/story/10/09/21/1637233/DX11-Coming-To-Linux-But-Not-XP">有了开源实现</a>。<i>
+原生开源实现是基于Gallium3D，它不同于Wine项目是将Direct3D调用转化为OpenGL，而是可以直接与底层图形驱动会话，它可以更容易的将Windows Direct3D 10/11游戏移植到Linux，并不需要借助Wine。该项目仍然处于早期阶段，不过令人感到讽刺的是：微软没有向XP用户提供Direct 10/11，而现在Linux却能支持。</i>
+➜IT人士最不喜欢的城市和地区
+https://www.solidot.org/story?sid=20174	43500
+<a href="http://www.jobbole.com/">关关</a> 写道 <i>"CIO网站除了列举了美国IT人士不喜欢的8个本土城市，还列了一份“<a href="http://www.cio.com/article/523463/Worst_Cities_to_Work_in_IT_International_Edition">IT人士最不喜欢的全球九大城市和地区</a>”（<a href="http://www.jobbole.com/entry.php/233">中文</a>)名单，也许你看完下面这个名单后，你会觉得底特律并不是那么差。这些城市和地区包括了：世界污染最严重城市山西临汾；墨西哥首都墨西哥城、南极洲的麦克默多考察站、中国北京、印尼首都雅加达、沙特首都利雅得、印度孟买、肯尼亚首都内罗毕以及阿富汗和伊拉克。"</i>
+➜鲍尔默和贝佐斯阴谋打败比尔盖茨
+https://www.solidot.org/story?sid=20175	44880
+美国华盛顿州计划于11月就一项州个人所得税提案进行投票表决。这项名为<a href="http://yeson1098.com/home.html">Initiative 1098</a>的提案最主要支持者是微软创始人比尔盖茨的父亲<a href="http://en.wikipedia.org/wiki/Bill_Gates_Sr.">Bill Gates Sr.</a>，提案呼吁减少州财产税以及小型企业的开业税，其内容包括对20万美元收入不征税，20万到50万美元征收5%的税，50万美元以上征收9%的税。减少小型企业税收的同时加大了大型企业的税，反对者认为此举会破坏企业环境。微软CEO鲍尔默（Steve Ballmer）和亚马逊CEO 贝佐斯(Jeff Bezos)各自<a href="http://www.pdc.wa.gov/MvcQuerySystem/CommitteeData/contributions?param=REVGRTEgIDExMQ====&amp;year=2010&amp;type=initiative">捐赠了10万美元</a>，用于<a href="http://news.slashdot.org/story/10/09/21/144242/Ballmer-Bezos-Fund-Effort-To-Undermine-Bill-Gates">阻止该提案通过的游说活动</a>。
+➜Twitter漏洞导致英前首相夫人发布色情
+https://www.solidot.org/story?sid=20176	45600
+<a href="http://www.ieason.com/">淘宝网女装</a> 写道 <i>"据<a href="http://www.absolutegadget.com/201009213242/news/software/twitter-hit-by-javascript-security-flaw.html">报道</a>，导致一系列蠕虫病毒周二在Twitter网站上快速蔓延的漏洞原本在8月已经修复，但却在周二再次出现。这一漏洞导致大量用户周二无法访问Twitter，直到当天上午晚些时候，该漏洞才得以修复。其中一种蠕虫病毒会向所有受感染的用户发送涂黑的Twitter信息，还有一种则会散布日本的色情内容。英国前首相戈登·布朗(Gordon Brown)的夫人萨拉·布朗(Sarah Brown)也受到这一故障的影响，在被蠕虫病毒感染后，她的账户向120万名粉丝发送了色情信息。美国白宫发言人罗伯特·吉布斯(Robert Gibbs)同样遭遇了类似的问题。"</i>
+➜SEE Virtual Worlds将推Michael Jackson主题游戏
+https://www.solidot.org/story?sid=20177	48000
+<a href="http://3seconds.cn/">韩都衣舍</a> 写道<i> "<a href="http://www.virtualworldsnews.com/2010/09/see-virtual-worlds-to-launch-michael-jackson-mmo.html">虚拟世界报道</a>，美国游戏公司SEE Virtual Worlds周二宣布，将于2011年推出一款以已故“流行歌王”Michael Jackson为主题的大型多人游戏。SEE Virtual Worlds表示，这名为《迈克尔星球》(Planet Michael)的3D游戏将采用免费模式，并将以Michael Jackson的各种作品为基础。玩家可以在游戏中进行协作，而游戏中的各个“大陆”也都会以Michael Jackson的音乐作品为基础。在这些大陆上，玩家可以通过各种任务来获得游戏币，或者使用真实货币来换取游戏币。本月早些时候，美国游戏开发商Ubisoft也曾宣布，将于明年推出以Michael Jackson为主题的Xbox 360和Playstation游戏。"</i>

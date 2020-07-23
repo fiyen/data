@@ -1,0 +1,48 @@
+➜微软承诺改变 GVFS 的名字
+https://www.solidot.org/story?sid=56759	10699
+微软为 Git 版本控制系统开发的一个支持处理 TB 级库的插件 Git Virtual File System（GVFS）最近在社区引发了争议，原因是该项目的缩写与 GNOME 的虚拟文件系统项目 Gnome Virtual File System（GVfs）同名，容易混淆。微软被指<a href="https://www.solidot.org/story?sid=56716" target="_blank"><u>拒绝改名</u></a>，并关闭了所有请求改名的问题。但现在在引发更多关注之后，微软<a href="https://developers.slashdot.org/story/18/06/06/132215/microsoft-addresses-pressure-from-developer-community-promises-to-rename-gvfs" target="_blank"><u>改变了态度</u></a>，承诺改变 GVFS 的名字，它正在向社区为新的名字<a href="https://github.com/Microsoft/GVFS/issues/72" target="_blank"><u>征求意见</u></a>，微软考虑避免在新名字中包含 Git 这个名词。
+➜甲骨文在开源之后裁掉了 Java Mission Control 整个团队
+https://www.solidot.org/story?sid=56760	12310
+甲骨文在 5 月 3 日开源了 Java Mission Control 工具套件（即 JMC）。这一消息赢得了 Java 开发社区的热烈欢迎。但兴奋的情绪很快被整个 JMC 团队<a href="https://developers.slashdot.org/story/18/06/06/1253203/oracle-lays-off-java-mission-control-team-after-open-sourcing-product" target="_blank"><u>被裁掉</u></a>所带来的不安情绪所取代了。JMC 是 Java 虚拟机（JVM）否认分析和诊断工具套件，主要针对运行在生产环境中的系统。开发人员使用它来收集有关 JVM 和 Java 应用程序详细的运行状况信息。甲骨文 Java 平台组成员 Marcus Hirt 发表声明对所有在短时间内完成开源 Java Mission Control 的人<a href="http://www.infoq.com/cn/news/2018/06/open-source-jmc" target="_blank"><u>表示感谢</u></a>。根据 Hirt 的说法，开源 JMC 目的是让社区有计划向工具套件添加新特性和功能。
+➜欧盟将惩处 Google 滥用 Android 主导地位
+https://www.solidot.org/story?sid=56761	13450
+金融时报根据知情人士的消息<a href="http://www.ftchinese.com/story/001077932" target="_blank"><u>报道</u></a>，欧盟竞争事务专员维斯特格 (Margrethe Vestager) 准备在数周内宣布对 Google 不利的裁决，这是针对 Google 商业模式做出的最重大的监管干预。预计在 Android 案中，Google 将被处以罚款，但金额尚不清楚。欧盟委员会被授权处以最高达 110 亿美元的罚款——相当于 Google 母公司 Alphabet 全球营收的 10%——但通常情况下，最终的罚款决定都在这个范围的低端。这一决定将标志着欧盟委员会与 Google 之间的斗争升级。这些争斗始于 8 年前，当时欧盟委员会对 Google 的比较购物服务展开调查，那时这只是线上商务一个很小的组成部分。虽然该案最终对 Google 处以 24 亿欧元的罚款，但并没有导致 Google 的业务发生重大改变。第三项调查是针对该公司是否不公平地禁止竞争对手登上使用其搜索栏和广告的网站。此项调查正在进行中。
+➜更多美国驻华使馆工作人员因神秘声音患病
+https://www.solidot.org/story?sid=56762	15058
+美国驻古巴外交官遭受的神秘疾病<a href="https://www.nytimes.com/2018/06/06/world/asia/china-guangzhou-consulate-sonic-attack.html" target="_blank"><u>开始在中国出现</u></a>。美国国务院本周疏散了至少两名在广州生病的工作人员。目前还不清楚有多少人出现症状，国务院发言人称已经将一部分人送回美国进一步检查。生病的工作人员据称听到了奇怪的声音，类似 2016 年美国驻古巴外交官和工作人员受到的神秘声音攻击，听到声音的人报告出现了头痛、恶心、听力损失、认知问题和其他症状。在中国出现相同的情况之后，美国官方将怀疑对象从古巴转移到中国或俄罗斯。
+➜中国加强社会信用体系建设
+https://www.solidot.org/story?sid=56763	16709
+本周三举行的国务院常务会议表示将进一步建设和完善社会信用体系。政府<a href="http://www.gov.cn/premier/2018-06/06/content_5296647.htm" target="_blank"><u>新闻稿</u></a>称，“近几年...社会信用体系建设取得重要进展，统一社会信用代码基本实现全覆盖，守信联合激励和失信联合惩戒机制初步显威。要坚持应用导向、立法先行，进一步加强社会信用体系建设。一是围绕优化营商环境加快构建以信用为核心的监管机制，推广告知承诺制。二是建立黑名单制度，强化信用约束，对侵权假冒、坑蒙拐骗、虚假广告等违法违规行为要公开曝光、坚决整治，让失信者受到惩戒和震慑。三是坚决守住信息安全底线，保护商业秘密和个人隐私。四是加快推进重点民生领域信用体系建设，增进群众福祉。五是引导社会力量参与信用建设，发展第三方征信服务。强化政府部门诚信建设，依法依规处理‘官不理旧账’问题。”
+➜VPNFilter 恶意程序能降级 HTTPS
+https://www.solidot.org/story?sid=56764	25557
+思科安全研究人员在进一步分析后<a href="https://blog.talosintelligence.com/2018/06/vpnfilter-update.html" target="_blank"><u>发现</u></a>，恶意程序 VPNFilter比早先以为的<a href="https://arstechnica.com/information-technology/2018/06/vpnfilter-malware-infecting-50000-devices-is-worse-than-we-thought/" target="_blank"><u>更强大更具破坏性</u></a>。为俄罗斯政府工作的黑客利用 VPNFilter 在全世界<a href="https://www.solidot.org/story?sid=56597" target="_blank"><u>感染了 50 万路由器</u></a>，被感染的路由器品牌包括 Linksys、MikroTik、Netgear 和 TP-Link。现在研究人员报告，华硕、华为、中兴和  D-Link 等公司的路由器也遭到感染。思科研究人员从 VPNFilter 中发现了一个中间人攻击模块 ssler，攻击者能利用该模块向通过被感染路由器的流量注入恶意负荷，它甚至能悄悄修改网站发送的内容。ssler 还设计窃取敏感数据如密码，此类数据通常是加密传输，ssler 会尝试将 HTTPS 连接降级为明文 HTTP 连接。ssler&nbsp; 还特别为 Google、Facebook、Twitter 和 Youtube 的流量进行了调整，原因可能是这些网站提供了额外的安全功能，比如 Google 会自动将  HTTP 流量重定向到 HTTPS。ssler 还会去掉  gzip 提供的数据压缩，因为明文流量更容易修改。
+➜杀毒软件 F-Secure 发现远程代码执行漏洞
+https://www.solidot.org/story?sid=56765	26772
+一位安全研究人员先后在流行的解压缩开源软件 7-Zip 和杀毒软件 F-Secure 中<a href="https://landave.io/2018/06/f-secure-anti-virus-remote-code-execution-via-solid-rar-unpacking/" target="_blank"><u>发现了</u></a>与 RAR 拆包相关的内存处理漏洞， <a href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/adc65bfa/" target="_blank"><u>7-Zip</u></a>（18.05）和 <a href="https://www.f-secure.com/en/web/labs_global/fsc-2018-2" target="_blank"><u>F-Secure</u></a> 先后在 4 月 和 5 月底释出了新版本修复了漏洞。恶意的 RAR 档案能在软件扫描时利用该漏洞实现任意代码执行，漏洞能在本地用于提权或者远程利用。成功的攻击能导致系统被攻击者完全控制。这位研究人员在个人博客上详细介绍了漏洞和漏洞利用。
+➜Valve 将停止移除受争议的游戏
+https://www.solidot.org/story?sid=56766	28406
+Valve 最近陷入了舆论风暴。它的 Steam 平台是最大的 PC 数字游戏商店，这家昔日的著名游戏开发商现在只靠游戏销售分成而不靠开发游戏活着了。然而 Steam 商店中的内容参差不齐，一款模拟校园枪击的游戏让 Valve <a href="https://www.eurogamer.net/articles/2018-05-25-valve-steam-school-shooting-game" target="_blank"><u>受到了</u></a>激烈的批评。于是它开始整顿游戏，但色情相关的内容整顿又引起了争议。现在，Valve 决定不管了，它发表<a href="https://steamcommunity.com/games/593110/announcements/detail/1666776116200553082" target="_blank"><u>声明</u></a>宣布将停止移除受争议的游戏，除非游戏非法或者是纯粹钓鱼。Valve 声称它认为不应该由它来决定玩家应该玩什么游戏。Valve 看起来是想要学习 Google 等对内容保持中立。
+➜腾讯与政府合作用微信取代香港旅行证件
+https://www.solidot.org/story?sid=56767	29972
+腾讯<a href="https://cn.reuters.com/article/tencent0606-thur-hk-macao-idCNKCS1J303H" target="_blank"><u>表示</u></a>，该公司正在与中国有关部门合作，用微信取代往返香港与内地之间所使用的旅行证件。腾讯在边检站演示微信“扫一扫出入境”的流程，微信这个手机应用的功能或将变得更为强大，最终让中国公民不必再携带旅行证件。腾讯表示，正在与中国有关部门进行合作，计划面向大陆和香港居民推出一套基于生物特征辨识数据的电子卡系统，将他们的身份文件与微信应用联系起来，只需简单条码和面部识别便可轻松通关。腾讯在声明中表示，这套系统采用了公安部批准的数字身份识别解决方案的最新技术，采用的加密算法可以防止任何信息泄露。
+➜10 亿年前地球上的一天不到 19 小时
+https://www.solidot.org/story?sid=56768	34086
+随着月球逐渐远离地球，我们的行星自转在变慢，一天的时长每年增加  1/75,000 秒。根据发表在 PNAS 期刊上的<a href="http://www.pnas.org/content/early/2018/05/30/1717689115" target="_blank"><u>一项研究</u></a>，10 亿年前地球上的一天<a href="https://www.theguardian.com/science/2018/jun/04/the-days-are-getting-longer-but-very-very-slowly" target="_blank"><u>不到 19 小时</u></a>。纽约哥伦比亚大学的研究人员综合利用了天体理论和中国北方发现的有 14 亿年历史的下马岭组海洋沉积物中的地球化学指标，计算出过去 14 亿年月球从距离地球 44,000 公里处移动到今天 384,400 公里的地方。根据他们的计算，在 14 亿年前，地球上的一天相当于 18 小时 41 分钟。
+➜中国限制对外转移科学数据
+https://www.solidot.org/story?sid=56769	37968
+一些在中国执业的律师表示，在华外资集团<a href="http://www.ftchinese.com/story/001077934" target="_blank"><u>被限制向国外转移它们的研究数据</u></a>，这会阻碍国际科技合作，而制药公司受到的打击将最为严重。根据中国国务院在今年 3 月通过的一项法规，在华外国科学家和外资机构要将科学数据转移到国外，或者分享给中国境内的外国个人或机构，必须事先获得政府批准。几个月来，外资公司都在努力弄清楚这一新规是否会损害它们在中国的研发投资。 由于新规对 “科学数据” 定义宽泛，在中国进行药物测试或者实验室试验的公司可能需要先征得许可，才能把科研结果分享给在中国以外的总部或者监管机构。所开展研究的部分经费来自政府预算资金的科学家，如果要在国外学术期刊发表论文，就必须先获得资助机构的同意。然而，关于一项研究多少经费来自政府算政府资助项目，新规中没有设定最低门槛。
+➜Facebook 与 WhatsApp 创始人之间昂贵的分手
+https://www.solidot.org/story?sid=56770	44728
+华尔街日报<a href="https://www.wsj.com/articles/behind-the-messy-expensive-split-between-facebook-and-whatsapps-founders-1528208641" target="_blank"><u>报道了</u></a>（付费墙）Facebook 与 WhatsApp 创始人之间昂贵而丑陋的分手。知情人士称，双方的分歧主要在于如何从 WhatsApp 获取更多收入。Facebook 的商业模式是基于广告，公司想要从 WhatsApp 的庞大用户群中发掘出更多广告收入，但 WhatsApp 创始人 Jan Koum 和 Brian Acton 在管理数据隐私和定向广告上与母公司 CEO  Mark Zuckerberg 和 COO Sheryl Sandberg 存在分歧。Koum 曾推诿说他们没有足够的人手来实现某个项目，Zuckerberg 针锋相对的说他有他们所需要的足够人手。随着时间的迁移，双方都对对方感到失望。Acton 于去年 9 月辞职，Koum 则在今年 4 月 30 日宣布将离开公司。Acton 还公开支持删除 Facebook 账号运动，令其同事感到吃惊。Acton 后来被邀请到公司总部，FB Messenger 的高管 David Marcus 对他说这太低级了，而 Acton 则耸了耸肩。Acton 离开公司后放弃了 9 亿美元的股票奖励，而  Koum 预计将会放弃 4 亿美元的股票奖励。
+➜中国启动存托凭证（CDR）
+https://www.solidot.org/story?sid=56771	45039
+证监会<a href="http://www.csrc.gov.cn/pub/newsite/zjhxwfb/xwdd/201806/t20180606_339319.html" target="_blank"><u>发布了</u></a>《存托凭证发行与交易管理办法（试行）》等规章及规范性文件，明确存托凭证（CDR）发行与交易细则，标志着 CDR 已正式启动。新的规定为阿里巴巴、腾讯、京东和百度等境外上市的科技巨头回归境内市场提供了一种机制。尽管监管层希望市场各方理性投资，但预计 CDR 仍将会得到热烈追捧，并重塑 A 股市场结构，同时令本已捉襟见肘的 A 股资金面雪上加霜。市场人士普遍<a href="https://cn.reuters.com/article/china-csrc-cdr-capital-impact-0607-idCNKCS1J30T8" target="_blank"><u>表示</u></a>，证监会在极短时间内完成了整套 CDR 制度设计，速度明显快于预期，充分体现出监管层对于 CDR 这一新业务的支持。加之中国市场对新品种历来都有较高的热情，投资者对 CDR 的热捧不难想象。
+➜研究称尚无证据显示性爱机器人有害或有益
+https://www.solidot.org/story?sid=56772	46614
+性爱机器人的市场在升温，这个行业的市场价值估计高达 300 亿美元，至少有四家企业生产成年女性机器人，售价 5000 到 5 万美元。男性性爱机器人据称正在研发中。对于这种趋势，怀疑论者担心性爱机器人可能会增加对女性的厌恶和暴力，点燃恋童癖的冲动，或进一步孤立性挫败感。性爱机器人的厂商则强调其优点，如减少性疾病传播，抑制恋童癖等等。根据发表在《BMJ Sexual &amp; Reproductive Health》期刊上的<a href="http://srh.bmj.com/lookup/doi/10.11336/bmjsrh-2017-200012" target="_blank"><u>一篇文章</u></a>，研究人员认为双方的说法<a href="https://arstechnica.com/science/2018/06/theres-no-proof-that-having-sex-with-robots-is-good-for-you/" target="_blank"><u>事实上都没有证据</u></a>，尚无证据显示性爱机器人有害或有益。他们呼吁展开更多研究寻找出答案，他们认为性爱机器人不可避免的会对身体、精神和社会福祉产生影响。
+➜研究称高温和成绩存在相关性
+https://www.solidot.org/story?sid=56773	46907
+哈佛大学的一项研究<a href="http://www.bbc.com/zhongwen/simp/world-44335497" target="_blank"><u>显示</u></a>，在高温年头学生的考试成绩不尽人意。研究发现，高温与成绩表现之间有关联。研究分析了 13 年以来的 1000 万美国中学生的考试成绩，发现高温天气对学生考分有负面影响。研究人员汇总分析了从 2001 年到 2014 年期间学生们在不同年份以及不同天气和温度状态下的考试分数，得出结论说，在高温年度的考分往往偏低，而在气温较低年份的考试成绩较好。这一发现适用于所有地区。研究人员还做了一个计算，温度平均每上升 0.55 摄氏度学习成绩就下降 1％。根据研究，如果天气变冷似乎并不影响学习成绩，但是当气温开始升到 21 摄氏度以上就开始出现不良影响了。特别是如果温度高于 32 度，甚至 38 度对学习的影响开始加剧。
+➜中美达成协议解禁中兴
+https://www.solidot.org/story?sid=56774	47863
+路透社<a href="https://www.reuters.com/article/us-un-yemen-exclusive/yemen-peace-plan-sees-ceasefire-houthis-abandoning-missiles-idUSKCN1J22ZE" target="_blank"><u>报道</u></a>，美国商务部长 Wilbur Ross 宣布中美达成协议解除就中兴的贸易禁令，允许美国供应商继续向中兴供应零部件。美国是在今年 4 月对中兴实施长达七年的贸易禁令，五月份中兴宣布停止大部分经营活动。中兴已经因这一禁令损失了数十亿美元。根据双方达成的协议，中兴要在 30 天内缴纳 10 亿美元罚款，另外向第三方托管支付 4 亿美元托管金。中兴还被要求更换管理层和董事局。

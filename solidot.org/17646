@@ -1,0 +1,52 @@
+➜亚马逊部分 IP 被劫持 2 个小时
+https://www.solidot.org/story?sid=56278	11913
+未知攻击者为了窃取数字货币不惜动用了 BGP 路由广播劫持这个大杀器，攻击者的<a href="https://etherscan.io/address/0xb3aaaae47070264f3595c5032ee94b620a583a39" target="_blank"><u>钱包地址</u></a>目前拥有价值 1700 万美元的以太币，虽然这次行动窃取到的以太币并不多，但攻击者显然拥有惊人的可支配资源。本周二，UTC 时间上午 11:05 到下午 12:55 之间，攻击者在入侵亚马逊云服务的一家上游 ISP eNet 后向其对等网络<a href="https://blog.cloudflare.com/bgp-leaks-and-crypto-currencies/" target="_blank"><u>发出了假的路由广播</u></a>，重路由亚马逊 <a href="https://aws.amazon.com/route53/?nc2=h_m1" target="_blank"><u>Route 53</u></a> 服务的 1300 个 IP 地址，对等网络不疑有假，接受了路由通知，将数字货币网站 MyEtherWallet.com 域名的一部分流量重定向到钓鱼网站，该钓鱼网站的服务器位于俄罗斯境内。攻击者利用了 Equinix 的一台服务器发动了中间人攻击，共窃取了大约 15 万美元 MyEtherWallet 客户的数字货币。如此低的回报令人怀疑 MyEtherWallet <a href="https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f" target="_blank"><u>可能不是攻击者唯一的目标</u></a>。亚马逊<a href="https://arstechnica.com/information-technology/2018/04/suspicious-event-hijacks-amazon-traffic-for-2-hours-steals-cryptocurrency/" target="_blank"><u>表示</u></a>，AWS 或 Route 53 都没有被入侵。这起事故再次暴露了 BGP 的弱点。BGP 劫持发生过许多次，部分是因为失误，部分则是有意比如审查。
+➜台积电开始批量生产 7 纳米芯片
+https://www.solidot.org/story?sid=56279	12637
+台积电<a href="https://www.anandtech.com/show/12677/tsmc-kicks-off-volume-production-of-7nm-chips" target="_blank"><u>宣布</u></a>开始使用 7 纳米工艺技术(CLN7FF) 大批量生产芯片。台积电称，有十几家客户已经迫不及待想要使用 7 纳米工艺制造产品了。相比 16 纳米的 CLN16FF+ 工艺，在保持晶体管数量不变的条件下 CLN7FF 能将芯片面积减少 70% ，能耗降低 60% 或频率提升 30%。台积电称有 18 家客户将使用 CLN7FF 技术，超过 50 款 CLN7FF 产品将在今年前完成流片。台积电的 10 纳米工艺技术 CLN10FF 主要被用于制造移动 SoC，而 CLN7FF 预计将被用于制造 CPU、GPU、FPGA、神经网络处理器、数字货币挖矿加速器和移动 SoC 等更广泛的产品。
+➜电动巴士开始伤害石油行业
+https://www.solidot.org/story?sid=56280	14357
+当比亚迪 7 年前在比利时的一个行业会议上展示它的电动巴士原型时，电动巴士还被视为一种玩笑，而如今几乎每一家公司都有电动巴士。中国在这个领域占据优势。全世界公路上跑的 38.5 万辆电动巴士中，中国占了 99% ，每五周中国城市就会增加 9500 辆电动巴士。因为传统巴士消耗的燃料 30 倍于汽车，电动巴士<a href="https://www.bloomberg.com/news/articles/2018-04-23/electric-buses-are-hurting-the-oil-industry" target="_blank"><u>对能源行业的冲击比电动汽车大得多</u></a>。公路上每增加 1000 辆电动巴士就相当于每天有 500 桶石油被取代，根据电动巴士的使用量今年每天会有 279,000 桶石油被取代。
+➜肠道细菌可能会影响情绪
+https://www.solidot.org/story?sid=56281	16682
+人体中的微生物对消化、代谢、免疫和营养的影响不容忽视。现在,新研究发现微生物<a href="http://www.bbc.com/zhongwen/simp/science-43880939" target="_blank"><u>可能还影响情绪</u></a>。对小鼠的研究发现，植入抑郁症患者粪便的小鼠表现出抑郁症患者的许多行为特征，比如快感缺失。那么肠道细菌是如何影响大脑情绪的？科学家的猜测包括影响迷走神经，迷走神经是脑与肠之间的信息高速路；细菌把肠胃里的食物纤维素分解成一种能对全身产生作用的化学物质，叫短链脂肪酸；作用于免疫系统。微生物可以影响免疫系统，而免疫系统与脑功能失常有关联；细菌涉嫌利用微核糖核酸（一种细微的基因密码）来改变核糖核酸（DNA）在神经细胞中的作用。微生物和人的情绪之间的联系为心理疾病的预防和诊治开辟了一片新天地。
+➜中兴禁令对美国公司造成附带损害
+https://www.solidot.org/story?sid=56282	18094
+美国商务部上周对中兴实施了长达七年的贸易禁令，让这家中国第二大电信设备供应商处于生死关头。但禁令也对美国公司<a href="https://www.wsj.com/articles/in-zte-battle-u-s-suppliers-are-collateral-damage-1524562201" target="_blank"><u>造成了附带损害</u></a>（付费墙）。中兴的美国供应商既有高通这样的巨头，也有众多的中小型企业。美国供应商去年向中兴出售了 15 亿美元的产品，其中光纤网络设备公司  Acacia 三成的收入来自中兴，该公司的股价自 上周禁令宣布以来下滑了 31%；高通的股价下滑了 9%，中兴占到了该公司 223 亿美元收入的 1.5% 到 2.5%； 可编程芯片制造商 Xilinx 的股价下滑了 7%；NeoPhotonics 的收入有 4% 来自中兴，其股价下滑了 13%，它手中还有 150 万美元准备提供给中兴的存货，这些库存将被勾销...
+➜北京开始部署行人闯红灯抓拍系统
+https://www.solidot.org/story?sid=56283	26443
+中国<a href="https://www.solidot.org/story?sid=55853" target="_blank"><u>正成为</u></a>世界最先进的监视国家，面部识别等应用正在快速推广。在深圳测试了智能行人闯红灯取证系统后，北京<a href="http://www.bjnews.com.cn/inside/2018/04/25/484572.html" target="_blank"><u>宣布</u></a>开始部署类似的行人闯红灯抓拍系统。深圳交警还在网站上公开曝光了闯红灯的人的信息，目前不清楚北京交警是否会采用类似的曝光平台。官媒报道称，北京在通州区部署了首个行人闯红灯违法行为警示设施，这一新设施会把闯红灯行人的图像抓拍下来，即时显示在路口的大屏幕上。报道称，闯红灯违法记录未来还计划与个人信用挂钩。对道路行人实现警示和惩罚作用。对此，北京市法学会常务理事、公益法学研究会会长刘凝表示，从技术角度，目前的人像识别技术很成熟，从后台可以轻易识别同一人是否多次闯灯。刘凝认为，违法行为与个人信用挂钩是可以做到的，“记录了一次闯灯没问题，但是一百次的话，就可以看出个人信用有问题了。” 刘凝称，除了传统的金融机构信用识别系统之外，比如在求职的时候，用人单位可以参考你的个人交通违章记录对你个人的信用综合考评，促使交通参与者不得不自觉遵守交通法规。
+➜微软测试新版本 Windows 10 Lean
+https://www.solidot.org/story?sid=56284	26865
+微软在放弃受争议的版本 Windows 10 S 之后，又开始<a href="https://arstechnica.com/gadgets/2018/04/microsoft-appears-to-be-making-yet-another-windows-variant-windows-10-lean/" target="_blank"><u>测试</u></a>新的版本 Windows 10 Lean。新版本通过最新的预览版提供给用户。它的安装大小比 Windows 10 Pro 少 2GB，少了很多内容，包括墙纸、注册表编辑器、MMC 管理终端，它没有像 Windows 10 S 那样限制用户安装应用，允许运行传统的 Win32 程序。目前不清楚微软是否会正式提供该版本，或者 Lean 将最终版本的名字。
+➜中国科学家称朝鲜核测试地点已经塌陷
+https://www.solidot.org/story?sid=56285	27768
+阿里巴巴旗下的《南华早报》援引两组中国团队的发现<a href="http://www.scmp.com/news/asia/article/2143171/north-koreas-nuclear-test-site-has-collapsed-and-may-be-why-kim-jong-un" target="_blank"><u>报道</u></a>称，朝鲜核测试地点已经塌陷，令周围国家面临暴露在核辐射下的风险。朝鲜最近进行的五次核试验都在同一座山，报道认为测试地点塌陷也许可以解释为什么上周朝鲜领导人金正恩宣布停止核试验和导弹试验。中国科技大学 Wen Lianxing 领导的团队认为，塌陷是在去年秋天朝鲜引爆最强大热核武器之后发生的。核试验将山变成了脆弱的碎片。塌陷可能会将埋在地下的核辐射材料释放出来。
+➜动画展示彗星上的“雪”
+https://www.solidot.org/story?sid=56286	29843
+<div align="center"><img src="//img.solidot.org/0/592/li6dEytdXYd2.gif" width="350" height="350" align=""><br>
+</div>
+<br>
+欧洲航天局的罗塞塔探测器在 2014 年向彗星 67P/Churyumov–Gerasimenko 发射了登陆器菲莱，但因为着陆位置不佳菲莱登陆 60 小时后就因电池耗尽停止了工作，而罗塞塔探测器则围绕着彗星运行继续其观测任务。Max Planck Institute for Solar System 上个月<a href="https://imagearchives.esac.esa.int/picture.php?/172648/category/410" target="_blank"><u>公布了</u></a>罗塞塔在 2016 年 6 月 1 日拍摄到的照片。Twitter 用户 @landru79 利用这些数据<a href="https://petapixel.com/2018/04/24/this-is-the-surface-of-a-comet/" target="_blank"><u>制作了</u></a>一秒钟的<a href="https://twitter.com/landru79/status/988490703075463168" target="_blank"><u>动画</u></a>（如图所示）， 展现了一个令人称奇的彗星表面。@landru79 计划接下来制作一个彩色版本。
+➜Amazon Key 支持快递到汽车
+https://www.solidot.org/story?sid=56287	32634
+亚马逊去年宣布了智能门锁和监控探头系统 Amazon Key，允许快递员打开门禁进入室内放包裹。这套系统引发了争议，因为让陌生人进家门对大多数人来说都是难以接受的。现在，亚马逊<a href="https://arstechnica.com/gadgets/2018/04/amazon-key-expands-to-deliver-packages-inside-your-car/" target="_blank"><u>推出了</u></a>侵入性不那么强的 Amazon Key <a href="http://phx.corporate-ir.net/phoenix.zhtml?c=176060&amp;amp;p=irol-newsArticle&amp;amp;ID=2344122" target="_blank"><u>汽车投递服务</u></a>，允许快递员打开汽车后备箱将包裹放进去。使用这项服务需要客户的联网汽车与亚马逊的 Amazon Key 应用配对，目前该应用支持 2015 年之后的雪佛兰、别克、GMC 和凯迪拉克汽车，要求客户激活了 OnStar 账号。OnStar 之类的服务允许远程解锁汽车。
+➜事故显示智能汽车需要更宽的视野去探测骑车者
+https://www.solidot.org/story?sid=56288	37011
+避免撞上行人的自动紧急制动系统如今已是汽车的标配。但一项新研究<a href="https://spectrum.ieee.org/cars-that-think/transportation/safety/accidents-show-smart-cars-need-wide-vision-to-spot-cyclists" target="_blank"><u>发现</u></a>，为了避免撞上快速运动的骑车者，此类的安全系统需要视野更广的传感器。英国研究人员分析了真实的事故，识别自动紧急制动系统如何帮助汽车避免撞上骑车者的经验教训。他们发现，汽车需要 180 度的前向视野才能提供 90% 的骑车者探测区域。 相比之下，仅仅 35 度的前向视野就很少发生汽车与行人相撞的事故。<a href="https://www.sciencedirect.com/science/article/pii/S0001457518300964" target="_blank"><u>研究报告</u></a>发表在《Accident Analysis &amp; Prevention》期刊上。英国的事故数据显示汽车在路口更可能与骑车者而不是行人相遇。自主驾驶汽车的传感器通常有 360 度的视野。
+。
+➜Google 学苹果将手枪绘文字改成水枪
+https://www.solidot.org/story?sid=56289	40999
+<div align="center"><img src="//img.solidot.org/0/593/licaYGRmBbVA.png" width="350" height="169" align=""><br>
+</div>
+<br>
+2016 年苹果发布 iOS 10 时改动了手枪的绘文字（Emoji），用绿水枪取代了现实版的手枪卡通画，而 Google、三星、Facebook 和 Twitter 等仍然使用后者。两年之后，三星、Twitter 和 Google 先后被发现<a href="https://techcrunch.com/2018/04/24/looks-like-google-is-changing-androids-gun-emoji-into-a-water-gun/" target="_blank"><u>替换了手枪绘文字</u></a>。Google 在 GitHub 上的<a href="https://github.com/googlei18n/noto-emoji/" target="_blank"><u> Noto Emoji 库</u></a>被发现用水枪替换了原来的手枪，而 Noto Emoji 是 Android 系统默认使用的 Emoji 库。看起来苹果带头的转变被其它公司采用是不可避免的，这也可以避免引发误解：比如苹果用户发送的水枪绘文字在其他平台的用户眼里显示的是现实版的手枪绘文字，发送者会被认为违反了法律，会被视为死亡威胁。
+➜量子雷达将能发现隐形飞机
+https://www.solidot.org/story?sid=56290	43604
+加拿大滑铁卢大学的研究人员正在研发一种新技术，能帮助雷达操作员以极高精度从强背景噪音中探测到隐形飞机和导弹等物体。隐形飞机通常依赖于特殊涂层和外形来吸收和反射雷达波，使其在传统雷达下不可见。而研究人员研发的量子雷达，在理论上不仅能<a href="https://phys.org/news/2018-04-quantum-radar-expose-stealth-aircraft.html" target="_blank"><u>暴露隐形飞机</u></a>，而且会让隐形飞机不知道自己被发现了。量子雷达利用了名叫 <a href="https://en.wikipedia.org/wiki/Quantum_illumination" target="_blank"><u>quantum illumination</u></a> 的技术去探测和接收物体的信息。其核心是利用量子纠缠原理——即两个光子形成了一种联系或纠缠。通过向遥远目标发送纠缠光子对之一，然后检查收到信号中的光子寻找纠缠的光子，摒弃掉来自背景噪音的光子。这项技术能极大的改进雷达的信噪比。
+➜科学家发现天王星的气味闻起来像臭鸡蛋
+https://www.solidot.org/story?sid=56291	45984
+根据发表在《Nature Astronomy》期刊上的<a href="http://www.nature.com/articles/s41550-018-0432-1?error=cookies_not_supported&amp;code=694d3412-4367-4149-8573-9326e1c6bbd5" target="_blank"><u>一项研究</u></a>，科学家<a href="https://www.space.com/40374-uranus-clouds-smell-rotten-eggs.html" target="_blank"><u>发现</u></a>天王星大气层的气味闻起来像臭鸡蛋。科学家是利用近红外积分光谱仪（Near-Infrared Integral Field Spectrometer，NIFS）去确定天王星的气味，NIFS 允许科学家根据阳光的反射来判断大气的构成。天王星的大气富含硫化氢，这种分子闻起来像臭鸡蛋。研究人员说，如果有人穿过天王星大气层下降，他们将会遭遇极其不愉快的情况。然而相比寒冷，气味可能不是什么大问题。天王星的大气层零下 200 摄氏度，在闻到气味前就足以把人冻死。
+➜调查发现网民以为隐私模式能完全避免被跟踪
+https://www.solidot.org/story?sid=56292	47094
+美国和德国的研究人员展开的<a href="https://www.blaseur.com/papers/www18privatebrowsing.pdf" target="_blank"><u>一项调查（PDF）</u></a>发现，网民<a href="https://www.theregister.co.uk/2018/04/24/private_web_browsing_study/" target="_blank"><u>以为</u></a>隐私模式能完全避免被跟踪。结果显示， 56.3% 的参与者认为在隐私模式下登录 Google 账号将防止搜索巨人保存账号历史；46.5% 的人认为在在隐私模式下保存的书签不会在正常模式下显示；40.2% 的人相信隐私模式将防止网站跟踪他们的位置；27.1% 的人相信隐私模式能更好的防止恶意程序；25.2% 的人认为隐私模式将会模糊他们的公共 IP 地址。研究人员认为，浏览器开发商应该更清楚的告诉用户隐私模式究竟是干什么的。

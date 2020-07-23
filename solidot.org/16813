@@ -1,0 +1,45 @@
+➜EA在PC平台推出月费5美元的Origin Access
+https://www.solidot.org/story?sid=46858	9040
+EA在PC平台推出了类似Netflix的<a target="_blank" href="https://www.origin.com/en-us/store/origin-access"><u>Origin Access会员服务</u></a>，会员每月花5美元可以免费玩一批挑选出来的EA和第三方发行的游戏。这项服务目前只向美国、加拿大、英国和德国用户开放，EA表示未来会向更多国家开放，但和Netflix一样，Origin Access应该不太可能进入中国，因为它的游戏库包含了一个被中国禁止的游戏——《战地4》。除了《战地4》外，Origin Access中提供的游戏还有《战地3》、《模拟城市2013》、《龙腾世纪：审判》、《战地：强硬派系》、《模拟人生3》（不包含所有DLC）、FIFA15、《死亡空间》系列，《极品飞车18》、以及非EA发行的游戏《This War of Mine》等共15款。EA表示游戏数量会陆续增加。会员还有其他优惠，包括所有Origin商店游戏10%的折扣。如果玩家没有购买过这些游戏，这一服务是相当实惠的。
+➜EFF称必须追究思科帮助中国的责任
+https://www.solidot.org/story?sid=46859	12795
+电子前哨基金会（EFF）<a target="_blank" href="https://www.eff.org/press/releases/eff-court-cisco-must-be-held-accountable-aiding-chinas-human-rights-abuses"><u>告诉联邦上诉法院</u></a>，必须追究思科公司帮助中国侵犯人权的责任。思科帮助中国建造了防火长城系统，EFF称，思科知道它在美国开发的技术会被专制政府用于侵犯人权，但仍然有意识的帮助中国建造了这套系统。思科只是越来越多的帮助专制政府更有效实施人权侵犯的美欧科技公司之一，EFF认为应该追究这些公司在迫害行为中的责任。
+➜PC销量延续下滑趋势
+https://www.solidot.org/story?sid=46860	14578
+根据IDC的数据，2015年第四季度PC销量降至2007年<a target="_blank" href="http://cn.wsj.com/gb/20160113/tec075700.asp"><u>以来的最低水平</u></a>。PC行业的这一趋势源自三重打击：中国经济放缓，美元坚挺令欧洲PC上升，智能手机以及其它移动设备的迅猛增长。IDC的统计显示，2015年PC发货量达2.762亿台，比上一年下降了10.4%。 另一家分析公司Gartner的统计显示，2015年个人电脑发货量达2.887亿台，下降8%。两家公司均发现，三大PC制造商2015年第四季度发货量全部出现下滑：联想凭借1540万台的销量仍居首位，其次是惠普（1430万台）和戴尔（1020万台）。
+➜Fortinet防火墙发现硬编码后门
+https://www.solidot.org/story?sid=46861	16830
+研究人员在Juniper竞争对手Fortinet的防火墙系统FortiOS中发现一个<a target="_blank" href="http://seclists.org/fulldisclosure/2016/Jan/26"><u>硬编码的SSH后门</u></a>，影响版本号4.3到5.0.7。这个硬编码的密码是FGTAbc11*xy+Qqz27。Juniper的防火墙之前被曝光过两个后门，其中一个是硬编码的管理权限密码。Fortinet否认硬编码密码是后门，称这个漏洞是一个管理身份认证问题，表示早在2014年7月就释出补丁修复了，漏洞是被他们的安全团队识别出来的。<a target="_blank" href="http://arstechnica.com/security/2016/01/et-tu-fortinet-hard-coded-password-raises-new-backdoor-eavesdropping-fears/#p3"><u>研究人员说</u></a>，FortiOS 5.2.3中还是存在有这个硬编码密码，虽然不能被利用，但非常可疑。
+➜微软将停止支持IE 7、8、9和10，以及Windows 8
+https://www.solidot.org/story?sid=46862	18877
+本周二的Windows 例行补丁释出之后，<a target="_blank" href="http://arstechnica.com/information-technology/2016/01/windows-8-internet-explorer-7-8-9-and-10-mostly-consigned-to-the-dustbin-of-history/"><u>微软正式开始实行新的IE支持政策</u></a>：只支持每个Windows支持版本上的最新IE浏览器。这意味着，IE 7、8、9和10将基本上停止支持。 Windows Vista的最新IE浏览器是IE9，从下个月开始微软不再提供IE 8的补丁；而在Windows 7和8.1上，最新的IE版本是IE 11。微软还停止支持了Windows 8，如果Windows 8用户想要继续获得安全更新，他们必须升级到Windows 8.1，或者微软最希望的Windows 10，原因是Windows&nbsp; 8.1被微软视为 Service Pack，软件巨人对于 Service Pack的政策是：当一个  Service Pack释出之后，旧版本的支持时间为24个月，之后用户必须升级到新版。
+➜雅虎和解邮件隐私集体诉讼案，用户一分不得，律师得到400万
+https://www.solidot.org/story?sid=46863	27177
+2013年，雅虎因为自动扫描邮件内容展示针对性广告而被集体起诉侵犯用户隐私。现在，代表原告的律师与雅虎签署了和解协议，他们请求法官 Lucy Koh接受提议的和解。根据提议，<a target="_blank" href="http://arstechnica.com/tech-policy/2016/01/yahoo-settles-e-mail-privacy-class-action-4m-for-lawyers-0-for-users/"><u>绝大部分原告不会得到一分钱</u></a>，而他们的律师要求最高400万美元的诉讼费——最终费用由法官决定。虽然用户得不到赔偿，但雅虎同意改变处理用户电子邮件的方式，但不会停止扫描电子邮件——雅虎将在用户访问邮件之后将邮件发送到服务器进行广告目的的分析。
+➜携程被指卖假机票利用时间差赚差价
+https://www.solidot.org/story?sid=46864	28436
+在线旅游中介携程被用户指责“卖假飞机票”：一起事件与涉嫌转卖积分兑换机票有关，另一起则是无效的机票。对于这两起事故，携程的解释是供应商违规操作和供应商人工操作失误，没有给出详细的解释。一位旅游业内人士则称，出现假票号可能是供应商先买了机票，后来又退票，中间有一些操作失误造成的。但携程的用户<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5NDgyODUwNQ==&amp;mid=402622772&amp;idx=1&amp;sn=5f65a3e5202b6764ffabe4dac0a95737&amp;scene=2&amp;srcid=0112bSYCvqIP9Fx9L1a5KQRE&amp;from=timeline&amp;isappinstalled=0#wechat_redirect"><u>认为</u></a>，当用户付款之后，携程并没有真正购买飞机票，而是给一个虚假的电子票号，然后根据航空公司的飞机票价格变动，利用时间差获得更低价位的机票，从中赚取差价。为了赚取价差，携程不惜让乘客面临出行不能顺利成行的风险。官媒财新网援引该公司内部人士的话<a target="_blank" href="http://companies.caixin.com/2016-01-12/100898678.html"><u>报道</u></a>，“携程不能回避责任，应该加强监管力度，保障用户权益。与此同时，携程背后的问题其实是航空公司与代理商之间的管理问题，航空公司对代理商的控制力是最强的，航空公司是否可以从源头上加强对代理商的监管？”
+➜科学家设计出防爆锂离子电池
+https://www.solidot.org/story?sid=46865	30565
+科学家<a target="_blank" href="https://thestack.com/world/2016/01/12/explosion-proof-lithium-ion-battery-shuts-down-at-high-temperatures/"><u>设计出</u></a>一种能根据温度自我调控的锂离子电池。达到极限温度后，电池将会关闭，冷却之后才会重新启动。锂离子电池过去几年发生过多次爆炸事故，新的技术将能防止其过热爆炸。锂离子电池的电解质在温度达到150摄氏度后会起火，引发爆炸。斯坦福大学教授鲍哲南(Zhenan Bao)和她的团队在《Nature Energy》上发表<a target="_blank" href="http://www.nature.com/articles/nenergy20159"><u>论文</u></a>，描述了他们解决电池过热爆炸的方法：在一个电极上添加一个弹性聚乙烯薄膜，利用热风枪（hot-air gun）在温度达到160度时，聚乙烯薄膜膨胀而导致电池关闭。
+➜法国议会讨论禁止强加密的法案
+https://www.solidot.org/story?sid=46866	32538
+法国国民议会<a target="_blank" href="http://www.dailydot.com/politics/encryption-backdoors-french-parliament-legislation-paris-attacks-crypto-wars/"><u>正考虑立法禁止强加密</u></a>。禁止加密的修正案是庞大的数字共和国法案的一部分，由保守党共和党成员提出。法国议会将在本周审查和辩论数字共和国法案。禁止强加密是为了回应2015年法国巴黎发生的两起致命恐怖袭击，但没有证据显示恐怖分子使用了强加密进行联络，他们使用的是未加密的通信工具。对于强加密，数字共和国法案先扬后贬，称赞了它保护用户数据的重要性，但很快批评它对国家安全的影响，称法国必须采取行动迫使设备制造商，在案件调查和法官监管下，向执法部门提供访问设备的方法——用通俗的话说就是后门。<br>
+➜Remix OS：为桌面打造的Android修改版本
+https://www.solidot.org/story?sid=46867	33133
+由前Google工程师创办的Jide Technology<a target="_blank" href="http://arstechnica.com/gadgets/2016/01/remix-os-a-multi-tasking-windowed-android-os-can-now-run-on-your-pc/"><u>发布</u></a>了<a target="_blank" href="http://www.jide.com/en/remixos-for-pc#downloadNow"><u>alpha版的 Remix OS 2.0 </u></a>。Remix OS将针对移动平台的Android系统转变成视窗桌面环境，能像Windows、Linux和OSX那样提供多任务操作功能。Remix OS大小约700MB，需要64位CPU，基于 Android-x86项目，支持鼠标键盘。用户可以通过U盘启动尝试这套桌面版的Android。此前有报道称，Google正计划合并Android和Chrome OS，所以通过Remix OS，你或能一探未来。
+➜油价12年来首次跌穿30美元
+https://www.solidot.org/story?sid=46868	36336
+美国原油期货12年来<a target="_blank" href="http://cn.reuters.com/article/oil-depth-idCNKCS0UR0CG20160113?sp=true"><u>首次跌穿每桶30美元</u></a>。由于投资者担心供应持续过剩以及中国需求脆弱，美国原油期货CLc1在新年以来连跌七日，今年跌幅已接近20%，自2014年中后跌幅则达到70%。大型能源企业承认，油价可能要到许多年后才会反弹。周二，美国原油期货直至2021年的合约均低于50美元。以俄罗斯为例，能源为该国贡献了约一半的财政收入，在出口中比重高达40%。每桶30美元的油价，可能让俄罗斯在能源市场牛市中积攒的应急资金在仅一年多时间内就消耗殆尽，并留下巨大的财政窟窿。就连沙特也正在感受到这股压力。沙特为保卫市场份额拒不减产的政策，连同美国页岩油生产企业的抗压性，被认为是全球供应持续过剩的原因所在。
+➜印度电信管理局无视Facebook的游说活动
+https://www.solidot.org/story?sid=46869	39966
+印度的监管机构印度电信管理局因为Facebook的免费服务Free Basics可能违反了网络中立而下令暂停这项服务，社交巨人随后发起了大规模的游说活动，鼓励Facebook用户致函印度电信管理局，请求保留这项服务。截至1月7日，电信管理局称它<a target="_blank" href="http://www.csmonitor.com/Technology/2016/0111/As-India-considers-net-neutrality-Facebook-mounts-a-lobbying-campaign"><u>收到了大约200万条留言</u></a>，用户使用的邮箱主要有@supportfreebasics.in和@facebookmail。然而，电信管理局<a target="_blank" href="http://www.trai.gov.in/WriteReadData/ConsultationPaper/Document/201601090922527372065Comments_data_services.pdf"><u>指出（PDF）</u></a>绝大部分留言都是模板式回应，内容相同，只是重复了Facebook的观点。Free Basics服务受到批评的一个原因是它创造了一个围墙花园。
+➜英特尔的Linux发行版提供了最快的开箱即用性能
+https://www.solidot.org/story?sid=46870	42812
+Ubuntu、OpenSUSE、Debian、Clear Linux、Fedora、Antergos和CentOS最新稳定版本和滚动更新版本的基准测试<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&amp;item=10-way-2016&amp;num=1"><u>显示</u></a>，英特尔的发行版Clear Linux提供了最快的开箱即用性能。<a target="_blank" href="https://clearlinux.org/"><u>Clear Linux</u></a>是一个滚动更新发行版，最新版本号是5700，它主要专注于容器和云端。相比其它发行版，它采用了最具有进取性的优化策略以提供最快的性能，它默认启用了许多编译器优化，如支持<a target="_blank" href="https://clearlinux.org/features/function-multiversioning-fmv"><u>Function Multiversioning</u></a>，运行时根据CPU类型自动选择最正确的架构特定代码版本。其它发行版也可以进行调整以提供更高的性能，但Clear Linux提供了最快的开箱即用性能。
+➜白炽灯能实现与LED灯相似的能耗
+https://www.solidot.org/story?sid=46871	43524
+MIT的研究人员<a target="_blank" href="http://www.sciencemag.org/news/2016/01/how-get-old-fashioned-light-bulb-glow-without-wasting-so-much-energy"><u>找到了方法</u></a>，能显著改进爱迪生一百多年前发明的白炽灯的能耗，在能耗效率上做到与商业LED灯泡一样好，虽然新的高效白炽灯距离商业化还比较遥远。白炽灯自爱迪生发明以来没有多少改变，主要是向卷状的钨丝输电，加热到3000K，钨丝产生黄白色光。白炽灯的能耗很低，只有2%的能量输入是被用于产生可见光，大部分都是以热的形式浪费掉了。LED灯的能耗则能达到5%到15%。研究人员的方法是用纳米技术处理的镜子回收钨丝产生的大部分热，将其转变成可见光，使得能量利用效率提高到6.6%。<a target="_blank" href="http://www.nature.com/nnano/journal/vaop/ncurrent/full/nnano.2015.309.html"><u>论文</u></a>发表在《Nature Nanotechnology》期刊上。
+➜Slackware 14.2 Beta发布
+https://www.solidot.org/story?sid=46872	45303
+Slackware创始人Patrick Volkerding的新年致辞是发布<a target="_blank" href="http://www.slackware.com/changelog/current.php?cpu=i386"><u>Slackware 14.2的第一个beta版本</u></a>。Slackware是历史最悠久的开发仍然活跃的Linux发行版。新版本的主要变化是切换到PulseAudio， Volkerding说使用PulseAudio后Slackware终于变成了一个现代的发行版了。其它变化包括：Linux 4.4 LTS，默认编译器GCC 5.3， AMDGPU X.Org驱动， eudev取代了udev，等等。

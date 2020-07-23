@@ -1,0 +1,48 @@
+➜颠覆热力学第二定律——量子关联改变热量流动方向
+https://www.solidot.org/story?sid=61194	8329
+<a href="/~千面">千面</a> 写道<i> "大家都知道，在没有外界做功的情况下，热量只能从高温物体传递给低温物体。近日<a href="https://www.nature.com/articles/s41467-019-10333-7" target="_blank">巴西科学家</a>发表在Nature Communications的文章里，用量子关联现象实现了在没有外界做功情况下热量从低温物体传递给高温物体，虽然这个传递过程只限于两个原子核之间几千分之一秒的时间，但为更深入理解热力学第二定律在自然界的作用带来崭新视角。"</i>
+➜ICANN 允许 .org 域名年费不受限制的涨价
+https://www.solidot.org/story?sid=61195	11795
+互联网域名管理机构 ICANN <a href="https://reviewsignal.com/blog/2019/06/24/the-case-for-regulatory-capture-at-icann/"><u>解除了</u></a> .org 域名年费上涨限制，允许不受限制的涨价。今年四月，ICANN <a href="https://www.solidot.org/story?sid=60386"><u>公布了涨价提议</u></a>，征求公众意见。但尽管有大量的反对意见，ICANN 依然站在域名注册商一边，允许域名费用无限制上涨。这也意味着其它更流行的顶级域名如 .com 和 .net 都可能会跟着涨价。
+➜Google 开源 robots.txt 解析器
+https://www.solidot.org/story?sid=61196	13957
+Google 称过去 25 年 <a href="http://www.robotstxt.org/norobots-rfc.txt"><u>Robots Exclusion Protocol (REP)</u></a>协议一直是一种约定的标准，给网站管理员人员和爬虫工具开发者带来了很多不确定性。Google 现在<a href="https://webmasters.googleblog.com/2019/07/repp-oss.html" target="_blank"><u>宣布</u></a>它将率先致力于让 REP 成为一个行业标准，作为这个努力的一部分，它开源了自己使用的 robots.txt 解析器，<a href="https://github.com/google/robotstxt"><u>源代码</u></a>托管在 GitHub 上，采用 Apache License 2.0 许可证。robots.txt 解析器是一个 C++ 库，用于解析和匹配 robots.txt 文件中的规则，它已经有约 20 年历史了，包含了 1990 年代写的代码。
+➜华为称正在等待美商务部对继续使用 Android 给出指引
+https://www.solidot.org/story?sid=61197	15763
+美国总统特朗普在 G20 峰会之后宣布解除对华为购买美国高科技产品的限制。对此华为<a href="https://cn.reuters.com/article/usa-trade-huawei-0701-mon-idCNKCS1TX00N"><u>表示</u></a>，正在等待美国商务部就能否在其新推出的智能手机上重新使 Google Android 操作系统发布指引。使用 Android 其实不需要得到任何人的许可，但预装 Google 的服务则需要获得授权。华为负责风险管理的副总裁 Tim Danks 表示，“我们知道特朗普总统周末关于华为的表态，将等待商务部的相关指引，目前没有进一步的评论。” 美国商务部尚未澄清该决定是否涉及 Android 及 Google 服务。美国半导体业联合会主席 John Neuffer 则在一份书面声明中<a href="https://www.dw.com/zh/%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E5%AE%9E%E8%B4%A8%E6%98%AF%E4%BA%89%E5%A4%BA%E7%A7%91%E6%8A%80%E9%9C%B8%E4%B8%BB/a-49428999"><u>表示</u></a>，“重开谈判以及暂缓证收新关税让我们深受鼓舞。我们希望知道总统有关华为的表述上有更多的细节。”
+➜Oppo 公布私有网状网技术 MeshTalk
+https://www.solidot.org/story?sid=61198	17641
+广东欧珀电子（Oppo）<a href="https://www.theverge.com/2019/6/26/18759389/oppo-meshtalk-communications-protocol-no-internet-access"><u>宣布了</u></a>它的私有网状网技术 MeshTalk，允许其手机用户在不使用蜂窝网络、Wi-Fi 或蓝牙的情况下进行中短距离的通话或聊天。MeshTalk 是一个去中心化的端对端系统，室外通信距离最远 3 公里。在人群拥挤的环境如果设备之间能中继信号，通信距离还能更远。MeshTalk 其实就是在一个较大的区域内创建一个点对点的局域网，无需基站移动设备之间就能直接通信。欧珀声称，MeshTalk 对电池续航力没有显著的影响，在待机模式下能工作最长 72 小时，在低电力下仍然能联络紧急服务。欧珀在上海世界移动大会上演示了这项技术，目前还不清楚它将何时推出。
+➜中国已建立虹膜识别系统
+https://www.solidot.org/story?sid=61199	19677
+官媒<a href="http://news.sciencenet.cn/htmlnews/2019/7/427959.shtm"><u>报道了</u></a>中国已建立的虹膜识别系统。虹膜是人体最独特的结构之一，自胎儿阶段形成后直至死亡终生不变，具有极强的唯一性和稳定性，“与指纹、人脸等生物特征相比，虹膜具有识别准确度更高、极难伪造等优点。”北京中科虹霸与公安系统合作，通过建立违法犯罪人员虹膜图像信息统一数据库，建设虹膜识别云服务平台，为公安各业务领域提供了虹膜的基础数据支撑。目前该平台已建立 2000 万人口容量的虹膜数据库，实现与部级平台核查比对服务。北京市公安局部分分局重点人员虹膜采集设备部署工作、环京 29 处检查站虹膜采集识别设备部署工作等已相继完成。
+➜工程院院士被指论文造假
+https://www.solidot.org/story?sid=61200	27472
+自称医疗工作者的网友发帖称，在撰写论文搜索资料时发现中国工程院院士<a href="http://new.gb.oversea.cnki.net/kns/brief/default_result.aspx"><u>李兆申</u></a>教授发表的论文，涉嫌剽窃浙江大学和山西医科大学两名硕士研究生的文章，并有多篇文章涉嫌剽窃、抄袭、一稿多投、重复发表等学术不端问题。对于网曝内容，<a href="https://www.thepaper.cn/newsDetail_forward_3818116"><u>李兆申说</u></a>：“这个整个是乱说，我没必要回应他，（评判论文是否有造假）这都是科研评估机构做的事情。一个枪手，一个网络记者怎么能知道这些事情？”他补充道，“每一个单位，每一个科研机构都应该有一个评估体系，评估出来是（否）有问题，就是你是否属于抄袭或者什么的。而不是随便一个人就这样来弄，他怎么可能知道这些事情呢？”
+➜索尼随身听发布四十周年
+https://www.solidot.org/story?sid=61201	27972
+1979 年 7 月 1 日，索尼<a href="https://www.stereogum.com/2049762/the-first-sony-walkman-was-released-40-years-ago-today/" target="_blank"><u>开始销售</u></a>后来被称为随身听的  TPS-L2 袖珍播放机。初代随身听不是第一款便捷式磁带录放机，而是第一款没有录音功能的播放机。配备轻量级耳机的随身听是第一款专为音乐设计的播放设备。它改变了世界。第一代随身听重约一磅，售价 200 美元，有两个耳机插孔和一个按钮，它允许两个带着耳机的人一起说话或一起唱歌。在随身听到来之前，人们没有办法在公共场合私下听音乐。它是一项革命性的发明，此后越来越多的磁带播放机进入市场，价格也开始下跌。
+➜佛罗里达城市在支付赎金后解雇了 IT 部门经理
+https://www.solidot.org/story?sid=61202	32012
+上周佛罗里达城市  Lake City 在被迫向勒索者支付赎金后<a href="https://it.slashdot.org/story/19/07/01/2151204/florida-city-fires-it-employee-after-paying-ransom-demand-last-week"><u>解雇了 IT 部门经理</u></a>，IT 经理的职责之一是备份系统，但勒索软件攻击显示他不称职。Lake City 的计算机网络是在 6 月 10 日感染了恶意程序。它遭到了三波攻击。首先是一名雇员打开了所收到邮件中的文档，导致 IT 系统感染了 Emotet 木马，然后该木马下载了另一个木马 TrickBot，最后下载了 Ryuk 勒索软件。勒索软件扩散到了城市的整个 IT 系统，加密了文件，索要赎金。市议会最终同意支付接近 50 万美元的赎金。
+➜美国参议院通过法案将电网控制从自动化转向手动
+https://www.solidot.org/story?sid=61203	35530
+上周，美国参议院通过一项被称为《<a href="https://www.king.senate.gov/imo/media/doc/01-17-19%20Securing%20Energy%20Infrastructure.pdf" target="_blank"><u>The Securing Energy Infrastructure Act(SEIA)</u></a>》的网络安全方案，<a href="https://yro.slashdot.org/story/19/07/01/2350212/senate-passes-cybersecurity-bill-to-decrease-grid-digitization-move-toward-manual-control"><u>研究</u></a>使用低技术冗余替代自动化系统保护电网免受网络攻击的方法。该法案将建立一个两年的试点计划，识别新的安全漏洞，研究和测试解决方案，包括使用模拟和非数字控制系统。分布式能源能更有效的分配电网负荷，但也为潜在攻击者提供了更多渗透点。电网的连通性既是其强大之处也是其薄弱环节，美国希望利用手动控制的方法减少网络中的薄弱点。
+➜海外华人通过中国代理服务器访问中国特有内容
+https://www.solidot.org/story?sid=61204	37515
+今年 24 岁的 Linda Yang 是一名在墨尔本大学攻读硕士的在读生，她在澳大利亚的生活遇到过一件麻烦事 —— 离开中国，手机里许多音乐 APP 的歌曲都变成了无法播放的灰色链接。在同学的介绍下，Linda 获悉有一款手机 APP 能让她在澳大利亚 “翻墙回国”，这是一款叫穿梭（Transocks）的 VPN（虚拟专用网络）服务，专门帮海外华人解决浏览中国网站时遇到的访问限制问题。短短两年多的时间里，这款 APP 的用户数量一直在增长，主要分布在北美、日本、澳大利亚、新西兰和西欧几个地区，目前在南美、俄罗斯、非洲和东南亚等地区的用户也在增加。腾讯音乐在一份声明中<a href="https://www.abc.net.au/chinese/2019-06-27/overseas-chinese-using-vpn-to-access-china-s-censored-internet/11255662"><u>表示</u></a>，海外用户无法收听部分歌曲是由于音乐版权按不同国家区域分别进行授权，而该平台未获得一些歌曲在海外部分地区的版权。
+➜SKS Keyserver Network 遭到“中毒”攻击
+https://www.solidot.org/story?sid=61205	41041
+OpenPGP 项目的两位知名开发者 Robert J. Hansen (rjh) 和 Daniel Kahn Gillmor(dkg)过去一周成为证书中毒攻击的<a href="https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f"><u>受害者</u></a>。未知攻击者利用 OpenPGP 协议本身的缺陷给 rjh 和 dkg 的 OpenPGP 证书下毒。导入中毒版证书会破坏存在缺陷的 OpenPGP。中毒证书已经存在于 SKS Keyserver Network 中，没有理由认为攻击者在对两个证书下毒后就停止攻击。dkg 称 Tor 项目的多个证书<a href="https://lwn.net/Articles/792509/"><u>也遭到攻击</u></a>。这一攻击无法在短期内被 SKS keyserver 或 OpenPGP Working Group 减轻影响，未来发布的 OpenPGP 将会包含一些削弱攻击的方法，但目前没有时间表。权宜之计是不要从 SKS Keyserver Network 提取数据。Keyserver 使用的软件是一名研究员使用 OCaml 语言为自己的博士论文开发的，社区缺乏理解其算法或该语言的人才。软件没人维护，也没有人有资格去修改代码。
+➜Google 发布了 Fuchsia OS 开发者网站
+https://www.solidot.org/story?sid=61206	42832
+Google 发布了 Fuchsia OS 开发者网站<a href="https://fuchsia.dev/fuchsia-src" target="_blank"><u> fuchsia.dev</u></a>。Fuchsia OS 是 Google 正在开发的实验性操作系统，使用名叫 <a href="https://fuchsia.googlesource.com/fuchsia/+/master/zircon/README.md"><u>Zircon</u></a> 的微内核。Zircon 最初被命名为 Magenta。这个新操作系统引发了很多猜测，被认为将取代 Android 和 Chrome OS。虽然 Google 高管今年早些时候<a href="https://www.solidot.org/story?sid=60565" target="_blank"><u>否认了</u></a>这一说法，称 Fuchsia OS 的意图不是想成为新的 Android 或 Chrome OS，而是尝试在操作系统中引入最新技术，将项目上获得的知识整合到其它产品。
+➜Google Earth 使用 WebAssembly 推出浏览器版本
+https://www.solidot.org/story?sid=61207	44579
+Google Earth 团队<a href="https://www.infoq.com/news/2019/06/google-earth-web-assembly-port/">发布</a>了 <a href="https://g.co/earth/beta"><u>WebAssembly 移植预览版本</u></a>，支持 Chrome&nbsp; 和其它基于 Chromium的浏览器如新 Edge，以及 Firefox。Google Earth 发布于 14 年前，允许用户探索整个地球的 3D 虚拟环境。它后来还发布了  Android 和 iOS 版本。2017 年发布了支持  Chrome 的版本，使用 Google 的 Native Client (NaCl)技术，但这项技术只有 Google 支持，意味着浏览器版本只能运行在 Google 的浏览器上。通过使用源自 Mozilla Asm.js 项目的 WebAssembly 技术，新的版本实现了跨浏览器支持，Firefox 用户也能在浏览器上浏览虚拟地球了。
+➜《莎木 III》承诺将向支持者退款
+https://www.solidot.org/story?sid=61208	45249
+上个月的 E3 展会上，《莎木 III》开发商<a href="https://www.solidot.org/story?sid=60934"><u>宣布</u></a>游戏将成为 Epic 商店独占（限时一年）。《莎木 III》此前在 Kickstarter 上众筹时承诺将向玩家提供 Steam key，因此 Epic 商店限时独占在支持者中间引发了广泛争议，部分支持者因此要求退款。现在，《莎木 III》<a href="https://www.kickstarter.com/projects/ysnet/shenmue-3/posts/2553891"><u>更新了 Kickstarter 项目页面</u></a>，回应了玩家的要求：如果支持者提出退款要求它将会给予退款；如果支持者继续选择 PC 数字版本，那么游戏将会提供两个 key，一个是游戏发布时提供 Epic 商店的 key，以及一年后在 Steam 商店发布时提供 Steam 的 key。
+➜北极狐步行 3500 公里穿越北极
+https://www.solidot.org/story?sid=61209	46911
+一次史诗之旅，一只年轻的北极狐在 76 天里从挪威的 Svalbard 群岛步行到加拿大北部，总行程高达 3,506 公里。<a href="https://www.bbc.com/news/blogs-news-from-elsewhere-48824181"><u>科学家对此目瞪口呆</u></a>。挪威的研究人员给这只北极狐安装了 GPS 跟踪设备，去年三月在 Svalbard 群岛主岛 Spitsbergen 的东海岸将其释放。这只一岁大的狐狸只花了 21 天就抵达了格陵兰岛，行程 1,512 公里。离开 Svalbard 群岛 76 天后它到达了加拿大。它平均每天的行程超过 46 公里，最快能达到 155 公里。科学家无法想象他们的眼睛，他们以为狐狸已经死了，或者搭乘了船，但该地区没有任何船。这只狐狸在加拿大的生活情况我们将一无所知，因为跟踪设备已经停止了工作。

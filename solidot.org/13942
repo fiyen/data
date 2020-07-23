@@ -1,0 +1,41 @@
+➜数字人——我们的大脑和数字有交集
+https://www.solidot.org/story?sid=5426	2400
+猴子、海豚、鹦鹉，甚至包括鱼儿都有有限的数数能力，人类本质上和它们一样，一种奇异的随机的进化让头骨里包容着的3磅大脑灰质产生了神奇的能力，但在基本层面，人类与动物可能存在非常相似的东西，数字或许就是那条引线。
+《纽约客》的一篇报道讲述了法国神经科学家Stanislas Dehaene对婴儿、大脑损伤者的研究，他<a href="http://www.newyorker.com/reporting/2008/03/03/080303fa_fact_holt?currentPage=1">发现人类会产生“数字”鸿沟</a>，人类天生就有一种内在的“数觉”，能进行基本的计算和估计，一开始我们的数学推算是出于本能。
+<i>
+N先生：大脑严重出血，几乎丧失了所有能力，甚至无法回答2+2的值，却能正确排2，4，6，8的次序，但不能反着排。他能快速回答7和8哪个更大，Dehaene给N先生起了个外号叫“近似人”。Dehaene博士花了很多时间研究人类的数字感觉，苦苦思索我们的数学能力哪些是天生的，哪些是学来的，两者又是如何互相影响。在Dehaene看来，我们天生就具有从远古进化来的数学本能。孩子身上显示的最为明显，不同国家和不同文化下的儿童有不同的表现，法国和美国孩子的数学能力都很糟糕，远不及新加坡、日本和南韩的同龄人。Dehaene希望找出数学为何有时候学来很轻松，有时却很难，他的目的帮助数学教育改革。
+</i>           认知心理学发现大脑易于区别相差很远的数字，但对于相邻的数字则有障碍，数字越大越难，比如比较2和3比比较7和8更容易。Dehaene和其他人都注意到了语言的影响，英语的数字表达很繁琐，11到19都有不同的单词，20到90应用了同样的结构，这对以英语为母语的学生提出了挑战，他们经常犯下这样的错误“twenty-eight, twenty-nine, twenty-ten, twenty-eleven”。法国人差不多，相比较下，中国人就简单多了，十进制阿拉伯数字之间的差异很小。结果是中国的4岁儿童平均能数到40 ，而美国只有15，这种优势能延伸到成年，因为中文数字语音很简短，每个不到四分之一秒，而英语则要三分之一秒。说中文的人的记忆鸿沟是9，英语是7(很有趣，讲广东话的人是10)。<br>
+借助技术的进步，科学家对大脑模式有了更深入的了解。Dehaene认为幼童不应该学复杂的数学计算如长除法，计算器能让学生从无聊的算法背诵中解脱出来。但是他并不赞同数学教育改革，因为“每个孩子都是不同的，他们需要按照自己的方式去发现新事物。”他赞美中国日本的数学课程，认为这赋予孩子更复杂的体验。
+➜盖茨：Google不懂商业需求
+https://www.solidot.org/story?sid=5427	6300
+在3月3日的2008 SharePoint大会上，微软董事会主席比尔盖茨对参与者说Google的网络应用软件不会威胁SharePoint，Google Talk不可能改变世界，<a href="http://www.eweek.com/c/a/Enterprise-Apps/Gates-Google-Does-Not-Understand-Businesses-Needs/">Google根本不了解商业的特殊需求</a>，它的模式是基于消费者的搜索。另外<a href="http://blogs.eweek.com/cebit/content/cebit/steve_ballmers_nine_year_retirement_plan.html">根据eweek的博客</a>，Steve Ballmer<a href="http://osnews.com/comments/19418">计划在9年内退休</a>。
+➜Youtube测试高分辨率视频
+https://www.solidot.org/story?sid=5428	9120
+Youtube视频向来不以高清闻名，<a href="http://cybernetnews.com/2008/02/29/watch-high-resolution-youtube-videos/">现在它正尝试提供更高分辨率的视频服务</a>。这项计划是在去年年末由共同创始人Steve Chen宣布的，目前已经开始小规模测试，你只需要在视频地址后面添加参数&amp;fmt=6就能观看清晰度更高的视频(例如溜冰狗视频<a href="http://youtube.com/watch?v=CQzUsTFqtW0">http://youtube.com/watch?v=CQzUsTFqtW0</a>和<a href="http://youtube.com/watch?v=CQzUsTFqtW0&amp;fmt=6">http://youtube.com/watch?v=CQzUsTFqtW0&amp;fmt=6</a>)，但目视效果不是很明显。此外如果在URL后加参数&amp;fmt=18，当高清视频可用时就可直接播放，否则就播放原有的固定分辨率。可以用 <a href="http://userscripts.org/scripts/show/23366">Greasemonkey脚本</a>自动在URL上添加&amp;fmt=18。
+➜如果被ISP警告，70%的P2P用户会停用
+https://www.solidot.org/story?sid=5429	17400
+P2P共享是非法文件传播的主要方式，为了对付版权侵犯，一些人提出了比较极端的建议，比如对整个网络进行过滤，<a href="http://news.bbc.co.uk/2/hi/business/7240234.stm">被怀疑违反版权的用户将被禁止网络连接</a>。一项新的调查也报告如果受到ISP的警告70%的英国宽带用户将会停止使用P2P。<i>
+英国媒体律师组织wiggin委托的2008 Digital Entertainment Survey调查发现，参与者中有70%称如果ISP通知他们它发现有非法行为后，他们将停止文件共享。但是不同年龄组的结果有差异，年轻人比老网民更可能改变行为。调查还发现，如果他们觉得被发现几率提高也会停止共享，但68%的调查者认为这非常不可能。
+</i>
+➜盗版组织发现了破解Vista激活方式的真正方法
+https://www.solidot.org/story?sid=5430	19500
+盗版组织Pantheon发布了<a href="http://apcmag.com/5512/pirate_crack_vista_oem_activation">Windows Vista的正确破解方法</a>，允许盗版、未激活的Vista版本（Home Basic/Premium和Ultimate）被完全激活，使用完整功能。和以前公布的破解方法不同，它不是绕开激活模式或是时间停止方式，而是利用了激活程序。看起来是微软为了避免让终端用户觉得激活过程麻烦而允许OEM制造商如ASUS等预装无需产品激活的Vista。这种破解方式可称是OEM模拟。（看了<a href="http://it.slashdot.org/article.pl?sid=08/03/03/0622230">/.</a>评论才知道，这篇文章发表日期是2007年3月4日!!有人说Vista SP1已经<a href="http://support.microsoft.com/kb/940510">修复</a>了该漏洞。）
+➜NASA探测器首次拍到火星山崩照片
+https://www.solidot.org/story?sid=5431	21600
+一艘在火星轨道飞行的NASA探测器<a href="http://www.nasa.gov/mission_pages/MRO/news/mro-20080303.html">首次拍摄</a>到火星北极山崩的<a href="http://www.nasa.gov/images/content/214808main_PSP_007338_2640_hires.jpg">照片</a>。照片显示在干冰和灰尘掉落的斜坡底部，棕色的烟云翻腾而起。火星侦察轨道器上的高分辨率数字相机（HiRise）在2月19日拍下了这幅照片。亚利桑那大学的Ingrid Daubar Spitale研究过许多火星照片，但这是第一次看到山崩，“我真的很吃惊。看到火星这么富有活力很重要，我们所观察到的许多地区几百万年没有发生任何变化。”
+➜最复杂的面向开源软件开发者的技术调查
+https://www.solidot.org/story?sid=5432	22860
+<a href="mailto:sanool@gmail.com">sanool</a> 写道 "<i>LUPA近期推出了一个面向技术人员的<a href="http://www.lupaworld.com/public/question/fillsurvey.php?sid=54">访问调查</a>，粗略看了下，总共有4大页，90多道选择题。问题主要涉及日常开发的问题以及一些个人的主管看法，而且必须要求参与调查者有实际开源项目的参与经历。难度颇大。当然，为表示感谢，对于合格填写问题卷的朋友会给予25元人民币以示鼓励。
+此项调查可以分析出国内开源软件程序员的大致规模，望各位积极参与，因此推荐下。"</i>
+➜数学家解决了有140年历史的老难题
+https://www.solidot.org/story?sid=5433	24600
+<a href="http://zh.wikipedia.org/wiki/%E6%96%BD%E7%93%A6%E8%8C%A8-%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E8%B4%B9%E5%B0%94%E6%98%A0%E5%B0%84">施瓦茨—克里斯托费尔</a>(Schwarz-Christoffel)映射是复平面的变换，把上半平面共形地映射到一个多边形。施瓦茨—克里斯托费尔映射是<a href="http://zh.wikipedia.org/wiki/%E5%85%B1%E5%BD%A2%E6%98%A0%E5%B0%84">共形映射</a>的一个漂亮应用，可以使复杂的问题更快的解决。但是它无法很好的处理不规则几何学和有空穴的情形。它在位势论和流体力学等现代工程领域有广泛应用，但由于此缺陷，许多复杂情况被过于的简化了。自从140年前施瓦茨和克里斯托费尔提出这种变换后，这个困扰数学家很长时间的问题被伦敦皇家学院的应用数学教授<a href="http://www.ma.ic.ac.uk/~dgcrowdy/_publications/publications.html">Darren Crowdy</a>成功<a href="http://www.ma.ic.ac.uk/~dgcrowdy/_publications/PubFiles/Paper-20.pdf">解决</a>(PDF)了，现在施瓦茨—克里斯托费尔映射<a href="http://www.scientificblogging.com/news_releases/140_year_old_schwarz_christoffel_math_problem_solved">可以在更复杂形状中使用</a>。
+➜比较OLPC，Classmate和Eee
+https://www.solidot.org/story?sid=5434	28800
+随着面向教育的Classmate、XO笔记本和面向低端的Asus Eee的出现，小型廉价的笔记本正热门讨论主题。<a href="http://reviews.zdnet.co.uk/hardware/notebooks/0,1000000333,39359143,00.htm">ZDNet对比了这三种平台</a>，可以从这些数据中找出哪一种最符合你的要求。Eee的流行度是最高的，但是XO 和Classmate更完美、更牢固，而且都有可携带的把柄。OLPC XO的屏幕最大，有7.5英寸（Asus在CeBIT上宣布推出<a href="http://eeesite.net/2008/03/asus-announces-next-generation-eee-pc.html">9英寸屏幕的Eee PC 900PC900M</a>，但价格也是水涨船高，最高达600美元，足够买3台XO了），1200 x 900分辨率也是三者中最高的，而且它的LCD有双重透射/反射模式，它可以旋转，从传统的模式转换成电子书模式、写字板模式（虽然没有触摸屏）。Classmate和Eee有一个相似的不清晰的7英寸TFT显示屏。
+➜Jimmy Wales为女友打破维基百科规则
+https://www.solidot.org/story?sid=5435	31800
+维基百科创始人<a href="http://blog.jimmywales.com/index.php/statement/">Jimmy Wales</a>和美女、加拿大保守派政治专栏作家及福克斯电视台评论员<a href="http://en.wikipedia.org/wiki/Rachel_Marsden">Rachel Marsden</a>分手了。他学到了宝贵的一课：<a href="http://valleywag.com/362814/jimmy-wales-broke-wikipedia-rules-to-fix-his-girlfriends-page">千万不要惹恼女人</a>。被公开的分手信和他们之间的IM通话强烈的暗示了Wales违反了维基百科的规则，鼓励他人对Rachel Marsden维基资料的修改（Marsden写了封分手信，抨击了Wales，Wales就进行了反击，还给内部编辑列表写信推荐对Rachel Marsden的目录进行某些修正）。据悉Rachel Marsden已将Wales的两件旧衣服<a href="http://valleywag.com/362772/wikipedia-guys-ex+girlfriend-auctions-his-clothes-on-ebay">放在ebay上拍卖</a>，<a href="http://cgi.ebay.ca/ws/eBayISAPI.dll?ViewItem&amp;item=290211080891">一件</a>目前出价为$857.47，<a href="http://cgi.ebay.ca/ws/eBayISAPI.dll?ViewItem&amp;&amp;item=290211080341">另一件</a>飙到了$15,000.00。
+➜IE8的默认渲染模式将遵从标准
+https://www.solidot.org/story?sid=5436	34500
+或许是欧盟的高额罚款让微软铭记于心，雷蒙德软件巨人的<a href="http://slashdot.org/article.pl?sid=08/03/04/0114203">下一代IE浏览器</a>将在默认<a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx?CommentPosted=true#commentmessage">完全标准模式</a>下渲染网页。开发者可以选择支持IE6的怪异模式和IE7的兼容性渲染模式，微软的决定有利于互联网标准的推广。

@@ -1,0 +1,64 @@
+➜微软例行补丁导致部分机器蓝屏死机
+https://www.solidot.org/story?sid=40742	9762
+微软八月例行补丁导致部分机器<a target="_blank" href="http://tech.slashdot.org/story/14/08/14/1713227/microsoft-black-tuesday-patches-bring-blue-screens-of-death"><u>出现蓝屏死机</u></a>。许多用户正在微软官方论坛抱怨他们的遭遇和<a target="_blank" href="http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_update/blue-screen-stop-0x50-after-applying-update/6da4d264-02d8-458e-89e2-a78fe68766fd"><u>讨论问题根源</u></a>。目前看来有二个<a target="_blank" href="https://technet.microsoft.com/library/security/MS14-045"><u>MS14-045/KB 2984615</u></a>内核模式驱动程序更新补丁被认为与蓝屏死机有关：KB2976897和KB2982791。出现蓝屏死机的用户运行的是64位Windows 7操作系统。<br>
+➜上下游：为什么打包需要花时间？
+https://www.solidot.org/story?sid=40743	11047
+KDE开发者Jonathan Riddell在博客上讨论了<a target="_blank" href="https://blogs.kde.org/2014/08/13/upstream-and-downstream-why-packaging-takes-time"><u>为什么打包需要花时间</u></a>。他解释说，打包最多的是库文件，如果它发生了小变动，使用该库文件的应用程序就会崩溃。如果编译器产生了不同的符号或符号消失如被标记为私有，那么如果你错过了这一变化程序将会在运行时崩溃，用户将会大发雷霆。除了应用二进制接口库外，另一个打包过程中费时间的问题与版权有关，Debian及其衍生发行版Ubuntu，要求软件包中的每一个文件都有版权记录，这是一个重要但乏味耗时工作，但如果你不做的话，人们将不会在商业环境中使用你的软件，最糟糕的情况是你将会被告上法庭。
+➜柏林禁止打车软件Uber
+https://www.solidot.org/story?sid=40744	13807
+德国首都柏林<a target="_blank" href="http://www.reuters.com/article/2014/08/14/us-uber-germany-idUSKBN0GE1R220140814"><u>封杀了打车软件Uber</u></a>，理由是Uber允许用户通过智能手机召唤无驾照、无载客许可或无完整车险的汽车。禁令即时生效，Uber每违反一次该市的公共交通法，将面临最高2.5万欧元的罚款。Uber表示将会对禁令提出上诉，指责柏林政府拒绝人民的选择，称竞争对每一个人都有好处。在柏林，司机必须超过一定年龄，有有效驾照，接受过背景调查后才能会获得载客许可。柏林当局表示他们此举是为保护乘客着想。
+➜朝鲜富人搬家蹭外国使馆无线网络
+https://www.solidot.org/story?sid=40745	14701
+朝鲜平壤外国使馆区的住宅房价最近出现飞涨。外交学者网站<a target="_blank" href="http://thediplomat.com/2014/08/wi-fi-access-sparks-housing-boom-in-pyongyang/"><u>报道</u></a>，平壤许多外国使馆附近的无线网络信号较强，且不设密码，使得<a target="_blank" href="http://www.nanzao.com/sc/international/35384/ping-rang-wai-guo-shi-guan-zhuang-wu-xian-wang-luo-zhao-xian-fu-ren-ban-jia-ceng"><u>免费蹭网</u></a>成了比邻外国使馆住宅的一项福利。中东某国驻朝使馆安装了一个大功率无线路由器后，许多人发现可以用手机在该使馆附近登陆国际互联网。报道称，为能免费上网，一些原本居住在市中心的富人趋之若鹜地迁入使馆区附近的小区，让该区域住宅十分抢手。报道称，朝鲜当局已注意到这一情况，在6月逮捕一名姓周的中介代理人。朝鲜政府之后要求外国使馆设置无线网密码，但不少使馆并未理睬。报道还称，一些大学生为蹭网，专程带着手机到外国使馆附近“散步”。
+➜电子邮件是互联网上杀不死的小强
+https://www.solidot.org/story?sid=40746	17782
+许多人都盼着电子邮件死亡。《商业周刊》记者<a target="_blank" href="http://www.businessweek.com/articles/2014-04-29/to-kill-office-e-mail-slack-needs-to-learn-how-non-geeks-work"><u>写道</u></a>，电子邮件已死，至少这是硅谷所指望的；工作软件创业公司Asana的一位联合创始人<a target="_blank" href="http://pando.com/2012/06/27/the-root-of-the-problem-asana-boldly-aims-to-kill-email/"><u>说</u></a>，电子邮件变成了反生产力的工具。今天的年轻一代将电子邮件视为老人的技术，连学校官员也说向学生发电子邮件毫无意义了。尽管如此，电子邮件仍然长盛不衰。你杀不死电子邮件，<a target="_blank" href="http://www.theatlantic.com/technology/archive/2014/08/why-email-will-never-die/375973/"><u>因为它就是互联网上的“小强”</u></a>——此处是褒义词。电子邮件是一种去中心化的开放平台，代表着不同于今天流行的封闭系统的模式。电子邮件是一个避难所，是社交网络和信息服务所构成的围墙花园中间一块令人兴奋的自由风景。
+➜Google苹果扩大在智能手机市场的优势
+https://www.solidot.org/story?sid=40747	18766
+<div align="center"><img src="http://img.solidot.com.cn/0/533/liZEWpiEGoXQ.png" align="" height="249" width="480"><br>
+<br>
+</div>
+Google和苹果在智能手机市场的统治地位<a target="_blank" href="http://cn.wsj.com/gb/20140815/tec100723.asp"><u>无人能动摇</u></a>，其它移动操作系统的份额不断遭到挤压。IDC的数据<a target="_blank" href="http://www.idc.com/getdoc.jsp?containerId=prUS25037214"><u>显示</u></a>，第二季度Google和苹果两家公司占到了全球智能手机发货量的96.4%，高于去年同期的92.6%。搭载Windows Phone操作系统的智能手机的发货量下降了9%以上，在全部智能手机发货量中所占的比例也从上年同期的3.4%降至2.5%。由于发货量大幅减少，黑莓降到了0.5%。对微软来说不是什么好消息，第二季度搭载Windows Phone操作系统的智能手机发货量为740万部，低于上年同期的820万部。Android手机占全部发货量的84.7%。iPhone发货量为3520万部，其市场份额从上年同期的13%降至11.7%。
+➜Google跨太平洋海底光缆用凯夫拉尔包装防鲨鱼攻击
+https://www.solidot.org/story?sid=40748	24841
+<center>
+<iframe src="https://www.youtube.com/embed/1ex7uTQf4bQ?feature=player_embedded" allowfullscreen="" frameborder="0" height="270" width="480"></iframe><br>
+<br>
+</center>
+Google官员称，该公司参与投资的跨太平洋海底光缆用凯夫拉尔材料包装，此措施部分是<a target="_blank" href="http://www.networkworld.com/article/2464035/cloud-computing/google-wraps-its-trans-pacific-fiber-cables-in-kevlar-to-prevent-against-shark.html"><u>为了防鲨鱼攻击</u></a>。鲨鱼喜欢攻击海底光缆早在几十年前就有报道（如YouTube视频所示）。在Boston Dan Belcher举行的Google Cloud Roadshow上，Google云计算团队的一位产品经理说，Google竭尽全力去保护它的基础设施，包括用凯夫拉尔包装跨太平洋海底光缆。搜索巨人没有提供更多信息。为什么水下光缆会吸引鲨鱼？有人推测是光缆产生的电磁场被鲨鱼误以为是来自于鱼，于是赶着去吞食。
+➜为与过去一刀两段微软考虑重命名IE
+https://www.solidot.org/story?sid=40749	27730
+微软IE团队成员在Reddit的IAMA上<a target="_blank" href="http://www.reddit.com/r/IAmA/comments/2dk60t/we_build_internet_explorer_i_know_right_ask_us/"><u>透露</u></a>，公司热烈讨论了<a target="_blank" href="http://arstechnica.com/information-technology/2014/08/microsoft-considered-renaming-internet-explorer-to-escape-its-checkered-past/"><u>重命名IE浏览器</u></a>，以远离受损的形象。微软的IE6(2001年)曾是浏览器市场的绝对统治者，但软件巨人间隔了五年才发布IE7（2006年，Firefox已经发布），期间甚至一度解散了开发团队。重命名浏览器意味着与过去切割，将不思进取不支持标准的过去与积极进取支持标准的今天分开来。IE团队成员没有排除未来改名的可能性，表示“没有人能把握未来”。
+➜百度望吴恩达助它在新兴市场挑战Google
+https://www.solidot.org/story?sid=40750	31351
+MIT技术评论<a target="_blank" href="http://www.technologyreview.com/featuredstory/530016/a-chinese-internet-giant-starts-to-dream/#"><u>报道</u></a>，中国最大的搜索引擎前不久任命Google和斯坦福的人工智能专家吴恩达（Andrew Ng）为公司首席科学家，在硅谷斥巨资建立研究实验室，主要是研究人工智能和深度学习。百度希望到2020年一半收入能来自于中国之外，它是少数着手开辟海外市场和寻找人才的中国互联网公司。但在海外市场，百度等中国公司必须与美国科技巨头如Google、Facebook和亚马逊展开竞争，在西方市场这些公司的地位不会受到挑战，但在发展中国家新兴市场，百度相信它会有优势。一位风投家说，中国公司也开始有梦想。百度等中国公司被打上C2C的标签——“拷贝到中国(copy to China)”，百度几乎在每一个方面都在模仿Google，从简约的首页到智能眼镜Baidu Eye，它甚至也在研发自主驾驶汽车，雇佣吴恩达也是在跟随Google。吴恩达坚持认为，C2C的刻板印象不再准确，他以百度翻译应用称，百度的软件能将英语语音翻译到汉语。吴恩达认为百度研究院仍然有机会能改变世界，证明百度不只是模仿西方公司。他说，就像工业革命将人类从繁重的体力劳动上释放出来，人工智能也有潜力将人类从繁重的精神劳动上释放出来。<br>
+<br>
+➜一夜成名的俄罗斯士兵请求捐款
+https://www.solidot.org/story?sid=40751	33850
+<div align="center"><img src="http://img.solidot.com.cn/0/535/liOplHroUic1I.jpg" align="" height="279" width="480"><br>
+<br>
+</div>
+在Instagram上传自拍照的俄罗斯通讯兵军士Alexander “Sanya” Sotkin被发现<a target="_blank" href="http://www.solidot.org/story?sid=40619"><u>至少两次</u></a>身处乌克兰境内，这位士兵一夜成名，受到了世界媒体的广泛关注。现在，Sotkin通过Instagram和 Twitter账号发布照片，公布了两个WebMoney账号请求外界捐款 。他声称负面的宣传给他带来了巨大麻烦，“<a target="_blank" href="http://arstechnica.com/information-technology/2014/08/the-sad-strange-saga-of-russias-sergeant-selfie/"><u>我现在需要经济援助</u></a>”。在最新的照片中，Sotkin不再佩戴军士的徽章。不清楚他是否遭到了降职或其它什么处罚。
+➜日本研制出最快的相机
+https://www.solidot.org/story?sid=40752	34967
+日本东京大学和庆应大学研究人员研制出<a target="_blank" href="http://www.independent.co.uk/news/science/worlds-fastest-camera-captures-44-trillion-frames-a-second-to-watch-chemical-reactions-9668873.html"><u>世界最快的相机</u></a>，每秒能拍摄4.4万亿帧画面。<a target="_blank" href="http://www.nature.com/nphoton/journal/vaop/ncurrent/full/nphoton.2014.163.html"><u>报告</u></a>发表在《自然光子学》期刊上。研究人员用激光照射金属化合物的结晶，世界上首次成功对热传导进行了连拍，并据此确认热是以每秒5万公里的类似波的形式进行传导的。东京大学化学教授合田圭介<a target="_blank" href="http://china.kyodonews.jp/news/2014/08/80582.html"><u>表示</u></a>：“这台超高速相机用途广泛，例如在医疗领域可用来揭示超声波治疗原理，在工业领域可用来提高光刻精度。”
+➜一千个机器人成群结队
+https://www.solidot.org/story?sid=40753	37445
+<center>
+<object seamlesstabbing="undefined" class="BrightcoveExperience brightcove-field-embed" id="myExperience-1" data="http://c.brightcove.com/services/viewer/federated_f9?&amp;width=425&amp;height=350&amp;flashID=myExperience-1&amp;wmode=transparent&amp;bgcolor=%23FFFFFF&amp;playerID=618572355001&amp;playerKey=AQ~~%2CAAAADFlexpk~%2CloqkjB2yVJwXpvZvSdjalz1oUpEUGCue&amp;%40videoPlayer=3730924668001&amp;isVid=true&amp;isUI=true&amp;dynamicStreaming=true&amp;autoStart=&amp;debuggerID=&amp;startTime=1408095220006" type="application/x-shockwave-flash" height="350" width="425"><param value="always" name="allowScriptAccess"><param value="true" name="allowFullScreen"><param value="false" name="seamlessTabbing"><param value="true" name="swliveconnect"><param value="transparent" name="wmode"><param value="high" name="quality"><param value="#FFFFFF" name="bgcolor"></object>
+<br>
+<br>
+</center>
+根据发表在《科学》期刊上的<a target="_blank" href="http://news.sciencemag.org/technology/2014/02/termite-inspired-robots-build-bricks"><u>一项研究</u></a>，科学家让一千个机器人不需要任何中心大脑或人类控制的情况下<a target="_blank" href="http://news.sciencemag.org/technology/2014/08/heads-gathering-robot-swarm"><u>自行组合成各种复杂形状</u></a>(视频所示)。哈佛大学研究人员的自组合机器人集群 Kilobots包含了1024个小型机器人，能自行组合成2D形状，如星星、扳手和字母K。Kilobots被设计成能模仿像蜜蜂及蚂蚁等昆虫的行为，它们用振动马达来滑行跨越表面并用红外光来与其它的Kilobots沟通。研究人员从3种集体行为——定位、边界跟踪及梯度形成——的算法开始，在注意到机器人应对碰撞及其它发生故障的机器人时有困难后加入了合作监控特征。研究人员<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-08/aaft-cbi081114.php"><u>认为</u></a>，更先进的算法能让机器人集群从大规模损害中恢复。
+➜大屏iPhone 6将使用蓝宝石屏
+https://www.solidot.org/story?sid=40754	39030
+《华尔街日报》<a target="_blank" href="http://cn.wsj.com/gb/20140815/tec170433.asp"><u>报道</u></a>，苹果将在即将推出的大屏幕iPhone和新款智能手表上使用蓝宝石屏，预计第一批蓝宝石屏将于本月在亚利桑那州梅萨的一座工厂里投产，在满负荷状态下，该工厂的蓝宝石屏产量将达到当前全球近100家蓝宝石玻璃制造商总产量的两倍。蓝宝石是地球上最坚硬的天然矿物之一，不像玻璃那样容易刮花或摔碎，具有耐高温和抗腐蚀的特性。但由于生产成本高昂，人工蓝宝石的应用并不广泛，一般只用于飞机窗户或高档手表的防刮花表壳。
+➜亚洲尘埃和微生物影响美国气候
+https://www.solidot.org/story?sid=40755	40846
+一位美国科学家称，来自亚洲和非洲的尘埃和上面的微生物对美国西部的降雨模式<a target="_blank" href="http://www.acs.org/content/acs/en/pressroom/newsreleases/2014/august/dust-and-the-microbes-hitching-rides-on-it-influences-rain-climate.html"><u>起着重要影响</u></a>。加州圣迭戈分校的Kim Prather博士说，高纬度大气中的尘埃粒子对云的影响并不相同，这种差异会影响雨水的分布。Prather的团队分析的尘埃粒子大部分来源于亚洲和中国的沙漠。尘埃在空气急流的作用下飞过太平洋抵达美国西部。他们的分析显示上面有微生物以及与生命相关的细菌和分子。此类研究有助于导致更准确的预报气象和降雨。
+➜如何买到快乐？
+https://www.solidot.org/story?sid=40756	43235
+购物是生活的一部分，也是快乐的一部分，但所有类型的购物都能让我们产生相同的快感？<a target="_blank" href="http://nymag.com/scienceofus/2014/08/how-to-buy-happiness.html"><u>如何最大化快感</u></a>？ Leaf van Boven和Tom Gilovich在2003年发表了<a target="_blank" href="http://psych.colorado.edu/~vanboven/vanboven/publications_files/vb_gilo_2003.pdf"><u>一篇论文</u></a>（PDF），分析了两类购买：体验类和物质类。他们的结论是：如果要最大化快感，你应该去购买生活体验而不是物质。背后的原因可能是体验比物质商品与人的认同感联系更紧密。时代在前进，研究人员开始关注“体验类商品”——能产生有意义体验的物质类商品。密歇根大学的Darwin Guevarra和旧金山州立大学的Ryan Howel<a target="_blank" href="http://darwinguevarra.weebly.com/uploads/1/4/1/5/14156199/2015_-_guevarra__howell_-_jcp_-_rr.pdf"><u>分析了体验类商品</u></a>（PDF），认为体验类商品能产生和生活体验一样多的快乐。
+➜青奥会宣布限制埃博拉影响地区的运动员参赛项目
+https://www.solidot.org/story?sid=40757	44883
+第二届青年奥运会周六将在南京揭幕。国际奥委会与中方主办机构周五发表联合声明，<a target="_blank" href="http://www.bbc.co.uk/zhongwen/simp/world/2014/08/140815_ebola_youth_olympic_games.shtml"><u>宣布</u></a>来自受到埃博拉病毒影响地区的非洲运动员将不参加其中对抗性项目和水上项目的比赛，表示已得到卫生部门的保证，暂时还没有出现任何怀疑埃博拉病例，虽然感染病毒的可能性非常小，但仍需采取有关措施。有3名运动员将会受到该措施的影响。本周早些时候，塞拉利昂奥委会表示，青奥会方面曾经要求他们不要派队前往中国参赛。国际奥委会则说，欢迎所有国家和地区的代表团参加，但来自受到埃博拉病毒影响地区的运动员将要接受定期的体温和体能测试。根据世界卫生组织的<a target="_blank" href="http://www.who.int/csr/don/2014_08_13_ebola/en/"><u>数据</u></a>，截至8月13日病毒感染确诊病例1975例，死亡1069人，确诊病例主要出现在塞拉利昂、几内亚、利比里亚和尼日利亚。

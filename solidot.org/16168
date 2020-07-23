@@ -1,0 +1,51 @@
+➜OpenSSL严重bug允许攻击者读取64k内存，Debian半小时修复
+https://www.solidot.org/story?sid=39042	10095
+OpenSSL v1.0.1到1.0.1f中发现了一个非常严重bug（<a target="_blank" href="http://heartbleed.com/"><u>CVE-2014-0160</u></a>），该bug允许攻击者读取存在bug的系统的64kb处理内存，暴露加密流量的密钥，用户名和密码，以及访问的内容。攻击者可以利用该bug窃听通信，直接从服务和用户窃取数据。OpenSSL已经发布了<a target="_blank" href="https://www.openssl.org/news/secadv_20140407.txt"><u>1.0.1g</u></a>修正bug，Debian发行版也在半小时<a target="_blank" href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=743883"><u>修复了bug</u></a>，Fedora发布了一个权宜的<a target="_blank" href="https://bugzilla.redhat.com/show_bug.cgi?id=1084875"><u>修正方案</u></a>。该bug是在2011年引入到OpenSSL中，使用OpenSSL 0.9.8的发行版不受影响，但Debian Wheezy、Ubuntu 12.04.4、 Centos 6.5、Fedora 18、SuSE 12.2、OpenBSD 5.4、FreeBSD 8.4和NetBSD 5.0.2之后的版本都受到影响。如果你运行存在该bug的系统，那么最好废除所有密钥。
+➜匿名社交软件的兴起
+https://www.solidot.org/story?sid=39043	11724
+从Facebook到Google+，这些社交网络的一个特点的是实名制。但互联网匿名的价值<a target="_blank" href="http://cn.tmagazine.com/technology/20140405/t05secret/"><u>仍然受到许多人的推崇</u></a>，<a target="_blank" href="https://www.secret.ly/"><u>Secret</u></a>就是这样一个匿名的社交软件。信息的发布者仅显示为“朋友”或“朋友的朋友”。一些得到很多赞或评论的爆料贴也偶尔会出现，只标注它们来自哪个城市或州。该公司最近宣布获得了来自许多著名投资人的总共860万美元投资，其中包括Reddit创始人亚历克西斯·奥哈尼安(Alexis Ohanian)。奥哈尼安是通过他新成立的公司Initialized Capital做出投资的，他说，“像Secret这样的应用成为人们畅所欲言的出口，如果没有它们，这些话可能会毁掉这些人的前途。”他说这个应用的吸引人之处在于，它可以是一个超越Facebook势力范围的未来社交网络竞争者。
+➜BASIC语言诞生五十周年
+https://www.solidot.org/story?sid=39044	13325
+<div align="center"><img src="http://img.solidot.com.cn/0/176/lisfhY3UJpf7E.jpg" align=""><br>
+<br>
+</div>
+1964年5月1日凌晨4点，达特茅斯学院的一个地下室内，John Kemeny教授和一名学生程序员在邻近的终端上同时输入RUN，当他们运行的简单程序返回了正确答案，分时系统和<a target="_blank" href="http://www.dartmouth.edu/basicfifty/"><u>BASIC编程语言诞生了</u></a>。Kemeny教授、Tom Kurtz教授和一群本科生共同合作，通过创造分时系统和<a target="_blank" href="http://en.wikipedia.org/wiki/BASIC"><u>BASIC语言</u></a>为计算机带来了革命，他们的创新惠及了整个世界。时至今日，BASIC仍然是一种流行的语言，许多新的语言也都受到了BASIC的影响，比如微软的Visual Basic。
+➜《星球大战7》开拍，前作主演悉数参演
+https://www.solidot.org/story?sid=39045	15133
+《星球大战7》已经<a target="_blank" href="http://www.hollywoodreporter.com/news/disney-chief-reveals-star-wars-693950"><u>开拍</u></a>，电影由 J.J. Abrams执导，剧本由Abrams和Lawrence Kasdan（夺宝奇兵、帝国反击战和绝地归来的编剧）共同撰写，曾在《星球大战》三部曲中出演索罗船长的Harrison Ford、莉亚公主的Carrie Fisher、天行者卢克的Mark Hamill，以及千年隼大副丘百卡的扮演者、身高2.21米的Peter Mayhew都将<a target="_blank" href="http://arstechnica.com/gaming/2014/04/star-wars-episode-vii-charges-ahead-now-reportedly-with-peter-mayhew/"><u>悉数回归参演新片</u></a>。《星球大战7》的故事将发生在《绝地归来》故事结束35年后。这意味着，前作的演员可以本色出演，不需要用CG修饰年龄。《星球大战7》将在2015年圣诞节上映。
+➜微软制作原创剧，吸引Xbox消费者
+https://www.solidot.org/story?sid=39046	17705
+在Netflix和亚马逊之后，微软也<a target="_blank" href="http://cn.wsj.com/gb/20140408/SHJ104322.asp"><u>准备制作</u></a>自己的原创剧，以将消费者吸引到Xbox平台上来。彭博<a target="_blank" href="http://www.bloomberg.com/news/2014-04-07/microsoft-goes-hollywood-in-amazon-like-programming-push.html"><u>报导</u></a>，微软新成立的Xbox电视工作室计划自6月份起在全球推出电视剧。目前工作室已有六部电视剧正在制作当中，其中包括一部以人形机器人为主题的科幻惊悚片，片名叫做《人类》。该工作室还有十多个电视项目正在开发中。微软的计划是通过原创剧，为其Xibox在线直播服务吸引订户，并最终打造一个消费者家庭娱乐网络，将微软的各种设备捆绑在一起。Netflix的成功为微软树立了榜样，内容对于未来的平台之战仍然至关重要。
+➜OkCupid CEO曾捐款给反同性恋政客
+https://www.solidot.org/story?sid=39047	24131
+迫使Mozilla CEO Brendan Eich辞职的风波中，约会网站OkCupid扮演着一个重要角色。OkCupid于3月31日向所有Mozilla Firefox用户展示了抵制Firefox的声明。Eich曾在2008年捐款1000美元支持反同性恋婚姻提案Proposition 8，除此之外他并没有表露过任何歧视同性恋的言行。许多人可能认为， 根据宪法第一修正案，OkCupid有权表达观点和采取行动。但OkCupid及其联合创始人Sam Yagan 恐怕并不适合，反而<a target="_blank" href="http://uncrunched.com/2014/04/06/the-hypocrisy-of-sam-yagan-okcupid/"><u>显得虚伪</u></a>。Yagan是OkCupid联合创始人，母公司Match.com的CEO，他曾向 Chris Cannon 捐款500美元，而 Chris Cannon 是知名的反同政客，推动过反同立法。<br>
+➜混合动力汽车在中印比美国更省油
+https://www.solidot.org/story?sid=39048	26290
+两大人口大国中国和印度的城市交通拥挤情况都很严重，在高峰期经常会发生堵车。但这种交通状况可能非常有利于发展混合动力汽车。根据美国能源部劳伦斯伯克利国家实验室的<a target="_blank" href="http://www.sciencedirect.com/science/article/pii/S0306261913007010"><u>一项研究</u></a>，混合动力汽车的燃油效率在印度和中国<a target="_blank" href="http://phys.org/news/2014-03-hybrid-vehicles-fuel-efficient-india.html"><u>比美国更高</u></a>。研究人员模拟了在印度新德里和中国多个城市的驾驶情况，他们发现在印度驾驶混合动力汽车，能比传统汽车省油47到48%，在中国则能达到 53到55%，相比之下美国只有40%。领导这项研究的研究员Anand Gopal描述印度的驾车情况是“非常慢，非常疯狂，经常堵车”。中国在2009年成为世界最大的汽车市场，汽车销量大涨的一个原因是居民变得更富有了，家庭财富和汽车拥有之间有着强大纽带关系，汽车不只是和交通有关，拥有汽车是社会地位的一种象征。
+➜Nest Labs因软件bug暂停烟雾和二氧化碳报警器销售，远程关闭相关功能
+https://www.solidot.org/story?sid=39049	28112
+Nest Labs烟雾和二氧化碳智能报警器的一大卖点是如果发生误报，你可以在附近挥一下手关闭报警器，但实验室测试发现这项名叫<a target="_blank" href="http://support.nest.com/article/What-is-Nest-Wave-and-how-does-it-work"><u>Nest Wave</u></a>的功能会被无意的激活，软件算法可能会将报警器附近的走动错误解释为有意的挥手命令，如果该bug导致报警器被无意关闭，它有可能会危及生命。Nest Labs因此<a target="_blank" href="https://nest.com/letter-from-the-ceo/"><u>宣布</u></a>在修复软件前<a target="_blank" href="http://spectrum.ieee.org/riskfactor/computing/it/nest-labs-suspends-sale-of-smoke-and-carbon-monoxide-detector-until-software-fixed"><u>暂停烟雾和二氧化碳报警器销售</u></a>，同时通过远程操作关闭Nest Wave功能。Nest Labs 认为可能需要2到3个月时间去设计和测试更新，并获得美国、加拿大和英国安全监管部门的批准。它表示一旦完成，将通过软件更新重新激活Wave功能。
+➜费米望远镜或探测到暗物质信号
+https://www.solidot.org/story?sid=39050	31353
+研究人员使用<a target="_blank" href="http://fermi.gsfc.nasa.gov/"><u>费米伽玛射线太空望远镜</u></a>收集的数据，可能探测到了银河系<a target="_blank" href="http://arstechnica.com/science/2014/04/fermi-telescope-detects-signal-that-could-be-annihilating-dark-matter/"><u>暗物质的首个直接信号</u></a>。<a target="_blank" href="http://arxiv.org/abs/1402.6703"><u>研究报告</u></a>发布在预印本网站上。宇宙提供了许多暗物质存在的证据，从星系的行为到星系团的结构，都指示那里的物质比我们能探测到的要多得多。但如果要识别构成暗物质的粒子，我们趋向于就近寻找。一种理论认为，如果暗物质密度足够大，两个暗物质粒子可能会发生碰撞产生能量碎片。通过观察预计暗物质集中的区域，寻找某类辐射是否过多，我们可能探测到暗物质碰撞的信号。一组天文学家重新分析了费米望远镜的数据，寻找这些粒子湮没的信号。他们认为探测到了模型预测的暗物质信号，统计显著性超过了40 sigma。当然不能排除模型本身错误的可能性。
+➜加啤酒能帮助减少烤肉的健康风险
+https://www.solidot.org/story?sid=39051	33885
+烧烤肉无比美味，但美味是有代价的，烧烤过程中会产生名叫多环芳烃的分子，会破坏DNA增加食肉者患结肠癌的风险。现在，葡萄牙Porto大学Isabel Ferreira领导的一个团队相信他们找到了<a target="_blank" href="http://pubs.acs.org/doi/abs/10.1021/jf404966w"><u>解决方法</u></a>（摘要），他们建议在烤肉时<a href="http://www.economist.com/news/science-and-technology/21600085-reduce-health-risk-barbecuing-meat-just-add-beer-marriage-made"><u>添加啤酒</u></a>。烧烤过程中产生的多环芳烃分子是由名叫自由基的分子形成的，而自由基是由于脂肪和蛋白质在烧烤的炙热高温下形成的。因此阻止多环芳烃形成的一种方法是用名叫抗氧化剂的化学物质清除掉自由基。而啤酒富含此类化合物。
+➜北京为迎接APEC考虑用奥运模式减少空气污染
+https://www.solidot.org/story?sid=39052	34334
+今年的亚太经合组织（APEC）领导人非正式会议将于下半年在北京近郊怀柔雁栖湖举行。为了减少会议期间的空气污染，北京环保部门表示，<a target="_blank" href="è¯¥www.nanzao.com/sc/china/24577/ying-apec-bei-jing-ni-yong-ao-yun-mo-shi-zhi-kong-wu-zhuan-jia-you-nan-chi-jiu"><u>将参照奥运模式</u></a>，跟周边省市开展联防联控，在会议期间采取限制污染物排放或限产等措施。环保部城市环境管理专​​​​家彭应登认为，APEC期间大气治理难度远大于奥运会，2008年奥运会处于夏季，正值北京雨季，扩散条件好，污染物排放总量处于低谷，但APEC期间是秋冬交替期，属于北京雾霾频发期，不利的气象扩散条件、阶级性裸露地标，加上采暖季排放，无论是本地污染源还是区域传输，污染控制难度整体上远大于奥运会期间。 <br>
+➜小提琴演奏家无法区分新旧小提琴
+https://www.solidot.org/story?sid=39053	37104
+如果你只知道一件有关小提琴的事情，那么它有可能是：有300年历史的意大利Stradivarius小提琴拥有现代小提琴所无法比拟的神秘音质。但根据PNAS上的<a target="_blank" href="http://www.pnas.org/cgi/doi/10.1073/pnas.1323367111"><u>一篇论文</u></a>，研究人员<a target="_blank" href="http://news.sciencemag.org/brain-behavior/2014/04/elite-violinists-fail-distinguish-legendary-violins-modern-fiddles"><u>发现</u></a>，顶级的小提琴演奏家也无法将经典小提琴和现代的优质小提琴的音质<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-04/aaft-sjn040414.php"><u>区分开来</u></a>。研究人员招募了10位著名的小提琴独奏者，为他们提供了12把小提琴，其中有6把新小提琴，6把旧小提琴，其中包括Stradivari制作的5把小提琴。在盲测实验中，10名演奏家中的6人选择了一把新的小提琴作为他们偏爱的乐器，他们认为新小提琴平均质量更高。结果挑战了人们长期所持的信念，即旧的意大利小提琴具有新乐器没有的音色质量。
+➜微软考虑为Xbox One开发Xbox 360模拟器
+https://www.solidot.org/story?sid=39054	38910
+微软新一代主机Xbox One的销量不如PS4，但如果Xbox One能模拟Xbox 360游戏，那微软主机将拥有了一大优势。Xbox One和PS4都不兼容于上一代的Xbox 360和PS3游戏，主要原因是架构发生了重大变化。在上周举行的BUILD开发者大会上，有观众询问微软是否考虑为Xbox One开发Xbox 360模拟器，微软高管Frank Savage回应称，他们<a target="_blank" href="http://arstechnica.com/gaming/2014/04/microsoft-looking-into-xbox-360-emulation-through-xbox-one/"><u>还在考虑中</u></a>，称在X86架构上模拟PowerPC非常困难，所以没什么可宣布的。微软有可能采用索尼的做法，利用云计算平台向玩家传输上一代游戏的流媒体。
+➜欧盟最高法院裁决数据保留法律无效
+https://www.solidot.org/story?sid=39055	39398
+路透社<a target="_blank" href="http://www.reuters.com/article/2014/04/08/us-eu-data-ruling-idUSBREA370F020140408"><u>报道</u></a>，欧盟最高法院作出<a target="_blank" href="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf"><u>裁决</u></a>（PDF），要求欧洲电信公司保留公民通信数据最多两年的数据保留法令无效。数据保留法令是在2006年伦敦和马德里发生公共交通爆炸后制定的，旨在为当局提供更好的工具调查和起诉有组织犯罪和恐怖主义。它要求欧洲电信服务商保留流量、位置数据和其它识别用户身份所需的信息，通信的内容不包含在内。奥地利和爱尔兰的法院要求欧洲法院裁决这条法律是否与欧盟的基本权利宪章相一致。欧洲法院作出裁决，数据保留法令严重干扰了尊重私人隐私和个人数据保护的基本权利，让公民感觉到他们的私人生活遭到了持续的监视。
+➜研究发现社会地位影响端粒长度
+https://www.solidot.org/story?sid=39056	40320
+根据发表在PNAS上的<a target="_blank" href="http://www.pnas.org/content/early/2014/04/02/1404293111.abstract"><u>一项研究</u></a>，研究人员发现低社会地位儿童的端粒<a target="_blank" href="http://chinese.eurekalert.org/zh/pub_releases/2014-04/aaft-tas040414.php"><u>比高社会地位儿童的端粒短</u></a>。端粒是染色体末端结构，与细胞老化有关，每次细胞分裂端粒都会变短。当它们变得过短，细胞就会失去再生和分裂的能力。此前的研究发现压力<a target="_blank" href="http://www.solidot.org/story?sid=29331"><u>会加速端粒损失</u></a>。在最新研究中，研究分析了40名9岁的非洲裔美国男孩的遗传信息，研究员发现，来自社会地位低下环境的男孩表现出了最短的端粒，而来自优势环境中的男孩表现出了最长的端粒。结果揭示了社会环境与端粒长度变化的关系。
+➜思维中的沙砾：大脑工作的一种基本原理
+https://www.solidot.org/story?sid=39057	44627
+1999年，丹麦物理学家 Per Bak告诉一群神经科学家，他仅仅花了10分钟就知道神经科学这个领域哪里出问题了。也许大脑没有他们想象的那么复杂。也许大脑工作的基本原理和简单的沙堆相差无几——沙堆中不同大小的沙砾的不断流动有助于保持整个系统的稳定——<a target="_blank" href="https://www.simonsfoundation.org/quanta/20140403-a-fundamental-theory-to-model-the-mind/"><u>这一过程称之为自组织临界性</u></a>。作为一名物理学家，Bak的大胆想法——大脑的有序复杂性和思维能力是神经元混乱的电活动自发形成的——并没有被立即接受。但随着时间的推移，Bak的激进想法成为了一种正式的科学学科。现在全世界大约有150名科学家在研究所谓的大脑临界现象。

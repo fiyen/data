@@ -1,0 +1,48 @@
+➜Python 加入到移除“冒犯性”术语 Master 和 Slave 的软件项目行列
+https://www.solidot.org/story?sid=57937	11305
+2014 年，Drupal 项目用 <a href="https://www.drupal.org/node/2286193" target="_blank"><u>primary 和 replica</u></a> 替换了 master 和 slave；Django 项目则用 <a href="https://github.com/django/django/pull/2692" target="_blank"><u>leader 和 follower</u></a> 替换之；CouchDB 项目也做了类似语言上的净化。现在，Python 项目加入到了语言净化的行列，但这一做法<a href="https://developers.slashdot.org/story/18/09/13/1523229/python-joins-movement-to-dump-offensive-master-slave-terms" target="_blank"><u>引发了争议</u></a>，并迫使已经宣布退休的终身仁慈独裁者  Guido van Rossum 回来<a href="https://www.theregister.co.uk/2018/09/11/python_purges_master_and_slave_in_political_pogrom/" target="_blank"><u>解决争议</u></a>。9 月 7 日，任职于 Red Hat 的 Python 开发者 Victor Stinner 公布了<a href="https://bugs.python.org/issue34605" target="_blank"><u> 4 个 pull requests</u></a>，寻求将文档和代码中的术语 master 和 slave 用 parent、worker 或其它类似不会冒犯他人的术语替代。他解释说，这么做是出于多元化的理由，他认为应该避免使用联系到奴隶制的术语如 master 和 slave。一些开发者不赞同将政治正确的意识形态带到 Python 社区，还有人用 BDSM 亚文化来反驳多元化，称在 BDSM 社区 master 和 slave 具有正面意义。van Rossum 关闭了讨论，接受合并 4 个 PRs 中的 3 个。
+➜云服务攻击突显供应链风险
+https://www.solidot.org/story?sid=57938	12484
+去年中国黑客组织 Red Apollo（aka APT10） 发动了史上规模最大的持续全球网络间谍攻势之一。它不直接攻击企业，而是瞄准云服务提供商，企图利用他们的网络将间谍工具传播到大量企业。被称为 “<a href="https://www.pwc.co.uk/cyber-security/pdf/cloud-hopper-report-final-v4.pdf" target="_blank"><u>Cloud Hopper</u></a>(PDF)” 行动的此次攻击，针对少数托管 IT 服务提供商，以便将恶意软件传播到所有利用这些外包公司管理其电脑网络的客户。这种间接方法证明网络间谍活动的成熟度达到新的水平，<a href="http://www.ftchinese.com/story/001079418?adchannelID=&amp;full=y" target="_blank"><u>而且正变得越来越常见</u></a>。赛门铁克在最近一份报告中表示，2017 年的供应链攻击比前一年增加 200%。尽管 “Cloud Hopper” 行动没有对受害者造成严重损害，但 2017 年 6 月的 NotPetya 攻击表明，供应链攻击确实会造成代价高昂的破坏性影响。 NotPetya 攻击主要针对乌克兰的公司，但扩大到了原始目标以外，全球企业因此损失逾 12 亿美元。
+➜泄密视频披露 Google 高管对特朗普当选的反应
+https://www.solidot.org/story?sid=57939	15768
+支持特朗普的保守派媒体 Breitbart 公布了一则 Google <a href="https://www.breitbart.com/tech/2018/09/12/leaked-video-google-leaderships-dismayed-reaction-to-trump-election/" target="_blank"><u>内部会议视频</u></a>，披露了 Google 高管对特朗普在 2016 年<a href="https://tech.slashdot.org/story/18/09/13/2059201/leaked-video-shows-google-executives-candid-reaction-to-trump-victory" target="_blank"><u>选举获胜的反应</u></a>。在长达一小时的视频中，Google 联合创始人 Sergey Brin 和 Larry Page、CEO  Sundar Pichai，高管 Kent Walker、Ruth Porat 和 Eileen Noughton 各自谈论了对选举结果的反应，试图消除员工对移民身份和同性伴侣等问题的疑虑，回答了从过滤气泡和政治极端化到加密和网络中立等话题的提问。Sergey Brin 在会议上公开表达了对美国政治的失望。Breitbart 以此为由称 Google 内部存在对共和党的偏见，Goolge 回应称高管们分享的是个人观点，并非政治偏见。
+➜Pixiv 屏蔽升级
+https://www.solidot.org/story?sid=57940	15935
+匿名读者 写道<i> "Pixiv 在<a href="https://www.solidot.org/story?sid=53878" target="_blank">去年</a>就遭到屏蔽，屏蔽的方式被认为是 DNS 投毒污染。大部分用户在本机自行对域名与 IP 地址关联以绕过污染源，这一方法已然失效，新的方式被认为是 <a href="https://m.weibo.cn/detail/4283858369566007" target="_blank">SNI 检测</a>。在 <a href="https://zh.wikipedia.org/wiki/传输层安全性协定" target="_blank">TLS</a> 客户端发送 "Client Hello" 信息中的扩展 server_name(<a href="https://zh.wikipedia.org/wiki/服务器名称指示" target="_blank">SNI</a> Extension) 明文包含了例如：Server Name:www.example.com"</i>
+➜研究人员警告现代计算机都易受冷启动攻击
+https://www.solidot.org/story?sid=57941	18740
+F-Secure 的安全研究人员<a href="https://www.zdnet.com/article/new-cold-boot-attack-affects-nearly-all-modern-computers/" target="_blank"><u>重新发现了冷启动攻击</u></a>，该漏洞影响几乎所有现代计算机，允许物理访问设备的黑客利用该漏洞从锁定的设备窃取敏感信息。经典的冷启动攻击能窃取保存在计算机内存中的数据，因为计算机在强行重启之后部分敏感信息会短暂保存在内存里。今天绝大部分计算机都包含了安全措施移除储存在内存里的数据，防止黑客窃取敏感信息。F-Secure 的研究人员找到了方法关闭安全措施，使用冷启动提取数据。相比经典的冷启动攻击，新的方法需要额外的步骤，但能有效攻击研究人员测试的所有现代计算机。目前没有补丁能修复新的漏洞，研究人员建议调整设置让计算机在关闭屏幕后自动关机或休眠，而不是进入睡眠模式。
+➜研究称吞下一片塑料就能增加海龟的死亡率
+https://www.solidot.org/story?sid=57942	25185
+一项新研究显示塑料<a href="https://www.bbc.com/news/science-environment-45509822" target="_blank"><u>对海龟是致命的</u></a>。研究人员发现，海龟吞下一片塑料后的死亡风险为五分之一，而吞下 14 片塑料让海龟的死亡风险增加到 50%。研究人员估计全世界大约一半的海龟吞下过塑料，其中年轻海龟面临的风险高于成年海龟，它们被发现更可能吞食塑料。23% 的幼年和 54% 的孵化后海龟吞下过塑料，而成年海龟的比例是 16%。研究人员称，小海龟和塑料等东西一起随着洋流漂浮，它们的食物选择少于成年海龟。研究人员希望政客能寻找出解决塑料垃圾问题的方案。
+➜Facebook 被指帮助煽动了对罗兴亚族的仇恨
+https://www.solidot.org/story?sid=57943	25959
+联合国称，Facebook <a href="https://www.bbc.com/zhongwen/simp/world-45494444" target="_blank"><u>在煽动对罗兴亚族的愤怒方面起了 “决定性作用”</u></a>。罗兴亚族是缅甸的一个穆斯林族群，去年遭到了军方的屠杀，有超过 70 万人逃往邻国孟加拉国。Facebook 是缅甸最受欢迎的社交网站，因为该网站支持缅甸文，而 Google 等流行网站并不支持，因此在电信业开放之后缅甸人最早下载的应用就有 Facebook。路透社的调查<a href="https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/" target="_blank"><u>发现</u></a>，自缅甸大规模使用互联网以来，针对罗兴亚人的煽动性帖子经常出现在 Facebook 上。一些帖子显示，罗兴亚人被描述为 “狗” 或“猪”。此类内容长期没有删除，原因是社交巨人缺乏会缅甸语的内容监测人员，2014 年只有一名，目前增加到 60 名。Facebook 在一份声明中承认，在缅甸，他们 “反应太慢，以至没能防止错误信息和仇恨”。Facebook 承认，对互联网和社交媒体不熟悉的国家容易受到仇恨言论的影响。
+➜恶意 Kodi 扩展将用户的机器变成矿机挖掘门罗币
+https://www.solidot.org/story?sid=57944	27814
+流行的开源多媒体播放器 Kodi 支持扩展，部分扩展支持盗版内容，因此连带着 Kodi 也成为版权方打击的对象。这些扩展可以在第三方扩展库下载，而这些扩展库的管理并不那么严格。ESET 的研究人员<a href="https://www.zdnet.com/article/windows-and-linux-kodi-users-infected-with-cryptomining-malware/" target="_blank"><u>发现</u></a>， Bubbles、Gaia 和 XvBMC 中的部分扩展隐藏了恶意代码，会激活 Kodi 下载第二个扩展，安装挖矿程序，挖掘门罗币。Bubbles、Gaia 和 XvBMC 已经下线，但不是因为安全问题而是因为版权投诉。Kodi 支持多个平台，而挖矿程序支持 Windows 和 Linux。研究人员发现挖矿程序感染了超过 4,700 名受害者，产生了 62 个门罗币，价值约 7000 美元。
+➜Firefox Nightly 默认启用 WebRender
+https://www.solidot.org/story?sid=57945	28118
+Mozilla 通过开发者邮件列表<a href="https://groups.google.com/forum/#!topic/mozilla.dev.platform/x_sFbDgQJP0" target="_blank"><u>宣布</u></a>，Firefox Nightly 在使用 Nvidia GPU 的 Windows 10 系统上<a href="https://news.slashdot.org/story/18/09/13/1940252/mozilla-enables-webrender-by-default-on-firefox-nightly" target="_blank"><u>默认启用</u></a> WebRender。WebRender 是用 Rust 语言开发的基于 GPU 的实验性 Web 内容渲染器。开发者 Lin Clark 称，在 Chrome 或正式版 Firefox 上帧率只有 15 FPS 的页面用 WebRender 渲染能达到 <a href="https://www.youtube.com/watch?v=u0hYIRQRiws" target="_blank"><u>60 FPS</u></a>，不管显示器有多大或每帧之间变化多大。Clark 称，现代视频游戏重绘了每个像素，并比浏览器更可靠的维持 60 FPS。
+➜Google 资深科学家抗议审查版搜索引擎辞职
+https://www.solidot.org/story?sid=57946	31887
+一名 Google 资深科学家为抗议公司计划在中国推出审查版搜索引擎<a href="https://theintercept.com/2018/09/13/google-china-search-engine-employee-resigns/" target="_blank"><u>而辞职</u></a>。Jack Poulson 在 Google 的研究和机器智能部门工作，专注于改进搜索引擎的准确性。上个月初，The Intercept 曝光了代号为 Dragonfly 的中国审查版搜索引擎项目，该搜索引擎将过滤掉被中国政府认为敏感的内容，如异见人士、自由言论、民主、人权，以及和平抗议相关的信息。Poulson 向他的经理表达了对此的关注。在与上司讨论之后，Poulson 于 8 月中旬决定不再为 Google 工作，他提出了辞职，8 月 31 日是他在公司的最后一天。他相信自己是公司因 Dragonfly 项目而辞职的五名雇员之一，认为自己有道德上的责任辞职抗议公司在公开人权承诺上的失败。Poulson 曾是斯坦福大学数学系的助理教授，他相信 Google 的中国计划违反了其 AI 原则——公司将不会设计或部署技术“其目的是违背广泛接受的国际法和人权原则”。他不只是担心审查，更担心托管在中国大陆的客户数据。
+➜/e/ 首个 Beta 版发布
+https://www.solidot.org/story?sid=57947	36476
+由 Gaël Duval 发起的强调隐私的智能手机发行版 /e/ 释出了<a href="https://hackernoon.com/leaving-apple-google-e-first-beta-is-here-89e39f492c6f" target="_blank"><u>首个 Beta 版本</u></a>。/e/ 是基于LineageOS 14.1，它的 ROM 目前支持 Essential Phone、Nexus 4 和 5，以及 LG、三星、摩托罗拉、华为、HTC、乐视、一加和小米旗下多个型号的手机。Duval 表示支持的设备型号数量未来会逐步增长，如果有更多的贡献者能帮助维护或移植到特定型号的话。ROM 还包含了默认配置使用Mozilla 地理位置服务的 microG，允许用户在没有 GPS 信号的情况下继续使用地理位置。
+➜中国租房市场计划事与愿违
+https://www.solidot.org/story?sid=57948	39397
+当中国国家主席习近平去年承诺将增加租赁房屋供给时，国内数以百万计年轻人期盼着有朝一日能够住得起房。但这项政府计划<a href="https://cn.reuters.com/article/analysis-china-property-rental-0914-fri-idCNKCS1LU0OC" target="_blank"><u>带来了意料之外的反效果</u></a>：房地产投资者大举杀入租房市场，导致租房价格飙升。今年夏季，中国主要城市房屋租金涨幅高达两位数，迫使许多人转而租用面积更小、周边环境更糟的房子。8 月时，北京的住宅管理主管机关下令要求租赁机构停止利用从银行或其他金融管道取得的资金以高于市价获得房屋来源。然而目前银行业还没收到任何有关收紧房屋租赁业融资的指示。
+➜2018 年度 Ig Nobel 奖宣布
+https://www.solidot.org/story?sid=57949	45332
+Improbable Research 公布了 <a href="https://www.improbable.com/ig/winners/#ig2018" target="_blank"><u>2018 年度的 Ig Nobel 奖</u></a>。<br>
+<i>Marc Mitchell 和 David Wartinger 因发现过山车能加速肾结石排出而获得医学奖；Tomas Persson 等人在动物园收集证据证明黑猩猩模仿人类就像人类模仿黑猩猩而获得人类学奖；Paul Becher 等人演示葡萄酒专家能通过嗅觉可靠的识别酒杯中的苍蝇而获得生物学奖；Paula Romão 等人因测量了人类唾液对脏表面的清洁程度而赢得化学奖；Akira Horiuchi 通过自己给自己做结肠镜检查而了解结肠镜检查坐姿而获得医学奖；Thea Blackler 等人因记录下绝大多数使用复杂设备的人不读说明书而获得文学奖；James Cole 因计算出嗜食同类者从饮食中摄取的热量显著低于传统肉食者摄入的热量而获得营养奖；Francisco Alonso 等人因测量驾驶汽车时叫喊和诅咒的频率、动机和效果而赢得和平奖； Lindie Hanyu Liang 等人因调查员工使用巫毒娃娃诅咒混蛋上司是否有效而获得经济学奖；John Barry 等人因使用邮票测量男性生殖器是否功能正常而获得生殖医学奖。
+</i>
+BBC 发表了<a href="https://www.bbc.com/news/science-environment-45513012" target="_blank"><u>一篇文章</u></a>介绍了过山车排石的发现经过。
+➜美国主要新移民来自亚洲
+https://www.solidot.org/story?sid=57950	45717
+美国的外国出生人口数量已达到自 1910 年以来的最高，和过去几十年相比，<a href="https://cn.nytimes.com/usa/20180914/census-foreign-population/" target="_blank"><u>新移民更有可能来自亚洲并拥有大学学位</u></a>。多年来，新移民往往来自拉丁美洲，但布鲁金斯学会对这些数据的分析显示，自 2010 年以来，有 41% 的人来自亚洲。只有 39% 来自拉丁美洲。分析发现，大约 45% 的人接受过大学教育，而 2000 年至 2009 年间，这一比例约为 30%。数据显示，2017 年出生在国外的人口为 13.7%，即 4450 万人，而 2016 年为 13.5%。移民美国的上一个历史性高峰发生在 19 世纪末，当时大量欧洲人为了逃离本国的贫困和暴力来到美国，其中数量最多的人群包括德国人、意大利人和波兰人。
+➜一名精子捐赠者留下了至少 45 名后代
+https://www.solidot.org/story?sid=57951	47188
+合法的精子和卵子捐赠者留下的同父异母或同母异父兄弟姐妹通过 DNA 测试和在线注册在网上建立联系，<a href="https://arstechnica.com/science/2018/09/sperm-donor-2757-sired-at-least-45-kids-now-theyre-connecting-online/#p3" target="_blank"><u>形成了不同寻常的庞大遗传家族</u></a>，有几十甚至几百名儿童与同一名父母联系在一起。在一个案例中，精子捐赠者 #2757 是至少 29 名女孩和 16 名男孩的父亲，这群后代的年龄从 1 岁到 21 岁，生活在八个州和四个国家。如此庞大的遗传家庭引发了这群后代们在无意中相遇相爱并产下可能具有高风险遗传病孩子的担忧。上个月，FDA 拒绝了限制捐赠者后代数量的请愿，理由是这超出了它的职权范围。#2757 的一名女儿说，每次发现一名新的兄弟或姐妹，她都会感到焦虑，扪心自问：这有完没完啊？

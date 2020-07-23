@@ -1,0 +1,36 @@
+➜深信服证实其 VPN 设备存在正被利用的漏洞
+https://www.solidot.org/story?sid=64041	20587
+深信服发表<a href="https://mp.weixin.qq.com/s/lKp_3kPNEycXqfCnVPxoDw"><u>声明</u></a>，证实其 VPN 设备存在漏洞，攻击者正利用漏洞欺骗设备下载恶意的更新包。深信服称，它的 SSL VPN 设备 Windows 客户端升级模块签名验证机制存在缺陷。攻击者如果利用其它已知漏洞或弱密码控制设备之后<a href="https://www.freebuf.com/column/232587.html" target="_blank"><u>可以纂改升级配置文件</u></a>，将升级包下载指向攻击者控制的恶意文件和对应文件 MD5。当客户端检测到更新启动下载之后它会下载恶意的更新包，执行安装在设备上植入木马。深信服称受影响的版本为 M6.3R1 和 M6.1。
+➜盖茨将向新冠疫苗研发投入数十亿美元
+https://www.solidot.org/story?sid=64042	21713
+微软联合创始人比尔盖茨<a href="https://www.marketwatch.com/story/bill-gates-says-hell-spend-billions-on-coronavirus-vaccine-development-2020-04-06"><u>宣布</u></a>，他的基金会将向新冠疫苗研发投入数十亿美元。盖茨表示，比尔梅林达盖茨基金会将与七家有潜力的疫苗制造商合作去建造疫苗生产工厂。盖茨是在《The Daily Show With Trevor Noah》节目中做出这一宣布的，他承认可能会有数十亿美元浪费在不成功的疫苗上。但盖茨指出，早期投入的资金可以加速疫苗研发工作，虽然最终可能只能选择其中两种，但基金会将资助所有七种疫苗的工厂，以避免浪费时间。
+➜美国新泽西州迫切需要 COBOL 程序员
+https://www.solidot.org/story?sid=64043	22754
+在美国新泽西州，新冠疫情导致的一个出人意料的结果是：<a href="https://qz.com/1832988/covid-19-results-in-new-jersey-desperately-needing-cobol-coders/" target="_blank"><u>该州迫切需要 COBOL 程序员</u></a>。诞生于 1959 年的 Common Business-Oriented Language（缩写 COBOL）语言其黄金时代早已过去，但仍然被广泛用于银行和金融等关键领域。新泽西州的问题是基于 COBOL 的失业保险系统因疫情相关的失业而不堪重负，需要精通该语言的程序员来维护。州长 Phil Murphy 在新闻发布会上请求了解 COBOL 语言的程序员志愿者来帮忙。然而，大部分了解 COBOL 语言的志愿者很可能年过花甲，可能很容易受到新冠病毒的影响。新冠对年长者的冲击更严重。
+➜OneWeb 的失败意味着什么
+https://www.solidot.org/story?sid=64044	28149
+试图打造互联网宽带卫星星座的 OneWeb 公司上周申请破产并解雇雇员，这是近期航天行业最大的破产案例。但不是唯一一家。LeoSat 和 Bigelow Aerospace 等知名的太空公司也都可能关闭运营。新冠疫情加剧了航天行业的财务压力，许多中小企业也都如履薄冰。York Space Systems 执行主席 Chuck Beames <a href="https://arstechnica.com/science/2020/04/what-onewebs-failure-tells-us-about-space-resiliency-in-the-age-of-covid-19/"><u>表示</u></a>，他从未对 OneWeb 感到非常乐观，建立一个互联网卫星星座需要 100 到 120 亿美元，而 OneWeb 只筹集到 30 亿美元，这是远远不够的。互联网卫星不只是卫星，还有各种地面设施需要解决。他认为新冠疫情只是压垮它的最后一根稻草。OneWeb 的不同资产预计将会被不同公司收购。
+➜英国政府利用游戏呼吁居民呆在家中
+https://www.solidot.org/story?sid=64045	31178
+英国数字化、文化、媒体和体育部利用游戏呼吁居民<a href="https://arstechnica.com/gaming/2020/04/british-government-starts-pushing-social-distancing-via-in-game-ads/"><u>呆在家中减少外出</u></a>。英国政府在 Codemasters 的赛车游戏《Dirt Rally 2.0》内展示了横幅广告“Stay at home, save lives”，在 Rebellion 的射击游戏《Sniper Elite》和《Strange Brigade》启动时展示广告，在热门手游《Candy Crush Saga》内插播广告。利用游戏发布公益广告并非新现象，数字化、文化、媒体和体育部在其声明中称，度过危机需要国家集体的努力，需要每一代人各司其职，年轻人在游戏上的时间比其他人口多，游戏内广告代表了一种创造性的、针对性的和及时的方式去传达“Stay at home, save lives”的疫情信息。
+➜CEO 对企业的业绩有多重要
+https://www.solidot.org/story?sid=64046	33127
+CEO 对企业的业绩究竟有多重要？这是管理学中的一大难题。欧洲工商管理学院的经济学家<a href="https://www.eurekalert.org/pub_releases/2020-04/i-irf040620.php" target="_blank"><u>分析了 CEO 就医期间的企业业绩</u></a>。论文将发表在《Journal of Finance》期刊上，研究人员发现 CEO 住院的金融影响是巨大的。对 1996 到 2012 年之间 1.3 万家丹麦中小企业数据的分析发现，住院 5-7 天会影响企业当年业绩下降 7%，住院超过 10 天的损失会更大，企业总资产营业利润率会下降一个百分点。相比高管的住院，CEO 住院导致的损失是其他高管的两倍以上。为了确保这些效应确实来自于 CEO 的缺席，研究人员考虑了其他因素，发现其他因素没有观察到统计学上的显著影响，这表明 CEO 住院确实会导致企业业绩明显下滑。
+➜Red Hat 任命 Paul Cormier 为总裁兼 CEO
+https://www.solidot.org/story?sid=64047	36180
+IBM CEO  Ginni Rometty 今年初宣布将辞职，其职务将由 Arvind Krishna 接手，而 Red Hat CEO Jim Whitehurst 将担任董事长一职。现在，Red Hat <a href="https://www.redhat.com/en/about/press-releases/red-hat-names-paul-cormier-president-and-chief-executive-officer"><u>宣布</u></a>了接替 Whitehurst 的人选：任命 Paul Cormier 为总裁兼 CEO。Cormier 自 2001 年起就加盟 Red Hat 担任工程副总裁，伴随着 Red Hat 从一家创业公司成长为一家数十亿美元的公司。Whitehurst 表示，在亲密共事十多年后，Paul 是领导 Red Hat 非常合适的人选。
+➜俄罗斯电信劫持了 Google 和 AWS 等公司的流量
+https://www.solidot.org/story?sid=64048	41462
+上周，两百多家 CDN 和托管商的流量<a href="https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/" target="_blank"><u>遭到了</u></a>国有的俄罗斯电信公司的劫持。受影响的公司包括了&nbsp; Google、Amazon、Facebook、Akamai、Cloudflare、GoDaddy、Digital Ocean、Joyent、LeaseWeb、Hetzner 和 Linode。俄罗斯电信公司是通过 BGP 路由通告劫持了不属于它的网络流量。BGP 劫持未必都是恶意的，很多时候都是因为人为失误导致的。同一机构频繁发生路由劫持则视为可能有恶意。最大的电信公司中国电信频繁发生过 BGP 路由劫持事故。俄罗斯电信也发生过多次。
+➜土星大气层为何如此炎热
+https://www.solidot.org/story?sid=64049	43495
+与地球一样，气态行星如土星、木星、天王星和海王星的大气上层非常炎热。但和地球不同的是，太阳太遥远而不是这些行星热量的主要来源。其热量来源是行星科学领域的一大谜题。利用 NASA 卡西尼号探测器在其任务的最后阶段收集的数据，<a href="https://phys.org/news/2020-04-saturn-atmosphere-hot.html"><u>科学家找到了可行的解释</u></a>：行星南北极的极光。太阳风和来自土星卫星的带电粒子之间相关作用产生的电流，激发了极光，加热了大气上层。卡西尼号收集的温度数据显示，温度峰值靠近极光，显示极光电流加热大气上层。科学家表示，卡西尼号让他们能更详细的了解土星上层大气。研究报告发表在《Nature Astronomy》期刊上。
+➜报告称只有 6% 的 COVID-19 感染病例检测出
+https://www.solidot.org/story?sid=64050	51044
+哥廷根大学的研究人员认为，各国官方公布的 COVID-19 确证病例数量严重低估了真正的感染数量。他们的分析显示，<a href="https://medicalxpress.com/news/2020-04-covid-average-actual-infections-worldwide.html" target="_blank"><u>只有 6% 的 COVID-19 感染病例被检测出来</u></a>，全球实际感染人数可能多达数千万。检测不足或拖延可以解释为什么部分欧洲国家如意大利和西班牙，相对于确诊人数而言有着更高的死亡人数，德国检测的感染比率为 15.6%，而意大利只有 3.5%，西班牙只有 1.7%，美国更低只有 1.6%，英国只有 1.2%。英美因为反应迟缓而饱受批评。形成对比的是，韩国可能发现了近半数的感染者。研究人员估计，截至 3 月 31 日，德国有 46 万感染者，他们估计美国有 1000 多万，西班牙有 500 万，意大利 300 万，英国 200 万。
+➜uTorrent 是使用率最高的 BT 客户端
+https://www.solidot.org/story?sid=64051	51148
+BT 下载过去十年可谓天翻地覆，KickassTorrents、Torrentz.eu 和 ExtraTorrent 早就关闭，YTS 和 EZTV 发布组也销声匿迹了。网站来来去去，<a href="https://torrentfreak.com/utorrent-is-the-most-used-bittorrent-client-by-far-200405/"><u>但 BT 客户端却几乎巍然不动</u></a>。uTorrent 是十年前最受欢迎的 BT 客户端，今天依旧是。对 BT 连接的分析显示，uTorrent 的使用率高达 68.6%，绝大多数使用最新版本  3.5.5，但还有很多人使用旧版本。uTorrent 之后的流行客户端包括了 BitTorrent、Libtorrent、Transmission、MediaGet 和 qBitTorrent 等等，中国流行的客户端比特彗星 Bitcomet 排在第九，比特精灵 BitSpirit 排在第 12。
+➜DarkHotel 利用深信服 VPN 漏洞入侵政府机构
+https://www.solidot.org/story?sid=64052	52421
+奇虎 360 安全博客<a href="https://blogs.360.cn/post/APT_Darkhotel_attacks_during_coronavirus_pandemic.html"><u>披露</u></a>，政府支持的黑客组织 DarkHotel 利用深信服 SSL VPN 服务器<a href="https://www.solidot.org/story?sid=64041" target="_blank"><u> 0day 漏洞</u></a>入侵了中国政府机构。有 200 多台深信服服务器遭到入侵，一百多台位于政府机构的网络内。攻击者入侵服务器之后，劫持了用户的更新程序，用嵌入后面的版本替换了合法版本。后门版本的 SangforUD.exe 使用了伪装成深信服的签名。位于意大利、英国、巴基斯坦、吉尔吉斯斯坦、印尼、泰国、阿联酋、亚美尼亚、朝鲜等地的中国海外机构遭到攻击。四月初，攻击扩大到了北京和上海的政府机构。

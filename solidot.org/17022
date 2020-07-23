@@ -1,0 +1,46 @@
+➜美国在大众奥迪引擎内发现新的秘密软件
+https://www.solidot.org/story?sid=49246	10384
+大众柴油车的排放丑闻看起来<a target="_blank" href="https://yro.slashdot.org/story/16/08/08/1811226/us-finds-new-secret-software-in-vw-audi-engines-says-report"><u>还将继续下去</u></a>：美国监管部门在大众奥迪3.0升排量的柴油引擎内发现了3个隐藏软件——即没有对外披露的软件。秘密软件的功能与排放控制有关，它能在运行22分钟之后关闭排放控制系统，而大部分排放测试只持续20分钟左右。大众在美国出售的3.0升排量柴油汽车的型号包括了：奥迪Q7、大众途锐和保时捷卡宴SUV，数量大约在8.5万辆。
+➜BAT浏览器的隐私和安全问题
+https://www.solidot.org/story?sid=49247	12365
+在本周一得州奥斯丁举行的互联网自由和开放通信研讨会<a target="_blank" href="https://www.usenix.org/conference/foci16/workshop-program"><u>FOCI 16</u></a>会议上，加拿大多伦多大学公民实验室的研究人员讨论了中国三大巨头的浏览器——阿里巴巴的<a target="_blank" href="https://citizenlab.org/2016/08/a-tough-nut-to-crack-look-privacy-and-security-issues-with-uc-browser/"><u>UC浏览器</u></a>、腾讯的QQ浏览器和百度的浏览器——的<a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-knockel.pdf"><u>隐私和安全问题</u></a>（PDF）。这些浏览器在中国有着庞大的用户基数，其中UC浏览器是仅次于 Chrome 的第二大移动浏览器，用户数量数以亿计。研究人员指出，三大浏览器都被发现会收集和发送用户的隐私数据；都使用了不安全的方法传输这些数据；软件更新过程都存在漏洞；没有使用行业标准的安全数据传输方法，比如没有使用标准的 OpenSSL 协议，而是使用自制的协议。这些结果显示安全和隐私方面的缺陷都不是每一家公司孤立的问题，而是反映了中国流行应用开发和安全的更广泛问题，比如市场竞争的压力，Google Play的缺席迫使开发商实现自己的更新机制而不是借助Google Play更新，以及中国企业 承担的监视和审查内容的义务。
+➜DNS-sly：利用网络复杂性躲避审查
+https://www.solidot.org/story?sid=49248	16521
+在本周一得州奥斯丁举行的 USENIX 互联网自由和开放通信研讨会<a target="_blank" href="https://www.usenix.org/conference/foci16/workshop-program">FOCI 16</a>会议上，美国西北大学电气工程与计算机科学系的<a target="_blank" href="http://www.mccormick.northwestern.edu/eecs/news/articles/2016/akbar-to-present-research-at-6th-usenix-workshop-on-free-open-communications-on-the-internet.html"><u>研究人员</u></a>（两博士一教授）介绍了反审查系统 <a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-akbar.pdf"><u>DNS-sly</u></a>（PDF）。研究人员称，互联网上的在线审查如今势头正旺，如运行一个大规模的防火墙事实上将一个国家的互联网与世界其余部分隔离开来。为了绕过审查，用户主要依赖于基于加密的协议和系统，但此类的系统未能提供隐蔽性和可否认性，因此容易发现和屏蔽。DNS-sly 设计利用互联网的核心服务 DNS去构建一个具有隐蔽性和可否认性的大规模反审查系统。它包含了一个请求程序，作为一个修改版的DNS客户端运行在用户电脑上；以及作为一个修改版的DNS服务器运行的响应程序。DNS-sly响应程序向请求程序提供了一个隐蔽的Web代理服务去绕过审查。DNS-sly 请求程序和响应程序都具有统计学上的不可区别性，审查者无法识别DNS-sly的请求模式。为了在上游方向实现隐蔽性和可否认性，DNS-sly应用了用户个性化，能适应用户个人行为。在下游方向DNS-sly利用CDN相关的DNS响应去嵌入数据。研究人员称，每次页面的点击DNS-sly能实现最多600字节隐藏数据的下游吞吐量。
+➜白宫公布联邦开源代码政策
+https://www.solidot.org/story?sid=49249	17561
+美国联邦政府刚刚公布了<a target="_blank" href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf"><u>联邦源码政策</u></a>（PDF），要求使用联邦政府资金开发的定制软件每年<a target="_blank" href="https://yro.slashdot.org/story/16/08/08/2326222/white-house-releases-federal-source-code-policy-to-help-government-agencies-go-open-source"><u>至少需要开源五分之一</u></a>。此举旨在通过减少重复的定制软件购买节省纳税人税款，以及促进联邦机构之间的创新和协作。联邦源码政策要求联邦政府开发或为联邦政府的定制软件源代码需要在所有联邦机构之间共享和重复使用。比如职能相近的TSA可以访问FBI委托开发的定制软件。
+➜Bitfinex 失窃案被怀疑是监守自盗
+https://www.solidot.org/story?sid=49250	18086
+位于香港的比特币交易所 Bitfinex 上周报告遭黑客入侵，价值超过7000万美元的比特币失窃。Bitfinex 网站上周日宣布<a target="_blank" href="http://blog.bitfinex.com/uncategorized/site-relaunch/"><u>重新发布</u></a>，但引起争议的是该公司的<a target="_blank" href="https://www.reddit.com/r/Bitcoin/comments/4wqs3u/announcement_regarding_reports_about_bitfinex_not/"><u>损失补偿方案</u></a>：被盗比特币的损失目前由所有平台用户承担，Bitfinex 承诺未来会补偿所有用户的损失。Bitfinex 将为用户标记相应数量的BFX代币，未来再赎回这些代币，或者换取Bitfinex母公司iFinex的股份，以弥补用户损失。这相当于Bitfinex给用户打了“欠条”。官方媒体财新网引用资深业内人士的消息称，黑客入侵<a target="_blank" href="http://finance.caixin.com/2016-08-09/100975755.html"><u>被怀疑是监守自盗</u></a>：Bitfinex采用的是多重签名的安全技术架构。一般的交易所往往采取“单签名”记账方式，在此之外，Bitfinex平台自身还管理了另一个“签名”，这些签名的密钥分散在多个服务器上面，一夜之间被盗光。“这么多服务器，要是没有内应，也很难做到。”
+➜GhostPost：无缝恢复新浪微博被删除的帖子
+https://www.solidot.org/story?sid=49251	27203
+本周一在得州奥斯丁举行的 USENIX 互联网自由和开放通信研讨会<a target="_blank" href="https://www.usenix.org/conference/foci16/workshop-program">FOCI 16</a>会议上，伊利诺斯大学香槟分校的研究人员介绍了他们开发的 Chrome 扩展 <a target="_blank" href="https://salmon.cs.illinois.edu/ghostpost.html"><u>GhostPost</u></a>，它能<a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-douglas.pdf"><u>无缝的恢复被删除的新浪微博帖子（PDF）</u></a>。对审查者而言，屏蔽外部信息与控制内部声音同等重要。然而在每一条帖子发表前预先进行筛选的做法是不切实际的，因此审查者是在帖子发表之后发现和删除负面内容。GhostPost是一个分布式的系统，旨在方便安全的恢复任何社交平台上被删除的帖子。研究人员的模拟显示，即使审查员在两小时内删除了大部分受争议帖子，一个已成建制部署的 GhostPost 能恢复大部分（如三分之二）的删贴。GhostPost与中心式的监视系统如香港大学的 <a target="_blank" href="http://147.8.142.179/"><u>Weiboscope</u> </a>不同，研究人员考虑到了它可能被屏蔽（Weiboscope 已被屏蔽）和审查员也使用 GhostPost 等各种情况，它的客户端实现是一个Chrome 扩展，服务器端实现就是一个简单的REST服务，它通过监视新浪微博用户浏览的信息流，观察帖子的消失，一旦帖子消失了它会报告给系统，然后在用户浏览微博时将被删除的内容无缝插入到原来的位置。
+➜推迟审查员对代理的屏蔽
+https://www.solidot.org/story?sid=49252	31693
+本周一在得州奥斯丁举行的 USENIX 互联网自由和开放通信研讨会<a target="_blank" href="https://www.usenix.org/conference/foci16/workshop-program">FOCI 16</a>会议上，加州伯克利大学的研究人员讨论<a target="_blank" href="https://www.usenix.org/system/files/conference/foci16/foci16-paper-fifield.pdf"><u>如何推迟审查员发现和屏蔽一个代理服务器的时间</u></a>（PDF），他们试图通过了解审查模式去发现尽可能延长代理工作时间的方法。研究人员以Tor匿名网络为测试对象，在美国，中国和伊朗部署了测试点，在美国的测试点是作为控制组以区分屏蔽和临时下线。Tor在中国遭到了屏蔽，但通过组合网桥和可插拔传输，中国用户可利用没被屏蔽的网桥地址连上Tor网络，但这些网桥地址最终仍然会被审查员屏蔽，只是时间长短的问题。Tor每次发布新版本都会加入新的默认网桥，研究人员测试的就是这些新网桥存活时间，他们运行脚本每隔20分钟测试一下TCP可达性，脚本会尝试建立TCP连接，记录时间、IP地址、端口、状态和错误信息。他们在2015年12月12日到2016年6月4日执行了大约5个月的刺探。结果显示，伊朗没有显示对网桥的屏蔽，但中国的防火墙要先进得多——在Tor发布五个版本公开五批网桥地址之后，防火长城在7、2、18、11和36天后将其屏蔽（  Tor移动版Orbot的网桥没有被屏蔽）。中国的屏蔽组合了IP地址和端口，许多网桥的22端口也是开放的，结果相同IP的其它端口被屏蔽之后22端口仍然可达。3月27日，防火长城发生了故障，被屏蔽的Google服务在 15:30 到 17:15 UTC期间可以访问，在大致同一时间（10:00 到18:00 UTC ），测试网桥也可达。五次屏蔽有三次发生在周二，一次周三，一次周五，根据屏蔽时间判断屏蔽程序是部分手动和部分自动的。
+➜韩国部署萨德致使“韩流”在华遇“寒流”
+https://www.solidot.org/story?sid=49253	32203
+在韩国，越来越多的人们担心中国对韩国活跃的流行文化的喜爱<a target="_blank" href="http://www.ftchinese.com/story/001068831"><u>开始降温</u></a>，原因是两国围绕韩国政府计划部署美国反弹道导弹系统萨德的紧张关系日益加剧。多位韩国演员和歌手“出于超出其控制范围的原因”，取消了在中国的宣传推广活动。中国是韩国电视剧、音乐和电影最大的出口目的地。韩国广播通信委员会副主席Kim Jae-hong表示：“我看到有迹象显示，我们的文化出口在中国面临障碍，原因是中国各省政府和民企试图解读中央政府的意志——尽管北京方面并未直接下令封杀双边文化交流。” 中国社科院(CASS)东北亚研究专家王俊生表示：“中国社会对于韩国的积极态度是韩流的基础。部署‘萨德’摧毁了这种感情基础。”
+➜Netflix 将使用 HTTPS 加密流视频
+https://www.solidot.org/story?sid=49254	34573
+北美流量之王 Netflix <a target="_blank" href="http://www.tomshardware.com/news/netflix-efficient-https-video-streams,32420.html"><u>宣布将使用HTTPS加密流视频</u></a>，在这之前它只用HTTPS保护用户信息。因为要加密的视频流量是如此巨大，为了避免增加太多的开销Netflix搜寻了最佳的加密算法和最快的实现。Netflix 最后选择使用 TLS 1.2+ 支持的 AES-GCM 加密方法，选择 AES-GCM 而不是 AES-CBC 的原因是它能同时加密和验证消息。Netflix 在不同的TLS加密库 OpenSSL、Google的BoringSSL、Intel的Intelligent Storage Acceleration Library (ISA-L)测试了AES-GCM的最快实现。
+➜Lumina Desktop 1.0.0 发布
+https://www.solidot.org/story?sid=49255	37851
+Lumina桌面环境发布了<a target="_blank" href="https://lumina-desktop.org/version-1-0-0-released/"><u> 1.0.0 版</u></a>。Lumina 是 PC-BSD发起的全新桌面环境项目，采用BSD授权，使用 Qt 工具链构建，主开发者是 Ken Moore。1.0.0 版的特性包括：完全可定制的界面，简单的快捷键，超轻量级，多显示器支持，等等。Lumina支持BSD和Linux，目前还不支持中文语言，中文语言已完成<a target="_blank" href="http://translate.pcbsd.org/zh_CN/lumina/"><u>部分翻译</u></a>。
+➜业余天文爱好者凝视遥远的天际
+https://www.solidot.org/story?sid=49256	39915
+<center>
+<iframe src="https://www.youtube.com/embed/qAJI4gqX3Zg" allowfullscreen="" frameborder="0" height="288" width="512"></iframe><br>
+<br>
+</center>
+Ars发表了一篇文章<a target="_blank" href="http://arstechnica.com/science/2016/08/amateur-astronomy/"><u>回顾了</u></a>业余天文学爱好者利用普通的天文望远镜在过去二十年做出的多次重要发现。英国不是使用望远镜的理想场所，因为一周可能只有一个夜晚是晴朗无云的，但这没有阻止John McKeon投资望远镜去观察太阳系的遥远星球。McKeon得到了激起专业天文学家产生兴趣的发现：他在3月17日公布了一则<a target="_blank" href="https://www.youtube.com/watch?v=qAJI4gqX3Zg"><u>视频</u></a>（YouTube）显示了木星遭到撞击产生的光。他是在另一位业余天文学爱好者Gerrit Kernbauer在Facebook上发表类似发现后去检查了自己此前拍摄的视频录像。这则视频至今的观看次数接近400万次。专业的天文学家承认，业余天文学爱好者是发现此类撞击事件的主力军。
+➜Linux 4.8 RC1发布
+https://www.solidot.org/story?sid=49257	42951
+Linus Torvalds 在内核邮件列表上宣布<a target="_blank" href="https://lkml.org/lkml/2016/8/7/93"><u>发布 Linux 4.8 RC1</u></a>，这标志着4.8合并窗口的关闭，新版主要的变化已经固定下来。 Linux 4.8 的新特性<a target="_blank" href="http://www.phoronix.com/scan.php?page=article&amp;item=linux-48-features&amp;num=1"><u>包括</u></a>： AMDGPU驱动支持超频，改进PowerPlay；初步支持 NVIDIA Pascal显卡；支持Raspberry Pi 3的BCM2837 SoC；ACPI Low-Power Idle 支持；支持微软Surface 3 触摸屏；等等。
+➜人类为何没有婴儿时期的记忆
+https://www.solidot.org/story?sid=49258	45101
+从生命中最戏剧性的一刻，你出生那天，到摇摇学步，呀呀学语，吃第一口饭，第一次上幼儿园，这些人生初期的经历我们大多数人已经完全想不起了。即便在我们已经有了记忆之后，我们仍然难以回忆起这些早期的人生片段，<a target="_blank" href="http://www.bbc.com/ukchina/simp/vert_fut/2016/08/160809_vert_fut_the-mystery-of-why-you-cant-remember-being-a-baby"><u>直至童年记忆才逐渐清晰</u></a>。记忆的长短因人而异，不同的文化之间也有差异，而记忆也未必精确，常常会有很大的偏差。康奈尔大学心理学家王琪（Qi Wang）收集了来自中国和美国的大学生的数百个回忆。普遍的基于国别的印象表明，美国同学的故事普遍更长，更详细，且更明显的以自我为中心。而另一方面中国同学的故事则更加简洁，更基于事实；平均而言，他们比美国同学记忆开始晚六个月。当王琪通过询问孩子们的母亲再次进行同样的实验时，她发现了同样的模式。换句话说，那些记忆力较弱的孩子，父母们要为此而负责。王琪的首个记忆是在她的家乡重庆和母亲妹妹一起爬山远足。她当时六岁。而直到她移居到美国，这段记忆从没被别人问起过。“在东方文化中，童年的记忆并不重要。人们常说‘你管这个干什么’？”她说。一种理论认为，人类缺乏早期记忆是因为大脑尚未发育出相应的功能。
+➜移民律师称科技业更迫切想要廉价的外来劳工
+https://www.solidot.org/story?sid=49259	46254
+H-1B 签证程序过去几年在美国政界民间引发了很多争论，它本意是引进美国亟需的人才，结果却引入了大量印度人去替换美国工人。但 H-1B 签证的主要使用者科技行业却不断为此辩护，甚至抛出了很多难听的理由，称美国的教育系统没有准备不充分，美国在STEM领域存在教育危机。移民改革法律研究所的律师则指出<a target="_blank" href="http://dailycaller.com/2016/08/05/in-a-new-bid-to-push-h-1b-program-microsoft-manufactures-claim-u-s-students-cant-hack-it-in-tech/"><u>印度的教育系统比美国更差</u></a>。根据数学科学评估标准国际学生评价项目，印度在测试的74个国家中几乎是排名最后一位。此外没有一所印度大学进入世界大学排行榜的前250名。科技行业的巨头想要的<a target="_blank" href="https://news.slashdot.org/story/16/08/08/233250/immigration-attorneys-industry-pushes-foreign-labor-claiming-us-students-cant-hack-it-in-tech"><u>只是更廉价更耐劳的工人。</u></a>

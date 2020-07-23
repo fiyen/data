@@ -1,0 +1,69 @@
+➜Vista的大文件拷贝bug仍未解决
+https://www.solidot.org/story?sid=10455	60
+用户对Vista抱怨最多的问题之一就是大文件复制转移时出现内存不足报错。<i>微软也承认这是一个bug，并提供了<a href="http://support.microsoft.com/kb/942435">hot fix</a>修正，它解释称“当拷贝文件量比较大，并且文件含有扩展属性的时候，就会out of memory，原因是OLE组件有memory leak。”实际上除了内存溢出之外，甚至还会出现文件数量和大小都不一致的情况。虽然微软提供了补丁，但事实上该问题并没有真的解决，因为一位打了最新补丁的用户，在一台有4G内存的Vista电脑上向1TB的硬盘拷文件时仍然出现了“<a href="http://wesleybao.spaces.live.com/Blog/cns!B8C72620C46CF4CA!6189.entry">内存不足</a>”。</i>
+➜科学家发现了大脑“货币错觉”中心
+https://www.solidot.org/story?sid=10456	1920
+在最新一期的《美国科学院学报》上，德国波恩大学的科学家<a href="http://www.pnas.org/content/early/2009/03/20/0901490106.abstract">报告</a>(摘要)他们发现了大脑<a href="http://chinese.eurekalert.org/zh/pub_releases/2009-03/potn-sif032009.php">“货币错觉”的中心</a>，这种错觉意味着人们更看重货币的数目，而非它的相对购买力。这种错觉认为人们倾向于重视收入的增加，而不管它们是否能购买更多的商品，这可能有助于解释一些人对货币和财富的非理性行为。<i>
+经济学教授<a href="http://www.fiwi.uni-bonn.de/index.php?id=2485">Armin Falk</a>及其同事证明这种错觉激励了负责处理奖赏的大脑正中前额叶皮层。科学家利用功能磁共振成像（fMRI）测试了受试者。受试者在研究期间得到了高的或者低的“收入”，然后被允许从高价或低价物品目录中选择物品。这组科学家发现高收入/高价物品的受试者比低收入/低价物品的受试者的大脑奖赏中心表现出了显著更高的活动。研究人员得出结论说，这种活动的增加表明了受试者对货币错觉有了反应，尽管每个人的相对购买力都是相同的。</i>
+➜塔利班威胁砍掉“支持”塔利班的加拿大记者的头
+https://www.solidot.org/story?sid=10457	2880
+Beverly Giesbrecht(又名Khadija Abdul Qahar)，加拿大人，信奉伊斯兰教，创建了<a href="http://www.jihadunspun.com/index.php">Jihad Unspun</a>网站，她用手中的笔持续的抨击美国和加拿大的军队是“真正的恐怖分子”，而塔利班则是反帝国主义自由战士。<i>
+她前往巴基斯坦，试图拍摄一部“自由战士”的纪录片，展示他们抵抗帝国主义的侵略。然而当她进入巴基斯坦北部的法律真空地带之后，这位塔利班的支持者却被塔利班劫持为人质，绑匪威胁如果不交付赎金，<a href="http://mypetjawa.mu.nu/archives/196925.php?">将砍掉她的头</a>。52岁的Giesbrecht女士在一个短视频中哽咽的表示赎金的截止日期是3月底，她表示自己可能只有十几天可活，时日无多。</i>
+➜MIT员工同意论文开放获取
+https://www.solidot.org/story?sid=10458	4500
+格致<a href="http://gezhi.org/blog/1544">报道</a>，MIT的教职员工们上周无记名投票通过了<a href="http://tech.mit.edu/V129/N14/open_access.html">一项决议</a>：允许校方免费公开他们撰写的学术文章。MIT将创建一个在线储藏库来存放这些内容。<i>
+大学为什么要这么做？那是因为目前科学期刊出版存在许多不合理之处，举两个明显而实在的问题：一、出版商经常要求研究者们把他们的文章版权转交给他们；二、等研究者所在单位想获取这些文章时，出版商又要收取昂贵的订阅费。</i>
+今年1月份加州大学也和世界第二大学术出版巨头Springer<a href="__SLASHLINK__" sect="science" sid="09/01/29/0928255" sn="article" tid="68">达成了一项协议</a>，同意开放获取加州大学作者的文章。
+➜微软发布开源服务器软件的“App Store”
+https://www.solidot.org/story?sid=10459	5520
+iPhone的iPhone App软件发行模式越来越受追捧，就连微软也推出了流行<a href="http://osnews.com/story/21186/Microsoft_Launches_Server_quot_App_Store_quot_Populated_by_Open_Source">开源服务器软件的“App Store”</a>。<i>
+名叫“<a href="http://www.microsoft.com/web/gallery/Default.aspx?sorting=highestrated">Web App Gallery</a>”的服务托管了各种开源服务端工具，通过Web Platform Installer (WebPI)<a href="http://silverstripe.org/installing-on-windows-now-easier-thanks-to-microsoft-web-platform-installer/">简化安装</a>，允许开发者了解、研究和下载应用程序和组件，帮助开发Web应用，开发者也能向Gallery上传免费Web应用。Gallery包含的应用程序包括了Acquia Drupal，DotNetNuke、WordPress，ScrewTurn Wiki，SilverStripe CMS等等。这是微软拥抱而不是反抗开源的新迹象。</i>
+➜ESR宣称不再需要GPL许可证
+https://www.solidot.org/story?sid=10461	9900
+开源界三大代表人物之一的Eric S. Raymond（其他两位是Linus Torvalds和Richard Stallman）在<a href="http://lilug.org/wiki/Lilug">长岛Linux用户组</a>聚会上宣称，鉴于开源运动与众不同的运作方式，GPL许可证<a href="http://dotcommie.net/feed/index.php?id=160">已经不再是必要的了</a>。ESR表示，“我有个异端观点，那就是我们过分担忧授权了。尤其是：我认为我们并不需要互惠许可证，<a href="http://osnews.com/story/21192/ESR_GPL_No_Longer_Needed">不需要像GPL之类的许可证</a>，去惩罚拿了开源代码却做闭源开发的人。”ESR解释了他的理由：<i>
+开源开发是一种更优越的软件开发模式，相比闭源开发，开源模式会给你带来更多投资。因此获取了开源代码之后闭源，并围绕它建立商业运作是一种很糟糕的想法，因为原始的开源产品仍然在继续开发，比闭源开发团队的开发速度更快和更高效。所以一个像GPL的互惠许可证并无多大意义，ESR说市场会惩罚那些窃取开源代码的闭源公司。ESR认为BSD许可证是比GPL更好的替代许可证。</i>
+➜GNOME 2.26和GTK+ 2.16发布及评测
+https://www.solidot.org/story?sid=10462	12960
+GNOME开发社区宣布发布了Linux开源桌面环境GNOME的<a href="http://library.gnome.org/misc/release-notes/2.26/index.html.zh_CN">最新版2.26</a>，同时发布的还有桌面环境widget开发工具包GTK+ 2.16。GNOME 2.26的新特性包括：<i>
+光盘刻录工具Brasero；支持通过WebDAV、HTTP和蓝牙等方式实现简单个人文件共享；改进了电子邮件及多用户协作工具Evolution，支持是直接导入Microsoft Outlook个人目录 (PST 文件)，支持Microsoft Exchange服务的MAPI协议；支持媒体播放器支持通过UPnP或DLNA协议共享内容；改进了声音控制系统；显示设置工具支持多显示器和投影仪；即时聊天工具Empathy支持视频聊天；浏览器Epiphany增加了增强型地址栏；指纹识别功能；改进Orca屏幕阅读工具等等。GNOME 2.26将整合到即将发布的发行版如Fedora 11和Ubuntu 9.04中。现在你可以选择<a href="http://torrent.gnome.org/">Live Media</a>下载试用。</i>
+Ars Technica<a href="http://arstechnica.com/open-source/reviews/2009/03/hands-on-gnome-226-brings-incremental-improvement.ars">评论</a>了GNOME 2.26中的组件改进，发布了一份详细的<a href="http://arstechnica.com/open-source/guides/2009/03/programming-guide-the-new-text-entry-features-in-gtk-216.ars">代码示例编程指南</a>，向开发者演示如何利用GTK+ 2.16的新特性。
+➜Novell发布SUSE Linux Enterprise 11
+https://www.solidot.org/story?sid=10463	15120
+<a href="http://szlug.org/">DNA24</a> 写道 "Novell昨天<a href="http://www.novell.com/news/press/novell-ships-suse-linux-enterprise-11/">发布</a>了Linux最新旗舰企业版本<a href="http://news.softpedia.com/news/Novell-Launches-SUSE-Linux-Enterprise-11-107649.shtml">SUSE Linux 11</a>，包括SUSE Linux Enterprise Server（SLES）11和SUSE Linux Enterprise Desktop（SLED）11，这是自从2006年7月份SUSE Linux 10发布后的首次重大版本升级。
+<i>
+SUSE Linux 11基于Linux 2.6.27内核，内置Xen Hypervisor 3.3虚拟工具，支持x86、x64、64位Itanium、64位Power和大型机处理器，IBM的Power6处理器和AMD的四核心Opteron处理器以及Intel的“Nehalem EP”Xeon处理器。新特性包括首次新增了对Mono扩展的支持，允许使用C#编写的应用和.NET架构在非Windows平台上运行，支持聚类产品High Availability Extension，OpenOffice 3.0，Firefox 3.0浏览器，支持微软Silverlight、Flash、Java和智能卡，邮件系统Evolution、日历、即时通信客户端Pidgin和媒体播放器Banshee等。</i>
+➜警察突袭Wikileaks.de域名拥有者之家
+https://www.solidot.org/story?sid=10464	20160
+2009年3月24日晚上9点左右，7位德国德累斯顿市警察和4位耶拿市警察<a href="http://wikileaks.org/wiki/Police_raid_home_of_Wikileaks.de_domain_owner_over_censorship_lists">突袭了Wikileaks.de域名拥有者Theodor Reppe的家</a>。根据警方文档，搜索理由是“散播色情材料”和“证据发现（discovery of evidence）”。<i>
+Theodor Reppe注册了Wikileaks.de域名，捐给Wikileaks作为德国镜像使用，它保存了Wikileaks公开的部分泄密材料，但Reppe先生本人并没有参与网站运作，他还维护着德国最受欢迎的<a href="https://morphium.info/">Tor代理服务器</a>之一，但警察的搜索看来只与Wikileaks有关。Wikileaks最近公开了泰国、澳大利亚、丹麦和其它国家的网络审查黑名单，名单中包含了儿童色情网站链接。德国警察向Reppe先生要求Wikileaks.de域名密码，试图关闭该网站。此次事件似乎与最近有争议的儿童色情管制议题有关，德国家庭部长Ursula von der Leyen呼吁要建立德国版的防火长城。目前Wikileaks.de并未受影响。</i>
+➜QQ邮箱拦截用户邮件
+https://www.solidot.org/story?sid=10465	22320
+博客Jason Ng做了一项试验：用Gmail分别向QQmail发送两封邮件，第一封含有Youtube，后一封没有，他的意图是<a href="http://www.kenengba.com/post/781.html">调查国内的邮箱如QQmail是否可靠</a>。结果QQmail邮箱内只收到第二封邮件，第一封邮件疑似被拦截了。<i>
+作者共测试了两个回合，含有Youtube关键词的邮件都丢失了。作者的结论是国内的电子邮件服务供应商审查用户的邮件，显然侵犯了用户的隐私，不适合作为工作等重要的通信交流用途使用。</i>
+➜Wietse Venema和创作共用获自由软件年度奖
+https://www.solidot.org/story?sid=10466	24600
+自由软件基金会（FSF）宣布了<a href="http://www.fsf.org/news/2008_free_software_awards">自由软件年度大奖的获胜者</a>。<i>
+创作共用（<a href="http://creativecommons.org/">Creative Commons</a>）获得了社会公益项目奖，前几届的获奖者分别是维基百科（2005）、Sahana (2006)、Groklaw（2007）。<br>
+Postfix邮件服务器的作者、荷兰程序员和物理学家<a href="http://en.wikipedia.org/wiki/Wietse_Venema">Wietse Venema</a>博士获得自由软件推动奖（Advancement of Free Software），他加入了Larry Wall（1998），Miguel de Icaza（1999），Brian Paul（2000），Guido van Rossum（2001），Lawrence Lessig（2002），Alan Cox（2003），Theo de Raadt（2004），Ted Ts'o（2005），Andrew Tridgell（2006），Harald Welte（2007）等著名自由软件开发者之列。</i>
+➜真正开放的公司
+https://www.solidot.org/story?sid=10467	27000
+<a href="http://e-texteditor.com/blog/2009/opencompany">E文本编辑器</a>的作者应用开源原则将他的公司转变成一家<a href="http://tech.slashdot.org/article.pl?sid=09/03/24/172202&amp;art_pos=14">开放公司</a>。不仅仅是释放源代码这么简单，公司本身也将完全的开放：不再有Boss或雇员的概念。任何人都可以在任何时间加入，在他们发现合适的时候，做他们发现的感兴趣的任务。他的目标是实现真正的“自由度零”：由你自己决定想做的工作的自由。
+➜黑猩猩大脑内有个内置GPS
+https://www.solidot.org/story?sid=10468	30000
+《新科学家》<a href="http://www.newscientist.com/article/dn16744-chimps-use-geometry-to-navigate-the-jungle.html?DCMP=OTC-rss&amp;nsref=online-news">报道</a>（<a href="http://tech.qq.com/a/20090313/000157.htm">腾讯中文</a>），欧洲研究人员发现黑猩猩有个内建的大脑GPS，能在它们的活动范围内创造一个虚拟的几何化心象地图，使它们在点对点的移动中保持近乎直线行进。<i>
+使用GPS，两位灵长类行为学家在非洲一处国家公园跟随15只黑猩猩长达217天，他们发现黑猩猩能基于几何坐标系建立心象地图为方向导航，他们认为黑猩猩并不依赖于像溪流等特殊地形作为导航路标。事实上，当黑猩猩从一棵树跳跃到另一棵树时，已经提前几棵树制定好了跳跃路线。
+<a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6W9W-4VRWNNM-4&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=73b599d37a102b74cd0ae4616bdea81f">报告</a>(摘要)发表在《动物行为》杂志上。</i>
+➜OpenGL 3.1规范发布
+https://www.solidot.org/story?sid=10469	32400
+9个月前<a href="http://www.khronos.org/opengl/">Khronos Group</a>发布了<a href="__SLASHLINK__" sect="developers" sid="08/08/12/0640231" sn="article" tid="75">OpenGL 3.0规格</a>，引入了GL着色语言1.3版（GLSL v1.3），顶点数组对象，纹理阵列，更灵活的帧缓冲对象等诸多图形特性，但变动不大的API却令开发者们感到失望。<i>
+现在它<a href="http://www.phoronix.com/scan.php?page=news_item&amp;px=NzE2Nw">正式发布了OpenGL 3.1</a>，主要特性<a href="http://www.khronos.org/news/press/releases/khronos-releases-streamlined-opengl-3.1-specification/">包括</a>：GLSL更新到V1.4版，新的纹理缓存对象，统一缓冲对象，CopyBuffer API等等，规格文档可从官网<a href="http://www.opengl.org/registry/doc/glspec31.20090324.pdf">下载</a>。除了OpenGL 3.1之外，Khronos Group还宣布了针对移动和嵌入式音频处理器的工业规格<a href="http://www.khronos.org/news/press/releases/khronos-group-releases-opensl-es-1.0-specification-for-portable-mobile/">OpenSL ES 1.0</a>，以及<a href="http://www.khronos.org/news/press/releases/khronos-launches-initiative-for-free-standard-for-accelerated-3d-on-web/">Web 3D加速API</a>——Mozilla、Google等企业将与Khronos Group合作把OpenGL和OpenGL ES 2.0带入浏览器。</i>
+➜德国校园枪击事件后警方想要禁暴力游戏
+https://www.solidot.org/story?sid=10471	35400
+2009年3月11日德国温嫩登一高中校园发生了一起<a href="http://zh.wikipedia.org/wiki/%E6%B8%A9%E5%AB%A9%E7%99%BB%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88">枪击案</a>，共造成包括凶手在内的16人死亡，有两名警察被射伤。枪击事件后的调查发现这位17岁的凶手是乒乓球爱好者，是《反恐精英》的粉丝，喜好搜集恐怖片，事发前晚还在玩《Far Cry 2》。<i>
+此事在德国引起了<a href="http://games.slashdot.org/article.pl?sid=09/03/23/2041219&amp;art_pos=31">极大争论</a>：首先，德国百货公司巨头Galeria Kaufhof决定停止销售<a href="http://www.gamasutra.com/php-bin/news_index.php?story=22839">成人级的视频游戏和电影</a>——从4月份起，任何18+的视频游戏和电影DVD都不再出售。接着，德国社会事务大臣表示应该限制容易上瘾的游戏，如《魔兽世界》<a href="http://tjgame.enorth.com.cn/system/2009/03/25/003938546.shtml">应定为成人游戏</a>。而<a href="http://www.joystiq.com/2009/03/23/chief-of-germanys-national-police-union-wants-to-ban-violent-ga/">德国德国黑森州警察工会称</a>，“没有杀人游戏世界不会更糟。”</i>
+➜FPS Games for Linuxer
+https://www.solidot.org/story?sid=10470	35460
+<a href="http://www.ownlinux.cn/">OwnLinux.cn</a> 写道 "<a href="http://www.ownlinux.cn/2009/03/24/fps-games-for-linuxer/">在Linux中大型的FPS（第一人称射击游戏）并不少见，但是打开之后都是庞然大物</a>，喔，而且走来转去，我玩一下就眼花，玩一会就头晕，还是看着有点人 模人样的心里实在，打打杀杀起来也觉得心里过瘾，着实的有意境，有意思（怎么感觉起来像是施虐狂人一个）。CS在Windows中算是比较常见的射击游 戏，那么在Linux中能不能玩呢，当然可以。Urban Terror以及AssaultCube就能够让我们尽情的即时火拼一番,而Savage 2既能体验即时战略又能痛快的来个第一人称射击，最后则奉上flash大型游戏Commando2。"
+➜惠普发布免费Adobe Flash漏洞扫描器
+https://www.solidot.org/story?sid=10472	37200
+惠普的Web安全研究组<a href="http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2009/03/20/exposing-flash-application-vulnerabilities-with-swfscan.aspx">推出</a>了免费Flash安全工具<a href="http://www.hp.com/go/swfscan">SWFScan</a>。研究人员反编译了所有版本的Flash，发现了超过60个安全漏洞。扫描器能从Flash程序中探测到如XSS（跨站脚本攻击），SQL注入，硬编译（hard-coded）认证证书，弱加密，不安全函数调用，跨域权限升级，和违反Adobe公司安全建议等各类问题。互联网上针对Flash的攻击正在扩大化，惠普称有<a href="http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2009/03/20/hp-swfscan-faq.aspx">35%以上</a>的SWF应用程序违反了Adobe的安全建议。
